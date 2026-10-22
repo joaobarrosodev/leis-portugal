@@ -1,0 +1,436 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:221355:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1992-224723197",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-1992-221355",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1992-10-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224723357",
+    "224723304",
+    "224723305",
+    "224723306",
+    "224723307",
+    "224723308",
+    "224723309",
+    "224723310"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:488491:por",
+     "title": "Lei n.º 90/2009",
+     "published": "2009-08-31",
+     "dre_path": "/dr/detalhe/lei/90-2009-488491"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "224723339",
+    "224723340",
+    "224723341",
+    "224723342",
+    "224723343",
+    "224723344",
+    "224723345",
+    "224723346",
+    "224723347"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70748601:por",
+     "title": "Decreto-Lei n.º 246/2015",
+     "published": "2015-10-20",
+     "dre_path": "/dr/detalhe/decreto-lei/246-2015-70748601"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "224723339",
+    "224723348",
+    "224723354",
+    "224723355",
+    "224723356",
+    "224723349",
+    "224723350",
+    "224723346",
+    "224723347"
+   ]
+  },
+  {
+   "date": "2023-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224661317:por",
+     "title": "Decreto Legislativo Regional n.º 39/2023/A",
+     "published": "2023-11-23",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/39-2023-224661317"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "224723357",
+    "224723358",
+    "224723359",
+    "224723360",
+    "224723361",
+    "224723362",
+    "224723363",
+    "224723364",
+    "224723365"
+   ]
+  }
+ ],
+ "fragments": {
+  "224723357": {
+   "fragment_id": "224723198",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-11-23",
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 21/92/A\n\nMedidas de apoio aos indivíduos portadores da doença do machado\n\nConsiderando que na Região Autónoma dos Açores a prevalência da doença do machado, também conhecida como de Joseph, é elevada;\n\nConsiderando que é uma doença hereditária que afecta o sistema nervoso central e que acarreta uma incapacidade motora progressiva;\n\nConsiderando que, por último, importa estabelecer medidas especiais de apoio aos indivíduos portadores da doença:\n\nA Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317) A revogação do presente Decreto Legislativo Regional produz efeitos com a aprovação e entrada em vigor do Orçamento da Região Autónoma dos Açores para o ano de 2024."
+  },
+  "224723304": {
+   "fragment_id": "224723199",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito pessoal\n\nO presente diploma aplica-se aos doentes portadores da doença do machado (ou de Joseph) recenseados nos centros de saúde da Região."
+  },
+  "224723305": {
+   "fragment_id": "224723200",
+   "type": 11,
+   "heading": "Artigo 2.º — Pensão de invalidez",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pensão de invalidez\n\nAos cidadãos acometidos pela doença do machado (ou de Joseph) é garantido o acesso a uma pensão de invalidez, no âmbito do regime geral da segurança social, desde que reúnam cumulativamente as seguintes condições:\n\na) Estejam recenseados nos centros de saúde da Região;\n\nb) Sofram de uma incapacidade funcional igual ou superior a 70%, nos termos da Tabela Nacional de Incapacidades."
+  },
+  "224723306": {
+   "fragment_id": "224723201",
+   "type": 11,
+   "heading": "Artigo 3.º — Verificação de incapacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Verificação de incapacidade\n\nA incapacidade é certificada pelas comissões de verificação de incapacidades permanentes, no âmbito dos Centros de Prestações Pecuniárias de Ponta Delgada, Angra do Heroísmo e Horta, devendo para o eleito a situação invalidante ser atestada pelo menos por dois médicos dos centros de saúde da Região, em impresso próprio e com as respectivas assinaturas reconhecidas notarialmente."
+  },
+  "224723307": {
+   "fragment_id": "224723202",
+   "type": 11,
+   "heading": "Artigo 4.º — Subsídio de acompanhante",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Subsídio de acompanhante\n\n1 - Aos doentes que se encontrem nas condições descritas no artigo anterior é atribuído um subsídio de acompanhante.\n\n2 - Têm igualmente direito a este subsídio os doentes que, independentemente do grau de incapacidade, deixem de ter, em consequência da doença do machado (ou de Joseph), a possibilidade de locomoção.\n\n3 - A impossibilidade de locomoção é atestada e certificada nos termos do artigo anterior.\n\n4 - O montante do subsídio de acompanhante será definido no âmbito da regulamentação prevista no artigo 6.º do presente diploma."
+  },
+  "224723308": {
+   "fragment_id": "224723203",
+   "type": 11,
+   "heading": "Artigo 5.º — Material clínico de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Material clínico de apoio\n\n1 - Aos doentes será concedido todo o material clínico de apoio para compensar as desvantagens motoras, designadamente cadeiras de rodas, canadianas, calçado ortopédico, almofadas anti-escaras, algálias, sacos para recolha de urina e fraldas.\n\n2 - O material clínico de apoio referido no número anterior é concedido gratuitamente pelos centros de saúde e, no caso de ser recuperável, a título devolutivo."
+  },
+  "224723309": {
+   "fragment_id": "224723204",
+   "type": 11,
+   "heading": "Artigo 6.º — Outro material clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Outro material clínico\n\nA prescrição médica aos doentes, nomeadamente de analgésicos, anti-espásticos, vitaminas e todo o material de planeamento familiar, será fornecida gratuitamente pelos centros de saúde."
+  },
+  "224723310": {
+   "fragment_id": "224723205",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nO presente diploma será regulamentado no prazo de 120 dias."
+  },
+  "224723339": {
+   "fragment_id": "224723198",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "Decreto Legislativo Regional n.º 21/92/A\n\nMedidas de apoio aos indivíduos portadores da doença do machado\n\nConsiderando que na Região Autónoma dos Açores a prevalência da doença do machado, também conhecida como de Joseph, é elevada;\n\nConsiderando que é uma doença hereditária que afecta o sistema nervoso central e que acarreta uma incapacidade motora progressiva;\n\nConsiderando que, por último, importa estabelecer medidas especiais de apoio aos indivíduos portadores da doença:\n\nA Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723340": {
+   "fragment_id": "224723199",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito pessoal",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito pessoal\n\nO presente diploma aplica-se aos doentes portadores da doença do Machado Joseph recenseados nos centros de saúde da Região.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723341": {
+   "fragment_id": "224723200",
+   "type": 11,
+   "heading": "Artigo 2.º — Pensão de invalidez",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 2.º — Pensão de invalidez\n\nAos cidadãos acometidos pela doença do Machado Joseph é garantido o acesso a uma pensão de invalidez, no âmbito do regime geral da segurança social, desde que reúnam cumulativamente as seguintes condições:\n\na) Estejam recenseados nos centros de saúde da Região;\n\nb) Sofram de uma incapacidade funcional igual ou superior a 70%, nos termos da Tabela Nacional de Incapacidades.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723342": {
+   "fragment_id": "224723201",
+   "type": 11,
+   "heading": "Artigo 3.º — Verificação de incapacidade",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Verificação de incapacidade\n\nA incapacidade é certificada pelas comissões de verificação de incapacidades permanentes, no âmbito dos Centros de Prestações Pecuniárias de Ponta Delgada, Angra do Heroísmo e Horta, devendo para o eleito a situação invalidante ser atestada pelo menos por dois médicos dos centros de saúde da Região, em impresso próprio e com as respectivas assinaturas reconhecidas notarialmente.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723343": {
+   "fragment_id": "224723202",
+   "type": 11,
+   "heading": "Artigo 4.º — Subsídio de acompanhante",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 4.º — Subsídio de acompanhante\n\n1 - Aos doentes que se encontrem nas condições descritas no artigo anterior é atribuído um subsídio de acompanhante.\n\n2 - Têm igualmente direito a este subsídio os doentes que, independentemente do grau de incapacidade, deixem de ter, em consequência da doença do Machado Joseph, a possibilidade de locomoção.\n\n3 - A impossibilidade de locomoção é atestada e certificada nos termos do artigo anterior.\n\n4 - O montante do subsídio de acompanhante será definido no âmbito da regulamentação prevista no artigo 6.º do presente diploma.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723344": {
+   "fragment_id": "224723203",
+   "type": 11,
+   "heading": "Artigo 5.º — Material clínico de apoio",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Material clínico de apoio\n\n1 - Aos doentes será concedido todo o material clínico de apoio para compensar as desvantagens motoras, designadamente cadeiras de rodas, canadianas, calçado ortopédico, almofadas anti-escaras, algálias, sacos para recolha de urina e fraldas.\n\n2 - O material clínico de apoio referido no número anterior é concedido gratuitamente pelos centros de saúde e, no caso de ser recuperável, a título devolutivo.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723345": {
+   "fragment_id": "224723204",
+   "type": 11,
+   "heading": "Artigo 6.º — Outro material clínico",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Outro material clínico\n\nA prescrição médica aos doentes, nomeadamente de analgésicos, anti-espásticos, vitaminas e todo o material de planeamento familiar, será fornecida gratuitamente pelos centros de saúde.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723346": {
+   "fragment_id": "224723205",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nO presente diploma será regulamentado no prazo de 120 dias.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723347": {
+   "fragment_id": "224723206",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 10 de Setembro de 1992.\n\nO Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.\n\nAssinado em Angra do Heroísmo em 1 de Outubro de 1992.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723348": {
+   "fragment_id": "224723199",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito pessoal",
+   "in_force_from": null,
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito pessoal\n\nO presente diploma aplica-se aos doentes portadores da doença do Machado Joseph recenseados nos centros de saúde da Região.\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723354": {
+   "fragment_id": "224723200",
+   "type": 11,
+   "heading": "Artigo 2.º — Pensão de invalidez",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 2.º — Pensão de invalidez\n\nAos cidadãos acometidos pela doença do Machado Joseph é garantido o acesso a uma pensão de invalidez, no âmbito do regime geral da segurança social, desde que reúnam cumulativamente as seguintes condições:\n\na) Estejam recenseados nos centros de saúde da Região;\n\nb) Sofram de uma incapacidade funcional igual ou superior a 70%, nos termos da Tabela Nacional de Incapacidades.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723355": {
+   "fragment_id": "224723201",
+   "type": 11,
+   "heading": "Artigo 3.º — Verificação de incapacidade",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Verificação de incapacidade\n\nA incapacidade é certificada pelas comissões de verificação de incapacidades permanentes, no âmbito dos Centros de Prestações Pecuniárias de Ponta Delgada, Angra do Heroísmo e Horta, devendo para o eleito a situação invalidante ser atestada pelo menos por dois médicos dos centros de saúde da Região, em impresso próprio e com as respectivas assinaturas reconhecidas notarialmente.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723356": {
+   "fragment_id": "224723202",
+   "type": 11,
+   "heading": "Artigo 4.º — Subsídio de acompanhante",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 4.º — Subsídio de acompanhante\n\n1 - Aos doentes que se encontrem nas condições descritas no artigo anterior é atribuído um subsídio de acompanhante.\n\n2 - Têm igualmente direito a este subsídio os doentes que, independentemente do grau de incapacidade, deixem de ter, em consequência da doença do Machado Joseph, a possibilidade de locomoção.\n\n3 - A impossibilidade de locomoção é atestada e certificada nos termos do artigo anterior.\n\n4 - O montante do subsídio de acompanhante será definido no âmbito da regulamentação prevista no artigo 6.º do presente diploma.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723349": {
+   "fragment_id": "224723203",
+   "type": 11,
+   "heading": "Artigo 5.º — Material clínico de apoio",
+   "in_force_from": null,
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Material clínico de apoio\n\n1 - Aos doentes será concedido todo o material clínico de apoio para compensar as desvantagens motoras, designadamente cadeiras de rodas, canadianas, calçado ortopédico, almofadas anti-escaras, algálias, sacos para recolha de urina e fraldas.\n\n2 - O material clínico de apoio referido no número anterior é concedido gratuitamente pelos centros de saúde e, no caso de ser recuperável, a título devolutivo.\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723350": {
+   "fragment_id": "224723204",
+   "type": 11,
+   "heading": "Artigo 6.º — Outro material clínico",
+   "in_force_from": null,
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Outro material clínico\n\nA prescrição médica aos doentes, nomeadamente de analgésicos, anti-espásticos, vitaminas e todo o material de planeamento familiar, será fornecida gratuitamente pelos centros de saúde.\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723358": {
+   "fragment_id": "224723199",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito pessoal",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito pessoal\n\nO presente diploma aplica-se aos doentes portadores da doença do Machado Joseph recenseados nos centros de saúde da Região.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723359": {
+   "fragment_id": "224723200",
+   "type": 11,
+   "heading": "Artigo 2.º — Pensão de invalidez",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 2.º — Pensão de invalidez\n\nAos cidadãos acometidos pela doença do Machado Joseph é garantido o acesso a uma pensão de invalidez, no âmbito do regime geral da segurança social, desde que reúnam cumulativamente as seguintes condições:\n\na) Estejam recenseados nos centros de saúde da Região;\n\nb) Sofram de uma incapacidade funcional igual ou superior a 70%, nos termos da Tabela Nacional de Incapacidades.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723360": {
+   "fragment_id": "224723201",
+   "type": 11,
+   "heading": "Artigo 3.º — Verificação de incapacidade",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Verificação de incapacidade\n\nA incapacidade é certificada pelas comissões de verificação de incapacidades permanentes, no âmbito dos Centros de Prestações Pecuniárias de Ponta Delgada, Angra do Heroísmo e Horta, devendo para o eleito a situação invalidante ser atestada pelo menos por dois médicos dos centros de saúde da Região, em impresso próprio e com as respectivas assinaturas reconhecidas notarialmente.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723361": {
+   "fragment_id": "224723202",
+   "type": 11,
+   "heading": "Artigo 4.º — Subsídio de acompanhante",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+   ],
+   "markdown": "###### Artigo 4.º — Subsídio de acompanhante\n\n1 - Aos doentes que se encontrem nas condições descritas no artigo anterior é atribuído um subsídio de acompanhante.\n\n2 - Têm igualmente direito a este subsídio os doentes que, independentemente do grau de incapacidade, deixem de ter, em consequência da doença do Machado Joseph, a possibilidade de locomoção.\n\n3 - A impossibilidade de locomoção é atestada e certificada nos termos do artigo anterior.\n\n4 - O montante do subsídio de acompanhante será definido no âmbito da regulamentação prevista no artigo 6.º do presente diploma.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 246/2015 - Diário da República n.º 205/2015, Série I de 2015-10-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-2015-70748601), em vigor a partir de 2016-01-01\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28/93 - Diário da República n.º 49/1993, 4º Suplemento, Série I-B de 1993-02-27](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-1993-485473), produz efeitos a partir de 1992-10-26"
+  },
+  "224723362": {
+   "fragment_id": "224723203",
+   "type": 11,
+   "heading": "Artigo 5.º — Material clínico de apoio",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Material clínico de apoio\n\n1 - Aos doentes será concedido todo o material clínico de apoio para compensar as desvantagens motoras, designadamente cadeiras de rodas, canadianas, calçado ortopédico, almofadas anti-escaras, algálias, sacos para recolha de urina e fraldas.\n\n2 - O material clínico de apoio referido no número anterior é concedido gratuitamente pelos centros de saúde e, no caso de ser recuperável, a título devolutivo.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723363": {
+   "fragment_id": "224723204",
+   "type": 11,
+   "heading": "Artigo 6.º — Outro material clínico",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Outro material clínico\n\nA prescrição médica aos doentes, nomeadamente de analgésicos, anti-espásticos, vitaminas e todo o material de planeamento familiar, será fornecida gratuitamente pelos centros de saúde.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 304/2011 - Diário da República n.º 144/2011, Série I de 2011-07-28](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/304-2011-669538), produz efeitos a partir de 2010-01-01\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723364": {
+   "fragment_id": "224723205",
+   "type": 11,
+   "heading": "Artigo 7.º — Regulamentação",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Regulamentação\n\nO presente diploma será regulamentado no prazo de 120 dias.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  },
+  "224723365": {
+   "fragment_id": "224723206",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-11-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23",
+    "Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+   ],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 10 de Setembro de 1992.\n\nO Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.\n\nAssinado em Angra do Heroísmo em 1 de Outubro de 1992.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.\n\n> Revogado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 39/2023/A - Diário da República n.º 227/2023, Série I de 2023-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-224661317), em vigor a partir de 2023-11-23\n\n> Revogado pelo/a Artigo 13.º do/a [Lei n.º 90/2009 - Diário da República n.º 168/2009, Série I de 2009-08-31](https://diariodarepublica.pt/dr/detalhe/lei/90-2009-488491), em vigor a partir de 2010-01-01"
+  }
+ }
+}

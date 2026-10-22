@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:223590:por
+title: Decreto-Lei n.º 87/2004
+short_title: null
+summary: Repristina os artigos 8.º, 9.º, 12.º e 15.º do Decreto-Lei n.º 261/91, de 25 de Julho, que aprova o regime jurídico
+  das situações de pré-reforma
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Segurança Social e do Trabalho
+proposing_entity: null
+official_number: 87/2004
+official_date: null
+publication_date: '2004-04-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 91/2004, Série I-A de 2004-04-17
+  number: '91'
+  series: I
+  supplement: null
+  pages: 2348 - 2348
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/091a00/23482348.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/87/2004/04/17/p/dre/pt/html
+  oj: null
+  dre: '223590'
+  dre_path: /dr/detalhe/decreto-lei/87-2004-223590
+  internal: pt:dre:223590:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2004-223590
+  metadata_url: https://data.dre.pt/eli/dec-lei/87/2004/04/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-2004-223590
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-02-25T00:00:00Z'
+integrity:
+  source_sha256: 25bed5d5e673a1c6c3a3e4c0d0708435407e7b0a7e3d90baf3416eafbff20d34
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-87-223590.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Contribuições da Segurança Social
+- Reforma Antecipada
+- Pré-reforma
+- Madeira.região Autónoma
+- Regime Jurídico
+- Segurança Social
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:158316443:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/261/1991/07/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/99/2003/08/27/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 87/2004
+
+de 17 de Abril
+
+A [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), de 27 de Agosto, aprovou o Código do Trabalho, iniciando a concretização do compromisso expresso do XV Governo Constitucional em reformar a legislação laboral, adaptando-a às novas necessidades da organização do trabalho e conferindo-lhe a adequação necessária para enfrentar os desafios inerentes ao reforço da produtividade e da competividade que contribuam para um sustentado desenvolvimento social e económico do País.
+
+Era imperioso reorganizar e sistematizar a profusa e dispersa legislação laboral vigente. Neste contexto, o capítulo VII do Código do Trabalho relativo às vicissitudes contratuais, regula na subsecção V da secção IV a situação da pré-reforma, designadamente nos artigos 356.º a 362.º Por se integrarem no Código do Trabalho, as disposições legais em análise reproduzem o preceituado no [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Julho, mormente no que se refere à relação entre trabalhador e empregador. Todavia, a condição de trabalhador e de empregador compreende também direitos e deveres em matéria de segurança social que não devem ser descurados e que importa salvaguardar.
+
+O imperativo demográfico tende a tornar cada vez mais evidente a necessidade, que o Governo também reconhece, de rever e actualizar brevemente as características do regime jurídico da pré-reforma. Não obstante a concretização desse objectivo, importa, neste momento, acautelar os direitos e os deveres dos trabalhadores e empregadores no âmbito da pré-reforma que decorriam do [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Julho, revogado pela [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), de 27 de Agosto, que aprovou o Código do Trabalho. Nesse sentido, o presente diploma visa consagrar uma norma que retoma o disposto nos artigos 8.º, 9.º, 12.º e 15.º do referido decreto-lei, repristinando-os e retroagindo os respectivos efeitos a 1 de Dezembro de 2003, data de entrada em vigor do Código do Trabalho, aprovado pela [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), de 27 de Agosto.
+
+Foram observados os procedimentos decorrentes dos artigos 524.º e seguintes do Código do Trabalho, aprovado pela [Lei n.º 99/2003](https://diariodarepublica.pt/dr/detalhe/lei/99-2003-632906), de 27 de Agosto.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único — Norma repristinatória
+
+São repristinados os artigos 8.º, 9.º, 12.º e 15.º do [Decreto-Lei n.º 261/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1991-667887), de 25 de Julho, produzindo efeitos desde 1 de Dezembro de 2003.
+
+Visto e aprovado em Conselho de Ministros de 11 de Março de 2004. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António José de Castro Bagão Félix.
+
+**Promulgado em 5 de Abril de 2004.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 5 de Abril de 2004.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**

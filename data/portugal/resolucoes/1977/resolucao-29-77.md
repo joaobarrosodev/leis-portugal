@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:141425:por
+title: Resolução n.º 29/77
+short_title: null
+summary: Sanciona para 1977 o plano de importações, que poderá totalizar 27500600 contos
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 29/77
+official_date: null
+publication_date: '1977-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1977, Série I de 1977-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 194 - 194
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/02/03000/01940194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '141425'
+  dre_path: /dr/detalhe/resolucao/29-1977-141425
+  internal: pt:dre:141425:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/29-1977-141425
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/29-1977-141425
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-04-30T00:00:00Z'
+integrity:
+  source_sha256: c3a19c6c1e141e0c33130d03f48f76fa506e6b004d442b697d089b9b67e7ccfb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-29-141425.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:251856:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 29/77
+
+O abastecimento de produtos de consumo essencial e, cumulativamente, a necessidade de contenção do respectivo nível de preços constitui uma das preocupações fundamentais do Governo.
+
+Por outro lado, dado que a produção interna é insuficiente para fazer face à procura nacional, há que recorrer à importação, tendo esta, no entanto, que ser definida por forma a ser compatível com o objectivo de contenção do deficit externo, conforme consta da lei sobre as grandes opções do Plano.
+
+Por último, o Governo reconhece indispensável que o planeamento das importações se faça de modo a escalonar adequadamente a utilização dos meios externos de pagamentos.
+
+O Conselho de Ministros, reunido em 13 de Janeiro de 1977, resolveu:
+
+a) Sancionar para 1977 o plano de importações, que poderá totalizar 27500600 contos, repartidos do modo seguinte:
+
+... Contos
+
+Carne e lacticínios (JNPP) ... 4165500
+
+Peixe (CRCB) ... 2709000
+
+Oleaginosas (IAPO) ... 6000000
+
+Cereais (Instituto dos Cereais) ... 10830000
+
+Batata (JNF) ... 1132000
+
+Açúcar e álcool (AGA) ... 2664100
+
+b) Autorizar os organismos responsáveis pelas importações referidas no mapa anexo a promover desde já as aquisições até 70% dos totais sancionados;
+
+c) Proceder a revisões trimestrais do plano agora sancionado, ficando os Ministérios da Tutela encarregados de providenciar junto dos organismos respectivos no sentido da obtenção da indispensável informação e sua apresentação em Conselho de Ministros para os Assuntos Económicos.
+
+Presidência do Conselho de Ministros, 13 de Janeiro de 1977. - O Primeiro-Ministro, Mário Soares.

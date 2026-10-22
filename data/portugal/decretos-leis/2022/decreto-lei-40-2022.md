@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:184420992:por
+title: Decreto-Lei n.º 40/2022
+short_title: null
+summary: Cria o mapa das coberturas das redes de comunicações eletrónicas fixas e móveis
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 40/2022
+official_date: null
+publication_date: '2022-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/2022, Série I de 2022-06-06
+  number: '109'
+  series: I
+  supplement: null
+  pages: 4 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/06/10900/0000400007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/40/2022/06/06/p/dre/pt/html
+  oj: null
+  dre: '184420992'
+  dre_path: /dr/detalhe/decreto-lei/40-2022-184420992
+  internal: pt:dre:184420992:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2022-184420992
+  metadata_url: https://data.dre.pt/eli/dec-lei/40/2022/06/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2022-184420992
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-06-06T00:00:00Z'
+integrity:
+  source_sha256: bcfaafc73527d33fed95807aecf26464501751a46530461a931d40029ced890d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-40-184420992.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autoridade Nacional de Segurança
+- Tecnologia da Informação
+- Serviço de Telecomunicações Móveis
+- Comunicações Eletrónicas
+- Contra-ordenação
+- Definição de Competências
+- Mudança Tecnológica
+- Sociedade da Informação
+- Publicitação
+- Internet
+- Sistema de Informação
+- Iniciativa Nacional para a Banda Larga
+- Plataforma Eletrónica
+- Autoridade Nacional de Comunicações
+- Portal de Dados Abertos da Administração Pública
+- Operador de Rede de Comunicações Eletrónicas
+- Rede Fixa de Comunicações Eletrónicas
+- Rede Móvel de Comunicações Eletrónicas
+relationships:
+- type: cites
+  target: celex:32018L1972
+  label: null
+  source: http://data.europa.eu/eli/dir/2018/1972/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/99/2009/09/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/18/2020/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2020/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/30/2020/04/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/7-a/2020/02/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/7-a/2020/02/07/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 40/2022
+
+de 6 de junho
+
+O Programa do XXIII Governo Constitucional atribui especial relevância à transição digital como um instrumento essencial da estratégia de desenvolvimento e de coesão territorial do País, pelo que é crucial o desenvolvimento de instrumentos que permitam conhecer e tornar público o estado de desenvolvimento das infraestruturas, nomeadamente através de mapas atualizados de cobertura das redes de comunicações eletrónicas fixas e móveis.
+
+O conhecimento desta informação é igualmente fundamental para o Estado ter capacidade de tomar decisões, sustentadas em informação técnica, designadamente no que diz respeito a investimentos alavancados em instrumentos de financiamento europeus, bem como para as diferentes entidades públicas relativamente às áreas geográficas e de política pública da sua competência.
+
+Em linha com o Programa do Governo, o Plano de Ação para a Transição Digital, aprovado pela [Resolução do Conselho de Ministros n.º 30/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/30-2020-132133788), de 21 de abril, coloca em marcha um conjunto de iniciativas emblemáticas estruturadas em três pilares dedicados a pessoas, empresas e Estado, e complementados por uma dimensão de catalisadores da transição digital, onde a questão das infraestruturas de comunicações eletrónicas é fundamental.
+
+Por este motivo, no âmbito da [Resolução do Conselho de Ministros n.º 7-A/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/7-a-2020-129106697), de 7 de fevereiro, que aprova a estratégia e calendarização da distribuição da quinta geração de comunicações móveis, foram determinadas exigentes obrigações de cobertura e de desenvolvimento de redes de comunicações eletrónicas, posteriormente refletidas no Regulamento do Leilão para a Atribuição de Direitos de Utilização de Frequências nas faixas dos 700 MHz, 900 MHz, 1800 MHz, 2,1 GHz, 2,6 GHz e 3,6 GHz, aprovado pelo Regulamento da Autoridade Nacional de Comunicações n.º 987-A/2020, de 5 de novembro. Por outro lado, a disponibilidade de um serviço de acesso à Internet de banda larga em todo o território e, em particular, nos territórios do Interior do País, é fundamental para a prossecução das ações propostas no Programa de Valorização do Interior, revisto pela [Resolução do Conselho de Ministros n.º 18/2020](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2020-130776793), de 27 de março, sendo que a informação atualizada regularmente sobre a cobertura das redes assume particular relevância.
+
+Adicionalmente, importa referir que a medida designada «mapa da rede móvel» foi prevista no Programa SIMPLEX+2017, do Governo, enquanto medida destinada a «disponibilizar um sistema informativo que permita ao cidadão em tempo real e num formato predefinido conhecer toda a informação relacionada com a cobertura da rede móvel no território nacional».
+
+Acresce que a situação de pandemia da doença COVID-19 e as medidas excecionais estabelecidas nesse âmbito demonstraram de forma determinante o papel essencial da digitalização e da conectividade na nossa sociedade.
+
+A aceleração deste movimento de digitalização, provocada por esta situação excecional, evidencia igualmente que o conhecimento, por parte dos cidadãos, empresas e outras instituições, da informação relacionada com a cobertura das redes das empresas que oferecem redes públicas de comunicações eletrónicas, assume uma natural e impressiva relevância.
+
+Cumpre, assim, implementar uma plataforma de informação, incluindo a solução «tem.REDE?» já existente, bem como o SIIA - Sistema de Informação de Infraestruturas Aptas, no sentido, nomeadamente, de permitir aos cidadãos, às empresas e ao próprio Estado conhecer não apenas a cobertura e a disponibilidade de conectividade em diferentes áreas na rede móvel como também na rede fixa, com um grau de pormenor que seja útil para, entre outros, apoiar a escolha da empresa que lhes oferece redes e serviços de comunicações eletrónicas.
+
+Esta medida está em linha com o disposto no Código Europeu das Comunicações Eletrónicas (CECE), estabelecido pela [Diretiva (UE) 2018/1972](https://data.europa.eu/eli/dir/2018/1972/oj?locale=pt), do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, quanto à necessidade de um levantamento geográfico sobre a cobertura das redes de comunicações eletrónicas, ainda em processo de transposição para o ordenamento jurídico nacional. De acordo com o CECE, o levantamento geográfico deve incluir a cobertura das redes de banda larga, tendo em vista a prossecução de funções da Autoridade Reguladora Nacional e de outras autoridades competentes neste âmbito.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação dos Operadores de Comunicações Eletrónicas, a Associação Nacional de Municípios Portugueses, a Autoridade Nacional de Comunicações, a Comissão Nacional de Proteção de Dados, a FIBROGLOBAL - Comunicações Electrónicas, S. A., e a Vantage Towers, S. A.
+
+Foi promovida a audição da Associação Nacional de Freguesias, da CLNX Portugal, S. A., e da DSTELECOM, S. A.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece as regras gerais aplicáveis à implementação de uma plataforma de informação relativa à cobertura das redes fixas e móveis das empresas que oferecem redes públicas de comunicações eletrónicas, doravante designadas por «operadores de redes de comunicações eletrónicas», no território nacional.
+
+###### Artigo 2.º — Plataforma de informação relativa à cobertura das redes fixas e móveis
+
+1 - Compete à Autoridade Nacional de Comunicações (ANACOM) disponibilizar a plataforma referida no artigo anterior, com a informação atualizada sobre as coberturas das redes de comunicações eletrónicas fixas e móveis no território nacional, que permita verificar a disponibilidade dos serviços de voz e de acesso à Internet, bem como, no caso da rede móvel, também dos serviços de short message services (SMS) e mobile message services (MMS).
+
+2 - Para efeitos do disposto no número anterior, a plataforma inclui a seguinte informação:
+
+a) Cobertura das redes fixas para o serviço de banda larga, com resolução ao nível do endereço e indicação das tecnologias e velocidades disponibilizadas;
+
+b) Cobertura das redes móveis para os serviços de voz, SMS e MMS e para os serviços de acesso à Internet, com uma resolução de 100 por 100 m e indicação das tecnologias e velocidades disponibilizadas;
+
+c) Cobertura das redes fixas para o serviço de voz e de acesso à Internet em banda estreita, com resolução ao nível do endereço e indicação das tecnologias e velocidades disponibilizadas;
+
+d) Representação do traçado integral da rede de transporte e rede de acesso, incluindo a capacidade do troço, quando aplicável;
+
+e) Representação do traçado marítimo dos cabos submarinos em território nacional, a capacidade dos troços e a localização dos pontos de amarração;
+
+f) Cobertura via satélite.
+
+3 - A consulta direta pelo público, na plataforma, abrange apenas a informação constante das alíneas a), b), c) e e) do número anterior, bem como da alínea f) do mesmo número quando, neste caso, a cobertura via satélite se destine à disponibilização de acesso à Internet ao utilizador.
+
+4 - Sem prejuízo do disposto no número anterior, a informação constante da alínea e) do n.º 2 apenas é suscetível de consulta direta pelo público quando se refira à representação gráfica dos cabos e da respetiva ancoragem, à área de amarração dos cabos submarinos em território nacional, bem como à respetiva capacidade dos troços, não sendo divulgada publicamente a representação exata do traçado marítimo dos mesmos e a morada exata da estação de cabos submarinos.
+
+5 - A disponibilização de informação ao público ao abrigo dos números anteriores deve salvaguardar as informações classificadas, nomeadamente relativas a infraestruturas críticas, a informação classificada ou sensível relativa às residências de titulares dos órgãos de soberania e de altos cargos públicos, aos postos diplomáticos estrangeiros em Portugal, às organizações internacionais sediadas em Portugal e a outros locais, edifícios ou infraestruturas considerados sensíveis, bem como a segredos comerciais das empresas, nos termos da legislação aplicável.
+
+6 - Para efeitos do disposto nos números anteriores, a plataforma deve possuir uma arquitetura que contemple a possibilidade de existirem diferentes níveis de acesso e de segurança, e ser objeto de certificação e acreditação por parte da Autoridade Nacional de Segurança, nos graus correspondentes a cada nível, em função da informação tratada.
+
+7 - A plataforma deve permitir:
+
+a) A comparação das coberturas das redes fixas e móveis dos diferentes operadores de redes de comunicações eletrónicas;
+
+b) A apresentação e visualização de outro tipo de informação, bem como de outros tipos de redes e serviços que venham a ser desenvolvidos posteriormente, considerados relevantes.
+
+8 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos legais, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve, sempre que possível, estar disponível em formato aberto, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.
+
+###### Artigo 3.º — Especificações técnicas
+
+1 - As especificações técnicas da informação a carregar na plataforma e a informação a transmitir pelos operadores de redes de comunicações eletrónicas são definidas por portaria dos membros do Governo responsáveis pelas áreas da digitalização e da modernização administrativa, das infraestruturas e da coesão territorial, sob proposta da ANACOM.
+
+2 - A proposta da ANACOM prevista no número anterior é precedida de consulta aos operadores de redes de comunicações eletrónicas.
+
+3 - No prazo de 10 dias úteis contado do termo da consulta referida no número anterior, a ANACOM remete a proposta prevista o n.º 1 aos membros do Governo responsáveis pelas áreas da digitalização e da modernização administrativa, das infraestruturas e da coesão territorial.
+
+4 - As especificações técnicas relativas à informação constante da plataforma podem ser alteradas pelo Governo, mediante proposta da ANACOM, nomeadamente, na decorrência da necessidade de acesso a outro tipo de informação, bem como de outro tipo de redes e serviços que venham a ser desenvolvidos posteriormente, considerados relevantes.
+
+5 - Sempre que se verifiquem incongruências na informação carregada na plataforma, a ANACOM pode determinar a sua correção, após análise conjunta com o operador de rede de comunicações eletrónicas em causa.
+
+###### Artigo 4.º — Obrigações dos operadores de redes de comunicações eletrónicas
+
+1 - Os operadores de redes de comunicações eletrónicas estão obrigados, nos termos e prazos a definir na portaria a que se refere o n.º 1 do artigo anterior, a:
+
+a) Carregar na plataforma a informação identificada no n.º 2 do artigo 2.º;
+
+b) No caso das redes móveis, transmitir à ANACOM a informação relativa aos modelos de propagação utilizados para o cálculo das coberturas;
+
+c) Manter atualizada a informação referida nas alíneas anteriores.
+
+2 - A informação carregada na plataforma e transmitida à ANACOM:
+
+a) É da exclusiva responsabilidade dos operadores de redes de comunicações eletrónicas;
+
+b) Não substitui a informação que os operadores de redes de comunicações eletrónicas devem submeter à ANACOM para efeitos de verificação do cumprimento de obrigações de cobertura a que estejam sujeitos, nem pode ser utilizada para avaliação do cumprimento das obrigações contratuais destes operadores perante os seus clientes.
+
+###### Artigo 5.º — Contraordenações
+
+1 - Constitui contraordenação grave, prevista e punida nos termos do artigo 7.º do Regime Quadro das Contraordenações do Setor das Comunicações, aprovado pela [Lei n.º 99/2009](https://diariodarepublica.pt/dr/detalhe/lei/99-2009-489497), de 4 de setembro, na sua redação atual, o incumprimento das obrigações previstas nas alíneas b) e c) do n.º 1 do artigo anterior.
+
+2 - Constitui contraordenação muito grave, prevista e punida nos termos do artigo 7.º do Regime Quadro das Contraordenações do Setor das Comunicações, o incumprimento da obrigação prevista na alínea a) do n.º 1 do artigo anterior, bem como o incumprimento de qualquer determinação da ANACOM emitida ao abrigo do disposto no n.º 5 do artigo 3.º
+
+3 - Às contraordenações previstas no presente decreto-lei é aplicável o Regime Quadro das Contraordenações do Setor das Comunicações.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de maio de 2022. - António Luís Santos da Costa - Pedro Nuno de Oliveira Santos - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+
+**Promulgado em 27 de maio de 2022.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 1 de junho de 2022.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

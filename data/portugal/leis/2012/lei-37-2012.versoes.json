@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174551:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2012-175979879",
+ "dre_path": "/dr/detalhe/lei/37-2012-174551",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-08-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175926173",
+    "175926174",
+    "175979975",
+    "175979976",
+    "175979977",
+    "175979978",
+    "175979979",
+    "175979980",
+    "175979981",
+    "175979982",
+    "175979983",
+    "175979984"
+   ]
+  },
+  {
+   "date": "2021-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175923953:por",
+     "title": "Lei n.º 85/2021",
+     "published": "2021-12-15",
+     "dre_path": "/dr/detalhe/lei/85-2021-175923953"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "175926173",
+    "175926174",
+    "175979975",
+    "175979986",
+    "175979987",
+    "175979978",
+    "175979979",
+    "175979980",
+    "175979981",
+    "175979982",
+    "175979983",
+    "175979984",
+    "175979985"
+   ]
+  }
+ ],
+ "fragments": {
+  "175926173": {
+   "fragment_id": "175979880",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 37/2012\n\nde 27 de agosto\n\nEstatuto do Dador de Sangue\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "175926174": {
+   "fragment_id": "175979881",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova o Estatuto do Dador de Sangue."
+  },
+  "175979975": {
+   "fragment_id": "175979882",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios gerais\n\n1 - Compete ao Estado assegurar a todos os cidadãos o acesso à utilização terapêutica do sangue, seus componentes e derivados, bem como garantir os meios necessários à sua correta obtenção, preparação, conservação, fracionamento, distribuição e utilização.\n\n2 - É dever cívico de todo o cidadão saudável contribuir para a satisfação das necessidades de sangue da comunidade, nomeadamente através da dádiva.\n\n3 - É proibida toda e qualquer comercialização do sangue humano."
+  },
+  "175979976": {
+   "fragment_id": "175979883",
+   "type": 11,
+   "heading": "Artigo 3.º — Dador de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dador de sangue\n\n1 - Entende-se por dador de sangue aquele que, depois de aceite clinicamente, doa benevolamente e de forma voluntária parte do seu sangue para fins terapêuticos.\n\n2 - Candidato a dador é aquele que se apresente num serviço de sangue e declare ser sua vontade doar sangue.\n\n3 - Pode dar sangue aquele que cumpra os critérios de elegibilidade, previamente definidos por portaria do Ministério da Saúde.\n\n4 - Ao dador de sangue é atribuído um cartão nacional de dador, a regulamentar por portaria do Ministério da Saúde."
+  },
+  "175979977": {
+   "fragment_id": "175979884",
+   "type": 11,
+   "heading": "Artigo 4.º — Dádiva de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Dádiva de sangue\n\n1 - A dádiva de sangue é um ato cívico, voluntário, benévolo e não remunerado.\n\n2 - A dádiva é considerada regular quando efetuada, no mínimo, duas vezes por ano.\n\n3 - O carácter das doações, nomeadamente a sua regularidade, definição de unidade de sangue, intervalos das dádivas e outros aspetos relacionados com a dádiva, deve atender aos critérios definidos pelo organismo público responsável, de modo a garantir a disponibilidade e acessibilidade de sangue e componentes sanguíneos de qualidade, seguros e eficazes.\n\n4 - Compete aos serviços de sangue garantir que os dadores de sangue cumprem todos os critérios de elegibilidade."
+  },
+  "175979978": {
+   "fragment_id": "175979885",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres do dador de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres do dador de sangue\n\n1 - O dador de sangue deve observar as normas técnicas e científicas previamente estabelecidas, tendo em vista a defesa da sua saúde e a do doente recetor.\n\n2 - O dador de sangue deve colaborar com os serviços de sangue, em particular através do cumprimento dos seguintes pressupostos:\n\na) O consentimento para a dádiva de sangue deve ser formalizado por escrito, através do preenchimento do modelo aprovado pelo organismo público responsável;\n\nb) O dador de sangue deve prestar aos serviços de sangue as informações solicitadas pelo organismo público responsável, respondendo com verdade, consciência e responsabilidade;\n\nc) O dador de sangue encontra-se subordinado a rigorosos critérios de elegibilidade, tendo em vista a preservação da sua saúde e a proteção do recetor de quaisquer riscos de infeção ou contágio."
+  },
+  "175979979": {
+   "fragment_id": "175979886",
+   "type": 11,
+   "heading": "Artigo 6.º — Direitos do dador de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direitos do dador de sangue\n\n1 - O dador ou candidato a dador tem direito:\n\na) Ao respeito e salvaguarda da sua integridade física e mental;\n\nb) A receber informação precisa, compreensível e completa sobre todos os aspetos relevantes relacionados com a dádiva de sangue;\n\nc) A não ser objeto de discriminação;\n\nd) À confidencialidade e à proteção dos seus dados pessoais, nos termos da Constituição da República Portuguesa e da legislação em vigor;\n\ne) Ao reconhecimento público;\n\nf) À isenção das taxas moderadoras no acesso às prestações do Serviço Nacional de Saúde (SNS), nos termos da legislação em vigor;\n\ng) A ausentar-se das suas atividades profissionais, a fim de dar sangue, pelo tempo considerado necessário para o efeito, sem quaisquer perdas de direitos ou regalias do trabalhador dador;\n\nh) Ao seguro do dador;\n\ni) À acessibilidade gratuita ao estacionamento dos estabelecimentos do SNS, aquando da dádiva de sangue.\n\n2 - Não perde os direitos consagrados no número anterior o dador que:\n\na) Esteja impedido definitivamente, por razões clínicas, ou por limite de idade e tenha efetuado o mínimo de 10 dádivas, nos últimos cinco anos;\n\nb) Por razões clínicas devidamente comprovadas, ou por motivos que lhe não sejam imputáveis, venha a encontrar-se temporariamente impedido da dádiva, e desde que tenha efetuado o mínimo de 10 dádivas, nos últimos cinco anos.\n\n3 - Para a avaliação da elegibilidade do dador, os serviços de sangue dispõem de local que garanta a privacidade da entrevista.\n\n4 - Perde o direito aos benefícios o dador que interrompa, sem motivo justificado e por mais de 24 meses, a dádiva de sangue."
+  },
+  "175979980": {
+   "fragment_id": "175979887",
+   "type": 11,
+   "heading": "Artigo 7.º — Ausência das atividades profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Ausência das atividades profissionais\n\n1 - O dador está autorizado a ausentar-se da sua atividade profissional pelo tempo necessário à dádiva de sangue.\n\n2 - Para efeitos do número anterior, a ausência do dador é justificada pelo organismo público responsável.\n\n3 - O dador considera-se convocado desde que decorrido o intervalo mínimo fixado entre as dádivas.\n\n4 - O médico pode determinar, em cada dádiva, o alargamento do período até à retoma da atividade normal, quando a situação clínica assim o exija, desde que devidamente justificado.\n\n5 - O disposto no presente artigo não implica a perda de quaisquer direitos ou regalias do dador."
+  },
+  "175979981": {
+   "fragment_id": "175979888",
+   "type": 11,
+   "heading": "Artigo 8.º — Associações de dadores de sangue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Associações de dadores de sangue\n\n1 - O Estado reconhece a importância das associações de dadores de sangue.\n\n2 - Consideram-se associações de dadores de sangue as organizações que tenham como objeto a promoção altruísta e desinteressada da dádiva de sangue, estimulando esta prática entre os cidadãos.\n\n3 - Os dadores de sangue podem livre e voluntariamente constituir-se em associações de dadores de sangue.\n\n4 - As associações de dadores de sangue são parceiros privilegiados na promoção dos direitos e deveres dos dadores de sangue, na dinamização da dádiva de sangue e na informação e esclarecimento de dúvidas sobre a dádiva de sangue.\n\n5 - As associações de dadores de sangue colaboram com as entidades oficiais nas campanhas de promoção da dádiva e colheita de sangue, bem como na definição de políticas, medidas legislativas e planos de atividades relacionados com a dádiva de sangue.\n\n6 - As associações de dadores de sangue são livres de se agrupar ou filiar em uniões, federações ou confederações, de âmbito local, regional, nacional ou internacional, com fins análogos."
+  },
+  "175979982": {
+   "fragment_id": "175979889",
+   "type": 11,
+   "heading": "Artigo 9.º — Visitas a doentes internados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Visitas a doentes internados\n\n1 - Ao dador de sangue é assegurada a livre visita a doentes internados nos estabelecimentos hospitalares do SNS, durante o período estabelecido para o efeito.\n\n2 - Excecionalmente, a visita pode ser autorizada fora do horário estabelecido e pelo período de tempo definido pelo estabelecimento hospitalar."
+  },
+  "175979983": {
+   "fragment_id": "175979890",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamentação\n\nA presente lei é regulamentada pelo Ministério da Saúde no prazo de 90 dias após a sua publicação."
+  },
+  "175979984": {
+   "fragment_id": "175979891",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte à sua publicação."
+  },
+  "175979986": {
+   "fragment_id": "175979883",
+   "type": 11,
+   "heading": "Artigo 3.º — Dador de sangue",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 85/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/85-2021-175923953), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 3.º — Dador de sangue\n\n1 - Entende-se por dador de sangue aquele que, depois de aceite clinicamente, doa benevolamente e de forma voluntária parte do seu sangue para fins terapêuticos.\n\n2 - Candidato a dador é aquele que se apresente num serviço de sangue e declare ser sua vontade doar sangue.\n\n3 - Pode dar sangue aquele que cumpra critérios de elegibilidade definidos por portaria do Ministério da Saúde, de forma objetiva, clara, proporcional e respeitando os princípios da confidencialidade, equidade e não discriminação.\n\n4 - Os critérios de elegibilidade definidos nos termos do número anterior não podem discriminar o dador de sangue em razão da sua orientação sexual, da sua identidade e expressão de género, e das suas características sexuais.\n\n5 - Ao dador de sangue é atribuído um cartão nacional de dador, a regulamentar por portaria do Ministério da Saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 85/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/85-2021-175923953), em vigor a partir de 2021-12-16"
+  },
+  "175979987": {
+   "fragment_id": "175979884",
+   "type": 11,
+   "heading": "Artigo 4.º — Dádiva de sangue",
+   "in_force_from": "2021-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 85/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/85-2021-175923953), em vigor a partir de 2021-12-16"
+   ],
+   "markdown": "###### Artigo 4.º — Dádiva de sangue\n\n1 - A dádiva de sangue é um ato cívico, voluntário, benévolo e não remunerado.\n\n2 - A dádiva é considerada regular quando efetuada, no mínimo, duas vezes por ano.\n\n3 - O carácter das doações, nomeadamente a sua regularidade, definição de unidade de sangue, intervalos das dádivas e outros aspetos relacionados com a dádiva, deve atender aos critérios definidos pelo organismo público responsável, de modo a garantir a disponibilidade e acessibilidade de sangue e componentes sanguíneos de qualidade, seguros e eficazes.\n\n4 - Os critérios definidos nos termos do número anterior devem respeitar os princípios da proporcionalidade e da equidade, e não podem discriminar o dador em razão da sua orientação sexual, da sua identidade e expressão de género e das suas características sexuais.\n\n5 - Compete aos serviços de sangue garantir que os dadores de sangue cumprem todos os critérios de elegibilidade e que estes critérios são aplicados de forma objetiva, igual e proporcional a todos os candidatos.\n\n6 - O Instituto Português do Sangue e da Transplantação, I. P., promove a formação dos profissionais de saúde que desempenham funções nos serviços de sangue, consentânea com os critérios e princípios definidos nos termos do presente artigo.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 85/2021 - Diário da República n.º 241/2021, Série I de 2021-12-15](https://diariodarepublica.pt/dr/detalhe/lei/85-2021-175923953), em vigor a partir de 2021-12-16"
+  },
+  "175979985": {
+   "fragment_id": "175979892",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de julho de 2012.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 10 de agosto de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de agosto de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

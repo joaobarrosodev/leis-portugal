@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:201049:por
+title: Decreto-Lei n.º 49032
+short_title: null
+summary: Altera as redacções das notas aos artigos 85.01.08, 85.02, 85.14.02, 85.15.04, 85.15.05, 85.18, 85.19.15, 85.19.16,
+  85.21.02 e 85.21.03 da pauta de importação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: '49032'
+official_date: null
+publication_date: '1969-05-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 125/1969, Série I de 1969-05-27
+  number: '125'
+  series: I
+  supplement: null
+  pages: 580 - 580
+  pdf_url: https://files.diariodarepublica.pt/1s/1969/05/12500/05800580.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '201049'
+  dre_path: /dr/detalhe/decreto-lei/49032-1969-201049
+  internal: pt:dre:201049:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49032-1969-201049
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/49032-1969-201049
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1969-05-27T00:00:00Z'
+integrity:
+  source_sha256: 7c6aa0dc5f4ec3af0c5a1b05434f5682d6cecdfe1d9410705476ac6b67f11eb3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1969/DRE-1969-49032-201049.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 49032
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo único. São alteradas, pela forma seguinte, as redacções das notas aos artigos 85.01.08, 85.02, 85.14.02, 85.15.04, 85.15.05, 85.18, 85.19.15, 85.19.16, 85.21.02 e 85.21.03 da pauta de importação:
+
+85.01.08 ...
+
+Nota. - As bobinas de deflexão ou de sintonização e os transformadores a que se refere este artigo, quando importados pelos fabricantes nacionais de aparelhos receptores de televisão e de radiodifusão que os apliquem na produção de aparelhos de seu fabrico ou que os exportem, para reparação de aparelhos por eles fabricados, estão sujeitos à taxa de 1,5 por cento. As bobinas e transformadores que forem desviados do destino acima indicado consideram-se descaminhados aos direitos que lhes competiriam se não tivessem sido tributados por esta taxa.
+
+A aplicação desta taxa depende ainda de informação prestada pela Inspecção-Geral dos Produtos Agrícolas e Industriais, da qual se mostre que aqueles artefactos não são fabricados econòmicamente no País. Os fabricantes deverão registar em livro próprio as quantidades importadas e o número de aparelhos fabricados, bem como o número de peças exportadas, facultando ao exame da fiscalização aduaneira todos os elementos que se tornem necessários à averiguação dessas aplicações e à conferência das existências.
+
+85.02 ...
+
+Nota. - Os ímanes permanentes, magnetizados ou não, a que se refere este artigo, quando importados pelos fabricantes nacionais de aparelhos receptores de televisão e de radiodifusão que os apliquem na produção de aparelhos de seu fabrico ou que os exportem, para reparação de aparelhos por eles fabricados, estão sujeitos à taxa de 1,5 por cento.
+
+A aplicação desta taxa está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+85.14.02 ...
+
+Nota. - Os altifalantes, partes e peças, separadas, quando importados pelos fabricantes nacionais de aparelhos receptores de televisão e de radiodifusão que os apliquem na produção de aparelhos de seu fabrico ou que os exportem, para reparação de aparelhos por eles fabricados, estão sujeitos à taxa de 1,5 por cento.
+
+A aplicação desta taxa está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+85.15.04 ...
+
+Nota. - Este artigo compreende apenas as unidades importadas pelos fabricantes nacionais de aparelhos receptores de televisão que as apliquem na produção de aparelhos, de seu fabrico ou que as exportem, para reparação de aparelhos por eles fabricados.
+
+A classificação por este artigo está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+85.15.05 ...
+
+Nota. - As partes e peças a que se refere este artigo, quando importadas pelos fabricantes nacionais de aparelhos receptores de televisão e de radiodifusão que as apliquem na produção de aparelhos de seu fabrico ou que as exportem, para reparação de aparelhos por eles fabricados, estão sujeitas à taxa de 1,5 por cento.
+
+A aplicação desta taxa está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+85.18 ...
+
+Nota. - Os condensadores eléctricos fixos, variáveis ou ajustáveis, a que se refere esta posição, quando importados pelos fabricantes nacionais de aparelhos receptores de televisão e de radiodifusão que os apliquem na produção de aparelhos de seu fabrico ou que os exportem, para reparação de aparelhos por eles fabricados, estão sujeitos à taxa de 1,5 por cento.
+
+A aplicação desta taxa está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+85.19 ...
+
+14 ...
+
+Outros artefactos, pesando até 2 kg cada um:
+
+Nota. - Os potenciómetros, mesmo ligados a interruptores, e as resistências de cerâmica ou de outras matérias, quando importados pelos fabricantes nacionais de aparelhos receptores de televisão e de radiodifusão que os apliquem na produção de aparelhos de seu fabrico ou que os exportem, para reparação de aparelhos por eles fabricados, estão sujeitos à taxa de 1,5 por cento.
+
+A aplicação desta taxa está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+15 ...
+
+16 ...
+
+85.21.02 ...
+
+Nota. - As válvulas electrónicas a que se refere este artigo, quando importadas pelos fabricantes nacionais de aparelhos receptores de televisão e de radiodifusão que as apliquem na produção de aparelhos de seu fabrico ou que as exportem, para reparação de aparelhos por eles fabricados, estão sujeitas à taxa de 1,5 por cento.
+
+A aplicação desta taxa está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+85.21.03 ...
+
+Nota. - Os transístores, díodos e trimers a que se refere este artigo, quando importados pelos fabricantes nacionais de aparelhos de televisão e de radiodifusão que os apliquem na produção de aparelhos de seu fabrico ou que os exportem, para reparação de aparelhos por eles fabricados, estão sujeitos à taxa de 1,5 por cento.
+
+A aplicação desta taxa está ainda sujeita às sanções e demais condições constantes da nota ao artigo 85.01.08.
+
+Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
+
+**Promulgado em 14 de Maio de 1969.**
+
+**Publique-se.**
+
+Presidência da República, 27 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

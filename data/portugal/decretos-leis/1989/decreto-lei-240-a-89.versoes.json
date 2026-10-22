@@ -1,0 +1,1058 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:175573:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-175816937",
+ "dre_path": "/dr/detalhe/decreto-lei/240-a-1989-175573",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1989-07-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "175745968",
+    "175745969",
+    "175745970",
+    "175745971",
+    "175745972",
+    "175745973",
+    "175919975",
+    "175919976",
+    "175919977",
+    "175919978",
+    "175919979",
+    "175919980",
+    "175919981",
+    "175919982",
+    "175919983",
+    "175919984",
+    "175919985",
+    "175919986",
+    "175919987",
+    "175919988",
+    "175919989",
+    "175919990",
+    "175919991",
+    "175919992",
+    "175919993",
+    "175919994",
+    "175919995",
+    "175919996",
+    "175919997",
+    "175919998",
+    "175919999",
+    "175920000",
+    "175920001",
+    "175920002",
+    "175920003",
+    "175920004",
+    "175920005",
+    "175920006",
+    "175920007",
+    "175920008",
+    "175920009",
+    "175920010",
+    "175920011",
+    "175920012",
+    "175920013",
+    "175920014",
+    "175920015",
+    "175920016",
+    "175920017",
+    "175920018",
+    "175920019",
+    "175920020",
+    "175920021",
+    "175920022"
+   ]
+  },
+  {
+   "date": "1994-10-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:626220:por",
+     "title": "Decreto-Lei n.º 256/94",
+     "published": "1994-10-22",
+     "dre_path": "/dr/detalhe/decreto-lei/256-1994-626220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "175745968",
+    "175745969",
+    "175745970",
+    "175745971",
+    "175745972",
+    "175745973",
+    "175745974",
+    "175919975",
+    "175919976",
+    "175919977",
+    "175919978",
+    "175919979",
+    "175919980",
+    "175919981",
+    "175919982",
+    "175919983",
+    "175919984",
+    "175919985",
+    "175919986",
+    "175920027",
+    "175920028",
+    "175919989",
+    "175919990",
+    "175919991",
+    "175919992",
+    "175920029",
+    "175919994",
+    "175920030",
+    "175919996",
+    "175919997",
+    "175919998",
+    "175920031",
+    "175920000",
+    "175920001",
+    "175920002",
+    "175920003",
+    "175920004",
+    "175920005",
+    "175920006",
+    "175920007",
+    "175920008",
+    "175920009",
+    "175920010",
+    "175920011",
+    "175920012",
+    "175920013",
+    "175920014",
+    "175920015",
+    "175920016",
+    "175920017",
+    "175920018",
+    "175920019",
+    "175920020",
+    "175920021",
+    "175920022"
+   ]
+  },
+  {
+   "date": "2001-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:342617:por",
+     "title": "Decreto-Lei n.º 163/2001",
+     "published": "2001-05-22",
+     "dre_path": "/dr/detalhe/decreto-lei/163-2001-342617"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Capítulo III",
+    "Altera Artigo 16.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º"
+   ],
+   "fragments": [
+    "175745968",
+    "175745969",
+    "175926582",
+    "175926583",
+    "175745972",
+    "175745973",
+    "175745974",
+    "175919975",
+    "175919976",
+    "175919977",
+    "175919978",
+    "175919979",
+    "175919980",
+    "175919981",
+    "175919982",
+    "175919983",
+    "175926584",
+    "175919985",
+    "175919986",
+    "175920027",
+    "175920028",
+    "175919989",
+    "175919990",
+    "175919991",
+    "175919992",
+    "175920029",
+    "175926587",
+    "175920030",
+    "175919996",
+    "175919997",
+    "175919998",
+    "175926585",
+    "175920000",
+    "175926586",
+    "175920002",
+    "175920003",
+    "175920004",
+    "175920005",
+    "175920006",
+    "175920007",
+    "175920008",
+    "175920009",
+    "175920010",
+    "175920011",
+    "175920012",
+    "175920013",
+    "175920014",
+    "175920015",
+    "175920016",
+    "175920017",
+    "175920018",
+    "175920019",
+    "175920020",
+    "175920021",
+    "175920022"
+   ]
+  },
+  {
+   "date": "2003-07-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:693461:por",
+     "title": "Decreto-Lei n.º 129/2003",
+     "published": "2003-06-27",
+     "dre_path": "/dr/detalhe/decreto-lei/129-2003-693461"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "175745968",
+    "175745969",
+    "175926582",
+    "175926583",
+    "175745972",
+    "175745973",
+    "175745974",
+    "175919975",
+    "175919976",
+    "175919977",
+    "175919978",
+    "175919979",
+    "175919980",
+    "175919981",
+    "175919982",
+    "175919983",
+    "175926584",
+    "175919985",
+    "175926588",
+    "175919986",
+    "175926647",
+    "175926648",
+    "175926641",
+    "175926642",
+    "175926643",
+    "175926644",
+    "175926649",
+    "175926650",
+    "175926651",
+    "175919996",
+    "175919997",
+    "175919998",
+    "175926585",
+    "175920000",
+    "175926586",
+    "175920002",
+    "175920003",
+    "175920004",
+    "175920005",
+    "175920006",
+    "175926645",
+    "175926646",
+    "175920009",
+    "175920010",
+    "175920011",
+    "175920012",
+    "175920013",
+    "175920014",
+    "175920015",
+    "175920016",
+    "175920017",
+    "175920018",
+    "175920019",
+    "175920020",
+    "175920021",
+    "175920022"
+   ]
+  },
+  {
+   "date": "2021-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175865935:por",
+     "title": "Decreto-Lei n.º 110/2021",
+     "published": "2021-12-14",
+     "dre_path": "/dr/detalhe/decreto-lei/110-2021-175865935"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "175745968",
+    "175745969",
+    "175926582",
+    "175926583",
+    "175745972",
+    "175745973",
+    "175745974",
+    "175919975",
+    "175919976",
+    "175919977",
+    "175919978",
+    "175919979",
+    "175919980",
+    "175919981",
+    "175919982",
+    "175919983",
+    "175926584",
+    "175919985",
+    "175926588",
+    "175919986",
+    "175926647",
+    "175926648",
+    "175926641",
+    "175926642",
+    "175926643",
+    "175926652",
+    "175926649",
+    "175926650",
+    "175926651",
+    "175919996",
+    "175919997",
+    "175919998",
+    "175926585",
+    "175920000",
+    "175926586",
+    "175920002",
+    "175920003",
+    "175920004",
+    "175920005",
+    "175920006",
+    "175926645",
+    "175926646",
+    "175920009",
+    "175920010",
+    "175920011",
+    "175920012",
+    "175920013",
+    "175920014",
+    "175920015",
+    "175920016",
+    "175920017",
+    "175920018",
+    "175920019",
+    "175920020",
+    "175920021",
+    "175920022"
+   ]
+  }
+ ],
+ "fragments": {
+  "175745968": {
+   "fragment_id": "175816938",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 240-A/89\n\nde 27 de Julho\n\nO acervo de bens artísticos que o Estado tem vindo progressivamente a adquirir e que constitui uma riqueza de insubstituível alcance patrimonial e cultural, neste momento dispersa, requer condições para a sua normal fruição pública.\n\nVerifica-se, desde há largos anos a necessidade da existência de uma instituição museológica nacional que acolha, conserve e torne acessível a produção resultante do processo evolutivo da arte moderna.\n\nPor resolução do Conselho de Ministros, publicada no Diário da República, 2.ª série, de 30 de Outubro de 1986, o Estado adquiriu o Parque de Serralves, no Porto, para aí instalar o Museu Nacional de Arte Moderna. É, no entanto, hoje incontroverso que a noção de museu como mero local de conservação de peças do património artístico se encontra preterida a favor de um modelo em que prevalece cada vez mais a função dinamizadora própria de um verdadeiro centro de irradiação cultural. Esta instituição, de dimensão nacional, trará ao Norte do País um estímulo que a concentração de instituições culturais nacionais na capital não tem favorecido.\n\nConsidera-se que a forma institucional mais adequada à criação desta entidade é a de uma fundação, constituída por uma participação significativa de capital privado, associada à presença do Estado, que assegurará uma parte convencionada dos seus custos fixos de manutenção.\n\nCom efeito, a figura de uma fundação assim participada corporiza o envolvimento da sociedade civil num projecto de dimensão nacional e constitui fórmula inovadora e desejavelmente exemplar desse desenvolvimento, que o Governo tem estimulado como um dos grandes objectivos de política na área cultural.\n\nA pertinência da figura institucional pretendida corresponde, por outro lado, à convicção de que um museu com estas características deveria dispor de uma gestão especialmente flexível e com um certo grau de autonomia. Com efeito, o exercício de uma actividade de animação interdisciplinar que enquadre o entendimento do fenómeno da arte contemporânea por um público cada vez mais alargado, o desenvolvimento nos contactos internacionais que a actualização neste campo exige e o intercâmbio com instituições congéneres nacionais e estrangeiras desaconselham o recurso ao modelo público tradicional.\n\nFinalmente, a experiência consolidada em centros de arte contemporânea europeus, que crescentemente vêm adoptando fórmulas institucionais equivalentes, aconselha a figura de uma fundação como a mais adequada.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "175745969": {
+   "fragment_id": "175816939",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - É instituída a Fundação de Serralves, à qual é conferida personalidade jurídica, e são aprovados os respectivos estatutos, publicados em anexo ao presente diploma e que dele fazem parte integrante.\n\n2 - A Fundação é instituída pelo Estado e pelas pessoas singulares e colectivas, enumeradas no artigo 35.º dos estatutos."
+  },
+  "175745970": {
+   "fragment_id": "175816940",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - O Estado assegurará, anualmente, para as despesas de funcionamento da Fundação, um subsídio equivalente ao despendido no ano de 1988 com a Casa e o Parque de Serralves.\n\n2 - A atribuição do subsídio previsto no número anterior está sujeita a visto do Tribunal de Contas."
+  },
+  "175745971": {
+   "fragment_id": "175816941",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - A Fundação é reconhecida de utilidade pública, para efeitos do disposto no Decreto-Lei n.º 460/77, de 7 de Novembro.\n\n2 - Os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido no n.º 2 do artigo 40.º do Código do Imposto sobre o Rendimento das Pessoas Colectivas, aprovado pelo Decreto-Lei n.º 442-B/88, de 30 de Novembro, e no n.º 2 do artigo 56.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, aprovado pelo Decreto-Lei n.º 442-A/88, da mesma data."
+  },
+  "175745972": {
+   "fragment_id": "175816942",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nNo corrente ano as verbas confiadas à comissão de gestão do Parque e Casa de Serralves são transferidas para a Fundação."
+  },
+  "175745973": {
+   "fragment_id": "175816943",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente diploma constitui título suficiente para efeitos de registo predial e de inscrição na respectiva matriz predial a favor da Fundação."
+  },
+  "175919975": {
+   "fragment_id": "175816945",
+   "type": 14,
+   "heading": "Anexo — Estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Estatutos"
+  },
+  "175919976": {
+   "fragment_id": "175816946",
+   "type": 1,
+   "heading": "Capítulo I — Designação, duração, sede e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Designação, duração, sede e fins"
+  },
+  "175919977": {
+   "fragment_id": "175816947",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Fundação adopta a designação de Fundação de Serralves."
+  },
+  "175919978": {
+   "fragment_id": "175816948",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Fundação tem duração ilimitada"
+  },
+  "175919979": {
+   "fragment_id": "175816949",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A sede da Fundação é na cidade do Porto, na Quinta de Serralves.\n\n2 - A Fundação poderá também desenvolver a sua acção em qualquer outra parte do País."
+  },
+  "175919980": {
+   "fragment_id": "175816950",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A Fundação tem como fins a promoção de actividades culturais no domínio de todas as artes.\n\n2 - Na prossecução dos seus fins a Fundação criará e manterá na Quinta de Serralves:\n\na) Um museu de arte moderna, que albergará em depósito obras do acervo de arte moderna que são património do Estado, obras de outras entidades cedidas em depósito, bem como as que constituem o seu património;\n\nb) Um auditório para realização de concertos e espectáculos de bailado e de teatro;\n\nc) Quaisquer outros empreendimentos compatíveis com os seus fins."
+  },
+  "175919981": {
+   "fragment_id": "175816951",
+   "type": 1,
+   "heading": "Capítulo II — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Património"
+  },
+  "175919982": {
+   "fragment_id": "175816952",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO património da Fundação é constituído:\n\na) Pelo imóvel designado por Quinta de Serralves, que constitui a entrada do Estado, na sua qualidade de fundador;\n\nb) Pelo montante em dinheiro correspondente à soma das dotações dos demais fundadores, no valor de 10 milhões de escudos cada uma, que se encontra depositado à ordem da Fundação;\n\nc) Pelos bens que a Fundação adquirir nos termos previstos na lei com os rendimentos disponíveis do seu património;\n\nd) Pelos bens que lhe advierem a título gratuito;\n\ne) Por outros subsídios que lhe sejam atribuídos, a título ordinário ou extraordinário, pelo Estado ou por outros entes públicos."
+  },
+  "175919983": {
+   "fragment_id": "175816953",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nA Fundação pode praticar todos os actos necessários à realização dos seus fins e à gestão do seu património, adquirindo, onerando e alienando qualquer espécie de bens, nos termos previstos na lei."
+  },
+  "175919984": {
+   "fragment_id": "175816954",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos"
+  },
+  "175919985": {
+   "fragment_id": "175816955",
+   "type": 8,
+   "heading": "Secção I — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho de administração"
+  },
+  "175919986": {
+   "fragment_id": "175816956",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO conselho de administração é composto por nove membros, sendo um presidente, três vice-presidentes e cinco vogais."
+  },
+  "175919987": {
+   "fragment_id": "175816957",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n- 1 - Os membros do conselho de administração são designados inicialmente nas disposições transitórias destes estatutos e futuramente escolhidos pelo próprio conselho, por cooptação, nos termos dos artigos 12.º e 34.º\n\n2 - Os membros do conselho de administração serão sempre pessoas singulares."
+  },
+  "175919988": {
+   "fragment_id": "175816958",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n- 1 - A maioria dos membros do conselho de administração será sempre constituída por membros do conselho de fundadores.\n\n2 - Um dos administradores será sempre designado pelo Estado."
+  },
+  "175919989": {
+   "fragment_id": "175816959",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO mandato dos membros do conselho de administração tem a duração de três anos."
+  },
+  "175919990": {
+   "fragment_id": "175816960",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n- 1 - No mês de Junho do último ano de cada período de duração de funções, o conselho de administração deverá designar, por voto secreto e por maioria absoluta de todos os seus membros, três novos administradores para substituição, a partir de 1 de Janeiro do ano seguinte, dos três membros mais antigos ou, em igualdade de antiguidade, dos mais velhos.\n\n2 - Os demais membros do conselho de administração manter-se-ão em exercício por um período adicional de três anos."
+  },
+  "175919991": {
+   "fragment_id": "175816961",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n- 1 - Abrindo-se vaga no conselho de administração, o próprio conselho proverá ao seu preenchimento por voto secreto e maioria absoluta de todos os seus membros, sem prejuízo da renovação trienal prevista nos artigos 12.º e 34.º\n\n2 - Se as vagas não preenchidas forem em número de cinco ou superior, observar-se-á para o seu preenchimento o disposto na alínea b) do n.º 1 do artigo 27.º"
+  },
+  "175919992": {
+   "fragment_id": "175816962",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n- 1 - O presidente e os vice-presidentes do conselho de administração serão eleitos pelo próprio conselho de entre os seus membros, por voto secreto e por maioria absoluta dos seus membros, em reunião expressamente convocada para o efeito.\n\n2 - No caso de, em primeira votação, não se formar a maioria absoluta prevista no número anterior, a votação será repetida, considerando-se então eleitos como presidente e vice-presidentes os administradores que tiverem maior número de votos."
+  },
+  "175919993": {
+   "fragment_id": "175816963",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nCompete ao conselho de administração praticar todos os actos necessários à prossecução dos fins da Fundação, dispondo dos mais amplos poderes de representação e gestão, nomeadamente:\n\na) Programar a actividade da Fundação;\n\nb) Organizar e dirigir os seus serviços e actividades;\n\nc) Emitir os regulamentos internos de funcionamento da Fundação;\n\nd) Administrar e dispor livremente dos seu património nos termos da lei;\n\ne) Constituir mandatários."
+  },
+  "175919994": {
+   "fragment_id": "175816964",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Compete ao presidente do conselho de administração:\n\na) Representar a Fundação;\n\nb) Convocar e presidir ao conselho de administração;\n\nc) Convocar e dirigir as reuniões do conselho de fundadores.\n\n2 - Compete aos vice-presidentes, alternadamente, substituir o presidente nas suas faltas e impedimentos temporários."
+  },
+  "175919995": {
+   "fragment_id": "175816965",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1 - A Fundação vincula-se:\n\na) Pela assinatura de dois administradores;\n\nb) Pela assinatura de um administrador no exercício de poderes que nele houverem sido delegados por deliberação do conselho de administração;\n\nc) Pela assinatura de dois procuradores, nos termos dos respectivos mandatos;\n\nd) Pela assinatura de um só procurador, tratando-se de mandato para a prática de acto certo e determinado.\n\n2 - Os actos de alienação ou oneração de quaisquer parcelas da Quinta de Serralves só serão válidos e eficazes se praticados em execução de uma deliberação do conselho de administração que tenha obtido o voto concordante do administrador designado pelo Estado."
+  },
+  "175919996": {
+   "fragment_id": "175816966",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n- 1 - O conselho de administração reunirá ordinariamente uma vez por mês e extraordinariamente sempre que for convocado pelo seu presidente, por iniciativa própria ou a solicitação de três administradores.\n\n2 - O quórum do conselho de administração é de cinco administradores, sendo as suas deliberações tomadas por maioria absoluta de votos expressos.\n\n3 - O presidente terá voto de qualidade.\n\n4 - De todas as reuniões será lavrada acta em livro próprio, assinada pelos membros presentes."
+  },
+  "175919997": {
+   "fragment_id": "175816967",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n- 1 - O conselho de administração poderá delegar num dos seus membros, que receberá o título de administrador-delegado, a prática dos actos de gestão corrente da Fundação, ou constituir para esse efeito uma comissão executiva composta por três membros, fixando as suas regras de funcionamento.\n\n2 - O conselho de administração poderá ainda delegar poderes para a prática de actos de gestão corrente num director que assistirá às reuniões do conselho, sem direito a voto, e sempre que para tal for convocado."
+  },
+  "175919998": {
+   "fragment_id": "175816968",
+   "type": 8,
+   "heading": "Secção II — Conselho de fundadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de fundadores"
+  },
+  "175919999": {
+   "fragment_id": "175816969",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - O conselho de fundadores é composto:\n\na) Por todos os fundadores referidos no artigo 35.º;\n\nb) Por todos aqueles a quem o conselho de fundadores, sob proposta do conselho de administração, por deliberação devidamente fundamentada e tomada por maioria absoluta, atribua tal qualidade, tendo em atenção os relevantes serviços prestados à Fundação ou os particulares méritos que nele concorram;\n\nc) Pelos seguintes membros por natureza:\n\nCâmara Municipal do Porto;\n\nUniversidade do Porto;\n\nUniversidade do Minho;\n\nAssociação Comercial do Porto;\n\nAssociação Industrial Portuense;\n\nFundação Engenheiro António de Almeida;\n\nCooperativa Árvore.\n\n2 - Sempre que qualquer entidade referida nas alíneas a) e b) do número anterior seja uma pessoa colectiva, deverá esta designar, com mandato por um período de cinco anos, renovável, uma pessoa singular para fazer parte do conselho de fundadores.\n\n3 - No caso de renúncia, impedimento definitivo ou morte da pessoa singular designada nos termos do número anterior, a pessoa colectiva que a havia designado indicará novo representante, o qual, uma vez aprovado pelo conselho de fundadores, por simples maioria, passará a fazer parte deste órgão nos termos do número anterior.\n\n4 - Não poderão ser cooptados como administradores nem os membros por natureza, nem os membros do conselho de fundadores referidos na alínea b) do n.º 1 que o sejam há menos de cinco anos."
+  },
+  "175920000": {
+   "fragment_id": "175816970",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nCompete ao conselho de fundadores:\n\na) Dar parecer, até 15 de Dezembro de cada ano, sobre o plano de actividades da Fundação para o ano seguinte, o qual deverá ser apresentado pelo conselho de administração até 15 de Novembro;\n\nb) Eleger trienalmente um membro do conselho fiscal;\n\nc) Designar trienalmente uma sociedade de revisores oficiais de contas para fazer parte do conselho fiscal, nos termos do artigo 23.º destes estatutos;\n\nd) Eleger uma comissão para a fixação de remunerações, nos termos do artigo 29.º;\n\ne) Dar parecer sobre qualquer matéria que lhe for apresentada para o efeito pelo conselho de administração;\n\nf) Exercer todas as demais competências que lhe são conferidas pelos presentes estatutos."
+  },
+  "175920001": {
+   "fragment_id": "175816971",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n- 1 - O conselho de fundadores terá uma reunião anual entre 1 e 15 de Dezembro de cada ano para o exercício da competência referida na alínea a) do artigo anterior e para proceder, quando for caso disso, à designação e às eleições previstas nas alíneas b), c) e d) do mesmo artigo.\n\n2 - O conselho de fundadores poderá ainda reunir extraordinariamente sempre que o presidente do conselho de administração o convoque.\n\n3 - As reuniões plenárias do conselho de fundadores serão presididas pelo presidente do conselho de administração e delas será lavrada acta.\n\n4 - O quórum deliberativo do conselho de fundadores é constituído por metade e mais um dos seus membros.\n\n5 - Se o conselho não puder reunir por falta de quórum, será imediatamente convocada uma nova reunião, a realizar dentro de quinze dias, qualquer que seja o número de fundadores então presentes."
+  },
+  "175920002": {
+   "fragment_id": "175816972",
+   "type": 8,
+   "heading": "Secção III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho fiscal"
+  },
+  "175920003": {
+   "fragment_id": "175816973",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n- 1 - O conselho fiscal é composto por três membros, sendo um eleito pelo conselho de fundadores de entre os seus membros, o segundo uma sociedade de revisores oficias de contas designada pelo conselho de fundadores e o terceiro, que presidirá, designado pelo Ministro das Finanças.\n\n2 - O mandato dos membros referidos no número anterior é de três anos civis completos.\n\n3 - Os membros do conselho fiscal são designados inicialmente nos termos das disposições transitórias destes estatutos."
+  },
+  "175920004": {
+   "fragment_id": "175816974",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1 - Compete aos conselho fiscal:\n\na) Verificar a regularidade dos livros e registos contabilísticos, bem como dos documentos que lhes servem de suporte;\n\nb) Verificar, sempre que o julgue conveniente e pela forma que repute adequada, a existência dos bens ou valores pertencentes à Fundação;\n\nc) Verificar a exactidão das contas anuais da Fundação;\n\nd) Elaborar um relatório anual sobre a sua acção de fiscalização e emitir parecer sobre as contas anuais apresentadas pelo conselho de administração.\n\n2 - Os membros do conselho fiscal devem proceder, conjunta ou separadamente e em qualquer época do ano, aos actos de inspecção e verificação que tiverem por convenientes para o cabal exercício das suas funções."
+  },
+  "175920005": {
+   "fragment_id": "175920075",
+   "type": 8,
+   "heading": "Secção IV — Destituição do conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Destituição do conselho de administração"
+  },
+  "175920006": {
+   "fragment_id": "175920076",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n- 1 - O Estado poderá requerer, no Tribunal Cível da Comarca do Porto, a destituição do conselho de administração, sempre que a este seja imputável qualquer das situações a seguir referidas:\n\na) Desrespeito manifesto e reiterado dos fins estatutários da Fundação;\n\nb) Actos dolosos ou culposos que acarretem grave dano para o património da Fundação;\n\nc) Suspensão não justificada das actividades da Fundação por prazo superior a seis meses;\n\nd) Não preenchimento, durante um ano, das vagas que se verificarem no conselho de administração;\n\ne) Cessação, por parte do conselho de administração, do exercício das suas competências, expressa, designadamente, na não realização, durante um ano, de reuniões ordinárias, num mínimo de três consecutivas ou cinco intercaladas;\n\nf) Não apresentação das contas anuais da Fundação até 31 de Dezembro do ano seguinte.\n\n2 - Se do procedimento judicial resultar que qualquer das situações invocadas como fundamento da destituição é imputável apenas a algum ou alguns dos administradores, a decisão judicial de destituição será restrita a este ou a estes."
+  },
+  "175920007": {
+   "fragment_id": "175920077",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n- 1 - Destituído todo o conselho de administração, por sentença judicial transitada em julgado, o novo conselho será composto pela forma seguinte:\n\na) Três membros designados pelo Estado, um dos quais fará obrigatoriamente parte do conselho de fundadores;\n\nb) Três membros eleitos pelas entidades privadas que fazem parte do conselho de fundadores, um dos quais fará obrigatoriamente parte desse conselho;\n\nc) Três membros eleitos pelo conselho de fundadores de entre os seus membros.\n\n2 - Constituído o novo conselho de administração, nos termos do número anterior, o respectivo período de funções será de três anos civis completos, não se contando o ano da sua designação."
+  },
+  "175920008": {
+   "fragment_id": "175920078",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n- 1 - Sendo destituídos, também por sentença judicial transitada em julgado, apenas algum ou alguns dos membros do conselho de administração, observar-se-á o seguinte:\n\na) Se o número de administradores destituídos não for superior a quatro, as vagas serão preenchidas por cooptação dos restantes administradores;\n\nb) Se o número de administradores destituídos for superior a quatro, três ou seis vagas serão preenchidas nos termos do n.º 1 do artigo anterior, por forma a manter-se, quanto ao seu preenchimento, a proporção aí estabelecida, devendo as restantes vagas, se as houver, ser preenchidas por cooptação de todos os administradores.\n\n2 - Os membros do conselho de administração designados nos termos do número anterior manter-se-ão em exercício até ao termo do período de duração de funções em curso."
+  },
+  "175920009": {
+   "fragment_id": "175920079",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nOs administradores designados nos termos dos artigos 26.º e 27.º ficam sujeitos a todas as regras destes estatutos, nomeadamente no que respeita ao período de duração de funções e ao regime de renovação do conselho de administração."
+  },
+  "175920010": {
+   "fragment_id": "175920080",
+   "type": 8,
+   "heading": "Secção V — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Remunerações"
+  },
+  "175920011": {
+   "fragment_id": "175920081",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n- 1 - Serão remuneradas as funções do administrador-delegado e dos membros da comissão executiva do conselho de administração.\n\n2 - Poderão ser pagas senhas de presença a todos os membros do conselho de administração por cada reunião em que participem.\n\n3 - A remuneração do administrador-delegado e dos membros da comissão executiva do conselho de administração, bem como as senhas de presença dos membros do conselho de administração, serão fixadas, de três em três anos, por uma comissão de três membros do conselho de fundadores, eleita de três em três anos, a contar da data da entrada em vigor do diploma que aprovou os presentes estatutos na sua reunião anual.\n\n4 - Os membros da comissão de fixação de remunerações são designados inicialmente nos termos das disposições transitórias destes estatutos."
+  },
+  "175920012": {
+   "fragment_id": "175920082",
+   "type": 1,
+   "heading": "Capítulo IV — Contas da Fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contas da Fundação"
+  },
+  "175920013": {
+   "fragment_id": "175920083",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nO conselho de administração deve manter a contabilidade da Fundação devidamente arrumada, segundo critérios contabilísticos geralmente aceites, e elaborar, no fim de cada ano civil e até 30 de Abril do ano seguinte, um inventário do seu património e um balanço das suas receitas e despesas."
+  },
+  "175920014": {
+   "fragment_id": "175920084",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAs contas anuais da Fundação e o parecer sobre elas emitido pelo conselho fiscal serão publicados, até 31 de Julho do ano seguinte àquele a que se reportarem, em dois dos jornais diários de maior circulação na cidade do Porto."
+  },
+  "175920015": {
+   "fragment_id": "175920085",
+   "type": 1,
+   "heading": "Capítulo V — Extinção da Fundação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Extinção da Fundação"
+  },
+  "175920016": {
+   "fragment_id": "175920086",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - Extinta a Fundação, o seu património reverterá integralmente para o Estado.\n\n2 - Se a extinção vier a ter lugar por inviabilidade da Fundação em consequência da falta do subsídio anual do Estado previsto na alínea c) do artigo 5.º, o património da Fundação, com excepção do Parque e Casa de Serralves, que reverte para o Estado, reverterá para a entidade que vier a ser escolhida pelo conselho de fundadores."
+  },
+  "175920017": {
+   "fragment_id": "175920087",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições transitórias"
+  },
+  "175920018": {
+   "fragment_id": "175920088",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO conselho de administração tem a seguinte composição inicial:\n\nJoão Vasco Marques Pinto, presidente;\n\nFernando Guedes, vice-presidente;\n\nJoão Macedo Silva, vice-presidente;\n\nRui Vilar, vice-presidente;\n\nBarnardino Gomes, vogal;\n\nJosé António Barros, vogal;\n\nAntónio Rocha e Mello, vogal;\n\nVasco Airão, vogal;\n\nLuís Braga da Cruz, vogal."
+  },
+  "175920019": {
+   "fragment_id": "175920089",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n- 1 - O mandato dos administradores designados no artigo anterior inicia-se na data da instituição da Fundação e termina em 31 de Dezembro de 1994.\n\n2 - De 1 a 30 de Junho de 1994 o conselho de administração deliberará, por voto secreto e por maioria absoluta de todos os seus membros, sobre a renovação do período de duração de funções de três dos seus membros, de acordo com o previsto no artigo 12.º\n\n3 - Se a deliberação tomada for no sentido da não renovação do período de duração de funções de algum ou alguns dos administradores, o conselho cooptará até 31 de Dezembro de 1994, por voto secreto e por maioria absoluta de todos os seus membros, quem deva preencher a vaga ou vagas que nessa data se abrirão."
+  },
+  "175920020": {
+   "fragment_id": "175920090",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nO conselho de fundadores tem a seguinte composição inicial:\n\nFundação Luso-Americana para o Desenvolvimento;\n\nAirbus Industrie;\n\nAlexandre Cardoso, Lda.;\n\nAmorim - Investimentos e Participações, S. A.;\n\nAntónio Brandão Miranda;\n\nARSOPI - Indústrias Metalúrgicas Arlindo S. Pinto, S. A.;\n\nAuto Sueco, Lda.;\n\nBanco Borges & Irmão, S. A.;\n\nBanco Comercial Português;\n\nBanco de Comércio e Indústria, S. A.;\n\nBanco Fonsecas & Burnay;\n\nBanco Internacional de Crédito, S. A;\n\nBanco Português do Atlântico, E. P.;\n\nBPI - Banco Português de Investimento, S. A.;\n\nBNU - Banco Nacional Ultramarino;\n\nBanco Totta & Açores, S. A.;\n\nBNP/Factor - Companhia Internacional de Aquisição de Créditos, S. A.;\n\nCaixa Geral de Depósitos;\n\nChelding - Sociedade Internacional de Montagens Industriais, Lda.;\n\nCINCA - Companhia Industrial de Cerâmica, S. A.;\n\nCOTESI - Companhia de Têxteis Sintéticos, S. A.;\n\nCrédit Lyonnais-Portugal, S. A.;\n\nDILIVA - Sociedade de Investimentos Imobiliários, S. A.;\n\nFábrica de Malhas Filobranca, Lda.;\n\nFábrica Nacional de Relógios, Reguladora, S. A.;\n\nFNAC - Fábrica Nacional de Ar Condicionado, U. C. R. L.;\n\nI. P. Financeira - Sociedade de Investimentos, Estudos e Participações Financeiras, S. A.;\n\nJoão Vasco Marques Pinto;\n\nJorge de Brito;\n\nLacto Lusa, S. A.;\n\nLonga Vida - Agrícola de Lacticínios A Central de Perafita, Lda.;\n\nMaconde, Confecções, Lda.;\n\nMOCAR, S. A.;\n\nPOLIMAIA - Sociedade Industrial Química, S. A.;\n\nProdutos Sarcol, Lda.;\n\nR. A. R. - Refinarias de Açúcar Reunidas, S. A.;\n\nRima - Racionalização e Mecanização Administrativa, S. A.;\n\nSoleasing - Comércio e Aluguer de Automóveis, S. A.;\n\nSalvador Caetano - Indústrias Metalúrgicas e Veículos de Transporte, S. A.;\n\nSociedade Comercial Tasso de Sousa, Lda.;\n\nSociedade Têxtil A Flor do Campo, S. A;\n\nSoja de Portugal - Sociedade Gestora de Participações Sociais, S. A.;\n\nIndústrias Têxteis Somelos, S. A.;\n\nSONAE - Investimentos, Sociedade Gestora de Participações Sociais, S. A.;\n\nTêxteis Carlos Sousa, Lda.;\n\nTêxtil Manuel Gonçalves, S. A.;\n\nUnião de Bancos Portugueses, S. A.;\n\nUNICER - União Cervejeira, S. A.;\n\nVera Lilian Cohen Espírito Santo Silva;\n\nVICAIMA - Indústria de Madeiras e Derivados, Lda.;\n\nVinícola do Vale do Dão, Lda."
+  },
+  "175920021": {
+   "fragment_id": "175920091",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nO conselho fiscal tem a seguinte composição inicial:\n\nMário César Martins Pinho da Cruz, presidente;\n\nAníbal Oliveira;\n\nA. Gândara e F. Alves, Sociedade Revisora de Contas."
+  },
+  "175920022": {
+   "fragment_id": "175920092",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nA comissão de fixação de remunerações para o triénio de 1989, 1990 e 1991 tem a seguinte composição:\n\nArtur Santos Silva, presidente;\n\nManuel Violas;\n\nAssis Magalhães.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "175745974": {
+   "fragment_id": "175816944",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Junho de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 20 de Julho de 1989.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 22 de Julho de 1989.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "175920027": {
+   "fragment_id": "175816957",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1994-10-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 9.º\n\nOs membros do conselho de administração são designados inicialmente nas disposições transitórias destes estatutos e futuramente escolhidos pelo próprio conselho, por cooptação, nos termos dos artigos 12.º e 34.º, com excepção de dois, que serão sempre nomeados pelo Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175920028": {
+   "fragment_id": "175816958",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "1994-10-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - A maioria dos membros do conselho de administração será sempre constituída por membros do conselho de fundadores.\n\n2 - Os membros do conselho de administração serão sempre pessoas singulares.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175920029": {
+   "fragment_id": "175816963",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "1994-10-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 15.º\n\nCompete ao conselho de administração praticar todos os actos necessários à prossecução dos fins da Fundação, dispondo dos mais amplos poderes de representação e gestão, nomeadamente:\n\na) Programar a actividade da Fundação e aprovar o seu orçamento;\n\nb) Organizar e dirigir os seus serviços e actividades;\n\nc) Emitir os regulamentos internos de funcionamento da Fundação;\n\nd) Administrar e dispor livremente dos seu património nos termos da lei;\n\ne) Constituir mandatários.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175920030": {
+   "fragment_id": "175816965",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1994-10-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 17.º\n\n1 - A Fundação vincula-se:\n\na) Pela assinatura de dois administradores;\n\nb) Pela assinatura de um administrador no exercício de poderes que nele houverem sido delegados por deliberação do conselho de administração;\n\nc) Pela assinatura de dois procuradores, nos termos dos respectivos mandatos;\n\nd) Pela assinatura de um só procurador, tratando-se de mandato para a prática de acto certo e determinado.\n\n2 - Os actos de alienação ou oneração de quaisquer parcelas da Quinta de Serralves só serão válidos e eficazes se praticados em execução de uma deliberação do conselho de administração que tenha obtido o voto concordante do administrador designado pelo Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175920031": {
+   "fragment_id": "175816969",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1994-10-27",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1 - O conselho de fundadores é composto:\n\na) Por todos os fundadores referidos no artigo 35.º;\n\nb) Por todos aqueles a quem o conselho de fundadores, sob proposta do conselho de administração, por deliberação devidamente fundamentada e tomada por maioria absoluta, atribua tal qualidade, tendo em atenção os relevantes serviços prestados à Fundação ou os particulares méritos que nele concorram;\n\nc) Pelos seguintes membros por natureza:\n\nCâmara Municipal do Porto;\n\nUniversidade do Porto;\n\nUniversidade do Minho;\n\nAssociação Comercial do Porto;\n\nAssociação Industrial Portuense;\n\nFundação Engenheiro António de Almeida;\n\nCooperativa Árvore.\n\n2 - Sempre que qualquer entidade referida nas alíneas a) e b) do número anterior seja uma pessoa colectiva, deverá esta designar, com mandato por um período de cinco anos, renovável, uma pessoa singular para fazer parte do conselho de fundadores.\n\n3 - No caso de renúncia, impedimento definitivo ou morte da pessoa singular designada nos termos do número anterior, a pessoa colectiva que a havia designado indicará novo representante, o qual, uma vez aprovado pelo conselho de fundadores, por simples maioria, passará a fazer parte deste órgão nos termos do número anterior.\n\n4 - Não poderão ser cooptados como administradores nem os membros por natureza, nem os membros do conselho de fundadores referidos na alínea b) do n.º 1 que o sejam há menos de cinco anos.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175926582": {
+   "fragment_id": "175816940",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2001-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - O Estado assegurará, anualmente, para as despesas de funcionamento da Fundação e para as despesas de funcionamento e actividades do Museu de Arte Contemporânea, subsídios equivalentes aos fixados para os mesmos fins, no ano 2001, actualizados nos termos do Despacho Normativo n.º 613/94, de 19 de Julho.\n\n2 - A atribuição do subsídio previsto no número anterior está sujeita a visto do Tribunal de Contas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+  },
+  "175926583": {
+   "fragment_id": "175816941",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2001-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - A Fundação é reconhecida de utilidade pública, para efeitos do disposto no Decreto-Lei n.º 460/77, de 7 de Novembro.\n\n2 - Os donativos concedidos à Fundação beneficiam automaticamente do regime estabelecido nos n.os 1 e 3 do artigo 1.º do Estatuto do Mecenato, aprovado pelo Decreto-Lei n.º 74/99, de 16 de Março, e alterado pelas Leis n.os 160/99, de 14 de Setembro, 176-A/99, de 30 de Dezembro, 3-B/2000, de 4 de Abril, 30-C/2000, de 29 de Dezembro, e 30-G/2000, de 29 de Dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+  },
+  "175926584": {
+   "fragment_id": "175816954",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos",
+   "in_force_from": "2001-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+   ],
+   "markdown": "### Capítulo III — Órgãos\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+  },
+  "175926587": {
+   "fragment_id": "175816964",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2001-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - Compete ao presidente do conselho de administração:\n\na) Representar a Fundação;\n\nb) Convocar e presidir ao conselho de administração;\n\nc) Convocar e dirigir as reuniões do conselho de fundadores.\n\n2 - Compete aos vice-presidentes, alternadamente, substituir o presidente nas suas faltas e impedimentos temporários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+  },
+  "175926585": {
+   "fragment_id": "175816969",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2001-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27",
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1 - O conselho de fundadores é composto:\n\na) Por todos os fundadores referidos no artigo 35.º;\n\nb) Por todos aqueles a quem o conselho de fundadores, sob proposta do conselho de administração, por deliberação devidamente fundamentada e tomada por maioria absoluta, atribua tal qualidade, tendo em atenção os relevantes serviços prestados à Fundação ou os particulares méritos que nele concorram;\n\nc) Pelos seguintes membros por natureza:\n\nCâmara Municipal do Porto;\n\nUniversidade do Porto;\n\nUniversidade do Minho;\n\nAssociação Comercial do Porto;\n\nAssociação Industrial Portuense;\n\nFundação Engenheiro António de Almeida;\n\nCooperativa Árvore.\n\n2 - Sempre que qualquer entidade referida nas alíneas a) e b) do número anterior seja uma pessoa colectiva, deverá esta designar, com mandato por um período de cinco anos, renovável, uma pessoa singular para fazer parte do conselho de fundadores.\n\n3 - No caso de renúncia, impedimento definitivo ou morte da pessoa singular designada nos termos do número anterior, a pessoa colectiva que a havia designado indicará novo representante, o qual, uma vez aprovado pelo conselho de fundadores, por simples maioria, passará a fazer parte deste órgão nos termos do número anterior.\n\n4 - Não poderão ser cooptados como administradores nem os membros por natureza, nem os membros do conselho de fundadores referidos na alínea b) do n.º 1 que o sejam há menos de cinco anos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175926586": {
+   "fragment_id": "175816971",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2001-05-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+   ],
+   "markdown": "###### Artigo 22.º\n\n1 - O conselho de fundadores terá uma reunião anual entre 1 e 15 de Dezembro para o exercício da competência referida na alínea a) do artigo anterior e para proceder, quando for caso disso, à designação e às eleições previstas nas alíneas b), c) e d) do mesmo artigo e nos n.os 5 e 6 do artigo 20.º\n\n2 - O conselho de fundadores poderá ainda reunir extraordinariamente sempre que o seu presidente o convoque, por iniciativa própria ou por solicitação do presidente do conselho de administração.\n\n3 - As reuniões plenárias do conselho de fundadores serão presididas pelo presidente deste conselho e delas será lavrada acta.\n\n4 - O quórum deliberativo do conselho de fundadores é constituído por metade e mais um dos seus membros.\n\n5 - Se o conselho não puder reunir por falta de quórum, será imediatamente convocada uma nova reunião, a realizar dentro de quinze dias, qualquer que seja o número de fundadores então presentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+  },
+  "175926588": {
+   "fragment_id": "175925356",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos\n\nSão órgãos da Fundação:\n\na) O conselho de administração;\n\nb) O conselho de fundadores;\n\nc) O conselho fiscal."
+  },
+  "175926647": {
+   "fragment_id": "175816957",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2003-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02",
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 9.º\n\nOs membros do conselho de administração são designados inicialmente nas disposições transitórias destes estatutos e futuramente escolhidos pelo próprio conselho, por cooptação, nos termos dos artigos 12.º e 34.º, com excepção de dois, que serão sempre nomeados pelo Estado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175926648": {
+   "fragment_id": "175816958",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1 - A maioria dos membros do conselho de administração será sempre constituída por membros do conselho de fundadores.\n\n2 - Os membros do conselho de administração serão sempre pessoas singulares.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175926641": {
+   "fragment_id": "175816959",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2003-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+   ],
+   "markdown": "###### Artigo 11.º\n\nO mandato dos membros do conselho de administração tem a duração de três anos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+  },
+  "175926642": {
+   "fragment_id": "175816960",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2003-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - No mês de Dezembro do último ano de cada mandato, o conselho de administração deverá designar, por voto secreto e por maioria absoluta dos seus membros, dois novos administradores para substituição, a partir de 1 de Janeiro do ano seguinte, dos dois membros mais antigos, ou dos dois mais velhos, em caso de antiguidade coincidente.\n\n2 - Não se procederá, total ou parcialmente, à substituição prevista no número anterior:\n\na) Quando os membros a substituir não tenham podido exercer dois mandatos consecutivos, no mesmo cargo ou em cargos diferentes;\n\nb) Se, no mandato em curso, tiver ocorrido eleição antecipada de novos membros nos termos do artigo seguinte.\n\n3 - Os demais membros do conselho de administração manter-se-ão em exercício por um período adicional de três anos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+  },
+  "175926643": {
+   "fragment_id": "175816961",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2003-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - Sem prejuízo do disposto no n.º 4 do artigo seguinte, abrindo-se vaga no conselho de administração, deverá este prover ao seu preenchimento através de deliberação tomada pela maioria absoluta dos restantes membros, expressa por voto secreto.\n\n2 - O novo administrador ficará sujeito nos termos gerais à regra de substituição prevista no artigo anterior, não contando o mandato em curso para a sua antiguidade se dele tiverem decorrido mais de seis meses.\n\n3 - Se as vagas não preenchidas em determinado momento forem iguais ou superiores a cinco, observar-se-á para o seu preenchimento o disposto na alínea b) do n.º 1 do artigo 27.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+  },
+  "175926644": {
+   "fragment_id": "175816962",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2003-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+   ],
+   "markdown": "###### Artigo 14.º\n\n- 1 - O presidente e os vice-presidentes do conselho de administração serão eleitos pelo próprio conselho de entre os seus membros, por voto secreto e por maioria absoluta dos seus membros, em reunião expressamente convocada para o efeito.\n\n2 - No caso de, em primeira votação, não se formar a maioria absoluta prevista no número anterior, a votação será repetida, considerando-se então eleitos como presidente e vice-presidentes os administradores que tiverem maior número de votos.\n\n3 - O presidente poderá exercer dois mandatos nessa qualidade, independentemente do tempo por que tenha exercido funções como vogal ou vice-presidente.\n\n4 - Verificando-se a cessação antecipada de funções por parte do presidente, proceder-se-á a nova eleição nos termos dos n.os 1 e 2 do presente artigo, não contando para a antiguidade do novo presidente o mandato que se encontre em curso se deste tiverem decorrido mais de 18 meses.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+  },
+  "175926649": {
+   "fragment_id": "175816963",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 15.º\n\nCompete ao conselho de administração praticar todos os actos necessários à prossecução dos fins da Fundação, dispondo dos mais amplos poderes de representação e gestão, nomeadamente:\n\na) Programar a actividade da Fundação e aprovar o seu orçamento;\n\nb) Organizar e dirigir os seus serviços e actividades;\n\nc) Emitir os regulamentos internos de funcionamento da Fundação;\n\nd) Administrar e dispor livremente dos seu património nos termos da lei;\n\ne) Constituir mandatários.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175926650": {
+   "fragment_id": "175816964",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1 - Compete ao presidente do conselho de administração:\n\na) Representar a Fundação;\n\nb) Convocar e presidir ao conselho de administração;\n\nc) Convocar e dirigir as reuniões do conselho de fundadores.\n\n2 - Compete aos vice-presidentes, alternadamente, substituir o presidente nas suas faltas e impedimentos temporários.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 163/2001 - Diário da República n.º 118/2001, Série I-A de 2001-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2001-342617), em vigor a partir de 2001-05-27"
+  },
+  "175926651": {
+   "fragment_id": "175816965",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+   ],
+   "markdown": "###### Artigo 17.º\n\n1 - A Fundação vincula-se:\n\na) Pela assinatura de dois administradores;\n\nb) Pela assinatura de um administrador no exercício de poderes que nele houverem sido delegados por deliberação do conselho de administração;\n\nc) Pela assinatura de dois procuradores, nos termos dos respectivos mandatos;\n\nd) Pela assinatura de um só procurador, tratando-se de mandato para a prática de acto certo e determinado.\n\n2 - Os actos de alienação ou oneração de quaisquer parcelas da Quinta de Serralves só serão válidos e eficazes se praticados em execução de uma deliberação do conselho de administração que tenha obtido o voto concordante do administrador designado pelo Estado.\n\n> Alterado pelo/a [Decreto-Lei n.º 256/94 - Diário da República n.º 245/1994, Série I-A de 1994-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1994-626220), em vigor a partir de 1994-10-27"
+  },
+  "175926645": {
+   "fragment_id": "175920077",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2003-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+   ],
+   "markdown": "###### Artigo 26.º\n\n1 - Destituído todo o conselho de administração, por sentença judicial transitada em julgado, o novo conselho será composto pela forma seguinte:\n\na) Três membros designados pelo Estado, um dos quais fará obrigatoriamente parte do conselho de fundadores;\n\nb) Três membros eleitos pelas entidades privadas que fazem parte do conselho de fundadores, um dos quais fará obrigatoriamente parte desse conselho;\n\nc) Três membros eleitos pelo conselho de fundadores de entre os seus membros.\n\n2 - Constituído o novo conselho de administração, nos termos do número anterior, o respectivo mandato será de três anos civis completos, não se contando o ano da sua designação se deste tiverem decorrido mais de seis meses.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+  },
+  "175926646": {
+   "fragment_id": "175920078",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2003-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+   ],
+   "markdown": "###### Artigo 27.º\n\n- 1 - Sendo destituídos, também por sentença judicial transitada em julgado, apenas algum ou alguns dos membros do conselho de administração, observar-se-á o seguinte:\n\na) Se o número de administradores destituídos não for superior a quatro, as vagas serão preenchidas por cooptação dos restantes administradores;\n\nb) Se o número de administradores destituídos for superior a quatro, três ou seis vagas serão preenchidas nos termos do n.º 1 do artigo anterior, por forma a manter-se, quanto ao seu preenchimento, a proporção aí estabelecida, devendo as restantes vagas, se as houver, ser preenchidas por cooptação de todos os administradores.\n\n2 - É aplicável aos membros do conselho de administração designados nos termos do número anterior o disposto no n.º 2 do artigo 13.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+  },
+  "175926652": {
+   "fragment_id": "175816962",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2021-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2021 - Diário da República n.º 240/2021, Série I de 2021-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2021-175865935), em vigor a partir de 2021-12-15",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1 - O presidente e os vice-presidentes do conselho de administração serão eleitos pelo próprio conselho de entre os seus membros, por voto secreto e por maioria absoluta dos seus membros, em reunião expressamente convocada para o efeito.\n\n2 - No caso de, em primeira votação, não se formar a maioria absoluta prevista no número anterior, a votação será repetida, considerando-se então eleitos como presidente e vice-presidentes os administradores que tiverem maior número de votos.\n\n3 - O presidente pode exercer três mandatos nessa qualidade, independentemente do tempo por que tenha exercido funções como vogal ou vice-presidente.\n\n4 - Verificando-se a cessação antecipada de funções por parte do presidente, proceder-se-á a nova eleição nos termos dos n.os 1 e 2 do presente artigo, não contando para a antiguidade do novo presidente o mandato que se encontre em curso se deste tiverem decorrido mais de 18 meses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2021 - Diário da República n.º 240/2021, Série I de 2021-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2021-175865935), em vigor a partir de 2021-12-15\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 129/2003 - Diário da República n.º 146/2003, Série I-A de 2003-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2003-693461), em vigor a partir de 2003-07-02"
+  }
+ }
+}

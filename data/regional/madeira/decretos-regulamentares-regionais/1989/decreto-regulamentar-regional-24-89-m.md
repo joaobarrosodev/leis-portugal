@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:549851:por
+title: Decreto Regulamentar Regional n.º 24/89/M
+short_title: null
+summary: Dá nova redacção aos artigos 42.º a 44.º, 47.º, 49.º, 51.º, 52.º, 55.º e 56.º do Estatuto da Inspecção Regional do
+  Trabalho (IRT), aprovado pelo Decreto Regulamentar Regional n.º 9/86/M, de 30 de Abril
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional
+proposing_entity: null
+official_number: 24/89/M
+official_date: null
+publication_date: '1989-11-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 260/1989, Série I de 1989-11-11
+  number: '260'
+  series: I
+  supplement: null
+  pages: 4974 - 4976
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26000/49744976.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '549851'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/24-1989-549851
+  internal: pt:dre:549851:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1989-549851
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-1989-549851
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-08-25T00:00:00Z'
+integrity:
+  source_sha256: b6ee2a4fece15c41dd07544818b64b67a73255204548c7c4f1812f9f2acd2d8b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1989/DRE-1989-24-549851.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:649480:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 24/89/M
+
+Altera o Estatuto da Inspecção Regional do Trabalho
+
+Dispõe o artigo 42.º do Estatuto da Inspecção Regional do Trabalho, aprovado pelo [Decreto Regulamentar Regional n.º 9/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-402923), de 30 de Abril, que o pessoal técnico de inspecção constitui uma carreira de regime especial nos termos do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 28 de Julho.
+
+E, por assim ser, importava reestruturar as respectivas carreiras, por forma a adequá-las a tal regime, o que não chegou a ser oportunamente feito.
+
+Acresce que com a entrada em vigor do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, e, posteriormente, do [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro, mais premente se fez sentir tal reestruturação.
+
+É o que se pretende agora promover, alterando na parte respectiva o Estatuto da Inspecção Regional do Trabalho, de acordo com as normas legais aplicáveis, constantes dos supracitados diplomas.
+
+Nestes termos:
+
+Ao abrigo da alínea d) do n.º 1 do artigo 229.º da Constituição, o Governo Regional da Madeira decreta o seguinte:
+
+###### Artigo 1.º Os artigos 42.º a 44.º, 47.º, 49.º, 51.º, 52.º, 55.º e 56.º do Estatuto da Inspecção Regional do Trabalho (IRT), aprovado pelo [Decreto Regulamentar Regional n.º 9/86/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-1986-402923), de 30 de Abril, passam a ter a seguinte redacção:
+
+###### Artigo 42.º — Natureza das carreiras
+
+O pessoal técnico de inspecção é integrado em carreiras verticais, de regime especial, de harmonia com o disposto nos n.os 1 e 2 do artigo 8.º, no n.º 3 do artigo 13.º e no n.º 3 do artigo 14.º do [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, e nos n.os 4 e 5 do artigo 2.º do [Decreto Legislativo Regional n.º 4/89/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1989-611346), de 15 de Fevereiro.
+
+###### Artigo 43.º — Estrutura das carreiras
+
+1 - O pessoal técnico de inspecção compreende os seguintes grupos: juristas, engenheiros, médicos, técnicos superiores e técnicos.
+
+2 - Os grupos de juristas, engenheiros, médicos e técnicos superiores desenvolvem-se pelas seguintes categorias: inspector superior, inspector-coordenador, inspector principal, inspector de 1.ª classe e inspector de 2.ª classe.
+
+3 - O grupo de técnicos desenvolve-se pelas seguintes categorias:
+
+a) Inspector de 1.ª classe e de 2.ª classe;
+
+b) ...
+
+###### Artigo 44.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Ao pessoal das categorias de inspector de 1.ª classe e inspector de 2.ª classe do grupo de técnicos incumbe ainda exercer funções de coordenação e chefia de grupos de trabalho de inspectores-adjuntos, em condições a estabelecer de acordo com as necessidades do serviço.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - Ao pessoal da categoria de inspector-coordenador, para além das funções indicadas nos números anteriores, incumbe, nomeadamente:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+9 - ...
+
+10 - ...
+
+###### Artigo 47.º — [...]
+
+1 - O ingresso no grupo de juristas, engenheiros, médicos e técnicos superiores é feito na categoria de inspector de 2.ª classe e condicionado a aprovação em estágio.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 49.º — [...]
+
+1 - O acesso nas carreiras efectua-se dentro de cada grupo, mediante concurso, nos termos do disposto nos números seguintes.
+
+2 - Nos grupos de juristas, engenheiros, médicos e técnicos superiores, o acesso obedece às seguintes regras:
+
+a) Inspector superior, de entre inspectores-coordenadores com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom;
+
+b) Inspector-coordenador, de entre inspectores principais com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom, mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do candidato;
+
+c) Inspector principal e inspector de 1.ª classe, de entre, respectivamente, inspectores de 1.ª classe e de 2.ª classe com, pelo menos, três anos de serviço nas respectivas categorias classificados de Bom.
+
+3 - No grupo de técnicos, o acesso obedece às seguintes regras:
+
+a) Inspector de 1.ª classe, de entre inspectores de 2.ª classe com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom;
+
+b) Inspector de 2.ª classe, de entre inspectores-adjuntos principais com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom, mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do candidato;
+
+c) Inspectores-adjuntos principais, de 1.ª classe, de 2.ª classe e de 3.ª classe, de entre, respectivamente, inspectores-adjuntos de 1.ª classe, de 2.ª classe, de 3.ª classe e auxiliares com, pelo menos, três anos de serviço nas respectivas categorias classificados de Bom.
+
+4 - Os candidatos a inspector-coordenador dos grupos referidos no n.º 2 e a inspector de 2.ª classe do grupo de técnicos podem apresentar um trabalho que verse um tema actual e concreto de interesse para a IRT, no qual se sustente uma solução devidamente fundamentada, cabendo ao júri, com base nesse trabalho, avaliar da capacidade de análise e concepção do candidato.
+
+5 - O trabalho referido no número anterior será devidamente valorado para efeitos de classificação final.
+
+###### Artigo 51.º — [...]
+
+1 - O estágio desdobra-se em duas fases sequenciais:
+
+a) Frequência de um curso de formação;
+
+b) Tirocínio preenchido predominantemente por serviço externo.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - As condições do estágio serão regulamentadas por portaria do membro do Governo Regional que tiver a seu cargo a Administração Pública.
+
+###### Artigo 52.º — [...]
+
+1 - O estágio tem a duração de um ano, findo o qual os estagiários serão ordenados em função da classificação obtida.
+
+2 - O curso de formação referido na alínea a) do n.º 1 do artigo anterior terá a seguinte duração:
+
+a) Para os grupos de juristas, engenheiros, médicos e técnicos superiores, 280 horas de aulas, a efectuar em três meses;
+
+b) Para o grupo de técnicos, 560 horas, a efectuar em seis meses.
+
+3 - Sem prejuízo do disposto nos n.os 1 e 2 do artigo 54.º, a duração dos cursos de formação poderá ser alterada por despacho do Secretário Regional da Administração Pública, sob proposta do inspector regional do Trabalho.
+
+###### Artigo 55.º — [...]
+
+1 - A frequência do estágio será feita em regime de contrato além do quadro, no caso de indivíduos não vinculados à função pública, e em regime de requisição, nos restantes casos.
+
+2 - Ao estagiário será assegurado o seu estatuto desde a conclusão do estágio até à posse na categoria a que se candidata, desde que esta ocorra no prazo de um ano a contar da conclusão do estágio.
+
+3 - Implica a imediata rescisão do contrato ou o termo da requisição, consoante se trate de indivíduos não vinculados ou vinculados à função pública, a desistência ou a falta de aproveitamento no estágio, sem que tal confira direito a qualquer indemnização.
+
+4 - Os estagiários serão nomeados na categoria de ingresso do grupo a que se destinam em função do número de vagas abertas a concurso.
+
+###### Artigo 56.º — [...]
+
+1 - Os estagiários serão remunerados pelas letras L ou G, consoante se destinem ao grupo de técnicos ou aos outros grupos.
+
+2 - ...
+
+###### Art. 2.º O quadro de pessoal da IRT, anexo à [Portaria n.º 196/86](https://diariodarepublica.pt/dr/detalhe/portaria/196-1986-227578), de 19 de Dezembro, publicada no Jornal Oficial, 1.ª série, n.º 4, de 3 de Fevereiro de 1987, é alterado, na parte relativa ao pessoal técnico de inspecção, conforme mapa anexo ao presente diploma, do qual faz parte integrante.
+
+###### Art. 3.º São revogados o n.º 3 do artigo 36.º, os artigos 37.º e 53.º, o n.º 3 do artigo 54.º e o n.º 2 do artigo 69.º do Estatuto da Inspecção Regional do Trabalho.
+
+###### Art. 4.º O presente diploma produz efeitos desde 1 de Janeiro de 1988, no que concerne às reclassificações e revalorizações nele estabelecidas.
+
+Aprovado em Conselho do Governo Regional em 12 de Outubro de 1989.
+
+Pelo Presidente do Governo Regional, Miguel José Luís de Sousa, Vice-Presidente do Governo Regional.
+
+**Assinado em 26 de Outubro de 1989.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+
+Mapa a que se refere o artigo 2.º do Decreto Regulamentar Regional n.º 24/89/M
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/11/26000/49744976.pdf))](https://files.diariodarepublica.pt/1s/1989/11/26000/49744976.pdf)

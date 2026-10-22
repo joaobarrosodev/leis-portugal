@@ -1,0 +1,236 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:545817:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-214908236",
+ "dre_path": "/dr/detalhe/decreto-lei/198-2006-545817",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-10-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "214908310",
+    "214908311",
+    "214908312",
+    "214908313",
+    "214908314",
+    "214908315",
+    "214908316",
+    "214908317",
+    "214908318",
+    "214908319",
+    "214908320",
+    "214908321",
+    "214908322",
+    "214908323",
+    "214908324",
+    "214908325",
+    "214908326"
+   ]
+  },
+  {
+   "date": "2009-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490689:por",
+     "title": "Decreto-Lei n.º 263/2009",
+     "published": "2009-09-28",
+     "dre_path": "/dr/detalhe/decreto-lei/263-2009-490689"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "214908310",
+    "214908311",
+    "214908312",
+    "214908328",
+    "214908314",
+    "214908315",
+    "214908316",
+    "214908317",
+    "214908318",
+    "214908329",
+    "214908320",
+    "214908321",
+    "214908322",
+    "214908323",
+    "214908324",
+    "214908325",
+    "214908326",
+    "214908327"
+   ]
+  }
+ ],
+ "fragments": {
+  "214908310": {
+   "fragment_id": "214908237",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 198/2006\n\nde 19 de Outubro\n\nO Decreto-Lei n.º 3/92, de 18 de Janeiro, e a Portaria n.º 775/92, de 10 de Agosto, definiram com precisão os limites e pontos de inflexão dos esquemas de separação de tráfego (EST) que foram estabelecidos ao longo da costa continental portuguesa pelo Decreto-Lei n.º 200/86, de 22 de Julho, e que vigoraram no exterior das Berlengas, ao largo do cabo da Roca e na rondagem do cabo de São Vicente até 2004.\n\nNo entanto, foi sempre reconhecido o risco que representava a passagem pelo corredor ascendente do EST do cabo de São Vicente, em que os limites interiores fixados em 1986 estavam perigosamente próximos da linha da costa, circunstância que motivou acções de apoio ao afastamento da navegação comercial na zona do referido cabo, tendo em vista a protecção da costa algarvia.\n\nA Organização Marítima Internacional (OMI) apreciou e adoptou, no ano de 2003, importantes alterações ao EST do cabo Finisterra, na costa noroeste de Espanha, em vigor desde 1 de Junho de 2004, com novos limites e novas zonas de passagem para navios que transportam cargas perigosas ou poluentes a granel.\n\nNa sequência desta iniciativa, Portugal preparou e submeteu, ao subcomité da OMI para a segurança da navegação (NAV), propostas de alteração ao EST do cabo da Roca e ao EST do cabo de São Vicente, nelas se incluindo novas regras de atravessamento a cumprir pela navegação que os utiliza e propondo, simultaneamente, a criação de uma área a evitar (AAE) na região das ilhas Berlengas, esta em contrapartida da revogação do EST das Berlengas, que se concluiu ser dispensável.\n\nOra, na 79.ª sessão do Comité de Segurança Marítima (MSC) da OMI, realizada em Dezembro de 2004, a proposta de Portugal foi adoptada, tendo o Comité decidido que os novos EST e a AAE entrariam em vigor às 0 horas do dia 1 de Julho de 2005.\n\nResulta, pois, como obrigação para o Estado Português criar na sua ordem jurídica as disposições legais necessárias e adequadas que permitam garantir o cumprimento das normas aplicáveis aos novos EST e AAE, nomeadamente a necessidade de caracterizar o ilícito cometido pelos navios que não cumpram o estabelecido no Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM), instrumento da Convenção Internacional aprovada pelo Decreto n.º 55/78, de 27 de Junho.\n\nAo promover, principalmente, o reforço da segurança marítima e a simplificação da navegação através do alinhamento com o EST de Finisterra alterado, as medidas que ora se pretendem introduzir visam o estabelecimento dos instrumentos legais para a protecção e preservação do meio marinho ao longo da costa continental portuguesa em águas territoriais e extraterritoriais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "214908311": {
+   "fragment_id": "214908238",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece o regime jurídico dos esquemas de separação de tráfego (EST), a vigorar em espaços marítimos sob jurisdição nacional, na sequência da aprovação em sede da entidade competente da Organização Marítima Internacional (OMI) e estabelece o respectivo quadro contra-ordenacional.\n\n2 - O regime referido no número anterior vigora, também, num espaço marítimo específico, situado na zona das Berlengas, designado por área a evitar das Berlengas."
+  },
+  "214908312": {
+   "fragment_id": "214908239",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se a todos os navios e embarcações que naveguem pelos EST estabelecidos de acordo com o artigo anterior.\n\n2 - O presente decreto-lei aplica-se igualmente aos navios e embarcações nacionais que naveguem em espaços marítimos sob jurisdição de outro país, fora do respectivo mar territorial, sempre que não tenha havido punição no Estado onde foi cometida a infracção e este remeta o processo relativo à infracção para o Estado Português."
+  },
+  "214908313": {
+   "fragment_id": "214908240",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autoridades competentes\n\n1 - Para efeitos da aplicação do presente decreto-lei, o Instituto Portuário e dos Transportes Marítimos (IPTM) é a entidade competente para assegurar e garantir a eficiência do controlo do tráfego marítimo.\n\n2 - O presidente do IPTM desempenha as funções de autoridade de controlo de tráfego marítimo (ACTM), assegurando, designadamente, o cumprimento das normas nacionais e internacionais sobre o controlo e segurança da navegação.\n\n3 - O IPTM e a Autoridade Marítima Nacional (AMN) asseguram o acompanhamento e adoptam as medidas necessárias e adequadas para garantir que todos os navios que naveguem pelos EST estabelecidos utilizem esses sistemas de acordo com as orientações e critérios pertinentes definidos pela OMI."
+  },
+  "214908314": {
+   "fragment_id": "214908241",
+   "type": 11,
+   "heading": "Artigo 4.º — Esquemas de separação de tráfego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Esquemas de separação de tráfego\n\n1 - Ao longo da costa portuguesa do continente são estabelecidos os seguintes EST:\n\na) EST do cabo da Roca;\n\nb) EST do cabo de São Vicente.\n\n2 - Na aproximação, passagem pelo interior e saída dos EST referidos no n.º 1, todos os navios e embarcações devem cumprir o preceituado na regra n.º 10 do Regulamento Internacional para Evitar Abalroamentos no Mar (RIEAM)."
+  },
+  "214908315": {
+   "fragment_id": "214908242",
+   "type": 11,
+   "heading": "Artigo 5.º — Área a evitar das Berlengas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Área a evitar das Berlengas\n\n1 - É estabelecida uma área específica, designada por área a evitar (AAE) das Berlengas, interdita à navegação a todos os navios com mais de 300 t.\n\n2 - A ACTM pode autorizar, a título excepcional e após parecer da AMN, a navegação naquela área aos navios referidos no número anterior."
+  },
+  "214908316": {
+   "fragment_id": "214908243",
+   "type": 11,
+   "heading": "Artigo 6.º — Lista de coordenadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Lista de coordenadas\n\nOs EST e a AAE das Berlengas estão assinaladas nas cartas náuticas oficiais publicadas pelo Instituto Hidrográfico e as respectivas coordenadas para representação gráfica são aprovadas por portaria conjunta dos ministérios que tutelam as áreas da defesa nacional e dos transportes marítimos."
+  },
+  "214908317": {
+   "fragment_id": "214908244",
+   "type": 11,
+   "heading": "Artigo 7.º — Contra-ordenações e coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contra-ordenações e coimas\n\n1 - O não cumprimento, por navios e embarcações, das condições de passagem nos EST e na AAE das Berlengas ou o desrespeito da regra n.º 10 do RIEAM constituem contra-ordenações puníveis com coimas de (euro) 2200 a (euro) 3700 ou de (euro) 10000 e (euro) 44000, consoante o infractor, armador ou proprietário, seja pessoa singular ou colectiva.\n\n2 - Os montantes das coimas são determinados em função da gravidade da infracção e do impacte provocado no meio marinho, bem como da nocividade das cargas transportadas e do grau de culpa do agente."
+  },
+  "214908318": {
+   "fragment_id": "214908245",
+   "type": 11,
+   "heading": "Artigo 8.º — Punibilidade da negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Punibilidade da negligência\n\n1 - A negligência é punível.\n\n2 - No caso de a infracção ter sido praticada com negligência, os montantes das coimas previstos no artigo anterior são reduzidos para metade nos seus limites mínimos e máximos."
+  },
+  "214908319": {
+   "fragment_id": "214908246",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\nCompete ao IPTM, responsável nacional pelo serviço de tráfego marítimo (VTS), e à AMN, através dos meios navais disponíveis, a fiscalização do cumprimento do estabelecido no presente decreto-lei."
+  },
+  "214908320": {
+   "fragment_id": "214908247",
+   "type": 11,
+   "heading": "Artigo 10.º — Auto de notícia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Auto de notícia\n\n1 - As autoridades com competência para fiscalização, nos termos do presente decreto-lei, logo que tomem conhecimento de facto susceptível de constituir um ilícito contra-ordenacional, levantam um auto de notícia e enviam o processo para a entidade competente para a instrução.\n\n2 - Sem prejuízo dos outros meios de detecção do ilícito, constitui, também, auto de notícia o relatório de detecção de infracção baseada na informação originada pelo sistema de controlo da navegação costeira."
+  },
+  "214908321": {
+   "fragment_id": "214908248",
+   "type": 11,
+   "heading": "Artigo 11.º — Instrução e decisão processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instrução e decisão processual\n\nCompete ao capitão do porto com jurisdição na área onde foi cometida a infracção ou ao capitão do porto de registo do navio, no caso das infracções cometidas no âmbito do n.º 2 do artigo 2.º, instruir os processos contra-ordenacionais por ilícitos cometidos em matéria de EST, AAE e outros instrumentos de organização de tráfego e aplicar as respectivas coimas e sanções acessórias."
+  },
+  "214908322": {
+   "fragment_id": "214908249",
+   "type": 11,
+   "heading": "Artigo 12.º — Medidas cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Medidas cautelares\n\n1 - Quando a gravidade da infracção o justifique e se revele adequado para evitar ou atenuar a lesão dos interesses protegidos pelo presente decreto-lei, pode a entidade competente para a instrução e decisão processual ordenar, como medida cautelar, a apreensão do navio ou da embarcação.\n\n2 - Os navios ou embarcações não devem ser retidos por mais tempo que o indispensável para os efeitos de investigação, devendo ser imediatamente libertos após o cumprimento das formalidades estritamente necessárias.\n\n3 - No caso de um pedido de libertação de navio ou embarcação estrangeiro apreendido ter sido negado ou condicionado a determinados requisitos, o respectivo Estado de bandeira deve imediatamente ser notificado."
+  },
+  "214908323": {
+   "fragment_id": "214908250",
+   "type": 11,
+   "heading": "Artigo 13.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Sanções acessórias\n\nEm função da gravidade da infracção ou da culpa do agente, a entidade competente para a instrução e decisão processual pode, em relação aos navios nacionais, determinar a interdição de exercer a profissão ou actividade relacionada com a contra-ordenação."
+  },
+  "214908324": {
+   "fragment_id": "214908251",
+   "type": 11,
+   "heading": "Artigo 14.º — Destino do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Destino do produto das coimas\n\nO produto das coimas previstas no presente decreto-lei reverte:\n\na) 60% para os cofres do Estado;\n\nb) 20% para a entidade que levantar o auto de notícia;\n\nc) 20% para a entidade a quem compete a instrução e decisão processuais."
+  },
+  "214908325": {
+   "fragment_id": "214908252",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito subsidiário\n\nÀs contra-ordenações previstas no presente decreto-lei e em tudo quanto nele se não encontre expressamente regulado, são subsidiariamente aplicáveis as disposições do regime geral das contra-ordenações."
+  },
+  "214908326": {
+   "fragment_id": "214908253",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 200/86, de 22 de Julho, com a redacção dada pelo Decreto-Lei n.º 3/92, de 18 de Janeiro, e a Portaria n.º 775/92, de 10 de Agosto."
+  },
+  "214908328": {
+   "fragment_id": "214908240",
+   "type": 11,
+   "heading": "Artigo 3.º — Autoridades competentes",
+   "in_force_from": "2009-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 263/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689), em vigor a partir de 2009-12-27"
+   ],
+   "markdown": "###### Artigo 3.º — Autoridades competentes\n\n1 - (Revogado.)\n\n2 - (Revogado.)\n\n3 - O Instituto Portuário e dos Transportes Marítimos, I. P. (IPTM, I. P.), a Autoridade Nacional de Controlo de Tráfego Marítimo (ANCTM) e a Autoridade Marítima Nacional (AMN) asseguram o acompanhamento e adoptam as medidas necessárias e adequadas para garantir que todos os navios que naveguem pelos EST estabelecidos utilizam esses sistemas de acordo com as orientações e critérios pertinentes definidos pela OMI.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 263/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689), em vigor a partir de 2009-12-27"
+  },
+  "214908329": {
+   "fragment_id": "214908246",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": "2009-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 263/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689), em vigor a partir de 2009-12-27"
+   ],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\nCompete ao IPTM, I. P., à ANCTM, através do CCTMC, e à AMN, através dos meios navais disponíveis, a fiscalização do cumprimento do estabelecido no presente decreto-lei.\n\n> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 263/2009 - Diário da República n.º 188/2009, Série I de 2009-09-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2009-490689), em vigor a partir de 2009-12-27"
+  },
+  "214908327": {
+   "fragment_id": "214908254",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Agosto de 2006. - José Sócrates Carvalho Pinto de Sousa - Luís Filipe Marques Amado - Fernando Teixeira dos Santos - João António da Costa Mira Gomes - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Paulo Jorge Oliveira Ribeiro de Campos.\n\nPromulgado em 4 de Outubro de 2006.\n\nPublique-se.\n\nO Presidente da República, ANÍBAL CAVACO SILVA.\n\nReferendado em 6 de Outubro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

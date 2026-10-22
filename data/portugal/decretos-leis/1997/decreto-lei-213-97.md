@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:209591:por
+title: Decreto-Lei n.º 213/97
+short_title: null
+summary: Altera o n.º 3 do artigo 17.º e a alínea b) do n.º 1 do artigo 19.º do Decreto-Lei n.º 19/93, de 23 de Janeiro (estabelece
+  normas relativas à Rede Nacional das Áreas Protegidas)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente
+proposing_entity: null
+official_number: 213/97
+official_date: null
+publication_date: '1997-08-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 188/1997, Série I-A de 1997-08-16
+  number: '188'
+  series: I
+  supplement: null
+  pages: 4258 - 4259
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/08/188a00/42584259.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/213/1997/08/16/p/dre/pt/html
+  oj: null
+  dre: '209591'
+  dre_path: /dr/detalhe/decreto-lei/213-1997-209591
+  internal: pt:dre:209591:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1997-209591
+  metadata_url: https://data.dre.pt/eli/dec-lei/213/1997/08/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/213-1997-209591
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-24T00:00:00Z'
+integrity:
+  source_sha256: c9a5cc2237fedf787250912b5e4bcd6fae330a002079a7b56a29259222f50f0c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-213-209591.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Comissão Directiva
+- Instituto da Conservação da Natureza
+- Conselho Consultivo
+- Proteção do Ambiente
+- Zona de Proteção
+- Rede Nacional de Áreas Protegidas
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:454502:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/1993/01/23/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 213/97
+
+de 16 de Agosto
+
+Nos termos do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, a comissão directiva das áreas protegidas de interesse nacional é composta por um presidente e dois vogais, sendo um destes nomeado pelo Instituto da Conservação da Natureza (que sucedeu ao Serviço Nacional de Parques Reservas e Conservação da Natureza) em regime de destacamento ou requisição.
+
+A aplicação do diploma legal citado tem vindo a demonstrar a necessidade de dotar esta nomeação de uma maior flexibilidade, atendendo a que, por um lado, o exercício do cargo se basta geralmente pela participação nas reuniões da comissão directiva - sendo, portanto, desnecessário o compromisso orçamental inerente à nomeação por destacamento ou requisição - e que, por outro, é vantajosa para a gestão das áreas protegidas a possibilidade de participação de diferentes sectores, sem que esta participação tenha de exigir o abandono de funções nas instituições de origem dos nomeados.
+
+No que concerne ao conselho consultivo do mesmo tipo de áreas protegidas constata-se a necessidade de alargar a sua composição por forma que possa passar a integrar representantes dos sectores sócio-económicos com representação na área.
+
+Assim:
+
+Nos termos da alínea c) do artigo 201.º da Constituição e em desenvolvimento do regime jurídico estabelecido pela [Lei n.º 11/87](https://diariodarepublica.pt/dr/detalhe/lei/11-1987-666148), de 7 de Abril, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 17.º e 19.º do [Decreto-Lei n.º 19/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-1993-584781), de 23 de Janeiro, passam a ter a seguinte redacção:
+
+«Artigo 17.º
+
+Comissão directiva
+
+1 - ...
+
+2 - ...
+
+3 - Um dos vogais é nomeado pelo Instituto de Conservação da Natureza, designadamente em regime de destacamento ou requisição, e o outro pelas câmaras municipais com jurisdição na área.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+###### Artigo 19.º — Conselho consultivo
+
+1 - ...
+
+a) - ...
+
+b) Representantes designados pelos serviços da administração central, câmaras municipais, juntas de freguesia, associações de defesa do ambiente e do património construído e instituições representativas dos interesses sócio-económicos.
+
+2 - ...
+
+3 - ...»
+
+###### Artigo 2.º
+
+O presente decreto-lei entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Junho de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira - Jorge Paulo Sacadura Almeida Coelho.
+
+**Promulgado em 28 de Julho de 1997.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 30 de Julho de 1997.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

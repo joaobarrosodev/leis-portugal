@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:253035:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-66253449",
+ "dre_path": "/dr/detalhe/portaria/196-2002-253035",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-03-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "66267165"
+   ]
+  },
+  {
+   "date": "2005-06-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:227402:por",
+     "title": "Portaria n.º 511/2005",
+     "published": "2005-06-09",
+     "dre_path": "/dr/detalhe/portaria/511-2005-227402"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "66267165",
+    "66267162"
+   ]
+  }
+ ],
+ "fragments": {
+  "66267165": {
+   "fragment_id": "66253450",
+   "type": 15,
+   "heading": "Diploma — Portaria n.º 196/2002 de 5 de Março",
+   "in_force_from": "2005-06-14",
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 275-A/2000, de 9 de Novembro, que aprovou a Lei Orgânica da Polícia Judiciária, prevê no seu artigo 93.º que o pessoal dirigente e os funcionários deste organismo têm direito a um seguro de acidentes em serviço, a regulamentar por portaria do Ministro da Justiça.\n\nAssim, ao abrigo do disposto no artigo 93.º do Decreto-Lei n.º 275-A/2000, de 9 de Novembro, e ouvidas as associações sindicais representativas do pessoal da Polícia Judiciária:\n\nManda o Governo, pelo Ministro da Justiça, o seguinte:\n\n1.º O seguro de acidentes em serviço do pessoal dirigente e dos funcionários da Polícia Judiciária é contratado nas condições e montantes constantes dos números seguintes.\n\n2.º O seguro destina-se a cobrir os riscos de morte, invalidez permanente e parcial e internamento emergentes de acidentes em serviço do pessoal da Polícia Judiciária.\n\n3.º O seguro abrangerá todo o pessoal ao serviço da Polícia Judiciária, independentemente do vínculo e natureza das suas funções.\n\n4.º O valor da indemnização por morte ou incapacidade permanente tem como limite máximo, por pessoa segura, o correspondente a 250 vezes o salário mínimo nacional na modalidade mais elevada.\n\n5.º A indemnização por internamento tem como valor máximo, por dia de internamento, o correspondente a 1/14 do salário mínimo nacional na modalidade mais elevada.\n\n6.º Em caso de incapacidade parcial permanente, a indemnização é calculada tendo em consideração as percentagens de desvalorização constantes da Tabela Nacional de Incapacidades.\n\n7.º Até à celebração de novo contrato de seguro, é mantido em vigor o contrato de seguro actualmente existente.\n\n8.º Os encargos decorrentes da celebração do contrato de seguro previsto na presente portaria são suportados pelo orçamento da Polícia Judiciária."
+  },
+  "66267162": {
+   "fragment_id": "66253452",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "30 de Janeiro de 2002. - O Ministro da Justiça, António Luís Santos Costa."
+  }
+ }
+}

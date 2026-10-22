@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:642547:por
+title: Resolução do Conselho de Ministros n.º 155/2007
+short_title: null
+summary: Estabelece as orientações relativas à acessibilidade pelos cidadãos com necessidades especiais aos sítios da Internet
+  do Governo e dos serviços e organismos públicos da administração central
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 155/2007
+official_date: null
+publication_date: '2007-10-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/2007, Série I de 2007-10-02
+  number: '190'
+  series: I
+  supplement: null
+  pages: 7058 - 7058
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/10/19000/0705807058.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/155/2007/10/02/p/dre/pt/html
+  oj: null
+  dre: '642547'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/155-2007-642547
+  internal: pt:dre:642547:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/155-2007-642547
+  metadata_url: https://data.dre.pt/eli/resolconsmin/155/2007/10/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/155-2007-642547
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-10-19T00:00:00Z'
+integrity:
+  source_sha256: f71181bd5c1fb5802ae9d1ba2a282f201d877e57606c503bc7927dcf720c449d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-155-642547.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Administração Central
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Direito de Acesso
+- Plano Nacional de Promoção da Acessibilidade
+- Secretaria Geral
+- Grupo de Trabalho
+- Inclusão Digital
+- TIC
+- Sociedade da Informação
+- Organismo do Estado
+- Proteção ao Deficiente
+- Internet
+- UMIC
+- Ceger
+- Presidência do Conselho de Ministros
+- Agência para a Modernização Administrativa
+- Instituto Nacional para a Reabilitação
+relationships:
+- type: amended_by
+  target: pt:dre:116734769:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/120/2006/09/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/120/2006/09/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/9/2007/01/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/9/2007/01/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/97/1999/08/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 155/2007
+
+O desenvolvimento das tecnologias da informação e da comunicação, em particular nas últimas décadas do século XX, e a sua disponibilização em grande escala para uso pela população levaram a uma alteração profunda das actividades económicas e sociais, com impacte na qualidade de vida dos cidadãos e na competitividade e produtividade das empresas.
+
+O XVII Governo Constitucional atribui um particular relevo ao domínio do governo electrónico e da modernização tecnológica dos serviços públicos, empenhando-se activamente na melhoria na qualidade, desempenho, acessibilidade e disponibilidade dos serviços públicos online.
+
+A modernização tecnológica aumenta as oportunidades de acção de indivíduos e instituições, fornece instrumentos que permitem promover a cidadania e a inclusão e constituem um factor poderoso para o crescimento e para o sucesso económico.
+
+Neste contexto, o acesso às tecnologias da informação e da comunicação e as competências para a sua utilização são um factor diferenciador das oportunidades sociais da maior importância na actualidade. As tecnologias da sociedade da informação representam para todas as pessoas com necessidades especiais (pessoas com deficiência e idosos) um meio propiciador de inclusão e participação social por excelência.
+
+Assim, estas tecnologias podem e devem ser simultaneamente um factor de coesão social e de combate à exclusão.
+
+Importa, pois, assegurar que a informação disponibilizada pela Administração Pública na Internet seja susceptível de ser compreendida e pesquisável pelos cidadãos com necessidades especiais.
+
+Dado que a [Resolução do Conselho de Ministros n.º 97/99](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-1999-428656), de 26 de Agosto, não logrou satisfazer integralmente o seu escopo, cumpre agora definir e determinar que sejam adoptados determinados requisitos mínimos nas soluções técnicas adoptadas, de forma a alcançar tal objectivo.
+
+A iniciativa para a acessibilidade da web do World Wide Web Consortium (W3C) desenvolveu uma série de directrizes, entre as quais se contam as directrizes sobre a acessibilidade do conteúdo da web, que se tornaram, entretanto, uma norma mundialmente utilizada para a criação de sítios web acessíveis.
+
+No âmbito da modernização tecnológica dos serviços públicos em curso, impõe-se um padrão que garanta não apenas o mínimo de acessibilidade aos conteúdos, de acordo com as directrizes definidas pelo W3C, mas também a acessibilidade aos sítios da Internet que impliquem a disponibilização de serviços transaccionais electronicamente. Para o efeito se prescreve que a concepção das páginas da Internet que impliquem a prestação de serviços transaccionais aos cidadãos cumpram um padrão de acessibilidade mais elevado, tendo em conta as directrizes definidas pelo W3C.
+
+A presente medida insere-se no I Plano de Acção para a Integração das Pessoas com Deficiências ou Incapacidade para os anos de 2006 a 2009 (I PAIPDI 2006-2009), aprovado pela [Resolução do Conselho de Ministros n.º 120/2006](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/120-2006-541782), de 21 de Setembro, dando igualmente execução ao Plano Nacional de Promoção da Acessibilidade (PNPA), aprovado pela [Resolução do Conselho de Ministros n.º 9/2007](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/9-2007-522808), de 17 de Janeiro.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Determinar que as formas de organização e apresentação dos sítios da Internet do Governo e dos serviços e organismos públicos da administração central sejam escolhidas de forma a permitirem ou facilitarem o seu acesso pelos cidadãos com necessidades especiais, devendo respeitar o nível de conformidade «A» das directrizes sobre a acessibilidade do conteúdo da web, desenvolvidas pelo World Wide Web Consortium (W3C).
+
+2 - Determinar que os sítios da Internet do Governo e dos serviços e organismos públicos da administração central que impliquem a prestação de serviços transaccionais aos cidadãos respeitem o nível de conformidade «AA» das directrizes sobre a acessibilidade do conteúdo da web, desenvolvidas pelo W3C.
+
+3 - Determinar que os sítios da Internet dos organismos referidos no n.º 1 respondam tecnicamente ao estabelecido na presente resolução, mediante adaptação, remodelação ou nova construção, no prazo máximo de três meses.
+
+4 - Determinar que os sítios da Internet referidos no n.º 2 respondam tecnicamente ao estabelecido na presente resolução, mediante adaptação, remodelação ou nova construção, no prazo máximo de seis meses.
+
+5 - Determinar que os sítios da Internet a criar a partir da data da entrada em vigor da presente resolução assegurem a acessibilidade nela prevista de forma imediata.
+
+6 - Determinar à Secretaria-Geral da Presidência do Conselho de Ministros a incumbência de desenvolver as acções de informação, de esclarecimento e de acompanhamento necessárias ao cumprimento da presente resolução, junto das secretarias-gerais dos vários ministérios, as quais respondem perante esta pelo cumprimentos dos objectivos fixados.
+
+7 - Constituir um grupo de trabalho com funções consultivas composto por representantes da Agência para a Modernização Administrativa, I. P. (AMA, I. P.), que coordena, da UMIC - Agência para a Sociedade do Conhecimento, I. P. (UMIC, I. P.), do Instituto Nacional para a Reabilitação e do Centro de Gestão da Rede Informática do Governo (CEGER), que articulará com a Secretaria-Geral da Presidência do Conselho de Ministros, devendo contribuir para a boa identificação dos requisitos técnicos de acessibilidade, nomeadamente os relativos aos níveis de conformidade «A» e «AA» e prestar a demais cooperação para efeitos de consultadoria técnica.
+
+8 - Autorizar, nos termos do n.º 1 do artigo 79.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, para a aquisição dos serviços referidos nos n.os 3 e 4, a escolha do procedimento previsto na alínea e) do n.º 1 do artigo 86.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, nos termos aí estabelecidos e quando for o caso.
+
+9 - Determinar que a presente resolução produz efeitos na data da sua aprovação.
+
+Presidência do Conselho de Ministros, 27 de Setembro de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

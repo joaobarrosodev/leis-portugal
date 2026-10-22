@@ -1,0 +1,1862 @@
+---
+schema_version: '1.0'
+id: pt:dre:621714:por
+title: Decreto-Lei n.º 290/92
+short_title: null
+summary: Transpõe a Directiva n.º 91/680/CEE, de 16 de Dezembro, alterando o Código do IVA no atinente às transacções intracomunitárias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 290/92
+official_date: null
+publication_date: '1992-12-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 298/1992, Série I-A de 1992-12-28
+  number: '298'
+  series: I
+  supplement: null
+  pages: 5966 - 5979
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/12/298a00/59665979.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-29'
+version_history:
+  file: decreto-lei-290-92.versoes.json
+  count: 28
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1992-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-01-30'
+    amending: pt:dre:302492:por
+    amending_title: Declaração de Rectificação n.º 1/93
+    changes:
+    - Retifica Artigo 6.º
+    - Retifica Artigo 10.º
+    - Retifica Artigo 28.º
+  - date: '1994-03-19'
+    amending: pt:dre:274031:por
+    amending_title: Decreto-Lei n.º 82/94
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+  - date: '1994-06-14'
+    amending: pt:dre:302276:por
+    amending_title: Decreto-Lei n.º 166/94
+    changes:
+    - Altera Artigo 25.º
+  - date: '1995-01-01'
+    amending: pt:dre:233945:por
+    amending_title: Lei n.º 39-B/94
+    changes:
+    - Altera Artigo 6.º
+  - date: '1995-04-15'
+    amending: pt:dre:230113:por
+    amending_title: Rectificação n.º 2/95
+    changes:
+    - Retifica Artigo 6.º
+  - date: '1996-03-28'
+    amending: pt:dre:477288:por
+    amending_title: Lei n.º 10-B/96
+    changes:
+    - Altera Artigo 30.º
+  - date: '1996-10-31'
+    amending: pt:dre:224581:por
+    amending_title: Decreto-Lei n.º 206/96
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 32.º
+  - date: '1997-08-14'
+    amending: pt:dre:203031:por
+    amending_title: Decreto-Lei n.º 204/97
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 22.º
+  - date: '1999-01-01'
+    amending: pt:dre:570520:por
+    amending_title: Lei n.º 87-B/98
+    changes:
+    - Altera Artigo 16.º
+  - date: '2001-07-01'
+    amending: pt:dre:319904:por
+    amending_title: Decreto-Lei n.º 31/2001
+    changes:
+    - Altera Artigo 22.º
+  - date: '2002-08-08'
+    amending: pt:dre:175985:por
+    amending_title: Decreto-Lei n.º 179/2002
+    changes:
+    - Altera Artigo 24.º
+    - Altera Artigo 32.º
+  - date: '2003-01-01'
+    amending: pt:dre:306907:por
+    amending_title: Lei n.º 32-B/2002
+    changes:
+    - Altera Artigo 22.º
+  - date: '2003-07-03'
+    amending: pt:dre:693248:por
+    amending_title: Decreto-Lei n.º 130/2003
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 14.º
+  - date: '2004-01-01'
+    amending: pt:dre:669556:por
+    amending_title: Lei n.º 107-B/2003
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 32.º
+  - date: '2005-01-01'
+    amending: pt:dre:689420:por
+    amending_title: Lei n.º 55-B/2004
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+  - date: '2005-12-12'
+    amending: pt:dre:490257:por
+    amending_title: Decreto-Lei n.º 211/2005
+    changes:
+    - Altera Artigo 22.º
+  - date: '2007-01-01'
+    amending: pt:dre:552372:por
+    amending_title: Decreto-Lei n.º 238/2006
+    changes:
+    - Altera Artigo 22.º
+  - date: '2008-01-01'
+    amending: pt:dre:529450:por
+    amending_title: Lei n.º 67-A/2007; Decreto-Lei n.º 393/2007
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º
+    - Altera Artigo 6.º
+    - Altera Artigo 26.º
+  - date: '2008-06-25'
+    amending: pt:dre:449902:por
+    amending_title: Decreto-Lei n.º 102/2008
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Capítulo VI
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+    - Altera Artigo 34.º
+    - Elimina Artigo 27.º
+  - date: '2010-01-01'
+    amending: pt:dre:493507:por
+    amending_title: Decreto-Lei n.º 186/2009
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 16.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 30.º
+  - date: '2011-01-01'
+    amending: pt:dre:306581:por
+    amending_title: Decreto-Lei n.º 134/2010
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+  - date: '2012-01-01'
+    amending: pt:dre:243769:por
+    amending_title: Lei n.º 64-B/2011
+    changes:
+    - Altera Artigo 30.º
+  - date: '2013-01-01'
+    amending: pt:dre:174548:por
+    amending_title: Decreto-Lei n.º 197/2012
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º
+    - Altera Artigo 23.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+  - date: '2016-08-02'
+    amending: pt:dre:75069302:por
+    amending_title: Decreto-Lei n.º 41/2016
+    changes:
+    - Altera Artigo 22.º
+  - date: '2021-01-01'
+    amending: pt:dre:140950562:por
+    amending_title: Lei n.º 47/2020
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 26.º
+    - Altera Artigo 31.º
+  - date: '2022-06-28'
+    amending: pt:dre:185224662:por
+    amending_title: Lei n.º 12/2022
+    changes:
+    - Altera Artigo 5.º
+  - date: '2025-03-29'
+    amending: pt:dre:912066244:por
+    amending_title: Decreto-Lei n.º 35/2025
+    changes:
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/290/1992/p/cons/20250324/pt/html
+  oj: null
+  dre: '621714'
+  dre_path: /dr/detalhe/decreto-lei/290-1992-621714
+  internal: pt:dre:621714:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1992-621714
+  metadata_url: https://data.dre.pt/eli/dec-lei/290/1992/p/cons/20250324/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-34554675
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-34554675
+  retrieved_at: '2026-10-22T11:52:39Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 35a612518e3d1408d217dd2dc17fbd8542e6cc28e646f2debb748cee28809813
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:52:39Z'
+  notes: 28 versão(ões); histórico completo em decreto-lei-290-92.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- CEE
+- Código do IVA
+- Política Fiscal
+- Importação
+- IVA
+- Isenção Fiscal
+- Café
+- Transporte de Mercadorias
+- Prestação de Serviços
+- Troca Intracomunitária
+relationships:
+- type: amended_by
+  target: pt:dre:302492:por
+  label: Retifica Artigo 6.º; Retifica Artigo 10.º; Retifica Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1993-302492
+  date: '1993-01-30'
+- type: amended_by
+  target: pt:dre:274031:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 12.º;
+    Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 19.º; Altera Artigo 22.º;
+    Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º; Altera Artigo 31.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031
+  date: '1994-03-14'
+- type: amended_by
+  target: pt:dre:302276:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276
+  date: '1994-06-09'
+- type: amended_by
+  target: pt:dre:233945:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945
+  date: '1994-12-27'
+- type: amended_by
+  target: pt:dre:230113:por
+  label: Retifica Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/rectificacao/2-1995-230113
+  date: '1995-04-15'
+- type: amended_by
+  target: pt:dre:477288:por
+  label: Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288
+  date: '1996-03-23'
+- type: amended_by
+  target: pt:dre:224581:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1996-224581
+  date: '1996-10-26'
+- type: amended_by
+  target: pt:dre:203031:por
+  label: Altera Artigo 14.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1997-203031
+  date: '1997-08-09'
+- type: amended_by
+  target: pt:dre:570520:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520
+  date: '1998-12-31'
+- type: amended_by
+  target: pt:dre:319904:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2001-319904
+  date: '2001-02-08'
+- type: amended_by
+  target: pt:dre:175985:por
+  label: Altera Artigo 24.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2002-175985
+  date: '2002-08-03'
+- type: amended_by
+  target: pt:dre:306907:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907
+  date: '2002-12-30'
+- type: amended_by
+  target: pt:dre:693248:por
+  label: Altera Artigo 1.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2003-693248
+  date: '2003-06-28'
+- type: amended_by
+  target: pt:dre:669556:por
+  label: Altera Artigo 16.º; Altera Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556
+  date: '2003-12-31'
+- type: amended_by
+  target: pt:dre:689420:por
+  label: Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 11.º; Altera Artigo 25.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420
+  date: '2004-12-30'
+- type: amended_by
+  target: pt:dre:490257:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2005-490257
+  date: '2005-12-07'
+- type: amended_by
+  target: pt:dre:552372:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372
+  date: '2006-12-20'
+- type: amended_by
+  target: pt:dre:529450:por
+  label: Altera Artigo 17.º; Altera Artigo 22.º; Altera Artigo 6.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:628016:por
+  label: Altera Artigo 17.º; Altera Artigo 22.º; Altera Artigo 6.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-2007-628016
+  date: '2007-12-31'
+- type: amended_by
+  target: pt:dre:449902:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera
+    Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera
+    Artigo 19.º; Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902
+  date: '2008-06-20'
+- type: amended_by
+  target: pt:dre:493507:por
+  label: Altera Artigo 8.º; Altera Artigo 16.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2009-493507
+  date: '2009-08-12'
+- type: amended_by
+  target: pt:dre:306581:por
+  label: Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 15.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2010-306581
+  date: '2010-12-27'
+- type: amended_by
+  target: pt:dre:243769:por
+  label: Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769
+  date: '2011-12-30'
+- type: amended_by
+  target: pt:dre:174548:por
+  label: Altera Artigo 6.º; Altera Artigo 13.º; Altera Artigo 23.º; Altera Artigo 27.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548
+  date: '2012-08-24'
+- type: amended_by
+  target: pt:dre:75069302:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2016-75069302
+  date: '2016-08-01'
+- type: amended_by
+  target: pt:dre:140950562:por
+  label: Altera Artigo 1.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 26.º;
+    Altera Artigo 31.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562
+  date: '2020-08-24'
+- type: amended_by
+  target: pt:dre:185224662:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662
+  date: '2022-06-27'
+- type: amended_by
+  target: pt:dre:912066244:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2025-912066244
+  date: '2025-03-24'
+- type: cites
+  target: celex:31977L0388
+  label: null
+  source: http://data.europa.eu/eli/dir/1977/388/oj
+- type: cites
+  target: celex:31991L0680
+  label: null
+  source: http://data.europa.eu/eli/dir/1991/680/oj
+- type: cites
+  target: celex:31991R0717
+  label: null
+  source: http://data.europa.eu/eli/reg/1991/717/oj
+- type: cites
+  target: celex:31992R0218
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/218/oj
+article_structure:
+  article_count: 46
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:52:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 290/92
+
+1. Com o presente diploma procede-se à adaptação do regime jurídico do imposto sobre o valor acrescentado (IVA) à Directiva do Conselho n.º <a href="eurlex.asp?ano=1991&id=391L0680" title="Link para Directiva da Comunidade Europeia">91/680/CEE</a>, de 16 de Dezembro.
+
+Neste acto comunitário - integrado no conjunto de medidas necessárias para a realização do mercado interno europeu de 1993 - altera-se e complementa-se a Directiva n.º <a href="eurlex.asp?ano=1977&id=377L0388" title="Link para Directiva da Comunidade Europeia">77/388/CEE</a>, de 17 de Maio, conhecida por 6.ª Directiva, a qual constitui o texto normativo básico do sistema comum comunitário de imposto sobre o valor acrescentado.
+
+As alterações e acrescentos introduzidos na 6.ª Directiva são profundos e complexos e visam, entre outros fins secundários, eliminar, nas transacções entre países membros da CEE, todos os controlos associados à passagem das mercadorias pelas fronteiras interiores da Comunidade, garantindo, todavia, que, salvo casos excepcionais - de que se destaca a generalidade das compras dos particulares -, o imposto continue a ser pago à taxa do país de destino das mercadorias e a favor do respectivo Tesouro.
+
+Foi este o compromisso a que se chegou, em regime transitório, verificada a impossibilidade de atingir consenso, necessariamente unânime, na aplicação do IVA na origem, como a Comissão Europeia inicialmente previra e é requerido pela própria noção de mercado único europeu. Este passo, apesar de não ter sido possível em Janeiro de 1993, não deixa, por isso, de ser a meta da harmonização comunitária em matéria de tributação geral do consumo: a própria directiva aponta para esse objectivo, a conseguir, na melhor das hipóteses, em 1996, após o exame do funcionamento do regime transitório agora estabelecido.
+
+2. A transposição da directiva vai fazer-se principalmente através de um texto legislativo autónomo, que o presente decreto-lei aprova e faz entrar em vigor - o Regime do IVA nas Transacções Intracomunitárias.
+
+Entendeu-se que esta solução de acantonar num diploma autónomo a maior parte das normas que passarão a reger o imposto nas transacções intracomunitárias de mercadorias era superior à alternativa de fazê-las parte do Código do Imposto sobre o Valor Acrescentado (CIVA), operando neste as necessárias modificações, que conduziriam, no caso, à abertura de um novo capítulo, destinado a reger aquelas transacções. As alterações de numeração dos artigos do Código e da sua própria sistematização que esta alternativa originaria conduziriam por certo a complicar mais uma legislação que se tem de reconhecer como já muito complexa. Por outro lado, a relativa homogeneidade das normas que constituem o cerne do regime transitório estabelecido na directiva, e até dos destinatários respectivos - que são, fundamentalmente (mas não exclusivamente), os agentes económicos que transaccionam bens com parceiros de outros países da Comunidade -, tornam o regime transitório do IVA nas transacções intracomunitárias um corpo normativo com suficiente autonomia para constituir um texto separado.
+
+Posto que a solução inversa tenha sido seguida pela maioria dos países europeus, os quais procederam assim a alterações profundas dos seus textos legislativos sobre IVA, pareceu que um corpo autónomo de normas, embora com as inevitáveis remissões para o CIVA, servia melhor o objectivo de dificultar ao mínimo a acção dos agentes económicos implicados, que são quem, em última análise, vai aplicar o novo regime.
+
+3. As novas regras de aplicação do IVA nas transacções intracomunitárias, todavia, têm também incidência em princípios gerais estabelecidos no CIVA, pelo que não é possível evitar alterações do articulado do Código que o presente diploma também introduz, especialmente em matéria de regras gerais de incidência, objectiva e subjectiva, e de isenções. Trata-se de matérias que, posto que modificadas em razão da criação do regime transitório de IVA, não teriam sede adequada senão no Código, onde as regras gerais têm natural assento.
+
+Um exemplo nítido de princípio geral que foi alterado pela criação do novo regime está logo na definição de um dos factos geradores do imposto ou operações tributáveis. Na verdade, o factor gerador «importação de bens», anteriormente definido como a entrada de bens no território nacional, passou a abranger apenas a entrada neste território de bens oriundos do exterior da Comunidade.
+
+As trocas intracomunitárias deixam de traduzir-se, no destino, na operação tributável «importação de bens», definida como a entrada dos bens no território nacional, para gerarem um novo evento tributável designado «aquisição intracomunitária de bens».
+
+Fica assim alterado o elenco das operações tributáveis em IVA, tal como resultava do artigo 1.º do respectivo Código.
+
+De igual modo, o novo regime tem também incidências significativas na definição de sujeitos passivos de impostos, que passará a incluir categorias de pessoas, singulares e colectivas, até agora não abrangidas pelas normas de incidência subjectiva. É o caso de qualquer pessoa, sem restrições, que adquira um «meio de transporte novo» noutro país da Comunidade, como é o caso de qualquer pessoa colectiva, incluindo o Estado, quando efectue aquisições intracomunitárias de bens que ultrapassem determinado limite quantitativo.
+
+As regras de incidência, objectiva e subjectiva, do CIVA foram, pois, alteradas em conformidade.
+
+Merecem também referência alterações do CIVA em matéria de localização das operações, especialmente pelo que toca às prestações de serviços.
+
+Trata-se, para além de ajustamentos de pormenor impostos pela directiva, de adaptar as regras de localização do CIVA à redefinição das operações tributáveis.
+
+Saliente-se, de entre o vasto conjunto de modificações de regras neste domínio, a nova regulamentação da localização das prestações de serviços de transportes intracomunitários de bens (e respectivas prestações acessórias).
+
+O princípio é, então, o de considerar tributáveis tais operações apenas quando o lugar de partida do transporte ocorra no território nacional.
+
+Todavia, quando o transporte intracomunitário se enquadra numa transacção que seja qualificável como aquisição intracomunitária de bens, torna-se tributável se o adquirente dos serviços de transporte for um sujeito passivo que tenha utilizado o número de identificação fiscal para efectuar a aquisição, nos termos das normas que regem a aquisição intracomunitária de bens. Paralelamente, a mesma operação de transporte não será tributável, ainda que ocorra em Portugal o início do transporte, sempre que o adquirente for um sujeito passivo de IVA sediado em outro Estado membro da Comunidade que tenha utilizado o número de identificação fiscal para efectuar a aquisição.
+
+Regras correspondentes valem também para as prestações de serviços acessórios do transporte e para as operações de intermediação em serviços de transporte ou prestações acessórias.
+
+Esta técnica visa, afinal, obter, para as prestações de transporte intracomunitário de bens, solução equivalente à que vigorou até 1993 e que continuará a reger idênticas operações com o exterior da Comunidade. Na verdade, num sistema com fronteiras fiscais ostensivas, de tipo alfandegário, o valor daquelas prestações de serviços fará parte, em princípio, do valor aduaneiro dos bens, pelo que tais operações são atingidas pelo imposto que agrava as importações.
+
+Por seu turno, no sistema que a Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0680" title="Link para Directiva da Comunidade Europeia">91/680/CEE</a> escogitou, as prestações de serviços em causa vão, em princípio, seguir igualmente a sorte das transacções de bens com que se conexionam - ou seja, o imposto respectivo vai ser posto a cargo do adquirente dos serviços, a mesma pessoa, afinal, que, nestas hipóteses, fica sujeita ao pagamento do IVA pela aquisição dos bens objecto da aquisição intracomunitária.
+
+Quer dizer, à cobrança do imposto sobre estas prestações, por parte das autoridades alfandegárias, vigente até 1993 corresponderão agora regras próprias de localização dessas operações, conduzindo, em princípio, ao mesmo resultado.
+
+Refira-se, por último, que foram também objecto de alteração signiticativa as normas do CIVA que regulamentam as isenções nas operações internacionais, quer na importação quer na exportação, o que resulta, obviamente, da separação, operada pela directiva, entre as transacções intracomunitárias e transacções com terceiros países.
+
+4. É no Regime do IVA nas Transacções Intracomunitárias que se concentram as normas específicas sobre o tratamento das transacções intracomunitárias de mercadorias, quer as respeitantes à incidência, às isenções e ao valor tributável quer as que versam sobre obrigações dos sujeitos passivos, em especial de liquidação e de pagamento, e as obrigações acessórias, na parte em que acrescem ou modificam as constantes do CIVA.
+
+O texto normativo segue o título XVI-A da 6.ª Directiva, aditado pela Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0680" title="Link para Directiva da Comunidade Europeia">91/680/CEE</a>. E segue-o de perto, já que é muito restrita a margem de manobra deixada nestes domínios aos legisladores nacionais pelo referido acto comunitário.
+
+No fundamental, o objectivo do regime transitório IVA para as transacções intracomunitárias de bens é, como já se disse, a eliminação, nas relações entre os países membros da CEE, dos controlos associados à passagem das mercadorias pelas fronteiras interiores da Comunidade, mantendo o princípio de que o imposto, nas transacções entre os sujeitos passivos, continua a afluir ao país de destino e a ser determinado de acordo com a taxa nele vigente.
+
+Concilia-se assim a tributação no destino com a ausência de fronteiras fiscais ostensivas e dos controlos das mercadorias em postos fronteiriços.
+
+O efeito é conseguido através da eliminação do facto gerador «importação» nas trocas de mercadorias entre os Estados membros e sua substituição por um novo facto gerador - a «aquisição intracomunitária de bens».
+
+Assim, e referindo só o princípio geral aplicável nas transacções entre sujeitos passivos, dir-se-á que estes, sempre que adquiram bens a sujeitos passivos de outros Estados membros, realizam uma «aquisição intracomunitária de bens», tributável nos termos do Regime do IVA nas Transacções Intracomunitárias, e que deverá ser levada à declaração periódica de IVA, conjuntamente com as demais operações do sujeito passivo. Em casos normais, o imposto liquidado e aí declarado será dedutível imediata e integralmente, pelo que o sujeito passivo não suportará qualquer ónus fiscal na operação de aquisição.
+
+Paralelamente, os sujeitos passivos que efectuarem vendas para clientes estabelecidos noutros Estados membros que aí tenham a qualidade de sujeitos passivos do IVA do sistema comum não liquidarão imposto, por estar isenta de IVA tal transmissão de bens, nos termos do Regime do IVA nas Transacções Intracomunitárias.
+
+5. Se a regra para as transacções entre sujeitos passivos é a aplicação do imposto ao adquirente a título de «aquisição intracomunitária de bens», praticando-se assim tributação no destino, o princípio, no que respeita às transacções em que intervenham não sujeitos passivos, é o da tributação na origem, isto é, da aplicação do imposto pelo vendedor, à taxa do país onde estiver estabelecido.
+
+A tributação na origem para todas as transacções é o princípio natural num mercado único - é para aí que há-de tender a harmonização comunitária do IVA, quando estiver realizado em pleno o mercado comum europeu.
+
+Merece, pois, que se saliente que, apesar de não ter sido possível atingir em 1993 esse objectivo, tendo-se ficado aquém dele no regime, designado transitório, da Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0680" title="Link para Directiva da Comunidade Europeia">91/680/CEE</a>, se deu, todavia, um importante passo nessa direcção no que respeita às transacções que não as que se processam entre sujeitos passivos.
+
+Especialmente os particulares (no nosso caso, os residentes em Portugal), enquanto consumidores finais, passarão a poder adquirir, em qualquer país da Comunidade, as mercadorias que quiserem, suportando o imposto da origem. Paralelamente, os residentes nos outros países da CEE, sempre que adquiram bens em Portugal, suportarão o IVA português. Desaparece assim o sistema de franquias até agora existente, não havendo, pois, limites, quantitativos ou de valor, à aquisição com o imposto da origem.
+
+6. A regra da aplicação do IVA na origem para as transacções intracomunitárias com particulares não é, contudo, absoluta, antes conhece importantes excepções, justificadas pelas graves distorções fiscais que resultariam da sua aplicação, num período em que, por motivos vários, não foi possível proceder à aproximação significativa das taxas de imposição vigentes nos 12 Estados membros.
+
+Assim, não haverá cobrança do IVA na origem nas transacções de «meios de transporte novos» - noção que é objecto, no diploma, de definição precisa. Neste caso, o imposto será sempre pago no destino, considerando-se que a respectiva aquisição por um residente em Portugal - seja este quem for, pessoa singular ou colectiva, sujeito passivo ou não de imposto sobre o valor acrescentado - constitui «aquisição intracomunitária de bens», a declarar à administração fiscal e originando imposto nos termos gerais aplicáveis a esse facto gerador.
+
+7. Também originam «aquisição intracomunitária de bens», tributável no destino de acordo com as regras do Regime do IVA nas Transacções Intracomunitárias, as compras efectuadas pelo Estado e demais pessoas colectivas de direito público, ainda que no uso dos seus poderes de autoridade, ou por qualquer pessoa colectiva não sujeita a IVA pelas regras gerais de sujeição, e ainda pelos sujeitos passivos isentos, quando o vendedor for um sujeito passivo de IVA noutro Estado membro. O objectivo desta excepção é anular, nas aquisições destas entidades, qualquer tentativa de exploração das diferenças de taxas de imposição entre os países, o que originaria distorções acentuadas no funcionamento dos mercados.
+
+O regime, todavia, não terá aplicação (salvo opção em contrário) senão quando as referidas compras ultrapassarem o montante de 1800000$00, o que corresponde ao contravalor em moeda nacional (após arredondamento) do limiar de 10000 ECU previsto na directiva. Aquém desse limite, aquelas entidades comprarão no interior da Comunidade com o imposto da origem.
+
+8. Nas chamadas «vendas à distância», em que um sujeito passivo sediado num Estado membro vende mercadorias (que não sejam meios de transporte novos nem bens sujeitos a impostos especiais de consumo) a não sujeitos passivos de outro Estado - no caso que nos interessa a não sujeitos passivos residentes em Portugal, sendo o transporte efectuado pelo vendedor ou por sua conta -, a solução é também a tributação no destino, realizada, porém, através de uma técnica diferente, qual seja a da ficção de que tal operação se localiza no país onde ocorre a chegada dos bens com destino ao adquirente. O vendedor ficará assim obrigado ao pagamento do imposto em Portugal, que é, na hipótese, o país a que se destinam as mercadorias.
+
+Temeu-se, novamente, que a aplicação do imposto na origem conduzisse à «escolha fiscal» do estabelecimento do vendedor, o qual, a haver tributação na origem, seria tentado a estabelecer-se num país em que a taxa do IVA fosse relativamente baixa.
+
+A solução, todavia, não se justifica quando o volume de vendas do vendedor à distância é pouco significativo, pelo que a directiva impõe aos Estados a concessão de limites abaixo dos quais as vendas à distância deixam de ser tributadas no país de destino das mercadorias. Não existindo um limite único - antes permitindo-se a escolha entre os valores de 35000 ECU e 100000 ECU -, pareceu prudente, atendendo à dimensão do mercado nacional, optar pelo limite mais baixo - opção que foi, aliás, declarada pelo Governo Português na acta de aprovação da directiva -, pelo que se estabeleceu que são tributáveis as vendas à distância desde que o valor das operações efectuadas exceda o montante de 6300000$00 no ano civil anterior ou no ano civil em curso.
+
+9. A abolição das fronteiras fiscais ostensivas, que ocorrerá em 1993, com a entrada em vigor deste diploma, constituindo um importante passo na construção do grande mercado interno europeu, não poderia significar enfraquecimento da segurança fiscal dos Estados membros, ou seja, não poderia resultar num risco de incremento da evasão e fraude ligadas às transacções intracomunitárias.
+
+O sistema estabelecido pela Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0680" title="Link para Directiva da Comunidade Europeia">91/680/CEE</a> comporta assim a previsão de medidas de controlo do funcionamento do regime transitório. Medidas que se pensa substituirão, sem dano da segurança e com vantagem de menores custos administrativos, os actuais controlos fronteiriços efectuados pelas autoridades alfandegárias.
+
+Uma peça importante do sistema de controlo do regime transitório são as novas obrigações acessórias dos sujeitos passivos, previstas na directiva e vertidas para o Regime do IVA nas Transacções Intracomunitárias.
+
+Entre estas, destaca-se, pela sua importância decisiva no controlo fiscal, a obrigação, para os sujeitos passivos que efectuem transmissões de bens para outros países da CEE, de recolher o número de identificação fiscal dos adquirentes, para efeitos de IVA, nos países de destino das mercadorias e a de juntar à declaração periódica um «anexo recapitulativo» contendo o valor das transmissões efectuadas e os números de identificação dos adquirentes.
+
+A recolha destes dados servirá de base da intensa cooperação que se irá processar, a partir de 1993, entre as administrações fiscais dos Doze, cooperação tendente a garantir a correcta aplicação, em todo o território da Comunidade, do regime transitório do IVA, cuja disciplina se encontra contida no Regulamento (CEE) n.º <a href="eurlex.asp?ano=1992&id=392R0218" title="Link para Regulamento da Comunidade Europeia">218/92</a>, de 27 de Janeiro.
+
+A interconexão dos sistemas informáticos dos Estados membros assegurará que cada Estado possa aceder, em algumas situações de modo imediato e automático, à informação, constante dos computadores de outros Estados, com relevo para controlar as declarações dos seus próprios sujeitos passivos, designadamente para aferir da veracidade dos números fiscais constantes dos anexos recapitulativos ou das facturas e documentos equivalentes relativos a transacções intracomunitárias.
+
+A cooperação entre as administrações fiscais será certamente o factor decisivo para garantir que a abolição dos controlos alfandegários - com ganhos importantes no custo administrativo das transacções - se não vai traduzir em aumento da evasão e da fraude, conseguindo-se antes uma melhor exploração das potencialidades do mercado alargado.
+
+A construção de uma rede intereuropeia de informações sobre IVA culminará um sistema de controlo fiável e moderno, capaz de explorar as sinergias resultantes da cooperação e interligação dos diferentes sistema nacionais, até hoje voltados quase exclusivamente para a fiscalização do cumprimento de lei fiscal no interior das fronteiras de cada Estado. É um novo campo de cooperação comunitária que está a nascer e é nele que está o futuro da segurança fiscal dos Estados europeus.
+
+Assim:
+
+No uso da autorização legislativa concedida pelas alíneas c) e d) do artigo 40.º da Lei n.º 2/92, de 9 de Março, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+O presente diploma transpõe para a ordem jurídica nacional a Directiva n.º <a href="eurlex.asp?ano=1991&id=391L0680" title="Link para Directiva da Comunidade Europeia">91/680/CEE</a>, do Conselho, de 16 de Dezembro de 1991, que completa o sistema comum do imposto sobre o valor acrescentado e altera, tendo em vista a abolição das fronteiras fiscais, a Directiva n.º <a href="eurlex.asp?ano=1977&id=377L0388" title="Link para Directiva da Comunidade Europeia">77/388/CEE</a>, do Conselho, de 17 de Maio de 1977.
+
+###### Artigo 2.º
+
+Os artigos 1.º, 2.º, 5.º, 6.º, 7.º, 13.º, 14.º, 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 26.º, 28.º e 60.º do Código do Imposto sobre o Valor Acrescentado (CIVA), aprovado pelo Decreto-Lei n.º 394-B/84, de 26 de Dezembro, passam a ter a seguinte redacção:
+
+Art. 1.º - 1 - ...
+
+a) ...
+
+b) ...
+
+c) As operações intracomunitárias efectuadas no território nacional, tal como são definidas e reguladas no Regime do IVA nas Transacções Intracomunitárias.
+
+2 - Para efeitos das disposições relativas ao IVA, entende-se por:
+
+a) «Território nacional», o território português, tal como é definido pelo artigo 5.º da Constituição da República Portuguesa;
+
+b) «Comunidade e território da Comunidade», o conjunto dos territórios nacionais dos Estados membros, tal como são definidos no artigo 227.º do Tratado que institui a Comunidade Económica Europeia, com excepção dos territórios mencionados nas alíneas c) e d);
+
+c) «País terceiro», um país não pertencente à CEE, incluindo os seguintes territórios de Estados membros da CEE: ilha de Helgoland e território de Busingen, da República Federal da Alemanha, Ceuta e Melilha, do Reino de Espanha, Livigno, Campione d'Itália e águas nacionais do lago de Lugano, da República Italiana;
+
+d) «Território terceiro», os seguintes territórios de Estados membros da CEE, os quais, salvo disposição especial, serão tratados como países terceiros: ilhas Canárias, do Reino de Espanha, departamentos ultramarinos da República Francesa, Monte Atos, da República Helénica, ilhas Anglo-Normandas do Reino Unido da Grã-Bretanha e Irlanda do Norte;
+
+e) «Transporte intracomunitário de bens», o transporte de bens cujo lugar de partida ou de chegada se situa em território nacional e termina, ou tem início, noutro Estado membro;
+
+f) «Lugar de partida», o lugar onde se inicia efectivamente o transporte, não considerando os trajectos efectuados para chegar ao lugar onde se encontram os bens;
+
+g) «Lugar de chegada», o lugar onde termina efectivamente o transporte dos bens.
+
+3 - As operações efectuadas a partir de, ou com destino a, Principado do Mónaco ou ilha de Man consideram-se como efectuadas a partir de, ou com destino, respectivamente, à República Francesa e ao Reino Unido da Grã-Bretanha e Irlanda do Norte.
+
+Art. 2.º - 1 - ...
+
+a) As pessoas singulares ou colectivas que, de um modo independente e com carácter de habitualidade, exerçam actividades de produção, comércio ou prestação de serviços, incluindo as actividades extractivas, agrícolas e as das profissões livres, e, bem assim, as que do mesmo modo independente pratiquem uma só operação tributável, desde que essa operação seja conexa com o exercício das referidas actividades, onde quer que este ocorra, ou quando, independentemente dessa conexão, tal operação preencha os pressupostos da incidência real de IRS e de IRC.
+
+As pessoas singulares ou colectivas referidas nesta alínea serão também sujeitos passivos do imposto pela aquisição de qualquer dos serviços indicados no n.º 8 do artigo 6.º, nas condições nele previstas;
+
+b) ...
+
+c) ...
+
+d) As pessoas singulares ou colectivas que efectuem operações intracomunitárias, nos termos do Regime do IVA nas Transacções Intracomunitárias;
+
+e) Os adquirentes dos serviços referidos nos n.os 11, 13 e 16 e na alínea b) do n.º 17 do artigo 6.º, nas condições aí previstas e desde que os respectivos prestadores não tenham, no território nacional, sede, estabelecimento estável ou domicílio a partir do qual o serviço seja prestado.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+Art. 5.º - 1 - Considera-se importação a entrada em território nacional de bens originários ou procedentes de países terceiros e que não se encontrem em livre prática.
+
+2 - Todavia, sempre que os bens sejam colocados, desde a sua entrada em território nacional, sob um dos regimes previstos nos n.os I) a IV) da alínea b) do n.º 1 do artigo 15.º, sob o regime de importação temporária com isenção total de direitos, sob o regime de trânsito externo ou sob o procedimento de trânsito comunitário interno, a importação só se verificará quando forem introduzidos no consumo.
+
+Art. 6.º - 1 - ...
+
+2 - Não obstante o disposto no número anterior, são também tributáveis a transmissão feita pelo importador e as eventuais transmissões subsequentes de bens transportados ou expedidos de um país terceiro, quando as referidas transmissões ocorrerem antes da importação.
+
+3 - As transmissões de bens efectuadas a bordo de um navio, de uma aeronave ou de um comboio, durante um transporte intracomunitário, só são tributáveis se o lugar de partida se situar em território nacional e o lugar de chegada no território da Comunidade.
+
+4 - (Anterior n.º 3.)
+
+5 - O disposto no n.º 4 não terá aplicação relativamente às seguintes operações:
+
+a) Prestações de serviços relacionadas com um imóvel sito fora do território nacional, incluindo as que tenham por objecto preparar ou coordenar a execução de trabalhos imobiliários e as prestações de peritos e agentes imobiliários que actuem em nome próprio e por conta de outrem;
+
+b) Prestações de serviços de transporte, pela distância percorrida fora do território nacional;
+
+c) Trabalhos efectuados sobre bens móveis corpóreos e as peritagens a eles referentes, quando executados total ou essencialmente fora do território nacional;
+
+d) Prestações de serviços acessórias do transporte, prestações de serviços de carácter artístico, científico, desportivo, recreativo, de ensino e similares, compreendendo as dos organizadores destas actividades e as prestações de serviços que lhes sejam acessórias que não tenham lugar no território nacional.
+
+6 - São, no entanto, tributáveis, onde quer que se situe a sede, o estabelecimento estável ou o domicílio do prestador:
+
+a) As prestações de serviços relacionadas com um imóvel sito no território nacional, incluindo as prestações que tenham por objecto preparar ou coordenar a execução de trabalhos imobiliários e as prestações de peritos e agentes imobiliários que actuem em nome próprio e por conta de outrem;
+
+b) As prestações de serviço de transporte, pela distância percorrida em território nacional;
+
+c) Os trabalhos efectuados sobre bens móveis corpóreos e as peritagens a eles referentes, quando executados total ou essencialmente no território nacional;
+
+d) As prestações de serviços acessórias do transporte, as prestações de serviços de carácter artístico, científico, desportivo, recreativo, de ensino e similares, compreendendo as dos organizadores destas actividades, e as prestações de serviços que lhes sejam acessórias que tenham lugar no território nacional.
+
+7 - Não obstante o disposto nas alíneas b) dos n.os 5 e 6, as prestações de serviços de transporte intracomunitário de bens são tributáveis sempre que o lugar de partida se situe em território nacional.
+
+8 - (Anterior n.º 6.)
+
+9 - (Anterior n.º 7.)
+
+10 - (Anterior n.º 8.)
+
+11 - Não obstante o disposto no n.º 7 deste artigo, as prestações de serviços de transporte intracomunitário de bens serão tributáveis quando o adquirente dos serviços seja um sujeito passivo do imposto, dos referidos nas alíneas a) e d) do n.º 1 do artigo 2.º, registado em imposto sobre o valor acrescentado e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
+
+12 - As prestações de serviços de transporte intracomunitário de bens não serão, contudo, tributáveis, ainda que se situe no território nacional o lugar de partida do transporte, quando o adquirente dos serviços seja um sujeito passivo registado, para efeitos de imposto sobre o valor acrescentado, noutro Estado membro e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
+
+13 - Não obstante o disposto na alínea d) do n.º 5 deste artigo, as prestações de serviços acessórias de um transporte intracomunitário de bens executadas noutro Estado membro serão tributáveis quando o adquirente dos serviços seja um sujeito passivo do imposto, dos referidos nas alíneas a) e d) do n.º 1 do artigo 2.º, registado em imposto sobre o valor acrescentado e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
+
+14 - As prestações de serviços acessórias de um transporte intracomunitário de bens não serão, contudo, tributáveis, ainda que se situe em território nacional o lugar da sua execução, quando o adquirente destas prestações seja um sujeito passivo registado, para efeitos de imposto sobre o valor acrescentado, noutro Estado membro e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
+
+15 - Não obstante o disposto no n.º 4 deste artigo, a prestação de serviços efectuada por um intermediário que aja, em nome e por conta de outrem, numa prestação de serviço de transporte intracomunitário de bens ou em prestações de serviços acessórias desse transporte é tributável quando se situe em território nacional o lugar de partida do transporte ou o da execução das referidas prestações acessórias, desde que, em qualquer caso, o adquirente da prestação de serviços de intermediação não seja um sujeito passivo registado, para efeitos de imposto sobre o valor acrescentado, noutro Estado membro e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
+
+16 - A prestação de serviços efectuada por um intermediário que aja, em nome e por conta de outrem, nas operações referidas no número anterior será igualmente tributada, ainda que não se situe em território nacional o lugar de partida do transporte ou se situe em outro Estado membro o lugar de execução das prestações acessórias, quando o adquirente da prestação de serviços de intermediação seja um sujeito passivo do imposto, dos referidos nas alíneas a) e d) do n.º 1 do artigo 2.º, registado em imposto sobre o valor acrescentado e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
+
+17 - Não obstante o disposto no n.º 4 deste artigo, as prestações de serviços efectuadas por intermediários que intervenham, em nome e por conta de outrem, em operações que não sejam as referidas nos n.os 8, 9, 15 e 16 deste artigo serão tributáveis:
+
+a) Quando as operações a que se refere a intermediação sejam elas próprias tributáveis e o adquirente dos serviços de intermediação não seja um sujeito passivo registado, para efeitos de imposto sobre o valor acrescentado, noutro Estado membro e que tenha utilizado o respectivo número de identificação para efectuar a aquisição;
+
+b) Quando, ainda que se situe noutro Estado membro o local de tributação das operações a que a intermediação se refere, o adquirente desta prestação de serviços seja um sujeito passivo do imposto sobre o valor acrescentado, dos referidos nas alíneas a) e d) do n.º 1 do artigo 2.º, registado em imposto sobre o valor acrescentado e que tenha utilizado o respectivo número de identificação para efectuar a aquisição.
+
+Art. 7.º - 1 - ...
+
+a) ...
+
+b) ...
+
+c) Nas importações, no momento determinado pelas disposições aplicáveis aos direitos aduaneiros, sejam ou não devidos estes direitos ou outras imposições comunitárias estabelecidas no âmbito de uma política comum.
+
+2 - Se a transmissão de bens implicar obrigação de instalação ou montagem por parte do fornecedor, considera-se que os bens são postos à disposição do adquirente no momento em que essa instalação ou montagem estiver concluída.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - Sempre que os bens sejam colocados sob um dos regimes ou procedimento referidos no n.º 2 do artigo 5.º, o facto gerador e a exigibilidade do imposto só se verificam no momento em que deixem de estar sujeitos a esses regimes ou procedimentos.
+
+Art. 13.º - 1 - ...
+
+a) ...
+
+b) ...
+
+c) As importações definitivas das aeronaves referidas na alínea g) do n.º 1 do artigo 14.º e dos objectos neles incorporados ou que sejam utilizados para a sua exploração;
+
+d) ...
+
+e) ...
+
+f) As prestações de serviços conexas com a importação cujo valor esteja incluído no valor tributável das importações de bens a que se refiram, conforme o estabelecido na alínea b) do n.º 2 do artigo 17.º;
+
+g) A reimportação de bens no estado em que foram exportados, por parte de quem os exportou, e que beneficiem de franquia aduaneira;
+
+h) ...
+
+i) ...
+
+j) ...
+
+l) ...
+
+2 - Estão isentas do imposto as importações de bens efectuadas:
+
+a) No âmbito de acordos e convénios internacionais de que Portugal seja parte, nas condições e limites acordados;
+
+b) No âmbito das relações diplomáticas e consulares que beneficiem de franquia aduaneira;
+
+c) Por organizações internacionais reconhecidas por Portugal e, bem assim, pelos membros dessas organizações, nos limites e nas condições fixados nas convenções internacionais que instituíram as referidas organizações ou nos acordos de sede;
+
+d) No âmbito do Tratado do Atlântico Norte, pelas forças armadas dos outros Estados que são Partes no referido Tratado, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa.
+
+3 - (Anterior n.º 6.)
+
+Art. 14.º - 1 - ...
+
+a) As transmissões de bens expedidos ou transportados para fora da Comunidade pelo vendedor ou por um terceiro por conta deste;
+
+b) As transmissões de bens expedidos ou transportados para fora da Comunidade por um adquirente residente ou estabelecido em país terceiro ou por um terceiro por conta deste, ainda que, antes da sua expedição ou transporte, sofram no interior do país uma reparação, uma transformação, uma adaptação ou qualquer outro trabalho, efectuados por terceiros agindo por conta do adquirente, com excepção dos bens destinados ao equipamento ou abastecimento de barcos desportivos e de recreio, de aviões de turismo ou de qualquer outro meio de transporte de uso privado;
+
+c) As prestações de serviços que consistam em trabalhos realizados sobre bens móveis, adquiridos ou importados para serem objecto de tais trabalhos em território nacional e em seguida expedidos ou transportados para fora da Comunidade por quem os prestou, pelo seu destinatário estabelecido em país terceiro ou por um terceiro por conta destes;
+
+d) As transmissões de bens de abastecimento postos a bordo das embarcações afectas à navegação marítima em alto mar e que assegurem o transporte remunerado de passageiros ou o exercício de uma actividade comercial, industrial ou de pesca;
+
+e) As transmissões de bens de abastecimento postos a bordo das embarcações de salvamento, assistência marítima e pesca costeira, com excepção, em relação a estas últimas, das provisões de bordo;
+
+f) As transmissões, transformações, reparações, operações de manutenção, construção, frete e aluguer de embarcações afectas às actividades a que se referem as alíneas d) e e), assim como as transmissões, aluguer, reparação e conservação dos objectos, incluindo o equipamento de pesca, incorporados nas referidas embarcações ou que sejam utilizados para a sua exploração;
+
+g) As transmissões, transformações, reparações e operações de manutenção, frete e aluguer de aeronaves utilizadas pelas companhias de navegação aérea que se dediquem principalmente ao tráfego internacional, assim como as transmissões, reparações, operações de manutenção e aluguer dos objectos incorporados nas mesmas aeronaves ou que sejam utilizados para a sua exploração;
+
+h) As transmissões de bens de abastecimento postos a bordo das aeronaves referidas na alínea anterior;
+
+i) As transmissões de bens de abastecimento postos a bordo das embarcações de guerra classificadas pelo código 8906 00 10 da Nomenclatura Combinada, quando deixem o país com destino a um porto ou ancoradouro situado no estrangeiro;
+
+j) As prestações de serviços não mencionadas nas alíneas f) e g) do presente número, efectuadas com vista às necessidades directas das embarcações e aeronaves ali referidas e da respectiva carga;
+
+l) [Anterior alínea j).]
+
+m) [Anterior alínea l).]
+
+n) As transmissões de bens e as prestações de serviços efectuadas no âmbito do Tratado do Atlântico Norte às forças armadas dos outros Estados que são Partes no referido Tratado, para uso dessas forças armadas ou do elemento civil que as acompanha ou para o aprovisionamento das suas messes ou cantinas, quando as referidas forças se encontrem afectas ao esforço comum de defesa;
+
+o) As transmissões de bens para organismos devidamente reconhecidos que os exportem para fora da Comunidade no âmbito das suas actividades humanitárias, criativas ou educativas, mediante prévio reconhecimento do direito à isenção;
+
+p) As prestações de serviços, incluindo os transportes e as operações acessórias, com excepção das referidas no artigo 9.º deste diploma, que estejam directamente relacionadas com o regime de trânsito externo, o procedimento de trânsito comunitário interno, a exportação de bens para fora da Comunidade e a importação de bens que beneficie da isenção prevista na alínea a) do n.º 1 do artigo 15.º;
+
+q) As prestações de serviços, com excepção das referidas no artigo 9.º deste diploma, que se relacionem com a expedição ou transporte de bens destinados a outros Estados membros, quando o adquirente dos serviços seja um sujeito passivo do imposto, dos referidos na alínea a) do n.º 1 do artigo 2.º, registado em imposto sobre o valor acrescentado e que tenha utilizado o respectivo número de identificação para efectuar a aquisição;
+
+r) [Anterior alínea p).]
+
+s) As prestações de serviços realizadas por intermediários que actuam em nome e por conta de outrem, quando intervenham em operações descritas no presente artigo ou em operações realizadas fora da Comunidade;
+
+t) [Anterior alínea s).]
+
+u) [Anterior alínea t).]
+
+2 - (Anterior n.º 3.)
+
+3 - (Anterior n.º 4.)
+
+4 - (Anterior n.º 5.)
+
+Art. 15.º - 1 - Estão isentas do imposto as operações a seguir indicadas, desde que os bens a que se referem não se destinem a utilização definitiva ou consumo final e enquanto estes se mantiverem nas respectivas situações:
+
+a) As importações de bens que se destinem a ser colocados em regime de entreposto não aduaneiro;
+
+b) As transmissões de bens que se destinem a ser:
+
+I) Apresentados na alfândega e colocados eventualmente em depósito provisório;
+
+II) Colocados numa zona franca ou entreposto franco;
+
+III) Colocados em regime de entreposto aduaneiro ou de aperfeiçoamento activo;
+
+IV) Incorporados para efeitos de construção, reparação, manutenção, transformação, equipamento ou abastecimento das plataformas de perfuração ou de exploração situadas em águas territoriais ou em trabalhos de ligação dessas plataformas ao continente;
+
+V) Colocados em regime de entreposto não aduaneiro;
+
+c) As prestações de serviços conexas com as transmissões a que se refere a alínea anterior;
+
+d) As transmissões de bens efectuadas nos locais ou sob os regimes referidos na alínea b), enquanto se mantiverem numa das situações ali mencionadas, bem como as prestações de serviços conexas com tais transmissões;
+
+e) As transmissões de bens efectuadas enquanto se mantiverem os regimes de importação temporária com isenção total de direitos ou de trânsito externo, ou o procedimento de trânsito comunitário interno, bem como as prestações de serviços conexas com tais transmissões.
+
+2 - As situações referidas nos n.os I), II), III) e IV) da alínea b) do n.º 1 do presente artigo são as definidas nas disposições aduaneiras em vigor.
+
+3 - (Anterior n.º 2.)
+
+Art. 16.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - Sempre que os elementos necessários à determinação do valor tributável sejam expressos em moeda diferente da moeda nacional, as taxas de câmbio a utilizar serão as de venda, segundo as tabelas indicativas do Banco de Portugal ou as praticadas por qualquer banco estabelecido no território nacional.
+
+10 - Os sujeitos passivos poderão ainda optar entre considerar a taxa do dia em que se verificou a exigibilidade do imposto ou a do 1.º dia útil do respectivo mês.
+
+Art. 17.º - 1 - O valor tributável dos bens importados é constituído pelo valor aduaneiro, determinado de harmonia com as disposições comunitárias em vigor.
+
+2 - O valor tributável dos bens importados incluirá, na medida em que nele não estejam compreendidos:
+
+a) Os impostos, direitos aduaneiros, taxas e demais encargos devidos antes ou em virtude da própria importação, com exclusão do imposto sobre o valor acrescentado;
+
+b) As despesas acessórias tais como despesas de comissões, embalagem, transporte e seguros, verificadas até ao primeiro lugar de destino dos bens em território nacional, com exclusão das despesas de transporte a que se refere a alínea t) do n.º 1 do artigo 14.º
+
+3 - Considera-se primeiro lugar de destino o que consta da guia de remessa ou de qualquer outro documento ao abrigo do qual os bens entram em território nacional ou, na falta de tal indicação, o lugar em que ocorra a primeira ruptura de carga no interior do país.
+
+4 - Do valor tributável dos bens importados serão excluídas as reduções de preço resultantes do desconto por pagamento antecipado e os descontos concedidos ao adquirente ou ao destinatário no momento em que a operação se realiza e que figurarem separadamente na factura.
+
+5 - Nos casos de reimportação de bens exportados temporariamente para fora do território da Comunidade e que aí tenham sido objecto de trabalhos de reparação, transformação ou complemento de fabrico, o valor tributável será o que corresponder à operação efectuada, determinado de harmonia com o disposto nos números anteriores.
+
+6 - Sempre que os elementos utilizados na determinação do valor tributável na importação não sejam expressos em moeda nacional, a taxa de câmbio será determinada de harmonia com as disposições comunitárias em vigor para o cálculo do valor aduaneiro.
+
+Art. 18.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Quando não isentas ao abrigo do artigo 13.º ou de outros diplomas, às importações de mercadorias que sejam objecto de pequenas remessas enviadas a particulares ou que sejam contidas nas bagagens pessoais dos viajantes, sujeitas ao direito aduneiro forfetário previsto nas «Disposições preliminares da Pauta Aduaneira Comum», aplicar-se-á a taxa referida na alínea c) do n.º 1, independentemente da sua natureza.
+
+5 - ...
+
+Art. 19.º - 1 - ...
+
+a) ...
+
+b) ...
+
+c) O imposto pago pela aquisição dos serviços indicados nos n.os 8, 11, 13 e 16 e na alínea b) do n.º 17 do artigo 6.º;
+
+d) ...
+
+2 - ...
+
+3 - ...
+
+Art. 20.º - 1 - ...
+
+a) ...
+
+b) ...
+
+I) ...
+
+II) ...
+
+III) Prestações de serviços cujo valor esteja incluído na base tributável de bens importados, nos termos da alínea b) do n.º 2 do artigo 17.º;
+
+IV) Transmissões de bens e prestações de serviços abrangidas pelas alíneas b), c), d) e e) do n.º 1 e n.º 3 do artigo 15.º;
+
+V) [Anterior n.º VI).].
+
+VI) [Anterior n.º VII).].
+
+2 - ...
+
+Art. 26.º - 1 - ...
+
+2 - ...
+
+3 - Os sujeitos passivos adquirentes dos serviços indicados no n.º 8 do artigo 6.º, bem como os abrangidos pelo n.º 3 do artigo 29.º, que não sejam obrigados à apresentação da declaração referida no artigo 40.º deverão entregar na tesouraria da Fazenda Pública competente o correspondente imposto até ao último dia do 2.º mês seguinte àquele em que o imposto se torna exigível.
+
+4 - Os sujeitos passivos adquirentes dos serviços indicados nos n.os 8, 11, 13, 16 e alínea b) do n.º 17 do artigo 6.º que não sejam obrigados à apresentação da declaração referida no artigo 40.º, mas tenham já apresentado a declaração do n.º 1 do artigo 25.º do Regime do IVA nas Transacções Intracomunitárias, deverão efectuar o pagamento do correspondente imposto, nos termos do n.º 2 do artigo 22.º do mesmo diploma.
+
+Art. 28.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - As transmissões de bens e as prestações de serviços isentas ao abrigo das alíneas a) a j), p) e q) do n.º 1 do artigo 14.º e das alíneas b), c), d) e e) do n.º 1 do artigo 15.º deverão ser comprovadas através dos documentos alfandegários apropriados ou, não havendo obrigação legal de intervenção dos serviços aduaneiros, de declarações emitidas pelo adquirente dos bens ou utilizador dos serviços, indicando o destino que lhes irá ser dado.
+
+9 - ...
+
+Art. 60.º - 1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - Não poderão beneficiar do regime especial previsto no n.º 1 os retalhistas que pratiquem operações de importação, exportação ou actividades com elas conexas ou ainda operações intracomunitárias referidas na alínea c) do n.º 1 do artigo 1.º
+
+9 - ...
+
+###### Artigo 3.º
+
+É aditado ao Código do IVA o seguinte artigo:
+
+Art. 126.º - 1 - Aos bens provenientes de um território terceiro tal como definido no n.º 2 do artigo 1.º e que entrem em território nacional aplicam-se:
+
+a) As formalidades relativas à entrada desses bens na Comunidade, nos termos do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1991&id=391R0717" title="Link para Regulamento da Comunidade Europeia">717/91</a>, do Conselho, de 21 de Março de 1991;
+
+b) O procedimento de trânsito comunitário interno, sempre que esses bens, consumada a sua entrada em território nacional, se destinem a outro Estado membro, ou se destinem a ser reexportados para fora da Comunidade, após terem sido objecto de trabalhos de reparação, transformação ou complemento de fabrico, trabalho de empreitada ou acabamento no interior do território nacional ou se destinem a ser colocados no regime de importação temporária com isenção total de direitos.
+
+2 - Aos bens destinados a um território terceiro tal como definido no n.º 2 do artigo 1.º aplicam-se:
+
+a) As formalidades relativas à exportação para fora da Comunidade, nos termos do Regulamento (CEE) n.º <a href="eurlex.asp?ano=1991&id=391R0717" title="Link para Regulamento da Comunidade Europeia">717/91</a>, do Conselho, de 21 de Março de 1991;
+
+b) O procedimento de trânsito comunitário interno sempre que a exportação seja efectuada em território nacional e Portugal não seja o Estado de saída dos bens para fora da Comunidade.
+
+###### Artigo 4.º
+
+É aprovado o Regime do IVA nas Transacções Intracomunitárias, que faz parte do presente decreto-lei.
+
+###### Artigo 5.º
+
+São revogados os seguintes diplomas:
+
+a) Decreto-Lei n.º 42/87, de 28 de Janeiro;
+
+b) Decreto-Lei n.º 467/88, de 16 de Dezembro;
+
+c) Decreto-Lei n.º 129/90, de 18 de Abril.
+
+###### Artigo 6.º
+
+É abolido o imposto sobre o café, criado pelo Decreto-Lei n.º 82/86, de 6 de Maio.
+
+###### Artigo 7.º
+
+1 - São revogados os artigos 2.º, 5.º, 6.º e 7.º, sendo eliminada a coluna II do mapa I bem como o mapa II anexos ao Decreto-Lei n.º 179/88, de 19 de Maio.
+
+2 - Os artigos 3.º e 4.º do decreto-lei referido no número anterior passam a ter a seguinte redacção:
+
+Art. 3.º - 1 - O valor dos bens pessoais importados temporariamente ou reimportados após a sua exportação temporária não é considerado para efeitos da determinação dos limites das isenções previstas no artigo 1.º
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+5 - Quando o valor global de várias mercadorias exceder, por viajante, os montantes previstos no artigo 1.º, a isenção será concedida até ao limite dos respectivos montantes para aquelas mercadorias que, se importadas separadamente, teriam podido beneficiar da isenção entendendo-se que o valor de uma mercadoria não pode ser fraccionado.
+
+Art. 4.º - 1 - Sem prejuízo do disposto no artigo 1.º, as mercadorias constantes do mapa I anexo ao presente diploma só serão isentas de imposto sobre o valor acrescentado e de impostos especiais de consumo dentro dos limites quantitativos nele indicados.
+
+2 - ...
+
+3 - ...
+
+4 - O valor das mercadorias mencionadas no mapa I que se encontrem dentro dos limites quantitativos aí referidos, e tendo em conta as restrições dos números anteriores, não é considerado para efeitos da determinação dos montantes do valor global das isenções previstas no artigo 1.º
+
+###### Artigo 8.º
+
+São revogados os n.os 2 e 3 do artigo 25.º, os artigos 29.º a 34.º, a alínea b), i), do n.º 1 do artigo 35.º, a alínea s) do artigo 79.º, a alínea b) do artigo 83.º, o artigo 84.º, a alínea b) do artigo 91.º e o artigo 93.º do Decreto-Lei n.º 31/89, de 25 de Janeiro, e o artigo 1.º do mesmo diploma passa a ter a seguinte redacção:
+
+Artigo 1.º - 1 - ...
+
+2 - ...
+
+a) «Importação», a importação definida no artigo 5.º do Código do Imposto sobre o Valor Acrescentado;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+3 - ...
+
+###### Artigo 9.º
+
+O Decreto-Lei n.º 295/87, de 31 de Julho, passa a ter a seguinte redacção:
+
+Artigo 1.º São isentas de imposto sobre o valor acrescentado as transmissões de bens para fins privados feitas a adquirentes sem residência em território nacional que, no prazo de 90 dias, os transportem na sua bagagem pessoal com destino a um país não pertencente à CEE.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+Art. 2.º - 1 - Não haverá, todavia, direito à isenção do imposto sempre que o valor das transmissões em cada estabelecimento seja inferior a 10000$00, líquido do imposto.
+
+2 - Não são isentas de imposto, não obstante ter sido ultrapassado o valor indicado no n.º 1, as transmissões dos seguintes bens:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+Art. 3.º - 1 - Os sujeitos passivos utilizarão o impresso do modelo B anexo ao presente diploma, a fim de documentar as transmissões dos bens por este abrangidos.
+
+2 - Os impressos serão passados em quatro exemplares, destinando-se o quadruplicado ao vendedor e os restantes ao adquirente, que os apresentará aquando da saída do território nacional aos serviços aduaneiros portugueses para confirmação da exportação e remeterá ao vendedor o original.
+
+3 - Os serviços aduaneiros competentes deverão reter em seu poder o duplicado, que, no final do mês, remeterão ao Serviço de Administração do IVA.
+
+Art. 4.º - ...
+
+Art. 5.º - ...
+
+Art. 6.º - 1 - São isentas de imposto sobre o valor acrescentado e de impostos especiais de consumo, até 30 de Junho de 1999, as transmissões de bens em balcões de vendas e a bordo de aviões e navios durante um transporte intracomunitário feitas a viajantes com destino a um Estado membro da CEE.
+
+2 - Para efeitos deste diploma, entende-se por:
+
+a) «Balcão de venda», qualquer estabelecimento situado no interior de um aeroporto ou de um porto que satisfaça as condições previstas pelas autoridades públicas para o efeito;
+
+b) «Viajante com destino a um Estado membro da Comunidade Económica Europeia», qualquer passageiro na posse de um título de transporte por via aérea ou marítima que mencione como destino imediato um aeroporto ou um porto situado em outro Estado membro da CEE;
+
+c) «Transporte intracomunitário», qualquer transporte que tenha início no interior do país e o local de chegada efectiva se situe no território de um Estado membro da CEE.
+
+Art. 7.º - 1 - O benefício da isenção referida no artigo 6.º apenas se aplica às transmissões de bens cujos valores e quantidades não excedam, por pessoa e por viagem, os limites previstos no Decreto-Lei n.º 179/88, de 19 de Maio.
+
+2 - O valor das transmissões de bens sujeitas a limites quantitativos não será tido em conta para efeitos da determinação dos limites em valor.
+
+3 - Quando o valor das transmissões dos bens exceder, por pessoa e por viagem, os valores ou as quantidades referidos no n.º 1, será concedida isenção até aos citados limites, entendendo-se que o valor de um bem não poderá ser fraccionado.
+
+Art. 8.º Os sujeitos passivos terão direito à dedução do imposto sobre o valor acrescentado, nos termos dos artigos 19.º e 20.º do Código do IVA, sempre que os bens e serviços tenham sido utilizados para efeitos das suas transmissões de bens isentas ao abrigo do disposto nos artigos 6.º e 7.º
+
+Art. 9.º O Ministro das Finanças determinará as medidas necessárias ao controlo das isenções previstas nos artigos 6.º e 7.º
+
+Art. 10.º Fica o Ministro das Finanças autorizado a criar ou a alterar, por despacho, os modelos de livros e impressos que se tornem necessários à execução do presente diploma.
+
+###### Artigo 10.º
+
+1 - São revogados os artigos 3.º e 4.º e o n.º 2 e as alíneas b) e c) do n.º 3 do artigo 7.º do Decreto-Lei n.º 135/90, de 24 de Abril.
+
+2 - O artigo 6.º do decreto-lei referido no número anterior passa a ter a seguinte redacção:
+
+Art. 6.º - 1 - Beneficiam da isenção, por um período máximo de seis meses:
+
+a) ...
+
+b) ...
+
+c) ...
+
+2 - Beneficiam igualmente da isenção, por um período máximo de quatro semanas, as remessas à consignação de peles confeccionadas, pedras preciosas, tapetes e artigos de joalharia, sempre que as suas características especiais impeçam a sua importação como amostras.
+
+3 - ...
+
+###### Artigo 11.º
+
+Fica o Ministro das Finanças autorizado a criar ou a alterar, por despacho, os modelos de livros e impressos que se tornem necessários à execução das obrigações decorrentes do presente decreto-lei.
+
+###### Artigo 12.º
+
+O presente diploma entra em vigor em 1 de Janeiro de 1993.
+
+Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1992. - Aníbal António Cavaco Silva - Jorge Braga de Macedo.
+
+## Anexo — Regime do IVA nas Transacções Intracomunitárias
+
+### Capítulo I — Incidência
+
+###### Artigo 1.º — Incidência objectiva
+
+Estão sujeitas a imposto sobre o valor acrescentado (IVA):
+
+a) As aquisições intracomunitárias de bens efetuadas no território nacional, a título oneroso, por um sujeito passivo dos referidos no n.º 1 do artigo seguinte, agindo como tal, quando o vendedor for um sujeito passivo, agindo como tal, registado para efeitos do IVA noutro Estado-Membro que não esteja aí abrangido por um qualquer regime particular de isenção de pequenas empresas, não efetue no território nacional a instalação ou montagem dos bens nos termos do n.º 2 do artigo 9.º nem os transmita nas condições previstas no artigo 11.º;
+
+b) As aquisições intracomunitárias de meios de transporte novos efetuadas no território nacional, a título oneroso, por um sujeito passivo, ainda que se encontre abrangido pelo disposto no n.º 1 do artigo 5.º, ou por um particular;
+
+c) As aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo, exigíveis em conformidade com o disposto no Código dos Impostos Especiais sobre o Consumo, efetuadas no território nacional, a título oneroso, por um sujeito passivo que se encontre abrangido pelo disposto no n.º 1 do artigo 5.º;
+
+d) As operações assimiladas a aquisições intracomunitárias de bens previstas no n.º 1 do artigo 4.º;
+
+e) As transmissões de meios de transporte novos efetuadas a título oneroso, por qualquer pessoa, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes, a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado noutro Estado-Membro.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 130/2003 - Diário da República n.º 147/2003, Série I-A de 2003-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2003-693248), em vigor a partir de 2003-07-03
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 2.º — Incidência subjectiva
+
+1 - São considerados sujeitos passivos do imposto pela aquisição intracomunitária de bens:
+
+a) As pessoas singulares ou colectivas mencionadas na alínea a) do n.º 1 do artigo 2.º do Código do IVA que realizem transmissões de bens ou prestações de serviços que conferem direito à dedução total ou parcial do imposto;
+
+b) As pessoas singulares ou colectivas mencionadas na alínea a) do n.º 1 do artigo 2.º do Código do IVA que realizem exclusivamente transmissões de bens ou prestações de serviços que não conferem qualquer direito à dedução;
+
+c) O Estado e as demais pessoas colectivas de direito público abrangidas pelo disposto no n.º 2 do artigo 2.º do Código do IVA ou qualquer outra pessoa colectiva não compreendida nas alíneas anteriores.
+
+2 - São ainda considerados sujeitos passivos do imposto:
+
+a) Os particulares que efectuem aquisições intracomunitárias de meios de transporte novos;
+
+b) As pessoas singulares ou colectivas que ocasionalmente efectuem transmissões de meios de transporte novos, expedidos ou transportados a partir do território nacional, com destino a um adquirente estabelecido ou domiciliado noutro Estado membro.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+###### Artigo 3.º — Conceito de aquisição intracomunitária de bens
+
+Considera-se, em geral, aquisição intracomunitária a obtenção do poder de dispor, por forma correspondente ao exercício do direito de propriedade, de um bem móvel corpóreo cuja expedição ou transporte para território nacional, pelo vendedor, pelo adquirente ou por conta destes, com destino ao adquirente, tenha tido início noutro Estado membro.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+###### Artigo 4.º — Operações assimiladas a aquisições intracomunitárias de bens
+
+1 - Consideram-se assimiladas a aquisições intracomunitárias de bens, efectuadas a título oneroso, as seguintes operações:
+
+a) A afectação por um sujeito passivo às necessidades da sua empresa, no território nacional, de um bem expedido ou transportado, por si ou por sua conta, a partir de outro Estado membro no qual o bem tenha sido produzido, extraído, transformado, adquirido ou importado pelo sujeito passivo, no âmbito da sua actividade;
+
+b) A aquisição de bens expedidos ou transportados a partir de um país terceiro e importados noutro Estado membro, quando ambas as operações forem efectuadas por uma pessoa colectiva das referidas na alínea c) do n.º 1 do artigo 2.º
+
+2 - Sem prejuízo do disposto neste diploma, são consideradas como aquisições intracomunitárias as operações que, se efectuadas no território nacional por um sujeito passivo agindo como tal, seriam consideradas transmissões, nos termos do artigo 3.º do Código do IVA.
+
+3 - Não é considerada aquisição intracomunitária a afectação de bens a que se refere a alínea a) do n.º 1 quando a transferência desses bens tiver por objecto a realização, no território nacional, de operações mencionadas no n.º 2 do artigo 7.º
+
+4 - Não é considerada aquisição intracomunitária a afetação de bens a que se refere a alínea a) do n.º 1 nas situações previstas nos n.os 1 a 3 do artigo 7.º-A, salvo quando se verifique qualquer das condições referidas no n.º 4 do artigo 7.º
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/96 - Diário da República n.º 249/1996, Série I-A de 1996-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1996-224581), em vigor a partir de 1996-10-31
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 5.º — Regime de derrogação
+
+1 - Não obstante o disposto nas alíneas a) e d) do artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens quando se verifiquem, simultaneamente, as seguintes condições:
+
+a) Sejam efectuadas por um sujeito passivo dos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º;
+
+b) Os bens não sejam meios de transporte novos nem bens sujeitos a impostos especiais de consumo;
+
+c) O valor global das aquisições, líquido do IVA devido ou pago nos Estados membros onde se inicia a expedição ou transporte dos bens, não tenha excedido, no ano civil anterior ou no ano civil em curso, o montante de (euro) 10000 ou, tratando-se de uma única aquisição, não exceda esse montante.
+
+2 - Para efeitos do disposto na alínea c) do número anterior, o valor global das aquisições é determinado com exclusão do valor das aquisições de meios de transporte novos e de bens sujeitos a impostos especiais de consumo.
+
+3 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 podem optar pela aplicação do regime de tributação previsto no artigo 1.º, devendo permanecer no regime de sujeição durante um período de dois anos.
+
+4 - Não obstante o disposto no artigo 1.º, não estão sujeitas a imposto as aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta de imposto nos termos das alíneas d) a m), v) e z) a bb) do n.º 1 do artigo 14.º do Código do IVA.
+
+> Alterado pelo/a Artigo 290.º do/a [Lei n.º 12/2022 - Diário da República n.º 122/2022, Série I de 2022-06-27](https://diariodarepublica.pt/dr/detalhe/lei/12-2022-185224662), em vigor a partir de 2022-06-28
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 6.º — Conceito de impostos especiais de consumo e de meios de transporte
+
+1 - Para efeitos deste diploma, entende-se por:
+
+a) 'Bens sujeitos a impostos especiais de consumo' o álcool e as bebidas alcoólicas, o tabaco e os produtos petrolíferos e energéticos, com excepção do gás fornecido através de uma rede de gás natural ou de qualquer rede a ela ligada e da electricidade;
+
+b) «Meios de transporte», as embarcações com comprimento superior a 7,5 m, as aeronaves com peso total na descolagem superior a 1550 kg, e os veículos terrestres a motor com cilindrada superior a 48 c. c. ou potência superior a 7,2 kW, destinados ao transporte de pessoas ou de mercadorias, que sejam sujeitos a registo, licença ou matrícula no território nacional, com excepção das embarcações e aeronaves mencionados nas alíneas d), e) e g) do n.º 1 do artigo 14.º do Código do IVA.
+
+2 - Não são considerados novos os meios de transporte mencionados na alínea b) do número anterior, desde que se verifiquem simultaneamente as seguintes condições:
+
+a) A transmissão seja efectuada mais de três ou seis meses após a data da primeira utilização, tratando-se, respectivamente, de embarcações e aeronaves ou de veículos terrestres;
+
+b) O meio de transporte tenha percorrido mais de 6000 km, tratando-se de um veículo terrestre, navegado mais de cem horas, tratando-se de uma embarcação, ou voado mais de quarenta horas, tratando-se de uma aeronave.
+
+3 - Para efeitos do disposto na alínea a) do número anterior, a data da primeira utilização é a constante do título de registo de propriedade ou documento equivalente quando se trate de bens sujeitos a registo, licença ou matrícula, ou, na sua falta, a da fatura emitida aquando da aquisição pelo primeiro proprietário.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 134/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2010-306581), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 393/2007 - Diário da República n.º 251/2007, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-2007-628016), em vigor a partir de 2008-01-01
+
+> Retificado pelo/a [Rectificação n.º 2/95 - Diário da República n.º 89/1995, Série I-A de 1995-04-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/2-1995-230113), em vigor a partir de 1995-04-15
+
+> Alterado pelo/a Artigo 32.º do/a [Lei n.º 39-B/94 - Diário da República n.º 298/1994, 2º Suplemento, Série I-A de 1994-12-27](https://diariodarepublica.pt/dr/detalhe/lei/39-b-1994-233945), em vigor a partir de 1995-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 1/93 - Diário da República n.º 25/1993, 1º Suplemento, Série I-A de 1993-01-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1993-302492), em vigor a partir de 1993-01-30
+
+###### Artigo 7.º — Operações assimiladas a transmissão de bens a título oneroso
+
+1 - Considera-se transmissão de bens efetuada a título oneroso, para além das previstas no artigo 3.º do Código do IVA, a transferência de bens móveis corpóreos expedidos ou transportados pelo sujeito passivo ou por sua conta, com destino a outro Estado-Membro, para as necessidades da sua empresa.
+
+2 - Não são, no entanto, consideradas transmissões de bens, nos termos do número anterior, as seguintes operações:
+
+a) Transferência de bens para serem objeto de instalação ou montagem noutro Estado-Membro nos termos do n.º 1 do artigo 9.º ou de bens cuja transmissão não é tributável no território nacional nos termos do artigo 10.º;
+
+b) Transferência de bens para serem objeto de transmissão a bordo de um navio, de um avião ou de um comboio, durante um transporte em que os lugares de partida e de chegada se situem na União Europeia;
+
+c) Transferência de bens que consista em operações de exportação e operações assimiladas previstas no artigo 14.º do Código do IVA ou em transmissões isentas nos termos do artigo 14.º;
+
+d) Transferência de gás, através de uma rede de gás natural ou de qualquer rede a ela ligada, e transferência de eletricidade, de calor ou de frio através de redes de aquecimento ou arrefecimento;
+
+e) Transferência de bens para serem objeto de peritagens ou quaisquer trabalhos que consistam em prestações de serviços a efetuar ao sujeito passivo, materialmente executadas no Estado-Membro de chegada da expedição ou transporte dos bens, desde que, após a execução dos referidos trabalhos, os bens sejam reexpedidos para o território nacional com destino ao sujeito passivo;
+
+f) Transferência de bens para serem temporariamente utilizados em prestações de serviços a efetuar pelo sujeito passivo no Estado-Membro de chegada da expedição ou transporte dos bens;
+
+g) Transferência de bens para serem temporariamente utilizados pelo sujeito passivo, por um período que não exceda 24 meses, no território de outro Estado-Membro no interior do qual a importação do mesmo bem proveniente de um país terceiro, com vista a uma utilização temporária, beneficiaria do regime de importação temporária com isenção total de direitos.
+
+3 - Sempre que se deixe de verificar alguma das condições necessárias para poder beneficiar do disposto no número anterior, considera-se que os bens são transferidos para outro Estado-Membro nos termos do n.º 1 no momento em que a condição deixar de ser preenchida.
+
+4 - Não obstante o disposto no artigo 7.º-A, considera-se que os bens são transferidos para outro Estado-Membro, nos termos do n.º 1, quando se verifique qualquer das seguintes condições:
+
+a) O termo do prazo de um ano após a chegada dos bens ao Estado-Membro de destino sem que os bens tenham sido transmitidos para o sujeito passivo referido na alínea c) do n.º 2 ou na alínea a) do n.º 3 do artigo 7.º-A;
+
+b) Quando, dentro do prazo referido na alínea anterior:
+
+i) Os bens forem transmitidos a uma pessoa que não seja o sujeito passivo referido na alínea c) do n.º 2 ou na alínea a) do n.º 3 do artigo 7.º-A, no momento dessa transmissão;
+
+ii) Os bens forem expedidos ou transportados para fora da União Europeia ou para um Estado-Membro diferente do Estado-Membro a partir do qual foram inicialmente transferidos, antes do início dessa expedição ou transporte;
+
+iii) Ocorra destruição, perda, furto ou roubo dos bens, se devidamente comprovados, na data em que tal facto se verificar ou for detetado pelo sujeito passivo;
+
+iv) Se deixe de verificar qualquer das demais condições previstas nos n.os 1 a 3 do artigo 7.º-A, no momento em que a condição deixar de estar preenchida.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 134/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2010-306581), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 47.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/96 - Diário da República n.º 249/1996, Série I-A de 1996-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1996-224581), em vigor a partir de 1996-10-31
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 7.º-A — Regime de vendas à consignação em transferências intracomunitárias de bens
+
+1 - O disposto no n.º 1 do artigo anterior não tem aplicação em relação aos bens submetidos ao regime de vendas à consignação em transferências intracomunitárias de bens previsto no presente artigo.
+
+2 - O regime estabelecido pelo presente artigo aplica-se, independentemente da designação atribuída ao contrato, quando se verifiquem, cumulativamente, as seguintes condições:
+
+a) Os bens sejam expedidos ou transportados para outro Estado-Membro tendo em vista a sua posterior transmissão, no prazo máximo de um ano, a outro sujeito passivo que se tenha comprometido a adquirir a propriedade desses bens nos termos de um acordo existente entre ambos os sujeitos passivos;
+
+b) O sujeito passivo que procede à expedição ou transporte não disponha de sede nem estabelecimento estável no Estado-Membro de chegada dos bens;
+
+c) O sujeito passivo destinatário da transmissão de bens esteja registado para efeitos do imposto sobre o valor acrescentado no Estado-Membro de chegada dos bens e a sua identidade e respetivo número de identificação sejam conhecidos do sujeito passivo referido na alínea anterior, no momento em que se inicia a expedição ou transporte;
+
+d) O sujeito passivo referido na alínea b) proceda ao registo dessa transferência nos termos do artigo 31.º e inclua os respetivos dados na declaração recapitulativa a que se refere a alínea c) do n.º 1 do artigo 23.º
+
+3 - O disposto no número anterior aplica-se ainda em qualquer das seguintes situações:
+
+a) Quando o sujeito passivo referido na alínea c) do número anterior for substituído por outro sujeito passivo, desde que estejam reunidas as demais condições previstas nesse número e a substituição seja inscrita no registo previsto no artigo 31.º;
+
+b) Quando não venha a verificar-se a transferência do poder de dispor dos bens como proprietário, desde que os bens sejam reexpedidos para o território nacional dentro do prazo de um ano após a chegada dos bens ao Estado-Membro de destino e o sujeito passivo referido na alínea b) do número anterior proceda ao registo da respetiva reexpedição para território nacional nos termos do artigo 31.º
+
+4 - Quando estejam reunidas as condições previstas no n.º 2 e a transferência do poder de dispor dos bens como proprietário para o sujeito passivo referido na alínea c) desse número ou na alínea a) do número anterior ocorra dentro do prazo de um ano, no momento dessa transferência considera-se que:
+
+a) É efetuada uma transmissão de bens nos termos do n.º 1 do artigo 14.º pelo sujeito passivo que procedeu à expedição ou transporte dos bens, por si ou por sua conta;
+
+b) É efetuada uma aquisição intracomunitária de bens pelo sujeito passivo a quem os bens são transmitidos no Estado-Membro para onde os bens foram expedidos ou transportados.
+
+> Aditado pelo/a Artigo 4.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+###### Artigo 8.º — Localização das aquisições intracomunitárias de bens
+
+1 - São tributáveis as aquisições intracomunitárias de bens quando o lugar de chegada da expedição ou transporte com destino ao adquirente se situe no território nacional.
+
+2 - Não obstante o disposto no número anterior, são tributáveis as aquisições intracomunitárias de bens cujo lugar de chegada da expedição ou transporte se situe noutro Estado membro, desde que o adquirente seja um sujeito passivo dos referidos no n.º 1 do artigo 2.º, agindo como tal, que tenha utilizado o respectivo número de identificação para efectuar a aquisição e não prove que esta foi sujeita a imposto nesse outro Estado membro.
+
+3 - Para efeitos do disposto no número anterior, considera-se que a aquisição intracomunitária foi sujeita a imposto no Estado membro de chegada da expedição ou transporte dos bens, desde que se verifiquem, simultaneamente, as seguintes condições:
+
+a) O sujeito passivo tenha adquirido os bens para proceder à sua transmissão subsequente nesse Estado membro e inclua essa operação na declaração recapitulativa a que se refere o n.º 1 do artigo 30.º;
+
+b) O adquirente dos bens transmitidos nesse Estado membro seja um sujeito passivo aí registado para efeitos do imposto sobre o valor acrescentado;
+
+c) O adquirente seja expressamente designado, na factura emitida pelo sujeito passivo, como devedor do imposto pela transmissão dos bens efectuada nesse Estado membro.
+
+4 - São tributáveis as aquisições intracomunitárias de meios de transporte novos sujeitos a registo, licença ou matrícula no território nacional.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2009-493507), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 9.º — Localização das transmissões de bens com instalação ou montagem
+
+1 - O disposto no n.º 1 do artigo 6.º do Código do IVA não tem aplicação relativamente às transmissões de bens expedidos ou transportados pelo sujeito passivo ou por sua conta para fora do território nacional, quando os bens sejam instalados ou montados no território de outro Estado membro.
+
+2 - São, no entanto, tributáveis as transmissões de bens expedidos ou transportados a partir de outro Estado membro, quando os bens sejam instalados ou montados em território nacional, pelo fornecedor, sujeito passivo nesse outro Estado membro, ou por sua conta.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+###### Artigo 10.º — Vendas à distância localizadas fora do território nacional
+
+Não obstante o disposto nos n.os 1 e 2 do artigo 6.º do Código do IVA, não são tributáveis:
+
+a) As vendas à distância intracomunitárias de bens quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe fora do território nacional;
+
+b) As vendas à distância de bens importados em território nacional quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe fora do território nacional.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Retificado pelo/a [Declaração de Rectificação n.º 1/93 - Diário da República n.º 25/1993, 1º Suplemento, Série I-A de 1993-01-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1993-302492), em vigor a partir de 1993-01-30
+
+###### Artigo 11.º — Vendas à distância localizadas no território nacional
+
+São tributáveis:
+
+a) As vendas à distância intracomunitárias de bens quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe em território nacional;
+
+b) As vendas à distância de bens importados em outro Estado-Membro quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe em território nacional;
+
+c) As vendas à distância de bens importados em território nacional quando o lugar de chegada da expedição ou transporte dos bens com destino ao adquirente se situe neste território, se o IVA devido por essas vendas for declarado ao abrigo do regime especial aplicável às vendas à distância de bens importados.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 12.º — Facto gerador
+
+1 - Nas aquisições intracomunitárias de bens, o imposto é devido no momento em que os bens são colocados à disposição do adquirente, sendo aplicável, em idênticas condições, o previsto no artigo 7.º do Código do IVA para as transmissões de bens.
+
+2 - Relativamente à afectação de bens que tiver por objecto a realização no território nacional de operações mencionadas no n.º 2 do artigo 7.º, quando deixe de se verificar alguma das condições necessárias para poder beneficiar do disposto no n.º 3 do artigo 4.º, o imposto é devido no momento em que a condição deixar de ser preenchida.
+
+3 - Nas situações abrangidas pelo disposto no n.º 4 do artigo 4.º, o imposto é devido nos momentos referidos no n.º 4 do artigo 7.º
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 13.º — Exigibilidade
+
+1 - Nas aquisições intracomunitárias de bens, o imposto torna-se exigível:
+
+a) No 15.º dia do mês seguinte àquele em que o imposto é devido;
+
+b) Na data da emissão da fatura, se tiver sido emitida antes do prazo previsto na alínea a).
+
+2 - O disposto na alínea b) do número anterior não é aplicável quando a fatura respeitar a pagamentos parciais que precedam o momento em que os bens são colocados à disposição do adquirente.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+### Capítulo II — Isenções
+
+###### Artigo 14.º — Isenções nas transmissões
+
+1 - Estão isentas do imposto:
+
+a) As transmissões de bens, efetuadas por um dos sujeitos passivos referidos na alínea a) do n.º 1 do artigo 2.º, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes, a partir do território nacional para outro Estado-Membro com destino ao adquirente, quando este seja uma pessoa singular ou coletiva registada, para efeitos do imposto sobre o valor acrescentado, em outro Estado-Membro, que tenha utilizado e comunicado ao vendedor o respetivo número de identificação para efetuar a aquisição e aí se encontre abrangido por um regime de tributação das aquisições intracomunitárias de bens;
+
+b) As transmissões de meios de transporte novos previstas na alínea e) do artigo 1.º;
+
+c) As transmissões de bens referidas no n.º 1 do artigo 7.º que beneficiariam da isenção prevista na alínea a) deste artigo se fossem efetuadas para outro sujeito passivo;
+
+d) As transmissões de bens sujeitos a impostos especiais de consumo, efetuadas por um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º, expedidos ou transportados pelo vendedor, pelo adquirente ou por conta destes a partir do território nacional para outro Estado-Membro, com destino ao adquirente, quando este seja um sujeito passivo isento ou uma pessoa coletiva estabelecida ou domiciliada em outro Estado-Membro que não se encontre registada para efeitos do IVA, quando a expedição ou transporte dos bens seja efetuado em conformidade com o disposto no Código dos Impostos Especiais sobre o Consumo.
+
+2 - A isenção prevista na alínea a) do número anterior não tem aplicação quando o sujeito passivo transmitente não cumprir a obrigação prevista na alínea c) do n.º 1 do artigo 23.º, salvo se o sujeito passivo, em casos devidamente justificados, corrigir a falta detetada, sem prejuízo da penalidade aplicável ao caso.
+
+3 - Quando os mesmos bens sejam objeto de transmissões sucessivas e sejam expedidos ou transportados a partir do território nacional para outro Estado-Membro, diretamente do primeiro fornecedor para o último destinatário na operação em cadeia, a expedição ou transporte são imputados à transmissão de bens efetuada ao sujeito passivo intermédio.
+
+4 - Não obstante o disposto no número anterior, quando o sujeito passivo intermédio comunique ao fornecedor o respetivo número de identificação para efeitos de imposto sobre o valor acrescentado, emitido em território nacional, a expedição ou transporte são exclusivamente imputados à transmissão de bens efetuada pelo sujeito passivo intermédio.
+
+5 - Para efeitos dos n.os 3 e 4, entende-se por «sujeito passivo intermédio» um sujeito passivo que não seja o primeiro fornecedor na operação em cadeia e que proceda à expedição ou transporte dos bens por si próprio ou por intermédio de terceiro.
+
+6 - O disposto nos n.os 3 a 5 não é aplicável nas situações previstas nos n.os 9 e 10 do artigo 3.º do Código do IVA.
+
+7 - As isenções previstas nas alíneas a) e d) do n.º 1 não se aplicam às transmissões de bens efetuadas por sujeitos passivos abrangidos pelo regime especial de isenção do artigo 53.º do Código do IVA.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 35/2025 - Diário da República n.º 58/2025, Série I de 2025-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2025-912066244), em vigor a partir de 2025-03-29
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 130/2003 - Diário da República n.º 147/2003, Série I-A de 2003-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-2003-693248), em vigor a partir de 2003-07-03
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 204/97 - Diário da República n.º 183/1997, Série I-A de 1997-08-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1997-203031), em vigor a partir de 1997-08-14
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 15.º — Isenções nas aquisições intracomunitárias de bens
+
+1 - Estão isentas do imposto:
+
+a) As aquisições intracomunitárias de bens cuja transmissão no território nacional seja isenta do imposto;
+
+b) As aquisições intracomunitárias de bens cuja importação seja isenta do imposto nos termos do artigo 13.º do Código do IVA;
+
+c) As aquisições intracomunitárias de bens efectuadas por um sujeito passivo que se encontre em condições de beneficiar do reembolso de imposto previsto no regime do reembolso do IVA a sujeitos passivos não estabelecidos no Estado membro de reembolso, em aplicação do disposto na alínea b) do n.º 1 do artigo 20.º do Código do IVA e no n.º 2 do artigo 19.º
+
+2 - Estão ainda isentas do imposto as aquisições intracomunitárias de bens cujo lugar de chegada da expedição ou transporte se situe no território nacional, quando se verifiquem, simultaneamente, as seguintes condições:
+
+a) Sejam efectuadas por um sujeito passivo não residente, sem estabelecimento estável no território nacional e que não se encontre registado para efeitos do imposto sobre o valor acrescentado em Portugal;
+
+b) Os bens tenham sido directamente expedidos ou transportados a partir de um Estado membro diferente daquele que emitiu o número de identificação fiscal ao abrigo do qual o sujeito passivo efectuou a aquisição intracomunitária de bens;
+
+c) Os bens tenham sido adquiridos para serem objecto de uma transmissão subsequente a efectuar no território nacional, por esse sujeito passivo;
+
+d) A transmissão dos bens seja efectuada para um sujeito passivo registado para efeitos do imposto sobre o valor acrescentado no território nacional;
+
+e) O sujeito passivo adquirente seja expressamente designado, na factura emitida pelo vendedor, como devedor do imposto pela transmissão de bens efectuada no território nacional.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 134/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2010-306581), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 16.º — Isenções nas importações
+
+1 - Estão isentas do imposto as importações de bens efectuadas por um sujeito passivo, agindo como tal, quando esses bens tenham como destino um outro Estado membro e a respectiva transmissão, efectuada pelo importador, seja isenta do imposto nos termos do artigo 14.º
+
+2 - A isenção prevista no número anterior só é aplicável se a expedição ou transporte dos bens para um adquirente situado noutro Estado membro for consecutiva à importação e o sujeito passivo:
+
+a) Indicar o seu número de identificação para efeitos de IVA, ou o do seu representante fiscal na acepção do artigo 30.º do Código do IVA, emitido em território nacional;
+
+b) Indicar o número de identificação para efeitos de IVA do adquirente atribuído noutro Estado-Membro ou, no caso de os bens serem objeto de transmissão nos termos da alínea c) do n.º 1 do artigo 14.º, o seu próprio número de identificação para efeitos de IVA no Estado-Membro de chegada da expedição ou transporte dos bens;
+
+c) Fizer prova de que os bens importados se destinam a ser transportados ou expedidos com destino a outro Estado membro.
+
+3 - Os sujeitos passivos não residentes, sem estabelecimento estável em território nacional, que aqui não se encontrem registados para efeitos do IVA mas que disponham de um registo para efeitos desse imposto noutro Estado membro e utilizem o respectivo número de identificação para efectuar a importação, podem também beneficiar da isenção prevista no n.º 1 desde que a importação seja efectuada através de um representante indirecto devidamente habilitado para apresentar declarações aduaneiras, nos termos da legislação aplicável, que seja um sujeito passivo dos referidos na alínea a) do n.º 1 do artigo 2.º do Código do IVA, com sede, estabelecimento principal ou domicílio em território nacional.
+
+4 - Para efeitos do número anterior, o representante indirecto devidamente habilitado para apresentar declarações aduaneiras é devedor do imposto que se mostre devido e fica obrigado a comprovar os requisitos referidos no n.º 2, bem como a incluir, na respectiva declaração periódica de imposto e na declaração recapitulativa a que se refere a alínea c) do n.º 1 do artigo 23.º, a subsequente transmissão isenta nos termos do artigo 14.º
+
+5 - Sempre que não sejam prestadas as informações ou efectuada a prova referidas no n.º 2, a Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo exige uma garantia, que é mantida pelo prazo máximo de 30 dias.
+
+6 - Se até ao final do prazo referido no número anterior não forem prestadas as informações ou feita a prova aí mencionada, é exigido imposto pela importação.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 134/2010 - Diário da República n.º 249/2010, Série I de 2010-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/134-2010-306581), em vigor a partir de 2011-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2009-493507), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 33.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 32.º do/a [Lei n.º 87-B/98 - Diário da República n.º 301/1998, 5º Suplemento, Série I-A de 1998-12-31](https://diariodarepublica.pt/dr/detalhe/lei/87-b-1998-570520), em vigor a partir de 1999-01-01
+
+### Capítulo III — Valor tributável
+
+###### Artigo 17.º — Determinação do valor tributável
+
+1 - Na determinação do valor tributável das aquisições intracomunitárias de bens é aplicável, em idênticas condições, o previsto no artigo 16.º do Código do IVA para as transmissões de bens.
+
+2 - Nas transmissões referidas na alínea c) do n.º 1 do artigo 14.º e nas aquisições intracomunitárias de bens mencionadas na alínea a) do n.º 1 do artigo 4.º, o valor tributável é determinado nos termos da alínea b) do n.º 2 e do n.º 5 do artigo 16.º do Código do IVA.
+
+3 - Nas aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo ou a imposto sobre veículos, o valor tributável é determinado com inclusão destes impostos, ainda que não liquidados simultaneamente.
+
+4 - Sempre que o adquirente dos bens a que se refere o número anterior obtiver o reembolso dos impostos especiais de consumo pagos no Estado membro de início da expedição ou transporte, o valor tributável é regularizado nos termos do artigo 78.º do Código do IVA, até ao limite do montante que tiver sido reembolsado.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+### Capítulo IV — Taxas
+
+###### Artigo 18.º — Taxas
+
+1 - As taxas do imposto aplicáveis às aquisições intracomunitárias de bens são as previstas no artigo 18.º do Código do IVA para as transmissões dos mesmos bens.
+
+2 - As taxas aplicáveis são as que vigoram para as transmissões desses bens no momento em que o imposto se torne exigível, de acordo com o estabelecido no artigo 13.º
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+### Capítulo V — Liquidação e pagamento do imposto
+
+#### Secção I — Deduções
+
+###### Artigo 19.º — Direito à dedução
+
+1 - Para efeitos da aplicação do disposto no artigo 19.º do Código do IVA, pode deduzir-se ao imposto incidente sobre as operações tributáveis o imposto pago nas aquisições intracomunitárias de bens.
+
+2 - Pode igualmente deduzir-se, para efeitos do disposto na alínea b) do n.º 1 do artigo 20.º do Código do IVA, o imposto que tenha incidido sobre os bens ou serviços adquiridos, importados ou utilizados pelo sujeito passivo para a realização de transmissões de bens isentas nos termos do artigo 14.º
+
+3 - Quando não se verifiquem as condições previstas no n.º 3 do artigo 8.º, o imposto liquidado em aplicação do disposto no n.º 2 do mesmo artigo só pode ser deduzido por anulação da operação, nos termos do n.º 2 do artigo 78.º do Código do IVA, devendo para esse efeito o sujeito passivo provar que os bens foram sujeitos a imposto no Estado membro de chegada da expedição ou transporte.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 20.º — Exercício do direito à dedução
+
+1 - O direito à dedução do imposto devido pelas aquisições intracomunitárias de bens nasce no momento em que o mesmo se torne exigível, de acordo com o estabelecido no artigo 13.º
+
+2 - A dedução pode ser efectuada na declaração do período em que o imposto exigível seja considerado a favor do Estado, ainda que não tenha sido emitida a respectiva factura pelo vendedor.
+
+3 - Nas transmissões de meios de transporte novos para outros Estados membros, efectuadas por um sujeito passivo dos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º ou por um particular, o direito à dedução do imposto suportado na respectiva aquisição nasce apenas no momento em que o meio de transporte for colocado à disposição do adquirente.
+
+4 - A dedução a que se refere o número anterior não pode exceder o montante do imposto que seria devido e exigível, nos termos da alínea a) do n.º 1 do artigo 7.º do Código do IVA, se a transmissão não estivesse isenta.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+#### Secção II — Reembolsos
+
+###### Artigo 21.º — Reembolso
+
+1 - O imposto dedutível nos termos dos n.os 3 e 4 do artigo anterior é reembolsado ao sujeito passivo mediante requerimento, dirigido ao director-geral dos Impostos, que deve ser acompanhado de todos os elementos indispensáveis à respectiva apreciação.
+
+2 - O imposto pago numa importação de bens tributada nos termos do artigo 5.º do Código do IVA é reembolsado quando o importador seja uma pessoa colectiva de outro Estado membro que não seja aí sujeito passivo e prove que os bens foram expedidos ou transportados para esse outro Estado membro e aí sujeitos a imposto.
+
+3 - O reembolso do imposto a que se refere o número anterior é efectuado nas condições previstas no Regime de reembolso do IVA a sujeitos passivos não estabelecidos no Estado membro de reembolso.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2009-493507), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+#### Secção III — Pagamento do imposto
+
+###### Artigo 22.º — Pagamento
+
+1 - Sem prejuízo do disposto nos números seguintes, o montante do imposto exigível, a entregar nos termos do n.º 1 do artigo 27.º do Código do IVA, deve ser apurado tendo igualmente em consideração o disposto no artigo 19.º e nos n.os 1 e 2 do artigo 20.º
+
+2 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º devem pagar nos locais de cobrança legalmente autorizados o imposto que se mostre devido pelas aquisições intracomunitárias de bens que não sejam meios de transporte novos nem bens sujeitos a impostos especiais de consumo até ao final do mês seguinte àquele em que o imposto se torne exigível.
+
+3 - Os particulares e os sujeitos passivos referidos nas alíneas a), b) e c) do n.º 1 do artigo 2.º que não possuam o estatuto de operador registado ou de operador reconhecido, de acordo com o Código do Imposto sobre Veículos, devem pagar o imposto devido pelas aquisições intracomunitárias de meios de transporte novos sujeitos a imposto sobre os veículos junto das entidades competentes para a cobrança deste imposto.
+
+4 - O disposto no número anterior é igualmente aplicável aos sujeitos passivos referidos nas alíneas b) e c) do n.º 1 do artigo 2.º e aos particulares que efectuem aquisições intracomunitárias de meios de transporte novos, não sujeitos a imposto sobre veículos.
+
+5 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 do artigo 5.º que efectuem aquisições intracomunitárias de bens sujeitos a impostos especiais de consumo devem pagar o imposto devido junto das entidades competentes para a cobrança daqueles impostos.
+
+6 - O pagamento do imposto devido pelas aquisições intracomunitárias referidas nos n.os 3 a 5 é efectuado:
+
+a) Em simultâneo com o imposto sobre veículos ou com os impostos especiais de consumo, quando sejam devidos;
+
+b) Antes do registo, da concessão de licença ou da atribuição de matrícula aos meios de transporte novos, nos restantes casos.
+
+> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 41/2016 - Diário da República n.º 146/2016, Série I de 2016-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2016-75069302), em vigor a partir de 2016-08-02
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 57.º do/a [Lei n.º 67-A/2007 - Diário da República n.º 251/2007, 1º Suplemento, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/lei/67-a-2007-529450), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 238/2006 - Diário da República n.º 243/2006, Série I de 2006-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2006-552372), em vigor a partir de 2007-01-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 211/2005 - Diário da República n.º 234/2005, Série I-A de 2005-12-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2005-490257), em vigor a partir de 2005-12-12
+
+> Alterado pelo/a Artigo 28.º do/a [Lei n.º 32-B/2002 - Diário da República n.º 301/2002, 2º Suplemento, Série I-A de 2002-12-30](https://diariodarepublica.pt/dr/detalhe/lei/32-b-2002-306907), em vigor a partir de 2003-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 31/2001 - Diário da República n.º 33/2001, Série I-A de 2001-02-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2001-319904), em vigor a partir de 2001-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 204/97 - Diário da República n.º 183/1997, Série I-A de 1997-08-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-1997-203031), em vigor a partir de 1997-08-14
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+### Capítulo VI — Outras obrigações dos sujeitos passivos
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+###### Artigo 23.º — Obrigações gerais
+
+1 - Sem prejuízo do disposto no n.º 1 do artigo 29.º do Código do IVA, os sujeitos passivos referidos no artigo 2.º devem:
+
+a) Proceder à liquidação do imposto que se mostre devido pelas aquisições intracomunitárias de bens;
+
+b) Emitir obrigatoriamente uma fatura por cada transmissão de bens efetuada nas condições previstas no artigo 7.º, bem como pela transmissão ocasional de um meio de transporte novo isenta nos termos do artigo 14.º;
+
+c) Enviar uma declaração recapitulativa das transmissões de bens isentas nos termos do artigo 14.º, das operações a que se refere a alínea a) do n.º 3 do artigo 8.º e das transferências de bens abrangidas pelos n.os 1 a 3 do artigo 7.º-A.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2009-493507), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 24.º — Representante fiscal
+
+1 - Relativamente às aquisições intracomunitárias de bens e às transmissões referidas no artigo 11.º, efectuadas por sujeitos passivos não residentes, sem estabelecimento estável em Portugal, e que disponham de sede, estabelecimento estável ou domicílio noutro Estado membro, as obrigações derivadas da aplicação do presente diploma podem ser cumpridas por um representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de procuração com poderes bastantes.
+
+2 - Os sujeitos passivos não residentes, sem estabelecimento estável em território nacional, e que não disponham de sede, estabelecimento estável ou domicílio noutro Estado-Membro, estão obrigados à nomeação de representante, sujeito passivo do imposto sobre o valor acrescentado no território nacional, munido de procuração com poderes bastantes.
+
+3 - O representante a que se referem os números anteriores deve cumprir todas as obrigações decorrentes da aplicação do presente diploma, incluindo a do registo, e é devedor do imposto que se mostre devido pelas operações realizadas pelo representado.
+
+4 - O sujeito passivo não estabelecido em território nacional é solidariamente responsável com o representante pelo pagamento do imposto.
+
+5 - As obrigações decorrentes da sujeição a imposto das transmissões de bens subsequentes à aquisição intracomunitária isenta nas condições previstas no n.º 2 do artigo 15.º devem ser cumpridas pelo adquirente dos bens, sujeito passivo registado no território nacional para efeitos de imposto sobre o valor acrescentado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 179/2002 - Diário da República n.º 178/2002, Série I-A de 2002-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2002-175985), em vigor a partir de 2002-08-08
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 25.º — Entrega de declarações no regime de derrogação
+
+1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º devem entregar a declaração a que se refere o artigo 31.º do Código do IVA ou, caso se encontrem registados, a declaração prevista no artigo 32.º do mesmo Código:
+
+a) Até ao fim do mês seguinte àquele em que tenham excedido o valor global das aquisições previsto na alínea c) do n.º 1 do artigo 5.º;
+
+b) Antes de efectuarem uma aquisição intracomunitária de bens que exceda o montante previsto na alínea c) do n.º 1 do artigo 5.º;
+
+c) Antes de efectuarem aquisições intracomunitárias de bens, no caso de exercerem a opção a que se refere o n.º 3 do artigo 5.º
+
+2 - As declarações a que se refere o número anterior produzem efeitos a partir da data da sua apresentação.
+
+3 - Os sujeitos passivos abrangidos pelo disposto no n.º 1 do artigo 5.º que apenas efectuem aquisições intracomunitárias de bens mencionados na alínea c) do artigo 1.º estão dispensados da entrega das declarações referidas no n.º 1.
+
+4 - Os sujeitos passivos a que se refere o n.º 1 cujas aquisições intracomunitárias de bens não excedam durante um ano civil o montante de (euro) 10 000 podem voltar a beneficiar do disposto no n.º 1 do artigo 5.º, devendo para esse efeito entregar a declaração a que se refere o artigo 32.º do Código do IVA.
+
+5 - Os sujeitos passivos que exerceram a opção mencionada no n.º 3 do artigo 5.º e que, decorrido o prazo de dois anos, pretendam voltar a beneficiar do disposto do n.º 1 do mesmo artigo, caso se verifiquem os condicionalismos nele previstos, devem entregar a declaração a que se refere o artigo 32.º do Código do IVA.
+
+6 - A declaração referida nos n.os 4 e 5 deve ser apresentada durante o mês de Janeiro de um dos anos seguintes àquele em que se tiver completado o prazo aí mencionado, produzindo efeitos a partir de 1 de Janeiro do ano da sua apresentação.
+
+7 - As declarações referidas no presente artigo são apresentadas nos termos do artigo 35.º do Código do IVA.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 166/94 - Diário da República n.º 133/1994, Série I-A de 1994-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-1994-302276), em vigor a partir de 1994-06-14
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 26.º — Entrega de declarações por sujeitos passivos que efectuem vendas à distância
+
+1 - As pessoas singulares ou coletivas que efetuem transmissões de bens nas condições previstas no artigo 11.º devem entregar a declaração a que se refere o artigo 31.º do Código do IVA.
+
+2 - A declaração a que se refere o número anterior deve ser apresentada até ao fim do mês seguinte àquele em que tenha sido excedido o montante previsto na alínea c) do n.º 2 do artigo 6.º-A do Código do IVA, a qual produz efeitos desde a data, inclusive, da operação em que aquele montante tenha sido excedido.
+
+3 - As pessoas singulares ou coletivas que tenham exercido a opção a que se refere o n.º 5 do artigo 6.º-A do Código do IVA devem entregar a declaração referida no artigo 31.º do mesmo Código.
+
+4 - A declaração a que se refere o número anterior deve ser apresentada antes de efetuadas as transmissões, produzindo efeitos a partir da data da sua apresentação.
+
+5 - Os sujeitos passivos a que se refere o n.º 1 cujas operações não excedam, durante um ano civil, o montante referido na alínea c) do n.º 2 do artigo 6.º-A do Código do IVA podem proceder à entrega da declaração prevista no artigo 33.º do mesmo Código.
+
+6 - Os sujeitos passivos que exerceram a opção referida no n.º 5 do artigo 6.º-A do Código do IVA podem proceder à entrega da declaração prevista no artigo 33.º do mesmo Código caso, decorrido o prazo de dois anos, não se encontrem abrangidos pelo disposto na alínea a) do artigo 11.º
+
+7 - A declaração referida nos n.os 5 e 6 deve ser apresentada durante o mês de Janeiro de um dos anos seguintes àquele em que se tiver completado o prazo aí mencionado, produzindo efeitos a partir de 1 de Janeiro do ano da sua apresentação.
+
+8 - As pessoas singulares ou coletivas que pretendam exercer a opção a que se refere o n.º 4 do artigo 6.º-A do Código do IVA devem apresentar a declaração prevista no artigo 32.º do mesmo Código, devendo igualmente apresentar a referida declaração caso pretendam renunciar ao regime por que optaram.
+
+9 - As declarações referidas no presente artigo são apresentadas nos termos do artigo 35.º do Código do IVA.
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Retificado pelo/a [Declaração de Rectificação n.º 44-A/2008 - Diário da República n.º 156/2008, 1º Suplemento, Série I de 2008-08-13](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/44-a-2008-495154), produz efeitos a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 393/2007 - Diário da República n.º 251/2007, Série I de 2007-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-2007-628016), em vigor a partir de 2008-01-01
+
+> Alterado pelo/a Artigo 30.º do/a [Lei n.º 55-B/2004 - Diário da República n.º 304/2004, 2º Suplemento, Série I-A de 2004-12-30](https://diariodarepublica.pt/dr/detalhe/lei/55-b-2004-689420), em vigor a partir de 2005-01-01
+
+###### Artigo 27.º — Obrigação de facturação
+
+1 - O imposto devido pelas aquisições intracomunitárias de bens deve ser liquidado pelo sujeito passivo na fatura emitida pelo vendedor ou em documento interno emitido pelo próprio sujeito passivo.
+
+2 - As faturas relativas às transmissões de bens isentas nos termos do artigo 14.º devem ser emitidas o mais tardar até ao 15.º dia do mês seguinte àquele em que os bens foram colocados à disposição do adquirente.
+
+3 - As faturas a que se refere o número anterior devem ser emitidas pelo valor total das transmissões de bens, ainda que tenham sido efetuados pagamentos ao sujeito passivo anteriormente à data da transmissão dos bens.
+
+4 - A obrigação de emitir fatura, a que se refere a alínea b) do n.º 1 do artigo 29.º do Código do IVA, não é aplicável aos pagamentos efetuados ao sujeito passivo anteriormente à data das transmissões de bens isentas nos termos do artigo 14.º
+
+5 - Sem prejuízo do disposto no n.º 5 do artigo 36.º do Código do IVA, as faturas referidas nos números anteriores devem ainda conter o número de identificação fiscal do sujeito passivo do imposto, precedido do prefixo 'PT' e o número de identificação para efeitos do imposto sobre o valor acrescentado do destinatário ou adquirente, que deve incluir o prefixo do Estado membro que o atribuiu, conforme a norma internacional código ISO-3166 alfa 2, bem como o local de destino dos bens.
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Retificado pelo/a [Declaração de Rectificação n.º 1/93 - Diário da República n.º 25/1993, 1º Suplemento, Série I-A de 1993-01-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/1-1993-302492), em vigor a partir de 1993-01-30
+
+###### Artigo 28.º — Facturação de meios de transporte novos
+
+1 - As pessoas singulares ou coletivas que efetuem aquisições intracomunitárias de meios de transporte novos devem exigir que a fatura emitida pelo vendedor contenha os seguintes elementos:
+
+a) Os nomes, firmas ou denominações sociais e a sede ou domicílio do vendedor e do adquirente, bem como os correspondentes números de identificação fiscal, precedidos do prefixo que permite identificar o Estado membro que os atribuiu, se for caso disso;
+
+b) A data em que ocorreu a transmissão;
+
+c) O preço de venda;
+
+d) A identificação do meio de transporte, nomeadamente a matrícula ou número de registo e a especificação das respectivas características;
+
+e) A indicação dos quilómetros percorridos, se se tratar de um veículo terrestre, das horas de navegação, se se tratar de uma embarcação, ou das horas de voo, se se tratar de uma aeronave, reportados à data em que ocorreu a transmissão.
+
+2 - As pessoas singulares ou coletivas que efetuem transmissões de meios de transporte novos para outros Estados membros são obrigadas a emitir uma fatura, que deve conter todos os elementos referidos no número anterior.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 197/2012 - Diário da República n.º 164/2012, Série I de 2012-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2012-174548), em vigor a partir de 2013-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+###### Artigo 29.º — Entrega da declaração periódica no regime de derrogação
+
+1 - Os sujeitos passivos mencionados nas alíneas b) e c) do n.º 1 do artigo 2.º que efectuem aquisições intracomunitárias de bens sujeitas a imposto devem enviar a declaração por transmissão electrónica de dados até ao final do mês seguinte àquele em que o imposto se torne exigível.
+
+2 - A obrigação a que se refere o número anterior só se verifica relativamente aos períodos em que haja operações tributáveis.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 34.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28
+
+###### Artigo 30.º — Declaração recapitulativa
+
+1 - A declaração recapitulativa referida na alínea c) do n.º 1 do artigo 23.º deve ser enviada, por transmissão electrónica de dados, nos seguintes prazos:
+
+a) Até ao dia 20 do mês seguinte àquele a que respeitam as operações, no caso dos sujeitos passivos abrangidos pela alínea a) do n.º 1 do artigo 41.º do Código do IVA;
+
+b) Até ao dia 20 do mês seguinte ao final do trimestre civil a que respeitam as operações, no caso dos sujeitos passivos abrangidos pela alínea b) do n.º 1 do artigo 41.º do Código do IVA.
+
+2 - Não obstante o disposto na alínea b) do n.º 1, os sujeitos passivos aí referidos devem enviar a declaração recapitulativa até ao dia 20 do mês seguinte àquele a que respeitam as operações, quando o montante total das operações referidas na alínea c) do n.º 1 do artigo 23.º, durante o trimestre civil em curso ou em qualquer dos quatro trimestres civis anteriores, seja superior a (euro) 50 000.
+
+3 - As transmissões de bens isentas de imposto nos termos das alíneas d) a m) e v) do n.º 1 do artigo 14.º do Código do IVA não devem constar da declaração recapitulativa a que se refere o n.º 1, quando o adquirente dos bens seja um sujeito passivo registado para efeitos de IVA em outro Estado membro, que tenha utilizado o respectivo número de identificação para efectuar a aquisição, ainda que os bens sejam expedidos ou transportados para outro Estado membro.
+
+4 - A obrigação declarativa a que se refere o n.º 1 só se verifica relativamente aos períodos em que ocorram as operações referidas na alínea c) do n.º 1 do artigo 23.º ou alterações das informações prestadas relativamente às transferências de bens abrangidas pelos n.os 1 a 3 do artigo 7.º-A.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 126.º do/a [Lei n.º 64-B/2011 - Diário da República n.º 250/2011, 1º Suplemento, Série I de 2011-12-30](https://diariodarepublica.pt/dr/detalhe/lei/64-b-2011-243769), em vigor a partir de 2012-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2009 - Diário da República n.º 155/2009, Série I de 2009-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2009-493507), em vigor a partir de 2010-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 31.º — Obrigações de registo contabilístico
+
+1 - Para cumprimento do disposto no n.º 1 do artigo 44.º do Código do IVA, devem ainda ser objeto de registo:
+
+a) As aquisições intracomunitárias de bens efetuadas pelo sujeito passivo;
+
+b) As transferências de bens expedidos ou transportados pelo sujeito passivo ou por sua conta, a partir do território nacional com destino a outro Estado-Membro, para a realização das operações referidas nas alíneas e), f) e g) do n.º 2 do artigo 7.º;
+
+c) A afetação dos bens que não se consideram aquisições intracomunitárias nos termos do n.º 3 do artigo 4.º;
+
+d) Os bens recebidos pelo sujeito passivo que tenham sido expedidos ou transportados, a partir de outro Estado-Membro para o território nacional, por sujeitos passivos registados para efeitos do IVA em outro Estado-Membro, ou por sua conta, para que sobre os mesmos sejam executadas peritagens ou quaisquer trabalhos que consistam em prestações de serviços;
+
+e) Os bens enviados pelo sujeito passivo ou por sua conta, a partir do território nacional, com destino a outro Estado-Membro, para que sobre os mesmos sejam executadas peritagens ou quaisquer trabalhos que consistam em prestações de serviços;
+
+f) As transferências de bens expedidos ou transportados pelo sujeito passivo ou por sua conta, a partir do território nacional com destino a outro Estado-Membro, ao abrigo do disposto nos n.os 1 a 3 do artigo 7.º-A;
+
+g) Os bens recebidos pelo sujeito passivo que tenham sido expedidos ou transportados, a partir de outro Estado-Membro para o território nacional, por sujeitos passivos registados para efeitos do IVA em outro Estado-Membro, ou por sua conta, ao abrigo de um regime de vendas à consignação em transferências intracomunitárias de bens vigente nesse Estado-Membro idêntico ao previsto no artigo 7.º-A.
+
+2 - Para efeitos do disposto na alínea a) do n.º 2 do artigo 44.º do Código do IVA, os sujeitos passivos devem proceder ao registo das operações de forma a evidenciar:
+
+a) O valor das transmissões de bens isentas nos termos do artigo 14.º;
+
+b) O valor das transmissões de bens efetuadas noutro Estado-Membro nos termos do n.º 1 do artigo 9.º e do artigo 10.º;
+
+c) O valor das transmissões de bens efetuadas no território nacional nos termos do n.º 2 do artigo 9.º e do artigo 11.º, líquidas de imposto, segundo a taxa aplicável e o valor do imposto liquidado, igualmente segundo a taxa aplicável.
+
+3 - O disposto no n.º 4 do artigo 44.º do Código do IVA aplica-se igualmente às aquisições intracomunitárias de bens.
+
+4 - Para efeitos do disposto no artigo 48.º do Código do IVA, o registo das operações a que se refere o número anterior deve ser efetuado após a receção das correspondentes faturas ou a emissão do documento interno a que se refere o n.º 1 do artigo 27.º
+
+5 - Para cumprimento das obrigações a que se refere o n.º 5 do artigo 24.º, o sujeito passivo adquirente dos bens deve proceder ao registo da operação como se se tratasse de uma aquisição intracomunitária de bens.
+
+6 - Os sujeitos passivos referidos no n.º 4 do artigo 16.º devem proceder ao registo, em contas de terceiros apropriadas, das importações de bens efetuadas por conta de sujeitos passivos não residentes, sem estabelecimento estável em território nacional, que beneficiem de isenção nos termos do n.º 3 do mesmo artigo, bem como das subsequentes transmissões com destino a outros Estados-Membros.
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 49/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/49-2020-140950564), produz efeitos a partir de 2020-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 47/2020 - Diário da República n.º 164/2020, Série I de 2020-08-24](https://diariodarepublica.pt/dr/detalhe/lei/47-2020-140950562), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+> Alterado pelo/a Artigo 33.º do/a [Lei n.º 107-B/2003 - Diário da República n.º 301/2003, 2º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/lei/107-b-2003-669556), em vigor a partir de 2004-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 179/2002 - Diário da República n.º 178/2002, Série I-A de 2002-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/179-2002-175985), em vigor a partir de 2002-08-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/96 - Diário da República n.º 249/1996, Série I-A de 1996-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-1996-224581), em vigor a partir de 1996-10-31
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 82/94 - Diário da República n.º 61/1994, Série I-A de 1994-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-1994-274031), em vigor a partir de 1994-03-19
+
+###### Artigo 32.º — Comprovação do pagamento do imposto de meios de transporte novos
+
+As pessoas singulares ou colectivas referidas nos n.ºs 3 e 4 do artigo 22.º devem comprovar, junto das entidades competentes para efectuar o registo, conceder a licença ou atribuir a matrícula aos meios de transporte novos, que procederam ao pagamento do imposto devido pela aquisição intracomunitária desses bens.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25
+
+### Capítulo VII — Disposições finais
+
+###### Artigo 33.º — Legislação subsidiária
+
+Em tudo o que não se revelar contrário ao disposto no presente diploma, aplica-se a disciplina geral do Código do IVA.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 102/2008 - Diário da República n.º 118/2008, Série I de 2008-06-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/102-2008-449902), em vigor a partir de 2008-06-25

@@ -1,0 +1,796 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:365343:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-75044039",
+ "dre_path": "/dr/detalhe/decreto-lei/152-1997-365343",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-06-19",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "75044099",
+    "75044100",
+    "75044101",
+    "75044102",
+    "75044103",
+    "75044104",
+    "75044105",
+    "75044106",
+    "75044107",
+    "75044108",
+    "75044109",
+    "75044110",
+    "75044111",
+    "75044112",
+    "75044113",
+    "75044115",
+    "75044116"
+   ]
+  },
+  {
+   "date": "1998-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:223419:por",
+     "title": "Decreto-Lei n.º 348/98",
+     "published": "1998-11-09",
+     "dre_path": "/dr/detalhe/decreto-lei/348-1998-223419"
+    }
+   ],
+   "changes": [
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "75044099",
+    "75044100",
+    "75044101",
+    "75044102",
+    "75044103",
+    "75044104",
+    "75044105",
+    "75044106",
+    "75044107",
+    "75044108",
+    "75044109",
+    "75044110",
+    "75044111",
+    "75044112",
+    "75044113",
+    "105679848",
+    "75044114",
+    "105679849",
+    "75044116"
+   ]
+  },
+  {
+   "date": "1999-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:374613:por",
+     "title": "Decreto-Lei n.º 261/99",
+     "published": "1999-07-07",
+     "dre_path": "/dr/detalhe/decreto-lei/261-1999-374613"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "75044099",
+    "75044100",
+    "75044101",
+    "75044102",
+    "75044103",
+    "75044104",
+    "75044105",
+    "75044106",
+    "75044107",
+    "75044108",
+    "75044109",
+    "75044110",
+    "75044111",
+    "75044112",
+    "105679865",
+    "105679866",
+    "105679867",
+    "105679868",
+    "105679869",
+    "105679871"
+   ]
+  },
+  {
+   "date": "2001-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:332415:por",
+     "title": "Decreto-Lei n.º 172/2001",
+     "published": "2001-05-26",
+     "dre_path": "/dr/detalhe/decreto-lei/172-2001-332415"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "75044099",
+    "75044100",
+    "75044101",
+    "75044102",
+    "75044103",
+    "75044104",
+    "75044105",
+    "75044106",
+    "75044107",
+    "75044108",
+    "75044109",
+    "75044110",
+    "75044111",
+    "75044112",
+    "105679865",
+    "105679866",
+    "105679867",
+    "105679868",
+    "105679869",
+    "105701687"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:272036:por",
+     "title": "Decreto-Lei n.º 149/2004",
+     "published": "2004-06-22",
+     "dre_path": "/dr/detalhe/decreto-lei/149-2004-272036",
+     "date": "2004-06-07"
+    }
+   ]
+  },
+  {
+   "date": "2004-06-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:272036:por",
+     "title": "Decreto-Lei n.º 149/2004",
+     "published": "2004-06-22",
+     "dre_path": "/dr/detalhe/decreto-lei/149-2004-272036"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A"
+   ],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "75044099",
+    "75044100",
+    "75044101",
+    "105727033",
+    "75044103",
+    "105727017",
+    "105727018",
+    "105727019",
+    "105727020",
+    "105727021",
+    "105727022",
+    "105727023",
+    "105727034",
+    "105727025",
+    "105727026",
+    "105727027",
+    "105727035",
+    "105727029",
+    "105727030",
+    "105727031",
+    "105727036"
+   ]
+  },
+  {
+   "date": "2008-10-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:452916:por",
+     "title": "Decreto-Lei n.º 198/2008",
+     "published": "2008-10-08",
+     "dre_path": "/dr/detalhe/decreto-lei/198-2008-452916"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º-A"
+   ],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "75044099",
+    "75044100",
+    "75044101",
+    "105727033",
+    "75044103",
+    "105727044",
+    "105727018",
+    "105727019",
+    "105727020",
+    "105727021",
+    "105727022",
+    "105727023",
+    "105727034",
+    "105727025",
+    "105727026",
+    "105727027",
+    "105727035",
+    "105727029",
+    "105727030",
+    "105727031",
+    "105727045"
+   ]
+  },
+  {
+   "date": "2015-07-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69778945:por",
+     "title": "Decreto-Lei n.º 133/2015",
+     "published": "2015-07-13",
+     "dre_path": "/dr/detalhe/decreto-lei/133-2015-69778945"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "75044099",
+    "75044100",
+    "75044101",
+    "105727033",
+    "75044103",
+    "105727044",
+    "105727018",
+    "105727019",
+    "105727020",
+    "105727021",
+    "105727022",
+    "105727023",
+    "105727034",
+    "105727025",
+    "105727026",
+    "105727027",
+    "105727035",
+    "105727029",
+    "105727030",
+    "105727031",
+    "105725334"
+   ]
+  },
+  {
+   "date": "2021-08-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:170322929:por",
+     "title": "Decreto-Lei n.º 77/2021",
+     "published": "2021-08-27",
+     "dre_path": "/dr/detalhe/decreto-lei/77-2021-170322929"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º-A"
+   ],
+   "fragments": [
+    "75044096",
+    "75044097",
+    "75044098",
+    "170380075",
+    "75044100",
+    "75044101",
+    "105727033",
+    "75044103",
+    "170380076",
+    "105727018",
+    "105727019",
+    "105727020",
+    "105727021",
+    "105727022",
+    "105727023",
+    "105727034",
+    "105727025",
+    "105727026",
+    "105727027",
+    "105727035",
+    "105727029",
+    "105727030",
+    "105727031",
+    "105725334"
+   ]
+  }
+ ],
+ "fragments": {
+  "75044096": {
+   "fragment_id": "75044040",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 152/97\n\nde 19 de Junho\n\nPelo Decreto-Lei n.º 74/90, de 7 de Março, ficaram definidas as normas de qualidade a que as águas superficiais devem obedecer, em função dos respectivos usos.\n\nCom a publicação dos Decretos-Leis n.os 45/94, 46/94 e 47/94, de 22 de Fevereiro, ficaram definidos respectivamente o processo de planeamento dos recursos hídricos, o regime de licenciamento das utilizações do domínio hídrico e o regime económico e financeiro das utilizações do domínio público hídrico.\n\nA Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio, na parte relativa à concepção dos sistemas de drenagem e de tratamento, bem como ao regime de licenciamento das descargas de águas residuais urbanas e industriais, encontra-se já transposta através das normas constantes respectivamente do Decreto Regulamentar n.º 23/95, de 23 de Agosto, e dos diplomas legais a que acima se fez referência.\n\nO presente diploma legal, pelo qual se efectua a restante transposição para o direito interno da mencionada directiva, diz respeito a algumas das condições gerais a que uma dada utilização do domínio hídrico, a descarga de águas residuais urbanas nos meios aquáticos, deve observar.\n\nTendo ficado estabelecido no Decreto-Lei n.º 207/94, de 6 de Agosto, a responsabilidade de as entidades gestoras dos sistemas de distribuição pública de água e de drenagem pública de águas residuais elaborarem planos tendo em vista a melhoria dos níveis de atendimento e de qualidade dos serviços prestados, definem-se, deste modo, as metas temporais e os níveis de tratamento que deverão enformar os referidos planos para todos os sistemas de drenagem pública de águas residuais que descarreguem nos meios aquáticos.\n\nNessa conformidade, constitui objectivo deste diploma a protecção das águas superficiais dos efeitos das descargas de águas residuais urbanas, que se integra no objectivo mais vasto da protecção do ambiente.\n\nO cumprimento dos objectivos acima referidos exige um esforço político, técnico e financeiro elevado, associado a uma criteriosa análise das soluções técnicas de drenagem e tratamento das águas residuais urbanas, que a diversidade das situações impõe.\n\nAssim, cada município, no âmbito do quadro legal em vigor, deverá procurar a solução mais adequada, numa dupla perspectiva de eficácia da aplicação de recursos e de protecção ambiental.\n\nFoi ouvida a Associação Nacional dos Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75044097": {
+   "fragment_id": "75044041",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - As disposições do presente diploma aplicam-se à recolha, tratamento e descarga de águas residuais urbanas no meio aquático, procedendo à transposição para o direito interno da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio de 1991.\n\n2 - A aplicação das normas constantes no presente diploma não poderá, em caso algum, pôr em causa o cumprimento das normas de qualidade das águas constantes do Decreto-Lei n.º 74/90, de 7 de Março."
+  },
+  "75044098": {
+   "fragment_id": "75044042",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da aplicação do presente diploma entende-se por:\n\n1) «Entidade licenciadora»: a direcção regional do ambiente e recursos naturais territorialmente competente para autorizar as descargas de águas residuais, nos termos das disposições conjugadas dos Decretos-Leis n.os 74/90, de 7 de Março, 190/93, de 24 de Maio, e 46/94, de 22 de Fevereiro;\n\n2) «Águas residuais»:\n\na) «Águas residuais domésticas»: as águas residuais de serviços e de instalações residenciais, essencialmente provenientes do metabolismo humano e de actividades domésticas;\n\nb) «Águas residuais industriais»: as águas residuais provenientes de qualquer tipo de actividade que não possam ser classificadas como águas residuais domésticas nem sejam águas pluviais;\n\nc) «Águas residuais urbanas»: as águas residuais domésticas ou a mistura destas com águas residuais industriais e ou com águas pluviais;\n\n3) «Aglomerado»: qualquer área em que a população e ou as actividades económicas se encontrem instaladas de forma suficientemente concentrada para que se proceda à drenagem conjunta das águas residuais urbanas e à sua condução para uma estação de tratamento de águas residuais ou para um ponto de descarga final;\n\n4) «Sistema de drenagem de águas residuais urbanas», ou «sistema de drenagem»: a rede fixa de colectores que, com as demais componentes de transporte e de elevação, fazem afluir as águas residuais urbanas a uma estação de tratamento ou a um ponto de descarga;\n\n5) «Um equivalente de população (1 e. p.)»: a carga orgânica biodegradável com uma carência bioquímica de oxigénio ao fim de cinco dias (CBO 5) de 60 g de oxigénio por dia. A carga, expressa em e. p., será calculada com base na carga média semanal máxima recebida na estação de tratamento durante um ano, excluindo situações excepcionais, tais como as causadas por chuvas intensas;\n\n6) «Tratamento primário»: o tratamento das águas residuais urbanas por qualquer processo físico e ou químico que envolva a decantação das partículas sólidas em suspensão, ou por outro processo em que a CBO 5 das águas recebidas seja reduzida de, pelo menos, 20% antes da descarga e o total das partículas sólidas em suspensão das águas recebidas seja reduzido de, pelo menos, 50%;\n\n7) «Tratamento secundário»: o tratamento das águas residuais urbanas que envolve geralmente um tratamento biológico com decantação secundária ou outro processo que permita respeitar os valores constantes do quadro n.º 1 do anexo I;\n\n8) «Tratamento apropriado»: o tratamento das águas residuais urbanas por qualquer processo e ou por qualquer sistema de eliminação que, após a descarga, permita que as águas receptoras satisfaçam os objectivos de qualidade que se lhes aplicam;\n\n9) «Lamas»: as lamas residuais, tratadas ou não, originadas pelo funcionamento de estações de tratamento de águas residuais urbanas;\n\n10) «Eutrofização»: o enriquecimento do meio aquático com nutrientes, sobretudo compostos de azoto e ou de fósforo, que provoque o crescimento acelerado de algas e de formas superiores de plantas aquáticas, perturbando o equilíbrio biológico e a qualidade das águas em causa;\n\n11) «Estuário»: a zona de transição, na foz de um rio, entre a água doce e as águas costeiras;\n\n12) «Águas costeiras»: as águas exteriores ao limite da baixa-mar ou ao limite externo de um estuário."
+  },
+  "75044099": {
+   "fragment_id": "75044043",
+   "type": 11,
+   "heading": "Artigo 3.º — Zonas sensíveis e zonas menos sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Zonas sensíveis e zonas menos sensíveis\n\n1 - A identificação das zonas sensíveis e das zonas menos sensíveis, para efeitos da aplicação do presente diploma, consta do anexo II.\n\n2 - Compete ao Instituto da Água apresentar as propostas tendentes à revisão da identificação das zonas sensíveis e das zonas menos sensíveis, que deverá ser realizada pelo menos de quatro em quatro anos.\n\n3 - Sempre que se proceda à revisão prevista no número anterior e daí resulte a necessidade do cumprimento de novas exigências, é concedido para o efeito um prazo de adaptação de sete anos."
+  },
+  "75044100": {
+   "fragment_id": "75044044",
+   "type": 11,
+   "heading": "Artigo 4.º — Sistemas de drenagem de águas residuais urbanas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Sistemas de drenagem de águas residuais urbanas\n\n1 - No âmbito das suas atribuições, as entidades públicas responsáveis deverão adoptar as medidas necessárias para garantir o pleno funcionamento de sistemas de drenagem:\n\na) Até 31 de Dezembro de 2000, em aglomerados com um e. p. superior a 15000;\n\nb) Até 31 de Dezembro de 2005, em aglomerados com um e. p. situado entre 2000 e 15000, inclusive;\n\nc) Até 31 de Dezembro de 1998, em aglomerados com um e. p. superior a 10000 e desde que a descarga se efectue numa zona sensível, de acordo com o disposto no artigo anterior.\n\n2 - Os sistemas de drenagem devem satisfazer as condições previstas na alínea A) do anexo I ao presente diploma.\n\n3 - Sempre que fique demonstrado que a instalação de um sistema de drenagem não se justifica, por não trazer qualquer vantagem ambiental ou por ser excessivamente oneroso, pode a entidade licenciadora autorizar a utilização de sistemas individuais ou outros adequados que proporcionem o mesmo grau de protecção ambiental."
+  },
+  "75044101": {
+   "fragment_id": "75044045",
+   "type": 11,
+   "heading": "Artigo 5.º — Tratamento secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tratamento secundário\n\n1 - A descarga de águas residuais urbanas só poderá ser licenciada quando se submeta a um tratamento secundário, salvo o disposto nos artigos 6.º, 7.º e 8.º A entidade licenciadora poderá permitir que a obtenção do referido tratamento seja faseada no tempo, desde que sejam respeitados os prazos mencionados no número seguinte.\n\n2 - As entidades mencionadas no n.º 1 do artigo 4.º deverão adoptar as medidas necessárias para que as descargas já existentes ou previstas à data da entrada em vigor do presente diploma sejam precedidas de um tratamento secundário dentro dos seguintes prazos:\n\na) Até 31 de Dezembro de 2000, para aglomerados com um e. p. superior a 15000;\n\nb) Até 31 de Dezembro de 2005, para aglomerados com um e. p. superior a 10000 e inferior a 15000, inclusive;\n\nc) Até 31 de Dezembro de 2005, para aglomerados com um e. p. superior a 2000 e inferior a 10000, inclusive, quando a descarga ocorra em águas doces ou estuários.\n\n3 - Não é exigido o tratamento secundário para descargas efectuadas em cursos de água situados a uma altitude superior a 1500 m, desde que, dentro dos prazos mencionados no número anterior, sejam previamente submetidas a qualquer outro tipo de tratamento que a entidade licenciadora considere adequado para a protecção do ambiente.\n\n4 - Os requisitos a que devem obedecer as descargas de águas residuais urbanas provenientes das estações de tratamento a que se referem os n.os 1, 2 e 3 deste artigo são os constantes da alínea B) do anexo I ao presente diploma."
+  },
+  "75044102": {
+   "fragment_id": "75044046",
+   "type": 11,
+   "heading": "Artigo 6.º — Tratamento para descarga em zonas sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tratamento para descarga em zonas sensíveis\n\n1 - A descarga de águas residuais urbanas provenientes de aglomerados com um e. p. superior a 10000 em zonas sensíveis só pode ser licenciada quando aquelas águas se submetam a um tratamento mais rigoroso do que o mencionado no artigo 5.º, satisfazendo as condições previstas no alínea B) do anexo I ao presente diploma.\n\n2 - O cumprimento das condições referidas no número anterior pode ser dispensado quando se demonstre perante a entidade licenciadora que a percentagem mínima de redução da carga total de todas as estações de tratamento dessa zona é de pelo menos 75% quanto ao fósforo total e de, pelo menos, 75% quanto ao azoto total.\n\n3 - O prazo para adaptação, por parte das entidades mencionadas no n.º 1 do artigo 4.º, do cumprimento das condições mencionadas no n.º 1, relativamente a descargas provenientes de aglomerados com mais de 10000 e. p., desde que já existentes ou previstas à data da vigência do presente decreto-lei, termina em 31 de Dezembro de 1998.\n\n4 - Ficam sujeitas ao disposto nos números anteriores as descargas das estações de tratamento que, não se localizando em zonas sensíveis, contribuam para a sua poluição."
+  },
+  "75044103": {
+   "fragment_id": "75044047",
+   "type": 11,
+   "heading": "Artigo 7.º — Descarga de águas residuais urbanas em zonas menos sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Descarga de águas residuais urbanas em zonas menos sensíveis\n\n1 - As descargas provenientes de aglomerados com um e. p. superior a 10000 e inferior a 150000 em águas costeiras classificadas como zonas menos sensíveis, bem como as provenientes de aglomerados com um e. p. superior a 2000 e inferior a 10000 efectuadas em estuários classificados como zonas menos sensíveis, podem ser permitidas pela entidade licenciadora, sem que se verifique o cumprimento do disposto no artigo 5.º, desde que, cumulativamente, sejam preenchidos os seguintes requisitos:\n\na) A descarga receba pelo menos um tratamento primário tal como é definido no n.º 6) do artigo 2.º, cumprindo os procedimentos de controlo estabelecidos na alínea D) do anexo I;\n\nb) Se demonstre, mediante a apresentação à entidade licenciadora de um estudo técnico devidamente fundamentado, que tal descarga não deteriora o ambiente.\n\n2 - A entidade licenciadora remeterá ao Instituto da Água os elementos referidos na alínea b) do número anterior, a fim de que este dê cumprimento ao disposto no n.º 2 do artigo 6.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio.\n\n3 - Relativamente a descargas provenientes de aglomerados com um e. p. superior a 150000 efectuadas em águas costeiras classificadas como zonas menos sensíveis, pode a entidade licenciadora propor ao Instituto da Água a adopção do procedimento previsto no n.º 5 do artigo 8.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio, por forma que as referidas descargas possam ser autorizadas nos termos do n.º 1 deste artigo."
+  },
+  "75044104": {
+   "fragment_id": "75044048",
+   "type": 11,
+   "heading": "Artigo 8.º — Tratamento apropriado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tratamento apropriado\n\n1 - As descargas de águas residuais urbanas provenientes de aglomerados com um e. p. inferior a 2000 efectuadas em águas doces e estuários, bem como as descargas provenientes de aglomerados com um e. p. inferior a 10000 efectuadas em águas costeiras, só poderão ser licenciadas quando se submetam a um tratamento apropriado tal como é definido no n.º 8) do artigo 2.º A entidade licenciadora poderá permitir que a obtenção do referido tratamento seja faseada no tempo, desde que seja respeitado o prazo mencionado no número seguinte.\n\n2 - As entidades mencionadas no n.º 1 do artigo 4.º deverão adoptar as medidas necessárias para que as descargas já existentes ou previstas à data da entrada em vigor do presente diploma cumpram as exigências estabelecidas no número anterior até 31 de Dezembro de 2005."
+  },
+  "75044105": {
+   "fragment_id": "75044049",
+   "type": 11,
+   "heading": "Artigo 9.º — Descarga de águas residuais industriais em sistemas de drenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Descarga de águas residuais industriais em sistemas de drenagem\n\nSem prejuízo do disposto na legislação em vigor, nomeadamente no Decreto-Lei n.º 207/94, de 6 de Agosto, devem as entidades públicas mencionadas no n.º 1 do artigo 4.º, mediante a aprovação de regulamento próprio que cumpra o estabelecido no alínea C) do anexo I, fixar as condições para a descarga de águas residuais industriais nos sistemas de drenagem e nas estações de tratamento de águas residuais urbanas."
+  },
+  "75044106": {
+   "fragment_id": "75044050",
+   "type": 11,
+   "heading": "Artigo 10.º — Lamas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Lamas\n\n1 - A eliminação das lamas provenientes das estações de tratamento de águas residuais urbanas está sujeita a autorização da entidade licenciadora.\n\n2 - É proibida a descarga de lamas em águas de superfície."
+  },
+  "75044107": {
+   "fragment_id": "75044051",
+   "type": 11,
+   "heading": "Artigo 11.º — Reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reutilização\n\nAs águas residuais tratadas, bem como as lamas, devem ser reutilizadas, sempre que possível ou adequado."
+  },
+  "75044108": {
+   "fragment_id": "75044052",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo\n\n1 - A entidade licenciadora especificará, de acordo, nomeadamente, com a alínea D) do anexo I ao presente diploma, os procedimentos de autocontrolo para cada descarga, devendo constar da respectiva autorização a periodicidade com que os mesmos lhe deverão ser remetidos.\n\n2 - Compete igualmente à entidade licenciadora proceder ao controlo da qualidade do meio aquático nos casos em que haja fundados receios de que este esteja a ser deteriorado por descargas das águas residuais a que se reporta o presente diploma, excepto quanto às águas costeiras, relativamente às quais esta competência será exercida pelo Instituto da Água.\n\n3 - A entidade licenciadora, conjuntamente com o Instituto da Água, adoptará os procedimentos que se revelem necessários para o controlo do meio aquático receptor, a fim de que possa ser dado cumprimento ao disposto no n.os 3 e 4 do artigo 15.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio."
+  },
+  "75044109": {
+   "fragment_id": "75044053",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente diploma compete à entidade licenciadora, bem como aos serviços de inspecção dos Ministérios do Ambiente e da Saúde, no âmbito das competências que lhes são atribuídas na vigilância sanitária da qualidade das águas."
+  },
+  "75044110": {
+   "fragment_id": "75044054",
+   "type": 11,
+   "heading": "Artigo 14.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sanções\n\n1 - Sem prejuízo da aplicação do disposto no Decreto-Lei n.º 74/90, de 7 de Março, o não cumprimento do disposto nos artigos 4.º, n.os 1 e 2, 5.º, n.os 1, 2 e 4, 6.º, 8.º e 10.º do presente diploma constitui contra-ordenação punível com coima de 100000$00 a 750000$00, sendo o montante máximo elevado para 9000000$00 quando a contra-ordenação tenha sido praticada por pessoa colectiva.\n\n2 - A negligência é punível.\n\n3 - A instauração dos processos de contra-ordenação e a aplicação das coimas competem à entidade licenciadora.\n\n4 - O produto das coimas reverte em 60% para o Estado e em 40% para a entidade licenciadora."
+  },
+  "75044111": {
+   "fragment_id": "75044055",
+   "type": 11,
+   "heading": "Artigo 15.º — Programação de execução de medidas e elaboração de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Programação de execução de medidas e elaboração de relatórios\n\n1 - Ao Instituto da Água compete elaborar um programa de execução das medidas previstas no presente diploma, de acordo com a metodologia estabelecida na Decisão da Comissão n.º <a href=\"eurlex.asp?ano=1993&id=393D0481\" title=\"Link para Decisão da Comunidade Europeia\">93/481/CEE</a>, de 28 de Julho.\n\n2 - O programa referido no número anterior deverá ser actualizado de dois em dois anos e as informações nele contidas transmitidas à Comissão Europeia até ao dia 30 de Junho subsequente.\n\n3 - Do programa referido no número anterior deverá constar a definição dos limites marítimos dos estuários.\n\n4 - Compete ainda ao Instituto da Água elaborar os relatórios de situação das lamas e das águas residuais urbanas previstos no artigo 16.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio."
+  },
+  "75044112": {
+   "fragment_id": "75044056",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão de acompanhamento\n\nÉ criada uma comissão de acompanhamento para execução do presente diploma, cuja composição e funcionamento serão fixados por despacho conjunto dos Ministros das Finanças e do Ambiente."
+  },
+  "75044113": {
+   "fragment_id": "75044057",
+   "type": 11,
+   "heading": "Artigo 17.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Anexos\n\n1 - Os anexos ao presente decreto-lei, que dele fazem parte integrante, podem ser alterados por portaria do membro do Governo responsável pela área do ambiente, dentro dos limites permitidos pelas regras comunitárias.\n\n2 - Os originais das cartas que integram o anexo II ao presente diploma encontram-se depositados na direcção regional do ambiente e recursos naturais territorialmente competente."
+  },
+  "75044115": {
+   "fragment_id": "75044059",
+   "type": 14,
+   "heading": "Anexo I — Requisitos de tratamento das águas residuais urbanas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Requisitos de tratamento das águas residuais urbanas\n\nA) Sistemas de drenagem\n\nOs sistemas de drenagem devem ter em conta os requisitos de tratamento das águas residuais urbanas.\n\nA concepção, construção e manutenção dos sistemas de drenagem deve obedecer aos melhores conhecimentos técnicos que não acarretem custos excessivos, nomeadamente quanto:\n\nAo volume e características das águas residuais urbanas;\n\nÀ prevenção de fugas;\n\nÀ limitação da poluição das águas receptoras, no caso de inundações provocadas por tempestades.\n\nB) Descarga das estações de tratamento de águas residuais urbanas nas águas receptoras\n\n1 - As estações de tratamento de águas residuais serão concebidas ou modificadas de forma que se possam obter amostras representativas das águas residuais à chegada e dos efluentes tratados antes da descarga nas águas receptoras.\n\n2 - As descargas das estações de tratamento de águas residuais urbanas em conformidade com os artigos 5.º e 6.º devem satisfazer os requisitos constantes do quadro n.º 1.\n\n3 - As descargas das estações de tratamento de águas residuais urbanas em zonas sensíveis sujeitas a eutrofização devem satisfazer, para além disso, os requisitos representados no quadro n.º 2 do presente anexo.\n\n4 - Caso se justifique, serão aplicados requisitos de tratamento mais rigorosos do que os apresentados nos quadros n.os 1 e ou 2, a fim de garantir que as águas receptoras satisfaçam as condições estabelecidas por qualquer outra directiva aplicável ou sempre que seja necessário respeitar os objectivos de qualidade fixados para o meio receptor pela legislação vigente.\n\n5 - Os pontos de descarga das águas residuais urbanas deverão ser escolhidos, na medida do possível, por forma a minimizar os efeitos nas águas receptoras.\n\nC) Águas residuais industriais\n\nAs águas residuais que entrem nos sistemas de drenagem e nas estações de tratamento de águas residuais urbanas serão sujeitas ao pré-tratamento que for necessário para:\n\nProteger a saúde do pessoal que trabalha nos sistemas colectores e nas estações de tratamento;\n\nGarantir que os sistemas de drenagem, as estações de tratamento de águas residuais e o equipamento conexo não sejam danificados;\n\nGarantir que o funcionamento das estações de tratamento das águas residuais e o tratamento das lamas não sejam entravados;\n\nGarantir que as descargas das estações de tratamento não deteriorem o ambiente ou não impeçam as águas receptoras de cumprir o disposto noutras directivas comunitárias;\n\nGarantir que as lamas possam ser eliminadas em segurança e de um modo ecologicamente aceitável.\n\nD) Métodos de referência para o controlo e a avaliação dos resultados\n\n1 - Serão aplicados métodos de controlo que correspondam pelo menos ao nível das exigências abaixo especificadas.\n\nPodem ser utilizados métodos alternativos aos referidos nos n.os 2, 3 e 4, desde que seja possível demonstrar que os resultados obtidos são equivalentes.\n\n2 - Serão colhidas amostras de vinte e quatro horas, proporcionais ao caudal ou por escalões de tempo, num ponto bem definido à saída e, se necessário, à entrada da estação de tratamento, para controlar o cumprimento dos requisitos aplicáveis às descargas de águas residuais tal como estabelecidos no presente decreto-lei.\n\nSerão aplicadas boas práticas internacionais de laboratório a fim de reduzir ao mínimo a degradação das amostras entre a colheita e a análise.\n\n3 - O número mínimo anual de amostras será determinado de acordo com as dimensões da estação de tratamento e a colheita será feita em intervalos regulares durante o ano:\n\n2000-9999 e. p:\n\n12 amostras durante o primeiro ano;\n\n4 amostras nos anos seguintes, se se provar que durante o primeiro ano a água cumpre as disposições do presente decreto-lei; se uma das 4 amostras colhidas nos anos subsequentes não cumprir os requisitos, deverão no ano seguinte ser colhidas 12 amostras.\n\n10000-49999 e. p. - 12 amostras;\n\n50000 e. p. - 24 amostras.\n\n4 - Considera-se que as águas residuais tratadas são conformes com os parâmetros respectivos se, para cada um dos parâmetros aplicáveis, individualmente considerados, as amostras revelarem que as águas obedecem ao valor paramétrico do seguinte modo:\n\na) No que se refere aos parâmetros descritos no quadro n.º 1 e no n.º 6) do artigo 2.º, são especificados no quadro n.º 3 o número máximo de amostras que poderão não ser conformes aos requisitos expressos em concentrações e ou reduções percentuais do quadro n.º 1 e do n.º 6) do artigo 2.º;\n\nb) No que se refere aos parâmetros descritos no quadro n.º 1, expressos em concentração, as amostras que podem não ser conformes, colhidas em condições normais de funcionamento, não devem desviar-se dos valores paramétricos em mais de 100%. Em relação aos valores paramétricos em concentração relativos ao total de partículas sólidas em suspensão, poder-se-ão aceitar desvios até 150%;\n\nc) Para os parâmetros especificados no quadro n.º 2, a média anual das amostras relativas a cada parâmetro deverá respeitar os valores paramétricos respectivos.\n\n5 - Não serão tomados em consideração valores extremos para a qualidade das águas em questão se esses valores resultarem de situações excepcionais, como, por exemplo, chuvas torrenciais.\n\nQUADRO N.º 1\n\nRequisitos para as descargas das estações de tratamento de águas residuais urbanas sujeitas ao disposto nos artigos 5.º e 6.º\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver documento original)\n\nAs análises das descargas provenientes de lagoas serão efectuadas com amostras filtradas; no entanto, a concentração do total de partículas sólidas em suspensão em descargas de águas não filtradas não poderá exceder 150 mg/l.\n\nQUADRO N.º 2\n\nRequisitos para as descargas das estações de tratamento de águas residuais urbanas em zonas sensíveis sujeitas a eutrofização\n\nPodem ser aplicados um dos parâmetros ou ambos, consoante a situação local.\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver documento original)\n\nQUADRO N.º 3\n\n(ver documento original)"
+  },
+  "75044116": {
+   "fragment_id": "75044060",
+   "type": 14,
+   "heading": "Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis\n\nZonas sensíveis\n\nUma determinada extensão de água será identificada como zona sensível se pertencer a uma das seguintes categorias:\n\na) Lagos naturais de água doce, outras extensões de água doce, estuários e águas costeiras que se revelem eutróficos ou susceptíveis de se tornarem eutróficos num futuro próximo, se não forem tomadas medidas de protecção. Na avaliação dos nutrientes que devem ser reduzidos através de tratamento suplementar podem ser tomados em consideração os seguintes elementos:\n\ni) Lagos, cursos de água e afluentes de lagos/albufeiras/baías fechadas cujas águas têm uma fraca renovação e onde eventualmente se pode verificar um fenómeno de acumulação. Nestas zonas deve-se proceder à remoção do fósforo, excepto se se demonstrar que essa remoção não terá qualquer efeito no nível de eutrofização. Nos locais onde são feitas as descargas de grandes aglomerados, pode igualmente ser considerada a remoção do azoto;\n\nii) Estuários, baías e outras águas costeiras cujas águas têm uma fraca renovação ou que recebem grandes quantidades de nutrientes. As descargas de pequenas aglomerações têm geralmente pouca importância nessas zonas, mas, no caso de grandes aglomerações, deve proceder-se à remoção do fósforo e ou azoto, excepto se se demonstrar que a remoção não terá qualquer efeito no nível de eutrofização;\n\nb) Águas doces de superfície destinadas à captação de água potável cujo teor em nitratos possa exceder a concentração de nitrato estabelecida nas disposições pertinentes da Directiva n.º <a href=\"eurlex.asp?ano=1975&id=375L0440\" title=\"Link para Directiva da Comunidade Europeia\">75/440/CEE</a>, de 16 de Julho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável, se não forem tomadas medidas de protecção;\n\nc) Zonas em que é necessário outro tratamento para além do previsto no artigo 5.º para cumprir o disposto nas directivas do Conselho.\n\nZonas menos sensíveis\n\nUma extensão ou uma zona de água marinha pode ser identificada como uma zona menos sensível se a descarga de águas residuais não deteriorar o ambiente devido à morfologia, à hidrologia ou às condições hidráulicas específicas existentes nessa zona.\n\nNa identificação das zonas menos sensíveis ter-se-á em consideração o risco de a carga descarregada poder ser transferida para zonas adjacentes onde possa ter efeitos nocivos para o ambiente.\n\nNa identificação das zonas menos sensíveis devem ser tomados em consideração os seguintes elementos: baías abertas, estuários e outras águas costeiras com uma boa renovação das águas e que não estão sujeitos nem a eutrofização nem a empobrecimento de oxigénio ou cuja eutrofização ou empobrecimento de oxigénio na sequência das descargas residuais urbanas se considera improvável.\n\nLista de identificação\n\nZonas sensíveis - Águas doces superficiais e estuários\n\n(ver documento original)\n\nZonas menos sensíveis - Águas costeiras\n\nTodas as águas costeiras, excepto as do Algarve.\n\n(ver documento original)"
+  },
+  "105679848": {
+   "fragment_id": "105679773",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão derrogadas as normas do Decreto-Lei n.º 74/90, de 7 de Março, que contrariem o disposto no presente diploma e é revogada a Portaria n.º 624/90, de 4 de Agosto."
+  },
+  "75044114": {
+   "fragment_id": "75044058",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 22 de Maio de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Maio de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "105679849": {
+   "fragment_id": "75044059",
+   "type": 14,
+   "heading": "Anexo I — Requisitos de tratamento das águas residuais urbanas",
+   "in_force_from": "1998-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 348/98 - Diário da República n.º 259/1998, Série I-A de 1998-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1998-223419), em vigor a partir de 1998-11-14"
+   ],
+   "markdown": "## Anexo I — Requisitos de tratamento das águas residuais urbanas\n\nA) Sistemas de drenagem\n\nOs sistemas de drenagem devem ter em conta os requisitos de tratamento das águas residuais urbanas.\n\nA concepção, construção e manutenção dos sistemas de drenagem deve obedecer aos melhores conhecimentos técnicos que não acarretem custos excessivos, nomeadamente quanto:\n\nAo volume e características das águas residuais urbanas;\n\nÀ prevenção de fugas;\n\nÀ limitação da poluição das águas receptoras, no caso de inundações provocadas por tempestades.\n\nB) Descarga das estações de tratamento de águas residuais urbanas nas águas receptoras\n\n1 - As estações de tratamento de águas residuais serão concebidas ou modificadas de forma que se possam obter amostras representativas das águas residuais à chegada e dos efluentes tratados antes da descarga nas águas receptoras.\n\n2 - As descargas das estações de tratamento de águas residuais urbanas em conformidade com os artigos 5.º e 6.º devem satisfazer os requisitos constantes do quadro n.º 1.\n\n3 - As descargas das estações de tratamento de águas residuais urbanas em zonas sensíveis sujeitas a eutrofização devem satisfazer, para além disso, os requisitos representados no quadro n.º 2 do presente anexo.\n\n4 - Caso se justifique, serão aplicados requisitos de tratamento mais rigorosos do que os apresentados nos quadros n.os 1 e ou 2, a fim de garantir que as águas receptoras satisfaçam as condições estabelecidas por qualquer outra directiva aplicável ou sempre que seja necessário respeitar os objectivos de qualidade fixados para o meio receptor pela legislação vigente.\n\n5 - Os pontos de descarga das águas residuais urbanas deverão ser escolhidos, na medida do possível, por forma a minimizar os efeitos nas águas receptoras.\n\nC) Águas residuais industriais\n\nAs águas residuais que entrem nos sistemas de drenagem e nas estações de tratamento de águas residuais urbanas serão sujeitas ao pré-tratamento que for necessário para:\n\nProteger a saúde do pessoal que trabalha nos sistemas colectores e nas estações de tratamento;\n\nGarantir que os sistemas de drenagem, as estações de tratamento de águas residuais e o equipamento conexo não sejam danificados;\n\nGarantir que o funcionamento das estações de tratamento das águas residuais e o tratamento das lamas não sejam entravados;\n\nGarantir que as descargas das estações de tratamento não deteriorem o ambiente ou não impeçam as águas receptoras de cumprir o disposto noutras directivas comunitárias;\n\nGarantir que as lamas possam ser eliminadas em segurança e de um modo ecologicamente aceitável.\n\nD) Métodos de referência para o controlo e a avaliação dos resultados\n\n1 - Serão aplicados métodos de controlo que correspondam pelo menos ao nível das exigências abaixo especificadas.\n\nPodem ser utilizados métodos alternativos aos referidos nos n.os 2, 3 e 4, desde que seja possível demonstrar que os resultados obtidos são equivalentes.\n\n2 - Serão colhidas amostras de vinte e quatro horas, proporcionais ao caudal ou por escalões de tempo, num ponto bem definido à saída e, se necessário, à entrada da estação de tratamento, para controlar o cumprimento dos requisitos aplicáveis às descargas de águas residuais tal como estabelecidos no presente decreto-lei.\n\nSerão aplicadas boas práticas internacionais de laboratório a fim de reduzir ao mínimo a degradação das amostras entre a colheita e a análise.\n\n3 - O número mínimo anual de amostras será determinado de acordo com as dimensões da estação de tratamento e a colheita será feita em intervalos regulares durante o ano:\n\n2000-9999 e. p:\n\n12 amostras durante o primeiro ano;\n\n4 amostras nos anos seguintes, se se provar que durante o primeiro ano a água cumpre as disposições do presente decreto-lei; se uma das 4 amostras colhidas nos anos subsequentes não cumprir os requisitos, deverão no ano seguinte ser colhidas 12 amostras.\n\n10000-49999 e. p. - 12 amostras;\n\n50000 e. p. - 24 amostras.\n\n4 - Considera-se que as águas residuais tratadas são conformes com os parâmetros respectivos se, para cada um dos parâmetros aplicáveis, individualmente considerados, as amostras revelarem que as águas obedecem ao valor paramétrico do seguinte modo:\n\na) No que se refere aos parâmetros descritos no quadro n.º 1 e no n.º 6) do artigo 2.º, são especificados no quadro n.º 3 o número máximo de amostras que poderão não ser conformes aos requisitos expressos em concentrações e ou reduções percentuais do quadro n.º 1 e do n.º 6) do artigo 2.º;\n\nb) No que se refere aos parâmetros descritos no quadro n.º 1, expressos em concentração, as amostras que podem não ser conformes, colhidas em condições normais de funcionamento, não devem desviar-se dos valores paramétricos em mais de 100%. Em relação aos valores paramétricos em concentração relativos ao total de partículas sólidas em suspensão, poder-se-ão aceitar desvios até 150%;\n\nc) Para os parâmetros especificados no quadro n.º 2, a média anual das amostras relativas a cada parâmetro deverá respeitar os valores paramétricos respectivos.\n\n5 - Não serão tomados em consideração valores extremos para a qualidade das águas em questão se esses valores resultarem de situações excepcionais, como, por exemplo, chuvas torrenciais.\n\nQUADRO N.º 1\n\nRequisitos para as descargas das estações de tratamento de águas residuais urbanas sujeitas ao disposto nos artigos 5.º e 6.º\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver documento original)\n\nAs análises das descargas provenientes de lagoas serão efectuadas com amostras filtradas; no entanto, a concentração do total de partículas sólidas em suspensão em descargas de águas não filtradas não poderá exceder 150 mg/l.\n\nQUADRO N.º 2\n\nPodem ser aplicados um dos parâmetros ou ambos, consoante a situação local.\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver quadro no documento original)\n\nQUADRO N.º 3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 348/98 - Diário da República n.º 259/1998, Série I-A de 1998-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1998-223419), em vigor a partir de 1998-11-14"
+  },
+  "105679865": {
+   "fragment_id": "105698790",
+   "type": 11,
+   "heading": "Artigo 16.º — Regiões Autónomas",
+   "in_force_from": "1999-07-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+   ],
+   "markdown": "###### Artigo 16.º — Regiões Autónomas\n\n1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado.\n\n2 - Os serviços e organismos das respectivas administrações regionais autónomas devem remeter ao Instituto Nacional da Água (INAG) a informação necessária para o cumprimento do disposto nos artigos 3.º, 7.º, 12.º e 15.º\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+  },
+  "105679866": {
+   "fragment_id": "75044057",
+   "type": 11,
+   "heading": "Artigo 17.º — Anexos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Anexos\n\n1 - Os anexos ao presente decreto-lei, que dele fazem parte integrante, podem ser alterados por portaria do membro do Governo responsável pela área do ambiente, dentro dos limites permitidos pelas regras comunitárias.\n\n2 - Os originais das cartas que integram o anexo II ao presente diploma encontram-se depositados na direcção regional do ambiente e recursos naturais territorialmente competente."
+  },
+  "105679867": {
+   "fragment_id": "105679773",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Norma revogatória\n\nSão derrogadas as normas do Decreto-Lei n.º 74/90, de 7 de Março, que contrariem o disposto no presente diploma e é revogada a Portaria n.º 624/90, de 4 de Agosto."
+  },
+  "105679868": {
+   "fragment_id": "75044058",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 22 de Maio de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Maio de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "105679869": {
+   "fragment_id": "75044059",
+   "type": 14,
+   "heading": "Anexo I — Requisitos de tratamento das águas residuais urbanas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 348/98 - Diário da República n.º 259/1998, Série I-A de 1998-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1998-223419), em vigor a partir de 1998-11-14"
+   ],
+   "markdown": "## Anexo I — Requisitos de tratamento das águas residuais urbanas\n\nA) Sistemas de drenagem\n\nOs sistemas de drenagem devem ter em conta os requisitos de tratamento das águas residuais urbanas.\n\nA concepção, construção e manutenção dos sistemas de drenagem deve obedecer aos melhores conhecimentos técnicos que não acarretem custos excessivos, nomeadamente quanto:\n\nAo volume e características das águas residuais urbanas;\n\nÀ prevenção de fugas;\n\nÀ limitação da poluição das águas receptoras, no caso de inundações provocadas por tempestades.\n\nB) Descarga das estações de tratamento de águas residuais urbanas nas águas receptoras\n\n1 - As estações de tratamento de águas residuais serão concebidas ou modificadas de forma que se possam obter amostras representativas das águas residuais à chegada e dos efluentes tratados antes da descarga nas águas receptoras.\n\n2 - As descargas das estações de tratamento de águas residuais urbanas em conformidade com os artigos 5.º e 6.º devem satisfazer os requisitos constantes do quadro n.º 1.\n\n3 - As descargas das estações de tratamento de águas residuais urbanas em zonas sensíveis sujeitas a eutrofização devem satisfazer, para além disso, os requisitos representados no quadro n.º 2 do presente anexo.\n\n4 - Caso se justifique, serão aplicados requisitos de tratamento mais rigorosos do que os apresentados nos quadros n.os 1 e ou 2, a fim de garantir que as águas receptoras satisfaçam as condições estabelecidas por qualquer outra directiva aplicável ou sempre que seja necessário respeitar os objectivos de qualidade fixados para o meio receptor pela legislação vigente.\n\n5 - Os pontos de descarga das águas residuais urbanas deverão ser escolhidos, na medida do possível, por forma a minimizar os efeitos nas águas receptoras.\n\nC) Águas residuais industriais\n\nAs águas residuais que entrem nos sistemas de drenagem e nas estações de tratamento de águas residuais urbanas serão sujeitas ao pré-tratamento que for necessário para:\n\nProteger a saúde do pessoal que trabalha nos sistemas colectores e nas estações de tratamento;\n\nGarantir que os sistemas de drenagem, as estações de tratamento de águas residuais e o equipamento conexo não sejam danificados;\n\nGarantir que o funcionamento das estações de tratamento das águas residuais e o tratamento das lamas não sejam entravados;\n\nGarantir que as descargas das estações de tratamento não deteriorem o ambiente ou não impeçam as águas receptoras de cumprir o disposto noutras directivas comunitárias;\n\nGarantir que as lamas possam ser eliminadas em segurança e de um modo ecologicamente aceitável.\n\nD) Métodos de referência para o controlo e a avaliação dos resultados\n\n1 - Serão aplicados métodos de controlo que correspondam pelo menos ao nível das exigências abaixo especificadas.\n\nPodem ser utilizados métodos alternativos aos referidos nos n.os 2, 3 e 4, desde que seja possível demonstrar que os resultados obtidos são equivalentes.\n\n2 - Serão colhidas amostras de vinte e quatro horas, proporcionais ao caudal ou por escalões de tempo, num ponto bem definido à saída e, se necessário, à entrada da estação de tratamento, para controlar o cumprimento dos requisitos aplicáveis às descargas de águas residuais tal como estabelecidos no presente decreto-lei.\n\nSerão aplicadas boas práticas internacionais de laboratório a fim de reduzir ao mínimo a degradação das amostras entre a colheita e a análise.\n\n3 - O número mínimo anual de amostras será determinado de acordo com as dimensões da estação de tratamento e a colheita será feita em intervalos regulares durante o ano:\n\n2000-9999 e. p:\n\n12 amostras durante o primeiro ano;\n\n4 amostras nos anos seguintes, se se provar que durante o primeiro ano a água cumpre as disposições do presente decreto-lei; se uma das 4 amostras colhidas nos anos subsequentes não cumprir os requisitos, deverão no ano seguinte ser colhidas 12 amostras.\n\n10000-49999 e. p. - 12 amostras;\n\n50000 e. p. - 24 amostras.\n\n4 - Considera-se que as águas residuais tratadas são conformes com os parâmetros respectivos se, para cada um dos parâmetros aplicáveis, individualmente considerados, as amostras revelarem que as águas obedecem ao valor paramétrico do seguinte modo:\n\na) No que se refere aos parâmetros descritos no quadro n.º 1 e no n.º 6) do artigo 2.º, são especificados no quadro n.º 3 o número máximo de amostras que poderão não ser conformes aos requisitos expressos em concentrações e ou reduções percentuais do quadro n.º 1 e do n.º 6) do artigo 2.º;\n\nb) No que se refere aos parâmetros descritos no quadro n.º 1, expressos em concentração, as amostras que podem não ser conformes, colhidas em condições normais de funcionamento, não devem desviar-se dos valores paramétricos em mais de 100%. Em relação aos valores paramétricos em concentração relativos ao total de partículas sólidas em suspensão, poder-se-ão aceitar desvios até 150%;\n\nc) Para os parâmetros especificados no quadro n.º 2, a média anual das amostras relativas a cada parâmetro deverá respeitar os valores paramétricos respectivos.\n\n5 - Não serão tomados em consideração valores extremos para a qualidade das águas em questão se esses valores resultarem de situações excepcionais, como, por exemplo, chuvas torrenciais.\n\nQUADRO N.º 1\n\nRequisitos para as descargas das estações de tratamento de águas residuais urbanas sujeitas ao disposto nos artigos 5.º e 6.º\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver documento original)\n\nAs análises das descargas provenientes de lagoas serão efectuadas com amostras filtradas; no entanto, a concentração do total de partículas sólidas em suspensão em descargas de águas não filtradas não poderá exceder 150 mg/l.\n\nQUADRO N.º 2\n\nPodem ser aplicados um dos parâmetros ou ambos, consoante a situação local.\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver quadro no documento original)\n\nQUADRO N.º 3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 348/98 - Diário da República n.º 259/1998, Série I-A de 1998-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1998-223419), em vigor a partir de 1998-11-14"
+  },
+  "105679871": {
+   "fragment_id": "75044060",
+   "type": 14,
+   "heading": "Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis",
+   "in_force_from": "1999-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis\n\nZonas sensíveis\n\nUma determinada extensão de água será identificada como zona sensível se pertencer a uma das seguintes categorias:\n\na) Lagos naturais de água doce, outras extensões de água doce, estuários e águas costeiras que se revelem eutróficos ou susceptíveis de se tornarem eutróficos num futuro próximo, se não forem tomadas medidas de protecção. Na avaliação dos nutrientes que devem ser reduzidos através de tratamento suplementar podem ser tomados em consideração os seguintes elementos:\n\ni) Lagos, cursos de água e afluentes de lagos/albufeiras/baías fechadas cujas águas têm uma fraca renovação e onde eventualmente se pode verificar um fenómeno de acumulação. Nestas zonas deve-se proceder à remoção do fósforo, excepto se se demonstrar que essa remoção não terá qualquer efeito no nível de eutrofização. Nos locais onde são feitas as descargas de grandes aglomerados, pode igualmente ser considerada a remoção do azoto;\n\nii) Estuários, baías e outras águas costeiras cujas águas têm uma fraca renovação ou que recebem grandes quantidades de nutrientes. As descargas de pequenas aglomerações têm geralmente pouca importância nessas zonas, mas, no caso de grandes aglomerações, deve proceder-se à remoção do fósforo e ou azoto, excepto se se demonstrar que a remoção não terá qualquer efeito no nível de eutrofização;\n\nb) Águas doces de superfície destinadas à captação de água potável cujo teor em nitratos possa exceder a concentração de nitrato estabelecida nas disposições pertinentes da Directiva n.º  <a href=\"eurlex.asp?ano=1975&id=375L0440\" title=\"  Link para Directiva da Comunidade Europeia\">75/440/CEE</`��,  de 16 de Julho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável, se não forem tomadas medidas de protecção;\n\nc) Zonas em que é necessário outro tratamento para além do previsto no artigo 5.º para cumprir o disposto nas directivas do Conselho.\n\nZonas menos sensíveis\n\nUma extensão ou uma zona de água marinha pode ser identificada como uma zona menos sensível se a descarga de águas residuais não deteriorar o ambiente devido à morfologia, à hidrologia ou às condições hidráulicas específicas existentes nessa zona.\n\nNa identificação das zonas menos sensíveis ter-se-á em consideração o risco de a carga descarregada poder ser transferida para zonas adjacentes onde possa ter efeitos nocivos para o ambiente.\n\nNa identificação das zonas menos sensíveis devem ser tomados em consideração os seguintes elementos: baías abertas, estuários e outras águas costeiras com uma boa renovação das águas e que não estão sujeitos nem a eutrofização nem a empobrecimento de oxigénio ou cuja eutrofização ou empobrecimento de oxigénio na sequência das descargas residuais urbanas se considera improvável.\n\nLista de identificação\n\nZonas sensíveis - Águas doces superficiais e estuários\n\n(ver documento original)\n\nZonas menos sensíveis - águas costeiras\n\n1 - Todas as águas costeiras de Portugal continental, excepto as do Sul do Algarve.\n\n2 - Todas as águas costeiras dos arquipélagos dos Açores e da Madeira.\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+  },
+  "105701687": {
+   "fragment_id": "75044060",
+   "type": 14,
+   "heading": "Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis",
+   "in_force_from": "2001-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis\n\nZonas sensíveis\n\nUma determinada extensão de água será identificada como zona sensível se pertencer a uma das seguintes categorias:\n\na) Lagos naturais de água doce, outras extensões de água doce, estuários e águas costeiras que se revelem eutróficos ou susceptíveis de se tornarem eutróficos num futuro próximo, se não forem tomadas medidas de protecção. Na avaliação dos nutrientes que devem ser reduzidos através de tratamento suplementar podem ser tomados em consideração os seguintes elementos:\n\ni) Lagos, cursos de água e afluentes de lagos/albufeiras/baías fechadas cujas águas têm uma fraca renovação e onde eventualmente se pode verificar um fenómeno de acumulação. Nestas zonas deve-se proceder à remoção do fósforo, excepto se se demonstrar que essa remoção não terá qualquer efeito no nível de eutrofização. Nos locais onde são feitas as descargas de grandes aglomerados, pode igualmente ser considerada a remoção do azoto;\n\nii) Estuários, baías e outras águas costeiras cujas águas têm uma fraca renovação ou que recebem grandes quantidades de nutrientes. As descargas de pequenas aglomerações têm geralmente pouca importância nessas zonas, mas, no caso de grandes aglomerações, deve proceder-se à remoção do fósforo e ou azoto, excepto se se demonstrar que a remoção não terá qualquer efeito no nível de eutrofização;\n\nb) Águas doces de superfície destinadas à captação de água potável cujo teor em nitratos possa exceder a concentração de nitrato estabelecida nas disposições pertinentes da Directiva n.º  <a href=\"eurlex.asp?ano=1975&id=375L0440\" title=\"  Link para Directiva da Comunidade Europeia!�75/440/CEE</`������������,  de 16 de Julho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável, se não forem tomadas medidas de protecção;\n\nc) Zonas em que é necessário outro tratamento para além do previsto no artigo 5.º para cumprir o disposto nas directivas do Conselho.\n\nZonas menos sensíveis\n\nUma extensão ou uma zona de água marinha pode ser identificada como uma zona menos sensível se a descarga de águas residuais não deteriorar o ambiente devido à morfologia, à hidrologia ou às condições hidráulicas específicas existentes nessa zona.\n\nNa identificação das zonas menos sensíveis ter-se-á em consideração o risco de a carga descarregada poder ser transferida para zonas adjacentes onde possa ter efeitos nocivos para o ambiente.\n\nNa identificação das zonas menos sensíveis devem ser tomados em consideração os seguintes elementos: baías abertas, estuários e outras águas costeiras com uma boa renovação das águas e que não estão sujeitos nem a eutrofização nem a empobrecimento de oxigénio ou cuja eutrofização ou empobrecimento de oxigénio na sequência das descargas residuais urbanas se considera improvável.\n\nLista de identificação\n\nZonas sensíveis - Águas doces superficiais e estuários\n\n(ver quadro no documento original)\n\nMAPA\n\nZonas sensíveis e respectivas bacias hidrográficas\n\n(ver mapa no documento original)\n\nZonas menos sensíveis - águas costeiras\n\n1 - Todas as águas costeiras de Portugal continental, excepto as do Sul do Algarve.\n\n2 - Todas as águas costeiras dos arquipélagos dos Açores e da Madeira.\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+  },
+  "105727033": {
+   "fragment_id": "75044046",
+   "type": 11,
+   "heading": "Artigo 6.º — Tratamento para descargas em zonas sensíveis",
+   "in_force_from": "2004-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-07"
+   ],
+   "markdown": "###### Artigo 6.º — Tratamento para descargas em zonas sensíveis\n\n1 - A descarga de águas residuais urbanas provenientes de aglomerados com um e. p. superior a 10000 em zonas sensíveis só pode ser licenciada quando aquelas águas se submetam a um tratamento mais rigoroso do que o mencionado no artigo 5.º, satisfazendo as condições previstas no alínea B) do anexo I ao presente diploma.\n\n2 - O cumprimento das condições referidas no número anterior pode ser dispensado quando se demonstre perante a entidade licenciadora que a percentagem mínima de redução da carga total de todas as estações de tratamento dessa zona é de pelo menos 75% quanto ao fósforo total e de, pelo menos, 75% quanto ao azoto total.\n\n3 - O prazo para adaptação, por parte das entidades mencionadas no n.º 1 do artigo 4.º, do cumprimento das condições mencionadas no n.º 1, relativamente a descargas provenientes de aglomerados com mais de 10000 e. p., desde que já existentes ou previstas à data da vigência do presente decreto-lei, termina em 31 de Dezembro de 1998.\n\n4 - Ficam sujeitas ao disposto nos números anteriores as descargas das estações de tratamento que, não se localizando em zonas sensíveis, contribuam para a sua poluição.\n\n5 - As descargas de águas residuais urbanas provenientes de aglomerações de dimensão inferior a 10000 e. p., quando localizadas em zona sensível ou na respectiva área de influência, podem ser sujeitas aos requisitos aplicáveis às descargas de águas residuais provenientes de aglomerações de dimensão superior a 10000 e. p. sempre que, no contexto local em que se inserem, seja necessário cumprir outras directivas comunitárias e ou objectivos de qualidade para o meio receptor fixados pela legislação vigente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-07"
+  },
+  "105727017": {
+   "fragment_id": "105727493",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Licenciamento de descargas de águas residuais",
+   "in_force_from": "2004-06-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-27"
+   ],
+   "markdown": "###### Artigo 7.º-A — Licenciamento de descargas de águas residuais\n\nQuando se justifique, em complemento dos valores paramétricos estabelecidos no presente diploma, a entidade licenciadora pode fixar na licença de descarga de águas residuais urbanas outros parâmetros constantes da legislação específica aplicável, nomeadamente o Decreto-Lei n.º 236/98, de 1 de Agosto.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-27"
+  },
+  "105727018": {
+   "fragment_id": "75044048",
+   "type": 11,
+   "heading": "Artigo 8.º — Tratamento apropriado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tratamento apropriado\n\n1 - As descargas de águas residuais urbanas provenientes de aglomerados com um e. p. inferior a 2000 efectuadas em águas doces e estuários, bem como as descargas provenientes de aglomerados com um e. p. inferior a 10000 efectuadas em águas costeiras, só poderão ser licenciadas quando se submetam a um tratamento apropriado tal como é definido no n.º 8) do artigo 2.º A entidade licenciadora poderá permitir que a obtenção do referido tratamento seja faseada no tempo, desde que seja respeitado o prazo mencionado no número seguinte.\n\n2 - As entidades mencionadas no n.º 1 do artigo 4.º deverão adoptar as medidas necessárias para que as descargas já existentes ou previstas à data da entrada em vigor do presente diploma cumpram as exigências estabelecidas no número anterior até 31 de Dezembro de 2005."
+  },
+  "105727019": {
+   "fragment_id": "75044049",
+   "type": 11,
+   "heading": "Artigo 9.º — Descarga de águas residuais industriais em sistemas de drenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Descarga de águas residuais industriais em sistemas de drenagem\n\nSem prejuízo do disposto na legislação em vigor, nomeadamente no Decreto-Lei n.º 207/94, de 6 de Agosto, devem as entidades públicas mencionadas no n.º 1 do artigo 4.º, mediante a aprovação de regulamento próprio que cumpra o estabelecido no alínea C) do anexo I, fixar as condições para a descarga de águas residuais industriais nos sistemas de drenagem e nas estações de tratamento de águas residuais urbanas."
+  },
+  "105727020": {
+   "fragment_id": "75044050",
+   "type": 11,
+   "heading": "Artigo 10.º — Lamas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Lamas\n\n1 - A eliminação das lamas provenientes das estações de tratamento de águas residuais urbanas está sujeita a autorização da entidade licenciadora.\n\n2 - É proibida a descarga de lamas em águas de superfície."
+  },
+  "105727021": {
+   "fragment_id": "75044051",
+   "type": 11,
+   "heading": "Artigo 11.º — Reutilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reutilização\n\nAs águas residuais tratadas, bem como as lamas, devem ser reutilizadas, sempre que possível ou adequado."
+  },
+  "105727022": {
+   "fragment_id": "75044052",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo\n\n1 - A entidade licenciadora especificará, de acordo, nomeadamente, com a alínea D) do anexo I ao presente diploma, os procedimentos de autocontrolo para cada descarga, devendo constar da respectiva autorização a periodicidade com que os mesmos lhe deverão ser remetidos.\n\n2 - Compete igualmente à entidade licenciadora proceder ao controlo da qualidade do meio aquático nos casos em que haja fundados receios de que este esteja a ser deteriorado por descargas das águas residuais a que se reporta o presente diploma, excepto quanto às águas costeiras, relativamente às quais esta competência será exercida pelo Instituto da Água.\n\n3 - A entidade licenciadora, conjuntamente com o Instituto da Água, adoptará os procedimentos que se revelem necessários para o controlo do meio aquático receptor, a fim de que possa ser dado cumprimento ao disposto no n.os 3 e 4 do artigo 15.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio."
+  },
+  "105727023": {
+   "fragment_id": "75044053",
+   "type": 11,
+   "heading": "Artigo 13.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Fiscalização\n\nA fiscalização do cumprimento do disposto no presente diploma compete à entidade licenciadora, bem como aos serviços de inspecção dos Ministérios do Ambiente e da Saúde, no âmbito das competências que lhes são atribuídas na vigilância sanitária da qualidade das águas."
+  },
+  "105727034": {
+   "fragment_id": "75044054",
+   "type": 11,
+   "heading": "Artigo 14.º — Contra-ordenações e coimas",
+   "in_force_from": "2004-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-07"
+   ],
+   "markdown": "###### Artigo 14.º — Contra-ordenações e coimas\n\n1 - Sem prejuízo da aplicação do disposto no Decreto-Lei n.º 236/98, de 1 de Agosto, a violação do disposto nos n.os 1 e 2 do artigo 4.º, nos n.os 1, 2 e 4 do artigo 5.º, nos artigos 6.º, 8.º e 10.º e no n.º 1 do artigo 12.º do presente diploma constitui contra-ordenação punível com coima de (euro) 1250 a (euro) 3740, quando praticada por pessoa singular, e de (euro) 2500 a (euro) 44890, quando praticada por pessoa colectiva.\n\n2 - A negligência é punível.\n\n3 - A instauração dos processos de contra-ordenação e a aplicação das coimas competem à entidade licenciadora.\n\n4 - O produto das coimas reverte em 60% para o Estado e em 40% para a entidade licenciadora.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-07"
+  },
+  "105727025": {
+   "fragment_id": "75044055",
+   "type": 11,
+   "heading": "Artigo 15.º — Programação de execução de medidas e elaboração de relatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Programação de execução de medidas e elaboração de relatórios\n\n1 - Ao Instituto da Água compete elaborar um programa de execução das medidas previstas no presente diploma, de acordo com a metodologia estabelecida na Decisão da Comissão n.º <a href=\"eurlex.asp?ano=1993&id=393D0481\" title=\"Link para Decisão da Comunidade Europeia\">93/481/CEE</a>, de 28 de Julho.\n\n2 - O programa referido no número anterior deverá ser actualizado de dois em dois anos e as informações nele contidas transmitidas à Comissão Europeia até ao dia 30 de Junho subsequente.\n\n3 - Do programa referido no número anterior deverá constar a definição dos limites marítimos dos estuários.\n\n4 - Compete ainda ao Instituto da Água elaborar os relatórios de situação das lamas e das águas residuais urbanas previstos no artigo 16.º da Directiva n.º <a href=\"eurlex.asp?ano=1991&id=391L0271\" title=\"Link para Directiva da Comunidade Europeia\">91/271/CEE</a>, do Conselho, de 21 de Maio."
+  },
+  "105727026": {
+   "fragment_id": "75044056",
+   "type": 11,
+   "heading": "Artigo 16.º — Comissão de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comissão de acompanhamento\n\nÉ criada uma comissão de acompanhamento para execução do presente diploma, cuja composição e funcionamento serão fixados por despacho conjunto dos Ministros das Finanças e do Ambiente."
+  },
+  "105727027": {
+   "fragment_id": "105698790",
+   "type": 11,
+   "heading": "Artigo 17.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+   ],
+   "markdown": "###### Artigo 17.º — Regiões Autónomas\n\n1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma, a introduzir por diploma regional adequado.\n\n2 - Os serviços e organismos das respectivas administrações regionais autónomas devem remeter ao Instituto Nacional da Água (INAG) a informação necessária para o cumprimento do disposto nos artigos 3.º, 7.º, 12.º e 15.º\n\n> Aditado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+  },
+  "105727035": {
+   "fragment_id": "75044057",
+   "type": 11,
+   "heading": "Artigo 18.º — Regiões Autónomas",
+   "in_force_from": "2004-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-07"
+   ],
+   "markdown": "###### Artigo 18.º — Regiões Autónomas\n\n1 - O presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações decorrentes da estrutura própria da administração regional autónoma.\n\n2 - Os serviços e organismos das respectivas administrações regionais autónomas devem enviar ao INAG todos os elementos de informação necessários ao cumprimento do disposto nos artigos 3.º, 7.º, 12.º e 15.º do presente diploma.\n\n3 - O produto das coimas aplicadas pelas Regiões Autónomas constitui receita própria.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-07"
+  },
+  "105727029": {
+   "fragment_id": "105679773",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nSão derrogadas as normas do Decreto-Lei n.º 74/90, de 7 de Março, que contrariem o disposto no presente diploma e é revogada a Portaria n.º 624/90, de 4 de Agosto."
+  },
+  "105727030": {
+   "fragment_id": "75044058",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 26 de Março de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 22 de Maio de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 27 de Maio de 1997.\n\nO Primeiro-Ministro, em exercício, António Manuel de Carvalho Ferreira Vitorino."
+  },
+  "105727031": {
+   "fragment_id": "75044059",
+   "type": 14,
+   "heading": "Anexo I — Requisitos de tratamento das águas residuais urbanas",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 348/98 - Diário da República n.º 259/1998, Série I-A de 1998-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1998-223419), em vigor a partir de 1998-11-14"
+   ],
+   "markdown": "## Anexo I — Requisitos de tratamento das águas residuais urbanas\n\nA) Sistemas de drenagem\n\nOs sistemas de drenagem devem ter em conta os requisitos de tratamento das águas residuais urbanas.\n\nA concepção, construção e manutenção dos sistemas de drenagem deve obedecer aos melhores conhecimentos técnicos que não acarretem custos excessivos, nomeadamente quanto:\n\nAo volume e características das águas residuais urbanas;\n\nÀ prevenção de fugas;\n\nÀ limitação da poluição das águas receptoras, no caso de inundações provocadas por tempestades.\n\nB) Descarga das estações de tratamento de águas residuais urbanas nas águas receptoras\n\n1 - As estações de tratamento de águas residuais serão concebidas ou modificadas de forma que se possam obter amostras representativas das águas residuais à chegada e dos efluentes tratados antes da descarga nas águas receptoras.\n\n2 - As descargas das estações de tratamento de águas residuais urbanas em conformidade com os artigos 5.º e 6.º devem satisfazer os requisitos constantes do quadro n.º 1.\n\n3 - As descargas das estações de tratamento de águas residuais urbanas em zonas sensíveis sujeitas a eutrofização devem satisfazer, para além disso, os requisitos representados no quadro n.º 2 do presente anexo.\n\n4 - Caso se justifique, serão aplicados requisitos de tratamento mais rigorosos do que os apresentados nos quadros n.os 1 e ou 2, a fim de garantir que as águas receptoras satisfaçam as condições estabelecidas por qualquer outra directiva aplicável ou sempre que seja necessário respeitar os objectivos de qualidade fixados para o meio receptor pela legislação vigente.\n\n5 - Os pontos de descarga das águas residuais urbanas deverão ser escolhidos, na medida do possível, por forma a minimizar os efeitos nas águas receptoras.\n\nC) Águas residuais industriais\n\nAs águas residuais que entrem nos sistemas de drenagem e nas estações de tratamento de águas residuais urbanas serão sujeitas ao pré-tratamento que for necessário para:\n\nProteger a saúde do pessoal que trabalha nos sistemas colectores e nas estações de tratamento;\n\nGarantir que os sistemas de drenagem, as estações de tratamento de águas residuais e o equipamento conexo não sejam danificados;\n\nGarantir que o funcionamento das estações de tratamento das águas residuais e o tratamento das lamas não sejam entravados;\n\nGarantir que as descargas das estações de tratamento não deteriorem o ambiente ou não impeçam as águas receptoras de cumprir o disposto noutras directivas comunitárias;\n\nGarantir que as lamas possam ser eliminadas em segurança e de um modo ecologicamente aceitável.\n\nD) Métodos de referência para o controlo e a avaliação dos resultados\n\n1 - Serão aplicados métodos de controlo que correspondam pelo menos ao nível das exigências abaixo especificadas.\n\nPodem ser utilizados métodos alternativos aos referidos nos n.os 2, 3 e 4, desde que seja possível demonstrar que os resultados obtidos são equivalentes.\n\n2 - Serão colhidas amostras de vinte e quatro horas, proporcionais ao caudal ou por escalões de tempo, num ponto bem definido à saída e, se necessário, à entrada da estação de tratamento, para controlar o cumprimento dos requisitos aplicáveis às descargas de águas residuais tal como estabelecidos no presente decreto-lei.\n\nSerão aplicadas boas práticas internacionais de laboratório a fim de reduzir ao mínimo a degradação das amostras entre a colheita e a análise.\n\n3 - O número mínimo anual de amostras será determinado de acordo com as dimensões da estação de tratamento e a colheita será feita em intervalos regulares durante o ano:\n\n2000-9999 e. p:\n\n12 amostras durante o primeiro ano;\n\n4 amostras nos anos seguintes, se se provar que durante o primeiro ano a água cumpre as disposições do presente decreto-lei; se uma das 4 amostras colhidas nos anos subsequentes não cumprir os requisitos, deverão no ano seguinte ser colhidas 12 amostras.\n\n10000-49999 e. p. - 12 amostras;\n\n50000 e. p. - 24 amostras.\n\n4 - Considera-se que as águas residuais tratadas são conformes com os parâmetros respectivos se, para cada um dos parâmetros aplicáveis, individualmente considerados, as amostras revelarem que as águas obedecem ao valor paramétrico do seguinte modo:\n\na) No que se refere aos parâmetros descritos no quadro n.º 1 e no n.º 6) do artigo 2.º, são especificados no quadro n.º 3 o número máximo de amostras que poderão não ser conformes aos requisitos expressos em concentrações e ou reduções percentuais do quadro n.º 1 e do n.º 6) do artigo 2.º;\n\nb) No que se refere aos parâmetros descritos no quadro n.º 1, expressos em concentração, as amostras que podem não ser conformes, colhidas em condições normais de funcionamento, não devem desviar-se dos valores paramétricos em mais de 100%. Em relação aos valores paramétricos em concentração relativos ao total de partículas sólidas em suspensão, poder-se-ão aceitar desvios até 150%;\n\nc) Para os parâmetros especificados no quadro n.º 2, a média anual das amostras relativas a cada parâmetro deverá respeitar os valores paramétricos respectivos.\n\n5 - Não serão tomados em consideração valores extremos para a qualidade das águas em questão se esses valores resultarem de situações excepcionais, como, por exemplo, chuvas torrenciais.\n\nQUADRO N.º 1\n\nRequisitos para as descargas das estações de tratamento de águas residuais urbanas sujeitas ao disposto nos artigos 5.º e 6.º\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver documento original)\n\nAs análises das descargas provenientes de lagoas serão efectuadas com amostras filtradas; no entanto, a concentração do total de partículas sólidas em suspensão em descargas de águas não filtradas não poderá exceder 150 mg/l.\n\nQUADRO N.º 2\n\nPodem ser aplicados um dos parâmetros ou ambos, consoante a situação local.\n\nSerão aplicados os valores de concentração ou a percentagem de redução.\n\n(ver quadro no documento original)\n\nQUADRO N.º 3\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 348/98 - Diário da República n.º 259/1998, Série I-A de 1998-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/348-1998-223419), em vigor a partir de 1998-11-14"
+  },
+  "105727036": {
+   "fragment_id": "75044060",
+   "type": 14,
+   "heading": "Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036)",
+    "Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis\n\nZonas sensíveis\n\nUma determinada extensão de água será identificada como zona sensível se pertencer a uma das seguintes categorias:\n\na) Lagos naturais de água doce, outras extensões de água doce, estuários e águas costeiras que se revelem eutróficos ou susceptíveis de se tornarem eutróficos num futuro próximo, se não forem tomadas medidas de protecção. Na avaliação dos nutrientes que devem ser reduzidos através de tratamento suplementar podem ser tomados em consideração os seguintes elementos:\n\ni) Lagos, cursos de água e afluentes de lagos/albufeiras/baías fechadas cujas águas têm uma fraca renovação e onde eventualmente se pode verificar um fenómeno de acumulação. Nestas zonas deve-se proceder à remoção do fósforo, excepto se se demonstrar que essa remoção não terá qualquer efeito no nível de eutrofização. Nos locais onde são feitas as descargas de grandes aglomerados, pode igualmente ser considerada a remoção do azoto;\n\nii) Estuários, baías e outras águas costeiras cujas águas têm uma fraca renovação ou que recebem grandes quantidades de nutrientes. As descargas de pequenas aglomerações têm geralmente pouca importância nessas zonas, mas, no caso de grandes aglomerações, deve proceder-se à remoção do fósforo e ou azoto, excepto se se demonstrar que a remoção não terá qualquer efeito no nível de eutrofização;\n\nb) Águas doces de superfície destinadas à captação de água potável cujo teor em nitratos possa exceder a concentração de nitrato estabelecida nas disposições pertinentes da Directiva n.º  <a href=\"eurlex.asp?ano=1975&id=375L0440\" title=\"  Link para Directiva da Comunidade Europeia\">75/440/CEE</`����,  de 16 de Julho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável, se não forem tomadas medidas de protecção;\n\nc) Zonas em que é necessário outro tratamento para além do previsto no artigo 5.º para cumprir o disposto nas directivas do Conselho.\n\nZonas menos sensíveis\n\nUma extensão ou uma zona de água marinha pode ser identificada como uma zona menos sensível se a descarga de águas residuais não deteriorar o ambiente devido à morfologia, à hidrologia ou às condições hidráulicas específicas existentes nessa zona.\n\nNa identificação das zonas menos sensíveis ter-se-á em consideração o risco de a carga descarregada poder ser transferida para zonas adjacentes onde possa ter efeitos nocivos para o ambiente.\n\nNa identificação das zonas menos sensíveis devem ser tomados em consideração os seguintes elementos: baías abertas, estuários e outras águas costeiras com uma boa renovação das águas e que não estão sujeitos nem a eutrofização nem a empobrecimento de oxigénio ou cuja eutrofização ou empobrecimento de oxigénio na sequência das descargas residuais urbanas se considera improvável.\n\nLista de identificação\n\nLista de identificação\n\nZonas sensíveis - Águas doces superficiais, estuários e lagoas costeiras\n\n(ver lista no documento original)\n\nZonas menos sensíveis - Águas costeiras\n\n(ver lista no documento original)\n\nNota. - Sistema de coordenadas - projecção Gauss do Datum Geodésico Hayford de Lisboa Militar.\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036)\n\n> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+  },
+  "105727044": {
+   "fragment_id": "105727493",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Licenciamento de descargas de águas residuais",
+   "in_force_from": "2008-10-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916), em vigor a partir de 2008-10-13",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-27"
+   ],
+   "markdown": "###### Artigo 7.º-A — Licenciamento de descargas de águas residuais\n\n1 - Quando se justifique, em complemento dos valores paramétricos estabelecidos no presente diploma, a entidade licenciadora pode fixar na licença de descarga de águas residuais urbanas outros parâmetros constantes da legislação específica aplicável, nomeadamente o Decreto-Lei n.º 236/98, de 1 de Agosto.\n\n2 - Às descargas de águas residuais urbanas provenientes de aglomerações de dimensão superior a 10 000 e. p., quando localizadas em zonas sensíveis sujeitas a eutrofização ou na respectiva área de influência, devem ser aplicados, simultaneamente, ambos os parâmetros constantes do quadro n.º 2 do anexo i ao Decreto-Lei n.º 152/97, de 19 de Junho, alterado pelo Decreto-Lei n.º 348/98, de 9 de Novembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916), em vigor a partir de 2008-10-13\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-27"
+  },
+  "105727045": {
+   "fragment_id": "75044060",
+   "type": 14,
+   "heading": "Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916)",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036)",
+    "Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis\n\nZonas sensíveis\n\nUma determinada extensão de água será identificada como zona sensível se pertencer a uma das seguintes categorias:\n\na) Lagos naturais de água doce, outras extensões de água doce, estuários e águas costeiras que se revelem eutróficos ou susceptíveis de se tornarem eutróficos num futuro próximo, se não forem tomadas medidas de protecção. Na avaliação dos nutrientes que devem ser reduzidos através de tratamento suplementar podem ser tomados em consideração os seguintes elementos:\n\ni) Lagos, cursos de água e afluentes de lagos/albufeiras/baías fechadas cujas águas têm uma fraca renovação e onde eventualmente se pode verificar um fenómeno de acumulação. Nestas zonas deve-se proceder à remoção do fósforo, excepto se se demonstrar que essa remoção não terá qualquer efeito no nível de eutrofização. Nos locais onde são feitas as descargas de grandes aglomerados, pode igualmente ser considerada a remoção do azoto;\n\nii) Estuários, baías e outras águas costeiras cujas águas têm uma fraca renovação ou que recebem grandes quantidades de nutrientes. As descargas de pequenas aglomerações têm geralmente pouca importância nessas zonas, mas, no caso de grandes aglomerações, deve proceder-se à remoção do fósforo e ou azoto, excepto se se demonstrar que a remoção não terá qualquer efeito no nível de eutrofização;\n\nb) Águas doces de superfície destinadas à captação de água potável cujo teor em nitratos possa exceder a concentração de nitrato estabelecida nas disposições pertinentes da Directiva n.º  <a href=\"eurlex.asp?ano=1975&id=375L0440\" title=\"  Link para Directiva da Comunidade Europeia\">75/440/CEE</`��������,  de 16 de Julho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável, se não forem tomadas medidas de protecção;\n\nc) Zonas em que é necessário outro tratamento para além do previsto no artigo 5.º para cumprir o disposto nas directivas do Conselho.\n\nZonas menos sensíveis\n\nUma extensão ou uma zona de água marinha pode ser identificada como uma zona menos sensível se a descarga de águas residuais não deteriorar o ambiente devido à morfologia, à hidrologia ou às condições hidráulicas específicas existentes nessa zona.\n\nNa identificação das zonas menos sensíveis ter-se-á em consideração o risco de a carga descarregada poder ser transferida para zonas adjacentes onde possa ter efeitos nocivos para o ambiente.\n\nNa identificação das zonas menos sensíveis devem ser tomados em consideração os seguintes elementos: baías abertas, estuários e outras águas costeiras com uma boa renovação das águas e que não estão sujeitos nem a eutrofização nem a empobrecimento de oxigénio ou cuja eutrofização ou empobrecimento de oxigénio na sequência das descargas residuais urbanas se considera improvável.\n\nLista de identificação\n\nZonas sensíveis - Águas doces superficiais, estuários e lagoas costeiras\n\n(ver documento original)\n\nZonas menos sensíveis - Águas costeiras\n\n(ver documento original)\n\nNota. - Sistema de coordenadas: projecção Gauss do Datum Geodésico Hayford de Lisboa Militar.\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036)\n\n> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+  },
+  "105725334": {
+   "fragment_id": "75044060",
+   "type": 14,
+   "heading": "Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis",
+   "in_force_from": "2015-07-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2015 - Diário da República n.º 134/2015, Série I de 2015-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2015-69778945), em vigor a partir de 2015-07-18",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916)",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036)",
+    "Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+   ],
+   "markdown": "## Anexo II — Critérios de identificação das zonas sensíveis e menos sensíveis\n\nZonas sensíveis\n\nUma determinada extensão de água será identificada como zona sensível se pertencer a uma das seguintes categorias:\n\na) Lagos naturais de água doce, outras extensões de água doce, estuários e águas costeiras que se revelem eutróficos ou susceptíveis de se tornarem eutróficos num futuro próximo, se não forem tomadas medidas de protecção. Na avaliação dos nutrientes que devem ser reduzidos através de tratamento suplementar podem ser tomados em consideração os seguintes elementos:\n\ni) Lagos, cursos de água e afluentes de lagos/albufeiras/baías fechadas cujas águas têm uma fraca renovação e onde eventualmente se pode verificar um fenómeno de acumulação. Nestas zonas deve-se proceder à remoção do fósforo, excepto se se demonstrar que essa remoção não terá qualquer efeito no nível de eutrofização. Nos locais onde são feitas as descargas de grandes aglomerados, pode igualmente ser considerada a remoção do azoto;\n\nii) Estuários, baías e outras águas costeiras cujas águas têm uma fraca renovação ou que recebem grandes quantidades de nutrientes. As descargas de pequenas aglomerações têm geralmente pouca importância nessas zonas, mas, no caso de grandes aglomerações, deve proceder-se à remoção do fósforo e ou azoto, excepto se se demonstrar que a remoção não terá qualquer efeito no nível de eutrofização;\n\nb) Águas doces de superfície destinadas à captação de água potável cujo teor em nitratos possa exceder a concentração de nitrato estabelecida nas disposições pertinentes da Directiva n.º  <a href=\"eurlex.asp?ano=1975&id=375L0440\" title=\"  Link para Directiva da Comunidade Europeia\">75/440/CEE</`����������������,  de 16 de Julho de 1975, relativa à qualidade das águas superficiais destinadas à produção de água potável, se não forem tomadas medidas de protecção;\n\nc) Zonas em que é necessário outro tratamento para além do previsto no artigo 5.º para cumprir o disposto nas directivas do Conselho.\n\nZonas menos sensíveis\n\nUma extensão ou uma zona de água marinha pode ser identificada como uma zona menos sensível se a descarga de águas residuais não deteriorar o ambiente devido à morfologia, à hidrologia ou às condições hidráulicas específicas existentes nessa zona.\n\nNa identificação das zonas menos sensíveis ter-se-á em consideração o risco de a carga descarregada poder ser transferida para zonas adjacentes onde possa ter efeitos nocivos para o ambiente.\n\nNa identificação das zonas menos sensíveis devem ser tomados em consideração os seguintes elementos: baías abertas, estuários e outras águas costeiras com uma boa renovação das águas e que não estão sujeitos nem a eutrofização nem a empobrecimento de oxigénio ou cuja eutrofização ou empobrecimento de oxigénio na sequência das descargas residuais urbanas se considera improvável.\n\nLista de identificação\n\nZonas sensíveis - Águas doces superficiais, estuários e lagoas costeiras\n\n(ver documento original)\n\nZonas menos sensíveis - Águas costeiras\n\n(ver documento original)\n\nMAPA\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 133/2015 - Diário da República n.º 134/2015, Série I de 2015-07-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2015-69778945), em vigor a partir de 2015-07-18\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036)\n\n> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 172/2001 - Diário da República n.º 122/2001, Série I-A de 2001-05-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-2001-332415), em vigor a partir de 2001-05-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 261/99 - Diário da República n.º 156/1999, Série I-A de 1999-07-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-1999-374613), em vigor a partir de 1999-07-12"
+  },
+  "170380075": {
+   "fragment_id": "75044043",
+   "type": 11,
+   "heading": "Artigo 3.º — Zonas sensíveis e zonas menos sensíveis",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2021-170322929), em vigor a partir de 2021-08-28"
+   ],
+   "markdown": "###### Artigo 3.º — Zonas sensíveis e zonas menos sensíveis\n\n1 - A identificação das zonas sensíveis e das zonas menos sensíveis, para efeitos da aplicação do presente diploma, é efetuada por portaria do membro do Governo responsável pela área do ambiente, de acordo com os critérios previstos no anexo II ao presente diploma e do qual faz parte integrante.\n\n2 - A identificação das zonas sensíveis e das zonas menos sensíveis é revista pelo menos de quatro em quatro anos, mediante proposta da Agência Portuguesa do Ambiente, I. P. (APA, I. P.).\n\n3 - Sempre que da revisão prevista no número anterior resulte a necessidade do cumprimento de novas exigências, é concedido para o efeito um prazo de adaptação de sete anos.\n\n4 - A informação geográfica relativa à identificação das zonas sensíveis e menos sensíveis é disponibilizada para consulta no sítio na Internet da APA, I. P., através do sistema de informação geográfica SNIAmb - Sistema Nacional de Informação de Ambiente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2021-170322929), em vigor a partir de 2021-08-28"
+  },
+  "170380076": {
+   "fragment_id": "105727493",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Licenciamento de descargas de águas residuais",
+   "in_force_from": "2021-08-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2021-170322929), em vigor a partir de 2021-08-28",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916), em vigor a partir de 2008-10-13",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-27"
+   ],
+   "markdown": "###### Artigo 7.º-A — Licenciamento de descargas de águas residuais\n\n1 - Quando se justifique, em complemento dos valores paramétricos estabelecidos no presente diploma, a entidade licenciadora pode fixar na licença de descarga de águas residuais urbanas outros parâmetros constantes da legislação específica aplicável, nomeadamente o Decreto-Lei n.º 236/98, de 1 de Agosto.\n\n2 - Às descargas de águas residuais urbanas provenientes de aglomerações de dimensão superior a 10 000 e. p., quando localizadas em zonas sensíveis sujeitas a eutrofização ou na respetiva área de influência, devem ser aplicados, simultaneamente, ambos os parâmetros constantes do quadro n.º 2 do anexo I ao presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 77/2021 - Diário da República n.º 167/2021, Série I de 2021-08-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2021-170322929), em vigor a partir de 2021-08-28\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2008 - Diário da República n.º 195/2008, Série I de 2008-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2008-452916), em vigor a partir de 2008-10-13\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 149/2004 - Diário da República n.º 145/2004, Série I-A de 2004-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2004-272036), em vigor a partir de 2004-06-27"
+  }
+ }
+}

@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:138346:por
+title: Despacho Normativo n.º 19/77
+short_title: null
+summary: Estabelece normas tendentes a permitir que o Estado esteja sempre actualizado quanto ao nível das responsabilidades
+  assumidas, quer directa, quer indirectamente, através dos serviços dotados de autonomia administrativa e financeira ou serviços
+  personalizados com expressão no Orçamento Geral do Estado
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças - Gabinete do Ministro
+proposing_entity: null
+official_number: 19/77
+official_date: null
+publication_date: '1977-01-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 23/1977, Série I de 1977-01-28
+  number: '23'
+  series: I
+  supplement: null
+  pages: 154 - 155
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/01/02300/01540155.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '138346'
+  dre_path: /dr/detalhe/despacho-normativo/19-1977-138346
+  internal: pt:dre:138346:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-1977-138346
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/19-1977-138346
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-01-28T00:00:00Z'
+integrity:
+  source_sha256: 7340a40aba555041781dc2c2b7ed7f50d0ad39f663188bd98831f37f58492e64
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-19-138346.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 19/77
+
+Considerando que a necessidade de a todo o tempo o Estado conhecer o nível das responsabilidades assumidas, quer directa, quer indirectamente, através dos serviços dotados de autonomia administrativa e financeira ou serviços personalizados com expressão no Orçamento Geral do Estado;
+
+Considerando que, de acordo com o disposto no artigo 4.º do [Decreto-Lei n.º 159/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/159-1975-161509), de 27 de Março, terá de ser publicada em anexo à Conta Geral do Estado a relação das respectivas responsabilidades apuradas relativamente a 31 de Dezembro de cada ano;
+
+Considerando a competência atribuída à Direcção-Geral do Tesouro por força dos artigos 1.º e 2.º do [Decreto-Lei n.º 564/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/564-1976-430594), de 17 de Julho, e o disposto no artigo 18.º do mesmo diploma:
+
+Determina-se o seguinte:
+
+1. Mensalmente, e no prazo de dez dias a contar do último dia do mês a que respeita, todos os serviços dotados de autonomia administrativa e financeira e os serviços personalizados que tenham expressão no Orçamento Geral do Estado enviarão à Direcção-Geral do Tesouro relação dos avales concedidos durante o mês e posição global, referida ao último dia do mês, das responsabilidades por avales, com indicação das entidades beneficiárias.
+
+2. Até 31 de Janeiro do corrente ano, as entidades referidas no número anterior enviarão à Direcção-Geral do Tesouro relação dos avales concedidos durante o ano de 1975, com indicação das entidades beneficiárias e das responsabilidades apuradas relativamente ao dia 31 de Dezembro daquele ano.
+
+3. A mesma obrigação deverá ser cumprida, em relação aos avales concedidos durante o ano de 1976, até 31 de Março do corrente ano.
+
+Ministério das Finanças, 7 de Janeiro de 1977. - O Ministro das Finanças, Henrique Medina Carreira.

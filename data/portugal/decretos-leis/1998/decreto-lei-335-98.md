@@ -1,0 +1,888 @@
+---
+schema_version: '1.0'
+id: pt:dre:223011:por
+title: Decreto-Lei n.º 335/98
+short_title: null
+summary: Transforma a Administração dos Portos do Douro e Leixões em APDL - Administração dos Portos do Douro e Leixões, S.
+  A., e aprova os respectivos Estatutos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 335/98
+official_date: null
+publication_date: '1998-11-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 254/1998, Série I-A de 1998-11-03
+  number: '254'
+  series: I
+  supplement: null
+  pages: 5729 - 5737
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/11/254a00/57295737.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-08-18'
+version_history:
+  file: decreto-lei-335-98.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-11-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2001-12-25'
+    amending: pt:dre:536639:por
+    amending_title: Decreto-Lei n.º 334/2001
+    changes:
+    - Altera Artigo 9.º
+  - date: '2002-04-01'
+    amending: pt:dre:251873:por
+    amending_title: Decreto-Lei n.º 46/2002
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º
+  - date: '2022-03-05'
+    amending: pt:dre:179993083:por
+    amending_title: Decreto-Lei n.º 24/2022
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+  - date: '2022-08-18'
+    amending: pt:dre:187538043:por
+    amending_title: Decreto-Lei n.º 55/2022
+    changes:
+    - Altera Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/335/1998/p/cons/20220817/pt/html
+  oj: null
+  dre: '223011'
+  dre_path: /dr/detalhe/decreto-lei/335-1998-223011
+  internal: pt:dre:223011:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1998-223011
+  metadata_url: https://data.dre.pt/eli/dec-lei/335/1998/p/cons/20220817/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-179990098
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-179990098
+  retrieved_at: '2026-10-22T12:49:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 3ea28ec04fab6da6272bc48b0302838ef8dc9467f143a5109a32bfdb8b611321
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:49:44Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-335-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção Financeira
+- Administração dos Portos do Douro e Leixões
+- Alienação de Participação Social
+- Assembleia Geral
+- Autonomia Administrativa
+- Autonomia Financeira
+- Sociedade Anónima
+- Capital Social
+- Gestão Financeira
+- Conselho de Administração
+- Definição de Competências
+- Direito Privado
+- Direito Público
+- Propriedade do Estado
+- Estatuto
+- Administração de Portos
+- Fiscalização
+- Gestão do Património
+- Instituto Nacional de Pilotagem dos Portos
+- Instituto Público
+- Integração de Trabalhadores
+- ÁREA de Jurisdição
+- Licenciamento de Obras
+- Obras Públicas
+- RIO Douro
+- Porto de Leixões
+- Porto do Douro
+- Portos
+relationships:
+- type: amended_by
+  target: pt:dre:536639:por
+  label: Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-2001-536639
+  date: '2001-12-24'
+- type: amended_by
+  target: pt:dre:251873:por
+  label: Altera Artigo 3.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2002-251873
+  date: '2002-03-02'
+- type: amended_by
+  target: pt:dre:67250267:por
+  label: Altera Artigo 3.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267
+  date: '2015-05-21'
+- type: amended_by
+  target: pt:dre:179993083:por
+  label: Altera Artigo 3.º; Altera Artigo 7.º; Altera Artigo 10.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083
+  date: '2022-03-04'
+- type: amended_by
+  target: pt:dre:187538043:por
+  label: Altera Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2022-187538043
+  date: '2022-08-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/138/1997/06/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138/1997/06/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/316/1991/08/20/p/dre
+article_structure:
+  article_count: 46
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:49:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 335/98
+
+Decreto-Lei n.º 335/98
+
+de 3 de Novembro
+
+O actual modelo orgânico das administrações portuárias, onde se inclui a Administração dos Portos do Douro e Leixões, assente na figura do instituto público, tem-se revelado limitativo e frequentemente incompatível com a gestão de natureza empresarial baseada em pressupostos de eficácia, racionalidade e competitividade que se pretende ver prosseguida nos portos portugueses.
+
+De facto, muitas das limitações e constrangimentos que, progressivamente, vêm reduzindo autonomias e limitando competências a nível daqueles organismos não advêm exclusivamente dos respectivos estatutos orgânicos, mas, sobretudo, de legislação posterior que, embora não direccionada especificamente para este sector de actividade, não deixa contudo de lhe ser aplicável, atenta a referida natureza de instituto público, sem, no entanto, tomar em linha de conta as especificidades do sector portuário e, designadamente, aquela vertente empresarial que deverá caracterizar a respectiva gestão.
+
+Daí que o proposto e inadiável objectivo de se conferir às administrações portuárias instrumentos adequados a uma gestão mais dinâmica e flexibilizada, suportada em mais elevados níveis de autonomia e atribuição de competências, só possa ser globalmente atingido se se avançar com a própria alteração do actual modelo estatutário para o de uma figura jurídica mais consentânea com esse mesmo objectivo, no caso, sociedade anónima de capitais exclusivamente públicos.
+
+A reformulação dos instrumentos e modelos de gestão do sector portuário insere-se no âmbito da reforma sectorial preconizada no Livro Branco da Política Marítimo-Portuária, cujo quadro de acção nele definido foi aprovado pelo Governo através de resolução do Conselho de Ministros.
+
+Assim, o modelo proposto, conjugando a adopção de uma forma jurídica de direito privado com o seu enquadramento no sector público, face à detenção pelo Estado ou outras pessoas colectivas públicas da totalidade do capital, é o que melhor corresponde à diversidade de atribuições que caracteriza o escopo da Administração dos Portos do Douro e Leixões e no qual se conjugam e desenvolvem, em simultâneo, actividades de prestação de serviço de natureza puramente empresarial com o exercício de poderes decorrentes do seu estatuto de autoridade portuária.
+
+De resto, a presente alteração orgânica, no que se refere à Administração dos Portos do Douro e Leixões, materializa um dos objectivos definidos pelo Programa do Governo na área do transporte marítimo, numa perspectiva de reestruturação do enquadramento institucional e legislativo do sector marítimo-portuário e a evolução do modelo de gestão portuária num sentido empresarial fortemente estratégico.
+
+Foram ouvidos os organismos representativos dos trabalhadores.
+
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+1 - A Administração dos Portos do Douro e Leixões, instituto público dotado de personalidade jurídica de direito público e de autonomia administrativa, financeira e patrimonial, cujo estatuto orgânico foi aprovado pelo Decreto-Lei n.º 308/87, de 7 de Agosto, é transformada pelo presente diploma em sociedade anónima de capitais exclusivamente públicos, passando a denominar-se APDL - Administração dos Portos do Douro e Leixões, S. A., abreviadamente designada por APDL, S. A.
+
+2 - A sociedade referida no número anterior passa a ter a designação de APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A., em resultado do processo de fusão, por incorporação, da APVC - Administração do Porto de Viana do Castelo, S. A., ocorrido, nos termos do Código das Sociedades Comerciais, em 1 de janeiro de 2015.
+
+3 - A APDL, S. A., rege-se pelo presente diploma e pelos seus Estatutos, publicados em anexo ao presente diploma, do qual fazem parte integrante, e, em tudo que neles não estiver previsto, pelas normas aplicáveis às sociedades anónimas e pelas normas especiais cuja aplicação decorra do objecto da sociedade.
+
+4 - A actuação da APDL, S. A., no uso dos poderes de autoridade referidos no presente diploma, rege-se por normas de direito público.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 2.º
+
+1 - A APDL, S. A., sucede automática e globalmente à Administração dos Portos do Douro e Leixões e continua a personalidade jurídica desta, conservando a universalidade dos bens, direitos e obrigações integrantes da sua esfera jurídica no momento da transformação.
+
+2 - Mantêm-se integrados no domínio público do Estado afecto à APDL, S. A., os terrenos do domínio público marítimo situados dentro da área de jurisdição da Administração dos Portos do Douro e Leixões, bem como os bens afectos à actividade da pesca, serviços de primeira venda de pescado e actividades conexas.
+
+3 - São desafectados do domínio público do Estado e integrados no património da APDL, S. A., todos os terrenos a norte e a sul do porto de Leixões delimitados pelos contornos e linhas definidos pelos pontos com as seguintes coordenadas rectangulares:
+
+a) Lado norte:
+
+Ramo nascente do nó norte da estrada nacional n.º 107;
+
+Ponto A (-46334,0) e (+170031,5);
+
+Ponto B (-46027,0) e (+170463,0);
+
+Ponto C (-45784,0) e (+170500,0);
+
+Ponto 10 (-45948,0) e (+170345,0);
+
+Alinhamento com a área de jurisdição (pontos 11, 12 e 13);
+
+b) Lado sul e com excepção da área de 19770 m2 propriedade da CEPSA - Companhia Portuguesa de Petróleos, Lda., onde esta Companhia tem as suas instalações:
+
+Avenida do Engenheiro Duarte Pacheco entre os pontos:
+
+D (-46352,0) e (+168946,0); e
+
+E (-46008,0) e (+169219,0);
+
+Ramo poente do nó sul da estrada nacional n.º 107 entre os pontos:
+
+E;
+
+F (-45844,5) e (+169292,0);
+
+G (-45700,0) e (+169125,0); e
+
+H (-45469,0) e (+169056,0);
+
+Estrada nacional n.º 208 entre os pontos:
+
+H (-45469,0) e (+169056,0);
+
+I (-45539,0) e (+168816,5);
+
+J (-45678,0) e (+168957,0);
+
+K (-45853,0) e (+169010,0);
+
+L (-46036,0) e (+169007,0);
+
+M (-46135,0) e (+168952,0);
+
+N (-46306,0) e (+168812,0);
+
+Nó da Avenida de D. Afonso Henriques e acesso à Avenida do Engenheiro Duarte Pacheco.
+
+4 - Constituem igualmente património da APDL, S. A., todos os imóveis edificados pela Administração dos Portos do Douro e Leixões ou na sua posse, ainda que sem descrição ou inscrição, predial ou matricial, e, bem assim, os por ela adquiridos, por título bastante, mesmo que registados a favor do Estado.
+
+5 - A APDL, S. A., sucede ainda na titularidade de todos os bens, direitos e obrigações do Departamento de Pilotagem do Douro e Leixões do Instituto Nacional de Pilotagem dos Portos (INPP).
+
+6 - Passam igualmente a constituir património da APDL, S. A., os imóveis do INPP afectos ao Departamento de Pilotagem do Douro e Leixões.
+
+7 - O presente diploma é título bastante para a comprovação do estabelecido nos números anteriores, para todos os efeitos legais, incluindo os de registo, devendo quaisquer actos necessários à regularização da situação ser realizados pelas repartições competentes, com isenção de quaisquer taxas ou emolumentos, mediante simples comunicação subscrita por dois membros do conselho de administração da APDL, S. A.
+
+###### Artigo 3.º
+
+1 - A APDL, S. A., assegura o exercício das competências necessárias ao regular funcionamento dos portos do Douro, Leixões e de Viana do Castelo e da via navegável do rio Douro, nos seus múltiplos aspetos de ordem económica, financeira e patrimonial, de gestão de efetivos e de exploração portuária e ainda as atividades que lhe sejam complementares, subsidiárias ou acessórias, bem como o exercício de competências e prerrogativas de autoridade portuária que lhe estejam ou venham a ser cometidas.
+
+2 - A APDL, S. A., assegura ainda o exercício das competências de gestão de infraestruturas ferroviárias que lhe sejam afetas.
+
+3 - No âmbito das atribuições a que se refere o número anterior, são conferidas à APDL, S. A., competências para:
+
+a) Atribuição de usos privativos e definição do respectivo interesse público para efeitos de concessão, relativamente aos bens do domínio público que lhe está afecto, bem como à prática de todos os actos respeitantes à execução, modificação e extinção da licença ou concessão;
+
+b) Licenciamento de actividades portuárias de exercício condicionado e concessão de serviços públicos portuários, podendo praticar todos os actos necessários à atribuição, execução, modificação e extinção da licença ou concessão, nos termos da legislação aplicável;
+
+c) Extração de inertes, enquanto medida necessária à criação ou à manutenção de condições de navegação em segurança e operacionalidade a executar nos termos do disposto na Lei n.º 58/2005, de 29 de dezembro, alterada pelos Decretos-Leis n.os 245/2009, de 22 de setembro, 60/2012, de 14 de março, e 130/2012, de 22 de junho, e demais legislação complementar;
+
+d) Expropriação por utilidade pública, ocupação de terrenos, implantação de traçados e exercício de servidões administrativas necessárias à expansão ou desenvolvimento portuários ou ferroviários, nos termos legais;
+
+e) Fixação das taxas e tarifas a cobrar pela utilização dos portos, da via navegável do rio Douro e das infraestruturas ferroviárias sob sua gestão, bem como dos serviços neles prestados, e pela ocupação de espaços dominiais ou destinados a atividades comerciais ou industriais;
+
+f) Protecção das suas instalações e do seu pessoal;
+
+g) Uso público dos serviços inerentes à atividade portuária, à navegabilidade no rio Douro e ao acesso e utilização das infraestruturas ferroviárias sob sua gestão, e sua fiscalização;
+
+h) Exercer os poderes de autoridade do Estado quanto à liquidação e cobrança, voluntária e coerciva, de taxas que lhe sejam devidas nos termos da lei, bem como dos rendimentos provenientes da sua atividade, sendo os créditos correspondentes equiparados aos créditos do Estado e constituindo título executivo as faturas, certidões de dívida ou títulos equivalentes;
+
+i) A execução coerciva das demais decisões de autoridade;
+
+j) Assunção da responsabilidade em matéria de segurança marítima e portuária na sua área de jurisdição, definindo as condições de segurança de funcionamento dos portos e da via navegável do rio Douro, em todas as suas vertentes, tendo em atenção a necessidade de garantir, de forma adequada, a sua exploração comercial.
+
+k) Zelar pela manutenção permanente das condições de infraestruturação e conservação e pela segurança da circulação ferroviária das infraestruturas ferroviárias sob sua gestão;
+
+l) Licenciamento e concessão, nos termos da legislação aplicável, da exploração, da utilização, da ocupação ou do exercício de quaisquer atividades nos terrenos, edificações e outras infraestruturas do domínio público ferroviário sob sua gestão;
+
+m) Intimações, embargo administrativo e demolição de construções e edificações efetuadas em domínio público ferroviário sob sua gestão, em zonas non aedificandi e em zonas de proteção estabelecidas por lei, bem como determinação da remoção de outras situações suscetíveis de violar estas zonas, e reposição do estado do terreno ou imóvel existente antes desta situação;
+
+n) Ocupação temporária e atravessamento de terrenos confinantes e vizinhos de bens de domínio público ferroviário sob sua gestão, bem como desvio de linhas de águas, mediante autorização concedida pela autoridade competente, para efeitos de realização de estudos, obras ou trabalhos preparatórios de construção, renovação, conservação e consolidação das vias ferroviárias ou de outros elementos das respetivas infraestruturas sob sua gestão, em que não se justifique a respetiva expropriação.
+
+4 - No exercício das competências referidas no número anterior, o pessoal da APDL, S. A., pode:
+
+a) Solicitar o auxílio das autoridades administrativas e policiais, quando for necessário para o desempenho das suas funções;
+
+b) Usar armas para defesa própria, dos objectos de serviço e das instalações ou valores à sua guarda, quando devidamente autorizado, nos termos gerais.
+
+5 - A livre entrada a bordo dos navios fundeados nos portos do Douro, Leixões e Viana do Castelo ou na via navegável do rio Douro ou atracados aos respetivos cais é sempre facultada aos funcionários da APDL, S. A., encarregados da fiscalização de serviços portuários que disso tenham necessidade, mediante a apresentação de documento de identificação emitido pela APDL, S. A., acreditando-os para aquela missão.
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 24/2022 - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083), em vigor a partir de 2022-03-05
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 46/2002 - Diário da República n.º 52/2002, Série I-A de 2002-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2002-251873), em vigor a partir de 2002-04-01
+
+###### Artigo 4.º
+
+1 - Na sua área de jurisdição só a APDL, S. A., pode conceder licenças para a execução de obras directamente relacionadas com a sua actividade e cobrar as taxas inerentes às mesmas.
+
+2 - O disposto no número anterior não dispensa o parecer da câmara municipal respectiva relativamente à concessão de licenças para execução de obras, nos termos da legislação aplicável.
+
+3 - Na organização dos processos de obras ou ao conceder outras autorizações ou licenciamentos na sua área de jurisdição, a APDL, S. A., levará em conta os interesses das autoridades aduaneira e marítima e as prescrições que na matéria regulam o exercício da função dessas autoridades.
+
+###### Artigo 5.º
+
+Nos terrenos situados dentro da sua área de jurisdição, as obras a que se refere o artigo anterior só poderão ser embargadas ou suspensas pela APDL, S. A., quando estiverem a ser executadas sem licença ou se se verificar violação das condições da licença concedida, sem prejuízo do disposto em legislação especial.
+
+###### Artigo 6.º
+
+1 - Quando da utilização dos edifícios ou de instalações a licenciar possa resultar poluição de qualquer natureza, a APDL, S. A., obterá prévio parecer das entidades responsáveis pela protecção do ambiente.
+
+2 - Na área de jurisdição da APDL, S. A., é proibido o lançamento de águas residuais, industriais ou de uso doméstico que não cumpram a legislação em vigor.
+
+3 - A construção e conservação de colectores de esgoto através da área de jurisdição da APDL, S. A., constituirão encargos dos serviços do Estado, dos municípios ou dos particulares a quem interessem.
+
+###### Artigo 7.º
+
+1 - A APDL, S. A., prosseguirá o seu objecto e atribuições, no âmbito da área de jurisdição da Administração dos Portos do Douro e Leixões, até à sua redefinição, cuja concretização geográfica enquadra a faixa marginal do domínio público marítimo desde o enfiamento do eixo da Rua da Bélgica, na praia de Lavadores, até ao paralelo do farol da Boa Nova, ao norte do porto de Leixões, compreendendo ainda as duas zonas seguintes:
+
+a) Zona do porto do Douro, que inclui todo o estuário do rio Douro desde 200 m a montante da Ponte de D. Luís I até à Foz, com todas as suas margens, ancoradouros, cais, docas e terraplenos existentes ou que venham a ser construídos, sem prejuízo do disposto na alínea a) do artigo 3.º do Decreto-Lei n.º 138/97, de 3 de Junho;
+
+b) Zona do porto de Leixões, que abrange os quebra-mares, a área molhada por eles circunscrita e das docas existentes ou a construir, o curso do rio Leça até à antiga ponte dos moinhos de Guifões e a área terrestre delimitada pelo domínio público marítimo e pela linha definida pelos pontos com as seguintes coordenadas rectangulares:
+
+Ponto P (-46279,0) e (+169064,0), que delimita o domínio público marítimo;
+
+Ponto 1 (-46258,0) e (+169068,0);
+
+Ponto 2 (-46258,5) e (+169102,0);
+
+Ponto 3 (-46398,5) e (+169012,5);
+
+Ponto 4 (-46419,5) e (+169038,5);
+
+Ponto 5 (-46033,5) e (+169361,5);
+
+Ponto 6 (-46054,0) e (+169388,0);
+
+Ponto 7 (-45998,0) e (+169662,0);
+
+Ponto 8 (-45995,5) e (+169913,0);
+
+Ponto 9 (-45800,0) e (+170257,0);
+
+Ponto 10 (-45948,0) e (+170345,0);
+
+Ponto 11 (-45984,0) e (+170298,5):
+
+Ponto 12 (-46083,0) e (+170056,0);
+
+Ponto 13 (-46197,5) e (+169844,0);
+
+Ponto Q (-46624,0) e (+169518,0), que delimita o domínio público marítimo.
+
+2 - A redefinição da área de jurisdição da Administração dos Portos do Douro e Leixões será efectuada em articulação entre os Ministérios do Equipamento, do Planeamento e da Administração do Território, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, precedendo obrigatoriamente a avaliação a que se refere o artigo 10.º do presente diploma.
+
+3 - As atribuições referentes à gestão de água, incluindo a supervisão da sua qualidade dentro da área de jurisdição da APDL, S. A., competem ao Instituto da Água e à Direcção Regional do Ambiente - Norte.
+
+4 - A APDL, S. A., prossegue o seu objeto e as suas atribuições, igualmente, nas áreas de jurisdição identificadas no artigo 5.º do Decreto-Lei n.º 83/2015, de 21 de maio, no artigo 3.º do Decreto-Lei n.º 24/2022, de 4 de março, e no artigo 3.º do Decreto-Lei n.º 55/2022, de 17 de agosto.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 55/2022 - Diário da República n.º 158/2022, Série I de 2022-08-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/55-2022-187538043), em vigor a partir de 2022-08-18
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 24/2022 - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083), em vigor a partir de 2022-03-05
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 8.º
+
+A redefinição da área de jurisdição da APDL, S. A., referida no artigo anterior será efectuada tendo em conta a avaliação dos critérios e mecanismos que permitam ajustar as competências e as contrapartidas dos sectores envolvidos.
+
+###### Artigo 9.º
+
+1 - A APDL, S. A., terá inicialmente um capital social de 4181000000$00, integralmente subscrito e realizado pelo Estado à data da entrada em vigor do presente diploma.
+
+2 - As acções representativas do capital subscrito pelo Estado serão detidas pela Direcção-Geral do Tesouro, sem prejuízo de a sua gestão poder ser cometida a uma pessoa colectiva de direito público ou a outra entidade que, por imposição legal, pertença ao sector público.
+
+3 - Os direitos do Estado, como accionista da APDL, S. A., serão exercidos por um representante designado por despacho conjunto dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, salvo quando a gestão das acções tenha sido cometida a outra entidade nos termos do número anterior.
+
+###### Artigo 10.º
+
+1 - Sem prejuízo do disposto no Código das Sociedades Comerciais, o valor do capital social será alterado, sem outra formalidade para além do registo de alteração, em função do resultado quer da avaliação a efectuar nos termos dos números seguintes quer do efeito da resolução dos aspectos identificados em relatório a elaborar pela Inspecção-Geral de Finanças sobre as demonstrações financeiras do exercício de 1997 da Administração dos Portos do Douro e Leixões.
+
+2 - Para efeitos do disposto no número anterior, o conselho de administração promoverá a avaliação do património da Administração dos Portos do Douro e Leixões, a qual deverá estar concluída no prazo de 180 dias após a data de entrada em vigor do presente diploma, salvo prorrogação que o Ministro das Finanças considere justificada.
+
+3 - A avaliação será feita por entidade designada pelos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território, ficando o resultado dessa avaliação sujeito a aprovação desses Ministros.
+
+###### Artigo 11.º
+
+A APDL, S. A., só pode participar na constituição e adquirir participações em sociedades de qualquer natureza e objecto, agrupamentos complementares de empresas e agrupamentos de empresas de interesse económico mediante resolução do Conselho de Ministros.
+
+###### Artigo 12.º
+
+1 - Revogado;
+
+2 - Revogado;
+
+3 - Revogado.
+
+> Alterado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267)
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 46/2002 - Diário da República n.º 52/2002, Série I-A de 2002-03-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-2002-251873), em vigor a partir de 2002-04-01
+
+###### Artigo 13.º
+
+1 - Sem prejuízo do disposto na lei comercial quanto à prestação de informação aos accionistas, o conselho de administração enviará aos Ministros das Finanças e do Equipamento, do Planeamento da Administração do Território, pelo menos 30 dias antes da data da assembleia geral anual:
+
+a) O relatório de gestão e as contas do exercício;
+
+b) Quaisquer elementos adequados à compreensão integral da situação económica e financeira da empresa, eficiência da gestão e perspectivas da sua evolução.
+
+2 - O fiscal único enviará trimestralmente aos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território um relatório sucinto em que se refiram os controlos efectuados, as anomalias detectadas e os principais desvios em relação às previsões.
+
+###### Artigo 14.º
+
+1 - A primeira assembleia geral da APDL, S. A., reunirá até 30 dias após a data de entrada em vigor do presente diploma, com o objectivo de eleger os titulares dos órgãos sociais e nomear a comissão de vencimentos.
+
+2 - Os actuais membros do conselho de administração e o revisor oficial de contas da comissão de fiscalização da Administração dos Portos do Douro e Leixões mantêm-se, transitoriamente, investidos nas competências atribuídas até à data da eleição dos titulares dos órgãos sociais da APDL, S. A.
+
+###### Artigo 15.º
+
+1 - Os trabalhadores do quadro de pessoal da Administração dos Portos do Douro e Leixões com contrato administrativo de provimento por tempo indeterminado ou com vínculo à Administração Pública nos termos do artigo 73.º do Decreto-Lei n.º 101/88, de 26 de Março, são integrados automaticamente na APDL, S. A., mantendo a mesma situação jurídico-profissional, designadamente quanto à natureza do vínculo e regime de aposentação.
+
+2 - Os trabalhadores da Administração dos Portos do Douro e Leixões não abrangidos pelo disposto no número anterior transitam para a APDL, S. A., mantendo a mesma situação jurídico-profissional.
+
+3 - Aos trabalhadores da Administração dos Portos do Douro e Leixões que, independentemente da natureza do vínculo, estejam providos em cargos de direcção e chefia é mantida a respectiva comissão de serviço.
+
+4 - Os trabalhadores do quadro do Departamento de Pilotagem do Douro e Leixões do INPP são integrados automaticamente na APDL, S. A., mantendo a mesma situação jurídico-profissional, designadamente quanto à natureza do vínculo e regime de aposentação e de segurança social.
+
+5 - Os trabalhadores do Departamento de Pilotagem do Douro e Leixões do INPP não abrangidos pelo disposto no número anterior transitam para a APDL, S. A., mantendo a mesma situação jurídico-profissional.
+
+6 - A integração dos trabalhadores referidos nos n.os 4 e 5 anteriores não prejudica a autonomia técnica inerente ao exercício do serviço de pilotagem.
+
+###### Artigo 16.º
+
+A APDL, S. A., fica obrigada a contribuir para a manutenção do fundo de aposentações do INPP, criado pelo Decreto-Lei n.º 188/89, de 3 de Junho, nos termos a fixar por despacho do Ministro do Equipamento, do Planeamento e da Administração do Território.
+
+###### Artigo 17.º
+
+1 - Os funcionários do Estado, de autarquias locais, de institutos públicos, de empresas públicas ou de sociedades anónimas de capitais públicos podem ser autorizados a exercer funções na APDL, S. A., em regime de requisição, conservando todos os direitos e regalias inerentes ao seu quadro de origem.
+
+2 - Os trabalhadores da APDL, S. A., que sejam chamados a ocupar cargos nos órgãos sociais ou que sejam requisitados para exercer funções em empresas ou serviços públicos em nada serão prejudicados por esse facto, regressando aos seus lugares logo que termine o mandato ou requisição.
+
+###### Artigo 18.º
+
+A APDL, S. A., manterá, em relação aos actuais beneficiários, as obras de carácter social e cultural já instituídas.
+
+###### Artigo 19.º
+
+1 - Os trabalhadores da Administração dos Portos do Douro e Leixões e do Departamento de Pilotagem do Douro e Leixões do INPP que, nos termos do disposto no artigo 15.º do presente diploma, forem integrados ou transitarem para a APDL, S. A., mantêm a qualidade de subscritores da Caixa Geral de Aposentações, continuando a efectuar os respectivos descontos nos termos legais.
+
+2 - Os subscritores da Caixa Geral de Aposentações que, com prejuízo do exercício do seu cargo de origem, venham a exercer funções na APDL, S. A., mantêm a qualidade de subscritor, efectuando os respectivos descontos sobre a remuneração correspondente ao cargo de origem.
+
+###### Artigo 20.º
+
+Relativamente aos trabalhadores abrangidos pelo regime de protecção social da função pública, a APDL, S. A., contribuirá para o financiamento da Caixa Geral de Aposentações com uma importância mensal de montante igual ao das quotas pagas por esses trabalhadores.
+
+###### Artigo 21.º
+
+1 - Até à aplicação de regulamentação constante de diploma legal ou instrumento de regulamentação colectiva de trabalho, continuará a aplicar-se aos trabalhadores da APDL, S. A., provenientes da Administração dos Portos do Douro e Leixões, com as necessárias adaptações, o regime jurídico constante do Estatuto do Pessoal das Administrações dos Portos, aprovado pelo Decreto-Lei n.º 101/88, de 26 de Março, com as alterações introduzidas pelo Decreto-Lei n.º 316/91, de 20 de Agosto, e demais legislação complementar.
+
+2 - Até à aplicação da regulamentação referida no número anterior, continuará a aplicar-se aos trabalhadores da APDL, S. A., provenientes do INPP, com as necessárias adaptações, o regime jurídico de pessoal constante do Decreto-Lei n.º 361/78, de 27 de Novembro, e demais legislação complementar.
+
+###### Artigo 22.º
+
+Mantêm a sua validade as normas e regulamentos em vigor no âmbito da Administração dos Portos do Douro e Leixões e do INPP, em tudo quanto não contrarie o presente diploma e os Estatutos anexos.
+
+###### Artigo 23.º
+
+São revogados o artigo 14.º do Decreto-Lei n.º 348/86, de 16 de Outubro, e o Decreto-Lei n.º 308/87, de 7 de Agosto.
+
+###### Artigo 24.º
+
+1 - São aprovados os estatutos da APDL, S. A., constantes do anexo ao presente diploma e que dele fazem parte integrante.
+
+2 - A transformação operada pelo artigo 1.º bem como os Estatutos agora aprovados produzem efeitos relativamente a terceiros, independentemente de registo, que, no entanto, deve ser efectuado a requerimento, sem taxas ou emolumentos, nos 90 dias seguintes à data da entrada em vigor do presente diploma.
+
+3 - Sem prejuízo do disposto no artigo 10.º, as eventuais alterações aos Estatutos aprovados pelo presente diploma produzirão todos os seus efeitos desde que deliberadas nos termos neles previstos e com observância das disposições aplicáveis da lei comercial e do presente diploma, sendo bastante a sua redução a escritura pública e subsequente registo.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 25.º
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 23 de Julho de 1998. - Jaime José Matos da Gama - José Veiga Simão - Fernando Teixeira dos Santos - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho - Luís Manuel Capoulas Santos - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 1 de Outubro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 16 de Outubro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — ESTATUTOS DA APDL - ADMINISTRAÇÃO DOS PORTOS DO DOURO, LEIXÕES E VIANA DO CASTELO, S. A.
+
+> Alterado pelo/a Anexo V do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+### Capítulo I — Denominação, duração, sede e objecto
+
+###### Artigo 1.º — Denominação e duração
+
+1 - A sociedade adota a forma de sociedade anónima de capitais exclusivamente públicos e a denominação de APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo, S. A., abreviadamente designada por APDL, S. A.
+
+2 - A sociedade tem duração ilimitada.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 2.º — Sede
+
+1 - A sociedade tem sede na Avenida da Liberdade, em Leça da Palmeira, Matosinhos.
+
+2 - Por deliberação do conselho de administração, a sociedade pode mudar a sua sede e, ainda, estabelecer ou encerrar as formas de representação que considere necessárias à prossecução dos seus fins estatutários em qualquer ponto do território nacional ou no estrangeiro.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 3.º — Objeto
+
+1 - A APDL, S. A., tem por objeto a administração dos portos do Douro, Leixões e Viana do Castelo e da via navegável do rio Douro, visando a sua exploração económica, conservação e desenvolvimento, abrangendo o exercício das competências e prerrogativas de autoridade portuária que lhe estejam ou venham a ser cometidas.
+
+2 - A APDL, S. A., pode ainda desenvolver atividades acessórias ou complementares das referidas no número anterior, designadamente a administração ou exploração da rede logística de plataformas, de portos secos, de terminais rodoferroviários intermodais e dos serviços e infraestruturas conexos sob sua gestão, situados dentro ou fora da sua área de jurisdição.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 24/2022 - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083), em vigor a partir de 2022-03-05
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+### Capítulo II — Capital social, ações e obrigações
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 4.º — Capital social
+
+1 - O capital social, integralmente subscrito e realizado, é de (euro) 51 035 000 e encontra-se dividido em 10 207 000 ações, de valor nominal de (euro) 5 cada uma.
+
+2 - As ações são nominativas e revestem a forma escritural.
+
+3 - As ações representativas do capital social devem pertencer exclusivamente ao Estado, a pessoas coletivas de direito público, a empresas públicas ou a sociedades de capitais exclusivamente públicos.
+
+4 - Os aumentos de capital social são sempre deliberados pela assembleia geral, sem prejuízo do disposto no número anterior.
+
+5 - A sociedade pode emitir, tanto no mercado interno como no mercado externo de capitais, obrigações e outros títulos de dívida, nos termos da legislação em vigor.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+### Capítulo III — Órgãos sociais
+
+#### Secção I — Disposição geral
+
+###### Artigo 5.º — Órgãos sociais
+
+1 - A sociedade tem como órgãos sociais a assembleia geral, o conselho de administração, o conselho fiscal e o revisor oficial de contas ou sociedade de revisores oficiais de contas, com as competências fixadas na lei e nos presentes estatutos.
+
+2 - Os membros dos órgãos sociais consideram-se investidos logo que tenham sido eleitos e permanecem no exercício das suas funções até à designação de quem os deva substituir.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+#### Secção II — Assembleia geral
+
+###### Artigo 6.º — Participação na assembleia geral
+
+1 - A assembleia geral é composta pelos acionistas com direito a voto.
+
+2 - A cada 100 ações corresponde um voto, podendo os acionistas possuidores de um número inferior de ações agrupar-se de forma a, em conjunto e fazendo-se representar por um dos agrupados, reunirem as condições necessárias ao exercício do direito de voto.
+
+3 - O Estado é representado na assembleia geral pela pessoa que for designada mediante despacho dos membros do Governo responsáveis pelas áreas das finanças e pelo setor de atividade.
+
+4 - Os acionistas que sejam pessoas coletivas indicam, por carta dirigida ao presidente da mesa, quem os representam na assembleia geral.
+
+5 - Nenhum acionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral.
+
+6 - Os membros do conselho de administração e do conselho fiscal devem estar presentes nas reuniões da assembleia geral e podem participar nos trabalhos, devendo o revisor oficial de contas ou sociedade de revisores oficiais de contas que tenham examinado as contas estar presentes na assembleia geral anual, mas não têm, nessa qualidade, direito a voto.
+
+7 - Não é permitido o voto por correspondência.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 7.º — Reuniões e deliberações da assembleia geral
+
+1 - A assembleia geral reúne uma vez por ano para apreciação dos documentos de prestação de contas e relatórios e pareceres anexos, quando a sua convocação for requerida por acionista ou acionistas que possuam ações correspondentes a, pelo menos, 5 % do capital social e sempre que o conselho de administração ou o conselho fiscal o julgarem necessário.
+
+2 - A mesa da assembleia geral é constituída por um presidente e por um secretário, eleitos em assembleia geral por um período de três anos.
+
+3 - A convocação da assembleia geral faz-se com uma antecedência mínima de 30 dias, por carta registada, com indicação expressa dos assuntos a tratar.
+
+4 - A assembleia geral para eleição dos membros dos órgãos sociais não pode deliberar sem que estejam presentes ou representados acionistas cujas ações representem, pelo menos, 51 % do capital social.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 8.º — Competências da assembleia geral
+
+1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei ou os presentes estatutos lhe atribuam competência.
+
+2 - Compete, em especial, à assembleia geral:
+
+a) Deliberar sobre o relatório de gestão e as contas do exercício, bem como sobre a proposta de aplicação de resultados, e proceder à apreciação geral da administração e fiscalização da sociedade;
+
+b) Aprovar os planos anuais e plurianuais de obras marítimas, fluviais e terrestres e de equipamento dos portos sob jurisdição da APDL, S. A., e da via navegável do rio Douro;
+
+c) Aprovar o orçamento de exploração e de investimentos anual;
+
+d) Eleger e destituir os membros da mesa da assembleia geral, do conselho de administração e do conselho fiscal, o revisor oficial de contas ou a sociedade de revisores oficiais de contas;
+
+e) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;
+
+f) Deliberar sobre as remunerações dos membros dos órgãos sociais, podendo, para o efeito, designar uma comissão de fixação de remunerações;
+
+g) Autorizar a aquisição e alienação de imóveis e a realização de investimentos, quando o respetivo valor exceda o correspondente a 10 % do capital social;
+
+h) Deliberar sobre a emissão de obrigações ou outros títulos de dívida;
+
+i) Deliberar sobre a emissão ou conversão de ações ou outros títulos em forma meramente escritural.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+#### Secção III — Conselho de administração
+
+###### Artigo 9.º — Composição do conselho de administração
+
+1 - O conselho de administração é composto por um presidente e até três vogais, sendo um destes designado ou proposto pelo membro do Governo responsável pela área das finanças, que deve aprovar expressamente qualquer matéria cujo impacto financeiro na empresa seja superior a 1 % do ativo líquido.
+
+2 - O mandato dos membros do conselho de administração tem a duração de três anos, podendo ser renovado até ao máximo de três renovações consecutivas.
+
+3 - Nas suas faltas ou impedimentos, o presidente do conselho de administração é substituído pelo vogal por si designado para o efeito.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 334/2001 - Diário da República n.º 296/2001, Série I-A de 2001-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/334-2001-536639), em vigor a partir de 2001-12-25
+
+###### Artigo 10.º — Competência do conselho de administração
+
+O conselho de administração gere os negócios sociais e pratica todos os atos e operações relativos ao objeto social que não caibam na competência atribuída a outros órgãos sociais, competindo-lhe:
+
+a) Elaborar os planos anuais e plurianuais de obras marítimas, fluviais e terrestres e do equipamento dos portos sob jurisdição da APDL, S. A., e da via navegável do rio Douro, bem como um programa de atividades das infraestruturas ferroviárias sob sua gestão, que inclua planos de investimento e de financiamento, a submeter à aprovação da assembleia geral;
+
+b) Construir, adquirir, conservar e fiscalizar as obras marítimas, fluviais e terrestres, o equipamento flutuante e terrestre dos portos sob jurisdição da APDL, S. A., e da via navegável do rio Douro, bem como conservar os fundos e seus acessos;
+
+c) Assegurar a manutenção permanente das condições de infraestruturação e conservação e a segurança da circulação ferroviária das infraestruturas ferroviárias sob gestão da APDL, S. A.;
+
+d) Elaborar os regulamentos necessários à exploração dos portos sob jurisdição da APDL, S. A., e da via navegável do rio Douro;
+
+e) Exercer ou autorizar e regulamentar as atividades portuárias sob jurisdição da APDL, S. A., e as relativas à gestão da navegabilidade do rio Douro, ou as atividades com estas diretamente relacionadas, respeitantes a movimento de navios e de mercadorias, a armazenagem e outras prestações de serviços, como fornecimento de água, energia elétrica e outras formas de energia, combustíveis e aluguer de equipamentos, e aplicar as sanções previstas na lei, sem prejuízo da competência conferida a outras entidades;
+
+f) Operar, ou autorizar, as atividades ferroviárias nas infraestruturas ferroviárias de que a APDL, S. A., é gestora;
+
+g) Elaborar o orçamento e suas alterações;
+
+h) Elaborar e submeter à aprovação da assembleia geral o relatório de gestão e as contas do exercício, bem como a proposta de aplicação de resultados;
+
+i) Definir a estrutura e a organização geral da APDL, S. A.;
+
+j) Nomear e exonerar os responsáveis pelos serviços, bem como admitir, contratar e exonerar o pessoal necessário ao desempenho das atribuições a cargo da APDL, S. A., e exercer sobre ele o respetivo poder disciplinar, nos termos legais e regulamentares aplicáveis;
+
+k) Deliberar sobre a realização de empréstimos ou outras operações financeiras;
+
+l) Autorizar a concessão de subsídios a organismos oficiais ou privados cujas atividades interessam, direta ou indiretamente, à ação da APDL, S. A., bem como a obras de carácter social e cultural;
+
+m) Administrar o domínio público na sua área de jurisdição, atribuir licenças e concessões para a sua utilização e definir o interesse público do respetivo uso privativo para efeitos de concessão;
+
+n) Atribuir a concessão da exploração de instalações portuárias, de serviços ou de atividades a ela ligadas, bem como de áreas destinadas a instalações industriais ou comerciais correlacionadas com aquelas atividades;
+
+o) Atribuir licenças ou concessões, nos termos da legislação aplicável, da exploração, da utilização, da ocupação ou do exercício de quaisquer atividades nos terrenos, edificações e outras infraestruturas do domínio público ferroviário sob sua gestão;
+
+p) Solicitar aos utilizadores dos portos sob jurisdição da APDL, S. A., e da via navegável do rio Douro os elementos estatísticos, dados ou previsões referentes às atividades exercidas na área de jurisdição, cujo conhecimento interessa para a avaliação ou determinação do movimento geral dos portos e daquela via ou para qualquer outro fim estatístico relacionado com a atividade da APDL, S. A.;
+
+q) Garantir a segurança das instalações portuárias sob jurisdição da APDL, S. A., e da via navegável do rio Douro, promovendo a regulamentação necessária e utilizando os meios e dispositivos adequados;
+
+r) Garantir a segurança das instalações portuárias e das infraestruturas ferroviárias sob gestão da APDL, S. A., e da via navegável do rio Douro, promovendo a regulamentação necessária e utilizando os meios e dispositivos adequados;
+
+s) Elaborar um plano de emergência que inclua uma lista dos diversos organismos a informar em caso de incidentes graves ou de perturbações graves da circulação ferroviária;
+
+t) Efetuar os seguros pessoais, patrimoniais ou outros que se mostrem necessários;
+
+u) Adquirir e tomar ou dar de arrendamento imóveis, bem como alienar os que não se integrem no domínio público, situados dentro ou fora da zona de jurisdição, nos termos da legislação aplicável;
+
+v) Cobrar e arrecadar as receitas provenientes da exploração dos portos sob jurisdição da APDL, S. A., e da via navegável do rio Douro e todas as outras que legalmente lhe pertençam e autorizar a restituição de verbas indevidamente cobradas;
+
+w) Cobrar e arrecadar as receitas provenientes da exploração dos portos, demais infraestruturas ferroviárias sob sua gestão e de todas as outras que legalmente lhe pertençam, bem como autorizar a restituição de verbas indevidamente cobradas;
+
+x) Promover a expropriação por utilidade pública de imóveis e exercer servidões administrativas, portuárias e ferroviárias;
+
+y) Aprovar os regulamentos internos destinados à execução dos presentes estatutos e necessários ao bom funcionamento dos serviços e velar pelo seu cumprimento;
+
+z) Representar a sociedade em juízo e fora dele, ativa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos, bem como celebrar convenções de arbitragem;
+
+aa) Constituir mandatários da sociedade com os poderes que julgue convenientes;
+
+bb) Exercer as demais competências que lhe sejam atribuídas por lei ou pela assembleia geral.
+
+cc) Exercer as demais competências que lhe sejam atribuídas por lei ou pela assembleia geral.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 24/2022 - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083), em vigor a partir de 2022-03-05
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 11.º — Delegação de competências
+
+Sem prejuízo do disposto no n.º 2 do artigo 407.º do Código das Sociedades Comerciais, o conselho de administração pode delegar em algum ou alguns dos seus membros alguma ou algumas das suas competências, definindo em ata os limites e condições de tal delegação.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 12.º — Vinculação da sociedade
+
+1 - A sociedade obriga-se:
+
+a) Pela assinatura de dois membros do conselho de administração, sendo uma delas a do presidente ou de quem o substitua;
+
+b) Pela assinatura de um administrador, quando haja delegação expressa do conselho de administração para a prática de um determinado ato;
+
+c) Pela assinatura de mandatário constituído, no âmbito do correspondente mandato.
+
+2 - Em assuntos de mero expediente, basta a assinatura de um membro do conselho de administração.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 13.º — Competência do presidente do conselho de administração
+
+1 - Compete ao presidente do conselho de administração a coordenação e orientação geral das atividades deste órgão e, em especial:
+
+a) Convocar o conselho de administração, fixar a agenda de trabalhos e presidir às respetivas reuniões;
+
+b) Representar o conselho, em juízo e fora dele, sem prejuízo de outros representantes ou mandatários poderem ser designados para o efeito.
+
+2 - Sempre que o exijam circunstâncias excecionais e urgentes e não seja possível reunir o conselho de administração, o presidente pode praticar quaisquer atos da competência deste, mas tais atos ficam sujeitos a ratificação na primeira reunião realizada após a sua prática.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 14.º — Funcionamento do conselho de administração
+
+1 - O conselho de administração reúne, ordinariamente, uma vez por semana e, extraordinariamente, quando for convocado pelo presidente, por iniciativa sua ou mediante solicitação de dois dos restantes membros.
+
+2 - O conselho de administração só pode deliberar quando estiver presente a maioria dos seus membros.
+
+3 - As deliberações do conselho de administração são tomadas por maioria absoluta dos votos expressos, gozando o presidente, ou quem o substituir, de voto de qualidade.
+
+4 - As deliberações do conselho de administração são registadas em ata, assinada pelos membros presentes na reunião.
+
+5 - A falta de um membro do conselho de administração a mais de duas reuniões deste órgão por ano, seguidas ou interpoladas, sem justificação aceite pelo conselho de administração, conduz a uma falta definitiva do administrador, devendo proceder-se à sua substituição nos termos do Código das Sociedades Comerciais.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+#### Secção IV — Conselho fiscal
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 15.º — Fiscalização
+
+1 - A fiscalização da sociedade compete a um conselho fiscal e a um revisor oficial de contas ou a uma sociedade de revisores oficiais de contas, que não seja membro daquele órgão, todos eleitos em assembleia geral por um período de três anos.
+
+2 - O conselho fiscal é composto por um presidente, dois vogais efetivos e um suplente.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 16.º — Competência
+
+Para além das competências constantes da lei e dos presentes estatutos, compete, em especial, aos órgãos de fiscalização:
+
+a) Assistir às reuniões do conselho de administração, nos termos da lei ou sempre que o entenda conveniente;
+
+b) Emitir parecer sobre qualquer matéria que lhe seja apresentada pelo conselho de administração;
+
+c) Emitir parecer sobre o orçamento, o balanço, o inventário e as contas anuais;
+
+d) Colocar ao conselho de administração qualquer assunto que por ele deva ser ponderado.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+### Capítulo IV — Regime financeiro e patrimonial
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 17.º — Gestão financeira e patrimonial
+
+1 - Na sua gestão financeira e patrimonial, a APDL, S. A., deve observar as regras legais e regulamentares e aplicar os princípios da boa gestão empresarial, de forma a assegurar a sua viabilidade económica e o seu equilíbrio financeiro.
+
+2 - Em toda a gestão financeira e patrimonial deve ser assegurada a separação contabilística entre a atividade de serviço público de gestão de infraestruturas ferroviárias e as restantes atividades da APDL, S. A.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 24/2022 - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083), em vigor a partir de 2022-03-05
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 18.º — Receitas
+
+1 - Constituem receitas da APDL, S. A.:
+
+a) As comparticipações, os subsídios e as compensações financeiras provenientes do Estado ou de quaisquer entidades, públicas ou privadas, nacionais ou estrangeiras, incluindo os resultantes do acesso a fundos europeus estruturais e de investimento;
+
+b) O produto de taxas, emolumentos e outras receitas resultantes de licenciamentos, aprovações e atos similares e por serviços prestados no âmbito da sua atividade;
+
+c) O produto de taxas e outras receitas resultantes da exploração, concessão e licenciamento da atividade portuária sob jurisdição da APDL, S. A., e da via navegável do rio Douro, das zonas portuárias desta e das áreas patrimoniais que lhe estão afetas, bem como da atividade de gestão das infraestruturas ferroviárias que lhe tenham sido afetas e da respetiva utilização;
+
+d) Os rendimentos provenientes da gestão do património mobiliário e imobiliário, bem como, nos termos em que a respetiva receita lhe seja atribuída, da gestão dos bens do domínio público ou privado do Estado confiados à sua administração;
+
+e) O rendimento dos bens próprios e o produto da sua alienação e da constituição de direitos sobre eles;
+
+f) Os rendimentos provenientes de aplicações financeiras, sem prejuízo do princípio da unidade de tesouraria, quando aplicável;
+
+g) As indemnizações devidas e as doações e legados concedidos por entidades públicas ou privadas;
+
+h) Os montantes legais resultantes da aplicação de coimas e outras sanções;
+
+i) O produto da venda de publicações e de processos patenteados, designadamente para efeitos de adjudicação de projetos e obras;
+
+j) Os lucros ou dividendos das sociedades em que participe;
+
+k) As compensações por parte do Estado ao serviço público de gestão das infraestruturas ferroviárias que lhe tenham sido afetas;
+
+l) Quaisquer receitas que, por lei, contrato ou outro título, lhe sejam atribuídas.
+
+2 - A cobrança coerciva de receitas é efetuada pela APDL, S. A., através de execução fiscal, nos termos previstos no Código de Procedimento e Processo Tributário.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 24/2022 - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083), em vigor a partir de 2022-03-05
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 19.º — Despesas
+
+1 - Constituem despesas, no âmbito da jurisdição da APDL, S. A., e da exploração e gestão dos portos do Douro, Leixões e Viana do Castelo, da via navegável do rio Douro e das infraestruturas ferroviárias sob sua gestão, todos e quaisquer encargos resultantes do funcionamento dos serviços que lhe estão afetos, da prossecução das atribuições e do exercício de competências a elas relativas e da comparticipação em operações necessárias.
+
+2 - Constituem, ainda, despesas, no âmbito da jurisdição da APDL, S. A., e da exploração e gestão dos portos do Douro, Leixões e Viana do Castelo, da via navegável do rio Douro e das infraestruturas ferroviárias sob sua gestão, os juros e amortizações dos empréstimos que venham a ser contraídos, nos termos legais, para, direta ou indiretamente, assegurar aquela exploração e gestão.
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 24/2022 - Diário da República n.º 45/2022, Série I de 2022-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2022-179993083), em vigor a partir de 2022-03-05
+
+> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+### Capítulo V — Disposições finais
+
+> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 20.º — Aplicação de resultados
+
+1 - Os resultados positivos de cada exercício, devidamente aprovados, têm a seguinte aplicação:
+
+a) Um mínimo de 10 % para constituição ou integração da reserva legal, até atingir o montante legalmente exigido;
+
+b) Outras aplicações impostas por lei;
+
+c) Uma percentagem a distribuir pelos acionistas, a título de dividendo, a definir pela assembleia geral, por maioria dos votos expressos;
+
+d) Para outros fins que a assembleia geral delibere de interesse para a sociedade.
+
+2 - Sempre que o volume dos resultados o justifique, a assembleia geral pode deliberar a atribuição aos trabalhadores e membros do conselho de administração, como participação nos lucros e mediante critérios por ela definidos, de uma percentagem desses resultados, de valor não superior a 10 %.
+
+> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01
+
+###### Artigo 21.º — Dissolução e liquidação
+
+1 - A sociedade dissolve-se nos casos e termos legais.
+
+2 - A liquidação da sociedade rege-se pelas disposições da lei e pelas deliberações da assembleia geral.
+
+> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 83/2015 - Diário da República n.º 98/2015, Série I de 2015-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/83-2015-67250267), em vigor a partir de 2015-01-01

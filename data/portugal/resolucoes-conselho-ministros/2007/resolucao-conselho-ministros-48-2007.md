@@ -1,0 +1,158 @@
+---
+schema_version: '1.0'
+id: pt:dre:520471:por
+title: Resolução do Conselho de Ministros n.º 48/2007
+short_title: null
+summary: Autoriza a participação da República Portuguesa na 4.ª reconstituição de recursos do Fundo para o Ambiente Global
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 48/2007
+official_date: null
+publication_date: '2007-03-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2007, Série I de 2007-03-26
+  number: '60'
+  series: I
+  supplement: null
+  pages: 1722 - 1723
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/03/06000/17221723.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/48/2007/03/26/p/dre/pt/html
+  oj: null
+  dre: '520471'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/48-2007-520471
+  internal: pt:dre:520471:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2007-520471
+  metadata_url: https://data.dre.pt/eli/resolconsmin/48/2007/03/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2007-520471
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-03-26T00:00:00Z'
+integrity:
+  source_sha256: 9fd20208be217ac95d07e822f6e086aa644fcd9b4344e8744c3ccccc5d315f0f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-48-520471.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Definição de Competências
+- Instituto de Gestão do Crédito Público
+- Fundo para o Ambiente Global
+- Proteção do Ambiente
+- Cooperação Internacional
+- Ministro de Estado e das Finanças
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/257/1992/11/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/257/1992/11/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/279/1994/11/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/279/1994/11/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/129/1998/11/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/129/1998/11/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/74/2003/05/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/74/2003/05/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 48/2007
+
+O Fundo para o Ambiente Global (Global Environment Facility), adiante designado por GEF, foi inicialmente criado em 1991 como um programa piloto para permitir aos países em desenvolvimento e com economias em transição acederem a financiamentos que cobrissem os custos incrementais de projectos geradores de benefícios para o ambiente global, nomeadamente nas áreas da diversidade biológica, alterações climáticas, águas internacionais e redução da camada de ozono.
+
+Em 1994, os países doadores do GEF decidiram reestruturar o mecanismo, reconhecendo-o como um instrumento de cooperação internacional, com o objectivo de disponibilizar recursos novos e adicionais, sob forma de doações e financiamento concessional, para suportar os custos incrementais de medidas cujos resultados beneficiassem as quatro áreas ambientais contempladas.
+
+Em 2002, decidiu-se expandir a actuação do GEF, passando o mecanismo a financiar duas novas áreas com impacte ambiental: a degradação dos solos e os poluentes orgânicos persistentes, como forma de apoio à Convenção das Nações Unidas sobre o Combate à Desertificação e à Convenção de Estocolmo sobre Poluentes Orgânicos Persistentes.
+
+Desde a sua criação, o GEF concedeu USD 6,2 mil milhões sob a forma de doações e mobilizou mais de USD 20 mil milhões que, sob a forma de co-financiamentos, apoiaram mais de 1800 projectos em 140 países em desenvolvimento ou com economias em transição. Entre os beneficiários do GEF encontram-se os países de língua oficial portuguesa. Os projectos financiados pelo GEF são implementados pelo Programa das Nações Unidas para o Desenvolvimento (PNUD), pelo Programa das Nações Unidas para o Ambiente (PNUA) e pelo Banco Mundial. Em 1999, o conselho do GEF decidiu alargar o acesso aos seus recursos a sete organizações internacionais que desta forma também passaram a gerir e a implementar projectos financiados pelo GEF: Banco Africano de Desenvolvimento (BAfD), Banco Asiático de Desenvolvimento (BAsD), Banco Europeu para a Reconstrução e Desenvolvimento (BERD), Banco Interamericano de Desenvolvimento (BID), Fundo Internacional de Desenvolvimento Agrícola (IFAD), Organização das Nações Unidas para Agricultura e Alimentação (FAO) e Organização das Nações Unidas para o Desenvolvimento Industrial (UNIDO).
+
+Em linha com o seu mandato, o GEF desempenha um papel fundamental no apoio à dimensão ambiental dos objectivos de desenvolvimento do milénio adoptados por todos os Estados membros das Nações Unidas, em Setembro de 2000, e do Plano de Implementação da Cimeira Mundial sobre Desenvolvimento Sustentável, adoptado em Joanesburgo em 2002.
+
+Contribuir para o fundo fiduciário do GEF é uma forma de os governos respeitarem os seus compromissos no âmbito dos acordos multilaterais em matéria de ambiente e de continuarem a prestar assistência adicional aos países beneficiários, incluindo os países menos desenvolvidos.
+
+Em termos financeiros, em 1994, o Fundo foi reconstituído com cerca de USD 2 mil milhões para um período de actividade de quatro anos. Em 1998, o Fundo foi novamente reconstituído com recursos no valor de USD 2,75 mil milhões e, em 2002, os doadores do GEF comprometeram cerca de USD 3 mil milhões para o período de 2002 a 2006.
+
+As negociações da 4.ª reconstituição do Fundo, adiante designada GEF 4, tiveram início em Junho de 2005 e foram concluídas um ano depois. Em 19 de Outubro de 2006, o conselho de administração do Banco Mundial adoptou a Resolução n.º 2006-0008, através da qual autoriza o Banco a administrar os recursos financeiros que os doadores comprometeram no âmbito do GEF 4. Tais recursos financiarão novos projectos que abrangem o período de 1 de Julho de 2006 a 30 de Junho de 2010 e ascendem a 2,1 mil milhões de directos de saque especial (DSE), equivalentes a USD 3,1 mil milhões. Este montante compreende novas contribuições de 32 doadores no total de DSE 1,56 mil milhões (USD 2,28 mil milhões), recursos de anteriores reconstituições no montante de DSE 326 milhões (USD 478 milhões) e um rendimento previsto da aplicação dos recursos durante o período da reconstituição de cerca de DSE 251 milhões (USD 368 milhões). A taxa de câmbio utilizada foi a média do período de 1 de Maio a 31 de Outubro de 2005.
+
+Portugal é membro do GEF desde 20 de Novembro de 1992, tendo efectuado, ao abrigo do [Decreto-Lei n.º 257/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/257-1992-584255), de 20 de Novembro, uma contribuição de DSE 4,5 milhões, equivalente a USD 6,15 milhões. Portugal vem, desde então, na qualidade de país membro do Fundo, contribuindo para as subsequentes reconstituições de recursos. No âmbito do primeiro aumento de recursos do GEF, para o período de 1995-1998, Portugal efectuou uma contribuição de DSE 4 milhões, equivalente a USD 5,6 milhões, conforme o [Decreto-Lei n.º 279/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/279-1994-535795), de 4 de Novembro. No período de 1 de Julho de 1998 a 30 de Junho de 2002, a contribuição de Portugal para a 2.ª reconstituição de recursos foi também de DSE 4 milhões, equivalente a USD 5,5 milhões, de acordo com a [Resolução do Conselho de Ministros n.º 129/98](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/129-1998-223453), de 7 de Novembro. Para o período de Julho de 2002 a Junho de 2006, no âmbito da 3.ª reconstituição de recursos, contribuiu igualmente com DSE 4 milhões, equivalente a (euro) 5,73 milhões, ao abrigo da [Resolução do Conselho de Ministros n.º 74/2003](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/74-2003-542005), de 21 de Maio.
+
+Considerando o apoio que Portugal tem vindo a dar a este mecanismo financeiro, o endosso dos compromissos internacionais nas áreas de actuação do GEF e, ainda, o compromisso de contribuir anualmente com cerca de USD 1,6 milhões para alterações climáticas, no âmbito do Protocolo de Quioto, montante ao qual pode ser deduzida uma quota-parte da contribuição para o GEF, ficou prevista a participação de Portugal na 4.ª reconstituição de recursos do GEF. A nossa contribuição deverá ascender a DSE 4,79 milhões, equivalente a (euro) 5,73 milhões. Está previsto que 77% desta contribuição seja registada como ajuda pública ao desenvolvimento por parte da República Portuguesa.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a participação da República Portuguesa na 4.ª reconstituição de recursos do Fundo para o Ambiente Global (GEF), através de uma contribuição de (euro) 5,73 milhões.
+
+2 - Reconhecer que a referida contribuição torna-se efectiva após o depósito junto do Banco Mundial do instrumento de compromisso que formaliza a participação da República Portuguesa na 4.ª reconstituição de recursos do GEF.
+
+3 - Estabelecer que o pagamento da contribuição referida no n.º 1 deve ser efectuado em quatro prestações, através da emissão de notas promissórias de igual montante, com o valor de (euro) 1432590 cada, devendo a 1.ª ser emitida até 30 dias após o envio ao Banco Mundial do instrumento de compromisso de Portugal, a 2.ª até 30 de Novembro de 2007, a 3.ª até 30 de Novembro de 2008 e a 4.ª até 30 de Novembro de 2009.
+
+4 - Estabelecer que as notas promissórias referidas no número anterior sejam resgatadas de acordo com um plano de resgates de 10 anos, com o início em 2007.
+
+5 - Determinar que a emissão das notas promissórias referidas no n.º 3 fique a cargo do Instituto de Gestão do Crédito Público, I. P., e nelas constem os seguintes elementos:
+
+a) O número de ordem;
+
+b) O capital representado;
+
+c) A data de emissão;
+
+d) Os direitos, isenções e garantias de que gozam e que são os dos restantes títulos da dívida que lhes sejam aplicáveis;
+
+e) Os diplomas que autorizam a emissão.
+
+6 - Determinar que as notas promissórias sejam assinadas, por chancela, pelo Ministro de Estado e das Finanças, com faculdade de delegação, e pelo presidente e por um vogal do conselho directivo do Instituto de Gestão do Crédito Público, I. P., com a aposição do selo branco deste Instituto.
+
+7 - Estabelecer que cabe ao Ministro de Estado e das Finanças, com faculdade de delegação, praticar todos os actos necessários à realização do previsto nos números anteriores.
+
+8 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 1 de Março de 2007. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

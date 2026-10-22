@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:120108010:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-120108052",
+ "dre_path": "/dr/detalhe/lei/21-2019-120108010",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-02-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "120266775",
+    "120266776",
+    "120266777",
+    "120266778",
+    "120266779",
+    "120266780",
+    "120266781",
+    "120266782",
+    "120266783",
+    "120266784",
+    "120266785",
+    "120266786",
+    "120266787",
+    "120266788",
+    "120266789",
+    "120266790",
+    "120266791",
+    "120266792",
+    "120266793",
+    "120266794",
+    "120266795",
+    "120266796",
+    "120266797",
+    "120266798",
+    "120266799",
+    "120266801",
+    "120266802"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "120266775",
+    "120266776",
+    "120266777",
+    "213918832",
+    "120266779",
+    "120266780",
+    "120266781",
+    "120266782",
+    "120266783",
+    "120266784",
+    "120266785",
+    "120266786",
+    "120266787",
+    "120266788",
+    "120266789",
+    "120266790",
+    "120266791",
+    "120266792",
+    "120266793",
+    "213918833",
+    "120266795",
+    "120266796",
+    "120266797",
+    "120266798",
+    "120266799",
+    "120266800",
+    "120266801",
+    "120266802"
+   ]
+  }
+ ],
+ "fragments": {
+  "120266775": {
+   "fragment_id": "120108053",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 21/2019\n\nde 25 de fevereiro\n\nRegula a transferência, pelas transportadoras aéreas, dos dados dos registos de identificação dos passageiros, bem como o tratamento desses dados, transpondo a Diretiva (UE) 2016/681 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e procede à terceira alteração à Lei n.º 53/2008, de 29 de agosto, que aprova a Lei de Segurança Interna.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "120266776": {
+   "fragment_id": "120108054",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei regula a transferência, pelas transportadoras aéreas, dos dados dos registos de identificação dos passageiros (dados PNR) dos voos provenientes de um Estado-Membro da União Europeia ou de um país terceiro ou com destino a um Estado-Membro da União Europeia ou a um país terceiro, bem como o tratamento desses dados, nomeadamente a sua recolha, utilização e conservação, e o respetivo intercâmbio com os Estados-Membros da União Europeia, transpondo para a ordem jurídica interna a Diretiva (UE) 2016/681 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativa à utilização dos dados dos registos de passageiros para efeitos de prevenção, deteção, investigação e repressão das infrações terroristas e da criminalidade grave, e procede à terceira alteração à Lei n.º 53/2008, de 29 de agosto, que aprova a Lei de Segurança Interna.\n\n2 - Os dados PNR recolhidos nos termos da presente lei só podem ser tratados para fins de prevenção, deteção, investigação e repressão das infrações terroristas e da criminalidade grave, nos termos previstos nas alíneas a), b) e c) do n.º 2 do artigo 5.º"
+  },
+  "120266777": {
+   "fragment_id": "120108055",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente lei, entende-se por:\n\na) «Estado-Membro», Estado-Membro da União Europeia;\n\nb) «País terceiro», Estado que não integra a União Europeia;\n\nc) «Transportadora aérea», uma empresa de transporte aéreo titular de uma licença de exploração válida ou equivalente que lhe permite transportar passageiros por via aérea;\n\nd) «Voo extra-UE», um voo regular ou não regular efetuado por uma transportadora aérea a partir de um país terceiro e programado para aterrar no território nacional, ou a partir do território nacional e programado para aterrar num país terceiro, incluindo, em ambos os casos, os voos com escala no território nacional, no território de um ou mais Estados-Membros ou de países terceiros;\n\ne) «Voo intra-UE», um voo regular ou não regular efetuado por uma transportadora aérea a partir do território de um Estado-Membro e programado para aterrar no território nacional ou a partir do território nacional e programado para aterrar no território de um ou mais Estados-Membros, sem escala no território de um país terceiro;\n\nf) «Passageiro», uma pessoa, incluindo pessoa em trânsito ou em correspondência e excluindo membros da tripulação, transportada ou a transportar numa aeronave com o consentimento da transportadora aérea, decorrendo esse consentimento do registo dessa pessoa na lista de passageiros;\n\ng) «Registo de identificação dos passageiros» ou «PNR» (Passenger Name Record), um registo das formalidades de viagem impostas a cada passageiro que contém as informações necessárias para permitir o tratamento e o controlo das reservas feitas pelas transportadoras aéreas participantes relativamente a cada viagem reservada por uma pessoa ou em seu nome, quer o registo conste dos sistemas de reserva, dos sistemas de controlo das partidas, utilizado para efetuar o controlo dos passageiros embarcados nos voos, ou de sistemas equivalentes que ofereçam as mesmas funcionalidades;\n\nh) «Sistema de reservas», o sistema interno da transportadora aérea, no qual são recolhidos dados PNR para o tratamento das reservas;\n\ni) «Método de transferência por exportação», o método através do qual as transportadoras aéreas transferem os dados PNR enumerados no anexo I à presente lei e da qual faz parte integrante, para a base de dados da autoridade requerente;\n\nj) «Infrações terroristas», as infrações a que se refere a Lei n.º 52/2003, de 22 de agosto, que aprova a lei de combate ao terrorismo, alterada pelas Leis n.os 59/2007, de 4 de setembro, 25/2008, de 5 de junho, 17/2011, de 3 de maio, e 60/2015, de 24 de junho;\n\nk) «Criminalidade grave», as infrações enumeradas no anexo II à presente lei e da qual faz parte integrante, puníveis com pena ou medida de segurança privativas de liberdade de duração máxima não inferior a três anos;\n\nl) «Anonimizar mediante mascaramento de elementos de dados», tornar invisíveis para os utilizadores os elementos dos dados suscetíveis de identificar diretamente o seu titular."
+  },
+  "120266778": {
+   "fragment_id": "120108056",
+   "type": 11,
+   "heading": "Artigo 3.º — Gabinete de Informações de Passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gabinete de Informações de Passageiros\n\n1 - É criado o Gabinete de Informações de Passageiros (GIP), como unidade nacional de informações de passageiros, no Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), nos termos e para os efeitos do n.º 6 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n2 - Compete ao GIP, designadamente:\n\na) A recolha dos dados PNR junto das transportadoras aéreas, pela conservação e pelo tratamento desses dados, bem como pela sua transferência ou pela transferência dos resultados do seu tratamento às autoridades competentes referidas no artigo 7.º;\n\nb) O intercâmbio de dados PNR e dos resultados do tratamento desses dados com as unidades de informações de passageiros de outros Estados-Membros e com a Europol, nos termos dos artigos 8.º e 9.º\n\n3 - O Coordenador do GIP integra o Gabinete de Gestão do PUC-CPI e é nomeado pelos membros do Governo responsáveis pelas áreas da administração interna e da justiça de entre elementos dos órgãos de polícia criminal e dos serviços de segurança sob as respetivas tutelas com competência para a deteção, prevenção e investigação das infrações terroristas e da criminalidade grave, nos termos e pelo período de tempo previsto no n.º 5 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n4 - O funcionamento do GIP é assegurado por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária e do Serviço de Estrangeiros e Fronteiras e da Autoridade Tributária e Aduaneira, podendo integrar ainda um elemento de ligação da Polícia Marítima, nos termos do n.º 9 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n5 - O GIP é instalado no PUC-CPI, que garante o seu apoio jurídico, técnico e administrativo através dos respetivos serviços de apoio, nos termos dos artigos 4.º e 5.º do Decreto Regulamentar n.º 7/2017, de 7 de agosto, que estabelece a organização e o funcionamento do Ponto Único de Contacto para a Cooperação Policial Internacional.\n\n6 - À composição e à orgânica do GIP aplica-se o artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual, e o Decreto Regulamentar n.º 7/2017, de 7 de agosto.\n\n7 - Os procedimentos e soluções tecnológicas adequados para a transferência, tratamento e intercâmbio dos dados PNR, a que se refere o n.º 7 do artigo 13.º, são estabelecidos por portaria do Primeiro-Ministro e dos membros do Governo responsáveis pelas áreas da presidência do Conselho de Ministros, da administração interna, da justiça e do planeamento e infraestruturas, de acordo com a lista dos protocolos comuns e dos formatos de dados reconhecidos, elaborada pela Comissão Europeia, e mediante parecer prévio da Comissão Nacional da Proteção de Dados (CNPD).\n\n8 - A designação dos trabalhadores autorizados a proceder ao tratamento de dados é efetuada por despacho do Secretário-Geral do Sistema de Segurança Interna ou, se necessário, mediante despacho deste e dos membros do Governo de cujas áreas da governação provenham os funcionários a designar.\n\n9 - A formação e a credenciação dos trabalhadores autorizados a efetuar o tratamento de dados são da competência do Coordenador do GIP."
+  },
+  "120266779": {
+   "fragment_id": "120108057",
+   "type": 11,
+   "heading": "Artigo 4.º — Transferência de dados pelas transportadoras aéreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transferência de dados pelas transportadoras aéreas\n\n1 - As transportadoras aéreas transferem para a base de dados do GIP, pelo método de exportação, os dados PNR dos voos extra-UE e intra-UE enumerados no anexo I, na medida em que tenham recolhido esses dados no exercício normal das suas atividades.\n\n2 - Nos casos em que um voo é explorado por uma ou mais transportadoras aéreas em regime de partilha de código, a obrigação de transferir os dados PNR de todos os passageiros do voo cabe à transportadora aérea que o opera.\n\n3 - Se o voo incluir uma ou mais escalas em aeroportos de diferentes Estados-Membros, as transportadoras aéreas transferem os dados PNR da totalidade dos passageiros para o GIP e para as unidades de informações de passageiros desses Estados-Membros.\n\n4 - Caso tenham recolhido dados referentes a informações prévias sobre passageiros (dados API) a que se refere o n.º 18 do anexo I à presente lei e não os conservem pelos meios técnicos utilizados para os dados PNR, as transportadoras aéreas transferem esses dados para o GIP pelo método de exportação referido no n.º 1.\n\n5 - O disposto na presente lei é aplicável aos dados API transferidos, previstos nos artigos 42.º a 44.º da Lei n.º 23/2007, de 4 de julho, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional, alterada pelas Leis n.os 29/2012, de 9 de agosto, 56/2015, de 23 de junho, 63/2015, de 30 de junho, 59/2017, de 31 de julho, 102/2017, de 28 de agosto, e 26/2018, de 5 de julho.\n\n6 - Os dados PNR são transferidos com utilização de meios eletrónicos e de protocolos comuns e formatos de dados reconhecidos, adotados de acordo com o procedimento previsto no artigo 5.º do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, e definidos de acordo com a portaria a que se refere o n.º 7 do artigo 3.º da presente lei.\n\n7 - Em caso de avaria técnica, os dados são transferidos por quaisquer outros meios a definir pelo GIP, que assegurem um nível adequado de segurança dos dados.\n\n8 - Os dados PNR são transferidos:\n\na) 24 a 48 horas antes da hora programada da partida do voo; e\n\nb) Imediatamente após o encerramento do voo, ou seja, logo que os passageiros se encontrem a bordo do avião preparados para partir e o embarque ou desembarque já não seja possível.\n\n9 - No caso referido na alínea b) do número anterior, a transferência pode ser limitada à atualização dos dados transferidos nos termos da alínea a) do mesmo número.\n\n10 - Caso seja necessário aceder aos dados PNR para dar resposta a uma ameaça específica e concreta relacionada com infrações terroristas ou criminalidade grave, as transportadoras aéreas transmitem imediatamente os dados PNR mediante pedido apresentado pelo GIP, independentemente dos prazos de transmissão a que se referem os números anteriores."
+  },
+  "120266780": {
+   "fragment_id": "120108058",
+   "type": 11,
+   "heading": "Artigo 5.º — Tratamento dos dados PNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Tratamento dos dados PNR\n\n1 - Os dados PNR transferidos pelas transportadoras aéreas são recolhidos pelo GIP numa base de dados destinada a registar, armazenar, manter atualizada e disponibilizar a informação para fins de deteção, prevenção e investigação criminal de infrações terroristas e de criminalidade grave, nos termos previstos na presente lei.\n\n2 - O GIP procede ao tratamento dos dados exclusivamente para as seguintes finalidades:\n\na) Proceder a uma avaliação dos passageiros antes da sua chegada prevista ao território nacional ou da sua partida prevista do território nacional, a fim de identificar as pessoas que, pelo facto de poderem estar implicadas numa infração terrorista ou numa forma de criminalidade grave, devem ser sujeitas a medidas de polícia, medidas especiais de polícia ou medidas cautelares e de polícia pelas autoridades competentes a que se refere o artigo 7.º e, se for caso disso, pela Europol, nos termos do artigo 9.º;\n\nb) Responder, caso a caso, aos pedidos devidamente fundamentados, baseados em motivos suficientes, apresentados pelas autoridades competentes, para fornecer e tratar dados PNR, em casos específicos, para efeitos de prevenção, deteção, investigação e repressão das infrações terroristas ou da criminalidade grave, e para disponibilizar às autoridades competentes ou, se for caso disso, à Europol, os resultados desse tratamento; e\n\nc) Analisar os dados PNR com o objetivo de atualizar ou criar novos critérios a utilizar no tratamento de dados nos termos da alínea b) do n.º 1 do artigo seguinte, a fim de identificar pessoas que possam estar implicadas em infrações terroristas ou em formas de criminalidade grave.\n\n3 - Se os dados transferidos incluírem dados distintos dos enumerados no anexo I à presente lei, o GIP apaga imediata e definitivamente esses dados assim que os receber."
+  },
+  "120266781": {
+   "fragment_id": "120108059",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação e transmissão dos dados PNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação e transmissão dos dados PNR\n\n1 - No âmbito da avaliação dos passageiros a que se refere a alínea a) do n.º 2 do artigo anterior, o GIP pode:\n\na) Comparar os dados PNR com os que constam das bases de dados das forças e serviços de segurança, para efeitos de prevenção, deteção, investigação e repressão das infrações terroristas e da criminalidade grave, incluindo bases de dados sobre pessoas ou objetos procurados ou alvo de um alerta, de acordo com as regras aplicáveis a essas bases de dados; ou\n\nb) Proceder ao tratamento dos dados PNR de acordo com critérios preestabelecidos.\n\n2 - Qualquer avaliação dos passageiros de acordo com critérios preestabelecidos, nos termos da alínea b) do número anterior, é realizada de forma não discriminatória, não podendo estes critérios, em caso algum, basear-se na raça ou na origem étnica de uma pessoa, nas suas opiniões políticas, religião ou convicções filosóficas, na sua filiação sindical, na sua saúde, vida ou orientação sexual.\n\n3 - Os critérios preestabelecidos são definidos e revistos regularmente pelo GIP, em cooperação com as autoridades competentes a que se refere o artigo seguinte e com o encarregado de proteção de dados, em função de objetivos específicos, necessários, proporcionais e adequados.\n\n4 - Qualquer resultado positivo obtido através do tratamento automatizado dos dados PNR, nos termos e com a finalidade prevista na alínea a) do n.º 2 do artigo anterior, é verificado individualmente por meios não automatizados, para aferir se é ou não necessário que a autoridade competente referida no artigo seguinte intervenha nos termos da lei.\n\n5 - O GIP transmite os dados PNR das pessoas identificadas nos termos da alínea a) do n.º 2 do artigo anterior, ou os resultados do tratamento desses dados, às autoridades competentes referidas no artigo seguinte, por sua iniciativa ou a solicitação destas, a fim de serem adotadas medidas de polícia, medidas especiais de polícia ou medidas cautelares e de polícia ou as medidas apropriadas para efeitos de prevenção, deteção, investigação e repressão das infrações terroristas e da criminalidade grave, no âmbito das respetivas competências, nos termos da lei processual penal e demais legislação aplicável.\n\n6 - A transmissão de dados só pode ser feita caso a caso e, se houver tratamento automatizado dos dados, após verificação individual por meios não automatizados.\n\n7 - O resultado da avaliação dos passageiros a que se refere a alínea a) do n.º 2 do artigo anterior não afeta a entrada em território nacional das pessoas que gozam do direito de livre circulação na União Europeia, sem prejuízo das medidas que, nos termos da lei, devam ser adotadas pelas autoridades competentes, de acordo com o disposto no n.º 5.\n\n8 - Quando a avaliação seja efetuada em relação a um voo intra-UE operado entre Estados-Membros ao qual seja aplicável o Regulamento (UE) 2016/399 do Parlamento Europeu e do Conselho, de 9 de março de 2016, as consequências de tal avaliação devem observar o referido regulamento."
+  },
+  "120266782": {
+   "fragment_id": "120108060",
+   "type": 11,
+   "heading": "Artigo 7.º — Autoridades competentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autoridades competentes\n\n1 - São autoridades competentes para efeitos de transmissão dos dados PNR ou do resultado do seu tratamento, nos termos e para os fins do n.º 5 do artigo anterior, as entidades policiais e aduaneiras, os serviços de segurança e as autoridades judiciárias com competência, nos termos da lei, para a prevenção, deteção, investigação e repressão das infrações terroristas e da criminalidade grave.\n\n2 - As autoridades referidas no número anterior podem submeter a tratamento ulterior os dados PNR e o resultado do seu tratamento, exclusivamente para efeitos específicos de prevenção, deteção, investigação e repressão das infrações terroristas ou da criminalidade grave.\n\n3 - O disposto no número anterior não prejudica as competências das autoridades policiais, aduaneiras ou judiciárias, quando forem detetadas outras infrações ou indícios de outras infrações no decurso de ações desencadeadas na sequência do referido tratamento.\n\n4 - Os dados PNR ou o resultado do seu tratamento que, nos termos e para os efeitos do n.º 1, o GIP deva comunicar às autoridades judiciárias, são transmitidos ao Departamento Central de Investigação e Ação Penal."
+  },
+  "120266783": {
+   "fragment_id": "120108061",
+   "type": 11,
+   "heading": "Artigo 8.º — Intercâmbio de dados e do resultado do seu tratamento entre Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Intercâmbio de dados e do resultado do seu tratamento entre Estados-Membros\n\n1 - O GIP garante a ligação às unidades de informações de passageiros dos restantes Estados-Membros, assegurando que o intercâmbio de dados PNR, assim como o resultado do seu tratamento, se efetua através do PUC-CPI.\n\n2 - O GIP pode transmitir, por sua iniciativa, às unidades de informações de passageiros de outros Estados-Membros os dados relevantes e necessários, ou o respetivo tratamento, de pessoas identificadas nos termos do disposto no n.º 2 do artigo 5.º\n\n3 - Quando receber dados de pessoas identificadas por uma unidade de informações de passageiros de outro Estado-Membro, no âmbito do tratamento de dados para os fins previstos no n.º 2 do artigo 5.º, o GIP transmite esses dados às autoridades nacionais competentes indicadas no artigo anterior, com conhecimento ao centro operacional do PUC-CPI.\n\n4 - Se necessário, e mediante pedido devidamente fundamentado, o GIP pode solicitar ou transmitir a outra unidade de informações de passageiros dados PNR conservados e ainda não anonimizados, mediante mascaramento de elementos de dados, nos termos do n.º 2 artigo 11.º, bem como o resultado do tratamento desses dados, se este já tiver sido efetuado nos termos da alínea a) do n.º 2 do artigo 5.º\n\n5 - O pedido a que se refere o número anterior pode basear-se num elemento de dados ou numa combinação de elementos de dados, consoante o que a unidade de informações de passageiros requerente entenda como adequado no âmbito de um caso específico de prevenção, deteção, investigação ou repressão das infrações terroristas ou da criminalidade grave.\n\n6 - Caso os dados solicitados tenham sido anonimizados mediante mascaramento de elementos de dados, nos termos do n.º 2 do artigo 11.º, o GIP só fornece os dados PNR na íntegra se for razoável considerar que tal é necessário para o fim referido na alínea b) do n.º 2 do artigo 5.º, após autorização da autoridade judiciária competente.\n\n7 - As autoridades competentes indicadas no artigo anterior só podem solicitar diretamente à unidade de informações de passageiros de outro Estado-Membro que lhes forneça dados PNR conservados na sua base de dados se necessário, e em casos de emergência, mediante pedido devidamente fundamentado, remetendo cópia do pedido ao PUC-CPI.\n\n8 - Em circunstâncias excecionais, quando seja necessário aceder a dados PNR para dar resposta a uma ameaça específica e concreta relacionada com infrações terroristas ou com a criminalidade grave, o GIP pode requerer, obter e fornecer a outra unidade de informação de passageiros dados PNR, nos termos do n.º 10 do artigo 4.º, informando a autoridade judiciária competente."
+  },
+  "120266784": {
+   "fragment_id": "120108062",
+   "type": 11,
+   "heading": "Artigo 9.º — Acesso da Europol aos dados PNR e ao resultado do seu tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acesso da Europol aos dados PNR e ao resultado do seu tratamento\n\n1 - A Agência da União Europeia para a Cooperação Policial (Europol) só pode solicitar dados PNR, ou o resultado do seu tratamento, nos limites das suas competências e para o exercício das suas funções.\n\n2 - A Europol pode apresentar, caso a caso, ao GIP, através da Unidade Nacional Europol, um pedido eletrónico devidamente fundamentado de transmissão de dados PNR específicos ou dos resultados do tratamento desses dados.\n\n3 - O pedido pode ser apresentado quando tal for estritamente necessário para apoiar e reforçar a ação dos Estados-Membros na prevenção, deteção ou investigação de uma infração terrorista específica ou de uma forma de criminalidade grave, na medida em que estas estejam abrangidas pelas competências da Europol, nos termos da legislação aplicável.\n\n4 - O pedido indica os motivos razoáveis com base nos quais a Europol considera que a transmissão dos dados PNR ou dos resultados do seu tratamento constitui um contributo substancial para a prevenção, deteção ou investigação da infração penal em causa.\n\n5 - O intercâmbio de informações nos termos do presente artigo efetua-se através da rede SIENA, nos termos da Decisão 2009/371/JAI do Conselho, de 6 de abril de 2009, na língua que for aplicável."
+  },
+  "120266785": {
+   "fragment_id": "120108063",
+   "type": 11,
+   "heading": "Artigo 10.º — Transferência de dados e do resultado do seu tratamento para países terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transferência de dados e do resultado do seu tratamento para países terceiros\n\n1 - Os dados PNR e o resultado do seu tratamento que tenham sido armazenados pelo GIP nos termos do artigo seguinte só podem ser transferidos para um país terceiro caso a caso e se:\n\na) Estiverem preenchidas as condições estabelecidas no regime jurídico relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública, que transpõe para a ordem jurídica interna a Diretiva (UE) 2016/680, do Parlamento Europeu e do Conselho, de 27 de abril de 2016;\n\nb) A transferência for necessária para os fins prosseguidos pela presente lei e referidos no n.º 2 do artigo 1.º;\n\nc) O país terceiro só aceitar transferir os dados para outro país terceiro caso tal seja estritamente necessário para os fins previstos no n.º 2 do artigo 1.º e, se for caso disso, mediante autorização da autoridade judiciária competente; e\n\nd) Estiverem preenchidas as condições estabelecidas nos n.os 4 a 6 do artigo 8.º\n\n2 - Quando os dados PNR tenham sido inicialmente obtidos por transmissão de outro Estado-Membro, as autoridades nacionais apenas os podem transmitir a um país terceiro se se verificarem as condições previstas no número anterior e mediante autorização daquele Estado-Membro.\n\n3 - Sem prejuízo do disposto no número anterior e do disposto no regime previsto na alínea a) do n.º 1, a transferência de dados PNR sem autorização prévia do Estado-Membro a partir do qual foram obtidos os dados é permitida em circunstâncias excecionais se:\n\na) Essa transferência for essencial para dar resposta a uma ameaça específica e concreta relacionada com infrações terroristas ou com criminalidade grave num Estado-Membro ou um país terceiro; e\n\nb) A autorização prévia não puder ser obtida em tempo útil.\n\n4 - Nos casos previstos no número anterior, a autoridade responsável por conceder a autorização para a transferência, nos termos dos n.os 4 e 6 do artigo 8.º, é informada sem demora e a transferência é devidamente registada e sujeita a uma verificação posterior.\n\n5 - A transmissão de dados PNR para as autoridades competentes de países terceiros só pode ocorrer em condições compatíveis com o disposto na presente lei e apenas após certificação de que o Estado destinatário os tenciona utilizar de forma compatível com essas condições e salvaguardas, designadamente em matéria de proteção de dados pessoais.\n\n6 - O encarregado de proteção de dados é informado sempre que ocorrer uma transmissão de dados nos termos do presente artigo."
+  },
+  "120266786": {
+   "fragment_id": "120108064",
+   "type": 11,
+   "heading": "Artigo 11.º — Prazo de conservação e anonimização dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prazo de conservação e anonimização dos dados\n\n1 - Os dados PNR fornecidos pelas transportadoras aéreas ao GIP são conservados na base de dados a que se refere o n.º 1 do artigo 5.º por um prazo de cinco anos contados a partir da sua transferência, nos termos do artigo 4.º\n\n2 - Decorrido um prazo de seis meses após a transferência, todos os dados PNR são anonimizados, tornando-se invisíveis os seguintes elementos de dados suscetíveis de identificar diretamente o passageiro ao qual dizem respeito:\n\na) Nome(s), incluindo os nomes de outros passageiros mencionados nos PNR e o número de passageiros nos PNR que viajam em conjunto;\n\nb) Endereço e informações de contacto;\n\nc) Todas as informações sobre os meios de pagamento, incluindo o endereço de faturação, na medida em que contenham informações suscetíveis de identificar diretamente o passageiro ao qual os PNR dizem respeito ou quaisquer outras pessoas;\n\nd) Informação de passageiro frequente;\n\ne) Observações gerais, na medida em que contenham informações suscetíveis de permitir identificar diretamente o passageiro ao qual os PNR dizem respeito; e\n\nf) Quaisquer dados API que tenham sido recolhidos.\n\n3 - Decorrido o prazo de seis meses referido no número anterior, só é permitida a divulgação de dados integrais PNR caso essa divulgação seja:\n\na) Considerada necessária, com base em motivos razoáveis, para os fins referidos na alínea b) do n.º 2 do artigo 5.º; e\n\nb) Se for caso disso, autorizada pela autoridade judiciária competente.\n\n4 - Os dados PNR são apagados de forma definitiva no termo do prazo referido no n.º 1, sem prejuízo dos casos em que dados PNR específicos tenham sido transferidos para uma autoridade competente e sejam utilizados no âmbito de um caso concreto para efeitos de prevenção, deteção, investigação ou repressão das infrações terroristas ou da criminalidade grave, caso em que a conservação dos dados pela autoridade competente se rege pela lei processual ou de proteção de dados pessoais que lhe for aplicável.\n\n5 - O resultado do tratamento a que se refere a alínea a) do n.º 2 do artigo 5.º só é conservado pelo GIP durante o período necessário para informar as autoridades competentes e as unidades de informações de passageiros de outros Estados-Membros, nos termos do artigo 8.º\n\n6 - Caso se constate, na sequência de uma verificação individual por meios não automatizados, nos termos do n.º 4 do artigo 6.º, que o resultado do tratamento automatizado é negativo, este pode, ainda assim, ser conservado a fim de evitar falsos resultados positivos no futuro, desde que os dados que lhe serviram de base não sejam apagados nos termos do n.º 4."
+  },
+  "120266787": {
+   "fragment_id": "120108065",
+   "type": 11,
+   "heading": "Artigo 12.º — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Proteção de dados pessoais\n\n1 - Ao tratamento de dados pessoais nos termos da presente lei aplica-se o disposto no regime jurídico relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública, que transpõe para a ordem jurídica interna a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, nomeadamente quanto ao direito de acesso, retificação, apagamento e limitação, direito a indemnização e a recurso judicial, confidencialidade do tratamento e segurança dos dados.\n\n2 - O disposto no número anterior não prejudica a aplicação do Regulamento Geral sobre a Proteção de Dados, aprovado pelo Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, ao tratamento de dados pessoais pelas transportadoras aéreas, especialmente no que se refere às suas obrigações de tomarem as medidas técnicas e organizativas adequadas para proteger a segurança e confidencialidade dos dados pessoais.\n\n3 - É proibido o tratamento de dados PNR que revelem a raça ou origem étnica da pessoa, as suas opiniões políticas, religião ou convicções filosóficas, filiação sindical, saúde, vida ou orientação sexual.\n\n4 - Se receber dados PNR que revelem as informações a que se refere o número anterior, o GIP procede ao seu apagamento imediato.\n\n5 - Ao tratamento, pelas autoridades competentes, de dados PNR transferidos para essas entidades, a que se refere o artigo 7.º, é aplicável o disposto na lei processual penal e no regime jurídico referido no n.º 1."
+  },
+  "120266788": {
+   "fragment_id": "120108066",
+   "type": 11,
+   "heading": "Artigo 13.º — Controlo do tratamento de dados PNR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Controlo do tratamento de dados PNR\n\n1 - O GIP conserva a documentação relativa a todos os sistemas e procedimentos de tratamento de dados sob a sua responsabilidade, incluindo, pelo menos:\n\na) O nome e os contactos da organização e do pessoal do GIP a quem é confiado o tratamento de dados PNR e os diferentes níveis de autorização de acesso;\n\nb) Os pedidos apresentados pelas autoridades competentes, pelas unidades de informações de passageiros de outros Estados-Membros e pela Europol;\n\nc) Todos os pedidos e transferências de dados PNR para um país terceiro.\n\n2 - O PUC-CPI conserva cópia da documentação relativa às alíneas b) e c) do número anterior.\n\n3 - O GIP conserva, pelo menos, registos da recolha, consulta, divulgação e apagamento dos dados.\n\n4 - Os registos das operações de consulta e de divulgação indicam, em especial, a finalidade, a data e a hora dessas operações, a identidade da pessoa que consultou ou divulgou os dados PNR e, se possível, o destino da informação, incluindo a identidade dos seus destinatários.\n\n5 - Os registos e os documentos a que se referem os números anteriores só podem ser utilizados para efeitos de verificação e de autocontrolo, para garantir a integridade e a segurança dos dados e para efeitos de auditoria.\n\n6 - O GIP disponibiliza a documentação e os registos referidos nos números anteriores à autoridade de controlo, a pedido desta.\n\n7 - Os registos a que se referem os n.os 2 e 3 são conservados durante um prazo de cinco anos.\n\n8 - O GIP adota e aplica as medidas técnicas e de organização e os procedimentos adequados para garantir um elevado nível de segurança, adaptado aos riscos que o tratamento representa e à natureza dos dados PNR.\n\n9 - Em caso de violação de dados pessoais que seja suscetível de resultar num elevado risco para a proteção dos dados ou de prejudicar a privacidade do seu titular, o GIP comunica tal facto ao titular dos dados e à autoridade nacional a que se refere o artigo seguinte, sem demora injustificada."
+  },
+  "120266789": {
+   "fragment_id": "120108067",
+   "type": 11,
+   "heading": "Artigo 14.º — Autoridade de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Autoridade de controlo\n\nA fiscalização da aplicação da presente lei compete à CNPD, enquanto autoridade de controlo a que se refere o regime jurídico relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública, que transpõe para a ordem jurídica interna a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016."
+  },
+  "120266790": {
+   "fragment_id": "120108068",
+   "type": 11,
+   "heading": "Artigo 15.º — Responsável pela proteção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Responsável pela proteção de dados\n\nO Coordenador do GIP é o responsável pelo tratamento de dados PNR a que se refere a presente lei."
+  },
+  "120266791": {
+   "fragment_id": "120108069",
+   "type": 11,
+   "heading": "Artigo 16.º — Encarregado de proteção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Encarregado de proteção de dados\n\n1 - O Coordenador do GIP designa um encarregado de proteção de dados, incumbido de controlar o tratamento de dados PNR e de aplicar as salvaguardas relevantes.\n\n2 - À designação, cargo e funções do encarregado de proteção de dados é aplicável o disposto no regime jurídico relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública, que transpõe para a ordem jurídica interna a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.\n\n3 - O encarregado de proteção de dados é o ponto de contacto único dos titulares dos dados, que têm o direito de o contactar para todos os assuntos respeitantes ao tratamento de dados PNR.\n\n4 - O encarregado de proteção de dados tem acesso a todos os dados tratados pelo GIP, remetendo o caso para a autoridade de controlo quando considerar que o tratamento de dados não foi efetuado em conformidade com a lei."
+  },
+  "120266792": {
+   "fragment_id": "120108070",
+   "type": 11,
+   "heading": "Artigo 17.º — Protocolos comuns e formatos de dados reconhecidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Protocolos comuns e formatos de dados reconhecidos\n\n1 - As transferências de dados a que se refere o artigo 4.º são efetuadas por meios eletrónicos que ofereçam garantias suficientes de segurança no que respeita às medidas técnicas e de organização aplicáveis ao tratamento dos dados.\n\n2 - Um ano após a adoção pela Comissão Europeia dos protocolos comuns e dos formatos de dados reconhecidos, todas as transferências de dados PNR pelas transportadoras aéreas para o GIP passam a ser efetuadas eletronicamente através de métodos seguros conformes com esses protocolos comuns.\n\n3 - Os dados PNR são transferidos num formato de dados reconhecido, a fim de assegurar a sua legibilidade por todas as partes envolvidas.\n\n4 - As transportadoras aéreas são obrigadas a selecionar e a identificar junto do GIP o protocolo comum e o formato de dados que tencionam utilizar para as suas transferências.\n\n5 - É aplicável o disposto no n.º 1 enquanto os protocolos comuns e os formatos de dados reconhecidos não estiverem disponíveis."
+  },
+  "120266793": {
+   "fragment_id": "120108071",
+   "type": 11,
+   "heading": "Artigo 18.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sigilo profissional\n\n1 - Os responsáveis pelo tratamento de dados pessoais, bem como as pessoas que, no exercício das suas funções, tenham conhecimento dos dados pessoais recolhidos, transferidos ou tratados, ficam obrigados a sigilo profissional, mesmo após o termo das suas funções.\n\n2 - A violação do dever de sigilo é punida nos termos previstos no artigo 383.º do Código Penal."
+  },
+  "120266794": {
+   "fragment_id": "120108072",
+   "type": 11,
+   "heading": "Artigo 19.º — Violação das obrigações impostas às transportadoras aéreas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Violação das obrigações impostas às transportadoras aéreas\n\n1 - As transportadoras que não tenham transferido os dados PNR a que estão obrigadas de acordo com o artigo 4.º ou que os tenham transmitido de forma incorreta, incompleta, falsificada ou após o prazo, são punidas, por cada viagem, com coima de 20 000 (euro) a 100 000 (euro).\n\n2 - Se for efetuada em formato diferente do requerido nos termos do n.º 5 do artigo 4.º e do artigo 17.º, a transferência é punível com coimas de 10 000 (euro) a 50 000 (euro).\n\n3 - A negligência é punível.\n\n4 - A aplicação das coimas é da competência do Serviço de Estrangeiros e Fronteiras.\n\n5 - O produto das coimas reverte em 60 % para o Estado e em 40 % para o Serviço de Estrangeiros e Fronteiras.\n\n6 - É subsidiariamente aplicável o disposto no regime geral do ilícito de mera ordenação social.\n\n7 - O não cumprimento da obrigação de transferência de dados API indicados no n.º 18 do anexo I, a efetuar conjuntamente com os restantes dados PNR, é sancionado somente nos termos dos artigos 42.º a 44.º e 196.º da Lei n.º 23/2007, de 4 de julho."
+  },
+  "120266795": {
+   "fragment_id": "120108073",
+   "type": 11,
+   "heading": "Artigo 20.º — Violação das disposições relativas à proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Violação das disposições relativas à proteção de dados pessoais\n\nÀ violação das disposições relativas à proteção de dados pessoais aplica-se o regime contraordenacional previsto no regime jurídico relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública, que transpõe para a ordem jurídica interna a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016."
+  },
+  "120266796": {
+   "fragment_id": "120108074",
+   "type": 11,
+   "heading": "Artigo 21.º — Comunicação de dados estatísticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comunicação de dados estatísticos\n\n1 - São anualmente comunicadas à Comissão Europeia as seguintes informações sobre os dados PNR comunicados ao GIP:\n\na) Número total de passageiros cujos dados PNR foram objeto de recolha e de intercâmbio;\n\nb) Número de passageiros identificados sujeitos a medidas de polícia, medidas especiais de polícia ou medidas cautelares e de polícia.\n\n2 - As informações a que se refere o número anterior não podem incluir dados pessoais."
+  },
+  "120266797": {
+   "fragment_id": "120266875",
+   "type": 11,
+   "heading": "Artigo 22.º — Alteração à Lei n.º 53/2008, de 29 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Alteração à Lei n.º 53/2008, de 29 de agosto\n\nO artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, que aprova a Lei de Segurança Interna, alterada pela Lei n.º 59/2015, de 24 de junho, e pelo Decreto-Lei n.º 49/2017, de 24 de maio, passa a ter a seguinte redação:\n\n«Artigo 23.º-A\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\n6 - O PUC-CPI reúne, sob a mesma gestão, o Gabinete Nacional Sirene, o Gabinete Nacional da Interpol, a Unidade Nacional da Europol, a coordenação dos oficiais de ligação nacionais e estrangeiros, a coordenação dos Centros de Cooperação Policial e Aduaneira, os pontos de contacto decorrentes das Decisões Prüm e o Gabinete de Informações de Passageiros.\n\n7 - ...\n\n8 - ...\n\n9 - ...\n\n10 - ...\n\n11 - ...\n\n12 - ...»"
+  },
+  "120266798": {
+   "fragment_id": "120266876",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao anexo à Lei n.º 53/2008, de 29 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao anexo à Lei n.º 53/2008, de 29 de agosto\n\nO anexo à Lei n.º 53/2008, de 29 de agosto, passa a ter a seguinte redação:\n\n«Mapa de pessoal dirigente\n\n(ver documento original)"
+  },
+  "120266799": {
+   "fragment_id": "120266877",
+   "type": 11,
+   "heading": "Artigo 24.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Entrada em vigor e produção de efeitos\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos com a entrada em vigor do regime jurídico relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas autoridades competentes para efeitos de prevenção, deteção, investigação ou repressão de infrações penais ou de execução de sanções penais, incluindo a salvaguarda e a prevenção de ameaças à segurança pública, que transpõe para a ordem jurídica interna a Diretiva (UE) 2016/680 do Parlamento Europeu e do Conselho, de 27 de abril de 2016."
+  },
+  "120266801": {
+   "fragment_id": "120266879",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nDados dos registos de identificação dos passageiros (dados PNR) recolhidos pelas transportadoras aéreas a que se refere o artigo 4.º\n\n1 - Código de identificação do registo PNR.\n\n2 - Data da reserva/emissão do bilhete.\n\n3 - Data(s) da viagem prevista.\n\n4 - Nome(s).\n\n5 - Endereço e informações de contacto (número de telefone, endereço de correio eletrónico).\n\n6 - Todas as informações sobre as modalidades de pagamento, incluindo o endereço de faturação.\n\n7 - Itinerário completo para o PNR em causa.\n\n8 - Informação de passageiro frequente.\n\n9 - Agência/agente de viagens.\n\n10 - Situação do passageiro, incluindo confirmações, situação do registo, não comparência ou passageiro de última hora sem reserva.\n\n11 - Informação do PNR separada/dividida.\n\n12 - Observações gerais, designadamente todas as informações disponíveis sobre menores não acompanhados com idade inferior a 18 anos, como nome e sexo do menor, idade, língua(s) falada(s), nome e contactos da pessoa que o acompanha no momento da partida e sua relação com o menor, nome e contactos da pessoa que o acompanha no momento da chegada e sua relação com o menor, agente presente na partida e na chegada.\n\n13 - Informações sobre a emissão dos bilhetes, incluindo número dos bilhetes, data de emissão, bilhetes só de ida, dados ATFQ (Automatic Ticket Fare Quote).\n\n14 - Número do lugar e outras informações relativas ao lugar.\n\n15 - Informações sobre a partilha de código.\n\n16 - Todas as informações relativas às bagagens.\n\n17 - Número e outros nomes de passageiros que figuram no PNR.\n\n18 - Todas as informações prévias sobre os passageiros (dados API) que tenham sido recolhidas, incluindo tipo e número de documento(s), país de emissão e termo de validade do(s) documento(s), nacionalidade, nome(s) e apelido(s), sexo, data de nascimento, companhia aérea, número de voo, data de partida, data de chegada, aeroporto de partida, aeroporto de chegada, hora de partida e hora de chegada.\n\n19 - Historial completo das modificações dos dados PNR enumerados nos números anteriores."
+  },
+  "120266802": {
+   "fragment_id": "120266880",
+   "type": 14,
+   "heading": "Anexo II — Lista de infrações a que se refere a alínea k) do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Lista de infrações a que se refere a alínea k) do artigo 2.º\n\n1 - Participação em associação criminosa.\n\n2 - Tráfico de seres humanos.\n\n3 - Exploração sexual e pedopornografia.\n\n4 - Tráfico de estupefacientes e substâncias psicotrópicas.\n\n5 - Tráfico de armas, munições e explosivos.\n\n6 - Corrupção.\n\n7 - Fraude, incluindo a fraude lesiva dos interesses financeiros da União, na aceção da Convenção de 26 de julho de 1995, relativa à Proteção dos Interesses Financeiros das Comunidades Europeias.\n\n8 - Branqueamento dos produtos do crime e contrafação de moeda, incluindo o euro.\n\n9 - Criminalidade informática e cibercrime.\n\n10 - Crimes contra o ambiente, incluindo o tráfico de espécies animais ameaçadas e de espécies e variedades vegetais ameaçadas.\n\n11 - Auxílio à entrada e à permanência irregulares.\n\n12 - Homicídio voluntário, ofensas à integridade física graves.\n\n13 - Tráfico de órgãos e tecidos humanos.\n\n14 - Rapto, sequestro e tomada de reféns.\n\n15 - Furto ou roubo organizado ou à mão armada.\n\n16 - Tráfico de bens culturais, incluindo antiguidades e obras de arte.\n\n17 - Contrafação, imitação e uso ilegal de marca.\n\n18 - Falsificação de documentos administrativos e respetivo tráfico.\n\n19 - Tráfico de substâncias hormonais e de outros estimuladores de crescimento.\n\n20 - Tráfico de materiais nucleares e radioativos.\n\n21 - Violação.\n\n22 - Crimes abrangidos pela jurisdição do Tribunal Penal Internacional.\n\n23 - Desvio de avião ou navio.\n\n24 - Sabotagem.\n\n25 - Tráfico de veículos furtados ou roubados.\n\n26 - Espionagem industrial.\n\n112079533"
+  },
+  "213918832": {
+   "fragment_id": "120108056",
+   "type": 11,
+   "heading": "Artigo 3.º — Gabinete de Informações de Passageiros",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 3.º — Gabinete de Informações de Passageiros\n\n1 - É criado o Gabinete de Informações de Passageiros (GIP), como unidade nacional de informações de passageiros, no Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI), nos termos e para os efeitos do n.º 6 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n2 - Compete ao GIP, designadamente:\n\na) A recolha dos dados PNR junto das transportadoras aéreas, pela conservação e pelo tratamento desses dados, bem como pela sua transferência ou pela transferência dos resultados do seu tratamento às autoridades competentes referidas no artigo 7.º;\n\nb) O intercâmbio de dados PNR e dos resultados do tratamento desses dados com as unidades de informações de passageiros de outros Estados-Membros e com a Europol, nos termos dos artigos 8.º e 9.º\n\n3 - O Coordenador do GIP integra o Gabinete de Gestão do PUC-CPI e é nomeado pelos membros do Governo responsáveis pelas áreas da administração interna e da justiça de entre elementos dos órgãos de polícia criminal e dos serviços de segurança sob as respetivas tutelas com competência para a deteção, prevenção e investigação das infrações terroristas e da criminalidade grave, nos termos e pelo período de tempo previsto no n.º 5 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n4 - O funcionamento do GIP é assegurado por elementos da Guarda Nacional Republicana, da Polícia de Segurança Pública, da Polícia Judiciária e da Autoridade Tributária e Aduaneira, podendo integrar ainda um elemento de ligação da Polícia Marítima, nos termos do n.º 9 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n5 - O produto das coimas reverte em 60 % para o Estado e em 40 % para a Polícia de Segurança Pública.\n\n6 - À composição e à orgânica do GIP aplica-se o artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual, e o Decreto Regulamentar n.º 7/2017, de 7 de agosto.\n\n7 - Os procedimentos e soluções tecnológicas adequados para a transferência, tratamento e intercâmbio dos dados PNR, a que se refere o n.º 7 do artigo 13.º, são estabelecidos por portaria do Primeiro-Ministro e dos membros do Governo responsáveis pelas áreas da presidência do Conselho de Ministros, da administração interna, da justiça e do planeamento e infraestruturas, de acordo com a lista dos protocolos comuns e dos formatos de dados reconhecidos, elaborada pela Comissão Europeia, e mediante parecer prévio da Comissão Nacional da Proteção de Dados (CNPD).\n\n8 - A designação dos trabalhadores autorizados a proceder ao tratamento de dados é efetuada por despacho do Secretário-Geral do Sistema de Segurança Interna ou, se necessário, mediante despacho deste e dos membros do Governo de cujas áreas da governação provenham os funcionários a designar.\n\n9 - A formação e a credenciação dos trabalhadores autorizados a efetuar o tratamento de dados são da competência do Coordenador do GIP.\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213918833": {
+   "fragment_id": "120108072",
+   "type": 11,
+   "heading": "Artigo 19.º — Violação das obrigações impostas às transportadoras aéreas",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 19.º — Violação das obrigações impostas às transportadoras aéreas\n\n1 - As transportadoras que não tenham transferido os dados PNR a que estão obrigadas de acordo com o artigo 4.º ou que os tenham transmitido de forma incorreta, incompleta, falsificada ou após o prazo, são punidas, por cada viagem, com coima de 20 000 (euro) a 100 000 (euro).\n\n2 - Se for efetuada em formato diferente do requerido nos termos do n.º 5 do artigo 4.º e do artigo 17.º, a transferência é punível com coimas de 10 000 (euro) a 50 000 (euro).\n\n3 - A negligência é punível.\n\n4 - A aplicação das coimas é da competência da Polícia de Segurança Pública.\n\n5 - O produto das coimas reverte em 60 % para o Estado e em 40 % para a Polícia de Segurança Pública.\n\n6 - É subsidiariamente aplicável o disposto no regime geral do ilícito de mera ordenação social.\n\n7 - O não cumprimento da obrigação de transferência de dados API indicados no n.º 18 do anexo I, a efetuar conjuntamente com os restantes dados PNR, é sancionado somente nos termos dos artigos 42.º a 44.º e 196.º da Lei n.º 23/2007, de 4 de julho.\n\n> Alterado pelo/a Artigo 40.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "120266800": {
+   "fragment_id": "120266878",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 7 de dezembro de 2018.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 11 de fevereiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 15 de fevereiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

@@ -1,0 +1,1385 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:158178:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-114991852",
+ "dre_path": "/dr/detalhe/decreto-lei/133-a-1997-158178",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1997-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114998851",
+    "114998852",
+    "114998853",
+    "114998854",
+    "114998855",
+    "114998856",
+    "114998857",
+    "114998858",
+    "114998859",
+    "114998860",
+    "114998861",
+    "114998862",
+    "114998863",
+    "114998864",
+    "114998865",
+    "114998866",
+    "114998867",
+    "114998868",
+    "114998869",
+    "114998870",
+    "114998871",
+    "114998872",
+    "114998873",
+    "114998874",
+    "115002375",
+    "115002376",
+    "115002377",
+    "115002378",
+    "115002379",
+    "115002380",
+    "115002381",
+    "115002382",
+    "115002383",
+    "115002384",
+    "115002385",
+    "115002386",
+    "115002387",
+    "115002388",
+    "115002389",
+    "115002390",
+    "115002391",
+    "115002392",
+    "115002393",
+    "115002394",
+    "115002395",
+    "115002396",
+    "115002397",
+    "115002398",
+    "115002399",
+    "115002400",
+    "115002401",
+    "115002402",
+    "115002403",
+    "115002404",
+    "115002405",
+    "115002406",
+    "115002407",
+    "115002408",
+    "115002409"
+   ]
+  },
+  {
+   "date": "1999-08-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:358169:por",
+     "title": "Decreto-Lei n.º 268/99",
+     "published": "1999-07-15",
+     "dre_path": "/dr/detalhe/decreto-lei/268-1999-358169"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "114998851",
+    "114998852",
+    "114998853",
+    "114998854",
+    "114998855",
+    "114998856",
+    "114998857",
+    "114998858",
+    "114998859",
+    "114998860",
+    "114998861",
+    "114998862",
+    "114998863",
+    "114998864",
+    "114998865",
+    "114998866",
+    "114998867",
+    "114998868",
+    "114998869",
+    "114998870",
+    "114998871",
+    "114998872",
+    "114998873",
+    "114998874",
+    "115002375",
+    "115002376",
+    "115002377",
+    "115002378",
+    "115002379",
+    "115002380",
+    "115002415",
+    "115002382",
+    "115002383",
+    "115002384",
+    "115002385",
+    "115002386",
+    "115002387",
+    "115002388",
+    "115002389",
+    "115002390",
+    "115002391",
+    "115002392",
+    "115002393",
+    "115002394",
+    "115002395",
+    "115002396",
+    "115002397",
+    "115002398",
+    "115002399",
+    "115002400",
+    "115002401",
+    "115002402",
+    "115002403",
+    "115002404",
+    "115002405",
+    "115002406",
+    "115002407",
+    "115002408",
+    "115002409",
+    "115002410"
+   ]
+  },
+  {
+   "date": "2007-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:518425:por",
+     "title": "Decreto-Lei n.º 64/2007",
+     "published": "2007-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/64-2007-518425"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Capítulo II",
+    "Revoga Capítulo III",
+    "Revoga Capítulo V",
+    "Revoga Capítulo VI",
+    "Revoga Capítulo VII"
+   ],
+   "fragments": [
+    "114998851",
+    "115002474",
+    "115003975",
+    "115003976",
+    "115003977",
+    "115003978",
+    "115003979",
+    "115003980",
+    "115003981",
+    "115003982",
+    "115003983",
+    "115003984",
+    "115003985",
+    "115003986",
+    "115003987",
+    "115003988",
+    "115003989",
+    "115003990",
+    "115003991",
+    "115003992",
+    "115003993",
+    "115003994",
+    "115003995",
+    "115003996",
+    "115003997",
+    "115003998",
+    "115003999",
+    "115004000",
+    "115004001",
+    "115004002",
+    "115004003",
+    "115004004",
+    "115002383",
+    "115002384",
+    "115002385",
+    "115002386",
+    "115002387",
+    "115002388",
+    "115002389",
+    "115002390",
+    "115002391",
+    "115002392",
+    "115002393",
+    "115004005",
+    "115004006",
+    "115004007",
+    "115004008",
+    "115004009",
+    "115004010",
+    "115004011",
+    "115004012",
+    "115004013",
+    "115004014",
+    "115004015",
+    "115004016",
+    "115004017",
+    "115004018",
+    "115004019",
+    "115004020",
+    "115002410"
+   ]
+  },
+  {
+   "date": "2014-05-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572157:por",
+     "title": "Decreto-Lei n.º 33/2014",
+     "published": "2014-03-04",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2014-572157"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo IV"
+   ],
+   "fragments": [
+    "114998851",
+    "115002474",
+    "115003975",
+    "115003976",
+    "115003977",
+    "115003978",
+    "115003979",
+    "115003980",
+    "115003981",
+    "115003982",
+    "115003983",
+    "115003984",
+    "115003985",
+    "115003986",
+    "115003987",
+    "115003988",
+    "115003989",
+    "115003990",
+    "115003991",
+    "115003992",
+    "115003993",
+    "115003994",
+    "115003995",
+    "115003996",
+    "115003997",
+    "115003998",
+    "115003999",
+    "115004000",
+    "115004001",
+    "115004002",
+    "115004003",
+    "115004004",
+    "115004399",
+    "115004400",
+    "115004401",
+    "115004402",
+    "115004403",
+    "115004404",
+    "115004405",
+    "115004406",
+    "115004407",
+    "115004408",
+    "115004409",
+    "115004005",
+    "115004006",
+    "115004007",
+    "115004008",
+    "115004009",
+    "115004010",
+    "115004011",
+    "115004012",
+    "115004013",
+    "115004014",
+    "115004015",
+    "115004016",
+    "115004017",
+    "115004018",
+    "115004019",
+    "115004020",
+    "115002410"
+   ]
+  }
+ ],
+ "fragments": {
+  "114998851": {
+   "fragment_id": "114991853",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 133-A/97\n\nde 30 de Maio\n\nO exercício efectivo do direito de cidadania por todas as pessoas constitui a prioridade fundamental do XIII Governo Constitucional.\n\nTal desiderato alcança-se, designadamente, com a promoção do bem-estar dos utentes dos equipamentos que prestam apoio social.\n\nPara o efeito, é importante a implementação de um quadro legal que permita e fomente as respostas de qualidade e iniba aquelas que a não possuam.\n\nO Decreto-Lei n.º 30/89, de 24 de Janeiro, no âmbito da iniciativa privada lucrativa, concebeu sanções desadequadas do quadro legal do regime geral das contra-ordenações com que se teria de harmonizar e burocratizou o processo de licenciamento e controlo de funcionamento.\n\nAssim, o presente diploma substitui o Decreto-Lei n.º 30/89, de 24 de Janeiro, estabelecendo uma nova regulamentação dos estabelecimentos e serviços privados em que sejam exercidas actividades de apoio social do âmbito da segurança social.\n\nSão excluídos do âmbito da aplicação do diploma as instituições particulares de solidariedade social abrangidas por acordos de cooperação, por se entender que através dos acordos se poderá atingir objectivo idêntico ao do licenciamento, no que respeita à exigência de condições adequadas de funcionamento.\n\nSimplificou-se a regulamentação do processo de licenciamento e das condições da respectiva concessão, clarificando-se conceitos e simplificando-se procedimentos.\n\nActualizaram-se significativamente os valores das coimas, tendo em conta não só a sua desactualização mas também a necessidade de se estabelecerem valores que efectivamente superem os benefícios que eventualmente possam ser auferidos pelos infractores, em reforço do efeito preventivo das coimas, nos termos da autorização concedida pela Lei n.º 4/97, de 10 de Fevereiro.\n\nAutonomizou-se claramente a medida administrativa de encerramento do estabelecimento, por forma a evitarem-se as confusões, suscitadas na vigência do Decreto-Lei n.º 30/89, entre aquela medida e idêntica providência aplicável em processo de contra-ordenação (a sanção acessória de encerramento).\n\nPrevê-se ainda um período de transição para a adequação dos estabelecimentos já em funcionamento às normas deste diploma e dos respectivos diplomas regulamentares, pretendendo-se assim incentivar a regularização da situação daqueles estabelecimentos no período considerado, durante o qual se suspenderá a aplicação aos mesmos das sanções legalmente previstas.\n\nAssim:\n\nNo uso da autorização legislativa concedida pela Lei n.º 4/97, de 10 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114998852": {
+   "fragment_id": "114991854",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Âmbito e objectivos"
+  },
+  "114998853": {
+   "fragment_id": "114991855",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente diploma define o regime de licenciamento e de fiscalização da prestação de serviços e dos estabelecimentos, adiante designados por estabelecimentos, em que sejam exercidas actividades de apoio social do âmbito da segurança social relativas a crianças, jovens, pessoas idosas ou pessoas com deficiência, bem como os destinados à prevenção e reparação de situações de carência, de disfunção e de marginalização social."
+  },
+  "114998854": {
+   "fragment_id": "114991856",
+   "type": 11,
+   "heading": "Artigo 2.º — Estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Estabelecimentos\n\n1 - As actividades de apoio social a que se refere o artigo anterior podem ser exercidas em creches, centros de actividades de tempos livres, lares para crianças e jovens, lares para idosos, centros de dia, lares para pessoas com deficiência, centros de actividades ocupacionais para deficientes e através de serviços de apoio domiciliário.\n\n2 - Consideram-se ainda abrangidos pelo presente diploma os estabelecimentos de apoio social com diferente designação, desde que prossigam objectivos semelhantes aos dos estabelecimentos referidos no n.º 1 do artigo 1.º"
+  },
+  "114998855": {
+   "fragment_id": "114991857",
+   "type": 11,
+   "heading": "Artigo 3.º — Estabelecimentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estabelecimentos excluídos\n\nO presente diploma não se aplica:\n\na) Aos estabelecimentos das instituições particulares de solidariedade social em relação aos quais hajam sido celebrados acordos de cooperação com os centros regionais de segurança social, adiante designados por centros regionais;\n\nb) Aos estabelecimentos oficiais geridos por organismos da Administração Pública, central, regional e local."
+  },
+  "114998856": {
+   "fragment_id": "114991858",
+   "type": 11,
+   "heading": "Artigo 4.º — Denominação dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Denominação dos estabelecimentos\n\nCada estabelecimento abrangido por este diploma deve adoptar uma denominação própria que permita uma perfeita individualização, por forma a não se confundir com a de outro já existente, público ou privado."
+  },
+  "114998857": {
+   "fragment_id": "114991859",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nOs estabelecimentos referidos nos artigos anteriores ficam sujeitos à inspecção e fiscalização dos serviços competentes do Ministério da Solidariedade e Segurança Social."
+  },
+  "114998858": {
+   "fragment_id": "114991860",
+   "type": 1,
+   "heading": "Capítulo II — Do licenciamento dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do licenciamento dos estabelecimentos"
+  },
+  "114998859": {
+   "fragment_id": "114991861",
+   "type": 11,
+   "heading": "Artigo 6.º — Licenciamento dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Licenciamento dos estabelecimentos\n\n1 - Nenhum estabelecimento pode iniciar a sua actividade sem se encontrar licenciado.\n\n2 - Os estabelecimentos que se encontrem licenciados são considerados de utilidade social e podem beneficiar de isenções fiscais e outras regalias previstas na lei."
+  },
+  "114998860": {
+   "fragment_id": "114991862",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência para o licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência para o licenciamento\n\n1 - O licenciamento dos estabelecimentos é titulado por alvará emitido, a requerimento da entidade interessada, pelo centro regional em cuja área se localize o estabelecimento.\n\n2 - O licenciamento dos estabelecimentos que desenvolvam actividades que transcendam a área de um centro regional é da competência do centro regional da área da localização da sede ou do domicílio da entidade requerente.\n\n3 - É entidade interessada, para efeitos do presente diploma, toda a pessoa singular ou colectiva que explore o estabelecimento como proprietária, arrendatária ou a qualquer outro título."
+  },
+  "114998861": {
+   "fragment_id": "114991863",
+   "type": 11,
+   "heading": "Artigo 8.º — Alvará de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alvará de licenciamento\n\nDo alvará de licenciamento constam a denominação do estabelecimento e sua localização, a identificação da entidade requerente, a actividade prosseguida e a lotação máxima autorizada."
+  },
+  "114998862": {
+   "fragment_id": "114991864",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições de licenciamento\n\nO licenciamento dos estabelecimentos depende das seguintes condições:\n\na) Idoneidade do requerente e do pessoal ao seu serviço;\n\nb) Instalações e equipamento adequados nos termos das normas em vigor;\n\nc) Pessoal técnico e auxiliar necessário ao funcionamento do estabelecimento nos termos das normas em vigor;\n\nd) Situação contributiva do requerente perante a segurança social regularizada."
+  },
+  "114998863": {
+   "fragment_id": "114991865",
+   "type": 11,
+   "heading": "Artigo 10.º — Idoneidade e impedimentos do requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Idoneidade e impedimentos do requerente\n\n1 - Não poderão requerer o licenciamento de estabelecimentos as pessoas relativamente às quais se verifique algum dos seguintes impedimentos:\n\na) Terem sido interditadas do exercício das actividades em qualquer estabelecimento abrangido pelo presente diploma;\n\nb) Terem sido condenadas, por sentença com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição de profissão relacionada com a actividade dos estabelecimentos.\n\n2 - Tratando-se de pessoa colectiva, a idoneidade e os impedimentos deverão ser aferidos nas pessoas dos administradores ou sócios gerentes dos estabelecimentos.\n\n3 - A idoneidade e os impedimentos identificados no n.º 1 são extensivos aos trabalhadores ao seu serviço."
+  },
+  "114998864": {
+   "fragment_id": "114991866",
+   "type": 11,
+   "heading": "Artigo 11.º — Parecer técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Parecer técnico\n\n1 - Para a implantação de qualquer estabelecimento, os interessados podem requerer ao centro regional um parecer técnico prévio relativo às condições necessárias ao desenvolvimento da actividade pretendida.\n\n2 - O requerimento a solicitar a emissão de parecer técnico deve ser acompanhado da planta das instalações existentes ou a adquirir, com a indicação das dimensões, número de divisões e utilização pretendida, bem como da lotação proposta e do quadro do pessoal previsto para o estabelecimento.\n\n3 - O parecer técnico deve ser emitido no prazo de 60 dias a contar da recepção do requerimento."
+  },
+  "114998865": {
+   "fragment_id": "114991867",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Requerimento\n\n1 - Do requerimento referido no n.º 1 do artigo 7.º deve constar obrigatoriamente:\n\na) O nome, a firma ou a denominação do requerente;\n\nb) A residência ou sede do requerente;\n\nc) O número fiscal de contribuinte do requerente;\n\nd) A localização do estabelecimento e a respectiva denominação;\n\ne) As actividades previstas e grupo etário a que se destinam;\n\nf) A lotação proposta para o estabelecimento.\n\n2 - Tratando-se de pessoa singular, o requerente deve indicar ainda a filiação, idade, estado civil, nacionalidade, profissão e habilitações literárias."
+  },
+  "114998866": {
+   "fragment_id": "114991868",
+   "type": 11,
+   "heading": "Artigo 13.º — Documentos obrigatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Documentos obrigatórios\n\n1 - O requerimento deve ser acompanhado dos documentos comprovativos da identificação do requerente, da adequação das instalações e do cumprimento das condições de funcionamento do estabelecimento nos termos dos artigos seguintes.\n\n2 - Os centros regionais podem ainda solicitar, complementarmente, quaisquer outros documentos que considerem imprescindíveis à avaliação das condições de licenciamento dos estabelecimentos."
+  },
+  "114998867": {
+   "fragment_id": "114991869",
+   "type": 11,
+   "heading": "Artigo 14.º — Documentos relativos ao requerente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Documentos relativos ao requerente\n\n1 - São documentos necessários à avaliação dos requisitos respeitantes ao requerente:\n\na) Fotocópia do cartão de pessoa colectiva ou de empresário em nome individual;\n\nb) Certificado do registo criminal do requerente e dos seus representantes e, bem assim, das pessoas identificadas no n.º 2 do artigo 10.º;\n\nc) Certidão do acto constitutivo e estatutos ou do registo comercial, quando exigível.\n\n2 - A certidão do registo referida na alínea c) do número anterior, quando respeite a pessoa colectiva constituída há menos de seis meses, poderá ser substituída pela prova da apresentação a registo, sem prejuízo da apresentação da certidão logo que proferida decisão sobre o pedido de registo."
+  },
+  "114998868": {
+   "fragment_id": "114991870",
+   "type": 11,
+   "heading": "Artigo 15.º — Documentos respeitantes às instalações e ao pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Documentos respeitantes às instalações e ao pessoal\n\nSão documentos necessários à avaliação dos requisitos respeitantes às instalações e condições de funcionamento dos estabelecimentos:\n\na) Documento comprovativo do título de posse ou de utilização das instalações;\n\nb) Planta das instalações e respectiva memória descritiva;\n\nc) Auto ou certificado de vistoria sanitária;\n\nd) Licença de utilização emitida pela câmara municipal competente;\n\ne) Declaração comprovativa das condições de segurança exigíveis;\n\nf) Relação, com a indicação das habilitações literárias e profissionais, do pessoal técnico e auxiliar previsto para o estabelecimento e respectivo horário de trabalho;\n\ng) Documento comprovativo das habilitações profissionais do director técnico."
+  },
+  "114998869": {
+   "fragment_id": "114991871",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamento interno\n\nO requerimento deverá ainda ser acompanhado de um projecto de regulamento interno, conforme as normas regulamentares aplicáveis, do qual deve constar, nomeadamente:\n\na) As actividades a desenvolver;\n\nb) As condições de admissão dos utentes;\n\nc) As regras de funcionamento;\n\nd) Os direitos e deveres dos utentes;\n\ne) O preçário e serviços correspondentes."
+  },
+  "114998870": {
+   "fragment_id": "114991872",
+   "type": 11,
+   "heading": "Artigo 17.º — Vistoria técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Vistoria técnica\n\nO licenciamento é precedido de vistoria técnica efectuada pelo centro regional, tendo em vista a avaliação das condições do licenciamento."
+  },
+  "114998871": {
+   "fragment_id": "114991873",
+   "type": 11,
+   "heading": "Artigo 18.º — Decisão do centro regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Decisão do centro regional\n\n1 - O centro regional profere a sua decisão no prazo máximo de 90 dias a contar da recepção do requerimento.\n\n2 - Deferido o requerimento, será emitido alvará em impresso de modelo próprio aprovado pelo ministro da tutela, assinado pelo presidente do conselho directivo do centro regional e autenticado com o selo branco."
+  },
+  "114998872": {
+   "fragment_id": "114991874",
+   "type": 11,
+   "heading": "Artigo 19.º — Autorização provisória de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Autorização provisória de funcionamento\n\n1 - Não se encontrando reunidas todas as condições técnicas de funcionamento exigidas para a concessão do alvará, mas sendo seguramente previsível que podem ser satisfeitas no prazo de 180 dias, pode ser concedida uma autorização provisória de funcionamento, que deve especificar as condições a satisfazer pelo requerente.\n\n2 - A autorização provisória é válida pelo prazo de 180 dias, prorrogável por uma só vez, mediante requerimento fundamentado.\n\n3 - Se não forem satisfeitas as condições especificadas na autorização provisória dentro do prazo referido no número anterior, será indeferido o pedido de licenciamento.\n\n4 - Enquanto durar a autorização provisória de funcionamento, os estabelecimentos podem beneficiar das isenções e regalias referidas no n.º 2 do artigo 6.º"
+  },
+  "114998873": {
+   "fragment_id": "115002275",
+   "type": 11,
+   "heading": "Artigo 20.º — Indeferimento do pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Indeferimento do pedido\n\nSem prejuízo do disposto no artigo 19.º, o pedido de licenciamento será indeferido quando não sejam cumpridas as condições referidas no artigo 9.º ou quando não sejam apresentados os documentos referidos no artigo 13.º"
+  },
+  "114998874": {
+   "fragment_id": "115002276",
+   "type": 11,
+   "heading": "Artigo 21.º — Inactividade do estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Inactividade do estabelecimento\n\n1 - A inactividade do estabelecimento por um prazo superior a um ano ou o encerramento do estabelecimento implica a suspensão do alvará.\n\n2 - Logo que se alterem as razões que determinaram a suspensão do alvará, pode a entidade proprietária requerer o termo da suspensão.\n\n3 - O centro regional decide do pedido do termo de suspensão mediante prova que considere adequada e após vistoria a realizar nos termos do artigo 17.º\n\n4 - A suspensão do alvará por um período superior a cinco anos determina o seu cancelamento."
+  },
+  "115002375": {
+   "fragment_id": "115002277",
+   "type": 11,
+   "heading": "Artigo 22.º — Recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Recurso\n\nNo caso de recusa do alvará, podem os interessados, nos termos gerais de direito, recorrer da deliberação do centro regional para os tribunais competentes."
+  },
+  "115002376": {
+   "fragment_id": "115002278",
+   "type": 11,
+   "heading": "Artigo 23.º — Pagamento de taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Pagamento de taxas\n\n1 - Pelos actos relativos ao processo de licenciamento dos estabelecimentos são devidas taxas, cujo objecto e montantes são definidos por portaria do ministro da tutela.\n\n2 - Pelo parecer técnico referido no artigo 11.º não é devida qualquer taxa."
+  },
+  "115002377": {
+   "fragment_id": "115002279",
+   "type": 1,
+   "heading": "Capítulo III — Das obrigações das entidades requerentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das obrigações das entidades requerentes"
+  },
+  "115002378": {
+   "fragment_id": "115002280",
+   "type": 11,
+   "heading": "Artigo 24.º — Trespasse ou cessão de exploração do estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Trespasse ou cessão de exploração do estabelecimento\n\nNo caso de trespasse, cessão ou concessão de exploração do estabelecimento, a escritura notarial não pode realizar-se sem que seja exibida certidão emitida pelo centro regional comprovativa do licenciamento ou da autorização provisória de funcionamento."
+  },
+  "115002379": {
+   "fragment_id": "115002281",
+   "type": 11,
+   "heading": "Artigo 25.º — Substituição do alvará",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Substituição do alvará\n\n1 - Quando se verifique a alteração da denominação do estabelecimento, da identificação da entidade requerente ou da lotação máxima autorizada, deverá ser requerida, no prazo de 30 dias, a substituição do alvará.\n\n2 - Com o requerimento devem ser apresentados os documentos comprovativos da alteração e, se esta respeitar à entidade requerente, todos os documentos obrigatórios necessários à instrução de um pedido de licenciamento."
+  },
+  "115002380": {
+   "fragment_id": "115002282",
+   "type": 11,
+   "heading": "Artigo 26.º — Afixação de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Afixação de documentos\n\nOs proprietários ou titulares dos estabelecimentos são obrigados a afixar em local bem visível do público os seguintes documentos:\n\na) Alvará ou autorização provisória de funcionamento;\n\nb) Mapa de pessoal e respectivos horários, de harmonia com a legislação aplicável;\n\nc) Nome do director técnico do estabelecimento;\n\nd) Horário de funcionamento do estabelecimento;\n\ne) Regulamento interno;\n\nf) Mapa de ementas;\n\ng) Preçário, com indicação dos valores mínimos e máximos praticados."
+  },
+  "115002381": {
+   "fragment_id": "115002283",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigações das entidades gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Obrigações das entidades gestoras\n\nOs proprietários ou titulares dos estabelecimentos são obrigados a:\n\na) Facultar aos serviços dos centros regionais o acesso a todas as dependências do estabelecimento e as informações indispensáveis à avaliação e fiscalização do seu funcionamento;\n\nb) Remeter aos centros regionais os mapas estatísticos dos utentes e a relação do pessoal existente no estabelecimento, bem como o preçário em vigor;\n\nc) Comunicar, no prazo de 30 dias, qualquer alteração dos elementos referidos no artigo 8.º e, bem assim, a cessação de actividades por iniciativa dos proprietários;\n\nd) Remeter aos centros regionais as alterações ao regulamento interno do estabelecimento até 30 dias antes da sua entrada em vigor."
+  },
+  "115002382": {
+   "fragment_id": "115002284",
+   "type": 11,
+   "heading": "Artigo 28.º — Contratos a celebrar com os utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Contratos a celebrar com os utentes\n\nTratando-se de estabelecimentos a funcionar em regime de internato, devem ser celebrados, por escrito, contratos de alojamento e prestação de serviço com os utentes ou seus familiares, donde constem os principais direitos e obrigações de ambas as partes."
+  },
+  "115002383": {
+   "fragment_id": "115002285",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Regime sancionatório"
+  },
+  "115002384": {
+   "fragment_id": "115002286",
+   "type": 11,
+   "heading": "Artigo 29.º — Das contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Das contra-ordenações\n\nAs infracções ao disposto no presente diploma constituem contra-ordenações, nos termos dos artigos seguintes."
+  },
+  "115002385": {
+   "fragment_id": "115002287",
+   "type": 11,
+   "heading": "Artigo 30.º — Contra-ordenação por falta de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Contra-ordenação por falta de licenciamento\n\nA abertura ou o funcionamento de estabelecimento que não se encontre licenciado nem disponha de autorização provisória de funcionamento válida constitui contra-ordenação, punível com coima de 500000$00 a 2000000$00."
+  },
+  "115002386": {
+   "fragment_id": "115002288",
+   "type": 11,
+   "heading": "Artigo 31.º — Contra-ordenações relativas às instalações e ao funcionamento dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Contra-ordenações relativas às instalações e ao funcionamento dos estabelecimentos\n\nConstituem contra-ordenações, puníveis com coima de 200000$00 a 1000000$00:\n\na) A inadequação das instalações, bem como as deficientes condições de higiene e segurança, face aos requisitos estabelecidos;\n\nb) A inexistência injustificada do pessoal técnico e auxiliar indicado no respectivo mapa;\n\nc) A alimentação claramente deficiente para as necessidades dos utentes;\n\nd) O excesso da lotação em relação à capacidade autorizada para o estabelecimento;\n\ne) A manifesta degradação qualitativa dos cuidados e tratamentos prestados aos utentes;\n\nf) O impedimento das acções de fiscalização;\n\ng) A violação de quaisquer outras normas ou exigências legais."
+  },
+  "115002387": {
+   "fragment_id": "115002289",
+   "type": 11,
+   "heading": "Artigo 32.º — Contra-ordenações por incumprimento de obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contra-ordenações por incumprimento de obrigações\n\nConstitui contra-ordenação, punível com coima de 50000$00 a 150000$00, o incumprimento de qualquer das obrigações previstas nos artigos 25.º, 26.º, 27.º e 28.º"
+  },
+  "115002388": {
+   "fragment_id": "115002290",
+   "type": 11,
+   "heading": "Artigo 33.º — Negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Negligência\n\nNas contra-ordenações previstas no presente diploma a negligência é sempre punível."
+  },
+  "115002389": {
+   "fragment_id": "115002291",
+   "type": 11,
+   "heading": "Artigo 34.º — Limites mínimos e máximos das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Limites mínimos e máximos das coimas\n\nOs limites mínimos e máximos das coimas previstas neste diploma aplicam-se quer às pessoas singulares quer às pessoas colectivas, sendo reduzidos a metade quando aplicáveis a entidades que não tenham finalidade lucrativa ou nos casos de negligência."
+  },
+  "115002390": {
+   "fragment_id": "115002292",
+   "type": 11,
+   "heading": "Artigo 35.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Sanções acessórias\n\nSimultaneamente com a coima poderão ser aplicadas as seguintes sanções acessórias:\n\na) Interdição de exercer a actividade em quaisquer estabelecimentos abrangidos pelo presente diploma;\n\nb) Privação do direito a subsídio ou benefício outorgado por entidade ou serviço público;\n\nc) Encerramento do estabelecimento e suspensão do alvará ou da autorização provisória."
+  },
+  "115002391": {
+   "fragment_id": "115002293",
+   "type": 11,
+   "heading": "Artigo 36.º — Competências para aplicação das coimas e sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Competências para aplicação das coimas e sanções acessórias\n\n1 - A instrução dos processos de contra-ordenação é da competência dos centros regionais.\n\n2 - A decisão dos mesmos processos é da competência do presidente do respectivo centro regional."
+  },
+  "115002392": {
+   "fragment_id": "115002294",
+   "type": 11,
+   "heading": "Artigo 37.º — Pagamento das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Pagamento das coimas\n\nO pagamento das coimas não dispensa a entidade proprietária do estabelecimento de dar cumprimento às obrigações impostas por força da aplicação deste diploma."
+  },
+  "115002393": {
+   "fragment_id": "115002295",
+   "type": 11,
+   "heading": "Artigo 38.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Publicidade\n\n1 - Das decisões definitivas que apliquem coima de montante igual ou superior a 200 000$00 ou determinem o encerramento do estabelecimento será sempre dada publicidade, promovida pelo centro regional.\n\n2 - A publicidade é efectuada através de publicação do extracto da decisão definitiva no jornal da localidade ou, na sua falta, no da localidade mais próxima, bem como da afixação de edital, por período não inferior a 30 dias, no próprio estabelecimento, em local bem visível ao público.\n\n3 - As despesas decorrentes da publicidade referida nos números anteriores são custeadas pelo infractor."
+  },
+  "115002394": {
+   "fragment_id": "115002296",
+   "type": 1,
+   "heading": "Capítulo V — Do encerramento administrativo dos estabelecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Do encerramento administrativo dos estabelecimentos"
+  },
+  "115002395": {
+   "fragment_id": "115002297",
+   "type": 11,
+   "heading": "Artigo 39.º — Encerramento imediato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Encerramento imediato\n\n1 - Pode ser determinado o encerramento do estabelecimento quando se verifique qualquer das seguintes condições:\n\na) Apresente graves condições de insalubridade, inadequação das instalações ou deficientes condições de segurança, higiene e conforto dos utentes;\n\nb) Inicie a actividade ou se mantenha em funcionamento sem se encontrar licenciado nos termos do artigo 6.º ou autorizado nos termos previstos no artigo 19.º\n\n2 - A medida do encerramento implica automaticamente a caducidade do alvará ou da licença de autorização provisória de funcionamento, bem como a cessação dos benefícios ou regalias previstos na lei."
+  },
+  "115002396": {
+   "fragment_id": "115002298",
+   "type": 11,
+   "heading": "Artigo 40.º — Competência para a determinação do encerramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Competência para a determinação do encerramento\n\n1 - O encerramento do estabelecimento nos termos do artigo anterior compete ao órgão gestor do centro regional, mediante deliberação fundamentada.\n\n2 - Para a efectivação do encerramento do estabelecimento o centro regional pode solicitar a intervenção das autoridades administrativas e policiais competentes.\n\n3 - A medida administrativa de encerramento do estabelecimento não prejudica a aplicação das coimas relativas às contra-ordenações previstas no presente diploma."
+  },
+  "115002397": {
+   "fragment_id": "115002299",
+   "type": 1,
+   "heading": "Capítulo VI — Do acompanhamento e da fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Do acompanhamento e da fiscalização"
+  },
+  "115002398": {
+   "fragment_id": "115002300",
+   "type": 11,
+   "heading": "Artigo 41.º — Acompanhamento técnico-social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Acompanhamento técnico-social\n\n1 - Compete ao centro regional acompanhar e apoiar tecnicamente a organização e o funcionamento dos estabelecimentos, verificando, designadamente:\n\na) A conformidade das actividades prosseguidas com as autorizadas no processo de licenciamento;\n\nb) A qualidade dos serviços prestados aos utentes, nomeadamente no que se refere a condições de instalação e alojamento, adequação do equipamento ao número e tipo de utentes, alimentação e cuidados de saúde e de higiene;\n\nc) A qualidade de vida no estabelecimento, nomeadamente quanto à participação e ocupação dos utentes.\n\n2 - A avaliação das condições de organização e funcionamento dos estabelecimentos, que poderá ser feita com o respectivo director técnico, deverá ser objecto de relatório do centro regional, de que será dado conhecimento à entidade proprietária ou titular do estabelecimento no prazo de 30 dias após a conclusão da avaliação."
+  },
+  "115002399": {
+   "fragment_id": "115002301",
+   "type": 11,
+   "heading": "Artigo 42.º — Colaboração com serviços oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Colaboração com serviços oficiais\n\nPara a avaliação das condições previstas no artigo anterior e designadamente das condições de salubridade e segurança, acondicionamento dos géneros alimentícios e cuidados de saúde, o centro regional pode solicitar a intervenção dos serviços competentes de outros ministérios."
+  },
+  "115002400": {
+   "fragment_id": "115002302",
+   "type": 11,
+   "heading": "Artigo 43.º — Acções de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Acções de fiscalização\n\nSem prejuízo da acção inspectiva da competência da Inspecção-Geral da Segurança Social, compete aos centros regionais, no âmbito da acção fiscalizadora dos estabelecimentos abrangidos por este diploma:\n\na) Vigiar o cumprimento das normas legais relativas ao licenciamento e às condições de funcionamento dos estabelecimentos;\n\nb) Instaurar processos de contra-ordenação pelas infracções de que tenha conhecimento;\n\nc) Promover e acompanhar a execução das sanções que tenham sido ordenadas;\n\nd) Articular-se com outros serviços ou organismos da Administração Pública, tendo em vista o cumprimento das disposições legais aplicáveis aos estabelecimentos."
+  },
+  "115002401": {
+   "fragment_id": "115002303",
+   "type": 11,
+   "heading": "Artigo 44.º — Serviços de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Serviços de fiscalização\n\n1 - Para a prossecução da acção fiscalizadora, o centro regional deve dispor de equipas multidisciplinares, constituídas por pessoal técnico de formação diversificada.\n\n2 - O pessoal que integre o serviço de fiscalização dos estabelecimentos fica abrangido pelo disposto nos artigos 3.º e 4.º do Decreto Regulamentar n.º 54/83, de 23 de Junho.\n\n3 - O referido pessoal deve ser portador do respectivo cartão de identidade, de modelo a aprovar por portaria do ministro da tutela."
+  },
+  "115002402": {
+   "fragment_id": "115002304",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "115002403": {
+   "fragment_id": "115002305",
+   "type": 11,
+   "heading": "Artigo 45.º — Publicidade de actos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Publicidade de actos\n\n1 - O centro regional promoverá a publicação no Diário da República e no órgão de imprensa de maior expansão na localidade da sede dos estabelecimentos dos seguintes actos:\n\na) Concessão do alvará e sua substituição;\n\nb) Suspensão e cancelamento do alvará;\n\nc) Encerramento do estabelecimento.\n\n2 - Os custos com as publicações referidas nos números anteriores serão suportados pelo proprietário do estabelecimento."
+  },
+  "115002404": {
+   "fragment_id": "115002306",
+   "type": 11,
+   "heading": "Artigo 46.º — Condições de instalação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Condições de instalação e funcionamento\n\nAs normas que regulam as condições de instalação e funcionamento dos estabelecimentos constam de diplomas autónomos."
+  },
+  "115002405": {
+   "fragment_id": "115002307",
+   "type": 11,
+   "heading": "Artigo 47.º — Adequação dos estabelecimentos existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Adequação dos estabelecimentos existentes\n\n1 - Os estabelecimentos que se encontrem em funcionamento à data da entrada em vigor do presente diploma, ainda que detentores de alvará, devem adequar-se às condições estabelecidas neste decreto-lei e demais legislação aplicável.\n\n2 - Nos diplomas previstos no artigo anterior poderão ser estabelecidas condições especiais e transitórias de adequação dos estabelecimentos referidos no n.º 1, no prazo que nos mesmos for fixado.\n\n3 - A aprovação pelo centro regional dos planos de adequação dos estabelecimentos é equiparada à autorização provisória de funcionamento prevista no artigo 19.º\n\n4 - Findo o prazo de 90 dias após a entrada em vigor dos diplomas referidos no artigo 46.º, ficam sujeitas à aplicação das sanções previstas neste diploma:\n\na) As entidades proprietárias cujos estabelecimentos não se adeqúem às condições legalmente estabelecidas nem apresentem o necessário plano de adequação;\n\nb) As entidades proprietárias dos estabelecimentos que não sejam detentoras do alvará e que não o requeiram ou não instruam devidamente o pedido.\n\n5 - Ficam igualmente sujeitas à aplicação das sanções ou da medida de encerramento previstas neste diploma as entidades proprietárias cujo plano de adequação não seja aprovado ou não seja executado nas condições e prazos estabelecidos."
+  },
+  "115002406": {
+   "fragment_id": "115002308",
+   "type": 11,
+   "heading": "Artigo 48.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto no presente diploma em matéria de contra-ordenações aplicam-se as disposições do regime geral das contra-ordenações, bem como do regime das contra-ordenações no âmbito dos regimes de segurança social."
+  },
+  "115002407": {
+   "fragment_id": "115002309",
+   "type": 11,
+   "heading": "Artigo 49.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Regiões Autónomas\n\nO presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, nos termos do disposto no artigo 84.º da Lei n.º 28/84, de 14 de Agosto."
+  },
+  "115002408": {
+   "fragment_id": "115002310",
+   "type": 11,
+   "heading": "Artigo 50.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Legislação revogada\n\nFica revogado o Decreto-Lei n.º 30/89, de 24 de Janeiro."
+  },
+  "115002409": {
+   "fragment_id": "115002311",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "115002415": {
+   "fragment_id": "115002283",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigações das entidades gestoras",
+   "in_force_from": "1999-08-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 268/99 - Diário da República n.º 163/1999, Série I-A de 1999-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1999-358169), em vigor a partir de 1999-08-15"
+   ],
+   "markdown": "###### Artigo 27.º — Obrigações das entidades gestoras\n\n1 - Os proprietários ou titulares dos estabelecimentos são obrigados a:\n\na) Facultar aos serviços dos centros regionais o acesso a todas as dependências do estabelecimento e as informações indispensáveis à avaliação e fiscalização do seu funcionamento;\n\nb) Remeter aos centros regionais os mapas estatísticos dos utentes e a relação do pessoal existente no estabelecimento, bem como o preçário em vigor;\n\nc) Comunicar, no prazo de 30 dias, qualquer alteração dos elementos referidos no artigo 8.º e, bem assim, a cessação de actividades por iniciativa dos proprietários;\n\nd) Remeter aos centros regionais as alterações ao regulamento interno do estabelecimento até 30 dias antes da sua entrada em vigor.\n\ne) Manter nos respectivos estabelecimentos um livro de reclamações dos utentes, insusceptível de ser adulterado, com termo de abertura, datado e assinado pelo presidente do conselho directivo do centro regional de segurança social da área geográfica onde se situa o estabelecimento.\n\n2 - Do texto da reclamação feita pelos utentes, familiares ou visitantes do estabelecimento devem ser retiradas duas cópias, uma autenticada e outra simples, para serem entregues no prazo de oito dias, pelo proprietário ou titular, respectivamente ao presidente do conselho directivo do centro regional de segurança social competente e ao respectivo reclamante.\n\n3 - É obrigatória a divulgação da existência do livro de reclamações a todos os utentes, designadamente pela afixação dessa informação em local bem visível.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 268/99 - Diário da República n.º 163/1999, Série I-A de 1999-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1999-358169), em vigor a partir de 1999-08-15"
+  },
+  "115002410": {
+   "fragment_id": "115002312",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Abril de 1997. - António Manuel de Oliveira Guterres - Mário Fernando de Campos Pinto - Artur Aurélio Teixeira Rodrigues Consolado - Alberto Bernardes Costa - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 27 de Maio de 1997.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Maio de 1997.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "115002474": {
+   "fragment_id": "114991854",
+   "type": 1,
+   "heading": "Capítulo I — Âmbito e objectivos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "### Capítulo I — Âmbito e objectivos\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003975": {
+   "fragment_id": "114991855",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivo",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objectivo\n\nO presente diploma define o regime de licenciamento e de fiscalização da prestação de serviços e dos estabelecimentos, adiante designados por estabelecimentos, em que sejam exercidas actividades de apoio social do âmbito da segurança social relativas a crianças, jovens, pessoas idosas ou pessoas com deficiência, bem como os destinados à prevenção e reparação de situações de carência, de disfunção e de marginalização social.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003976": {
+   "fragment_id": "114991856",
+   "type": 11,
+   "heading": "Artigo 2.º — Estabelecimentos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 2.º — Estabelecimentos\n\n1 - As actividades de apoio social a que se refere o artigo anterior podem ser exercidas em creches, centros de actividades de tempos livres, lares para crianças e jovens, lares para idosos, centros de dia, lares para pessoas com deficiência, centros de actividades ocupacionais para deficientes e através de serviços de apoio domiciliário.\n\n2 - Consideram-se ainda abrangidos pelo presente diploma os estabelecimentos de apoio social com diferente designação, desde que prossigam objectivos semelhantes aos dos estabelecimentos referidos no n.º 1 do artigo 1.º\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003977": {
+   "fragment_id": "114991857",
+   "type": 11,
+   "heading": "Artigo 3.º — Estabelecimentos excluídos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 3.º — Estabelecimentos excluídos\n\nO presente diploma não se aplica:\n\na) Aos estabelecimentos das instituições particulares de solidariedade social em relação aos quais hajam sido celebrados acordos de cooperação com os centros regionais de segurança social, adiante designados por centros regionais;\n\nb) Aos estabelecimentos oficiais geridos por organismos da Administração Pública, central, regional e local.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003978": {
+   "fragment_id": "114991858",
+   "type": 11,
+   "heading": "Artigo 4.º — Denominação dos estabelecimentos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 4.º — Denominação dos estabelecimentos\n\nCada estabelecimento abrangido por este diploma deve adoptar uma denominação própria que permita uma perfeita individualização, por forma a não se confundir com a de outro já existente, público ou privado.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003979": {
+   "fragment_id": "114991859",
+   "type": 11,
+   "heading": "Artigo 5.º — Fiscalização",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 5.º — Fiscalização\n\nOs estabelecimentos referidos nos artigos anteriores ficam sujeitos à inspecção e fiscalização dos serviços competentes do Ministério da Solidariedade e Segurança Social.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003980": {
+   "fragment_id": "114991860",
+   "type": 1,
+   "heading": "Capítulo II — Do licenciamento dos estabelecimentos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "### Capítulo II — Do licenciamento dos estabelecimentos\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003981": {
+   "fragment_id": "114991861",
+   "type": 11,
+   "heading": "Artigo 6.º — Licenciamento dos estabelecimentos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 6.º — Licenciamento dos estabelecimentos\n\n1 - Nenhum estabelecimento pode iniciar a sua actividade sem se encontrar licenciado.\n\n2 - Os estabelecimentos que se encontrem licenciados são considerados de utilidade social e podem beneficiar de isenções fiscais e outras regalias previstas na lei.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003982": {
+   "fragment_id": "114991862",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência para o licenciamento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 7.º — Competência para o licenciamento\n\n1 - O licenciamento dos estabelecimentos é titulado por alvará emitido, a requerimento da entidade interessada, pelo centro regional em cuja área se localize o estabelecimento.\n\n2 - O licenciamento dos estabelecimentos que desenvolvam actividades que transcendam a área de um centro regional é da competência do centro regional da área da localização da sede ou do domicílio da entidade requerente.\n\n3 - É entidade interessada, para efeitos do presente diploma, toda a pessoa singular ou colectiva que explore o estabelecimento como proprietária, arrendatária ou a qualquer outro título.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003983": {
+   "fragment_id": "114991863",
+   "type": 11,
+   "heading": "Artigo 8.º — Alvará de licenciamento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 8.º — Alvará de licenciamento\n\nDo alvará de licenciamento constam a denominação do estabelecimento e sua localização, a identificação da entidade requerente, a actividade prosseguida e a lotação máxima autorizada.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003984": {
+   "fragment_id": "114991864",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de licenciamento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 9.º — Condições de licenciamento\n\nO licenciamento dos estabelecimentos depende das seguintes condições:\n\na) Idoneidade do requerente e do pessoal ao seu serviço;\n\nb) Instalações e equipamento adequados nos termos das normas em vigor;\n\nc) Pessoal técnico e auxiliar necessário ao funcionamento do estabelecimento nos termos das normas em vigor;\n\nd) Situação contributiva do requerente perante a segurança social regularizada.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003985": {
+   "fragment_id": "114991865",
+   "type": 11,
+   "heading": "Artigo 10.º — Idoneidade e impedimentos do requerente",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 10.º — Idoneidade e impedimentos do requerente\n\n1 - Não poderão requerer o licenciamento de estabelecimentos as pessoas relativamente às quais se verifique algum dos seguintes impedimentos:\n\na) Terem sido interditadas do exercício das actividades em qualquer estabelecimento abrangido pelo presente diploma;\n\nb) Terem sido condenadas, por sentença com trânsito em julgado, qualquer que tenha sido a natureza do crime, nos casos em que tenha sido decretada a interdição de profissão relacionada com a actividade dos estabelecimentos.\n\n2 - Tratando-se de pessoa colectiva, a idoneidade e os impedimentos deverão ser aferidos nas pessoas dos administradores ou sócios gerentes dos estabelecimentos.\n\n3 - A idoneidade e os impedimentos identificados no n.º 1 são extensivos aos trabalhadores ao seu serviço.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003986": {
+   "fragment_id": "114991866",
+   "type": 11,
+   "heading": "Artigo 11.º — Parecer técnico",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 11.º — Parecer técnico\n\n1 - Para a implantação de qualquer estabelecimento, os interessados podem requerer ao centro regional um parecer técnico prévio relativo às condições necessárias ao desenvolvimento da actividade pretendida.\n\n2 - O requerimento a solicitar a emissão de parecer técnico deve ser acompanhado da planta das instalações existentes ou a adquirir, com a indicação das dimensões, número de divisões e utilização pretendida, bem como da lotação proposta e do quadro do pessoal previsto para o estabelecimento.\n\n3 - O parecer técnico deve ser emitido no prazo de 60 dias a contar da recepção do requerimento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003987": {
+   "fragment_id": "114991867",
+   "type": 11,
+   "heading": "Artigo 12.º — Requerimento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 12.º — Requerimento\n\n1 - Do requerimento referido no n.º 1 do artigo 7.º deve constar obrigatoriamente:\n\na) O nome, a firma ou a denominação do requerente;\n\nb) A residência ou sede do requerente;\n\nc) O número fiscal de contribuinte do requerente;\n\nd) A localização do estabelecimento e a respectiva denominação;\n\ne) As actividades previstas e grupo etário a que se destinam;\n\nf) A lotação proposta para o estabelecimento.\n\n2 - Tratando-se de pessoa singular, o requerente deve indicar ainda a filiação, idade, estado civil, nacionalidade, profissão e habilitações literárias.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003988": {
+   "fragment_id": "114991868",
+   "type": 11,
+   "heading": "Artigo 13.º — Documentos obrigatórios",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 13.º — Documentos obrigatórios\n\n1 - O requerimento deve ser acompanhado dos documentos comprovativos da identificação do requerente, da adequação das instalações e do cumprimento das condições de funcionamento do estabelecimento nos termos dos artigos seguintes.\n\n2 - Os centros regionais podem ainda solicitar, complementarmente, quaisquer outros documentos que considerem imprescindíveis à avaliação das condições de licenciamento dos estabelecimentos.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003989": {
+   "fragment_id": "114991869",
+   "type": 11,
+   "heading": "Artigo 14.º — Documentos relativos ao requerente",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 14.º — Documentos relativos ao requerente\n\n1 - São documentos necessários à avaliação dos requisitos respeitantes ao requerente:\n\na) Fotocópia do cartão de pessoa colectiva ou de empresário em nome individual;\n\nb) Certificado do registo criminal do requerente e dos seus representantes e, bem assim, das pessoas identificadas no n.º 2 do artigo 10.º;\n\nc) Certidão do acto constitutivo e estatutos ou do registo comercial, quando exigível.\n\n2 - A certidão do registo referida na alínea c) do número anterior, quando respeite a pessoa colectiva constituída há menos de seis meses, poderá ser substituída pela prova da apresentação a registo, sem prejuízo da apresentação da certidão logo que proferida decisão sobre o pedido de registo.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003990": {
+   "fragment_id": "114991870",
+   "type": 11,
+   "heading": "Artigo 15.º — Documentos respeitantes às instalações e ao pessoal",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 15.º — Documentos respeitantes às instalações e ao pessoal\n\nSão documentos necessários à avaliação dos requisitos respeitantes às instalações e condições de funcionamento dos estabelecimentos:\n\na) Documento comprovativo do título de posse ou de utilização das instalações;\n\nb) Planta das instalações e respectiva memória descritiva;\n\nc) Auto ou certificado de vistoria sanitária;\n\nd) Licença de utilização emitida pela câmara municipal competente;\n\ne) Declaração comprovativa das condições de segurança exigíveis;\n\nf) Relação, com a indicação das habilitações literárias e profissionais, do pessoal técnico e auxiliar previsto para o estabelecimento e respectivo horário de trabalho;\n\ng) Documento comprovativo das habilitações profissionais do director técnico.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003991": {
+   "fragment_id": "114991871",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento interno",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 16.º — Regulamento interno\n\nO requerimento deverá ainda ser acompanhado de um projecto de regulamento interno, conforme as normas regulamentares aplicáveis, do qual deve constar, nomeadamente:\n\na) As actividades a desenvolver;\n\nb) As condições de admissão dos utentes;\n\nc) As regras de funcionamento;\n\nd) Os direitos e deveres dos utentes;\n\ne) O preçário e serviços correspondentes.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003992": {
+   "fragment_id": "114991872",
+   "type": 11,
+   "heading": "Artigo 17.º — Vistoria técnica",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 17.º — Vistoria técnica\n\nO licenciamento é precedido de vistoria técnica efectuada pelo centro regional, tendo em vista a avaliação das condições do licenciamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003993": {
+   "fragment_id": "114991873",
+   "type": 11,
+   "heading": "Artigo 18.º — Decisão do centro regional",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 18.º — Decisão do centro regional\n\n1 - O centro regional profere a sua decisão no prazo máximo de 90 dias a contar da recepção do requerimento.\n\n2 - Deferido o requerimento, será emitido alvará em impresso de modelo próprio aprovado pelo ministro da tutela, assinado pelo presidente do conselho directivo do centro regional e autenticado com o selo branco.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003994": {
+   "fragment_id": "114991874",
+   "type": 11,
+   "heading": "Artigo 19.º — Autorização provisória de funcionamento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 19.º — Autorização provisória de funcionamento\n\n1 - Não se encontrando reunidas todas as condições técnicas de funcionamento exigidas para a concessão do alvará, mas sendo seguramente previsível que podem ser satisfeitas no prazo de 180 dias, pode ser concedida uma autorização provisória de funcionamento, que deve especificar as condições a satisfazer pelo requerente.\n\n2 - A autorização provisória é válida pelo prazo de 180 dias, prorrogável por uma só vez, mediante requerimento fundamentado.\n\n3 - Se não forem satisfeitas as condições especificadas na autorização provisória dentro do prazo referido no número anterior, será indeferido o pedido de licenciamento.\n\n4 - Enquanto durar a autorização provisória de funcionamento, os estabelecimentos podem beneficiar das isenções e regalias referidas no n.º 2 do artigo 6.º\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003995": {
+   "fragment_id": "115002275",
+   "type": 11,
+   "heading": "Artigo 20.º — Indeferimento do pedido",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 20.º — Indeferimento do pedido\n\nSem prejuízo do disposto no artigo 19.º, o pedido de licenciamento será indeferido quando não sejam cumpridas as condições referidas no artigo 9.º ou quando não sejam apresentados os documentos referidos no artigo 13.º\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003996": {
+   "fragment_id": "115002276",
+   "type": 11,
+   "heading": "Artigo 21.º — Inactividade do estabelecimento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 21.º — Inactividade do estabelecimento\n\n1 - A inactividade do estabelecimento por um prazo superior a um ano ou o encerramento do estabelecimento implica a suspensão do alvará.\n\n2 - Logo que se alterem as razões que determinaram a suspensão do alvará, pode a entidade proprietária requerer o termo da suspensão.\n\n3 - O centro regional decide do pedido do termo de suspensão mediante prova que considere adequada e após vistoria a realizar nos termos do artigo 17.º\n\n4 - A suspensão do alvará por um período superior a cinco anos determina o seu cancelamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003997": {
+   "fragment_id": "115002277",
+   "type": 11,
+   "heading": "Artigo 22.º — Recurso",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 22.º — Recurso\n\nNo caso de recusa do alvará, podem os interessados, nos termos gerais de direito, recorrer da deliberação do centro regional para os tribunais competentes.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003998": {
+   "fragment_id": "115002278",
+   "type": 11,
+   "heading": "Artigo 23.º — Pagamento de taxas",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 23.º — Pagamento de taxas\n\n1 - Pelos actos relativos ao processo de licenciamento dos estabelecimentos são devidas taxas, cujo objecto e montantes são definidos por portaria do ministro da tutela.\n\n2 - Pelo parecer técnico referido no artigo 11.º não é devida qualquer taxa.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115003999": {
+   "fragment_id": "115002279",
+   "type": 1,
+   "heading": "Capítulo III — Das obrigações das entidades requerentes",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "### Capítulo III — Das obrigações das entidades requerentes\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004000": {
+   "fragment_id": "115002280",
+   "type": 11,
+   "heading": "Artigo 24.º — Trespasse ou cessão de exploração do estabelecimento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 24.º — Trespasse ou cessão de exploração do estabelecimento\n\nNo caso de trespasse, cessão ou concessão de exploração do estabelecimento, a escritura notarial não pode realizar-se sem que seja exibida certidão emitida pelo centro regional comprovativa do licenciamento ou da autorização provisória de funcionamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004001": {
+   "fragment_id": "115002281",
+   "type": 11,
+   "heading": "Artigo 25.º — Substituição do alvará",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 25.º — Substituição do alvará\n\n1 - Quando se verifique a alteração da denominação do estabelecimento, da identificação da entidade requerente ou da lotação máxima autorizada, deverá ser requerida, no prazo de 30 dias, a substituição do alvará.\n\n2 - Com o requerimento devem ser apresentados os documentos comprovativos da alteração e, se esta respeitar à entidade requerente, todos os documentos obrigatórios necessários à instrução de um pedido de licenciamento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004002": {
+   "fragment_id": "115002282",
+   "type": 11,
+   "heading": "Artigo 26.º — Afixação de documentos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 26.º — Afixação de documentos\n\nOs proprietários ou titulares dos estabelecimentos são obrigados a afixar em local bem visível do público os seguintes documentos:\n\na) Alvará ou autorização provisória de funcionamento;\n\nb) Mapa de pessoal e respectivos horários, de harmonia com a legislação aplicável;\n\nc) Nome do director técnico do estabelecimento;\n\nd) Horário de funcionamento do estabelecimento;\n\ne) Regulamento interno;\n\nf) Mapa de ementas;\n\ng) Preçário, com indicação dos valores mínimos e máximos praticados.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004003": {
+   "fragment_id": "115002283",
+   "type": 11,
+   "heading": "Artigo 27.º — Obrigações das entidades gestoras",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 268/99 - Diário da República n.º 163/1999, Série I-A de 1999-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1999-358169), em vigor a partir de 1999-08-15"
+   ],
+   "markdown": "###### Artigo 27.º — Obrigações das entidades gestoras\n\n1 - Os proprietários ou titulares dos estabelecimentos são obrigados a:\n\na) Facultar aos serviços dos centros regionais o acesso a todas as dependências do estabelecimento e as informações indispensáveis à avaliação e fiscalização do seu funcionamento;\n\nb) Remeter aos centros regionais os mapas estatísticos dos utentes e a relação do pessoal existente no estabelecimento, bem como o preçário em vigor;\n\nc) Comunicar, no prazo de 30 dias, qualquer alteração dos elementos referidos no artigo 8.º e, bem assim, a cessação de actividades por iniciativa dos proprietários;\n\nd) Remeter aos centros regionais as alterações ao regulamento interno do estabelecimento até 30 dias antes da sua entrada em vigor.\n\ne) Manter nos respectivos estabelecimentos um livro de reclamações dos utentes, insusceptível de ser adulterado, com termo de abertura, datado e assinado pelo presidente do conselho directivo do centro regional de segurança social da área geográfica onde se situa o estabelecimento.\n\n2 - Do texto da reclamação feita pelos utentes, familiares ou visitantes do estabelecimento devem ser retiradas duas cópias, uma autenticada e outra simples, para serem entregues no prazo de oito dias, pelo proprietário ou titular, respectivamente ao presidente do conselho directivo do centro regional de segurança social competente e ao respectivo reclamante.\n\n3 - É obrigatória a divulgação da existência do livro de reclamações a todos os utentes, designadamente pela afixação dessa informação em local bem visível.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 268/99 - Diário da República n.º 163/1999, Série I-A de 1999-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/268-1999-358169), em vigor a partir de 1999-08-15"
+  },
+  "115004004": {
+   "fragment_id": "115002284",
+   "type": 11,
+   "heading": "Artigo 28.º — Contratos a celebrar com os utentes",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 28.º — Contratos a celebrar com os utentes\n\nTratando-se de estabelecimentos a funcionar em regime de internato, devem ser celebrados, por escrito, contratos de alojamento e prestação de serviço com os utentes ou seus familiares, donde constem os principais direitos e obrigações de ambas as partes.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004005": {
+   "fragment_id": "115002296",
+   "type": 1,
+   "heading": "Capítulo V — Do encerramento administrativo dos estabelecimentos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "### Capítulo V — Do encerramento administrativo dos estabelecimentos\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004006": {
+   "fragment_id": "115002297",
+   "type": 11,
+   "heading": "Artigo 39.º — Encerramento imediato",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 39.º — Encerramento imediato\n\n1 - Pode ser determinado o encerramento do estabelecimento quando se verifique qualquer das seguintes condições:\n\na) Apresente graves condições de insalubridade, inadequação das instalações ou deficientes condições de segurança, higiene e conforto dos utentes;\n\nb) Inicie a actividade ou se mantenha em funcionamento sem se encontrar licenciado nos termos do artigo 6.º ou autorizado nos termos previstos no artigo 19.º\n\n2 - A medida do encerramento implica automaticamente a caducidade do alvará ou da licença de autorização provisória de funcionamento, bem como a cessação dos benefícios ou regalias previstos na lei.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004007": {
+   "fragment_id": "115002298",
+   "type": 11,
+   "heading": "Artigo 40.º — Competência para a determinação do encerramento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 40.º — Competência para a determinação do encerramento\n\n1 - O encerramento do estabelecimento nos termos do artigo anterior compete ao órgão gestor do centro regional, mediante deliberação fundamentada.\n\n2 - Para a efectivação do encerramento do estabelecimento o centro regional pode solicitar a intervenção das autoridades administrativas e policiais competentes.\n\n3 - A medida administrativa de encerramento do estabelecimento não prejudica a aplicação das coimas relativas às contra-ordenações previstas no presente diploma.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004008": {
+   "fragment_id": "115002299",
+   "type": 1,
+   "heading": "Capítulo VI — Do acompanhamento e da fiscalização",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "### Capítulo VI — Do acompanhamento e da fiscalização\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004009": {
+   "fragment_id": "115002300",
+   "type": 11,
+   "heading": "Artigo 41.º — Acompanhamento técnico-social",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 41.º — Acompanhamento técnico-social\n\n1 - Compete ao centro regional acompanhar e apoiar tecnicamente a organização e o funcionamento dos estabelecimentos, verificando, designadamente:\n\na) A conformidade das actividades prosseguidas com as autorizadas no processo de licenciamento;\n\nb) A qualidade dos serviços prestados aos utentes, nomeadamente no que se refere a condições de instalação e alojamento, adequação do equipamento ao número e tipo de utentes, alimentação e cuidados de saúde e de higiene;\n\nc) A qualidade de vida no estabelecimento, nomeadamente quanto à participação e ocupação dos utentes.\n\n2 - A avaliação das condições de organização e funcionamento dos estabelecimentos, que poderá ser feita com o respectivo director técnico, deverá ser objecto de relatório do centro regional, de que será dado conhecimento à entidade proprietária ou titular do estabelecimento no prazo de 30 dias após a conclusão da avaliação.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004010": {
+   "fragment_id": "115002301",
+   "type": 11,
+   "heading": "Artigo 42.º — Colaboração com serviços oficiais",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 42.º — Colaboração com serviços oficiais\n\nPara a avaliação das condições previstas no artigo anterior e designadamente das condições de salubridade e segurança, acondicionamento dos géneros alimentícios e cuidados de saúde, o centro regional pode solicitar a intervenção dos serviços competentes de outros ministérios.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004011": {
+   "fragment_id": "115002302",
+   "type": 11,
+   "heading": "Artigo 43.º — Acções de fiscalização",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 43.º — Acções de fiscalização\n\nSem prejuízo da acção inspectiva da competência da Inspecção-Geral da Segurança Social, compete aos centros regionais, no âmbito da acção fiscalizadora dos estabelecimentos abrangidos por este diploma:\n\na) Vigiar o cumprimento das normas legais relativas ao licenciamento e às condições de funcionamento dos estabelecimentos;\n\nb) Instaurar processos de contra-ordenação pelas infracções de que tenha conhecimento;\n\nc) Promover e acompanhar a execução das sanções que tenham sido ordenadas;\n\nd) Articular-se com outros serviços ou organismos da Administração Pública, tendo em vista o cumprimento das disposições legais aplicáveis aos estabelecimentos.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004012": {
+   "fragment_id": "115002303",
+   "type": 11,
+   "heading": "Artigo 44.º — Serviços de fiscalização",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 44.º — Serviços de fiscalização\n\n1 - Para a prossecução da acção fiscalizadora, o centro regional deve dispor de equipas multidisciplinares, constituídas por pessoal técnico de formação diversificada.\n\n2 - O pessoal que integre o serviço de fiscalização dos estabelecimentos fica abrangido pelo disposto nos artigos 3.º e 4.º do Decreto Regulamentar n.º 54/83, de 23 de Junho.\n\n3 - O referido pessoal deve ser portador do respectivo cartão de identidade, de modelo a aprovar por portaria do ministro da tutela.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004013": {
+   "fragment_id": "115002304",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004014": {
+   "fragment_id": "115002305",
+   "type": 11,
+   "heading": "Artigo 45.º — Publicidade de actos",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 45.º — Publicidade de actos\n\n1 - O centro regional promoverá a publicação no Diário da República e no órgão de imprensa de maior expansão na localidade da sede dos estabelecimentos dos seguintes actos:\n\na) Concessão do alvará e sua substituição;\n\nb) Suspensão e cancelamento do alvará;\n\nc) Encerramento do estabelecimento.\n\n2 - Os custos com as publicações referidas nos números anteriores serão suportados pelo proprietário do estabelecimento.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004015": {
+   "fragment_id": "115002306",
+   "type": 11,
+   "heading": "Artigo 46.º — Condições de instalação e funcionamento",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 46.º — Condições de instalação e funcionamento\n\nAs normas que regulam as condições de instalação e funcionamento dos estabelecimentos constam de diplomas autónomos.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004016": {
+   "fragment_id": "115002307",
+   "type": 11,
+   "heading": "Artigo 47.º — Adequação dos estabelecimentos existentes",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 47.º — Adequação dos estabelecimentos existentes\n\n1 - Os estabelecimentos que se encontrem em funcionamento à data da entrada em vigor do presente diploma, ainda que detentores de alvará, devem adequar-se às condições estabelecidas neste decreto-lei e demais legislação aplicável.\n\n2 - Nos diplomas previstos no artigo anterior poderão ser estabelecidas condições especiais e transitórias de adequação dos estabelecimentos referidos no n.º 1, no prazo que nos mesmos for fixado.\n\n3 - A aprovação pelo centro regional dos planos de adequação dos estabelecimentos é equiparada à autorização provisória de funcionamento prevista no artigo 19.º\n\n4 - Findo o prazo de 90 dias após a entrada em vigor dos diplomas referidos no artigo 46.º, ficam sujeitas à aplicação das sanções previstas neste diploma:\n\na) As entidades proprietárias cujos estabelecimentos não se adeqúem às condições legalmente estabelecidas nem apresentem o necessário plano de adequação;\n\nb) As entidades proprietárias dos estabelecimentos que não sejam detentoras do alvará e que não o requeiram ou não instruam devidamente o pedido.\n\n5 - Ficam igualmente sujeitas à aplicação das sanções ou da medida de encerramento previstas neste diploma as entidades proprietárias cujo plano de adequação não seja aprovado ou não seja executado nas condições e prazos estabelecidos.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004017": {
+   "fragment_id": "115002308",
+   "type": 11,
+   "heading": "Artigo 48.º — Direito subsidiário",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 48.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto no presente diploma em matéria de contra-ordenações aplicam-se as disposições do regime geral das contra-ordenações, bem como do regime das contra-ordenações no âmbito dos regimes de segurança social.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004018": {
+   "fragment_id": "115002309",
+   "type": 11,
+   "heading": "Artigo 49.º — Regiões Autónomas",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 49.º — Regiões Autónomas\n\nO presente diploma é aplicável às Regiões Autónomas dos Açores e da Madeira, nos termos do disposto no artigo 84.º da Lei n.º 28/84, de 14 de Agosto.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004019": {
+   "fragment_id": "115002310",
+   "type": 11,
+   "heading": "Artigo 50.º — Legislação revogada",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 50.º — Legislação revogada\n\nFica revogado o Decreto-Lei n.º 30/89, de 24 de Janeiro.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004020": {
+   "fragment_id": "115002311",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor",
+   "in_force_from": "2007-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+   ],
+   "markdown": "###### Artigo 51.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação.\n\n> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 64/2007 - Diário da República n.º 52/2007, Série I de 2007-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-2007-518425), em vigor a partir de 2007-05-13"
+  },
+  "115004399": {
+   "fragment_id": "115002285",
+   "type": 1,
+   "heading": "Capítulo IV — Regime sancionatório",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "### Capítulo IV — Regime sancionatório\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004400": {
+   "fragment_id": "115002286",
+   "type": 11,
+   "heading": "Artigo 29.º — Das contra-ordenações",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 29.º — Das contra-ordenações\n\nAs infracções ao disposto no presente diploma constituem contra-ordenações, nos termos dos artigos seguintes.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004401": {
+   "fragment_id": "115002287",
+   "type": 11,
+   "heading": "Artigo 30.º — Contra-ordenação por falta de licenciamento",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 30.º — Contra-ordenação por falta de licenciamento\n\nA abertura ou o funcionamento de estabelecimento que não se encontre licenciado nem disponha de autorização provisória de funcionamento válida constitui contra-ordenação, punível com coima de 500000$00 a 2000000$00.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004402": {
+   "fragment_id": "115002288",
+   "type": 11,
+   "heading": "Artigo 31.º — Contra-ordenações relativas às instalações e ao funcionamento dos estabelecimentos",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 31.º — Contra-ordenações relativas às instalações e ao funcionamento dos estabelecimentos\n\nConstituem contra-ordenações, puníveis com coima de 200000$00 a 1000000$00:\n\na) A inadequação das instalações, bem como as deficientes condições de higiene e segurança, face aos requisitos estabelecidos;\n\nb) A inexistência injustificada do pessoal técnico e auxiliar indicado no respectivo mapa;\n\nc) A alimentação claramente deficiente para as necessidades dos utentes;\n\nd) O excesso da lotação em relação à capacidade autorizada para o estabelecimento;\n\ne) A manifesta degradação qualitativa dos cuidados e tratamentos prestados aos utentes;\n\nf) O impedimento das acções de fiscalização;\n\ng) A violação de quaisquer outras normas ou exigências legais.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004403": {
+   "fragment_id": "115002289",
+   "type": 11,
+   "heading": "Artigo 32.º — Contra-ordenações por incumprimento de obrigações",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 32.º — Contra-ordenações por incumprimento de obrigações\n\nConstitui contra-ordenação, punível com coima de 50000$00 a 150000$00, o incumprimento de qualquer das obrigações previstas nos artigos 25.º, 26.º, 27.º e 28.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004404": {
+   "fragment_id": "115002290",
+   "type": 11,
+   "heading": "Artigo 33.º — Negligência",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 33.º — Negligência\n\nNas contra-ordenações previstas no presente diploma a negligência é sempre punível.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004405": {
+   "fragment_id": "115002291",
+   "type": 11,
+   "heading": "Artigo 34.º — Limites mínimos e máximos das coimas",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 34.º — Limites mínimos e máximos das coimas\n\nOs limites mínimos e máximos das coimas previstas neste diploma aplicam-se quer às pessoas singulares quer às pessoas colectivas, sendo reduzidos a metade quando aplicáveis a entidades que não tenham finalidade lucrativa ou nos casos de negligência.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004406": {
+   "fragment_id": "115002292",
+   "type": 11,
+   "heading": "Artigo 35.º — Sanções acessórias",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 35.º — Sanções acessórias\n\nSimultaneamente com a coima poderão ser aplicadas as seguintes sanções acessórias:\n\na) Interdição de exercer a actividade em quaisquer estabelecimentos abrangidos pelo presente diploma;\n\nb) Privação do direito a subsídio ou benefício outorgado por entidade ou serviço público;\n\nc) Encerramento do estabelecimento e suspensão do alvará ou da autorização provisória.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004407": {
+   "fragment_id": "115002293",
+   "type": 11,
+   "heading": "Artigo 36.º — Competências para aplicação das coimas e sanções acessórias",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 36.º — Competências para aplicação das coimas e sanções acessórias\n\n1 - A instrução dos processos de contra-ordenação é da competência dos centros regionais.\n\n2 - A decisão dos mesmos processos é da competência do presidente do respectivo centro regional.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004408": {
+   "fragment_id": "115002294",
+   "type": 11,
+   "heading": "Artigo 37.º — Pagamento das coimas",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 37.º — Pagamento das coimas\n\nO pagamento das coimas não dispensa a entidade proprietária do estabelecimento de dar cumprimento às obrigações impostas por força da aplicação deste diploma.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  },
+  "115004409": {
+   "fragment_id": "115002295",
+   "type": 11,
+   "heading": "Artigo 38.º — Publicidade",
+   "in_force_from": "2014-05-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+   ],
+   "markdown": "###### Artigo 38.º — Publicidade\n\n1 - Das decisões definitivas que apliquem coima de montante igual ou superior a 200 000$00 ou determinem o encerramento do estabelecimento será sempre dada publicidade, promovida pelo centro regional.\n\n2 - A publicidade é efectuada através de publicação do extracto da decisão definitiva no jornal da localidade ou, na sua falta, no da localidade mais próxima, bem como da afixação de edital, por período não inferior a 30 dias, no próprio estabelecimento, em local bem visível ao público.\n\n3 - As despesas decorrentes da publicidade referida nos números anteriores são custeadas pelo infractor.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 33/2014 - Diário da República n.º 44/2014, Série I de 2014-03-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2014-572157), em vigor a partir de 2014-05-03"
+  }
+ }
+}

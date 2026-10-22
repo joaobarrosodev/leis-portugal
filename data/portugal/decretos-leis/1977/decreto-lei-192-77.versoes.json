@@ -1,0 +1,187 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:252255:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1977-181514106",
+ "dre_path": "/dr/detalhe/decreto-lei/192-1977-252255",
+ "source_lastmod": "2024-07-31",
+ "versions": [
+  {
+   "date": "1977-05-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "871760269",
+    "181514608",
+    "181514609",
+    "181514610",
+    "181514611"
+   ]
+  },
+  {
+   "date": "1982-02-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483612:por",
+     "title": "Decreto-Lei n.º 20/82",
+     "published": "1982-01-28",
+     "dre_path": "/dr/detalhe/decreto-lei/20-1982-483612"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "181514607",
+    "181514608",
+    "871760268",
+    "181514610",
+    "181514611",
+    "181514612"
+   ]
+  },
+  {
+   "date": "2019-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122434535:por",
+     "title": "Lei n.º 36/2019",
+     "published": "2019-05-29",
+     "dre_path": "/dr/detalhe/lei/36-2019-122434535"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "871760269",
+    "871760270",
+    "871760271",
+    "871760272",
+    "871760273",
+    "871760274"
+   ]
+  }
+ ],
+ "fragments": {
+  "871760269": {
+   "fragment_id": "181514107",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-06-03",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 192/77\n\nde 13 de Maio\n\nConsiderando a necessidade de definir as competências do Vice-Chefe do Estado-Maior-General das Forças Armadas, omissa nas leis em vigor;\n\nConsiderando que, nos termos do artigo 143.º, n.º 1, alínea b), da Constituição da República, o Vice-Chefe do Estado-Maior-General das Forças Armadas faz parte do Conselho da Revolução;\n\nConsiderando que as responsabilidades inerentes ao cargo de Vice-Chefe do Estado-Maior-General das Forças Armadas são idênticas às dos Chefes dos Estados-Maiores dos três ramos;\n\nConsiderando as várias competências que, nos planos funcional, disciplinar e administrativo, correspondem à categoria ministerial:\n\nO Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:"
+  },
+  "181514608": {
+   "fragment_id": "181514108",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 2.º e 3.º do Decreto-Lei n.º 400/74, de 29 de Agosto, passam a ter a seguinte redacção:\n\nArt. 2.º - 1. ...\n\n2. O Vice-Chefe do Estado-Maior-General das Forças Armadas e os Chefes dos Estados-Maiores dos três ramos das forças armadas têm a categoria, honras, regalias e vencimentos correspondentes ao cargo de Ministro.\n\nArt. 3.º - 1. O CEMGFA é assistido no exercício das suas funções pelo Vice-Chefe do Estado-Maior-General das Forças Armadas (Vice-CEMGFA), o qual, como seu mais directo colaborador, receberá as competências que lhe forem delegadas.\n\n2. O Vice-CEMGFA é um oficial general de quatro estrelas, de qualquer ramo das forças armadas."
+  },
+  "181514609": {
+   "fragment_id": "181514109",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO Vice-CEMGFA faz parte dos órgãos colegiais inter-ramos em que participem os Chefes dos Estados-Maiores."
+  },
+  "181514610": {
+   "fragment_id": "181514110",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO artigo 38.º do Regulamento de Disciplina Militar passa a ter a seguinte redacção:\n\nARTIGO 38.º\n\n(Competência disciplinar do CEMGFA e Vice-CEMGFA)\n\nO Chefe e o Vice-Chefe do Estado-Maior-General das Forças Armadas têm a competência disciplinar designada na coluna I do quadro a que se refere o artigo 37.º"
+  },
+  "181514611": {
+   "fragment_id": "181514111",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nEste diploma entra em vigor na data da sua publicação."
+  },
+  "181514607": {
+   "fragment_id": "181514107",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 192/77\n\nde 13 de Maio\n\nConsiderando a necessidade de definir as competências do Vice-Chefe do Estado-Maior-General das Forças Armadas, omissa nas leis em vigor;\n\nConsiderando que, nos termos do artigo 143.º, n.º 1, alínea b), da Constituição da República, o Vice-Chefe do Estado-Maior-General das Forças Armadas faz parte do Conselho da Revolução;\n\nConsiderando que as responsabilidades inerentes ao cargo de Vice-Chefe do Estado-Maior-General das Forças Armadas são idênticas às dos Chefes dos Estados-Maiores dos três ramos;\n\nConsiderando as várias competências que, nos planos funcional, disciplinar e administrativo, correspondem à categoria ministerial:\n\nO Conselho da Revolução decreta, nos termos da alínea a) do n.º 1 do artigo 148.º da Constituição, o seguinte:"
+  },
+  "871760268": {
+   "fragment_id": "181514109",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1982-02-02",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/82 - Diário da República n.º 23/1982, 1º Suplemento, Série I de 1982-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1982-483612), em vigor a partir de 1982-02-02"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO Vice-CEMGFA faz parte dos órgãos colegiais inter-ramos em que participem os Chefes dos Estados-Maiores.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/82 - Diário da República n.º 23/1982, 1º Suplemento, Série I de 1982-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1982-483612), em vigor a partir de 1982-02-02"
+  },
+  "181514612": {
+   "fragment_id": "181514112",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho da Revolução em 27 de Abril de 1977.\n\nPromulgado em 2 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "871760270": {
+   "fragment_id": "181514108",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs artigos 2.º e 3.º do Decreto-Lei n.º 400/74, de 29 de Agosto, passam a ter a seguinte redacção:\n\nArt. 2.º - 1. ...\n\n2. O Vice-Chefe do Estado-Maior-General das Forças Armadas e os Chefes dos Estados-Maiores dos três ramos das forças armadas têm a categoria, honras, regalias e vencimentos correspondentes ao cargo de Ministro.\n\nArt. 3.º - 1. O CEMGFA é assistido no exercício das suas funções pelo Vice-Chefe do Estado-Maior-General das Forças Armadas (Vice-CEMGFA), o qual, como seu mais directo colaborador, receberá as competências que lhe forem delegadas.\n\n2. O Vice-CEMGFA é um oficial general de quatro estrelas, de qualquer ramo das forças armadas.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "871760271": {
+   "fragment_id": "181514109",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03",
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/82 - Diário da República n.º 23/1982, 1º Suplemento, Série I de 1982-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1982-483612), em vigor a partir de 1982-02-02"
+   ],
+   "markdown": "###### Artigo 2.º\n\nO Vice-CEMGFA faz parte dos órgãos colegiais inter-ramos em que participem os Chefes dos Estados-Maiores.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 20/82 - Diário da República n.º 23/1982, 1º Suplemento, Série I de 1982-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-1982-483612), em vigor a partir de 1982-02-02"
+  },
+  "871760272": {
+   "fragment_id": "181514110",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 3.º\n\nO artigo 38.º do Regulamento de Disciplina Militar passa a ter a seguinte redacção:\n\nARTIGO 38.º\n\n(Competência disciplinar do CEMGFA e Vice-CEMGFA)\n\nO Chefe e o Vice-Chefe do Estado-Maior-General das Forças Armadas têm a competência disciplinar designada na coluna I do quadro a que se refere o artigo 37.º\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "871760273": {
+   "fragment_id": "181514111",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "###### Artigo 4.º\n\nEste diploma entra em vigor na data da sua publicação.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  },
+  "871760274": {
+   "fragment_id": "181514112",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-06-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+   ],
+   "markdown": "Visto e aprovado em Conselho da Revolução em 27 de Abril de 1977.\n\nPromulgado em 2 de Maio de 1977.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\n> Revogado pelo/a Artigo 5.º do/a [Lei n.º 36/2019 - Diário da República n.º 103/2019, Série I de 2019-05-29](https://diariodarepublica.pt/dr/detalhe/lei/36-2019-122434535), em vigor a partir de 2019-06-03"
+  }
+ }
+}

@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:661717:por
+title: Despacho Normativo n.º 73/84
+short_title: null
+summary: Visa assegurar a continuidade do regime de porte pago para a imprensa portuguesa no estrangeiro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Equipamento Social
+proposing_entity: null
+official_number: 73/84
+official_date: null
+publication_date: '1984-03-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 75/1984, Série I de 1984-03-29
+  number: '75'
+  series: I
+  supplement: null
+  pages: 1062 - 1063
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/03/07500/10621063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '661717'
+  dre_path: /dr/detalhe/despacho-normativo/73-1984-661717
+  internal: pt:dre:661717:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1984-661717
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/73-1984-661717
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-03-29T00:00:00Z'
+integrity:
+  source_sha256: dd22685199e5acce07165c566ea37481fdaab9e1c11cbe1bb240a190b1ff747b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1984/DRE-1984-73-661717.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 73/84
+
+Visa o presente texto assegurar a continuidade do regime de porte pago para a imprensa portuguesa difundida no estrangeiro.
+
+Reconhecida que foi a validade da experiência já praticada em anos anteriores, cuidou-se apenas de apropriar o substrato normativo vigente no período transacto ao ano económico em curso, sem pôr em causa a disciplina que vem presidindo à assunção, pelo Estado, das despesas com a expedição postal extrafronteiras.
+
+Nestes termos, determina-se o seguinte:
+
+1 - O Estado suportará, através das correspondentes verbas inscritas no orçamento para 1984 da Direcção-Geral da Comunicação Social, o pagamento das despesas do porte e sobretaxa aérea relativos à expedição, em regime de avença postal, dos órgãos da imprensa regional e daquelas publicações que mostrem patente e reconhecido carácter de divulgação de aspectos fundamentais da cultura e história portuguesas e de interesse para o turismo e a dinamização da economia portuguesa, através do apoio à exportação ou ao investimento estrangeiro, para assinantes residentes no estrangeiro, até ao montante tarifário correspondente ao peso inferior a 250 g por exemplar, A tarifa que corresponda ao peso excedente àquele limite será suportada pelas empresas jornalísticas, por débito directo dos CTT às mesmas.
+
+2 - Para efeitos de aplicação do presente despacho, considera-se que integra o conceito de imprensa regional toda a publicação em língua portuguesa de carácter essencialmente noticioso e cujo âmbito informativo se refira sobretudo à região ou localidade do território nacional onde se insere. Para comprovar a validade cultural, o mérito formativo e o interesse turístico ou de desenvolvimento económico das demais publicações contempladas, poderá o director-geral da Comunicação Social solicitar parecer aos departamentos governamentais que tiverem a seu cargo as áreas correspondentes, abonando-se neles para a decisão que tiver de tomar relativamente a cada caso.
+
+3 - Ficam excluídas do benefício previsto nas disposições precedentes todas as publicações expressamente exceptuadas do regime de porte pago no território nacional.
+
+4 - As empresas jornalísticas beneficiadas não poderão praticar para o estrangeiro, em moeda portuguesa, preços de assinatura diferentes dos praticados para o território nacional.
+
+5 - Os pedidos de concessão de novas credenciais relativas às publicações que se não tenham habilitado ao benefício na vigência dos anteriores diplomas deverão ser formalizados em requerimento dirigido ao director-geral da Comunicação Social, acompanhado de 1 exemplar dos últimos 3 números publicados ou do exemplar n.º 1, quando as publicações forem editadas pela primeira vez.
+
+6 - Das decisões do director-geral cabe recurso hierárquico necessário para o membro do Governo com superintendência no sector da comunicação social e, dos actos deste, recurso contencioso para o Supremo Tribunal Administrativo, nos termos gerais de direito.
+
+7 - As credenciais a que alude o n.º 4 são de modelo idêntico ao aprovado pelo despacho conjunto de 14 de Outubro de 1976, apropriando-se os seus dizeres à presente regulamentação.
+
+8 - A comparticipação do Estado nas despesas de porte e sobretaxa aérea das publicações beneficiadas será directamente paga aos CTT pela Direcção-Geral da Comunicação Social. Para tanto, ser-lhe-ão enviados por aquela empresa pública, no decurso do segundo mês posterior ao da expedição, os seguintes elementos:
+
+a) Custos postais imputáveis ao Estado, por publicação;
+
+b) Relação das publicações expedidas por via postal para o estrangeiro, nos termos deste diploma, com indicação individualizada dos números de exemplares remetidos e dos regimes de tarifação.
+
+9 - A regulamentação ora instituída não prejudica a sujeição das publicações às condições de aceitação de remessas impostas pelos CTT.
+
+10 - A Direcção-Geral da Comunicação Social poderá suspender a regalia prevista no n.º 1 às empresas beneficiadas que deixem de cumprir as suas obrigações legais para com a Previdência.
+
+11 - As credenciais actualmente utilizadas para identificação das publicações abrangidas pelo regime de porte pago serão substituídas, na medida em que subsista o fundamento da sua concessão, por outras a emitir por iniciativa da Direcção-Geral da Comunicação Social.
+
+12 - Este despacho produz efeitos:
+
+a) A partir de 1 de Janeiro de 1984, para as publicações que até 31 de Dezembro de 1983 estavam habilitadas ao benefício da difusão postal gratuita;
+
+b) Quanto aos pedidos autorizados no ano em curso, a partir da data do despacho do director-geral da Comunicação Social.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Equipamento Social, 17 de Fevereiro de 1984. - Por delegação do Primeiro-Ministro, José Anselmo Dias Rodrigues, Secretário de Estado Adjunto do Ministro de Estado. - Por delegação do Ministro das Finanças e do Plano, Alípio Barrosa Pereira Dias, Secretário de Estado do Orçamento. - Por delegação do Ministro do Equipamento Social, Raul Manuel Gouveia Bordalo Junqueiro, Secretário de Estado das Comunicações.

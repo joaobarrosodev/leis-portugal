@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:460194:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-123426853",
+ "dre_path": "/dr/detalhe/portaria/12-2010-460194",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-01-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "148081727"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:123407856:por",
+     "title": "Portaria n.º 230/2019",
+     "published": "2019-07-23",
+     "dre_path": "/dr/detalhe/portaria/230-2019-123407856",
+     "date": "2019-07-24"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "148081727": {
+   "fragment_id": "123426854",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-07-24",
+   "changed_by": [],
+   "markdown": "Portaria n.º 12/2010\n\nde 7 de Janeiro\n\nPrevêem, quer o n.º 6 do artigo 72.º quer o n.º 4 do artigo 81.º do Código do Imposto do Rendimento das Pessoas Singulares, que deverão ser definidas, por portaria do membro do Governo responsável pela área das finanças, as actividades de elevado valor acrescentado, com carácter científico, artístico ou técnico que relevem para o novo regime fiscal do residente não habitual.\n\nA inclusão dos rendimentos empresariais neste regime implica a necessidade de compatibilização com os regimes concorrentes do espaço europeu e a limitação dos rendimentos das categorias A e B do IRS a incluir no seu âmbito, concentrando-os sobre as actividades de prestação de serviços de elevado valor acrescentado ou da propriedade intelectual, industrial ou know-how. O catálogo de actividades que se recolhe na presente portaria representa, neste contexto, um catálogo que serve ao arranque deste inovador regime fiscal e que, uma vez testado pela prática, pode e deve vir a beneficiar dos aperfeiçoamentos que venham a revelar-se necessários.\n\nManda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do disposto no n.º 6 do artigo 72.º e no n.º 4 do artigo 81.º do Código do Imposto do Rendimento das Pessoas Singulares, na sequência da nova redacção dada pelo Decreto-Lei n.º 249/2009, de 23 de Setembro, o seguinte:\n\nArtigo único\n\n1 - É aprovada a tabela de atividades de elevado valor acrescentado para efeitos do disposto no n.º 10 do artigo 72.º e no n.º 5 do artigo 81.º do Código do IRS, constante do anexo, que faz parte integrante desta portaria.\n\n2 - Todas a dúvidas interpretativas respeitantes ao âmbito e ao alcance das atividades constantes da presente tabela devem ser enquadradas nos códigos da Classificação Portuguesa de Profissões (CPP) anexa à Deliberação n.º 967/2010 correspondente à 14.ª Deliberação da Secção Permanente de Coordenação Estatística do Conselho Superior de Estatística (CSE) de 5 de maio de 2010, publicada no Diário da República, 2.ª série, n.º 106, de 1 de junho de 2010, bem como das respetivas Notas explicativas vigentes.\n\n3 - Em função da avaliação da evolução da situação económica do país, a tabela de atividade de elevado valor acrescentado poderá ser revista no prazo de três anos.\n\nO Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 2 de Dezembro de 2009.\n\nANEXO\n\nTabela de atividades de elevado valor acrescentado para efeitos do disposto no n.º 10 do artigo 72.º e no n.º 5 do artigo 81.º do Código do IRS\n\nI - Atividades profissionais (códigos CPP):\n\n112 - Diretor-geral e gestor executivo, de empresas\n\n12 - Diretores de serviços administrativos e comerciais\n\n13 - Diretores de produção e de serviços especializados\n\n14 - Diretores de hotelaria, restauração, comércio e de outros serviços\n\n21 - Especialistas das ciências físicas, matemáticas, engenharias e técnicas afins\n\n221 - Médicos\n\n2261 - Médicos dentistas e estomatologistas\n\n231 - Professor dos ensinos universitário e superior\n\n25 - Especialistas em tecnologias de informação e comunicação (TIC)\n\n264 - Autores, jornalistas e linguistas\n\n265 - Artistas criativos e das artes do espetáculo\n\n31 - Técnicos e profissões das ciências e engenharia, de nível intermédio\n\n35 - Técnicos das tecnologias de informação e comunicação\n\n61 - Agricultores e trabalhadores qualificados da agricultura e produção animal, orientados para o mercado\n\n62 - Trabalhadores qualificados da floresta, pesca e caça, orientados para o mercado\n\n7 - Trabalhadores qualificados da indústria, construção e artífices, incluindo nomeadamente trabalhadores qualificados da metalurgia, da metalomecânica, da transformação de alimentos, da madeira, do vestuário, do artesanato, da impressão, do fabrico de instrumentos de precisão, joalheiros, artesãos, trabalhadores em eletricidade e em eletrónica.\n\n8 - Operadores de instalações e máquinas e trabalhadores da montagem, nomeadamente operadores de instalações fixas e máquinas\n\nOs trabalhadores enquadrados nas atividades profissionais acima referidas devem ser possuidores, no mínimo, do nível 4 de qualificação do Quadro Europeu de Qualificações ou do nível 35 da Classificação Internacional Tipo da Educação ou serem detentores de cinco anos de experiência profissional devidamente comprovada.\n\nII - Outras atividades profissionais:\n\nAdministradores e gestores de empresas promotoras de investimento produtivo, desde que afetos a projetos elegíveis e com contratos de concessão de benefícios fiscais celebrados ao abrigo do Código Fiscal do Investimento, aprovado pelo Decreto-Lei n.º 162/2014, de 31 de outubro."
+  }
+ }
+}

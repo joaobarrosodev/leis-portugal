@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:685790:por
+title: Decreto n.º 45221
+short_title: null
+summary: Torna aplicável aos funcionários civis vítimas de ferimento grave recebido em combate ou por acto de terrorismo,
+  quanto a vencimentos e período de tratamento, o disposto no n.º 8.º e suas alíneas do artigo 19.º do Decreto-Lei n.º 44864
+  (fixa os vencimentos dos militares do Exército, da Armada e da Força Aérea em serviço nas forças armadas das províncias
+  ultramarinas)
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Administração Política e Civil
+proposing_entity: null
+official_number: '45221'
+official_date: null
+publication_date: '1963-08-29'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 203/1963, Série I de 1963-08-29
+  number: '203'
+  series: I
+  supplement: null
+  pages: 1408 - 1408
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/08/20300/14081408.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '685790'
+  dre_path: /dr/detalhe/decreto/45221-1963-685790
+  internal: pt:dre:685790:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/45221-1963-685790
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/45221-1963-685790
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-08-29T00:00:00Z'
+integrity:
+  source_sha256: 81884be8c374fb6cd434a028e91a1bb4845bea685f8ba18ba034b2c4e27a5d1a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-45221-685790.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 45221
+
+O [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro do corrente ano, fixou o vencimento dos militares do Exército, da Armada e da Força Aérea em serviço nas forças armadas das províncias ultramarinas, e definiu também, com oportuno sentido de justiças, pelo n.º 8.º, suas alíneas e § único do artigo 19.º, os vencimentos que lhes devem ser pagos, e o período em que mantêm direito ao seu abono, quando se encontram doentes ou na situação de acidentados em serviço, nomeadamente no caso de ferimento grave em combate.
+
+As circunstâncias actuais que nos são impostas obrigam por vezes os funcionários civis a correr os mesmos riscos.
+
+Em relação a estes estabelece o Estatuto do Funcionalismo Ultramarino, no artigo 322.º, os vencimentos a que têm direito os agentes vítimas de acidente em serviço com ele relacionado, e por efeito do mesmo, observado o limite referido no § único do artigo 333.º imediato.
+
+Para o caso de ferimento grave recebido em combate nada está previsto, sendo, por isso, justo e humano estabelecer condições de remuneração idênticas às fixadas para os militares.
+
+Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º da Constituição Política:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
+
+###### Artigo único. Aos agentes vítimas de ferimento grave recebido em combate ou por actos de terrorismo é aplicável, quanto a vencimentos e período de tratamento, o disposto no n.º 8.º e suas alíneas do artigo 19.º do [Decreto-Lei n.º 44864](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44864-1963-193229), de 26 de Janeiro de 1963.
+
+§ único. Esta disposição considera-se aplicável a esses agentes a partir da entrada em vigor do mesmo decreto.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 29 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
+
+Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Peixoto Correia.

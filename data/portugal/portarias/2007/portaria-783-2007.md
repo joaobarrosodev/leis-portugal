@@ -1,0 +1,401 @@
+---
+schema_version: '1.0'
+id: pt:dre:636045:por
+title: Portaria n.º 783/2007
+short_title: null
+summary: Aprova o Regulamento do Concurso Local para a Matrícula e Inscrição no Ciclo de Estudos Conducente ao Grau de Licenciado
+  em Dança Ministrado pela Escola Superior de Dança do Instituto Politécnico de Lisboa
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Ciência, Tecnologia e Ensino Superior
+proposing_entity: null
+official_number: 783/2007
+official_date: null
+publication_date: '2007-07-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/2007, Série I de 2007-07-19
+  number: '138'
+  series: I
+  supplement: null
+  pages: 4569 - 4572
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/07/13800/0456904572.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/783/2007/07/19/p/dre/pt/html
+  oj: null
+  dre: '636045'
+  dre_path: /dr/detalhe/portaria/783-2007-636045
+  internal: pt:dre:636045:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/783-2007-636045
+  metadata_url: https://data.dre.pt/eli/port/783/2007/07/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/783-2007-636045
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-07-19T00:00:00Z'
+integrity:
+  source_sha256: 553901e287a5104169fabc64ebc2ccd062ea6a826ff93a7de30ce2415ed5a620
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-783-636045.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Artístico
+- Concurso Local de Acesso
+- Ensino Superior Politécnico
+- Escola Superior de Dança
+- Lisboa
+- Instituto Politécnico
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/147-a/2006/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/147-a/2006/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/158/2004/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/158/2004/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/26/2003/02/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/296-a/1998/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/40/2007/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/40/2007/02/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/45/2007/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/45/2007/02/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/76/2004/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/76/2004/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/99/1999/03/30/p/dre
+article_structure:
+  article_count: 25
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 783/2007
+
+de 19 de Julho
+
+Sob proposta do Instituto Politécnico de Lisboa e da sua Escola Superior de Dança;
+
+Ouvida a Comissão Nacional de Acesso ao Ensino Superior;
+
+Ao abrigo do disposto no n.º 3 do artigo 27.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de Fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de Março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de Junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de Julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de Fevereiro, e [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de Fevereiro:
+
+Manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:
+
+1.º
+
+Aprovação do Regulamento
+
+É aprovado o Regulamento do Concurso Local para a Matrícula e Inscrição no Ciclo de Estudos Conducente ao Grau de Licenciado em Dança Ministrado pela Escola Superior de Dança do Instituto Politécnico de Lisboa, cujo texto se publica em anexo a esta portaria.
+
+2.º
+
+Texto
+
+O texto referido no artigo anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria.
+
+3.º
+
+Alterações ao Regulamento
+
+Todas as alterações ao Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos.
+
+4.º
+
+Aplicação
+
+O disposto na presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano lectivo de 2007-2008, inclusive.
+
+5.º
+
+Entrada em vigor
+
+A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+**O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 2 de Julho de 2007.**
+
+REGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CICLO DE ESTUDOS CONDUCENTE AO GRAU DE LICENCIADO EM DANÇA MINISTRADO PELA ESCOLA SUPERIOR DE DANÇA DO INSTITUTO POLITÉCNICO DE LISBOA.
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente Regulamento disciplina o concurso local para a matrícula e inscrição no ciclo de estudos conducente ao grau de licenciado em Dança ministrado pela Escola Superior de Dança do Instituto Politécnico de Lisboa, adiante designada por Escola.
+
+###### Artigo 2.º — Avaliação da capacidade para a frequência
+
+A avaliação da capacidade para a frequência do ciclo de estudos é feita através da realização cumulativa das seguintes provas:
+
+a) Uma prova de ingresso, mediante exame nacional do ensino secundário, a optar pelo candidato de entre um elenco de disciplinas a indicar pelo conselho científico da Escola;
+
+b) Provas práticas, no âmbito do concurso local.
+
+###### Artigo 3.º — Provas práticas
+
+1 - As provas práticas destinam-se a avaliar os conhecimentos, capacidades e aptidões dos candidatos no domínio da dança.
+
+2 - As provas práticas são constituídas por:
+
+a) Prova técnica de dança;
+
+b) Prova de resposta criativa;
+
+c) Prova de composição coreográfica.
+
+3 - Os domínios sobre que incide cada prova são divulgados no edital a que se refere o artigo 12.º
+
+4 - O resultado de cada uma das provas traduz-se numa classificação na escala inteira de 0 a 20.
+
+5 - A classificação final das provas práticas é a resultante do cálculo da seguinte expressão, arredondado às décimas, considerando como uma décima a fracção não inferior a 0,05:
+
+(8 x Ptd + 3 x Prc + 9 x Pcc)/20
+
+em que:
+
+Ptd = classificação da prova técnica de dança;
+
+Prc = classificação da prova de resposta criativa;
+
+Pcc = classificação da prova de composição coreográfica.
+
+6 - Será realizada uma entrevista visando conhecer as motivações profissionais, artísticas e pedagógicas do candidato.
+
+###### Artigo 4.º — Validade das provas
+
+As provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam.
+
+###### Artigo 5.º — Condições para a candidatura
+
+Podem apresentar-se ao concurso:
+
+a) Os titulares de um curso de ensino secundário ou habilitação legalmente equivalente;
+
+b) Os que reúnam os requisitos exigidos para o acesso e ingresso através dos regimes especiais e concursos especiais de acesso.
+
+###### Artigo 6.º — Vagas
+
+A matrícula e inscrição no ciclo de estudos está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do [Decreto-Lei n.º 296-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/296-a-1998-173481), de 25 de Setembro, alterado pelos Decretos-Leis n.os [99/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1999-138571), de 30 de Março, [26/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-2003-199778), de 7 de Fevereiro, [76/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2004-210421), de 27 de Março, [158/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-2004-517468), de 30 de Junho, [147-A/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-a-2006-399197), de 31 de Julho, [40/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2007-517845), de 20 de Fevereiro, e [45/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2007-517833), de 23 de Fevereiro.
+
+###### Artigo 7.º — Local e prazo de apresentação da candidatura
+
+1 - O requerimento de candidatura é apresentado na Escola.
+
+2 - O prazo para a entrega do requerimento de candidatura é fixado nos termos do artigo 25.º
+
+###### Artigo 8.º — Apresentação da candidatura
+
+Tem legitimidade para subscrever o requerimento de candidatura:
+
+a) O candidato;
+
+b) Um seu procurador bastante;
+
+c) A pessoa que demonstre exercer o poder paternal ou a tutela.
+
+###### Artigo 9.º — Instrução do processo de candidatura
+
+O processo de candidatura é instruído com:
+
+a) Requerimento onde são indicados, obrigatoriamente:
+
+Nome do requerente;
+
+Número do bilhete de identidade e entidade emissora;
+
+Endereço postal;
+
+Habilitação com que se candidata;
+
+Ciclo de estudos a que se candidata;
+
+b) Certificado comprovativo da titularidade da habilitação com que se candidata;
+
+c) Fotocópia simples do bilhete de identidade.
+
+###### Artigo 10.º — Indeferimento liminar
+
+1 - São liminarmente indeferidos os requerimentos que:
+
+a) Não estejam correctamente formulados nos termos do artigo anterior;
+
+b) Sejam apresentados fora de prazo;
+
+c) Não estejam acompanhados da documentação necessária à sua completa instrução;
+
+d) Expressamente infrinjam alguma das regras fixadas pela presente portaria.
+
+2 - O indeferimento liminar é da competência do conselho directivo da Escola.
+
+###### Artigo 11.º — Júri das provas do concurso
+
+1 - A organização das provas do concurso é da competência de um júri designado pelo conselho directivo da Escola, ouvido o conselho científico.
+
+2 - Compete ao júri, nomeadamente:
+
+a) Fixar os domínios sobre que incidem as provas;
+
+b) Fixar os conteúdos das provas;
+
+c) Fixar os critérios de avaliação a adoptar em cada uma das provas;
+
+d) Dar execução às provas e proceder à sua apreciação;
+
+e) Proceder às operações de selecção e seriação dos candidatos.
+
+###### Artigo 12.º — Edital
+
+No prazo fixado nos termos do artigo 25.º, o conselho directivo procede à afixação, na Escola, de edital indicando, designadamente:
+
+a) Os domínios sobre que incidem as provas;
+
+b) Os critérios de avaliação a adoptar em cada uma das provas;
+
+c) Os prazos fixados nos termos do artigo 25.º
+
+###### Artigo 13.º — Selecção
+
+A selecção dos candidatos é realizada com base na classificação final das provas práticas a que se refere o n.º 4 do artigo 3.º, onde deve ser obtido um valor igual ou superior a 9,5.
+
+###### Artigo 14.º — Seriação
+
+1 - A seriação dos candidatos à matrícula e inscrição no ciclo de estudos é realizada com base numa nota de candidatura.
+
+2 - A nota de candidatura é a resultante do cálculo, até às décimas, da seguinte expressão, arredondado às décimas, considerando como uma décima a fracção não inferior a 0,05:
+
+0,7 x Pp + 0,3 x Ha
+
+em que:
+
+Pp = classificação final das provas práticas a que se refere o n.º 4 do artigo 3.º;
+
+Ha = classificação final da habilitação com que se candidata.
+
+###### Artigo 15.º — Colocação
+
+A colocação dos candidatos nas vagas fixadas é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior.
+
+###### Artigo 16.º — Desempate
+
+Sempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 14.º, disputem a última vaga ou o último conjunto de vagas do ciclo de estudos, são abertas tantas vagas adicionais quantas as necessárias para os admitir.
+
+###### Artigo 17.º — Competência
+
+As decisões sobre a candidatura a que se refere o presente Regulamento são da competência do conselho directivo da Escola.
+
+###### Artigo 18.º — Resultado final
+
+O resultado final exprime-se através de uma das seguintes situações:
+
+a) Colocado;
+
+b) Não colocado;
+
+c) Excluído.
+
+###### Artigo 19.º — Comunicação da decisão
+
+1 - O resultado final é tornado público através de aviso afixado na Escola no prazo fixado nos termos do artigo 25.º
+
+2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:
+
+a) Nome;
+
+b) Número e local de emissão do bilhete de identidade;
+
+c) Nota de candidatura a que se refere o artigo 14.º e suas componentes;
+
+d) Resultado final.
+
+3 - A menção da situação de Excluído é obrigatoriamente acompanhada da respectiva fundamentação legal.
+
+###### Artigo 20.º — Reclamações
+
+1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao conselho directivo da Escola.
+
+2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio, em carta registada.
+
+3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.
+
+4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através de carta registada com aviso de recepção.
+
+###### Artigo 21.º — Matrícula e inscrição
+
+1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição no prazo fixado nos termos do artigo 25.º
+
+2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado.
+
+3 - Sempre que um candidato não proceda à matrícula e inscrição no prazo fixado, a Escola chama, por via postal, à realização desta o candidato seguinte da lista seriada, até à efectiva ocupação da vaga ou ao esgotamento dos candidatos aprovados e não colocados.
+
+###### Artigo 22.º — Segunda fase
+
+1 - Quando, decorrido o prazo de matrícula e inscrição, se verifique a existência de vagas sobrantes, o conselho directivo da Escola pode decidir a realização de uma segunda fase do concurso.
+
+2 - Podem apresentar-se à segunda fase os candidatos que reúnam as condições fixadas no artigo 5.º, inclusive os que já se tenham inscrito na primeira fase mas hajam faltado às provas ou nelas reprovado.
+
+3 - À segunda fase aplicam-se as regras fixadas pelo presente Regulamento.
+
+###### Artigo 23.º — Exclusão de candidatos
+
+1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:
+
+a) Prestem falsas declarações;
+
+b) Actuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.
+
+2 - A decisão a que se refere o número anterior é da competência do conselho directivo da Escola.
+
+###### Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior
+
+Findo o prazo de matrícula e inscrição, a Escola envia à Direcção-Geral do Ensino Superior uma lista onde constem todos os candidatos que procederam à mesma, com indicação do nome e do número do bilhete de identidade.
+
+###### Artigo 25.º — Prazos
+
+Os prazos em que devem ser praticados os actos previstos no presente Regulamento são fixados pelo presidente do Instituto Politécnico, devendo ser tornados públicos através de aviso afixado na Escola.

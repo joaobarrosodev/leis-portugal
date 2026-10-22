@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:618739:por
+title: Portaria n.º 598/89
+short_title: null
+summary: Revoga a Portaria n.º 538-F/87, de 30 de Junho (aprova o Regulamento do Estágio Relativo aos Contadores-Verificadores
+  Estagiários da Direcção-Geral do Tribunal de Contas. Revoga a Portaria n.º 1071/81, de 17 de Dezembro)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 598/89
+official_date: null
+publication_date: '1989-08-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1989, Série I de 1989-08-02
+  number: '176'
+  series: I
+  supplement: null
+  pages: 3048 - 3048
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/17600/30483048.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '618739'
+  dre_path: /dr/detalhe/portaria/598-1989-618739
+  internal: pt:dre:618739:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/598-1989-618739
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/598-1989-618739
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-08-02T00:00:00Z'
+integrity:
+  source_sha256: 0b674475c2453e86df5eb556aec26ae3acd9b3030d9459b4e8bbd07c885d1697
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-598-618739.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 598/89
+
+de 2 de Agosto
+
+Considerando que a regulamentação do processo de selecção referente ao período de estágio a que estão sujeitos os contadores-verificadores estagiários da Direcção-Geral do Tribunal de Contas se encontra desactualizada:
+
+Manda o Governo, pelo Ministro das Finanças, que seja revogada a [Portaria n.º 538-F/87](https://diariodarepublica.pt/dr/detalhe/portaria/538-f-1987-622320), de 30 de Junho.
+
+Ministério das Finanças.
+
+**Assinada em 9 de Maio de 1989.**
+
+Pelo Ministro das Finanças, Rui Carlos Alvarez Carp, Secretário de Estado do Orçamento.

@@ -1,0 +1,210 @@
+---
+schema_version: '1.0'
+id: pt:dre:227213:por
+title: Decreto Legislativo Regional n.º 5/86/M
+short_title: null
+summary: Estabelece na Região Autónoma da Madeira um novo regime de registo das entidades exploradoras de espectáculos e divertimentos
+  públicos e das empresas importadoras de distribuidoras de filmes e videogramas
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Regional
+proposing_entity: null
+official_number: 5/86/M
+official_date: null
+publication_date: '1986-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 119/1986, Série I de 1986-05-24
+  number: '119'
+  series: I
+  supplement: null
+  pages: 1256 - 1261
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11900/12561261.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '227213'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/5-1986-227213
+  internal: pt:dre:227213:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1986-227213
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-1986-227213
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-05-14T00:00:00Z'
+integrity:
+  source_sha256: 6f68c574cd9d5bb30f5d5c73a2fe82f83b0df7619f37673660741ed58237a68c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1986/DRE-1986-5-227213.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:261139:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 5/86/M
+
+Considerando que o [Decreto-Lei n.º 456/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/456-1985-177825), de 29 de Outubro, alterou substancialmente a legislação vigente sobre espectáculos e divertimentos públicos, nomeadamente no capítulo do registo de actividade, concessão de vistos e actualização de coimas pelas infracções registadas;
+
+Considerando que importa igualmente estabelecer na Região Autónoma da Madeira um regime do tipo do estabelecido a nível nacional, pelos benefícios daí resultantes, quer para os serviços, com diminuição da carga burocrática, quer para o público, facilitando o cumprimento da lei:
+
+Nestes termos:
+
+A Assembleia Regional da Madeira decreta, ao abrigo da alínea a) do artigo 229.º da Constituição e da alínea b) do artigo 22.º do [Decreto-Lei n.º 318-D/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-d-1976-345536), de 30 de Abril, o seguinte:
+
+###### Artigo 1.º A exploração de espectáculos e divertimentos públicos por qualquer entidade, e bem assim o exercício da actividade das empresas importadoras e distribuidoras de filmes e videogramas, depende de registo prévio na Inspecção Regional de Espectáculos, adiante designada por IRE.
+
+###### Art. 2.º - 1 - O registo será requerido mediante impresso em triplicado (modelo A anexo ao presente diploma), a entregar nos serviços da IRE, do qual deverá constar a comprovação do pagamento da taxa referida no n.º 1 do artigo 3.º
+
+2 - Da instrução do registo constarão os seguintes elementos:
+
+a) Fotocópia do cartão de identificação de pessoa colectiva ou equiparada;
+
+b) O documento comprovativo do pagamento da contribuição industrial ou da declaração do início da actividade.
+
+3 - O registo reporta-se ao ano civil, sendo válido até 31 de Janeiro do ano seguinte.
+
+4 - A renovação do registo deve ser requerida nos termos do n.º 1 e instruída com o elemento referido na alínea b) do n.º 2.
+
+5 - Sempre que se alterarem as condições de exploração constantes do registo ou sempre que se verificarem alterações nos elementos referidos em qualquer das alíneas a) e b) do n.º 2, deve ser solicitada à IRE a respectiva modificação no prazo máximo de 30 dias.
+
+###### Art. 3.º - 1 - Por cada registo e suas renovações ou alterações são devidas taxas a fixar por portaria do Secretário Regional do Turismo e Cultura.
+
+2 - Pelo registo de entidades que explorem espectáculos ou divertimentos diversificados será devida por cada modalidade de espectáculo ou divertimento público explorada a taxa a fixar nos termos do número anterior.
+
+3 - São isentos do pagamento das taxas a que se refere o n.º 1:
+
+a) As associações recreativas, culturais ou desportivas;
+
+b) Os salões ou centros paroquiais e as instituições de beneficência;
+
+c) As empresas exploradoras de estabelecimentos legalmente classificados de utilidade turística.
+
+###### Art. 4.º O registo caduca:
+
+a) Em caso de falência ou concordata, salvo se no respectivo processo for mantido o estabelecimento em exploração nos termos da lei;
+
+b) Por falta de registo atempado das alterações referidas no n.º 5 do artigo 2.º
+
+###### Art. 5.º - 1 - Não carece do visto a que se refere o artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, mas de simples autorização, a realização de espectáculos ou divertimentos públicos por entidades que não se encontrem registadas, quando a respectiva receita se destine a fins culturais ou humanitários, devidamente certificados pela junta de freguesia da área.
+
+2 - A autorização é requerida pelos interessados e concedida pela IRE, não sendo devida qualquer taxa.
+
+###### Art. 6.º São isentos do registo e da autorização referidos no artigo anterior:
+
+a) Os organismos do Estado e das regiões autónomas e as autarquias locais;
+
+b) Os clubes ou associações desportivas relativamente a espectáculos desportivos.
+
+###### Art. 7.º - 1 - Ressalvado o disposto no presente diploma sobre isenções de registo, a ausência deste é impeditiva da concessão do visto a que se refere o artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e do licenciamento a que se refere a base XLVI da [Lei n.º 7/71](https://diariodarepublica.pt/dr/detalhe/lei/7-1971-632010), de 7 de Dezembro.
+
+2 - O visto será solicitado à IRE mediante impressos dos modelos B, C ou D anexos ao presente diploma.
+
+3 - É obrigatória a afixação, em local bem visível de todos os recintos de espectáculos ou divertimentos públicos, do original ou cópia do impresso a que se refere o número anterior, devidamente visado pelos serviços da IRE.
+
+4 - Os espectáculos desportivos não carecem de visto.
+
+###### Art. 8.º - 1 - A licença de recinto a que se referem o artigo 5.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, e o artigo 1.º do [Decreto n.º 42661](https://diariodarepublica.pt/dr/detalhe/decreto/42661-1959-439639), da mesma data, será válida pelo período de três anos a contar da data da emissão, devendo ser requerida à IRE a sua renovação pelo menos 60 dias antes da data limite de validade.
+
+2 - Devem ser comunicadas à IRE no prazo de 30 dias, para averbamento na respectiva licença de recinto:
+
+a) A mudança do nome que identifica publicamente o recinto;
+
+b) A mudança de proprietário ou de entidade exploradora do recinto.
+
+3 - Para efeitos de renovação da licença de recinto, ou nos casos previstos no número anterior, poderá a IRE determinar a realização de vistoria nos termos da legislação aplicável.
+
+4 - É obrigatória a afixação, em local bem visível, para todos os recintos de espectáculos ou divertimentos públicos do original ou fotocópia da licença de recinto a que se refere o n.º 1.
+
+###### Art. 9.º - 1 - Junto das bilheteiras ou, não as havendo, na entrada principal dos recintos de espectáculos, ou divertimentos públicos será sempre afixada, de forma bem visível, a lotação do recinto.
+
+2 - É proibido vender bilhetes ou facultar a admissão de espectadores para além da lotação fixada.
+
+3 - Esgotados os bilhetes ou atingida a lotação do recinto, será afixado em lugar destacado, na parte exterior da bilheteira ou na entrada principal do recinto, o dístico «Lotação esgotada».
+
+4 - Sempre que as circunstâncias o aconselhem, poderá a IRE fazer aplicar, relativamente a qualquer tipo de espectáculo, o disposto no artigo 41.º do [Decreto-Lei n.º 184/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1973-673990), de 25 de Abril.
+
+5 - Em recintos para os quais não haja bilhetes de ingresso a fiscalização da lotação, após vistoria nos termos da legislação aplicável, far-se-á pelos meios considerados eficazes pela IRE.
+
+###### Art. 10.º A entidade que detiver os direitos de exploração do recinto e o promotor do espectáculo respondem pelo incumprimento de todas as formalidades legais relativas à realização do mesmo.
+
+###### Art. 11.º - 1 - A falta do registo referido no artigo 1.º constitui contra-ordenação punida com coima no montante mínimo de 30000$00 e máximo de 300000$00.
+
+2 - A falta do visto referido no artigo 24.º do [Decreto-Lei n.º 42660](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42660-1959-439638), de 20 de Novembro de 1959, constitui contra-ordenação punida com coima no montante mínimo de 30000$00 e máximo de 300000$00.
+
+3 - A falta de autorização referida no n.º 1 do artigo 5.º constitui contra-ordenação punida com coima no montante mínimo de 1000$00 e máximo de 10000$00.
+
+###### Art. 12.º - 1 - A infracção ao disposto no n.º 3 do artigo 7.º, nos n.os 2 e 4 do artigo 8.º e nos n.os 1 e 3 do artigo 9.º constitui contra-ordenação punida com coima no montante mínimo de 5000$00 e máximo de 50000$00.
+
+2 - A infracção ao disposto no n.º 2 do artigo 9.º constitui contra-ordenação punida com coima no montante mínimo de 20000$00 e máximo de 200000$00.
+
+###### Art. 13.º - 1 - A falta de licença de recinto a que se refere o n.º 1 do artigo 8.º constitui contra-ordenação punida com coima no montante mínimo de 100000$00 e máximo de 1000000$00, podendo acessoriamente ser determinado o encerramento do recinto.
+
+2 - A sanção referida no número anterior terá a duração máxima de um ano, contado a partir da decisão condenatória definitiva.
+
+3 - A falta de renovação da licença de recinto referida no n.º 1 do artigo 8.º constitui contra-ordenação punida com coima no montante mínimo de 50000$00 e máximo de 500000$00.
+
+###### Art. 14.º - 1 - A fiscalização do cumprimento do disposto no presente diploma compete à IRE e às autoridades policiais e administrativas.
+
+2 - As autoridades policiais e administrativas que constatarem infracções ao disposto no presente diploma levantarão os competentes autos de notícia, que remeterão à IRE.
+
+###### Art. 15.º São competentes para o processamento das contra-ordenações os serviços de contencioso da IRE, e para aplicação das coimas e da sanção acessória o Secretário Regional do Turismo e Cultura.
+
+###### Art. 16.º O modelo dos impressos anexos ao presente diploma poderá ser alterado por portaria do Secretário Regional do Turismo e Cultura.
+
+###### Art. 17.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária em 18 de Março de 1986.
+
+**O Presidente da Assembleia Regional da Madeira, Jorge Nélio Praxedes Ferraz Mendonça.**
+
+**Assinado em 16 de Abril de 1986.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/05/11900/12561261.pdf))](https://files.diariodarepublica.pt/1s/1986/05/11900/12561261.pdf)

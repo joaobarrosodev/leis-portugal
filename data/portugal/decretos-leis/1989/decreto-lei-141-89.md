@@ -1,0 +1,241 @@
+---
+schema_version: '1.0'
+id: pt:dre:625605:por
+title: Decreto-Lei n.º 141/89
+short_title: null
+summary: Define o regime jurídico e de protecção social dos ajudantes familiares
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 141/89
+official_date: null
+publication_date: '1989-04-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 98/1989, Série I de 1989-04-28
+  number: '98'
+  series: I
+  supplement: null
+  pages: 1782 - 1785
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/04/09800/17821785.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '625605'
+  dre_path: /dr/detalhe/decreto-lei/141-1989-625605
+  internal: pt:dre:625605:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1989-625605
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-1989-625605
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-12-14T00:00:00Z'
+integrity:
+  source_sha256: d9b7fd7c072549b61f601ef004bd78bd9327d89fafc5c986dffbd03ed30e94e5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-141-625605.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:189476:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 141/89
+
+de 28 de Abril
+
+Constitui preocupação do Governo a necessidade de desenvolver e aperfeiçoar, no âmbito da acção social exercida pelo sistema de segurança social, diversas modalidades de apoio social a famílias e indivíduos que se encontrem em situação de maior isolamento, dependência ou marginalização social, designadamente a idosos e deficientes.
+
+Uma das formas de intervenção que pode contribuir de maneira muito positiva para a concretização daquele objectivo é, sem dúvida, a ajuda prestada no respectivo domicílio às famílias cujos membros, por razões de vária ordem, não podem assegurar com normalidade as tarefas inerentes à vida pessoal e familiar.
+
+Desse modo, pode facilitar-se a manutenção de idosos, inválidos e deficientes no seu contexto sócio-familiar, garantir-se a continuidade da vida familiar nas situações de doença ou de impossibilidade de outra ordem dos membros da família que habitualmente garantem os cuidados do lar e estimular-se a integração e o próprio desenvolvimento da solidariedade ao nível das comunidades abrangidas pela acção.
+
+Ora, a resposta de acção social constituída pelos chamados «ajudantes familiares», embora relativamente recente entre nós, demonstra já viabilidade para uma efectiva potencialização do bem-estar social, como, aliás, acontece com outros países que de há muito vêm recorrendo a esta forma de apoio social para superação das carências das suas populações.
+
+Sem esquecer o papel que o voluntariado social pode e deve desempenhar neste tipo de resposta - papel esse que convém, paralelamente, encorajar - e até para permitir o seu potencial desenvolvimento nesta área, mostra-se conveniente estabelecer o quadro legal de referência desta modalidade de apoio social e definir o perfil das pessoas que irão, na prática, assumi-la através do exercício da sua actividade.
+
+Por outro lado, importa também fixar o tipo de formação que deve ser ministrada a quem vai desempenhar a delicada missão de prestar cuidados e realizar tarefas normalmente da responsabilidade dos membros de uma família, bem como regular a forma como a actividade deverá ser desenvolvida, o tipo de relação jurídica que deve existir entre o ajudante familiar e a instituição responsável pela resposta social - seja ela pública ou privada - e ainda os direitos e deveres de ambas as partes decorrentes dessa relação, nomeadamente no que se refere às formas de remuneração e à protecção social dos ajudantes familiares.
+
+São estes os objectivos visados pelo presente diploma, na linha da concretização de medidas que contribuam para o bem-estar e para a integração social da população e, em especial, dos idosos e deficientes.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objectivo
+
+O presente diploma tem por objectivo definir as condições de exercício e o regime de protecção social da actividade que, no âmbito da acção social realizada pela Segurança Social ou por outras entidades, é desenvolvida por ajudantes familiares.
+
+###### Artigo 2.º — Ajudantes familiares
+
+Para efeitos do presente diploma, ajudantes familiares são as pessoas que, em articulação com instituições de suporte, prestam serviços domiciliários imprescindíveis à normalidade da vida da família nos casos em que os mesmos serviços não possam ser prestados pelos seus membros.
+
+###### Artigo 3.º — Instituições de suporte
+
+São instituições de suporte, técnico e financeiro, dos ajudantes familiares, a Santa Casa da Misericórdia de Lisboa, as instituições particulares de solidariedade social e, subsidiariamente, os centros regionais de segurança social e os serviços das regiões autónomas que promovam acção social no âmbito da Segurança Social, bem como outras entidades públicas ou organizações não governamentais que assegurem os serviços de apoio familiar previstos neste diploma.
+
+###### Artigo 4.º — Funções
+
+Aos ajudantes familiares no exercício da sua actividade compete, em geral:
+
+a) Prestar ajuda na confecção das refeições, no tratamento de roupas e nos cuidados de higiene e conforto pessoal dos utentes;
+
+b) Realizar no exterior serviços necessários aos utentes e acompanhá-los nas suas deslocações, sempre que necessário;
+
+c) Ministrar aos utentes, quando necessário, a medicação prescrita que não seja da exclusiva competência dos técnicos de saúde;
+
+d) Acompanhar as alterações que se verifiquem na situação global dos utentes que afectem o seu bem-estar e, de um modo geral, actuar por forma a ultrapassar possíveis situações de isolamento e solidão.
+
+###### Artigo 5.º — Aptidão para o exercício da actividade
+
+1 - A aptidão para o exercício da actividade de ajudante familiar depende da existência dos seguintes requisitos de ordem pessoal:
+
+a) Idade igual ou superior a 18 anos e condições adequadas de saúde física e mental;
+
+b) Escolaridade obrigatória;
+
+c) Maturidade, sentido de responsabilidade, estabilidade emocional e interesse pela actividade;
+
+d) Capacidade para o desenvolvimento de funções de apoio às famílias, de forma adequada a estimular as aptidões dos utentes.
+
+2 - A prova dos requisitos de ordem pessoal a que se refere o número anterior é feita, conforme os casos, mediante a apresentação de documentos ou por formas de avaliação directa.
+
+###### Artigo 6.º — Selecção
+
+1 - A selecção dos interessados no exercício da actividade de ajudante familiar tem lugar mediante a verificação prévia da sua aptidão pessoal e ainda da ponderação de anterior experiência de trabalho social e de formação adequada.
+
+2 - Constitui requisito preferencial para a selecção definitiva dos ajudantes familiares a residência na zona em que estes irão exercer fundamentalmente a sua actividade.
+
+###### Artigo 7.º — Formação inicial
+
+1 - O início da actividade dos interessados, uma vez seleccionados, deve ser precedido de acções de formação, teóricas e práticas, a promover pela instituição de suporte.
+
+2 - Das acções de formação referidas no número anterior devem constar, designadamente, noções básicas sobre gerontologia e problemática da deficiência, higiene alimentar, economia doméstica, técnicas de mobilização, higiene de acamados e relações humanas.
+
+3 - Nos casos em que serviços responsáveis pela formação considerem que os interessados têm formação anterior adequada à actividade a exercer, pode ser dispensada a frequência das acções referidas no n.º 1.
+
+###### Artigo 8.º — Aperfeiçoamento profissional
+
+Sempre que haja alteração sensível das condições de exercício da actividade, os ajudantes familiares devem frequentar acções de aperfeiçoamento técnico, promovidas pela instituição de suporte.
+
+###### Artigo 9.º — Prestação de serviços pelos ajudantes familiares
+
+Após o decurso do período de formação com aproveitamento dos interessados, a realização da prestação de serviços de ajuda domiciliária é ajustada com as instituições de suporte, nos termos dos artigos seguintes.
+
+###### Artigo 10.º — Formalização da prestação de serviços
+
+1 - A prestação de serviço a que se refere o artigo anterior deve constar de documento, escrito e assinado por ambas as partes interessadas, onde se estabeleça o período previsto para a sua vigência e as condições determinantes da sua renovação.
+
+2 - Pela celebração do contrato os ajudantes familiares não adquirem a qualidade de empregado, funcionário ou agente das instituições de suporte.
+
+###### Artigo 11.º — Obrigações dos ajudantes familiares
+
+1 - Os ajudantes familiares, no exercício da sua da actividade, obrigam-se perante as instituições de suporte a:
+
+a) Desempenhar as tarefas que integram a sua da actividade, de acordo com as orientações técnicas acordadas;
+
+b) Dar conhecimento atempado à instituição de suporte de todos os elementos que respeitem ao desenvolvimento da sua da actividade, e que possam reflectir-se sobre o bem-estar dos utentes da ajuda familiar;
+
+c) Informar a instituição de suporte com a antecedência mínima de 48 horas, salvo casos de força maior, da impossibilidade de garantir a prestação dos serviços.
+
+2 - Os ajudantes familiares, no exercício da sua da actividade, obrigam-se ainda, perante as instituições de suporte e relativamente às famílias que apoiam, a:
+
+a) Desempenhar as tarefas que integram a sua da actividade, de acordo com as necessidades das pessoas e famílias a apoiar;
+
+b) Colaborar com as famílias às quais prestam apoio, assegurando uma permanente informação sobre os aspectos relevantes para a garantia das condições de saúde e do bem-estar dos seus familiares.
+
+###### Artigo 12.º — Obrigações das instituições de suporte
+
+Às instituições de suporte compete:
+
+a) Proceder à selecção das pessoas ou das famílias a quem deve ser prestado apoio domiciliário e determinar o tipo de apoio necessário, sua periodicidade e duração;
+
+b) Prestar apoio técnico regular aos ajudantes familiares, por forma a garantir a eficácia da sua actuação, incluindo, quando necessário, os meios materiais indispensáveis ao bom exercício da actividade;
+
+c) Assegurar aos ajudantes familiares o pagamento da retribuição devida pela prestação do serviço;
+
+d) Promover a realização de contratos de seguros de acidentes pessoais para cobertura dos riscos a que fiquem sujeitos os ajudantes familiares no exercício da sua da actividade.
+
+###### Artigo 13.º — Efeitos do não cumprimento das obrigações
+
+A violação das obrigações dos ajudantes familiares, previstas no artigo 11.º, e das instituições de suporte, previstas nas alíneas b) e c) do artigo anterior, determina a imediata rescisão do contrato.
+
+###### Artigo 14.º — Regras da prestação de serviço
+
+Devem constar do documento previsto no artigo 10.º as regras a que obedece a prestação de serviço, nomeadamente quanto ao número de pessoas ou famílias a apoiar.
+
+###### Artigo 15.º — Cessação da prestação de serviço
+
+Nos casos em que os ajudantes familiares queiram fazer cessar a prestação de serviço antes da data prevista para o seu termo, devem avisar a instituição de suporte com a antecedência mínima de quinze dias.
+
+###### Artigo 16.º — Regime de segurança social
+
+1 - Os ajudantes familiares ficam obrigatoriamente enquadrados pelo regime de segurança social dos trabalhadores independentes, com as especificidades constantes do número seguinte.
+
+2 - As contribuições para o regime dos trabalhadores independentes devidas pelos ajudantes familiares são calculadas pela aplicação da taxa de 12% sobre o valor da retribuição mensal ajustado com a instituição de suporte, com um limite mínimo da base de incidência correspondente a 30% do valor da remuneração mensal mínima garantida à generalidade dos trabalhadores.
+
+###### Artigo 17.º — Prova de exercício de actividade
+
+1 - Para efeitos do disposto no artigo anterior, os ajudantes familiares devem fazer prova, junto da instituição de segurança social da área da sua residência, do montante da retribuição acordada por ocasião da sua inscrição no regime dos trabalhadores independentes, sempre que passem a prestar serviços acordados com outra instituição de suporte ou quando for alterada a remuneração acordada.
+
+2 - A prova a que se refere o número anterior é efectuada pela exibição do documento referido no artigo 10.º ou de cópia devidamente autenticada.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Maio de 1989.
+
+Visto e aprovado em Conselho de Ministros de 9 de Março de 1989. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares - José Albino da Silva Peneda.
+
+**Promulgado em 14 de Abril de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 14 de Abril de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

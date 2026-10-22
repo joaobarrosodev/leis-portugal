@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:134605185:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-134496488",
+ "dre_path": "/dr/detalhe/portaria/129-2020-134605185",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-05-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "134496585",
+    "134496586",
+    "134496587",
+    "134496588",
+    "134496589",
+    "134496590",
+    "134496592"
+   ]
+  },
+  {
+   "date": "2020-08-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:140431105:por",
+     "title": "Portaria n.º 196/2020",
+     "published": "2020-08-17",
+     "dre_path": "/dr/detalhe/portaria/196-2020-140431105"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "134496585",
+    "134496586",
+    "134496587",
+    "134496588",
+    "140540697",
+    "134496590",
+    "134496591",
+    "134496592"
+   ]
+  }
+ ],
+ "fragments": {
+  "134496585": {
+   "fragment_id": "134496489",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 129/2020\n\nde 27 de maio\n\nSumário: Altera o curso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica da Escola Superior de Enfermagem do Porto.\n\nSob proposta do órgão legal e estatutariamente competente da Escola Superior de Enfermagem do Porto;\n\nConsiderando o disposto no Decreto-Lei n.º 353/99, de 3 de setembro;\n\nConsiderando o disposto no Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela Portaria n.º 268/2002, de 13 de março;\n\nConsiderando o disposto na Portaria n.º 334/2003, de 24 de abril, com as alterações introduzidas pela Portaria n.º 1203/2003, de 13 de outubro, pelos Despachos n.os 10812/2009, de 27 de abril, 18143/2009, de 5 de agosto, e 8889/2013, de 8 de julho, e pela Portaria n.º 59/2020, de 4 de março;\n\nOuvida a Ordem dos Enfermeiros, nos termos do n.º 2 do artigo 7.º do referido Regulamento;\n\nConsiderando o disposto no artigo 40.º do Estatuto da Ordem dos Enfermeiros, aprovado pelo Decreto-Lei n.º 104/98, de 21 de abril, alterado pela Lei n.º 156/2015, de 16 de setembro;\n\nAo abrigo do disposto no n.º 1 do artigo 7.º do Regulamento Geral dos Cursos de Pós-Licenciatura de Especialização em Enfermagem, aprovado pela Portaria n.º 268/2002, de 13 de março, manda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n> Nota: [Artigo 10.º, Portaria n.º 196/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/196-2020-140431105) As alterações previstas na presente portaria produzem efeitos a partir do ano letivo 2020-2021, inclusive, exceto o disposto no artigo 4.º, que produz efeitos a partir do ano letivo de 2019-2020, inclusive."
+  },
+  "134496586": {
+   "fragment_id": "134496490",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova alterações ao curso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica da Escola Superior de Enfermagem do Porto, aprovado pela Portaria n.º 334/2003, de 24 de abril, com as alterações introduzidas pela Portaria n.º 1203/2003, de 13 de outubro, pelos Despachos n.os 10812/2009, de 27 de abril, 18143/2009, de 5 de agosto, e 8889/2013, de 8 de julho, e pela Portaria n.º 59/2020, de 4 de março."
+  },
+  "134496587": {
+   "fragment_id": "134496491",
+   "type": 11,
+   "heading": "Artigo 2.º — Alterações à Portaria n.º 334/2003, de 24 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações à Portaria n.º 334/2003, de 24 de abril\n\nA caracterização, estrutura curricular e plano de estudos do curso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica, aprovados em anexo à Portaria n.º 334/2003, de 24 de abril, na sua redação atual, passam a ter a redação constante do anexo à presente portaria."
+  },
+  "134496588": {
+   "fragment_id": "134496492",
+   "type": 11,
+   "heading": "Artigo 3.º — Regras de transição entre planos de estudo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regras de transição entre planos de estudo\n\nAs regras de transição entre os anteriores e os novos planos de estudos são fixadas pelo órgão legal e estatutariamente competente da Escola Superior de Enfermagem do Porto."
+  },
+  "134496589": {
+   "fragment_id": "134496493",
+   "type": 11,
+   "heading": "Artigo 4.º — Número máximo de alunos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Número máximo de alunos\n\n1 - O número máximo de alunos a admitir anualmente não pode exceder 15.\n\n2 - A frequência global do curso não pode exceder 30 alunos."
+  },
+  "134496590": {
+   "fragment_id": "134496494",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia seguinte ao da publicação.\n\n2 - As alterações previstas na presente portaria produzem efeitos a partir do ano letivo de 2019-2020, inclusive."
+  },
+  "134496592": {
+   "fragment_id": "134496496",
+   "type": 14,
+   "heading": "Anexo — Escola Superior de Enfermagem do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Escola Superior de Enfermagem do Porto\n\nCurso de pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\nCaracterização\n\n1 - Instituição: Escola Superior de Enfermagem do Porto\n\n2 - Curso: Pós-licenciatura de especialização em Enfermagem de Saúde Materna e Obstétrica\n\n3 - Diploma: Diploma de especialização em Enfermagem\n\n4 - Área científica e predominante do curso: Enfermagem\n\n5 - Número de créditos, segundo o sistema europeu de transferência de créditos, necessário à obtenção do grau ou diploma: 120 ECTS\n\n6 - Duração normal do curso: 2 anos curriculares/4 semestres\n\n7 - Estrutura curricular:\n\nQUADRO N.º 1\n\n(ver documento original)\n\nQUADRO N.º 2\n\n1.º ano\n\n1.º semestre/2.º semestre\n\n(ver documento original)\n\nQUADRO N.º 3\n\n2.º ano\n\n1.º semestre/2.º semestre\n\n(ver documento original)\n\n113257598"
+  },
+  "140540697": {
+   "fragment_id": "134496493",
+   "type": 11,
+   "heading": "Artigo 4.º — Número máximo de alunos",
+   "in_force_from": "2020-08-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 196/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/196-2020-140431105), em vigor a partir de 2020-08-18"
+   ],
+   "markdown": "###### Artigo 4.º — Número máximo de alunos\n\n1 - O número máximo de novos de alunos a admitir anualmente não pode exceder 30.\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 196/2020 - Diário da República n.º 159/2020, Série I de 2020-08-17](https://diariodarepublica.pt/dr/detalhe/portaria/196-2020-140431105), em vigor a partir de 2020-08-18"
+  },
+  "134496591": {
+   "fragment_id": "134496495",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, em 19 de maio de 2020."
+  }
+ }
+}

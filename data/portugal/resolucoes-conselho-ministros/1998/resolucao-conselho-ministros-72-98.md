@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:477827:por
+title: Resolução do Conselho de Ministros n.º 72/98
+short_title: null
+summary: Cria, na dependência da Ministra do Ambiente, a Comissão para as Alterações Climáticas
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 72/98
+official_date: null
+publication_date: '1998-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/1998, Série I-B de 1998-06-29
+  number: '147'
+  series: I
+  supplement: null
+  pages: 2910 - 2910
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/06/147b00/29102910.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/72/1998/06/29/p/dre/pt/html
+  oj: null
+  dre: '477827'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/72-1998-477827
+  internal: pt:dre:477827:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-1998-477827
+  metadata_url: https://data.dre.pt/eli/resolconsmin/72/1998/06/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/72-1998-477827
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-12T00:00:00Z'
+integrity:
+  source_sha256: ea05f640ce3928e8f808279c878809608aadd4032014b47f31a781974c36b938
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-72-477827.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Definição de Competências
+- Comissão para as Alterações Climáticas
+- Proteção do Ambiente
+- Representante do Governo
+- Alteração Climática
+- Clima
+relationships:
+- type: amended_by
+  target: pt:dre:553603:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 72/98
+
+As alterações climáticas constituem hoje um dos problemas internacionais mais importantes, quer pelas consequências, a nível ambiental, de uma modificação do clima, quer pelas implicações económicas, sociais e políticas associadas às estratégias de redução e de limitação das emissões dos gases que contribuem para essa modificação. A assinatura em 1992 da Convenção Quadro para as Alterações Climáticas e a adopção do Protocolo de Kyoto, negociado em Dezembro de 1997, na 3.ª Conferência das Partes, constituem, pelos compromissos que encerram, passos significativos na defesa da estabilidade climática.
+
+Portugal é, desde o primeiro momento, Parte da Convenção Quadro e participou de forma activa, individual e como membro da União Europeia, na negociação do Protocolo de Kyoto.
+
+Os compromissos assumidos conjuntamente com os restantes países da União Europeia - a chamada «bolha comunitária» - sob a forma de limitação e de redução das emissões dos gases, susceptíveis de provocarem o aquecimento do planeta, exigem um esforço significativo da parte dos consumidores nacionais e de todos os sectores da economia portuguesa no sentido de se atingir, nos prazos fixados, as metas que foram acordadas.
+
+A forma mais aconselhável para mobilizar os agentes económicos e os sectores da economia é a elaboração de uma estratégia nacional para as alterações climáticas, prevista desde 1992 na Convenção Quadro e que tem vindo a ser adoptada por um grande número de países, em particular pelos membros da União Europeia.
+
+No sentido de honrar os compromissos comunitários e internacionais subscritos pelo Estado Português, e dado o carácter horizontal das medidas e dos programas de luta contra as alterações climáticas, afigura-se necessário constituir uma comissão, composta por todos os departamentos do Estado com competências nesta área e com um mandato que lhe permita responder às solicitações internacionais e às necessidades nacionais.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolveu:
+
+1 - Criar, na dependência da Ministra do Ambiente, a Comissão para as Alterações Climáticas, composta por representantes dos Ministros dos Negócios Estrangeiros, da Administração Interna, do Equipamento, do Planeamento e da Administração do Território, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e da Ciência e da Tecnologia das Regiões Autónomas e apoiada por técnicos dos departamentos envolvidos.
+
+2 - Incumbir a referida Comissão das seguintes tarefas:
+
+a) Elaborar a estratégia nacional para as alterações climáticas e as suas sucessivas modificações, propondo ao Governo a sua implementação;
+
+b) Acompanhar a realização das medidas, programas e acções que vierem a ser adoptados pelo Governo;
+
+c) Contribuir com a assessoria técnica e científica necessária às delegações nacionais, em particular nas reuniões do AGBM e da Conferência das Partes:
+
+d) Elaborar os relatórios nacionais sobre as alterações climáticas;
+
+e) Propor ao Governo as medidas que considere mais adequadas para dar sequência aos compromissos assumidos.
+
+3 - As despesas com o funcionamento da Comissão serão suportadas pelos orçamentos dos ministérios directamente envolvidos.
+
+4 - O regulamento de funcionamento da Comissão será aprovado por despacho conjunto dos membros do Governo mencionados no n.º 1 da presente resolução.
+
+5 - Os planos operacionais das Regiões Autónomas deverão integrar-se, com salvaguarda dos interesses específicos próprios, na estratégia nacional para as alterações climáticas.
+
+Presidência do Conselho de Ministros, 19 de Maio de 1998. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.

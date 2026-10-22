@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:25343997:por
+title: Decreto-Lei n.º 60/2014
+short_title: null
+summary: Estabelece um regime excecional para a seleção e o recrutamento do pessoal docente dos estabelecimentos públicos
+  da educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação e Ciência
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 60/2014
+official_date: null
+publication_date: '2014-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 78/2014, Série I de 2014-04-22
+  number: '78'
+  series: I
+  supplement: null
+  pages: 2489 - 2491
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/04/07800/0248902491.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/60/2014/04/22/p/dre/pt/html
+  oj: null
+  dre: '25343997'
+  dre_path: /dr/detalhe/decreto-lei/60-2014-25343997
+  internal: pt:dre:25343997:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2014-25343997
+  metadata_url: https://data.dre.pt/eli/dec-lei/60/2014/04/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2014-25343997
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-04-22T00:00:00Z'
+integrity:
+  source_sha256: c13115cb900dd57e03801b864cb665f5f095357cf81177178899a8c08410bd50
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-60-25343997.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Definição de Competências
+- Direção Geral da Administração Escolar
+- Ensino Oficial
+- Recrutamento de Pessoal
+- Ministério da Educação e Ciência
+- Ensino Secundário
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Ensino Básico
+- Gestão de Recursos Humanos
+- Educação Pré-escolar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/7/2013/01/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/7/2013/01/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/59/2008/09/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/85/2009/08/27/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 60/2014
+
+de 22 de abril
+
+O XIX Governo Constitucional tem desenvolvido, nos termos do seu Programa, uma estratégia concretizadora das boas práticas de gestão dos recursos humanos e da valorização das suas capacidades com vista a potenciar o desenvolvimento do país seguindo critérios de elevado rigor e exigência.
+
+O enfoque no domínio da educação constitui uma das suas determinantes prerrogativas, criando mecanismos de melhor adequação dos recursos existentes às necessidades que com rigor são declaradas.
+
+O Governo desenvolveu, assim, um conjunto de políticas de natureza estrutural que visam a adequada utilização dos recursos, considerando as necessidades reais do sistema educativo e as boas práticas de gestão dos seus recursos humanos docentes. Nesse sentido, foram já implementadas diversas medidas, designadamente a criação de um novo regime de recrutamento e mobilidade do pessoal docente, a revisão das áreas geográficas dos quadros de zona pedagógica, o reforço da autonomia das escolas, a diminuição progressiva de contratos a termo destinados à satisfação de necessidades temporárias em complementaridade ao reforço da aplicação do artigo 27.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril, relativamente aos docentes de carreira dos quadros de zona pedagógica e, especialmente, a abertura de um procedimento concursal extraordinário, no ano de 2013, até então nunca realizado, bem como outros procedimentos concursais com vista à satisfação de necessidades permanentes através da celebração de contratos de trabalho em funções públicas por tempo indeterminado.
+
+Neste domínio, assistiu-se a uma dinâmica nunca verificada. Com efeito, para além do concurso externo extraordinário, que decorreu no início de 2013 por aplicação do [Decreto-Lei n.º 7/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2013-256466), de 17 de janeiro, foram realizados os concursos interno e externo nos termos do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho, e os concursos internos e externos destinados à satisfação de necessidades permanentes dos ensinos artísticos especializados da música e da dança, realizados ao abrigo da Portaria n.º 942/2009, de 21 de agosto.
+
+Este último concurso, apesar de se encontrar regulado desde 2009 não tinha ainda sido concretizado, tal como um concurso extraordinário de acesso à carreira. Estes factos evidenciam a determinação do Governo em concretizar efetivamente os objetivos a que se propôs.
+
+Prosseguindo esse desígnio, considerando o apuramento de novas necessidades estruturais de docentes em resultado da reorganização e estabilização da rede escolar e a continuidade da política de vinculação dos professores contratados a termo resolutivo, que têm contribuído sucessivamente para a satisfação das necessidades do sistema público de ensino, valorizando a experiência adquirida e a avaliação obtida, o Governo promove, através do presente decreto-lei, o segundo procedimento concursal extraordinário com vista à satisfação de necessidades permanentes.
+
+Por outro lado, pretende-se valorizar especialmente a ligação objetiva dos candidatos ao sistema público de educação, concretizado no exercício do seu trabalho nas escolas, tornando a oposição ao concurso extraordinário condição obrigatória de acesso à posterior contratação a termo resolutivo para a satisfação de necessidades temporárias que entretanto surjam no ano letivo 2014-2015.
+
+O ingresso na carreira é feito no primeiro escalão da tabela indiciária, ficando sujeitos aos condicionalismos impostos pela Lei do Orçamento do Estado no que respeita à aplicação do n.º 3 do artigo 36.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril.
+
+Foram ouvidos os sindicatos, associações de sindicatos e federações sindicais representativas do pessoal docente do ensino da rede pública do Ministério da Educação e Ciência, nos termos da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de maio, alterada pela [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de setembro.
+
+Assim:
+
+No desenvolvimento da Lei de Bases do Sistema Educativo, aprovada pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de outubro, alterada pelas Leis n.os [115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de setembro, [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 agosto, e [85/2009](https://diariodarepublica.pt/dr/detalhe/lei/85-2009-488826), de 27 de agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece um regime excecional destinado à seleção e recrutamento de pessoal docente para os estabelecimentos públicos de educação pré-escolar e dos ensinos básico e secundário na dependência do Ministério da Educação e Ciência.
+
+2 - O processo de seleção e recrutamento previsto no número anterior realiza-se mediante concurso externo extraordinário, nos termos estabelecidos no presente decreto-lei.
+
+###### Artigo 2.º — Requisitos de admissão
+
+Podem ser opositores ao concurso externo extraordinário os candidatos que reúnam, cumulativamente, os seguintes requisitos de admissão:
+
+a) Exercício efetivo de funções docentes com qualificação profissional em estabelecimentos públicos de educação pré-escolar ou dos ensinos básico e secundário, em pelo menos 365 dias, nos três anos letivos imediatamente anteriores ao da data de abertura do presente concurso, em regime de contrato de trabalho em funções públicas a termo resolutivo;
+
+b) Preencher os requisitos previstos no artigo 22.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de abril, adiante designado abreviadamente por ECD;
+
+c) Ter obtido avaliação de desempenho com menção qualitativa não inferior a Bom, nos anos a que se refere a alínea a), desde que o tempo de serviço fosse obrigatoriamente avaliado nos termos da legislação ao tempo aplicável.
+
+###### Artigo 3.º — Norma remissiva
+
+Aos procedimentos do concurso externo extraordinário aplica-se o [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho.
+
+###### Artigo 4.º — Dotação das vagas
+
+1 - A dotação das vagas a preencher mediante o concurso externo extraordinário é fixada por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+2 - As vagas são apuradas por quadros de zona pedagógica e por grupo de recrutamento, extinguindo-se quando vagarem.
+
+###### Artigo 5.º — Âmbito das candidaturas
+
+1 - Os candidatos ao concurso externo extraordinário são obrigados a concorrer, no mínimo, a todas as vagas de, pelo menos, um quadro de zona pedagógica, correspondentes aos grupos de recrutamento a que são opositores, ordenando as suas preferências por grupo de recrutamento.
+
+2 - Os candidatos que concorrem a mais do que um quadro de zona pedagógica ou grupo de recrutamento devem ordenar as suas prioridades.
+
+###### Artigo 6.º — Aceitação
+
+1 - Os docentes que ingressam na carreira em quadros de zona pedagógica ao abrigo do presente decreto-lei devem aceitar a colocação na aplicação eletrónica disponibilizada pela Direção-Geral de Administração Escolar, no prazo de cinco dias úteis contados a partir do dia seguinte ao da publicitação das listas definitivas de colocação.
+
+2 - A não aceitação da colocação obtida na lista definitiva de colocação determina a aplicação da alínea a) do artigo 18.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho.
+
+3 - As vagas que resultarem do incumprimento do disposto no n.º 1 são preenchidas por docentes não colocados, respeitando a sua graduação e a ordem das suas preferências.
+
+###### Artigo 7.º — Apresentação ao concurso interno e mobilidade interna
+
+1 - Para efeitos de consolidação na vaga do quadro de zona pedagógica de colocação, de provimento noutro quadro de zona pedagógica ou em quadro de agrupamento ou de escola não agrupada, os docentes colocados ao abrigo do presente decreto-lei são obrigados a concorrer ao primeiro concurso interno a realizar nos termos da alínea a) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho.
+
+2 - Na candidatura ao concurso interno os docentes concorrem em 4.ª prioridade, imediatamente seguinte à estabelecida na alínea c) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho.
+
+3 - Até à realização do concurso interno, os docentes são obrigados a concorrer à mobilidade interna em 3.ª prioridade, imediatamente seguinte à estabelecida na alínea c) do n.º 1 do artigo 28.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho, sendo-lhes aplicado os números seguintes do mesmo artigo.
+
+4 - A violação do disposto nos números anteriores determina a anulação da colocação obtida nos termos do presente decreto-lei.
+
+###### Artigo 8.º — Efetivação da colocação
+
+1 - Para efeitos de ingresso na carreira, a colocação obtida nos termos do presente decreto-lei produz efeitos no dia 1 de setembro de 2014, sendo aplicado o n.º 4 do artigo 17.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho.
+
+2 - Os docentes providos em resultado da aplicação do presente decreto-lei são dispensados da realização do período probatório, desde que reúnam cumulativamente as seguintes condições:
+
+a) Tenham, pelo menos, 730 dias de serviço efetivo prestado no mesmo nível de ensino e grupo de recrutamento em funções docentes nos últimos cinco anos imediatamente anteriores ao ano letivo 2013-2014;
+
+b) Tenham, pelo menos, cinco anos de serviço docente efetivo com avaliação mínima de Bom.
+
+###### Artigo 9.º — Concurso para a contratação
+
+1 - Sem prejuízo do disposto no presente decreto-lei, o concurso destinado à contratação inicial prevista no artigo 33.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho, decorre em simultâneo com o procedimento do concurso externo extraordinário regulado no presente diploma.
+
+2 - Aos docentes não colocados no concurso externo extraordinário é aplicado o disposto no artigo 34.º do [Decreto-Lei n.º 132/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2012-178492), de 27 de junho.
+
+Visto e aprovado em Conselho de Ministros de 20 de março de 2014. - Pedro Passos Coelho - Hélder Manuel Gomes dos Reis - Nuno Paulo de Sousa Arrobas Crato.
+
+**Promulgado em 11 de abril de 2014.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 15 de abril de 2014.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**

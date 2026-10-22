@@ -1,0 +1,208 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489482:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-70085530",
+ "dre_path": "/dr/detalhe/decreto-lei/212-2009-489482",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70093732",
+    "70093733",
+    "70093734",
+    "70093735",
+    "70093736",
+    "70093737",
+    "70093738",
+    "70093739",
+    "70093740",
+    "70093741",
+    "70093742"
+   ]
+  },
+  {
+   "date": "2015-08-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70086392:por",
+     "title": "Decreto-Lei n.º 169/2015",
+     "published": "2015-08-24",
+     "dre_path": "/dr/detalhe/decreto-lei/169-2015-70086392"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "70093732",
+    "70093762",
+    "70093763",
+    "70093764",
+    "70093736",
+    "70093737",
+    "70846506",
+    "70093739",
+    "70846507",
+    "70093741",
+    "70093742",
+    "70093743"
+   ]
+  }
+ ],
+ "fragments": {
+  "70093732": {
+   "fragment_id": "70085531",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 212/2009\n\nde 3 de Setembro\n\nO Programa do XVII Governo Constitucional consagra, no âmbito das políticas sociais e ao nível da organização dos estabelecimentos de ensino do 1.º ciclo do ensino básico, a necessidade de as escolas disporem de oferta de actividades de complemento educativo, ocupação de tempos livres e apoio social.\n\nNessa conformidade e na sequência da publicação do Decreto-Lei n.º 144/2008, de 28 de Julho, procedeu-se a uma efectiva descentralização de competências para os municípios em matéria de educação, com o objectivo de obter avanços claros e sustentados na qualidade das aprendizagens dos alunos.\n\nNo âmbito dessa descentralização estão inseridas as atribuições em matéria de actividades de enriquecimento curricular do 1.º ciclo, designadamente, o ensino do inglês e de outras línguas estrangeiras, a actividade física e desportiva, o ensino da música e outras expressões artísticas e actividades organizadas pelas escolas.\n\nAssim, o presente decreto-lei estabelece que os municípios podem, na sequência de um processo de selecção, celebrar contratos de trabalho a termo resolutivo, a tempo integral ou parcial, com profissionais especialmente habilitados para o efeito, tendo em vista assegurar necessidades temporárias de serviço no âmbito das actividades de enriquecimento curricular.\n\nMostra-se, pois, necessário, disciplinar o procedimento aplicável ao recrutamento dos técnicos que preencham os requisitos considerados indispensáveis para desempenhar as funções que se enquadrem no âmbito daquelas actividades de enriquecimento curricular, cujos conteúdos, duração, natureza e regras de funcionamento, serão objecto de portaria do membro do Governo responsável pela área da educação.\n\nPara esse efeito, consagrou-se um procedimento célere que, considerando o interesse dos alunos e das escolas e, bem assim, salvaguardando a estabilidade laboral dos técnicos a contratar, permitisse, de forma expedita mas rigorosa, assegurar o rápido e eficaz desempenho daquelas actividades.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70093733": {
+   "fragment_id": "70085532",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime aplicável à contratação de técnicos que asseguram o desenvolvimento das actividades de enriquecimento curricular (AEC) no 1.º ciclo do ensino básico nos agrupamentos de escolas da rede pública."
+  },
+  "70093734": {
+   "fragment_id": "70085533",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos técnicos que venham a prestar funções no âmbito das AEC desenvolvidas por parte dos municípios, nos termos da alínea c) do n.º 1 do artigo 2.º do Decreto-Lei n.º 144/2008, de 28 de Julho, ainda que os mesmos não tenham celebrado contratos de execução mas assegurem o exercício daquelas actividades.\n\n2 - O presente decreto-lei aplica-se, ainda, nos agrupamentos de escolas da rede pública em que as AEC não sejam desenvolvidas nem asseguradas por parte dos municípios.\n\n3 - Nos casos previstos no número anterior, as competências municipais a que se refere o presente decreto-lei são exercidas pelo director do agrupamento de escolas."
+  },
+  "70093735": {
+   "fragment_id": "70085534",
+   "type": 11,
+   "heading": "Artigo 3.º — Contrato de trabalho a termo resolutivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Contrato de trabalho a termo resolutivo\n\n1 - Para assegurar necessidades temporárias de serviço no âmbito das AEC, os municípios celebram contratos de trabalho a termo resolutivo, a tempo integral ou parcial, com técnicos especialmente habilitados para o efeito.\n\n2 - Os contratos de trabalho mencionados no número anterior regem-se pelo disposto na Lei n.º 12-A/2008, de 27 de Fevereiro, e no Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro, com as especificidades previstas no presente decreto-lei."
+  },
+  "70093736": {
+   "fragment_id": "70085535",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto e duração do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto e duração do contrato\n\n1 - O contrato de trabalho celebrado no âmbito no presente decreto-lei tem por objecto a realização de AEC, com observância do disposto no artigo seguinte, podendo as mesmas incluir ainda, para efeitos do presente decreto-lei, actividades de apoio educativo, de apoio à família e actividades técnicas especializadas em áreas que se inserem na formação académica ou profissional do técnico a contratar.\n\n2 - O contrato de trabalho a termo resolutivo tem a duração mínima de 30 dias caducando no termo do ano escolar a que respeita."
+  },
+  "70093737": {
+   "fragment_id": "70085536",
+   "type": 11,
+   "heading": "Artigo 5.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regulamentação\n\nOs conteúdos, a natureza, as regras de funcionamento e a duração das actividades previstas no n.º 1 do artigo anterior, e os requisitos que devem reunir os técnicos a contratar ao abrigo do presente decreto-lei, são definidos por portaria do membro do Governo responsável pela área da educação."
+  },
+  "70093738": {
+   "fragment_id": "70085537",
+   "type": 11,
+   "heading": "Artigo 6.º — Abertura do procedimento e critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Abertura do procedimento e critérios de selecção\n\n1 - A celebração do contrato de trabalho a que se refere o presente decreto-lei é precedida de um processo de selecção, a realizar com respeito pelo previsto no artigo anterior.\n\n2 - O processo de selecção tem como suporte uma aplicação informática concebida pela Direcção-Geral dos Recursos Humanos da Educação, cujo acesso é efectuado através dos sítios da Internet do município ou dos agrupamentos de escolas.\n\n3 - A utilização da aplicação informática para a divulgação e a inscrição do processo de selecção é obrigatória, sem prejuízo da utilização de outros suportes nos termos exigidos no presente decreto-lei.\n\n4 - Compete à Direcção-Geral dos Recursos Humanos da Educação disponibilizar os meios técnicos indispensáveis à estruturação e correcto funcionamento da aplicação informática, garantindo os requisitos de actualização, segurança e acessibilidade, bem como a elaboração dos formulários electrónicos de candidatura.\n\n5 - A realização do processo de selecção é previamente publicitada, pelo município, em jornais de expansão nacional e regional, através de um anúncio que indique a data da divulgação da oferta de trabalho, nos termos do número seguinte.\n\n6 - A oferta de trabalho é divulgada nos sítios da Internet do município ou dos agrupamentos de escolas da área territorial do respectivo município.\n\n7 - A divulgação da oferta de trabalho, nos termos do número anterior, inclui, obrigatoriamente, a referência ao número de postos de trabalho a ocupar e a sua caracterização em função da atribuição, competência ou actividade a cumprir ou a executar, os requisitos de admissão, incluindo o perfil curricular dos candidatos, e a área de formação académica ou profissional exigíveis, o prazo de duração do contrato, o local de trabalho, os critérios e procedimentos de selecção adoptados."
+  },
+  "70093739": {
+   "fragment_id": "70085538",
+   "type": 11,
+   "heading": "Artigo 7.º — Inscrição, selecção, ordenação e reserva de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Inscrição, selecção, ordenação e reserva de recrutamento\n\n1 - A candidatura ao processo de selecção é feita mediante o preenchimento de formulário electrónico no sítio da Internet do município ou dos agrupamentos de escolas da área territorial do respectivo município, nos três dias úteis seguintes à data da divulgação da oferta de trabalho naquele.\n\n2 - Terminado o período de inscrição, o município procede ao apuramento e selecção dos candidatos à contratação.\n\n3 - É elaborada uma lista de ordenação, a qual, desde que contenha candidatos que cumpram os requisitos e perfil exigidos, em número superior às vagas publicitadas, se considera como reserva de recrutamento até ao final do respectivo ano escolar."
+  },
+  "70093740": {
+   "fragment_id": "70085539",
+   "type": 11,
+   "heading": "Artigo 8.º — Celebração do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Celebração do contrato\n\n1 - Os contratos de trabalho abrangidos pelo presente decreto-lei são outorgados, em representação do município, pelo respectivo presidente da câmara municipal.\n\n2 - A aceitação da colocação pelo trabalhador deve efectuar-se, por via electrónica, no decurso dos dois dias úteis seguintes ao da comunicação da colocação.\n\n3 - Na ausência de aceitação da colocação pelo trabalhador dentro do prazo fixado no número anterior, procede-se, de imediato, à comunicação referida naquele número ao candidato que se encontre imediatamente posicionado na lista de ordenação prevista no n.º 3 do artigo anterior.\n\n4 - A celebração dos contratos de trabalho a que se refere o n.º 1 é comunicada de imediato à Direcção-Geral dos Recursos Humanos da Educação, por via electrónica."
+  },
+  "70093741": {
+   "fragment_id": "70085540",
+   "type": 11,
+   "heading": "Artigo 9.º — Documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Documentos\n\n1 - No prazo de 10 dias úteis a contar da data da colocação do trabalhador, este deve entregar na câmara municipal os seguintes documentos:\n\na) Diploma ou certidão de habilitações profissionais legalmente exigidas;\n\nb) Prova do cumprimento das leis de vacinação obrigatória;\n\nc) Certidão de robustez física e de perfil psíquico para o exercício da função;\n\nd) Certidão do registo criminal.\n\n2 - Nas situações em que se verifique o incumprimento ao disposto no número anterior, e sem prejuízo do previsto no número seguinte, considera-se sem efeito a aceitação da colocação pelo trabalhador, aplicando-se, com as devidas adaptações, o disposto no n.º 3 do artigo 8.º\n\n3 - Por solicitação, devidamente fundamentada, dirigida ao respectivo presidente de câmara municipal, pode ser autorizada a prorrogação do prazo previsto no n.º 1 até ao limite máximo de 10 dias úteis.\n\n4 - Quando o contratado tiver exercido funções idênticas no ano escolar imediatamente anterior ou no próprio ano, na área do município, é dispensada a apresentação dos documentos das alíneas a) e b) do n.º 1, desde que constem do processo individual respectivo e não tenha decorrido prazo de interrupção superior a 180 dias úteis contado do último dia de abono do vencimento."
+  },
+  "70093742": {
+   "fragment_id": "70085541",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "70093762": {
+   "fragment_id": "70085532",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei estabelece o regime aplicável à contratação de técnicos, por parte dos municípios e agrupamentos de escolas da rede pública, que asseguram o desenvolvimento das atividades de enriquecimento curricular (AEC) no 1.º ciclo do ensino básico.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+  },
+  "70093763": {
+   "fragment_id": "70085533",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2015-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - O presente decreto-lei aplica-se aos municípios e aos agrupamentos de escolas da rede pública quando estes selecionem, recrutem e contratem os técnicos que venham a prestar funções no âmbito das AEC.\n\n2 - [Revogado].\n\n3 - O disposto no presente decreto-lei não prejudica a possibilidade de os municípios contratualizarem parcerias com outras entidades para assegurar o desenvolvimento e concretização das AEC.\n\n4 - Nos casos previstos no n.º 1, as competências municipais a que se refere o presente decreto-lei são exercidas pelo diretor do agrupamento de escolas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+  },
+  "70093764": {
+   "fragment_id": "70085534",
+   "type": 11,
+   "heading": "Artigo 3.º — Contrato de trabalho a termo resolutivo",
+   "in_force_from": "2015-08-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+   ],
+   "markdown": "###### Artigo 3.º — Contrato de trabalho a termo resolutivo\n\n1 - Sem prejuízo do disposto no n.º 3 do artigo anterior, para assegurar necessidades temporárias de serviço no âmbito das AEC, os municípios celebram contratos de trabalho a termo resolutivo, a tempo integral ou parcial, com técnicos especialmente habilitados para o efeito.\n\n2 - Os contratos de trabalho mencionados no número anterior regem-se pelo disposto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pela Lei n.º 82-B/2014, de 31 de dezembro, com as especificidades previstas no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+  },
+  "70846506": {
+   "fragment_id": "70085537",
+   "type": 11,
+   "heading": "Artigo 6.º — Abertura do procedimento e critérios de selecção",
+   "in_force_from": "2015-08-25",
+   "changed_by": [
+    "Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+   ],
+   "markdown": "###### Artigo 6.º — Abertura do procedimento e critérios de selecção\n\n1 - A celebração do contrato de trabalho a que se refere o presente decreto-lei é precedida de um processo de selecção, a realizar com respeito pelo previsto no artigo anterior.\n\n2 - O processo de selecção tem como suporte uma aplicação informática concebida pela Direção-Geral da Administração Escolar, cujo acesso é efectuado através dos sítios da Internet do município ou dos agrupamentos de escolas.\n\n3 - A utilização da aplicação informática para a divulgação e a inscrição do processo de seleção é obrigatória para os agrupamentos de escolas.\n\n4 - Compete à Direção-Geral da Administração Escolar disponibilizar os meios técnicos indispensáveis à estruturação e correcto funcionamento da aplicação informática, garantindo os requisitos de actualização, segurança e acessibilidade, bem como a elaboração dos formulários electrónicos de candidatura.\n\n5 - (Revogado).\n\n6 - A oferta de trabalho é divulgada nos sítios na Internet dos agrupamentos de escolas da área territorial do respetivo município.\n\n7 - A divulgação da oferta de trabalho, nos termos do número anterior, inclui, obrigatoriamente, a referência ao número de postos de trabalho a ocupar e a sua caracterização em função da atribuição, competência ou actividade a cumprir ou a executar, os requisitos de admissão, incluindo o perfil curricular dos candidatos, e a área de formação académica ou profissional exigíveis, o prazo de duração do contrato, o local de trabalho, os critérios e procedimentos de selecção adoptados.\n\n> Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+  },
+  "70846507": {
+   "fragment_id": "70085539",
+   "type": 11,
+   "heading": "Artigo 8.º — Celebração do contrato",
+   "in_force_from": "2015-08-25",
+   "changed_by": [
+    "Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+   ],
+   "markdown": "###### Artigo 8.º — Celebração do contrato\n\n1 - Os contratos de trabalho abrangidos pelo presente decreto-lei são outorgados, em representação do município, pelo respectivo presidente da câmara municipal.\n\n2 - A aceitação da colocação pelo trabalhador deve efectuar-se, por via electrónica, no decurso dos dois dias úteis seguintes ao da comunicação da colocação.\n\n3 - Na ausência de aceitação da colocação pelo trabalhador dentro do prazo fixado no número anterior, procede-se, de imediato, à comunicação referida naquele número ao candidato que se encontre imediatamente posicionado na lista de ordenação prevista no n.º 3 do artigo anterior.\n\n4 - A celebração dos contratos de trabalho a que se refere o n.º 1 é comunicada de imediato à Direção-Geral da Administração Escolar, por via electrónica.\n\n> Republicado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 169/2015 - Diário da República n.º 164/2015, Série I de 2015-08-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/169-2015-70086392), em vigor a partir de 2015-08-25"
+  },
+  "70093743": {
+   "fragment_id": "70085542",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 5 de Agosto de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 28 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 31 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

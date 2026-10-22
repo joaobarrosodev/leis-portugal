@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146726:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-857573556",
+ "dre_path": "/dr/detalhe/portaria/630-2002-146726",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-06-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "857799775"
+   ]
+  }
+ ],
+ "fragments": {
+  "857799775": {
+   "fragment_id": "857573557",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 630/2002\n\nde 12 de Junho\n\nO Decreto-Lei n.º 179/97, de 24 de Julho, que estabelece o regime de utilização do espectro radioeléctrico pelas estações de radiocomunicações do serviço móvel marítimo e do serviço móvel marítimo por satélite, prevê, no n.º 1 do seu artigo 9.º, a aprovação, por portaria conjunta dos Ministros da Defesa Nacional e do Equipamento Social, dos planos nacionais de frequências para o serviço móvel marítimo e para o serviço móvel marítimo por satélite, mediante proposta do Instituto das Comunicações de Portugal (ICP), hoje ICP - Autoridade Nacional das Comunicações (ICP - ANACOM), por força do Decreto-Lei n.º 309/2001, de 7 de Dezembro.\n\nAssim:\n\nManda o Governo, pelos Ministros da Defesa Nacional e do Ambiente e do Ordenamento do Território, considerando a delegação de competências constante do despacho n.º 3071/2002, do Primeiro-Ministro, publicado no Diário da República, 2.ª série, n.º 33, de 8 de Fevereiro de 2002, e o disposto no n.º 1 do artigo 9.º do Decreto-Lei n.º 179/97, de 24 de Julho, o seguinte:"
+  }
+ }
+}

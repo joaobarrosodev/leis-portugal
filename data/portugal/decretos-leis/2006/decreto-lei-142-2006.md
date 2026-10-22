@@ -1,0 +1,1703 @@
+---
+schema_version: '1.0'
+id: pt:dre:539227:por
+title: Decreto-Lei n.º 142/2006
+short_title: null
+summary: Cria o Sistema Nacional de Informação e Registo Animal (SNIRA), que estabelece as regras para identificação, registo
+  e circulação dos animais das espécies bovina, ovina, caprina, suína e equídeos, bem como o regime jurídico dos centros de
+  agrupamento, comerciantes e transportadores e as normas de funcionamento do sistema de recolha de cadáveres na exploração
+  (SIRCA), revogando o Decreto-Lei n.º 338/89, de 24 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 142/2006
+official_date: null
+publication_date: '2006-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 144/2006, Série I de 2006-07-27
+  number: '144'
+  series: I
+  supplement: null
+  pages: 5357 - 5369
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/07/14400/53575369.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2017-03-24'
+version_history:
+  file: decreto-lei-142-2006.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-02-08'
+    amending: pt:dre:439393:por
+    amending_title: Decreto-Lei n.º 214/2008
+    changes:
+    - Adita Anexo V
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Anexo VI
+    - Adita Anexo VII
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 24.º
+    - Revoga Artigo 10.º
+  - date: '2009-11-03'
+    amending: pt:dre:483397:por
+    amending_title: Decreto-Lei n.º 316/2009
+    changes:
+    - Altera Artigo 24.º
+  - date: '2012-04-10'
+    amending: pt:dre:554380:por
+    amending_title: Decreto-Lei n.º 85/2012
+    changes:
+    - Altera Artigo 1.º
+  - date: '2012-12-17'
+    amending: pt:dre:190815:por
+    amending_title: Decreto-Lei n.º 260/2012
+    changes:
+    - Altera Artigo 11.º
+    - Altera Artigo 24.º
+    - Altera Artigo 30.º
+  - date: '2013-06-15'
+    amending: pt:dre:496729:por
+    amending_title: Decreto-Lei n.º 81/2013
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2013-09-02'
+    amending: pt:dre:499500:por
+    amending_title: Decreto-Lei n.º 123/2013
+    changes:
+    - Revoga Anexo IV
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+  - date: '2015-08-30'
+    amending: pt:dre:70095700:por
+    amending_title: Decreto-Lei n.º 174/2015
+    changes:
+    - Adita Artigo 4.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Capítulo II
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 21.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 8.º
+  - date: '2017-03-24'
+    amending: pt:dre:106647822:por
+    amending_title: Decreto-Lei n.º 32/2017
+    changes:
+    - Adita Artigo 4.º-B
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 4.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Capítulo IV
+    - Altera Artigo 20.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 1.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Anexo III
+    - Revoga Artigo 11.º
+    - Revoga Artigo 21.º
+    - Revoga Artigo 8.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/142/2006/p/cons/20170323/pt/html
+  oj: null
+  dre: '539227'
+  dre_path: /dr/detalhe/decreto-lei/142-2006-539227
+  internal: pt:dre:539227:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2006-539227
+  metadata_url: https://data.dre.pt/eli/dec-lei/142/2006/p/cons/20170323/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-73711494
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-73711494
+  retrieved_at: '2026-10-22T12:05:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b28d203476bcbd1d32faad31ce97f14ce6403b1f6e0a90deb3350ccc37098b07
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:05:54Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-142-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- GADO
+- Doença Animal
+- Gado Caprino
+- Carne
+- Circulação de GADO
+- Multa
+- Contra-ordenação
+- Direção Geral de Veterinária
+- Definição de Competências
+- Controlo Sanitário
+- Exploração Pecuária
+- Fiscalização
+- Gado Bovino
+- Gado Suíno
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Abate de Animais
+- Base de Dados
+- Gado Ovino
+- Epidemia
+- Plano Nacional de Controlo das Explorações e Centros de Agrupamento
+- Registo de Animais
+- Gado Equino
+- Sirca
+- Snira
+- Comércio
+- Transporte de Animais
+- Saúde Animal
+relationships:
+- type: amended_by
+  target: pt:dre:439393:por
+  label: Adita Anexo V; Adita Artigo 1.º; Adita Artigo 2.º; Adita Artigo 3.º; Adita Artigo 4.º; Adita Artigo 5.º; Adita Artigo
+    6.º; Adita Artigo 7.º; Adita Anexo VI; Adita Anexo VII; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 7.º; Altera
+    Artigo 8.º; Altera Artigo 24.º; Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393
+  date: '2008-11-10'
+- type: amended_by
+  target: pt:dre:483397:por
+  label: Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2009-483397
+  date: '2009-10-29'
+- type: amended_by
+  target: pt:dre:554380:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2012-554380
+  date: '2012-04-05'
+- type: amended_by
+  target: pt:dre:190815:por
+  label: Altera Artigo 11.º; Altera Artigo 24.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815
+  date: '2012-12-12'
+- type: amended_by
+  target: pt:dre:496729:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2013-496729
+  date: '2013-06-14'
+- type: amended_by
+  target: pt:dre:499500:por
+  label: Revoga Anexo IV; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2013-499500
+  date: '2013-08-28'
+- type: amended_by
+  target: pt:dre:70095700:por
+  label: Adita Artigo 4.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 7.º; Altera Capítulo II;
+    Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 21.º; Altera Artigo 23.º; Altera Artigo 24.º;
+    Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Revoga
+    Artigo 4.º; Revoga Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700
+  date: '2015-08-25'
+- type: amended_by
+  target: pt:dre:106647822:por
+  label: Adita Artigo 4.º-B; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 4.º-A; Altera Artigo 5.º;
+    Altera Artigo 9.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Capítulo IV; Altera Artigo 20.º;
+    Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 1.º; Altera Artigo 7.º;
+    Altera Artigo 10.º; Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822
+  date: '2017-03-23'
+- type: cites
+  target: celex:31992R3508
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/3508/oj
+- type: cites
+  target: celex:31999R2680
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/2680/oj
+- type: cites
+  target: celex:32001R0999
+  label: null
+  source: http://data.europa.eu/eli/reg/2001/999/oj
+- type: cites
+  target: celex:32002R1774
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/1774/oj
+- type: cites
+  target: celex:32004R0021
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/21/oj
+- type: cites
+  target: celex:32005R0001
+  label: null
+  source: null
+- type: cites
+  target: celex:32013R1307
+  label: null
+  source: null
+article_structure:
+  article_count: 79
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:05:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 142/2006
+
+Decreto-Lei n.º 142/2006
+
+de 27 de Julho
+
+O Decreto-Lei n.º 338/99, de 24 de Agosto, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 24/2001, de 30 de Janeiro, 203/2001, de 13 de Julho, e 99/2002, de 12 de Abril, aprovou o Regulamento de Identificação, Registo e Circulação de Animais.
+
+Aquele diploma criou uma base de dados informatizada para controlo da movimentação dos bovinos que, por exigência comunitária, tem de ser extensiva aos animais de outras espécies, o que implicaria a alteração do Decreto-Lei n.º 338/99, de 24 de Agosto, por forma a criar um sistema informativo no qual serão coligidas as diferentes bases de dados a criar e as já existentes, bem como toda a informação relativa à movimentação dos animais e a regulação da comunicação de tal informação pelos seus detentores.
+
+Entendeu-se também ser adequado estabelecer novos prazos para cumprimento das obrigações de comunicação às bases de dados, nomeadamente no caso de mortes de animais na exploração cujos cadáveres, por razões ambientais, de saúde pública e animal, estabelecidas no Regulamento (CE) n.º <a href="eurlex.asp?ano=2002&id=302R1774" title="Link para Regulamento da Comunidade Europeia">1774/2002</a>, de 3 de Outubro, terão necessariamente de ser recolhidos e adequadamente eliminados.
+
+Por outro lado, dada a adequada dotação de meios técnicos e humanos na gestão das bases de dados informatizadas e a responsabilidade pelos controlos de campo no âmbito das suas competências, aproveita-se para atribuir ao Instituto Nacional de Intervenção e Garantia Agrícola a competência para proceder à gestão da base de dados de informação relativa aos animais das espécies bovina, ovina, caprina e suína, bem como os referidos controlos de campo no âmbito da identificação e registo por forma a racionalizar os meios de que o Governo dispõe para assegurar a boa execução das normas comunitárias nestes domínios.
+
+Há necessidade, ainda, de se estabelecer a regulamentação do abate de bovinos, ovinos, caprinos e suínos na exploração para autoconsumo, como única finalidade legalmente admitida pelo Decreto-Lei n.º 28/84, de 20 de Janeiro, como medida necessária e adequada à detecção das encefalopatias espongiformes transmissíveis (EET), bem como outras doenças a que todos os animais daquelas espécies devem ser submetidos para salvaguarda da saúde pública e animal.
+
+Ainda numa perspectiva de salvaguarda da saúde pública e animal, institui-se a obrigação de inserir nas bases de dados a informação de carácter sanitário a fim de prevenir que, aquando da sua deslocação, o documento que a permite apenas seja emitido desde que as condições de segurança sanitária estejam reunidas, bem como criar condições de rastreabilidade rápida e eficiente para uma melhor gestão dos riscos sanitários.
+
+Por outro lado, constata-se também que, devendo proceder-se ao aperfeiçoamento de algumas disposições insertas no Decreto-Lei n.º 338/99, de 24 de Agosto, de forma a torná-las mais claras e de maior facilidade de execução, nomeadamente estabelecendo a possibilidade de introduzir a identificação electrónica das espécies, e tendo em atenção ainda que aquele diploma já sofreu três alterações, entende-se adequado proceder à sua revogação, dada a extensão e importância das novas regras que se pretender fixar e o carácter mais abrangente do sistema de identificação nele instituído.
+
+Foram ouvidas, a título facultativo, a Confederação Nacional das Cooperativas Agrícolas e do Crédito Agrícola de Portugal, a Confederação de Agricultores de Portugal, a Federação das Associações Portuguesas de Ovinicultores e Caprinicultores, a Federação Nacional das Uniões de Defesa Sanitária e a Confederação Nacional de Agricultura.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Comissão Nacional de Protecção de Dados.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700) As referências legais constantes do Decreto-Lei n.º 142/2006, de 27 de julho: À «Direção-Geral de Veterinária» ou à «DGV», consideram-se efetuadas à «Direção-Geral de Alimentação e Veterinária» ou «DGAV»; Ao «diretor-geral de Veterinária», consideram-se efetuadas ao «diretor-geral de Alimentação e Veterinária»; Ao «Instituto Nacional de Intervenção e Garantia Agrícola» ou «INGA», consideram-se efetuadas ao «Instituto de Financiamento da Agricultura e Pescas, I. P.» ou «IFAP, I. P.»; Ao «Instituto da Conservação da Natureza e da Biodiversidade» ou «ICNB», consideram-se efetuadas ao «Instituto da Conservação da Natureza e das Florestas, I. P.» ou «ICNF, I. P.».
+
+> Nota: [Artigo 9.º, Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815) As referências constantes do Decreto-Lei n.º 142/2006, de 27 de julho: À «DGV», consideram-se efetuadas à «DGAV»; Ao «diretor-geral de Veterinária», consideram-se efetuadas ao «diretor-geral de Alimentação e Veterinária».
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - É criado o Sistema Nacional de Informação e Registo Animal (SNIRA), que estabelece as regras para a identificação, registo e circulação dos animais das espécies bovina, ovina, caprina, suína, aves, coelhos e outras espécies pecuárias, constantes, respetivamente, dos anexos I, II, III, V, VI e VII ao presente decreto-lei, do qual fazem parte integrante, sendo ainda aplicável aos equídeos.
+
+2 - O presente decreto-lei estabelece ainda o regime jurídico dos comerciantes e transportadores e as normas de funcionamento do sistema de recolha de cadáveres de animais mortos na exploração (SIRCA).
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) (Revogada.);
+
+b) 'Animal' qualquer animal das espécies bovina, suína, ovina, caprina, equídeos, aves, leporídeos e outras espécies animais, incluindo espécies cinegéticas criadas em cativeiro, que sejam destinadas à produção de carne, leite, ovos, lã, pelo, peles, trabalho ou eventos culturais ou desportivos;
+
+c) «Animal para abate» qualquer animal destinado a um matadouro ou a um centro de agrupamento, a partir do qual só pode ser transportado para um matadouro para efeitos de abate;
+
+d) «Animal para reprodução ou produção» qualquer animal, não abrangido pela alínea anterior, que seja destinado à reprodução, produção de leite ou de carne, a trabalhar como animal de tiro ou a exposições, concursos, certames culturais ou desportivos;
+
+e) «Autoridade competente» a Direção-Geral de Alimentação e Veterinária (DGAV), enquanto autoridade sanitária veterinária nacional e, no caso das Regiões Autónomas dos Açores e da Madeira, os respetivos serviços regionais;
+
+f) (Revogada.);
+
+g) «Certificado sanitário veterinário» o documento emitido por médico veterinário que implica a inspeção prévia dos animais a movimentar e dos efetivos em que se integram, para efeitos de certificação do seu estado sanitário e determinação da classe do efetivo onde podem integrar-se;
+
+h) «Circulação» qualquer movimentação dos animais vivos em território nacional;
+
+i) «Comerciante» a pessoa singular ou coletiva que compra e vende, direta ou indiretamente, animais para fins comerciais, que tem uma rotação regular desses animais e que, no prazo máximo de 30 dias a contar da aquisição dos animais, os revende ou transfere das primeiras instalações para outras que não são da sua propriedade, sem prejuízo do disposto em legislação aplicável ao comércio de animais das espécies suína, ovina e caprina;
+
+j) (Revogada.);
+
+l) (Revogada.);
+
+m) «Declaração de deslocação» o documento emitido pelo detentor que, nos termos do presente decreto-lei, acompanha obrigatoriamente a deslocação dos animais;
+
+n) [Revogada];
+
+o) «Detentor de animais» qualquer pessoa singular ou coletiva, à exceção dos transportadores, responsável, a qualquer título, pelos animais abrangidos pelo presente decreto-lei;
+
+p) (Revogada.);
+
+q) 'Estabelecimento' qualquer tipo de instalação ou estrutura destinado a deter ou abater animais, incluindo o processamento dos seus subprodutos, quer se trate de exploração pecuária, de entrepostos, de centros de agrupamento, matadouros ou centros de processamento de subprodutos, ou simplesmente do local onde são detidos animais ou produtos germinais, temporária ou permanentemente, excetuando, as clínicas veterinárias;
+
+r) «Exploração» qualquer instalação ou, no caso de uma exploração agropecuária ao ar livre, qualquer local situado no território nacional onde os animais abrangidos pelo presente decreto-lei sejam alojados, criados ou mantidos;
+
+s) «Exploração extensiva em liberdade» a produção pecuária extensiva, reconhecida como tal pela autoridade competente, em que os animais pastoreiam habitualmente em liberdade;
+
+t) «Guia de circulação» o documento emitido pelo sistema informático que autoriza e acompanha a circulação de animais;
+
+u) «Guia sanitária de circulação» o documento emitido pela autoridade competente com jurisdição na área da exploração de origem que autoriza a deslocação dos animais e fixa as condicionantes de natureza profilática ou de polícia sanitária a que o transportador ou adquirente se obriga;
+
+v) (Revogada.);
+
+x) «Meio de transporte» as partes de veículos automóveis, veículos sobre carris, navios e aeronaves utilizados para o carregamento e transporte dos animais, bem como os contentores para transporte por terra, mar ou ar;
+
+z) [Revogada];
+
+aa) 'Operador' qualquer pessoa singular ou coletiva, que tenha animais ou produtos seminais sob a sua responsabilidade, inclusive durante um período limitado ou apenas durante o transporte;
+
+bb) 'Passaporte de bovino' o documento exigido na circulação intracomunitária ou para países terceiros, de bovinos, emitido pelo SNIRA com a identificação do animal, o registo dos movimentos entre estabelecimentos e o seu estatuto sanitário;
+
+cc) 'Produtos germinais' o sémen, oócitos e embriões destinados a reprodução artificial, bem como os ovos de incubação;
+
+dd) 'Registo de existências' o documento ou um suporte informático, destinado a referenciar, de forma permanente, o número de animais ou de produtos germinais existentes ou detidos num estabelecimento;
+
+ee) (Revogada.);
+
+ff) 'Reidentificação' a atribuição e registo no SNIRA de uma nova identificação aplicada a um animal em resultado da perda ou inutilização de um meio de identificação anterior;
+
+gg) «Teste de pré-movimentação» os testes para a brucelose e tuberculose bovina que estão definidos no anexo I ao Decreto-Lei n.º 244/2000, de 27 de setembro, e no anexo A do Decreto-Lei n.º 272/2000, de 8 de novembro, respetivamente;
+
+hh) «Transportador» qualquer pessoa, singular ou coletiva, que transporte, com carácter de atividade comercial ou com fins lucrativos, animais por conta própria ou por conta de terceiros ou, ainda, colocando à disposição de terceiros um meio de transporte destinado a transportar animais;
+
+ii) (Revogada.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+> Alterado pelo/a Artigo 67.º do/a [Decreto-Lei n.º 81/2013 - Diário da República n.º 113/2013, Série I de 2013-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2013-496729), em vigor a partir de 2013-06-15
+
+> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 3.º — Registo dos estabelecimentos
+
+1 - Todos os estabelecimentos onde animais ou produtos germinais sejam detidos ou abatidos, ou os seus subprodutos processados, devem possuir um registo no SNIRA que é expresso num número de registo de estabelecimento (NRE) nos termos do artigo 93.º do Regulamento (UE) n.º 2016/429, do Parlamento Europeu e do Conselho, de 9 de março de 2016, que é precedido pela sigla PT.
+
+2 - O registo no SNIRA dos estabelecimentos onde animais são detidos é efetuado no âmbito do regime do exercício das atividades pecuárias (NREAP), previsto no Decreto-Lei n.º 81/2013, de 14 de junho, ou, no caso dos estabelecimentos em que os animais são abatidos ou os seus subprodutos processados, sujeitos ao sistema da indústria responsável (SIR), aprovado em anexo ao Decreto-Lei n.º 169/2012, de 1 de agosto, é efetuado no âmbito deste regime, correspondendo nesse caso o NRE ao número de controlo veterinário do estabelecimento.
+
+3 - (Revogado).
+
+4 - Os estabelecimentos que não estejam sujeitos ao regime do exercício da atividade pecuária NREAP nem ao SIR devem ser registados no SNIRA por iniciativa do operador, nos termos do artigo seguinte.
+
+5 - Por despacho do membro do Governo responsável pela área da agricultura, podem ser isentos da obrigação de registo no SNIRA determinadas categorias de estabelecimentos destinados unicamente ao lazer ou ao abastecimento do seu detentor e agregado familiar, que apresentam um risco sanitário insignificante, nos termos do artigo 85.º do Regulamento (UE) n.º 2016/429, do Parlamento Europeu e do Conselho, de 9 de março de 2016, designado 'Lei da Saúde Animal'.
+
+6 - Em caso de situações ou episódios que determinem riscos sanitários potenciais ou condições sanitárias excecionais, o diretor-geral de Alimentação e Veterinária pode determinar temporariamente o registo obrigatório, por espécie e por região, dos estabelecimentos que possam estar abrangidos pelo despacho referido no número anterior.
+
+7 - Ao registo do estabelecimento no SNIRA devem ficar associados um ou mais operadores pelos respetivos números de identificação fiscal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 66.º do/a [Decreto-Lei n.º 81/2013 - Diário da República n.º 113/2013, Série I de 2013-06-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2013-496729), em vigor a partir de 2013-06-15
+
+###### Artigo 4.º — Condições para registo dos estabelecimentos não sujeitos ao Novo Regime da Atividade Pecuária nem ao Sistema da Indústria Responsável
+
+Para efeitos de registo do estabelecimento nas situações referidas no n.º 4 do artigo anterior, o operador deve:
+
+a) Promover a sua identificação como beneficiários do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), o que pode ser feito junto das Direções Regionais de Agricultura e Pescas, ou das entidades credenciadas pelo IFAP, I. P.;
+
+b) Identificar o tipo de estabelecimento que pretende registar;
+
+c) Fornecer a localização do estabelecimento, com a identificação das parcelas utilizadas, de acordo com o sistema de informação parcelar do IFAP, I. P.;
+
+d) Indicar a categoria, as espécies, o número de animais ou a quantidade de produtos germinais que pretende deter e a capacidade do estabelecimento;
+
+e) Outros aspetos que sejam definidos pela autoridade competente para determinação do risco sanitário do estabelecimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 4.º-A — Atribuição de marca
+
+A cada instalação, efetivo ou grupo de animais que constitua um núcleo de produção ou unidade epidemiológica no âmbito de um estabelecimento registado no SNIRA, é atribuída uma marca que o permita individualizar.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 4.º-B — Alterações e cancelamento de registos
+
+1 - O operador do estabelecimento é obrigado a comunicar qualquer alteração ao tipo de estabelecimento, aos operadores que lhe estejam associados, ou às áreas afetas ao mesmo, no prazo de 30 dias contínuos, bem como qualquer alteração ao número de animais ou de produtos seminais detidos, no prazo previsto no n.º 8 do artigo 7.º
+
+2 - O registo dos operadores, dos estabelecimentos ou as marcas dos núcleos de produção, cuja atividade não seja iniciada no prazo de 90 dias contínuos, são automaticamente cancelados.
+
+3 - A autoridade competente pode determinar o cancelamento do registo de um estabelecimento, da marca de um núcleo de produção ou o registo de um operador, sempre que seja verificada uma interrupção por um prazo superior a 12 meses de comunicações ao SNIRA e da existência de animais no respetivo estabelecimento, núcleo de produção ou operador.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+###### Artigo 5.º — Obrigações dos detentores
+
+1 - Os detentores dos animais devem fornecer à autoridade competente, a pedido desta, todas as informações relativas à origem, identificação e destino dos animais ou dos produtos germinais que tiverem possuído, detido, transportado, comercializado ou abatido.
+
+2 - O acesso a todas as informações obtidas ao abrigo do presente decreto-lei deve ser facultado à Comissão da União Europeia, à autoridade competente e à autoridade responsável pela execução do Regulamento (UE) n.º 1307/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
+
+3 - Os registos e informações, bem como as cópias das declarações de deslocação ou guias de circulação e demais declarações realizadas pelos detentores ao SNIRA, devem ser conservados por um período mínimo de três anos e apresentados à autoridade competente quando por esta solicitados.
+
+4 - Os prazos para as obrigações de comunicação ao SNIRA, por via da plataforma do iDigital, são contínuos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+###### Artigo 6.º — Proibição de abate de animais na exploração
+
+1 - O abate de animais das espécies a que se refere o presente decreto-lei, para consumo humano, só pode ser realizado em estabelecimentos aprovados para o efeito.
+
+2 - Em derrogação ao disposto no número anterior, o abate para autoconsumo fora dos estabelecimentos aprovados pode ser excepcionalmente autorizado pela autoridade competente desde que sejam cumpridas as normas a estabelecer pelo director-geral de Veterinária, designadamente as relativas à protecção dos animais no abate estabelecidas no Decreto-Lei n.º 28/96, de 2 de Abril, bem como as disposições do Regulamento (CE) n.º <a href="eurlex.asp?ano=2001&id=301R0999" title="Link para Regulamento da Comunidade Europeia">999/2001</a>, do Parlamento Europeu e do Conselho, de 22 de Maio, que estabelece as regras para a prevenção, o controlo e a erradicação de determinadas encefalopatias espongiformes transmissíveis, nomeadamente as relativas à adequada eliminação de determinadas matérias de risco especificado.
+
+###### Artigo 7.º — Bases de dados
+
+1 - Os dados relativos aos animais a que se refere o presente decreto-lei são coligidos em bases de dados nacionais informatizadas, já existentes ou a criar, que integram o SNIRA.
+
+2 - A DGAV é a entidade responsável pela definição da informação necessária ao funcionamento do SNIRA, sendo o IFAP a entidade responsável pela gestão informática das bases de dados referidas no número anterior.
+
+3 - Os detentores de bovinos, ovinos, caprinos, suínos, aves, leporídeos ou de outras espécies pecuárias são obrigados a comunicar à base de dados informatizada todas as movimentações para a exploração e a partir desta, de acordo com os procedimentos a estabelecer nos termos do disposto no artigo 15.º.
+
+4 - Os detentores de bovinos, ovinos e caprinos são obrigados a comunicar à base de dados informatizada, através da plataforma idigital, os desaparecimentos e mortes não comunicadas ao SIRCA e datas dessas ocorrências, bem como, no caso dos bovinos, as mortes não recolhidas pelo SIRCA e a data dessas ocorrências.
+
+5 - Sem prejuízo do disposto no número anterior, os detentores de bovinos devem ainda comunicar, à base de dados informatizada, através da plataforma idigital, todos os nascimentos, as quedas das marcas auriculares e as datas daquelas ocorrências.
+
+6 - Os códigos dos animais da espécie ovina e caprina, identificados ou reidentificados eletronicamente nos termos do artigo 2.º do anexo II ao presente decreto-lei, que dele faz parte integrante, devem ser comunicados à base de dados do SNIRA, através da plataforma idigital.
+
+7 - Os detentores de suínos, de aves, de leporídeos ou de outras espécies pecuárias são obrigados a declarar, periodicamente, as alterações dos seus efetivos, de acordo com procedimentos a estabelecer pelo diretor-geral de Alimentação e Veterinária.
+
+8 - As comunicações referidas nos n.os 3, 4, 5 e 6 devem ser efetuadas no prazo de sete dias, caso se trate da plataforma iDigital, e no prazo de quatro dias nas restantes situações, a contar das respetivas ocorrências, exceto no caso dos nascimentos de bovinos, em que tal prazo é contado a partir da data da aposição da marca auricular, caso não tenha sido aplicada a derrogação a que se refere o n.º 3 do artigo 2.º do anexo I.
+
+9 - Para efeitos do disposto nos n.os 3, 4, 5 e 6 e nos prazos estabelecidos no número anterior, consoante os casos, os detentores devem preencher as respetivas declarações de modelo a aprovar nos termos do disposto no artigo 15.º.
+
+10 - Para efeitos do disposto no n.º 1, os matadouros que procedam ao abate de bovinos, ovinos, caprinos e suínos, aves, leporídeos e outras espécies pecuárias ficam obrigados a introduzir diariamente na base de dados todos os elementos referentes àquela operação, designadamente a identificação dos animais ou dos lotes, bem como a registar os resultados do abate no prazo a que se refere o número anterior.
+
+11 - O disposto no número anterior é aplicável, com as necessárias adaptações, aos centros de recolha de cadáveres de animais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 8.º — Comunicação da morte dos animais
+
+1 - É proibido o abandono de cadáveres de animais mortos na exploração, bem como a remoção de quaisquer partes dos mesmos, incluindo as suas peles.
+
+2 - Os detentores de animais das espécies bovina, ovina e caprina são obrigados a comunicar ao SNIRA a morte de qualquer animal ocorrida na exploração, no centro de agrupamento ou no transporte para outra exploração no prazo máximo de doze horas a contar da ocorrência, para que seja promovida de imediato a recolha do cadáver.
+
+3 - A recolha dos cadáveres dos animais referidos no número anterior é efectuada no âmbito do SIRCA, cujas regras de funcionamento são fixadas por despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+4 - O disposto no número anterior não se aplica sempre que os detentores das explorações ou as associações que os representem apresentem um plano aprovado pela DGV que assegure aquela recolha nas condições legalmente estabelecidas.
+
+5 - As explorações pecuárias de suínos, aves, leporídeos ou outras espécies pecuárias, e os centros de agrupamento ou entrepostos, são obrigadas a assegurar condições de manutenção hígio-sanitária dos cadáveres de animais que tenham morrido na exploração, centro de agrupamento ou entreposto, bem como sistema de destruição de cadáveres aprovado ou a sua contratualização com estabelecimentos autorizados, no âmbito do Decreto-Lei n.º 122/2006, de 27 de Junho.
+
+6 - O prazo estipulado no n.º 2 pode ser estendido até à data da vistoria a realizar por parte do ICNB nos termos do artigo 9.º do Decreto-Lei n.º 139/90, de 27 de Abril, devendo nesta situação os detentores dos animais apresentar na altura da recolha dos cadáveres no âmbito do SIRCA a ficha de vistoria entregue pelo ICNB.
+
+> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 9.º — Financiamento do sistema
+
+Pelos serviços prestados pela administração, designadamente pelo registo dos operadores e dos estabelecimentos, autorização de comercialização de meios de identificação, bem como pela atribuição da numeração dos meios de identificação das marcas auriculares e dos meios de identificação eletrónica e emissão de documentos, podem ser cobradas taxas cujo montante e condições de aplicação e cobrança são fixados por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+### Capítulo II — Comerciantes e transportadores
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 10.º — Centros de agrupamento
+
+1 - Os centros de agrupamento carecem de autorização de funcionamento a conceder pelo director-geral de Veterinária.
+
+2 - Para efeitos do disposto no número anterior, os pedidos de autorização de funcionamento devem ser apresentados nos núcleos técnicos de licenciamento das direcções regionais de agricultura (DRA) através de requerimento dirigido ao director-geral de Veterinária, acompanhado de:
+
+a) Identificação do requerente, domicílio ou sede, número de identificação fiscal e identificação dos responsáveis, no caso das pessoas colectivas;
+
+b) Certidão do registo comercial actualizada, no caso das pessoas colectivas;
+
+c) Local de implantação do centro de agrupamento, caso não coincida com o domicílio ou sede indicado nos termos do número anterior;
+
+d) Parecer favorável emitido pelas entidades competentes que documente que o centro de agrupamento não está localizado em área sujeita a proibição ou restrição do ponto de vista ambiental ou camarário;
+
+e) Planta de localização e de implantação das instalações na escala de 1:1000;
+
+f) Planta das instalações na escala de 1:100, indicando o equipamento e as redes de água de lavagem, de bebida e dos esgotos;
+
+g) Indicação do sistema adoptado para transporte ou tratamento dos efluentes, aprovado pela entidade competente.
+
+3 - Após receber o requerimento, o núcleo técnico de licenciamento promove a execução da vistoria e, no prazo máximo de 30 dias úteis, procede ao envio do processo, acompanhado do auto de vistoria, à DGV, para decisão.
+
+4 - A DGV, no prazo máximo de 15 dias úteis após a recepção do processo a que se refere o número anterior, decide da concessão de autorização de funcionamento e atribui o número de registo e dele dá conhecimento ao núcleo técnico de licenciamento, que o notifica ao requerente.
+
+5 - Os centros de agrupamento que se encontrem em funcionamento e não possuam autorização para o efeito à data de entrada em vigor do presente decreto-lei dispõem do prazo de 30 dias para a requerer.
+
+6 - Os centros de agrupamento devem cumprir as seguintes condições de funcionamento:
+
+a) Ter ao seu serviço um médico veterinário que garanta, em especial, que os animais:
+
+i) Não contactem em momento algum com outros animais que não tenham o mesmo estatuto sanitário, excepto animais destinados ao abate;
+
+ii) Sejam transportados em meios de transporte que satisfaçam o disposto no Decreto-Lei n.º 294/98, de 18 de Setembro, e as disposições adicionais estabelecidas no artigo 12.º;
+
+b) Ser limpos e desinfectados antes de cada utilização;
+
+c) Estar dotados, em função da capacidade de acolhimento:
+
+i) De instalações reservadas exclusivamente para esse fim;
+
+ii) De instalações apropriadas que permitam carregar, descarregar e acomodar convenientemente os animais, abeberá-los, alimentá-los e administrar-lhes todos os tratamentos necessários, devendo essas instalações ser fáceis de limpar e desinfectar;
+
+iii) De infra-estruturas de inspecção e isolamento adequadas;
+
+iv) De equipamentos apropriados para desinfecção das instalações e veículos;
+
+v) De áreas de armazenagem adequadas para a forragem, camas e estrume;
+
+vi) De um sistema adequado de recolha das águas usadas;
+
+vii) De um gabinete ou instalações para controlo, arquivo documental e apoio administrativo;
+
+d) Só admitir animais identificados e provenientes de efectivos sem restrições sanitárias ou outros animais de abate que satisfaçam as condições previstas no presente decreto-lei, devendo o detentor ou o responsável do centro, quando os animais são admitidos, proceder ou mandar proceder à verificação da identificação ou marcação dos animais e dos documentos sanitários ou outros documentos de acompanhamento específicos da espécie ou categoria em questão;
+
+e) Manter um RED por cada espécie animal, que deve ser conservado pelo menos durante três anos.
+
+7 - O disposto no presente artigo é aplicável, com as necessárias adaptações, aos centros de recolha, feiras, mercados e outras instalações onde possam ser agrupados animais destinados, designadamente, a exposições e espectáculos.
+
+8 - As competências cometidas pelo presente artigo ao director-geral de Veterinária e ao núcleo técnico de licenciamento são exercidas nas Regiões Autónomas dos Açores e da Madeira pelos respectivos serviços regionais.
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 11.º — Comerciantes
+
+1 - Os comerciantes carecem de registo na autoridade competente, a requerer por comunicação prévia com prazo, efetuada por via eletrónica, através do balcão único eletrónico dos serviços a que se refere o artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho.
+
+2 - Caso a Direção-Geral de Alimentação e Veterinária (DGAV) não profira decisão quanto ao pedido de registo no prazo de 20 dias contados da apresentação da comunicação a que se refere o número anterior, considera-se o mesmo tacitamente deferido, sendo automaticamente disponibilizado ao requerente, no balcão único eletrónico dos serviços e no sítio na Internet da DGAV, um número de registo de comerciante de espécies pecuárias.
+
+3 - Os comerciantes são obrigados a:
+
+a) Negociar apenas animais identificados, provenientes de efectivos sem restrições sanitárias e acompanhados dos documentos sanitários específicos das espécies em causa;
+
+b) Munir-se de autorização da autoridade competente que determina as condições para a comercialização de animais identificados que não satisfaçam as condições previstas na alínea anterior;
+
+c) Manter um RED por espécie animal, a conservar durante pelo menos três anos;
+
+d) Assegurar, caso detenha animais nas suas instalações, que seja dada formação específica ao pessoal responsável pelos animais no que se refere à aplicação dos requisitos estabelecidos no presente decreto-lei e ao tratamento e bem-estar dos animais.
+
+4 - Às instalações utilizadas pelos comerciantes no exercício da sua atividade, designadamente aos centros de agrupamento de animais, é aplicável o regime do exercício da atividade pecuária, aprovado pelo Decreto-Lei n.º 214/2008, de 10 de novembro, alterado pelos Decretos-Leis n.os 316/2009, de 29 de outubro, 78/2010, de 25 de junho, 45/2011, de 25 de março, e 107/2011, de 16 de novembro.
+
+5 - Não é permitida a venda ambulante de espécies pecuárias.
+
+6 - Quando, por motivo de indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no n.º 1, a comunicação prévia com prazo aí referida pode ser efetuada por qualquer outro meio previsto na lei.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 12.º — Transportadores
+
+1 - Os transportadores, para além das condições estabelecidas no Decreto-Lei n.º 265/2007, de 24 de julho, alterado pelo Decreto-Lei n.º 158/2008, de 8 de agosto, devem ainda obedecer aos seguintes requisitos:
+
+a) Utilizar, durante o transporte, meios de transporte que sejam:
+
+i) Construídos de modo a que as fezes, a cama ou a forragem dos animais não possam verter ou cair para fora do veículo, sem prejuízo do disposto no Regulamento (CE) n.º 1/2005, do Conselho, de 22 de dezembro de 2004;
+
+ii) Limpos e desinfetados num centro de limpeza e desinfeção aprovado pela DGAV;
+
+b) Dispor de instalações de limpeza e de desinfeção apropriadas ou proceder à limpeza e desinfeção em instalações de terceiros igualmente aprovadas para o efeito.
+
+2 - As aprovações a que se referem a subalínea ii) da alínea a) e a alínea b) do número anterior dependem do procedimento e das condições definidas por despacho do diretor-geral de Alimentação e Veterinária.
+
+3 - O transportador deve conservar o comprovativo da limpeza e desinfeção, durante o transporte e até que efetue a próxima limpeza e desinfeção, devendo ainda facultar aquela documentação às autoridades competentes, sempre que tal lhe for solicitado.
+
+4 - O transportador deve, em relação a cada veículo, manter um registo permanentemente atualizado, que deve ser conservado por um período mínimo de três anos e conter as seguintes informações:
+
+a) Local, data e hora do carregamento e nome ou denominação social da exploração ou centro de agrupamento onde os animais foram carregados;
+
+b) Local, data e hora de entrega e nome ou denominação social e endereço do ou dos destinatários;
+
+c) Espécie e número de animais transportados;
+
+d) Data e local de desinfeção;
+
+e) Indicação da documentação de acompanhamento.
+
+5 - Durante o transporte, o transportador deve conservar o comprovativo das últimas seis limpezas e desinfeções e fornecê-lo às autoridades competentes sempre que o mesmo lhe seja solicitado.
+
+6 - Os transportadores asseguram que os animais transportados não entram em contacto com animais de estatuto sanitário inferior em momento algum da viagem, desde a saída da exploração ou do centro de agrupamento de origem até à chegada ao respetivo destino, exceto quando o último transporte seja diretamente para o matadouro.
+
+7 - Os transportadores são obrigados a:
+
+a) Não transportar animais que não se encontrem identificados ou marcados ou que não sejam acompanhados dos documentos previstos no presente decreto-lei;
+
+b) Verificar, antes do embarque dos animais, que os mesmos se encontram identificados ou marcados e acompanhados dos documentos necessários, bem como recusar o transporte de animais que apresentem irregularidades quanto à identificação ou documentação;
+
+c) Entregar à chegada à exploração ou matadouro de destino as marcas auriculares que se tenham danificado ou caído durante o transporte;
+
+d) Confiar o transporte de animais a pessoas com as aptidões e competência profissionais e conhecimentos necessários.
+
+8 - As disposições constantes do presente artigo são aplicáveis, com as necessárias adaptações, aos detentores, desde que procedam ao transporte dos animais que detenham.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+### Capítulo III — Circulação animal
+
+###### Artigo 13.º — Documentos de acompanhamento
+
+1 - Todas as movimentações ou transferências de animais entre detentores devem ser acompanhadas por uma declaração de deslocação, guia de circulação ou guia sanitária de circulação, consoante os casos, com exceção das movimentações de aves e leporídeos quando destinados à venda direta, em mercado local de produtores, ao consumidor final.
+
+2 - A autoridade competente pode exigir o certificado sanitário veterinário como documento de acompanhamento dos animais sempre que numa área geográfica motivos de natureza sanitária o justifiquem.
+
+3 - O certificado sanitário veterinário é emitido pelo médico veterinário oficial ou por médico veterinário acreditado pela autoridade competente sempre que seja necessário certificar o estatuto sanitário do efectivo ou da exploração de origem, devendo acompanhar as guias de circulação ou guias sanitárias de circulação, consoante os casos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 14.º — Normas sanitárias para a circulação
+
+1 - Os animais que não tenham a sua classificação sanitária actualizada ou quando esta tenha sido suspensa, podem ser movimentados desde que sejam acompanhados de guia sanitária de circulação.
+
+2 - É proibido o ajuntamento, incluindo o transporte, de animais com origem em efectivos com diferente estatuto sanitário, com excepção dos animais destinados a abate imediato.
+
+3 - Os animais destinados a abate sanitário são obrigatoriamente transportados directamente para o matadouro indicado no respectivo documento de acompanhamento, sendo proibido qualquer contacto, quer no veículo quer durante o itinerário, com animais cujo destino seja diverso daquele.
+
+###### Artigo 15.º — Emissão de documentos
+
+1 - A emissão das guias de circulação e demais documentos são asseguradas a partir do SNIRA, mediante acesso direto dos operadores ou por via das organizações de agricultores acreditadas perante o SNIRA.
+
+2 - Os formulários referidos no número anterior, bem como as instruções para o seu preenchimento, são disponibilizados, de forma gratuita, no portal do IFAP, I. P., em www.ifap.pt, bem como no Balcão Único Eletrónico.
+
+3 - Pela aquisição dos documentos a que se refere o presente decreto-lei, em suporte de papel, os interessados pagam a importância a fixar por despacho do membro do Governo responsável pela área da agricultura, cujo produto constitui receita da DGAV ou da entidade na qual esta competência seja delegada.
+
+4 - A emissão de guias de circulação para os animais fica condicionada pelos requisitos sanitários, bem como pelas normas de carácter sanitário estabelecidas pela autoridade competente.
+
+5 - Aos documentos a que se refere o presente decreto-lei aplicam-se as normas previstas no Decreto-Lei n.º 135/99, de 22 de abril, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, e 73/2014, de 13 de maio, designadamente a possibilidade, prevista no artigo 28.º-A, de o requerente pedir a dispensa de apresentação de documentos ou informação já detidos por qualquer serviço ou organismo da Administração Pública.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 16.º — Inutilização dos meios de identificação, passaportes e documentação de suporte ao registo e movimentação animal
+
+1 - Compete aos detentores de animais, aos operadores de matadouros, aos operadores das unidades de processamento dos cadáveres de animais mortos, bem como às entidades acreditadas no âmbito do SNIRA, proceder à inutilização dos meios de identificação, passaportes e demais documentação que tenha sido utilizada para suporte ao registo e movimentação animal.
+
+2 - Os meios de identificação, bem como os passaportes devem ser arquivados pelo período de um mês.
+
+3 - A documentação referida no n.º 1 que tenha sido utilizada para suporte ao registo e movimentação animal, deve ser arquivada pelo período de três anos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+###### Artigo 17.º — Abate sanitário ou compulsivo
+
+1 - Os animais destinados a abate sanitário ou compulsivo são obrigatoriamente marcados de forma indelével e transportados para o matadouro sob a supervisão da autoridade competente.
+
+2 - O detentor dos animais deve colaborar com a autoridade competente na marcação e transporte dos animais para abate.
+
+###### Artigo 18.º — Pastagens de transumância e outras de utilização comunitária
+
+A utilização e a movimentação sazonal dos bovinos, ovinos, caprinos e equídeos para baldios ou pastagens de utilização comunitária (PUC), onde os efetivos de diferentes detentores são reunidos, são reguladas por despacho do membro do Governo responsável pela área da agricultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+###### Artigo 19.º — Medidas em caso de surto de epizootia
+
+Em condições excepcionais, nomeadamente em caso de surto de qualquer epizootia, a autoridade sanitária veterinária nacional pode determinar quaisquer medidas de condicionamento da circulação de animais e de polícia sanitária adequadas a impedir a dispersão da doença, das quais deve ser dado conhecimento aos seus detentores da área afectada pelos meios e formas habituais.
+
+### Capítulo IV — Meios de identificação
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+###### Artigo 20.º — Introdução no mercado de meios de identificação
+
+1 - A introdução no mercado de meios de identificação oficial carece de autorização da DGAV, que deve estabelecer as normas específicas de utilização do sistema de identificação em animais, nomeadamente os requisitos técnicos das marcas auriculares e dos equipamentos.
+
+2 - A DGAV é a autoridade nacional competente para a gestão e atribuição da numeração dos meios de identificação oficial, para as marcas auriculares, bem como para a identificação eletrónica oficial de bovinos, ovinos e caprinos, no âmbito das normas ISO 11.784 e 11.785, em conformidade com a legislação da União Europeia em vigor.
+
+3 - É proibida a introdução no mercado e a aplicação em animais de meios de identificação electrónica a que se refere o número anterior que não sejam reconhecidos pelo sistema de identificação oficial.
+
+4 - As empresas ou organizações que pretendam comercializar meios de identificação oficial para animais, devem solicitar à DGAV a aprovação dos modelos que pretendem comercializar, bem como solicitar a atribuição de séries de números de identificação oficial para seu uso exclusivo.
+
+5 - As empresas ou organizações que sejam autorizadas a comercializar meios de identificação oficial ficam obrigadas a registar no SNIRA, sempre antes da sua entrega, os meios de identificação oficial que tenha vendido ou cedido a outra organização autorizada ou a um detentor de animais.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+###### Artigo 21.º — Taxas
+
+1 - Pela atribuição da numeração dos meios de identificação electrónica a que se refere o n.º 2 do artigo anterior é devida uma taxa, cujo montante e condições de aplicação e cobrança são fixados por despacho conjunto dos Ministros de Estado e das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+2 - O produto da taxa referida no número anterior constitui receita da DGV.
+
+3 - O pagamento das taxas a que se refere o presente artigo, quando o serviço seja prestado de forma eletrónica, pode ser efetuado preferencialmente através da Plataforma de Pagamentos da Administração Pública, sempre que existam condições para o efeito.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+### Capítulo V — Controlos nas explorações e centros de agrupamento
+
+###### Artigo 22.º — Controlos
+
+1 - A DGV elabora o Plano Nacional de Controlo das Explorações e Centros de Agrupamento, podendo as respectivas acções de controlo ser executadas por outra entidade, sob sua coordenação e supervisão.
+
+2 - Os detentores de explorações e centros de agrupamento não podem escusar-se nem criar obstáculos, quaisquer que sejam, à execução desses controlos, sendo obrigados a disponibilizar meios físicos e humanos que permitam uma adequada contenção dos animais presentes na exploração ou centro de agrupamento.
+
+###### Artigo 23.º — Rastreabilidade
+
+1 - É imposta uma limitação aos movimentos a todos os animais para ou a partir do estabelecimento em causa sempre que um ou mais animais não reúnam concomitantemente os seguintes requisitos:
+
+a) Estar correctamente identificados ou marcados;
+
+b) Os registos constantes no SNIRA estarem corretos e os animais estarem atribuídos a esse estabelecimento e ao detentor em que estes forem observados;
+
+c) Se no registo no SNIRA forem atribuídos animais ao detentor e/ou ao estabelecimento que não sejam observados na instalação, o requisito referido na alínea anterior considera-se preenchido se forem apresentados os documentos que suportem a sua regular movimentação para outro estabelecimento;
+
+d) (Revogada.)
+
+2 - Os animais que sejam observados num estabelecimento e que se verifique não estarem em conformidade com os registos SNIRA ficam de imediato sob sequestro, até demonstração, no prazo de sete dias, do cumprimento pelo detentor das obrigações constantes no presente decreto-lei, podendo a autoridade competente, findo aquele prazo, ordenar a sua apreensão tendo em vista o seu abate e destruição, caso a sua rastreabilidade ou condição sanitária não possa ser assegurada.
+
+3 - São imediatamente impostas limitações às movimentações de todos os animais presentes numa exploração ou centro de agrupamento quando o número de animais relativamente aos quais se verifique a falta de algum ou alguns dos requisitos de identificação e registo exceder 20%.
+
+4 - A medida a que se refere o número anterior apenas é aplicada às explorações ou centros de agrupamento com número de animais igual ou inferior 10 quando não estejam completamente identificados mais de 2 animais.
+
+5 - Se um detentor não assegurar o registo no SNIRA dos movimentos dos animais para ou a partir do seu estabelecimento, bem como o nascimento de um bovino, no prazo legalmente estabelecido, a autoridade competente impõe limitações aos movimentos de animais para e/ou a partir desse estabelecimento.
+
+6 - As limitações de movimentos de animais referidas nos números anteriores mantêm-se até à resolução das ocorrências que estiveram na sua origem.
+
+7 - Quando num matadouro, numa exploração ou num centro de agrupamento, após análise técnica fundamentada, subsistam dúvidas sobre a identificação ou a rastreabilidade de um animal, a autoridade competente pode, por decisão devidamente fundamentada, determinar a destruição da carcaça ou do animal sem qualquer compensação para o seu detentor, ficando as despesas de abate e destruição a cargo deste.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+### Capítulo VI — Fiscalização e regime sancionatório
+
+###### Artigo 24.º — Tipificação das contra-ordenações
+
+1 - O atraso na comunicação à autoridade competente pelos detentores de bovinos, no prazo legalmente estabelecido, de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contraordenação punível com coima cujo montante mínimo é de (euro) 50 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 250 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote, no caso das pessoas singulares, e de (euro) 22440, no caso das pessoas coletivas.
+
+2 - O atraso na comunicação à autoridade competente pelos detentores de bovinos, no prazo legalmente estabelecido, de todos os nascimentos, mortes, desaparecimentos e quedas de marcas auriculares, bem como a data dessas ocorrências, constitui contraordenação punível com coima cujo montante mínimo é de (euro) 50 por animal, até ao montante máximo de (euro) 1870, no caso de pessoas singulares, e de (euro) 22 440, no caso de pessoas coletivas.
+
+3 - O atraso na comunicação à autoridade competente pelos detentores de ovinos, caprinos, suínos, aves, leporídeos e outras espécies no prazo legalmente estabelecido de todas as movimentações para a exploração e a partir desta, bem como a data dessas ocorrências, constitui contraordenação punível com coima cujo montante mínimo é de (euro) 25 por animal ou lote de animais movimentados quando estes não ultrapassem o número de cinco e de (euro) 125 quando aquele número seja superior, até ao montante máximo de (euro) 1870 por lote no caso das pessoas singulares e de (euro) 22 440 no caso das pessoas coletivas.
+
+4 - O atraso na comunicação à autoridade competente pelos detentores de ovinos e caprinos, no prazo legalmente estabelecido, dos códigos de identificação ou reidentificação eletrónica, dos desaparecimentos e mortes não comunicadas ao SIRCA, bem como a data dessas ocorrências, constitui contraordenação punível com coima cujo montante mínimo é de (euro) 25 por animal, até ao montante máximo de (euro) 1870, no caso das pessoas singulares, e de (euro) 22 440, no caso de pessoas coletivas.
+
+5 - Constitui contraordenação, punível com coima cujo montante mínimo é de (euro) 50 e máximo de (euro) 1870, no caso das pessoas singulares, e de (euro) 22 440, no caso das pessoas coletivas:
+
+a) A não comunicação da alteração de alguns dos elementos do registo do operador ou do estabelecimento nos termos da alínea a) do n.º 1 do artigo 4.º-B, no prazo ali estabelecido;
+
+b) (Revogada.);
+
+c) A não atualização do registo nos termos do n.º 1 do artigo 3.º do anexo III, do n.º 1 do artigo 5.º do anexo V, do n.º 1 do artigo 3.º do anexo VI e do n.º 1 do artigo 3.º do anexo VII.
+
+6 - Constitui contraordenação, punível com coima cujo montante mínimo é de (euro) 100 e máximo de (euro) 1870, no caso das pessoas singulares, e de (euro) 22 440, no caso das pessoas coletivas:
+
+a) O desrespeito das obrigações relativas à declaração de alteração de efetivos e de existências para as espécies ovina e caprina, suína, aves, leporídeos e outras espécies pecuárias, prevista no artigo 10.º do anexo II, no artigo 5.º do anexo III, no artigo 6.º do anexo V, no artigo 4.º do anexo VI e no artigo 4.º do anexo VII;
+
+b) [Revogada].
+
+7 - Constitui contraordenação, punível com coima cujo montante mínimo é de (euro) 250 e máximo de (euro) 3740, no caso das pessoas singulares, e de (euro) 44 890, no caso das pessoas coletivas:
+
+a) O exercício da atividade sem o registo a que se refere o artigo 3.º;
+
+b) O desrespeito das obrigações dos detentores dos animais previstas no artigo 5.º;
+
+c) O desrespeito da proibição de abate de animais para consumo humano fora dos estabelecimentos aprovados para o efeito, a que se refere o n.º 1 do artigo 6.º;
+
+d) O desrespeito do disposto no n.º 2 do artigo 6.º nos abates para autoconsumo;
+
+e) A não introdução nas bases de dados informatizadas, dentro dos prazos estabelecidos, dos elementos referentes ao abate de animais das espécies bovina, ovina, caprina e suína e outras espécies pecuárias pelos matadouros a que a ele procedam, bem como pelos centros de recolha de cadáveres, nos termos dos n.os 10 e 11 do artigo 7.º, respetivamente;
+
+f) O abandono de cadáveres de animais mortos na exploração;
+
+g) A remoção de quaisquer partes dos animais mortos na exploração, incluindo as suas peles;
+
+h) A não comunicação, no prazo legalmente estabelecido, da morte dos animais na exploração, bem como o não cumprimento das regras relativas à recolha dos cadáveres nos termos do disposto no artigo 8.º;
+
+i) (Revogada.);
+
+j) (Revogada.);
+
+k) A venda ambulante de espécies pecuárias;
+
+l) O desrespeito das obrigações relativas aos transportadores previstas no artigo 12.º;
+
+m) O transporte de animais que não se encontrem identificados ou acompanhados dos documentos exigidos nos termos do presente decreto-lei;
+
+n) A não entrega pelo transportador das marcas auriculares que se tenham danificado ou caído durante o transporte;
+
+o) O desrespeito das obrigações relativas à circulação de animais constantes dos artigos 13.º e 14.º;
+
+p) A não permissão do cumprimento do disposto no artigo 17.º;
+
+q) O desrespeito das normas fixadas para a transumância nos termos do artigo 18.º;
+
+r) O desrespeito das medidas dimanadas da DGAV nos termos do artigo 19.º;
+
+s) A introdução no mercado ou a aplicação de meios de identificação eletrónicos não autorizados nos termos do artigo 20.º;
+
+t) O impedimento ou criação de obstáculos aos controlos e o desrespeito da obrigação previstos no artigo 22.º;
+
+u) O desrespeito às sanções administrativas impostas nos termos do artigo 23.º;
+
+v) O desrespeito das obrigações relativas à identificação e registo de bovinos constantes dos artigos 2.º, 3.º, 4.º e 9.º do anexo I, com exceção da situação prevista no n.º 4 do artigo 5.º do mesmo anexo;
+
+w) A remoção ou substituição de meios de identificação sem autorização da DGAV ou em desconformidade com o previsto nos artigos 5.º do anexo I e 6.º do anexo II;
+
+x) O desrespeito das normas relativas a animais das espécies bovina, ovina e caprina provenientes de outros Estados membros ou de países terceiros previstas nos artigos 6.º do anexo I e 7.º do anexo II;
+
+y) A circulação de animais da espécie bovina sem que sejam acompanhados pelo passaporte devidamente preenchido ou dos documentos de acompanhamento, nos termos dos artigos 7.º e 10.º do anexo I;
+
+z) (Revogada.);
+
+aa) O desrespeito das obrigações relativas à identificação e registo de ovinos e caprinos constantes dos artigos 2.º e 3.º do anexo II;
+
+bb) A circulação de animais das espécie ovina e caprina sem que sejam acompanhados dos documentos de acompanhamento, nos termos do artigo 9.º do anexo II;
+
+cc) O desrespeito das obrigações relativas à marcação, identificação e registo e circulação de suínos constantes dos artigos 1.º a 4.º do anexo III;
+
+dd) O desrespeito das obrigações relativas à expedição, transporte e embalagem de ovos de incubação, aves do dia e aves para abate e ovos de consumo, constantes dos artigos 1.º, 2.º e 3.º, bem como dos documentos de acompanhamento, constantes no artigo 4.º do anexo V;
+
+ee) O desrespeito das obrigações relativas à expedição, transporte e embalagem de leporídeos, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo VI;
+
+ff) O desrespeito das obrigações relativas à expedição, transporte e embalagem de «outras espécies» pecuárias, constantes do artigo 1.º, bem como dos documentos de acompanhamento constantes no artigo 2.º do anexo VII;
+
+gg) O desrespeito das normas fixadas no âmbito da derrogação prevista no n.º 4 do artigo 5.º do anexo II.
+
+8 - A tentativa e a negligência são puníveis, sendo os montantes mínimos e máximos das coimas reduzidos a metade.
+
+a) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+b) Suspensão de autorizações, licenças e alvarás.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 316/2009 - Diário da República n.º 210/2009, Série I de 2009-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-2009-483397), em vigor a partir de 2009-11-03
+
+> Alterado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 25.º — Sanções acessórias
+
+1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima e no âmbito das competências da DGV, as seguintes sanções acessórias:
+
+a) Perda de objectos ou animais pertencentes ao agente;
+
+b) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público, de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Privação do direito de participação em arrematações, concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;
+
+f) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+g) Suspensão de autorizações, licenças e alvarás.
+
+2 - As sanções acessórias referidas nas alíneas b) a g) do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória.
+
+###### Artigo 26.º — Fiscalização
+
+A fiscalização do cumprimento do disposto no presente decreto-lei compete à DGV e ao INGA, na área das suas competências, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+###### Artigo 27.º — Instrução e decisão
+
+1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.
+
+2 - A entidade que levantar o auto de notícia remete o mesmo, para instrução do competente processo, aos serviços da autoridade competente da área da prática da infracção.
+
+###### Artigo 28.º — Afectação do produto das coimas
+
+O produto das coimas aplicadas ao abrigo do presente capítulo reverte:
+
+a) Em 10% para a entidade que levantou o auto;
+
+b) Em 10% para a entidade que instruiu o processo;
+
+c) Em 20% para a entidade que aplicou a coima;
+
+d) Em 60% para os cofres de Estado.
+
+###### Artigo 29.º — Apreensão
+
+1 - Os animais que circulem ou sejam encontrados num estabelecimento em circunstâncias indiciárias da prática de alguma das contraordenações previstas no presente decreto-lei, são desde logo apreendidos, sendo, neste caso, aplicável à apreensão a tramitação processual prevista no presente artigo.
+
+2 - Da apreensão é elaborado auto, a enviar à entidade instrutora.
+
+3 - A entidade apreensora nomeia fiel depositário o detentor, o transportador ou outra entidade idónea.
+
+4 - Os animais apreendidos são relacionados e descritos com referência à sua qualidade, quantidade, espécie, peso estimado, estado sanitário, valor presumível e sinais particulares que possam servir para a sua completa identificação, do que de tudo se faz menção em termo assinado pelos apreensores, pelo infractor, pelas testemunhas e pelo fiel depositário.
+
+5 - O original do termo de depósito fica junto aos autos de notícia e apreensão, ficando o duplicado na posse do fiel depositário e o triplicado na da entidade apreensora.
+
+6 - A nomeação de fiel depositário é sempre comunicada pela entidade apreensora à autoridade competente da área da apreensão, a fim de se pronunciar sobre o estado sanitário do gado apreendido, elaborando relatório, que é remetido à entidade instrutora.
+
+7 - Tratando-se de apreensão de animais cujo detentor ou transportador se recuse a assumir a qualidade de fiel depositário, quando aqueles sejam desconhecidos ou quando a autoridade competente o determinar em função da idade, do estatuto ou do estado sanitário dos animais, os animais apreendidos são conduzidos ao matadouro designado pela entidade apreensora, onde ficam à responsabilidade dos serviços que o administram, os quais diligenciam o seu abate imediato, devendo, em qualquer caso, ser elaborado termo.
+
+8 - A carne de animais abatidos nos termos do número anterior e considerada própria para consumo é vendida em leilão, com base no preço de garantia.
+
+9 - Se os animais abatidos de acordo com o disposto no n.º 8 do presente artigo forem considerados impróprios para consumo humano, pode ser promovido o seu aproveitamento e comercialização para outros fins legais.
+
+10 - Os animais referidos no n.º 8 que não reúnam condições para abate imediato, ou quando este não se justifique pelo seu valor zootécnico, mediante parecer do inspector sanitário, pode, por decisão da autoridade competente, ser vendido, aplicando-se à venda as normas previstas para a venda judicial no Código de Processo Civil.
+
+11 - O produto líquido da venda dos animais referidos nos números anteriores é depositado na Caixa Geral de Depósitos, à ordem do respectivo processo, deduzidos os descontos legais e outras despesas que hajam sido efectuadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+### Capítulo VII — Disposições finais e transitórias
+
+###### Artigo 30.º — Regiões Autónomas
+
+1 - A aplicação do presente decreto-lei às Regiões Autónomas dos Açores e da Madeira faz-se sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio.
+
+2 - O produto das coimas cobradas nas Regiões Autónomas dos Açores e da Madeira constitui receita própria das mesmas.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 260/2012 - Diário da República n.º 240/2012, Série I de 2012-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-2012-190815), em vigor a partir de 2012-12-17
+
+###### Artigo 31.º — Norma revogatória
+
+1 - É revogado o Decreto-Lei n.º 338/99, de 24 de Agosto, na redacção que lhe foi dada pelos Decretos-Leis n.os 24/2001, de 30 de Janeiro, 203/2001, de 13 de Julho, e 99/2002, de 12 de Abril, bem como o despacho n.º 9723/2000, de 18 de Abril.
+
+2 - É ainda revogado o despacho n.º 9137/2003, de 28 de Abril, com efeitos a partir da data de entrada em vigor do despacho a que se refere o n.º 3 do artigo 8.º do presente decreto-lei.
+
+###### Artigo 32.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 120 dias após a sua publicação.
+
+.
+
+Visto e aprovado em Conselho de Ministros de 27 de Abril de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.
+
+Promulgado em 6 de Julho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 17 de Julho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa
+
+## Anexo I — Identificação, registo e circulação de bovinos
+
+###### Artigo 1.º — Princípios gerais
+
+O regime de identificação e registo de bovinos inclui os seguintes elementos:
+
+a) Meios de identificação para identificar individualmente os animais;
+
+b) Passaporte, apenas nos casos referidos no artigo 7.º;
+
+c) Registo de existências;
+
+d) Base de dados nacional informatizada.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 2.º — Identificação
+
+1 - Todos os bovinos de uma exploração devem ser identificados pelo menos com dois meios de identificação, em conformidade com as normas previstas no artigo 4.º do Regulamento n.º 1760/2000, de 17 de julho de 2000, tendo em consideração as alterações estabelecidas pelo Regulamento n.º 653/2014 de 15 de maio de 2014, ambos do Parlamento Europeu e do Conselho, e que tenham sido autorizados pela Direção-Geral de Alimentação e Veterinária.
+
+2 - Os meios de identificação devem ser aplicados aos animais num prazo não superior a 20 dias a contar da data de nascimento do bovino, no entanto, quando o segundo meio de identificação for um identificador eletrónico sob a forma de bolo ruminal, a sua aplicação pode ser realizada até 60 dias após o nascimento, e em qualquer caso, nenhum animal pode abandonar a exploração de nascimento antes de lhe serem aplicados os dois meios de identificação.
+
+3 - Em derrogação do disposto no número anterior, a autoridade competente pode autorizar casuisticamente que os meios de identificação sejam aplicados, o mais tardar, quando o vitelo tiver seis meses, for separado da mãe ou deixar a exploração, desde que se verifiquem cumulativamente as seguintes condições:
+
+a) As vacas aleitantes sejam mantidas em explorações em regime extensivo ou de ar livre;
+
+b) A área na qual os animais são mantidos apresente deficiências naturais significativas suscetíveis de reduzir as possibilidades de maneio;
+
+c) Os animais terem reduzido contacto com seres humanos ou apresentarem comportamentos agressivos;
+
+d) Poder ser claramente associado à mãe e ao número que lhe tenha sido atribuído após o nascimento, aquando da aplicação das marcas auriculares.
+
+4 - Os meios de identificação devem ser atribuídas à exploração, distribuídas e aplicadas nos animais da forma determinada pela autoridade competente.
+
+5 - Na identificação de touros da raça brava de lide, inscritos no respetivo livro genealógico, destinados a certames culturais ou desportivos, com exceção de feiras e exposições, pode ser utilizado, em vez de marca auricular, o sistema de identificação previsto no Regulamento (CE) n.º 2680/1999, da Comissão, de 17 de dezembro.
+
+6 - Para efeitos do disposto no n.º 3, a DGAV estabelece critérios específicos que visem, nomeadamente, a restrição de autorizações de aplicação do regime nele previsto a determinadas regiões geográficas ou raças.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 3.º — Identificação electrónica
+
+1 - Os bovinos de raça pura inscritos em livros genealógicos ou registos zootécnicos devem, além das marcas auriculares, possuir meio de identificação eletrónica aprovado, aplicado no ato de avaliação para inscrição no livro de adultos ou, no caso de animais já inscritos no livro de adultos, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+2 - O disposto no número anterior não se aplica aos bovinos da raça holstein - frísia e brava de lide.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 4.º — Marcas auriculares e meios de identificação electrónica
+
+1 - Os meios de identificação para a espécie bovina devem respeitar as especificações comunitariamente estabelecidas, de modelo a aprovar pelo diretor-geral de Alimentação e Veterinária, contendo o escudo nacional e as siglas da autoridade nacional competente ou o respetivo código do País.
+
+2 - As marcas auriculares devem ser aplicadas de forma a serem visíveis à distância e ter os dados inscritos de forma indelével e não reutilizáveis.
+
+3 - A gestão da numeração dos meios de identificação compete à DGAV.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 5.º — Queda, remoção ou substituição de meios de identificação
+
+1 - Nenhum meio de identificação pode ser removido ou substituído sem autorização da autoridade competente.
+
+2 - Sempre que uma marca auricular se tenha tornado ilegível ou se tenha perdido deve ser aplicada, logo que possível e sempre antes do animal deixar a exploração, uma outra marca com o mesmo código acrescido de número que identifique a sua versão.
+
+3 - Sempre que o meio de identificação eletrónica se tenha tornado ilegível ou perdido deve ser substituído, logo que possível e sempre antes de o animal deixar a exploração, e comunicado à autoridade competente o novo código de forma a assegurar a rastreabilidade.
+
+4 - Sem prejuízo do disposto no n.º 2, a rastreabilidade dos animais destinados a abate considera-se assegurada quando à sua chegada ao matadouro apresentem uma marca auricular legível ou outro meio de identificação conforme com os restantes elementos previstos no artigo 1.º do presente anexo.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 6.º — Animais provenientes de outro Estado membro ou de país terceiro
+
+1 - Os bovinos provenientes de outro Estado membro devem manter a sua marca auricular de origem.
+
+2 - Qualquer bovino proveniente de um país terceiro que tenha sido submetido a controlo veterinário no posto de inspeção fronteiriço (PIF) e que permaneça em território comunitário deve ser identificado na exploração de destino por duas marcas auriculares conformes com o presente anexo, no prazo de 20 dias a contar da realização do controlo e, em qualquer caso, antes de deixar a exploração.
+
+3 - O disposto no número anterior não é aplicável quando o bovino se destine a um matadouro onde esse controlo seja efetuado e se o abate ocorrer no prazo de 20 dias a contar do controlo.
+
+4 - A identificação inicial efetuada pelo país terceiro deve ser registada na base de dados informatizada.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 7.º — Passaporte
+
+1 - O detentor de bovino que pretenda comercializar bovinos para outro Estado membro, em conformidade com a legislação comunitária, ou para país terceiro, deve solicitar a emissão prévia de um passaporte por cada animal, onde são reportadas as informações constantes da base de dados informatizada.
+
+2 - Após a chegada de animais provenientes de outro Estado membro, ou de um país terceiro, os detentores ficam obrigados a comunicar ao Sistema Nacional de Informação e Registo Animal (SNIRA) a sua receção, bem como a entregar o respetivo documento de identificação ou passaporte, à autoridade competente.
+
+3 - Os bovinos são obrigados a circular acompanhados pelo passaporte respetivo, sempre que forem movimentados entre Estados membros.
+
+4 - Os procedimentos antes descritos podem ser substituídos por um procedimento de transferência eletrónica de dados entre as bases de dados dos Estados membros, a partir da data que a Comissão Europeia reconhecer a operacionalidade plena do sistema de intercâmbio de dados.
+
+5 - O passaporte dos bovinos exportados deve ser entregue pelo último detentor à autoridade competente do local da exportação.
+
+6 - Os passaportes de bovinos que foram emitidos pelo SNIRA devem continuar a acompanhar os animais nas suas movimentações nacionais, até que as guias de circulação passem a reportar os dados de identificação dos bovinos.
+
+7 - (Revogado).
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 8.º — Devolução do passaporte
+
+1 - O matadouro é responsável pela devolução, à autoridade competente, dos passaportes dos bovinos que sejam ali abatidos.
+
+2 - No âmbito do SIRCA, o detentor de animal cuja morte tenha ocorrido na exploração ou centro de agrupamento deve manter os meios de identificação no animal e entregar o respetivo passaporte ao agente transportador do cadáver.
+
+3 - O passaporte e os meios de identificação do animal cujo cadáver não tenha sido recolhido por motivos não imputáveis ao seu detentor ou por se encontrar em exploração ou centro de agrupamento integrado em zona remota definida nos termos do Regulamento (CE) n.º 1774/2002, do Parlamento Europeu e do Conselho, de 3 de outubro, deve ser entregue, com a declaração de morte, num posto de recolha informático, no prazo estabelecido no n.º 8 do artigo 7.º do presente decreto-lei.
+
+4 - O regime previsto no número anterior é aplicável em todos os casos em que o detentor do animal por si, ou através de outra entidade, tenha assumido a responsabilidade pela eliminação dos cadáveres dos animais mortos na exploração ou centro de agrupamento.
+
+5 - Os passaportes dos animais desaparecidos devem ser entregues com a respetiva declaração de desaparecimento num posto de recolha informático, no prazo estabelecido no n.º 8 do artigo 7.º do presente decreto-lei.
+
+6 - Os passaportes e os meios de identificação devem ser devolvidos à autoridade competente até ao dia 10 do mês seguinte da ocorrência.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 9.º — Registo de existências e deslocações
+
+O registo de existências é facultativo e pode ser obtido a partir da plataforma eletrónica do SNIRA.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 10.º — Documentos de acompanhamento
+
+1 - O detentor que pretenda movimentar bovinos entre explorações ou outros estabelecimentos deve assegurar previamente o registo do movimento previsto, bem como fazer circular os bovinos acompanhados de guia de circulação emitida pelo SNIRA.
+
+2 - A movimentação e a emissão da guia de circulação para acompanhamento dos bovinos destinados a reprodução ou a produção é condicionada pelas condições sanitárias da região, ou do efetivo do estabelecimento de origem ou de destino, bem como do animal em questão.
+
+3 - A deslocação de bovinos que se encontrem em explorações com restrições sanitárias ou administrativas só pode efetuar-se com guia sanitária de circulação emitida pela autoridade competente da área de exploração de origem.
+
+4 - Qualquer alteração a um registo de movimento previamente realizado deve ser averbado pelo detentor de origem na guia de circulação que acompanha os animais e na versão que o detentor de origem deve reter.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+## Anexo II — Marcação, identificação, registo e circulação de ovinos e caprinos
+
+###### Artigo 1.º — Princípios gerais
+
+1 - O regime de identificação e registo de ovinos e caprinos inclui os seguintes elementos:
+
+a) Marca auricular e meios de identificação eletrónica;
+
+b) Guias de circulação;
+
+c) [Revogada];
+
+d) Base de dados nacional informatizada.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 2.º — Identificação
+
+1 - Todos os ovinos e caprinos de uma exploração nascidos após 31 de dezembro de 2009 devem ser identificados por uma marca auricular aprovada pela DGAV, bem como por um segundo meio de identificação eletrónico.
+
+2 - (Revogado).
+
+3 - Os detentores dos animais da espécie ovina e caprina devem identificar os seus animais até à idade de 6 meses ou proceder à sua reidentificação, nos termos do artigo 6.º deste anexo, não podendo os animais deixar a exploração sem estarem identificados ou reidentificados.
+
+4 - O prazo a que se refere o número anterior pode ser prorrogado até aos 9 meses, no caso das explorações em regime extensivo ou ao ar livre.
+
+5 - Os meios de identificação devem ser atribuídos à exploração, distribuídos e aplicados nos animais em conformidade com o determinado por despacho do diretor-geral de Alimentação e Veterinária, o qual estabelece ainda qual o segundo meio de identificação que é obrigatório nos termos do n.º 1.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 3.º — Marcas auriculares e meios de identificação electrónica
+
+1 - Os meios de identificação para as espécies ovina e caprina devem respeitar as especificações comunitariamente estabelecidas, de modelo a aprovar pelo diretor-geral de Alimentação e Veterinária, contendo o escudo nacional e as siglas da autoridade nacional competente ou o respetivo código do País.
+
+2 - As marcas auriculares devem ser aplicadas de forma a serem visíveis à distância e ter os dados inscritos de forma indelével e não ser reutilizáveis.
+
+3 - A gestão da numeração dos meios de identificação compete à DGAV.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 4.º — Passaporte de rebanho
+
+1 - A autoridade competente emite um passaporte de rebanho ao efectivo inicial de ovinos ou caprinos de cada exploração.
+
+2 - O passaporte de rebanho deve obrigatoriamente acompanhar a deslocação ou transacção sempre que se verifique a movimentação da totalidade dos animais nele inscritos.
+
+3 - A autoridade competente emite um destacável do passaporte, que deve obrigatoriamente acompanhar a deslocação ou transacção, sempre que se verifique a movimentação de apenas uma parcela dos animais nele inscritos.
+
+4 - O passaporte de rebanho deve ser entregue à autoridade competente sempre que se verifique o abate total do efectivo, a sua extinção por transacção ou a cessação de actividade.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 5.º — Animais destinados a abate com menos de 12 meses
+
+1 - Em derrogação do disposto no artigo 2.º, os ovinos e caprinos destinados ao abate antes da idade de 12 meses e que não se destinem a trocas comerciais intracomunitárias ou com países terceiros são marcados apenas com uma marca auricular aplicada no pavilhão auricular esquerdo.
+
+2 - A marca auricular deve conter o código de identificação da exploração de nascimento ou um código individual a partir do qual se possa determinar a exploração de nascimento.
+
+3 - Os ovinos e caprinos identificados de acordo o n.º 1 mantidos na exploração para além da idade de 12 meses ou destinados a trocas comerciais intracomunitárias ou com países terceiros devem ser marcados de acordo com os artigos 2.º e 3.º do presente anexo.
+
+4 - Os ovinos e caprinos destinados ao abate antes dos 12 meses que sejam movimentados para estabelecimentos de recria e acabamento devem manter a marca referida no n.º 2 e devem ser marcados novamente antes da sua saída com o código da exploração de recria ou um código individual que permita identificar a origem do movimento.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 6.º — Queda, remoção ou substituição de meios de identificação
+
+1 - Nenhum meio de identificação pode ser removido ou substituído sem autorização da autoridade competente.
+
+2 - Sempre que uma marca auricular ou um meio de identificação eletrónica se tenham tornado ilegíveis ou se tenham perdido deve-se proceder à sua substituição ou à reidentificação do animal, no mais curto espaço de tempo e sempre antes do animal deixar a exploração.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 7.º — Animais provenientes de outro Estado membro ou de país terceiro
+
+1 - Todos os ovinos e caprinos originários de outro Estado membro devem conservar a identificação inicial.
+
+2 - Qualquer ovino ou caprino proveniente de um país terceiro que tenha sido sujeito aos controlos veterinários num PIF e permaneça no território da Comunidade deve ser identificado na exploração de destino, em conformidade com o previsto nos artigos 2.º e 3.º do presente anexo, num prazo de 14 dias após a realização dos referidos controlos e sempre antes de deixar a exploração.
+
+3 - A identificação inicial estabelecida pelo país terceiro deve ser registada na base de dados, juntamente com a identificação atribuída nos termos do número anterior.
+
+4 - A identificação nos termos do n.º 2 não é aplicável quando se trate de animal destinado a abate se este for transportado diretamente do PIF para um matadouro situado no território nacional onde sejam efetuados os controlos referidos no n.º 1, desde que o animal seja abatido no prazo de cinco dias após esses controlos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 8.º — Registo de existências e deslocações
+
+1 - Os detentores de animais das espécies ovina e caprina devem manter um RED, permanentemente actualizado, conforme modelo aprovado por despacho do director-geral de Veterinária.
+
+2 - O representante da autoridade competente que realize acções de controlo à exploração ou centro de agrupamento deve apor o seu nome e assinatura no registo.
+
+> Revogado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 9.º — Documentos de acompanhamento
+
+1 - O detentor que pretenda movimentar ovinos ou caprinos entre explorações ou outros estabelecimentos deve assegurar previamente o registo do movimento previsto, bem como fazer circular os animais acompanhados de guia de circulação emitida pelo Sistema Nacional de Informação e Registo Animal (SNIRA).
+
+2 - Os ovinos ou caprinos destinados a reprodução ou a produção, a sua movimentação e a emissão da guia de circulação para acompanhamento dos animais, é condicionada pelas condições sanitárias da região ou do efetivo do estabelecimento de origem ou de destino, bem como dos animais.
+
+3 - A deslocação de ovinos e caprinos que se encontrem em explorações com restrições sanitárias faz-se a coberto de guia sanitária de circulação, exceto no caso dos animais destinados diretamente a abate, aos quais se aplica o n.º 1.
+
+4 - Qualquer alteração a um registo de movimento previamente realizado deve ser averbado pelo detentor de origem na guia de circulação que acompanha os animais e na versão que o detentor de origem deve reter.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 10.º — Declaração de existências
+
+Os detentores de explorações de animais das espécies ovina e caprina ficam obrigados a proceder anualmente à declaração de existências de acordo com os procedimentos a definir por despacho do diretor-geral de Alimentação e Veterinária.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+## Anexo III — Marcação, identificação, registo e circulação de suínos
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+###### Artigo 1.º — Marcação
+
+1 - (Revogado).
+
+2 - Os animais da espécie suína existentes numa exploração, centro de colheita de sémen ou centro de agrupamento devem ser marcados através de tatuagem ou pela aposição de marca auricular, com a respetiva marca precedida do código do país, que permita relacionar o animal alternativamente com a exploração, com o centro de colheita de sémen ou com o centro de agrupamento.
+
+3 - No que se refere à exploração de nascimento, a marcação referida no número anterior deve ser legível, efetuada no pavilhão auricular direito, o mais cedo possível, pelo menos até ao desmame e, em qualquer caso, sempre antes de o suíno sair da exploração de nascimento.
+
+4 - Nenhum animal da espécie suína pode sair de uma exploração, de um centro de colheita de sémen ou de um centro de agrupamento sem estar marcado com o código do país, seguido da marca dessas instalações.
+
+5 - Nenhum suíno pode deixar a exploração, centro de colheita de sémen ou centro de agrupamento sem a respetiva marcação, devendo os documentos de acompanhamento mencionar obrigatoriamente essa marca.
+
+6 - A marcação referida nos n.os 2 e 3 pode ser efetuada por tatuagem ou marca auricular, podendo ser acrescida de aposição da marca no dorso ou anca ou de identificação eletrónica.
+
+7 - Os suínos provenientes de trocas intracomunitárias ou de países terceiros, quando introduzidos em explorações nacionais, devem ser marcados, no prazo de quarenta e oito horas após a sua chegada à exploração de destino, através de marca auricular com a inscrição do código do país e a marca da exploração.
+
+8 - A inscrição dos caracteres na marca auricular deve ser feita de forma indelével, e cada carácter deve ter as dimensões mínimas de 4 mm x 3 mm no caso de identificação de reprodutores e animais de engorda.
+
+9 - No caso de identificação por tatuagem, esta deve ser facilmente legível durante toda a vida do animal e os caracteres devem ter as dimensões mínimas de 8 mm x 4 mm.
+
+10 - A marcação dos suínos é da responsabilidade do detentor.
+
+11 - O detentor deve marcar de novo os suínos sempre que se verifique a perda da marca auricular ou a sua inscrição ou tatuagem ficarem ilegíveis.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 85/2012 - Diário da República n.º 69/2012, Série I de 2012-04-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-2012-554380), em vigor a partir de 2012-04-10
+
+###### Artigo 2.º — Identificação
+
+1 - A identificação, para além da aposição de marca da exploração, contém a individualização do animal segundo as normas regulamentares do Livro Genealógico Português de Suínos e do Registo Zootécnico Português de Suínos.
+
+2 - Os suínos produtores de reprodutores devem ser identificados de acordo com as normas regulamentares previstas no Livro Genealógico Português de Suínos e no Registo Zootécnico Português de Suínos respeitantes à identificação individual da espécie suína.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 3.º — Registo
+
+1 - Os detentores de animais da espécie suína devem manter um registo atualizado por estabelecimento ou por núcleo de produção se existir mais de um núcleo de produção de suínos por estabelecimento, em que se indique:
+
+a) O número de animais presentes ou que tenham sido detidos no núcleo de produção ou estabelecimento;
+
+b) Registos de todas as deslocações, com o número de animais envolvidos em cada operação de entrada e saída, com menção, consoante o caso, da origem ou do destino dos animais, da data das deslocações e a marca aplicada nos animais.
+
+2 - O representante da autoridade competente que realize ações de controlo à exploração ou centro de agrupamento deve apor o seu nome e assinatura no registo.
+
+3 - Este registo é facultativo para os detentores que tenham acesso ao Sistema Nacional de Informação e Registo Animal (SNIRA) e insiram diretamente ou façam inserir por via das organizações acreditadas no SNIRA, os movimentos e das alterações de efetivo previstas nos artigos seguintes.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 4.º — Documentos de acompanhamento
+
+1 - O detentor que pretenda movimentar suínos entre explorações ou outros estabelecimentos deve assegurar previamente o registo do movimento previsto, bem como fazer circular os animais acompanhados de guia de circulação emitida pelo SNIRA.
+
+2 - A movimentação e a emissão da guia de circulação para acompanhamento dos suínos destinados a reprodução ou a produção é condicionada pelas condições sanitárias da região ou do estabelecimento de origem ou de destino, bem como dos animais.
+
+3 - A deslocação de suínos que se encontrem em explorações com restrições sanitárias ou administrativas só pode efetuar-se com guia sanitária de circulação emitida pela autoridade competente da área de exploração de origem.
+
+4 - Qualquer alteração a um registo de movimento previamente realizado deve ser averbado pelo detentor de origem na guia de circulação que acompanha os animais e na versão que o detentor de origem deve reter.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+###### Artigo 5.º — Declaração de alteração do efectivo e de existências
+
+Os detentores que queiram beneficiar da derrogação de manutenção do registo de existências previsto no n.º 3 do artigo 3.º do presente anexo, devem declarar no SNIRA, até ao décimo dia do mês seguinte, as alterações que tenham sido observadas aos seus efetivos, nomeadamente os leitões desmamados na exploração, bem como os animais de recria da exploração que tenham sido destinados à reprodução, assim como as mortes e outras alterações dos efetivos ainda não registados no SNIRA.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 32/2017 - Diário da República n.º 59/2017, Série I de 2017-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2017-106647822), em vigor a partir de 2017-03-24
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 174/2015 - Diário da República n.º 165/2015, Série I de 2015-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-2015-70095700), em vigor a partir de 2015-08-30
+
+## Anexo IV — Marcação, identificação, registo e circulação de equídeos
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 123/2013 - Diário da República n.º 165/2013, Série I de 2013-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2013-499500), em vigor a partir de 2013-09-02
+
+###### Artigo 1.º — Princípios gerais
+
+O regime de identificação e registo de equídeos inclui os seguintes elementos:
+
+a) Marcação;
+
+b) Documento de identificação.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 123/2013 - Diário da República n.º 165/2013, Série I de 2013-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2013-499500), em vigor a partir de 2013-09-02
+
+###### Artigo 2.º — Marcação
+
+1 - O tipo de marcação dos equídeos é o definido por cada livro genealógico ou registo zootécnico, sendo a identificação efectuada pelo certificado de origem quando no respectivo livro genealógico não esteja prevista a marcação por qualquer meio físico.
+
+2 - As marcas e os números podem ser efectuados a fogo, a frio, com azoto líquido, por tatuagem, marca auricular ou identificação electrónica.
+
+3 - A marcação dos equídeos é da responsabilidade do detentor.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 123/2013 - Diário da República n.º 165/2013, Série I de 2013-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2013-499500), em vigor a partir de 2013-09-02
+
+###### Artigo 3.º — Documento de identificação
+
+1 - O documento de identificação é obrigatório para todos os equídeos com mais de 6 meses de idade.
+
+2 - O certificado de origem previsto na Portaria n.º 272/92, de 31 de Março, para os equinos registados ou passaporte para cavalos emitido pela Federação Equestre Internacional substitui o documento de identificação previsto no número anterior.
+
+3 - Os documentos referidos nos números anteriores são emitidos pela autoridade competente, que pode delegar a sua emissão em outra entidade.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 123/2013 - Diário da República n.º 165/2013, Série I de 2013-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2013-499500), em vigor a partir de 2013-09-02
+
+###### Artigo 4.º — Documentos de acompanhamento
+
+1 - A circulação de equídeos registados efectua-se com um dos seguintes documentos:
+
+a) Documentação de identificação de equídeos;
+
+b) Certificado de origem previsto no n.º 2 do artigo 3.º do presente anexo;
+
+c) Passaporte para cavalos emitido pela Federação Equestre Internacional.
+
+2 - A circulação de equídeos não registados faz-se com guia de circulação a que se refere o artigo 13.º do presente decreto-lei, acompanhado do documento de identificação.
+
+3 - Sem prejuízo do disposto nos números anteriores, a circulação de equídeos faz-se a coberto de guia sanitária de circulação por determinação da autoridade competente, sempre que situações sanitárias excepcionais o justifiquem.
+
+> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 123/2013 - Diário da República n.º 165/2013, Série I de 2013-08-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2013-499500), em vigor a partir de 2013-09-02
+
+## Anexo V — Registo e circulação de aves
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 1.º — Ovos de incubação
+
+A expedição, o transporte e a embalagem de ovos de incubação para o centro de incubação devem obedecer aos seguintes requisitos:
+
+1) Os ovos serão expedidos em embalagens concebidas para o efeito. As embalagens reutilizáveis e o compartimento do meio de transporte deverão ser previamente limpos, lavados e desinfectados;
+
+2) As embalagens deverão:
+
+a) Conter apenas ovos de incubação provenientes de aves da mesma espécie, categoria e aptidão e provenientes do mesmo estabelecimento;
+
+b) Conter somente ovos de casca íntegra, limpos e desinfectados;
+
+c) Conter somente ovos marcados de acordo com o legalmente estabelecido quando se destinem a trocas interempresas e o acondicionamento secundário incluir o número da guia de circulação;
+
+3) As guias de circulação devem conter a seguinte informação:
+
+Data do movimento;
+
+Número de registo, designação social e endereço da exploração de origem/expedição;
+
+Número de registo, designação social e endereço do centro de incubação de destino;
+
+Número de embalagens e número de ovos transportados.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 2.º — Expedição, transporte e embalagem de aves do dia
+
+A expedição, o transporte e a embalagem de aves do dia devem obedecer aos requisitos seguintes:
+
+1) As aves do dia serão transportadas em embalagens concebidas para o efeito e de acordo com as regras de bem-estar das aves, assegurando que as embalagens reutilizáveis e o compartimento do meio de transporte terão de ser previamente limpos, lavados e desinfectados;
+
+2) As embalagens devem:
+
+a) Conter apenas aves do dia da mesma espécie, categoria e aptidão e provenientes do mesmo estabelecimento;
+
+b) Conter apenas aves saudáveis, vigorosas e em lotes homogéneos;
+
+c) O acondicionamento secundário deve conter o número da guia de circulação correspondente;
+
+3) As aves do dia machos do género Gallus de estirpes semipesadas de aptidão ovopoiética só poderão ser vendidas para a produção de carne, desde que as embalagens de expedição, assim como as guias de remessa, tenham colada ou impressa, em caracteres bem visíveis, a legenda 'Pintos machos sem aptidão especial para produção de carne';
+
+4) Os centros de incubação ficam obrigados a manter actualizados os registos, devendo constar nestes os elementos relativos a:
+
+Proveniência dos ovos e data da sua chegada;
+
+Resultado da eclosão;
+
+Anomalias constatadas;
+
+Exames laboratoriais executados e os resultados obtidos;
+
+Data e destino das aves nascidas;
+
+5) O transporte de ovos de incubação e de aves do dia devem ser acompanhados de guias de circulação ou de guia sanitária de circulação, com as indicações seguintes:
+
+Data do movimento;
+
+Número de registo, designação e endereço do NPA ou do centro de incubação de origem;
+
+Número de registo, designação e endereço do NPA ou do centro de incubação de destino;
+
+Número de embalagens e de ovos ou de aves transportados;
+
+Identificação do meio de transporte e do transportador.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 3.º — Expedição, transporte e embalagem de aves para abate ou de ovos de consumo
+
+1 - A expedição, o transporte e a embalagem de aves para abate devem obedecer aos seguintes requisitos:
+
+a) As caixas ou jaulas de transporte de aves deverão permitir uma correcta visualização dos animais, bem como ser de fácil limpeza e desinfecção quando reutilizáveis;
+
+b) Serem acompanhados de guias de circulação com as indicações seguintes:
+
+Data do movimento,
+
+Número de registo, designação social e endereço do estabelecimento de produção;
+
+Número de registo, designação social e endereço do centro de abate de destino;
+
+Número de caixas ou jaulas e número de aves transportados;
+
+c) O veículo de transporte e os contentores, caixas ou jaulas reutilizáveis terão, antes e após o transporte, de ser limpos, lavados e desinfectados;
+
+d) O transporte e a embalagem das aves deverão ser efectuados de acordo com as regras do bem-estar das aves;
+
+e) As caixas ou jaulas devem ser marcadas com o número da guia da circulação.
+
+2 - A expedição, o transporte e a embalagem de ovos de consumo devem ser acompanhados de guias de circulação com as indicações seguintes:
+
+Número de registo, designação e endereço do NPA;
+
+Número de registo, designação e endereço do centro de inspecção e classificação de ovos;
+
+Número de embalagens e de ovos transportados.
+
+O acondicionamento secundário deve ser identificado com o número da guia de circulação.
+
+3 - A expedição de aves de abate e de ovos de consumo para outros países da União Europeia e países terceiros é regida por legislação específica comunitária.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 4.º — Documentos de acompanhamento
+
+1 - A deslocação de aves para produção, repovoamento ou para abate imediato e de ovos para um centro de classificação, provenientes de explorações sem restrições sanitárias, faz-se a coberto de uma guia de circulação.
+
+2 - A deslocação de aves ou de ovos provenientes de explorações com restrições sanitárias ou administrativas faz-se a coberto de uma guia sanitária de circulação.
+
+3 - As guias de circulação e as guias sanitárias de circulação de aves são obtidas a partir do SNIRA e devem ser completadas antes de iniciada a movimentação e quando chegar ao destino, segundo procedimentos a divulgar pela DGV.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 5.º — Registos de existências e deslocações
+
+1 - Os titulares ou produtor de exploração ou de um núcleo de produção de aves (NPA) das classes 1 e 2 devem manter um registo de existências e deslocações (RED), actualizado semanalmente, por cada núcleo de produção ou por cada bando ou ciclo de produção, devendo neles constar elementos relativos devidamente preenchidos, com os seguintes elementos:
+
+Datas de entrada e proveniência das aves;
+
+Produção observada;
+
+Morbilidade e mortalidade observadas e respectivas causas;
+
+Exames laboratoriais efectuados e resultados obtidos;
+
+Programas de vacinação, tratamentos efectuados e respectivos resultados;
+
+Destino dos ovos de incubação, de consumo ou das aves;
+
+Data da saída.
+
+2 - O representante da autoridade competente que realize acções de controlo à exploração ou centro de agrupamento deve apor o seu nome e assinatura no registo.
+
+3 - Os registos devem ser mantido por três anos.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 6.º — Declaração de alteração do efectivo e de existências
+
+Os detentores são obrigados a declarar periodicamente as alterações aos seus efectivos, bem como a proceder anualmente à declaração de existências de acordo com procedimentos a estabelecer por despacho do director-geral de Veterinária.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 7.º — Alterações
+
+O director-geral de Veterinária, por despacho, pode determinar alteração ao disposto sobre os documentos de acompanhamento e registo de existências e deslocações, previsto neste anexo, tendo em consideração, nomeadamente, a adaptação a regulamentação comunitária ou a medidas de carácter hígio-sanitário que sejam determinadas.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+## Anexo VI — Registo e circulação de leporídeos (coelhos e lebres)
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 1.º — Registo e circulação de leporídeos (coelhos e lebres)
+
+1 - As explorações pecuárias ou os núcleos de produção de leporídeos (NPL) de selecção, multiplicação, ciclo completo e produção só poderão ser povoados com animais que provenham de outras explorações ou NPL das classes 1 ou 2, ou de trocas intracomunitárias, ou de países terceiros.
+
+2 - Os produtores também podem comercializar animais para fins experimentais quando a DGV tiver concedido a isenção prevista no artigo 43.º da Portaria n.º 1005/92, de 23 de Outubro, relativa à protecção dos animais para fins experimentais.
+
+3 - A expedição, transporte e embalagem de coelhos e lebres para exploração, em vida, repovoamento ou para abate devem obedecer aos seguintes requisitos:
+
+a) As caixas ou jaulas de transporte deverão permitir uma correcta visualização dos animais, bem como ser de fácil limpeza e desinfecção quando reutilizáveis;
+
+b) As caixas ou jaulas devem ser identificadas com o número de guia de circulação correspondente;
+
+c) O veículo de transporte e os contentores, caixas ou jaulas reutilizáveis terão, antes e após o transporte, de ser limpos, lavados e desinfectados;
+
+d) O transporte e embalagem dos coelhos e lebres deverão ser efectuados de acordo com as regras do bem-estar.
+
+4 - A expedição de coelhos e lebres para produção, repovoamento ou abate para outros países da União Europeia e países terceiros será regida por legislação específica comunitária.
+
+5 - Os entrepostos de leporídeos só podem operar com animais destinados a abate.
+
+6 - Os centros de agrupamento só podem receber animais que provenham de explorações ou NPL nacionais, de trocas intracomunitárias, ou de países terceiros.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 2.º — Documentos de acompanhamento
+
+1 - O transporte de coelhos ou lebres para produção, repovoamento ou abate imediato, provenientes de explorações sem restrições sanitárias, faz-se a coberto de uma guia de circulação de leporídeos.
+
+2 - A deslocação de leporídeos provenientes de explorações ou de zonas sujeitas a restrições sanitárias ou administrativas faz-se a coberto de uma guia sanitária de circulação.
+
+3 - As guias de circulação e guias sanitárias de circulação de leporídeos são obtidas a partir do SNIRA e devem ser completadas antes de iniciada a movimentação e quando chegar ao destino, segundo procedimentos a divulgar pela DGV.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 3.º — Registo de existências e deslocações (RED)
+
+1 - Os titulares ou os produtores de explorações ou de NPL das classes 1 e 2 devem manter um registo de existências e deslocações (RED), actualizado semanalmente, por cada NPL, preenchido com os seguintes elementos:
+
+Datas de entrada e proveniência e tipo de animais e a referência da guia de circulação;
+
+Morbilidade e mortalidade observadas e as respectivas causas;
+
+Exames laboratoriais efectuados e resultados obtidos;
+
+Alimentos adquiridos, com a indicação da origem, tipo, quantidade e número de lote;
+
+Programas de vacinação, tratamentos efectuados e respectivos resultados;
+
+Data de saída, destino e tipo de animais e referência da guia de circulação dos animais;
+
+Data da saída.
+
+2 - O RED deve estar disponível na exploração e ser disponibilizado às autoridades oficiais sempre que solicitado.
+
+3 - O representante da autoridade competente que realize acções de controlo à exploração ou centro de agrupamento deve apor o seu nome e assinatura no registo.
+
+4 - Os registos devem ser mantido por três anos.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 4.º — Declaração de alteração do efectivo e de existências
+
+Os produtores em explorações licenciadas de animais da espécie da família leporídea são obrigados a declarar periodicamente as alterações aos seus efectivos, bem como a proceder anualmente à declaração de existências de acordo com procedimentos a estabelecer por despacho do director-geral de Veterinária.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 5.º — Alterações
+
+O director-geral de Veterinária, por despacho, pode determinar alterações ao disposto sobre os documentos de acompanhamento e registo de existências e deslocações, previstos neste anexo, tendo em consideração, nomeadamente, a adaptação deste, a regulamentação comunitária ou as medidas de carácter hígio-sanitário que sejam determinadas.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+## Anexo VII — Registo e circulação de 'outras espécies' pecuárias
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 1.º — A expedição, transporte e embalagem de 'outras espécies' pecuárias
+
+1 - As normas de expedição e transporte de animais de outras espécies pecuárias provenientes de explorações licenciadas são determinadas caso a caso por despacho do director-geral de Veterinária, aquando da criação das normas de exploração da espécie em causa.
+
+2 - A expedição para produção, repovoamento ou abate para outros países da União Europeia e países terceiros será regida por legislação específica comunitária.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 2.º — Documentos de acompanhamento
+
+1 - O transporte de animais de outras espécies pecuárias, para produção, repovoamento ou para abate imediato, provenientes de explorações sem restrições sanitárias, faz-se a coberto de uma guia de circulação própria.
+
+2 - A deslocação de animais de outras espécies pecuárias de explorações ou de zonas sujeitas a restrições sanitárias ou administrativas faz-se a coberto de uma guia sanitária de circulação.
+
+3 - Os modelos e a informação que deve constar nas guias de circulação e guias sanitárias de circulação são determinados por despacho do director-geral de Veterinária.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 3.º — Registo de existências e deslocações
+
+1 - As explorações pecuárias que possuam núcleos de produção de outras espécies pecuárias e os centros de agrupamento ou entrepostos autorizados ficam obrigados a manter actualizados um registo de existências e deslocações, actualizado semanalmente, por cada núcleo de produção/espécie animal, devendo neles constar elementos relativos a:
+
+Datas de entrada;
+
+Proveniência dos animais;
+
+Níveis de produção;
+
+Morbilidade e mortalidade observadas e respectivas causas;
+
+Exames laboratoriais efectuados e resultados obtidos;
+
+Programas de vacinação, tratamentos efectuados e respectivos resultados;
+
+Destino dos animais;
+
+Data da saída.
+
+2 - O representante da autoridade competente que realize acções de controlo à exploração, entreposto ou centro de agrupamento deve apor o seu nome e assinatura no registo.
+
+3 - Os registos devem ser mantido por três anos.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08
+
+###### Artigo 4.º — Declaração de alteração do efectivo e de existências
+
+Os titulares de explorações que detenham animais de outras espécies são obrigados a declarar periodicamente as alterações aos seus efectivos, bem como a proceder anualmente à declaração de existências de acordo com procedimentos a estabelecer por despacho do director-geral de Veterinária.
+
+> Aditado pelo/a Artigo 65.º do/a [Decreto-Lei n.º 214/2008 - Diário da República n.º 218/2008, Série I de 2008-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/214-2008-439393), em vigor a partir de 2009-02-08

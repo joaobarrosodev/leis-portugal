@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:654702:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regional/2003-932603756",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regional/15-2003-654702",
+ "source_lastmod": "2025-08-19",
+ "versions": [
+  {
+   "date": "2003-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "932539225",
+    "932539226",
+    "932539227",
+    "932539228",
+    "932539229",
+    "932539231"
+   ]
+  }
+ ],
+ "fragments": {
+  "932539225": {
+   "fragment_id": "932603757",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa Regional n.º 15/2003/M\n\nAlteração do quadro de pessoal da Assembleia Legislativa Regional\n\nA Assembleia Legislativa Regional da Madeira, nos termos do artigo 31.º, n.º 2, do Decreto Legislativo Regional n.º 24/89/M, de 7 de Setembro, na redacção dada pelo Decreto Legislativo Regional n.º 10-A/2000/M, de 27 de Abril, sob proposta do conselho de administração, resolve, em matéria do quadro de pessoal , o seguinte:"
+  },
+  "932539226": {
+   "fragment_id": "932603758",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração do quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração do quadro de pessoal\n\nO quadro de pessoal da Assembleia Legislativa Regional passa a ser o constante do anexo I, que faz parte integrante da presente resolução."
+  },
+  "932539227": {
+   "fragment_id": "932603759",
+   "type": 11,
+   "heading": "Artigo 2.º — Carreira de informática parlamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Carreira de informática parlamentar\n\nAs carreiras do grupo de pessoal de informática, técnico superior de informática parlamentar, programador parlamentar e operador parlamentar de sistemas, previstas nos artigos 36.º, 36.º-B e 26.º-C do Decreto Legislativo Regional n.º 10-A/2000/M, de 27 de Abril, integram-se, respectivamente, as duas primeiras na carreira de especialista de informática parlamentar e a última na de técnico de informática parlamentar, nas condições previstas no Decreto-Lei n.º 97/2001, de 26 de Março."
+  },
+  "932539228": {
+   "fragment_id": "932603760",
+   "type": 11,
+   "heading": "Artigo 3.º — Carreira de ecónomo parlamentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Carreira de ecónomo parlamentar\n\n1 - À carreira de ecónomo parlamentar aplicam-se as disposições constantes do artigo 36.º-F do Decreto Legislativo Regional n.º 10-A/2000/M, de 27 de Abril.\n\n2 - O auxiliar parlamentar posicionado no escalão 4 que vem desempenhando funções no Departamento Financeiro correspondentes às de ecónomo transita, independentemente de quaisquer formalidades, para a categoria de ecónomo parlamentar, 1.º escalão."
+  },
+  "932539229": {
+   "fragment_id": "932603761",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposições finais\n\n1 - As categorias de encarregado de bar e de auxiliar de bar, previstas nos artigos 36.º-J e 36.º-K do Decreto Legislativo Regional n.º 10-A/2000/M, de 27 de Abril, passam a designar-se, respectivamente, por encarregado de cafetaria e por auxiliar de cafetaria.\n\n2 - A categoria de encarregado de pessoal auxiliar parlamentar, prevista no artigo 36.º-H do Decreto Legislativo Regional n.º 10-A/2000/M, de 27 de Abril, passa a designar-se por encarregado de pessoal auxiliar e operário parlamentar."
+  },
+  "932539231": {
+   "fragment_id": "932603763",
+   "type": 14,
+   "heading": "Anexo I — Quadro de pessoal da Assembleia Legislativa Regional da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Quadro de pessoal da Assembleia Legislativa Regional da Madeira\n\n(a que se refere o artigo 1.º)\n\n(ver quadro no documento original)"
+  }
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:67289945:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-207538442",
+ "dre_path": "/dr/detalhe/portaria/150-2015-67289945",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-05-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "207555146",
+    "207555147",
+    "207555148",
+    "207555149",
+    "207555151",
+    "207555152",
+    "207555153",
+    "207555154",
+    "207555155",
+    "207555156",
+    "207555157",
+    "207555158",
+    "207555159",
+    "207555160"
+   ]
+  },
+  {
+   "date": "2023-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207485806:por",
+     "title": "Portaria n.º 49/2023",
+     "published": "2023-02-15",
+     "dre_path": "/dr/detalhe/portaria/49-2023-207485806"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "207555146",
+    "207555147",
+    "207555148",
+    "207555149",
+    "207555150",
+    "207555151",
+    "207555152",
+    "207577500",
+    "207577501",
+    "207577502",
+    "207555156",
+    "207555157",
+    "207555158",
+    "207555159",
+    "207555160"
+   ]
+  }
+ ],
+ "fragments": {
+  "207555146": {
+   "fragment_id": "207538443",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 150/2015\n\nde 26 de maio\n\nO n.º 1 do artigo 34.º da Lei n.º 67/2013, de 28 de agosto, prevê que para o financiamento das entidades reguladoras estas possam cobrar uma contribuição às empresas e outras entidades sujeitas aos seus poderes de regulação e de promoção e defesa de concorrência respeitantes à atividade económica dos setores privado, público, cooperativo e social, bem como cobrar taxas pelos serviços prestados. Nesse seguimento, o n.º 3 do artigo 56.º dos estatutos da Entidade Reguladora da Saúde (ERS), aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto, prevê que os critérios de fixação da contribuição regulatória e das taxas de registo, bem como das respetivas isenções, são fixados por portaria do membro do Governo responsável pela área da saúde.\n\nDe igual modo o artigo 14.º do novo regime de licenciamento, aprovado pelo Decreto-Lei n.º 127/2014, de 22 de agosto, prevê que os critérios de fixação das taxas de licenciamento e eventuais isenções são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\nAssim:\n\nManda o Governo, pela Ministra de Estado e das Finanças e pelo Ministro da Saúde, ao abrigo do disposto no n.º 3 do artigo 56.º do anexo ao Decreto-Lei n.º 126/2014, de 22 de agosto, e do artigo 14.º do Decreto-Lei n.º 127/2014, de 22 de agosto, o seguinte:"
+  },
+  "207555147": {
+   "fragment_id": "207538444",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - São aprovados os critérios de fixação da contribuição regulatória e das taxas de registo, bem como as isenções, no âmbito da prossecução das atribuições pela Entidade Reguladora da Saúde, nos termos do anexo à presente portaria da qual faz parte integrante.\n\n2 - São aprovados os montantes, critérios de fixação das taxas de licenciamento, bem como as isenções, no âmbito do regime jurídico que ficam sujeitos a abertura, a modificação e o funcionamento dos estabelecimentos prestadores de cuidados de saúde, nos termos do anexo à presente portaria da qual faz parte integrante."
+  },
+  "207555148": {
+   "fragment_id": "207538445",
+   "type": 11,
+   "heading": "Artigo 2.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Revogação\n\nÉ revogada a Portaria n.º 52/2011, de 27 de janeiro."
+  },
+  "207555149": {
+   "fragment_id": "207538446",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente Portaria entra em vigor no 1.º dia útil do mês seguinte ao da sua publicação."
+  },
+  "207555151": {
+   "fragment_id": "207538448",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)"
+  },
+  "207555152": {
+   "fragment_id": "207538449",
+   "type": 1,
+   "heading": "Capítulo I — Taxa de registo e contribuição regulatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Taxa de registo e contribuição regulatória"
+  },
+  "207555153": {
+   "fragment_id": "207538450",
+   "type": 11,
+   "heading": "Artigo 1.º — Taxa de Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Taxa de Registo\n\n1 - O registo no Sistema de Registo de Estabelecimentos Regulados (SRER) da ERS, previsto no artigo 26.º dos estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto, está sujeito ao pagamento de uma taxa calculada de acordo com a seguinte fórmula:\n\nTR = 900 euros + 25 euros x NPS\n\ncom um limite mínimo de 1 000 euros, e um limite máximo de 50 000 euros, sendo TR a taxa de registo e NPS o número de profissionais de saúde do estabelecimento sujeito a registo.\n\n2 - Para os efeitos do disposto no número anterior, consideram-se «profissionais de saúde», designadamente, os médicos, médicos dentistas, enfermeiros, farmacêuticos, psicólogos clínicos, nutricionistas, podologistas, técnicos de diagnóstico e terapêutica, profissionais habilitados ao exercício de terapêuticas não convencionais e outros profissionais de saúde que exerçam atividade em estabelecimento sujeito a registo, independentemente do seu vínculo.\n\n3 - A taxa de registo é reduzida para o valor de 200 euros no caso de associações de doentes legalmente reconhecidas e de profissionais liberais sem colaboradores associados que prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial.\n\n4 - Para efeitos do presente diploma, considera-se «tempo parcial» o exercício da atividade por conta própria em regime de dedicação de menos de vinte e oito horas semanais, e:\n\na) Quando se realize em acumulação com a prestação de cuidados de saúde noutras instituições; ou\n\nb) Nos casos em que o sujeito da obrigação de registo beneficie de uma pensão de reforma ou equivalente.\n\n5 - O pagamento da taxa é efetuado no momento da inscrição, segundo as instruções constantes do formulário a disponibilizar pela ERS.\n\n6 - Não sendo efetuado o pagamento da taxa de registo no prazo concedido para o efeito, a nota de liquidação da dívida serve de base à execução fiscal da mesma, a promover pela ERS."
+  },
+  "207555154": {
+   "fragment_id": "207538451",
+   "type": 11,
+   "heading": "Artigo 2.º — Contribuição regulatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Contribuição regulatória\n\n1 - Estão sujeitos ao pagamento de uma contribuição regulatória todos os estabelecimentos prestadores de cuidados de saúde sob jurisdição regulatória da ERS, nos termos do n.º 2 do artigo 4.º dos estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto.\n\n2 - A contribuição regulatória visa remunerar os custos específicos incorridos pela ERS no exercício da sua atividade de regulação, de supervisão e de promoção e defesa da concorrência respeitantes às atividades económicas na área da saúde dos sectores privado, público, cooperativo e social.\n\n3 - A contribuição regulatória é calculada de acordo com a seguinte fórmula:\n\nCR = 450 euros + 12,50 euros x NMPS\n\ncom um limite mínimo de 500 euros e um limite máximo de 25 000 euros, sendo CR a contribuição regulatória e NMPS o número médio anual de profissionais de saúde correspondente à média aritmética simples do número de profissionais associados do estabelecimento registado, no final de cada mês do ano civil anterior ao do pagamento.\n\n4 - Para os efeitos do disposto no número anterior, consideram-se «profissionais de saúde» os enunciados no n.º 2 do artigo 1.º.\n\n5 - Os sujeitos da obrigação de registo no SRER que sejam titulares de vários estabelecimentos estão apenas obrigados ao pagamento de contribuição regulatória por todos eles, sendo que, para o cálculo do NMPS referido no n.º 3 do presente artigo, conta o número total de profissionais associados dos seus estabelecimentos.\n\n6 - A contribuição regulatória é reduzida para 25 euros no caso de associações de doentes legalmente reconhecidas e de profissionais liberais sem colaboradores associados que prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial, nos termos do n.º 4 do artigo anterior.\n\n7 - A contribuição regulatória é liquidada anualmente, vencendo-se 12 meses após a data da constituição da obrigação legal de registo no SRER.\n\n8 - Após a data de vencimento do pagamento referido no número anterior, o sujeito é notificado para proceder ao mesmo, após o que, caso não o faça, passados que sejam 60 dias contados da notificação, a nota de liquidação da dívida serve de base à execução fiscal da mesma, a promover pela ERS."
+  },
+  "207555155": {
+   "fragment_id": "207538452",
+   "type": 11,
+   "heading": "Artigo 3.º — Sujeito da obrigação de registo e de contribuição regulatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sujeito da obrigação de registo e de contribuição regulatória\n\n1 - É sujeito da obrigação de registo e respetiva taxa, bem como da subsequente contribuição regulatória, a pessoa, singular ou coletiva, que é proprietária, tutela, gere, detém ou, de qualquer outra forma, explora estabelecimento onde são prestados cuidados de saúde, ou por qualquer outra forma, exerça a sua atividade profissional por conta própria em estabelecimento de saúde, desde que sobre o mesmo detenha controlo.\n\n2 - Para efeitos do número anterior, presume-se que exerce atividade profissional por conta própria quem proceda à prestação de cuidados de saúde de modo autónomo, assumindo-se perante o utente como entidade responsável pela prestação de tais cuidados, nomeadamente emitindo faturas ou recibos próprios aos utentes, ou ainda possuindo convenções ou acordos, públicos ou privados, para a prestação de cuidados de saúde.\n\n3 - Quando no mesmo espaço físico sejam prestados cuidados de saúde por diversos sujeitos autónomos, tal como definidos no n.º 1, sobre todos e cada um recai a obrigação de cumprimento das obrigações estabelecidas na presente Portaria, sem prejuízo de a ERS poder, em regulamento, prever forma(s) simplificada(s) de agregação dos sujeitos no SRER, desde que sempre acautelada a completude do conhecimento da situação jurídica dos estabelecimentos, incluindo a inserção de todos os colaboradores."
+  },
+  "207555156": {
+   "fragment_id": "207538453",
+   "type": 1,
+   "heading": "Capítulo II — Taxas de Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Taxas de Licenciamento"
+  },
+  "207555157": {
+   "fragment_id": "207538454",
+   "type": 11,
+   "heading": "Artigo 4.º — Emissão de licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Emissão de licença\n\nA emissão de licença de funcionamento, prevista no artigo 14.º do Decreto-Lei n.º 127/2014, de 22 de agosto, é gratuita."
+  },
+  "207555158": {
+   "fragment_id": "207538455",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxa de vistoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Taxa de vistoria\n\n1 - A vistoria prévia à emissão de licença de funcionamento, prevista no n.º 1 do artigo 6.º do Decreto-Lei n.º 127/2014, de 22 de agosto, está sujeita a uma taxa de 350 euros.\n\n2 - No caso de serem detetadas não conformidades graves que obriguem a nova vistoria, tal vistoria subsequente está sujeita a uma taxa de 500 euros.\n\n3 - A taxa de vistoria é liquidada no momento em que a mesma é solicitada à ERS, vencendo-se 10 dias após a sua emissão.\n\n4 - Após a data de vencimento do pagamento referido no número anterior, o requerente do licenciamento é notificado para proceder ao pagamento, após o que, caso não o faça, passados que sejam 60 dias contados da notificação, a nota de liquidação da dívida serve de base à execução fiscal da mesma, a promover pela ERS.\n\n5 - Sem prejuízo do disposto no número anterior, o não pagamento atempado da taxa de vistoria implica a não emissão de licença.\n\n6 - Estão isentas do pagamento da taxa de vistoria as entidades que optem por recorrer a entidades externas, nos termos da alínea d) do n.º 3 do artigo 5.º do Decreto-Lei n.º 127/2014, de 22 de agosto."
+  },
+  "207555159": {
+   "fragment_id": "207538456",
+   "type": 1,
+   "heading": "Capítulo III — Disposições Finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições Finais"
+  },
+  "207555160": {
+   "fragment_id": "207538457",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma transitória\n\nSempre que, por virtude de alteração ou revisão do quadro legal ou regulatório relevante, seja reconhecida outra atividade de prestação de cuidados de saúde, para além daquelas que já atualmente reconhecidas, que origine obrigação de inscrição no SRER e de contribuição regulatória, os correspondentes sujeitos dispõem de um prazo de 60 dias, contados a partir do aviso de tal obrigação publicado no sítio de internet da ERS, para darem cumprimento às obrigações da presente Portaria."
+  },
+  "207555150": {
+   "fragment_id": "207538447",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 15 de maio de 2015.\n\nA Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque. - O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo."
+  },
+  "207577500": {
+   "fragment_id": "207538450",
+   "type": 11,
+   "heading": "Artigo 1.º — Taxa de Registo",
+   "in_force_from": "2023-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 49/2023 - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2023-207485806), em vigor a partir de 2023-02-16"
+   ],
+   "markdown": "###### Artigo 1.º — Taxa de Registo\n\n1 - O registo no Sistema de Registo de Estabelecimentos Regulados (SRER) da ERS, previsto no artigo 26.º dos estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto, está sujeito ao pagamento de uma taxa calculada de acordo com a seguinte fórmula:\n\nTR = 900 euros + 25 euros x NPS\n\ncom um limite mínimo de 1 000 euros, e um limite máximo de 50 000 euros, sendo TR a taxa de registo e NPS o número de profissionais de saúde do estabelecimento sujeito a registo.\n\n2 - Para os efeitos do disposto no número anterior, consideram-se «profissionais de saúde», designadamente, os médicos, médicos dentistas, enfermeiros, farmacêuticos, psicólogos clínicos, nutricionistas, podologistas, técnicos de diagnóstico e terapêutica, profissionais habilitados ao exercício de terapêuticas não convencionais e outros profissionais de saúde que exerçam atividade em estabelecimento sujeito a registo, independentemente do seu vínculo.\n\n3 - A taxa de registo é reduzida para o valor de 200 euros no caso de associações de doentes legalmente reconhecidas e de profissionais liberais sem colaboradores associados que prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial.\n\n4 - Para efeitos do presente diploma, considera-se «tempo parcial» o exercício da atividade por conta própria em regime de dedicação de menos de vinte e oito horas semanais, e:\n\na) Quando se realize em acumulação com a prestação de cuidados de saúde noutras instituições; ou\n\nb) Nos casos em que o sujeito da obrigação de registo beneficie de uma pensão de reforma ou equivalente.\n\n5 - O pagamento da taxa é efetuado no momento da inscrição, segundo as instruções constantes do formulário a disponibilizar pela ERS.\n\n6 - Não sendo efetuado o pagamento da taxa de registo no prazo concedido para o efeito, a nota de liquidação da dívida serve de base à execução fiscal da mesma, a promover pela ERS.\n\n7 - Estão isentas do pagamento da taxa de registo as farmácias de oficina, cujo regime jurídico consta do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 49/2023 - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2023-207485806), em vigor a partir de 2023-02-16"
+  },
+  "207577501": {
+   "fragment_id": "207538451",
+   "type": 11,
+   "heading": "Artigo 2.º — Contribuição regulatória",
+   "in_force_from": "2023-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 49/2023 - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2023-207485806), em vigor a partir de 2023-02-16"
+   ],
+   "markdown": "###### Artigo 2.º — Contribuição regulatória\n\n1 - Estão sujeitos ao pagamento de uma contribuição regulatória todos os estabelecimentos prestadores de cuidados de saúde sob jurisdição regulatória da ERS, nos termos do n.º 2 do artigo 4.º dos estatutos da ERS, aprovados pelo Decreto-Lei n.º 126/2014, de 22 de agosto, sem prejuízo do disposto no n.º 9.\n\n2 - A contribuição regulatória visa remunerar os custos específicos incorridos pela ERS no exercício da sua atividade de regulação, de supervisão e de promoção e defesa da concorrência respeitantes às atividades económicas na área da saúde dos sectores privado, público, cooperativo e social.\n\n3 - A contribuição regulatória é calculada de acordo com a seguinte fórmula:\n\nCR = 450 euros + 12,50 euros x NMPS\n\ncom um limite mínimo de 500 euros e um limite máximo de 25 000 euros, sendo CR a contribuição regulatória e NMPS o número médio anual de profissionais de saúde correspondente à média aritmética simples do número de profissionais associados do estabelecimento registado, no final de cada mês do ano civil anterior ao do pagamento.\n\n4 - Para os efeitos do disposto no número anterior, consideram-se «profissionais de saúde» os enunciados no n.º 2 do artigo 1.º.\n\n5 - Os sujeitos da obrigação de registo no SRER que sejam titulares de vários estabelecimentos estão apenas obrigados ao pagamento de contribuição regulatória por todos eles, sendo que, para o cálculo do NMPS referido no n.º 3 do presente artigo, conta o número total de profissionais associados dos seus estabelecimentos.\n\n6 - A contribuição regulatória é reduzida para 25 euros no caso de associações de doentes legalmente reconhecidas e de profissionais liberais sem colaboradores associados que prestem cuidados de saúde em estabelecimento próprio e em regime de tempo parcial, nos termos do n.º 4 do artigo anterior.\n\n7 - A contribuição regulatória é liquidada anualmente, vencendo-se 12 meses após a data da constituição da obrigação legal de registo no SRER.\n\n8 - Após a data de vencimento do pagamento referido no número anterior, o sujeito é notificado para proceder ao mesmo, após o que, caso não o faça, passados que sejam 60 dias contados da notificação, a nota de liquidação da dívida serve de base à execução fiscal da mesma, a promover pela ERS.\n\n9 - Estão isentas do pagamento de contribuição regulatória as farmácias de oficina, cujo regime jurídico consta do Decreto-Lei n.º 307/2007, de 31 de agosto, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 49/2023 - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2023-207485806), em vigor a partir de 2023-02-16"
+  },
+  "207577502": {
+   "fragment_id": "207538452",
+   "type": 11,
+   "heading": "Artigo 3.º — Sujeito da obrigação de registo e de contribuição regulatória",
+   "in_force_from": "2023-02-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 49/2023 - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2023-207485806), em vigor a partir de 2023-02-16"
+   ],
+   "markdown": "###### Artigo 3.º — Sujeito da obrigação de registo e de contribuição regulatória\n\n1 - É sujeito da obrigação de registo e respetiva taxa, bem como da subsequente contribuição regulatória, a pessoa, singular ou coletiva, que é proprietária, tutela, gere, detém ou, de qualquer outra forma, explora estabelecimento onde são prestados cuidados de saúde, ou por qualquer outra forma, exerça a sua atividade profissional por conta própria em estabelecimento de saúde, desde que sobre o mesmo detenha controlo, sem prejuízo do disposto no n.º 7.º do artigo 1.º e do n.º 9 do artigo anterior.\n\n2 - Para efeitos do número anterior, presume-se que exerce atividade profissional por conta própria quem proceda à prestação de cuidados de saúde de modo autónomo, assumindo-se perante o utente como entidade responsável pela prestação de tais cuidados, nomeadamente emitindo faturas ou recibos próprios aos utentes, ou ainda possuindo convenções ou acordos, públicos ou privados, para a prestação de cuidados de saúde.\n\n3 - Quando no mesmo espaço físico sejam prestados cuidados de saúde por diversos sujeitos autónomos, tal como definidos no n.º 1, sobre todos e cada um recai a obrigação de cumprimento das obrigações estabelecidas na presente Portaria, sem prejuízo de a ERS poder, em regulamento, prever forma(s) simplificada(s) de agregação dos sujeitos no SRER, desde que sempre acautelada a completude do conhecimento da situação jurídica dos estabelecimentos, incluindo a inserção de todos os colaboradores.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 49/2023 - Diário da República n.º 33/2023, Série I de 2023-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/49-2023-207485806), em vigor a partir de 2023-02-16"
+  }
+ }
+}

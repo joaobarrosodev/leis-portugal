@@ -1,0 +1,402 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:233719:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-156697062",
+ "dre_path": "/dr/detalhe/decreto-lei/106-2005-233719",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-06-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156697144",
+    "156697145",
+    "156697146",
+    "156697147",
+    "156697148",
+    "156697149",
+    "156697150",
+    "156697151",
+    "156697152",
+    "156697153",
+    "156697154",
+    "156697155",
+    "156697156",
+    "156697157",
+    "156697158",
+    "156697159",
+    "156697160",
+    "156697161",
+    "156697162",
+    "156697163",
+    "156697164",
+    "156697165",
+    "156697166",
+    "156697168"
+   ]
+  },
+  {
+   "date": "2006-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:538998:por",
+     "title": "Decreto-Lei n.º 13/2006",
+     "published": "2006-01-20",
+     "dre_path": "/dr/detalhe/decreto-lei/13-2006-538998"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "156697144",
+    "156697145",
+    "156697146",
+    "156697147",
+    "156697148",
+    "156697149",
+    "156697150",
+    "156697151",
+    "156697152",
+    "156697153",
+    "156720476",
+    "156697155",
+    "156720477",
+    "156697157",
+    "156697158",
+    "156697159",
+    "156697160",
+    "156697161",
+    "156697162",
+    "156697163",
+    "156697164",
+    "156697165",
+    "156697166",
+    "156697167",
+    "156720478"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "156697144",
+    "156697145",
+    "156697146",
+    "156697147",
+    "156697148",
+    "156697149",
+    "156697150",
+    "156697151",
+    "156697152",
+    "156697153",
+    "156720476",
+    "156697155",
+    "156720477",
+    "156697157",
+    "156697158",
+    "156720479",
+    "156720480",
+    "156697161",
+    "156720481",
+    "156720482",
+    "156697164",
+    "156697165",
+    "156697166",
+    "156697167",
+    "156720478"
+   ]
+  }
+ ],
+ "fragments": {
+  "156697144": {
+   "fragment_id": "156697063",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 106/2005\n\nde 29 de Junho\n\nO Decreto-Lei n.º 32/94, de 5 de Fevereiro, estabeleceu um novo regime para as gorduras e óleos comestíveis, tendo sido regulamentado, entre outros, pela Portaria n.º 928/98, de 23 de Outubro, que fixou as características a que devem obedecer as gorduras e os óleos vegetais destinados à alimentação humana e as condições a observar na sua obtenção ou tratamento, bem como as regras da sua comercialização.\n\nNo entanto, dado o tempo decorrido, importa adequar as normas constantes da Portaria n.º 928/98, de 23 de Outubro, ao progresso tecnológico bem como à legislação geral relativa aos géneros alimentícios.\n\nPor outro lado, as normas relativas aos óleos e gorduras vegetais destinados à alimentação humana devem encontrar-se contidas em diploma que consagre o respectivo regime sancionatório.\n\nO presente diploma estabelece, assim, as características das gorduras e dos óleos vegetais destinados à alimentação humana, as condições a observar na sua obtenção ou tratamento, bem como as regras da sua comercialização, e o respectivo regime sancionatório, procedendo à revogação da Portaria n.º 928/98, de 23 de Outubro.\n\nRelativamente a este diploma, foi cumprido o procedimento de informação no domínio das normas e regras técnicas, previsto na Directiva n.º <a href=\"eurlex.asp?ano=1998&id=398L0034\" title=\"Link para Directiva da Comunidade Europeia\">98/34/CE</a>, do Parlamento Europeu e do Conselho, de 22 de Junho.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156697145": {
+   "fragment_id": "156697064",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\n1 - O presente diploma fixa as características a que devem obedecer as gorduras e os óleos vegetais destinados à alimentação humana e as condições a observar na sua obtenção ou tratamento, bem como as regras da sua comercialização.\n\n2 - Não se encontram abrangidos pelo disposto neste diploma o azeite e o óleo de bagaço de azeitona destinados ao consumidor final."
+  },
+  "156697146": {
+   "fragment_id": "156697065",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Para efeitos do presente diploma, entende-se por:\n\na) «Gordura vegetal» o produto obtido de frutos ou sementes, no estado sólido à temperatura de 20ºC, isento de impurezas e sem actividade à luz polarizada;\n\nb) «Óleo vegetal» a gordura vegetal líquida à temperatura de 20ºC.\n\n2 - São consideradas gorduras vegetais destinadas à alimentação humana as seguintes:\n\na) «Gordura de coco», a que é obtida da amêndoa parcialmente seca (copra) do fruto do coqueiro (Cocos nucifera Linnaeus);\n\nb) «Gordura de palmiste» (ou de coconote), a que é obtida da amêndoa do fruto da palmeira de dendém (Elaeis guineensis Jacq);\n\nc) «Gordura de palma», a que é directamente obtida do mesocarpo carnudo do fruto da palmeira de dendém (Elaeis guineensis Jacq) e que pode ser fraccionada, dando origem a:\n\ni) «Palmaestearina», a fracção sólida da gordura de palma;\n\nii) «Palmoleína», a fracção líquida da gordura de palma;\n\nd) «Outras gorduras vegetais», as gorduras comestíveis não definidas acima e que obedeçam às disposições mencionadas no presente diploma.\n\n3 - São considerados óleos vegetais destinados à alimentação humana os seguintes:\n\na) «Óleo de algodão», o que é obtido da semente de diversas espécies cultivadas da Gossypium;\n\nb) «Óleo de amendoim», o que é obtido da semente de Arachis hipogaea L.;\n\nc) «Óleo de arroz», o que é obtido do farelo e gérmen da semente de Oriza sativa L.;\n\nd) «Óleo de babassu», o que é obtido da amêndoa do fruto de diversas espécies da palmeira Orbignya;\n\ne) «Óleo de bagaço de azeitona» (estreme), o que é obtido do fruto de Olea europaea L., após obtenção do azeite;\n\nf) «Óleo de bolota», o que é obtido do fruto do Quercus ilex L. e Quercus suber L.;\n\ng) «Óleo de cártamo», o que é obtido da semente de Carthamus tinctorius L.;\n\nh) «Óleo de colza», o que é obtido da semente de Brassica napus L. e de Brassica campestris L.;\n\ni) «Óleo de gergelim» (ou sésamo), o que é obtido da semente de Sesamum indicum L.;\n\nj) «Óleo de girassol», o que é obtido da semente de Helianthus annus L.;\n\nl) «Óleo de grainha de uva», o que é obtido da semente de Vitis vinifera L.;\n\nm) «Óleo de milho», o que é obtido do gérmen de Zea mays L.;\n\nn) «Óleo de mostarda», o que é obtido da semente da mostarda branca (Sinapis alba L. ou Brassica hirta Moench), da mostarda castanha e amarela (Brassica juncea L. Czern e Coss) e da mostarda preta (Brassica nigra L. Koch);\n\no) «Óleo de semente de tomate», o que é obtido da semente de Solanum lycopersicum L.;\n\np) «Óleo de soja», o que é obtido da semente de Glycine max L. Merril;\n\nq) «Outros óleos vegetais», os óleos comestíveis não definidos anteriormente e que obedeçam às disposições mencionadas no presente diploma.\n\n4 - Entende-se por «óleo alimentar» a mistura de dois ou mais óleos, refinados isoladamente ou em conjunto, com excepção do azeite.\n\n5 - É proibida a utilização, para a alimentação humana, de «óleo de colza» com um teor em ácido erúcico superior a 2%."
+  },
+  "156697147": {
+   "fragment_id": "156697066",
+   "type": 11,
+   "heading": "Artigo 3.º — Matérias-primas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Matérias-primas\n\n1 - As gorduras e os óleos vegetais destinados à alimentação humana devem ser provenientes de frutos ou sementes em condições de facultar um produto bromatologicamente aceitável, apresentar-se em conveniente estado de conservação, isentos de substâncias ou matérias estranhas à sua normal composição bem como de microrganismos patogénicos ou de substâncias destes derivados em níveis susceptíveis de prejudicar a saúde do consumidor.\n\n2 - As gorduras e os óleos vegetais recuperados de subprodutos obtidos no processo de refinação não podem servir como gorduras ou óleos comestíveis, quaisquer que sejam os tratamentos a que sejam submetidos ulteriormente."
+  },
+  "156697148": {
+   "fragment_id": "156697067",
+   "type": 11,
+   "heading": "Artigo 4.º — Obtenção e tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Obtenção e tratamento\n\n1 - Para a obtenção e tratamento das gorduras e óleos vegetais a partir de sementes ou frutos oleaginosos são admitidas apenas as seguintes operações:\n\na) Extracção por processos físicos, mediante acção mecânica, ou dissolução com solventes;\n\nb) Depuração mediante operações de decantação, filtração, centrifugação e desmucilaginação;\n\nc) Fraccionamento por operações de arrefecimento ou aquecimento a determinadas temperaturas e ou por cristalização fraccionada em dissolvente apropriado;\n\nd) Refinação mediante operações de neutralização dos ácidos gordos livres com soluções alcalinas ou de separação desses ácidos por destilação em ambiente rarefeito, bem como de descoloração com adsorventes inócuos ou membranas e de desodorização pela passagem do vapor de água ou azoto em ambiente rarefeito;\n\ne) Modificação molecular e de estrutura glicerídica, com subsequente eliminação do catalisador utilizado, mediante hidrogenação, interesterificação ou transesterificação, sendo proibida a esterificação em que haja adição de glicerol ou de outros alcoóis, sem prejuízo do disposto na alínea b) do n.º 6 do artigo 9.º\n\n2 - Todas as operações devem decorrer a temperaturas que não alterem a gordura ou o óleo, utilizando-se, quando necessário, pressão reduzida, e não deverão produzir trocas prejudiciais na estrutura natural dos componentes.\n\n3 - É proibida a obtenção e tratamento das gorduras e óleos vegetais destinados à alimentação humana simultaneamente com outros que não sejam comestíveis."
+  },
+  "156697149": {
+   "fragment_id": "156697068",
+   "type": 11,
+   "heading": "Artigo 5.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Classificação\n\n1 - As gorduras e óleos vegetais, quanto ao modo de obtenção, classificam-se em:\n\na) «Gordura ou óleo bruto» - produto obtido por extracção mecânica ou por dissolução com solvente, de acordo com as condições previstas no presente diploma;\n\nb) «Gordura ou óleo virgem» - produto obtido por extracção mecânica, prensagem a frio ou por outras operações físicas, excluída a dissolução com solvente, em condições, sobretudo térmicas, que não impliquem alterações do óleo ou da gordura e que não tenham sofrido outro tratamento para além da lavagem, depuração por decantação, filtração e centrifugação;\n\nc) «Gordura ou óleo refinado» - produto obtido pela refinação da gordura ou óleo bruto ou virgem;\n\nd) «Gordura ou óleo parcialmente refinado» - produto obtido pela neutralização e branqueamento da gordura ou óleo bruto.\n\n2 - Apenas podem ser destinados ao consumidor final:\n\na) As gorduras e os óleos tal como definidos nos n.os 2 e 3 do artigo 2.º, quando refinados, excepto o óleo de bagaço de azeitona estreme;\n\nb) O óleo alimentar tal como definido no n.º 4 do artigo 2.º;\n\nc) As gorduras e os óleos virgens, tal como definidos nos n.os 2 e 3 do artigo 2.º, obtidos de acordo com a alínea b) do n.º 1 do artigo 5.º\n\n3 - As gorduras e os óleos brutos referidos nos n.os 2 e 3 do artigo 2.º e o óleo de bagaço de azeitona refinado só podem ser transaccionados entre industriais, armazenistas, embaladores e exportadores."
+  },
+  "156697150": {
+   "fragment_id": "156697069",
+   "type": 11,
+   "heading": "Artigo 6.º — Óleos para conservas de peixe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Óleos para conservas de peixe\n\nOs óleos comestíveis destinados à indústria de conservas de peixe não podem apresentar temperatura de congelação superior a 5ºC, nem reversão do aroma e do sabor, mesmo depois de submetidos a 120ºC durante duas horas em ambiente fechado."
+  },
+  "156697151": {
+   "fragment_id": "156697070",
+   "type": 11,
+   "heading": "Artigo 7.º — Aditivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aditivos\n\nNo fabrico das gorduras e dos óleos vegetais é admitida a utilização dos aditivos que se encontram fixados na legislação relativa aos aditivos alimentares."
+  },
+  "156697152": {
+   "fragment_id": "156697071",
+   "type": 11,
+   "heading": "Artigo 8.º — Contaminantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contaminantes\n\nNas gorduras e nos óleos vegetais destinados à alimentação humana apenas podem encontrar-se presentes as substâncias admitidas na legislação vigente relativa aos contaminantes."
+  },
+  "156697153": {
+   "fragment_id": "156697072",
+   "type": 11,
+   "heading": "Artigo 9.º — Auxiliares tecnológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Auxiliares tecnológicos\n\nNa obtenção e tratamento das gorduras e dos óleos vegetais são admitidos os seguintes auxiliares tecnológicos:\n\n1 - Ácidos:\n\nA) Ácido cítrico;\n\nB) Ácido clorídrico;\n\nC) Ácido fosfórico [triácido ou ortofosfórico (H(índice 3)PO(índice 4))];\n\nD) Ácido láctico;\n\nE) Ácido sulfúrico;\n\nF) Ácido tartárico;\n\n2 - Bases:\n\nA) Hidróxido de amónio;\n\nB) Hidróxido de cálcio;\n\nC) Hidróxido de magnésio;\n\nD) Hidróxido de potássio;\n\nE) Hidróxido de sódio;\n\n3 - Sais:\n\nA) Carbonatos de amónio, cálcio, magnésio, potássio e sódio (sal comum);\n\nB) Citratos de cálcio, potássio e sódio;\n\nC) Cloretos de cálcio, magnésio, potássio e sódio (sal comum);\n\nD) Fosfatos:\n\ni) Monofosfatos (ortofosfatos):\n\na) Fosfato monocálcico [Ca(H(índice 2)PO(índice 4))(índice 2)] anidro ou como uma molécula de água;\n\nb) Fosfato tricálcico [Ca(índice 3)(PO(índice 4))(índice 2)] anidro;\n\nc) Fosfato monopotássico (KH(índice 2)PO(índice 4)) anidro;\n\nd) Fosfato dipotássico (K(índice 2)HPO(índice 4)) anidro;\n\ne) Fosfato tripotássico (K(índice 3)PO(índice 4)) anidro e com uma ou duas moléculas de água;\n\nf) Fosfato monossódico (NaH(índice 2)PO(índice 4)) anidro e com uma ou duas moléculas de água;\n\ng) Fosfato dissódico (Na(índice 2)HPO(índice 4)) anidro e com duas moléculas de água;\n\nh) Fosfato trissódico (Na(índice 3)PO(índice 4)) anidro e com 1 ou 12 moléculas de água;\n\nii) Difosfatos (pirofosfatos):\n\na) Difosfato dissódico (Na(índice 2)H(índice 2)P(índice 2)O(índice 7)) anidro ou com seis moléculas de água;\n\nb) Difosfato tetrassódico (Na(índice 4)P(índice 2)O(índice 7)) anidro ou com 10 moléculas de água;\n\niii) Polifosfatos:\n\na) Trifosfato pentassódico (Na(índice 5)P(índice 3)O(índice 10));\n\nb) Sal de Graham [(NaPO(índice 3))(índice x) ou Na(índice x)H2P(índice x)O(índice 3x + 1) ou Na(índice x) + 2P(índice x)O(índice 3x + 1)];\n\niv) Hidrogenocarbonatos (bicarbonatos) de amónio, potássio e sódio;\n\nv) Lactatos de cálcio, potássio e sódio;\n\nvi) Silicatos de sódio:\n\na) Silicato dissódico [metassilicato de sódio (Na(índice 2)SiO(índice 3))] com uma ou nove moléculas de água;\n\nb) Silicato tetrassódico [ortossilicato de sódio (Na(índice 4)SiO(índice 4))];\n\nc) Tetrassilicato tetrassódico [silicato de sódio (Na(índice 4)Si(índice 4)O(índice 9))];\n\nvii) Sulfatos de cálcio, magnésio, potássio e sódio;\n\n4 - Agentes de clarificação:\n\nA) Adjuvantes de filtração, inertes;\n\nB) Argilas adsorventes, barro-de-espanha, bentonites, montmorilonite, caulino, terras descorantes naturais e activadas;\n\nC) Carvões não activados e activados;\n\nD) Enzimas pectolípticas (aplicáveis também como adjuvantes de extracção);\n\nE) Sílicas sintéticas;\n\nF) Para a activação de carvões e terra só pode ser empregada a acção do calor ou de ácidos indicados no n.º 1;\n\n5 - Solventes - os solventes admissíveis no fabrico das gorduras e dos óleos vegetais são os fixados na legislação específica para os géneros alimentícios;\n\n6 - Catalisadores:\n\nA) Para hidrogenação:\n\n1) Cobre, crómio, manganésio, molibdénio, níquel, paládio e platina;\n\nB) Para interesterificação e transesterificação:\n\n1) Amida de sódio, etilato de sódio, metilato de sódio e sódio metálico, sódio-glicerol e por enzimas;\n\n7 - Tensioactivos - para o fraccionamento, utilizam-se como tensioactivos apenas:\n\nA) Decilsufato de sódio;\n\nB) Dodecisulfato de sódio (laurilsulfato de sódio);\n\n8 - Gases - como gases inertes podem ser utilizados:\n\nA) Azoto;\n\nB) Dióxido de carbono;\n\nC) Gases raros não radioactivos."
+  },
+  "156697154": {
+   "fragment_id": "156697073",
+   "type": 11,
+   "heading": "Artigo 10.º — Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Características\n\nAs características das gorduras e dos óleos vegetais destinados à alimentação humana, a que se refere o artigo 2.º, são as constantes do anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "156697155": {
+   "fragment_id": "156697074",
+   "type": 11,
+   "heading": "Artigo 11.º — Acondicionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acondicionamento\n\n1 - As gorduras e os óleos vegetais destinados ao consumidor final devem apresentar-se pré-embalados, podendo encontrar-se a granel quando se destinem a industriais, a grossistas e a outras entidades similares, exportadores e refinadores.\n\n2 - O material em contacto com a gordura e com os outros óleos vegetais deve ser inerte, inócuo em relação ao conteúdo e garantir uma adequada conservação, de acordo com a legislação relativa aos materiais destinados a entrar em contacto com os géneros alimentícios."
+  },
+  "156697156": {
+   "fragment_id": "156711975",
+   "type": 11,
+   "heading": "Artigo 12.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Rotulagem\n\nA rotulagem das gorduras e dos óleos vegetais destinados à alimentação humana, a que se refere o n.º 2 do artigo 5.º, obedece ao disposto na legislação em vigor sobre rotulagem dos géneros alimentícios, devendo observar ainda o seguinte:\n\na) A denominação de venda deve ser constituída por uma das expressões constantes dos n.os 2 e 3 do artigo 2.º seguida da indicação do modo de obtenção nos termos seguintes:\n\ni) Refinado(a);\n\nii) Virgem;\n\nb) Caso as fracções da gordura de palma sejam comercializadas separadamente, a denominação de venda das mesmas deverá ser «Palmaestearina» ou «Palmoleína», consoante seja a fracção sólida ou a fracção líquida daquela;\n\nc) Na denominação de venda do «óleo de cártamo» estreme com alto teor em ácido oleico, do «óleo de girassol» estreme com alto teor em ácido oleico, do «óleo de colza» estreme e do «óleo alimentar» com um teor em ácido linolénico superior a 2% deve constar a referência ao teor em ácido oleico, em ácido erúcico ou ácido linolénico, respectivamente;\n\nd) A denominação de venda da mistura a que se refere o n.º 4 do artigo 2.º é constituída pela expressão «óleo alimentar», devendo constar da mesma a expressão «contém óleos vegetais refinados»."
+  },
+  "156697157": {
+   "fragment_id": "156711976",
+   "type": 11,
+   "heading": "Artigo 13.º — Métodos de análise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Métodos de análise\n\nPara efeitos de verificação das características das gorduras e dos óleos vegetais destinados à alimentação humana, serão utilizados os métodos de preparação de amostra e de análise definidos em normas portuguesas e, na sua ausência, os métodos validados internacionalmente reconhecidos, designadamente os aprovados pelo Codex Alimentarius."
+  },
+  "156697158": {
+   "fragment_id": "156711977",
+   "type": 11,
+   "heading": "Artigo 14.º — Reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reconhecimento mútuo\n\nO disposto no presente diploma aplica-se sem prejuízo da livre circulação dos produtos que sejam legalmente produzidos ou comercializados nos outros Estados membros da União Europeia ou que sejam originários dos países da EFTA, que são partes contratantes do Acordo sobre o Espaço Económico Europeu (Acordo EEE), incluindo os produtos legalmente fabricados ou comercializados na Turquia, na medida em que tais produtos não acarretam um risco para a saúde ou para a vida das pessoas na acepção do artigo 30.º do <a href=\"eurlex/ec_cons_treaty_pt.asp\">Tratado CE</a> e do artigo 13.º do Acordo EEE."
+  },
+  "156697159": {
+   "fragment_id": "156711978",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, compete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar assegurar a fiscalização do cumprimento das normas do presente diploma."
+  },
+  "156697160": {
+   "fragment_id": "156711979",
+   "type": 11,
+   "heading": "Artigo 16.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contra-ordenações\n\n1 - Constitui contra-ordenação punível com coima, no montante mínimo de (euro) 500 e máximo de (euro) 3740 ou (euro) 44890, consoante o agente seja pessoa singular ou colectiva:\n\na) O fabrico e ou a comercialização de gorduras e óleos vegetais cujas características, ingredientes e modo de obtenção ou fabrico não respeitem o disposto nos artigos 2.º a 10.º;\n\nb) A comercialização de gorduras e óleos vegetais cujo acondicionamento e rotulagem não cumpra o disposto, respectivamente, nos artigos 11.º e 12.º\n\n2 - A tentativa e a negligência são puníveis."
+  },
+  "156697161": {
+   "fragment_id": "156711980",
+   "type": 11,
+   "heading": "Artigo 17.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, cumulativamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos pertencentes ao agente;\n\nb) Interdição do exercício de profissões ou actividades cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;\n\nc) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;\n\nd) Privação do direito de participar em feiras ou mercados;\n\ne) Privação do direito de participar em arrematações ou concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nf) Encerramento de estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;\n\ng) Suspensão de autorizações, licenças e alvarás.\n\n2 - As sanções referidas nas alíneas b) e seguintes do número anterior têm a duração máxima de dois anos contados a partir do trânsito em julgado da decisão condenatória."
+  },
+  "156697162": {
+   "fragment_id": "156711981",
+   "type": 11,
+   "heading": "Artigo 18.º — Processos de contra-ordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Processos de contra-ordenação\n\n1 - O levantamento dos autos de contra-ordenação compete à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar, sem prejuízo das competências atribuídas às autoridades policiais e fiscalizadoras.\n\n2 - A instrução dos processos de contra-ordenação compete à entidade que levantar o auto de notícia ou, caso esta não tenha competência para o efeito, à Direcção-Geral de Fiscalização e Controlo da Qualidade Alimentar.\n\n3 - Compete ao director-geral de Fiscalização e Controlo da Qualidade Alimentar a aplicação das coimas e sanções acessórias."
+  },
+  "156697163": {
+   "fragment_id": "156711982",
+   "type": 11,
+   "heading": "Artigo 19.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Afectação do produto das coimas\n\nO produto das coimas é distribuído da seguinte forma:\n\na) 10% para a entidade que levantou o auto;\n\nb) 10% para a entidade que instruiu o processo;\n\nc) 20% para a entidade que aplicou a coima;\n\nd) 60% para o Estado."
+  },
+  "156697164": {
+   "fragment_id": "156711983",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma transitória\n\nDurante um período de 12 meses após a entrada em vigor do presente diploma é admitida a comercialização de gorduras e óleos vegetais destinados à alimentação humana que cumpram o disposto na Portaria n.º 928/98, de 23 de Outubro."
+  },
+  "156697165": {
+   "fragment_id": "156711984",
+   "type": 11,
+   "heading": "Artigo 21.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Norma revogatória\n\nÉ revogada a Portaria n.º 928/98, de 23 de Outubro."
+  },
+  "156697166": {
+   "fragment_id": "156711985",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "156697168": {
+   "fragment_id": "156711987",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 10.º)\n\nCaracterísticas gerais de qualidade\n\n1 - Cor - característica do produto designado.\n\n2 - Aroma e sabor - característicos do produto designado e isentos de aroma e sabor estranhos e de ranço.\n\n3 - Índice de acidez (expresso em mg de KOH/g):\n\nGorduras e óleos virgens - máx. 4;\n\nGorduras e óleos refinados - máx. 0,6.\n\n4 - Índice de peróxido (expresso em miliequivalente de oxigénio activo/kg):\n\nGorduras e óleos virgens - máx. 15;\n\nGorduras e óleos refinados sem antioxidantes - máx. 10.\n\nCaracterísticas específicas de qualidade\n\nAs que constam das tabelas seguintes:\n\nDa TABELA N.º 1 à TABELA N.º 4\n\n(ver tabelas no documento original)"
+  },
+  "156720476": {
+   "fragment_id": "156697073",
+   "type": 11,
+   "heading": "Artigo 10.º — Características",
+   "in_force_from": "2006-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 13/2006 - Diário da República n.º 15/2006, Série I-A de 2006-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2006-538998), em vigor a partir de 2006-01-25"
+   ],
+   "markdown": "###### Artigo 10.º — Características\n\n1 - As características gerais das gorduras e dos óleos vegetais destinados à alimentação humana, a que se refere o artigo 2.º, nomeadamente quanto à cor, ao aroma, ao sabor, ao índice de acidez e ao índice de peróxido, são as que constam da norma Codex Stan 210, adoptada internacionalmente no âmbito do Codex Alimentarius.\n\n2 - As características específicas de qualidade das gorduras e dos óleos vegetais destinados à alimentação humana, a que se refere o artigo 2.º, designadamente quanto à composição em ácidos gordos (expressa em percentagem dos ácidos gordos totais), quanto às características físicas e químicas, quanto aos teores de dimetilesteróis nos óleos vegetais brutos provenientes de amostras genuínas em percentagem de esteróis totais e quanto aos teores tocoferóis e tocotrienóis nos óleos vegetais brutos provenientes de amostras genuínas em percentagem de esteróis totais, são as que constam da norma Codex Stan 210.\n\n3 - As características específicas de qualidade dos óleos de arroz, de bolota e de semente de tomate são as que constam do anexo ao presente diploma e do qual faz parte integrante.\n\n> Alterado pelo/a [Decreto-Lei n.º 13/2006 - Diário da República n.º 15/2006, Série I-A de 2006-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2006-538998), em vigor a partir de 2006-01-25"
+  },
+  "156720477": {
+   "fragment_id": "156711975",
+   "type": 11,
+   "heading": "Artigo 12.º — Rotulagem",
+   "in_force_from": "2006-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 13/2006 - Diário da República n.º 15/2006, Série I-A de 2006-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2006-538998), em vigor a partir de 2006-01-25"
+   ],
+   "markdown": "###### Artigo 12.º — Rotulagem\n\nA rotulagem das gorduras e dos óleos vegetais destinados à alimentação humana, a que se refere o n.º 2 do artigo 5.º, obedece ao disposto na legislação em vigor sobre rotulagem dos géneros alimentícios, devendo observar ainda o seguinte:\n\na) A denominação de venda deve ser constituída por uma das expressões constantes dos n.os 2 e 3 do artigo 2.º seguida da indicação do modo de obtenção nos termos seguintes:\n\ni) Refinado(a);\n\nii) Virgem;\n\nb) Caso as fracções da gordura de palma sejam comercializadas separadamente, a denominação de venda das mesmas deverá ser «Palmaestearina» ou «Palmoleína», consoante seja a fracção sólida ou a fracção líquida daquela;\n\nc) Na denominação de venda do 'óleo de cártamo' estreme e do 'óleo de girassol' estreme, com alto teor em ácido oleico, deve constar também a menção 'alto teor em ácido oleico';\n\nd) Na denominação de venda do 'óleo alimentar' com teor em ácido linolénico superior a 2% deve constar também a menção 'teor em ácido linolénico superior a 2%';\n\ne) A denominação de venda da mistura a que se refere o n.º 4 do artigo 2.º é constituída pela expressão 'óleo alimentar', devendo constar da mesma a expressão 'contém óleos vegetais refinados'.\n\n> Alterado pelo/a [Decreto-Lei n.º 13/2006 - Diário da República n.º 15/2006, Série I-A de 2006-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2006-538998), em vigor a partir de 2006-01-25"
+  },
+  "156697167": {
+   "fragment_id": "156711986",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - Luís Manuel Moreira de Campos e Cunha - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - António Fernando Correia de Campos.\n\nPromulgado em 6 de Junho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 8 de Junho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "156720478": {
+   "fragment_id": "156711987",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 1.º)",
+   "in_force_from": "2006-01-25",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 13/2006 - Diário da República n.º 15/2006, Série I-A de 2006-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2006-538998), em vigor a partir de 2006-01-25"
+   ],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 1.º)\n\nCaracterísticas específicas de qualidade dos óleos de arroz, de bolota e de semente de tomate\n\n(ver tabela no documento original)\n\n> Alterado pelo/a [Decreto-Lei n.º 13/2006 - Diário da República n.º 15/2006, Série I-A de 2006-01-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-2006-538998), em vigor a partir de 2006-01-25"
+  },
+  "156720479": {
+   "fragment_id": "156711978",
+   "type": 11,
+   "heading": "Artigo 15.º — Fiscalização",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 15.º — Fiscalização\n\nSem prejuízo das competências atribuídas por lei a outras entidades, compete à Autoridade de Segurança Alimentar e Económica (ASAE) assegurar a fiscalização do cumprimento das normas do presente diploma.\n\n> Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156720480": {
+   "fragment_id": "156711979",
+   "type": 11,
+   "heading": "Artigo 16.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 16.º — Contra-ordenações\n\n1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) O fabrico e ou a comercialização de gorduras e óleos vegetais cujas características, ingredientes e modo de obtenção ou fabrico não respeitem o disposto nos artigos 2.º a 10.º;\n\nb) A comercialização de gorduras e óleos vegetais cujo acondicionamento e rotulagem não cumpra o disposto, respectivamente, nos artigos 11.º e 12.º\n\n2 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156720481": {
+   "fragment_id": "156711981",
+   "type": 11,
+   "heading": "Artigo 18.º — Instrução e decisão",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 18.º — Instrução e decisão\n\n1 - (Revogado.)\n\n2 - A instrução dos processos de contraordenação compete à ASAE, a quem devem ser remetidos os autos de notícia levantados por outras entidades.\n\n3 - A aplicação das coimas e sanções acessórias compete ao inspetor-geral da ASAE.\n\n> Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156720482": {
+   "fragment_id": "156711982",
+   "type": 11,
+   "heading": "Artigo 19.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 19.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente diploma é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 59.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  }
+ }
+}

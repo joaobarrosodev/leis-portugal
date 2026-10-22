@@ -1,0 +1,191 @@
+---
+schema_version: '1.0'
+id: pt:dre:354137:por
+title: Decreto-Lei n.º 377/88
+short_title: null
+summary: Altera a Lei de Imprensa em matéria processual, no sentido de a adaptar ao novo Código de Processo Penal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 377/88
+official_date: null
+publication_date: '1988-10-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 246/1988, Série I de 1988-10-24
+  number: '246'
+  series: I
+  supplement: null
+  pages: 4312 - 4313
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/10/24600/43124313.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '354137'
+  dre_path: /dr/detalhe/decreto-lei/377-1988-354137
+  internal: pt:dre:354137:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1988-354137
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/377-1988-354137
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-01-13T00:00:00Z'
+integrity:
+  source_sha256: 2d95eb270cf6fd15515cd87975318356a607497074aa409a05098f4e94dbeaf0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-377-354137.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:196218:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 377/88
+
+de 24 de Outubro
+
+A [Lei n.º 43/86](https://diariodarepublica.pt/dr/detalhe/lei/43-1986-221574), de 26 de Setembro, que concedeu ao Governo autorização para aprovar um novo Código de Processo Penal e revogar a legislação vigente, dispôs no n.º 2 do seu artigo 6.º que seriam tomadas as providências necessárias à introdução das adaptações exigidas pela entrada em vigor do novo regime processual penal, relativamente à Lei de Imprensa, na parte aplicável.
+
+O presente diploma visa dar satisfação ao estabelecido na [Lei n.º 43/86](https://diariodarepublica.pt/dr/detalhe/lei/43-1986-221574), através das modificações que se impõem no capítulo IV e no artigo 68.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, relativos ao processo judicial pelos crimes de imprensa, em ordem a ajustá-los aos princípios e às soluções da nova lei processual penal.
+
+Mantém-se o princípio da aplicação subsidiária do Código de Processo Penal e legislação complementar para o exercício da acção penal pelos crimes de imprensa, sem prejuízo de algumas normas especiais que, neste domínio, tradicionalmente vêm sendo consagradas na legislação portuguesa e que ponderosas razões de política criminal justificam. Limitam-se, porém, ao mínimo essas normas especiais, já que o novo Código dá satisfação, em grande parte, aos interesses que as têm determinado. A particular natureza dos crimes de imprensa aconselha, contudo, a que ao seu julgamento não seja aplicável a forma de processo sumário.
+
+Entre as normas especiais que devem manter-se contam-se as que visam assegurar o interesse da celeridade processual, em termos mais acentuados do que no processo penal comum.
+
+É geralmente reconhecida a importância extrema do factor tempo na reparação das ofensas cometidas através da imprensa, pois que uma grande distanciação temporal entre o momento da prática do facto e o da sentença comporta graves inconvenientes, não só para os ofendidos como para os próprios agentes e para a colectividade em geral, diluindo, quando não anulando, os efeitos da prevenção geral e especial, comuns a toda e qualquer infracção criminal.
+
+São, assim, modificadas ou revogadas as disposições da Lei de Imprensa que se afiguram inúteis ou redundantes face à regulamentação do novo Código de Processo Penal, como é o caso do n.º 1 do artigo 36.º e dos artigos 37.º, 38.º, 43.º e 49.º e do n.º 4 do artigo 52.º, este introduzido pela [Lei n.º 13/78](https://diariodarepublica.pt/dr/detalhe/lei/13-1978-447353), de 21 de Março.
+
+No que respeita ao artigo 38.º, acresce a circunstância de a regulamentação prevista nos seus n.os 2 a 4 se afigurar incompatível com o estatuto de arguido regulado no novo Código de Processo Penal e, quanto ao seu n.º 5, a de a condição de punibilidade estar já prevista no Código Penal vigente (artigo 355.º)
+
+A revogação do artigo 43.º justifica-se pelo facto de o novo Código de Processo Penal não prever a forma de processo especial pelos crimes de difamação, injúria ou calúnia, devendo assim funcionar as regras do processo comum.
+
+A revogação do artigo 49.º (regime de recursos) impõe-se face à regulamentação destes na nova lei processual penal, em que estão assegurados os interesses da celeridade na tramitação, e, quanto ao seu n.º 6, porque deixará de haver recurso do acórdão da relação, salvo quando esta decidir em primeira instância, caso em que não se vê motivo ponderoso para limitar o recurso em função do quantitativo da multa aplicada.
+
+Mais do que o valor pecuniário da sanção, podem estar em causa atendíveis interesses morais do recorrente.
+
+Também a não manutenção do texto do n.º 4 do artigo 52.º, introduzido pela [Lei n.º 13/78](https://diariodarepublica.pt/dr/detalhe/lei/13-1978-447353), de 21 de Março, se justifica, pela circunstância de o novo código de processo ter consagrado soluções para obviar aos possíveis inconvenientes da competência por conexão, permitindo a separação de processos (artigo 30.º).
+
+As modificações relativas aos artigos 52.º e 68.º justificam-se, respectiva e essencialmente, por razões de adaptação à terminologia da nova lei processual penal e por ter sido excluído desta o processo de ausentes. Sem prejuízo de se estabelecer o encurtamento dos prazos normais da lei geral, assim se honrando o particular interesse da celeridade processual, em termos que se afiguram razoáveis.
+
+Introduz-se uma nova forma de processo preliminar para permitir o exercício do direito de pedir esclarecimentos em crimes contra a honra, reconhecido pelo artigo 170.º do Código Penal e que o novo Código de Processo Penal não prevê, mas que se considera útil e justificada, na medida em que a sua aplicação poderá contribuir para viabilizar soluções de consenso e reduzir espaços de conflito.
+
+Assim:
+
+No uso da autorização legislativa concedida pela [Lei n.º 88/88](https://diariodarepublica.pt/dr/detalhe/lei/88-1988-378083), de 4 de Agosto, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Os artigos 36.º, 37.º, 51.º, 52.º e 68.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, na sua actual redacção, são alterados da forma seguinte:
+
+###### Artigo 36.º — Direito subsidiário
+
+1 - A acção penal pelos crimes de imprensa exerce-se nos termos do Código de Processo Penal e legislação complementar, ressalvadas as disposições da presente lei.
+
+2 - Ao julgamento dos crimes de imprensa é inaplicável o processo sumário.
+
+###### Artigo 37.º — Competência territorial
+
+1 - Para conhecer dos crimes de imprensa é competente o tribunal da comarca da sede da pessoa colectiva proprietária da publicação.
+
+2 - Se a publicação for propriedade de pessoa singular, é competente o tribunal da comarca onde a mesma tiver o seu domicílio.
+
+3 - Tratando-se de publicação estrangeira importada, o tribunal competente é o da sede ou domicílio da entidade importadora ou o da sua representante em Portugal.
+
+4 - Tratando-se de publicações clandestinas, e não sendo conhecido o elemento definidor de competência nos termos dos números anteriores, é competente o tribunal da comarca onde forem encontradas.
+
+5 - Para conhecer dos crimes de difamação ou injúria é competente o tribunal da comarca do domicílio do ofendido.
+
+###### Artigo 51.º — Contravenções
+
+As contravenções previstas no artigo 33.º serão processadas nos termos do artigo 3.º do [Decreto-Lei n.º 78/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-1987-662562), de 17 de Fevereiro, e legislação complementar, ressalvadas as disposições do presente diploma.
+
+###### Artigo 52.º — Celeridade processual
+
+1 - Os processos por crimes de imprensa têm natureza urgente, ainda que não haja arguidos pesos.
+
+2 - A natureza urgente dos processos por crimes de imprensa implica a redução a metade de qualquer prazo previsto no Código de Processo Penal, salvo se este for de 24 horas, sem prejuízo da execução imediata de ordem, despacho ou diligência quando a lei ou a autoridade competente assim o determinarem.
+
+3 - Os prazos serão, no entanto, de dois meses para o inquérito e de um mês para a instrução, caso seja requerida.
+
+###### Artigo 68.º — Natureza do processo
+
+1 - Aos processos correspondentes aos crimes previstos no artigo 66.º é aplicável o disposto no artigo 52.º
+
+2 - O texto do actual n.º 5.
+
+###### Artigo 2.º
+
+1 - Quando a imputação de um facto ou a formulação de um juízo, nos casos em que se indicie a prática de crime contra a honra cometida através da imprensa, for feita de forma ambígua, imprecisa ou equívoca, pode quem se julgar ofendido ou quem o represente na titularidade da queixa requerer ao juiz que seja notificado o autor do escrito ou da imagem, ou quem por ele responda, no caso de ser desconhecido ou não susceptível de responsabilidade, para, em cinco dias, precisar ou esclarecer a imputação.
+
+2 - A competência do juiz determina-se pelas regras do artigo 37.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro, na redacção que lhe é dada pelo presente diploma.
+
+3 - Se o notificado se recusar a prestar os esclarecimentos ou não os der por forma satisfatória, segundo o critério do juiz, o processo será incorporado naquele que vier a ser instaurado pelo crime contra a honra.
+
+4 - Para os efeitos do número anterior, é equiparada a recusa a falta de prestação de esclarecimentos no prazo a que se refere o n.º 1.
+
+5 - Se os esclarecimentos forem dados por forma considerada satisfatória, arquivar-se-á o processo, observando-se o disposto no Código das Custas Judiciais.
+
+###### Artigo 3.º
+
+São revogados:
+
+a) Os artigos 38.º, 39.º, 43.º e 49.º do [Decreto-Lei n.º 85-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/85-c-1975-168803), de 26 de Fevereiro;
+
+b) O artigo único da [Lei n.º 13/78](https://diariodarepublica.pt/dr/detalhe/lei/13-1978-447353), de 21 de Março.
+
+Visto e aprovado em Conselho de Ministros de 1 de Setembro de 1988. - Eurico Silva Teixeira de Melo - José Manuel Cardoso Borges Soeiro - António Fernando Couto dos Santos.
+
+**Promulgado em 10 de Outubro de 1988.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Outubro de 1988.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

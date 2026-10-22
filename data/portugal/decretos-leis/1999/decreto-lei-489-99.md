@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:684063:por
+title: Decreto-Lei n.º 489/99
+short_title: null
+summary: Aplica o processo de regularização previsto no Decreto-Lei n.º 413/91, de 19 de Outubro, alterado pela Lei n.º 5/92,
+  de 21 de Abril, ao pessoal admitido ou promovido irregularmente até três anos antes da entrada em vigor daquele diploma
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 489/99
+official_date: null
+publication_date: '1999-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 268/1999, Série I-A de 1999-11-17
+  number: '268'
+  series: I
+  supplement: null
+  pages: 8099 - 8100
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/11/268a00/80998100.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/489/1999/11/17/p/dre/pt/html
+  oj: null
+  dre: '684063'
+  dre_path: /dr/detalhe/decreto-lei/489-1999-684063
+  internal: pt:dre:684063:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1999-684063
+  metadata_url: https://data.dre.pt/eli/dec-lei/489/1999/11/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/489-1999-684063
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-11-17T00:00:00Z'
+integrity:
+  source_sha256: ef8e4464d26cad56d9988ad466ac45b0b534a299fa4fc8e71d7553ad4e325dbe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-489-684063.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Admissão de Pessoal
+- Concurso
+- Formas de Provimento
+- Contratação de Pessoal
+- Administração Local
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/412-a/1998/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/412-a/1998/12/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/413/1991/10/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/413/1991/10/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/1992/04/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/1992/04/21/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 489/99
+
+de 17 de Novembro
+
+O [Decreto-Lei n.º 413/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1991-344401), de 19 de Outubro, alterado pela [Lei n.º 5/92](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), de 21 de Abril, estabeleceu o regime de regularização do pessoal dos quadros da administração local admitido para lugares de ingresso e de acesso ou promovido com violação de disposições legais geradoras de nulidade ou inexistência jurídica.
+
+Aquele diploma, se bem que tenha constituído um instrumento útil para a realização dos fins pretendidos, adoptou regras limitadoras quer do universo do pessoal a regularizar, quer das perspectivas de carreira do pessoal regularizado, consignando, a este respeito, certos requisitos que a experiência demonstrou não serem consentâneos com o regime-regra estabelecido.
+
+Com o presente diploma visa-se, por um lado, regularizar a situação do pessoal do quadro dos serviços dos municípios e das freguesias provido com violação das disposições legais geradora de nulidade ou inexistência jurídica, e que possuía menos de três anos de serviço à data de entrada em vigor do [Decreto-Lei n.º 413/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1991-344401), de 19 de Outubro, e, por outro, revogar a norma que impede o acesso na carreira do pessoal regularizado que não possua as habilitações literárias ou profissionais normalmente exigíveis.
+
+Sendo legítimo dinamizar a carreira deste pessoal, criam-se as condições para que sejam abertos obrigatoriamente concursos de acesso, com sujeição aos prazos e formalidades de publicitação do concurso interno condicionado.
+
+O presente diploma dá execução ao acordo salarial para 1999, celebrado com a Frente Sindical da Administração Pública (ponto 15 do anexo ao referido acordo).
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio. Ao abrigo do seu artigo 10.º, garantiu-se aos trabalhadores o exercício do direito de participação na elaboração do presente diploma, através das suas organizações sindicais. Foram devidamente ponderadas as opiniões formuladas, tendo merecido acolhimento múltiplas propostas de alteração, sem prejuízo da filosofia de base subjacente ao diploma.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses (ANMP) e a Associação Nacional de Freguesias (ANAFRE).
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+Ao pessoal do quadro dos serviços dos municípios e das freguesias que tenha sido admitido até ao dia 20 de Outubro de 1991 para lugares de ingresso ou de acesso ou promovido com violação de disposições legais geradora de nulidade ou de inexistência jurídica é aplicável o processo de regularização constante do [Decreto-Lei n.º 413/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1991-344401), de 19 de Outubro, ratificado pela [Lei n.º 5/92](https://diariodarepublica.pt/dr/detalhe/lei/5-1992-217925), de 21 de Abril, com as alterações resultantes dos artigos seguintes.
+
+###### Artigo 2.º
+
+Na aplicação das normas previstas no [Decreto-Lei n.º 413/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1991-344401), de 19 de Outubro, devem ser consideradas as agregações de categorias e alterações de carreiras decorrentes do [Decreto-Lei n.º 412-A/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/412-a-1998-214240), de 31 de Dezembro.
+
+###### Artigo 3.º
+
+É revogado o n.º 4 do artigo 5.º do [Decreto-Lei n.º 413/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1991-344401), de 19 de Outubro.
+
+###### Artigo 4.º
+
+1 - O pessoal provido nos termos do [Decreto-Lei n.º 413/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/413-1991-344401), de 19 de Outubro, que, por força do disposto no n.º 4 do artigo 5.º, não ascendeu na carreira, pode ser opositor a concursos de acesso, independentemente das habilitações literárias ou profissionais normalmente exigíveis para o acesso na mesma.
+
+2 - Nos concursos a que se refere o número anterior, em caso de igualdade de classificação entre candidatos possuidores e não possuidores das habilitações literárias ou profissionais exigíveis para o acesso na respectiva carreira, preferem os que possuam aquelas habilitações.
+
+###### Artigo 5.º
+
+1 - O pessoal a que se refere o artigo anterior é candidato único a concurso de acesso à categoria seguinte, a abrir no prazo de 90 dias, a contar da data da publicação do presente diploma.
+
+2 - O concurso a que se refere o número anterior efectua-se para as vagas existentes ou para lugares automaticamente aditados ao quadro de pessoal por força do presente diploma, quando tal se mostre necessário.
+
+3 - O concurso previsto no n.º 1 obedece aos prazos e formalidades de publicitação do concurso interno de acesso limitado.
+
+4 - Os lugares criados nos termos do n.º 2 são extintos quando vagarem.
+
+5 - O concurso previsto nos números anteriores não prejudica o ulterior acesso na carreira, a processar ao abrigo do artigo 4.º, nos termos das regras gerais fixadas para os concursos de acesso.
+
+Visto e aprovado em Conselho de Ministros de 26 de Agosto de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.
+
+**Promulgado em 29 de Outubro de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 4 de Novembro de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

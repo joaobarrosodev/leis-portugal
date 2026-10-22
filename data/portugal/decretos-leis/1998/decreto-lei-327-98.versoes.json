@@ -1,0 +1,85 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:222611:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-221414400",
+ "dre_path": "/dr/detalhe/decreto-lei/327-1998-222611",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-11-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221382798",
+    "221382799",
+    "221382800"
+   ]
+  },
+  {
+   "date": "1999-07-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:353341:por",
+     "title": "Lei n.º 99/99",
+     "published": "1999-07-26",
+     "dre_path": "/dr/detalhe/lei/99-1999-353341"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "221382798",
+    "221382804",
+    "221382800",
+    "221382801"
+   ]
+  }
+ ],
+ "fragments": {
+  "221382798": {
+   "fragment_id": "221414401",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 327/98\n\nde 2 de Novembro\n\nO Decreto-Lei n.º 2/98, de 3 de Janeiro, veio introduzir no Código da Estrada importantes adaptações e correcções, bem como algumas medidas inovadoras, com o objectivo de o tornar mais ajustado à realidade social que visa regular.\n\nNeste contexto, este diploma veio introduzir, no seu artigo 7.º, alterações, no âmbito da competência para a fiscalização do cumprimento das disposições do Código da Estrada e demais legislação rodoviária, que vêm reforçar as possibilidades de intervenção das autarquias no ordenamento do trânsito, nomeadamente no que se refere ao estacionamento de veículos nas zonas de estacionamento de duração limitada.\n\nNestes termos, tendo em conta o importante papel que o estacionamento de duração limitada representa actualmente no ordenamento do trânsito na via pública, é necessário dotar o pessoal das entidades previstas no presente diploma, que têm a seu cargo a respectiva gestão, de competência legal para exercer funções de fiscalização daquele estacionamento.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "221382799": {
+   "fragment_id": "221414402",
+   "type": 11,
+   "heading": "Artigo 1.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Competência\n\n1 - É equiparado a agente de autoridade administrativa para exercício das suas funções de fiscalização o pessoal das entidades a que, no âmbito autárquico, incumbe ou venha a incumbir a fiscalização do estacionamento de duração limitado na via pública.\n\n2 - No exercício das funções de fiscalização referidas cabe ao pessoal das entidades em causa, assim como a estas, o levantamento de auto de notícia, nos termos do disposto no artigo 151.º do Código da Estrada, e proceder às intimações e notificações previstas nos artigos 152.º e 155.º deste diploma."
+  },
+  "221382800": {
+   "fragment_id": "221414403",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a data da sua publicação."
+  },
+  "221382804": {
+   "fragment_id": "221414402",
+   "type": 11,
+   "heading": "Artigo 1.º — Competência",
+   "in_force_from": "1999-07-31",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 99/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/99-1999-353341), em vigor a partir de 1999-07-31"
+   ],
+   "markdown": "###### Artigo 1.º — Competência\n\n1 - É equiparado a agente de autoridade administrativa para exercício das suas funções de fiscalização o pessoal das entidades a que, no âmbito autárquico, incumbe ou venha a incumbir a fiscalização do estacionamento de duração limitado na via pública.\n\n2 - No exercício das funções de fiscalização referidas cabe ao pessoal das entidades em causa, assim como a estas, o levantamento de auto de notícia, nos termos do disposto no artigo 151.º do Código da Estrada, e proceder às intimações e notificações previstas nos artigos 152.º e 155.º deste diploma.\n\n3 - As entidades previstas no n.º 1 fornecerão ao seu pessoal formação adequada para o desempenho das funções de fiscalização previstas no presente diploma.\n\n> Alterado pelo/a [Lei n.º 99/99 - Diário da República n.º 172/1999, Série I-A de 1999-07-26](https://diariodarepublica.pt/dr/detalhe/lei/99-1999-353341), em vigor a partir de 1999-07-31"
+  },
+  "221382801": {
+   "fragment_id": "221414404",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Setembro de 1998. - José Veiga Simão - Jorge Paulo Sacadura Almeida Coelho - João Cardona Gomes Cravinho.\n\nPromulgado em 21 de Outubro de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Outubro de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

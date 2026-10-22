@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:489254:por
+title: Decreto-Lei n.º 220/2009
+short_title: null
+summary: Aprova o regime jurídico da habilitação profissional para a docência nos domínios de habilitação não abrangidos pelo
+  Decreto-Lei n.º 43/2007, de 22 de Fevereiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 220/2009
+official_date: null
+publication_date: '2009-09-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 174/2009, Série I de 2009-09-08
+  number: '174'
+  series: I
+  supplement: null
+  pages: 6122 - 6124
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/09/17400/0612206124.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/220/2009/09/08/p/dre/pt/html
+  oj: null
+  dre: '489254'
+  dre_path: /dr/detalhe/decreto-lei/220-2009-489254
+  internal: pt:dre:489254:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2009-489254
+  metadata_url: https://data.dre.pt/eli/dec-lei/220/2009/09/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2009-489254
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-05-14T00:00:00Z'
+integrity:
+  source_sha256: 5f970b64847fb5d4d8b9ad2442cc64048c012b0c437f2c8b70564c1f5a77548e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2009/DRE-2009-220-489254.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Artístico
+- Ensino Cooperativo
+- Ensino Oficial
+- Ensino Particular
+- Ensino Profissional
+- Habilitações Literárias
+- Mestrado
+- Pessoal Docente
+- Qualificação Profissional
+- Ensino Básico
+- Regime Jurídico
+relationships:
+- type: amended_by
+  target: pt:dre:25344769:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/194/1999/06/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/194/1999/06/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43/2007/02/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43/2007/02/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/2006/03/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/115/1997/09/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/49/2005/08/30/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 220/2009
+
+de 8 de Setembro
+
+O Programa do XVII Governo Constitucional atribui prioridade às políticas que visam superar os défices de qualificação da população portuguesa, seja através do combate ao insucesso e abandono escolares, quer ainda pela assunção do ensino secundário enquanto referencial mínimo de qualificação dos Portugueses.
+
+O desafio da qualificação dos Portugueses exige um corpo docente de qualidade, cada vez mais qualificado e com garantias de estabilidade, estando a qualidade do ensino e dos resultados de aprendizagem estreitamente articulada com a qualidade da qualificação dos educadores e professores.
+
+Foram, neste sentido, revistas as condições de atribuição de habilitação para a docência, através do [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), de 22 de Fevereiro. Este diploma estabeleceu as condições de acesso ao exercício da actividade docente na educação básica e no ensino secundário no conjunto de domínios de habilitação do núcleo curricular fundamental de ambos os níveis de ensino.
+
+O presente decreto-lei define as condições necessárias à obtenção de habilitação profissional para a docência nos domínios de habilitação que não estavam abrangidos pelo [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), de 22 de Fevereiro, e determina, ao mesmo tempo, que a posse deste título constitui condição indispensável para o desempenho docente nos ensinos público, particular e cooperativo e nas áreas curriculares ou disciplinas abrangidas por cada domínio.
+
+À semelhança do que estabelece o [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), de 22 de Fevereiro, é de salientar a valorização da componente científica e da componente de prática pedagógica nos cursos de formação inicial e a adopção de modelos de formação assentes numa lógica sequencial, com exigência do grau de mestre para todos os educadores de infância e professores dos ensinos básico e secundário.
+
+Foi ouvido o Conselho de Reitores das Universidades Portuguesas.
+
+Foi promovida a audição ao Conselho Coordenador dos Institutos Superiores Politécnicos, à Associação Portuguesa do Ensino Superior Privado, aos estabelecimentos de ensino superior, às associações profissionais e às associações científicas.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, alterada pelas Leis n.os [115/97](https://diariodarepublica.pt/dr/detalhe/lei/115-1997-653145), de 19 de Setembro, e [49/2005](https://diariodarepublica.pt/dr/detalhe/lei/49-2005-245336), de 30 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei aprova o regime jurídico da habilitação profissional para a docência nos domínios de habilitação não abrangidos pelo [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), de 22 de Fevereiro.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente decreto-lei aplica-se ao ensino secundário, incluindo as áreas profissionais, vocacionais e artísticas, e ao 3.º ciclo do ensino básico.
+
+2 - São destinatários do âmbito de aplicação do presente decreto-lei:
+
+a) Os estabelecimentos de ensino superior, públicos, particulares ou cooperativos que ministrem formação conducente à aquisição de habilitação profissional para a docência;
+
+b) Os estabelecimentos públicos, particulares ou cooperativos que ministrem os ensinos básico ou secundário ou os cursos que confiram certificação escolar desses níveis de ensino.
+
+###### Artigo 3.º — Titulares de habilitação profissional para a docência
+
+Os titulares do grau de mestre na especialidade correspondente, obtida nos termos igualmente fixados pelo presente decreto-lei, têm habilitação profissional para a docência nos domínios abrangidos pelo presente decreto-lei.
+
+###### Artigo 4.º — Domínios e especialidades do grau de mestre
+
+O elenco dos domínios de habilitação para a docência abrangidos pelo presente decreto-lei e as correspondentes especialidades do grau de mestre são fixados por portaria dos membros do Governo responsáveis pelas áreas da educação e do ensino superior.
+
+###### Artigo 5.º — Áreas curriculares e disciplinas
+
+As áreas curriculares ou as disciplinas abrangidas por cada domínio de habilitação para a docência são fixadas por portaria do membro do Governo responsável pela área da educação.
+
+###### Artigo 6.º — Regras específicas de ingresso nos ciclos de estudo conducentes ao grau de mestre
+
+1 - Podem candidatar-se ao ingresso num ciclo de estudos conducente ao grau de mestre em cada uma das especialidades abrangidas pelo presente decreto-lei aqueles que satisfaçam, cumulativamente, as seguintes condições:
+
+a) Sejam titulares de uma habilitação académica superior a que se referem as alíneas a) a c) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março, ou reúnam as condições a que se refere a alínea d) do n.º 1 do mesmo artigo;
+
+b) Tenham obtido, quer no quadro da habilitação académica a que se refere a alínea anterior, quer em outros ciclos de estudos do ensino superior, os créditos mínimos de formação na área de docência objecto dessa especialidade fixados nos termos do número seguinte, ou, ainda, quando reúnam as condições a que se refere a alínea d) do n.º 1 do artigo 17.º do [Decreto-Lei n.º 74/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2006-671387), de 24 de Março, e satisfaçam os requisitos dos mesmos créditos.
+
+2 - Os créditos mínimos a que se refere a alínea b) do número anterior são os seguintes:
+
+a) Quando se trate de domínio que abranja apenas uma área, 120 créditos na área de docência;
+
+b) Quando se trate de domínio que abranja duas áreas, 120 créditos no total das duas áreas disciplinares, com um mínimo de 50 créditos em cada uma delas;
+
+c) Quando se trate de domínio que abranja três áreas, 150 créditos no total das três áreas disciplinares, com um mínimo de 40 créditos em cada uma delas.
+
+3 - Podem, ainda, candidatar-se ao ingresso num ciclo de estudos conducente ao grau de mestre em cada uma das especialidades abrangidas pelo presente decreto-lei, aqueles que apenas tenham obtido 75 % dos créditos fixados para essa especialidade nos termos do número anterior.
+
+4 - Na situação prevista no número anterior, a inscrição nas unidades curriculares das componentes de didácticas específicas e de iniciação à prática profissional, incluindo a prática de ensino supervisionada e outras definidas pelo órgão legal e estatutariamente competente do estabelecimento de ensino superior, fica condicionada à obtenção dos créditos em falta.
+
+5 - Cabe ao órgão legal e estatutariamente competente do estabelecimento de ensino superior responsável pelo ciclo de estudos conducente ao grau de mestre verificar, para efeitos de ingresso no mesmo, se os créditos de formação na área de docência exigidos aos candidatos nos termos do n.º 2 correspondem às exigências do perfil específico de ensino em cada domínio de habilitação profissional para a docência.
+
+###### Artigo 7.º — Estruturas curriculares dos ciclos de estudo conducentes ao grau de mestre
+
+1 - O número de créditos dos ciclos de estudos conducentes ao grau de mestre nas especialidades a que se refere o presente decreto-lei situa-se entre 90 e 120.
+
+2 - Os créditos a que se refere o número anterior são distribuídos pelas componentes de formação, de acordo com as seguintes percentagens mínimas:
+
+a) Formação educacional geral: 25 %;
+
+b) Didácticas específicas: 25 %;
+
+c) Iniciação à prática profissional, incluindo a prática de ensino supervisionada: 40 %;
+
+d) Formação na área de docência: 5 %.
+
+3 - Os créditos relativos às componentes de formação cultural, social e ética e de formação em metodologias de investigação educacional incluem-se nos créditos atribuídos às componentes a que se referem as alíneas a) a c) do número anterior.
+
+4 - Sempre que uma instituição assegure qualificação profissional em mais de um domínio, a formação nas componentes referidas nas alíneas a), d) e e) do n.º 1 do artigo 14.º do [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), de 22 de Fevereiro, e, em parte, na alínea c) do mesmo número, destina-se simultaneamente a estudantes de diferentes domínios de habilitação profissional para a docência, em turmas com dimensões pedagogicamente aceitáveis.
+
+###### Artigo 8.º — Regime aplicável às actuais habilitações profissionais
+
+1 - Aqueles que adquiriram habilitação profissional para a docência no âmbito de legislação anterior à entrada em vigor do presente decreto-lei mantêm essa habilitação no domínio em que a obtiveram.
+
+2 - Adquirem, igualmente, habilitação profissional para a docência no domínio respectivo os que venham a concluir um curso que, no âmbito de legislação anterior à entrada em vigor do presente decreto-lei, visasse directamente a qualificação profissional para a docência, desde que nele estejam inscritos no ano lectivo de 2008-2009 ou de 2009-2010.
+
+###### Artigo 9.º — Novas admissões
+
+A partir do ano lectivo de 2010-2011, só podem ocorrer novas admissões de estudantes em ciclos de estudos conferentes de habilitação profissional para a docência nos domínios a que se refere o presente decreto-lei quando estes sejam organizados nos termos do presente decreto-lei.
+
+###### Artigo 10.º — Remissão
+
+É aplicável ao presente decreto-lei, com as necessárias adaptações, o disposto nos artigos 3.º, 6.º, 7.º, 8.º, 9.º, 10.º, 12.º, 13.º, 14.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º e 25.º, todos do [Decreto-Lei n.º 43/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-2007-517819), de 22 de Fevereiro.
+
+###### Artigo 11.º — Norma revogatória
+
+É revogado o [Decreto-Lei n.º 194/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/194-1999-309481), de 7 de Junho.
+
+Visto e aprovado em Conselho de Ministros de 23 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Jorge Miguel de Melo Viana Pedreira - José Mariano Rebelo Pires Gago.
+
+**Promulgado em 31 de Agosto de 2009.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 1 de Setembro de 2009.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

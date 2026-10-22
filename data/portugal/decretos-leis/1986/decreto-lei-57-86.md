@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:196885:por
+title: Decreto-Lei n.º 57/86
+short_title: null
+summary: Regulamenta as condições de exercício do direito de acesso ao Serviço Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 57/86
+official_date: null
+publication_date: '1986-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 66/1986, Série I de 1986-03-20
+  number: '66'
+  series: I
+  supplement: null
+  pages: 669 - 671
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/03/06600/06690671.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '196885'
+  dre_path: /dr/detalhe/decreto-lei/57-1986-196885
+  internal: pt:dre:196885:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1986-196885
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-1986-196885
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-01-15T00:00:00Z'
+integrity:
+  source_sha256: a9b0ef20d38374763b64230b6f43b7d4dfb9716e5a9560099f9c0b2db4b2296b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-57-196885.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:586006:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 57/86
+
+de 20 de Março
+
+1. As condições de exercício do direito de acesso ao Serviço Nacional de Saúde constituem um dos aspectos que mais urge regulamentar, sob pena de os cidadãos pouco mais terem do que uma mera garantia de acesso àquele Serviço.
+
+Esta garantia, dada a todos os cidadãos, independentemente da sua condição económica e social, compreende o acesso a todas as prestações abrangidas pelo Serviço Nacional de Saúde e apenas pode ser restringida pelos limites de recursos humanos, técnicos e financeiros disponíveis.
+
+Uma das formas de reduzir os limites financeiros, de maneira que estes imponham cada vez menores restrições àquela garantia legal e constitucionalmente estipulada, será a de estabelecer uma correcta e racional repartição dos encargos do Serviço Nacional de Saúde quer pelos chamados subsistemas de saúde quer ainda por todas as entidades, de qualquer natureza, que, por força da lei ou de contrato, sejam responsáveis pelo pagamento da assistência a determinados cidadãos.
+
+É, pois, indispensável permitir os estabelecimentos oficiais sejam reembolsados, por todas as referidas entidades, públicas ou privadas, dos encargos que suportam com os beneficiários destas, sem o que estariam, na prática, a financiar indirectamente aquelas entidades.
+
+2. Naturalmente, os estabelecimentos oficiais não têm como objectivo a obtenção de qualquer lucro, pelo que os preços a cobrar deverão aproximar-se, tanto quanto possível, dos custos reais, embora não se desconheça que não é fácil ainda obter os valores destes com um elevado grau de precisão.
+
+Torna-se, portanto, necessário fixar preços, aprovando as respectivas tabelas e condições de aplicação, e prever taxas destinadas a moderar a procura de cuidados de saúde, evitando assim a sua utilização para além do razoável.
+
+Entendeu-se, contudo, que a fixação das tabelas e taxas estará, por todas as razões, melhor inserida em diploma de menor solenidade e, consequentemente, de mais fácil revisão.
+
+Quanto às isenções de que beneficiarão algumas categorias de cidadãos, são sobretudo justificadas por razões de justiça social ou por princípios de ordem moral, ou ainda naqueles casos em que se entenda dever fomentar a procura de cuidados de saúde.
+
+Importa referir que diversos despachos ministeriais, pelo menos desde 1980, têm vindo a fixar algumas dessas tabelas, taxas e isenções. Porém, recentemente consideradas inconstitucionais, apenas se mantêm em vigor um despacho de 18 de Janeiro de 1982, relativo às primeiras e dois de 1980, relativos às segundas.
+
+3. Finalmente, caberá sublinhar que os princípios legais e constitucionais da universalidade e gratuitidade do Serviço Nacional de Saúde são assegurados pela presente regulamentação com bastante eficácia, embora por forma indirecta.
+
+Na verdade, a fixação dos preços dos cuidados de saúde - que nunca serão pagos pelos utentes beneficiários de subsistemas de saúde, mas sim directamente por estes - permitirá que sejam exactamente esses subsistemas e restantes entidades responsáveis a suportar os encargos do Serviço Nacional de Saúde com os seus beneficiários.
+
+A universalidade e gratuitidade garantidas, para os cidadãos em geral, significam que cada um deve ter assegurado o acesso ao Serviço Nacional de Saúde sem que tenha de pagar o preço da sua própria utilização. Mas é evidente que alguém tem de suportar os encargos com o funcionamento daquele Serviço e, além das dotações do Orçamento do Estado, é justo que os diversos subsistemas existentes, em larga medida, aliás, também subsidiários daquele Orçamento, comparticipem no respectivo financiamento.
+
+Resta referir que também as taxas moderadoras previstas no artigo 7.º da [Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/lei/56-1979-369864), de 15 de Setembro, garantem uma maior racionalidade na utilização dos limitados recursos humanos, técnicos e financeiros postos à disposição do Serviço Nacional de Saúde. Contribuindo fortemente para reservar as prestações de cuidados de saúde aos utentes que efectivamente delas careçam, constituem, como já se disse, um indispensável instrumento para uma maior rendibilidade social dos elevados investimentos feitos e para um mais eficaz aproveitamento dos recursos disponíveis.
+
+Assim, atento o disposto no artigo 7.º da [Lei n.º 56/79](https://diariodarepublica.pt/dr/detalhe/lei/56-1979-369864), de 15 de Setembro:
+
+O Governo decreta, nos termos da alínea c) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - Os estabelecimentos oficiais integrados no Serviço Nacional de Saúde poderão facturar aos subsistemas de saúde, a um preço tão próximo quanto possível do custo real, o pagamento dos cuidados que prestem aos respectivos beneficiários.
+
+2 - Da mesma forma, poderão os estabelecimentos referidos no número anterior facturar o pagamento dos cuidados de saúde a quaisquer entidades, públicas ou privadas, que sejam legal ou contratualmente responsáveis pelo mesmo pagamento.
+
+###### Art. 2.º - 1 - Aos utentes beneficiários dos subsistemas de saúde e bem assim das entidades referidas no n.º 2 do artigo 1.º, quando devidamente identificados como tal, não será cobrada qualquer importância pelos cuidados de saúde que lhes forem prestados, exceptuando as taxas moderadoras referidas nos artigos 4.º e 5.º
+
+2 - O preço total dos cuidados de saúde prestados aos utentes referidos no número anterior será facturado directamente ao subsistema ou entidade responsável, descontadas as taxas moderadoras que tenham sido pagas.
+
+###### Art. 3.º - 1 - As tabelas referentes à prestação dos cuidados de saúde serão aprovadas por portaria do Ministro da Saúde, podendo ser revistas e actualizadas anualmente.
+
+2 - Os subsistemas de saúde e as outras entidades abrangidas pelo presente diploma poderão celebrar com o Ministério da Saúde protocolos em que se estabeleçam processos especiais de facturação e pagamento dos cuidados prestados aos respectivos beneficiários ou pessoas por quem são responsáveis.
+
+###### Art. 4.º - 1 - Serão fixadas taxas moderadoras dos cuidados de saúde prestados no âmbito do Serviço Nacional de Saúde, a pagar pelos utentes.
+
+2 - Serão concedidas isenções genéricas de pagamento das taxas moderadoras, relativamente a determinadas categorias de utentes, quando assim o imponham princípios de justiça social e nos casos em que se reconheça que deve ser incentivada a procura de determinados cuidados de saúde.
+
+3 - As taxas e isenções previstas nos números anteriores serão aprovadas por portaria do Ministro da Saúde, podendo ser revistas e actualizadas anualmente.
+
+###### Art. 5.º Não serão fixadas taxas moderadoras nos seguintes casos:
+
+a) Internamentos hospitalares em regime de enfermaria nas unidades de internamento dos centros de saúde, nos hospitais concelhios, distritais e centrais, gerais ou especializados;
+
+b) Radioterapia e análises histológicas;
+
+c) Cuidados prestados, nos serviços de urgência dos hospitais e nos serviços de atendimento permanente existentes a nível de cuidados de saúde primários, nas situações que impliquem tratamentos imediatos e inadiáveis;
+
+d) Cuidados hospitalares prestados a dadores de sangue benévolos e habituais.
+
+Visto e aprovado em Conselho de Ministros de 27 de Fevereiro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+**Promulgado em 6 de Março de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 7 de Março de 1986.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

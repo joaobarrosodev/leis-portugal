@@ -1,0 +1,205 @@
+---
+schema_version: '1.0'
+id: pt:dre:604439:por
+title: Decreto Legislativo Regional n.º 26/94/M
+short_title: null
+summary: Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 418/93, de 24 de Dezembro, que altera o Decreto-Lei n.º 79-A/89,
+  de 13 de Março (subsídio de desemprego)
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 26/94/M
+official_date: null
+publication_date: '1994-09-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 220/1994, Série I-A de 1994-09-22
+  number: '220'
+  series: I
+  supplement: null
+  pages: 5673 - 5675
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/09/220a00/56735675.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/26/1994/09/22/m/dre/pt/html
+  oj: null
+  dre: '604439'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/26-1994-604439
+  internal: pt:dre:604439:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1994-604439
+  metadata_url: https://data.dre.pt/eli/declegreg/26/1994/09/22/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1994-604439
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-09-22T00:00:00Z'
+integrity:
+  source_sha256: a4e0d774844fbe6facf91bb8fb38713944432bcd23495bdd3e6ee4d3adb1846c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1994/DRE-1994-26-604439.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Madeira.região Autónoma
+- Proteção no Desemprego
+- Regime Geral da Segurança Social
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/418/1993/12/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/418/1993/12/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 26/94/M
+
+Adaptação à Região Autónoma da Madeira do [Decreto-Lei n.º 418/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1993-541979), de 24 de Dezembro, que altera o [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março (subsídio de desemprego).
+
+O [Decreto-Lei n.º 79-A/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1989-632907), de 13 de Março, veio proceder à reformulação global do regime de protecção no desemprego dos beneficiários do regime geral de segurança social dos trabalhadores por conta de outrem, vigente nessa época.
+
+Decorridos quatro anos após a sua entrada em vigor, a progressiva mutação da realidade sócio-económica determinou a necessidade de introduzir ajustamentos ao referido diploma no sentido de o adequar às exigências resultantes da evolução das condições do mercado de emprego, tendo surgido neste contexto o [Decreto-Lei n.º 418/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1993-541979), de 24 de Dezembro.
+
+Tendo em vista as alterações introduzidas por este último diploma, nomeadamente a redefinição das competências dos centros de emprego e dos centros regionais de segurança social, torna-se imperativo adequá-las às especificidades da Região Autónoma da Madeira.
+
+Considerando que o centro de emprego se encontra dotado dos meios físicos e dos recursos humanos necessários ao desempenho das funções que lhe estavam cometidas pelo anterior regime e tendo o mesmo demonstrado ao longo do seu período de funcionamento eficiência e operacionalidade;
+
+Considerando ainda que, ao abrigo do novo diploma, as funções a serem transferidas para os centros regionais de segurança social, além de acarretarem a necessidade de canalizar recursos humanos para este efeito e limitações em termos de disponibilidade de espaço físico, trariam ainda inconvenientes para os trabalhadores desempregados, dado que estes teriam de recorrer a duas entidades distintas da estrutura orgânica do Governo Regional a fim de obterem informações e apresentarem os respectivos documentos de candidatura ao subsídio de desemprego;
+
+Em suma, torna-se necessário que as alterações de ordem processual agora introduzidas, com a finalidade de dotar o sistema de maior eficácia, não ocasionem prejuízos ou oscilações na funcionalidade que desde sempre caracterizou a actuação do mesmo na Região Autónoma da Madeira.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição da República Portuguesa, conjugada com as alíneas c) do n.º 1 do artigo 29.º e n) do artigo 30.º da [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de Junho, decreta o seguinte:
+
+###### Artigo 1.º Os artigos 36.º, 37.º, 41.º, 41.º-A, 42.º, 51.º e 52.º do [Decreto-Lei n.º 418/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1993-541979), de 24 de Dezembro, sofrem, na Região, as seguintes adaptações:
+
+###### Artigo 36.º — Antecipação do direito à pensão de velhice
+
+...
+
+a) ...
+
+b) Tenham mantido uma situação de desemprego involuntário, comprovada pelo centro de emprego.
+
+###### Artigo 37.º — Entrega do requerimento
+
+1 - ...
+
+2 - No prazo previsto no número anterior, o trabalhador apresenta ainda, no centro de emprego, requerimento destinado à instituição de segurança social pela qual está abrangido para atribuição de prestação de desemprego.
+
+###### Artigo 41.º — Documentos que devem acompanhar o requerimento
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) O cartão de beneficiário da segurança social.
+
+2 - ...
+
+3 - ...
+
+###### Artigo 41.º-A — Declaração da entidade empregadora em caso de cessação do contrato de trabalho por mútuo acordo
+
+1 - ...
+
+2 - O centro de emprego pode solicitar à entidade empregadora o fornecimento de dados ou informações que considerar indispensáveis à apreciação da declaração a que se refere o número anterior, bem como promover ou solicitar a outros serviços a realização de diligências nesse sentido.
+
+###### Artigo 42.º — Intervenção supletiva da Inspecção Regional do Trabalho
+
+1 - Em caso de impossibilidade ou de recusa da entidade empregadora de entregar ao trabalhador a declaração referida na alínea a) do n.º 1 do artigo 41.º, a sua emissão compete à Inspecção Regional do Trabalho, que, a requerimento do interessado, a deve elaborar no prazo máximo de 15 dias.
+
+2 - Incumbe ainda à mesma entidade actuar, relativamente à declaração a emitir pela entidade empregadora, nos termos do artigo 41.º-A, em caso de cessação do contrato de trabalho por mútuo acordo:
+
+a) ...
+
+b) A solicitação do centro de emprego, sempre que o considere necessário para os efeitos previstos no n.º 2 do artigo 41.º-A.
+
+###### Artigo 51.º — Competência das instituições de segurança social
+
+1 - À instituição de segurança social pela qual o beneficiário está abrangido compete:
+
+a) Assegurar o acompanhamento da situação de desemprego do beneficiário, tendo em vista, designadamente, o controlo de eventuais actuações irregulares;
+
+b) Verificar o cumprimento pelo beneficiário dos deveres estabelecidos no artigo 47.º;
+
+c) Proceder, de forma selectiva, ao pagamento presencial das prestações de desemprego aos respectivos titulares, designadamente em zonas ou relativamente a actividade em que haja indícios de obtenção indevida das prestações;
+
+d) Praticar os actos decorrentes da aplicação de instrumentos internacionais de segurança social a que Portugal se encontre vinculado, nomeadamente o pagamento de prestações de desemprego por conta de instituições estrangeiras;
+
+e) Em geral, praticar todos os actos cuja competência não esteja expressamente atribuída aos centros de emprego.
+
+###### Artigo 52.º — Competências do Centro de Emprego do Funchal
+
+1 - Ao centro de emprego da área de residência do beneficiário compete:
+
+a) Proceder à qualificação do desemprego como involuntário;
+
+b) Proceder à avaliação da capacidade e da disponibilidade para o trabalho;
+
+c) Proceder à qualificação do emprego como conveniente e do trabalho como necessário;
+
+d) Assegurar a verificação e o controlo da situação de desemprego dos trabalhadores;
+
+e) Avaliar a justificação das faltas de comparência do beneficiário, a convocatória sua;
+
+f) Verificar o cumprimento, pelo beneficiário, dos deveres estabelecidos no artigo 48.º
+
+2 - ...
+
+3 - ...
+
+###### Art. 2.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária de 15 de Julho de 1994.
+
+**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+
+**Assinado em 11 de Agosto de 1994.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado.**

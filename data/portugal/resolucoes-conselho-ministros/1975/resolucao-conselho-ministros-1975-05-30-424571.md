@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:424571:por
+title: Resolução do Conselho de Ministros
+short_title: null
+summary: Estabelece providências respeitantes às empresas do Grupo CUF
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: null
+official_date: null
+publication_date: '1975-05-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 124/1975, 1º Suplemento, Série I de 1975-05-30
+  number: '124'
+  series: I
+  supplement: 1º Suplemento
+  pages: 754-(2) a 754-(2)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/05/12401/00020002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '424571'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/1975-424571
+  internal: pt:dre:424571:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1975-424571
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/1975-424571
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-05-30T00:00:00Z'
+integrity:
+  source_sha256: 9b56f5df7b294cddcd36dd1796633b4479da08a8756328f35a47eb0775e73767
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-424571.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros
+
+1. A alínea b) do anexo IV do [Decreto-Lei n.º 203-C/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-c-1975-534410), de 15 de Abril, aprova as bases gerais dos programas de medidas económicas de emergência no que respeita ao contrôle dos sectores básicos industriais, preconizando como condição de preparação de transição para o socialismo o lançamento imediato de medidas que permitam:
+
+O estudo e subsequente aplicação das medidas de contrôle, incluindo a nacionalização, quando apropriada, dos principais empreendimentos mineiros e das indústrias de tabacos, cerveja, celulose, adubos, produtos sódicos e clorados, petroquímica, cimentos, metalomecânica pesada, construção naval e farmacêuticas, esta última em conjugação com a aplicação de medidas a cargo dos Ministérios dos Assuntos Sociais, Comércio Externo e do Departamento da Defesa Nacional.
+
+2. As empresas que constituem o chamado Grupo CUF, nas quais têm importante participação as sociedades holding Sogefi e Sociedade Geral e em que o contrôle económico e financeiro se exerce através da associada Empresa Geral de Fomento, desenvolvem actividade económica preponderante em domínios especificadamente designados na referida alínea b) do anexo IV.
+
+A estrutura do grupo e as relações que existem entre as empresas que o constituem aconselham que, para além de acções ao nível de algumas dessas empresas, se actue no sentido de permitir uma capacidade de intervenção global que tenha em atenção as respectivas interdependências.
+
+3. A fim de garantir a harmonização da actuação das empresas do grupo com os objectivos fixados pelo Governo para os diversos sectores em causa, acautelando-se ao mesmo tempo a colaboração com capitais estrangeiros que é bastante intensa em algumas das mais importantes empresas do grupo, com reflexos consideráveis na economia nacional, particularmente no que respeita a efeitos sobre a balança de pagamentos, define-se um sistema de intervenção e coordenação através da nomeação de delegados do Governo, com os poderes que lhes são conferidos pelo [Decreto-Lei n.º 40833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40833-1956-297866), de 29 de Outubro de 1956, e de administradores por parte do Estado.
+
+4. Considerando que a eficácia da intervenção do Estado passa por uma acção atenta e dinâmica dos trabalhadores na vida das empresas, os representantes do Estado deverão actuar em estreita articulação com as comissões de trabalhadores do Grupo CUF.
+
+Presidência do Conselho de Ministros, 22 de Maio de 1975. - O Primeiro-Ministro, Vasco dos Santos Gonçalves.

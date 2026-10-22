@@ -1,0 +1,679 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:553657:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-224163671",
+ "dre_path": "/dr/detalhe/portaria/67-2012-553657",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-03-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "224201736",
+    "224201737",
+    "224201738",
+    "224201739",
+    "224201740",
+    "224201741",
+    "224201742",
+    "224201743",
+    "224201744",
+    "224201745",
+    "224201746",
+    "224201747",
+    "224201748",
+    "224201749",
+    "224201750",
+    "224201751",
+    "224201752",
+    "224201753",
+    "224201754",
+    "224201755",
+    "224201756",
+    "224201757",
+    "224201758",
+    "224201760",
+    "224201761"
+   ]
+  },
+  {
+   "date": "2023-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:224139049:por",
+     "title": "Portaria n.º 349/2023",
+     "published": "2023-11-13",
+     "dre_path": "/dr/detalhe/portaria/349-2023-224139049"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 5.º-B",
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 15.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "224201736",
+    "224203006",
+    "224203007",
+    "224203008",
+    "224203009",
+    "224201741",
+    "224203025",
+    "224203046",
+    "224203047",
+    "224203048",
+    "224203049",
+    "224203050",
+    "224203067",
+    "224203068",
+    "224203069",
+    "224203070",
+    "224207384",
+    "224207385",
+    "224207386",
+    "224207387",
+    "224207398",
+    "224207399",
+    "224207400",
+    "224207401",
+    "224207402",
+    "224207403",
+    "224207404",
+    "224207405",
+    "224207406",
+    "224207407",
+    "224207408"
+   ]
+  },
+  {
+   "date": "2024-12-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:899757460:por",
+     "title": "Portaria n.º 322-B/2024/1",
+     "published": "2024-12-10",
+     "dre_path": "/dr/detalhe/portaria/322-b-2024-899757460"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "224201736",
+    "224203006",
+    "224203007",
+    "224203008",
+    "224203009",
+    "224201741",
+    "224203025",
+    "224203046",
+    "224203047",
+    "224203048",
+    "899530732",
+    "224203050",
+    "224203067",
+    "224203068",
+    "224203069",
+    "899530733",
+    "836492853",
+    "224207385",
+    "224207386",
+    "224207387",
+    "224207398",
+    "224207399",
+    "224207400",
+    "224207401",
+    "224207402",
+    "224207403",
+    "224207404",
+    "224207405",
+    "224207406",
+    "836492854",
+    "224207408"
+   ]
+  }
+ ],
+ "fragments": {
+  "224201736": {
+   "fragment_id": "224163672",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 67/2012\n\nde 21 de março\n\nO Despacho Normativo n.º 12/98, de 25 de fevereiro, definiu as normas reguladoras das condições de instalação e funcionamento dos lares para idosos. Contudo, o facto de o âmbito de aplicação deste normativo suscitar algumas questões, leva a que algumas entidades promotoras desta resposta social continuem a aplicar o Guião Técnico para o Lar de Idosos, aprovado por Despacho do Secretário de Estado da Inserção Social em 1996.\n\nAcresce que o Despacho Normativo n.º 30/2006, de 31 de março, ao pretender facilitar a apreciação de projetos de construção e de pedidos de licenciamento de estruturas residenciais que, embora com os mesmos objetivos dos lares para idosos, diferem destes no modelo de estrutura física, gestão, funcionamento e capacidade, não se mostrou capaz do propósito que lhe estava subjacente, forçando a adoção de soluções que não servem, por sistema, como resposta aos pedidos das entidades promotoras.\n\nNeste contexto, é manifesto o desajustamento entre o enquadramento normativo em vigor e a crescente preocupação com a possibilidade de utilização máxima das capacidades instaladas em condições de qualidade e segurança.\n\nAtendendo a que o XIX Governo Constitucional assumiu o objetivo de lançar um amplo modelo de inovação social, o Programa de Emergência Social (PES) veio consignar a necessidade de apostar na proximidade e na maximização das respostas sociais existentes, rentabilizando a capacidade instalada.\n\nAo reconhecer o valor incomensurável da dignidade da pessoa humana, ao impor uma preocupação com o auxílio aos mais vulneráveis, com uma atenção especial sobre os mais idosos, o PES prevê a alteração e a simplificação da legislação e dos guiões técnicos que enquadram as respostas sociais, designadamente as dirigidas a pessoas idosas, adaptando-a à realidade nacional e a um cenário de contenção orçamental.\n\nAo ter em atenção as entidades da economia social que atuam numa lógica de proximidade, o PES vem permitir maximizar as potencialidades de intervenção dessas entidades, garantindo mais e melhores respostas que correspondam às necessidades das pessoas e das famílias, nomeadamente através do aumento do número de vagas, sem prejuízo das condições de qualidade e de segurança das pessoas.\n\nNeste contexto, o presente diploma vem uniformizar a legislação existente, integrando as respostas residenciais para pessoas idosas sob uma designação comum, e proceder ao ajustamento desta resposta social às exigências de uma gestão eficaz e eficiente dos recursos e a uma gestão da qualidade e segurança das estruturas físicas, prevendo diversas modalidades de alojamento, designadamente, o alojamento em tipologias habitacionais e ou em quartos.\n\nPor outro lado, ao estabelecer as condições de funcionamento e instalação das estruturas residenciais para pessoas idosas vem garantir uma prática harmonizada ao nível das regras orientadoras desta resposta social, qualificando os vários modelos de intervenção existentes, independentemente da natureza do suporte jurídico institucional das mesmas.\n\nForam ouvidas as entidades representativas das instituições, bem como a Associação de Apoio Domiciliário de Lares e Casas de Repouso de Idosos (ALI).\n\nAssim:\n\nManda o Governo, pelo Ministro da Solidariedade e da Segurança Social, ao abrigo do artigo 5.º do Decreto-Lei n.º 64/2007, de 14 de março, com a redação que lhe foi dada pelo Decreto-Lei n.º 99/2011, de 28 de setembro, o seguinte:"
+  },
+  "224201737": {
+   "fragment_id": "224163673",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define as condições de organização, funcionamento e instalação a que devem obedecer as estruturas residenciais para pessoas idosas.\n\n2 - Considera-se estrutura residencial para pessoas idosas, o estabelecimento para alojamento coletivo, de utilização temporária ou permanente, em que sejam desenvolvidas atividades de apoio social e prestados cuidados de enfermagem."
+  },
+  "224201738": {
+   "fragment_id": "224163674",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - As disposições constantes no presente diploma aplicam-se a estruturas residenciais:\n\na) A implementar em edifícios a construir de raiz ou em edifícios já existentes a adaptar para o efeito;\n\nb) Com processos, em curso, de licenciamento da construção ou da atividade ou de acordo de cooperação a celebrar com o ISS, I. P., à data da entrada em vigor da presente portaria;\n\nc) Com licença de funcionamento ou autorização provisória de funcionamento ou, quando aplicável, acordo de cooperação celebrado com o Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n2 - Às estruturas residenciais referidas na alínea c) do número anterior, cujo licenciamento ou acordo de cooperação não tenha sido realizado ao abrigo do anexo i do Despacho Normativo n.º 12/98, de 25 de fevereiro, não lhes é aplicável o disposto nos artigos 15.º a 18.º, salvo quando realizem obras que impliquem um alargamento da capacidade superior a 30 %.\n\n3 - Às estruturas residenciais referidas no número anterior que realizem obras que impliquem um alargamento da capacidade até 30 %, é-lhes aplicável o disposto no anexo ii à presente portaria que dela faz parte integrante."
+  },
+  "224201739": {
+   "fragment_id": "224202275",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nConstituem objetivos da estrutura residencial, designadamente, os seguintes;\n\na) Proporcionar serviços permanentes e adequados à problemática biopsicossocial das pessoas idosas;\n\nb) Contribuir para a estimulação de um processo de envelhecimento ativo;\n\nc) Criar condições que permitam preservar e incentivar a relação intrafamiliar;\n\nd) Potenciar a integração social."
+  },
+  "224201740": {
+   "fragment_id": "224202276",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de atuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios de atuação\n\nA estrutura residencial rege-se pelos seguintes princípios de atuação:\n\na) Qualidade, eficiência, humanização e respeito pela individualidade;\n\nb) Interdisciplinaridade;\n\nc) Avaliação integral das necessidades do residente;\n\nd) Promoção e manutenção da funcionalidade e da autonomia;\n\ne) Participação e corresponsabilização do residente ou representante legal ou familiares, na elaboração do plano individual de cuidados."
+  },
+  "224201741": {
+   "fragment_id": "224202277",
+   "type": 11,
+   "heading": "Artigo 5.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Destinatários\n\n1 - A estrutura residencial destina-se à habitação de pessoas com 65 ou mais anos que, por razões familiares, dependência, isolamento, solidão ou insegurança, não podem permanecer na sua residência.\n\n2 - A estrutura residencial pode, também, destinar-se a pessoas adultas de idade inferior a 65 anos, em situações de exceção devidamente justificadas.\n\n3 - A estrutura residencial destina-se, ainda, a proporcionar alojamento em situações pontuais, decorrentes da ausência, impedimento ou necessidade de descanso do cuidador."
+  },
+  "224201742": {
+   "fragment_id": "224202278",
+   "type": 11,
+   "heading": "Artigo 6.º — Capacidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capacidade\n\n1 - A capacidade máxima da estrutura residencial é de 120 residentes, não podendo ser inferior a 4 residentes.\n\n2 - A estrutura residencial organiza-se por unidades funcionais, entendendo-se por unidade funcional o conjunto de áreas funcionais, fisicamente agrupadas e equipadas, para o alojamento dos residentes em ambiente confortável e humanizado e para a prestação dos serviços previstos no artigo 8.º\n\n3 - A capacidade máxima de cada unidade funcional é de 60 residentes.\n\n4 - Quando a capacidade da estrutura residencial for até 80 residentes, é dispensada a obrigatoriedade de existência de unidades funcionais."
+  },
+  "224201743": {
+   "fragment_id": "224202279",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades de alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modalidades de alojamento\n\nA estrutura residencial pode assumir um das seguintes modalidades de alojamento:\n\na) Tipologias habitacionais, designadamente apartamentos e ou moradias;\n\nb) Quartos;\n\nc) Tipologias habitacionais em conjunto com o alojamento em quartos."
+  },
+  "224201744": {
+   "fragment_id": "224202280",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviços\n\n1 - A estrutura residencial presta um conjunto de atividades e serviços, designadamente:\n\na) Alimentação adequada às necessidades dos residentes, respeitando as prescrições médicas;\n\nb) Cuidados de higiene pessoal;\n\nc) Tratamento de roupa;\n\nd) Higiene dos espaços;\n\ne) Atividades de animação sociocultural, lúdico-recreativas e ocupacionais que visem contribuir para um clima de relacionamento saudável entre os residentes e para a estimulação e manutenção das suas capacidades físicas e psíquicas;\n\nf) Apoio no desempenho das atividades da vida diária;\n\ng) Cuidados de enfermagem, bem como o acesso a cuidados de saúde;\n\nh) Administração de fármacos, quando prescritos.\n\n2 - A estrutura residencial deve permitir:\n\na) A convivência social, através do relacionamento entre os residentes e destes com os familiares e amigos, com os cuidadores e com a própria comunidade, de acordo com os seus interesses;\n\nb) A participação dos familiares ou representante legal, no apoio ao residente sempre que possível e desde que este apoio contribua para um maior bem-estar e equilíbrio psicoafetivo do residente.\n\n3 - A estrutura residencial pode, ainda, disponibilizar outro tipo de serviços, visando a melhoria da qualidade de vida do residente, nomeadamente, fisioterapia, hidroterapia, cuidados de imagem e transporte.\n\n4 - A estrutura residencial deve ainda permitir a assistência religiosa, sempre que o residente o solicite, ou, na incapacidade deste, a pedido dos seus familiares ou representante legal."
+  },
+  "224201745": {
+   "fragment_id": "224202281",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Processo individual\n\n1 - É obrigatória a elaboração de um processo individual do residente, com respeito pelo seu projeto de vida, suas potencialidades e competências, do qual constam, designadamente:\n\na) Identificação do residente;\n\nb) Data de admissão;\n\nc) Identificação do médico assistente;\n\nd) Identificação e contacto do representante legal ou dos familiares;\n\ne) Identificação da situação social;\n\nf) Exemplar do contrato de prestação de serviços;\n\ng) Processo de saúde, que possa ser consultado de forma autónoma;\n\nh) Plano individual de cuidados (PIC), o qual deve conter as atividades a desenvolver, o registo dos serviços prestados e a identificação dos responsáveis pela elaboração, avaliação e revisão do PIC;\n\ni) Registo de períodos de ausência, bem como de ocorrências de situações anómalas;\n\nj) Cessação do contrato de prestação de serviços com indicação da data e motivo.\n\n2 - O processo individual deve estar atualizado e é de acesso restrito nos termos da legislação aplicável."
+  },
+  "224201746": {
+   "fragment_id": "224202282",
+   "type": 11,
+   "heading": "Artigo 10.º — Contrato de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contrato de prestação de serviços\n\n1 - Devem ser celebrados por escrito contratos de alojamento e prestação de serviços com os residentes e ou seus familiares e, quando exista, com o representante legal, donde constem os direitos e obrigações das partes.\n\n2 - Do contrato é entregue um exemplar ao residente e ou familiares e arquivado outro no respetivo processo individual.\n\n3 - Qualquer alteração ao contrato é efetuada por mútuo consentimento e assinada pelas partes."
+  },
+  "224201747": {
+   "fragment_id": "224202283",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direção técnica\n\n1 - A direção técnica da estrutura residencial é assegurada por um técnico com formação superior em ciências sociais e do comportamento, saúde ou serviços sociais e, preferencialmente, com experiência profissional para o exercício das funções.\n\n2 - Ao diretor técnico compete, em geral, dirigir o estabelecimento, assumindo a responsabilidade pela programação de atividades e a coordenação e supervisão de todo o pessoal, atendendo à necessidade de estabelecer o modelo de gestão técnica adequada ao bom funcionamento do estabelecimento, e em especial:\n\na) Promover reuniões técnicas com o pessoal;\n\nb) Promover reuniões com os residentes, nomeadamente para a preparação das atividades a desenvolver;\n\nc) Sensibilizar o pessoal face à problemática da pessoa idosa;\n\nd) Planificar e coordenar as atividades sociais, culturais e ocupacionais dos idosos.\n\n3 - As funções do diretor técnico podem ser exercidas a 50 %, quando a capacidade da estrutura residencial for inferior a 30 residentes.\n\n4 - Quando a capacidade da estrutura residencial for inferior a 15 residentes, o diretor técnico poderá ter um horário semanal variável, mas deve assegurar, no mínimo, uma permanência diária de três horas no estabelecimento."
+  },
+  "224201748": {
+   "fragment_id": "224202284",
+   "type": 11,
+   "heading": "Artigo 12.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pessoal\n\n1 - A estrutura residencial deve dispor de pessoal que assegure a prestação dos serviços 24 horas por dia.\n\n2 - A estrutura residencial, para além do diretor técnico, deve dispor no mínimo de:\n\na) Um(a) animador(a) sociocultural ou educador(a) social ou técnico de geriatria, a tempo parcial por cada 40 residentes;\n\nb) Um(a) enfermeiro(a), por cada 40 residentes;\n\nc) Um(a) ajudante de ação direta, por cada 8 residentes;\n\nd) Um(a) ajudante de ação direta por cada 20 residentes, com vista ao reforço no período noturno;\n\ne) Um(a) encarregado(a) de serviços domésticos em estabelecimentos com capacidade igual ou superior a 40 residentes;\n\nf) Um(a) cozinheiro(a) por estabelecimento;\n\ng) Um(a) ajudante de cozinheiro(a) por cada 20 residentes;\n\nh) Um(a) empregado(a) auxiliar por cada 20 residentes.\n\n3 - Sempre que a estrutura residencial acolha idosos em situação de grande dependência, os rácios de pessoal de enfermagem, ajudante de ação direta e auxiliar são os seguintes:\n\na) Um(a) enfermeiro(a), para cada 20 residentes;\n\nb) Um(a) ajudante de ação direta, por cada 5 residentes;\n\nc) Um(a) empregado(a) auxiliar por cada 15 residentes.\n\n4 - Os indicadores referidos nos números anteriores podem ser adaptados, com a necessária flexibilidade, em função das características gerais, quer de instalação, quer de funcionamento, quer do número de residentes de cada estrutura residencial.\n\n5 - Nos casos em que os serviços de higiene do ambiente, de tratamento de roupa e de confeção de refeições sejam objeto de contratualização externa pode dispensar-se o pessoal de cozinha e de limpeza.\n\n6 - A estrutura residencial pode contar com a colaboração de voluntários, devidamente enquadrados, não podendo estes ser considerados para efeitos do disposto nos números anteriores."
+  },
+  "224201749": {
+   "fragment_id": "224202285",
+   "type": 11,
+   "heading": "Artigo 13.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acesso à informação\n\nA estrutura residencial deve proceder à afixação, em local visível e de fácil acesso, designadamente, dos seguintes elementos:\n\na) Licença de funcionamento ou autorização provisória de funcionamento, quando aplicável;\n\nb) Identificação da direção técnica;\n\nc) Horários de funcionamento das atividades e serviços;\n\nd) Mapa semanal das ementas, incluindo dietas;\n\ne) Preçário e ou tabela da comparticipação familiar;\n\nf) Publicitação dos apoios financeiros da segurança social, quando aplicável;\n\ng) Referência à existência de livro de reclamações."
+  },
+  "224201750": {
+   "fragment_id": "224202286",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamento interno\n\n1 - A estrutura residencial possui obrigatoriamente regulamento interno, o qual define as regras e os princípios específicos de funcionamento e contém, designadamente:\n\na) Condições, critérios e procedimentos de admissão;\n\nb) Direitos e deveres da estrutura residencial e do residente ou representante legal ou familiares;\n\nc) Horário das visitas;\n\nd) Critérios de determinação das comparticipações familiares, quando aplicável.\n\n2 - Um exemplar do regulamento interno é entregue ao residente, familiar ou representante legal no ato de celebração do contrato de prestação de serviços.\n\n3 - Qualquer alteração ao regulamento interno deve ser comunicada ao ISS, I. P."
+  },
+  "224201751": {
+   "fragment_id": "224202287",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições de implantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições de implantação\n\n1 - A estrutura residencial deve estar inserida na comunidade, preferencialmente em local servido por transportes públicos e ter acesso fácil a pessoas e viaturas.\n\n2 - Na implantação da estrutura residencial deve ter-se em conta:\n\na) A proximidade a outros estabelecimentos de apoio social, de saúde e de âmbito recreativo e cultural;\n\nb) A coesão do edifício na malha e envolvente urbana, por forma a favorecer a integração, a comunicabilidade e as relações de proximidade e vizinhança;\n\nc) A proximidade a parques urbanos, jardins públicos e outros espaços naturais suscetíveis de proporcionar passeio e convivência social.\n\n3 - O edifício deve ser implantado em zona de boa salubridade e longe de estruturas ou infraestruturas que provoquem ruído, vibrações, cheiros, fumos e outros poluentes, considerados perigosos para a saúde pública e que perturbem ou possam interferir no normal quotidiano dos residentes."
+  },
+  "224201752": {
+   "fragment_id": "224202288",
+   "type": 11,
+   "heading": "Artigo 16.º — Edifício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Edifício\n\n1 - A estrutura residencial deve funcionar, preferencialmente, em edifício autónomo ou num conjunto edificado autónomo.\n\n2 - A conceção do edifício ou do conjunto de edifícios deve obedecer a parâmetros espaciais, designadamente de âmbito físico e cognitivo, conducentes ao bem-estar dos residentes, à facilidade no desenvolvimento das tarefas dos prestadores de serviços e, ainda:\n\na) Permitir a maleabilidade com vista a adaptações espaciais ou a melhorias tecnológicas, pela introdução de materiais e equipamentos adequados às respetivas necessidades;\n\nb) Introduzir sistemas construtivos que permitam a fácil manutenção do edifício;\n\nc) Valorizar a eficácia na gestão energética e ambiental, promovendo a sustentabilidade do sistema construído e a do meio ambiente;"
+  },
+  "224201753": {
+   "fragment_id": "224202289",
+   "type": 11,
+   "heading": "Artigo 17.º — Acessos ao edifício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acessos ao edifício\n\n1 - O edifício deve ter acessos facilitados através da via pública, quer viários quer pedonais, devidamente identificados e legíveis.\n\n2 - O edifício deve prever lugares de estacionamento de viaturas, em número adequado à capacidade da estrutura residencial, de acordo com os regulamentos camarários em vigor.\n\n3 - Na omissão de regulamentos camarários é obrigatório prever-se no mínimo um lugar que sirva ambulâncias, cargas e descargas.\n\n4 - No edifício onde está instalada a estrutura residencial é obrigatório prever-se:\n\na) Acesso principal para os residentes, colaboradores e visitantes;\n\nb) Acesso de serviço destinado às áreas de serviços e ao acesso de viaturas para cargas e descargas e recolha de lixo."
+  },
+  "224201754": {
+   "fragment_id": "224202290",
+   "type": 11,
+   "heading": "Artigo 18.º — Áreas funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Áreas funcionais\n\n1 - A estrutura residencial é composta pelas seguintes áreas funcionais:\n\na) Receção;\n\nb) Direção, serviços técnicos e administrativos;\n\nc) Instalações para o pessoal;\n\nd) Convívio e atividades;\n\ne) Refeições;\n\nf) Alojamento;\n\ng) Cozinha e lavandaria;\n\nh) Serviços de enfermagem;\n\ni) Serviços de apoio.\n\n2 - Quando exista mais do que uma unidade funcional, cada unidade é autónoma no que se refere às áreas funcionais referidas nas alíneas d) e f) do número anterior.\n\n3 - As áreas funcionais devem obedecer a um conjunto de requisitos específicos que constam do anexo i à presente portaria, que dela faz parte integrante.\n\n4 - Em casos devidamente justificados e autorizados podem as áreas funcionais constantes do anexo i ter alterações face às áreas úteis mínimas nele previstas."
+  },
+  "224201755": {
+   "fragment_id": "224202291",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação e fiscalização\n\n1 - O funcionamento da estrutura residencial está sujeito a acompanhamento, avaliação e fiscalização por parte dos serviços competentes do Instituto da Segurança Social, I. P. (ISS).\n\n2 - Para efeitos do disposto no número anterior, a entidade responsável pela estrutura residencial deve facultar o acesso às instalações e à documentação tida por conveniente."
+  },
+  "224201756": {
+   "fragment_id": "224202292",
+   "type": 11,
+   "heading": "Artigo 20.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Casos especiais\n\nPara as estruturas residenciais referidas na alínea c) do artigo 2.º que realizem obras indispensáveis ao reforço da segurança e ao melhoramento das condições de vida dos residentes e à qualidade da prestação dos serviços é dispensado o parecer do ISS, referido no n.º 2 do artigo 7.º do Decreto-Lei n.º 64/2007, de 14 de março, na redação que lhe foi dada pelo Decreto-Lei n.º 99/2011, de 28 de setembro, salvo quando tais obras impliquem um aumento da capacidade."
+  },
+  "224201757": {
+   "fragment_id": "224202293",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nSão revogados o Despacho Normativo n.º 12/98, de 25 de fevereiro, o Despacho Normativo n.º 30/2006, de 31 de março, e o Despacho Normativo n.º 3/2011, de 16 de fevereiro."
+  },
+  "224201758": {
+   "fragment_id": "224202294",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "224201760": {
+   "fragment_id": "224202296",
+   "type": 14,
+   "heading": "Anexo I — Áreas funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Áreas funcionais\n\nFicha 1 - Área de receção\n\n1.1 - Destina-se à receção, ao atendimento e espera.\n\n1.2 - A iluminação deve ser adequada para espaço de transição com o exterior, protegida das intempéries e permitir o fácil encaminhamento para os acessos verticais e horizontais do edifício.\n\n1.3 - A área a considerar depende diretamente da dimensão da estrutura residencial: área útil mínima: 9 m2.\n\n1.4 - Na proximidade desta área devem prever-se instalações sanitárias, separadas por sexo, e acessíveis a pessoas com mobilidade condicionada.\n\nFicha 2 - Área de direção, serviços técnicos e administrativos\n\n2.1 - Destina-se a local de trabalho da direção do estabelecimento e do pessoal técnico e administrativo, arquivo administrativo e expedientes vários.\n\n2.2 - Deve localizar-se na proximidade da receção e incluir os seguintes espaços com as áreas úteis mínimas de:\n\na) Gabinete da direção: 10 m2;\n\nb) Gabinete(s) técnico(s): 2 m2/posto trabalho; área útil mínima: 10 m2;\n\nc) Gabinete(s) administrativo(s): 2 m2/posto trabalho; área útil mínima: 10 m2;\n\nd) Sala de reuniões, quando a capacidade for igual ou superior a 40 residentes: 10 m2;\n\ne) Instalação sanitária, que pode ser dispensada se houver outra na proximidade: 3 m2.\n\n2.3 - O gabinete administrativo poder ser dispensado desde que fiquem asseguradas as funções administrativas.\n\nFicha 3 - Área de instalações para o pessoal\n\n3.1 - Destina-se ao pessoal, e será localizada onde melhor se considerar, desde que se assegure o fácil acesso aos funcionários e não implique atravessamentos de circulações com outras áreas funcionais distintas.\n\n3.2 - Deve incluir os seguintes espaços com as áreas úteis mínimas de:\n\na) Sala de pessoal: 10 m2;\n\nb) Instalação sanitária, com equipamento sanitário completo, incluindo base de duche, sempre que não existam as instalações sanitárias previstas no número seguinte: 3,5 m2.\n\n3.3 - Devem ser incluídas instalações para o pessoal em funções na cozinha e lavandaria sempre que a estrutura residencial tenha uma capacidade superior a 15 residentes, com os seguintes espaços e com a área útil mínima de:\n\na) Vestiário, zona de descanso: 6 m2;\n\nb) Instalação sanitária: 3,5 m2.\n\nFicha 4 - Área de convívio e atividades\n\n4.1 - Destina-se a convívio, lazer e atividades a desenvolver pelos residentes e deve localizar-se na proximidade da receção ou ter uma articulação fácil com esta.\n\n4.2 - Para atividades específicas, deve esta área estar apta ao uso de utensílios de trabalho, conforme o caso, bem como ter as condições ambientais e de iluminação e de conforto necessárias.\n\n4.3 - Deve incluir os seguintes espaços com as áreas úteis mínimas de:\n\na) Salas de estar/atividades: 2 m2/residente, para uma utilização, em simultâneo, no mínimo de 80 % dos residentes; área útil mínima: 15 m2;\n\nb) Instalações sanitárias separadas por sexo, em que o equipamento a instalar será em número adequado, considerando uma cabine com sanita por cada 10 residentes e um lavatório por cada 10 residentes e, pelo menos uma delas, acessível a pessoas com mobilidade condicionada com 4,84 m2.\n\n4.4 - As instalações sanitárias podem ser dispensadas desde que haja proximidade entre a sala de convívio e atividades e as instalações sanitárias previstas para a área de refeições.\n\n4.5 - Em edifícios a adaptar, a sala de convívio e atividades pode ser comum à sala de refeições: área útil mínima: 30 m2.\n\nFicha 5 - Área de refeições\n\n5.1 - Destina-se à tomada de refeições.\n\n5.2 - Esta área deve incluir os seguintes espaços com as áreas úteis mínimas:\n\na) Sala de refeições: 2 m2/residente, para uma utilização, em simultâneo, no mínimo de 80 % dos residentes; área útil mínima: 20 m2. Podem ser projetadas zonas de refeição, sendo a área total necessária deste compartimento subdividida em pequenos espaços por qualquer tipo de paramento amovível ou equipamento móvel;\n\nb) Instalações sanitárias separadas por sexo, em que o equipamento a instalar será de lavatório e sanita em número adequado, considerando uma cabine com sanita por cada 10 residentes e um lavatório por cada 10 residentes e, pelo menos uma delas, acessível a pessoas com mobilidade condicionada com 4,84 m2.\n\n5.3 - A sala de refeições não pode ser local de passagem para outras áreas funcionais e deve ter boas condições acústicas e ligação visual com o exterior.\n\n5.4 - As instalações sanitárias podem ser dispensadas desde que haja proximidade entre a sala de refeições e as instalações sanitárias previstas para a área de convívio e atividades.\n\n5.5 - Em edifícios a adaptar a sala de refeições pode ser comum à sala de convívio e atividades: área útil mínima: 30 m2.\n\nFicha 6 - Área de alojamento\n\n6.1 - Destina-se a descanso dos residentes e deve localizar-se em zona de acesso restrito.\n\n6.2 - Na modalidade de alojamento em tipologia habitacional:\n\n6.2.1 - Os apartamentos e ou moradias devem apresentar os seguintes espaços, com as áreas úteis mínimas:\n\na) Quartos individuais ou duplos: 10 m2 e 16 m2, respetivamente;\n\nb) Sala/zona de estar com copa/kitchenet: 10 m2;\n\nc) Instalação sanitária, com duche embutido ou nivelado com o pavimento: 4,5 m2;\n\nd) Zona de arrumos.\n\n6.2.2 - A capacidade de cada apartamento/moradia é no máximo de quatro residentes, sendo a capacidade máxima por quarto de dois residentes.\n\n6.3 - Na modalidade de alojamento em quartos, estes devem estar agrupados de acordo com a estrutura do edifício, por forma a permitir um ambiente mais humanizado.\n\n6.3.1 - Os espaços a considerar com as áreas úteis mínimas, são:\n\na) Quarto individual: 10 m2. Pode ser utilizado como quarto de casal, devendo para esse efeito ter uma área útil mínima de 12 m2;\n\nb) Quarto duplo: 16 m2;\n\nc) Quarto triplo: 20,5 m2;\n\nd) Instalações sanitárias próprias, podendo servir, no máximo, quatro residentes, sendo de acesso privado ou localizando-se na proximidade dos quartos: 4,5 m2;\n\ne) Sala de estar com copa, por cada agrupamento de quartos: 12 m2.\n\n6.3.2 - Deve existir um compartimento de sujos por cada piso da área de alojamento.\n\n6.3.3 - Os quartos podem ser individuais, duplos ou triplos, sendo que, pelo menos, 20 % devem corresponder a quartos individuais e, no máximo, 20 % a quartos triplos.\n\n6.3.4 - Deve prever-se entre camas um sistema amovível que garanta a privacidade dos residentes. As camas devem ser, preferencialmente, articuladas, tendo em conta situações de residentes com elevado grau de dependência.\n\n6.4 - Deve existir banho geriátrico com a área útil mínima de 10 m2 quando a capacidade da estrutura residencial for superior a 20 residentes.\n\n6.5 - A sala de estar com copa pode ser dispensada em unidades funcionais com capacidade não superior a 20 residentes.\n\n6.6 - Na modalidade de alojamento em tipologias habitacionais em simultâneo com alojamento em quartos, os espaços a considerar são os referidos nos números anteriores, consoante o caso.\n\nFicha 7 - Área de cozinha e lavandaria\n\n7.1 - Destina-se à preparação de refeições e ao tratamento de roupa.\n\n7.2 - A cozinha deve ser dimensionada ao número de refeições a confecionar ou servir e ser objeto de projeto específico para a instalação dos equipamentos de trabalho fixos e móveis, bem como dos aparelhos e máquinas necessários, sempre que a capacidade seja superior a 15 residentes.\n\n7.2.1 - Os espaços a considerar são:\n\na) Um espaço principal, organizado em três zonas: zona de higienização dos manipuladores de alimentos; zona de preparação de alimentos e zona de confeção de alimentos;\n\nb) Espaço complementar, integrado no espaço principal ou com comunicação direta com este, organizado em duas outras zonas: zona de lavagem de loiça e de utensílios de cozinha (também designada por copa suja) e zona de distribuição das refeições (também designada por copa limpa);\n\nc) Espaços anexos, compostos por despensa, compartimento de frio e compartimento do lixo.\n\n7.2.2 - A área mínima útil da cozinha é de 10 m2.\n\n7.2.3 - Caso a estrutura residencial recorra à confeção de alimentos no exterior, a cozinha pode ser simplificada, devendo existir os espaços necessários para proceder, em condições de higiene e de bom funcionamento, à receção e armazenamento das refeições e ao seu aquecimento e respetiva distribuição.\n\n7.3 - A lavandaria deve localizar-se junto ao acesso de serviços e deve ser dimensionada ao número de residentes.\n\n7.3.1 - Os espaços a considerar devem ter em conta:\n\na) Depósito para receção da roupa suja;\n\nb) Máquinas de lavar e secar roupa;\n\nc) Depósito, armários e prateleiras para guardar a roupa lavada;\n\nd) Mesa de costura e bancada para passar a roupa a ferro.\n\n7.3.2 - A área mínima útil da lavandaria é de 12 m2.\n\n7.3.3 - Caso a estrutura residencial recorra ao tratamento da roupa no exterior, a lavandaria pode ser simplificada, devendo existir os espaços necessários para proceder, em condições de higiene e de bom funcionamento, ao envio e à receção da roupa e respetivo depósito e separação.\n\nFicha 8 - Área de serviços de enfermagem\n\n8.1 - Destina-se à prestação de cuidados de enfermagem aos residentes, sendo, sempre que necessário, ocupada por médico assistente para atendimento dos residentes.\n\n8.2 - Esta área deve incluir:\n\na) Gabinete de enfermagem, com lavatório e marquesa, com a área útil mínima de 12 m2;\n\nb) Instalação sanitária anexa ao gabinete de enfermagem: 3,5 m2, caso não exista outra na proximidade.\n\nFicha 9 - Área de serviços de apoio\n\n9.1 - Destina-se à arrumação e armazenagem de equipamento, mobiliário, materiais e produtos necessários ao funcionamento da estrutura residencial.\n\n9.2 - Esta área deve incluir os seguintes espaços:\n\na) Arrecadações gerais;\n\nb) Arrecadações de géneros alimentícios;\n\nc) Arrecadações de equipamentos e produtos de higiene do ambiente."
+  },
+  "224201761": {
+   "fragment_id": "224202297",
+   "type": 14,
+   "heading": "Anexo II — Estruturas residenciais a que se refere o n.º 2 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Estruturas residenciais a que se refere o n.º 2 do artigo 2.º\n\n1 - A área dos quartos individuais não pode ser inferior a 9 m2.\n\n2 - Nos quartos duplos e triplos, a área mínima admitida por cama é de 6 m2, exceto no caso de camas articuladas, em que deve ser de 7 m2, recomendando-se, em qualquer dos casos, que a distância entre as camas não seja inferior a 0,9 m.\n\n3 - Nas salas de convívio e atividades, a área mínima admitida por residente é de 1,20 m2, não podendo a sala ter uma área inferior a 12 m2.\n\n4 - Na sala de refeições, a área mínima admitida por residente é de 1,20 m2, não podendo a sala ter uma área inferior a 12 m2.\n\n5 - No caso de existir apenas uma sala (atividades/refeições), a área mínima admitida é de 2,20 m2/residente, não podendo a sala ter uma área inferior a 16 m2.\n\n6 - Nas instalações sanitárias deve considerar-se uma sanita e um lavatório por cada 10 residentes, devendo pelo menos uma delas ser acessível a pessoas com mobilidade condicionada com 4,84 m2.\n\n7 - O gabinete de enfermagem, com lavatório, deve ter uma área mínima de 10 m2."
+  },
+  "224203006": {
+   "fragment_id": "224163673",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria define as condições de organização, funcionamento e instalação a que devem obedecer as estruturas residenciais para pessoas idosas.\n\n2 - Considera-se estrutura residencial para pessoas idosas o estabelecimento para alojamento coletivo, de utilização temporária ou permanente, em que sejam desenvolvidas atividades de apoio social e prestação de cuidados adequados e ajustados às necessidades das pessoas idosas e suas famílias.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203007": {
+   "fragment_id": "224163674",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - As disposições constantes no presente diploma aplicam-se a estruturas residenciais:\n\na) A implementar em edifícios a construir de raiz ou em edifícios já existentes a adaptar para o efeito;\n\nb) Com processos, em curso, de licenciamento da construção ou da atividade ou de acordo de cooperação a celebrar com o ISS, I. P., à data da entrada em vigor da presente portaria;\n\nc) Com licença de funcionamento ou autorização provisória de funcionamento ou, quando aplicável, acordo de cooperação celebrado com o Instituto da Segurança Social, I. P. (ISS, I. P.).\n\n2 - Às estruturas residenciais referidas na alínea c) do número anterior, cujo licenciamento ou acordo de cooperação não tenha sido realizado ao abrigo do anexo i do Despacho Normativo n.º 12/98, de 25 de fevereiro, não lhes é aplicável o disposto nos artigos 15.º a 18.º, salvo quando realizem obras que impliquem um alargamento da capacidade superior a 30 %.\n\n3 - Às estruturas residenciais referidas no número anterior que realizem obras que impliquem um alargamento da capacidade até 30 %, é-lhes aplicável o disposto no anexo ii à presente portaria que dela faz parte integrante, mas apenas na área nova a ampliar, não na área prévia edificada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203008": {
+   "fragment_id": "224202275",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 3.º — Objetivos\n\nConstituem objetivos da estrutura residencial, designadamente, os seguintes;\n\na) Proporcionar cuidados permanentes e adequados à condição biopsicossocial das pessoas idosas;\n\nb) Contribuir para a estimulação de um processo de envelhecimento ativo e saudável promovendo o autocuidado e a prestação de cuidados personalizados e humanizados;\n\nc) Criar condições que permitam preservar e incentivar a relação intrafamiliar e com pessoas de referência, bem como promover novas relações interpessoais visando combater o isolamento;\n\nd) Potenciar a inclusão social;\n\ne) Potenciar um ambiente seguro, confortável, acessível e humanizado;\n\nf) Promover estratégias de desenvolvimento da vivência em comum, numa lógica comunitária, com o respeito pela individualidade, interesses e capacidade, bem como pela privacidade de cada pessoa e/ou família;\n\ng) Promover e enquadrar o envolvimento da comunidade no dia-a-dia da ERPI, numa lógica complementar ao plano de atividades da ERPI;\n\nh) Fomentar as relações sociais, a convivência, a entreajuda e o espírito de comunidade;\n\ni) Proporcionar acolhimento transitório e temporário, no âmbito do regime do descanso do cuidador informal e das altas hospitalares.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203009": {
+   "fragment_id": "224202276",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios de atuação",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios de atuação\n\nA estrutura residencial rege-se pelos seguintes princípios de atuação:\n\na) Qualidade, eficiência, humanização e respeito pela individualidade;\n\nb) Interdisciplinaridade;\n\nc) Avaliação integral das necessidades, potencialidades e interesses do residente;\n\nd) Promoção e manutenção da funcionalidade, da independência e autonomia do residente;\n\ne) Participação e corresponsabilização do residente ou do representante legal e dos familiares ou de pessoas de referência conforme vontade do residente, na elaboração do plano individual de cuidados;\n\nf) Promoção da qualidade de vida;\n\ng) Manutenção dos direitos, liberdades e garantias dos residentes;\n\nh) Garantia do direito de autodeterminação dos residentes, salvaguardando o respeito da organização interna das ERPI e o direito de escolha dos restantes residentes;\n\ni) Respeito pela privacidade e pela reserva da intimidade da vida privada e familiar, bem como das diferenças, religiosas, étnicas, políticas e culturais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203025": {
+   "fragment_id": "224203108",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Direitos e deveres das pessoas residentes",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 5.º-A — Direitos e deveres das pessoas residentes\n\n1 - A pessoa que reside em ERPI tem direito, nomeadamente, a:\n\na) Ser preservada a sua dignidade, privacidade, intimidade e individualidade;\n\nb) Ver garantido o segredo profissional, o sigilo e a confidencialidade;\n\nc) Ser informada sobre o funcionamento da ERPI e sobre os serviços, atividades e cuidados que lhe são prestados, na medida das suas capacidades, bem como de qualquer alteração aos mesmos e sobre todas as decisões em que é parte interessada;\n\nd) Participar na avaliação diagnóstica, na elaboração e celebração do plano individual de cuidados, potenciando a adaptação dos serviços, atividades e cuidados às suas necessidades, capacidades, expetativas e preferências;\n\ne) Ver respeitados os seus interesses individuais, crenças, culturas e as suas necessidades e expetativas face aos serviços e cuidados que irá beneficiar;\n\nf) Ser tratada com urbanidade, respeito, com correção e compreensão;\n\ng) Ser informada e orientada sobre os direitos e deveres inerentes ao exercício da sua cidadania e participação social;\n\nh) Receber visitas de acordo com o Regulamento da ERPI;\n\ni) À proteção dos seus dados pessoais, de acordo com o previsto no RGPD;\n\nj) Apresentar reclamações e sugestões à Direção Técnica relativamente ao funcionamento dos serviços, tendo direito a ser informada sobre as mesmas.\n\n2 - Constituem deveres das pessoas residentes, nomeadamente, os seguintes:\n\na) Colaborar com a equipa na medida dos seus interesses e capacidades;\n\nb) Respeitar a privacidade e intimidade dos outros residentes;\n\nc) Cumprir o Regulamento Interno;\n\nd) Participar, na medida das suas capacidades, na definição do PIC e nos processos de avaliação da satisfação dos serviços prestados;\n\ne) Zelar pela boa conservação da residência e dos bens e equipamentos;\n\nf) Tratar os demais residentes e trabalhadores com urbanidade, respeito, com correção e compreensão.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203046": {
+   "fragment_id": "224203109",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Direitos e deveres dos familiares e pessoas de referência",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 5.º-B — Direitos e deveres dos familiares e pessoas de referência\n\n1 - Os familiares e pessoas de referência têm direito, nomeadamente, a:\n\na) Participar nas atividades e no projeto global da ERPI;\n\nb) Participar na avaliação diagnóstica e na elaboração, celebração e implementação do plano individual de cuidados do residente, caso este o deseje;\n\nc) Ter acesso a informação e ser ouvido nas decisões que digam respeito ao residente, com a devida autorização do próprio;\n\nd) Visitar o residente, exceto se este o recusar ou se houver impedimento legal.\n\n2 - Constituem deveres dos familiares e pessoas de referência, nomeadamente, os seguintes:\n\na) Cumprir o Regulamento Interno;\n\nb) Colaborar com a equipa;\n\nc) Respeitar a privacidade e intimidade dos residentes;\n\nd) Zelar pela boa conservação da residência e dos bens e equipamentos;\n\ne) Tratar os residentes e os trabalhadores com urbanidade, respeito, com correção e compreensão.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203047": {
+   "fragment_id": "224202278",
+   "type": 11,
+   "heading": "Artigo 6.º — Capacidade",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 6.º — Capacidade\n\n1 - A capacidade máxima da estrutura residencial é de 120 residentes, não podendo ser inferior a 4 residentes.\n\n2 - A estrutura residencial organiza-se por unidades funcionais, entendendo-se por unidade funcional o conjunto de áreas funcionais, fisicamente agrupadas e equipadas, para o alojamento dos residentes em ambiente confortável e humanizado e para a prestação dos serviços previstos no artigo 8.º\n\n3 - A capacidade máxima de cada unidade funcional é de 60 residentes.\n\n4 - Quando a capacidade da estrutura residencial for até 80 residentes, é dispensada a obrigatoriedade de existência de unidades funcionais.\n\n5 - A capacidade máxima do equipamento pode ser atualizada, mediante revisão do acordo de cooperação, desde que o número de lugares criados se destine ao acolhimento de pessoas adultas com alta clínica e social, nos termos definidos na ficha 6 do anexo i da presente portaria, e de acordo com a legislação aplicável às altas hospitalares.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203048": {
+   "fragment_id": "224202279",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades de alojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modalidades de alojamento\n\nA estrutura residencial pode assumir um das seguintes modalidades de alojamento:\n\na) Tipologias habitacionais, designadamente apartamentos e ou moradias;\n\nb) Quartos;\n\nc) Tipologias habitacionais em conjunto com o alojamento em quartos."
+  },
+  "224203049": {
+   "fragment_id": "224202280",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços, atividades e cuidados",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 8.º — Serviços, atividades e cuidados\n\n1 - A ERPI presta um conjunto de atividades e cuidados, designadamente:\n\na) Alimentação adequada às necessidades dos residentes, respeitando as prescrições médicas ou de nutricionista da instituição, caso exista;\n\nb) Cuidados de higiene pessoal, de conforto e imagem;\n\nc) Tratamento de roupa;\n\nd) Higiene dos espaços;\n\ne) Atividades de animação sociocultural, lúdico-recreativas e ocupacionais que visem contribuir para um clima de relacionamento saudável entre os residentes e para a estimulação e manutenção das suas capacidades físicas e psíquicas;\n\nf) Apoio no desempenho das atividades da vida diária;\n\ng) Cuidados de enfermagem, bem como o acesso a cuidados de saúde;\n\nh) Administração de fármacos, quando prescritos.\n\ni) Outras atividades culturais, ambientais, sociais, lúdico-recreativas, estimulação sensorial e cognitiva, entre outras, ajustadas ao perfil, capacidades e expetativas dos residentes;\n\nj) Atividades ocupacionais e de convívio e lazer a realizar no exterior, respeitando a capacidade e interesses dos residentes;\n\nk) Apoio psicossocial, facilitador do equilíbrio e bem-estar.\n\n2 - As atividades desenvolvidas são, preferencialmente, definidas através de um processo participativo entre a equipa da ERPI e o residente e constam de um plano de atividades.\n\n3 - A ERPI deve permitir e promover, através da sua atuação:\n\na) A convivência social, através do relacionamento entre os residentes e destes com os familiares e amigos, com os cuidadores e com a própria comunidade, de acordo com os seus interesses e capacidades, promovendo, sempre que possível, a intergeracionalidade;\n\nb) A participação dos familiares ou representante legal, no apoio ao residente sempre que possível e desde que este apoio contribua para um maior bem-estar e equilíbrio psicoafetivo do residente.\n\nc) A inclusão social com recurso a estruturas comuns e a outras da comunidade, que promovam o bem-estar físico, emocional e social dos seus residentes.\n\n4 - A ERPI pode, ainda, disponibilizar outro tipo de atividades e cuidados, visando a melhoria da qualidade de vida do residente, nomeadamente, psicologia, fisioterapia, hidroterapia, nutrição, transporte e outros, desde que adequados às necessidades e interesses dos residentes.\n\n5 - A ERPI deve ainda permitir a assistência religiosa ou espiritual, sempre que o residente o solicite, ou, na incapacidade deste, mediante solicitação pelo seu representante legal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203050": {
+   "fragment_id": "224202281",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo individual",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 9.º — Processo individual\n\n1 - É obrigatória a elaboração de um processo individual do residente, com respeito pelo seu projeto de vida, suas potencialidades e competências, do qual constam, designadamente:\n\na) Identificação do residente;\n\nb) Data de admissão;\n\nc) Identificação do médico assistente;\n\nd) Identificação e contacto do representante legal ou dos familiares;\n\ne) Avaliação social da pessoa, da qual consta a caraterização da situação social, familiar e do contexto e história de vida;\n\nf) Exemplar do contrato de prestação de serviços, atividades e cuidados;\n\ng) Cópia da sentença que determine o acompanhante, no âmbito do regime do maior acompanhado, quando aplicável;\n\nh) Plano individual de cuidados (PIC), nos termos previstos no artigo 9.º-A;\n\ni) Identificação e contacto do médico assistente;\n\nj) Processo de saúde, que possa ser consultado de forma autónoma;\n\nk) Registo de períodos de ausência, bem como de ocorrências de situações anómalas;\n\nl) Cessação do contrato de prestação de serviços, atividades e cuidados com indicação da data e motivo.\n\n2 - O processo individual deve estar atualizado e é de acesso restrito nos termos da legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203067": {
+   "fragment_id": "224203110",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Plano individual de cuidados",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 9.º-A — Plano individual de cuidados\n\n1 - O plano individual de cuidados (PIC) é um instrumento de planeamento, monitorização e avaliação das necessidades, potencialidades e expetativas da pessoa, assim como do seu percurso de vida, que deve integrar, de entre outra informação relevante, os cuidados, serviços e atividades a desenvolver.\n\n2 - O PIC é acompanhado por um diagnóstico das necessidades pessoais, familiares e sociais por forma a garantir os serviços, cuidados e atividades adequados.\n\n3 - O PIC deve ser monitorizado, acompanhado e avaliado de forma contínua, com a periodicidade máxima de seis meses, pelo técnico de referência designado, e revisto, sempre que tal seja solicitado pela pessoa residente, ou quem a legalmente represente, ou família ou se verifiquem circunstâncias que suscitem a sua alteração, de forma a melhorar a qualidade dos serviços e a melhor adequá-los às suas necessidades e capacidades.\n\n4 - O PIC deve ser datado e assinado por todos os profissionais que participam na sua definição, pela pessoa ou por quem a legalmente represente, ou família e pode ser consultado pela pessoa ou por quem a legalmente representa, ou pela sua família, desde que autorizado pelo próprio.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203068": {
+   "fragment_id": "224202282",
+   "type": 11,
+   "heading": "Artigo 10.º — Contrato de prestação de serviços",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 10.º — Contrato de prestação de serviços\n\n1 - Devem ser celebrados por escrito contratos de prestação de serviços, atividades e cuidados com os residentes e ou seus familiares e, quando exista, com o representante legal, dos quais devem constar os direitos e obrigações das partes e a discriminação dos serviços, atividades e cuidados a prestar aos residentes que se encontram incluídos na mensalidade, devendo o contrato ser alterado em função da evolução das necessidades.\n\n2 - Do contrato é entregue um exemplar ao residente e ou familiares e arquivado outro no respetivo processo individual.\n\n3 - Qualquer alteração ao contrato é efetuada por mútuo consentimento e assinada pelas partes.\n\n4 - A ERPI deve garantir que o utente toma conhecimento do teor do contrato de prestação de serviços, do regulamento interno e do PIC, de uma forma que assegure a sua compreensão por parte do utente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203069": {
+   "fragment_id": "224202283",
+   "type": 11,
+   "heading": "Artigo 11.º — Direção técnica",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 11.º — Direção técnica\n\n1 - A direção técnica da estrutura residencial é assegurada por um técnico com formação superior em ciências sociais e do comportamento, saúde ou serviços sociais e, preferencialmente, com experiência profissional para o exercício das funções.\n\n2 - Ao diretor técnico compete, em geral, dirigir o estabelecimento, assumindo a responsabilidade pela programação e gestão dos serviços, dos cuidados e das atividades e a coordenação e supervisão dos trabalhadores, atendendo à necessidade de estabelecer o modelo de organização técnica adequada ao bom funcionamento do estabelecimento, assegurando a qualidade de vida e dignidade dos residentes, e em especial:\n\na) Coordenar e orientar a equipa, bem como promover reuniões com os residentes e suas famílias, de modo a dinamizar atividades conjuntas de forma participada e auscultar a satisfação da qualidade dos serviços e cuidados prestados;\n\nb) (Revogada.)\n\nc) Sensibilizar o pessoal face à problemática da pessoa idosa;\n\nd) Garantir a elaboração, implementação e monitorização do plano de atividades da ERPI;\n\ne) Supervisionar os cuidados e serviços prestados garantindo a sua qualidade;\n\nf) Garantir a supervisão e o acompanhamento da formação inicial e contínua da equipa, nos termos previstos no artigo 12.º-A, em articulação com a direção da instituição;\n\ng) Assegurar, em articulação com a equipa, a realização do diagnóstico e a avaliação contínua das necessidades e expetativas dos residentes integrantes no PIC, bem como a monitorização dos serviços, cuidados e atividades nele constantes;\n\nh) Promover a articulação e o desenvolvimento de relações interinstitucionais com outras entidades e com a comunidade;\n\ni) Garantir a elaboração de protocolos de segurança dos residentes e de sinalização e atuação em emergência e risco de maus-tratos e negligência, bem como facultar o seu acesso.\n\n3 - O diretor técnico, em articulação com a direção da instituição, deve privilegiar estratégias de envolvimento da pessoa, do representante legal e da família na atividade da ERPI, e na execução do PIC, avaliando os cuidados prestados, com o objetivo de garantir a permanente satisfação das necessidades e expetativas, numa ótica de melhoria contínua e de participação ativa de todos os intervenientes.\n\n4 - As funções do diretor técnico podem ser exercidas a 50 %, quando a capacidade da estrutura residencial for igual ou inferior a 30 residentes.\n\n5 - Quando a capacidade da estrutura residencial for inferior a 15 residentes, o diretor técnico poderá ter um horário semanal variável, mas deve assegurar, no mínimo, uma permanência diária de três horas no estabelecimento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224203070": {
+   "fragment_id": "224202284",
+   "type": 11,
+   "heading": "Artigo 12.º — Pessoal",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 12.º — Pessoal\n\n1 - A estrutura residencial deve dispor de pessoal que assegure a prestação dos serviços 24 horas por dia.\n\n2 - A estrutura residencial, para além do diretor técnico, deve dispor no mínimo de:\n\na) Um(a) animador(a) sociocultural ou educador(a) social ou técnico de geriatria, a tempo parcial por cada 40 residentes;\n\nb) Um(a) enfermeiro(a), por cada 40 residentes;\n\nc) Um(a) ajudante de ação direta, por cada 8 residentes;\n\nd) Um(a) ajudante de ação direta por cada 20 residentes, com vista ao reforço no período noturno;\n\ne) Um(a) encarregado(a) de serviços domésticos em estabelecimentos com capacidade igual ou superior a 40 residentes;\n\nf) Um(a) cozinheiro(a) por estabelecimento;\n\ng) Um(a) ajudante de cozinheiro(a) por cada 20 residentes;\n\nh) Um(a) empregado(a) auxiliar por cada 20 residentes.\n\n3 - Sempre que a estrutura residencial acolha idosos em situação de grande dependência, os rácios de pessoal de enfermagem, ajudante de ação direta e auxiliar são os seguintes:\n\na) Um(a) enfermeiro(a), para cada 20 residentes;\n\nb) Um(a) ajudante de ação direta, por cada 5 residentes;\n\nc) Um(a) empregado(a) auxiliar por cada 15 residentes.\n\n4 - Os indicadores referidos nos números anteriores podem ser adaptados, com a necessária flexibilidade, em função das características gerais, quer de instalação, quer de funcionamento, quer do número de residentes de cada estrutura residencial.\n\n5 - Nos casos em que os serviços de higiene do ambiente, de tratamento de roupa e de confeção de refeições sejam objeto de contratualização externa pode dispensar-se o pessoal de cozinha e de limpeza.\n\n6 - A estrutura residencial pode contar com a colaboração de voluntários, devidamente enquadrados, não podendo estes ser considerados para efeitos do disposto nos números anteriores.\n\n7 - As ERPI com capacidade até 20 residentes, inclusive, devem garantir, no mínimo a verificação das alíneas a) a d) e h) do n.º 2.\n\n8 - Os profissionais que prestam cuidados aos idosos deverão possuir formação adequada.\n\n9 - O número e as qualificações dos trabalhadores da ERPI devem ser adequados ao cumprimento das funções previstas no artigo 4.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207384": {
+   "fragment_id": "224203111",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Formação",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 12.º-A — Formação\n\n1 - Para o desenvolvimento dos serviços e cuidados, a ERPI deve proporcionar aos trabalhadores a frequência de formação inicial e contínua adequada à categoria profissional e respetiva função desempenhada ou a desempenhar, nomeadamente através do Centro de Competências de Envelhecimento Ativo, que assegura formação a título gratuito.\n\n2 - A formação pode ser ministrada em contexto de trabalho.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207385": {
+   "fragment_id": "224202285",
+   "type": 11,
+   "heading": "Artigo 13.º — Acesso à informação",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 13.º — Acesso à informação\n\nA estrutura residencial deve proceder à afixação, em local visível e de fácil acesso, designadamente, dos seguintes elementos:\n\na) Cópia da autorização de funcionamento ou da comunicação prévia, quando aplicável;\n\nb) Identificação da direção técnica;\n\nc) Horários de funcionamento das atividades e serviços;\n\nd) Mapa semanal das ementas, incluindo dietas;\n\ne) Preçário e ou tabela da comparticipação familiar;\n\nf) Publicitação dos apoios financeiros da segurança social, quando aplicável;\n\ng) Referência à existência de livro de reclamações.\n\nh) Placa identificativa da ERPI à entrada da mesma.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207386": {
+   "fragment_id": "224202286",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamento interno",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 14.º — Regulamento interno\n\n1 - A estrutura residencial possui obrigatoriamente regulamento interno, o qual define as regras e os princípios específicos de funcionamento e contém, designadamente:\n\na) Condições, critérios, procedimentos de admissão e de gestão das listas de espera, cujos termos são definidos através de despacho do membro do governo responsável pela área governativa do trabalho, solidariedade e segurança social, ouvidos os representantes do setor social e do setor lucrativo;\n\nb) Direitos e deveres da estrutura residencial e do residente ou representante legal ou familiares;\n\nc) Horário das visitas;\n\nd) Critérios de determinação das comparticipações familiares, quando aplicável.\n\ne) Procedimentos sobre os meios de suprimento de consentimento no caso de residentes em situação de incapacidade, no âmbito do regime do maior acompanhado;\n\nf) Protocolos de sinalização e atuação em emergência, risco de maus-tratos e negligência.\n\n2 - Um exemplar do regulamento interno é entregue ao residente, familiar ou representante legal no ato de celebração do contrato de prestação de serviços.\n\n3 - O regulamento interno deve estar acessível aos trabalhadores da ERPI, residentes e familiares.\n\n4 - Qualquer alteração ao regulamento interno deve ser comunicada ao Instituto de Segurança Social, I. P., até 30 dias prévios à sua entrada em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207387": {
+   "fragment_id": "224202287",
+   "type": 11,
+   "heading": "Artigo 15.º — Condições de implantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições de implantação\n\n1 - A estrutura residencial deve estar inserida na comunidade, preferencialmente em local servido por transportes públicos e ter acesso fácil a pessoas e viaturas.\n\n2 - Na implantação da estrutura residencial deve ter-se em conta:\n\na) A proximidade a outros estabelecimentos de apoio social, de saúde e de âmbito recreativo e cultural;\n\nb) A coesão do edifício na malha e envolvente urbana, por forma a favorecer a integração, a comunicabilidade e as relações de proximidade e vizinhança;\n\nc) A proximidade a parques urbanos, jardins públicos e outros espaços naturais suscetíveis de proporcionar passeio e convivência social.\n\n3 - O edifício deve ser implantado em zona de boa salubridade e longe de estruturas ou infraestruturas que provoquem ruído, vibrações, cheiros, fumos e outros poluentes, considerados perigosos para a saúde pública e que perturbem ou possam interferir no normal quotidiano dos residentes."
+  },
+  "224207398": {
+   "fragment_id": "224203112",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Qualidade",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 15.º-A — Qualidade\n\n1 - As ERPI devem ter um técnico que assegure as funções de gestão de qualidade, devidamente designado pela direção da instituição.\n\n2 - O cargo de gestor de qualidade pode ser acumulável com outras funções na ERPI, podendo assegurar vários equipamentos.\n\n3 - As ERPI devem monitorizar indicadores de qualidade, a fixar através de despacho do membro do governo responsável pela área governativa do trabalho, solidariedade e segurança social, ouvidos os representantes do setor social e do setor lucrativo.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207399": {
+   "fragment_id": "224202288",
+   "type": 11,
+   "heading": "Artigo 16.º — Edifício",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 16.º — Edifício\n\n1 - As ERPI com capacidade superior a 20 residentes devem funcionar, preferencialmente, em edifício autónomo ou num conjunto edificado autónomo.\n\n2 - A conceção do edifício ou do conjunto de edifícios deve obedecer a parâmetros espaciais, designadamente de âmbito físico e cognitivo, conducentes ao bem-estar dos residentes, à facilidade no desenvolvimento das tarefas dos prestadores de serviços e, ainda:\n\na) Permitir a maleabilidade com vista a adaptações espaciais ou a melhorias tecnológicas, pela introdução de materiais e equipamentos adequados às respetivas necessidades;\n\nb) Introduzir sistemas construtivos que permitam a fácil manutenção do edifício;\n\nc) Valorizar a eficácia na gestão energética e ambiental, promovendo a sustentabilidade do sistema construído e a do meio ambiente;\n\n3 - As áreas e o pé-direito útil do edificado devem respeitar as regras constantes do Regulamento Geral das Edificações Urbanas.\n\n4 - As ERPI podem instalar-se em construções modulares e prefabricadas, nos termos da legislação vigente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207400": {
+   "fragment_id": "224202289",
+   "type": 11,
+   "heading": "Artigo 17.º — Acessos ao edifício",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 17.º — Acessos ao edifício\n\n1 - O edifício deve ter acessos facilitados através da via pública, quer viários quer pedonais, devidamente identificados e legíveis.\n\n2 - O edifício deve prever lugares de estacionamento de viaturas, em número adequado à capacidade da estrutura residencial, de acordo com os regulamentos camarários em vigor.\n\n3 - Na omissão de regulamentos camarários é obrigatório prever-se no mínimo um lugar que sirva ambulâncias, cargas e descargas.\n\n4 - No edifício onde está instalada a estrutura residencial é obrigatório prever-se:\n\na) Acesso principal para os residentes, colaboradores e visitantes;\n\nb) Acesso de serviço destinado às áreas de serviços e ao acesso de viaturas para cargas e descargas e recolha de lixo.\n\n5 - Nas estruturas residenciais com capacidade até 20 residentes, inclusive, o acesso principal pode coincidir com o acesso de serviço.\n\n6 - Os n.os 2 e 4 do presente artigo não se aplicam às ERPI com capacidade até 20 residentes, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207401": {
+   "fragment_id": "224202290",
+   "type": 11,
+   "heading": "Artigo 18.º — Áreas funcionais",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 18.º — Áreas funcionais\n\n1 - A estrutura residencial é composta pelas seguintes áreas funcionais:\n\na) Receção;\n\nb) Direção, serviços técnicos e administrativos;\n\nc) Instalações para o pessoal;\n\nd) Convívio e atividades;\n\ne) Refeições;\n\nf) Alojamento;\n\ng) Cozinha e lavandaria;\n\nh) Serviços de enfermagem;\n\ni) Serviços de apoio.\n\n2 - Quando exista mais do que uma unidade funcional, cada unidade é autónoma no que se refere às áreas funcionais referidas nas alíneas d) e f) do número anterior.\n\n3 - As áreas funcionais devem obedecer a um conjunto de requisitos específicos que constam do anexo i à presente portaria, que dela faz parte integrante.\n\n4 - Em casos devidamente justificados e autorizados podem as áreas funcionais constantes do anexo i ter alterações face às áreas úteis mínimas nele previstas.\n\n5 - Não é necessária a existência de espaço físico especialmente dedicado à área de lavandaria quando os serviços sejam assegurados através de contratação externa.\n\n6 - Podem ser dispensadas áreas funcionais nas ERPI com capacidade até 20 residentes, inclusive, desde que não coloquem em causa a prestação de cuidados adequados aos residentes e sejam garantidas as condições adequadas aos profissionais da instituição.\n\n7 - As ERPI devem promover existência de espaços personalizados e de pouca concentração de pessoas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207402": {
+   "fragment_id": "224202291",
+   "type": 11,
+   "heading": "Artigo 19.º — Avaliação e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Avaliação e fiscalização\n\n1 - O funcionamento da estrutura residencial está sujeito a acompanhamento, avaliação e fiscalização por parte dos serviços competentes do Instituto da Segurança Social, I. P. (ISS).\n\n2 - Para efeitos do disposto no número anterior, a entidade responsável pela estrutura residencial deve facultar o acesso às instalações e à documentação tida por conveniente."
+  },
+  "224207403": {
+   "fragment_id": "224202292",
+   "type": 11,
+   "heading": "Artigo 20.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Casos especiais\n\nPara as estruturas residenciais referidas na alínea c) do artigo 2.º que realizem obras indispensáveis ao reforço da segurança e ao melhoramento das condições de vida dos residentes e à qualidade da prestação dos serviços é dispensado o parecer do ISS, referido no n.º 2 do artigo 7.º do Decreto-Lei n.º 64/2007, de 14 de março, na redação que lhe foi dada pelo Decreto-Lei n.º 99/2011, de 28 de setembro, salvo quando tais obras impliquem um aumento da capacidade."
+  },
+  "224207404": {
+   "fragment_id": "224202293",
+   "type": 11,
+   "heading": "Artigo 21.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Revogação\n\nSão revogados o Despacho Normativo n.º 12/98, de 25 de fevereiro, o Despacho Normativo n.º 30/2006, de 31 de março, e o Despacho Normativo n.º 3/2011, de 16 de fevereiro."
+  },
+  "224207405": {
+   "fragment_id": "224202294",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "224207406": {
+   "fragment_id": "224202295",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Solidariedade e da Segurança Social, Luís Pedro Russo da Mota Soares, em 12 de março de 2012."
+  },
+  "224207407": {
+   "fragment_id": "224202296",
+   "type": 14,
+   "heading": "Anexo I — Áreas funcionais",
+   "in_force_from": "2023-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "## Anexo I — Áreas funcionais\n\nFicha 1 - Área de receção\n\n1.1 - Destina-se à receção, ao atendimento e espera.\n\n1.2 - A iluminação deve ser adequada para espaço de transição com o exterior, protegida das intempéries e permitir o fácil encaminhamento para os acessos verticais e horizontais do edifício.\n\n1.3 - A área a considerar depende diretamente da dimensão da estrutura residencial: área útil mínima: 9 m2.\n\n1.4 - Na proximidade desta área devem prever-se instalações sanitárias, separadas por sexo, e acessíveis a pessoas com mobilidade condicionada.\n\n1.5 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existir um espaço exclusivamente dedicado a receção.\n\nFicha 2 - Área de direção, serviços técnicos e administrativos\n\n2.1 - Destina-se a local de trabalho da direção do estabelecimento e do pessoal técnico e administrativo.\n\n2.2 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existir um gabinete administrativo e de serviços técnicos, desde que tal não afete a prestação de cuidados aos residentes e sejam garantidas as condições adequadas aos profissionais da instituição.\n\n2.3 - Deve localizar-se na proximidade da receção e incluir os seguintes espaços com as áreas úteis mínimas de:\n\na) Gabinete da direção: 10 m2;\n\nb) Gabinete(s) técnico(s): 2 m2/posto trabalho; área útil mínima: 10 m2;\n\nc) Gabinete(s) administrativo(s): 2 m2/posto trabalho; área útil mínima: 10 m2;\n\nd) Sala de reuniões, quando a capacidade for igual ou superior a 40 residentes: 10 m2;\n\ne) Instalação sanitária, que pode ser dispensada se houver outra na proximidade: 3 m2.\n\n2.4 - O gabinete administrativo poder ser dispensado desde que fiquem asseguradas as funções administrativas.\n\nFicha 3 - Área de instalações para os trabalhadores\n\n3.1 - Destina-se ao pessoal, e será localizada onde melhor se considerar, desde que se assegure o fácil acesso aos funcionários e não implique atravessamentos de circulações com outras áreas funcionais distintas.\n\n3.2 - Deve incluir os seguintes espaços:\n\na) Sala para os trabalhadores;\n\nb) Instalação sanitária.\n\n3.3 - (Revogado.)\n\n3.4 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existir sala para os trabalhadores.\n\nFicha 4 - Área de convívio e atividades\n\n4.1 - Destina-se a convívio, lazer e atividades a desenvolver pelos residentes.\n\n4.2 - Para atividades específicas, esta área deve estar apta ao uso de utensílios de trabalho, bem como ter as condições ambientais e de iluminação e de conforto necessárias.\n\n4.3 - (Revogado.)\n\n4.4 - (Revogado.)\n\n4.5 - Em edifícios a adaptar ou em estruturas residenciais com capacidade até 20 residentes, inclusive, podem existir salas que garantam simultaneamente zonas de estar e de refeição, observadas as áreas mínimas por residente bem como o percentual de utilização simultânea.\n\n4.6 - Os espaços de convívio e atividades no seu conjunto devem assegurar, em simultâneo, no mínimo, a utilização de 80 % dos residentes e área mínima de 2 m2/residente.\n\nFicha 5 - Área de refeições\n\n5.1 - Destina-se à tomada de refeições.\n\n5.2 - Esta área deve incluir os seguintes espaços com as áreas úteis mínimas:\n\na) Sala(s) de refeições: 2 m2/residente, para uma utilização simultânea, no mínimo de 80 % dos residentes, podendo distribuir-se por vários espaços e contabilizando-se os espaços de refeição exclusiva que possam existir em unidades de alojamento;\n\nb) Instalações sanitárias separadas por sexo, com uma cabine com sanita por cada 10 residentes e um lavatório por cada 10 residentes e, pelo menos uma delas, acessível a pessoas com mobilidade condicionada, com a área mínima de 4,84 m2;\n\nc) Nas ERPI com capacidade até 20 residentes, inclusive, são dispensadas as instalações sanitárias referidas na alínea anterior, quando a área de alojamento se localize no mesmo piso do edifício e na proximidade.\n\n5.3 - A sala de refeições não pode ser local de passagem para outras áreas funcionais e deve ter boas condições acústicas e ligação visual com o exterior.\n\n5.4 - As instalações sanitárias podem ser dispensadas desde que haja proximidade entre a sala de refeições e as instalações sanitárias previstas para a área de convívio e atividades.\n\n5.5 - Em edifícios a adaptar e nas ERPI com capacidade até 20 residentes, inclusive, pode existir uma sala comum que garanta simultaneamente zonas de estar e de refeição, nos termos definidos no ponto 4.5 da ficha 4.\n\nFicha 6 - Área de alojamento\n\n6.1 - Destina-se a descanso dos residentes e deve localizar-se em zona de acesso restrito.\n\n6.2 - Na modalidade de alojamento em tipologia habitacional:\n\n6.2.1 - Os apartamentos e ou moradias devem cumprir, no mínimo, as áreas estabelecidas no Regulamento Geral das Edificações Urbanas, devendo as áreas dos quartos respeitar o anexo ii da portaria.\n\n6.2.2 - (Revogado.)\n\n6.3 - Na modalidade de alojamento em quartos, estes devem estar agrupados de acordo com a estrutura do edifício, por forma a permitir um ambiente mais humanizado.\n\n6.3.1 - Os espaços a considerar com as áreas úteis mínimas, são:\n\na) Quarto individual: 10 m2. Pode ser utilizado como quarto de casal, devendo para esse efeito ter uma área útil mínima de 12 m2;\n\nb) Quarto duplo: 16 m2;\n\nc) Quarto triplo: 20,5 m2;\n\nd) Instalações sanitárias próprias, podendo servir, no máximo, quatro residentes, sendo de acesso privado ou localizando-se na proximidade dos quartos: 4,5 m2;\n\ne) Sala de estar com copa: 12 m2.\n\n6.3.2 - Deve existir um compartimento de sujos por cada piso da área de alojamento.\n\n6.3.3 - Os quartos podem ser individuais, duplos ou triplos, sendo que, pelo menos, 20 % devem corresponder a quartos individuais e, no máximo, 20 % a quartos triplos.\n\n6.3.4 - Deve prever-se entre camas um sistema amovível que garanta a privacidade dos residentes. As camas devem ser, preferencialmente, articuladas, tendo em conta situações de residentes com elevado grau de dependência.\n\n6.3.5 - Nos quartos individuais e/ou nos quartos duplos, podem ser autorizadas camas extra, desde que cumprida a área mínima de alojamento definida por utente, só podendo estas camas ser destinadas ao acolhimento de pessoas adultas com alta clínica e social, nos termos da legislação aplicável às altas hospitalares, devendo nestes casos, por razões excecionais e de força maior, ser atualizada a capacidade máxima do equipamento.\n\n6.3.6 - Caso a ERPI disponha de quarto ou quartos de isolamento, podem os mesmos ser utilizados para acolhimento de pessoas adultas com alta clínica e social, nos termos da legislação aplicável às altas hospitalares, devendo nestes casos, por razões excecionais e de força maior, ser atualizada a capacidade máxima do equipamento.\n\n6.3.7 - Nas ERPI com capacidade até 20 residentes, inclusive, é dispensado o compartimento de sujos referido no n.º 6.3.2 e devem possuir, no mínimo, um quarto individual e, no máximo, um quarto triplo, não se aplicando a percentagem estabelecida no n.º 6.3.3.\n\n6.4 - Deve existir banho geriátrico com a área útil mínima de 10 m2 quando a capacidade da estrutura residencial for superior a 20 residentes.\n\n6.5 - A sala de estar com copa pode ser dispensada em unidades funcionais com capacidade até 20 residentes, inclusive.\n\n6.6 - (Revogado.)\n\nFicha 7 - Área de cozinha e lavandaria\n\n7.1 - Destina-se à preparação de refeições e ao tratamento de roupa.\n\n7.2 - A cozinha deve ser dimensionada ao número de refeições a confecionar ou servir e ser objeto de projeto específico para a instalação dos equipamentos de trabalho fixos e móveis, bem como dos aparelhos e máquinas necessários, sempre que a capacidade seja superior a 20 residentes.\n\n7.2.1 - Os espaços a considerar são:\n\na) Um espaço principal, organizado em três zonas: zona de higienização dos manipuladores de alimentos; zona de preparação de alimentos e zona de confeção de alimentos;\n\nb) Espaço complementar, integrado no espaço principal ou com comunicação direta com este, organizado em duas outras zonas: zona de lavagem de loiça e de utensílios de cozinha (também designada por copa suja) e zona de distribuição das refeições (também designada por copa limpa);\n\nc) Espaços anexos, compostos por despensa, compartimento de frio e compartimento do lixo.\n\n7.2.2 - A área mínima útil da cozinha é de 10 m2.\n\n7.2.3 - Caso a ERPI recorra à confeção de alimentos no exterior, a cozinha pode ser simplificada e possuir uma área mínima de 6 m2, devendo existir os espaços necessários para proceder, em condições de higiene e de bom funcionamento, à receção e armazenamento das refeições e ao seu aquecimento e respetiva distribuição.\n\n7.2.4 - Nas ERPI com capacidade até 20 residentes, inclusive, quando as refeições não sejam garantidas através de prestações externas, a cozinha deve possuir boas condições de higiene, ventilação e renovação do ar.\n\n7.3 - A lavandaria deve localizar-se junto ao acesso de serviços e deve ser dimensionada ao número de residentes.\n\n7.3.1 - Os espaços a considerar devem ter em conta depósito para receção da roupa suja, máquinas de lavar e secar roupa e locais para guardar a roupa lavada.\n\n7.3.2 - A área mínima útil da lavandaria é de 12 m2.\n\n7.3.3 - Nas ERPI com capacidade até 20 residentes, inclusive, a área mínima da lavandaria é de 6 m2.\n\n7.3.4 - Caso a ERPI recorra ao tratamento da roupa no exterior, não é necessário existir lavandaria.\n\nFicha 8 - Área de serviços de enfermagem\n\n8.1 - Destina-se à prestação de cuidados de enfermagem aos residentes, sendo, sempre que necessário, ocupada por médico assistente para atendimento dos residentes.\n\n8.2 - Esta área deve incluir:\n\na) Gabinete de enfermagem, com lavatório e marquesa, com a área útil mínima de 12 m2;\n\nb) Instalação sanitária afeta ao gabinete de enfermagem: 3,5 m2, caso não exista outra na proximidade.\n\n8.3 - As ERPI com capacidade até 20 residentes, inclusive, ficam dispensadas de ter um gabinete de enfermagem de utilização exclusiva.\n\nFicha 9 - Área de serviços de apoio\n\n9.1 - Destina-se à arrumação e armazenagem de equipamento, mobiliário, materiais e produtos necessários ao funcionamento da estrutura residencial.\n\n9.2 - Esta área deve incluir os seguintes espaços:\n\na) Arrecadações gerais;\n\nb) Arrecadações de géneros alimentícios;\n\nc) Arrecadações de equipamentos e produtos de higiene do ambiente.\n\n9.3 - Caso a ERPI recorra à confeção de alimentos no exterior não é necessário existir o espaço identificado na alínea b) do número anterior.\n\n9.4 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existirem áreas com a função exclusiva de apoio, desde que se encontrem asseguradas as necessidades de arrecadação e armazenamento de géneros alimentícios e de produtos de higiene.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "224207408": {
+   "fragment_id": "224202297",
+   "type": 14,
+   "heading": "Anexo II — Estruturas residenciais a que se refere o n.º 2 do artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Estruturas residenciais a que se refere o n.º 2 do artigo 2.º\n\n1 - A área dos quartos individuais não pode ser inferior a 9 m2.\n\n2 - Nos quartos duplos e triplos, a área mínima admitida por cama é de 6 m2, exceto no caso de camas articuladas, em que deve ser de 7 m2, recomendando-se, em qualquer dos casos, que a distância entre as camas não seja inferior a 0,9 m.\n\n3 - Nas salas de convívio e atividades, a área mínima admitida por residente é de 1,20 m2, não podendo a sala ter uma área inferior a 12 m2.\n\n4 - Na sala de refeições, a área mínima admitida por residente é de 1,20 m2, não podendo a sala ter uma área inferior a 12 m2.\n\n5 - No caso de existir apenas uma sala (atividades/refeições), a área mínima admitida é de 2,20 m2/residente, não podendo a sala ter uma área inferior a 16 m2.\n\n6 - Nas instalações sanitárias deve considerar-se uma sanita e um lavatório por cada 10 residentes, devendo pelo menos uma delas ser acessível a pessoas com mobilidade condicionada com 4,84 m2.\n\n7 - O gabinete de enfermagem, com lavatório, deve ter uma área mínima de 10 m2."
+  },
+  "899530732": {
+   "fragment_id": "224202280",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviços, atividades e cuidados",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 322-B/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-b-2024-899757460), em vigor a partir de 2024-12-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 8.º — Serviços, atividades e cuidados\n\n1 - A ERPI presta um conjunto de atividades e cuidados, designadamente:\n\na) Alimentação adequada às necessidades dos residentes, respeitando as prescrições médicas ou de nutricionista da instituição, caso exista;\n\nb) Cuidados de higiene pessoal, de conforto e imagem;\n\nc) Tratamento de roupa;\n\nd) Higiene dos espaços;\n\ne) Atividades de animação sociocultural, lúdico-recreativas e ocupacionais que visem contribuir para um clima de relacionamento saudável entre os residentes e para a estimulação e manutenção das suas capacidades físicas e psíquicas;\n\nf) Apoio no desempenho das atividades da vida diária;\n\ng) Cuidados de enfermagem, bem como o acesso a cuidados de saúde;\n\nh) Prescrição de medicamentos e produtos de apoio, requisição de MCDT e administração de fármacos, quando prescritos;\n\ni) Outras atividades culturais, ambientais, sociais, lúdico-recreativas, estimulação sensorial e cognitiva, entre outras, ajustadas ao perfil, capacidades e expetativas dos residentes;\n\nj) Atividades ocupacionais e de convívio e lazer a realizar no exterior, respeitando a capacidade e interesses dos residentes;\n\nk) Apoio psicossocial, facilitador do equilíbrio e bem-estar.\n\n2 - As atividades desenvolvidas são, preferencialmente, definidas através de um processo participativo entre a equipa da ERPI e o residente e constam de um plano de atividades.\n\n3 - A ERPI deve permitir e promover, através da sua atuação:\n\na) A convivência social, através do relacionamento entre os residentes e destes com os familiares e amigos, com os cuidadores e com a própria comunidade, de acordo com os seus interesses e capacidades, promovendo, sempre que possível, a intergeracionalidade;\n\nb) A participação dos familiares ou representante legal, no apoio ao residente sempre que possível e desde que este apoio contribua para um maior bem-estar e equilíbrio psicoafetivo do residente.\n\nc) A inclusão social com recurso a estruturas comuns e a outras da comunidade, que promovam o bem-estar físico, emocional e social dos seus residentes.\n\n4 - A ERPI pode, ainda, disponibilizar outro tipo de atividades e cuidados, visando a melhoria da qualidade de vida do residente, nomeadamente, psicologia, fisioterapia, hidroterapia, nutrição, transporte e outros, desde que adequados às necessidades e interesses dos residentes.\n\n5 - A ERPI deve ainda permitir a assistência religiosa ou espiritual, sempre que o residente o solicite, ou, na incapacidade deste, mediante solicitação pelo seu representante legal.\n\n6 - No caso dos estabelecimentos aderentes ao regime previsto na portaria que estabelece o Regime PP-SNS para ERPI e LR, os encargos com medicamentos e produtos de apoio prescritos e com MCDT requisitados nas estruturas residenciais para pessoas idosas são suportados pelo Serviço Nacional de Saúde, nos termos gerais, observadas as demais condições estabelecidas.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 322-B/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-b-2024-899757460), em vigor a partir de 2024-12-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "899530733": {
+   "fragment_id": "224202284",
+   "type": 11,
+   "heading": "Artigo 12.º — Pessoal",
+   "in_force_from": "2024-12-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 322-B/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-b-2024-899757460), em vigor a partir de 2024-12-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 12.º — Pessoal\n\n1 - A estrutura residencial deve dispor de pessoal que assegure a prestação dos serviços 24 horas por dia.\n\n2 - A estrutura residencial, para além do diretor técnico, deve dispor no mínimo de:\n\na) Um(a) animador(a) sociocultural ou educador(a) social ou técnico de geriatria, a tempo parcial por cada 40 residentes;\n\nb) Um(a) enfermeiro(a), por cada 40 residentes;\n\nc) Um(a) ajudante de ação direta, por cada 8 residentes;\n\nd) Um(a) ajudante de ação direta por cada 20 residentes, com vista ao reforço no período noturno;\n\ne) Um(a) encarregado(a) de serviços domésticos em estabelecimentos com capacidade igual ou superior a 40 residentes;\n\nf) Um(a) cozinheiro(a) por estabelecimento;\n\ng) Um(a) ajudante de cozinheiro(a) por cada 20 residentes;\n\nh) Um(a) empregado(a) auxiliar por cada 20 residentes.\n\n3 - Sempre que a estrutura residencial acolha idosos em situação de grande dependência, os rácios de pessoal de enfermagem, ajudante de ação direta e auxiliar são os seguintes:\n\na) Um(a) enfermeiro(a), para cada 20 residentes;\n\nb) Um(a) ajudante de ação direta, por cada 5 residentes;\n\nc) Um(a) empregado(a) auxiliar por cada 15 residentes.\n\n4 - Os indicadores referidos nos números anteriores podem ser adaptados, com a necessária flexibilidade, em função das características gerais, quer de instalação, quer de funcionamento, quer do número de residentes de cada estrutura residencial.\n\n5 - Nos casos em que os serviços de higiene do ambiente, de tratamento de roupa e de confeção de refeições sejam objeto de contratualização externa pode dispensar-se o pessoal de cozinha e de limpeza.\n\n6 - A estrutura residencial pode contar com a colaboração de voluntários, devidamente enquadrados, não podendo estes ser considerados para efeitos do disposto nos números anteriores.\n\n7 - As ERPI com capacidade até 20 residentes, inclusive, devem garantir, no mínimo a verificação das alíneas a) a d) e h) do n.º 2.\n\n8 - Os profissionais que prestam cuidados aos idosos deverão possuir formação adequada.\n\n9 - O número e as qualificações dos trabalhadores da ERPI devem ser adequados ao cumprimento das funções previstas no artigo 4.º\n\n10 - As ERPI podem dispor de médico, através de qualquer modalidade de contrato, com vista à realização das prescrições referidas na alínea h) do n.º 1 do artigo 8.º\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 322-B/2024/1 - Diário da República n.º 239/2024, Suplemento, Série I de 2024-12-10](https://diariodarepublica.pt/dr/detalhe/portaria/322-b-2024-899757460), em vigor a partir de 2024-12-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "836492853": {
+   "fragment_id": "224203111",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Formação",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 1/2024 - Diário da República n.º 9/2024, Série I de 2024-01-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-836495390), produz efeitos a partir de 2023-11-14",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "###### Artigo 12.º-A — Formação\n\n1 - Para o desenvolvimento dos serviços e cuidados, a ERPI deve proporcionar aos trabalhadores a frequência de formação inicial e contínua adequada à categoria profissional e respetiva função desempenhada ou a desempenhar, nomeadamente através do Centro de Competências de Envelhecimento Ativo e do CEIS - Centro para a Economia e Inovação Social, que asseguram formação a título gratuito.\n\n2 - A formação pode ser ministrada em contexto de trabalho.\n\n> Retificado pelo/a [Declaração de Retificação n.º 1/2024 - Diário da República n.º 9/2024, Série I de 2024-01-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-836495390), produz efeitos a partir de 2023-11-14\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  },
+  "836492854": {
+   "fragment_id": "224202296",
+   "type": 14,
+   "heading": "Anexo I — Áreas funcionais",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 1/2024 - Diário da República n.º 9/2024, Série I de 2024-01-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-836495390), produz efeitos a partir de 2023-11-14",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+   ],
+   "markdown": "## Anexo I — Áreas funcionais\n\nFicha 1 - Área de receção\n\n1.1 - Destina-se à receção, ao atendimento e espera.\n\n1.2 - A iluminação deve ser adequada para espaço de transição com o exterior, protegida das intempéries e permitir o fácil encaminhamento para os acessos verticais e horizontais do edifício.\n\n1.3 - A área a considerar depende diretamente da dimensão da estrutura residencial: área útil mínima: 9 m2.\n\n1.4 - Na proximidade desta área devem prever-se instalações sanitárias, separadas por sexo, e acessíveis a pessoas com mobilidade condicionada.\n\n1.5 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existir um espaço exclusivamente dedicado a receção.\n\nFicha 2 - Área de direção, serviços técnicos e administrativos\n\n2.1 - Destina-se a local de trabalho da direção do estabelecimento e do pessoal técnico e administrativo.\n\n2.2 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existir um gabinete administrativo e de serviços técnicos, desde que tal não afete a prestação de cuidados aos residentes e sejam garantidas as condições adequadas aos profissionais da instituição.\n\n2.3 - Deve localizar-se na proximidade da receção e incluir os seguintes espaços com as áreas úteis mínimas de:\n\na) Gabinete da direção: 10 m2;\n\nb) Gabinete(s) técnico(s): 2 m2/posto trabalho; área útil mínima: 10 m2;\n\nc) Gabinete(s) administrativo(s): 2 m2/posto trabalho; área útil mínima: 10 m2;\n\nd) Sala de reuniões, quando a capacidade for igual ou superior a 40 residentes: 10 m2;\n\ne) Instalação sanitária, que pode ser dispensada se houver outra na proximidade: 3 m2.\n\n2.4 - O gabinete administrativo poder ser dispensado desde que fiquem asseguradas as funções administrativas.\n\nFicha 3 - Área de instalações para os trabalhadores\n\n3.1 - Destina-se ao pessoal, e será localizada onde melhor se considerar, desde que se assegure o fácil acesso aos funcionários e não implique atravessamentos de circulações com outras áreas funcionais distintas.\n\n3.2 - Deve incluir os seguintes espaços:\n\na) Sala para os trabalhadores;\n\nb) Instalação sanitária.\n\n3.3 - (Revogado.)\n\n3.4 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existir sala para os trabalhadores.\n\nFicha 4 - Área de convívio e atividades\n\n4.1 - Destina-se a convívio, lazer e atividades a desenvolver pelos residentes.\n\n4.2 - Para atividades específicas, esta área deve estar apta ao uso de utensílios de trabalho, bem como ter as condições ambientais e de iluminação e de conforto necessárias.\n\n4.3 - (Revogado.)\n\n4.4 - (Revogado.)\n\n4.5 - Em edifícios a adaptar ou em estruturas residenciais com capacidade até 20 residentes, inclusive, podem existir salas que garantam simultaneamente zonas de estar e de refeição, observadas as áreas mínimas por residente bem como o percentual de utilização simultânea.\n\n4.6 - Os espaços de convívio e atividades no seu conjunto devem assegurar, em simultâneo, no mínimo, a utilização de 80 % dos residentes e área mínima de 2 m2/residente.\n\nFicha 5 - Área de refeições\n\n5.1 - Destina-se à tomada de refeições.\n\n5.2 - Esta área deve incluir os seguintes espaços com as áreas úteis mínimas:\n\na) Sala(s) de refeições: 2 m2/residente, para uma utilização simultânea, no mínimo de 80 % dos residentes, podendo distribuir-se por vários espaços e contabilizando-se os espaços de refeição exclusiva que possam existir em unidades de alojamento;\n\nb) Instalações sanitárias separadas por sexo, com uma cabine com sanita por cada 10 residentes e um lavatório por cada 10 residentes e, pelo menos uma delas, acessível a pessoas com mobilidade condicionada, com a área mínima de 4,84 m2;\n\nc) Nas ERPI com capacidade até 20 residentes, inclusive, são dispensadas as instalações sanitárias referidas na alínea anterior, quando a área de alojamento se localize no mesmo piso do edifício e na proximidade.\n\n5.3 - A sala de refeições não pode ser local de passagem para outras áreas funcionais e deve ter boas condições acústicas e ligação visual com o exterior.\n\n5.4 - As instalações sanitárias podem ser dispensadas desde que haja proximidade entre a sala de refeições e as instalações sanitárias previstas para a área de convívio e atividades.\n\n5.5 - Em edifícios a adaptar e nas ERPI com capacidade até 20 residentes, inclusive, pode existir uma sala comum que garanta simultaneamente zonas de estar e de refeição, nos termos definidos no ponto 4.5 da ficha 4.\n\nFicha 6 - Área de alojamento\n\n6.1 - Destina-se a descanso dos residentes e deve localizar-se em zona de acesso restrito.\n\n6.2 - Na modalidade de alojamento em tipologia habitacional:\n\n6.2.1 - Os apartamentos e ou moradias devem cumprir, no mínimo, as áreas estabelecidas no Regulamento Geral das Edificações Urbanas, devendo as áreas dos quartos respeitar o anexo ii da portaria.\n\n6.2.2 - (Revogado.)\n\n6.3 - Na modalidade de alojamento em quartos, estes devem estar agrupados de acordo com a estrutura do edifício, por forma a permitir um ambiente mais humanizado.\n\n6.3.1 - Os espaços a considerar com as áreas úteis mínimas, são:\n\na) Quarto individual: 10 m2. Pode ser utilizado como quarto de casal, devendo para esse efeito ter uma área útil mínima de 12 m2;\n\nb) Quarto duplo: 16 m2;\n\nc) Quarto triplo: 20,5 m2;\n\nd) Instalações sanitárias próprias, podendo servir, no máximo, quatro residentes, sendo de acesso privado ou localizando-se na proximidade dos quartos: 4,5 m2;\n\ne) Sala de estar com copa: 12 m2.\n\n6.3.2 - Deve existir um compartimento de sujos por cada piso da área de alojamento.\n\n6.3.3 - Os quartos podem ser individuais, duplos ou triplos, sendo que, pelo menos, 20 % devem corresponder a quartos individuais e, no máximo, 20 % a quartos triplos.\n\n6.3.4 - Deve prever-se entre camas um sistema amovível que garanta a privacidade dos residentes. As camas devem ser, preferencialmente, articuladas, tendo em conta situações de residentes com elevado grau de dependência.\n\n6.3.5 - Nos quartos individuais e/ou nos quartos duplos, podem ser autorizadas camas extra, desde que cumprida a área mínima de alojamento definida por utente nos termos previstos no n.º 2 do anexo ii, só podendo estas camas ser destinadas ao acolhimento de pessoas adultas com alta clínica e social, nos termos da legislação aplicável às altas hospitalares, devendo nestes casos, por razões excecionais e de força maior, ser atualizada a capacidade máxima do equipamento.\n\n6.3.6 - Caso a ERPI disponha de quarto ou quartos de isolamento, podem os mesmos ser utilizados para acolhimento de pessoas adultas com alta clínica e social, nos termos da legislação aplicável às altas hospitalares, devendo nestes casos, por razões excecionais e de força maior, ser atualizada a capacidade máxima do equipamento.\n\n6.3.7 - Nas ERPI com capacidade até 20 residentes, inclusive, é dispensado o compartimento de sujos referido no n.º 6.3.2 e devem possuir, no mínimo, um quarto individual e, no máximo, um quarto triplo, não se aplicando a percentagem estabelecida no n.º 6.3.3.\n\n6.4 - Deve existir banho geriátrico com a área útil mínima de 10 m2 quando a capacidade da estrutura residencial for superior a 20 residentes.\n\n6.5 - A sala de estar com copa pode ser dispensada em unidades funcionais com capacidade até 20 residentes, inclusive.\n\n6.6 - (Revogado.)\n\nFicha 7 - Área de cozinha e lavandaria\n\n7.1 - Destina-se à preparação de refeições e ao tratamento de roupa.\n\n7.2 - A cozinha deve ser dimensionada ao número de refeições a confecionar ou servir e ser objeto de projeto específico para a instalação dos equipamentos de trabalho fixos e móveis, bem como dos aparelhos e máquinas necessários, sempre que a capacidade seja superior a 20 residentes.\n\n7.2.1 - Os espaços a considerar são:\n\na) Um espaço principal, organizado em três zonas: zona de higienização dos manipuladores de alimentos; zona de preparação de alimentos e zona de confeção de alimentos;\n\nb) Espaço complementar, integrado no espaço principal ou com comunicação direta com este, organizado em duas outras zonas: zona de lavagem de loiça e de utensílios de cozinha (também designada por copa suja) e zona de distribuição das refeições (também designada por copa limpa);\n\nc) Espaços anexos, compostos por despensa, compartimento de frio e compartimento do lixo.\n\n7.2.2 - A área mínima útil da cozinha é de 10 m2.\n\n7.2.3 - Caso a ERPI recorra à confeção de alimentos no exterior, a cozinha pode ser simplificada e possuir uma área mínima de 6 m2, devendo existir os espaços necessários para proceder, em condições de higiene e de bom funcionamento, à receção e armazenamento das refeições e ao seu aquecimento e respetiva distribuição.\n\n7.2.4 - Nas ERPI com capacidade até 20 residentes, inclusive, quando as refeições não sejam garantidas através de prestações externas, a cozinha deve possuir boas condições de higiene, ventilação e renovação do ar.\n\n7.3 - A lavandaria deve localizar-se junto ao acesso de serviços e deve ser dimensionada ao número de residentes.\n\n7.3.1 - Os espaços a considerar devem ter em conta depósito para receção da roupa suja, máquinas de lavar e secar roupa e locais para guardar a roupa lavada.\n\n7.3.2 - A área mínima útil da lavandaria é de 12 m2.\n\n7.3.3 - Nas ERPI com capacidade até 20 residentes, inclusive, a área mínima da lavandaria é de 6 m2.\n\n7.3.4 - Caso a ERPI recorra ao tratamento da roupa no exterior, não é necessário existir lavandaria.\n\nFicha 8 - Área de serviços de enfermagem\n\n8.1 - Destina-se à prestação de cuidados de enfermagem aos residentes, sendo, sempre que necessário, ocupada por médico assistente para atendimento dos residentes.\n\n8.2 - Esta área deve incluir:\n\na) Gabinete de enfermagem, com lavatório e marquesa, com a área útil mínima de 12 m2;\n\nb) Instalação sanitária afeta ao gabinete de enfermagem: 3,5 m2, caso não exista outra na proximidade.\n\n8.3 - As ERPI com capacidade até 20 residentes, inclusive, ficam dispensadas de ter um gabinete de enfermagem de utilização exclusiva.\n\nFicha 9 - Área de serviços de apoio\n\n9.1 - Destina-se à arrumação e armazenagem de equipamento, mobiliário, materiais e produtos necessários ao funcionamento da estrutura residencial.\n\n9.2 - Esta área deve incluir os seguintes espaços:\n\na) Arrecadações gerais;\n\nb) Arrecadações de géneros alimentícios;\n\nc) Arrecadações de equipamentos e produtos de higiene do ambiente.\n\n9.3 - Caso a ERPI recorra à confeção de alimentos no exterior não é necessário existir o espaço identificado na alínea b) do número anterior.\n\n9.4 - Nas ERPI com capacidade até 20 residentes, inclusive, não é necessário existirem áreas com a função exclusiva de apoio, desde que se encontrem asseguradas as necessidades de arrecadação e armazenamento de géneros alimentícios e de produtos de higiene.\n\n> Retificado pelo/a [Declaração de Retificação n.º 1/2024 - Diário da República n.º 9/2024, Série I de 2024-01-12](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/1-2024-836495390), produz efeitos a partir de 2023-11-14\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 349/2023 - Diário da República n.º 219/2023, Série I de 2023-11-13](https://diariodarepublica.pt/dr/detalhe/portaria/349-2023-224139049), em vigor a partir de 2023-11-14"
+  }
+ }
+}

@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:366407:por
+title: Decreto Regional n.º 26/79/A
+short_title: null
+summary: Estabelece medidas para a incentivação de certas actividades industriais
+jurisdiction: regional
+territory: acores
+document_type: decreto-regional
+document_type_label: Decreto Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 26/79/A
+official_date: null
+publication_date: '1979-12-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/1979, Série I de 1979-12-15
+  number: '288'
+  series: I
+  supplement: null
+  pages: 3233 - 3234
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/28800/32333234.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '366407'
+  dre_path: /dr/detalhe/decreto-regional/26-1979-366407
+  internal: pt:dre:366407:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/26-1979-366407
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regional/26-1979-366407
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-12-15T00:00:00Z'
+integrity:
+  source_sha256: 9df6ef8d464b6f3856e31cce09a967f854cd0ee8e452cf6183dba8a2c47b33b9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1979/DRE-1979-26-366407.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regional n.º 26/79/A
+
+As linhas oportunamente definidas nos planos da Região Autónoma dos Açores indicam a necessidade de um crescimento gradual do sector secundário, seja em termos de produto, seja em termos de ocupação da população activa.
+
+As características geo-humanas da Região apontam, de momento, para a incentivação de certas actividades industriais, nomeadamente assentes em estruturas familiares e cooperativas e, bem assim, implantadas em parcelas menos desenvolvidas do arquipélago.
+
+A conhecida timidez empresarial justifica o apoio financeiro do Governo, desde que subordinado ao contrôle político dos representantes eleitos pelo povo dos Açores.
+
+Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º
+
+(Acções e empreendimentos a apoiar)
+
+1 - O Governo Regional poderá prestar apoio financeiro directo a acções e empreendimentos que se enquadrem dentro das linhas gerais do fomento industrial mediante investimentos produtivos.
+
+2 - As acções e empreendimentos a que se refere o número anterior poderão respeitar a:
+
+a) Projectos de instalação, ampliação, reorganização e reconversão de unidades industriais, incluindo a respectiva execução;
+
+b) Aquisição de equipamento industrial.
+
+###### ARTIGO 2.º
+
+(Beneficiários e natureza dos apoios)
+
+1 - O apoio financeiro referido no artigo anterior será concedido a empresas, ou agrupamentos de empresas, tanto do sector privado como do cooperativo.
+
+2 - O apoio terá a natureza de empréstimo, sem juro, por tempo determinado e constituído contra a prestação de garantias, pessoais ou reais, consideradas idóneas pelo Governo Regional.
+
+###### ARTIGO 3.º
+
+(Limitações)
+
+1 - O montante anual dos empréstimos a conceder ao abrigo deste diploma será fixado no plano - cujos elementos anexos indicarão a respectiva distribuição subsectorial e por ilhas - e inscrito no orçamento regional.
+
+2 - Na eventual escolha a que tenha de se proceder, quanto aos beneficiários, será tida em conta a seguinte ordem de preferências:
+
+1.ª Empresas que exerçam a actividade a apoiar nas ilhas em que o sector secundário tenha percentualmente menor relevância, em termos de produto;
+
+2.ª Empresas familiares;
+
+3.ª Empresas cooperativas.
+
+3 - O apoio financeiro previsto no presente diploma não poderá exceder 30% do investimento total que o beneficiário se propuser realizar.
+
+4 - O reembolso deverá estar concluído no prazo máximo de sete anos, prorrogável até mais três anos, sob pedido fundamentado do beneficiário que seja julgado aceitável.
+
+###### ARTIGO 4.º
+
+(Condições gerais para a concessão dos apoios)
+
+Os empréstimos a que se refere o presente diploma só poderão ser concedidos para o financiamento de actividades industriais exercidas na Região que:
+
+a) Aproveitem relevantemente matéria-prima com origem no sector primário regional ou se justifiquem pela localização geográfica do arquipélago;
+
+b) Produzam bens com valor acrescentado regional superior a 50%;
+
+c) Utilizem equipamento ou serviços nacionais, de preferência a estrangeiros, em iguais condições de competitividade.
+
+###### ARTIGO 5.º
+
+(Início do processo)
+
+1 - Os pedidos de apoio financeiro previstos no presente diploma serão formulados em requerimento fundamentado, dirigido ao Secretário Regional do Comércio e Indústria.
+
+2 - Os requerimentos deverão ser entregues até ao dia 30 de Junho de cada ano na Direcção Regional da Indústria, em Ponta Delgada, podendo sê-lo também nas delegações da Secretaria Regional do Comércio e Indústria, nos municípios onde as mesmas funcionarem ou nas secretarias das câmaras municipais, nos demais casos, sempre em conformidade com o domicílio do requerente, se o mesmo se situar na Região.
+
+3 - Do requerimento e documentos que o instruírem será passado recibo, devendo tudo ser remetido imediatamente, se for caso disso, à Direcção Regional da Indústria.
+
+###### ARTIGO 6.º
+
+(Instrução do requerimento)
+
+O requerimento deverá ser acompanhado de documentação, a estabelecer por via regulamentar, que inclua:
+
+a) Elementos demonstrativos de que o funcionamento se destina a acção ou empreendimento de interesse regional, nos termos do presente diploma;
+
+b) Elementos demonstrativos da viabilidade da acção ou empreendimento a financiar;
+
+c) Elementos demonstrativos de que o financiamento se destina a actividades de uma empresa em situação financeira merecedora de crédito;
+
+d) Garantias oferecidas ao Governo Regional, com os elementos necessários à verificação da respectiva consistência, incluindo, quanto às prestadas por terceiros, declaração de anuência por parte dos eventuais garantes.
+
+###### ARTIGO 7.º
+
+(Apreciação da pretensão)
+
+1 - A Direcção Regional da Indústria analisará e remeterá os processos, com a sua informação, ao Secretário Regional do Comércio e Indústria.
+
+2 - O Secretário Regional do Comércio e Indústria pode mandar suprir as deficiências eventualmente verificadas na instrução dos requerimentos.
+
+###### ARTIGO 8.º
+
+(Verificação da conformidade com o Plano)
+
+1 - O Secretário Regional do Comércio e Indústria, concluído o processo, enviá-lo-á para parecer, e pelos canais competentes, ao Departamento Regional de Estudos e Planeamento (DREPA).
+
+2 - Recebido o parecer, o Secretário Regional do Comércio e Indústria poderá ainda mandar obter do requerente elementos adicionais, posto o que elaborará a sua proposta com vista à decisão do pedido.
+
+###### ARTIGO 9.º
+
+(Decisão sobre o requerimento)
+
+1 - A decisão sobre o apoio financeiro solicitado nos termos do presente diploma é da competência do Governo Regional, mediante proposta do Secretário Regional do Comércio e Indústria.
+
+2 - A decisão fixará as condições do apoio financeiro a prestar.
+
+3 - As resoluções do plenário serão comunicadas ao requerente e publicadas no Jornal Oficial da Região até 30 de Setembro de cada ano.
+
+###### ARTIGO 10.º
+
+(Efectivação do financiamento)
+
+1 - Aprovado o plano anual, se o mesmo não contrariar a decisão sobre o financiamento, será o mesmo efectivado.
+
+2 - O contrato de financiamento será formalizado pelos meios notariais competentes entre um representante do Governo Regional e o requerente ou mandatário seu.
+
+###### ARTIGO 11.º
+
+(«Contrôle»)
+
+1 - Durante o período da vigência do contrato, a Direcção Regional da Indústria supervisará o cumprimento do financiamento, sendo-lhe lícito inspeccionar o empreendimento e a escrita do beneficiário.
+
+2 - O incumprimento das cláusulas do financiamento, bem como a verificação das demais condições que, nos termos gerais do direito, podem levar à exigência antecipada do cumprimento das obrigações, facultarão ao Governo Regional a rescisão do contrato.
+
+###### ARTIGO 12.º
+
+(Regulamentação)
+
+1 - O Governo Regional publicará os regulamentos necessários à boa execução do presente diploma.
+
+2 - A regulamentação pode incluir a delegação num membro do Governo para decisão das dúvidas suscitadas no entendimento daquela.
+
+###### ARTIGO 13.º
+
+(Disposições transitórias)
+
+Para o ano de 1980 será observado o seguinte calendário, a partir da regulamentação deste diploma:
+
+a) Apresentação de requerimentos, dentro dos sessenta dias posteriores;
+
+b) Efectivação dos financiamentos, dentro dos cento e cinquenta dias posteriores.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 7 de Novembro de 1979.
+
+**O Presidente da Assembleia Regional dos Açores, Álvaro Monjardino.**
+
+**Assinado em Angra do Heroísmo em 3 de Dezembro de 1979.**
+
+**Publique-se.**
+
+**O Ministro da República, Henrique Afonso da Silva Horta.**

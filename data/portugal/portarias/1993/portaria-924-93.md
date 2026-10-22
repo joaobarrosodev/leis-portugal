@@ -1,0 +1,298 @@
+---
+schema_version: '1.0'
+id: pt:dre:655896:por
+title: Portaria n.º 924/93
+short_title: null
+summary: Autoriza o Instituto Politécnico de Viseu, através da sua Escola Superior de Educação, a conferir o diploma de estudos
+  superiores especializados em Museologia e Gestão e regula o respectivo curso e condições de acesso
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 924/93
+official_date: null
+publication_date: '1993-09-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 223/1993, Série I-B de 1993-09-22
+  number: '223'
+  series: I
+  supplement: null
+  pages: 5214 - 5217
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/09/223b00/52145217.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/924/1993/09/22/p/dre/pt/html
+  oj: null
+  dre: '655896'
+  dre_path: /dr/detalhe/portaria/924-1993-655896
+  internal: pt:dre:655896:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/924-1993-655896
+  metadata_url: https://data.dre.pt/eli/port/924/1993/09/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/924-1993-655896
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-09-22T00:00:00Z'
+integrity:
+  source_sha256: 79d9f19c34e61e851fe967d1519825e13391229b865dc4b3f3010aee4010ace9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-924-655896.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano de Estudos
+- Curso de Estudos Superiores Especializados em Museologia e Gestão
+- Ensino Superior Politécnico
+- Escola Superior de Educação
+- Instituto Politécnico
+- Viseu
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 924/93
+
+de 22 de Setembro
+
+Sob proposta das comissões instaladoras do Instituto Politécnico de Viseu e da sua Escola Superior de Educação;
+
+Considerando o disposto no artigo 13.º e no n.º 2 do artigo 33.º da Lei de Bases do Sistema Educativo ([Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro);
+
+Ao abrigo do disposto na [Lei n.º 54/90](https://diariodarepublica.pt/dr/detalhe/lei/54-1990-556606), de 5 de Setembro, e no capítulo III do [Decreto-Lei n.º 316/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/316-1983-453184), de 2 de Julho:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Criação
+
+O Instituto Politécnico de Viseu, através da sua Escola Superior de Educação, confere o diploma de estudos superiores especializados em Museologia e Gestão, ministrando, em consequência, o respectivo curso.
+
+2.º
+
+Objectivo
+
+O curso de estudos superiores especializados em Museologia e Gestão tem como objectivo a formação de técnicos de museu e gestores autárquicos com funções de estudo e aplicação de métodos e processos de natureza técnica com autonomia e responsabilidade, enquadrados em planificação estabelecida, requerendo uma especialização e conhecimentos profissionais adquiridos, onde vierem a exercer a sua actividade.
+
+3.º
+
+Habilitações de acesso
+
+Podem candidatar-se à matrícula e inscrição no curso os candidatos que satisfaçam a seguinte condição:
+
+Serem titulares do grau de bacharel ou de licenciado.
+
+4.º
+
+Limitações quantitativas
+
+A matrícula e inscrição no curso está sujeita a limitações quantitativas, a fixar anualmente por portaria do Ministro da Educação, sob proposta da comissão instaladora do Instituto Politécnico de Viseu.
+
+5.º
+
+Contingentes
+
+1 - As vagas fixadas, em número de 50, nos termos do n.º 4.º serão distribuídas pelos seguintes contingentes:
+
+a) Para o pessoal de carreira técnica dos museus;
+
+b) Para o pessoal de carreira técnica da administração autárquica;
+
+c) Para os docentes dos vários níveis de ensino.
+
+2 - A percentagem de vagas a afectar a cada contingente e as regras da reversão de vagas, eventualmente não ocupadas, são fixadas nos termos do n.º 4.º
+
+6.º
+
+Supranumerários
+
+1 - Poderá ainda ser criado um contingente especial, para além das vagas fixadas nos termos do n.º 4.º, destinado a estudantes nacionais das Repúblicas Popular de Angola, de Cabo Verde, da Guiné-Bissau, Popular de Moçambique e Democrática de São Tomé e Príncipe, desde que a sua candidatura seja apresentada previamente pela via diplomática, através do Núcleo de Acesso do Departamento do Ensino Superior, no âmbito dos acordos de cooperação firmados pelo Estado Português.
+
+2 - Os nacionais a que se refere o n.º 1 têm de satisfazer as condições de acesso fixadas no n.º 3.º e estarão sujeitos, se excederem o número de vagas fixadas, às regras de seriação fixadas pela presente portaria.
+
+3 - O número de vagas a afectar a este contingente será fixado pelo presidente da comissão instaladora do Instituto Politécnico de Viseu e não poderá ser superior a 20% das vagas fixadas nos termos do n.º 4.º
+
+7.º
+
+Concurso
+
+1 - A selecção dos candidatos admitidos à matrícula e inscrição no curso é feita através de um concurso documental de acesso.
+
+2 - O concurso é válido apenas para o ano a que se destina.
+
+8.º
+
+Regras e critérios de selecção e seriação
+
+1 - As regras e os critérios de selecção e seriação dos candidatos serão fixados pela comissão instaladora da Escola Superior de Educação, sob proposta do conselho científico, e divulgados através do edital previsto no n.º 2 do n.º 10.º
+
+2 - A selecção e seriação dos candidatos poderá incluir a realização de provas de avaliação em domínios considerados necessários ao ingresso no curso, bem como a realização de entrevistas.
+
+9.º
+
+Júri
+
+1 - As operações referentes ao processo de candidatura ao curso serão realizadas por um júri constituído por professores da Escola Superior de Educação do Instituto Politécnico de Viseu, nomeado pela comissão instaladora da Escola, sob proposta do conselho científico.
+
+2 - A deliberação final do júri está sujeita a homologação da comissão instaladora da Escola Superior de Educação.
+
+10.º
+
+Candidatura
+
+1 - A candidatura à matrícula e inscrição é formulada em requerimento dirigido ao presidente da comissão instaladora da Escola Superior de Educação.
+
+2 - Os elementos a mencionar obrigatoriamente no requerimento, bem como os critérios de selecção e seriação a que se refere o n.º 1 do n.º 8.º, constarão de edital da comissão instaladora da Escola Superior de Educação.
+
+3 - O requerimento poderá ser substituído por impressos de modelo a fixar pela comissão instaladora da Escola Superior de Educação de Viseu.
+
+11.º
+
+Resultados da selecção e seriação
+
+Os resultados do processo de selecção e seriação serão tornados públicos através de edital, donde conste:
+
+a) A lista dos candidatos não seleccionados;
+
+b) A lista ordenada dos candidatos seleccionados, indicando:
+
+Os candidatos admitidos à matrícula e inscrição;
+
+Os candidatos não admitidos à matrícula e inscrição.
+
+12.º
+
+Reclamações
+
+1 - Do resultado final da candidatura, divulgado nos termos do n.º 11.º, poderão os candidatos apresentar reclamações, devidamente fundamentadas, no prazo fixado, dirigidas à comissão instaladora da Escola Superior de Educação.
+
+2 - As decisões sobre as reclamações são da competência da comissão instaladora da Escola Superior de Educação.
+
+3 - Serão liminarmente indeferidas as reclamações não fundamentadas, bem como as entregues fora do prazo.
+
+4 - Quando, na sequência do provimento de uma reclamação, um candidato não colocado venha a ficar situado na lista ordenada em posição de colocado, terá direito à colocação, mesmo que para tal seja necessário criar vaga adicional.
+
+5 - A rectificação da colocação abrange apenas o candidato cuja reclamação foi provida, não tendo qualquer efeito sobre os restantes candidatos, colocados ou não.
+
+13.º
+
+Matrículas e inscrições
+
+1 - Os candidatos admitidos deverão proceder à matrícula e inscrição no prazo fixado nos termos do n.º 11.º
+
+2 - Caso algum candidato admitido desista expressamente da matrícula e inscrição ou não compareça a realizar a mesma, a comissão instaladora da Escola Superior de Educação, no dia imediato ao do fim do prazo de matrícula e inscrição, através de carta registada com aviso de recepção, convocará para a inscrição o candidato seguinte na lista ordenada, até esgotar as vagas ou os candidatos.
+
+3 - Os candidatos a que se refere a parte final do n.º 2 terão um prazo improrrogável de três dias úteis após a recepção da notificação para procederem à sua matrícula e inscrição.
+
+4 - A decisão de admissão apenas tem efeito para o ano lectivo a que se refere.
+
+14.º
+
+Plano de estudos
+
+O plano de estudos do curso é o fixado em anexo à presente portaria.
+
+15.º
+
+Trabalho de fim de curso
+
+1 - No decurso do último semestre curricular os alunos realizarão um trabalho de fim de curso.
+
+2 - O trabalho de fim de curso tem como objectivo comprovar a capacidade adquirida no domínio da síntese, integração e aplicação dos conhecimentos adquiridos ao longo do curso, bem como a capacidade de organizar uma investigação.
+
+3 - A realização e a avaliação do trabalho de fim de curso obedecerão a regulamento, a aprovar pelo conselho científico.
+
+4 - O regulamento a que se refere o n.º 3 será sujeito a homologação da comissão instaladora da Escola Superior de Educação.
+
+16.º
+
+Duração
+
+A duração do curso é de quatro semestres lectivos.
+
+17.º
+
+Regimes escolares
+
+Os regimes de inscrição (incluindo o de prescrição do direito de inscrição e o das condições de reingresso), frequência, avaliação de conhecimentos, transição de ano e de precedências são fixados pela Escola, através do seu órgão competente.
+
+18.º
+
+Condições para obtenção do grau
+
+São condições para a obtenção do diploma de estudos superiores especializados, cumulativamente:
+
+a) A aprovação na totalidade das unidades curriculares que integram o plano de estudos a que se refere o n.º 14.º;
+
+b) A realização, com aproveitamento, do trabalho de fim de curso a que se refere o n.º 15.º
+
+19.º
+
+Classificação final do curso
+
+1 - A classificação final do curso é a média aritmética ponderada, arredondada às unidades (considerando como unidade a fracção não inferior a cinco décimas), das classificações obtidas pelo aluno nas unidades curriculares que integram o respectivo plano de estudos e no trabalho de fim de curso.
+
+2 - Os coeficientes de ponderação serão aprovados pelo conselho científico, ouvido o conselho pedagógico.
+
+20.º
+
+Prazos
+
+Os prazos para a candidatura, selecção, matrícula e inscrição serão fixados anualmente por despacho do presidente da comissão instaladora do Instituto Politécnico de Viseu, sob proposta da comissão instaladora da Escola Superior de Educação.
+
+21.º
+
+Mudança de curso e transferência
+
+Ao curso regulamentado pela presente portaria não são aplicáveis os regimes de mudança de curso e de transferência.
+
+22.º
+
+Entrada em funcionamento
+
+O curso entrará em funcionamento no ano lectivo de 1993-1994, por despacho do Ministro da Educação, na sequência de relatório da comissão instaladora do Instituto Politécnico de Viseu demonstrativo da existência de recursos humanos e materiais mínimos à sua concretização.
+
+Ministério da Educação.
+
+**Assinada em 17 de Agosto de 1993.**
+
+**O Ministro da Educação, António Fernando Couto dos Santos.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1993/09/223b00/52145217.pdf))](https://files.diariodarepublica.pt/1s/1993/09/223b00/52145217.pdf)

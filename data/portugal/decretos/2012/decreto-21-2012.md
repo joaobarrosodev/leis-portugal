@@ -1,0 +1,334 @@
+---
+schema_version: '1.0'
+id: pt:dre:175360:por
+title: Decreto n.º 21/2012
+short_title: null
+summary: Aprova o Acordo de Cooperação Turística entre a República Portuguesa e a República Argentina, assinado em Lisboa,
+  em 16 de novembro de 2001
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 21/2012
+official_date: null
+publication_date: '2012-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/2012, Série I de 2012-08-20
+  number: '160'
+  series: I
+  supplement: null
+  pages: 4583 - 4586
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/21/2012/08/20/p/dre/pt/html
+  oj: null
+  dre: '175360'
+  dre_path: /dr/detalhe/decreto/21-2012-175360
+  internal: pt:dre:175360:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-2012-175360
+  metadata_url: https://data.dre.pt/eli/dec/21/2012/08/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/21-2012-175360
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-08-20T00:00:00Z'
+integrity:
+  source_sha256: f5684853f95d0e384573cf0173a3054e505f6af5e36eb4d54260a1ad85ccbcbf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-21-175360.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Turismo
+- Comissão Mista
+- Convenção
+- Portugal
+- Região de Turismo
+- Lisboa
+- Argentina
+- Cooperação Cultural
+relationships: []
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 21/2012
+
+de 20 de agosto
+
+A República Portuguesa e a República Argentina têm vindo a promover um aprofundamento das suas relações bilaterais, que se traduz na intensificação do diálogo em diversas áreas de interesse comum.
+
+O Acordo de Cooperação Turística entre a República Portuguesa e a República Argentina, assinado em Lisboa, em 16 de novembro de 2001, é mais um exemplo dessa cooperação, tendo por objeto a promoção e o aprofundamento da cooperação entre Portugal e a Argentina na área do turismo.
+
+Conscientes do contributo do presente Acordo para o seu enriquecimento económico, cultural e social, Portugal e a Argentina concordam em desenvolver a promoção turística, a cooperação institucional e empresarial e o intercâmbio de informações e de experiências numa área de inegável interesse para os dois Estados, com base nos princípios da igualdade de direitos e benefício mútuo.
+
+Assim:
+
+Nos termos da alínea c) do n.º 1 do artigo 197.º da Constituição, o Governo aprova o Acordo de Cooperação Turística entre a República Portuguesa e a República Argentina, assinado em Lisboa, a 16 de novembro de 2001, cujo texto, nas versões autenticadas nas línguas portuguesa e castelhana, se publica em anexo.
+
+Visto e aprovado em Conselho de Ministros de 12 de julho de 2012. - Pedro Passos Coelho - José de Almeida Cesário - Álvaro Santos Pereira.
+
+**Assinado em 26 de julho de 2012.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 27 de julho de 2012.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+ACORDO DE COOPERAÇÃO TURÍSTICA ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA ARGENTINA
+
+A República Portuguesa e a República da Argentina, adiante chamadas «Partes»:
+
+Tendo em conta os tradicionais laços de amizade e cooperação existentes entre ambos os Países;
+
+Reconhecendo a importância que o Turismo tem no desenvolvimento da economia, ao criar investimentos e emprego, e no fortalecimento das relações entre ambos os Países;
+
+Tomando como base a plena igualdade de direitos e o benefício mútuo;
+
+Tendo em conta a legislação interna de cada uma das Partes;
+
+acordam o seguinte:
+
+###### Artigo 1.º — Objecto
+
+As Partes dedicarão especial atenção ao desenvolvimento das relações turísticas actualmente existentes entre ambos os Estados como meio de fortalecer as suas respectivas economias e facilitar a cooperação interempresarial em matéria turística.
+
+###### Artigo 2.º — Acções de Cooperação
+
+As Partes apoiarão a cooperação, quer a nível governamental quer a nível empresarial, e facilitarão o intercâmbio de peritos em promoção e comercialização turística, em concepção de produtos turísticos, assim como em planeamento e desenvolvimento de zonas turísticas. Com este fim, as Partes favorecerão, na medida das suas possibilidades, o intercâmbio de missões técnicas de diagnóstico e de missões empresariais para a avaliação de oportunidades de negócios e realização de investimentos turísticos.
+
+###### Artigo 3.º — Intercâmbio de Informação
+
+As Partes favorecerão o intercâmbio de informação e experiências sobre programas de qualidade, desenvolvimento sustentável, inovação tecnológica, programas de gestão de áreas protegidas e outros considerados de interesse.
+
+###### Artigo 4.º — Articulação do Desenvolvimento Turístico
+
+As Partes promoverão:
+
+a) A troca de informação sobre programas de desenvolvimento turístico que realizem nos seus países, assim como sobre os fundos de financiamento nacional e internacional que possam ser aplicados a estes programas;
+
+b) O intercâmbio de peritos no domínio jurídico e organizativo relacionados com o sector turístico, especialmente no que se refere às novas formas de alojamento;
+
+c) A cooperação no domínio da recuperação de edifícios históricos com fins turísticos.
+
+###### Artigo 5.º — Investimentos
+
+As Partes promoverão e facilitarão, de acordo com as suas possibilidades e interesses, os investimentos de capitais portugueses e argentinos ou conjuntos.
+
+Em conformidade com as respectivas legislações nacionais, cooperarão neste domínio, segundo as seguintes actividades conjuntas:
+
+a) Identificação, promoção e difusão de oportunidades e de projectos de interesse mútuo susceptíveis de serem apresentados às instituições financeiras de cada país;
+
+b) Estímulo e apoio ao estudo e realização de investimentos conjuntos em mercados terceiros.
+
+###### Artigo 6.º — Promoção
+
+As Partes estudarão a possibilidade de realizar actividades de promoção turística com a finalidade de incrementar o intercâmbio turístico entre ambos os Estados. Comprometem-se também a cooperar na participação de programas de carácter cultural, recreativo e desportivo, na organização de feiras e exposições, seminários, congressos, conferências e festivais organizados por cada um dos países.
+
+###### Artigo 7.º — Cooperação Empresarial
+
+As Partes promoverão a realização de encontros de pequenas e médias empresas portuguesas e argentinas com o fim de incrementar experiências, desenvolver actividades de complementaridade recíproca e o desenvolvimento de iniciativas conjuntas.
+
+###### Artigo 8.º — Formação Profissional
+
+As Partes comprometem-se a promover o intercâmbio e actualizar informação acerca de:
+
+a) Sistemas e métodos de formação de recursos humanos em turismo;
+
+b) Bolsas de estudo para formadores e estudantes;
+
+c) Conteúdos mínimos dos programas de ensino nos diversos sectores que formam o turismo.
+
+###### Artigo 9.º — Cooperação Regional
+
+As Partes organizarão o intercâmbio de informação e experiências sobre os processos de integração regional em que tomem parte e comprometem-se a realizar programas, acções e mecanismos de financiamento para o desenvolvimento de novas tecnologias no domínio do turismo.
+
+###### Artigo 10.º — Comissão Mista
+
+As Partes decidem formar uma Comissão Mista de Cooperação Turística, com vista à execução e seguimento das acções previstas no presente Acordo, que será integrada por representantes dos Organismos Nacionais de Turismo, cujas designações serão comunicadas à outra Parte por via diplomática. Esta Comissão reunirá, pelo menos, uma vez por ano, alternadamente, num e noutro País.
+
+###### Artigo 11.º — Solução de Controvérsias
+
+Qualquer controvérsia relacionada com a interpretação e aplicação dos artigos que formam parte do presente Acordo solucionar-se-á de maneira amistosa através de consultas e negociações directas entre as Partes.
+
+###### Artigo 12.º — Vigência
+
+O Presente Acordo terá uma duração de cinco (5) anos, podendo ser prorrogado automaticamente por períodos de igual duração, salvo denúncia de qualquer das Partes, efectuada por via diplomática com seis (6) meses de antecedência.
+
+A cessação do Presente Acordo não afectará o prazo de vigência dos programas e projectos em execução que foram acordados durante a sua vigência.
+
+###### Artigo 13.º — Entrada em Vigor
+
+O Presente Acordo entrará em vigor na data da última notificação pela qual cada uma das Partes comunique à outra o cumprimento dos respectivos requisitos internos necessários para a sua entrada em vigor.
+
+Feito em Lisboa, aos 16 dias do mês de Novembro de 2001 em dois originais, nos idiomas português e castelhano, sendo ambos os textos igualmente autênticos.
+
+Pela República Portuguesa:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
+
+Pela República Argentina:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
+
+ACUERDO DE COOPERACIÓN TURÍSTICA ENTRE LA REPÚBLICA PORTUGUESA Y LA REPÚBLICA ARGENTINA
+
+La República Argentina y la República de Portugal, en adelante denominadas «las Partes»:
+
+Teniendo en cuenta los tradicionales lazos de amistad y cooperación existentes entre ambos Países;
+
+Reconociendo la importancia que el turismo posee en el desarrollo de la economía, en la generación de inversiones y empleo y en el fortalecimiento de las relaciones entre ambos Países;
+
+Tomando como base la plena igualdad de los derechos y el beneficio mutuo;
+
+Teniendo en cuenta la legislación interna de cada una de las Partes;
+
+acuerdan lo siguiente:
+
+Articulo 1
+
+Objeto
+
+Las Partes dedicarán especial atención al desarrollo de las relaciones turísticas actualmente existentes entre ambos Estados como medio para fortalecer sus respectivas economías y facilitar la cooperación interempresarial en materia turística.
+
+Articulo 2
+
+Acción de cooperación
+
+Las Partes apoyarán la cooperación, tanto a nivel gubernamental como empresarial, y facilitarán el intercambio de expertos en promoción y comercialización turística, en diseño de productos turísticos así como en planificación y desarrollo de zonas turísticas. Con este fin las Partes favorecerán, en la medida de sus posibilidades, el intercambio de misiones técnicas de diagnóstico y de misiones empresariales para la evaluación de oportunidades de negocios y realización de inversiones turísticas.
+
+Articulo 3
+
+Intercambio de información
+
+Las Partes favorecerán el intercambio de información y experiencias en programas de calidad, desarrollo sostenible, innovación tecnológica, programas de manejo de áreas protegidas y otros considerados de interés.
+
+Articulo 4
+
+Articulación del desarrollo turístico
+
+Las Partes promoverán:
+
+a) El intercambio de información sobre programas de desarrollo turístico que realicen en sus países, así como sobre los fondos de financiación nacional e internacional que puedan ser aplicados a estos programas;
+
+b) El intercambio de expertos en materias jurídicas y organizativas relacionadas con el sector turístico, especialmente las referidas a las nuevas formas de alojamiento;
+
+c) La cooperación en materia de recuperación de edificios históricos con fines turísticos.
+
+Articulo 5
+
+Inversiones
+
+Las Partes promoverán y facilitarán, de acuerdo a sus posibilidades, las inversiones de capitales argentinos, portugueses o conjuntos.
+
+De conformidad con las respectivas legislaciones nacionales, cooperarán en esta materia, mediante las siguientes actividades conjuntas:
+
+a) Identificación, promoción y difusión de oportunidades y de proyectos de interés mutuo susceptibles de ser presentados a las instituciones financieras de cada país;
+
+b) Estímulo y apoyo al estudio y realización de inversiones conjuntas en terceros mercados.
+
+Articulo 6
+
+Promoción
+
+Las Partes estudiarán la posibilidad de realizar actividades de promoción turística con el fin de incrementar el intercambio turístico entre ambos Estados. Se comprometen también a cooperar en la participación de programas cuyas actividades se refieran a manifestaciones turísticas, culturales, recreativas y deportivas; en la organización de ferias y exposiciones, seminarios, congresos, conferencias y festivales organizados por cada una de ellas.
+
+Articulo 7
+
+Cooperación empresarial
+
+Las Partes promoverán la realización de encuentros de pequeñas y medianas empresas argentinas y portuguesas con el fin de incrementar experiencias, desarrollar actividades de complementación recíproca e iniciativas conjuntas.
+
+Articulo 8
+
+Formación profesional
+
+Las Partes se comprometen a promover el intercambio y actualizar información acerca de:
+
+a) Sistemas y métodos de formación de recursos humanos en turismo;
+
+b) Becas para profesores y estudiantes;
+
+c) Contenidos mínimos de los programas de enseñanza de los diversos sectores que conforman el turismo.
+
+Articulo 9
+
+Cooperación regional
+
+Las Partes intercambiarán información y experiencias sobre los procesos de integración regional de los que sean parte y se comprometen a realizar programas, acciones y mecanismos de financiamiento para el desarrollo de nuevas tecnologías en el campo del turismo.
+
+Articulo 10
+
+Comisión mixta
+
+Las Partes deciden conformar una Comisión Mixta de Cooperación Turística, con el objeto de la ejecución y seguimiento de las acciones previstas en el presente Acuerdo. La Comisión Mixta estará integrada por representantes de los Organismos Nacionales de Turismo, cuyas designaciones serán comunicadas a la otra Parte por vía diplomática. Esta Comisión se reunirá al menos una vez al año alternadamente en uno y otro país.
+
+Articulo 11
+
+Solución de controversias
+
+Cualquier controversia relacionada con la interpretación y aplicación de los artículos que forman parte del presente Acuerdo se solucionará de manera amistosa a través de consultas y negociaciones directas entre las Partes.
+
+Articulo 12
+
+Vigencia
+
+El presente Acuerdo tendrá una duración de cinco (5) años pudiendo ser prorrogado automáticamente por períodos de igual duración, salvo denuncia de cualquiera de las Partes, efectuada por vía diplomática con seis (6) meses de anticipación.
+
+La denuncia del presente Acuerdo no afectará el plazo de vigencia de los programas y proyectos en ejecución que fueran acordados durante su vigencia.
+
+Articulo 13
+
+Entrada en vigor
+
+El presente Acuerdo entrará en vigor en la fecha de la última notificación por la que las Partes se comuniquen el cumplimiento de sus respectivos requisitos internos necesarios para su entrada en vigor.
+
+Hecho en Lisboa, a los 16 días del mes de noviembre de 2001, en dos originales en idiomas castellano y portugués siendo ambos igualmente auténticos.
+
+Por la República Portuguesa:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)
+
+Por la República Argentina:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf))](https://files.diariodarepublica.pt/1s/2012/08/16000/0458304586.pdf)

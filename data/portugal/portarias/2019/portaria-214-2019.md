@@ -1,0 +1,577 @@
+---
+schema_version: '1.0'
+id: pt:dre:122960401:por
+title: Portaria n.º 214/2019
+short_title: null
+summary: Portaria que define a medida de Apoio ao Regresso de Emigrantes a Portugal, no âmbito do Programa Regressar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Trabalho, Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 214/2019
+official_date: null
+publication_date: '2019-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/2019, Série I de 2019-07-05
+  number: '127'
+  series: I
+  supplement: null
+  pages: 3370 - 3373
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/07/12700/0337003373.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-10-08'
+version_history:
+  file: portaria-214-2019.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-10-16'
+    amending: pt:dre:125290656:por
+    amending_title: Portaria n.º 373/2019
+    changes:
+    - Altera Artigo 8.º
+  - date: '2020-02-04'
+    amending: pt:dre:128832423:por
+    amending_title: Portaria n.º 36-A/2020
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+  - date: '2021-01-29'
+    amending: pt:dre:155601285:por
+    amending_title: Portaria n.º 23/2021
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+  - date: '2023-05-03'
+    amending: pt:dre:212447684:por
+    amending_title: Portaria n.º 114/2023
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+  - date: '2025-10-08'
+    amending: pt:dre:938398658:por
+    amending_title: Portaria n.º 333/2025/1
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/214/2019/p/cons/20251007/pt/html
+  oj: null
+  dre: '122960401'
+  dre_path: /dr/detalhe/portaria/214-2019-122960401
+  internal: pt:dre:122960401:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/214-2019-122960401
+  metadata_url: https://data.dre.pt/eli/port/214/2019/p/cons/20251007/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-125371386
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-125371386
+  retrieved_at: '2026-10-22T12:29:30Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a30bb268d0b5dd6017ec8e47480bccf3946c34396bf5d0b132afda9566967261
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:29:30Z'
+  notes: 6 versão(ões); histórico completo em portaria-214-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Família
+- Instituto do Emprego e Formação Profissional
+- Comissão de Acompanhamento
+- Comissão Interministerial
+- Política de Família
+- Comparticipação do Estado
+- Portugal
+- Regulamentação de Atos Legislativos
+- Emigrante
+- Equipa de Missão
+- Subvenção Pública
+- Ministro das Finanças
+- IAS
+- Mobilidade Geográfica
+- Emigração
+- Qualificação Profissional
+- Emprego
+- Ministério dos Negócios Estrangeiros
+- Governo XXI
+- Ministério do Trabalho Solidariedade e Segurança Social
+- Programa Regressar
+relationships:
+- type: amended_by
+  target: pt:dre:125290656:por
+  label: Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/373-2019-125290656
+  date: '2019-10-15'
+- type: amended_by
+  target: pt:dre:128832423:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423
+  date: '2020-02-03'
+- type: amended_by
+  target: pt:dre:155601285:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285
+  date: '2021-01-28'
+- type: amended_by
+  target: pt:dre:212447684:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684
+  date: '2023-05-02'
+- type: amended_by
+  target: pt:dre:938398658:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/333-2025-938398658
+  date: '2025-10-07'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/113/2011/
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/113/2011/
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/13/2015/01/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/70/2010/06/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/2010/06/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declretif/15/2017/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declretif/15/2017/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/15/2011/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/15/2011/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/131/2017/04/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/131/2017/04/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/34/2017/01/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/34/2017/01/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/70/2019/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/70/2019/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/95/2019/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/95/2019/03/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/60/2019/03/28/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:29:30Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 214/2019
+
+Portaria n.º 214/2019
+
+de 5 de julho
+
+O XXI Governo Constitucional comprometeu-se, no seu Programa, a adotar uma política que favoreça o retorno dos emigrantes que foram, nos últimos anos, forçados a abandonar o país, nomeadamente através da adoção de medidas tendentes à eliminação de obstáculos ao regresso e à circulação de portugueses emigrados.
+
+O Programa Regressar, aprovado através da Resolução do Conselho de Ministros n.º 60/2019, de 28 de março, surge para dar cumprimento a este compromisso, constituindo-se enquanto um programa estratégico de apoio ao regresso para Portugal de trabalhadores que tenham emigrado, ou seus descendentes, e para fazer face às necessidades de mão-de-obra que hoje se fazem sentir nalguns setores da economia portuguesa, reforçando assim a criação de emprego, o pagamento de contribuições para a segurança social, o investimento e também o combate ao envelhecimento demográfico.
+
+O Governo considera ser de fundamental justiça que todos aqueles que, por uma ou por outra razão, tiveram de sair do país e que agora querem regressar, vejam asseguradas as condições de segurança, de estabilidade e de conforto no regresso a Portugal, e entende ser este o momento oportuno para reforçar os fatores de atratividade para que os trabalhadores portugueses a residir no estrangeiro ponderem regressar a Portugal. Pretende-se, assim, não só apoiar as empresas na supressão das suas necessidades de contratação através da criação de novos incentivos que reduzam os custos do regresso a Portugal e que facilitem a transição profissional e geográfica para os trabalhadores e para os seus agregados familiares, como também dar resposta ao desafio demográfico que o país atravessa.
+
+Neste âmbito, a mobilidade geográfica surge como uma das áreas estratégicas de intervenção em que assenta o Programa Regressar, comprometendo-se o Governo, neste domínio, a incentivar o regresso e a fixação de emigrantes em Portugal, através da implementação de uma medida de apoio financeiro a conceder aos emigrantes ou lusodescendentes que iniciem atividade laboral em Portugal continental, bem como da comparticipação nos custos da viagem para Portugal dos destinatários e respetivos membros do agregado familiar, nos custos de transporte de bens para Portugal e nos custos com o reconhecimento de qualificações académicas ou profissionais dos destinatários.
+
+A presente Portaria vem assim criar a medida de Apoio ao Regresso de Emigrantes a Portugal, que consiste num apoio direto a conceder ao destinatário que inicie atividade laboral em Portugal e num conjunto de apoios complementares na comparticipação das despesas com a viagem de regresso e transporte de bens, bem como de eventuais despesas com reconhecimento de qualificações académicas ou profissionais, e que integra ainda um incentivo financeiro adicional por cada elemento do agregado familiar do destinatário que fixe residência em Portugal.
+
+Foram ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social.
+
+Assim, ao abrigo do disposto no artigo 13.º e no n.º 1 do artigo 14.º do Decreto-Lei n.º 13/2015, de 26 de janeiro, da alínea d) do n.º 2 do artigo 6.º da Portaria n.º 34/2017, de 18 de janeiro, alterada pela Portaria n.º 95/2019, de 29 de março, e da alínea l) do n.º 1 do artigo 3.º da Portaria n.º 131/2017, de 7 de abril, retificada pela Declaração de Retificação n.º 15/2017, de 27 de abril, e alterada Portaria n.º 70/2019, de 27 de fevereiro, manda o Governo, pelo Secretário de Estado do Emprego, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria define a Medida de Apoio ao Regresso de Emigrantes a Portugal, no âmbito do Programa Regressar, criado através da Resolução do Conselho de Ministros n.º 60/2019, de 28 de março, alterada pela Resolução do Conselho de Ministros n.º 124/2020, de 31 de dezembro, adiante designada por 'Medida'.
+
+2 - A presente Medida consiste na atribuição de um apoio financeiro a conceder pelo Instituto do Emprego e da Formação Profissional, I. P., adiante designado por IEFP, I. P., aos emigrantes ou familiares de emigrantes que iniciem atividade laboral no território de Portugal continental, bem como na comparticipação das despesas inerentes ao seu regresso e do seu agregado familiar.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+###### Artigo 2.º — Objetivos
+
+A presente Medida tem como objetivo incentivar o regresso e a fixação de emigrantes ou familiares de emigrantes em Portugal, através de um apoio financeiro a conceder diretamente aos destinatários, bem como da comparticipação em custos de transporte de bens e nos custos de viagem dos destinatários e respetivos membros do agregado familiar, mediante o início de atividade laboral em Portugal continental.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+###### Artigo 3.º — Destinatários
+
+1 - São destinatários dos apoios previstos na presente medida os cidadãos que reúnam, cumulativamente, as seguintes condições:
+
+a) Iniciem atividade laboral em Portugal continental entre 1 de janeiro de 2019 e 31 de dezembro de 2025;
+
+b) Sejam emigrantes que tenham saído de Portugal há pelo menos três anos em relação à data de início da atividade laboral objeto de candidatura;
+
+c) Tenham a respetiva situação contributiva e tributária regularizada;
+
+d) Não se encontrem em situação de incumprimento no que respeita a apoios financeiros concedidos pelo IEFP, I. P.
+
+2 - São igualmente destinatários da presente medida os familiares dos emigrantes referidos na alínea b) do número anterior, desde que reúnam as condições previstas nas alíneas a) e c) do número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 333/2025/1 - Diário da República n.º 193/2025, Série I de 2025-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/333-2025-938398658), em vigor a partir de 2025-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+###### Artigo 4.º — Requisitos dos destinatários
+
+1 - Para efeitos da alínea a) do n.º 1 do artigo anterior, são elegíveis as seguintes modalidades de atividade laboral:
+
+a) Contratos de trabalho que reúnam os seguintes requisitos:
+
+i) Tenham início entre 1 de janeiro de 2019 e 31 de dezembro de 2025;
+
+ii) Garantam a observância do previsto em termos de retribuição mínima mensal garantida e, quando aplicável, do respetivo instrumento de regulamentação coletiva de trabalho, nomeadamente na determinação da remuneração prevista no contrato de trabalho, bem como das restantes condições laborais exigíveis por lei;
+
+iii) Sejam celebrados a tempo completo ou parcial;
+
+b) Criação de empresas ou do próprio emprego em Portugal continental, com início entre 1 de janeiro de 2019 e 31 de dezembro de 2025, e que se enquadre numa das seguintes formas:
+
+i) Desenvolvimento de atividade como trabalhador independente, com rendimentos comerciais ou profissionais;
+
+ii) Constituição de entidades privadas com fins lucrativos, independentemente da respetiva forma jurídica;
+
+iii) Constituição de cooperativas;
+
+iv) Aquisição e cessão de estabelecimento, ou a aquisição de capital social de empresa preexistente, que decorra de aumento do capital social.
+
+c) Contratos de bolsa celebrados ao abrigo da Lei n.º 40/2004, de 18 de agosto, na sua redação atual.
+
+2 - Para efeitos do disposto na alínea a) do número anterior, são elegíveis as seguintes modalidades de contrato de trabalho:
+
+a) Contratos de trabalho por tempo indeterminado;
+
+b) Contratos de trabalho a termo resolutivo certo com duração inicial igual ou superior a 12 meses;
+
+c) Contratos de trabalho a termo resolutivo incerto com duração previsível igual ou superior a 12 meses.
+
+3 - Para efeitos da alínea b) do n.º 1 do artigo anterior, considera-se emigrante o cidadão nacional que tenha residido durante, pelo menos, 12 meses, com caráter permanente, em país estrangeiro.
+
+4 - Para efeitos do n.º 2 do artigo anterior, considera-se familiar de emigrante o cônjuge ou equiparado, o parente ou afim até ao 2.º grau da linha reta e até ao 3.º grau da linha colateral que tenha residido em país estrangeiro, por período não inferior a 12 meses.
+
+5 - Não são elegíveis contratos de trabalho celebrados com entidades que não possuam atividade registada em Portugal continental, nem contratos de trabalho que digam respeito a situações de regresso de trabalhador destacado para o estrangeiro, excetuando-se, no primeiro caso, as situações em que o local de trabalho contratualmente definido ou a atividade profissional desenvolvida por conta própria se situe em território do interior, de acordo com a delimitação definida pela Portaria n.º 208/2017, de 13 de julho.
+
+6 - Sem prejuízo do disposto no n.º 4, sempre que o local de trabalho contratualmente definido ou a atividade profissional desenvolvida por conta própria se situe em território do interior, de acordo com a delimitação definida pela Portaria n.º 208/2017, de 13 de julho, considera-se familiar de emigrante o parente ou afim em qualquer grau da linha reta.
+
+7 - Para efeitos do disposto na alínea b) do n.º 1, o destinatário deve criar, pelo menos, o respetivo posto de trabalho a tempo completo.
+
+8 - Nas situações previstas nas subalíneas ii), iii) e iv) da alínea b) do n.º 1, o destinatário deve possuir mais de 50 % do capital social e dos direitos de voto, nos casos aplicáveis.
+
+9 - Para efeitos do disposto na subalínea iv) da alínea b) do n.º 1, a empresa transmitente ou cedente do estabelecimento e a empresa cujo capital social é adquirido não podem ser detidas em 25 % ou mais por cônjuge, unido de facto ou familiar do destinatário até ao 2.º grau da linha reta ou colateral, nem detidas em 25 % ou mais por outra empresa na qual os mesmos detenham 25 % ou mais do respetivo capital.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 333/2025/1 - Diário da República n.º 193/2025, Série I de 2025-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/333-2025-938398658), em vigor a partir de 2025-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+###### Artigo 5.º — Apoios financeiros
+
+1 - Os destinatários referidos no artigo 3.º, que reúnam comprovadamente os requisitos elencados no artigo 4.º, têm direito a um apoio financeiro no valor de:
+
+a) Sete vezes o valor do Indexante de Apoios Sociais (IAS), quando se trate de contratos de trabalho por tempo indeterminado ou quando se trate de criação de empresas ou do próprio emprego;
+
+b) Cinco vezes o valor do Indexante de Apoios Sociais (IAS), quando se trate de contrato de trabalho a termo resolutivo certo com duração inicial igual ou superior a 12 meses ou de contrato de trabalho a termo resolutivo incerto com duração previsível igual ou superior a 12 meses.
+
+2 - Tendo por base um período normal de trabalho de 40 horas semanais, o apoio financeiro previsto no número anterior é reduzido na devida proporção caso a atividade seja desenvolvida a tempo parcial.
+
+3 - (Revogado.)
+
+4 - Ao apoio financeiro previsto no n.º 1 podem acrescer os seguintes apoios complementares:
+
+a) Comparticipação dos custos da viagem para Portugal do destinatário e restantes membros do agregado familiar, com o limite máximo de três vezes o valor do IAS, nos seguintes valores:
+
+i) Montante fixo de 0,75 do valor do IAS, por cada membro do agregado familiar que regresse, para viagens com origem em país da Europa;
+
+ii) Montante fixo de 1,25 do valor do IAS, por cada membro do agregado familiar que regresse, para viagens com origem em país fora da Europa;
+
+b) Comparticipação dos custos de transporte de bens para Portugal no montante fixo de três vezes o valor do IAS, por agregado familiar;
+
+c) Comparticipação dos custos com o reconhecimento, em Portugal, de qualificações académicas ou profissionais do destinatário, com o limite de uma vez e meia o valor do IAS, mediante a apresentação de comprovativo de despesa.
+
+5 - O apoio financeiro previsto no n.º 1 é majorado em 20 % por cada elemento do agregado familiar do destinatário que fixe residência em Portugal, até um limite de três vezes o valor do IAS.
+
+6 - O apoio financeiro previsto no n.º 1 é majorado em 25 % sempre que o local de trabalho contratualmente definido ou a atividade profissional desenvolvida por conta própria se situe em território do Interior, de acordo com a delimitação definida pela Portaria n.º 208/2017, de 13 de julho.
+
+7 - Os apoios previstos nas alíneas a) e b) do n.º 4, bem como a majoração prevista no n.º 5, só são aplicáveis uma vez por agregado familiar.
+
+8 - O apoio previsto no n.º 1 só é concedido uma vez por cada destinatário.
+
+9 - Para efeitos do disposto no presente artigo, considera-se o conceito de agregado familiar definido no artigo 4.º do Decreto-Lei n.º 70/2010, de 16 de junho, na sua redação atual.
+
+10 - Sem prejuízo da obrigação estabelecida na alínea a) do n.º 4 do artigo 9.º, para as candidaturas suportadas em trabalho por conta própria, os apoios financeiros só serão concedidos caso as atividades profissionais ainda se mantenham à data de pagamento da primeira prestação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+###### Artigo 6.º — Elegibilidade de despesas
+
+1 - Para efeitos de concessão dos apoios complementares previstos no n.º 4 do artigo 5.º, consideram-se elegíveis as despesas realizadas até ao 12.º mês após a data de início do contrato ou da data de aprovação da candidatura, para as situações de trabalho por conta própria.
+
+2 - As despesas relativas a cada membro do mesmo agregado familiar apenas podem ser apresentadas a financiamento e objeto de apoio uma vez.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+###### Artigo 7.º — Apoios em sede de políticas ativas
+
+Aos destinatários da presente Medida, bem como aos elementos do seu agregado familiar, mediante inscrição como desempregado no IEFP, I. P., é garantido o acesso às respostas de política ativa de emprego e formação profissional, prevendo-se desde já a sua elegibilidade no âmbito das Medidas Incentivo ATIVAR.PT e Estágios ATIVAR.PT, nos termos dispostos, respetivamente, no n.º 5 do artigo 6.º da Portaria n.º 207/2020, de 27 de agosto, e na alínea n) do n.º 1 do artigo 3.º da Portaria n.º 206/2020, de 27 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+###### Artigo 8.º — Regime de acesso
+
+1 - O período de candidatura tem início 15 dias úteis após a publicação da presente portaria e termina em 31 de março de 2026, sendo as candidaturas aprovadas até ao limite da dotação orçamental fixada.
+
+2 - A candidatura aos apoios previstos na presente medida deve ser efetuada no portal eletrónico do IEFP, I. P.
+
+3 - Com a apresentação da candidatura, o destinatário deve disponibilizar ao IEFP, I. P., nomeadamente, os seguintes documentos:
+
+a) Documento comprovativo da situação de emigrante, de seu familiar ou do respetivo agregado familiar, conforme aplicável, emitido por autoridade diplomática ou consular portuguesa, ou outros documentos que, inequivocamente, comprovem tal ou tais situações;
+
+b) Cópia do contrato do trabalho que permita verificar o cumprimento dos requisitos previstos na alínea a) do n.º 1 e no n.º 2 do artigo 4.º, para as candidaturas baseadas em trabalho por conta de outrem;
+
+c) Cópia de declaração de início de atividade ou certidão permanente ou outra documentação que permita verificar o cumprimento dos requisitos previstos na alínea b) do n.º 1 e nos n.os 6 a 8 do artigo 4.º, para as candidaturas baseadas em atividade laboral por conta própria;
+
+d) Cópia do contrato de bolsa que permitam verificar o cumprimento do requisito da alínea c) do n.º 1 do artigo 4.º, para as candidaturas baseadas em atividade ao abrigo de bolsa;
+
+e) Declaração de não dívida ou autorização de consulta online da situação contributiva perante a Autoridade Tributária e Aduaneira e a segurança social.
+
+4 - O IEFP, I. P., decide a candidatura no prazo de 30 dias úteis a contar da data da sua apresentação.
+
+5 - Após a notificação da decisão de aprovação da candidatura, o destinatário deve apresentar ao IEFP, I. P., nomeadamente, os seguintes documentos:
+
+a) Termo de aceitação da decisão de aprovação e comprovativo de IBAN, no prazo de 10 dias úteis;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) Comprovativos das despesas efetuadas com o reconhecimento de qualificações, até ao 12.º mês após a data de início do contrato de trabalho ou da data de aprovação da candidatura, para as situações de trabalho por conta própria.
+
+6 - A falta de envio dos documentos previstos no número anterior, bem como o seu envio fora de prazo, salvo apresentação de motivo justificativo que seja aceite, determina a caducidade da decisão de aprovação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 333/2025/1 - Diário da República n.º 193/2025, Série I de 2025-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/333-2025-938398658), em vigor a partir de 2025-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 373/2019 - Diário da República n.º 198/2019, Série I de 2019-10-15](https://diariodarepublica.pt/dr/detalhe/portaria/373-2019-125290656), em vigor a partir de 2019-10-16
+
+###### Artigo 9.º — Termo de aceitação
+
+1 - O termo de aceitação define as obrigações do destinatário perante o IEFP, I. P., nomeadamente nos termos estabelecidos nos números seguintes.
+
+2 - Para as situações de trabalho por conta própria e de trabalho por conta de outrem, o destinatário deve:
+
+a) Manter as condições previstas na alínea c) do n.º 1 do artigo 3.º durante todo o período de concessão do apoio;
+
+b) Entregar os comprovativos da realização das despesas dentro dos prazos estabelecidos;
+
+c) Comunicar, por escrito, ao IEFP, I. P., a mudança de domicílio ou de correio eletrónico ou de qualquer outra alteração à candidatura inicialmente aprovada, nomeadamente a cessação do contrato de trabalho ou da atividade laboral por contra própria e respetiva causa, no prazo de 10 dias úteis a contar da data da ocorrência do facto.
+
+3 - Às obrigações definidas no número anterior acresce, para as situações de trabalho por conta de outrem, a obrigação de manter o contrato de trabalho, nos seguintes termos:
+
+a) Durante pelo menos 12 meses, quando se trate de contrato de trabalho por tempo indeterminado, de contrato de trabalho a termo resolutivo certo com duração inicial igual ou superior a 12 meses ou de contrato de trabalho a termo resolutivo incerto com duração previsível igual ou superior a 12 meses;
+
+b) (Revogada.)
+
+4 - Às obrigações definidas no n.º 2 acresce, para as situações de trabalho por conta própria ou criação de empresa, as seguintes obrigações:
+
+a) Manter a atividade laboral durante pelo menos 12 meses, contados a partir da data de aprovação da candidatura;
+
+b) Assegurar o cumprimento das obrigações legais, fiscais e contributivas a que está vinculado no exercício da atividade por conta própria ou na empresa.
+
+5 - Para além das obrigações definidas no presente artigo, nas situações em que a elegibilidade do destinatário seja determinada nos termos do n.º 5 ou do n.º 6 do artigo 4.º, este fica obrigado a manter o local de trabalho contratualmente definido ou a atividade profissional desenvolvida por conta própria em território do interior durante, pelo menos, 12 meses.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+###### Artigo 10.º — Pagamento
+
+1 - O pagamento do apoio financeiro previsto no n.º 1 do artigo 5.º é efetuado nos seguintes termos:
+
+a) 70 % do montante total aprovado, no prazo de 10 dias úteis após a entrega do termo de aceitação e demais documentação comprovativa;
+
+b) (Revogada.)
+
+c) Para as situações de trabalho por conta de outrem, 30 % do montante total aprovado, no 13.º mês após a data de início do contrato de trabalho;
+
+d) Para as situações de trabalho por conta própria, 30 % do montante total aprovado, no 14.º mês após a data de aprovação da candidatura.
+
+2 - (Revogado.)
+
+3 - Os apoios complementares previstos nas alíneas a) e b) n.º 4 do artigo 5.º são pagos no prazo referido na alínea a) do n.º 1 e os restantes são pagos nos prazos referidos nas alíneas a) a d) do n.º 1 em função da data de entrega dos comprovativos de despesa.
+
+4 - O pagamento dos apoios previstos nos números anteriores fica sujeito à verificação da manutenção das condições necessárias à sua concessão, conforme disposto nos n.os 2 a 4 do artigo 9.º
+
+5 - A comprovação da manutenção da atividade profissional, por conta própria ou por conta de outrem, nos termos dos n.os 2 a 4 do artigo 9.º, é efetuada com recurso à consulta oficiosa de informação disponibilizada pela segurança social ou mediante entrega de documentação adicional nos regimes equiparados.
+
+6 - As entidades empregadoras que assegurem a comparticipação de despesas referidas no n.º 4 do artigo 5.º podem solicitar o reembolso desses custos ao IEFP, I. P., dentro dos limites estabelecidos na presente portaria e desde que exista uma candidatura aprovada relativa a contrato de trabalho elegível celebrado com essa entidade empregadora.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+###### Artigo 11.º — Incumprimento
+
+1 - O incumprimento das obrigações relativas ao apoio financeiro e comparticipações concedidas no âmbito da presente portaria implica a imediata cessação dos mesmos e, eventualmente, a restituição, total ou proporcional, dos montantes já recebidos, sem prejuízo do exercício do direito de queixa por eventuais indícios da prática de crime.
+
+2 - O destinatário deve restituir o apoio financeiro recebido nos termos do n.º 1 do artigo 5.º quando, antes de decorridos os prazos estabelecidos no artigo 9.º, relativos à manutenção do contrato de trabalho e da atividade profissional, se verifique alguma das seguintes situações:
+
+a) Denúncia do contrato de trabalho promovida pelo trabalhador;
+
+b) Cessação do contrato de trabalho por acordo;
+
+c) Despedimento por facto imputável ao trabalhador;
+
+d) Encerramento da atividade profissional.
+
+3 - Nos casos previstos nas alíneas a) e b) do número anterior, não há lugar à restituição do apoio caso o destinatário apresente ao IEFP, I. P., no prazo de 30 dias úteis a contar da data de cessação do contrato de trabalho, novo contrato de trabalho, a tempo completo ou parcial, celebrado numa das modalidades previstas no n.º 2 do artigo 4.º ou declaração de início de atividade por conta própria.
+
+4 - No caso previsto na alínea d) do número anterior, não há lugar à restituição do apoio caso o destinatário apresente ao IEFP, I. P., no prazo de 30 dias úteis a contar da cessação da atividade, nova declaração de início de atividade ou contrato de trabalho por conta de outrem, a tempo completo ou parcial, celebrado numa das modalidades previstas no n.º 2 do artigo 4.º
+
+5 - Para efeitos do disposto nos n.os 3 e 4, quando o novo contrato de trabalho seja celebrado a termo resolutivo certo ou incerto, a duração inicial ou previsível do novo contrato deve ser igual ou superior ao período remanescente para cumprimento do dever de manutenção do contrato de trabalho ou da atividade laboral, nos termos do artigo 9.º
+
+6 - Nos casos previstos na alínea c) do n.º 2, sempre que o destinatário, com base nos pressupostos do despedimento, demonstre a propositura de ação judicial contra o empregador, os prazos para a restituição dos apoios são suspensos, até a ação transitar em julgado.
+
+7 - Não há lugar à restituição de qualquer montante nas situações em que, após o início do pagamento do apoio financeiro, o destinatário, sendo familiar de emigrante, não tenha nacionalidade portuguesa, veja o visto caducado ou o pedido de autorização para residência permanente recusado por motivos que não lhe sejam imputáveis.
+
+8 - O destinatário deve restituir a totalidade do apoio financeiro e das comparticipações recebidas quando se verifique qualquer forma de simulação para acesso ao disposto na presente medida.
+
+9 - O destinatário deve ainda restituir a totalidade do apoio financeiro e das comparticipações recebidas no caso de incumprimento da obrigação estabelecida no n.º 5 ou n.º 6 do artigo 9.º
+
+> Nota: [Artigo 3.º, Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285) O prazo de 30 dias úteis previsto nos n.os 3 e 4 do presente artigo, é excecionalmente alargado para 12 meses quando os casos previstos nas alíneas a), b) e d) do n.º 2 do artigo 11.º da Portaria n.º 214/2019, de 5 de julho, na sua redação atual, tenham lugar entre 1 de fevereiro de 2020 e 30 de junho de 2021. Este prazo é contado a partir da data da ocorrência dos factos elencados nas alíneas a), b) e d) do n.º 2 do presente artigo, cabendo ao IEFP, I. P. proceder à notificação do destinatário sobre esse prazo e adotar os seguintes procedimentos relativamente ao pagamento dos apoios: a) Uma vez verificado o incumprimento à data do pagamento da primeira ou segunda prestação, os pagamentos são efetuados nos prazos previstos no artigo 10.º da Portaria n.º 214/2019, de 5 de julho, na sua redação atual; b) Caso o incumprimento se verifique à data do pagamento da terceira prestação, o pagamento ocorre após nova declaração de início de atividade ou contrato de trabalho por conta de outrem, a tempo completo ou parcial, celebrado numa das modalidades previstas no n.º 2 do artigo 4.º da Portaria n.º 214/2019, de 5 de julho, na sua redação atual, desde que a mesma ocorra no prazo estabelecido no n.º 1. 3 - Nas situações em que, findo o prazo estabelecido no n.º 1, não haja lugar a nova declaração de início de atividade ou contrato de trabalho por conta de outrem, a tempo completo ou parcial, celebrado numa das modalidades previstas no n.º 2 do artigo 4.º da Portaria n.º 214/2019, de 5 de julho, na sua redação atual, aplicam-se as normas previstas no artigo 11.º da mesma portaria.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 36-A/2020 - Diário da República n.º 23/2020, 1º Suplemento, Série I de 2020-02-03](https://diariodarepublica.pt/dr/detalhe/portaria/36-a-2020-128832423), em vigor a partir de 2020-02-04
+
+###### Artigo 12.º — Cumulação de apoios
+
+1 - A atribuição dos apoios previstos na presente Medida não prejudica a atribuição de outros apoios à contratação para o mesmo posto de trabalho, conforme identificado no regulamento previsto no n.º 2 do artigo 14.º
+
+2 - A presente Medida não prejudica a atribuição de apoios à criação do próprio emprego ou empresas.
+
+3 - A presente Medida não é cumulável com outros apoios da mesma natureza e para o mesmo fim, conforme identificado no regulamento previsto no n.º 2 do artigo 14.º
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 23/2021 - Diário da República n.º 19/2021, Série I de 2021-01-28](https://diariodarepublica.pt/dr/detalhe/portaria/23-2021-155601285), em vigor a partir de 2021-01-29
+
+###### Artigo 13.º — Acompanhamento, verificação ou auditoria
+
+Podem ser realizadas ações de acompanhamento, de verificação, de auditoria ou de inspeção por parte dos serviços do IEFP, I. P., ou de outras entidades com competências para o efeito, tendo em vista garantir e acautelar o cumprimento do previsto na presente portaria e demais regulamentação aplicável.
+
+###### Artigo 14.º — Execução, regulamentação e avaliação
+
+1 - O IEFP, I. P., é responsável pela execução da medida no âmbito da verificação das condições de concessão do apoio e da manutenção das obrigações decorrentes da sua atribuição.
+
+2 - O IEFP, I. P., elabora a regulamentação técnica necessária à execução da presente Medida no prazo de 10 dias úteis a contar da data de entrada em vigor da presente portaria.
+
+3 - A presente medida será objeto de avaliação em sede da Comissão Permanente de Concertação Social, no prazo de dois anos a contar da data da sua entrada em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 333/2025/1 - Diário da República n.º 193/2025, Série I de 2025-10-07](https://diariodarepublica.pt/dr/detalhe/portaria/333-2025-938398658), em vigor a partir de 2025-10-08
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 114/2023 - Diário da República n.º 84/2023, Série I de 2023-05-02](https://diariodarepublica.pt/dr/detalhe/portaria/114-2023-212447684), em vigor a partir de 2023-05-03
+
+###### Artigo 15.º — Entrada em vigor e vigência
+
+A presente medida entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado do Emprego, Miguel Filipe Pardal Cabrita, em 3 de julho de 2019.
+
+112419733

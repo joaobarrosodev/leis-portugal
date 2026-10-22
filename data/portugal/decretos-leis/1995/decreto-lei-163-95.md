@@ -1,0 +1,276 @@
+---
+schema_version: '1.0'
+id: pt:dre:461217:por
+title: Decreto-Lei n.º 163/95
+short_title: null
+summary: Altera o Código Civil
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 163/95
+official_date: null
+publication_date: '1995-07-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/1995, Série I-A de 1995-07-13
+  number: '160'
+  series: I
+  supplement: null
+  pages: 4431 - 4433
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/07/160a00/44314433.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/163/1995/07/13/p/dre/pt/html
+  oj: null
+  dre: '461217'
+  dre_path: /dr/detalhe/decreto-lei/163-1995-461217
+  internal: pt:dre:461217:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1995-461217
+  metadata_url: https://data.dre.pt/eli/dec-lei/163/1995/07/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1995-461217
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2017-05-24T00:00:00Z'
+integrity:
+  source_sha256: 2e56e1318db0887c5a10446d4525d68c07b19b6494f4232ceff972924f82b4bb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-163-461217.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adopção
+- Alienação de BENS
+- Código Civil
+- Cônjuge
+- Conservador
+- Contrato de Mútuo
+- Definição de Competências
+- Divórcio
+- Menoridade
+- Poder Paternal
+- Prazo de Validade
+- Presunção
+- Processo Judicial
+- Regime Jurídico
+- Registo Civil
+- Renda Vitalícia
+- Casamento
+- Direito Civil
+- Conservatória do Registo Civil
+- Prédio Urbano
+- Arrendamento Urbano para Habitação
+relationships:
+- type: amended_by
+  target: pt:dre:107061862:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/1995/02/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/1995/02/20/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 163/95
+
+de 13 de Julho
+
+1. Surgida a oportunidade, no actual panorama jurídico-político, de repensar profundamente o enquadramento jurídico-administrativo da vida civil, entendeu o Governo aprovar um novo Código do Registo Civil, considerando, entre outros aspectos, o interesse público do serviço em causa, com o consequente redimensionamento do conteúdo funcional da actividade dos conservadores do registo civil.
+
+Neste âmbito, sendo a matéria da especial vocação e domínio técnico por parte daqueles profissionais do direito, foi entendido atribuir-lhes competência para a prática de actos em áreas antes reservadas a outras entidades. A aprovação de um Código do Registo Civil inspirado nesta nova filosofia implica, porém, uma diversa conformação de alguns preceitos do Código Civil que lhe servem de matriz.
+
+Daí a aprovação das presentes alterações a alguns dispositivos do Código Civil.
+
+Assim, em matéria de competência para dispensa de impedimentos à celebração do casamento e para suprimento de autorização para casamento de menores, confere-se tal poder aos conservadores do registo civil.
+
+Por outro lado, a assessoria que os conservadores do registo civil prestam aos nubentes sobre o regime de bens do casamento aconselha que àqueles caiba, do mesmo modo, a celebração de convenções antenupciais, por auto.
+
+Acrescendo esta forma à possibilidade da tradicional celebração de convenção antenupcial por escritura pública, compete à lei registral civil definir os actos abrangidos por uma ou outra das modalidades, reservando, também, uma margem de opção aos nubentes.
+
+Do mesmo modo se atribui ao conservador do registo civil competência para, paralelamente aos tribunais, decretar o divórcio e a separação de pessoas e bens por mútuo consentimento, se, além dos demais requisitos de direito substantivo, o casal requerente não tiver filhos menores ou, havendo-os, o exercício do respectivo poder paternal se mostrar já judicialmente regulado, entendendo-se que a natureza dos interesses em causa aconselha, nesta matéria, a intervenção exclusiva dos tribunais.
+
+Defere-se, ainda, aos conservadores do registo civil o poder de declarar, nos processos de afastamento de presunção de paternidade, a cessação desta presunção, a pedido da mulher casada que tenha declarado o nascimento de um filho com a indicação de que o mesmo não é do marido.
+
+À semelhança do que acontece em matéria de dispensa de impedimentos para casamento e suprimento de autorização para casamento de menores, a prática tem demonstrado que a intervenção judicial neste âmbito se reconduz à decisão de processos cuja instrução, apreciação e prova produzida são efectuados pelos conservadores do registo civil, havendo pois, actualmente, razões que legitimam o deferimento de tal competência a estes técnicos, cuja preparação jurídica é habilitante para o exercício de tais funções.
+
+A possibilidade de recurso da decisão do conservador para os tribunais reforça, por outro lado, as garantias de certeza na aplicação do direito, exigidas em matérias desta dignidade.
+
+2. Aproveitando o ensejo, entendeu-se ser de proceder à actualização dos valores a partir dos quais os contratos de mútuo e de renda vitalícia carecem de celebração por escritura pública, alterando a redacção dos correspondentes preceitos do Código Civil.
+
+Por outro lado, e em obediência a uma simplificação que se pretende institucionalizar, elimina-se a obrigatoriedade de redução a escritura pública da extinção da hipoteca por renúncia do credor, dado ser um acto jurídico cujos efeitos se produzem naturalmente na ordem jurídica, não carecendo de reconhecimento solene. A constatação da inutilidade deste acto determina que o Código Civil seja também alterado.
+
+Assim:
+
+No uso da autorização legislativa concedida pela [Lei n.º 3/95](https://diariodarepublica.pt/dr/detalhe/lei/3-1995-187695), de 20 de Fevereiro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º Os artigos 731.º, 1143.º, 1239.º, 1604.º, 1609.º, 1611.º, 1612.º, 1710.º, 1773.º, 1795.º-C, 1832.º e 1833.º do Código Civil passam a ter a seguinte redacção:
+
+###### Artigo 731.º — [...]
+
+1 - A renúncia à hipoteca deve ser expressa e exarada em documento autenticado, não carecendo de aceitação do devedor ou do autor da hipoteca para produzir os seus efeitos.
+
+2 - ...
+
+###### Artigo 1143.º — [...]
+
+O contrato de mútuo de valor superior a 3000000$00 só é válido se for celebrado por escritura pública e o de valor superior a 200000$00 se o for por documento assinado pelo mutuário.
+
+###### Artigo 1239.º — [...]
+
+Sem prejuízo da aplicação das regras especiais de forma quanto à alienação da coisa ou do direito, a renda vitalícia deve ser constituída por documento escrito, sendo necessária escritura pública se a coisa ou o direito alienado for de valor igual ou superior a 3000000$00.
+
+###### Artigo 1604.º — [...]
+
+...
+
+a) A falta de autorização dos pais ou do tutor para o casamento do nubente menor, quando não suprida pelo conservador do registo civil;
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) ...
+
+f) ...
+
+###### Artigo 1609.º — [...]
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) ...
+
+2 - A dispensa compete ao conservador do registo civil, que a concederá quando haja motivos sérios que justifiquem a celebração do casamento.
+
+3 - Se algum dos nubentes for menor, o conservador ouvirá, sempre que possível, os pais ou o tutor.
+
+###### Artigo 1611.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Feita a declaração, o casamento só será celebrado se o impedimento cessar, for dispensado nos termos do artigo 1609.º ou for julgado improcedente por decisão judicial com trânsito em julgado.
+
+###### Artigo 1612.º — [...]
+
+1 - ...
+
+2 - Pode o conservador do registo civil suprir a autorização a que se refere o número anterior se razões ponderosas justificarem a celebração do casamento e o menor tiver suficiente maturidade física e psíquica.
+
+###### Artigo 1710.º — [...]
+
+As convenções antenupciais só são válidas se forem celebradas por escritura pública ou por auto lavrado perante o conservador do registo civil.
+
+###### Artigo 1773.º — [...]
+
+1 - O divórcio pode ser por mútuo consentimento ou litigioso.
+
+2 - O divórcio por mútuo consentimento pode ser requerido por ambos os cônjuges, de comum acordo, no tribunal ou na conservatória do registo civil se, neste caso, o casal não tiver filhos menores ou, havendo-os, o exercício do respectivo poder paternal se mostrar já judicialmente regulado.
+
+3 - O divórcio litigioso é requerido no tribunal por um dos cônjuges contra o outro, com algum dos fundamentos previstos nos artigos 1779.º e 1781.º
+
+###### Artigo 1795.º-C — [...]
+
+1 - ...
+
+2 - ...
+
+3 - Quando tenha corrido os seus termos na conservatória do registo civil, a reconciliação faz-se por termo no processo de separação e está sujeita a homologação do conservador respectivo, devendo a decisão ser oficiosamente registada.
+
+4 - [Anterior n.º 3.]
+
+###### Artigo 1832.º — [...]
+
+1 - ...
+
+2 - Cessa a presunção de paternidade no caso previsto no número anterior, se for averbada ao registo declaração de que na ocasião do nascimento o filho não beneficiou de posse de estado, nos termos do n.º 2 do artigo precedente, relativamente a ambos os cônjuges.
+
+3 - A menção da paternidade do marido da mãe será feita oficiosamente se, decorridos 60 dias sobre a data em que foi lavrado o registo, a mãe não provar que pediu a declaração a que alude o n.º 2 ou se o pedido for indeferido.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+###### Artigo 1833.º — Declaração de inexistência de posse de estado
+
+A declaração de inexistência de posse de estado a que se refere o n.º 2 do artigo anterior é proferida em processo especial e os seus efeitos restringem-se ao disposto naquele preceito.
+
+###### Art. 2.º É aditado à subsecção II do capítulo XII do livro IV do Código Civil o artigo 1778.º-A, com a seguinte redacção:
+
+###### Artigo 1778.º-A — Divórcio decretado pelo conservador
+
+1 - É aplicável ao divórcio por mútuo consentimento decretado pelo conservador do registo civil, com as necessárias adaptações, o disposto na presente subsecção.
+
+2 - As decisões proferidas nestes termos produzem os mesmos efeitos das sentenças judiciais sobre idêntica matéria.
+
+###### Art. 3.º O artigo 84.º do Regime do Arrendamento Urbano, aprovado pelo [Decreto-Lei n.º 321-B/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-b-1990-667147), de 15 de Outubro, passa a ter seguinte redacção:
+
+###### Artigo 84.º
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - A transferência do direito ao arrendamento para o cônjuge do arrendatário, por efeito de acordo homologado pelo juiz ou pelo conservador do registo civil, consoante os casos, ou por decisão judicial, deve ser notificada oficiosamente ao senhorio.
+
+###### Art. 4.º O presente diploma entra em vigor no dia 15 de Setembro de 1995.
+
+Visto e aprovado em Conselho de Ministros de 11 de Maio de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - José Manuel Cardoso Borges Soeiro.
+
+**Promulgado em 21 de Junho de 1995.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 24 de Junho de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

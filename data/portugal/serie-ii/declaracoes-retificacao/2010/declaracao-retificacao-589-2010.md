@@ -1,0 +1,230 @@
+---
+schema_version: '1.0'
+id: pt:dre:3355620:por
+title: Declaração de Rectificação n.º 589/2010
+short_title: null
+summary: Rectificação do aviso n.º 2773/2010 relativo ao procedimento concursal comum para o preenchimento de postos de trabalho
+  da carreira/categoria de assistente operacional
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Freguesia de Amora
+proposing_entity: null
+official_number: 589/2010
+official_date: null
+publication_date: '2010-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 59/2010, Série II de 2010-03-25
+  number: '59'
+  series: II
+  supplement: null
+  pages: 15465 - 15466
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/03/059000000/1546515466.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3355620'
+  dre_path: /dr/detalhe/declaracao-rectificacao/589-2010-3355620
+  internal: pt:dre:3355620:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/589-2010-3355620
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/589-2010-3355620
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-03-25T00:00:00Z'
+integrity:
+  source_sha256: 3251bfcfce4faede231eca9871cf3e64931d5b0c70c66fb431da391f32fcc7b7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-589-3355620.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 589/2010
+
+Rectificação e republicação do aviso n.º 2773/2010, relativo ao procedimento concursal comum para o preenchimento de postos de trabalho da carreira/categoria de assistente operacional do mapa de pessoal desta Freguesia.
+
+1 - O aviso n.º 2773/2010, inserto no Diário da República, 2.ª série, n.º 26, de 8 de Fevereiro de 2010, foi publicado com inexactidões constantes.
+
+2 - Atendendo à extensão das rectificações a efectuar, procede-se, em anexo, à republicação do aviso n.º 2773/2010.
+
+3 - O prazo para a apresentação de candidaturas estabelecido no n.º 8.1 do aviso recomeça a sua contagem a partir da data da publicação da presente rectificação.
+
+4 - Mantêm-se válidas todas as candidaturas entretanto apresentadas, podendo os candidatos, se assim o entenderem, entregar documentação complementar que eventualmente actualize ou acrescente elementos de informação considerados relevantes para a apreciação das suas candidaturas.
+
+16 de Março de 2010. - A Presidente, Maria Odete dos Santos Pires Gonçalves.
+
+## ANEXO — [Aviso n.º 2773/2010](https://diariodarepublica.pt/dr/detalhe/aviso/2773-2010-2652796)
+
+Nos termos do disposto na alínea a) do n.º 3 do artigo 19.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro, torna-se público que, na sequência da deliberação da Junta de Freguesia de Amora, de 5 de Janeiro de 2010, encontra-se aberto pelo período de 10 dias úteis, a contar da data da publicação do presente aviso no Diário da República, procedimento concursal comum, para recrutamento na modalidade de relação jurídica de emprego público por tempo indeterminado, para preenchimento de cinco postos de trabalho previstos no mapa de pessoal desta Freguesia, na carreira/categoria de assistente operacional.
+
+O presente procedimento não foi precedido de consulta à entidade centralizada para a constituição de reservas de recrutamento (ECCRC) nos termos do n.º 1 do artigo 4.º e do artigo 54.º da referida portaria, dado que face à informação veiculada pela DGAEP não existe, à presente data, reserva de recrutamento.
+
+1 - Legislação aplicável - [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, [Decreto Regulamentar n.º 14/2008](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/14-2008-454506), de 31 de Julho, [Lei n.º 59/2008](https://diariodarepublica.pt/dr/detalhe/lei/59-2008-453975), de 11 de Setembro, e [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+2 - Local de trabalho - as funções serão exercidas na área da Freguesia.
+
+3 - Caracterização dos postos de trabalho:
+
+Assentar de manilhas e tubagem diversa, cantarias, elementos pré-fabricados em betão armado, tais como vigas, pilares, rematando as juntas com argamassas adequadas;
+
+Assentar pavimentos em betão armado, cerâmica ou calçada portuguesa;
+
+Rebocar paredes e tectos com argamassas rematando arestas bem como sancas em meia cana;
+
+Executar betonilhas de regularização;
+
+Realizar abertura e enchimento de valas e fundações apoiadas por equipamento mecânico;
+
+Executar tarefas de apoio na montagem de estruturas, abrindo caboucos e fazendo a remoção de resíduos;
+
+Construir campas e colocar lápides no cemitério;
+
+Assegurar a limpeza e desmatação dos terrenos não tratados que integram o património municipal;
+
+Assegurar a aplicação de herbicida com vista a garantir o controlo de infestantes no espaço público;
+
+Assegurar a limpeza das sarjetas e sumidores, de modo a contribuir para o correcto funcionamento do sistema de drenagem.
+
+4 - Posicionamento remuneratório - os candidatos seleccionados serão integrados na posição remuneratória da categoria, podendo ser objecto de negociação com a entidade empregadora, nos termos previstos no artigo 55.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
+
+5 - Habilitações literárias exigidas - titularidade da escolaridade mínima obrigatória e formação ou experiência profissional, de acordo com a alínea a) do n.º 1 do artigo 44.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro.
+
+6 - Prazo de validade - o procedimento concursal é válido para o recrutamento e preenchimento dos postos de trabalho mencionados e para os efeitos estatuídos nos n.os 1, 2 e 3 do artigo 40.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 Janeiro.
+
+7 - Requisitos de admissão:
+
+7.1 - Os candidatos deverão preencher os requisitos previstos no artigo 8.º da [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro:
+
+a) Ter nacionalidade portuguesa, quando não dispensada pela Constituição, convenção internacional ou lei especial;
+
+b) Ter 18 anos de idade completos;
+
+c) Não estar inibido do exercício de funções públicas ou não interdito para o exercício daquelas que se propõe desempenhar;
+
+d) Possuir robustez física e perfil psíquico indispensáveis ao exercício de funções;
+
+e) Ter cumprido as leis da vacinação obrigatória.
+
+7.1.1 - Na falta de apresentação dos documentos, devem os candidatos declarar no requerimento de admissão que reúnem tais requisitos.
+
+7.2 - São admitidos candidatos detentores de relação jurídica de emprego público por tempo indeterminado, incluindo pessoal em sistema de mobilidade especial (SME).
+
+8 - Forma e prazo de apresentação das candidaturas:
+
+8.1 - Prazo - 10 dias úteis a contar da data da publicação do presente aviso no Diário da República;
+
+8.2 - Forma - as candidaturas deverão ser formalizadas mediante preenchimento de formulário tipo, modelo disponível na Secretaria, ou no site desta Junta de Freguesia em http:// www.jf-amora.pt, podendo ser entregues pessoalmente na sede da Junta até ao último dia do prazo fixado, ou remetidas por correio registado, para Rua do 1.º de Maio, lote 4, 2845-125 Amora, expedido até ao termo do prazo fixado, nele devendo constar obrigatoriamente os seguintes elementos:
+
+a) Identificação do procedimento concursal, referenciando o número e data do Diário da República onde vem publicitado o presente aviso;
+
+b) Identificação completa do candidato pelo nome, filiação, naturalidade, nacionalidade, estado civil, data de nascimento, número e data do bilhete de identidade e serviço de identificação que o emitiu, número de contribuinte, residência completa, telefone e endereço electrónico, caso exista;
+
+c) Declaração sobre compromisso de honra da situação precisa em que se encontra, relativamente a cada um dos requisitos referidos no n.º 7.1, deste aviso, bem como os demais factos constantes da candidatura.
+
+8.2.1 - A candidatura deve ainda ser acompanhada da seguinte documentação:
+
+a) Currículo actualizado;
+
+b) Fotocópia legível do certificado de habilitações;
+
+c) Fotocópia do bilhete de identidade e do cartão de contribuinte.
+
+8.2.2 - Não serão aceites candidaturas enviadas por correio electrónico.
+
+9 - As falsas declarações prestadas pelos candidatos serão punidas nos termos da lei.
+
+9.1 - Assiste ao júri a faculdade de exigir a qualquer candidato, em caso de dúvida sobre a situação que descreve no seu currículo, a apresentação de documentos comprovativos das suas declarações.
+
+10 - Quanto aos métodos de selecção:
+
+10.1 - O método de selecção obrigatório a aplicar é prova de conhecimentos, obedecendo aos seguintes critérios:
+
+a) Prova de conhecimentos - assume a forma oral, revestindo-se de natureza prática e será relacionada com a caracterização do lugar respectivo;
+
+b) Avaliação psicológica - visa avaliar as aptidões e características de personalidade e comportamento dos candidatos;
+
+c) Avaliação curricular - serão avaliadas os seguintes factores: habilitações académicas, formação profissional, experiência profissional e avaliação de desempenho;
+
+d) Entrevista de avaliação de competências - serão avaliados os seguintes factores: motivações para a função, conhecimentos sobre o conteúdo funcional do lugar, capacidade de relação interpessoal e conhecimentos sobre a administração local.
+
+10.2 - A ponderação e sistema de valoração final para cada critério de avaliação:
+
+Prova de conhecimentos ou avaliação curricular - 40 %;
+
+Avaliação psicológica ou entrevista de avaliação de competências - 60 %.
+
+10.2.1 - Por razões de urgência nos procedimentos concursais aqui identificados, os métodos de selecção obrigatórios serão utilizados de forma faseada, nos termos do artigo 8.º da [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro. Por outro lado, atendendo ao n.º 4 do artigo 53.º da LVCR, utilizar-se-á um único método de selecção obrigatório de selecção obrigatório (prova de conhecimentos e avaliação curricular), quando o número de candidatos o justifique.
+
+10.3 - Os candidatos que não compareçam consideram-se automaticamente excluídos.
+
+10.4 - As actas do júri, onde constam os parâmetros de avaliação e respectiva ponderação do método de selecção a utilizar, são facultadas aos candidatos sempre que solicitadas.
+
+11 - Classificação final:
+
+11.1 - A publicitação dos resultados obtidos em cada método de selecção será através de listas ordenadas alfabeticamente, afixados na secretaria da Junta de Freguesia e disponibilizados na página electrónica.
+
+11.2 - A listas unitárias de ordenação final, após homologação, serão publicadas na 2.ª série do Diário da República, fixadas na secretaria da Junta de Freguesia e disponibilizadas na página electrónica.
+
+12 - Em cumprimento da alínea h) do artigo 9.º da Constituição, a Administração Pública, enquanto entidade empregadora, promove activamente uma política de oportunidades entre homens e mulheres no acesso ao emprego e na progressão profissional, providenciando escrupulosamente no sentido de evitar toda e qualquer forma de discriminação.
+
+13 - No âmbito do presente procedimento, dá-se cumprimento ao estabelecido no [Decreto-Lei n.º 29/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2001-315563), de 3 de Fevereiro, no que respeita ao sistema de quotas de emprego para as pessoas com deficiência.
+
+14 - Composição do júri do concurso:
+
+Presidente - Maria Helena Arraiolos Quinta, secretária.
+
+Vogais efectivos:
+
+1.º Maria Luísa Lobo Aguiar Pereira, coordenadora técnica.
+
+2.º Manuel Ferreira Araújo, vogal.
+
+Vogais suplentes:
+
+1.º Cláudia Raquel de Oliveira Reis, vogal.
+
+2.º Eunice Isabel Alves Teixeira, vogal.
+
+2 de Fevereiro de 2010. - A Presidente, Maria Odete dos Santos Pires Gonçalves.

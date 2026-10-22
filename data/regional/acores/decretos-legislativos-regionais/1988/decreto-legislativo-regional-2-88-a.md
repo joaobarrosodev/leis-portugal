@@ -1,0 +1,450 @@
+---
+schema_version: '1.0'
+id: pt:dre:283099:por
+title: Decreto Legislativo Regional n.º 2/88/A
+short_title: null
+summary: Determina que a empresa pública Serviço Açoreano de Transportes Aéreos, SATA, E. P., passe a designar-se SATA Air
+  Açores - Serviço Açoreano de Transportes Aéreos, E. P., e aprova o seu estatuto
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 2/88/A
+official_date: null
+publication_date: '1988-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1988, Série I de 1988-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 407 - 411
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/02/03000/04070411.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '283099'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/2-1988-283099
+  internal: pt:dre:283099:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1988-283099
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-1988-283099
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-12-14T00:00:00Z'
+integrity:
+  source_sha256: 05f4e771bc251300717b45a1577a1d58ef0ac906c913ac6ecc967a18062ee76d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1988/DRE-1988-2-283099.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:533269:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 32
+  section_count: 13
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 2/88/A
+
+Estatuto da SATA Air Açores - Serviço Açoriano de Transportes Aéreos E. P.
+
+Pelo [Decreto-Lei n.º 490/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1980-462576), de 17 de Outubro, foi extinta a SATA - Sociedade Açoriana de Transportes Aéreos, S. A. R. L., e constituída a empresa pública Serviço Açoriano de Transportes Aéreos, designada por SATA, E. P., e aprovado o respectivo estatuto, de acordo com o prescrito no [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril (lei base das empresas públicas).
+
+Considerando, por outro lado, as alterações introduzidas naquele diploma pelo [Decreto-Lei n.º 29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro, e ainda a Resolução n.º 29/85, de 9 de Abril, que prevê a distribuição das empresas públicas regionais por grupos:
+
+A Assembleia Regional dos Açores, nos termos da alínea b) do artigo 229.º da Constituição, decreta o seguinte:
+
+###### Artigo 1.º A empresa pública Serviço Açoriano de Transportes Aéreos SATA, E. P., criada pelo [Decreto-Lei n.º 490/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/490-1980-462576), de 17 de Outubro, passa a designar-se SATA Air Açores - Serviço Açoriano de Transportes Aéreos, E. P.
+
+###### Art. 2.º É aprovado o novo estatuto da SATA Air Açores, que segue em anexo ao presente diploma.
+
+###### Art. 3.º As futuras alterações ao estatuto anexo serão aprovadas por diploma regulamentar do Governo Regional.
+
+###### Art. 4.º O presente diploma entra em vigor na data da sua publicação, produzindo, porém, efeitos, quanto à nova designação, SATA Air Açores, a partir de 17 de Março de 1987.
+
+Aprovado pela Assembleia Regional dos Açores, na Horta, em 4 de Dezembro de 1987.
+
+**O Presidente da Assembleia Regional, José Guilherme Reis Leite.**
+
+**Assinado em Angra do Heroísmo em 18 de Janeiro de 1988.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+
+## ANEXO — Estatuto da SATA Air Açores - Serviço Açoreano de Transportes Aéreos, E. P.
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Denominação, natureza e sede
+
+A SATA Air Açores é uma empresa pública com personalidade jurídica, dotada de autonomia administrativa, financeira e patrimonial, com sede em Ponta Delgada.
+
+###### Artigo 2.º — Regime jurídico
+
+A empresa rege-se pelo presente estatuto, pelas normas complementares de execução, pela legislação aplicável às empresas públicas e, em casos omissos, pelas normas de direito privado.
+
+###### Artigo 3.º — Objecto
+
+1 - Constitui objecto principal da empresa a exploração do serviço público regular de transporte aéreo de passageiros, carga e correio em regime de exclusivo dentro da Região Autónoma dos Açores, podendo ainda a empresa operar fora da Região, nos termos da lei e do presente estatuto.
+
+2 - Poderá ainda a empresa, mediante autorização da tutela, explorar serviços e efectuar operações comerciais, industriais e financeiras relacionadas directa ou indirectamente, no todo ou em parte, com os objectivos definidos nos números anteriores ou que sejam susceptíveis de facilitar ou favorece a sua realização.
+
+### CAPÍTULO II — Constituição, competência e funcionamento dos órgãos
+
+#### SECÇÃO I — Órgãos da empresa
+
+###### Artigo 4.º — Órgãos da empresa
+
+1 - São órgãos da empresa:
+
+a) O conselho de administração (CA);
+
+b) A comissão de fiscalização (CF).
+
+#### SECÇÃO II — Conselho de administração
+
+###### Artigo 5.º — Composição e nomeação
+
+1 - O CA não excederá o número de cinco membros, nomeados, reconduzidos, exonerados ou demitidos pelo Governo Regional, sob proposta do Secretário Regional dos Transportes e Turismo.
+
+2 - Um dos vogais do CA representará os trabalhadores da empresa e será eleito nos termos da legislação aplicável.
+
+3 - O mandato dos membros do CA tem a duração de três anos, renovável por uma ou mais vezes, mantendo-se o exercício das funções até à efectiva substituição ou declaração de cessação das mesmas.
+
+4 - O CA toma posse perante o Secretário Regional dos Transportes e Turismo.
+
+5 - Os membros do CA exercerão as suas funções em regime de tempo inteiro ou parcial, consoante for definido na resolução que os nomear.
+
+6 - Os membros do CA poderão exercer, cumulativamente, a chefia de serviços da empresa, bem como representá-la em sociedades em que esta tenha participação.
+
+###### Artigo 6.º — Competência do CA
+
+1 - Compete ao CA o exercício de todos os poderes necessários para assegurar a gestão e o desenvolvimento da empresa e a administração do seu património.
+
+2 - Compete especialmente ao CA, sem prejuízo dos poderes da tutela:
+
+a) Aprovar os objectivos e as políticas de gestão da empresa;
+
+b) Propor o exercício, a modificação ou a cessação de actividades acessórias do objecto da empresa;
+
+c) Aprovar os planos de actividade e financeiros anuais e plurianuais e os orçamentos anuais e respectivas alterações ou actualizações;
+
+d) Celebrar contratos-programa, nos termos da legislação aplicável, e elaborar os planos plurianuais das actividades e financiamento de harmonia com as opções e prioridades fixadas nos planos regionais, quer anuais, quer de médio prazo;
+
+e) Aprovar a organização técnico-administrativa da empresa e as normas de funcionamento interno;
+
+f) Designar e exonerar os responsáveis pela estrutura orgânica da empresa;
+
+g) Contrair empréstimos e celebrar todos os contratos necessários à prossecução das actividades da empresa;
+
+h) Deliberar sobre a aquisição, alienação ou oneração de bens e de participações financeiras, dentro dos limites da lei;
+
+i) Submeter à aprovação ou autorização da tutela os actos que dela careçam;
+
+j) Negociar e outorgar convenções colectivas de trabalho e aprovar as demais normas relativas ao pessoal e respectivo estatuto;
+
+l) Representar a empresa em juízo ou fora dele, activa e passivamente, bem como confessar, desistir ou transigir em quaisquer acções;
+
+m) Constituir mandatários com os poderes que julgar convenientes.
+
+3 - O CA poderá delegar quaisquer das suas atribuições em um ou mais dos seus membros, que, por sua vez, podem subdelegar os poderes que julgarem mais convenientes.
+
+4 - Não poderá, todavia, o CA, sem prévio parecer favorável da CF, obrigar a empresa por empréstimos pecuniários ou outra forma de financiamento por prazo superior a cinco anos.
+
+5 - Para que a empresa se considere obrigada ou vinculada pelos actos praticados em seu nome bastará que os documentos respectivos sejam assinados:
+
+a) Por dois membros do CA;
+
+b) Por um membro do CA que, para tanto, haja recebido delegação desse conselho;
+
+c) Pelas pessoas a que se referem a alínea m) do n.º 2 e o n.º 3 deste artigo, no âmbito dos poderes que lhes tiverem sido conferidos.
+
+###### Artigo 7.º — Competência do presidente do CA
+
+1 - Compete, especialmente, ao presidente do CA ou ao seu substituto legal:
+
+a) Representar a empresa;
+
+b) Coordenar e dirigir as actividades do CA;
+
+c) Convocar as reuniões do CA;
+
+d) Presidir às reuniões do CA;
+
+e) Fazer cumprir as deliberações do CA e, em particular, velar pela execução e pelo cumprimento dos orçamentos e dos planos anuais e plurianuais;
+
+f) Assegurar as relações com o Governo Regional;
+
+g) Exercer os poderes que o CA nele delegar.
+
+2 - Sem prejuízo da sua avocação pelo CA e do disposto no n.º 3 do artigo 6.º, os poderes referidos nas alíneas i), j), l) e m) do n.º 2 do artigo 6.º serão desempenhados pelo presidente do CA.
+
+3 - O presidente, ou o seu substituto legal, terá sempre voto de qualidade e poderá opor o seu veto a deliberações que considere contrárias à lei e ao presente estatuto, com a consequente suspensão de executoriedade da deliberação, até que sobre esta se pronuncie o secretário regional da tutela.
+
+4 - O veto deverá ser comunicado no prazo de oito dias pelo presidente ao secretário regional da tutela, o qual terá igual prazo para se pronunciar, findo o qual considerar-se-á confirmada a deliberação tomada nos termos do número anterior.
+
+5 - A confirmação do veto acarreta a ineficácia da deliberação.
+
+###### Artigo 8.º — Competência do vice-presidente do CA
+
+Compete ao vice-presidente substituir o presidente do CA nas suas faltas ou impedimentos.
+
+###### Artigo 9.º — Reuniões do CA
+
+O CA reunirá, ordinariamente, pelo menos duas vezes por mês e, extraordinariamente, sempre que o presidente o convocar.
+
+#### SECÇÃO III — Comissão de fiscalização
+
+###### Artigo 10.º — Composição e nomeação
+
+1 - A CF é composta por três membros.
+
+2 - O presidente e os demais membros serão nomeados por despacho conjunto dos Secretários Regionais das Finanças e dos Transportes e Turismo, por período de três anos, renovável por uma ou mais vezes.
+
+3 - Um dos membros da CF, que será obrigatoriamente revisor oficial de contas, ou, na falta deste, um técnico oficial de contas, será proposto pelo Secretário Regional das Finanças, outro pelos trabalhadores da empresa e o terceiro pelo Secretário Regional dos Transportes e Turismo.
+
+###### Artigo 11.º — Competência da CF
+
+1 - À CF compete:
+
+a) Fiscalizar a gestão e o cumprimento das normas reguladoras da actividade da empresa, tendo em vista, nomeadamente, a realização dos objectivos fixados nos orçamentos anuais e nos planos plurianuais de actividade e financeiros;
+
+b) Velar pelo cumprimento das leis e regulamentos aplicáveis ao funcionamento da empresa e pela observância do presente estatuto;
+
+c) Examinar periodicamente a contabilidade da empresa e proceder à verificação dos valores patrimoniais, seguindo a sua evolução através de acções adequadas;
+
+d) Determinar a execução de verificações e conferências para o apuramento de coincidências entre os valores contabilísticos e os patrimoniais;
+
+e) Pronunciar-se sobre o critério de avaliação de bens, de amortizações e reintegrações, de constituição de provisões e reservas e de determinação de resultados;
+
+f) Emitir parecer sobre o relatório, inventário, balanço e contas, proposta de aplicação de resultados e demais documentos obrigatórios;
+
+g) Levar ao conhecimento das entidades competentes as irregularidades que apurar na gestão da empresa;
+
+h) Pronunciar-se sobre a legalidade e conveniência dos actos do CA nos casos em que o presente estatuto exigir a sua aprovação ou concordância;
+
+i) Pronunciar-se sobre qualquer outro assunto de interesse para a empresa.
+
+2 - Para o exercício da competência estabelecida no número anterior, pode a CF praticar os actos para tal necessários, designadamente:
+
+a) Requerer do CA ou de qualquer dos seus membros informações e esclarecimentos sobre o curso das operações ou actividades da empresa;
+
+b) Fazer-se assistir por auditores externos contratados para o efeito, por sua iniciativa ou a solicitação dos Secretários Regionais das Finanças ou dos Transportes e Turismo;
+
+c) Obter de terceiros que tenham realizado operações por conta da empresa as informações que entender convenientes para o estabelecimento dessas operações.
+
+3 - Trimestralmente, a CF enviará aos Secretários Regionais das Finanças e dos Transportes e Turismo um relatório sucinto em que se refiram os controles efectuados e as anomalias detectadas, assim como os principais desvios verificados em relação aos orçamentos e respectivas causas.
+
+4 - O presidente da CF, por sua iniciativa ou a pedido do presidente do CA, poderá assistir ou fazer-se representar por outro membro da comissão às reuniões do CA.
+
+###### Artigo 12.º — Reuniões
+
+A CF reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocada pelo presidente, quer por iniciativa sua, quer a pedido da maioria dos seus membros ou do CA.
+
+#### SECÇÃO IV — Disposições comuns
+
+###### Artigo 13.º — Remunerações
+
+Os membros do CA e da CF receberão remunerações fixadas nos termos da legislação aplicável.
+
+###### Artigo 14.º — Deliberações
+
+1 - Os órgãos da empresa só poderão deliberar validamente quando esteja presente a maioria dos seus membros.
+
+2 - As deliberações serão tomadas por maioria absoluta de votos dos membros presentes, não sendo admitida a abstenção e o voto por correspondência ou por procuração.
+
+3 - As deliberações constarão da acta da reunião e só por essa forma poderão ser provadas. A acta será lavrada pelo elemento designado para o efeito e assinada por quem houver presidido à reunião, sendo aprovada no final desta, podendo-o ser mesmo em minuta e obrigatoriamente transcrita para um livro próprio, numerado e rubricado, com termos de abertura e encerramento.
+
+###### Artigo 15.º — Exercício cumulado de funções
+
+É vedado a qualquer membro o exercício cumulado de funções dos órgãos sociais da empresa.
+
+### CAPÍTULO III — Intervenção do Governo Regional
+
+###### Artigo 16.º — Finalidade e âmbito da intervenção do Governo Regional
+
+Cabe ao Governo Regional, através da Secretaria Regional dos Transportes e Turismo e demais departamentos competentes, assegurar a orientação da actividade da empresa, com vista à sua harmonização com as políticas globais e sectoriais e com o planeamento económico regional.
+
+###### Artigo 17.º — Tutela económica e financeira
+
+1 - A tutela económica e financeira da SATA Air Açores é exercida pelos Secretários Regionais das Finanças e dos Transportes e Turismo e compreende, para além das atribuições definidas neste estatuto e na lei geral, o poder de autorizar ou aprovar:
+
+a) Os planos de actividade e financeiros plurianuais;
+
+b) Os orçamentos anuais de exploração de investimento e financeiros, bem como as respectivas actualizações, que impliquem redução e resultados previsionais, acréscimo de despesas de investimento ou de necessidades de financiamento;
+
+c) Os documentos relativos à prestação de contas, aplicação de resultados e utilização de reservas;
+
+d) Os preços ou tarifas;
+
+e) As dotações para capital, indemnizações compensatórias e subsídios a conceder pelo orçamento regional e fundos autónomos;
+
+f) A aquisição e venda de bens imóveis, quando as verbas globais correspondentes não estejam previstas nos orçamentos aprovados;
+
+g) A aquisição e venda de bens de valor superior a 50000 contos;
+
+h) Os acordos de saneamento económico e financeiro, os contratos-programa e os contratos de gestão;
+
+i) O estatuto do pessoal e as remunerações e regalias dos trabalhadores;
+
+j) Os demais actos que nos termos da legislação aplicada necessitam de autorização tutelar.
+
+2 - A autorização ou aprovação referidas na alínea anterior dependem também da concordância do Secretário Regional do Trabalho e do secretário regional competente para a fixação de preços, respectivamente nas matérias relativas ao estatuto do pessoal e suas remunerações e à fixação de preços e tarifas.
+
+### CAPÍTULO IV — Da gestão patrimonial e financeira
+
+#### SECÇÃO I — Gestão patrimonial
+
+###### Artigo 18.º — Património
+
+1 - O património da SATA Air Açores é constituído pelos bens e direitos já pertencentes à empresa e por todos aqueles que venha a adquirir para ou no exercício da sua actividade.
+
+2 - A SATA Air Açores deve manter em dia o cadastro dos bens que integram o seu património e ainda o dos bens do Estado ou da Região Autónoma dos Açores que estejam afectos à sua actividade.
+
+3 - Compete ao CA administrar e dispor dos bens e direitos que integram o património da empresa e ainda administrar os bens do Estado e da Região afectos à sua actividade.
+
+#### SECÇÃO II — Gestão financeira
+
+###### Artigo 19.º — Princípios gerais de gestão
+
+1 - A gestão da empresa terá como objectivo prioritário a prestação do serviço público de transporte aéreo na Região, sem prejuízo de procurar alcançar o equilíbrio económico da exploração, assegurando níveis adequados de autofinanciamento e de remuneração do capital investido.
+
+2 - Com vista a permitir que o objectivo enunciado no número anterior seja atingido, as obrigações impostas à empresa no interesse público, designadamente a exploração de serviços deficitários em relação aos quais não seja possível efectuar reajustamentos tarifários que cubram a totalidade dos respectivos custos, serão objecto de acordo a estabelecer entre o Governo Regional e a empresa, com base em contratos-programa ou, na falta destes, nos orçamentos anuais que a empresa formular e que o Governo Regional aprovar.
+
+###### Artigo 20.º — Capital estatutário
+
+1 - O capital estatutário da SATA Air Açores é de 800000 contos, podendo ser reforçado com dotações do Governo Regional.
+
+2 - O capital estatutário poderá ainda ser reforçado, por resolução do Governo Regional, mediante incorporação de reservas livres, sob proposta do CA, com parecer favorável da CF.
+
+###### Artigo 21.º — Instrumentos de gestão previsional e de controle de gestão
+
+A gestão económica e financeira da empresa é disciplinada pelos seguintes instrumentos de gestão previsional, cuja preparação, em tempo oportuno, será assegurada pelo CA:
+
+a) Planos de actividade e financeiros plurianuais;
+
+b) Planos de actividade e orçamentos anuais, individualizando, pelo menos, os de exploração, de investimento, financeiro e cambial e suas actualizações;
+
+c) Relatórios de controle orçamental adaptados às características da empresa e às necessidades do seu acompanhamento por parte das Secretarias Regionais das Finanças e dos Transportes e Turismo.
+
+###### Artigo 22.º — Planos de actividade e financeiros. Orçamentos
+
+1 - Os planos de actividade e financeiros, bem como os orçamentos e contabilidade da empresa, serão organizados respeitando as directivas que disciplinarem a apresentação de planos e orçamentos e a contabilidade das empresas publicas.
+
+2 - O CA deverá promover as alterações necessárias aos orçamentos de despesas e de tesouraria, sempre que circunstâncias ponderosas as imponham.
+
+3 - Para efeitos de controle e aprovação, deverá o CA:
+
+a) Preparar, até 30 de Setembro de cada ano, uma primeira versão de elementos básicos dos seus orçamentos de exploração, de investimento, financeiro e cambial para o ano seguinte;
+
+b) Remeter, para aprovação, aos Secretários Regionais das Finanças e dos Transportes e Turismo, os projectos do plano de actividade e do orçamento anual, acompanhados de parecer da CF, até 30 de Novembro;
+
+c) Organizar, com referência a 31 de Dezembro de cada ano, os documentos de prestação de contas a submeter à aprovação dos Secretários Regionais das Finanças e dos Transportes e Turismo até 30 de Março.
+
+###### Artigo 23.º — Aplicação dos resultados
+
+1 - Os multados positivos de cada exercício, bem como os transitados de exercícios anteriores, terão o seguinte destino:
+
+a) Compensação de prejuízos que hajam transitado de exercícios anteriores;
+
+b) Constituição ou reforço de reservas obrigatórias;
+
+c) Constituição ou reforço de reservas facultativas;
+
+d) Entrega à Região.
+
+2 - Na elaboração da proposta de aplicação dos resultados positivos de cada exercício, o CA deverá ter em conta as necessidades de retenção dos resultados positivos da empresa para fazer face ao reembolso de financiamentos contraídos e ao autofinanciamento de investimentos programados, bem como à compensação dos efeitos desfavoráveis de inflação monetária.
+
+3 - As propostas referidas nos números anteriores, obtidos os pareceres da CF, serão submetidas, durante o mês de Março de cada ano, à homologação dos Secretários Regionais das Finanças e dos Transportes e Turismo.
+
+4 - As propostas referidas no número anterior considerar-se-ão homologadas se, decorridos 30 dias a partir da sua apresentação, a empresa não tiver sido notificada em contrário.
+
+###### Artigo 24.º — Publicação do relatório, balanço e contas
+
+O relatório do CA e o balanço e as contas de ganhos e perdas, depois de aprovados, serão publicados no Jornal Oficial da Região Autónoma dos Açores e pelo menos num jornal diário local da sede da empresa, sendo também feita publicação em folheto avulso, quando tal se revelar necessário.
+
+### CAPÍTULO V — Do pessoal
+
+###### Artigo 25.º — Regime jurídico
+
+O estatuto do pessoal da SATA Air Açores basear-se-á no regime do contrato individual de trabalho, podendo, em certos aspectos, ser definido nos instrumentos de regulamentação colectiva um regime de direito administrativo baseado no estatuto do funcionalismo público e na legislação regional, com as modificações exigidas pela natureza específica da actividade da empresa.
+
+###### Artigo 26.º — Comissão de serviço
+
+Os trabalhadores da empresa, quando requisitados pelo Estado ou pela Região Autónoma dos Açores, desempenharão as funções em regime de comissão de serviço, que não dará origem à abertura de vaga no respectivo quadro.
+
+### CAPÍTULO VI — Do regime fiscal
+
+###### Artigo 27.º — Regime fiscal da empresa
+
+A SATA Air Açores goza, com vista à prossecução das obrigações de serviço público que lhe sejam cometidas, dos benefícios e isenções previstos na lei.
+
+### CAPÍTULO VII — Disposições finais
+
+###### Artigo 28.º — Responsabilidade civil, criminal ou disciplinar dos administradores
+
+1 - Pelos actos ou omissões dos seus administradores, a SATA Air Açores responde civilmente perante terceiros nos mesmos termos em que, pelos actos dos comissários, respondem os comitentes, de acordo com a lei geral.
+
+2 - Os titulares de qualquer órgão da empresa respondem civilmente perante esta em razão dos prejuízos causados pelo incumprimento dos seus deveres legais ou estatutários.
+
+3 - O disposto nos números anteriores não prejudica a responsabilidade criminal ou disciplinar em que eventualmente incorram os titulares dos órgãos da SATA Air Açores.
+
+###### Artigo 29.º — Responsabilidade limitada da empresa
+
+1 - Pelos actos e factos imputados à empresa responderá exclusivamente o seu património, sem prejuízo do disposto no n.º 2 deste artigo.
+
+2 - A Região Autónoma dos Açores só responderá perante terceiros pelos actos imputáveis à empresa se e na medida em que, de modo expresso, tiver assumido tal responsabilidade.
+
+3 - A responsabilidade da empresa por danos resultantes da sua actividade de transporte aéreo será limitada nos precisos termos que se encontrarem regulamentados.
+
+###### Artigo 30.º — Arquivo de documentos
+
+1 - A SATA Air Açores deve conservar em arquivo, pelo prazo de dez anos, os elementos da sua escrita principal e a correspondência, podendo, porém, o CA ordenar a inutilização de documentos decorridos cinco anos sobre a sua entrada ou elaboração na empresa ou nos outros casos fixados na lei.
+
+2 - Por deliberação do CA, os documentos, livros e correspondência que devem conservar-se em arquivo podem ser, a todo o tempo, microfilmados e os respectivos originais inutilizados após a microfilmagem.
+
+###### Artigo 31.º — Participação em associações
+
+A empresa poderá fazer parte de associações ou organismos nacionais ou internacionais relacionados com as actividades por ela exercidas e desempenhar neles os cargos para que seja eleita, nos termos dos respectivos estatutos.

@@ -1,0 +1,254 @@
+---
+schema_version: '1.0'
+id: pt:dre:353966:por
+title: Decreto-Lei n.º 97/2006
+short_title: null
+summary: Altera o Decreto-Lei n.º 459/85, de 4 de Novembro, que cria a Representação Permanente de Portugal junto das Comunidades
+  Europeias
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 97/2006
+official_date: null
+publication_date: '2006-06-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2006, Série I-A de 2006-06-05
+  number: '108'
+  series: I
+  supplement: null
+  pages: 3796 - 3798
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/06/108a00/37963798.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/97/2006/06/05/p/dre/pt/html
+  oj: null
+  dre: '353966'
+  dre_path: /dr/detalhe/decreto-lei/97-2006-353966
+  internal: pt:dre:353966:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2006-353966
+  metadata_url: https://data.dre.pt/eli/dec-lei/97/2006/06/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/97-2006-353966
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-11-06T00:00:00Z'
+integrity:
+  source_sha256: 6035dd5713687e027183f945981c35aa27e3b6bcd2bd2e4baa0dd2d66e896453
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2006/DRE-2006-97-353966.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Orgânica
+- Quadro de Pessoal
+- Representação Permanente de Portugal Junto das Comunidades Europeias
+- Ministério dos Negócios Estrangeiros
+relationships:
+- type: amended_by
+  target: pt:dre:223765534:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/123/2005/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/123/2005/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/204/2001/07/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/204/2001/07/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/234-b/1998/07/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/234-b/1998/07/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/45/2006/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/45/2006/02/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/48/1994/02/24/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 97/2006
+
+de 5 de Junho
+
+A Representação Permanente de Portugal junto das Comunidades Europeias (REPER) foi criada há mais de 20 anos pelo [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, na dependência do Ministério dos Negócios Estrangeiros, tendo por missão assegurar a defesa dos interesses do Estado Português junto de todas as instituições comunitárias.
+
+Em linha com as recomendações da União Europeia, o XVII Governo Constitucional tem estado empenhado na concretização de todos os pressupostos, exigências e condições que permitam legislar melhor, com melhor justificação, adequação e qualidade dos actos normativos, o que exige, igualmente, uma maior intervenção da posição portuguesa nos procedimentos de elaboração do direito comunitário.
+
+Compreende-se, face ao exposto, a necessidade de introduzir a função específica de avaliação dos custos administrativos da legislação europeia preparada e aprovada pelas instituições comunitárias, prosseguindo-se, assim, o objectivo de conferir maior qualidade e racionalidade a tais iniciativas legislativas e de acautelar a sua maior simplificação e proporcionalidade.
+
+Por outro lado, existem núcleos ou pelouros cuja actividade e relevância têm aumentado significativamente no contexto da união económica e monetária, como é o caso do núcleo de economia e finanças, os quais não podem exercer cabalmente as suas funções com um número reduzido de funcionários, nem com um número de funcionários permanentemente variável. Por esta razão, importa reforçar a REPER com um maior número de pessoal especializado, o que se fará através da introdução de alterações ao mapa de pessoal a aprovar, nos termos do n.º 1 do artigo 4.º, por portaria conjunta do Ministros dos Negócios Estrangeiros e das Finanças.
+
+Além de se reforçar o quadro de pessoal especializado, aproveita-se também a presente iniciativa legislativa para actualizar as formas de recrutamento para a Representação Permanente em vigor e para fazer regressar esta matéria à sua base legal de origem, isto é, ao [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, e, em particular, ao seu artigo 6.º Com efeito, em 1998, foi aprovado o [Decreto-Lei n.º 234-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-b-1998-289610), de 28 de Julho, alterado pelo [Decreto-Lei n.º 204/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2001-372236), de 26 de Julho, o qual, desde então, sofreu já algumas alterações. Ora, importando legislar nesta matéria, considerou-se preferível e recomendável centralizar de novo num diploma único tudo aquilo que diga respeito ao quadro de pessoal da Representação Permanente de Portugal junto da União Europeia, pelo que se revoga o referido decreto-lei e as respectivas alterações.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Alteração ao [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro
+
+Os artigos 3.º, 4.º e 6.º do [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, alterado pelo [Decreto-Lei n.º 302/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1986-221975), de 20 de Setembro, passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+1 - ...
+
+2 - A nomeação do representante permanente é feita nos termos do n.º 1 do artigo 19.º do [Decreto-Lei n.º 48/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471), de 24 de Fevereiro, na redacção introduzida pelo [Decreto-Lei n.º 45/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2006-694050), de 24 de Fevereiro.
+
+3 - O representante permanente é directamente coadjuvado por um representante permanente-adjunto e pelo representante permanente no Comité Político e de Segurança, os quais têm a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe.
+
+4 - Compete ao representante permanente-adjunto e ao representante permanente no Comité Político e de Segurança, para além das competências delegadas pelo representante permanente, substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 4.º
+
+1 - A Representação Permanente integra o pessoal constante do mapa aprovado e alterado por portaria conjunta do Ministros dos Negócios Estrangeiros e das Finanças.
+
+2 - Uma das vagas pertencentes à categoria de pessoal especializado é necessariamente destinada a um conselheiro responsável pela avaliação dos custos e benefícios da legislação comunitária a aprovar, com vista a assegurar a qualidade e a racionalidade da mesma.
+
+3 - (Anterior n.º 2.)
+
+###### Artigo 6.º
+
+1 - Os funcionários dos diferentes ministérios e os trabalhadores das empresas públicas ou nacionalizadas que venham a integrar a Representação Permanente são propostos pelos membros do Governo interessados e requisitados aos respectivos serviços por despacho do Ministro dos Negócios Estrangeiros.
+
+2 - ...
+
+3 - ...
+
+4 - Sem prejuízo das competências atribuídas aos membros do Governo mencionados no n.º 1, aos trabalhadores dos institutos públicos que revistam a natureza de serviços personalizados, mas vinculados por contrato individual de trabalho, é aplicável o regime previsto no [Decreto-Lei n.º 485/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1976-431188), de 21 de Junho, com as alterações introduzidas pelo artigo 37.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+
+5 - As requisições, comissões de serviço ou contratos de pessoal especializado para prestar serviços na Representação Permanente de Portugal junto da União Europeia nas categorias de conselheiro técnico principal, de conselheiro técnico ou de adido técnico têm a duração de três anos e só podem ser prorrogados, por uma única vez e por igual período, mediante despacho do Ministro dos Negócios Estrangeiros.
+
+6 - Por conveniência de serviço, o Ministro dos Negócios Estrangeiros pode determinar que as requisições, comissões de serviço ou contratos de pessoal especializado referidos no número anterior terminem em 31 de Agosto do ano em que devem cessar.»
+
+###### Artigo 2.º — Disposição transitória
+
+O limite temporal a que se refere o n.º 5 do artigo 6.º do [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, na redacção introduzida pelo presente decreto-lei, não prejudica a aplicação do regime transitório consagrado no artigo 2.º do [Decreto-Lei n.º 123/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2005-240379), de 3 de Agosto.
+
+###### Artigo 3.º — Norma revogatória
+
+São revogados:
+
+a) Os artigos 8.º e 9.º do [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, alterado pelo [Decreto-Lei n.º 302/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-1986-221975), de 20 de Setembro;
+
+b) O [Decreto-Lei n.º 234-B/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-b-1998-289610), de 28 de Julho, na redacção que lhe foi dada pelo [Decreto-Lei n.º 204/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/204-2001-372236), de 26 de Julho.
+
+###### Artigo 4.º — Republicação
+
+É republicado, em anexo, que faz parte integrante do presente decreto-lei, o [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro, com a redacção actual.
+
+Visto e aprovado em Conselho de Ministros de 23 de Março de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Manuel Mendonça de Oliveira Neves - Fernando Teixeira dos Santos - Jorge Lacão Costa.
+
+**Promulgado em 22 de Maio de 2006.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 25 de Maio de 2006.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+## ANEXO — (a que se refere o artigo 4.º)
+
+Republicação do [Decreto-Lei n.º 459/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/459-1985-171362), de 4 de Novembro
+
+###### Artigo 1.º
+
+É criada a Representação Permanente de Portugal junto das Comunidades Europeias em Bruxelas, na dependência do Ministério dos Negócios Estrangeiros.
+
+###### Artigo 2.º
+
+Compete à Representação Permanente assegurar a defesa dos interesses do Estado Português junto de todas as instituições das Comunidades Europeias.
+
+###### Artigo 3.º
+
+1 - A Representação Permanente será chefiada pelo representante permanente de Portugal junto das Comunidades Europeias, que terá a categoria de embaixador.
+
+2 - A nomeação do representante permanente é feita nos termos do n.º 1 do artigo 19.º do [Decreto-Lei n.º 48/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-1994-515471), de 24 de Fevereiro, na redacção introduzida pelo [Decreto-Lei n.º 45/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2006-694050), de 24 de Fevereiro.
+
+3 - O representante permanente é directamente coadjuvado por um representante permanente-adjunto e pelo representante permanente no Comité Político e de Segurança, os quais têm a categoria de ministro plenipotenciário de 1.ª classe ou de 2.ª classe.
+
+4 - Compete ao representante permanente-adjunto e ao representante permanente no Comité Político e de Segurança, para além das competências delegadas pelo representante permanente, substituí-lo nas suas faltas e impedimentos.
+
+###### Artigo 4.º
+
+1 - A Representação Permanente integra o pessoal constante do mapa aprovado e alterado por portaria conjunta dos Ministros dos Negócios Estrangeiros e das Finanças.
+
+2 - Uma das vagas pertencentes à categoria de pessoal especializado é necessariamente destinada a um conselheiro responsável pela avaliação dos custos e benefícios da legislação comunitária a aprovar, com vista a assegurar a qualidade e a racionalidade da mesma.
+
+3 - São aplicáveis à Representação Permanente as disposições legais que regulam o funcionamento das missões diplomáticas portuguesas no estrangeiro.
+
+###### Artigo 5.º
+
+1 - Os funcionários do quadro diplomático do Ministério dos Negócios Estrangeiros designados para integrar a Representação Permanente serão colocados em comissão de serviço, abrindo vaga no quadro do Ministério.
+
+2 - Quando cessar a comissão, os funcionários regressarão ao exercício das suas funções no quadro a que pertencerem e, se não houver vaga, aguardarão como supranumerários, mas com a totalidade dos direitos e deveres do cargo que lhes competir, a abertura da primeira vaga da sua categoria, na qual serão imediatamente providos.
+
+###### Artigo 6.º
+
+1 - Os funcionários dos diferentes ministérios e os trabalhadores das empresas públicas ou nacionalizadas que venham a integrar a Representação Permanente são propostos pelos membros do Governo interessados e requisitados aos respectivos serviços por despacho do Ministro dos Negócios Estrangeiros.
+
+2 - Os funcionários dependentes dos Governos das Regiões Autónomas que vierem a integrar a Representação Permanente são propostos pelos respectivos presidentes dos Governos e requisitados por despacho do Ministro dos Negócios Estrangeiros.
+
+3 - Às requisições a que se referem os números anteriores é supletivamente aplicável o regime previsto na lei geral.
+
+4 - Sem prejuízo das competências atribuídas aos membros do Governo mencionados no n.º 1, aos trabalhadores dos institutos públicos que revistam a natureza de serviços personalizados, mas vinculados por contrato individual de trabalho, é aplicável o regime previsto no [Decreto-Lei n.º 485/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/485-1976-431188), de 21 de Junho, com as alterações introduzidas pelo artigo 37.º do [Decreto-Lei n.º 41/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-1984-367855), de 3 de Fevereiro.
+
+5 - As requisições, comissões de serviço ou contratos de pessoal especializado para prestar serviços na Representação Permanente de Portugal junto da União Europeia nas categorias de conselheiro técnico principal, de conselheiro técnico ou de adido técnico têm a duração de três anos e só podem ser prorrogados, por uma única vez e por igual período, mediante despacho do Ministro dos Negócios Estrangeiros.
+
+6 - Por conveniência de serviço, o Ministro dos Negócios Estrangeiros pode determinar que as requisições, comissões de serviço ou contratos de pessoal especializado referidos no número anterior terminem em 31 de Agosto do ano em que devem cessar.
+
+###### Artigo 7.º
+
+A Representação Permanente disporá, para além dos funcionários referidos nos artigos anteriores, do pessoal assalariado que for indispensável para o bom funcionamento dos serviços.
+
+###### Artigo 8.º — (Revogado.)
+
+###### Artigo 9.º — (Revogado.)
+
+###### Artigo 10.º
+
+O presente diploma entrará em vigor no dia imediato ao da sua publicação.

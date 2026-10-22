@@ -1,0 +1,421 @@
+---
+schema_version: '1.0'
+id: pt:dre:553438:por
+title: Decreto Regulamentar n.º 31/2012
+short_title: null
+summary: Aprova a orgânica da Direcção-Geral de Alimentação e Veterinária
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 31/2012
+official_date: null
+publication_date: '2012-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2012, Série I de 2012-03-13
+  number: '52'
+  series: I
+  supplement: null
+  pages: 1128 - 1130
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/05200/0112801130.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-05-01'
+version_history:
+  file: decreto-regulamentar-31-2012.versoes.json
+  count: 5
+  source_lastmod: '2025-04-07'
+  versions:
+  - date: '2012-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-08-02'
+    amending: pt:dre:498565:por
+    amending_title: Decreto-Lei n.º 109/2013
+    changes:
+    - Altera Artigo 2.º
+  - date: '2014-11-11'
+    amending: pt:dre:58815300:por
+    amending_title: Decreto-Lei n.º 171/2014
+    changes:
+    - Altera Artigo 2.º
+  - date: '2015-06-28'
+    amending: pt:dre:67098361:por
+    amending_title: Decreto-Lei n.º 68/2015
+    changes:
+    - Altera Artigo 2.º
+  - date: '2025-05-01'
+    amending: pt:dre:913947258:por
+    amending_title: Decreto Regulamentar n.º 4/2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Anexo
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/31/2012/p/cons/20250407/pt/html
+  oj: null
+  dre: '553438'
+  dre_path: /dr/detalhe/decreto-regulamentar/31-2012-553438
+  internal: pt:dre:553438:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/31-2012-553438
+  metadata_url: https://data.dre.pt/eli/decregul/31/2012/p/cons/20250407/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-914000862
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2012-914000862
+  retrieved_at: '2026-10-22T13:24:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-04-07T00:00:00Z'
+integrity:
+  source_sha256: 28376b74fded6674f1b0b1f713e9d5880a61e544b5f571156b331dd5be213306
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:24:52Z'
+  notes: 5 versão(ões); histórico completo em decreto-regulamentar-31-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direção Geral de Agricultura e Desenvolvimento Rural
+- Comissão Consultiva
+- Gestão Financeira
+- Direção Geral de Veterinária
+- Definição de Competências
+- Direção Geral de Alimentação e Veterinária
+- Ministério da Agricultura do Mar do Ambiente e do Ordenamento do Território
+- Diretor Geral
+- Gabinete de Planeamento e Políticas
+- Orgânica
+- Quadro de Pessoal
+- Transferência de Competências
+relationships:
+- type: amended_by
+  target: pt:dre:498565:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2013-498565
+  date: '2013-08-01'
+- type: amended_by
+  target: pt:dre:58815300:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2014-58815300
+  date: '2014-11-10'
+- type: amended_by
+  target: pt:dre:67098361:por
+  label: Altera Artigo 2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2015-67098361
+  date: '2015-04-29'
+- type: amended_by
+  target: pt:dre:913947258:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2025-913947258
+  date: '2025-04-07'
+- type: cites
+  target: celex:31999L0022
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/11/2007/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/11/2007/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 14
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:24:52Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 31/2012
+
+Decreto Regulamentar n.º 31/2012, de 13 de março
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste sentido e na sequência da unificação num só ministério das áreas da agricultura, mar, florestas, desenvolvimento rural, ambiente, ordenamento do território, habitação e reabilitação urbana, promove-se a racionalização estrutural prevista na Lei Orgânica do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, procedendo-se à criação da Direcção-Geral de Alimentação e Veterinária (DGAV).
+
+Tendo sido constatado que a consecução de uma melhoria substancial da protecção da saúde pública e da defesa dos direitos dos consumidores reclama uma revalorização das atribuições no domínio da segurança alimentar e da sanidade animal e vegetal, procedeu-se à reorganização de uma área que tem estado excessivamente pulverizada por diversos organismos e que importa dotar de maior eficiência, garantindo-se uma maior agilidade através da aproximação do modelo orgânico nacional ao modelo comunitário da Direcção-Geral da Saúde e da Protecção do Consumidor (DGSANCO).
+
+À nova Direcção-Geral são, assim, atribuídas as competências relativas à saúde e protecção animal, anteriormente desempenhadas pela Direcção-Geral de Veterinária, a que acrescem funções de regulamentação e coordenação do controlo alimentar, antes cometidas ao Gabinete de Políticas e Planeamento, e ainda funções de sanidade vegetal e fitossanidade, antes desempenhadas pela Direcção-Geral de Agricultura e Desenvolvimento Rural.
+
+Considerou-se ainda necessário, como forma de promover a proximidade de actuação e optimização de recursos, garantir a acção coordenada com as Direcções Regionais de Agricultura e Pescas das unidades orgânicas desconcentradas de âmbito regional da anterior Direcção-Geral de Veterinária, garantindo-se a verticalização funcional nestas matérias.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Direcção-Geral de Alimentação e Veterinária, abreviadamente designada por DGAV, é um serviço central da administração directa do Estado dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A DGAV tem por missão a definição, execução e avaliação das políticas de segurança dos alimentos, de proteção animal, de sanidade animal e sanidade vegetal, sendo investida nas funções de autoridade sanitária veterinária e fitossanitária nacional, de autoridade nacional para os medicamentos veterinários e de autoridade responsável pela gestão do sistema de segurança dos alimentos.
+
+2 - A DGAV prossegue as seguintes atribuições:
+
+a) Participar na elaboração e execução das políticas de segurança dos alimentos, de proteção, sanidade e produção animal, saúde pública veterinária, sanidade vegetal e materiais de multiplicação vegetal;
+
+b) Assegurar a representação junto das instâncias nacionais, da União Europeia e internacionais nos domínios relativos às suas atribuições, bem como a coordenação do Sistema de Alerta Rápido para os Géneros Alimentícios e Alimentos para Animais, do sistema de gestão da informação sobre os controlos oficiais, das missões de análise e auditoria da Comissão Europeia e dos grupos do Codex Alimentarius e da formação no âmbito do programa ‘Melhor formação para uma maior segurança dos alimentos’;
+
+c) Coordenar a elaboração do plano nacional de controlo plurianual, relativo aos controlos oficiais e outras atividades oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios, das normas relativas à saúde e ao bem-estar dos animais, fitossanidade e produtos fitofarmacêuticos;
+
+d) Definir e coordenar as estratégias de promoção da segurança dos géneros alimentícios, de alimentos para animais e materiais em contacto com géneros alimentícios, em articulação com a Autoridade de Segurança Alimentar e Económica (ASAE), bem como da fitossanidade e proteção e sanidade dos animais;
+
+e) Elaborar, coordenar, executar e avaliar os planos de controlo oficial relativos à produção e transformação dos géneros alimentícios, das respetivas matérias-primas, ingredientes e aditivos, dos materiais em contacto com géneros alimentícios e dos subprodutos de origem animal e dos alimentos para animais;
+
+f) Elaborar, coordenar, executar e avaliar os planos de controlo oficial no âmbito da sanidade vegetal, de formulações de produtos fitofarmacêuticos, dos medicamentos veterinários, bem como os planos de controlo oficial relativos aos recursos genéticos animais, à proteção e sanidade animal, incluindo as ações de inspeção higiossanitária dos produtos de origem animal e a implementação de programas de prevenção e luta relativamente a epizootias ou doenças de carácter zoonótico;
+
+g) (Revogada.)
+
+h) Coordenar, regulamentar e executar as atividades técnicas relativas ao controlo e certificação de materiais de multiplicação de plantas, incluindo o cultivo de variedades vegetais geneticamente modificadas e conceder autorizações de cultivo de canábis para fins industriais;
+
+i) Regulamentar, autorizar, controlar e inspecionar a produção, comercialização e utilização dos medicamentos veterinários, produtos e biocidas de uso veterinário, biocidas de proteção da madeira, alimentos medicamentosos para animais, produtos fitofarmacêuticos e agentes de controlo biológico;
+
+j) Definir, coordenar, executar e avaliar as ações relativas à certificação para exportação e controlos à importação no âmbito das suas atribuições;
+
+l) Assegurar a coordenação da informação relativa aos registos de operadores do setor alimentar, no âmbito do Sistema da Indústria Responsável, enquanto autoridade responsável pela gestão do sistema de segurança dos alimentos;
+
+m) Coordenar o funcionamento do sistema nacional de informação e registo animal;
+
+n) Assegurar a proteção e a valorização dos recursos genéticos animais terrestres e vegetais, designadamente através da coordenação da execução e de ações que visem a defesa, a gestão, o melhoramento e a conservação do património genético nacional, incluindo a manutenção, promoção e valorização do Banco Português de Germoplasma Animal, em articulação com o Instituto Nacional de Investigação Agrária e Veterinária, I. P.;
+
+o) A manutenção do Registo Nacional de Equinos;
+
+p) Superintender a gestão dos livros genealógicos geridos pelas associações de criadores reconhecidas para todas as espécies animais, designadamente homologação dos secretários técnicos, aprovação de regulamentos e acompanhamento e verificação do seu cumprimento;
+
+q) (Revogada.)
+
+r) (Revogada.)
+
+s) A manutenção e desenvolvimento do Laboratório de Genética Molecular, a fim de garantir o controlo da identidade e ou filiação dos equinos nacionais;
+
+t) A manutenção, exploração e preservação do acervo documental, designadamente a Biblioteca da Coudelaria Nacional e o Arquivo e Biblioteca da Real Associação Central da Agricultura Portuguesa e, ainda, o espólio de caráter arqueológico;
+
+u) (Revogada.)
+
+v) (Revogada.)
+
+x) (Revogada.)
+
+y) (Revogada.)
+
+z) Regular e controlar as provas equestres e as corridas de cavalos, incluindo aquelas sobre as quais se praticam apostas hípicas qualquer que seja a sua modalidade, realizadas no território continental, bem como, no mesmo âmbito assegurar a concessão da exploração de hipódromos e o seu controlo;
+
+aa) Proceder à validação e ao pagamento decorrente do financiamento da aplicação das medidas definidas a nível nacional e da União Europeia, no âmbito das suas atribuições, designadamente, no que respeita ao sistema de segurança dos géneros alimentícios e alimentos para animais, à proteção e sanidade animal e à sanidade vegetal;
+
+bb) Elaborar, coordenar e avaliar o plano de controlo de resíduos de pesticidas em produtos de origem vegetal, em articulação com a ASAE e com os serviços competentes das Regiões Autónomas dos Açores e da Madeira;
+
+cc) Assegurar a elaboração dos Catálogos Nacionais de Variedades de espécies hortícolas, agrícolas, de videira e ornamentais, assim como o Registo Nacional de Variedades de Fruteiras, e a articulação com os Catálogos e Listas Comuns da União Europeia e com a Lista de Variedades Admitidas à Certificação da Organização para a Cooperação e Desenvolvimento Económico;
+
+dd) Assegurar a atribuição de títulos de obtentor vegetal e a articulação com as entidades da União Europeia e internacionais nesta matéria;
+
+ee) Assegurar a participação no âmbito do sistema da União Europeia relativo à avaliação e supervisão de medicamentos veterinários, incluindo a articulação com a Agência Europeia de Medicamentos e a Comissão Europeia e demais instituições da União Europeia;
+
+ff) Coordenar o funcionamento e a execução do Serviço Nacional de Avisos Agrícolas;
+
+gg) Assegurar a regulamentação nacional das normas de comercialização dos produtos agroalimentares, articulando a representação internacional e na União Europeia com outras entidades;
+
+hh) Programar, coordenar e desenvolver, de forma permanente e sistemática, a política de formação e aperfeiçoamento profissional dos trabalhadores, bem como conceber e organizar ações de formação externa, no domínio de atuação da DGAV;
+
+ii) Acompanhar e apoiar a política internacional do Estado Português na área do bem-estar dos animais de companhia, assegurando a negociação de convenções, acordos e tratados internacionais, bem como participar em comissões, reuniões, conferências ou organizações similares;
+
+jj) Definir e aplicar as políticas de bem-estar, detenção, criação, comércio e controlo das populações de animais de companhia;
+
+kk) Definir estratégias adequadas à proteção dos animais de companhia em situações de acidentes graves e catástrofes;
+
+ll) Garantir o cumprimento em território nacional da Convenção Europeia para a Proteção dos Animais de Companhia e demais legislação aplicável em matéria de bem-estar dos animais de companhia;
+
+mm) Assegurar o cumprimento das regras aplicáveis à detenção, criação, comércio e exposição de animais de companhia;
+
+nn) Criar, organizar e manter atualizado o registo nacional das associações zoófilas;
+
+oo) Garantir o cumprimento da Diretiva 1999/22/CE, do Conselho, de 29 de março de 1999, relativa à detenção de fauna selvagem em jardins zoológicos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2025-913947258), em vigor a partir de 2025-05-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 68/2015 - Diário da República n.º 83/2015, Série I de 2015-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/68-2015-67098361), em vigor a partir de 2015-06-28
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 171/2014 - Diário da República n.º 217/2014, Série I de 2014-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/171-2014-58815300), em vigor a partir de 2014-11-11
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 109/2013 - Diário da República n.º 147/2013, Série I de 2013-08-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2013-498565), em vigor a partir de 2013-08-02
+
+###### Artigo 3.º — Órgãos
+
+A DGAV é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.
+
+###### Artigo 4.º — Director-geral
+
+1 - O Director-geral exerce as competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas.
+
+2 - O diretor-geral exerce ainda as seguintes competências em matéria de bem-estar animal:
+
+a) Determinar os termos dos incentivos para o investimento nos centros de recolha oficial e do apoio para a melhoria das instalações das associações zoófilas legalmente constituídas, bem como para as campanhas de identificação, esterilização e ações de sensibilização para os benefícios da esterilização de animais de companhia;
+
+b) Definir as condições e normas técnicas a que devem obedecer os programas de controlo das populações errantes de animais de companhia, nomeadamente os programas de captura, esterilização e devolução de gatos e o funcionamento dos centros de recolha oficial;
+
+c) Assegurar o licenciamento de parques zoológicos, nomeadamente jardins zoológicos, delfinários, aquários, oceanários, reptilários, parques ornitológicos e parques safari ou outras instalações similares, assim como dos centros de recolha, reservas e viveiros de fauna cinegética;
+
+d) Garantir o registo nacional de licenças, alvarás ou outras autorizações de funcionamento, nomeadamente, relativas a alojamento para hospedagem de animais de companhia, conforme definido no Decreto-Lei n.º 276/2001, de 17 de outubro, na sua redação atual;
+
+e) Coordenar e promover os planos e programas de controlo relativos a animais de companhia em articulação com as autarquias locais no âmbito das suas competências;
+
+f) Elaborar um relatório anual sobre a situação ao nível nacional, referente ao ano anterior de atividade, dos centros de recolha oficial de animais de companhia, com base nos dados relativos à sua gestão publicitados nos termos da lei;
+
+g) Promover formação, através de especialistas de reconhecido mérito académico ou profissional, nas áreas de avaliação do bem-estar, proteção penal e contraordenacional e perícia médico-veterinária legal e forense relativamente a animais de companhia;
+
+h) Cooperar com as autarquias locais, e demais entidades competentes, em matéria de bem-estar dos animais de companhia, nomeadamente em ações de inspeção, controlo e fiscalização;
+
+i) Receber a mera comunicação prévia relativa a alojamento para hospedagem de animais de companhia, nos termos do artigo 3.º-A do Decreto-Lei n.º 276/2001, de 17 de outubro, na sua redação atual;
+
+j) Autorizar os alojamentos para hospedagem com fins lucrativos destinados à reprodução e criação de animais potencialmente perigosos, nos termos do artigo 3.º-B do Decreto-Lei n.º 276/2001, de 17 de outubro, na sua redação atual;
+
+k) Autorizar a realização de concursos e exposições, nos termos previstos no n.º 2 do artigo 4.º do Decreto-Lei n.º 314/2003, de 17 de dezembro.
+
+3 - Aos subdirectores-gerais compete substituir o director-geral nas suas faltas e impedimentos e exercer as competências que por este lhes sejam delegadas ou subdelegadas, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2025-913947258), em vigor a partir de 2025-05-01
+
+###### Artigo 5.º — Comissões consultivas
+
+1 - As comissões consultivas são órgãos de consulta do diretor-geral da DGAV, que as coordena, podendo ter carácter temático ou sectorial.
+
+2 - As comissões consultivas são constituídas por organizações representativas da produção, comércio, indústria e consumo das respectivas actividades, e por outros organismos públicos ou privados representativos dos sectores ou dos temas envolvidos.
+
+3 - As competências e a composição das comissões consultivas são fixadas por despacho do membro do Governo responsável pela área da agricultura, não podendo a sua instituição constituir qualquer encargo para o Estado.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto Regulamentar n.º 4/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2025-913947258), em vigor a partir de 2025-05-01
+
+###### Artigo 6.º — Tipo de organização interna
+
+A organização interna da DGAV obedece ao modelo estrutural hierarquizado.
+
+###### Artigo 7.º — Serviços desconcentrados
+
+1 - A DGAV dispõe de cinco unidades orgânicas desconcentradas, de âmbito regional, designadas Direcções de Serviços de Alimentação e Veterinária.
+
+2 - As Direcções de Serviços de Alimentação e Veterinária são dirigidas por directores, cargos de direcção intermédia de 1.º grau.
+
+###### Artigo 8.º — Receitas
+
+1 - A DGAV dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A DGAV dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+b) As comparticipações, subsídios, donativos ou outras verbas atribuídas por quaisquer agentes, instituições ou entidades públicas, privadas ou cooperativas, e legalmente aceites;
+
+c) O produto de venda de impressos, publicações e de trabalhos por si editados;
+
+d) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;
+
+e) O produto integral ou parcial de taxas, saldos de exploração, reposições e outro tipo de receita resultante ou proveniente da venda de bens ou equipamentos próprios;
+
+f) O produto das taxas decorrentes da atribuição de autorizações de introdução no mercado de produtos fitofarmacêuticos e medicamentos veterinários;
+
+g) O produto das taxas cobradas no âmbito da inspecção e certificação nas áreas da sua competência;
+
+h) O produto de coimas e custas dos processos por si instaurados, instruídos ou concluídos;
+
+i) As quantias provenientes de análises, exames laboratoriais e peritagens;
+
+j) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As quantias cobradas pela DGAV são fixadas e periodicamente actualizadas por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
+
+###### Artigo 9.º — Despesas
+
+Constituem despesas da DGAV as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+###### Artigo 10.º — Mapa de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto regulamentar, do qual fazem parte integrante.
+
+###### Artigo 11.º — Sucessão
+
+A DGAV sucede nas atribuições:
+
+a) Da Direcção-Geral de Veterinária;
+
+b) Da Direcção-Geral de Agricultura e Desenvolvimento Rural, no domínio da fitossanidade;
+
+c) Do Gabinete de Planeamento e Políticas, no domínio da normalização e segurança alimentar.
+
+###### Artigo 12.º — Critérios de selecção de pessoal
+
+São fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da DGAV:
+
+a) O desempenho de funções na Direcção-Geral de Veterinária;
+
+b) O desempenho de funções na Direcção-Geral de Agricultura e Desenvolvimento Rural, no domínio da fitossanidade;
+
+c) O desempenho de funções no Gabinete de Planeamento e Políticas, no domínio da normalização e segurança alimentar.
+
+###### Artigo 13.º — Norma revogatória
+
+É revogado o Decreto Regulamentar n.º 11/2007, de 27 de Fevereiro.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 3 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 5 de Março de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 7 de Março de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+## Anexo — Mapa de pessoal dirigente
+
+(a que se refere o artigo 10.º)
+
+| **Designação dos cargos dirigentes** | **Qualificação dos cargos dirigentes** | **Grau** | **Número de lugares** |
+| --- | --- | --- | --- |
+| [if !supportLists]*a)*[endif]Diretor-geral | [if !supportLists]*b)*[endif]Direção superior | 1.º | 1 |
+| [if !supportLists]*c)*[endif]Subdiretores-gerais | [if !supportLists]*d)*[endif]Direção superior | 2.º | 2 |
+| [if !supportLists]*e)*[endif]Diretor de serviços | [if !supportLists]*f)*Direção intermédia | 1.º | 13 |
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto Regulamentar n.º 4/2025 - Diário da República n.º 68/2025, Série I de 2025-04-07](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/4-2025-913947258), em vigor a partir de 2025-05-01

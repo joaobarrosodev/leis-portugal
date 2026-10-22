@@ -1,0 +1,2505 @@
+---
+schema_version: '1.0'
+id: pt:dre:130243053:por
+title: Decreto-Lei n.º 10-A/2020
+short_title: null
+summary: Estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID 19
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Presidência do Conselho de Ministros
+official_number: 10-A/2020
+official_date: null
+publication_date: '2020-03-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/2020, 1º Suplemento, Série I de 2020-03-13
+  number: '52'
+  series: I
+  supplement: 1º Suplemento
+  pages: 22-(2) a 22-(13)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05201/0000200013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-06-29'
+version_history:
+  file: decreto-lei-10-a-2020.versoes.json
+  count: 43
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-03-25'
+    amending: pt:dre:130603009:por
+    amending_title: Decreto-Lei n.º 10-E/2020
+    changes:
+    - Altera Artigo 1.º
+  - date: '2020-04-07'
+    amending: pt:dre:131193442:por
+    amending_title: Decreto-Lei n.º 12-A/2020; Lei n.º 4-A/2020
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 16.º-A
+    - Adita Artigo 32.º-A
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 10.º
+    - Altera Artigo 17.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 2.º
+  - date: '2020-04-11'
+    amending: pt:dre:131338915:por
+    amending_title: Lei n.º 5/2020
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+  - date: '2020-04-14'
+    amending: pt:dre:131393157:por
+    amending_title: Decreto-Lei n.º 14-F/2020
+    changes:
+    - Adita Artigo 32.º-B
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+  - date: '2020-04-24'
+    amending: pt:dre:132332505:por
+    amending_title: Decreto-Lei n.º 18/2020
+    changes:
+    - Adita Artigo 2.º-A
+    - Adita Artigo 30.º-A
+  - date: '2020-05-02'
+    amending: pt:dre:132883356:por
+    amending_title: Decreto-Lei n.º 20/2020
+    changes:
+    - Adita Artigo 13.º-A
+    - Adita Artigo 13.º-B
+    - Adita Artigo 13.º-C
+    - Adita Artigo 15.º-A
+    - Adita Artigo 25.º-A
+    - Adita Artigo 25.º-B
+    - Adita Artigo 25.º-C
+    - Adita Artigo 34.º-A
+    - Adita Artigo 34.º-B
+    - Adita Artigo 35.º-A
+    - Adita Artigo 35.º-B
+    - Adita Artigo 35.º-C
+    - Adita Artigo 35.º-D
+    - Adita Artigo 35.º-E
+    - Adita Artigo 35.º-F
+    - Adita Artigo 35.º-G
+    - Adita Artigo 35.º-H
+    - Adita Artigo 35.º-I
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Revoga Artigo 32.º-B
+  - date: '2020-05-07'
+    amending: pt:dre:133161452:por
+    amending_title: Decreto-Lei n.º 20-A/2020
+    changes:
+    - Adita Artigo 2.º-B
+  - date: '2020-05-13'
+    amending: pt:dre:133491339:por
+    amending_title: Decreto-Lei n.º 20-D/2020
+    changes:
+    - Adita Artigo 9.º-A
+    - Adita Artigo 13.º-D
+  - date: '2020-05-15'
+    amending: pt:dre:133879987:por
+    amending_title: Decreto-Lei n.º 22/2020; Decreto-Lei n.º 20-H/2020
+    changes:
+    - Adita Artigo 35.º-J
+    - Entrada Vigor Artigo 9.º
+  - date: '2020-05-17'
+    amending: pt:dre:133879987:por
+    amending_title: Decreto-Lei n.º 22/2020
+    changes:
+    - Adita Artigo 25.º-D
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 13.º-B
+    - Altera Artigo 16.º
+    - Altera Artigo 35.º-G
+  - date: '2020-05-30'
+    amending: pt:dre:134889277:por
+    amending_title: Decreto-Lei n.º 24-A/2020
+    changes:
+    - Adita Artigo 9.º-B
+    - Adita Artigo 18.º-A
+    - Adita Artigo 35.º-L
+    - Adita Artigo 35.º-M
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º-B
+    - Altera Artigo 13.º-D
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 25.º-D
+    - Altera Artigo 28.º-B
+    - Altera Artigo 35.º-B
+    - Altera Artigo 35.º-D
+    - Altera Artigo 35.º-J
+    - Revoga Artigo 29.º
+    - Revoga Artigo 35.º-I
+  - date: '2020-06-27'
+    amending: pt:dre:136788887:por
+    amending_title: Decreto-Lei n.º 28-B/2020
+    changes:
+    - Altera Artigo 13.º-B
+  - date: '2020-07-17'
+    amending: pt:dre:138217278:por
+    amending_title: Decreto-Lei n.º 39-A/2020
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 13.º-B
+    - Altera Artigo 25.º-D
+    - Revoga Artigo 17.º
+    - Revoga Artigo 32.º-A
+  - date: '2020-07-25'
+    amending: pt:dre:138762310:por
+    amending_title: Lei n.º 27-A/2020
+    changes:
+    - Altera Artigo 26.º
+  - date: '2020-08-12'
+    amending: pt:dre:140013516:por
+    amending_title: Lei n.º 31/2020
+    changes:
+    - Altera Artigo 25.º-A
+    - Altera Artigo 26.º
+    - Altera Artigo 28.º-A
+    - Altera Artigo 35.º-B
+    - Revoga Artigo 35.º-I
+  - date: '2020-08-15'
+    amending: pt:dre:140431113:por
+    amending_title: Decreto-Lei n.º 58-B/2020
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 9.º-A
+    - Revoga Artigo 9.º-B
+  - date: '2020-09-04'
+    amending: pt:dre:141967954:por
+    amending_title: Decreto-Lei n.º 62-A/2020
+    changes:
+    - Adita Artigo 35.º-N
+    - Adita Artigo 37.º-A
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+  - date: '2020-09-30'
+    amending: pt:dre:144010968:por
+    amending_title: Decreto-Lei n.º 78-A/2020
+    changes:
+    - Adita Artigo 35.º-K
+    - Altera Artigo 6.º
+    - Altera Artigo 25.º-B
+  - date: '2020-10-16'
+    amending: pt:dre:145589087:por
+    amending_title: Decreto-Lei n.º 87-A/2020
+    changes:
+    - Adita Artigo 35.º-O
+    - Altera Artigo 16.º
+    - Revoga Artigo 18.º
+    - Revoga Artigo 35.º-C
+  - date: '2020-11-04'
+    amending: pt:dre:147533155:por
+    amending_title: Decreto-Lei n.º 94-A/2020
+    changes:
+    - Adita Artigo 6.º-B
+    - Adita Artigo 6.º-C
+    - Adita Artigo 8.º-A
+    - Adita Artigo 19.º-A
+    - Adita Artigo 19.º-B
+    - Adita Artigo 35.º-P
+    - Altera Artigo 35.º-G
+  - date: '2020-11-23'
+    amending: pt:dre:149220108:por
+    amending_title: Decreto-Lei n.º 99/2020
+    changes:
+    - Adita Artigo 6.º-D
+    - Adita Artigo 6.º-E
+    - Adita Artigo 35.º-Q
+    - Adita Artigo 35.º-U
+    - Altera Artigo 5.º
+    - Altera Artigo 13.º
+    - Altera Artigo 13.º-A
+  - date: '2020-12-31'
+    amending: pt:dre:152639821:por
+    amending_title: Decreto-Lei n.º 106-A/2020
+    changes:
+    - Adita Artigo 20.º-A
+    - Adita Artigo 35.º-V
+    - Adita Artigo 35.º-W
+    - Altera Artigo 6.º
+    - Altera Artigo 19.º-A
+    - Altera Artigo 35.º-F
+    - Altera Artigo 35.º-O
+    - Altera Artigo 37.º-A
+  - date: '2021-01-20'
+    amending: pt:dre:154202311:por
+    amending_title: Decreto-Lei n.º 6-D/2021
+    changes:
+    - Altera Artigo 37.º-A
+  - date: '2021-02-03'
+    amending: pt:dre:156296214:por
+    amending_title: Decreto-Lei n.º 10-A/2021
+    changes:
+    - Revoga Artigo 6.º-B
+    - Revoga Artigo 6.º-D
+  - date: '2021-03-18'
+    amending: pt:dre:159707135:por
+    amending_title: Decreto-Lei n.º 22-A/2021
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 30.º-A
+    - Altera Artigo 32.º-A
+    - Altera Artigo 35.º-C
+    - Altera Artigo 35.º-N
+    - Revoga Artigo 11.º
+    - Revoga Artigo 35.º-J
+  - date: '2021-04-08'
+    amending: pt:dre:160994172:por
+    amending_title: Lei n.º 16/2021
+    changes:
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+  - date: '2021-06-17'
+    amending: pt:dre:165228627:por
+    amending_title: Decreto-Lei n.º 53-A/2021
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º-A
+    - Altera Artigo 35.º-G
+  - date: '2021-06-26'
+    amending: pt:dre:165865590:por
+    amending_title: Decreto-Lei n.º 54-B/2021
+    changes:
+    - Altera Artigo 6.º
+  - date: '2021-07-07'
+    amending: pt:dre:166579339:por
+    amending_title: Decreto-Lei n.º 56-A/2021
+    changes:
+    - Altera Artigo 37.º-A
+  - date: '2021-09-30'
+    amending: pt:dre:172745164:por
+    amending_title: Declaração de Retificação n.º 33/2021; Decreto-Lei n.º 78-A/2021
+    changes:
+    - Retifica Artigo 13.º-B
+    - Adita Artigo 13.º-E
+    - Altera Artigo 6.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º-B
+    - Altera Artigo 25.º-A
+    - Altera Artigo 35.º-B
+    - Altera Artigo 35.º-D
+    - Altera Artigo 35.º-V
+    - Altera Artigo 37.º-A
+    - Revoga Artigo 6.º-C
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 9.º-A
+    - Revoga Artigo 10.º
+    - Revoga Artigo 13.º-A
+    - Revoga Artigo 13.º-D
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 15.º-A
+    - Revoga Artigo 18.º
+    - Revoga Artigo 18.º-A
+    - Revoga Artigo 25.º-D
+    - Revoga Artigo 30.º-A
+    - Revoga Artigo 32.º-A
+    - Revoga Artigo 35.º-A
+    - Revoga Artigo 35.º-C
+    - Revoga Artigo 35.º-K
+    - Revoga Artigo 35.º-M
+    - Revoga Artigo 35.º-N
+    - Revoga Artigo 35.º-P
+  - date: '2021-11-28'
+    amending: pt:dre:175043500:por
+    amending_title: Decreto-Lei n.º 104/2021
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 13.º-B
+    - Altera Artigo 13.º-E
+  - date: '2021-12-23'
+    amending: pt:dre:176412619:por
+    amending_title: Decreto-Lei n.º 119-A/2021
+    changes:
+    - Adita Artigo 18.º-B
+    - Adita Artigo 35.º-X
+    - Adita Artigo 35.º-Y
+    - Altera Artigo 16.º
+    - Altera Artigo 35.º-F
+    - Altera Artigo 35.º-O
+  - date: '2022-01-08'
+    amending: pt:dre:177363491:por
+    amending_title: Decreto-Lei n.º 6-A/2022
+    changes:
+    - Altera Artigo 19.º-A
+    - Altera Artigo 19.º-B
+  - date: '2022-02-19'
+    amending: pt:dre:179327569:por
+    amending_title: Decreto-Lei n.º 23-A/2022
+    changes:
+    - Altera Artigo 16.º
+    - Revoga Artigo 13.º-C
+  - date: '2022-04-22'
+    amending: pt:dre:182432341:por
+    amending_title: Decreto-Lei n.º 30-E/2022
+    changes:
+    - Altera Artigo 13.º-B
+  - date: '2022-08-27'
+    amending: pt:dre:200363306:por
+    amending_title: Decreto-Lei n.º 57-A/2022
+    changes:
+    - Altera Artigo 13.º-B
+  - date: '2022-10-01'
+    amending: pt:dre:201773286:por
+    amending_title: Decreto-Lei n.º 66-A/2022
+    changes:
+    - Altera Artigo 6.º
+    - Revoga Capítulo II
+    - Revoga Artigo 2.º
+    - Revoga Artigo 2.º-A
+    - Revoga Artigo 2.º-B
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 6.º-A
+    - Revoga Artigo 6.º-E
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º-A
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 13.º-E
+    - Revoga Artigo 16.º-A
+    - Revoga Artigo 18.º-B
+    - Revoga Artigo 19.º
+    - Revoga Artigo 19.º-A
+    - Revoga Artigo 19.º-B
+    - Revoga Artigo 20.º
+    - Revoga Artigo 20.º-A
+    - Revoga Artigo 21.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 24.º
+    - Revoga Artigo 25.º
+    - Revoga Artigo 25.º-A
+    - Revoga Artigo 25.º-B
+    - Revoga Artigo 25.º-C
+    - Revoga Artigo 26.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 28.º-A
+    - Revoga Artigo 28.º-B
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 34.º-A
+    - Revoga Artigo 34.º-B
+    - Revoga Artigo 35.º
+  - date: '2022-12-31'
+    amending: pt:dre:205493447:por
+    amending_title: Decreto-Lei n.º 90/2022
+    changes:
+    - Altera Artigo 16.º
+  - date: '2023-04-18'
+    amending: pt:dre:211928286:por
+    amending_title: Decreto-Lei n.º 26-A/2023
+    changes:
+    - Revoga Artigo 13.º-B
+  - date: '2023-11-25'
+    amending: pt:dre:224728395:por
+    amending_title: Decreto-Lei n.º 109/2023
+    changes:
+    - Altera Artigo 16.º
+  - date: '2024-01-18'
+    amending: pt:dre:837022978:por
+    amending_title: Decreto-Lei n.º 15/2024
+    changes:
+    - Revoga Artigo 5.º
+  - date: '2024-06-29'
+    amending: pt:dre:870297959:por
+    amending_title: Decreto-Lei n.º 41-A/2024
+    changes:
+    - Altera Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/10-a/2020/p/cons/20240628/pt/html
+  oj: null
+  dre: '130243053'
+  dre_path: /dr/detalhe/decreto-lei/10-a-2020-130243053
+  internal: pt:dre:130243053:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053
+  metadata_url: https://data.dre.pt/eli/dec-lei/10-a/2020/p/cons/20240628/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-130241777
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-130241777
+  retrieved_at: '2026-10-22T12:31:44Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 6c7db06603eb6096a3297da8358a4531460004c291e2189b66a812631c0e3d86
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:31:44Z'
+  notes: 43 versão(ões); histórico completo em decreto-lei-10-a-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Deficiente
+- Agrupamento de Escolas
+- Ajuste Direto
+- Protecção à Família
+- Aquisição de Bens e Serviços
+- Assembleia Geral
+- Autorização de Despesas
+- Pessoal de Saúde
+- Baixa por Doença
+- Sociedade Comercial
+- Trabalho
+- Hospital das Forças Armadas
+- Cartório Notarial
+- Centro de DIA
+- Centro de Formação Profissional
+- Julgado de Paz
+- Conservatória do Registo Predial
+- Contrato
+- Criação de Serviços
+- Regime Laboral
+- Administração Regional de Saúde
+- Serviços de Segurança
+- Dispensa de Serviço
+- Documentação
+- Documento Autentico
+- Empreitada de Obras Públicas
+- Saúde Pública
+- Estabelecimento de Bebidas
+- Estabelecimento de Restauração
+- Registos e Notariado
+- Cooperativa
+- Serviço Nacional de Saúde
+- Estudante
+- Instituto de Ação Social das Forças Armadas
+- Setor Empresarial do Estado
+- Gestão
+- Gestão dos Recursos
+- Gestão Processual
+- Incapacidade Psíquica
+- Instituto Nacional de Medicina Legal e Ciências Forenses
+- Isolamento Profiláctico
+- Junta Médica
+- Justiça
+- Laboratório Militar de Produtos Químicos e Farmacêuticos
+- Licenciamento
+- Faltas
+- Contratação de Pessoal
+- Direcção Geral de Reinserção e Serviços Prisionais
+- Pessoal de Enfermagem
+- Pessoal não Docente
+- Pessoal Técnico de Diagnóstico e Terapêutica
+- Doença Infecciosa
+- Epidemia
+- Proteção ao Deficiente
+- Prazo Processual
+- Ensino
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Presidente
+- Processo Judicial
+- Incapacidade Física
+- Plano Nacional de Saúde
+- Parentalidade
+- Proteção Social
+- Ministério da Saúde
+- Regime Jurídico
+- Teletrabalho
+- Ministério Público
+- Associação
+- Doença
+- Setor Público
+- Gestão de Recursos Humanos
+- Conservatória do Registo Civil
+- Sistema Nacional de Compras Públicas
+- Subsídio
+- Subsídio de Apoio Social
+- Subsídio de Doença
+- Subsídio por Assistência de Terceira Pessoa
+- Subsídio por Faltas Especiais dos AVOS
+- Suspensão de Funções
+- Trabalhador das Instituições de Previdência
+- Trabalhador por Conta de Outrem
+- Trabalho Temporário
+- Tribunal
+- Unidade Local de Saúde
+- Viagem de Turismo
+- Vogal
+- Suspensão de Prazo
+- Autoridade Nacional de Emergência e Proteção Civil
+- Centro de Apoio Social
+relationships:
+- type: amended_by
+  target: pt:dre:130277366:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-b-2020-130277366
+  date: '2020-03-16'
+- type: amended_by
+  target: pt:dre:130603009:por
+  label: Altera Artigo 1.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-e-2020-130603009
+  date: '2020-03-24'
+- type: amended_by
+  target: pt:dre:131193439:por
+  label: Adita Artigo 6.º-A; Adita Artigo 16.º-A; Adita Artigo 32.º-A; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo
+    10.º; Altera Artigo 17.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo
+    2.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/4-a-2020-131193439
+  date: '2020-04-06'
+- type: amended_by
+  target: pt:dre:131193442:por
+  label: Adita Artigo 6.º-A; Adita Artigo 16.º-A; Adita Artigo 32.º-A; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo
+    10.º; Altera Artigo 17.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 26.º; Altera Artigo
+    2.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442
+  date: '2020-04-06'
+- type: amended_by
+  target: pt:dre:131338915:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/5-2020-131338915
+  date: '2020-04-10'
+- type: amended_by
+  target: pt:dre:131393157:por
+  label: Adita Artigo 32.º-B; Altera Artigo 24.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157
+  date: '2020-04-13'
+- type: amended_by
+  target: pt:dre:132332505:por
+  label: Adita Artigo 2.º-A; Adita Artigo 30.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2020-132332505
+  date: '2020-04-23'
+- type: amended_by
+  target: pt:dre:132883356:por
+  label: Adita Artigo 13.º-A; Adita Artigo 13.º-B; Adita Artigo 13.º-C; Adita Artigo 15.º-A; Adita Artigo 25.º-A; Adita Artigo
+    25.º-B; Adita Artigo 25.º-C; Adita Artigo 34.º-A; Adita Artigo 34.º-B; Adita Artigo 35.º-A; Adita Artigo 35.º-B; Adita
+    Artigo 35.º-C; Adita Artigo 35.º-D; Adita Artigo 35.º-E; Adita Artigo 35.º-F; Adita Artigo 35.º-G; Adita Artigo 35.º-H;
+    Adita Artigo 35.º-I; Altera Artigo 10.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356
+  date: '2020-05-01'
+- type: amended_by
+  target: pt:dre:133064189:por
+  label: Adita Artigo 13.º-A; Adita Artigo 13.º-B; Adita Artigo 13.º-C; Adita Artigo 15.º-A; Adita Artigo 25.º-A; Adita Artigo
+    25.º-B; Adita Artigo 25.º-C; Adita Artigo 34.º-A; Adita Artigo 34.º-B; Adita Artigo 35.º-A; Adita Artigo 35.º-B; Adita
+    Artigo 35.º-C; Adita Artigo 35.º-D; Adita Artigo 35.º-E; Adita Artigo 35.º-F; Adita Artigo 35.º-G; Adita Artigo 35.º-H;
+    Adita Artigo 35.º-I; Altera Artigo 10.º; Altera Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-c-2020-133064189
+  date: '2020-05-05'
+- type: amended_by
+  target: pt:dre:133161452:por
+  label: Adita Artigo 2.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2020-133161452
+  date: '2020-05-06'
+- type: amended_by
+  target: pt:dre:133321093:por
+  label: Adita Artigo 2.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-c-2020-133321093
+  date: '2020-05-07'
+- type: amended_by
+  target: pt:dre:133491339:por
+  label: Adita Artigo 9.º-A; Adita Artigo 13.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-d-2020-133491339
+  date: '2020-05-12'
+- type: amended_by
+  target: pt:dre:133723695:por
+  label: Adita Artigo 35.º-J; Entrada Vigor Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-h-2020-133723695
+  date: '2020-05-14'
+- type: amended_by
+  target: pt:dre:133879987:por
+  label: Adita Artigo 35.º-J; Entrada Vigor Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987
+  date: '2020-05-16'
+- type: amended_by
+  target: pt:dre:134762423:por
+  label: Adita Artigo 9.º-B; Adita Artigo 18.º-A; Adita Artigo 35.º-L; Adita Artigo 35.º-M; Altera Artigo 5.º; Altera Artigo
+    6.º; Altera Artigo 13.º-B; Altera Artigo 13.º-D; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 25.º-D; Altera
+    Artigo 28.º-B; Altera Artigo 35.º-B; Altera Artigo 35.º-D; Altera Artigo 35.º-J; Revoga Artigo 29.º; Revoga Artigo 35.º-I
+  source: https://diariodarepublica.pt/dr/detalhe/lei/16-2020-134762423
+  date: '2020-05-29'
+- type: amended_by
+  target: pt:dre:134889277:por
+  label: Adita Artigo 9.º-B; Adita Artigo 18.º-A; Adita Artigo 35.º-L; Adita Artigo 35.º-M; Altera Artigo 5.º; Altera Artigo
+    6.º; Altera Artigo 13.º-B; Altera Artigo 13.º-D; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 25.º-D; Altera
+    Artigo 28.º-B; Altera Artigo 35.º-B; Altera Artigo 35.º-D; Altera Artigo 35.º-J; Revoga Artigo 29.º; Revoga Artigo 35.º-I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277
+  date: '2020-05-29'
+- type: amended_by
+  target: pt:dre:136788887:por
+  label: Altera Artigo 13.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-2020-136788887
+  date: '2020-06-26'
+- type: amended_by
+  target: pt:dre:138217278:por
+  label: Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 13.º-A; Altera Artigo 13.º-B; Altera Artigo 25.º-D; Revoga Artigo
+    17.º; Revoga Artigo 32.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278
+  date: '2020-07-16'
+- type: amended_by
+  target: pt:dre:138762310:por
+  label: Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/27-a-2020-138762310
+  date: '2020-07-24'
+- type: amended_by
+  target: pt:dre:140013516:por
+  label: Altera Artigo 25.º-A; Altera Artigo 26.º; Altera Artigo 28.º-A; Altera Artigo 35.º-B; Revoga Artigo 35.º-I
+  source: https://diariodarepublica.pt/dr/detalhe/lei/31-2020-140013516
+  date: '2020-08-11'
+- type: amended_by
+  target: pt:dre:140431113:por
+  label: Altera Artigo 9.º; Altera Artigo 9.º-A; Revoga Artigo 9.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-b-2020-140431113
+  date: '2020-08-14'
+- type: amended_by
+  target: pt:dre:141967954:por
+  label: Adita Artigo 35.º-N; Adita Artigo 37.º-A; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-a-2020-141967954
+  date: '2020-09-03'
+- type: amended_by
+  target: pt:dre:144010968:por
+  label: Adita Artigo 35.º-K; Altera Artigo 6.º; Altera Artigo 25.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968
+  date: '2020-09-29'
+- type: amended_by
+  target: pt:dre:145589087:por
+  label: Adita Artigo 35.º-O; Altera Artigo 16.º; Revoga Artigo 18.º; Revoga Artigo 35.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087
+  date: '2020-10-15'
+- type: amended_by
+  target: pt:dre:147533155:por
+  label: Adita Artigo 6.º-B; Adita Artigo 6.º-C; Adita Artigo 8.º-A; Adita Artigo 19.º-A; Adita Artigo 19.º-B; Adita Artigo
+    35.º-P; Altera Artigo 35.º-G
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155
+  date: '2020-11-03'
+- type: amended_by
+  target: pt:dre:149220108:por
+  label: Adita Artigo 6.º-D; Adita Artigo 6.º-E; Adita Artigo 35.º-Q; Adita Artigo 35.º-U; Altera Artigo 5.º; Altera Artigo
+    13.º; Altera Artigo 13.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108
+  date: '2020-11-22'
+- type: amended_by
+  target: pt:dre:152639821:por
+  label: Adita Artigo 20.º-A; Adita Artigo 35.º-V; Adita Artigo 35.º-W; Altera Artigo 6.º; Altera Artigo 19.º-A; Altera Artigo
+    35.º-F; Altera Artigo 35.º-O; Altera Artigo 37.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821
+  date: '2020-12-30'
+- type: amended_by
+  target: pt:dre:154202311:por
+  label: Altera Artigo 37.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311
+  date: '2021-01-15'
+- type: amended_by
+  target: pt:dre:156296214:por
+  label: Revoga Artigo 6.º-B; Revoga Artigo 6.º-D
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2021-156296214
+  date: '2021-02-02'
+- type: amended_by
+  target: pt:dre:159707135:por
+  label: Altera Artigo 5.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 30.º-A; Altera Artigo 32.º-A; Altera Artigo
+    35.º-C; Altera Artigo 35.º-N; Revoga Artigo 11.º; Revoga Artigo 35.º-J
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135
+  date: '2021-03-17'
+- type: amended_by
+  target: pt:dre:160994172:por
+  label: Altera Artigo 23.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172
+  date: '2021-04-07'
+- type: amended_by
+  target: pt:dre:165228627:por
+  label: Altera Artigo 9.º; Altera Artigo 13.º-A; Altera Artigo 35.º-G
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-2021-165228627
+  date: '2021-06-16'
+- type: amended_by
+  target: pt:dre:165865590:por
+  label: Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-b-2021-165865590
+  date: '2021-06-25'
+- type: amended_by
+  target: pt:dre:166579339:por
+  label: Altera Artigo 37.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339
+  date: '2021-07-06'
+- type: amended_by
+  target: pt:dre:172153527:por
+  label: Retifica Artigo 13.º-B; Adita Artigo 13.º-E; Altera Artigo 6.º; Altera Artigo 12.º; Altera Artigo 13.º-B; Altera
+    Artigo 25.º-A; Altera Artigo 35.º-B; Altera Artigo 35.º-D; Altera Artigo 35.º-V; Altera Artigo 37.º-A; Revoga Artigo 6.º-C;
+    Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 9.º-A; Revoga Artigo 10.º; Revoga Artigo 13.º-A; Revoga Artigo 13.º-D;
+    Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 15.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527
+  date: '2021-09-29'
+- type: amended_by
+  target: pt:dre:172745164:por
+  label: Retifica Artigo 13.º-B; Adita Artigo 13.º-E; Altera Artigo 6.º; Altera Artigo 12.º; Altera Artigo 13.º-B; Altera
+    Artigo 25.º-A; Altera Artigo 35.º-B; Altera Artigo 35.º-D; Altera Artigo 35.º-V; Altera Artigo 37.º-A; Revoga Artigo 6.º-C;
+    Revoga Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 9.º-A; Revoga Artigo 10.º; Revoga Artigo 13.º-A; Revoga Artigo 13.º-D;
+    Revoga Artigo 14.º; Revoga Artigo 15.º; Revoga Artigo 15.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-2021-172745164
+  date: '2021-10-13'
+- type: amended_by
+  target: pt:dre:175043500:por
+  label: Altera Artigo 5.º; Altera Artigo 13.º-B; Altera Artigo 13.º-E
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500
+  date: '2021-11-27'
+- type: amended_by
+  target: pt:dre:176412619:por
+  label: Adita Artigo 18.º-B; Adita Artigo 35.º-X; Adita Artigo 35.º-Y; Altera Artigo 16.º; Altera Artigo 35.º-F; Altera Artigo
+    35.º-O
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619
+  date: '2021-12-22'
+- type: amended_by
+  target: pt:dre:176492316:por
+  label: Adita Artigo 18.º-B; Adita Artigo 35.º-X; Adita Artigo 35.º-Y; Altera Artigo 16.º; Altera Artigo 35.º-F; Altera Artigo
+    35.º-O
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316
+  date: '2021-12-23'
+- type: amended_by
+  target: pt:dre:177363491:por
+  label: Altera Artigo 19.º-A; Altera Artigo 19.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2022-177363491
+  date: '2022-01-07'
+- type: amended_by
+  target: pt:dre:179327569:por
+  label: Altera Artigo 16.º; Revoga Artigo 13.º-C
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2022-179327569
+  date: '2022-02-18'
+- type: amended_by
+  target: pt:dre:182432341:por
+  label: Altera Artigo 13.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-e-2022-182432341
+  date: '2022-04-21'
+- type: amended_by
+  target: pt:dre:200363306:por
+  label: Altera Artigo 13.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-a-2022-200363306
+  date: '2022-08-26'
+- type: amended_by
+  target: pt:dre:201773286:por
+  label: Altera Artigo 6.º; Revoga Capítulo II; Revoga Artigo 2.º; Revoga Artigo 2.º-A; Revoga Artigo 2.º-B; Revoga Artigo
+    3.º; Revoga Artigo 4.º; Revoga Artigo 6.º-A; Revoga Artigo 6.º-E; Revoga Artigo 7.º; Revoga Artigo 8.º-A; Revoga Artigo
+    12.º; Revoga Artigo 13.º; Revoga Artigo 13.º-E; Revoga Artigo 16.º-A; Revoga Artigo 18.º-B; Revoga Artigo 19.º; Revoga
+    Artigo 19.º-A; Revoga Artigo 19.º-B; Revoga Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286
+  date: '2022-09-30'
+- type: amended_by
+  target: pt:dre:205493447:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447
+  date: '2022-12-30'
+- type: amended_by
+  target: pt:dre:211928286:por
+  label: Revoga Artigo 13.º-B
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2023-211928286
+  date: '2023-04-17'
+- type: amended_by
+  target: pt:dre:224728395:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2023-224728395
+  date: '2023-11-24'
+- type: amended_by
+  target: pt:dre:837022978:por
+  label: Revoga Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978
+  date: '2024-01-17'
+- type: amended_by
+  target: pt:dre:870297959:por
+  label: Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959
+  date: '2024-06-28'
+- type: cites
+  target: celex:32021R0267
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/213/2012/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/213/2012/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/241/2007/06/21
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/241/2007/06/21
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/4/2015/01/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/82/2009/04/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/82/2009/04/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/89/2010/07/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/89/2010/07/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/7/2009/02/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/98/1997/08/26/p/dre
+- type: transposes
+  target: celex:32019L0904
+  label: null
+  source: null
+article_structure:
+  article_count: 93
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:31:44Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 10-A/2020
+
+Decreto-Lei n.º 10-A/2020
+
+de 13 de março
+
+Sumário: Estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID 19.
+
+Atendendo à emergência de saúde pública de âmbito internacional, declarada pela Organização Mundial de Saúde, no dia 30 de janeiro de 2020, bem como à classificação do vírus como uma pandemia, no dia 11 de março de 2020, importa acautelar, estrategicamente, a previsão de normas de contingência para a epidemia SARS-CoV-2, e, bem assim, assegurar o tratamento da doença COVID-19 no Serviço Nacional de Saúde (SNS), através de um regime legal adequado a esta realidade excecional, em especial no que respeita a matéria de contratação pública e de recursos humanos.
+
+A situação excecional que se vive no momento atual e a proliferação de casos registados de contágio de COVID-19 exige a aplicação de medidas extraordinárias e de caráter urgente. Neste sentido, no domínio da saúde, é prioritário que se garanta às entidades prestadoras de cuidados de saúde do SNS a possibilidade de aquisição, com a máxima celeridade, dos equipamentos, bens e serviços necessários à avaliação de casos suspeitos e ao tratamento de sintomas e complicações associadas ao COVID-19, e, ainda, a tomada de outras medidas consideradas urgentes e imprescindíveis, designadamente em matéria de gestão de recursos humanos.
+
+Importa, igualmente, adotar os mecanismos processuais que permitam, de forma atempada e responsável, assegurar a disponibilidade de produtos essenciais num quadro de uma generalizada e acrescida procura a nível mundial destes produtos num contexto de diminuição de produção e de constrangimentos à circulação dos bens.
+
+Na verdade, face à urgência na execução das medidas de contenção recomendadas pelos vários serviços integrados no Ministério da Saúde, de que depende a sua eficácia, importa assegurar, com caráter urgente e inadiável, um regime excecional que permita a implementação célere das medidas propostas.
+
+Para tal, torna-se necessário estabelecer um regime excecional em matéria de contratação pública e realização de despesa pública, bem como em matéria de recursos humanos, conciliando a celeridade procedimental exigida com a defesa dos interesses do Estado e a rigorosa transparência nos gastos públicos.
+
+Por outro lado, o Governo considera que é necessário aprovar um conjunto de medidas, atentos os constrangimentos causados no desenvolvimento da atividade judicial e administrativa. Importa, por isso, acautelar estas circunstâncias através do estabelecimento de um regime específico de justo impedimento e de suspensão de prazos processuais e procedimentais sempre que o impedimento ou o encerramento de instalações seja determinado por decisão de autoridade de saúde ou de outra autoridade pública.
+
+De igual modo, considerando a eventual impossibilidade dos cidadãos em renovar ou obter documentos relevantes para o exercício de direitos, decorrente do encerramento de instalações, importa prever a obrigatoriedade de aceitação pelas autoridades públicas da exibição de documentos, cujo prazo de validade expire durante o período de vigência do presente decreto-lei.
+
+Importa, por último, promover medidas que aumentem as possibilidades de distanciamento social e isolamento profilático, cuidando da perceção do rendimento dos próprios ou daqueles que se vejam na situação de prestar assistência a dependentes.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 15.º, Decreto-Lei n.º 10-A/2021 - Diário da República n.º 22/2021, 2º Suplemento, Série I de 2021-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2021-156296214) O presente decreto-lei vigora por um período de 60 dias, a contar da data da sua entrada em vigor, sem prejuízo dos efeitos que decorram dos mecanismos de contratação previstos nos artigos 5.º, 6.º e 7.º
+
+### Capítulo I — Disposição geral
+
+###### Artigo 1.º — Objeto e âmbito
+
+1 - O presente decreto-lei estabelece medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2.
+
+2 - O disposto no presente decreto-lei aplica-se à prevenção, contenção, mitigação e tratamento de infeção epidemiológica por COVID-19, bem como à reposição da normalidade em sequência da mesma.
+
+3 - As medidas excecionais previstas no artigo 2.º são aplicáveis, com as necessárias adaptações, às entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10-E/2020 - Diário da República n.º 59/2020, 1º Suplemento, Série I de 2020-03-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-e-2020-130603009), em vigor a partir de 2020-03-25, produz efeitos a partir de 2020-03-12
+
+### Capítulo II — Regime excecional de contratação pública e de autorização de despesa
+
+###### Artigo 2.º — Regime excecional de contratação pública
+
+1 - Para efeitos de escolha do procedimento de ajuste direto para a celebração de contratos de empreitada de obras públicas, de contratos de locação ou aquisição de bens móveis e de aquisição de serviços, independentemente da natureza da entidade adjudicante, aplica-se o disposto na alínea c) do n.º 1 do artigo 24.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, na medida do estritamente necessário e por motivos de urgência imperiosa.
+
+2 - Sem prejuízo do disposto no número anterior, no caso de se tratar de ajuste direto para a formação de um contrato de aquisição ou locação de bens móveis e de aquisição de serviços cujo preço contratual não seja superior a (euro) 20 000, é aplicável o disposto nos n.os 1 e 3 do artigo 128.º do CCP.
+
+3 - Aos procedimentos abrangidos pelo presente decreto-lei não se aplicam as limitações constantes dos n.os 2 a 5 do artigo 113.º CCP, estando as mesmas igualmente isentas do disposto no artigo 27.º-A do CCP.
+
+4 - As adjudicações feitas ao abrigo do presente regime excecional são comunicadas pelas entidades adjudicantes aos membros do Governo responsáveis pela área das finanças e pela respetiva área setorial e publicitadas no portal dos contratos públicos, garantindo o cumprimento dos princípios da publicidade e transparência da contratação.
+
+5 - Os contratos celebrados ao abrigo do presente regime excecional na sequência de ajuste direto, independentemente da sua redução ou não a escrito, podem produzir todos os seus efeitos logo após a adjudicação, sem prejuízo da respetiva publicitação, nos termos do n.º 1 do artigo 127.º do CCP.
+
+6 - Sempre que estiver em causa a garantia da disponibilização, por parte do operador económico, dos bens e serviços a que se refere o presente artigo, pode a entidade adjudicante efetuar adiantamentos do preço com dispensa dos pressupostos previstos no artigo 292.º do CCP, e os atos e contratos decorrentes podem produzir imediatamente todos os seus efeitos.
+
+7 - Fica, igualmente, dispensada de autorização prévia a exceção para a aquisição centralizada de bens ou serviços abrangidos por um acordo-quadro para as entidades abrangidas pelo Sistema Nacional de Compras Públicas.
+
+8 - Aos contratos celebrados ao abrigo do presente decreto-lei, aplica-se o disposto no n.º 5 do artigo 45.º da Lei n.º 98/97, de 26 de agosto, na sua redação atual, podendo o contrato produzir todos os seus efeitos antes do visto ou da declaração de conformidade, designadamente quanto aos pagamentos a que derem causa.
+
+9 - Os documentos de habilitação, previstos nas alíneas a) e b) do n.º 1 do artigo 81.º do CCP, podem ser dispensados, inclusivamente para efeitos de efetuação de pagamentos, sem prejuízo da entidade adjudicante os poder pedir a qualquer momento.
+
+10 - Independentemente do preço contratual, a prestação da caução pode não ser exigida.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 18/2020 - Diário da República n.º 80/2020, Série I de 2020-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2020-132332505) Os procedimentos promovidos antes da publicação do presente decreto-lei que não tenham observado, no todo ou em parte, o regime previsto no artigo 2.º do Decreto-Lei n.º 10-A/2020, de 13 de março, consideram-se realizados, para todos os efeitos, ao abrigo do regime previsto no artigo 2.º-A do mesmo decreto-lei, na redação dada pelo presente decreto-lei.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 4-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/lei/4-a-2020-131193439), em vigor a partir de 2020-04-07, produz efeitos a partir de 2020-03-12
+
+###### Artigo 2.º-A — Regime excecional de ajuste direto simplificado
+
+1 - Pode ser, excecionalmente, adotado, na medida do estritamente necessário e por motivos de urgência imperiosa, devidamente fundamentada, e independentemente do preço contratual e até ao limite do cabimento orçamental, o regime do procedimento de ajuste direto simplificado previsto no artigo 128.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, para a celebração de contratos cujo objeto consista na aquisição de equipamentos, bens e serviços necessários à prevenção, contenção, mitigação e tratamento de infeção por SARS-CoV-2 e da doença COVID-19, ou com estas relacionados, designadamente:
+
+a) Equipamentos de proteção individual;
+
+b) Bens necessários à realização de testes à COVID-19;
+
+c) Equipamentos e material para unidades de cuidados intensivos;
+
+d) Medicamentos, incluindo gases medicinais;
+
+e) Outros dispositivos médicos;
+
+f) Serviços de logística e transporte, incluindo aéreo, relacionados com as aquisições, a título oneroso ou gratuito, dos bens referidos nas alíneas anteriores, bem como com a sua distribuição a entidades sob tutela do membro do Governo responsável pela área da saúde ou a outras entidades públicas ou de interesse público às quais se destinem.
+
+2 - Sem prejuízo do disposto na alínea f) do número anterior, o procedimento previsto no número anterior só pode ser promovido pela Direção-Geral da Saúde, pela Administração Central do Sistema de Saúde, I. P., pelo Instituto Nacional de Saúde Dr. Ricardo Jorge, I. P., e pela Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.), relativamente a bens que se destinem a entidades sob tutela do membro do Governo responsável pela área da saúde.
+
+3 - As circunstâncias invocadas para fundamentar a urgência imperiosa, nos termos do n.º 1, não podem, em caso algum, ser imputáveis à entidade adjudicante.
+
+4 - É aplicável às aquisições previstas no presente artigo o disposto nos n.os 3 e 6 do artigo anterior, podendo haver pagamentos por conta de encomendas no mercado nacional ou internacional, com dispensa de formalidades de importação.
+
+5 - As adjudicações feitas ao abrigo do regime simplificado previsto no presente artigo são comunicadas pelas entidades adjudicantes aos membros do Governo responsáveis pelas áreas das finanças e da saúde e publicitadas no portal dos contratos públicos, incluindo a fundamentação para a adoção deste procedimento.
+
+6 - Até 60 dias após o período de vigência do presente decreto-lei as entidades previstas no n.º 2 elaboram relatório conjunto, que é publicado no sítio eletrónico da SPMS, E. P. E., sobre todas as adjudicações e respetiva fundamentação e circunstancialismo, designadamente justificando a impossibilidade ou grave inconveniência do recurso a outro tipo de procedimento.
+
+7 - O disposto no artigo 2.º do Decreto-Lei n.º 10-E/2020, de 24 de março, aplica-se às aquisições efetuadas nos termos deste artigo.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2020 - Diário da República n.º 80/2020, Série I de 2020-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2020-132332505), em vigor a partir de 2020-04-24, produz efeitos a partir de 2020-03-13
+
+###### Artigo 2.º-B — Regime excecional de agrupamento de entidades adjudicantes
+
+1 - Pode ser, excecionalmente, adotado, na medida do estritamente necessário e por motivos de urgência imperiosa, devidamente fundamentada, independentemente do preço contratual e até ao limite do cabimento orçamental, o regime de agrupamento de entidades adjudicantes previsto no artigo 39.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, para a celebração de contratos cujo objeto consista na aquisição de espaço para difusão de ações de publicidade institucional no âmbito da pandemia COVID-19 ou inerentes à mesma, junto de titulares de órgãos de comunicação social nacional, regional e local, por meio televisivo, radiofónico, impresso e/ou digital, nos termos dos artigos 8.º e 9.º da Lei n.º 95/2015, de 17 de agosto, na sua redação atual, com as seguintes especificidades:
+
+a) A designação do representante do agrupamento para efeitos de condução do procedimento de formação do contrato a celebrar é definida por resolução do Conselho de Ministros;
+
+b) As responsabilidades de cada uma das entidades adjudicantes membros do agrupamento, incluindo as financeiras e de realização da despesa são definidas por resolução do Conselho de Ministros;
+
+c) Podem ser adotados procedimentos de aquisição de espaço de difusão através de ajuste direto, aplicando-se, com as devidas adaptações, o disposto nos artigos 2.º, 3.º e 4.º, bem como o disposto nos n.os 1 e 2 do artigo 6.º da Lei n.º 1-A/2020, de 19 de março, na sua redação atual;
+
+d) Todos os atos cuja competência seja atribuída por resolução do Conselho de Ministros ao órgão com competência para a decisão de contratar devem ser praticados isoladamente pelo representante do agrupamento;
+
+e) A designação do representante do agrupamento para efeitos de execução do contrato é definida por resolução do Conselho de Ministros;
+
+f) Independentemente do preço contratual, todos os poderes podem ser delegados e subdelegados nos órgãos do representante do agrupamento para efeitos de formação do procedimento e para efeitos de execução do contrato.
+
+2 - Para efeitos do disposto no número anterior, o preço global de aquisição de espaço de difusão de ações de publicidade institucional não pode ser superior a (euro) 15 000 000,00, que inclui IVA à taxa legal em vigor, repartidos nos seguintes termos:
+
+a) (euro) 11 250 000,00 em aquisições a realizar a pessoas coletivas que detenham órgãos de comunicação social de âmbito nacional;
+
+b) (euro) 2 019 000,00 a detentores de órgãos de imprensa escrita de âmbito regional e/ou local;
+
+c) (euro) 1 731 000,00 a pessoas singulares ou coletivas que apenas detenham serviços de programas radiofónicos de âmbito regional e/ou local.
+
+3 - O preço global e parcial de cada procedimento é satisfeito por verbas a inscrever no orçamento do representante do agrupamento, devendo o espaço adquirido ser distribuído pelas diversas entidades das áreas governativas, nos termos a definir por resolução do Conselho de Ministros.
+
+4 - Para efeitos do disposto no número anterior, as entidades das áreas governativas que beneficiem do espaço de difusão adquirido procedem à transferência das verbas respetivas entre programas orçamentais para o representante do agrupamento, nos termos do artigo 3.º da Lei n.º 9-A/2020, de 17 de abril.
+
+5 - O espaço adquirido é o que, por motivos de urgência imperiosa, seja estritamente necessário e destina-se à realização de ações de publicidade institucional, no período de 18 meses, que versem sobre:
+
+a) A situação da pandemia a nível de saúde pública e, entre outras, ações referentes a medidas preventivas e de contenção da transmissão do vírus, a boas práticas sociais e de higiene, a relatórios periódicos e a informação sobre os serviços públicos em causa;
+
+b) As medidas legislativas aprovadas para contenção da pandemia, bem como os meios públicos ou sociais disponíveis para socorrer, acompanhar, informar ou fiscalizar;
+
+c) As medidas legislativas aprovadas para equilíbrio da economia de âmbito transversal ou setorial, bem como os meios públicos ou sociais disponíveis para socorrer, acompanhar, informar ou fiscalizar;
+
+d) As medidas legislativas aprovadas para retoma progressiva da vida e da economia em contexto pandémico e pós-pandémico, bem como os meios públicos ou sociais disponíveis para socorrer, acompanhar, informar ou fiscalizar;
+
+e) As medidas acessórias na área da saúde, como sejam, nomeadamente, o apelo à vacinação e à utilização dos serviços de saúde primários e urgentes;
+
+f) As medidas da área da educação destinadas a informar a comunidade educativa sobre os seus direitos e deveres, prazos, calendários, meios e recursos didáticos e auxiliares disponíveis, bem como os meios ao dispor para a sua execução;
+
+g) Sensibilização para a prevenção contra os fogos florestais em ano de pandemia;
+
+h) Causas sociais e humanitárias, como sejam, nomeadamente a violência doméstica, contra idoso ou menor, partilha de responsabilidades domésticas e parentais, combate à discriminação, sensibilização para as doenças mentais e linhas e serviços de ajuda em tempo de pandemia;
+
+i) A promoção da literacia mediática e divulgação de atividades culturais durante e após a pandemia;
+
+j) Outras áreas e matérias que cumpram objetivos similares.
+
+6 - A conceção, realização e produção de ações de publicidade institucional a difundir no espaço adquirido é da responsabilidade isolada de cada área governativa, aplicando-se, na respetiva contratualização e com as devidas adaptações, o disposto nos artigos 2.º, 3.º e 4.º
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20-A/2020 - Diário da República n.º 88/2020, 1º Suplemento, Série I de 2020-05-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2020-133161452), em vigor a partir de 2020-05-07
+
+###### Artigo 3.º — Regime excecional de autorização de despesa
+
+1 - Aos procedimentos de contratação pública realizados ao abrigo do presente decreto-lei aplicam-se, a título excecional, as seguintes regras de autorização de despesa:
+
+a) Os pedidos de autorização da tutela financeira e setorial, quando exigíveis por lei, consideram-se tacitamente deferidos, na ausência de pronúncia, logo que decorridas 24 horas após remessa, por via eletrónica, à respetiva entidade pública com competência para os autorizar;
+
+b) Consideram-se fundamentadas as aquisições realizadas no âmbito do presente decreto-lei, para efeito dos pedidos de autorização referidos na alínea anterior;
+
+c) As despesas plurianuais que resultam do presente decreto-lei encontram-se tacitamente deferidas se, após apresentação do pedido de autorização através de portaria de extensão de encargos junto do membro do Governo responsável pela área das finanças, sobre o mesmo não recair despacho de indeferimento no prazo de três dias, competindo ao membro do Governo responsável pela área setorial os normais procedimentos de publicação;
+
+d) As alterações orçamentais que envolvam reforço, por contrapartida de outras rubricas de despesa efetiva, são autorizadas pelo membro do Governo responsável pela respetiva área setorial;
+
+e) Nos casos devidamente justificados, quando seja necessária a descativação de verbas para o cumprimento dos objetivos estabelecidos no presente decreto-lei, a mesma considera-se tacitamente deferida logo que decorridos três dias após a apresentação do respetivo pedido.
+
+2 - É aprovada por despacho dos membros do Governo responsáveis pelas áreas das finanças e do respetivo setor de atividade a lista de bens e serviços elegíveis para efeitos da alínea c) do número anterior.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 4.º — Regimes excecionais de autorização administrativa
+
+A decisão de contratar a aquisição de serviços cujo objeto seja a realização de estudos, pareceres, projetos e serviços de consultoria, bem como quaisquer trabalhos especializados, não carecem das autorizações administrativas previstas na lei, sendo da competência do membro do Governo responsável pela área setorial.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+### Capítulo III — Regime excecional em matéria de composição das juntas médicas, gestão de recursos humanos e aquisição de serviços
+
+###### Artigo 5.º — Regime excecional de composição das juntas médicas de avaliação das incapacidades das pessoas com deficiência
+
+1 - Cada Administração Regional de Saúde, I. P. (ARS, I. P.), assegura a criação de, pelo menos, uma junta médica de avaliação das incapacidades das pessoas com deficiência (JMAI) por agrupamento de centros de saúde ou unidade local de saúde.
+
+2 - As JMAI são constituídas por médicos especialistas, integrando um presidente, dois vogais efetivos e dois suplentes, sendo o presidente substituído, nas suas faltas e impedimentos, pelo primeiro vogal efetivo.
+
+3 - O presidente tem, preferencialmente, competência em avaliação do dano corporal ou comprovada participação em JMAI.
+
+4 - Da avaliação de incapacidade efetuada pela JMAI cabe recurso para a Junta Médica de Recurso (JMR) da ARS, I. P., competente, a apresentar ao presidente do respetivo conselho diretivo.
+
+5 - A JMR integra um presidente e dois vogais, selecionados de entre os membros das JMAI da região de saúde que não tenham participado na avaliação anterior, podendo um deles ser indicado pelo recorrente.
+
+6 - Em cada ARS, I. P., é criado, na dependência direta do conselho diretivo, um Núcleo de Coordenação Regional das JMAI (Núcleo), dedicado à sua criação, organização e funcionamento.
+
+7 - O Núcleo é coordenado por um médico, preferencialmente com a competência em avaliação do dano corporal ou comprovada participação em JMAI, competindo-lhe presidir à JMR.
+
+8 - As ARS, I. P., garantem o apoio logístico, administrativo e jurídico aos respetivos Núcleos.
+
+9 - As ARS, I. P., e as Unidades Locais de Saúde, E. P. E., asseguram o apoio logístico e administrativo necessário ao funcionamento das JMAI.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 15/2024 - Diário da República n.º 12/2024, Série I de 2024-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978) A revogação do presente artigo, produz efeitos a 1 de janeiro de 2024, sem prejuízo do seguinte: 1 - Ficam salvaguardadas as situações jurídicas constituídas ao abrigo da Lei n.º 14/2021, de 6 de abril, e do presente artigo, na sua redação atual. 2 - Até 31 de dezembro de 2024 mantém-se em vigor o regime previsto nos n.os 4 a 8 do presente artigo, na sua redação atual.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 15/2024 - Diário da República n.º 12/2024, Série I de 2024-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2024-837022978), em vigor a partir de 2024-01-18
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+###### Artigo 6.º — Regime excecional em matéria de recursos humanos
+
+1 - (Revogado.)
+
+2 -(Revogado.)
+
+3 -  (Revogado.)
+
+4 - (Revogado.)
+
+5 -  (Revogado.)
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+8 - O regime constante do Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, é aplicável sem sujeição aos limites de idade previstos no Estatuto da Aposentação, na sua redação atual.
+
+> Nota: [Artigo 5.º, Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286) A revogação do n.º 8 do presente artigo, produz efeitos com a entrada em vigor do Orçamento do Estado para 2023.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 54-B/2021 - Diário da República n.º 122/2021, 2º Suplemento, Série I de 2021-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-b-2021-165865590), em vigor a partir de 2021-06-26, produz efeitos a partir de 2021-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968), em vigor a partir de 2020-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30, produz efeitos a partir de 2020-03-13
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-03-13
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 20-C/2020 - Diário da República n.º 89/2020, 1º Suplemento, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-c-2020-133321093), em vigor a partir de 2020-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 6.º-A — Dispensa de cobrança de taxas moderadoras no âmbito do diagnóstico e tratamento da doença COVID-19
+
+É dispensada a cobrança de taxas moderadoras aos beneficiários do Serviço Nacional de Saúde (SNS), tal como definidos nos n.os 1 e 2 da Base 21 da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro que, de acordo com referenciação do Centro de Contacto do SNS - SNS24, dos cuidados de saúde primários, de hospital do SNS ou unidade prestadora de cuidados de saúde, no âmbito do diagnóstico e tratamento da doença COVID-19, necessitem de:
+
+a) Realizar teste laboratorial para despiste da doença;
+
+b) Consultas, atendimentos urgentes e atos complementares prescritos no âmbito desta patologia.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 6.º-B — Regime excecional de contratação de profissionais de saúde para as unidades de cuidados intensivos do Serviço Nacional de Saúde
+
+1 - Até 31 de dezembro de 2020, a celebração de contratos de trabalho sem termo para afetação de profissionais de saúde às unidades de cuidados intensivos dos estabelecimentos e serviços públicos prestadores de cuidados de saúde do SNS é autorizada pelo membro do Governo responsável pela área da saúde.
+
+2 - A Administração Central do Sistema de Saúde, I. P., comunica mensalmente à Direção-Geral do Orçamento a informação sobre os contratos a que se refere o número anterior.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 10-A/2021 - Diário da República n.º 22/2021, 2º Suplemento, Série I de 2021-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2021-156296214), em vigor a partir de 2021-02-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94-A/2020 - Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155), em vigor a partir de 2020-11-04
+
+###### Artigo 6.º-C — Regime excecional de contratação de enfermeiros para exercício de funções nas unidades de saúde pública das Administrações Regionais de Saúde, I. P., e das Unidades Locais de Saúde, E. P. E.
+
+1 - O regime previsto no Decreto-Lei n.º 89/2010, de 21 de julho, na sua redação atual, o disposto no artigo 63.º do Decreto-Lei n.º 84/2019, de 28 de junho, na sua redação atual, bem como o disposto no artigo 46.º da Lei n.º 2/2020, de 31 de março, na sua redação atual, são aplicáveis, com as necessárias adaptações, aos enfermeiros aposentados contratados para o exercício de funções assistenciais nos departamentos de saúde pública das Administrações Regionais de Saúde, I. P., e nas unidades de saúde pública dos agrupamentos de centros de saúde e das Unidades Locais de Saúde, E. P. E.
+
+2 - A competência para autorizar a contratação de enfermeiros aposentados, nos termos previstos no número anterior, é do membro do Governo responsável pela área da saúde.
+
+3 - O regime estabelecido no presente artigo configura razão de interesse público excecional para os efeitos previstos no n.º 1 do artigo 78.º do Estatuto da Aposentação, aprovado pelo Decreto-Lei n.º 498/72, de 9 de dezembro, na sua redação atual.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94-A/2020 - Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155), em vigor a partir de 2020-11-04
+
+###### Artigo 6.º-D — Regime excecional de contratação de médicos por empresas do setor público empresarial do Serviço Nacional de Saúde
+
+1 - Até 31 de dezembro de 2020, a celebração de contratos de trabalho sem termo de médicos especialistas em anestesiologia, cardiologia, doenças infeciosas, medicina interna, medicina intensiva, patologia clínica e pneumologia por empresas do setor público empresarial do SNS é da competência do respetivo órgão máximo de gestão, com dispensa de quaisquer formalidades.
+
+2 - A Administração Central do Sistema de Saúde, I. P., comunica mensalmente à Direção-Geral do Orçamento a informação sobre os contratos a que se refere o número anterior.
+
+> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 10-A/2021 - Diário da República n.º 22/2021, 2º Suplemento, Série I de 2021-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2021-156296214), em vigor a partir de 2021-02-03
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+###### Artigo 6.º-E — Aumento de dias de férias
+
+1 - Os profissionais de saúde, independentemente da natureza da relação jurídica de emprego, têm direito a um dia útil de férias por cada cinco dias de férias vencidas em 2020, ou em 2019, e cujo gozo não tenha lugar até ao final de 2020, por razões imperiosas de serviço.
+
+2 - Por opção do trabalhador, os dias de férias resultantes do aumento nos termos do número anterior podem ser substituídos por remuneração equivalente a dia normal de trabalho prestado em dia útil.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+###### Artigo 7.º — Regime excecional em matéria de aquisição de serviços
+
+A celebração de contratos de aquisição de serviços por parte dos órgãos, organismos, serviços e demais entidades, incluindo o setor público empresarial, do Ministério da Saúde, da DGRSP, do INMLCF, I. P., do HFAR, do LMPQF e do IASFA, I. P., é autorizada pelo dirigente máximo ou órgão máximo de gestão, sendo posteriormente comunicada aos membros do Governo responsáveis pelas áreas da saúde, da justiça e da defesa nacional, respetivamente.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 8.º — Extensão do âmbito de aplicação do Decreto-Lei n.º 62/79, de 30 de março
+
+É aplicável, com as necessárias adaptações, o regime previsto no artigo 9.º do Decreto-Lei n.º 62/79, de 30 de março, na sua redação atual, aos profissionais do setor da saúde diretamente envolvidos no diagnóstico e resposta laboratorial especializada, rápida e integrada, em situações de casos, surtos e outras emergências de saúde pública nas situações referentes à epidemia SARS-CoV-2 que possam constituir um risco para a saúde pública, tendo em vista assegurar a capacidade de resposta rápida e atempada a tais situações bem como a disponibilidade permanente dos trabalhadores.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+###### Artigo 8.º-A — Regime excecional aplicável aos mandatos dos titulares dos órgãos máximos de gestão das unidades de saúde que integram o Serviço Nacional de Saúde
+
+Os membros dos conselhos de administração ou conselhos diretivos das unidades de saúde que integram o SNS, respetivamente com natureza de entidade pública empresarial ou integradas no setor público administrativo, cujo mandato tenha cessado após 31 de dezembro de 2019, sem que tenha sido designado novo titular, podem manter-se em exercício de funções até 31 de dezembro de 2021, mediante despacho do membro do Governo responsável pela área da saúde.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94-A/2020 - Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155), em vigor a partir de 2020-11-04
+
+### Capítulo IV — Suspensão de atividade letivas e não letivas
+
+###### Artigo 9.º — Suspensão de atividade letivas e não letivas e formativas
+
+1 - [Revogado.]
+
+2 -  [Revogado.]
+
+3 - [Revogado.]
+
+4 - Os agrupamentos de escolas e escolas não agrupadas da rede pública de ensino mantêm as medidas necessárias para a prestação de apoios alimentares a alunos beneficiários dos escalões A e B da ação social escolar até 31 de julho de 2020.
+
+5 - [Revogado.]
+
+6 -  [Revogado.]
+
+7 - [Revogado.]
+
+> Nota: [Artigo 4.º, Decreto-Lei n.º 53-A/2021 - Diário da República n.º 115/2021, 1º Suplemento, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-2021-165228627) O disposto na alínea a) do artigo anterior, no que respeita à revogação dos n.os 2 e 6 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, produz efeitos a partir de 1 de julho de 2021.
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 58-B/2020 - Diário da República n.º 158/2020, 2º Suplemento, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-b-2020-140431113) O disposto n.º 2 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na redação introduzida pelo presente decreto-lei, produz efeitos a 15 de agosto de 2020
+
+> Nota: [Artigo 6.º, Decreto-Lei n.º 20-H/2020 - Diário da República n.º 94/2020, 2º Suplemento, Série I de 2020-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-h-2020-133723695) É derrogado o disposto no n.º 1 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, devendo as instituições científicas e de ensino superior garantir a combinação gradual e efetiva de atividades na presença de estudantes, docentes e investigadores com processos a distância, bem como de teletrabalho, designadamente destinadas a aulas e outras atividades, tais como atividades laboratoriais, realização de estágios e atividades de avaliação de estudantes, entre outras.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 53-A/2021 - Diário da República n.º 115/2021, 1º Suplemento, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-2021-165228627), em vigor a partir de 2021-06-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58-B/2020 - Diário da República n.º 158/2020, 2º Suplemento, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-b-2020-140431113), em vigor a partir de 2020-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 20-H/2020 - Diário da República n.º 94/2020, 2º Suplemento, Série I de 2020-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-h-2020-133723695), em vigor a partir de 2020-05-15
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/5-2020-131338915), em vigor a partir de 2020-04-11
+
+###### Artigo 9.º-A — Regime de suspensão excecional do Programa de Estágios Profissionais na Administração Local
+
+1 - As entidades que declararem, de forma fundamentada, não dispor de condições sanitárias adequadas à realização dos estágios do Programa de Estágios Profissionais na Administração Local, podem, por despacho do dirigente máximo do serviço, suspender os mesmos e bem assim fazer cessar a suspensão, a qualquer momento, quando se verifiquem os indispensáveis requisitos de segurança.
+
+2 - As referências ao dirigente máximo do serviço a que se alude nos números anteriores consideram-se feitas:
+
+a) Nos municípios, ao presidente da câmara municipal;
+
+b) Nas freguesias, à junta de freguesia;
+
+c) Nas áreas metropolitanas e nas comunidades intermunicipais, ao secretariado executivo;
+
+d) Nas associações de municípios e nas empresas do setor local, ao conselho de administração.
+
+3 - Nos casos previstos no n.º 1 o período de suspensão não releva para o cúmulo máximo de dois meses referido na alínea a) do n.º 1 do artigo 10.º do Decreto-Lei n.º 166/2014, de 6 de novembro, na sua redação atual.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58-B/2020 - Diário da República n.º 158/2020, 2º Suplemento, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-b-2020-140431113), em vigor a partir de 2020-08-15
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20-D/2020 - Diário da República n.º 92/2020, 1º Suplemento, Série I de 2020-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-d-2020-133491339), em vigor a partir de 2020-05-13
+
+###### Artigo 9.º-B — Norma interpretativa
+
+1 - A suspensão referida no artigo anterior não se aplica aos contratos que, em 13 de maio de 2020, inclusive, se encontravam em execução e para os quais as entidades promotoras consideraram ter condições de continuarem a ser desenvolvidos apesar dos constrangimentos resultantes da pandemia da doença COVID-19.
+
+2 - Os contratos de estágio que já tinham sido suspensos antes do dia 12 de maio de 2020, inclusive, continuam suspensos até que cesse a suspensão e retomam no dia seguinte, aproveitando-se o tempo de estágio já realizado, até perfazer a totalidade do período que ainda falta cumprir.
+
+3 - Excetuam-se do disposto no número anterior os casos em que, por decisão da entidade promotora, seja considerado viável a cessação da suspensão e determinado o recomeço do estágio por estarem garantidas as adequadas condições de segurança para o efeito.
+
+4 - Quanto aos contratos de estágio ainda não iniciados, mas com procedimentos de seleção já concluídos, o seu início fica adiado até à cessação da suspensão e começam após essa data até perfazer a totalidade do período do estágio.
+
+5 - Os procedimentos de seleção em curso e que as entidades entenderem dever continuar, mesmo que a outorga dos contratos fique adiada até à cessação da suspensão, podem seguir os seus trâmites normais até à elaboração da lista de classificação final.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58-B/2020 - Diário da República n.º 158/2020, 2º Suplemento, Série I de 2020-08-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-b-2020-140431113), em vigor a partir de 2020-08-15
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+###### Artigo 10.º — Trabalhadores de serviços essenciais
+
+1 - São trabalhadores de serviços essenciais os profissionais de saúde, das forças e serviços de segurança e de socorro, incluindo os bombeiros voluntários, e das forças armadas, os trabalhadores dos serviços públicos essenciais e de instituições ou equipamentos sociais de apoio aos idosos como lares, centros de dia e outros similares, de gestão e manutenção de infraestruturas essenciais.
+
+2 - [Revogado.]
+
+3 - Os trabalhadores das atividades enunciadas no n.º 1 são mobilizados pela entidade empregadora ou pela autoridade pública.
+
+4 - [Revogado.]
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 5/2020 - Diário da República n.º 71-A/2020, Série I de 2020-04-10](https://diariodarepublica.pt/dr/detalhe/lei/5-2020-131338915), em vigor a partir de 2020-04-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 11.º — Viagens de finalistas
+
+1 - Fica interditada a realização de viagens de finalistas ou similares.
+
+2 - As agências ou outras entidades organizadoras das viagens previstas no número anterior ficam obrigados ao reagendamento das mesmas, salvo acordo em contrário.
+
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+### Capítulo V — Limitação de acesso a espaços frequentados pelo público
+
+###### Artigo 12.º — Restrições de acesso a estabelecimentos
+
+1 -  (Revogado.)
+
+2 - A afetação dos espaços acessíveis ao público dos demais estabelecimentos de restauração ou de bebidas e de estabelecimentos comerciais ou de serviços deve observar as regras de ocupação que vierem a ser definidas por portaria do membro do Governo responsável pela área da economia.
+
+3 - Na portaria referida no número anterior podem ser estabelecidas restrições totais ou parciais da afetação dos espaços acessíveis ao público.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 13.º — Restrições de acesso a serviços e edifícios públicos
+
+1 - Pode ser limitado o acesso a serviços e a edifícios públicos mediante despacho do membro do Governo responsável pela área da Administração Pública e pela área a que o serviço ou edifício respeitam.
+
+2 - Para efeitos da contratação de bens e serviços para reforço da prestação de serviços através dos meios digitais e dos centros de contacto com os cidadãos, designadamente canais de atendimento e de apoio à utilização daqueles serviços públicos, aplica-se o disposto no artigo 2.º
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+###### Artigo 13.º-A — Transportes
+
+1 - O transporte coletivo de passageiros, o transporte em táxi e o transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica devem assegurar, cumulativamente:
+
+a) O respeito pelo limite de lotação a definir em resolução do Conselho de Ministros;
+
+b) [Revogada.]
+
+c) A renovação do ar interior das viaturas, a limpeza diária, a desinfeção semanal e a higienização mensal dos veículos, instalações e equipamentos utilizados pelos passageiros e outros utilizadores, de acordo com as recomendações das autoridades de saúde.
+
+2 - (Revogado.)
+
+3 - Sem prejuízo do disposto nos números anteriores, podem ser adotadas outras medidas adicionais que sejam adequadas e necessárias no sentido de preservar a saúde pública, designadamente a não disponibilização da venda de títulos de transporte a bordo, a instalação de separações físicas entre os condutores e os passageiros e a disponibilização de gel ou solução cutânea desinfetante.
+
+4 - As autoridades de transporte, previstas na Lei n.º 52/2015, de 9 de junho, na sua redação atual, devem proceder à articulação com os respetivos operadores de transportes, no sentido de adequar a oferta à procura e às necessidades de transporte, salvaguardando a continuidade do serviço público essencial e o cumprimento das regras de salvaguarda da saúde pública.
+
+5 - Para cumprimento do disposto no número anterior, às contratações de veículos de transporte rodoviários de passageiros destinadas ao reforço da rede ferroviária e rodoviária, aplica-se o regime previsto no artigo 2.º
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53-A/2021 - Diário da República n.º 115/2021, 1º Suplemento, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-2021-165228627), em vigor a partir de 2021-06-17, produz efeitos a partir de 2021-06-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987), em vigor a partir de 2020-05-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 13.º-B — Uso de máscaras e viseiras
+
+1 - É obrigatório o uso de máscaras ou viseiras para o acesso ou permanência nos seguintes locais:
+
+a) (Revogada.)
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) (Revogada.)
+
+f) Estabelecimentos e serviços de saúde, exceto farmácias comunitárias;
+
+g) Estruturas residenciais ou de acolhimento ou serviços de apoio domiciliário para populações vulneráveis, pessoas idosas ou pessoas com deficiência, bem como unidades de cuidados continuados integrados da Rede Nacional de Cuidados Continuados Integrados;
+
+h) (Revogada.)
+
+2 - (Revogado.)
+
+3 - A obrigatoriedade referida no n.º 1 é dispensada quando, em função da natureza das atividades, o seu uso seja impraticável, devendo tal dispensa limitar-se ao estritamente necessário, ou quando tal seja determinado pela DGS.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - A obrigação de uso de máscara ou viseira nos termos do presente artigo apenas é aplicável às pessoas com idade superior a 10 anos.
+
+7 - A obrigatoriedade referida no n.º 1 é dispensada mediante a apresentação de:
+
+a) Atestado Médico de Incapacidade Multiusos ou declaração médica, no caso de se tratar de pessoas com deficiência cognitiva, do desenvolvimento e perturbações psíquicas;
+
+b) Declaração médica que ateste que a condição clínica da pessoa não se coaduna com o uso de máscaras ou viseiras.
+
+8 - Incumbe às pessoas ou entidades, públicas ou privadas, que sejam responsáveis pelos respetivos espaços ou estabelecimentos, serviços e edifícios públicos ou meios de transporte, a promoção do cumprimento do disposto no presente artigo.
+
+9 - (Revogado).
+
+10 - Em caso de incumprimento do disposto no presente artigo, as pessoas ou entidades referidas no n.º 8 devem informar os utilizadores não portadores de máscara que não podem aceder, permanecer ou utilizar os espaços, estabelecimentos ou transportes coletivos de passageiros e informar as autoridades e forças de segurança desse facto caso os utilizadores insistam em não cumprir aquela obrigatoriedade.
+
+11 - (Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 26-A/2023 - Diário da República n.º 75/2023, 1º Suplemento, Série I de 2023-04-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26-a-2023-211928286), em vigor a partir de 2023-04-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 57-A/2022 - Diário da República n.º 165/2022, 1º Suplemento, Série I de 2022-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/57-a-2022-200363306), em vigor a partir de 2022-08-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 30-E/2022 - Diário da República n.º 78/2022, 1º Suplemento, Série I de 2022-04-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/30-e-2022-182432341), em vigor a partir de 2022-04-22
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-12-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 33/2021 - Diário da República n.º 199/2021, Série I de 2021-10-13](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/33-2021-172745164), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17
+
+> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 28-B/2020 - Diário da República n.º 123/2020, 2º Suplemento, Série I de 2020-06-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-b-2020-136788887), em vigor a partir de 2020-06-27
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987), em vigor a partir de 2020-05-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 13.º-C — Controlo de temperatura corporal
+
+1 - No atual contexto da doença COVID-19, e exclusivamente por motivos de proteção da saúde do próprio e de terceiros, podem ser realizadas medições de temperatura corporal a trabalhadores para efeitos de acesso e permanência no local de trabalho.
+
+2 - O disposto no número anterior não prejudica o direito à proteção individual de dados, sendo expressamente proibido o registo da temperatura corporal associado à identidade da pessoa, salvo com expressa autorização da mesma.
+
+3 - Caso haja medições de temperatura superiores à normal temperatura corporal, pode ser impedido o acesso dessa pessoa ao local de trabalho.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 23-A/2022 - Diário da República n.º 35/2022, 2º Suplemento, Série I de 2022-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2022-179327569), em vigor a partir de 2022-02-19
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 13.º-D — Financiamento de barreiras de proteção
+
+1 - No ano de 2020, pode ser financiada, ao abrigo de acordo de colaboração técnica e financeira a celebrar nos termos do regime previsto no Decreto-Lei n.º 384/87, de 24 de dezembro, na sua redação atual, através da dotação inscrita no orçamento dos encargos gerais do Estado, a aquisição de barreiras acrílicas de proteção, para postos de atendimento presencial nos Espaços Cidadão e Lojas de Cidadão, cuja gestão seja da responsabilidade das autarquias locais.
+
+2 - O financiamento previsto no número anterior ascende a 90 % do custo total da barreira acrílica, com o limite de (euro) 54,00 por unidade, sendo apenas elegíveis as barreiras que obedeçam ao modelo definido pela Agência para a Modernização Administrativa, I. P. (AMA, I. P.).
+
+3 - Ficam dispensadas do cumprimento da obrigatoriedade prevista no número anterior, quanto ao modelo definido pela AMA, I. P., as autarquias locais que, anteriormente à publicação do Decreto-Lei n.º 20-D/2020, de 12 de maio, já tivessem iniciado o procedimento aquisitivo das barreiras.
+
+4 - O procedimento de financiamento é simplificado, desenvolvendo-se nos seguintes termos:
+
+a) As autarquias locais solicitam junto da Direção-Geral das Autarquias Locais (DGAL) o financiamento previsto no presente artigo, de acordo com o formulário disponibilizado no respetivo portal da DGAL;
+
+b) A DGAL procede à validação, junto da AMA, I. P., do número de barreiras acrílicas identificadas atendendo aos postos de atendimento existentes em cada Espaço Cidadão ou Loja de Cidadão;
+
+c) A autarquia local envia o comprovativo da aquisição à DGAL;
+
+d) A comparticipação é transferida pela DGAL em função da despesa realizada, nos termos do n.º 2.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20-D/2020 - Diário da República n.º 92/2020, 1º Suplemento, Série I de 2020-05-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-d-2020-133491339), em vigor a partir de 2020-05-13
+
+###### Artigo 13.º-E — Atendimento adicional em serviços públicos
+
+Até 28 de fevereiro de 2022, os períodos de funcionamento e de atendimento em Lojas de Cidadão previstos, respetivamente, nos artigos 8.º e 9.º do Decreto-Lei n.º 187/99, de 2 de junho, na sua redação atual, bem como no Departamento de Identificação Civil - Balcão Lisboa - Campus de Justiça, podem compreender-se entre as 8 horas e as 20 horas, nos dias úteis e entre as 8 horas e as 15 horas aos sábados, para a realização de todos os atendimentos ou apenas aqueles que se revelem necessários face à pendência acumulada.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 104/2021 - Diário da República n.º 230-A/2021, Série I de 2021-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2021-175043500), em vigor a partir de 2021-11-28, produz efeitos a partir de 2021-11-27
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+### Capítulo VI — Atos e diligências processuais e procedimentais
+
+###### Artigo 14.º — Justo impedimento, justificação de faltas e adiamento de diligências processuais e procedimentais
+
+1 - A declaração emitida por autoridade de saúde a favor de sujeito processual, parte, seus representantes ou mandatários, que ateste a necessidade de um período de isolamento destes por eventual risco de contágio do COVID-19 considera-se, para todos os efeitos, fundamento para a alegação do justo impedimento à prática de atos processuais e procedimentais que devam ser praticados presencialmente no âmbito de processos, procedimentos, atos e diligências que corram os seus termos nos tribunais judiciais, tribunais administrativos e fiscais, tribunais arbitrais, Ministério Público, julgados de paz, entidades de resolução alternativa de litígios, cartórios notariais, conservatórias, serviços e entidades administrativas, no âmbito de procedimentos contraordenacionais, respetivos atos e diligências e no âmbito de procedimentos, atos e diligências regulados pelo Código do Procedimento Administrativo, aprovado pelo Decreto-Lei n.º 4/2015, de 7 de janeiro, e demais legislação administrativa.
+
+2 - A declaração referida no número anterior constitui, igualmente, fundamento de justificação de não comparecimento em qualquer diligência processual ou procedimental, bem como do seu adiamento, no âmbito dos processos e procedimentos referidos no número anterior.
+
+3 - O disposto nos números anteriores é, com as devidas adaptações, aplicável aos demais intervenientes processuais ou procedimentais, ainda que meramente acidentais.
+
+4 - A declaração referida no n.º 1 considera-se também, para todos os efeitos, fundamento para a alegação do justo impedimento à prática de atos processuais e procedimentais que podem ser praticados remotamente quando o sujeito não tenha acesso a meios de comunicação à distância ou esteja incapacitado por infeção por COVID-19 para os praticar, no âmbito dos processos, procedimentos, atos e diligências referidos nesse número.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 4.º do/a [Lei n.º 16/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/16-2020-134762423), em vigor a partir de 2020-06-03
+
+###### Artigo 15.º — Encerramento de instalações
+
+1 - No caso de encerramento de instalações onde devam ser praticados atos processuais ou procedimentais no âmbito de processos e procedimentos referidos no n.º 1 do artigo anterior, ou de suspensão de atendimento presencial nessas instalações, por decisão de autoridade pública com fundamento no risco de contágio do COVID-19, considera-se suspenso o prazo para a prática do ato processual ou procedimental em causa a partir do dia do encerramento ou da suspensão do atendimento.
+
+2 - A suspensão estabelecida no número anterior cessa com a declaração da autoridade pública de reabertura das instalações.
+
+3 - O disposto no artigo anterior é aplicável aos cidadãos, sujeitos processuais, partes, seus representantes ou mandatários que residam ou trabalhem nos municípios em que se verifique o encerramento de instalações ou a suspensão do atendimento presencial, ainda que os atos e diligências processuais ou procedimentais devam ser praticados em município diverso.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+###### Artigo 15.º-A — Recolha de assinatura dos juízes participantes em tribunal coletivo
+
+A assinatura dos outros juízes que, para além do relator, tenham intervindo em tribunal coletivo, nos termos previstos no n.º 1 do artigo 153.º do Código de Processo Civil, aprovado pela Lei n.º 41/2013, de 26 de junho, na sua redação atual, pode ser substituída por declaração escrita do relator atestando o voto de conformidade dos juízes que não assinaram.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-03-13
+
+### Capítulo VII — Decurso de prazos
+
+###### Artigo 16.º — Atendibilidade de documentos expirados
+
+1 - Sem prejuízo do disposto no número seguinte, as autoridades públicas aceitam, para todos os efeitos legais, a exibição de documentos suscetíveis de renovação cujo prazo de validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores.
+
+2 - O cartão de cidadão, certidões e certificados emitidos pelos serviços de registos e da identificação civil, bem como as licenças e autorizações, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 31 de dezembro de 2021.
+
+3 - Os documentos referidos nos números anteriores continuam a ser aceites nos mesmos termos após 31 de dezembro de 2021, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
+
+4 - O cartão de beneficiário familiar de ADSE cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores é aceite até 31 de dezembro de 2021.
+
+5 - O disposto no número anterior aplica-se independentemente da verificação das situações previstas no artigo 9.º do Decreto-Lei n.º 118/83, de 25 de fevereiro, na sua redação atual, quando os beneficiários declarem que não conseguiram, em momento anterior, proceder à marcação dos atos médicos ou que estes foram desmarcados.
+
+6 - O disposto no n.º 2 não é aplicável às licenças de pesca lúdica mensais e anuais que estivessem válidas na data a que se refere o n.º 1, considerando-se as mesmas prorrogadas pelo período equivalente ao da respetiva interdição de exercício da pesca lúdica.
+
+7 - A validade das cartas de condução é determinada nos termos do Regulamento (UE) 2021/267 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2021.
+
+8 - Os documentos e vistos relativos à permanência em território nacional, cuja validade expire a partir da data de entrada em vigor do presente decreto-lei ou nos 15 dias imediatamente anteriores, são aceites, nos mesmos termos, até 30 de junho de 2025.
+
+9 - Os documentos referidos no número anterior continuam a ser aceites, nos mesmos termos, após 30 de junho de 2025, desde que o seu titular faça prova de que já procedeu ao agendamento da respetiva renovação.
+
+10 - O regime previsto nos n.os 8 e 9 não se aplica aos documentos relativos à permanência em território nacional emitidos ao abrigo da Resolução do Conselho de Ministros n.º 29-A/2022, de 1 de março, na sua redação atual, que estabelece os critérios específicos da concessão de proteção temporária a pessoas deslocadas da Ucrânia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41-A/2024 - Diário da República n.º 124/2024, Suplemento, Série I de 2024-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-a-2024-870297959), em vigor a partir de 2024-06-29
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 109/2023 - Diário da República n.º 228/2023, Série I de 2023-11-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2023-224728395), em vigor a partir de 2023-11-25, produz efeitos a partir de 2024-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 90/2022 - Diário da República n.º 251/2022, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/90-2022-205493447), em vigor a partir de 2022-12-31, produz efeitos a partir de 2023-01-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 23-A/2022 - Diário da República n.º 35/2022, 2º Suplemento, Série I de 2022-02-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-a-2022-179327569), em vigor a partir de 2022-02-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23, produz efeitos a partir de 2022-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 87-A/2020 - Diário da República n.º 201/2020, 1º Suplemento, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087), em vigor a partir de 2020-10-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987), em vigor a partir de 2020-05-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+> Retificado pelo/a [Declaração de Retificação n.º 11-B/2020 - Diário da República n.º 53/2020, 2º Suplemento, Série I de 2020-03-16](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/11-b-2020-130277366), em vigor a partir de 2020-03-14, produz efeitos a partir de 2020-03-09
+
+###### Artigo 16.º-A — Força probatória das cópias digitalizadas e das fotocópias
+
+1 - É reconhecida às cópias digitalizadas e às fotocópias dos atos e contratos a força probatória dos respetivos originais, salvo se a pessoa a quem forem apresentadas requerer a exibição desse original.
+
+2 - A assinatura das cópias digitalizadas dos atos e contratos por via manuscrita ou por via de assinatura eletrónica qualificada não afeta a validade dos mesmos, ainda que coexistam no mesmo ato ou contrato formas diferentes de assinatura.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 17.º — Suspensão e prorrogação de prazos
+
+1 - (Revogado).
+
+2 - (Revogado).
+
+3 - Os trabalhos de gestão de combustível definidos nos n.os 2, 10 e 13 do artigo 15.º do Decreto-Lei n.º 124/2006, de 28 de junho, na sua redação atual, devem decorrer até 31 de maio.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 18.º — Prazos de realização de assembleias gerais
+
+1 - Não obstante a possibilidade de realização de assembleias gerais através de meios telemáticos nos termos legais, as assembleias gerais das sociedades comerciais, das associações ou das cooperativas, que devam ter lugar por imposição legal ou estatutária, podem ser realizadas até 30 de junho de 2021.
+
+2 - Sem prejuízo do disposto no número anterior, no caso das cooperativas e das associações com mais de 100 cooperantes ou associados, as assembleias gerais que devam ter lugar por imposição estatutária podem ser realizadas até 30 de setembro de 2021.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 87-A/2020 - Diário da República n.º 201/2020, 1º Suplemento, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087), em vigor a partir de 2020-10-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+###### Artigo 18.º-A — Prorrogação dos prazos para exercício de direitos do consumidor
+
+Os prazos para o exercício de direitos previstos no artigo 5.º-A do Decreto-Lei n.º 67/2003, de 8 de abril, na sua redação atual, cujo término se tenha verificado entre os dias 18 de março de 2020 e 31 de maio de 2020, são prorrogados até 30 de junho de 2020.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+###### Artigo 18.º-B — Prorrogação do prazo das obrigações de investimento dos distribuidores
+
+É prorrogado o prazo de investimento do ano de 2020, respeitante à obrigação de investimento dos distribuidores prevista no artigo 15.º da Lei do Cinema, aprovada pela Lei n.º 55/2012, de 6 de setembro, na sua redação atual, e regulamentada pelo artigo 45.º do Decreto-Lei n.º 25/2018, de 24 de abril, até 31 de dezembro de 2021.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23, produz efeitos a partir de 2020-03-12
+
+### Capítulo VIII — Medidas de proteção social na doença e na parentalidade
+
+###### Artigo 19.º — Isolamento profilático
+
+1 - É equiparada a doença a situação de isolamento profilático até 14 dias, seguidos ou interpolados, dos trabalhadores por conta de outrem e dos trabalhadores independentes do regime geral de segurança social, motivado por situações de grave risco para a saúde pública decretado pelas entidades que exercem o poder de autoridade de saúde, no âmbito do exercício das competências previstas no artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual.
+
+2 - O reconhecimento do direito ao subsídio de doença não depende de verificação do prazo de garantia, do índice de profissionalidade e da certificação da incapacidade temporária para o trabalho.
+
+3 - A atribuição do subsídio não está sujeita a período de espera.
+
+4 - O valor do subsídio corresponde a 100 % da remuneração de referência.
+
+5 - No caso de os beneficiários não apresentarem seis meses com registo de remunerações, a remuneração de referência é definida por R/(30 x n), em que R representa o total das remunerações registadas desde o início do período de referência até ao dia que antecede o isolamento profilático e n o número de meses a que as mesmas se reportam.
+
+6 - Para efeitos do disposto no n.º 1, a autoridade de saúde pública declara a data de início e a data fim da situação de isolamento profilático.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62-A/2020 - Diário da República n.º 172/2020, 1º Suplemento, Série I de 2020-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-a-2020-141967954), em vigor a partir de 2020-09-04, produz efeitos a partir de 2020-07-25
+
+###### Artigo 19.º-A — Declaração provisória de isolamento
+
+1 - Na sequência do contacto com o SNS 24 ou através do recurso a mecanismos automatizados, é emitida aos trabalhadores por conta de outrem, bem como aos trabalhadores independentes do regime geral de segurança social, uma declaração provisória de isolamento sempre que se verifique uma situação de risco suscetível de determinar o processo de avaliação e declaração do isolamento profilático previsto no n.º 1 do artigo anterior ou uma outra circunstância que determine o isolamento na sequência da aplicação de regras definidas pela DGS, designadamente na sequência de diagnóstico de infeção por SARS-CoV-2.
+
+2 - Às situações declaradas nos termos do número anterior aplica-se, com as necessárias adaptações, o regime aplicável ao isolamento profilático.
+
+3 - A declaração provisória de isolamento é válida por um período máximo de sete dias, podendo ser cessada previamente com a emissão de certificado de incapacidade temporária para o trabalho, alta do utente ou contacto das entidades que exercem o poder de autoridade de saúde, no âmbito e para efeitos do exercício das competências previstas no artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual.
+
+4 - Da declaração provisória de isolamento consta a data de início e a data de fim, sendo o respetivo número de dias descontado do período referido no n.º 1 do artigo anterior.
+
+5 - O disposto no n.os 2 e 4 não se aplica aos trabalhadores que possam recorrer a mecanismos alternativos de prestação de trabalho, nomeadamente o teletrabalho.
+
+6 - Nos casos previstos no número anterior, a declaração provisória de isolamento vale como declaração comprovativa da existência de uma situação de risco para a saúde pública para fundamentar a ausência do local de trabalho, a ser enviada, por via eletrónica, à segurança social.
+
+7 - Para efeitos do disposto no presente artigo, a impossibilidade de realização de teletrabalho é atestada por uma declaração da entidade patronal.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-A/2022 - Diário da República n.º 5/2022, 1º Suplemento, Série I de 2022-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2022-177363491), em vigor a partir de 2022-01-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94-A/2020 - Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155), em vigor a partir de 2020-11-04
+
+###### Artigo 19.º-B — Emissão desmaterializada
+
+1 - A declaração provisória de isolamento e a declaração de isolamento profilático são emitidas em formato eletrónico e desmaterializado.
+
+2 - As declarações previstas no número anterior são acessíveis através da Internet, mediante código de acesso emitido para esse efeito.
+
+3 - A prova dos factos constantes das declarações, perante qualquer entidade pública ou privada, faz-se por via da entrega do respetivo código de acesso.
+
+4 - Os modelos de declaração provisória de isolamento e de declaração de isolamento profilático, bem como a duração da sua disponibilização online, serão definidos através de despacho dos membros do Governo responsáveis pelas áreas da saúde e do trabalho e segurança social.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6-A/2022 - Diário da República n.º 5/2022, 1º Suplemento, Série I de 2022-01-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-a-2022-177363491), em vigor a partir de 2022-01-08
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94-A/2020 - Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155), em vigor a partir de 2020-11-04
+
+###### Artigo 20.º — Subsídio de doença
+
+1 - Nas situações de doença por COVID-19 dos trabalhadores por conta de outrem e dos trabalhadores independentes do regime geral de segurança social abrangidos pelo presente artigo, a atribuição do subsídio por doença não está sujeita a período de espera.
+
+2 - A atribuição de subsídio de doença corresponde a 100 % da remuneração de referência líquida e tem o limite máximo de 28 dias, ao qual é descontado o período referido no n.º 1 do artigo anterior, quando aplicável.
+
+3 - Para efeitos de atribuição do subsídio referido no número anterior, o médico avalia a situação de doença no máximo a cada 14 dias, atestando a data de início e a data de fim da situação de doença.
+
+4 - Após o decurso do período previsto no n.º 2, no cálculo do subsídio de doença aplicam-se as percentagens a que se refere o n.º 2 do artigo 16.º do Decreto-Lei n.º 28/2004, de 4 de fevereiro, na sua redação atual.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62-A/2020 - Diário da República n.º 172/2020, 1º Suplemento, Série I de 2020-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-a-2020-141967954), em vigor a partir de 2020-09-04, produz efeitos a partir de 2020-07-25
+
+###### Artigo 20.º-A — Doença profissional
+
+1 - Para efeitos do disposto no artigo 262.º-B da Lei n.º 2/2020, de 31 de março, na sua redação atual, e no n.º 2 do artigo 94.º da Lei n.º 98/2009, de 4 de setembro, estão dispensados de fazer prova de que a doença COVID-19 é uma consequência direta da atividade exercida e que não representa normal desgaste do organismo os trabalhadores doentes com COVID-19 dos serviços e estabelecimentos do SNS, vinculados por contrato de trabalho em funções públicas ou contrato de trabalho celebrado ao abrigo do Código do Trabalho, que tenham praticado atos diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2, quer enquanto prestadores diretos de cuidados, quer como prestadores de atividades de suporte, nas áreas dedicadas à COVID-19 dos estabelecimentos e serviços de saúde, definidos como unidades de referência de primeira e segunda linha para admissão de pessoas suspeitas ou infetadas por SARS-CoV-2, nas áreas dedicadas à COVID-19 reconhecidas enquanto tal pela Direção-Geral da Saúde, ou nas unidades de saúde pública dos agrupamentos de centros de saúde e unidades locais de saúde e nos departamentos de saúde pública das administrações regionais de saúde.
+
+2 - Para o reconhecimento da situação de doença profissional nos casos previstos no número anterior, os trabalhadores devem apresentar requerimento, junto dos serviços competentes da segurança social, acompanhado dos seguintes documentos devidamente preenchidos:
+
+a) Certificado de incapacidade temporária para o trabalho indicando doença profissional;
+
+b) Modelo de participação obrigatória de doença profissional;
+
+c) Declaração da entidade empregadora comprovativa da situação profissional do trabalhador, incluindo a referência ao exercício de funções enquanto prestador direto de cuidados de saúde ou, sendo o caso, de atividades de suporte a tais cuidados no âmbito da doença COVID-19, bem como a identificação da área dedicada à COVID-19 ou do organismo ou departamento em que prestou atos diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2 nos termos do n.º 1.
+
+3 - À situação de incapacidade reconhecida nos termos dos números anteriores e verificada pelos serviços competentes da segurança social é aplicável o disposto na Lei n.º 98/2009, de 4 de setembro, no que respeita à reparação e indemnização, sem prejuízo do disposto no número seguinte.
+
+4 - Na reparação de doença profissional, a retribuição de referência líquida corresponde ao montante da retribuição de referência apurada nos termos do artigo 111.º da Lei n.º 98/2009, de 4 de setembro, deduzido das taxas contributiva e de retenção do imposto sobre o rendimento das pessoas singulares, que seriam imputáveis ao beneficiário.
+
+5 - Para efeitos do disposto no presente artigo consideram-se, com as devidas adaptações, os enfermeiros e os técnicos de emergência médica pré-hospitalar, os trabalhadores civis do HFAR, os profissionais dos serviços médico-legais do INMLCF, I. P., e os trabalhadores das unidades e serviços de saúde prisionais da DGRSP, vinculados por contrato de trabalho em funções públicas ou contrato de trabalho celebrado ao abrigo do Código do Trabalho, que tenham praticado atos diretamente relacionados com pessoas suspeitas e doentes infetados por SARS-CoV-2.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+###### Artigo 21.º — Subsídios de assistência a filho e a neto
+
+1 - Considera-se falta justificada a situação decorrente do acompanhamento de isolamento profilático motivado por situações de grave risco para a saúde pública decretado pelas entidades que exercem o poder de autoridade de saúde, no âmbito do exercício das competências previstas no artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual, ou de doença por COVID-19, até ao limite de 14 dias, em cada uma das situações, de filho ou outro dependente a cargo dos trabalhadores por conta de outrem do regime geral de segurança social.
+
+2 - Em caso de isolamento profilático, determinado nos termos do número anterior, de criança menor de 12 anos ou, independentemente da idade, com deficiência ou doença crónica, a atribuição do subsídio para assistência a filho e do subsídio para assistência a neto, não depende de prazo de garantia.
+
+3 - No caso de os beneficiários não apresentarem seis meses com registo de remunerações, a remuneração de referência é definida por R/(30 x n), em que R representa o total das remunerações registadas desde o início do período de referência até ao dia que antecede o isolamento profilático e n o número de meses a que as mesmas se reportam.
+
+4 - O número de dias de atribuição de um dos subsídios referidos no n.º 1 não releva para o cômputo do período máximo de atribuição em cada ano civil.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62-A/2020 - Diário da República n.º 172/2020, 1º Suplemento, Série I de 2020-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-a-2020-141967954), em vigor a partir de 2020-09-04, produz efeitos a partir de 2020-07-25
+
+###### Artigo 22.º — Faltas do trabalhador
+
+1 - Fora dos períodos de interrupções letivas fixados nos anexos II e IV ao Despacho n.º 5754-A/2019, publicado no Diário da República, 2.ª série, n.º 115, 18 de junho, ou definidos por cada escola ao abrigo da possibilidade inscrita no n.º 5 do artigo 4.º da Portaria n.º 181/2019, de 11 de junho, consideram-se justificadas, sem perda de direitos salvo quanto à retribuição, as faltas ao trabalho motivadas por assistência inadiável a filho ou outro dependente a cargo menor de 12 anos, ou, independentemente da idade, com deficiência ou doença crónica, decorrentes de suspensão das atividades letivas e não letivas presenciais em estabelecimento escolar ou equipamento social de apoio à primeira infância ou deficiência, quando determinado:
+
+a) Por autoridade de saúde, no âmbito do exercício das competências previstas no artigo 5.º do Decreto-Lei n.º 82/2009, de 2 de abril, na sua redação atual;
+
+b) Pelo Governo.
+
+2 - Para efeitos do disposto no número anterior, o trabalhador comunica a ausência nos termos do artigo 253.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 23.º — Apoio excecional à família para trabalhadores por conta de outrem
+
+1 - Nas situações referidas no artigo anterior, o trabalhador por conta de outrem tem direito a receber um apoio excecional mensal, ou proporcional, correspondente a dois terços da sua remuneração base, pago em partes iguais pela entidade empregadora e pela segurança social.
+
+2 - O apoio a que se refere o número anterior tem por limite mínimo uma remuneração mínima mensal garantida (RMMG) e por limite máximo três RMMG.
+
+3 - O apoio a que se refere o presente artigo é deferido de forma automática após requerimento da entidade empregadora, desde que não existam outas formas de prestação da atividade, nomeadamente por teletrabalho.
+
+4 - A parcela da segurança social é entregue à entidade empregadora que procede ao pagamento da totalidade do apoio ao trabalhador.
+
+5 - Salvo o disposto no n.º 9, sobre o apoio incide a quotização do trabalhador e 50 % da contribuição social da entidade empregadora, devendo o mesmo ser objeto de declaração de remunerações autónoma.
+
+6 - Os apoios previstos no presente artigo e no artigo seguinte não podem ser percebidos simultaneamente por ambos os progenitores e só são percebidos uma vez, independentemente do número de filhos ou dependentes a cargo.
+
+7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.
+
+8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.
+
+9 - Quando a entidade empregadora revista natureza pública, com exceção do setor empresarial do estado, o apoio previsto no presente artigo é assegurado integralmente pela mesma.
+
+10 - Para os trabalhadores do serviço doméstico, o valor do apoio corresponde a dois terços da remuneração registada no mês de janeiro de 2020, com os limites previstos no n.º 2, sendo pago um terço pela Segurança Social, mantendo as entidades empregadoras a obrigação de:
+
+a) Pagamento de um terço da remuneração;
+
+b) Declaração dos tempos de trabalho e da remuneração normalmente declarada relativa ao trabalhador, independentemente da suspensão parcial do seu efetivo pagamento; e
+
+c) Pagamento das correspondentes contribuições e quotizações.
+
+11 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no Decreto-Lei n.º 10-G/2020, de 26 de março.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 24.º — Apoio excecional à família para trabalhadores independentes
+
+1 - Nas situações análogas às do n.º 1 do artigo 22.º, caso o trabalhador independente sujeito ao cumprimento da obrigação contributiva em pelo menos 3 meses consecutivos há pelo menos 12 meses, não possa prosseguir a sua atividade, tem direito a um apoio excecional mensal, ou proporcional.
+
+2 - O valor do apoio é correspondente à totalidade da base de incidência contributiva mensualizada referente ao primeiro trimestre de 2020.
+
+3 - O apoio a que se refere os números anteriores tem por limite mínimo 1 Indexante de Apoios Sociais (IAS) e máximo de 3 IAS, não podendo, em qualquer caso, exceder o montante da remuneração registada como base de incidência contributiva.
+
+4 - O apoio é objeto de declaração trimestral de rendimentos, estando sujeito à correspondente contribuição social.
+
+5 - O apoio a que se refere o presente artigo é atribuído de forma automática após requerimento do trabalhador independente, desde que não existam outas formas de prestação da atividade, nomeadamente por teletrabalho.
+
+6 - Os apoios previstos no presente artigo e no artigo anterior não podem ser percebidos simultaneamente por ambos os progenitores e só são percebidos uma vez, independentemente do número de filhos ou dependentes a cargo.
+
+7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.
+
+8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.
+
+9 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no Decreto-Lei n.º 10-G/2020, de 26 de março.
+
+> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) São declarados inconstitucionais, os números 2 e 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março. Esta inconstitucionalidade resulta do Acórdão n.º 545/2021 do Tribunal Constitucional que declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 3.º da Lei n.º 16/2021, de 7 de abril, na parte em que adita o artigo 4.º-C ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro e, através deste, altera os números 2 e 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, por violação do disposto no n.º 2 do artigo 167.º e no n.º 1 do artigo 169.º da Constituição.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 3.º do/a [Lei n.º 16/2021 - Diário da República n.º 67/2021, Série I de 2021-04-07](https://diariodarepublica.pt/dr/detalhe/lei/16-2021-160994172), em vigor a partir de 2021-04-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 25.º — Trabalhadores do regime de proteção social convergente
+
+Aos trabalhadores do regime de proteção social convergente aplicam-se, com as necessárias adaptações, as regras previstas no presente capítulo.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 25.º-A — Regime excecional de proteção de pessoas com condições de imunossupressão
+
+1 - As pessoas com condições de imunossupressão que careçam de administração de uma dose adicional da vacina contra a COVID-19 nos termos das normas da Direção-Geral da Saúde vigentes a 1 de outubro de 2021 podem justificar a falta ao trabalho, mediante declaração médica, desde que não possam desempenhar a sua atividade em regime de teletrabalho ou através de outras formas de prestação de atividade.
+
+2 - A declaração médica referida no número anterior deve atestar a condição de saúde do trabalhador que justifica a sua especial proteção, e ser emitida, com data e assinatura legível, por médico da especialidade conexa aos fundamentos clínicos.
+
+3 - (Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/lei/31-2020-140013516), em vigor a partir de 2020-08-12, produz efeitos a partir de 2020-05-03
+
+> Retificado pelo/a [Declaração de Retificação n.º 18-C/2020 - Diário da República n.º 87/2020, 1º Suplemento, Série I de 2020-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-c-2020-133064189), em vigor a partir de 2020-05-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 25.º-B — Regime excecional de atividades de apoio social
+
+1 - Durante a situação de calamidade, podem ser utilizados os equipamentos sociais que estejam aptos a entrar em funcionamento e dotados dos equipamentos necessários, nos termos do artigo 11.º e seguintes do Decreto-Lei n.º 64/2007, de 14 de março, na sua redação atual.
+
+2 - Compete ao Instituto da Segurança Social, I. P.:
+
+a) Fixar o número de vagas destes estabelecimentos de acordo com as orientações emitidas pela Direção-Geral da Saúde ou em articulação com esta;
+
+b) Realizar a gestão da ocupação destas vagas, privilegiando o acolhimento de pessoas com alta hospitalar e outras necessidades detetadas na comunidade.
+
+3 - Esta autorização provisória de funcionamento cessa a 30 de junho de 2022, após a qual deve ser retomado e concluído o procedimento de autorização de funcionamento, salvaguardando-se, nos termos legais e sempre que possível, a continuidade da atividade já iniciada.
+
+4 - Durante a situação de calamidade pode haver lugar a alteração transitória da utilização do espaço do edificado, relativamente ao atualmente estabelecido, quer nos equipamentos sociais referidos no n.º 1, quer nos que se encontram em funcionamento, licenciados e/ou com acordo de cooperação.
+
+5 - Em obediência das regras e orientações da Direção-Geral da Saúde, e para os efeitos das medidas previstas no presente artigo, pode ainda ser redefinida a capacidade de cada estabelecimento.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968), em vigor a partir de 2020-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 25.º-C — Manutenção de contrato de trabalho em situação de crise empresarial
+
+1 - As empresas com estabelecimentos cujas atividades tenham sido objeto de levantamento de restrição de encerramento após o termo do estado de emergência ou de restrição imposta por determinação legislativa ou administrativa, nos termos previstos no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou ao abrigo da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, assim como da Lei de Bases da Saúde, aprovada pela Lei n.º 95/2019, de 4 de setembro, continuam, a partir desse momento, a poder aceder ao mecanismo de lay off simplificado, previsto no Decreto-Lei n.º 10-G/2020, de 26 de março, na sua redação atual, desde que retomem a atividade no prazo de oito dias.
+
+2 - O incentivo financeiro extraordinário para apoio à normalização da atividade da empresa previsto no n.º 1 do artigo 10.º do Decreto-Lei n.º 10-G/2020, de 26 de março, na sua redação atual, é regulamentado por portaria do membro do Governo responsável pela área do trabalho, designadamente no que respeita aos procedimentos, condições e termos de acesso.
+
+3 - Para efeitos de incumprimento e restituição do apoio extraordinário à manutenção de contrato de trabalho em empresa em situação de crise empresarial, previsto no artigo 5.º do Decreto-Lei n.º 10-G/2020, de 26 de março, na sua redação atual, não é aplicável a alínea e) do n.º 1 do artigo 303.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, na parte referente às renovações de contratos.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 25.º-D — Reabertura de respostas sociais e educativas
+
+1 - Nas atividades das respostas sociais de creche, creche familiar e ama, bem como de centro de atividades ocupacionais, devem ser observadas as regras de ocupação, permanência, distanciamento físico e de higiene determinadas pela Direção-Geral da Saúde.
+
+2 - Nas atividades educativas presenciais, em estabelecimentos de educação pré-escolar da rede pública, da rede do setor social e solidário e do ensino particular e cooperativo, devem ser observadas as regras de ocupação, permanência, distanciamento físico e de higiene determinadas pela Direção-Geral da Saúde.
+
+3 - Nas atividades desenvolvidas em centros de atividades de tempos livres não integradas em estabelecimentos escolares, devem ser observadas as regras de ocupação, permanência, distanciamento físico e de higiene determinadas pela Direção-Geral da Saúde.
+
+4 - Nas demais atividades de apoio à família e de ocupação de tempos livres ou similares devem ser observadas as regras de ocupação, permanência, distanciamento físico e de higiene determinadas pela Direção-Geral da Saúde.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30, produz efeitos a partir de 2020-06-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987), em vigor a partir de 2020-05-17
+
+### Capítulo IX — Medidas de apoio aos trabalhadores independentes
+
+###### Artigo 26.º — Apoio extraordinário à redução da atividade económica de trabalhador
+
+1 - O apoio extraordinário à redução da atividade económica reveste a forma de um apoio financeiro aos trabalhadores abrangidos exclusivamente pelo regime dos trabalhadores independentes, ou que estejam também abrangidos pelo regime de trabalhadores por conta de outrem e não aufiram, neste regime, mais do que o valor do IAS, e que não sejam pensionistas, sujeitos ao cumprimento da obrigação contributiva em pelo menos três meses seguidos ou seis meses interpolados há pelo menos 12 meses:
+
+a) Em situação comprovada de paragem total da sua atividade como trabalhador independente, ou da atividade do respetivo setor, em consequência da pandemia da doença COVID-19; ou
+
+b) Mediante declaração do próprio conjuntamente com certidão de contabilista certificado que o ateste, em situação de quebra abrupta e acentuada de, pelo menos, 40 % da faturação no período de trinta dias anterior ao do pedido junto dos serviços competentes da segurança social, com referência à média mensal dos dois meses anteriores a esse período, ou face ao período homólogo do ano anterior ou, ainda, para quem tenha iniciado a atividade há menos de 12 meses, à média desse período.
+
+2 - As circunstâncias referidas no número anterior e no n.º 6 são atestadas mediante declaração do próprio, sob compromisso de honra, e, no caso de trabalhadores independentes no regime de contabilidade organizada, bem como dos gerentes ou equiparados de entidades com contabilidade organizada, de certificação do contabilista certificado.
+
+3 - Durante o período de aplicação desta medida, o trabalhador independente tem direito a um apoio financeiro com duração de um mês, prorrogável mensalmente, até um máximo de seis meses, correspondente:
+
+a) Ao valor da remuneração registada como base de incidência contributiva, com o limite máximo do valor de um IAS, nas situações em que o valor da remuneração registada como base de incidência é inferior a 1,5 IAS;
+
+b) A dois terços do valor da remuneração registada como base de incidência contributiva, com o limite máximo do valor da RMMG, nas situações em que o valor da remuneração registada é superior ou igual a 1,5 IAS.
+
+4 - O apoio financeiro é pago a partir do mês seguinte ao da apresentação do requerimento.
+
+5 - Enquanto se mantiver o pagamento do apoio extraordinário, o trabalhador independente mantém a obrigação da declaração trimestral quando sujeito a esta obrigação.
+
+6 - O apoio previsto no presente artigo é concedido, com as necessárias adaptações, aos gerentes das micro e pequenas empresas, tenham ou não participação no capital da empresa, aos empresários em nome individual, bem como aos membros dos órgãos estatutários de fundações, associações ou cooperativas com funções equivalentes às daqueles, que estejam, nessa qualidade, exclusivamente abrangidos pelos regimes de segurança social.
+
+7 - O apoio previsto no presente artigo não é cumulável com os apoios previstos no capítulo anterior, nem confere o direito à isenção do pagamento de contribuições à Segurança Social.
+
+8 - Nas situações previstas na alínea b) do n.º 1, o valor do apoio financeiro referido no n.º 3 é multiplicado pela respetiva quebra de faturação, expressa em termos percentuais.
+
+9 - Para os efeitos do número anterior, a quebra de faturação é declarada nos termos da alínea b) do n.º 1 e é sujeita a posterior verificação pela segurança social, no prazo de um ano a contar da atribuição do apoio, com base em informação solicitada à Autoridade Tributária e Aduaneira, dando lugar à eventual restituição das quantias indevidamente recebidas.
+
+10 - Para efeitos do disposto no n.º 6, quando a comunicação dos elementos das faturas através do E-fatura não reflita a totalidade das operações praticadas sujeitas a IVA, ainda que isentas, relativas a transmissão de bens e prestações de serviços, referentes ao período em análise, a aferição dos limites aí previstos é efetuada por via declarativa, com referência ao volume de negócios, com a respetiva certificação por contabilista certificado, e sujeito a posterior verificação pela segurança social, no prazo de um ano a contar da atribuição do apoio, com base em informação solicitada à Autoridade Tributária e Aduaneira, dando lugar à eventual restituição das quantias indevidamente recebidas.
+
+11 - O apoio previsto no presente artigo tem como limite mínimo o valor correspondente a 50 % do valor do IAS.
+
+12 - O apoio previsto no presente artigo pode ser prorrogado tendo por base qualquer das condições previstas no n.º 1.
+
+13 - Os apoios concedidos ao abrigo do presente artigo dependem da retoma da atividade no prazo de oito dias, caso a mesma tenha estado suspensa ou encerrada nos termos da alínea a) do n.º 1.
+
+14 - Sem prejuízo do disposto no n.º 6, aos sócios-gerentes das micro e pequenas empresas, tenham ou não participação no capital da empresa, aos empresários em nome individual, bem como aos membros dos órgãos estatutários de fundações, associações ou cooperativas com funções equivalentes às daqueles, que estejam, nessa qualidade, exclusivamente abrangidos pelos regimes de segurança social é atribuído, durante o período de aplicação desta medida, um apoio financeiro com duração de um mês, prorrogável mensalmente, até um máximo de seis meses, com o limite máximo igual ao valor a que se refere o n.º 3 do artigo 305.º da Lei n.º 7/2009, de 12 de fevereiro, correspondente:
+
+a) Ao valor da remuneração registada como base de incidência contributiva, nas situações em que o valor da remuneração registada como base de incidência é inferior a 1,5 IAS;
+
+b) A dois terços do valor da remuneração registada como base de incidência contributiva, nas situações em que o valor da remuneração registada é superior ou igual a 1,5 IAS.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/lei/31-2020-140013516), em vigor a partir de 2020-08-12, produz efeitos a partir de 2020-05-03
+
+> Alterado pelo/a Artigo 9.º do/a [Lei n.º 27-A/2020 - Diário da República n.º 143/2020, 1º Suplemento, Série I de 2020-07-24](https://diariodarepublica.pt/dr/detalhe/lei/27-a-2020-138762310), em vigor a partir de 2020-07-25, produz efeitos a partir de 2020-03-12
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 20-C/2020 - Diário da República n.º 89/2020, 1º Suplemento, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-c-2020-133321093), em vigor a partir de 2020-05-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 27.º — Diferimento do pagamento de contribuições
+
+1 - Os trabalhadores independentes abrangidos pelo apoio financeiro referido no artigo anterior têm direito ao diferimento do pagamento de contribuições devidas nos meses em que esteja a ser pago o apoio financeiro extraordinário.
+
+2 - Nas situações previstas no n.º 6 do artigo anterior, o diferimento do pagamento de contribuições é aplicável à entidade empregadora nos estritos termos dos artigos 3.º e 4.º do Decreto-Lei n.º 10-F/2020, de 26 de março, na sua redação atual.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 20-C/2020 - Diário da República n.º 89/2020, 1º Suplemento, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-c-2020-133321093), em vigor a partir de 2020-05-09, produz efeitos a partir de 2020-04-07
+
+###### Artigo 28.º — Pagamento diferido das contribuições
+
+1 - O pagamento das contribuições devidas relativas ao período de diferimento deve ser efetuado a partir do segundo mês posterior ao da cessação do apoio e pode ser efetuado num prazo máximo de 12 meses, em prestações mensais e iguais.
+
+2 - Aos acordos prestacionais previstos no presente artigo é aplicável o artigo 8.º do Decreto-Lei n.º 213/2012, de 25 de setembro, na sua redação atual.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 28.º-A — Medida extraordinária de incentivo à atividade profissional
+
+1 - A medida extraordinária de incentivo à atividade profissional reveste a forma de apoio financeiro aos trabalhadores que em março de 2020 se encontravam exclusivamente abrangidos pelo regime dos trabalhadores independentes, ou que estejam também abrangidos pelo regime de trabalhadores por conta de outrem e não aufiram, neste regime, mais do que o valor do IAS, estando numa das condições previstas nas alíneas a) ou b) do n.º 1 do artigo 26.º, e que:
+
+a) Tenham iniciado atividade há mais de 12 meses e não preencham as condições referidas no corpo do n.º 1 do artigo 26.º; ou
+
+b) Tenham iniciado atividade há menos de 12 meses; ou
+
+c) Estejam isentos do pagamento de contribuições por força do disposto na alínea d) do n.º 1 do artigo 157.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, na sua redação atual (CRCSPSS).
+
+2 - Durante o período de aplicação desta medida, o trabalhador independente tem direito a um apoio financeiro com duração de um mês, prorrogável mensalmente até um máximo de três meses, correspondente ao valor calculado nos termos do n.º 1 do artigo 162.º do CRCSPSS, com base na média da faturação comunicada para efeitos fiscais entre 1 de março de 2019 e 29 de fevereiro de 2020, com a ponderação prevista n.º 8 do artigo 26.º do presente decreto-lei, tendo como limite máximo metade do valor do IAS e mínimo correspondente ao menor valor de base de incidência contributiva mínima.
+
+3 - O pedido de concessão do apoio determina, a partir do mês seguinte ao da cessação do apoio, a produção de efeitos do enquadramento no regime dos trabalhadores independentes ou a cessação da isenção.
+
+4 - O valor da média da faturação determinante do cálculo do apoio é transmitido pela Autoridade Tributária e Aduaneira à Segurança Social.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/lei/31-2020-140013516), em vigor a partir de 2020-08-12, produz efeitos a partir de 2020-05-08
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 20-C/2020 - Diário da República n.º 89/2020, 1º Suplemento, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-c-2020-133321093), em vigor a partir de 2020-05-09
+
+###### Artigo 28.º-B — Enquadramento de situações de desproteção social
+
+1 - A medida de enquadramento de situações de desproteção social reveste a forma de apoio financeiro às pessoas que não se encontrem obrigatoriamente abrangidas por um regime de segurança social, nacional ou estrangeiro, e que declarem o início ou reinício de atividade independente junto da administração fiscal.
+
+2 - A atribuição do apoio está sujeita à produção de efeitos do enquadramento no regime de segurança social dos trabalhadores independentes e implica a manutenção do exercício de atividade por um período mínimo de 24 meses após a cessação do pagamento da prestação.
+
+3 - A atribuição do apoio está sujeita a condição de recursos do requerente e respetivo cônjuge ou unido de facto, com base nos rendimentos disponíveis no sistema de informação da segurança social e da administração tributária, tendo por base o referencial previsto na Lei n.º 13/2003, de 21 de maio, na sua redação atual.
+
+4 - O apoio é devido a partir da data de apresentação do requerimento e é atribuído por um período máximo de dois meses.
+
+5 - O montante da prestação a atribuir corresponde a metade do montante do IAS.
+
+6 - A atribuição da prestação obriga o trabalhador à declaração de início ou reinício de atividade independente junto da administração fiscal, a produção de efeitos do correspondente enquadramento no regime de segurança social dos trabalhadores independentes e da manutenção do exercício de atividade por um período mínimo de 24 meses após a cessação do pagamento da prestação.
+
+7 - A declaração de cessação de atividade antes de terminado o período identificado no número anterior determina a restituição dos valores das prestações pagas.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 20-C/2020 - Diário da República n.º 89/2020, 1º Suplemento, Série I de 2020-05-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-c-2020-133321093), em vigor a partir de 2020-05-09
+
+### Capítulo X — Formas alternativas de trabalho
+
+###### Artigo 29.º — Teletrabalho
+
+1 - Durante a vigência do presente decreto-lei, o regime de prestação subordinada de teletrabalho pode ser determinado unilateralmente pelo empregador ou requerida pelo trabalhador, sem necessidade de acordo das partes, desde que compatível com as funções exercidas.
+
+2 - O disposto no número anterior não é aplicável aos trabalhadores abrangidos pelo artigo 10.º
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+###### Artigo 30.º — Regime excecional de funcionamento de júris nos sistemas do ensino superior, ciência e tecnologia
+
+1 - As reuniões do júri de concursos previstas nos estatutos da carreira docente do ensino superior e da carreira de investigação científica podem ser realizadas, em todas as fases do procedimento, por videoconferência, desde que haja condições técnicas para o efeito.
+
+2 - As reuniões do júri de provas para atribuição do título académico de agregado e de título de especialista podem ser realizadas por videoconferência, desde que haja condições técnicas para o efeito.
+
+3 - Na prestação de provas a que alude o número anterior, pode ser autorizada a participação de vogais do júri por videoconferência, desde que haja condições técnicas para a sua plena participação nos trabalhos.
+
+###### Artigo 30.º-A — Acolhimento de vítimas de violência doméstica
+
+O período de acolhimento de vítimas de violência doméstica cuja prorrogação, prevista nos artigos 28.º e 39.º do Decreto Regulamentar n.º 2/2018, de 24 de janeiro, na sua redação atual, termine antes de 30 de junho de 2021 considera-se automática e excecionalmente prorrogado até esta data.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2020 - Diário da República n.º 80/2020, Série I de 2020-04-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2020-132332505), em vigor a partir de 2020-04-24
+
+### Capítulo XI — Disposições complementares e finais
+
+###### Artigo 31.º — Voluntariado
+
+Podem ser promovidas ações de voluntariado para assegurar as funções que não consigam ser garantidas de outra forma, nos termos do regime geral.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 32.º — Regime excecional de dispensa de serviço
+
+É aplicável o regime excecional de dispensa de serviço previsto nos artigos 26.º-A e 26.º-B do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, com as necessárias adaptações, aos bombeiros voluntários comprovadamente chamados pelo respetivo corpo de bombeiros para prestar socorro ou transporte no âmbito da situação epidémica de COVID-19.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 32.º-A — Marcação de férias
+
+A aprovação e afixação do mapa de férias até ao dia 15 de abril, nos termos do n.º 9 do artigo 241.º do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, e por remissão da alínea i) do n.º 1 do artigo 4.º, do n.º 1 do artigo 122.º e do artigo 126.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, respetivamente, pode ter lugar até 15 de maio.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 39-A/2020 - Diário da República n.º 137/2020, 1º Suplemento, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-a-2020-138217278), em vigor a partir de 2020-07-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 12-A/2020 - Diário da República n.º 68/2020, 3º Suplemento, Série I de 2020-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-a-2020-131193442), em vigor a partir de 2020-04-07
+
+###### Artigo 32.º-B — Medidas de limitação de mercado
+
+O membro do Governo responsável pela área da economia, conjuntamente com o membro do Governo responsável pela área setorial, quando exista, podem, com faculdade de delegação, determinar as medidas de exceção necessárias, no contexto da situação de emergência causada pela pandemia da doença COVID-19, e enquanto durar o estado de emergência, relativamente à contenção e limitação de mercado, de fixação de preços máximos, de limitação de margens de lucro, de monitorização de stocks e quantidades produzidas, e de isenção do pagamento de taxas para os operadores económicos que atuem em situações de urgência.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 14-F/2020 - Diário da República n.º 72/2020, 2º Suplemento, Série I de 2020-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-f-2020-131393157), em vigor a partir de 2020-04-14
+
+###### Artigo 33.º — Enquadramento no subsistema de proteção familiar
+
+As medidas previstas nos capítulos VIII e IX, para efeitos de financiamento, são enquadradas no subsistema de proteção familiar.
+
+###### Artigo 34.º — Responsabilidade emergente do pagamento indevido de prestações de segurança social
+
+Sem prejuízo das sanções legais previstas para as falsas declarações, é aplicável aos apoios previstos nos capítulos VIII e IX o regime estabelecido no Decreto-Lei n.º 133/88, de 20 de abril.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 34.º-A — Reforço dos meios e poderes da Autoridade para as Condições do Trabalho
+
+Durante a vigência do presente decreto-lei e para permitir o reforço de emergência em recursos humanos de forma a assegurar a capacidade de resposta da Autoridade para as Condições do Trabalho:
+
+a) É dispensado o acordo do órgão ou serviço de origem, previsto no artigo 94.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e bem assim como o disposto na alínea a) do n.º 2 do Despacho n.º 3614-D/2020, publicado no Diário da República, 2.ª série, n.º 58, de 23 de março, relativamente a processos de mobilidade de inspetores e técnicos superiores para a Autoridade para as Condições do Trabalho, iniciados antes ou após a entrada em vigor do presente decreto-lei;
+
+b) Mediante despacho do Primeiro-Ministro e do membro do Governo responsável pela área do trabalho, solidariedade e segurança social, podem ser requisitados inspetores e técnicos superiores dos serviços de inspeção previstos no artigo 3.º do Decreto-Lei n.º 276/2007, de 31 de julho, para reforço temporário da Autoridade para as Condições do Trabalho, sendo para este efeito dispensado o acordo dos dirigentes máximos dos serviços mencionados na alínea anterior e do respetivo trabalhador, que deve exercer, preferencialmente, a sua atividade na área geográfica prevista no n.º 1 do artigo 95.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e se mantém sujeito ao regime jurídico e disciplinar que decorre do seu vínculo laboral;
+
+c) A Autoridade para as Condições do Trabalho fica autorizada a contratar aquisição de serviços externos que auxiliem a execução da sua atividade, ao abrigo do disposto no regime excecional de contratação pública previsto no artigo 2.º
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 34.º-B — Avaliação de risco nos locais de trabalho
+
+Para efeitos do disposto na Lei n.º 102/2009, de 10 de setembro, na sua redação atual, as empresas elaboram um plano de contingência adequado ao local de trabalho e de acordo com as orientações da Direção-Geral da Saúde e da Autoridade para as Condições de Trabalho.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º — Regulamentação
+
+A regulamentação necessária à implementação das medidas previstas no capítulo IX é efetuada por portaria do membro do Governo responsável pela área da segurança social.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+###### Artigo 35.º-A — Exercício de atividade funerária
+
+As empresas que exerçam atividade funerária nos termos do Decreto-Lei n.º 10/2015, de 16 de janeiro, na sua redação atual, devem manter a sua atividade e realizar os serviços fúnebres dos mortos diagnosticados com COVID-19.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-B — Gestão de resíduos
+
+1 - A taxa de gestão de resíduos, nos sistemas de gestão de resíduos urbanos, pode incidir sobre a quantidade de resíduos destinados a operações de eliminação e valorização no período homólogo de 2019, nos termos do disposto no artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual.
+
+2 - A taxa de gestão de resíduos aplicável às entidades responsáveis por sistemas de gestão de fluxos específicos de resíduos, individuais ou integrados, pode ser determinada nos termos do disposto no n.º 10 do artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual, tendo por base as toneladas de resíduos apuradas no período homólogo de 2019.
+
+3 - A taxa de gestão de resíduos adicional e não repercutível, prevista no n.º 11 do artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de setembro, na sua redação atual, incide sobre o desempenho do sistema de gestão de resíduos urbanos fora do período de vigência do estado de emergência.
+
+4 - As fórmulas de cálculo e os elementos de base ao apuramento da taxa de gestão de resíduos, previstos nos números anteriores, para o período em que se verificar a situação de calamidade, são definidos por despacho do membro do Governo responsável pela área do ambiente.
+
+5 - (Revogado).
+
+6 - (Revogado).
+
+7 -  (Revogado.)
+
+8 - (Revogado).
+
+9 - (Revogado).
+
+10-(Revogado).
+
+11 - (Revogado).
+
+12 - (Revogado).
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 31/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/lei/31-2020-140013516), em vigor a partir de 2020-08-12, produz efeitos a partir de 2020-05-03
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-C — Prorrogação de prazos para os trabalhos de gestão de combustível
+
+1 - Até 15 de maio de 2021, os proprietários, arrendatários, usufrutuários ou entidades que, a qualquer título, detenham terrenos confinantes a edifícios inseridos em espaços rurais garantem a realização dos trabalhos de gestão de combustível.
+
+2 - Até 15 de maio de 2021, nos aglomerados populacionais inseridos ou confinantes com espaços florestais, e previamente definidos nos planos municipais de defesa da floresta contra incêndios (PMDFCI), é obrigatória a gestão de combustível numa faixa exterior de proteção de largura mínima não inferior a 100 m, podendo, face à perigosidade de incêndio rural de escala municipal, outra amplitude ser definida nos respetivos PMDFCI.
+
+3 - Até 15 de maio de 2021, as entidades gestoras ou, na sua inexistência ou não cumprimento da obrigação, as câmaras municipais garantem a realização dos trabalhos de gestão de combustível nos parques de campismo, nos parques e polígonos industriais, nas plataformas de logística e nos aterros sanitários inseridos ou confinantes com espaços florestais previamente definidos no PMDFCI, bem como a manutenção de uma faixa envolvente com uma largura mínima não inferior a 100 m.
+
+4 - Os PMDFCI devem estar aprovados ou atualizados até 31 de maio de 2021.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 87-A/2020 - Diário da República n.º 201/2020, 1º Suplemento, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087), em vigor a partir de 2020-10-16
+
+> Retificado pelo/a [Declaração de Retificação n.º 18-C/2020 - Diário da República n.º 87/2020, 1º Suplemento, Série I de 2020-05-05](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-c-2020-133064189), em vigor a partir de 2020-05-03
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-D — Suspensão dos prazos para os planos municipais
+
+1 - Até 180 dias após a cessação do estado de emergência ficam suspensos:
+
+a) Os prazos previstos no n.º 1 do artigo 78.º da Lei n.º 31/2014, de 30 de maio, na sua redação atual;
+
+b) Os prazos previstos no n.º 2 do artigo 199.º do Decreto-Lei n.º 80/2015, de 14 de maio;
+
+c) Os prazos previstos nas portarias que aprovam os Programas Regionais de Ordenamento Florestal para atualização dos planos territoriais preexistentes.
+
+2 -  (Revogado.)
+
+3 -  (Revogado.)
+
+4 -  (Revogado.)
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-E — Voluntários da Cruz Vermelha Portuguesa
+
+É aplicável o regime excecional de dispensa de serviço previsto nos artigos 26.º-A e 26.º-B do Decreto-Lei n.º 241/2007, de 21 de junho, na sua redação atual, com as necessárias adaptações, aos voluntários da Cruz Vermelha Portuguesa que comprovadamente sejam chamados para prestar socorro ou transporte no âmbito da situação epidémica da COVID-19.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-F — Prestação de serviço efetivo por militares na reserva
+
+Até ao dia 30 de junho de 2022, fica autorizada a prestação de serviço efetivo por militares na situação de reserva, prevista no artigo 156.º do Estatuto dos Militares das Forças Armadas, aprovado pelo Decreto-Lei n.º 90/2015, de 29 de maio, na sua redação atual, para além do quantitativo máximo fixado no decreto-lei que estabelece os efetivos das Forças Armadas, no âmbito do apoio aos inquéritos epidemiológicos tendo em consideração a evolução da pandemia da doença COVID-19 em Portugal.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-G — Prorrogação do prazo máximo de duração do serviço efetivo em regime de contrato
+
+1 - O limite máximo de duração do serviço efetivo em regime de contrato fixado no n.º 1 do artigo 28.º da Lei do Serviço Militar, aprovada pela Lei n.º 174/99, de 21 de setembro, na sua redação atual, e no n.º 3 do artigo 45.º do Regulamento da Lei do Serviço Militar, aprovado pelo Decreto-Lei n.º 289/2000, de 14 de novembro, na sua redação atual, pode ser prorrogado, por acordo entre o militar e o ramo:
+
+a) Até 31 de outubro de 2021, no caso dos contratos cujo limite de duração normal foi atingido até ao final do ano de 2020;
+
+b) Até 30 de novembro de 2021, no caso dos contratos cujo limite de duração normal foi atingido durante o primeiro trimestre de 2021; ou
+
+c) Até 31 de dezembro de 2021, no caso dos contratos cujo limite de duração normal foi ou venha a ser atingido a partir do 1 de abril de 2021.
+
+2 - Os militares que optem pela prorrogação da duração do serviço efetivo em regime de contrato, nos termos do número anterior, não perdem o direito à prestação pecuniária a que se refere o n.º 1 do artigo 18.º do Regulamento de Incentivos à Prestação de Serviço Militar nos Diferentes Regimes de Contrato e no Regime de Voluntariado, aprovado em anexo ao Decreto-Lei n.º 76/2018, de 11 de outubro.
+
+3 - Caso, durante o período correspondente à prorrogação excecional, se verifique alguma das situações previstas no n.º 2 do artigo 18.º do Regulamento de Incentivos à Prestação de Serviço Militar nos Diferentes Regimes de Contrato e no Regime de Voluntariado, aprovado em anexo Decreto-Lei n.º 76/2018, de 11 de outubro, a prestação pecuniária a que se refere o n.º 2 do mesmo artigo é limitada ao montante que seria devido à data da cessação do serviço efetivo em regime de contrato caso não tivesse havido prorrogação ao abrigo do n.º 1 do presente artigo.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53-A/2021 - Diário da República n.º 115/2021, 1º Suplemento, Série I de 2021-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-a-2021-165228627), em vigor a partir de 2021-06-17
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 94-A/2020 - Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155), em vigor a partir de 2020-11-04
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987), em vigor a partir de 2020-05-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-H — Serviços públicos
+
+1 - No âmbito do levantamento das medidas de mitigação da pandemia da doença COVID-19, o membro do Governo responsável pela área da Administração Pública, com faculdade de delegação, pode, mediante despacho, determinar a definição de orientações:
+
+a) Sobre teletrabalho, designadamente sobre as situações que impõem a presença dos trabalhadores da Administração Pública nos seus locais de trabalho, bem como sobre a compatibilidade das funções com o teletrabalho;
+
+b) Relativas à constituição e manutenção de situações de mobilidade;
+
+c) Sobre os casos em que aos trabalhadores da Administração Pública pode ser imposto o exercício de funções em local diferente do habitual, em entidade diversa ou em condições e horários de trabalho diferentes;
+
+d) Relativas à articulação com as autarquias no que se refere aos serviços públicos locais, em especial os Espaços Cidadão, e ao regime de prestação de trabalho na administração local.
+
+2 - O disposto no número anterior, em função das especificidades setoriais, pode ser determinado por despacho dos membros do Governo responsáveis pela área setorial e pela área da Administração Pública, salvo quanto a matéria respeitante aos serviços periféricos externos do Ministério dos Negócios Estrangeiros, que deve ser adaptado por despacho do membro do Governo responsável pela área dos negócios estrangeiros.
+
+3 - A título excecional e sempre que outra modalidade de horário de trabalho não se afigure possível, pode ser adotada nos serviços públicos a modalidade de horário concentrado, prevista no artigo 209.º do Código do Trabalho, aprovado em anexo à Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, cabendo ao membro do Governo responsável pela área da Administração Pública a definição dos respetivos termos de aplicação.
+
+4 - Os membros do Governo responsáveis pelas áreas da Administração Pública e da saúde definem, com faculdade de delegação, orientações relativas à organização e funcionamento dos espaços físicos de atendimento e de trabalho na Administração Pública, designadamente no que respeita ao uso de equipamentos de proteção individual por parte dos trabalhadores, bem como à higienização e reorganização dos espaços físicos para salvaguarda das distâncias de segurança nos locais de trabalho.
+
+5 - Os membros do Governo responsáveis pelas áreas da Administração Pública e do trabalho, solidariedade e segurança social, com faculdade de delegação, definem as orientações que se revelem necessárias no âmbito da frequência de ações de formação à distância.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-I — Suspensão de obrigações relativas ao livro de reclamações em formato físico
+
+Durante o período em que vigorar o estado epidemiológico resultante da doença COVID-19, são suspensas as seguintes obrigações decorrentes do Decreto-Lei n.º 156/2005, de 15 de setembro, na sua redação atual:
+
+a) A obrigação de facultar imediata e gratuitamente ao consumidor ou utente o livro de reclamações a que se refere a alínea b) do n.º 1 do artigo 3.º daquele decreto-lei;
+
+b) A obrigação de cumprimento do prazo no envio dos originais das folhas de reclamação a que se refere a alínea e) do n.º 1 do artigo 3.º daquele decreto-lei.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 31/2020 - Diário da República n.º 155/2020, Série I de 2020-08-11](https://diariodarepublica.pt/dr/detalhe/lei/31-2020-140013516), em vigor a partir de 2020-08-12, produz efeitos a partir de 2020-05-03
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 20/2020 - Diário da República n.º 85-A/2020, Série I de 2020-05-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2020-132883356), em vigor a partir de 2020-05-02, produz efeitos a partir de 2020-05-03
+
+###### Artigo 35.º-J — Entrada de resíduos destinados a eliminação
+
+1 - Por motivo de força maior decorrente da necessidade de salvaguarda da suficiência nacional em matéria de instalações de eliminação de resíduos previstas nas alíneas a) e b) do artigo 10.º do Decreto-Lei n.º 183/2009, de 10 de agosto, na sua redação atual, são suspensos até 31 de dezembro de 2020 os efeitos das autorizações emitidas ao abrigo do Decreto-Lei n.º 45/2008, de 11 de março, na sua redação atual, para entrada de resíduos no território nacional.
+
+2 - O disposto no número anterior não se aplica às situações em que os resíduos tenham já dado entrada no território nacional, nos termos da lei e da regulamentação aplicáveis.
+
+3 - Até 30 de novembro de 2020, a Autoridade Nacional dos Resíduos envia ao membro do Governo responsável pela área do ambiente um relatório detalhado que contenha os dados relativos aos volumes depositados, à capacidade das instalações referidas no n.º 1, bem como a avaliação das necessidades, com vista ao apuramento da autossuficiência nacional.
+
+> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30, produz efeitos a partir de 2020-05-17
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 22/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2020-133879987), em vigor a partir de 2020-05-15
+
+###### Artigo 35.º-K — Operação estatística
+
+1 - No âmbito da preparação e execução dos trabalhos de campo relativos ao XVI Recenseamento Geral da População e do VI Recenseamento Geral da Habitação (Censos 2021), o Instituto Nacional de Estatística, I. P. (INE, I. P.), e a Direção-Geral da Saúde definem, mediante protocolo, os procedimentos a adotar e a partilha de informação necessária à recolha presencial dos inquéritos nos casos em que a mesma seja imprescindível.
+
+2 - No âmbito das operações censitárias, as forças de segurança podem prestar apoio ao INE, I. P., designadamente nas operações de recolha presencial dos inquéritos e de inventariação e caracterização do edificado, mediante pedido atempado e fundamentado, sujeito a avaliação de risco a realizar pela força de segurança territorialmente competente.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 78-A/2020 - Diário da República n.º 190/2020, 1º Suplemento, Série I de 2020-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2020-144010968), em vigor a partir de 2020-09-30
+
+###### Artigo 35.º-L — Perícias por junta médica
+
+- As perícias por junta médica, solicitadas pelas autoridades judiciárias, ao abrigo do n.º 1 do artigo 139.º do Código de Processo do Trabalho, aprovado pelo Decreto-Lei n.º 480/99, de 9 de novembro, na sua redação atual, são realizadas exclusivamente nas instalações das delegações do INMLCF, I. P., gabinetes médico-legais ou hospitais.
+
+2 - O magistrado pode presidir às diligências através de plataformas informáticas que possibilitem a sua realização por via eletrónica ou através de meios de comunicação à distância, designadamente teleconferência, videochamada ou equivalente.
+
+3 - Quando as diligências referidas no presente artigo sejam efetuadas por meio de comunicação à distância, o respetivo auto é assinado apenas pelo magistrado que preside.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+###### Artigo 35.º-M — Operações de gestão de resíduos
+
+Os operadores licenciados para operações de valorização de resíduos de equipamentos de proteção individual podem enviar estes resíduos para eliminação, preferencialmente por incineração ou, não sendo possível, para deposição em aterro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24-A/2020 - Diário da República n.º 105/2020, 1º Suplemento, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-a-2020-134889277), em vigor a partir de 2020-05-30
+
+###### Artigo 35.º-N — Prorrogação da obrigação de adaptação à Lei n.º 76/2019, de 2 de setembro
+
+1 - É prorrogada, até 1 de julho de 2021, a obrigação de os prestadores de serviços de restauração e de bebidas se adaptarem às disposições da Lei n.º 76/2019, de 2 de setembro, prevista no n.º 1 do artigo 10.º daquela lei.
+
+2 - Até 31 de dezembro de 2020, procede-se à primeira fase de transposição da Diretiva (UE) 2019/904, do Parlamento Europeu e do Conselho, de 5 de junho de 2019, clarificando as Leis n.os 76/2019 e 77/2019, ambas de 2 de setembro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 22-A/2021 - Diário da República n.º 53/2021, 1º Suplemento, Série I de 2021-03-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-a-2021-159707135), em vigor a partir de 2021-03-18
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62-A/2020 - Diário da República n.º 172/2020, 1º Suplemento, Série I de 2020-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-a-2020-141967954), em vigor a partir de 2020-09-04, produz efeitos a partir de 2020-09-03
+
+###### Artigo 35.º-O — Veículos de transporte de doentes
+
+Ficam dispensados do licenciamento prévio, pelo Instituto da Mobilidade e dos Transportes, I. P., previsto no n.º 1 do artigo 6.º do Decreto-Lei n.º 38/92, de 28 de março, na sua redação atual, os veículos utilizados no transporte de doentes, estando os mesmos autorizados a circular apenas com o certificado de vistoria de veículo previsto na alínea a) do n.º 1 do artigo 31.º do Regulamento do Transporte de Doentes, aprovado pela Portaria n.º 260/2014, de 15 de dezembro, na sua redação atual, até ao dia 31 de dezembro de 2022.
+
+> Retificado pelo/a [Declaração de Retificação n.º 28/2022 - Diário da República n.º 209/2022, Série I de 2022-10-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/28-2022-202787491), produz efeitos a partir de 2022-10-01
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 87-A/2020 - Diário da República n.º 201/2020, 1º Suplemento, Série I de 2020-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/87-a-2020-145589087), em vigor a partir de 2020-10-16, produz efeitos a partir de 2020-10-01
+
+###### Artigo 35.º-P — Prorrogação do prazo de informação do registo de fundações
+
+O prazo a que se refere o n.º 2 do artigo 9.º do Decreto-Lei n.º 157/2019, de 22 de outubro, é prorrogado até 31 de dezembro de 2020.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 94-A/2020 - Diário da República n.º 214/2020, 1º Suplemento, Série I de 2020-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-a-2020-147533155), em vigor a partir de 2020-11-04, produz efeitos a partir de 2020-10-17
+
+###### Artigo 35.º-Q — Doações às entidades públicas empresariais
+
+1 - Sem prejuízo do disposto nos n.os 5 e 6 do artigo 159.º do Decreto-Lei n.º 176/2006, de 30 de agosto, na sua redação atual, as unidades de saúde do SNS com a natureza de entidades públicas empresariais podem aceitar doações ao abrigo do regime do mecenato, para fazer face à pandemia da doença COVID-19, as quais são consideradas como custo para a entidade doadora, bem como doações provenientes da Direção-Geral da Saúde e da Administração Central do Sistema de Saúde, I. P.
+
+2 - O regime previsto no número anterior é correspondentemente aplicável aos hospitais do setor público administrativo.
+
+3 - O presente regime produz efeitos desde 12 de março de 2020.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+###### Artigo 35.º-U — Apoios autárquicos de combate aos efeitos da pandemia
+
+Para efeitos do disposto na alínea v) do n.º 1 do artigo 16.º, bem como da alínea ff) do n.º 1 do artigo 33.º da Lei n.º 75/2013, de 12 de setembro, na sua redação atual, considera-se apoio a atividade de interesse para a freguesia, bem como apoio à atividade económica de interesse municipal, respetivamente, a concessão de apoios, em dinheiro ou em espécie, a entidades e organismos legalmente existentes, relacionados com a resposta à pandemia da doença COVID-19 ou recuperação económica no contexto da mesma.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 99/2020 - Diário da República n.º 227-B/2020, Série I de 2020-11-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-2020-149220108), em vigor a partir de 2020-11-23
+
+###### Artigo 35.º-V — Revisão anual das declarações dos trabalhadores independentes
+
+1 - No ano de 2022, os serviços da segurança social procedem à revisão anual das declarações relativas a 2021 conjuntamente com a revisão anual das declarações relativas a 2019 e 2020.
+
+2 - O pagamento de contribuições resultante da revisão anual das declarações relativas a 2019, 2020 e 2021 é considerado, para todos os efeitos, como efetuado fora do prazo a partir da data em que é considerado fora do prazo o pagamento de contribuições resultante da revisão anual das declarações relativas a 2021.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+###### Artigo 35.º-W — Prorrogação de contratos de concessão
+
+São prorrogados até 31 de dezembro de 2021 os seguintes contratos de concessão:
+
+a) Serviço postal universal com a CTT - Correios de Portugal, S. A.;
+
+b) Exclusivo de exploração dos jogos de fortuna ou azar na zona de jogo permanente do Estoril e da Figueira da Foz.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+###### Artigo 35.º-X — Suspensão das obrigações de investimento dos exibidores
+
+É suspensa a aplicação da obrigação de investimento dos exibidores dos anos de 2020 e 2021, referente ao reinvestimento da receita do preço da venda ao público dos bilhetes de cinema do ano anterior, prevista no artigo 17.º da Lei do Cinema aprovada pela Lei n.º 55/2012, de 6 de setembro, na sua redação atual, e regulamentada pelo artigo 47.º do Decreto-Lei n.º 25/2018, de 24 de abril, no período compreendido entre 12 de março de 2020 e 31 de dezembro de 2021, retomando-se a sua aplicação com a entrada em vigor do Decreto-Lei n.º 74/2021, de 25 de agosto, a 1 de janeiro de 2022.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23, produz efeitos a partir de 2020-03-12
+
+###### Artigo 35.º-Y — Regime excecional aplicável à atividade de cogeração
+
+O regime jurídico e remuneratório aplicável à atividade de produção em cogeração estabelecido no Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, é derrogado nos seguintes termos:
+
+a) O acesso à modalidade especial do regime remuneratório prevista na alínea b) do n.º 1 do artigo 4.º do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, pode ser atribuído a instalações de cogeração existentes cuja potência de injeção seja inferior ou igual a 20 MW e que tenham sido objeto de renovação substancial sem alteração da potência de injeção na rede elétrica de serviço público (RESP), mantendo-se, nestes casos, o título de controlo prévio existente;
+
+b) O fornecimento de energia elétrica nos termos previstos na alínea b) do n.º 6 do artigo 4.º-B do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, que não utilize a RESP para veiculação de energia elétrica está isento do pagamento das tarifas de acesso às redes;
+
+c) O disposto no n.º 2 do artigo 4.º-B do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, é aplicável aos casos em que a unidade de utilização associada não seja detida, direta ou indiretamente, pelo titular ou titulares da instalação de cogeração;
+
+d) Para efeito da aplicação do regime jurídico estabelecido no Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, a unidade de utilização associada não tem de ser detida, direta ou indiretamente, pelo titular ou titulares da instalação de cogeração;
+
+e) O cogerador tem o direito de:
+
+i) Instalar novas unidades de produção que utilizem diversa fonte primária renovável na instalação de cogeração, nos termos do disposto no n.º 3 do artigo 4.º do Decreto-Lei n.º 172/2006, de 23 de agosto, na sua redação atual;
+
+ii) Produzir energia elétrica adicional mediante a utilização de excedentes de vapor;
+
+iii) Armazenar a energia elétrica produzida em cogeração, para a sua injeção na RESP em momento posterior ao da utilização do calor;
+
+f) A energia elétrica produzida nos termos da alínea anterior:
+
+i) É remunerada nos termos da alínea b) do n.º 1 do artigo 4.º-B do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, sem prejuízo do disposto no artigo 4.º do Decreto-Lei n.º 162/2019, de 25 de outubro, quando aplicável;
+
+ii) É contabilizada através de sistemas de medição e telecontagem que permitam quantificar, individualmente, a energia elétrica proveniente de cada unidade de produção ou de armazenamento, não podendo exceder a capacidade de injeção na RESP atribuída;
+
+g) O período de permanência do cogerador na modalidade geral do regime remuneratório, após o qual regressa à modalidade especial de origem nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 23/2010, de 25 de março, na sua redação atual, tem a duração máxima de um ano.
+
+> Aditado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619), em vigor a partir de 2021-12-23
+
+###### Artigo 36.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+###### Artigo 37.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos no dia da sua aprovação, com exceção do disposto nos artigos 14.º a 16.º, que produz efeitos desde 9 de março de 2020, e do disposto no capítulo VIII, que produz efeitos a 3 de março de 2020.
+
+###### Artigo 37.º-A — Vigência
+
+1 - Os artigos 26.º, 28.º-A e 28.º-B vigoram até ao dia 31 de dezembro de 2020.
+
+2 - O artigo 20.º vigora até ao dia 30 de setembro de 2022.
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 42-A/2022 - Diário da República n.º 125/2022, 1º Suplemento, Série I de 2022-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-a-2022-185452470), produz efeitos a partir de 2022-07-01
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78-A/2021 - Diário da República n.º 190/2021, 1º Suplemento, Série I de 2021-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-a-2021-172153527), em vigor a partir de 2021-09-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 56-A/2021 - Diário da República n.º 129/2021, 1º Suplemento, Série I de 2021-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/56-a-2021-166579339), em vigor a partir de 2021-07-07, produz efeitos a partir de 2021-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 6-D/2021 - Diário da República n.º 10/2021, 1º Suplemento, Série I de 2021-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-d-2021-154202311), em vigor a partir de 2021-01-20, produz efeitos a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 106-A/2020 - Diário da República n.º 252/2020, 3º Suplemento, Série I de 2020-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/106-a-2020-152639821), em vigor a partir de 2020-12-31
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 62-A/2020 - Diário da República n.º 172/2020, 1º Suplemento, Série I de 2020-09-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-a-2020-141967954), em vigor a partir de 2020-09-04
+
+Visto e aprovado em Conselho de Ministros de 12 de março de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Alexandra Ludomila Ribeiro Fernandes Leitão - Manuel Frederico Tojal de Valsassina Heitor - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - Marta Alexandra Fartura Braga Temido de Almeida Simões.
+
+Promulgado em 13 de março de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 13 de março de 2020.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+113122537

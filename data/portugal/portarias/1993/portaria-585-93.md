@@ -1,0 +1,236 @@
+---
+schema_version: '1.0'
+id: pt:dre:260907:por
+title: Portaria n.º 585/93
+short_title: null
+summary: Ratifica o Plano de Pormenor da Zona Industrial de Celorico de Basto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 585/93
+official_date: null
+publication_date: '1993-06-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/1993, Série I-B de 1993-06-09
+  number: '134'
+  series: I
+  supplement: null
+  pages: 3074 - 3076
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/06/134b00/30743076.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/585/1993/06/09/p/dre/pt/html
+  oj: null
+  dre: '260907'
+  dre_path: /dr/detalhe/portaria/585-1993-260907
+  internal: pt:dre:260907:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-1993-260907
+  metadata_url: https://data.dre.pt/eli/port/585/1993/06/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-1993-260907
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-06-09T00:00:00Z'
+integrity:
+  source_sha256: 4a5a12feb0ac6e8ecb8181763a5aff265e1f3c9e254b01ab7507ed403c45e710
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-585-260907.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Celorico de Basto
+- Ordenamento do Território
+- Política de Solos
+- Plano de Urbanização
+- Zona Industrial
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+article_structure:
+  article_count: 13
+  section_count: 2
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 585/93
+
+de 9 de Junho
+
+Considerando que a Assembleia Municipal de Celorico de Basto aprovou, em 26 de Junho de 1992, o Plano de Pormenor da Zona Industrial de Celorico de Basto;
+
+Considerando que foi realizado o inquérito público, nos termos previstos no artigo 14.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março;
+
+Considerando os pareceres favoráveis emitidos pela Comissão de Coordenação da Região do Norte, Junta Autónoma de Estradas, EDP, Direcção Regional de Agricultura de Entre Douro e Minho, Direcção dos Serviços Regionais de Hidráulica do Douro, delegação regional do Ministério da Indústria e Energia e Direcção-Geral do Ordenamento do Território;
+
+Considerando que se verificou a conformidade formal do Plano de Pormenor com as demais disposições legais e regulamentares em vigor, a sua articulação com os demais planos municipais eficazes e com outros planos, programas e projectos de interesse para o município ou supramunicipal, nos termos previstos no n.º 2 do artigo 16.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março:
+
+Ao abrigo do n.º 4 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, com as alterações introduzidas pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro, e da delegação de competências conferida pelo [Despacho n.º 115/92](https://diariodarepublica.pt/dr/detalhe/despacho/115-1993-2147150), de 17 de Dezembro, do Ministro do Planeamento e da Administração do Território, publicado no Diário da República, n.º 9, de 12 de Janeiro de 1993:
+
+Manda o Governo, pelo Secretário de Estado da Administração Local e do Ordenamento do Território, que seja ratificado o Plano de Pormenor da Zona Industrial de Celorico de Basto, cujo regulamento e planta de síntese se publicam em anexo à presente portaria e que dela fazem parte integrante.
+
+Ministério do Planeamento e da Administração do Território.
+
+**Assinada em 20 de Abril de 1993.**
+
+**O Secretário de Estado da Administração Local e do Ordenamento do Território, João António Romão Pereira Reis.**
+
+Plano de Pormenor da Zona Industrial de Celorico de Basto
+
+Regulamento
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Constituição
+
+Fazem parte integrante do presente regulamento todas as peças escritas e desenhadas do Plano de Pormenor.
+
+###### Artigo 2.º — Zonamento
+
+Para efeito de realização do Plano de Pormenor, a área por ele abrangida é dividida nas seguintes zonas, de acordo com conteúdo das peças desenhadas:
+
+Zona industrial existente e proposta;
+
+Zona do equipamento proposto;
+
+Zona dos arruamentos;
+
+Áreas de verde público de enquadramento.
+
+###### Artigo 3.º — Licenciamento de obras
+
+A Câmara Municipal não poderá conceder licença para a execução de quaisquer obras de construção civil, ou para trabalhos que impliquem alteração da topografia local, sem que previamente se verifique se elas não colidem com as previsões do presente Plano.
+
+###### Artigo 4.º — Utilização das construções
+
+A utilização dos edifícios construídos ou a construir nesta zona fica condicionada à indicada neste regulamento.
+
+Qualquer alteração só será possível com a autorização da Câmara Municipal.
+
+###### Artigo 5.º — Construções de edificações
+
+1 - A construção de edifícios só poderá executar-se junto de arruamentos convenientemente infra-estruturados e de acordo com as indicações fornecidas, designadamente quanto a alinhamento e cotas, pelos serviços técnicos municipais, aos quais competirá preceder à respectiva fiscalização.
+
+2 - A altura das edificações é a prevista neste regulamento e indicada nas peças desenhadas.
+
+3 - A Câmara Municipal poderá autorizar alterações de pormenor às implantações previstas neste Plano, desde que essas alterações se fundamentem em projecto que englobe a zona em causa.
+
+4 - A profundidade máxima das construções será a prevista neste Plano para os vários tipos de lotes existentes. No entanto, a construção das edificações poderá ser faseada, permitindo a associação de lotes.
+
+5 - Não será permitida a construção de qualquer tipo de anexos nas áreas livres, ficando reservadas para estacionamento de veículos automóveis, motorizados e bicicletas e para espaços ajardinados.
+
+6 - Os projectos das construções deverão especificar o movimento de terras necessário para a conveniente adaptação do edifício ao terreno e definir integralmente os acessos, vedações, ajardinamentos, muros de suporte, escadas, canteiros e demais arranjos.
+
+7 - Arranjo de terreno e muros de vedação. - As vedações dos lotes confinantes com a via pública e com os lotes vizinhos serão constituídas por muros de meação com uma altura não superior a 1 m acima da cota mais elevada do terreno, podendo ser complementados por sebes vivas, rede metálica ou gradeamento apropriados, até uma altura máxima de 2 m.
+
+8 - Os projectos para as construções geminadas ou em banda deverão ser elaborados de acordo com os estudos de volumes globais previstos, de forma que estes resultem convenientemente adaptados à topografia do terreno. As cotas dos pisos e cornijas serão fornecidas pelos serviços técnicos da Câmara Municipal.
+
+9 - O estacionamento no interior de cada lote é obrigatório, devendo prever a existência de áreas para parqueamento de automóveis e motorizadas em espaço coberto ou ao ar livre.
+
+###### Artigo 6.º — Publicidade
+
+Será reservada área para a afixação de painéis publicitários, que serão usados segundo normas a definir.
+
+###### Artigo 7.º — Infra-estruturas. Cedências de terrenos
+
+A entidade promotora compromete-se a dotar o loteamento industrial das infra-estruturas previstas neste Plano de Pormenor e a ceder terrenos para os equipamentos previstos, devendo estes ficar condicionados a acordos a estabelecer posteriormente, quer quanto às formas de gestão do loteamento industrial, quer quanto às formas de associação.
+
+Competirá ainda à entidade promotora o arranjo das zonas verdes e arborizadas.
+
+###### Artigo 8.º — Gestão do loteamento industrial
+
+A gestão do loteamento industrial competirá a uma estrutura especialmente criada para esse fim.
+
+### CAPÍTULO II — Disposições especiais
+
+###### Artigo 9.º — Zona industrial existente e proposta
+
+Esta zona compreende as áreas de unidades industriais já existentes ou a criar de acordo com a planta de síntese.
+
+1 - Os lotes industriais são destinados a estabelecimentos fabris e não podem ser atribuídos a instalações cujo fim não seja o de uma unidade industrial.
+
+2 - Na concepção das unidades industriais, para além da tipologia proposta, dever-se-ão observar os seguintes requisitos:
+
+a) Cada unidade industrial é formada por uma zona de administração/gestão e uma zona de produção ou fabrico;
+
+b) A zona de administração/gestão deverá ser construída na parte anterior do lote e de acordo com a tipologia proposta;
+
+c) A zona de produção ou fabrico é composta por um pavilhão, cujas dimensões se encontram definidas na tipologia proposta;
+
+d) O pé-direito mínimo na zona de produção é de 6 m;
+
+e) Nos casos de instalação de uma unidade ocupando vários lotes, poderá ser alterada a ocupação, suprimindo a zona de administração/gestão;
+
+f) Dever-se-á reservar, dentro dos lotes, zonas de estacionamento de motorizadas ou bicicletas, de acordo com o número de empregados.
+
+3 - O acesso aos lotes será feito a partir dos arruamentos internos da zona industrial, sendo rigorosamente interdito qualquer acesso directo da estrada nacional aos lotes adjacentes.
+
+4 - As cargas e descargas de veículos terão de se verificar sempre no interior do lote.
+
+5 - Dentro de cada lote industrial é interdita a habitação, mesmo que integrada em dependências ou edifícios de unidade fabril.
+
+###### Artigo 10.º — Equipamento proposto
+
+Nas áreas destinadas ao equipamento proposto instalar-se-ão:
+
+a) Gestão e administração do loteamento industrial;
+
+b) Representações bancárias;
+
+c) Correios e telecomunicações;
+
+d) Cantina;
+
+e) Posto de enfermagem;
+
+f) Posto de bombeiros.
+
+###### Artigo 11.º — Arruamentos
+
+Os traçados e os perfis transversais dos arruamentos são os delineados no Plano e deverão ser objecto de adequado projecto de execução.
+
+###### Artigo 12.º — Áreas de verde público de enquadramento
+
+Estas áreas constituem áreas públicas a ajardinar ou arborizar que interessam ao enquadramento paisagístico de edifícios ou zonas, à valorização estética ou funcional de praças de peão ou à protecção de linhas de água existentes.
+
+###### Artigo 13.º — Casos omissos
+
+Todos os casos omissos que suscitem dúvidas e não estejam contidos no articulado do presente regulamento serão resolvidos de acordo com a legislação em vigor.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1993/06/134b00/30743076.pdf))](https://files.diariodarepublica.pt/1s/1993/06/134b00/30743076.pdf)

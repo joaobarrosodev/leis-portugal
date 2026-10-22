@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:554103:por
+title: Portaria n.º 71/2012
+short_title: null
+summary: Aprova a delimitação da Reserva Ecológica Nacional do município de Vila Nova de Famalicão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 71/2012
+official_date: null
+publication_date: '2012-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2012, Série I de 2012-03-23
+  number: '60'
+  series: I
+  supplement: null
+  pages: 1362 - 1369
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/03/06000/0136201369.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/71/2012/03/23/p/dre/pt/html
+  oj: null
+  dre: '554103'
+  dre_path: /dr/detalhe/portaria/71-2012-554103
+  internal: pt:dre:554103:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-2012-554103
+  metadata_url: https://data.dre.pt/eli/port/71/2012/03/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/71-2012-554103
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-03-23T00:00:00Z'
+integrity:
+  source_sha256: df0d9fa0a282b830825629916bd1306b88f976b6591cb843a737408961b404ef
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-71-554103.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reserva Ecológica Nacional
+- Ordenamento do Território
+- Proteção do Ambiente
+- Política de Solos
+- VILA NOVA de Famalicão
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/166/2008/08/22/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 71/2012
+
+de 23 de março
+
+A Comissão de Coordenação e Desenvolvimento Regional do Norte apresentou, nos termos do disposto no n.º 2 do artigo 41.º do [Decreto-Lei n.º 166/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2008-453518), de 22 de agosto, uma proposta de delimitação de REN para o município de Vila Nova de Famalicão.
+
+A Comissão Nacional da Reserva Ecológica Nacional pronunciou-se favoravelmente sobre a delimitação proposta, nos termos do disposto no artigo 3.º do [Decreto-Lei n.º 93/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1990-333172), de 19 de março, aplicável, após a entrada em vigor do [Decreto-Lei n.º 166/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2008-453518), de 22 de agosto, sendo que o respetivo parecer se encontra consubstanciado em ata das reuniões daquela Comissão, realizadas em 15 de dezembro de 1993, em 16 de março de 1994 e em 6 de abril de 1994, subscrita pelos representantes que a compõem.
+
+Sobre a referida delimitação foi ouvida a Câmara Municipal de Vila Nova de Famalicão.
+
+Assim, considerando o disposto no n.º 2 do artigo 41.º do [Decreto-Lei n.º 166/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2008-453518), de 22 de agosto, manda o Governo, pelo Secretário de Estado do Ambiente e do Ordenamento do Território, no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, através do despacho n.º 12412/2011, publicado no Diário da República, 2.ª série, n.º 181, de 20 de setembro de 2011, com a redação que lhe foi conferida pela declaração de retificação n.º 1810/2011, publicada no Diário da República, 2.ª série, n.º 227, de 25 de novembro de 2011, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+É aprovada a delimitação da Reserva Ecológica Nacional do município de Vila Nova de Famalicão, com as áreas a incluir e a excluir identificadas na planta e no quadro anexo à presente portaria, que dela fazem parte integrante.
+
+###### Artigo 2.º — Consulta
+
+A referida planta, o quadro anexo e a memória descritiva do presente processo podem ser consultados na Comissão de Coordenação e Desenvolvimento Regional do Norte (CCDR do Norte), bem como na Direção-Geral do Ordenamento do Território e Desenvolvimento Urbano (DGOTDU).
+
+###### Artigo 3.º — Produção de efeitos
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**O Secretário de Estado do Ambiente e do Ordenamento do Território, Pedro Afonso de Paulo, em 7 de março de 2012.**
+
+QUADRO ANEXO
+
+Delimitação da Reserva Ecológica Nacional do concelho de Vila Nova de Famalicão
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/03/06000/0136201369.pdf))](https://files.diariodarepublica.pt/1s/2012/03/06000/0136201369.pdf)

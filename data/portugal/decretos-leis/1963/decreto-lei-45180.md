@@ -1,0 +1,181 @@
+---
+schema_version: '1.0'
+id: pt:dre:693413:por
+title: Decreto-Lei n.º 45180
+short_title: null
+summary: Promulga o regime de funcionamento dos Estudos Gerais Universitários de Angola e de Moçambique
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Ultramar e da Educação Nacional - Direcção-Geral do Ensino Superior e das Belas-Artes
+proposing_entity: null
+official_number: '45180'
+official_date: null
+publication_date: '1963-08-05'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 183/1963, Série I de 1963-08-05
+  number: '183'
+  series: I
+  supplement: null
+  pages: 1062 - 1063
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/08/18300/10621063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '693413'
+  dre_path: /dr/detalhe/decreto-lei/45180-1963-693413
+  internal: pt:dre:693413:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45180-1963-693413
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1972-08-16T00:00:00Z'
+integrity:
+  source_sha256: a00b5d87e492ca993630628c9b9baad0dc873ad50ba4e47249c835430b14e273
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-45180-693413.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:676420:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 45180
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Os Estudos Gerais Universitários de Angola e de Moçambique regem-se pela legislação vigente para as Universidades, em tudo o que não for contrariado pelo presente diploma e pelos Decreto-lei n.º 44530, de 21 de Agosto de 1962, e [Decreto n.º 44644](https://diariodarepublica.pt/dr/detalhe/decreto/44644-1962-156596), de 24 de Outubro de 1962.
+
+###### Art. 2.º A competência atribuída ao Ministro da Educação Nacional para as Universidades será exercida, no que respeita aos Estudos Gerais, pelo Ministro do Ultramar, tratando-se de questões meramente administrativas, pelo Ministro da Educação Nacional, tratando-se de questões meramente pedagógicas, e pelos dois conjuntamente, tratando-se de questões simultâneamente administrativas e pedagógicas.
+
+###### Art. 3.º A Direcção-Geral do Ensino Superior e das Belas-Artes tem, em relação aos Estudos Gerais, as atribuições que lhe cabem quanto às Universidades, competindo-lhe submeter à apreciação do Ministro do Ultramar, ou do Ministro da Educação Nacional, ou dos dois, conforme os casos, os assuntos respeitantes àqueles Estudos, bem como assegurar a execução dos respectivos despachos.
+
+###### Art. 4.º Os senados dos Estatutos Gerais são constituídos:
+
+a) Pelo reitor, que é presidente nato;
+
+b) Pelo vice-reitor;
+
+c) Pelo delegado dos professores catedráticos do curso de Ciências Pedagógicas;
+
+d) Pelo delegado dos professores catedráticos do curso Médico-Cirúrgico;
+
+e) Pelo delegado dos professores catedráticos dos cursos de Engenharia;
+
+f) Pelo delegado dos professores catedráticos dos cursos de Agronomia e de Silvicultura;
+
+g) Pelo delegado dos professores catedráticos do curso de Medicina Veterinária;
+
+h) Por um representante dos professores extraordinários, encarregados de curso e incumbidos de regência dos Estudos Gerais;
+
+i) Por um representante dos assistentes dos Estudos Gerais.
+
+§ único. Na falta de professores catedráticos, os vogais referidos nas alíneas c) a g) serão substituídos pelo elemento docente mais categorizado do respectivo curso e, havendo vários dessa categoria, pelo mais antigo.
+
+###### Art. 5.º Aos senados dos Estudos Gerais cabem as atribuições dos senados e conselho universitários e dos conselhos escolares das Faculdades e escolas e institutos superiores.
+
+###### Art. 6.º Os reitores dos Estudos Gerais têm a competência dos reitores das Universidades e dos directores das Faculdades, escolas e institutos superiores.
+
+§ único. Quando algum curso funcione fora da localidade sede da reitoria, poderá o reitor delegar num professor, relativamente a esse curso, as atribuições que os Ministros do Ultramar e da Educação Nacional fixem por despacho conjunto.
+
+###### Art. 7.º Os assuntos referentes aos Estudos Gerais serão submetidos a despacho do governador-geral exclusivamente pelo reitor.
+
+§ único. A competência do governador-geral não pode ser delegada.
+
+###### Art. 8.º Os Estudos Gerais compreendem os seguintes cursos:
+
+a) Curso de Ciências Pedagógicas;
+
+b) Curso Médico-Cirúrgico;
+
+c) Curso de Engenharia Civil;
+
+d) Curso de Engenharia de Minas;
+
+e) Curso de Engenharia Mecânica;
+
+f) Curso de Engenharia Electrotécnica;
+
+g) Curso de Engenharia Químico-Industrial;
+
+h) Curso Superior de Agronomia;
+
+i) Curso Superior de Silvicultura;
+
+j) Curso de Medicina Veterinária.
+
+§ único. Para cada um dos cursos das alíneas b) a j) será determinado por despacho conjunto dos Ministros do Ultramar e da Educação Nacional, em função das possibilidades docentes e das necessidades discentes, o número dos anos a professar no ultramar e o dos que deverão ser cursados nos estabelecimentos congéneres da metrópole.
+
+###### Art. 9.º Os quadros do pessoal dos Estudos Gerais serão fixados em portaria conjunta dos Ministros do Ultramar e da Educação Nacional.
+
+###### Art. 10.º O pessoal docente será recrutado e provido segundo o regime em vigor para as Universidades, e o restante pessoal nas condições a estabelecer em portaria do Ministro do Ultramar.
+
+###### Art. 11.º Os cargos docentes, técnicos e administrativos poderão ser desempenhados em comissão de serviço por pessoal das Universidades e das escolas superiores da metrópole.
+
+§ único. O serviço em comissão considera-se, para todos os efeitos legais, prestado na Universidade ou escola a que o funcionário pertencer.
+
+###### Art. 12.º As remunerações mensais que competem ao pessoal docente são as seguintes:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1963/08/18300/10621063.pdf))](https://files.diariodarepublica.pt/1s/1963/08/18300/10621063.pdf)
+
+§ 1.º O serviço de regência de cursos teóricos ou de trabalhos práticos, além do obrigatório, é remunerado nas condições estabelecidas para as Universidades, mas o quantitativo das respectivas gratificações tem o acréscimo de 100 por cento.
+
+§ 2.º Ao pessoal docente que não exerça qualquer outra actividade remunerada, oficial ou particular, poderá ser atribuído um subsídio, de quantitativo não excedente a 4000$00 mensais, para a realização de determinado trabalho de investigação científica nos Estudos Gerais ou institutos da província.
+
+###### Art. 13.º É aplicável aos reitores e aos professores, com uma ou duas diuturnidades, o disposto no artigo 274.º do Estatuto do Funcionalismo Ultramarino.
+
+###### Art. 14.º O pessoal docente, técnico e administrativo terá direito a habitação gratuita fornecida pelo Estado ou, na falta dela, a um subsídio para renda de casa a fixar pelo governador-geral, de harmonia com as condições locais.
+
+###### Art. 15.º Enquanto se não efectivar a integração prevista no artigo 12.º do [Decreto-Lei n.º 44530](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44530-1962-163635), o director de cada um dos institutos de investigação científica será nomeado por portaria conjunta dos Ministros do Ultramar e da Educação Nacional, de entre o pessoal docente dos respectivos Estudos Gerais Universitários, ouvidos o reitor, o presidente da Junta de Investigações do Ultramar e o governador-geral.
+
+§ único. O regime estabelecido neste artigo poderá estender-se a outros institutos de investigação mediante despacho conjunto dos dois Ministros.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 5 de Agosto de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Pedro Mário Soares Martinez.
+
+Para ser publicado no Boletim Oficial de Angola e Moçambique. - Peixoto Correia.

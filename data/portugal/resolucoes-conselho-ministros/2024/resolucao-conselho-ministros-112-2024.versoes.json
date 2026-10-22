@@ -1,0 +1,46 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:886163788:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2024-939235297",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/112-2024-886163788",
+ "source_lastmod": "2026-06-05",
+ "versions": [
+  {
+   "date": "2024-08-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1129824775",
+    "939290475"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:1129390708:por",
+     "title": "Resolução do Conselho de Ministros n.º 109/2026",
+     "published": "2026-06-03",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/109-2026-1129390708",
+     "date": "2026-06-04"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "1129824775": {
+   "fragment_id": "939290175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-06-04",
+   "changed_by": [],
+   "markdown": "O Programa do XXIV Governo Constitucional assume como compromisso o desenvolvimento de políticas especialmente dirigidas aos jovens. Em particular, no âmbito do alojamento estudantil, é assumida como prioridade o reforço da oferta de camas no ensino superior, seja por via de residências estudantis, seja por via do aproveitamento da capacidade instalada existente nos sectores público, privado e social.\n\nA avultada despesa com o alojamento representa um dos principais entraves ao acesso ao ensino superior por parte dos estudantes que se encontram deslocados do seu local de residência. Acresce que falta de oferta de alojamento estudantil continua a sentir-se cada vez mais. Desta forma, e sem prejuízo de soluções estruturais e de médio/longo prazo que aumentem a oferta de camas, nomeadamente, a disponibilização de novas camas ao abrigo do Plano Nacional de Alojamento no Ensino Superior, revela-se necessário criar desde já uma resposta de emergência.\n\nNesse sentido, o Conselho de Ministros, de 23 de maio de 2024, aprovou um conjunto de medidas ao abrigo do programa Alojamento Estudantil Já, nas quais se inclui a criação de uma linha de financiamento para as instituições de ensino superior tendo em vista a celebração de protocolos com entidades públicas, privadas e do setor social que garantam a disponibilização de mais camas para os estudantes deslocados.\n\nNeste contexto, importa aprovar a autorização de despesa da Direção-Geral do Ensino Superior, a qual deverá ser alocada a esta resposta, prevendo uma programação plurianual de despesa que garanta a previsibilidade da mesma e assegure a cabal execução do financiamento dos protocolos elegíveis que serão estabelecidos entre as instituições de ensino superior e as várias entidades para o reforço do número de camas disponíveis.\n\nAssim:\n\nNos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do Decreto-Lei n.º 197/99, de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do Decreto-Lei n.º 127/2012, de 21 de junho, na sua redação atual, dos artigos 44.º e seguintes do Código do Procedimento Administrativo, aprovado em anexo ao Decreto-Lei n.º 4/2015, de 7 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Autorizar o Instituto para o Ensino Superior, I. P. (IES, I. P.), a realizar a despesa relativa ao pagamento das camas protocoladas entre as instituições do ensino superior e os estabelecimentos de alojamento dos setores público, privado e social, para os anos de 2024, de 2025 e de 2026, até ao montante global máximo de 7 929 308,48 €, o qual já inclui o imposto sobre o valor acrescentado.\n\n2 - Estabelecer que os encargos resultantes da despesa referida no artigo anterior não podem exceder, em cada ano económico, os seguintes montantes:\n\na) 2024 - 1 869 962,58 €;\n\nb) 2025 - 2 459 345,90 €;\n\nc) 2026 - 3 600 000,00 €.\n\n3 - Determinar que os encargos financeiros previstos para o ano de 2026 são integralmente suportados por verbas inscritas no Programa Orçamental do Ensino Superior, não havendo lugar, para este efeito, a qualquer reforço orçamental com recurso à dotação provisional ou a outras dotações centralizadas do Ministério das Finanças, nem com recurso ao capítulo 60 gerido pela Entidade do Tesouro e Finanças, durante a execução orçamental.\n\n4 - Estabelecer que os encargos financeiros decorrentes da presente resolução são suportados pelas verbas inscritas na fonte de financiamento 311 - receitas de impostos no orçamento do IES, I. P.\n\n5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área do ensino superior a competência para a prática de todos os atos subsequentes a realizar no âmbito previsto na presente resolução.\n\n6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação."
+  },
+  "939290475": {
+   "fragment_id": "939290375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 22 de agosto de 2024. - Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros."
+  }
+ }
+}

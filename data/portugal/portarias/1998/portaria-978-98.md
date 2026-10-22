@@ -1,0 +1,133 @@
+---
+schema_version: '1.0'
+id: pt:dre:229518:por
+title: Portaria n.º 978/98
+short_title: null
+summary: Cria nos quadros de pessoal docente das escolas públicas do ensino especializado da música vários lugares, a extinguir
+  quando vagarem
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 978/98
+official_date: null
+publication_date: '1998-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 266/1998, Série I-B de 1998-11-17
+  number: '266'
+  series: I
+  supplement: null
+  pages: 6216 - 6217
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/11/266b00/62166217.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/978/1998/11/17/p/dre/pt/html
+  oj: null
+  dre: '229518'
+  dre_path: /dr/detalhe/portaria/978-1998-229518
+  internal: pt:dre:229518:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/978-1998-229518
+  metadata_url: https://data.dre.pt/eli/port/978/1998/11/17/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/978-1998-229518
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-11-17T00:00:00Z'
+integrity:
+  source_sha256: 8e0f8299cdd641103866a8c75a75c65a1165f296cc2a59085303d8cf5c0c0d78
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-978-229518.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Artístico
+- Criação de Lugares
+- Formas de Provimento
+- Música
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/234/1997/09/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/234/1997/09/03/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 978/98
+
+de 17 de Novembro
+
+Através do [Decreto-Lei n.º 234/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1997-641135), de 3 de Setembro, foi prevista a integração em lugares do quadro dos docentes que tinham ingressado nos quadros transitórios de cada um dos estabelecimentos públicos do ensino especializado da música, criados nos termos do n.º 1 do artigo 30.º do [Decreto-Lei n.º 310/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/310-1983-452686), de 1 de Julho, e de outros docentes detentores dos requisitos de tempo de serviço e habilitacionais constantes do primeiro diploma mencionado.
+
+A estabilização dos referidos docentes configura-se, assim, como um objectivo prioritário cuja prossecução não deverá ficar dependente da adopção de outras medidas igualmente relevantes para a dinamização do ensino artístico.
+
+Apesar de a dotação de cada um dos quadros das escolas especializadas do ensino da música ter como pressuposto a definição das habilitações para a docência nesta modalidade de ensino, torna-se pertinente concretizar, de imediato, os direitos conferidos aos docentes pela citada legislação, o que constitui objecto da presente portaria.
+
+Assim, ao abrigo do disposto no artigo 3.º do [Decreto-Lei n.º 234/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1997-641135), de 3 de Setembro:
+
+Manda o Governo, pelos Ministros das Finanças, Adjunto e da Educação, o seguinte:
+
+1.º São criados nos quadros das escolas públicas do ensino especializado da música os lugares, a extinguir quando vagarem, que constam dos anexos I, II e III à presente portaria.
+
+2.º Os lugares agora criados serão ocupados pelos docentes que reúnam as condições previstas no artigo 4.º, nos n.os 1 e 2 do artigo 5.º e no artigo 8.º do [Decreto-Lei n.º 234/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1997-641135), de 3 de Setembro.
+
+3.º Os docentes referidos no número anterior ficam vinculados à leccionação das disciplinas que actualmente ministram, sem prejuízo de lhes poder ser distribuída, nos termos legais, a leccionação de outras disciplinas para que se encontram habilitados.
+
+4.º A nomeação nos lugares a que se referem as situações previstas no artigo 4.º e nos n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 234/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1997-641135), de 3 de Setembro, reporta todos os seus efeitos a partir do dia 15 de Setembro de 1997, nos termos do artigo 6.º daquele diploma.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Educação.
+
+**Assinada em 2 de Novembro de 1998.**
+
+Pelo Ministro das Finanças, João Carlos da Costa Ferreira da Silva, Secretário de Estado do Orçamento. - Pelo Ministro Adjunto, Fausto de Sousa Correia, Secretário de Estado da Administração Pública e da Modernização Administrativa. - O Ministro da Educação, Eduardo Carrega Marçal Grilo.
+
+## ANEXO I — (quadro a que se referem as situações previstas no artigo 4.º do [Decreto-Lei n.º 234/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1997-641135), de 3 de Setembro)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/266b00/62166217.pdf)
+
+## ANEXO II — (quadro a que se referem as situações previstas nos n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 234/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1997-641135), de 3 de Setembro)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/266b00/62166217.pdf)
+
+## ANEXO III — (quadro a que se referem as situações previstas no artigo 8.º do [Decreto-Lei n.º 234/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-1997-641135), de 3 de Setembro)
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/1998/11/266b00/62166217.pdf)

@@ -1,0 +1,497 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:178517:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-914548506",
+ "dre_path": "/dr/detalhe/portaria/202-2012-178517",
+ "source_lastmod": "2025-04-11",
+ "versions": [
+  {
+   "date": "2012-07-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "914438412",
+    "914438413",
+    "914438414",
+    "914438415",
+    "914438416",
+    "914438417",
+    "914438418",
+    "914438419",
+    "914438420",
+    "914438421",
+    "914438422",
+    "914438423",
+    "914438424",
+    "914438425",
+    "914438426",
+    "914438427",
+    "914438428",
+    "914438429",
+    "914438430",
+    "914438431",
+    "914438432",
+    "914438433",
+    "914438434",
+    "914438435",
+    "914438436",
+    "914438437"
+   ]
+  },
+  {
+   "date": "2025-04-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:914375912:por",
+     "title": "Portaria n.º 167/2025/1",
+     "published": "2025-04-09",
+     "dre_path": "/dr/detalhe/portaria/167-2025-914375912"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "914438412",
+    "914438413",
+    "914438414",
+    "914438415",
+    "914438416",
+    "914438417",
+    "914438418",
+    "914438439",
+    "914438440",
+    "914438441",
+    "914438442",
+    "914438453",
+    "914438444",
+    "914438454",
+    "914438455",
+    "914438456",
+    "914438457",
+    "914438421",
+    "914438458",
+    "914438459",
+    "914438424",
+    "914438425",
+    "914438460",
+    "914438461",
+    "914438428",
+    "914438462",
+    "914438430",
+    "914438431",
+    "914438466",
+    "914438463",
+    "914438434",
+    "914438435",
+    "914438464",
+    "914438465"
+   ]
+  }
+ ],
+ "fragments": {
+  "914438412": {
+   "fragment_id": "914548507",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 202/2012\n\nde 3 de julho\n\nSob proposta da Universidade de Évora;\n\nColhido o parecer favorável da Comissão Nacional de Acesso ao Ensino Superior;\n\nAo abrigo do disposto nos n.os 3 e 4 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho:\n\nNo uso das competências delegadas pelo Ministro da Educação e Ciência através do despacho n.º 645/2012, de 17 de janeiro:\n\nManda o Governo, pelo Secretário de Estado do Ensino Superior, o seguinte:"
+  },
+  "914438413": {
+   "fragment_id": "914548508",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração do regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração do regulamento\n\nO regulamento do concurso local para a matrícula e inscrição no curso de licenciatura em Música da Universidade de Évora passa a ter a redação constante do anexo à presente portaria."
+  },
+  "914438414": {
+   "fragment_id": "914548509",
+   "type": 11,
+   "heading": "Artigo 2.º — Texto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Texto\n\nO texto referido no artigo anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria."
+  },
+  "914438415": {
+   "fragment_id": "914548510",
+   "type": 11,
+   "heading": "Artigo 3.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alterações\n\nTodas as alterações ao regulamento são nele incorporadas através de nova redação dos seus artigos ou de aditamento de novos artigos."
+  },
+  "914438416": {
+   "fragment_id": "914548511",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\nO regulamento anexo à presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano letivo de 2012-2013, inclusive."
+  },
+  "914438417": {
+   "fragment_id": "914548512",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposição revogatória\n\nÉ revogada a Portaria n.º 852/2010, de 6 de setembro."
+  },
+  "914438418": {
+   "fragment_id": "914548513",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "914438419": {
+   "fragment_id": "914548514",
+   "type": 11,
+   "heading": "Artigo 7.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Vagas\n\nA matrícula e inscrição estão sujeitas às limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438420": {
+   "fragment_id": "914548515",
+   "type": 11,
+   "heading": "Artigo 8.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Local e prazo de apresentação da candidatura\n\n1 - O requerimento de candidatura é apresentado no Departamento de Música da Universidade de Évora.\n\n2 - O prazo para entrega do requerimento de candidatura é fixado nos termos do artigo 25.º\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438421": {
+   "fragment_id": "914548516",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação da candidatura\n\nTem legitimidade para subscrever o requerimento de candidatura:\n\na) O candidato;\n\nb) Um seu procurador bastante;\n\nc) A pessoa que demonstre exercer o poder paternal ou a tutela, no caso de candidato menor."
+  },
+  "914438422": {
+   "fragment_id": "914548517",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura é instruído com:\n\na) Requerimento de candidatura, formulado em impresso aprovado pelo órgão competente da Universidade;\n\nb) Documento comprovativo da titularidade do curso do ensino secundário ou de habilitação legalmente equivalente;\n\nc) Documento comprovativo da realização de, pelo menos, uma das provas de ingresso no ensino superior referidas na alínea b) do artigo 5.º\n\n2 - No ato de entrega do processo de candidatura, os serviços competentes da Universidade fazem a conferência dos dados de identificação do candidato através da apresentação obrigatória do bilhete de identidade ou do cartão de cidadão, podendo, em alternativa, o candidato entregar uma fotocópia simples do cartão de cidadão ou do bilhete de identidade.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438423": {
+   "fragment_id": "914548518",
+   "type": 11,
+   "heading": "Artigo 11.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos os requerimentos que:\n\na) Não contenham a identificação do candidato ou em que o pedido seja ininteligível;\n\nb) Sejam apresentados fora de prazo;\n\nc) Expressamente infrinjam alguma das regras fixadas no presente regulamento.\n\n2 - O indeferimento liminar nos termos do número anterior é da competência do reitor e deve ser fundamentado.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438424": {
+   "fragment_id": "914548519",
+   "type": 11,
+   "heading": "Artigo 12.º — Júri das provas do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Júri das provas do concurso\n\n1 - A organização das provas do concurso é da competência de um júri designado pelo reitor da Universidade de Évora, sob proposta do conselho do Departamento de Música.\n\n2 - Compete ao júri, nomeadamente:\n\na) Fixar os domínios sobre que incidem as provas;\n\nb) Fixar os critérios de avaliação a adotar em cada uma das provas;\n\nc) Dar execução às provas e proceder à sua apreciação;\n\nd) Proceder às operações de seleção e seriação dos candidatos."
+  },
+  "914438425": {
+   "fragment_id": "914548520",
+   "type": 11,
+   "heading": "Artigo 13.º — Edital e divulgação na Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Edital e divulgação na Internet\n\nPor edital do reitor, afixado na Universidade e no sítio da Internet da Universidade de Évora são divulgados, designadamente:\n\na) O número máximo de candidatos que podem ser admitidos em cada ramo;\n\nb) Os domínios sobre que incidem as provas;\n\nc) Os critérios de avaliação a adotar em cada uma das provas;\n\nd) Os prazos para a prática dos atos previstos no presente regulamento."
+  },
+  "914438426": {
+   "fragment_id": "914548521",
+   "type": 11,
+   "heading": "Artigo 14.º — Seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Seleção\n\nA seleção dos candidatos é realizada com base:\n\na) Na prova de aptidão vocacional específica, onde deve ser obtida uma classificação não inferior a 95;\n\nb) Na nota de candidatura a que se referem os n.os 2 e 3 do artigo seguinte, onde deve ser obtida uma classificação não inferior a 95.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438427": {
+   "fragment_id": "914548522",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição no curso é realizada com base numa nota de candidatura, expressa na escala inteira de 0 a 200.\n\n2 - A nota de candidatura é o resultado do cálculo da seguinte expressão:\n\n(0,5 x 10 x Es) + (0,5 x P)\n\nem que:\n\nEs = classificação final do curso de ensino secundário;\n\nP = classificação final da prova de aptidão vocacional específica.\n\n3 - Para os candidatos dos cursos médios e superiores, a nota de candidatura é o resultado do cálculo da seguinte expressão:\n\n(0,5 x 10 x CF) + (0,5 x P)\n\nem que:\n\nCF = classificação final do curso médio ou superior;\n\nP = classificação final da prova de aptidão vocacional específica.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438428": {
+   "fragment_id": "914548523",
+   "type": 11,
+   "heading": "Artigo 16.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Colocação\n\nA colocação dos candidatos é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior, sem ultrapassar o número máximo de vagas fixado para cada ramo e em função das vagas disponíveis para cada instrumento."
+  },
+  "914438429": {
+   "fragment_id": "914548524",
+   "type": 11,
+   "heading": "Artigo 17.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 15.º, disputem a última vaga ou o último conjunto de vagas do curso são abertas tantas vagas adicionais quanto as necessárias para os admitir.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438430": {
+   "fragment_id": "914548525",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente regulamento são da competência do reitor."
+  },
+  "914438431": {
+   "fragment_id": "914548526",
+   "type": 11,
+   "heading": "Artigo 19.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Resultado final\n\nO resultado final exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído."
+  },
+  "914438432": {
+   "fragment_id": "914548527",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Comunicação da decisão\n\n1 - O resultado final é tornado público através de aviso afixado na Universidade e divulgado no sítio da Internet da Universidade de Évora no prazo fixado nos termos do artigo 25.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número e local de emissão do bilhete de identidade ou número do cartão de cidadão;\n\nc) Nota de candidatura a que se refere o artigo 15.º e valor das suas componentes;\n\nd) Resultado final.\n\n3 - A menção da situação de Excluído é obrigatoriamente acompanhada da respetiva fundamentação legal.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438433": {
+   "fragment_id": "914548528",
+   "type": 11,
+   "heading": "Artigo 21.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada, no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao reitor.\n\n2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio, em carta registada.\n\n3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.\n\n4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas nos termos do número anterior são notificadas aos reclamantes através de carta registada com aviso de receção.\n\n5 - Ao procedimento relativo à apresentação e decisão de reclamações é aplicável o regime do Código do Procedimento Administrativo.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438434": {
+   "fragment_id": "914548529",
+   "type": 11,
+   "heading": "Artigo 22.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito a proceder à matrícula e inscrição no curso no prazo fixado nos termos do artigo 25.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado."
+  },
+  "914438435": {
+   "fragment_id": "914548530",
+   "type": 11,
+   "heading": "Artigo 23.º — Exclusão de candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Exclusão de candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Atuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objetivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do reitor e deve ser fundamentada."
+  },
+  "914438436": {
+   "fragment_id": "914548531",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a Universidade envia à Direção-Geral do Ensino Superior uma lista onde constem todos os candidatos que procederam à mesma, com indicação do nome e número do bilhete de identidade ou do cartão de cidadão.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438437": {
+   "fragment_id": "914548532",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente regulamento são fixados pelo reitor, devendo ser tornados públicos através de aviso afixado na Universidade de Évora e publicado no sítio da Internet da Universidade de Évora, em www.uevora.pt.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive."
+  },
+  "914438439": {
+   "fragment_id": "914548536",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Ensino Superior, João Filipe Cortez Rodrigues Queiró, em 26 de junho de 2012."
+  },
+  "914438440": {
+   "fragment_id": "914548537",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM MÚSICA DA UNIVERSIDADE DE ÉVORA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO CONCURSO LOCAL PARA A MATRÍCULA E INSCRIÇÃO NO CURSO DE LICENCIATURA EM MÚSICA DA UNIVERSIDADE DE ÉVORA"
+  },
+  "914438441": {
+   "fragment_id": "914548538",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente regulamento disciplina o concurso local para a matrícula e inscrição no curso de licenciatura em Música ministrado pela Universidade de Évora, adiante designado por curso."
+  },
+  "914438442": {
+   "fragment_id": "914548540",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\nA avaliação da capacidade para a frequência do curso faz-se através de uma prova de aptidão vocacional específica."
+  },
+  "914438453": {
+   "fragment_id": "914548541",
+   "type": 11,
+   "heading": "Artigo 3.º — Prova de aptidão vocacional específica",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 3.º — Prova de aptidão vocacional específica\n\n1 - A prova de aptidão vocacional específica destina-se a avaliar a capacidade para a frequência do curso, designadamente:\n\na) A preparação prática e teórica dos candidatos no domínio genérico da formação musical;\n\nb) Para os candidatos aos ramos de Interpretação, Jazz e Composição, a sua proficiência e apuramento técnico e artístico;\n\nc) Para os candidatos ao ramo de Musicologia, o seu nível de preparação prévia nos domínios da História da Musica Ocidental e correlativos.\n\n2 - A prova de aptidão vocacional específica é constituída por:\n\na) Um exame escrito;\n\nb) Uma prova prática.\n\n3 - Os domínios sobre que incidem as provas e a forma que revestem são divulgados no edital a que se refere o artigo 13.º\n\n4 - O exame escrito e a prova prática, ambos obrigatórios, são classificados na escala de 0 a 20, arredondados à décima.\n\n5 - A classificação da prova de aptidão vocacional específica é o resultado do cálculo da seguinte expressão, arredondado às décimas na escala de 0-20:\n\n0,3 × EE + 0,7 × PP\n\nem que:\n\nEE = classificação atribuída ao exame escrito;\n\nPP = classificação atribuída à prova prática.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438444": {
+   "fragment_id": "914548542",
+   "type": 11,
+   "heading": "Artigo 4.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Validade das provas\n\nAs provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam."
+  },
+  "914438454": {
+   "fragment_id": "914548543",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições para a candidatura",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 5.º — Condições para a candidatura\n\nPodem apresentar-se ao concurso os candidatos que reúnam as seguintes condições:\n\na) Ser titular de um curso de ensino secundário ou de habilitação legalmente equivalente;\n\nb) Ter realizado, com classificação não inferior a 9,5, duas das seguintes provas de ingresso no ensino superior: Português, História, História da Cultura e das Artes, Inglês, Matemática ou Matemática Aplicada às Ciências Sociais.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438455": {
+   "fragment_id": "914548544",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidatos através de concursos especiais ou mudança de par instituição/ciclo",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 6.º — Candidatos através de concursos especiais ou mudança de par instituição/ciclo\n\nPodem aceder ao Curso de Licenciatura em Música os candidatos ao regime de mudança par instituição/ciclo e aos concursos especiais para acesso e ingresso no ensino superior, designadamente ao concurso especial para estudantes internacionais, regulamentados, respetivamente, pelo Decreto-Lei n.º 113/2014, de 16 de julho, pela Portaria n.º 181-D/2015, de 19 de junho, e pelo Decreto-Lei n.º 36/2014, de 10 de março, todos na sua redação atual, desde que, cumulativamente, obtenham aproveitamento na prova de aptidão vocacional específica nos termos do artigo 3.º do presente regulamento e preencham as condições de acesso previstas na regulamentação dos respetivos concursos de acesso, a qual determina também a documentação a submeter na candidatura.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438456": {
+   "fragment_id": "914548514",
+   "type": 11,
+   "heading": "Artigo 7.º — Vagas",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 7.º — Vagas\n\nA matrícula e inscrição estão sujeitas às limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438457": {
+   "fragment_id": "914548515",
+   "type": 11,
+   "heading": "Artigo 8.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 8.º — Local e prazo de apresentação da candidatura\n\n1 - A candidatura é submetida online no Sistema de Informação Integrado da Universidade de Évora, conforme divulgado no sítio da Internet da Universidade de Évora.\n\n2 - O prazo para submissão da candidatura é fixado nos termos do artigo 25.º\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438458": {
+   "fragment_id": "914548517",
+   "type": 11,
+   "heading": "Artigo 10.º — Instrução do processo de candidatura",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 10.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura para inscrição na prova de aptidão vocacional específica, sujeita a taxa de inscrição, nos termos da tabela de emolumentos em vigor na Universidade de Évora, é instruído com:\n\na) Formulário de candidatura, disponível no Sistema de Informação Integrado da Universidade de Évora;\n\nb) Documento comprovativo da titularidade do curso do ensino secundário ou de habilitação legalmente equivalente ou de frequência no último ano do ensino secundário;\n\nc) Documento comprovativo da realização de duas das provas de ingresso no ensino superior referidas na alínea b) do artigo 5.º, ou comprovativo de inscrição nos respetivos exames nacionais.\n\n2 - O processo de candidatura para candidatura ao concurso local é instruído com:\n\na) Formulário de candidatura, disponível no Sistema de Informação Integrado da Universidade de Évora;\n\nb) Documento comprovativo da titularidade do curso do ensino secundário ou de habilitação legalmente equivalente;\n\nc) Documento comprovativo da realização de pelo menos duas das provas de ingresso no ensino superior referidas na alínea b) do artigo 5.º\n\n3 - Após submissão de candidatura, a mesma será analisada pelos serviços competentes da Universidade a quem compete fazer a conferência dos documentos e dados de identificação do candidato através da apresentação obrigatória do documento de identificação, podendo, em alternativa, o candidato apresentá-lo presencialmente nesses serviços, no prazo máximo de três dias após submissão de candidatura.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438459": {
+   "fragment_id": "914548518",
+   "type": 11,
+   "heading": "Artigo 11.º — Indeferimento liminar",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 11.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos e consideradas inválidas as candidaturas que:\n\na) Não contenham a identificação do candidato em conformidade com documento de identificação;\n\nb) Sejam apresentados fora de prazo;\n\nc) Expressamente infrinjam alguma das regras fixadas no presente regulamento;\n\nd) Não contenham os documentos fixados no presente regulamento.\n\n2 - O indeferimento liminar nos termos do número anterior é da competência dos serviços a quem compete a análise referida no n.º 3 do artigo 10.º\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438460": {
+   "fragment_id": "914548521",
+   "type": 11,
+   "heading": "Artigo 14.º — Seleção",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 14.º — Seleção\n\nA seleção dos candidatos ao concurso local é realizada com base:\n\na) Na prova de aptidão vocacional específica, onde deve ser obtida uma classificação não inferior a 9,5;\n\nb) Na nota de candidatura a que se referem o n.º 2 do artigo seguinte, onde deve ser obtida uma classificação não inferior à classificação mínima definida anualmente pela Universidade de Évora no âmbito do regime geral de acesso e ingresso no ensino superior e comunicada à Direção-Geral do Ensino Superior.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438461": {
+   "fragment_id": "914548522",
+   "type": 11,
+   "heading": "Artigo 15.º — Seriação",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 15.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição no curso é realizada com base numa nota de candidatura, arredondada às décimas, na escala de 0 a 20.\n\n2 - A nota de candidatura ao concurso local é o resultado do cálculo da seguinte expressão:\n\n(0,5 × Es) + (0,5 × P)\n\nem que:\n\nEs = classificação final do curso de ensino secundário;\n\nP = classificação final da prova de aptidão vocacional específica.\n\n3 - Para os candidatos através de concursos especial, mudança par instituição curso ou concurso especial para estudantes internacionais, a nota de candidatura deve ser calculada nos termos estipulados na regulamentação dos respetivos concursos, devendo a prova de aptidão vocacional específica, ter um peso de 50 %.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438462": {
+   "fragment_id": "914548524",
+   "type": 11,
+   "heading": "Artigo 17.º — Desempate",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 17.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 15.º, disputem a última vaga ou o último conjunto de vagas do curso, poderão, por decisão do reitor ou em quem delegue, ser abertas tantas vagas adicionais quanto as necessárias para os admitir, ou serem aplicados critérios de desempate definidos previamente à abertura das candidaturas.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438466": {
+   "fragment_id": "914548527",
+   "type": 11,
+   "heading": "Artigo 20.º — Comunicação da decisão",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 20.º — Comunicação da decisão\n\n1 - O resultado final é tornado público através de aviso afixado na Universidade e divulgado no sítio da Internet da Universidade de Évora no prazo fixado nos termos do artigo 25.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) [Revogada];\n\nc) Nota de candidatura a que se refere o artigo 15.º e valor das suas componentes;\n\nd) Resultado final.\n\n3 - A menção da situação de Excluído é obrigatoriamente acompanhada da respetiva fundamentação legal.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438463": {
+   "fragment_id": "914548528",
+   "type": 11,
+   "heading": "Artigo 21.º — Dispensa de audiência dos interessados e reclamações",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 21.º — Dispensa de audiência dos interessados e reclamações\n\n1 - Ao abrigo do disposto nas alíneas c) e d) do n.º 1 do artigo 124.º do Código do Procedimento Administrativo, é dispensada a realização da audiência dos interessados sobre os resultados tornados públicos das colocações, porquanto:\n\na) É razoável prever que a diligência de audiência dos interessados possa comprometer o cumprimento da execução dos calendários de candidaturas e a utilidade da decisão relativa ao resultado da seriação no concurso;\n\nb) Poderá acontecer que o número de interessados a ouvir seja de tal forma elevado que a audiência dos interessados torna impraticável a decisão final do concurso em tempo útil, não sendo possível igualmente a realização de consulta pública.\n\n2 - Os resultados públicos das colocações são alvo de reclamação por parte dos interessados, no prazo máximo de quinze dias a partir da data da notificação dos resultados do concurso, de acordo com o n.º 3 do artigo 191.º do Código do Procedimento Administrativo, que o candidato recebe no endereço de correio eletrónico usado na candidatura.\n\n3 - A reclamação, devidamente fundamentada, deve ser efetuada exclusivamente através do Sistema de Informação Integrado da Universidade Évora (SIIUE), com as credências usadas na candidatura, tendo em conta que se privilegiam os meios eletrónicos, conforme previsto no artigo 61.º do Código do Procedimento Administrativo.\n\n4 - A decisão sobre a reclamação compete ao reitor, ou em quem delegue, sendo proferida no prazo máximo de trinta dias após a mesma ser submetida, de acordo com o n.º 2 do artigo 192.º do Código do Procedimento Administrativo.\n\n5 - A decisão é comunicada ao candidato pela mesma via, ou seja, através do SIIUE, com notificação para o endereço de correio eletrónico usado na candidatura.\n\n6 - Uma decisão favorável a um candidato não porá em causa os resultados de colocação dos outros candidatos, recorrendo-se à possibilidade de abertura de vagas adicionais, se necessário, havendo lugar a divulgação pública dos resultados retificados por via de reclamação.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438464": {
+   "fragment_id": "914548531",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 24.º — Comunicação à Direção-Geral do Ensino Superior\n\nA Universidade comunica à Direção-Geral do Ensino Superior lista da qual constem todos os candidatos que procederam à matrícula, de acordo com ficheiro e prazos definidos pela Direção-Geral do Ensino Superior.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  },
+  "914438465": {
+   "fragment_id": "914548532",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": "2025-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+   ],
+   "markdown": "###### Artigo 25.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente regulamento são fixados pelo reitor, devendo ser tornados públicos através de despacho reitoral da Universidade de Évora e publicado no sítio da Internet da Universidade de Évora, em www.uevora.pt.\n\n> Nota: [Artigo 4.º, Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912) A alteração ao presente artigo, produz efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2025-2026, inclusive.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 167/2025/1 - Diário da República n.º 70/2025, Série I de 2025-04-09](https://diariodarepublica.pt/dr/detalhe/portaria/167-2025-914375912), em vigor a partir de 2025-04-10"
+  }
+ }
+}

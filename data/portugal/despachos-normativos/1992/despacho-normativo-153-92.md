@@ -1,0 +1,223 @@
+---
+schema_version: '1.0'
+id: pt:dre:260135:por
+title: Despacho Normativo n.º 153/92
+short_title: null
+summary: Aprova o Regulamento do Estágio para Ingresso na Carreira Técnica Superior de Inspecção Administrativa da Inspecção-Geral
+  da Administração do Território
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 153/92
+official_date: null
+publication_date: '1992-08-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 198/1992, Série I-B de 1992-08-28
+  number: '198'
+  series: I
+  supplement: null
+  pages: 4149 - 4150
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/08/198b00/41494150.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/153/1992/08/28/p/dre/pt/html
+  oj: null
+  dre: '260135'
+  dre_path: /dr/detalhe/despacho-normativo/153-1992-260135
+  internal: pt:dre:260135:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/153-1992-260135
+  metadata_url: https://data.dre.pt/eli/despnorm/153/1992/08/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/153-1992-260135
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-02-25T00:00:00Z'
+integrity:
+  source_sha256: 520ec0de75b01a47d85da63c71e2cf41c7a731f264a84e331818d3f2ac3d6e57
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-153-260135.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Inspecção Geral da Administração do Território
+- Pessoal de Inspecção
+- Pessoal Técnico Superior
+- Estágio de Formação
+- Regulamento de Estágio
+relationships:
+- type: amended_by
+  target: pt:dre:214223:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 14
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 153/92
+
+O regime especial da carreira técnica superior de inspecção administrativa, aprovado pelo [Decreto-Lei n.º 64/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1987-662893), de 6 de Fevereiro, com a nova redacção dada pelo [Decreto-Lei n.º 99/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/99-1989-614669), de 29 de Março, estabelece que o ingresso na carreira é condicionado à frequência, com aproveitamento, de um estágio.
+
+Por força dos n.os 9 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, é necessário regulamentar as condições em que decorrerá aquele estágio.
+
+Nestes termos, determina-se o seguinte:
+
+1 - É aprovado o Regulamento do Estágio para Ingresso na Carreira Técnica Superior de Inspecção Administrativa da Inspecção-Geral da Administração do Território.
+
+2 - O Regulamento, anexo a este despacho e que dele faz parte integrante, entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério do Planeamento e da Administração do Território, 5 de Agosto de 1992. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.
+
+Regulamento do Estágio para Ingresso na Carreira Técnica Superior de Inspecção Administrativa
+
+### CAPÍTULO I — Artigo 1.º
+
+Âmbito de aplicação
+
+O presente despacho regulamenta o estágio na carreira técnica superior de inspecção administrativa da Inspecção-Geral da Administração do Território, de acordo com o estabelecido no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+
+###### Artigo 2.º — Objectivos
+
+Constitui objectivo do estágio proporcionar aos seus destinatários uma formação adequada e conhecimentos profissionais necessários ao desempenho eficaz e competente das funções, nos termos em que estão definidos no conteúdo funcional da respectiva carreira, e ainda a avaliação da capacidade de adaptação.
+
+### CAPÍTULO II — Da realização do estágio
+
+###### Artigo 3.º — Duração
+
+O estágio tem a duração de um ano.
+
+###### Artigo 4.º — Assiduidade e pontualidade
+
+Os estagiários são obrigados à frequência, com assiduidade e pontualidade, de todas as actividades que integram o plano de estágio.
+
+###### Artigo 5.º — Planificação
+
+1 - O estágio compreenderá duas fases:
+
+a) Fase de sensibilização;
+
+b) Fase teórico-prática.
+
+2 - A fase de sensibilização destina-se ao estabelecimento de um contacto inicial com os serviços, concretizando-se num processo de acolhimento que deverá abranger o conhecimento da estrutura, competências e funcionamento do organismo.
+
+3 - A fase teórico-prática compreende:
+
+a) Cursos de formação, em que serão ministrados os conhecimentos e as técnicas adequadas ao exercício da função de investigação e fiscalização do cumprimento da legislação aplicável;
+
+b) Exercício tutelado de funções em núcleos de estágio, de modo a proporcionar a aquisição das metodologias de trabalho e servir para avaliar a capacidade de adaptação à função.
+
+###### Artigo 6.º — Júri de estágio
+
+1 - O júri é constituído por um presidente e por dois vogais efectivos e dois suplentes.
+
+2 - Compete ao júri:
+
+a) Elaborar o programa de estágio;
+
+b) Superintender, em colaboração com os orientadores de estágio, no exercício tutelado de funções;
+
+c) Avaliar e classificar os estagiários.
+
+### CAPÍTULO III — Da avaliação e classificação final
+
+###### Artigo 7.º — Avaliação
+
+Os estagiários são avaliados, tendo em conta os objectivos das fases do estágio e as matérias ministradas nos cursos de formação, através de:
+
+a) Relatório individual no fim do estágio;
+
+b) Cursos de formação;
+
+c) Classificação de serviço.
+
+###### Artigo 8.º — Orientadores de estágio
+
+1 - Os orientadores de estágio serão designados por despacho do inspector-geral para acompanhamento do período de exercício tutelado de funções.
+
+2 - Compete ao orientador de estágio:
+
+a) Assegurar a formação dos estagiários colocados sob a sua responsabilidade;
+
+b) Apreciar e classificar o desempenho do estagiário, tendo em conta o seu aproveitamento e a sua capacidade para o exercício da função inspectiva.
+
+###### Artigo 9.º — Relatório de estágio
+
+1 - O relatório de estágio deverá ser apresentado ao júri de estágio até 15 dias contados a partir do termo do estágio.
+
+2 - Na sua avaliação deverão ter-se em conta a sua estrutura, criatividade, capacidade de análise das situações e clareza de exposição.
+
+3 - O relatório é classificado numa escala de 0 a 20 valores.
+
+###### Artigo 10.º — Classificação de serviço
+
+1 - Na classificação de serviço ter-se-ão em conta os critérios previstos na lei geral.
+
+2 - A classificação de serviço é da competência do presidente do júri de estágio, sob proposta fundamentada dos respectivos orientadores de estágio.
+
+###### Artigo 11.º — Classificação final
+
+A nota final de estágio traduzir-se-á na escala de 0 a 20 valores e resultará da média aritmética ponderada dos seguintes elementos, relatório de estágio, classificação de serviço e avaliação de cursos de formação, de cordo com a fórmula
+
+CF = (3 R + 5 CS + 2 FP)/10
+
+em que:
+
+CF = classificação final;
+
+R = relatório de estágio;
+
+CS = classificação de serviço;
+
+FP = formação profissional.
+
+###### Artigo 12.º
+
+Os estagiários serão ordenados pelo júri em função da classificação final de estágio, não se considerando aprovados os que tiverem obtido classificação inferior a Bom (14 valores).
+
+###### Artigo 13.º — Homologação e publicitação da lista de classificação final
+
+A lista de classificação final deverá, depois de homologada pelo inspector-geral, ser publicitada nos termos estabelecidos no artigo 13.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+
+###### Artigo 14.º
+
+Da homologação cabe recurso, nos termos do artigo 34.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+
+###### Artigo 15.º — Disposições finais
+
+As normas do presente Regulamento aplicam-se aos estágios já iniciados à data da sua entrada em vigor.

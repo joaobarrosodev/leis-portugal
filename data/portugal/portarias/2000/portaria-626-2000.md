@@ -1,0 +1,123 @@
+---
+schema_version: '1.0'
+id: pt:dre:324275:por
+title: Portaria n.º 626/2000
+short_title: null
+summary: Anexa à zona de caça turística criada pela Portaria n.º 667-U6/93, de 14 de Julho, os prédios rústicos designados
+  por Monte do Olival e Monte Novo, sitos na freguesia de Santa Vitória, município de Beja
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 626/2000
+official_date: null
+publication_date: '2000-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/2000, Série I-B de 2000-08-22
+  number: '193'
+  series: I
+  supplement: null
+  pages: 4223 - 4223
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/08/193b00/42234223.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/626/2000/08/22/p/dre/pt/html
+  oj: null
+  dre: '324275'
+  dre_path: /dr/detalhe/portaria/626-2000-324275
+  internal: pt:dre:324275:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/626-2000-324275
+  metadata_url: https://data.dre.pt/eli/port/626/2000/08/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/626-2000-324275
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-08-01T00:00:00Z'
+integrity:
+  source_sha256: 1168c3383487c414d74ce9f4492e8584aae601e68e03482c1734ae4fe2770b88
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-626-324275.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Beja
+- ZONA de CAÇA
+relationships:
+- type: amended_by
+  target: pt:dre:652277:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/667-u6/1993/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/667-u6/1993/07/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 626/2000
+
+de 22 de Agosto
+
+Pela [Portaria n.º 667-U6/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-u6-1993-402292), de 14 de Julho, foi concessionada a Maria de Lurdes Gomes Palma de Carvalho Portela a zona de caça turística do Monte do Outeiro, processo n.º 1470-DGF, situada na freguesia de Santa Vitória, município de Beja, com uma área de 369,60 ha, válida até 14 de Julho de 2003.
+
+A concessionária requereu agora a anexação de dois prédios rústicos com uma área de 255,8491 ha.
+
+Assim:
+
+Com fundamento no disposto nos artigos 20.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, 79.º, 81.º e 143.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ouvido o Conselho Nacional da Caça e de Conservação da Fauna:
+
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º São anexados à zona de caça turística criada pela [Portaria n.º 667-U6/93](https://diariodarepublica.pt/dr/detalhe/portaria/667-u6-1993-402292), de 14 de Julho, os prédios rústicos designados por Monte do Olival e Monte Novo, sitos na freguesia de Santa Vitória, município de Beja, com uma área de 255,8491 ha, ficando a mesma com a área total de 625,4491 ha.
+
+2.º A zona de caça passa a ser fiscalizada por um guarda florestal auxiliar dotado de meio de transporte.
+
+3.º A presente anexação mereceu, por parte da Direcção-Geral do Turismo, parecer favorável condicionado à apresentação do projecto de arquitectura do pavilhão de caça, no prazo de dois meses a contar da data da publicação da presente portaria, à sua aprovação por aquele organismo e à execução da obra no prazo de 12 meses contados a partir da data de notificação da aprovação do projecto, bem como à verificação da conformidade da obra com o projecto aprovado.
+
+Em 13 de Julho de 2000.
+
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/2000/08/193b00/42234223.pdf)

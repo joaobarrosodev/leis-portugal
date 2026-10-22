@@ -1,0 +1,479 @@
+---
+schema_version: '1.0'
+id: pt:dre:108074438:por
+title: Decreto-Lei n.º 109/2017
+short_title: null
+summary: Define o regime legal da carreira especial farmacêutica, bem como os requisitos de habilitação profissional para
+  integração na mesma
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Saúde
+proposing_entity: null
+official_number: 109/2017
+official_date: null
+publication_date: '2017-08-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 167/2017, Série I de 2017-08-30
+  number: '167'
+  series: I
+  supplement: null
+  pages: 5233 - 5238
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/08/16700/0523305238.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-03-28'
+version_history:
+  file: decreto-lei-109-2017.versoes.json
+  count: 3
+  source_lastmod: '2024-12-17'
+  versions:
+  - date: '2017-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-06'
+    amending: pt:dre:836117867:por
+    amending_title: Decreto-Lei n.º 5/2024
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 23.º
+  - date: '2025-03-28'
+    amending: pt:dre:912653922:por
+    amending_title: Decreto-Lei n.º 45/2025
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/109/2017/p/cons/20250327/pt/html
+  oj: null
+  dre: '108074438'
+  dre_path: /dr/detalhe/decreto-lei/109-2017-108074438
+  internal: pt:dre:108074438:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-2017-108074438
+  metadata_url: https://data.dre.pt/eli/dec-lei/109/2017/p/cons/20250327/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-108074442
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-108074442
+  retrieved_at: '2026-10-22T13:20:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-12-17T00:00:00Z'
+integrity:
+  source_sha256: f9043d9c42b80001248da2c2110f533f2ec4d5076a9acdc7442eea7ed1cb3105
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:20:24Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-109-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Regime do Contrato de Trabalho em Funções Públicas
+- Análises Clínicas
+- Assistência Medicamentosa
+- Pessoal de Saúde
+- Formação Profissional
+- Concurso
+- Saúde
+- Administração Pública
+- Serviço Nacional de Saúde
+- Carreira Profissional
+- Farmacêutico
+- Medicamento
+- Recrutamento de Pessoal
+- Integração de Trabalhadores
+- Ordem dos Farmacêuticos
+- Período Experimental
+- Farmácia Hospitalar
+- Qualificação Profissional
+- Estabelecimento Hospitalar
+- Avaliação do Pessoal
+- Estatuto Remuneratório
+- Trabalhador com Contrato de Trabalho em Funções Públicas
+relationships:
+- type: amended_by
+  target: pt:dre:836117867:por
+  label: Altera Artigo 3.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867
+  date: '2024-01-05'
+- type: amended_by
+  target: pt:dre:912653922:por
+  label: Altera Artigo 13.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922
+  date: '2025-03-27'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/229/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/229/2005/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/240/1993/07/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/240/1993/07/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/241/1994/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/414/1991/10/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/501/1999/11/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/501/1999/11/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/9/1998/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/9/1998/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/796/1994/09/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/796/1994/09/07/p/dre
+article_structure:
+  article_count: 25
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:20:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 109/2017
+
+Decreto-Lei n.º 109/2017
+
+de 30 de agosto
+
+A saúde assume, não só do ponto de vista da qualidade de vida do homem, como também na perspetiva da sua realização integral, um papel preponderante. Com a finalidade última de salvaguardar o direito dos cidadãos a cuidados de saúde com qualidade, o Estado tem a missão de garantir que os profissionais de saúde estejam habilitados com qualificações profissionais adequadas - o que justifica que o setor da saúde seja um dos que tem maior número de profissões regulamentadas, como sucede com a profissão de farmacêutico.
+
+Associada à garantia de qualidade das prestações de saúde, encontra-se, também, a sua natureza cada vez mais complexa e tecnicamente diferenciada. Esta característica das prestações de saúde tem gerado um grau de especialização cada vez mais elevado dos profissionais de saúde mas, simultaneamente, uma interdependência cada vez mais acentuada de cada uma das atividades envolvidas.
+
+A especialização e a diferenciação determinam uma especial autonomia técnica como única forma de proteger os interesses dos doentes com vista à escolha da solução mais adequada para determinada situação de saúde. Deve destacar-se, assim, o papel assumido pelo farmacêutico, quer no âmbito da farmácia hospitalar, quer na área de análises clínicas e de genética, que envolve uma atividade que enceta uma elevada complexidade técnica, e cujos reflexos não se cingem ao bem-estar e saúde dos utentes, mas se repercutem em aspetos mais transversais, em particular no contexto atual, em que sistematicamente se questiona a sustentabilidade do Serviço Nacional de Saúde.
+
+Este último fator tem vindo a assumir um papel preponderante nos últimos tempos, aconselhando a procurar a redefinição do papel do farmacêutico, que assim poderá servir não só os interesses de cada um dos utentes individualmente considerados, mas também a população em geral, face às repercussões que os seus atos ditam em matéria de custos no âmbito da proteção da saúde, designadamente, no setor público.
+
+Neste contexto, e tendo em conta os diversos domínios em que se desenvolvem as suas funções, apresenta-se especialmente adequado autonomizar a carreira de farmacêutico. Note-se que em todas as suas atividades, seja na área da farmácia hospitalar, das análises clínicas ou na genética, o papel do farmacêutico se centra no doente. Não pode, assim, desconsiderar-se o papel da interação direta do farmacêutico com o utente, visando uma farmacoterapia racional e a obtenção de resultados definidos e mensuráveis, voltados, em todos os casos, para a melhoria dos resultados da farmacoterapia e da qualidade de vida, sem todavia descurar os custos associados.
+
+Para além dos aspetos atrás referidos, a criação de uma carreira farmacêutica tem ainda em linha de conta as normas de direito europeu relativas ao reconhecimento mútuo de diplomas, certificados ou outros títulos obtidos noutros Estados-Membros.
+
+Também em matéria de estruturação da carreira importa observar que, na grande maioria dos países europeus, a intervenção farmacêutica está perfeitamente definida e enquadrada numa carreira autónoma ou em conjunto com profissionais considerados do mesmo nível de qualificações, competências e funções, promovendo desta forma a rentabilização da perícia farmacêutica. A título de exemplo, referem-se países tradicional, cultural e socialmente próximos de Portugal, como são os casos de Espanha, França e Bélgica.
+
+Em conformidade, o presente decreto-lei vem instituir a carreira especial farmacêutica na Administração Pública, integrando as atuais quatro categorias em três e remetendo para deveres funcionais comuns a todos os trabalhadores em funções públicas, bem como para o conteúdo funcional da prestação de cuidados de saúde.
+
+Relativamente ao desenvolvimento da carreira, a mesma é apresentada como uma carreira pluricategorial, com três categorias - farmacêutico assistente, farmacêutico assessor e farmacêutico assessor sénior - as quais refletem diferenciação de conteúdos funcionais, ao mesmo tempo que se fixam as regras de transição para as novas categorias.
+
+Por último, no que respeita aos requisitos para integração na carreira, entende-se ser de acompanhar a evolução a que se assiste no contexto europeu, razão pela qual se defende a manutenção de um processo formativo pós-graduado, destinado a dotar os farmacêuticos do título de especialista com as qualificações profissionais indispensáveis ao desenvolvimento da respetiva atividade e em condições de equiparação e reconhecimento em todos os países da União Europeia o que, naturalmente, facilitará a livre circulação de pessoas e serviços no mercado interno.
+
+Foram observados os procedimentos de negociação coletiva, bem como de participação na legislação laboral, decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei define o regime legal da carreira especial farmacêutica, bem como os requisitos de habilitação profissional para integração na mesma.
+
+###### Artigo 2.º — Âmbito
+
+O presente decreto-lei aplica-se a todos os trabalhadores integrados na carreira especial farmacêutica com vínculo de emprego público na modalidade de contrato de trabalho em funções públicas.
+
+### Capítulo II — Qualificação profissional e áreas de exercício profissional
+
+###### Artigo 3.º — Qualificação profissional
+
+1 - A integração na carreira especial farmacêutica pressupõe a posse do título definitivo de farmacêutico, concedido pela Ordem dos Farmacêuticos, bem como o título de especialista na correspondente área de exercício profissional, obtido nos termos do Regime Jurídico da Residência Farmacêutica, aprovado pelo Decreto-Lei n.º 6/2020, de 24 de fevereiro.
+
+2 - Sem prejuízo do disposto na parte final do número anterior, a posse do título de especialista na correspondente área de exercício profissional, atribuído pela Ordem dos Farmacêuticos, é condição suficiente para integração na carreira especial farmacêutica.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 5/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), em vigor a partir de 2024-01-06
+
+###### Artigo 4.º — Áreas de exercício profissional
+
+1 - A carreira especial farmacêutica organiza-se nas seguintes áreas de exercício profissional, a que correspondem formas de exercício adequadas à natureza da atividade desenvolvida:
+
+a) Análises clínicas;
+
+b) Farmácia hospitalar;
+
+c) Genética humana.
+
+2 - Podem ser criadas outras áreas, que integrem ou não as áreas referidas no número anterior, através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da administração pública e da saúde.
+
+### Capítulo III — Estrutura da carreira
+
+###### Artigo 5.º — Categorias
+
+A carreira especial farmacêutica é pluricategorial, estruturando-se nas seguintes categorias:
+
+a) Farmacêutico assistente;
+
+b) Farmacêutico assessor;
+
+c) Farmacêutico assessor sénior.
+
+###### Artigo 6.º — Perfil profissional
+
+1 - O farmacêutico é o profissional de saúde a quem cumpre desenvolver atividades no âmbito do medicamento, análises clínicas e genética suscetíveis de contribuir para a salvaguarda da saúde pública, bem como ações de educação dirigidas à comunidade no âmbito da otimização da terapêutica e promoção da saúde.
+
+2 - A carreira especial farmacêutica reflete a diferenciação e qualificação profissionais inerentes ao exercício do ato farmacêutico e enquadra profissionais detentores do respetivo título de especialistas.
+
+3 - O farmacêutico, consoante a área profissional em que se enquadre, exerce a sua atividade em todas as etapas do circuito do medicamento, influenciando e monitorizando a utilização de medicamentos e outros produtos de saúde numa perspetiva de contínua otimização do tratamento do doente através do uso judicioso, seguro, eficaz e apropriado dos medicamentos, e transformando a informação laboratorial adquirida em conhecimento útil ao diagnóstico, ao acompanhamento do doente e ao suporte terapêutico.
+
+4 - Para os efeitos previstos nos números anteriores, e com sujeição ao sigilo profissional, o farmacêutico tem direito a aceder aos dados clínicos relativos aos utentes que lhe forem confiados, e que sejam necessários ao correto exercício das suas funções.
+
+###### Artigo 7.º — Deveres funcionais
+
+1 - Os trabalhadores integrados na carreira especial farmacêutica estão sujeitos ao cumprimento dos deveres gerais estabelecidos para os trabalhadores com vínculo de emprego público.
+
+2 - Sem prejuízo do disposto no número anterior, bem como do conteúdo funcional inerente à respetiva categoria, os farmacêuticos exercem a sua atividade com plena responsabilidade profissional e autonomia técnico-científica, através do exercício das funções assumidas, cooperando com outros profissionais cuja ação seja complementar da sua e coordenando as equipas multidisciplinares de trabalho constituídas, sendo responsáveis pelos atos relacionados com o exercício das atividades praticadas por outros profissionais sob a sua responsabilidade e direção.
+
+###### Artigo 8.º — Conteúdo funcional da categoria de farmacêutico assistente
+
+Ao farmacêutico assistente incumbe executar funções enquadradas no ato farmacêutico, respeitada a correspondente especialidade, nomeadamente:
+
+a) Investigar, desenvolver e preparar as formas farmacêuticas dos medicamentos;
+
+b) Registar, fabricar, controlar e garantir a qualidade dos medicamentos, dos dispositivos médicos e outros produtos de saúde;
+
+c) Assegurar o adequado armazenamento, conservação, transporte e distribuição por grosso dos medicamentos, dos dispositivos médicos e outros produtos de saúde, se aplicável;
+
+d) Efetuar a gestão integrada do circuito do medicamento, dos dispositivos médicos e outros produtos de saúde, designadamente a respetiva preparação, controlo, seleção, gestão, aquisição, armazenamento, distribuição, validação, monitorização e vigilância;
+
+e) Proceder à divulgação dos recursos de informação necessários para a preparação e administração segura dos medicamentos, no ponto de prestação de cuidados;
+
+f) Proceder à gestão integrada do circuito dos tratamentos experimentais, incluindo a consulta farmacêutica e a avaliação de ensaios clínicos no âmbito da Comissão de Ética e Investigação;
+
+g) Interpretar, validar a prescrição, preparar e controlar fórmulas magistrais estéreis e não estéreis, assim como executar e controlar preparações oficinais;
+
+h) Proceder ao desenho, parametrização e avaliação de tecnologias de informação e sistemas de informação no âmbito do circuito do medicamento;
+
+i) Interpretar e avaliar as prescrições médicas;
+
+j) Promover a informação e consulta sobre medicamentos, dispositivos médicos e outros produtos de saúde;
+
+k) Proceder ao acompanhamento, vigilância, monitorização e controlo da distribuição, dispensa, adesão e utilização de medicamentos, de dispositivos médicos e outros produtos de saúde no âmbito da prestação de cuidados farmacêuticos e outras atividades de farmácia clínica, nomeadamente, no que diz respeito ao acompanhamento farmacoterapêutico, reconciliação da terapêutica e consulta farmacêutica;
+
+l) Proceder à articulação entre os cuidados prestados nos diferentes níveis de saúde, cuidados primários e cuidados hospitalares, no sentido da melhoria da qualidade, nível da segurança e efetividade da terapêutica medicamentosa;
+
+m) Proceder à monitorização clínica de fármacos, incluindo a determinação e interpretação de parâmetros farmacocinéticos e o estabelecimento de esquemas posológicos individualizados, bem como as vertentes de farmacogenética e farmacogenómica;
+
+n) Efetuar a colheita de produtos biológicos e desenvolver métodos de análise laboratorial, a sua validação e, se necessário, executar técnicas diferenciadas;
+
+o) Proceder à avaliação, interpretação de resultados e respetiva validação clínica e biopatológica;
+
+p) Proceder à identificação, caracterização, avaliação e resposta a riscos e emergências em saúde pública;
+
+q) Implementar, avaliar e monitorizar os sistemas de qualidade relacionados com a sua área profissional;
+
+r) Participar e cooperar em programas de investigação científica e protocolos de estudo relacionados com a sua área profissional;
+
+s) Participar em júris de concursos e de avaliação;
+
+t) Integrar equipas de serviço de urgência;
+
+u) Participar nas atividades de planeamento e programação do trabalho a executar pela unidade ou serviço respetivo;
+
+v) Participar na orientação e avaliação das atividades dos farmacêuticos e de outros profissionais de saúde no âmbito do seu processo de formação, bem como nas atividades de estágios de pré e pós-graduados;
+
+w) Substituir o farmacêutico assessor nas suas ausências e impedimentos.
+
+###### Artigo 9.º — Conteúdo funcional da categoria de farmacêutico assessor
+
+Para além das funções inerentes à categoria de farmacêutico assistente, compete ao farmacêutico assessor:
+
+a) Participar na estruturação, organização, planeamento e coordenação dos serviços;
+
+b) Planificar, coordenar, orientar e avaliar as atividades dos farmacêuticos e de outros profissionais de saúde no âmbito do seu processo de formação, bem como nas atividades de estágios de pré e pós-licenciatura, mestrados e doutoramentos;
+
+c) Desenvolver e coordenar protocolos de estudo relacionados com a sua área de atividade;
+
+d) Integrar comissões clínicas e técnico-científicas com o objetivo da disciplina, racionalização de recursos, melhoria assistencial e a salvaguarda da saúde pública;
+
+e) Responsabilizar-se pela gestão da qualidade dos serviços e implementação de boas práticas e outros referenciais;
+
+f) Assumir a responsabilidade técnica pela seleção, aquisição e conservação de medicamentos, dispositivos médicos e outros produtos de saúde relacionados com a sua área profissional;
+
+g) Assumir a responsabilidade técnica pela gestão de bancos celulares, amostras biológicas, ADN e respetivas bases de dados relacionadas com a sua área profissional;
+
+h) Assumir a responsabilidade técnica pela seleção e conservação de dispositivos médicos in vivo e in vitro, equipamentos e sua correta conservação;
+
+i) Emitir pareceres técnico-científicos;
+
+j) Substituir o farmacêutico assessor sénior nas suas ausências e impedimentos.
+
+###### Artigo 10.º — Conteúdo funcional da categoria de farmacêutico assessor sénior
+
+Para além das funções inerentes às categorias de farmacêutico assistente e farmacêutico assessor, compete ao farmacêutico assessor sénior:
+
+a) Responsabilizar-se por setores ou unidades de serviço e respetivos recursos humanos;
+
+b) Planear, programar e avaliar o trabalho da respetiva unidade, serviço ou departamento;
+
+c) Assumir a responsabilidade pelas atividades de formação e de desenvolvimento profissional contínuo dos farmacêuticos da sua unidade, serviço ou departamento, ou das atividades de formação da instituição, quando para tal designado;
+
+d) Elaborar, promover ou apoiar a concretização de projetos de desenvolvimento técnico-científico, institucional, de qualidade e de inovação, que mobilizem e envolvam o conjunto da equipa profissional em que esteja integrado.
+
+###### Artigo 11.º — Grau de complexidade funcional
+
+A carreira especial farmacêutica é classificada como sendo de grau 3, em termos de complexidade funcional.
+
+###### Artigo 12.º — Condições de admissão
+
+1 - Para a admissão à categoria de farmacêutico assistente é exigido o grau de especialista.
+
+2 - Para a admissão à categoria de farmacêutico assessor são exigidos seis anos de exercício efetivo com a categoria de farmacêutico assistente.
+
+3 - Para a admissão à categoria de farmacêutico assessor sénior são exigidos quatro anos de exercício efetivo com a categoria de farmacêutico assessor.
+
+###### Artigo 13.º — Recrutamento e promoção
+
+1 - O recrutamento para os postos de trabalho em funções públicas, no âmbito da carreira especial farmacêutica, incluindo a mudança de categoria, é feito mediante procedimento concursal.
+
+2 - Os requisitos de candidatura e a tramitação do procedimento concursal previstos no número anterior são aprovados por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e da saúde.
+
+3 - Na promoção para as categorias de farmacêutico assessor e de farmacêutico assessor sénior, o posicionamento remuneratório faz-se para a primeira posição remuneratória da respetiva categoria.
+
+4 - Caso o candidato aufira remuneração igual ou superior à da primeira posição remuneratória das categorias de farmacêutico assessor e de farmacêutico assessor sénior, o posicionamento remuneratório faz-se na posição remuneratória que na estrutura remuneratória da categoria para a qual se faz o recrutamento corresponda o nível remuneratório superior mais aproximado.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 45/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922), em vigor a partir de 2025-03-28, produz efeitos a partir de 2025-01-01
+
+###### Artigo 14.º — Remunerações
+
+A identificação dos níveis remuneratórios correspondentes às posições remuneratórias das categorias da carreira especial farmacêutica é efetuada por decreto regulamentar, nos termos do artigo 149.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho (LTFP).
+
+###### Artigo 15.º — Posições remuneratórias
+
+1 - A cada categoria da carreira especial farmacêutica corresponde um número variável de posições remuneratórias, as quais constam de diploma próprio.
+
+2 - A determinação do posicionamento remuneratório na categoria de recrutamento é objeto de negociação, nos termos previstos na LTFP.
+
+3 - A alteração da posição remuneratória na categoria faz-se nos termos previstos na LTFP, tendo em conta o sistema de avaliação de desempenho dos trabalhadores que integram a carreira especial farmacêutica.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 45/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922), em vigor a partir de 2025-03-28, produz efeitos a partir de 2025-01-01
+
+###### Artigo 16.º — Período experimental
+
+1 - O período experimental dos trabalhadores integrados na carreira especial farmacêutica com contrato de trabalho em funções públicas por tempo indeterminado tem a duração de 90 dias.
+
+2 - Considera-se cumprido o período experimental a que se refere o número anterior sempre que o contrato por tempo indeterminado tenha sido imediatamente precedido da constituição, no mesmo serviço ou estabelecimento e para o desempenho das mesmas funções, de um vínculo, na modalidade de contrato a termo resolutivo, certo ou incerto, cuja duração tenha sido igual ou superior a 90 dias.
+
+###### Artigo 17.º — Formação profissional
+
+1 - A formação dos trabalhadores integrados na carreira especial farmacêutica assume caráter de continuidade e prossegue objetivos de atualização técnica e científica ou de desenvolvimento de projetos de investigação.
+
+2 - A formação prevista no número anterior deve ser planeada e programada, de modo a incluir informação interdisciplinar e desenvolver competências de organização e gestão de serviços.
+
+3 - A frequência de cursos de formação complementar ou de atualização profissional, com vista ao aperfeiçoamento, diferenciação técnica ou projetos de investigação, pode ser autorizada, mediante licença sem perda de remuneração, por um período não superior a 15 dias úteis por ano, ou nos termos que venham a ser definidos por instrumento de regulamentação coletiva de trabalho.
+
+4 - O membro do Governo responsável pela área da saúde pode atribuir, com faculdade de delegação, a licença prevista nos termos do número anterior, por um período superior a 15 dias úteis, desde que a proposta se encontre devidamente fundamentada e a formação se revista de interesse para os serviços.
+
+###### Artigo 18.º — Avaliação do desempenho
+
+A avaliação do desempenho relativa aos trabalhadores que integrem a carreira especial farmacêutica é a prevista no regime que fixa o sistema integrado de gestão e avaliação do desempenho na Administração Pública, com as adaptações que forem introduzidas por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.
+
+###### Artigo 19.º — Direção e coordenação
+
+1 - Os trabalhadores integrados na carreira especial farmacêutica podem exercer funções de direção ou coordenação de departamentos, serviços ou unidades funcionais dos serviços e estabelecimentos integrados no Serviço Nacional de Saúde, desde que sejam titulares, preferencialmente, da categoria de farmacêutico assessor sénior ou, em casos excecionais devidamente fundamentados, de farmacêutico assessor ou de farmacêutico assistente, sendo exigido, neste último caso, que tenham um mínimo de cinco anos de exercício efetivo de funções na área profissional correspondente.
+
+2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna e mediante conveniência de serviço, o exercício de funções de direção ou coordenação de departamentos, serviços ou unidades funcionais do Serviço Nacional de Saúde efetua-se em comissão de serviço, pelo período de três anos, renovável por iguais períodos, sendo a respetiva remuneração fixada por decreto regulamentar, nos termos do n.º 1 do artigo 149.º da LTFP.
+
+3 - O exercício das funções referidas nos números anteriores não impede a manutenção da atividade de prestação de cuidados de saúde por parte dos farmacêuticos, mas tem primazia sobre ela, em caso de incompatibilidade superveniente.
+
+### Capítulo IV — Normas de transição
+
+###### Artigo 20.º — Transição para a carreira especial farmacêutica
+
+1 - Os farmacêuticos integrados na carreira dos técnicos superiores de saúde, no ramo de farmácia hospitalar, laboratório e genética a que se refere o Decreto-Lei n.º 414/91, de 22 de outubro, são integrados na carreira especial farmacêutica criada pelo presente decreto-lei, na área que corresponda às funções desempenhadas, de acordo com as seguintes regras:
+
+a) Os farmacêuticos com as categorias de assistente e assistente principal transitam para a categoria de farmacêutico assistente;
+
+b) Os farmacêuticos com a categoria de assessor transitam para a categoria de farmacêutico assessor;
+
+c) Os farmacêuticos com a categoria de assessor superior transitam para a categoria de farmacêutico assessor sénior.
+
+2 - O tempo de serviço anterior ao processo de transição para a carreira especial farmacêutica releva, relativamente ao assistente principal e ao assessor, para efeitos de recrutamento para a categoria superior, respetivamente, de farmacêutico assessor e de farmacêutico assessor sénior.
+
+3 - A avaliação do desempenho anterior ao processo de transição para a carreira especial farmacêutica releva, nesta carreira, para efeitos de alteração da posição remuneratória.
+
+###### Artigo 21.º — Reposicionamento remuneratório
+
+Na transição para a carreira especial farmacêutica, os trabalhadores são reposicionados nos termos previstos no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, mantido em vigor pela alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho.
+
+### Capítulo V — Disposições finais
+
+###### Artigo 22.º — Disposição final
+
+Com a extinção do ramo de farmácia hospitalar da carreira dos técnicos superiores de saúde a que se refere o Decreto-Lei n.º 414/91, de 22 de outubro, o Mestrado Integrado em Ciências Farmacêuticas e as antigas licenciaturas em Farmácia e Ciências Farmacêuticas (opção B e ramo B, e opção C e ramo C) deixam de constituir habilitação adequada para integração nos ramos de laboratório e genética a que se refere aquele decreto-lei.
+
+###### Artigo 23.º — Norma transitória
+
+1 - O diploma a que se refere a parte final do artigo 3.º é aprovado no prazo de 180 dias a contar da publicação do presente decreto-lei, sendo aplicável, até à sua entrada em vigor, o regime previsto na Portaria n.º 796/94, de 7 de setembro.
+
+2 - (Revogado.)
+
+3 - As portarias previstas no n.º 2 do artigo 13.º e no artigo 18.º são aprovadas no prazo de 180 dias a contar da entrada em vigor do presente decreto-lei.
+
+> Nota: [Artigo 12.º, Decreto-Lei n.º 119-A/2021 - Diário da República n.º 246/2021, 1º Suplemento, Série I de 2021-12-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-a-2021-176412619) repristina a vigência do n.º 2 do presente artigo até à efetiva implementação da residência farmacêutica prevista no Decreto-Lei n.º 6/2020, de 24 de fevereiro, ou até 31 de dezembro de 2022, consoante o que ocorra primeiro.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 5/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), em vigor a partir de 2024-01-06
+
+###### Artigo 24.º — Norma revogatória
+
+É revogado o n.º 1 do artigo 9.º, na parte que respeita ao ramo de farmácia, e os artigos 12.º e 13.º do Decreto-Lei n.º 414/91, de 22 de outubro, alterado pelos Decretos-Leis n.os 240/93, de 8 de julho, 241/94, de 22 de setembro, 9/98, de 16 de janeiro, 501/99, de 19 de novembro, e 229/2005, de 29 de dezembro.
+
+###### Artigo 25.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 20 de julho de 2017. - António Luís Santos da Costa - Ricardo Emanuel Martins Mourinho Félix - Adalberto Campos Fernandes.
+
+Promulgado em 12 de agosto de 2017.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 18 de agosto de 2017.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo — (a que se refere o n.º 1 do artigo 15.º)
+
+(ver documento original)

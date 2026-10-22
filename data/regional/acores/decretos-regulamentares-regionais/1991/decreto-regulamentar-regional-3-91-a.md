@@ -1,0 +1,324 @@
+---
+schema_version: '1.0'
+id: pt:dre:478057:por
+title: Decreto Regulamentar Regional n.º 3/91/A
+short_title: null
+summary: Aprova a reestruturação do CATE (Centro de Apoio Tecnológico à Educação)
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Governo Regional - Secretaria Regional da Educação e Cultura - Direcção Regional de Administração
+  Escolar
+proposing_entity: null
+official_number: 3/91/A
+official_date: null
+publication_date: '1991-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 36/1991, Série I-B de 1991-02-13
+  number: '36'
+  series: I
+  supplement: null
+  pages: 695 - 699
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/3/1991/02/13/a/dre/pt/html
+  oj: null
+  dre: '478057'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/3-1991-478057
+  internal: pt:dre:478057:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-478057
+  metadata_url: https://data.dre.pt/eli/decregulreg/3/1991/02/13/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/3-1991-478057
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-01-18T00:00:00Z'
+integrity:
+  source_sha256: 3c8e2fcf63123e63865f2a32f9f57c032febe9e8b87399a5d5f059d5922bc629
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1991/DRE-1991-3-478057.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Apoio Tecnológico à Educação
+- Orgânica
+- Quadro de Pessoal
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:320094:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 22
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 3/91/A
+
+Considerando a importância que as tecnologias educativas assumem, cada vez mais, num ensino moderno, actuante e eficaz;
+
+Considerando que de entre essas técnicas assumem especial relevo os meios áudio-visuais;
+
+Considerando a necessidade de conferir a um organismo regional as competências e atribuições inerentes à investigação, ao desenvolvimento e ao apoio à implementação de novas tecnologias educativas;
+
+Considerando, finalmente, que importa reestruturar, nas suas diversas vertentes, o Centro de Apoio Tecnológico à Educação, por forma que possa cumprir os objectivos para que foi criado:
+
+Assim, e em execução do disposto no artigo 17.º do [Decreto Regional n.º 30/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regional/30-1982-378108), de 28 de Outubro, mantido em vigor pelo artigo 15.º do [Decreto Legislativo Regional n.º 36/88/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/36-1988-480561), de 28 de Novembro, o Governo Regional decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Natureza e atribuições
+
+###### Artigo 1.º — Natureza
+
+1 - O Centro de Apoio Tecnológico à Educação, abreviadamente designado por CATE, é um serviço dependente da Secretaria Regional da Educação e Cultura, que goza de autonomia administrativa.
+
+2 - O CATE, com sede em Ponta Delgada, desenvolve a sua acção em toda a Região Autónoma dos Açores.
+
+###### Artigo 2.º — Delegações
+
+1 - No desenvolvimento da acção educativa, a Secretaria Regional da Educação e Cultura poderá criar delegações do CATE.
+
+2 - A criação e atribuições das delegações referidas no número anterior serão objecto de decreto regulamentar regional.
+
+###### Artigo 3.º — Atribuições
+
+1 - São atribuições do CATE, nomeadamente, as seguintes:
+
+a) Dar apoio e assistência técnica, no seu domínio específico, aos estabelecimentos de educação e ensino da Região e organismos dependentes da Secretaria Regional da Educação e Cultura;
+
+b) Emitir parecer técnico à Secretaria Regional da Educação e Cultura, sobre equipamentos áudio-visuais e de tecnologia educativa em geral;
+
+c) Produzir e distribuir, em colaboração com equipas de trabalho, constituídas para o efeito, meios auxiliares de ensino, tais como materiais áudio-visuais ou escritos, destinados a fins didácticos e culturais;
+
+d) Promover e coordenar acções de formação a pessoal dependente da Secretaria Regional da Educação e Cultura, com vista a uma correcta utilização dos meios áudio-visuais;
+
+e) Produzir programas para emissões de radiodifusão e televisão, assegurando o seu funcionamento e superintendendo na sua emissão, recepção e aproveitamento;
+
+f) Coordenar e apoiar, no âmbito da tecnologia educacional os serviços da Telescola, bem como dar parecer sobre a racionalização dos meios técnicos tendentes à eficácia do ensino à distância.
+
+2 - No desempenho das atribuições a que se refere o número anterior, o CATE poderá alargar a sua acção a outros organismos que o solicitem, mediante autorização prévia da Direcção Regional de Administração Escolar, sob parecer da Direcção Regional de Orientação Pedagógica.
+
+### CAPÍTULO II — Órgãos e serviços
+
+###### Artigo 4.º — Órgãos
+
+São órgãos do CATE:
+
+a) A direcção;
+
+b) O conselho administrativo.
+
+###### Artigo 5.º — Secção administrativa
+
+É criada no CATE uma secção administrativa, competindo-lhe assegurar todo o serviço de expediente geral, arquivo, administração de pessoal, contabilidade, economato, estatística e património.
+
+###### Artigo 6.º — Direcção
+
+1 - O CATE é dirigido por um director e um subdirector, nomeados pelo Secretário Regional da Educação e Cultura, sob proposta do director regional de Administração Escolar.
+
+2 - As funções de director e subdirector serão exercidas em regime de comissão de serviço, nos termos da lei geral.
+
+3 - O director e o subdirector do CATE são equiparados, para todos os efeitos, a director de serviços e chefe de divisão, respectivamente.
+
+###### Artigo 7.º — Competências do director
+
+1 - Compete ao director, em especial:
+
+a) Dirigir, orientar e coordenar todas as actividades do CATE;
+
+b) Representar o CATE;
+
+c) Submeter à apreciação e aprovação das Direcções Regionais de Administração Escolar e Orientação Pedagógica o plano anual de actividades do CATE;
+
+d) Presidir ao conselho administrativo;
+
+e) Desenvolver os estudos necessários à produção e organização de programas e material;
+
+f) Elaborar o regulamento de funcionamento do Centro;
+
+g) Elaborar o regulamento de empréstimo de material e proceder à sua divulgação junto dos estabelecimentos de educação e ensino e outros organismos dependentes da Secretaria Regional da Educação e Cultura;
+
+h) Submeter à apreciação das Direcções Regionais de Administração Escolar e ou Orientação Pedagógica as deliberações que dependem de resolução superior;
+
+i) Enviar trimestralmente às Direcções Regionais de Administração Escolar e Orientação Pedagógica o movimento estatístico relacionado com o funcionamento global do CATE.
+
+2 - Os regulamentos a que se referem as alíneas f) e g) do n.º 1 deste artigo serão aprovados por despacho do Secretário Regional da Educação e Cultura, sob parecer dos directores regionais de Administração Escolar e Orientação Pedagógica.
+
+3 - Compete ao subdirector coadjuvar o director e exercer as respectivas funções nas faltas e impedimentos do titular.
+
+###### Artigo 8.º — Conselho administrativo
+
+1 - O conselho administrativo tem a seguinte constituição:
+
+a) Presidente, que será o director do CATE;
+
+b) Vice-Presidente, que será o subdirector do CATE;
+
+c) Secretário - o chefe de secção.
+
+2 - Na vacatura do lugar de chefe de secção exercerá as funções de secretário o oficial administrativo de mais elevada categoria em exercício de funções.
+
+3 - Compete ao conselho administrativo, designadamente:
+
+a) Apresentar, anualmente, à Direcção Regional de Administração Escolar a proposta de orçamento;
+
+b) Organizar a contabilidade e fiscalizar a sua escrituração, de harmonia com as normas de contabilidade pública;
+
+c) Propor as aquisições necessárias ao funcionamento do CATE;
+
+d) Fiscalizar a exacta aplicação de todas as verbas orçamentadas;
+
+e) Conferir, mensalmente, a situação financeira do CATE, que deverá constar do balancete e da acta;
+
+f) Promover a elaboração e permanente actualização do cadastro dos bens e zelar pela sua manutenção e conservação;
+
+g) Aprovar a conta de gerência e remetê-la para julgamento da Secção Regional dos Açores do Tribunal de Contas, respeitando os prazos legais.
+
+4 - O conselho administrativo reunirá pelo menos uma vez em cada mês do ano civil, mediante convocatória escrita, divulgada com o mínimo de 48 horas de antecedência, salvo casos excepcionais devidamente justificados.
+
+5 - As deliberações serão tomadas por maioria de votos, tendo o presidente, em caso de empate, voto de qualidade.
+
+6 - As deliberações e pareceres do conselho administrativo serão sempre exarados em acta.
+
+7 - O presidente do conselho administrativo poderá suspender a execução de qualquer deliberação do mesmo conselho, desde que a considere ilegal ou inconveniente.
+
+8 - Quando usar desta faculdade, o presidente submetê-la-á à apreciação do director regional de Administração Escolar no prazo de 48 horas e com a devida fundamentação.
+
+9 - A decisão do director regional de Administração Escolar deverá ser proferida no prazo de 15 dias a partir da data da comunicação, sob pena de se considerar levantada a suspensão.
+
+### CAPÍTULO III — Gestão financeira
+
+###### Artigo 9.º — Gestão financeira
+
+A gestão financeira do CATE obedecerá aos princípios gerais estabelecidos na lei para a administração dos organismos dotados de autonomia administrativa.
+
+###### Artigo 10.º — Receitas
+
+1 - Constituem receitas do CATE as dotações que lhe forem atribuídas no Orçamento da Região.
+
+2 - O produto da venda de publicações editadas pelo CATE, bem como de material por este produzido e as receitas provenientes da prestação de serviços a entidades públicas ou particulares devem ser entregues nos cofres da Região, nos termos da legislação em vigor.
+
+###### Artigo 11.º — Despesas
+
+Constituem despesas do CATE as que resultem de encargos e responsabilidades decorrentes da prossecução das respectivas atribuições, observados os preceitos legais aplicáveis.
+
+###### Artigo 12.º — Prestação de contas
+
+O conselho administrativo deverá informar a Direcção Regional de Administração Escolar, mensalmente, de toda a execução orçamental, nos termos das orientações emanadas para o efeito.
+
+### CAPÍTULO IV — Do pessoal
+
+###### Artigo 13.º — Quadro de pessoal
+
+1 - O CATE dispõe do quadro de pessoal anexo ao presente diploma, que dele faz parte integrante.
+
+2 - O quadro de pessoal do CATE compreende os seguintes grupos profissionais:
+
+a) Pessoal dirigente;
+
+b) Pessoal de chefia;
+
+c) Pessoal técnico superior;
+
+d) Pessoal técnico;
+
+e) Pessoal de informática;
+
+f) Pessoal técnico-profissional;
+
+g) Pessoal administrativo;
+
+h) Pessoal operário;
+
+i) Pessoal auxiliar.
+
+###### Artigo 14.º — Condições gerais de ingresso e acesso
+
+As condições de ingresso e acesso do pessoal do CATE são as estabelecidas no [Decreto-Lei n.º 248/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1985-183426), de 15 de Julho, adaptado à Região pelo Decreto Legislativo Regional n.º 13/86/A, de 21 de Abril, as previstas neste diploma e na legislação geral e regional complementar.
+
+###### Artigo 15.º — Operador de meios áudio-visuais
+
+1 - O ingresso na carreira de operador de meios áudio-visuais far-se-á de entre indivíduos com o 9.º ano de escolaridade e preparação profissional adequada.
+
+2 - Enquanto não forem implementados na Região os cursos técnico-profissionais adequados ao desempenho daquelas funções, o recrutamento para a categoria de ingresso far-se-á de entre indivíduos com o 9.º ano de escolaridade e dois anos de experiência comprovada na área em que se pretende recrutar.
+
+###### Artigo 16.º — Pessoal de BAD
+
+As condições de recrutamento, ingresso e acesso do pessoal de biblioteca, arquivo e documentação (BAD) são as estabelecidas no [Decreto-Lei n.º 280/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1979-377699), de 10 de Agosto.
+
+###### Artigo 17.º — Pessoal de informática
+
+As condições de recrutamento, ingresso e acesso do pessoal de informática são as estabelecidas no [Decreto-Lei n.º 110-A/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-a-1980-372873), de 10 de Maio.
+
+###### Artigo 18.º — Operador de reprografia
+
+Os operadores de reprografia serão recrutados de entre indivíduos habilitados com a escolaridade obrigatória e formação adequada ao desempenho das respectivas funções.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 19.º — Transição de pessoal
+
+A transição de pessoal far-se-á nos termos da lei geral.
+
+###### Artigo 20.º — Reclassificação
+
+1 - O motorista de ligeiros que exerce funções de operador de offset é reclassificado na carreira de operador de offset em escalão e índice correspondente ao que se encontra integrado na actual carreira.
+
+2 - A reclassificação prevista no número anterior será operada por nomeação, sujeita a visto da Secção Regional dos Açores do Tribunal de Contas.
+
+###### Artigo 21.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar Regional n.º 27/82/A](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/27-1982-394126), de 21 de Julho.
+
+###### Artigo 22.º — Entrada em vigor
+
+O presente diploma entra em vigor 30 dias após a sua publicação.
+
+Aprovado em Conselho do Governo Regional, em São Roque do Pico, em 23 de Novembro de 1990.
+
+**O Presidente do Governo Regional, João Bosco Mota Amaral.**
+
+**Assinado em Angra do Heroísmo em 10 de Janeiro de 1991.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Vasco Joaquim Rocha Vieira.**
+
+## ANEXO — Quadro de pessoal a que se refere o artigo 13.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf))](https://files.diariodarepublica.pt/1s/1991/02/036b00/06950699.pdf)

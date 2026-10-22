@@ -1,0 +1,675 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:616776:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-968356664",
+ "dre_path": "/dr/detalhe/decreto-lei/8-2010-616776",
+ "source_lastmod": "2026-01-16",
+ "versions": [
+  {
+   "date": "2010-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "968579275",
+    "968579475",
+    "968579675",
+    "968579875",
+    "968580075",
+    "968580275",
+    "968580475",
+    "968580675",
+    "968580875",
+    "968581075",
+    "968581275",
+    "968581675",
+    "968581875",
+    "968582075",
+    "968582275",
+    "968582475",
+    "968582875",
+    "968583075",
+    "968583475",
+    "968583675",
+    "968583875",
+    "968584075",
+    "968584275",
+    "968584475",
+    "968584675",
+    "968584875",
+    "968585075",
+    "968585275",
+    "968585475",
+    "968585675",
+    "968585875",
+    "968586075",
+    "968586275",
+    "968586475",
+    "968586675",
+    "968586875",
+    "968587075",
+    "968587275",
+    "968587475",
+    "968587675",
+    "968587875",
+    "968588075",
+    "968588275",
+    "968588475"
+   ]
+  },
+  {
+   "date": "2011-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:280268:por",
+     "title": "Decreto-Lei n.º 22/2011",
+     "published": "2011-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/22-2011-280268"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º",
+    "Elimina Secção I",
+    "Elimina Secção II",
+    "Elimina Secção III",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "968579275",
+    "968579475",
+    "968579675",
+    "968579875",
+    "968580075",
+    "968580275",
+    "1006421934",
+    "968580675",
+    "968580875",
+    "968581075",
+    "1006421938",
+    "1011550492",
+    "1011550497",
+    "1011550502",
+    "1011550507",
+    "1011550512",
+    "1011550517",
+    "1011550522",
+    "1011550527",
+    "1011550532",
+    "968583875",
+    "968584075",
+    "968584275",
+    "968584475",
+    "968584675",
+    "968584875",
+    "968585075",
+    "968585275",
+    "968585475",
+    "968585675",
+    "968585875",
+    "968586075",
+    "968586275",
+    "968586475",
+    "968586675",
+    "968586875",
+    "968587075",
+    "968587275",
+    "968587475",
+    "968587675",
+    "968587875",
+    "968588075",
+    "968588275",
+    "968588475"
+   ]
+  },
+  {
+   "date": "2015-08-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69879425:por",
+     "title": "Decreto-Lei n.º 136/2015",
+     "published": "2015-07-28",
+     "dre_path": "/dr/detalhe/decreto-lei/136-2015-69879425"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "968579275",
+    "968579475",
+    "1020020977",
+    "968579875",
+    "968580075",
+    "968580275",
+    "1006421934",
+    "1020020978",
+    "968580875",
+    "968581075",
+    "1006421938",
+    "1011550492",
+    "1011550497",
+    "1011550502",
+    "1011550507",
+    "1011550512",
+    "1011550517",
+    "1011550522",
+    "1011550527",
+    "1011550532",
+    "968583875",
+    "968584075",
+    "968584275",
+    "968584475",
+    "968584675",
+    "968584875",
+    "968585075",
+    "968585275",
+    "968585475",
+    "968585675",
+    "968585875",
+    "968586075",
+    "968586275",
+    "968586475",
+    "968586675",
+    "968586875",
+    "968587075",
+    "968587275",
+    "968587475",
+    "968587675",
+    "968587875",
+    "968588075",
+    "968588275",
+    "968588475"
+   ]
+  }
+ ],
+ "fragments": {
+  "968579275": {
+   "fragment_id": "968579175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Os problemas de saúde mental, aliados a situações de demência que, em parte, resultam do aumento da esperança média de vida e do envelhecimento da população, importam severas consequências para a vida das famílias. Por isso, a saúde mental constitui uma das prioridades das políticas sociais e de saúde do XVIII Governo Constitucional, cujo programa prevê a criação de novas respostas de cuidados continuados integrados de saúde mental, em articulação com a segurança social, em função dos diferentes níveis de autonomia das pessoas com doença mental.\n\nTendo sido política iniciada no âmbito do XVII Governo Constitucional, nomeadamente com o Plano Nacional de Saúde Mental 2007-2016, aprovado pela Resolução do Conselho de Ministros n.º 49/2008, de 6 de Março, são agora concretizadas medidas para a organização e coordenação de unidades e equipas multidisciplinares com vista à prestação de apoio psicossocial e de cuidados médicos, ao reforço das competências, à reabilitação, à recuperação e integração social das pessoas com incapacidade psicossocial, bem como à promoção e reforço das capacidades das famílias que lidam com estas situações.\n\nAssim, são criadas estruturas multidisciplinares de cuidados continuados integrados de saúde mental, adaptadas às características de grupos etários específicos, em articulação com a rede nacional de cuidados continuados integrados (RNCC) e com os serviços locais de saúde mental (SLSM), previstos no Decreto-Lei n.º 304/2009, de 22 de Outubro, tendo também presente a lei de Saúde Mental, aprovada pela Lei n.º 36/98, de 24 de Julho, passando a prestação de cuidados de saúde mental a ser assegurada por equipas e unidades multidisciplinares habilitadas a responder, de forma coordenada, aos aspectos médicos psicológicos, sociais, de enfermagem e de reabilitação.\n\nEstas estruturas multidisciplinares que prestam cuidados continuados integrados de saúde mental são de três tipos: equipas de apoio domiciliário, unidades sócio-ocupacionais e unidades residenciais.\n\nAs equipas de apoio domiciliário actuam nos domicílios, auxiliam na supervisão e gestão da medicação e asseguram o apoio regular nos cuidados pessoais e nas actividades da vida diária, gestão doméstica e financeira, compras, confecção de alimentos, tratamento de roupas, manutenção da habitação, utilização dos transportes públicos e outros recursos comunitários.\n\nAs unidades sócio-ocupacionais localizam-se na comunidade e têm como destinatários pessoas com moderado e reduzido grau de incapacidade psicossocial, com disfuncionalidades na área relacional, ocupacional e de integração social. Estas unidades têm por finalidade a promoção da autonomia, a estabilidade emocional e a participação social, com vista à integração social, familiar e profissional.\n\nPor último, as unidades residenciais, que apresentam diferentes níveis de intensidade, localizam-se preferencialmente na comunidade e asseguram a prestação de serviços médicos e sociais, são de quatro tipos: as residências de treino de autonomia, as residências autónomas de saúde mental, as residências de apoio moderado e as residências de apoio máximo.\n\nAs residências de treino de autonomia têm por finalidade a reintegração social e familiar das pessoas com incapacidade psicossocial, preparando-as para o regresso ao domicílio. As residências autónomas de saúde mental têm por finalidade proporcionar suporte residencial com vista à integração em actividades de socialização e de formação profissional ou emprego, a melhoria da qualidade de vida e maior participação social. As residências de apoio moderado têm por finalidade proporcionarem cuidados que permitam a manutenção e o desenvolvimento das competências do doente, proporcionando-lhe melhor qualidade de vida e promovendo a integração sócio-ocupacional. E, finalmente, as residências de apoio máximo destinam-se a pessoas com elevado grau de incapacidade e têm por finalidade proporcionar cuidados que previnam e retardem o agravamento da situação de dependência.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Comissão Nacional de Protecção de Dados.\n\nForam ouvidos, a título facultativo, a Federação Nacional de Entidades de Reabilitação de Doentes Mentais, os institutos das ordens religiosas, a Ordem dos Médicos, a Ordem dos Enfermeiros, a Federação Nacional dos Médicos e o Sindicato Independente dos Médicos.\n\nForam promovidas as audições, a título facultativo, à União das Misericórdias Portuguesas, à Confederação Nacional das Instituições de Solidariedade Social, à Federação Nacional de Associações de Famílias Pró Saúde Mental, ao Sindicato dos Enfermeiros Portugueses, à Confederação Geral de Trabalhadores Portugueses, à União Geral de Trabalhadores e ao Conselho Nacional de Saúde Mental.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 48/90, de 24 de Agosto, e nos termos das alíneas a) e c) do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "968579475": {
+   "fragment_id": "968579375",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "968579675": {
+   "fragment_id": "968579575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei cria um conjunto de unidades e equipas de cuidados continuados integrados de saúde mental, destinado às pessoas com doença mental grave de que resulte incapacidade psicossocial e que se encontrem em situação de dependência, independentemente da idade, adiante designadas como pessoas com incapacidade psicossocial.\n\n2 - O referido conjunto de unidades e equipas de cuidados continuados integrados específicas de saúde mental inclui unidades residenciais, unidades sócio-ocupacionais e equipas de apoio domiciliário e articula-se com os serviços locais de saúde mental (SLSM) e com a rede nacional de cuidados continuados integrados (RNCCI)."
+  },
+  "968579875": {
+   "fragment_id": "968579775",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Autonomia», o conjunto de competências necessárias para o desempenho das actividades da vida diária, da vida social e relacional bem como para a tomada de decisões independentes ao longo do percurso da vida;\n\nb) «Cuidador», a pessoa adulta, membro ou não da família, que cuida da pessoa com incapacidade psicossocial, com ou sem remuneração, no sentido de realizar e proporcionar as actividades da vida diária com vista a minorar ou até mesmo suprir o deficit de autocuidado da pessoa que cuida;\n\nc) «Cuidados continuados integrados de saúde mental», o conjunto de intervenções sequenciais de saúde mental e ou de apoio social, decorrente de avaliação conjunta, centrado na reabilitação e recuperação das pessoas com incapacidade psicossocial, entendida como o processo de reabilitação e de apoio social, activo e contínuo, que visa a promoção da autonomia e a melhoria da funcionalidade da pessoa em situação de dependência com vista à sua integração familiar e social;\n\nd) «Dependência», a situação em que se encontra a pessoa com incapacidade psicossocial, que, por falta ou perda de autonomia psíquica, ou intelectual ou física, resultante de doença mental grave, não consegue, por si só, realizar as actividades da vida diária;\n\ne) «Doença mental grave», doença psiquiátrica, que, pelas características e evolução do seu quadro clínico, afecta de forma prolongada ou contínua a funcionalidade da pessoa;\n\nf) «Estrutura modular», a autonomização de um espaço físico dentro de uma estrutura física comum, de forma a recriar um ambiente próprio, tipo domicílio, o mais próximo do ambiente familiar;\n\ng) «Funcionalidade», a capacidade da pessoa com doença mental grave, em cada momento, para realizar tarefas de subsistência, se relacionar com o meio envolvente e participar na vida social;\n\nh) «Grau elevado de incapacidade psicossocial», a situação objectiva da pessoa com incapacidade psicossocial que apresente graves limitações funcionais ou cognitivas, com necessidade de apoio na higiene, alimentação e cuidados pessoais, na gestão do dinheiro e da medicação, reduzida mobilidade na comunidade, dificuldades relacionais acentuadas, incapacidade para reconhecer situações de perigo e desencadear procedimentos preventivos de segurança do próprio e de terceiros;\n\ni) «Grau moderado de incapacidade psicossocial», a situação objectiva da pessoa com incapacidade psicossocial que apresente limitações cognitivas ou funcionais medianas, com necessidade de supervisão regular na higiene, alimentação e cuidados pessoais, nas actividades de vida diária e doméstica, na gestão do dinheiro e da medicação, com dificuldades relacionais significativas, mas não apresentando disfuncionalidades a nível da mobilidade na comunidade e da capacidade para reconhecer situações de perigo e desencadear procedimentos preventivos de segurança do próprio e de terceiros;\n\nj) «Grau reduzido de incapacidade psicossocial», a situação objectiva da pessoa com incapacidade psicossocial que apresente limitações cognitivas ligeiras, com necessidade de supervisão periódica na gestão do dinheiro e da medicação e da organização da vida social e relacional, não apresentando disfuncionalidades a nível da mobilidade na comunidade, da autonomia funcional, da autonomia na higiene, alimentação e cuidados pessoais, nas actividades de vida diária e doméstica e da capacidade para reconhecer situações de perigo e desencadear procedimentos preventivos de segurança do próprio e de terceiros;\n\nl) «Incapacidade psicossocial», a situação objectiva de redução total ou parcial da capacidade da pessoa com doença mental grave para desempenhar as actividades da vida diária, no contexto social, familiar e profissional;\n\nm) «Reabilitação psicossocial», o processo de desenvolvimento das capacidades psíquicas remanescentes e de aquisição de novas competências para o autocuidado, actividades de vida diária, relacionamento interpessoal, integração social e profissional e participação na comunidade;\n\nn) «Recuperação», o processo que visa alcançar a autodeterminação e a procura de um caminho pessoal por parte das pessoas com problemas de saúde mental;\n\no) «Treino da autonomia», o conjunto de intervenções psicossociais destinado a promover a aquisição e ou a manutenção de competências para o desempenho, o mais independente possível, das actividades da vida diária e social."
+  },
+  "968580075": {
+   "fragment_id": "968579975",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nOs cuidados continuados integrados de saúde mental são desenvolvidos de acordo com os seguintes princípios:\n\na) Consideração das necessidades globais, que permita o desenvolvimento das capacidades pessoais e a promoção da vida independente e de um papel activo na comunidade;\n\nb) Respeito pela privacidade, confidencialidade e autodeterminação através do reconhecimento das decisões informadas acerca da própria vida;\n\nc) Respeito pelos direitos civis, políticos, económicos, sociais e culturais, para o efectivo exercício da cidadania plena;\n\nd) Respeito pela igualdade e proibição de discriminação com base no género, origem étnica ou social, idade, religião, ideologia ou outro qualquer estatuto;\n\ne) Promoção de relações interpessoais significativas e das redes de suporte social informal;\n\nf) Envolvimento e participação dos familiares e de e outros cuidadores;\n\ng) Integração das unidades em contextos comunitários inclusivos e não estigmatizantes;\n\nh) Localização preferencial das unidades no âmbito territorial dos SLSM, de forma a facilitar a articulação e a continuidade de cuidados;\n\ni) Equidade no acesso e mobilidade entre os diferentes tipos de unidades e equipas;\n\nj) Eficiência e qualidade na prestação dos serviços."
+  },
+  "968580275": {
+   "fragment_id": "968580175",
+   "type": 11,
+   "heading": "Artigo 4.º — Objectivos das unidades e equipas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objectivos das unidades e equipas\n\nConstituem objectivos das unidades e equipas de cuidados continuados integrados de saúde mental:\n\na) A reabilitação e autonomia das pessoas com incapacidade psicossocial;\n\nb) A manutenção ou reforço das competências e capacidades das pessoas com incapacidade psicossocial, com vista ao desenvolvimento do seu processo de recuperação;\n\nc) A integração familiar e social das pessoas com incapacidade psicossocial;\n\nd) A promoção de vida na comunidade tão independente quanto possível das pessoas com incapacidade psicossocial que residam nos hospitais psiquiátricos, instituições psiquiátricas do sector social e departamentos ou serviços de psiquiatria de hospitais;\n\ne) A promoção e o reforço das capacidades das famílias e outros cuidadores das pessoas com incapacidade psicossocial, habilitando-as a lidar com as situações daí decorrentes, facilitando e incentivando o acompanhamento familiar e promovendo a sua participação e envolvimento na prestação de cuidados."
+  },
+  "968580475": {
+   "fragment_id": "968580375",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de sigilo e responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dever de sigilo e responsabilidade civil\n\n1 - Estão obrigados ao dever de sigilo profissional todos os profissionais que, nos termos do presente decreto-lei, directa ou indirectamente, tomem conhecimento de informações relativas à situação clínica das pessoas com as incapacidades mencionadas no artigo 2.º\n\n2 - As unidades e equipas previstas no presente decreto-lei, bem como o pessoal que as integra, respondem pelos danos causados pelas pessoas com as incapacidades mencionadas no artigo 2.º, nos termos do regime geral de responsabilidade civil e criminal."
+  },
+  "968580675": {
+   "fragment_id": "968580575",
+   "type": 11,
+   "heading": "Artigo 6.º — Coordenação e organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Coordenação e organização\n\n1 - A coordenação das unidades e equipas de cuidados continuados integrados de saúde mental é assegurada a nível nacional, sem prejuízo da coordenação operativa, regional e local nos termos a definir, quanto à constituição e competências das estruturas em causa, pela portaria referida no número seguinte.\n\n2 - A coordenação e organização das unidades e equipas de cuidados continuados integrados de saúde mental obedecem a critérios de complementaridade e ao princípio do respeito da prevalência do interesse da pessoa incapaz e são definidas por portaria dos membros do Governo responsáveis pelas áreas do trabalho, da solidariedade social e da saúde, de acordo com os princípios previstos no artigo 3.º, abrangendo, nomeadamente:\n\na) A coordenação a nível nacional, regional e local e a necessária articulação com os parceiros que colaboram na prestação de cuidados continuados de saúde mental, bem como com outras entidades que considerem pertinentes para o exercício das suas competências;\n\nb) As especificidades inerentes aos serviços prestados em cada tipologia, assim como os técnicos necessários, nos termos do n.º 4 do artigo 8.º;\n\nc) A definição do instrumento único de avaliação do grau de incapacidade psicossocial, nos termos do n.º 2 do artigo 19.º;\n\nd) A definição do instrumento único de avaliação da dependência, nos termos do n.º 3 do artigo 22.º;\n\ne) Os modelos de promoção e gestão da qualidade para aplicação obrigatória em cada uma das unidades e equipas, nos termos do artigo 25.º;\n\nf) O processo periódico de avaliação das unidades e equipas, nos termos do artigo 26.º;\n\ng) A formação inicial e contínua dos recursos humanos das unidades e equipas, nos termos do n.º 1 do artigo 27.º;\n\nh) A cooperação e colaboração entre as diversas unidades e equipas de cuidados continuados integrados de saúde mental."
+  },
+  "968580875": {
+   "fragment_id": "968580775",
+   "type": 11,
+   "heading": "Artigo 7.º — Articulação com os serviços locais de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Articulação com os serviços locais de saúde mental\n\n1 - As unidades e equipas de cuidados continuados integrados de saúde mental funcionam em articulação com os SLSM, previstos no artigo 10.º do Decreto-Lei n.º 35/99, de 5 de Fevereiro.\n\n2 - Nos termos do disposto no número anterior, os SLSM devem assegurar, designadamente:\n\na) A referenciação das pessoas com incapacidade psicossocial para as unidades e equipas de cuidados continuados integrados de saúde mental, de acordo com o diploma referido no número anterior;\n\nb) A prestação de cuidados de psiquiatria e de saúde mental às pessoas com incapacidade psicossocial integradas nas unidades e equipas, nos termos previstos no presente decreto-lei."
+  },
+  "968581075": {
+   "fragment_id": "968580975",
+   "type": 1,
+   "heading": "Capítulo II — Tipologias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Tipologias"
+  },
+  "968581275": {
+   "fragment_id": "968581175",
+   "type": 11,
+   "heading": "Artigo 8.º — Tipologia das unidades e equipas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Tipologia das unidades e equipas\n\n1 - A prestação de cuidados continuados integrados de saúde mental é assegurada por:\n\na) Unidades residenciais;\n\nb) Unidades sócio-ocupacionais;\n\nc) Equipas de apoio domiciliário.\n\n2 - Constituem unidades residenciais:\n\na) Residências de treino de autonomia;\n\nb) Residências autónomas de saúde mental;\n\nc) Residências de apoio moderado;\n\nd) Residências de apoio máximo.\n\n3 - As diferentes tipologias são adaptadas às características de grupos etários específicos, nomeadamente da infância e adolescência.\n\n4 - As especificidades inerentes aos serviços prestados em cada tipologia, assim como os técnicos necessários, são fixadas na portaria prevista no artigo 6.º"
+  },
+  "968581675": {
+   "fragment_id": "968581575",
+   "type": 11,
+   "heading": "Artigo 9.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Caracterização\n\n1 - As unidades residenciais têm obrigatoriamente direcção técnica, função desempenhada por técnico da área de saúde mental ou área social.\n\n2 - As unidades residenciais apresentam diversos níveis de intensidade e periodicidade e asseguram, designadamente, os seguintes serviços, de acordo com os níveis de complexidade das diferentes tipologias:\n\na) Acesso a cuidados médicos gerais e da especialidade de psiquiatria;\n\nb) Cuidados de enfermagem gerais e especializados em saúde mental e psiquiátrica;\n\nc) Acesso e prestação a dispositivos médicos e meios de diagnóstico e terapêutica;\n\nd) Apoio psicossocial, de reabilitação e de integração na comunidade;\n\ne) Apoio a familiares e outros cuidadores;\n\nf) Actividades de vida diária e de lazer;\n\ng) Apoio de pessoal auxiliar;\n\nh) Transporte de doentes residentes para exames, consultas e tratamentos."
+  },
+  "968581875": {
+   "fragment_id": "968581775",
+   "type": 11,
+   "heading": "Artigo 10.º — Residência de treino de autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Residência de treino de autonomia\n\n1 - A residência de treino de autonomia é uma unidade residencial, localizada preferencialmente na comunidade, destinada a desenvolver programas de reabilitação psicossocial para pessoas com moderado e reduzido grau de incapacidade psicossocial, estabilizadas clinicamente e que conservam alguma funcionalidade.\n\n2 - A residência de treino de autonomia tem por finalidade a reintegração social e familiar das pessoas com incapacidade psicossocial, preparando-as para o regresso ao domicílio ou, em caso de ausência de suporte familiar ou social adequado, para a admissão em outras unidades e equipas.\n\n3 - A residência de treino de autonomia pode abranger as situações de continuidade de cuidados subjacentes ao processo de tratamento, designadamente da fase de consolidação da estabilização clínica e início do processo de reabilitação psicossocial, na sequência de internamento hospitalar originado por situação clínica aguda, recorrência ou descompensação clínica.\n\n4 - A permanência na residência de treino de autonomia tem uma duração máxima de 12 meses consecutivos.\n\n5 - A capacidade das residências de treino de autonomia é de 6 a 12 lugares, com estrutura modular até 6 pessoas em capacidade máxima."
+  },
+  "968582075": {
+   "fragment_id": "968581975",
+   "type": 11,
+   "heading": "Artigo 11.º — Residência autónoma de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Residência autónoma de saúde mental\n\n1 - A residência autónoma de saúde mental é uma estrutura residencial, localizada na comunidade e destinada a pessoas com um reduzido grau de incapacidade psicossocial, clinicamente estabilizadas, sem suporte familiar ou social adequado.\n\n2 - A residência autónoma de saúde mental tem por finalidade proporcionar suporte residencial que permita a integração em actividades de socialização e de formação profissional ou emprego, promovendo melhor qualidade de vida e maior participação social.\n\n3 - A capacidade máxima das residências autónomas é de sete lugares."
+  },
+  "968582275": {
+   "fragment_id": "968582175",
+   "type": 11,
+   "heading": "Artigo 12.º — Residência de apoio moderado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Residência de apoio moderado\n\n1 - A residência de apoio moderado é uma estrutura residencial, localizada na comunidade, destinada a pessoas com moderado grau de incapacidade psicossocial, clinicamente estabilizadas, impossibilitadas de serem tratadas no domicílio por ausência de suporte familiar ou social adequado.\n\n2 - A residência de apoio moderado tem por finalidade proporcionar cuidados que permitam a manutenção e o desenvolvimento da funcionalidade existente, proporcionando melhor qualidade de vida e promovendo a integração sócio-ocupacional.\n\n3 - A residência de apoio moderado destina-se a pessoas com necessidade de apoio por um período imprevisível de tempo e em situações pontuais para descanso do principal cuidador até 30 dias por ano.\n\n4 - A capacidade das residências de apoio moderado é de 12 a 16 lugares com estrutura modular de 6 a 8 pessoas."
+  },
+  "968582475": {
+   "fragment_id": "968582375",
+   "type": 11,
+   "heading": "Artigo 13.º — Residência de apoio máximo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Residência de apoio máximo\n\n1 - A residência de apoio máximo é uma estrutura residencial, localizada na comunidade, destinada a pessoas clinicamente estabilizadas com elevado grau de incapacidade psicossocial, impossibilitadas de serem tratadas no domicílio por ausência de suporte familiar ou social adequado.\n\n2 - A residência de apoio máximo tem por finalidade proporcionar cuidados que previnam e retardem o agravamento da situação de dependência.\n\n3 - A residência de apoio máximo destina-se a pessoas com necessidade de apoio por um período imprevisível de tempo e em situações pontuais para descanso do principal cuidador até 30 dias por ano.\n\n4 - A capacidade das residências de apoio máximo é de 18 a 32 lugares, com estrutura modular de 6 a 8 pessoas."
+  },
+  "968582875": {
+   "fragment_id": "968582775",
+   "type": 11,
+   "heading": "Artigo 14.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caracterização\n\n1 - A unidade sócio-ocupacional localiza-se na comunidade, em espaço físico próprio, sendo destinada a pessoas com moderado e reduzido grau de incapacidade psicossocial, clinicamente estabilizadas, mas com disfuncionalidades na área relacional, ocupacional e de integração social.\n\n2 - A unidade sócio-ocupacional tem por finalidade a promoção de autonomia, a estabilidade emocional e a participação social, com vista à integração social, familiar e profissional.\n\n3 - A unidade sócio-ocupacional funciona, no mínimo, oito horas por dia, nos dias úteis.\n\n4 - A capacidade da unidade sócio-ocupacional é de 30 lugares diários.\n\n5 - As unidades sócio-ocupacionais têm uma direcção técnica, cuja função é desempenhada por técnico da área de saúde mental ou área social."
+  },
+  "968583075": {
+   "fragment_id": "968582975",
+   "type": 11,
+   "heading": "Artigo 15.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Serviços\n\nA unidade sócio-ocupacional assegura, designadamente, os seguintes serviços:\n\na) Apoio e reabilitação psicossocial e nas actividades de vida diária;\n\nb) Apoio sócio-ocupacional, incluído convívio e lazer;\n\nc) Supervisão na gestão da medicação;\n\nd) Apoio aos familiares e outros cuidadores com vista à reintegração familiar;\n\ne) Apoio de grupos de auto-ajuda;\n\nf) Apoio e encaminhamento para serviços de formação e de integração profissional;\n\ng) Promoção de actividades sócio-culturais e desportivas em articulação com as autarquias, associações culturais, desportivas e recreativas ou outras estruturas da comunidade."
+  },
+  "968583475": {
+   "fragment_id": "968583375",
+   "type": 11,
+   "heading": "Artigo 16.º — Caracterização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Caracterização\n\n1 - A equipa de apoio domiciliário em cuidados continuados integrados de saúde mental desenvolve as actividades necessárias de forma a:\n\na) Maximizar a autonomia da pessoa com incapacidade psicossocial;\n\nb) Reforçar a sua rede de suporte social através da promoção de relações interpessoais significativas;\n\nc) Melhorar a sua integração social e o acesso aos recursos comunitários;\n\nd) Prevenir internamentos hospitalares e admissões em unidades residenciais;\n\ne) Sinalizar e encaminhar situações de descompensação para os SLSM;\n\nf) Apoiar a participação das famílias e outros cuidadores na prestação de cuidados no domicílio.\n\n2 - As equipas de apoio domiciliário podem estar vinculadas e ser coordenadas tecnicamente por uma unidade residencial, uma unidade sócio-ocupacional, um agrupamento de centros de saúde (ACES) ou um SLSM."
+  },
+  "968583675": {
+   "fragment_id": "968583575",
+   "type": 11,
+   "heading": "Artigo 17.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviços\n\nA equipa de apoio domiciliário assegura, designadamente, os seguintes serviços:\n\na) Acesso a apoio multiprofissional de saúde mental;\n\nb) Envolvimento dos familiares e outros cuidadores, quando necessário;\n\nc) Promoção da autonomia, através do apoio regular nos cuidados pessoais e nas actividades da vida diária, gestão doméstica e financeira, compras, confecção de alimentos, tratamento de roupas, manutenção da habitação, utilização dos transportes públicos e outros recursos comunitários;\n\nd) Supervisão na gestão da medicação;\n\ne) Promoção do acesso a actividades ocupacionais, de convívio ou de lazer."
+  },
+  "968583875": {
+   "fragment_id": "968583775",
+   "type": 1,
+   "heading": "Capítulo III — Acesso, ingresso e mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Acesso, ingresso e mobilidade"
+  },
+  "968584075": {
+   "fragment_id": "968583975",
+   "type": 11,
+   "heading": "Artigo 18.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Acesso\n\nSão destinatários das unidades e equipas previstas no presente decreto-lei as pessoas com incapacidade psicossocial e necessidade de cuidados continuados integrados de saúde mental que:\n\na) Se encontrem a viver na comunidade;\n\nb) Tenham alta das unidades de agudos dos hospitais psiquiátricos, das instituições psiquiátricas do sector social ou dos departamentos e serviços de psiquiatria e pedopsiquiatria dos hospitais;\n\nc) Tenham alta das unidades de internamento de longa duração, públicas ou privadas;\n\nd) Sejam referenciadas pelos SLSM."
+  },
+  "968584275": {
+   "fragment_id": "968584175",
+   "type": 11,
+   "heading": "Artigo 19.º — Ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ingresso\n\n1 - A admissão nas unidades e equipas é determinada pela respectiva equipa coordenadora, sob proposta dos SLSM ou das instituições psiquiátricas do sector social.\n\n2 - Para efeitos da proposta de ingresso nas unidades e equipas, o grau de incapacidade psicossocial é determinado através de um instrumento único de avaliação, definido na portaria prevista no artigo 6.º"
+  },
+  "968584475": {
+   "fragment_id": "968584375",
+   "type": 11,
+   "heading": "Artigo 20.º — Mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Mobilidade\n\n1 - Esgotado o prazo de internamento fixado e não sendo atingidos os objectivos terapêuticos, deve o responsável da unidade ou equipa preparar a saída, em articulação com a respectiva equipa coordenadora e o SLSM, tendo em vista o ingresso da pessoa na unidade ou equipa mais adequada, procurando atingir a melhoria ou a recuperação, ganhos visíveis na autonomia ou bem-estar e na qualidade da vida.\n\n2 - A preparação da saída, a que se refere o número anterior, deve ser iniciada com uma antecedência suficiente que permita a elaboração de informação clínica e social, que habilite a elaboração do plano individual de cuidados, bem como a sequencialidade da prestação de cuidados, aquando do ingresso noutra unidade ou equipa.\n\n3 - Sempre que necessário, considerando a natureza do caso e a condição da pessoa, deve ser dado aos familiares e outros cuidadores conhecimento dos procedimentos previstos no número anterior."
+  },
+  "968584675": {
+   "fragment_id": "968584575",
+   "type": 1,
+   "heading": "Capítulo IV — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Organização"
+  },
+  "968584875": {
+   "fragment_id": "968584775",
+   "type": 11,
+   "heading": "Artigo 21.º — Unidades de cuidados continuados integrados de saúde mental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Unidades de cuidados continuados integrados de saúde mental\n\n1 - As unidades de cuidados continuados integrados de saúde mental (UCCISM) são criadas por despacho dos membros do Governo responsáveis pelas áreas do trabalho, da solidariedade social e da saúde, a partir da adaptação ou reconversão de estruturas já existentes, ou a criar, vocacionadas para dar resposta exclusiva a situações específicas de incapacidade psicossocial.\n\n2 - Em função das necessidades e com vista à racionalização e coordenação dos recursos locais, as UCCISM podem integrar mais que uma tipologia, desde que assegurem os espaços, equipamentos e outros recursos específicos de cada resposta, sem prejuízo da eficaz e eficiente prestação continuada e integrada de cuidados.\n\n3 - As UCCISM, segundo as características e o volume de necessidades, podem diferenciar-se de acordo com diferentes patologias e organizar-se internamente atendendo aos graus de dependência das pessoas."
+  },
+  "968585075": {
+   "fragment_id": "968584975",
+   "type": 11,
+   "heading": "Artigo 22.º — Instrumentos de utilização comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Instrumentos de utilização comum\n\n1 - A gestão das unidades e equipas assenta num sistema de informação.\n\n2 - Cada unidade ou serviço deve dispor de um processo individual de cuidados continuados integrados da pessoa em situação de incapacidade psicossocial, do qual deve constar:\n\na) O registo de admissão;\n\nb) As informações de alta;\n\nc) O diagnóstico de necessidades;\n\nd) O plano individual de intervenção;\n\ne) O registo de avaliação semanal e eventual aferição do plano individual de intervenção.\n\n3 - O diagnóstico da situação de incapacidade psicossocial constitui o suporte da definição dos planos individuais de intervenção, obedecendo a um instrumento único de avaliação da dependência, definido na portaria prevista no artigo 6.º\n\n4 - Os instrumentos de utilização comum devem permitir a gestão uniforme dos diferentes níveis de coordenação das unidades e equipas.\n\n5 - Os dados pessoais, incluindo clínicos, referidos no n.º 2 são introduzidos em suporte informático, só podendo ser tratados por profissionais de saúde ou outros técnicos também sujeitos a sigilo profissional.\n\n6 - As bases de dados a constituir para a finalidade prevista no n.º 2 são criadas, desenvolvidas e mantidas, incluindo o seu necessário interface com as bases de dados da segurança social, nos termos da Lei n.º 67/98, de 26 de Outubro, sendo o meio e o modo de acesso aos respectivos dados definidos por portaria do membro do Governo responsável pela área da saúde, a emitir no prazo de 90 dias, a qual define igualmente as medidas de segurança referentes a operações inseridas no sistema de informação, quer no âmbito de cada tratamento quer a respeito de quaisquer comunicações de dados."
+  },
+  "968585275": {
+   "fragment_id": "968585175",
+   "type": 11,
+   "heading": "Artigo 23.º — Entidades promotoras e gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entidades promotoras e gestoras\n\n1 - As entidades promotoras e gestoras das unidades e equipas revestem uma das seguintes formas:\n\na) Entidades públicas dotadas de autonomia administrativa e financeira, com ou sem autonomia patrimonial;\n\nb) Entidades públicas empresariais;\n\nc) Instituições particulares de solidariedade social e equiparadas ou que prossigam fins idênticos;\n\nd) Entidades privadas com fins lucrativos.\n\n2 - O disposto no número anterior não prejudica a gestão de instituições do Serviço Nacional de Saúde, no seu todo ou em parte, por outras entidades, públicas ou privadas, mediante contrato de gestão ou em regime de convenção por grupos de profissionais, nos termos do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de Janeiro, e de acordo com o disposto no Decreto-Lei n.º 185/2002, de 20 de Agosto."
+  },
+  "968585475": {
+   "fragment_id": "968585375",
+   "type": 11,
+   "heading": "Artigo 24.º — Obrigações das entidades promotoras e gestoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Obrigações das entidades promotoras e gestoras\n\nConstituem obrigações das entidades previstas no artigo anterior, perante as administrações regionais de saúde e os centros distritais do Instituto da Segurança Social, I. P., as constantes do modelo de contratualização a aprovar e, ainda, designadamente:\n\na) Prestar os cuidados e serviços definidos nos contratos para implementação e funcionamento das unidades e equipas;\n\nb) Facultar à equipa coordenadora o acesso a todas as instalações das unidades e equipas, bem como às informações indispensáveis à avaliação e auditoria do seu funcionamento;\n\nc) Remeter à equipa coordenadora o quadro de recursos humanos existentes nas unidades e equipas e o respectivo regulamento interno, para aprovação, até 30 dias antes da sua entrada em vigor;\n\nd) Comunicar à equipa coordenadora, com uma antecedência mínima de 90 dias, a cessação de actividade das unidades e equipas, sem prejuízo do tempo necessário ao encaminhamento e colocação das pessoas nelas residentes."
+  },
+  "968585675": {
+   "fragment_id": "968585575",
+   "type": 1,
+   "heading": "Capítulo V — Qualidade e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Qualidade e avaliação"
+  },
+  "968585875": {
+   "fragment_id": "968585775",
+   "type": 11,
+   "heading": "Artigo 25.º — Promoção e garantia da qualidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Promoção e garantia da qualidade\n\nOs modelos de promoção e gestão da qualidade para aplicação obrigatória em cada uma das unidades e equipas são fixados na portaria prevista no artigo 6.º"
+  },
+  "968586075": {
+   "fragment_id": "968585975",
+   "type": 11,
+   "heading": "Artigo 26.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Avaliação\n\nAs unidades e equipas estão sujeitas a um processo periódico de avaliação que integra a auto-avaliação anual e a avaliação externa, da iniciativa da equipa coordenadora, nos termos definidos na portaria prevista no artigo 6.º"
+  },
+  "968586275": {
+   "fragment_id": "968586175",
+   "type": 1,
+   "heading": "Capítulo VI — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Recursos humanos"
+  },
+  "968586475": {
+   "fragment_id": "968586375",
+   "type": 11,
+   "heading": "Artigo 27.º — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Recursos humanos\n\n1 - A política de recursos humanos para as unidades e equipas rege-se por padrões de qualidade, consubstanciada através de formação inicial e contínua, definida na portaria prevista no artigo 6.º\n\n2 - A prestação de cuidados nas unidades e equipas é garantida por equipas multidisciplinares, podendo contar com a colaboração de voluntários devidamente seleccionados, formados e enquadrados como prestadores de cuidados informais."
+  },
+  "968586675": {
+   "fragment_id": "968586575",
+   "type": 1,
+   "heading": "Capítulo VII — Instalações, funcionamento, fiscalização e licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Instalações, funcionamento, fiscalização e licenciamento"
+  },
+  "968586875": {
+   "fragment_id": "968586775",
+   "type": 11,
+   "heading": "Artigo 28.º — Instalações, funcionamento, fiscalização e licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Instalações, funcionamento, fiscalização e licenciamento\n\n1 - As condições e requisitos de construção, funcionamento, licenciamento e segurança das instalações e pessoas das unidades e equipas de cuidados continuados integrados de saúde mental obedecem ao estipulado na lei.\n\n2 - As condições e requisitos a que se refere o número anterior, bem como o regime de fiscalização são definidos nos termos a regulamentar por portaria dos membros do Governo responsáveis pelas áreas do trabalho e da solidariedade social e da saúde."
+  },
+  "968587075": {
+   "fragment_id": "968586975",
+   "type": 1,
+   "heading": "Capítulo VIII — Financiamento das unidades e equipas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Financiamento das unidades e equipas"
+  },
+  "968587275": {
+   "fragment_id": "968587175",
+   "type": 11,
+   "heading": "Artigo 29.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Financiamento\n\nO financiamento das unidades e equipas, dependendo das condições de funcionamento das respostas, obedece ao princípio da diversificação das fontes de financiamento e da adequação selectiva mediante modelo de financiamento próprio, a aprovar por portaria dos membros do Governo responsáveis pelas áreas das finanças, do trabalho, solidariedade social e da saúde."
+  },
+  "968587475": {
+   "fragment_id": "968587375",
+   "type": 11,
+   "heading": "Artigo 30.º — Modelo de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Modelo de financiamento\n\n1 - O financiamento das unidades e equipas é da responsabilidade dos Ministérios do Trabalho e da Solidariedade Social e da Saúde, consoante a natureza dos cuidados prestados, nos seguintes termos:\n\na) O financiamento de cada tipo de serviços é específico, com preços adequados e revistos periodicamente, nos termos definidos na portaria prevista no artigo anterior;\n\nb) O financiamento das diferentes unidades e equipas deve ser diferenciado através de métodos contabilísticos apropriados, designadamente com recursos a centros de custo próprios.\n\n2 - Os encargos com a prestação das unidades e equipas de cuidados continuados de saúde mental fazem parte integrante dos orçamentos das respectivas administrações regionais de saúde e os encargos com a prestação do apoio social dos orçamentos dos respectivos organismos do Ministério do Trabalho e da Solidariedade Social.\n\n3 - A utilização das unidades residenciais e das unidades sócio-ocupacionais ou do apoio ao domicílio é comparticipada pela pessoa com incapacidade psicossocial, na componente de apoio social, em função do seu rendimento ou do seu agregado familiar, nos termos a regulamentar."
+  },
+  "968587675": {
+   "fragment_id": "968587575",
+   "type": 1,
+   "heading": "Capítulo IX — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Disposições transitórias e finais"
+  },
+  "968587875": {
+   "fragment_id": "968587775",
+   "type": 11,
+   "heading": "Artigo 31.º — Aplicação progressiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Aplicação progressiva\n\nAs unidades e equipas previstas no presente decreto-lei são implementadas progressivamente, através de experiências piloto, a criar no período de 12 meses a contar da sua entrada em vigor."
+  },
+  "968588075": {
+   "fragment_id": "968587975",
+   "type": 11,
+   "heading": "Artigo 32.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regulamentação\n\nO presente decreto-lei deve ser regulamentado no prazo de 90 dias após a sua entrada em vigor."
+  },
+  "968588275": {
+   "fragment_id": "968588175",
+   "type": 11,
+   "heading": "Artigo 33.º — Adaptação dos estabelecimentos e serviços existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Adaptação dos estabelecimentos e serviços existentes\n\n1 - O despacho conjunto n.º 407/98, de 18 de Junho, mantém-se transitoriamente em vigor no que se refere às respostas já existentes dirigidas às pessoas com doença do foro mental ou psiquiátrico, até à sua reconversão nas unidades e equipas previstas no presente decreto-lei.\n\n2 - As unidades de apoio integrado criadas no âmbito do despacho conjunto n.º 407/98, de 18 de Junho, bem como outros estabelecimentos e serviços idênticos que se encontrem em funcionamento à data da entrada em vigor do presente decreto-lei, são progressivamente objecto de reconversão, assegurando a continuidade da prestação de cuidados já existente.\n\n3 - Os termos e as prioridades de reconversão são definidos por despacho dos membros do Governo responsáveis pelas áreas do trabalho, da solidariedade social e da saúde.\n\n4 - A reconversão das respostas, prevista no número anterior, deve ser concluída no prazo de 24 meses."
+  },
+  "968588475": {
+   "fragment_id": "968588375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Novembro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Helena dos Santos André - Manuel Francisco Pizarro Sampaio e Castro.\n\nPromulgado em 15 de Janeiro de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 18 de Janeiro de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "1006421934": {
+   "fragment_id": "968580375",
+   "type": 11,
+   "heading": "Artigo 5.º — Dever de sigilo e responsabilidade civil",
+   "in_force_from": "2011-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Dever de sigilo e responsabilidade civil\n\n1 - Estão obrigados ao dever de sigilo profissional todos os profissionais que, nos termos do presente decreto-lei, directa ou indirectamente, tomem conhecimento de informações relativas à situação clínica das pessoas com as incapacidades mencionadas no artigo 2.º\n\n2 - As unidades e equipas previstas no presente decreto-lei, bem como o pessoal que as integra, são responsáveis, nos termos do artigo 491.º do Código Civil, pelos danos causados pelas pessoas com as incapacidades mencionadas no artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1006421938": {
+   "fragment_id": "968581175",
+   "type": 11,
+   "heading": "Artigo 8.º — Tipologia das unidades e equipas",
+   "in_force_from": "2011-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Tipologia das unidades e equipas\n\n1 - A prestação de cuidados continuados integrados de saúde mental é assegurada por:\n\na) Unidades residenciais;\n\nb) Unidades sócio-ocupacionais;\n\nc) Equipas de apoio domiciliário.\n\n2 - (Revogado.)\n\n3 - As diferentes tipologias são adaptadas às características de grupos etários específicos, nomeadamente da infância e adolescência.\n\n4 - As especificidades inerentes aos serviços prestados em cada tipologia, assim como os técnicos necessários, são fixadas na portaria prevista no artigo 6.º\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550492": {
+   "fragment_id": "968581575",
+   "type": 11,
+   "heading": "Artigo 9.º — Unidades residenciais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Unidades residenciais\n\n1 - Constituem unidades residenciais:\n\na) Residências de treino de autonomia;\n\nb) Residências autónomas de saúde mental;\n\nc) Residências de apoio moderado;\n\nd) Residências de apoio máximo.\n\n2 - As unidades residenciais têm obrigatoriamente direcção técnica, função desempenhada por técnico da área de saúde mental ou área social.\n\n3 - As unidades residenciais apresentam diversos níveis de intensidade e periodicidade e asseguram, designadamente, os seguintes serviços, de acordo com os níveis de complexidade das diferentes tipologias:\n\na) Acesso a cuidados médicos gerais e da especialidade de psiquiatria;\n\nb) Cuidados de enfermagem gerais e especializados em saúde mental e psiquiátrica;\n\nc) Acesso e prestação a dispositivos médicos e meios de diagnóstico e terapêutica;\n\nd) Apoio psicossocial, de reabilitação e de integração na comunidade;\n\ne) Apoio a familiares e outros cuidadores;\n\nf) Actividades de vida diária e de lazer;\n\ng) Apoio de pessoal auxiliar;\n\nh) Transporte de doentes residentes para exames, consultas e tratamentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550497": {
+   "fragment_id": "968581775",
+   "type": 11,
+   "heading": "Artigo 10.º — Residência de treino de autonomia",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Residência de treino de autonomia\n\n1 - A residência de treino de autonomia é uma unidade residencial, localizada preferencialmente na comunidade, destinada a desenvolver programas de reabilitação psicossocial para pessoas com moderado e reduzido grau de incapacidade psicossocial, estabilizadas clinicamente e que conservam alguma funcionalidade.\n\n2 - A residência de treino de autonomia tem por finalidade a reintegração social e familiar das pessoas com incapacidade psicossocial, preparando-as para o regresso ao domicílio ou, em caso de ausência de suporte familiar ou social adequado, para a admissão em outras unidades e equipas.\n\n3 - A residência de treino de autonomia pode abranger as situações de continuidade de cuidados subjacentes ao processo de tratamento, designadamente da fase de consolidação da estabilização clínica e início do processo de reabilitação psicossocial, na sequência de internamento hospitalar originado por situação clínica aguda, recorrência ou descompensação clínica.\n\n4 - A permanência na residência de treino de autonomia tem uma duração máxima de 12 meses consecutivos.\n\n5 - A capacidade das residências de treino de autonomia é de 6 a 12 lugares, com estrutura modular até 6 pessoas em capacidade máxima.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550502": {
+   "fragment_id": "968581975",
+   "type": 11,
+   "heading": "Artigo 11.º — Residência autónoma de saúde mental",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Residência autónoma de saúde mental\n\n1 - A residência autónoma de saúde mental é uma estrutura residencial, localizada na comunidade e destinada a pessoas com um reduzido grau de incapacidade psicossocial, clinicamente estabilizadas, sem suporte familiar ou social adequado.\n\n2 - A residência autónoma de saúde mental tem por finalidade proporcionar suporte residencial que permita a integração em actividades de socialização e de formação profissional ou emprego, promovendo melhor qualidade de vida e maior participação social.\n\n3 - A capacidade máxima das residências autónomas é de sete lugares.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550507": {
+   "fragment_id": "968582175",
+   "type": 11,
+   "heading": "Artigo 12.º — Residência de apoio moderado",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 12.º — Residência de apoio moderado\n\n1 - A residência de apoio moderado é uma estrutura residencial, localizada na comunidade, destinada a pessoas com moderado grau de incapacidade psicossocial, clinicamente estabilizadas, impossibilitadas de serem tratadas no domicílio por ausência de suporte familiar ou social adequado.\n\n2 - A residência de apoio moderado tem por finalidade proporcionar cuidados que permitam a manutenção e o desenvolvimento da funcionalidade existente, proporcionando melhor qualidade de vida e promovendo a integração sócio-ocupacional.\n\n3 - A residência de apoio moderado destina-se a pessoas com necessidade de apoio por um período imprevisível de tempo e em situações pontuais para descanso do principal cuidador até 30 dias por ano.\n\n4 - A capacidade das residências de apoio moderado é de 12 a 16 lugares com estrutura modular de 6 a 8 pessoas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550512": {
+   "fragment_id": "968582375",
+   "type": 11,
+   "heading": "Artigo 13.º — Residência de apoio máximo",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 13.º — Residência de apoio máximo\n\n1 - A residência de apoio máximo é uma estrutura residencial, localizada na comunidade, destinada a pessoas clinicamente estabilizadas com elevado grau de incapacidade psicossocial, impossibilitadas de serem tratadas no domicílio por ausência de suporte familiar ou social adequado.\n\n2 - A residência de apoio máximo tem por finalidade proporcionar cuidados que previnam e retardem o agravamento da situação de dependência.\n\n3 - A residência de apoio máximo destina-se a pessoas com necessidade de apoio por um período imprevisível de tempo e em situações pontuais para descanso do principal cuidador até 30 dias por ano.\n\n4 - A capacidade das residências de apoio máximo é de 18 a 32 lugares, com estrutura modular de 6 a 8 pessoas.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550517": {
+   "fragment_id": "968582775",
+   "type": 11,
+   "heading": "Artigo 14.º — Unidades sócio-ocupacionais",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 14.º — Unidades sócio-ocupacionais\n\n1 - A unidade sócio-ocupacional localiza-se na comunidade, em espaço físico próprio, sendo destinada a pessoas com moderado e reduzido grau de incapacidade psicossocial, clinicamente estabilizadas, mas com disfuncionalidades na área relacional, ocupacional e de integração social.\n\n2 - A unidade sócio-ocupacional tem por finalidade a promoção de autonomia, a estabilidade emocional e a participação social, com vista à integração social, familiar e profissional.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - As unidades sócio-ocupacionais têm uma direcção técnica, cuja função é desempenhada por técnico da área de saúde mental ou área social.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550522": {
+   "fragment_id": "968582975",
+   "type": 11,
+   "heading": "Artigo 15.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Serviços\n\nA unidade sócio-ocupacional assegura, designadamente, os seguintes serviços:\n\na) Apoio e reabilitação psicossocial e nas actividades de vida diária;\n\nb) Apoio sócio-ocupacional, incluído convívio e lazer;\n\nc) Supervisão na gestão da medicação;\n\nd) Apoio aos familiares e outros cuidadores com vista à reintegração familiar;\n\ne) Apoio de grupos de auto-ajuda;\n\nf) Apoio e encaminhamento para serviços de formação e de integração profissional;\n\ng) Promoção de actividades sócio-culturais e desportivas em articulação com as autarquias, associações culturais, desportivas e recreativas ou outras estruturas da comunidade."
+  },
+  "1011550527": {
+   "fragment_id": "968583375",
+   "type": 11,
+   "heading": "Artigo 16.º — Equipas de apoio domiciliário",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+   ],
+   "markdown": "###### Artigo 16.º — Equipas de apoio domiciliário\n\n1 - A equipa de apoio domiciliário em cuidados continuados integrados de saúde mental desenvolve as actividades necessárias de forma a:\n\na) Maximizar a autonomia da pessoa com incapacidade psicossocial;\n\nb) Reforçar a sua rede de suporte social através da promoção de relações interpessoais significativas;\n\nc) Melhorar a sua integração social e o acesso aos recursos comunitários;\n\nd) Prevenir internamentos hospitalares e admissões em unidades residenciais;\n\ne) Sinalizar e encaminhar situações de descompensação para os SLSM;\n\nf) Apoiar a participação das famílias e outros cuidadores na prestação de cuidados no domicílio.\n\n2 - As equipas de apoio domiciliário podem estar vinculadas e ser coordenadas tecnicamente por uma unidade residencial, uma unidade sócio-ocupacional, um agrupamento de centros de saúde (ACES) ou um SLSM.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 22/2011 - Diário da República n.º 29/2011, Série I de 2011-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22-2011-280268), em vigor a partir de 2011-03-01"
+  },
+  "1011550532": {
+   "fragment_id": "968583575",
+   "type": 11,
+   "heading": "Artigo 17.º — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Serviços\n\nA equipa de apoio domiciliário assegura, designadamente, os seguintes serviços:\n\na) Acesso a apoio multiprofissional de saúde mental;\n\nb) Envolvimento dos familiares e outros cuidadores, quando necessário;\n\nc) Promoção da autonomia, através do apoio regular nos cuidados pessoais e nas actividades da vida diária, gestão doméstica e financeira, compras, confecção de alimentos, tratamento de roupas, manutenção da habitação, utilização dos transportes públicos e outros recursos comunitários;\n\nd) Supervisão na gestão da medicação;\n\ne) Promoção do acesso a actividades ocupacionais, de convívio ou de lazer."
+  },
+  "1020020977": {
+   "fragment_id": "968579575",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2015-69879425), em vigor a partir de 2015-08-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei cria um conjunto de unidades e equipas de cuidados continuados integrados de saúde mental, destinado às pessoas com doença mental grave de que resulte incapacidade psicossocial e que se encontrem em situação de dependência, independentemente da idade, adiante designadas como pessoas com incapacidade psicossocial.\n\n2 - O conjunto de unidades e equipas de cuidados continuados integrados de saúde mental, inclui unidades residenciais, unidades sócio ocupacionais e equipas de apoio domiciliário, que estão integradas na Rede Nacional de Cuidados Continuados Integrados (RNCCI) e articulam-se com os serviços locais de saúde mental (SLSM).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2015-69879425), em vigor a partir de 2015-08-27"
+  },
+  "1020020978": {
+   "fragment_id": "968580575",
+   "type": 11,
+   "heading": "Artigo 6.º — Coordenação e organização",
+   "in_force_from": "2015-08-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2015-69879425), em vigor a partir de 2015-08-27"
+   ],
+   "markdown": "###### Artigo 6.º — Coordenação e organização\n\n1 - A coordenação das unidades e equipas de cuidados continuados integrados de saúde mental é assegurada a nível nacional e regional pela coordenação a nível nacional, e a nível regional e local, da RNCCI.\n\n2 - A organização das unidades e equipas de cuidados continuados integrados de saúde mental obedece a critérios de complementaridade e ao princípio do respeito da prevalência do interesse da pessoa incapaz e é definida por portaria dos membros do Governo responsáveis pelas áreas da saúde e da segurança social, de acordo com os princípios previstos no artigo 3.º, abrangendo, nomeadamente:\n\na) A necessária articulação com os parceiros que colaboram na prestação de cuidados continuados de saúde mental, bem como com outras entidades que considerem pertinentes para o exercício das suas competências;\n\nb) As especificidades inerentes aos serviços prestados em cada tipologia, assim como os técnicos necessários, nos termos do n.º 4 do artigo 8.º;\n\nc) A definição do instrumento único de avaliação do grau de incapacidade psicossocial, nos termos do n.º 2 do artigo 19.º;\n\nd) A definição do instrumento único de avaliação da dependência, nos termos do n.º 3 do artigo 22.º;\n\ne) Os modelos de promoção e gestão da qualidade para aplicação obrigatória em cada uma das unidades e equipas, nos termos do artigo 25.º;\n\nf) O processo periódico de avaliação das unidades e equipas, nos termos do artigo 26.º;\n\ng) A formação inicial e contínua dos recursos humanos das unidades e equipas, nos termos do n.º 1 do artigo 27.º\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 136/2015 - Diário da República n.º 145/2015, Série I de 2015-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-2015-69879425), em vigor a partir de 2015-08-27"
+  }
+ }
+}

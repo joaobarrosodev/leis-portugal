@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:627827:por
+title: Decreto Legislativo Regional n.º 24/2007/M
+short_title: null
+summary: Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 194/2006, de 27 de Setembro, que regula a produção, controlo,
+  certificação e comercialização de materiais de propagação vegetativa de videira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 24/2007/M
+official_date: null
+publication_date: '2007-12-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 245/2007, Série I de 2007-12-20
+  number: '245'
+  series: I
+  supplement: null
+  pages: 8974 - 8975
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/12/24500/0897408975.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/24/2007/12/20/m/dre/pt/html
+  oj: null
+  dre: '627827'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/24-2007-627827
+  internal: pt:dre:627827:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2007-627827
+  metadata_url: https://data.dre.pt/eli/declegreg/24/2007/12/20/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2007-627827
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-12-20T00:00:00Z'
+integrity:
+  source_sha256: 3d7ab770d4833e1adcfcbe34dbacd089aedd4f2ee4b2b89380a99741a0ceb118
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2007/DRE-2007-24-627827.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Catálogo Nacional de Variedades
+- Vinho
+- Contra-ordenação
+- Definição de Competências
+- Fiscalização
+- Inspecção Regional das Actividades Económicas
+- Instituto do Vinho Bordado e do Artesanato da Madeira
+- Licenciamento
+- Direção Regional de Agricultura e Desenvolvimento Rural
+- Madeira.região Autónoma
+- Comércio
+- Produto Vitivinícola
+- Vinha
+relationships:
+- type: cites
+  target: celex:31968L0193
+  label: null
+  source: http://data.europa.eu/eli/dir/1968/193/oj
+- type: cites
+  target: celex:32004L0029
+  label: null
+  source: http://data.europa.eu/eli/dir/2004/29/oj
+- type: cites
+  target: celex:32005L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/2005/43/oj
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 24/2007/M
+
+Adapta à Região Autónoma da Madeira o Decreto-Lei n.º 194/2006, de 27 de Setembro, que regula a produção, controlo, certificação e comercialização de materiais de propagação vegetativa de videira.
+
+O Decreto-Lei n.º 194/2006, de 27 de Setembro, procedeu à consolidação na ordem jurídica interna das Directivas n.os [68/193/CEE](https://data.europa.eu/eli/dir/1968/193/oj?locale=pt) , do Conselho, de 9 de Abril, relativa à comercialização dos materiais de propagação vegetativa da videira, e [2004/29/CE](https://data.europa.eu/eli/dir/2004/29/oj?locale=pt) , da Comissão, de 4 de Março, relativa à fixação de caracteres e das condições mínimas para o exame de variedades de videira, e, ao mesmo tempo, à transposição da Directiva n.º [2005/43/CE](https://data.europa.eu/eli/dir/2005/43/oj?locale=pt), da Comissão, de 23 de Junho, que veio alterar os anexos da já referida Directiva n.º [68/193/CEE](https://data.europa.eu/eli/dir/1968/193/oj?locale=pt), do Conselho, de 9 de Abril.
+
+Com o referenciado decreto-lei procedeu-se também à simplificação dos procedimentos de certificação dos materiais vitícolas, à formalização em catálogo nacional das variedades de videira e respectivos clones através da criação de um regime específico para a sua avaliação e inscrição no Catálogo Nacional de Variedades de Espécies Agrícolas e de Espécies Hortícolas e ainda à consolidação num só diploma de toda a matéria em apreço.
+
+A sua aplicação às Regiões Autónomas dos Açores e da Madeira pressupõe a determinação, no âmbito das respectivas administrações regionais, das entidades competentes para a sua execução administrativa, pelo que se torna necessário adaptá-lo à realidade específica da Administração Regional Autónoma da Madeira.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea d) do n.º 1 do artigo 227.º da Constituição, nos artigos 39.º e 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção e numeração introduzidas pela Lei n.º 130/99, de 21 de Agosto e pela Lei n.º 12/2000, de 21 de Junho, e no n.º 1 do artigo 43.º do Decreto-Lei n.º 194/2006, de 27 de Setembro, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma adapta à Região Autónoma da Madeira o Decreto-Lei n.º 194/2006, de 27 de Setembro, que regula a produção, controlo, certificação e comercialização de materiais de propagação vegetativa de videira e que procede à consolidação na ordem jurídica interna das Directivas n.os [68/193/CEE](https://data.europa.eu/eli/dir/1968/193/oj?locale=pt), do Conselho, de 9 de Abril, relativa à comercialização dos materiais de propagação vegetativa da videira, e [2004/29/CE](https://data.europa.eu/eli/dir/2004/29/oj?locale=pt), da Comissão, de 4 de Março, relativa à fixação de caracteres e das condições mínimas para o exame de variedades de videira, e, ao mesmo tempo, à transposição da Directiva n.º [2005/43/CE](https://data.europa.eu/eli/dir/2005/43/oj?locale=pt), da Comissão, de 23 de Junho, que veio alterar os anexos da já referida Directiva n.º [68/193/CEE](https://data.europa.eu/eli/dir/1968/193/oj?locale=pt), do Conselho, de 9 de Abril.
+
+2 - O Decreto-Lei n.º 194/2006, de 27 de Setembro, aplica-se à Região Autónoma da Madeira com as adaptações constantes dos artigos seguintes.
+
+###### Artigo 2.º — Entidades competentes
+
+1 - Compete à Direcção Regional de Agricultura e Desenvolvimento Rural (DRADR) proceder à emissão de pareceres sobre licenciamentos e admissão de inscrições de parcelas de vinhas mãe e viveiros, bem como executar as acções de controlo previstas nos termos do Decreto-Lei n.º 194/2006, de 27 de Setembro.
+
+2 - Ao Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P., compete conceder as devidas autorizações para a plantação de vinhas mãe para a produção de materiais vitícolas.
+
+3 - Compete à Inspecção Regional das Actividades Económicas (IRAE) proceder à fiscalização de materiais vitícolas em comercialização.
+
+4 - Sem prejuízo da competência atribuída por lei a outras entidades, a inspecção ao disposto no Decreto-Lei n.º 194/2006, de 27 de Setembro, na Região Autónoma da Madeira, é da competência da DRADR.
+
+###### Artigo 3.º — Taxas
+
+As taxas previstas no n.º 1 do artigo 35.º do Decreto-Lei n.º 194/2006, de 27 de Setembro, serão regulamentadas e fixadas por portaria do Secretário Regional do Ambiente e dos Recursos Naturais.
+
+###### Artigo 4.º — Contra-ordenações, coimas e sanções acessórias
+
+1 - Compete à DRADR o levantamento dos autos e a instrução dos processos de contra-ordenação pelas infracções referidas nas alíneas a) a d) do n.º 1 do artigo 37.º do Decreto-Lei n.º 194/2006, de 27 de Setembro.
+
+2 - Compete à IRAE o levantamento dos autos e a instrução dos processos de contra-ordenação pelas infracções referidas nas alíneas e) a g) do n.º 1 do artigo 37.º do Decreto-Lei n.º 194/2006, de 27 de Setembro
+
+3 - Compete à DRADR a aplicação das coimas e das sanções acessórias a que se refere o n.º 3 do artigo 39.º do Decreto-Lei n.º 194/2006, de 27 de Setembro.
+
+4 - Compete à Comissão Regional de Aplicação de Coimas em Matéria Económica (CRACME) a aplicação das coimas e sanções acessórias a que se refere o n.º 4 do artigo 39.º do Decreto-Lei n.º 194/2006, de 27 de Setembro.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 15 de Novembro de 2007.
+
+**O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.**
+
+**Assinado em 10 de Dezembro de 2007.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

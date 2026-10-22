@@ -1,0 +1,118 @@
+---
+schema_version: '1.0'
+id: pt:dre:600129:por
+title: Despacho Normativo n.º 701/94
+short_title: null
+summary: Altera o artigo 4.º do Despacho Normativo n.º 629/94, de 31 de Agosto, que define a competência do Instituto do Emprego
+  e Formação Profissional em matéria de formação profissional e emprego
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 701/94
+official_date: null
+publication_date: '1994-10-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 228/1994, Série I-B de 1994-10-01
+  number: '228'
+  series: I
+  supplement: null
+  pages: 6049 - 6050
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/10/228b00/60496050.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/701/1994/10/01/p/dre/pt/html
+  oj: null
+  dre: '600129'
+  dre_path: /dr/detalhe/despacho-normativo/701-1994-600129
+  internal: pt:dre:600129:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/701-1994-600129
+  metadata_url: https://data.dre.pt/eli/despnorm/701/1994/10/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/701-1994-600129
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-10-01T00:00:00Z'
+integrity:
+  source_sha256: 2439d51dcbe425f83de8b095d8c19158456e985e9cbb9b0d8601ff292554081e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-701-600129.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Instituto do Emprego e Formação Profissional
+- Formação Profissional
+- Definição de Competências
+- QCA
+- FSE
+- Emprego
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/15/1994/07/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/15/1994/07/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/despnorm/629/1994/08/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/despnorm/629/1994/08/31/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 701/94
+
+Considerando que o artigo 4.º do [Despacho Normativo n.º 629/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/629-1994-654902), de 31 de Agosto, tem levantado algumas dúvidas quanto à sua execução;
+
+Considerando a necessidade de dinamizar os pedidos de candidatura dos planos de formação com incidência financeira com mais de um ano económico;
+
+Tendo em conta o disposto nos n.os 2 e 8 do artigo 8.º do [Decreto Regulamentar n.º 15/94](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1994-290981), de 6 de Julho:
+
+Determina-se o seguinte:
+
+O artigo 4.º do [Despacho Normativo n.º 629/94](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/629-1994-654902), de 31 de Agosto, passa a ter a seguinte redacção:
+
+###### Artigo 4.º — Pedidos de financiamento
+
+1 - Os pedidos de financiamento serão sempre anuais.
+
+2 - Quando se trate de planos de formação com incidência financeira com mais de um ano económico, deverão as entidades promotoras formular os pedidos de financiamento até ao fim de cada ano, para efeitos de continuidade de execução do plano.
+
+Ministério do Emprego e da Segurança Social, 9 de Setembro de 1994. - O Secretário de Estado do Emprego e Formação Profissional, José Mateus Varatojo Júnior.

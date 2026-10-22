@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:321718:por
+title: Decreto-Lei n.º 163/99
+short_title: null
+summary: Altera os anexos II e IV ao Decreto-Lei n.º 46/89, de 15 de Fevereiro, por forma a incluir os municípios de Odivelas,
+  Trofa e Vizela nas matrizes de delimitação geográfica da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 163/99
+official_date: null
+publication_date: '1999-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/1999, Série I-A de 1999-05-13
+  number: '111'
+  series: I
+  supplement: null
+  pages: 2550 - 2551
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/05/111a00/25502551.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/163/1999/05/13/p/dre/pt/html
+  oj: null
+  dre: '321718'
+  dre_path: /dr/detalhe/decreto-lei/163-1999-321718
+  internal: pt:dre:321718:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718
+  metadata_url: https://data.dre.pt/eli/dec-lei/163/1999/05/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-1999-321718
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-08-23T00:00:00Z'
+integrity:
+  source_sha256: 94922feebeb3303afd5b970340d62fd44ba7b4523b80e694893f105b680a2dc8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-163-321718.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Nomenclatura das Unidades Territoriais para Fins Estatísticos
+- Odivelas
+- Estatística
+- Região Agrária
+- Autarquia Local
+- Trofa
+- Vizela
+relationships:
+- type: amended_by
+  target: pt:dre:343580:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/63/1998/09/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/63/1998/09/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/83/1998/12/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/83/1998/12/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/84/1998/12/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/84/1998/12/14/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 163/99
+
+de 13 de Maio
+
+A Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS), estabelecida pelo [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, constitui a matriz delimitadora da recolha e compilação de informação estatística de base regional.
+
+Com a criação dos municípios de Vizela, Trofa e Odivelas, respectivamente, pelas Leis n.os [63/98](https://diariodarepublica.pt/dr/detalhe/lei/63-1998-566626), de 1 de Setembro, [83/98](https://diariodarepublica.pt/dr/detalhe/lei/83-1998-220948), de 14 de Dezembro, e [84/98](https://diariodarepublica.pt/dr/detalhe/lei/84-1998-220946), de 14 de Dezembro, importa proceder à discriminação destes novos municípios no âmbito das unidades de nível III da NUTS no continente em que geograficamente se compreende o respectivo território.
+
+Atendendo a que a área correspondente aos municípios da Trofa e de Odivelas se encontra actualmente abrangida, respectivamente, pelas unidades do Ave e da Grande Lisboa, mais não se faz do que manter esses municípios recentemente criados nestas mesmas unidades territoriais.
+
+No respeitante ao município de Vizela, considerando que a maior parte da respectiva área se insere na unidade do Ave, justifica-se a sua integração nesta mesma unidade territorial.
+
+Por outro lado, altera-se em consonância a composição das zonas agrárias previstas no anexo IV ao [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+Os anexos II e IV ao [Decreto-Lei n.º 46/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46-1989-611345), de 15 de Fevereiro, passam a ter a seguinte redacção:
+
+«ANEXO II
+
+[...]
+
+Norte
+
+...
+
+Ave (oito municípios; 1259 km2; 465000 habitantes): Fafe, Guimarães, Póvoa de Lanhoso, Santo Tirso, Trofa, Vieira do Minho, Vila Nova de Famalicão e Vizela.
+
+Centro
+
+...
+
+Lisboa e Vale do Tejo
+
+...
+
+Grande Lisboa (oito municípios; 1046 km2; 1899000 habitantes): Amadora, Cascais, Lisboa, Loures, Odivelas, Oeiras, Sintra e Vila Franca de Xira.
+
+...
+
+Alentejo
+
+...
+
+Algarve
+
+...
+
+## ANEXO IV — [...]
+
+I - Região Agrária de Entre Douro e Minho; sede - Braga
+
+...
+
+5.ª Zona Agrária - Vale do Ave; sede - Guimarães (oito municípios; 1259 km2; 465000 habitantes): Fafe Guimarães, Póvoa de Lanhoso, Santo Tirso, Trofa, Vieira do Minho, Vila Nova de Famalicão e Vizela.
+
+...
+
+II - Região Agrária de Trás-os-Montes; sede - Mirandela
+
+...
+
+III - Região Agrária da Beira Litoral; sede - Coimbra
+
+...
+
+IV - Região Agrária da Beira Interior; sede - Castelo Branco
+
+...
+
+V - Região Agrária do Ribatejo e Oeste; sede - Vila Franca de Xira
+
+...
+
+3.ª Zona Agrária - Loures; sede - Loures (oito municípios; 1046 km2; 1899000 habitantes): Amadora, Cascais, Lisboa, Loures, Odivelas, Oeiras, Sintra e Vila Franca de Xira.
+
+...
+
+VI - Região Agrária do Alentejo; sede - Évora
+
+...
+
+VII - Região Agrária do Algarve; sede - Faro
+
+...»
+
+Visto e aprovado em Conselho de Ministros de 1 de Abril de 1999. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - José Apolinário Nunes Portada.
+
+**Promulgado em 29 de Abril de 1999.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 4 de Maio de 1999.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

@@ -1,0 +1,429 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:106555617:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-115172468",
+ "dre_path": "/dr/detalhe/portaria/92-e-2017-106555617",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-03-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115165053",
+    "115165054",
+    "115165055",
+    "115165056",
+    "115165057",
+    "115165058",
+    "115165059",
+    "115165060",
+    "115165061",
+    "115165062",
+    "115165063",
+    "115165064",
+    "115165066",
+    "115165067"
+   ]
+  },
+  {
+   "date": "2018-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115182509:por",
+     "title": "Portaria n.º 111/2018",
+     "published": "2018-04-26",
+     "dre_path": "/dr/detalhe/portaria/111-2018-115182509"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "115165053",
+    "115187075",
+    "115165055",
+    "115165056",
+    "115187076",
+    "115165058",
+    "115165059",
+    "115165060",
+    "115165061",
+    "115165062",
+    "115165063",
+    "115165064",
+    "115165065",
+    "115165066",
+    "115165067"
+   ]
+  },
+  {
+   "date": "2024-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:840584999:por",
+     "title": "Portaria n.º 45/2024",
+     "published": "2024-02-07",
+     "dre_path": "/dr/detalhe/portaria/45-2024-840584999"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "115165053",
+    "840687152",
+    "115165055",
+    "840687153",
+    "840687154",
+    "115165058",
+    "115165059",
+    "115165060",
+    "115165061",
+    "115165062",
+    "115165063",
+    "115165064",
+    "115165065",
+    "115165066",
+    "115165067"
+   ]
+  },
+  {
+   "date": "2025-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:908074083:por",
+     "title": "Portaria n.º 47/2025/1",
+     "published": "2025-02-20",
+     "dre_path": "/dr/detalhe/portaria/47-2025-908074083"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "115165053",
+    "908115400",
+    "908115401",
+    "908115402",
+    "908115403",
+    "908115404",
+    "908115405",
+    "908115406",
+    "908115407",
+    "908115408",
+    "115165063",
+    "115165064",
+    "115165065",
+    "908115409",
+    "908115410"
+   ]
+  }
+ ],
+ "fragments": {
+  "115165053": {
+   "fragment_id": "115172469",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 92-E/2017\n\nde 3 de março\n\nO XXI Governo Constitucional, no seu programa para a saúde, estabelece como prioridade, defender o Serviço Nacional de Saúde e promover a saúde dos Portugueses.\n\nPara o efeito, o Governo garante o acesso aos doentes com incontinência ou retenção urinária que possam requerer para apoio à sua condição alguns dispositivos médicos específicos, melhorando assim a sua qualidade de vida e integração social.\n\nO Decreto-Lei n.º 97/2015, de 1 de junho, que cria o Sistema Nacional de Avaliação de Tecnologias de Saúde, prevê o regime de comparticipação dos dispositivos médicos, estabelecendo que os dispositivos médicos que podem ser objeto de comparticipação são estabelecidos por portaria do membro do Governo responsável pela área da saúde.\n\nNeste contexto torna-se necessário estabelecer o regime de comparticipação dos dispositivos médicos para o apoio aos doentes com incontinência ou retenção urinária que podem ser objeto de comparticipação, bem como as suas condições.\n\nAssim, ao abrigo do disposto na alínea b) do n.º 4 do artigo 5.º e no n.º 3 do artigo 23.º do Decreto-Lei n.º 97/2015, de 1 de junho, manda o Governo, pelo Secretário de Estado Adjunto e da Saúde, o seguinte:"
+  },
+  "115165054": {
+   "fragment_id": "115172470",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de comparticipação do Estado no preço de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, destinados a beneficiários do Serviço Nacional de Saúde (SNS)."
+  },
+  "115165055": {
+   "fragment_id": "115172471",
+   "type": 11,
+   "heading": "Artigo 2.º — Dispositivos médicos comparticipáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dispositivos médicos comparticipáveis\n\nOs dispositivos médicos para o apoio a doentes com incontinência ou retenção urinária que podem ser objeto de comparticipação são os constantes do Anexo I, à presente portaria, da qual fazem parte integrante."
+  },
+  "115165056": {
+   "fragment_id": "115172472",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado é de 100 % do PVP fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - A comparticipação do Estado no preço dos dispositivos médicos depende de prescrição médica.\n\n3 - A inclusão de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária no regime de comparticipação pressupõe o cumprimento dos requisitos nacionais para a colocação no mercado de dispositivos médicos, bem como a demonstração de características técnicas gerais e específicas estabelecidas por despacho do membro do Governo responsável pela área da saúde.\n\n4 - O procedimento de comparticipação pode ser sujeito a um regime especial de preços máximos (PVP máximo), o qual inclui as margens de comercialização e o IVA à taxa legal em vigor, estabelecido por despacho do membro do Governo responsável pela área da saúde."
+  },
+  "115165057": {
+   "fragment_id": "115172473",
+   "type": 11,
+   "heading": "Artigo 4.º — Prescrição e dispensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prescrição e dispensa\n\n1 - Os dispositivos médicos objeto de comparticipação são prescritos por via eletrónica, de acordo com as regras definidas na portaria que estabelece o regime jurídico a que obedecem as regras de prescrição e dispensa de medicamentos e produtos de saúde e define as obrigações de informação a prestar aos utentes.\n\n2 - A prescrição de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária inclui obrigatoriamente a marca e modelo do dispositivo médico, selecionado de entre os disponíveis, podendo em alguns casos ser feita apenas por indicação do grupo referido no Anexo I à presente portaria.\n\n3 - O pagamento pelas Administrações Regionais de Saúde às farmácias efetua-se nos mesmos termos, prazos e condições da faturação e pagamento das comparticipações nos preços dos medicamentos, de acordo com a legislação em vigor."
+  },
+  "115165058": {
+   "fragment_id": "115172474",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução do procedimento de comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Instrução do procedimento de comparticipação\n\n1 - O pedido de inclusão de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária no regime de comparticipação previsto na presente portaria é requerido ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), instruído com os elementos identificados no Anexo II à presente portaria, da qual faz parte integrante.\n\n2 - O INFARMED, I. P., deve, no prazo de 10 dias, apreciar a regularidade do requerimento e/ou solicitar elementos ou esclarecimentos adicionais.\n\n3 - O requerente deve entregar ou prestar os elementos adicionais no prazo de 5 dias a contar da data da notificação pelo INFARMED, I. P.\n\n4 - O pedido é liminarmente indeferido quando:\n\na) Não tenham sido prestados os esclarecimentos ou apresentados os elementos adicionais no prazo referido no número anterior;\n\nb) O requerimento não seja aperfeiçoado, após notificação do INFARMED, I. P.;\n\nc) Não tenham sido utilizados os modelos de documentos indicados pelo INFARMED, I. P.\n\n5 - O requerente deve ser notificado da decisão de indeferimento liminar e dos respetivos fundamentos.\n\n6 - Decorrido o prazo previsto no n.º 3 sem que o INFARMED, I. P., devolva o requerimento ao requerente ou sem que o notifique para fornecer os elementos e os esclarecimentos que sejam considerados necessários, o pedido é considerado válido.\n\n7 - As comunicações referentes ao procedimento de comparticipação são realizadas através de meios eletrónicos."
+  },
+  "115165059": {
+   "fragment_id": "115186975",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Avaliação e decisão\n\n1 - Compete aos serviços do INFARMED, I. P. a responsabilidade pela emissão dos pareceres de avaliação dos dispositivos médicos para apoio a doentes com incontinência ou retenção urinária para efeitos de comparticipação, podendo a mesma ser submetida à Comissão de Avaliação de Tecnologias de Saúde (CATS), sempre que se revele necessário e mediante solicitação.\n\n2 - Os pareceres da avaliação favoráveis e deliberados pela CATS, se aplicável, são enviados aos requerentes para conhecimento, podendo ser solicitados esclarecimentos ou apresentadas objeções no prazo de 10 dias.\n\n3 - Se o processo contiver todos os elementos considerados suficientes, o INFARMED, I. P. propõe ao membro do Governo responsável pela área da saúde o pedido de inclusão do dispositivo no regime de comparticipação previsto na presente portaria no prazo de 10 dias após a validação.\n\n4 - A decisão prevista no número anterior é notificada ao requerente por via eletrónica.\n\n5 - A decisão de indeferimento do pedido é notificada ao requerente com todos os elementos que serviram de base à decisão e contém a indicação sobre os meios de reação contenciosa do ato e respetivos prazos."
+  },
+  "115165060": {
+   "fragment_id": "115186976",
+   "type": 11,
+   "heading": "Artigo 7.º — Comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Comercialização\n\n1 - O fabricante de um dispositivo médico, ou um seu representante com poderes para o efeito, está obrigado a comunicar o início, suspensão ou cessação da comercialização, da sua iniciativa, do dispositivo médico comparticipado, com uma antecedência não inferior a 15 dias nem superior a 30 dias sobre a data do efetivo início, que deve coincidir com o 1.º dia de cada mês.\n\n2 - Os dispositivos para dispositivos médicos para apoio a doentes com incontinência ou retenção urinária incluídos no regime de comparticipação, devem estar obrigatoriamente disponíveis para dispensa nas farmácias, em conformidade com a notificação do início de comercialização."
+  },
+  "115165061": {
+   "fragment_id": "115186977",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicitação da comparticipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Publicitação da comparticipação\n\n1 - Após as comunicações de início, suspensão ou cessação da comercialização do dispositivo médico, feitas pelo requerente nos termos legais, o dispositivo médico é incluído ou excluído, respetivamente, nas listas e ficheiros de dispositivos médicos comparticipados.\n\n2 - Sem prejuízo do disposto no número anterior, a aplicação do PVP resultante do procedimento de comparticipação produz imediatamente efeitos após a decisão de comparticipação.\n\n3 - Os dispositivos médicos para apoio a doentes com incontinência ou retenção urinária já colocados no circuito de comercialização têm um prazo de escoamento de 60 dias.\n\n4 - A inclusão ou retirada do dispositivo médico dos ficheiros de dispositivos médicos comparticipados ocorre mensalmente até ao dia 15 de cada mês, produzindo efeitos a partir do primeiro dia do mês seguinte.\n\n5 - A lista dos dispositivos médicos comparticipados é atualizada periodicamente pelo INFARMED, I. P., e divulgada pelos meios considerados mais adequados, nomeadamente através da página eletrónica desta entidade.\n\n6 - Os ficheiros de dispositivos médicos, devidamente atualizados, são disponibilizados pelo INFARMED, I. P., às entidades competentes.\n\n7 - Das listas e ficheiros referidos nos números anteriores devem constar o nome, marca e modelo do dispositivo médico, o código atribuído ao dispositivo incluído no regime de comparticipação, o preço e o respetivo valor da comparticipação.\n\n8 - A inclusão ou exclusão das listas resultantes da comunicação a que se refere o n.º 1 produz efeitos nos termos legais definidos."
+  },
+  "115165062": {
+   "fragment_id": "115186978",
+   "type": 11,
+   "heading": "Artigo 9.º — Marcação de embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Marcação de embalagens\n\nAs embalagens dos dispositivos médicos para apoio a doentes com incontinência ou retenção urinária comparticipados devem apresentar preço de venda ao público (PVP), bem como o código de identificação atribuído ao dispositivo médico a quando da sua inclusão no regime de comparticipação."
+  },
+  "115165063": {
+   "fragment_id": "115186979",
+   "type": 11,
+   "heading": "Artigo 10.º — Definição, alteração e revisão de preços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Definição, alteração e revisão de preços\n\n1 - O PVP a aplicar no âmbito do presente regime é proposto por iniciativa do fabricante ou respetivo representante com poderes para o efeito e não pode ser superior ao PVP máximo fixado para o grupo de dispositivos médicos onde o mesmo se encontra inserido, conforme disposto no n.º 2 do artigo 3.º da presente Portaria.\n\n2 - O PVP a aplicar no âmbito do presente regime pode ser revisto em qualquer altura, seja por iniciativa do fabricante, ou respetivo representante com poderes para o efeito.\n\n3 - As alterações de preços o abrigo do número anterior são comunicadas ao INFARMED, I. P., com antecedência mínima de 20 dias, previamente à data da sua entrada em vigor, devendo coincidir com o 1.º dia de cada mês.\n\n4 - O PVP a aplicar no âmbito do presente regime dos dispositivos comparticipados pode ser revisto, em função de alteração do PVP máximo."
+  },
+  "115165064": {
+   "fragment_id": "115186980",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\n1 - A presente portaria entra em vigor a partir de 1 de abril de 2017, com exceção do disposto no número seguinte.\n\n2 - O disposto nos artigos 3.º n.os 2 a 4, 5.º, 6.º, 7.º, 9.º e 10.º, produzem efeitos após a entrada em vigor do despacho referido nos n.os 2 e 4 do artigo 3.º"
+  },
+  "115165066": {
+   "fragment_id": "115186982",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nSaco coletor de urina.\n\nCateter externo feminino.\n\nCateter externo masculino.\n\nSonda de cateterização/esvaziamento intermitente com lubrificação feminina.\n\nSonda de cateterização/esvaziamento intermitente com lubrificação masculina.\n\nSonda de cateterização/esvaziamento intermitente sem lubrificação feminina.\n\nSonda de cateterização/esvaziamento intermitente sem lubrificação masculina.\n\nKit para cateterização intermitente.\n\nLubrificante em bisnaga*.\n\nLubrificante em unidose*.\n\n(*) Pode ser prescrito por nome do grupo."
+  },
+  "115165067": {
+   "fragment_id": "115186983",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nO pedido de inclusão dos dispositivos médicos para apoio aos doentes com incontinência ou retenção urinária no regime de comparticipação deve ser acompanhado dos seguintes elementos:\n\na) Identificação do fabricante, mandatário (se aplicável) e requerente, caso este não seja o fabricante;\n\nb) Documento, datado e assinado, no qual o fabricante nomeie o requerente como seu representante, dotando-o de poderes para o efeito (se aplicável);\n\nc) Nome comercial do dispositivo a comparticipar e do respetivo código de dispositivo médico (CDM);\n\nd) Identificação de qual o grupo, dos indicados no anexo I à presente portaria, da qual faz parte integrante, onde se integra o dispositivo;\n\ne) Apresentação dos elementos que demonstram o cumprimento dos requisitos técnicos gerais e específicos, estabelecidos por despacho do membro do Governo responsável pela área da saúde;\n\nf) PVP proposto."
+  },
+  "115187075": {
+   "fragment_id": "115172470",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de comparticipação do Estado no preço de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, destinados a beneficiários do Serviço Nacional de Saúde (SNS) e de outros subsistemas públicos.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+  },
+  "115187076": {
+   "fragment_id": "115172473",
+   "type": 11,
+   "heading": "Artigo 4.º — Prescrição e dispensa",
+   "in_force_from": "2018-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 4.º — Prescrição e dispensa\n\n1 - Os dispositivos médicos objeto de comparticipação são prescritos por via eletrónica, de acordo com as regras definidas na portaria que estabelece o regime jurídico a que obedecem as regras de prescrição e dispensa de medicamentos e produtos de saúde e define as obrigações de informação a prestar aos utentes.\n\n2 - Os dispositivos médicos abrangidos pela presente portaria apenas podem ser prescritos nos estabelecimentos e por médicos do SNS, devendo estes fazer menção expressa à presente portaria.\n\n3 - Os dispositivos médicos abrangidos pela presente portaria apenas podem ser dispensados nas farmácias de oficina.\n\n4 - A prescrição de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária inclui obrigatoriamente a marca e modelo do dispositivo médico, selecionado de entre os disponíveis, podendo em alguns casos ser feita apenas por indicação do grupo referido no Anexo I à presente portaria.\n\n5 - O pagamento pelas Administrações Regionais de Saúde às farmácias efetua-se nos mesmos termos, prazos e condições da faturação e pagamento das comparticipações nos preços dos medicamentos, de acordo com a legislação em vigor.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+  },
+  "115165065": {
+   "fragment_id": "115186981",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado Adjunto e da Saúde, Fernando Manuel Ferreira Araújo, em 1 de março de 2017."
+  },
+  "840687152": {
+   "fragment_id": "115172470",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime excecional de comparticipação do Estado no preço de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+  },
+  "840687153": {
+   "fragment_id": "115172472",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de comparticipação",
+   "in_force_from": "2024-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado é de 100 % do PVP fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - Os dispositivos médicos abrangidos pela presente portaria dependem de prescrição médica, devendo esta fazer menção expressa à presente portaria.\n\n3 - A inclusão de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária no regime de comparticipação pressupõe o cumprimento dos requisitos nacionais para a colocação no mercado de dispositivos médicos, bem como a demonstração de características técnicas gerais e específicas estabelecidas por despacho do membro do Governo responsável pela área da saúde.\n\n4 - O procedimento de comparticipação pode ser sujeito a um regime especial de preços máximos (PVP máximo), o qual inclui as margens de comercialização e o IVA à taxa legal em vigor, estabelecido por despacho do membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08"
+  },
+  "840687154": {
+   "fragment_id": "115172473",
+   "type": 11,
+   "heading": "Artigo 4.º — Prescrição e dispensa",
+   "in_force_from": "2024-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 4.º — Prescrição e dispensa\n\n1 - Os dispositivos médicos objeto de comparticipação são prescritos por via eletrónica, de acordo com as regras definidas na portaria que estabelece o regime jurídico a que obedecem as regras de prescrição e dispensa de medicamentos e produtos de saúde e define as obrigações de informação a prestar aos utentes.\n\n2 - (Revogado.)\n\n3 - Os dispositivos médicos abrangidos pela presente portaria apenas podem ser dispensados nas farmácias de oficina.\n\n4 - A prescrição de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária inclui obrigatoriamente a marca e modelo do dispositivo médico, selecionado de entre os disponíveis, podendo em alguns casos ser feita apenas por indicação do grupo referido no Anexo I à presente portaria.\n\n5 - O pagamento pelas Administrações Regionais de Saúde às farmácias efetua-se nos mesmos termos, prazos e condições da faturação e pagamento das comparticipações nos preços dos medicamentos, de acordo com a legislação em vigor.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+  },
+  "908115400": {
+   "fragment_id": "115172470",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime excecional de comparticipação do Estado no preço de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+  },
+  "908115401": {
+   "fragment_id": "115172471",
+   "type": 11,
+   "heading": "Artigo 2.º — Dispositivos médicos comparticipáveis",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Dispositivos médicos comparticipáveis\n\nOs dispositivos médicos para o apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, que podem ser objeto de comparticipação são os constantes do anexo i da presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  },
+  "908115402": {
+   "fragment_id": "115172472",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições de comparticipação",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08"
+   ],
+   "markdown": "###### Artigo 3.º — Condições de comparticipação\n\n1 - O valor da comparticipação do Estado é de 100 % do PVP fixado para efeitos de comparticipação, nos termos previstos na presente portaria.\n\n2 - Os dispositivos médicos abrangidos pela presente portaria dependem de prescrição médica, devendo esta fazer menção expressa à presente portaria.\n\n3 - A inclusão de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, no regime de comparticipação pressupõe o cumprimento dos requisitos nacionais para a colocação no mercado de dispositivos médicos, designadamente os previstos no Regulamento (UE) 2017/745 do Parlamento Europeu e do Conselho, de 5 de abril de 2017, na sua redação atual, e no respetivo diploma de execução na ordem jurídica nacional, bem como a demonstração de características técnicas gerais e específicas estabelecidas por despacho do membro do Governo responsável pela área da saúde.\n\n4 - O procedimento de comparticipação pode ser sujeito a um regime especial de preços máximos (PVP máximo), o qual inclui as margens de comercialização e o IVA à taxa legal em vigor, estabelecido por despacho do membro do Governo responsável pela área da saúde.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08"
+  },
+  "908115403": {
+   "fragment_id": "115172473",
+   "type": 11,
+   "heading": "Artigo 4.º — Prescrição e dispensa",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01",
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08",
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+   ],
+   "markdown": "###### Artigo 4.º — Prescrição e dispensa\n\n1 - Os dispositivos médicos objeto de comparticipação são prescritos por via eletrónica, de acordo com as regras definidas na portaria que estabelece o regime jurídico a que obedecem as regras de prescrição e dispensa de medicamentos e produtos de saúde e define as obrigações de informação a prestar aos utentes.\n\n2 - (Revogado.)\n\n3 - Os dispositivos médicos abrangidos pela presente portaria apenas podem ser dispensados nas farmácias de oficina.\n\n4 - A prescrição de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, inclui obrigatoriamente a marca e modelo do dispositivo médico, selecionado de entre os disponíveis, podendo em alguns casos ser feita apenas por indicação do grupo referido no anexo i da presente portaria.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 45/2024 - Diário da República n.º 27/2024, Série I de 2024-02-07](https://diariodarepublica.pt/dr/detalhe/portaria/45-2024-840584999), em vigor a partir de 2024-03-08\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 111/2018 - Diário da República n.º 81/2018, Série I de 2018-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2018-115182509), em vigor a partir de 2018-05-01"
+  },
+  "908115404": {
+   "fragment_id": "115172474",
+   "type": 11,
+   "heading": "Artigo 5.º — Instrução do procedimento de comparticipação",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "###### Artigo 5.º — Instrução do procedimento de comparticipação\n\n1 - O pedido de inclusão de dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, no regime de comparticipação previsto na presente portaria é requerido ao INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED, I. P.), instruído com os elementos identificados no anexo ii da presente portaria, da qual faz parte integrante.\n\n2 - O INFARMED, I. P., deve, no prazo de 20 dias, apreciar a regularidade do requerimento e/ou solicitar elementos ou esclarecimentos adicionais.\n\n3 - O requerente deve entregar ou prestar os elementos adicionais no prazo de 5 dias a contar da data da notificação pelo INFARMED, I. P.\n\n4 - O pedido é liminarmente indeferido quando:\n\na) Não tenham sido prestados os esclarecimentos ou apresentados os elementos adicionais no prazo referido no número anterior;\n\nb) O requerimento não seja aperfeiçoado, após notificação do INFARMED, I. P.;\n\nc) Não tenham sido utilizados os modelos de documentos indicados pelo INFARMED, I. P.\n\n5 - O requerente deve ser notificado da decisão de indeferimento liminar e dos respetivos fundamentos.\n\n6 - (Revogado.)\n\n7 - As comunicações referentes ao procedimento de comparticipação são realizadas através de meios eletrónicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  },
+  "908115405": {
+   "fragment_id": "115186975",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação e decisão",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "###### Artigo 6.º — Avaliação e decisão\n\n1 - Compete aos serviços do INFARMED, I. P., a responsabilidade pela emissão dos pareceres de avaliação dos dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, para efeitos de comparticipação, podendo a mesma ser submetida à Comissão de Avaliação de Tecnologias de Saúde (CATS), sempre que se revele necessário e mediante solicitação.\n\n2 - Os pareceres da avaliação favoráveis e deliberados pela CATS, se aplicável, são enviados aos requerentes para conhecimento, podendo ser solicitados esclarecimentos ou apresentadas objeções no prazo de 10 dias.\n\n3 - Se o processo contiver todos os elementos considerados suficientes, o INFARMED, I. P. propõe ao membro do Governo responsável pela área da saúde o pedido de inclusão do dispositivo no regime de comparticipação previsto na presente portaria no prazo de 10 dias após a validação.\n\n4 - A decisão prevista no número anterior é notificada ao requerente por via eletrónica.\n\n5 - A decisão de indeferimento do pedido é notificada ao requerente com todos os elementos que serviram de base à decisão e contém a indicação sobre os meios de reação contenciosa do ato e respetivos prazos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  },
+  "908115406": {
+   "fragment_id": "115186976",
+   "type": 11,
+   "heading": "Artigo 7.º — Comercialização",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Comercialização\n\n1 - O fabricante de um dispositivo médico, ou um seu representante com poderes para o efeito, está obrigado a comunicar o início, suspensão ou cessação da comercialização, da sua iniciativa, do dispositivo médico comparticipado, com uma antecedência não inferior a 15 dias nem superior a 30 dias sobre a data do efetivo início, que deve coincidir com o 1.º dia de cada mês.\n\n2 - Os dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, incluídos no regime de comparticipação, devem estar obrigatoriamente disponíveis para dispensa nas farmácias, em conformidade com a notificação do início de comercialização.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  },
+  "908115407": {
+   "fragment_id": "115186977",
+   "type": 11,
+   "heading": "Artigo 8.º — Publicitação da comparticipação",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Publicitação da comparticipação\n\n1 - Após as comunicações de início, suspensão ou cessação da comercialização do dispositivo médico, feitas pelo requerente nos termos legais, o dispositivo médico é incluído ou excluído, respetivamente, nas listas e ficheiros de dispositivos médicos comparticipados.\n\n2 - Sem prejuízo do disposto no número anterior, a aplicação do PVP resultante do procedimento de comparticipação produz imediatamente efeitos após a decisão de comparticipação.\n\n3 - Os dispositivos médicos para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, já colocados no circuito de comercialização têm um prazo de escoamento de 60 dias.\n\n4 - A inclusão ou retirada do dispositivo médico dos ficheiros de dispositivos médicos comparticipados ocorre mensalmente até ao dia 15 de cada mês, produzindo efeitos a partir do primeiro dia do mês seguinte.\n\n5 - A lista dos dispositivos médicos comparticipados é atualizada periodicamente pelo INFARMED, I. P., e divulgada pelos meios considerados mais adequados, nomeadamente através da página eletrónica desta entidade.\n\n6 - Os ficheiros de dispositivos médicos, devidamente atualizados, são disponibilizados pelo INFARMED, I. P., às entidades competentes.\n\n7 - Das listas e ficheiros referidos nos números anteriores devem constar o nome, marca e modelo do dispositivo médico, o código atribuído ao dispositivo incluído no regime de comparticipação, o preço e o respetivo valor da comparticipação.\n\n8 - A inclusão ou exclusão das listas resultantes da comunicação a que se refere o n.º 1 produz efeitos nos termos legais definidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  },
+  "908115408": {
+   "fragment_id": "115186978",
+   "type": 11,
+   "heading": "Artigo 9.º — Marcação de embalagens",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Marcação de embalagens\n\nAs embalagens dos dispositivos médicos comparticipados para apoio a doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, devem apresentar preço de venda ao público (PVP), bem como o código de identificação atribuído ao dispositivo médico aquando da sua inclusão no regime de comparticipação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  },
+  "908115409": {
+   "fragment_id": "115186982",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "## Anexo I\n\nSaco coletor de urina.\n\nCateter externo feminino.\n\nCateter externo masculino.\n\nSonda de cateterização/esvaziamento intermitente com lubrificação feminina.\n\nSonda de cateterização/esvaziamento intermitente com lubrificação masculina.\n\nSonda de cateterização/esvaziamento intermitente sem lubrificação feminina.\n\nSonda de cateterização/esvaziamento intermitente sem lubrificação masculina.\n\nKit para cateterização intermitente.\n\nLubrificante em bisnaga (*).\n\nLubrificante em unidose (*).\n\nTampão anal.\n\nKit de irrigação.\n\nConsumíveis de kit de irrigação.\n\n(*) Pode ser prescrito por nome do grupo.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  },
+  "908115410": {
+   "fragment_id": "115186983",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2025-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+   ],
+   "markdown": "## Anexo II\n\nO pedido de inclusão dos dispositivos médicos para apoio aos doentes com incontinência ou retenção urinária, e para apoio a doentes com obstipação ou incontinência fecal, no regime de comparticipação deve ser acompanhado dos seguintes elementos:\n\na) Identificação do fabricante, mandatário (se aplicável) e requerente, caso este não seja o fabricante;\n\nb) Documento, datado e assinado, no qual o fabricante nomeie o requerente como seu representante, dotando-o de poderes para o efeito (se aplicável);\n\nc) Nome comercial do dispositivo a comparticipar e do respetivo código de dispositivo médico (CDM);\n\nd) Identificação de qual o grupo, dos indicados no anexo i da presente portaria, da qual faz parte integrante, onde se integra o dispositivo;\n\ne) Apresentação dos elementos que demonstram o cumprimento dos requisitos técnicos gerais e específicos, estabelecidos por despacho do membro do Governo responsável pela área da saúde;\n\nf) PVP proposto.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 47/2025/1 - Diário da República n.º 36/2025, Série I de 2025-02-20](https://diariodarepublica.pt/dr/detalhe/portaria/47-2025-908074083), em vigor a partir de 2025-03-01"
+  }
+ }
+}

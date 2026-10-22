@@ -1,0 +1,186 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:116108102:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2018-117658790",
+ "dre_path": "/dr/detalhe/lei/56-2018-116108102",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117658279",
+    "117658280",
+    "117658281",
+    "117658282",
+    "117658283",
+    "117658284",
+    "117658285",
+    "117658286",
+    "117658287",
+    "117658288",
+    "117658289",
+    "117658290"
+   ]
+  },
+  {
+   "date": "2019-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117658782:por",
+     "title": "Lei n.º 1/2019",
+     "published": "2019-01-09",
+     "dre_path": "/dr/detalhe/lei/1-2019-117658782"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "117658279",
+    "117658280",
+    "117658281",
+    "117658282",
+    "117658283",
+    "117658284",
+    "117658285",
+    "117658297",
+    "117658287",
+    "117658298",
+    "117658289",
+    "117658290",
+    "117658291"
+   ]
+  }
+ ],
+ "fragments": {
+  "117658279": {
+   "fragment_id": "117658791",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 56/2018\n\nde 20 de agosto\n\nObservatório técnico independente para análise, acompanhamento e avaliação dos incêndios florestais e rurais que ocorram no território nacional\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:\n\n> Nota: [Lei n.º 1/2020 - Diário da República n.º 9/2020, Série I de 2020-01-14](https://diariodarepublica.pt/dr/detalhe/lei/1-2020-128071718) É prorrogado, até 31 de dezembro de 2020, o prazo da vigência do observatório técnico independente para análise, acompanhamento e avaliação dos incêndios florestais e rurais que ocorram no território nacional."
+  },
+  "117658280": {
+   "fragment_id": "117658792",
+   "type": 11,
+   "heading": "Artigo 1.º — Observatório técnico independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Observatório técnico independente\n\nA presente lei cria o observatório técnico independente para análise, acompanhamento e avaliação dos incêndios florestais e rurais que ocorram no território nacional, doravante designado como Observatório, cuja missão consiste em proceder a uma avaliação independente dos incêndios florestais e rurais que ocorram em território nacional, prestando apoio científico às comissões parlamentares com competência em matéria de gestão integrada de incêndios rurais, proteção civil, ordenamento do território, agricultura e desenvolvimento rural, floresta e conservação da natureza."
+  },
+  "117658281": {
+   "fragment_id": "117658793",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\nPara o desempenho da sua missão, são conferidas ao Observatório as seguintes atribuições:\n\na) Participar ativamente no esclarecimento do público não especializado e do decisor político sobre medidas técnicas e políticas em discussão no âmbito da prevenção e combate a incêndios rurais;\n\nb) Aconselhar a Assembleia da República em matéria de política de resposta a incêndios florestais;\n\nc) Emitir pareceres na revisão do Plano Nacional de Gestão Integrada de Fogos Rurais;\n\nd) Analisar e avaliar todas as origens, caraterísticas e dinâmicas dos incêndios referidos no artigo anterior sempre que a Assembleia da República solicite a sua intervenção;\n\ne) Pronunciar-se sobre o relatório anual de atividades do Sistema de Gestão Integrada de Fogos Rurais (SGIFR), apresentado à Assembleia da República pela Agência para a Gestão Integrada de Fogos Rurais, I. P.;\n\nf) Monitorizar o impacto das medidas públicas desenvolvidas no âmbito das presentes atribuições;\n\ng) Dar contributos, através de audição e emissão de recomendações ou pareceres, sobre iniciativas legislativas que possam contribuir direta ou indiretamente para a redução do perigo e risco de incêndios."
+  },
+  "117658282": {
+   "fragment_id": "117658794",
+   "type": 11,
+   "heading": "Artigo 3.º — Composição e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Composição e vigência\n\n1 - O Observatório é composto por dez técnicos especialistas de reconhecido mérito, nacionais e internacionais, com competências no âmbito da proteção civil, prevenção e combate aos incêndios florestais, ciências climáticas, ordenamento florestal e comunicações e análise de risco.\n\n2 - Os membros do Observatório são designados do seguinte modo:\n\na) Seis peritos designados pelo Presidente da Assembleia da República ouvidos os Grupos Parlamentares;\n\nb) Dois peritos indicados pelo Conselho de Reitores das Universidades Portuguesas e outros dois indicados pelo Conselho Coordenador dos Institutos Politécnicos Portugueses, designados pelo Presidente da Assembleia da República, sendo Presidente um destes quatro.\n\n3 - O Observatório tem a sua vigência limitada ao período de um ano, sem prejuízo da possibilidade de prorrogação."
+  },
+  "117658283": {
+   "fragment_id": "117658795",
+   "type": 11,
+   "heading": "Artigo 4.º — Independência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Independência\n\nOs membros do Observatório atuam de forma independente no desempenho das funções que lhe estão cometidas pela presente lei, não estando vinculados a instruções da Assembleia da República, do Governo ou de quaisquer outras entidades públicas ou privadas, incluindo as entidades que participam no sistema de prevenção, segurança e combate aos incêndios florestais."
+  },
+  "117658284": {
+   "fragment_id": "117658796",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acesso à informação\n\n1 - O Observatório tem acesso a toda a informação necessária ao cumprimento da sua missão, estando todas as entidades públicas e privadas obrigadas ao seu fornecimento atempado, e aos esclarecimentos adicionais que lhes forem solicitados.\n\n2 - O acesso à informação referido no número anterior obedece às regras previstas na lei em matéria de segredo de Estado e de segredo de justiça.\n\n3 - O incumprimento do dever de prestação de informação em tempo oportuno por parte das entidades referidas no n.º 1 é objeto de divulgação no relatório semestral a que se refere o artigo 6.º"
+  },
+  "117658285": {
+   "fragment_id": "117658797",
+   "type": 11,
+   "heading": "Artigo 6.º — Relatório semestral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Relatório semestral\n\n1 - O Observatório apresenta semestralmente à Assembleia da República, um relatório da sua atividade, o qual deve conter as suas conclusões, a monitorização do impacto das medidas públicas desenvolvidas, bem como as recomendações que considere pertinentes no âmbito das suas atribuições, designadamente em termos de prevenção, mecanismos de proteção civil e planeamento da época de combate a incêndios.\n\n2 - O relatório referido no número anterior é remetido ao Presidente da Assembleia da República e aos grupos parlamentares e apreciado em sessão plenária."
+  },
+  "117658286": {
+   "fragment_id": "117658798",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatuto dos membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatuto dos membros\n\n1 - Os membros do Observatório não podem desempenhar atividades que possam ser objetivamente geradoras de conflitos de interesse com o desempenho das funções previstas na presente lei.\n\n2 - Os membros do Observatório têm direito a ajudas de custo e despesas de transporte por cada reunião a que compareçam."
+  },
+  "117658287": {
+   "fragment_id": "117658799",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\nO Observatório define as regras do seu funcionamento interno nos termos da presente lei."
+  },
+  "117658288": {
+   "fragment_id": "117658800",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio administrativo, logístico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio administrativo, logístico e financeiro\n\nO apoio administrativo, logístico e financeiro do Observatório é assegurado pela Assembleia da República."
+  },
+  "117658289": {
+   "fragment_id": "117658801",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição transitória\n\nO Observatório realiza, até ao final do ano de 2018, uma auditoria aos vários instrumentos e instituições que constituem o sistema nacional de proteção civil, remetendo os seus resultados e conclusões à Assembleia da República."
+  },
+  "117658290": {
+   "fragment_id": "117658802",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "117658297": {
+   "fragment_id": "117658798",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatuto dos membros",
+   "in_force_from": "2019-01-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2019 - Diário da República n.º 6/2019, Série I de 2019-01-09](https://diariodarepublica.pt/dr/detalhe/lei/1-2019-117658782), em vigor a partir de 2019-01-10"
+   ],
+   "markdown": "###### Artigo 7.º — Estatuto dos membros\n\n1 - Os membros do Observatório não podem desempenhar atividades que possam ser objetivamente geradoras de conflitos de interesse com o desempenho das funções previstas na presente lei.\n\n2 - Os membros do observatório são equiparados a dirigente superior de 1.º grau para efeitos remuneratórios.\n\n3 - Os membros do Observatório têm direito a ajudas de custo e despesas de transporte por cada reunião a que compareçam.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2019 - Diário da República n.º 6/2019, Série I de 2019-01-09](https://diariodarepublica.pt/dr/detalhe/lei/1-2019-117658782), em vigor a partir de 2019-01-10"
+  },
+  "117658298": {
+   "fragment_id": "117658800",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio administrativo, logístico e financeiro",
+   "in_force_from": "2019-01-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2019 - Diário da República n.º 6/2019, Série I de 2019-01-09](https://diariodarepublica.pt/dr/detalhe/lei/1-2019-117658782), em vigor a partir de 2019-01-10"
+   ],
+   "markdown": "###### Artigo 9.º — Apoio administrativo, logístico e financeiro\n\nO apoio administrativo, logístico e financeiro do observatório é assegurado pelos serviços a disponibilizar pela Assembleia da República, incluindo a remuneração dos respetivos membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 1/2019 - Diário da República n.º 6/2019, Série I de 2019-01-09](https://diariodarepublica.pt/dr/detalhe/lei/1-2019-117658782), em vigor a partir de 2019-01-10"
+  },
+  "117658291": {
+   "fragment_id": "117658803",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 18 de julho de 2018.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 2 de agosto de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 6 de agosto de 2018.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n111575292"
+  }
+ }
+}

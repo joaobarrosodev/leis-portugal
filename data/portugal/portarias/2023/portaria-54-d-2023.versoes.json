@@ -1,0 +1,1053 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:207942898:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-213812693",
+ "dre_path": "/dr/detalhe/portaria/54-d-2023-207942898",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-02-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213750629",
+    "213750630",
+    "213750631",
+    "213750632",
+    "213750633",
+    "213750634",
+    "213750635",
+    "213750636",
+    "213750637",
+    "213750638",
+    "213750639",
+    "213750640",
+    "213750641",
+    "213750642",
+    "213750643",
+    "213750644",
+    "213750645",
+    "213750646",
+    "213750647",
+    "213750648",
+    "213750649",
+    "213750650",
+    "213750651",
+    "213750652",
+    "213750653",
+    "213750654",
+    "213750655",
+    "213750656",
+    "213750657",
+    "213750658",
+    "213750659",
+    "213750660",
+    "213750661",
+    "213750662",
+    "213750663",
+    "213750664",
+    "213750665",
+    "213750666",
+    "213750667",
+    "213750668",
+    "213750669",
+    "213750670",
+    "213750671",
+    "213750672",
+    "213750674",
+    "213812375",
+    "213812376"
+   ]
+  },
+  {
+   "date": "2023-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213761245:por",
+     "title": "Portaria n.º 147-A/2023",
+     "published": "2023-05-30",
+     "dre_path": "/dr/detalhe/portaria/147-a-2023-213761245"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "213750629",
+    "213750630",
+    "213750631",
+    "213750632",
+    "213750633",
+    "213750634",
+    "213812449",
+    "213750636",
+    "213750637",
+    "213750638",
+    "213750639",
+    "213750640",
+    "213750641",
+    "213750642",
+    "213750643",
+    "213750644",
+    "213750645",
+    "213750646",
+    "213750647",
+    "213750648",
+    "213750649",
+    "213750650",
+    "213750651",
+    "213750652",
+    "213750653",
+    "213750654",
+    "213750655",
+    "213750656",
+    "213750657",
+    "213750658",
+    "213750659",
+    "213750660",
+    "213750661",
+    "213750662",
+    "213750663",
+    "213750664",
+    "213750665",
+    "213750666",
+    "213750667",
+    "213750668",
+    "213750669",
+    "213750670",
+    "213750671",
+    "213750672",
+    "213750673",
+    "213750674",
+    "213812375",
+    "213812376"
+   ]
+  },
+  {
+   "date": "2023-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:222939646:por",
+     "title": "Portaria n.º 314/2023",
+     "published": "2023-10-19",
+     "dre_path": "/dr/detalhe/portaria/314-2023-222939646"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A"
+   ],
+   "fragments": [
+    "213750629",
+    "223079813",
+    "213750631",
+    "213750632",
+    "213750633",
+    "213750634",
+    "213812449",
+    "213750636",
+    "223079825",
+    "223079814",
+    "213750638",
+    "213750639",
+    "213750640",
+    "213750641",
+    "213750642",
+    "213750643",
+    "213750644",
+    "213750645",
+    "213750646",
+    "213750647",
+    "213750648",
+    "213750649",
+    "213750650",
+    "223079815",
+    "213750652",
+    "213750653",
+    "213750654",
+    "213750655",
+    "223079816",
+    "213750657",
+    "213750658",
+    "213750659",
+    "213750660",
+    "223079817",
+    "213750662",
+    "213750663",
+    "223079818",
+    "213750665",
+    "213750666",
+    "213750667",
+    "213750668",
+    "223079819",
+    "213750670",
+    "213750671",
+    "213750672",
+    "223079820",
+    "223079821",
+    "223079822",
+    "223079823"
+   ]
+  },
+  {
+   "date": "2024-03-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:854130987:por",
+     "title": "Portaria n.º 80-C/2024/1",
+     "published": "2024-03-04",
+     "dre_path": "/dr/detalhe/portaria/80-c-2024-854130987"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "213750629",
+    "223079813",
+    "213750631",
+    "213750632",
+    "213750633",
+    "213750634",
+    "860663354",
+    "213750636",
+    "223079825",
+    "223079814",
+    "213750638",
+    "213750639",
+    "213750640",
+    "213750641",
+    "213750642",
+    "213750643",
+    "213750644",
+    "213750645",
+    "213750646",
+    "213750647",
+    "213750648",
+    "213750649",
+    "213750650",
+    "223079815",
+    "213750652",
+    "213750653",
+    "213750654",
+    "213750655",
+    "223079816",
+    "213750657",
+    "213750658",
+    "213750659",
+    "213750660",
+    "223079817",
+    "213750662",
+    "213750663",
+    "223079818",
+    "213750665",
+    "213750666",
+    "213750667",
+    "213750668",
+    "223079819",
+    "213750670",
+    "213750671",
+    "213750672",
+    "223079820",
+    "223079821",
+    "223079822",
+    "223079823"
+   ]
+  },
+  {
+   "date": "2024-05-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:865926874:por",
+     "title": "Portaria n.º 155-A/2024/1",
+     "published": "2024-05-24",
+     "dre_path": "/dr/detalhe/portaria/155-a-2024-865926874"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "213750629",
+    "223079813",
+    "213750631",
+    "213750632",
+    "213750633",
+    "213750634",
+    "867193497",
+    "213750636",
+    "223079825",
+    "223079814",
+    "213750638",
+    "213750639",
+    "213750640",
+    "213750641",
+    "213750642",
+    "213750643",
+    "213750644",
+    "213750645",
+    "213750646",
+    "213750647",
+    "213750648",
+    "213750649",
+    "213750650",
+    "223079815",
+    "213750652",
+    "213750653",
+    "213750654",
+    "213750655",
+    "223079816",
+    "213750657",
+    "213750658",
+    "213750659",
+    "213750660",
+    "223079817",
+    "213750662",
+    "213750663",
+    "223079818",
+    "213750665",
+    "213750666",
+    "213750667",
+    "213750668",
+    "223079819",
+    "213750670",
+    "213750671",
+    "213750672",
+    "223079820",
+    "223079821",
+    "223079822",
+    "223079823"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901536097:por",
+     "title": "Portaria n.º 365/2024/1",
+     "published": "2024-12-30",
+     "dre_path": "/dr/detalhe/portaria/365-2024-901536097"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 29.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "213750629",
+    "223079813",
+    "213750631",
+    "213750632",
+    "213750633",
+    "213750634",
+    "867193497",
+    "213750636",
+    "223079825",
+    "223079814",
+    "213750638",
+    "213750639",
+    "213750640",
+    "213750641",
+    "213750642",
+    "213750643",
+    "213750644",
+    "213750645",
+    "213750646",
+    "213750647",
+    "901657492",
+    "213750649",
+    "213750650",
+    "223079815",
+    "213750652",
+    "213750653",
+    "213750654",
+    "213750655",
+    "223079816",
+    "213750657",
+    "213750658",
+    "213750659",
+    "213750660",
+    "223079817",
+    "213750662",
+    "213750663",
+    "223079818",
+    "213750665",
+    "901657493",
+    "213750667",
+    "213750668",
+    "223079819",
+    "213750670",
+    "213750671",
+    "213750672",
+    "223079820",
+    "223079821",
+    "901657494",
+    "223079823"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993315590:por",
+     "title": "Portaria n.º 482-A/2025/1",
+     "published": "2025-12-31",
+     "dre_path": "/dr/detalhe/portaria/482-a-2025-993315590"
+    }
+   ],
+   "changes": [
+    "Adita Anexo IV",
+    "Altera Artigo 27.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 31.º"
+   ],
+   "fragments": [
+    "213750629",
+    "223079813",
+    "213750631",
+    "213750632",
+    "213750633",
+    "213750634",
+    "867193497",
+    "213750636",
+    "223079825",
+    "223079814",
+    "213750638",
+    "213750639",
+    "213750640",
+    "213750641",
+    "213750642",
+    "213750643",
+    "213750644",
+    "213750645",
+    "213750646",
+    "213750647",
+    "901657492",
+    "213750649",
+    "213750650",
+    "223079815",
+    "213750652",
+    "213750653",
+    "213750654",
+    "213750655",
+    "223079816",
+    "213750657",
+    "213750658",
+    "213750659",
+    "213750660",
+    "223079817",
+    "213750662",
+    "993774265",
+    "223079818",
+    "213750665",
+    "993774266",
+    "213750667",
+    "993774267",
+    "223079819",
+    "213750670",
+    "213750671",
+    "213750672",
+    "223079820",
+    "223079821",
+    "901657494",
+    "223079823",
+    "993774268"
+   ]
+  }
+ ],
+ "fragments": {
+  "213750629": {
+   "fragment_id": "213812694",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 54-D/2023\n\nde 27 de fevereiro\n\nSumário: Estabelece as normas nacionais de aplicação das intervenções de pagamentos diretos dissociados previstas nos artigos 21.º, 28.º e 29.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à aplicação do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC), no continente.\n\nA reforma da Política Agrícola Comum (PAC), em 2021, estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo os Regulamentos (UE) 2021/2115 e 2021/2116, ambos do Parlamento Europeu e do Conselho.\n\nA estratégia nacional e a respetiva lógica de intervenção subjacente ao PEPAC Portugal tem implícita uma gestão ativa de todo o território baseada numa produção agrícola e florestal inovadora e sustentável.\n\nAs intervenções «pagamento aos pequenos agricultores» e «apoio redistributivo complementar», as quais pertencem ao domínio «Equidade» e a intervenção «apoio ao rendimento base» pertencente ao domínio «Rendimento e Resiliência», constituem «pagamentos diretos dissociados» e entram em vigor a 1 de janeiro de 2023.\n\nA aplicação do regime do pagamento base, nos termos do quadro regulamentar anterior, designadamente do Regulamento (UE) n.º 1307/2013, a partir de 2015 caracterizou-se por uma aproximação progressiva do valor unitário dos direitos históricos ao valor médio nacional.\n\nNeste sentido, durante o período de transição, nos anos 2021 e 2022, foi dada continuidade ao processo de convergência interna e, tendo em vista alcançar a convergência total do apoio base ao rendimento em 2026, o PEPAC Portugal mantém, com início em 2023, o processo de convergência interna, ao abrigo do Regulamento (UE) 2021/2115.\n\nAssim, mantém-se ativo, durante a aplicação do PEPAC Portugal, o reforço do envelope de pagamentos diretos, por transferência do envelope de desenvolvimento rural de 85 milhões de euros por ano, iniciado em 2020.\n\nA intervenção de apoio ao rendimento base é concedida sob a forma de direitos ao pagamento até 2025 e ao hectare elegível a partir de 2026, pelo que importa definir o mecanismo de aplicação da convergência interna no valor dos direitos ao pagamento, da redução dos pagamentos, das regras para a transferência de direitos ao pagamento, bem como das regras para atribuição dos direitos ao pagamento por via da reserva nacional, o seu aprovisionamento e as condições de acesso.\n\nTendo em conta o reconhecido papel que desempenham as explorações agrícolas de pequena e média dimensão no apoio ao emprego nas zonas rurais, na ocupação territorial, na sustentabilidade ambiental e no seu contributo para contrariar a desertificação dos espaços rurais é fundamental promover uma distribuição mais equitativa e de uma orientação mais eficaz e eficiente do apoio ao rendimento a favor destas explorações, quer através do pagamento aos pequenos agricultores, quer através do apoio redistributivo complementar.\n\nNo que se refere à intervenção específica para os pequenos agricultores, que substitui as restantes intervenções sob a forma de pagamentos diretos, este pagamento será modulado através de três montantes únicos de acordo com três escalões de superfície elegível, com o objetivo de alcançar uma melhor redistribuição do apoio ao rendimento a favor das pequenas e médias explorações.\n\nNo caso do apoio redistributivo complementar optou-se por intervir através da dimensão do envelope financeiro dos pagamentos diretos atribuído a esta intervenção, cumprindo a obrigatoriedade regulamentar de lhe dedicar pelo menos 10 % do envelope de pagamentos diretos. Por outro lado, o objetivo inerente a esta intervenção é igualmente reforçado através da própria modalidade escolhida para a atribuição do apoio, até um máximo de 20 hectares para as explorações que detenham uma superfície elegível até 100 hectares, modalidade esta que terá um efeito redistributivo visto não abranger a totalidade de explorações beneficiárias do apoio ao rendimento base.\n\nNestes termos, cumpre estabelecer as normas nacionais de aplicação das três intervenções de pagamentos diretos dissociados já mencionadas, designadamente o apoio ao rendimento base, o pagamento aos pequenos agricultores e o apoio redistributivo complementar.\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo da alínea b) do n.º 3 do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:"
+  },
+  "213750630": {
+   "fragment_id": "213812695",
+   "type": 1,
+   "heading": "Capítulo I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições iniciais"
+  },
+  "213750631": {
+   "fragment_id": "213812696",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as normas nacionais de aplicação das intervenções de pagamentos diretos dissociados previstas nos artigos 21.º, 28.º e 29.º do Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho, no que se refere à aplicação do Plano Estratégico da Política Agrícola Comum para Portugal (PEPAC), no continente."
+  },
+  "213750632": {
+   "fragment_id": "213812697",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamentos diretos dissociados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pagamentos diretos dissociados\n\n1 - Os pagamentos diretos dissociados respeitam aos domínios «A.1 - Rendimento e resiliência» e «A.2 - Equidade» do eixo «A - Rendimento e sustentabilidade».\n\n2 - O domínio «A.1 - Rendimento e resiliência» inclui a intervenção «A.1.1 - Apoio ao rendimento base» e o domínio «A.2 - Equidade» inclui as intervenções ao «A.2.1 - Pagamento aos pequenos agricultores» e «A.2.2 - Apoio redistributivo complementar»."
+  },
+  "213750633": {
+   "fragment_id": "213812698",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação da presente portaria, para além das definições constantes do artigo 3.º do Regulamento (UE) 2021/2115, entende-se por:\n\na) «Alteração de estatuto jurídico ou de denominação», as situações de alteração da pessoa coletiva de um tipo para outro, bem como a alteração de pessoa coletiva para pessoa singular ou vice-versa, mantendo, a pessoa resultante da alteração de estatuto, o controlo da gestão, dos benefícios e do risco financeiro da exploração;\n\nb) «Atividade agrícola», a produção ou a manutenção de uma superfície agrícola num estado que a torne adequada para pastoreio ou cultivo sem ação preparatória especial para além dos métodos e máquinas agrícolas habituais;\n\nc) «Atividades não agrícolas em parcelas de uso predominantemente agrícola», as atividades realizadas em subparcelas agrícolas declaradas no pedido único (PU), de natureza educacional, cultural, desportiva ou recreativa, com duração limitada, que sejam realizadas fora do período vegetativo da cultura ou que, no caso das subparcelas de prado e pastagem permanente, superfície forrageira temporária espontânea ou de pousio, não coloquem em causa pela sua intensidade a predominância da atividade agrícola realizada;\n\nd) «Direito ao pagamento», os direitos de pagamento ao apoio ao rendimento base detidos pelo agricultor, que geram o direito a receber os montantes neles fixados, quando ativados com hectares elegíveis;\n\ne) «Herança antecipada de direitos ao pagamento», a transmissão total ou parcial da titularidade dos direitos ao pagamento, por doação a presumido herdeiro legitimário ou partilha em vida;\n\nf) «Herança antecipada de exploração», a transmissão total ou parcial da titularidade da exploração para agricultor sucessível ou situações equiparadas, por doação a presumido herdeiro legitimário ou partilha em vida;\n\ng) «Jovem agricultor», o agricultor com idade compreendida entre 18 e 40 anos de idade e que se instale pela primeira vez numa exploração agrícola, nos termos do artigo 13.º da presente portaria;\n\nh) «Novo agricultor», o agricultor com mais de 40 anos, responsável pela exploração agrícola, que assume formalmente a sua titularidade e gestão direta e que se encontre nas condições previstas no artigo 13.º da presente portaria;\n\ni) «Produção», a produção, criação ou cultivo de produtos agrícolas, incluindo colheita, ordenha, criação de animais e detenção de animais para fins de produção;\n\nj) «Produtos agrícolas», os produtos enumerados no anexo I do Tratado sobre o Funcionamento da União Europeia (TFUE), a produção de algodão, a talhadia de curta rotação e os viveiros, com exceção dos produtos da pesca e das culturas sem contacto com o solo;\n\nk) «Subparcela», a porção contínua de terreno homogénea com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma, tal como definido no Sistema de Identificação Parcelar (iSIP);\n\nl) «Superfície agrícola», qualquer superfície de terras aráveis, prados e pastagens permanentes, ou culturas permanentes."
+  },
+  "213750634": {
+   "fragment_id": "213812699",
+   "type": 11,
+   "heading": "Artigo 4.º — Agricultor ativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Agricultor ativo\n\n1 - Entende-se por «agricultor ativo», o agricultor, na aceção do artigo 3.º do Regulamento (UE) 2021/2115, que exerce atividade agrícola em território continental, assumindo o risco de gestão associado a essa atividade agrícola, e que respeita as seguintes condições:\n\na) Encontra-se inscrito no registo do agricultor no Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), designadamente no sistema de identificação do beneficiário (IB);\n\nb) Encontra-se inscrito na Autoridade Tributária, com Número de Identificação Fiscal (NIF) e, no caso de pessoa coletiva, detém Classificação de Atividade Económica (CAE) agrícola ou florestal;\n\nc) Detém subparcelas elegíveis inscritas no iSIP ou marca de exploração no âmbito do Sistema Nacional de Identificação e Registo Animal (SNIRA);\n\nd) Detém evidências de nível mínimo de atividade agrícola não produtiva, nas situações em que não haja atividade agrícola produtiva.\n\n2 - Para efeitos da aferição do nível mínimo de atividade agrícola não produtiva referido na alínea d) do número anterior, são consideradas operações de manutenção da superfície agrícola em condições adequadas para o pastoreio ou o cultivo, sem intervenção preparatória especial, para além do uso dos métodos e máquinas agrícolas habituais, nomeadamente pela apresentação das seguintes evidências:\n\na) Realização de operações de controlo de vegetação lenhosa ou arbustiva nas subparcelas de prado e pastagem permanente, superfície forrageira temporária espontânea ou pousio;\n\nb) Realização de operações de preparação de instalação de culturas permanentes e de prados e pastagens;\n\nc) Realização de operações de manutenção de culturas permanentes, nomeadamente podas e desramações.\n\n3 - Para efeitos da alínea a) do número anterior, no caso das áreas inseridas em baldio, o nível mínimo de atividade agrícola deve ser evidenciado através de prática local de pastoreio por efetivos pecuários de ruminantes e equídeos, devendo, para esse efeito, os compartes estarem associados à marca de exploração do baldio ou terem marca de exploração associada à marca de exploração do baldio.\n\n4 - São, ainda, considerados agricultores ativos, os agricultores que tenham, no ano anterior ao ano do pedido, apresentado candidatura no âmbito de pagamentos diretos e um montante de pagamentos diretos que não exceda os 2.000 (euro)."
+  },
+  "213750635": {
+   "fragment_id": "213812700",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade da parcela agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade da parcela agrícola\n\n1 - As subparcelas agrícolas devem estar à disposição do agricultor no dia 31 de maio do ano de apresentação do PU e devem cumprir as condições de elegibilidade ao longo de todo o ano civil.\n\n2 - As subparcelas agrícolas com a ocupação cultural prevista no presente artigo são elegíveis para efeitos das intervenções de pagamentos diretos, na área máxima elegível determinada no iSIP.\n\n3 - As regras de elegibilidade aplicáveis às intervenções de pagamentos diretos, para as subparcelas agrícolas de culturas temporárias, culturas permanentes e prados e pastagens permanentes, são as previstas no diploma que estabelece a «Nomenclatura das ocupações culturais»\n\n4 - A elegibilidade das subparcelas de prados e pastagens permanentes deve ser comprovada através da realização do controlo efetivo da vegetação arbustiva, nomeadamente, através de:\n\na) Corte mecânico, pelo menos de três em três anos, ficando dispensados desta obrigatoriedade os detentores de efetivos pecuários que assegurem o controlo por pastoreio;\n\nb) Realização de queimas e queimadas, devidamente autorizadas.\n\n5 - São ainda elegíveis, para além da superfície agrícola, para efeitos das intervenções de pagamentos diretos, os hectares correspondentes:\n\na) Às parcelas de superfícies florestadas ao abrigo das seguintes medidas relativas à florestação de terras agrícolas, ao longo do período de compromisso:\n\ni) «Florestação de Terras Agrícolas», ao abrigo do Plano de Desenvolvimento Rural (RURIS), no âmbito do Regulamento (CE) n.º 1257/1999, do Conselho;\n\nii) Subação 2.3.2.2 «Instalação de Sistemas Florestais e Agroflorestais», ao abrigo do Programa de Desenvolvimento Rural (PRODER), no âmbito do Regulamento (CE) n.º 1698/2005, do Conselho;\n\niii) Operação 8.1.1 - «Florestação de Terras Agrícolas e Não Agrícolas» e Operação 8.1.2 - «Instalação de Sistemas Agroflorestais» ao abrigo do Programa de Desenvolvimento Rural do Continente (PDR 2020), no âmbito do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho;\n\niv) Intervenção «Florestação de terras agrícolas e não agrícolas», ao abrigo do PEPAC Continente, no âmbito dos artigos 70.º ou 73.º do Regulamento (UE) 2021/2115.\n\nb) A qualquer superfície da exploração que tenha dado direito a pagamentos do apoio ao rendimento base ou ao abrigo do regime de pagamento de base previsto na Portaria n.º 57/2015, de 27 de fevereiro e que não seja um «hectare elegível» em resultado da aplicação das Diretivas 92/43/CEE, 2009/147/CE ou 2000/60/CE;\n\nc) Aos elementos lineares e de paisagem, árvore isolada, caminho agrícola, linha de água, muro de pedra posta, sebe, vala de drenagem sem revestimento, vala de rega sem revestimento, conforme definidos no diploma que estabelece a «Nomenclatura das Ocupações Culturais», desde que tais elementos não ocupem mais de 50 % da área útil da parcela, e não prejudiquem significativamente o desempenho da atividade agrícola devido à superfície que ocupam na parcela agrícola;\n\nd) Aos elementos paisagísticos que constam do diploma que estabelece a «Nomenclatura das Ocupações Culturais», desde que sejam utilizados para efeitos do cumprimento do disposto nas BCAA 8.1 - Percentagem mínima de superfície agrícola dedicada a áreas não produtivas ou elementos de paisagem e BCAA 8.2 - Manutenção das características da paisagem;\n\ne) Às áreas envolventes das subparcelas das culturas permanentes, incluindo as cabeceiras.\n\n6 - As subparcelas de prática local de pastoreio em baldio são elegíveis para os beneficiários, enquanto compartes do baldio, quando os beneficiários:\n\na) Detenham marca de exploração localizada nos concelhos ou concelhos limítrofes do baldio;\n\nb) Estejam associados à marca de exploração do baldio e sejam residentes nos concelhos ou concelhos limítrofes do baldio.\n\n7 - Incluem-se no hectare elegível, as subparcelas com atividades não agrícolas, em parcelas de uso predominantemente agrícola, cuja duração seja limitada a um máximo de 30 dias, devendo as mesmas serem previamente comunicadas ao IFAP, I. P.\n\n8 - A comunicação referida no número anterior deve ser realizada com uma antecedência mínima de 10 dias úteis, devendo incluir a identificação das subparcelas onde essas atividades são desenvolvidas, a data de início, a duração e a finalidade das mesmas."
+  },
+  "213750636": {
+   "fragment_id": "213812701",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos mínimos para a concessão de pagamento diretos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos mínimos para a concessão de pagamento diretos\n\n1 - Podem beneficiar de pagamentos diretos, os agricultores ativos cujas explorações tenham uma superfície elegível igual ou superior a 0,5 hectares, antes da aplicação de reduções e sanções.\n\n2 - Podem, ainda, beneficiar de pagamentos diretos, os agricultores ativos cujo montante total dos pagamentos pedidos ou a conceder, a título dos regimes de apoio associados aos animais, antes da aplicação de reduções e sanções, for, em determinado ano civil, igual ou superior a 100 (euro)."
+  },
+  "213750637": {
+   "fragment_id": "213812702",
+   "type": 1,
+   "heading": "Capítulo II — Apoio ao rendimento base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoio ao rendimento base"
+  },
+  "213750638": {
+   "fragment_id": "213812703",
+   "type": 8,
+   "heading": "Secção I — Elegibilidade e valor dos direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Elegibilidade e valor dos direitos"
+  },
+  "213750639": {
+   "fragment_id": "213812704",
+   "type": 11,
+   "heading": "Artigo 7.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objetivo\n\nO apoio ao rendimento base tem como objetivo garantir um nível mínimo de apoio ao rendimento agrícola dos agricultores ativos e contribuir para um nível de vida equitativo da população agrícola."
+  },
+  "213750640": {
+   "fragment_id": "213812705",
+   "type": 11,
+   "heading": "Artigo 8.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Beneficiários\n\n3 - Podem beneficiar do apoio previsto no presente capítulo, os agricultores ativos que exerçam atividade agrícola em território continental e que:\n\na) Sendo detentores de direitos ao pagamento do apoio ao rendimento base, nos anos 2023 a 2025, ativem os mesmos em qualquer hectare elegível do território continental;\n\nb) Apresentem PU com hectares elegíveis, nos anos de 2026 e 2027.\n\n4 - Podem, ainda, beneficiar do apoio previsto no presente capítulo, os agricultores ativos que:\n\na) Obtenham direitos ao pagamento atribuídos pela reserva nacional, nos termos do disposto na Secção II do presente capítulo;\n\nb) Obtenham direitos ao pagamento por transferência de direitos ao pagamento, incluindo por herança ou herança antecipada."
+  },
+  "213750641": {
+   "fragment_id": "213812706",
+   "type": 11,
+   "heading": "Artigo 9.º — Aplicação da convergência do valor dos direitos ao pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Aplicação da convergência do valor dos direitos ao pagamento\n\n1 - Os direitos ao pagamento do regime de pagamento base detidos pelo agricultor a 31 de dezembro de 2022 são convertidos em direitos ao pagamento do apoio ao rendimento base em 2023, em igual número.\n\n2 - O valor unitário do direito ao pagamento do apoio ao rendimento base é determinado previamente à aplicação da convergência interna anual, sendo o valor do direito ajustado proporcionalmente ao valor estabelecido no ano de PU de 2022, incluindo o valor do correspondente pagamento por práticas agrícolas benéficas para o clima e o ambiente para o mesmo ano de PU.\n\n3 - A aplicação da convergência interna ao valor do direito ao pagamento do apoio ao rendimento base é realizada anualmente sobre o valor unitário do direito ajustado nos termos do número anterior, através de três etapas, implementadas a partir de 2023, nas seguintes condições:\n\na) Em 2023:\n\ni) O valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2022 que seja inferior ao valor unitário médio planeado para o ano 2026, é aumentado em um quarto da diferença verificada para este último valor;\n\nii) O valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2022 que seja superior ao valor unitário médio planeado para o ano de 2026, é reduzido no valor necessário à subida referida na subalínea anterior, de forma proporcional à diferença entre o valor unitário do direito detido pelo agricultor e o valor unitário médio planeado para o ano 2026.\n\nb) Em 2024:\n\ni) O valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2023 que seja inferior ao valor unitário médio planeado para o ano 2026, é aumentado em um terço da diferença verificada para este último valor;\n\nii) O valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2023 que seja superior ao valor unitário médio planeado para o ano de 2026, é reduzido no valor necessário à subida referida na subalínea anterior, de forma proporcional à diferença entre o valor unitário do direito detido pelo agricultor e o valor unitário médio planeado para o ano 2026.\n\nc) Em 2025:\n\ni) O valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2024 que seja inferior ao valor unitário médio planeado para o ano 2026, é aumentado em metade da diferença verificada para este último valor;\n\nii) O valor unitário do direito ao pagamento base detido pelos agricultores em 31 de dezembro de 2024 que seja superior ao valor unitário médio planeado para o ano de 2026, é reduzido no valor necessário à subida referida na subalínea anterior, de forma proporcional à diferença entre o valor unitário do direito detido pelo agricultor e o valor unitário médio planeado para o ano 2026.\n\n4 - Os direitos ao pagamento cessam a 31 de dezembro de 2025, aplicando-se o apoio ao rendimento base, a partir de 2026, sob a forma de um valor uniforme por hectare elegível."
+  },
+  "213750642": {
+   "fragment_id": "213812707",
+   "type": 11,
+   "heading": "Artigo 10.º — Transferência de direitos ao pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Transferência de direitos ao pagamento\n\n1 - Os direitos ao pagamento podem ser transferidos entre agricultores ativos, sem que haja lugar a qualquer retenção a favor da reserva nacional, nas seguintes condições:\n\na) Definitivamente, independentemente da alienação de quaisquer hectares elegíveis;\n\nb) Temporariamente, quando acompanhados do arrendamento de igual número de hectares elegíveis e subordinando-se à vigência desse contrato.\n\n2 - Salvo o disposto nos números seguintes, a transferência de direitos ao pagamento pode ocorrer a qualquer momento, devendo a mesma ser comunicada ao IFAP, I. P., em www.ifap.pt, durante o período a definir anualmente, ficando a respetiva produção de efeitos dependente da verificação dos requisitos legais aplicáveis.\n\n3 - Não é permitida a transferência dos direitos ao pagamento durante o ano civil da respetiva aquisição, exceto em caso de cisões, fusões, alteração de estatuto jurídico ou de denominação, herança e herança antecipada.\n\n4 - Não é permitida a transferência dos direitos a pagamento obtidos da reserva nacional a partir de 2023, exceto em caso de alteração de estatuto jurídico ou de denominação, herança e herança antecipada.\n\n5 - No caso de transferência temporária de direitos a pagamento, é exigido um contrato de arrendamento com um número de hectares elegíveis igual ao número de direitos ao pagamento transferidos, subordinando-se a transferência temporária dos direitos a pagamento à vigência desse contrato."
+  },
+  "213750643": {
+   "fragment_id": "213812708",
+   "type": 11,
+   "heading": "Artigo 11.º — Redução do apoio ao rendimento base do agricultor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Redução do apoio ao rendimento base do agricultor\n\n1 - Ao montante do apoio ao rendimento base do agricultor que exceda 100.000 (euro) num dado ano civil, é aplicada uma redução de 50 % sobre o montante.\n\n2 - Para efeitos de determinação do montante de apoio ao rendimento base, sobre o qual é aplicada a redução referida no número anterior, é subtraído o montante correspondente:\n\na) Aos salários de mão-de-obra permanente ligados à atividade agrícola, efetivamente incorridos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego;\n\nb) Ao custo equivalente da mão-de-obra regular e não assalariada ligada a uma atividade agrícola exercida por pessoas que trabalham na exploração, mas que não recebem um salário ou cuja remuneração é inferior ao montante normalmente pago pelos serviços prestados, mas que são recompensadas mediante o resultado económico da exploração agrícola;\n\nc) Aos custos de contratação declarados pelo agricultor, relativos a mão-de-obra, desde que ligados a uma atividade agrícola.\n\n3 - Para efeitos da determinação do montante previsto na alínea a) do número anterior, o agricultor deve submeter ao IFAP, I. P., até ao termo do prazo de apresentação do PU:\n\na) Declaração que contenha informação sobre os salários relativos à mão-de-obra permanente ligados à atividade agrícola, efetivamente incorridos e declarados pelo agricultor no ano civil anterior, incluindo os impostos e as contribuições sociais relacionadas com o emprego, ou;\n\nb) Em casos de força maior ou circunstância excecional, que impossibilite a submissão dos elementos previstos na alínea anterior, solicitação da aplicação da modalidade de custos normalizados assentes na última informação relativa ao custo médio do trabalho agrícola assalariado por UTA (Unidade de Trabalho Ano) das Contas Económicas da Agricultura do Instituto Nacional de Estatística, I. P. (INE, I. P.), devendo, para o efeito, submeter ao IFAP, I. P., declaração com o número de UTA utilizados no ano civil anterior.\n\n4 - Para efeitos da determinação do montante previsto na alínea b) do n.º 2, o agricultor deve submeter ao IFAP, I. P., até ao termo do prazo de apresentação do PU, declaração com o número de UTA utilizados no ano civil anterior, sendo utilizado o custo normalizado assente na última informação relativa ao custo médio do trabalho agrícola assalariado por UTA das Contas Económicas da Agricultura do INE, I. P.\n\n5 - Para efeitos da determinação do montante previsto na alínea c) do n.º 2, o agricultor deve submeter ao IFAP, I. P., até ao termo do prazo de apresentação do PU, comprovativo da componente de custos de mão-de-obra relativa aos custos de contratação ligados a uma atividade agrícola."
+  },
+  "213750644": {
+   "fragment_id": "213812709",
+   "type": 8,
+   "heading": "Secção II — Reserva nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Reserva nacional"
+  },
+  "213750645": {
+   "fragment_id": "213812710",
+   "type": 11,
+   "heading": "Artigo 12.º — Constituição e aprovisionamento da reserva nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Constituição e aprovisionamento da reserva nacional\n\n1 - Para a constituição da reserva nacional, no ano 2023, é efetuada uma redução percentual linear de 5 % do envelope financeiro indicativo do apoio ao rendimento base, previsto no anexo II à presente portaria, da qual faz parte integrante.\n\n2 - O aprovisionamento da reserva nacional é realizado pelos direitos ao pagamento que revertem a favor desta e que resultam da sua não utilização nas seguintes condições:\n\na) Os direitos ao pagamento não provenientes da reserva nacional revertem, na sua totalidade, a favor da reserva nacional, a partir do dia seguinte à data-limite para a alteração do PU, caso não sejam ativados em dois anos consecutivos, aplicando-se a regra a partir do ano de 2022;\n\nb) A partir de 2023, os direitos ao pagamento provenientes da reserva nacional revertem, na sua totalidade, a favor da reserva nacional, caso não sejam ativados num ano;\n\nc) Os direitos ao pagamento voluntariamente restituídos à reserva nacional.\n\n3 - Ao nível do beneficiário com direitos a pagamento a reverter a favor da reserva nacional são priorizados os direitos de menor valor."
+  },
+  "213750646": {
+   "fragment_id": "213812711",
+   "type": 11,
+   "heading": "Artigo 13.º — Condições de acesso à reserva nacional de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Condições de acesso à reserva nacional de direitos\n\n1 - Podem solicitar uma única atribuição de direitos ao pagamento nos anos 2023 a 2025, desde que não lhes tenham sido atribuídos direitos ao pagamento a título da reserva nacional nas mesmas categorias em anos anteriores ao ano do pedido de atribuição, os agricultores ativos que, até à data-limite de apresentação do PU, respeitem, pelo menos, um dos seguintes requisitos:\n\na) Sejam jovens agricultores instalados pela primeira vez na qualidade de responsáveis da exploração agrícola;\n\nb) Sejam novos agricultores que tenham iniciado atividade agrícola na qualidade de responsáveis da exploração agrícola;\n\nc) Sejam agricultores que nos anos 2018, 2019 e 2020 tenham ativado no PU um número de hectares elegíveis superior ao número máximo de direitos que detinham no mesmo período, localizados em zona vulnerável definida no âmbito da Resolução do Conselho de Ministros n.º 21/2021, de 22 de março;\n\nd) Sejam agricultores que, não detendo direitos ao pagamento, tenham submetido PU com hectares elegíveis nos anos 2018, 2019 e 2020, localizados em zona vulnerável definida no âmbito da Resolução do Conselho de Ministros n.º 21/2021;\n\ne) Sejam agricultores que nos anos 2018, 2019 e 2020 tenham ativado no PU um número de hectares elegíveis superior ao número máximo de direitos que detinham no mesmo período, localizados fora de zona vulnerável definida no âmbito da Resolução do Conselho de Ministros n.º 21/2021;\n\nf) Sejam agricultores que, não detendo direitos ao pagamento, tenham submetido PU com hectares elegíveis nos anos 2018, 2019 e 2020, localizados fora de zona vulnerável definida no âmbito da Resolução do Conselho de Ministros n.º 21/2021.\n\n2 - Os agricultores ativos referidos nas alíneas a) e b) do número anterior devem demonstrar possuir, até à data-limite de alteração do PU, pelo menos, uma das seguintes competências ou formação adquirida:\n\na) Qualificação de nível 4 ou 5, nas áreas de Educação e Formação, 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça, ou qualificação de nível 6, 7 ou 8, relativa ao ensino superior, nas áreas agrícola, florestal ou animal;\n\nb) Curso de empresário agrícola homologado pelo Ministério da Agricultura e Alimentação;\n\nc) Formação agrícola de outras tipologias financiadas no âmbito do desenvolvimento rural;\n\nd) Formação com base nas unidades de formação de curta duração (UFCD) do referencial de formação 621312, «Técnico/a de Produção Agropecuária», de nível 4 do Catálogo Nacional de Qualificações (CNQ), constituída pela UFCD «Agricultura Sustentável» de 50 horas, ou do referencial de formação 623166, «Técnico/a de Recursos Florestais e Ambientais», de nível 4 do CNQ, constituída pela UFCD «Solos e fertilidade» de 50 horas, acrescidas de, alternativamente:\n\ni) 150 horas de outras unidades de formação dos mesmos referenciais, com exceção das que constam do anexo III à presente portaria, da qual faz parte integrante;\n\nii) Serviço de aconselhamento agrícola obtido nos termos do n.º 7 do artigo 14.º da Portaria n.º 151/2016, de 26 de maio, na sua redação atual, que cria o Sistema de Aconselhamento Agrícola e Florestal.\n\ne) Qualificação de nível 2, nas áreas de Educação e Formação, 621 - Produção Agrícola e Animal, 622 - Floricultura e Jardinagem e 623 - Silvicultura e Caça, no caso dos agricultores ativos previstos na alínea a) do número anterior.\n\nf) Formação com base nas unidades curriculares de cursos de nível superior que permitam fazer a correspondência às unidades de formação de curta duração nos termos da alínea d).\n\n3 - Considera-se que se instala pela primeira vez numa exploração agrícola, o jovem agricultor que assume formalmente a titularidade e a gestão direta da exploração, na qualidade de responsável, podendo ter iniciado atividade agrícola até cinco anos antes da data mais antiga das datas verificadas nas fontes de informação oficiais, nomeadamente nas bases de informação residentes no Ministério da Agricultura e Alimentação.\n\n4 - Considera-se que inicia a atividade agrícola o novo agricultor que, na qualidade de responsável da exploração, dá início à atividade agrícola até dois anos antes da data mais antiga das datas verificadas nas fontes de informação oficiais, nomeadamente nas bases de informação residentes no Ministério da Agricultura e Alimentação.\n\n5 - Sem prejuízo do disposto no n.º 3, as pessoas coletivas que revistam a forma de sociedade por quotas e com a atividade agrícola no objeto social, podem candidatar-se à reserva ao abrigo da alínea a) do n.º 1, desde que os jovens agricultores sejam sócios-gerentes, detenham isoladamente ou em conjunto, a maioria do capital social e individualmente detenham uma participação superior a 25 % no capital social.\n\n6 - No caso de pessoa coletiva constituída por mais de um jovem agricultor, as exigências relativas às competências e à formação têm de ser verificadas, pelo menos, relativamente a um dos jovens agricultores que participa no capital e gestão da pessoa coletiva.\n\n7 - Sem prejuízo do disposto no n.º 4, as pessoas coletivas que revistam a forma de sociedade por quotas e com a atividade agrícola no objeto social, podem candidatar-se à reserva ao abrigo da alínea b) do n.º 1, desde que os novos agricultores sejam sócios-gerentes e detenham a maioria do capital social.\n\n8 - No caso de pessoa coletiva constituída por mais de um novo agricultor, as exigências relativas às competências e à formação têm de ser verificadas, pelo menos, em relação a um dos novos agricultores que participa no capital e gestão da pessoa coletiva."
+  },
+  "213750647": {
+   "fragment_id": "213812712",
+   "type": 11,
+   "heading": "Artigo 14.º — Atribuição de direitos por força de decisão judicial ou ato administrativo definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Atribuição de direitos por força de decisão judicial ou ato administrativo definitivo\n\n1 - São atribuídos direitos ao pagamento aos agricultores que, por força de uma decisão judicial definitiva, com identificação de número de direitos ou aumento de valor de direito ao pagamento, ou de um ato administrativo definitivo do IFAP, I. P., tenham direito a receber direitos ao pagamento.\n\n2 - No caso de uma decisão judicial transitada em julgado ou ato administrativo definitivo insuscetível de impugnação, a atribuição, nesse ano, está condicionada a que a data dessa decisão não seja posterior ao último dia do prazo para a apresentação do PU ao abrigo do apoio ao rendimento base.\n\n3 - No caso da data referida no número anterior ser posterior ao último dia do prazo para apresentação do PU, o pedido de atribuição de direitos à reserva nacional só pode ser apresentado no ano seguinte."
+  },
+  "213750648": {
+   "fragment_id": "213812713",
+   "type": 11,
+   "heading": "Artigo 15.º — Atribuição de direitos ao pagamento por via da reserva nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Atribuição de direitos ao pagamento por via da reserva nacional\n\n1 - O valor unitário dos diretos ao pagamento a atribuir a título da reserva nacional ao hectare elegível candidato é igual ao valor unitário médio do ano da sua atribuição.\n\n2 - A atribuição de direitos ao pagamento provenientes da reserva nacional assume a forma de número de direitos, com exceção dos agricultores que tenham direitos reconhecidos por decisão judicial transitada em julgado ou ato administrativo definitivo, caso em que a atribuição pode assumir, também, a forma de aumento do valor de direito ao pagamento.\n\n3 - O número de direitos a atribuir a título da reserva nacional é igual:\n\na) Ao número de hectares elegíveis declarados e candidatos no PU para os agricultores referidos nas alíneas a) e b) do n.º 1 do artigo 13.º, deduzidos os direitos ao pagamento já detidos pelos mesmos;\n\nb) Ao menor dos números de direitos constantes da decisão judicial e de hectares elegíveis declarados no PU, deduzidos os direitos ao pagamento já detidos, no ano da atribuição para os beneficiários referidos no artigo anterior;\n\nc) Ao número de hectares elegíveis declarados pelo agricultor no PU, a título de propriedade ou de arrendamento, para os agricultores referidos nas alíneas c) a f) do n.º 1 do artigo 13.º\n\n4 - Caso os montantes disponíveis na reserva nacional não sejam suficientes para a atribuição de direitos ao pagamento a título das categorias prioritárias previstas nas alíneas a) a d) do n.º 1 do artigo 13.º e no artigo anterior, é efetuada uma redução linear do valor de todos os direitos ao pagamento.\n\n5 - Depois de atribuídos os direitos a título das categorias prioritárias previstas no número anterior, procede-se à atribuição de direitos ao pagamento às candidaturas por ordem das alíneas e) e f) do n.º 1 do artigo 13.º\n\n6 - No caso de não existirem montantes disponíveis para atribuir à totalidade das candidaturas previstas no número anterior, será efetuada a atribuição dos direitos ao pagamento, de forma a satisfazer os pedidos por ordem crescente do total do número de hectares elegíveis na exploração, descontados do número de direitos detidos relativo ao ano em que se candidata à reserva nacional, até se esgotar as disponibilidades na reserva nacional.\n\n7 - Para efeitos de assegurar a atribuição de direitos referida no número anterior, a reconstituição financeira da reserva está sujeita à decisão da Autoridade de Gestão Nacional (AGN).\n\n8 - O número de direitos a atribuir provenientes da reserva nacional é limitado:\n\na) Ao número de hectares elegíveis detidos pelo agricultor a título de propriedade ou de arrendamento, nos termos legais, com a duração mínima, no caso do arrendamento, de cinco anos;\n\nb) Nas áreas de baldio, exploradas por compartes titulares do baldio, ao número de direitos de utilização do baldio.\n\n9 - Para efeitos de atribuição dos direitos ao pagamento provenientes da reserva nacional nas áreas de baldio, apenas se consideram as categorias referidas alíneas a) e b) do n.º 1 do artigo 13.º e no artigo anterior, sendo necessário que se verifique prática local de atividade efetiva de pastoreio que cumpra um encabeçamento mínimo, constituído por espécies de ruminantes ou de equídeos do próprio, de 0,2 Cabeças Normais (CN) por hectare de área de baldio, detido na exploração durante o período de retenção, de acordo com a tabela de conversão constante do anexo I à presente portaria, da qual faz parte integrante.\n\n10 - Quando os montantes disponíveis na reserva nacional não sejam integralmente utilizados nas categorias de atribuição previstas no artigo 13.º e no artigo anterior, o montante dos direitos ao pagamento pode ser aumentado linearmente por decisão da AGN."
+  },
+  "213750649": {
+   "fragment_id": "213812714",
+   "type": 11,
+   "heading": "Artigo 16.º — Direitos não utilizados devido à ocorrência de casos de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direitos não utilizados devido à ocorrência de casos de força maior\n\n1 - Os agricultores que devido a casos de força maior ou circunstâncias excecionais previstos no artigo 30.º, não tenham ativado os direitos ao pagamento por um período de dois anos consecutivos, podem apresentar, junto do IFAP, I. P., até ao final do período de apresentação do PU do segundo ano, um pedido devidamente fundamentado de não reversão dos direitos a favor da reserva nacional.\n\n2 - Para efeitos de aplicação do disposto no número anterior, o beneficiário deve fornecer todos os meios de prova considerados pertinentes, de modo que os direitos não revertam para a reserva nacional."
+  },
+  "213750650": {
+   "fragment_id": "213812715",
+   "type": 11,
+   "heading": "Artigo 17.º — Envelope financeiro indicativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Envelope financeiro indicativo\n\nOs envelopes financeiros anuais indicativos do apoio ao rendimento base constam do anexo II à presente portaria, da qual faz parte integrante."
+  },
+  "213750651": {
+   "fragment_id": "213812716",
+   "type": 1,
+   "heading": "Capítulo III — Pagamento aos pequenos agricultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pagamento aos pequenos agricultores"
+  },
+  "213750652": {
+   "fragment_id": "213812717",
+   "type": 11,
+   "heading": "Artigo 18.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Objetivo\n\nO pagamento aos pequenos agricultores tem como objetivo, através de um pagamento anual que substitui todas as outras intervenções de pagamentos diretos, assegurar um nível de apoio que reconheça o papel que a pequena agricultura tem para a vitalidade das zonas rurais na ocupação territorial e na sustentabilidade ambiental, contribuindo para contrariar a desertificação dos espaços rurais sem alternativas económicas."
+  },
+  "213750653": {
+   "fragment_id": "213812718",
+   "type": 11,
+   "heading": "Artigo 19.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Beneficiários\n\nPodem beneficiar do apoio previsto no presente capítulo os agricultores ativos que exerçam atividade agrícola em território continental e que apresentem candidatura anual no PU nas seguintes condições:\n\na) Sejam detentores de direitos de pagamento ao abrigo do apoio ao rendimento base e apresentem hectares elegíveis no PU nos anos 2023, 2024 ou 2025;\n\nb) Declarem hectares elegíveis no PU nos anos 2026 ou 2027."
+  },
+  "213750654": {
+   "fragment_id": "213812719",
+   "type": 11,
+   "heading": "Artigo 20.º — Montante de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Montante de pagamento\n\n1 - O montante indicativo do apoio ao beneficiário do pagamento anual aos pequenos agricultores, que substitui todos os pagamentos diretos, é fixado de acordo com os seguintes escalões de hectares elegíveis:\n\na) Igual ou inferior a um hectare elegível - 500 (euro);\n\nb) Superior a um e igual ou inferior a dois hectares elegíveis - 850 (euro);\n\nc) Superior a dois hectares elegíveis - 1050 (euro).\n\n2 - O número de hectares elegíveis para efeitos da determinação do nível de montante indicativo do pagamento anual aos pequenos agricultores é estabelecido de acordo com as seguintes condições:\n\na) Número de hectares elegíveis para os quais são ativados direitos ao pagamento para efeito dos anos 2023 a 2025;\n\nb) Número de hectares elegíveis para efeito dos anos 2026 e 2027."
+  },
+  "213750655": {
+   "fragment_id": "213812720",
+   "type": 11,
+   "heading": "Artigo 21.º — Envelope financeiro indicativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Envelope financeiro indicativo\n\nOs envelopes financeiros anuais indicativos do pagamento aos pequenos agricultores constam do anexo II à presente portaria, da qual faz parte integrante."
+  },
+  "213750656": {
+   "fragment_id": "213812721",
+   "type": 1,
+   "heading": "Capítulo IV — Apoio redistributivo complementar ao rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Apoio redistributivo complementar ao rendimento"
+  },
+  "213750657": {
+   "fragment_id": "213812722",
+   "type": 11,
+   "heading": "Artigo 22.º — Objetivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Objetivo\n\nO apoio redistributivo complementar ao rendimento, sob a forma de um pagamento anual dissociado por hectare elegível, tem como objetivo contribuir para uma distribuição mais equilibrada do apoio a favor das explorações de pequena e média dimensão, de forma a torná-las mais resilientes em termos da sua sustentabilidade económica."
+  },
+  "213750658": {
+   "fragment_id": "213812723",
+   "type": 11,
+   "heading": "Artigo 23.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Beneficiários\n\nPodem beneficiar do apoio previsto no presente capítulo, os agricultores ativos que exerçam atividade agrícola em território continental e que:\n\na) Sejam detentores de direitos ao pagamento do apoio ao rendimento base e ativem direito ao pagamento do regime de apoio ao rendimento base numa exploração agrícola que não exceda um número máximo de 100 hectares elegíveis, para efeitos dos anos de 2023 a 2025;\n\nb) Possuam hectares elegíveis declarados no PU numa exploração agrícola e beneficiem do apoio ao rendimento base, numa exploração agrícola que não exceda um número máximo de 100 hectares elegíveis, para efeitos dos anos 2026 e 2027."
+  },
+  "213750659": {
+   "fragment_id": "213812724",
+   "type": 11,
+   "heading": "Artigo 24.º — Montante de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Montante de pagamento\n\nO apoio redistributivo complementar ao rendimento é pago anualmente aos beneficiários, sendo atribuído até ao máximo de 20 hectares elegíveis por exploração agrícola, num montante indicativo de 120 (euro) por hectare elegível."
+  },
+  "213750660": {
+   "fragment_id": "213812725",
+   "type": 11,
+   "heading": "Artigo 25.º — Envelope financeiro indicativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Envelope financeiro indicativo\n\nOs envelopes financeiros anuais indicativos do apoio redistributivo complementar ao rendimento constam do anexo II à presente portaria, da qual faz parte integrante."
+  },
+  "213750661": {
+   "fragment_id": "213812726",
+   "type": 1,
+   "heading": "Capítulo V — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Procedimento"
+  },
+  "213750662": {
+   "fragment_id": "213812727",
+   "type": 11,
+   "heading": "Artigo 26.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Candidaturas\n\n1 - As candidaturas aos apoios de pagamentos diretos no âmbito da presente portaria são formalizadas nos termos e prazos anualmente definidos no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., aprovado em diploma próprio.\n\n2 - Os prazos de apresentação de candidaturas do PU são fixados e divulgados na área pública do sítio da Internet do IFAP, I. P., em www.ifap.pt."
+  },
+  "213750663": {
+   "fragment_id": "213812728",
+   "type": 11,
+   "heading": "Artigo 27.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Pagamento\n\nAs intervenções de apoios dissociados são concedidas sob a forma de pagamentos anuais no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho (Pagamentos SIGC), efetuados pelo IFAP, I. P."
+  },
+  "213750664": {
+   "fragment_id": "213812729",
+   "type": 1,
+   "heading": "Capítulo VI — Sanções administrativas, reduções, exclusões e casos de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Sanções administrativas, reduções, exclusões e casos de força maior"
+  },
+  "213750665": {
+   "fragment_id": "213812730",
+   "type": 11,
+   "heading": "Artigo 28.º — Condicionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Condicionalidade\n\nOs beneficiários das intervenções de pagamentos diretos previstas na presente portaria incorrem em sanções administrativas decorrentes de incumprimentos determinados a título do sistema de controlo e sanções administrativas da condicionalidade que engloba os requisitos legais de gestão e as boas condições agrícolas e ambientais definidos em diploma próprio."
+  },
+  "213750666": {
+   "fragment_id": "213812731",
+   "type": 11,
+   "heading": "Artigo 29.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detetada, bem como de omissão de superfície, são aplicáveis as disposições nacionais adotadas para efeitos do previsto no Título IV do Regulamento (UE) 2021/2116.\n\n2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., são aplicáveis as seguintes disposições relativas a sanções administrativas por sobredeclaração de área:\n\na) Apoio ao rendimento base:\n\ni) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo;\n\nii) Se a superfície declarada ajustada ao número de direitos exceder a superfície determinada, a ajuda será calculada com base na superfície determinada, diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % ou a dois hectares e igual ou inferior a 50 % da superfície determinada;\n\niii) Se a diferença entre a superfície declarada e a superfície determinada for superior a 50 %, não é concedido o apoio e o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado quando este montante não puder ser deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\niv) Se a diferença entre a superfície declarada e a superfície determinada for inferior ou igual a 0,1 hectares, considera-se a superfície determinada igual à declarada, desde que a diferença não represente mais do que 20 % da superfície declarada.\n\nb) Apoio redistributivo complementar:\n\ni) Se houver diferença entre a superfície declarada e o limite máximo de hectares elegíveis ao pagamento do apoio redistributivo complementar, esta deve ser ajustada ao valor mais baixo;\n\nii) Se a superfície declarada ajustada exceder a superfície determinada, a ajuda será calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da área determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;\n\niii) Se a diferença entre a superfície determinada e a superfície ajustada for superior a 50 %, não é concedido o apoio e o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado quando este montante não puder ser deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\niv) Se a diferença entre a superfície declarada e a superfície determinada for inferior ou igual a 0,1 hectare, considera-se a superfície determinada igual à declarada desde que a diferença não represente mais do que 20 % da superfície declarada.\n\nc) Pagamento aos pequenos agricultores para cada escalão de hectares elegíveis definido no n.º 1 do artigo 20.º:\n\ni) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo;\n\nii) Se a diferença entre a superfície determinada e a superfície ajustada for superior a 0,1 hectares, não é concedido o apoio;\n\niii) Se a diferença entre a superfície determinada e a superfície ajustada for superior a 50 %, o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado quando este montante não puder ser deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\niv) Se a diferença entre a superfície declarada e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à declarada, desde que a diferença não represente mais do que 20 % da superfície declarada."
+  },
+  "213750667": {
+   "fragment_id": "213812732",
+   "type": 11,
+   "heading": "Artigo 30.º — Casos de força maior e circunstâncias excecionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Casos de força maior e circunstâncias excecionais\n\nPara efeitos do disposto no artigo 3.º do Regulamento (UE) 2021/2116 podem ser, também, reconhecidos como casos de força maior e circunstâncias excecionais as seguintes situações:\n\na) Incapacidade profissional do beneficiário, desde que por período superior a seis meses, devidamente verificada nos termos legais;\n\nb) Expropriação por utilidade pública ou outro ato previsto no Código das Expropriações, de toda a exploração ou uma parte importante da mesma, no caso de a expropriação não ser previsível no dia de apresentação do pedido;\n\nc) Emparcelamento ou intervenção pública de ordenamento fundiário ou similar."
+  },
+  "213750668": {
+   "fragment_id": "213812733",
+   "type": 11,
+   "heading": "Artigo 31.º — Condições artificiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Condições artificiais\n\n1 - Em aplicação do artigo 62.º do Regulamento (UE) 2021/2116, não é concedida qualquer vantagem ao abrigo do pagamento a pessoas singulares ou coletivas relativamente às quais se conclua terem sido criadas artificialmente as condições requeridas para obter tais vantagens, contrariamente aos objetivos da presente legislação.\n\n2 - São avaliadas para efeitos do disposto no presente artigo, nomeadamente:\n\na) As transferências de direitos a que se refere o n.º 1 do artigo 10.º, efetuadas por agricultores beneficiários do pagamento redistributivo complementar e por beneficiários do pagamento aos pequenos agricultores que procedem à divisão das suas explorações;\n\nb) As transferências de direitos a que se refere o n.º 1 do artigo 10.º, efetuadas por agricultores beneficiários do apoio base ao rendimento para evitar a aplicação do disposto no artigo 11.º;\n\nc) A declaração de áreas de baldio sem pastoreio dessas áreas por efetivo pecuário do próprio."
+  },
+  "213750669": {
+   "fragment_id": "213812734",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "213750670": {
+   "fragment_id": "213812735",
+   "type": 11,
+   "heading": "Artigo 32.º — Contributo para o desempenho do PEPAC Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contributo para o desempenho do PEPAC Portugal\n\n1 - As presentes intervenções contribuem para o objetivo específico estabelecido na alínea a) do artigo 6.º do Regulamento (UE) 2021/2115, «Apoiar o rendimento viável das explorações agrícolas e a resiliência do setor agrícola em toda a União, a fim de reforçar a segurança alimentar a longo prazo e a diversidade agrícola, bem como de garantir a sustentabilidade económica da produção agrícola na União».\n\n2 - Para efeito do cumprimento das metas do PEPAC Portugal relativas aos indicadores de resultados, estabelecidos no anexo I do Regulamento (UE) 2021/2115, relevam os seguintes indicadores:\n\na) «R.4 - Articular o apoio ao rendimento com as normas e boas práticas»;\n\nb) «R.6 - Redistribuição a explorações agrícolas de menor dimensão»;\n\nc) «R.7 - Melhorar o apoio prestado às explorações agrícolas em zonas com necessidades específicas»."
+  },
+  "213750671": {
+   "fragment_id": "213812736",
+   "type": 11,
+   "heading": "Artigo 33.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Disposição transitória\n\nDurante o ano de 2023 não é permitida a transferência dos direitos a pagamento obtidos da reserva nacional, para as candidaturas efetuadas no PU de 2022, ao abrigo do disposto nas alíneas a) e b) do n.º 1 e do n.º 12 do artigo 12.º da Portaria n.º 57/2015, exceto em caso de herança e herança antecipada."
+  },
+  "213750672": {
+   "fragment_id": "213812737",
+   "type": 11,
+   "heading": "Artigo 34.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023."
+  },
+  "213750674": {
+   "fragment_id": "213812739",
+   "type": 14,
+   "heading": "Anexo I — Tabela de conversão em cabeças normais (CN)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela de conversão em cabeças normais (CN)\n\n(a que se refere o n.º 9 do artigo 15.º)\n\n(ver documento original)"
+  },
+  "213812375": {
+   "fragment_id": "213812740",
+   "type": 14,
+   "heading": "Anexo II — Envelopes financeiros indicativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Envelopes financeiros indicativos\n\n(a que se referem os artigos 12.º, 17.º, 21.º e 25.º)\n\nApoio ao rendimento base:\n\n(ver documento original)\n\nPagamento aos pequenos agricultores:\n\n(ver documento original)\n\nApoio redistributivo complementar:\n\n(ver documento original)"
+  },
+  "213812376": {
+   "fragment_id": "213812741",
+   "type": 14,
+   "heading": "Anexo III — Referenciais de formação excluída",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Referenciais de formação excluída\n\n[a que se refere a subalínea i) da alínea d) do n.º 2 do artigo 13.º]\n\nReferencial de Formação Global CNQ - Código e unidade de formação\n\n2854 Código da Estrada\n\n4478 Técnicas de socorrismo princípios básicos\n\n5436 Liderança e motivação de equipas\n\n6365 Turismo em espaço rural\n\n6392 Distribuição e comercialização de produtos fitofarmacêuticos\n\n7852 Perfil e potencial do empreendedor - diagnóstico/desenvolvimento\n\n7853 Ideias e oportunidades de negócio\n\n8598 Desenvolvimento pessoal e técnicas de procura de emprego\n\n8599 Comunicação assertiva e técnicas de procura de emprego\n\n8600 Competências empreendedoras e técnicas de procura de emprego\n\n9262 Produtos fitofarmacêuticos venda responsável - atualização\n\n9820 Planeamento e gestão do orçamento familiar\n\n9821 Produtos financeiros básicos\n\n9822 Poupança - conceitos básicos\n\n9823 Crédito e endividamento\n\n9824 Funcionamento do sistema financeiro\n\n9825 Poupança e suas aplicações\n\n10746 Segurança e Saúde no Trabalho - situações epidémicas/pandémicas\n\n10759 Teletrabalho\n\n116206856"
+  },
+  "213812449": {
+   "fragment_id": "213812700",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade da parcela agrícola",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 147-A/2023 - Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade da parcela agrícola\n\n1 - As subparcelas agrícolas devem estar à disposição do agricultor no dia 31 de maio do ano de apresentação do PU e devem cumprir as condições de elegibilidade ao longo de todo o ano civil.\n\n2 - As subparcelas agrícolas com a ocupação cultural prevista no presente artigo são elegíveis para efeitos das intervenções de pagamentos diretos, na área máxima elegível determinada no iSIP.\n\n3 - As regras de elegibilidade aplicáveis às intervenções de pagamentos diretos, para as subparcelas agrícolas de culturas temporárias, culturas permanentes e prados e pastagens permanentes, são as previstas no diploma que estabelece a «Nomenclatura das ocupações culturais»\n\n4 - A elegibilidade das subparcelas de prados e pastagens permanentes deve ser comprovada através da realização do controlo efetivo da vegetação arbustiva, nomeadamente, através de:\n\na) Corte mecânico, pelo menos de três em três anos, ficando dispensados desta obrigatoriedade os detentores de efetivos pecuários que assegurem o controlo por pastoreio;\n\nb) Realização de queimas e queimadas, devidamente autorizadas.\n\n5 - São ainda elegíveis, para além da superfície agrícola, para efeitos das intervenções de pagamentos diretos, os hectares correspondentes:\n\na) Às parcelas de superfícies florestadas ao abrigo das seguintes medidas relativas à florestação de terras agrícolas, ao longo do período de compromisso:\n\ni) «Florestação de Terras Agrícolas», ao abrigo do Plano de Desenvolvimento Rural (RURIS), no âmbito do Regulamento (CE) n.º 1257/1999, do Conselho;\n\nii) Subação 2.3.2.2 «Instalação de Sistemas Florestais e Agroflorestais», ao abrigo do Programa de Desenvolvimento Rural (PRODER), no âmbito do Regulamento (CE) n.º 1698/2005, do Conselho;\n\niii) Operação 8.1.1 - «Florestação de Terras Agrícolas e Não Agrícolas» e Operação 8.1.2 - «Instalação de Sistemas Agroflorestais» ao abrigo do Programa de Desenvolvimento Rural do Continente (PDR 2020), no âmbito do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho;\n\niv) Intervenção «Florestação de terras agrícolas e não agrícolas», ao abrigo do PEPAC Continente, no âmbito dos artigos 70.º ou 73.º do Regulamento (UE) 2021/2115.\n\nb) A qualquer superfície da exploração que tenha dado direito a pagamentos do apoio ao rendimento base ou ao abrigo do regime de pagamento de base previsto na Portaria n.º 57/2015, de 27 de fevereiro e que não seja um «hectare elegível» em resultado da aplicação das Diretivas 92/43/CEE, 2009/147/CE ou 2000/60/CE;\n\nc) Aos elementos lineares e de paisagem, árvore isolada, caminho agrícola, linha de água, muro de pedra posta, sebe, vala de drenagem sem revestimento, vala de rega sem revestimento, conforme definidos no diploma que estabelece a «Nomenclatura das Ocupações Culturais», desde que tais elementos não ocupem mais de 50 % da área útil da parcela, e não prejudiquem significativamente o desempenho da atividade agrícola devido à superfície que ocupam na parcela agrícola;\n\nd) Aos elementos paisagísticos que constam do diploma que estabelece a «Nomenclatura das Ocupações Culturais», desde que sejam utilizados para efeitos do cumprimento do disposto nas BCAA 8.1 - Percentagem mínima de superfície agrícola dedicada a áreas não produtivas ou elementos de paisagem e BCAA 8.2 - Manutenção das características da paisagem;\n\ne) Às áreas envolventes das subparcelas das culturas permanentes, incluindo as cabeceiras.\n\n6 - As subparcelas de prática local de pastoreio em baldio são elegíveis para os beneficiários, enquanto compartes do baldio, quando os beneficiários:\n\na) Detenham marca de exploração localizada nos concelhos ou concelhos limítrofes do baldio;\n\nb) Estejam associados à marca de exploração do baldio e sejam residentes nos concelhos ou concelhos limítrofes do baldio.\n\n7 - Incluem-se no hectare elegível, as subparcelas com atividades não agrícolas, em parcelas de uso predominantemente agrícola, cuja duração seja limitada a um máximo de 30 dias, devendo as mesmas serem previamente comunicadas ao IFAP, I. P.\n\n8 - A comunicação referida no número anterior deve ser realizada com uma antecedência mínima de 10 dias úteis, devendo incluir a identificação das subparcelas onde essas atividades são desenvolvidas, a data de início, a duração e a finalidade das mesmas.\n\n9 - A título excecional, no ano de 2023, os agricultores que submetam o PU após o dia 31 de maio de 2023 devem ter as subparcelas candidatas à respetiva ajuda à sua disposição na última data prevista para a submissão do PU.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 147-A/2023 - Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), em vigor a partir de 2023-05-31"
+  },
+  "213750673": {
+   "fragment_id": "213812738",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023."
+  },
+  "223079813": {
+   "fragment_id": "213812695",
+   "type": 1,
+   "heading": "Capítulo I — Disposições iniciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições iniciais"
+  },
+  "223079825": {
+   "fragment_id": "223079581",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Exclusão de critério de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 314/2023 - Diário da República n.º 203/2023, Série I de 2023-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646), em vigor a partir de 2023-10-20, produz efeitos a partir de 2023-02-28"
+   ],
+   "markdown": "###### Artigo 6.º-A — Exclusão de critério de elegibilidade\n\nOs beneficiários dos apoios previstos na presente portaria encontram-se isentos do critério de elegibilidade previsto na alínea b) do n.º 7 do Decreto-Lei n.º 12/2023, de 24 de fevereiro.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 314/2023 - Diário da República n.º 203/2023, Série I de 2023-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/314-2023-222939646), em vigor a partir de 2023-10-20, produz efeitos a partir de 2023-02-28"
+  },
+  "223079814": {
+   "fragment_id": "213812702",
+   "type": 1,
+   "heading": "Capítulo II — Apoio ao rendimento base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoio ao rendimento base"
+  },
+  "223079815": {
+   "fragment_id": "213812716",
+   "type": 1,
+   "heading": "Capítulo III — Pagamento aos pequenos agricultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Pagamento aos pequenos agricultores"
+  },
+  "223079816": {
+   "fragment_id": "213812721",
+   "type": 1,
+   "heading": "Capítulo IV — Apoio redistributivo complementar ao rendimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Apoio redistributivo complementar ao rendimento"
+  },
+  "223079817": {
+   "fragment_id": "213812726",
+   "type": 1,
+   "heading": "Capítulo V — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Procedimento"
+  },
+  "223079818": {
+   "fragment_id": "213812729",
+   "type": 1,
+   "heading": "Capítulo VI — Sanções administrativas, reduções, exclusões e casos de força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Sanções administrativas, reduções, exclusões e casos de força maior"
+  },
+  "223079819": {
+   "fragment_id": "213812734",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais e transitórias"
+  },
+  "223079820": {
+   "fragment_id": "213812738",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023."
+  },
+  "223079821": {
+   "fragment_id": "213812739",
+   "type": 14,
+   "heading": "Anexo I — Tabela de conversão em cabeças normais (CN)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Tabela de conversão em cabeças normais (CN)\n\n(a que se refere o n.º 9 do artigo 15.º)\n\n(ver documento original)"
+  },
+  "223079822": {
+   "fragment_id": "213812740",
+   "type": 14,
+   "heading": "Anexo II — Envelopes financeiros indicativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Envelopes financeiros indicativos\n\n(a que se referem os artigos 12.º, 17.º, 21.º e 25.º)\n\nApoio ao rendimento base:\n\n(ver documento original)\n\nPagamento aos pequenos agricultores:\n\n(ver documento original)\n\nApoio redistributivo complementar:\n\n(ver documento original)"
+  },
+  "223079823": {
+   "fragment_id": "213812741",
+   "type": 14,
+   "heading": "Anexo III — Referenciais de formação excluída",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Referenciais de formação excluída\n\n[a que se refere a subalínea i) da alínea d) do n.º 2 do artigo 13.º]\n\nReferencial de Formação Global CNQ - Código e unidade de formação\n\n2854 Código da Estrada\n\n4478 Técnicas de socorrismo princípios básicos\n\n5436 Liderança e motivação de equipas\n\n6365 Turismo em espaço rural\n\n6392 Distribuição e comercialização de produtos fitofarmacêuticos\n\n7852 Perfil e potencial do empreendedor - diagnóstico/desenvolvimento\n\n7853 Ideias e oportunidades de negócio\n\n8598 Desenvolvimento pessoal e técnicas de procura de emprego\n\n8599 Comunicação assertiva e técnicas de procura de emprego\n\n8600 Competências empreendedoras e técnicas de procura de emprego\n\n9262 Produtos fitofarmacêuticos venda responsável - atualização\n\n9820 Planeamento e gestão do orçamento familiar\n\n9821 Produtos financeiros básicos\n\n9822 Poupança - conceitos básicos\n\n9823 Crédito e endividamento\n\n9824 Funcionamento do sistema financeiro\n\n9825 Poupança e suas aplicações\n\n10746 Segurança e Saúde no Trabalho - situações epidémicas/pandémicas\n\n10759 Teletrabalho\n\n116206856"
+  },
+  "860663354": {
+   "fragment_id": "213812700",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade da parcela agrícola",
+   "in_force_from": "2024-03-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 147-A/2023 - Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade da parcela agrícola\n\n1 - As subparcelas agrícolas devem estar à disposição do agricultor em data a fixar anualmente pelo IFAP, I. P., e devem cumprir as condições de elegibilidade ao longo de todo o ano civil.\n\n2 - As subparcelas agrícolas com a ocupação cultural prevista no presente artigo são elegíveis para efeitos das intervenções de pagamentos diretos, na área máxima elegível determinada no iSIP.\n\n3 - As regras de elegibilidade aplicáveis às intervenções de pagamentos diretos, para as subparcelas agrícolas de culturas temporárias, culturas permanentes e prados e pastagens permanentes, são as previstas no diploma que estabelece a «Nomenclatura das ocupações culturais»\n\n4 - A elegibilidade das subparcelas de prados e pastagens permanentes deve ser comprovada através da realização do controlo efetivo da vegetação arbustiva, nomeadamente, através de:\n\na) Corte mecânico, pelo menos de três em três anos, ficando dispensados desta obrigatoriedade os detentores de efetivos pecuários que assegurem o controlo por pastoreio;\n\nb) Realização de queimas e queimadas, devidamente autorizadas.\n\n5 - São ainda elegíveis, para além da superfície agrícola, para efeitos das intervenções de pagamentos diretos, os hectares correspondentes:\n\na) Às parcelas de superfícies florestadas ao abrigo das seguintes medidas relativas à florestação de terras agrícolas, ao longo do período de compromisso:\n\ni) «Florestação de Terras Agrícolas», ao abrigo do Plano de Desenvolvimento Rural (RURIS), no âmbito do Regulamento (CE) n.º 1257/1999, do Conselho;\n\nii) Subação 2.3.2.2 «Instalação de Sistemas Florestais e Agroflorestais», ao abrigo do Programa de Desenvolvimento Rural (PRODER), no âmbito do Regulamento (CE) n.º 1698/2005, do Conselho;\n\niii) Operação 8.1.1 - «Florestação de Terras Agrícolas e Não Agrícolas» e Operação 8.1.2 - «Instalação de Sistemas Agroflorestais» ao abrigo do Programa de Desenvolvimento Rural do Continente (PDR 2020), no âmbito do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho;\n\niv) Intervenção «Florestação de terras agrícolas e não agrícolas», ao abrigo do PEPAC Continente, no âmbito dos artigos 70.º ou 73.º do Regulamento (UE) 2021/2115.\n\nb) A qualquer superfície da exploração que tenha dado direito a pagamentos do apoio ao rendimento base ou ao abrigo do regime de pagamento de base previsto na Portaria n.º 57/2015, de 27 de fevereiro e que não seja um «hectare elegível» em resultado da aplicação das Diretivas 92/43/CEE, 2009/147/CE ou 2000/60/CE;\n\nc) Aos elementos lineares e de paisagem, árvore isolada, caminho agrícola, linha de água, muro de pedra posta, sebe, vala de drenagem sem revestimento, vala de rega sem revestimento, conforme definidos no diploma que estabelece a «Nomenclatura das Ocupações Culturais», desde que tais elementos não ocupem mais de 50 % da área útil da parcela, e não prejudiquem significativamente o desempenho da atividade agrícola devido à superfície que ocupam na parcela agrícola;\n\nd) Aos elementos paisagísticos que constam do diploma que estabelece a «Nomenclatura das Ocupações Culturais», desde que sejam utilizados para efeitos do cumprimento do disposto nas BCAA 8.1 - Percentagem mínima de superfície agrícola dedicada a áreas não produtivas ou elementos de paisagem e BCAA 8.2 - Manutenção das características da paisagem;\n\ne) Às áreas envolventes das subparcelas das culturas permanentes, incluindo as cabeceiras.\n\n6 - As subparcelas de prática local de pastoreio em baldio são elegíveis para os beneficiários, enquanto compartes do baldio, quando os beneficiários:\n\na) Detenham marca de exploração localizada nos concelhos ou concelhos limítrofes do baldio;\n\nb) Estejam associados à marca de exploração do baldio e sejam residentes nos concelhos ou concelhos limítrofes do baldio.\n\n7 - Incluem-se no hectare elegível, as subparcelas com atividades não agrícolas, em parcelas de uso predominantemente agrícola, cuja duração seja limitada a um máximo de 30 dias, devendo as mesmas serem previamente comunicadas ao IFAP, I. P.\n\n8 - A comunicação referida no número anterior deve ser realizada com uma antecedência mínima de 10 dias úteis, devendo incluir a identificação das subparcelas onde essas atividades são desenvolvidas, a data de início, a duração e a finalidade das mesmas.\n\n9 - A título excecional, no ano de 2023, os agricultores que submetam o PU após o dia 31 de maio de 2023 devem ter as subparcelas candidatas à respetiva ajuda à sua disposição na última data prevista para a submissão do PU.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 147-A/2023 - Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), em vigor a partir de 2023-05-31"
+  },
+  "867193497": {
+   "fragment_id": "213812700",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade da parcela agrícola",
+   "in_force_from": "2024-05-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2024/1 - Diário da República n.º 101/2024, Suplemento, Série I de 2024-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2024-865926874), em vigor a partir de 2024-05-25, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 147-A/2023 - Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Elegibilidade da parcela agrícola\n\n1 - As subparcelas agrícolas devem estar à disposição do agricultor em data a fixar anualmente pelo IFAP, I. P., e devem cumprir as condições de elegibilidade ao longo de todo o ano civil.\n\n2 - As subparcelas agrícolas com a ocupação cultural prevista no presente artigo são elegíveis para efeitos das intervenções de pagamentos diretos, na área máxima elegível determinada no iSIP.\n\n3 - As regras de elegibilidade aplicáveis às intervenções de pagamentos diretos, para as subparcelas agrícolas de culturas temporárias, culturas permanentes e prados e pastagens permanentes, são as previstas no diploma que estabelece a «Nomenclatura das ocupações culturais»\n\n4 - A elegibilidade das subparcelas de prados e pastagens permanentes deve ser comprovada através da realização do controlo efetivo da vegetação arbustiva, nomeadamente, através de:\n\na) Corte mecânico, pelo menos de três em três anos, ficando dispensados desta obrigatoriedade os detentores de efetivos pecuários que assegurem o controlo por pastoreio;\n\nb) Realização de queimas e queimadas, devidamente autorizadas.\n\n5 - São ainda elegíveis, para além da superfície agrícola, para efeitos das intervenções de pagamentos diretos, os hectares correspondentes:\n\na) Às parcelas de superfícies florestadas ao abrigo das seguintes medidas relativas à florestação de terras agrícolas, ao longo do período de compromisso:\n\ni) «Florestação de Terras Agrícolas», ao abrigo do Plano de Desenvolvimento Rural (RURIS), no âmbito do Regulamento (CE) n.º 1257/1999, do Conselho;\n\nii) Subação 2.3.2.2 «Instalação de Sistemas Florestais e Agroflorestais», ao abrigo do Programa de Desenvolvimento Rural (PRODER), no âmbito do Regulamento (CE) n.º 1698/2005, do Conselho;\n\niii) Operação 8.1.1 - «Florestação de Terras Agrícolas e Não Agrícolas» e Operação 8.1.2 - «Instalação de Sistemas Agroflorestais» ao abrigo do Programa de Desenvolvimento Rural do Continente (PDR 2020), no âmbito do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho;\n\niv) Intervenção «Florestação de terras agrícolas e não agrícolas», ao abrigo do PEPAC Continente, no âmbito dos artigos 70.º ou 73.º do Regulamento (UE) 2021/2115.\n\nb) A qualquer superfície da exploração que tenha dado direito a pagamentos do apoio ao rendimento base ou ao abrigo do regime de pagamento de base previsto na Portaria n.º 57/2015, de 27 de fevereiro e que não seja um «hectare elegível» em resultado da aplicação das Diretivas 92/43/CEE, 2009/147/CE ou 2000/60/CE;\n\nc) Aos elementos lineares e de paisagem, árvore isolada, caminho agrícola, linha de água, muro de pedra posta, sebe, vala de drenagem sem revestimento, vala de rega sem revestimento, conforme definidos no diploma que estabelece a «Nomenclatura das Ocupações Culturais», desde que tais elementos não ocupem mais de 50 % da área útil da parcela, e não prejudiquem significativamente o desempenho da atividade agrícola devido à superfície que ocupam na parcela agrícola;\n\nd) Aos elementos paisagísticos que constam do diploma que estabelece a ‘Nomenclatura das Ocupações Culturais’, desde que sejam utilizados para efeitos do cumprimento do disposto na BCAA 8.2 - Manutenção das características da paisagem;\n\ne) Às áreas envolventes das subparcelas das culturas permanentes, incluindo as cabeceiras.\n\n6 - As subparcelas de prática local de pastoreio em baldio são elegíveis para os beneficiários, enquanto compartes do baldio, quando os beneficiários:\n\na) Detenham marca de exploração localizada nos concelhos ou concelhos limítrofes do baldio;\n\nb) Estejam associados à marca de exploração do baldio e sejam residentes nos concelhos ou concelhos limítrofes do baldio.\n\n7 - Incluem-se no hectare elegível, as subparcelas com atividades não agrícolas, em parcelas de uso predominantemente agrícola, cuja duração seja limitada a um máximo de 30 dias, devendo as mesmas serem previamente comunicadas ao IFAP, I. P.\n\n8 - A comunicação referida no número anterior deve ser realizada com uma antecedência mínima de 10 dias úteis, devendo incluir a identificação das subparcelas onde essas atividades são desenvolvidas, a data de início, a duração e a finalidade das mesmas.\n\n9 - A título excecional, no ano de 2023, os agricultores que submetam o PU após o dia 31 de maio de 2023 devem ter as subparcelas candidatas à respetiva ajuda à sua disposição na última data prevista para a submissão do PU.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 155-A/2024/1 - Diário da República n.º 101/2024, Suplemento, Série I de 2024-05-24](https://diariodarepublica.pt/dr/detalhe/portaria/155-a-2024-865926874), em vigor a partir de 2024-05-25, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 80-C/2024/1 - Diário da República n.º 45/2024, Suplemento, Série I de 2024-03-04](https://diariodarepublica.pt/dr/detalhe/portaria/80-c-2024-854130987), em vigor a partir de 2024-03-05, produz efeitos a partir de 2024-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 147-A/2023 - Diário da República n.º 104/2023, 1º Suplemento, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/147-a-2023-213761245), em vigor a partir de 2023-05-31"
+  },
+  "901657492": {
+   "fragment_id": "213812713",
+   "type": 11,
+   "heading": "Artigo 15.º — Atribuição de direitos ao pagamento por via da reserva nacional",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Atribuição de direitos ao pagamento por via da reserva nacional\n\n1 - O valor unitário dos diretos ao pagamento a atribuir a título da reserva nacional ao hectare elegível candidato é igual ao valor unitário médio do ano da sua atribuição.\n\n2 - A atribuição de direitos ao pagamento provenientes da reserva nacional assume a forma de número de direitos, com exceção dos agricultores que tenham direitos reconhecidos por decisão judicial transitada em julgado ou ato administrativo definitivo, caso em que a atribuição pode assumir, também, a forma de aumento do valor de direito ao pagamento.\n\n3 - O número de direitos a atribuir a título da reserva nacional é igual:\n\na) Ao número de hectares elegíveis declarados e candidatos no PU para os agricultores referidos nas alíneas a) e b) do n.º 1 do artigo 13.º, deduzidos os direitos ao pagamento já detidos pelos mesmos;\n\nb) Ao menor dos números de direitos constantes da decisão judicial e de hectares elegíveis declarados no PU, deduzidos os direitos ao pagamento já detidos, no ano da atribuição para os beneficiários referidos no artigo anterior;\n\nc) Ao número de hectares elegíveis declarados pelo agricultor no PU, a título de propriedade ou de arrendamento, para os agricultores referidos nas alíneas c) a f) do n.º 1 do artigo 13.º\n\n4 - Caso os montantes disponíveis na reserva nacional não sejam suficientes para a atribuição de direitos ao pagamento a título das categorias prioritárias previstas nas alíneas a) a d) do n.º 1 do artigo 13.º e no artigo anterior, é efetuada uma redução linear do valor de todos os direitos ao pagamento.\n\n5 - Depois de atribuídos os direitos a título das categorias prioritárias previstas no número anterior, procede-se à atribuição de direitos ao pagamento às candidaturas por ordem das alíneas e) e f) do n.º 1 do artigo 13.º\n\n6 - No caso de não existirem montantes disponíveis para atribuir à totalidade das candidaturas previstas no número anterior, será efetuada a atribuição dos direitos ao pagamento, de forma a satisfazer os pedidos por ordem crescente do total do número de hectares elegíveis na exploração, descontados do número de direitos detidos relativo ao ano em que se candidata à reserva nacional, até se esgotar as disponibilidades na reserva nacional.\n\n7 - Para efeitos de assegurar a atribuição de direitos referida no número anterior, a reconstituição financeira da reserva está sujeita à decisão da Autoridade de Gestão Nacional (AGN).\n\n8 - O número de direitos a atribuir provenientes da reserva nacional é limitado:\n\na) Ao número de hectares elegíveis detidos pelo agricultor a título de propriedade ou de arrendamento, nos termos legais, com a duração mínima, no caso do arrendamento, de cinco anos;\n\nb) Nas áreas de baldio, exploradas por compartes titulares do baldio, ao número de direitos de utilização do baldio.\n\n9 - Para efeitos de atribuição dos direitos ao pagamento provenientes da reserva nacional nas áreas de baldio, apenas se consideram as categorias referidas alíneas a) e b) do n.º 1 do artigo 13.º e no artigo anterior, sendo necessário que se verifique prática local de atividade efetiva de pastoreio que cumpra um encabeçamento mínimo, constituído por espécies de ruminantes ou de equídeos do próprio, de 0,2 Cabeças Normais (CN) por hectare de área de baldio, detido na exploração durante o período de retenção, de acordo com a tabela de conversão constante do anexo I à presente portaria, da qual faz parte integrante.\n\n10 - Quando os montantes disponíveis na reserva nacional não sejam integralmente utilizados nas categorias de atribuição previstas no artigo 13.º e no artigo anterior, o montante dos direitos ao pagamento pode ser aumentado linearmente por decisão da AGN.\n\n11 - No ano de 2025, caso os montantes disponíveis na reserva nacional não sejam integralmente utilizados nas categorias de atribuição previstas no artigo 13.º e no artigo anterior, o montante disponível é redistribuído pelos montantes a receber a título do apoio ao rendimento base.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+  },
+  "901657493": {
+   "fragment_id": "213812731",
+   "type": 11,
+   "heading": "Artigo 29.º — Reduções e exclusões",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detetada, bem como de omissão de superfície, são aplicáveis as disposições nacionais adotadas para efeitos do previsto no Título IV do Regulamento (UE) 2021/2116.\n\n2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., são aplicáveis as seguintes disposições relativas a sanções administrativas por sobredeclaração de área:\n\na) Apoio ao rendimento base:\n\ni) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo;\n\nii) Se a superfície declarada ajustada ao número de direitos exceder a superfície determinada, a ajuda será calculada com base na superfície determinada, diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % ou a dois hectares e igual ou inferior a 50 % da superfície determinada;\n\niii) Se a diferença entre a superfície declarada e a superfície determinada for superior a 50 %, não é concedido o apoio e o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado quando este montante não puder ser deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\niv) Se a diferença entre a superfície declarada e a superfície determinada for inferior ou igual a 0,1 hectares, considera-se a superfície determinada igual à declarada, desde que a diferença não represente mais do que 20 % da superfície declarada.\n\nb) Apoio redistributivo complementar:\n\ni) Se houver diferença entre a superfície declarada e o limite máximo de hectares elegíveis ao pagamento do apoio redistributivo complementar, esta deve ser ajustada ao valor mais baixo;\n\nii) Se a superfície declarada ajustada exceder a superfície determinada, a ajuda será calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da área determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;\n\niii) Se a diferença entre a superfície ajustada e a superfície determinada for superior a 50 % não é concedido o apoio e o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado quando este montante não puder ser deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\niv) Se a diferença entre a superfície declarada e a superfície determinada for inferior ou igual a 0,1 hectare, considera-se a superfície determinada igual à declarada desde que a diferença não represente mais do que 20 % da superfície declarada.\n\nc) Pagamento aos pequenos agricultores para cada escalão de hectares elegíveis definido no n.º 1 do artigo 20.º:\n\ni) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo;\n\nii) Se a diferença entre a superfície ajustada e a superfície determinada for superior a 0,1 hectares, não é concedido o apoio;\n\niii) Se a diferença entre a superfície ajustada e a superfície determinada for superior a 50 %, o beneficiário é objeto de uma sanção adicional no montante correspondente à diferença entre a superfície declarada ajustada e a superfície determinada, sendo o saldo anulado quando este montante não puder ser deduzido nos três anos seguintes ao ano em que a diferença seja detetada;\n\niv) Se a diferença entre a superfície declarada e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à declarada, desde que a diferença não represente mais do que 20 % da superfície declarada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2023-01-01"
+  },
+  "901657494": {
+   "fragment_id": "213812740",
+   "type": 14,
+   "heading": "Anexo II — Envelopes financeiros indicativos",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo II — Envelopes financeiros indicativos\n\n(a que se referem os artigos 12.º, 17.º, 21.º e 25.º)\nApoio ao rendimento base:\n\n| Ano civil | Valor (€) |\n| --- | --- |\n| 2023 | [...] |\n| 2024 | [...] |\n| 2025 | 349 003 862,85 |\n| 2026 | 349 063 897,21 |\n| 2027 | 303 949 433,80 |\n\nPagamento aos pequenos agricultores:\n\n| Ano civil | Valor (€) |\n| --- | --- |\n| 2023 | [...] |\n| 2024 | [...] |\n| 2025 | 60 742.990,00 |\n| 2026 | [...] |\n| 2027 | [...] |\n\nPagamento redistributivo complementar: \n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+  },
+  "993774265": {
+   "fragment_id": "213812728",
+   "type": 11,
+   "heading": "Artigo 27.º — Pagamento",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 27.º — Pagamento\n\n1 - Sem prejuízo do previsto no capítulo ii da Portaria n.º 54-P/2023, de 27 de fevereiro, alterada pela Portaria n.º 364/2024/1, de 30 de dezembro, as intervenções de apoios dissociados são concedidas sob a forma de pagamentos anuais no âmbito do sistema integrado de gestão e de controlo, nos termos do Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho (Pagamentos SIGC), efetuados pelo IFAP, I. P.\n\n2 - Os pagamentos relativos ao Apoio ao Rendimento Base são efetuados num montante indicativo previsto no anexo iv da presente portaria, da qual faz parte integrante, por hectare elegível.\n\n3 - Para o ano de 2026, os montantes unitários indicativos médios, mínimos e máximos das intervenções de apoios dissociados encontram-se previstos no anexo iv à presente portaria, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01"
+  },
+  "993774266": {
+   "fragment_id": "213812731",
+   "type": 11,
+   "heading": "Artigo 29.º — Reduções e exclusões",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 29.º — Reduções e exclusões\n\n1 - Em caso de incumprimento ou qualquer irregularidade detetada, bem como de omissão de superfície, são aplicáveis as disposições nacionais adotadas para efeitos do previsto no Título IV do Regulamento (UE) 2021/2116.\n\n2 - Para efeitos do número anterior, e sem prejuízo das regras estabelecidas no regulamento dos pedidos de ajuda e de pagamento a efetuar pelo IFAP, I. P., são aplicáveis as seguintes disposições relativas a sanções administrativas por sobredeclaração de área:\n\na) Apoio ao rendimento base:\n\ni) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo, resultando na superfície candidata;\n\nii) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da superfície determinada ou a dois hectares mas igual ou inferior a 50 % da superfície determinada;\n\niii) Se a diferença entre a superfície candidata e a superfície determinada for superior a 50 %, não é concedido apoio;\n\niv) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata;\n\nb) Apoio redistributivo complementar:\n\ni) Se houver diferença entre a superfície declarada e o limite máximo de hectares elegíveis ao pagamento do apoio redistributivo complementar, esta deve ser ajustada ao valor mais baixo, resultando na superfície candidata;\n\nii) Se a superfície candidata exceder a superfície determinada, a ajuda é calculada com base na superfície determinada diminuída de 1,5 vezes a diferença detetada, se esta for superior a 3 % da superfície determinada ou a dois hectares, mas igual ou inferior a 50 % da superfície determinada;\n\niii) (Revogada.)\n\niv) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata;\n\nc) Pagamento aos pequenos agricultores para cada escalão de hectares elegíveis definido no n.º 1 do artigo 20.º:\n\ni) Se houver diferença entre o número declarado de direitos ao pagamento e a superfície declarada, esta deve ser ajustada ao valor mais baixo, resultando na superfície candidata;\n\nii) Se a diferença entre a superfície candidata e a superfície determinada for superior a 0,1 hectares, não é concedido o apoio;\n\niii) (Revogada.)\n\niv) Se a diferença entre a superfície candidata e a superfície determinada for igual ou inferior a 0,1 hectares, considera-se a superfície determinada igual à candidata, desde que a diferença não represente mais do que 20 % da superfície candidata.\n\n3 - Caso se verifique que a superfície determinada de um grupo de culturas é maior do que a superfície candidata, a superfície a utilizar no cálculo da ajuda ou do apoio será a superfície candidata.\n\n4 - Para efeitos do presente artigo, são aplicáveis as definições constantes do artigo 1.º-A da Portaria n.º 54-L/2023, de 27 de fevereiro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 365/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/365-2024-901536097), em vigor a partir de 2024-12-31, produz efeitos a partir de 2023-01-01"
+  },
+  "993774267": {
+   "fragment_id": "213812733",
+   "type": 11,
+   "heading": "Artigo 31.º — Condições artificiais",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 31.º — Condições artificiais\n\n1 - Em aplicação do artigo 62.º do Regulamento (UE) 2021/2116, não é concedida qualquer vantagem ao abrigo do pagamento a pessoas singulares ou coletivas relativamente às quais se conclua terem sido criadas artificialmente as condições requeridas para obter tais vantagens, contrariamente aos objetivos da presente legislação.\n\n2 - São avaliadas para efeitos do disposto no presente artigo, nomeadamente:\n\na) As transferências de direitos a que se refere o n.º 1 do artigo 10.º, efetuadas por agricultores beneficiários do pagamento redistributivo complementar e por beneficiários do pagamento aos pequenos agricultores que procedem à divisão das suas explorações;\n\nb) As transferências de direitos a que se refere o n.º 1 do artigo 10.º, efetuadas por agricultores beneficiários do apoio base ao rendimento para evitar a aplicação do disposto no artigo 11.º;\n\nc) (Revogada.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01"
+  },
+  "993774268": {
+   "fragment_id": "993782322",
+   "type": 14,
+   "heading": "Anexo IV — Montantes unitários indicativos, médios, mínimo e máximo",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 10.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "## Anexo IV — Montantes unitários indicativos, médios, mínimo e máximo\n\n(a que se refere o artigo 35.º)\n\n| Apoio ao rendimento base, por hectare elegível: |  |  |\n| --- | --- | --- |\n| Montante médio indicativo (€)107,96 | Montante mínimo indicativo (€)80,97 | Montante máximo indicativo (€)134,95 |\n| Pagamento aos pequenos agricultores: |  |  |\n| Montante médio indicativo (€)770,00 | Montante mínimo indicativo (€)577,50 | Montante máximo indicativo (€)962,50 |\n| Apoio redistributivo ao rendimento, por hectare elegível: |  |  |\n| Montante médio indicativo (€)120,00 | Montante mínimo indicativo (€)90,00 | Montante máximo indicativo (€)150,00» |\n\n> Aditado pelo/a Artigo 10.º do/a [Portaria n.º 482-A/2025/1 - Diário da República n.º 251/2025, Suplemento, Série I de 2025-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/482-a-2025-993315590), em vigor a partir de 2026-01-01"
+  }
+ }
+}

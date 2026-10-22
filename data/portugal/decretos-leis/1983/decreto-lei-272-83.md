@@ -1,0 +1,239 @@
+---
+schema_version: '1.0'
+id: pt:dre:452017:por
+title: Decreto-Lei n.º 272/83
+short_title: null
+summary: Cria a carreira de técnicos auxiliares sanitários
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios das Finanças e do Plano, dos Assuntos Sociais e da Reforma Administrativa
+proposing_entity: null
+official_number: 272/83
+official_date: null
+publication_date: '1983-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 137/1983, Série I de 1983-06-17
+  number: '137'
+  series: I
+  supplement: null
+  pages: 2149 - 2151
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '452017'
+  dre_path: /dr/detalhe/decreto-lei/272-1983-452017
+  internal: pt:dre:452017:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1983-452017
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/272-1983-452017
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: ab37c76d4b5a04511079ae10209343a9fe49a2fc7bdd98b2538500ac1cda1a49
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-272-452017.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 272/83
+
+de 17 de Junho
+
+Criada pelo [Decreto-Lei n.º 414/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/414-1971-632740), de 27 de Setembro, a carreira de agentes sanitários e técnicos auxiliares sanitários veio a sofrer alterações importantes pelo [Decreto-Lei n.º 18/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1977-138077), de 7 de Março, com definição de condições mínimas de ingresso e de acesso.
+
+Neste momento impõe-se a revisão da referida carreira, não só porque carreiras de idêntico nível habilitacional são tratadas, no [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho, a níveis superiores de remuneração, como também porque assim o aconselho a moderna tecnologia sanitária.
+
+Assim, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### ARTIGO 1.º
+
+(Definição)
+
+1 - É criada a carreira de técnicos auxiliares sanitários.
+
+2 - É técnico auxiliar sanitário o profissional que, mediante formação adequada, está apto a intervir na promoção do bem-estar social de indivíduos e comunidades pela melhoria das condições ambientais de saúde.
+
+3 - Compete ao técnico auxiliar sanitário exercer a sua actividade nas seguintes áreas:
+
+a) Engenharia sanitária:
+
+Obtenção de informações, vigilância e elaboração do cadastro sobre abastecimento e tratamento da água potável, esgoto e tratamento de água residual e disposição e tratamento de lixos;
+
+Prevenção e luta contra a poluição do ar, do solo e da água;
+
+Fiscalização do cumprimento das disposições legais respeitantes a edificações e zonas urbanizadas;
+
+Efectivação de visitas sanitárias periódicas a meios de transporte colectivo;
+
+Efectivação de visitas sanitárias periódicas a recintos de espectáculos;
+
+Elaboração de cadastro, e sua permanente actualização, de todas as piscinas, parques de campismo e turismo e instalações similares e efectivação de visitas sanitárias periódicas a essas instalações;
+
+Elaboração de inventário, e sua permanente actualização, de zonas susceptíveis de ser reservatórios e vectores de agentes patogénicos;
+
+b) Higiene dos alimentos:
+
+Colaboração na vigilância da higiene dos alimentos, das substâncias relacionadas com os alimentos e das embalagens destes produtos;
+
+c) Higiene das instalações de hidroterapia e fisioterapia:
+
+Visitas sanitárias periódicas das concessões e explorações de água mineromedicinal e de mesa, para vigilância das suas condições de higiene;
+
+d) Higiene dos locais de trabalho:
+
+Elaboração de inventário, e sua permanente actualização, relativo a todas as instalações industriais, comerciais e outros locais de trabalho e efectivação de visitas sanitárias periódicas a esses locais;
+
+Elaboração de inventário, e sua permanente actualização, relativo à classe das indústrias legalmente designadas por insalubres, incómodas, perigosas ou tóxicas;
+
+e) Higiene dos cemitérios e das trasladações:
+
+Elaboração de cadastro dos cemitérios existentes e fiscalização de medidas adequadas de saneamento;
+
+Participação na peritagem relativa ao encerramento, em caixões de chumbo ou zinco, de cadáveres e verificação do cumprimento dos preceitos sanitários legais;
+
+f) Colaboração com as demais equipas de saúde no domínio das suas atribuições.
+
+###### ARTIGO 2.º
+
+(Formação)
+
+1 - Constitui requisito mínimo de formação para ingresso na carreira de técnicos auxiliares sanitários a habilitação literária do 9.º ano de escolaridade, acrescida de curso adequado com duração não inferior a 5 semestres.
+
+2 - A partir do ingresso na carreira, o técnico auxiliar sanitário segue regularmente as modalidades de formação profissional que forem determinadas para efeitos de reciclagem e aperfeiçoamento.
+
+###### ARTIGO 3.º
+
+(Graduações)
+
+1 - A carreira de técnicos auxiliares sanitários desenvolve-se pelos graus e vencimentos correspondentes, constantes do quadro I anexo.
+
+2 - Aos graus I, II e III correspondem funções de actuação directa na higiene e salubridade do ambiente.
+
+3 - Ao grau IV, para além dessas funções, correspondem ainda funções de coordenação de equipa de técnicos auxiliares sanitários, a nível regional, devendo existir um coordenador por cada distrito, salvo Porto e Lisboa, em que poderão existir, respectivamente, 3 e 4, e podendo ainda haver mais 2 nos serviços centrais.
+
+###### ARTIGO 4.º
+
+(Ingresso e acesso)
+
+1 - O ingresso na carreira de técnicos auxiliares sanitários faz-se pelo grau I, por concurso documental, observados os requisitos do presente diploma, e atendendo às classificações obtidas no respectivo curso de formação.
+
+2 - O acesso ao grau II é feito após 3 anos de serviço, com classificação mínima de Bom, no grau I, mediante concurso documental.
+
+3 - O acesso ao grau III é feito após 3 anos de serviço no grau II, com classificação de serviço mínimo de Bom, mediante concurso de provas públicas.
+
+4 - O acesso ao grau IV é feito por concurso de provas públicas, em termos a regulamentar por portaria do Ministro dos Assuntos Sociais.
+
+5 - São candidatos idóneos ao concurso previsto no número anterior os técnicos auxiliares sanitários com, pelo menos, 3 anos de serviço no grau III, com classificação de Bom e que tenham obtido aprovação em curso de reciclagem adequado.
+
+6 - As condições de ingresso e acesso previstas neste artigo não prejudicam o preceituado no artigo 2.º do [Decreto-Lei n.º 191-C/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-c-1979-432673), de 25 de Junho.
+
+###### ARTIGO 5.º
+
+(Normas de transição)
+
+1 - A transição dos profissionais que actualmente tenham categoria de técnico auxiliar sanitário principal, de 1.ª classe ou de 2.ª classe ou agente sanitário de 1.ª classe ou de 2.ª classe para os graus da nova carreira prevista neste diploma obedece às normas dos números seguintes.
+
+2 - São integrados no grau III os actuais técnicos auxiliares sanitários principais.
+
+3 - São integrados no grau II os actuais técnicos auxiliares sanitários de 1.ª classe.
+
+4 - São integrados no grau I os actuais técnicos auxiliares sanitários de 2.ª classe.
+
+5 - São integrados no grau I os actuais agentes sanitários de 1.ª classe.
+
+6 - São ainda integrados no grau I os actuais agentes sanitários de 2.ª classe.
+
+7 - O tempo de serviço prestado na categoria pelo qual se operou a transição conta como prestado na nova categoria para efeitos de progressão na carreira.
+
+8 - Os técnicos auxiliares sanitários de 1.ª classe que possuam, pelo menos, 6 anos de serviço na carreira podem candidatar-se ao primeiro concurso de promoção que seja aberto após a entrada em vigor deste diploma.
+
+###### ARTIGO 6.º
+
+(Quadros)
+
+1 - São criados os lugares da carreira prevista no presente diploma constantes do quadro II anexo, os quais substituem o conjunto dos lugares de técnicos auxiliares sanitários e de agentes sanitários que se encontram previstos nos quadros de pessoal dos centros de saúde distritais já aprovados por portaria.
+
+2 - A distribuição desses lugares por cada distrito do continente é aprovada por portaria do Ministro dos Assuntos Sociais, ficando, deste modo, alterados, no tocante a este pessoal, os quadros dos respectivos centros de saúde distritais.
+
+3 - Se da execução dos n.os 2 a 6 do artigo anterior resultar em alguma categoria número de funcionários a integrar superior ao dos lugares previstos nos n.os 1 e 2 do presente artigo, devem os mesmos funcionários ser integrados na categoria a que tenham direito, tendo em conta as vagas que existam nas categorias superiores, acrescendo-se para o efeito os necessários lugares, que se extinguirão quando vagarem.
+
+###### ARTIGO 7.º
+
+(Colocações)
+
+1 - As colocações nos quadros alterados nos termos do artigo anterior são feitas nos termos da lei geral.
+
+2 - Efectuadas as colocações nos quadros, por aplicação das normas de transição do artigo 5.º, as novas remunerações serão devidas desde a publicação do presente decreto-lei.
+
+Visto e aprovado em Conselho de Ministros de 5 de Maio de 1983. - Francisco José Pereira Pinto Balsemão - João Maurício Fernandes Salgueiro - Luís Eduardo da Silva Barbosa - José Manuel Meneres Sampaio Pimentel.
+
+**Promulgado em 26 de Maio de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 30 de Maio de 1983.**
+
+**O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.**
+
+I
+
+Quadro anexo previsto no n.º 1 do artigo 3.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf)
+
+II
+
+Quadro anexo previsto no n.º 1 do artigo 6.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf))](https://files.diariodarepublica.pt/1s/1983/06/13700/21492151.pdf)

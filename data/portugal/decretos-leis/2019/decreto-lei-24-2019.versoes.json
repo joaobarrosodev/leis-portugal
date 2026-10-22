@@ -1,0 +1,525 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:118950630:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-118894370",
+ "dre_path": "/dr/detalhe/decreto-lei/24-2019-118950630",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-02-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "118877037",
+    "118877038",
+    "118877039",
+    "118877040",
+    "118877041",
+    "118877042",
+    "118877043",
+    "118877044",
+    "118877045",
+    "118877046",
+    "118877047",
+    "118877048",
+    "118877049",
+    "118877050",
+    "118877051",
+    "118877052",
+    "118877053",
+    "118877054",
+    "118877055",
+    "118877056",
+    "118877057",
+    "118877058",
+    "118877059"
+   ]
+  },
+  {
+   "date": "2021-12-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:175659839:por",
+     "title": "Decreto-Lei n.º 109-D/2021",
+     "published": "2021-12-09",
+     "dre_path": "/dr/detalhe/decreto-lei/109-d-2021-175659839"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "118877037",
+    "118877038",
+    "118877039",
+    "118877040",
+    "118877041",
+    "118877042",
+    "118877043",
+    "118877044",
+    "118877045",
+    "175745961",
+    "118877047",
+    "118877048",
+    "118877049",
+    "175745962",
+    "118877051",
+    "118877052",
+    "118877053",
+    "118877054",
+    "118877055",
+    "118877056",
+    "118877057",
+    "118877058",
+    "118877059",
+    "118877060"
+   ]
+  },
+  {
+   "date": "2023-12-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225283592:por",
+     "title": "Decreto-Lei n.º 114-C/2023",
+     "published": "2023-12-05",
+     "dre_path": "/dr/detalhe/decreto-lei/114-c-2023-225283592"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 6.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "118877037",
+    "118877038",
+    "225358474",
+    "225395775",
+    "118877041",
+    "225395776",
+    "225395777",
+    "225395778",
+    "118877045",
+    "917251671",
+    "225395780",
+    "917251672",
+    "917251673",
+    "225395783",
+    "225395784",
+    "225395785",
+    "118877052",
+    "118877053",
+    "118877054",
+    "118877055",
+    "118877056",
+    "118877057",
+    "118877058",
+    "118877059",
+    "118877060"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:225283593:por",
+     "title": "Decreto-Lei n.º 114-D/2023",
+     "published": "2023-12-05",
+     "dre_path": "/dr/detalhe/decreto-lei/114-d-2023-225283593",
+     "date": "2024-01-04"
+    }
+   ]
+  },
+  {
+   "date": "2024-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:858631717:por",
+     "title": "Decreto-Lei n.º 28/2024",
+     "published": "2024-04-03",
+     "dre_path": "/dr/detalhe/decreto-lei/28-2024-858631717"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "118877037",
+    "118877038",
+    "225358474",
+    "225395775",
+    "118877041",
+    "225395776",
+    "225395777",
+    "225395778",
+    "118877045",
+    "917303914",
+    "225395780",
+    "917251672",
+    "917251673",
+    "225395783",
+    "225395784",
+    "225395785",
+    "118877052",
+    "118877053",
+    "118877054",
+    "118877055",
+    "118877056",
+    "118877057",
+    "118877058",
+    "118877059",
+    "118877060"
+   ]
+  }
+ ],
+ "fragments": {
+  "118877037": {
+   "fragment_id": "118894371",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 24/2019\n\nde 1 de fevereiro\n\nO presente decreto-lei procede à segunda fase de transposição para a ordem jurídica interna da Diretiva n.º 2012/17/UE, do Parlamento Europeu e do Conselho, de 13 de junho de 2012, que alterou a Diretiva n.º 89/666/CEE, do Conselho, e as Diretivas n.os 2005/56/CE e 2009/101/CE, do Parlamento Europeu e do Conselho, no que respeita à interconexão dos registos centrais, dos registos comerciais e dos registos das sociedades, cujas disposições foram codificadas na Diretiva n.º 2017/1132, do Parlamento Europeu e do Conselho, de 14 de junho, relativa a determinados aspetos do direito das sociedades. Neste sentido, altera-se o Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro, e legislação conexa.\n\nA Diretiva n.º 2012/17/UE tem como escopo melhorar o acesso à informação sobre as empresas num contexto transfronteiriço, permitindo o intercâmbio de informação entre os registos das sociedades e os registos das sucursais abertas noutro Estado-Membro da União Europeia e garantindo que estes últimos disponham de informações atualizadas. Visa ainda definir os canais de comunicação entre os registos no quadro dos processos de registo transfronteiriço.\n\nPara o efeito, é estabelecido o sistema de comunicação eletrónica entre os registos dos Estados-Membros e definido o modo de transmissão da informação aos utilizadores individuais, de forma normalizada, por meio de conteúdo idêntico e de tecnologias interoperáveis em toda a União Europeia: o Business Register Interconnection System (BRIS).\n\nA interoperabilidade em que este sistema assenta é assegurada pelos serviços de registos dos Estados-Membros da União Europeia que estabelecem interfaces com a plataforma central europeia. Esta consiste, essencialmente, num conjunto centralizado de instrumentos e serviços de tecnologia de informação, formando uma interface comum a utilizar por todos os registos nacionais.\n\nA plataforma central europeia é utilizada igualmente para fornecer serviços aos utilizadores individuais, mediante a constituição de uma interface com um portal europeu da justiça eletrónica, através do qual é possível o acesso aos documentos e informações constantes do registo comercial.\n\nAtentos aqueles objetivos, através da Diretiva n.º 2012/17/UE, estipulou-se que a informação relativa a sucursais deveria ser objeto de disponibilização ao público através do sistema de interconexão dos registos, estabelecendo-se o intercâmbio entre os registos comerciais das sociedades e os registos comerciais das suas representações permanentes, das informações relacionadas com a abertura e o encerramento de quaisquer processos de liquidação ou insolvência, bem como o cancelamento do registo da sociedade representada, cujos factos devem ter reflexo no registo daquelas representações.\n\nDeterminou-se, também, que as notificações a efetuar pelos serviços de registos relativamente às sociedades participantes em processos de fusão transfronteiriça, que são a base de qualquer ato de registo a realizar na sequência da fusão, deveriam ser realizadas através do BRIS.\n\nFoi ainda prevista a disponibilização pelos Estados-Membros da União Europeia, através do BRIS, e de forma gratuita, de determinada informação relativa a sociedades comerciais de responsabilidade limitada, bem como a possibilidade de obtenção, por via eletrónica, de cópias dos documentos e informações constantes do registo comercial relativas àquelas entidades, mediante o pagamento de uma taxa a fixar pelos Estados-Membros.\n\nDeterminante para a interconexão dos registos é a criação do identificador único (EUID), destinado a identificar de forma inequívoca as sociedades comerciais e as representações permanentes nas comunicações entre os registos dos Estados-Membros da União Europeia através do BRIS, assim como o estabelecimento de normas procedimentais que assegurem condições uniformes para o funcionamento do sistema.\n\nA transposição e aplicação da Diretiva n.º 2012/17/UE pelos Estados-Membros da União Europeia, quanto às disposições relativas ao funcionamento técnico do BRIS, foi diferida no tempo. Só após a adoção pela Comissão dos atos de execução relativos às medidas e especificações técnicas daquele sistema de interconexão é que os Estados-Membros passaram a estar obrigados a adotar, publicar e aplicar as disposições necessárias ao cumprimento da referida diretiva nesta vertente.\n\nNesta medida, tendo-se já verificado a condição referida, urge adaptar a legislação nacional, de forma a dar cumprimento às normas europeias, procedendo-se às necessárias alterações na legislação que regula o registo comercial.\n\nProcede-se, ainda, à harmonização do Código do Registo Comercial com as alterações introduzidas ao regime da Informação Empresarial Simplificada (IES), pelo Decreto-Lei n.º 87/2018, de 31 de outubro, com vista à simplificação do preenchimento dos anexos A e I da IES, alterando-se o artigo 42.º daquele Código, respeitante ao depósito do registo da prestação de contas, quanto aos documentos que o integram.\n\nIntroduz-se, igualmente, alterações ao Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na sua redação atual, quanto à gratuitidade e isenção de emolumentos, respetivamente, pelo registo de factos relativos a representações permanentes de sociedades com sede em país da União Europeia, bem como pela transição das pessoas coletivas religiosas inscritas no Ficheiro Central de Pessoas Coletivas em data anterior à entrada em vigor do Decreto-Lei n.º 19/2015, de 3 de fevereiro, para o registo de pessoas jurídicas canónicas, uma vez que apenas se procede à inscrição oficiosa de informação relativa a entidades já registada noutra sede.\n\nForam ouvidos a Comissão Nacional de Proteção de Dados, o Conselho Superior da Magistratura, o Conselho Superior dos Tribunais Administrativos e Fiscais, a Comissão para o Acompanhamento dos Auxiliares da Justiça, a Ordem dos Advogados, a Ordem dos Solicitadores e dos Agentes de Execução, a Ordem dos Notários, a Associação Sindical dos Conservadores dos Registos e o Sindicato Nacional dos Registos.\n\nFoi promovida a audição da Procuradoria-Geral da República, do Conselho Superior do Ministério Público, da Associação Sindical dos Juízes Portugueses, do Sindicato dos Magistrados do Ministério Público, do Conselho dos Oficiais de Justiça, do Sindicato dos Oficiais de Justiça, do Sindicato dos Funcionários Judiciais, do Sindicato dos Trabalhadores dos Registos e Notariado e da Associação Sindical dos Oficiais dos Registos e Notariado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "118877038": {
+   "fragment_id": "118894372",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "118877039": {
+   "fragment_id": "118894373",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece as regras aplicáveis ao acesso e intercâmbio de informação entre o registo comercial nacional e os registos comerciais de outros Estados-Membros da União Europeia, transpondo para a ordem jurídica interna a Diretiva n.º 2012/17/UE, do Parlamento Europeu e do Conselho, de 13 de junho de 2012, cujas disposições foram codificadas através da Diretiva n.º 2017/1132, do Parlamento Europeu e do Conselho, de 14 de junho.\n\n2 - O presente decreto-lei procede, ainda, à alteração do:\n\na) Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro;\n\nb) Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro."
+  },
+  "118877040": {
+   "fragment_id": "118894374",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei é aplicável às sociedades por quotas, às sociedades anónimas e às sociedades em comandita por ações, bem como às representações permanentes e sucursais financeiras exteriores de sociedades de responsabilidade limitada com sede noutro Estado-Membro da União Europeia."
+  },
+  "118877041": {
+   "fragment_id": "118994775",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de interconexão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de interconexão"
+  },
+  "118877042": {
+   "fragment_id": "118994776",
+   "type": 11,
+   "heading": "Artigo 3.º — Sistema de interconexão dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sistema de interconexão dos registos\n\n1 - Para os efeitos previstos no presente decreto-lei, o intercâmbio de informação a realizar entre os registos comerciais dos Estados-Membros da União Europeia e a disponibilização da informação pública e documentos constantes dos registo comercial nacional, previstos nas Diretivas n.os 89/666/CEE, 2005/56/CE e 2009/101/CE, são efetuados através do sistema de interconexão dos registos centrais, comerciais e das sociedades (Sistema de Interconexão), constituído:\n\na) Pelos registos dos Estados-Membros da União Europeia;\n\nb) Pela Plataforma Central Europeia (Plataforma); e\n\nc) Pelo Portal Europeu da Justiça Eletrónica (Portal).\n\n2 - A interoperabilidade dos registos dos Estados-Membros da União Europeia, dentro do Sistema de Interconexão, é assegurada através da Plataforma, mediante a constituição de uma interface comum.\n\n3 - Para os efeitos previstos no número anterior, a Plataforma distribui informação contida em cada um dos registos dos Estados-Membros aos registos competentes dos outros Estados-Membros, num formato de mensagem normalizado e na versão linguística pertinente.\n\n4 - O acesso à informação constante do registo comercial nacional, a disponibilizar ao público através do Sistema de Interconexão, é assegurado via Portal."
+  },
+  "118877043": {
+   "fragment_id": "118994777",
+   "type": 11,
+   "heading": "Artigo 4.º — Número único de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Número único de identificação\n\n1 - As entidades previstas no artigo 2.º dispõem de um número único de identificação (EUID) que permite a sua identificação inequívoca nas comunicações efetuadas através do Sistema de Interconexão.\n\n2 - O EUID deve incluir, pelo menos, os elementos que permitam a identificação do Estado-Membro do registo, o registo nacional de origem e o número de identificação da entidade nesse registo nacional.\n\n3 - A atribuição do EUID é feita oficiosa e automaticamente com a inscrição no registo comercial.\n\n4 - A composição do EUID a que se refere o presente artigo é fixada por portaria do membro do Governo responsável pela área da justiça."
+  },
+  "118877044": {
+   "fragment_id": "118994778",
+   "type": 11,
+   "heading": "Artigo 5.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Dados pessoais\n\n1 - Ao tratamento, segurança e comunicação de dados pessoais no âmbito do Sistema de Interconexão, é aplicável o disposto no Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, que aprovou o Regulamento Geral de Proteção de Dados, bem como a legislação nacional sobre proteção de dados pessoais.\n\n2 - Para efeitos da disponibilização da informação e documentos constantes do registo comercial nacional, são recolhidos, relativamente aos requerentes dos respetivos pedidos, os seguintes dados pessoais:\n\na) Nome;\n\nb) Residência habitual ou domicílio profissional;\n\nc) Número de identificação fiscal;\n\nd) Endereço de correio eletrónico.\n\n3 - Os dados pessoais referidos no número anterior são disponibilizados no Portal pelos próprios requerentes dos pedidos de informação e documentos, em conformidade com o procedimento fixado para o efeito.\n\n4 - Os dados pessoais recolhidos nos termos dos n.os 2 e 3 apenas podem ser utilizados para os fins neles especificados.\n\n5 - Os dados pessoais dos sujeitos dos registos constantes do registo comercial nacional, recolhidos ao abrigo do disposto no Código do Registo Comercial, enquanto dados que integram o registo da situação jurídica das entidades previstas no artigo 2.º do presente decreto-lei, são comunicados, através do Sistema de Interconexão, nos termos previstos no presente decreto-lei.\n\n6 - Nos termos do número anterior, são comunicados os seguintes dados pessoais:\n\na) Nome;\n\nb) Estado civil e, quando solteiro, menção de maioridade ou menoridade;\n\nc) Nome do cônjuge e regime de bens;\n\nd) Residência habitual ou domicílio profissional;\n\ne) Número de identificação fiscal."
+  },
+  "118877045": {
+   "fragment_id": "118994779",
+   "type": 1,
+   "heading": "Capítulo III — Comunicações e informações a disponibilizar pelo registo comercial nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Comunicações e informações a disponibilizar pelo registo comercial nacional"
+  },
+  "118877046": {
+   "fragment_id": "118994780",
+   "type": 11,
+   "heading": "Artigo 6.º — Sociedades comerciais e representações permanentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Sociedades comerciais e representações permanentes\n\n1 - O registo comercial nacional notifica, através do Sistema de Interconexão, ao registo competente do Estado-Membro onde esteja registada representação permanente de sociedade portuguesa, os factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência, bem como o cancelamento do registo da sociedade.\n\n2 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na representação permanente.\n\n3 - Para os efeitos previstos no número anterior, o registo comercial comunica, através do Sistema de Interconexão, a criação e a extinção das representações permanentes.\n\n4 - A troca de informação prevista no presente artigo e a realização dos respetivos atos de registo é gratuita."
+  },
+  "118877047": {
+   "fragment_id": "118994781",
+   "type": 11,
+   "heading": "Artigo 7.º — Fusões transfronteiriças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Fusões transfronteiriças\n\n1 - O registo comercial nacional, quando inscreva a fusão transfronteiriça na sociedade incorporante, notifica, através do Sistema de Interconexão, ao registo competente do Estado-Membro de cada uma das sociedades participantes da fusão com sede na União Europeia, o início da produção de efeitos.\n\n2 - O registo comercial nacional, após receção da notificação feita pelo registo competente do Estado-Membro, nos termos previstos no número anterior, procede oficiosamente ao registo da fusão transfronteiriça na sociedade incorporada com sede em Portugal e ao subsequente cancelamento oficioso da matrícula."
+  },
+  "118877048": {
+   "fragment_id": "118994782",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à informação constante do registo comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Acesso à informação constante do registo comercial\n\n1 - Qualquer interessado pode solicitar e obter por via eletrónica, através do Sistema de Interconexão, cópia dos seguintes atos de registo comercial e documentos arquivados no registo comercial nacional:\n\na) A designação e a cessação de funções dos membros dos órgãos de administração e de fiscalização das sociedades;\n\nb) Ato da constituição e documento constitutivo;\n\nc) Alterações ao contrato de sociedade, incluindo a prorrogação da sociedade;\n\nd) Pacto social atualizado;\n\ne) Documentos relativos ao registo da prestação de contas;\n\nf) Mudança da sede social;\n\ng) Dissolução;\n\nh) Designação de liquidatários;\n\ni) Sentença de declaração de insolvência ou despacho judicial de prosseguimento da liquidação;\n\nj) Decisão judicial que declare a nulidade do contrato da sociedade;\n\nk) O encerramento da liquidação, bem como o cancelamento da matrícula da entidade.\n\n2 - Os atos de registo comercial e documentos constantes do número anterior respeitam às entidades mencionadas no artigo 2.º\n\n3 - Os atos de registo elencados no n.º 1 podem ser disponibilizados através da cópia da ficha da entidade com todos os registos de acesso público, nos termos do Código do Registo Comercial.\n\n4 - As cópias a que se referem os números anteriores não são certificadas e têm valor de mera informação.\n\n5 - Pela disponibilização da informação referida no presente artigo são devidos os emolumentos fixados no Regulamento Emolumentar dos Registos e do Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na redação introduzida pelo presente decreto-lei."
+  },
+  "118877049": {
+   "fragment_id": "118994783",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamento\n\nO pagamento da informação disponibilizada nos termos do artigo anterior é efetuado de forma centralizada, através do Portal."
+  },
+  "118877050": {
+   "fragment_id": "118994784",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação disponibilizada de forma gratuita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Informação disponibilizada de forma gratuita\n\nAtravés do Sistema de Interconexão, é disponibilizada, sem encargos, sobre as entidades previstas no artigo 2.º do presente decreto-lei, a seguinte informação:\n\na) Firma e natureza jurídica;\n\nb) Sede e país do registo;\n\nc) Número de identificação de pessoa coletiva."
+  },
+  "118877051": {
+   "fragment_id": "118994785",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência\n\nSão competentes para a satisfação dos pedidos e para a prática dos atos a efetuar na sequência das comunicações recebidas através do Sistema de Interconexão os serviços de registo a determinar por deliberação do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)."
+  },
+  "118877052": {
+   "fragment_id": "118994786",
+   "type": 1,
+   "heading": "Capítulo IV — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Alterações legislativas"
+  },
+  "118877053": {
+   "fragment_id": "118994787",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração ao Decreto-Lei n.º 403/86, de 3 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração ao Decreto-Lei n.º 403/86, de 3 de dezembro\n\nOs artigos 32.º, 42.º, 67.º e 67.º-A do Decreto-Lei n.º 403/86, de 3 de dezembro, que aprova o Código do Registo Comercial, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 32.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - As comunicações recebidas através do sistema de interconexão dos registos da União Europeia dispensam a apresentação de prova documental adicional dos factos nelas contidos.\n\nArtigo 42.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) Balanço;\n\nc) Demonstração dos resultados;\n\nd) Demonstração das alterações no capital próprio/património líquido;\n\ne) Demonstração de fluxos de caixa;\n\nf) Anexo às demonstrações financeiras;\n\ng) [Anterior alínea c).]\n\nh) [Anterior alínea d)].\n\n2 - [...]:\n\na) [...];\n\nb) Balanço consolidado, demonstração consolidada dos resultados, demonstração das alterações no capital próprio/património líquido, demonstração consolidada de fluxos de caixa e anexo às demonstrações financeiras;\n\nc) [...];\n\nd) [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - Quando, nos termos da legislação especial, não forem exigíveis os documentos referidos nas alíneas d), e) e f) do n.º 1, os mesmos não integram o registo da prestação de contas.\n\nArtigo 67.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - O registo do cancelamento da sociedade representada determina a realização oficiosa do cancelamento da matrícula da representação permanente criada em Portugal na sequência da comunicação do competente registo do respetivo Estado-Membro da União Europeia, através do sistema de interconexão dos registos da União Europeia.\n\n5 - O disposto no número anterior não é aplicável nos casos em que o registo da sociedade representada tenha sido cancelado na sequência de transformação, fusão, cisão ou mudança de sede transfronteiriça.\n\nArtigo 67.º-A\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - O registo de fusão transfronteiriça na sociedade incorporante, ou de constituição da nova sociedade resultante da fusão, determina a notificação desse facto e do consequente início de produção de efeitos, através do sistema de interconexão dos registos da União Europeia, aos registos competentes dos Estados-Membros onde estejam sediadas as sociedades participantes.\n\n4 - A receção de notificação do início da produção de efeitos de fusão transfronteiriça, efetuada por registo competente do respetivo Estado-Membro da União Europeia, determina a realização oficiosa do registo da fusão transfronteiriça e o cancelamento da matrícula das sociedades participantes na fusão que estejam sediadas em território nacional.»"
+  },
+  "118877054": {
+   "fragment_id": "118994788",
+   "type": 11,
+   "heading": "Artigo 13.º — Aditamento ao Decreto-Lei n.º 403/86, de 3 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Aditamento ao Decreto-Lei n.º 403/86, de 3 de dezembro\n\nSão aditados ao Decreto-Lei n.º 403/86, de 3 de dezembro, que aprova o Código do Registo Comercial, na sua redação atual, os artigos 10.º-A, 67.º-B e 72.º-B, com a seguinte redação:\n\n«Artigo 10.º-A\n\nRepresentações permanentes de sociedades com sede em país da União Europeia\n\n1 - Estão especialmente sujeitos a registo sobre as representações permanentes de sociedades de responsabilidade limitada com sede em país da União Europeia, os seguintes factos relativos à sociedade representada:\n\na) A abertura e o encerramento dos processos de liquidação e de insolvência;\n\nb) O cancelamento do registo da sociedade.\n\n2 - O registo dos factos previstos no número anterior é efetuado oficiosamente, na sequência de comunicação, através do sistema de interconexão dos registos da União Europeia, pelo registo competente do respetivo Estado-Membro da União Europeia.\n\nArtigo 67.º-B\n\nSociedades comerciais com representações permanentes sediadas noutro Estado-Membro\n\nOs registos definitivos dos factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência, bem como o cancelamento da matrícula, quando respeitantes a sociedades comerciais por quotas, anónimas e em comandita por ações com representações permanentes registadas noutros Estados-Membros da União Europeia, são comunicados oficiosamente ao registo competente do Estado-Membro do local da representação.\n\nArtigo 72-º-B\n\nDisponibilização oficiosa de informação\n\nÉ oficiosa e gratuitamente disponibilizada, para simples consulta, no Portal Europeu da Justiça Eletrónica, a informação sobre a natureza jurídica, firma, número de pessoa coletiva e sede das pessoas coletivas inscritas no registo comercial.»"
+  },
+  "118877055": {
+   "fragment_id": "118994789",
+   "type": 11,
+   "heading": "Artigo 14.º — Alteração ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Alteração ao Decreto-Lei n.º 322-A/2001, de 14 de dezembro\n\nOs artigos 15.º, 16.º-A e 22.º do Decreto-Lei n.º 322-A/2001, de 14 de dezembro, que aprovou o Regulamento Emolumentar dos Registos e do Notariado, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) Os registos realizados oficiosamente nos termos do artigo 10.º-A e do n.º 4 do artigo 67.º do Código do Registo Comercial.\n\n2 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...].\n\nArtigo 16.º-A\n\n[...]\n\n[...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) A inscrição oficiosa, no registo de pessoas jurídicas canónicas, das pessoas coletivas religiosas inscritas no ficheiro central de pessoas coletivas, em data anterior à entrada em vigor do Decreto-Lei n.º 19/2015, de 3 de fevereiro.\n\nArtigo 22.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n2.1 - [...]\n\n2.2 - [...]\n\n2.3 - [...]\n\n2.4 - [...]\n\n2.5 - [...]\n\n2.6 - [...]\n\n2.7 - [...]\n\n2.8 - [...]\n\n2.9 - [...]\n\n2.10 - [...]\n\n2.11 - [...]\n\n2.12 - [...]\n\n3 - [...]\n\n4 - [...]\n\n4.1 - [...]\n\n4.2 - [...]\n\n4.3 - [...]\n\n5 - [...]\n\n5.1 - [...]\n\n5.2 - [...]\n\n6 - [...]\n\n6.1 - [...]\n\n6.2 - [...]\n\n6.3 - [...]\n\n7 - [...]\n\n7.1 - [...]\n\n7.2 - [...]\n\n8 - [...]\n\n8.1 - [...]\n\n8.2 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\n13.1 - [...]\n\n13.2 - [...]\n\n13.3 - [...]\n\n13.4 - [...]\n\n13.4.1 - [...]\n\n13.4.2 - [...]\n\n13.4.3 - [...]\n\n13.4.4 - [...]\n\n13.5 - [...]\n\n13.5.1 - [...]\n\n13.6 - [...]\n\n13.7 - [...]\n\n13.8 - [...]\n\n13.9 - [...]\n\n13.10 - Pela disponibilização da informação não certificada no Portal Europeu da Justiça Eletrónica, através do sistema de interconexão dos registos comerciais:\n\n13.10.1 - Relativa a informação contida na matrícula - (euro) 5\n\n13.10.2 - Relativa ao pacto social atualizado - (euro) 8\n\n13.10.3 - Relativa às contas anuais - (euro) 5\n\n13.10.4 - Relativa a quaisquer outros factos registados ou documentos arquivados - (euro) 10.\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\n17 - [...]\n\n18 - [...]\n\n19 - [...]\n\n20 - [...]\n\n21 - [...]\n\n22 - [...]\n\n23 - [...]\n\n24 - [...]\n\n25 - [...]\n\n26 - [...].»"
+  },
+  "118877056": {
+   "fragment_id": "118994790",
+   "type": 1,
+   "heading": "Capítulo V — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições transitórias e finais"
+  },
+  "118877057": {
+   "fragment_id": "118994791",
+   "type": 11,
+   "heading": "Artigo 15.º — Atribuição oficiosa de número único de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Atribuição oficiosa de número único de identificação\n\nA entrada em vigor do presente decreto-lei determina a atribuição oficiosa e automática do EUID a que se refere o artigo 4.º a todas as sociedades comerciais de responsabilidade limitada, com o tipo sociedade por quotas, sociedade anónima e sociedade em comandita por ações, e às representações permanentes e sucursais financeiras exteriores de sociedades de responsabilidade limitada com sede noutro Estado-Membro da União Europeia, independentemente de qualquer formalidade."
+  },
+  "118877058": {
+   "fragment_id": "118994792",
+   "type": 11,
+   "heading": "Artigo 16.º — Representações permanentes existentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Representações permanentes existentes\n\n1 - A atribuição do EUID prevista no artigo anterior implica o prévio e oficioso cancelamento das matrículas das representações permanentes de sociedades de responsabilidade limitada com sede noutro Estado-Membro da União Europeia, que se encontrem extintas no seu registo de origem, após levantamento da situação jurídica das referidas sociedades, efetuado ao nível dos Estados-Membros, determinado para o efeito pela Comissão Europeia.\n\n2 - O cancelamento é efetuado na sequência de comunicação feita pelos serviços de registo para a morada que consta do registo e publicação no sítio na Internet das publicações dos atos societários, nos termos a fixar por deliberação do conselho diretivo do IRN, I. P.\n\n3 - Os registos das representações permanentes existentes que não devam ser canceladas são atualizados oficiosamente pelos serviços de registo, com base na informação fornecida pelos registos da sociedade representada, nos termos da deliberação a que se refere o número anterior."
+  },
+  "118877059": {
+   "fragment_id": "118994793",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor a 1 de julho de 2019."
+  },
+  "175745961": {
+   "fragment_id": "118994780",
+   "type": 11,
+   "heading": "Artigo 6.º — Sociedades comerciais e representações permanentes",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 6.º — Sociedades comerciais e representações permanentes\n\n1 - O registo comercial nacional notifica, através do Sistema de Interconexão, ao registo competente do Estado-Membro onde esteja registada representação permanente de sociedade portuguesa:\n\na) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou denominação, à sede e à natureza jurídica da sociedade;\n\nb) Os factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência;\n\nc) O cancelamento do registo da sociedade.\n\n2 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na representação permanente.\n\n3 - O registo comercial nacional comunica, através do Sistema de Interconexão, ao registo competente do Estado Membro onde esteja registada a sociedade representada o registo de criação e o registo de encerramento da representação permanente.\n\n4 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na sociedade.\n\n5 - A troca de informação prevista no presente artigo e a realização dos respetivos atos de registo é gratuita.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "175745962": {
+   "fragment_id": "118994784",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação disponibilizada de forma gratuita",
+   "in_force_from": "2021-12-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 10.º — Informação disponibilizada de forma gratuita\n\nAtravés do Sistema de Interconexão, é disponibilizada, sem encargos, sobre as entidades previstas no artigo 2.º do presente decreto-lei, a seguinte informação:\n\na) Firma e natureza jurídica;\n\nb) Sede e país do registo;\n\nc) Número de identificação de pessoa coletiva e o seu identificador único europeu (EUID);\n\nd) Estado da sociedade, nomeadamente que se encontra encerrada, em situação de liquidação ou de dissolução;\n\ne) Objeto da sociedade;\n\nf) Representantes legais e outras pessoas que podem agir em nome da sociedade;\n\ng) Sobre qualquer representação permanente registada pela sociedade noutro Estado-Membro, incluindo a denominação, o número de registo, o EUID e o Estado-Membro onde está registada.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "118877060": {
+   "fragment_id": "118994794",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de janeiro de 2019. - Mário José Gomes de Freitas Centeno - Francisca Eugénia da Silva Dias Van Dunem.\n\nPromulgado em 17 de janeiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 22 de janeiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n112002922"
+  },
+  "225358474": {
+   "fragment_id": "118894373",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece as regras aplicáveis ao acesso e intercâmbio de informação entre o registo comercial nacional e os registos comerciais de outros Estados-Membros da União Europeia, transpondo para a ordem jurídica interna a Diretiva n.º 2012/17/UE, do Parlamento Europeu e do Conselho, de 13 de junho de 2012, cujas disposições foram codificadas através da Diretiva n.º 2017/1132, do Parlamento Europeu e do Conselho, de 14 de junho.\n\n2 - O presente decreto-lei estabelece também as regras aplicáveis ao intercâmbio de informação relativa às pessoas singulares que se encontrem inibidas para o exercício do comércio, para o exercício do cargo de gerente, de administrador ou de outro membro de órgão social sujeito a registo ou para a administração de patrimónios alheios, entre o registo comercial nacional e os registos comerciais de outros Estados-Membros da União Europeia, previsto na Diretiva (UE) 2017/1132 do Parlamento Europeu e do Conselho, de 14 de junho de 2017, na sua redação atual.\n\n3 - O presente decreto-lei procede, ainda, à alteração do:\n\na) Código do Registo Comercial, aprovado pelo Decreto-Lei n.º 403/86, de 3 de dezembro;\n\nb) Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+  },
+  "225395775": {
+   "fragment_id": "118894374",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2023-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei é aplicável às sociedades por quotas, às sociedades anónimas e às sociedades em comandita por ações, bem como às representações permanentes e sucursais financeiras exteriores de sociedades de responsabilidade limitada com sede noutro Estado-Membro da União Europeia.\n\n2 - O presente decreto-lei é ainda aplicável às pessoas singulares que se encontrem inibidas para o exercício do comércio, para o exercício do cargo de gerente, de administrador ou de outro membro de órgão social sujeito a registo ou para a administração de patrimónios alheios.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+  },
+  "225395776": {
+   "fragment_id": "118994776",
+   "type": 11,
+   "heading": "Artigo 3.º — Sistema de interconexão dos registos",
+   "in_force_from": "2023-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+   ],
+   "markdown": "###### Artigo 3.º — Sistema de interconexão dos registos\n\n1 - Para os efeitos previstos no presente decreto-lei, o intercâmbio de informação a realizar entre os registos comerciais dos Estados-Membros da União Europeia e a disponibilização da informação pública e dos documentos constantes do registo comercial nacional, previstos na Diretiva (UE) 2017/1132 do Parlamento Europeu e do Conselho, de 14 de junho de 2017, na sua redação atual, são efetuados através do sistema de interconexão dos registos centrais, comerciais e das sociedades (Sistema de Interconexão), constituído:\n\na) Pelos registos dos Estados-Membros da União Europeia;\n\nb) Pela Plataforma Central Europeia (Plataforma); e\n\nc) Pelo Portal Europeu da Justiça Eletrónica (Portal).\n\n2 - A interoperabilidade dos registos dos Estados-Membros da União Europeia, dentro do Sistema de Interconexão, é assegurada através da Plataforma, mediante a constituição de uma interface comum.\n\n3 - Para os efeitos previstos no número anterior, a Plataforma distribui informação contida em cada um dos registos dos Estados-Membros aos registos competentes dos outros Estados-Membros, num formato de mensagem normalizado e na versão linguística pertinente.\n\n4 - O acesso à informação constante do registo comercial nacional, a disponibilizar ao público através do Sistema de Interconexão, é assegurado via Portal.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+  },
+  "225395777": {
+   "fragment_id": "118994777",
+   "type": 11,
+   "heading": "Artigo 4.º — Número único de identificação",
+   "in_force_from": "2023-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+   ],
+   "markdown": "###### Artigo 4.º — Número único de identificação\n\n1 - As entidades previstas no n.º 1 do artigo 2.º dispõem de um número único de identificação (EUID) que permite a sua identificação inequívoca nas comunicações efetuadas através do Sistema de Interconexão.\n\n2 - O EUID deve incluir, pelo menos, os elementos que permitam a identificação do Estado-Membro do registo, o registo nacional de origem e o número de identificação da entidade nesse registo nacional.\n\n3 - A atribuição do EUID é feita oficiosa e automaticamente com a inscrição no registo comercial.\n\n4 - A composição do EUID a que se refere o presente artigo é fixada por portaria do membro do Governo responsável pela área da justiça.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+  },
+  "225395778": {
+   "fragment_id": "118994778",
+   "type": 11,
+   "heading": "Artigo 5.º — Dados pessoais",
+   "in_force_from": "2023-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+   ],
+   "markdown": "###### Artigo 5.º — Dados pessoais\n\n1 - Ao tratamento, segurança e comunicação de dados pessoais no âmbito do Sistema de Interconexão, é aplicável o disposto no Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, que aprovou o Regulamento Geral de Proteção de Dados, bem como a legislação nacional sobre proteção de dados pessoais.\n\n2 - Para efeitos da disponibilização da informação e documentos constantes do registo comercial nacional, são recolhidos, relativamente aos requerentes dos respetivos pedidos, os seguintes dados pessoais:\n\na) Nome;\n\nb) Residência habitual ou domicílio profissional;\n\nc) Número de identificação fiscal;\n\nd) Endereço de correio eletrónico.\n\n3 - Os dados pessoais referidos no número anterior são disponibilizados no Portal pelos próprios requerentes dos pedidos de informação e documentos, em conformidade com o procedimento fixado para o efeito.\n\n4 - Os dados pessoais recolhidos nos termos dos n.os 2 e 3 apenas podem ser utilizados para os fins neles especificados.\n\n5 - Os dados pessoais dos sujeitos dos registos constantes do registo comercial nacional, recolhidos ao abrigo do disposto no Código do Registo Comercial, enquanto dados que integram o registo da situação jurídica das entidades previstas no artigo 2.º do presente decreto-lei, são comunicados, através do Sistema de Interconexão, nos termos previstos no presente decreto-lei.\n\n6 - Nos termos do número anterior, são comunicados os seguintes dados pessoais:\n\na) Nome;\n\nb) Estado civil e, quando solteiro, menção de maioridade ou menoridade;\n\nc) Nome do cônjuge e regime de bens;\n\nd) Residência habitual ou domicílio profissional;\n\ne) Número de identificação fiscal.\n\n7 - Para efeitos do intercâmbio de informação relativa a pessoas singulares que se encontrem inibidas para o exercício do comércio, para o exercício do cargo de gerente, de administrador ou de outro membro de órgão social sujeito a registo e para a administração de patrimónios alheios, constante da base de dados de inibições e destituições, podem ser comunicados os seguintes dados pessoais:\n\na) Nome;\n\nb) Número de identificação civil ou elemento equivalente quando se trate de pessoa singular estrangeira;\n\nc) Número de identificação fiscal ou elemento equivalente quando se trate de pessoa singular estrangeira;\n\nd) Nacionalidade;\n\ne) Data e local de nascimento.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+  },
+  "917251671": {
+   "fragment_id": "118994780",
+   "type": 11,
+   "heading": "Artigo 6.º — Sociedades comerciais e representações permanentes",
+   "in_force_from": "2024-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 6.º — Sociedades comerciais e representações permanentes\n\n1 - O registo comercial nacional notifica, através do Sistema de Interconexão, ao registo competente do Estado-Membro onde esteja registada representação permanente de sociedade portuguesa:\n\na) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou à denominação, à sede e à natureza jurídica da sociedade, bem como a designação e a cessação de funções dos membros dos órgãos sociais;\n\nb) Os factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência;\n\nc) O cancelamento do registo da sociedade.\n\n2 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na representação permanente.\n\n3 - O registo comercial nacional comunica, através do Sistema de Interconexão, ao registo competente do Estado Membro onde esteja registada a sociedade representada o registo de criação e o registo de encerramento da representação permanente.\n\n4 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na sociedade.\n\n5 - A troca de informação prevista no presente artigo e a realização dos respetivos atos de registo é gratuita.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "225395780": {
+   "fragment_id": "225391785",
+   "type": 11,
+   "heading": "Artigo 6.º-A — Inibições de pessoas singulares",
+   "in_force_from": "2023-12-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+   ],
+   "markdown": "###### Artigo 6.º-A — Inibições de pessoas singulares\n\nApós a receção de um pedido de informação feito pelo registo de outro Estado-Membro, o registo comercial nacional comunica, através do Sistema de Interconexão, se determinada pessoa singular se encontra inibida para o exercício do comércio, para o exercício do cargo de gerente, de administrador ou de outro membro de órgão social sujeito a registo e para a administração de patrimónios alheios, com base na informação constante da base de dados de inibições e destituições.\n\n> Aditado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06"
+  },
+  "917251672": {
+   "fragment_id": "118994781",
+   "type": 11,
+   "heading": "Artigo 7.º — Fusões, cisões e transformações transfronteiriças",
+   "in_force_from": "2024-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04"
+   ],
+   "markdown": "###### Artigo 7.º — Fusões, cisões e transformações transfronteiriças\n\n1 - O registo comercial nacional notifica, através do Sistema de Interconexão, o registo competente do Estado-Membro de cada uma das sociedades participantes na fusão, na cisão ou na transformação transfronteiriça, com sede na União Europeia:\n\na) Do registo do projeto de fusão, de cisão ou de transformação transfronteiriça, consoante os casos;\n\nb) Da emissão do certificado prévio de fusão, de cisão ou de transformação transfronteiriça, consoante os casos.\n\n2 - O registo comercial nacional notifica, através do Sistema de Interconexão, o registo competente do Estado-Membro do início da produção de efeitos de cada uma das sociedades, com sede na União Europeia, participantes na fusão, na cisão ou na transformação, respetivamente.\n\n3 - O registo comercial nacional, após a receção da notificação feita pelo registo competente do Estado-Membro, nos termos previstos no número anterior, procede oficiosamente ao registo da fusão, da cisão ou da transformação transfronteiriça na sociedade incorporada, cindida ou objeto da transformação, respetivamente, com sede em Portugal e, quando seja o caso, ao subsequente cancelamento oficioso da matrícula.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04"
+  },
+  "917251673": {
+   "fragment_id": "118994782",
+   "type": 11,
+   "heading": "Artigo 8.º — Acesso à informação constante do registo comercial",
+   "in_force_from": "2024-01-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04"
+   ],
+   "markdown": "###### Artigo 8.º — Acesso à informação constante do registo comercial\n\n1 - Qualquer interessado pode solicitar e obter por via eletrónica, através do Sistema de Interconexão, cópia dos seguintes atos de registo comercial e documentos arquivados no registo comercial nacional:\n\na) A designação e a cessação de funções dos membros dos órgãos de administração e de fiscalização das sociedades;\n\nb) Ato da constituição e documento constitutivo;\n\nc) Alterações ao contrato de sociedade, incluindo a prorrogação da sociedade, bem como a fusão, a cisão e a transformação transfronteiriças;\n\nd) Pacto social atualizado;\n\ne) Documentos relativos ao registo da prestação de contas;\n\nf) Mudança da sede social;\n\ng) Projeto de fusão, de cisão ou de transformação transfronteiriças;\n\nh) Aviso aos sócios, credores e representantes dos trabalhadores ou, em caso de inexistência de representantes, aos próprios trabalhadores, da possibilidade de apresentação de observações ao projeto de fusão, de cisão ou de transformação transfronteiriça, até cinco dias úteis antes da data da assembleia geral;\n\ni) Certificado prévio à fusão, à cisão ou à transformação transfronteiriças;\n\nj) Dissolução;\n\nk) Designação de liquidatários;\n\nl) Sentença de declaração de insolvência ou despacho judicial de prosseguimento da liquidação;\n\nm) Decisão judicial que declare a nulidade do contrato da sociedade;\n\nn) O encerramento da liquidação, bem como o cancelamento da matrícula da entidade.\n\n2 - Os atos de registo comercial e documentos constantes do número anterior respeitam às entidades mencionadas no artigo 2.º\n\n3 - Os atos de registo elencados no n.º 1 podem ser disponibilizados através da cópia da ficha da entidade com todos os registos de acesso público, nos termos do Código do Registo Comercial.\n\n4 - As cópias a que se referem os números anteriores não são certificadas e têm valor de mera informação.\n\n5 - Com exceção dos documentos previstos nas alíneas g) e h) do n.º 1, pela disponibilização ao público da informação prevista no presente artigo são devidos os emolumentos fixados no Regulamento Emolumentar dos Registos e Notariado, aprovado pelo Decreto-Lei n.º 322-A/2001, de 14 de dezembro, na sua redação atual.\n\n6 - O certificado prévio à fusão, à cisão ou à transformação transfronteiriças, previsto na alínea i) do n.º 1, é também disponibilizado de forma gratuita às autoridades competentes para a fiscalização da legalidade da fusão, da cisão ou da transformação transfronteiriça, respetivamente, através do Sistema de Interconexão.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04"
+  },
+  "225395783": {
+   "fragment_id": "118994783",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamento\n\nO pagamento da informação disponibilizada nos termos do artigo anterior é efetuado de forma centralizada, através do Portal."
+  },
+  "225395784": {
+   "fragment_id": "118994784",
+   "type": 11,
+   "heading": "Artigo 10.º — Informação disponibilizada de forma gratuita",
+   "in_force_from": "2023-12-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 10.º — Informação disponibilizada de forma gratuita\n\nAtravés do Sistema de Interconexão é disponibilizada, sem encargos, sobre as entidades previstas no n.º 1 do artigo 2.º, a seguinte informação:\n\na) Firma e natureza jurídica;\n\nb) Sede e país do registo;\n\nc) Número de identificação de pessoa coletiva e o seu identificador único europeu (EUID);\n\nd) Informação sobre o estado da sociedade, nomeadamente quando se encontre encerrada, em situação de liquidação ou de dissolução, caso exista;\n\ne) Objeto da sociedade;\n\nf) Os representantes legais e informação sobre quem pode agir em nome da sociedade;\n\ng) Informação sobre qualquer representação permanente aberta pela sociedade noutro Estado-Membro, incluindo a denominação, o número de registo, o EUID e o Estado-Membro onde está registada.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 114-C/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-c-2023-225283592), em vigor a partir de 2023-12-06\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  },
+  "225395785": {
+   "fragment_id": "118994785",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência\n\nSão competentes para a satisfação dos pedidos e para a prática dos atos a efetuar na sequência das comunicações recebidas através do Sistema de Interconexão os serviços de registo a determinar por deliberação do conselho diretivo do Instituto dos Registos e do Notariado, I. P. (IRN, I. P.)."
+  },
+  "917303914": {
+   "fragment_id": "118994780",
+   "type": 11,
+   "heading": "Artigo 6.º — Sociedades comerciais e representações permanentes",
+   "in_force_from": "2024-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+   ],
+   "markdown": "###### Artigo 6.º — Sociedades comerciais e representações permanentes\n\n1 - O registo comercial nacional notifica, através do Sistema de Interconexão, ao registo competente do Estado-Membro onde esteja registada representação permanente de sociedade portuguesa:\n\na) As alterações ao contrato de sociedade registadas, designadamente, as relativas à firma ou à denominação, à sede e à natureza jurídica da sociedade, bem como a designação e a cessação de funções dos membros dos órgãos sociais;\n\nb) Os factos que determinem a abertura e o encerramento de quaisquer processos de liquidação ou insolvência;\n\nc) O cancelamento do registo da sociedade.\n\n2 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na representação permanente.\n\n3 - O registo comercial nacional comunica, através do Sistema de Interconexão, ao registo competente do Estado-Membro onde esteja registada a sociedade representada os registos de criação, alteração e de encerramento da representação permanente.\n\n4 - O registo comercial nacional, quando notificado nos termos do número anterior, procede ao registo oficioso dos factos na sociedade.\n\n5 - A troca de informação prevista no presente artigo e a realização dos respetivos atos de registo é gratuita.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 28/2024 - Diário da República n.º 66/2024, Série I de 2024-04-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2024-858631717), em vigor a partir de 2024-04-04, produz efeitos a partir de 2024-03-31\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 114-D/2023 - Diário da República n.º 234/2023, 3º Suplemento, Série I de 2023-12-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-d-2023-225283593), em vigor a partir de 2024-01-04\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 109-D/2021 - Diário da República n.º 237/2021, 1º Suplemento, Série I de 2021-12-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/109-d-2021-175659839), em vigor a partir de 2021-12-10"
+  }
+ }
+}

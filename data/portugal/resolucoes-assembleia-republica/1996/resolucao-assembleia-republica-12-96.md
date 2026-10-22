@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:534456:por
+title: Resolução da Assembleia da República n.º 12/96
+short_title: null
+summary: Inquérito parlamentar sobre a gestão das despesas do Fundo Europeu de Orientação e Garantia Agrícola em Portugal
+  entre 1988 e 1993
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 12/96
+official_date: null
+publication_date: '1996-03-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/1996, Série I-A de 1996-03-14
+  number: '63'
+  series: I
+  supplement: null
+  pages: 508 - 508
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/03/063a00/05080508.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/12/1996/03/14/p/dre/pt/html
+  oj: null
+  dre: '534456'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/12-1996-534456
+  internal: pt:dre:534456:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-1996-534456
+  metadata_url: https://data.dre.pt/eli/resolassrep/12/1996/03/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-1996-534456
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-03-14T00:00:00Z'
+integrity:
+  source_sha256: a99154789135ab896dd62662354378c0e2567d406a93a78ea88aa99b691f97b9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-12-534456.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Feoga
+- Gestão Orçamental
+- Governo XI
+- Governo XII
+- Inquérito Parlamentar
+- Tribunal de Contas CE
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5/1993/03/01/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 12/96
+
+Inquérito parlamentar sobre a gestão das despesas do Fundo Europeu de Orientação e Garantia Agrícola em Portugal entre 1988 e 1993.
+
+A Assembleia da República resolve, nos termos dos artigos 169.º, n.º 5, e 181.º, n.os 1 e 5, da Constituição e dos artigos 1.º e 2.º, n.º 1, alínea a), da [Lei n.º 5/93](https://diariodarepublica.pt/dr/detalhe/lei/5-1993-626806), de 1 de Março, proceder a um inquérito parlamentar sobre as circunstâncias e responsabilidades nas irregularidades detectadas no relatório do Tribunal de Contas Europeu, publicado em 22 de Dezembro de 1995, sobre a gestão das despesas do FEOGA, Secção Orientação, em Portugal entre 1988 e 1993.
+
+Aprovada em 16 de Fevereiro de 1996.
+
+**O Presidente da Assembleia da República, António de Almeida Santos.**

@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:405714:por
+title: Portaria n.º 37/2000
+short_title: null
+summary: Extingue a concessão do regime cinegético especial atribuída, pela Portaria n.º 882/95, de 14 de Julho, à TURIPERDIZ
+  - Turismo, Pesca, Caça e Turismo de Habitação, Lda.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 37/2000
+official_date: null
+publication_date: '2000-01-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 23/2000, Série I-B de 2000-01-28
+  number: '23'
+  series: I
+  supplement: null
+  pages: 392 - 392
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/01/023b00/03920392.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/37/2000/01/28/p/dre/pt/html
+  oj: null
+  dre: '405714'
+  dre_path: /dr/detalhe/portaria/37-2000-405714
+  internal: pt:dre:405714:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-2000-405714
+  metadata_url: https://data.dre.pt/eli/port/37/2000/01/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/37-2000-405714
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-01-28T00:00:00Z'
+integrity:
+  source_sha256: 224a45f54f1d20927628e3f7fbc6b78a836f263cf934034fb08636c32825bfdb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-37-405714.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- Montalegre
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/251/1992/11/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/882/1995/07/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/882/1995/07/14/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 37/2000
+
+de 28 de Janeiro
+
+Com fundamento no disposto no artigo 20.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e no [Decreto-Lei n.º 251/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1992-584874), de 12 de Novembro, foi, pela [Portaria n.º 882/95](https://diariodarepublica.pt/dr/detalhe/portaria/882-1995-460255), de 14 de Julho, concessionada uma zona de caça turística à TURIPERDIZ - Turismo, Pesca, Caça e Turismo de Habitação, Lda., abrangendo vários prédios rústicos sitos nas freguesias de Fiães do Rio, Paradela do Rio e Contim, município de Montalegre, com uma área de 1990 ha, válida até 14 de Julho de 2003.
+
+Considerando que a entidade concessionária não cumpriu o plano de aproveitamento turístico aprovado, porquanto não procedeu à implementação do alojamento previsto no mesmo e, consequentemente, não diligenciou a sua legalização nem tão-pouco instalou o pavilhão de caça dentro do prazo fixado, violando o disposto na alínea b) do artigo 73.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto;
+
+Considerando que a entidade concessionária não cumpriu o plano de ordenamento e exploração cinegético aprovado, porquanto não procedeu à instalação de culturas para a caça, em violação também do disposto na alínea b) do citado artigo 73.º;
+
+Considerando que a entidade concessionária deixou de assegurar, desde 1997, a fiscalização da zona de caça turística do rio Cávado por um guarda florestal auxiliar, a que estava obrigada nos termos do n.º 6.º da [Portaria n.º 882/95](https://diariodarepublica.pt/dr/detalhe/portaria/882-1995-460255), de 14 de Julho;
+
+Com fundamento no disposto na alínea b) do n.º 1 do artigo 86.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto:
+
+Manda o Governo, pelos Ministros da Economia e da Agricultura, do Desenvolvimento Rural e das Pescas, que seja extinta a concessão do regime cinegético especial atribuída, pela [Portaria n.º 882/95](https://diariodarepublica.pt/dr/detalhe/portaria/882-1995-460255), de 14 de Julho, à TURIPERDIZ - Turismo, Pesca, Caça e Turismo de Habitação, Lda. (processo n.º 1834-DGF).
+
+Em 13 de Dezembro de 1999.
+
+Pelo Ministro da Economia, Vítor José Cabrita Neto, Secretário de Estado do Turismo. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural.

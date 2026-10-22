@@ -1,0 +1,101 @@
+---
+schema_version: '1.0'
+id: pt:dre:286526:por
+title: Despacho Normativo n.º 16/88
+short_title: null
+summary: Fixa em 160000$00, ilíquidos, o valor padrão mensal para o cargo de director-geral
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças
+proposing_entity: null
+official_number: 16/88
+official_date: null
+publication_date: '1988-04-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 80/1988, Série I de 1988-04-06
+  number: '80'
+  series: I
+  supplement: null
+  pages: 1360 - 1360
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08000/13601360.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '286526'
+  dre_path: /dr/detalhe/despacho-normativo/16-1988-286526
+  internal: pt:dre:286526:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-1988-286526
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-1988-286526
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-07-26T00:00:00Z'
+integrity:
+  source_sha256: 10f9a39df259f30bdbf86275507b91a3df9171194fc8ac6a57675fd37e5da6da
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-16-286526.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:573100:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 16/88
+
+Adequar a Administração Pública à evolução da sociedade portuguesa e às exigências de modernização é tarefa em que o Governo se vem empenhando fortemente, reconhecendo ser necessário desenvolver novas formas de gestão administrativa, de modo a permitir a máxima rentabilização dos meios humanos disponíveis e potenciar o espírito de equipa e criatividade.
+
+Na condução e gestão dos serviços públicos para caminhos e resultados de sucesso assume particular relevo a função dirigente, pelo que o Governo entende necessário promover condições que não só propiciem um reforço do prestígio sócio-profissional dos dirigentes da Administração Pública, como ainda permitam atrair e motivar os profissionais mais qualificados para um exercício responsável, competente e inovador.
+
+As responsabilidades que estão cometidas aos dirigentes da função pública exigem que a sua selecção deva fundamentar-se em critérios rigorosos de competência, capacidade e idoneidade, o que não é compatível com uma situação remuneratória como a que tem vindo a vigorar, muito inferior à verificada em outros sectores da sociedade portuguesa.
+
+É neste contexto, e na sequência do [Decreto-Lei n.º 383-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-a-1987-305451), de 23 de Dezembro, que o Governo entende ser necessário fixar novos valores da remuneração do pessoal dirigente abrangido por aquele diploma. O valor fixado corresponde a um aumento médio mensal líquido, em relação a 1987, de 25500$00 para o cargo de director-geral.
+
+Assim:
+
+Nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 383-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-a-1987-305451), de 23 de Dezembro, é fixado em 160000$00, ilíquidos, o valor padrão mensal para o cargo de director-geral, a vigorar desde 1 de Janeiro de 1988.
+
+Presidência do Conselho de Ministros e Ministério das Finanças, 29 de Março de 1988. - O Primeiro-Ministro, Aníbal António Cavaco Silva. - O Ministro das Finanças, Miguel José Ribeiro Cadilhe.

@@ -1,0 +1,292 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534594:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-73201393",
+ "dre_path": "/dr/detalhe/lei/22-1999-534594",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-04-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "73301580",
+    "73301581",
+    "73301582",
+    "73301583",
+    "73301584",
+    "73301585",
+    "73301586",
+    "73301587",
+    "73301588",
+    "73301589",
+    "73301590",
+    "73301591",
+    "73301592",
+    "73301593"
+   ]
+  },
+  {
+   "date": "2014-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25343988:por",
+     "title": "Lei n.º 18/2014",
+     "published": "2014-04-10",
+     "dre_path": "/dr/detalhe/lei/18-2014-25343988"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "73301580",
+    "73301581",
+    "73301582",
+    "73301583",
+    "73301584",
+    "73301585",
+    "73301586",
+    "73301587",
+    "73301588",
+    "73301589",
+    "73301590",
+    "73618880",
+    "73301592",
+    "73588173",
+    "73301593"
+   ]
+  },
+  {
+   "date": "2021-06-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164590039:por",
+     "title": "Lei Orgânica n.º 1/2021",
+     "published": "2021-06-04",
+     "dre_path": "/dr/detalhe/lei-organica/1-2021-164590039"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "73301580",
+    "73301581",
+    "73301582",
+    "164640813",
+    "164640814",
+    "164640815",
+    "164640816",
+    "164640817",
+    "73301588",
+    "164640818",
+    "73301590",
+    "73618880",
+    "73301592",
+    "73588173",
+    "73301593"
+   ]
+  }
+ ],
+ "fragments": {
+  "73301580": {
+   "fragment_id": "73201394",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 22/99\n\nde 21 de Abril\n\nRegula a criação de bolsas de agentes eleitorais e a compensação dos membros das mesas das assembleias ou secções de voto em actos eleitorais e referendários.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "73301581": {
+   "fragment_id": "73201395",
+   "type": 1,
+   "heading": "Capítulo I — Da constituição de bolsas de agentes eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da constituição de bolsas de agentes eleitorais"
+  },
+  "73301582": {
+   "fragment_id": "73201396",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente lei regula a criação de bolsas de agentes eleitorais, com vista a assegurar o bom funcionamento das mesas das assembleias ou secções de voto nos actos eleitorais ou referendários, bem como o recrutamento, designação e compensação dos seus membros."
+  },
+  "73301583": {
+   "fragment_id": "73201397",
+   "type": 11,
+   "heading": "Artigo 2.º — Designação dos membros das mesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Designação dos membros das mesas\n\n1 - A designação dos membros das mesas das assembleias ou secções de voto faz-se nos termos previstos na legislação que enquadra os respectivos actos eleitorais.\n\n2 - Nas secções de voto em que o número de cidadãos seleccionados nos termos gerais com vista a integrar as respectivas mesas seja insuficiente, os membros das mesas serão nomeados de entre os cidadãos inscritos na bolsa de agentes eleitorais da respectiva freguesia."
+  },
+  "73301584": {
+   "fragment_id": "73201398",
+   "type": 11,
+   "heading": "Artigo 3.º — Agentes eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Agentes eleitorais\n\n1 - Em cada freguesia é constituída uma bolsa integrada por cidadãos aderentes ao programa «Agentes eleitorais» e que se encontrem inscritos no recenseamento eleitoral da sua circunscrição.\n\n2 - Os agentes eleitorais exercem funções de membros das mesas das assembleias ou secções de voto nos actos eleitorais ou referendários."
+  },
+  "73301585": {
+   "fragment_id": "73201399",
+   "type": 11,
+   "heading": "Artigo 4.º — Recrutamento pelas câmaras municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recrutamento pelas câmaras municipais\n\n1 - As câmaras municipais, com a colaboração das juntas de freguesia, promovem a constituição das bolsas através do recrutamento dos agentes eleitorais, cujo anúncio será publicitado por edital, afixado à porta da câmara municipal e das juntas de freguesia, e por outros meios considerados adequados.\n\n2 - O número de agentes eleitorais a recrutar por freguesia dependerá, cumulativamente:\n\na) Do número de mesas a funcionar em cada uma das freguesias que integram o respectivo município;\n\nb) Do número de membros necessários para cada mesa, acrescido do dobro.\n\n3 - Os candidatos à bolsa devem inscrever-se, mediante o preenchimento do boletim de inscrição anexo à presente lei, junto da câmara municipal ou da junta de freguesia da sua circunscrição até ao 15.º dia posterior à publicitação do edital referido no n.º 1 do presente artigo."
+  },
+  "73301586": {
+   "fragment_id": "73201400",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Processo de selecção\n\n1 - Cada câmara municipal constituirá uma comissão não permanente, integrada pelo seu presidente, pelo presidente da junta de freguesia respectiva e por um representante de cada um dos grupos políticos com assento na assembleia municipal, que ordenará os candidatos de acordo com os critérios fixados no presente artigo.\n\n2 - Os candidatos são ordenados em função do nível de habilitações literárias detidas.\n\n3 - Em caso de igualdade de classificação preferirá o candidato mais jovem.\n\n4 - A comissão procederá à elaboração da acta da lista de classificação final, que será publicitada em edital à porta da câmara municipal e das juntas de freguesia e noutros locais que se julguem convenientes.\n\n5 - A acta da lista de classificação final mencionará, obrigatoriamente, a aplicação a cada candidato dos critérios de selecção referidos no presente artigo."
+  },
+  "73301587": {
+   "fragment_id": "73201401",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação cívica em processo eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação cívica em processo eleitoral\n\nO Secretariado Técnico dos Assuntos para o Processo Eleitoral ministrará aos agentes eleitorais, após a integração na bolsa, formação em matéria de processo eleitoral, nomeadamente no âmbito das funções a desempenhar pelas mesas das assembleias eleitorais."
+  },
+  "73301588": {
+   "fragment_id": "73201402",
+   "type": 11,
+   "heading": "Artigo 7.º — Processo de designação dos agentes eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Processo de designação dos agentes eleitorais\n\n1 - Os agentes eleitorais designados para acto eleitoral ou referendário são notificados, pelo presidente da câmara municipal, até 12 dias antes da realização do sufrágio, com a identificação da mesa a integrar.\n\n2 - Da composição das mesas é elaborada lista, que é publicada, em edital, à porta da câmara municipal e das juntas de freguesia."
+  },
+  "73301589": {
+   "fragment_id": "73201403",
+   "type": 11,
+   "heading": "Artigo 8.º — Substituições em dia de eleição ou referendo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Substituições em dia de eleição ou referendo\n\n1 - Se não tiver sido possível constituir a mesa sessenta minutos após a hora marcada para a abertura da assembleia ou secção de voto por não estarem presentes os membros indispensáveis ao seu funcionamento, o presidente da junta de freguesia designa os substitutos dos membros ausentes de entre os agentes eleitorais da correspondente bolsa.\n\n2 - Se, apesar de constituída a mesa, se verificar a falta de um dos seus membros, o presidente substitui-o por qualquer eleitor pertencente à bolsa de agentes eleitorais.\n\n3 - Se não for possível designar agentes eleitorais, o presidente da junta de freguesia nomeará o substituto do membro ou membros ausentes de entre quaisquer eleitores dessa freguesia, mediante acordo da maioria dos restantes membros da mesa e dos representantes dos partidos, das candidaturas e, no caso do referendo, dos partidos e dos grupos de cidadãos que estiverem presentes.\n\n4 - Substituídos os faltosos, ficam sem efeito as anteriores nomeações, e os seus nomes são comunicados pelo presidente da mesa ao presidente da câmara municipal."
+  },
+  "73301590": {
+   "fragment_id": "73201404",
+   "type": 1,
+   "heading": "Capítulo II — Da compensação dos membros das mesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da compensação dos membros das mesas"
+  },
+  "73301591": {
+   "fragment_id": "73201405",
+   "type": 11,
+   "heading": "Artigo 9.º — Compensação dos membros das mesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Compensação dos membros das mesas\n\n1 - Aos membros das mesas é atribuída uma gratificação cujo montante é igual ao valor das senhas de presença auferidas pelos membros das assembleias municipais dos municípios com 40000 ou mais eleitores, nos termos da Lei n.º 29/87, de 30 de Junho.\n\n2 - A gratificação referida no número anterior fica isenta de tributação.\n\n> Nota: [Artigo 3.º, Lei n.º 18/2014 - Diário da República n.º 71/2014, Série I de 2014-04-10](https://diariodarepublica.pt/dr/detalhe/lei/18-2014-25343988) A primeira atualização do montante atribuído aos membros das mesas, nos termos do presente artigol, é realizada em 2015."
+  },
+  "73301592": {
+   "fragment_id": "73201406",
+   "type": 11,
+   "heading": "Artigo 10.º — Pagamento de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Pagamento de despesas\n\nAs despesas com a compensação dos membros das mesas são suportadas por verba inscrita no orçamento do Ministério da Administração Interna, que efectuará as necessárias transferências para os municípios."
+  },
+  "73301593": {
+   "fragment_id": "73201407",
+   "type": 14,
+   "heading": "Anexo — Boletim de inscrição para candidatos à bolsa de agentes eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Boletim de inscrição para candidatos à bolsa de agentes eleitorais\n\n1 - ... (nome completo do cidadão).\n\n2 - ... (idade).\n\n3 - Residência:\n\nFreguesia: ...\n\nConcelho: ...\n\nRua/lugar: ...\n\nNúmero: ...\n\nAndar: ...\n\nCódigo postal: ...\n\n4 - Bilhete de identidade:\n\nNúmero: ...\n\nArquivo de identificação: ...\n\nData de nascimento: ...\n\n5 - Cartão de eleitor:\n\nNúmero de inscrição: ...\n\nUnidade geográfica de recenseamento: ...\n\n6 - Habilitações literárias: ...\n\n... (assinatura do cidadão).\n\nConfirmação das declarações pela câmara municipal ou junta de freguesia:\n\nConfirmo os elementos constantes dos n.os 1, 2, 4, 5 e 6.\n\n... (assinatura).\n\n... (data).\n\nÉ obrigatória a apresentação do bilhete de identidade e do cartão de eleitor."
+  },
+  "73618880": {
+   "fragment_id": "73201405",
+   "type": 11,
+   "heading": "Artigo 9.º — Compensação dos membros das mesas",
+   "in_force_from": "2014-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2014 - Diário da República n.º 71/2014, Série I de 2014-04-10](https://diariodarepublica.pt/dr/detalhe/lei/18-2014-25343988), em vigor a partir de 2014-05-01"
+   ],
+   "markdown": "###### Artigo 9.º — Compensação dos membros das mesas\n\n1 - Aos membros das mesas é atribuída uma gratificação no montante de (euro) 50, atualizada com base na taxa de inflação, calculada a partir do índice de preços no consumidor, sem habitação, divulgada pelo Instituto Nacional de Estatística, I. P., relativa ao ano civil anterior, produzindo efeitos no primeiro dia do mês seguinte ao da referida divulgação.\n\n2 - A gratificação referida no número anterior fica isenta de tributação.\n\n> Nota: [Artigo 3.º, Lei n.º 18/2014 - Diário da República n.º 71/2014, Série I de 2014-04-10](https://diariodarepublica.pt/dr/detalhe/lei/18-2014-25343988) A primeira atualização do montante atribuído aos membros das mesas, nos termos do presente artigol, é realizada em 2015.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2014 - Diário da República n.º 71/2014, Série I de 2014-04-10](https://diariodarepublica.pt/dr/detalhe/lei/18-2014-25343988), em vigor a partir de 2014-05-01"
+  },
+  "73588173": {
+   "fragment_id": "73609894",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 25 de Fevereiro de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 30 de Março de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 9 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "164640813": {
+   "fragment_id": "73201397",
+   "type": 11,
+   "heading": "Artigo 2.º — Designação dos membros das mesas",
+   "in_force_from": "2021-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+   ],
+   "markdown": "###### Artigo 2.º — Designação dos membros das mesas\n\n1 - A designação dos membros das mesas das assembleias ou secções de voto faz-se nos termos previstos na legislação que enquadra os respectivos actos eleitorais.\n\n2 - Nas secções de voto em que o número de cidadãos selecionados nos termos gerais com vista a integrar as respetivas mesas seja insuficiente, os membros das mesas são nomeados de entre os cidadãos inscritos no respetivo concelho, podendo ser ainda nomeados os eleitores que constam na bolsa de agentes eleitorais do respetivo concelho.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+  },
+  "164640814": {
+   "fragment_id": "73201398",
+   "type": 11,
+   "heading": "Artigo 3.º — Agentes eleitorais",
+   "in_force_from": "2021-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+   ],
+   "markdown": "###### Artigo 3.º — Agentes eleitorais\n\n1 - Em cada concelho é constituída uma bolsa integrada por cidadãos aderentes ao programa 'Agentes eleitorais' e que se encontrem inscritos no recenseamento eleitoral da sua circunscrição.\n\n2 - Os agentes eleitorais exercem funções de membros das mesas das assembleias ou secções de voto nos atos eleitorais ou referendários, preferencialmente na assembleia de voto em que se encontrem recenseados, podendo supletivamente exercer funções nas mesas das assembleias ou secções de voto de outras freguesias do concelho.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+  },
+  "164640815": {
+   "fragment_id": "73201399",
+   "type": 11,
+   "heading": "Artigo 4.º — Recrutamento pelas autarquias",
+   "in_force_from": "2021-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+   ],
+   "markdown": "###### Artigo 4.º — Recrutamento pelas autarquias\n\n1 - As câmaras municipais e as juntas de freguesia, com a colaboração da Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna, que disponibiliza plataforma eletrónica para o efeito, promovem a constituição de bolsas através do recrutamento de agentes eleitorais, por anúncio a publicitar por edital, afixado à porta da câmara municipal e das juntas de freguesia, ou através da referida plataforma eletrónica e por outros meios considerados adequados.\n\n2 - O número de agentes eleitorais a recrutar por concelho deve corresponder ao triplo do número de mesas a funcionar em cada uma das freguesias, multiplicado pelo número de membros necessários para cada mesa.\n\n3 - Os candidatos à bolsa devem inscrever-se, mediante o preenchimento do boletim de inscrição anexo à presente lei, junto da câmara municipal ou da junta de freguesia da sua circunscrição até ao 15.º dia posterior à publicitação do edital referido no n.º 1 ou, em qualquer momento, na plataforma eletrónica disponibilizada pela Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+  },
+  "164640816": {
+   "fragment_id": "73201400",
+   "type": 11,
+   "heading": "Artigo 5.º — Processo de selecção",
+   "in_force_from": "2021-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+   ],
+   "markdown": "###### Artigo 5.º — Processo de selecção\n\n1 - Cada câmara municipal constituirá uma comissão não permanente, integrada pelo seu presidente, pelo presidente da junta de freguesia respectiva e por um representante de cada um dos grupos políticos com assento na assembleia municipal, que ordenará os candidatos de acordo com os critérios fixados no presente artigo.\n\n2 - Os candidatos são ordenados em função do nível de habilitações literárias detidas.\n\n3 - Em caso de igualdade de classificação preferirá o candidato mais jovem.\n\n4 - A comissão procederá à elaboração da acta da lista de classificação final, que será publicitada em edital à porta da câmara municipal e das juntas de freguesia e noutros locais que se julguem convenientes.\n\n5 - A acta da lista de classificação final mencionará, obrigatoriamente, a aplicação a cada candidato dos critérios de selecção referidos no presente artigo.\n\n6 - A classificação final é registada individualmente pela respetiva câmara municipal na plataforma eletrónica disponibilizada pela Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna, e comunicada a cada candidato por meios eletrónicos.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+  },
+  "164640817": {
+   "fragment_id": "73201401",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação cívica em processo eleitoral",
+   "in_force_from": "2021-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+   ],
+   "markdown": "###### Artigo 6.º — Formação cívica em processo eleitoral\n\nA Administração Eleitoral da Secretaria-Geral do Ministério da Administração Interna ministra aos agentes eleitorais, após a integração na bolsa, formação em matéria de processo eleitoral, nomeadamente no âmbito das funções a desempenhar pelas mesas das assembleias eleitorais.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+  },
+  "164640818": {
+   "fragment_id": "73201403",
+   "type": 11,
+   "heading": "Artigo 8.º — Substituições em dia de eleição ou referendo",
+   "in_force_from": "2021-06-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+   ],
+   "markdown": "###### Artigo 8.º — Substituições em dia de eleição ou referendo\n\n1 - Se não tiver sido possível constituir a mesa sessenta minutos após a hora marcada para a abertura da assembleia ou secção de voto por não estarem presentes os membros indispensáveis ao seu funcionamento, o presidente da junta de freguesia designa os substitutos dos membros ausentes de entre os agentes eleitorais da correspondente bolsa.\n\n2 - Se, apesar de constituída a mesa, se verificar a falta de um dos seus membros, o presidente substitui-o por qualquer eleitor pertencente à bolsa de agentes eleitorais.\n\n3 - Se não for possível designar agentes eleitorais, o presidente da junta de freguesia nomeia o substituto do membro ou membros ausentes de entre quaisquer eleitores dessa freguesia ou do concelho, mediante acordo da maioria dos restantes membros da mesa e dos representantes dos partidos, das candidaturas e, no caso do referendo, dos partidos e dos grupos de cidadãos que estiverem presentes.\n\n4 - Substituídos os faltosos, ficam sem efeito as anteriores nomeações, e os seus nomes são comunicados pelo presidente da mesa ao presidente da câmara municipal.\n\n> Alterado pelo/a Artigo 8.º do/a [Lei Orgânica n.º 1/2021 - Diário da República n.º 108/2021, Série I de 2021-06-04](https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2021-164590039), em vigor a partir de 2021-06-05"
+  }
+ }
+}

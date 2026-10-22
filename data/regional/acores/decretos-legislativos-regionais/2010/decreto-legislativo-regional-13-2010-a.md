@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:612381:por
+title: Decreto Legislativo Regional n.º 13/2010/A
+short_title: null
+summary: Suspende parcialmente o Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA), aprovado pelo Decreto
+  Legislativo Regional n.º 38/2008/A, de 11 de Agosto
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 13/2010/A
+official_date: null
+publication_date: '2010-04-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 67/2010, Série I de 2010-04-07
+  number: '67'
+  series: I
+  supplement: null
+  pages: 1130 - 1131
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/04/06700/0113001131.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-07-29'
+version_history:
+  file: decreto-legislativo-regional-13-2010-a.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-04-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-07-29'
+    amending: pt:dre:123436960:por
+    amending_title: Decreto Legislativo Regional n.º 17/2019/A
+    changes:
+    - Altera Artigo 5.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/13/2010/a/cons/20190724/pt/html
+  oj: null
+  dre: '612381'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/13-2010-612381
+  internal: pt:dre:612381:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2010-612381
+  metadata_url: https://data.dre.pt/eli/declegreg/13/2010/a/cons/20190724/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-123453795
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-123453795
+  retrieved_at: '2026-10-22T12:27:27Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ae7564b78a14fd9b78d73df408fad1593a503a963e17fbe15917b988c0f02988
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:27:27Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-13-2010-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Turismo
+- ILHA de são Miguel
+- Ordenamento do Território
+- Região de Turismo
+- Medidas Preventivas
+- Açores
+- Infraestrutura Turística
+relationships:
+- type: amended_by
+  target: pt:dre:123436960:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2019-123436960
+  date: '2019-07-24'
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/38/2008/08/11/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/38/2008/08/11/a/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:27:27Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 13/2010/A
+
+Decreto Legislativo Regional n.º 13/2010/A
+
+Suspensão parcial do Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA), aprovado pelo Decreto Legislativo Regional n.º 38/2008/A, de 11 de Agosto
+
+O artigo 6.º das normas de execução do Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA), aprovado pelo Decreto Legislativo Regional n.º 38/2008/A, de 11 de Agosto, estabelece, para cada ilha do arquipélago, um limite máximo para o crescimento da oferta de alojamento turístico, cujo horizonte temporal é o ano de 2015.
+
+Em consequência dessa norma, todas as pessoas colectivas públicas legalmente intervenientes no processo de licenciamento ficaram obrigadas a enquadrar o crescimento da oferta de alojamento, dentro da sua área de jurisdição, com base nos instrumentos regulatórios existentes ou a criar, tendo em vista o objectivo enunciado e até à revisão do POTRAA.
+
+No momento presente, contudo, a aplicação do mencionado artigo 6.º implica, para as entidades públicas envolvidas, a missão de, a contra-ciclo económico, «congelar» projectos de investimento turístico, em especial nas ilhas de São Miguel e do Pico.
+
+Não era, nem é, esse o resultado que estava na mente do legislador, quando aprovou o POTRAA.
+
+É, assim, imprescindível o recurso a um procedimento célere que busque soluções efectivas, acompanhando-a de um conjunto de medidas cautelares que garantam o devido enquadramento nas orientações globais daquele Plano.
+
+Por outro lado, embora a outro nível de intervenção legislativa, o Governo encontra-se já a trabalhar para criar mecanismos que obstem à cativação temporalmente indefinida, por privados, de qualquer número de camas previstas no POTRAA.
+
+Em conclusão, os factos e dados acima expostos justificam o recurso à suspensão parcial do POTRAA, mais precisamente do artigo 6.º das suas normas de execução.
+
+Com esta proposta fica, igualmente, garantido o objectivo de disponibilizar a bolsa global de 1551 camas prevista para fazer face à dinâmica extraordinária de crescimento da oferta verificada na ilha do Pico, e que também já se indicia em outras ilhas, como é o caso das ilhas de São Jorge e de Santa Maria, propondo-se que, por resolução do Conselho do Governo, possam ser aumentadas as bolsas de camas de ilhas onde se verifique uma dinâmica de crescimento da oferta, com vista ao ajustamento das capacidades máximas, com contrapartida na redução das bolsas de ilhas em que a dinâmica é manifestamente inferior.
+
+Nos termos da lei, foram ouvidos as Direcções Regionais de Organização e Administração Pública e do Ordenamento do Território e Recursos Hídricos, bem como todos os municípios da Região e os conselhos de ilha.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma tem por objecto a suspensão parcial do Plano de Ordenamento Turístico da Região Autónoma dos Açores (POTRAA), aprovado pelo Decreto Legislativo Regional n.º 38/2008/A, de 11 de Agosto.
+
+###### Artigo 2.º — Âmbito espacial e normativo da suspensão
+
+É suspensa a vigência:
+
+a) Do n.º 1 do artigo 6.º das normas de execução do POTRAA relativamente à ilha de São Miguel;
+
+b) Dos n.os 3 e 4 do mesmo preceito, para todo o território da Região Autónoma dos Açores.
+
+###### Artigo 3.º — Prazo
+
+A suspensão parcial do POTRAA vigora até à alteração deste plano sectorial.
+
+###### Artigo 4.º — Gestão das bolsas de camas
+
+Por resolução do Conselho do Governo, adoptada ao abrigo do n.º 2 do artigo 6.º das normas de execução do POTRAA, podem ser alterados os limites da bolsa de camas afecta a cada uma das ilhas onde se verifique uma dinâmica de crescimento da oferta com vista ao ajustamento das capacidades máximas previstas no n.º 1 do mesmo preceito.
+
+###### Artigo 5.º — Medidas cautelares para a ilha de São Miguel
+
+1 - Durante a suspensão parcial do POTRAA, vigoram na ilha de São Miguel as medidas cautelares estabelecidas nos números seguintes.
+
+2 - A autorização ou recusa para a realização de operações urbanísticas relativas a empreendimentos turísticos na ilha de São Miguel, durante o período de suspensão do POTRAA, é deliberada em Conselho do Governo Regional, tomando a forma de resolução.
+
+3 - A admissibilidade do pedido para a autorização mencionada no número anterior depende da comprovação, pelo promotor do projeto, de que este tem enquadramento numa das alíneas seguintes:
+
+a) Projectos com clara vocação para o turismo de lazer, que incorporem áreas específicas para o efeito;
+
+b) Projectos que potenciem o contacto com a natureza;
+
+c) Projectos com forte componente de animação turística, em termos a definir por portaria do membro do Governo Regional competente em matéria de turismo;
+
+d) Projectos temáticos que, nomeadamente, desenvolvam aspectos específicos da cultura ou da agricultura açoriana;
+
+e) Empreendimentos integrados, nos termos da alínea b) do artigo 5.º das normas de execução do POTRAA, nomeadamente os que devam ser implantados em espaços de uso especial - áreas turísticas previstas em plano municipal de ordenamento do território eficaz;
+
+f) Empreendimento associado a equipamentos ou infra-estruturas de interesse regional e de utilização colectiva ou pública, nomeadamente campos de golfe, portos de recreio ou complexos desportivos.
+
+4 - A não comprovação pelo promotor do projeto de que este tem enquadramento numa das alíneas previstas no número anterior, implica o indeferimento liminar do pedido pelo membro do Governo Regional competente em matéria de turismo.
+
+5 - A concessão ou recusa da autorização referida no n.º 2 tem por base uma informação dos serviços competentes em matéria de turismo, onde se inclui, obrigatoriamente, a análise dos seguintes aspetos:
+
+a) A articulação do projeto com o Plano Estratégico e de Marketing Turístico dos Açores;
+
+b) O impacto económico e social do projeto no concelho e ilha onde se insere;
+
+c) A adequação arquitetónica e urbanística do projeto ao meio envolvente, tendo em conta os objetivos de qualidade da paisagem e as orientações para a gestão da paisagem dos Açores, nos termos da Resolução do Conselho do Governo Regional n.º 135/2018, de 10 de dezembro.
+
+6 - Ficam excluídas do âmbito das medidas cautelares as operações urbanísticas relativas a:
+
+a) Empreendimentos de turismo de habitação e de turismo no espaço rural;
+
+b) Ampliação de empreendimentos turísticos em funcionamento, nos termos da lei, à data da produção de efeitos deste diploma, dentro dos seguintes limites quantitativos:
+
+(ver documento original)
+
+7 - O disposto na alínea b) do número anterior só é aplicável uma única vez por cada empreendimento.
+
+8 - No caso de operações urbanísticas que impliquem o crescimento da oferta até 75 camas, aplica-se o disposto no número anterior com as seguintes derrogações:
+
+a) A respetiva autorização é obtida mediante despacho conjunto dos membros do Governo Regional competentes em matéria de turismo e de ordenamento do território;
+
+b) É imprescindível a verificação, relativamente a cada projeto em concreto, de, pelo menos, duas das alíneas do n.º 3 e do disposto no n.º 5.
+
+9 - Nos casos não expressamente previstos nos n.os 2 a 8, são interditas operações urbanísticas que impliquem o crescimento da oferta de camas em empreendimentos turísticos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 17/2019/A - Diário da República n.º 140/2019, Série I de 2019-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2019-123436960), em vigor a partir de 2019-07-29, produz efeitos a partir de 2019-06-27
+
+###### Artigo 6.º — Caducidade
+
+1 - A validade das autorizações previstas no artigo anterior caduca nas situações seguintes:
+
+a) Com a caducidade de direitos ou expectativas jurídicas que os interessados tenham adquirido por efeito de actos praticados pelo município competente, no quadro de um procedimento de controlo de operações urbanísticas regulado pelo regime jurídico dos empreendimentos turísticos aplicável na Região; ou
+
+b) No prazo de um ano a contar da data de publicação da autorização do Conselho do Governo ou do despacho conjunto dos membros do Governo Regional competentes em matéria de turismo e de ordenamento do território, quando o promotor não inicie, em igual período, as respectivas obras.
+
+2 - Os direitos ou expectativas jurídicas que os interessados tenham adquirido por efeito de autorizações, licenças e outros actos proferidos pelo município competente, no quadro de um procedimento de controlo de operações urbanísticas regulado pelo regime jurídico dos empreendimentos turísticos aplicável na Região, caducam ao fim de um ano, após a primeira prorrogação a que teriam direito, quando o promotor não inicie, em igual período, as respectivas obras.
+
+###### Artigo 7.º — Norma transitória
+
+O presente diploma aplica-se, igualmente, a todos os projectos, para realização de operações urbanísticas que, ainda, não tenham sido objecto de parecer da direcção regional competente em matéria de turismo.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 17 de Março de 2010.
+
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
+
+Assinado em Angra do Heroísmo em 23 de Março de 2010.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

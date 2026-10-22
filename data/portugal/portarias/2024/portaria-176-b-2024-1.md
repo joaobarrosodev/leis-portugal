@@ -1,0 +1,691 @@
+---
+schema_version: '1.0'
+id: pt:dre:874082622:por
+title: Portaria n.º 176-B/2024/1
+short_title: null
+summary: Aprova o Regulamento do Sistema de Incentivo às Empresas «Flexibilidade da Rede e Armazenamento», inserido no investimento
+  RP-C21-i08 do Plano de Recuperação e Resiliência.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Energia
+proposing_entity: null
+official_number: 176-B/2024/1
+official_date: null
+publication_date: '2024-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 146/2024, Suplemento, Série I de 2024-07-30
+  number: '146'
+  series: I
+  supplement: null
+  pages: 2 - 14
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/07/14602/0000200014.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-04-29'
+version_history:
+  file: portaria-176-b-2024-1.versoes.json
+  count: 3
+  source_lastmod: '2026-02-19'
+  versions:
+  - date: '2024-07-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-02-20'
+    amending: pt:dre:1054966771:por
+    amending_title: Portaria n.º 83-A/2026/1
+    changes:
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+  - date: '2026-04-29'
+    amending: pt:dre:1095232809:por
+    amending_title: Portaria n.º 202/2026/1
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/176-b/2024/p/cons/20260428/pt/html
+  oj: null
+  dre: '874082622'
+  dre_path: /dr/detalhe/portaria/176-b-2024-874082622
+  internal: pt:dre:874082622:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/176-b-2024-874082622
+  metadata_url: https://data.dre.pt/eli/port/176-b/2024/p/cons/20260428/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-939912652
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2024-939912652
+  retrieved_at: '2026-10-22T13:41:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-02-19T00:00:00Z'
+integrity:
+  source_sha256: 9e9bc6fca0c755442c57a2e887452120d5b6cfdd85f4c9f55afc90712ea0133d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:41:33Z'
+  notes: 3 versão(ões); histórico completo em portaria-176-b-2024-1.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Empresa
+- Regulamentação de Atos Legislativos
+- Auxílio de Minimis
+- Regulamento CE
+- Fundo Ambiental
+- Plano de Recuperação e Resiliência
+relationships:
+- type: amended_by
+  target: pt:dre:1054966771:por
+  label: Adita Artigo 20.º; Adita Artigo 21.º; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º;
+    Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771
+  date: '2026-02-19'
+- type: amended_by
+  target: pt:dre:1095232809:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/202-2026-1095232809
+  date: '2026-04-28'
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: null
+- type: cites
+  target: celex:32018L2001
+  label: null
+  source: null
+- type: cites
+  target: celex:32020R0852
+  label: null
+  source: null
+- type: cites
+  target: celex:32021R0241
+  label: null
+  source: null
+- type: cites
+  target: celex:32021R0447
+  label: null
+  source: null
+- type: cites
+  target: celex:32023R0435
+  label: null
+  source: null
+- type: cites
+  target: celex:32023R2831
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32/2024/05/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2024/05/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6/2015/01/08/p/dre
+article_structure:
+  article_count: 23
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:41:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 176-B/2024/1
+
+O Acordo de Paris alcançado em 2015 estabeleceu um plano de ação para limitar o aquecimento global, no qual os governos acordaram um objetivo de longo prazo: manter o aumento da temperatura média mundial abaixo dos 2º C em relação aos níveis pré-industriais e em envidar esforços para limitar o aumento a 1,5º C.
+
+Desde então, a União Europeia (UE) tem adotado diversas medidas e estratégias para combater as alterações climáticas e colocar os Estados-Membros (EM) rumo a uma neutralidade carbónica, incluindo o Pacto Ecológico Europeu, que representa um compromisso ambicioso para redução de, pelo menos 55 %, das emissões de gases com efeito de estufa até 2030.
+
+Um desses programas, igualmente justificado pela necessidade de uma resposta imediata à emergência de saúde pública provocada pela pandemia da doença COVID-19, é o Next Generation EU criado pelo Conselho Europeu, um instrumento de mitigação do impacto económico e social da crise, que contribui para assegurar o crescimento sustentável de longo prazo e dar resposta aos desafios da dupla transição climática e digital.
+
+Este instrumento contém o Mecanismo de Recuperação e Resiliência, onde se enquadra o Plano de Recuperação e Resiliência (PRR), criado pelo Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021.
+
+Adicionalmente, no contexto dos desenvolvimentos geopolíticos europeus, e inerentes consequências no mercado de energia, através do Regulamento (UE) 2023/435 do Parlamento Europeu e do Conselho, de 27 de fevereiro de 2023, permitiu-se aos EM da UE introduzir capítulos da REPowerEU nos seus planos de recuperação e resiliência, a fim de acelerar a transição da UE para uma energia limpa.
+
+Nos termos da Decisão de Execução do Conselho COM (2021) 321, de 13 de julho de 2021, que aprova o PRR para Portugal, e da Decisão de Execução do Conselho 13351/23, de 10 de outubro de 2023, que a altera, Portugal definiu um conjunto de investimentos e reformas que contribuem para a melhoria da sua resiliência, a promoção da transição climática e o incentivo à transição digital.
+
+Entre os investimentos que integram o PRR, inscreve-se a "Flexibilidade da Rede e Armazenamento" que visa aumentar a flexibilidade da rede elétrica pública, através da introdução de meios de flexibilidade na rede elétrica de serviço público (RESP), que permitam a otimização e gestão flexível do sistema elétrico, especialmente tendo também em conta o aumento previsto da produção e do consumo de eletricidade renovável.
+
+Este investimento pretende apoiar a instalação de, pelo menos, 500 MW de capacidade de armazenamento de energia na rede elétrica, cuja execução do mesmo deverá estar concluída até 31 de dezembro de 2025.
+
+O investimento previsto contribui em 100 % para a meta climática do PRR, visto estar associado ao domínio de intervenção 033 - "Sistemas energéticos inteligentes (incluindo as redes inteligentes e sistemas de TIC) e respetivo armazenamento", investindo-se no aumento de capacidade e flexibilidade da RESP, permitindo a otimização e flexibilidade do sistema elétrico, para resposta eficaz ao aumento exponencial de consumo elétrico esperado, associados aos investimentos no aumento da capacidade de energias renováveis e igualmente nos investimentos previstos na fileira do hidrogénio verde com grande necessidade de energia disponível.
+
+Por outro lado, os investimentos previstos em sistemas de armazenamento conferem flexibilidade e segurança ao sistema elétrico para armazenar energia renovável em período de excesso de produção para consumo em período de grande procura e/ou menos oferta de energia, permitindo economias de rede e economias de compra a preços altos de mercado, com uso de energia verde armazenada em alternativa a uso de energia fóssil e minimizando as falhas de fornecimento de energia.
+
+O Regulamento em anexo respeita ainda as obrigações decorrentes do Regulamento Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014 da Comissão, de 16 de junho de 2014.
+
+Foi obtido parecer favorável da comissão técnica dos sistemas de incentivos, nos termos do Decreto-Lei n.º 6/2015, de 8 de janeiro, na sua redação atual.
+
+Assim:
+
+Manda o Governo, pela Ministra do Ambiente e Energia, nos termos conjugados do artigo 25.º do Decreto-Lei n.º 32/2024, de 10 de maio, que aprova o regime de organização e funcionamento do XXIV Governo Constitucional, dos artigos 2.º, 3.º e 6.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto, na sua redação atual, e do artigo 6.º do Decreto-Lei n.º 6/2015, de 8 de janeiro, na sua redação atual, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - É aprovado o Regulamento do Sistema de Incentivo às Empresas «Flexibilidade da Rede e Armazenamento», inserido no investimento TC-C21-i18 do Plano de Recuperação e Resiliência, anexo à presente portaria e da qual faz parte integrante.
+
+2 - O novo investimento TC-C21-i18 - «Regime de apoio à flexibilidade da rede e ao armazenamento», do PRR, veio substituir o anteriormente denominado investimento RP-C21-i08 - «Flexibilidade de rede e armazenamento», do PRR.
+
+3 - As referências feitas no anexo à Portaria n.º 176-B/2024/1, de 30 de julho ao Investimento RP-C21-i08 do PRR, bem como de quaisquer outros instrumentos legais resultantes da sua aplicação, designadamente regulamentos, avisos, contratos ou outro tipo de acordo, consideram-se, doravante, feitas ao investimento TC-C21 i18.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+A Ministra do Ambiente e Energia, Maria da Graça Martins da Silva Carvalho, em 30 de julho de 2024.
+
+## Anexo — Regulamento do Sistema de Incentivo às Empresas «Flexibilidade da Rede e Armazenamento», inserido no investimento RP-C21-i08 do Plano de Recuperação e Resiliência
+
+###### Artigo 1.º — Objeto
+
+1 - O presente Regulamento cria o sistema de incentivos às empresas "Flexibilidade da Rede e Armazenamento", sendo financiado pelo Plano de Recuperação e Resiliência (PRR), no respeito pelas regras definidas no Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o Mecanismo de Recuperação e Resiliência (MRR).
+
+2 - O presente Regulamento visa implementar o investimento C21-i08 do PRR, nos termos da Decisão de Execução do Conselho COM (2021), de 13 de julho de 2021, que aprova o PRR para Portugal, alterada pela Decisão de Execução do Conselho 13351/23, de 9 de outubro de 2023, e apoiar o investimento em sistemas de armazenamento de eletricidade produzida a partir de fontes renováveis.
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente Regulamento, entende-se por:
+
+a) "Armazenamento de eletricidade" o diferimento da utilização final de eletricidade para um momento posterior ao da sua produção ou a conversão de energia elétrica numa forma de energia suscetível de ser armazenada, o armazenamento dessa energia e a subsequente conversão dessa energia em energia elétrica;
+
+b) "Efeito de incentivo" considera-se que os auxílios têm um efeito de incentivo se o beneficiário tiver apresentado candidatura em data anterior ao "Início dos trabalhos" relativos à operação, conforme definição estabelecida na alínea f) do presente artigo;
+
+c) "Empresa" qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da disponibilização, com ou sem remuneração, de bens ou serviços no mercado;
+
+d) "Empresa em dificuldade" a empresa relativamente à qual se verifica, nos termos do artigo 2.º, alínea 18), do RGIC, pelo menos, uma das seguintes circunstâncias:
+
+i) No caso de uma sociedade de responsabilidade limitada (que não uma PME que exista há menos de três anos) quando mais de metade do seu capital social subscrito tenha desaparecido devido a perdas acumuladas. Trata-se do caso em que a dedução das perdas acumuladas das reservas (e todos os outros elementos geralmente considerados como uma parte dos fundos próprios da empresa) conduz a um montante cumulado negativo que excede metade do capital social subscrito;
+
+ii) No caso de uma sociedade em que pelo menos alguns sócios tenham responsabilidade ilimitada relativamente às dívidas da empresa (que não uma PME que exista há menos de três anos), quando mais de metade do seu capital, conforme indicado na contabilidade da empresa, tiver desaparecido devido às perdas acumuladas;
+
+iii) Sempre que a empresa for objeto de um processo coletivo de insolvência ou preencher, de acordo com o respetivo direito nacional, os critérios para ser submetida a um processo coletivo de insolvência a pedido dos seus credores;
+
+iv) Sempre que uma empresa tiver recebido um auxílio de emergência e ainda não tiver reembolsado o empréstimo ou terminado a garantia, ou tiver recebido um auxílio à reestruturação e ainda estiver sujeita a um plano de reestruturação;
+
+v) No caso de uma empresa que não seja uma PME, sempre que, nos últimos dois anos: (i) o rácio dívida contabilística/fundos próprios da empresa tiver sido superior a 7,5, e (ii) o rácio de cobertura dos juros da empresa, calculado com base em EBTIDA, tiver sido inferior a 1,0;
+
+e) "Empresa única" significa, na aceção do n.º 2 do artigo 2.º do Regulamento (UE) 2023/2831, de 13 de dezembro de 2023 (Regulamento de minimis), todas as empresas que têm, entre si, pelo menos uma das seguintes relações:
+
+i) Uma empresa detém a maioria dos direitos de voto dos acionistas ou sócios de outra empresa;
+
+ii) Uma empresa tem o direito de nomear ou exonerar uma maioria dos membros do órgão de administração, de direção ou de fiscalização de outra empresa;
+
+iii) Uma empresa tem o direito de exercer influência dominante sobre outra empresa por força de um contrato com esta celebrado ou por força de uma cláusula dos estatutos desta última empresa;
+
+iv) Uma empresa acionista ou sócia de outra empresa controla sozinha, por força de um acordo celebrado com outros acionistas ou sócios dessa outra empresa, uma maioria dos direitos de voto dos acionistas ou sócios desta última. As empresas que tenham uma das relações referidas nas alíneas i) a iv) por intermédio de uma ou várias outras empresas são igualmente consideradas uma empresa única;
+
+f) "Energia a partir de fontes renováveis" ou "energia renovável" a energia produzida por centrais que apenas utilizam fontes de energia renováveis, na aceção da alínea 1) do artigo 2.º da Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, na sua redação atual, bem como a proporção, em termos de valor calorífico, da energia produzida a partir de fontes de energia renováveis em centrais híbridas que utilizam igualmente fontes de energia convencionais, e inclui a eletricidade renovável utilizada no abastecimento dos sistemas de armazenamento ligados a montante do contador (sejam eles instalados conjuntamente ou enquanto elemento suplementar da instalação renovável), mas exclui a eletricidade produzida a partir destes sistemas;
+
+g) "Início dos trabalhos" quer o início dos trabalhos de construção relacionados com o investimento quer o primeiro compromisso firme de encomenda de equipamentos ou qualquer outro compromisso que torne o investimento irreversível, consoante o que acontecer primeiro; a compra de terrenos e os trabalhos preparatórios, como a obtenção de licenças e a realização de estudos de viabilidade, não são considerados início dos trabalhos; no caso de aquisições, por "início dos trabalhos", entende-se o momento da aquisição dos ativos diretamente ligados ao estabelecimento adquirido, conforme previsto na alínea 23) do artigo 2.º do Regulamento Geral de Isenção por Categoria (RGIC);
+
+h) "Não PME ou grande empresa" as empresas não abrangidas pela definição de PME, nos termos da alínea seguinte;
+
+i) "PME", as micro, pequenas e médias empresas na aceção da Recomendação 2003/361/CE, da Comissão Europeia, de 6 de maio de 2003, relativa à definição de micro, pequena e média empresa e com a certificação eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual;
+
+j) "Terceiros não relacionados com o adquirente" os terceiros sobre os quais o adquirente não tenha a possibilidade de exercer controlo ou vice-versa, decorrendo o controlo dos direitos, contratos ou outros meios que conferem, isoladamente ou em conjunto, e tendo em conta as circunstâncias de facto e de direito, a possibilidade de exercer uma influência determinante sobre uma empresa, através de:
+
+i) Direitos de propriedade ou de uso ou de fruição sobre a totalidade ou parte dos ativos de uma empresa;
+
+ii) Direitos ou contratos que conferem uma influência determinante na composição, nas deliberações ou nas decisões dos órgãos de uma empresa.
+
+2 - No caso do referido na alínea j) do número anterior, o controlo é adquirido ou detido pelas pessoas ou pelas empresas que sejam titulares desses direitos ou beneficiários desses contratos ou que, não sendo titulares desses direitos nem beneficiários desses contratos, tenham o poder de exercer os direitos deles decorrentes.
+
+###### Artigo 3.º — Âmbito territorial, dotação, forma do apoio e taxa de financiamento
+
+1 - O sistema de incentivos às empresas «Flexibilidade da Rede e Armazenamento» tem aplicação em Portugal continental (NUTS I PT1).
+
+2 - A dotação total afeta ao presente sistema de incentivos é de 180 000 000,00 €.
+
+3 - O financiamento por beneficiário e por projeto tem uma dotação máxima de € 30 000 000,00.
+
+4 - A forma do apoio a conceder às candidaturas a aprovar no âmbito do presente Regulamento reveste a natureza de subvenção não reembolsável, nos termos do Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o MRR.
+
+5 - A taxa máxima de financiamento das operações a aprovar é de 20 %, incidindo esta sobre o total das despesas elegíveis.
+
+6 - As despesas elegíveis são determinadas nos termos estabelecidos no artigo 9.º do presente Regulamento.
+
+7 - A dotação total do financiamento referida no n.º 2 está expressamente consignada à realização de investimentos enquadráveis na tipologia de operações previstas no artigo 6.º que contribuam para o desenvolvimento da produção de energias renováveis e para a transição ecológica da economia portuguesa, pelo que quaisquer valores embolsados pela ApC, I. P., no âmbito desta portaria, são obrigatoriamente reinvestidos em investimentos que prossigam os mesmos objetivos de políticas públicas, ainda que este reinvestimento ocorra após 2026.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2026/1 - Diário da República n.º 82/2026, Série I de 2026-04-28](https://diariodarepublica.pt/dr/detalhe/portaria/202-2026-1095232809), em vigor a partir de 2026-04-29.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 4.º — Beneficiários
+
+São elegíveis para o presente apoio as pessoas coletivas, públicas ou privadas, com atividade económica de produção de eletricidade renovável.
+
+###### Artigo 5.º — Critérios de elegibilidade do beneficiário
+
+O beneficiário tem de cumprir os seguintes critérios de elegibilidade:
+
+a) Estar legalmente constituído, e devidamente registado, incluindo no Registo Central de Beneficiário Efetivo (RCBE) relativamente às pessoas que o controle, quando aplicável;
+
+b) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;
+
+c) Ter a situação regularizada em matéria de reposições, no âmbito de financiamento dos Fundos Europeus;
+
+d) Poder legalmente desenvolver as atividades no território abrangido pela categoria, tipologia das operações e investimentos a que se candidata;
+
+e) Possuir, ou poder assegurar até à aprovação da candidatura, os meios técnicos, físicos e financeiros e os recursos humanos necessários ao desenvolvimento da operação;
+
+f) Apresentar uma situação económico-financeira equilibrada e demonstrar ter capacidade de financiamento da operação, nos termos definidos no anexo i, que constitui parte integrante do presente Regulamento;
+
+g) Não ter apresentado os mesmos investimentos em candidatura, no âmbito da qual ainda esteja a decorrer o processo de decisão ou em que a decisão sobre o pedido de financiamento tenha sido favorável, exceto nas situações em que tenha sido apresentada desistência, e não tenha cumulativamente acedido a qualquer financiamento público;
+
+h) Declarar que a soma das intenções iniciais de capacidade de armazenamento apresentadas, incluindo se numa relação de domínio ou de grupo, não excede 20 % da capacidade total prevista a apoiar (500 MW) nos termos do aviso de abertura de concurso;
+
+i) Declarar não ter salários em atraso, reportados à data da apresentação da candidatura ou até ao momento da assinatura do termo de aceitação caso a candidatura seja aprovada;
+
+j) Declarar e comprovar que não configura uma "Empresa em dificuldade", nos termos da alínea d) do n.º 1 do artigo 2.º do presente Regulamento;
+
+k) Comprovar que não se trata de uma empresa sujeita a uma injunção de recuperação, ainda pendente, na sequência de uma decisão anterior da Comissão Europeia que declara um auxílio ilegal e incompatível com o mercado interno, nos termos da alínea a) do n.º 4 do artigo 1.º do RGIC;
+
+l) Dispor de contabilidade organizada nos termos da legislação aplicável;
+
+m) Estar registado na plataforma do Balcão dos Fundos;
+
+n) Estar registado na plataforma SIGA.
+
+###### Artigo 6.º — Tipologia de operações
+
+1 - São elegíveis apenas as operações de investimento a favor da instalação de sistemas de armazenamento de energia elétrica baseadas em baterias à escala das redes de transporte e distribuição com potência nominal de pelo menos 1 MVA e que assegurem o carregamento e a descarga, à potência máxima, durante o mínimo de duas horas, associados a centros eletroprodutores de produção independente, com potência instalada superior a 1MVA, por fontes de energia renováveis diretamente ligados à rede elétrica de serviço público (RESP).
+
+2 - Para efeitos do disposto no número anterior:
+
+a) O sistema de armazenamento deve estar ligado na instalação produtora, a montante do contador do centro eletroprodutor a que está ou estará associado, utilizando assim o mesmo ponto de receção com a RESP;
+
+b) O sistema de armazenamento ligado a um mesmo ponto de receção deve ser único;
+
+c) A componente de armazenamento deve absorver anualmente, pelo menos, 75 % da sua energia a partir da instalação de produção de energia renovável a que se encontra diretamente ligada, sendo condicionada pela determinação posterior das condições para o carregamento diretamente pela RESP, mediante avaliação e pronúncia pelo operador de rede a que se encontra ligada;
+
+d) A injeção na RESP, a cada instante, do conjunto formado pelo sistema de armazenamento e unidades de produção do centro eletroprodutor ao qual aquele se encontra associado, está limitada ao valor de capacidade de injeção na RESP atribuída a esse centro eletroprodutor, sem prejuízo de eventuais limitações previstas na lei e na regulamentação aplicáveis, bem como nas respetivas licenças de produção e/ou de exploração e/ou nos protocolos de ligação à RESP e/ou de acesso à RESP desse centro eletroprodutor;
+
+e) Os auxílios ao investimento devem ser concedidos a capacidades recentemente instaladas ou renovadas, conforme estabelecido no artigo 41.º, n.º 5, do RGIC;
+
+f) O sistema de armazenamento fica ainda obrigado a cumprir e a observar os demais requisitos a determinar no aviso para apresentação de candidaturas a lançar pela ApC, I. P.
+
+3 - A instalação de sistemas de armazenamento de energia elétrica produzida por fontes de energia renováveis diretamente ligadas à rede elétrica de serviço público têm de declarar a conformidade com os critérios de sustentabilidade e de redução das emissões de gases com efeito de estufa da Diretiva (UE) 2018/2001, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, relativa à promoção da utilização de energia de fontes renováveis e dos seus atos de execução ou delegados, sendo produzidos a partir das matérias-primas enumeradas na referida diretiva, e em cumprimento com o princípio de «não prejudicar significativamente» ou seja, «do no significant harm» (DNSH).
+
+4 - Para efeitos do cumprimento do DNSH, não são consideradas elegíveis as seguintes atividades e ativos:
+
+a) Atividades e ativos relacionados com combustíveis fósseis, incluindo utilizações a jusante, salvo se:
+
+i) As atividades em causa estiverem relacionadas com a produção de eletricidade e/ou calor;
+
+ii) Os ativos em causa corresponderem a infraestruturas conexas de transporte e distribuição, que utilizam gás natural, e que cumprem as condições estabelecidas no anexo iii das orientações técnicas sobre a aplicação do princípio de «não prejudicar significativamente» (2021/C 58/01);
+
+iii) Estiverem em causa atividades e ativos abrangidos pelo Sistema de Comércio de Licenças de Emissão da UE (CELE) que alcançam emissões de gases com efeito de estufa previstas não inferiores aos parâmetros de referência aplicáveis para a atribuição de licenças de emissão a título gratuito conforme previsto no Regulamento de Execução (UE) 2021/447, da Comissão, para os quais a utilização de combustíveis fósseis é temporária e tecnicamente inevitável para a transição atempada para uma operação sem combustíveis fósseis;
+
+b) Atividades e ativos abrangidos pelo Sistema de Comércio de Licenças de Emissão da UE (CELE) que alcançam emissões de gases com efeito de estufa previstas não inferiores aos parâmetros de referência aplicáveis para a atribuição de licenças de emissão a título gratuito conforme previsto no Regulamento de Execução (UE) 2021/447, da Comissão;
+
+c) Atividades e ativos relacionados com aterros de resíduos e incineradores, salvo se, quanto aos últimos, estiverem em causa ações que ocorrem:
+
+i) Em instalações destinadas exclusivamente ao tratamento de resíduos perigosos não recicláveis; ou,
+
+ii) Em instalações pré-existentes, com o objetivo de aumentar a eficiência energética, a captura de gases de escape para armazenamento ou reutilização ou a recuperação de matérias das cinzas de incineração; e
+
+iii) Em qualquer dos casos referidos nas alíneas i) e ii) anteriores, estas ações não tiverem comprovadamente por efeito o aumento da capacidade de processamento de resíduos das instalações, nem da sua vida útil;
+
+d) Atividades e ativos relacionados com estações de tratamento mecânico e biológico de resíduos, salvo se:
+
+i) As ações ocorrem em instalações pré-existentes e tiverem por finalidade o aumento da eficiência energética ou a reconversão em operações de reciclagem de resíduos separados para a compostagem e a digestão anaeróbia de biorresíduos, e, em qualquer dos casos, não tiverem comprovadamente por efeito o aumento da capacidade de processamento de resíduos das instalações, nem da sua vida útil.
+
+5 - As atividades e ativos não abrangidos pela subalínea b) do número anterior que vierem a ser apoiados e atinjam emissões de gases com efeito de estufa previstas que não sejam significativamente inferiores aos parâmetros de referência aplicáveis para a atribuição de licenças de emissão a título gratuito conforme previsto no Regulamento de Execução (UE) 2021/447 da Comissão, devem explicar por que motivo não é possível atingir valores superiores.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 7.º — Grau de maturidade das operações
+
+1 - O grau de maturidade mínimo exigido para as operações na fase de apresentação de candidatura traduz-se na existência de peças preparatórias do(s) procedimento(s) de aquisição relativos ao investimento mais relevante para a operação, excluindo qualquer compromisso que configure, antes da data de submissão da candidatura, o início dos trabalhos na aceção do artigo 2.º, alínea g), do presente Regulamento.
+
+2 - A atribuição de apoio prioriza os projetos de armazenamento a ligar em centros eletroprodutores já licenciados, detentores de Licença de Produção e/ou Licença de Exploração válidas.
+
+3 - Caso as candidaturas aceites nas condições do número anterior não esgotem a dotação total prevista no artigo 3.º, n.º 2, do presente Regulamento, poderão ser aceites projetos com Título de Reserva de Capacidade, em termos a definir no aviso de abertura de concurso a lançar pela Agência para o Clima (ApC), I. P.
+
+4 - Os beneficiários apenas podem efetuar o «início dos trabalhos» após a submissão da candidatura junto da ApC, I. P., em conformidade com a alínea 23) do artigo 2.º e artigo 6.º, ambos do RGIC.
+
+5 - Os beneficiários são obrigados a iniciar a execução da operação no prazo máximo de seis meses, após a assinatura do termo de aceitação da operação com a ApC, I. P.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 8.º — Critérios de elegibilidade das operações
+
+Os critérios de elegibilidade das operações são os seguintes:
+
+a) Respeitar a tipologia de operações previstas no artigo 6.º do presente Regulamento;
+
+b) Visar a prossecução dos objetivos específicos previstos no Regulamento (UE) 2021/241, do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o MRR;
+
+c) Demonstrar adequado grau de maturidade, de acordo com o referido no artigo 7.º do presente Regulamento;
+
+d) Justificar a necessidade e a oportunidade da realização da operação, incluindo que sem o financiamento o investimento não se realizaria, ou, alternativamente, demonstrar que sem o financiamento o investimento realizar-se-ia em menor escala;
+
+e) Apresentar uma caracterização técnica e uma fundamentação dos custos de investimento e do calendário de realização física e financeira;
+
+f) Apresentar um plano de comunicação a desenvolver no decurso da implementação da operação e na sua conclusão, que permita a informação e divulgação dos resultados da operação junto dos potenciais beneficiários ou utilizadores e do público em geral, que evidencie o cumprimento das obrigações fixadas no artigo 34.º do Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021;
+
+g) Apresentar declaração em que o proponente se obriga a disponibilizar à ApC, I. P., os dados associados à potência e capacidade instalada;
+
+h) Demonstrar que as intervenções não conduzem a impactes significativos no ambiente, garantindo o cumprimento do princípio de «não prejudicar significativamente» ou seja, «do no significant harm» (DNSH), na aceção do artigo 17.º do Regulamento (UE) 2020/852 do Parlamento Europeu e do Conselho, de 18 de junho de 2020 (Regulamento da Taxonomia da União Europeia), designadamente no uso sustentável dos recursos e no cumprimento dos regimes ambientais aplicáveis e na necessidade de obtenção de licenças ou autorizações no âmbito desses regimes, identificando para o efeito esse regime e evidenciando a sua obtenção no planeamento do projeto ou a sua apresentação, caso a maturidade do projeto assim o exija;
+
+i) Dispor dos licenciamentos e autorizações prévias à execução dos investimentos, quando aplicável;
+
+j) Incluir indicadores que permitam avaliar o contributo da operação para os respetivos objetivos, bem como monitorizar o grau de execução da operação e o cumprimento dos resultados previstos;
+
+k) Fundamentar o contributo da operação para cada um dos critérios de seleção aplicáveis;
+
+l) Apresentar declaração em como os ativos associados à operação serão utilizados exclusivamente no âmbito dos investimentos identificados no artigo 6.º do presente Regulamento;
+
+m) Apresentar declaração em como a operação tem por objeto o investimento no armazenamento de eletricidade produzida a partir de fontes de energias renováveis e que o sistema de armazenamento de eletricidade estará localizado a montante do contador e absorverá anualmente, pelo menos, 75 % da sua energia a partir da instalação de produção de energia renovável à qual se encontra diretamente ligada, nos termos do n.º 1-A do artigo 41.º do RGIC.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 9.º — Despesas elegíveis
+
+1 - As despesas elegíveis são as que vierem a ser aprovadas no aviso de abertura de concurso a lançar pela ApC, I. P., e compreendem os custos de investimento totais que comprovadamente visarem e forem estritamente indispensáveis ao sistema de armazenamento de eletricidade produzida a partir de fontes de energia renováveis, incluindo:
+
+a) Sistemas de armazenamento de eletricidade;
+
+b) Construção, instalação, modernização ou ampliação de infraestruturas diretamente relacionadas com os sistemas de armazenamento e pontos de receção, incluindo os custos com equipamentos auxiliares e os sistemas de gestão e controlo das baterias;
+
+c) Ações relacionadas com a assistência técnica específica para o projeto, bem como ações de comunicação e sensibilização do público-alvo e monitorização dos resultados do projeto poderão ser elegíveis, desde que seja comprovada a sua relevância para o projeto.
+
+2 - O financiamento público das ações identificadas nas alíneas b) e c) do número anterior, caso sejam levadas a cabo pelo beneficiário, está limitado, no máximo, a 15 % do custo total elegível da operação, ou seja, do valor acumulado das despesas elegíveis das alíneas a), b) e c) do número anterior.
+
+3 - Todas as despesas elegíveis devem ser registadas em codificação contabilística específica adequada.
+
+4 - As despesas elegíveis apresentadas nos pedidos de pagamento pelo beneficiário assentam numa base de custos reais e têm de ser justificadas através de faturas pagas ou outros documentos contabilísticos de valor probatório equivalente.
+
+5 - Apenas é elegível a despesa declarada pelo beneficiário que seja considerada adequada, tendo em conta a sua necessidade e razoabilidade, incluindo face às condições de mercado, e que resulte de aquisições de bens e serviços a terceiros não relacionados com o adquirente.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 10.º — Despesas não elegíveis
+
+Constituem despesas não elegíveis:
+
+a) Despesas com o imposto sobre o valor acrescentado (IVA), recuperável ou não pelo beneficiário;
+
+b) Despesas no âmbito de contratos efetuados com intermediários ou consultores em que o montante a pagar é expresso em percentagem do montante financiado pelo PRR ou das despesas elegíveis da operação;
+
+c) Pagamentos em numerário;
+
+d) Encargos financeiros, incluindo juros ou outras despesas financeiras, durante o período de realização do investimento;
+
+e) Despesas de pré-financiamento, constituição de processo de empréstimo e de fundo de maneio;
+
+f) Despesas relativas à aquisição de bens em estado de uso;
+
+g) Custos normais de funcionamento e de consumo corrente, não previstos no investimento contratualizado, bem como custos de manutenção e substituição ou custos relacionados com atividades do tipo periódico ou contínuo;
+
+h) Custos indiretos;
+
+i) Imputações de custos internos das entidades beneficiárias;
+
+j) Compra ou arrendamento de imóveis, incluindo terrenos;
+
+k) Publicidade corrente;
+
+l) Investimentos para a produção de energia elétrica;
+
+m) Trespasses e direitos de utilização de espaços;
+
+n) Fundo maneio.
+
+###### Artigo 11.º — Apresentação de candidatura
+
+As candidaturas são apresentadas no âmbito de aviso de abertura de concurso e são submetidas através de formulário eletrónico, disponível no sítio institucional na internet do Fundo Ambiental, devendo ser instruída com todos os documentos indicados no aviso de abertura de concurso a elaborar pela ApC, I. P.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 12.º — Aviso de abertura de concurso
+
+O aviso de abertura de concurso da ApC, I. P. deve observar o respeito pelas regras definidas no Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho, de 12 de fevereiro de 2021, que cria o MRR e nas Orientações Técnicas aprovadas pela Estrutura de Missão «Recuperar Portugal».
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 13.º — Procedimentos de análise, seleção e decisão das candidaturas
+
+1 - A ApC, I. P., é a entidade competente para decidir sobre o processo de financiamento, com o apoio técnico dos seus serviços, mediante deliberação do conselho diretivo, tomada por maioria dos votos.
+
+2 - Para efeitos do disposto no número anterior a ApC, I. P., recorre ao apoio técnico especializado de outras entidades públicas setoriais com competências na política pública, nomeadamente a Direção-Geral de Energia e Geologia (DGEG) a Agência Portuguesa do Ambiente, (APA) I. P., e operadores de rede.
+
+3 - Compete à DGEG, APA, I. P., e aos operadores de rede a avaliação de critérios técnicos de elegibilidade e de mérito da operação, a pedido da ApC, I. P., cabendo aos serviços da ApC, I. P., o apoio técnico na apreciação do enquadramento do beneficiário e da operação nos critérios gerais de elegibilidade, bem como, a verificação da ausência de impedimentos.
+
+4 - As candidaturas são analisadas de acordo com os critérios de elegibilidade previstos nos artigos 5.º e 8.º do presente Regulamento.
+
+5 - As candidaturas são classificadas e hierarquizadas, até ao limite orçamental definido no aviso de abertura de concurso da ApC, I. P., de acordo com os critérios de seleção cumulativos e respetiva pontuação constantes do anexo ii do presente Regulamento.
+
+6 - Caso se verifique uma situação de empate após aplicação dos critérios referidos no número anterior, e no sentido de resolver o mesmo, será realizado um sorteio nas instalações da ApC, I. P. em data e hora a designar, e para o qual serão convocados os beneficiários das candidaturas empatadas.
+
+7 - Após a comunicação favorável da decisão de financiamento da candidatura, é celebrado um termo de aceitação entre a ApC, I. P., e o beneficiário que estabelece as condições específicas do financiamento.
+
+8 - Durante o procedimento de análise, seleção e decisão das candidaturas a ApC, I. P., poderá solicitar esclarecimentos a qualquer dos documentos ou declarações produzidas no âmbito da candidatura, no âmbito do qual será dado um prazo de até 10 dias úteis para resposta.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 14.º — Contratação
+
+A formalização da concessão do apoio reveste a forma de termo de aceitação, o qual fixará os investimentos, as subvenções, os calendários de execução e os marcos e metas a atingir, bem como as obrigações do beneficiário e penalizações em caso de incumprimento.
+
+###### Artigo 15.º — Procedimentos para apresentação, análise e decisão dos pedidos de pagamento
+
+1 - As prestações de pagamento do financiamento solicitado serão estabelecidas no termo de aceitação, que deverão estar obrigatoriamente associadas à apresentação de comprovativos de realização de despesa associada à operação.
+
+2 - A ApC, I. P. realiza verificações administrativas e verificações no local das operações para atestar a realização efetiva da operação e o pagamento da despesa declarada pelo beneficiário, bem como a sua conformidade com a legislação aplicável, com o PRR e o cumprimento das condições de apoio da operação.
+
+3 - No âmbito da análise de cada pedido de pagamento é avaliada a elegibilidade material e financeira da despesa, tendo em conta a regularidade dos procedimentos de contratação pública e dos documentos que comprovem a realização da despesa e o pagamento efetivo aos fornecedores.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 16.º — Obrigações dos beneficiários
+
+1 - São obrigações dos beneficiários:
+
+a) Demonstrar o cumprimento das disposições legais europeias e nacionais a que se encontra sujeita a candidatura, em matéria de auxílios de Estado, contratação pública, de igualdade de oportunidades e de género e outras;
+
+b) Dar início à execução das operações obrigatoriamente até seis meses após a data da assinatura do contrato de financiamento entre a ApC, I. P., e o beneficiário, salvo motivos de força maior não imputáveis ao beneficiário e aceites pela ApC, I. P.;
+
+c) Executar as operações nos termos e condições aprovadas e contratualizadas com a ApC, I. P.
+
+d) Permitir o acesso aos locais de realização das operações e àqueles onde se encontrem os elementos e documentos necessários ao acompanhamento e controlo da operação aprovada;
+
+e) Conservar a totalidade dos dados relativos à realização do investimento, em suporte digital, durante o prazo fixado na legislação nacional e europeia aplicáveis;
+
+f) Proceder à publicitação dos apoios, em conformidade com o disposto na legislação europeia e nacional aplicáveis;
+
+g) Manter as condições legais necessárias ao exercício da atividade;
+
+h) Repor os montantes indevidamente recebidos e cumprir as sanções administrativas aplicadas, designadamente no caso de não cumprimento dos indicadores contratados, no prazo máximo de 30 dias após notificação da ApC, I. P.;
+
+i) Manter a sua situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;
+
+j) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;
+
+k) Disponibilizar, nos prazos estabelecidos, os elementos que lhe forem solicitados pelas entidades com competência para o acompanhamento, avaliação de resultados, controlo e auditoria;
+
+l) Comunicar as alterações ou ocorrências relevantes que ponham em causa os pressupostos relativos à aprovação da operação;
+
+m) Não afetar a outras finalidades, locar, alienar ou por qualquer outro modo onerar, os bens e serviços adquiridos no âmbito das operações apoiadas, sem prévia autorização da ApC, I. P.;
+
+n) O investimento contratualizado e as infraestruturas apoiadas devem ser mantidas afetas à respetiva atividade e, quando aplicável, na localização geográfica definida na operação, pelo menos durante cinco anos no caso de grande empresa, ou três anos quando estejam em causa investimentos de PME, caso não esteja previsto prazo superior na legislação europeia aplicável ou nas regras dos auxílios de Estado, em ambos os casos, a contar da data do pagamento final ao beneficiário final;
+
+o) Nos prazos previstos na alínea anterior e quando aplicável, os beneficiários não devem proceder a nenhuma das seguintes situações, sem prévia autorização da ApC, I. P.:
+
+i) Cessação ou relocalização de sua atividade;
+
+ii) Mudança de propriedade de um item de infraestrutura que confira a uma entidade pública ou privada uma vantagem indevida;
+
+iii) Alteração substancial da operação que afete a sua natureza, os seus objetivos ou as condições de realização, de forma a comprometer os seus objetivos originais e metas contratualizadas;
+
+p) Apresentar uma justificação do domínio de intervenção selecionado para cada projeto apoiado, juntamente com a descrição do projeto, quando associados à produção de «gases de origem renovável» na aceção da alínea d) do artigo 2.º, para efeitos do cálculo da contribuição climática de cada projeto para o disposto no n.º 6 do artigo 10.º
+
+2 - O incumprimento de uma ou mais obrigações constantes das alíneas e subalíneas do número anterior constitui fundamento para resolução do termo de aceitação pela ApC, I. P.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 17.º — Acompanhamento e controlo
+
+1 - A ApC, I. P. é globalmente responsável pela execução do investimento, obrigando-se para o efeito a criar e manter as condições necessárias, designadamente:
+
+a) Adotar um sistema de monitorização, auditoria e controlo interno que previna, detete e corrija irregularidades, que internalize procedimentos de prevenção de conflitos de interesses, de fraude, de corrupção e de duplo financiamento, assegurando o princípio da boa gestão e salvaguardando os interesses financeiros da União Europeia, incluindo:
+
+i) O sistema de monitorização de implementação para reportar os subsídios mobilizados, tal como descrito no acordo de implementação a que se refere o artigo 21.º desta portaria;
+
+ii) Procedimentos que asseguram a prevenção, deteção e correção de fraude, corrupção e conflitos de interesses, tal como descrito no acordo de implementação a que se refere o artigo 21.º desta portaria;
+
+b) Verificar a elegibilidade de cada operação, em conformidade com os requisitos estabelecidos, antes da concessão de um subsídio a uma operação;
+
+c) Realizar auditorias ex post baseadas no risco, em conformidade com um plano de auditoria, em que deve ser verificado:
+
+i) A eficácia dos sistemas de controlo, incluindo a deteção de fraude, corrupção e conflitos de interesses;
+
+ii) O cumprimento do princípio de DNSH, das regras relativas aos auxílios estatais e dos requisitos de metas climáticas;
+
+iii) O respeito do requisito de que os beneficiários finais não tenham recebido apoio de outros instrumentos da União para cobrir o mesmo custo;
+
+iv) A legalidade das transações e das condições de elegibilidade dos beneficiários e das operações e que os demais acordos celebrados no âmbito da presente portaria e respetiva legislação aplicável são respeitados;
+
+d) Disponibilizar as evidências dos procedimentos utilizados na análise, aprovação, contratualização, implementação, controlo, pagamento e recuperações;
+
+e) Facultar as condições para a realização de ações de controlo, designadamente, a disponibilização de instalações, equipamentos e apoio técnico e administrativo;
+
+f) Definir no sistema de gestão e controlo o circuito de gestão completo das operações, incluindo a forma de submissão e análise das candidaturas;
+
+g) Assegurar o cumprimento, nas operações dos Beneficiários Finais, do princípio do «não prejudicar significativamente» o ambiente, bem como as condições para o cumprimento pelo investimento do requisito climático e indicadores comuns, nos termos previstos no PRR, no Regulamento (UE) 2021/241, na sua redação atual, e respetivos atos delegados.
+
+> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 18.º — Enquadramento europeu de auxílios de Estado
+
+1 - O presente Regulamento respeita o regime de auxílios de Estado que resulta do RGIC, em particular ao abrigo dos capítulos i e ii, sendo apresentado no anexo iii do presente Regulamento a categoria de auxílio aplicável.
+
+2 - Para os custos elegíveis não financiados no âmbito da categoria de auxílios do RGIC identificada no anexo iii, aplicar-se-á o regime de auxílios de minimis previsto no Regulamento (UE) 2023/2831, de 13 de dezembro de 2023, com um limite máximo de 300 000 euros por empresa única durante um período de três anos.
+
+###### Artigo 19.º — Redução, revogação e resolução
+
+O incumprimento das obrigações do beneficiário bem como a inexistência ou a perda de quaisquer dos requisitos de concessão do apoio podem determinar a redução do apoio ou a revogação da decisão de financiamento.
+
+###### Artigo 20.º — Reporte para efeitos de emissão de obrigações verdes
+
+1 - A ApC, I. P., elabora semestralmente um relatório, a enviar à EMRP, demonstrativo da implementação dos projetos referidos na alínea p) do artigo 16.º, o qual deve incluir informações sobre:
+
+a) Resultados alcançados, expressos sempre que possível através de indicadores de resultado pré-definidos selecionados pelos serviços da Comissão;
+
+b) Despesas realizadas.
+
+2 - A obrigação de reporte referida no número anterior existe até que os investimentos subjacentes estejam totalmente implementados, podendo, se necessário, persistir para além de 2026.
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+###### Artigo 21.º — Acordo de Implementação
+
+A ApC, I. P., enquanto parceiro de execução, assinará um Acordo de Implementação com a Estrutura de Missão Recuperar Portugal (EMRP), ao abrigo do artigo 9.º do Decreto-Lei n.º 29-B/2021, na sua redação atual, dando cumprimento ao estabelecido no descrito do investimento TC-C21-i18 - ‘Regime de apoio à flexibilidade da rede e ao armazenamento’, e na meta 21.47 nos termos da Decisão de Execução do Conselho Europeu n.º 15796/25, adotada em 12 de dezembro de 2025.
+
+> Aditado pelo/a Artigo 4.º do/a [Portaria n.º 83-A/2026/1 - Diário da República n.º 35/2026, Suplemento, Série I de 2026-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2026-1054966771), em vigor a partir de 2026-02-20
+
+## Anexo I — Situação económico-financeira equilibrada
+
+[a que se refere a alínea f) do artigo 5.º]
+
+1 - Para efeitos do disposto na alínea f) do artigo 5.º, considera-se que os beneficiários possuem uma situação económico-financeira equilibrada quando se verifique:
+
+a) Tratando-se de Grandes Empresas, apresentem um rácio de autonomia financeira não inferior a 0,20;
+
+b) Tratando-se de PME, apresentem um rácio de autonomia financeira não inferior a 0,15;
+
+2 - O rácio de autonomia financeira referido nas alíneas a) e b) do número anterior é calculado através da seguinte fórmula, sendo o valor arredondado à centésima:
+
+AF = CP(índice e) / AT
+
+em que:
+
+AF - autonomia financeira da empresa;
+
+CP(índice e) - capital próprio da empresa, incluindo os suprimentos desde que estes venham a ser incorporados em capital próprio até à data da assinatura do termo de aceitação;
+
+AT - ativo total da empresa.
+
+3 - Para o cálculo dos indicadores referidos nos números anteriores será utilizado o balanço referente ao ano pré-projeto, ou a média aritmética simples dos dois últimos balanços, ou balanço intercalar posterior, certificado por um revisor oficial de contas, reportado até à data da candidatura.
+
+4 - As empresas que, à data da candidatura, tenham menos de um ano de atividade, em alternativa ao cumprimento do n.º 1, devem demonstrar capacidade de financiamento da operação com capitais próprios igual ou superior a 20 % das despesas elegíveis, através do seguinte rácio:
+
+FCP = (CP(índice p) / DE(índice p)) × 100
+
+em que:
+
+FCP - financiamento por capitais próprios;
+
+CP(índice p) - capital próprio da operação, incluindo novas entradas de capital (capital social, incorporação de suprimentos e prestações suplementares de capital), desde que venham a ser incorporados em capital próprio até à conclusão material e financeira da operação;
+
+DE(índice p) - montante da despesa elegível da operação.
+
+## Anexo II — Critérios de seleção e classificação das candidaturas
+
+| Critério | Descrição | Pontos |
+| --- | --- | --- |
+| 1 - Localização preferencial | Centro eletroprodutor ligado à subestação (à saída, ou no ramal público na direta dependência da subestação) em zonas de rede consideradas preferenciais a determinar no aviso de abertura do concurso. | 5 |
+| Centro eletroprodutor não ligado à subestação (à saída, ou no ramal público na direta dependência da subestação) em zonas de rede consideradas preferenciais a determinar no aviso de abertura do concurso. | 1 |  |
+| 2 - Maturidade | Evidência de licença de exploração do centro eletroprodutor onde será instalado o armazenamento. | 20 |
+| Evidência de licença de produção do centro eletroprodutor onde será instalado o armazenamento. | 10 |  |
+| Evidência de Título de Reserva de Capacidade de rede (TRC) do centro eletroprodutor onde será instalado o armazenamento. | 1 |  |
+| 3 - Experiência | Evidência de experiência acumulada de exploração de instalações de armazenamento, até à data da publicação do aviso, superior a 10 MW, no território da União Europeia. | 3 |
+| Evidência de experiência acumulada de exploração de instalações de armazenamento, até à data da publicação do aviso, inferior a 10 MW, no território da União Europeia. | 2 |  |
+| Sem experiência de implementação de armazenamento. | 1 |  |
+
+## Anexo III — Enquadramento europeu de auxílios de Estado
+
+| Categoria de auxílio | Despesas elegíveis | Intensidade máxima de auxílio |
+| --- | --- | --- |
+| "Auxílios ao investimento a favor da promoção de energia produzida a partir de fontes renováveis, de hidrogénio renovável e da cogeração de elevada eficiência" (artigo 41.º do RGIC) | Custos de investimento totais. | Até 30 % dos custos elegíveis, ao abrigo da alínea b) do n.º 7 do artigo 41.º do RGIC.No presente investimento RP-C21-i08 e ao abrigo da Decisão de Execução do PRR 13351/23, do Conselho, de 10 de outubro de 2023, a intensidade máxima de auxílio está limitada a 20 % do total dos custos elegíveis. |
+| Auxílios de minimis, Regulamento (UE) 2023/2831, de 13 de dezembro de 2023 | Outros custos elegíveis não financiados no âmbito da categoria de auxílios do RGIC anteriormente referida. | Limite máximo de 300 000 euros por empresa única durante um período de três anos. |

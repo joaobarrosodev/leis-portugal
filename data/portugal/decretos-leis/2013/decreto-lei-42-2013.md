@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:259405:por
+title: Decreto-Lei n.º 42/2013
+short_title: null
+summary: Estabelece o regime aplicável aos contratos de compra e venda de leite cru de vaca, celebrados entre produtores,
+  intermediários e transformadores
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 42/2013
+official_date: null
+publication_date: '2013-03-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2013, Série I de 2013-03-22
+  number: '58'
+  series: I
+  supplement: null
+  pages: 1823 - 1824
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/03/05800/0182301824.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-07-28'
+version_history:
+  file: decreto-lei-42-2013.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-03-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-28'
+    amending: pt:dre:155732595:por
+    amending_title: Decreto-Lei n.º 9/2021
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/42/2013/p/cons/20210129/pt/html
+  oj: null
+  dre: '259405'
+  dre_path: /dr/detalhe/decreto-lei/42-2013-259405
+  internal: pt:dre:259405:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2013-259405
+  metadata_url: https://data.dre.pt/eli/dec-lei/42/2013/p/cons/20210129/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-155903217
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-155903217
+  retrieved_at: '2026-10-22T12:37:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a5dac01b075af84433287a8baf8333c2e9e33ebb97de5befd21f906491170bfa
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:37:37Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-42-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Agrupamento de Produtores
+- Multa
+- Leite
+- Contrato
+- Fiscalização
+- IFAP
+- ASAE
+- Política Agrícola Comum
+- Preço
+- Produção Leiteira
+- Madeira.região Autónoma
+- Receita Própria
+- Regulamento CE
+- Sanção
+- Açores
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:155732595:por
+  label: Altera Artigo 8.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595
+  date: '2021-01-29'
+- type: cites
+  target: celex:32007R1234
+  label: null
+  source: http://data.europa.eu/eli/reg/2007/1234/oj
+- type: cites
+  target: celex:32012R0261
+  label: null
+  source: http://data.europa.eu/eli/reg/2012/261/oj
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:37:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 42/2013
+
+Decreto-Lei n.º 42/2013
+
+de 22 de março
+
+O Regulamento (UE) n.º <a href="eurlex.asp?ano=2012&id=312R0261" title="Link para Regulamento da Comunidade Europeia">261/2012</a>, do Parlamento Europeu e do Conselho, de 14 de março de 2012, altera o Regulamento (CE) n.º <a href="eurlex.asp?ano=2007&id=307R1234" title="Link para Regulamento da Comunidade Europeia">1234/2007</a>, do Conselho, de 22 de outubro de 2007, que estabelece uma organização comum dos mercados agrícolas e disposições específicas para certos produtos agrícolas, no que diz respeito às relações contratuais no setor do leite e dos produtos lácteos.
+
+Efetivamente, e na sequência, designadamente, das recomendações formuladas pelo Grupo de Peritos de Alto Nível para o Setor Leiteiro, o Regulamento (UE) n.º <a href="eurlex.asp?ano=2012&id=312R0261" title="Link para Regulamento da Comunidade Europeia">261/2012</a>, do Parlamento Europeu e do Conselho, de 14 de março de 2012, adota diversas medidas com os objetivos de reforçar a regulação e a transparência, a estabilização do mercado e a sustentabilidade do mencionado setor, tendo em conta o fim do regime de quotas previsto para o ano de 2015.
+
+De entre as referidas medidas, são definidas regras harmonizadas para o estabelecimento de relações contratuais para a compra e venda de leite cru, tendo os Estados-Membros a faculdade de prever a obrigatoriedade de as entregas de leite cru, efetuadas nos respetivos territórios entre produtores, intermediários e transformadores, serem objeto de contratos reduzidos a escrito.
+
+O Governo promoveu a consulta às entidades representativas do setor, que, de forma unânime, manifestaram o interesse na consagração, a nível nacional, da obrigatoriedade da celebração de contratos escritos para todas as transações de leite cru de vaca, como instrumento de estabilização do mercado.
+
+Com efeito, esta medida pode constituir uma importante ferramenta de regulação, contribuindo para uma maior responsabilização dos diferentes operadores na gestão interna da oferta e na adaptação à procura.
+
+Neste sentido, importa tornar obrigatória a redução a escrito dos contratos de compra e venda de leite cru de vaca, definindo os elementos essenciais dos contratos, bem como as disposições associadas ao acompanhamento e à monitorização, à fiscalização e ao regime sancionatório do disposto no presente decreto-lei.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto e âmbito de aplicação
+
+1 - O presente decreto-lei estabelece o regime aplicável a todos os contratos de compra e venda de leite cru de vaca, adiante designado leite, proveniente de qualquer Estado-Membro da União Europeia, celebrados entre produtores, intermediários e transformadores.
+
+2 - Para efeito do disposto no presente decreto-lei, considera-se «intermediário» toda a empresa que, independentemente da sua forma jurídica, transporte leite de um produtor ou de outro intermediário para um transformador de leite ou para outro intermediário, em que tenha lugar a transferência da propriedade do leite.
+
+###### Artigo 2.º — Obrigatoriedade de celebração de contrato escrito
+
+1 - É obrigatória a celebração de contrato escrito, que contenha os elementos referidos no artigo seguinte, para a compra e venda de leite:
+
+a) Entre produtor e intermediário;
+
+b) Entre produtor e transformador;
+
+c) Entre intermediário e transformador;
+
+d) Entre intermediários;
+
+e) Entre transformadores.
+
+2 - A entrega e a receção do leite pelos produtores, intermediários e transformadores estão condicionadas à prévia celebração de contrato escrito.
+
+###### Artigo 3.º — Elementos do contrato
+
+1 - Do contrato de compra e venda de leite devem constar os seguintes elementos:
+
+a) A identificação das partes;
+
+b) O preço;
+
+c) A quantidade do leite;
+
+d) A calendarização do fornecimento;
+
+e) As modalidades de entrega ou recolha do leite;
+
+f) Os prazos, as condições e os procedimentos de pagamento;
+
+g) A duração do contrato e as respetivas causas de cessação, designadamente por denúncia;
+
+h) As regras aplicáveis em caso de força maior.
+
+2 - Para efeito do disposto na alínea b) do número anterior, no contrato as partes podem estabelecer um preço fixo ou, em alternativa, um preço variável, devendo, neste último caso, indicar a combinação de fatores de cálculo do preço, que podem incluir indicadores que reflitam as alterações das condições de mercado, o volume entregue e a qualidade ou composição do leite entregue.
+
+3 - Os termos e as condições dos elementos do contrato referidos nos números anteriores são regulados por portaria do membro do Governo responsável pela área da agricultura.
+
+###### Artigo 4.º — Contrato-tipo
+
+1 - O contrato-tipo de compra e venda de leite é aprovado por portaria do membro do Governo responsável pela área da agricultura.
+
+2 - A utilização do contrato-tipo, a que se refere o número anterior, é facultativa.
+
+###### Artigo 5.º — Proposta contratual
+
+A celebração do contrato escrito de compra e venda de leite, quando o vendedor for um produtor, é precedida de uma proposta escrita apresentada pelo primeiro comprador, a qual deve conter os elementos referidos no artigo 3.º.
+
+###### Artigo 6.º — Cooperativas
+
+O disposto nos artigos 2.º e 5.º não é aplicável à entrega de leite por um produtor a uma cooperativa, da qual o produtor seja membro, desde que os estatutos ou o regulamento interno da cooperativa contenham disposições que permitam dar cumprimento ao disposto no artigo 3.º.
+
+###### Artigo 7.º — Acompanhamento e monitorização
+
+1 - Sem prejuízo de delegação nas organizações interprofissionais do setor do leite ou nas entidades das administrações das Regiões Autónomas, compete ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), acompanhar e monitorizar a aplicação do disposto no presente decreto-lei e na respetiva regulamentação.
+
+2 - Compete, ainda, ao IFAP, I. P., proceder às notificações previstas no n.º 5 do artigo 185.º-F do Regulamento (CE) n.º <a href="eurlex.asp?ano=2007&id=307R1234" title="Link para Regulamento da Comunidade Europeia">1234/2007</a>, do Conselho, de 22 de outubro de 2007, na redação que lhe foi conferida pelo Regulamento (UE) n.º <a href="eurlex.asp?ano=2012&id=312R0261" title="Link para Regulamento da Comunidade Europeia">261/2012</a>, do Parlamento Europeu e do Conselho, de 14 de março de 2012.
+
+3 - Os compradores de leite devem prestar ao IFAP, I. P., ou às entidades nas quais tenha sido delegada a competência de acompanhamento e monitorização nos termos do n.º 1, a informação necessária ao acompanhamento e à monitorização dos contratos celebrados, de acordo com modelo a aprovar pelo IFAP, I. P., e disponível no seu sítio na Internet.
+
+4 - O disposto no número anterior aplica-se às cooperativas que se prevaleçam da faculdade prevista no artigo anterior.
+
+###### Artigo 8.º — Contraordenações
+
+1 - Constitui contraordenação económica grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):
+
+a) A não celebração de contrato escrito de compra e venda de leite, em violação do disposto no n.º 1 do artigo 2.º;
+
+b) A entrega ou a receção de leite sem prévia celebração de contrato escrito, em violação do disposto no n.º 2 do artigo 2.º;
+
+c) A celebração de um contrato de compra e venda de leite sem um ou mais elementos obrigatórios, em violação do disposto no n.º 1 do artigo 3.º;
+
+d) A falta de indicação no contrato da combinação dos fatores de cálculo do preço, quando este seja variável, em violação do disposto no n.º 2 do artigo 3.º;
+
+e) A celebração de um contrato de compra e venda de leite em violação dos termos e das condições dos elementos do contrato regulados na portaria prevista no n.º 3 do artigo 3.º;
+
+f) O incumprimento das obrigações de prestação de informação por parte dos compradores de leite, em violação do disposto nos n.os 3 e 4 do artigo anterior.
+
+2 - A tentativa e a negligência são puníveis nos termos do RJCE.
+
+3 - (Revogado.)
+
+4 - Consoante a gravidade da contraordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+
+a) Perda de objetos pertencentes ao agente;
+
+b) Interdição do exercício de profissões ou atividades cujo exercício dependa de título público ou autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Suspensão de autorizações, licenças e alvarás.
+
+5 - Às contraordenações económicas previstas no presente decreto-lei é subsidiariamente aplicável o RJCE.
+
+> Alterado pelo/a Artigo 126.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 9.º — Fiscalização, instrução e decisão
+
+1 - Sem prejuízo das competências atribuídas por lei a outras autoridades policiais e fiscalizadoras, a fiscalização do cumprimento do disposto no presente decreto-lei compete, no âmbito das suas atribuições, à Autoridade de Segurança Alimentar e Económica (ASAE).
+
+2 - Quando qualquer autoridade referida no número anterior ou agente de autoridade, no exercício das suas funções de fiscalização, presenciar contraordenação por violação ao disposto no presente decreto-lei, levanta ou manda levantar o correspondente auto de notícia.
+
+3 - Quando o auto de notícia for levantado por entidade diversa da ASAE, o mesmo é-lhe remetido no prazo de 10 dias.
+
+4 - A instrução dos processos de contraordenação compete à ASAE, cabendo ao Inspetor-Geral da ASAE a aplicação das coimas e das sanções acessórias.
+
+###### Artigo 10.º — Distribuição do produto das coimas
+
+1 - O produto das coimas aplicadas pela prática das contraordenações económicas previstas neste diploma é repartido nos termos do RJCE.
+
+2 - O produto das coimas, quando aplicadas nas Regiões Autónomas, constitui receita própria destas.
+
+> Alterado pelo/a Artigo 126.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28
+
+###### Artigo 11.º — Regiões Autónomas
+
+O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sendo as competências de fiscalização, instrução e decisão, previstas no artigo 9.º, exercidas pelas entidades das respetivas administrações regionais com atribuições e competências na matéria.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor em 1 de junho de 2013.
+
+Visto e aprovado em Conselho de Ministros de 14 de fevereiro de 2013. - Pedro Passos Coelho - Paulo Sacadura Cabral Portas - Paula Maria von Hafe Teixeira da Cruz - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 12 de março de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 18 de março de 2013.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

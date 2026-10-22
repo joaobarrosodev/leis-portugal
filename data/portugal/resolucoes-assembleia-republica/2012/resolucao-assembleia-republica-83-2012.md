@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:178535:por
+title: Resolução da Assembleia da República n.º 83/2012
+short_title: null
+summary: Aprova as emendas aos artigos 1.º e 18.º do Acordo Constitutivo do Banco Europeu para a Reconstrução e o Desenvolvimento,
+  que estendem as operações do Banco ao Mediterrâneo Sul e Oriental, em conformidade com as Resoluções n.os 137 e 138, adotadas
+  pelo Conselho de Governadores do Banco, em 30 de setembro de 2011
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 83/2012
+official_date: null
+publication_date: '2012-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 125/2012, Série I de 2012-06-29
+  number: '125'
+  series: I
+  supplement: null
+  pages: 3316 - 3319
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/06/12500/0331603319.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/83/2012/06/29/p/dre/pt/html
+  oj: null
+  dre: '178535'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/83-2012-178535
+  internal: pt:dre:178535:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/83-2012-178535
+  metadata_url: https://data.dre.pt/eli/resolassrep/83/2012/06/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/83-2012-178535
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-06-29T00:00:00Z'
+integrity:
+  source_sha256: 0d8aadb5cf9647d9fe24f9e58f1acd334537b91faccb09c682babb6d59abd45a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-83-178535.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Banco Europeu de Reconstrução e Desenvolvimento
+- Convenção
+- Portugal
+- Iniciativa Privada
+- Integração Económica
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 83/2012
+
+Aprova as emendas aos artigos 1.º e 18.º do Acordo Constitutivo do Banco Europeu para a Reconstrução e o Desenvolvimento, que estendem as operações do Banco ao Mediterrâneo Sul e Oriental, em conformidade com as Resoluções n.os 137 e 138, adotadas pelo Conselho de Governadores do Banco em 30 de setembro de 2011.
+
+A Assembleia da República resolve, nos termos da alínea i) do artigo 161.º e do n.º 5 do artigo 166.º da Constituição, aprovar as emendas aos artigos 1.º e 18.º do Acordo Constitutivo do Banco Europeu para a Reconstrução e o Desenvolvimento, que estendem as operações do Banco ao Mediterrâneo Sul e Oriental, em conformidade com as Resoluções n.os 137 e 138, adotadas pelo Conselho de Governadores do Banco em 30 de setembro de 2011, cujo texto, na versão em língua inglesa e respetiva tradução para língua portuguesa, se publica em anexo.
+
+Aprovada em 18 de maio de 2012.
+
+**A Presidente da Assembleia da República, Maria da Assunção A. Esteves.**
+
+RESOLUTION NO. 137
+
+AMENDMENT OF THE AGREEMENT ESTABLISHING THE EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT IN ORDER TO ENABLE THE BANK TO OPERATE IN COUNTRIES OF THE SOUTHERN AND EASTERN MEDITERRANEAN.
+
+The Board of Governors:
+
+Observing the historic changes occurring in North Africa and the Middle East;
+
+Recalling Resolution no. 134, «Possible Geographic Expansion of the Bank's Region of Operations» adopted on 21 May 2011, by which the Board of Governors asked the Board of Directors to make recommendations to the Board of Governors with respect to, inter alia, an amendment of article 1 of the Agreement Establishing the European Bank for Reconstruction and Development (the Agreement) providing for an appropriate regional extension to the geographic scope of the EBRD's mandate and an appropriate mechanism to grant recipient country status to member countries within such extended region, while ensuring that any such extension should not require additional capital contributions or compromise the agreed scope and impact of the Bank's operations in the existing recipient countries;
+
+Recalling also the confirmation in the Board of Directors' Report on the Fourth Capital Resources Review (CRR4) for the period 2011-2015, which was endorsed by the Board of Governors in Resolution no. 128, that graduation remains a fundamental principle for the Bank;
+
+Having considered and being in agreement with the report of the Board of Directors to the Board of Governors on the Geographic expansion of the Bank's Region of Operations to the Southern and Eastern Mediterranean and its recommendations, inter alia, that the Board of Governors approve an amendment of article 1 of the Agreement in order to enable the Bank to operate in countries of the Southern and Eastern Mediterranean;
+
+now therefore hereby resolves that:
+
+1 - Article 1 of the Agreement be amended to read as follows:
+
+«Article 1
+
+Purpose
+
+In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market-oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics. Subject to the same conditions, the purpose of the Bank may also be carried out in Mongolia and in member countries of the Southern and Eastern Mediterranean as determined by the Bank upon the affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members. Accordingly, any reference in this Agreement and its annexes to 'Central and Eastern European countries', 'countries from Central and Eastern Europe', 'recipient country (or countries)' or 'recipient member country (or countries)' shall refer to Mongolia and each of such countries of the Southern and Eastern Mediterranean as well.»
+
+2 - Members of the Bank be asked whether they accept the said amendment by (a) executing and depositing with the Bank an instrument stating that such member has accepted the said amendment in accordance with its law and (b) furnishing evidence, in form and substance satisfactory to the Bank, that the amendment has been accepted and the instrument of acceptance executed and deposited in accordance with the law of that member.
+
+3 - The said amendment enter into force seven days after the date on which the Bank has formally confirmed to its members that the requirements for accepting the said amendment, as provided for in article 56 of the Agreement Establishing the Bank, have been met.
+
+(Adopted 30 September 2011.)
+
+RESOLUTION NO. 138
+
+AMENDMENT OF THE AGREEMENT ESTABLISHING THE EUROPEAN BANK FOR RECONSTRUCTION AND DEVELOPMENT IN ORDER TO ALLOW THE USE OF SPECIAL FUNDS IN RECIPIENT COUNTRIES AND POTENTIAL RECIPIENT COUNTRIES.
+
+The Board of Governors:
+
+Considering that, in adopting Resolution no. 137, the Board of Governors would approve an amendment of article 1 of the Agreement Establishing the European Bank for Reconstruction and Development (the Agreement) pursuant to which the Bank would be authorized to carry out its purpose in the countries of the Southern and Eastern Mediterranean;
+
+Recalling Resolution no. 134, «Possible Geographic Expansion of the Bank's Region of Operations» adopted on 21 May 2011, by which the Board of Governors asked the Board of Directors to make recommendations to the Board of Governors with respect to, inter alia, possible further steps to allow the Bank's operations to start as early as possible in prospective recipient countries of the extended region;
+
+Having considered and being in agreement with the report of the Board of Directors to the Board of Governors on the Geographic expansion of the Bank's Region of Operations to the Southern and Eastern Mediterranean and its recommendations, inter alia, that the Board of Governors approve an amendment of article 18 of the Agreement in order to enable the Bank to use Special Funds for special operations in potential recipient countries;
+
+now therefore hereby resolves that:
+
+1 - Article 18 of the Agreement be amended to read as follows:
+
+«Article 18
+
+Special Funds
+
+1 - (i) The Bank may accept the administration of Special Funds which are designed to serve the purpose and come within the functions of the Bank in its recipient countries and potential recipient countries. The full cost of administering any such Special Fund shall be charged to that Special Fund.
+
+(ii) For the purposes of subparagraph (i), the Board of Governors may, at the request of a member which is not a recipient country, decide that such member qualifies as a potential recipient country for such limited period and under such terms as may seem advisable. Such decision shall be taken by the affirmative vote of not less than two-thirds of the Governors, representing not less than three-fourths of the total voting power of the members.
+
+(iii) The decision to allow a member to qualify as a potential recipient country can only be made if such member is able to meet the requirements for becoming a recipient country. Such requirements are those set out in article 1 of this Agreement, as it reads at the time of such decision or as it will read upon the entry into force of an amendment that has already been approved by the Board of Governors at the time of such decision.
+
+(iv) If a potential recipient country has not become a recipient country at the end of the period referred to in subparagraph (ii), the Bank shall forthwith cease any special operations in that country, except those incident to the orderly realization, conservation and preservation of the assets of the Special Fund and settlement of obligations that have arisen in connection therewith.
+
+2 - Special Funds accepted by the Bank may be used in its recipient countries and potential recipient countries in any manner and on any terms and conditions consistent with the purpose and functions of the Bank, with the other applicable provisions of this Agreement, and with the agreement or agreements relating to such Funds.
+
+3 - The Bank shall adopt such rules and regulations as may be required for the establishment, administration and use of each Special Fund. Such rules and regulations shall be consistent with the provisions of this Agreement, except for those provisions expressly applicable only to ordinary operations of the Bank.»
+
+2 - Members of the Bank be asked whether they accept the said amendment by (a) executing and depositing with the Bank an instrument stating that such member has accepted the said amendment in accordance with its law and (b) furnishing evidence, in form and substance satisfactory to the Bank, that the amendment has been accepted and the instrument of acceptance executed and deposited in accordance with the law of that member.
+
+3 - The said amendment enter into force seven days after the date on which the Bank has formally confirmed to its members that the requirements for accepting the said amendment, as provided for in article 56 of the Agreement, have been met.
+
+(Adopted 30 September 2011.)
+
+RESOLUÇÃO N.º 137
+
+EMENDA AO ACORDO CONSTITUTIVO DO BANCO EUROPEU PARA A RECONSTRUÇÃO E O DESENVOLVIMENTO PARA O BANCO PODER INTERVIR EM PAÍSES DO MEDITERRÂNEO SUL E ORIENTAL.
+
+O Conselho de Governadores:
+
+Observando as mudanças históricas ocorridas no Norte de África e no Médio Oriente;
+
+Relembrando a Resolução n.º 134, «Possível Alargamento Geográfico da Região de Operações do Banco», adotada a 21 de maio de 2011, na qual o Conselho de Governadores solicitou ao Conselho de Administração que lhe apresentasse recomendações entre outros sobre a introdução de uma emenda ao artigo 1.º do Acordo Constitutivo do Banco Europeu para a Reconstrução e Desenvolvimento (o Acordo), a qual prevê um alargamento regional adequado do âmbito geográfico do mandato do BERD, bem como um mecanismo adequado de atribuição do estatuto de país beneficiário aos países membros dessa região alargada, garantindo simultaneamente que qualquer alargamento desse tipo não irá exigir injeções de capital adicionais ou comprometer o âmbito acordado e o impacto das operações do Banco nos atuais países beneficiários;
+
+Relembrando também a confirmação constante do Relatório do Conselho de Administração sobre a Quarta Revisão de Recursos de Capital (CRR4) para o período 2011-2015, aprovada pela Resolução do Conselho de Governadores n.º 128, de que a graduação continua a ser um princípio fundamental para o Banco;
+
+Tendo analisado e concordando com o relatório que o Conselho de Administração apresentou ao Conselho de Governadores sobre o alargamento do âmbito geográfico da Região de Operações do BERD ao Mediterrâneo Sul e Oriental, bem como as suas recomendações, entre outros, no sentido de o Conselho de Governadores aprovar uma emenda ao artigo 1.º do Acordo para permitir que o Banco possa realizar operações em países do Mediterrâneo Sul e Oriental;
+
+decide por isso que:
+
+1 - O artigo 1.º do Acordo passa a ter a seguinte redação:
+
+«Artigo 1.º
+
+Objeto
+
+Ao contribuir para o progresso e a reconstrução económica dos países da Europa Central e Oriental que se comprometam a respeitar e aplicar os princípios de democracia multipartidária, do pluralismo e da economia de mercado, o objeto do Banco consiste em favorecer a transição das economias desses países para economias de mercado e neles promover a iniciativa privada e o espírito empresarial. Nas mesmas condições, o Banco também pode prosseguir o seu objeto na Mongólia e em países membros do Mediterrâneo Sul e Oriental, conforme determinado pelo Banco mediante voto favorável de pelo menos dois terços dos Governadores representando pelo menos três quartos do poder de voto total dos membros. Assim sendo, qualquer referência neste Acordo e nos seus anexos a 'Países da Europa Central e Oriental', 'país (ou países) beneficiário(s)' ou 'país (ou países) membro(s) beneficiário(s)' deverá ser entendida também como uma referência à Mongólia e a cada um dos referidos países do Mediterrâneo Sul e Oriental.»
+
+2 - O Banco deverá perguntar aos membros se aceitam a referida emenda, devendo essa aceitação ser expressa por meio a) da execução e do depósito junto do Banco de um instrumento no qual o membro declara que aceitou a referida emenda de acordo com o seu direito, e por meio b) da apresentação de prova, considerada pelo Banco satisfatória quanto à forma e ao conteúdo, de que a emenda foi aceite e de que o instrumento de aceitação foi executado e depositado em conformidade com o direito desse membro.
+
+3 - A referida emenda entra em vigor sete dias após a data da confirmação formal pelo Banco aos seus membros de que foram cumpridos os requisitos relativos à aceitação da referida emenda, de acordo com o previsto no artigo 56.º do Acordo Constitutivo do Banco.
+
+(Adotada em 30 de setembro.)
+
+RESOLUÇÃO N.º 138
+
+EMENDA AO ACORDO CONSTITUTIVO DO BANCO EUROPEU PARA A RECONSTRUÇÃO E O DESENVOLVIMENTO A FIM DE PERMITIR A UTILIZAÇÃO DE FUNDOS ESPECIAIS EM PAÍSES BENEFICIÁRIOS E POTENCIAIS PAÍSES BENEFICIÁRIOS.
+
+O Conselho de Governadores:
+
+Considerando que, ao adotar a Resolução n.º 137, o Conselho de Governadores aprova uma emenda ao artigo 1.º do Acordo Constitutivo do Banco Europeu para a Reconstrução e Desenvolvimento (o Acordo), nos termos da qual o Banco fica autorizado a prosseguir o seu objeto nos países do Mediterrâneo Sul e Oriental;
+
+Relembrando a Resolução n.º 134, «Possível Alargamento Geográfico da Região de Operações do Banco», adotada a 21 de maio de 2011, na qual o Conselho de Governadores solicitou ao Conselho de Administração que lhe apresentasse recomendações entre outros sobre a adoção de eventuais novas medidas que permitam ao Banco iniciar o mais cedo possível as suas operações em potenciais países beneficiários da região alargada;
+
+Tendo analisado e concordando com o relatório que o Conselho de Administração apresentou ao Conselho de Governadores sobre o alargamento do âmbito geográfico da Região de Operações do BERD ao Mediterrâneo Sul e Oriental, bem como as suas recomendações, entre outros, no sentido de o Conselho de Governadores aprovar uma emenda ao artigo 18.º do Acordo para permitir que o Banco possa utilizar fundos especiais para operações especiais em potenciais países beneficiários;
+
+decide por isso que:
+
+1 - O artigo 18.º do Acordo passa a ter a seguinte redação:
+
+«Artigo 18.º
+
+Fundos especiais
+
+1 - i) O Banco deverá aceitar a administração de fundos especiais destinados a servir o objeto e as funções do Banco nos seus países beneficiários e potenciais países beneficiários. O custo total de administrar qualquer fundo especial deverá ser imputado ao mesmo.
+
+ii) Para efeitos da alínea i), o Conselho de Governadores pode, a pedido de um membro não-beneficiário, decidir que um tal membro é elegível como potencial país beneficiário, pelo período de tempo e nas condições considerados adequados. Tal decisão deverá tomada mediante voto favorável de pelo menos dois terços dos Governadores representando pelo menos três quartos do poder de voto total dos membros.
+
+iii) A decisão de permitir que um membro se torne um potencial país beneficiário apenas pode ser tomada se esse membro reunir as condições para tal. Essas condições são as enunciadas no artigo 1.º do presente Acordo, com a redação vigente à data da tomada da decisão em causa ou com a redação que vier a ter à data da entrada em vigor de uma emenda já aprovada pelo Conselho de Governadores aquando da tomada dessa decisão.
+
+iv) Se um potencial país beneficiário não se tiver tornado num país beneficiário no final do período referido na alínea ii), o Banco deverá de imediato pôr termo a todas as operações especiais nesse país, com exceção das que se referem à realização, conservação e proteção, levadas a cabo de forma ordenada, dos ativos do fundo especial e à liquidação das obrigações contraídas em relação com esse fundo.
+
+2 - Os fundos especiais aceites pelo Banco podem ser utilizados nos seus países beneficiários e nos potenciais países beneficiários sob qualquer forma e em quaisquer condições e modalidades compatíveis com o objeto e funções do Banco, de acordo com quaisquer outras disposições aplicáveis do presente Acordo e com e com o(s) acordo(s) relativo(s) a tais fundos.
+
+3 - O Banco deverá adotar as regras e os regulamentos necessários à criação, gestão e utilização de cada fundo especial. Estas regras e estes regulamentos deverão ser compatíveis com as disposições do presente Acordo, com exceção das que se aplicam expressa e exclusivamente às operações correntes do Banco.»
+
+2 - O Banco deverá perguntar aos membros se aceitam a referida emenda, devendo essa aceitação ser expressa por meio a) da execução e do depósito junto do Banco de um instrumento no qual o membro declara que aceitou a referida emenda de acordo com o seu direito, e por meio b) da apresentação de prova, considerada pelo Banco satisfatória quanto à forma e ao conteúdo, de que a emenda foi aceite e de que o instrumento de aceitação foi executado e depositado em conformidade com o direito desse membro.
+
+3 - A referida emenda entra em vigor sete dias após a data da confirmação formal pelo Banco aos seus membros de que foram cumpridos os requisitos relativos à aceitação da referida emenda, de acordo com o previsto no artigo 56.º do Acordo Constitutivo do Banco.
+
+(Adotada em 30 de setembro.)

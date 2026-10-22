@@ -1,0 +1,686 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:493481:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-156566057",
+ "dre_path": "/dr/detalhe/decreto-lei/184-2009-493481",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-08-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156690807",
+    "156690808",
+    "156690809",
+    "156690810",
+    "156690811",
+    "156690812",
+    "156690813",
+    "156690814",
+    "156690815",
+    "156690816",
+    "156690817",
+    "156690818",
+    "156690819",
+    "156690820",
+    "156690821",
+    "156690822",
+    "156690823",
+    "156690824",
+    "156690825",
+    "156690826",
+    "156690827",
+    "156690828",
+    "156690829",
+    "156690830",
+    "156690831",
+    "156690832",
+    "156690833",
+    "156690834",
+    "156690835",
+    "156690836",
+    "156690837",
+    "156690838",
+    "156690839",
+    "156690840",
+    "156690841",
+    "156690842",
+    "156690843",
+    "156690844",
+    "156690845",
+    "156690846",
+    "156690847",
+    "156690848",
+    "156690849",
+    "156690850",
+    "156690851",
+    "156690852",
+    "156690853",
+    "156690854",
+    "156690855",
+    "156690856",
+    "156690857",
+    "156690858",
+    "156690859",
+    "156690860",
+    "156690861",
+    "156690862",
+    "156690863",
+    "156690864",
+    "156690865",
+    "156690866",
+    "156690867",
+    "156690868"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 36.º",
+    "Altera Artigo 39.º"
+   ],
+   "fragments": [
+    "156690807",
+    "156690808",
+    "156690809",
+    "156690810",
+    "156690811",
+    "156690812",
+    "156690813",
+    "156690814",
+    "156690815",
+    "156690816",
+    "156690817",
+    "156690818",
+    "156690819",
+    "156690820",
+    "156690821",
+    "156690822",
+    "156690823",
+    "156690824",
+    "156690825",
+    "156690826",
+    "156690827",
+    "156690828",
+    "156690829",
+    "156690830",
+    "156690831",
+    "156690832",
+    "156690833",
+    "156690834",
+    "156690835",
+    "156690836",
+    "156690837",
+    "156690838",
+    "156690839",
+    "156690840",
+    "156690841",
+    "156690842",
+    "156690843",
+    "156690844",
+    "156690845",
+    "156690846",
+    "156690847",
+    "156690848",
+    "156690849",
+    "156690850",
+    "156690851",
+    "156690852",
+    "156690853",
+    "156690854",
+    "156690855",
+    "156690856",
+    "156690857",
+    "156690858",
+    "156690872",
+    "156690860",
+    "156690861",
+    "156690873",
+    "156690863",
+    "156690864",
+    "156690865",
+    "156690866",
+    "156690867",
+    "156690868",
+    "156690869"
+   ]
+  }
+ ],
+ "fragments": {
+  "156690807": {
+   "fragment_id": "156566058",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 184/2009\n\nde 11 de Agosto\n\nA sociedade actual atribui uma importância crescente aos animais de companhia, atendendo aos seus reconhecidos contributos para a estabilidade emocional e o relacionamento nas mais variadas classes etárias, o que constitui um fenómeno de extrema relevância social.\n\nTambém o contacto com as espécies domésticas ou outras das faunas silvestre e exótica, para além dos interesses técnicos, de produção e conservação, pode representar uma fonte de conhecimento da realidade natural, constituindo nos nossos dias pretexto para a aproximação à vida rural ou à natureza, através de visitas a parques biológicos de recuperação, zoológicos ou outros.\n\nContudo, quando estes animais não são convenientemente cuidados e tratados podem constituir riscos reconhecidos para a saúde humana, para a saúde animal e para o ambiente. Neste contexto, e a fim de garantir os direitos ao bem-estar animal e à protecção contra zoonoses, os animais devem ser submetidos a adequadas medidas profilácticas e terapêuticas, devendo ser sujeitos a um acompanhamento médico-veterinário periódico em condições que garantam um nível qualitativo de atendimento aferido por padrões de equidade e consistência, técnica e científica.\n\nO presente decreto-lei vem regulamentar a actividade dos centros de atendimento médico-veterinários (CAMV), como unidades de saúde animal onde se prestam serviços de prevenção, diagnóstico e tratamento das doenças dos animais, tendo em vista promover a qualidade e segurança dos estabelecimentos, bem como estabelecer os requisitos exigíveis quanto a instalações e equipamentos e as regras relativas ao seu funcionamento.\n\nOs CAMV podem ser classificados como consultórios, clínicas ou hospitais veterinários.\n\nPara os consultórios veterinários, é estabelecido um procedimento de declaração prévia ao início do seu funcionamento, respondendo a princípios de agilização e de simplificação processual. Nas clínicas e hospitais veterinários, para além das actividades e serviços prestados nos consultórios, podem ainda ser realizadas grandes cirurgias, pelo que estes estabelecimentos requerem um procedimento mais exigente, de autorização prévia de funcionamento. Prevê-se, também, a realização de uma vistoria aos locais onde a referida assistência será prestada, bem como a inspecção periódica dos referidos estabelecimentos.\n\nQuer no âmbito do procedimento de declaração prévia, quer no caso da autorização prévia, pode iniciar-se o exercício da actividade dos CAMV decorrido o prazo fixado na lei sem que tenha havido a intervenção da Administração, sem prejuízo das normas de responsabilidade aplicáveis.\n\nO presente decreto-lei vem substituir o regime actualmente existente, o qual obriga ao requerimento de duas licenças de funcionamento para a mesma actividade, uma a conceder pela Direcção-Geral de Veterinária e outra pela câmara municipal da área da localização. Procede-se, assim, a uma simplificação administrativa e legislativa, com inegáveis vantagens para o sector em causa.\n\nQuer no âmbito do procedimento de declaração prévia, quer no caso da autorização prévia, prevê-se a concessão dos pedidos de funcionamento dos centros de atendimento médico-veterinários, por deferimento tácito, em caso de decurso dos prazos previstos, sem que exista uma decisão da Administração.\n\nO presente decreto-lei foi, ainda, ajustado ao disposto na Directiva n.º <a href=\"eurlex.asp?ano=2006&id=306L0123\" title=\"Link para Directiva da Comunidade Europeia\">2006/123/CE</a>, do Parlamento Europeu e do Conselho, de 12 de Dezembro de 2006, relativa aos serviços no mercado interno, prevendo-se que o pedido de declaração ou autorização prévia de funcionamento possa ser realizado num balcão único ou por correio electrónico.\n\nO Sistema de Informação do Mercado Interno (IMI), criado pela Comissão Europeia em conjunto com os Estados-membros - que consiste numa base de dados das entidades competentes de todo o Espaço Económico Europeu que participam, no dia-a-dia, na aplicação da legislação sobre o mercado interno nos seus respectivos territórios - tem igualmente relevância no âmbito presente decreto-lei, dado, tal base de dados, oferecer possibilidades de pesquisa multilingue que ajudam as autoridades competentes a encontrar o interlocutor adequado, tendo em conta que a utilização do IMI não obriga ao conhecimento prévio da estrutura administrativa dos outros Estados-membros.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Ordem dos Médicos Veterinários.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "156690808": {
+   "fragment_id": "156566059",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "156690809": {
+   "fragment_id": "156566060",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - O presente decreto-lei estabelece o regime jurídico aplicável ao exercício da actividade dos centros de atendimento médico-veterinários (CAMV) e os respectivos requisitos quanto a instalações, organização e funcionamento.\n\n2 - O presente decreto-lei não é aplicável aos centros de recolha, canis e gabinetes médico-veterinários municipais, explorações pecuárias, parques zoológicos, instalações para hospedagem ou outros locais onde estejam alojados animais destinados a fins científicos, policiais, militares, educativos, desportivos ou de lazer, nos termos da legislação aplicável."
+  },
+  "156690810": {
+   "fragment_id": "156566061",
+   "type": 11,
+   "heading": "Artigo 2.º — Actividade dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Actividade dos CAMV\n\n1 - A actividade dos CAMV compreende a actividade prestada em todo o estabelecimento que, independentemente da designação e da forma jurídica adoptada, tenha por objecto a prestação de serviços médico-veterinários em animais, incluindo os de prevenção, diagnóstico e tratamento das suas doenças, bem como acções no âmbito da reprodução, nutrição, bem-estar animal e, ainda, de outras legalmente atribuídas neste âmbito ao médico veterinário.\n\n2 - É proibida a prática nos CAMV, a título remunerado ou gratuito, de qualquer actividade ou prestação de serviço médico-veterinário ao público, para além dos previstos no número anterior."
+  },
+  "156690811": {
+   "fragment_id": "156566062",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Alojamento», qualquer instalação, edifício, grupo de edifícios ou outro local, podendo incluir zona não completamente fechada, onde os animais sejam mantidos;\n\nb) «Animal de companhia», qualquer animal, incluindo espécies exóticas, detido ou destinado a ser detido pelo homem, designadamente no seu lar, para seu entretenimento e companhia;\n\nc) «Autoridade sanitária veterinária nacional», a Direcção-Geral de Veterinária (DGV);\n\nd) «Bem-estar animal», estado de equilíbrio fisiológico e etológico animal;\n\ne) «Espécie animal da fauna portuguesa e exótica», qualquer espécime animal vivo pertencente à fauna nacional ou exótica;\n\nf) «Internamento com fins médico veterinários», hospedagem de animais em CAMV, durante um período limitado, necessário ao seu tratamento ou restabelecimento."
+  },
+  "156690812": {
+   "fragment_id": "156566063",
+   "type": 1,
+   "heading": "Capítulo II — Classificação e condições gerais de funcionamento dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Classificação e condições gerais de funcionamento dos CAMV"
+  },
+  "156690813": {
+   "fragment_id": "156566064",
+   "type": 8,
+   "heading": "Secção I — Tipologia e actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Tipologia e actividades"
+  },
+  "156690814": {
+   "fragment_id": "156566065",
+   "type": 11,
+   "heading": "Artigo 4.º — Classificação dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Classificação dos CAMV\n\nPara efeitos do presente decreto-lei, os CAMV classificam-se em:\n\na) Consultório médico-veterinário, adiante designado por consultório;\n\nb) Clínica médico-veterinária, adiante designada por clínica;\n\nc) Hospital médico-veterinário, adiante designado por hospital."
+  },
+  "156690815": {
+   "fragment_id": "156566066",
+   "type": 11,
+   "heading": "Artigo 5.º — Actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actividades\n\n1 - Nos consultórios apenas podem ser exercidas as seguintes actividades médico-veterinárias:\n\na) Consulta externa;\n\nb) Profilaxia, que inclui alimentação, dietética, higiene, higiene oral, controlo de reprodução, desparasitação externa e interna, vacinação e outras;\n\nc) Terapêutica clínica que não necessite de internamento do animal;\n\nd) Pequena cirurgia, sendo consideradas as intervenções que apenas necessitam de tranquilização ou analgesia, ou outro tipo de cirurgia desde que possua sala de cirurgia independente;\n\ne) Colheitas e ou análise de amostras;\n\nf) Exames clínicos complementares para os quais estiver tecnicamente equipado;\n\ng) Identificação animal;\n\nh) Assistência imediata a casos urgentes de qualquer natureza, os quais devem ser encaminhados para uma clínica ou hospital se a sua natureza exceder a competência do consultório.\n\n2 - Nas clínicas apenas podem ser exercidas actividades médico-veterinárias terapêuticas de grande cirurgia para as quais estejam adequadamente equipadas, para além daquelas indicadas no número anterior.\n\n3 - Nos hospitais podem ser exercidas as actividades e intervenções médico-veterinárias para as quais se encontrem devidamente equipados, incluindo as que necessitem de hospedagem com fins médico-veterinários, com garantias de qualidade e segurança para os animais e para os humanos, para além das indicadas nos números anteriores."
+  },
+  "156690816": {
+   "fragment_id": "156566067",
+   "type": 11,
+   "heading": "Artigo 6.º — Exercício das actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Exercício das actividades\n\n1 - As actividades médico-veterinárias exercidas nos CAMV são da exclusiva responsabilidade individual do médico veterinário que as realiza, com excepção das relacionadas com a estética e limpeza corporal externa dos animais e com a cedência de alimentos e de produtos para uso veterinário.\n\n2 - As actividades e serviços mencionados no número anterior devem assegurar a qualidade exigida às boas práticas médico-veterinárias e à saúde e bem-estar dos animais a que se destinem."
+  },
+  "156690817": {
+   "fragment_id": "156566068",
+   "type": 11,
+   "heading": "Artigo 7.º — Liberdade de escolha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Liberdade de escolha\n\nOs CAMV e os profissionais que nestes prestam serviço estão sujeitos ao princípio da liberdade de escolha por parte dos utentes, devendo os profissionais abster-se de praticar quaisquer actos que o ponham em causa."
+  },
+  "156690818": {
+   "fragment_id": "156566069",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de cooperação\n\nOs CAMV, bem como os médicos veterinários que nestes prestam serviço, devem colaborar com a autoridade sanitária veterinária nacional nas acções e programas de saúde animal e de defesa da saúde pública."
+  },
+  "156690819": {
+   "fragment_id": "156566070",
+   "type": 8,
+   "heading": "Secção II — Condições gerais de instalação dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições gerais de instalação dos CAMV"
+  },
+  "156690820": {
+   "fragment_id": "156566071",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições físicas de instalação dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições físicas de instalação dos CAMV\n\n1 - Os CAMV devem situar-se em meios físicos salubres, de fácil acessibilidade e que disponham de infra-estruturas de abastecimento de água, de sistema de recolha de águas residuais e de resíduos, de energia eléctrica e de telecomunicações de acordo com a legislação em vigor.\n\n2 - Os proprietários dos CAMV são responsáveis pela manutenção da limpeza das áreas interiores e exteriores, considerando-se, neste último caso, as frentes de acesso para a via pública a contar das fachadas das instalações."
+  },
+  "156690821": {
+   "fragment_id": "156566072",
+   "type": 11,
+   "heading": "Artigo 10.º — Características gerais das estruturas de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Características gerais das estruturas de construção\n\nAs paredes, tectos, divisórias, portas e o revestimento do pavimento das diferentes áreas dos CAMV devem permitir a manutenção de um grau de higiene, desinfecção, isolamento e ventilação compatíveis com a actividade a que se destinam."
+  },
+  "156690822": {
+   "fragment_id": "156566073",
+   "type": 11,
+   "heading": "Artigo 11.º — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instalações\n\n1 - A actividade dos CAMV deve ser exercida em instalações exclusivamente destinadas a esse fim, com acesso directo e privativo à via pública e sem comunicações directas com quaisquer outros estabelecimentos ou casas de habitação.\n\n2 - De forma a assegurar as condições necessárias ao exercício da sua actividade, designadamente, a qualidade técnica do serviço prestado e dos exames efectuados, os CAMV devem dispor de instalações e equipamentos adequados.\n\n3 - Para efeitos do disposto no número anterior, os CAMV devem dispor, no mínimo, de uma área clínica composta por gabinete clínico e de uma área não clínica que compreenda uma sala de espera e instalações sanitárias, devidamente iluminadas e ventiladas."
+  },
+  "156690823": {
+   "fragment_id": "156566074",
+   "type": 11,
+   "heading": "Artigo 12.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Identificação\n\n1 - Os CAMV devem ter a identificação da respectiva tipologia, de forma visível do exterior das suas instalações.\n\n2 - A designação do CAMV inclui, obrigatoriamente, a classificação que lhe corresponde nos termos do artigo 4.º, não podendo estabelecer qualquer tipo de equívoco ou contradição."
+  },
+  "156690824": {
+   "fragment_id": "156691275",
+   "type": 11,
+   "heading": "Artigo 13.º — Publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Publicidade\n\nA publicidade efectuada pelos CAMV deve respeitar as regras profissionais, nacionais e comunitárias, que visam garantir a independência, a dignidade e a integridade da profissão, bem como o sigilo profissional."
+  },
+  "156690825": {
+   "fragment_id": "156691276",
+   "type": 11,
+   "heading": "Artigo 14.º — Informação aos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informação aos utentes\n\n1 - Devem ser afixados no CAMV, em local bem visível e acessível aos utentes, o horário de funcionamento, a lista de pessoal que presta serviço e a tabela de honorários de serviços básicos, bem como o regulamento interno no caso dos hospitais.\n\n2 - Deve ainda ser afixada, em local bem visível, informação sobre a existência de livro de reclamações.\n\n3 - No atendimento ao público, os médicos veterinários e os seus assistentes técnicos devem estar identificados com o seu nome profissional e a respectiva categoria profissional."
+  },
+  "156690826": {
+   "fragment_id": "156691277",
+   "type": 8,
+   "heading": "Secção III — Direcção clínica dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Direcção clínica dos CAMV"
+  },
+  "156690827": {
+   "fragment_id": "156691278",
+   "type": 11,
+   "heading": "Artigo 15.º — Director clínico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Director clínico\n\n1 - O CAMV é tecnicamente orientado por um director clínico, médico veterinário, acreditado para o efeito pela Ordem dos Médicos Veterinários (OMV), que aí presta regularmente serviço.\n\n2 - Cada director clínico só pode assumir a responsabilidade de um hospital ou de um máximo de dois consultórios ou clínicas, garantindo a sua presença física que assegure a qualidade dos tratamentos adequados, devendo ser substituído nos seus impedimentos e ausências por outro médico veterinário.\n\n3 - Em caso de incapacidade ou indisponibilidade do director clínico para o exercício das suas funções, deve o CAMV proceder imediatamente à sua substituição e informar a DGV de acordo com o disposto no presente decreto-lei.\n\n4 - Compete ao director clínico, para além da direcção técnica e da responsabilidade pelo funcionamento do CAMV, zelar designadamente pelos aspectos organizacionais, nomeadamente:\n\na) Designar, internamente, o seu substituto durante as suas ausências ou impedimentos;\n\nb) Zelar pelo cumprimento das boas práticas médico-veterinárias e das disposições éticas, deontológicos e legais, sem prejuízo da independência e responsabilidade individual do médico veterinário;\n\nc) Coordenar o cumprimento das normas estabelecidas quanto à terapêutica dos animais em regime de internamento e as normas sanitárias que lhes são aplicáveis;\n\nd) Estabelecer as normas referentes à protecção da saúde e à segurança do pessoal, bem como as referentes à protecção do ambiente e da saúde pública, designadamente as referentes aos resíduos, e velar pelo seu cumprimento;\n\ne) Fornecer instruções sobre a manutenção dos equipamentos e periodicidade das respectivas verificações, sempre que solicitado;\n\nf) Assegurar a disponibilidade dos materiais, medicamentos e produtos necessários ao funcionamento do CAMV;\n\ng) Garantir a qualificação técnico profissional adequada para o desempenho das funções técnicas necessárias."
+  },
+  "156690828": {
+   "fragment_id": "156691279",
+   "type": 1,
+   "heading": "Capítulo III — Requisitos específicos dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Requisitos específicos dos CAMV"
+  },
+  "156690829": {
+   "fragment_id": "156691280",
+   "type": 8,
+   "heading": "Secção I — Consultório médico-veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Consultório médico-veterinário"
+  },
+  "156690830": {
+   "fragment_id": "156691281",
+   "type": 11,
+   "heading": "Artigo 16.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Requisitos\n\nO consultório deve preencher, cumulativamente, os seguintes requisitos:\n\na) Dispor de uma área útil mínima de 25 m2;\n\nb) Dispor de instalações sanitárias com acesso pela área não clínica;\n\nc) Possuir sala de espera e sala de consulta independentes, devendo a primeira dispor de, pelo menos, lugares sentados para os utentes e a segunda de lavatório com água corrente e equipamentos de higiene das mãos não reutilizáveis;\n\nd) Dispor de equipamento adequado aos exames e intervenções que pratica por rotina;\n\ne) Dispor de rede de frio para conservação de produtos biológicos, reagentes ou outros que exijam temperaturas baixas, bem como de armários e ou compartimentos para arrumação, conservação e separação apropriadas, em função da sua natureza, dos diversos produtos e materiais;\n\nf) Possuir contrato válido para a recolha de resíduos;\n\ng) Garantir durante todo o horário de funcionamento a presença permanente de, pelo menos, um médico veterinário."
+  },
+  "156690831": {
+   "fragment_id": "156691282",
+   "type": 8,
+   "heading": "Secção II — Clínica médico-veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Clínica médico-veterinária"
+  },
+  "156690832": {
+   "fragment_id": "156691283",
+   "type": 11,
+   "heading": "Artigo 17.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Requisitos\n\n1 - À excepção da área útil que deve ser adequada e compatível com o atendimento, a clínica deve preencher cumulativamente os requisitos exigidos para o consultório nos termos do artigo anterior.\n\n2 - A clínica deve, ainda, preencher os seguintes requisitos:\n\na) Possuir zona de recepção, que pode estar englobada em sala de espera;\n\nb) Possuir sala de cirurgia independente da sala de consultas;\n\nc) Dispor de zona apropriada para a preparação e esterilização de material;\n\nd) Possuir zona de recobro, dotada de meios adequados que evitem deambulação ou fuga dos animais e que assegure, pelo menos, ventilação, temperatura, protecção e sossego apropriados;\n\ne) Dispor de local de armazenagem de material, medicamentos e outros produtos;\n\nf) Dispor de equipamento médico e de meios auxiliares de diagnóstico adequado à execução de exames de rotina e específicos, bem como outro equipamento cirúrgico adaptado à terapêutica utilizada;\n\ng) Praticar um horário de atendimento ao público de, pelo menos, trinta horas semanais, podendo, em circunstâncias devidamente justificadas perante a DGV, ser reduzido a um período não inferior a vinte horas semanais."
+  },
+  "156690833": {
+   "fragment_id": "156691284",
+   "type": 8,
+   "heading": "Secção III — Hospital médico-veterinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Hospital médico-veterinário"
+  },
+  "156690834": {
+   "fragment_id": "156691285",
+   "type": 11,
+   "heading": "Artigo 18.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Requisitos\n\n1 - O hospital deve preencher cumulativamente as condições exigidas para a clínica médico-veterinária nos termos dos artigos 16.º e 17.º\n\n2 - O hospital deve, ainda dispor de:\n\na) Sala de tratamentos;\n\nb) Sala para isolamento sanitário;\n\nc) Sala para laboratório;\n\nd) Instalações para hospedagem com fins médico-veterinários, devidamente insonorizados, com espaços distintos e apropriados para canídeos, felídeos e outros;\n\ne) Sala de pessoal, com vestiário;\n\nf) Instalações sanitárias para uso do pessoal;\n\ng) Um serviço permanente de urgências que garanta também a prestação de cuidados permanentes aos pacientes em regime de internamento;\n\nh) Regulamento interno elaborado pelo director clínico, do qual conste, pelo menos, o seguinte:\n\ni) Identificação do director clínico, bem como dos restantes médicos veterinários;\n\nii) Estrutura organizacional;\n\niii) Normas de funcionamento, designadamente do serviço de urgências e internamento;\n\niv) Normas de utilização dos serviços dirigidas aos detentores de animais utentes do hospital."
+  },
+  "156690835": {
+   "fragment_id": "156691286",
+   "type": 1,
+   "heading": "Capítulo IV — Do exercício da actividade e funcionamento dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Do exercício da actividade e funcionamento dos CAMV"
+  },
+  "156690836": {
+   "fragment_id": "156691287",
+   "type": 8,
+   "heading": "Secção I — Normas gerais do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Normas gerais do procedimento"
+  },
+  "156690837": {
+   "fragment_id": "156691288",
+   "type": 11,
+   "heading": "Artigo 19.º — Procedimento para o exercício da actividade e funcionamento dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Procedimento para o exercício da actividade e funcionamento dos CAMV\n\n1 - O exercício da actividade dos CAMV fica sujeito a:\n\na) Declaração prévia, para os consultórios;\n\nb) Autorização prévia, para as clínicas e os hospitais.\n\n2 - Os veículos destinados, em exclusivo, ao transporte de emergência de animais que careçam de cuidados médico-veterinários assistidos, bem como o comércio de alimentos para animais e outros produtos cedidos no âmbito da respectiva actividade, são autorizados no âmbito do procedimento a que estiver sujeito o CAMV a que respeitam.\n\n3 - É proibida a abertura e o funcionamento de locais, instalações ou estabelecimentos de qualquer natureza, designadamente centros de atendimento ou outros, nos quais, a título remunerado ou gratuito, sejam desenvolvidas quaisquer actividades ou serviços médico-veterinários sem que tenha sido observado o procedimento respectivo, nos termos dos números anteriores.\n\n4 - Os procedimentos previstos no presente decreto-lei não dispensam os previstos no regime jurídico da urbanização e edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro."
+  },
+  "156690838": {
+   "fragment_id": "156691289",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições para o exercício da actividade e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições para o exercício da actividade e funcionamento\n\nÉ condição para o exercício da actividade e funcionamento dos CAMV o cumprimento dos requisitos em matéria de instalações, equipamentos, organização e funcionamento previstos no presente decreto-lei e no capítulo iii do Decreto-Lei n.º 276/2001, de 17 de Outubro, alterado pelo Decreto-Lei n.º 315/2003, de 17 de Dezembro."
+  },
+  "156690839": {
+   "fragment_id": "156691290",
+   "type": 11,
+   "heading": "Artigo 21.º — Reconhecimento mútuo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reconhecimento mútuo\n\nNão pode haver duplicação entre as condições exigíveis para o preenchimento do procedimento de declaração prévia ou de autorização prévia, previstos nos termos do presente decreto-lei, relativas a um novo CAVM, e os requisitos e os controlos equivalentes, ou comparáveis quanto à finalidade, a que o requerente já tenha sido submetido noutro Estado-membro ou no mesmo Estado-membro."
+  },
+  "156690840": {
+   "fragment_id": "156691291",
+   "type": 11,
+   "heading": "Artigo 22.º — Formulários, notificações e publicitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Formulários, notificações e publicitação\n\n1 - Os formulários dos requerimentos previstos no presente decreto-lei são disponibilizados no sítio da Internet da DGV e podem ser entregues nas direcções de serviços veterinários regionais ou remetidos por via electrónica.\n\n2 - As comunicações mantidas para efeitos do presente decreto-lei são feitas, preferencialmente, por via electrónica.\n\n3 - A DGV divulga no respectivo sítio da Internet a lista dos CAMV em exercício de actividade."
+  },
+  "156690841": {
+   "fragment_id": "156691292",
+   "type": 8,
+   "heading": "Secção II — Regime de declaração prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Regime de declaração prévia"
+  },
+  "156690842": {
+   "fragment_id": "156691293",
+   "type": 11,
+   "heading": "Artigo 23.º — Declaração prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Declaração prévia\n\n1 - Para o início do exercício da actividade de um consultório, o requerente apresenta à DGV um formulário de declaração prévia, o qual inclui:\n\na) Elementos de identificação do requerente;\n\nb) Caracterização das actividades a exercer;\n\nc) Identidade do director clínico.\n\n2 - O formulário é acompanhado dos seguintes documentos:\n\na) Termo de responsabilidade subscrito pelo requerente, no qual declara preencher as condições e os requisitos previstos nos artigos 5.º a 16.º e na demais legislação e regulamentação aplicáveis;\n\nb) Planta e memória descritiva do consultório;\n\nc) Comprovativo do pagamento da taxa referida no artigo 34.º\n\n3 - Caso o formulário seja apresentado por via electrónica, é enviado pela DGV um recibo de recepção para o endereço electrónico do remetente, considerando-se a data de envio como a data de apresentação da declaração prévia.\n\n4 - Se for detectada a falta ou desconformidade de algum dos elementos ou documentos referidos nos n.os 1 e 2, a DGV solicita ao requerente, no prazo de cinco dias a contar da data da recepção do formulário, a junção dos elementos ou documentos em falta, fixando um prazo, improrrogável, não superior a 10 dias, ficando suspensos, durante esse período, os termos ulteriores do processo.\n\n5 - O processo só se encontra devidamente instruído na data da recepção do último dos elementos em falta.\n\n6 - A rejeição da declaração prévia pode ocorrer no prazo de 20 dias a contar da recepção do formulário referido no n.º 1, ou dos elementos referidos no n.º 4, de forma fundamentada, designadamente por incumprimento dos requisitos legais ou enquadramento manifestamente deficiente quanto à tipologia do consultório."
+  },
+  "156690843": {
+   "fragment_id": "156691294",
+   "type": 11,
+   "heading": "Artigo 24.º — Início do exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Início do exercício da actividade\n\n1 - Decorrido o prazo previsto no n.º 6 do artigo anterior, sem que tenha existido rejeição da declaração prévia, o requerente pode iniciar o exercício da actividade do consultório.\n\n2 - O requerente pode, a título facultativo, solicitar à DGV a emissão de documento que comprove tal facto, não havendo lugar ao pagamento de qualquer taxa pela sua emissão e envio.\n\n3 - O requerente deve comunicar à DGV a data em que inicia o exercício da actividade, com uma antecedência mínima de cinco dias."
+  },
+  "156690844": {
+   "fragment_id": "156691295",
+   "type": 8,
+   "heading": "Secção III — Regime de autorização prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Regime de autorização prévia"
+  },
+  "156690845": {
+   "fragment_id": "156691296",
+   "type": 11,
+   "heading": "Artigo 25.º — Autorização prévia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Autorização prévia\n\n1 - Para o início do exercício da actividade de uma clínica ou de um hospital, o requerente apresenta à DGV um formulário de autorização prévia, o qual inclui:\n\na) O nome ou a denominação social e demais elementos identificativos do requerente;\n\nb) A indicação da residência ou sede social;\n\nc) O número de identificação fiscal ou de pessoa colectiva;\n\nd) A localização da clínica ou do hospital e sua designação;\n\ne) A identificação do director clínico, bem como a menção do exercício de funções noutro CAMV, se for caso disso;\n\nf) A classificação proposta para a clínica ou hospital, nos termos do presente decreto-lei.\n\n2 - O requerimento é acompanhado dos seguintes documentos:\n\na) Cópia simples da certidão do registo comercial ou código de acesso à certidão permanente do registo comercail, quando se trate de entidade sujeita a registo comercial;\n\nb) Cópia da licença de utilização das instalações onde vai funcionar a clínica ou o hospital;\n\nc) Programa funcional, memória descritiva e planta das instalações da clínica ou o hospital;\n\nd) Projecto de regulamento interno, quando for caso disso;\n\ne) Comprovativo do pagamento das taxas devidas."
+  },
+  "156690846": {
+   "fragment_id": "156691297",
+   "type": 11,
+   "heading": "Artigo 26.º — Instrução do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Instrução do processo\n\n1 - Compete à direcção de serviços veterinários da região de localização da clínica ou do hospital a instrução do processo de autorização de funcionamento.\n\n2 - Para os efeitos previstos no número anterior, o serviço instrutor pode solicitar, uma única vez aos requerentes, todos os esclarecimentos adicionais que em cada caso considere necessários à apreciação do processo.\n\n3 - Em caso de fundadas dúvidas sobre os dados apresentados pelo requerente, o serviço instrutor pode requerer a exibição de documentos comprovativos dos referidos dados, para além daqueles mencionados no n.º 2 do artigo anterior.\n\n4 - O cumprimento dos requisitos necessários à atribuição de autorização de funcionamento é verificado através de vistoria a efectuar por uma comissão técnica de classificação (CTC) no prazo de 20 dias a contar da data de recepção do respectivo requerimento ou dos elementos referidos no n.º 2.\n\n5 - No prazo máximo de 30 dias, improrrogáveis, contados da realização da vistoria, a direcção de serviços veterinários regional conclui a instrução, elabora um relatório final e remete o processo, com todos os elementos deste constantes, ao director-geral de Veterinária, para decisão."
+  },
+  "156690847": {
+   "fragment_id": "156691298",
+   "type": 11,
+   "heading": "Artigo 27.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Decisão\n\n1 - O director-geral de Veterinária emite decisão no prazo de 15 dias a contar do termo do prazo referido no n.º 5 do artigo anterior.\n\n2 - Quando o sentido provável da decisão for de rejeição do requerimento, no prazo previsto no número anterior, o requerente é notificado para ser ouvido no prazo de 10 dias.\n\n3 - No caso de decisão favorável condicionada, o requerente é notificado das condições impostas à abertura e funcionamento da clínica ou do hospital e do número de autorização de funcionamento.\n\n4 - No caso de decisão favorável, o requerente é igualmente notificado do número de autorização de funcionamento.\n\n5 - No caso de não ser proferida decisão final no prazo de 75 dias contados da entrega do requerimento, este considera-se tacitamente deferido.\n\n6 - Para o cômputo dos prazos previstos no presente decreto-lei, considera-se que os mesmos se suspendem sempre que o procedimento estiver parado por motivo imputável ao requerente."
+  },
+  "156690848": {
+   "fragment_id": "156691299",
+   "type": 11,
+   "heading": "Artigo 28.º — Comissões técnicas de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comissões técnicas de classificação\n\n1 - São criadas cinco comissões técnicas de classificação (CTC), que funcionam junto de cada direcção de serviços veterinários regional, às quais compete genericamente:\n\na) Verificar a satisfação dos requisitos exigidos para a criação, organização e funcionamento da clínica ou do hospital;\n\nb) Propor as medidas de correcção e o período de tempo considerados necessários face às deficiências detectadas, devendo essa apreciação ser feita caso a caso e devidamente fundamentada;\n\nc) Verificar a construção e equipamentos gerais;\n\nd) Apreciar as regras de armazenamento, segurança e conformidade legal de todos os materiais e produtos utilizados e cedidos no exercício da actividade desenvolvida na clínica ou do hospital;\n\ne) Verificar as condições de manutenção dos equipamentos;\n\nf) Elaborar relatório final de avaliação.\n\n2 - Sempre que se justifique a sua realização e a solicitação da DGV, as CTC efectuam inspecções e verificações periódicas às clínicas ou aos hospitais.\n\n3 - As CTC são constituídas por três elementos, sendo um médico veterinário em representação da direcção de serviços veterinários regional, que preside, um médico veterinário representante da OMV e o respectivo médico veterinário municipal.\n\n4 - No prazo de 15 dias a contar da entrada em vigor do presente decreto-lei ou do facto que dê causa à necessidade da sua substituição, a OMV deve designar o seu representante em cada uma das CTC.\n\n5 - As CTC são nomeadas pelo director-geral de Veterinária, por despacho publicado no Diário da República.\n\n6 - Em caso de não designação de representante nos termos e nos prazos previstos nos n.os 4 e 5, este é indicado pelo director-geral de Veterinária.\n\n7 - As regras e critérios de funcionamento das CTC são fixados por despacho do director-geral de Veterinária, publicado no Diário da República.\n\n8 - Os membros das CTC estão obrigados à apresentação de uma declaração de interesses."
+  },
+  "156690849": {
+   "fragment_id": "156691300",
+   "type": 1,
+   "heading": "Capítulo V — Alteração e suspensão de funcionamento dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Alteração e suspensão de funcionamento dos CAMV"
+  },
+  "156690850": {
+   "fragment_id": "156691301",
+   "type": 11,
+   "heading": "Artigo 29.º — Alteração de funcionamento dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Alteração de funcionamento dos CAMV\n\n1 - As alterações relevantes no funcionamento dos CAMV, designadamente as alterações do equipamento ou das estruturas físicas, mediante remodelação, transformação ou ampliação, estão sujeitas ao procedimento respectivo à classificação adoptada nos termos do presente decreto-lei.\n\n2 - As restantes alterações de funcionamento, designadamente a transferência de titularidade, a cessão de exploração e a alteração da direcção clínica, devem ser comunicadas à DGV no prazo de 15 dias após a sua ocorrência."
+  },
+  "156690851": {
+   "fragment_id": "156691302",
+   "type": 11,
+   "heading": "Artigo 30.º — Encerramento dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Encerramento dos CAMV\n\n1 - Sempre que o funcionamento de um CAMV manifeste inobservância das regras técnicas previstas no presente decreto-lei, ou que existam alterações para as quais não seja cumprido o disposto no artigo anterior, pode ser determinado o encerramento do CAMV, por despacho do director-geral de Veterinária.\n\n2 - As condições a que se refere o número anterior devem ser comprovadas em processo instruído pela CTC.\n\n3 - O despacho referido no n.º 1 é comunicado com a antecedência de 10 dias, devendo o CAMV cessar a sua actividade, sob pena de se solicitar às autoridades administrativas e policiais competentes o encerramento compulsivo."
+  },
+  "156690852": {
+   "fragment_id": "156691303",
+   "type": 11,
+   "heading": "Artigo 31.º — Suspensão dos CAMV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Suspensão dos CAMV\n\n1 - Sempre que um CAMV não cumpra os requisitos exigíveis nos termos do presente decreto-lei, mas que seja possível supri-los, o director-geral de Veterinária determina a suspensão da actividade, observando-se os procedimentos previstos no artigo anterior.\n\n2 - O despacho que determinar a suspensão fixa o prazo, não superior a 180 dias, durante o qual o CAMV deve proceder às alterações necessárias, sob pena de ser determinado o encerramento definitivo do CAMV.\n\n3 - Sempre que o funcionamento de um CAMV constitua grave risco para a saúde animal, para a saúde pública ou para o meio ambiente, a suspensão pode ser imediatamente imposta pelo director-geral de Veterinária, sob proposta da CTC devidamente fundamentada.\n\n4 - Sempre que a decisão referida no número anterior tenha fundamento na existência de grave risco para a saúde pública, deve a DGV informar imediatamente a direcção-geral de Saúde do ocorrido."
+  },
+  "156690853": {
+   "fragment_id": "156691304",
+   "type": 11,
+   "heading": "Artigo 32.º — Divulgação da suspensão e do encerramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Divulgação da suspensão e do encerramento\n\nAs medidas previstas nos artigos anteriores são publicitadas, através da afixação de edital na porta principal de acesso àquele CAMV e por outros meios que se mostrem necessários à informação dos utentes."
+  },
+  "156690854": {
+   "fragment_id": "156691305",
+   "type": 11,
+   "heading": "Artigo 33.º — Autorização de reabertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Autorização de reabertura\n\n1 - Logo que cessem as razões que motivaram as medidas previstas nos artigos anteriores e mediante requerimento do interessado, pode o director-geral de Veterinária determinar o termo da suspensão da autorização, após vistoria pela respectiva CTC, a qual deve ser realizada no prazo de 20 dias contados a partir da data do requerimento.\n\n2 - A autorização de reabertura deve ser publicitada pelos mesmos meios utilizados na divulgação da suspensão da autorização."
+  },
+  "156690855": {
+   "fragment_id": "156691306",
+   "type": 1,
+   "heading": "Capítulo VI — Custos do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Custos do processo"
+  },
+  "156690856": {
+   "fragment_id": "156691307",
+   "type": 11,
+   "heading": "Artigo 34.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Taxas\n\n1 - Pelos actos relativos a procedimentos previstos no presente decreto-lei são devidas taxas, de montante e condições a fixar por portaria do membro do Governo responsável pela agricultura.\n\n2 - As taxas a que se refere o número anterior constituem receita da DGV."
+  },
+  "156690857": {
+   "fragment_id": "156691308",
+   "type": 1,
+   "heading": "Capítulo VII — Fiscalização e regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Fiscalização e regime sancionatório"
+  },
+  "156690858": {
+   "fragment_id": "156691309",
+   "type": 11,
+   "heading": "Artigo 35.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Fiscalização\n\nCompete à DGV, às CTC e à Autoridade de Segurança Alimentar e Económica (ASAE), no âmbito das respectivas competências, assegurar a fiscalização da observância das normas constantes do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades, designadamente à OMV, em matéria de natureza ética e deontológica e conduta técnica dos médicos veterinários, e às câmaras municipais, em matéria de urbanização e edificação."
+  },
+  "156690859": {
+   "fragment_id": "156691310",
+   "type": 11,
+   "heading": "Artigo 36.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Contra-ordenações\n\n1 - Para efeitos do presente decreto-lei, constituem contra-ordenações:\n\na) O funcionamento de um CAMV sem observância do disposto quanto ao procedimento de declaração prévia ou autorização prévia;\n\nb) A não comunicação ou não sujeição a autorização de alterações às condições do direito ao exercício da actividade de funcionamento em cumprimento do disposto no artigo 29.º;\n\nc) A não cessação da actividade quando a mesma seja determinada;\n\nd) A reabertura de um CAMV em desrespeito pelo disposto no artigo 31.º;\n\ne) A não conservação do CAMV e suas imediações em condições de limpeza e salubridade adequadas, em conformidade com o disposto no artigo 9.º;\n\nf) A inexistência de um director clínico ou a acumulação de funções em desrespeito pelo disposto no presente decreto-lei;\n\ng) A prática nos CAMV, a título remunerado ou gratuito, de qualquer actividade ou prestação de serviço médico-veterinário ao público, para além dos previstos no n.º 1 do artigo 2.º;\n\nh) O exercício da actividade em desrespeito pelo disposto nos artigos 5.º, 10.º e 11.º;\n\ni) O desrespeito pelas regras estabelecidas para a identificação do CAMV no artigo 12.º;\n\nj) O desrespeito pelas regras estabelecidas para a publicidade do CAMV no artigo 13.º;\n\nl) O incumprimento das normas respeitantes à informação aos utentes, estabelecidas no artigo 14.º;\n\nm) O incumprimento dos requisitos específicos previstos nos artigos 16.º, 17.º ou 18.º, consoante a tipologia do CAMV;\n\nn) A abertura e o funcionamento de locais, instalações ou estabelecimentos de qualquer natureza, nas condições previstas no n.º 3 do artigo 19.º\n\n2 - A contra-ordenação prevista nas alíneas a), d) e e) do número anterior são puníveis com coima cujo montante mínimo é de (euro) 1500 e máximo de (euro) 3740, no caso das pessoas singulares, e de (euro) 44890, no caso das pessoas colectivas.\n\n3 - As restantes contra-ordenações previstas no n.º 1 são puníveis com coima cujo montante mínimo é de (euro) 500 e máximo de (euro) 3740, no caso das pessoas singulares, e de (euro) 44890, no caso das pessoas colectivas.\n\n4 - A tentativa e a negligência são sempre puníveis, sendo reduzidos a metade os limites mínimos e máximos previstos nos números anteriores."
+  },
+  "156690860": {
+   "fragment_id": "156691311",
+   "type": 11,
+   "heading": "Artigo 37.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Sanções acessórias\n\n1 - Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:\n\na) Perda de objectos ou animais pertencentes ao agente;\n\nb) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público, de autorização ou homologação de autoridade pública;\n\nc) Privação do direito de participação em arrematações, concursos públicos que tenham por objecto o fornecimento de bens e serviços, a concessão de serviços públicos e a atribuição de licenças ou alvarás;\n\nd) Encerramento de estabelecimento cujo funcionamento esteja sujeito a declaração prévia ou autorização de autoridade administrativa;\n\ne) Suspensão de autorizações, licenças e alvarás.\n\n2 - Quando sejam aplicadas as sanções acessórias previstas nas alíneas b), d) e e) do número anterior, todos os proprietários, sócios ou titulares de órgãos sociais do CAMV que sejam considerados culpados do ilícito em causa ficam inibidos de requerer nova autorização para o funcionamento de um CAMV, deter qualquer participação ou, por qualquer forma, participar na gestão de um CAMV, por si ou por interposta pessoa, por um período até dois anos."
+  },
+  "156690861": {
+   "fragment_id": "156691312",
+   "type": 11,
+   "heading": "Artigo 38.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Instrução e decisão\n\n1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.\n\n2 - A entidade que levantar o auto de notícia remete o mesmo, para instrução do competente processo, aos serviços da DGV da área da prática da infracção."
+  },
+  "156690862": {
+   "fragment_id": "156691313",
+   "type": 11,
+   "heading": "Artigo 39.º — Afectação do produto das coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas ao abrigo do presente decreto-lei reverte em:\n\na) 10 % para a entidade que levantou o auto;\n\nb) 30 % para a DGV;\n\nc) 60 % para os cofres do Estado."
+  },
+  "156690863": {
+   "fragment_id": "156691314",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "156690864": {
+   "fragment_id": "156691315",
+   "type": 11,
+   "heading": "Artigo 40.º — Equipamento radiológico e utilização e armazenamento de medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Equipamento radiológico e utilização e armazenamento de medicamentos\n\nA utilização e armazenamento de medicamentos bem como a utilização de equipamento radiológico estão sujeitas às autorizações e condicionamentos previstos na legislação respectivamente aplicável."
+  },
+  "156690865": {
+   "fragment_id": "156691316",
+   "type": 11,
+   "heading": "Artigo 41.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Cooperação administrativa\n\nA DGV participa na cooperação administrativa através do Sistema de Informação do Mercado Interno (IMI) no âmbito de procedimentos de licenciamento de prestadores já estabelecidos noutro Estado-membro, bem como no âmbito da respectiva fiscalização."
+  },
+  "156690866": {
+   "fragment_id": "156691317",
+   "type": 11,
+   "heading": "Artigo 42.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Regiões Autónomas\n\nO presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução administrativa aos serviços e organismos das respectivas administrações regionais autónomas com atribuições e competências no âmbito do presente decreto-lei, sem prejuízo das atribuições das entidades de âmbito nacional."
+  },
+  "156690867": {
+   "fragment_id": "156691318",
+   "type": 11,
+   "heading": "Artigo 43.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Norma transitória\n\n1 - Os CAMV que sejam já titulares de registo e classificação efectuada pela OMV ao abrigo do Regulamento de Exercício de Clínica de Animais de Companhia em Centros de Atendimento Médico Veterinário, aprovado por deliberações do conselho directivo daquela Ordem de 2 de Dezembro de 1997 e de 21 de Março de 2000 e alterações subsequentes, ou que sejam titulares de uma licença de utilização emitida nos termos do Decreto-Lei n.º 370/99, de 18 de Setembro, dispõem do prazo de um ano a contar da entrada em vigor do presente decreto-lei para concluírem a adaptação necessária e apresentarem a respectiva declaração ou autorização prévia, nos termos do presente decreto-lei.\n\n2 - Aos processos de licenciamento que se tenham iniciado ao abrigo do Decreto-Lei n.º 370/99, de 18 de Setembro, e que se encontrem ainda em fase de tramitação processual, aplicam-se as regras do presente decreto-lei.\n\n3 - A portaria prevista no artigo 34.º fixa uma taxa reduzida para os procedimentos de declaração prévia ou autorização prévia a que se refere o n.º 1.\n\n4 - Os CAMV já existentes à data de entrada em vigor do presente decreto-lei e que não se enquadrem no n.º 1 dispõem do prazo de 180 dias a contar da entrada em vigor do presente decreto-lei para concluírem a adaptação necessária e apresentarem a respectiva declaração ou autorização prévia, nos termos do presente decreto-lei.\n\n5 - Quando para adaptação às exigências do presente decreto-lei seja necessário proceder a alterações de carácter estrutural, o prazo previsto no número anterior é de um ano.\n\n6 - Aos CAMV referidos no n.º 4 não são exigíveis os documentos referidos na alínea b) do n.º 2 do artigo 25.º"
+  },
+  "156690868": {
+   "fragment_id": "156691319",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a data da sua publicação."
+  },
+  "156690872": {
+   "fragment_id": "156691310",
+   "type": 11,
+   "heading": "Artigo 36.º — Contra-ordenações",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 102.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 36.º — Contra-ordenações\n\n1 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE):\n\na) (Revogada.)\n\nb) A não comunicação ou não sujeição a autorização de alterações às condições do direito ao exercício da actividade de funcionamento em cumprimento do disposto no artigo 29.º;\n\nc) A não cessação da actividade quando a mesma seja determinada;\n\nd) (Revogada.)\n\ne) (Revogada.)\n\nf) A inexistência de um director clínico ou a acumulação de funções em desrespeito pelo disposto no presente decreto-lei;\n\ng) A prática nos CAMV, a título remunerado ou gratuito, de qualquer actividade ou prestação de serviço médico-veterinário ao público, para além dos previstos no n.º 1 do artigo 2.º;\n\nh) O exercício da actividade em desrespeito pelo disposto nos artigos 5.º, 10.º e 11.º;\n\ni) O desrespeito pelas regras estabelecidas para a identificação do CAMV no artigo 12.º;\n\nj) O desrespeito pelas regras estabelecidas para a publicidade do CAMV no artigo 13.º;\n\nl) O incumprimento das normas respeitantes à informação aos utentes, estabelecidas no artigo 14.º;\n\nm) O incumprimento dos requisitos específicos previstos nos artigos 16.º, 17.º ou 18.º, consoante a tipologia do CAMV;\n\nn) A abertura e o funcionamento de locais, instalações ou estabelecimentos de qualquer natureza, nas condições previstas no n.º 3 do artigo 19.º\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) O funcionamento de um CAMV sem observância do disposto quanto ao procedimento de declaração prévia ou autorização prévia;\n\nb) A reabertura de um CAMV em desrespeito pelo disposto no artigo 31.º;\n\nc) A não conservação do CAMV e suas imediações em condições de limpeza e salubridade adequadas, em conformidade com o disposto no artigo 9.º\n\n3 - (Revogado.)\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Alterado pelo/a Artigo 102.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156690873": {
+   "fragment_id": "156691313",
+   "type": 11,
+   "heading": "Artigo 39.º — Afectação do produto das coimas",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 102.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+   ],
+   "markdown": "###### Artigo 39.º — Afectação do produto das coimas\n\nO produto das coimas aplicadas pela prática das contraordenações económicas previstas no presente decreto-lei é repartido nos termos do RJCE.\n\n> Alterado pelo/a Artigo 102.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28"
+  },
+  "156690869": {
+   "fragment_id": "156691320",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva - Ana Maria Teodoro Jorge.\n\nPromulgado em 30 de Julho de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 31 de Julho de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

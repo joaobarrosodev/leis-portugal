@@ -1,0 +1,730 @@
+---
+schema_version: '1.0'
+id: pt:dre:69782194:por
+title: Portaria n.º 201/2015
+short_title: null
+summary: Estabelece o regime de aplicação da operação n.º 3.4.2, «Melhoria da eficiência dos regadios existentes», inserido
+  na ação n.º 3.4, «Infraestruturas coletivas», da medida n.º 3, «Valorização da produção agrícola», integrada na área n.º
+  2, «Competitividade e organização da produção», do Programa de Desenvolvimento Rural do Continente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura e do Mar
+proposing_entity: null
+official_number: 201/2015
+official_date: null
+publication_date: '2015-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2015, Série I de 2015-07-10
+  number: '133'
+  series: I
+  supplement: null
+  pages: 4769 - 4775
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/07/13300/0476904775.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-05-27'
+version_history:
+  file: portaria-201-2015.versoes.json
+  count: 10
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-09-16'
+    amending: pt:dre:75341997:por
+    amending_title: Portaria n.º 249/2016
+    changes:
+    - Altera Artigo 14.º
+  - date: '2017-06-08'
+    amending: pt:dre:107487177:por
+    amending_title: Portaria n.º 189/2017
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Anexo I
+  - date: '2018-02-13'
+    amending: pt:dre:114682828:por
+    amending_title: Portaria n.º 46/2018
+    changes:
+    - Altera Artigo 22.º
+    - Revoga Artigo 14.º
+  - date: '2018-07-12'
+    amending: pt:dre:115678434:por
+    amending_title: Portaria n.º 202/2018
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+  - date: '2018-11-27'
+    amending: pt:dre:117114264:por
+    amending_title: Portaria n.º 303/2018
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 22.º
+  - date: '2020-02-22'
+    amending: pt:dre:129475783:por
+    amending_title: Portaria n.º 47/2020
+    changes:
+    - Altera Anexo I
+  - date: '2022-01-11'
+    amending: pt:dre:177363480:por
+    amending_title: Portaria n.º 29/2022
+    changes:
+    - Altera Anexo I
+  - date: '2022-02-24'
+    amending: pt:dre:179552240:por
+    amending_title: Portaria n.º 102/2022
+    changes:
+    - Altera Anexo I
+  - date: '2025-05-27'
+    amending: pt:dre:919314479:por
+    amending_title: Portaria n.º 234/2025/1
+    changes:
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/201/2015/p/cons/20250526/pt/html
+  oj: null
+  dre: '69782194'
+  dre_path: /dr/detalhe/portaria/201-2015-69782194
+  internal: pt:dre:69782194:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/201-2015-69782194
+  metadata_url: https://data.dre.pt/eli/port/201/2015/p/cons/20250526/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-107487191
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-107487191
+  retrieved_at: '2026-10-22T12:11:43Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4136388fc23178fb76c99f86ed591b96bc132547cc7c5e84e048c7c8062aceb7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:11:43Z'
+  notes: 10 versão(ões); histórico completo em portaria-201-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Água
+- Águas Públicas
+- Ajuda Comunitária
+- Aproximação das Legislações
+- CE Países
+- Desenvolvimento Rural
+- Feader
+- Aproveitamento Hidroagrícola
+- Plano de Investimentos
+- Desenvolvimento Económico
+- Domínio Público Hídrico
+- Agricultura
+- PDR 2020
+- PORTUGAL 2020
+- Medida N.º 3 Valorização da Produção Agrícola
+relationships:
+- type: amended_by
+  target: pt:dre:75341997:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997
+  date: '2016-09-15'
+- type: amended_by
+  target: pt:dre:107487177:por
+  label: Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/189-2017-107487177
+  date: '2017-06-07'
+- type: amended_by
+  target: pt:dre:114682828:por
+  label: Altera Artigo 22.º; Revoga Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828
+  date: '2018-02-12'
+- type: amended_by
+  target: pt:dre:115678434:por
+  label: Altera Artigo 16.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/202-2018-115678434
+  date: '2018-07-11'
+- type: amended_by
+  target: pt:dre:117114264:por
+  label: Altera Artigo 9.º; Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264
+  date: '2018-11-26'
+- type: amended_by
+  target: pt:dre:129475783:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/47-2020-129475783
+  date: '2020-02-21'
+- type: amended_by
+  target: pt:dre:177363480:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/29-2022-177363480
+  date: '2022-01-10'
+- type: amended_by
+  target: pt:dre:179552240:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/102-2022-179552240
+  date: '2022-02-23'
+- type: amended_by
+  target: pt:dre:919314479:por
+  label: Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/234-2025-919314479
+  date: '2025-05-26'
+- type: cites
+  target: celex:32000L0060
+  label: null
+  source: http://data.europa.eu/eli/dir/2000/60/oj
+- type: cites
+  target: celex:32013R1305
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1305/oj
+- type: cites
+  target: celex:32013R1306
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1306/oj
+- type: cites
+  target: celex:32014R0640
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/640/oj
+- type: cites
+  target: celex:32014R0809
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/809/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/159/2014/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/195/2012/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+article_structure:
+  article_count: 23
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:11:43Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 201/2015
+
+Portaria n.º 201/2015
+
+de 10 de julho
+
+O Decreto-Lei n.º 137/2014, de 12 de setembro, estabeleceu o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural, um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.
+
+O PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.
+
+Na arquitetura do PDR 2020, a operação 3.4.2, «Melhoria da eficiência dos regadios existentes», integra a ação 3.4, «Infraestruturas coletivas», a qual se encontra inserida na medida «Valorização da produção agrícola», da área 2, «Competitividade e organização da produção».
+
+A importância do regadio para a agricultura portuguesa e da promoção de uma atividade sustentável justificam o investimento na melhoria e atualização de aproveitamentos hidroagrícolas existentes. A modernização dos aproveitamentos mais antigos tem impacto na produtividade e na gestão dos recursos hídricos, pela introdução de economias de água e de energia, devendo assegurar o cumprimento das demais condições previstas no novo quadro regulamentar, em aplicação da Diretiva-Quadro da Água. São estabelecidas prioridades de investimento de acordo com a «Estratégia para o Regadio Público 2014-2020», com base no diagnóstico do sector do regadio em Portugal.
+
+A operação 3.4.2, «Melhoria da eficiência dos regadios existentes» visa, assim, potenciar economias de escala e uma utilização mais eficiente de recursos hídricos e energéticos, com impactos positivos não apenas na competitividade da atividade agrícola, mas simultaneamente ao nível da preservação da melhoria do ambiente e das condições de vida das populações rurais.
+
+Assim:
+
+Manda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece o regime de aplicação da operação n.º 3.4.2, «Melhoria da eficiência dos regadios existentes», inserido na ação n.º 3.4, «Infraestruturas coletivas», da medida n.º 3, «Valorização da produção agrícola», integrada na área n.º 2, «Competitividade e organização da produção», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020.
+
+###### Artigo 2.º — Objetivos
+
+O apoio previsto na presente portaria tem como objetivo promover o uso mais eficiente da água e da energia dos aproveitamentos hidroagrícolas existentes e dos regadios coletivos tradicionais, através de:
+
+a) Reabilitação e modernização das infraestruturas primárias e secundárias, estações elevatórias e centrais hidroelétricas;
+
+b) Melhoria da gestão dos aproveitamentos hidroagrícolas;
+
+c) Melhoria da segurança das infraestruturas;
+
+d) Introdução de tecnologias mais eficientes.
+
+e) Reabilitação e modernização de regadios coletivos tradicionais.
+
+###### Artigo 3.º — Definições
+
+Para efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:
+
+a) «Adaptação das barragens hidroagrícolas», as ações de identificação e correção relacionadas com os aspetos normativos, de segurança hidráulica, estrutural e operacional, incluindo os planos de observação e de segurança, exigidos pelo Regulamento de Segurança de Barragens, bem como medidas para adaptação às exigências da Diretiva 2000/60/CE, do Parlamento Europeu e do Conselho, de 23 de outubro (Diretiva-Quadro da Água);
+
+b) «Aproveitamento hidroagrícola», a área beneficiada e o conjunto das infraestruturas hidroagrícolas coletivas e respetivos equipamentos, incluindo as áreas que foram adquiridas e expropriadas para a sua implantação, bem como outros bens imóveis identificados no respetivo regulamento ou contrato de concessão;
+
+c) «Candidatura em parceria», a candidatura apresentada em simultâneo por duas ou mais pessoas coletivas que tenham celebrado entre si um contrato de parceria;
+
+d) «Contrato de parceria», o documento de constituição de uma parceria com ou sem personalidade jurídica, por via do qual entidades públicas e privadas se obrigam a assegurar o desenvolvimento de atividades tendentes à satisfação de necessidades comuns e no qual se encontram estabelecidos os objetivos dessa parceria e as obrigações dos seus membros;
+
+e) «Entidade gestora da parceria», a entidade responsável pela gestão administrativa e executiva da parceria, designada pelos respetivos membros para a representar;
+
+f) «Operação de modernização», o processo de melhorar e atualizar um aproveitamento hidroagrícola que, embora atingindo os seus objetivos originais, deverá responder a critérios mais exigentes de utilização, bem como à evolução tecnológica e do meio económico, social e ambiental em que se enquadra;
+
+g) «Operação de reabilitação», o processo de renovação de um aproveitamento hidroagrícola degradado e cujos resultados se quedam aquém dos objetivos a que se destina;
+
+h) «Pactos para o desenvolvimento e coesão territorial no âmbito de investimentos territoriais integrados (ITI)», os pactos previstos no artigo 65.º do Decreto-Lei n.º 137/2014, de 12 de setembro;
+
+i) «Plano de investimento», o conjunto de ações que visam expressamente a conclusão e entrada em exploração de um aproveitamento hidroagrícola ou blocos de um aproveitamento hidroagrícola, bem como a execução de melhorias num aproveitamento hidroagrícola existente.
+
+###### Artigo 4.º — Beneficiários
+
+1 - Podem beneficiar do apoio previsto na presente portaria:
+
+a) Associações de beneficiários de um aproveitamento hidroagrícola;
+
+b) Juntas de agricultores;
+
+c) Cooperativas de rega;
+
+d) Outras pessoas coletivas que estatutariamente visem atividades relacionadas com os regadios existentes;
+
+e) Organismos da Administração Pública.
+
+2 - As entidades referidas nas alíneas a) a d) do número anterior podem candidatar-se isoladamente ou em parceria com organismos da Administração Pública.
+
+###### Artigo 5.º — Critérios de elegibilidade dos beneficiários
+
+Os candidatos ao apoio previsto na presente portaria, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, devem reunir as seguintes condições à data de apresentação da candidatura:
+
+a) Encontrar-se legalmente constituídos;
+
+b) Cumprir as condições legais necessárias ao exercício da respetiva atividade, diretamente relacionadas com a natureza do investimento;
+
+c) Ter a situação regularizada em matéria de reposições no âmbito do financiamento do FEADER e do FEAGA, ou terem constituído garantia a favor do Instituto de Financiamento da Agricultura e das Pescas, I. P. (IFAP, I. P.);
+
+d) Não terem sido condenados em processo-crime por factos que envolvam disponibilidades financeiras no âmbito do FEADER e do FEAGA, quando aplicável;
+
+e) Apresentarem, quando seja o caso, um contrato de parceria onde estejam expressas as obrigações, os deveres e as responsabilidades de todos os intervenientes, bem como a designação da entidade gestora da parceria.
+
+###### Artigo 6.º — Critérios de elegibilidade das operações
+
+1 - Sem prejuízo do disposto no artigo 46.º do Regulamento (UE) n.º 1305/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, podem beneficiar do apoio previsto na presente portaria as operações que se enquadrem nos objetivos previstos no artigo 2.º e que preencham as seguintes condições:
+
+a) Incluam um plano de investimento do qual conste, nomeadamente, a delimitação da área a beneficiar e a fundamentação técnica, económica e social do investimento;
+
+b) Cumpram as disposições legais aplicáveis aos investimentos propostos, designadamente em matéria de licenciamento relativo a captação de águas, superficiais ou subterrâneas, nos termos do Decreto-Lei n.º 226-A/2007, de 31 de maio;
+
+c) Existência de plano de gestão de bacia hidrográfica notificado pelas autoridades nacionais à Comissão Europeia para toda a área abrangida pela operação;
+
+d) Existência, no âmbito do investimento, de equipamento de medição de consumo de água, sem prejuízo do disposto na alínea l) do n.º 1 do artigo 9.º
+
+2 - São elegíveis as operações cujo objeto de apoio respeite exclusivamente a estudos ou projetos, desde que:
+
+a) Reúnam as condições previstas no número anterior, quando aplicáveis;
+
+b) Obtenham parecer prévio favorável da Autoridade Nacional do Regadio, quando aplicável, ou, no caso de candidatura apresentada pela Direção-Geral da Agricultura e Desenvolvimento Rural, despacho favorável do membro do Governo responsável pelas áreas da agricultura e do desenvolvimento rural.
+
+3 - Os investimentos para melhorar instalações de rega ou elementos de infraestruturas de rega existentes devem ainda apresentar uma poupança potencial de consumo de água mínima de 5 %, baseada numa avaliação ex ante.
+
+4 - Para efeitos de aplicação do disposto no número anterior, não se consideram abrangidos os investimentos que:
+
+a) Incidam unicamente na eficiência energética;
+
+b) Respeitem à criação de um reservatório;
+
+c) Respeitem à reutilização de águas residuais tratadas que não afetem a massa de água subterrânea ou superficial, em conformidade com o Decreto-Lei n.º 226-A/2007, de 31 de maio;
+
+d) Respeitem à intervenção em segurança de barragens, não estando diretamente relacionados com o consumo de água.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 189/2017 - Diário da República n.º 110/2017, Série I de 2017-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/189-2017-107487177), em vigor a partir de 2017-06-08
+
+###### Artigo 7.º — Despesas elegíveis e não elegíveis
+
+1 - As despesas elegíveis e não elegíveis são, designadamente, as constantes do anexo I à presente portaria, da qual faz parte integrante.
+
+2 - São elegíveis as despesas realizadas após a data de submissão da candidatura, salvo o disposto no n.º 1 do anexo I.
+
+###### Artigo 8.º — Critérios de seleção das candidaturas
+
+1 - Para efeitos de seleção de candidaturas ao apoio previsto na presente portaria, são considerados, em consonância com a «Estratégia para o Regadio Público 2014-2020», divulgado no portal do PDR 2020, em www.pdr-2020.pt, designadamente, os seguintes critérios, por tipologia de operação:
+
+a) Candidaturas relativas a operações de reabilitação e modernização:
+
+i) Projetos já iniciados ou aprovados;
+
+ii) Outros projetos, a priorizar segundo a urgência da intervenção;
+
+b) Candidaturas relativas a operações que visem a melhoria das condições de segurança das barragens:
+
+i) Urgência da intervenção de adaptação das barragens hidroagrícolas às exigências do Regulamento de Segurança de Barragens;
+
+ii) Projetos incluídos em pactos para o desenvolvimento e coesão territorial no âmbito de ITI;
+
+c) Candidaturas relativas a operações em regadios tradicionais:
+
+i) Elevado grau de adesão ao regadio;
+
+ii) Urgência da intervenção de reabilitação;
+
+iii) Projetos incluídos em pactos para o desenvolvimento e coesão territorial no âmbito de ITI.
+
+d) Candidaturas relativas exclusivamente a estudos ou projetos:
+
+i) Estudos ou projetos enquadrados nas intervenções previstas na 'Estratégia para o Regadio Público 2014-2020';
+
+ii) Estudos ou projetos que demonstrem maior adesão dos potenciais beneficiários ao regadio em causa;
+
+iii) Estudos ou projetos que visem beneficiar maiores áreas potenciais de regadio.
+
+2 - A hierarquização dos critérios constantes dos números anteriores, bem como os respetivos fatores, fórmulas, ponderação e critérios de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt, no respetivo anúncio do período de apresentação de candidaturas.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 189/2017 - Diário da República n.º 110/2017, Série I de 2017-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/189-2017-107487177), em vigor a partir de 2017-06-08
+
+###### Artigo 9.º — Obrigações dos beneficiários
+
+1 - Os beneficiários do apoio previsto na presente portaria, sem prejuízo das obrigações enunciadas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são obrigados a:
+
+a) Executar a operação nos termos e condições aprovados;
+
+b) Cumprir a legislação e normas obrigatórias relacionadas com a natureza do investimento;
+
+c) Cumprir os normativos legais em matéria de contratação pública relativamente à execução das operações, quando aplicável;
+
+d) Proceder à publicitação dos apoios que lhes forem atribuídos, nos termos da legislação comunitária aplicável e das orientações técnicas do PDR 2020;
+
+e) Ter a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, a qual é aferida em cada pedido de pagamento;
+
+f) Ter um sistema de contabilidade organizada ou simplificada nos termos da legislação em vigor;
+
+g) Manter a atividade e as condições legais necessárias ao exercício da mesma durante um período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data da conclusão da operação, se esta ultrapassar os cinco anos;
+
+h) Não locar ou alienar os equipamentos e as instalações cofinanciadas, durante o período de cinco anos a contar da data de aceitação da concessão do apoio, ou até à data de conclusão da operação, se esta ultrapassar os cinco anos, sem prévia autorização da autoridade de gestão;
+
+i) Garantir que todos os pagamentos e recebimentos referentes à operação são efetuados através de conta bancária única, ainda que não exclusiva, do beneficiário, exceto em situações devidamente justificadas;
+
+j) Adotar comportamentos que respeitem os princípios da transparência, da concorrência e da boa gestão dos dinheiros públicos, de modo a prevenir situações suscetíveis de configurar conflito de interesses, designadamente, nas relações estabelecidas entre os beneficiários e os seus fornecedores ou prestadores de serviços;
+
+k) Assegurar diretamente ou através de outra entidade pública ou privada, a gestão, exploração e conservação das infraestruturas após a conclusão da obra;
+
+l) Proceder, caso não esteja instalado, à instalação de equipamento de medição de consumo de água até à data da conclusão física da operação.
+
+m) Comprovar o início da execução da operação no prazo definido para o efeito, através da apresentação, no mesmo prazo, de pedido de pagamento, não incluindo o pedido de pagamento a título de adiantamento.
+
+2 - Quando, no âmbito do procedimento inerente à emissão ou renovação do título de utilização de recursos hídricos, o estado das massas de água, subterrâneas ou superficiais, esteja identificado como inferior a 'Bom' no plano de gestão de bacia hidrográfica pertinente, por motivos ligados à quantidade de água, ou não haja indicação dessa identificação, no caso dos investimentos para melhorar instalações de rega ou elementos de infraestruturas de rega existentes, os beneficiários devem ainda atingir, até à data da conclusão física da operação, uma redução efetiva de consumo de água mínima de 50 % relativamente à poupança potencial referida no n.º 3 do artigo 6.º
+
+3 - Para efeitos de aplicação do disposto no número anterior, não se consideram abrangidos os investimentos que:
+
+a) Incidam unicamente na eficiência energética;
+
+b) Respeitem à criação de um reservatório;
+
+c) Respeitem à reutilização de águas residuais tratadas que não afetem a massa de água subterrânea ou superficial, em conformidade com o Decreto-Lei n.º 226-A/2007, de 31 de maio;
+
+d) Respeitem à intervenção em segurança de barragens, não estando diretamente relacionada com o consumo de água;
+
+e) Respeitem a aproveitamento hidroagrícola com título de utilização de recursos hídricos já emitido e utilizado.
+
+4 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação do prazo estabelecido na alínea m) do n.º 1.
+
+> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 189/2017 - Diário da República n.º 110/2017, Série I de 2017-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/189-2017-107487177), em vigor a partir de 2017-06-08
+
+###### Artigo 10.º — Forma, nível e limite de apoio
+
+1 - O apoio previsto na presente portaria assume a forma de subvenção não reembolsável.
+
+2 - O apoio pode ser concedido até 100 % do valor de investimento elegível.
+
+3 - O apoio previsto no n.º 2 do artigo 6.º está limitado aos seguintes montantes máximos:
+
+a) (euro) 1 800 000, no caso de estudos e projetos de emparcelamento;
+
+b) (euro) 800 000, nas restantes situações.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 189/2017 - Diário da República n.º 110/2017, Série I de 2017-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/189-2017-107487177), em vigor a partir de 2017-06-08
+
+### Capítulo II — Procedimento
+
+###### Artigo 11.º — Apresentação das candidaturas
+
+1 - A apresentação de candidaturas é feita no âmbito de um procedimento concursal de acordo com o previsto no n.º 1 do artigo 16.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitado em dois órgãos de comunicação social.
+
+2 - A apresentação das candidaturas efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou do PDR 2020, em www.pdr-2020.pt, e estão sujeitos a confirmação por via eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.
+
+###### Artigo 12.º — Anúncios
+
+1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor, após audição da comissão de gestão, e indicam, nomeadamente, o seguinte:
+
+a) Os objetivos e as prioridades visadas;
+
+b) A tipologia das operações a apoiar;
+
+c) A área geográfica elegível;
+
+d) A dotação orçamental a atribuir;
+
+e) Os critérios de seleção e respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para a seleção;
+
+f) A forma e o nível dos apoios a conceder, respeitando o disposto no artigo 10.º
+
+2 - Os anúncios dos períodos de apresentação das candidaturas podem prever dotações específicas para determinadas tipologias de operações a apoiar.
+
+3 - Os anúncios dos períodos de apresentação das candidaturas são divulgados no portal do Portugal 2020, em www.portugal2020.pt, e no portal do PDR 2020, em www.pdr-2020.pt, e publicitados em dois órgãos de comunicação social.
+
+###### Artigo 13.º — Análise e decisão das candidaturas
+
+1 - A autoridade de gestão ou as Direções Regionais de Agricultura e Pescas (DRAP) analisam e emitem parecer sobre as candidaturas, do qual consta a apreciação do cumprimento dos critérios de elegibilidade do beneficiário e da operação, bem como a aplicação dos fatores referidos no artigo 8.º, o apuramento do montante do custo total elegível e o nível de apoio previsional.
+
+2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para a não aprovação da candidatura.
+
+3 - Para efeitos da análise técnica, quando necessário, podem ser solicitados pareceres especializados junto de organismos da Administração Pública, de acordo com as respetivas competências, ou a entidades externas, os quais devem ser emitidos no prazo de 20 dias úteis.
+
+4 - O parecer referido no n.º 1 é emitido num prazo máximo de 45 dias úteis contados a partir da data limite para apresentação das candidaturas e, quando emitido pelas DRAP, é remetido à autoridade de gestão.
+
+5 - O secretariado técnico aplica os critérios de seleção, em função do princípio da coesão territorial e da dotação orçamental referida no respetivo anúncio e submete à decisão do gestor a aprovação das candidaturas.
+
+6 - Antes de ser adotada a decisão final, os candidatos são ouvidos nos termos do Código do Procedimento Administrativo, designadamente quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.
+
+7 - As candidaturas são objeto de decisão pelo gestor no prazo de 60 dias úteis, contados a partir da data limite para a respetiva apresentação, após audição da comissão de gestão.
+
+8 - A decisão das candidaturas está sujeita a homologação do membro do governo responsável pela área da agricultura, sendo a mesma comunicada aos candidatos pela autoridade de gestão.
+
+9 - Os projetos de decisão de aprovação da autoridade de gestão relativamente a operações cujo custo total elegível seja superior a 25 milhões de euros estão sujeitos a homologação pela Comissão Interministerial de Coordenação do Acordo de Parceria (CIC Portugal 2020).
+
+###### Artigo 14.º — Transição de candidaturas
+
+1 - As candidaturas que tenham obtido classificação igual ou superior à pontuação mínima necessária para seleção das operações e para as quais não tenha existido dotação orçamental, transitam para o período de apresentação de candidaturas seguinte, no qual são analisadas e hierarquizadas de acordo com os critérios de seleção desse novo período.
+
+2 - A transição referida no número anterior é aplicável em dois períodos consecutivos, findos os quais a candidatura é indeferida.
+
+> Revogado pelo/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13
+
+> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 249/2016 - Diário da República n.º 178/2016, Série I de 2016-09-15](https://diariodarepublica.pt/dr/detalhe/portaria/249-2016-75341997), em vigor a partir de 2016-09-16, produz efeitos a partir de 2016-06-01
+
+###### Artigo 15.º — Termo de aceitação
+
+1 - A aceitação do apoio é efetuada mediante submissão eletrónica e autenticação de termo de aceitação nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+2 - O beneficiário dispõe de trinta dias úteis para submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pela autoridade de gestão.
+
+###### Artigo 16.º — Execução das operações
+
+1 - A execução da operação rege-se pela legislação hidroagrícola em vigor e demais legislação complementar, a legislação da restruturação fundiária em vigor, bem como pela legislação ambiental nacional e comunitária aplicável.
+
+2 - Os prazos máximos para os beneficiários iniciarem e concluírem a execução física e financeira das operações são, respetivamente, de 6 e 36 meses contados a partir da data da submissão autenticada do termo de aceitação.
+
+3 - Em casos excecionais e devidamente justificados, o gestor pode autorizar a prorrogação dos prazos estabelecidos no número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2018 - Diário da República n.º 132/2018, Série I de 2018-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/202-2018-115678434), em vigor a partir de 2018-07-12
+
+###### Artigo 17.º — Alteração da operação
+
+1 - Podem ser efetuadas alterações à operação mediante a apresentação de um pedido de alterações, em situações excecionais, nomeadamente a suspensão de trabalhos, alteração do calendário de execução ou a modificação das condições de execução.
+
+2 - Os pedidos de alteração à decisão devem ser formalizados mediante a apresentação de nota justificativa, contendo síntese das alterações solicitadas e informação detalhada sobre os respetivos fundamentos.
+
+###### Artigo 18.º — Apresentação dos pedidos de pagamento
+
+1 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.
+
+2 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.
+
+3 - Apenas são aceites os pedidos de pagamento relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação e nos números seguintes.
+
+4 - Pode ser apresentado em pedido de pagamento a título de adiantamento sobre o valor do investimento, no máximo até 50 % da despesa pública aprovada, mediante a constituição de garantia a favor do IFAP, I. P., correspondente a 100 % do montante do adiantamento.
+
+5 - Em alternativa ao adiantamento previsto no número anterior, podem ser apresentados pedidos de pagamento a título de adiantamento contra fatura, relativos a despesas elegíveis faturadas e não pagas, devendo a opção por esta modalidade ser expressamente manifestada pelo beneficiário junto do IFAP, I. P.
+
+6 - Os adiantamentos contra fatura são obrigatoriamente regularizados no prazo de 45 dias úteis após o seu recebimento, mediante a apresentação do comprovativo do pagamento integral da despesa.
+
+7 - Não se verificando a sua regularização, a reposição do valor adiantado deve ser efetuada no prazo de 30 dias úteis, vencendo-se juros de mora desde a data do pagamento.
+
+8 - O pagamento é proporcional à realização do investimento elegível, devendo o montante da última prestação, no caso de beneficiários de natureza privada, representar, pelo menos, 5 % da despesa total elegível da operação.
+
+9 - O último pedido de pagamento deve ser submetido no prazo máximo de 90 dias a contar da data de conclusão da operação, sob pena de indeferimento.
+
+10 - Em casos excecionais e devidamente justificados, o IFAP, I. P., pode autorizar a prorrogação do prazo estabelecido no número anterior.
+
+11 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 234/2025/1 - Diário da República n.º 100/2025, Série I de 2025-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/234-2025-919314479), em vigor a partir de 2025-05-27
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 202/2018 - Diário da República n.º 132/2018, Série I de 2018-07-11](https://diariodarepublica.pt/dr/detalhe/portaria/202-2018-115678434), em vigor a partir de 2018-07-12
+
+###### Artigo 19.º — Análise e decisão dos pedidos de pagamento
+
+1 - O IFAP, I. P., ou as entidades a quem este delegar poderes para o efeito, analisam os pedidos de pagamento e emitem parecer.
+
+2 - Podem ser solicitados aos beneficiários elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta fundamento para não aprovação do pedido.
+
+3 - Do parecer referido no n.º 1 resulta o apuramento da despesa elegível, o montante a pagar ao beneficiário e a validação da despesa constante do respetivo pedido de pagamento.
+
+4 - O IFAP, I. P., após a receção do parecer referido nos números anteriores, adota os procedimentos necessários ao respetivo pagamento.
+
+5 - Os critérios de realização das visitas ao local da operação, durante o seu período de execução, são definidos de acordo com o disposto no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.
+
+###### Artigo 20.º — Pagamento
+
+1 - Os pagamentos dos apoios são efetuados pelo IFAP, I. P., de acordo com o calendário anual definido antes do início de cada ano civil, o qual é divulgado no respetivo portal, em www.ifap.pt.
+
+2 - Os pagamentos dos apoios são efetuados por transferência bancária, para a conta referida na alínea i) do n.º 1 do artigo 9.º
+
+###### Artigo 21.º — Controlo
+
+A operação, incluindo a candidatura e os pedidos de pagamento, está sujeita a ações de controlo administrativo e in loco a partir da data de submissão autenticada do termo de aceitação, nos termos previstos no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014, e demais legislação aplicável.
+
+###### Artigo 22.º — Reduções e exclusões
+
+1 - O apoio objeto da presente portaria está sujeito às reduções e exclusões previstas no Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, no Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março, no Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, e demais legislação aplicável.
+
+2 - A aplicação de reduções e exclusões dos apoios concedidos ou a conceder, em caso de incumprimento das obrigações dos beneficiários, previstas no artigo 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, é efetuada de acordo com o previsto no anexo II da presente portaria, da qual faz parte integrante.
+
+3 - O incumprimento dos critérios de elegibilidade constitui fundamento suscetível de determinar a devolução da totalidade dos apoios recebidos.
+
+4 - A omissão ou prestação de falsas informações, para efeitos da aplicação dos critérios de seleção nas condições definidas no aviso de abertura do concurso, determina a exclusão da candidatura ou a anulação administrativa da decisão de aprovação e respetiva devolução da totalidade dos apoios recebidos.
+
+5 - O incumprimento, à data da apresentação do último pedido de pagamento, de um ou mais dos critérios de seleção contratualmente fixados como condicionantes de verificação obrigatória, determina a redução dos pagamentos efetuados ou a pagar em 25 %, incluindo a perda de majoração associada, quando aplicável.
+
+6 - À recuperação dos montantes indevidamente recebidos, designadamente por incumprimento dos critérios de elegibilidade ou de obrigações dos beneficiários, aplica-se o disposto no artigo 7.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho, no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável.
+
+7 - A não comprovação do início da execução da operação no prazo previsto na alínea m) do n.º 1 do artigo 9.º ou no n.º 2 do artigo 9.º, quando aplicável, constitui fundamento suscetível de determinar a revogação do apoio à operação.
+
+> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 303/2018 - Diário da República n.º 227/2018, Série I de 2018-11-26](https://diariodarepublica.pt/dr/detalhe/portaria/303-2018-117114264), em vigor a partir de 2018-11-27
+
+> Alterado pelo/a [Portaria n.º 46/2018 - Diário da República n.º 30/2018, Série I de 2018-02-12](https://diariodarepublica.pt/dr/detalhe/portaria/46-2018-114682828), em vigor a partir de 2018-02-13
+
+### Capítulo III — Disposição final
+
+###### Artigo 23.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 29 de junho de 2015.
+
+## Anexo I — Despesas elegíveis e não elegíveis
+
+(a que se refere o artigo 7.º)
+
+Despesas elegíveis
+
+1 - Elaboração ou revisão de estudos e projetos e de ações de consultoria, designadamente jurídica, arqueológica e ambiental, desde 1 de janeiro de 2014 e com o limite de 5 % da despesa elegível total da operação, com as seguintes especificidades:
+
+a) No caso de candidaturas que respeitem apenas a estudos ou projetos a que se refere o n.º 2 do artigo 6.º, e em que o estudo ou projeto não esteja concluído à data da apresentação da candidatura, o limite de 5 % não é aplicável;
+
+b) No caso de candidaturas para a melhoria da segurança de barragens, apresentadas antes de 28 de março de 2018 e que nessa consequência tenham sido objeto de reclassificação da classe de risco, o limite de 5 % não é aplicável, até ao valor originalmente aprovado.
+
+2 - Execução de obras, incluindo:
+
+i) Infraestruturas de hidráulica agrícola para retenção, captação, elevação, transporte e distribuição de água, incluindo respetivos equipamentos;
+
+ii) Infraestruturas de defesa, drenagem e viárias;
+
+iii) Eletrificação das infraestruturas de hidráulica agrícola;
+
+iv) Implementação de outras infraestruturas associadas aos perímetros de rega;
+
+v) Adaptação ao regadio e cortinas de abrigo;
+
+vi) Centrais hidroelétricas integradas nas infraestruturas de captação ou distribuição de água;
+
+vii) As relacionadas com a segurança de barragens, açudes de derivação, açudes e reservatórios;
+
+viii) As relacionadas com o cumprimento dos caudais ecológicos e com a promoção do continuum fluvial.
+
+3 - Construção e equipamento de edifícios sede de associações de regantes ou de beneficiários, de aproveitamentos hidroagrícolas já em exploração.
+
+4 - Ações de estruturação fundiária, incluindo indemnizações por perda de rendimento e demarcação de novos lotes;
+
+5 - Instalação de dispositivos de controlo de qualidade da água e da degradação do solo;
+
+6 - Instalações de dispositivos de controlo volumétrico da água;
+
+7 - Elaboração e atualização de cadastro;
+
+8 - Execução de medidas de compensação e minimização de impactos ambientais, paisagísticos, arqueológicos e patrimoniais;
+
+9 - Testagem das obras;
+
+10 - Implementação de novas tecnologias ou de sistemas de informação geográfica;
+
+11 - Acompanhamento, assistência técnica e fiscalização das obras, até ao limite de 5 % da despesa elegível total da operação;
+
+12 - Expropriações e indemnizações necessárias à execução das obras até ao limite de 10 % da despesa elegível total da operação;
+
+13 - Frequência de ações de especialização técnica profissional com relevância para a gestão do aproveitamento hidroagrícola;
+
+14 - Processos de gestão dos regadios mais inovadores e eficientes, designadamente esquemas de gestão comum a vários regadios.
+
+15 - Revisões de preços decorrentes da legislação aplicável;
+
+16 - IVA não recuperável nos termos da legislação fiscal.
+
+17 - Equipamentos que visem a produção de energia renovável.
+
+Despesas não elegíveis
+
+18 - Contribuições em espécie;
+
+19 - Aquisição de equipamentos em segunda mão;
+
+20 - Despesas com a constituição de cauções relativas aos adiantamentos de ajuda pública.
+
+> Nota: [Artigo 3.º, Portaria n.º 29/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/29-2022-177363480) As alterações operadas pela Portaria n.º 29/2022, de 10 de janeiro, aplicam-se às candidaturas e aos pedidos de alteração apresentados após a sua entrada em vigor.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 102/2022 - Diário da República n.º 38/2022, Série I de 2022-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/102-2022-179552240), em vigor a partir de 2022-02-24
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 29/2022 - Diário da República n.º 6/2022, Série I de 2022-01-10](https://diariodarepublica.pt/dr/detalhe/portaria/29-2022-177363480), em vigor a partir de 2022-01-11
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 47/2020 - Diário da República n.º 37/2020, Série I de 2020-02-21](https://diariodarepublica.pt/dr/detalhe/portaria/47-2020-129475783), em vigor a partir de 2020-02-22
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 189/2017 - Diário da República n.º 110/2017, Série I de 2017-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/189-2017-107487177), em vigor a partir de 2017-06-08
+
+## Anexo II — Reduções e exclusões
+
+(a que se refere o n.º 2 do artigo 22.º)
+
+1 - O incumprimento das obrigações dos beneficiários, previstas no artigo 9.º da presente portaria e no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, determina a aplicação das seguintes reduções ou exclusões:
+
+(ver documento original)
+
+2 - O disposto no número anterior não prejudica, designadamente, a aplicação:
+
+a) Do mecanismo de suspensão do apoio, previsto no artigo 36.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;
+
+b) Da exclusão prevista, designadamente, nas alíneas a) a f) do n.º 2 do artigo 64.º do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;
+
+c) Dos n.os 1, 5 e 6 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014;
+
+d) Do artigo 63.º do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014;
+
+e) De outras cominações, designadamente de natureza penal, que ao caso couberem.
+
+3 - A medida concreta das reduções previstas no n.º 1 é determinada em função da gravidade, extensão, duração e recorrência do incumprimento, nos termos previstos no n.º 3 do artigo 35.º do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, com base em grelha de ponderação, a divulgar no portal do PDR 2020, em www.pdr-2020.pt, e no portal do IFAP, I. P., em www.ifap.pt.

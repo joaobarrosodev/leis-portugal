@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:462209:por
+title: Decreto-Lei n.º 455/80
+short_title: null
+summary: Concede benefícios fiscais relativos à importação de veículos automóveis pertencentes a emigrantes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 455/80
+official_date: null
+publication_date: '1980-10-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 234/1980, Série I de 1980-10-09
+  number: '234'
+  series: I
+  supplement: null
+  pages: 3265 - 3267
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/23400/32653267.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '462209'
+  dre_path: /dr/detalhe/decreto-lei/455-1980-462209
+  internal: pt:dre:462209:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1980-462209
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/455-1980-462209
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-11-12T00:00:00Z'
+integrity:
+  source_sha256: c55b1bacf5a3068490c30242627bea08c59d0ebac40ffe39fbd5240923f29063
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-455-462209.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:172086:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 455/80
+
+de 9 de Outubro
+
+Dando início à tarefa de reformulação dos diplomas legais relativos ao sector automóvel e como primeiro passo dirigido ao objectivo mais ambicioso que se pretende alcançar de virem a ser reunidos num único diploma legal todos os normativos reguladores dos diferentes regimes aduaneiros a que estão sujeitos os veículos automóveis, surge agora a oportunidade de o Governo se ocupar da legislação relativa à importação dos veículos automóveis pertencentes a emigrantes e a desalojados das ex-colónias portuguesas.
+
+Por um lado, e em relação aos veículos dos emigrantes, pretende-se, através do diploma que agora se publica, eliminar distorções e evitar abusos que a legislação em vigor vinha, a cada passo, a dar lugar, mas também e sobretudo, num esforço de maior abertura e compreensão, alargar o âmbito das reduções fiscais até à isenção total, em certos casos. Também se alargam os benefícios concedidos ao cônjuge do emigrante, dentro de certas condições.
+
+Atenta a situação especial dos portugueses residentes em Macau, são estes agora contemplados, aquando das importações no País dos seus veículos, com tratamento fiscal mais favorável de que aquele de que, até ao presente, vinham usufruindo.
+
+Por outro lado, e tendo em atenção a existência de elevado número de veículos automóveis - ligeiros e pesados - pertencentes a nacionais vindos das ex-colónias portuguesas que, por razões de vária ordem, não foram ainda desembaraçados da acção aduaneira, visa-se com o presente decreto-lei desbloquear a situação de impasse em que tais veículos se encontram.
+
+Constitui matéria de ponderação a circunstância de muitos destes cidadãos nacionais haverem permanecido nos ex-territórios portugueses, mesmo após a data da sua independência, integrados quer na Administração Pública quer noutros serviços, e terem até celebrado contratos de cooperação com os Governos dos novos países surgidos, factos que os deixaram na convicção de que os seus veículos, ali alquiridos no decurso do ano de 1976, viriam a ser isentos de imposições fiscais no momento do seu regresso a Portugal.
+
+Acresce que uma grande parte desses portugueses desalojados adquiriu no estrangeiro viaturas cuja importação definitiva em Portugal ainda não foi concretizada por virtude de carecerem do competente boletim de registo de importação, situação que agora se soluciona com a presente medida legislativa.
+
+Por fim, e porque se torna imprescindível às alfândegas conhecer o preço homologado de venda ao público dos veículos automóveis submetidos a despacho por particulares, cujo processo de desalfandegamento se ache pendente, considera-se benéfico pela celeridade que imprime a fixação de um prazo para o estabelecimento do necessário valor.
+
+Nestes termos:
+
+O Governo, em execução do disposto na alínea d) do artigo 22.º da [Lei n.º 8-A/80](https://diariodarepublica.pt/dr/detalhe/lei/8-a-1980-516240), de 26 de Maio, decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+A - Veículos pertencentes a emigrantes e residentes em Macau
+
+###### Artigo 1.º - 1 - Os veículos automóveis pertencentes a indivíduos maiores, emigrantes nos termos do artigo 3.º do presente diploma, que venham a regressar definitivamente ao País, poderão beneficiar de uma redução dos direitos aduaneiros devidos, calculados pela pauta mínima, em conformidade com as percentagens fixadas na tabela seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/23400/32653267.pdf))](https://files.diariodarepublica.pt/1s/1980/10/23400/32653267.pdf)
+
+2 - O veículo a importar por um emigrante com mais de dez anos de trabalho no estrangeiro poderá beneficiar da isenção total dos direitos aduaneiros e das imposições referidas no artigo 4.º deste decreto-lei no caso de esse veículo ter mais de cinco anos de vida.
+
+###### Art. 2.º - 1 - Para beneficiar das reduções previstas no artigo anterior, o emigrante deverá fazer prova através de documento consular visado pela Secretaria de Estado da Emigração do qual conste o número de anos completo de trabalho do emigrante no estrangeiro e a data em que o mesmo regressa definitivamente a Portugal.
+
+2 - Com vista à importação definitiva do veículo no País, o emigrante deverá apresentar nas alfândegas o competente pedido dentro do prazo de cento e oitenta dias, a contar da data referida no número anterior, sob pena de lhe ser reduzida em 10% a percentagem do escalão a aplicar nos termos da tabela referida no artigo 1.º
+
+3 - Quando se verifique ter-se esgotado o prazo previsto no número anterior sem que se achem cumpridas as formalidades regulamentares requeridas para o desalfandegamento dos veículos, as alfândegas poderão processar uma licença de importação temporária, por sessenta dias, prorrogáveis em casos devidamente justificados, mediante o pagamento dos emolumentos e da taxa de estada devidos, independentemente da prestação de qualquer garantia aos direitos e demais imposições aplicáveis.
+
+4 - O despacho aduaneiro do veículo ficará sempre condicionado à apresentação do boletim de registo de importação, a emitir pela entidade competente.
+
+###### Art. 3.º - 1 - Entende-se como emigrante, para efeitos da aplicação do presente decreto-lei, todo e qualquer indivíduo de nacionalidade portuguesa, ou que, conservando ou não esta, haja adquirido outra, que comprove, por meio do documento referido no n.º 1 do artigo antecedente, a sua qualidade de produtivo.
+
+2 - Será considerado como produtivo o indivíduo que tenha desenvolvido de modo regular, no seio da sociedade em que se inseriu, uma actividade profissional, quer de natureza intelectual, quer material, em resultado da qual tenha auferido uma remuneração, paga no país donde procede.
+
+3 - No caso de falecimento do emigrante proprietário do veículo, apenas o cônjuge sobrevivo, seja ou não emigrante, poderá beneficiar do regime estabelecido no presente diploma, desde que na partilha o veículo lhe haja cabido na totalidade e não tenha utilizado já o estabelecido neste decreto-lei.
+
+###### Art. 4.º As reduções previstas no n.º 1 do artigo 1.º são aplicáveis, segundo as mesmas percentagens, ao imposto sobre a venda de veículos automóveis, nos termos do artigo 5.º do [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, e, consoante os casos, à sobretaxa de importação criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio, e legislação complementar, e ao imposto de transacções fixado pelo respectivo Código.
+
+###### Art. 5.º O montante total das reduções previstas no n.º 1 do artigo 1.º e no artigo 4.º do presente decreto-lei não poderá execeder 500 contos.
+
+###### Art. 6.º - 1 - O regime de favor previsto no presente diploma é aplicável aos veículos automóveis ligeiros e motociclos, assim considerados nos termos do artigo 27.º do Código da Estrada.
+
+2 - Os veículos automóveis importados nos termos deste decreto-lei não poderão ser emprestados, excepto ao cônjuge ou a parente em 1.º grau, nem tão-pouco alienados ou por qualquer forma onerados antes de decorridos dois anos sobre a data da sua importação definitiva.
+
+3 - A inobservância do que se dispõe no número anterior sujeita o infractor a procedimento fiscal, acrescido, no caso da alienação ou oneração, da reposição ao Estado do montante das importâncias em que ele fora beneficiado.
+
+4 - Com vista à fiscalização do preceituado na alínea anterior, as conservatórias do registo da propriedade automóvel farão constar no título de registo de propriedade a indicação de que os veículos foram importados ao abrigo do presente decreto-lei.
+
+###### Art. 7.º O desembaraço aduaneiro dos veículos automóveis de emigrantes abrangidos por este decreto-lei será sempre feito através de processamento do despacho de fórmula avulsa.
+
+###### Art. 8.º - 1 - Os importadores que hajam usufruído das regalias dos artigos 1.º e 4.º relativamente a um veículo automóvel só poderão vir a utilizá-las de novo decorridos que sejam dez anos, a contar da data da importação definitiva do mesmo, e desde que posteriormente venham a preencher os requisitos fixados no artigo 2.º deste decreto-lei.
+
+2 - Os emigrantes que tenham beneficiado das disposições do [Decreto-Lei n.º 172/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1977-251855), de 30 de Abril, só poderão gozar da aplicação do presente diploma desde que hajam decorridos dez anos sobre a data da importação dos seus veículos ao abrigo daquele decreto-lei e observadas as mesmas condições previstas na parte final do número anterior.
+
+3 - Os anos de trabalho a ter em conta na hipótese contemplada na alínea anterior serão os que forem prestados pelo emigrante no estrangeiro depois da data da importação definitiva do primeiro veículo.
+
+###### Art. 9.º A menos que o importador opte pela aplicação do estatuído no presente diploma, aos veículos automóveis cuja importação definitiva haja sido pedida antes da entrada em vigor deste decreto-lei continuará a ser aplicável a legislação que através dele é revogada.
+
+###### Art. 10.º Os portugueses residentes em Macau há mais de dois anos e que regressem definitivamente ao País poderão beneficiar, na importação de um veículo automóvel, da faculdade de deduzir no imposto sobre a venda de veículos automóveis o montante, convertido em escudos, do imposto de consumo pago naquele território, facto que deverá ser confirmado por forma iniludível.
+
+###### Art. 11.º Fica revogado o [Decreto-Lei n.º 172/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1977-251855), de 30 de Abril.
+
+B - Veículos de retornados das ex-colónias
+
+###### Art. 12.º O veículos automóveis importados definitivamente em qualquer das ex-colónias portuguesas até 31 de Dezembro de 1976 e que sejam propriedade de cidadãos nacionais que antes da data da independência desses territórios ali tivessem residência fixa, devidamente comprovada, são isentos, aquando da sua importação no País, do pagamento de direitos aduaneiros, do imposto sobre a venda de veículos automóveis, criado pelo [Decreto-Lei n.º 697/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/697-1973-411132), de 27 de Dezembro, e da sobretaxa de importação, criada pelo [Decreto-Lei n.º 271-A/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-a-1975-176343), de 31 de Maio.
+
+###### Art. 13.º Os motociclos com cilindrada superior a 50 cm3 e os reboques são isentos do pagamento de direitos, do imposto de transacções e da sobretaxa de importação, desde que se verifique o condicionalismo previsto no artigo anterior.
+
+Art 14.º A aplicação do preceituado nos dois artigos anteriores fica subordinada à comprovação, pelo importador, conforme os casos, dos seguintes requisitos:
+
+a) Ter a qualidade de desalojado;
+
+b) Haver residido, antes da independência, na respectiva ex-colónia;
+
+c) Ser titular do direito de propriedade sobre o veículo;
+
+d) Ter sido o veículo matriculado ou importado definitivamente nas ex-colónias antes de 31 de Dezembro de 1976.
+
+###### Art. 15.º - 1 - A prova da titularidade do direito de propriedade sobre o veículo exigida na alínea c) do artigo anterior será feita através da exibição do respectivo título de registo de propriedade ou. na sua falta, pela apresentação de documento de efeito equivalente emitido ou reconhecido por entidade oficial portuguesa ou dos novos países de expressão portuguesa para tal competente.
+
+2 - Na ausência dos documentos referidos no número anterior, ou quando se suscitem dúvidas sobre a sua autenticidade, a prova de propriedade poderá ser produzida através de todos os meios admissíveis em processo civil, competindo aos serviços da Alfândega de Lisboa a apreciação do valor probatório dos elementos carregados para o processo, socorrendo-se para isso, se for julgado necessário, do resultado de diligências que poderão empreender.
+
+###### Art. 16.º - 1 - A prova de que a viatura foi importada definitivamente até 31 de Dezembro de 1976 em qualquer das ex-colónias portuguesas será feita pelo respectivo livrete ou, quando este não exista, pela apresentação de documento de efeito equivalente emitido por entidade oficial portuguesa ou dos novos países de expressão portuguesa para tal competente e ainda por certidão passada pelos serviços aduaneiros da ex-colónia onde foi submetida a despacho de importação, consoante ela haja sido matriculada antes ou após aquela data.
+
+2 - Na falta dos documentos referidos no número que antecede, ou quando se suscitem dúvidas sobre a sua autenticidade, será aplicável ao caso o que, relativamente ao título de propriedade, se dispõe no n.º 2 do artigo anterior.
+
+###### Art. 17.º - 1 - Quando os elementos constantes do processo não permitam à Alfândega concluir pela titularidade do direito de propriedade ou pela atribuição dos benefícios fiscais, deverá o interessado ser notificado para, no prazo de noventa dias, produzir melhor prova do direito ou regalia que se arroga, sob pena de, findo esse prazo, o veículo ser considerado perdido a favor da Fazenda Nacional.
+
+2 - O prazo referido no número anterior será interrompido sempre que o interessado produza prova perante a Alfândega de haver proposto acção nos tribunais judiciais tendente a demonstrar a legitimidade do direito à propriedade do veículo.
+
+###### Art. 18.º As decisões e tomadas de posição da Alfândega sobre a propriedade dos veículos legalizados nos respectivos serviços não prejudicam os legítimos direitos que terceiros venham a provar sobre esses mesmos veículos, pelos meios adequados, nos tribunais judiciais.
+
+###### Art. 19.º Aos veículos automóveis, incluindo os motociclos, pertencentes a cidadãos nacionais que tenham exercido uma actividade produtiva nos novos países de expressão portuguesa e que não possam beneficiar da isenção prevista no artigo 12.º ou no artigo 13.º, conforme o caso, no momento da sua importação definitiva no País, serão aplicáveis as disposições legais em vigor para os veículos dos emigrantes.
+
+###### Art. 20.º - 1 - A importação dos veículos automóveis adquiridos em país estrangeiro, até 31 de Dezembro de 1978, por desalojados das ex-colónias portuguesas, cujos processos de legalização aduaneira ainda se encontrem pendentes nas alfândegas, fica isenta do boletim de registo de importação.
+
+2 - O disposto no número anterior não é aplicável aos veículos automóveis, incluindo os motociclos, referidos no artigo antecedente, nem aos mesmos veículos pertencentes a desalojados, quando ainda não haja sido formulado o competente pedido de legalização perante as alfândegas.
+
+###### Art. 21.º A Direcção-Geral do Comércio não Alimentar deverá, relativamente aos veículos automóveis submetidos a despacho por particulares e cujo desembaraço aduaneiro se encontra pendente, proceder à homologação dos respectivos preços de venda ao público no prazo de noventa dias a contar da data da entrada em vigor do presente decreto-lei.
+
+###### Art. 22.º Ficam revogados o despacho ministerial de 21 de Outubro de 1976 da Secretaria de Estado do Orçamento, inserto no Diário da República, 1.ª série, n.º 255, de 30 de Outubro de 1977, e o [Despacho Normativo n.º 287/79](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/287-1979-369867), publicado no Diário da República, 1.ª série, n.º 214, de 15 de Setembro de 1979.
+
+###### Art. 23.º As dúvidas suscitadas pela aplicação do presente diploma serão resolvidas por despacho do Ministro das Finanças e do Plano.
+
+###### Art. 24.º O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 10 de Setembro de 1980. - Francisco Sá Carneiro.
+
+**Promulgado em 23 de Setembro de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

@@ -1,0 +1,1322 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:561468:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-887971779",
+ "dre_path": "/dr/detalhe/decreto-lei/227-1995-561468",
+ "source_lastmod": "2024-09-16",
+ "versions": [
+  {
+   "date": "1995-09-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "887970797",
+    "887970798",
+    "887970799",
+    "887970800",
+    "887970801",
+    "887970802",
+    "887970803",
+    "887970804",
+    "887970805",
+    "887970806",
+    "887970807",
+    "887970808",
+    "887970809",
+    "887970810",
+    "887970811",
+    "887970812",
+    "887970813",
+    "887970814",
+    "887970815",
+    "887970816",
+    "887970817",
+    "887970818",
+    "887970819",
+    "887970820",
+    "887970821",
+    "887970822",
+    "887970823",
+    "887970824",
+    "887970825",
+    "887970826",
+    "887970827",
+    "887970828",
+    "887970829",
+    "887970830",
+    "887970831",
+    "887970832",
+    "887970833",
+    "887970834",
+    "887970835"
+   ]
+  },
+  {
+   "date": "1996-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:241400:por",
+     "title": "Decreto-Lei n.º 154/96",
+     "published": "1996-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/154-1996-241400"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 18.º-A",
+    "Adita Artigo 29.º-A",
+    "Adita Artigo 29.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "887970797",
+    "887970798",
+    "887970845",
+    "887970800",
+    "887970846",
+    "887970802",
+    "887970803",
+    "887970804",
+    "887970805",
+    "887970847",
+    "887970807",
+    "887970848",
+    "887970809",
+    "887970810",
+    "887970811",
+    "887970812",
+    "887970813",
+    "887970814",
+    "887970815",
+    "887970849",
+    "887970817",
+    "887970818",
+    "887970850",
+    "887970820",
+    "887970857",
+    "887970858",
+    "887970859",
+    "887970860",
+    "887970866",
+    "887970862",
+    "887970826",
+    "887970855",
+    "887970828",
+    "887970829",
+    "887970830",
+    "887970831",
+    "887970832",
+    "887970863",
+    "887970864",
+    "887970833",
+    "887970856",
+    "887970867",
+    "887970836",
+    "887970865"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:241400:por",
+     "title": "Decreto-Lei n.º 154/96",
+     "published": "1996-08-31",
+     "dre_path": "/dr/detalhe/decreto-lei/154-1996-241400",
+     "date": "1998-09-01"
+    }
+   ]
+  },
+  {
+   "date": "1999-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:492272:por",
+     "title": "Decreto-Lei n.º 3/99",
+     "published": "1999-01-04",
+     "dre_path": "/dr/detalhe/decreto-lei/3-1999-492272"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "887970797",
+    "887970798",
+    "887970845",
+    "887970800",
+    "887970846",
+    "887970802",
+    "887970803",
+    "887970804",
+    "887970873",
+    "887970847",
+    "887970807",
+    "887970848",
+    "887970809",
+    "887970810",
+    "887970811",
+    "887970812",
+    "887970813",
+    "887970814",
+    "887970815",
+    "887970849",
+    "887970817",
+    "887970818",
+    "887970850",
+    "887970820",
+    "887970857",
+    "887970858",
+    "887970859",
+    "887970860",
+    "887970866",
+    "887970862",
+    "887970826",
+    "887970855",
+    "887970828",
+    "887970829",
+    "887970830",
+    "887970831",
+    "887970832",
+    "887970863",
+    "887970864",
+    "887970833",
+    "887970856",
+    "887970867",
+    "887970836",
+    "887970865"
+   ]
+  },
+  {
+   "date": "2009-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:493034:por",
+     "title": "Decreto-Lei n.º 170/2009",
+     "published": "2009-08-03",
+     "dre_path": "/dr/detalhe/decreto-lei/170-2009-493034"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 21.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º"
+   ],
+   "fragments": [
+    "887970797",
+    "887970798",
+    "887970845",
+    "887970800",
+    "887970846",
+    "887970802",
+    "887970803",
+    "887970804",
+    "887970873",
+    "887970847",
+    "887970807",
+    "887970848",
+    "887970809",
+    "887970810",
+    "887970811",
+    "887970812",
+    "887970813",
+    "887970814",
+    "887970815",
+    "887970849",
+    "887970817",
+    "887970818",
+    "887970850",
+    "887970820",
+    "887970857",
+    "887974907",
+    "887970859",
+    "887974906",
+    "887974908",
+    "887974909",
+    "887970826",
+    "887974910",
+    "887970828",
+    "887970829",
+    "887970830",
+    "887970831",
+    "887970832",
+    "887970863",
+    "887970864",
+    "887970833",
+    "887970856",
+    "887970867",
+    "887970836",
+    "887970865"
+   ]
+  },
+  {
+   "date": "2012-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553450:por",
+     "title": "Decreto-Lei n.º 58/2012",
+     "published": "2012-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/58-2012-553450"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Capítulo II",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Capítulo IV",
+    "Revoga Anexo"
+   ],
+   "fragments": [
+    "887970797",
+    "887974911",
+    "887974912",
+    "887974913",
+    "887974914",
+    "887974915",
+    "887974916",
+    "887974917",
+    "887974918",
+    "887974919",
+    "887974920",
+    "887974921",
+    "887974922",
+    "887974923",
+    "887970811",
+    "887974924",
+    "887970813",
+    "887974925",
+    "887974926",
+    "887974927",
+    "887974928",
+    "887974929",
+    "887974930",
+    "887974931",
+    "887974932",
+    "887974933",
+    "887974934",
+    "887974935",
+    "887974936",
+    "887974937",
+    "887974938",
+    "887974939",
+    "887974940",
+    "887974941",
+    "887974942",
+    "887974943",
+    "887974944",
+    "887974945",
+    "887974946",
+    "887974947",
+    "887974948",
+    "887974949",
+    "887970836",
+    "940673964"
+   ]
+  }
+ ],
+ "fragments": {
+  "887970797": {
+   "fragment_id": "887971780",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 227/95\n\nde 11 de Setembro\n\nDesde que em 1985 se procedeu à integração da Inspecção-Geral da Administração Interna (IGAI) no então Ministério do Plano e da Administração do Território, posteriormente convertida em Inspecção-Geral da Administração do Território, deixou o Ministério da Administração Interna (MAI) de dispor de um organismo de inspecção e fiscalização superior para actuar no domínio das suas atribuições e competências.\n\nTodavia, a progressiva concentração no âmbito deste departamento governamental dos organismos e serviços com papel dominante no exercício da actividade de segurança interna, nos termos da Lei n.º 20/87, de 12 de Junho, fez realçar a necessidade premente de o Ministério ser dotado de um serviço de inspecção e fiscalização especialmente vocacionado para o controlo da legalidade, para a defesa dos direitos dos cidadãos e para uma melhor e mais célere administração da justiça disciplinar nas situações de maior relevância social.\n\nA especificidade institucional dos organismos e serviços integrados no MAI ou por este tutelados, bem como a singularidade das actividades exercidas em conexão com as de segurança interna e protecção civil, exige a criação de um serviço de inspecção e fiscalização.\n\nÉ de realçar, no domínio destas especialidades, a flexibilidade no recrutamento do pessoal e no provimento dos lugares, bem como no regime de vinculação funcional, tendo em vista, sobretudo, escolher indivíduos com grande maturidade e experiência profissional, altamente qualificados e com credibilidade para o exercício das melindrosas funções cometidas à IGAI com isenção, independência, neutralidade, dedicação e abnegação.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "887970798": {
+   "fragment_id": "887971781",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, âmbito e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, âmbito e competência"
+  },
+  "887970799": {
+   "fragment_id": "887971782",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Inspecção-Geral da Administração Interna (IGAI) é um serviço central de inspecção, fiscalização e apoio técnico do Ministério da Administração Interna (MAI), dotado de autonomia técnica e administrativa, que funciona na directa dependência do Ministro."
+  },
+  "887970800": {
+   "fragment_id": "887971783",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede e âmbito\n\n1 - A IGAI tem sede em Lisboa e desenvolve a sua acção inspectiva em todo o território nacional.\n\n2 - A actuação da IGAI abrange todos os serviços directamente dependentes ou tutelados pelo Ministro da Administração Interna, os governos civis e as entidades que exercem actividades de segurança privada.\n\n3 - A acção inspectiva da IGAI abrange ainda, em articulação com os serviços competentes do Ministério dos Negócios Estrangeiros, a actividade dos serviços dependentes do Ministro da Administração Interna que, nos termos dos tratados, convenções ou protocolos de cooperação, seja desenvolvida fora do território nacional."
+  },
+  "887970801": {
+   "fragment_id": "887971784",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - À IGAI compete, em geral, velar pelo cumprimento das leis e dos regulamentos, tendo em vista o bom funcionamento dos serviços tutelados pelo Ministro, a defesa dos legítimos interesses dos cidadãos, a salvaguarda do interesse público e a reintegração da legalidade violada.\n\n2 - No âmbito da sua acção inspectiva, fiscalizadora e investigatória, compete à IGAI, em especial:\n\na) Realizar inspecções ordinárias e utilizar métodos de auditoria com vista à regular avaliação da eficiência e eficácia dos serviços integrados na orgânica do MAI, de acordo com o respectivo plano de actividades;\n\nb) Realizar inspecções extraordinárias superiormente determinadas, com os objectivos e utilizando os métodos referidos na alínea anterior;\n\nc) Fiscalizar, sem prejuízo das competências do Conselho de Segurança Privada, o funcionamento das organizações que desempenham actividades de segurança privada, sempre que hajam fundadas dúvidas sobre a legalidade da sua actuação;\n\nd) Apreciar as queixas, reclamações e denúncias apresentadas por eventuais violações da legalidade e, em geral, as suspeitas de irregularidade ou deficiência no funcionamento dos serviços;\n\ne) Efectuar inquéritos, sindicâncias e peritagens, superiormente determinados, necessários à prossecução das respectivas competências;\n\nf) Propor a instrução de processos disciplinares e instruir aqueles que forem determinados pelo Ministro da Administração Interna;\n\ng) Participar aos órgãos competentes para a investigação criminal os factos com relevância jurídico-criminal e colaborar com aqueles órgãos na obtenção das provas, sempre que isso for solicitado;\n\nh) Exercer outras competências previstas na lei ou superiormente ordenadas, no domínio das respectivas atribuições.\n\n3 - No âmbito da sua acção de apoio técnico ao Ministro, compete, em especial, à IGAI:\n\na) Coligir, analisar e interpretar os elementos necessários à preparação da resposta aos pedidos de esclarecimento feitos pelas organizações nacionais e internacionais de defesa e protecção dos direitos do homem;\n\nb) Realizar estudos e emitir pareceres sobre quaisquer matérias respeitantes às respectivas atribuições."
+  },
+  "887970802": {
+   "fragment_id": "887971785",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios fundamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios fundamentais\n\n1 - A IGAI exerce todas as suas competências nos termos da Constituição e da lei, em defesa da legalidade democrática e no rigoroso respeito pelos direitos fundamentais dos cidadãos.\n\n2 - No exercício das funções investigatórias, nomeadamente de instrução dos processos de sindicância, de inquérito e disciplinares, a actuação da IGAI assenta no princípio da legalidade e norteia-se por critérios de rigorosa objectividade.\n\n3 - A IGAI não pode interferir no desenvolvimento da actuação operacional das forças e serviços de segurança, competindo-lhe, no entanto, averiguar a forma como a mesma se processa, bem como as respectivas consequências, sempre que for julgado conveniente."
+  },
+  "887970803": {
+   "fragment_id": "887971786",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos e serviços"
+  },
+  "887970804": {
+   "fragment_id": "887971787",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estrutura\n\nA IGAI compreende:\n\na) O inspector-geral;\n\nb) O Serviço de Inspecção e Fiscalização (SIF);\n\nc) O Departamento de Assuntos Internos (DAI);\n\nd) A Repartição Administrativa e de Apoio Geral (RAAG)."
+  },
+  "887970805": {
+   "fragment_id": "887971788",
+   "type": 11,
+   "heading": "Artigo 6.º — Inspector-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Inspector-geral\n\n1 - A IGAI é dirigida por um inspector-geral, coadjuvado por um subinspector-geral, equiparados, respectivamente, a director-geral e a subdirector-geral.\n\n2 - O inspector-geral é substituído, nas suas faltas e impedimentos, pelo subinspector-geral."
+  },
+  "887970806": {
+   "fragment_id": "887971789",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência do inspector-geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência do inspector-geral\n\nSem prejuízo do disposto no estatuto do pessoal dirigente, compete, especialmente, ao inspector-geral:\n\na) Dirigir, coordenar e fiscalizar a actividade da IGAI e emitir as directivas, ordens e instruções a que deve obedecer a actuação dos inspectores;\n\nb) Elaborar o plano e o relatório anual de actividades para aprovação do Ministro;\n\nc) Submeter à decisão do Ministro os processos instruídos pela IGAI;\n\nd) Avocar processos ou proceder à sua redistribuição, mediante despacho fundamentado;\n\ne) Apreciar as questões relativas a suspeições, impedimentos e incompatibilidades suscitadas no âmbito dos processos instruídos pela IGAI."
+  },
+  "887970807": {
+   "fragment_id": "887971790",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviço de Inspecção e Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Serviço de Inspecção e Fiscalização\n\n1 - O SIF é constituído pelo corpo de inspectores incumbidos das funções de inspecção e fiscalização e pelo Núcleo de Apoio Técnico (NAT).\n\n2 - O SIF é dirigido pelo subinspector-geral.\n\n3 - O número e a constituição das equipas de inspecção e fiscalização são fixados pelo inspector-geral, mediante proposta do subinspector-geral."
+  },
+  "887970808": {
+   "fragment_id": "887971791",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do SIF",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competências do SIF\n\n1 - Compete ao SIF:\n\na) Realizar inspecções, inquéritos e sindicâncias aos serviços centrais, aos governos civis e às forças e serviços de segurança integrados na orgânica do MAI;\n\nb) Averiguar do cumprimento das disposições legais e regulamentares, das instruções superiores e dos programas e planos aprovados por parte dos serviços referidos na alínea anterior;\n\nc) Fiscalizar, de forma sistemática, a organização e o funcionamento das empresas autorizadas a exercer actividades de segurança privada;\n\nd) Investigar, de forma permanente, o exercício ilegal de actividades de segurança privada;\n\ne) Analisar e emitir parecer sobre o grau de eficácia e a aptidão dos serviços inspeccionados e do respectivo pessoal, bem como sobre a legalidade da organização e actuação das empresas fiscalizadas;\n\nf) Propor a instauração e instruir os processos disciplinares ordenados pelo Ministro da Administração Interna e os resultantes da actividade inspectiva, bem como os processos sancionatórios resultantes da actividade fiscalizadora.\n\n2 - Ao NAT, directamente dependente do subinspector-geral, compete, em especial:\n\na) Assegurar as tarefas necessárias ao planeamento e controlo da actividade do SIF, cabendo-lhe preparar o plano de actuação e o relatório anual;\n\nb) Organizar manuais, guias, programas de trabalho e outros instrumentos de apoio técnico às acções de inspecção e fiscalização;\n\nc) Proceder ao tratamento da legislação e demais documentação de interesse para o SIF, promovendo a sua utilização pelos inspectores;\n\nd) Elaborar estudos, pareceres e informações sobre matérias da competência do SIF;\n\ne) Desenvolver e gerir aplicações informáticas, nomeadamente bases de dados sobre matérias de interesse para o SIF."
+  },
+  "887970809": {
+   "fragment_id": "887971792",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento de Assuntos Internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Departamento de Assuntos Internos\n\n1 - O DAI é dirigido por um director de serviços.\n\n2 - O DAI é integrado por técnicos superiores e inspectores do SIF que lhe são temporariamente afectos e funciona na directa dependência do inspector-geral.\n\n3 - Compete ao DAI:\n\na) Assegurar o controlo do funcionamento e da actividade do serviço, avaliando, em permanência, o seu nível de eficácia, as deficiências detectadas e a forma de optimizar a prossecução dos objectivos institucionais;\n\nb) Averiguar as queixas e reclamações por factos imputados ao pessoal, bem como as suspeitas de desvios, abusos ou quaisquer violações de deveres estatutários;\n\nc) Instruir processos de inquérito e disciplinares nos quais seja visado pessoal da IGAI."
+  },
+  "887970810": {
+   "fragment_id": "887971793",
+   "type": 11,
+   "heading": "Artigo 11.º — Repartição Administrativa e de Apoio Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Repartição Administrativa e de Apoio Geral\n\n1 - A RAAG funciona na directa dependência do inspector-geral e compreende duas secções:\n\na) A Secção de Processos e Expediente Geral (SPEG);\n\nb) A Secção de Pessoal, Contabilidade e Economato (SPCE).\n\n2 - À SPEG compete:\n\na) Registar os documentos dirigidos à IGAI, as ordens e instruções de serviço, os relatórios e os despachos do Ministro, do inspector-geral e do subinspector-geral;\n\nb) Escriturar o livro de registo de processos e registar os pareceres dos inspectores;\n\nc) Praticar todos os actos relativos à movimentação dos processos e manter permanentemente actualizado o respectivo ficheiro;\n\nd) Assegurar a organização e manutenção do arquivo geral;\n\ne) Assegurar e controlar a reprodução de documentos e praticar os demais actos de expediente geral.\n\n3 - À SPCE compete:\n\na) Promover e executar, em articulação com a Secretaria-Geral do MAI, as acções relativas à gestão do pessoal do quadro único do MAI afecto à IGAI;\n\nb) Organizar e actualizar o cadastro do pessoal;\n\nc) Elaborar e executar o orçamento e a contabilidade, bem como o expediente a eles respeitante;\n\nd) Preparar a aquisição e assegurar a gestão dos bens afectos à IGAI, bem como manter actualizado o respectivo inventário."
+  },
+  "887970811": {
+   "fragment_id": "887971794",
+   "type": 1,
+   "heading": "Capítulo III — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Funcionamento"
+  },
+  "887970812": {
+   "fragment_id": "887971795",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento das inspecções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Funcionamento das inspecções\n\n1 - Compete ao Ministro da Administração Interna ordenar as inspecções, as sindicâncias, os inquéritos e os processos disciplinares que devam ser instruídos pela IGAI.\n\n2 - As acções mencionadas no número anterior são executadas por inspectores, que actuam na directa dependência do subinspector-geral."
+  },
+  "887970813": {
+   "fragment_id": "887971796",
+   "type": 11,
+   "heading": "Artigo 13.º — Poderes instrutórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Poderes instrutórios\n\n1 - Os dirigentes e os inspectores da IGAI, quando no exercício efectivo das funções inspectivas e fiscalizadoras, são, respectivamente, autoridades públicas e agentes da autoridade pública.\n\n2 - No exercício das suas funções, os dirigentes e os inspectores da IGAI são detentores dos poderes funcionais previstos nos estatutos e regulamentos disciplinares dos serviços do MAI e têm competência para levantar autos de notícia por infracções verificadas pessoalmente no exercício das respectivas funções.\n\n3 - Nos casos de infracções criminais, o assunto é comunicado ao dirigente máximo do serviço e o auto, bem como as provas, são imediatamente apresentados ao órgão do Ministério Público competente.\n\n4 - Se houver medidas cautelares de natureza disciplinar a tomar, o auto e as provas são imediatamente, ou no mais curto prazo, apresentados pelo inspector-geral ao Ministro, que decidirá, podendo ouvir previamente o dirigente máximo do serviço visado, se o considerar conveniente."
+  },
+  "887970814": {
+   "fragment_id": "887971797",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatório das acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Relatório das acções\n\n1 - No final de cada acção será elaborado o relatório dos trabalhos realizados, dentro do prazo estabelecido, e, quando se trate de inspecção, deverá dele constar a enumeração das providências que se entenda devam ser adoptadas.\n\n2 - O relatório acompanha sempre o respectivo processo aquando da sua entrega para decisão do Ministro, nos termos da alínea c) do artigo 7.º"
+  },
+  "887970815": {
+   "fragment_id": "887971798",
+   "type": 11,
+   "heading": "Artigo 15.º — Acompanhamento do resultado das acções da IGAI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Acompanhamento do resultado das acções da IGAI\n\nA IGAI acompanha a execução, pelos serviços competentes, das decisões proferidas pelo Ministro da Administração Interna nos processos, para correcção ou reparação das irregularidades, deficiências ou anomalias encontradas."
+  },
+  "887970816": {
+   "fragment_id": "887971799",
+   "type": 11,
+   "heading": "Artigo 16.º — Dever de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Dever de cooperação\n\n1 - Os titulares dos órgãos de comando e direcção, bem como os funcionários e agentes dos serviços sujeitos aos poderes de inspecção e fiscalização da IGAI, são obrigados a prestar todas as informações, esclarecimentos e demais colaboração que lhes forem solicitados, no âmbito das respectivas atribuições.\n\n2 - A comparência para a prestação de declarações ou depoimentos em processos de inquérito, de sindicância ou disciplinares por responsáveis e funcionários ou agentes dos organismos do Estado é requisitada à entidade de que dependem e só poderá ser recusada uma vez, por motivo de serviço público inadiável.\n\n3 - A falta de comparência injustificada constitui incumprimento de ordem legítima da autoridade competente e faz incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da lei.\n\n4 - A recusa da colaboração devida e a oposição ao exercício da acção inspectiva e fiscalizadora da IGAI fazem incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da lei."
+  },
+  "887970817": {
+   "fragment_id": "887971800",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Pessoal"
+  },
+  "887970818": {
+   "fragment_id": "887971801",
+   "type": 8,
+   "heading": "Secção I — Quadro e carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Quadro e carreiras"
+  },
+  "887970819": {
+   "fragment_id": "887971802",
+   "type": 11,
+   "heading": "Artigo 17.º — Quadros e dotação do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Quadros e dotação do pessoal\n\n1 - O quadro do pessoal dirigente e de chefia é o constante do mapa I anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O quadro do pessoal de inspecção é fixado por portaria conjunta dos Ministros da Administração Interna e das Finanças.\n\n3 - O pessoal técnico superior, de informática, técnico-profissional, administrativo e auxiliar tem a dotação que lhe vier a ser atribuída no âmbito do quadro único do MAI.\n\n4 - A distribuição do pessoal pelos serviços e departamentos da IGAI é feita por despacho do inspector-geral, tendo em consideração a experiência profissional e a natureza das funções a exercer."
+  },
+  "887970820": {
+   "fragment_id": "887971803",
+   "type": 11,
+   "heading": "Artigo 18.º — Pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Pessoal dirigente\n\n1 - Os cargos de inspector-geral, subinspector-geral e director do DAI podem ser providos por magistrado judicial ou do Ministério Público com categoria não inferior a juiz desembargador ou procurador-geral-adjunto, respectivamente, no primeiro caso, e de preferência que tenham exercido funções de inspecção nos respectivos quadros de origem.\n\n2 - A nomeação nos termos do número anterior é obrigatoriamente precedida de autorização, a obter de harmonia com as respectivas leis estatutárias, considerando-se o serviço prestado nos referidos cargos como se o tivesse sido nas categorias e funções próprias dos quadros de origem e não determinando abertura de vaga no lugar de origem ou naquele para que, entretanto, o titular tiver sido nomeado."
+  },
+  "887970821": {
+   "fragment_id": "887971804",
+   "type": 11,
+   "heading": "Artigo 19.º — Carreira de inspecção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Carreira de inspecção superior\n\n1 - O pessoal de inspecção e fiscalização integra uma carreira de inspecção superior de regime especial.\n\n2 - A carreira de inspecção desenvolve-se pelas categorias de inspector superior principal, inspector superior, inspector principal e inspector."
+  },
+  "887970822": {
+   "fragment_id": "887971805",
+   "type": 11,
+   "heading": "Artigo 20.º — Ingresso na carreira de inspecção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Ingresso na carreira de inspecção superior\n\nO recrutamento para ingresso na carreira de inspecção superior é feito na categoria de inspector, mediante concurso de avaliação curricular, complementado com entrevista, de entre indivíduos habilitados com licenciatura adequada ao exercício das funções a desempenhar na IGAI, aprovados em estágio, com duração de um ano, que integra um curso de formação específica."
+  },
+  "887970823": {
+   "fragment_id": "887971806",
+   "type": 11,
+   "heading": "Artigo 21.º — Acesso na carreira de inspecção superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acesso na carreira de inspecção superior\n\n1 - O acesso na carreira é feito mediante concurso e obedece às seguintes regras:\n\na) Para o lugar de inspector superior principal, de entre inspectores superiores com, pelo menos, três anos de serviço na categoria e classificação de Muito bom ou cinco anos classificados de Bom;\n\nb) Para o lugar de inspector superior, de entre inspectores principais com, pelo menos, três anos de serviço na respectiva categoria classificados de Muito bom ou cinco anos classificados de Bom;\n\nc) Para o lugar de inspector principal, de entre inspectores com, pelo menos, três anos de serviço na respectiva categoria classificados de Muito bom ou cinco anos classificados de Bom.\n\n2 - O recrutamento de inspectores superiores principais, inspectores superiores e de inspectores principais pode também ser feito de entre magistrados judiciais ou do Ministério Público com, pelo menos, 10, 7 e 4 anos de experiência funcional, respectivamente, para a primeira, segunda e terceira categorias.\n\n3 - O disposto no n.º 2 do artigo 18.º é aplicável, com as devidas adaptações, ao pessoal de inspecção."
+  },
+  "887970824": {
+   "fragment_id": "887971807",
+   "type": 11,
+   "heading": "Artigo 22.º — Estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Estágio\n\n1 - A frequência dos estágios que integram um curso de formação específica é feita em regime de contrato administrativo de provimento, no caso de indivíduos não vinculados à função pública, e em regime de comissão de serviço extraordinária, se o estagiário já estiver nomeado definitivamente noutra carreira.\n\n2 - Os estagiários são nomeados na categoria de ingresso do grupo a que se destinam, em função do número de vagas abertas a concurso.\n\n3 - A desistência e a não admissão dos estagiários aprovados que excedam o número de vagas fixado implica a imediata cessação da comissão de serviço extraordinária ou a rescisão do contrato administrativo de provimento sem que tal confira direito a qualquer indemnização.\n\n4 - O regulamento do estágio é aprovado por portaria do Ministro da Administração Interna."
+  },
+  "887970825": {
+   "fragment_id": "887971808",
+   "type": 11,
+   "heading": "Artigo 23.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Conteúdo funcional\n\nAo pessoal da carreira de inspecção superior compete a execução de acções inspectivas e trabalhos de auditoria, a realização de averiguações, inquéritos, sindicâncias e instrução de processos disciplinares, bem como a elaboração de pareceres, informações e estudos na área da respectiva especialidade."
+  },
+  "887970826": {
+   "fragment_id": "887971809",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direitos e deveres"
+  },
+  "887970827": {
+   "fragment_id": "887971810",
+   "type": 11,
+   "heading": "Artigo 24.º — Remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Remunerações\n\n1 - A estrutura indiciária da carreira de inspecção superior consta do mapa II anexo ao presente diploma, que dele faz parte integrante.\n\n2 - Os estagiários são remunerados de acordo com o mapa mencionado no número anterior, sem prejuízo do direito de opção pela remuneração do lugar de origem, no caso de pessoal já vinculado à função pública."
+  },
+  "887970828": {
+   "fragment_id": "887971811",
+   "type": 11,
+   "heading": "Artigo 25.º — Identificação e livre trânsito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Identificação e livre trânsito\n\n1 - O pessoal dirigente, de inspecção e de apoio técnico tem direito ao uso de cartão de identificação e livre trânsito de modelo aprovado por portaria do Ministro, o qual constitui título bastante para o exercício dos seguintes poderes de autoridade:\n\na) Livre acesso a todos os serviços, instalações e estabelecimentos ou locais onde se exerçam actividades abrangidas pelas competências da IGAI, sem necessidade de aviso prévio;\n\nb) Utilização, nos locais inspeccionados ou fiscalizados, mediante acordo dos responsáveis, de instalações adequadas ao exercício das respectivas funções;\n\nc) Obtenção, mediante acordo dos responsáveis, do material e equipamento indispensáveis, bem como da colaboração do respectivo pessoal;\n\nd) Requisição, para exame, consulta e junção aos autos, de processos e documentos ou das respectivas certidões, bem como de quaisquer outros elementos existentes nos livros, registos e arquivos dos serviços inspeccionados ou fiscalizados.\n\n2 - O acesso às instalações e a circulação pelos locais onde as forças e serviços de segurança exercem as suas actividades são feitos mediante apresentação pessoal ao mais alto responsável que, no momento da diligência, se encontre no local e comunicação, logo que possível, ao dirigente máximo do serviço visado."
+  },
+  "887970829": {
+   "fragment_id": "887971812",
+   "type": 11,
+   "heading": "Artigo 26.º — Transporte e deslocações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Transporte e deslocações\n\nAs condições de utilização da rede de transportes públicos são definidas por portaria conjunta dos ministros responsáveis pela administração interna e pelos transportes."
+  },
+  "887970830": {
+   "fragment_id": "887971813",
+   "type": 11,
+   "heading": "Artigo 27.º — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Formação\n\nA IGAI promove acções de formação, aperfeiçoamento e reciclagem do pessoal, podendo recorrer a especialistas de reconhecido mérito nas áreas de interesse para o serviço e a instituições nacionais ou estrangeiras especialmente vocacionadas para esse efeito."
+  },
+  "887970831": {
+   "fragment_id": "887971814",
+   "type": 11,
+   "heading": "Artigo 28.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Sigilo profissional\n\nPara além da sujeição aos deveres gerais inerentes ao exercício de funções públicas, os funcionários e agentes da IGAI e todos aqueles que com eles colaborarem são especialmente obrigados a guardar rigoroso sigilo sobre todas as matérias de que tiverem conhecimento no exercício ou por causa do exercício das suas funções."
+  },
+  "887970832": {
+   "fragment_id": "887971815",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime de prestação do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime de prestação do trabalho\n\n1 - O regime de duração do trabalho do pessoal da carreira de inspecção superior e de outros funcionários que colaborem com aquele em acções inspectivas é o estabelecido para a função pública, podendo, no entanto, as respectivas funções ser exercidas a qualquer hora, consoante as necessidades de serviço.\n\n2 - Os funcionários referidos no número anterior que tenham de prestar serviço nos dias de descanso semanal ou feriados têm direito a igual período de descanso num dos oito dias seguintes."
+  },
+  "887970833": {
+   "fragment_id": "887971816",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias"
+  },
+  "887970834": {
+   "fragment_id": "887971817",
+   "type": 11,
+   "heading": "Artigo 30.º — Preenchimento transitório de lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Preenchimento transitório de lugares\n\n1 - Durante o período transitório de três anos, a contar da data da entrada em vigor do presente diploma, a IGAI pode, por conta das vagas de lugares de acesso da carreira de inspecção superior que não possam ser preenchidas por funcionários de categoria imediatamente inferior, nomear para lugares de ingresso tantos funcionários quantas as vagas existentes na outras categorias da mesma carreira.\n\n2 - Para os efeitos do disposto no número anterior, a categoria de ingresso da carreira de inspecção superior corresponde à categoria de inspector, nos termos do presente diploma."
+  },
+  "887970835": {
+   "fragment_id": "887971818",
+   "type": 11,
+   "heading": "Artigo 31.º — Valor do suplemento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Valor do suplemento\n\nAté à publicação da legislação a que se refere o n.º 3 do artigo 37.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, o pessoal dirigente e o da carreira da inspecção superior do IGAI tem direito a um suplemento idêntico ao percebido pelo demais pessoal de inspecção ao abrigo do estabelecido no artigo 32.º do Decreto-Lei n.º 291/93, de 24 de Agosto."
+  },
+  "887970845": {
+   "fragment_id": "887971782",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Inspecção-Geral da Administração Interna (IGAI) é um serviço central de inspecção, fiscalização e apoio técnico do Ministério da Administração Interna (MAI), dotado de autonomia técnica e administrativa, que funciona na directa dependência do Ministro.\n\n2 - Para todos os efeitos não excepcionados neste diploma, a IGAI é caracterizada como inspecção de alto nível e o pessoal dirigente e de inspecção que o integra constitui um corpo especial sujeito a regime próprio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970846": {
+   "fragment_id": "887971784",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - À IGAI compete, em geral, velar pelo cumprimento das leis e dos regulamentos, tendo em vista o bom funcionamento dos serviços tutelados pelo Ministro, a defesa dos legítimos interesses dos cidadãos, a salvaguarda do interesse público e a reintegração da legalidade violada.\n\n2 - No âmbito da sua acção inspectiva, fiscalizadora e investigatória, compete à IGAI, em especial:\n\na) Realizar inspecções ordinárias e utilizar métodos de auditoria com vista à regular avaliação da eficiência e eficácia dos serviços integrados na orgânica do MAI, de acordo com o respectivo plano de actividades;\n\nb) Realizar inspecções extraordinárias superiormente determinadas, com os objectivos e utilizando os métodos referidos na alínea anterior;\n\nc) Fiscalizar, sem prejuízo das competências do Conselho de Segurança Privada, o funcionamento das organizações que desempenham actividades de segurança privada, sempre que hajam fundadas dúvidas sobre a legalidade da sua actuação;\n\nd) Apreciar as queixas, reclamações e denúncias apresentadas por eventuais violações da legalidade e, em geral, as suspeitas de irregularidade ou deficiência no funcionamento dos serviços;\n\ne) Efectuar inquéritos, sindicâncias e peritagens, determinados pelo Ministro da Administração Interna, necessários à prossecução das respectivas competências;\n\nf) Instaurar processos de averiguações;\n\ng) Propor a instrução de processos disciplinares e instruir aqueles que forem determinados pelo Ministro da Administração Interna;\n\nh) Participar aos órgãos competentes para a investigação criminal os factos com relevância jurídico-criminal e colaborar com aqueles órgãos na obtenção de provas, sempre que isso for solicitado;\n\ni) Propor ao Ministro providências legislativas relativas à melhoria da qualidade e eficiência dos serviços e ao aperfeiçoamento das instituições de segurança e de protecção civil;\n\nj) Exercer outras competências previstas na lei ou superiormente ordenadas, no domínio das respectivas atribuições.\n\n3 - No âmbito da sua acção de apoio técnico ao Ministro, compete, em especial, à IGAI:\n\na) Coligir, analisar e interpretar os elementos necessários à preparação da resposta aos pedidos de esclarecimento feitos pelas organizações nacionais e internacionais de defesa e protecção dos direitos do homem;\n\nb) Realizar estudos e emitir pareceres sobre quaisquer matérias respeitantes às respectivas atribuições.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970847": {
+   "fragment_id": "887971789",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência do inspector-geral",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 7.º — Competência do inspector-geral\n\nSem prejuízo do disposto no estatuto do pessoal dirigente, compete, especialmente, ao inspector-geral:\n\na) Dirigir, coordenar e fiscalizar a actividade da IGAI e emitir as directivas, ordens e instruções a que deve obedecer a actuação dos inspectores;\n\nb) Elaborar o plano e o relatório anual de actividades para aprovação do Ministro;\n\nc) Submeter à decisão do Ministro os processos instruídos pela IGAI;\n\nd) Avocar processos ou proceder à sua redistribuição, mediante despacho fundamentado;\n\ne) Apreciar as questões relativas a suspeições, impedimentos e incompatibilidades suscitadas no âmbito dos processos instruídos pela IGAI.\n\nf) Determinar a instauração de processos de averiguações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970848": {
+   "fragment_id": "887971791",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do SIF",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 9.º — Competências do SIF\n\n1 - Compete ao SIF:\n\na) Realizar inspecções, inquéritos, sindicâncias e processos de averiguações aos serviços centrais, aos governos civis e às forças e serviços de segurança integrados na orgânica do MAI;\n\nb) Averiguar do cumprimento das disposições legais e regulamentares, das instruções superiores e dos programas e planos aprovados por parte dos serviços referidos na alínea anterior;\n\nc) Fiscalizar, de forma sistemática, a organização e o funcionamento das empresas autorizadas a exercer actividades de segurança privada;\n\nd) Investigar, de forma permanente, o exercício ilegal de actividades de segurança privada;\n\ne) Analisar e emitir parecer sobre o grau de eficácia e a aptidão dos serviços inspeccionados e do respectivo pessoal, bem como sobre a legalidade da organização e actuação das empresas fiscalizadas;\n\nf) Propor a instauração e instruir os processos disciplinares ordenados pelo Ministro da Administração Interna e os resultantes da actividade inspectiva, bem como os processos sancionatórios resultantes da actividade fiscalizadora.\n\n2 - Ao NAT, directamente dependente do subinspector-geral, compete, em especial:\n\na) Assegurar as tarefas necessárias ao planeamento e controlo da actividade do SIF, cabendo-lhe preparar o plano de actuação e o relatório anual;\n\nb) Organizar manuais, guias, programas de trabalho e outros instrumentos de apoio técnico às acções de inspecção e fiscalização;\n\nc) Proceder ao tratamento da legislação e demais documentação de interesse para o SIF, promovendo a sua utilização pelos inspectores;\n\nd) Elaborar estudos, pareceres e informações sobre matérias da competência do SIF;\n\ne) Desenvolver e gerir aplicações informáticas, nomeadamente bases de dados sobre matérias de interesse para o SIF.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970849": {
+   "fragment_id": "887971799",
+   "type": 11,
+   "heading": "Artigo 16.º — Dever de cooperação",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 16.º — Dever de cooperação\n\n1 - Os titulares dos órgãos de comando e direcção, bem como os funcionários e agentes dos serviços sujeitos aos poderes de inspecção e fiscalização da IGAI, são obrigados a prestar todas as informações, esclarecimentos e demais colaboração que lhes forem solicitados, no âmbito das respectivas atribuições.\n\n2 - A comparência para a prestação de declarações ou depoimentos em processos de inquérito, de sindicância ou disciplinares por responsáveis e funcionários ou agentes dos organismos do Estado é requisitada à entidade de que dependem e só poderá ser recusada uma vez, por motivo de serviço público inadiável.\n\n3 - A falta de comparência injustificada constitui incumprimento de ordem legítima da autoridade competente e faz incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da lei.\n\n4 - A recusa da colaboração devida e a oposição ao exercício da acção inspectiva e fiscalizadora da IGAI fazem incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da lei.\n\n5 - A IGAI poderá solicitar a qualquer pessoa colectiva de direito privado ou cidadão informações e ainda a este último depoimentos, sempre que o repute necessário para o apuramento dos factos da sua competência.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970850": {
+   "fragment_id": "887971802",
+   "type": 11,
+   "heading": "Artigo 17.º — Quadro privativo",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 17.º — Quadro privativo\n\n1 - O pessoal da IGAI integra um quadro privativo, que abrange os seguintes grupos e categorias:\n\na) Pessoal dirigente;\n\nb) Pessoal de chefia;\n\nc) Pessoal de inspecção;\n\nd) Pessoal de apoio técnico;\n\ne) Pessoal administrativo;\n\nf) Pessoal auxiliar.\n\n2 - O quadro do pessoal dirigente e de chefia é o constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n3 - A composição do quadro, bem como as respectivas dotações do pessoal de inspecção, apoio técnico, administrativo e auxiliar, são fixados por portaria conjunta dos Ministros das Finanças e da Administração Interna e do Ministro Adjunto.\n\n4 - A distribuição do pessoal pelos serviços e departamentos da IGAI é feita por despacho do inspector-geral, tendo em consideração a experiência profissional e a natureza das funções a exercer.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970857": {
+   "fragment_id": "887971830",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Pessoal de chefia",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 18.º-A — Pessoal de chefia\n\n1 - O recrutamento para o lugar de chefe de repartição é feito mediante concurso de entre:\n\na) Chefes de secção com, pelo menos, três anos de serviço na categoria e classificação de Muito bom;\n\nb) Indivíduos possuidores de curso superior adequado e experiência profissional não inferior a três anos na Administração Pública.\n\n2 - Os lugares de chefe de secção são providos nos termos da lei geral.\n\n3 - O lugar de chefe da Secção de Processos e Expediente Geral (SPEG) pode ainda ser preenchido por escrivão de direito com, pelo menos, três anos de serviço na categoria, em comissão de serviço, por períodos de três anos, renováveis, aplicando-se-lhe, com as devidas adaptações, o regime previsto no n.º 2 do artigo 18.º e podendo optar pelo estatuto remuneratório do lugar de origem.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970858": {
+   "fragment_id": "887971804",
+   "type": 11,
+   "heading": "Artigo 19.º — Pessoal de inspecção",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 19.º — Pessoal de inspecção\n\n1 - O pessoal de inspecção integra um corpo especial sujeito a regime próprio e não se desenvolve em carreira.\n\n2 - As categorias do pessoal de inspecção são as de inspector superior principal, inspector superior e inspector principal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970859": {
+   "fragment_id": "887971805",
+   "type": 11,
+   "heading": "Artigo 20.º — Função de interesse público",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 20.º — Função de interesse público\n\nO exercício de funções dirigentes e de inspecção é de reconhecido interesse público para efeito do disposto no n.º 1, alínea c), do artigo 6.º do Decreto-Lei n.º 323/89, de 26 de Setembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970860": {
+   "fragment_id": "887971806",
+   "type": 11,
+   "heading": "Artigo 21.º — Recrutamento do pessoal de inspecção",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 21.º — Recrutamento do pessoal de inspecção\n\n1 - Para os lugares de inspecção podem ser nomeados funcionários ou agentes da Administração Pública, de institutos e de empresas públicas com pelo menos seis anos de serviço e conhecimentos e experiência profissional adequados, nomeadamente nas seguintes áreas:\n\na) Actividade inspectiva ou de auditoria no âmbito dos serviços públicos;\n\nb) Investigação criminal;\n\nc) Consultadoria jurídica, sobretudo em matérias de direito público e, em especial, do direito disciplinar e contra-ordenacional;\n\nd) Investigação, estudo e concepção de métodos e processos científico-técnicos no âmbito da Administração Pública;\n\ne) Comando, direcção ou coordenação, nomeadamente no âmbito das forças ou serviços de segurança.\n\n2 - O recrutamento de inspectores superiores principais, inspectores superiores e de inspectores principais pode também ser feito de entre magistrados judiciais ou do Ministério Público com, pelo menos, 10, 7 e 4 anos de experiência funcional, respectivamente, para a primeira, segunda e terceira categorias.\n\n3 - O disposto no n.º 2 do artigo 18.º é aplicável, com as devidas adaptações, ao pessoal de inspecção.\n\n4 - O recrutamento para os lugares de inspecção é feito por escolha, por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.\n\n5 - O provimento é feito em regime de comissão de serviço, por períodos de três anos, renováveis, podendo igualmente ser feito em regime de requisição ou destacamento, nos termos da lei geral.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970866": {
+   "fragment_id": "887971807",
+   "type": 11,
+   "heading": "Artigo 22.º — Estágio",
+   "in_force_from": "1998-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+   ],
+   "markdown": "###### Artigo 22.º — Estágio\n\n1 - A frequência dos estágios que integram um curso de formação específica é feita em regime de contrato administrativo de provimento, no caso de indivíduos não vinculados à função pública, e em regime de comissão de serviço extraordinária, se o estagiário já estiver nomeado definitivamente noutra carreira.\n\n2 - Os estagiários são nomeados na categoria de ingresso do grupo a que se destinam, em função do número de vagas abertas a concurso.\n\n3 - A desistência e a não admissão dos estagiários aprovados que excedam o número de vagas fixado implica a imediata cessação da comissão de serviço extraordinária ou a rescisão do contrato administrativo de provimento sem que tal confira direito a qualquer indemnização.\n\n4 - O regulamento do estágio é aprovado por portaria do Ministro da Administração Interna.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+  },
+  "887970862": {
+   "fragment_id": "887971808",
+   "type": 11,
+   "heading": "Artigo 23.º — Conteúdo funcional",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 23.º — Conteúdo funcional\n\n1 - Ao pessoal de inspecção de alto nível compete:\n\na) A execução de acções inspectivas, de fiscalização e de auditoria;\n\nb) A realização de averiguações, inquéritos e sindicâncias;\n\nc) A instrução de processos disciplinares;\n\nd) A elaboração de estudos, pareceres e informações no âmbito das atribuições institucionais da IGAI.\n\n2 - Ao pessoal técnico de apoio à inspecção compete, em geral, realizar o conjunto de actividades de investigação, concepção, assessoria, apoio e suporte ao planeamento, organização, execução e controlo das acções de inspecção, fiscalização e auditoria.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970855": {
+   "fragment_id": "887971810",
+   "type": 11,
+   "heading": "Artigo 24.º — Remunerações",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 24.º — Remunerações\n\n1 - Ao exercício de funções do pessoal de inspecção corresponde o estatuto remuneratório do lugar de origem, com todas as regalias ao mesmo inerentes.\n\n2 - O pessoal dirigente e de inspecção tem direito a um suplemento correspondente a 30% do vencimento base ilíquido, o qual é considerado para todos os efeitos como vencimento, nomeadamente para efeitos do cálculo dos subsídios de férias e de Natal, bem como da pensão de aposentação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970863": {
+   "fragment_id": "887971831",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Uso e porte de arma",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 29.º-A — Uso e porte de arma\n\n1 - O pessoal dirigente e de inspecção, enquanto no exercício efectivo de funções na IGAI, é dispensado de licença de uso e porte de arma de defesa, valendo como tal o cartão de identificação referido no artigo 25.º\n\n2 - O pessoal referido no número anterior tem direito a que lhe seja distribuída, por conta do Estado, arma de defesa, em condições a regulamentar por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970864": {
+   "fragment_id": "887971832",
+   "type": 11,
+   "heading": "Artigo 29.º-B — Garantias",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 29.º-B — Garantias\n\nO pessoal da IGAI não pode ser prejudicado no seu emprego, na estabilidade e progresso da carreira, bem como quanto ao regime de segurança social, de que beneficie nos lugares de origem.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970856": {
+   "fragment_id": "887971817",
+   "type": 11,
+   "heading": "Artigo 30.º — Preenchimento transitório de lugares",
+   "in_force_from": "1996-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 30.º — Preenchimento transitório de lugares\n\nDurante três anos contados a partir da data da primeira tomada de posse do inspector-geral, a IGAI pode, nos termos da lei e dentro das respectivas dotações orçamentais, recorrer à contratação de pessoal técnico e administrativo devidamente habilitado.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887970867": {
+   "fragment_id": "887971818",
+   "type": 11,
+   "heading": "Artigo 31.º — Valor do suplemento",
+   "in_force_from": "1998-09-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+   ],
+   "markdown": "###### Artigo 31.º — Valor do suplemento\n\nAté à publicação da legislação a que se refere o n.º 3 do artigo 37.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, o pessoal dirigente e o da carreira da inspecção superior do IGAI tem direito a um suplemento idêntico ao percebido pelo demais pessoal de inspecção ao abrigo do estabelecido no artigo 32.º do Decreto-Lei n.º 291/93, de 24 de Agosto.\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+  },
+  "887970836": {
+   "fragment_id": "887971819",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 29 de Junho de 1995. - Aníbal António Cavaco Silva - Manuel Dias Loureiro - Eduardo de Almeida Catroga - José Manuel Durão Barroso - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 24 de Agosto de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Agosto de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "887970865": {
+   "fragment_id": "887971833",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "887970873": {
+   "fragment_id": "887971788",
+   "type": 11,
+   "heading": "Artigo 6.º — Inspector-geral",
+   "in_force_from": "1999-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 3/99 - Diário da República n.º 2/1999, Série I-A de 1999-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1999-492272), em vigor a partir de 1999-01-09"
+   ],
+   "markdown": "###### Artigo 6.º — Inspector-geral\n\n1 - A IGAI é dirigida por um inspector-geral, equiparado a director-geral, coadjuvado por dois subinspectores-gerais, equiparados a subdirectores-gerais.\n\n2 - O inspector-geral é substituído, na sua ausência ou impedimento, pelo subinspector-geral que indicar ao Ministro da Administração Interna.\n\n3 - Os subinspectores-gerais substituem-se reciprocamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 3/99 - Diário da República n.º 2/1999, Série I-A de 1999-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1999-492272), em vigor a partir de 1999-01-09"
+  },
+  "887974907": {
+   "fragment_id": "887971804",
+   "type": 11,
+   "heading": "Artigo 19.º — Pessoal de inspecção",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 19.º — Pessoal de inspecção\n\n1 - O pessoal de inspecção integra um corpo especial sujeito a regime próprio e não se desenvolve em carreira.\n\n2 - As categorias do pessoal de inspecção são as de inspector superior principal, inspector superior e inspector principal.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974906": {
+   "fragment_id": "887971806",
+   "type": 11,
+   "heading": "Artigo 21.º — Recrutamento do pessoal de inspecção",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 21.º — Recrutamento do pessoal de inspecção\n\n1 - (Revogado.)\n\n2 - O recrutamento de inspectores superiores principais, inspectores superiores e de inspectores principais pode também ser feito de entre magistrados judiciais ou do Ministério Público com, pelo menos, 10, 7 e 4 anos de experiência funcional, respectivamente, para a primeira, segunda e terceira categorias.\n\n3 - O disposto no n.º 2 do artigo 18.º é aplicável, com as devidas adaptações, ao pessoal de inspecção.\n\n4 - O recrutamento para os lugares de inspecção é feito por escolha, por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974908": {
+   "fragment_id": "887971807",
+   "type": 11,
+   "heading": "Artigo 22.º — Estágio",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+   ],
+   "markdown": "###### Artigo 22.º — Estágio\n\n1 - A frequência dos estágios que integram um curso de formação específica é feita em regime de contrato administrativo de provimento, no caso de indivíduos não vinculados à função pública, e em regime de comissão de serviço extraordinária, se o estagiário já estiver nomeado definitivamente noutra carreira.\n\n2 - Os estagiários são nomeados na categoria de ingresso do grupo a que se destinam, em função do número de vagas abertas a concurso.\n\n3 - A desistência e a não admissão dos estagiários aprovados que excedam o número de vagas fixado implica a imediata cessação da comissão de serviço extraordinária ou a rescisão do contrato administrativo de provimento sem que tal confira direito a qualquer indemnização.\n\n4 - O regulamento do estágio é aprovado por portaria do Ministro da Administração Interna.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+  },
+  "887974909": {
+   "fragment_id": "887971808",
+   "type": 11,
+   "heading": "Artigo 23.º — Conteúdo funcional",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 23.º — Conteúdo funcional\n\n1 - Ao pessoal de inspecção de alto nível compete:\n\na) A execução de acções inspectivas, de fiscalização e de auditoria;\n\nb) A realização de averiguações, inquéritos e sindicâncias;\n\nc) A instrução de processos disciplinares;\n\nd) A elaboração de estudos, pareceres e informações no âmbito das atribuições institucionais da IGAI.\n\n2 - Ao pessoal técnico de apoio à inspecção compete, em geral, realizar o conjunto de actividades de investigação, concepção, assessoria, apoio e suporte ao planeamento, organização, execução e controlo das acções de inspecção, fiscalização e auditoria.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974910": {
+   "fragment_id": "887971810",
+   "type": 11,
+   "heading": "Artigo 24.º — Remunerações",
+   "in_force_from": "2009-08-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 24.º — Remunerações\n\n1 - Ao exercício de funções do pessoal de inspecção corresponde o estatuto remuneratório do lugar de origem, com todas as regalias ao mesmo inerentes.\n\n2 - O pessoal dirigente e de inspecção tem direito a um suplemento correspondente a 30% do vencimento base ilíquido, o qual é considerado para todos os efeitos como vencimento, nomeadamente para efeitos do cálculo dos subsídios de férias e de Natal, bem como da pensão de aposentação.\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974911": {
+   "fragment_id": "887971781",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, âmbito e competência",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "### Capítulo I — Natureza, âmbito e competência\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974912": {
+   "fragment_id": "887971782",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Inspecção-Geral da Administração Interna (IGAI) é um serviço central de inspecção, fiscalização e apoio técnico do Ministério da Administração Interna (MAI), dotado de autonomia técnica e administrativa, que funciona na directa dependência do Ministro.\n\n2 - Para todos os efeitos não excepcionados neste diploma, a IGAI é caracterizada como inspecção de alto nível e o pessoal dirigente e de inspecção que o integra constitui um corpo especial sujeito a regime próprio.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974913": {
+   "fragment_id": "887971783",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede e âmbito",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 2.º — Sede e âmbito\n\n1 - A IGAI tem sede em Lisboa e desenvolve a sua acção inspectiva em todo o território nacional.\n\n2 - A actuação da IGAI abrange todos os serviços directamente dependentes ou tutelados pelo Ministro da Administração Interna, os governos civis e as entidades que exercem actividades de segurança privada.\n\n3 - A acção inspectiva da IGAI abrange ainda, em articulação com os serviços competentes do Ministério dos Negócios Estrangeiros, a actividade dos serviços dependentes do Ministro da Administração Interna que, nos termos dos tratados, convenções ou protocolos de cooperação, seja desenvolvida fora do território nacional.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974914": {
+   "fragment_id": "887971784",
+   "type": 11,
+   "heading": "Artigo 3.º — Competências",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — Competências\n\n1 - À IGAI compete, em geral, velar pelo cumprimento das leis e dos regulamentos, tendo em vista o bom funcionamento dos serviços tutelados pelo Ministro, a defesa dos legítimos interesses dos cidadãos, a salvaguarda do interesse público e a reintegração da legalidade violada.\n\n2 - No âmbito da sua acção inspectiva, fiscalizadora e investigatória, compete à IGAI, em especial:\n\na) Realizar inspecções ordinárias e utilizar métodos de auditoria com vista à regular avaliação da eficiência e eficácia dos serviços integrados na orgânica do MAI, de acordo com o respectivo plano de actividades;\n\nb) Realizar inspecções extraordinárias superiormente determinadas, com os objectivos e utilizando os métodos referidos na alínea anterior;\n\nc) Fiscalizar, sem prejuízo das competências do Conselho de Segurança Privada, o funcionamento das organizações que desempenham actividades de segurança privada, sempre que hajam fundadas dúvidas sobre a legalidade da sua actuação;\n\nd) Apreciar as queixas, reclamações e denúncias apresentadas por eventuais violações da legalidade e, em geral, as suspeitas de irregularidade ou deficiência no funcionamento dos serviços;\n\ne) Efectuar inquéritos, sindicâncias e peritagens, determinados pelo Ministro da Administração Interna, necessários à prossecução das respectivas competências;\n\nf) Instaurar processos de averiguações;\n\ng) Propor a instrução de processos disciplinares e instruir aqueles que forem determinados pelo Ministro da Administração Interna;\n\nh) Participar aos órgãos competentes para a investigação criminal os factos com relevância jurídico-criminal e colaborar com aqueles órgãos na obtenção de provas, sempre que isso for solicitado;\n\ni) Propor ao Ministro providências legislativas relativas à melhoria da qualidade e eficiência dos serviços e ao aperfeiçoamento das instituições de segurança e de protecção civil;\n\nj) Exercer outras competências previstas na lei ou superiormente ordenadas, no domínio das respectivas atribuições.\n\n3 - No âmbito da sua acção de apoio técnico ao Ministro, compete, em especial, à IGAI:\n\na) Coligir, analisar e interpretar os elementos necessários à preparação da resposta aos pedidos de esclarecimento feitos pelas organizações nacionais e internacionais de defesa e protecção dos direitos do homem;\n\nb) Realizar estudos e emitir pareceres sobre quaisquer matérias respeitantes às respectivas atribuições.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974915": {
+   "fragment_id": "887971785",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios fundamentais",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 4.º — Princípios fundamentais\n\n1 - A IGAI exerce todas as suas competências nos termos da Constituição e da lei, em defesa da legalidade democrática e no rigoroso respeito pelos direitos fundamentais dos cidadãos.\n\n2 - No exercício das funções investigatórias, nomeadamente de instrução dos processos de sindicância, de inquérito e disciplinares, a actuação da IGAI assenta no princípio da legalidade e norteia-se por critérios de rigorosa objectividade.\n\n3 - A IGAI não pode interferir no desenvolvimento da actuação operacional das forças e serviços de segurança, competindo-lhe, no entanto, averiguar a forma como a mesma se processa, bem como as respectivas consequências, sempre que for julgado conveniente.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974916": {
+   "fragment_id": "887971786",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos e serviços",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "### Capítulo II — Órgãos e serviços\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974917": {
+   "fragment_id": "887971787",
+   "type": 11,
+   "heading": "Artigo 5.º — Estrutura",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 5.º — Estrutura\n\nA IGAI compreende:\n\na) O inspector-geral;\n\nb) O Serviço de Inspecção e Fiscalização (SIF);\n\nc) O Departamento de Assuntos Internos (DAI);\n\nd) A Repartição Administrativa e de Apoio Geral (RAAG).\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974918": {
+   "fragment_id": "887971788",
+   "type": 11,
+   "heading": "Artigo 6.º — Inspector-geral",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 3/99 - Diário da República n.º 2/1999, Série I-A de 1999-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1999-492272), em vigor a partir de 1999-01-09"
+   ],
+   "markdown": "###### Artigo 6.º — Inspector-geral\n\n1 - A IGAI é dirigida por um inspector-geral, equiparado a director-geral, coadjuvado por dois subinspectores-gerais, equiparados a subdirectores-gerais.\n\n2 - O inspector-geral é substituído, na sua ausência ou impedimento, pelo subinspector-geral que indicar ao Ministro da Administração Interna.\n\n3 - Os subinspectores-gerais substituem-se reciprocamente.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 3/99 - Diário da República n.º 2/1999, Série I-A de 1999-01-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/3-1999-492272), em vigor a partir de 1999-01-09"
+  },
+  "887974919": {
+   "fragment_id": "887971789",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência do inspector-geral",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 7.º — Competência do inspector-geral\n\nSem prejuízo do disposto no estatuto do pessoal dirigente, compete, especialmente, ao inspector-geral:\n\na) Dirigir, coordenar e fiscalizar a actividade da IGAI e emitir as directivas, ordens e instruções a que deve obedecer a actuação dos inspectores;\n\nb) Elaborar o plano e o relatório anual de actividades para aprovação do Ministro;\n\nc) Submeter à decisão do Ministro os processos instruídos pela IGAI;\n\nd) Avocar processos ou proceder à sua redistribuição, mediante despacho fundamentado;\n\ne) Apreciar as questões relativas a suspeições, impedimentos e incompatibilidades suscitadas no âmbito dos processos instruídos pela IGAI.\n\nf) Determinar a instauração de processos de averiguações.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974920": {
+   "fragment_id": "887971790",
+   "type": 11,
+   "heading": "Artigo 8.º — Serviço de Inspecção e Fiscalização",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 8.º — Serviço de Inspecção e Fiscalização\n\n1 - O SIF é constituído pelo corpo de inspectores incumbidos das funções de inspecção e fiscalização e pelo Núcleo de Apoio Técnico (NAT).\n\n2 - O SIF é dirigido pelo subinspector-geral.\n\n3 - O número e a constituição das equipas de inspecção e fiscalização são fixados pelo inspector-geral, mediante proposta do subinspector-geral.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974921": {
+   "fragment_id": "887971791",
+   "type": 11,
+   "heading": "Artigo 9.º — Competências do SIF",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 9.º — Competências do SIF\n\n1 - Compete ao SIF:\n\na) Realizar inspecções, inquéritos, sindicâncias e processos de averiguações aos serviços centrais, aos governos civis e às forças e serviços de segurança integrados na orgânica do MAI;\n\nb) Averiguar do cumprimento das disposições legais e regulamentares, das instruções superiores e dos programas e planos aprovados por parte dos serviços referidos na alínea anterior;\n\nc) Fiscalizar, de forma sistemática, a organização e o funcionamento das empresas autorizadas a exercer actividades de segurança privada;\n\nd) Investigar, de forma permanente, o exercício ilegal de actividades de segurança privada;\n\ne) Analisar e emitir parecer sobre o grau de eficácia e a aptidão dos serviços inspeccionados e do respectivo pessoal, bem como sobre a legalidade da organização e actuação das empresas fiscalizadas;\n\nf) Propor a instauração e instruir os processos disciplinares ordenados pelo Ministro da Administração Interna e os resultantes da actividade inspectiva, bem como os processos sancionatórios resultantes da actividade fiscalizadora.\n\n2 - Ao NAT, directamente dependente do subinspector-geral, compete, em especial:\n\na) Assegurar as tarefas necessárias ao planeamento e controlo da actividade do SIF, cabendo-lhe preparar o plano de actuação e o relatório anual;\n\nb) Organizar manuais, guias, programas de trabalho e outros instrumentos de apoio técnico às acções de inspecção e fiscalização;\n\nc) Proceder ao tratamento da legislação e demais documentação de interesse para o SIF, promovendo a sua utilização pelos inspectores;\n\nd) Elaborar estudos, pareceres e informações sobre matérias da competência do SIF;\n\ne) Desenvolver e gerir aplicações informáticas, nomeadamente bases de dados sobre matérias de interesse para o SIF.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974922": {
+   "fragment_id": "887971792",
+   "type": 11,
+   "heading": "Artigo 10.º — Departamento de Assuntos Internos",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 10.º — Departamento de Assuntos Internos\n\n1 - O DAI é dirigido por um director de serviços.\n\n2 - O DAI é integrado por técnicos superiores e inspectores do SIF que lhe são temporariamente afectos e funciona na directa dependência do inspector-geral.\n\n3 - Compete ao DAI:\n\na) Assegurar o controlo do funcionamento e da actividade do serviço, avaliando, em permanência, o seu nível de eficácia, as deficiências detectadas e a forma de optimizar a prossecução dos objectivos institucionais;\n\nb) Averiguar as queixas e reclamações por factos imputados ao pessoal, bem como as suspeitas de desvios, abusos ou quaisquer violações de deveres estatutários;\n\nc) Instruir processos de inquérito e disciplinares nos quais seja visado pessoal da IGAI.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974923": {
+   "fragment_id": "887971793",
+   "type": 11,
+   "heading": "Artigo 11.º — Repartição Administrativa e de Apoio Geral",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 11.º — Repartição Administrativa e de Apoio Geral\n\n1 - A RAAG funciona na directa dependência do inspector-geral e compreende duas secções:\n\na) A Secção de Processos e Expediente Geral (SPEG);\n\nb) A Secção de Pessoal, Contabilidade e Economato (SPCE).\n\n2 - À SPEG compete:\n\na) Registar os documentos dirigidos à IGAI, as ordens e instruções de serviço, os relatórios e os despachos do Ministro, do inspector-geral e do subinspector-geral;\n\nb) Escriturar o livro de registo de processos e registar os pareceres dos inspectores;\n\nc) Praticar todos os actos relativos à movimentação dos processos e manter permanentemente actualizado o respectivo ficheiro;\n\nd) Assegurar a organização e manutenção do arquivo geral;\n\ne) Assegurar e controlar a reprodução de documentos e praticar os demais actos de expediente geral.\n\n3 - À SPCE compete:\n\na) Promover e executar, em articulação com a Secretaria-Geral do MAI, as acções relativas à gestão do pessoal do quadro único do MAI afecto à IGAI;\n\nb) Organizar e actualizar o cadastro do pessoal;\n\nc) Elaborar e executar o orçamento e a contabilidade, bem como o expediente a eles respeitante;\n\nd) Preparar a aquisição e assegurar a gestão dos bens afectos à IGAI, bem como manter actualizado o respectivo inventário.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974924": {
+   "fragment_id": "887971795",
+   "type": 11,
+   "heading": "Artigo 12.º — Funcionamento das inspecções",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 12.º — Funcionamento das inspecções\n\n1 - Compete ao Ministro da Administração Interna ordenar as inspecções, as sindicâncias, os inquéritos e os processos disciplinares que devam ser instruídos pela IGAI.\n\n2 - As acções mencionadas no número anterior são executadas por inspectores, que actuam na directa dependência do subinspector-geral.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974925": {
+   "fragment_id": "887971797",
+   "type": 11,
+   "heading": "Artigo 14.º — Relatório das acções",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 14.º — Relatório das acções\n\n1 - No final de cada acção será elaborado o relatório dos trabalhos realizados, dentro do prazo estabelecido, e, quando se trate de inspecção, deverá dele constar a enumeração das providências que se entenda devam ser adoptadas.\n\n2 - O relatório acompanha sempre o respectivo processo aquando da sua entrega para decisão do Ministro, nos termos da alínea c) do artigo 7.º\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974926": {
+   "fragment_id": "887971798",
+   "type": 11,
+   "heading": "Artigo 15.º — Acompanhamento do resultado das acções da IGAI",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 15.º — Acompanhamento do resultado das acções da IGAI\n\nA IGAI acompanha a execução, pelos serviços competentes, das decisões proferidas pelo Ministro da Administração Interna nos processos, para correcção ou reparação das irregularidades, deficiências ou anomalias encontradas.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974927": {
+   "fragment_id": "887971799",
+   "type": 11,
+   "heading": "Artigo 16.º — Dever de cooperação",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 16.º — Dever de cooperação\n\n1 - Os titulares dos órgãos de comando e direcção, bem como os funcionários e agentes dos serviços sujeitos aos poderes de inspecção e fiscalização da IGAI, são obrigados a prestar todas as informações, esclarecimentos e demais colaboração que lhes forem solicitados, no âmbito das respectivas atribuições.\n\n2 - A comparência para a prestação de declarações ou depoimentos em processos de inquérito, de sindicância ou disciplinares por responsáveis e funcionários ou agentes dos organismos do Estado é requisitada à entidade de que dependem e só poderá ser recusada uma vez, por motivo de serviço público inadiável.\n\n3 - A falta de comparência injustificada constitui incumprimento de ordem legítima da autoridade competente e faz incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da lei.\n\n4 - A recusa da colaboração devida e a oposição ao exercício da acção inspectiva e fiscalizadora da IGAI fazem incorrer o infractor em responsabilidade disciplinar e criminal, nos termos da lei.\n\n5 - A IGAI poderá solicitar a qualquer pessoa colectiva de direito privado ou cidadão informações e ainda a este último depoimentos, sempre que o repute necessário para o apuramento dos factos da sua competência.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974928": {
+   "fragment_id": "887971800",
+   "type": 1,
+   "heading": "Capítulo IV — Pessoal",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "### Capítulo IV — Pessoal\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974929": {
+   "fragment_id": "887971801",
+   "type": 8,
+   "heading": "Secção I — Quadro e carreiras",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "#### Secção I — Quadro e carreiras\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974930": {
+   "fragment_id": "887971802",
+   "type": 11,
+   "heading": "Artigo 17.º — Quadro privativo",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 17.º — Quadro privativo\n\n1 - O pessoal da IGAI integra um quadro privativo, que abrange os seguintes grupos e categorias:\n\na) Pessoal dirigente;\n\nb) Pessoal de chefia;\n\nc) Pessoal de inspecção;\n\nd) Pessoal de apoio técnico;\n\ne) Pessoal administrativo;\n\nf) Pessoal auxiliar.\n\n2 - O quadro do pessoal dirigente e de chefia é o constante do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n3 - A composição do quadro, bem como as respectivas dotações do pessoal de inspecção, apoio técnico, administrativo e auxiliar, são fixados por portaria conjunta dos Ministros das Finanças e da Administração Interna e do Ministro Adjunto.\n\n4 - A distribuição do pessoal pelos serviços e departamentos da IGAI é feita por despacho do inspector-geral, tendo em consideração a experiência profissional e a natureza das funções a exercer.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974931": {
+   "fragment_id": "887971803",
+   "type": 11,
+   "heading": "Artigo 18.º — Pessoal dirigente",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 18.º — Pessoal dirigente\n\n1 - Os cargos de inspector-geral, subinspector-geral e director do DAI podem ser providos por magistrado judicial ou do Ministério Público com categoria não inferior a juiz desembargador ou procurador-geral-adjunto, respectivamente, no primeiro caso, e de preferência que tenham exercido funções de inspecção nos respectivos quadros de origem.\n\n2 - A nomeação nos termos do número anterior é obrigatoriamente precedida de autorização, a obter de harmonia com as respectivas leis estatutárias, considerando-se o serviço prestado nos referidos cargos como se o tivesse sido nas categorias e funções próprias dos quadros de origem e não determinando abertura de vaga no lugar de origem ou naquele para que, entretanto, o titular tiver sido nomeado.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974932": {
+   "fragment_id": "887971830",
+   "type": 11,
+   "heading": "Artigo 18.º-A — Pessoal de chefia",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 18.º-A — Pessoal de chefia\n\n1 - O recrutamento para o lugar de chefe de repartição é feito mediante concurso de entre:\n\na) Chefes de secção com, pelo menos, três anos de serviço na categoria e classificação de Muito bom;\n\nb) Indivíduos possuidores de curso superior adequado e experiência profissional não inferior a três anos na Administração Pública.\n\n2 - Os lugares de chefe de secção são providos nos termos da lei geral.\n\n3 - O lugar de chefe da Secção de Processos e Expediente Geral (SPEG) pode ainda ser preenchido por escrivão de direito com, pelo menos, três anos de serviço na categoria, em comissão de serviço, por períodos de três anos, renováveis, aplicando-se-lhe, com as devidas adaptações, o regime previsto no n.º 2 do artigo 18.º e podendo optar pelo estatuto remuneratório do lugar de origem.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974933": {
+   "fragment_id": "887971804",
+   "type": 11,
+   "heading": "Artigo 19.º — Pessoal de inspecção",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 19.º — Pessoal de inspecção\n\n1 - O pessoal de inspecção integra um corpo especial sujeito a regime próprio e não se desenvolve em carreira.\n\n2 - As categorias do pessoal de inspecção são as de inspector superior principal, inspector superior e inspector principal.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974934": {
+   "fragment_id": "887971805",
+   "type": 11,
+   "heading": "Artigo 20.º — Função de interesse público",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 20.º — Função de interesse público\n\nO exercício de funções dirigentes e de inspecção é de reconhecido interesse público para efeito do disposto no n.º 1, alínea c), do artigo 6.º do Decreto-Lei n.º 323/89, de 26 de Setembro.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974935": {
+   "fragment_id": "887971806",
+   "type": 11,
+   "heading": "Artigo 21.º — Recrutamento do pessoal de inspecção",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 21.º — Recrutamento do pessoal de inspecção\n\n1 - (Revogado.)\n\n2 - O recrutamento de inspectores superiores principais, inspectores superiores e de inspectores principais pode também ser feito de entre magistrados judiciais ou do Ministério Público com, pelo menos, 10, 7 e 4 anos de experiência funcional, respectivamente, para a primeira, segunda e terceira categorias.\n\n3 - O disposto no n.º 2 do artigo 18.º é aplicável, com as devidas adaptações, ao pessoal de inspecção.\n\n4 - O recrutamento para os lugares de inspecção é feito por escolha, por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.\n\n5 - (Revogado.)\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974936": {
+   "fragment_id": "887971807",
+   "type": 11,
+   "heading": "Artigo 22.º — Estágio",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+   ],
+   "markdown": "###### Artigo 22.º — Estágio\n\n1 - A frequência dos estágios que integram um curso de formação específica é feita em regime de contrato administrativo de provimento, no caso de indivíduos não vinculados à função pública, e em regime de comissão de serviço extraordinária, se o estagiário já estiver nomeado definitivamente noutra carreira.\n\n2 - Os estagiários são nomeados na categoria de ingresso do grupo a que se destinam, em função do número de vagas abertas a concurso.\n\n3 - A desistência e a não admissão dos estagiários aprovados que excedam o número de vagas fixado implica a imediata cessação da comissão de serviço extraordinária ou a rescisão do contrato administrativo de provimento sem que tal confira direito a qualquer indemnização.\n\n4 - O regulamento do estágio é aprovado por portaria do Ministro da Administração Interna.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+  },
+  "887974937": {
+   "fragment_id": "887971808",
+   "type": 11,
+   "heading": "Artigo 23.º — Conteúdo funcional",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 23.º — Conteúdo funcional\n\n1 - Ao pessoal de inspecção de alto nível compete:\n\na) A execução de acções inspectivas, de fiscalização e de auditoria;\n\nb) A realização de averiguações, inquéritos e sindicâncias;\n\nc) A instrução de processos disciplinares;\n\nd) A elaboração de estudos, pareceres e informações no âmbito das atribuições institucionais da IGAI.\n\n2 - Ao pessoal técnico de apoio à inspecção compete, em geral, realizar o conjunto de actividades de investigação, concepção, assessoria, apoio e suporte ao planeamento, organização, execução e controlo das acções de inspecção, fiscalização e auditoria.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974938": {
+   "fragment_id": "887971809",
+   "type": 8,
+   "heading": "Secção II — Direitos e deveres",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "#### Secção II — Direitos e deveres\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974939": {
+   "fragment_id": "887971810",
+   "type": 11,
+   "heading": "Artigo 24.º — Remunerações",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 24.º — Remunerações\n\n1 - Ao exercício de funções do pessoal de inspecção corresponde o estatuto remuneratório do lugar de origem, com todas as regalias ao mesmo inerentes.\n\n2 - O pessoal dirigente e de inspecção tem direito a um suplemento correspondente a 30% do vencimento base ilíquido, o qual é considerado para todos os efeitos como vencimento, nomeadamente para efeitos do cálculo dos subsídios de férias e de Natal, bem como da pensão de aposentação.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 170/2009 - Diário da República n.º 148/2009, Série I de 2009-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), em vigor a partir de 2009-08-04\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974940": {
+   "fragment_id": "887971811",
+   "type": 11,
+   "heading": "Artigo 25.º — Identificação e livre trânsito",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 25.º — Identificação e livre trânsito\n\n1 - O pessoal dirigente, de inspecção e de apoio técnico tem direito ao uso de cartão de identificação e livre trânsito de modelo aprovado por portaria do Ministro, o qual constitui título bastante para o exercício dos seguintes poderes de autoridade:\n\na) Livre acesso a todos os serviços, instalações e estabelecimentos ou locais onde se exerçam actividades abrangidas pelas competências da IGAI, sem necessidade de aviso prévio;\n\nb) Utilização, nos locais inspeccionados ou fiscalizados, mediante acordo dos responsáveis, de instalações adequadas ao exercício das respectivas funções;\n\nc) Obtenção, mediante acordo dos responsáveis, do material e equipamento indispensáveis, bem como da colaboração do respectivo pessoal;\n\nd) Requisição, para exame, consulta e junção aos autos, de processos e documentos ou das respectivas certidões, bem como de quaisquer outros elementos existentes nos livros, registos e arquivos dos serviços inspeccionados ou fiscalizados.\n\n2 - O acesso às instalações e a circulação pelos locais onde as forças e serviços de segurança exercem as suas actividades são feitos mediante apresentação pessoal ao mais alto responsável que, no momento da diligência, se encontre no local e comunicação, logo que possível, ao dirigente máximo do serviço visado.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974941": {
+   "fragment_id": "887971812",
+   "type": 11,
+   "heading": "Artigo 26.º — Transporte e deslocações",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 26.º — Transporte e deslocações\n\nAs condições de utilização da rede de transportes públicos são definidas por portaria conjunta dos ministros responsáveis pela administração interna e pelos transportes.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974942": {
+   "fragment_id": "887971813",
+   "type": 11,
+   "heading": "Artigo 27.º — Formação",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 27.º — Formação\n\nA IGAI promove acções de formação, aperfeiçoamento e reciclagem do pessoal, podendo recorrer a especialistas de reconhecido mérito nas áreas de interesse para o serviço e a instituições nacionais ou estrangeiras especialmente vocacionadas para esse efeito.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974943": {
+   "fragment_id": "887971814",
+   "type": 11,
+   "heading": "Artigo 28.º — Sigilo profissional",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 28.º — Sigilo profissional\n\nPara além da sujeição aos deveres gerais inerentes ao exercício de funções públicas, os funcionários e agentes da IGAI e todos aqueles que com eles colaborarem são especialmente obrigados a guardar rigoroso sigilo sobre todas as matérias de que tiverem conhecimento no exercício ou por causa do exercício das suas funções.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974944": {
+   "fragment_id": "887971815",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime de prestação do trabalho",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "###### Artigo 29.º — Regime de prestação do trabalho\n\n1 - O regime de duração do trabalho do pessoal da carreira de inspecção superior e de outros funcionários que colaborem com aquele em acções inspectivas é o estabelecido para a função pública, podendo, no entanto, as respectivas funções ser exercidas a qualquer hora, consoante as necessidades de serviço.\n\n2 - Os funcionários referidos no número anterior que tenham de prestar serviço nos dias de descanso semanal ou feriados têm direito a igual período de descanso num dos oito dias seguintes.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974945": {
+   "fragment_id": "887971831",
+   "type": 11,
+   "heading": "Artigo 29.º-A — Uso e porte de arma",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 29.º-A — Uso e porte de arma\n\n1 - O pessoal dirigente e de inspecção, enquanto no exercício efectivo de funções na IGAI, é dispensado de licença de uso e porte de arma de defesa, valendo como tal o cartão de identificação referido no artigo 25.º\n\n2 - O pessoal referido no número anterior tem direito a que lhe seja distribuída, por conta do Estado, arma de defesa, em condições a regulamentar por despacho do Ministro da Administração Interna, mediante proposta do inspector-geral.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974946": {
+   "fragment_id": "887971832",
+   "type": 11,
+   "heading": "Artigo 29.º-B — Garantias",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 29.º-B — Garantias\n\nO pessoal da IGAI não pode ser prejudicado no seu emprego, na estabilidade e progresso da carreira, bem como quanto ao regime de segurança social, de que beneficie nos lugares de origem.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974947": {
+   "fragment_id": "887971816",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições transitórias\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  },
+  "887974948": {
+   "fragment_id": "887971817",
+   "type": 11,
+   "heading": "Artigo 30.º — Preenchimento transitório de lugares",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+   ],
+   "markdown": "###### Artigo 30.º — Preenchimento transitório de lugares\n\nDurante três anos contados a partir da data da primeira tomada de posse do inspector-geral, a IGAI pode, nos termos da lei e dentro das respectivas dotações orçamentais, recorrer à contratação de pessoal técnico e administrativo devidamente habilitado.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1996-09-01"
+  },
+  "887974949": {
+   "fragment_id": "887971818",
+   "type": 11,
+   "heading": "Artigo 31.º — Valor do suplemento",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01",
+    "Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+   ],
+   "markdown": "###### Artigo 31.º — Valor do suplemento\n\nAté à publicação da legislação a que se refere o n.º 3 do artigo 37.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, o pessoal dirigente e o da carreira da inspecção superior do IGAI tem direito a um suplemento idêntico ao percebido pelo demais pessoal de inspecção ao abrigo do estabelecido no artigo 32.º do Decreto-Lei n.º 291/93, de 24 de Agosto.\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01\n\n> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 154/96 - Diário da República n.º 202/1996, Série I-A de 1996-08-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-1996-241400), em vigor a partir de 1998-09-01"
+  },
+  "940673964": {
+   "fragment_id": "887971833",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2012-04-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+   ],
+   "markdown": "## Anexo\n\n> Revogado pelo/a Artigo 12.º do/a [Decreto-Lei n.º 58/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), em vigor a partir de 2012-04-01"
+  }
+ }
+}

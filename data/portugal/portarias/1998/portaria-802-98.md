@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:246105:por
+title: Portaria n.º 802/98
+short_title: null
+summary: Fixa o número de médicos dos Gabinetes Médico-Legais de Bragança, Guimarães e Viana do Castelo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 802/98
+official_date: null
+publication_date: '1998-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 221/1998, Série I-B de 1998-09-24
+  number: '221'
+  series: I
+  supplement: null
+  pages: 4945 - 4945
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/09/221b00/49454945.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/802/1998/09/24/p/dre/pt/html
+  oj: null
+  dre: '246105'
+  dre_path: /dr/detalhe/portaria/802-1998-246105
+  internal: pt:dre:246105:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/802-1998-246105
+  metadata_url: https://data.dre.pt/eli/port/802/1998/09/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/802-1998-246105
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-09-24T00:00:00Z'
+integrity:
+  source_sha256: 51eeb82cf4b9e34ab7ef398fd18fc55802bb536b5c13f0d5da6fd7d69c5ff98f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-802-246105.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Carreira Médica
+- Carreira Médica de Medicina Legal
+- Gabinete Médico-legal
+- Guimarães
+- Medicina Legal
+- Quadro de Pessoal
+- Bragança
+- Viana do Castelo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/1998/01/24/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 802/98
+
+de 24 de Setembro
+
+A realização de autópsias médico-legais e de exames de clínica médico-legal nas comarcas integradas nas áreas de actuação dos gabinetes médico-legais é, actualmente, assegurada por médicos contratados para o exercício de funções periciais, em número a definir por portaria do Ministro da Justiça, sob proposta do Conselho Superior de Medicina Legal, nos termos do artigo 39.º do [Decreto-Lei n.º 11/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1998-222631), de 24 de Janeiro. Importa, pois, definir o número de médicos a contratar para cada um dos gabinetes médico-legais já instalados.
+
+Foi ouvido o Conselho Superior de Medicina Legal, que apresentou a correspondente proposta, nos termos da lei.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Justiça, ao abrigo do disposto no artigo 39.º, n.º 2, do [Decreto-Lei n.º 11/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1998-222631), de 24 de Janeiro, que o número de médicos dos Gabinetes Médico-Legais de Bragança, Guimarães e Viana do Castelo, a que se referem os artigos 36.º e 39.º do [Decreto-Lei n.º 11/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1998-222631), de 24 de Janeiro, seja fixado pela forma seguinte:
+
+[(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/1998/09/221b00/49454945.pdf)
+
+Ministério da Justiça.
+
+**Assinada em 9 de Setembro de 1998.**
+
+**O Ministro da Justiça, José Eduardo Vera Cruz Jardim.**

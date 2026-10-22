@@ -1,0 +1,271 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:146916:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-162539685",
+ "dre_path": "/dr/detalhe/decreto-lei/38-1991-146916",
+ "source_lastmod": "2025-06-30",
+ "versions": [
+  {
+   "date": "1991-01-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "923028718",
+    "162540076",
+    "162540077",
+    "162540078",
+    "162540079",
+    "162540080",
+    "162540081",
+    "162540083",
+    "162540084"
+   ]
+  },
+  {
+   "date": "1991-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:644370:por",
+     "title": "Declaração de Rectificação n.º 28-A/91",
+     "published": "1991-02-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/28-a-1991-644370"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo II"
+   ],
+   "fragments": [
+    "162540075",
+    "162540076",
+    "162540077",
+    "162540078",
+    "162540079",
+    "162540080",
+    "162540081",
+    "162540082",
+    "923028717",
+    "162540084"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "923028718",
+    "923028719",
+    "923028720",
+    "923028721",
+    "923028722",
+    "923028723",
+    "923028724",
+    "923028725",
+    "923028726",
+    "923028727"
+   ]
+  }
+ ],
+ "fragments": {
+  "923028718": {
+   "fragment_id": "162539686",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 38/91\n\nde 18 de Janeiro\n\nO Decreto-Lei n.º 34/90, de 24 de Janeiro, que veio estabelecer as regras de aplicação do novo estatuto remuneratório do pessoal de enfermagem, contém algumas lacunas pontuais, que se torna urgente colmatar.\n\nPor outro lado, alguns dos seus artigos têm sido objecto de interpretações díspares, o que suscita a necessidade do seu esclarecimento.\n\nImpõe-se, por isso, através do presente diploma legal, elaborado com a audição das organizações sindicais, proceder à clarificação do seu articulado, bem como à introdução de aditamentos que supram as lacunas acima referidas.\n\nConsiderando que existem profissionais de enfermagem habilitados com formação especializada mas impossibilitados de a exercer, introduz-se um mecanismo de carácter transitório que facilita o acesso à categoria de enfermeiro especialista e, consequentemente, o exercício das funções correspondentes à especialidade, ultrapassando, assim, as carências que neste campo se têm feito sentir nas instituições de saúde.\n\nCom o objectivo de facilitar a aplicação dos princípios do novo sistema retributivo aos enfermeiros dos organismos dependentes de outros ministérios, introduz-se também um mcanismo que a torna mais expedita.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "162540076": {
+   "fragment_id": "162539687",
+   "type": 11,
+   "heading": "Artigo 1.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alterações\n\n1 - Os artigos 2.º e 10.º do Decreto-Lei n.º 34/90, de 24 de Janeiro, passam a ter a seguinte redacção:\n\n«artigo 2.º\n\nÂmbito\n\n1 - O presente diploma aplica-se aos enfermeiros providos em lugares de quadros ou mapas dos estabelecimentos e serviços dependentes do Ministério da Saúde.\n\n2 - O disposto no presente diploma é ainda aplicável aos enfermeiros dos organismos dependentes de outros ministérios, ou por eles tutelados, onde se encontra prevista a carreira de enfermagem.\n\n3 - Na aplicação referida no número anterior será tido em consideração o princípio da absorção das remunerações acessórias na remuneração base.\n\n4 - Sempre que da aplicação dos n.os 2 e 3 a transição prevista nos anexos II e III deste diploma não cumpra o disposto no n.º 2 do artigo 30.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, a transição para a nova estrutura far-se-á por portaria conjunta do Primeiro-Ministro e dos membros do Governo da tutela.\n\n5 - O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio.\n\nArtigo 10.º\n\nSalvaguarda de tempo de serviço\n\n1 - Para efeitos de antiguidade do enfermeiro na categoria para que transitou é considerado o tempo de serviço prestado na respectiva categoria.\n\n2 - Durante o período de condicionamento das progressões e para efeitos de progressão na categoria para a qual o enfermeiro transitou será contado o conjunto de tempo de serviço previsto no número anterior e do tempo durante o qual foi remunerado pela letra de vencimento atribuída ao escalão onde se encontrava posicionado na categoria anterior, bem como ao escalão que o antecedia na mesma categoria.\n\n3 - Para efeitos do disposto no número anterior, a revalorização de letra operada pelo Decreto-Lei n.º 134/87, de 17 de Março, ou por diploma dele decorrente, não prejudica a agregação do tempo de serviço prestado nos escalões.»"
+  },
+  "162540077": {
+   "fragment_id": "162539688",
+   "type": 11,
+   "heading": "Artigo 2.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Contagem de tempo de serviço\n\nO tempo de serviço prestado em regime de contrato de trabalho a termo certo celebrado ao abrigo do n.º 2 do artigo 37.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, será contado, para todos os efeitos legais, aos enfermeiros em exercício de funções à data da entrada em vigor do Decreto-Lei n.º 34/90, de 24 de Janeiro, quando se tenha verificado ou vier a verificar, sem interrupção na prestação de funções, a nomeação em categoria da carreira de enfermagem."
+  },
+  "162540078": {
+   "fragment_id": "162539689",
+   "type": 11,
+   "heading": "Artigo 3.º — Remunerações omissas nos anexos II e III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Remunerações omissas nos anexos II e III\n\nOs anexos II e III mencionados no artigo 9.º do Decreto-Lei n.º 34/90, de 24 de Janeiro, são substituídos, respectivamente, pelos anexos II e III do presente diploma."
+  },
+  "162540079": {
+   "fragment_id": "162539690",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime especial de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime especial de transição\n\nO pessoal que tenha mudado de letra de vencimento por promoção ou alteração de escalão a partir de 1 de Outubro de 1989 e até à data da entrada em vigor do Decreto-Lei n.º 34/90, de 24 de Janeiro, transita para a nova estrutura salarial de acordo com a categoria e letra de que é titular à data da entrada em vigor daquele diploma, devendo, para efeitos de cálculo da remuneração, atender-se, entre 1 de Outubro de 1989 e a data em que se verificou aquela mudança, ao índice atribuído à situação que o funcionário detinha nesse período."
+  },
+  "162540080": {
+   "fragment_id": "162539691",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso à categoria de enfermeiro especialista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acesso à categoria de enfermeiro especialista\n\n1 - Aos enfermeiros integrados na carreira de enfermagem detentores de categoria do grau 2 e habilitados com um curso de especialização em enfermagem nos termos do n.º 1 do artigo 14.º do Decreto-Lei n.º 178/85, de 23 de Maio, ou que venham a adquirir esta habilitação, é considerado o somatório do tempo de serviço prestado nas categorias dos graus 1 e 2, para efeitos de concurso de acesso à categoria de enfermeiro especialista, não podendo o referido somatório, para os mesmos efeitos, ser inferior a seis anos com classificação de serviço não inferior a Bom ou quatro anos consecutivos com classificação de serviço de Muito bom.\n\n2 - A faculdade prevista no número anterior tem carácter transitório, só podendo ser exercida no âmbito de concursos que sejam abertos no prazo de três anos contados a partir da entrada em vigor do presente diploma."
+  },
+  "162540081": {
+   "fragment_id": "162539692",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO disposto no artigo 3.º reporta os seus efeitos a 1 de Outubro de 1989."
+  },
+  "162540083": {
+   "fragment_id": "162539694",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Nota: [Declaração de Rectificação n.º 28-A/91 - Diário da República n.º 49/1991, 1º Suplemento, Série I-A de 1991-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-1991-644370) Retifica o presente anexo, nos seguintes termos: Acrescenta, na categoria de enfermeiro especialista, a nota (a) nas letras F1 e F0."
+  },
+  "162540084": {
+   "fragment_id": "162539695",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III\n\n(ver documento original)"
+  },
+  "162540075": {
+   "fragment_id": "162539686",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 38/91\n\nde 18 de Janeiro\n\nO Decreto-Lei n.º 34/90, de 24 de Janeiro, que veio estabelecer as regras de aplicação do novo estatuto remuneratório do pessoal de enfermagem, contém algumas lacunas pontuais, que se torna urgente colmatar.\n\nPor outro lado, alguns dos seus artigos têm sido objecto de interpretações díspares, o que suscita a necessidade do seu esclarecimento.\n\nImpõe-se, por isso, através do presente diploma legal, elaborado com a audição das organizações sindicais, proceder à clarificação do seu articulado, bem como à introdução de aditamentos que supram as lacunas acima referidas.\n\nConsiderando que existem profissionais de enfermagem habilitados com formação especializada mas impossibilitados de a exercer, introduz-se um mecanismo de carácter transitório que facilita o acesso à categoria de enfermeiro especialista e, consequentemente, o exercício das funções correspondentes à especialidade, ultrapassando, assim, as carências que neste campo se têm feito sentir nas instituições de saúde.\n\nCom o objectivo de facilitar a aplicação dos princípios do novo sistema retributivo aos enfermeiros dos organismos dependentes de outros ministérios, introduz-se também um mcanismo que a torna mais expedita.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "162540082": {
+   "fragment_id": "162539693",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Gomes de Carvalho.\n\nPromulgado em 14 de Janeiro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Janeiro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "923028717": {
+   "fragment_id": "162539694",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "1991-02-28",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 28-A/91 - Diário da República n.º 49/1991, 1º Suplemento, Série I-A de 1991-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-1991-644370), em vigor a partir de 1991-02-28"
+   ],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Nota: [Declaração de Rectificação n.º 28-A/91 - Diário da República n.º 49/1991, 1º Suplemento, Série I-A de 1991-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-1991-644370) Retifica o presente anexo, nos seguintes termos: Acrescenta, na categoria de enfermeiro especialista, a nota (a) nas letras F1 e F0.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28-A/91 - Diário da República n.º 49/1991, 1º Suplemento, Série I-A de 1991-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-1991-644370), em vigor a partir de 1991-02-28"
+  },
+  "923028719": {
+   "fragment_id": "162539687",
+   "type": 11,
+   "heading": "Artigo 1.º — Alterações",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 1.º — Alterações\n\n1 - Os artigos 2.º e 10.º do Decreto-Lei n.º 34/90, de 24 de Janeiro, passam a ter a seguinte redacção:\n\n«artigo 2.º\n\nÂmbito\n\n1 - O presente diploma aplica-se aos enfermeiros providos em lugares de quadros ou mapas dos estabelecimentos e serviços dependentes do Ministério da Saúde.\n\n2 - O disposto no presente diploma é ainda aplicável aos enfermeiros dos organismos dependentes de outros ministérios, ou por eles tutelados, onde se encontra prevista a carreira de enfermagem.\n\n3 - Na aplicação referida no número anterior será tido em consideração o princípio da absorção das remunerações acessórias na remuneração base.\n\n4 - Sempre que da aplicação dos n.os 2 e 3 a transição prevista nos anexos II e III deste diploma não cumpra o disposto no n.º 2 do artigo 30.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, a transição para a nova estrutura far-se-á por portaria conjunta do Primeiro-Ministro e dos membros do Governo da tutela.\n\n5 - O disposto no presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio.\n\nArtigo 10.º\n\nSalvaguarda de tempo de serviço\n\n1 - Para efeitos de antiguidade do enfermeiro na categoria para que transitou é considerado o tempo de serviço prestado na respectiva categoria.\n\n2 - Durante o período de condicionamento das progressões e para efeitos de progressão na categoria para a qual o enfermeiro transitou será contado o conjunto de tempo de serviço previsto no número anterior e do tempo durante o qual foi remunerado pela letra de vencimento atribuída ao escalão onde se encontrava posicionado na categoria anterior, bem como ao escalão que o antecedia na mesma categoria.\n\n3 - Para efeitos do disposto no número anterior, a revalorização de letra operada pelo Decreto-Lei n.º 134/87, de 17 de Março, ou por diploma dele decorrente, não prejudica a agregação do tempo de serviço prestado nos escalões.»\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923028720": {
+   "fragment_id": "162539688",
+   "type": 11,
+   "heading": "Artigo 2.º — Contagem de tempo de serviço",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 2.º — Contagem de tempo de serviço\n\nO tempo de serviço prestado em regime de contrato de trabalho a termo certo celebrado ao abrigo do n.º 2 do artigo 37.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, será contado, para todos os efeitos legais, aos enfermeiros em exercício de funções à data da entrada em vigor do Decreto-Lei n.º 34/90, de 24 de Janeiro, quando se tenha verificado ou vier a verificar, sem interrupção na prestação de funções, a nomeação em categoria da carreira de enfermagem.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923028721": {
+   "fragment_id": "162539689",
+   "type": 11,
+   "heading": "Artigo 3.º — Remunerações omissas nos anexos II e III",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 3.º — Remunerações omissas nos anexos II e III\n\nOs anexos II e III mencionados no artigo 9.º do Decreto-Lei n.º 34/90, de 24 de Janeiro, são substituídos, respectivamente, pelos anexos II e III do presente diploma.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923028722": {
+   "fragment_id": "162539690",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime especial de transição",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 4.º — Regime especial de transição\n\nO pessoal que tenha mudado de letra de vencimento por promoção ou alteração de escalão a partir de 1 de Outubro de 1989 e até à data da entrada em vigor do Decreto-Lei n.º 34/90, de 24 de Janeiro, transita para a nova estrutura salarial de acordo com a categoria e letra de que é titular à data da entrada em vigor daquele diploma, devendo, para efeitos de cálculo da remuneração, atender-se, entre 1 de Outubro de 1989 e a data em que se verificou aquela mudança, ao índice atribuído à situação que o funcionário detinha nesse período.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923028723": {
+   "fragment_id": "162539691",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso à categoria de enfermeiro especialista",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — Acesso à categoria de enfermeiro especialista\n\n1 - Aos enfermeiros integrados na carreira de enfermagem detentores de categoria do grau 2 e habilitados com um curso de especialização em enfermagem nos termos do n.º 1 do artigo 14.º do Decreto-Lei n.º 178/85, de 23 de Maio, ou que venham a adquirir esta habilitação, é considerado o somatório do tempo de serviço prestado nas categorias dos graus 1 e 2, para efeitos de concurso de acesso à categoria de enfermeiro especialista, não podendo o referido somatório, para os mesmos efeitos, ser inferior a seis anos com classificação de serviço não inferior a Bom ou quatro anos consecutivos com classificação de serviço de Muito bom.\n\n2 - A faculdade prevista no número anterior tem carácter transitório, só podendo ser exercida no âmbito de concursos que sejam abertos no prazo de três anos contados a partir da entrada em vigor do presente diploma.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923028724": {
+   "fragment_id": "162539692",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO disposto no artigo 3.º reporta os seus efeitos a 1 de Outubro de 1989.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923028725": {
+   "fragment_id": "162539693",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Dezembro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Arlindo Gomes de Carvalho.\n\nPromulgado em 14 de Janeiro de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 16 de Janeiro de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "923028726": {
+   "fragment_id": "162539694",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Retificado pelo/a [Declaração de Rectificação n.º 28-A/91 - Diário da República n.º 49/1991, 1º Suplemento, Série I-A de 1991-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-1991-644370), em vigor a partir de 1991-02-28"
+   ],
+   "markdown": "## Anexo II\n\n(ver documento original)\n\n> Nota: [Declaração de Rectificação n.º 28-A/91 - Diário da República n.º 49/1991, 1º Suplemento, Série I-A de 1991-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-1991-644370) Retifica o presente anexo, nos seguintes termos: Acrescenta, na categoria de enfermeiro especialista, a nota (a) nas letras F1 e F0.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Retificado pelo/a [Declaração de Rectificação n.º 28-A/91 - Diário da República n.º 49/1991, 1º Suplemento, Série I-A de 1991-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/28-a-1991-644370), em vigor a partir de 1991-02-28"
+  },
+  "923028727": {
+   "fragment_id": "162539695",
+   "type": 14,
+   "heading": "Anexo III",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "## Anexo III\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

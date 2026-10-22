@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:441713:por
+title: Resolução do Conselho de Ministros n.º 50/83
+short_title: null
+summary: Nomeia vários membros para a Comissão Organizadora das Comemorações do Dia da Liberdade e delega no Ministro da Cultura
+  a competência que é conferida ao Governo para superintender e decidir sobre os assuntos relacionados com o mesmo e propõe
+  ao Presidente da República a designação de uma comissão de honra das respectivas comemorações
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 50/83
+official_date: null
+publication_date: '1983-10-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/1983, Série I de 1983-10-27
+  number: '248'
+  series: I
+  supplement: null
+  pages: 3689 - 3690
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/10/24800/36893690.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '441713'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/50-1983-441713
+  internal: pt:dre:441713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1983-441713
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/50-1983-441713
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-10-27T00:00:00Z'
+integrity:
+  source_sha256: f57ff6cdd5715fbb5e99c794f55e034522916335e13db67dfbd13ad94bebd08f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-50-441713.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 50/83
+
+O Governo já manifestou publicamente o propósito de comemorar com o devido relevo e solenidade o 10.º aniversário da data de 25 de Abril, de tão rico significado histórico, cívico e cultural, e de promover a associação a este projecto nacional dos restantes órgãos de soberania.
+
+Com esse objectivo, o Governo aprovou, na reunião do Conselho de Ministros de 4 de Agosto de 1983, um decreto-lei que concentra, reformula e actualiza os dispositivos legais que regem a organização das comemorações do Dia da Liberdade, à luz do alto significado patriótico cultural que o Governo reconhece a essa data histórica. Trata-se do [Decreto-Lei n.º 355/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1983-439421), de 2 de Setembro, publicado no Diário da República, 1.ª série, n.º 202, de 2 de Setembro de 1983.
+
+Pretende agora o Governo criar, desde já, as condições necessárias a uma adequada e atempada preparação e organização das comemorações do Dia da Liberdade, no ano de 1984, que assinalarão o 10.º aniversário da data de 25 de Abril de 1974.
+
+Nestes termos:
+
+O Conselho de Ministros, reunido em 20 de Outubro de 1983, resolveu:
+
+1 - Nomear para a Comissão Organizadora das Comemorações do Dia da Liberdade, ao abrigo dos artigos 2.º e 3.º do [Decreto-Lei n.º 355/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1983-439421), de 2 de Setembro, os seguintes membros:
+
+Presidente:
+
+Dr. Francisco Sousa Tavares.
+
+Vogais:
+
+Arquitecta Maria Helena Salema Roseta.
+
+Engenheiro Pedro Amadeu Santos Coelho.
+
+Presidente do conselho de gerência da Radiotelevisão Portuguesa (RTP).
+
+Presidente do conselho de gerência da Radiodifusão Portuguesa (RDP).
+
+2 - Delegar no Ministro da Cultura, Dr. António Antero Coimbra Martins, a competência que é conferida ao Governo pelo [Decreto-Lei n.º 355/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1983-439421), de 2 de Setembro, para superintender e decidir sobre os assuntos relativos à coordenação e organização das comemorações do Dia da Liberdade.
+
+3 - Propor ao Presidente da República, ao abrigo do artigo 4.º do [Decreto-Lei n.º 355/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/355-1983-439421), de 2 de Setembro, a designação de uma comissão de honra das comemorações do Dia da Liberdade.
+
+Presidência do Conselho de Ministros. - O Primeiro-Ministro, Mário Soares.

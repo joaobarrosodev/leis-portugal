@@ -1,0 +1,319 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70325358:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-894209407",
+ "dre_path": "/dr/detalhe/portaria/295-2015-70325358",
+ "source_lastmod": "2024-10-30",
+ "versions": [
+  {
+   "date": "2015-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "894079009",
+    "894079010",
+    "894079011",
+    "894079012",
+    "894079013",
+    "894079014",
+    "894079015",
+    "894079016",
+    "894079017",
+    "894079018",
+    "894079019",
+    "894079020",
+    "894079021",
+    "894079022",
+    "894079023",
+    "894079024",
+    "894079025",
+    "894079026",
+    "894079027",
+    "894079028",
+    "894079029",
+    "894079030"
+   ]
+  },
+  {
+   "date": "2024-10-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:893982654:por",
+     "title": "Portaria n.º 280/2024/1",
+     "published": "2024-10-30",
+     "dre_path": "/dr/detalhe/portaria/280-2024-893982654"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "894079009",
+    "894079037",
+    "894079038",
+    "894079012",
+    "894079013",
+    "894079014",
+    "894079015",
+    "894079016",
+    "894079017",
+    "894079039",
+    "894079019",
+    "894079020",
+    "894079021",
+    "894079022",
+    "894079040",
+    "894079041",
+    "894079025",
+    "894079026",
+    "894079027",
+    "894079028",
+    "894079029",
+    "894079030",
+    "894079031"
+   ]
+  }
+ ],
+ "fragments": {
+  "894079009": {
+   "fragment_id": "894209408",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 295/2015\n\nde 18 de setembro\n\nA forma clássica de organização e funcionamento das estruturas de ensino, assistência e investigação na área da saúde é, nos dias de hoje, posta em causa pelas transformações provocadas pelos avanços técnicos e científicos que colocam, quer às universidades, quer aos hospitais, desafios reais obrigando a uma adaptação efetiva de forma a fortalecer o seu papel de serviço à comunidade, com um reforço de cooperação interinstitucional e uma garantia de permanente atualização de métodos e de práticas.\n\nUma das formas de organização mais modernas e promissoras das estruturas integradas de assistência, ensino e investigação médica, é representada pelos centros médicos académicos que têm como principal objetivo o avanço e a aplicação do conhecimento e da evidência científica para a melhoria da saúde.\n\nA integração e criação de sinergias nas atividades de investigação, aplicação e transmissão do conhecimento, traduzida na melhoria dos cuidados prestados à população, na formação pré e pós-graduada e no treino dos profissionais, permitirão aos centros médicos académicos atingir o seu objetivo.\n\nA procura da excelência é encarada hoje como prioridade absoluta em qualquer instituição da área da saúde, fruto da crescente competitividade existente nos serviços de saúde, no ensino médico e na investigação clínica. A experiência mostra que sem a articulação e integração do serviço assistencial, o ensino médico e a investigação não podem, nem os hospitais nem as universidades, aspirar a esse paradigma de excelência e inovação.\n\nO Centro Hospitalar do Porto, E. P. E. (CHP) e o Instituto de Ciências Biomédicas Abel Salazar da Universidade do Porto (ICBAS) colaboram há várias décadas no ensino e investigação, e a criação deste consórcio potenciará as capacidades de cada uma das instituições. O aproveitamento organizado e sistemático das sinergias existentes entre o CHP e o ICBAS possibilitará a concretização de um avanço significativo na investigação translacional e no desenvolvimento científico e uma melhoria significativa do ensino médico.\n\nPor fim, o consórcio poderá vir a integrar, futuramente, outras instituições públicas que, pela sua relevância, permitam desenvolver competências diferenciadoras na dinamização da atividade assistencial, académica e de investigação.\n\nAssim:\n\nNa sequência da atividade conjunta que o Centro Hospitalar do Porto, E. P. E. e o Instituto de Ciências Biomédicas Abel Salazar, unidade orgânica da Universidade do Porto, fundação pública com regime de direito privado, vêm realizando nestes domínios, e da vontade que manifestaram, junto do Governo, de a desenvolverem no quadro institucional de um consórcio;\n\nOuvidas as instituições;\n\nAo abrigo do disposto no n.º 2 do artigo 17.º da Lei n.º 62/2007, de 10 de setembro:\n\nManda o Governo, pelos Ministros da Saúde e da Educação e Ciência, o seguinte:"
+  },
+  "894079010": {
+   "fragment_id": "894209409",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado um consórcio entre o Centro Hospitalar do Porto, E. P. E. e a Universidade do Porto, através da sua unidade orgânica Instituto de Ciências Biomédicas Abel Salazar."
+  },
+  "894079011": {
+   "fragment_id": "894209410",
+   "type": 11,
+   "heading": "Artigo 2.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Denominação\n\nO consórcio adota a denominação de Centro Académico Clínico ICBAS-CHP."
+  },
+  "894079012": {
+   "fragment_id": "894209411",
+   "type": 11,
+   "heading": "Artigo 3.º — Autonomia dos membros do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autonomia dos membros do consórcio\n\nO consórcio é vocacionado para a prossecução de objetivos comuns dos seus membros, não estabelecendo qualquer limitação à identidade e à autonomia de cada um deles."
+  },
+  "894079013": {
+   "fragment_id": "894209412",
+   "type": 11,
+   "heading": "Artigo 4.º — Personalidade jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Personalidade jurídica\n\nO consórcio não está dotado de personalidade jurídica."
+  },
+  "894079014": {
+   "fragment_id": "894209413",
+   "type": 11,
+   "heading": "Artigo 5.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sede\n\nO consórcio tem sede no edifício do Instituto de Ciências Biomédicas Abel Salazar, sito na Rua de Jorge Viterbo Ferreira, 228, no Porto."
+  },
+  "894079015": {
+   "fragment_id": "894209414",
+   "type": 11,
+   "heading": "Artigo 6.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objetivos\n\nO consórcio visa prosseguir os seguintes objetivos:\n\na) Aproveitamento efetivo de sinergias nas várias áreas de atuação e potenciação da partilha de recursos humanos altamente diferenciados;\n\nb) Introdução de programas inovadores e parcerias estratégicas que possibilitem avanços qualitativos na participação da comunidade e contribuam para a obtenção de financiamentos externos;\n\nc) Racionalização e maximização da utilização dos recursos humanos, financeiros e tecnológicos postos à disposição dos seus membros;\n\nd) Desenvolvimento de ações colaborativas que promovam cuidados de saúde de qualidade com base nas contribuições das ciências médicas básicas e clínicas e dos serviços de ação médica do Centro Hospitalar;\n\ne) Desenvolvimento de ações colaborativas que contribuam para o desenvolvimento de cuidados integrados inovadores com base numa crescente articulação entre cuidados primários, hospitalares e continuados;\n\nf) Desenvolvimento de projetos colaborativos de investigação com reforço da cooperação nacional e internacional;\n\ng) Modernização e qualificação da educação médica, na dimensão pós-graduada e de educação médica continuada;\n\nh) Promoção de uma cultura comum focada na excelência académica e clínica num contexto internacional e de redes transeuropeias;\n\ni) Estabelecimento do foco da atividade na promoção da qualidade dos cuidados prestados às populações com base numa resposta adequada às suas diferentes necessidades;\n\nj) Aprofundamento do investimento nas áreas estratégicas;\n\nk) Desenvolvimento ao máximo do potencial disponível, tanto ao nível dos recursos humanos como materiais, assegurando a combinação da investigação básica, translacional e de serviços com cuidados clínicos e educação médica que é necessária para alcançar melhorias significativas dos cuidados de saúde."
+  },
+  "894079016": {
+   "fragment_id": "894209415",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos do consórcio\n\nSão órgãos do consórcio:\n\na) O conselho diretivo;\n\nb) O conselho estratégico."
+  },
+  "894079017": {
+   "fragment_id": "894209416",
+   "type": 11,
+   "heading": "Artigo 8.º — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conselho diretivo\n\nO consórcio é dirigido pelo conselho diretivo."
+  },
+  "894079018": {
+   "fragment_id": "894209417",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Composição do conselho diretivo\n\n1 - O conselho diretivo é constituído pelo Presidente do Conselho de Administração do Centro Hospitalar do Porto, E. P. E. e pelo Diretor do Instituto de Ciências Biomédicas Abel Salazar, que exercem a função por inerência, e por um terceiro elemento, por eles cooptado ouvido o Reitor da Universidade do Porto.\n\n2 - Os membros do conselho diretivo elegem o respetivo presidente.\n\n3 - O mandato do membro cooptado tem uma duração de três anos.\n\n4 - O conselho diretivo reúne ordinariamente uma vez por mês.\n\n5 - As decisões do conselho diretivo são tomadas por unanimidade."
+  },
+  "894079019": {
+   "fragment_id": "894209418",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do conselho diretivo\n\n1 - Compete ao conselho diretivo, quanto à organização interna do consórcio:\n\na) Dirigir a respetiva atividade;\n\nb) Elaborar as propostas de planos anual e plurianual de atividades;\n\nc) Aprovar os demais instrumentos de gestão;\n\nd) Elaborar a proposta de orçamento anual;\n\ne) Elaborar o relatório anual de atividades;\n\nf) Acompanhar e avaliar sistematicamente a atividade desenvolvida;\n\ng) Aprovar os regulamentos internos;\n\nh) Nomear os representantes do consórcio em organismos exteriores;\n\ni) Constituir representantes do consórcio.\n\n2 - Compete ao conselho diretivo, quanto aos membros do consórcio:\n\na) Promover o ensino na área da saúde, privilegiando a cooperação entre as diversas áreas do saber e da medicina;\n\nb) Desenvolver a formação pré-graduada em sintonia com a integração de conhecimentos e a evolução das necessidades das áreas clínicas;\n\nc) Fomentar a formação pós-graduada, através de maior diferenciação dos programas de internato, incluindo a criação de programas conjuntos de doutoramento e internato;\n\nd) Desenvolver novos esquemas de governação das áreas clínicas;\n\ne) Intensificar os programas de inovação e de investigação biomédica, potenciando sinergias entre os membros;\n\nf) Reforçar a cooperação nacional e internacional com outras instituições de ensino, assistência e investigação;\n\ng) Exercer as demais competências necessárias à prossecução das suas finalidades."
+  },
+  "894079020": {
+   "fragment_id": "894209419",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho estratégico\n\nO conselho estratégico é o órgão consultivo do consórcio."
+  },
+  "894079021": {
+   "fragment_id": "894209420",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição do conselho estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição do conselho estratégico\n\n1 - O conselho estratégico é constituído por seis personalidades de elevado mérito e reconhecida experiência profissional, designadas:\n\na) Uma pelo membro do Governo responsável pela área da saúde;\n\nb) Uma pelo Reitor da Universidade do Porto;\n\nc) Uma pelo Presidente da Administração Regional de Saúde do Norte, I. P.;\n\nd) Uma pelos órgãos diretivos de cada um dos membros do consórcio;\n\ne) Uma por deliberação conjunta dos órgãos diretivos dos membros do consórcio.\n\n2 - Os membros do conselho estratégico elegem o respetivo presidente.\n\n3 - O mandato dos membros do conselho estratégico tem uma duração de três anos, sendo renovável por mais dois mandatos consecutivos.\n\n4 - O conselho estratégico reúne ordinariamente quatro vezes por ano."
+  },
+  "894079022": {
+   "fragment_id": "894209421",
+   "type": 11,
+   "heading": "Artigo 13.º — Competências do conselho estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competências do conselho estratégico\n\nCompete ao conselho estratégico:\n\na) Emitir parecer sobre a proposta de orçamento anual;\n\nb) Emitir parecer sobre o plano de orientação do consórcio nos domínios científico, pedagógico e financeiro;\n\nc) Emitir parecer sobre as propostas de planos anual e plurianual de atividades;\n\nd) Apreciar o relatório anual das atividades;\n\ne) Emitir recomendações e pareceres sobre os aspetos da atividade do consórcio que entenda convenientes."
+  },
+  "894079023": {
+   "fragment_id": "894209422",
+   "type": 11,
+   "heading": "Artigo 14.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Recursos\n\nO Centro Hospitalar do Porto, E. P. E. e a Universidade do Porto, através do Instituto de Ciências Biomédicas Abel Salazar, afetam à concretização dos objetivos do consórcio os seus recursos humanos, financeiros e materiais que se revelem necessários à execução dos planos de atividades aprovados."
+  },
+  "894079024": {
+   "fragment_id": "894209423",
+   "type": 11,
+   "heading": "Artigo 15.º — Receitas da atividade do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Receitas da atividade do consórcio\n\nAs receitas do Centro Hospitalar do Porto, E. P. E. e da Universidade do Porto, através do Instituto de Ciências Biomédicas Abel Salazar, resultantes da atividade do consórcio são afetadas prioritariamente ao desenvolvimento da atividade deste, sem prejuízo de contribuírem para as despesas gerais das instituições nos termos das suas regras internas."
+  },
+  "894079025": {
+   "fragment_id": "894209424",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências a exercer por decisão conjunta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências a exercer por decisão conjunta\n\n1 - Compete aos responsáveis máximos dos membros do consórcio, por decisão conjunta, designadamente:\n\na) Aprovar o plano de orientação do consórcio nos domínios científico, pedagógico e financeiro;\n\nb) Aprovar os planos anual e plurianual de atividades;\n\nc) Aprovar o orçamento anual;\n\nd) Aprovar o relatório anual de atividades;\n\ne) Aprovar os recursos humanos, financeiros e materiais a afetar anualmente por cada entidade à concretização dos objetivos do consórcio;\n\nf) Aprovar a forma de proceder à afetação das receitas resultantes da atividade do consórcio.\n\n2 - Os responsáveis máximos dos membros do consórcio remetem, anualmente, à tutela respetiva, os documentos a que se referem as alíneas a), b), c) e d) do número anterior."
+  },
+  "894079026": {
+   "fragment_id": "894209425",
+   "type": 11,
+   "heading": "Artigo 17.º — Confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Confidencialidade\n\n1 - O membro do consórcio que receba do outro membro quaisquer documentos ou informações relativas à atividade do consórcio compromete-se a não fazer desses elementos outro uso que não o decorrente da respetiva cedência e a considerar como estritamente confidenciais todos os dados tecnológicos e de natureza científica.\n\n2 - Os membros do consórcio comprometem-se a impor essas obrigações às pessoas singulares ou coletivas que participem na execução das prestações de serviços, fornecimentos e trabalhos como subcontratados ou noutra qualquer qualidade."
+  },
+  "894079027": {
+   "fragment_id": "894209426",
+   "type": 11,
+   "heading": "Artigo 18.º — Propriedade dos bens adquiridos ou desenvolvidos no âmbito do consórcio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Propriedade dos bens adquiridos ou desenvolvidos no âmbito do consórcio\n\n1 - Salvo acordo específico em contrário entre os membros do consórcio, os bens e direitos adquiridos ou desenvolvidos no âmbito deste são propriedade dos membros que tenham procedido à sua aquisição ou desenvolvimento e suportado o custo da criação.\n\n2 - Salvo acordo específico em contrário, quando um resultado desenvolvido no âmbito do consórcio constituir um bem ou direito indivisível, considera-se este resultado pertença do membro utilizador final, que assumirá a responsabilidade pela sua eficiente utilização e permitirá a sua demonstração pública, nos termos e condições a estabelecer entre os parceiros envolvidos.\n\n3 - Em qualquer caso, a titularidade dos bens ou direitos adquiridos ou desenvolvidos no âmbito da atividade do consórcio não pode pertencer a entidades que não sejam membros do consórcio."
+  },
+  "894079028": {
+   "fragment_id": "894209427",
+   "type": 11,
+   "heading": "Artigo 19.º — Alargamento do consórcio a outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alargamento do consórcio a outras entidades\n\n1 - Mediante proposta conjunta dos seus membros, o consórcio pode ser alargado a outras entidades públicas que prossigam atividades de ensino, investigação e desenvolvimento, incluindo as que sejam realizadas em contexto assistencial.\n\n2 - O alargamento do consórcio realiza-se através de portaria dos membros do Governo responsáveis pelas áreas da saúde e da educação e ciência."
+  },
+  "894079029": {
+   "fragment_id": "894209428",
+   "type": 11,
+   "heading": "Artigo 20.º — Extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Extinção\n\nO consórcio extingue-se por portaria dos membros do Governo responsáveis pelas áreas da saúde e da educação e ciência:\n\na) Na sequência de proposta dos seus membros;\n\nb) Em virtude da ocorrência de causa superveniente que determine a impossibilidade de realização do seu objeto;\n\nc) Com fundamento em qualquer outra causa prevista na lei."
+  },
+  "894079030": {
+   "fragment_id": "894209429",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de outubro de 2015."
+  },
+  "894079037": {
+   "fragment_id": "894209409",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### Artigo 1.º — Criação\n\nÉ criado um consórcio entre a Unidade Local de Saúde de Santo António, E. P. E., e a Universidade do Porto, através da sua unidade orgânica Instituto de Ciências Biomédicas Abel Salazar.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+  },
+  "894079038": {
+   "fragment_id": "894209410",
+   "type": 11,
+   "heading": "Artigo 2.º — Denominação",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### Artigo 2.º — Denominação\n\nO consórcio adota a denominação de Centro Académico Clínico ICBAS-Santo António.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+  },
+  "894079039": {
+   "fragment_id": "894209417",
+   "type": 11,
+   "heading": "Artigo 9.º — Composição do conselho diretivo",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### Artigo 9.º — Composição do conselho diretivo\n\n1 - O conselho diretivo é constituído pelo presidente do conselho de administração da Unidade Local de Saúde de Santo António, E. P. E., e pelo diretor do Instituto de Ciências Biomédicas Abel Salazar, que exercem a função por inerência, e por um terceiro elemento, por eles cooptado ouvido o reitor da Universidade do Porto.\n\n2 - Os membros do conselho diretivo elegem o respetivo presidente.\n\n3 - O mandato do membro cooptado tem uma duração de três anos.\n\n4 - O conselho diretivo reúne ordinariamente uma vez por mês.\n\n5 - As decisões do conselho diretivo são tomadas por unanimidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+  },
+  "894079040": {
+   "fragment_id": "894209422",
+   "type": 11,
+   "heading": "Artigo 14.º — Recursos",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### Artigo 14.º — Recursos\n\nA Unidade Local de Saúde de Santo António, E. P. E., e a Universidade do Porto, através do Instituto de Ciências Biomédicas Abel Salazar, afetam à concretização dos objetivos do consórcio os seus recursos humanos, financeiros e materiais que se revelem necessários à execução dos planos de atividades aprovados.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+  },
+  "894079041": {
+   "fragment_id": "894209423",
+   "type": 11,
+   "heading": "Artigo 15.º — Receitas da atividade do consórcio",
+   "in_force_from": "2024-10-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+   ],
+   "markdown": "###### Artigo 15.º — Receitas da atividade do consórcio\n\nAs receitas da Unidade Local de Saúde de Santo António, E. P. E., e da Universidade do Porto, através do Instituto de Ciências Biomédicas Abel Salazar, resultantes da atividade do consórcio são afetadas prioritariamente ao desenvolvimento da atividade deste, sem prejuízo de contribuírem para as despesas gerais das instituições nos termos das suas regras internas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 280/2024/1 - Diário da República n.º 211/2024, Série I de 2024-10-30](https://diariodarepublica.pt/dr/detalhe/portaria/280-2024-893982654), em vigor a partir de 2024-10-31"
+  },
+  "894079031": {
+   "fragment_id": "894209430",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Saúde, Paulo José de Ribeiro Moita de Macedo, em 2 de setembro de 2015. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 1 de setembro de 2015."
+  }
+ }
+}

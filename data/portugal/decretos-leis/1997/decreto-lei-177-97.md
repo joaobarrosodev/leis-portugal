@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:149002:por
+title: Decreto-Lei n.º 177/97
+short_title: null
+summary: Autoriza a conversão de créditos do Estado e das instituições de segurança social em capital da TEVIZ - Fábrica Têxtil
+  de Vizela, Lda., no quadro do projecto de consolidação financeira e de reestruturação empresarial em que a empresa irá ser
+  enquadrada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 177/97
+official_date: null
+publication_date: '1997-07-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/1997, Série I-A de 1997-07-24
+  number: '169'
+  series: I
+  supplement: null
+  pages: 3725 - 3727
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/07/169a00/37253727.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/177/1997/07/24/p/dre/pt/html
+  oj: null
+  dre: '149002'
+  dre_path: /dr/detalhe/decreto-lei/177-1997-149002
+  internal: pt:dre:149002:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1997-149002
+  metadata_url: https://data.dre.pt/eli/dec-lei/177/1997/07/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/177-1997-149002
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-07-24T00:00:00Z'
+integrity:
+  source_sha256: f29156bae8ca46d5833bbfd5392e29023dcaba8f3bc4f61ada36897a2f1a6bc6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-177-149002.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção Financeira
+- Apoio Técnico
+- Assunção de Dívidas
+- Auditoria
+- Financiamento
+- Garantia
+- Sociedade Anónima
+- Empresa
+- Capital Social
+- Cobrança de Impostos
+- Política Fiscal
+- Competência Própria
+- Direcção Geral do Tesouro
+- Contrato Promessa
+- Contribuições da Segurança Social
+- Dação em Cumprimento
+- Definição de Competências
+- Desenvolvimento Regional
+- Dívidas ao Estado
+- Empresa Privada
+- Fazenda Pública
+- Apoio ao Investimento
+- Gabinete de Coordenação para a Recuperação de Empresas
+- Créditos do Estado
+- Ministro da Solidariedade e Segurança Social
+- Ministro das Finanças
+- Pagamento
+- Contribuições e Impostos
+- Incentivos ao Desenvolvimento
+- Incentivos Fiscais
+- Iniciativa Privada
+- Instituto de Gestão Financeira da Segurança Social
+- Intervenção do Estado
+- QCA
+- Isenção Fiscal
+- JURO de MORA
+- Crédito
+- Criação de Emprego
+- Desenvolvimento Económico
+- Política Económica
+- Promoção de Emprego
+- Política de Emprego
+- Reconversão Profissional
+- Reconversão de Empresas
+- Cobrança de Dívidas
+- Benefícios Fiscais
+- Setor Empresarial
+- Setor Privado
+- Segurança Social
+- Situação Económica Dificil
+- Sociedade de Capital de Risco
+- Teviz
+- Venda
+- Viabilidade Económica
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/1996/08/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/225/1994/09/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/225/1994/09/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/100/1996/07/04/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 177/97
+
+de 24 de Julho
+
+A TEVIZ - Fábrica Têxtil de Vizela, Lda., com sede em Moreira de Cónegos, Guimarães, é uma das empresas de maior relevância no concelho e no sector, empregando 766 trabalhadores e facturando mais de 4 milhões de contos por ano.
+
+Criou, em local adjacente às suas instalações, a TEVITOM - Confecções de Vestuário, Lda., que, por sua vez, emprega 160 trabalhadores e vem evoluindo muito favoravelmente.
+
+A primeira daquelas empresas atravessou, como tantas outras empresas do sector, um período de dificuldades económicas, com repercussão na sua situação financeira, que está a superar gradualmente, tendo registado nos anos de 1995 e 1996 resultados positivos.
+
+É de salientar que a TEVIZ - Fábrica Têxtil de Vizela, Lda., foi capaz de prosseguir, apesar das dificuldades, o seu esforço de modernização e que conhece uma reduzida conflitualidade laboral, bem como negociou a reestruturação do seu passivo bancário em condições muito favoráveis, tendo assegurados os apoios correntes necessários ao prosseguimento da sua actividade.
+
+Em termos de qualidade de produtos, qualificação técnica do pessoal, nível tecnológico do equipamento e capacidade concorrencial é considerada razoavelmente boa.
+
+A sua gestão é também considerada boa, embora se julgue de incentivar, com a prevista transformação em sociedade anónima, o reforço da profissionalização da administração.
+
+A TEVIZ procurou regularizar a sua situação tributária e contributiva ao abrigo do [Decreto-Lei n.º 225/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/225-1994-657626), de 5 de Setembro, não o tendo conseguido dado o carácter restritivo daquele diploma, embora tenha mantido durante muito tempo a realização de pagamentos por conta. Depois da aprovação do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, vem assegurando o cumprimento das suas obrigações correntes.
+
+Tendo sido a TEVIZ uma das primeiras empresas a solicitar a aplicação de medidas previstas no [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, foi o Gabinete de Coordenação para a Recuperação de Empresas (GACRE) de parecer que se justificaria, face à reduzida capacidade, nesta fase, de libertação de meios por parte da empresa, conjugar a dação de bens em pagamento, segundo processo administrativo que corre actualmente os seus trâmites, com a conversão de créditos do Estado e da segurança social em capital da sociedade.
+
+Já a TEVITOM foi enquadrada, sem dificuldades, em regime prestacional.
+
+A conversão de créditos em capital, que, nos termos do artigo 9.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto, deve ser aprovada por decreto-lei, faz-se no presente
+
+caso, de harmonia, aliás, com o mesmo diploma, com restrição dos poderes gestionários dos accionistas públicos e com celebração de contrato-promessa de compra e venda incidindo sobre as acções resultantes da conversão.
+
+Prevê-se igualmente, na linha do preconizado pela [Resolução do Conselho de Ministros n.º 100/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/100-1996-424145), publicada em 4 de Julho, que uma parte das acções resultantes da conversão (success fee) seja atribuída aos administradores que executem o projecto de consolidação financeira e de reestruturação empresarial em que se enquadram as medidas agora adoptadas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º
+
+É autorizada a conversão de créditos do Estado e das instituições de segurança social em capital social da TEVIZ - Fábrica Têxtil de Vizela, Lda.
+
+###### Artigo 2.º
+
+1 - A conversão restringir-se-á aos créditos por dívidas vencidas até 31 de Julho de 1996 e pelos respectivos juros de mora que não sejam satisfeitos por qualquer das formas de pagamento previstas no [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto.
+
+2 - Na conversão dos créditos por juros de mora em capital social serão apenas abrangidos os juros vencidos até à data da apresentação do requerimento previsto no artigo 14.º do referido decreto-lei, considerando-se suspensa naquela data a sua contagem em relação aos créditos abrangidos pela conversão.
+
+###### Artigo 3.º
+
+1 - A concretização da conversão de créditos em capital depende da verificação das seguintes condições prévias:
+
+a) Realização da auditoria prevista no n.º 2 do artigo 11.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto;
+
+b) Aprovação pelo Gabinete de Coordenação para a Recuperação de Empresas (GACRE) de projecto de consolidação financeira e de reestruturação empresarial;
+
+c) Redução do capital para cobertura de prejuízos;
+
+d) Transformação da TEVIZ - Fábrica Têxtil de Vizela, Lda., em sociedade anónima.
+
+2 - A conversão de créditos em capital social realizar-se-á mediante escritura pública, podendo no mesmo acto ser aumentado o capital social mediante subscrição pelos actuais sócios.
+
+###### Artigo 4.º
+
+1 - Os direitos de voto inerentes às acções que resultarem da conversão de créditos em capital social serão exercidos nos termos de um acordo parassocial a celebrar pelos titulares das referidas acções em conexão com a aprovação do projecto de consolidação financeira e de reestruturação empresarial, sem prejuízo do disposto no n.º 3 do artigo 5.º
+
+2 - O Estado e as instituições de segurança social não poderão ser eleitos para o órgão de administração da sociedade.
+
+3 - O acordo referido no n.º 1 não pode obrigar um accionista a votar:
+
+a) Seguindo sempre as instruções da sociedade ou de um dos órgãos;
+
+b) Aprovando sempre as propostas feitas por estes;
+
+c) Exercendo o direito de voto ou abstendo-se de o exercer em contrapartida de vantagens especiais.
+
+###### Artigo 5.º
+
+1 - É autorizada a celebração de contrato-promessa de compra e venda relativo às acções resultantes da conversão de créditos em capital social, nos termos do qual a sociedade ou os actuais sócios poderão adquirir as referidas acções até Outubro de 2005 nas condições previstas no artigo 9.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto.
+
+2 - Nessa eventualidade, a sociedade constituirá, com vista à aquisição de acções nas condições do número anterior, uma reserva contratual à qual afectará anualmente uma percentagem, a fixar no contrato-promessa de compra e venda, dos resultados que não devam ser objecto de reinvestimento.
+
+3 - O contrato-promessa de compra e venda poderá prever que o Estado e as instituições de segurança social transfiram para os administradores executivos indicados pelos actuais sócios, a título de prémio pela boa execução do projecto de consolidação financeira e de reestruturação empresarial, a titularidade de um conjunto de acções não superior a 20% do capital social, sendo-lhes facultado desde o início do projecto o exercício, mediante procuração, dos correspondentes direitos de voto.
+
+4 - Não sendo celebrado contrato-promessa de compra e venda nos termos do n.º 1, será desencadeado processo de alienação em data não posterior à prevista no mesmo número, concedendo-se no entanto aos actuais sócios, em termos a definir por contrato, direito de preferência na alienação das acções resultantes da conversão.
+
+###### Artigo 6.º
+
+As operações previstas nos artigos anteriores e todas as que decorram do projecto de consolidação financeira e de reestruturação empresarial, como tal consideradas em certificado emitido pelo GACRE, beneficiarão da isenção prevista no n.º 1 do artigo 17.º do [Decreto-Lei n.º 124/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-1996-405684), de 10 de Agosto.
+
+###### Artigo 7.º
+
+1 - A concretização das operações previstas no presente diploma e na escritura relativa à conversão de créditos em capital depende, conforme os casos, de despacho dos Ministros das Finanças e da Solidariedade e Segurança Social.
+
+2 - A representação do Estado e das instituições de segurança social nas operações previstas no presente diploma e instrumentos contratuais subsequentes competirá, respectivamente, à Direcção-Geral do Tesouro e ao Instituto de Gestão Financeira da Segurança Social.
+
+Visto e aprovado em Conselho de Ministros de 21 de Maio de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Eduardo Luís Barreto Ferro Rodrigues.
+
+**Promulgado em 3 de Julho de 1997.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 10 de Julho de 1997.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

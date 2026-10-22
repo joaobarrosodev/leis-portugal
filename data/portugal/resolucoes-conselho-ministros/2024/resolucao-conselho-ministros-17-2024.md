@@ -1,0 +1,153 @@
+---
+schema_version: '1.0'
+id: pt:dre:838639323:por
+title: Resolução do Conselho de Ministros n.º 17/2024
+short_title: null
+summary: Autoriza a despesa inerente ao financiamento complementar decorrente do concurso «Teaming for Excellence», no quadro
+  da contratualização do Horizonte Europa
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 17/2024
+official_date: null
+publication_date: '2024-01-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 17/2024, Série I de 2024-01-24
+  number: '17'
+  series: I
+  supplement: null
+  pages: 4 - 5
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/01/01700/0000400005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/17/2024/01/24/p/dre/pt/html
+  oj: null
+  dre: '838639323'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/17-2024-838639323
+  internal: pt:dre:838639323:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2024-838639323
+  metadata_url: https://data.dre.pt/eli/resolconsmin/17/2024/01/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/17-2024-838639323
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-01-24T00:00:00Z'
+integrity:
+  source_sha256: 404eb4131ac543ec6eb07c5520b4c1751a596266dcb9d4710350218bbca5bef8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-17-838639323.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Autorização de Despesas
+- Financiamento
+- Investigação Científica e Tecnológica
+- Conselho de Ministros
+- Delegação de Competências
+- Despesas Públicas
+- Universidade NOVA de Lisboa
+- Ministro da Ciência Tecnologia e Ensino Superior
+- Instituto de Medicina Molecular
+- Programa Horizonte Europa
+- Governo XXIII
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 17/2024
+
+O Horizonte Europa é o atual Programa-Quadro de Investigação e Inovação da União Europeia para o período de 2021-2027 e o «Teaming for Excellence» é um concurso de referência no âmbito deste Programa-Quadro, que visa a implementação e desenvolvimento de centros de investigação na Europa, incentivando reformas nos sistemas nacionais de ciência e de tecnologia e promovendo transformações institucionais.
+
+É neste contexto que a Comissão Europeia aprovou para financiamento dois projetos apresentados por entidades portuguesas, a Universidade Nova de Lisboa (NOVA Institute for Medical Systems Biology) e o Instituto de Medicina Molecular (iMM-CARE: Boosting clinical research for the benefit of society), num total de (euro) 25 006 000 de financiamento europeu, para o desenvolvimento destes projetos na área da saúde durante os próximos seis anos.
+
+Estes projetos também se revestem de elevado relevo para a persecução dos objetivos nacionais para o período de 2021-2027, contribuindo para aumentar a presença portuguesa nos Programas Europeus face a 2014-2020, e atrair financiamento da União Europeia nas áreas da Investigação e Inovação nesse período.
+
+É neste sentido que o Governo Português apresentou, a 7 de setembro de 2022, carta de compromisso, que constitui assim o acordo vinculativo formal do Governo Português para fornecer financiamento complementar a estes projetos, comprometendo-se a disponibilizar o financiamento de 30 milhões de euros (15 milhões de euros por projeto) para os dois projetos «Teaming» aprovados para financiamento, na Região de Lisboa.
+
+Neste âmbito, importa agora estabelecer os mecanismos que permitem operacionalizar o referido financiamento no quadro da contratualização do Horizonte Europa e do financiamento nacional complementar.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, dos artigos 36.º e 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a Fundação para a Ciência e a Tecnologia, I. P. (FCT, I. P.), a realizar despesa inerente ao financiamento complementar decorrente do concurso «Teaming for Excellence», no quadro da contratualização do Horizonte Europa, até ao montante máximo de (euro) 30 000 000, a que acresce o imposto sobre o valor acrescentado (IVA) à taxa legal em vigor, nos termos do anexo à presente resolução e da qual faz parte integrante, a transferir para a Universidade Nova de Lisboa (UNL) e para o Instituto de Medicina Molecular (IMM).
+
+2 - Determinar que os encargos orçamentais com a despesa referida no número anterior são transferidos para a UNL e para o IMM, e não podem exceder, em cada ano económico, os montantes constantes do anexo à presente resolução, aos quais acresce o IVA à taxa legal em vigor.
+
+3 - Estabelecer que os montantes fixados para cada ano económico podem ser acrescidos do saldo apurado no ano que lhe antecede.
+
+4 - Determinar que os encargos financeiros decorrentes da presente resolução são suportados por verbas inscritas e a inscrever no orçamento da FCT, I. P., em complemento das receitas provenientes do Programa Horizonte Europa, no âmbito do concurso «Teaming for Excellence».
+
+5 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da ciência, tecnologia e ensino superior, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+6 - Estabelecer que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 18 de janeiro de 2024. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — (a que se referem os n.os 1 e 2)
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  |  | (Em euros) |
+| Ano | Universidade Nova de Lisboa | Instituto de Medicina Molecular | Montante global |
+| 2024... | 3 000 000 | 4 712 738 | 7 712 738 |
+| 2025... | 3 000 000 | 4 602 672 | 7 602 672 |
+| 2026... | 3 000 000 | 2 731 821 | 5 731 821 |
+| 2027... | 2 250 000 | 1 560 571 | 3 810 571 |
+| 2028... | 2 250 000 | 890 779 | 3 140 779 |
+| 2029... | 1 500 000 | 501 418 | 2 001 418 |
+| Total... | 15 000 000 | 15 000 000 | 30 000 000 |

@@ -1,0 +1,367 @@
+---
+schema_version: '1.0'
+id: pt:dre:73318739:por
+title: Decreto Regulamentar Regional n.º 5/2016/M
+short_title: null
+summary: Aprova a orgânica da Direção Regional de Inovação e Gestão
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 5/2016/M
+official_date: null
+publication_date: '2016-01-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 19/2016, Série I de 2016-01-28
+  number: '19'
+  series: I
+  supplement: null
+  pages: 305 - 307
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/01/01900/0030500307.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-03-07'
+version_history:
+  file: decreto-regulamentar-regional-5-2016-m.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2016-01-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-03-01'
+    amending: pt:dre:114778990:por
+    amending_title: Decreto Regulamentar Regional n.º 5/2018/M
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Anexo I
+  - date: '2020-03-07'
+    amending: pt:dre:129970436:por
+    amending_title: Decreto Regulamentar Regional n.º 19/2020/M
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/5/2016/m/cons/20200306/pt/html
+  oj: null
+  dre: '73318739'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/5-2016-73318739
+  internal: pt:dre:73318739:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2016-73318739
+  metadata_url: https://data.dre.pt/eli/decregulreg/5/2016/m/cons/20200306/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2016-114780217
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2016-114780217
+  retrieved_at: '2026-10-22T12:17:28Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 658a45920935e1ed74eb6fc2ec76fc3616339cb0845fd2783802d1037903f387
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:17:28Z'
+  notes: 3 versão(ões); histórico completo em decreto-regulamentar-regional-5-2016-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração do Ensino
+- Reestruturação de Serviços
+- Formação Profissional
+- Pessoal Dirigente
+- Governo Regional
+- Criação de Serviços
+- Definição de Competências
+- Diretor Regional
+- Direção Regional dos Recursos Humanos e da Administração Educativa
+- Administração Pública
+- Insucesso Escolar
+- Integração de Serviços
+- Integração de Trabalhadores
+- Secretaria Regional da Educação
+- Direcção Regional de Educação
+- Orgânica
+- Política de Educação
+- Ensino
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Recursos Humanos
+- Regime de Pessoal
+- Direção Regional de Planeamento Recursos e Infraestruturas
+- Administração Regional
+- Sistema de Ensino
+- Sistema Educativo
+- Transferência de Competências
+- Transferência de Serviços
+- Direção Regional de Inovação e Gestão
+relationships:
+- type: amended_by
+  target: pt:dre:114778990:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2018-114778990
+  date: '2018-02-28'
+- type: amended_by
+  target: pt:dre:129970436:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436
+  date: '2020-03-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/2/2015/05/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/2/2015/05/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/20/2015/11/11/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/20/2015/11/11/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/29/201
+  label: null
+  source: http://data.dre.pt/eli/port/29/201
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/82/2012/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/82/2012/03/29/p/dre
+article_structure:
+  article_count: 11
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:17:28Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 5/2016/M
+
+Decreto Regulamentar Regional n.º 5/2016/M
+
+Aprova a orgânica da Direção Regional de Inovação e Gestão
+
+O Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, procedeu à reestruturação do Governo da Região Autónoma da Madeira.
+
+O Decreto Regulamentar Regional n.º 20/2015/M, de 11 de novembro, que criou a nova estrutura da Secretaria Regional de Educação, estatui no seu articulado que a natureza, a missão, as atribuições e a organização interna do organismo referido na alínea d) do n.º 1 do artigo 6.º do anexo i constariam de decreto regulamentar regional.
+
+A Direção Regional de Inovação e Gestão, no âmbito dos serviços desta Secretaria Regional, é o organismo responsável, num cenário de sistema centralizado de gestão, pelas políticas de desenvolvimento e valorização de recursos humanos definidas para a administração pública regional, coordenando e apoiando a respetiva implementação.
+
+Na prossecução do desenvolvimento da administração e gestão das organizações escolares, importa no âmbito de atuação desta Direção Regional proporcionar as condições políticas, legais e técnicas tendo subjacente uma lógica de gestão sistémica e integrada de recursos humanos potenciadora de uma educação consolidada no conhecimento e na inovação.
+
+No âmbito da gestão dos recursos humanos, constitui intenção desta Direção Regional pautar a sua atuação pelo reforço do rigor e da transparência como vetores fundamentais da sua ação através de uma gestão rigorosa e criteriosa daqueles recursos. Nesta senda importa dar continuidade à política de racionalização e otimização dos recursos, bem como reforçar as competências atento àquelas que são as necessidades formativas dos trabalhadores, na perspetiva de melhor os capacitar para o desempenho das suas funções, enquanto elementos importantes do papel educativo e formativo no sistema educativo regional.
+
+No âmbito das suas atribuições constitui ainda propósito desta Direção Regional contribuir para a definição de políticas que visem garantir a melhoria dos resultados escolares, a diminuição da taxa de abandono escolar bem como o reforço da autonomia das escolas.
+
+Na vertente escolar, prossegue ainda o apoio à descentralização da administração no quadro do sistema educativo regional.
+
+Finalmente e reconhecendo a importância que reveste a avaliação das políticas a Direção Regional de Inovação e Gestão procederá à formulação, acompanhamento e avaliação do sistema educativo regional, num quadro de rigor e melhoria do serviço público.
+
+Assim nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, do n.º 1 do artigo 12.º do Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, da alínea d) do n.º 1 e do n.º 2 do artigo 6.º da orgânica da Secretaria Regional de Educação aprovada pelo Decreto Regulamentar Regional n.º 20/2015/M, de 11 de novembro, e do n.º 1 do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, e 2/2013/M, de 2 de janeiro, que o republicou, o Governo Regional da Madeira decreta o seguinte:
+
+### Capítulo I — Natureza, missão, atribuições e competências
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 1.º — Natureza
+
+A Direção Regional de Inovação e Gestão, designada no presente diploma abreviadamente por DRIG, é o serviço da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional de Educação (SRE), a que se refere a alínea d) do n.º 1 do artigo 6.º da orgânica aprovada pelo Decreto Regulamentar Regional n.º 20/2015/M, de 11 de novembro, alterado pelos Decretos Regulamentares Regionais n.os 7/2016/M, de 5 de fevereiro, e 3/2018/M, de 2 de fevereiro.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2018/M - Diário da República n.º 42/2018, Série I de 2018-02-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2018-114778990), em vigor a partir de 2018-03-01
+
+###### Artigo 2.º — Missão
+
+A DRIG tem por missão assegurar condições políticas, legais e técnicas para o desenvolvimento da autonomia, administração e gestão das organizações escolares, garantindo a sua gestão estratégica e promovendo melhoria organizacional, assim como o apoio e coordenação na implementação de políticas de desenvolvimento e valorização dos recursos humanos na educação, no âmbito das definidas para a administração pública regional.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2018/M - Diário da República n.º 42/2018, Série I de 2018-02-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2018-114778990), em vigor a partir de 2018-03-01
+
+###### Artigo 3.º — Atribuições
+
+Na prossecução da sua missão, são atribuições da DRIG:
+
+a) Promover, no quadro da SRE, políticas de desenvolvimento da autonomia, administração e gestão das organizações escolares e iniciativas de valorização de recursos humanos definidas para a administração pública regional, coordenando e apoiando os seus serviços na respetiva implementação;
+
+b) Assegurar o relacionamento com as organizações representativas dos trabalhadores, dentro dos limites fixados na lei, sobre o direito de negociação coletiva da Administração Pública;
+
+c) Harmonizar a política geral definida para a Administração Pública com as medidas a adotar nas áreas docente e não docente nas organizações escolares da Região Autónoma da Madeira, abreviadamente designada por RAM, emanando orientações ao nível da gestão dos recursos humanos, respetivas remunerações e procedendo ao seu acompanhamento;
+
+d) Operacionalizar uma política de estabilidade dos mapas e quadros de pessoal das organizações escolares da rede pública e privada;
+
+e) Promover iniciativas que visem a produção de conhecimento e informação que sustente as opções estratégicas a realizar pelas organizações escolares e pelos serviços;
+
+f) Garantir o contínuo aperfeiçoamento dos sistemas de informação e de apoio à tomada de decisão no âmbito do sistema educativo regional;
+
+g) Promover o reforço da autonomia e prestação de contas das escolas, potenciando sinergias entre os diferentes intervenientes do sistema educativo regional num quadro de rigor e qualidade, sustentado numa perspetiva de melhoria organizacional contínua;
+
+h) Monitorizar e avaliar a qualidade do desempenho organizacional resultante das políticas expressas nas alíneas anteriores num quadro de rigor orçamental e de melhoria do serviço público.
+
+i) Apoiar o desenvolvimento organizacional dos estabelecimentos de ensino, numa perspetiva de melhoria organizacional suportada pela coerência na ação planificadora, na articulação e intencionalidade colocadas na produção dos respetivos instrumentos de autonomia, administração e gestão, tendo em vista a obtenção de melhores resultados escolares dos alunos.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2018/M - Diário da República n.º 42/2018, Série I de 2018-02-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2018-114778990), em vigor a partir de 2018-03-01
+
+###### Artigo 4.º — Competências
+
+1 - A DRIG é dirigida por um diretor regional, cargo de direção superior de 1.º grau, que é responsável pelas políticas de desenvolvimento da administração e gestão das organizações escolares e valorização dos recursos humanos dos serviços da SRE, sendo seu responsável direto nos serviços sem autonomia administrativa e ou financeira, emanando orientações para os demais organismos desta Secretaria Regional e exercendo a superintendência administrativa sobre as organizações escolares da RAM.
+
+2 - Ao Diretor Regional são, genericamente, cometidas as seguintes competências:
+
+a) Gerir o sistema centralizado de gestão da SRE;
+
+b) Realizar a gestão de recursos humanos e operacionalizar remunerações dos serviços sem autonomia administrativa e ou financeira da SRE;
+
+c) Efetuar a mobilidade e assegurar o recrutamento dos trabalhadores;
+
+d) Proceder à recolha de informação e sistematização de dados e indicadores relativos às áreas de competência desta direção regional;
+
+e) Emitir parecer sobre projetos de diplomas que versem matérias das suas atribuições;
+
+f) Elaborar pareceres técnicos e jurídicos no âmbito do procedimento administrativo e contencioso nas áreas da sua competência;
+
+g) Colaborar com a Direção Regional de Educação no levantamento das necessidades de formação inicial, contínua e especializada dos recursos humanos e na formação contínua de docentes, na área de administração e gestão, bem como na área de supervisão pedagógica;
+
+h) Colaborar com a Direção Regional de Planeamento, Recursos e Infraestruturas na programação da rede escolar, nos seus aspetos de gestão e funcionamento;
+
+i) Acompanhar a aplicação de medidas de política educativa e das disposições legais em vigor no âmbito das suas atribuições;
+
+j) Promover e realizar estudos e pareceres no domínio das suas atribuições e propor medidas que se afigurem adequadas;
+
+k) Apoiar o desenvolvimento organizacional dos estabelecimentos de ensino numa perspetiva de melhoria organizacional tendo em vista a obtenção de melhores resultados escolares dos alunos;
+
+l) Promover iniciativas de informação e atualização técnica aos trabalhadores das organizações escolares públicas, orientada para os respetivos conteúdos funcionais.
+
+3 - O diretor regional exerce as competências que lhe foram conferidas por lei ou que nele sejam delegadas, para além das referidas no número anterior.
+
+4 - O diretor regional é substituído, nas suas ausências e impedimentos, pelo diretor de serviços para o efeito designado.
+
+5 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção e chefia.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2018/M - Diário da República n.º 42/2018, Série I de 2018-02-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2018-114778990), em vigor a partir de 2018-03-01
+
+### Capítulo II — Estrutura e funcionamento geral
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 5.º — Organização interna
+
+A organização interna dos serviços obedece a um modelo de estrutura hierarquizada.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 6.º — Cargos de direção
+
+Os lugares de direção superior e de direção intermédia de 1.º grau constam do anexo i ao presente diploma, do qual fazem parte integrante.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+### Capítulo III — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 7.º — Transferência de competências, direitos e obrigações
+
+As competências, os direitos e as obrigações de que eram titulares os órgãos ou serviços da Direção Regional dos Recursos Humanos e da Administração Educativa (DRRHAE) e do Observatório do Sistema Educativo da Região Autónoma da Madeira (OSERAM), unidade nuclear prevista na alínea a) do n.º 1 do artigo 1.º da Portaria n.º 82/2012, de 22 de junho, alterada e republicada pela Portaria n.º 29/2014, de 27 de fevereiro, são automaticamente transferidos para os correspondentes novos órgãos ou serviços que os substituem, ou que os passam a integrar em razão da respetiva matéria de competências, sem dependência de quaisquer formalidades, mantendo-se, no entanto, as referidas competências, direitos e obrigações nos anteriores órgãos ou serviços até à data da entrada em vigor do diploma que vier a aprovar a respetiva orgânica.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 8.º — Afetação de pessoal
+
+O pessoal afeto à Direção Regional dos Recursos Humanos e da Administração Educativa e à unidade nuclear OSERAM, transitam para a Direção Regional de Inovação e Gestão, com efeitos à data de entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 9.º — Norma transitória
+
+Até à entrada em vigor dos diplomas que aprovam a organização referida no artigo 5.º mantêm-se em vigor a Portaria n.º 100-A/2012, de 3 de agosto, e o Despacho n.º 36/2012, de 6 de agosto, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas naqueles previstas.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 10.º — Norma revogatória
+
+É revogado o Decreto Regulamentar Regional n.º 10/2012/M, de 22 de junho.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+Aprovado em Conselho do Governo Regional em 30 de dezembro de 2015.
+
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
+
+Assinado em 7 de janeiro de 2016.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+## Anexo I — Mapa de cargos dirigentes a que se refere o artigo 6.º
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 10.º do/a [Decreto Regulamentar Regional n.º 19/2020/M - Diário da República n.º 47/2020, Série I de 2020-03-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436), em vigor a partir de 2020-03-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 5/2018/M - Diário da República n.º 42/2018, Série I de 2018-02-28](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2018-114778990), em vigor a partir de 2018-03-01

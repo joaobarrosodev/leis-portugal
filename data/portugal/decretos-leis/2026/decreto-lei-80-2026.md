@@ -1,0 +1,261 @@
+---
+schema_version: '1.0'
+id: pt:dre:1078211086:por
+title: Decreto-Lei n.º 80/2026
+short_title: null
+summary: Procede à afetação da administração da parcela de domínio público do Estado onde se encontra instalado o estaleiro
+  naval da Mitrena à Administração dos Portos de Setúbal e Sesimbra, S. A., e autoriza a cedência da posição contratual.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas e Habitação
+official_number: 80/2026
+official_date: null
+publication_date: '2026-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/2026, Série I de 2026-03-27
+  number: '61'
+  series: I
+  supplement: null
+  pages: 3 - 6
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/03/06100/0000300006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/80/2026/03/27/p/dre/pt/html
+  oj: null
+  dre: '1078211086'
+  dre_path: /dr/detalhe/decreto-lei/80-2026-1078211086
+  internal: pt:dre:1078211086:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2026-1078211086
+  metadata_url: https://data.dre.pt/eli/dec-lei/80/2026/03/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-2026-1078211086
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-03-27T00:00:00Z'
+integrity:
+  source_sha256: 9776ee128b9afb00da5c1bc654232ea3b9066c0a9d8b4057b0e215031aafe402
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-80-1078211086.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração dos Portos de Setúbal e Sesimbra
+- Contrato de Concessão
+- Domínio Público Marítimo
+- Estaleiro Naval
+- Setúbal
+- Setenave
+- Transmissão de Contrato
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/193-a/1997/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/193-a/1997/07/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/297/1997/10/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/297/1997/10/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/338/1998/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/338/1998/11/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/5/1998/01/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/5/1998/01/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/77/1998/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/1998/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/181/1997/10/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/181/1997/10/28/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 80/2026
+
+de 27 de março
+
+O [Decreto-Lei n.º 297/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1997-676810), de 28 de outubro, estabeleceu as bases da concessão da conceção, projeto, reconstrução, financiamento, exploração e manutenção do estaleiro da Mitrena, em Setúbal, cuja minuta do contrato de concessão foi aprovada pela [Resolução do Conselho de Ministros n.º 181/97](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/181-1997-676807), de 28 de outubro, tendo o contrato sido assinado a 31 de julho de 1997, entre o Estado português e a SETENAVE - Estaleiros Navais de Setúbal, S. A.
+
+Este contrato de concessão marcou o culminar de um longo processo que integrou as vertentes social, operacional, ambiental e financeira na reestruturação do setor de reparação naval da região, com o estaleiro da Mitrena a operar plenamente durante os 27 anos de execução do contrato, o qual cessa em 2027 e prevê que, até três anos antes do termo do prazo da concessão, as partes devem comunicar o interesse na prorrogação, iniciando o processo negocial, que deverá estar concluído até 18 meses antes do termo daquele prazo.
+
+O estaleiro da Mitrena tem-se afirmado como uma referência técnica no mercado global de manutenção naval, consolidando a sua posição como um dos maiores estaleiros do Atlântico Norte. Reconhecido pela capacidade de servir os maiores navios do mundo e os mais importantes armadores internacionais, os estaleiros empregam diretamente cerca de dois mil trabalhadores e sustentam um vasto ecossistema de fornecedores e serviços associados, fortalecendo o cluster marítimo-industrial nacional e promovendo a inovação tecnológica num mercado fortemente concorrencial de nível mundial, com destaque para os estaleiros asiáticos.
+
+O elevado potencial da área do estaleiro da Mitrena na diversificação e desenvolvimento de atividades conexas ou complementares, atentas as suas condições únicas para acolher atividades como o desmantelamento ecológico de navios e a construção de embarcações técnicas avançadas e plataformas/componentes para parques eólicos offshore configura uma excelente oportunidade para atrair novos e diversos operadores económicos, impulsionando o surgimento de outras áreas de negócios, através da atribuição de novas concessões, precedidas dos adequados procedimentos concursais, devidamente enquadrados no disposto na Lei da Água, aprovada pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, e demais legislação complementar, promovendo desta forma uma maior integração com as demais atividades do porto de Setúbal. Este desenvolvimento deverá promover a criação de novos clusters económicos nacionais nos portos, reforçando o investimento e a competitividade do setor, gerando mais emprego e promovendo o crescimento sustentável.
+
+Considerando que o estaleiro da Mitrena está situado na área de domínio público marítimo sob a jurisdição da Administração dos Portos de Setúbal e Sesimbra, S. A. (APSS, S. A.), cujos Estatutos foram aprovados pelo [Decreto-Lei n.º 338/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/338-1998-223022), de 3 de novembro, e que compete a esta administração portuária exercer as competências necessárias à exploração económica do Porto de Setúbal, incluindo as atividades que lhe sejam complementares, subsidiárias ou acessórias, o Governo pretende transferir para a APSS, S. A., a posição de concedente no contrato de concessão do estaleiro da Mitrena.
+
+Com efeito, a gestão do domínio público nas áreas sob jurisdição das administrações portuárias é realizada por estas, conforme previsto pela Lei da Água, aprovada pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, e pelo [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, que estabelece o regime da utilização dos recursos hídricos e prevê os procedimentos para a atribuição de licenças e concessões. Acresce que os Estatutos da APSS, S. A., determinam que cabe a esta administração portuária a gestão do domínio público na sua área de jurisdição, competindo-lhe a atribuição de licenças e concessões, bem como a definição do interesse público no uso privativo para efeitos de concessão.
+
+A transferência da posição de concedente do contrato de concessão do estaleiro da Mitrena para a APSS, S. A., a cerca de dois anos do tremo da concessão, oferece diversas vantagens, designadamente a maximização da utilização agregada do domínio público sob a respetiva jurisdição, a gestão integrada das atividades e das oportunidades de desenvolvimento do Porto e do estaleiro da Mitrena, em especial nesta fase de transição contratual, e um acompanhamento de proximidade, articulado com as atividades portuárias e as entidades locais. Esta gestão integrada pela APSS, S. A., alinhada com a visão estratégica do porto de Setúbal, contribuirá para o desenvolvimento de atividades portuárias complementares neste porto.
+
+Foi consultada a Comissão do Domínio Público Marítimo.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à:
+
+a) Primeira alteração ao [Decreto-Lei n.º 297/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1997-676810), de 28 de outubro, que aprova as bases do contrato de concessão da conceção, projeto, reconstrução, financiamento, exploração e manutenção do estaleiro da Mitrena;
+
+b) Afetação da administração da parcela de domínio público do Estado onde se encontra instalado o estaleiro da Mitrena à Administração dos Portos de Setúbal e Sesimbra, S. A. (APSS, S. A.);
+
+c) Autorização para a cedência da posição contratual do concedente e para a outorga de um aditamento ao contrato de concessão da conceção, projeto, reconstrução, financiamento, exploração e manutenção do estaleiro da Mitrena, de 31 de julho de 1997, em conformidade com a alteração prevista nas alíneas anteriores.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 297/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1997-676810), de 28 de outubro
+
+As Bases I, XXII e XXXII, aprovadas pelo [Decreto-Lei n.º 297/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1997-676810), de 28 de outubro, passam a ter a seguinte redação:
+
+«Base I
+
+[...]
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+o) [...]
+
+p) [...]
+
+q) [...]
+
+r) [...]
+
+s) Concedente - o Estado português e, a partir da entrada em vigor do aditamento ao contrato de concessão que a preveja como novo concedente, a Administração dos Portos de Setúbal e Sesimbra, S. A. (APSS, S. A.);
+
+t) Partes originárias - as partes que outorgaram originariamente o contrato de concessão, isto é, o Estado português e a SETENAVE - Estaleiros Navais de Setúbal, S. A., atualmente designada LISNAVE - Infraestruturas Navais, S. A.
+
+###### Base XXII — [...]
+
+1 - Os poderes de fiscalização do cumprimento das obrigações da concessionária emergentes do contrato de concessão são exercidos pelo concedente.
+
+2 - [...]
+
+3 - [...]
+
+###### Base XXXII — [...]
+
+1 - [...]
+
+2 - No caso previsto no número anterior, o concedente deverá ainda pagar à concessionária uma indemnização calculada de acordo com o disposto no contrato de concessão.»
+
+###### Artigo 3.º — Aditamento às Bases da Concessão
+
+É aditada a Base XXXIX às bases aprovadas pelo [Decreto-Lei n.º 297/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/297-1997-676810), de 28 de outubro, com a seguinte redação:
+
+«Base XXXIX
+
+Disposições adicionais
+
+1 - As partes originárias declaram que não existem situações de incumprimento, tendo o concedente cumprido as obrigações previstas nas Bases X e XI, declarando ainda não existirem pedidos pendentes de decisão por parte do concedente.
+
+2 - A concessionária atualizará as apólices de seguro indicadas na Base XXIV, alterando a identidade do cossegurado, no prazo de dez dias a contar da data de assinatura de aditamento ao contrato de concessão que preveja novo concedente.
+
+3 - As partes originárias declaram que a concessão se rege pelo contrato de concessão, na sua redação originária ou, quando aplicável, na decorrente da modificação que preveja como novo concedente a APSS, S. A., declarando ainda não ter existido qualquer outra modificação, nem se ter verificado a emissão de ordens, diretivas ou instruções no exercício dos poderes de direção e de fiscalização pelo concedente.»
+
+###### Artigo 4.º — Afetação dominial
+
+É afeta à APSS, S. A., a administração da parcela de domínio público a que se refere o artigo 10.º do [Decreto-Lei n.º 193-A/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/193-a-1997-650114), de 29 de julho, alterado pelos Decretos-Leis n.<sup>os</sup> [5/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1998-222977), de 12 de janeiro, e [77/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-1998-198117), de 27 de março.
+
+###### Artigo 5.º — Cessão da posição contratual
+
+1 - Os membros do Governo responsáveis pelas áreas da economia, das finanças e das infraestruturas, em nome do Estado português, cedem a sua posição contratual de concedente à APSS, S. A., devendo proceder, no prazo de sessenta dias, à modificação do contrato de concessão da conceção e projeto, reconstrução, financiamento, exploração e manutenção do estaleiro da Mitrena.
+
+2 - Cabe à APSS, S. A., o exercício de todos os poderes, na qualidade de concedente, ficando subrogada em todos os direitos e deveres do anterior concedente.
+
+3 - Sem prejuízo de eventual apoio técnico da Unidade Técnica de Acompanhamento de Projetos, a APSS, S. A., deve elaborar um plano e proposta de desenvolvimento da área de domínio público do atual estaleiro da Mitrena, devidamente fundamentados, os quais devem ser submetidos à apreciação da tutela setorial, no prazo de 6 meses após a entrada em vigor do presente decreto-lei, para efeitos de validação prévia.
+
+###### Artigo 6.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 5 de fevereiro de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Miguel Martinez de Castro Pinto Luz.
+
+**Promulgado em 18 de março de 2026.**
+
+**Publique-se.**
+
+**O Presidente da República, António José Martins Seguro.**
+
+**Referendado em 23 de março de 2026.**
+
+**O Primeiro-Ministro, Luís Montenegro.**

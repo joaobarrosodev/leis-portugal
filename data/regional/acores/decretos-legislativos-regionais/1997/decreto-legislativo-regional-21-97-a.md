@@ -1,0 +1,271 @@
+---
+schema_version: '1.0'
+id: pt:dre:675644:por
+title: Decreto Legislativo Regional n.º 21/97/A
+short_title: null
+summary: Cria a Escola Profissional das Capelas, no concelho de Ponta Delgada
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 21/97/A
+official_date: null
+publication_date: '1997-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 255/1997, Série I-A de 1997-11-04
+  number: '255'
+  series: I
+  supplement: null
+  pages: 6065 - 6067
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/11/255a00/60656067.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/21/1997/11/04/a/dre/pt/html
+  oj: null
+  dre: '675644'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/21-1997-675644
+  internal: pt:dre:675644:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1997-675644
+  metadata_url: https://data.dre.pt/eli/declegreg/21/1997/11/04/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-1997-675644
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-03-06T00:00:00Z'
+integrity:
+  source_sha256: 9dcdef04491a1dcfe297e6724065ff5d0ec7b5296a5b401013405e3940c6aeaa
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1997/DRE-1997-21-675644.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Ensino Profissional
+- Ponta Delgada
+- Açores
+relationships:
+- type: amended_by
+  target: pt:dre:247256:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/70/1993/03/10/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 21/97/A
+
+Escola Profissional das Capelas
+
+O Centro de Formação Profissional dos Açores (CFPA) apresenta graves dificuldades de gestão, dada a sua integração orgânica com a Direcção Regional do Emprego, integração que, na prática, o impede de gerir de forma autónoma os fundos destinados ao seu funcionamento.
+
+Por outro lado, o surgimento de um crescente número de escolas profissionais na Região impõe um novo enquadramento para o CFPA aconselhando a sua transformação em escola profissional pública, o que fará o sistema regional de formação profissional convergir para o modelo que está a ser adoptado a nível nacional e europeu.
+
+Torna-se também necessário acautelar a tutela pedagógica e curricular da escola, por forma a garantir-se a qualidade do ensino ali ministrado, nomeadamente no que respeita ao seu paralelismo com as outras modalidades integradas no sistema educativo regular.
+
+Considerando o artigo 5.º do [Decreto-Lei n.º 70/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1993-628044), de 10 de Março;
+
+Assim:
+
+A Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, decreta:
+
+###### Artigo 1.º — Âmbito
+
+1 - É criada a Escola Profissional das Capelas, adiante designada por EPC.
+
+2 - A EPC terá a sua sede na freguesia das Capelas, concelho de Ponta Delgada, podendo criar estruturas dependentes em qualquer local da Região Autónoma dos Açores.
+
+3 - A EPC, ou qualquer das suas estruturas dependentes, poderá adoptar o nome de um patrono que se tenha distinguido no domínio da formação profissional ou na área laboral.
+
+###### Artigo 2.º — Natureza e regime
+
+1 - A EPC é uma escola profissional pública, assumindo a natureza jurídica de instituto público dotado de autonomia administrativa e financeira e património próprio.
+
+2 - A EPC rege-se pelo presente diploma e por regulamento interno, a ser aprovado por despacho do Secretário Regional da Educação e Assuntos Sociais.
+
+###### Artigo 3.º — Tutela
+
+No desempenho da sua actividade, a EPC está sujeita à tutela científica, pedagógica e funcional da secretaria regional que tutelar o sector da educação.
+
+###### Artigo 4.º — Atribuições
+
+São atribuições da EPC:
+
+a) Contribuir para a formação integral dos jovens, proporcionando-lhes, designadamente, preparação adequada para um exercício profissional qualificado;
+
+b) Desenvolver modalidades alternativas às do ensino regular, capazes de promover a aproximação entre a EPC e o tecido empresarial, as associações profissionais e o tecido social da Região Autónoma dos Açores;
+
+c) Facultar aos alunos contacto com o mundo do trabalho e a experiência profissional, preparando-os para uma adequada inserção sócio-profissional;
+
+d) Promover, por si ou conjuntamente com outros agentes e instituições, a concretização de projectos de formação de recursos humanos qualificados que respondam às necessidades do desenvolvimento da Região;
+
+e) Facultar aos alunos uma sólida formação geral, científica e tecnológica.
+
+###### Artigo 5.º — Regime de funcionamento técnico-pedagógico
+
+1 - No seu funcionamento técnico-pedagógico e nos moldes a definir no regulamento interno, a EPC tem competência administrativa e autonomia curricular e pedagógica.
+
+2 - Entende-se por competência administrativa a que se destina a assegurar e conservar o registo de actos de matrícula e inscrição dos alunos, garantir a conservação dos documentos de registo das actas de avaliação, promover e controlar a emissão de certificados e diplomas de aproveitamento e habilitações e avaliar a qualidade dos processos e dos resultados da aprendizagem.
+
+3 - Entende-se por autonomia curricular a competência para organizar e oferecer os cursos e demais actividades de formação, bem como certificar os conhecimentos adquiridos.
+
+4 - Entende-se por autonomia pedagógica a competência para conceber e formular o projecto educativo, adoptar os métodos necessários à sua realização, assegurar e controlar a avaliação de conhecimentos dos alunos e realizar práticas de inovação pedagógica.
+
+5 - A EPC poderá celebrar com outras escolas profissionais ou de ensino regular, bem como com quaisquer outras entidades envolvidas em actividades de formação profissional e de educação, contratos e protocolos que determinem as formas e níveis de apoio, acompanhamento e supervisão a garantir por essas entidades no âmbito administrativo, curricular e pedagógico.
+
+###### Artigo 6.º — Funcionamento
+
+Os objectivos, estrutura orgânica e competência dos diversos órgãos e serviços e formas de designação e de substituição dos seus titulares, bem como o quadro de pessoal e forma de transição dos actuais funcionários dos centros de formação profissional dos Açores e Secção de Apoio da EPC, constarão de decreto regulamentar regional.
+
+###### Artigo 7.º — Órgãos
+
+São órgãos de gestão da EPC o director, o conselho administrativo, o conselho técnico-pedagógico e o conselho consultivo.
+
+###### Artigo 8.º — Director
+
+Para além das competências que lhe sejam atribuídas em sede de regulamentação, compete ao director:
+
+a) Representar a EPC em juízo ou fora dele;
+
+b) Presidir ao conselho administrativo;
+
+c) Prestar aos órgãos de tutela as informações que lhe forem solicitadas;
+
+d) Exercer a coordenação geral do funcionamento da EPC;
+
+e) Exercer as competências disciplinares que por lei ou pelo regulamento interno que sejam atribuídas.
+
+###### Artigo 9.º — Conselho administrativo
+
+1 - O conselho administrativo é o órgão de direcção administrativo-financeira, competindo-lhe, para além das competências que lhe sejam cometidas em sede de regulamentação, designadamente:
+
+a) Arrecadar os recursos financeiros indispensáveis ao funcionamento da EPC e proceder à sua gestão económica e financeira;
+
+b) Garantir a correcta aplicação dos recursos disponíveis face aos objectivos educativos e pedagógicos aprovados para a EPC;
+
+c) Responder pela correcta aplicação dos apoios concedidos;
+
+d) Prestar contas, nos termos da lei, da gestão efectuada.
+
+2 - O conselho administrativo é composto pelo director, que preside, e por dois vogais, nomeados nos termos a definir em sede de regulamentação.
+
+###### Artigo 10.º — Conselho técnico-pedagógico
+
+1 - O conselho técnico-pedagógico é o órgão de direcção técnico-pedagógica da EPC, competindo-lhe, para além das competências que lhe sejam fixadas em sede de regulamentação, designadamente:
+
+a) Representar a EPC junto da tutela em todas as matérias do foro pedagógico;
+
+b) Planificar as actividades curriculares e estabelecer, no respeito pela lei, os planos e programas de estudo;
+
+c) Promover o cumprimento dos planos e programas de estudo;
+
+d) Garantir a qualidade de ensino.
+
+2 - O conselho técnico-pedagógico será sempre presidido por docente legalmente habilitado para a docência ao nível do ensino secundário.
+
+3 - Integram o conselho técnico-pedagógico um representante de cada curso, eleito de entre os seus docentes.
+
+###### Artigo 11.º — Conselho consultivo
+
+1 - O conselho consultivo é o órgão de consulta da EPC, competindo-lhe, para além do que lhe seja atribuído em sede de regulamentação:
+
+a) Dar parecer anual sobre o projecto educativo da Escola e a sua execução;
+
+b) Dar parecer sobre os cursos e outras actividades de formação;
+
+c) Apreciar todos os relatórios de actividade que a EPC deva elaborar.
+
+2 - O conselho consultivo integrará, para além do director e dos membros dos conselhos administrativo e técnico-pedagógico, representantes, em número a definir por regulamento, dos estudantes, dos docentes e da associação de pais e encarregados de educação, se esta existir.
+
+###### Artigo 12.º — Selecção de pessoal docente
+
+1 - A selecção do pessoal docente rege-se pelo princípio da adequação dos perfis dos candidatos às exigências profissionais previamente definidas.
+
+2 - Para a docência da componente de formação técnica deve ser dada preferência a formadores que mantenham uma actividade profissional ou empresarial efectiva.
+
+3 - Para a docência das componentes de formação sócio-cultural e científica os professores e os formadores deverão possuir as habilitações legalmente exigidas para os graus correspondentes do ensino regular.
+
+4 - O pessoal docente da EPC será colocado nos mesmos moldes e com as mesmas formas contratuais que vigorarem para os docentes do ensino secundário.
+
+###### Artigo 13.º — Financiamento
+
+Constituem receitas da EPC:
+
+a) As verbas para tal inscritas no Orçamento da Região Autónoma dos Açores;
+
+b) As comparticipações a que tenha direito no âmbito de contratos-programa celebrados com a Região ou quaisquer outras entidades;
+
+c) Os co-financiamentos que lhe caibam;
+
+d) As receitas geradas pelas actividades de formação ou outras por ela desenvolvidas;
+
+e) O produto de dotações ou outras liberalidades feitas a seu favor;
+
+f) As receitas obtidas pela alienação, nos termos da lei, de qualquer património;
+
+g) Outras que por lei ou regulamento lhe sejam atribuídas.
+
+###### Artigo 14.º — Normas transitórias
+
+1 - É incorporado no património da EPC todo o património móvel e imóvel ora atribuído ao Centro de Formação Profissional dos Açores (CFPA), que se extingue com a entrada em vigor do presente diploma.
+
+2 - Até à aprovação do decreto regulamentar regional a que se refere o artigo 6.º do presente diploma, a EPC será administrada por uma comissão instaladora, nomeada por despacho do Secretário Regional da Educação e Assuntos Sociais.
+
+3 - No prazo máximo de 90 dias após a entrada em vigor do presente diploma, o Governo Regional regulamentará o quadro de pessoal da EPC e a forma de transição dos actuais funcionários do CFPA e da Secção de Apoio ao CFPA.
+
+###### Artigo 15.º — Revogação
+
+São revogados a alínea f) do n.º 3 do artigo 10.º e o artigo 35.º do Decreto Regulamentar Regional n.º 17/95, de 6 de Junho, assim como a Resolução n.º 55/94, de 7 de Abril.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 12 de Setembro de 1997.
+
+**O Presidente da Assembleia Legislativa Regional, Dionísio Mendes de Sousa.**
+
+**Assinado em Angra do Heroísmo em 13 de Outubro de 1997.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**

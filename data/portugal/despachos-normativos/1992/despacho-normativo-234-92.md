@@ -1,0 +1,248 @@
+---
+schema_version: '1.0'
+id: pt:dre:616218:por
+title: Despacho Normativo n.º 234/92
+short_title: null
+summary: Aprova o Regulamento dos Estágios do Ministério dos Negócios Estrangeiros para Ingresso nas Carreiras de Pessoal
+  de Informática
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 234/92
+official_date: null
+publication_date: '1992-12-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/1992, Série I-B de 1992-12-15
+  number: '288'
+  series: I
+  supplement: null
+  pages: 5769 - 5770
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/12/288b00/57695770.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/234/1992/12/15/p/dre/pt/html
+  oj: null
+  dre: '616218'
+  dre_path: /dr/detalhe/despacho-normativo/234-1992-616218
+  internal: pt:dre:616218:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/234-1992-616218
+  metadata_url: https://data.dre.pt/eli/despnorm/234/1992/12/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/234-1992-616218
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-12-15T00:00:00Z'
+integrity:
+  source_sha256: bed49fa143bc2c31144e1aaa5c6927f82d0f6848a45c2d162744a8df7e9b0251
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-234-616218.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal de Informática
+- Estágio de Formação
+- Regulamento de Estágio
+- Ministério dos Negócios Estrangeiros
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/773/1991/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/773/1991/08/07/p/dre
+article_structure:
+  article_count: 15
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 234/92
+
+Ao abrigo dos n.os 9 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, e em cumprimento das regras contidas no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, determina-se o seguinte:
+
+1 - É aprovado o Regulamento dos Estágios do Ministério dos Negócios Estrangeiros para Ingresso nas Carreiras de Pessoal de Informática, tendo em vista o provimento definitivo nas respectivas carreiras.
+
+2 - O Regulamento, anexo a este despacho e que dele faz parte integrante, entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério dos Negócios Estrangeiros, 4 de Novembro de 1992. - O Ministro dos Negócios Estrangeiros, João de Deus Rogado Salvador Pinheiro.
+
+Regulamento dos Estágios do Ministério dos Negócios Estrangeiros para Ingresso nas Carreiras de Pessoal de Informática
+
+### CAPÍTULO I — Do âmbito de aplicação e dos objectivos
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento, de harmonia com o disposto no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, conjugado com o artigo 11.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, aplica-se a todos os estagiários para ingresso nas respectivas carreiras de informática do Ministério dos Negócios Estrangeiros.
+
+###### Artigo 2.º — Objectivos
+
+Para além da classificação e ordenação finais dos estagiários e da avaliação da respectiva capacidade de adaptação, o estágio tem como objectivo a preparação e formação dos mesmos, tendo em conta o desempenho eficaz e competente das funções para que foram recrutados, com vista ao provimento definitivo na respectiva categoria de ingresso.
+
+### CAPÍTULO II — Da realização do estágio
+
+###### Artigo 3.º — Natureza, duração e local do estágio
+
+O estágio reveste carácter probatório e tem a duração de um ano e decorre no Palácio das Necessidades, sede do Ministério dos Negócios Estrangeiros.
+
+###### Artigo 4.º — Plano de estágio
+
+1 - O estágio engloba duas fases:
+
+a) Fase de acolhimento e sensibilização;
+
+b) Fase teórico-prática.
+
+2 - A fase de acolhimento e sensibilização destina-se a proporcionar aos estagiários um contacto inicial com os serviços, traduzido no conhecimento da estrutura, competências e funcionamento do Ministério dos Negócios Estrangeiros, em geral, e na identificação das tarefas e objectivos cometidos à área funcional de informática, em particular, facultando-lhes os principais suportes de natureza legislativa respeitantes a estas matérias.
+
+3 - A fase teórico-prática integra estudos e acções de formação consubstanciados, nomeadamente na frequência de cursos com vista à aquisição dos conhecimentos indispensáveis ao exercício das respectivas funções com aplicação prática e de forma gradual com o decorrer do estágio.
+
+###### Artigo 5.º — Natureza das acções de formação
+
+Durante o período de estágio são ministradas aos estagiários acções de formação que incluem a frequência de cursos de formação directamente relacionados com as funções a exercer, de harmonia com o estabelecido no mapa anexo à [Portaria n.º 773/91](https://diariodarepublica.pt/dr/detalhe/portaria/773-1991-681608), de 7 de Agosto.
+
+###### Artigo 6.º — Assiduidade
+
+Para além da classificação obtida nos cursos de formação, o aproveitamento é condicionado ainda a um índice de assiduidade não inferior a 75% da respectiva carga horária.
+
+###### Artigo 7.º — Orientação do estágio
+
+1 - O estágio decorre sob a orientação do responsável pelo Centro de Informática que, nas suas faltas e impedimentos, será substituído por funcionário ou funcionários a designar por despacho do secretário-geral do Ministério dos Negócios Estrangeiros.
+
+2 - Ao orientador de estágio compete:
+
+a) Definir o plano de estágio, nomeadamente quanto às acções de formação, e submetê-lo à aprovação do secretário-geral do Ministério dos Negócios Estrangeiros;
+
+b) Preparar o material pedagógico e demais instrumentos de apoio às acções a realizar;
+
+c) Conduzir as acções de acordo com o plano previamente estabelecido;
+
+d) Acompanhar o desenvolvimento do estágio e a evolução dos estagiários, atribuindo-lhes tarefas progressivamente de maior dificuldade e responsabilidade;
+
+e) Proceder ao apuramento e classificar as acções de formação, quando efectuadas, não englobadas em cursos de formação ministrados por entidades específicas;
+
+f) Atribuir a classificação de serviço aos estagiárias relativa ao período de estágio;
+
+g) Informar, por sua iniciativa ou sempre que solicitado pelos estagiários, acerca da sua evolução, o que é feito em entrevista individual;
+
+h) Facultar ao júri de estágio todos os elementos necessários à avaliação e classificação final do estágio.
+
+3 - Ao orientador de estágio serão proporcionados os meios materiais e humanos necessários à prossecução dos objectivos para que foi designado.
+
+###### Artigo 8.º — Júri de estágio
+
+1 - O júri de estágio e constituído por despacho do secretário-geral do Ministério dos Negócios Estrangeiros.
+
+2 - Em matéria de funcionamento e comparência do júri aplicam-se, com as necessárias adaptações, as regras constantes dos artigos 9.º e 10.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+
+### CAPÍTULO III — Da avaliação e da classificarão finais
+
+###### Artigo 9.º — Avaliação do estágio
+
+1 - A avaliação, classificação e ordenação finais competem ao júri de estágio.
+
+2 - Para os efeitos previstos no número anterior, o júri tem em consideração os resultados atribuídos às acções de formação, a classificação de serviço obtida durante o período de estágio e o relatório de estágio.
+
+###### Artigo 10.º — Avaliação das acções de formação
+
+1 - A avaliação das acções de formação resulta da média aritmética, simples ou ponderada, das notas que lhes tenham sido atribuídas.
+
+2 - A classificação deste factor de avaliação é estabelecida numa escala de 0 a 20 valores.
+
+###### Artigo 11.º — Avaliação da classificação de serviço
+
+1 - A classificação de serviço durante o período de estágio é atribuída pelo respectivo orientador de harmonia com o previsto no Decreto Regulamentar n.º 44B/83, de 1 de Junho, com as necessárias adaptações.
+
+2 - Constituem factores a considerar obrigatoriamente os constantes dos vários itens da ficha de notação aplicável.
+
+3 - As menções qualitativas em que se traduz a classificação de serviço são convertidas de acordo com a seguinte tabela de equivalências:
+
+Não satisfatório - 6 valores;
+
+Regular - 10 valores;
+
+Bom - 16 valores;
+
+Muito bom - 20 valores.
+
+###### Artigo 12.º — Avaliação do relatório de estágio
+
+1 - Cada estagiário deve elaborar um relatório de estágio, a apresentar ao júri de estágio até ao termo do prazo de oito dias úteis a contar do final do período de estágio.
+
+2 - Constituem parâmetros de avaliação obrigatória do relatório de estágio a estruturação, a criatividade, a profundidade de análise a capacidade de síntese, a forma de expressão escrita e a clareza de exposição.
+
+3 - O relatório de estágio é classificado numa escala de 0 a 20 valores.
+
+###### Artigo 13.º — Classificação final do estágio
+
+1 - A classificação final do estágio resulta da média ponderada das notas obtidas:
+
+a) Na classificação final atribuída às acções de formação;
+
+b) Na classificação de serviço;
+
+c) No relatório de estágio;
+
+de acordo com a seguinte fórmula:
+
+CF = (3 x AF + 2CS + RE)/6
+
+CF = classificação final;
+
+AF = acções de formação;
+
+CS = classificação de serviço;
+
+RE = relatório de estágio.
+
+2 - Na classificação final é adoptada uma escala de 0 a 20 valores.
+
+3 - Sempre que se verifique igualdade de classificação, compete ao júri de estágio estabelecer critérios de desempate.
+
+###### Artigo 14.º — Classificação dos estagiários e provimento dos lugares
+
+1 - Os estagiários são classificados e ordenados pelo júri de estágio em função da classificação final obtida no estágio não se considerando aprovados os que tiverem obtido classificação inferior a Bom (14 valores).
+
+2 - Os estagiários aprovados são providos nos lugares vagos segundo a ordenação da lista de classificação final.
+
+3 - Os estagiários não aprovados e os aprovados que excedem o número de vagas regressam ao lugar de origem, nos termos das disposições legais conjugadas do n.º 3 do artigo 11.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, e da alínea g) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho.
+
+###### Artigo 15.º — Homologação, publicitação e recurso da lista de classificação final
+
+Em sede de homologação, publicitação e recurso da lista de classificação final aplicam-se as regras prevista do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.

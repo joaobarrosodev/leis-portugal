@@ -1,0 +1,1315 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70086389:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2015-114670075",
+ "dre_path": "/dr/detalhe/lei/102-2015-70086389",
+ "source_lastmod": "2026-07-15",
+ "versions": [
+  {
+   "date": "2015-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114670175",
+    "114670176",
+    "114670177",
+    "114670178",
+    "114670179",
+    "114670180",
+    "114670181",
+    "114670182",
+    "114670183",
+    "114670184",
+    "114670185",
+    "114670186",
+    "114670187",
+    "114670188",
+    "114670189",
+    "114670191",
+    "114670192",
+    "114670193",
+    "114670195",
+    "114670196",
+    "114670197",
+    "114670198",
+    "114670199",
+    "114670200",
+    "114670201",
+    "114670203",
+    "114670202",
+    "114670204",
+    "114670205",
+    "114670206"
+   ]
+  },
+  {
+   "date": "2018-02-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114661387:por",
+     "title": "Lei n.º 3/2018",
+     "published": "2018-02-09",
+     "dre_path": "/dr/detalhe/lei/3-2018-114661387"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "114670175",
+    "114670176",
+    "114670177",
+    "114670178",
+    "114670179",
+    "114670180",
+    "114670181",
+    "114670182",
+    "114670183",
+    "114670184",
+    "114670185",
+    "114670186",
+    "908983245",
+    "114670188",
+    "114670189",
+    "114670190",
+    "908983246",
+    "114670192",
+    "114670193",
+    "114670194",
+    "908983247",
+    "114670196",
+    "114670197",
+    "114670198",
+    "114670199",
+    "114670200",
+    "114670201",
+    "114670202",
+    "114670203",
+    "114670204",
+    "114670205",
+    "114670206",
+    "114670207"
+   ]
+  },
+  {
+   "date": "2023-08-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216771968:por",
+     "title": "Decreto-Lei n.º 66/2023",
+     "published": "2023-08-08",
+     "dre_path": "/dr/detalhe/decreto-lei/66-2023-216771968"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Adita Artigo 12.º-B",
+    "Adita Artigo 12.º-C",
+    "Adita Capítulo III-A",
+    "Adita Artigo 15.º-A",
+    "Adita Artigo 15.º-B",
+    "Adita Artigo 16.º-A",
+    "Adita Artigo 16.º-B",
+    "Adita Artigo 21.º-A",
+    "Adita Artigo 21.º-B",
+    "Adita Artigo 21.º-C",
+    "Adita Artigo 21.º-D",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Capítulo III",
+    "Altera Artigo 17.º",
+    "Elimina Secção II",
+    "Elimina Secção I",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 23.º"
+   ],
+   "fragments": [
+    "114670175",
+    "909816386",
+    "909815929",
+    "909815930",
+    "909815931",
+    "909816387",
+    "909815932",
+    "909816376",
+    "909815933",
+    "909816377",
+    "114670185",
+    "114670186",
+    "909815934",
+    "909816378",
+    "909816388",
+    "909816443",
+    "909816444",
+    "909816445",
+    "909816446",
+    "909816450",
+    "909816454",
+    "909816389",
+    "909816391",
+    "909816405",
+    "909816413",
+    "909816414",
+    "909816421",
+    "909816428",
+    "909816429",
+    "909816430",
+    "909816431",
+    "909816432",
+    "909816433",
+    "909816435",
+    "909816437",
+    "909816439",
+    "909816441",
+    "909815974",
+    "114670203",
+    "909816385",
+    "114670205",
+    "114670206",
+    "909816375"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:902120308:por",
+     "title": "Lei n.º 1/2025",
+     "published": "2025-01-06",
+     "dre_path": "/dr/detalhe/lei/1-2025-902120308",
+     "date": "2025-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2025-01-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:902120308:por",
+     "title": "Lei n.º 1/2025",
+     "published": "2025-01-06",
+     "dre_path": "/dr/detalhe/lei/1-2025-902120308"
+    }
+   ],
+   "changes": [
+    "Adita Capítulo III-B",
+    "Adita Secção I",
+    "Adita Secção II",
+    "Adita Artigo 22.º-A",
+    "Adita Artigo 22.º-B",
+    "Adita Artigo 22.º-C",
+    "Adita Artigo 22.º-D",
+    "Adita Secção III",
+    "Adita Artigo 22.º-E",
+    "Adita Artigo 22.º-F",
+    "Adita Artigo 22.º-G",
+    "Adita Artigo 22.º-H",
+    "Adita Artigo 22.º-I",
+    "Adita Artigo 22.º-J",
+    "Adita Artigo 22.º-K"
+   ],
+   "fragments": [
+    "114670175",
+    "909820814",
+    "909815929",
+    "909815930",
+    "909815931",
+    "909820815",
+    "909815932",
+    "909816376",
+    "909815933",
+    "909816377",
+    "114670185",
+    "114670186",
+    "909815934",
+    "909816378",
+    "909820816",
+    "909816443",
+    "909816444",
+    "909816445",
+    "909816446",
+    "909816450",
+    "909816454",
+    "909820817",
+    "909816391",
+    "909816405",
+    "909816413",
+    "909816414",
+    "909816421",
+    "909816428",
+    "909816429",
+    "909816430",
+    "909816431",
+    "909816432",
+    "909816433",
+    "909816435",
+    "909816437",
+    "909816439",
+    "909816441",
+    "909820818",
+    "909820811",
+    "909820820",
+    "909820812",
+    "909820822",
+    "909820824",
+    "909820826",
+    "909820828",
+    "909820813",
+    "909820830",
+    "909820832",
+    "909820834",
+    "909820836",
+    "909820838",
+    "909820840",
+    "909820842",
+    "909820809",
+    "909820801",
+    "909820802",
+    "909820803",
+    "909820810"
+   ]
+  },
+  {
+   "date": "2027-01-01",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:1147043698:por",
+     "title": "Lei n.º 30/2026",
+     "published": "2026-07-14",
+     "dre_path": "/dr/detalhe/lei/30-2026-1147043698"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "114670175",
+    "909820814",
+    "909815929",
+    "1147422675",
+    "1147422875",
+    "909820815",
+    "909815932",
+    "909816376",
+    "909815933",
+    "909816377",
+    "114670185",
+    "114670186",
+    "909815934",
+    "909816378",
+    "909820816",
+    "909816443",
+    "1147423075",
+    "909816445",
+    "909816446",
+    "909816450",
+    "1147423275",
+    "909820817",
+    "909816391",
+    "909816405",
+    "909816413",
+    "909816414",
+    "909816421",
+    "909816428",
+    "1147423475",
+    "909816430",
+    "909816431",
+    "909816432",
+    "909816433",
+    "909816435",
+    "909816437",
+    "909816439",
+    "909816441",
+    "909820818",
+    "909820811",
+    "909820820",
+    "909820812",
+    "909820822",
+    "909820824",
+    "909820826",
+    "909820828",
+    "909820813",
+    "909820830",
+    "909820832",
+    "909820834",
+    "909820836",
+    "909820838",
+    "909820840",
+    "909820842",
+    "909820809",
+    "909820801",
+    "909820802",
+    "909820803",
+    "909820810"
+   ]
+  }
+ ],
+ "fragments": {
+  "114670175": {
+   "fragment_id": "114670076",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 102/2015\n\nde 24 de agosto\n\nRegime jurídico do financiamento colaborativo\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "114670176": {
+   "fragment_id": "114670077",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "114670177": {
+   "fragment_id": "114670078",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei define o regime jurídico do financiamento colaborativo."
+  },
+  "114670178": {
+   "fragment_id": "114670079",
+   "type": 11,
+   "heading": "Artigo 2.º — Financiamento colaborativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Financiamento colaborativo\n\nO financiamento colaborativo é o tipo de financiamento de entidades, ou das suas atividades e projetos, através do seu registo em plataformas eletrónicas acessíveis através da Internet, a partir das quais procedem à angariação de parcelas de investimento provenientes de um ou vários investidores individuais."
+  },
+  "114670179": {
+   "fragment_id": "114670080",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades de financiamento colaborativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Modalidades de financiamento colaborativo\n\nSão modalidades de financiamento colaborativo:\n\na) O financiamento colaborativo através de donativo, pelo qual a entidade financiada recebe um donativo, com ou sem a entrega de uma contrapartida não pecuniária;\n\nb) O financiamento colaborativo com recompensa, pelo qual a entidade financiada fica obrigada à prestação do produto ou serviço financiado, em contrapartida pelo financiamento obtido;\n\nc) O financiamento colaborativo de capital, pelo qual a entidade financiada remunera o financiamento obtido através de uma participação no respetivo capital social, distribuição de dividendos ou partilha de lucros;\n\nd) O financiamento colaborativo por empréstimo, através do qual a entidade financiada remunera o financiamento obtido através do pagamento de juros fixados no momento da angariação."
+  },
+  "114670180": {
+   "fragment_id": "114670081",
+   "type": 1,
+   "heading": "Capítulo II — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições comuns"
+  },
+  "114670181": {
+   "fragment_id": "114670082",
+   "type": 11,
+   "heading": "Artigo 4.º — Titularidade e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Titularidade e registo\n\n1 - Podem ser titulares de plataformas de financiamento colaborativo quaisquer pessoas coletivas ou estabelecimentos individuais de responsabilidade limitada.\n\n2 - As plataformas que prosseguem mais do que uma modalidade de financiamento colaborativo ficam vinculadas aos requisitos específicos aplicáveis a cada modalidade."
+  },
+  "114670182": {
+   "fragment_id": "114670083",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres das plataformas de financiamento colaborativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres das plataformas de financiamento colaborativo\n\n1 - Constituem deveres das entidades gestoras das plataformas eletrónicas:\n\na) Assegurar aos investidores o acesso a informação relativa aos produtos colocados através dos respetivos sítios ou portais na Internet;\n\nb) Assegurar a confidencialidade da informação que receberem dos investidores, bem como da informação recebida dos beneficiários do investimento que não seja de divulgação pública no quadro dos deveres de informação decorrentes da presente lei;\n\nc) Assegurar o cumprimento das normas da presente lei e da demais regulamentação aplicável quanto à prevenção de conflitos de interesses, nomeadamente no que respeita à proibição dos seus corpos dirigentes e trabalhadores poderem ter interesses financeiros nas ofertas por si disponibilizadas.\n\n2 - As plataformas de financiamento colaborativo não podem:\n\na) Fornecer aconselhamento ou recomendações quanto aos investimentos a realizar através dos respetivos sítios ou portais na Internet;\n\nb) Compensar os seus dirigentes ou trabalhadores pela oferta ou volume de vendas de produtos disponibilizados ou referências nos respetivos portais;\n\nc) Gerir fundos de investimento ou deter valores mobiliários."
+  },
+  "114670183": {
+   "fragment_id": "114670084",
+   "type": 11,
+   "heading": "Artigo 6.º — Adesão a uma plataforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Adesão a uma plataforma\n\n1 - A adesão de um beneficiário de financiamento a uma determinada plataforma de financiamento colaborativo é realizada por contrato reduzido a escrito e disponível de forma desmaterializada através da plataforma, do qual deve constar a identificação das partes, as modalidades de financiamento colaborativo a utilizar, a identificação do projeto ou atividade a financiar e o montante e prazo da angariação, bem como os instrumentos financeiros a utilizar para proceder à angariação.\n\n2 - O incumprimento das condições estipuladas quanto aos elementos essenciais da oferta, referidas no número anterior, constitui fundamento para a resolução do contrato por qualquer das partes, sem prejuízo da responsabilidade da parte que deu origem à cessação da relação perante terceiros investidores de boa-fé."
+  },
+  "114670184": {
+   "fragment_id": "114670085",
+   "type": 11,
+   "heading": "Artigo 7.º — Beneficiários das plataformas de financiamento colaborativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Beneficiários das plataformas de financiamento colaborativo\n\n1 - Podem recorrer às plataformas de financiamento colaborativo quaisquer pessoas singulares ou coletivas, nacionais ou estrangeiras, interessadas na angariação de fundos para as suas atividades ou projetos através desta modalidade de financiamento.\n\n2 - Os beneficiários do financiamento colaborativo devem comunicar e manter atualizada junto das plataformas com as quais estabelecem uma relação contratual, para efeitos de transmissão de informação aos potenciais investidores, a sua identificação, natureza jurídica, contactos, sede ou domicílio, bem como a identidade dos seus titulares de órgãos de gestão, quando aplicável."
+  },
+  "114670185": {
+   "fragment_id": "114670086",
+   "type": 11,
+   "heading": "Artigo 8.º — Conhecimento das condições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conhecimento das condições\n\nOs investidores devem declarar, no ato de subscrição, que compreendem as condições do negócio, nomeadamente quanto ao risco associado ao investimento e as relações que estabelecem com a plataforma de financiamento colaborativo e com os beneficiários do investimento."
+  },
+  "114670186": {
+   "fragment_id": "114670087",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração das condições de oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração das condições de oferta\n\n1 - Caso os montantes indicados não sejam angariados nos prazos definidos, consideram-se sem efeito os negócios entretanto celebrados, devendo os beneficiários do investimento proceder à devolução dos montantes que tiverem recebido nos casos em que essa transferência já tenha ocorrido, sem prejuízo do disposto no número seguinte.\n\n2 - Se a oferta previr expressamente a possibilidade de alteração dos montantes e dos prazos, e esse facto tiver sido comunicado inicialmente aos investidores, as plataformas devem notificar todos os investidores da alteração superveniente das condições de subscrição, identificando, consoante os casos, qual o novo prazo de subscrição ou qual o novo montante máximo a angariar.\n\n3 - Apenas é permitida uma prorrogação de prazo ou alteração de montante por cada oferta.\n\n4 - Em caso de alterações à oferta deve ser determinado um prazo para o cancelamento das subscrições já efetuadas."
+  },
+  "114670187": {
+   "fragment_id": "114670088",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito aplicável à relação jurídica subjacente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito aplicável à relação jurídica subjacente\n\n1 - Aplicam-se plenamente às relações jurídicas subjacentes ao financiamento colaborativo, em particular na relação estabelecida entre os beneficiários do financiamento e os investidores, os regimes correspondentes aos tipos contratuais celebrados com recurso às plataformas de financiamento colaborativo, nomeadamente a doação, compra e venda, prestação de serviços, emissão e transação de valores mobiliários e mútuo, bem como as disposições sobre proteção da propriedade intelectual, quando relevantes.\n\n2 - O financiamento colaborativo por empréstimo apenas pode implicar a emissão de instrumentos financeiros se exercido por intermediário financeiro, nos termos da legislação aplicável ao mercado de instrumentos financeiros.\n\n3 - O disposto no presente artigo não prejudica o exercício da atividade de supervisão própria do Banco de Portugal e de outros reguladores, sempre que a atividade desenvolvida pelas partes determinar a aplicação dos regimes jurídicos de supervisão e regulação respetivos."
+  },
+  "114670188": {
+   "fragment_id": "114670089",
+   "type": 11,
+   "heading": "Artigo 11.º — Prevenção de conflitos de interesses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Prevenção de conflitos de interesses\n\n1 - As plataformas devem organizar-se por forma a identificar possíveis conflitos de interesses e atuar de modo a evitar ou reduzir ao mínimo o risco da sua ocorrência, não podendo os seus titulares, dirigentes, trabalhadores ou outros prestadores de serviços com intervenção direta na atividade de financiamento colaborativo possuir interesses contrapostos aos beneficiários ou investidores.\n\n2 - Em situação de conflito de interesses, as plataformas devem atuar por forma a assegurar aos investidores e aos beneficiários um tratamento transparente e equitativo."
+  },
+  "114670189": {
+   "fragment_id": "114670090",
+   "type": 1,
+   "heading": "Capítulo III — Condições do financiamento colaborativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Condições do financiamento colaborativo"
+  },
+  "114670191": {
+   "fragment_id": "114670092",
+   "type": 11,
+   "heading": "Artigo 12.º — Titularidade e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Titularidade e registo\n\n1 - As plataformas de financiamento colaborativo através de donativo ou recompensa devem comunicar previamente o início da sua atividade à Direção-Geral do Consumidor.\n\n2 - O procedimento de comunicação prévia realiza-se por via desmaterializada, não importando o pagamento de taxas administrativas, e é definido em portaria do membro do Governo responsável pela área da defesa do consumidor, que deve identificar os elementos a comunicar e aprovar os modelos simplificados de transmissão pela Internet."
+  },
+  "114670192": {
+   "fragment_id": "114670093",
+   "type": 11,
+   "heading": "Artigo 13.º — Características da oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Características da oferta\n\n1 - Cada oferta disponibilizada através das plataformas de financiamento colaborativo de donativo ou recompensa está sujeita a um limite máximo de angariação que não pode exceder 10 (dez) vezes o valor global da atividade a financiar.\n\n2 - Cada oferta apenas pode ser disponibilizada numa única plataforma de financiamento colaborativo."
+  },
+  "114670193": {
+   "fragment_id": "114670094",
+   "type": 11,
+   "heading": "Artigo 14.º — Informações quanto à oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informações quanto à oferta\n\n1 - Os beneficiários do financiamento colaborativo devem comunicar às plataformas, para informação aos investidores, em relação a cada oferta:\n\na) A descrição da atividade ou produto a financiar, e os fins do financiamento a angariar;\n\nb) O montante e o prazo para a angariação;\n\nc) O preço dos valores de cada unidade a subscrever ou a forma de determinação desse preço.\n\n2 - A informação prestada aos investidores deve ser completa, verdadeira, atual, clara, objetiva e lícita, permitindo aos seus destinatários formar juízos fundados sobre a oferta e sobre o beneficiário do investimento."
+  },
+  "114670195": {
+   "fragment_id": "114670096",
+   "type": 11,
+   "heading": "Artigo 15.º — Titularidade e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Titularidade e registo\n\n1 - O acesso à atividade de intermediação de financiamento colaborativo de capital ou por empréstimo é realizado mediante registo prévio das entidades gestoras das plataformas eletrónicas junto da Comissão do Mercado de Valores Mobiliários (CMVM), sendo esta entidade responsável pela regulação e supervisão da sua atividade.\n\n2 - O registo na CMVM tem como função assegurar o controlo dos requisitos para o exercício da atividade pelas plataformas de financiamento colaborativo e permitir a organização da supervisão, bem como assegurar o controlo da idoneidade da gestão dos operadores da plataforma.\n\n3 - O procedimento de registo é definido em regulamento pela CMVM, que deve identificar os requisitos de acesso e causas de indeferimento, assentes, nomeadamente, na demonstração da idoneidade dos titulares das plataformas, prazos, regime de suspensão e cancelamento do registo e demais formalidades, devendo privilegiar a transmissão eletrónica de dados."
+  },
+  "114670196": {
+   "fragment_id": "114670097",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres das plataformas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Deveres das plataformas\n\nConstituem deveres das entidades gestoras das plataformas eletrónicas:\n\na) Adotar as medidas necessárias à prevenção de situações de fraude, nos termos previstos na presente lei e definidos pela regulamentação aprovada pela CMVM;\n\nb) Cumprir os demais deveres de informação, organização e conduta decorrentes da regulamentação aprovada pela CMVM."
+  },
+  "114670197": {
+   "fragment_id": "114670098",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações de informação\n\n1 - Os beneficiários do financiamento colaborativo de capital ou por empréstimo devem ainda comunicar às plataformas, para efeitos de informação aos investidores e à CMVM:\n\na) Toda a informação financeira relevante sobre a entidade beneficiária, sobre o cumprimento das respetivas obrigações fiscais e contributivas e sobre a respetiva estrutura de capital;\n\nb) Toda a informação relevante sobre os projetos a financiar, incluindo os riscos associados, adequada e proporcional ao montante de financiamento a angariar, de forma a assegurar o caráter informado da opção de investimento.\n\n2 - Os beneficiários do financiamento colaborativo de capital ou por empréstimo devem ainda remeter anualmente à CMVM e às plataformas com as quais mantêm uma relação no quadro da presente lei, de forma a estarem disponíveis para consulta junto dos investidores, os respetivos relatórios de atividade.\n\n3 - A CMVM pode determinar por regulamento outros elementos a transmitir para os efeitos previstos nos números anteriores."
+  },
+  "114670198": {
+   "fragment_id": "114670099",
+   "type": 11,
+   "heading": "Artigo 18.º — Características da oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Características da oferta\n\n1 - Cada oferta disponibilizada através das plataformas de financiamento colaborativo está sujeita a um limite máximo de angariação, que não tem de corresponder ao valor global da atividade a financiar.\n\n2 - A CMVM define, por regulamento, o limite máximo referido no número anterior em relação ao financiamento colaborativo de capital e por empréstimo.\n\n3 - Cada oferta apenas pode ser disponibilizada numa única plataforma de financiamento colaborativo."
+  },
+  "114670199": {
+   "fragment_id": "114670100",
+   "type": 11,
+   "heading": "Artigo 19.º — Informações quanto à oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Informações quanto à oferta\n\n1 - Os beneficiários do financiamento colaborativo devem comunicar às plataformas, para informação aos investidores, em relação a cada oferta, em termos padronizados a definir por regulamento da CMVM:\n\na) A descrição da atividade ou produto a financiar, e os fins do financiamento a angariar;\n\nb) O montante e o prazo para a angariação;\n\nc) O preço dos valores de cada unidade a subscrever ou a forma de determinação desse preço;\n\nd) Outros elementos definidos em regulamento da CMVM em relação ao financiamento colaborativo de capital ou por empréstimo.\n\n2 - A CMVM define por regulamento a extensão da informação a prestar ao abrigo da alínea b) do n.º 1, devendo atender ao montante a angariar na definição dos elementos a solicitar aos beneficiários do financiamento colaborativo.\n\n3 - A informação prestada aos investidores, pelo beneficiário do financiamento colaborativo, deve ser completa, verdadeira, atual, clara, objetiva e lícita, permitindo aos seus destinatários formar juízos fundados sobre a oferta e sobre o beneficiário do investimento."
+  },
+  "114670200": {
+   "fragment_id": "114670101",
+   "type": 11,
+   "heading": "Artigo 20.º — Limites ao investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Limites ao investimento\n\n1 - Os investidores estão sujeitos a um limite máximo de investimento anual em produtos adquiridos no quadro do financiamento colaborativo de capital ou por empréstimo.\n\n2 - A CMVM define, por regulamento, quais os limites máximos de investimento referidos no número anterior, de forma a assegurar:\n\na) A existência de um limite máximo anual por investidor, em relação a cada oferta;\n\nb) A existência de um limite máximo global anual por investidor, em relação ao total de ofertas subscritas.\n\n3 - A definição dos limites pela CMVM assenta na fixação de valores limite diferenciados em função do rendimento anual dos investidores, podendo ainda definir limites de investimento diferenciados em função do perfil dos investidores, atendendo, nomeadamente, à sua experiência e qualificação.\n\n4 - Para efeitos do cumprimento do limite referido no n.º 3, cada investidor deve declarar, no ato de subscrição, qual o montante global já investido na aquisição de produtos financeiros através da oferta em plataformas de financiamento colaborativo, bem como do seu escalão de rendimento.\n\n5 - Os termos da realização do investimento, nomeadamente no que respeita ao registo das transferências e às relações com instituições bancárias, são objeto de regulamentação pela CMVM."
+  },
+  "114670201": {
+   "fragment_id": "114670102",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime para o financiamento de capital ou por empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regime para o financiamento de capital ou por empréstimo\n\n1 - As plataformas de financiamento colaborativo que pratiquem as modalidades de financiamento de capital ou por empréstimo devem adotar uma política e matéria de conflito de interesses reduzida a escrito e adequada à sua dimensão, organização, e à natureza, à dimensão e à complexidade das suas atividades.\n\n2 - A política em matéria de conflito de interesses deve permitir, designadamente:\n\na) Identificar as circunstâncias que constituem ou podem dar origem a um conflito de interesses;\n\nb) Especificar os procedimentos a seguir e as medidas a tomar, a fim de gerir esses conflitos;\n\nc) Manter e atualizar regularmente registos das atividades que geraram conflitos de interesses com risco de afetação dos interesses de um ou mais entidades que mantenham relações de financiamento colaborativo com a plataforma.\n\n3 - As plataformas referidas no n.º 1 não podem deter fundos ou instrumentos financeiros dos clientes e estão sujeitas aos demais deveres de prevenção de conflito de interesses definido em regulamento da CMVM."
+  },
+  "114670203": {
+   "fragment_id": "114670104",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime sancionatório\n\n1 - Os regimes contraordenacional e penal aplicáveis à violação do disposto na presente lei, nomeadamente no que respeita ao desenvolvimento da atividade de financiamento colaborativo sem registo na CMVM, ao incumprimento de obrigações de informação, à violação de segredo profissional e à violação de regras sobre conflitos de interesses são definidos em diploma próprio.\n\n2 - O disposto no número anterior não prejudica a aplicabilidade dos regimes sancionatórios aplicáveis nos termos gerais, nomeadamente daqueles previstos no Código dos Valores Mobiliários."
+  },
+  "114670202": {
+   "fragment_id": "114670103",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "114670204": {
+   "fragment_id": "114670105",
+   "type": 11,
+   "heading": "Artigo 23.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regulamentação\n\n1 - São aplicáveis aos regulamentos a emitir pela CMVM o disposto nos artigos 369.º e seguintes do Código dos Valores Mobiliários.\n\n2 - Compete à CMVM, no prazo de 90 dias contados da publicação da presente lei, aprovar as normas regulamentares necessárias à sua entrada em vigor."
+  },
+  "114670205": {
+   "fragment_id": "114670106",
+   "type": 11,
+   "heading": "Artigo 24.º — Salvaguarda de situações constituídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Salvaguarda de situações constituídas\n\nA entrada em vigor da presente lei não prejudica as relações jurídicas de financiamento colaborativo validamente constituídas em momento anterior à sua entrada em vigor."
+  },
+  "114670206": {
+   "fragment_id": "114670107",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do segundo mês seguinte ao da sua publicação, com exceção das disposições relativas ao financiamento colaborativo de capital ou por empréstimo, que entram em vigor no momento da entrada em vigor das normas regulamentares referidas no artigo 23.º"
+  },
+  "908983245": {
+   "fragment_id": "114670088",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito aplicável à relação jurídica subjacente",
+   "in_force_from": "2018-02-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 10.º — Direito aplicável à relação jurídica subjacente\n\n1 - Aplicam-se plenamente às relações jurídicas subjacentes ao financiamento colaborativo, em particular na relação estabelecida entre os beneficiários do financiamento e os investidores, os regimes correspondentes aos tipos contratuais celebrados com recurso às plataformas de financiamento colaborativo, nomeadamente a doação, compra e venda, prestação de serviços, emissão e transação de valores mobiliários e mútuo, bem como as disposições sobre proteção da propriedade intelectual, quando relevantes.\n\n2 - O financiamento colaborativo de capital ou por empréstimo apenas pode implicar a emissão de instrumentos financeiros se exercido por intermediário financeiro, nos termos da legislação aplicável ao mercado de instrumentos financeiros.\n\n3 - O disposto no presente artigo não prejudica o exercício da atividade de supervisão própria do Banco de Portugal e de outros reguladores, sempre que a atividade desenvolvida pelas partes determinar a aplicação dos regimes jurídicos de supervisão e regulação respetivos.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+  },
+  "114670190": {
+   "fragment_id": "114670091",
+   "type": 8,
+   "heading": "Secção I — Financiamento colaborativo de donativo ou recompensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Financiamento colaborativo de donativo ou recompensa"
+  },
+  "908983246": {
+   "fragment_id": "114670092",
+   "type": 11,
+   "heading": "Artigo 12.º — Titularidade e registo",
+   "in_force_from": "2018-02-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 12.º — Titularidade e registo\n\n1 - As plataformas de financiamento colaborativo através de donativo ou com recompensa devem comunicar previamente o início da sua atividade à Direção-Geral das Atividades Económicas.\n\n2 - O procedimento de comunicação prévia realiza-se por via desmaterializada, não importando o pagamento de taxas administrativas, e é definido em portaria do membro do Governo responsável pela área da economia, que deve identificar os elementos a comunicar e aprovar os modelos simplificados de transmissão pela Internet.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+  },
+  "114670194": {
+   "fragment_id": "114670095",
+   "type": 8,
+   "heading": "Secção II — Financiamento colaborativo de capital ou empréstimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Financiamento colaborativo de capital ou empréstimo"
+  },
+  "908983247": {
+   "fragment_id": "114670096",
+   "type": 11,
+   "heading": "Artigo 15.º — Titularidade e registo",
+   "in_force_from": "2018-02-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 15.º — Titularidade e registo\n\n1 - O acesso à atividade de intermediação de financiamento colaborativo de capital ou por empréstimo é realizado mediante registo prévio das entidades gestoras das plataformas eletrónicas junto da Comissão do Mercado de Valores Mobiliários (CMVM), sendo esta entidade responsável pela regulação, supervisão e fiscalização, assim como pela averiguação das respetivas infrações, instrução processual e aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n2 - O registo na CMVM tem como função assegurar o controlo dos requisitos para o exercício da atividade pelas plataformas de financiamento colaborativo e permitir a organização da supervisão, bem como assegurar o controlo da idoneidade da gestão dos operadores da plataforma.\n\n3 - O procedimento de registo é definido em regulamento pela CMVM, que deve identificar os requisitos de acesso e causas de indeferimento, assentes, nomeadamente, na demonstração da idoneidade dos titulares das plataformas, prazos, regime de suspensão e cancelamento do registo e demais formalidades, devendo privilegiar a transmissão eletrónica de dados.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+  },
+  "114670207": {
+   "fragment_id": "114670108",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de julho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro."
+  },
+  "909816386": {
+   "fragment_id": "114670077",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "909815929": {
+   "fragment_id": "114670078",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei define o regime jurídico do financiamento colaborativo.\n\n2 - O disposto na presente lei aplica-se sem prejuízo do disposto no Regulamento (UE) 2020/1503, do Parlamento Europeu e do Conselho, de 7 de outubro de 2020, e demais direito nacional e da União Europeia aplicáveis.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909815930": {
+   "fragment_id": "114670079",
+   "type": 11,
+   "heading": "Artigo 2.º — Financiamento colaborativo",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 2.º — Financiamento colaborativo\n\nO financiamento colaborativo é o tipo de financiamento de entidades, ou das suas atividades e projetos, através do seu registo em plataformas eletrónicas acessíveis através da Internet, a partir das quais procedem à angariação de contributos ou de parcelas de investimento em dinheiro provenientes de pessoas singulares e coletivas na qualidade de apoiantes ou de investidores.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909815931": {
+   "fragment_id": "114670080",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades de financiamento colaborativo",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Modalidades de financiamento colaborativo\n\nSão modalidades de financiamento colaborativo:\n\na) O financiamento colaborativo através de donativo, pelo qual a entidade financiada recebe um donativo, com ou sem a entrega de uma contrapartida não pecuniária;\n\nb) O financiamento colaborativo com recompensa, pelo qual a entidade financiada fica obrigada à prestação do produto ou serviço financiado, em contrapartida pelo financiamento obtido;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) O financiamento colaborativo de capital e de empréstimo nos termos do Regulamento (UE) 2020/1503, do Parlamento Europeu e do Conselho, de 7 de outubro de 2020.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816387": {
+   "fragment_id": "114670081",
+   "type": 1,
+   "heading": "Capítulo II — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições comuns"
+  },
+  "909815932": {
+   "fragment_id": "114670082",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestores de plataformas de financiamento e prestadores de serviços de financiamento colaborativo",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 4.º — Gestores de plataformas de financiamento e prestadores de serviços de financiamento colaborativo\n\n1 - Podem ser gestores de plataformas de financiamento colaborativo através de donativo ou com recompensa quaisquer pessoas coletivas ou estabelecimentos individuais de responsabilidade limitada.\n\n2 - Podem ser prestadores de serviços de financiamento colaborativo de capital ou por empréstimo as seguintes entidades autorizadas pela Comissão do Mercado de Valores Mobiliários (CMVM):\n\na) Instituições de crédito;\n\nb) Empresas de investimento;\n\nc) Instituições de moeda eletrónica;\n\nd) Entidades autorizadas a prestar serviços de pagamento; e\n\ne) Sociedades comerciais.\n\n3 - As plataformas que prosseguem mais do que uma modalidade de financiamento colaborativo ficam vinculadas aos requisitos específicos aplicáveis a cada modalidade.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816376": {
+   "fragment_id": "114670083",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres das plataformas de financiamento colaborativo",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 5.º — Deveres das plataformas de financiamento colaborativo\n\n1 - Constituem deveres das entidades gestoras das plataformas eletrónicas:\n\na) Assegurar aos investidores o acesso a informação relativa aos produtos colocados através dos respetivos sítios ou portais na Internet;\n\nb) Assegurar a confidencialidade da informação que receberem dos investidores, bem como da informação recebida dos beneficiários do investimento que não seja de divulgação pública no quadro dos deveres de informação decorrentes da presente lei;\n\nc) Assegurar o cumprimento das normas da presente lei e da demais regulamentação aplicável quanto à prevenção de conflitos de interesses, nomeadamente no que respeita à proibição dos seus corpos dirigentes e trabalhadores poderem ter interesses financeiros nas ofertas por si disponibilizadas.\n\n2 - As plataformas de financiamento colaborativo não podem:\n\na) Fornecer aconselhamento ou recomendações quanto aos investimentos a realizar através dos respetivos sítios ou portais na Internet;\n\nb) Compensar os seus dirigentes ou trabalhadores pela oferta ou volume de vendas de produtos disponibilizados ou referências nos respetivos portais;\n\nc) Gerir fundos de investimento ou deter valores mobiliários.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909815933": {
+   "fragment_id": "114670084",
+   "type": 11,
+   "heading": "Artigo 6.º — Adesão a uma plataforma",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 6.º — Adesão a uma plataforma\n\n1 - A adesão de um beneficiário de financiamento a uma determinada plataforma de financiamento colaborativo através de donativo ou com recompensa ou a subscrição de serviços de financiamento colaborativo de capital ou por empréstimo é realizada por contrato reduzido a escrito e disponível de forma desmaterializada através da plataforma, do qual consta nomeadamente a identificação das partes, as modalidades de financiamento colaborativo a utilizar, a identificação do projeto ou atividade a financiar e o montante e prazo da angariação, bem como os instrumentos financeiros a utilizar para proceder à angariação.\n\n2 - O incumprimento das condições estipuladas quanto aos elementos essenciais da oferta, referidas no número anterior, constitui fundamento para a resolução do contrato por qualquer das partes, sem prejuízo da responsabilidade da parte que deu origem à cessação da relação perante terceiros investidores de boa-fé.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816377": {
+   "fragment_id": "114670085",
+   "type": 11,
+   "heading": "Artigo 7.º — Beneficiários das plataformas de financiamento colaborativo",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 7.º — Beneficiários das plataformas de financiamento colaborativo\n\n1 - Podem recorrer às plataformas de financiamento colaborativo quaisquer pessoas singulares ou coletivas, nacionais ou estrangeiras, interessadas na angariação de fundos para as suas atividades ou projetos através desta modalidade de financiamento.\n\n2 - Os beneficiários do financiamento colaborativo devem comunicar e manter atualizada junto das plataformas com as quais estabelecem uma relação contratual, para efeitos de transmissão de informação aos potenciais investidores, a sua identificação, natureza jurídica, contactos, sede ou domicílio, bem como a identidade dos seus titulares de órgãos de gestão, quando aplicável.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909815934": {
+   "fragment_id": "114670088",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito aplicável à relação jurídica subjacente",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09",
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 10.º — Direito aplicável à relação jurídica subjacente\n\n1 - Aplicam-se plenamente às relações jurídicas subjacentes ao financiamento colaborativo, em particular na relação estabelecida entre os beneficiários do financiamento ou promotores e os consumidores e investidores, os regimes correspondentes aos tipos contratuais celebrados com recurso às plataformas de financiamento colaborativo, nomeadamente a doação, compra e venda, prestação de serviços, emissão e transmissão de valores mobiliários e mútuo, bem como as disposições sobre proteção da propriedade intelectual e comercial, quando relevantes.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+  },
+  "909816378": {
+   "fragment_id": "114670089",
+   "type": 11,
+   "heading": "Artigo 11.º — Prevenção de conflitos de interesses",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 11.º — Prevenção de conflitos de interesses\n\n1 - As plataformas devem organizar-se por forma a identificar possíveis conflitos de interesses e atuar de modo a evitar ou reduzir ao mínimo o risco da sua ocorrência, não podendo os seus titulares, dirigentes, trabalhadores ou outros prestadores de serviços com intervenção direta na atividade de financiamento colaborativo possuir interesses contrapostos aos beneficiários ou investidores.\n\n2 - Em situação de conflito de interesses, as plataformas devem atuar por forma a assegurar aos investidores e aos beneficiários um tratamento transparente e equitativo.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816388": {
+   "fragment_id": "114670090",
+   "type": 1,
+   "heading": "Capítulo III — Financiamento colaborativo de donativo ou recompensa",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "### Capítulo III — Financiamento colaborativo de donativo ou recompensa\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816443": {
+   "fragment_id": "114670092",
+   "type": 11,
+   "heading": "Artigo 12.º — Titularidade e registo",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 12.º — Titularidade e registo\n\n1 - As plataformas de financiamento colaborativo através de donativo ou com recompensa devem comunicar previamente o início da sua atividade à Direção-Geral das Atividades Económicas.\n\n2 - O procedimento de comunicação prévia realiza-se por via desmaterializada, não importando o pagamento de taxas administrativas, e é definido em portaria do membro do Governo responsável pela área da economia, que deve identificar os elementos a comunicar e aprovar os modelos simplificados de transmissão pela Internet.\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+  },
+  "909816444": {
+   "fragment_id": "909816019",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Deveres",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 12.º-A — Deveres\n\n1 - As entidades gestoras das plataformas eletrónicas de financiamento colaborativo através de donativo ou com recompensa:\n\na) Asseguram aos investidores o acesso a informação relativa aos produtos colocados através dos respetivos sítios ou portais na Internet;\n\nb) Asseguram a confidencialidade da informação que receberem dos investidores, bem como da informação recebida dos beneficiários do investimento que não seja de divulgação pública no quadro dos deveres de informação decorrentes da presente lei.\n\n2 - As plataformas de financiamento colaborativo através de donativo ou com recompensa não podem:\n\na) Prestar aconselhamento ou formular recomendações quanto aos investimentos a realizar através dos respetivos sítios ou portais na Internet;\n\nb) Compensar os seus dirigentes ou trabalhadores pela oferta ou volume de vendas de produtos disponibilizados ou referências nos respetivos portais;\n\nc) Gerir organismos de investimento coletivo ou deter valores mobiliários.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816445": {
+   "fragment_id": "909816020",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Prevenção de conflitos de interesses",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 12.º-B — Prevenção de conflitos de interesses\n\n1 - As plataformas organizam-se por forma a identificar possíveis conflitos de interesses e atuam de modo a evitar ou reduzir ao mínimo o risco da sua ocorrência, não podendo os seus titulares, dirigentes, trabalhadores ou outros prestadores de serviços com intervenção direta na atividade de financiamento colaborativo através de donativo ou com recompensa possuir interesses contrapostos aos beneficiários ou investidores.\n\n2 - Em situação de conflito de interesses, as plataformas atuam por forma a assegurar aos investidores e aos beneficiários um tratamento transparente e equitativo.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816446": {
+   "fragment_id": "909816021",
+   "type": 11,
+   "heading": "Artigo 12.º-C — Beneficiários",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 12.º-C — Beneficiários\n\n1 - Podem recorrer às plataformas de financiamento colaborativo através de donativo ou com recompensa quaisquer pessoas singulares ou coletivas, nacionais ou estrangeiras, interessadas na angariação de fundos para as suas atividades ou projetos através destas modalidades de financiamento colaborativo.\n\n2 - Os beneficiários do financiamento colaborativo através de donativo ou com recompensa comunicam e mantêm atualizada junto das plataformas com as quais estabelecem uma relação contratual, para efeitos de transmissão de informação aos potenciais investidores, a sua identificação, natureza jurídica, contactos, sede ou domicílio, bem como a identidade dos seus titulares de órgãos de gestão, quando aplicável.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816450": {
+   "fragment_id": "114670093",
+   "type": 11,
+   "heading": "Artigo 13.º — Características da oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Características da oferta\n\n1 - Cada oferta disponibilizada através das plataformas de financiamento colaborativo de donativo ou recompensa está sujeita a um limite máximo de angariação que não pode exceder 10 (dez) vezes o valor global da atividade a financiar.\n\n2 - Cada oferta apenas pode ser disponibilizada numa única plataforma de financiamento colaborativo."
+  },
+  "909816454": {
+   "fragment_id": "114670094",
+   "type": 11,
+   "heading": "Artigo 14.º — Informações quanto à oferta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Informações quanto à oferta\n\n1 - Os beneficiários do financiamento colaborativo devem comunicar às plataformas, para informação aos investidores, em relação a cada oferta:\n\na) A descrição da atividade ou produto a financiar, e os fins do financiamento a angariar;\n\nb) O montante e o prazo para a angariação;\n\nc) O preço dos valores de cada unidade a subscrever ou a forma de determinação desse preço.\n\n2 - A informação prestada aos investidores deve ser completa, verdadeira, atual, clara, objetiva e lícita, permitindo aos seus destinatários formar juízos fundados sobre a oferta e sobre o beneficiário do investimento."
+  },
+  "909816389": {
+   "fragment_id": "909816030",
+   "type": 1,
+   "heading": "Capítulo III-A — Financiamento colaborativo de capital ou empréstimo",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "### Capítulo III-A — Financiamento colaborativo de capital ou empréstimo\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816391": {
+   "fragment_id": "114670096",
+   "type": 11,
+   "heading": "Artigo 15.º — Titularidade e registo",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09",
+    "Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+   ],
+   "markdown": "###### Artigo 15.º — Titularidade e registo\n\n1 - O acesso à atividade de intermediação de financiamento colaborativo de capital ou por empréstimo é realizado mediante registo prévio das entidades gestoras das plataformas eletrónicas junto da Comissão do Mercado de Valores Mobiliários (CMVM), sendo esta entidade responsável pela regulação, supervisão e fiscalização, assim como pela averiguação das respetivas infrações, instrução processual e aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n2 - O registo na CMVM tem como função assegurar o controlo dos requisitos para o exercício da atividade pelas plataformas de financiamento colaborativo e permitir a organização da supervisão, bem como assegurar o controlo da idoneidade da gestão dos operadores da plataforma.\n\n3 - O procedimento de registo é definido em regulamento pela CMVM, que deve identificar os requisitos de acesso e causas de indeferimento, assentes, nomeadamente, na demonstração da idoneidade dos titulares das plataformas, prazos, regime de suspensão e cancelamento do registo e demais formalidades, devendo privilegiar a transmissão eletrónica de dados.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09\n\n> Alterado pelo/a Artigo 12.º do/a [Lei n.º 3/2018 - Diário da República n.º 29/2018, Série I de 2018-02-09](https://diariodarepublica.pt/dr/detalhe/lei/3-2018-114661387), em vigor a partir de 2018-02-10"
+  },
+  "909816405": {
+   "fragment_id": "909816022",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 15.º-A — Regime jurídico\n\n1 - A prestação de serviços de financiamento colaborativo de capital ou por empréstimo, nomeadamente, em matéria de acesso à atividade, de requisitos organizacionais e operacionais aplicáveis aos prestadores de serviços de financiamento colaborativo, dos deveres relativos à proteção do investidor, transparência, prestação de informação, comunicações comerciais e à supervisão da respetiva atividade rege-se pelo disposto na presente lei, no Regulamento (UE) 2020/1503, do Parlamento Europeu e do Conselho, de 7 de outubro de 2020 e demais legislação aplicável.\n\n2 - Os prestadores de serviços de financiamento colaborativo de capital ou por empréstimo que intervenham em sede de financiamento colaborativo atuam no estrito cumprimento da legislação e regulamentação da respetiva atividade profissional.\n\n3 - Os prestadores de serviços de financiamento colaborativo são obrigados a indemnizar os danos causados a qualquer pessoa em consequência da violação dos deveres legais ou regulamentares relativos à organização, funcionamento e exercício da atividade.\n\n4 - A culpa do prestador de serviços de financiamento colaborativo presume-se quando o dano seja causado no âmbito das relações contratuais e pré-contratuais.\n\n5 - Aos contratos com prestadores de serviços de financiamento colaborativo é aplicável o regime das cláusulas contratuais gerais, sendo para esse efeito os investidores não sofisticados equiparados a consumidores.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816413": {
+   "fragment_id": "909816023",
+   "type": 11,
+   "heading": "Artigo 15.º-B — Subcontratação de funções",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 15.º-B — Subcontratação de funções\n\nSem prejuízo do cumprimento de disposições especificamente aplicáveis às entidades previstas no n.º 2 do artigo 4.º, a subcontratação ou outra forma de externalização de serviços ou de funções de controlo ou operacionais por prestadores de serviços de financiamento colaborativo é formalizada em contrato escrito de onde constem os serviços ou funções subcontratadas e a política de gestão de eventuais conflitos de interesses que possam surgir dessa subcontratação.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816414": {
+   "fragment_id": "114670097",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres das plataformas",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 16.º — Deveres das plataformas\n\nConstituem deveres das entidades gestoras das plataformas eletrónicas:\n\na) Adotar as medidas necessárias à prevenção de situações de fraude, nos termos previstos na presente lei e definidos pela regulamentação aprovada pela CMVM;\n\nb) Cumprir os demais deveres de informação, organização e conduta decorrentes da regulamentação aprovada pela CMVM.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816421": {
+   "fragment_id": "909816024",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Cooperação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 16.º-A — Cooperação\n\n1 - A CMVM solicita parecer ao Banco de Portugal, previamente à decisão de autorização para a prestação de serviços de financiamento colaborativo, sempre que se trate de uma entidade referida nas alíneas a), c) e d) do n.º 2 do artigo 4.º ou de outra entidade sujeita à supervisão do Banco de Portugal.\n\n2 - O Banco de Portugal partilha os elementos e a informação que possam ser relevantes para efeitos da decisão da CMVM no prazo de 15 dias.\n\n3 - A CMVM pode solicitar ao Banco de Portugal informação, documentos e meios probatórios ou requerer a sua cooperação para exercer as suas funções ao abrigo da presente lei e da legislação da União Europeia sobre a matéria, bem como da respetiva regulamentação.\n\n4 - A CMVM e o Banco de Portugal trocam entre si, sem demora indevida, qualquer informação que considerem relevante para o exercício das respetivas funções relativamente às entidades referidas nas alíneas a), c) e d) do n.º 2 do artigo 4.º e a outras entidades sujeitas à supervisão do Banco de Portugal.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816428": {
+   "fragment_id": "909816025",
+   "type": 11,
+   "heading": "Artigo 16.º-B — Revogação da autorização",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 16.º-B — Revogação da autorização\n\n1 - Quando revogue a autorização de prestador de serviços de financiamento colaborativo por este ter cessado a prestação de serviços de financiamento colaborativo, conforme previsto na alínea c) do n.º 1 do artigo 17.º do Regulamento (UE) 2020/1503 do Parlamento Europeu e do Conselho, de 7 de outubro de 2020, a CMVM pode ordenar a transferência dos contratos existentes para outro prestador de serviços de financiamento colaborativo, nos termos previstos no referido regulamento, e fixar um prazo para esse efeito.\n\n2 - A decisão referida no número anterior é imediatamente comunicada pelo prestador cuja autorização seja revogada aos seus clientes.\n\n3 - Os clientes podem transferir os seus contratos para um prestador do serviço de financiamento colaborativo destinatário autorizado em qualquer Estado-Membro da União Europeia.\n\n4 - A CMVM determina o tempo de duração máxima para o processo de transferência, bem como os procedimentos ou diligências a adotar pelo prestador de serviços relativamente às informações e comunicações a prestar aos seus clientes e ao novo prestador de serviços na transferência dos contratos existentes.\n\n5 - Durante o período referido no número anterior, o prestador de serviços de financiamento colaborativo transmitente pode realizar as operações estritamente necessárias à preservação dos interesses dos clientes.\n\n6 - A CMVM pode ordenar a transferência dos contratos existentes para um novo prestador de serviços de financiamento colaborativo, se os clientes não tiverem conseguido transferi-los para um novo prestador no prazo estabelecido.\n\n7 - A revogação da autorização para a prestação de serviços de financiamento colaborativo não implica a dissolução e liquidação da entidade em causa.\n\n8 - As sociedades comerciais referidas na alínea e) do n.º 2 do artigo 4.º modificam o respetivo objeto social no prazo de 3 meses a contar da data da revogação de autorização.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816429": {
+   "fragment_id": "114670098",
+   "type": 11,
+   "heading": "Artigo 17.º — Prestação de informação aos investidores",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 17.º — Prestação de informação aos investidores\n\n1 - As fichas de informação fundamental sobre o investimento objeto de uma oferta de financiamento colaborativo em Portugal e as comunicações comerciais são redigidas em português, em inglês, exceto se a CMVM a tal se opuser em virtude de se revelar contrário ao funcionamento do mercado ou aos interesses dos investidores, ou noutro idioma aceite pela CMVM.\n\n2 - A CMVM pode solicitar ao prestador de serviços de financiamento colaborativo o envio do documento referido no número anterior até, pelo menos, dois dias úteis antes de ser disponibilizada aos investidores.\n\n3 - As ofertas de financiamento colaborativo em Portugal regem-se pelo disposto no artigo 7.º do Código dos Valores Mobiliários, aprovado em anexo ao Decreto-Lei n.º 486/99, de 13 de novembro, e pela legislação e regulamentação nacional relativa à publicidade e defesa do consumidor.\n\n4 - O prestador de serviços de financiamento colaborativo insere nas comunicações comerciais a sua denominação social, bem como a identificação da CMVM.\n\n5 - São responsáveis pelos danos causados aos investidores pela violação dos deveres de informação pré-contratuais e contratuais que sobre eles impendem, nomeadamente em matéria de qualidade da informação, as pessoas singulares e coletivas que prestam serviços de financiamento colaborativo, que prestem serviços de gestão individual de carteiras de empréstimo, os promotores dos projetos, os seus órgãos de administração, direção ou supervisão e as demais pessoas singulares e coletivas responsáveis pela informação incluindo a sua tradução, presumindo-se a sua culpa.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816430": {
+   "fragment_id": "114670099",
+   "type": 11,
+   "heading": "Artigo 18.º — Características da oferta",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 18.º — Características da oferta\n\n1 - Cada oferta disponibilizada através das plataformas de financiamento colaborativo está sujeita a um limite máximo de angariação, que não tem de corresponder ao valor global da atividade a financiar.\n\n2 - A CMVM define, por regulamento, o limite máximo referido no número anterior em relação ao financiamento colaborativo de capital e por empréstimo.\n\n3 - Cada oferta apenas pode ser disponibilizada numa única plataforma de financiamento colaborativo.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816431": {
+   "fragment_id": "114670100",
+   "type": 11,
+   "heading": "Artigo 19.º — Informações quanto à oferta",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 19.º — Informações quanto à oferta\n\n1 - Os beneficiários do financiamento colaborativo devem comunicar às plataformas, para informação aos investidores, em relação a cada oferta, em termos padronizados a definir por regulamento da CMVM:\n\na) A descrição da atividade ou produto a financiar, e os fins do financiamento a angariar;\n\nb) O montante e o prazo para a angariação;\n\nc) O preço dos valores de cada unidade a subscrever ou a forma de determinação desse preço;\n\nd) Outros elementos definidos em regulamento da CMVM em relação ao financiamento colaborativo de capital ou por empréstimo.\n\n2 - A CMVM define por regulamento a extensão da informação a prestar ao abrigo da alínea b) do n.º 1, devendo atender ao montante a angariar na definição dos elementos a solicitar aos beneficiários do financiamento colaborativo.\n\n3 - A informação prestada aos investidores, pelo beneficiário do financiamento colaborativo, deve ser completa, verdadeira, atual, clara, objetiva e lícita, permitindo aos seus destinatários formar juízos fundados sobre a oferta e sobre o beneficiário do investimento.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816432": {
+   "fragment_id": "114670101",
+   "type": 11,
+   "heading": "Artigo 20.º — Limites ao investimento",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 20.º — Limites ao investimento\n\n1 - Os investidores estão sujeitos a um limite máximo de investimento anual em produtos adquiridos no quadro do financiamento colaborativo de capital ou por empréstimo.\n\n2 - A CMVM define, por regulamento, quais os limites máximos de investimento referidos no número anterior, de forma a assegurar:\n\na) A existência de um limite máximo anual por investidor, em relação a cada oferta;\n\nb) A existência de um limite máximo global anual por investidor, em relação ao total de ofertas subscritas.\n\n3 - A definição dos limites pela CMVM assenta na fixação de valores limite diferenciados em função do rendimento anual dos investidores, podendo ainda definir limites de investimento diferenciados em função do perfil dos investidores, atendendo, nomeadamente, à sua experiência e qualificação.\n\n4 - Para efeitos do cumprimento do limite referido no n.º 3, cada investidor deve declarar, no ato de subscrição, qual o montante global já investido na aquisição de produtos financeiros através da oferta em plataformas de financiamento colaborativo, bem como do seu escalão de rendimento.\n\n5 - Os termos da realização do investimento, nomeadamente no que respeita ao registo das transferências e às relações com instituições bancárias, são objeto de regulamentação pela CMVM.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816433": {
+   "fragment_id": "114670102",
+   "type": 11,
+   "heading": "Artigo 21.º — Regime para o financiamento de capital ou por empréstimo",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 21.º — Regime para o financiamento de capital ou por empréstimo\n\n1 - As plataformas de financiamento colaborativo que pratiquem as modalidades de financiamento de capital ou por empréstimo devem adotar uma política e matéria de conflito de interesses reduzida a escrito e adequada à sua dimensão, organização, e à natureza, à dimensão e à complexidade das suas atividades.\n\n2 - A política em matéria de conflito de interesses deve permitir, designadamente:\n\na) Identificar as circunstâncias que constituem ou podem dar origem a um conflito de interesses;\n\nb) Especificar os procedimentos a seguir e as medidas a tomar, a fim de gerir esses conflitos;\n\nc) Manter e atualizar regularmente registos das atividades que geraram conflitos de interesses com risco de afetação dos interesses de um ou mais entidades que mantenham relações de financiamento colaborativo com a plataforma.\n\n3 - As plataformas referidas no n.º 1 não podem deter fundos ou instrumentos financeiros dos clientes e estão sujeitas aos demais deveres de prevenção de conflito de interesses definido em regulamento da CMVM.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816435": {
+   "fragment_id": "909816026",
+   "type": 11,
+   "heading": "Artigo 21.º-A — Supervisão",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 21.º-A — Supervisão\n\n1 - A CMVM é, para os efeitos do Regulamento (UE) 2020/1503 do Parlamento Europeu e do Conselho, de 7 de outubro de 2020, a autoridade competente para desempenhar as funções e competências de regulação, de regulamentação, de supervisão e de fiscalização em matéria de financiamento colaborativo de capital e de empréstimo.\n\n2 - A CMVM desempenha ainda as funções de cooperação e de colaboração com outras entidades de outros Estados-Membros e de ponto de contacto único para a cooperação administrativa transfronteiriça entre as diversas autoridades nacionais competentes e a Autoridade Europeia dos Valores Mobiliários e dos Mercados (ESMA).\n\n3 - Para efeitos das suas funções de supervisão da atividade de financiamento colaborativo, a CMVM dispõe de todos os poderes e prerrogativas que lhe são conferidos pelos respetivos estatutos, pelo Código dos Valores Mobiliários e por legislação da União Europeia sobre a matéria.\n\n4 - A CMVM comunica à ESMA as autorizações concedidas a prestadores de serviços de financiamento colaborativo, bem como as suas posteriores alterações, suspensão, revogação e cancelamento.\n\n5 - A CMVM:\n\na) Informa as autoridades competentes dos Estados-Membros em que o prestador de serviços de financiamento colaborativo tenciona prestar os serviços de financiamento colaborativo; e\n\nb) Envia à ESMA a lista dos Estados-Membros onde o prestador pretende prestar serviços.\n\n6 - Além dos poderes previstos nos números anteriores, a CMVM pode:\n\na) Suspender, ou exigir que um prestador de serviços de financiamento colaborativo ou terceiro designado para desempenhar funções relacionadas com tais serviços suspenda a prestação dos mesmos, caso considere que a situação do prestador é tal que a prestação do serviço de financiamento colaborativo seria prejudicial para os interesses dos investidores;\n\nb) Proibir a prestação de serviços de financiamento colaborativo quando constate fundadamente uma infração à legislação nacional ou da União Europeia;\n\nc) Suspender o prestador de serviços de financiamento colaborativo da prestação de serviços de financiamento colaborativo durante um prazo máximo de 10 dias úteis consecutivos de cada vez, caso haja motivos razoáveis para suspeitar de uma infração à legislação nacional ou da União Europeia;\n\nd) Proceder à proibição de uma oferta ou de comunicações comerciais ou à sua suspensão durante um prazo máximo de 10 dias úteis consecutivos, de cada vez, ou quando haja motivos razoáveis para suspeitar de infração ao direito nacional e da União Europeia;\n\ne) Exigir aos prestadores de serviços de financiamento colaborativo e pessoas que os controlam ou são por ela controladas, aos titulares dos seus órgãos sociais, auditores e terceiros que lhe prestem serviços, todas as informações e quaisquer elementos necessários ao exercício da supervisão;\n\nf) Divulgar, ou exigir que um prestador de serviços de financiamento colaborativo ou um terceiro designado para desempenhar funções relacionadas com os mesmos divulguem todas as informações que considere relevantes por serem suscetíveis de influenciar a prestação do serviço de financiamento colaborativo, para assegurar a proteção dos investidores ou o regular funcionamento do mercado;\n\ng) Tornar público o facto de um prestador de serviços de financiamento colaborativo não se encontrar a cumprir os seus deveres.\n\n7 - O disposto na presente lei não prejudica o exercício pelo Banco Central Europeu e pelo Banco de Portugal das suas competências relativamente às instituições de crédito, instituições de moeda eletrónica e instituições de pagamento, nos termos da legislação nacional e europeia em vigor.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816437": {
+   "fragment_id": "909816027",
+   "type": 11,
+   "heading": "Artigo 21.º-B — Tratamento de reclamações e de pedidos de informação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 21.º-B — Tratamento de reclamações e de pedidos de informação\n\n1 - A CMVM organiza um serviço gratuito de tratamento dos pedidos de informação e das reclamações apresentados por clientes e outras partes interessadas, incluindo associações de consumidores, por escrito ou por via eletrónica, sobre alegadas infrações por parte de prestadores de serviços de financiamento colaborativo ou terceiros em seu nome.\n\n2 - As informações sobre o procedimento a que se refere o número anterior são disponibilizadas pela CMVM no seu sítio na Internet e comunicadas à ESMA.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816439": {
+   "fragment_id": "909816028",
+   "type": 11,
+   "heading": "Artigo 21.º-C — Difusão de informação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 21.º-C — Difusão de informação\n\nA CMVM disponibiliza no seu sítio na Internet uma lista atualizada das entidades que prestam serviços de financiamento colaborativo em Portugal, incluindo os elementos essenciais para a identificação dessas entidades com menção das entidades que prestam o serviço de gestão individual de carteiras de empréstimos.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816441": {
+   "fragment_id": "909816029",
+   "type": 11,
+   "heading": "Artigo 21.º-D — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 21.º-D — Regulamentação\n\n1 - A CMVM pode regulamentar o disposto na presente lei, nomeadamente nas seguintes matérias:\n\na) O tipo, objeto, capital social e demais requisitos aplicáveis às sociedades comerciais com sede em Portugal prestadoras de serviços de financiamento colaborativo de capital e/ou por empréstimo referidas na alínea e) do n.º 2 do artigo 4.º;\n\nb) A informação a disponibilizar no sítio na Internet do prestador de serviços de financiamento colaborativo relativa, nomeadamente, à sua identificação, sede social e meios de contacto;\n\nc) Os requisitos contratuais que permitam ao prestador de serviços de financiamento colaborativo assegurar o controlo interno dos serviços pelos subcontratados e supervisionar o cumprimento pelas partes da legislação e sua regulamentação;\n\nd) As situações e condições em que a Ficha de Informação Fundamental e as comunicações comerciais podem ser redigidas noutro idioma;\n\ne) O procedimento a adotar e o período de duração, com enunciação dos atos a praticar pelo prestador de serviços de financiamento colaborativo, no caso de revogação de autorização prevista no artigo 16.º-B;\n\nf) Os procedimentos de apresentação e tratamento pela CMVM de pedidos de informação e reclamações.\n\n2 - É aplicável o disposto nos artigos 369.º e seguintes do Código dos Valores Mobiliários.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909815974": {
+   "fragment_id": "114670103",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "909816385": {
+   "fragment_id": "114670105",
+   "type": 11,
+   "heading": "Artigo 23.º — Regulamentação",
+   "in_force_from": "2023-08-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 23.º — Regulamentação\n\n1 - São aplicáveis aos regulamentos a emitir pela CMVM o disposto nos artigos 369.º e seguintes do Código dos Valores Mobiliários.\n\n2 - Compete à CMVM, no prazo de 90 dias contados da publicação da presente lei, aprovar as normas regulamentares necessárias à sua entrada em vigor.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909816375": {
+   "fragment_id": "114670108",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de julho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro."
+  },
+  "909820814": {
+   "fragment_id": "114670077",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "909820815": {
+   "fragment_id": "114670081",
+   "type": 1,
+   "heading": "Capítulo II — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições comuns"
+  },
+  "909820816": {
+   "fragment_id": "114670090",
+   "type": 1,
+   "heading": "Capítulo III — Financiamento colaborativo de donativo ou recompensa",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "### Capítulo III — Financiamento colaborativo de donativo ou recompensa\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909820817": {
+   "fragment_id": "909816030",
+   "type": 1,
+   "heading": "Capítulo III-A — Financiamento colaborativo de capital ou empréstimo",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "### Capítulo III-A — Financiamento colaborativo de capital ou empréstimo\n\n> Aditado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909820818": {
+   "fragment_id": "909816042",
+   "type": 1,
+   "heading": "Capítulo III-B — Regime sancionatório",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "### Capítulo III-B — Regime sancionatório\n\n> Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820811": {
+   "fragment_id": "909816043",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "#### Secção I — Disposições gerais\n\n> Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820820": {
+   "fragment_id": "114670104",
+   "type": 11,
+   "heading": "Artigo 22.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — Âmbito\n\n1 - Os ilícitos de mera ordenação social previstos no presente capítulo respeitam à violação dos deveres previstos na presente lei, nas demais leis nacionais sobre a matéria, bem como à violação de deveres previstos em legislação da União Europeia sobre a matéria e na regulamentação da legislação nacional e europeia anteriormente referida.\n\n2 - A presente lei não é aplicável quando o facto constituir contraordenação prevista no regime jurídico aplicável às atividades de concessão de crédito, intermediação financeira, serviços de pagamento e organismos de investimento coletivo.\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-01"
+  },
+  "909820812": {
+   "fragment_id": "909816044",
+   "type": 8,
+   "heading": "Secção II — Financiamento colaborativo de donativo ou recompensa",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "#### Secção II — Financiamento colaborativo de donativo ou recompensa\n\n> Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820822": {
+   "fragment_id": "909816031",
+   "type": 11,
+   "heading": "Artigo 22.º-A — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-A — Contraordenações\n\n1 - Constitui contraordenação económica muito grave, punível nos termos do Regime Jurídico das Contraordenações Económicas (RJCE), aprovado em anexo ao Decreto-Lei n.º 9/2021, de 29 de janeiro, na sua redação atual e do qual faz parte integrante:\n\na) A realização de atos ou o exercício de atividades de financiamento colaborativo sem a comunicação de início de atividade da plataforma, devida junto da Direção-Geral das Atividades Económicas ou fora do âmbito que resulta da comunicação;\n\nb) O incumprimento do limite máximo de angariação;\n\nc) A disponibilização de uma mesma oferta em mais do que uma plataforma.\n\n2 - Constitui contraordenação económica grave, punível nos termos do RJCE:\n\na) A violação do regime de prestação de informações quanto à oferta;\n\nb) A prestação, comunicação ou divulgação, por qualquer meio, de informação que não seja completa, verdadeira, atual, clara, objetiva e lícita, ou a omissão da prestação dessa informação;\n\nc) A violação do dever de confidencialidade da informação recebida pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nd) A não comunicação atempada à Direção-Geral das Atividades Económicas, pelas entidades gestoras da plataforma eletrónica da alteração dos elementos objeto da comunicação da atividade;\n\ne) A realização de atos ou operações proibidas pelas entidades gestoras de plataformas eletrónicas de financiamento colaborativo;\n\nf) A violação do regime de redução a escrito e disponibilização de contratos de adesão a plataformas eletrónicas de financiamento colaborativo, bem como a violação do conteúdo obrigatório do mesmo;\n\ng) A violação do regime respeitante a conflitos de interesses.\n\n3 - Constitui contraordenação económica leve, punível nos termos do RJCE:\n\na) A violação do regime de publicidade relativo às ofertas;\n\nb) A violação de deveres não previstos nos números anteriores do presente artigo, consagrados no regime jurídico do financiamento colaborativo e sua regulamentação, ou noutras leis, quer nacionais, quer da União Europeia, e sua regulamentação, sobre a matéria.\n\n4 - A tentativa e a negligência são puníveis nos termos do RJCE.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820824": {
+   "fragment_id": "909816032",
+   "type": 11,
+   "heading": "Artigo 22.º-B — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-B — Sanções acessórias\n\nCumulativamente com as coimas previstas no artigo anterior, podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no RJCE, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita até dois anos, contados da decisão condenatória definitiva.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820826": {
+   "fragment_id": "909816033",
+   "type": 11,
+   "heading": "Artigo 22.º-C — Competência",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-C — Competência\n\nCompete à Autoridade de Segurança Alimentar e Económica (ASAE) exercer, relativamente à atividade de financiamento colaborativo através de donativo ou com recompensa, a fiscalização, a instrução processual e a aplicação de coimas e sanções acessórias no quadro desta atividade.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820828": {
+   "fragment_id": "909816034",
+   "type": 11,
+   "heading": "Artigo 22.º-D — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-D — Direito subsidiário\n\nÀs contraordenações previstas na presente secção e aos processos respeitantes às mesmas aplica-se subsidiariamente o RJCE.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820813": {
+   "fragment_id": "909816045",
+   "type": 8,
+   "heading": "Secção III — Financiamento colaborativo de capital ou por empréstimo",
+   "in_force_from": "2025-01-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "#### Secção III — Financiamento colaborativo de capital ou por empréstimo\n\n> Aditado pelo/a Artigo 28.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820830": {
+   "fragment_id": "909816035",
+   "type": 11,
+   "heading": "Artigo 22.º-E — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-E — Disposições comuns\n\n1 - Às contraordenações previstas na presente secção são aplicáveis as seguintes coimas:\n\na) Entre € 5000 e € 750 000, quando sejam qualificadas como muito graves;\n\nb) Entre € 2500 e € 500 000, quando sejam qualificadas como graves;\n\nc) Entre € 1500 e € 150 000, quando sejam qualificadas como menos graves.\n\n2 - O limite máximo da coima aplicável é elevado ao maior dos seguintes valores:\n\na) O triplo do benefício económico obtido, mesmo que total ou parcialmente sob a forma de perdas potencialmente evitadas;\n\nb) No caso de contraordenações muito graves, 10 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração;\n\nc) No caso de contraordenações graves, 5 % do volume de negócios, de acordo com as últimas contas consolidadas ou individuais que tenham sido aprovadas pelo órgão de administração.\n\n3 - Se a lei ou o regulamento exigirem que o dever seja cumprido num determinado prazo considera-se que existe incumprimento logo que o prazo fixado tenha sido ultrapassado.\n\n4 - Considera-se como não comunicada ou divulgada a informação cuja divulgação ou comunicação não tenha sido efetuada através das formas, formatos, momentos, meios, suporte e extensão devidos.\n\n5 - Sempre que a lei ou o regulamento alterar as condições ou termos de cumprimento de um dever constante de lei ou regulamento anterior, aplica-se a lei antiga aos factos ocorridos no âmbito da sua vigência e a lei nova aos factos posteriores, salvo se, perante a identidade do facto, houver lugar à aplicação do regime concretamente mais favorável.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820832": {
+   "fragment_id": "909816036",
+   "type": 11,
+   "heading": "Artigo 22.º-F — Contraordenações muito graves",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-F — Contraordenações muito graves\n\n1 - Constitui contraordenação muito grave a realização de atos ou o exercício de atividades de financiamento colaborativo sem a autorização ou outros factos permissivos devidos ou fora do âmbito que resulte da autorização ou desses factos.\n\n2 - Constitui, ainda, contraordenação muito grave:\n\na) A comunicação de informação à CMVM que não seja verdadeira, completa, objetiva, atual, clara e lícita ou a omissão dessa comunicação;\n\nb) A comunicação ou divulgação de informação ao público que não seja verdadeira, completa, objetiva, atual, clara e lícita ou a omissão dessa comunicação ou divulgação;\n\nc) A comunicação ou divulgação de informação aos clientes que não seja verdadeira, completa, objetiva, atual, clara e lícita ou a omissão dessa comunicação ou divulgação;\n\nd) A comunicação ou divulgação de informação aos investidores que não seja verdadeira, completa, objetiva, atual, clara e lícita ou a omissão dessa comunicação ou divulgação;\n\ne) A violação do dever de confidencialidade respeitante à informação comunicada à CMVM;\n\nf) A não colaboração com a CMVM ou a perturbação do exercício da atividade de supervisão;\n\ng) O incumprimento de ordens ou mandados legítimos da CMVM, transmitidos por escrito aos seus destinatários, se, após notificação pela CMVM para o cumprimento de ordem ou mandado anteriormente emitidos, com a indicação expressa de que o incumprimento constitui contraordenação muito grave, o destinatário não cumprir a ordem ou mandado;\n\nh) A violação das regras sobre conflitos de interesses e benefícios ilegítimos.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820834": {
+   "fragment_id": "909816037",
+   "type": 11,
+   "heading": "Artigo 22.º-G — Contraordenações graves",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-G — Contraordenações graves\n\nConstitui contraordenação grave:\n\na) O não cumprimento de requisitos prudenciais dos prestadores de serviços de financiamento colaborativo;\n\nb) A violação do dever de análise das salvaguardas prudenciais e do plano de continuidade das atividades;\n\nc) A violação do dever de estabelecer, aplicar, manter e supervisionar sistemas, controlos, políticas e procedimentos nos termos devidos;\n\nd) O não cumprimento de regras de tratamento de reclamações e de queixas;\n\ne) A violação do dever de agir de forma honesta, equitativa e profissional, em função dos interesses dos clientes;\n\nf) O não cumprimento de parâmetros ou indicadores de risco escolhidos pelo investidor;\n\ng) O não cumprimento de regras sobre a prestação do serviço de gestão individual de carteiras de empréstimos;\n\nh) A violação das regras sobre a utilização de entidades com objeto específico;\n\ni) A violação das regras relativas às ofertas de financiamento colaborativo, incluindo as regras relativas à determinação do preço da oferta, à vinculação aos termos e condições da oferta e ao período de reflexão pré-contratual;\n\nj) O não cumprimento dos requisitos de diligência devida pelos prestadores de serviços relativos aos promotores de projetos de financiamento;\n\nk) O não cumprimento de regras de externalização de serviços ou funções operacionais e de subcontratação;\n\nl) O não cumprimento de regras de serviços de guarda de ativos e de serviços de pagamento no âmbito do financiamento colaborativo;\n\nm) O não cumprimento das regras relativas à apreciação do caráter adequado dos serviços de financiamento colaborativo para os investidores e à simulação da capacidade para suportar perdas;\n\nn) A violação do dever de suspender ou cancelar a oferta de financiamento colaborativo;\n\no) A violação do dever de aconselhar o potencial investidor a não efetuar o investimento;\n\np) O não cumprimento de regras relativas à disponibilização e utilização do boletim informativo;\n\nq) O não cumprimento das regras relativas à criação, à manutenção, à conservação e ao acesso de registos;\n\nr) O incumprimento de ordens ou mandados legítimos da CMVM, transmitidos por escrito aos seus destinatários;\n\ns) A inobservância do idioma exigido para a comunicação ou divulgação de informação;\n\nt) O não cumprimento das regras relativas a comunicações comerciais e publicidade.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820836": {
+   "fragment_id": "909816038",
+   "type": 11,
+   "heading": "Artigo 22.º-H — Contraordenações menos graves",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-H — Contraordenações menos graves\n\nA violação de deveres não previstos nos artigos anteriores, que se encontrem consagrados no regime jurídico do financiamento colaborativo e sua regulamentação, ou noutra legislação, quer nacional, quer da União Europeia, e sua regulamentação sobre a matéria, constituem contraordenações menos graves.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820838": {
+   "fragment_id": "909816039",
+   "type": 11,
+   "heading": "Artigo 22.º-I — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-I — Sanções acessórias\n\n1 - Cumulativamente com a coima, podem ser aplicadas aos responsáveis por qualquer contraordenação, além das previstas no regime geral dos ilícitos de mera ordenação social, as seguintes sanções acessórias:\n\na) Apreensão e perda do objeto da infração, incluindo o produto do benefício obtido pelo infrator através da prática da contraordenação;\n\nb) Interdição temporária do exercício pelo infrator da profissão ou da atividade a que a contraordenação respeita;\n\nc) Inibição do exercício de funções de administração, gestão, direção, chefia ou fiscalização e, em geral, de representação em entidades sujeitas à supervisão da CMVM;\n\nd) Publicação pela CMVM, a expensas do infrator e em locais idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico e da proteção dos mercados de valores mobiliários ou de outros instrumentos financeiros, da sanção aplicada pela prática da contraordenação;\n\ne) Revogação da autorização para o exercício de atividades de financiamento colaborativo.\n\n2 - As sanções referidas nas alíneas b) e c) do número anterior não podem ter duração superior a dois anos, contados da decisão condenatória definitiva.\n\n3 - A publicação referida na alínea d) do n.º 1 pode ser feita na íntegra ou por extrato, conforme for decidido pela CMVM, podendo ainda a CMVM determinar que a mesma seja efetuada nas plataformas eletrónicas.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820840": {
+   "fragment_id": "909816040",
+   "type": 11,
+   "heading": "Artigo 22.º-J — Competência",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-J — Competência\n\nA CMVM instrui, decide e aplica as correspondentes sanções em processos de contraordenação relativos à atividade de financiamento colaborativo de capital ou por empréstimo.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820842": {
+   "fragment_id": "909816041",
+   "type": 11,
+   "heading": "Artigo 22.º-K — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+   ],
+   "markdown": "###### Artigo 22.º-K — Direito subsidiário\n\nNos processos respeitantes às contraordenações previstas na presente secção, a CMVM exerce todos os poderes e prerrogativas que lhe são atribuídos pelo Código dos Valores Mobiliários, sendo igualmente aplicável o artigo 66.º do Código do Procedimento Administrativo.\n\n> Aditado pelo/a Artigo 25.º do/a [Lei n.º 1/2025 - Diário da República n.º 3/2025, Série I de 2025-01-06](https://diariodarepublica.pt/dr/detalhe/lei/1-2025-902120308), em vigor a partir de 2025-01-11"
+  },
+  "909820809": {
+   "fragment_id": "114670103",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "909820801": {
+   "fragment_id": "114670105",
+   "type": 11,
+   "heading": "Artigo 23.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 23.º — Regulamentação\n\n1 - São aplicáveis aos regulamentos a emitir pela CMVM o disposto nos artigos 369.º e seguintes do Código dos Valores Mobiliários.\n\n2 - Compete à CMVM, no prazo de 90 dias contados da publicação da presente lei, aprovar as normas regulamentares necessárias à sua entrada em vigor.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "909820802": {
+   "fragment_id": "114670106",
+   "type": 11,
+   "heading": "Artigo 24.º — Salvaguarda de situações constituídas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Salvaguarda de situações constituídas\n\nA entrada em vigor da presente lei não prejudica as relações jurídicas de financiamento colaborativo validamente constituídas em momento anterior à sua entrada em vigor."
+  },
+  "909820803": {
+   "fragment_id": "114670107",
+   "type": 11,
+   "heading": "Artigo 25.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Entrada em vigor\n\nA presente lei entra em vigor no primeiro dia do segundo mês seguinte ao da sua publicação, com exceção das disposições relativas ao financiamento colaborativo de capital ou por empréstimo, que entram em vigor no momento da entrada em vigor das normas regulamentares referidas no artigo 23.º"
+  },
+  "909820810": {
+   "fragment_id": "114670108",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 3 de julho de 2015.\n\nA Presidente da Assembleia da República, Maria da Assunção A. Esteves.\n\nPromulgada em 14 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendada em 17 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro."
+  },
+  "1147422675": {
+   "fragment_id": "114670079",
+   "type": 11,
+   "heading": "Artigo 2.º — Financiamento colaborativo e financiamento por equivalência",
+   "in_force_from": "2027-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 2.º — Financiamento colaborativo e financiamento por equivalência\n\n1 - O financiamento colaborativo é o tipo de financiamento de entidades, ou das suas atividades e projetos, através do seu registo em plataformas eletrónicas acessíveis através da Internet, a partir das quais procedem à angariação de contributos ou de parcelas de investimento em dinheiro provenientes de pessoas singulares e coletivas na qualidade de apoiantes ou de investidores.\n\n2 - O financiamento por equivalência consiste numa forma automatizada e complementar de financiamento público ou privado, através do qual uma entidade pública, ou uma pessoa coletiva com estatuto de utilidade pública, se comprometem a financiar, no limite da dotação disponível, através de subsídio a fundo perdido ou donativo, uma atividade ou projeto inscrito numa plataforma de financiamento colaborativo, em montante equivalente a uma percentagem do financiamento que vier a ser angariado nos termos da presente lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "1147422875": {
+   "fragment_id": "114670080",
+   "type": 11,
+   "heading": "Artigo 3.º — Modalidades de financiamento colaborativo",
+   "in_force_from": "2027-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 3.º — Modalidades de financiamento colaborativo\n\n1 - São modalidades de financiamento colaborativo:\n\na) O financiamento colaborativo através de donativo, pelo qual a entidade financiada recebe um donativo, com ou sem a entrega de uma contrapartida não pecuniária;\n\nb) O financiamento colaborativo com recompensa, pelo qual a entidade financiada fica obrigada à prestação do produto ou serviço financiado, em contrapartida pelo financiamento obtido;\n\nc) (Revogada.)\n\nd) (Revogada.)\n\ne) O financiamento colaborativo de capital e de empréstimo nos termos do Regulamento (UE) 2020/1503, do Parlamento Europeu e do Conselho, de 7 de outubro de 2020.\n\n2 - Qualquer das anteriores modalidades de financiamento colaborativo pode ser complementada com um financiamento por equivalência, através de protocolo celebrado com o Estado, as regiões autónomas e as autarquias locais, e qualquer dos seus serviços, estabelecimentos e organismos, ainda que personalizados, bem como com as pessoas coletivas com estatuto de utilidade pública que prossigam, exclusiva ou predominantemente, fins sociais ou culturais, no qual se define os seus termos e condições.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "1147423075": {
+   "fragment_id": "909816019",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Deveres",
+   "in_force_from": "2027-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.",
+    "Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 12.º-A — Deveres\n\n1 - As entidades gestoras das plataformas eletrónicas de financiamento colaborativo através de donativo ou com recompensa:\n\na) Asseguram aos investidores o acesso a informação relativa aos produtos colocados através dos respetivos sítios ou portais na Internet;\n\nb) Asseguram a confidencialidade da informação que receberem dos investidores, bem como da informação recebida dos beneficiários do investimento que não seja de divulgação pública no quadro dos deveres de informação decorrentes da presente lei;\n\nc) Asseguram, nas modalidades de financiamento colaborativo previsto na alínea a) do artigo 3.º, a emissão de um documento comprovativo dos montantes doados para envio a cada investidor, com cópia aos beneficiários do investimento, com a seguinte informação:\n\ni) Nome e número de identificação fiscal do investidor;\n\nii) Data e valor do donativo concedido por cada investidor;\n\niii) Confirmação de que o donativo é concedido sem entrega de uma contrapartida pecuniária ou, havendo contrapartida não pecuniária, determinação do seu valor económico por investidor.\n\n2 - As plataformas de financiamento colaborativo através de donativo ou com recompensa não podem:\n\na) Prestar aconselhamento ou formular recomendações quanto aos investimentos a realizar através dos respetivos sítios ou portais na Internet;\n\nb) Compensar os seus dirigentes ou trabalhadores pela oferta ou volume de vendas de produtos disponibilizados ou referências nos respetivos portais;\n\nc) Gerir organismos de investimento coletivo ou deter valores mobiliários.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.\n\n> Aditado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  },
+  "1147423275": {
+   "fragment_id": "114670094",
+   "type": 11,
+   "heading": "Artigo 14.º — Informações quanto à oferta",
+   "in_force_from": "2027-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01."
+   ],
+   "markdown": "###### Artigo 14.º — Informações quanto à oferta\n\n1 - Os beneficiários do financiamento colaborativo devem comunicar às plataformas, para informação aos investidores, em relação a cada oferta:\n\na) A descrição da atividade ou produto a financiar, e os fins do financiamento a angariar;\n\nb) O montante e o prazo para a angariação;\n\nc) O preço dos valores de cada unidade a subscrever ou a forma de determinação desse preço;\n\nd) Os termos e condições dos protocolos de financiamento por equivalência a que se refere o n.º 2 do artigo 3.º, celebrados pelos beneficiários do financiamento colaborativo para financiar a atividade ou produto, quando aplicável.\n\n2 - A informação prestada aos investidores deve ser completa, verdadeira, atual, clara, objetiva e lícita, permitindo aos seus destinatários formar juízos fundados sobre a oferta e sobre o beneficiário do investimento.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01."
+  },
+  "1147423475": {
+   "fragment_id": "114670098",
+   "type": 11,
+   "heading": "Artigo 17.º — Prestação de informação aos investidores",
+   "in_force_from": "2027-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+   ],
+   "markdown": "###### Artigo 17.º — Prestação de informação aos investidores\n\n1 - As fichas de informação fundamental sobre o investimento objeto de uma oferta de financiamento colaborativo em Portugal e as comunicações comerciais são redigidas em português, em inglês, exceto se a CMVM a tal se opuser em virtude de se revelar contrário ao funcionamento do mercado ou aos interesses dos investidores, ou noutro idioma aceite pela CMVM, devendo indicar os termos e condições dos protocolos de financiamento por equivalência a que se refere o n.º 2 do artigo 3.º, celebrados pelos beneficiários do financiamento colaborativo para financiar a atividade ou produto, quando aplicável.\n\n2 - A CMVM pode solicitar ao prestador de serviços de financiamento colaborativo o envio do documento referido no número anterior até, pelo menos, dois dias úteis antes de ser disponibilizada aos investidores.\n\n3 - As ofertas de financiamento colaborativo em Portugal regem-se pelo disposto no artigo 7.º do Código dos Valores Mobiliários, aprovado em anexo ao Decreto-Lei n.º 486/99, de 13 de novembro, e pela legislação e regulamentação nacional relativa à publicidade e defesa do consumidor.\n\n4 - O prestador de serviços de financiamento colaborativo insere nas comunicações comerciais a sua denominação social, bem como a identificação da CMVM.\n\n5 - São responsáveis pelos danos causados aos investidores pela violação dos deveres de informação pré-contratuais e contratuais que sobre eles impendem, nomeadamente em matéria de qualidade da informação, as pessoas singulares e coletivas que prestam serviços de financiamento colaborativo, que prestam serviços de gestão individual de carteiras de empréstimo, os promotores dos projetos, os seus órgãos de administração, direção ou supervisão e as demais pessoas singulares e coletivas responsáveis pela informação incluindo a sua tradução, presumindo-se a sua culpa.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 30/2026 - Diário da República n.º 134/2026, Série I de 2026-07-14](https://diariodarepublica.pt/dr/detalhe/lei/30-2026-1147043698), em vigor a partir de 2027-01-01.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 66/2023 - Diário da República n.º 153/2023, Série I de 2023-08-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-2023-216771968), em vigor a partir de 2023-08-09"
+  }
+ }
+}

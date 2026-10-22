@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:233105:por
+title: Portaria n.º 567/96
+short_title: null
+summary: Altera o quadro de pessoal da Direcção-Geral dos Espectáculos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e da Cultura
+proposing_entity: null
+official_number: 567/96
+official_date: null
+publication_date: '1996-10-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 234/1996, Série I-B de 1996-10-09
+  number: '234'
+  series: I
+  supplement: null
+  pages: 3557 - 3557
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/10/234b00/35573557.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/567/1996/10/09/p/dre/pt/html
+  oj: null
+  dre: '233105'
+  dre_path: /dr/detalhe/portaria/567-1996-233105
+  internal: pt:dre:233105:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-1996-233105
+  metadata_url: https://data.dre.pt/eli/port/567/1996/10/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-1996-233105
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-10-09T00:00:00Z'
+integrity:
+  source_sha256: 1aa9fcddf1f1265009370a544553f7cf76834515738f928abae5c53c7b5385c9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-567-233105.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral de Espectáculos
+- Pessoal de Inspecção
+- Pessoal Técnico Profissional
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/222/1995/09/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/222/1995/09/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/121/1993/02/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/121/1993/02/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/55/1995/01/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/55/1995/01/25/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 567/96
+
+de 9 de Outubro
+
+O [Decreto-Lei n.º 222/95](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1995-551193), de 8 de Setembro, definiu o estatuto do pessoal de inspecção da Direcção-Geral dos Espectáculos, mantendo a carreira de nível técnico superior e criando a de subinspector técnico-profissional de nível 4, em substituição da anterior carreira de sub-inspector de nível 3.
+
+Importa, agora, alterar na parte prejudicada o quadro de pessoal da Direcção-Geral dos Espectáculos, procedendo à adequada dotação.
+
+Assim, nos termos do disposto no n.º 2 do artigo 1.º do [Decreto-Lei n.º 59/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-1976-505986), de 23 de Janeiro:
+
+Manda o Governo, pelos Ministros das Finanças e da Cultura e pelo Secretário de Estado da Administração Pública, que o quadro de pessoal da Direcção-Geral dos Espectáculos, constante do mapa I anexo à [Portaria n.º 121/93](https://diariodarepublica.pt/dr/detalhe/portaria/121-1993-599143), de 3 de Fevereiro, alterado pela [Portaria n.º 55/95](https://diariodarepublica.pt/dr/detalhe/portaria/55-1995-139751), de 25 de Janeiro, passe a ser o constante do anexo I à presente portaria, no que respeita ao pessoal da carreira de subinspector de espectáculos e direitos de autor.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e da Cultura.
+
+**Assinada em 11 de Setembro de 1996.**
+
+Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Cultura, Manuel Maria Ferreira Carrilho. - O Secretário de Estado da Administração Pública, Fausto de Sousa Correia.
+
+## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1996/10/234b00/35573557.pdf))](https://files.diariodarepublica.pt/1s/1996/10/234b00/35573557.pdf)

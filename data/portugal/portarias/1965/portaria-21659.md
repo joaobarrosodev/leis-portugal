@@ -1,0 +1,236 @@
+---
+schema_version: '1.0'
+id: pt:dre:511627:por
+title: Portaria n.º 21659
+short_title: null
+summary: Mantém em vigor, com as alterações constantes da presente portaria, as tarifas provisórias da Junta Autónoma do Porto
+  de Aveiro, aprovadas pelas Portarias n.os 15601, 18917 e 20694
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Junta Central de Portos
+proposing_entity: null
+official_number: '21659'
+official_date: null
+publication_date: '1965-11-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 253/1965, Série I de 1965-11-08
+  number: '253'
+  series: I
+  supplement: null
+  pages: 1435 - 1436
+  pdf_url: https://files.diariodarepublica.pt/1s/1965/11/25300/14351436.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '511627'
+  dre_path: /dr/detalhe/portaria/21659-1965-511627
+  internal: pt:dre:511627:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/21659-1965-511627
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/21659-1965-511627
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-05-08T00:00:00Z'
+integrity:
+  source_sha256: f242d662c277b0144b28cbe68aa4faacba379aa2e555a0af9484716f9698323e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1965/DRE-1965-21659-511627.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:383042:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 9
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 21659
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, de harmonia com o disposto no artigo 96.º do Estatuto das Juntas Autónomas dos Portos, aprovado pelo [Decreto-Lei n.º 37754](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37754-1950-659507), de 18 de Fevereiro de 1950, manter em vigor as tarifas provisórias da Junta Autónoma do Porto de Aveiro, aprovadas pelas Portarias n.os 15601, 18917 e 20694, respectivamente de 8 de Novembro de 1955, 27 de Dezembro de 1961 e 22 de Julho de 1964, com as seguintes alterações:
+
+## TÍTULO IV — Ocupação de terraplenos, terrenos marginais e do leito da ria
+
+...
+
+### CAPÍTULO III — Ocupação do leito da ria
+
+###### Art. 60.º ...
+
+###### Art. 60.º-A. Pela ocupação de terreno do leito da ria com depósito de materiais de qualquer natureza, e cascos de embarcações, cobra-se a taxa indivisível de $50 por metro quadrado e período de dez dias.
+
+###### Art. 60.º-B. Pela ocupação de terreno do leito da ria com plantações, viveiros de plantas ou de animais, canalizações e obras de captação de água ou de esgotos e qualquer outra utilização, aplicar-se-ão as taxas que forem fixadas e aprovadas para cada caso pela comissão administrativa.
+
+## TÍTULO V — Prestação de serviços
+
+### CAPÍTULO I — Material terrestre para movimentação de cargas
+
+###### Art. 61.º ...
+
+a) Guindastes:
+
+...
+
+Electrificados de mais de 1500 kg:
+
+Hora normal, 72$00.
+
+Hora extraordinária, 90$00.
+
+...
+
+e) Tractores com carregador frontal:
+
+Hora normal, 70$00.
+
+Hora extraordinária, 80$00.
+
+f) Camions tipo Euclid:
+
+Hora normal, 120$00.
+
+Hora extraordinária, 130$00.
+
+...
+
+### CAPÍTULO II — Utilização de embarcações com motor
+
+###### Art. 63.º ...
+
+Rebocador Coronel Gaspar Ferreira:
+
+Hora normal sem reboque, 260$00.
+
+Hora normal com reboque, 400$00.
+
+Hora extraordinária sem reboque, 300$00.
+
+Hora extraordinária com reboque, 450$00.
+
+Hora de rebocador à ordem, 180$00.
+
+...
+
+### CAPÍTULO IV — Básculas
+
+###### Art. 63.º-E. Pela utilização de básculas da Junta cobrar-se-ão, por pesagem e por unidade, as seguintes taxas:
+
+a) Veículos automóveis ligeiros ou pesados de qualquer tipo e atrelados, 10$00.
+
+b) Veículos de tracção animal, ou quaisquer outros volumes não especificados, 5$00.
+
+...
+
+## TÍTULO VI — Fornecimentos
+
+### CAPÍTULO I — Fornecimento de água
+
+...
+
+###### Art. 68.º-A. Pelo fornecimento de água doce aos armazéns de preparação e embalagem de peixe cobrar-se-á a taxa de 4$00 por metro cúbico.
+
+###### Art. 68.º-B. Pelo fornecimento de água doce às restantes instalações terrestres do porto de pesca costeira cobrar-se-á a taxa de 3$50 por metro cúbico.
+
+...
+
+###### Art. 69.º-B. Pelo fornecimento de água potável, com camião cisterna, a embarcações ou quaisquer instalações existentes nas quatro zonas portuárias cobrar-se-á a taxa de 12$00 por metro cúbico, sendo de 5 m3 o mínimo cobrável.
+
+...
+
+## TITULO VIII
+
+Licenças
+
+...
+
+###### Art. 80.º-A. Para construção e ampliação de marinhas de sal:
+
+Por metro quadrado, incluindo os muros de vedação de águas, $05.
+
+###### Art. 80.º-B. Para a reconstrução total ou parcial de marinhas de sal:
+
+Por metro quadrado, $03.
+
+###### Art. 81.º Para reparação de muros de marinhas com estacaria, torrão, pedra solta ou cacos:
+
+Por metro corrente de muro, 1$00.
+
+...
+
+###### Art. 86.º-A. Para a construção de obras marítimas e fluviais para uso de particulares:
+
+Por metro quadrado em projecção horizontal, 10$00.
+
+###### Art. 86.º-B. Para a reconstrução ou reparação de obras marítimas e fluviais:
+
+Por metro quadrado em projecção horizontal, 5$00.
+
+###### Art. 86.º-C. Para a execução de terraplenagens, por particulares:
+
+Por metro quadrado, 1$00.
+
+###### Art. 86.º-D. Para a execução de arruamentos, caminhos, passeios e pavimentações, por particulares:
+
+Por metro quadrado, 1$50.
+
+###### Art. 86.º-E. Para a construção de poços de qualquer tipo para captação de água:
+
+Por unidade, 100$00.
+
+###### Art. 86.º-F. Para a substituição de portas e janelas:
+
+Por unidade, 5$00.
+
+###### Art. 86.º-G. Para o assentamento de tubos em motas e caminhos:
+
+Por metro corrente, 2$50.
+
+###### Art. 86.º-H. Para a abertura de valas ou fossas:
+
+Por metro quadrado, $50.
+
+###### Art. 86.º-I. Para a limpeza de valas ou fossas:
+
+Por metro quadrado, $20.
+
+Ministério das Comunicações, 8 de Novembro de 1965. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

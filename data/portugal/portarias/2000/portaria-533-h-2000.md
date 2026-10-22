@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:636253:por
+title: Portaria n.º 533-H/2000
+short_title: null
+summary: Aprova o Regulamento de Aplicação da Acção de Diversificação na Pequena Agricultura, da Medida AGRIS do Eixo 3 dos
+  Programas Operacionais Regionais
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 533-H/2000
+official_date: null
+publication_date: '2000-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/2000, 2º Suplemento, Série I-B de 2000-08-01
+  number: '176'
+  series: I
+  supplement: 2º Suplemento
+  pages: 3696-(41) a 3696-(44)
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/08/176b02/00410044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/533-h/2000/08/01/p/dre/pt/html
+  oj: null
+  dre: '636253'
+  dre_path: /dr/detalhe/portaria/533-h-2000-636253
+  internal: pt:dre:636253:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-h-2000-636253
+  metadata_url: https://data.dre.pt/eli/port/533-h/2000/08/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/533-h-2000-636253
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-11-27T00:00:00Z'
+integrity:
+  source_sha256: fb3ac81e5a230893753c65d16893495bf0203694007f841af3a7c884589ce15d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-533-H-636253.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Exploração Agrícola Familiar
+- QCA III
+- Regulamento
+- Programa AGRO
+- Medida Agris
+- Agricultura
+relationships:
+- type: amended_by
+  target: pt:dre:554466:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31999R1257
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1257/oj
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 533-H/2000
+
+de 1 de Agosto
+
+No âmbito do III Quadro Comunitário de Apoio para o período de 2000 a 2006, foi aprovado o Programa Operacional Agricultura e Desenvolvimento Rural, bem como a Medida Agricultura e Desenvolvimento Rural dos Programas Operacionais de Âmbito Regional (Medida AGRIS).
+
+Nesta medida «AGRIS» inclui-se a acção «Diversificação na pequena agricultura», que se enquadra no 7.º travessão do artigo 33.º do Regulamento (CE) n.º [1257/99](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt) e na declaração da Comissão relativa a Portugal exarada na Acta do Conselho de 17/18 de Maio de 1999, aquando da adopção dos regulamentos relativos à reforma da PAC/Agenda 2000.
+
+Assim, ao abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que seja aprovado o Regulamento de Aplicação da Acção de Diversificação na Pequena Agricultura, da Medida AGRIS do Eixo 3 dos Programas Operacionais Regionais, em anexo ao presente diploma e do qual faz parte integrante.
+
+**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 1 de Agosto de 2000.**
+
+REGULAMENTO DE APLICAÇÃO DA ACÇÃO DE DIVERSIFICAÇÃO NA PEQUENA AGRICULTURA
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece o regime de aplicação da Acção Diversificação na Pequena Agricultura no âmbito da medida «Agricultura e desenvolvimento rural» das Intervenções Operacionais Regionais.
+
+###### Artigo 2.º — Objectivos
+
+As ajudas previstas nesta acção visam os seguintes objectivos centrais:
+
+a) Diversificar as actividades em pequenas explorações agro-florestais de modo a viabilizar e desenvolver modelos de agricultura baseados na pluriactividade e no plurirrendimento familiar;
+
+b) Promover ocupações múltiplas e rendimentos alternativos para famílias agricultoras que dão um contributo essencial à manutenção do ambiente e do tecido social das zonas rurais;
+
+c) Incentivar um modelo de desenvolvimento rural abrangente dos diversos tipos de agricultores e de zonas rurais.
+
+###### Artigo 3.º — Definições
+
+Para efeitos deste Regulamento, entende-se por:
+
+1) Mão-de-obra familiar - conjunto de pessoas que fazem parte do agregado doméstico e outros membros da família até ao 1.º grau, que dedicam parte ou todo o seu tempo a trabalhar na exploração candidata;
+
+2) UDE - unidade de dimensão europeia, que corresponde a 1200 euros de margem bruta padrão. A dimensão económica de uma exploração obtém-se dividindo a margem bruta padrão total da exploração por 1200 euros. Para efeito do cálculo da dimensão económica da exploração, deverão ser usadas as margens brutas padrão de referência divulgadas pelo Gabinete de Planeamento e Política Agro-Alimentar;
+
+3) Agricultor - pessoa que é titular de uma determinada exploração, com residência única na freguesia ou nas freguesias limítrofes da mesma e com responsabilidade de gestão;
+
+4) Exploração - conjunto de terras contíguas ou não, utilizadas total ou parcialmente para a produção agrícola ou agro-florestal e que, consideradas como uma unidade técnico-económica, estão submetidas a uma gestão única, independentemente do título de posse, do regime jurídico e da área ou localização; o assento de lavoura constitui parte integrante da exploração;
+
+5) Actividade artesanal - aquela que tenha por objectivo a transformação de matéria-prima produzida na região e em que a intervenção do agregado doméstico, especificamente nas fases do processo produtivo, influencia ou determina a natureza e qualidade do produto, constituindo factor predominante do mesmo;
+
+6) Turismo no espaço rural - actividade turística definida nos termos do Decreto-Lei n.º 169/97, de 4 de Julho, prestada nas modalidades de turismo de habitação, turismo rural, agro-turismo, casas de campo e parques de campismo rural;
+
+7) Serviços de proximidade - serviços prestados pelos elementos do agregado doméstico que potenciem e complementem o exercício da actividade agro-florestal, nos domínios da rede de cuidados sociais a idosos e a crianças e da criação/recuperação de actividades em nichos de mercado emergentes;
+
+8) Assento de lavoura - local onde existem as infra-estruturas com funções de aprovisionamento dos factores de produção da exploração, podendo incluir a habitação do agricultor.
+
+###### Artigo 4.º — Objectivos e âmbito dos projectos
+
+1 - Podem ser concedidas ajudas a projectos de investimento com o seguinte âmbito e objectivos:
+
+a) A melhoria das condições materiais de suporte da actividade de pequenas explorações agro-florestais, adaptadas às suas características estruturais específicas;
+
+b) O reforço do potencial das pequenas explorações agro-florestais em termos de diversificação e de criação de ocupações múltiplas ou rendimentos alternativos;
+
+c) A melhoria funcional da habitação do agricultor com vista a garantir padrões aceitáveis de habitabilidade, desde que a mesma se situe na exploração e que o projecto complemente outros investimentos. O montante máximo elegível do investimento na habitação não poderá ser superior a 50% do investimento realizado nas outras despesas elegíveis.
+
+2 - Nas actividades em que a disciplina de mercado legalmente estabelecida implique a existência de direitos individuais de produção, a elegibilidade dos investimentos fica sujeita à compatibilidade com esses direitos.
+
+3 - Constituem despesas não elegíveis a aquisição de vitelos de engorda, animais reprodutores de suínos não autóctones e de espécies não cinegéticas e novas plantações em áreas que regionalmente sejam consideradas inadequadas.
+
+4 - As despesas que visem apenas a substituição, não melhorando de qualquer modo as condições de produção, não são elegíveis.
+
+###### Artigo 5.º — Condições de acesso
+
+1 - Da exploração:
+
+1.1 - Os apoios previstos nesta acção são concedidos às explorações que reúnam, cumulativamente, as seguintes condições:
+
+a) Mais de 50% da mão-de-obra deve ser familiar;
+
+b) Dimensão económica igual ou inferior a 8 UDE;
+
+c) Não beneficiar de ajudas no âmbito da medida n.º 1 do Programa AGRO.
+
+1.2 - As explorações podem eventualmente recorrer à utilização de baldios.
+
+1.3 - Ficam excluídas as explorações exclusivamente florestais.
+
+2 - Do titular:
+
+a) O titular deve comprometer-se a assegurar a continuidade da exploração durante um período mínimo de cinco anos a contar da data da celebração do contrato;
+
+b) Os titulares com idade superior a 70 anos devem indicar um substituto que assuma o compromisso de assegurar a continuidade da actividade na exploração em causa em caso de impedimento do candidato.
+
+3 - Da candidatura:
+
+a) A candidatura deverá especificar os investimentos a realizar e os objectivos a atingir;
+
+b) O montante máximo de investimento elegível, por exploração, no período de 2000-2006, é de 45000 euros, sendo de 25000 euros o valor máximo por candidatura;
+
+c) É fixado um valor mínimo de investimento por candidatura de 500 euros;
+
+d) No período de 2000-2006 serão aceites, no máximo, três candidaturas por destinatário. A segunda e terceira candidaturas só podem ser apresentadas após execução dos investimentos das candidaturas anteriores e desde que a exploração e os titulares continuem a preencher as condições exigidas e os compromissos assumidos;
+
+e) Podem ser apresentadas candidaturas associadas, desde que todos os agricultores associados e as respectivas explorações satisfaçam as condições previstas nos n.os 1 e 2 e no respeito dos montantes máximos por candidatura fixados na alínea b).
+
+###### Artigo 6.º — Destinatários
+
+Podem beneficiar das ajudas previstas nesta acção os agricultores titulares de explorações de pequena dimensão económica, do tipo familiar, com residência única na freguesia ou freguesias adjacentes àquela onde se situa a exploração.
+
+###### Artigo 7.º — Forma e nível de ajudas
+
+As ajudas serão concedidas sob a forma de subsídio a fundo perdido, à taxa de 50% do investimento elegível.
+
+###### Artigo 8.º — Apresentação de candidaturas
+
+As candidaturas são formalizadas através da apresentação de formulário próprio junto da direcção regional de agricultura (DRA) em cuja área de jurisdição se localiza a exploração, durante todo o ano, devendo ser acompanhadas de todos os documentos indicados nas respectivas instruções.
+
+###### Artigo 9.º — Análise das candidaturas
+
+A análise das candidaturas compete ao coordenador da medida «Agricultura e desenvolvimento rural», que as remeterá ao gestor da Intervenção Operacional Regional, conforme o artigo 30.º do Decreto-Lei n.º 54-A/2000.
+
+###### Artigo 10.º — Parecer da unidade de gestão
+
+O gestor formula as propostas de decisão sobre as candidaturas e submete-as a parecer da unidade de gestão.
+
+###### Artigo 11.º — Decisão sobre as candidaturas
+
+1 - A decisão das candidaturas compete ao Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação e subdelegação, nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.
+
+2 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento, sendo as demais candidaturas hierarquizadas segundo critérios de prioridade.
+
+3 - As candidaturas são aprovadas em função da dotação orçamental deste regime de ajudas.
+
+4 - São recusadas as candidaturas que não sejam aprovadas por insuficiência orçamental em três períodos de decisão consecutivos.
+
+###### Artigo 12.º — Critérios de prioridade
+
+1 - Os critérios de prioridade deverão ser ponderados regionalmente, atendendo às especificidades das regiões e às dinâmicas de desenvolvimento rural e local a promover a nível sub-regional. Entre outros, poderão ser utilizados os seguintes critérios:
+
+a) Explorações localizadas em zonas com fraco grau de prosperidade e alto nível de fragilidade;
+
+b) Explorações localizadas em zonas onde se desenvolvam acções de dinamização de desenvolvimento agrícola e rural;
+
+c) Explorações em cujos titulares sejam associados de organizações ou agrupamentos de produtores;
+
+d) Explorações que se dediquem predominantemente à produção de produtos com as menções «Denominação de origem», «Indicação geográfica», «Denominação de origem protegida», «Indicação geográfica protegida», «Especialidade tradicional garantida», «Especialidade tradicional garantida - registo provisório», «Agricultura biológica», «Protecção integrada» e outros produtos cujas menções venham a ser legalmente consignadas;
+
+e) Explorações com investimentos em actividades que regionalmente sejam consideradas prioritárias;
+
+f) Explorações que integrem várias actividades agrícolas, bem como actividades complementares, nomeadamente serviços de proximidade, turismo em espaço rural e artesanato.
+
+2 - A ponderação das prioridades, a estabelecer para a área de cada DRA, será objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+###### Artigo 13.º — Contrato de atribuição das ajudas
+
+A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos a celebrar entre o IFADAP e o candidato, no prazo máximo de 30 dias a contar da data de notificação ao interessado da aprovação da respectiva candidatura.
+
+###### Artigo 14.º — Execução do investimento
+
+1 - A execução material dos projectos deve iniciar-se no prazo máximo de seis meses a contar da data da celebração do contrato de atribuição de ajuda e estar concluída no prazo máximo de dois anos a contar da mesma data.
+
+2 - O coordenador da medida «Agricultura e desenvolvimento rural» poderá, em casos excepcionais e devidamente justificados, conceder a prorrogação dos prazos estabelecidos no número anterior.
+
+3 - A execução material dos projectos não deve ter início antes da apresentação da respectiva candidatura.
+
+###### Artigo 15.º — Acompanhamento e pagamento das ajudas
+
+1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.
+
+2 - A primeira prestação das ajudas só será paga após a realização de 25% do investimento elegível.
+
+4 - Os pedidos de pagamento serão apresentados ao coordenador da medida «Agricultura e desenvolvimento rural» através das DRA, que, após análise dos mesmos, procederá ao envio ao IFADAP de um recapitulativo de despesas, com base no qual se procederá ao pagamento.

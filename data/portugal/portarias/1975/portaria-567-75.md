@@ -1,0 +1,325 @@
+---
+schema_version: '1.0'
+id: pt:dre:307245:por
+title: Portaria n.º 567/75
+short_title: null
+summary: Sujeita ao regime de margens de comercialização fixadas a venda de determinadas máquinas e alfaias agrícolas importadas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio Interno
+proposing_entity: null
+official_number: 567/75
+official_date: null
+publication_date: '1975-09-19'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 217/1975, Série I de 1975-09-19
+  number: '217'
+  series: I
+  supplement: null
+  pages: 1433 - 1434
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/09/21700/14331434.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '307245'
+  dre_path: /dr/detalhe/portaria/567-1975-307245
+  internal: pt:dre:307245:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-1975-307245
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/567-1975-307245
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-07-21T00:00:00Z'
+integrity:
+  source_sha256: d50adf8b5209e558ecc0711bfd23ace4dc5203c5ae796b8d1ce62640c1dc1bfe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-567-307245.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:579895:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 567/75
+
+de 19 de Setembro
+
+A importação e a comercialização de máquinas e alfaias agrícolas têm-se caracterizado, no nosso país, pela existência de grande número de marcas e modelos, muitas vezes sem a preocupação de se garantir à agricultura, por parte das empresas fornecedoras, um eficiente serviço de assistência pós-venda.
+
+As disposições contidas no presente diploma constituem um passo no sentido de moralizar preços e corrigir algumas distorções detectadas na formação dos mesmos, ficando a necessária reestruturação do sector dependente da adopção de medidas a tomar por parte das demais entidades responsáveis.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Comércio Interno, ao abrigo do disposto no n.º 1 do artigo 2.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, bem como no n.º 2 do artigo 2.º do [Decreto-Lei n.º 45835](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45835-1964-579491), de 27 de Julho de 1964, o seguinte:
+
+1.º A venda de máquinas e alfaias agrícolas importadas, constantes da lista anexa a este diploma, fica sujeita ao regime de margens de comercialização fixadas, a que se refere a alínea e) do n.º 1 do artigo 1.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho.
+
+2.º - 1. O preço de venda ao público de máquinas e alfaias agrícolas importadas referidas no número anterior obtém-se adicionando ao respectivo custo em armazém uma margem máxima de comercialização de 45% e o imposto de transacções, quando devido.
+
+2. A margem mínima de comercialização do agente é de 20% sobre o preço de venda ao público, deduzido do imposto de transacções, quando devido.
+
+3.º - 1. A margem de comercialização referida no n.º 2.º,1, incide sobre o custo em armazém, entendido como o somatório das seguintes verbas:
+
+a) Preço FOB, fretes e seguro ou preço CIF;
+
+b) Despesas de desalfandegamento;
+
+c) Despesas de transporte até ao armazém do importador;
+
+d) Despesas de preparação e incorporação.
+
+2. Estas verbas serão obrigatoriamente justificadas através dos seguintes documentos:
+
+a) Preço FOB, fretes e seguro ou preço CIF: facturas respectivas;
+
+b) Despesas de desalfandegamento: conta do despachante;
+
+c) Despesas de transporte até ao armazém do importador: recibo do transportador;
+
+d) Despesas de preparação e incorporação: folha de obra.
+
+3. Em relação ao material incorporado, apenas deve ser considerada a incorporação feita localmente, não sendo de incluir as substituições de material avariado ou em falta.
+
+4. O câmbio a considerar para efeitos de conversão da moeda de origem em escudos é o da data do pagamento ou, sendo este protelado, a média das 15 cotações imediatamente anteriores à data da factura de origem, incluindo esta última.
+
+4.º O disposto no n.º 2.º, 2, apenas se aplica quando o agente assegura uma eficiente assistência pós-venda, dispondo de stocks de peças sobresselentes e possuindo oficina de reparação, nas condições estipuladas nos n.os 1.º e 2.º do artigo 8.º do [Decreto n.º 48170](https://diariodarepublica.pt/dr/detalhe/decreto/48170-1967-375995), de 28 de Dezembro de 1967.
+
+5.º Os montantes resultantes da aplicação das margens de comercialização a que se referem os n.os 2.º, 1, e 2.º, 2, não podem ultrapassar, respectivamente, 400000$00 e 256000$00.
+
+6.º - 1. Todas as empresas importadoras são obrigadas a possuir uma ficha por cada máquina e alfaia ou por cada grupo de máquinas e alfaias da mesma marca e modelo e entradas em armazém simultaneamente, da qual deverão constar os seguintes elementos:
+
+a) Tipo de máquina ou alfaia;
+
+b) Modelo e número;
+
+c) Fornecedor: nome e país de origem;
+
+d) Número de factura de origem;
+
+e) Preço FOB, fretes e seguro ou preço CIF;
+
+f) Despesas de desalfandegamento;
+
+g) Despesas de transporte até ao armazém do importador;
+
+h) Despesas de preparação e incorporação;
+
+i) Montante do imposto de transacções, quando devido;
+
+j) Preço máximo de venda ao público;
+
+l) Comprador: agente ou cliente;
+
+m) Número de factura de venda;
+
+n) Valor facturado.
+
+2. Fica a Direcção-Geral de Preços autorizada a admitir, quando tal se justifique, a prática pelas empresas de outros tipos de registo, desde que os mesmos permitam conhecer os diversos elementos acima referidos.
+
+7.º - 1. As empresas importadoras de máquinas e alfaias agrícolas deverão enviar à Direcção-Geral de Preços, em triplicado, no prazo máximo de quinze dias, contados a partir da data de entrada em vigor do presente diploma e em carta registada com aviso de recepção, as listas de preços de venda ao público respeitantes às máquinas e alfaias em armazém na mesma data, elaboradas de acordo com o disposto nos números anteriores.
+
+2. Sempre que se verifique qualquer alteração de preço de uma máquina ou alfaia constante das listas referidas neste número ou seja importada uma máquina ou alfaia que não conste das mesmas listas, deverão as empresas importadoras comunicar à Direcção-Geral de Preços, mediante carta registada com aviso de recepção, os preços de venda ao público a praticar.
+
+3. Os preços poderão começar a ser praticados cinco dias após a recepção da comunicação na Direcção-Geral de Preços.
+
+8.º - 1. A violação do disposto no n.º 6.º é punida com a multa de 2000$00 a 10000$00.
+
+2. À violação do disposto no n.º 7.º são aplicáveis as penas previstas nos n.os 2, 3 e 4 do artigo 15.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231).
+
+9.º As dúvidas suscitadas na aplicação desta portaria serão esclarecidas por despacho do Secretário de Estado do Comércio Interno.
+
+10.º Esta portaria entra imediatamente em vigor.
+
+Ministério do Comércio Interno, 6 de Setembro de 1975. - O Ministro do Comércio Interno, Manuel Luís Macaista Malheiros.
+
+Lista de máquinas e alfaias agrícolas abrangidas pelo n.º 1.º
+
+Máquinas agrícolas produtoras de energia, designadamente:
+
+Tractores (de rodas e de rasto);
+
+Porta-alfaias automotrizes;
+
+Motocultivadores;
+
+Motoguinchos (com motor de potência até 15 cv).
+
+Material de trabalho do solo, designadamente:
+
+Charruas (de aivecas e de discos);
+
+Cultivadores;
+
+Cultivadores rotativos (freses);
+
+Grades (de discos e de dentes);
+
+Rolos compressores;
+
+Niveladoras;
+
+Sachadores;
+
+Derregadores;
+
+Amontoadores;
+
+Vibrocultores;
+
+Escavadoras;
+
+Motoenxadas.
+
+Material de sementeira, plantação e fertilização, designadamente:
+
+Semeadores;
+
+Distribuidores de estrume;
+
+Distribuidores de adubo;
+
+Perfuradores;
+
+Plantadores.
+
+Material de protecção das culturas, designadamente:
+
+Atomizadores;
+
+Pulverizadores;
+
+Polvilhadores;
+
+Nebulizadores.
+
+Material de colheita, designadamente:
+
+Gadanhadeiras;
+
+Motogadanheiras;
+
+Volta-fenos;
+
+Acondicionadores de feno;
+
+Colhedores de forragens;
+
+Ceifeiras;
+
+Ceifeiras debulhadoras;
+
+Ceifeiras atadeiras;
+
+Corta-vides;
+
+Colhedores de milho;
+
+Colhedores de azeitona;
+
+Arrancadores de batata;
+
+Respigadores;
+
+Descampanadeiras.
+
+Material de debulha, selecção e acondicionamento dos produtos agrícolas após a colheita, designadamente:
+
+Debulhadoras;
+
+Descaroladores;
+
+Malhadeiras;
+
+Tararas;
+
+Enfardadeiras;
+
+Secadores;
+
+Calibradores;
+
+Seleccionadores.
+
+Material para a criação de gado, designadamente:
+
+Moinhos;
+
+Misturadores de rações;
+
+Corta-forragens;
+
+Corta-tubérculos;
+
+Ensiladores;
+
+Silos;
+
+Recolhedores de fardos.
+
+Material para carregamento e transporte. designadamente:
+
+Carregadores;
+
+Reboques;
+
+Transportadores;
+
+Caixa de carga;
+
+Sem-fim.
+
+Material para arroteia, designadamente:
+
+Esclarificadores;
+
+Abre-valas;
+
+Corta-matos;
+
+Subsoladoras.
+
+**O Ministro do Comércio Interno, Manuel Luís Macaista Malheiros.**

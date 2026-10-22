@@ -1,0 +1,400 @@
+---
+schema_version: '1.0'
+id: pt:dre:212591472:por
+title: Decreto-Lei n.º 29/2023
+short_title: null
+summary: Procede à transposição da Diretiva Delegada (UE) 2021/1717 e adequa o regime de inspeções técnicas de veículos a
+  motor e seus reboques à Diretiva 2014/45/UE, atualizando determinadas designações de categorias de veículos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Infraestruturas
+official_number: 29/2023
+official_date: null
+publication_date: '2023-05-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 87/2023, Série I de 2023-05-05
+  number: '87'
+  series: I
+  supplement: null
+  pages: 2 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/05/08700/0000200007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/29/2023/05/05/p/dre/pt/html
+  oj: null
+  dre: '212591472'
+  dre_path: /dr/detalhe/decreto-lei/29-2023-212591472
+  internal: pt:dre:212591472:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472
+  metadata_url: https://data.dre.pt/eli/dec-lei/29/2023/05/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-2023-212591472
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-03-12T00:00:00Z'
+integrity:
+  source_sha256: 7838034580bfedf6371194742c2c0993f4c811755be6e4d3f8518742e0d578f5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-29-212591472.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Aproximação das Legislações
+- Inspecção de Veículos
+- Instituto da Mobilidade e dos Transportes
+- Veículo
+- Documentos do Veículo
+- GNR
+- Equipamento de Veículo
+relationships:
+- type: amended_by
+  target: pt:dre:910517154:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32014L0045
+  label: null
+  source: http://data.europa.eu/eli/dir/2014/45/oj
+- type: cites
+  target: celex:32021L1717
+  label: null
+  source: http://data.europa.eu/eli/dir/2021/1717/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/100/2013/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/100/2013/07/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/144/2012/07/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/144/2012/07/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/144/2017/11/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/144/2017/11/29/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 29/2023
+
+de 5 de maio
+
+A [Diretiva 2014/45/UE](https://diariodarepublica.pt/application/external/eurolex?14L0045), do Parlamento Europeu e do Conselho, de 3 de abril de 2014, prevê a inspeção periódica dos motociclos, triciclos e quadriciclos com cilindrada superior a 125 cm3.
+
+O [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual, que aprova o regime de inspeções técnicas de veículos a motor e seus reboques, estabeleceu a obrigação de inspeção para aqueles veículos, com cilindrada superior a 250 cm3, o que torna necessária a harmonização desta exigência com a determinada pela referida diretiva.
+
+Através do presente decreto-lei procede-se à adequação do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual, à [Diretiva 2014/45/UE](https://diariodarepublica.pt/application/external/eurolex?14L0045), do Parlamento Europeu e do Conselho, de 3 de abril de 2014, bem como se transpõe a Diretiva Delegada (UE) [2021/1717](https://diariodarepublica.pt/application/external/eurolex?21L1717), da Comissão, de 9 de julho de 2021, no que diz respeito à atualização de determinadas designações de categorias de veículos.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à terceira alteração ao [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, alterado pelos Decretos-Leis n.os [100/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2013-498752), de 25 de julho, e [144/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2017-114276584), de 29 de novembro, que aprova o regime de inspeções técnicas de veículos a motor e seus reboques, adequando-o à [Diretiva 2014/45/UE](https://diariodarepublica.pt/application/external/eurolex?14L0045), do Parlamento Europeu e do Conselho, de 3 de abril de 2014, e transpondo a Diretiva Delegada (UE) [2021/1717](https://diariodarepublica.pt/application/external/eurolex?21L1717), da Comissão, de 9 de julho de 2021.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho
+
+Os artigos 5.º e 18.º do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 5.º
+
+[...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - A aprovação nas inspeções extraordinárias e nas inspeções para atribuição de matrícula é válida por 90 dias.
+
+6 - (Anterior n.º 5.)
+
+7 - (Anterior n.º 6.)
+
+###### Artigo 18.º — [...]
+
+1 - [...]
+
+2 - A obrigatoriedade de inspeções periódicas a motociclos, triciclos e quadriciclos, bem como a reboques e semirreboques referidos no n.º 3.1 do anexo i ao presente diploma produz efeitos a partir do dia 1 de janeiro de 2024.»
+
+###### Artigo 3.º — Alteração aos anexos i, ii, v, vi, vii, viii e ix do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho
+
+1 - Os anexos i, vi e vii do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual, são alterados com a redação constante do anexo ao presente decreto-lei e do qual faz parte integrante.
+
+2 - Os anexos ii, v, viii e ix do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, na sua redação atual, são publicados por portaria aprovada pelo membro do Governo responsável pela área dos transportes.
+
+###### Artigo 4.º — Referências legais
+
+As referências feitas em qualquer diploma legal aos anexos ii, v, viii e ix do [Decreto-Lei n.º 144/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/144-2012-179784), de 11 de julho, consideram-se feitas aos anexos da portaria a que se refere o artigo anterior.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 30 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 23 de março de 2023. - Mariana Guimarães Vieira da Silva - José Luís Pereira Carneiro - Fernando Medina Maciel Almeida Correia - João Saldanha de Azevedo Galamba.
+
+**Promulgado em 21 de abril de 2023.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 26 de abril de 2023.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**
+
+## ANEXO — (a que se refere o n.º 1 do artigo 3.º)
+
+## ANEXO I — (a que se refere o artigo 2.º)
+
+Veículos sujeitos a inspeção periódica
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2023/05/08700/0000200007.pdf))](https://files.diariodarepublica.pt/1s/2023/05/08700/0000200007.pdf)
+
+Nota. - [...]
+
+## ANEXO VI — (a que se refere o n.º 1 do artigo 13.º-C)
+
+Requisitos mínimos relativos à competência, formação e certificação dos inspetores
+
+1 - Competência
+
+Previamente à aprovação de candidatos ao exercício de funções de inspetor para a realização de inspeções técnicas, o Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), deve verificar se os candidatos:
+
+a) Possuem habilitações comprovadas e conhecimentos relevantes sobre veículos rodoviários nos seguintes domínios:
+
+Mecânica;
+
+Dinâmica;
+
+Dinâmica dos veículos;
+
+Motores de combustão;
+
+Materiais e transformação de materiais;
+
+Eletricidade;
+
+Eletrónica e componentes eletrónicos de veículos;
+
+Aplicações de tecnologias da informação;
+
+b) Possuem, pelo menos, três anos de experiência documentada ou equivalente como mentoria ou estudos documentados e formação adequada no domínio dos veículos rodoviários como acima referido.
+
+2 - Formação inicial e de atualização
+
+O IMT, I. P., deve assegurar que os inspetores recebem a formação inicial e de atualização adequada ou são sujeitos a exames adequados, de nível teórico e prático, que lhes permita ser autorizados a efetuar inspeções técnicas.
+
+A formação mínima inicial e de atualização ou os exames adequados devem incluir os seguintes elementos:
+
+a) Formação inicial ou exames adequados
+
+A formação inicial dada pelas entidades formadoras aprovadas pelo IMT, I. P., deve incidir, pelo menos, nos seguintes aspetos:
+
+i) Tecnologia dos veículos:
+
+Sistemas de travagem;
+
+Sistemas de direção;
+
+Campos de visão;
+
+Instalação de luzes, equipamento de iluminação e componentes eletrónicos;
+
+Eixos, rodas e pneus;
+
+Quadro e carroçaria;
+
+Ruído e emissões poluentes;
+
+Requisitos suplementares para veículos especiais.
+
+ii) Métodos de ensaio;
+
+iii) Avaliação de deficiências;
+
+iv) Disposições legais aplicáveis ao veículo para homologação;
+
+v) Disposições legais relacionadas com a inspeção técnica dos veículos;
+
+vi) Disposições administrativas relativas à homologação, matrícula e inspeção técnica dos veículos;
+
+vii) Aplicações de tecnologias da informação, ao nível de ensaios e de gestão;
+
+b) Formação de atualização ou exames adequados
+
+O IMT, I. P., deve garantir que os inspetores recebem regularmente formação de atualização ou são sujeitos a exames adequados pela entidade formadora.
+
+O IMT, I. P., deve assegurar que o teor dessa formação ou exame adequado permite aos inspetores manter e atualizar os conhecimentos e competências necessários nos aspetos referidos nos pontos i) a vii) da alínea a).
+
+3 - Certificado de qualificação
+
+O certificado ou a documentação equivalente emitida aos inspetores autorizados a efetuar inspeções técnicas deve conter, pelo menos, as seguintes informações:
+
+Identificação do inspetor (nome completo);
+
+Categorias de veículos relativamente às quais o inspetor está autorizado a efetuar inspeções técnicas;
+
+Autoridade emissora;
+
+Data de emissão.
+
+## ANEXO VII — (a que se refere o artigo 13.º-D)
+
+Organismo de supervisão
+
+Ao Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), enquanto organismo responsável pela supervisão da atividade de inspeção técnica de veículos compete:
+
+1 - Atribuições e atividades do organismo de supervisão
+
+a) Supervisão dos centros de inspeção:
+
+Verificação de que as instalações e o equipamento para realização das inspeções satisfazem os requisitos mínimos;
+
+Verificação dos requisitos obrigatórios aplicáveis às entidades gestoras;
+
+b) Verificação da formação e exames dos inspetores:
+
+Verificação da formação inicial dos inspetores;
+
+Verificação da formação de atualização periódica dos inspetores;
+
+Formação de atualização periódica dos técnicos do IMT, I. P., com funções de examinadores;
+
+Realização ou supervisão dos exames;
+
+c) Auditorias:
+
+Auditoria aos centros de inspeção antes da aprovação;
+
+Auditorias periódicas aos centros de inspeção;
+
+Auditorias extraordinárias em caso de irregularidades;
+
+Auditorias aos centros de formação/de exames;
+
+d) Monitorização (medidas seguintes):
+
+Contrainspeção a uma amostra estatisticamente válida dos veículos inspecionados;
+
+Controlos tipo «cliente mistério» (os veículos apresentados as inspeções neste âmbito podem ter deficiências, a título facultativo);
+
+Análise dos resultados das inspeções técnicas (métodos estatísticos);
+
+Repetição de inspeções em sede de recurso;
+
+Investigação de reclamações;
+
+e) Validação dos resultados das medições efetuadas nas inspeções técnicas;
+
+f) Proposta de revogação ou suspensão da aprovação dos centros de inspeção e/ou do licenciamento dos inspetores nas seguintes circunstâncias:
+
+Caso o centro de inspeção ou o inspetor em causa não cumpra um requisito importante de aprovação;
+
+Caso sejam detetadas irregularidades graves;
+
+Caso se verifiquem de modo continuado resultados negativos nas auditorias;
+
+Caso se registe perda da boa reputação do centro de inspeção ou do inspetor em causa.
+
+2 - Requisitos aplicáveis ao organismo de supervisão
+
+Os requisitos aplicáveis às pessoas contratadas por um organismo de supervisão devem abranger os seguintes domínios:
+
+Competência técnica;
+
+Imparcialidade;
+
+Padrões de qualificação e de formação.
+
+3 - Teor dos regulamentos e procedimentos
+
+Compete ao IMT, I. P., estabelecer os regulamentos e procedimentos relevantes, os quais devem abranger os seguintes aspetos:
+
+a) Requisitos relativos à aprovação e supervisão de centros de inspeção:
+
+Requerimento para autorização de funcionamento como centro de inspeção;
+
+Responsabilidades do centro de inspeção;
+
+Visita ou visitas prévias, antes da aprovação, para verificar se todos os requisitos estão cumpridos;
+
+Aprovação de centros de inspeção;
+
+Contrainspeções e auditorias periódicas aos centros de inspeção;
+
+Verificação periódica dos centros de inspeção a fim de aferir do seu cumprimento continuado das regras e procedimentos aplicáveis;
+
+Auditorias ou verificações especiais a centros de inspeção, sem aviso prévio, baseadas em elementos de prova concretos;
+
+Análise de dados das inspeções para deteção de eventual não conformidade com as regras e os procedimentos aplicáveis;
+
+Revogação ou suspensão de aprovações concedidas a centros de inspeção;
+
+b) Inspetores de centros de inspeção:
+
+Requisitos para ser inspetor certificado;
+
+Formação inicial e de atualização, exames;
+
+Revogação ou suspensão da certificação de inspetores;
+
+c) Equipamento e instalações:
+
+Requisitos do equipamento de inspeção;
+
+Requisitos das instalações de inspeção;
+
+Requisitos de sinalização;
+
+Requisitos de manutenção e calibração dos equipamentos de inspeção;
+
+Requisitos dos sistemas informáticos;
+
+d) Organismo de supervisão:
+
+Requisitos aplicáveis ao pessoal do IMT, I. P., com funções de controlo da atividade de inspeção ou de realização de exames de inspetores;
+
+Recursos e reclamações.

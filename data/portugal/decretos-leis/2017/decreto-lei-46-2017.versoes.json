@@ -1,0 +1,505 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:106960762:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-106960766",
+ "dre_path": "/dr/detalhe/decreto-lei/46-2017-106960762",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-05-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "106959589",
+    "106959590",
+    "106959591",
+    "106959592",
+    "106959593",
+    "106959594",
+    "106959595",
+    "106959597",
+    "106959598",
+    "106959599",
+    "106959600",
+    "106959601",
+    "106959602",
+    "106959603",
+    "106959604",
+    "106959605",
+    "106959606",
+    "106959607",
+    "106959608",
+    "106959609",
+    "106959610",
+    "106959611",
+    "106959612",
+    "106959613",
+    "106959614",
+    "106959615",
+    "106959616",
+    "106959617",
+    "106959618",
+    "106959619",
+    "106959620",
+    "106959621",
+    "106959622",
+    "106959623",
+    "106959624",
+    "106959625",
+    "106959626",
+    "106959627",
+    "106959628",
+    "106959629",
+    "106959630",
+    "106959631",
+    "106959632",
+    "106959633",
+    "106959634",
+    "106959635",
+    "106959636",
+    "106959637",
+    "106959638",
+    "106959639",
+    "106959640",
+    "106959641",
+    "106959642",
+    "106959643"
+   ]
+  }
+ ],
+ "fragments": {
+  "106959589": {
+   "fragment_id": "106960767",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 46/2017\n\nde 3 de maio\n\nO regime económico e financeiro dos recursos hídricos, aprovado pelo Decreto-Lei n.º 97/2008, de 11 de junho, constitui um instrumento fundamental na concretização dos princípios que orientam o regime consagrado na Lei n.º 58/2005, de 29 de dezembro (Lei da Água), nomeadamente os princípios do valor social, da dimensão ambiental e do valor económico da água.\n\nA taxa de recursos hídricos (TRH), criada pela Lei da Água e concretizada pelo já referido Decreto-Lei n.º 97/2008, de 11 de junho, assume-se como um instrumento económico e financeiro essencial para a racionalização do aproveitamento dos recursos hídricos, e assenta num princípio de equivalência, ou seja, na ideia fundamental de que o utilizador dos recursos hídricos deve contribuir na medida do custo que imputa à comunidade ou na medida do benefício que a comunidade lhe proporciona.\n\nEm cumprimento do programa do XXI Governo, encontra-se atualmente em curso o processo de reversão das agregações, impostas aos municípios, dos sistemas multimunicipais e das empresas do sector das águas - processo esse que exige o recurso a mecanismos de compensação que limitem o aumento das tarifas para os sistemas situados em territórios de baixa densidade, atento o facto de a diferença nos custos, a repercutir nas tarifas, resultar de fatores de contexto e não de uma menor eficiência na gestão dos recursos. Esse constitui um dos pressupostos em que assenta o regime consagrado no Decreto-Lei n.º 72/2016, de 4 de novembro, que procede à primeira alteração ao Decreto-Lei n.º 92/2013, de 11 de julho, e que prevê a criação de sistemas multimunicipais de abastecimento de água e de saneamento de águas residuais por cisão dos sistemas multimunicipais resultantes de agregações.\n\nOra, o Decreto-Lei n.º 42-A/2016, de 12 de agosto, que criou o Fundo Ambiental, prevê a criação de uma contribuição para apoiar os sistemas urbanos de águas com vista à sustentabilidade dos respetivos serviços. Por sua vez, a Lei da Água foi alterada pela Lei n.º 42/2016, de 28 de dezembro, que aprovou o Orçamento do Estado para 2017 no sentido de atribuir uma nova vocação à TRH: a de contribuir para a sustentabilidade dos serviços urbanos de águas, com vista a promover o acesso universal à água e ao saneamento a um custo socialmente aceitável.\n\nPretende-se, deste modo, rever o regime da TRH, considerando as compensações necessárias ao equilíbrio dos sistemas que historicamente registaram desvios de recuperação de gastos, consagrando uma nova parcela, designada de «S», cujo desígnio é a promoção da sustentabilidade dos sistemas urbanos de águas, sem prejuízo da implementação de medidas que visem a maior eficiência na prestação daqueles serviços. Esta nova receita será consignada ao Fundo Ambiental, nos termos da alínea d) do n.º 1 do artigo 4.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto, que, por sua vez, transferirá os montantes necessários para os sistemas beneficiários.\n\nA presente alteração legislativa, ainda que assuma um carácter pouco expressivo ao nível dos valores cobrados da TRH, traduz um mecanismo cuja aplicação promove a transparência e a universalidade. Aproveita-se o ensejo para proceder a uma reanálise dos valores de base das componentes A, E e U da TRH, face aos valores transitoriamente previstos na Lei n.º 82-D/2014, de 31 de dezembro, conhecida como Lei da Fiscalidade Verde, reforçando os incentivos a uma maior eficiência na utilização do recurso e elevando o desempenho ambiental nos serviços de águas, tendo em vista a melhoria do estado das massas de água.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses, o Conselho Nacional da Água, a Associação Portuguesa dos Recursos Hídricos e a Zero - Associação Sistema Terrestre Sustentável.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "106959590": {
+   "fragment_id": "106960768",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à terceira alteração ao Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, que estabelece o regime económico e financeiro dos recursos hídricos."
+  },
+  "106959591": {
+   "fragment_id": "106960769",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 97/2008, de 11 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 97/2008, de 11 de junho\n\nOs artigos 3.º, 5.º-A, 6.º, 7.º, 8.º, 10.º, 11.º, 12.º, 14.º, 17.º, 18.º e 36.º do Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, passam a ter a seguinte redação:\n\n«Artigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - A taxa de recursos hídricos visa compensar o benefício que resulta da utilização privativa do domínio público hídrico, o custo ambiental inerente às atividades suscetíveis de causar um impacte significativo nos recursos hídricos, os custos administrativos inerentes ao planeamento, gestão, fiscalização e garantia da quantidade e qualidade das águas, bem como contribuir para a sustentabilidade dos serviços urbanos de águas, com vista a promover o acesso universal à água e ao saneamento, a um custo socialmente aceitável.\n\n3 - [...].\n\n4 - [...].\n\nArtigo 5.º-A\n\nRepercussão das componentes A, U e S\n\n1 - O valor das componentes A, U e S repercutido sobre o utilizador final pelo sujeito passivo deve ser calculado considerando o volume de água não faturado (ANF), incluindo perdas físicas e comerciais verificadas nas entidades gestoras dos serviços de abastecimento de água, nos termos seguintes:\n\na) [...]\n\nb) [...]\n\nc) [...].\n\n2 - [...].\n\n3 - [...].\n\nArtigo 6.º\n\n[...]\n\n1 - A base tributável da taxa de recursos hídricos é constituída por seis componentes e expressa pela fórmula seguinte:\n\nTaxa = A + E + I + O + U + S\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\nArtigo 7.º\n\n[...]\n\n1 - [...].\n\n2 - O valor de base da componente A é de (euro) 0,0032 para a agricultura e para a aquicultura, de (euro) 0,00002 para a produção de energia hidroelétrica, de (euro) 0,0027 para a produção de energia termoelétrica, de (euro) 0,015 para os sistemas de água de abastecimento público e de (euro) 0,014 para os demais casos.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\nArtigo 8.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) (euro) 0,37 por quilograma de matéria oxidável;\n\nb) (euro) 0,17 por quilograma de azoto total;\n\nc) (euro) 0,21 por quilograma de fósforo total.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - O benefício a que se refere a alínea e) do n.º 5 vigora até 2020.\n\n8 - [...].\n\n9 - A metodologia a utilizar para o cálculo da componente E para o sector da aquicultura é definida por despacho do membro do Governo responsável pela área do ambiente.\n\nArtigo 10.º\n\n[...]\n\n1 - [...].\n\n2 - [...]:\n\na) (euro) 0,002 para a produção de energia elétrica e piscicultura com equipamentos localizados no mar e criação de planos de água, sem prejuízo do disposto na alínea f) do n.º 7;\n\nb) (euro) 0,0525 para a agricultura, aquicultura, infraestruturas e equipamentos de apoio à pesca tradicional, saneamento, abastecimento público de água e produção de energia elétrica;\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...].\n\n3 - [...].\n\n4 - O valor da componente de base a que se referem as alíneas c) a f) do n.º 2 corresponde ao maior dos valores do intervalo nelas previsto, salvo quando as ARH, por meio de decisão a tomar até ao termo do mês de novembro, fixem valores diferentes a aplicar ao ano subsequente.\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\nArtigo 11.º\n\n[...]\n\n1 - [...].\n\n2 - O valor de base da componente U é de (euro) 0,000645 para a agricultura e para a aquicultura, de (euro) 0,000004 para a produção de energia hidroelétrica, de (euro) 0,00053 para a produção de energia termoelétrica, de (euro) 0,0031 para os sistemas de água de abastecimento público e de (euro) 0,0028 para os demais casos.\n\n3 - No que se refere à base de cálculo da componente U para o sector da aquicultura não devem ser considerados os valores associados aos fluxos de maré, mas apenas aqueles que resultem da utilização de meios mecânicos.\n\n4 - [...]:\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) 90 %, no que respeita à utilização de águas objeto de bombagem através de meios mecânicos nas atividades de aquicultura.\n\n5 - [...].\n\nArtigo 12.º\n\n[...]\n\n1 - [...].\n\n2 - Nos casos em que o título de utilização possua validade igual ou superior a um ano, ou nos casos em que o sujeito passivo exerça opção nesse sentido, o volume de água relativo às componentes A, U e S, bem como a quantidade de poluentes contida nas descargas de efluentes relativa à componente E, são determinados com base no autocontrolo e medição regular nos termos previstos pelo artigo 5.º do Decreto-Lei n.º 226-A/2007, de 31 de maio.\n\n3 - [...].\n\n4 - Quando o sujeito passivo não tenha instalado os equipamentos a que se refere o n.º 2, ou quando não proceda à comunicação atempada das medições a que se refere o número anterior, bem como nos casos em que o título de utilização possua validade inferior a um ano, as componentes A, E, U e S da taxa de recursos hídricos são determinadas com base nos valores máximos constantes dos títulos de utilização, desde que os elementos disponíveis junto da APA, I. P., não apontem para valores mais elevados, caso em que se procede à determinação indireta prevista no artigo seguinte.\n\nArtigo 14.º\n\n[...]\n\n1 - A liquidação da taxa de recursos hídricos compete à APA, I. P., que deve emitir para o efeito a correspondente nota de liquidação.\n\n2 - Sempre que o título de utilização possua validade igual ou superior a um ano, a liquidação da taxa de recursos hídricos é feita até ao termo do mês de fevereiro do ano seguinte àquele a que a taxa respeite, sem prejuízo do prazo de caducidade previsto na Lei Geral Tributária.\n\n3 - [...].\n\nArtigo 17.º\n\n[...]\n\n1 - Sem prejuízo do disposto no n.º 3, os valores de base empregues no cálculo da taxa de recursos hídricos são objeto de atualização anual com efeitos a 1 de janeiro de cada ano, com base na variação média disponível dos últimos 12 meses do índice de preços no consumidor relativo ao ano anterior, publicado pelo Instituto Nacional de Estatística, I. P., procedendo-se ao arredondamento anual do resultado para duas casas decimais, ou para a casa decimal seguinte se o valor de base da taxa for inferior a (euro) 0,01.\n\n2 - [...].\n\n3 - O valor de base relativo à componente S da taxa de recursos hídricos é definido anualmente por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.\n\n4 - (Anterior n.º 3.)\n\nArtigo 18.º\n\n[...]\n\n1 - As receitas resultantes da aplicação das componentes A, E, I, O e U da taxa de recursos hídricos são afetas do seguinte modo:\n\na) [...]\n\nb) [...]\n\nc) [...].\n\n2 - A receita resultante da aplicação da componente S da taxa de recursos hídricos é receita própria do Fundo Ambiental, nos termos da alínea i) do n.º 1 do artigo 4.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto.\n\n3 - (Anterior n.º 2.)\n\n4 - (Anterior n.º 3.)\n\nArtigo 36.º\n\n[...]\n\n1 - [...].\n\n2 - Sem prejuízo do disposto no n.º 4, a componente E da taxa de recursos hídricos é reduzida a título definitivo em 50 % para os utilizadores industriais cuja captação de águas exceda o volume anual de 2.000.000 m3, sempre que estes se encontrem em atividade à data da entrada em vigor do presente decreto-lei e comprovem ter realizado uma redução significativa na rejeição de efluentes ao longo dos cinco anos anteriores a essa data, ou possuam plano de investimentos que a assegure nos cinco anos seguintes, não sendo esta redução cumulável com a isenção prevista nas alíneas b) e e) do n.º 5 do artigo 8.º\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].»"
+  },
+  "106959592": {
+   "fragment_id": "106960770",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 97/2008, de 11 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 97/2008, de 11 de junho\n\nÉ aditado ao Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto, o artigo 11.º-A, com a seguinte redação:\n\n«Artigo 11.º-A\n\nComponente S - Sustentabilidade dos serviços urbanos de águas\n\n1 - A componente S corresponde à utilização privativa de águas, qualquer que seja a sua natureza ou regime legal, calculando-se pela aplicação de um valor de base ao volume de água captado ou utilizado para os sistemas de água de abastecimento público, expresso em metro cúbico (m3).\n\n2 - O valor de base da componente S para os sistemas de água de abastecimento público é de (euro) 0,004 por m3 de água captada ou utilizada.»"
+  },
+  "106959593": {
+   "fragment_id": "106960771",
+   "type": 11,
+   "heading": "Artigo 4.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Norma revogatória\n\nÉ revogado o artigo 33.º do Decreto-Lei n.º 97/2008, de 11 de junho, alterado pela Lei n.º 82-D/2014, de 31 de dezembro, e pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto."
+  },
+  "106959594": {
+   "fragment_id": "106960772",
+   "type": 11,
+   "heading": "Artigo 5.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Republicação\n\n1 - É republicado, em anexo ao presente decreto-lei e do qual faz parte integrante, o Decreto-Lei n.º 97/2008, de 11 de junho, com a redação atual.\n\n2 - Para efeitos de republicação, onde se lê «despacho conjunto», «ministro», «Ministro do Ambiente, do Ordenamento do Território e do Desenvolvimento Regional», «Ministros de Estado e das Finanças, do Ambiente, Ordenamento do Território e Desenvolvimento Regional e da Economia e Inovação», «Ministério das Finanças e da Administração Pública», «membro do Governo responsável pelo ambiente», «Instituto da Água, I. P., abreviadamente designado INAG» ou «INAG», «presente diploma» e «Inspeção-Geral do Ambiente e do Ordenamento do Território», deve ler-se, respetivamente, «despacho», «membro do Governo», «membro do Governo responsável pela área do ambiente», «membros do Governo responsáveis pelas áreas das finanças, da economia e do ambiente», «Ministério das Finanças», «membro do Governo responsável pela área do ambiente», «APA, I. P.», «presente decreto-lei» e «Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território»."
+  },
+  "106959595": {
+   "fragment_id": "106960773",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "106959597": {
+   "fragment_id": "106966675",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 5.º)\n\nRepublicação do Decreto-Lei n.º 97/2008, de 11 de junho"
+  },
+  "106959598": {
+   "fragment_id": "106966676",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "106959599": {
+   "fragment_id": "106966677",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime económico e financeiro dos recursos hídricos previsto pela Lei n.º 58/2005, de 29 de dezembro, disciplinando a taxa de recursos hídricos, as tarifas dos serviços públicos de águas e os contratos-programa em matéria de gestão dos recursos hídricos."
+  },
+  "106959600": {
+   "fragment_id": "106966678",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios da utilização sustentável dos recursos hídricos e da equivalência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios da utilização sustentável dos recursos hídricos e da equivalência\n\n1 - O regime económico e financeiro dos recursos hídricos obedece ao princípio da utilização sustentável dos recursos hídricos, devendo todos os instrumentos que o integram ser concebidos e aplicados de modo a garantir a gestão sustentável dos recursos hídricos através da interiorização tendencial dos custos e benefícios que estão associados à utilização da água.\n\n2 - O regime económico e financeiro dos recursos hídricos obedece ainda ao princípio da equivalência, devendo os tributos que o integram ser estruturados e aplicados em termos tais que a sua repartição entre os utilizadores dos recursos hídricos se faça na medida do custo que estes provocam à comunidade e na medida do benefício que a comunidade lhes proporciona."
+  },
+  "106959601": {
+   "fragment_id": "106966679",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrumentos económicos e financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Instrumentos económicos e financeiros\n\n1 - Os instrumentos económicos e financeiros disciplinados pelo presente decreto-lei são a taxa de recursos hídricos, as tarifas dos serviços públicos de águas e os contratos-programa relativos a atividades de gestão dos recursos hídricos.\n\n2 - A taxa de recursos hídricos visa compensar o benefício que resulta da utilização privativa do domínio público hídrico, o custo ambiental inerente às atividades suscetíveis de causar um impacte significativo nos recursos hídricos, os custos administrativos inerentes ao planeamento, gestão, fiscalização e garantia da quantidade e qualidade das águas, bem como contribuir para a sustentabilidade dos serviços urbanos de águas, com vista a promover o acesso universal à água e ao saneamento, a um custo socialmente aceitável.\n\n3 - As tarifas dos serviços públicos de águas visam garantir a recuperação, em prazo razoável, dos investimentos feitos na instalação, expansão, modernização e substituição das infraestruturas e equipamentos necessários à prestação dos serviços de águas, promover a eficiência dos mesmos na gestão dos recursos hídricos e assegurar o equilíbrio económico e financeiro das entidades que os levam a cabo em proveito da comunidade.\n\n4 - Os contratos-programa relativos a atividades de gestão dos recursos hídricos visam fomentar a cooperação de entidades públicas de diferentes níveis territoriais da administração, bem como de entidades privadas e cooperativas, na gestão sustentável dos recursos hídricos, estimulando os investimentos que para ela concorram e contribuindo para a interiorização dos benefícios ambientais que resultem para a comunidade de projetos e ações a levar a cabo neste domínio."
+  },
+  "106959602": {
+   "fragment_id": "106966680",
+   "type": 1,
+   "heading": "Capítulo II — Taxa de recursos hídricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Taxa de recursos hídricos"
+  },
+  "106959603": {
+   "fragment_id": "106966681",
+   "type": 11,
+   "heading": "Artigo 4.º — Incidência objetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Incidência objetiva\n\nA taxa de recursos hídricos incide sobre as seguintes utilizações dos recursos hídricos:\n\na) A utilização privativa de águas do domínio público hídrico do Estado;\n\nb) A descarga, direta ou indireta, de efluentes sobre os recursos hídricos, suscetível de causar impacte significativo;\n\nc) A extração de materiais inertes do domínio público hídrico do Estado;\n\nd) A ocupação de terrenos ou planos de água do domínio público hídrico do Estado;\n\ne) A utilização de águas, qualquer que seja a sua natureza ou regime legal, sujeitas a planeamento e gestão públicos, suscetível de causar impacte significativo."
+  },
+  "106959604": {
+   "fragment_id": "106966682",
+   "type": 11,
+   "heading": "Artigo 5.º — Incidência subjetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Incidência subjetiva\n\n1 - São sujeitos passivos da taxa de recursos hídricos todas as pessoas, singulares ou coletivas, que realizem as utilizações referidas no artigo anterior estando, ou devendo estar, para o efeito munidas dos necessários títulos de utilização.\n\n2 - Quando a taxa não seja devida pelo utilizador final dos recursos hídricos, deve o sujeito passivo repercutir sobre o utilizador final o encargo económico que ela representa, juntamente com os preços ou tarifas que pratique."
+  },
+  "106959605": {
+   "fragment_id": "106966683",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Repercussão das componentes A, U e S",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — Repercussão das componentes A, U e S\n\n1 - O valor das componentes A, U e S repercutido sobre o utilizador final pelo sujeito passivo deve ser calculado considerando o volume de água não faturado (ANF), incluindo perdas físicas e comerciais verificadas nas entidades gestoras dos serviços de abastecimento de água, nos termos seguintes:\n\na) O valor a cobrar por metro cúbico pela «alta» à «baixa» apura-se pela aplicação da fórmula: TRH(índice r,a) = TRH(índice p,a) x 1/(1-ANF(índice a)), em que TRH(índice r,a) corresponde ao valor da taxa de recursos hídricos a repercutir pela «alta», TRH(índice p,a) ao valor da taxa de recursos hídricos pago pela «alta» e ANF(índice a) à percentagem de água não faturada pela «alta»;\n\nb) O valor a cobrar por metro cúbico pela «baixa» ao utilizador final apura-se pela aplicação da fórmula: TRH(índice r,b) = TRH(índice r,a) x 1/(1-ANF(índice b)), em que TRH(índice r,b) corresponde ao valor da taxa de recursos hídricos a repercutir pela «baixa», TRH(índice r,a) ao valor da taxa de recursos hídricos pago pela «baixa» e ANF(índice b) à percentagem de água não faturada pela «baixa»;\n\nc) Nos casos de sistemas verticalmente integrados, o valor a cobrar por metro cúbico ao utilizador final apura-se pela aplicação da fórmula: TRH(índice r) = TRH(índice p) x [1/(1-ANF(índice a))] x [1/(1-ANF(índice b))].\n\n2 - Em 2016, o ANF(índice a) é de 0,05 e o valor de ANF(índice b) é de 0,2.\n\n3 - Até ao final de cada ano, a Entidade Reguladora dos Serviços de Águas e Resíduos estabelece e divulga, no seu sítio na Internet, os valores de ANF(índice a) e ANF(índice b) aplicáveis a cada tipo de entidade gestora para o ano subsequente, considerando os objetivos de eficiência definidos para a gestão dos serviços de abastecimento de água, não devendo os valores ser superiores aos definidos no número anterior."
+  },
+  "106959606": {
+   "fragment_id": "106966684",
+   "type": 11,
+   "heading": "Artigo 6.º — Base tributável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Base tributável\n\n1 - A base tributável da taxa de recursos hídricos é constituída por seis componentes e expressa pela fórmula seguinte:\n\nTaxa = A + E + I + O + U + S\n\n2 - A aplicação das componentes da base tributável da taxa de recursos hídricos é cumulativa e a inaplicabilidade de uma qualquer das componentes não prejudica a aplicação das demais.\n\n3 - Quando o sujeito passivo realize utilizações que se integrem na mesma componente e às quais sejam aplicáveis valores de base diferentes, os títulos de utilização devem proceder à sua segregação, na falta da qual se aplicará ao conjunto das utilizações que integrem a mesma componente o valor de base mais elevado.\n\n4 - Não podem ser reconhecidas isenções de taxa de recursos hídricos, em qualquer das componentes que a integram, além das que se encontram expressamente previstas no presente decreto-lei."
+  },
+  "106959607": {
+   "fragment_id": "106966685",
+   "type": 11,
+   "heading": "Artigo 7.º — Componente A - Utilização de águas do domínio público hídrico do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Componente A - Utilização de águas do domínio público hídrico do Estado\n\n1 - A componente A corresponde à utilização privativa de águas do domínio público hídrico do Estado, calculando-se pela aplicação de um valor de base ao volume de água captado, desviado ou utilizado, nomeadamente, na produção de energia hidroelétrica ou termoelétrica, expresso em metro cúbico, multiplicado pelo coeficiente de escassez aplicável quando não se trate de águas marinhas.\n\n2 - O valor de base da componente A é de (euro) 0,0032 para a agricultura e para a aquicultura, de (euro) 0,00002 para a produção de energia hidroelétrica, de (euro) 0,0027 para a produção de energia termoelétrica, de (euro) 0,015 para os sistemas de água de abastecimento público e de (euro) 0,014 para os demais casos.\n\n3 - Os coeficientes de escassez aplicáveis são os seguintes:\n\na) 1, nas bacias hidrográficas do Minho, Lima, Cávado, Ave, Leça e Douro;\n\nb) 1,1, nas bacias hidrográficas do Vouga, Mondego, Lis, Ribeiras do Oeste e Tejo;\n\nc) 1,2, nas bacias hidrográficas do Sado, Mira, Guadiana e Ribeiras do Algarve.\n\n4 - Quando estiver feita a delimitação de sub-bacias hidrográficas, nomeadamente no quadro dos planos de gestão de bacia hidrográfica, pode determinar-se a aplicação de coeficientes de escassez diferenciados a cada uma delas, devendo esses coeficientes variar entre 1 e 1,5, nos termos a fixar em portaria a aprovar pelo membro do Governo responsável pela área do ambiente.\n\n5 - A componente A é reduzida nos seguintes termos:\n\na) 50 % no que respeita à utilização de águas para produção de energia hidroelétrica em aproveitamentos com queda bruta máxima até 10 m;\n\nb) 80 % no que respeita à água objeto de bombagem em aproveitamentos de produção de energia hidroelétrica que empreguem grupos reversíveis;\n\nc) 90 % no que respeita à utilização de águas marinhas em circuitos de refrigeração para produção de energia termoelétrica e outras formas de regulação térmica, designadamente a refrigeração industrial e regaseificação de gás natural liquefeito;\n\nd) 90 % no que respeita à utilização de águas para regulação térmica de culturas agrícolas;\n\ne) 5 % para os sujeitos passivos detentores de certificação Eco-Management and Audit Scheme (EMAS), família 14000 das normas aprovadas pela International Organization for Standardization (ISO 14000) ou esquema de certificação reconhecido como equivalente, desde que esta certificação inclua explicitamente os processos e instalações com impacte na gestão da água.\n\n6 - Está isenta da componente A:\n\na) A utilização de águas que seja realizada por meio de equipamentos de extração cuja potência total não ultrapasse os 5 cv, exceto quando a administração de região hidrográfica, abreviadamente designada ARH, ou o instrumento de planeamento aplicável qualifique a captação como tendo impacte adverso significativo nos recursos hídricos;\n\nb) A utilização de águas fundamentada em razões de segurança de abastecimento ou outras razões estratégicas nacionais, determinada por despacho do membro do Governo responsável pela área do ambiente e do membro do Governo responsável pelo setor afetado."
+  },
+  "106959608": {
+   "fragment_id": "106966686",
+   "type": 11,
+   "heading": "Artigo 8.º — Componente E - Descarga de efluentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Componente E - Descarga de efluentes\n\n1 - A componente E corresponde à descarga, direta ou indireta, de efluentes sobre os recursos hídricos, suscetível de causar impacte significativo, calculando-se pela aplicação de um valor de base à quantidade de poluentes contida na descarga, expressa em quilograma.\n\n2 - Os valores de base da componente E são os seguintes:\n\na) (euro) 0,37 por quilograma de matéria oxidável;\n\nb) (euro) 0,17 por quilograma de azoto total;\n\nc) (euro) 0,21 por quilograma de fósforo total.\n\n3 - A matéria oxidável apura-se pela aplicação da fórmula (CQO + 2 x CBO(índice 5))/3, onde CQO corresponde à carência química de oxigénio e CBO(índice 5) à carência bioquímica de oxigénio.\n\n4 - Para os efeitos deste artigo, não se considera descarga de efluentes a restituição ao meio hídrico de águas empregues na produção de energia ou na refrigeração industrial.\n\n5 - A componente E é reduzida:\n\na) (Revogada.)\n\nb) Em 25 % no que respeita a instalações industriais abrangidas pelo regime de prevenção e controlo integrados de poluição (PCIP), que nos seus processos apliquem as melhores práticas e técnicas disponíveis de acordo com os documentos de referência sectoriais;\n\nc) Em 25 % no que respeita a descargas de efluentes no mar através de emissário submarino, desde que devidamente tratados;\n\nd) Em 40 % no que respeita às descargas de efluentes realizadas por sistemas de saneamento de águas residuais urbanas;\n\ne) Nos casos em que haja reutilização de águas residuais tratadas, de acordo com a seguinte fórmula: TRHE, r = TRHE x [1-0,8 x (volume de águas residuais tratadas para reutilização/volume de águas residuais à entrada do processo de tratamento)], em que TRHE, r corresponde ao valor reduzido da componente E da taxa de recursos hídricos, desde que existam instrumentos que assegurem a medição do volume de água reutilizado;\n\nf) Em 5 % no que respeita aos sujeitos passivos detentores de certificação Eco-Management and Audit Scheme (EMAS), família 14000 das normas aprovadas pela International Organization for Standardization (ISO 14000) ou esquema de certificação reconhecido como equivalente, desde que esta certificação inclua explicitamente os processos e instalações com impacte na gestão da água.\n\n6 - Estão isentas da componente E as seguintes descargas de efluentes:\n\na) Descargas provenientes de habitações isoladas com soluções próprias de tratamento de águas residuais;\n\nb) Descargas provenientes de aglomerados urbanos com dimensão até 200 habitantes equivalente, desde que as respetivas águas residuais não contenham efluentes industriais não tratados.\n\n7 - O benefício a que se refere a alínea e) do n.º 5 vigora até 2020.\n\n8 - A componente E é agravada em 20 %, no que respeita a descargas de efluentes em zonas hídricas vulneráveis ou sensíveis, de acordo com a classificação constante do plano de gestão de região hidrográfica aplicável à massa de água em que se efetuam.\n\n9 - A metodologia a utilizar para o cálculo da componente E para o setor da aquicultura é definida por despacho do membro do Governo responsável pela área do ambiente."
+  },
+  "106959609": {
+   "fragment_id": "106966687",
+   "type": 11,
+   "heading": "Artigo 9.º — Componente I - Extração de inertes do domínio público hídrico do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Componente I - Extração de inertes do domínio público hídrico do Estado\n\n1 - A componente I corresponde à extração de inertes do domínio público hídrico do Estado, calculando-se pela aplicação de um valor de base de (euro) 2,50 ao volume de inertes extraídos, expresso em metro cúbico.\n\n2 - O valor de base referido no número anterior deve ser tomado como preço mínimo de referência quando a atribuição da licença de extração de inertes seja feita por meio de procedimento concursal ou quando a extração de inertes seja promovida por iniciativa das ARH e realizada por sua conta.\n\n3 - Para efeitos de aplicação da componente I, considera-se como fator de conversão volume/massa de areia seca o valor de 1,6 t/m3."
+  },
+  "106959610": {
+   "fragment_id": "106966688",
+   "type": 11,
+   "heading": "Artigo 10.º — Componente O - Ocupação do domínio público hídrico do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Componente O - Ocupação do domínio público hídrico do Estado\n\n1 - A componente O corresponde à ocupação de terrenos do domínio público hídrico do Estado e à ocupação e criação de planos de água, calculando-se pela aplicação de um valor de base à área ocupada, expressa em metro quadrado.\n\n2 - O valor anual de base da componente O é o seguinte:\n\na) (euro) 0,002 para a produção de energia elétrica e piscicultura com equipamentos localizados no mar e criação de planos de água, sem prejuízo do disposto na alínea f) do n.º 7;\n\nb) (euro) 0,0525 para a agricultura, aquicultura, infraestruturas e equipamentos de apoio à pesca tradicional, saneamento, abastecimento público de água e produção de energia elétrica;\n\nc) Entre (euro) 1,50 e (euro) 2 para a indústria;\n\nd) Entre (euro) 3,75 e (euro) 5 para as edificações destinadas a habitação;\n\ne) Entre (euro) 5 e (euro) 7,50 para os apoios temporários de praia e ocupações ocasionais de natureza comercial, turística ou recreativa com finalidade lucrativa;\n\nf) Entre (euro) 7,50 e (euro) 10 para os apoios não temporários de praia e ocupações duradouras de natureza comercial, turística ou recreativa com finalidade lucrativa;\n\ng) (euro) 1 para os demais casos.\n\n3 - O valor de base previsto na alínea b) do n.º 2 é reduzido para metade quando aplicável a explorações agrícolas, piscícolas, aquícolas, marinhas e culturas biogenéticas que ocupem área superior a um hectare e na parcela correspondente ao excesso.\n\n4 - O valor da componente de base a que se referem as alíneas c) a f) do n.º 2 corresponde ao maior dos valores do intervalo nelas previsto, salvo quando as ARH, por meio de decisão a tomar até ao termo do mês de novembro, fixem valores diferentes a aplicar ao ano subsequente.\n\n5 - O valor da componente de base a que se referem as alíneas e) e f) do n.º 2 é reduzido em 10 %, no caso de apoios de praia, devidamente licenciados, que suportem custos decorrentes da vigilância a banhistas.\n\n6 - As condutas, cabos, moirões e demais equipamentos que ocupem o domínio público hídrico de modo que apenas possa ser expresso em metro linear estão sujeitos à taxa de (euro) 1 por metro linear, sempre que a ocupação se dê à superfície, e à taxa de (euro) 0,10 por metro linear sempre que a ocupação seja feita no subsolo.\n\n7 - Estão isentas da componente O:\n\na) A ocupação de terrenos ou planos de água em que estejam implantadas infraestruturas ou equipamentos de apoio a atividades piscatórias tradicionais, quando essa ocupação exista já à data da entrada em vigor do presente decreto-lei e enquanto se mantenham aqueles fins;\n\nb) A ocupação de terrenos por habitações próprias e permanentes de sujeitos passivos cujo agregado familiar aufira rendimento bruto englobável para efeitos de IRS que não ultrapasse o dobro do valor anual da retribuição mínima mensal, quando essa ocupação exista já à data da entrada em vigor do presente decreto-lei e enquanto se mantenham aqueles fins;\n\nc) A ocupação de terrenos ou planos de água por infraestruturas e equipamentos empregues em projetos-piloto destinados à pesquisa e experimentação de tecnologias associadas à produção de energia elétrica a partir das ondas do mar, reconhecidos como tal pelos membros do Governo responsáveis pelas áreas do ambiente e da energia;\n\nd) A ocupação de terrenos ou planos de água por infraestruturas e equipamentos destinados à sinalização e salvamento marítimo, segurança pública, bem como à prevenção e combate à poluição marítima;\n\ne) A ocupação de terrenos por estradas, caminhos-de-ferro e outras vias de comunicação públicas;\n\nf) A ocupação de terrenos feita pelos planos de água de aproveitamentos hidroelétricos, hidroagrícolas ou para abastecimento para consumo humano ou industrial, sempre que a utilização de água contida nas respetivas albufeiras se destine a fins de utilidade pública ou de interesse geral.\n\n8 - Da aplicação da taxa às edificações destinadas a habitação e às áreas vedadas que lhe estejam anexas não pode resultar valor superior a (euro) 2500, quando essa ocupação exista já à data da entrada em vigor do presente decreto-lei e enquanto se mantenham aqueles fins.\n\n9 - Quando a ocupação for feita por período inferior a um ano, a componente O será devida na proporção do período máximo de ocupação previsto no título de utilização, com o limite mínimo de um mês."
+  },
+  "106959611": {
+   "fragment_id": "106966689",
+   "type": 11,
+   "heading": "Artigo 11.º — Componente U - Utilização de águas sujeitas a planeamento e gestão públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Componente U - Utilização de águas sujeitas a planeamento e gestão públicos\n\n1 - A componente U corresponde à utilização privativa de águas, qualquer que seja a sua natureza ou regime legal, sujeitas a planeamento e gestão públicos, suscetível de causar impacte significativo, calculando-se pela aplicação de um valor de base ao volume de água captado, desviado ou utilizado, nomeadamente, na produção de energia hidroelétrica ou termoelétrica, expresso em metro cúbico.\n\n2 - O valor de base da componente U é de (euro) 0,000645 para a agricultura e para a aquicultura, de (euro) 0,000004 para a produção de energia hidroelétrica, de (euro) 0,00053 para a produção de energia termoelétrica, de (euro) 0,0031 para os sistemas de água de abastecimento público e de (euro) 0,0028 para os demais casos.\n\n3 - No que se refere à base de cálculo da componente U para o setor da aquicultura não devem ser considerados os valores associados aos fluxos de maré, mas apenas aqueles que resultem da utilização de meios mecânicos.\n\n4 - A componente U é reduzida nos seguintes termos:\n\na) 50 % no que respeita à utilização de águas para produção de energia hidroelétrica em aproveitamentos com queda bruta máxima até 10 m;\n\nb) 80 % no que respeita à água objeto de bombagem em aproveitamentos de produção de energia hidroelétrica que empreguem grupos reversíveis;\n\nc) 90 % no que respeita à utilização de águas marinhas em circuitos de refrigeração para produção de energia termoelétrica e outras formas de regulação térmica, designadamente a refrigeração industrial e regaseificação de gás natural liquefeito;\n\nd) 90 % no que respeita à utilização de águas para regulação térmica de culturas agrícolas;\n\ne) 5 %, para os sujeitos passivos detentores de certificação Eco-Management and Audit Scheme (EMAS), família 14000 das normas aprovadas pela International Organization for Standardization (ISO 14000) ou esquema de certificação reconhecido pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.), como equivalente, desde que esta certificação inclua explicitamente os processos e instalações com impacte na gestão da água e que os sujeitos passivos demonstrem a melhoria contínua do desempenho nesta área;\n\nf) 90 %, no que respeita à utilização de águas objeto de bombagem através de meios mecânicos nas atividades de aquicultura.\n\n5 - Está isenta da componente U:\n\na) A utilização de águas que seja realizada por meio de equipamentos de extração cuja potência total não ultrapasse 5 cv, exceto quando a ARH ou o instrumento de planeamento aplicável qualifique a captação como tendo impacte adverso significativo nos recursos hídricos;\n\nb) A utilização de águas fundamentada em razões de segurança de abastecimento ou outras razões estratégicas nacionais, determinada por despacho do membro do Governo responsável pela área do ambiente e do membro do Governo responsável pelo setor afetado."
+  },
+  "106959612": {
+   "fragment_id": "106966690",
+   "type": 11,
+   "heading": "Artigo 11.º-A — Componente S - Sustentabilidade dos serviços urbanos de águas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º-A — Componente S - Sustentabilidade dos serviços urbanos de águas\n\n1 - A componente S corresponde à utilização privativa de águas, qualquer que seja a sua natureza ou regime legal, calculando-se pela aplicação de um valor de base ao volume de água captado ou utilizado para os sistemas de água de abastecimento público, expresso em metro cúbico (m3).\n\n2 - O valor de base da componente S para os sistemas de água de abastecimento público é de (euro) 0,004 por m3 de água captada ou utilizada."
+  },
+  "106959613": {
+   "fragment_id": "106966691",
+   "type": 11,
+   "heading": "Artigo 12.º — Determinação direta da matéria tributável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Determinação direta da matéria tributável\n\n1 - A matéria tributável da taxa de recursos hídricos determina-se com base nos valores máximos constantes dos títulos de utilização.\n\n2 - Nos casos em que o título de utilização possua validade igual ou superior a um ano, ou nos casos em que o sujeito passivo exerça opção nesse sentido, o volume de água relativo às componentes A, U e S, bem como a quantidade de poluentes contida nas descargas de efluentes relativa à componente E, são determinados com base no autocontrolo e medição regular nos termos previstos pelo artigo 5.º do Decreto-Lei n.º 226-A/2007, de 31 de maio.\n\n3 - A comunicação das medições a que se refere o número anterior deve ser feita até ao dia 15 do mês subsequente ao termo de cada semestre, exceto se outra data constar do título.\n\n4 - Quando o sujeito passivo não tenha instalado os equipamentos a que se refere o n.º 2, ou quando não proceda à comunicação atempada das medições a que se refere o número anterior, bem como nos casos em que o título de utilização possua validade inferior a um ano, as componentes A, E, U e S da taxa de recursos hídricos são determinadas com base nos valores máximos constantes dos títulos de utilização, desde que os elementos disponíveis junto da APA, I. P., não apontem para valores mais elevados, caso em que se procede à determinação indireta prevista no artigo seguinte."
+  },
+  "106959614": {
+   "fragment_id": "106966692",
+   "type": 11,
+   "heading": "Artigo 13.º — Determinação indireta da matéria tributável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Determinação indireta da matéria tributável\n\n1 - Em caso de impossibilidade de determinação direta da matéria tributável, resultante da falta de título de utilização ou da violação dos seus termos, a liquidação da taxa de recursos hídricos é feita oficiosamente por métodos indiretos, procedendo-se à estimativa fundamentada das componentes que integram a sua base tributável com recurso aos elementos de facto e de direito que a ARH tenha ao seu dispor, nomeadamente aos indicadores de utilizadores em setor de atividade e empregando métodos de produção semelhantes.\n\n2 - A determinação indireta da matéria tributável não prejudica a aplicação das contraordenações a que eventualmente haja lugar."
+  },
+  "106959615": {
+   "fragment_id": "106966693",
+   "type": 11,
+   "heading": "Artigo 14.º — Liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Liquidação\n\n1 - A liquidação da taxa de recursos hídricos compete à APA, I. P., que deve emitir para o efeito a correspondente nota de liquidação.\n\n2 - Sempre que o título de utilização possua validade igual ou superior a um ano, a liquidação da taxa de recursos hídricos é feita até ao termo do mês de fevereiro do ano seguinte àquele a que a taxa respeite, sem prejuízo do prazo de caducidade previsto na Lei Geral Tributária.\n\n3 - Sempre que o título de utilização possua validade inferior a um ano, a liquidação da taxa de recursos hídricos é prévia à emissão do próprio título."
+  },
+  "106959616": {
+   "fragment_id": "106966694",
+   "type": 11,
+   "heading": "Artigo 15.º — Isenção técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Isenção técnica\n\nA APA, I. P., não procede à liquidação da taxa de recursos hídricos quando o valor global a cobrar seja inferior a (euro) 25, excetuando os casos em que a liquidação seja prévia à emissão do título de utilização."
+  },
+  "106959617": {
+   "fragment_id": "106966695",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento\n\n1 - Sempre que o título de utilização possua validade igual ou superior a um ano, o pagamento da taxa de recursos hídricos é feito até ao termo do mês de fevereiro do ano seguinte àquele a que a taxa respeite.\n\n2 - A APA, I. P., pode autorizar os sujeitos passivos a proceder ao pagamento antecipado da taxa de recursos hídricos, por meio de duas prestações semestrais a satisfazer nos meses de junho e dezembro do ano a que a taxa respeite, com acerto de contas no mês de janeiro do ano seguinte, sempre que esse procedimento se revele de maior conveniência em face dos sistemas de faturação e pagamentos empregues pelos sujeitos passivos.\n\n3 - Sempre que o título de utilização possua validade inferior a um ano, o pagamento da taxa de recursos hídricos é prévio à emissão do próprio título.\n\n4 - O pagamento da taxa de recursos hídricos pode ser feito empregando todos os meios genericamente previstos pela Lei Geral Tributária, nomeadamente a moeda corrente, o cheque, o débito em conta, a transferência bancária ou o vale postal, devendo ser realizado por débito em conta sempre que o sujeito passivo constitua pessoa coletiva e o título possua validade igual ou superior a um ano.\n\n5 - Sem prejuízo do disposto na alínea e) do n.º 1 do artigo 32.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, e da aplicação das sanções a que haja lugar nos termos dos artigos 29.º e seguintes do presente decreto-lei, a falta de pagamento atempado da taxa de recursos hídricos determina a aplicação de juros de mora à taxa legal em vigor.\n\n6 - A cobrança coerciva dos valores em dívida relativos à taxa de recursos hídricos pode ser promovida pela Autoridade Tributária e Aduaneira, nos termos a definir por protocolo a celebrar, para o efeito, entre esta entidade e a APA, I. P."
+  },
+  "106959618": {
+   "fragment_id": "106966696",
+   "type": 11,
+   "heading": "Artigo 17.º — Atualização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Atualização\n\n1 - Sem prejuízo do disposto no n.º 3, os valores de base empregues no cálculo da taxa de recursos hídricos são objeto de atualização anual com efeitos a 1 de janeiro de cada ano, com base na variação média disponível dos últimos 12 meses do índice de preços no consumidor relativo ao ano anterior, publicado pelo Instituto Nacional de Estatística, I. P., procedendo-se ao arredondamento anual do resultado para duas casas decimais, ou para a casa decimal seguinte se o valor de base da taxa for inferior a (euro) 0,01.\n\n2 - Sem prejuízo do disposto no número anterior, os valores de base empregues no cálculo da taxa podem ser alterados, ainda que temporariamente, tendo em vista assegurar maior racionalidade na gestão dos recursos hídricos, através de portaria a aprovar pelos membros do Governo responsáveis pelas áreas das finanças, do ambiente e dos setores afetados.\n\n3 - O valor de base relativo à componente S da taxa de recursos hídricos é definido anualmente por despacho dos membros do Governo responsáveis pelas áreas das finanças e do ambiente.\n\n4 - Até ao dia 1 de setembro de cada ano, a APA, I. P., divulga, no seu sítio na Internet, o valor da taxa de recursos hídricos aplicável ao ano subsequente.\n\n> Nota: [Artigo 319.º, Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825) As taxas previstas neste artigo são atualizadas automaticamente, por aplicação do índice de preços no consumidor no continente relativo ao ano anterior, excluindo a habitação, publicado pelo INE, I. P."
+  },
+  "106959619": {
+   "fragment_id": "106966697",
+   "type": 11,
+   "heading": "Artigo 18.º — Afetação da receita",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Afetação da receita\n\n1 - As receitas resultantes da aplicação das componentes A, E, I, O e U da taxa de recursos hídricos são afetas do seguinte modo:\n\na) 50 % para o Fundo Ambiental criado pelo Decreto-Lei n.º 42-A/2016, de 12 de agosto;\n\nb) 50 % para a APA, I. P.;\n\nc) (Revogada.)\n\n2 - A receita resultante da aplicação da componente S da taxa de recursos hídricos é receita própria do Fundo Ambiental, nos termos da alínea i) do n.º 1 do artigo 4.º do Decreto-Lei n.º 42-A/2016, de 12 de agosto.\n\n3 - As receitas resultantes da cobrança da taxa de recursos hídricos são aplicadas do seguinte modo:\n\na) No financiamento das atividades apoiadas pelo Fundo Ambiental;\n\nb) (Revogada.)\n\nc) Na cobertura dos demais custos incorridos na gestão dos recursos hídricos, objeto de utilização e proteção.\n\n4 - Sempre que a APA, I. P., delegue em entidades públicas ou privadas as competências para licenciamento e fiscalização da utilização de recursos hídricos, caberá a estas entidades a receita resultante da aplicação a terceiros da componente U da taxa de recursos hídricos."
+  },
+  "106959620": {
+   "fragment_id": "106966698",
+   "type": 11,
+   "heading": "Artigo 19.º — Fundo de proteção dos recursos hídricos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fundo de proteção dos recursos hídricos\n\n(Revogado.)"
+  },
+  "106959621": {
+   "fragment_id": "106966699",
+   "type": 1,
+   "heading": "Capítulo III — Tarifas dos serviços públicos de águas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Tarifas dos serviços públicos de águas"
+  },
+  "106959622": {
+   "fragment_id": "106966700",
+   "type": 11,
+   "heading": "Artigo 20.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Âmbito\n\nEstão sujeitos ao regime de tarifas todos os utilizadores dos serviços públicos de águas, independentemente da forma de gestão que neles seja adotada."
+  },
+  "106959623": {
+   "fragment_id": "106966701",
+   "type": 11,
+   "heading": "Artigo 21.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Princípios\n\nO regime de tarifas aplicável aos serviços públicos de águas está subordinado aos princípios genericamente estabelecidos pela Lei da Água e pelo presente decreto-lei, devendo permitir a recuperação dos custos associados à provisão destes serviços, em condições de eficiência e mediante a diferenciação contabilística das componentes referidas na alínea zz) do artigo 4.º da Lei da Água, garantir a transparência na formação da tarifa a pagar pelos utilizadores e assegurar o equilíbrio económico e financeiro de cada serviço prestado pelas entidades gestoras."
+  },
+  "106959624": {
+   "fragment_id": "106966702",
+   "type": 11,
+   "heading": "Artigo 22.º — Critérios de fixação do tarifário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Critérios de fixação do tarifário\n\n1 - Nos termos dos artigos 82.º e 102.º da Lei da Água, o regime de tarifas a praticar pelas entidades que prestam os serviços públicos de águas é estabelecido em decreto-lei específico.\n\n2 - O regime tarifário a estabelecer deve, entre outros, atender aos seguintes critérios de fixação:\n\na) Assegurar a recuperação tendencial e em prazo razoável do investimento inicial e dos investimentos de substituição e de expansão, modernização e substituição, deduzidos de comparticipações e subsídios a fundo perdido;\n\nb) Assegurar a manutenção, reparação e renovação de todos os bens e equipamentos afetos ao serviço;\n\nc) Assegurar a recuperação do nível de custos necessários para a operação e a gestão eficiente dos recursos utilizados na prossecução do serviço, deduzidos de outros proveitos não provenientes de tarifas e que se correlacionem com a prestação daquele serviço;\n\nd) Assegurar, quando aplicável, a remuneração adequada do capital investido;\n\ne) Garantir a aplicação de uma tarifa a pagar pelo utilizador final que progrida em função da intensidade da utilização dos recursos hídricos, preservando ao mesmo tempo o acesso ao serviço dos utilizadores domésticos, considerando a sua condição socioeconómica, no que respeita a determinados consumos;\n\nf) Incentivar uma utilização eficiente dos recursos hídricos;\n\ng) Clarificar, quando necessário, as situações abrangidas por diferenciação tarifária.\n\n3 - O regime tarifário deve ser estruturado de forma que assegure o pagamento dos demais encargos obrigatórios por lei, nomeadamente da taxa de recursos hídricos e das taxas devidas a entidades reguladoras."
+  },
+  "106959625": {
+   "fragment_id": "106966703",
+   "type": 11,
+   "heading": "Artigo 23.º — Cálculo e faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Cálculo e faturação\n\n1 - A forma de cálculo das tarifas e da faturação dos serviços públicos de águas, assim como outros aspetos relacionados com o regime tarifário e com as relações com os utilizadores, são estabelecidos em decreto-lei específico.\n\n2 - A fatura apresentada ao utilizador dos serviços públicos de águas deve desagregar todas as taxas e encargos aplicáveis, explicitando o respetivo processo de cálculo."
+  },
+  "106959626": {
+   "fragment_id": "106966704",
+   "type": 1,
+   "heading": "Capítulo IV — Contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Contratos-programa"
+  },
+  "106959627": {
+   "fragment_id": "106966705",
+   "type": 11,
+   "heading": "Artigo 24.º — Enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Enquadramento\n\n1 - Sem prejuízo da legislação que lhes seja genericamente aplicável, os contratos-programa relativos a atividades de gestão de recursos hídricos a celebrar entre a administração central e as autarquias locais, respetivas associações, empresas concessionárias, entidades privadas, cooperativas ou associações de utilizadores subordinam-se aos princípios e regras constantes da Lei da Água e do presente decreto-lei.\n\n2 - Os contratos-programa relativos a atividades de gestão de recursos hídricos devem ter como objetivo fundamental a promoção de uma utilização sustentável dos recursos hídricos, contribuindo para a interiorização dos custos e benefícios associados à utilização da água e privilegiando os usos que assegurem a sua utilização economicamente mais equilibrada e racional, tal como estes são hierarquizados pela Lei da Água e pelos planos de gestão de bacia hidrográfica."
+  },
+  "106959628": {
+   "fragment_id": "106966706",
+   "type": 11,
+   "heading": "Artigo 25.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Objeto\n\nOs contratos-programa relativos a atividades de gestão de recursos hídricos têm por objeto o apoio técnico ou financeiro à realização de investimentos nas seguintes áreas:\n\na) Introdução de novas tecnologias visando a maximização da eficiência na utilização da água e a diminuição do potencial contaminante de emissões poluentes;\n\nb) Instalação de tecnologias de informação, de comunicação e de gestão automática de sistemas de gestão de recursos hídricos;\n\nc) Introdução de técnicas de autocontrolo e monitorização na utilização de água e na emissão de poluição sobre os recursos hídricos;\n\nd) Construção de infraestruturas hidráulicas;\n\ne) Construção de sistemas de abastecimento de água, de drenagem e tratamento de águas residuais e suas componentes;\n\nf) Trabalhos de manutenção e recuperação das margens dos cursos de água e das galerias ripícolas."
+  },
+  "106959629": {
+   "fragment_id": "106966707",
+   "type": 11,
+   "heading": "Artigo 26.º — Modalidades de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Modalidades de apoio\n\n1 - O apoio financeiro a prestar pela administração central no âmbito dos contratos-programa relativos a atividades de gestão de recursos hídricos traduz-se na participação nos respetivos custos de investimento, podendo ser concedido através da prestação de subsídios, concessão de crédito ou bonificação de juros.\n\n2 - O apoio técnico a prestar pela administração central no âmbito dos contratos-programa relativos à gestão de recursos hídricos pode traduzir-se em atividades de formação técnica e profissional, na elaboração de estudos e pareceres, ou no acompanhamento e fiscalização de projetos, entre outras ações."
+  },
+  "106959630": {
+   "fragment_id": "106966708",
+   "type": 11,
+   "heading": "Artigo 27.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Requisitos\n\n1 - Para além dos requisitos genericamente previstos pela lei para a celebração de contratos-programa no âmbito da cooperação técnica e financeira entre a administração central e a administração local, as propostas de contratos-programa relativos à gestão de recursos hídricos devem integrar estudos que evidenciem a contribuição que os projetos em causa podem prestar na concretização dos objetivos fixados nos instrumentos de planeamento dos recursos hídricos em vigor.\n\n2 - Os contratos-programa relativos à gestão de recursos hídricos não podem ser celebrados com entidades que tenham incorrido em incumprimento contratual grave na gestão de sistemas de abastecimento de água, ou de drenagem e tratamento de águas residuais, ou que se encontrem em situação de incumprimento para com as entidades gestoras desses sistemas."
+  },
+  "106959631": {
+   "fragment_id": "106966709",
+   "type": 11,
+   "heading": "Artigo 28.º — Critérios de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Critérios de preferência\n\nA celebração de contratos-programa deve ser feita privilegiando as utilizações hierarquizadas pelos planos de gestão de bacia hidrográfica, pela Lei da Água e pelo regime jurídico da utilização dos recursos hídricos, bem como as soluções coletivas promovidas pelas associações de utilizadores."
+  },
+  "106959632": {
+   "fragment_id": "106966710",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização e contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização e contraordenações"
+  },
+  "106959633": {
+   "fragment_id": "106966711",
+   "type": 11,
+   "heading": "Artigo 29.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Fiscalização\n\nA fiscalização do disposto no presente decreto-lei é realizada pelas ARH, pela Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, pelas autoridades policiais e pelas demais entidades competentes em razão da matéria."
+  },
+  "106959634": {
+   "fragment_id": "106966712",
+   "type": 11,
+   "heading": "Artigo 30.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Contraordenações\n\nÀ violação das obrigações tributárias prescritas no presente decreto-lei aplica-se o genericamente disposto no regime geral das infrações tributárias."
+  },
+  "106959635": {
+   "fragment_id": "106966713",
+   "type": 11,
+   "heading": "Artigo 31.º — Processos de contraordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Processos de contraordenação\n\n1 - A instauração, a instrução e a decisão dos processos de contraordenações, bem como a aplicação das coimas e sanções acessórias, compete à ARH com jurisdição na área da utilização dos recursos hídricos.\n\n2 - O produto da aplicação das coimas resultantes da prática das contraordenações a que se refere o artigo anterior reverte:\n\na) 60 % para o Estado;\n\nb) 40 % para a ARH competente ou outra entidade responsável pela instrução."
+  },
+  "106959636": {
+   "fragment_id": "106966714",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "106959637": {
+   "fragment_id": "106966715",
+   "type": 11,
+   "heading": "Artigo 32.º — Administrações portuárias, empreendimentos de fins múltiplos e aproveitamentos hidroagrícolas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Administrações portuárias, empreendimentos de fins múltiplos e aproveitamentos hidroagrícolas\n\n1 - Até à entrada em vigor do regime económico e financeiro especial das administrações portuárias a que se refere o n.º 4 do artigo 80.º da Lei da Água, mantêm-se em vigor nas áreas de jurisdição das entidades com funções legais de administração portuária as taxas incidentes sobre o uso privativo de terrenos do domínio público hídrico e as taxas incidentes sobre a extração de inertes lançadas pelas administrações portuárias ao abrigo dos respetivos estatutos, bem como as demais taxas e tarifas relacionadas com a exploração portuária, sendo a taxa de recursos hídricos prevista no presente decreto-lei devida apenas no que respeita às componentes A, E e U da sua base tributável.\n\n2 - O valor do coeficiente de eficiência da taxa de recursos hídricos aplicável às águas utilizadas nos aproveitamentos hidroagrícolas ou em empreendimentos de fins múltiplos de natureza predominantemente hidroagrícola é de 0,70, em 2016, e de 0,75, a partir de 2017.\n\n3 - As componentes A e U da taxa de recursos hídricos são objeto de uma redução de 10 %, para os utilizadores agrícolas que comprovem ter instalado e em funcionamento sistemas de medição de caudais.\n\n4 - O disposto no artigo 18.º do presente decreto-lei não prejudica que a afetação de receitas seja determinada segundo critérios específicos no âmbito da gestão de empreendimentos de fins múltiplos, quando tal resulte de diploma especial.\n\n5 - A aplicação da taxa de recursos hídricos não prejudica o regime tarifário aplicável aos aproveitamentos hidroagrícolas, que será adaptado ao disposto no presente decreto-lei."
+  },
+  "106959638": {
+   "fragment_id": "106966716",
+   "type": 11,
+   "heading": "Artigo 33.º — Exercício transitório de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Exercício transitório de competências\n\n(Revogado.)"
+  },
+  "106959639": {
+   "fragment_id": "106966717",
+   "type": 11,
+   "heading": "Artigo 34.º — Cobrança de taxas pelas autarquias locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Cobrança de taxas pelas autarquias locais\n\n1 - As autarquias locais mantêm o poder de cobrar taxas próprias pela utilização do domínio público hídrico da sua titularidade, devendo essas taxas adotar a mesma base de incidência que possui a taxa de recursos hídricos disciplinada pelo presente decreto-lei.\n\n2 - Para efeitos do disposto no número anterior, impende sobre as ARH e as autarquias locais o dever de cooperação recíproca com vista a prevenir situações de concorrência no que respeita às suas competências sobre o domínio público hídrico.\n\n3 - Sempre que à data da entrada em vigor do presente decreto-lei a gestão de uma área integrada em domínio público hídrico do Estado esteja entregue a autarquia local, poderá esta celebrar protocolo com a ARH competente com vista à partilha de informação respeitante à liquidação e cobrança da taxa de recursos hídricos, cabendo à autarquia a correspondente receita."
+  },
+  "106959640": {
+   "fragment_id": "106966718",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nReceitas resultantes da cobrança da taxa de recursos hídricos associada ao processo de regularização da atribuição de títulos de utilização\n\n1 - As receitas resultantes da aplicação da taxa de recursos hídricos no âmbito do processo de regularização da atribuição de títulos de utilização às empresas titulares de centros eletroprodutores, consagrado no artigo 91.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, podem ser determinadas por estimativa fundamentada, atendendo, entre outros elementos, ao período de validade dos referidos títulos e ao aproveitamento estimado dos recursos hídricos pelos centros eletroprodutores, mediante despacho dos membros do Governo responsáveis pelas áreas das finanças, do ambiente e da economia.\n\n2 - As receitas referidas no número anterior são afetas à realização do capital social de sociedades a constituir para efeitos de concretização de operações de requalificação e valorização de zonas de risco e de áreas naturais degradadas situadas no litoral, mediante a inscrição de dotações com compensação em receita no capítulo 60.º da Direção-Geral do Tesouro e Finanças, no orçamento do Ministério das Finanças."
+  },
+  "106959641": {
+   "fragment_id": "106966719",
+   "type": 11,
+   "heading": "Artigo 36.º — Adequação ambiental de grandes utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Adequação ambiental de grandes utilizadores\n\n1 - Sem prejuízo do disposto no n.º 4, as componentes A e U da taxa de recursos hídricos são reduzidas a título definitivo em 50 % para os utilizadores industriais cuja captação de águas exceda o volume anual de 2.000.000 m3, e na parcela correspondente ao excesso, sempre que estes se encontrem em atividade à data da entrada em vigor do presente decreto-lei e comprovem ter realizado uma redução significativa na utilização de recursos hídricos ao longo dos cinco anos anteriores a essa data ou possuir plano de investimentos que a assegure nos cinco anos seguintes.\n\n2 - Sem prejuízo do disposto no n.º 4, a componente E da taxa de recursos hídricos é reduzida a título definitivo em 50 % para os utilizadores industriais cuja captação de águas exceda o volume anual de 2.000.000 m3, sempre que estes se encontrem em atividade à data da entrada em vigor do presente decreto-lei e comprovem ter realizado uma redução significativa na rejeição de efluentes ao longo dos cinco anos anteriores a essa data, ou possuam plano de investimentos que a assegure nos cinco anos seguintes, não sendo esta redução cumulável com a isenção prevista nas alíneas b) e e) do n.º 5 do artigo 8.º\n\n3 - As reduções a que se referem os números anteriores dependem de requerimento dirigido ao membro do Governo responsável pela área do ambiente, acompanhado de parecer dos serviços competentes do ministério em que se insere a atividade do requerente, homologado pelo respetivo membro do Governo.\n\n4 - As reduções previstas no presente artigo ficam sem efeito sempre que se comprove que os utilizadores industriais não concretizaram no prazo de cinco anos os planos de investimento que as fundamentam ou em caso de condenação por contraordenação grave, havendo lugar à liquidação da taxa de recursos hídricos devida pelo período correspondente.\n\n5 - Nos casos previstos no número anterior, pode o utilizador industrial requerer de novo a aplicação da redução nos termos do n.º 3, juntando prova do termo da situação que deu lugar à condenação e da verificação das condições exigidas nos n.os 1 e 2 do presente artigo."
+  },
+  "106959642": {
+   "fragment_id": "106966720",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\nSão revogados o Decreto-Lei n.º 48 483, de 11 de julho de 1968, e a Portaria n.º 797/2004, de 12 julho."
+  },
+  "106959643": {
+   "fragment_id": "106966721",
+   "type": 11,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor em 1 de julho de 2008."
+  }
+ }
+}

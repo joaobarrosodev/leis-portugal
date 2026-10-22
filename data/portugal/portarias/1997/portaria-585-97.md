@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:142338:por
+title: Portaria n.º 585/97
+short_title: null
+summary: Altera as Portarias n.os 587/93, de 11 de Junho, 706/94, de 3 de Agosto, 495/95, de 24 de Maio, e 419/96, de 28 de
+  Agosto, que criaram escolas do ensino básico e secundário em diversos distritos e concelhos e aprovaram os quadros de pessoal
+  docente
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Educação
+proposing_entity: null
+official_number: 585/97
+official_date: null
+publication_date: '1997-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1997, Série I-B de 1997-08-04
+  number: '178'
+  series: I
+  supplement: null
+  pages: 4038 - 4044
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/08/178b00/40384044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/585/1997/08/04/p/dre/pt/html
+  oj: null
+  dre: '142338'
+  dre_path: /dr/detalhe/portaria/585-1997-142338
+  internal: pt:dre:142338:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-1997-142338
+  metadata_url: https://data.dre.pt/eli/port/585/1997/08/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/585-1997-142338
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-08-04T00:00:00Z'
+integrity:
+  source_sha256: 46e099f77a4aabaa46e78a839f70e27bbd9c45fa7e066a9f8ce79680313d2548
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-585-142338.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Ensino Básico
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/419/1996/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/419/1996/08/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/495/1995/05/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/495/1995/05/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/587/1993/06/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/587/1993/06/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/706/1994/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/706/1994/08/03/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 585/97
+
+de 4 de Agosto
+
+As Portarias n.os [587/93](https://diariodarepublica.pt/dr/detalhe/portaria/587-1993-258140), de 11 de Junho, [706/94](https://diariodarepublica.pt/dr/detalhe/portaria/706-1994-230952), de 3 de Agosto, [495/95](https://diariodarepublica.pt/dr/detalhe/portaria/495-1995-529978), de 24 de Maio, e [419/96](https://diariodarepublica.pt/dr/detalhe/portaria/419-1996-401964), de 28 de Agosto, que criaram escolas do ensino básico e secundário em diversos distritos e concelhos para entrarem em funcionamento em 1 de Setembro de 1993, 1994, 1995 e 1996, respectivamente, e aprovaram os quadros do pessoal docente tendo em conta os lugares postos a concurso para os respectivos anos escolares, foram publicadas com alguns lapsos na indicação das vagas de certas escolas, que não foram oportunamente rectificados e que cumpre agora corrigir.
+
+Considerando o disposto nos n.os 1 do artigo 37.º e 3 do artigo 39.º da [Lei n.º 46/86](https://diariodarepublica.pt/dr/detalhe/lei/46-1986-222418), de 14 de Outubro, bem como o disposto nos artigos 26.º e 124.º do Estatuto da Carreira de Educadores de Infância e dos Professores do Ensino Básico e Secundário, aprovado pelo [Decreto-Lei n.º 139-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-1990-411815), de 28 de Abril, nos artigos 2.º e 13.º, n.º 1, do [Decreto-Lei n.º 18/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-1988-506397), de 21 de Janeiro, e no [Decreto-Lei n.º 407/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/407-1989-549814), de 16 de Novembro, bem como o disposto nos Decretos-Leis n.os 519-E2/79, de 29 de Dezembro, e 387/90, de 10 de Dezembro:
+
+Manda o Governo, pelos Ministros das Finanças e da Educação, o seguinte:
+
+1.º No mapa I anexo à [Portaria n.º 587/93](https://diariodarepublica.pt/dr/detalhe/portaria/587-1993-258140), de 11 de Junho, deve entender-se que as 3 vagas atribuídas ao 10.º grupo B, relativas à Escola C + S do Barreiro (código 721 L), se reportam ao 11.º grupo A, sendo acrescentadas 1 vaga no 9.º grupo, relativa à Escola C + S de José Gomes Ferreira, Ferreira do Alentejo (código 035G), e 1 vaga no 11.º grupo A, relativa à Escola C + S de Aldeia Nova de São Bento, Serpa (código 533G), com efeitos a 1 de Setembro de 1993.
+
+2.º No mapa I anexo à [Portaria n.º 706/94](https://diariodarepublica.pt/dr/detalhe/portaria/706-1994-230952), de 3 de Agosto, são acrescentadas 1 vaga no 1.º grupo, 1 vaga no 8.º grupo A e 1 vaga no 11.º grupo B, relativas à Escola dos 2.º e 3.º Ciclos do Ensino Básico de Santa Clara, Évora (código 522D), 2 vagas no grupo de Educação Musical, relativas à Escola dos 2.º e 3.º Ciclos do Ensino Básico do Catujal, Apelação, Loures (código 540T), 1 vaga no 4.º grupo A, 1 vaga no 5.º grupo, 1 vaga no 8.º grupo A, 2 vagas no 11.º grupo B e 1 vaga no grupo de Educação Musical, relativas à Escola dos 2.º e 3.º Ciclos do Ensino Básico de D. João I, Baixa da Banheira, Moita (código 324N), e 1 vaga no 4.º grupo A e 1 vaga no 11.º grupo B, relativas à Escola dos 2.º e 3.º Ciclos do Ensino Básico da Quinta Nova da Telha, Barreiro (código 552K) com efeitos a 1 de Setembro de 1994.
+
+3.º No mapa I anexo à [Portaria n.º 495/95](https://diariodarepublica.pt/dr/detalhe/portaria/495-1995-529978), de 24 de Maio, são acrescentadas 1 vaga no 5.º grupo, relativa à Escola C + S de D. Martinho Vaz de Castelo Branco, Póvoa de Santa Iria, Vila Franca de Xira (código 758H), 13 vagas no grupo TMF relativas à Escola dos 2.º e 3.º Ciclos do Ensino Básico de D. Paio Peres de Correia, Tavira n.º 2 (código A51Q), 6 vagas no grupo TMM, relativas à Escola dos 2.º e 3.º Ciclos do Ensino Básico de Mário Beirão, Beja (código 032D), 1 vaga no grupo RC relativa à Escola Preparatória de Damião de Góis (código 191A), 1 vaga no 8.º grupo B relativa à Escola Secundária de João Silva Correia (código 406J), 1 vaga no grupo RC, relativa à Escola dos 2.º e 3.º Ciclos do Ensino Básico de Arcos de Valdevez (código 334Q), 1 vaga no 5.º grupo, relativa à Escola dos 2.º e 3.º Ciclos do Ensino Básico e à Escola Preparatória de Vila Praia de Âncora (código 506N), 1 vaga no 5.º grupo, relativa à Escola dos 2.º e 3.º Ciclos do Ensino Básico das Caldas das Taipas (código 053J), 1 vaga no 4.º grupo A, 1 vaga no 5.º grupo, 2 vagas no 8.º grupo B, 1 vaga no 10.º grupo A, 1 vaga no 11.º grupo A e 1 vaga no grupo de Educação Física, relativas à Escola Secundária de Casal de Cambra (código A28K), 1 vaga no 9.º grupo relativa à Escola dos 2.º e 3.º Ciclos do Ensino Básico de Santo André (código 572P), 1 vaga no grupo de Educação Física, relativa à Escola dos 2.º e 3.º Ciclos do Ensino Básico de Mouzinho da Silveira, Moita (código 599K), com efeitos a partir de 1 de Setembro de 1995.
+
+4.º O mapa I anexo à [Portaria n.º 419/96](https://diariodarepublica.pt/dr/detalhe/portaria/419-1996-401964), de 28 de Agosto, é acrescido dos lugares constantes do mapa anexo, com efeitos a partir de 1 de Setembro de 1996.
+
+5.º As nomeações do pessoal docente referidas nesta portaria que tenham, respectivamente, obtido colocação em lugar do quadro da Escola, nos anos escolares de 1993-1994, 1994-1995, 1995-1996 e 1996-1997, devem ser enviadas ao Tribunal de Contas, para efeitos de visto, no prazo de 15 dias após a publicação da presente portaria.
+
+Ministérios das Finanças e da Educação.
+
+**Assinada em 24 de Junho de 1997.**
+
+Pelo Ministro das Finanças, Maria Manuela de Brito Arcanjo Marques da Costa, Secretária de Estado do Orçamento. - O Ministro da Educação, Eduardo Carrega Marçal Grilo.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1997/08/178b00/40384044.pdf))](https://files.diariodarepublica.pt/1s/1997/08/178b00/40384044.pdf)

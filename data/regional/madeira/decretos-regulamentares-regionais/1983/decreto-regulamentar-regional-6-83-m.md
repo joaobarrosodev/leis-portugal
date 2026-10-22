@@ -1,0 +1,246 @@
+---
+schema_version: '1.0'
+id: pt:dre:310402:por
+title: Decreto Regulamentar Regional n.º 6/83/M
+short_title: null
+summary: Aplica à Região Autónoma da Madeira, com as adaptações necessárias, o disposto no Decreto Regulamentar n.º 43/82,
+  de 22 de Julho
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Governo Regional - Gabinete da Presidência
+proposing_entity: null
+official_number: 6/83/M
+official_date: null
+publication_date: '1983-03-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 61/1983, Série I de 1983-03-15
+  number: '61'
+  series: I
+  supplement: null
+  pages: 906 - 908
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/03/06100/09060908.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '310402'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/6-1983-310402
+  internal: pt:dre:310402:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1983-310402
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-1983-310402
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1983-03-15T00:00:00Z'
+integrity:
+  source_sha256: 5e037d42a6c32b81c621d939f50e052be9e0efd9a451f6e6c054e19756437f83
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/1983/DRE-1983-6-310402.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 22
+  section_count: 6
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 6/83/M
+
+Aplicação à Região Autónoma da Madeira, com as adaptações necessárias, do disposto no [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho.
+
+1. Constituindo um imperativo de ordem social rever o regime de segurança social do pessoal do serviço doméstico, com vista a inverter alguma das realidades que a experiência e os dados estatísticos têm revelado como descaracterizadoras do seguro social obrigatório que vem cobrindo aquele estrato profissional.
+
+2. Sendo certo que uma dessas situações passa pela revisão do actual regime contributivo de características puramente simbólicas, mas com a contrapartida de um esquema de prestações cujos quantitativos são todavia actualizados anualmente, por força dos princípios de intercomunicação e compensação financeiras próprias do sistema de segurança social.
+
+3. Afigurando-se, consequentemente, necessário mandar aplicar à Região, com as adaptações tornadas necessárias, o [Decreto Regulamentar n.º 43/82](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1982-394109), de 22 de Julho, que introduz as modificações desejadas para o reordenamento global da inclusão daqueles profissionais no regime geral da segurança social:
+
+O Governo decreta, nos termos da alínea b) do n.º 1 do artigo 229.º da Constituição, o seguinte:
+
+### CAPÍTULO I — Do campo de aplicação pessoal e da inscrição
+
+###### Artigo 1.º — (Campo de aplicação pessoal)
+
+Os profissionais do serviço doméstico e as respectivas entidades patronais são obrigatoriamente abrangidos, como beneficiários e contribuintes, pelo regime geral da segurança social, a cujas regras ficam sujeitos, com as particularidades constantes deste diploma.
+
+###### Artigo 2.º — (Situações excluídas)
+
+1 - Não são abrangidas pelo presente diploma as pessoas ligadas à entidade contribuinte pelos seguintes vínculos familiares:
+
+a) O cônjuge;
+
+b) Os descendentes até ao 2.º grau ou equiparados e afins;
+
+c) Os ascendentes ou equiparados e afins;
+
+d) Os irmãos e afins.
+
+2 - São igualmente excluídas as pessoas que em relação às entidades patronais se encontrem na situação de união de facto prevista no artigo 2020.º do Código Civil.
+
+###### Artigo 3.º — (Inscrição)
+
+1 - A inscrição incumbe à entidade patronal e será efectuada com base em boletim de identificação, o qual deverá ser entregue anteriormente ou em simultâneo com a entrada da primeira contribuição.
+
+2 - O boletim de inscrição será acompanhado dos documentos seguintes:
+
+a) Certidão de registo de nascimento, bilhete de identidade, cédula pessoal ou outro documento de identificação bastante;
+
+b) Declaração de modelo próprio, a fornecer pelos serviços da Direcção Regional e a preencher pela entidade patronal que tiver admitido o trabalhador, com a assinatura reconhecida notarialmente;
+
+c) Fotocópia de boletim ou cartão comprovativo do número fiscal de contribuinte.
+
+3 - As declarações expressas nos boletins de inscrição serão confirmadas pela junta de freguesia do local de trabalho.
+
+4 - A Direcção Regional da Segurança Social pode, a todo o tempo, exigir outros meios de prova das declarações contidas no boletim de inscrição ou promover oficiosamente a recolha de elementos adequados a essa confirmação.
+
+### CAPÍTULO II — Das prestações
+
+###### Artigo 4.º — (Esquemas das prestações)
+
+Os trabalhadores abrangidos pelo presente diploma e respectivos familiares têm direito às prestações do regime geral da segurança social.
+
+###### Artigo 5.º — (Cálculo das prestações)
+
+As prestações estabelecidas em função das remunerações serão calculadas com referência às importâncias que serviram de base à incidência das contribuições.
+
+###### Artigo 6.º — (Subsídio por doença)
+
+A concessão de subsídio por doença depende de, em nome do beneficiário, terem entrado contribuições correspondentes a, pelo menos, 80 horas no conjunto dos 3 meses anteriores ao da baixa, desde que verificados os demais requisitos legais.
+
+### CAPÍTULO III — Das contribuições
+
+#### SECÇÃO I — Bases de incidência contributiva
+
+###### Artigo 7.º — (Base geral de incidência das contribuições)
+
+1 - As contribuições serão calculadas com base numa importância correspondente a 70% do valor da remuneração mínima mensal garantida por lei aos profissionais do serviço doméstico.
+
+2 - Para efeitos contributivos, os valores da remuneração por dia e por hora serão calculados sobre a importância que constitui a base de incidência referida no número anterior, de acordo com as seguintes fórmulas:
+
+Rd = (Rmm x 70%)/30
+
+Rh = (Rmm x 70% x 12)/(52 x 40)
+
+em que Rd corresponde ao valor da remuneração diária, Rmm ao valor da remuneração mínima mensal garantida aos profissionais do serviço doméstico e Rh ao valor da remuneração horária.
+
+3 - Os valores das remunerações diária e horária calculados nos termos do número anterior serão sempre arredondados para a unidade em escudos imediatamente superior nos casos em que do cálculo resultem valores expressos em centavos.
+
+###### Artigo 8.º — (Incidência contributiva sobre remunerações correspondentes a trabalho mensal em regime de tempo completo)
+
+1 - As contribuições relativas aos beneficiários contratados ao mês em regime de tempo completo serão calculadas sobre o valor que serve de base de incidência, nos termos do n.º 1 do artigo 7.º
+
+2 - Mediante acordo escrito entre os beneficiários e as entidades patronais, comunicado até ao final do mês de Novembro de cada ano aos serviços da Direcção Regional da Segurança Social, as contribuições poderão incidir, a partir do mês de Janeiro seguinte, sobre as remunerações efectivamente recebidas, desde que superiores ao montante previsto no número anterior, até ao limite de duas vezes e meia a remuneração mínima mensal garantida por lei aos profissionais do serviço doméstico.
+
+3 - A opção pelo regime de incidência contributiva previsto no n.º 2 só pode ser formulada até o beneficiário perfazer 50 anos de idade.
+
+###### Artigo 9.º — (Incidência contributiva nos casos de trabalho em regime de contrato mensal, mas exercido por período inferior a 1 mês.)
+
+1 - As contribuições devidas pelos beneficiários nas condições previstas no artigo anterior que não prestem serviço durante todo o mês, por motivo de admissão, cessação de contrato de trabalho, baixa por doença ou qualquer outra causa, serão calculadas com base na remuneração correspondente ao número de dias de trabalho efectivamente prestado.
+
+2 - Para efeitos do número anterior, a remuneração diária será determinada de acordo com o disposto no n.º 2 do artigo 7.º ou, se for caso disso, com o preceituado no n.º 2 do artigo 8.º
+
+###### Artigo 10.º — (Beneficiários não contratados ao mês)
+
+As contribuições devidas pelo trabalho prestado por beneficiários não contratados ao mês em regime de tempo completo serão sempre calculadas sobre o valor da remuneração horária.
+
+###### Artigo 11.º — (Número mínimo mensal de horas a declarar para efeitos contributivos)
+
+O número mensal de horas a declarar para efeitos contributivos não pode, em qualquer circunstância, ser inferior a 30 por cada beneficiário e respectiva entidade patronal, ou cada uma delas, se houver mais do que uma.
+
+###### Artigo 12.º — (Taxas de contribuições)
+
+As taxas de contribuições para os profissionais do serviço doméstico e respectivas entidades patronais serão as fixadas para o regime geral da segurança social.
+
+#### SECÇÃO II — Prazos e formas de pagamento
+
+###### Artigo 13.º — (Prazos)
+
+Os prazos para pagamento das contribuições serão os fixados pela Direcção Regional da Segurança Social.
+
+###### Artigo 14.º — (Folhas-guias de pagamento)
+
+1 - O pagamento das contribuições será feito por meio de folhas-guias de remessa, de modelo estabelecido pela Direcção Regional da Segurança Social.
+
+2 - As folhas-guias de pagamento de contribuições têm o valor de folhas de remunerações, para todos os efeitos legais.
+
+###### Artigo 15.º — (Periodicidade e forma de pagamento das contribuições)
+
+O pagamento das contribuições poderá ser efectuado por períodos superiores a 1 mês, nos termos do que vier a ser fixado pelo Plenário do Governo.
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 16.º — (Gestão do regime)
+
+O exercício da gestão e a concessão das prestações previstas neste diploma competem ao Centro Nacional de Pensões e aos serviços da Direcção Regional da Segurança Social.
+
+###### Artigo 17.º — (Bases de incidência transitórias)
+
+1 - A partir da entrada em vigor do presente diploma, as contribuições serão transitoriamente calculadas com base numa importância correspondente a 35% do valor da remuneração mínima mensal garantida por lei aos profissionais do serviço doméstico.
+
+2 - Até que seja atingida a base de incidência definitiva prevista no artigo 7.º, a percentagem referida no número anterior será acrescida de 5% simultaneamente com a entrada em vigor dos novos montantes da remuneração mínima mensal dos profissionais do serviço doméstico que venham a ser fixados posteriormente à entrada em vigor do presente diploma.
+
+###### Artigo 18.º — (Contagem de tempo de inscrição)
+
+Os tempos de inscrição e de contribuição ao abrigo do regime especial estabelecido no [Decreto-Lei n.º 81/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-1973-684580), de 2 de Março, e suas normas regulamentares contam para efeito de concessão de benefícios do regime geral.
+
+###### Artigo 19.º — (Situações não excluídas)
+
+Ficam abrangidas pelo presente diploma as pessoas nalguma das situações previstas no artigo 2.º cuja inscrição tenha sido efectuada ao abrigo das disposições legais e regulamentares referentes à segurança social dos profissionais do serviço doméstico anteriormente em vigor.
+
+###### Artigo 20.º — (Regime subsidiário)
+
+Em tudo o que não se encontre expressamente previsto no presente diploma aplicar-se-ão as disposições legais regulamentares do regime geral.
+
+###### Artigo 21.º — (Resolução de dúvidas)
+
+As dúvidas que se suscitarem na aplicação do presente diploma serão resolvidas nos termos legais.
+
+###### Artigo 22.º — (Entrada em vigor)
+
+O presente diploma entra em vigor no dia 1 de Fevereiro de 1983.
+
+Aprovado em Plenário do Governo aos 6 de Janeiro de 1983.
+
+**O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.**
+
+**Assinado em 28 de Janeiro de 1983.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.**

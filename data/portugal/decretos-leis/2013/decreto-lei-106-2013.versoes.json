@@ -1,0 +1,445 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:498708:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-165265483",
+ "dre_path": "/dr/detalhe/decreto-lei/106-2013-498708",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2013-07-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "165265582",
+    "165265583",
+    "165265584",
+    "165265585",
+    "165265586",
+    "165265587",
+    "165265588",
+    "165265589",
+    "165265590",
+    "165265591",
+    "165265592",
+    "165265593",
+    "165265594",
+    "165265595",
+    "165265596",
+    "165265597",
+    "165265598",
+    "165265599",
+    "165265600",
+    "165265601",
+    "165265602",
+    "165265603",
+    "165265604",
+    "165265605",
+    "165265606",
+    "165265607",
+    "165265608",
+    "165265609",
+    "165265610",
+    "165265611",
+    "165265612",
+    "165265613",
+    "165265614",
+    "165265615",
+    "165265616",
+    "165265617",
+    "165265618",
+    "165265619",
+    "165265620"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "165265582",
+    "165265583",
+    "165265584",
+    "165265585",
+    "165265586",
+    "165265587",
+    "165265588",
+    "165265589",
+    "165265590",
+    "165265591",
+    "165265592",
+    "165265593",
+    "165265594",
+    "165265595",
+    "165265596",
+    "165265597",
+    "165265598",
+    "165265599",
+    "165261868",
+    "165265601",
+    "165265602",
+    "165265603",
+    "165265604",
+    "165265605",
+    "165265606",
+    "165265607",
+    "165265608",
+    "165265609",
+    "165265610",
+    "165265611",
+    "165265612",
+    "165265613",
+    "165265614",
+    "165265615",
+    "165265616",
+    "165265617",
+    "165265618",
+    "165265619",
+    "165265620",
+    "165265621"
+   ]
+  }
+ ],
+ "fragments": {
+  "165265582": {
+   "fragment_id": "165265484",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 106/2013\n\nde 30 de julho\n\nO XIX Governo Constitucional reconhece o contributo inegável das organizações não governamentais da área da deficiência, no processo de inclusão ativa das pessoas com deficiência, na promoção da sua autonomia e qualidade de vida.\n\nA Lei n.º 127/99, de 20 de agosto, alterada pela Lei n.º 37/2004, de 13 de agosto, define os direitos de participação e de intervenção das associações de pessoas com deficiência junto da Administração Central, Regional e Local, tendo por finalidade a eliminação de todas as formas de discriminação e a promoção da igualdade entre pessoas com deficiência e os restantes cidadãos.\n\nDecorridos cerca de 14 anos sobre a entrada em vigor da Lei n.º 127/99, de 20 de agosto, verifica-se a necessidade de proceder à atualização de conceitos e terminologias em vigor, bem como proceder a uma harmonização linguística e à clarificação de princípios e de requisitos que, embora já previstos, carecem de maior adequação.\n\nA Convenção das Nações Unidas sobre os Direitos das Pessoas com Deficiência prevê, entre outras medidas, que os Estados Partes, como é o caso de Portugal, encorajem a participação das pessoas com deficiência nos assuntos públicos, incluindo a participação em organizações e associações não governamentais ligadas à vida pública e política do país e na constituição e adesão a organizações de pessoas com deficiência para as representarem a nível internacional, nacional, regional e local.\n\nA Constituição da República Portuguesa estabelece não só que os cidadãos com deficiência gozam plenamente dos direitos e estão sujeitos aos deveres consignados na Constituição, com ressalva do exercício ou do cumprimento daqueles para os quais se encontrem incapacitados, como prevê que o Estado deve apoiar as organizações de cidadãos com deficiência.\n\nPor sua vez, a Lei n.º 38/2004, de 18 de agosto, que define as bases gerais do regime jurídico da prevenção, habilitação, reabilitação e participação da pessoa com deficiência, prevê que o Estado pode atribuir a entidades públicas e privadas a promoção e o desenvolvimento da política nacional de prevenção, habilitação, reabilitação e participação, designadamente e em especial, às organizações representativas das pessoas com deficiência, assim como deve apoiar as ações desenvolvidas por estas organizações.\n\nAs organizações da área da deficiência têm vindo a assumir um importante papel na sociedade portuguesa, que se traduz, por um lado, na representatividade das pessoas com deficiência e suas famílias nos diferentes fóruns, formais ou informais, de âmbito internacional e nacional e, por outro lado, na estreita articulação com os diferentes organismos da Administração Pública para o desenvolvimento das respostas sociais mais adequadas às necessidades destes cidadãos.\n\nO conhecimento sobre a dinâmica e os processos de crescimento e de desenvolvimento organizacionais evidenciam que o percurso destas organizações sociais tem sofrido alterações, tanto no que diz respeito à orientação da sua missão e valores, como no que respeita à natureza jurídica que assumem, com o propósito de melhor corresponder aos desafios e às necessidades das pessoas com deficiência.\n\nNo âmbito da deficiência, a família constitui um elemento chave no processo de intervenção e de reabilitação, surgindo muitas vezes associada à constituição de organizações movidas pelo particular interesse em fazer parte da construção de respostas para aquele universo de cidadãos. Neste contexto, a família pode assumir a representatividade das pessoas com deficiência, quando os próprios se encontrem impossibilitados do exercício dos seus direitos.\n\nTendo presente o enunciado quadro normativo, e considerando uma nova filosofia que deve reger o relacionamento entre as organizações da sociedade civil e a Administração Pública, que potencie a eficiência, a eficácia e a qualidade da intervenção das organizações não governamentais da área da deficiência, a sua audição e a sua participação efetiva nas políticas a desenvolver, promovendo acréscimos de equidade, de igualdade, de transparência e de rigor nos apoios atribuídos, o presente diploma procede à regulamentação da Lei n.º 127/99, de 20 de agosto, definindo o estatuto das organizações não governamentais das pessoas com deficiência, bem como os apoios a conceder pelo Estado a tais organizações.\n\nEm concreto, estabelece-se o regime da constituição, do âmbito, do objeto e da natureza jurídica destas organizações, bem como se estatuem regras sobre a sua representatividade e o regime aplicável aos seus dirigentes.\n\nCom a presente regulamentação, para além de se clarificarem os aspetos supra referidos, permite-se que aquelas organizações assumam um papel cada vez mais relevante junto da sociedade e das pessoas com deficiência, na defesa dos seus direitos, tendo em vista a plena inclusão económica, social e política das pessoas que representam.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas.\n\nFoi ouvido um vasto conjunto de organizações não governamentais das pessoas com deficiência.\n\nAssim:\n\nNos termos do artigo 13.º da Lei n.º 127/99, de 20 de agosto, alterada pela Lei n.º 37/2004, de 13 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "165265583": {
+   "fragment_id": "165265485",
+   "type": 1,
+   "heading": "Capítulo I — Das disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Das disposições gerais"
+  },
+  "165265584": {
+   "fragment_id": "165265486",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\n1 - O presente decreto-lei define o estatuto das organizações não governamentais das pessoas com deficiência, doravante designadas por ONGPD, bem como os apoios a conceder pelo Estado a tais organizações.\n\n2 - O presente decreto-lei aplica-se às ONGPD constituídas por iniciativa de particulares, nos termos da lei geral, com o propósito de defenderem os direitos e interesses legalmente protegidos das pessoas com deficiência, bem como pugnarem pela participação social dos mesmos, desde que não sejam administradas pelo Estado.\n\n3 - O presente decreto-lei aplica-se ainda, com as necessárias adaptações, às uniões, federações e confederações previstas no artigo seguinte."
+  },
+  "165265585": {
+   "fragment_id": "165265487",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza jurídica\n\n1 - Independentemente da forma jurídica, as ONGPD são pessoas coletivas de direito privado sem fins lucrativos.\n\n2 - As ONGPD podem agrupar-se em uniões, federações e confederações.\n\n3 - As ONGPD e as uniões, federações ou confederações de âmbito nacional podem filiar-se em organizações internacionais com fins idênticos ou similares."
+  },
+  "165265586": {
+   "fragment_id": "165265488",
+   "type": 11,
+   "heading": "Artigo 3.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos\n\n1 - As ONGPD prosseguem os seguintes objetivos:\n\na) A defesa e promoção dos direitos e interesses das pessoas com deficiência e suas famílias, em ordem à integração social e familiar dos seus membros, à respetiva valorização e realização pessoal e profissional;\n\nb) A eliminação de todas as formas de discriminação das pessoas com deficiência;\n\nc) A promoção da igualdade de tratamento das pessoas com deficiência.\n\n2 - Além dos objetivos enunciados no número anterior, as ONGPD podem prosseguir outros fins que com aqueles sejam compatíveis."
+  },
+  "165265587": {
+   "fragment_id": "165265489",
+   "type": 11,
+   "heading": "Artigo 4.º — Classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Classificação\n\n1 - As ONGPD têm âmbito de atuação nacional, regional ou local.\n\n2 - Consideram-se de âmbito nacional, as ONGPD que preencham, cumulativamente, os seguintes requisitos:\n\na) Resulte dos respetivos estatutos o seu âmbito nacional;\n\nb) Aceitem residentes em qualquer parte do território nacional;\n\nc) Desenvolvam atividades em que participem pessoas com deficiência residentes em, pelo menos, um terço dos distritos do país.\n\n3 - Consideram-se de âmbito regional, as ONGPD que preencham, cumulativamente, os seguintes requisitos:\n\na) Desenvolvam atividades em, pelo menos, três distritos de Portugal continental ou sejam sedeadas numa região autónoma;\n\nb) Tenham pelo menos 150 associados.\n\n4 - Consideram-se de âmbito local, as ONGPD que, não preenchendo os requisitos previstos nos n.os 2 e 3, tenham um mínimo de 25 associados."
+  },
+  "165265588": {
+   "fragment_id": "165265490",
+   "type": 11,
+   "heading": "Artigo 5.º — Direitos de participação e de intervenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direitos de participação e de intervenção\n\n1 - As ONGPD têm o direito de participar na definição das políticas e das grandes linhas de orientação legislativa no domínio da reabilitação e integração das pessoas com deficiência.\n\n2 - No caso de crime cometido contra pessoa com deficiência, praticado em razão dessa deficiência, as ONGPD gozam do direito de se constituírem como assistentes nos respetivos processos, nos termos do n.º 3 do artigo 4.º da Lei n.º 127/99, de 20 agosto, alterada pela Lei n.º 37/2004, de 13 de agosto."
+  },
+  "165265589": {
+   "fragment_id": "165265491",
+   "type": 11,
+   "heading": "Artigo 6.º — Representatividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Representatividade\n\n1 - Têm representatividade genérica as ONGPD de âmbito nacional, as uniões, federações e confederações, gozando designadamente dos seguintes direitos:\n\na) Estatuto de parceiro social nos órgãos de consulta ou concertação com competência no domínio da prevenção da deficiência, da reabilitação e da equiparação de oportunidades das pessoas com deficiência através dos seus representantes;\n\nb) Representação no Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social;\n\nc) Representação no Conselho Económico e Social;\n\nd) Direito a tempo de antena na rádio e televisão.\n\n2 - As ONGPD de âmbito regional e local têm o direito de se fazerem representar em órgãos de consulta e de participação social, de nível regional e local."
+  },
+  "165265590": {
+   "fragment_id": "165265492",
+   "type": 11,
+   "heading": "Artigo 7.º — Autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Autonomia\n\n1 - As ONGPD prosseguem de forma autónoma os seus objetivos nos domínios relevantes para a prevenção, habilitação, reabilitação e participação das pessoas com deficiência.\n\n2 - As ONGPD escolhem livremente as suas áreas de atuação e prosseguem autonomamente a sua atividade.\n\n3 - As ONGPD estabelecem livremente a sua organização interna, no respeito pelas respetivas disposições estatutárias e pela legislação aplicável."
+  },
+  "165265591": {
+   "fragment_id": "165265493",
+   "type": 1,
+   "heading": "Capítulo II — Do apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do apoio do Estado"
+  },
+  "165265592": {
+   "fragment_id": "165265494",
+   "type": 11,
+   "heading": "Artigo 8.º — Apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apoio do Estado\n\n1 - O Estado apoia e valoriza o contributo das ONGPD na definição e na execução da política nacional de prevenção, habilitação, reabilitação e participação das pessoas com deficiência.\n\n2 - O apoio do Estado não constitui limitação ao direito de livre atuação das ONGPD.\n\n3 - O apoio do Estado às ONGPD pode assumir a forma de apoio ao funcionamento ou de apoio a projetos.\n\n4 - O Instituto Nacional para a Reabilitação, I.P. (INR, I.P.) é o principal interlocutor institucional de apoio às ONGPD."
+  },
+  "165265593": {
+   "fragment_id": "165265495",
+   "type": 11,
+   "heading": "Artigo 9.º — Apoio ao funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apoio ao funcionamento\n\n1 - As ONGPD de representação genérica têm direito a apoio financeiro ao funcionamento, concedido pelo INR, I. P., de acordo com critérios de igualdade e equidade, fixados em protocolo de cooperação, que deve ser sujeito a publicitação no sítio eletrónico daquele Instituto.\n\n2 - O apoio referido no número anterior destina-se a fazer face a despesas gerais de funcionamento, designadamente, as relativas a consumos de água, de eletricidade e de telecomunicações.\n\n3 - O apoio referido no n.º 1 depende do registo das ONGPD junto do INR, I. P., e cessa quando as mesmas recebam qualquer outro tipo de apoio para o mesmo fim, por parte de outros serviços ou organismos da Administração Pública."
+  },
+  "165265594": {
+   "fragment_id": "165265496",
+   "type": 11,
+   "heading": "Artigo 10.º — Apoio a projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Apoio a projetos\n\nO Estado, através do INR, I. P., presta apoio técnico e financeiro aos projetos das ONGPD que promovam os direitos das pessoas com deficiência e a sua qualidade de vida, nos termos previstos em regulamento aprovado anualmente pelo presidente do conselho diretivo do INR, I. P., e sujeito a publicação no Diário da República."
+  },
+  "165265595": {
+   "fragment_id": "165265497",
+   "type": 11,
+   "heading": "Artigo 11.º — Relatórios de atividades e de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Relatórios de atividades e de contas\n\nAs ONGPD que aufiram apoios previstos no presente decreto-lei apresentam anualmente, ao INR, I. P., os relatórios de atividades e de contas."
+  },
+  "165265596": {
+   "fragment_id": "165265498",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscalização\n\nAs ONGPD, ou as suas delegações, que aufiram apoios previstos no presente decreto-lei estão sujeitas à realização de inquéritos, sindicâncias e inspeções ordenados pelo INR, I. P."
+  },
+  "165265597": {
+   "fragment_id": "165265499",
+   "type": 11,
+   "heading": "Artigo 13.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Incumprimento\n\n1 - As ONGPD que não cumpram o estipulado no protocolo de cooperação referido no n.º 1 do artigo 9.º e ou no regulamento previsto no artigo 10.º, ficam sujeitas às sanções neles previstas.\n\n2 - A devolução pelas ONGPD de montantes recebidos ao abrigo dos apoios previstos no presente decreto-lei, quando tenha lugar no próprio ano e na totalidade, é feita junto do INR, I. P.\n\n3 - Com exceção dos casos referidos no número anterior, o processo de devolução segue os termos da reposição de dinheiros públicos, previsto no regime da administração financeira do Estado, incluindo a possibilidade de reposição em prestações.\n\n4 - Para efeitos do disposto nos números anteriores, o INR, I. P., dá conhecimento ao serviço que tem competência para a instrução de processos no âmbito do regime da administração financeira do Estado.\n\n5 - As ONGPD que tenham de proceder à devolução de verbas, não podem candidatar-se novamente aos apoios previstos no presente decreto-lei, salvo se fizerem prova da existência de acordo de pagamento."
+  },
+  "165265598": {
+   "fragment_id": "165265500",
+   "type": 1,
+   "heading": "Capítulo III — Do registo das ONGPD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do registo das ONGPD"
+  },
+  "165265599": {
+   "fragment_id": "165265501",
+   "type": 11,
+   "heading": "Artigo 14.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Registo\n\n1 - O INR, I. P., organiza um registo das ONGPD, que tem por objetivos:\n\na) Comprovar a natureza e os fins das ONGPD;\n\nb) Permitir o apoio financeiro ao funcionamento geral;\n\nc) Sistematizar a informação sobre as ONGPD.\n\n2 - O registo previsto no número anterior é regulamentado por portaria do membro do Governo responsável pela área da solidariedade e da segurança social."
+  },
+  "165265600": {
+   "fragment_id": "165265502",
+   "type": 11,
+   "heading": "Artigo 15.º — Utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Utilidade pública\n\nSem prejuízo do disposto no artigo 10.º da Lei n.º 127/99, de 20 de agosto, alterada pela Lei n.º 37/2004, de 13 de agosto, as ONGPD registadas nos termos do artigo anterior adquirem automaticamente a natureza de pessoas coletivas de utilidade pública."
+  },
+  "165265601": {
+   "fragment_id": "165265503",
+   "type": 1,
+   "heading": "Capítulo IV — Da constituição, da organização interna e da extinção das ONGPD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da constituição, da organização interna e da extinção das ONGPD"
+  },
+  "165265602": {
+   "fragment_id": "165265504",
+   "type": 8,
+   "heading": "Secção I — Da constituição das ONGPD e dos seus estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Da constituição das ONGPD e dos seus estatutos"
+  },
+  "165265603": {
+   "fragment_id": "165265505",
+   "type": 11,
+   "heading": "Artigo 16.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Constituição\n\nAs ONGPD e suas uniões, federações ou confederações, constituem-se nos termos da lei geral e adquirem o estatuto de ONGPD ao abrigo do disposto no presente decreto-lei."
+  },
+  "165265604": {
+   "fragment_id": "165265506",
+   "type": 11,
+   "heading": "Artigo 17.º — Elaboração dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Elaboração dos estatutos\n\n1 - As ONGPD regem-se por estatutos livremente elaborados, com respeito pelas disposições do presente decreto-lei e pela demais legislação aplicável.\n\n2 - Dos estatutos das ONGPD deve constar, obrigatoriamente:\n\na) A denominação, que não pode confundir-se com a de instituições já existentes;\n\nb) A sede e âmbito de ação;\n\nc) Os fins e atividades;\n\nd) A denominação, a composição e a competência dos órgãos sociais;\n\ne) A forma de designação dos respetivos membros;\n\nf) As respetivas fontes de financiamento.\n\n3 - As ONGPD que prossigam fins de diversa natureza devem mencionar nos estatutos aqueles que consideram como fins principais."
+  },
+  "165265605": {
+   "fragment_id": "165265507",
+   "type": 8,
+   "heading": "Secção II — Da organização interna e da extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Da organização interna e da extinção"
+  },
+  "165265606": {
+   "fragment_id": "165265508",
+   "type": 11,
+   "heading": "Artigo 18.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Órgãos\n\n1 - Em cada ONGPD existem, pelo menos, os seguintes órgãos colegiais:\n\na) A assembleia geral de associados;\n\nb) A direção, com funções de administração;\n\nc) O conselho fiscal, com funções de fiscalização.\n\n2 - Os órgãos previstos no número anterior são integrados por um número ímpar de titulares, um dos quais é o presidente do respetivo órgão."
+  },
+  "165265607": {
+   "fragment_id": "165265509",
+   "type": 11,
+   "heading": "Artigo 19.º — Deveres dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Deveres dos órgãos\n\nOs órgãos das ONGPD encontram-se sujeitos aos seguintes deveres:\n\na) Elaborar e apresentar planos de atividades e relatórios de contas e de atividades;\n\nb) Manter contabilidade organizada nos termos da lei;\n\nc) Manter regularizada a situação contributiva perante a administração tributária e a segurança social."
+  },
+  "165265608": {
+   "fragment_id": "165265510",
+   "type": 11,
+   "heading": "Artigo 20.º — Organização interna, gestão, modificação e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Organização interna, gestão, modificação e extinção\n\nEm matéria de organização interna, gestão, modificação e extinção, as ONGPD regem-se pelas disposições legais em vigor, aplicáveis consoante o âmbito de atuação, e subsidiariamente, pelo disposto na presente secção."
+  },
+  "165265609": {
+   "fragment_id": "165265511",
+   "type": 11,
+   "heading": "Artigo 21.º — Funcionamento dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Funcionamento dos órgãos\n\n1 - Salvo disposição legal ou estatutária em contrário, as deliberações dos órgãos das ONGPD são tomadas por maioria de votos dos titulares presentes, tendo o presidente voto de qualidade.\n\n2 - As votações respeitantes à eleição dos órgãos sociais ou a assuntos de incidência pessoal dos seus membros, são feitas por escrutínio secreto, podendo os estatutos prever outros casos em que este modo de escrutínio é obrigatório.\n\n3 - São sempre lavradas atas das reuniões de qualquer órgão da ONGPD, as quais são obrigatoriamente assinadas por todos os membros presentes, ou, quando respeitem a reuniões da assembleia geral, pelos membros da respetiva mesa."
+  },
+  "165265610": {
+   "fragment_id": "165265512",
+   "type": 11,
+   "heading": "Artigo 22.º — Forma de a ONGPD se obrigar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Forma de a ONGPD se obrigar\n\nCaso os estatutos sejam omissos, a ONGPD obriga-se com as assinaturas conjuntas dos três membros da direção ou com as assinaturas do presidente e do tesoureiro, salvo quanto aos atos de mero expediente, em que basta a assinatura de um membro da direção."
+  },
+  "165265611": {
+   "fragment_id": "165265513",
+   "type": 1,
+   "heading": "Capítulo V — Dos dirigentes das ONGPD",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Dos dirigentes das ONGPD"
+  },
+  "165265612": {
+   "fragment_id": "165265514",
+   "type": 11,
+   "heading": "Artigo 23.º — Dispensa de dirigentes para participação em reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Dispensa de dirigentes para participação em reuniões\n\n1 - Os trabalhadores que exerçam funções em serviços e organismos da Administração Central, Regional e Local, ou em entidades privadas, e que sejam dirigentes de ONGPD, podem ser dispensados do serviço para participar em reuniões em tais serviços e organismos, bem como em outras que, no domínio da deficiência e da reabilitação, ocorram quer a nível internacional quer a nível nacional.\n\n2 - As dispensas previstas no número anterior valem pelo período assinalado pela entidade convocante, acrescido do tempo necessário para as deslocações, e são concedidas a pedido do trabalhador convocado, só podendo ser negadas com fundamento em motivos inadiáveis decorrentes do funcionamento dos serviços ou das empresas."
+  },
+  "165265613": {
+   "fragment_id": "165265515",
+   "type": 11,
+   "heading": "Artigo 24.º — Cedência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Cedência\n\nOs trabalhadores que exerçam funções em serviços e organismos da Administração Central, Regional e Local, ou em entidades privadas, e que sejam dirigentes de ONGPD, podem ser objeto de cedência de interesse público para aquelas, nos termos do disposto no artigo 58.º da Lei n.º 12-A/2008, de 27 de fevereiro, ou de cedência ocasional de trabalhador, nos termos dos artigos 288.º a 293.º do Código do Trabalho, conforme aplicável."
+  },
+  "165265614": {
+   "fragment_id": "165265516",
+   "type": 11,
+   "heading": "Artigo 25.º — Dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Dirigentes\n\nPara efeitos do disposto nos artigos 23.º e 24.º, consideram-se dirigentes das ONGPD, os membros dos respetivos órgãos sociais, podendo tal qualidade ser comprovada pelo INR, I. P., com base nos elementos facultados por aquelas organizações."
+  },
+  "165265615": {
+   "fragment_id": "165265517",
+   "type": 1,
+   "heading": "Capítulo VI — Da autorização e informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Da autorização e informação"
+  },
+  "165265616": {
+   "fragment_id": "165265518",
+   "type": 11,
+   "heading": "Artigo 26.º — Alienação de imóveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Alienação de imóveis\n\nA alienação de imóveis a qualquer título, pelas ONGPD, quando a sua aquisição for comparticipada pelo Estado, carece de autorização do membro do Governo responsável pela área da solidariedade e da segurança social."
+  },
+  "165265617": {
+   "fragment_id": "165265519",
+   "type": 11,
+   "heading": "Artigo 27.º — Orçamento e contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Orçamento e contas\n\nOs orçamentos e as contas das ONGPD são aprovados pelo órgão estatutariamente competente, dando-se conhecimento dos mesmos aos serviços públicos competentes, consoante a área de atuação."
+  },
+  "165265618": {
+   "fragment_id": "165265520",
+   "type": 11,
+   "heading": "Artigo 28.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regiões Autónomas\n\n1 - As competências de registo e fiscalização relativas às ONGPD com âmbito territorial de uma região autónoma são asseguradas pelos serviços e organismos dos respetivos governos regionais.\n\n2 - No caso de ONGPD registadas nos termos previstos no número anterior, a alienação de imóveis a qualquer título, por aquelas entidades, quando a sua aquisição for comparticipada pelo Estado, carece de autorização do respetivo membro do Governo Regional."
+  },
+  "165265619": {
+   "fragment_id": "165265521",
+   "type": 1,
+   "heading": "Capítulo VII — Das disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Das disposições transitórias e finais"
+  },
+  "165265620": {
+   "fragment_id": "165265522",
+   "type": 11,
+   "heading": "Artigo 29.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regulamentação\n\nA portaria prevista no n.º 2 do artigo 14.º é publicada no prazo de 120 dias, a contar da data da entrada em vigor do presente decreto-lei."
+  },
+  "165261868": {
+   "fragment_id": "165265502",
+   "type": 11,
+   "heading": "Artigo 15.º — Utilidade pública",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+   ],
+   "markdown": "###### Artigo 15.º — Utilidade pública\n\nSem prejuízo do disposto no artigo 10.º da Lei n.º 127/99, de 20 de agosto, alterada pela Lei n.º 37/2004, de 13 de agosto, as ONGPD registadas nos termos do artigo anterior adquirem automaticamente a natureza de pessoas coletivas de utilidade pública.\n\n> Revogado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01"
+  },
+  "165265621": {
+   "fragment_id": "165265523",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de junho de 2013. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 24 de julho de 2013.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de julho de 2013.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  }
+ }
+}

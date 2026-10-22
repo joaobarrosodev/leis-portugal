@@ -1,0 +1,198 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:535379:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1994-1031823506",
+ "dre_path": "/dr/detalhe/decreto-lei/280-1994-535379",
+ "source_lastmod": "2026-08-04",
+ "versions": [
+  {
+   "date": "2026-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1153698588:por",
+     "title": "Decreto-Lei n.º 154/2026",
+     "published": "2026-07-31",
+     "dre_path": "/dr/detalhe/decreto-lei/154-2026-1153698588"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "1032113675",
+    "1032113875",
+    "1032114075",
+    "1032114275",
+    "1153939475",
+    "1153939675",
+    "1153939875",
+    "1153938275",
+    "1032115275",
+    "1153940075",
+    "1153940275",
+    "1153940475",
+    "1153940675",
+    "1153940875",
+    "1032116475",
+    "1032116675"
+   ]
+  }
+ ],
+ "fragments": {
+  "1032113675": {
+   "fragment_id": "1032113575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A modificação dos habitats naturais, nomeadamente através da ocupação agrícola dos solos, tem sido uma constante desse processo, desde o estabelecimento das primeiras comunidades sedentarizadas no período neolítico.\n\nO aumento progressivo da população e a sua capacidade crescente de intervir nos ecossistemas naturais têm provocado modificações profundas na flora e na fauna bravia.\n\nEstudadas com especial atenção durante muitos anos, as aves migradoras dependentes das zonas húmidas litorais têm sido particularmente atingidas neste processo, constituindo assim um auxiliar precioso que tem permitido avaliar, no plano biológico, o evoluir da situação.\n\nDevido à sua localização e elevada produtividade biológica, o estuário do Tejo e zonas envolventes constituem uma área de importância excepcional para a conservação da avifauna bravia na Europa, onde ocorrem regularmente concentrações notáveis de muitas espécies incluídas no anexo I da Directiva n.º 79/409/CEE, relativa à conservação das aves selvagens.\n\nDesta forma, tendo em vista salvaguardar o património avifaunístico dependente daquela área e garantir a manutenção de uma elevada biodiversidade, justifica-se a criação de uma Zona de Protecção Especial no Estuário do Tejo e terrenos limítrofes, conforme previsto nos artigos 4.º da Directiva n.º 79/409/CEE e 3.º do Decreto-Lei n.º 75/91, de 14 de Fevereiro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "1032113875": {
+   "fragment_id": "1032113775",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma transpõe para a ordem jurídica interna obrigações decorrentes do artigo 4.º da Directiva n.º 79/409/CEE, do Conselho, de 2 de Abril, relativa à conservação das aves selvagens, adiante abreviadamente designada por directiva."
+  },
+  "1032114075": {
+   "fragment_id": "1032113975",
+   "type": 11,
+   "heading": "Artigo 2.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Limites\n\n1 - É criada a Zona de Protecção Especial do Estuário do Tejo, adiante designada por ZPE.\n\n2 - Os limites da ZPE são fixados no texto e carta que constituem os anexos I e II ao presente diploma e que dele fazem parte integrante.\n\n3 - Não se consideram incluídas na ZPE as áreas englobadas nos perímetros urbanos de Vila Franca de Xira, Alcochete, Samouco e Porto Alto.\n\n4 - O original da carta mencionada no n.º 2, à escala de 1:25000, fica arquivado no Instituto da Conservação da Natureza, adiante designado por ICN."
+  },
+  "1032114275": {
+   "fragment_id": "1032114175",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nConstituem objectivos fundamentais da ZPE:\n\na) Proteger um conjunto significativo de espécies de aves bravias e assegurar a defesa e manutenção do respectivo habitat;\n\nb) Salvaguardar ou repor as características ecológicas do habitat e as condições de tranquilidade necessárias à utilização continuada daquela área pelas aves migradoras;\n\nc) Garantir e reforçar a conservação de zonas húmidas de significado internacional, nomeadamente como habitat de aves aquáticas migradoras."
+  },
+  "1153939475": {
+   "fragment_id": "1032114375",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 4.º — Regime\n\n1 - A área da ZPE que coincide com os limites da Reserva Natural do Estuário do Tejo (RNET), estabelecidos no Decreto-Lei n.º 565/76, fica sujeita ao regime previsto naquele diploma, sendo a respectiva gestão assegurada pelos órgãos próprios da RNET.\n\n2 - O remanescente da área da ZPE fica sujeito ao regime previsto nos artigos seguintes, sendo a sua gestão assegurada pelo ICN.\n\n3 - O disposto no presente diploma não prejudica os regimes especiais relativos a empreendimentos de obras públicas e respectivos acessos, previstos em diploma próprio.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1153939675": {
+   "fragment_id": "1032114575",
+   "type": 11,
+   "heading": "Artigo 5.º — Plano de gestão",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 5.º — Plano de gestão\n\n1 - A gestão da ZPE fica sujeita a um plano a aprovar por portaria dos Ministros da Defesa Nacional, do Planeamento e da Administração do Território, da Agricultura, da Indústria e Energia, das Obras Públicas, Transportes e Comunicações, do Comércio e Turismo, do Ambiente e Recursos Naturais e do Mar.\n\n2 - O plano de gestão é elaborado, no prazo máximo de 18 meses, por uma comissão intersectorial, presidida por um representante do ICN e composta por um representante nomeado por cada membro do Governo que subscreve a portaria mencionada no número anterior.\n\n3 - O plano de gestão deve apresentar um conjunto de medidas que permitam, nomeadamente:\n\na) Manter a ocupação agrícola e agro-florestal de acordo com padrões próximos dos actuais, caracterizados por grandes áreas abertas, pastoreio em regime extensivo e culturas anuais alternando com áreas de pousio;\n\nb) Manter o carácter rural do espaço associado a densidades de povoamento humano idênticas ou inferiores às actuais, sem prejuízo do aproveitamento dos recursos complementares da agricultura e da floresta;\n\nc) Permitir a exploração salineira em extensões significativas de áreas vocacionadas para esse fim, utilizando técnicas competitivas com a biologia das espécies de aves inscritas no anexo I da directiva;\n\nd) Assegurar que o exercício da pesca é regulamentado por forma a salvaguardar os imperativos de conservação da natureza;\n\ne) Assegurar que o exercício da actividade aeronáutica se faça com salvaguarda de perturbações significativas nas áreas e nos períodos de maior concentração de espécies do anexo I da directiva.\n\n4 - O plano de gestão deve prever formas de articulação das medidas propostas com os instrumentos de planeamento e ordenamento em vigor ou previstos para a área.\n\n5 - Os projectos a desenvolver na ZPE que se enquadrem nas medidas previstas no plano de gestão são considerados prioritários, para efeitos de candidatura a financiamentos no âmbito do Regulamento CEE/2078/92 relativo a medidas agro-ambientais.\n\n6 - A execução das medidas previstas no plano de gestão é, em razão da sua natureza, da competência dos serviços pertencentes aos diversos departamentos governamentais mencionados, em articulação com o ICN.\n\n7 - A execução do plano é acompanhada pela comissão intersectorial prevista no n.º 2, que para o efeito se mantém em funções após a aprovação do plano de gestão e reúne, pelo menos, uma vez de seis em seis meses.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1153939875": {
+   "fragment_id": "1032114775",
+   "type": 11,
+   "heading": "Artigo 6.º — Avaliação de impactes ambientais",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 6.º — Avaliação de impactes ambientais\n\n1 - No interior da ZPE, os projectos inscritos no anexo III do Decreto-Lei n.º 186/90, de 6 de Junho, que fiquem aquém dos limiares estabelecidos no anexo do Decreto Regulamentar n.º 38/90,de 27 de Novembro, podem ser sujeitos a avaliação de impacte ambiental por decisão do Ministro do Ambiente e Recursos Naturais.\n\n2 - Para efeitos do número anterior os promotores de projectos na situação descrita no número anterior devem notificá-los ao ICN, que no prazo de 30 dias lhes transmite a decisão sobre a sua sujeição a avaliação de impacte ambiental.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1153938275": {
+   "fragment_id": "1032114975",
+   "type": 11,
+   "heading": "Artigo 7.º — Interdições e condicionamentos",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 7.º — Interdições e condicionamentos\n\n1 - Na área abrangida pela ZPE é interdito:\n\na) O licenciamento de novos loteamentos urbanos e industriais;\n\nb) [Revogada.]\n\nc) [Revogada.]\n\n2 - (Revogado.)\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1032115275": {
+   "fragment_id": "1032115175",
+   "type": 11,
+   "heading": "Artigo 8.º — Caça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Caça\n\n1 - É interdita a caça nas áreas do domínio público existentes no interior da ZPE.\n\n2 - Nas restantes áreas da ZPE pode, por portaria conjunta dos Ministros da Agricultura e do Ambiente e Recursos Naturais, ser interdita a caça, ponderados interesses específicos da conservação da natureza, sem prejuízo das restrições já actualmente existentes na RNET."
+  },
+  "1153940075": {
+   "fragment_id": "1032115375",
+   "type": 11,
+   "heading": "Artigo 9.º — Fiscalização",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 9.º — Fiscalização\n\nAs funções de fiscalização, para efeitos do presente diploma e legislação complementar, competem em especial ao ICN e em geral às autarquias locais, ao Instituto Florestal, à Administração do Porto de Lisboa, à Guarda Nacional Republicana e às demais autoridades policiais, nomeadamente marítimas.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1153940275": {
+   "fragment_id": "1032115575",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 10.º\n\nContra-ordenações\n\n1 - Constitui contra-ordenação a prática dos actos e actividades interditos ou em desrespeito dos condicionamentos previstos nos termos do artigo 7.º\n\n2 - As contra-ordenações previstas no número anterior são punidas com coimas de:\n\na) 5000$00 a 500000$00, no caso de pessoas singulares;\n\nb) 50000$00 a 6000000$00, no caso de pessoas colectivas agindo com dolo.\n\n3 - A tentativa e a negligência são puníveis.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1153940475": {
+   "fragment_id": "1032115775",
+   "type": 11,
+   "heading": "Artigo 11.º — Sanções acessórias",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 11.º — Sanções acessórias\n\nAs contra-ordenações previstas no n.º 1 do artigo anterior podem ainda determinar, quando a gravidade da infracção o justifique, a aplicação das seguintes sanções acessórias:\n\na) A apreensão dos objectos pertencentes ao agente que tenham sido utilizados como instrumento na prática da infracção;\n\nb) A privação do direito a subsídios outorgados por entidades ou serviços públicos;\n\nc) A interdição do exercício de actividade por um período máximo de dois anos.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1153940675": {
+   "fragment_id": "1032115975",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 12.º\n\nProcessos de contra-ordenação e aplicação de coimas e sanções acessórias\n\n1 - O processamento das contra-ordenações e a aplicação das coimas e sanções acessórias compete ao ICN.\n\n2 - A competência para o processamento das contra-ordenações e a aplicação das respectivas coimas e sanções acessórias relativamente às infracções praticadas em áreas da ZPE sujeitas à jurisdição marítima cabe ao capitão do porto territorialmente competente, caso em que os autos de notícia, participações e denúncias lhe são enviados, com recurso para os tribunais marítimos.\n\n3 - A afectação do produto das coimas faz-se da seguinte forma:\n\na) 60% para o Estado;\n\nb) 10% para a entidade autuante;\n\nc) 10% para a entidade que processe a contra-ordenação;\n\nd) 20% para o ICN, constituindo receita própria.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1153940875": {
+   "fragment_id": "1032116175",
+   "type": 11,
+   "heading": "Artigo 13.º — Reposição da situação anterior à infracção",
+   "in_force_from": "2026-08-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+   ],
+   "markdown": "###### Artigo 13.º — Reposição da situação anterior à infracção\n\n1 - O ICN pode ordenar que se proceda à reposição da situação anterior à infracção, fixando concretamente os trabalhos ou acções que o infractor deva realizar e o respectivo prazo para execução.\n\n2 - A ordem de reposição é antecedida de audição do infractor, que dispõe de 15 dias a contar da data da sua notificação para se pronunciar sobre o conteúdo da mesma.\n\n3 - Decorrido o prazo referido no n.º 1 sem que a ordem de reposição se mostre cumprida, o ICN procede aos trabalhos e acções necessárias à reposição da situação anterior, por conta do infractor.\n\n4 - As despesas realizadas por força do número anterior, quando não forem pagas voluntariamente pelo infractor no prazo de 20 dias a contar da sua notificação, são cobradas judicialmente, servindo de título executivo a certidão passada pelo ICN comprovativa das quantias despendidas.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 154/2026 - Diário da República n.º 147/2026, Série I de 2026-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/154-2026-1153698588), em vigor a partir de 2026-08-01."
+  },
+  "1032116475": {
+   "fragment_id": "1032116375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de Maio de 1994. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Eduardo de Almeida Catroga - Luís Francisco Valente de Oliveira - António Duarte Silva - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral - Fernando Manuel Barbosa Faria de Oliveira - Maria Teresa Pinto Basto Gouveia - Eduardo Eugénio Castro de Azevedo Soares.\n\nPromulgado em 5 de Setembro de 1994.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 8 de Setembro de 1994.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "1032116675": {
+   "fragment_id": "1032116575",
+   "type": 14,
+   "heading": "Anexo I — Limites da ZPE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Limites da ZPE\n\nInicia-se a 600 m, para o interior do estuário do rio Tejo, do extremo norte da foz do rio Trancão, seguindo até ao vértice do perímetro da RNET situado no extremo sul do Mouchão da Póvoa, desenvolvendo-se ao longo deste perímetro, para norte, até ao ponto de intersecção com a linha do máximo praia-mar de águas vivas da margem esquerda do rio Tejo, seguindo-a até ao alinhamento da ponte rodoviária de Vila Franca de Xira. Inflecte depois para S. E., acompanhando o traçado da estrada nacional n.º 10 até ao cruzamento com a estrada nacional n.º 119, no lugar do Infantado. Em seguida inflecte para S. W., acompanhando o traçado da estrada nacional n.º 119 até ao limite da D10 (384920N0084732W), passando a contornar a D10 até ao ponto de intersecção com a estrada nacional n.º 119 (384635N0085315W), seguindo o traçado desta até ao sítio da Bela Vista, próximo da Herdade de Camarate.\n\nSegue depois para S. E., pelo estradão de acesso à Marinha Nova, até ao limite da D10 (384500N0085200W), contornando esta área até ao ponto de intersecção (384400N0084705W) com a linha que delimita o distrito de Setúbal (conforme assinalada na Carta Militar de Portugal, na escala 1:25000). Acompanha depois essa linha para nascente, até ao lugar de Malhadas de Meias, inflectindo daí para S. S. W., pela linha de demarcação concelhia, até à sua intersecção com a estrada nacional n.º 4, no lugar do vale do Rafeiro. Segue depois para N. W., ao longo daquela rodovia até à sua intersecção com a estrada nacional n.º 118, no cruzamento de Rilvas. Daí segue para N. W., acompanhando o traçado da estrada nacional n.º 118 até ao seu entroncamento na estrada nacional n.º 119, passando a seguir aquela rodovia até Alcochete e daí até ao cruzamento com a estrada municipal n.º 501 (Alcochete-Samouco).\n\nSegue depois por essa estrada municipal até à povoação do Samouco, prosseguindo daí para N. W. pela estrada municipal n.º 501.1, até à margem do estuário no lugar do Porto da Praia, situado no limite da Base Aérea n.º 6. Continua para oeste e sudoeste, ao longo do limite superior do domínio público marítimo, até atingir a extremidade poente da península do Montijo, no cais da AEROMAR. Daí segue em linha recta até ao ponto de partida na margem direita do estuário, situado a 600 m do extremo norte da foz do rio Trancão.\n\n(ver documento original)"
+  }
+ }
+}

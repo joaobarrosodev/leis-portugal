@@ -1,0 +1,819 @@
+---
+schema_version: '1.0'
+id: pt:dre:315562:por
+title: Portaria n.º 117-A/2008
+short_title: null
+summary: Regulamenta as formalidades e os procedimentos aplicáveis ao reconhecimento e controlo das isenções e das taxas reduzidas
+  do imposto sobre os produtos petrolíferos e energéticos (ISP)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 117-A/2008
+official_date: null
+publication_date: '2008-02-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 28/2008, 1º Suplemento, Série I de 2008-02-08
+  number: '28'
+  series: I
+  supplement: 1º Suplemento
+  pages: 954-(2) a 954-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/02/02801/0000200006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2020-03-04'
+version_history:
+  file: portaria-117-a-2008.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2008-02-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-08-21'
+    amending: pt:dre:343449:por
+    amending_title: Portaria n.º 762/2010
+    changes:
+    - Altera Artigo 62.º
+  - date: '2014-10-09'
+    amending: pt:dre:58169531:por
+    amending_title: Portaria n.º 206/2014
+    changes:
+    - Adita Artigo 38.º-A
+    - Adita Artigo 57.º-A
+    - Altera Artigo 29.º
+    - Altera Artigo 36.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+  - date: '2020-03-04'
+    amending: pt:dre:129643712:por
+    amending_title: Portaria n.º 50/2020
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/117-a/2008/p/cons/20200227/pt/html
+  oj: null
+  dre: '315562'
+  dre_path: /dr/detalhe/portaria/117-a-2008-315562
+  internal: pt:dre:315562:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/117-a-2008-315562
+  metadata_url: https://data.dre.pt/eli/port/117-a/2008/p/cons/20200227/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-58918205
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2008-58918205
+  retrieved_at: '2026-10-22T11:56:33Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 57e05e23f5e3ea66ebbdbab2aecf8878fb83bbad75bf995bf0fba25bbd7ee9fb
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:56:33Z'
+  notes: 4 versão(ões); histórico completo em portaria-117-a-2008.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Alfândega
+- Embarcação
+- Imposto sobre Produtos Petrolíferos
+- Transporte Ferroviário
+- Produto Petrolífero
+- Fiscalização
+- Gás
+- Isenção de Taxas e Emolumentos
+- Armador
+- Benefícios Fiscais
+- Taxa
+- Transporte Público
+relationships:
+- type: amended_by
+  target: pt:dre:343449:por
+  label: Altera Artigo 62.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/762-2010-343449
+  date: '2010-08-20'
+- type: amended_by
+  target: pt:dre:58169531:por
+  label: Adita Artigo 38.º-A; Adita Artigo 57.º-A; Altera Artigo 29.º; Altera Artigo 36.º; Altera Artigo 55.º; Altera Artigo
+    56.º; Altera Artigo 60.º; Altera Artigo 61.º; Altera Artigo 62.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531
+  date: '2014-10-08'
+- type: amended_by
+  target: pt:dre:129643712:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712
+  date: '2020-02-27'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/310/1991/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/310/1991/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/566/1999/12/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1038/1997/10/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1038/1997/10/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/248/1997/04/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/248/1997/04/14/p/dre
+article_structure:
+  article_count: 72
+  section_count: 13
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:56:33Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 117-A/2008
+
+Portaria n.º 117-A/2008
+
+de 8 de Fevereiro
+
+As isenções e a aplicação de taxas reduzidas do imposto sobre os produtos petrolíferos e energéticos (ISP) previstas, respectivamente, no n.º 1 do artigo 71.º e no artigo 74.º do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, dependem do reconhecimento dos pressupostos e das condições previstas na lei para a concretização do direito ao benefício fiscal.
+
+Apesar de já terem sido regulamentadas, por portaria, as formalidades tendentes ao reconhecimento de algumas dessas isenções, atendendo à experiência entretanto obtida no decurso da sua aplicação, considera-se oportuno completar, actualizar e rever todo o processo de reconhecimento prévio das isenções e das taxas reduzidas do ISP, inserindo alguns aspectos tendentes ao aperfeiçoamento do controlo.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas, em cumprimento do disposto no n.º 2 do artigo 71.º e no artigo 106.º do Código dos Impostos Especiais de Consumo (CIEC), aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, o seguinte:
+
+> Nota: [Artigo 4.º, Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531) As referências constantes da presente Portaria: a) À «Brigada Fiscal da Guarda Nacional Republicana», consideram-se efetuadas à «Unidade de Ação Fiscal da Guarda Nacional Republicana»; b) Ao «cartão de microcircuito», consideram-se efetuadas ao «cartão eletrónico»; c) Ao «Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de dezembro», consideram-se efetuadas para as disposições correspondentes do «Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 73/2010, de 21 de junho»; d) À «Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC)», consideram-se efetuadas à «Autoridade Tributária e Aduaneira (AT)»; e) À «Direção-Geral de Pescas e Aquicultura (DGPA)», consideram-se efetuadas à «Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM)».
+
+## Título I — Disposições gerais
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 1.º
+
+A presente portaria regulamenta as formalidades e os procedimentos aplicáveis ao reconhecimento e controlo das isenções e das taxas reduzidas do imposto sobre os produtos petrolíferos e energéticos (ISP) previstas, respectivamente, no n.º 1 do artigo 71.º e no artigo 74.º do Código dos Impostos Especiais de Consumo, aprovado pelo Decreto-Lei n.º 566/99, de 22 de Dezembro, abreviadamente designado por CIEC.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 2.º
+
+Podem beneficiar de isenção ou da aplicação de uma taxa reduzida do imposto as pessoas singulares ou colectivas que, comprovadamente, utilizem produtos petrolíferos e energéticos sujeitos a ISP nas actividades ou nos equipamentos previstos nas disposições legais referidas no número anterior, desde que cumpram as seguintes condições:
+
+a) Essa actividade esteja devidamente declarada, nos termos da legislação tributária aplicável, excepto quando dispensada por lei ou pela natureza da isenção;
+
+b) Tenham a sua situação tributária e contributiva regularizada;
+
+c) Tenham cumprido as suas obrigações declarativas em sede de impostos sobre o rendimento e do imposto sobre o valor acrescentado.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 3.º
+
+A competência para o acto de reconhecimento e subsequente controlo e reavaliação dos pressupostos e condições dos benefícios fiscais encontra-se definida nos n.os 17.º, 32.º, 36.º, 38.º, 39.º, 41.º, 46.º, 50.º, 56.º, 60.º, 61.º e 64.º da presente portaria.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 4.º
+
+Os pedidos de isenção ou de redução de taxa do imposto devem ser acompanhados de fotocópia dos seguintes documentos, sem prejuízo de outra documentação considerada necessária:
+
+a) Cartão de identificação fiscal;
+
+b) Documento de licenciamento da actividade exercida, quando exigível.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 5.º
+
+Os benefícios fiscais concretizados através da utilização de gasóleo colorido e marcado são efectuados obrigatoriamente através da utilização de um cartão de microcircuito, previsto no n.º 5 do artigo 74.º do CIEC, o qual é emitido pela Direcção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e remetido aos requerentes pela entidade competente para o reconhecimento do benefício fiscal em causa.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 6.º
+
+Os cartões referidos no número anterior são pessoais e intransmissíveis, sendo os respectivos titulares responsáveis pela sua regular utilização.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 7.º
+
+Os beneficiários ficam sujeitos, sob pena de incorrerem em infracção tributária, às seguintes obrigações:
+
+a) Comunicar às autoridades competentes qualquer alteração dos pressupostos do benefício fiscal;
+
+b) Comunicar outras alterações relevantes, designadamente alteração de localização das instalações ou dos equipamentos autorizados, transferência de propriedade dos equipamentos bem como a cedência ou substituição destes;
+
+c) Colaborar com as autoridades competentes na realização dos controlos que vierem a ser determinados, com vista a comprovar a efectiva afectação dos produtos aos destinos ou utilizações com benefício fiscal e fornecer todos os elementos de informação solicitados.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 8.º
+
+Os beneficiários que sejam titulares de um cartão de microcircuito, para abastecimento de gasóleo colorido marcado, estão ainda obrigados a:
+
+a) Devolver o cartão de microcircuito no caso de cessação dos pressupostos do benefício, no prazo máximo de cinco dias úteis;
+
+b) Comunicar qualquer situação de extravio ou de anomalia no cartão de microcircuito atribuído.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 9.º
+
+As comunicações referidas na presente portaria devem ser efectuadas por escrito, preferencialmente por correio electrónico, no prazo máximo de cinco dias úteis.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 10.º
+
+Os benefícios fiscais referidos na presente portaria estão sujeitos a reavaliação periódica pelas autoridades competentes, tendo em vista aferir da manutenção dos respectivos pressupostos e do cumprimento das demais condições exigíveis nos termos da legislação aplicável.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 11.º
+
+Constituem fundamento para a revogação da autorização do benefício fiscal, sem prejuízo de instauração de processo por infracção tributária nos termos previstos no Regime Geral das Infracções Tributárias, a violação dos pressupostos do benefício bem como a inobservância imputável ao beneficiário das condições exigidas no n.º 2.º
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 12.º
+
+Em caso de violação dos pressupostos do benefício fiscal, é ainda liquidado o imposto que se mostre devido.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 13.º
+
+Para efeitos do disposto no número anterior, considera-se que há violação dos pressupostos do benefício fiscal, designadamente, em caso de:
+
+a) Utilização de produtos, sem reconhecimento prévio do benefício fiscal;
+
+b) Utilização dos produtos autorizados em fim diferente do declarado;
+
+c) Utilização de produtos em equipamentos não autorizados.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+## Título II — Isenções do ISP
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+### Capítulo I — Isenção do ISP para utilização como matéria-prima
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 14.º
+
+A isenção prevista na alínea a) do n.º 1 do artigo 71.º do CIEC abrange os produtos destinados a utilizações diferentes de uso carburante ou de uso combustível que, para efeitos da presente portaria, se designam por uso como matéria-prima.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 15.º
+
+Encontra-se abrangido pela presente isenção o acondicionamento para venda a retalho dos produtos previstos no n.º 7 do artigo 73.º do CIEC, com excepção dos produtos classificados pelos códigos NC 2710 19 45 e 2710 19 81 a 2710 19 99.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 16.º
+
+Para efeitos do disposto no número anterior, considera-se acondicionamento para venda a retalho o pré-embalamento dos referidos produtos em quantidades ou capacidades unitárias máximas de 10 kg/l, antes da sua exposição para venda ao consumidor, nos termos definidos no Decreto-Lei n.º 310/91, de 17 de Agosto.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 17.º
+
+É competente para efeitos do disposto no n.º 3.º a alfândega em cuja área de jurisdição se localizem as instalações onde os produtos vão ser utilizados.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 18.º
+
+Para os produtos classificados pelos códigos NC 2712 00 00, 2713 20 00, 2713 90 10, 2713 90 90, 2714 10 00, 2714 90 00 e 2715 00 00, o acto de reconhecimento da isenção consubstancia-se na mera comunicação, por escrito, à alfândega referida no número anterior.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 19.º
+
+Sem prejuízo do disposto no n.º 4.º, os pedidos de isenção devem ainda ser acompanhados dos seguintes documentos e elementos de informação:
+
+a) A localização das instalações onde são utilizados os produtos;
+
+b) A designação comercial e a indicação do respectivo código da nomenclatura combinada (código NC) dos produtos a utilizar;
+
+c) A indicação dos produtos a fabricar e ou da utilização a que se destinam, devendo indicar-se, no caso de embalagens para venda a retalho, a capacidade unitária das mesmas.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 20.º
+
+Da notificação do acto de reconhecimento devem constar as designações comerciais e os respectivos códigos NC dos produtos aos quais foi reconhecida a isenção.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 21.º
+
+Os beneficiários da isenção devem possuir registos contendo a identificação e localização dos fornecedores dos produtos.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 22.º
+
+Os beneficiários da isenção que utilizem, transformem, incorporem e procedam ao embalamento dos produtos têm de instituir um modelo de registo contabilístico das existências adequado, de onde conste o seguinte:
+
+a) As designações comerciais e as quantidades de produtos adquiridas, individualizados pelo respectivo código NC, com indicação dos números e datas das facturas ou documentos comerciais equivalentes que titulem as aquisições dos mesmos;
+
+b) As quantidades de produtos utilizadas no processo produtivo, individualizadas pelo respectivo código NC e as datas de utilização;
+
+c) O saldo de existências dos produtos, individualizado pelo respectivo código NC, apurado em sistema de inventário permanente;
+
+d) As eventuais perdas de produto ocorridas.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 23.º
+
+O modelo de registo contabilístico de existências referido no número anterior deve ainda ventilar, em paralelo, as existências dos produtos finais obtidos, se adequado à respectiva realidade produtiva, de onde conste o seguinte:
+
+a) As quantidades de produto final obtidas, individualizadas pelo respectivo código NC, com indicação das respectivas datas de produção;
+
+b) As quantidades de produto final vendidas, individualizadas pelo respectivo código NC, com indicação dos números e datas das respectivas facturas ou documentos comerciais equivalentes;
+
+c) O saldo de existências dos produtos finais, individualizado pelo respectivo código NC, apurado em sistema de inventário permanente.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 24.º
+
+Os beneficiários da isenção cuja actividade seja o acondicionamento de produtos em embalagens para venda a retalho têm de instituir um modelo de registo contabilístico de existências adequado à respectiva actividade, de onde conste o seguinte:
+
+a) As designações comerciais e as quantidades de produtos a granel adquiridas, individualizados pelo respectivo código NC, com indicação dos números e datas das facturas ou documentos comerciais equivalentes que titulem as aquisições dos produtos;
+
+b) As quantidades de produtos embaladas, individualizadas pelo respectivo código NC e por capacidade unitária da embalagem, indicando as respectivas datas de embalamento;
+
+c) O saldo de existências de produtos apurado em sistema de inventário permanente, individualizado pelo respectivo código NC e por capacidade unitária da embalagem;
+
+d) As eventuais perdas de produto ocorridas.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 25.º
+
+Os beneficiários da isenção, cuja actividade não se ajuste aos modelos de registo contabilístico das existências previstos nos números anteriores, devem propor à alfândega competente, para aprovação, um modelo de registo contabilístico adequado às especificidades da sua actividade.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 26.º
+
+Os depositários autorizados e os operadores registados podem processar uma única declaração mensal para introdução no consumo (DIC), com isenção do ISP, nos termos previstos no n.º 4 do artigo 8.º do CIEC, ficando, neste caso, obrigados a entregar na alfândega competente, até ao último dia útil do mês seguinte, uma listagem, em suporte informático, contendo as seguintes informações:
+
+a) Quantidades de produtos vendidas, individualizados pelo respectivo código NC, a entidades beneficiárias da isenção, indicando o número de identificação fiscal destas;
+
+b) Quantidades de produtos vendidas, individualizados pelo respectivo código NC, a outros operadores registados;
+
+c) Quantidades de produtos acondicionadas em embalagens até 10kg/l, individualizados pelo respectivo código NC;
+
+d) Quantidades de produtos detidas em armazém individualizados pelo respectivo código NC.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 27.º
+
+Nas embalagens de produtos petrolíferos e energéticos para venda a retalho, declarados para consumo com isenção do ISP, deve, obrigatoriamente, ser aposto um rótulo com a seguinte menção: «Este produto não pode ser utilizado como combustível, carburante ou lubrificante, sob pena de procedimento por infracção tributária».
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+### Capítulo II — Isenção do ISP para utilização na navegação comercial
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 28.º
+
+As isenções do ISP previstas nas alíneas c) e h) do n.º 1 do artigo 71.º do CIEC abrangem as utilizações em embarcações que, para efeitos da presente portaria, se designam por navegação comercial.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 29.º
+
+Enquadram-se na disposição prevista no número anterior as embarcações efectivamente utilizadas nas seguintes actividades:
+
+a) Navegação marítima costeira;
+
+b) Navegação interior;
+
+c) Pesca ou aquicultura;
+
+d) Navegação marítimo-turística;
+
+e) Operações de dragagem em portos e vias navegáveis, com excepção dos equipamentos utilizados na extracção de areias para fins comerciais.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 30.º
+
+Os abastecimentos de gasóleo colorido e marcado para as embarcações referidas no número anterior são registados mediante a utilização obrigatória do cartão de microcircuito emitido para o efeito, sendo todos os abastecimentos controlados pela Brigada Fiscal da Guarda Nacional Republicana, através da utilização de um cartão de microcircuito, emitido sob a responsabilidade daquela corporação.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 31.º
+
+Os abastecimentos às embarcações que se encontrem em construção, reparação e manutenção devem ser notificados à alfândega em cuja área de jurisdição se encontrem.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+#### Secção I — Embarcações previstas nas alíneas a), b), d) e e) do n.º 29.º da presente portaria
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 32.º
+
+É competente para efeitos do disposto no n.º 3.º a alfândega em cuja área de jurisdição se desenvolve a actividade da embarcação em causa.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 33.º
+
+Os beneficiários devem comunicar à alfândega de reconhecimento da isenção as alterações dos locais em que as embarcações desenvolvem a sua actividade.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 34.º
+
+Sem prejuízo do disposto no n.º 4.º, os pedidos de isenção devem ainda ser acompanhados de fotocópia de:
+
+a) Título de propriedade ou livrete da embarcação;
+
+b) Certificado de navegabilidade válido, quando exigível;
+
+c) Licenças ou autorizações exigíveis nos termos da legislação aplicável para o exercício das actividades previstas nas alíneas a), b), d) e e) do n.º 29.º;
+
+d) Contrato de adjudicação de empreitadas, no caso da actividade prevista na alínea e) do n.º 29.º
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 35.º
+
+Para efeitos do disposto na alínea e) do n.º 29.º, a isenção pode ficar condicionada à existência de um depósito totalmente separado e independente do depósito destinado ao abastecimento do sistema de propulsão da embarcação.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+#### Secção II — Embarcações previstas na alínea c) do n.º 29.º da presente portaria
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 36.º
+
+Relativamente às embarcações utilizadas na atividade da pesca ou aquicultura, os pedidos de isenção são apresentados junto da Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), ou do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), conforme as áreas das respetivas competências, que procedem à instrução dos mesmos.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 37.º
+
+Concluída a instrução, a DGPA envia semanalmente à DGAIEC uma listagem em suporte informático, com proposta de decisão dos pedidos recebidos para efeitos de reconhecimento da isenção.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 38.º
+
+A isenção só é reconhecida aos proprietários e ou armadores de embarcações que possuam licenças de pesca válidas e aos proprietários e ou armadores de embarcações de pesca que, não estando registadas em Portugal, possuam licenças de pesca válidas e tenham realizado a primeira venda de pescado em Portugal, através da DOCAPESCA.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 38.º-A
+
+A isenção de ISP para as embarcações utilizadas na atividade aquícola só é reconhecida aos titulares de licenças de exploração aquícola válidas que demonstrem a titularidade ou a legítima detenção das mesmas nos termos do disposto nos n.os 1 e 2 do artigo 32.º do Decreto Regulamentar n.º 14/2000, de 21 de setembro, e às embarcações associadas aos estabelecimentos aquícolas de águas interiores instalados no meio hídrico, autorizados ao abrigo do artigo 50.º do Decreto n.º 44 623, de 10 de outubro de 1962, alterado pelo Decreto n.º 312/70, de 6 de julho, pelos Decretos Regulamentares n.os 18/86, de 20 de maio, e 11/89, de 27 de abril, e pela Lei n.º 30/2006, de 11 de julho.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 39.º
+
+A autoridade competente para a reavaliação dos pressupostos da isenção bem como para efeitos do cumprimento do disposto nos n.os 7.º e 8.º é a DGPA, devendo ser comunicadas à DGAIEC todas as situações que impliquem:
+
+a) Reconhecimento de um novo benefício fiscal;
+
+b) Revogação de um benefício fiscal.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+### Capítulo III — Isenção do ISP para utilização na produção de energia
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 40.º
+
+A isenção prevista na alínea d) do n.º 1 do artigo 71.º do CIEC abrange as utilizações que, para efeitos da presente portaria, se designam por produção de energia.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 41.º
+
+É competente para efeitos do disposto no n.º 3.º a alfândega em cuja área de jurisdição se localizem as unidades industriais de produção de energia.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 42.º
+
+Sem prejuízo do disposto no n.º 4.º, os pedidos de isenção devem ainda ser acompanhados dos seguintes documentos e elementos de informação:
+
+a) Identificação e localização da unidade industrial de produção de energia;
+
+b) Fotocópia do documento de licenciamento das instalações, quando exigível.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 43.º
+
+Os beneficiários da isenção devem elaborar uma listagem mensal, por produto utilizado na produção de energia, a qual deve conter, por colunas, os seguintes elementos:
+
+a) Quantidades de produtos adquiridas com isenção do ISP;
+
+b) Empresa petrolífera fornecedora;
+
+c) Quantidades de produtos utilizadas;
+
+d) Saldo de existências;
+
+e) Quantidades de energia produzidas.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 44.º
+
+As listagens referidas no número anterior devem ser enviadas à alfândega competente até ao dia 10 do mês seguinte àquele em que foram elaboradas, preferencialmente em suporte informático.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+### Capítulo IV — Isenção do ISP para o gás utilizado em transportes públicos
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 45.º
+
+A isenção prevista na alínea e) do n.º 1 do artigo 71.º do CIEC abrange as utilizações que, para efeitos da presente portaria, se designam por gás utilizado em transportes públicos.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 46.º
+
+É competente para efeitos do disposto no n.º 3.º a alfândega em cuja área de jurisdição se localize a sede social da empresa que tem por objecto o transporte público.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 47.º
+
+Os beneficiários da isenção devem elaborar uma listagem mensal, por colunas, contendo os seguintes elementos:
+
+a) Empresa fornecedora;
+
+b) Quantidades adquiridas;
+
+c) Identificação dos veículos.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 48.º
+
+A listagem referida no número anterior deve ser enviada à alfândega competente até ao dia 10 do mês seguinte àquele em que os produtos forem consumidos, preferencialmente em suporte informático.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+### Capítulo V — Isenção do ISP para utilização no transporte por caminho de ferro
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 49.º
+
+A isenção prevista na alínea i) do n.º 1 do artigo 71.º do CIEC abrange as utilizações que, para efeitos da presente portaria, se designam por transporte por caminho de ferro.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 50.º
+
+É competente para efeitos do disposto no n.º 3.º a alfândega em cuja área de jurisdição se localize a sede social da empresa que tem por objecto o transporte por caminho de ferro.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 51.º
+
+Sem prejuízo do disposto no n.º 4.º, os pedidos de isenção devem ser acompanhados dos seguintes documentos e elementos de informação:
+
+a) Identificação dos equipamentos que se destinam a ser abastecidos com produtos com isenção de ISP;
+
+b) Indicação da localização dos depósitos junto da linha férrea que abastecem esses equipamentos.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 52.º
+
+A alfândega competente, para efeitos de controlo dos depósitos referidos na alínea b) do número anterior, remete às alfândegas, em cuja área de jurisdição os mesmos se situem, a informação prevista no referido número e a informação decorrente do disposto no n.º 54.º
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 53.º
+
+Os abastecimentos efectuados a equipamentos autorizados são registados através dos cartões de microcircuito atribuídos às entidades beneficiárias, no prazo máximo de cinco dias úteis.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 54.º
+
+Os beneficiários da isenção devem comunicar à alfândega de reconhecimento qualquer alteração aos elementos referidos no n.º 51.º
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+## Título III — Taxas reduzidas de ISP
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+### Capítulo I — Taxas reduzidas do ISP para utilização em equipamentos agrícolas e florestais
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 55.º
+
+A aplicação de uma taxa reduzida de ISP aos equipamentos previstos nas alíneas a) e c) do n.º 3 do artigo 93.º do CIEC abrange as utilizações que, para os efeitos da presente portaria, se designam por equipamentos agrícolas, aquícolas e florestais.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 56.º
+
+Os pedidos de benefício fiscal são, no caso de equipamentos agrícolas e florestais, apresentados junto das direções regionais de agricultura e pescas, que procedem à instrução dos mesmos, ou, no caso de equipamentos aquícolas, apresentados junto da DGRM ou do ICNF, I. P., conforme as áreas das respetivas competências, que procedem à instrução dos mesmos.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 57.º
+
+Sem prejuízo do disposto na alínea a) do artigo 2.º, o exercício de uma actividade declarada pode ser dispensado relativamente a beneficiários cujos plafonds anuais indicativos ou de referência não ultrapassem 3600 l.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 57.º-A
+
+O disposto no número anterior não se aplica aos equipamentos utilizados na atividade aquícola.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 58.º
+
+Os pedidos de benefício fiscal, para além dos documentos previstos no n.º 4.º, devem ainda ser acompanhados de manifesto, contendo a identificação dos equipamentos destinados a serem abastecidos com gasóleo colorido e marcado, bem como de prova da respectiva titularidade ou legítima detenção.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 59.º
+
+A comprovação da titularidade ou da legítima detenção dos equipamentos manifestados deve ter em conta, designadamente, os seguintes critérios:
+
+a) No caso dos tractores agrícolas de rodas, deve ser apresentado o respectivo livrete e título de registo de propriedade ou documento único;
+
+b) Para os restantes equipamentos deve ser apresentado o respectivo documento de aquisição ou declaração emitida pela junta de freguesia da área do candidato ao benefício, atestando a sua legítima detenção;
+
+c) No caso de o equipamento constituir propriedade de terceiros, deve ser apresentada uma declaração de cedência em conformidade;
+
+d) Para as áreas regadas por bombagem a gasóleo deve ser apresentada prova da respectiva titularidade, designadamente caderneta predial, contrato de arrendamento ou declaração de cedência.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 60.º
+
+Concluída a instrução do pedido, a DGADR, a DGRM e o ICNF, I. P., nas áreas das respetivas competências, enviam semanalmente à AT uma listagem em suporte informático, com proposta de decisão dos pedidos recebidos, respetivamente, pelas direções regionais de agricultura e pescas, pela DGRM ou pelo ICNF, I. P., para efeitos de reconhecimento do benefício fiscal.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 61.º
+
+As autoridades competentes para a reavaliação dos pressupostos do benefício fiscal, bem como para efeitos do cumprimento do disposto nos n.os 7.º e 8.º, são a DGADR, a DGRM e o ICNF, I. P., nas áreas das suas respetivas competências, devendo ser comunicadas à AT todas as situações que impliquem:
+
+a) Reconhecimento de um novo benefício fiscal;
+
+b) Revogação de um benefício fiscal.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+###### Artigo 62.º
+
+Para efeitos do disposto no número anterior, os beneficiários devem comunicar, junto das direções regionais de agricultura e pescas competentes, da DGRM, do ICNF, I. P., ou das instituições por estas devidamente credenciadas para o efeito, qualquer alteração dos pressupostos do benefício fiscal, designadamente a cessação da atividade, ou outras alterações relevantes, como sejam a alteração dos equipamentos autorizados, a transferência da propriedade dos equipamentos, a cedência ou a substituição destes, ou as alterações nas áreas regadas por bombagem a gasóleo.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 206/2014 - Diário da República n.º 194/2014, Série I de 2014-10-08](https://diariodarepublica.pt/dr/detalhe/portaria/206-2014-58169531), em vigor a partir de 2014-10-09
+
+> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 762/2010 - Diário da República n.º 162/2010, Série I de 2010-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/762-2010-343449), em vigor a partir de 2010-08-21
+
+### Capítulo II — Taxas reduzidas de ISP para utilização em motores fixos
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 63.º
+
+A aplicação de uma taxa reduzida de ISP prevista na alínea e) do n.º 3 do artigo 74.º do CIEC abrange as utilizações que, para efeitos da presente portaria, se designam por motores fixos.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 64.º
+
+É competente para efeitos do disposto no n.º 3.º a alfândega em cuja área de jurisdição se localize a plataforma na qual o motor fixo se encontra instalado.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 65.º
+
+Para efeitos do reconhecimento do benefício, devem os pedidos ser acompanhados dos seguintes documentos e elementos de informação:
+
+a) Cartão de identificação fiscal;
+
+b) Identificação do equipamento que vai consumir gasóleo colorido e marcado, contendo a marca, modelo e respectivo número;
+
+c) Comprovativo da titularidade ou legítima detenção do equipamento em causa, mediante a apresentação de factura ou documento comercial equivalente;
+
+d) Estimativa de consumo médio anual, com base em memória descritiva da actividade a que o equipamento se destina.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+## Título IV — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 66.º
+
+As pessoas singulares ou colectivas que à data da entrada em vigor da presente portaria sejam beneficiárias de isenção ou de redução de taxas do ISP dispõem, sob pena de revogação da isenção anteriormente concedida, dos seguintes prazos para tomarem as medidas necessárias ao cumprimento do disposto na presente portaria;
+
+a) Seis meses, no caso da isenção prevista no capítulo i do título ii da presente portaria; e
+
+b) Dois meses, no caso das isenções previstas na secção i do capítulo ii do título ii, nos capítulos iii, iv e v do título ii e no capítulo ii do título iii da presente portaria.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 67.º
+
+Mantêm-se válidos os cartões de microcircuito que se encontrem atribuídos à data de entrada em vigor da presente portaria.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 68.º
+
+Os rótulos previstos no n.º 14.º da Portaria n.º 1038/97, de 3 de Outubro, podem ser utilizados nas embalagens referidas no n.º 27.º da presente portaria, até ao esgotamento dos respectivos stocks.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 69.º
+
+São revogadas as Portarias n.os 1038/97, de 3 de Outubro, e 248/97, de 14 de Abril.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+###### Artigo 70.º
+
+A presente portaria produz efeitos no dia imediato ao da sua publicação.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04
+
+Em 14 de Novembro de 2007.
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas.
+
+> Revogado pelo/a Artigo 54.º do/a [Portaria n.º 50/2020 - Diário da República n.º 41/2020, Série I de 2020-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/50-2020-129643712), em vigor a partir de 2020-03-04

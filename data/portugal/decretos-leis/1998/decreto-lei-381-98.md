@@ -1,0 +1,683 @@
+---
+schema_version: '1.0'
+id: pt:dre:217324:por
+title: Decreto-Lei n.º 381/98
+short_title: null
+summary: Regulamenta e desenvolve o regime jurídico da identificação criminal e de contumazes
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 381/98
+official_date: null
+publication_date: '1998-11-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 275/1998, Série I-A de 1998-11-27
+  number: '275'
+  series: I
+  supplement: null
+  pages: 6576 - 6582
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/11/275a00/65766582.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-12-23'
+version_history:
+  file: decreto-lei-381-98.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-11-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2007-03-10'
+    amending: pt:dre:522653:por
+    amending_title: Decreto-Lei n.º 20/2007
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 29.º
+  - date: '2009-12-23'
+    amending: pt:dre:491226:por
+    amending_title: Decreto-Lei n.º 288/2009
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 25.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 33.º
+    - Altera Artigo 40.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/381/1998/p/cons/20091008/pt/html
+  oj: null
+  dre: '217324'
+  dre_path: /dr/detalhe/decreto-lei/381-1998-217324
+  internal: pt:dre:217324:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/381-1998-217324
+  metadata_url: https://data.dre.pt/eli/dec-lei/381/1998/p/cons/20091008/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-56359900
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-56359900
+  retrieved_at: '2026-10-22T11:54:57Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 381db6e37be10450b61787487a15cf39c3762d21f82dfb2c8e14f850ed2ed00e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:54:57Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-381-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Registo Criminal
+- Cidadão Estrangeiro
+- Certificado do Registo Criminal
+- Cidadão Nacional
+- Conservação de Documentos
+- Identificação de Contumazes
+- Registo de Contumazes
+- Direcção Geral dos Serviços Judiciários
+- Telecopia
+- Impresso
+- Identificação Criminal
+- Contumaz
+- Direito à Informação
+- Microfilmagem
+- Confidencialidade
+- Regime Jurídico
+- Dados Pessoais
+relationships:
+- type: amended_by
+  target: pt:dre:522653:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 29.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653
+  date: '2007-01-23'
+- type: amended_by
+  target: pt:dre:491226:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 9.º;
+    Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 16.º; Altera Artigo 18.º;
+    Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 25.º; Altera Artigo 29.º; Altera Artigo 31.º; Altera Artigo 33.º;
+    Altera Artigo 40.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226
+  date: '2009-10-08'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/1991/05/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/1991/05/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/57/1998/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/57/1998/08/18/p/dre
+article_structure:
+  article_count: 41
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:54:57Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 381/98
+
+Decreto-Lei n.º 381/98
+
+de 27 de Novembro
+
+O presente diploma regulamenta e desenvolve o regime jurídico da identificação criminal e de contumazes, aprovado pela Lei n.º 57/98, de 18 de Agosto, que estabelece uma profunda renovação deste instituto, no sentido da sua modernização e de uma maior adequação às necessidades dos utilizadores e aos imperativos constitucionais a que se subordina.
+
+O funcionamento do registo criminal encontra-se, ainda hoje, regulado pelo Decreto-Lei n.º 39/83, de 25 de Janeiro, publicado na sequência do Código Penal de 1982 com o objectivo de harmonizar o regime do registo criminal com as profundas alterações operadas por este Código, o qual, no entanto, não introduziu alterações profundas no regime anteriormente vigente.
+
+A Lei n.º 12/91, de 21 de Maio, pretendeu servir de quadro normativo de base regulador da matéria, mas manteve praticamente intocadas muitas das normas anteriores. Decorreram, porém, cerca de sete anos sem que este diploma entrasse em vigor, uma vez que tal dependia da publicação de decreto-lei que a regulamentasse, o que nunca veio a ocorrer.
+
+Entretanto, foram introduzidas alterações significativas no que respeita à organização dos serviços, passando a identificação civil e a identificação criminal a constituir atribuições de entidades distintas.
+
+Por outro lado, em matéria tão sensível como é a identificação criminal, são agora particularmente importantes as disposições legais referentes à protecção de dados pessoais informatizados.
+
+A tudo isto acresce, por um lado, a evolução que se vem registando na função de identificação criminal, visível, designadamente, em sistemas comparados, e, por outro, a crescente preocupação pela conformidade constitucional do leque de decisões judiciais sujeitas a inscrição no registo criminal.
+
+O presente diploma desenvolve as grandes linhas de modernização e de flexibilização de procedimentos da reforma. Sublinham-se, designadamente, a simplificação de vários aspectos do funcionamento dos serviços e o regime das normas de acesso aos registos, a consagração clara de direitos e respectivos instrumentos de controlo em matéria de protecção de dados pessoais informatizados e o estabelecimento do quadro de funcionamento do registo informatizado de contumazes.
+
+Foi ouvida a Comissão Nacional de Protecção dos Dados Pessoais Informatizados.
+
+Assim:
+
+Nos termos dos artigos 112.º, n.º 5, e 198.º, n.º 1, alínea c), da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Decreto-Lei n.º 20/2007 - Diário da República n.º 16/2007, Série I de 2007-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653) Remetidas para o "diretor-geral da Administração da Justiça" todas as referências feitas neste diploma ao "diretor-geral dos Serviços Judicário".
+
+### Capítulo I — Identificação criminal
+
+#### Secção I — Disposições gerais
+
+###### Artigo 1.º — Serviços de identificação criminal
+
+São serviços de identificação criminal os serviços da Direcção-Geral da Administração da Justiça como tal definidos na respectiva Lei Orgânica.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 2.º — Competências
+
+Compete aos serviços de identificação criminal:
+
+a) Assegurar a prossecução das atribuições definidas por lei em matéria de registo criminal e de registo de contumazes;
+
+b) Transmitir aos serviços intermediários referidos no artigo 14.º as instruções de ordem interna relativas à recepção de documentos e ao controlo de dados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 20/2007 - Diário da República n.º 16/2007, Série I de 2007-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653), em vigor a partir de 2007-03-10
+
+###### Artigo 3.º — Emissão de certificados
+
+1 - Os certificados do registo criminal são emitidos em impresso próprio, salvo quando sejam solicitados pelas entidades referidas no n.º 3 do artigo 14.º
+
+2 - Os certificados do registo de contumazes são emitidos em impresso próprio.
+
+3 - O processamento automático da emissão de certificados nos tribunais é determinado por despacho do director-geral da Administração da Justiça.
+
+4 - O processamento automático da emissão de certificados em instalações de outras entidades é determinado por despacho do ministro da Justiça e, sempre que tal se justifique, do Ministro da tutela do serviço em causa.
+
+5 - Os certificados são devidamente autenticados pela entidade onde se processa a emissão, não sendo válidos os que apresentem emendas, rasuras ou entrelinhas.
+
+6 - Os certificados são válidos por três meses, a contar da data da sua emissão, exclusivamente para os fins solicitados no requerimento ou na requisição e indicados no próprio certificado.
+
+7 - A recepção de certificado do registo criminal por via electrónica, pelas entidades referidas no n.º 3 do artigo 14.º, está sujeita a despacho de autorização do director-geral da Administração da Justiça, valendo o certificado assim obtido apenas para os fins correspondentes à instrução dos processos que justificaram a sua emissão.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 20/2007 - Diário da República n.º 16/2007, Série I de 2007-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653), em vigor a partir de 2007-03-10
+
+#### Secção II — Registo criminal
+
+##### Subsecção I — Conteúdo do registo
+
+###### Artigo 4.º — Número do registo criminal
+
+Ao registo de cada cidadão ou pessoa colectiva ou entidade equiparada identificado criminalmente é atribuído um número sequencial ao qual se reporta toda a informação criminal existente a seu respeito.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 5.º — Boletim do registo criminal
+
+1 - O boletim do registo criminal é o meio de comunicação aos serviços de identificação criminal das decisões e factos sujeitos a registo e deve conter o extracto da decisão, a indicação do facto, a data e a assinatura, devidamente autenticada, do responsável pelo preenchimento.
+
+2 - O extracto da decisão contém a indicação:
+
+a) Do tribunal que proferiu a decisão e do número e forma do processo;
+
+b) Da identificação do arguido;
+
+c) Da data e forma da decisão;
+
+d) Do conteúdo da decisão e dos preceitos aplicados.
+
+3 - Tratando-se de decisões que aplicam penas e medidas de segurança, o respectivo extracto deve conter a designação e data da prática do crime, com indicação dos preceitos violados e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas.
+
+4 - Do boletim de registo criminal deve ainda constar, se for caso disso, a referência:
+
+a) À data do trânsito em julgado da decisão de dispensa de pena;
+
+b) Aos números de identificação dos processos abrangidos pela decisão posterior à condenação que aplique a pena em caso de concurso de crimes;
+
+c) Ao número anterior de identificação do processo, sempre que, posteriormente à primeira comunicação, ocorra alteração daquele.
+
+5 - A identificação do arguido abrange:
+
+a) Tratando-se de pessoa singular, nome, sexo, filiação, naturalidade, data de nascimento, nacionalidade, estado civil, residência, número de identificação civil ou, na sua falta, do passaporte ou de outro documento de identificação idóneo e, quando se trate de decisão condenatória, estando presente o arguido no julgamento, as suas impressões digitais e assinatura;
+
+b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e número de identificação de pessoa colectiva e, quando aquela tenha resultado da fusão ou cisão de outra pessoa colectiva ou equiparada, os dados correspectivos a esta atinentes.
+
+6 - As impressões digitais e a assinatura do arguido devem ser objecto de recolha no boletim do registo criminal respectivo imediatamente após o encerramento da audiência de julgamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 6.º — Remessa de boletins
+
+1 - Os boletins do registo criminal são enviados imediatamente após o trânsito em julgado da decisão ou o conhecimento do facto sujeito a registo.
+
+2 - O preenchimento e remessa dos boletins são da responsabilidade do escrivão de direito da secção por onde corre o processo, ou de quem exerça as respectivas funções, o qual deve providenciar por que constem dos boletins os elementos referidos no artigo anterior, em particular os elementos de identificação do arguido.
+
+3 - A remessa de boletins consta de nota lançada no processo e prova-se apenas pelos recibos respectivos.
+
+4 - Se depois da remessa do boletim se apurar que o arguido a quem o mesmo respeita forneceu uma identificação falsa, ou que não eram correctos os elementos de identificação, preenche-se outro boletim com a identificação correcta, que é remetido com a respectiva nota de referência, para a substituição do anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 7.º — Preenchimento incompleto ou incorrecto
+
+1 - Não sendo possível o preenchimento completo do boletim do registo criminal, o escrivão de direito da secção deve nele apor a declaração de ter verificado essa impossibilidade.
+
+2 - São devolvidos:
+
+a) Os boletins preenchidos de modo incompleto que não venham acompanhados da declaração referida no número anterior;
+
+b) Os boletins preenchidos de modo incorrecto;
+
+c) Os boletins cujos elementos não possibilitem a identificação inequívoca do titular do registo.
+
+###### Artigo 8.º — Recibo dos boletins
+
+1 - A recepção dos boletins do registo criminal correctamente preenchidos é acusada mediante a remessa do respectivo recibo pelos serviços de identificação criminal.
+
+2 - Quando a recepção do boletim correctamente preenchido não for acusada, o escrivão de direito da secção deve comunicar o facto aos serviços de identificação criminal.
+
+##### Subsecção II — Formas de acesso ao registo
+
+###### Artigo 9.º — Requisição de certificados do registo criminal
+
+1 - Podem requisitar certificados do registo criminal as entidades referidas nas alíneas a) a h) do artigo 7.º da Lei n.º 57/98, de 18 de Agosto.
+
+2 - As requisições são formuladas em impresso próprio e remetidas aos serviços de identificação criminal, não sendo aceites aquelas cujos elementos não possibilitem a identificação inequívoca do titular dos dados ou não indiquem o nome e a categoria da pessoa que as assina.
+
+3 - A requisição de certificados por entidades oficiais ou diplomáticas é feita pelo dirigente dos serviços ou pela entidade em que este delegue, devendo ser referido o despacho do Ministro da Justiça que autoriza a emissão do certificado.
+
+4 - Se a entidade requisitante dispuser de terminal de computador onde se processe a emissão de certificados do registo criminal, a respectiva requisição é feita de acordo com regras de procedimento aprovadas por despacho do director-geral da Administração da Justiça, sendo aplicável o disposto no n.º 3 do artigo 16.º
+
+5 - Os termos e o conteúdo da emissão dos certificados do registo criminal requisitados ao abrigo de autorização do Ministro da Justiça são determinados no despacho de autorização.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 10.º — Requerimento de certificado do registo criminal
+
+1 - Podem requerer certificados do registo criminal:
+
+a) O titular da informação;
+
+b) Qualquer pessoa, nos termos do n.º 1 do artigo 12.º
+
+2 - Podem ainda requerer certificados do registo criminal os ascendentes, o tutor e o curador, durante a incapacidade do titular da informação, no interesse deste, e quando declararem que se encontra ausente do País ou impossibilitado de o requerer.
+
+###### Artigo 11.º — Requerimento de certificado pelo titular da informação
+
+1 - O titular da informação que requeira certificado do registo criminal deve provar ser o próprio requerente e confirmar os seus dados de identificação civil, através da exibição de documento de identificação civil ou outro documento de identificação idóneo, ou pelo reconhecimento da sua assinatura.
+
+2 - Tratando-se de pessoa colectiva ou entidade equiparada, o certificado do registo criminal pode ser requerido por quem, nos termos da lei, a represente, sendo tal qualidade comprovada através da exibição de documento comprovativo da mesma ou de outros meios legalmente admissíveis, devendo ser também comprovados os dados de identificação civil do requerente, através da exibição de documento de identificação civil ou de outro documento de identificação idóneo, ou pelo reconhecimento da sua assinatura.
+
+3 - Não sendo indicado no requerimento o número de identificação civil ou o número de identificação de pessoa colectiva do titular, a emissão depende da verificação inequívoca da sua identidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 12.º — Requerimento de certificado de terceiro
+
+1 - Quem requerer certificado do registo criminal relativo a terceiro deve apresentar declaração do titular da informação ou, no caso de pessoa colectiva ou entidade equiparada, de quem, nos termos da lei, a represente, comprovativa de que o pedido é feito em seu nome ou no seu interesse e onde sejam especificados:
+
+a) O fim a que se destina o certificado;
+
+b) O nome completo e o número de identificação civil da pessoa que o pode requerer ou a referência a outro documento idóneo que possibilite a sua identificação.
+
+2 - Os dados de identificação do requerente e do titular da informação devem ser confirmados nos termos dos n.os 1 e 2 do artigo 11.º, sendo aplicável à emissão do certificado o disposto no n.º 3 do mesmo artigo.
+
+3 - Quando se trate das entidades referidas no n.º 3 do artigo 14.º, o requerimento de certificado do registo criminal é apresentado, em obediência aos requisitos impostos pelo presente diploma, por via electrónica, nos termos a definir por portaria do Ministro da Justiça.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 20/2007 - Diário da República n.º 16/2007, Série I de 2007-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653), em vigor a partir de 2007-03-10
+
+###### Artigo 13.º — Requerimento de certificado por ascendente, tutor ou curador
+
+1 - Quem requerer certificado do registo criminal nos termos do n.º 2 do artigo 10.º deve comprovar a qualidade em que requer e declarar a situação que impede o próprio titular de requerer.
+
+2 - Os dados de identificação do requerente e do titular da informação são confirmados nos termos do n.º 1 do artigo 11.º, sendo aplicável à emissão do certificado o disposto no n.º 3 do mesmo artigo.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 14.º — Requisitos do requerimento de certificado
+
+1 - O requerimento de certificado do registo criminal é formulado em impresso próprio, entregue nos serviços de identificação criminal, nas secretarias judiciais, nos serviços municipais de municípios que não sejam sede de comarca e nas representações diplomáticas ou consulares portuguesas no estrangeiro, sem prejuízo do disposto no número seguinte.
+
+2 - Os requerentes residentes no estrangeiro podem remeter o requerimento aos serviços de identificação criminal, desde que enviem fotocópia autenticada do seu documento de identificação civil ou de outro documento de identificação idóneo ou reconheçam a sua assinatura em serviços notariais ou consulares portugueses.
+
+3 - No âmbito da instrução de procedimentos administrativos dos quais dependa a concessão de emprego ou obtenção de licença, autorização ou registo de carácter público, quando seja legalmente exigida a apresentação de certificado do registo criminal, o requerimento para a emissão do certificado é apresentado junto das entidades públicas competentes para a instrução do procedimento administrativo respectivo.
+
+4 - Estão abrangidas pelo número anterior as seguintes entidades públicas:
+
+a) Quaisquer entidades públicas pertencentes à administração central directa ou indirecta do Estado;
+
+b) As Regiões Autónomas e os municípios, mediante a celebração de protocolo com a Direcção-Geral da Administração da Justiça.
+
+5 - Nos casos previstos no n.º 3, as entidades referidas no número anterior devem remeter os requerimentos de certificado do registo criminal por via electrónica, acompanhados da identificação do requerente e do respectivo número do bilhete de identidade ou outro documento idóneo de identificação, nos termos a estabelecer por portaria do Ministro da Justiça.
+
+6 - No requerimento deve ser claramente especificado o fim a que se destina o certificado.
+
+7 - A utilização do impresso para requerimento de certificado do registo criminal pode ser dispensada nos serviços onde se processe a emissão, em condições a fixar por despacho do director-geral dos Serviços Judiciários, devendo os dados de identificação declarados e os demais requisitos do pedido ser confirmados nos termos dos artigos 11.º a 13.º, conforme o caso.
+
+8 - São indeferidos os requerimentos que não cumpram os requisitos estabelecidos nos números anteriores, relativamente aos quais não seja observado o disposto nos artigos 11.º a 13.º, ou que suscitem fundadas dúvidas quanto à veracidade ou à correcção dos elementos declarados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 20/2007 - Diário da República n.º 16/2007, Série I de 2007-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653), em vigor a partir de 2007-03-10
+
+###### Artigo 15.º — Acesso ao registo pelo titular
+
+1 - O requerimento de reprodução autenticada do registo criminal e o pedido de consulta do registo individual destinam-se a facultar ao titular da informação o conhecimento do conteúdo integral do registo a seu respeito, de modo a permitir o completamento de omissões ou a correcção de dados incorrecta ou indevidamente registados.
+
+2 - São dados incorrecta ou indevidamente registados os que se não mostrem conformes com teor da comunicação efectuada pelos tribunais aos serviços de identificação criminal.
+
+3 - O requerimento de reprodução autenticada do registo informático e o pedido de consulta do registo individual são formulados em impresso próprio, sendo-lhes aplicável o disposto nos artigos 10.º a 14.º
+
+4 - A reprodução autenticada do registo informático é devidamente autenticada pela entidade onde se processa a emissão.
+
+5 - A consulta do registo individual é efectuada nos serviços centrais de identificação criminal, em dia e hora designados para o efeito e na presença de um funcionário dos serviços.
+
+###### Artigo 16.º — Acesso directo ao registo informático
+
+1 - As condições de acesso directo ao ficheiro central de identificação criminal pelas entidades referidas nas alíneas a) a h) do artigo 7.º da Lei n.º 57/98, de 18 de Agosto, são definidas por despacho do director-geral da Administração da Justiça.
+
+2 - Todas as operações relacionadas com o acesso directo por parte das entidades autorizadas dependem da utilização de palavra de passe que identifique o posto de trabalho, a pessoa que acede à informação e a hora e tempo do acesso.
+
+3 - As entidades autorizadas a aceder directamente ao ficheiro central de identificação criminal adoptam todas as medidas necessárias à estrita observância das regras de segurança estabelecidas no artigo 29.º, sob controlo dos serviços de identificação criminal e do Instituto das Tecnologias de Informação na Justiça, I. P.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+#### Secção III — Ficheiro dactiloscópico
+
+###### Artigo 17.º — Ficheiro dactiloscópico
+
+As impressões digitais dos arguidos condenados remetidas pelos tribunais, depois de devidamente classificadas, são objecto de arquivo pela ordem da respectiva fórmula, com referência ao respectivo número de registo criminal.
+
+###### Artigo 18.º — Acesso ao ficheiro dactiloscópico
+
+1 - Têm acesso ao ficheiro dactiloscópico as entidades referidas nas alíneas a), b), c), e) e h) do artigo 7.º da Lei n.º 57/98, de 18 de Agosto.
+
+2 - O acesso ao ficheiro dactiloscópico é solicitado aos serviços de identificação criminal através de pedido de informação de elementos dactiloscópicos ou de pedido de consulta do ficheiro dactiloscópico.
+
+3 - A consulta do ficheiro dactiloscópico efectua-se nos serviços de identificação criminal, por intermédio de funcionário dos serviços, em dia e hora designados para o efeito.
+
+4 - Ao acesso ao ficheiro dactiloscópico é aplicável supletivamente o disposto nos artigos 9.º e 15.º, com as necessárias adaptações.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+#### Secção IV — Registo de contumazes
+
+###### Artigo 19.º — Ficheiro central
+
+1 - O registo de contumazes é constituído pela identificação do titular e por extractos de decisões proferidas pelos tribunais, de declaração, alteração ou cessação de contumácia que a ele respeitem.
+
+2 - A identificação do titular abrange:
+
+a) Tratando-se de pessoa singular, nome, sexo, filiação, naturalidade, data de nascimento, nacionalidade, residência e número de identificação civil ou, na sua falta, do passaporte ou de outro documento de identificação idóneo;
+
+b) Tratando-se de pessoa colectiva ou entidade equiparada, denominação, sede e número de identificação de pessoa colectiva.
+
+3 - Os extractos de decisões a que se refere o n.º 1 contêm a indicação:
+
+a) Do tribunal que proferiu a decisão, da data e fase processual em que foi proferida e do número e forma do processo;
+
+b) Do crime imputado ao arguido e das disposições legais que o punem;
+
+c) Dos efeitos especiais da decisão de declaração ou de alteração de contumácia ou do motivo da cessação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 20.º — Boletim de contumácia
+
+1 - O boletim de contumácia é o meio de comunicação das decisões sobre contumácia sujeitas a registo aos serviços de identificação criminal.
+
+2 - O boletim de contumácia deve conter:
+
+a) As indicações constantes dos n.os 2 e 3 do artigo 19.º;
+
+b) Os números anteriores de identificação do processo, sempre que tal se justifique;
+
+c) A data e a assinatura, devidamente autenticada, do responsável pelo preenchimento.
+
+3 - Os efeitos especiais da declaração de contumácia e a respectiva especificação devem constar do boletim de acordo com os códigos constantes de tabela aprovada por despacho do director-geral da Administração da Justiça.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 21.º — Vigência do registo
+
+1 - São eliminadas do registo as declarações e alterações de contumácia sobre as quais tenha sido proferida decisão de cessação.
+
+2 - O registo de contumaz é cancelado quando forem eliminadas todas as declarações de contumácia respeitantes ao mesmo titular.
+
+###### Artigo 22.º — Acesso ao registo
+
+O conhecimento da informação sobre a situação de contumácia pode ser obtido pelas seguintes formas:
+
+a) Certificado de contumácia;
+
+b) Reprodução autenticada do registo informático;
+
+c) Acesso directo.
+
+###### Artigo 23.º — Pedidos de certificado de contumácia
+
+1 - O requerimento e a requisição de certificado de contumácia são formulados em impresso próprio.
+
+2 - Podem requerer certificados de contumácia:
+
+a) O titular da informação ou quem prove efectuar o pedido em seu nome ou no seu interesse;
+
+b) Os terceiros, nos termos da alínea c) do n.º 2 do artigo 19.º da Lei n.º 57/98, de 18 de Agosto.
+
+3 - Podem requisitar certificados de contumácia:
+
+a) As entidades referidas nas alíneas a) a h) do artigo 7.º da Lei n.º 57/98, de 18 de Agosto;
+
+b) As entidades referidas na alínea b) do n.º 2 do artigo 19.º do mesmo diploma.
+
+###### Artigo 24.º — Requisitos dos pedidos
+
+1 - Aos pedidos de certificado de contumácia aplica-se o disposto nos artigos 9.º a 14.º, com as necessárias adaptações.
+
+2 - Os terceiros com legitimidade para aceder ao registo de contumazes devem apresentar documento comprovativo do seu interesse.
+
+3 - Tratando-se de pessoa colectiva ou equiparada, o pedido deve ser apresentado por quem, nos termos da lei, a pode obrigar, devendo tal qualidade ser devidamente comprovada.
+
+4 - São recusados os pedidos que não satisfaçam os requisitos previstos no presente diploma, bem como os que não se façam acompanhar dos documentos referidos nos números anteriores.
+
+###### Artigo 25.º — Conteúdo dos certificados
+
+1 - Os certificados emitidos nos termos da alínea a) do n.º 2 e da alínea a) do n.º 3 do artigo 23.º contêm a transcrição integral do registo vigente.
+
+2 - Os certificados emitidos nos termos das alíneas b) dos n.os 2 e 3 do artigo 23.º contêm apenas a indicação da situação de contumácia e dos efeitos da declaração de contumácia, com referência à identificação da decisão judicial respectiva.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 26.º — Reprodução autenticada do registo informático
+
+1 - O requerimento de reprodução autenticada do registo informático é formulado em impresso próprio, sendo aplicável o disposto no artigo 15.º
+
+2 - A reprodução autenticada do registo informático é devidamente autenticada pela entidade onde se processa a emissão, não substituindo, em caso algum, o certificado de contumácia.
+
+###### Artigo 27.º — Acesso directo ao registo informático
+
+1 - Podem aceder directamente ao ficheiro de contumazes as entidades referidas no n.º 3 do artigo 23.º
+
+2 - Aplica-se ao acesso directo ao registo informático de contumazes o disposto no artigo 16.º
+
+###### Artigo 28.º — Regime supletivo
+
+Ao registo de contumazes são subsidiariamente aplicáveis as disposições relativas ao registo criminal, com as devidas adaptações.
+
+### Capítulo II — Funcionamento dos serviços
+
+#### Secção I — Disposições gerais de funcionamento
+
+###### Artigo 29.º — Segurança da informação
+
+1 - São objecto de controlo, tendo em vista a segurança da informação:
+
+a) Os suportes de dados e o respectivo transporte, a fim de impedir que possam ser lidos, copiados, alterados ou eliminados por qualquer pessoa ou por qualquer forma não autorizadas;
+
+b) A inserção de dados, a fim de impedir a introdução, bem como qualquer tomada de conhecimento, alteração ou eliminação não autorizada de dados pessoais;
+
+c) Os sistemas de tratamento automatizado de dados, para impedir que possam ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;
+
+d) O acesso aos dados, para que as pessoas autorizadas só possam ter acesso aos dados que interessem ao exercício das suas atribuições legais;
+
+e) A transmissão dos dados, para garantir que a sua utilização seja limitada às entidades autorizadas;
+
+f) A introdução de dados pessoais nos sistemas de tratamento automatizado, de forma a verificar-se que todos foram introduzidos, quando e por quem.
+
+2 - Compete ao director-geral da Administração da Justiça garantir o respeito pelo disposto no número anterior.
+
+3 - O sector de informática e o ficheiro de identificação criminal são de acesso restrito, em termos a fixar pelo director-geral da Administração da Justiça.
+
+4 - O uso indevido da informação disponível nas bases de dados do registo criminal é punido nos termos previstos na lei de protecção de dados pessoais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 20/2007 - Diário da República n.º 16/2007, Série I de 2007-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2007-522653), em vigor a partir de 2007-03-10
+
+###### Artigo 30.º — Transmissão de documentos por telecópia
+
+1 - Em caso de reconhecida urgência, a transmissão de informação criminal e de contumazes, incluindo os respectivos certificados, entre os serviços de identificação criminal ou entre estes e os serviços intermediários ou requisitantes, pode ser feita por telecópia, sendo reconhecida aos documentos transmitidos a força probatória dos respectivos originais.
+
+2 - Os originais dos boletins transmitidos por telecópia devem ser remetidos aos serviços de identificação criminal nos termos fixados no artigo 6.º
+
+3 - Os originais dos restantes documentos transmitidos por telecópia devem ser arquivados no serviço emitente durante o prazo de validade do certificado a que se reportam, podendo, em caso de dúvida, ser solicitada, a sua remessa pelos serviços de identificação criminal.
+
+4 - Quando no documento a transmitir por telecópia estiver aposto selo branco ou dele não resultem os requisitos de certificação legalmente exigidos, a referência àquela aposição e a estes requisitos devem constar de papel datado e assinado por funcionário, a transmitir na continuidade do documento.
+
+###### Artigo 31.º — Transmissão de dados por via telemática
+
+1 - A utilização de impressos exclusivos dos serviços de identificação criminal para transmissão de dados de identificação criminal, nas situações previstas neste diploma, pode ser substituída pela transmissão de dados por via telemática desde que fique assegurada a segurança dos dados a transmitir e a verificação, em cada caso, dos respectivos requisitos exigidos no presente diploma.
+
+2 - A substituição a que se refere o número anterior é autorizada por despacho do Ministro da Justiça, sob proposta do director-geral da Administração da Justiça.
+
+3 - É correspondentemente aplicável o disposto no n.º 3 do artigo 6.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 32.º — Erro dos serviços ou extravio de documentos
+
+1 - Há lugar a emissão gratuita de certificado:
+
+a) Se for deferida reclamação do interessado, com fundamento em erro dos serviços, relativamente a emissão anterior;
+
+b) Se for verificado o extravio de requerimento já recebido pelos serviços, ou de certificado emitido mas ainda não entregue ao interessado.
+
+2 - O prazo para apresentação de reclamações é de 30 dias seguidos a contar, conforme o caso, da data da recepção do requerimento ou da emissão do certificado.
+
+###### Artigo 33.º — Remessa do certificado
+
+O certificado pode ser remetido directamente aos interessados, mediante prévio pagamento da franquia postal e das despesas de remessa, nas condições a fixar por despacho do director-geral da Administração da Justiça.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+###### Artigo 34.º — Pedidos efectuados no estrangeiro
+
+1 - Os requerimentos de certificado provenientes do estrangeiro devem ser acompanhados da importância correspondente às quantias devidas pela emissão e pelas despesas de franquia postal e de remessa.
+
+2 - Sempre que se verifiquem dificuldades na remessa das importâncias devidas para pagamento das quantias correspondentes aos pedidos de certificado, podem as representações diplomáticas e consulares portuguesas no estrangeiro proceder à cobrança em dinheiro, mediante a passagem de documento de quitação.
+
+3 - Não são aceites os pedidos que não sejam acompanhados da quantia referida no n.º 1 ou do duplicado do documento de quitação a que se refere o número anterior.
+
+###### Artigo 35.º — Microfilmagem
+
+1 - Podem ser microfilmados os documentos contendo informação sobre identificação criminal, bem como outros documentos ou registos inerentes ao funcionamento dos serviços de identificação criminal.
+
+2 - No caso de microfilmagem de documentos ou de registos, é elaborado um livro de registo dos filmes, com termos de abertura e de encerramento, sendo estes arquivados em ficheiros próprios, em condições de conservação e segurança.
+
+3 - A microfilmagem pode ser acompanhada ou substituída por meios técnicos informatizados.
+
+###### Artigo 36.º — Destruição de documentos
+
+1 - São destruídos, de forma segura e com impossibilidade de reconstituição dos originais:
+
+a) Os documentos ou registos microfilmados nos termos do artigo anterior;
+
+b) Os documentos contendo informação sobre identificação criminal que já não possa ser mantida em ficheiro, nos termos do artigo 24.º da Lei n.º 57/98, de 18 de Agosto;
+
+c) Os microfilmes, ou outro suporte, de documentos contendo informação sobre identificação criminal que já não possa manter-se em ficheiro, nos termos do artigo 24.º do mesmo diploma;
+
+d) Os documentos que hajam servido de base à emissão de certificados, após o decurso do prazo de validade destes;
+
+e) Quaisquer outros documentos ou registos inerentes ao funcionamento dos serviços e que não contenham decisão de carácter permanente, decorrido um ano sobre a sua data.
+
+2 - Exceptuam-se do disposto no número anterior as amostras documentais para efeitos de arquivo histórico.
+
+###### Artigo 37.º — Sigilo profissional
+
+1 - São de natureza confidencial todos os dados de identificação criminal constantes do ficheiro e arquivo existentes nos serviços de identificação criminal.
+
+2 - Os funcionários e agentes que tomem conhecimento no exercício das suas funções dos dados de identificação criminal referidos no número anterior e, bem assim, os trabalhadores das empresas fornecedoras de equipamentos ou serviços estão sujeitos a sigilo profissional, mesmo após o termo das suas funções.
+
+#### Secção II — Taxas e impressos
+
+###### Artigo 38.º — Fixação das taxas
+
+As taxas a cobrar pelos serviços de identificação criminal pela prática de actos próprios das suas competências são fixadas por portaria conjunta dos Ministros das Finanças e da Justiça.
+
+###### Artigo 39.º — Isenção de taxas
+
+Beneficiam da isenção de taxas:
+
+a) As entidades oficiais quanto aos certificados do registo criminal requisitados;
+
+b) Os particulares, quando no exercício do direito de acesso ao conteúdo integral dos registos que lhes respeitem.
+
+###### Artigo 40.º — Impressos
+
+1 - Salvo o disposto no artigo 85.º do Decreto-Lei n.º 555/73, de 26 de Fevereiro, no que respeita aos impressos emitidos por computador, os modelos de impressos necessários ao exercício das competências dos serviços de identificação criminal são aprovados por despacho do Ministro da Justiça, sob proposta do director-geral da Administração da Justiça, constituindo modelos exclusivos dos serviços de identificação criminal.
+
+2 - O preço dos impressos referidos no número anterior é fixado por despacho do Ministro da Justiça.
+
+3 - Os impressos exclusivos dos serviços de identificação criminal a preencher pelo público são fornecidos nos locais de atendimento, podendo ser adquiridos nos estabelecimentos de venda de valores selados autorizados por despacho do director-geral da Administração da Justiça.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 288/2009 - Diário da República n.º 195/2009, Série I de 2009-10-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2009-491226), em vigor a partir de 2009-12-23
+
+### Capítulo III — Disposições finais
+
+###### Artigo 41.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia 1 de Janeiro de 1999.
+
+Visto e aprovado em Conselho de Ministros de 22 de Outubro de 1998. - António Manuel de Oliveira Guterres - José Eduardo Vera Cruz Jardim.
+
+Promulgado em 16 de Novembro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 19 de Novembro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

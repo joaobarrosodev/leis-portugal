@@ -1,0 +1,321 @@
+---
+schema_version: '1.0'
+id: pt:dre:617163:por
+title: Portaria n.º 237-A/96
+short_title: null
+summary: Aprova o Regulamento dos Projectos Piloto Experimentais de Acção Social, previstos no artigo 20.º da Lei n.º 19-A/96,
+  de 29 de Junho (rendimento mínimo garantido)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Solidariedade e Segurança Social
+proposing_entity: null
+official_number: 237-A/96
+official_date: null
+publication_date: '1996-07-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 150/1996, 1º Suplemento, Série I-B de 1996-07-01
+  number: '150'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1698-(2) a 1698-(5)
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/07/150b01/00020005.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/237-a/1996/07/01/p/dre/pt/html
+  oj: null
+  dre: '617163'
+  dre_path: /dr/detalhe/portaria/237-a-1996-617163
+  internal: pt:dre:617163:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/237-a-1996-617163
+  metadata_url: https://data.dre.pt/eli/port/237-a/1996/07/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/237-a-1996-617163
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-07-01T00:00:00Z'
+integrity:
+  source_sha256: f1335331f79864b5da7b8a51efe98573c047ff19b6362a134ed6afcb16c62d6f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-237-A-617163.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pobreza
+- Ação Social
+- Rendimento Mínimo Garantido
+- Prestações Pecuniárias
+- Inserção Social
+- Projeto
+- Proteção Social
+- Regulamento
+- Segurança Social
+- Subsídio não Reembolsável
+- VIDA Activa
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/19-a/1996/06/29/p/dre
+article_structure:
+  article_count: 28
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 237-A/96
+
+de 1 de Julho
+
+A [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho, cria o rendimento mínimo garantido, instituindo uma prestação do regime não contributivo da segurança social e um programa de inserção social.
+
+No sentido de criar condições que propiciem o desenvolvimento e uma gestão equilibrada de uma medida complexa como esta, optou-se por promover um período de aprendizagem social, em que o rendimento mínimo será criado sob a forma de projectos piloto experimentais de acção social.
+
+Assim:
+
+Manda o Governo, nos termos do artigo 20.º, n.º 5, da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho, pelo Ministro da Solidariedade e Segurança Social, o seguinte:
+
+1.º É aprovado o Regulamento dos Projectos Piloto Experimentais de Acção Social, previstos no artigo 20.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho, anexo ao presente diploma e que dele faz parte integrante.
+
+2.º O Regulamento referido no artigo 1.º entra em vigor no dia 1 de Julho de 1996.
+
+Ministério da Solidariedade e Segurança Social.
+
+**Assinada em 1 de Julho de 1996.**
+
+**O Ministro da Solidariedade e Segurança Social, Eduardo Luís Barreto Ferro Rodrigues.**
+
+REGULAMENTO DOS PROJECTOS PILOTO EXPERIMENTAIS DE ACÇÃO SOCIAL
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objecto do Regulamento
+
+O presente Regulamento define as orientações a que devem obedecer a apresentação das propostas e a criação, acompanhamento e avaliação dos projectos piloto experimentais de acção social, desenvolvidos no âmbito do rendimento mínimo garantido e previstos no artigo 20.º da [Lei n.º 19-A/96](https://diariodarepublica.pt/dr/detalhe/lei/19-a-1996-306009), de 29 de Junho, adiante designados por projectos piloto.
+
+###### Artigo 2.º — Objectivos dos projectos-piloto
+
+Os projectos piloto têm os seguintes objectivos:
+
+a) Preparar a aplicação do rendimento mínimo garantido na dupla vertente da atribuição de uma prestação pecuniária e do desenvolvimento de programas de inserção;
+
+b) Testar modelos de gestão participada, de base territorial, fundamentados em parcerias.
+
+###### Artigo 3.º — Período de vigência
+
+Os projectos piloto vigoram até 1 de Julho de 1997.
+
+### CAPÍTULO II — Processo de candidatura
+
+###### Artigo 4.º — Entidades proponentes
+
+1 - As propostas para o desenvolvimento de projectos piloto devem ser subscritas, em conjunto, pelos organismos públicos, autarquias locais e ou entidades particulares sem fins lucrativos que, na área geográfica abrangida por cada projecto piloto, actuem para a prossecução de finalidades ligadas à protecção social e à inserção social e profissional e se organizem em parceria para aquele efeito.
+
+2 - As entidades particulares sem fins lucrativos que desejem apresentar propostas de projectos piloto devem obedecer aos seguintes requisitos:
+
+a) Encontrarem-se regularmente constituídas e registadas nos termos da legislação em vigor;
+
+b) Disporem de capacidade organizativa e de meios materiais, técnicos e humanos que se revelem adequados ao desenvolvimento dos projectos que subscrevem;
+
+c) Terem a sua situação regularizada perante a segurança social.
+
+###### Artigo 5.º — Forma e conteúdo das propostas
+
+1 - As propostas de projectos piloto devem ser apresentadas nos termos de formulário fornecido pelos serviços do Ministério da Solidariedade e Segurança Social.
+
+2 - As propostas referidas no número anterior devem ter por base o diagnóstico que caracterize a situação sócio-económica das áreas geográficas a que os projectos piloto se dirigem, os recursos humanos e os meios materiais que cada uma das entidades que integram a parceria disponibiliza para os programas de inserção e os recursos humanos e meios materiais adicionais eventualmente necessários à prossecução daqueles projectos.
+
+3 - As propostas devem indicar o membro da parceria que assume a qualidade de interlocutor perante os serviços do Ministério da Solidariedade e Segurança Social e a Comissão Nacional do Rendimento Mínimo.
+
+###### Artigo 6.º — Apresentação e decisão das propostas
+
+1 - As propostas de projectos piloto devem ser entregues nos serviços do Ministério da Solidariedade e Segurança Social.
+
+2 - A decisão sobre as propostas de projectos piloto compete ao Ministro da Solidariedade e Segurança Social, devendo o despacho ser comunicado ao interlocutor designado pela parceria proponente no prazo máximo de 60 dias a contar da recepção das propostas.
+
+###### Artigo 7.º — Início dos projectos piloto
+
+Os projectos piloto que sejam aprovados devem ter início no prazo de 15 dias a contar da data da comunicação do despacho a que se refere o artigo anterior.
+
+###### Artigo 8.º — Entidades aderentes
+
+1 - No decurso do desenvolvimento dos projectos piloto podem aderir aos mesmos outras entidades, públicas ou particulares, sem fins lucrativos, que satisfaçam as condições previstas no artigo 4.º
+
+2 - A adesão deve ser aprovada pelas comissões locais de projecto, previstas no presente Regulamento.
+
+### CAPÍTULO III — Projectos piloto
+
+###### Artigo 9.º — Situações abrangidas
+
+Os projectos piloto abrangem indivíduos e agregados familiares em situação de grave carência económica.
+
+###### Artigo 10.º — Composição do agregado familiar
+
+1 - Para os efeitos do presente Regulamento, considera-se que integram um determinado agregado familiar, desde que vivam em economia comum:
+
+a) Os cônjuges ou pessoas em união de facto há mais de um ano;
+
+b) Os descendentes, equiparados ou afins menores.
+
+2 - Podem ainda ser considerados como membros de um agregado familiar os descendentes ou equiparados maiores e os ascendentes, equiparados ou afins, bem como outros menores não enquadrados na alínea b) do número anterior, que vivam em economia comum e se encontrem na dependência económica de qualquer membro do agregado familiar em causa.
+
+###### Artigo 11.º — Conceito de grave carência económica
+
+Considera-se que existe uma situação de grave carência económica quando a totalidade dos rendimentos auferidos pelos membros de um agregado familiar seja inferior à soma dos seguintes montantes:
+
+a) 100% do valor da pensão social por cada indivíduo maior, até ao segundo;
+
+b) 70% do valor da pensão social por cada indivíduo maior, a partir do terceiro;
+
+c) 50% do valor da pensão social por cada indivíduo menor.
+
+###### Artigo 12.º — Rendimentos relevantes
+
+1 - Para verificação da situação de carência devem ser tomados em consideração todos os rendimentos auferidos pelos membros do agregado familiar, qualquer que seja a sua origem e natureza, com excepção dos que digam respeito a prestações familiares de regimes de protecção social obrigatórios, subsídios de renda de casa e bolsas de estudo, bem como 20% dos rendimentos de trabalho ou de bolsas de formação.
+
+2 - Os rendimentos de trabalho decorrentes de situação laboral iniciada durante a concessão do subsídio pecuniário por membro da família abrangido pelo programa de inserção devem ser contabilizados entre 50% e 80% do seu valor.
+
+3 - Não se consideram em situação de grave carência económica os indivíduos ou os agregados familiares cujo nível de vida indicie a existência de rendimentos superiores aos referidos no artigo anterior, mesmo que se não conheça a origem desses rendimentos.
+
+###### Artigo 13.º — Natureza das prestações pecuniárias
+
+As prestações pecuniárias atribuídas no âmbito dos projectos piloto revestem a natureza de subsídios eventuais não reembolsáveis.
+
+###### Artigo 14.º — Condições de atribuição
+
+1 - As prestações pecuniárias a que se refere o artigo anterior podem ser atribuídas aos indivíduos com idade igual ou superior a 18 anos, ou inferior, se tiverem menores na exclusiva dependência do agregado familiar, que satisfaçam as seguintes condições:
+
+a) Residência legal em Portugal;
+
+b) Situação de grave carência económica;
+
+c) Compromisso expresso no sentido de subscrever e prosseguir um programa de inserção, nomeadamente através da disponibilidade activa para o trabalho ou para integração em acções de formação ou de inserção profissional;
+
+d) Disponibilidade para requerer prestações de segurança social a que haja direito e para exercer o direito de acção para cobrança de eventuais créditos ou para reconhecimento do direito a alimentos;
+
+e) Fornecimento dos meios de prova necessários à verificação da situação de grave carência económica e concessão de autorização ao centro regional de segurança social competente para acesso às informações relevantes para aquela verificação.
+
+2 - A condição referida na alínea c) do número anterior não é exigível nos casos em que o seu cumprimento se revele impossível por razões de idade, de saúde ou outras decorrentes da situação do agregado familiar.
+
+###### Artigo 15.º — Montante das prestações
+
+O montante das prestações pecuniárias varia em função da composição dos agregados familiares e dos respectivos rendimentos, sendo igual a diferença entre o valor correspondente aos membros do agregado familiar, de acordo com as alíneas do artigo 11.º, e a soma dos referidos rendimentos.
+
+###### Artigo 16.º — Objectivo dos programas de inserção
+
+Os programas de inserção visam a efectiva integração social e profissional dos membros dos agregados familiares, nomeadamente através da melhoria da satisfação das suas necessidades básicas, da formação profissional e do acesso directo ao trabalho.
+
+###### Artigo 17.º — Co-responsabilização pelos programas de inserção
+
+Os programas de inserção devem ser estabelecidos, desenvolvidos e avaliados em conjunto com os indivíduos a quem se dirigem e devem envolver as entidades proponentes dos projectos piloto, bem como aquelas que a eles adiram.
+
+###### Artigo 18.º — Conteúdo dos programas de inserção
+
+1 - Os programas de inserção devem estabelecer o tipo de acções a desenvolver, os apoios a conceder aos seus destinatários, as entidades que os disponibilizam e as obrigações assumidas por aqueles destinatários.
+
+2 - Os apoios referidos no número anterior podem ser pecuniários desde que a sua atribuição seja considerada indispensável à superação de problemas de saúde, educação, habitação e transportes que condicionem a inserção dos membros do agregado familiar e, nesse caso, acrescem à prestação pecuniária calculada nos termos do artigo 15.º
+
+### CAPÍTULO IV — Processo de atribuição
+
+###### Artigo 19.º — Pressupostos da atribuição da prestação pecuniária
+
+1 - A atribuição da prestação pecuniária pressupõe solicitação do interessado, dirigida ao centro regional de segurança social que abranja a sua área de residência, e a elaboração de um relatório social.
+
+2 - A solicitação referida no número anterior pode ser apresentada nos serviços do centro regional de segurança social competente e nos locais de atendimento disponibilizados para o efeito pelas entidades proponentes.
+
+###### Artigo 20.º — Entidades competentes
+
+1 - A coordenação dos projectos piloto compete a comissões locais de projecto, as quais integram representantes dos Ministérios da Solidariedade e Segurança Social e para a Qualificação e o Emprego, bem como de todas as entidades proponentes.
+
+2 - A comissão local integra igualmente representantes de outros Ministérios intervenientes nos projectos piloto e das entidades a estes aderentes.
+
+3 - A atribuição da prestação pecuniária compete ao conselho directivo do centro regional de segurança social da área da residência do interessado ou a quem aquele órgão delegar a referida competência.
+
+4 - A aprovação e o acompanhamento dos programas de inserção competem aos núcleos executivos das comissões locais de projecto, que integram, em permanência, o representante do centro regional de segurança social da área geográfica dos projectos e o representante da entidade proponente que tenha sido designada como interlocutora, nos termos do n.º 3 do artigo 5.º
+
+5 - Os núcleos executivos a que se refere o número anterior devem igualmente integrar representantes dos restantes organismos públicos, autarquias locais e entidades particulares sem fins lucrativos, proponentes dos projectos ou aos mesmos aderentes, com intervenção nos programas de inserção.
+
+###### Artigo 21.º — Declaração do interessado
+
+A solicitação do interessado deve ser acompanhada de declaração da qual conste a composição do agregado familiar, a indicação dos respectivos rendimentos e a sua origem, bem como a expressa afirmação de que satisfaz as condições referidas nas alíneas c), d) e e) do artigo 14.º do presente Regulamento.
+
+###### Artigo 22.º — Natureza e conteúdo do relatório social
+
+1 - O relatório social a que se refere o artigo 19.º constitui apreciação preliminar sobre a situação do agregado familiar e dele devem constar, nomeadamente, os seguintes elementos sobre o agregado familiar:
+
+a) Constituição,
+
+b) Situação económica;
+
+c) Problemas relevantes para o estabelecimento do programa de inserção;
+
+d) Capacidades/potencialidades e disponibilidade para o desenvolvimento do programa de inserção.
+
+2 - O relatório social deve conter proposta do técnico responsável quanto à necessidade de programa de inserção.
+
+###### Artigo 23.º — Competência e prazo para elaboração do relatório social
+
+1 - A elaboração do relatório social compete ao técnico designado para esse efeito pela comissão local do projecto e deve ter lugar no prazo de 20 dias, contado a partir da data da apresentação da solicitação pelo interessado.
+
+2 - A designação do técnico obedece a critérios definidos pela comissão local do projecto.
+
+###### Artigo 24.º — Prazo e conteúdo da decisão
+
+1 - A decisão sobre a atribuição da prestação pecuniária deve ser proferida no prazo de 10 dias, contado a partir da apresentação do relatório social, salvo se, por motivo imputável ao interessado, não se encontrarem recolhidos os elementos necessários à decisão.
+
+2 - A decisão favorável à atribuição da prestação pecuniária deve conter a identificação do interessado, o montante a atribuir, a respectiva duração e a indicação sobre se há ou não lugar à realização de programa de inserção.
+
+###### Artigo 25.º — Acordo sobre o programa de inserção
+
+1 - A decisão favorável à atribuição da prestação pecuniária na qual esteja prevista a realização de programa de inserção determina o início do processo de negociação entre o técnico designado pela comissão local de projecto e os membros do agregado familiar que por ele devam ser abrangidos, com vista à identificação e preparação das acções que devem integrar esse programa.
+
+2 - No caso de o processo de negociação ser bem sucedido, é elaborado e subscrito o acordo de inserção, no qual figuram os apoios a ser concedidos, as entidades que se responsabilizam pela sua concessão e as obrigações que os interessados assumem.
+
+###### Artigo 26.º — Acompanhamento e avaliação do programa de inserção
+
+1 - O técnico responsável pelo acompanhamento do programa de inserção, em representação da comissão local do projecto, deve elaborar relatórios periódicos de avaliação do desenvolvimento do programa e propor eventuais alterações que se revelem necessárias, bem como efectuar o relatório final, de acordo com a duração prevista para a atribuição da prestação pecuniária.
+
+2 - O relatório final deve conter proposta fundamentada sobre a cessação da prestação pecuniária ou, se for caso disso, sobre a prorrogação do período da respectiva concessão.
+
+###### Artigo 27.º — Alteração e cessação da prestação pecuniária
+
+1 - As prestações pecuniárias atribuídas no âmbito dos projectos piloto cessam ou são alteradas nos casos e na medida em que se alterem as condições de carência das pessoas a quem as mesmas estejam a ser concedidas e dos respectivos agregados familiares.
+
+2 - As prestações referidas no número anterior cessam também nos casos em que, por motivos imputáveis aos interessados, não possa ser celebrado o acordo de inserção ou não sejam cumpridas as obrigações dele constantes.
+
+###### Artigo 28.º — Comissão Nacional do Rendimento Mínimo
+
+O acompanhamento e avaliação dos projectos-piloto compete à Comissão Nacional do Rendimento Mínimo, nos termos estabelecidos no respectivo regulamento.

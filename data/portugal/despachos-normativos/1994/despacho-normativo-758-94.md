@@ -1,0 +1,173 @@
+---
+schema_version: '1.0'
+id: pt:dre:535671:por
+title: Despacho Normativo n.º 758/94
+short_title: null
+summary: Estabelece as regras aplicáveis aos apoios aos formandos e aos custos com formadores, no âmbito de acções de formação
+  profissional agrária
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Agricultura e do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 758/94
+official_date: null
+publication_date: '1994-11-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 255/1994, Série I-B de 1994-11-04
+  number: '255'
+  series: I
+  supplement: null
+  pages: 6674 - 6675
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/11/255b00/66746675.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/758/1994/11/04/p/dre/pt/html
+  oj: null
+  dre: '535671'
+  dre_path: /dr/detalhe/despacho-normativo/758-1994-535671
+  internal: pt:dre:535671:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/758-1994-535671
+  metadata_url: https://data.dre.pt/eli/despnorm/758/1994/11/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/758-1994-535671
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-10-07T00:00:00Z'
+integrity:
+  source_sha256: a31b0d1abaced1dc954f97c640e7180159b5fc89020d2bfc064410a710933eb1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-758-535671.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bolsa de Formação Profissional
+- Formação Profissional
+- QCA
+- Pessoal Docente
+- Agricultura
+relationships:
+- type: amended_by
+  target: pt:dre:667282:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31991R2328
+  label: null
+  source: http://data.europa.eu/eli/reg/1991/2328/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 758/94
+
+Considerando o Decreto Regulamentar n.º 15/94, de 6 de Julho, que define o regime jurídico dos apoios ao emprego e à formação profissional a conceder no âmbito da vertente Fundo Social Europeu (FSE) do Quadro Comunitário de Apoio para o período 1994-l999;
+
+Considerando os Despachos Normativos n.os 464/94 e 465/94, de 28 de Junho, que regulamentam os encargos com formandos e com os profissionais que intervêm na formação profissional no âmbito do FSE;
+
+Considerando, porém, que a especificidade do sector agrário torna indispensável a adopção de normas próprias;
+
+Considerando os programas quadro para a formação profissional agrária do Ministério da Agricultura, da Confederação dos Agricultores de Portugal e outros programas quadro do sector:
+
+Determina-se o seguinte:
+
+1.º - 1 - O presente diploma estabelece as regras aplicáveis aos apoios aos formandos e aos custos com formadores, no âmbito de acções de formação profissional agrária.
+
+2 - O disposto neste diploma não se aplica aos formandos desempregados de longa duração, inscritos nos centros de emprego há mais de um ano, incluindo os candidatos ao primeiro emprego.
+
+2.º - 1 - Aos formandos vinculados a uma empresa, incluindo os empresários, ou vinculados a uma pessoa colectiva de direito privado ou público aplica-se o disposto no Despacho Normativo n.º 464/94, de 28 de Junho.
+
+2 - São equiparados a vinculados a uma empresa:
+
+a) A mão-de-obra familiar não remunerada;
+
+b) Os activos que, sem vinculação continuada, trabalhem por conta de outrem, caso em que não se considera a existência de empresa beneficiária.
+
+3 - Para os formandos empresários, outros activos e equiparados, cuja remuneração não se encontre estipulada ou não possa documentar-se, ou seja inferior à remuneração mínima mensal mais elevada garantida por lei, é considerada, para efeitos de financiamento público, uma compensação calculada com base na remuneração mínima mensal mais elevada garantida por lei, mediante a fórmula indicada no artigo 10.º do Despacho Normativo n.º 464/94, de 28 de Junho.
+
+4 - Nos casos previstos no n.º 2, o formando recebe directamente a compensação referida no artigo 10.º do Despacho Normativo n.º 464/94, de 28 de Junho.
+
+5 - A situação profissional do formando deve ser declarada pelo candidato à acção de formação e pelo responsável da empresa a que está vinculado, de acordo com o modelo constante do anexo a este diploma, do qual faz parte integrante.
+
+3.º - 1 - Nas acções de formação realizadas dentro do período normal de trabalho, para além da compensação referida no artigo 10.º do Despacho Normativo n.º 464/94, de 28 de Junho, são ainda elegíveis as seguintes despesas:
+
+a) Alimentação e alojamento, de acordo com valor estabelecido anualmente pelo Ministério da Agricultura, podendo as mesmas ser fornecidas em espécie;
+
+b) Viagens de início e final da acção;
+
+c) Deslocações relativas às interrupções normais das acções de formação previstas no programa do curso.
+
+2 - Nas acções que decorram em regime de internato, aplica-se, para efeitos da alínea c) do número anterior, o montante/quilómetro fixado para os subsídios de viagem a atribuir a funcionários e agentes da Administração Pública para transportes em veículos adstritos a carreiras de serviço público.
+
+3 - Nas acções que não decorram em regime de internato, para efeitos da alínea c) do número anterior, é elegível o custo das deslocações diárias, até ao máximo de 120 km, de acordo com o montante/quilómetro referido na alínea b) do número anterior.
+
+4 - Nas acções de formação destinadas a dirigentes e gestores de organizações de agricultores pode ser excedido o limite indicado no número anterior, carecendo estes encargos de aprovação da entidade gestora.
+
+5 - No caso dos formandos referidos nos n.os 1 e 2 do n.º 2.º, a soma da compensação e das importâncias referidas na alínea a) do n.º 1 não pode ultrapassar os limites máximos previstos no n.º 2 do artigo 10.º do Despacho Normativo n.º 464/94, de 28 de Junho.
+
+6 - Nos cursos destinados a agricultores e trabalhadores agrícolas, para o cálculo das respectivas compensações consideram-se também as horas de formação da componente prática real, desde que a mesma não seja realizada na empresa de origem.
+
+4.º - 1 - Nas acções realizadas fora do período normal de trabalho, para além do subsídio por hora de formação referido na alínea b) do n.º 1 do artigo 11.º do Despacho Normativo n.º 464/94, de 28 de Junho, são ainda elegíveis as seguintes despesas:
+
+a) Subsídio de refeição de montante igual ao estabelecido anualmente pelo Ministério da Agricultura, devendo o custo da refeição fornecida em espécie ser quantificado;
+
+b) Deslocações relativas às interrupções normais das acções de formação.
+
+2 - Sem prejuízo do disposto no número seguinte, os subsídios de formação e refeição não podem ultrapassar o montante máximo previsto no n.º 2 do artigo 11.º do diploma referido no número anterior.
+
+3 - O disposto no número anterior não se aplica, no caso de cursos para empresários agrícolas, aos formandos jovens agricultores com projectos em execução no âmbito do Regulamento (CEE) n.º [2328/91](http://data.europa.eu/eli/reg/1991/2328/oj?locale=pt) do Conselho, de 15 de Julho, caso em que o custo máximo não pode ultrapassar, por mês, o valor mais elevado de remuneração mensal mínima garantida por lei.
+
+4 - À alínea b) do n.º 1 aplica-se o disposto no n.º 3 do n.º 3.º
+
+5 - A realização das acções referidas no n.º 1 carece de parecer prévio dos serviços centrais ou regionais de formação profissional do Ministério da Agricultura, consoante o âmbito da candidatura.
+
+5.º - Nas acções de formação destinadas a formadores e quadros técnicos, as compensações às entidades empregadoras podem ser substituídas pelo pagamento, ao formando ou não, em género ou pelo regime de ajudas de custo em vigor para a função pública, acrescido das despesas de transporte, nos termos do Despacho Normativo n.º 464/94, de 28 de Junho, e do presente diploma.
+
+6.º O presente diploma aplica-se aos casos previstos na alínea d) do n.º 1 do artigo 47.º do Decreto-Lei n.º 290/86, de 10 de Setembro, bem como aos referidos nas alíneas b) e c) do n.º 2 do artigo 19.º da Lei n.º 46/86, de 14 de Outubro, quando se trate de cursos essencialmente práticos e de curta duração.
+
+7.º O disposto no n.º 3 do artigo 4.º do Despacho Normativo n.º 465/94, de 28 de Junho, não se aplica aos formadores que acompanhem a formação prática real em cursos de formação profissional agrária realizados em regime de alternância, caso em que estes formadores são remunerados de acordo com a tabela constante do anexo I ao citado despacho.
+
+8.º Em tudo o que não esteja especialmente previsto neste diploma aplicam-se os Despachos Normativos n.os 464/94 e 465/94, ambos de 28 de Junho.
+
+9.º Em situações excepcionais, designadamente quando a especificidade das acções a desenvolver o justificar, podem, por despacho dos Ministros da Agricultura e do Emprego e da Segurança Social, ser fixados valores e condições diferentes no que respeita a remunerações e outras despesas com formandos e formadores.
+
+10.º É revogado o Despacho Normativo n.º 40/91, de 2 de Fevereiro.
+
+Ministérios da Agricultura e do Emprego e da Segurança Social, 7 de Outubro de 1994. - O Ministro da Agricultura, António Duarte Silva. - O Ministro do Emprego e da Segurança Social, José Bernardo Veloso Falcão e Cunha.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/11/255b00/66746675.pdf))](https://files.diariodarepublica.pt/1s/1994/11/255b00/66746675.pdf)

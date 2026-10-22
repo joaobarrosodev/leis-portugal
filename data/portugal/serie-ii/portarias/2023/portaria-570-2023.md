@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:223472159:por
+title: Portaria n.º 570/2023
+short_title: null
+summary: Autoriza o Estado-Maior-General das Forças Armadas a proceder à repartição do encargo orçamental inerente à aquisição
+  de seguros de vida no âmbito das missões das forças nacionais destacadas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Defesa Nacional e Finanças - Gabinetes da Ministra da Defesa Nacional e da Secretária de Estado do Orçamento
+proposing_entity: null
+official_number: 570/2023
+official_date: null
+publication_date: '2023-10-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/2023, Série II de 2023-10-30
+  number: '210'
+  series: II
+  supplement: null
+  pages: 30 - 30
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/10/210000000/0003000030.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '223472159'
+  dre_path: /dr/detalhe/portaria/570-2023-223472159
+  internal: pt:dre:223472159:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-2023-223472159
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-2023-223472159
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-10-30T00:00:00Z'
+integrity:
+  source_sha256: 9d101f29e8b186c4874b3ddeb351d5e86bcb9aeba2c3c34cb4051df126416f84
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-570-223472159.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 570/2023
+
+Considerando que o Ministério da Defesa Nacional, através Estado-Maior-General das Forças Armadas, precisa de lançar um procedimento para a aquisição de seguros de vida, no âmbito das missões das forças nacionais destacadas (FND), durante o período de 1 de julho de 2023 a 30 de junho de 2025;
+
+Considerando que os seguros de vida no âmbito das missões das forças nacionais destacadas são obrigatórios, por força do disposto no artigo 7.º-A do [Decreto-Lei n.º 233/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-1996-187081), de 7 de dezembro, na sua redação atual;
+
+Considerando que a contratação dos serviços supra indicados tem execução financeira por mais do que um ano económico, sendo necessário proceder à repartição plurianual do encargo financeiro inerente, e que a assunção do compromisso plurianual está sujeita a autorização prévia por decisão conjunta dos membros do Governo responsáveis pelas áreas da defesa e das finanças:
+
+Assim, nos termos do disposto nos n.os 1 e 2 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, na alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, no n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e nas alíneas c) e d) do n.º 4 do [Despacho n.º 7473/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7473-2022-184687795), de 14 de junho, manda o Governo, pela Ministra da Defesa Nacional e pela Secretária de Estado do Orçamento, o seguinte:
+
+1 - Autorizar o Estado-Maior-General das Forças Armadas a proceder à repartição do encargo orçamental inerente à aquisição de seguros de vida no âmbito das missões das forças nacionais destacadas, até ao montante global de 643 720,00 EUR (seiscentos e quarenta e três mil, setecentos e vinte euros), isento de IVA.
+
+2 - Determinar que os encargos orçamentais, inerentes à contratação acima referida, são repartidos anualmente, não podendo exceder, em cada ano económico, os seguintes valores, isentos de IVA:
+
+a) Em 2023 - 129 166,67 EUR (cento e vinte e nove mil, cento e sessenta e seis euros e sessenta e sete cêntimos);
+
+b) Em 2024 - 310 000,00 EUR (trezentos e dez mil euros);
+
+c) Em 2025 - 204 553,33 EUR (duzentos e quatro mil, quinhentos e cinquenta e três euros e trinta e três cêntimos).
+
+3 - Determinar que o montante fixado para cada um dos anos económicos pode ser acrescido do saldo que se apurar na execução orçamental do ano anterior.
+
+4 - Determinar que os encargos financeiros inerentes à presente portaria são satisfeitos por conta das verbas adequadas inscritas e a inscrever no orçamento do Estado-Maior-General das Forças Armadas.
+
+5 - Determinar que a presente portaria produz efeitos a partir da data da sua assinatura.
+
+22 de junho de 2023. - A Ministra da Defesa Nacional, Maria Helena Chaves Carreiras. - 1 de agosto de 2023. - A Secretária de Estado do Orçamento, Sofia Alves de Aguiar Batalha.

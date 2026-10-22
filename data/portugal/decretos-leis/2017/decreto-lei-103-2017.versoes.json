@@ -1,0 +1,1155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108051992:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-108048449",
+ "dre_path": "/dr/detalhe/decreto-lei/103-2017-108051992",
+ "source_lastmod": "2026-09-04",
+ "versions": [
+  {
+   "date": "2017-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108037680",
+    "108037681",
+    "108037682",
+    "108037683",
+    "108037684",
+    "108037685",
+    "108037686",
+    "108037687",
+    "108037688",
+    "108037689",
+    "108037690",
+    "108037691",
+    "108037692",
+    "108037693",
+    "108037694",
+    "108037695",
+    "108037696",
+    "108037697",
+    "108037698",
+    "108037699",
+    "108037700",
+    "108037701",
+    "108037702",
+    "108037703",
+    "108037704",
+    "108037705",
+    "108037706",
+    "108037707",
+    "108037708",
+    "108037709",
+    "108037710",
+    "108037711",
+    "108037712",
+    "108037713",
+    "108037714",
+    "108037715",
+    "108037716",
+    "108037717"
+   ]
+  },
+  {
+   "date": "2019-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122747583:por",
+     "title": "Decreto-Lei n.º 84/2019",
+     "published": "2019-06-28",
+     "dre_path": "/dr/detalhe/decreto-lei/84-2019-122747583"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "108037680",
+    "108037681",
+    "108037682",
+    "108037683",
+    "108037684",
+    "108037685",
+    "108037686",
+    "108037687",
+    "108037688",
+    "108037689",
+    "108037690",
+    "108037691",
+    "108037692",
+    "108037693",
+    "108037694",
+    "108037695",
+    "108037696",
+    "108037697",
+    "108037698",
+    "108037699",
+    "108037700",
+    "108037701",
+    "108037702",
+    "122826792",
+    "108037704",
+    "108037705",
+    "108037706",
+    "108037707",
+    "108037708",
+    "108037709",
+    "108037710",
+    "108037711",
+    "108037712",
+    "108037713",
+    "108037714",
+    "108037715",
+    "108037716",
+    "108037717",
+    "108037718"
+   ]
+  },
+  {
+   "date": "2021-06-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164955305:por",
+     "title": "Decreto-Lei n.º 47/2021",
+     "published": "2021-06-11",
+     "dre_path": "/dr/detalhe/decreto-lei/47-2021-164955305"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 20.º"
+   ],
+   "fragments": [
+    "108037680",
+    "108037681",
+    "164938058",
+    "164938059",
+    "164938060",
+    "108037685",
+    "164938061",
+    "164938062",
+    "165010080",
+    "164938063",
+    "164938064",
+    "164938057",
+    "108037691",
+    "164938065",
+    "164938066",
+    "164938067",
+    "108037695",
+    "164938068",
+    "164938069",
+    "164938070",
+    "108037699",
+    "164938071",
+    "164938072",
+    "164938073",
+    "164938074",
+    "165010081",
+    "108037705",
+    "108037706",
+    "165010075",
+    "108037708",
+    "165010076",
+    "165010077",
+    "165010078",
+    "165010079",
+    "108037713",
+    "108037714",
+    "108037715",
+    "108037716",
+    "108037717",
+    "108037718"
+   ]
+  },
+  {
+   "date": "2023-09-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221691579:por",
+     "title": "Decreto-Lei n.º 81/2023",
+     "published": "2023-09-15",
+     "dre_path": "/dr/detalhe/decreto-lei/81-2023-221691579"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 12.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "108037680",
+    "108037681",
+    "164938058",
+    "221641036",
+    "164938060",
+    "221641037",
+    "164938061",
+    "164938062",
+    "165010080",
+    "164938063",
+    "164938064",
+    "164938057",
+    "108037691",
+    "164938065",
+    "164938066",
+    "164938067",
+    "221641038",
+    "108037695",
+    "164938068",
+    "164938069",
+    "164938070",
+    "108037699",
+    "164938071",
+    "164938072",
+    "164938073",
+    "164938074",
+    "165010081",
+    "108037705",
+    "108037706",
+    "165010075",
+    "108037708",
+    "165010076",
+    "165010077",
+    "165010078",
+    "165010079",
+    "108037713",
+    "108037714",
+    "108037715",
+    "108037716",
+    "108037717",
+    "108037718"
+   ]
+  },
+  {
+   "date": "2026-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1156670572:por",
+     "title": "Decreto-Lei n.º 164-A/2026",
+     "published": "2026-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/164-a-2026-1156670572"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-B",
+    "Adita Artigo 12.º-B",
+    "Adita Artigo 12.º-C",
+    "Adita Artigo 15.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10",
+    "Altera Artigo 12.º",
+    "Altera Artigo 12.º-A",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "108037680",
+    "108037681",
+    "1159715775",
+    "1159715975",
+    "164938060",
+    "1159716175",
+    "1159716375",
+    "1159716575",
+    "165010080",
+    "1159716775",
+    "1159716975",
+    "164938057",
+    "1159735175",
+    "108037691",
+    "1159717175",
+    "164938066",
+    "1159717375",
+    "1159717575",
+    "1159735475",
+    "1159736075",
+    "108037695",
+    "1159717775",
+    "164938069",
+    "1159717975",
+    "1159735775",
+    "108037699",
+    "1159718175",
+    "164938072",
+    "1159718375",
+    "164938074",
+    "165010081",
+    "1159718575",
+    "108037706",
+    "165010075",
+    "108037708",
+    "165010076",
+    "165010077",
+    "1159718775",
+    "165010079",
+    "108037713",
+    "108037714",
+    "108037715",
+    "108037716",
+    "108037717",
+    "108037718"
+   ]
+  }
+ ],
+ "fragments": {
+  "108037680": {
+   "fragment_id": "108048450",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 103/2017\n\nde 24 de agosto\n\nA valorização das artes constitui um instrumento fundamental no diálogo e cooperação estratégica que sempre deve existir entre o Estado e o setor cultural profissional de iniciativa não-governamental, o qual assume um papel crucial para o desenvolvimento equilibrado da atividade cultural no território nacional.\n\nApós uma década de vigência do regime de atribuição de apoios às artes estabelecido pelo Decreto-Lei n.º 225/2006, de 13 de novembro, considera-se importante progredir para uma configuração que, a partir dos resultados já alcançados, seja ajustável às dinâmicas próprias de um setor em permanente evolução.\n\nAssim, em linha com o compromisso assumido e com o preconizado no seu Programa de Governo, o XXI Governo Constitucional propõe um novo modelo para os incentivos públicos à criação, produção e difusão das atividades artísticas, tendo em consideração uma auscultação nacional e a vontade de projetar para o futuro novas formas de colaboração assentes num modelo mais orgânico, flexível e transversal.\n\nEnquanto instrumento de política cultural, este modelo baseia-se numa dupla perspetiva que se julga essencial: (i) a necessidade de maior articulação das administrações do Estado nas suas dimensões central, regional e local, para uma melhor prossecução do interesse público e de objetivos estratégicos comuns, (ii) a par de instrumentos jurídicos mais claros e objetivos, potenciadores de maiores e melhores resultados.\n\nAssim, através do presente regime, que se estende aos agentes culturais das regiões autónomas, determina-se que a Direção-Geral das Artes (DGARTES) divulgará, no final do ano anterior, quais os programas de apoio a lançar em cada ano, com base no plano estratégico plurianual previamente definido pelo membro do Governo responsável pela área da cultura, o qual fixa as principais linhas estratégicas para apoio às artes.\n\nAs artes performativas, as artes visuais e o cruzamento disciplinar constituem o universo das áreas artísticas visadas, surgindo entre as novas disciplinas o circo contemporâneo e artes de rua, bem como a reconfiguração das artes digitais, agora identificadas como novos media.\n\nA concentração dos programas de apoio em três tipologias claras e adequadas aos diferentes posicionamentos e expectativas dos agentes do setor - o apoio sustentado, o apoio a projetos e o apoio em parceria - substitui um modelo hoje disperso por quatro tipologias e treze modalidades de apoio, nem todas devidamente regulamentadas.\n\nO programa de apoio sustentado dirige-se, naturalmente, a estruturas profissionais com atividade continuada, visando a sua estabilidade e consolidação. Neste programa, que mantém as vertentes bienal e quadrienal, são contemplados os recursos técnicos e humanos indispensáveis ao normal funcionamento das entidades elegíveis, sendo também valorizadas aquelas que associem a cooperação dos municípios à sua atividade.\n\nO programa de apoio a projetos dirige-se às entidades elegíveis que pretendam executar atividades num horizonte anual, visando o dinamismo e a renovação do tecido artístico nacional. Este programa contempla também linhas de incentivo complementar a projetos previamente aprovados no âmbito de programas nacionais e internacionais de financiamento, ou cuja viabilidade dependa de uma reduzida percentagem de apoio.\n\nPor fim, o programa de apoio em parceria constitui uma plataforma de convergência de objetivos e estratégias, integrando áreas de confluência e potenciando ações e resultados de natureza intersetorial ou transversal que se enquadrem nos objetivos do presente diploma. Esta modalidade permite que a área da cultura, através da DGARTES, se associe a outras entidades financiadoras, públicas e privadas, para o lançamento conjunto de outras linhas de apoio.\n\nNo âmbito da relação com a administração local, considerou-se que as anteriores modalidades de apoio indireto - o protocolo ou o acordo tripartido celebrados com as autarquias locais -, ficaram aquém dos objetivos subjacentes à sua criação. Por consequência, são substituídas por duas opções de iniciativa distinta: no programa de apoio sustentado, pela valorização dos agentes culturais que estabeleçam um compromisso efetivo com municípios no âmbito de uma estratégia de desenvolvimento local; no programa em parceria, pela possibilidade de concertação entre a DGARTES e os municípios, para definição das condições de desenvolvimento de atividades por agentes culturais a selecionar, as quais devem basear-se em objetivos estratégicos dirigidos aos respetivos territórios numa perspetiva de coesão social e territorial.\n\nÉ ainda conferida uma nova dinâmica e transversalidade aos domínios de atividade, que incluem designadamente a criação, a programação, a circulação nacional, a internacionalização, o desenvolvimento de públicos, a edição, a investigação ou a formação, os quais, ao invés de se apresentarem de forma estanque e repetitiva nas diversas modalidades de apoio, podem ser considerados conjunta ou isoladamente, em qualquer programa de apoio. Esta dinâmica e transversalidade também se aplica às áreas artísticas.\n\nAs formas de atribuição de apoio são autonomizadas e aplicadas às várias modalidades em função da sua adequação. Mantém-se, contudo, o procedimento concursal como regra para a atribuição dos apoios, continuando a ser a única forma de acesso às modalidades de apoio sustentado. Acrescenta-se a este a possibilidade de celebração de protocolos, desta feita limitada ao programa em parceria, e introduz-se um procedimento simplificado para apoios de montante reduzido ou no âmbito da linha de apoio complementar a atividades inseridas em programas internacionais de financiamento.\n\nEm termos de operacionalização dos programas de apoio, destaca-se a nova dimensão conferida aos avisos de abertura, que permite diversas combinações ajustáveis aos objetivos e aos recursos disponíveis, bem como a possibilidade de definição prévia de patamares de financiamento, conferindo maior rigor e certeza quer na preparação, quer na avaliação dos planos de atividades e orçamentos.\n\nSão ainda reforçados os mecanismos de acompanhamento e avaliação dos contratos de apoio financeiro, assim como as obrigações genéricas das entidades beneficiárias e as sanções por incumprimento.\n\nNo domínio da modernização administrativa destaca-se a criação do Balcão Artes, a nova plataforma digital da DGARTES, que disponibilizará informação útil, centrada e agregada, facilitando a sua consulta e utilização por todos os interessados.\n\nForam ouvidos os órgãos de governo próprios das regiões autónomas, a Associação Nacional de Municípios Portugueses e as associações representativas do setor.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108037681": {
+   "fragment_id": "108048451",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "108037682": {
+   "fragment_id": "108048452",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.\n\n2 - As áreas artísticas previstas no número anterior incluem, designadamente, a arquitetura, as artes plásticas, o design, a fotografia, os novos media, o circo contemporâneo e artes de rua, a dança, a música e o teatro.\n\n3 - São excluídas as atividades de natureza exclusivamente lucrativa que não se inserem nos fins e objetivos de interesse público previstos no artigo 3.º"
+  },
+  "108037683": {
+   "fragment_id": "108048453",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades elegíveis\n\n1 - São elegíveis para apoio, nos termos do presente decreto-lei, as seguintes entidades que exerçam, a título predominante, atividades profissionais numa ou mais das áreas previstas no artigo anterior:\n\na) Pessoas coletivas de direito privado com sede em Portugal;\n\nb) Pessoas singulares com domicílio fiscal em Portugal;\n\nc) Grupos informais, constituídos por um conjunto de pessoas singulares ou coletivas, sem personalidade jurídica, organizados para apresentação de propostas ao abrigo do presente decreto-lei, desde que nomeiem como seu representante uma pessoa singular ou coletiva com domicílio ou sede fiscal em Portugal.\n\n2 - Não são elegíveis para apoio as fundações privadas ou as fundações públicas de direito privado que tenham outro tipo de financiamento continuado, assegurado pelo programa orçamental da área da cultura, bem como as associações exclusivamente constituídas por entidades públicas e as empresas do setor público empresarial."
+  },
+  "108037684": {
+   "fragment_id": "108048454",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins e objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fins e objetivos\n\n1 - As medidas e os apoios previstos no presente decreto-lei visam fomentar a criação, produção e difusão das artes através do incentivo a uma diversidade de áreas disciplinares e domínios de atividade, promover a articulação das artes com outras áreas setoriais e valorizar a fruição artística enquanto instrumento de correção de assimetrias territoriais e de desenvolvimento humano, social, económico e cultural.\n\n2 - A concretização dos fins de interesse público previstos no número anterior deve ser orientada por um conjunto de objetivos estratégicos, nomeadamente, a coesão social e territorial, a qualificação dos cidadãos, a valorização do território, a transversalidade setorial, a internacionalização e a inovação."
+  },
+  "108037685": {
+   "fragment_id": "108048455",
+   "type": 11,
+   "heading": "Artigo 4.º — Programas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Programas de apoio\n\n1 - Para prossecução dos fins e objetivos de interesse público estabelecidos no artigo anterior, são criados os seguintes programas:\n\na) Apoio sustentado;\n\nb) Apoio a projetos;\n\nc) Apoio em parceria.\n\n2 - Em situações excecionais, de manifesto interesse público, pode ser atribuído apoio extraordinário a atividades ou projetos de relevante interesse cultural, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES.\n\n3 - Os apoios têm a natureza de comparticipação financeira não reembolsável."
+  },
+  "108037686": {
+   "fragment_id": "108048456",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito territorial\n\n1 - Os programas de apoio abrangem atividades realizadas em território nacional e no estrangeiro.\n\n2 - Para concretização dos objetivos enunciados no artigo 3.º, designadamente para correção de assimetrias territoriais, podem ser fixados diferentes montantes globais disponíveis para cada circunscrição territorial correspondente aos níveis ii ou iii da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS ii ou iii), estabelecidas pelo Decreto-Lei n.º 46/89, de 15 de fevereiro, antes da abertura de um programa de apoio, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES, salvaguardando-se as especificidades próprias das regiões autónomas."
+  },
+  "108037687": {
+   "fragment_id": "108048457",
+   "type": 11,
+   "heading": "Artigo 6.º — Domínios de atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Domínios de atividade\n\nAs atividades financiadas ao abrigo dos programas de apoio devem inscrever-se num ou mais dos seguintes domínios de atividade:\n\na) Criação;\n\nb) Programação;\n\nc) Circulação nacional;\n\nd) Internacionalização;\n\ne) Desenvolvimento de públicos;\n\nf) Edição;\n\ng) Investigação;\n\nh) Formação."
+  },
+  "108037688": {
+   "fragment_id": "108048458",
+   "type": 11,
+   "heading": "Artigo 7.º — Plano estratégico plurianual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Plano estratégico plurianual\n\n1 - Compete ao membro do Governo responsável pela área da cultura aprovar por despacho, sob proposta da DGARTES e ouvidos os departamentos dos governos regionais com competência em matéria de cultura e as direções regionais de cultura, o plano estratégico plurianual que fixa as principais linhas estratégicas do apoio às artes, de acordo com os fins e objetivos estabelecidos no artigo 3.º\n\n2 - O plano estratégico plurianual deve ser revisto, no máximo, a cada quatro anos."
+  },
+  "108037689": {
+   "fragment_id": "108048459",
+   "type": 11,
+   "heading": "Artigo 8.º — Declaração anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Declaração anual\n\nA DGARTES publica anualmente, até 30 de novembro, no Balcão Artes, uma declaração homologada pelo membro do Governo responsável pela área da cultura que define, com base nos objetivos, no plano estratégico plurianual, nas diversas necessidades de financiamento e nos recursos financeiros disponíveis:\n\na) Os programas de apoio a abrir no ano seguinte e o respetivo prazo limite de abertura;\n\nb) As áreas artísticas e os principais domínios de atividade de cada programa de apoio;\n\nc) Os fatores de valorização a considerar decorrentes do plano estratégico plurianual."
+  },
+  "108037690": {
+   "fragment_id": "108048460",
+   "type": 11,
+   "heading": "Artigo 9.º — Abertura dos programas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Abertura dos programas de apoio\n\n1 - Os programas de apoio são abertos após a fixação do montante financeiro disponível, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES.\n\n2 - O aviso de abertura dos programas é publicado pela DGARTES na 2.ª série do Diário da República, devendo remeter para um anúncio completo a publicar no Balcão Artes, o qual inclui:\n\na) A indicação do programa de apoio;\n\nb) Os objetivos que visa prosseguir;\n\nc) O montante global disponível;\n\nd) As entidades elegíveis;\n\ne) As áreas artísticas;\n\nf) Os domínios de atividade;\n\ng) O âmbito territorial;\n\nh) A forma de atribuição;\n\ni) Os critérios de apreciação.\n\n3 - O anúncio pode, ainda, incluir:\n\na) Patamares de financiamento e número máximo de entidades a apoiar por patamar;\n\nb) O montante máximo e ou mínimo a atribuir a cada área artística e ou domínio de atividade;\n\nc) Os requisitos de admissibilidade;\n\nd) A composição das comissões de apreciação."
+  },
+  "108037691": {
+   "fragment_id": "108048461",
+   "type": 1,
+   "heading": "Capítulo II — Programas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Programas de apoio"
+  },
+  "108037692": {
+   "fragment_id": "108048462",
+   "type": 11,
+   "heading": "Artigo 10.º — Programa de apoio sustentado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Programa de apoio sustentado\n\n1 - O programa de apoio sustentado destina-se exclusivamente às pessoas coletivas previstas na alínea a) do n.º 1 do artigo 2.º e visa a estabilidade e consolidação de entidades com atividade continuada, assente em planos plurianuais.\n\n2 - O programa de apoio sustentado contempla as modalidades bienal e quadrienal.\n\n3 - As entidades que pretendam beneficiar de apoio bienal devem ter, pelo menos, quatro anos de atividade profissional continuada.\n\n4 - As entidades que pretendam beneficiar de apoio quadrienal devem preencher os seguintes requisitos cumulativos:\n\na) Ter, pelo menos, seis anos de atividade profissional continuada;\n\nb) Ter beneficiado de apoio financeiro do Estado, através da DGARTES, durante um período mínimo de quatro anos;\n\nc) Dispor de instalações apropriadas para os fins a que se destina o apoio.\n\n5 - No programa de apoio sustentado são valorizadas as entidades elegíveis que associem o apoio de municípios à sua atividade.\n\n6 - No programa de apoio sustentado são considerados os encargos das entidades elegíveis com os recursos materiais e humanos necessários à sua atividade regular."
+  },
+  "108037693": {
+   "fragment_id": "108048463",
+   "type": 11,
+   "heading": "Artigo 11.º — Programa de apoio a projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Programa de apoio a projetos\n\n1 - O programa de apoio a projetos destina-se a projetos que possam ser implementados até ao limite de um ano, visando contribuir para o dinamismo e a renovação do tecido artístico.\n\n2 - O programa de apoio a projetos destina-se, ainda, a complementar o financiamento de:\n\na) Atividades previamente aprovadas no âmbito de programas nacionais ou internacionais de financiamento;\n\nb) Atividades cuja viabilização dependa de uma percentagem de apoio reduzida.\n\n3 - À modalidade de apoio a projetos referida no número anterior não se aplica o limite de um ano para a sua implementação."
+  },
+  "108037694": {
+   "fragment_id": "108048464",
+   "type": 11,
+   "heading": "Artigo 12.º — Programa em parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Programa em parceria\n\n1 - O programa em parceria decorre de acordos previamente estabelecidos entre a área da cultura, através da DGARTES, e outras pessoas coletivas públicas ou privadas, nacionais ou estrangeiras, para apoiar as entidades elegíveis no desenvolvimento de atividades que se enquadrem nos objetivos e linhas estratégicas previstas no presente decreto-lei.\n\n2 - O financiamento de programas em parceria em articulação com outras áreas setoriais depende de despacho dos membros do Governo responsáveis pela área da cultura e em razão da matéria, no qual são fixadas as demais condições do programa de apoio, nos termos do presente decreto-lei.\n\n3 - Os programas em parceria com a administração local assentam em objetivos estratégicos comuns, dando prioridade ao desenvolvimento de atividades nos territórios com oferta cultural reduzida ou inexistente.\n\n4 - Nos acordos previstos no n.º 1, que antecedem o programa em parceria, são estabelecidas as condições do programa que, nos termos do presente decreto-lei, devem constar do aviso de abertura.\n\n5 - No programa em parceria podem ser considerados os encargos das entidades elegíveis com os recursos materiais e humanos necessários à sua atividade regular."
+  },
+  "108037695": {
+   "fragment_id": "108048465",
+   "type": 1,
+   "heading": "Capítulo III — Atribuição dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Atribuição dos apoios"
+  },
+  "108037696": {
+   "fragment_id": "108048466",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma de atribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Forma de atribuição\n\n1 - Os apoios financeiros são atribuídos na sequência de:\n\na) Concurso;\n\nb) Concurso limitado;\n\nc) Procedimento simplificado;\n\nd) Protocolo.\n\n2 - O concurso pode ser adotado para atribuição de quaisquer apoios, sendo as propostas avaliadas por uma comissão de apreciação, nos termos do artigo 15.º\n\n3 - No caso do programa de apoio sustentado a que se refere o artigo 10.º, a atribuição de apoio financeiro depende sempre de concurso.\n\n4 - O concurso limitado pode ter lugar apenas em situações excecionais e devidamente fundamentadas, nomeadamente para efeitos de seleção de representantes oficiais em certames internacionais, e fica reservado às entidades elegíveis que sejam convidadas para o efeito sob proposta da DGARTES, homologada pelo membro do Governo responsável pela área da cultura.\n\n5 - O procedimento simplificado pode ser adotado para atribuição de apoios até ao montante de (euro) 5000 e para atribuição dos apoios previstos no n.º 2 do artigo 11.º, sendo as propostas apreciadas pelos serviços técnicos da DGARTES, e submetidas à decisão do respetivo diretor-geral.\n\n6 - O protocolo pode ser adotado para atribuição de apoios no âmbito do programa de apoio em parceria, sendo as propostas apreciadas pelos serviços técnicos da DGARTES, ouvido, quando aplicável, o serviço ou organismo da área da cultura territorialmente competente e, em caso de apreciação favorável, submetidas a homologação do membro do Governo responsável pela área da cultura."
+  },
+  "108037697": {
+   "fragment_id": "108048467",
+   "type": 11,
+   "heading": "Artigo 14.º — Requisitos gerais de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Requisitos gerais de acesso\n\nConstituem requisitos gerais de acesso aos apoios previstos no presente decreto-lei:\n\na) Ter uma situação contributiva regularizada perante a Autoridade Tributária e Aduaneira e a Segurança Social, bem como a situação regularizada junto da DGARTES, caso tenha beneficiado anteriormente de apoios às artes;\n\nb) Dispor ou comprometer-se a dispor, mediante declaração sob compromisso de honra, das autorizações e licenciamentos necessários, nas situações aplicáveis;\n\nc) No caso de pessoas singulares, não desempenhar funções efetivas em órgão de direção ou fiscalização de entidades elegíveis que estejam em incumprimento perante a DGARTES, na sequência de apoios anteriormente atribuídos."
+  },
+  "108037698": {
+   "fragment_id": "108048468",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissões de apreciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Comissões de apreciação\n\n1 - No concurso, a apreciação das candidaturas é efetuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura sob proposta fundamentada da DGARTES, compostas por consultores ou especialistas nas áreas artísticas e financeira, e por um técnico da DGARTES, que preside.\n\n2 - O apoio técnico, logístico e administrativo necessário ao funcionamento das comissões de apreciação é assegurado pela DGARTES.\n\n3 - A avaliação anterior das entidades elegíveis, quando existente, é disponibilizada às comissões de apreciação, que a devem ter em consideração.\n\n4 - As propostas de decisão das comissões de apreciação são homologadas por despacho do diretor-geral da DGARTES e publicitadas no Balcão Artes."
+  },
+  "108037699": {
+   "fragment_id": "108048469",
+   "type": 1,
+   "heading": "Capítulo IV — Formalização, acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Formalização, acompanhamento e avaliação"
+  },
+  "108037700": {
+   "fragment_id": "108048470",
+   "type": 11,
+   "heading": "Artigo 16.º — Formalização do apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Formalização do apoio financeiro\n\n1 - A atribuição de apoio financeiro é formalizada mediante contrato escrito, celebrado entre a entidade beneficiária do apoio e a DGARTES, e outras entidades públicas ou privadas envolvidas, quando aplicável.\n\n2 - O contrato referido no número anterior contém, obrigatoriamente, os seguintes elementos:\n\na) Objeto;\n\nb) Direitos e obrigações das partes;\n\nc) Plano de atividades calendarizado e orçamento;\n\nd) Montante de financiamento e modo de pagamento;\n\ne) Mecanismos de acompanhamento;\n\nf) Formas de avaliação;\n\ng) Prazo de vigência;\n\nh) Consequências face a eventuais incumprimentos, nos termos do artigo 23.º\n\n3 - A atribuição de apoio através de procedimento simplificado assume a forma de acordo escrito simples, que pode não conter todos os elementos previstos no número anterior."
+  },
+  "108037701": {
+   "fragment_id": "108048471",
+   "type": 11,
+   "heading": "Artigo 17.º — Acompanhamento e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Acompanhamento e avaliação\n\n1 - Os contratos de apoio financeiro são objeto de acompanhamento permanente e de avaliação anual da sua execução, a qual compete à DGARTES, através das comissões de avaliação.\n\n2 - A avaliação dos contratos assenta numa lógica de aferição da prossecução dos objetivos e verificação de resultados."
+  },
+  "108037702": {
+   "fragment_id": "108048472",
+   "type": 11,
+   "heading": "Artigo 18.º — Comissões de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comissões de avaliação\n\n1 - As comissões de avaliação, sob orientação da DGARTES, funcionam junto das direções regionais de cultura do território continental e das regiões autónomas, que asseguram o apoio técnico, logístico e administrativo necessário ao seu funcionamento.\n\n2 - As comissões de avaliação são compostas por consultores ou especialistas nas áreas artísticas e financeira, designados pelo diretor-geral da DGARTES sob proposta fundamentada dos respetivos serviços, por um representante dos municípios e pelo diretor regional de cultura territorialmente competente ou por quem o represente, que preside.\n\n3 - Os representantes dos municípios são convidados pelos diretores regionais de cultura a integrar as comissões de avaliação.\n\n4 - Compete às comissões de avaliação elaborar o relatório anual relativo às entidades beneficiárias de apoio financeiro."
+  },
+  "108037703": {
+   "fragment_id": "108048473",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração dos membros das comissões de apreciação e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Remuneração dos membros das comissões de apreciação e de avaliação\n\nOs membros das comissões de apreciação e os membros das comissões de avaliação que não detenham vínculo de trabalho em funções públicas, ou que não sejam trabalhadores de pessoas coletivas de direito público e de empresas do setor público empresarial, têm direito a uma remuneração fixada por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da cultura."
+  },
+  "108037704": {
+   "fragment_id": "108048474",
+   "type": 11,
+   "heading": "Artigo 20.º — Relatório de avaliação global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Relatório de avaliação global\n\n1 - Compete à DGARTES elaborar e apresentar ao membro do Governo responsável pela área da cultura o relatório de avaliação global dos resultados obtidos com a execução dos programas de apoio previstos no presente decreto-lei, tendo em consideração o plano estratégico plurianual previamente fixado.\n\n2 - O relatório previsto no número anterior é apresentado a cada quatro anos, no máximo, e constitui um instrumento de suporte da proposta da DGARTES relativa ao plano estratégico plurianual seguinte, a aprovar nos termos previstos no artigo 7.º"
+  },
+  "108037705": {
+   "fragment_id": "108051575",
+   "type": 11,
+   "heading": "Artigo 21.º — Auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Auditoria\n\nA DGARTES pode, a todo o tempo e a seu cargo, determinar a realização de auditorias, por revisor oficial de contas, à execução dos contratos celebrados no âmbito do presente decreto-lei."
+  },
+  "108037706": {
+   "fragment_id": "108051576",
+   "type": 11,
+   "heading": "Artigo 22.º — Obrigações genéricas das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Obrigações genéricas das entidades beneficiárias\n\nSem prejuízo de outras obrigações resultantes do regulamento aplicável, as entidades beneficiárias ficam obrigadas a:\n\na) Fornecer à DGARTES todas as informações que lhes sejam solicitadas relativamente à utilização dos apoios atribuídos;\n\nb) Informar a DGARTES sobre outros apoios públicos ou privados, de natureza financeira ou não financeira, para qualquer atividade abrangida pelo presente decreto-lei, indicando expressamente:\n\ni) Antes da atribuição do apoio, outros apoios previstos ou já atribuídos, o período respetivo e a entidade apoiante;\n\nii) Após a formalização do apoio, outros apoios entretanto recebidos, o período respetivo e a entidade apoiante.\n\nc) Mencionar o apoio da DGARTES nos suportes de comunicação e divulgação das atividades apoiadas;\n\nd) Apresentar um relatório de execução de atividades e contas."
+  },
+  "108037707": {
+   "fragment_id": "108051577",
+   "type": 11,
+   "heading": "Artigo 23.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Incumprimento\n\n1 - A falta de cumprimento, pelas entidades beneficiárias, das respetivas obrigações contratuais, bem como as omissões ou falsas declarações no âmbito de informações prestadas à DGARTES, ou quaisquer irregularidades detetadas em sede da auditoria prevista no artigo 21.º, podem determinar, nos termos a definir no regulamento dos programas de apoio, uma das seguintes sanções:\n\na) Suspensão dos pagamentos;\n\nb) Sanção pecuniária indexada ao valor do apoio atribuído;\n\nc) Resolução do contrato, com ou sem obrigação de devolução das quantias recebidas.\n\n2 - A não entrega do relatório de atividades e contas, bem como a aplicação das sanções previstas nas alíneas b) ou c) do número anterior determinam, ainda, o impedimento de apresentação de nova candidatura enquanto subsistir o incumprimento, ou no máximo por um período de cinco anos, nos termos a definir no regulamento dos programas de apoio."
+  },
+  "108037708": {
+   "fragment_id": "108051578",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "108037709": {
+   "fragment_id": "108051579",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Regulamentação\n\n1 - Por portaria do membro do Governo responsável pela área da cultura, são definidos os regulamentos dos programas de apoio e os relativos à composição e funcionamento das comissões de apreciação e de avaliação.\n\n2 - Os programas de apoio financiados em articulação com outras áreas setoriais podem também ser objeto de regulamentação específica, aprovada por portaria dos membros do Governo responsáveis pela área da cultura e em razão da matéria."
+  },
+  "108037710": {
+   "fragment_id": "108051580",
+   "type": 11,
+   "heading": "Artigo 25.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Encargos\n\nOs encargos decorrentes da aplicação do presente regime são inscritos no orçamento de projetos da DGARTES."
+  },
+  "108037711": {
+   "fragment_id": "108051581",
+   "type": 11,
+   "heading": "Artigo 26.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cumulação de apoios\n\nAs mesmas atividades e projetos não podem beneficiar de apoios cumulativos previstos no presente decreto-lei."
+  },
+  "108037712": {
+   "fragment_id": "108051582",
+   "type": 11,
+   "heading": "Artigo 27.º — Publicidade e divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Publicidade e divulgação\n\nSem prejuízo do cumprimento da Lei n.º 64/2013, de 27 de agosto, que regula a obrigatoriedade de publicitação dos benefícios concedidos pela Administração Pública a particulares, a DGARTES publicita no Balcão Artes, no primeiro trimestre de cada ano, as entidades beneficiárias dos apoios atribuídos no ano anterior e os respetivos montantes."
+  },
+  "108037713": {
+   "fragment_id": "108051583",
+   "type": 11,
+   "heading": "Artigo 28.º — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Arbitragem\n\nOs litígios emergentes da aplicação do presente decreto-lei podem ser resolvidos por recurso a arbitragem, nos termos do Código de Processo nos Tribunais Administrativos e da legislação relativa à arbitragem voluntária, devendo a vinculação do Ministério da Cultura a quaisquer centros institucionalizados de arbitragem, quando exista, constar expressamente do anúncio a que se refere o artigo 9.º"
+  },
+  "108037714": {
+   "fragment_id": "108051584",
+   "type": 11,
+   "heading": "Artigo 29.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Recursos\n\nDo despacho de decisão, ou de qualquer outro ato praticado no decurso dos procedimentos de atribuição dos apoios previstos no presente decreto-lei, cabe reclamação e recurso hierárquico nos termos do Código do Procedimento Administrativo, o qual não tem efeito suspensivo."
+  },
+  "108037715": {
+   "fragment_id": "108051585",
+   "type": 11,
+   "heading": "Artigo 30.º — Aplicação da lei no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Aplicação da lei no tempo\n\n1 - Aos apoios atribuídos por contrato até à entrada em vigor do presente decreto-lei aplicam-se a regras vigentes à data da sua celebração.\n\n2 - As entidades que celebraram, em 2017, contratos de apoio direto e indireto, em qualquer modalidade, são elegíveis para os programas de apoio a abrir para o ano de 2018 nos termos do presente decreto-lei, desde que reúnam os respetivos requisitos."
+  },
+  "108037716": {
+   "fragment_id": "108051586",
+   "type": 11,
+   "heading": "Artigo 31.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 225/2006, de 13 de novembro, alterado pelo Decreto-Lei n.º 196/2008, de 6 de outubro."
+  },
+  "108037717": {
+   "fragment_id": "108051587",
+   "type": 11,
+   "heading": "Artigo 32.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "122826792": {
+   "fragment_id": "108048473",
+   "type": 11,
+   "heading": "Artigo 19.º — Comissões de apreciação e de avaliação dos apoios financeiros do Estado às artes",
+   "in_force_from": "2019-06-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 182.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 19.º — Comissões de apreciação e de avaliação dos apoios financeiros do Estado às artes\n\n1 - É devida aos membros das comissões de apreciação e aos membros das comissões de avaliação:\n\na) Caso não detenham vínculo de emprego público nem sejam trabalhadores de pessoas coletivas de direito público ou de empresas do setor público empresarial, uma remuneração fixada nos termos do Despacho n.º 9853/2017, publicado no Diário da República, 2.ª série, n.º 219, de 14 de novembro;\n\nb) Caso, nos termos do artigo 21.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, detenham vínculo de emprego público ou sejam trabalhadores de pessoas coletivas de direito público ou de empresas do setor público empresarial, e as funções de apreciação ou avaliação sejam exercidas fora do período normal de trabalho, uma compensação equivalente à estabelecida no despacho referido na alínea anterior.\n\n2 - Excetuam-se do disposto na alínea b) do número anterior os trabalhadores que exerçam funções públicas em serviços ou organismos da área governativa da cultura, designadamente os referidos no n.º 1 do artigo 15.º e no n.º 2 do artigo 18.º\n\n3 - O disposto no presente artigo aplica-se aos concursos de apoio às artes, nos seguintes termos:\n\na) Aos membros das comissões de apreciação dos concursos iniciados no ano de 2019 e seguintes;\n\nb) Aos membros das comissões de avaliação dos contratos de apoio financeiro em execução no ano de 2019 e seguintes.\n\n> Alterado pelo/a Artigo 182.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "108037718": {
+   "fragment_id": "108051588",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de julho de 2017. - José Alberto de Azeredo Ferreira Lopes - Ricardo Emanuel Martins Mourinho Félix - Luís Filipe Carrilho de Castro Mendes.\n\nPromulgado em 12 de agosto de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 18 de agosto de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "164938058": {
+   "fragment_id": "108048452",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.\n\n2 - As áreas artísticas previstas no número anterior incluem, designadamente:\n\na) A arquitetura, as artes plásticas, o design, a fotografia e os novos media, no âmbito das artes visuais;\n\nb) O circo, a dança, a música, a ópera e o teatro, no âmbito das artes performativas;\n\nc) As artes de rua;\n\nd) O cruzamento disciplinar.\n\n3 - São excluídas as atividades de natureza exclusivamente lucrativa que não se inserem nos fins e objetivos de interesse público previstos no artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938059": {
+   "fragment_id": "108048453",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades candidatas",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades candidatas\n\n1 - São detentoras dos requisitos para apoio, nos termos do presente decreto-lei, as seguintes entidades que exerçam, a título predominante, atividades profissionais numa ou mais das áreas previstas no artigo anterior:\n\na) Pessoas coletivas de direito privado com sede em Portugal;\n\nb) Pessoas singulares com domicílio fiscal em Portugal;\n\nc) Grupos informais, constituídos por um conjunto de pessoas singulares ou coletivas, sem personalidade jurídica, organizados para apresentação de propostas ao abrigo do presente decreto-lei, desde que nomeiem como seu representante uma pessoa singular ou coletiva com domicílio ou sede fiscal em Portugal.\n\n2 - Não são detentoras dos requisitos para apoio as fundações privadas ou as fundações públicas de direito privado que tenham outro tipo de financiamento continuado, assegurado pelo programa orçamental da área da cultura, bem como as associações maioritariamente constituídas por entidades públicas e as empresas do setor empresarial do Estado e das regiões autónomas, com exceção dos apoios previstos no artigo 12.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938060": {
+   "fragment_id": "108048454",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins e objetivos",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 3.º — Fins e objetivos\n\n1 - As medidas e os apoios previstos no presente decreto-lei visam fomentar a criação, produção e difusão das artes através do incentivo a uma diversidade de áreas disciplinares e domínios de atividade, promover a articulação das artes com outras áreas setoriais e valorizar a fruição artística enquanto instrumento de correção de assimetrias territoriais e de desenvolvimento humano, social, económico e cultural.\n\n2 - A concretização dos fins de interesse público previstos no número anterior deve ser orientada por um conjunto de objetivos estratégicos, nomeadamente a igualdade em todas as suas dimensões, maior representação e participação étnico-raciais, a coesão social e territorial, a qualificação dos cidadãos, a valorização do território, a preservação ambiental e mitigação dos efeitos das alterações climáticas, a transversalidade setorial, a internacionalização e a inovação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938061": {
+   "fragment_id": "108048456",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito territorial",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 5.º — Âmbito territorial\n\n1 - Os programas de apoio abrangem atividades realizadas em território nacional e no estrangeiro.\n\n2 - Para a concretização dos objetivos enunciados no artigo 3.º, designadamente para correção de assimetrias territoriais, podem ser fixados diferentes montantes globais disponíveis para cada circunscrição territorial correspondente aos níveis II ou III da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS II ou III), estabelecidas pelo Decreto-Lei n.º 46/89, de 15 de fevereiro, na sua redação atual, antes da abertura de um programa de apoio, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES, salvaguardando-se as especificidades próprias das regiões autónomas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938062": {
+   "fragment_id": "108048457",
+   "type": 11,
+   "heading": "Artigo 6.º — Domínios de atividade",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 6.º — Domínios de atividade\n\nAs atividades financiadas ao abrigo dos programas de apoio devem inscrever-se num ou mais dos seguintes domínios de atividade:\n\na) Criação;\n\nb) Programação;\n\nc) Circulação nacional;\n\nd) Internacionalização;\n\ne) Ações estratégicas de mediação;\n\nf) Edição;\n\ng) Investigação;\n\nh) Formação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "165010080": {
+   "fragment_id": "108048458",
+   "type": 11,
+   "heading": "Artigo 7.º — Plano estratégico plurianual",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 7.º — Plano estratégico plurianual\n\n1 - Compete ao membro do Governo responsável pela área da cultura aprovar por despacho, sob proposta da DGARTES e ouvidos os departamentos dos governos regionais com competência em matéria de cultura e as direções regionais de cultura, o plano estratégico plurianual que fixa as principais linhas estratégicas do apoio às artes, de acordo com os fins e objetivos estabelecidos no artigo 3.º\n\n2 - O plano estratégico plurianual deve ser revisto, no máximo, a cada quatro anos.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938063": {
+   "fragment_id": "108048459",
+   "type": 11,
+   "heading": "Artigo 8.º — Declaração anual",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 8.º — Declaração anual\n\n1 - A DGARTES publica anualmente, até ao máximo de 10 dias a contar da data de entrada em vigor da Lei do Orçamento do Estado, no seu sítio na Internet, uma declaração homologada pelo membro do Governo responsável pela área da cultura que define, com base nos objetivos, no plano estratégico plurianual, nas diversas necessidades de financiamento e nos recursos financeiros disponíveis:\n\na) Os programas de apoio a abrir no ano seguinte e o respetivo prazo limite de abertura;\n\nb) As áreas artísticas e os principais domínios de atividade de cada programa de apoio;\n\nc) Os fatores de valorização a considerar decorrentes do plano estratégico plurianual.\n\n2 - A informação sobre a declaração anual deve ser também disponibilizada no portal ePortugal, com uma hiperligação para o sítio na Internet da DGARTES.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938064": {
+   "fragment_id": "108048460",
+   "type": 11,
+   "heading": "Artigo 9.º — Abertura dos programas de apoio",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 9.º — Abertura dos programas de apoio\n\n1 - Os programas de apoio são abertos após a fixação do montante financeiro disponível, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES.\n\n2 - O aviso de abertura dos programas é publicado pela DGARTES na 2.ª série do Diário da República, devendo remeter para um anúncio completo a publicar no sítio na Internet da DGARTES, o qual inclui:\n\na) A indicação do programa de apoio;\n\nb) Os objetivos que visa prosseguir;\n\nc) O montante global disponível;\n\nd) As entidades candidatas;\n\ne) As áreas artísticas;\n\nf) Os domínios de atividade;\n\ng) O âmbito territorial;\n\nh) A forma de atribuição;\n\ni) Os critérios de apreciação.\n\nj) A composição das comissões de apreciação.\n\n3 - (Revogado.)\n\n4 - A informação sobre a abertura dos programas de apoio deve ser também disponibilizada no portal ePortugal, com uma hiperligação para o sítio na Internet da DGARTES.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938057": {
+   "fragment_id": "165008976",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Princípio da preferência pela contratação de profissionais em regime de contrato de trabalho",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 9.º-A — Princípio da preferência pela contratação de profissionais em regime de contrato de trabalho\n\nPara efeitos da atribuição dos apoios previstos no presente decreto-lei, as entidades beneficiárias devem privilegiar a contratação de profissionais em regime de contrato de trabalho.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938065": {
+   "fragment_id": "108048462",
+   "type": 11,
+   "heading": "Artigo 10.º — Programa de apoio sustentado",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 10.º — Programa de apoio sustentado\n\n1 - O programa de apoio sustentado destina-se exclusivamente às pessoas coletivas previstas na alínea a) do n.º 1 do artigo 2.º e visa a estabilidade e consolidação de entidades com atividade continuada, assente em planos plurianuais, sendo considerados os respetivos encargos com recursos materiais e humanos, nomeadamente, através da preferência pela contratação de profissionais em regime de contrato de trabalho.\n\n2 - O programa de apoio sustentado contempla as modalidades bienal e quadrienal, sem prejuízo do disposto no n.º 8.\n\n3 - As entidades que pretendam beneficiar de apoio sustentado na modalidade bienal devem ter, pelo menos, quatro anos de atividade profissional continuada, independentemente da sua natureza jurídica ou do seu modelo institucional.\n\n4 - As entidades que pretendam beneficiar de apoio sustentado na modalidade quadrienal devem ter, pelo menos, seis anos de atividade profissional continuada, independentemente da sua natureza jurídica ou do seu modelo institucional.\n\n5 - No programa de apoio sustentado são valorizadas as candidaturas que associem o apoio de municípios.\n\n6 - (Revogado.)\n\n7 - O anúncio de abertura particulariza os patamares de financiamento que são determinados em função dos seguintes requisitos:\n\na) Anos de atividade profissional continuada;\n\nb) Anterior apoio financeiro do Estado, através da DGARTES;\n\nc) Espaço de criação e/ou apresentação para os fins a que se destina o apoio.\n\n8 - O apoio sustentado atribuído através de concurso, na modalidade quadrienal, pode ser renovado pelo mesmo período de quatro anos, por despacho do diretor-geral da DGARTES, se da execução do plano de atividades anterior e do plano proposto para o novo período resultar uma avaliação global positiva no parecer da comissão de acompanhamento relativamente às entidades beneficiárias com contrato em vigor.\n\n9 - No caso previsto no número anterior a entidade vai beneficiar do montante correspondente ao apoio recebido no âmbito do programa de apoio sustentado em curso.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938066": {
+   "fragment_id": "108048463",
+   "type": 11,
+   "heading": "Artigo 11.º — Programa de apoio a projetos",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 11.º — Programa de apoio a projetos\n\n1 - O programa de apoio a projetos destina-se a projetos ou a um conjunto de atividades de um projeto que possam ser implementados até ao limite de 18 meses, visando contribuir para o dinamismo e a renovação do tecido artístico.\n\n2 - O programa de apoio a projetos destina-se, ainda, a complementar o financiamento de:\n\na) Atividades previamente aprovadas no âmbito de programas nacionais ou internacionais de financiamento;\n\nb) Atividades cuja viabilização dependa de uma percentagem de apoio reduzida.\n\n3 - Às modalidades de apoio a projetos referidas no número anterior não se aplica o limite de 18 meses para a sua implementação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938067": {
+   "fragment_id": "108048464",
+   "type": 11,
+   "heading": "Artigo 12.º — Programa de apoio em parceria",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 12.º — Programa de apoio em parceria\n\n1 - O programa de apoio em parceria visa apoiar, de modo particular, o desenvolvimento de atividades que se enquadrem nos objetivos e linhas estratégicas previstas no presente decreto-lei, através da DGARTES, e outras pessoas coletivas, públicas ou privadas, nacionais ou estrangeiras, e reveste as seguintes modalidades:\n\na) Apoio em parceria em articulação com outras áreas de política setorial;\n\nb) Apoio em parceria com entidades que assegurem regularmente e de forma sustentada atividades artísticas ou domínios de atividade com reconhecido mérito cultural e projeção nacional e internacional;\n\nc) Apoio em parceria com a administração local.\n\n2 - A abertura das modalidades de programa de apoio previstas no número anterior depende de despacho do membro do Governo responsável pela área da cultura, no qual são fixadas as condições do programa de apoio, nos termos do presente decreto-lei, sob proposta fundamentada da DGARTES.\n\n3 - A modalidade prevista na alínea c) do n.º 1 assenta em objetivos estratégicos comuns, fixados em acordo de parceria, para o desenvolvimento de projetos artísticos por parte de entidades que melhor reduzam as assimetrias territoriais existentes e a qualidade da oferta cultural, promovendo o acesso à fruição pública das artes de forma mais equilibrada em todo o território nacional.\n\n4 - No programa de apoio em parceria podem ser considerados os encargos das entidades candidatas com os recursos materiais e humanos necessários à sua atividade regular.\n\n5 - Nas modalidades previstas nas alíneas a) e c) do n.º 1 a DGARTES celebra com as respetivas pessoas coletivas o acordo de parceria que, antecedendo o programa de apoio em parceria, estabelece as condições do programa que, nos termos do presente decreto-lei, devem constar do aviso de abertura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938068": {
+   "fragment_id": "108048466",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma de atribuição",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 13.º — Forma de atribuição\n\n1 - Os apoios financeiros são atribuídos na sequência de:\n\na) Concurso;\n\nb) Concurso limitado;\n\nc) Procedimento simplificado;\n\nd) (Revogada.)\n\n2 - O concurso pode ser adotado para atribuição de quaisquer apoios, sendo as propostas avaliadas por uma comissão de apreciação, nos termos do artigo 15.º\n\n3 - No caso do programa de apoio sustentado a que se refere o artigo 10.º, a atribuição de apoio financeiro depende sempre de concurso.\n\n4 - O concurso limitado pode ter lugar em situações devidamente fundamentadas, nomeadamente no âmbito do programa de apoio em parceria ou para efeitos de seleção de representantes oficiais em certames internacionais, e fica reservado às entidades que sejam convidadas para o efeito sob proposta da DGARTES.\n\n5 - O procedimento simplificado apenas pode ser adotado para atribuição de apoios até ao montante de (euro) 5 000,00, exceto no caso dos apoios previstos na alínea a) do n.º 2 do artigo 11.º, sendo as propostas apreciadas pelos serviços técnicos da DGARTES, e submetidas à decisão do respetivo diretor-geral, não havendo lugar a audiência dos interessados.\n\n6 - (Revogado.)\n\n7 - Independentemente da forma de atribuição do apoio, as candidaturas aos programas de apoio devem ser submetidas eletronicamente no sítio na Internet da DGARTES, o qual pode ser acedido através do portal ePortugal.\n\n8 - Na submissão de candidaturas devem ser utilizados mecanismos de autenticação segura, incluindo os do Cartão de Cidadão e Chave Móvel Digital, bem como os meios de identificação eletrónica emitidos noutros Estados-Membros reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.\n\n9 - Quando, por motivos de indisponibilidade dos sistemas de informação, não for possível o cumprimento do disposto nos n.os 7 e 8, a transmissão da informação em causa pode ser realizada por outros meios de transmissão eletrónica de dados de acordo com as instruções divulgadas no sítio na Internet da DGARTES.\n\n10 - Os documentos eletrónicos submetidos com as candidaturas devem ser assinados, preferencialmente, com recurso a assinaturas eletrónicas qualificadas, incluindo as do Cartão de Cidadão e Chave Móvel Digital ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938069": {
+   "fragment_id": "108048467",
+   "type": 11,
+   "heading": "Artigo 14.º — Requisitos gerais de acesso",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 14.º — Requisitos gerais de acesso\n\n1- Constituem requisitos gerais de acesso aos apoios previstos no presente decreto-lei:\n\na) Ter uma situação contributiva regularizada perante a Autoridade Tributária e Aduaneira e a Segurança Social, bem como a situação regularizada junto da DGARTES, caso tenha beneficiado anteriormente de apoios às artes;\n\nb) Dispor ou comprometer-se a dispor, mediante declaração sob compromisso de honra, das autorizações e licenciamentos necessários, nas situações aplicáveis;\n\nc) No caso de pessoas singulares, não desempenhar funções efetivas em órgão de direção ou fiscalização de entidades que estejam em incumprimento perante a DGARTES, na sequência de apoios anteriormente atribuídos.\n\n2 - Os candidatos são dispensados da apresentação de documentos que já se encontrem na posse de serviços e entidades da Administração Pública, quando derem o seu consentimento para que se proceda à sua obtenção, utilizando a Plataforma de Interoperabilidade da Administração Pública ou recorrendo ao mecanismo de portabilidade de dados previsto no n.º 2 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938070": {
+   "fragment_id": "108048468",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissões de apreciação",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 15.º — Comissões de apreciação\n\n1 - No concurso, a apreciação das candidaturas é efetuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura sob proposta fundamentada da DGARTES, compostas por consultores ou especialistas nas áreas artísticas e nas áreas de gestão financeira ou cultural, e por um técnico da DGARTES, que coordena.\n\n2 - O apoio técnico, logístico e administrativo necessário ao funcionamento das comissões de apreciação é assegurado pela DGARTES.\n\n3 - O relatório das comissões de acompanhamento das entidades candidatas, quando existente, é disponibilizado às comissões de apreciação, que o devem ter em consideração.\n\n4 - As propostas de decisão das comissões de apreciação são homologadas por despacho do diretor-geral da DGARTES e publicitadas no sítio na Internet da DGARTES.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938071": {
+   "fragment_id": "108048470",
+   "type": 11,
+   "heading": "Artigo 16.º — Formalização do apoio financeiro",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 16.º — Formalização do apoio financeiro\n\n1 - A atribuição de apoio financeiro é formalizada mediante contrato escrito, celebrado entre a entidade beneficiária do apoio e a DGARTES, e outras entidades públicas ou privadas envolvidas, quando aplicável.\n\n2 - O contrato referido no número anterior contém, obrigatoriamente, os seguintes elementos:\n\na) Objeto;\n\nb) Direitos e obrigações das partes;\n\nc) Plano de atividades calendarizado e orçamento;\n\nd) Montante de financiamento e modo de pagamento;\n\ne) Mecanismos de acompanhamento;\n\nf) Formas de avaliação;\n\ng) Prazo de vigência;\n\nh) Consequências face a eventuais incumprimentos, nos termos do artigo 23.º\n\n3 - A atribuição de apoio através de procedimento simplificado assume a forma de contrato escrito, contendo os seguintes elementos:\n\na) A proposta apresentada pela entidade;\n\nb) Os direitos e obrigações das partes;\n\nc) O montante de financiamento;\n\nd) O prazo de vigência.\n\n4 - Salvo situações de força maior, caso a entidade beneficiária não assine o contrato no prazo de 15 dias úteis a contar da data de envio do mesmo, o procedimento caduca quanto a esta, podendo a DGARTES selecionar para a contratação do apoio financeiro a entidade beneficiária que ficou graduada no lugar imediatamente seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938072": {
+   "fragment_id": "108048471",
+   "type": 11,
+   "heading": "Artigo 17.º — Acompanhamento e avaliação",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 17.º — Acompanhamento e avaliação\n\n1 - Os contratos de apoio financeiro são objeto de acompanhamento permanente e de avaliação anual da sua execução, a qual compete à DGARTES, através das comissões de acompanhamento.\n\n2 - A avaliação dos contratos assenta numa lógica de aferição da prossecução dos objetivos e verificação de resultados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938073": {
+   "fragment_id": "108048472",
+   "type": 11,
+   "heading": "Artigo 18.º — Comissões de acompanhamento",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 18.º — Comissões de acompanhamento\n\n1 - As comissões de acompanhamento funcionam sob orientação e coordenação da DGARTES, que assegura o apoio técnico, logístico e administrativo necessário ao seu funcionamento.\n\n2 - As comissões de acompanhamento são compostas por consultores ou especialistas nas áreas artísticas e nas áreas de gestão financeira ou cultural, designados pelo diretor-geral da DGARTES sob proposta fundamentada dos respetivos serviços.\n\n3 - Os municípios onde são maioritariamente desenvolvidas as atividades das entidades beneficiárias são convidados a participar nas comissões de acompanhamento.\n\n4 - Compete às comissões de acompanhamento elaborar o relatório anual relativo às entidades beneficiárias de apoio financeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "164938074": {
+   "fragment_id": "108048473",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração dos membros das comissões de apreciação e de acompanhamento",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12",
+    "Alterado pelo/a Artigo 182.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+   ],
+   "markdown": "###### Artigo 19.º — Remuneração dos membros das comissões de apreciação e de acompanhamento\n\n1 - É devida aos membros das comissões de apreciação e aos membros das comissões de acompanhamento:\n\na) Caso não detenham vínculo de emprego público, nem sejam trabalhadores de pessoas coletivas de direito público ou de empresas do setor público empresarial, uma remuneração fixada por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da cultura;\n\nb) Caso, nos termos do artigo 21.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, detenham vínculo de emprego público ou sejam trabalhadores de pessoas coletivas de direito público ou de empresas do setor público empresarial, e as funções de apreciação ou acompanhamento sejam exercidas fora do período normal de trabalho, uma compensação equivalente à estabelecida no despacho referido na alínea anterior.\n\n2 - Excetuam-se do disposto na alínea b) do número anterior os trabalhadores que exerçam funções públicas em serviços ou organismos da área governativa da cultura, designadamente os referidos no n.º 1 do artigo 15.º e no n.º 2 do artigo 18.º\n\n3 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12\n\n> Alterado pelo/a Artigo 182.º do/a [Decreto-Lei n.º 84/2019 - Diário da República n.º 122/2019, Série I de 2019-06-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), em vigor a partir de 2019-06-29"
+  },
+  "165010081": {
+   "fragment_id": "108048474",
+   "type": 11,
+   "heading": "Artigo 20.º — Relatório de avaliação global",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 20.º — Relatório de avaliação global\n\n1 - Compete à DGARTES elaborar e apresentar ao membro do Governo responsável pela área da cultura o relatório de avaliação global dos resultados obtidos com a execução dos programas de apoio previstos no presente decreto-lei, tendo em consideração o plano estratégico plurianual previamente fixado.\n\n2 - O relatório previsto no número anterior é apresentado a cada quatro anos, no máximo, e constitui um instrumento de suporte da proposta da DGARTES relativa ao plano estratégico plurianual seguinte, a aprovar nos termos previstos no artigo 7.º\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "165010075": {
+   "fragment_id": "108051577",
+   "type": 11,
+   "heading": "Artigo 23.º — Incumprimento",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 23.º — Incumprimento\n\n1 - O incumprimento, pelas entidades beneficiárias, das respetivas obrigações contratuais, a cessação do preenchimento dos respetivos requisitos de acesso aos programas de apoio, bem como as omissões ou falsas declarações no âmbito de informações prestadas à DGARTES, ou quaisquer irregularidades detetadas em sede da auditoria prevista no artigo 21.º, podem determinar, nos termos a definir no regulamento dos programas de apoio, uma das seguintes sanções:\n\na) Suspensão dos pagamentos;\n\nb) (Revogada.)\n\nc) Resolução do contrato, com ou sem obrigação de devolução das quantias recebidas.\n\n2 - A não entrega do relatório de atividades e contas, bem como a aplicação do previsto na alínea c) do número anterior, determina, ainda, o impedimento de apresentação de nova candidatura enquanto subsistir o incumprimento, ou no máximo por um período de cinco anos, nos termos a definir no regulamento dos programas de apoio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "165010076": {
+   "fragment_id": "108051579",
+   "type": 11,
+   "heading": "Artigo 24.º — Regulamentação",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 24.º — Regulamentação\n\n1 - Por portaria do membro do Governo responsável pela área da cultura é definido o regulamento dos programas de apoio às artes.\n\n2 - Os programas de apoio financiados em articulação com outras áreas setoriais podem também ser objeto de regulamentação específica, aprovada por portaria dos membros do Governo responsáveis pela área da cultura e em razão da matéria.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "165010077": {
+   "fragment_id": "108051580",
+   "type": 11,
+   "heading": "Artigo 25.º — Encargos",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 25.º — Encargos\n\nOs encargos decorrentes da aplicação do presente decreto-lei são inscritos no orçamento da DGARTES.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "165010078": {
+   "fragment_id": "108051581",
+   "type": 11,
+   "heading": "Artigo 26.º — Cumulação de apoios",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 26.º — Cumulação de apoios\n\n1- As mesmas atividades e projetos não podem beneficiar de apoios cumulativos previstos no presente decreto-lei.\n\n2 - As entidades beneficiárias de apoio sustentado apenas podem apresentar candidaturas ao programa de apoio a projetos e ao programa de apoio em parceria se tal for expressamente permitido no respetivo aviso de abertura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "165010079": {
+   "fragment_id": "108051582",
+   "type": 11,
+   "heading": "Artigo 27.º — Publicidade e divulgação",
+   "in_force_from": "2021-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 27.º — Publicidade e divulgação\n\n1 - Sem prejuízo do cumprimento da Lei n.º 64/2013, de 27 de agosto, que regula a obrigatoriedade de publicitação dos benefícios concedidos pela Administração Pública a particulares, a DGARTES publicita no seu sítio na Internet, no primeiro trimestre de cada ano, as entidades beneficiárias dos apoios atribuídos no ano anterior e os respetivos montantes.\n\n2 - A publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos do presente decreto-lei, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt.»\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "221641036": {
+   "fragment_id": "108048453",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades candidatas",
+   "in_force_from": "2023-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades candidatas\n\n1 - São detentoras dos requisitos para apoio, nos termos do presente decreto-lei, as seguintes entidades que exerçam, a título predominante, atividades profissionais numa ou mais das áreas previstas no artigo anterior:\n\na) Pessoas coletivas de direito privado com sede em Portugal;\n\nb) Pessoas singulares com domicílio fiscal em Portugal;\n\nc) Grupos informais, constituídos por um conjunto de pessoas singulares ou coletivas, sem personalidade jurídica, organizados para apresentação de propostas ao abrigo do presente decreto-lei, desde que nomeiem como seu representante uma pessoa singular ou coletiva com domicílio ou sede fiscal em Portugal.\n\n2 - São detentoras dos requisitos para apoio no âmbito da Rede Portuguesa de Arte Contemporânea (RPAC), criada pela Resolução do Conselho de Ministros n.º 50/2021, de 11 de maio, as entidades proprietárias e/ou gestoras de equipamentos culturais, sediadas em território nacional, que integrem a RPAC, com exceção dos serviços da administração direta do Estado, das fundações privadas ou as fundações públicas de direito privado que tenham outro tipo de financiamento continuado, assegurado pelo programa orçamental da área da cultura, bem como as empresas do setor empresarial do Estado.\n\n3 - Não são detentoras dos requisitos para apoio as fundações privadas ou as fundações públicas de direito privado que tenham outro tipo de financiamento continuado, assegurado pelo programa orçamental da área da cultura, bem como as associações maioritariamente constituídas por entidades públicas e as empresas do setor empresarial do Estado e das regiões autónomas, com exceção dos apoios previstos no artigo 12.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "221641037": {
+   "fragment_id": "108048455",
+   "type": 11,
+   "heading": "Artigo 4.º — Programas de apoio",
+   "in_force_from": "2023-09-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+   ],
+   "markdown": "###### Artigo 4.º — Programas de apoio\n\n1 - Para prossecução dos fins e objetivos de interesse público estabelecidos no artigo anterior, são criados os seguintes programas:\n\na) Apoio sustentado;\n\nb) Apoio a projetos;\n\nc) Apoio em parceria.\n\nd) Apoio no âmbito da RPAC.\n\n2 - Em situações excecionais, de manifesto interesse público, pode ser atribuído apoio extraordinário a atividades ou projetos de relevante interesse cultural, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES.\n\n3 - Os apoios têm a natureza de comparticipação financeira não reembolsável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+  },
+  "221641038": {
+   "fragment_id": "221678138",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Apoio no âmbito da Rede Portuguesa de Arte Contemporânea",
+   "in_force_from": "2023-09-16",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+   ],
+   "markdown": "###### Artigo 12.º-A — Apoio no âmbito da Rede Portuguesa de Arte Contemporânea\n\n1 - O apoio no âmbito da RPAC, nas áreas das artes visuais, incluindo arquitetura, artes plásticas, design, fotografia e novos media, e de cruzamento disciplinar, visa fomentar a criação, produção, difusão e fruição pública da arte contemporânea, bem como contribuir para a divulgação dos espaços de arte existentes em todo o país.\n\n2 - Este apoio visa, ainda, concretizar os objetivos da RPAC, bem como promover a articulação da arte contemporânea com outras áreas setoriais e valorizar a fruição artística enquanto instrumento de correção de assimetrias territoriais e de desenvolvimento humano, social, económico e cultural.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+  },
+  "1159715775": {
+   "fragment_id": "108048452",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o regime de atribuição de apoios financeiros do Estado, através da Direção-Geral das Artes (DGARTES), a entidades que exerçam atividades profissionais nas áreas das artes visuais, das artes performativas e de cruzamento disciplinar.\n\n2 - As áreas artísticas previstas no número anterior incluem, designadamente:\n\na) A arquitetura, as artes plásticas, o design, a fotografia e a banda desenhada, no âmbito das artes visuais;\n\nb) O circo, a dança, a música, a ópera e o teatro, no âmbito das artes performativas;\n\nc) As artes de rua;\n\nd) O cruzamento disciplinar;\n\ne) As artes e ofícios tradicionais;\n\nf) As artes digitais.\n\n3 - São excluídas as atividades de natureza exclusivamente lucrativa que não se inserem nos fins e objetivos de interesse público previstos no artigo 3.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159715975": {
+   "fragment_id": "108048453",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades candidatas e critérios de elegibilidade",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 2.º — Entidades candidatas e critérios de elegibilidade\n\n1 - São detentoras dos requisitos para apoio, nos termos do presente decreto-lei, as seguintes entidades que exerçam, a título predominante, atividades profissionais numa ou mais das áreas previstas no artigo anterior:\n\na) Pessoas coletivas de direito privado com sede em Portugal;\n\nb) Pessoas singulares com domicílio fiscal em Portugal;\n\nc) Grupos informais, constituídos por um conjunto de pessoas singulares ou coletivas, sem personalidade jurídica, organizados para apresentação de propostas ao abrigo do presente decreto-lei, desde que nomeiem como seu representante uma pessoa singular ou coletiva com domicílio ou sede fiscal em Portugal.\n\n2 - São detentoras dos requisitos para apoio no âmbito da Rede Portuguesa de Arte Contemporânea (RPAC), criada pela Resolução do Conselho de Ministros n.º 50/2021, de 11 de maio, as entidades proprietárias e/ou gestoras de equipamentos culturais, sediadas em território nacional, que integrem a RPAC, com exceção dos serviços da administração direta do Estado, das fundações privadas ou as fundações públicas de direito privado que tenham outro tipo de financiamento continuado, assegurado pelo programa orçamental da área da cultura, bem como as empresas do setor empresarial do Estado.\n\n3 - Não são detentoras dos requisitos para apoio as fundações privadas ou as fundações públicas de direito privado que tenham outro tipo de financiamento continuado, assegurado pelo programa orçamental da área da cultura, bem como as associações maioritariamente constituídas por entidades públicas e as empresas do setor empresarial do Estado e das regiões autónomas, com exceção dos apoios previstos no artigo 12.º.\n\n4 - Entende-se por entidades que exerçam, a título predominante, atividades profissionais numa ou mais áreas artísticas, para efeitos de acesso aos programas de apoio nas suas diversas tipologias e modalidades, as entidades que, em função da sua natureza jurídica, demonstrem:\n\na) No caso de pessoas coletivas, a previsão de atividade nas referidas áreas artísticas no objeto social ou nos estatutos, ou a inscrição de código de atividade económica (CAE), nos termos do regulamento previsto no n.º 1 do artigo 24.º;\n\nb) No caso de pessoas singulares, o exercício de atividade artística enquadrada na tabela de atividades prevista no artigo 151.º do Código do Imposto sobre o Rendimento das Pessoas Singulares, nos termos do regulamento previsto no n.º 1 do artigo 24.º;\n\nc) Em qualquer dos casos referidos nas alíneas anteriores, o exercício profissional efetivo é aferido, alternativamente:\n\ni) Pela demonstração do historial no exercício de atividades ou projetos artísticos, nas áreas de intervenção da DGARTES; ou\n\nii) Pela demonstração do historial no exercício de funções ou atividades da equipa artística e técnica no âmbito do plano de atividades ou do projeto.\n\n5 - Na tipologia do programa de apoio prevista no artigo 12.º-B, podem candidatar-se as pessoas singulares com domicílio fiscal em Portugal, que cumpram os requisitos na alínea b) do número anterior.\n\n6 - Na tipologia do programa de apoio prevista no artigo 12.º-C, podem candidatar-se as pessoas singulares, as pessoas coletivas, públicas ou privadas, nacionais ou estrangeiras.\n\n7 - São ainda elegíveis os projetos aprovados no âmbito do Programa da Europa Criativa, ou outro programa de apoio à cultura que lhe suceda, nos termos da alínea a) do n.º 2 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159716175": {
+   "fragment_id": "108048455",
+   "type": 11,
+   "heading": "Artigo 4.º — Programas de apoio",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+   ],
+   "markdown": "###### Artigo 4.º — Programas de apoio\n\n1 - Para prossecução dos fins e objetivos de interesse público estabelecidos no artigo anterior, são criados os seguintes programas:\n\na) Apoio sustentado;\n\nb) Apoio a projetos;\n\nc) Apoio em parceria;\n\nd) Apoio no âmbito da RPAC;\n\ne) Apoio a novos criadores e primeiras obras;\n\nf) Apoio à Ação Cultural Externa.\n\n2 - Os apoios concedidos no âmbito do Programa ‘Saber Fazer’, aprovado pela Resolução do Conselho de Ministros n.º 89/2020, de 23 de outubro, são regulados por portaria a aprovar pelo membro do Governo responsável pela área da cultura.\n\n3 - O programa de apoio no âmbito da RPAC é objeto de regulamentação por portaria a ser aprovada pelo membro do Governo responsável pela área da cultura.\n\n4 - Em situações excecionais, de manifesto interesse público, pode ser atribuído apoio extraordinário a atividades ou projetos de relevante interesse cultural, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES.\n\n5 - Os apoios têm a natureza de comparticipação financeira não reembolsável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+  },
+  "1159716375": {
+   "fragment_id": "108048456",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito territorial",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 5.º — Âmbito territorial\n\n1 - Os programas de apoio abrangem atividades realizadas em território nacional e no estrangeiro.\n\n2 - Para a concretização dos objetivos enunciados no artigo 3.º, designadamente para correção de assimetrias territoriais, podem ser fixados diferentes montantes globais disponíveis ou número mínimo de apoios a atribuir para cada circunscrição territorial correspondente ao nível II, ou diferentes montantes globais disponíveis para cada circunscrição territorial ou grupo de circunscrições territoriais correspondentes ao nível III da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS II ou III), estabelecidas pelo Decreto-Lei n.º 46/89, de 15 de fevereiro, na sua redação atual, antes da abertura de um programa de apoio, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES, salvaguardando-se as especificidades próprias das regiões autónomas.\n\n3 - Nos programas de apoio podem ser previstas majorações específicas para as regiões autónomas, destinadas a compensar os custos acrescidos decorrentes da insularidade e da descontinuidade territorial, nos termos a definir na portaria referida no n.º 1 do artigo 24.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159716575": {
+   "fragment_id": "108048457",
+   "type": 11,
+   "heading": "Artigo 6.º — Domínios de atividade",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 6.º — Domínios de atividade\n\nAs atividades financiadas ao abrigo dos programas de apoio devem inscrever-se num ou mais dos seguintes domínios de atividade:\n\na) Criação;\n\nb) Programação;\n\nc) Circulação nacional;\n\nd) Internacionalização;\n\ne) Ações estratégicas de mediação;\n\nf) Edição;\n\ng) Investigação;\n\nh) Formação;\n\ni) Arquivo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159716775": {
+   "fragment_id": "108048459",
+   "type": 11,
+   "heading": "Artigo 8 — Declaração anual",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 8 — Declaração anual\n\n1 - A DGARTES publica anualmente, até ao máximo de 10 dias a contar da data de entrada em vigor da Lei do Orçamento do Estado, no seu sítio na Internet, uma declaração homologada pelo membro do Governo responsável pela área da cultura que define, com base nos objetivos, nas diversas necessidades de financiamento e nos recursos financeiros disponíveis:\n\na) Os programas de apoio a abrir no ano a que respeita a declaração anual, os respetivos prazos limite de abertura e montantes globais disponíveis;\n\nb) As áreas artísticas e os principais domínios de atividade de cada programa de apoio;\n\nc) [Revogada.]\n\nd) O limite financeiro anual de cumulação de apoios, por entidade beneficiária, atribuídos pela DGARTES, incluindo os atribuídos ao abrigo de outros diplomas legais.\n\n2 - A informação sobre a declaração anual deve ser também disponibilizada no portal ePortugal, com uma hiperligação para o sítio na Internet da DGARTES.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572) O limite financeiro referido na alínea d) do n.º 1 do presente artigo, é, para o ano de 2026, de € 450 000.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159716975": {
+   "fragment_id": "108048460",
+   "type": 11,
+   "heading": "Artigo 9.º — Abertura dos programas de apoio",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 9.º — Abertura dos programas de apoio\n\n1 - Os programas de apoio são abertos após a fixação do montante financeiro disponível, por despacho do membro do Governo responsável pela área da cultura, sob proposta fundamentada da DGARTES.\n\n2 - O aviso de abertura dos programas é publicado pela DGARTES na 2.ª série do Diário da República, devendo remeter para um anúncio completo a publicar no sítio na Internet da DGARTES, o qual inclui:\n\na) A indicação do programa de apoio;\n\nb) Os objetivos que visa prosseguir;\n\nc) O montante global disponível;\n\nd) As entidades candidatas;\n\ne) As áreas artísticas;\n\nf) Os domínios de atividade;\n\ng) O âmbito territorial;\n\nh) A forma de atribuição;\n\ni) Os critérios de apreciação;\n\nj) A composição das comissões de apreciação;\n\nk) A metodologia de aplicação dos critérios de apreciação, incluindo, designadamente, subcritérios, ponderações, menções quantitativas e qualitativas, sem prejuízo dos critérios de apreciação definidos no regulamento previsto no n.º 1 do artigo 24.º\n\n3 - (Revogado.)\n\n4 - A informação sobre a abertura dos programas de apoio deve ser também disponibilizada no portal gov.pt. com uma hiperligação para o sítio na Internet da DGARTES.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159735175": {
+   "fragment_id": "1159735075",
+   "type": 11,
+   "heading": "Artigo 9.º-B — Princípios aplicáveis aos procedimentos de atribuição de apoios",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+   ],
+   "markdown": "###### Artigo 9.º-B — Princípios aplicáveis aos procedimentos de atribuição de apoios\n\n1 - A DGARTES deve assegurar, na execução dos apoios financeiros, que as entidades beneficiárias respeitam as normas aplicáveis em vigor em matéria social, laboral e ambiental, designadamente no que respeita à prevenção da violência e do assédio, à promoção da igualdade de género, da segurança e da saúde física e mental e do bem-estar no trabalho.\n\n2 - Sem prejuízo da aplicação das garantias de imparcialidade previstas no Código do Procedimento Administrativo, a DGARTES deve adotar as medidas adequadas a identificar, impedir e fazer cessar os conflitos de interesses que surjam na condução dos procedimentos de apoio.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+  },
+  "1159717175": {
+   "fragment_id": "108048462",
+   "type": 11,
+   "heading": "Artigo 10 — Programa de apoio sustentado",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 10 — Programa de apoio sustentado\n\n1 - O programa de apoio sustentado destina-se exclusivamente às pessoas coletivas previstas na alínea a) do n.º 1 do artigo 2.º e visa a estabilidade e consolidação de entidades com atividade continuada, assente em planos plurianuais, sendo considerados os respetivos encargos com recursos materiais e humanos, nomeadamente, através da preferência pela contratação de profissionais em regime de contrato de trabalho.\n\n2 - O programa de apoio sustentado contempla as modalidades bienal e quadrienal, sem prejuízo do disposto no n.º 8.\n\n3 - As entidades que pretendam beneficiar de apoio sustentado na modalidade bienal devem ter, pelo menos, quatro anos de atividade profissional continuada, independentemente da sua natureza jurídica ou do seu modelo institucional.\n\n4 - As entidades que pretendam beneficiar de apoio sustentado na modalidade quadrienal devem ter, pelo menos, seis anos de atividade profissional continuada, bem como ter beneficiado, pelo menos uma vez nos últimos seis anos, de apoio financeiro do Estado através da DGARTES na tipologia de apoio sustentado, desde que não lhes tenha sido aplicada a sanção prevista na alínea c) do n.º 1 do artigo 23.º, nem se encontre em aplicação a sanção prevista na alínea a) do n.º 1 do mesmo artigo, independentemente da sua natureza jurídica ou do seu modelo institucional.\n\n5 - No programa de apoio sustentado são valorizadas as candidaturas que associem o apoio de municípios.\n\n6 - (Revogado.)\n\n7 - O anúncio de abertura particulariza os patamares de financiamento que são determinados em função dos seguintes requisitos:\n\na) [Revogada.]\n\nb) [Revogada.]\n\nc) Espaço de criação e/ou apresentação ou outro tipo de espaço que se adeque aos fins a que se destina o apoio;\n\nd) Número de profissionais com contrato de trabalho;\n\ne) Percentagem mínima de receitas não provenientes do apoio solicitado.\n\n8 - O apoio sustentado atribuído através de concurso, na modalidade quadrienal, pode ser renovado pelo mesmo período de quatro anos, por despacho do diretor-geral da DGARTES, sob proposta fundamentada de uma comissão de renovação constituída para o efeito, nos termos do artigo 15.º-A, se da execução do plano de atividades anterior e do plano proposto para o novo período resultar uma avaliação global positiva relativamente às entidades beneficiárias com contrato em vigor.\n\n9 - No caso previsto no número anterior, a entidade beneficia do montante correspondente ao apoio atribuído no âmbito do programa de apoio sustentado em curso, sem prejuízo da atualização prevista nos números seguintes.\n\n10 - O apoio na modalidade quadrienal é atualizado anualmente, por aplicação de um fator de atualização a partir do segundo ano dos apoios atribuídos na sequência de concursos públicos e, no caso da renovação prevista no n.º 8, a partir do respetivo primeiro ano.\n\n11 - O fator de atualização referido no número anterior corresponde à variação homóloga do índice de preços no consumidor, apurada pelo INE, I. P., para o mês de setembro do ano anterior, até ao limite de 2 %, sendo o montante do apoio resultante da respetiva aplicação arredondado ao euro.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572) A atualização referida no n.º 10 do presente artigo aplica-se, a partir do ano de 2027, a todos os apoios sustentados na modalidade quadrienal renovados nos termos do seu n.º 8, independentemente da data da sua contratualização.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159717375": {
+   "fragment_id": "108048464",
+   "type": 11,
+   "heading": "Artigo 12.º — Programa de apoio em parceria",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 12.º — Programa de apoio em parceria\n\n1 - O programa de apoio em parceria visa apoiar, de modo particular, o desenvolvimento de atividades que se enquadrem nos objetivos e linhas estratégicas previstas no presente decreto-lei, através da DGARTES, e outras pessoas coletivas, públicas ou privadas, nacionais ou estrangeiras, e reveste as seguintes modalidades:\n\na) Apoio em parceria em articulação com outras áreas de política setorial;\n\nb) Apoio em parceria com entidades que assegurem regularmente e de forma sustentada atividades artísticas ou domínios de atividade com reconhecido mérito cultural e projeção nacional e internacional;\n\nc) Apoio em parceria com a administração local.\n\n2 - A abertura das modalidades de programa de apoio previstas no número anterior depende de despacho do membro do Governo responsável pela área da cultura, no qual são fixadas as condições do programa de apoio, nos termos do presente decreto-lei, sob proposta fundamentada da DGARTES.\n\n3 - A modalidade prevista na alínea c) do n.º 1 assenta em objetivos estratégicos comuns, fixados em acordo de parceria, para o desenvolvimento de projetos artísticos por parte de entidades que melhor reduzam as assimetrias territoriais existentes e reforcem a qualidade da oferta cultural, promovendo o acesso à fruição pública das artes de forma mais equilibrada em todo o território nacional.\n\n4 - No programa de apoio em parceria podem ser considerados os encargos das entidades candidatas com os recursos materiais e humanos necessários à sua atividade regular.\n\n5 - Nas modalidades previstas nas alíneas a) e c) do n.º 1 a DGARTES celebra com as respetivas pessoas coletivas o acordo de parceria que, antecedendo o programa de apoio em parceria, estabelece as condições do programa que, nos termos do presente decreto-lei, devem constar do aviso de abertura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159717575": {
+   "fragment_id": "221678138",
+   "type": 11,
+   "heading": "Artigo 12.º-A — Apoio no âmbito da Rede Portuguesa de Arte Contemporânea",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+   ],
+   "markdown": "###### Artigo 12.º-A — Apoio no âmbito da Rede Portuguesa de Arte Contemporânea\n\n1 - O apoio no âmbito da RPAC, nas áreas das artes visuais e de cruzamento disciplinar, visa fomentar a criação, produção, difusão e fruição pública da arte contemporânea, bem como contribuir para a divulgação dos espaços de arte existentes em todo o País.\n\n2 - Este apoio visa, ainda, concretizar os objetivos da RPAC, bem como promover a articulação da arte contemporânea com outras áreas setoriais e valorizar a fruição artística enquanto instrumento de correção de assimetrias territoriais e de desenvolvimento humano, social, económico e cultural.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 81/2023 - Diário da República n.º 180/2023, Série I de 2023-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2023-221691579), em vigor a partir de 2023-09-16"
+  },
+  "1159735475": {
+   "fragment_id": "1159735375",
+   "type": 11,
+   "heading": "Artigo 12.º-B — Programa de apoio a novos criadores e primeiras obras",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+   ],
+   "markdown": "###### Artigo 12.º-B — Programa de apoio a novos criadores e primeiras obras\n\n1 - O apoio a novos criadores e a primeiras obras tem como finalidade proporcionar e incentivar a entrada no setor artístico profissional ou o início de um percurso ou projeto profissional na área artística.\n\n2 - Para efeitos do presente artigo, consideram-se novos criadores as pessoas singulares que, cumulativamente:\n\na) Sejam titulares de formação académica ou formação profissional artística, ou percurso artístico ou profissional equivalente, devidamente comprovado, numa das áreas artísticas objeto de apoio da DGARTES;\n\nb) Se encontrem numa fase inicial de profissionalização na área artística objeto da candidatura, aferida, designadamente, pelo número e natureza das criações profissionais anteriormente apresentadas em contexto público.\n\n3 - Para efeitos do presente artigo, consideram-se primeiras obras as criações artísticas iniciais a serem desenvolvidas na respetiva área, em contexto de trabalho profissional, tendo em vista a fruição do público, que cumpram os critérios definidos em portaria a aprovar pelo membro do Governo responsável pela área da cultura.\n\n4 - Ficam excluídas do acesso ao apoio previsto no presente artigo:\n\na) As pessoas singulares que integrem órgãos de direção artística de entidades beneficiárias de apoio sustentado às artes;\n\nb) As pessoas singulares que tenham projetos artísticos já apoiados no âmbito dos programas de apoio da DGARTES.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+  },
+  "1159736075": {
+   "fragment_id": "1159735975",
+   "type": 11,
+   "heading": "Artigo 12.º-C — Apoio à Ação Cultural Externa",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+   ],
+   "markdown": "###### Artigo 12.º-C — Apoio à Ação Cultural Externa\n\n1 - O apoio à Ação Cultural Externa tem como finalidade a promoção e a difusão das artes através da cooperação multilateral, da circulação internacional de bens culturais, do intercâmbio cultural através da participação em redes e plataformas internacionais, da mobilidade transnacional dos agentes culturais e dos diálogos com outras culturas.\n\n2 - O apoio à Ação Cultural Externa reveste as seguintes modalidades:\n\na) Apoio a artistas ou entidades nacionais e estrangeiras de reconhecido mérito artístico, quando seja determinante para o cumprimento de objetivos de interesse público cultural, mediante acordo de cooperação internacional associado a projeto artístico, no quadro da ação cultural externa do Estado, a desenvolver em território nacional ou a realizar em países abrangidos pelo programa indicativo anual de ação cultural externa, desde que associado à participação de artistas ou entidades artísticas estabelecidas em Portugal;\n\nb) Apoio a projetos artísticos desenvolvidos por artistas ou entidades estabelecidas em países que integram a Comunidade dos Países de Língua Portuguesa, para a implementação, difusão e circulação de projetos artísticos em território português e nos países da CPLP.\n\n3 - O apoio previsto no presente artigo é desenvolvido sem prejuízo da articulação com os serviços e organismos competentes em matéria de coordenação e execução da ação externa do Estado.\n\n4 - As condições de elegibilidade, critérios de apreciação e formas de operacionalização dos apoios previstos no presente artigo são definidos no regulamento previsto no n.º 1 do artigo 24.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+  },
+  "1159717775": {
+   "fragment_id": "108048466",
+   "type": 11,
+   "heading": "Artigo 13.º — Forma de atribuição",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 13.º — Forma de atribuição\n\n1 - Os apoios financeiros são atribuídos na sequência de:\n\na) Concurso;\n\nb) Concurso limitado;\n\nc) Procedimento simplificado;\n\nd) (Revogada.)\n\ne) Acordo de cooperação internacional, no quadro da ação cultural externa do Estado.\n\n2 - O concurso pode ser adotado para atribuição de quaisquer apoios, sendo as propostas avaliadas por uma comissão de apreciação, nos termos do artigo 15.º\n\n3 - No caso do programa de apoio sustentado a que se refere o artigo 10.º, a atribuição de apoio financeiro depende sempre de concurso.\n\n4 - O concurso limitado pode ter lugar em situações devidamente fundamentadas, nomeadamente no âmbito do programa de apoio em parceria ou para efeitos de seleção de representantes oficiais em certames internacionais, e fica reservado às entidades que sejam convidadas para o efeito sob proposta da DGARTES.\n\n5 - O procedimento simplificado apenas pode ser adotado para atribuição de apoios até ao montante de (euro) 5 000,00, exceto no caso dos apoios previstos na alínea a) do n.º 2 do artigo 11.º, sendo as propostas apreciadas pelos serviços técnicos da DGARTES, e submetidas à decisão do respetivo diretor-geral, não havendo lugar a audiência dos interessados.\n\n6 - (Revogado.)\n\n7 - Independentemente da forma de atribuição do apoio, as candidaturas aos programas de apoio devem ser submetidas eletronicamente no sítio na Internet da DGARTES, o qual pode ser acedido através do portal gov.pt.\n\n8 - Na submissão de candidaturas devem ser utilizados mecanismos de autenticação segura, incluindo os do Cartão de Cidadão e Chave Móvel Digital, bem como os meios de identificação eletrónica emitidos noutros Estados-Membros reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014.\n\n9 - Quando, por motivos de indisponibilidade dos sistemas de informação, não for possível o cumprimento do disposto nos n.os 7 e 8, a transmissão da informação em causa pode ser realizada por outros meios de transmissão eletrónica de dados de acordo com as instruções divulgadas no sítio na Internet da DGARTES.\n\n10 - Os documentos eletrónicos submetidos com as candidaturas devem ser assinados, preferencialmente, com recurso a assinaturas eletrónicas qualificadas, incluindo as do Cartão de Cidadão e Chave Móvel Digital ou outras que constem da Lista Europeia de Serviços de Confiança, sem prejuízo do disposto no artigo 4.º da Lei n.º 37/2014, de 26 de junho, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159717975": {
+   "fragment_id": "108048468",
+   "type": 11,
+   "heading": "Artigo 15.º — Comissões de apreciação",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 15.º — Comissões de apreciação\n\n1 - No concurso, a apreciação das candidaturas é efetuada por comissões, nomeadas pelo membro do Governo responsável pela área da cultura sob proposta fundamentada da DGARTES, previamente apreciadas em reunião da Secção Especializada das Artes do Conselho Nacional de Cultura, compostas por consultores ou especialistas nas áreas artísticas e nas áreas de gestão financeira ou cultural, e por um técnico da DGARTES, que coordena.\n\n2 - Antes do início de funções, os membros da comissão de apreciação e todos os demais intervenientes no processo de avaliação de candidaturas apresentam declaração de inexistência de conflitos de interesses, conforme modelo aprovado na portaria referida no n.º 1 do artigo 24.º\n\n3 - O apoio técnico, logístico e administrativo necessário ao funcionamento das comissões de apreciação é assegurado pela DGARTES.\n\n4 - O relatório das comissões de acompanhamento das entidades candidatas, quando existente, é disponibilizado às comissões de apreciação, que o devem ter em consideração.\n\n5 - As propostas de decisão das comissões de apreciação são homologadas por despacho do diretor-geral da DGARTES e publicitadas no sítio na Internet da DGARTES.\n\n> Nota: [Artigo 4.º, Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572) A redação introduzida ao n.º 1 do presente artigo pelo Decreto-Lei n.º 103/2017, de 24 de agosto, produz efeitos a 1 de novembro de 2026.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159735775": {
+   "fragment_id": "1159735675",
+   "type": 11,
+   "heading": "Artigo 15.º-A — Comissão de renovação",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+   ],
+   "markdown": "###### Artigo 15.º-A — Comissão de renovação\n\n1 - Na renovação referida no n.º 8 do artigo 10.º, a apreciação dos pedidos de renovação é efetuada por uma comissão, constituída nos termos do n.º 1 do artigo anterior com as necessárias adaptações.\n\n2 - É solicitado parecer às comissões de acompanhamento das entidades requerentes de renovação, que, disponibilizado à comissão de renovação, serve de base à respetiva apreciação.\n\n3 - A comissão de renovação assegura a uniformidade da apreciação dos pedidos de renovação, sem prejuízo da ponderação das especificidades próprias das áreas artísticas e domínios de atividade.\n\n4 - A proposta de decisão da comissão de renovação é homologada por despacho do diretor-geral da DGARTES e publicitada no sítio na Internet da DGARTES.\n\n5 - À comissão de renovação é aplicável o disposto nos n.os 2 e 3 do artigo 15.º e no artigo 19.º, com as necessárias adaptações.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+  },
+  "1159718175": {
+   "fragment_id": "108048470",
+   "type": 11,
+   "heading": "Artigo 16.º — Formalização do apoio financeiro",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 16.º — Formalização do apoio financeiro\n\n1 - A atribuição de apoio financeiro é formalizada mediante contrato escrito, celebrado entre a entidade beneficiária do apoio e a DGARTES, e outras entidades públicas ou privadas envolvidas, quando aplicável.\n\n2 - O contrato referido no número anterior contém, obrigatoriamente, os seguintes elementos:\n\na) Objeto;\n\nb) Direitos e obrigações das partes;\n\nc) Plano de atividades calendarizado e orçamento;\n\nd) Montante de financiamento e modo de pagamento;\n\ne) Mecanismos de acompanhamento;\n\nf) Formas de avaliação, incluindo indicadores de medida associados aos domínios de atividade, a aferir, quando aplicável, no relatório anual previsto no n.º 4 do artigo 18.º;\n\ng) Prazo de vigência;\n\nh) Consequências face a eventuais incumprimentos, nos termos do artigo 23.º;\n\ni) Termos aplicáveis à divulgação e comunicação das atividades constantes do objeto do contrato.\n\n3 - A atribuição de apoio através de procedimento simplificado assume a forma de contrato escrito, contendo os seguintes elementos:\n\na) A proposta apresentada pela entidade;\n\nb) Os direitos e obrigações das partes;\n\nc) O montante de financiamento;\n\nd) O prazo de vigência.\n\n4 - Salvo situações de força maior, caso a entidade beneficiária não assine o contrato no prazo de 15 dias úteis a contar da data de envio do mesmo, o procedimento caduca quanto a esta, podendo a DGARTES selecionar para a contratação do apoio financeiro a entidade beneficiária que ficou graduada no lugar imediatamente seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159718375": {
+   "fragment_id": "108048472",
+   "type": 11,
+   "heading": "Artigo 18.º — Comissões de acompanhamento",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 18.º — Comissões de acompanhamento\n\n1 - As comissões de acompanhamento funcionam sob orientação e coordenação da DGARTES, que assegura o apoio técnico, logístico e administrativo necessário ao seu funcionamento.\n\n2 - As comissões de acompanhamento são compostas por consultores ou especialistas nas áreas artísticas e nas áreas de gestão financeira ou cultural, e por técnicos da DGARTES, designados pelo diretor-geral da DGARTES sob proposta fundamentada dos respetivos serviços, devendo incluir elementos indicados pela comissão de coordenação e desenvolvimento regional, I. P., ou pelas regiões autónomas, consoante a região onde são maioritariamente desenvolvidas as atividades das entidades beneficiárias, nos termos do regulamento previsto no n.º 1 do artigo 24.º\n\n3 - Os municípios onde são maioritariamente desenvolvidas as atividades das entidades beneficiárias são convidados a participar nas comissões de acompanhamento.\n\n4 - Compete às comissões de acompanhamento elaborar o relatório anual relativo às entidades beneficiárias de apoio financeiro.\n\n5 - Às comissões de acompanhamento é aplicável o disposto no n.º 2 do artigo 15.º, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  },
+  "1159718575": {
+   "fragment_id": "108051575",
+   "type": 11,
+   "heading": "Artigo 21.º — Acompanhamento e auditoria",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+   ],
+   "markdown": "###### Artigo 21.º — Acompanhamento e auditoria\n\n1 - A DGARTES controla a execução física e financeira dos projetos e dos planos de atividades, através da validação do quadro de evidências definido contratualmente.\n\n2 - A DGARTES pode ainda solicitar a realização de auditorias à execução dos contratos, a entidades com competência legal para o efeito, bem como a intervenção da Inspeção-Geral das Atividades Culturais, sempre que justificável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13."
+  },
+  "1159718775": {
+   "fragment_id": "108051581",
+   "type": 11,
+   "heading": "Artigo 26.º — Cumulação de apoios",
+   "in_force_from": "2026-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+   ],
+   "markdown": "###### Artigo 26.º — Cumulação de apoios\n\n1 - As mesmas atividades e projetos não podem beneficiar de mais do que um apoio previsto no presente decreto-lei no mesmo domínio de atividade a que se refere o artigo 6.º\n\n2 - As mesmas despesas relativas às atividades e projetos não podem ser financiadas por mais do que um apoio público atribuído, incluindo ao abrigo de outros diplomas legais, ainda que no âmbito de domínios de atividade e programas de apoio distintos.\n\n3 - Sempre que, por comunicação prevista na alínea b) do artigo 22.º ou por qualquer outro meio, a DGARTES tome conhecimento da existência de outros apoios públicos suscetíveis de configurar duplo financiamento das mesmas despesas, procede às averiguações necessárias e adota as medidas adequadas, incluindo a não atribuição do apoio, a redução do respetivo montante, a suspensão de pagamentos ou a reposição das quantias indevidamente recebidas, nos termos do regulamento previsto no n.º 1 do artigo 24.º, sem prejuízo da aplicação do disposto no artigo 23.º\n\n4 - As entidades beneficiárias de apoio sustentado apenas podem apresentar candidaturas ao programa de apoio a projetos e ao programa de apoio em parceria se tal for expressamente permitido no respetivo aviso de abertura.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 164-A/2026 - Diário da República n.º 155/2026, Suplemento, Série I de 2026-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-a-2026-1156670572), em vigor a partir de 2026-08-13.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 47/2021 - Diário da República n.º 112/2021, Série I de 2021-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2021-164955305), em vigor a partir de 2021-06-12"
+  }
+ }
+}

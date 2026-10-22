@@ -1,0 +1,134 @@
+---
+schema_version: '1.0'
+id: pt:dre:2592150:por
+title: Resolução n.º 33/2008
+short_title: null
+summary: Reconhecimento do interesse público da manutenção da execução do projecto rodoviário da A 16/IC 30
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações - Gabinete do Secretário de Estado Adjunto, das Obras Públicas
+  e das Comunicações
+proposing_entity: null
+official_number: 33/2008
+official_date: null
+publication_date: '2008-09-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 182/2008, Série II de 2008-09-19
+  number: '182'
+  series: II
+  supplement: null
+  pages: 39766 - 39766
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/09/182000000/3976639766.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2592150'
+  dre_path: /dr/detalhe/resolucao/33-2008-2592150
+  internal: pt:dre:2592150:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/33-2008-2592150
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/33-2008-2592150
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-09-19T00:00:00Z'
+integrity:
+  source_sha256: 8ec63f663f97944ee4ba233e5cd8376d74efa0291766bc117172ab066d9f991d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-33-2592150.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 33/2008
+
+Ao abrigo do disposto no artigo 112.º, n.º 2, alínea a), do Código de Procedimento nos Tribunais Administrativos e Fiscais, os interessados Totta - Crédito Especializado, Instituição Financeira de Crédito, S. A., e Splas - Sociedade Portuguesa de Lavagens Auto e de Serviços, Lda., (quanto à parcela n.º 175 A 16/IC 30) e os interessados Imobiliária Construtora Grão Pará, S. A., e AUTODRIL - Sociedade Imobiliária S. A. (quanto às parcelas n.os 87, 87.01, 87.04 e 88 da mesma A 16/IC 30), requereram no Tribunal Administrativo e Fiscal de Sintra a suspensão da eficácia do despacho n.º 13 267-B/2008, de 30 de Abril, publicado no Diário da República, 2.ª série, n.º 91, de 12 de Maio de 2008, pelo qual foi declarada a utilidade pública expropriativa das parcelas de terreno necessárias à construção dos referidos A 16/IC 30, onde se incluem as parcelas identificadas.
+
+A utilidade pública prosseguida com estas expropriações é a construção do conjunto rodoviário denominado Grande Lisboa que foi concessionada à LUSOLISBOA - Auto-Estradas da Grande Lisboa, S. A., nos termos do [Decreto-Lei n.º 242/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/242-2006-552345), de 28 de Dezembro, onde, por determinação legislativa, foram consideradas de utilidade pública urgente.
+
+Esta concessão, para além da exploração dos principais eixos estruturantes na área metropolitana de Lisboa, os quais se caracterizam pelo desempenho de funções de radiais para penetração na cidade, tais como:
+
+O IC 2 entre Sacavém e Santa Iria da Azoia;
+
+Os IC 22 - radial de Odivelas e IC 16 - radial da Pontinha entre as auto-estradas Circular Regional Externa de Lisboa (A 9) e a Circular Regional Interna de Lisboa (CRIL);
+
+O IC 19 entre Sintra e Lisboa;
+
+O IP 7 entre a Ponte 25 de Abril e os acessos à Vasco da Gama;
+
+e de funções de distribuição circundando Lisboa tal como:
+
+O IC 17 - CRIL entre Algés e Sacavém;
+
+integram ainda a construção da A 16 (IC 30) entre Alcabideche (A 5) e Ranholas (IC 19), que constitui uma nova circular exterior e o fecho do IC 16, a já referida radial da Pontinha entre a CREL (A 9) e Sintra (A 16).
+
+Estas duas vias, numa extensão total de cerca de 20 km e com um investimento total de 140 milhões de euros (que envolveu um contrato de financiamento com um sindicato bancário que integra o Banco Europeu de Investimento), constituem uma obra de extrema importância para a distribuição dos tráfegos de procura da cidade de Lisboa, uma vez que, de forma combinada, permitem satisfazer a procura de tráfego entre a zona ocidental da área metropolitana de Lisboa para o Norte (A 1) e o Sul (A 2) do País, sem necessidade do atravessamento da capital.
+
+A sua construção contribuirá ainda para a redução em cerca de 20 % do tráfego em vias que se encontram saturadas como a A 5 (Auto-Estrada de Cascais) e IC 19 (onde circulam 120 000 veículos por dia), por efeito de redistribuição do tráfego, assim como a consequente redução nos tempos de percurso de acesso a Lisboa em cerca de 50 %, da sinistralidade e dos congestionamentos.
+
+Deste modo, a execução do IC 16 (A 16) e IC 30 (A 16) trará melhorias significativas na qualidade de vida dos habitantes da AML por redução de emissão poluentes (ruído e gases).
+
+A execução dos trabalhos previstos nesta concessão da Grande Lisboa tiveram início em 2008 e, no âmbito do programa de trabalhos estabelecido, deverá estar concluída até 2010.
+
+Como contrapartida da atribuição da concessão, o Estado irá receber da concessionária uma importância global de 195 milhões de euros, as quais vão ser exploradas e mantidas pela concessionária, aliviando o erário público dos encargos da sua conservação, a qual constituiria sempre uma obrigação da Administração Pública.
+
+Em conclusão, a concretização destes empreendimentos contribuirá com um impacto positivo na vida de mais de dois milhões de portugueses, com a criação de boas alternativas às actuais vias de acesso a Lisboa, que se encontram hoje saturadas, retirando um significativo volume de tráfego do interior dos núcleos urbanos envolvidos, diminuindo as emissões poluentes, criando uma melhor articulação com a envolvente urbana, e possibilitando a criação de novos acessos locais, ou até mesmo garantir processos de requalificação urbana.
+
+Assim:
+
+i) Considerando a importância fundamental do conjunto rodoviário que integra a A 16 na vivência quotidiana e qualidade de vida, pessoal e profissional, de milhares de cidadãos e empresas, permitindo novas, mais seguras e céleres acessibilidades na área metropolitana de Lisboa;
+
+ii) Considerando que esta obra irá melhorar a circulação de tráfego nas deslocações da zona ocidental da área metropolitana de Lisboa para norte (A 1) e para sul (A 12) do País, irá ainda aliviar a circulação dentro da cidade de Lisboa;
+
+iii) Considerando que a A 16 se constitui como uma alternativa no acesso à cidade de Lisboa de toda a zona ocidental da área metropolitana, concorrendo directamente com o IC 19 e a A 5;
+
+iv) Considerando que esta obra se encontra prevista em vários instrumentos de gestão territorial, tais como o Plano Rodoviário Nacional e o Plano Regional de Ordenamento do Território da Área Metropolitana de Lisboa, e é necessária e urgente há largos anos e que há largos anos se encontra incompleta;
+
+v) Considerando que a suspensão dos trabalhos nas parcelas expropriadas impediria a conclusão deste conjunto rodoviário nas condições e prazos estabelecidos, prejudicando dessa forma gravemente os diferentes tipos de interesse público que ficaram assinalados (sociais, económicos, ambientais, ordenamento do território, financeiros);
+
+vi) Considerando o disposto no artigo 128.º, n.º 1, do Código de Procedimento nos Tribunais Administrativos e Fiscais:
+
+Reconheço que o diferimento da execução deste projecto rodoviário lesa gravemente o interesse público.
+
+11 de Setembro de 2008. - O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos.

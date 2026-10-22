@@ -1,0 +1,185 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:840716420:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2024-840716423",
+ "dre_path": "/dr/detalhe/lei/19-a-2024-840716420",
+ "source_lastmod": "2024-06-27",
+ "versions": [
+  {
+   "date": "2024-02-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "840582634",
+    "840582635",
+    "840582636",
+    "840582637",
+    "840582638",
+    "840582639",
+    "840582640",
+    "840582641",
+    "840582642",
+    "840582643",
+    "840582644",
+    "840582645",
+    "840582646"
+   ]
+  },
+  {
+   "date": "2024-02-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:848804205:por",
+     "title": "Decreto-Lei n.º 20-A/2024",
+     "published": "2024-02-12",
+     "dre_path": "/dr/detalhe/decreto-lei/20-a-2024-848804205"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "840582634",
+    "840582635",
+    "840582636",
+    "840582637",
+    "840582638",
+    "840582639",
+    "840582640",
+    "840582641",
+    "840582642",
+    "840582643",
+    "840582644",
+    "870009345",
+    "840582646",
+    "840582647"
+   ]
+  }
+ ],
+ "fragments": {
+  "840582634": {
+   "fragment_id": "840716424",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 19-A/2024\n\nde 7 de fevereiro\n\nSumário: Alteração às Leis n.os 7/2007, de 5 de fevereiro, que cria o cartão de cidadão e rege a sua emissão e utilização, 37/2014, de 26 de junho, que estabelece um sistema alternativo e voluntário de autenticação dos cidadãos nos portais e sítios na Internet da Administração Pública denominado Chave Móvel Digital, e 13/99, de 22 de março, que estabelece o novo regime jurídico do recenseamento eleitoral, e ao Decreto-Lei n.º 135/99, de 22 de abril, que define os princípios gerais de ação a que devem obedecer os serviços e organismos da Administração Pública na sua atuação face ao cidadão.\n\nAlteração às Leis n.os 7/2007, de 5 de fevereiro, que cria o cartão de cidadão e rege a sua emissão e utilização, 37/2014, de 26 de junho, que estabelece um sistema alternativo e voluntário de autenticação dos cidadãos nos portais e sítios na Internet da Administração Pública denominado Chave Móvel Digital, e 13/99, de 22 de março, que estabelece o novo regime jurídico do recenseamento eleitoral, e ao Decreto-Lei n.º 135/99, de 22 de abril, que define os princípios gerais de ação a que devem obedecer os serviços e organismos da Administração Pública na sua atuação face ao cidadão.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "840582635": {
+   "fragment_id": "840716425",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à:\n\na) Oitava alteração à Lei n.º 13/99, de 22 de março, que estabelece o novo regime jurídico do recenseamento eleitoral, alterada pela Lei n.º 3/2002, de 8 de janeiro, pelas Leis Orgânicas n.os 4/2005 e 5/2005, ambas de 8 de setembro, pelas Leis n.os 47/2008, de 27 de agosto, e 47/2018, de 13 de agosto, e pelas Leis Orgânicas n.os 4/2020, de 11 de novembro, e 1/2021, de 4 de junho;\n\nb) Quarta alteração à Lei n.º 7/2007, de 5 de fevereiro, que cria o cartão de cidadão e rege a sua emissão e utilização, alterada pelas Leis n.os 91/2015, de 12 de agosto, 32/2017, de 1 de junho, e 61/2021, de 19 de agosto;\n\nc) Quinta alteração à Lei n.º 37/2014, de 26 de junho, que estabelece um sistema alternativo e voluntário de autenticação dos cidadãos nos portais e sítios na Internet da Administração Pública denominado Chave Móvel Digital, alterada pelas Leis n.os 32/2017, de 1 de junho, 71/2018, de 31 de dezembro, e 2/2020, de 31 de março, e pelo Decreto-Lei n.º 88/2021, de 3 de novembro;\n\nd) Oitava alteração ao Decreto-Lei n.º 135/99, de 22 de abril, que define os princípios gerais de ação a que devem obedecer os serviços e organismos da Administração Pública na sua atuação face ao cidadão, bem como reúne de uma forma sistematizada as normas vigentes no contexto da modernização administrativa, alterado pelos Decretos-Leis n.os 29/2000, de 13 de março, 72-A/2010, de 18 de junho, 73/2014, de 13 de maio, 58/2016, de 29 de agosto, e 74/2017, de 21 de junho, pela Lei n.º 61/2021, de 19 de agosto, e pelo Decreto-Lei n.º 11/2023, de 10 de fevereiro."
+  },
+  "840582636": {
+   "fragment_id": "840716426",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração à Lei n.º 13/99, de 22 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração à Lei n.º 13/99, de 22 de março\n\nO artigo 9.º da Lei n.º 13/99, de 22 de março, passa a ter a seguinte redação:\n\n«Artigo 9.º\n\n[...]\n\n1 - A circunscrição eleitoral de eleitores detentores de cartão de cidadão é a correspondente à morada a que se refere o n.º 1 do artigo 13.º da Lei n.º 7/2007, de 5 de fevereiro, salvo o disposto no n.º 3 do artigo 27.º\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]»"
+  },
+  "840582637": {
+   "fragment_id": "840716427",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração à Lei n.º 7/2007, de 5 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração à Lei n.º 7/2007, de 5 de fevereiro\n\nOs artigos 6.º, 7.º, 13.º, 14.º, 18.º, 20.º, 24.º, 31.º, 36.º, 38.º e 63.º da Lei n.º 7/2007, de 5 de fevereiro, passam a ter a seguinte redação:\n\n«Artigo 6.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - As normas técnicas de armazenamento, acesso, leitura, segurança e interoperabilidade dos dados constantes de circuito integrado são definidas por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.\n\nArtigo 7.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\na) [...]\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) Código de país, composto por duas letras, de acordo com o n.º 4 do artigo 3.º do Regulamento (UE) 2019/1157, do Parlamento Europeu e do Conselho, de 20 de junho de 2019;\n\nh) Número de acesso ao cartão.\n\n5 - [...]\n\nArtigo 13.º\n\n[...]\n\n1 - A morada é o endereço postal físico, livremente indicado pelo cidadão, correspondente ao seu local de residência habitual, ou o endereço correspondente aos locais referidos no n.º 6, no caso de cidadão sem endereço postal físico.\n\n2 - Para comunicação com os serviços do Estado e da Administração Pública, nomeadamente com os serviços de registo e de identificação civil, os serviços fiscais, os serviços de saúde e os serviços de segurança social, o cidadão tem-se por domiciliado, para todos os efeitos legais, no local referido no número anterior, podendo ainda aderir às comunicações e notificações eletrónicas referidas no n.º 4, sem prejuízo de poder designar outros endereços, físicos ou eletrónicos, para fins profissionais ou convencionais, nos termos previstos na lei.\n\n3 - [...]\n\n4 - O cidadão pode, a todo o tempo, de forma eletrónica ou presencial, associar aos dados fornecidos no âmbito do pedido de emissão do cartão de cidadão números de telemóvel e ou endereços de correio eletrónico, bem como atualizar ou eliminar essa informação, para autorizar que os alertas, comunicações e notificações dos serviços públicos, remetidos por simples via postal, por via postal registada ou por via postal registada com aviso de receção, sejam realizados por transmissão eletrónica de dados, nos termos do Decreto-Lei n.º 93/2017, de 1 de agosto, que cria o serviço público de notificações eletrónicas associado à morada única digital.\n\n5 - [...]\n\n6 - Pode ser indicada como morada de cidadão nacional sem endereço postal físico o endereço postal físico de edifício onde funcionem serviços de freguesia, município ou, mediante consentimento, associação ou outra entidade da sociedade civil sem fins lucrativos.\n\n7 - (Revogado.)\n\nArtigo 14.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - Sem prejuízo do disposto no número seguinte, a funcionalidade de leitura ou qualquer outro tratamento das impressões digitais contidas no circuito integrado do cartão de cidadão só pode ser usada por vontade do respetivo titular.\n\n5 - As autoridades judiciárias e as entidades policiais, no âmbito das respetivas competências, podem exigir ao cidadão a prova da sua identidade através da funcionalidade de leitura ou de qualquer outro tratamento das impressões digitais contidas no circuito integrado do cartão de cidadão de que é titular.\n\n6 - Quando, por impossibilidade física e temporária, não for possível a recolha das impressões digitais de qualquer dos dedos do requerente, o cartão de cidadão é emitido com um prazo de validade de um ano, devendo ser feitas as inscrições previstas no n.º 3 e no n.º 1 do artigo 15.º\n\n7 - Não é permitida a recolha de impressões digitais de crianças com idade inferior a seis anos, sendo a recolha voluntária, desde que autorizada pelos respetivos representantes legais, para as crianças com idades compreendida entre os seis e os 12 anos.\n\nArtigo 18.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - Os certificados são revogáveis a todo o tempo.\n\n7 - [...]\n\n8 - A validade dos certificados e a sua substituição ou renovação são regulamentados através de portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.\n\nArtigo 20.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - Os pedidos relativos ao cartão de cidadão podem ainda ser submetidos e tramitados à distância através de outros canais de atendimento disponibilizados pelo IRN, I. P., ou pela AMA, I. P., tais como o portal único de serviços públicos, postos de atendimento automático, telefone, videochamada ou aplicação móvel, nos casos e nos termos definidos por portaria dos membros do Governo responsáveis pelas áreas da modernização administrativa e da justiça.\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\nArtigo 24.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\na) Autorizar expressamente que os dados recolhidos sejam transmitidos a entidades que deles careçam para efeitos do disposto no n.º 1 do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, e nos n.os 2 e 3 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho;\n\nb) [...]\n\nc) Autorizar expressamente a obtenção de documentos ou informação em posse de qualquer serviço e organismo da Administração Pública, para efeitos do disposto no n.º 1 do artigo 28.º-A do Decreto-Lei n.º 135/99, de 22 de abril, e nos n.os 2 e 3 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho.\n\n5 - [...]\n\n6 - (Revogado.)\n\nArtigo 31.º\n\n[...]\n\n1 - O envio da confirmação do local de entrega do cartão de cidadão e dos códigos de ativação, assim como, em momento posterior, do código pessoal (PIN) e do código pessoal para desbloqueio (PUK), é feito para a morada do titular a que se refere o n.º 1 do artigo 13.º\n\n2 - [...]\n\n3 - [...]\n\n4 - A entrega do cartão de cidadão efetua-se num dos serviços referidos no n.º 2 do artigo 20.º ou, nos casos definidos pelo IRN, I. P., por via postal para a morada a que se refere o n.º 1 do artigo 13.º, sendo feita exclusivamente por pessoal devidamente credenciado pelo IRN, I. P., ou, quando se trate de cidadão sem endereço postal físico, por pessoal qualificado da freguesia, do município, da associação ou de outra entidade da sociedade civil sem fins lucrativos cuja morada foi indicada, devidamente credenciado pelo IRN, I. P., ou, quando o serviço funcione em posto ou secção consular, por pessoal qualificado devidamente credenciado pela Direção-Geral dos Assuntos Consulares e das Comunidades Portuguesas.\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - Quando o titular do cartão de cidadão tenha aderido ao serviço público de notificações eletrónicas e não tenha sido feita alteração de morada, o envio dos códigos de ativação, do PIN e do PUK e da informação sobre o local de entrega do cartão de cidadão pode ser efetuado para a morada única digital, nos termos do Decreto-Lei n.º 93/2017, de 1 de agosto.\n\nArtigo 36.º\n\n[...]\n\n1 - São objeto de recolha e tratamento os elementos de identificação do titular do cartão de cidadão referidos nos artigos 7.º, 8.º, 13.º e 29.º\n\n2 - [...]\n\na) Submissão, instrução e execução dos pedidos de emissão, atualização e renovação;\n\nb) [...]\n\nc) [...]\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) Execução dos pedidos de ativação, renovação e revogação dos certificados digitais;\n\nh) [...]\n\n3 - [...]\n\n4 - São igualmente objeto de recolha e tratamento, para as operações previstas no n.º 2, os elementos de identificação das pessoas singulares e coletivas que constem dos atestados, dos consentimentos e das comunicações a que se referem os n.os 2, 5, 6 e 7 do artigo 13.º-A.\n\n5 - Quando seja indicada como morada do titular do cartão de cidadão um endereço postal físico de uma das entidades previstas no n.º 6 do artigo 13.º, a indicação de se tratar de endereço de entidade terceira é objeto de tratamento para a finalidade prevista no n.º 10 do artigo 13.º-A.\n\n6 - Os dados necessários às operações referidas na alínea c) do n.º 2 são destruídos logo após a entrega do cartão de cidadão ao respetivo titular ou a quem o representa, ou no prazo máximo de 90 dias a contar da data de emissão do cartão, caso a entrega ocorra em data posterior.\n\nArtigo 38.º\n\n[...]\n\n1 - O IRN, I. P., é a entidade responsável pelo tratamento de dados pessoais nas operações referidas nos artigos 36.º e 37.º, nos termos e para os efeitos definidos na Lei n.º 58/2019, de 8 de agosto, e no Regulamento Geral de Proteção de Dados, aprovado pelo Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016.\n\n2 - Cabe ao IRN, I. P., assegurar os direitos de informação, de acesso, de oposição ou de retificação dos dados pelos respetivos titulares, bem como velar pela legalidade da consulta ou comunicação da informação.\n\n3 - Atua por conta do IRN, I. P., enquanto entidade responsável pelo tratamento de dados pessoais, a pessoa singular ou coletiva, serviço ou organismo a quem sejam confiadas, nos termos previstos na Lei n.º 58/2019, de 8 de agosto, e no Regulamento Geral de Proteção de Dados, operações relacionadas com o cartão de cidadão, nomeadamente a emissão de certificados qualificados e a personalização do cartão de cidadão, cumprindo-se os requisitos legais e regulamentares exigíveis pelo Sistema de Certificação Eletrónica do Estado, previsto no Decreto-Lei n.º 12/2021, de 9 de fevereiro.\n\n4 - (Revogado.)\n\n5 - O sistema de informação responsável pelo ciclo de vida do cartão de cidadão deve estar dotado das garantias de segurança necessárias a impedir a consulta, a modificação, a supressão, a inclusão ou a comunicação de dados por quem não esteja legalmente habilitado.\n\nArtigo 63.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\na) [...]\n\nb) [...]\n\nc) Os casos e termos de submissão à distância dos pedidos relativos ao cartão de cidadão referidos no n.º 3 do artigo 20.º;\n\nd) [...]\n\ne) [...]\n\nf) [...]\n\ng) [...]\n\nh) [...]\n\ni) [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]»"
+  },
+  "840582638": {
+   "fragment_id": "840716428",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 37/2014, de 26 de junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 37/2014, de 26 de junho\n\nOs artigos 2.º, 3.º e 4.º-A da Lei n.º 37/2014, de 26 de junho, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - A todo o cidadão é permitida a associação do seu número de identificação civil a um número de telemóvel e endereço de correio eletrónico de uso pessoal e a outro número de telemóvel e endereço de correio eletrónico para fins profissionais.\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - [...]\n\n8 - [...]\n\n9 - [...]\n\n10 - [...]\n\n11 - [...]\n\n12 - [...]\n\n13 - [...]\n\n14 - [...]\n\n15 - [...]\n\n16 - [...]\n\n17 - [...]\n\n18 - [...]\n\n19 - [...]\n\nArtigo 3.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - Pode ser disponibilizado aos cidadãos detentores de CMD mecanismo de autenticação em sistemas eletrónicos e sítios da Internet, nos termos previstos nos números anteriores, para efeitos do exercício de responsabilidades parentais ou representação de maior acompanhado.\n\n7 - Nos casos em que a disponibilização prevista no número anterior se faça para efeitos do exercício de responsabilidades parentais, o acesso ao mecanismo de autenticação deve ser assegurado a ambos os titulares de responsabilidade parental, nos termos a definir na portaria referida no n.º 14 do artigo anterior.\n\nArtigo 4.º-A\n\n[...]\n\n1 - As entidades públicas nacionais devem disponibilizar aos cidadãos titulares de CMD, e por ela devidamente autenticados, acesso aos seus documentos de identificação e títulos ou licenças habilitantes em suporte digital e respetivos dados, através da aplicação móvel disponibilizada pela AMA, I. P.\n\n2 - Pode, ainda, ser dado acesso, aos cidadãos titulares de CMD, a documentos de identificação de terceiros no âmbito do exercício de responsabilidades parentais ou do regime jurídico do maior acompanhado.\n\n3 - Os cidadãos titulares de cartão de cidadão ou CMD podem obter dados constantes das bases de dados de organismos da Administração Pública a disponibilizar através do serviço de autenticação segura disponibilizado pela AMA, I. P.\n\n4 - (Anterior n.º 3.)\n\n5 - Os documentos, títulos ou licenças em suporte digital e respetivos dados apresentados em tempo real perante terceiros em território nacional, através da aplicação prevista no n.º 1, presumem-se conformes aos documentos originais, tendo igual valor jurídico e probatório.\n\n6 - O disposto no número anterior prevalece sobre qualquer disposição em sentido contrário.\n\n7 - Pode ser disponibilizado aos cidadãos titulares de CMD, e por ela devidamente autenticados, acesso aos dados constantes de outros documentos emitidos por entidades públicas, através de aplicação móvel referida no n.º 1.\n\n8 - A AMA, I. P., disponibiliza, no seu sítio da Internet e no portal único de serviços públicos, um manual com o procedimento técnico de verificação da autenticidade dos documentos pessoais em suporte digital e respetivos dados.»"
+  },
+  "840582639": {
+   "fragment_id": "840716429",
+   "type": 11,
+   "heading": "Artigo 5.º — Aditamento à Lei n.º 7/2007, de 5 de fevereiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aditamento à Lei n.º 7/2007, de 5 de fevereiro\n\nÉ aditado à Lei n.º 7/2007, de 5 de fevereiro, o artigo 13.º-A, com a seguinte redação:\n\n«Artigo 13.º-A\n\nIndicação de morada pelos cidadãos nacionais sem endereço postal físico\n\n1 - Para efeitos do disposto no n.º 6 do artigo anterior, considera-se cidadão nacional sem endereço postal físico o cidadão nacional que, comprovadamente, não possua morada, vivendo em espaço público ou privado ou noutro local precário não destinado a habitação, em respostas de emergência ou em alojamento temporário.\n\n2 - A falta de endereço postal físico deve ser atestada gratuitamente pelas juntas de freguesia, em sequência de requerimento do cidadão, oral ou escrito, e mediante:\n\na) Conhecimento direto do facto por qualquer dos seus membros ou de membro da assembleia de freguesia; ou\n\nb) Prova do facto por:\n\ni) Testemunho oral ou escrito de profissional da rede de intervenção social local que acompanhe o processo de intervenção junto do cidadão;\n\nii) Testemunho oral ou escrito de dois cidadãos eleitores recenseados na freguesia; ou\n\niii) Outro meio legalmente admissível.\n\n3 - A produção de qualquer das provas referidas no número anterior não está sujeita a forma especial, devendo as orais ser reduzidas a escrito pelo funcionário que as receba e confirmadas mediante assinatura de quem as apresentar.\n\n4 - As falsas declarações são punidas nos termos da lei penal.\n\n5 - A indicação de endereço postal físico de associação ou outra entidade da sociedade civil sem fins lucrativos carece do seu consentimento, prestado de acordo com o modelo disponibilizado para o efeito pelo IRN, I. P., na plataforma digital da justiça.\n\n6 - Para efeitos de indicação do endereço postal físico de edifício onde funcionem serviços de freguesia, de município, de associação ou outra entidade da sociedade civil sem fins lucrativos como morada de cidadão nacional sem endereço postal físico, as entidades declaram o respetivo endereço postal físico na plataforma eletrónica disponibilizada para o efeito pelo IRN, I. P., na plataforma digital da justiça, com recurso a autenticação forte.\n\n7 - A mudança de instalação que seja morada de cidadão sem endereço postal físico, a extinção da entidade ou a retirada do consentimento para utilização de endereço postal físico, relativas às entidades referidas no n.º 6 do artigo 13.º, deve ser prontamente comunicada pelas mesmas ao cidadão e na plataforma eletrónica a que se refere o número anterior.\n\n8 - Quando tenha sido declarada uma mudança de instalação, nos termos do número anterior, e o titular do cartão de cidadão não promova a atualização da morada, esta é alterada oficiosamente para o novo endereço postal físico.\n\n9 - Quando tenha sido declarada a extinção da entidade ou a retirada do consentimento para utilização de endereço postal físico do edifício e o titular do cartão de cidadão não promova a atualização prevista no n.º 7, a morada do cidadão é alterada oficiosamente para o endereço postal físico do edifício onde funcionem serviços da freguesia que emitiu o atestado a que se refere o n.º 2 e que consta a plataforma eletrónica a que se refere o n.º 6.\n\n10 - Quando a morada do titular do cartão de cidadão deva, nos termos legalmente previstos, ser transmitida a outras entidades, é acompanhada da indicação de se tratar de endereço de entidade terceira, bem como do número de identificação de pessoa coletiva desta entidade.»"
+  },
+  "840582640": {
+   "fragment_id": "840716430",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 135/99, de 22 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 135/99, de 22 de abril\n\nO artigo 34.º do Decreto-Lei n.º 135/99, de 22 de abril, passa a ter a seguinte redação:\n\n«Artigo 34.º\n\n[...]\n\n1 - [...]\n\n2 - [...]\n\n3 - [...]\n\n4 - [...]\n\n5 - [...]\n\n6 - [...]\n\n7 - A emissão dos atestados referidos no presente artigo é gratuita, quando seja requerida por pessoa em situação de sem-abrigo, bem como a emissão do atestado de falta de endereço postal físico previsto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro.\n\n8 - Os atestados de falta de endereço postal físico são emitidos pelas juntas de freguesia, nos termos do disposto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro.»"
+  },
+  "840582641": {
+   "fragment_id": "840716431",
+   "type": 11,
+   "heading": "Artigo 7.º — Tratamento de correspondência de cidadão sem endereço postal físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Tratamento de correspondência de cidadão sem endereço postal físico\n\n1 - As entidades cujo endereço seja indicado como morada de cidadão sem endereço postal físico, nos termos do artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro, e que tenham contacto com correspondência endereçada ao cidadão, devem:\n\na) Assegurar o seu depósito e guarda, no mesmo estado da sua receção e de forma devidamente organizada, mantendo registo dos responsáveis pela sua receção, tratamento e entrega ou devolução;\n\nb) Assegurar a sua inviolabilidade e confidencialidade, nos termos legais, podendo, para o efeito, disponibilizar local específico e selado para depósito e acesso direto à correspondência por cada destinatário;\n\nc) Promover a transmissão de informação da sua receção ao cidadão, nomeadamente através do respetivo número de telemóvel ou endereço de correio eletrónico;\n\nd) Proceder à sua entrega direta e pessoal ao cidadão, ainda que em localização distinta do endereço indicado, desde que respeitando o disposto nas alíneas a) e b);\n\ne) Proceder à sua devolução ao remetente no prazo de 10 dias úteis, caso aquela não seja recolhida pelo destinatário no prazo de 30 dias úteis, comunicando o facto ao cidadão.\n\n2 - Os trabalhadores das entidades previstas no número anterior e quaisquer outras pessoas que, no exercício das suas funções, tenham contacto com a correspondência endereçada ao cidadão devem, igualmente, assegurar a sua inviolabilidade e confidencialidade nos termos legais."
+  },
+  "840582642": {
+   "fragment_id": "840716432",
+   "type": 11,
+   "heading": "Artigo 8.º — Declaração de endereço postal físico de edifício de freguesia ou de município",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Declaração de endereço postal físico de edifício de freguesia ou de município\n\nPara efeitos de indicação do endereço postal físico de edifício de freguesia ou de município como morada de cidadão nacional sem endereço postal físico, as freguesias e os municípios declaram o respetivo endereço postal físico na plataforma eletrónica a que se refere o n.º 6 do artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro, entre 15 e 30 de junho de 2024."
+  },
+  "840582643": {
+   "fragment_id": "840716433",
+   "type": 11,
+   "heading": "Artigo 9.º — Renovação automatizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Renovação automatizada\n\n1 - Mediante consentimento, são assegurados aos cidadãos detentores de Chave Móvel Digital mecanismos de renovação automatizada dos documentos ou títulos habilitantes disponíveis na aplicação móvel, prevista no artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, através da mesma aplicação.\n\n2 - Os mecanismos de renovação automatizada referidos no número anterior são definidos através de protocolo, a outorgar entre a Agência para a Modernização Administrativa, I. P., e as entidades responsáveis pela emissão dos documentos ou títulos habitantes disponibilizados na aplicação móvel prevista no artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na redação dada pela presente lei.\n\n3 - A renovação automatizada de documentos assegura:\n\na) A notificação do prazo para proceder à renovação de documentos ou títulos habilitantes;\n\nb) Os requisitos e elementos necessários à renovação;\n\nc) Dados ou meios de pagamento das taxas devidas pela renovação;\n\nd) Informação sobre a disponibilização do documento ou título habilitante em suporte físico e digital, através da aplicação móvel referida no n.º 1."
+  },
+  "840582644": {
+   "fragment_id": "840716434",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogados o n.º 7 do artigo 13.º, o n.º 6 do artigo 24.º e o n.º 4 do artigo 38.º da Lei n.º 7/2007, de 5 de fevereiro."
+  },
+  "840582645": {
+   "fragment_id": "840716435",
+   "type": 11,
+   "heading": "Artigo 11.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Produção de efeitos\n\n1 - A emissão do cartão de cidadão de acordo com as regras previstas na Lei n.º 7/2007, de 5 de fevereiro, na redação dada pela presente lei, ocorre a partir 14 de fevereiro de 2024, sem prejuízo de disponibilização antecipada, a título de protótipo, após a entrada em vigor da presente lei.\n\n2 - Produz efeitos a 1 de julho de 2024:\n\na) O disposto no artigo 7.º;\n\nb) O disposto no n.º 6 do artigo 13.º da Lei n.º 7/2007, de 5 de fevereiro, na redação dada pela presente lei;\n\nc) O disposto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro;\n\nd) A revogação do n.º 7 do artigo 13.º da Lei n.º 7/2007, de 5 de fevereiro.\n\n3 - A obrigação de disponibilização de documentos de identificação e títulos ou licenças habilitantes, prevista no n.º 1 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na redação dada pela presente lei, produz efeitos a 1 de janeiro de 2025.\n\n4 - As entidades públicas nacionais asseguram os desenvolvimentos necessários ao cumprimento do prazo previsto no número anterior."
+  },
+  "840582646": {
+   "fragment_id": "840716436",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "870009345": {
+   "fragment_id": "840716435",
+   "type": 11,
+   "heading": "Artigo 11.º — Produção de efeitos",
+   "in_force_from": "2024-02-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20-A/2024 - Diário da República n.º 30/2024, 2º Suplemento, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2024-848804205), em vigor a partir de 2024-02-13"
+   ],
+   "markdown": "###### Artigo 11.º — Produção de efeitos\n\n1 - A emissão do cartão de cidadão de acordo com as regras previstas na Lei n.º 7/2007, de 5 de fevereiro, na redação conferida pela presente lei, ocorre a partir 11 de junho de 2024, sem prejuízo de disponibilização antecipada após a entrada em vigor da presente lei.\n\n2 - Produz efeitos a 1 de julho de 2024:\n\na) O disposto no artigo 7.º;\n\nb) O disposto no n.º 6 do artigo 13.º da Lei n.º 7/2007, de 5 de fevereiro, na redação dada pela presente lei;\n\nc) O disposto no artigo 13.º-A da Lei n.º 7/2007, de 5 de fevereiro;\n\nd) A revogação do n.º 7 do artigo 13.º da Lei n.º 7/2007, de 5 de fevereiro.\n\n3 - A obrigação de disponibilização de documentos de identificação e títulos ou licenças habilitantes, prevista no n.º 1 do artigo 4.º-A da Lei n.º 37/2014, de 26 de junho, na redação dada pela presente lei, produz efeitos a 1 de janeiro de 2025.\n\n4 - As entidades públicas nacionais asseguram os desenvolvimentos necessários ao cumprimento do prazo previsto no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 20-A/2024 - Diário da República n.º 30/2024, 2º Suplemento, Série I de 2024-02-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-a-2024-848804205), em vigor a partir de 2024-02-13"
+  },
+  "840582647": {
+   "fragment_id": "840716437",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 15 de dezembro de 2023.\n\nO Presidente da Assembleia da República, Augusto Santos Silva.\n\nPromulgada em 29 de janeiro de 2024.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 7 de fevereiro de 2024.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n117340945"
+  }
+ }
+}

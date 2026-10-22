@@ -1,0 +1,747 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332687:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-116735096",
+ "dre_path": "/dr/detalhe/portaria/282-2010-332687",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-05-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116689807",
+    "116689808",
+    "116689809",
+    "116689810",
+    "116689812",
+    "116689813",
+    "116689814",
+    "116689815",
+    "116689816",
+    "116689817",
+    "116689818",
+    "116689819",
+    "116689820",
+    "116689821",
+    "116689822",
+    "116689823",
+    "116689824",
+    "116689825",
+    "116689826",
+    "116689827",
+    "116689828",
+    "116689829",
+    "116689830",
+    "116689831",
+    "116689832",
+    "116689833",
+    "116689834",
+    "116689835",
+    "116689836",
+    "116689837",
+    "116689838",
+    "116689839",
+    "116689840",
+    "116689841",
+    "116689842",
+    "116689843",
+    "116689844",
+    "116689845",
+    "116689846",
+    "116689847",
+    "116689848",
+    "116689849",
+    "116689850"
+   ]
+  },
+  {
+   "date": "2018-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116734771:por",
+     "title": "Portaria n.º 283/2018",
+     "published": "2018-10-19",
+     "dre_path": "/dr/detalhe/portaria/283-2018-116734771"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Revoga Anexo I",
+    "Revoga Anexo II"
+   ],
+   "fragments": [
+    "116689807",
+    "213133206",
+    "116689809",
+    "116689810",
+    "116689811",
+    "213133207",
+    "213133208",
+    "213133209",
+    "213133210",
+    "213133211",
+    "213133212",
+    "213133213",
+    "213133214",
+    "213133215",
+    "213133216",
+    "213133217",
+    "213133218",
+    "213133219",
+    "213133220",
+    "213133221",
+    "213133222",
+    "213133223",
+    "213133224",
+    "213133225",
+    "213133226",
+    "213133227",
+    "213133228",
+    "213133229",
+    "213133230",
+    "213133231",
+    "213133232",
+    "116689838",
+    "116689839",
+    "116689840",
+    "116689841",
+    "116689842",
+    "116689843",
+    "116689844",
+    "116689845",
+    "116689846",
+    "116689847",
+    "116689848",
+    "116689849",
+    "116689850"
+   ]
+  }
+ ],
+ "fragments": {
+  "116689807": {
+   "fragment_id": "116735097",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 282/2010\n\nde 25 de Maio\n\nO Programa do XVIII Governo Constitucional enuncia como um dos objectivos estruturantes para a área da justiça o alargamento da rede dos julgados de paz, bem como a divulgação e promoção da mediação e da arbitragem como meios de resolução alternativa de litígios aptos a proporcionar formas rápidas, simples e mais económicas para solucionar conflitos.\n\nUma das medidas inseridas nesta aposta firme do Governo consiste na expansão da rede dos julgados de paz assente num plano de desenvolvimento elaborado com recurso a critérios objectivos de base científica. O crescimento gradual da rede deve ser acompanhado por um reforço proporcional das listas de mediadores de conflitos, com vista a garantir o normal funcionamento dos serviços de mediação nos julgados de paz.\n\nOutra medida que concretiza o referido objectivo é a aposta na mediação pública enquanto estrutura de justiça de proximidade, nomeadamente nos domínios familiar e laboral.\n\nO despacho, do Secretário de Estado da Justiça, n.º 18 778/2007, de 13 de Julho, reestruturou o âmbito territorial e material da mediação familiar promovida pelo Ministério da Justiça desde 1999 e reconfigurou-a, ao criar o sistema de mediação familiar (SMF). O SMF entrou em funcionamento em 16 de Julho de 2007 e tem competência para mediar conflitos surgidos no âmbito das relações familiares. No momento presente, o SMF abarca todo o território nacional.\n\nA mediação laboral surgiu em Portugal com a criação do sistema de mediação laboral (SML), através de um protocolo celebrado em 6 de Maio de 2006 entre o Ministério da Justiça e vários parceiros sociais. O SML entrou em funcionamento em 19 de Dezembro de 2006 e pode ser utilizado para dirimir qualquer tipo de litígios em matéria laboral, desde que não envolvam acidentes de trabalho ou direitos indisponíveis. No momento presente o SML abrange todo o continente e mais de 80 entidades aderiram a esta forma alternativa de resolução de conflitos.\n\nNos termos do disposto no n.º 1 do artigo 33.º da Lei n.º 78/2001, de 13 de Julho, em cada julgado de paz existe uma lista de mediadores habilitados a exercer as funções de mediador de conflitos, procedendo-se nos julgados de paz à nomeação dos mediadores de conflitos para cada processo. Já o funcionamento do SMF e do SML assenta na gestão de listas de mediadores de conflitos, inscritos por circunscrição territorial, sendo o seu funcionamento assegurado pelo Gabinete para a Resolução Alternativa de Litígios (GRAL), entidade a quem compete o registo e a triagem dos pedidos, a designação do mediador de conflitos responsável por cada caso e a indicação dos locais onde se realizam as sessões de mediação.\n\nNa mediação que tem lugar nos julgados de paz e na que decorre no âmbito dos sistemas de mediação pública emerge um novo profissional na administração da justiça - o mediador de conflitos - cuja relação com o Estado se traduz numa prestação ocasional de serviços que não configura uma relação jurídica de emprego público, nem garante o pagamento de qualquer remuneração fixa, conforme resulta do disposto no n.º 4 do artigo 33.º da Lei n.º 78/2001, de 13 de Julho, e no n.º 2 do artigo 85.º da Lei n.º 29/2009, de 29 de Junho.\n\nTratando-se de um novo profissional na administração da justiça, o Estado, visando garantir a qualidade dos serviços proporcionados nos julgados de paz já criados e a criar e nos sistemas de mediação pública, deve definir, com rigor, as regras do procedimento de selecção dos mediadores de conflitos a integrar nas listas de profissionais habilitados à prestação do serviço público de mediação. Nestes termos, o n.º 2 do artigo 32.º da Lei n.º 78/2001, de 13 de Julho, e o n.º 1 do artigo 85.º da Lei n.º 29/2009, de 29 de Junho, remetem para portaria a aprovação dos regulamentos relativos aos procedimentos de selecção de mediadores de conflitos habilitados a exercer funções, respectivamente, nos julgados de paz e nos sistemas de mediação pública.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do n.º 2 do artigo 32.º da Lei n.º 78/2001, de 13 de Julho, e do n.º 1 do artigo 85.º da Lei n.º 29/2009, de 29 de Junho, o seguinte:"
+  },
+  "116689808": {
+   "fragment_id": "116735098",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - São aprovados:\n\na) O regulamento do procedimento de selecção de mediadores de conflitos habilitados para prestar serviços de mediação nos julgados de paz já criados e a criar;\n\nb) O regulamento do procedimento de selecção de mediadores de conflitos habilitados para prestar serviços de mediação no âmbito do sistema de mediação familiar; e\n\nc) O regulamento do procedimento de selecção de mediadores de conflitos habilitados para prestar serviços de mediação no âmbito do sistema de mediação laboral.\n\n2 - Os regulamentos aprovados nos termos do número anterior são publicados em anexo ao presente diploma, do qual fazem parte integrante."
+  },
+  "116689809": {
+   "fragment_id": "116735099",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nÉ revogada a Portaria n.º 479/2006, de 26 de Maio."
+  },
+  "116689810": {
+   "fragment_id": "116735100",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "116689812": {
+   "fragment_id": "116735102",
+   "type": 14,
+   "heading": "Anexo I — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NOS JULGADOS DE PAZ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NOS JULGADOS DE PAZ"
+  },
+  "116689813": {
+   "fragment_id": "116735103",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento define as regras a observar no procedimento de selecção de mediadores de conflitos, habilitados ao exercício da função de mediação, para prestar serviços no âmbito dos julgados de paz."
+  },
+  "116689814": {
+   "fragment_id": "116735104",
+   "type": 11,
+   "heading": "Artigo 2.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Júri\n\n1 - O júri é composto por um presidente e dois vogais, nomeados por despacho do director do Gabinete para a Resolução Alternativa de Litígios (GRAL).\n\n2 - O despacho de nomeação referido no número anterior deve designar o vogal efectivo que substitui o presidente nas suas faltas e impedimentos e, ainda, os vogais suplentes, em número igual ao dos efectivos.\n\n3 - Ao júri compete realizar todas as operações do procedimento de selecção.\n\n4 - Sem prejuízo do disposto no número anterior, as operações do procedimento podem ser realizadas por recurso a entidades externas especializadas nas matérias ou detentoras de conhecimentos técnicos específicos exigíveis para o exercício das funções para que é aberto o procedimento."
+  },
+  "116689815": {
+   "fragment_id": "116735105",
+   "type": 11,
+   "heading": "Artigo 3.º — Abertura do procedimento de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Abertura do procedimento de selecção\n\n1 - O procedimento é aberto por despacho do director do GRAL.\n\n2 - A abertura do procedimento de selecção é tornada pública mediante aviso publicado no sítio electrónico do GRAL (www.gral.mj.pt).\n\n3 - Do aviso de abertura constam obrigatoriamente:\n\na) Âmbito geográfico do concurso;\n\nb) Prazo de validade do concurso;\n\nc) Requisitos de admissão das candidaturas;\n\nd) Forma e prazo para apresentação de candidaturas;\n\ne) Requisitos de admissão do candidato;\n\nf) Indicação dos critérios e métodos de selecção;\n\ng) Composição do júri;\n\nh) Menção aos documentos que devem instruir o requerimento de candidatura;\n\ni) Local de afixação das listas de admissão, de classificação final e de distribuição geográfica dos candidatos;\n\nj) Endereço electrónico do concurso."
+  },
+  "116689816": {
+   "fragment_id": "116735106",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de admissão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de admissão dos candidatos\n\nOs candidatos devem, até ao termo do prazo para a apresentação das candidaturas, preencher os requisitos de admissão dos candidatos definidos no artigo 31.º da Lei n.º 78/2001, de 13 de Julho, devidamente explicitados no aviso de abertura do concurso."
+  },
+  "116689817": {
+   "fragment_id": "116735107",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas, no prazo fixado no aviso de abertura, em requerimento electrónico, disponibilizado no sítio electrónico do GRAL.\n\n2 - As candidaturas podem ainda ser formalizadas, no mesmo prazo, através de modelo disponibilizado no sítio electrónico do GRAL e dirigido ao director do GRAL:\n\na) Pessoalmente, nas instalações do GRAL;\n\nb) Via postal, mediante correio registado com aviso de recepção, atendendo-se, neste caso, à data do registo.\n\n3 - Quando as candidaturas forem formalizadas por requerimento electrónico nos termos do n.º 1, a documentação pode ser digitalizada e anexada ou, em alternativa, entregue do modo previsto no número anterior.\n\n4 - O requerimento deve ser instruído com a seguinte documentação:\n\na) Cópia do documento de identificação;\n\nb) Cópia do documento que ateste o número de identificação fiscal;\n\nc) Certificado do registo criminal;\n\nd) Cópia do certificado de habilitações, com referência à média final de licenciatura;\n\ne) Cópia do certificado do curso de mediação para desempenho de funções nos julgados de paz, reconhecido pelo Ministério da Justiça;\n\nf) Declaração, sob compromisso de honra, na qual o candidato declare estar no pleno gozo dos direitos civis e políticos, não ter sofrido condenação nem estar pronunciado por crime doloso e ter o domínio da língua portuguesa;\n\ng) Declaração da entidade patronal que autorize o candidato a acumular funções sempre que desempenhe trabalho dependente e que esteja abrangido por disposições legais ou outras relativas a incompatibilidades.\n\n5 - A não apresentação dos documentos referidos no número anterior implica a exclusão do candidato.\n\n6 - Sem prejuízo do disposto no número anterior, o documento referido na alínea g) do n.º 4 pode ser apresentado até à data da homologação da lista de classificação final.\n\n7 - Em qualquer fase do procedimento de selecção, o júri pode exigir a apresentação de prova dos originais dos documentos referidos no n.º 4."
+  },
+  "116689818": {
+   "fragment_id": "116735108",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão e exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão e exclusão dos candidatos\n\n1 - Findo o prazo para apresentação de candidaturas, o júri procede, no prazo de 10 dias, à verificação dos requisitos de admissão, elaborando lista provisória dos candidatos admitidos e excluídos.\n\n2 - O prazo referido no número anterior pode ser excepcionalmente prorrogado por 10 dias, mediante despacho fundamentado do director do GRAL.\n\n3 - Elaborada a lista provisória, os candidatos não admitidos são notificados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias, dizerem por escrito o que se lhes oferecer.\n\n4 - Findo o prazo referido no número anterior, o júri aprecia, no prazo de cinco dias, a pronúncia dos interessados, notificando-os da sua decisão.\n\n5 - Do acto de exclusão cabe reclamação para o júri, a apresentar no prazo de 15 dias.\n\n6 - Apreciadas as reclamações, ou não as havendo, é publicada a lista definitiva dos candidatos admitidos e excluídos."
+  },
+  "116689819": {
+   "fragment_id": "116735109",
+   "type": 11,
+   "heading": "Artigo 7.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Métodos de selecção\n\n1 - O concurso assenta, exclusivamente, na avaliação curricular de cada candidato.\n\n2 - A avaliação curricular visa determinar o nível de aptidão dos candidatos para o exercício das funções de mediador no âmbito dos julgados de paz."
+  },
+  "116689820": {
+   "fragment_id": "116735110",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação dos métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação dos métodos de selecção\n\n1 - Fixada a lista definitiva dos candidatos admitidos, o júri procede, no prazo de 10 dias, à avaliação curricular.\n\n2 - Antes da publicação do aviso de abertura do procedimento de selecção, o júri densifica o preceituado na alínea f) do n.º 3 do artigo 3.º por meio de uma grelha de factores de ponderação, susceptíveis de expressão numérica, tanto positiva como negativa, entre os quais:\n\na) Formação profissional complementar, sendo factor de ponderação obrigatória os cursos de formação relacionados com o exercício das funções de mediador de conflitos nos julgados de paz;\n\nb) Experiência profissional, sendo factor de ponderação obrigatória o desempenho efectivo de funções como mediador de conflitos nos julgados de paz.\n\n3 - A avaliação curricular é valorizada numa escala de 0 a 20 valores.\n\n4 - Os candidatos só são aprovados se a avaliação curricular for igual ou superior a 10 valores."
+  },
+  "116689821": {
+   "fragment_id": "116735111",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento de decisão do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de decisão do júri\n\nA avaliação é feita por votação aberta e fundamentada, sendo as actas subscritas pelo presidente e pelos vogais."
+  },
+  "116689822": {
+   "fragment_id": "116735112",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão final\n\n1 - Concluídas as operações de selecção, o júri elabora, no prazo de 10 dias, a proposta de lista de classificação final.\n\n2 - Uma vez publicada a proposta de lista de classificação, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n3 - O júri, no prazo de 10 dias, aprecia a pronúncia dos interessados e, após notificá-los, elabora a lista de classificação final.\n\n4 - Concluídos os procedimentos referidos nos números anteriores e tendo em consideração a lista de classificação final, o júri organiza as listas de distribuição geográfica.\n\n5 - Publicada a proposta de lista de distribuição geográfica, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n6 - As listas referidas no número anterior são submetidas, no prazo de cinco dias, ao director do GRAL para homologação.\n\n7 - Após homologação, as listas são publicadas e notificadas aos candidatos, nos termos da lei.\n\n8 - Do acto de homologação previsto no número anterior cabe recurso hierárquico, a interpor para o Ministro da Justiça."
+  },
+  "116689823": {
+   "fragment_id": "116735113",
+   "type": 11,
+   "heading": "Artigo 11.º — Validade do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Validade do procedimento\n\nA validade das listas homologadas em resultado do procedimento de selecção é aferida nos termos do n.º 2 do artigo 33.º da Lei n.º 78/2001, de 13 de Julho."
+  },
+  "116689824": {
+   "fragment_id": "116735114",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições finais\n\n1 - Os candidatos que, apesar de admitidos, não forem colocados nas listas de distribuição geográfica ficam a constar como suplentes das mesmas.\n\n2 - As vagas que venham a ocorrer durante o período de validade das listas serão preenchidas pelos candidatos suplentes, de acordo com a ordenação das mesmas."
+  },
+  "116689825": {
+   "fragment_id": "116735115",
+   "type": 14,
+   "heading": "Anexo II — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NO SISTEMA DE MEDIAÇÃO FAMILIAR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NO SISTEMA DE MEDIAÇÃO FAMILIAR"
+  },
+  "116689826": {
+   "fragment_id": "116735116",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento define as regras a observar no procedimento de selecção de mediadores de conflitos, habilitados ao exercício da função de mediação, para prestar serviços no âmbito do sistema de mediação familiar (SMF)."
+  },
+  "116689827": {
+   "fragment_id": "116735117",
+   "type": 11,
+   "heading": "Artigo 2.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Júri\n\n1 - O júri é composto por um presidente e dois vogais, nomeados por despacho do director do Gabinete para a Resolução Alternativa de Litígios (GRAL).\n\n2 - O despacho de nomeação referido no número anterior deve designar o vogal efectivo que substitui o presidente nas suas faltas e impedimentos e, ainda, os vogais suplentes, em número igual ao dos efectivos.\n\n3 - Ao júri compete realizar todas as operações do procedimento de selecção.\n\n4 - Sem prejuízo do disposto no número anterior, as operações do procedimento podem ser realizadas por recurso a entidades externas especializadas nas matérias ou detentoras de conhecimentos técnicos específicos exigíveis para o exercício das funções para que é aberto o procedimento."
+  },
+  "116689828": {
+   "fragment_id": "116735118",
+   "type": 11,
+   "heading": "Artigo 3.º — Abertura do procedimento de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Abertura do procedimento de selecção\n\n1 - O procedimento é aberto por despacho do director do GRAL.\n\n2 - A abertura do procedimento de selecção é tornada pública mediante aviso publicado no sítio electrónico do GRAL (www.gral.mj.pt).\n\n3 - Do aviso de abertura constam obrigatoriamente:\n\na) Âmbito geográfico do concurso;\n\nb) Prazo de validade do concurso;\n\nc) Requisitos de admissão das candidaturas;\n\nd) Forma e prazo para apresentação de candidaturas;\n\ne) Requisitos de admissão do candidato;\n\nf) Indicação dos critérios e métodos de selecção;\n\ng) Composição do júri;\n\nh) Menção aos documentos que devem instruir o requerimento de candidatura;\n\ni) Local de afixação das listas de admissão, de classificação final e de distribuição geográfica dos candidatos;\n\nj) Endereço electrónico do concurso."
+  },
+  "116689829": {
+   "fragment_id": "116735119",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de admissão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de admissão dos candidatos\n\nOs candidatos devem, até ao termo do prazo para a apresentação das candidaturas, preencher os seguintes requisitos:\n\na) Ter mais de 25 anos de idade;\n\nb) Estar no pleno gozo dos direitos civis e políticos;\n\nc) Ser detentor de licenciatura adequada;\n\nd) Estar habilitado com um curso de mediação familiar, reconhecido pelo Ministério da Justiça;\n\ne) Ser pessoa idónea;\n\nf) Ter o domínio da língua portuguesa."
+  },
+  "116689830": {
+   "fragment_id": "116735120",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas, no prazo fixado no aviso de abertura, em requerimento electrónico, disponibilizado no sítio electrónico do GRAL.\n\n2 - As candidaturas podem ainda ser formalizadas, no mesmo prazo, através de modelo disponibilizado no sítio electrónico do GRAL e dirigido ao director do GRAL:\n\na) Pessoalmente, nas instalações do GRAL;\n\nb) Via postal, mediante correio registado com aviso de recepção, atendendo-se, neste caso, à data do registo.\n\n3 - Quando as candidaturas forem formalizadas por requerimento electrónico nos termos do n.º 1, a documentação pode ser digitalizada e anexada ou, em alternativa, entregue do modo previsto no número anterior.\n\n4 - O requerimento deve ser instruído com a seguinte documentação:\n\na) Cópia do documento de identificação;\n\nb) Cópia do documento que ateste o número de identificação fiscal;\n\nc) Certificado do registo criminal;\n\nd) Cópia do certificado de habilitações, com referência à média final de licenciatura;\n\ne) Cópia do certificado do curso de mediação na área familiar, reconhecido pelo Ministério da Justiça;\n\nf) Declaração, sob compromisso de honra, na qual o candidato declare estar no pleno gozo dos direitos civis e políticos, não ter sofrido condenação nem estar pronunciado por crime doloso e ter o domínio da língua portuguesa;\n\ng) Declaração da entidade patronal que autorize o candidato a acumular funções sempre que desempenhe trabalho dependente e que esteja abrangido por disposições legais ou outras relativas a incompatibilidades.\n\n5 - A não apresentação dos documentos referidos no número anterior implica a exclusão do candidato.\n\n6 - Sem prejuízo do disposto no número anterior, o documento referido na alínea g) do n.º 4 pode ser apresentado até à data da homologação da lista de classificação final.\n\n7 - Em qualquer fase do procedimento de selecção, o júri pode exigir a apresentação de prova dos originais dos documentos referidos no n.º 4."
+  },
+  "116689831": {
+   "fragment_id": "116735121",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão e exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão e exclusão dos candidatos\n\n1 - Findo o prazo para apresentação de candidaturas, o júri procede, no prazo de 10 dias, à verificação dos requisitos de admissão, elaborando lista provisória dos candidatos admitidos e excluídos.\n\n2 - O prazo referido no número anterior pode ser excepcionalmente prorrogado por 10 dias, mediante despacho fundamentado do director do GRAL.\n\n3 - Elaborada a lista provisória, os candidatos não admitidos são notificados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias, dizerem por escrito o que se lhes oferecer.\n\n4 - Findo o prazo referido no número anterior, o júri aprecia, no prazo de cinco dias, a pronúncia dos interessados, notificando-os da sua decisão.\n\n5 - Do acto de exclusão cabe reclamação para o júri, a apresentar no prazo de 15 dias.\n\n6 - Apreciadas as reclamações, ou não as havendo, é publicada a lista definitiva dos candidatos admitidos e excluídos."
+  },
+  "116689832": {
+   "fragment_id": "116735122",
+   "type": 11,
+   "heading": "Artigo 7.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Métodos de selecção\n\n1 - O concurso assenta, exclusivamente, na avaliação curricular de cada candidato.\n\n2 - A avaliação curricular visa determinar o nível de aptidão dos candidatos para o exercício das funções de mediador no âmbito do SMF."
+  },
+  "116689833": {
+   "fragment_id": "116735123",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação dos métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação dos métodos de selecção\n\n1 - Fixada a lista definitiva dos candidatos admitidos, o júri procede, no prazo de 10 dias, à avaliação curricular.\n\n2 - Antes da publicação do aviso de abertura do procedimento de selecção, o júri densifica o preceituado na alínea f) do n.º 3 do artigo 3.º por meio de uma grelha de factores de ponderação, susceptíveis de expressão numérica, tanto positiva como negativa, entre os quais:\n\na) Formação profissional complementar, sendo factor de ponderação obrigatória os cursos de formação relacionados com o exercício das funções de mediador de conflitos no âmbito da mediação familiar;\n\nb) Experiência profissional, sendo factor de ponderação obrigatória o desempenho efectivo de funções como mediador de conflitos no SMF.\n\n3 - A avaliação curricular é valorizada numa escala de 0 a 20 valores.\n\n4 - Os candidatos só são aprovados se a avaliação curricular for igual ou superior a 10 valores."
+  },
+  "116689834": {
+   "fragment_id": "116735124",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento de decisão do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de decisão do júri\n\nA avaliação é feita por votação aberta e fundamentada, sendo as actas subscritas pelo presidente e pelos vogais."
+  },
+  "116689835": {
+   "fragment_id": "116735125",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão final\n\n1 - Concluídas as operações de selecção, o júri elabora, no prazo de 10 dias, a proposta de lista de classificação final.\n\n2 - Uma vez publicada a proposta de lista de classificação, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n3 - O júri, no prazo de 10 dias, aprecia a pronúncia dos interessados e, após notificá-los, elabora a lista de classificação final.\n\n4 - Concluídos os procedimentos referidos nos números anteriores e tendo em consideração a lista de classificação final, o júri organiza as listas de distribuição geográfica.\n\n5 - Publicada a proposta de lista de distribuição geográfica, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n6 - As listas referidas no número anterior são submetidas, no prazo de cinco dias, ao director do GRAL para homologação.\n\n7 - Após homologação, as listas são publicadas e notificadas aos candidatos, nos termos da lei.\n\n8 - Do acto de homologação previsto no número anterior cabe recurso hierárquico, a interpor para o Ministro da Justiça."
+  },
+  "116689836": {
+   "fragment_id": "116735126",
+   "type": 11,
+   "heading": "Artigo 11.º — Validade do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Validade do procedimento\n\nAs listas homologadas em resultado do procedimento de selecção são válidas por um ano, podendo o prazo de validade ser prorrogado mediante despacho do director do GRAL."
+  },
+  "116689837": {
+   "fragment_id": "116735127",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições finais\n\n1 - Os candidatos que, apesar de admitidos, não forem colocados nas listas ficam a constar como suplentes das mesmas.\n\n2 - As vagas que venham a ocorrer durante o período de validade das listas serão preenchidas pelos candidatos suplentes, de acordo com a ordenação das mesmas."
+  },
+  "116689838": {
+   "fragment_id": "116735128",
+   "type": 14,
+   "heading": "Anexo III — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NO SISTEMA DE MEDIAÇÃO LABORAL",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NO SISTEMA DE MEDIAÇÃO LABORAL"
+  },
+  "116689839": {
+   "fragment_id": "116735129",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento define as regras a observar no procedimento de selecção de mediadores de conflitos, habilitados ao exercício da função de mediação, para prestar serviços no âmbito do sistema de mediação laboral (SML)."
+  },
+  "116689840": {
+   "fragment_id": "116735130",
+   "type": 11,
+   "heading": "Artigo 2.º — Júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Júri\n\n1 - O júri é composto por um presidente e dois vogais, nomeados por despacho do director do Gabinete para a Resolução Alternativa de Litígios (GRAL).\n\n2 - O despacho de nomeação referido no número anterior deve designar o vogal efectivo que substitui o presidente nas suas faltas e impedimentos e, ainda, os vogais suplentes, em número igual ao dos efectivos.\n\n3 - Ao júri compete realizar todas as operações do procedimento de selecção.\n\n4 - Sem prejuízo do disposto no número anterior, as operações do procedimento podem ser realizadas por recurso a entidades externas especializadas nas matérias ou detentoras de conhecimentos técnicos específicos exigíveis para o exercício das funções para que é aberto o procedimento."
+  },
+  "116689841": {
+   "fragment_id": "116735131",
+   "type": 11,
+   "heading": "Artigo 3.º — Abertura do procedimento de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Abertura do procedimento de selecção\n\n1 - O procedimento é aberto por despacho do director do GRAL.\n\n2 - A abertura do procedimento de selecção é tornada pública mediante aviso publicado no sítio electrónico do GRAL (www.gral.mj.pt).\n\n3 - Do aviso de abertura constam obrigatoriamente:\n\na) Âmbito geográfico do concurso;\n\nb) Prazo de validade do concurso;\n\nc) Requisitos de admissão das candidaturas;\n\nd) Forma e prazo para apresentação de candidaturas;\n\ne) Requisitos de admissão do candidato;\n\nf) Indicação dos critérios e métodos de selecção;\n\ng) Composição do júri;\n\nh) Menção aos documentos que devem instruir o requerimento de candidatura;\n\ni) Local de afixação das listas de admissão, de classificação final e de distribuição geográfica dos candidatos;\n\nj) Endereço electrónico do concurso."
+  },
+  "116689842": {
+   "fragment_id": "116735132",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de admissão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de admissão dos candidatos\n\nOs candidatos devem, até ao termo do prazo para a apresentação das candidaturas, preencher os seguintes requisitos:\n\na) Ter mais de 25 anos de idade;\n\nb) Estar no pleno gozo dos direitos civis e políticos;\n\nc) Ser detentor de licenciatura adequada;\n\nd) Estar habilitado com um curso de mediação laboral, reconhecido pelo Ministério da Justiça;\n\ne) Ser pessoa idónea;\n\nf) Ter o domínio da língua portuguesa."
+  },
+  "116689843": {
+   "fragment_id": "116735133",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas, no prazo fixado no aviso de abertura, em requerimento electrónico, disponibilizado no sítio electrónico do GRAL.\n\n2 - As candidaturas podem ainda ser formalizadas, no mesmo prazo, através de modelo disponibilizado no sítio electrónico do GRAL e dirigido ao director do GRAL:\n\na) Pessoalmente, nas instalações do GRAL;\n\nb) Via postal, mediante correio registado com aviso de recepção, atendendo-se, neste caso, à data do registo.\n\n3 - Quando as candidaturas forem formalizadas por requerimento electrónico nos termos do n.º 1, a documentação pode ser digitalizada e anexada ou, em alternativa, entregue do modo previsto no número anterior.\n\n4 - O requerimento deve ser instruído com a seguinte documentação:\n\na) Cópia do documento de identificação;\n\nb) Cópia do documento que ateste o número de identificação fiscal;\n\nc) Certificado do registo criminal;\n\nd) Cópia do certificado de habilitações, com referência à média final de licenciatura;\n\ne) Cópia do certificado do curso de mediação na área laboral, reconhecido pelo GRAL;\n\nf) Declaração, sob compromisso de honra, na qual o candidato declare estar no pleno gozo dos direitos civis e políticos, não ter sofrido condenação nem estar pronunciado por crime doloso e ter o domínio da língua portuguesa;\n\ng) Declaração da entidade patronal que autorize o candidato a acumular funções sempre que desempenhe trabalho dependente e que esteja abrangido por disposições legais ou outras relativas a incompatibilidades.\n\n5 - A não apresentação dos documentos referidos no número anterior implica a exclusão do candidato.\n\n6 - Sem prejuízo do disposto no número anterior, o documento referido na alínea g) do n.º 4 pode ser apresentado até à data da homologação da lista de classificação final.\n\n7 - Em qualquer fase do procedimento de selecção, o júri pode exigir a apresentação de prova dos originais dos documentos referidos no n.º 4."
+  },
+  "116689844": {
+   "fragment_id": "116735134",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão e exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão e exclusão dos candidatos\n\n1 - Findo o prazo para apresentação de candidaturas, o júri procede, no prazo de 10 dias, à verificação dos requisitos de admissão, elaborando lista provisória dos candidatos admitidos e excluídos.\n\n2 - O prazo referido no número anterior pode ser excepcionalmente prorrogado por 10 dias, mediante despacho fundamentado do director do GRAL.\n\n3 - Elaborada a lista provisória, os candidatos não admitidos são notificados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias, dizerem por escrito o que se lhes oferecer.\n\n4 - Findo o prazo referido no número anterior, o júri aprecia, no prazo de cinco dias, a pronúncia dos interessados, notificando-os da sua decisão.\n\n5 - Do acto de exclusão cabe reclamação para o júri, a apresentar no prazo de 15 dias.\n\n6 - Apreciadas as reclamações, ou não as havendo, é publicada a lista definitiva dos candidatos admitidos e excluídos."
+  },
+  "116689845": {
+   "fragment_id": "116735135",
+   "type": 11,
+   "heading": "Artigo 7.º — Métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Métodos de selecção\n\n1 - O concurso assenta, exclusivamente, na avaliação curricular de cada candidato.\n\n2 - A avaliação curricular visa determinar o nível de aptidão dos candidatos para o exercício das funções de mediador no âmbito do SML."
+  },
+  "116689846": {
+   "fragment_id": "116735136",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação dos métodos de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação dos métodos de selecção\n\n1 - Fixada a lista definitiva dos candidatos admitidos, o júri procede, no prazo de 10 dias, à avaliação curricular.\n\n2 - Antes da publicação do aviso de abertura do procedimento de selecção, o júri densifica o preceituado na alínea f) do n.º 3 do artigo 3.º por meio de uma grelha de factores de ponderação, susceptíveis de expressão numérica, tanto positiva como negativa, entre os quais:\n\na) Formação profissional complementar, sendo factor de ponderação obrigatória os cursos de formação relacionados com o exercício das funções de mediador de conflitos no âmbito da mediação laboral;\n\nb) Experiência profissional, sendo factor de ponderação obrigatória o desempenho efectivo de funções como mediador de conflitos no SML.\n\n3 - A avaliação curricular é valorizada numa escala de 0 a 20 valores.\n\n4 - Os candidatos só são aprovados se a avaliação curricular for igual ou superior a 10 valores."
+  },
+  "116689847": {
+   "fragment_id": "116735137",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento de decisão do júri",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento de decisão do júri\n\nA avaliação é feita por votação aberta e fundamentada, sendo as actas subscritas pelo presidente e pelos vogais."
+  },
+  "116689848": {
+   "fragment_id": "116735138",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão final\n\n1 - Concluídas as operações de selecção, o júri elabora, no prazo de 10 dias, a proposta de lista de classificação final.\n\n2 - Uma vez publicada a proposta de lista de classificação, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n3 - O júri, no prazo de 10 dias, aprecia a pronúncia dos interessados e, após notificá-los, elabora a lista de classificação final.\n\n4 - Concluídos os procedimentos referidos nos números anteriores e tendo em consideração a lista de classificação final, o júri organiza as listas de distribuição geográfica.\n\n5 - Publicada a proposta de lista de distribuição geográfica, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n6 - As listas referidas no número anterior são submetidas, no prazo de cinco dias, ao director do GRAL para homologação.\n\n7 - Após homologação, as listas são publicadas e notificadas aos candidatos, nos termos da lei.\n\n8 - Do acto de homologação previsto no número anterior cabe recurso hierárquico, a interpor para o Ministro da Justiça."
+  },
+  "116689849": {
+   "fragment_id": "116735139",
+   "type": 11,
+   "heading": "Artigo 11.º — Validade do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Validade do procedimento\n\nAs listas homologadas em resultado do procedimento de selecção são válidas por um ano, podendo o prazo de validade ser prorrogado mediante despacho do director do GRAL."
+  },
+  "116689850": {
+   "fragment_id": "116735140",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições finais\n\n1 - Os candidatos que, apesar de admitidos, não forem colocados nas listas de distribuição geográfica ficam a constar como suplentes das mesmas.\n\n2 - As vagas que venham a ocorrer durante o período de validade das listas serão preenchidas pelos candidatos suplentes, de acordo com a ordenação das mesmas."
+  },
+  "213133206": {
+   "fragment_id": "116735098",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - São aprovados:\n\na) [Revogada]\n\nb)  [Revogada]\n\nc) O regulamento do procedimento de selecção de mediadores de conflitos habilitados para prestar serviços de mediação no âmbito do sistema de mediação laboral.\n\n2 - Os regulamentos aprovados nos termos do número anterior são publicados em anexo ao presente diploma, do qual fazem parte integrante.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "116689811": {
+   "fragment_id": "116735101",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, José Manuel Santos de Magalhães, Secretário de Estado da Justiça e da Modernização Judiciária, em 12 de Maio de 2010."
+  },
+  "213133207": {
+   "fragment_id": "116735102",
+   "type": 14,
+   "heading": "Anexo I — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NOS JULGADOS DE PAZ",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "## Anexo I — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NOS JULGADOS DE PAZ\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133208": {
+   "fragment_id": "116735103",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento define as regras a observar no procedimento de selecção de mediadores de conflitos, habilitados ao exercício da função de mediação, para prestar serviços no âmbito dos julgados de paz.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133209": {
+   "fragment_id": "116735104",
+   "type": 11,
+   "heading": "Artigo 2.º — Júri",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 2.º — Júri\n\n1 - O júri é composto por um presidente e dois vogais, nomeados por despacho do director do Gabinete para a Resolução Alternativa de Litígios (GRAL).\n\n2 - O despacho de nomeação referido no número anterior deve designar o vogal efectivo que substitui o presidente nas suas faltas e impedimentos e, ainda, os vogais suplentes, em número igual ao dos efectivos.\n\n3 - Ao júri compete realizar todas as operações do procedimento de selecção.\n\n4 - Sem prejuízo do disposto no número anterior, as operações do procedimento podem ser realizadas por recurso a entidades externas especializadas nas matérias ou detentoras de conhecimentos técnicos específicos exigíveis para o exercício das funções para que é aberto o procedimento.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133210": {
+   "fragment_id": "116735105",
+   "type": 11,
+   "heading": "Artigo 3.º — Abertura do procedimento de selecção",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 3.º — Abertura do procedimento de selecção\n\n1 - O procedimento é aberto por despacho do director do GRAL.\n\n2 - A abertura do procedimento de selecção é tornada pública mediante aviso publicado no sítio electrónico do GRAL (www.gral.mj.pt).\n\n3 - Do aviso de abertura constam obrigatoriamente:\n\na) Âmbito geográfico do concurso;\n\nb) Prazo de validade do concurso;\n\nc) Requisitos de admissão das candidaturas;\n\nd) Forma e prazo para apresentação de candidaturas;\n\ne) Requisitos de admissão do candidato;\n\nf) Indicação dos critérios e métodos de selecção;\n\ng) Composição do júri;\n\nh) Menção aos documentos que devem instruir o requerimento de candidatura;\n\ni) Local de afixação das listas de admissão, de classificação final e de distribuição geográfica dos candidatos;\n\nj) Endereço electrónico do concurso.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133211": {
+   "fragment_id": "116735106",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de admissão dos candidatos",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de admissão dos candidatos\n\nOs candidatos devem, até ao termo do prazo para a apresentação das candidaturas, preencher os requisitos de admissão dos candidatos definidos no artigo 31.º da Lei n.º 78/2001, de 13 de Julho, devidamente explicitados no aviso de abertura do concurso.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133212": {
+   "fragment_id": "116735107",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas, no prazo fixado no aviso de abertura, em requerimento electrónico, disponibilizado no sítio electrónico do GRAL.\n\n2 - As candidaturas podem ainda ser formalizadas, no mesmo prazo, através de modelo disponibilizado no sítio electrónico do GRAL e dirigido ao director do GRAL:\n\na) Pessoalmente, nas instalações do GRAL;\n\nb) Via postal, mediante correio registado com aviso de recepção, atendendo-se, neste caso, à data do registo.\n\n3 - Quando as candidaturas forem formalizadas por requerimento electrónico nos termos do n.º 1, a documentação pode ser digitalizada e anexada ou, em alternativa, entregue do modo previsto no número anterior.\n\n4 - O requerimento deve ser instruído com a seguinte documentação:\n\na) Cópia do documento de identificação;\n\nb) Cópia do documento que ateste o número de identificação fiscal;\n\nc) Certificado do registo criminal;\n\nd) Cópia do certificado de habilitações, com referência à média final de licenciatura;\n\ne) Cópia do certificado do curso de mediação para desempenho de funções nos julgados de paz, reconhecido pelo Ministério da Justiça;\n\nf) Declaração, sob compromisso de honra, na qual o candidato declare estar no pleno gozo dos direitos civis e políticos, não ter sofrido condenação nem estar pronunciado por crime doloso e ter o domínio da língua portuguesa;\n\ng) Declaração da entidade patronal que autorize o candidato a acumular funções sempre que desempenhe trabalho dependente e que esteja abrangido por disposições legais ou outras relativas a incompatibilidades.\n\n5 - A não apresentação dos documentos referidos no número anterior implica a exclusão do candidato.\n\n6 - Sem prejuízo do disposto no número anterior, o documento referido na alínea g) do n.º 4 pode ser apresentado até à data da homologação da lista de classificação final.\n\n7 - Em qualquer fase do procedimento de selecção, o júri pode exigir a apresentação de prova dos originais dos documentos referidos no n.º 4.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133213": {
+   "fragment_id": "116735108",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão e exclusão dos candidatos",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 6.º — Admissão e exclusão dos candidatos\n\n1 - Findo o prazo para apresentação de candidaturas, o júri procede, no prazo de 10 dias, à verificação dos requisitos de admissão, elaborando lista provisória dos candidatos admitidos e excluídos.\n\n2 - O prazo referido no número anterior pode ser excepcionalmente prorrogado por 10 dias, mediante despacho fundamentado do director do GRAL.\n\n3 - Elaborada a lista provisória, os candidatos não admitidos são notificados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias, dizerem por escrito o que se lhes oferecer.\n\n4 - Findo o prazo referido no número anterior, o júri aprecia, no prazo de cinco dias, a pronúncia dos interessados, notificando-os da sua decisão.\n\n5 - Do acto de exclusão cabe reclamação para o júri, a apresentar no prazo de 15 dias.\n\n6 - Apreciadas as reclamações, ou não as havendo, é publicada a lista definitiva dos candidatos admitidos e excluídos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133214": {
+   "fragment_id": "116735109",
+   "type": 11,
+   "heading": "Artigo 7.º — Métodos de selecção",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 7.º — Métodos de selecção\n\n1 - O concurso assenta, exclusivamente, na avaliação curricular de cada candidato.\n\n2 - A avaliação curricular visa determinar o nível de aptidão dos candidatos para o exercício das funções de mediador no âmbito dos julgados de paz.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133215": {
+   "fragment_id": "116735110",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação dos métodos de selecção",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 8.º — Aplicação dos métodos de selecção\n\n1 - Fixada a lista definitiva dos candidatos admitidos, o júri procede, no prazo de 10 dias, à avaliação curricular.\n\n2 - Antes da publicação do aviso de abertura do procedimento de selecção, o júri densifica o preceituado na alínea f) do n.º 3 do artigo 3.º por meio de uma grelha de factores de ponderação, susceptíveis de expressão numérica, tanto positiva como negativa, entre os quais:\n\na) Formação profissional complementar, sendo factor de ponderação obrigatória os cursos de formação relacionados com o exercício das funções de mediador de conflitos nos julgados de paz;\n\nb) Experiência profissional, sendo factor de ponderação obrigatória o desempenho efectivo de funções como mediador de conflitos nos julgados de paz.\n\n3 - A avaliação curricular é valorizada numa escala de 0 a 20 valores.\n\n4 - Os candidatos só são aprovados se a avaliação curricular for igual ou superior a 10 valores.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133216": {
+   "fragment_id": "116735111",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento de decisão do júri",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 9.º — Procedimento de decisão do júri\n\nA avaliação é feita por votação aberta e fundamentada, sendo as actas subscritas pelo presidente e pelos vogais.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133217": {
+   "fragment_id": "116735112",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão final",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 10.º — Decisão final\n\n1 - Concluídas as operações de selecção, o júri elabora, no prazo de 10 dias, a proposta de lista de classificação final.\n\n2 - Uma vez publicada a proposta de lista de classificação, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n3 - O júri, no prazo de 10 dias, aprecia a pronúncia dos interessados e, após notificá-los, elabora a lista de classificação final.\n\n4 - Concluídos os procedimentos referidos nos números anteriores e tendo em consideração a lista de classificação final, o júri organiza as listas de distribuição geográfica.\n\n5 - Publicada a proposta de lista de distribuição geográfica, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n6 - As listas referidas no número anterior são submetidas, no prazo de cinco dias, ao director do GRAL para homologação.\n\n7 - Após homologação, as listas são publicadas e notificadas aos candidatos, nos termos da lei.\n\n8 - Do acto de homologação previsto no número anterior cabe recurso hierárquico, a interpor para o Ministro da Justiça.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133218": {
+   "fragment_id": "116735113",
+   "type": 11,
+   "heading": "Artigo 11.º — Validade do procedimento",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 11.º — Validade do procedimento\n\nA validade das listas homologadas em resultado do procedimento de selecção é aferida nos termos do n.º 2 do artigo 33.º da Lei n.º 78/2001, de 13 de Julho.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133219": {
+   "fragment_id": "116735114",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposições finais",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 12.º — Disposições finais\n\n1 - Os candidatos que, apesar de admitidos, não forem colocados nas listas de distribuição geográfica ficam a constar como suplentes das mesmas.\n\n2 - As vagas que venham a ocorrer durante o período de validade das listas serão preenchidas pelos candidatos suplentes, de acordo com a ordenação das mesmas.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133220": {
+   "fragment_id": "116735115",
+   "type": 14,
+   "heading": "Anexo II — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NO SISTEMA DE MEDIAÇÃO FAMILIAR",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "## Anexo II — REGULAMENTO DO PROCEDIMENTO DE SELECÇÃO DE MEDIADORES PARA PRESTAR SERVIÇOS NO SISTEMA DE MEDIAÇÃO FAMILIAR\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133221": {
+   "fragment_id": "116735116",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento define as regras a observar no procedimento de selecção de mediadores de conflitos, habilitados ao exercício da função de mediação, para prestar serviços no âmbito do sistema de mediação familiar (SMF).\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133222": {
+   "fragment_id": "116735117",
+   "type": 11,
+   "heading": "Artigo 2.º — Júri",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 2.º — Júri\n\n1 - O júri é composto por um presidente e dois vogais, nomeados por despacho do director do Gabinete para a Resolução Alternativa de Litígios (GRAL).\n\n2 - O despacho de nomeação referido no número anterior deve designar o vogal efectivo que substitui o presidente nas suas faltas e impedimentos e, ainda, os vogais suplentes, em número igual ao dos efectivos.\n\n3 - Ao júri compete realizar todas as operações do procedimento de selecção.\n\n4 - Sem prejuízo do disposto no número anterior, as operações do procedimento podem ser realizadas por recurso a entidades externas especializadas nas matérias ou detentoras de conhecimentos técnicos específicos exigíveis para o exercício das funções para que é aberto o procedimento.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133223": {
+   "fragment_id": "116735118",
+   "type": 11,
+   "heading": "Artigo 3.º — Abertura do procedimento de selecção",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 3.º — Abertura do procedimento de selecção\n\n1 - O procedimento é aberto por despacho do director do GRAL.\n\n2 - A abertura do procedimento de selecção é tornada pública mediante aviso publicado no sítio electrónico do GRAL (www.gral.mj.pt).\n\n3 - Do aviso de abertura constam obrigatoriamente:\n\na) Âmbito geográfico do concurso;\n\nb) Prazo de validade do concurso;\n\nc) Requisitos de admissão das candidaturas;\n\nd) Forma e prazo para apresentação de candidaturas;\n\ne) Requisitos de admissão do candidato;\n\nf) Indicação dos critérios e métodos de selecção;\n\ng) Composição do júri;\n\nh) Menção aos documentos que devem instruir o requerimento de candidatura;\n\ni) Local de afixação das listas de admissão, de classificação final e de distribuição geográfica dos candidatos;\n\nj) Endereço electrónico do concurso.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133224": {
+   "fragment_id": "116735119",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de admissão dos candidatos",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 4.º — Requisitos de admissão dos candidatos\n\nOs candidatos devem, até ao termo do prazo para a apresentação das candidaturas, preencher os seguintes requisitos:\n\na) Ter mais de 25 anos de idade;\n\nb) Estar no pleno gozo dos direitos civis e políticos;\n\nc) Ser detentor de licenciatura adequada;\n\nd) Estar habilitado com um curso de mediação familiar, reconhecido pelo Ministério da Justiça;\n\ne) Ser pessoa idónea;\n\nf) Ter o domínio da língua portuguesa.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133225": {
+   "fragment_id": "116735120",
+   "type": 11,
+   "heading": "Artigo 5.º — Apresentação de candidaturas",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 5.º — Apresentação de candidaturas\n\n1 - As candidaturas são formalizadas, no prazo fixado no aviso de abertura, em requerimento electrónico, disponibilizado no sítio electrónico do GRAL.\n\n2 - As candidaturas podem ainda ser formalizadas, no mesmo prazo, através de modelo disponibilizado no sítio electrónico do GRAL e dirigido ao director do GRAL:\n\na) Pessoalmente, nas instalações do GRAL;\n\nb) Via postal, mediante correio registado com aviso de recepção, atendendo-se, neste caso, à data do registo.\n\n3 - Quando as candidaturas forem formalizadas por requerimento electrónico nos termos do n.º 1, a documentação pode ser digitalizada e anexada ou, em alternativa, entregue do modo previsto no número anterior.\n\n4 - O requerimento deve ser instruído com a seguinte documentação:\n\na) Cópia do documento de identificação;\n\nb) Cópia do documento que ateste o número de identificação fiscal;\n\nc) Certificado do registo criminal;\n\nd) Cópia do certificado de habilitações, com referência à média final de licenciatura;\n\ne) Cópia do certificado do curso de mediação na área familiar, reconhecido pelo Ministério da Justiça;\n\nf) Declaração, sob compromisso de honra, na qual o candidato declare estar no pleno gozo dos direitos civis e políticos, não ter sofrido condenação nem estar pronunciado por crime doloso e ter o domínio da língua portuguesa;\n\ng) Declaração da entidade patronal que autorize o candidato a acumular funções sempre que desempenhe trabalho dependente e que esteja abrangido por disposições legais ou outras relativas a incompatibilidades.\n\n5 - A não apresentação dos documentos referidos no número anterior implica a exclusão do candidato.\n\n6 - Sem prejuízo do disposto no número anterior, o documento referido na alínea g) do n.º 4 pode ser apresentado até à data da homologação da lista de classificação final.\n\n7 - Em qualquer fase do procedimento de selecção, o júri pode exigir a apresentação de prova dos originais dos documentos referidos no n.º 4.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133226": {
+   "fragment_id": "116735121",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão e exclusão dos candidatos",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 6.º — Admissão e exclusão dos candidatos\n\n1 - Findo o prazo para apresentação de candidaturas, o júri procede, no prazo de 10 dias, à verificação dos requisitos de admissão, elaborando lista provisória dos candidatos admitidos e excluídos.\n\n2 - O prazo referido no número anterior pode ser excepcionalmente prorrogado por 10 dias, mediante despacho fundamentado do director do GRAL.\n\n3 - Elaborada a lista provisória, os candidatos não admitidos são notificados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do Código do Procedimento Administrativo (CPA), para, no prazo de 10 dias, dizerem por escrito o que se lhes oferecer.\n\n4 - Findo o prazo referido no número anterior, o júri aprecia, no prazo de cinco dias, a pronúncia dos interessados, notificando-os da sua decisão.\n\n5 - Do acto de exclusão cabe reclamação para o júri, a apresentar no prazo de 15 dias.\n\n6 - Apreciadas as reclamações, ou não as havendo, é publicada a lista definitiva dos candidatos admitidos e excluídos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133227": {
+   "fragment_id": "116735122",
+   "type": 11,
+   "heading": "Artigo 7.º — Métodos de selecção",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 7.º — Métodos de selecção\n\n1 - O concurso assenta, exclusivamente, na avaliação curricular de cada candidato.\n\n2 - A avaliação curricular visa determinar o nível de aptidão dos candidatos para o exercício das funções de mediador no âmbito do SMF.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133228": {
+   "fragment_id": "116735123",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação dos métodos de selecção",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 8.º — Aplicação dos métodos de selecção\n\n1 - Fixada a lista definitiva dos candidatos admitidos, o júri procede, no prazo de 10 dias, à avaliação curricular.\n\n2 - Antes da publicação do aviso de abertura do procedimento de selecção, o júri densifica o preceituado na alínea f) do n.º 3 do artigo 3.º por meio de uma grelha de factores de ponderação, susceptíveis de expressão numérica, tanto positiva como negativa, entre os quais:\n\na) Formação profissional complementar, sendo factor de ponderação obrigatória os cursos de formação relacionados com o exercício das funções de mediador de conflitos no âmbito da mediação familiar;\n\nb) Experiência profissional, sendo factor de ponderação obrigatória o desempenho efectivo de funções como mediador de conflitos no SMF.\n\n3 - A avaliação curricular é valorizada numa escala de 0 a 20 valores.\n\n4 - Os candidatos só são aprovados se a avaliação curricular for igual ou superior a 10 valores.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133229": {
+   "fragment_id": "116735124",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento de decisão do júri",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 9.º — Procedimento de decisão do júri\n\nA avaliação é feita por votação aberta e fundamentada, sendo as actas subscritas pelo presidente e pelos vogais.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133230": {
+   "fragment_id": "116735125",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão final",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 10.º — Decisão final\n\n1 - Concluídas as operações de selecção, o júri elabora, no prazo de 10 dias, a proposta de lista de classificação final.\n\n2 - Uma vez publicada a proposta de lista de classificação, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n3 - O júri, no prazo de 10 dias, aprecia a pronúncia dos interessados e, após notificá-los, elabora a lista de classificação final.\n\n4 - Concluídos os procedimentos referidos nos números anteriores e tendo em consideração a lista de classificação final, o júri organiza as listas de distribuição geográfica.\n\n5 - Publicada a proposta de lista de distribuição geográfica, os interessados, no âmbito do direito de participação dos interessados, ao abrigo e nos termos dos artigos 100.º e seguintes do CPA, dispõem do prazo de 10 dias para dizerem por escrito o que se lhes oferecer.\n\n6 - As listas referidas no número anterior são submetidas, no prazo de cinco dias, ao director do GRAL para homologação.\n\n7 - Após homologação, as listas são publicadas e notificadas aos candidatos, nos termos da lei.\n\n8 - Do acto de homologação previsto no número anterior cabe recurso hierárquico, a interpor para o Ministro da Justiça.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133231": {
+   "fragment_id": "116735126",
+   "type": 11,
+   "heading": "Artigo 11.º — Validade do procedimento",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 11.º — Validade do procedimento\n\nAs listas homologadas em resultado do procedimento de selecção são válidas por um ano, podendo o prazo de validade ser prorrogado mediante despacho do director do GRAL.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  },
+  "213133232": {
+   "fragment_id": "116735127",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposições finais",
+   "in_force_from": "2018-10-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+   ],
+   "markdown": "###### Artigo 12.º — Disposições finais\n\n1 - Os candidatos que, apesar de admitidos, não forem colocados nas listas ficam a constar como suplentes das mesmas.\n\n2 - As vagas que venham a ocorrer durante o período de validade das listas serão preenchidas pelos candidatos suplentes, de acordo com a ordenação das mesmas.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 283/2018 - Diário da República n.º 202/2018, Série I de 2018-10-19](https://diariodarepublica.pt/dr/detalhe/portaria/283-2018-116734771), em vigor a partir de 2018-10-20"
+  }
+ }
+}

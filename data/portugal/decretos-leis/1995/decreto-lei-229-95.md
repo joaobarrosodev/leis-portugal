@@ -1,0 +1,453 @@
+---
+schema_version: '1.0'
+id: pt:dre:561470:por
+title: Decreto-Lei n.º 229/95
+short_title: null
+summary: Altera o Decreto-Lei n.º 504-M/85, de 30 de Dezembro (regulamenta a cobrança e os reembolsos do IVA e estabelece
+  disposições quanto à aplicação das taxas reduzidas estabelecidas para as Regiões Autónomas dos Açores e da Madeira, bem
+  como quanto à movimentação de fundos para os respectivos Governos relativos à parte que lhes compete nas receitas do IVA)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 229/95
+official_date: null
+publication_date: '1995-09-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 210/1995, Série I-A de 1995-09-11
+  number: '210'
+  series: I
+  supplement: null
+  pages: 5715 - 5718
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/09/210a00/57155718.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2012-12-21'
+version_history:
+  file: decreto-lei-229-95.versoes.json
+  count: 5
+  source_lastmod: '2024-09-09'
+  versions:
+  - date: '1995-09-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-13'
+    amending: pt:dre:682986:por
+    amending_title: Decreto-Lei n.º 472/99
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 16.º
+  - date: '2003-07-24'
+    amending: pt:dre:670764:por
+    amending_title: Decreto-Lei n.º 160/2003
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+  - date: '2005-08-08'
+    amending: pt:dre:240382:por
+    amending_title: Decreto-Lei n.º 124/2005
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+  - date: '2012-12-21'
+    amending: pt:dre:190201:por
+    amending_title: Lei n.º 64/2012
+    changes:
+    - Adita Artigo 4.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 13.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 17.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/229/1995/p/cons/20121220/pt/html
+  oj: null
+  dre: '561470'
+  dre_path: /dr/detalhe/decreto-lei/229-1995-561470
+  internal: pt:dre:561470:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-1995-561470
+  metadata_url: https://data.dre.pt/eli/dec-lei/229/1995/p/cons/20121220/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-887304976
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-887304976
+  retrieved_at: '2026-10-22T13:14:56Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-09-09T00:00:00Z'
+integrity:
+  source_sha256: 708f080e858542aea49cedfc72df0631b76fe14310afb74452355d0d581cc72e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:14:56Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-229-95.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cobrança de Impostos
+- Código do IVA
+- Direcção Geral do Tesouro
+- Definição de Competências
+- Ministro das Finanças
+- IVA
+- Lei Geral Tributária
+- Restituição de Impostos
+- Tesouraria da Fazenda Pública
+relationships:
+- type: amended_by
+  target: pt:dre:682986:por
+  label: Altera Artigo 6.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986
+  date: '1999-11-08'
+- type: amended_by
+  target: pt:dre:670764:por
+  label: Altera Artigo 14.º; Altera Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764
+  date: '2003-07-19'
+- type: amended_by
+  target: pt:dre:240382:por
+  label: Altera Artigo 1.º; Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2005-240382
+  date: '2005-08-03'
+- type: amended_by
+  target: pt:dre:190201:por
+  label: Adita Artigo 4.º-A; Altera Artigo 1.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 12.º; Altera Artigo 14.º; Altera Artigo 15.º;
+    Altera Artigo 18.º; Altera Artigo 22.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 11.º; Revoga Artigo 13.º;
+    Revoga Artigo 16.º; Revoga Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201
+  date: '2012-12-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/275-a/1993/08/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/408/1993/12/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/39-b/1994/12/27/p/dre
+article_structure:
+  article_count: 23
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:14:56Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 229/95
+
+Decreto-Lei n.º 229/95
+
+de 11 de Setembro
+
+Ao abrigo da autorização legislativa constante do artigo 60.º da Lei n.º 39-B/94, de 27 de Dezembro, vem o presente diploma proceder à harmonização das disposições que regulamentam a cobrança e o pagamento dos reembolsos do IVA com as do Código de Processo Tributário e do Decreto-Lei n.º 275-A/93, de 9 de Agosto, nomeadamente quanto a aspectos de pormenor destinados à clarificação de alguns normativos e ao seu ajustamento face à nova orgânica da Direcção-Geral das Contribuições e Impostos instituída pelo Decreto-Lei n.º 408/93, de 14 de Dezembro.
+
+A referida harmonização incide, fundamentalmente, sobre o processo de regularização dos erros praticados no preenchimento das declarações, sobre o tratamento a dar às situações derivadas da devolução de cheques sem provisão ou com falta de alguns dos requisitos formais que impossibilitem o seu pagamento e ainda sobre a tramitação a dar às exposições efectuadas pelos sujeitos passivos a fundamentar o extravio das declarações e meios de pagamento, a qual passará a ser tratada de forma idêntica ao processo gracioso de reclamação previsto no Código de Processo Tributário.
+
+Por outro lado, face às múltiplas alterações que se operaram no Decreto-Lei n.º 504-M/85, de 30 de Dezembro, procede-se à sua revogação integral.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 60.º da Lei n.º 39-B/94, de 27 de Dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Locais de cobrança
+
+1 - O pagamento do imposto sobre o valor acrescentado (IVA) deve ser efetuado nos locais de cobrança legalmente autorizados.
+
+2 - Para efeitos do número anterior consideram-se 'locais de cobrança legalmente autorizados' as secções de cobrança dos serviços de finanças, os balcões dos CTT, bem como as instituições de crédito que tenham celebrado os necessários acordos com a Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP).
+
+3 - O pagamento do imposto pode ainda ser feito através de sistema de pagamento automático Multibanco ou do serviço de Homebanking nas instituições de crédito que o disponibilizem.
+
+4 - A certificação ou o recibo emitido pelas entidades cobradoras da receita constitui prova de pagamento.
+
+5 - As normas deste diploma não se aplicam ao imposto cuja liquidação e cobrança compete aos serviços aduaneiros nos termos dos n.os 3 e 4 do artigo 28.º do Código do Imposto sobre o Valor Acrescentado, abreviadamente designado Código do IVA.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2005 - Diário da República n.º 148/2005, Série I-A de 2005-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2005-240382), em vigor a partir de 2005-08-08
+
+###### Artigo 2.º
+
+A DSCIVA emitirá trimestralmente, para os contribuintes do regime mensal e, semestralmente, para os do regime trimestral, extractos relativos à sua situação tributária em termos de IVA, neles se incluindo os créditos disponíveis, os reembolsos pagos, os reembolsos em fase de apreciação e ainda os valores remetidos para pagamento do imposto.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 3.º
+
+1 - Para efeitos do cumprimento das obrigações estabelecidas no n.º 1 do artigo 26.º e nos n.os 1 e 2 do artigo 40.º do Código do Imposto sobre o Valor Acrescentado, a DSCIVA enviará directamente aos sujeitos passivos que se encontrem registados a declaração periódica com elementos pré-impressos acompanhada de envelope devidamente endereçado e com porte pago, para devolução daquela declaração.
+
+2 - Completado o preenchimento da declaração pelo seu sujeito passivo, deverá a mesma ser devolvida juntamente com o correspondente meio de pagamento, se for caso disso, utilizando-se o envelope referido no número anterior.
+
+3 - O não recebimento pelo sujeito passivo dos documentos referidos no n.º 1, bem como a sua inutilização, não o desobrigam do cumprimento das disposições citadas no mesmo número.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 4.º — Meios de pagamento
+
+1 - O pagamento do imposto só pode ser efetuado:
+
+a) Com moeda corrente;
+
+b) Por cheque sacado sobre instituição de crédito localizada no território nacional ou em outro Estado membro da União Europeia, ou no Espaço Económico Europeu;
+
+c) Por transferência bancária, efetuada mediante instituição de crédito localizada no território nacional ou em outro Estado membro da União Europeia, ou no Espaço Económico Europeu, devendo conter a referência de pagamento;
+
+d) Através de outras entidades cobradoras que, para esse efeito, venham a celebrar com o IGCP os necessários acordos.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 124/2005 - Diário da República n.º 148/2005, Série I-A de 2005-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2005-240382), em vigor a partir de 2005-08-08
+
+###### Artigo 4.º-A — Formas de pagamento
+
+Para cumprimento da obrigação de pagamento do imposto, estabelecida no artigo 27.º do Código do IVA, os sujeitos passivos devem utilizar, consoante o caso, um dos seguintes documentos a obter no Portal das Finanças:
+
+a) Documento de pagamento gerado após a submissão da respetiva declaração periódica;
+
+b) Guia de pagamento do modelo P2, DUC (Documento Único de Cobrança), aprovado pela Portaria n.º 92/2004, de 23 de janeiro.
+
+> Aditado pelo/a Artigo 11.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 5.º — Certidão de dívida
+
+Quando não for efetuado o pagamento do imposto ou o pagamento se mostre insuficiente face ao valor do imposto apurado pelo sujeito passivo na declaração periódica enviada, é extraída a respetiva certidão de dívida, nos termos e para os efeitos do disposto no n.º 6 do artigo 27.º do Código do IVA.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 6.º — Compensação
+
+1 - Quando o valor do pagamento efetuado for superior ao do imposto apurado com base nos valores indicados na declaração periódica correspondente, a diferença daí resultante é creditada em conta corrente, para efeitos da sua compensação com o imposto que vier a mostrar-se devido.
+
+2 - Ultrapassado o prazo previsto no n.º 2 do artigo 88.º do Código do IVA e após o pagamento da liquidação oficiosa apurada nos termos do n.º 1 do mesmo artigo, à data da apresentação da respetiva declaração periódica será o valor de imposto considerado nos termos seguintes:
+
+a) Se superior ao valor da referida liquidação oficiosa, será este tido em conta, mostrando-se apenas devida a diferença;
+
+b) Se inferior ao valor da referida liquidação oficiosa, será a diferença creditada em conta corrente para efeitos de compensação em imposto que venha a mostrar-se devido;
+
+c) Se houver imposto a favor do sujeito passivo, apurado na declaração periódica, será este creditado na conta corrente para efeitos do disposto no n.º 4 do artigo 22.º do Código do IVA, ficando o valor da liquidação oficiosa disponível para compensação em imposto que venha a mostrar-se devido.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13
+
+###### Artigo 7.º — Erros na liquidação
+
+Havendo erro na liquidação resultante dos factos previstos no n.º 6 do artigo 78.º do Código do IVA e não efetuando o sujeito passivo a respetiva regularização pela forma e no prazo estabelecido no Código do IVA, a Autoridade Tributária e Aduaneira procede à retificação das declarações dos sujeitos passivos e emite a liquidação adicional que se mostrar devida, nos termos do artigo 87.º do mesmo Código, sem prejuízo de proceder a compensações com eventuais créditos que se encontrem disponíveis em conta corrente.
+
+a) (Revogada.)
+
+b) (Revogada).
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 8.º — Utilização dos créditos
+
+1 - Para efeitos de utilização em períodos de imposto seguintes, são creditados na conta corrente do sujeito passivo os seguintes montantes:
+
+a) Créditos apurados em declarações periódicas enviadas depois do termo do prazo previsto no artigo 41.º do Código do IVA;
+
+b) Créditos resultantes de declarações periódicas de substituição, submetidas no prazo estabelecido no n.º 6 do artigo 78.º do referido Código, os quais serão repercutidos nas declarações periódicas dos períodos de imposto seguintes àqueles a que se reportam.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 9.º — Pagamento inconsistente
+
+Sempre que for efetuado um pagamento que não corresponda a qualquer valor autoliquidado, deverá a respetiva importância ser creditada em conta corrente, para efeitos da sua compensação em imposto que venha posteriormente a mostrar-se devido.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 10.º — Documento único de cobrança
+
+Para efeitos do disposto no artigo 92.º do Código do IVA, a Autoridade Tributária e Aduaneira remete ao sujeito passivo devedor o documento único de cobrança a que se refere o artigo 11.º do regime da tesouraria do Estado, aprovado em anexo ao Decreto-Lei n.º 191/99, de 5 de junho.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 11.º
+
+1 - Havendo lugar à devolução de cheques por falta de provisão, a DSCIVA deverá expedir, sob registo, comunicação desse facto ao sujeito passivo devedor.
+
+2 - Havendo lugar à devolução de cheques por falta de algum dos requisitos formais que impossibilite o seu pagamento, a DSCIVA expedirá, sob registo, comunicação desse facto ao sujeito passivo devedor.
+
+3 - Nas situações referidas nos números anteriores, a DSCIVA emitirá a certidão de dívida correspondente ao imposto em falta, para efeitos do disposto no n.º 5 do artigo 26.º do Código do Imposto sobre o Valor Acrescentado.
+
+4 - Tendo em conta o disposto no número anterior, a Direcção-Geral do Tesouro comunicará, semanalmente, à Direcção-Geral das Contribuições e Impostos todas as situações previstas nos n.os 1 e 2.
+
+5 - A DSCIVA não procederá, contudo, à emissão da certidão de dívida referida no n.º 3 se o sujeito passivo tiver regularizado a dívida até à data da sua emissão.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 12.º — Pagamentos nulos
+
+São considerados nulos todos os pagamentos que, nos termos legais, não permitam a arrecadação da receita relativa ao IVA, nomeadamente os efetuados com cheques sem provisão ou sem observância dos necessários requisitos formais, procedendo a Autoridade Tributária e Aduaneira à extração de certidão de dívida, nos termos do n.º 6 do artigo 27.º do Código do IVA.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 13.º
+
+1 - Sempre que o imposto deva ser pago na tesouraria da Fazenda Pública competente, por força do disposto nos artigos 5.º e 7.º, poderá o sujeito passivo efectuar pagamentos por conta que serão considerados na dívida final.
+
+2 - Os pagamentos referidos no número anterior só poderão ser efectuados até à data em que derem entrada na repartição de finanças competente os elementos previstos nos artigos 5.º e 10.º, momento em que se restituirá ou cobrará a diferença.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 14.º — Pedido de reembolso
+
+1 - Os reembolsos do IVA são solicitados:
+
+a) Nos casos previstos nos n.os 5 e 6 do artigo 22.º do Código do IVA, através da declaração prevista na alínea c) do n.º 1 do artigo 29.º ou, tratando-se de sujeitos passivos abrangidos pelo regime especial dos pequenos retalhistas, na declaração referida na alínea b) do n.º 1 do artigo 67.º, ambas do mesmo Código;
+
+b) Nos demais casos previstos na lei, em formulário de modelo aprovado.
+
+2 - Apresentado o pedido de reembolso, fica o sujeito passivo impedido de proceder à dedução prevista no n.º 4 do artigo 22.º do Código do IVA pela respetiva importância, até à comunicação da decisão que recair sobre o pedido.
+
+3 - Para efeitos de concessão do reembolso, são considerados apenas os pedidos que constem de declaração periódica enviada dentro do respetivo prazo legal, ainda que se trate de declaração de substituição, sem prejuízo dos respetivos acertos em conta corrente resultantes de valores apurados em declarações apresentadas para além do referido prazo.
+
+4 - Sempre que o sujeito passivo seja devedor de IVA é suspensa a concessão de reembolsos que não estejam garantidos nos termos do artigo 22.º do Código do IVA, até que o imposto seja pago ou garantido nos termos do artigo 169.º do Código de Procedimento e de Processo Tributário, aprovado pelo Decreto-Lei n.º 433/99, de 26 de outubro, sem prejuízo de poder ser efetuada a compensação com créditos tributários, nos termos do artigo 90.º deste Código.
+
+5 - No caso de cessação de atividade, de alteração para um dos regimes especiais ou quando o sujeito passivo passe a praticar exclusivamente operações isentas que não conferem direito à dedução, os pedidos de reembolso apenas são considerados se solicitados em declaração apresentada dentro do prazo fixado no n.º 2 do artigo 98.º do Código do IVA.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2005-240382), em vigor a partir de 2003-07-24
+
+###### Artigo 15.º — Pagamento dos reembolsos
+
+1 - O pagamento dos reembolsos do IVA é efetuado pelo IGCP por ordem da Direção de Serviços de Reembolsos da Autoridade Tributária e Aduaneira, através de transferência bancária para conta indicada pelo sujeito passivo, que se mostre válida e vigente em qualquer instituição de crédito localizada em território nacional ou em outro Estado membro da União Europeia, ou no Espaço Económico Europeu.
+
+2 - Na falta das condições referidas no número anterior, o pagamento dos reembolsos será efetuado por cheque do IGCP.
+
+3 - O meio de pagamento a que se refere o número anterior tem o prazo de validade de 60 dias.
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 16.º
+
+1 - Nos casos em que se alegue o extravio de declarações ou de meios de pagamento que tenham sido remetidos à DSCIVA nos termos da alínea a) do n.º 1 do artigo 1.º, o sujeito passivo poderá justificar através de exposição devidamente fundamentada, que cumpriu tal obrigação, juntando sempre o talão anexo à declaração periódica como prova da sua entrega nos serviços dos correios ou fotocópia completa do cheque através da qual seja visível o endosso feito pela DSCIVA.
+
+2 - A exposição a que se refere o número anterior deverá dar entrada na repartição de finanças competente no prazo de 90 dias a contar da data em que o sujeito passivo teve conhecimento do extravio e ser acompanhada da declaração periódica e do meio de pagamento que, eventualmente, esteja em falta.
+
+3 - Apreciada a exposição e aceite a justificação alegada no sentido de não ser imputada ao sujeito passivo a responsabilidade do extravio, o director distrital de finanças remeterá para a DSCIVA as declarações e meios de pagamento referidos no número anterior.
+
+4 - São aplicáveis as normas da Lei Geral Tributária e do Código de Procedimento e de Processo Tributário relativas ao procedimento de reclamação graciosa, designadamente no que se refere à matéria de competência e às regras de tramitação dos procedimentos, em tudo o que não estiver previsto nos números anteriores.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 160/2003 - Diário da República n.º 165/2003, Série I-A de 2003-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/160-2003-670764), em vigor a partir de 2003-07-24
+
+> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 472/99 - Diário da República n.º 260/1999, Série I-A de 1999-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/472-1999-682986), em vigor a partir de 1999-11-13
+
+###### Artigo 17.º
+
+1 - Sempre que o pagamento do imposto ou o seu reembolso sejam efectuados nos termos, respectivamente, da alínea a) do n.º 1 do artigo 1.º e do artigo 14.º deste diploma e respeitem a sujeitos passivos que, no âmbito das disposições contidas no Decreto-Lei n.º 347/85, de 23 de Agosto, realizem operações exclusivamente numa das Regiões Autónomas dos Açores ou da Madeira, serão os correspondentes montantes movimentados em nome do respectivo Governo Regional.
+
+2 - No caso previsto no número anterior, e sempre que as operações sejam realizadas em qualquer das Regiões Autónomas dos Açores ou da Madeira conjuntamente com as operações localizadas no continente ou na outra Região, serão os correspondentes montantes do imposto pago ou reembolsado movimentados proporcionalmente aos valores, respectivamente, do imposto liquidado ou dedutível, imputáveis a cada um daqueles espaços.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 18.º — Anexos à declaração periódica
+
+1 - Os anexos relativos às operações que, nos termos do Decreto-Lei n.º 347/85, de 23 de agosto, alterado pela Lei n.º 2/92, de 9 de março, pelo Decreto-Lei n.º 166/94, de 9 de junho, pela Lei n.º 39-B/94, de 27 de dezembro, pelo decreto-lei n,º 91/96, de 12 de julho, e pelas Leis n.os 16-A/2002, de 31 de maio, 39/2005, de 24 de junho, 26-A/2008, de 27 de junho, 12-A/2010, de 30 de junho, e 55-A/2010, de 31 de dezembro, e pela Lei n.º 14-A/2012, de 30 de março, se considerem localizadas em cada uma das regiões autónomas, devem ser submetidos com a respetiva declaração periódica da qual são parte integrante.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 19.º
+
+A DSCIVA depositará, diariamente, nas contas da Direcção-Geral do Tesouro abertas para esse efeito nas diversas instituições de crédito a receita ilíquida arrecadada nos termos da alínea a) do n.º 1 do artigo 1.º
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 20.º
+
+Fica autorizado o Ministro das Finanças a, por despacho, criar ou alterar os modelos de livros e impressos que se tornem necessários à execução do presente diploma, bem como adaptar os actuais modelos de livros e demais elementos de escrituração das contas do Estado.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 21.º
+
+É revogado o Decreto-Lei n.º 504-M/85, de 30 de Dezembro, considerando-se como feitas ao presente diploma as referências que lhe são feitas na legislação em vigor.
+
+> Revogado pelo/a Artigo 12.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+###### Artigo 22.º — Produção de efeitos
+
+O presente diploma produz efeitos a partir de 1 de janeiro de 2012.
+
+> Alterado pelo/a Artigo 10.º do/a [Lei n.º 64/2012 - Diário da República n.º 246/2012, Série I de 2012-12-20](https://diariodarepublica.pt/dr/detalhe/lei/64-2012-190201), em vigor a partir de 2012-12-21
+
+Visto e aprovado em Conselho de Ministros de 27 de Julho de 1995. - Manuel Dias Loureiro - Eduardo de Almeida Catroga.
+
+Promulgado em 24 de Agosto de 1995.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 28 de Agosto de 1995.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

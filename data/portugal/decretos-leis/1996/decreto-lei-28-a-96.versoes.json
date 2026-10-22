@@ -1,0 +1,714 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:314395:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-114857725",
+ "dre_path": "/dr/detalhe/decreto-lei/28-a-1996-314395",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-04-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114853524",
+    "114853525",
+    "114853526",
+    "114853527",
+    "114853528",
+    "114853529",
+    "114853530",
+    "114853531",
+    "114853532",
+    "114853533",
+    "114853534",
+    "114853535",
+    "114853536",
+    "114853537",
+    "114853538",
+    "114853539",
+    "114853540",
+    "114853541",
+    "114853542",
+    "114853543",
+    "114853544",
+    "114853545",
+    "114853546",
+    "114853547",
+    "114853548",
+    "114853549",
+    "114853550",
+    "114853551",
+    "114853552",
+    "114853553",
+    "114853554",
+    "114853555",
+    "114853556",
+    "114853557"
+   ]
+  },
+  {
+   "date": "2000-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:615796:por",
+     "title": "Decreto-Lei n.º 288/2000",
+     "published": "2000-11-13",
+     "dre_path": "/dr/detalhe/decreto-lei/288-2000-615796"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "114853524",
+    "114853525",
+    "114853526",
+    "114853527",
+    "114853528",
+    "114853529",
+    "114853530",
+    "114853531",
+    "114853532",
+    "114853533",
+    "114853534",
+    "114853535",
+    "114853536",
+    "114853537",
+    "114853538",
+    "114867003",
+    "114853540",
+    "114853541",
+    "114853542",
+    "114853543",
+    "114853544",
+    "114853545",
+    "114853546",
+    "114853547",
+    "114853548",
+    "114853549",
+    "114853550",
+    "114853551",
+    "114853552",
+    "114867004",
+    "114853554",
+    "114853555",
+    "114853556",
+    "114853557",
+    "114853558"
+   ]
+  },
+  {
+   "date": "2018-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114857707:por",
+     "title": "Decreto-Lei n.º 18/2018",
+     "published": "2018-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2018-114857707"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "114853524",
+    "114853525",
+    "114853526",
+    "114853527",
+    "114853528",
+    "114867005",
+    "114853530",
+    "114867006",
+    "114867007",
+    "114853533",
+    "114853534",
+    "114853535",
+    "114853536",
+    "114853537",
+    "114853538",
+    "114867003",
+    "114853540",
+    "114853541",
+    "114853542",
+    "114853543",
+    "114853544",
+    "114853545",
+    "114853546",
+    "114853547",
+    "114853548",
+    "114853549",
+    "114853550",
+    "114853551",
+    "114853552",
+    "114867004",
+    "114853554",
+    "114853555",
+    "114853556",
+    "114853557",
+    "114853558"
+   ]
+  },
+  {
+   "date": "2023-07-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215647905:por",
+     "title": "Decreto-Lei n.º 54/2023",
+     "published": "2023-07-14",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2023-215647905"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "114853524",
+    "114853525",
+    "114853526",
+    "114853527",
+    "114853528",
+    "114867005",
+    "114853530",
+    "114867006",
+    "114867007",
+    "114853533",
+    "114853534",
+    "114853535",
+    "114853536",
+    "114853537",
+    "114853538",
+    "114867003",
+    "114853540",
+    "114853541",
+    "114853542",
+    "114853543",
+    "114853544",
+    "114853545",
+    "114853546",
+    "114853547",
+    "114853548",
+    "114853549",
+    "114853550",
+    "215713394",
+    "114853552",
+    "114867004",
+    "114853554",
+    "114853555",
+    "114853556",
+    "114853557",
+    "114853558"
+   ]
+  },
+  {
+   "date": "2025-12-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:992627247:por",
+     "title": "Decreto-Lei n.º 135/2025",
+     "published": "2025-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/135-2025-992627247"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 29.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 22.º"
+   ],
+   "fragments": [
+    "114853524",
+    "114853525",
+    "114853526",
+    "114853527",
+    "114853528",
+    "114867005",
+    "114853530",
+    "993072958",
+    "114867007",
+    "993072959",
+    "114853534",
+    "114853535",
+    "114853536",
+    "114853537",
+    "114853538",
+    "993072960",
+    "114853540",
+    "993072965",
+    "114853542",
+    "114853543",
+    "114853544",
+    "993072961",
+    "993072966",
+    "114853547",
+    "993072962",
+    "114853549",
+    "993072963",
+    "215713394",
+    "114853552",
+    "993072964",
+    "114853554",
+    "114853555",
+    "114853556",
+    "114853557",
+    "114853558",
+    "993072967"
+   ]
+  }
+ ],
+ "fragments": {
+  "114853524": {
+   "fragment_id": "114857726",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 28-A/96\n\nde 4 de Abril\n\nA Lei n.º 7/96, de 29 de Fevereiro, atribui à Presidência da República autonomia administrativa, financeira e patrimonial, definindo e regulando o funcionamento das estruturas e serviços que a integram.\n\nDe acordo com o n.º 1 do artigo 27.º da referida lei, o Governo dispõe de 30 dias após a respectiva entrada em vigor para proceder à necessária regulamentação, de modo a tornar exequível o modelo agora adoptado para a estrutura de apoio ao órgão de soberania Presidente da República.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta:"
+  },
+  "114853525": {
+   "fragment_id": "114857727",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - A Presidência da República é o conjunto de órgãos e serviços que têm por função prestar apoio ao Presidente da República, enquanto órgão de soberania.\n\n2 - A Presidência da República é dotada de autonomia administrativa, financeira e patrimonial, nos termos da lei."
+  },
+  "114853526": {
+   "fragment_id": "114857728",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1 - A Presidência da República rege-se pelo disposto na Lei n.º 7/96, de 29 de Fevereiro, e no presente diploma e, na parte em que se não mostrem revogados, pelos Decretos-Leis n.os 513-B/79 e 513-C/79, de 24 de Dezembro.\n\n2 - É aplicável, subsidiariamente, à Presidência da República a legislação em vigor para a Administração Pública, com as necessárias adaptações."
+  },
+  "114853527": {
+   "fragment_id": "114857729",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - A Casa Civil é constituída pelo chefe da Casa Civil, 12 assessores, 4 adjuntos e 15 secretários, dos quais dois são secretários pessoais do chefe da Casa Civil.\n\n2 - A Casa Civil dispõe de um corpo de consultores constituído por especialistas em diversas matérias.\n\n3 - A Casa Civil dispõe ainda de um núcleo de apoio administrativo constituído por pessoal destacado da Secretaria-Geral."
+  },
+  "114853528": {
+   "fragment_id": "114857730",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - A fim de prestar apoio ao cônjuge do Presidente da República no exercício das actividades oficiais que normalmente desenvolve, funciona, no âmbito da Casa Civil, um gabinete de apoio.\n\n2 - O gabinete de apoio é constituído por dois adjuntos e um secretário, designados de entre o pessoal referido no n.º 1 do artigo anterior."
+  },
+  "114853529": {
+   "fragment_id": "114857731",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O chefe da Casa Civil dirige a Casa Civil, assegura a coordenação dos órgãos e serviços da Presidência da República, superintende na Secretaria-Geral e exerce as demais competências previstas na lei.\n\n2 - O chefe da Casa Civil representa o Presidente da República sempre que este o determine.\n\n3 - O chefe da Casa Civil exerce ainda as competências que, no âmbito da Presidência da República, não estejam atribuídas a outro órgão.\n\n4 - O chefe da Casa Civil pode delegar competências no secretário-geral e a coordenação do núcleo de apoio administrativo e do Centro de Comunicações num dos adjuntos.\n\n5 - O chefe da Casa Civil tem direito ao vencimento e ao abono para despesas de representação previstos no artigo 13.º da Lei n.º 4/85, de 9 de Abril, na redacção que lhe é dada pela Lei n.º 102/88, de 25 de Agosto."
+  },
+  "114853530": {
+   "fragment_id": "114857732",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A Casa Militar é constituída pelo chefe da Casa Militar, três assessores e três ajudantes-de-campo, todos oficiais das Forças Armadas.\n\n2 - Integram ainda a Casa Militar quatro secretários, dos quais um é secretário pessoal do chefe da Casa Militar.\n\n3 - A Casa Militar dispõe de um ou mais funcionários administrativos destacados da Secretaria-Geral."
+  },
+  "114853531": {
+   "fragment_id": "114857733",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - O chefe da Casa Militar dirige a Casa Militar, representa o Presidente da República sempre que este o determine e assegura a ligação entre o Presidente da República e as autoridades militares.\n\n2 - O chefe da Casa Militar é um oficial de patente não inferior a oficial superior.\n\n3 - O chefe da Casa Militar tem direito ao vencimento e ao abono para despesas de representação previstos no n.º 5 do artigo 5.º"
+  },
+  "114853532": {
+   "fragment_id": "114857734",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1 - O Gabinete é um serviço de apoio directo e pessoal ao Presidente da República.\n\n2 - O Gabinete é constituído por um chefe de gabinete, dois adjuntos e quatro secretários pessoais."
+  },
+  "114853533": {
+   "fragment_id": "114857735",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - O chefe de gabinete dirige e coordena o Gabinete e representa o Presidente da República sempre que este o determine.\n\n2 - O chefe de gabinete tem direito ao vencimento fixado na lei para o cargo de director-geral, acrescido de um abono para despesas de representação de montante igual ao estabelecido no n.º 5 do artigo 5.º"
+  },
+  "114853534": {
+   "fragment_id": "114857736",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1 - O Serviço de Segurança tem as funções e a composição a que alude o artigo 10.º da Lei n.º 7/96, de 29 de Fevereiro.\n\n2 - O Serviço de Segurança é dirigido por um chefe de serviço, que é o oficial de segurança do Presidente da República, sendo coadjuvado por um adjunto."
+  },
+  "114853535": {
+   "fragment_id": "114857737",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1 - O Centro de Comunicações assegura, sob a coordenação do chefe da Casa Civil, os sistemas de comunicações da Presidência da República, em articulação com os restantes órgãos e serviços, bem como com entidades exteriores à Presidência da República.\n\n2 - O Centro de Comunicações dispõe de técnicos, civis ou militares, de entre os quais será designado o respectivo chefe."
+  },
+  "114853536": {
+   "fragment_id": "114857738",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nO Serviço de Apoio Médico tem as funções previstas no n.º 1 do artigo 12.º da Lei n.º 7/96, de 29 de Fevereiro, e é constituído por dois médicos e três profissionais de enfermagem."
+  },
+  "114853537": {
+   "fragment_id": "114857739",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - O Conselho Administrativo tem a composição e as competências previstas nos artigos 13.º e 14.º da Lei n.º 7/96, de 29 de Fevereiro.\n\n2 - O Conselho Administrativo reúne sempre que convocado pelo respectivo presidente."
+  },
+  "114853538": {
+   "fragment_id": "114857740",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA Secretaria-Geral é o serviço de apoio administrativo à Presidência da República e tem as funções previstas no artigo 15.º da Lei n.º 7/96, de 29 de Fevereiro."
+  },
+  "114853539": {
+   "fragment_id": "114857741",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - Para além da competência resultante da lei ou de delegação, compete ao secretário-geral dirigir, coordenar e orientar os serviços em termos equivalentes a director-geral.\n\n2 - O secretário-geral tem direito a um abono para despesas de representação igual ao que está fixado no n.º 5 do artigo 5.º\n\n3 - O secretário-geral é substituído, nas suas faltas e impedimentos, pelo respectivo adjunto ou, se o não houver, pelo director dos Serviços Administrativos."
+  },
+  "114853540": {
+   "fragment_id": "114857742",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - O pessoal a que se referem os artigos 3.º, 6.º, 8.º, 10.º, n.º 2, 11.º, n.º 2, e 12.º deste diploma é nomeado e exonerado livremente pelo Presidente da República, sem prejuízo da caducidade da relação de emprego por virtude da cessação do mandato presidencial, e entra em funções independentemente da publicação do respectivo despacho de nomeação no Diário da República.\n\n2 - A nomeação do pessoal a que se refere o n.º 1, quando recair em indivíduos vinculados por relações de emprego, público ou privado, será acompanhada de comunicação à entidade competente e os mesmos exercerão as suas funções em regime de comissão de serviço, se se tratar de magistrados, funcionários ou agentes da administração central, regional ou local, em regime de comissão normal, no caso de militares ou de membros das forças de segurança, e em regime de requisição, quando se tratar de trabalhadores de institutos públicos ou de empresas públicas ou privadas, sem prejuízo, neste caso, da anuência dos respectivos órgãos de gestão.\n\n3 - Quando os providos sejam magistrados, funcionários ou agentes da Administração, não se considera aberta vaga no quadro de origem, podendo, no entanto, o respectivo lugar ser preenchido interinamente.\n\n4 - Os providos a que se refere o presente artigo conservam o direito ao lugar de origem e não podem ser prejudicados, por causa do exercício das suas funções, no regime de segurança social por que estão abrangidos e na sua carreira profissional, bem como nos seus direitos, regalias, subsídios e outros benefícios sociais de que gozem nos serviços de origem.\n\n5 - O tempo de serviço prestado pelo pessoal a que se refere este artigo considera-se, para todos os efeitos, incluindo estágio, promoção e progressão, como prestado no serviço de origem ou nas condições necessárias para os referidos efeitos.\n\n6 - No caso de os providos se encontrarem, à data da nomeação, investidos em cargo público de exercício temporário por virtude da lei, acto ou contrato, ou em comissão de serviço, o exercício de funções na Presidência da República suspende o respectivo prazo.\n\n7 - O exercício de funções na Presidência da República suspende a contagem de prazos para a apresentação de relatórios ou prestações de provas para a carreira docente do ensino superior ou para a carreira de investigação científica.\n\n8 - O pessoal a que se refere este artigo goza da faculdade de optar pelas remunerações de origem."
+  },
+  "114853541": {
+   "fragment_id": "114857743",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nSão aplicáveis à Presidência da República, com as devidas adpatações, os artigos 9.º e 10.º do Decreto-Lei n.º 322/88, de 23 de Setembro, na redacção dada pelo Decreto-Lei n.º 45/92, de 4 de Abril, cabendo a competência para a prática dos actos respectivos ao chefe da Casa Civil."
+  },
+  "114853542": {
+   "fragment_id": "114857744",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - Ao pessoal a que se referem os artigos 3.º, 6.º, 8.º, 10.º, n.º 2, 11.º, n.º 2, 12.º e 15.º, com exclusão do pessoal de apoio administrativo às Casas Civil e Militar e dos técnicos civis do Centro de Comunicações, não é devida qualquer remuneração por trabalho extraordinário ou em dias de descanso semanal, complementar ou feriados.\n\n2 - O pessoal a que se refere o artigo anterior, com excepção do pessoal do Serviço de Apoio Médico, desempenha funções em regime de exclusividade, com excepção do exercício de actividades docentes em instituições de ensino superior ou de investigação científica, devidamente autorizadas.\n\n3 - O pessoal a que se referem os números anteriores pode ainda exercer, em instituições públicas ou privadas, funções não remuneradas de relevante interesse público, devidamente autorizadas.\n\n4 - O desempenho do cargo de consultor não implica a cessação ou suspensão do exercício de outras funções, públicas ou privadas."
+  },
+  "114853543": {
+   "fragment_id": "114857745",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1 - Mantêm-se em vigor para os assessores, os adjuntos e os secretários do Gabinete, da Casa Civil e da Casa Militar as remunerações previstas, respectivamente, nas alíneas b), c) e d) do artigo 2.º do Decreto-Lei n.º 25/88, de 30 de Janeiro.\n\n2 - Aos titulares dos cargos referidos no número anterior será atribuído um abono mensal para despesas de representação, a fixar por despacho do Presidente da República, em valor não superior ao montante atribuído aos secretários de Estado.\n\n3 - Para efeitos do disposto no presente artigo, os ajudantes-de-campo são equiparados a adjuntos."
+  },
+  "114853544": {
+   "fragment_id": "114857746",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1 - Os montantes das remunerações a atribuir aos consultores e ao pessoal do Serviço de Apoio Médico são fixados livremente pelo Presidente da República nos despachos que os nomearam.\n\n2 - O mesmo despacho fixará também o montante do abono para despesas de representação, quando a ele haja lugar, e as condições em que prestam serviço na Presidência da República.\n\n3 - O oficial de segurança e respectivo adjunto têm direito a um abono para despesas de representação de montante a fixar pelo Presidente da República.\n\n4 - Aos elementos do Serviço de Segurança não referidos no número anterior, bem como aos militares do Centro de Comunicações, são aplicáveis as disposições do Decreto-Lei n.º 434-B1/82, de 29 de Outubro, e do Decreto-Lei n.º 148/89, de 8 de Maio, com as devidas adaptações."
+  },
+  "114853545": {
+   "fragment_id": "114857747",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - Ao pessoal da Secretaria-Geral e do Centro de Documentação e Informação são aplicáveis as disposições legais do regime geral da função pública, sem prejuízo do disposto no número seguinte.\n\n2 - O pessoal referido no número anterior, bem como o pessoal civil referido no artigo 11.º, têm um regime especial de prestação de trabalho que pode implicar serem excedidos os limites fixados na lei para a prestação de trabalho extraordinário ou em dias de descanso semanal, descanso complementar e feriados."
+  },
+  "114853546": {
+   "fragment_id": "114857748",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1 - Para o desempenho de funções que, pela sua especificidade, não se revelem adequadas ao conteúdo funcional das categorias ou carreiras de pessoal da Administração Pública, podem efectuar-se contratações segundo o regime do contrato individual de trabalho.\n\n2 - As funções a desempenhar serão delimitadas pelo clausulado dos contratos, pelos regulamentos internos da Presidência da República e pelas ordens e instruções emanadas dos funcionários competentes."
+  },
+  "114853547": {
+   "fragment_id": "114857749",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nSem prejuízo da oportuna revisão dos quadros de pessoal previstos na legislação referida no n.º 1 do artigo 2.º, são desde já acrescentados ao quadro da Secretaria-Geral os lugares constantes do mapa anexo."
+  },
+  "114853548": {
+   "fragment_id": "114857750",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nO pessoal da Presidência da República fica abrangido pelos Serviços Sociais da Presidência do Conselho de Ministros."
+  },
+  "114853549": {
+   "fragment_id": "114857751",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nO Conselho Administrativo pode, em regulamento interno, estabelecer normas adequadas à especificidade da Presidência da República no que diz respeito a contratos de seguro do pessoal que se desloque em serviço."
+  },
+  "114853550": {
+   "fragment_id": "114857752",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nO pessoal da Presidência da República tem direito a um cartão de identificação cuja utilização e modelo serão regulamentados por portaria do Ministro da Presidência."
+  },
+  "114853551": {
+   "fragment_id": "114857753",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO regime financeiro da Presidência da República é o estabelecido na Lei n.º 7/96 e no presente diploma e, com as devidas adaptações, na Lei n.º 8/90, de 20 de Fevereiro, no Decreto-Lei n.º 155/92, de 28 de Julho, e demais legislação complementar."
+  },
+  "114853552": {
+   "fragment_id": "114857754",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1 - A Presidência da República utiliza sistemas de contabilidade adequados à autonomia administrativa, financeira e patrimonial que detém.\n\n2 - A actividade financeira será disciplinada pelos instrumentos de gestão e controlo adequados, sem prejuízo dos que são exigidos em sede de fiscalização sucessiva do Tribunal de Contas."
+  },
+  "114853553": {
+   "fragment_id": "114857755",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1 - A Presidência da República obriga-se mediante a assinatura de dois membros do Conselho Administrativo, um dos quais o respectivo presidente, bastando, relativamente a actos de mero expediente e a casos em que o presidente delegue aquela competência, a assinatura de um dos membros daquele órgão.\n\n2 - Para a movimentação de valores, a Presidência da República obriga-se pela assinatura de dois membros do Conselho Administrativo, sendo um deles, obrigatoriamente, o secretário-geral."
+  },
+  "114853554": {
+   "fragment_id": "114857756",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1 - Sempre que tal se revele estritamente necessário, pode ser autorizada, por deliberação do Conselho Administrativo, sob proposta fundamentada do chefe da Casa Civil ou do secretário-geral, a celebração de contratos de prestação de serviços ou de aquisição de bens com dispensa de formalidades legais, sem prejuízo de, em todos os casos, serem observados procedimentos que preservem a transparência e a economia das contratações.\n\n2 - Os contratos celebrados ao abrigo do número anterior que, nos termos da lei, devam ser submetidos à fiscalização prévia do Tribunal de Contas podem produzir os respectivos efeitos, sem prejuízo da sua imediata remessa para visto daquele Tribunal."
+  },
+  "114853555": {
+   "fragment_id": "114857757",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nMantêm-se até ao seu termo as comissões de serviço do pessoal dirigente da secretaria-geral e do Centro de Documentação e Informação."
+  },
+  "114853556": {
+   "fragment_id": "114857758",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nA cobertura dos encargos originados pelo presente diploma será assegurada, no presente ano económico, pelo adequado reforço das verbas inicialmente inscritas."
+  },
+  "114853557": {
+   "fragment_id": "114857759",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nO presente diploma produz efeitos a partir de 9 de Março de 1996."
+  },
+  "114867003": {
+   "fragment_id": "114857741",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2000-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Para além da competência resultante da lei ou de delegação, compete ao secretário-geral-adjunto dirigir, coordenar e orientar os serviços em termos equivalentes a director-geral.\n\n2 - O secretário-geral-adjunto tem direito a um abono para despesas de representação igual ao que está fixado no n.º 5 do artigo 5.º\n\n3 - O secretário-geral-adjunto é substituído, nas suas faltas e impedimentos, pelo respectivo adjunto ou, se o não houver, pelo director dos Serviços Administrativos.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+  },
+  "114867004": {
+   "fragment_id": "114857755",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2000-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+   ],
+   "markdown": "###### Artigo 29.º\n\n1 - A Presidência da República obriga-se mediante a assinatura de dois membros do Conselho Administrativo, um dos quais o respectivo presidente, bastando, relativamente a actos de mero expediente e a casos em que o presidente delegue aquela competência, a assinatura de um dos membros daquele órgão.\n\n2 - Para a movimentação de valores, a Presidência da República obriga-se pela assinatura de dois membros do conselho administrativo, sendo um deles o secretário-geral ou, no seu impedimento, o director de serviços Administrativos e Financeiros.\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+  },
+  "114853558": {
+   "fragment_id": "114857760",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Março de 1996. - António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino - António Manuel de Carvalho Ferreira Vitorino - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 3 de Abril de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Abril de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "114867005": {
+   "fragment_id": "114857731",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2018-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O chefe da Casa Civil dirige a Casa Civil, assegura a coordenação dos órgãos e serviços da Presidência da República, superintende na Secretaria-Geral e exerce as demais competências previstas na lei.\n\n2 - O chefe da Casa Civil representa o Presidente da República sempre que este o determine.\n\n3 - O chefe da Casa Civil exerce ainda as competências que, no âmbito da Presidência da República, não estejam atribuídas a outro órgão.\n\n4 - O Chefe da Casa Civil, nas suas ausências, faltas ou impedimentos, é substituído no exercício das suas competências e funções por quem este designar para o efeito de entre os membros nomeados da Casa Civil ou pelo Secretário do Conselho de Estado.\n\n5 - O chefe da Casa Civil pode delegar competências no secretário-geral e a coordenação do núcleo de apoio administrativo e do Centro de Comunicações num dos adjuntos.\n\n6 - O chefe da Casa Civil tem direito ao vencimento e ao abono para despesas de representação previstos no artigo 13.º da Lei n.º 4/85, de 9 de Abril, na redacção que lhe é dada pela Lei n.º 102/88, de 25 de Agosto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+  },
+  "114867006": {
+   "fragment_id": "114857733",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2018-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O chefe da Casa Militar dirige a Casa Militar, representa o Presidente da República sempre que este o determine e assegura a ligação entre o Presidente da República e as autoridades militares.\n\n2 - O chefe da Casa Militar é um oficial de patente não inferior a oficial superior.\n\n3 - O Chefe da Casa Militar, nas suas ausências, faltas ou impedimentos, é substituído no exercício das suas competências e funções por quem este designar para o efeito de entre os membros nomeados da Casa Militar ou pelo Secretário do Conselho Superior de Defesa Nacional.\n\n4 - O chefe da Casa Militar tem direito ao vencimento e ao abono para despesas de representação previstos no n.º 5 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+  },
+  "114867007": {
+   "fragment_id": "114857734",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2018-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1 - O Gabinete é um serviço de apoio directo e pessoal ao Presidente da República.\n\n2 - O Gabinete é constituído por um chefe de gabinete, dois adjuntos e quatro secretários pessoais.\n\n3 - Não sendo designado um chefe de gabinete, as suas funções são exercidas pelo Chefe da Casa Civil.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+  },
+  "215713394": {
+   "fragment_id": "114857753",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2023-07-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 54/2023 - Diário da República n.º 136/2023, Série I de 2023-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), em vigor a partir de 2023-07-15"
+   ],
+   "markdown": "###### Artigo 27.º\n\n1 - O regime financeiro da Presidência da República é o estabelecido na Lei n.º 7/96 e no presente diploma e, com as devidas adaptações, na Lei n.º 8/90, de 20 de Fevereiro, no Decreto-Lei n.º 155/92, de 28 de Julho, e demais legislação complementar.\n\n2 - Os saldos positivos apurados no fim de cada ano económico, são transferidos automaticamente para a gerência do ano seguinte e distribuídos pelo Conselho Administrativo pelas rubricas que se mostre necessário reforçar.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 54/2023 - Diário da República n.º 136/2023, Série I de 2023-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2023-215647905), em vigor a partir de 2023-07-15"
+  },
+  "993072958": {
+   "fragment_id": "114857733",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1 - O chefe da Casa Militar dirige a Casa Militar, representa o Presidente da República sempre que este o determine e assegura a ligação entre o Presidente da República e as autoridades militares.\n\n2 - O chefe da Casa Militar é um oficial de patente não inferior a oficial superior.\n\n3 - O Chefe da Casa Militar, nas suas ausências, faltas ou impedimentos, é substituído no exercício das suas competências e funções por quem este designar para o efeito de entre os membros nomeados da Casa Militar ou pelo Secretário do Conselho Superior de Defesa Nacional.\n\n4 - O chefe da Casa Militar tem direito ao vencimento e ao abono para despesas de representação de montante igual ao estabelecido no n.º 6 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2018 - Diário da República n.º 52/2018, Série I de 2018-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2018-114857707), em vigor a partir de 2018-03-15"
+  },
+  "993072959": {
+   "fragment_id": "114857735",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - O chefe de gabinete dirige e coordena o Gabinete e representa o Presidente da República sempre que este o determine.\n\n2 - O chefe de gabinete tem direito ao vencimento fixado na lei para o cargo de diretor-geral, acrescido de um abono para despesas de representação de montante igual ao estabelecido no n.º 6 do artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+  },
+  "993072960": {
+   "fragment_id": "114857741",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1 - Para além da competência resultante da lei ou de delegação, compete ao secretário-geral-adjunto dirigir, coordenar e orientar os serviços em termos equivalentes a director-geral.\n\n2 - O secretário-geral tem direito a um abono para despesas de representação de montante igual ao estabelecido no n.º 6 do artigo 5.º\n\n3 - O secretário-geral-adjunto é substituído, nas suas faltas e impedimentos, pelo respectivo adjunto ou, se o não houver, pelo director dos Serviços Administrativos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+  },
+  "993072965": {
+   "fragment_id": "114857743",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+   ],
+   "markdown": "###### Artigo 17.º\n\nSão aplicáveis à Presidência da República, com as devidas adpatações, os artigos 9.º e 10.º do Decreto-Lei n.º 322/88, de 23 de Setembro, na redacção dada pelo Decreto-Lei n.º 45/92, de 4 de Abril, cabendo a competência para a prática dos actos respectivos ao chefe da Casa Civil.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+  },
+  "993072961": {
+   "fragment_id": "114857747",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+   ],
+   "markdown": "###### Artigo 21.º\n\n1 - Ao pessoal da Secretaria-Geral são aplicáveis as disposições legais do regime geral da função pública, sem prejuízo do disposto no número seguinte.\n\n2 - O pessoal referido no número anterior, bem como o pessoal civil referido no artigo 11.º, têm um regime especial de prestação de trabalho que pode implicar serem excedidos os limites fixados na lei para a prestação de trabalho extraordinário ou em dias de descanso semanal, descanso complementar e feriados.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+  },
+  "993072966": {
+   "fragment_id": "114857748",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+   ],
+   "markdown": "###### Artigo 22.º\n\n1 - Para o desempenho de funções que, pela sua especificidade, não se revelem adequadas ao conteúdo funcional das categorias ou carreiras de pessoal da Administração Pública, podem efectuar-se contratações segundo o regime do contrato individual de trabalho.\n\n2 - As funções a desempenhar serão delimitadas pelo clausulado dos contratos, pelos regulamentos internos da Presidência da República e pelas ordens e instruções emanadas dos funcionários competentes.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+  },
+  "993072962": {
+   "fragment_id": "114857750",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+   ],
+   "markdown": "###### Artigo 24.º\n\nO pessoal da Presidência da República fica abrangido pelos Serviços Sociais da Administração Pública.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+  },
+  "993072963": {
+   "fragment_id": "114857752",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+   ],
+   "markdown": "###### Artigo 26.º\n\nO pessoal da Presidência da República tem direito a um cartão de identificação cuja utilização e modelos são objeto de regulamento a aprovar pelo Conselho Administrativo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09"
+  },
+  "993072964": {
+   "fragment_id": "114857755",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2025-12-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09",
+    "Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+   ],
+   "markdown": "###### Artigo 29.º\n\n1 - A Presidência da República obriga-se mediante a assinatura de dois membros do Conselho Administrativo, um dos quais o respectivo presidente, bastando, relativamente a actos de mero expediente e a casos em que o presidente delegue aquela competência, a assinatura de um dos membros daquele órgão.\n\n2 - Para movimentação de valores, a Presidência da República obriga-se pela assinatura de dois membros do Conselho Administrativo, sendo um deles, obrigatoriamente, o secretário-geral ou quem o substitua.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2025 - Diário da República n.º 247/2025, Série I de 2025-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2025-992627247), em vigor a partir de 2025-12-25, produz efeitos a partir de 2026-03-09\n\n> Alterado pelo/a Artigo 23.º do/a [Decreto-Lei n.º 288/2000 - Diário da República n.º 262/2000, Série I-A de 2000-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/288-2000-615796), em vigor a partir de 2000-12-01"
+  },
+  "993072967": {
+   "fragment_id": "993720577",
+   "type": 14,
+   "heading": "Mapa a que se refere o artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Mapa a que se refere o artigo 23.º\n\n(ver documento original)"
+  }
+ }
+}

@@ -1,0 +1,284 @@
+---
+schema_version: '1.0'
+id: pt:dre:1006464120:por
+title: Decreto-Lei n.º 6/2026
+short_title: null
+summary: Cria o Estatuto do Jovem Pescador e define o respetivo procedimento de reconhecimento.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Agricultura e Mar
+official_number: 6/2026
+official_date: null
+publication_date: '2026-01-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 9/2026, Série I de 2026-01-14
+  number: '9'
+  series: I
+  supplement: null
+  pages: 41 - 45
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/01/00900/0004100045.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/6/2026/01/14/p/dre/pt/html
+  oj: null
+  dre: '1006464120'
+  dre_path: /dr/detalhe/decreto-lei/6-2026-1006464120
+  internal: pt:dre:1006464120:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2026-1006464120
+  metadata_url: https://data.dre.pt/eli/dec-lei/6/2026/01/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2026-1006464120
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-01-14T00:00:00Z'
+integrity:
+  source_sha256: 2542e27085114ebbc69a75d5eb2857d8e7f975d9349e1b363e87576dcf2587ca
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-6-1006464120.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Certificação Electrónica
+- Igualdade de Tratamento
+- Estatuto
+- Fiscalização
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Página na Internet
+- Pessoa Coletiva
+- Pessoa Singular
+- Comissão para a Cidadania e a Igualdade de Género
+- Governo
+- Jovem Pescador
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/372/2007/11/06/p/dre
+article_structure:
+  article_count: 11
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 6/2026
+
+de 14 de janeiro
+
+A valorização das atividades da pesca e da aquicultura, associada à renovação geracional e à promoção da sustentabilidade, assume especial relevância para o reforço da coesão territorial, do património cultural ligado à pesca e para o desenvolvimento das comunidades costeiras, lagunares e ribeirinhas.
+
+O fortalecimento do setor exige a implementação de incentivos ao empreendedorismo e de políticas de renovação geracional, orientadas para o rejuvenescimento da força de trabalho e para a fixação de jovens e novos profissionais nas atividades da pesca e da aquicultura. Tal valorização deve abranger o armador, o pescador e o titular de estabelecimento aquícola que, em conjunto, asseguram a sustentabilidade e competitividade destas atividades.
+
+Nesse quadro, a renovação geracional constitui um dos eixos estratégicos do Programa do XXV Governo Constitucional, impondo a adoção de medidas eficazes que assegurem formação e assistência às novas gerações de pescadores profissionais e aquicultores.
+
+Atendendo às dificuldades inerentes ao exercício destas atividades, importa criar mecanismos de apoio que garantam a integração de jovens e novos profissionais, incluindo os que ingressam no setor pela primeira vez, assegurando-lhes condições adequadas para iniciar e consolidar o seu percurso profissional, com especial atenção às necessidades diferenciadas de armadores, pescadores e titulares de estabelecimentos aquícolas.
+
+O Estatuto do Jovem Pescador estabelece um programa de formação, capacitação digital, assistência técnica e parcerias locais, contribuindo para uma pesca e aquicultura mais eficientes, sustentáveis e competitivas, bem como para a diversificação da economia do setor.
+
+A pesca e a aquicultura constituem expressões identitárias do território nacional, não apenas pelo dinamismo económico, turístico e gastronómico que geram, mas também pelo contributo para a coesão social e para a integração dos elementos mais vulneráveis dessas comunidades.
+
+Perante este contexto, justifica-se a criação do Estatuto do Jovem Pescador, sublinhando a relevância das atividades da pesca e da aquicultura enquanto pilares estratégicos da segurança alimentar, da criação de emprego e do desenvolvimento sustentável das comunidades marítimas e ribeirinhas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — DISPOSIÇÕES GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei cria o Estatuto do Jovem Pescador e define o respetivo procedimento de reconhecimento.
+
+###### Artigo 2.º — Objetivos
+
+A criação do Estatuto do Jovem Pescador visa prosseguir os seguintes objetivos:
+
+a) Promover a instalação e a fixação de jovens na pesca profissional e na aquicultura, visando a sua dinamização económica e demográfica e a criação de emprego;
+
+b) Contribuir para a diversificação da base económica regional, promovendo a inovação, a criação de novas empresas e de investimentos nas zonas costeiras, lagunares e ribeirinhas;
+
+c) Valorizar e qualificar a atividade do jovem pescador e aquicultor, promovendo a sua integração em novos circuitos de comercialização e incentivando práticas inovadoras e ambientalmente sustentáveis;
+
+d) Promover a igualdade de género nas atividades e benefícios decorrentes do Estatuto.
+
+### CAPÍTULO II — RECONHECIMENTO DO ESTATUTO
+
+###### Artigo 3.º — Requisitos
+
+1 - Podem beneficiar do presente Estatuto as pessoas singulares e coletivas que exerçam ou pretendam iniciar uma atividade profissional em território nacional nas áreas da pesca, da aquicultura ou da economia do mar diretamente ligada à pesca, enquanto armador, pescador ou titular de estabelecimento aquícola.
+
+2 - No caso de pessoas singulares, os requerentes devem ter idade até aos 40 anos, inclusive.
+
+3 - No caso de pessoas coletivas, os requerentes devem:
+
+a) Enquadrar-se como micro ou pequena empresa certificada, nos termos previstos no anexo ao [Decreto-Lei n.º 372/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-2007-629439), de 6 de novembro, na sua redação atual; e
+
+b) Assegurar que a maioria do capital social ou dos direitos de voto pertence a uma ou mais pessoas singulares que cumpram o requisito de idade referido no n.º 2 e que detenham a qualidade de sócio ou gerente.
+
+###### Artigo 4.º — Procedimento
+
+1 - O reconhecimento do Estatuto do Jovem Pescador obtém-se com a atribuição do respetivo título.
+
+2 - O pedido de reconhecimento é efetuado no Balcão Eletrónico do Mar, disponível no sítio www.Bmar.pt.
+
+3 - O formulário previsto no número anterior deve ser instruído com a seguinte documentação:
+
+a) No caso de pessoas singulares, cópia de documento de identificação;
+
+b) No caso de pessoas coletivas:
+
+i) Chave de acesso à certidão permanente da conservatória do registo comercial ou cópia da mesma, acompanhado dos documentos de identificação dos sócios; e
+
+ii) Documento comprovativo de que a maioria do capital social ou dos direitos de voto pertence a uma ou mais pessoas singulares que cumpram o requisito de idade referido no n.º 2 do artigo 3.º
+
+4 - Quando o requerente já exerça uma atividade profissional abrangida pelo presente Estatuto, deve indicar o respetivo código de atividade económica (CAE), incumbindo à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) verificar a validade e vigência do Documento Único da Pesca (DUP), da inscrição no rol de tripulantes de uma determinada embarcação, ou do Título de Atividade Aquícola (TAA), consoante o caso.
+
+5 - Quando o requerente ainda não exerça uma atividade profissional abrangida pelo presente Estatuto, deverá tal informação constar do pedido de reconhecimento do Estatuto, com observância do seguinte:
+
+a) No caso de o requerente pretender ser armador, a DGRM emitirá o DUP no prazo de 30 dias a contar da data da submissão do pedido de reconhecimento do Estatuto, desde que verificados os requisitos necessários para o efeito, nos termos da legislação aplicável à data de submissão do pedido;
+
+b) No caso de o requerente pretender ser pescador, deverá frequentar a formação exigida nos termos da legislação aplicável à data de submissão do pedido e, posteriormente, requerer a sua inscrição no rol de tripulantes de uma determinada embarcação, na respetiva Capitania; ou
+
+c) No caso de o requerente pretender ser aquicultor, a DGRM emitirá o TAA no prazo de 30 dias a contar da data da submissão do pedido de reconhecimento do Estatuto, desde que verificados os requisitos necessários para o efeito, nos termos da legislação aplicável à data de submissão do pedido.
+
+6 - Para os efeitos do número anterior, o requerente deverá, com o pedido de reconhecimento do Estatuto, submeter a documentação legalmente exigível, consoante o caso.
+
+7 - Caso se encontre em falta a documentação necessária para efeitos de reconhecimento do Estatuto, a DGRM deverá, no prazo de 15 dias a contar da data da submissão do pedido de reconhecimento do Estatuto, notificar o requerente, num único pedido, para vir juntar toda a documentação em falta.
+
+8 - Nos casos previstos no n.º 5, o pedido de reconhecimento do Estatuto é indeferido, de forma automática, quando se verifique uma das seguintes situações:
+
+a) No caso de o requerente pretender ser armador, quando a DGRM recuse a emissão do DUP;
+
+b) No caso de o requerente pretender ser pescador, quando não conclua, com aproveitamento, a formação mínima exigida nos termos da legislação aplicável à data de submissão do pedido e posterior inscrição no rol de tripulantes de uma determinada embarcação, na respetiva Capitania, no prazo de seis meses a contar da data da submissão do pedido de reconhecimento;
+
+c) No caso de o requerente pretender ser aquicultor, quando a DGRM recuse a emissão do TAA.
+
+###### Artigo 5.º — Decisão
+
+1 - O dirigente máximo da DGRM decide sobre a atribuição do título de reconhecimento no prazo máximo de 60 dias úteis contados a partir da receção do pedido de reconhecimento.
+
+2 - O título de reconhecimento é um certificado digital disponibilizado por via eletrónica, cuja verificação pode ser realizada através da leitura de um QRCode ou através do código de rastreio no sítio www.portugueseflagcontrol.pt.
+
+###### Artigo 6.º — Validade e renovação
+
+1 - O título de reconhecimento tem a validade de três anos, devendo o respetivo prazo constar do código de acesso.
+
+2 - O título de reconhecimento é renovável, mediante apresentação de novo formulário, desde que se mantenham as condições que determinaram a atribuição do Estatuto.
+
+3 - Para efeitos de renovação do título de reconhecimento, o formulário previsto no número anterior deve ser instruído com a indicação do CAE, incumbindo à DGRM verificar a validade e vigência do DUP ou do TAA, conforme o caso.
+
+4 - No caso de pessoas coletivas, a acrescer à informação mencionada no número anterior, deve ser disponibilizada a documentação mencionada na alínea b) do n.º 3 do artigo 4.º, devidamente atualizada.
+
+5 - Por sua iniciativa, a todo o tempo, o interessado pode pedir o cancelamento do Estatuto, a correção ou atualização de dados nele constantes.
+
+### CAPÍTULO III — MEDIDAS DE APOIO E DEVERES DO TITULAR DO ESTATUTO
+
+###### Artigo 7.º — Medidas de apoio
+
+1 - A atribuição do título de reconhecimento do Estatuto permite o acesso a medidas de discriminação positiva, medidas de caráter facilitador e outras iniciativas específicas, disponibilizadas pelos instrumentos de política de apoio. As entidades gestoras de programas ou iniciativas de apoio, nacionais ou da União Europeia, devem integrar e promover tais medidas, nos termos dos respetivos regulamentos e dotações financeiras, divulgando-as junto dos detentores do Estatuto.
+
+2 - Consideram-se medidas de discriminação positiva, designadamente:
+
+a) Prioridade na atribuição da licença de pesca e da atividade aquícola;
+
+b) Aconselhamento da DGRM sobre os apoios disponíveis, designadamente sobre o acesso aos apoios do Mar 2030;
+
+c) Abertura de concursos e apoios específicos;
+
+d) Prioridade na seleção e hierarquização de candidaturas;
+
+e) Criação de linhas de crédito específicas;
+
+f) Redução da taxa de ocupação dos armazéns de aprestos cuja propriedade seja de uma entidade pública;
+
+g) Redução da Tarifa de Uso do Porto, designadamente a taxa de acostagem;
+
+h) Redução da taxa de utilização dos contentores destinados à guarda de aprestos.
+
+3 - Consideram-se medidas de caráter facilitador, designadamente:
+
+a) Possibilidade de apoio integrado através de diferentes instrumentos de política pública aplicáveis ao setor;
+
+b) Acesso prioritário a estruturas de apoio coletivo no setor das pescas e da economia do mar, incluindo:
+
+i) Redes de capacitação e empreendedorismo ligadas à pesca e à economia azul;
+
+ii) Estruturas de suporte a iniciativas inovadoras, como cooperativas, associações de produtores, centros de incubação especializados em pesca e aquicultura e programas de mentoria adaptados ao setor;
+
+c) Acesso prioritário a formação profissional específica.
+
+###### Artigo 8.º — Obrigações do titular do Estatuto
+
+Constituem obrigações do titular do Estatuto:
+
+a) Comunicar à DGRM, no prazo de 10 dias úteis a contar da data da alteração, qualquer facto que afete os requisitos de reconhecimento;
+
+b) Colaborar com a DGRM e outras entidades competentes na realização de controlos que venham a ser determinados para comprovar o cumprimento dos requisitos de reconhecimento.
+
+### CAPÍTULO IV — FISCALIZAÇÃO
+
+###### Artigo 9.º — Controlo
+
+1 - A DGRM procede ao controlo do cumprimento dos requisitos de atribuição do título de reconhecimento do Estatuto.
+
+2 - Os titulares do Estatuto são obrigados a permitir o acesso e a fornecer todos os elementos necessários à realização do controlo.
+
+###### Artigo 10.º — Perda da qualidade de titular do Estatuto e devolução dos montantes recebidos
+
+1 - A verificação superveniente da falta de qualquer dos pressupostos previstos no artigo 3.º implica a perda da qualidade de titular do Estatuto.
+
+2 - A utilização abusiva ou fraudulenta do título de reconhecimento com o intuito de obter benefícios implica a perda da qualidade de titular do Estatuto, bem como a obrigação de devolução dos montantes recebidos, a determinar no prazo máximo de cinco anos após a cessação da vigência do título.
+
+3 - A competência para as decisões previstas no presente artigo é do dirigente máximo da DGRM.
+
+### CAPÍTULO V — DISPOSIÇÃO FINAL
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 60 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 11 de dezembro de 2025. - Luís Montenegro - Rui Miguel Ladeira Pereira.
+
+**Promulgado em 23 de dezembro de 2025.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 29 de dezembro de 2025.**
+
+Pelo Primeiro-Ministro, Paulo Artur dos Santos de Castro de Campos Rangel, Ministro de Estado e dos Negócios Estrangeiros.

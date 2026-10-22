@@ -1,0 +1,193 @@
+---
+schema_version: '1.0'
+id: pt:dre:215486101:por
+title: Portaria n.º 197/2023
+short_title: null
+summary: Define o regime jurídico da apanha de bivalves com tamanho inferior ao tamanho mínimo de referência de conservação,
+  exclusivamente para repovoamento de estabelecimentos de aquicultura
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 197/2023
+official_date: null
+publication_date: '2023-07-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2023, Série I de 2023-07-11
+  number: '133'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13300/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/197/2023/07/11/p/dre/pt/html
+  oj: null
+  dre: '215486101'
+  dre_path: /dr/detalhe/portaria/197-2023-215486101
+  internal: pt:dre:215486101:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/197-2023-215486101
+  metadata_url: https://data.dre.pt/eli/port/197/2023/07/11/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/197-2023-215486101
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-07-11T00:00:00Z'
+integrity:
+  source_sha256: eaee47a78f3ef9011d3c6afd6e001e1b446cd3a856e7519dc5776a6059a7806a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-197-215486101.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Estabelecimento Comercial
+- Regulamentação de Atos Legislativos
+- Docapesca-sociedade Concessionária da DOCA de Pesca
+- Pesca
+- Instituto Português do Mar e da Atmosfera
+- Licenciamento
+- Lota
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Instituto da Conservação da Natureza e das Florestas
+- Aquicultura
+- Página na Internet
+- Proteção do Ambiente
+- Pescado
+- Diversidade Biológica
+- Regime Jurídico
+- Comércio
+- Balcão Eletrónico do Mar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/142/2008/07/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/142/2008/07/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2022/05/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/197/2006/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/197/2006/02/23/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 197/2023
+
+de 11 de julho
+
+O [Decreto-Lei n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), de 23 de setembro, que aprova o regime jurídico do exercício da atividade profissional da pesca comercial marítima e da autorização, registo e licenciamento dos navios ou embarcações utilizados nessa atividade, determina, no n.º 3 do artigo 19.º, que a apanha para repovoamento de estabelecimentos de aquicultura é regulada por portaria do membro do Governo responsável pela área do mar.
+
+Com a Lei Orgânica do XXIII Governo Constitucional, aprovada pelo [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, estas competências, nos termos do artigo 29.º, passaram integralmente para a área governativa da agricultura e alimentação.
+
+A apanha para repovoamento de estabelecimentos de aquicultura justifica-se pelo facto de não existir disponível no mercado semente em quantidade suficiente para assegurar as necessidades do setor, sobretudo no que se refere a bivalves, como é disso exemplo a amêijoa-boa, que tem uma elevada importância socioeconómica para certas comunidades locais dedicadas a esta atividade.
+
+Considerando que a apanha de indivíduos abaixo do tamanho mínimo de referência de conservação é proibida, exceto para o repovoamento de estabelecimentos de aquicultura, cumpre regulamentar este tipo de apanha por parte de apanhadores profissionais devidamente licenciados.
+
+Assim, ao abrigo do disposto no n.º 3 do artigo 19.º do [Decreto-Lei n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), de 23 de setembro, manda o Governo, pela Secretária de Estado das Pescas, ao abrigo das competências delegadas pelo [Despacho n.º 3636/2023](https://diariodarepublica.pt/dr/detalhe/despacho/3636-2023-210536879), da Ministra da Agricultura e da Alimentação, publicado no Diário da República, 2.ª série, n.º 58, de 22 de março de 2023, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - A presente portaria regulamenta a apanha de bivalves com tamanho inferior ao tamanho mínimo de referência de conservação, exclusivamente para efeitos de repovoamento de estabelecimentos de aquicultura.
+
+2 - O disposto na presente portaria não se aplica a áreas concessionadas ou dominiais cujo uso privativo haja sido autorizado, bem como aos estabelecimentos de culturas marinhas e conexos.
+
+###### Artigo 2.º — Exercício da atividade
+
+1 - A apanha de espécimes dentro do intervalo de tamanho definido como semente, com tamanho inferior ao tamanho mínimo de referência de conservação estabelecido, para repovoamento de estabelecimentos de aquicultura, só pode ser efetuada nos seguintes casos:
+
+a) Por apanhadores devidamente licenciados para a apanha de animais marinhos previamente autorizados pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM) para esta atividade específica;
+
+b) Por titulares de estabelecimentos de aquicultura de bivalves, quando devidamente autorizados pela DGRM.
+
+2 - Para efeitos do número anterior, considera-se semente os exemplares de ameijoa-boa (Ruditapes decussatus) entre 1,5 cm e 2,5 cm, de berbigão (Cerastoderma edule) entre 1 cm e 1,5 cm e de mexilhão (Mytilus spp.) até 4 cm.
+
+3 - Os exemplares considerados como semente destinam-se exclusivamente ao repovoamento dos estabelecimentos aquícolas e não podem, nesta fase, ser comercializados pelo estabelecimento que foi autorizado à apanha para repovoamento.
+
+###### Artigo 3.º — Autorização para a atividade
+
+1 - O responsável pelo estabelecimento de aquicultura devidamente licenciado pela DGRM, por uma única vez, até ao dia 1 de outubro de cada ano, solicita à DGRM, através do Balcão Eletrónico do Mar (BMar), autorização para realizar o repovoamento do seu estabelecimento de aquicultura, identificando as espécies, a zona de apanha e as quantidades previstas como necessárias para repovoar o estabelecimento no ano civil seguinte, assim como o apanhador ou apanhadores de animais marinhos que pretendem ser autorizados a efetuar a captura.
+
+2 - A DGRM avalia o pedido tendo em conta o ciclo de produção de cada espécie de bivalves e a densidade suportada pelo viveiro e solicita parecer ao Instituto Português do Mar e da Atmosfera, I. P. (IPMA), e ao Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF), se se tratar da apanha em zonas em área classificada, nos termos do [Decreto-Lei n.º 142/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2008-454502), de 24 de julho, na sua redação atual.
+
+3 - A DGRM, caso nada haja a obstar, emite, através do BMar, até 31 de dezembro de cada ano, autorização para repovoar o estabelecimento e licença para o apanhador ou apanhadores autorizados a efetuar essa captura, da qual constam:
+
+a) A quantidade diária e total autorizada;
+
+b) A zona de apanha;
+
+c) Os utensílios autorizados para a captura;
+
+d) O estabelecimento de destino;
+
+e) O período de tempo em que a autorização é válida;
+
+f) Outros condicionalismos considerados adequados, que venham a ser definidos pelas entidades consultadas ao abrigo do estabelecido no n.º 2.
+
+4 - Os recipientes a utilizar para recolher as sementes devem ser em rede e com uma malha (densidade de fios) inferior ao tamanho mínimo a autorizar para permitir que as sementes com dimensões inferiores sejam restituídos à água, devendo a triagem das sementes capturadas ser realizada no local de captura («zona de apanha») para permitir a devolução, aos ecossistemas, das sementes com tamanhos abaixo do intervalo autorizado.
+
+5 - Por razões de sensibilidade ecológica ou de salvaguarda dos valores naturais ou por motivos sanitários, pode ser proibida a transposição entre sistemas lagunares ou restringidas as áreas de apanha para repovoamento, condicionalismos que devem constar igualmente na autorização a que se refere o n.º 3.
+
+###### Artigo 4.º — Documentos de repovoamento
+
+1 - O apanhador de animais marinhos preenche um documento de repovoamento, em modelo a aprovar por despacho do diretor-geral de Recursos Naturais, Segurança e Serviços Marítimos, e uma nota de venda, nos mesmos termos a que se refere a [Portaria n.º 197/2006](https://diariodarepublica.pt/dr/detalhe/portaria/197-2006-676643), de 23 de fevereiro, na sua redação atual.
+
+2 - O documento de repovoamento é entregue pelo apanhador de animais marinhos no estabelecimento de aquicultura, que o mantém arquivado durante um prazo de dois anos a contar da entrega.
+
+3 - A nota de venda correspondente é entregue nos serviços da DOCAPESCA - Portos e Lotas, S. A., nos termos da [Portaria n.º 197/2006](https://diariodarepublica.pt/dr/detalhe/portaria/197-2006-676643), de 23 de fevereiro, na sua redação atual.
+
+###### Artigo 5.º — Monitorização da atividade
+
+1 - O IPMA é responsável pela monitorização da atividade prevista na presente portaria, podendo recomendar o encerramento, a qualquer momento, da atividade numa determinada zona.
+
+2 - O encerramento é determinado por despacho do diretor-geral dos Recursos Naturais, Segurança e Serviços Marítimos, divulgado no respetivo sítio eletrónico.
+
+3 - Nas situações de encerramento de uma determinada zona, todas as licenças emitidas para a mesma são revogadas com o despacho previsto no número anterior.
+
+###### Artigo 6.º — Retirada da licença
+
+Os apanhadores e os estabelecimentos autorizados a efetuar a apanha para repovoamento são responsáveis pelo estrito cumprimento das condições estabelecidas na licença, sob pena de suspensão ou retirada da licença, nos termos previstos no n.º 8 do artigo 39.º do [Decreto-Lei n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), de 23 de setembro.
+
+**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 6 de julho de 2023.**

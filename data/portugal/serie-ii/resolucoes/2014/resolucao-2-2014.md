@@ -1,0 +1,261 @@
+---
+schema_version: '1.0'
+id: pt:dre:3183835:por
+title: Resolução n.º 2/2014
+short_title: null
+summary: Nomeia os membros do conselho de administração da Unidade Local de Saúde de Castelo Branco, E.P.E
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 2/2014
+official_date: null
+publication_date: '2014-01-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 16/2014, Série II de 2014-01-23
+  number: '16'
+  series: II
+  supplement: null
+  pages: 2411 - 2412
+  pdf_url: https://files.diariodarepublica.pt/2s/2014/01/016000000/0241102412.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '3183835'
+  dre_path: /dr/detalhe/resolucao/2-2014-3183835
+  internal: pt:dre:3183835:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-2014-3183835
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/2-2014-3183835
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-01-23T00:00:00Z'
+integrity:
+  source_sha256: 9f2070b21fd8f5ce18ff85ff9316823c332469ffc09df3d48d56199f3796789e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2014/DRE-2014-2-3183835.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 2/2014
+
+Nos termos do disposto no artigo 1.º do [Decreto-Lei n.º 318/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2009-483378), de 2 de novembro, que criou a Unidade Local de Saúde de Castelo Branco, E.P.E., e dos artigos 6.º e 13.º dos estatutos constantes do anexo ao mesmo diploma, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração da Unidade Local de Saúde de Castelo Branco, E.P.E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que os atuais membros do conselho de administração da Unidade Local de Saúde de Castelo Branco, E.P.E., cessaram o respetivo mandato em 31 de dezembro de 2013, torna-se necessário proceder à nomeação dos membros deste órgão de administração, assegurando-se a continuidade de funções dos membros deste órgão.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as nomeações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos estatutos constantes do anexo ao [Decreto-Lei n.º 318/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/318-2009-483378), de 2 de novembro, dos n.os 2 e 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros de Estado e das Finanças e da Saúde, António Maria Vieira Pires, Sandra Maria Nunes Duarte, José Tavares Fernandes (diretor clínico na área dos cuidados de saúde primários) e João Carlos Lourenço Nunes (enfermeiro diretor), respetivamente, para os cargos de presidente, que exerce as funções de diretor clínico para os cuidados de saúde hospitalares, e de vogais executivos do conselho de administração da Unidade Local de Saúde de Castelo Branco, E.P.E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas sinopses curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar os nomeados António Maria Vieira Pires e José Tavares Fernandes a optarem pelo vencimento do lugar de origem, nos termos do n.º 8 do artigo 28.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e conforme publicado no Diário da República, 1.ª série, de 25 de janeiro.
+
+3 - Autorizar o nomeado António Maria Vieira Pires a exercer a atividade de docência em estabelecimento de ensino superior público ou de interesse público.
+
+4 - Determinar que a presente resolução reporta os seus efeitos ao dia 1 de janeiro de 2014.
+
+9 de janeiro de 2014. - O Primeiro-Ministro, Pedro Passos Coelho.
+
+## ANEXO — Notas curriculares
+
+António Maria Vieira Pires, nascido em Vendas Novas - Alto Alentejo, em 18/03/1950.
+
+Concluiu a Licenciatura em Medicina, em 1976, na Faculdade de Medicina de Lisboa.
+
+Foi Médico Policlínico no Centro de Saúde de Penamacor de janeiro a setembro de 1977.
+
+Concluiu o Internato Geral em 1978, no Hospital Distrital de Castelo Branco.
+
+Efetuou Serviço Médico à periferia, em 1979.
+
+Cumpriu Serviço Militar, como Médico, entre 1979 e 1980.
+
+Entre 1981 e 1982 permaneceu no Serviço Medicina do Hospital Distrital de Castelo Branco.
+
+Em maio de 1982 foi colocado no Centro de Saúde de Castelo Branco.
+
+Foi Presidente da Comissão de Ética da Sub-Região de Saúde de Castelo Branco, entre 1982 e 1995.
+
+Concluiu em 1985 o Curso de Saúde Pública na Escola Nacional de Saúde Pública, em Lisboa.
+
+Especialista em Saúde Pública, desde 1986.
+
+Foi Diretor do Centro de Saúde de Castelo Branco.
+
+Colaborou na Comissão de Saúde Infantil, entre 1984 e 1995.
+
+Em 1987 foi nomeado Vogal Médico da então Administração Regional de Saúde de Castelo Branco e, posteriormente, Presidente da mesma e depois Coordenador da Sub-Região de Saúde.
+
+Em 1989 fez exame de saída da Especialidade de Medicina Geral.
+
+Em 1996 regressou ao Centro de Saúde de Castelo Branco, onde fez concurso para Consultor e posteriormente para Chefe de Serviço de Medicina Geral.
+
+Em 2011 é nomeado Presidente do Conselho de Administração da Unidade Local de Saúde de Castelo Branco.
+
+Tem competência em Gestão de Serviços de Saúde pela Ordem dos Médicos.
+
+Auditor Clínico pela Ordem dos Médicos e Direção-Geral da Saúde.
+
+Foi docente da Escola Superior de Saúde Dr. Lopes Dias, durante quase vinte anos, e é Professor Associado Convidado da Faculdade de Ciências da Saúde da UBI.
+
+Foi Presidente da Direção da Associação dos Bombeiros Voluntários de Castelo Branco.
+
+Frequentou, em 2013, o XVII Programa de Alta Direção de Instituições de Saúde, na AESE.
+
+Publicou vários trabalhos, nas áreas de saúde pública e saúde infantil.
+
+Sandra Maria Nunes Duarte
+
+Naturalidade: Sabugal
+
+Data de Nascimento: 27/01/1972
+
+Casada, dois filhos.
+
+Residência: Caldas da Rainha
+
+Licenciatura em Direito, pela Faculdade de Direito da Universidade Clássica de Lisboa, em 1996.
+
+Pós-graduação em Administração Hospitalar na Escola Nacional de Saúde Pública, da Universidade Nova de Lisboa, em 2000.
+
+Programa de Formação em Gestão Pública, do INA, de setembro de 2011 a janeiro de 2012.
+
+Outros cursos na área da administração pública, no INA.
+
+Curso de Formação Pedagógica de Formadores em 2001.
+
+Administradora Hospitalar no Centro Hospitalar Cova da Beira, EPE, de setembro de 2000 a maio de 2001.
+
+Administradora Hospitalar no Centro Hospitalar do Oeste Norte (antigo Centro Hospitalar das Caldas da Rainha) de junho de 2001 a dezembro de 2012.
+
+Responsável pela área dos Recursos Humanos no Centro Hospitalar das Caldas da Rainha, com delegação de competências do Conselho de Administração.
+
+Coordenação da elaboração do mapa de pessoal do CHON, resultante da fusão de 3 Unidades hospitalares.
+
+Coordenadora da elaboração do caderno de encargos para aquisição do Parque Hospitalar da área de Imagiologia (2011-2012).
+
+Responsável pela execução do regulamento interno do CHCR e CHON.
+
+Membro da Comissão de Humanização do CHON.
+
+Membro de júri de diversos concursos na área dos Recursos Humanos e Aquisição de Serviços.
+
+Vogal Executiva do Conselho de Administração da ULSCB, EPE desde 01 de setembro de 2013
+
+José Tavares Fernandes, nasceu a 01/12/1952, no Concelho de Proença-a-Nova.
+
+Licenciado em Medicina, pela Universidade de Coimbra.
+
+Desde 01 de setembro de 2013 - Vogal do Conselho de Administração da ULSCB, EPE/Diretor Clínico da Área de Cuidados de Saúde Primários.
+
+Representa a Administração Regional de Saúde do Centro, IP no Conselho Consultivo de Saúde da Unidade Local de Saúde de Castelo Branco, EPE.
+
+Diretor Executivo do Agrupamento de Centros de Saúde do Pinhal Interior Sul.
+
+Colaborou em vários trabalhos epidemiológicos na área dos Cuidados de Saúde Primários.
+
+Autoridade de Saúde da área de influência da Unidade Local de Saúde de Castelo Branco, EPE.
+
+Diretor do então Centro de Saúde da Sertã.
+
+Chefe de Serviços de Saúde/Assistente Graduado Sénior desde 2000.
+
+Assistente Graduado de Saúde Pública, após concurso público, desde 19/11/1993, com o Grau de Consultor de Saúde Pública.
+
+Conclui com êxito a especialidade de Saúde Pública na Escola Nacional de Saúde Pública em 06/02/1986.
+
+Médico da Carreira Médica de Clínica Geral desde 01/09/1982, no Concelho da Sertã.
+
+Serviço Médico à Periferia no concelho de Castelo Branco, de 01/02/1981 a 31/08/1982.
+
+Médico Policlínico no Hospital Amato Lusitano de Castelo Branco no período de 01/01/1979 a 31/01/1981.
+
+João Carlos Lourenço Nunes, nascido em Moçambique, em 10/03/1959.
+
+Licenciado em Enfermagem
+
+Especialista em Enfermagem de Reabilitação
+
+Habilitação Literárias
+
+Curso de Enfermagem Geral pela Escola de Enfermagem Dr. Lopes Dias, Castelo Branco (1983)
+
+Especialização em Enfermagem de Reabilitação pela Escola Superior Dr. Ângelo da Fonseca (1992)
+
+Mestre em Comunicação em Saúde pela Universidade Aberta (2001)
+
+Pós-graduado em Gestão em Saúde (2005)
+
+Doutorando em Enfermagem (Universidade Católica Portuguesa)
+
+Carreira Profissional
+
+Enfermeiro nível 1 no Hospital Distrital de Castelo Branco (1984)
+
+Categoria de enfermeiro-chefe (desde 1994)
+
+Enfermeiro-Diretor do Hospital Amato Lusitano (2002-2005)
+
+Enfermeiro-chefe no Serviço de Medicina Interna I (2005-2011)
+
+Enfermeiro-Diretor da Unidade Local de Saúde de Castelo Branco EPE (desde 2011)
+
+Experiência Docente
+
+Assistente de 1º triénio da Escola Superior de Saúde Dr. Lopes Dias (2007-2010)
+
+Outras Atividades Relevantes
+
+Participação em seminários e congressos na área da enfermagem e da gestão em saúde.
+
+Orador convidado em diversas iniciativas científico-profissionais da área.
+
+Integrou júris de concursos de ingresso e de progressão de enfermeiros.

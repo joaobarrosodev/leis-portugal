@@ -1,0 +1,1040 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:144988:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-1011853673",
+ "dre_path": "/dr/detalhe/decreto-lei/77-1999-144988",
+ "source_lastmod": "2026-03-13",
+ "versions": [
+  {
+   "date": "2001-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609992:por",
+     "title": "Decreto-Lei n.º 258/2001",
+     "published": "2001-09-25",
+     "dre_path": "/dr/detalhe/decreto-lei/258-2001-609992"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 38.º"
+   ],
+   "fragments": [
+    "1013984675",
+    "1013984875",
+    "1013985075",
+    "1013985275",
+    "1013985475",
+    "1013985675",
+    "1013985875",
+    "1013986075",
+    "1013986275",
+    "1013986475",
+    "1013986675",
+    "1013986875",
+    "1013987075",
+    "1070723375",
+    "1013987475",
+    "1013987675",
+    "1013987875",
+    "1013988075",
+    "1013988275",
+    "1070723575",
+    "1013988675",
+    "1013988875",
+    "1013989075",
+    "1013989275",
+    "1013989475",
+    "1013989675",
+    "1013989875",
+    "1013990075",
+    "1013990275",
+    "1013990475",
+    "1013990675",
+    "1013990875",
+    "1013991075",
+    "1070723775",
+    "1013991475",
+    "1013991675",
+    "1013991875",
+    "1013992075",
+    "1013992275",
+    "1013992475",
+    "1013992675",
+    "1013992875",
+    "1013993075",
+    "1013993275",
+    "1070723975",
+    "1013993675",
+    "1013993875",
+    "1013994075",
+    "1013994275"
+   ]
+  },
+  {
+   "date": "2004-09-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480290:por",
+     "title": "Decreto-Lei n.º 211/2004",
+     "published": "2004-08-20",
+     "dre_path": "/dr/detalhe/decreto-lei/211-2004-480290"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1073669075",
+    "1073669275",
+    "1073669375",
+    "1073669475",
+    "1073669575",
+    "1073669675",
+    "1073669775",
+    "1073669875",
+    "1073669975",
+    "1073670075",
+    "1073670175",
+    "1073670275",
+    "1073670375",
+    "1073670475",
+    "1073670575",
+    "1073670675",
+    "1073670775",
+    "1073670875",
+    "1073670975",
+    "1073671075",
+    "1073671175",
+    "1073671275",
+    "1073671375",
+    "1073671475",
+    "1073671575",
+    "1073671675",
+    "1073671775",
+    "1073671875",
+    "1073672075",
+    "1073672175",
+    "1073672275",
+    "1073672375",
+    "1073672475",
+    "1073672575",
+    "1073672675",
+    "1073672775",
+    "1073672875",
+    "1073672975",
+    "1073673075",
+    "1073673175",
+    "1073673275",
+    "1073673375",
+    "1073673475",
+    "1073673575",
+    "1073673675",
+    "1073673775",
+    "1073673875",
+    "1073673975",
+    "1073674075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1013984675": {
+   "fragment_id": "1013984575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A actividade de mediação imobiliária encontra-se regulada pelo Decreto-Lei n.º 285/92, de 19 de Dezembro.\n\nFace a uma actividade em contínua expansão e às crescentes expectativas dos consumidores, justifica-se a actualização dos requisitos inerentes ao exercício da actividade. Aproveita-se ainda para aperfeiçoar os aspectos colhidos da experiência entretanto verificada.\n\nCom efeito, constatando-se um significativo aumento do exercício clandestino da actividade de mediação imobiliária, com os inevitáveis inconvenientes e prejuízos daí decorrentes, quer na perspectiva dos agentes económicos legalmente habilitados, quer na perspectiva dos consumidores, urge instituir os mecanismos legais adequados a uma maior clarificação deste regime e ao reforço da sua fiscalização.\n\nSalientam-se, assim, em relação à anterior legislação as seguintes soluções normativas:\n\nO reforço da capacidade empresarial das entidades mediadoras ao permitir-lhes o exercício de outras actividades comerciais, estabelecendo-se, contudo, a individualização da actividade de mediação imobiliária, a fim de possibilitar a sua eficaz fiscalização;\n\nPretende-se que todas as entidades adoptem a forma societária, principalmente após a criação da sociedade unipessoal, instituto jurídico que se tem revelado particularmente adequado ao são desenvolvimento das pequenas empresas, de acordo, aliás, com a tendência que se tem vindo a verificar neste sector, a fim de possibilitar, também, a sua fiscalização;\n\nConsagra-se maior exigência de requisitos para o ingresso na actividade, agora baseados na idoneidade e capacidade profissional dos seus responsáveis, bem como na capacidade financeira da empresa, demonstrada pela exigência de capitais próprios positivos;\n\nEstabelece-se a forma de identificação das empresas, dos seus representantes e dos seus prestadores de serviços;\n\nClarifica-se o momento e estabelecem-se as condições em que é devida a remuneração pela actividade de mediação imobiliária, questões que no domínio da anterior legislação motivaram inúmeras reclamações por parte dos consumidores;\n\nReforça-se o sistema das garantias, estabelecendo-se, para além do seguro de responsabilidade civil já existente, uma caução para reembolso de quantias indevidamente recebidas;\n\nCria-se uma comissão arbitral com representação dos diversos interesses em presença, como meio mais expedito para reembolso de quantias indevidamente recebidas;\n\nEstabelecem-se novos deveres das empresas, quer para com os interessados, quer para com o organismo licenciador, tornando-se, em consequência, mais abrangente o regime contra-ordenacional;\n\nInstituem-se novas sanções acessórias, incluindo o alargamento a novas situações de interdição do exercício da actividade e o encerramento dos estabelecimentos, quando a gravidade da situação o justifique.\n\nForam ouvidas as associações representativas do sector e o Instituto do Consumidor.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "1013984875": {
+   "fragment_id": "1013984775",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "1013985075": {
+   "fragment_id": "1013984975",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O exercício da actividade de mediação imobiliária fica sujeito ao regime estabelecido no presente diploma.\n\n2 - O exercício da actividade de mediação imobiliária por sociedades com sede efectiva noutro Estado da Comunidade Europeia está igualmente sujeito ao presente diploma sempre que a actividade incida sobre imóveis situados em Portugal."
+  },
+  "1013985275": {
+   "fragment_id": "1013985175",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção de empresa de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção de empresa de mediação imobiliária\n\nConsidera-se empresa de mediação imobiliária aquela que tenha por actividade principal a definida no artigo 3.º do presente diploma."
+  },
+  "1013985475": {
+   "fragment_id": "1013985375",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objecto da actividade\n\n1 - A actividade de mediação imobiliária é aquela em que, por contrato, uma empresa se obriga a diligenciar no sentido de conseguir interessado na compra ou na venda de bens imóveis ou na constituição de quaisquer direitos reais sobre os mesmos, bem como para o seu arrendamento e trespasse, desenvolvendo para o efeito acções de promoção e recolha de informações sobre os negócios pretendidos e sobre as características dos respectivos imóveis.\n\n2 - No âmbito dos contratos de mediação imobiliária as empresas podem ainda prestar serviços relativos à obtenção de documentação conducente à concretização dos negócios visados e que não estejam legalmente atribuídos em exclusivo a outras profissões.\n\n3 - Para efeitos do disposto no presente artigo, interessado será o terceiro angariado pela empresa de mediação, desde que esse terceiro venha a concretizar o negócio visado pelo contrato de mediação."
+  },
+  "1013985675": {
+   "fragment_id": "1013985575",
+   "type": 11,
+   "heading": "Artigo 4.º — Restrição ao âmbito do objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Restrição ao âmbito do objecto social\n\nÀs empresas de mediação imobiliária está vedado o exercício da actividade comercial de compra e venda de bens imóveis."
+  },
+  "1013985875": {
+   "fragment_id": "1013985775",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos de ingresso e manutenção na actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Requisitos de ingresso e manutenção na actividade\n\n1 - A concessão e manutenção da licença depende do preenchimento cumulativo pelos requerentes dos seguintes requisitos:\n\na) Ser sociedade comercial, ou outra forma de cooperação de sociedades, com sede efectiva num Estado membro da União Europeia, que tenha por objecto e actividade principal o exercício da actividade de mediação imobiliária e a denominação nos termos estipulados no n.º 1 do artigo 7.º;\n\nb) Ter a situação regularizada perante a administração fiscal e a segurança social;\n\nc) Um dos administradores, gerentes ou directores deve possuir a capacidade profissional nos termos do disposto no artigo 6.º;\n\nd) Prestar as garantias exigidas no artigo 24.º;\n\ne) Deter capital próprio positivo;\n\nf) Os administradores, gerentes ou directores da sociedade requerente devem possuir idoneidade comercial.\n\n2 - Para efeitos do disposto na alínea e) do número anterior, o capital próprio é determinado nos termos estabelecidos pelo Plano Oficial de Contabilidade (POC) em vigor.\n\n3 - Para efeitos do disposto na alínea f) do n.º 1 não são consideradas comercialmente idóneas as pessoas relativamente às quais se verifique:\n\na) Proibição legal do exercício do comércio;\n\nb) Inibição do exercício do comércio por ter sido declarada falência, enquanto não for levantada a inibição e decretada a reabilitação;\n\nc) Terem sido gerentes ou administradores de uma empresa de mediação punida com três coimas pela prática dolosa dos ilícitos de mera ordenação social previstos na alínea c) do n.º 1 do artigo 32.º;\n\nd) Terem sido gerentes ou administradores de uma empresa de mediação imobiliária punida com duas coimas pela prática dolosa dos ilícitos de mera ordenação social previstos na alínea b) do n.º 1 do artigo 32.º;\n\ne) Terem sido gerentes ou administradores de uma empresa de mediação imobiliária punida com uma coima pela prática dolosa do ilícito de mera ordenação social previsto na alínea a) do n.º 1 do artigo 32.º, desde que fique demonstrada a violação habitual de um dos deveres estipulados no artigo 18.º e no n.º 3 do artigo 19.º, no exercício ilegal da actividade de mediação imobiliária;\n\nf) Terem sido gerentes ou administradores de uma empresa de mediação imobiliária punida com a sanção acessória de interdição do exercício da actividade, nos termos previstos na alínea b) do n.º 1 do artigo 33.º, durante o período desta interdição;\n\ng) Terem sido gerentes ou administradores de uma empresa punida com uma coima por práticas restritivas da concorrência;\n\nh) Condenação, com trânsito em julgado, pela prática de concorrência ilícita ou desleal;\n\ni) Condenação, com trânsito em julgado, não suspensa na sua execução, por crime doloso contra o património, em pena igual ou superior a 1 ano de prisão;\n\nj) Condenação, com trânsito em julgado, pela prática dos crimes referidos no artigo 2.º do Decreto-Lei n.º 325/95, de 2 de Dezembro, relativo ao branqueamento de capitais e de outros bens provenientes dos crimes nele indicados.\n\n4 - As condenações referidas nas alíneas c), d), e), g) e h) do número anterior não relevam após o decurso do prazo de dois anos contados do cumprimento integral das obrigações decorrentes da aplicação da última sanção."
+  },
+  "1013986075": {
+   "fragment_id": "1013985975",
+   "type": 11,
+   "heading": "Artigo 6.º — Da capacidade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Da capacidade profissional\n\n1 - Para efeitos da alínea c) do n.º 1 do artigo 5.º, a capacidade profissional consiste na posse das habilitações literárias, experiência e formação profissional adequadas a estabelecer por portaria conjunta dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Educação e do Trabalho e da Solidariedade.\n\n2 - A experiência profissional é adquirida através do exercício de funções específicas ao serviço de entidades cuja natureza e actividade são definidas pela portaria referida no número anterior, sendo a adequação do conteúdo dessas funções apreciada pelo Instituto de Mercados de Obras Públicas e Particulares e do Imobiliário, tendo em conta a respectiva relevância para o sector.\n\n3 - A formação profissional é adquirida pela frequência de acções de formação administradas por entidades legalmente acreditadas, cujo conteúdo e duração são estabelecidos pela portaria referida no n.º 1.\n\n4 - Em caso de sociedades que não tenham a sua sede em Portugal, os mandatários das respectivas representações devem igualmente dispor da capacidade profissional, nos termos exigidos nos números anteriores."
+  },
+  "1013986275": {
+   "fragment_id": "1013986175",
+   "type": 11,
+   "heading": "Artigo 7.º — Denominação e obrigação de identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Denominação e obrigação de identificação\n\n1 - Da denominação das empresas de mediação imobiliária consta obrigatoriamente a expressão «Mediação imobiliária», sendo o seu uso vedado a quaisquer outras entidades.\n\n2 - As empresas de mediação estão obrigadas à sua clara identificação, com indicação da denominação, do número da licença e do prazo de validade da mesma, em todos os locais de atendimento de que disponham, incluindo os postos provisórios.\n\n3 - Em todos os contratos, correspondência, publicações, publicidade e, de um modo geral, em toda a sua actividade externa, as empresas devem indicar a sua denominação e o número da respectiva licença.\n\n4 - Todas as pessoas que prestem serviços às empresas de mediação, no âmbito da respectiva actividade externa, devem estar identificadas através de cartões de identificação fornecidos pelas mesmas, dos quais deverá constar o seu nome e fotografia actualizada, bem como a identificação da empresa, nos termos do n.º 2 do presente artigo.\n\n5 - Todas as empresas de mediação que desenvolvam a sua actividade no âmbito de contratos de concessão ou uso de marcas, incluindo os contratos de franquia, estão sujeitas ao disposto no presente artigo."
+  },
+  "1013986475": {
+   "fragment_id": "1013986375",
+   "type": 1,
+   "heading": "Capítulo II — Do licenciamento e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Do licenciamento e registo"
+  },
+  "1013986675": {
+   "fragment_id": "1013986575",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licença\n\n1 - O exercício da actividade de mediação imobiliária depende de licença a conceder pelo Instituto de Mercados de Obras Públicas e Particulares e do Imobiliário, doravante designado por IMOPPI.\n\n2 - O IMOPPI emitirá cartões de identificação aos representantes legais das empresas licenciadas, que os deverão exibir em todos os actos em que intervenham.\n\n3 - As licenças concedidas e os cartões de identificação são válidos por três anos e revalidados por idênticos períodos."
+  },
+  "1013986875": {
+   "fragment_id": "1013986775",
+   "type": 11,
+   "heading": "Artigo 9.º — Pedido de licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pedido de licenciamento\n\n1 - O pedido de licença é formulado em requerimento dirigido ao presidente do conselho de administração do IMOPPI, do qual deve constar:\n\na) A identificação do requerente;\n\nb) A identificação dos administradores, gerentes ou directores;\n\nc) A localização dos estabelecimentos.\n\n2 - O requerimento deve ser acompanhado dos documentos comprovativos do preenchimento dos requisitos exigidos no artigo 5.º, a regulamentar por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n3 - O pedido de licenciamento só é deferido quando a empresa reúna os requisitos estabelecidos no presente diploma e tenha procedido ao pagamento da taxa aplicável.\n\n4 - O IMOPPI poderá notificar o requerente para, num prazo não superior a 30 dias, suprir deficiências ou prestar esclarecimentos relativamente ao seu pedido.\n\n5 - Em caso de deferimento do pedido, o IMOPPI deverá emitir a licença no prazo máximo de 10 dias.\n\n6 - Um novo pedido só pode ter lugar um ano após o indeferimento por falta de comprovação de requisitos.\n\n7 - Em caso de indeferimento por falta de pagamento da taxa aplicável, um novo pedido de licenciamento implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º\n\n8 - Qualquer pedido só será processado após comprovação do pagamento das coimas aplicadas por decisão tornada definitiva, nos termos do artigo 32.º\n\n9 - Um novo pedido que seja efectuado até seis meses após o termo de validade da licença, por não ter sido requerida a sua revalidação nos termos do artigo 13.º, implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º"
+  },
+  "1013987075": {
+   "fragment_id": "1013986975",
+   "type": 11,
+   "heading": "Artigo 10.º — Suspensão de licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Suspensão de licenças\n\n1 - São suspensas as licenças:\n\na) Às empresas que o requeiram de forma fundamentada;\n\nb) Às empresas que deixem de reunir qualquer dos requisitos necessários à respectiva concessão e manutenção referidos no artigo 5.º, sem prejuízo do disposto no artigo 11.º\n\n2 - A suspensão das licenças só será levantada a solicitação dos interessados, após comprovação dos requisitos de ingresso na actividade.\n\n3 - O período de suspensão da licença não pode ir além da data limite da sua validade e, em caso algum, de seis meses consecutivos."
+  },
+  "1070723375": {
+   "fragment_id": "1013987175",
+   "type": 11,
+   "heading": "Artigo 11.º — Cancelamento das licenças",
+   "in_force_from": "2001-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 11.º — Cancelamento das licenças\n\nSão canceladas as licenças:\n\na) Às empresas que o requeiram;\n\nb) Às empresas que tenham deixado de ser idóneas nos termos do disposto no n.º 3 do artigo 5.º;\n\nc) Às empresas que se encontrem nas situações previstas no artigo anterior e que, nos termos do mesmo, não regularizem a situação;\n\nd) Às empresas às quais tenha sido aplicada a sanção de interdição do exercício de actividade prevista no artigo 33.º;\n\ne) Em caso de extinção das empresas titulares;\n\nf) Às empresas que não procedam ao pagamento voluntário das coimas aplicadas por decisão tornada definitiva, nos termos do artigo 32.º\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1013987475": {
+   "fragment_id": "1013987375",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições e efeitos da suspensão e do cancelamento das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições e efeitos da suspensão e do cancelamento das licenças\n\n1 - A suspensão ou cancelamento a requerimento do interessado só é concedida mediante prévia entrega da licença ao IMOPPI, sendo que, nos restantes casos, a suspensão e o cancelamento implicam a entrega da mesma, no prazo máximo de oito dias contados a partir da data da sua notificação, sob pena de apreensão imediata pelas autoridades competentes.\n\n2 - Em caso de cancelamento, as empresas devem ainda remeter ao IMOPPI cópia da declaração de alteração ou cessação de actividade, conforme entregue na repartição de finanças.\n\n3 - A suspensão e o cancelamento determinam, ainda, o encerramento dos estabelecimentos e postos provisórios, sob pena de fecho coercivo pelas autoridades competentes, sendo-lhes vedado o exercício da actividade a partir da data da recepção da respectiva notificação.\n\n4 - A suspensão e o cancelamento das licenças determinam a nulidade dos contratos de mediação imobiliária ainda não cumpridos por causa imputável às empresas titulares.\n\n5 - Nos casos previstos nas alíneas a) e c) do artigo 11.º, um novo pedido de licenciamento só pode ter lugar um ano após a data do cancelamento da licença."
+  },
+  "1013987675": {
+   "fragment_id": "1013987575",
+   "type": 11,
+   "heading": "Artigo 13.º — Revalidação das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Revalidação das licenças\n\n1 - A revalidação deve ser requerida até 30 dias antes da data do termo da licença, sem prejuízo do disposto no n.º 3 do presente artigo.\n\n2 - O pedido de revalidação só é deferido quando a empresa reúna os requisitos necessários à obtenção da licença e tenha procedido ao pagamento da taxa aplicável e das coimas em dívida e insusceptíveis de impugnação judicial.\n\n3 - O pedido de revalidação efectuado após o prazo estabelecido no n.º 1 do presente artigo e até à data do termo de validade da licença implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º\n\n4 - O pedido de revalidação efectuado após a data do termo da licença implica o não processamento do mesmo e a devolução ao requerente de toda a documentação entregue, podendo efectuar novo pedido nos termos do artigo 9.º\n\n5 - Em caso de indeferimento do pedido de revalidação da licença por falta de comprovação de requisitos para a manutenção na actividade, um novo pedido só poderá ser apresentado um ano após o indeferimento.\n\n6 - Em caso de indeferimento por falta de pagamento da taxa aplicável, um novo pedido de revalidação implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º"
+  },
+  "1013987875": {
+   "fragment_id": "1013987775",
+   "type": 11,
+   "heading": "Artigo 14.º — Taxas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Taxas\n\n1 - Os procedimentos, administrativos tendentes ao licenciamento, revalidação e substituição das licenças, bem como os demais tendentes à boa execução do presente diploma, estão sujeitos ao pagamento de taxas destinadas a cobrir os encargos com a gestão do sistema de ingresso e permanência na actividade de mediação imobiliária, bem como com a fiscalização desta actividade.\n\n2 - A não comprovação do pagamento da taxa no prazo de 15 dias a contar da emissão da respectiva guia implica o indeferimento do pedido.\n\n3 - As taxas constituem receita do IMOPPI e são fixadas, bem como os procedimentos administrativos previstos no n.º 1, por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território."
+  },
+  "1013988075": {
+   "fragment_id": "1013987975",
+   "type": 11,
+   "heading": "Artigo 15.º — Registo das empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Registo das empresas\n\n1 - O IMOPPI deve organizar e manter um registo das empresas de mediação, do qual deve constar:\n\na) A denominação social, a sede, o número de identificação de pessoa colectiva, o número de matrícula e a conservatória do registo comercial;\n\nb) As marcas e os nomes dos estabelecimentos comerciais das empresas;\n\nc) O capital próprio;\n\nd) A identificação dos administradores e gerentes;\n\ne) A localização dos estabelecimentos;\n\nf) A forma de prestação das garantias exigidas e respectivos elementos de identificação;\n\ng) A identificação das pessoas que detenham a capacidade profissional exigida no artigo 6.º\n\n2 - Devem ainda ser inscritos no registo, por averbamento, os seguintes factos:\n\na) A alteração de qualquer dos elementos integrantes do pedido de licenciamento;\n\nb) A verificação de qualquer outro facto sujeito a comunicação ao IMOPPI;\n\nc) A suspensão da licença;\n\nd) As denúncias apresentadas;\n\ne) As sanções aplicadas.\n\n3 - O IMOPPI deve ainda manter um registo dos pedidos indeferidos e das licenças canceladas."
+  },
+  "1013988275": {
+   "fragment_id": "1013988175",
+   "type": 1,
+   "heading": "Capítulo III — Do exercício da actividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do exercício da actividade"
+  },
+  "1070723575": {
+   "fragment_id": "1013988375",
+   "type": 11,
+   "heading": "Artigo 16.º — Estabelecimentos",
+   "in_force_from": "2001-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 16.º — Estabelecimentos\n\n1 - As empresas só podem efectuar atendimento do público em instalações autónomas, separadas de quaisquer outros estabelecimentos comerciais ou industriais e de residências, e exclusivamente afectas ao exercício da actividade de mediação imobiliária, designadas por estabelecimentos.\n\n2 - A abertura ou a alteração da localização dos estabelecimentos referidos no número anterior só podem ser efectuadas após comunicação ao IMOPPI e após o cumprimento das obrigações estabelecidas no artigo 21.º\n\n3 - O encerramento dos estabelecimentos referidos nos números anteriores só pode ser efectuado após comunicação ao IMOPPI.\n\n4 - As empresas podem ainda instalar postos provisórios junto a imóveis ou em empreendimentos de cuja mediação estejam encarregadas, desde que exclusivamente destinados a acolher o representante da empresa para aí prestar informações e facultar a visita aos imóveis.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1013988675": {
+   "fragment_id": "1013988575",
+   "type": 11,
+   "heading": "Artigo 17.º — Negócios sobre estabelecimentos comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Negócios sobre estabelecimentos comerciais\n\nO trespasse e a cessão de exploração de estabelecimentos comerciais pertencentes a sociedades licenciadas nos termos do presente diploma e afectos ao exercício da actividade de mediação imobiliária dependem da titularidade da licença para o exercício da mediação imobiliária pela adquirente, quando esta pretender continuar a prosseguir ali esta actividade."
+  },
+  "1013988875": {
+   "fragment_id": "1013988775",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres para com os interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deveres para com os interessados\n\n1 - As empresas são obrigadas a:\n\na) Certificar-se, antes da celebração do contrato de mediação, da capacidade e legitimidade para contratar das pessoas intervenientes nos negócios que irão promover;\n\nb) Certificar-se ainda, antes da celebração do mesmo contrato, por todos os meios ao seu alcance, se as características do imóvel objecto do contrato de mediação correspondem às fornecidas pelos interessados contratantes e se sobre o mesmo recaem quaisquer ónus ou encargos;\n\nc) Obter informação junto de quem as contratou e fornecê-la aos interessados de forma clara, objectiva e adequada, nomeadamente sobre as características, composição, preço e condições de pagamento do bem em causa;\n\nd) Propor com exactidão e clareza os negócios de que forem encarregadas, procedendo de modo a não induzir em erro os interessados;\n\ne) Comunicar imediatamente aos interessados qualquer facto que ponha em causa a concretização do negócio visado;\n\nf) Entregar de imediato aos interessados quaisquer quantias que, na qualidade de mediador, lhes sejam confiadas.\n\n2 - Está expressamente vedado às empresas:\n\na) Receber remuneração de ambos os interessados no mesmo negócio, sendo que aquela só lhe será devida por quem em primeiro lugar a contratou, excepto se houver acordo expresso em contrário;\n\nb) Intervir como parte interessada em negócio cujo objecto coincida com o objecto material do contrato de mediação do qual seja parte, nomeadamente comprar ou constituir outros direitos reais, arrendar e tomar de trespasse, para si ou sociedade de que sejam sócias, bem como para os seus sócios, administradores ou gerentes e seus cônjuges e descendentes e ascendentes do 1.º grau;\n\nc) Celebrar contratos de mediação imobiliária quando as circunstâncias do caso lhes permitirem razoavelmente duvidar da licitude do negócio que irão promover;\n\nd) Utilizar em proveito próprio as quantias referidas na alínea f) do número anterior."
+  },
+  "1013989075": {
+   "fragment_id": "1013988975",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Remuneração\n\n1 - A remuneração só é devida com a conclusão e perfeição do negócio visado pelo exercício da mediação.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os casos em que o negócio visado, no âmbito de um contrato de mediação celebrado em regime de exclusividade, não se concretiza por causa imputável ao cliente da empresa mediadora, tendo esta direito a remuneração;\n\nb) Caso seja celebrado contrato-promessa relativo ao negócio visado pelo contrato de mediação, as partes podem prever o pagamento da remuneração após a sua celebração.\n\n3 - É vedado às entidades mediadoras receber quaisquer quantias a título de remuneração, ou de provisão por conta da mesma, previamente ao momento em que esta é devida nos termos dos n.os 1 e 2 do presente artigo.\n\n4 - Caso a entidade mediadora tenha celebrado contratos de mediação com ambas as partes no mesmo negócio, cujo objecto material seja o mesmo bem imóvel, a remuneração só é devida por quem primeiro a contratou, excepto se houver acordo expresso de todas as partes na respectiva divisão.\n\n5 - A alteração subjectiva numa das partes do negócio visado por exercício do direito legal de preferência não afasta o direito a remuneração da empresa de mediação."
+  },
+  "1013989275": {
+   "fragment_id": "1013989175",
+   "type": 11,
+   "heading": "Artigo 20.º — Contrato de mediação imobiliária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contrato de mediação imobiliária\n\n1 - O contrato de mediação imobiliária está sujeito à forma escrita.\n\n2 - Do contrato constam obrigatoriamente os seguintes elementos:\n\na) A identificação do contrato como «contrato de mediação imobiliária»;\n\nb) A identificação das partes;\n\nc) A identificação das características do bem imóvel que constitui objecto material do contrato, com especificação de todos os ónus e encargos que sobre ele recaiam;\n\nd) A identificação do negócio visado pelo exercício da mediação;\n\ne) As obrigações das partes contratantes;\n\nf) As condições de remuneração, nomeadamente montante ou percentagem e forma de pagamento, com indicação da taxa de IVA aplicável;\n\ng) O prazo de duração do contrato;\n\nh) A identificação das entidades, seguradoras ou bancárias, através das quais foram prestadas as garantias previstas no artigo 24.º\n\n3 - Quando a empresa de mediação é contratada em regime de exclusividade, só ela tem direito de promover o negócio objecto do contrato de mediação, durante o respectivo período de vigência.\n\n4 - A consagração do regime de exclusividade, quando exista, terá de constar expressamente do contrato de mediação imobiliária.\n\n5 - Os serviços previstos no n.º 2 do artigo 3.º prestados pelas empresas no âmbito de um contrato de mediação devem constar expressamente do mesmo, bem como a menção dos correspondentes elementos a que se refere a alínea f) do n.º 2 do presente artigo, ficando as empresas, nestes casos, investidas na qualidade de mandatárias sem representação.\n\n6 - Tratando-se de contratos com uso de cláusulas contratuais gerais, a empresa de mediação deve enviar cópia dos respectivos projectos ao IMOPPI e ao Instituto do Consumidor.\n\n7 - O contrato deve ser assinado em duplicado, sendo um exemplar entregue ao interessado e destinando-se o outro a arquivo, após inscrição no livro de registos a que se refere a alínea e) do n.º 1 do artigo 22.º\n\n8 - O incumprimento do disposto nos n.os 1, 2 e 6 do presente artigo gera a nulidade do contrato, não podendo esta, contudo, ser invocada pela entidade mediadora."
+  },
+  "1013989475": {
+   "fragment_id": "1013989375",
+   "type": 11,
+   "heading": "Artigo 21.º — Livro de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Livro de reclamações\n\n1 - Em cada estabelecimento deve existir um livro de reclamações destinado aos utentes, para que estes possam formular reclamações sobre a qualidade dos serviços e o modo como foram prestados.\n\n2 - O livro de reclamações deve encontrar-se sempre disponível e ser imediatamente facultado ao utente que o solicite, devendo ser-lhe entregue um duplicado das observações ou reclamações exaradas no mesmo, podendo este remetê-lo ao IMOPPI, acompanhado dos documentos e meios de prova necessários à apreciação das mesmas.\n\n3 - As entidades mediadoras são obrigadas a enviar ao IMOPPI um duplicado das reclamações escritas no livro, no prazo máximo de cinco dias a contar da sua ocorrência.\n\n4 - Em todos os estabelecimentos deve ser publicitada de forma bem visível a existência do respectivo livro de reclamações.\n\n5 - Nos postos provisórios devem ser devidamente publicitados os estabelecimentos onde se encontram os livros de reclamações.\n\n6 - O livro de reclamações é editado e fornecido pelo IMOPPI ou pelas entidades que ele encarregar para o efeito, sendo o modelo, o preço e as condições de distribuição e utilização, aprovados pelo conselho de administração do IMOPPI."
+  },
+  "1013989675": {
+   "fragment_id": "1013989575",
+   "type": 11,
+   "heading": "Artigo 22.º — Deveres para com o IMOPPI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Deveres para com o IMOPPI\n\n1 - As empresas são obrigadas a:\n\na) Comunicar ao IMOPPI qualquer alteração verificada nos requisitos previstos no n.º 1 do artigo 5.º no prazo de 15 dias a contar da respectiva ocorrência;\n\nb) Comunicar previamente ao IMOPPI o uso de marcas ou nomes de estabelecimentos comerciais;\n\nc) Comunicar ao IMOPPI todas as alterações que impliquem actualização do registo das empresas referido no n.º 1 do artigo 15.º, bem como de quaisquer outras modificações introduzidas no pacto social das sociedades, no prazo de 30 dias a contar da respectiva ocorrência, sem prejuízo do disposto no n.º 2 do artigo 16.º;\n\nd) Enviar anualmente ao IMOPPI, no prazo por este determinado, os elementos relacionados com o exercício da actividade que lhe sejam solicitados;\n\ne) Manter e conservar actualizados um livro de registo e um arquivo de todos os contratos de mediação celebrados no exercício da respectiva actividade, nos termos do artigo 20.º;\n\nf) Dispor de contabilidade organizada de modo a que as operações relativas à actividade de mediação imobiliária se possam claramente distinguir das restantes;\n\ng) Enviar ao IMOPPI cópia das sentenças ou decisões que ponham termo a processos em que tenham sido parte;\n\nh) Prestar ao IMOPPI, no exercício da sua competência de fiscalização, todas as informações relacionadas com a sua actividade, facultar-lhe o acesso às instalações, aos livros de registo e de reclamações, ao arquivo dos contratos de mediação imobiliária e demais documentação referente à sua actividade de mediação;\n\ni) Comunicar ao IMOPPI a cessação da respectiva actividade.\n\n2 - Os contratos arquivados nos termos da alínea e) do n.º 1 do presente artigo devem ser conservados durante os cinco anos civis subsequentes."
+  },
+  "1013989875": {
+   "fragment_id": "1013989775",
+   "type": 1,
+   "heading": "Capítulo IV — Da responsabilidade e garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da responsabilidade e garantias"
+  },
+  "1013990075": {
+   "fragment_id": "1013989975",
+   "type": 11,
+   "heading": "Artigo 23.º — Da responsabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Da responsabilidade\n\n1 - As empresas de mediação são responsáveis pelo pontual cumprimento das obrigações resultantes do exercício da sua actividade.\n\n2 - São ainda solidariamente responsáveis pelos danos causados a terceiros, para além das situações já previstas na lei, quando se demonstre que actuaram, aquando da celebração e execução do contrato de mediação imobiliária, em desrespeito ao disposto nas alíneas a) a e) do n.º 1 e na alínea c) do n.º 2 do artigo 18.º\n\n3 - Consideram-se interessados, para efeitos do presente capítulo, todos os que, em resultado de um acto de mediação, venham a sofrer danos patrimoniais, ainda que não tenham sido parte no contrato de mediação imobiliária."
+  },
+  "1013990275": {
+   "fragment_id": "1013990175",
+   "type": 11,
+   "heading": "Artigo 24.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Garantias\n\n1 - Para garantia da responsabilidade emergente da sua actividade perante os interessados, as empresas devem prestar uma caução e realizar um contrato de seguro de responsabilidade civil.\n\n2 - As garantias destinam-se:\n\na) Ao reembolso dos montantes de que se tenham apropriado em violação do disposto nas alíneas a) e d) do n.º 2 do artigo 18.º;\n\nb) Ao reembolso dos montantes que tenham recebido em violação do disposto no n.º 3 do artigo 19.º, sem prejuízo do disposto no n.º 2 do mesmo artigo;\n\nc) Ao ressarcimento dos danos patrimoniais causados aos interessados, decorrentes de acções ou omissões das empresas e seus representantes, ou do incumprimento de outras obrigações resultantes do exercício da actividade.\n\n3 - Nenhuma empresa pode iniciar a sua actividade sem fazer prova junto do IMOPPI de que as garantias exigidas foram prestadas e se encontram em vigor."
+  },
+  "1013990475": {
+   "fragment_id": "1013990375",
+   "type": 11,
+   "heading": "Artigo 25.º — Forma de prestação da caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Forma de prestação da caução\n\n1 - As empresas devem prestar uma caução para garantia da responsabilidade emergente da não observância dos deveres previstos nas alíneas a) e b) do n.º 2 do artigo anterior.\n\n2 - A caução pode ser prestada por seguro-caução, garantia bancária, depósito bancário, ou títulos de dívida pública portuguesa, depositados a favor do IMOPPI.\n\n3 - A caução prestada não pode condicionar o accionamento desta a prazos ou ao cumprimento de obrigações por parte da empresa ou de terceiro.\n\n4 - O documento comprovativo da prestação de caução deve ser depositado no IMOPPI.\n\n5 - A caução só é devolvida um ano após a data da cessação da respectiva actividade, excepto se nesta data estiver pendente um processo de accionamento dessa garantia."
+  },
+  "1013990675": {
+   "fragment_id": "1013990575",
+   "type": 11,
+   "heading": "Artigo 26.º — Montante da caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Montante da caução\n\n1 - O montante mínimo garantido através da caução será fixado por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do ministro que tutela a área da defesa do consumidor.\n\n2 - Em caso de accionamento da caução, o montante de cobertura exigido deve ser reposto no prazo de 30 dias a contar da sua ocorrência."
+  },
+  "1013990875": {
+   "fragment_id": "1013990775",
+   "type": 11,
+   "heading": "Artigo 27.º — Accionamento da caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Accionamento da caução\n\n1 - Os interessados em accionar a caução podem requerer ao IMOPPI que demande a entidade garante.\n\n2 - O requerimento deve ser instruído com os documentos comprovativos dos factos alegados e apresentado no prazo de 20 dias a contar da data do conhecimento da violação dos deveres referidos no n.º 1 do artigo 25.º, sendo que em caso algum este direito pode ser exercido depois de ter ocorrido a devolução da caução, nos termos do n.º 5 do mesmo artigo."
+  },
+  "1013991075": {
+   "fragment_id": "1013990975",
+   "type": 11,
+   "heading": "Artigo 28.º — Comissão arbitral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Comissão arbitral\n\n1 - O requerimento previsto no artigo anterior pode ser apreciado por uma comissão arbitral, convocada pelo presidente do conselho de administração do IMOPPI, no prazo de 20 dias após a entrega do pedido, e constituída por um representante deste, que preside, um representante do Instituto do Consumidor, um representante das associações do sector da mediação imobiliária, um representante de uma das associações de defesa do consumidor a designar pelo requerente e um representante da empresa de mediação designado por esta.\n\n2 - A arbitragem prevista no número anterior rege-se pelo disposto na Lei n.º 31/86, de 29 de Agosto, relativa à arbitragem voluntária."
+  },
+  "1070723775": {
+   "fragment_id": "1013991175",
+   "type": 11,
+   "heading": "Artigo 29.º — Seguro de responsabilidade civil",
+   "in_force_from": "2001-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 29.º — Seguro de responsabilidade civil\n\n1 - Para garantia das obrigações previstas na alínea c) do n.º 2 do artigo 24.º, as empresas devem celebrar um contrato de seguro de responsabilidade civil de montante mínimo a fixar por portaria conjunta dos Ministros das Finanças, do Equipamento Social e do ministro que tutela a área da defesa do consumidor.\n\n2 - O montante mínimo coberto pelo contrato de seguro nos casos de cooperação de sociedades é o dobro do valor que vier a ser fixado na portaria referida no número anterior.\n\n3 - As condições mínimas do seguro obrigatório serão fixadas por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do ministro que tutela a área da defesa do consumidor.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1013991475": {
+   "fragment_id": "1013991375",
+   "type": 11,
+   "heading": "Artigo 30.º — Actualização das garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Actualização das garantias\n\nA actualização dos montantes das garantias previstas nos termos do artigo 24.º são fixadas por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do ministro que tutela a área da defesa do consumidor."
+  },
+  "1013991675": {
+   "fragment_id": "1013991575",
+   "type": 1,
+   "heading": "Capítulo V — Da fiscalização e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Da fiscalização e sanções"
+  },
+  "1013991875": {
+   "fragment_id": "1013991775",
+   "type": 11,
+   "heading": "Artigo 31.º — Competências dos serviços de inspecção do IMOPPI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Competências dos serviços de inspecção do IMOPPI\n\n1 - O IMOPPI, no âmbito das suas competências, inspecciona e fiscaliza a actividade de mediação imobiliária.\n\n2 - Todas as autoridades e seus agentes devem participar ao IMOPPI quaisquer infracções ao presente diploma e respectivas disposições regulamentares."
+  },
+  "1013992075": {
+   "fragment_id": "1013991975",
+   "type": 11,
+   "heading": "Artigo 32.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Contra-ordenações\n\n1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contra-ordenações, puníveis com aplicação das seguintes coimas:\n\na) De 500000$00 a 6000000$00, a violação do disposto no artigo 4.º, no n.º 1 do artigo 8.º e no n.º 3 do artigo 12.º;\n\nb) De 450000$00 a 5000000$00, a violação do disposto no artigo 18.º e no n.º 3 do artigo 19.º;\n\nc) De 300000$00 a 3000000$00, a violação do disposto no artigo 16.º, nos n.os 1, 2, 3, 4 e 5 do artigo 21.º e nas alíneas a), e), f) e h) do n.º 1 e no n.º 2 do artigo 22.º;\n\nd) De 200000$00 a 1000000$00, a violação do disposto no artigo 7.º, no n.º 2 do artigo 8.º e no n.º 7 do artigo 20.º;\n\ne) De 125000$00 a 500000$00, a violação do disposto na segunda parte do n.º 1 e no n.º 2 do artigo 12.º e nas alíneas b), c), d), g) e i) do n.º 1 do artigo 22.º\n\n2 - A tentativa e negligência são puníveis, sendo, nestes casos, os limites máximo e mínimo da coima reduzidos a metade."
+  },
+  "1013992275": {
+   "fragment_id": "1013992175",
+   "type": 11,
+   "heading": "Artigo 33.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sanções acessórias\n\n1 - Quando a gravidade da infracção o justifique, podem ser aplicadas as seguintes sanções acessórias, nos termos do regime geral das contra-ordenações e coimas:\n\na) Encerramento de estabelecimentos;\n\nb) Interdição do exercício da actividade.\n\n2 - As sanções referidas no número anterior têm duração máxima de dois anos contados a partir da decisão condenatória definitiva."
+  },
+  "1013992475": {
+   "fragment_id": "1013992375",
+   "type": 11,
+   "heading": "Artigo 34.º — Competência para aplicação das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Competência para aplicação das sanções\n\n1 - O processo de contra-ordenação é da competência dos serviços do IMOPPI.\n\n2 - Compete ao presidente do conselho de administração do IMOPPI a aplicação das coimas e sanções acessórias previstas no presente diploma.\n\n3 - O produto das coimas recebidas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado e em 40% para o IMOPPI."
+  },
+  "1013992675": {
+   "fragment_id": "1013992575",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "1013992875": {
+   "fragment_id": "1013992775",
+   "type": 11,
+   "heading": "Artigo 35.º — Idioma dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Idioma dos documentos\n\nOs requerimentos e demais documentos referidos no presente diploma devem ser redigidos em língua portuguesa ou, quando for utilizado outro idioma, acompanhados de tradução legal, nos termos previstos no Código do Notariado."
+  },
+  "1013993075": {
+   "fragment_id": "1013992975",
+   "type": 11,
+   "heading": "Artigo 36.º — Actos sujeitos a publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Actos sujeitos a publicação\n\n1 - O IMOPPI promoverá a publicação na 2.ª série do Diário da República das licenças emitidas e canceladas e, ainda, das sanções aplicadas.\n\n2 - As sanções previstas nos artigos 32.º e 33.º do presente diploma devem ser ainda publicitadas pelo IMOPPI, em jornal de difusão nacional, regional ou local, de acordo com o local da sede da empresa."
+  },
+  "1013993275": {
+   "fragment_id": "1013993175",
+   "type": 11,
+   "heading": "Artigo 37.º — Substituição das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Substituição das licenças\n\n1 - O IMOPPI procederá à substituição das licenças à medida que as empresas procedam à sua adaptação, nos termos previstos no artigo 38.º do presente diploma.\n\n2 - A substituição a que se refere o número anterior será isenta de taxas."
+  },
+  "1070723975": {
+   "fragment_id": "1013993375",
+   "type": 11,
+   "heading": "Artigo 38.º — Disposição transitória",
+   "in_force_from": "2001-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 38.º — Disposição transitória\n\n1 - As pessoas singulares e as pessoas colectivas licenciadas à data da entrada em vigor do presente diploma dispõem do período máximo de um ano para se adaptarem às suas disposições.\n\n2 - As entidades referidas no número anterior que se encontrem licenciadas há mais de três anos estão isentas, para efeitos de substituição da licença, da comprovação da sua capacidade profissional, a qual é assegurada, nesse momento, pelos seus administradores, gerentes ou directores, sem prejuízo do disposto no n.º 4.\n\n3 - A comprovação da capacidade profissional pelas entidades referidas no n.º 1 do presente artigo, que se encontrem licenciadas há menos de três anos, limita-se à formação profissional, com o conteúdo estabelecido pela portaria referida no n.º 1 do artigo 6.º\n\n4 - Em caso de substituição dos administradores, gerentes ou directores que assegurem a capacidade profissional prevista nos números anteriores, devem as entidades aí referidas cumprir o preceituado na alínea c) do n.º 1 do artigo 5.º\n\n5 - Até à publicação da portaria prevista no n.º 3 do artigo 29.º do presente diploma, mantém-se em vigor o regime constante na Portaria n.º 371/93, de 1 de Abril.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1013993675": {
+   "fragment_id": "1013993575",
+   "type": 11,
+   "heading": "Artigo 39.º — Modelos e impressos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Modelos e impressos\n\nOs modelos e impressos a utilizar em cumprimento do disposto no presente diploma, bem como os respectivos preços, serão aprovados pelo conselho de administração do IMOPPI."
+  },
+  "1013993875": {
+   "fragment_id": "1013993775",
+   "type": 11,
+   "heading": "Artigo 40.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Legislação revogada\n\nÉ revogado o Decreto-Lei n.º 285/92, de 19 de Dezembro."
+  },
+  "1013994075": {
+   "fragment_id": "1013993975",
+   "type": 11,
+   "heading": "Artigo 41.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Entrada em vigor\n\nO presente diploma entra em vigor três meses após a sua publicação."
+  },
+  "1013994275": {
+   "fragment_id": "1013994175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 26 de Fevereiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Março de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "1073669075": {
+   "fragment_id": "1013984575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "A actividade de mediação imobiliária encontra-se regulada pelo Decreto-Lei n.º 285/92, de 19 de Dezembro.\n\nFace a uma actividade em contínua expansão e às crescentes expectativas dos consumidores, justifica-se a actualização dos requisitos inerentes ao exercício da actividade. Aproveita-se ainda para aperfeiçoar os aspectos colhidos da experiência entretanto verificada.\n\nCom efeito, constatando-se um significativo aumento do exercício clandestino da actividade de mediação imobiliária, com os inevitáveis inconvenientes e prejuízos daí decorrentes, quer na perspectiva dos agentes económicos legalmente habilitados, quer na perspectiva dos consumidores, urge instituir os mecanismos legais adequados a uma maior clarificação deste regime e ao reforço da sua fiscalização.\n\nSalientam-se, assim, em relação à anterior legislação as seguintes soluções normativas:\n\nO reforço da capacidade empresarial das entidades mediadoras ao permitir-lhes o exercício de outras actividades comerciais, estabelecendo-se, contudo, a individualização da actividade de mediação imobiliária, a fim de possibilitar a sua eficaz fiscalização;\n\nPretende-se que todas as entidades adoptem a forma societária, principalmente após a criação da sociedade unipessoal, instituto jurídico que se tem revelado particularmente adequado ao são desenvolvimento das pequenas empresas, de acordo, aliás, com a tendência que se tem vindo a verificar neste sector, a fim de possibilitar, também, a sua fiscalização;\n\nConsagra-se maior exigência de requisitos para o ingresso na actividade, agora baseados na idoneidade e capacidade profissional dos seus responsáveis, bem como na capacidade financeira da empresa, demonstrada pela exigência de capitais próprios positivos;\n\nEstabelece-se a forma de identificação das empresas, dos seus representantes e dos seus prestadores de serviços;\n\nClarifica-se o momento e estabelecem-se as condições em que é devida a remuneração pela actividade de mediação imobiliária, questões que no domínio da anterior legislação motivaram inúmeras reclamações por parte dos consumidores;\n\nReforça-se o sistema das garantias, estabelecendo-se, para além do seguro de responsabilidade civil já existente, uma caução para reembolso de quantias indevidamente recebidas;\n\nCria-se uma comissão arbitral com representação dos diversos interesses em presença, como meio mais expedito para reembolso de quantias indevidamente recebidas;\n\nEstabelecem-se novos deveres das empresas, quer para com os interessados, quer para com o organismo licenciador, tornando-se, em consequência, mais abrangente o regime contra-ordenacional;\n\nInstituem-se novas sanções acessórias, incluindo o alargamento a novas situações de interdição do exercício da actividade e o encerramento dos estabelecimentos, quando a gravidade da situação o justifique.\n\nForam ouvidas as associações representativas do sector e o Instituto do Consumidor.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669275": {
+   "fragment_id": "1013984775",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669375": {
+   "fragment_id": "1013984975",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\n1 - O exercício da actividade de mediação imobiliária fica sujeito ao regime estabelecido no presente diploma.\n\n2 - O exercício da actividade de mediação imobiliária por sociedades com sede efectiva noutro Estado da Comunidade Europeia está igualmente sujeito ao presente diploma sempre que a actividade incida sobre imóveis situados em Portugal.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669475": {
+   "fragment_id": "1013985175",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção de empresa de mediação imobiliária",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 2.º — Noção de empresa de mediação imobiliária\n\nConsidera-se empresa de mediação imobiliária aquela que tenha por actividade principal a definida no artigo 3.º do presente diploma.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669575": {
+   "fragment_id": "1013985375",
+   "type": 11,
+   "heading": "Artigo 3.º — Objecto da actividade",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 3.º — Objecto da actividade\n\n1 - A actividade de mediação imobiliária é aquela em que, por contrato, uma empresa se obriga a diligenciar no sentido de conseguir interessado na compra ou na venda de bens imóveis ou na constituição de quaisquer direitos reais sobre os mesmos, bem como para o seu arrendamento e trespasse, desenvolvendo para o efeito acções de promoção e recolha de informações sobre os negócios pretendidos e sobre as características dos respectivos imóveis.\n\n2 - No âmbito dos contratos de mediação imobiliária as empresas podem ainda prestar serviços relativos à obtenção de documentação conducente à concretização dos negócios visados e que não estejam legalmente atribuídos em exclusivo a outras profissões.\n\n3 - Para efeitos do disposto no presente artigo, interessado será o terceiro angariado pela empresa de mediação, desde que esse terceiro venha a concretizar o negócio visado pelo contrato de mediação.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669675": {
+   "fragment_id": "1013985575",
+   "type": 11,
+   "heading": "Artigo 4.º — Restrição ao âmbito do objecto social",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 4.º — Restrição ao âmbito do objecto social\n\nÀs empresas de mediação imobiliária está vedado o exercício da actividade comercial de compra e venda de bens imóveis.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669775": {
+   "fragment_id": "1013985775",
+   "type": 11,
+   "heading": "Artigo 5.º — Requisitos de ingresso e manutenção na actividade",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 5.º — Requisitos de ingresso e manutenção na actividade\n\n1 - A concessão e manutenção da licença depende do preenchimento cumulativo pelos requerentes dos seguintes requisitos:\n\na) Ser sociedade comercial, ou outra forma de cooperação de sociedades, com sede efectiva num Estado membro da União Europeia, que tenha por objecto e actividade principal o exercício da actividade de mediação imobiliária e a denominação nos termos estipulados no n.º 1 do artigo 7.º;\n\nb) Ter a situação regularizada perante a administração fiscal e a segurança social;\n\nc) Um dos administradores, gerentes ou directores deve possuir a capacidade profissional nos termos do disposto no artigo 6.º;\n\nd) Prestar as garantias exigidas no artigo 24.º;\n\ne) Deter capital próprio positivo;\n\nf) Os administradores, gerentes ou directores da sociedade requerente devem possuir idoneidade comercial.\n\n2 - Para efeitos do disposto na alínea e) do número anterior, o capital próprio é determinado nos termos estabelecidos pelo Plano Oficial de Contabilidade (POC) em vigor.\n\n3 - Para efeitos do disposto na alínea f) do n.º 1 não são consideradas comercialmente idóneas as pessoas relativamente às quais se verifique:\n\na) Proibição legal do exercício do comércio;\n\nb) Inibição do exercício do comércio por ter sido declarada falência, enquanto não for levantada a inibição e decretada a reabilitação;\n\nc) Terem sido gerentes ou administradores de uma empresa de mediação punida com três coimas pela prática dolosa dos ilícitos de mera ordenação social previstos na alínea c) do n.º 1 do artigo 32.º;\n\nd) Terem sido gerentes ou administradores de uma empresa de mediação imobiliária punida com duas coimas pela prática dolosa dos ilícitos de mera ordenação social previstos na alínea b) do n.º 1 do artigo 32.º;\n\ne) Terem sido gerentes ou administradores de uma empresa de mediação imobiliária punida com uma coima pela prática dolosa do ilícito de mera ordenação social previsto na alínea a) do n.º 1 do artigo 32.º, desde que fique demonstrada a violação habitual de um dos deveres estipulados no artigo 18.º e no n.º 3 do artigo 19.º, no exercício ilegal da actividade de mediação imobiliária;\n\nf) Terem sido gerentes ou administradores de uma empresa de mediação imobiliária punida com a sanção acessória de interdição do exercício da actividade, nos termos previstos na alínea b) do n.º 1 do artigo 33.º, durante o período desta interdição;\n\ng) Terem sido gerentes ou administradores de uma empresa punida com uma coima por práticas restritivas da concorrência;\n\nh) Condenação, com trânsito em julgado, pela prática de concorrência ilícita ou desleal;\n\ni) Condenação, com trânsito em julgado, não suspensa na sua execução, por crime doloso contra o património, em pena igual ou superior a 1 ano de prisão;\n\nj) Condenação, com trânsito em julgado, pela prática dos crimes referidos no artigo 2.º do Decreto-Lei n.º 325/95, de 2 de Dezembro, relativo ao branqueamento de capitais e de outros bens provenientes dos crimes nele indicados.\n\n4 - As condenações referidas nas alíneas c), d), e), g) e h) do número anterior não relevam após o decurso do prazo de dois anos contados do cumprimento integral das obrigações decorrentes da aplicação da última sanção.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669875": {
+   "fragment_id": "1013985975",
+   "type": 11,
+   "heading": "Artigo 6.º — Da capacidade profissional",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 6.º — Da capacidade profissional\n\n1 - Para efeitos da alínea c) do n.º 1 do artigo 5.º, a capacidade profissional consiste na posse das habilitações literárias, experiência e formação profissional adequadas a estabelecer por portaria conjunta dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Educação e do Trabalho e da Solidariedade.\n\n2 - A experiência profissional é adquirida através do exercício de funções específicas ao serviço de entidades cuja natureza e actividade são definidas pela portaria referida no número anterior, sendo a adequação do conteúdo dessas funções apreciada pelo Instituto de Mercados de Obras Públicas e Particulares e do Imobiliário, tendo em conta a respectiva relevância para o sector.\n\n3 - A formação profissional é adquirida pela frequência de acções de formação administradas por entidades legalmente acreditadas, cujo conteúdo e duração são estabelecidos pela portaria referida no n.º 1.\n\n4 - Em caso de sociedades que não tenham a sua sede em Portugal, os mandatários das respectivas representações devem igualmente dispor da capacidade profissional, nos termos exigidos nos números anteriores.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073669975": {
+   "fragment_id": "1013986175",
+   "type": 11,
+   "heading": "Artigo 7.º — Denominação e obrigação de identificação",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 7.º — Denominação e obrigação de identificação\n\n1 - Da denominação das empresas de mediação imobiliária consta obrigatoriamente a expressão «Mediação imobiliária», sendo o seu uso vedado a quaisquer outras entidades.\n\n2 - As empresas de mediação estão obrigadas à sua clara identificação, com indicação da denominação, do número da licença e do prazo de validade da mesma, em todos os locais de atendimento de que disponham, incluindo os postos provisórios.\n\n3 - Em todos os contratos, correspondência, publicações, publicidade e, de um modo geral, em toda a sua actividade externa, as empresas devem indicar a sua denominação e o número da respectiva licença.\n\n4 - Todas as pessoas que prestem serviços às empresas de mediação, no âmbito da respectiva actividade externa, devem estar identificadas através de cartões de identificação fornecidos pelas mesmas, dos quais deverá constar o seu nome e fotografia actualizada, bem como a identificação da empresa, nos termos do n.º 2 do presente artigo.\n\n5 - Todas as empresas de mediação que desenvolvam a sua actividade no âmbito de contratos de concessão ou uso de marcas, incluindo os contratos de franquia, estão sujeitas ao disposto no presente artigo.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670075": {
+   "fragment_id": "1013986375",
+   "type": 1,
+   "heading": "Capítulo II — Do licenciamento e registo",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "### Capítulo II — Do licenciamento e registo\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670175": {
+   "fragment_id": "1013986575",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 8.º — Licença\n\n1 - O exercício da actividade de mediação imobiliária depende de licença a conceder pelo Instituto de Mercados de Obras Públicas e Particulares e do Imobiliário, doravante designado por IMOPPI.\n\n2 - O IMOPPI emitirá cartões de identificação aos representantes legais das empresas licenciadas, que os deverão exibir em todos os actos em que intervenham.\n\n3 - As licenças concedidas e os cartões de identificação são válidos por três anos e revalidados por idênticos períodos.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670275": {
+   "fragment_id": "1013986775",
+   "type": 11,
+   "heading": "Artigo 9.º — Pedido de licenciamento",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 9.º — Pedido de licenciamento\n\n1 - O pedido de licença é formulado em requerimento dirigido ao presidente do conselho de administração do IMOPPI, do qual deve constar:\n\na) A identificação do requerente;\n\nb) A identificação dos administradores, gerentes ou directores;\n\nc) A localização dos estabelecimentos.\n\n2 - O requerimento deve ser acompanhado dos documentos comprovativos do preenchimento dos requisitos exigidos no artigo 5.º, a regulamentar por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n3 - O pedido de licenciamento só é deferido quando a empresa reúna os requisitos estabelecidos no presente diploma e tenha procedido ao pagamento da taxa aplicável.\n\n4 - O IMOPPI poderá notificar o requerente para, num prazo não superior a 30 dias, suprir deficiências ou prestar esclarecimentos relativamente ao seu pedido.\n\n5 - Em caso de deferimento do pedido, o IMOPPI deverá emitir a licença no prazo máximo de 10 dias.\n\n6 - Um novo pedido só pode ter lugar um ano após o indeferimento por falta de comprovação de requisitos.\n\n7 - Em caso de indeferimento por falta de pagamento da taxa aplicável, um novo pedido de licenciamento implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º\n\n8 - Qualquer pedido só será processado após comprovação do pagamento das coimas aplicadas por decisão tornada definitiva, nos termos do artigo 32.º\n\n9 - Um novo pedido que seja efectuado até seis meses após o termo de validade da licença, por não ter sido requerida a sua revalidação nos termos do artigo 13.º, implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670375": {
+   "fragment_id": "1013986975",
+   "type": 11,
+   "heading": "Artigo 10.º — Suspensão de licenças",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 10.º — Suspensão de licenças\n\n1 - São suspensas as licenças:\n\na) Às empresas que o requeiram de forma fundamentada;\n\nb) Às empresas que deixem de reunir qualquer dos requisitos necessários à respectiva concessão e manutenção referidos no artigo 5.º, sem prejuízo do disposto no artigo 11.º\n\n2 - A suspensão das licenças só será levantada a solicitação dos interessados, após comprovação dos requisitos de ingresso na actividade.\n\n3 - O período de suspensão da licença não pode ir além da data limite da sua validade e, em caso algum, de seis meses consecutivos.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670475": {
+   "fragment_id": "1013987175",
+   "type": 11,
+   "heading": "Artigo 11.º — Cancelamento das licenças",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.",
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 11.º — Cancelamento das licenças\n\nSão canceladas as licenças:\n\na) Às empresas que o requeiram;\n\nb) Às empresas que tenham deixado de ser idóneas nos termos do disposto no n.º 3 do artigo 5.º;\n\nc) Às empresas que se encontrem nas situações previstas no artigo anterior e que, nos termos do mesmo, não regularizem a situação;\n\nd) Às empresas às quais tenha sido aplicada a sanção de interdição do exercício de actividade prevista no artigo 33.º;\n\ne) Em caso de extinção das empresas titulares;\n\nf) Às empresas que não procedam ao pagamento voluntário das coimas aplicadas por decisão tornada definitiva, nos termos do artigo 32.º\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1073670575": {
+   "fragment_id": "1013987375",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições e efeitos da suspensão e do cancelamento das licenças",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 12.º — Condições e efeitos da suspensão e do cancelamento das licenças\n\n1 - A suspensão ou cancelamento a requerimento do interessado só é concedida mediante prévia entrega da licença ao IMOPPI, sendo que, nos restantes casos, a suspensão e o cancelamento implicam a entrega da mesma, no prazo máximo de oito dias contados a partir da data da sua notificação, sob pena de apreensão imediata pelas autoridades competentes.\n\n2 - Em caso de cancelamento, as empresas devem ainda remeter ao IMOPPI cópia da declaração de alteração ou cessação de actividade, conforme entregue na repartição de finanças.\n\n3 - A suspensão e o cancelamento determinam, ainda, o encerramento dos estabelecimentos e postos provisórios, sob pena de fecho coercivo pelas autoridades competentes, sendo-lhes vedado o exercício da actividade a partir da data da recepção da respectiva notificação.\n\n4 - A suspensão e o cancelamento das licenças determinam a nulidade dos contratos de mediação imobiliária ainda não cumpridos por causa imputável às empresas titulares.\n\n5 - Nos casos previstos nas alíneas a) e c) do artigo 11.º, um novo pedido de licenciamento só pode ter lugar um ano após a data do cancelamento da licença.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670675": {
+   "fragment_id": "1013987575",
+   "type": 11,
+   "heading": "Artigo 13.º — Revalidação das licenças",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 13.º — Revalidação das licenças\n\n1 - A revalidação deve ser requerida até 30 dias antes da data do termo da licença, sem prejuízo do disposto no n.º 3 do presente artigo.\n\n2 - O pedido de revalidação só é deferido quando a empresa reúna os requisitos necessários à obtenção da licença e tenha procedido ao pagamento da taxa aplicável e das coimas em dívida e insusceptíveis de impugnação judicial.\n\n3 - O pedido de revalidação efectuado após o prazo estabelecido no n.º 1 do presente artigo e até à data do termo de validade da licença implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º\n\n4 - O pedido de revalidação efectuado após a data do termo da licença implica o não processamento do mesmo e a devolução ao requerente de toda a documentação entregue, podendo efectuar novo pedido nos termos do artigo 9.º\n\n5 - Em caso de indeferimento do pedido de revalidação da licença por falta de comprovação de requisitos para a manutenção na actividade, um novo pedido só poderá ser apresentado um ano após o indeferimento.\n\n6 - Em caso de indeferimento por falta de pagamento da taxa aplicável, um novo pedido de revalidação implica um agravamento da respectiva taxa, estabelecido pela portaria referida no n.º 3 do artigo 14.º\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670775": {
+   "fragment_id": "1013987775",
+   "type": 11,
+   "heading": "Artigo 14.º — Taxas",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 14.º — Taxas\n\n1 - Os procedimentos, administrativos tendentes ao licenciamento, revalidação e substituição das licenças, bem como os demais tendentes à boa execução do presente diploma, estão sujeitos ao pagamento de taxas destinadas a cobrir os encargos com a gestão do sistema de ingresso e permanência na actividade de mediação imobiliária, bem como com a fiscalização desta actividade.\n\n2 - A não comprovação do pagamento da taxa no prazo de 15 dias a contar da emissão da respectiva guia implica o indeferimento do pedido.\n\n3 - As taxas constituem receita do IMOPPI e são fixadas, bem como os procedimentos administrativos previstos no n.º 1, por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670875": {
+   "fragment_id": "1013987975",
+   "type": 11,
+   "heading": "Artigo 15.º — Registo das empresas",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 15.º — Registo das empresas\n\n1 - O IMOPPI deve organizar e manter um registo das empresas de mediação, do qual deve constar:\n\na) A denominação social, a sede, o número de identificação de pessoa colectiva, o número de matrícula e a conservatória do registo comercial;\n\nb) As marcas e os nomes dos estabelecimentos comerciais das empresas;\n\nc) O capital próprio;\n\nd) A identificação dos administradores e gerentes;\n\ne) A localização dos estabelecimentos;\n\nf) A forma de prestação das garantias exigidas e respectivos elementos de identificação;\n\ng) A identificação das pessoas que detenham a capacidade profissional exigida no artigo 6.º\n\n2 - Devem ainda ser inscritos no registo, por averbamento, os seguintes factos:\n\na) A alteração de qualquer dos elementos integrantes do pedido de licenciamento;\n\nb) A verificação de qualquer outro facto sujeito a comunicação ao IMOPPI;\n\nc) A suspensão da licença;\n\nd) As denúncias apresentadas;\n\ne) As sanções aplicadas.\n\n3 - O IMOPPI deve ainda manter um registo dos pedidos indeferidos e das licenças canceladas.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073670975": {
+   "fragment_id": "1013988175",
+   "type": 1,
+   "heading": "Capítulo III — Do exercício da actividade",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "### Capítulo III — Do exercício da actividade\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671075": {
+   "fragment_id": "1013988375",
+   "type": 11,
+   "heading": "Artigo 16.º — Estabelecimentos",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.",
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 16.º — Estabelecimentos\n\n1 - As empresas só podem efectuar atendimento do público em instalações autónomas, separadas de quaisquer outros estabelecimentos comerciais ou industriais e de residências, e exclusivamente afectas ao exercício da actividade de mediação imobiliária, designadas por estabelecimentos.\n\n2 - A abertura ou a alteração da localização dos estabelecimentos referidos no número anterior só podem ser efectuadas após comunicação ao IMOPPI e após o cumprimento das obrigações estabelecidas no artigo 21.º\n\n3 - O encerramento dos estabelecimentos referidos nos números anteriores só pode ser efectuado após comunicação ao IMOPPI.\n\n4 - As empresas podem ainda instalar postos provisórios junto a imóveis ou em empreendimentos de cuja mediação estejam encarregadas, desde que exclusivamente destinados a acolher o representante da empresa para aí prestar informações e facultar a visita aos imóveis.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1073671175": {
+   "fragment_id": "1013988575",
+   "type": 11,
+   "heading": "Artigo 17.º — Negócios sobre estabelecimentos comerciais",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 17.º — Negócios sobre estabelecimentos comerciais\n\nO trespasse e a cessão de exploração de estabelecimentos comerciais pertencentes a sociedades licenciadas nos termos do presente diploma e afectos ao exercício da actividade de mediação imobiliária dependem da titularidade da licença para o exercício da mediação imobiliária pela adquirente, quando esta pretender continuar a prosseguir ali esta actividade.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671275": {
+   "fragment_id": "1013988775",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres para com os interessados",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 18.º — Deveres para com os interessados\n\n1 - As empresas são obrigadas a:\n\na) Certificar-se, antes da celebração do contrato de mediação, da capacidade e legitimidade para contratar das pessoas intervenientes nos negócios que irão promover;\n\nb) Certificar-se ainda, antes da celebração do mesmo contrato, por todos os meios ao seu alcance, se as características do imóvel objecto do contrato de mediação correspondem às fornecidas pelos interessados contratantes e se sobre o mesmo recaem quaisquer ónus ou encargos;\n\nc) Obter informação junto de quem as contratou e fornecê-la aos interessados de forma clara, objectiva e adequada, nomeadamente sobre as características, composição, preço e condições de pagamento do bem em causa;\n\nd) Propor com exactidão e clareza os negócios de que forem encarregadas, procedendo de modo a não induzir em erro os interessados;\n\ne) Comunicar imediatamente aos interessados qualquer facto que ponha em causa a concretização do negócio visado;\n\nf) Entregar de imediato aos interessados quaisquer quantias que, na qualidade de mediador, lhes sejam confiadas.\n\n2 - Está expressamente vedado às empresas:\n\na) Receber remuneração de ambos os interessados no mesmo negócio, sendo que aquela só lhe será devida por quem em primeiro lugar a contratou, excepto se houver acordo expresso em contrário;\n\nb) Intervir como parte interessada em negócio cujo objecto coincida com o objecto material do contrato de mediação do qual seja parte, nomeadamente comprar ou constituir outros direitos reais, arrendar e tomar de trespasse, para si ou sociedade de que sejam sócias, bem como para os seus sócios, administradores ou gerentes e seus cônjuges e descendentes e ascendentes do 1.º grau;\n\nc) Celebrar contratos de mediação imobiliária quando as circunstâncias do caso lhes permitirem razoavelmente duvidar da licitude do negócio que irão promover;\n\nd) Utilizar em proveito próprio as quantias referidas na alínea f) do número anterior.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671375": {
+   "fragment_id": "1013988975",
+   "type": 11,
+   "heading": "Artigo 19.º — Remuneração",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 19.º — Remuneração\n\n1 - A remuneração só é devida com a conclusão e perfeição do negócio visado pelo exercício da mediação.\n\n2 - Exceptuam-se do disposto no número anterior:\n\na) Os casos em que o negócio visado, no âmbito de um contrato de mediação celebrado em regime de exclusividade, não se concretiza por causa imputável ao cliente da empresa mediadora, tendo esta direito a remuneração;\n\nb) Caso seja celebrado contrato-promessa relativo ao negócio visado pelo contrato de mediação, as partes podem prever o pagamento da remuneração após a sua celebração.\n\n3 - É vedado às entidades mediadoras receber quaisquer quantias a título de remuneração, ou de provisão por conta da mesma, previamente ao momento em que esta é devida nos termos dos n.os 1 e 2 do presente artigo.\n\n4 - Caso a entidade mediadora tenha celebrado contratos de mediação com ambas as partes no mesmo negócio, cujo objecto material seja o mesmo bem imóvel, a remuneração só é devida por quem primeiro a contratou, excepto se houver acordo expresso de todas as partes na respectiva divisão.\n\n5 - A alteração subjectiva numa das partes do negócio visado por exercício do direito legal de preferência não afasta o direito a remuneração da empresa de mediação.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671475": {
+   "fragment_id": "1013989175",
+   "type": 11,
+   "heading": "Artigo 20.º — Contrato de mediação imobiliária",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 20.º — Contrato de mediação imobiliária\n\n1 - O contrato de mediação imobiliária está sujeito à forma escrita.\n\n2 - Do contrato constam obrigatoriamente os seguintes elementos:\n\na) A identificação do contrato como «contrato de mediação imobiliária»;\n\nb) A identificação das partes;\n\nc) A identificação das características do bem imóvel que constitui objecto material do contrato, com especificação de todos os ónus e encargos que sobre ele recaiam;\n\nd) A identificação do negócio visado pelo exercício da mediação;\n\ne) As obrigações das partes contratantes;\n\nf) As condições de remuneração, nomeadamente montante ou percentagem e forma de pagamento, com indicação da taxa de IVA aplicável;\n\ng) O prazo de duração do contrato;\n\nh) A identificação das entidades, seguradoras ou bancárias, através das quais foram prestadas as garantias previstas no artigo 24.º\n\n3 - Quando a empresa de mediação é contratada em regime de exclusividade, só ela tem direito de promover o negócio objecto do contrato de mediação, durante o respectivo período de vigência.\n\n4 - A consagração do regime de exclusividade, quando exista, terá de constar expressamente do contrato de mediação imobiliária.\n\n5 - Os serviços previstos no n.º 2 do artigo 3.º prestados pelas empresas no âmbito de um contrato de mediação devem constar expressamente do mesmo, bem como a menção dos correspondentes elementos a que se refere a alínea f) do n.º 2 do presente artigo, ficando as empresas, nestes casos, investidas na qualidade de mandatárias sem representação.\n\n6 - Tratando-se de contratos com uso de cláusulas contratuais gerais, a empresa de mediação deve enviar cópia dos respectivos projectos ao IMOPPI e ao Instituto do Consumidor.\n\n7 - O contrato deve ser assinado em duplicado, sendo um exemplar entregue ao interessado e destinando-se o outro a arquivo, após inscrição no livro de registos a que se refere a alínea e) do n.º 1 do artigo 22.º\n\n8 - O incumprimento do disposto nos n.os 1, 2 e 6 do presente artigo gera a nulidade do contrato, não podendo esta, contudo, ser invocada pela entidade mediadora.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671575": {
+   "fragment_id": "1013989375",
+   "type": 11,
+   "heading": "Artigo 21.º — Livro de reclamações",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 21.º — Livro de reclamações\n\n1 - Em cada estabelecimento deve existir um livro de reclamações destinado aos utentes, para que estes possam formular reclamações sobre a qualidade dos serviços e o modo como foram prestados.\n\n2 - O livro de reclamações deve encontrar-se sempre disponível e ser imediatamente facultado ao utente que o solicite, devendo ser-lhe entregue um duplicado das observações ou reclamações exaradas no mesmo, podendo este remetê-lo ao IMOPPI, acompanhado dos documentos e meios de prova necessários à apreciação das mesmas.\n\n3 - As entidades mediadoras são obrigadas a enviar ao IMOPPI um duplicado das reclamações escritas no livro, no prazo máximo de cinco dias a contar da sua ocorrência.\n\n4 - Em todos os estabelecimentos deve ser publicitada de forma bem visível a existência do respectivo livro de reclamações.\n\n5 - Nos postos provisórios devem ser devidamente publicitados os estabelecimentos onde se encontram os livros de reclamações.\n\n6 - O livro de reclamações é editado e fornecido pelo IMOPPI ou pelas entidades que ele encarregar para o efeito, sendo o modelo, o preço e as condições de distribuição e utilização, aprovados pelo conselho de administração do IMOPPI.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671675": {
+   "fragment_id": "1013989575",
+   "type": 11,
+   "heading": "Artigo 22.º — Deveres para com o IMOPPI",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 22.º — Deveres para com o IMOPPI\n\n1 - As empresas são obrigadas a:\n\na) Comunicar ao IMOPPI qualquer alteração verificada nos requisitos previstos no n.º 1 do artigo 5.º no prazo de 15 dias a contar da respectiva ocorrência;\n\nb) Comunicar previamente ao IMOPPI o uso de marcas ou nomes de estabelecimentos comerciais;\n\nc) Comunicar ao IMOPPI todas as alterações que impliquem actualização do registo das empresas referido no n.º 1 do artigo 15.º, bem como de quaisquer outras modificações introduzidas no pacto social das sociedades, no prazo de 30 dias a contar da respectiva ocorrência, sem prejuízo do disposto no n.º 2 do artigo 16.º;\n\nd) Enviar anualmente ao IMOPPI, no prazo por este determinado, os elementos relacionados com o exercício da actividade que lhe sejam solicitados;\n\ne) Manter e conservar actualizados um livro de registo e um arquivo de todos os contratos de mediação celebrados no exercício da respectiva actividade, nos termos do artigo 20.º;\n\nf) Dispor de contabilidade organizada de modo a que as operações relativas à actividade de mediação imobiliária se possam claramente distinguir das restantes;\n\ng) Enviar ao IMOPPI cópia das sentenças ou decisões que ponham termo a processos em que tenham sido parte;\n\nh) Prestar ao IMOPPI, no exercício da sua competência de fiscalização, todas as informações relacionadas com a sua actividade, facultar-lhe o acesso às instalações, aos livros de registo e de reclamações, ao arquivo dos contratos de mediação imobiliária e demais documentação referente à sua actividade de mediação;\n\ni) Comunicar ao IMOPPI a cessação da respectiva actividade.\n\n2 - Os contratos arquivados nos termos da alínea e) do n.º 1 do presente artigo devem ser conservados durante os cinco anos civis subsequentes.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671775": {
+   "fragment_id": "1013989775",
+   "type": 1,
+   "heading": "Capítulo IV — Da responsabilidade e garantias",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "### Capítulo IV — Da responsabilidade e garantias\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073671875": {
+   "fragment_id": "1013989975",
+   "type": 11,
+   "heading": "Artigo 23.º — Da responsabilidade",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 23.º — Da responsabilidade\n\n1 - As empresas de mediação são responsáveis pelo pontual cumprimento das obrigações resultantes do exercício da sua actividade.\n\n2 - São ainda solidariamente responsáveis pelos danos causados a terceiros, para além das situações já previstas na lei, quando se demonstre que actuaram, aquando da celebração e execução do contrato de mediação imobiliária, em desrespeito ao disposto nas alíneas a) a e) do n.º 1 e na alínea c) do n.º 2 do artigo 18.º\n\n3 - Consideram-se interessados, para efeitos do presente capítulo, todos os que, em resultado de um acto de mediação, venham a sofrer danos patrimoniais, ainda que não tenham sido parte no contrato de mediação imobiliária.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672075": {
+   "fragment_id": "1013990175",
+   "type": 11,
+   "heading": "Artigo 24.º — Garantias",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 24.º — Garantias\n\n1 - Para garantia da responsabilidade emergente da sua actividade perante os interessados, as empresas devem prestar uma caução e realizar um contrato de seguro de responsabilidade civil.\n\n2 - As garantias destinam-se:\n\na) Ao reembolso dos montantes de que se tenham apropriado em violação do disposto nas alíneas a) e d) do n.º 2 do artigo 18.º;\n\nb) Ao reembolso dos montantes que tenham recebido em violação do disposto no n.º 3 do artigo 19.º, sem prejuízo do disposto no n.º 2 do mesmo artigo;\n\nc) Ao ressarcimento dos danos patrimoniais causados aos interessados, decorrentes de acções ou omissões das empresas e seus representantes, ou do incumprimento de outras obrigações resultantes do exercício da actividade.\n\n3 - Nenhuma empresa pode iniciar a sua actividade sem fazer prova junto do IMOPPI de que as garantias exigidas foram prestadas e se encontram em vigor.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672175": {
+   "fragment_id": "1013990375",
+   "type": 11,
+   "heading": "Artigo 25.º — Forma de prestação da caução",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 25.º — Forma de prestação da caução\n\n1 - As empresas devem prestar uma caução para garantia da responsabilidade emergente da não observância dos deveres previstos nas alíneas a) e b) do n.º 2 do artigo anterior.\n\n2 - A caução pode ser prestada por seguro-caução, garantia bancária, depósito bancário, ou títulos de dívida pública portuguesa, depositados a favor do IMOPPI.\n\n3 - A caução prestada não pode condicionar o accionamento desta a prazos ou ao cumprimento de obrigações por parte da empresa ou de terceiro.\n\n4 - O documento comprovativo da prestação de caução deve ser depositado no IMOPPI.\n\n5 - A caução só é devolvida um ano após a data da cessação da respectiva actividade, excepto se nesta data estiver pendente um processo de accionamento dessa garantia.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672275": {
+   "fragment_id": "1013990575",
+   "type": 11,
+   "heading": "Artigo 26.º — Montante da caução",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 26.º — Montante da caução\n\n1 - O montante mínimo garantido através da caução será fixado por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do ministro que tutela a área da defesa do consumidor.\n\n2 - Em caso de accionamento da caução, o montante de cobertura exigido deve ser reposto no prazo de 30 dias a contar da sua ocorrência.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672375": {
+   "fragment_id": "1013990775",
+   "type": 11,
+   "heading": "Artigo 27.º — Accionamento da caução",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 27.º — Accionamento da caução\n\n1 - Os interessados em accionar a caução podem requerer ao IMOPPI que demande a entidade garante.\n\n2 - O requerimento deve ser instruído com os documentos comprovativos dos factos alegados e apresentado no prazo de 20 dias a contar da data do conhecimento da violação dos deveres referidos no n.º 1 do artigo 25.º, sendo que em caso algum este direito pode ser exercido depois de ter ocorrido a devolução da caução, nos termos do n.º 5 do mesmo artigo.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672475": {
+   "fragment_id": "1013990975",
+   "type": 11,
+   "heading": "Artigo 28.º — Comissão arbitral",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 28.º — Comissão arbitral\n\n1 - O requerimento previsto no artigo anterior pode ser apreciado por uma comissão arbitral, convocada pelo presidente do conselho de administração do IMOPPI, no prazo de 20 dias após a entrega do pedido, e constituída por um representante deste, que preside, um representante do Instituto do Consumidor, um representante das associações do sector da mediação imobiliária, um representante de uma das associações de defesa do consumidor a designar pelo requerente e um representante da empresa de mediação designado por esta.\n\n2 - A arbitragem prevista no número anterior rege-se pelo disposto na Lei n.º 31/86, de 29 de Agosto, relativa à arbitragem voluntária.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672575": {
+   "fragment_id": "1013991175",
+   "type": 11,
+   "heading": "Artigo 29.º — Seguro de responsabilidade civil",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.",
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 29.º — Seguro de responsabilidade civil\n\n1 - Para garantia das obrigações previstas na alínea c) do n.º 2 do artigo 24.º, as empresas devem celebrar um contrato de seguro de responsabilidade civil de montante mínimo a fixar por portaria conjunta dos Ministros das Finanças, do Equipamento Social e do ministro que tutela a área da defesa do consumidor.\n\n2 - O montante mínimo coberto pelo contrato de seguro nos casos de cooperação de sociedades é o dobro do valor que vier a ser fixado na portaria referida no número anterior.\n\n3 - As condições mínimas do seguro obrigatório serão fixadas por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do ministro que tutela a área da defesa do consumidor.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1073672675": {
+   "fragment_id": "1013991375",
+   "type": 11,
+   "heading": "Artigo 30.º — Actualização das garantias",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 30.º — Actualização das garantias\n\nA actualização dos montantes das garantias previstas nos termos do artigo 24.º são fixadas por portaria conjunta dos Ministros das Finanças e do Equipamento, do Planeamento e da Administração do Território e do ministro que tutela a área da defesa do consumidor.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672775": {
+   "fragment_id": "1013991575",
+   "type": 1,
+   "heading": "Capítulo V — Da fiscalização e sanções",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "### Capítulo V — Da fiscalização e sanções\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672875": {
+   "fragment_id": "1013991775",
+   "type": 11,
+   "heading": "Artigo 31.º — Competências dos serviços de inspecção do IMOPPI",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 31.º — Competências dos serviços de inspecção do IMOPPI\n\n1 - O IMOPPI, no âmbito das suas competências, inspecciona e fiscaliza a actividade de mediação imobiliária.\n\n2 - Todas as autoridades e seus agentes devem participar ao IMOPPI quaisquer infracções ao presente diploma e respectivas disposições regulamentares.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073672975": {
+   "fragment_id": "1013991975",
+   "type": 11,
+   "heading": "Artigo 32.º — Contra-ordenações",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 32.º — Contra-ordenações\n\n1 - Sem prejuízo de outras sanções que se mostrem aplicáveis, constituem contra-ordenações, puníveis com aplicação das seguintes coimas:\n\na) De 500000$00 a 6000000$00, a violação do disposto no artigo 4.º, no n.º 1 do artigo 8.º e no n.º 3 do artigo 12.º;\n\nb) De 450000$00 a 5000000$00, a violação do disposto no artigo 18.º e no n.º 3 do artigo 19.º;\n\nc) De 300000$00 a 3000000$00, a violação do disposto no artigo 16.º, nos n.os 1, 2, 3, 4 e 5 do artigo 21.º e nas alíneas a), e), f) e h) do n.º 1 e no n.º 2 do artigo 22.º;\n\nd) De 200000$00 a 1000000$00, a violação do disposto no artigo 7.º, no n.º 2 do artigo 8.º e no n.º 7 do artigo 20.º;\n\ne) De 125000$00 a 500000$00, a violação do disposto na segunda parte do n.º 1 e no n.º 2 do artigo 12.º e nas alíneas b), c), d), g) e i) do n.º 1 do artigo 22.º\n\n2 - A tentativa e negligência são puníveis, sendo, nestes casos, os limites máximo e mínimo da coima reduzidos a metade.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673075": {
+   "fragment_id": "1013992175",
+   "type": 11,
+   "heading": "Artigo 33.º — Sanções acessórias",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 33.º — Sanções acessórias\n\n1 - Quando a gravidade da infracção o justifique, podem ser aplicadas as seguintes sanções acessórias, nos termos do regime geral das contra-ordenações e coimas:\n\na) Encerramento de estabelecimentos;\n\nb) Interdição do exercício da actividade.\n\n2 - As sanções referidas no número anterior têm duração máxima de dois anos contados a partir da decisão condenatória definitiva.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673175": {
+   "fragment_id": "1013992375",
+   "type": 11,
+   "heading": "Artigo 34.º — Competência para aplicação das sanções",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 34.º — Competência para aplicação das sanções\n\n1 - O processo de contra-ordenação é da competência dos serviços do IMOPPI.\n\n2 - Compete ao presidente do conselho de administração do IMOPPI a aplicação das coimas e sanções acessórias previstas no presente diploma.\n\n3 - O produto das coimas recebidas por infracção ao disposto no presente diploma reverte em 60% para os cofres do Estado e em 40% para o IMOPPI.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673275": {
+   "fragment_id": "1013992575",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673375": {
+   "fragment_id": "1013992775",
+   "type": 11,
+   "heading": "Artigo 35.º — Idioma dos documentos",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 35.º — Idioma dos documentos\n\nOs requerimentos e demais documentos referidos no presente diploma devem ser redigidos em língua portuguesa ou, quando for utilizado outro idioma, acompanhados de tradução legal, nos termos previstos no Código do Notariado.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673475": {
+   "fragment_id": "1013992975",
+   "type": 11,
+   "heading": "Artigo 36.º — Actos sujeitos a publicação",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 36.º — Actos sujeitos a publicação\n\n1 - O IMOPPI promoverá a publicação na 2.ª série do Diário da República das licenças emitidas e canceladas e, ainda, das sanções aplicadas.\n\n2 - As sanções previstas nos artigos 32.º e 33.º do presente diploma devem ser ainda publicitadas pelo IMOPPI, em jornal de difusão nacional, regional ou local, de acordo com o local da sede da empresa.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673575": {
+   "fragment_id": "1013993175",
+   "type": 11,
+   "heading": "Artigo 37.º — Substituição das licenças",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 37.º — Substituição das licenças\n\n1 - O IMOPPI procederá à substituição das licenças à medida que as empresas procedam à sua adaptação, nos termos previstos no artigo 38.º do presente diploma.\n\n2 - A substituição a que se refere o número anterior será isenta de taxas.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673675": {
+   "fragment_id": "1013993375",
+   "type": 11,
+   "heading": "Artigo 38.º — Disposição transitória",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.",
+    "Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+   ],
+   "markdown": "###### Artigo 38.º — Disposição transitória\n\n1 - As pessoas singulares e as pessoas colectivas licenciadas à data da entrada em vigor do presente diploma dispõem do período máximo de um ano para se adaptarem às suas disposições.\n\n2 - As entidades referidas no número anterior que se encontrem licenciadas há mais de três anos estão isentas, para efeitos de substituição da licença, da comprovação da sua capacidade profissional, a qual é assegurada, nesse momento, pelos seus administradores, gerentes ou directores, sem prejuízo do disposto no n.º 4.\n\n3 - A comprovação da capacidade profissional pelas entidades referidas no n.º 1 do presente artigo, que se encontrem licenciadas há menos de três anos, limita-se à formação profissional, com o conteúdo estabelecido pela portaria referida no n.º 1 do artigo 6.º\n\n4 - Em caso de substituição dos administradores, gerentes ou directores que assegurem a capacidade profissional prevista nos números anteriores, devem as entidades aí referidas cumprir o preceituado na alínea c) do n.º 1 do artigo 5.º\n\n5 - Até à publicação da portaria prevista no n.º 3 do artigo 29.º do presente diploma, mantém-se em vigor o regime constante na Portaria n.º 371/93, de 1 de Abril.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19.\n\n> Alterado pelo/a Artigo ÚNICO do/a [Decreto-Lei n.º 258/2001 - Diário da República n.º 223/2001, Série I-A de 2001-09-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/258-2001-609992), em vigor a partir de 2001-09-30."
+  },
+  "1073673775": {
+   "fragment_id": "1013993575",
+   "type": 11,
+   "heading": "Artigo 39.º — Modelos e impressos",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 39.º — Modelos e impressos\n\nOs modelos e impressos a utilizar em cumprimento do disposto no presente diploma, bem como os respectivos preços, serão aprovados pelo conselho de administração do IMOPPI.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673875": {
+   "fragment_id": "1013993775",
+   "type": 11,
+   "heading": "Artigo 40.º — Legislação revogada",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 40.º — Legislação revogada\n\nÉ revogado o Decreto-Lei n.º 285/92, de 19 de Dezembro.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073673975": {
+   "fragment_id": "1013993975",
+   "type": 11,
+   "heading": "Artigo 41.º — Entrada em vigor",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "###### Artigo 41.º — Entrada em vigor\n\nO presente diploma entra em vigor três meses após a sua publicação.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  },
+  "1073674075": {
+   "fragment_id": "1013994175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2004-09-19",
+   "changed_by": [
+    "Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 15 de Janeiro de 1999. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 26 de Fevereiro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 4 de Março de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 57.º do/a [Decreto-Lei n.º 211/2004 - Diário da República n.º 196/2004, Série I-A de 2004-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-2004-480290), em vigor a partir de 2004-09-19."
+  }
+ }
+}

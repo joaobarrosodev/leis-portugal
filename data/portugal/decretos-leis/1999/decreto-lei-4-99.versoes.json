@@ -1,0 +1,118 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:492274:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-938665775",
+ "dre_path": "/dr/detalhe/decreto-lei/4-1999-492274",
+ "source_lastmod": "2025-10-10",
+ "versions": [
+  {
+   "date": "1999-01-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "938665676",
+    "938665677",
+    "938665678",
+    "938665679",
+    "938665680",
+    "938665681",
+    "938665682",
+    "938665683",
+    "938665684",
+    "938665685",
+    "938665686"
+   ]
+  }
+ ],
+ "fragments": {
+  "938665676": {
+   "fragment_id": "938665776",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 4/99\n\nde 4 de Janeiro\n\nO aumento da produção suinícola que se verificou nos últimos anos provocou um acréscimo da oferta que, aliado a uma redução das exportações decorrentes da crise nos mercados da Europa de Leste, se repercutiu negativamente nos preços da carne de suíno, com forte quebra das cotações, sobretudo desde Março do corrente ano, atingindo presentemente os níveis mais baixos do último decénio.\n\nTendo em conta que a manutenção das actuais condições de mercado poderá pôr em causa, de forma irreversível, grande parte da produção nacional, torna-se necessário adoptar medidas de apoio excepcionais ao sector que permitam minorar os efeitos decorrentes da actual crise.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "938665677": {
+   "fragment_id": "938665777",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito de aplicação\n\nO presente diploma aplica-se às pessoas singulares ou colectivas que se dediquem à produção de leitões, ou à recria e acabamento de leitões, ou, ainda, à produção, recria e acabamento de leitões em ciclo fechado."
+  },
+  "938665678": {
+   "fragment_id": "938665778",
+   "type": 11,
+   "heading": "Artigo 2.º — Moratória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Moratória\n\n1 - Às entidades referidas no artigo anterior que hajam contratado crédito de curto prazo ao abrigo das linhas de crédito criadas pelos Decretos-Leis n.os 145/94, de 24 de Maio, e 298/97, de 28 de Outubro, será atribuída uma moratória com bonificação da taxa de juros.\n\n2 - A moratória destina-se a permitir a prorrogação, por um ano, do plano de reembolso das operações contratadas com as instituições de crédito referidas no número anterior e englobará o capital e os juros em dívida.\n\n3 - A moratória terá início na data do vencimento da primeira das operações contratadas ao abrigo das linhas de crédito referidas no n.º 1 que ocorra após 1 de Outubro.\n\n4 - Mantêm-se em vigor, durante o período da moratória, todas as outras obrigações contratualmente assumidas nas operações que dela sejam objecto.\n\n5 - O reembolso das operações referidas nos números anteriores será efectuado numa única prestação.\n\n6 - Os níveis das bonificações da taxa de juro da prestação referida no número anterior são os seguintes:\n\na) Quando se trate de produção de leitões ou de recria e acabamento de leitões, de 70% da taxa de referência para cálculo de bonificações;\n\nb) Quando se trate de produção, recria e acabamento de leitões em ciclo fechado, de 100% ou de 70% da taxa de referência para cálculo de bonificações, consoante se trate, respectivamente, de unidades produtivas com um número de porcas não superior a 20 ou das restantes unidades produtivas.\n\n7 - Para efeitos de aplicação do disposto neste artigo, é celebrado protocolo entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e as instituições de crédito que tenham contratado ao abrigo das linhas de crédito previstas no n.º 1."
+  },
+  "938665679": {
+   "fragment_id": "938665779",
+   "type": 11,
+   "heading": "Artigo 3.º — Linha de crédito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Linha de crédito\n\n1 - É criada uma linha de crédito curto prazo, com bonificação de juros, destinada às pessoas singulares ou colectivas que se dediquem, no continente, às actividades referidas no artigo 1.º\n\n2 - O crédito é concedido pelas instituições de crédito que celebrem protocolo com o IFADAP.\n\n3 - O prazo de vencimento das operações de crédito não pode exceder um ano a contar da data da primeira ou única utilização.\n\n4 - Os níveis da bonificação são os seguintes:\n\na) Quando se trate de produção de leitões ou de recria e acabamento de leitões, de 70% da taxa de referência para cálculo de bonificações;\n\nb) Quando se trate de produção, recria e acabamento de leitões em ciclo fechado, de 100% ou de 70% da taxa de referência para cálculo de bonificações, consoante se trate, respectivamente, de unidades produtivas com um número de porcas não superior a 20 ou das restantes unidades produtivas."
+  },
+  "938665680": {
+   "fragment_id": "938665780",
+   "type": 11,
+   "heading": "Artigo 4.º — Revisão dos níveis de bonificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Revisão dos níveis de bonificação\n\nOs níveis de bonificação definidos no presente diploma podem ser revistos em função do comportamento evolutivo, das taxas de juro activas praticadas pelas instituições de crédito, bem como da taxa de referência."
+  },
+  "938665681": {
+   "fragment_id": "938665781",
+   "type": 11,
+   "heading": "Artigo 5.º — Taxa de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Taxa de referência\n\nA taxa de referência para cálculo de bonificações referida no n.º 6 do artigo 2.º, no n.º 4 do artigo 3.º e no artigo anterior é a definida no Decreto-Lei n.º 359/89, de 18 de Outubro, em vigor no início de cada período de contagem de juros, ou à data de concessão de crédito, consoante o caso, excepto se esta for superior à taxa activa praticada pela instituição de crédito, caso em que aquela percentagem será aplicada sobre a taxa activa."
+  },
+  "938665682": {
+   "fragment_id": "938665782",
+   "type": 11,
+   "heading": "Artigo 6.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Competências\n\nCompete ao IFADAP:\n\na) Definir e emitir as instruções técnicas e financeiras necessárias à execução do disposto neste diploma;\n\nb) Processar e pagar as bonificações de juros;\n\nc) Acompanhar e fiscalizar a aplicação pelos beneficiários dos empréstimos objecto das bonificações."
+  },
+  "938665683": {
+   "fragment_id": "938665783",
+   "type": 11,
+   "heading": "Artigo 7.º — Incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Incumprimento\n\n1 - O incumprimento pelo beneficiário de qualquer das suas obrigações determina a imediata cessação do pagamento das bonificações, a restituição das quantias correspondentes às bonificações já processadas e, bem assim, a suspensão do direito de acesso a linhas de crédito bonificadas por um período de um ano a contar da data do vencimento do crédito.\n\n2 - No caso da moratória referida no artigo 2.º, o incumprimento importa, ainda para o mutuário, o pagamento dos juros à taxa contratual desde a data da última contagem anterior à data do incumprimento.\n\n3 - As instituições de crédito mutuantes devem comunicar prontamente ao IFADAP as informações por este solicitadas relativamente aos empréstimos objecto de bonificação, nomeadamente no que se refere ao incumprimento pelos beneficiários das suas obrigações."
+  },
+  "938665684": {
+   "fragment_id": "938665784",
+   "type": 11,
+   "heading": "Artigo 8.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Financiamento\n\nOs encargos financeiros referentes às bonificações da taxa de juros, previstas neste diploma, são suportados pelo Orçamento do Estado, através das dotações inscritas no PIDDAC do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "938665685": {
+   "fragment_id": "938665785",
+   "type": 11,
+   "heading": "Artigo 9.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Remuneração\n\nPelos serviços prestados no âmbito do presente diploma, o IFADAP recebe uma remuneração a definir por portaria conjunta dos Ministros das Finanças e da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "938665686": {
+   "fragment_id": "938665786",
+   "type": 11,
+   "heading": "Artigo 10.º — Disposição condicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Disposição condicional\n\n1 - Sem prejuízo do disposto no número seguinte e de acordo com o artigo 93.º do Tratado de Roma, o regime instituído pelo presente diploma está dependente da decisão da Comissão da Comunidade Europeia sobre a respectiva compatibilidade com o direito comunitário.\n\n2 - O processo de concessão da moratória e do crédito com bonificação de juros previstos no presente diploma tem início a partir da entrada em vigor do mesmo.\n\n3 - Em caso de decisão negativa da Comissão da Comunidade Europeia, haverá lugar aos necessários ajustamentos do regime instituído pelo presente diploma junto dos respectivos beneficiários."
+  }
+ }
+}

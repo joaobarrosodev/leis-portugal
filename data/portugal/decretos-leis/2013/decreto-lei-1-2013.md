@@ -1,0 +1,505 @@
+---
+schema_version: '1.0'
+id: pt:dre:588827:por
+title: Decreto-Lei n.º 1/2013
+short_title: null
+summary: Procede à instalação e à definição das regras do funcionamento do Balcão Nacional do Arrendamento e do procedimento
+  especial de despejo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 1/2013
+official_date: null
+publication_date: '2013-01-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 4/2013, Série I de 2013-01-07
+  number: '4'
+  series: I
+  supplement: null
+  pages: 38 - 43
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/01/00400/0003800043.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-10-07'
+version_history:
+  file: decreto-lei-1-2013.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2013-01-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-07'
+    amending: pt:dre:222477692:por
+    amending_title: Lei n.º 56/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Capítulo II
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Secção III
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 16.º
+    - Revoga Artigo 25.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/1/2013/p/cons/20231006/pt/html
+  oj: null
+  dre: '588827'
+  dre_path: /dr/detalhe/decreto-lei/1-2013-588827
+  internal: pt:dre:588827:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/1-2013-588827
+  metadata_url: https://data.dre.pt/eli/dec-lei/1/2013/p/cons/20231006/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-222520426
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-222520426
+  retrieved_at: '2026-10-22T12:59:39Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d825ec64616c9007cd2eedd2c229493968a08acb7fe8aab14e85bb961d707c37
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:59:39Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-1-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acção de Despejo
+- Garantia
+- Multa
+- Arrendamento Urbano não Habitacional
+- Balcão Nacional do Arrendamento
+- Documento Único de Cobrança
+- Oficial de Justiça
+- Instituto de Gestão Financeira e Equipamentos da Justiça
+- Notário
+- Receita
+- Direcção Geral da Administração da Justiça
+- Secretaria Judicial
+- Agente de Execução
+- Arrendamento Urbano para Habitação
+- Custas Judiciais
+relationships:
+- type: amended_by
+  target: pt:dre:222477692:por
+  label: Altera Artigo 1.º; Altera Capítulo II; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º;
+    Altera Artigo 8.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Secção III; Altera Artigo 12.º; Altera Artigo 13.º; Altera
+    Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Revoga Artigo 6.º; Revoga
+    Artigo 7.º; Revoga Artigo 11.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692
+  date: '2023-10-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/34/2008/02/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/34/2008/02/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declretif/59-a/2012/10/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/31/2012/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/31/2012/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/6/2006/02/27/p/dre
+article_structure:
+  article_count: 27
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:59:39Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 1/2013
+
+Decreto-Lei n.º 1/2013
+
+de 7 de janeiro
+
+A Lei n.º 31/2012, de 14 de agosto, retificada pela Declaração de Retificação n.º 59-A/2012, de 12 de outubro, procedeu à revisão do regime jurídico do arrendamento urbano, alterando o Código Civil, o Código de Processo Civil e a Lei n.º 6/2006, de 27 de fevereiro.
+
+Com efeito, a Lei n.º 31/2012, de 14 de agosto, aprovou medidas destinadas a dinamizar o mercado de arrendamento urbano, alterando, nomeadamente, o regime substantivo da locação e o regime transitório dos contratos de arrendamento celebrados antes da Lei n.º 6/2006, de 27 de fevereiro, e criando um procedimento especial de despejo do local arrendado que permita a célere recolocação daquele no mercado de arrendamento.
+
+Para tornar o arrendamento um contrato mais seguro e com mecanismos que permitam reagir com eficácia ao incumprimento, foi criado um procedimento especial que permite que a desocupação do imóvel seja realizada de forma célere e eficaz no caso de incumprimento do contrato por parte do arrendatário.
+
+Promove-se, por esta via, a confiança do senhorio no funcionamento ágil do mercado de arrendamento e o investimento neste sector da economia.
+
+O procedimento especial de despejo aplica-se à cessação do contrato por revogação, por caducidade pelo decurso do prazo, por oposição à renovação, por denúncia livre pelo senhorio, por denúncia para habitação do senhorio ou filhos ou para obras profundas, por denúncia pelo arrendatário, bem como à resolução do contrato de arrendamento por não pagamento de renda por mais de dois meses ou por oposição pelo arrendatário à realização de obras coercivas.
+
+O procedimento especial de despejo é o meio adequado para efetivar a cessação do arrendamento, independentemente do fim a que se destina, quando o arrendatário não desocupe o locado na data prevista na lei ou na data prevista por convenção entre as partes.
+
+Neste sentido, foi criado, junto da Direção-Geral da Administração da Justiça (DGAJ), o Balcão Nacional do Arrendamento (BNA), enquanto secretaria judicial com competência exclusiva para a tramitação do procedimento especial de despejo em todo o território nacional.
+
+Cumpre agora preceder à instalação e à definição das regras do funcionamento do BNA e do procedimento especial de despejo.
+
+Nos casos em que o local arrendado constitua casa de morada de família, o requerente do procedimento especial de despejo deve indicar também como requerido, no requerimento de despejo, o cônjuge do arrendatário que não seja parte do contrato de arrendamento, devendo a sua notificação ser efetuada para o local arrendado.
+
+Quando seja deduzido pedido de pagamento de rendas, encargos ou despesas, este apenas pode ser deduzido contra os arrendatários e, tendo o arrendamento por objeto casa de morada de família, pode ainda ser deduzido contra os respetivos cônjuges. Não é, por isso, possível deduzir, no BNA, um pedido de pagamento de rendas, encargos ou despesas, contra devedores subsidiários da obrigação do arrendatário.
+
+Tendo ainda em consideração a celeridade e segurança da desocupação do locado, define-se que cada processo que corre no BNA apenas tem como objeto a desocupação de um imóvel, podendo haver lugar, no entanto, à desocupação de um conjunto de bens imóveis se os mesmos se encontrarem no mesmo concelho, se entre eles existir uma dependência funcional, como por exemplo tratando-se de imóvel para habitação e de garagem ou arrecadação descritos em frações autónomas distintas, e se as partes contratuais forem as mesmas.
+
+A conversão do requerimento de despejo em título para desocupação do locado é efetuada por meios eletrónicos, com recurso a assinatura electrónica que respeite os requisitos previstos para a assinatura electrónica das notificações. O BNA disponibiliza o título ao agente de execução, notário ou oficial de justiça designado, e notifica o requerente da constituição do título.
+
+Convertido o requerimento de despejo em título para desocupação do locado ou tendo havido decisão judicial para desocupação do locado, e tendo sido formulado o pedido de pagamento de rendas, encargos ou despesas, o requerente é notificado para, em 10 dias, juntar ao processo o comprovativo de pagamento da taxa de justiça respeitante à execução para pagamento de quantia certa.
+
+No que à desocupação do locado diz respeito, constituindo o imóvel arrendado domicílio e caso o arrendatário não o desocupe de livre vontade ou incumpra o prazo acordado com o senhorio para a desocupação, é necessário prévia autorização judicial para a entrada. No entanto, nos casos de arrendamento para fins habitacionais em que não se encontrem pessoas e existam indícios de que o imóvel arrendado se encontra abandonado, por exemplo, nas situações em que o fornecimento de água ou de eletricidade estiver interrompido há mais de dois meses, o receptáculo postal se encontre cheio ou pessoa residente na área do locado e com conhecimento direto confirme que o imóvel se encontra devoluto, a entrada no locado não carece de prévia autorização judicial. Nessas situações, previamente à entrada no imóvel arrendado, o agente de execução, notário ou oficial de justiça afixa no local aviso com dia e hora para entrada no imóvel, com antecedência não inferior a 20 dias, e confirma a existência de indícios de abandono, lavrando sempre auto de ambas as diligências.
+
+O agente de execução, o notário ou o oficial de justiça podem solicitar diretamente o auxílio das autoridades policiais sempre que seja necessário proceder ao arrombamento da porta e à substituição da fechadura ou sempre que seja oposta ou haja receio justificado de ser oposta alguma resistência.
+
+Posteriormente, o agente de execução, o notário ou o oficial de justiça, investe o senhorio na posse do imóvel, entregando-lhe os documentos e as chaves.
+
+Só podem participar os agentes de execução e notários que tenham manifestado essa vontade junto da Câmara dos Solicitadores ou da Ordem dos Notários, respetivamente.
+
+Prevê-se, também, o pagamento de taxa de justiça, nos termos do Regulamento das Custas Processuais, nos casos de apresentação do requerimento de despejo, de oposição, de pedido de autorização judicial para entrada imediata no domicílio, de pedido de suspensão da desocupação do locado apresentado pelo detentor, de pedido de diferimento da desocupação de imóvel arrendado para habitação e respetiva contestação, bem como de apresentação da impugnação do título para desocupação do locado.
+
+Por fim, remete-se para portaria do membro do Governo responsável pela área da justiça as matérias relativas à forma e ao modelo de apresentação do requerimento de despejo, o momento em que se considera o requerimento apresentado, o regime da oposição e da prestação da respetiva caução e das demais peças processuais, o regime da lista de agentes de execução e notários participantes no procedimento especial de despejo, da designação, substituição e destituição do agente de execução ou notário e o regime de honorários e reembolso de despesas, as formas e o modo de pagamento da taxa de justiça, bem como o regime das notificações, comunicações e da tramitação eletrónica do procedimento.
+
+Foram ouvidos o Conselho Superior da Magistratura, o Conselho Superior do Ministério Público, a Ordem dos Advogados, a Ordem dos Notários, a Câmara dos Solicitadores e o Sindicato dos Oficiais de Justiça.
+
+Foi promovida a audição do Conselho Superior dos Tribunais Administrativos e Fiscais, da Associação Sindical dos Juízes Portugueses, do Sindicato dos Magistrados do Ministério Público e do Sindicato dos Funcionários Judiciais.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposição geral
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à instalação e à definição das regras do funcionamento do Balcão do Arrendatário e do Senhorio, adiante designado por BAS, e do procedimento especial de despejo, previstos nos artigos 15.º a 15.º-S da Lei n.º 6/2006, de 27 de fevereiro, na redação que lhe foi conferida pela Lei n.º 31/2012, de 14 de agosto, retificada pela Declaração de Retificação n.º 59-A/2012, de 12 de outubro.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+### Capítulo II — Balcão do Arrendatário e do Senhorio
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 2.º — Balcão do Arrendatário e do Senhorio
+
+O Balcão do Arrendatário e do Senhorio (BAS), criado pelo artigo 15.º-A da Lei n.º 6/2006, de 27 de fevereiro, é a secretaria judicial com competência exclusiva para a tramitação do procedimento especial de despejo em todo o território nacional.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 3.º — Mapa de pessoal
+
+O mapa de pessoal do BAS é definido por portaria dos membros do Governo responsáveis pelas áreas das finanças e da justiça.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 4.º — Receitas
+
+Cabe ao Instituto de Gestão Financeira e Equipamentos da Justiça, I. P. (IGFEJ, I. P.), arrecadar e administrar as verbas provenientes das taxas de justiça e multas, bem como de outro tipo de receita, respeitantes ao BAS.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+### Capítulo III — Procedimento especial de despejo
+
+#### Secção I — Requerimento de despejo
+
+###### Artigo 5.º — Apresentação do requerimento de despejo
+
+1 - As formas de apresentação do requerimento de despejo pelo requerente e pelo seu mandatário, o modelo do requerimento de despejo na sua versão em papel e o momento em que se considera o requerimento apresentado são definidos por portaria do membro do Governo responsável pela área da justiça.
+
+2 - O requerimento deve ser acompanhado dos documentos previstos nos n.os 2 e 3 do artigo 15.º da Lei n.º 6/2006, de 27 de fevereiro, bem como da comunicação prevista no n.º 6 do mesmo artigo, sob pena de recusa.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 6.º — Cônjuge do arrendatário
+
+1 - Nos termos do n.º 3 do artigo 15.º-B da Lei n.º 6/2006, de 27 de fevereiro, e nos casos em que o local arrendado constitua casa de morada de família, o requerente deve indicar também como requerido, no requerimento de despejo, o cônjuge do arrendatário que não seja parte do contrato de arrendamento.
+
+2 - A notificação ao cônjuge do arrendatário é efetuada para o local arrendado nos termos do n.º 3 do artigo 15.º-D da Lei n.º 6/2006, de 27 de fevereiro.
+
+> Revogado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+###### Artigo 7.º — Pedido de pagamento de rendas, encargos ou despesas em atraso
+
+O pedido de pagamento de rendas, encargos ou despesas em atraso só pode ser deduzido contra os arrendatários e, tendo o arrendamento por objeto casa de morada de família, deve ser também deduzido contra os respetivos cônjuges.
+
+> Revogado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+###### Artigo 8.º — Objeto do procedimento especial de despejo e recusa do requerimento
+
+1 - Sem prejuízo do disposto no número seguinte, em cada procedimento especial de despejo apenas pode ser requerida a desocupação de um imóvel.
+
+2 - Pode ser requerida a desocupação de um conjunto de bens imóveis se estes se encontrarem no mesmo concelho, se existir uma dependência funcional entre eles, designadamente quando se trate de imóvel para habitação e de garagem ou arrecadação descritos em frações autónomas distintas, e se as partes contratuais forem as mesmas.
+
+3 - Nos casos previstos no número anterior:
+
+a) O requerente deve identificar no seu requerimento de despejo apenas o bem principal, constando a informação relativa aos restantes bens dos contratos de arrendamento, os quais devem ser juntos ao referido requerimento; e
+
+b) A renda indicada no requerimento de despejo deve corresponder à soma das rendas dos diversos imóveis.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+#### Secção II — Oposição e outras peças processuais
+
+###### Artigo 9.º — Oposição e caução
+
+1 - As formas de apresentação da oposição, bem como o modo de pagamento da caução devida com a apresentação da oposição nos termos do n.º 3 do artigo 15.º-F da Lei n.º 6/2006, de 27 de fevereiro, são definidos por portaria do membro do Governo responsável pela área da justiça.
+
+2 - Compete exclusivamente ao tribunal, para o qual o BAS remete o processo após a apresentação da oposição, a análise dos requisitos da oposição, nomeadamente os previstos no n.º 6 do artigo 15.º-F da Lei n.º 6/2006, de 27 de fevereiro.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 10.º — Outras peças processuais
+
+1 - São definidas por portaria do membro do Governo responsável pela área da justiça as formas de apresentação das seguintes peças processuais, as quais devem ser apresentadas exclusivamente junto do BAS:
+
+a) (Revogada.)
+
+b) Requerimento de suspensão da desocupação do locado, previsto no n.º 3 do artigo 15.º-M da Lei n.º 6/2006, de 27 de fevereiro;
+
+c) Pedido de diferimento da desocupação de imóvel arrendado para habitação, previsto no artigo 15.º-N da Lei n.º 6/2006, de 27 de fevereiro;
+
+d) (Revogada.)
+
+e) Desistência do pedido, nos termos do n.º 2 do artigo 15.º-G da Lei n.º 6/2006, de 27 de fevereiro;
+
+f) Outro requerimento ou ato processual que deva ser apresentado quando o procedimento esteja a correr junto do BAS.
+
+2 - É da responsabilidade do BAS a remessa para tribunal, quando for caso disso, das peças processuais referidas no número anterior, devendo tal remessa, nos casos das alíneas b) e c) do número anterior, ser efetuada por via eletrónica e de forma automatizada.
+
+> Nota: [Artigo 54.º, Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692) A revogação das alíneas a) e d) do n.º 1 do presente artigo produzem efeitos a partir de 04-02-2024.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+#### Secção III — Decisão de desocupação do locado e pedido de pagamento de rendas, encargos ou despesas
+
+> Alterado pelo/a Artigo 40.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 11.º — Conversão nos casos de pedido de diferimento da desocupação de imóvel arrendado para habitação
+
+1 - Nos casos em que o requerido tenha apresentado, nos termos do artigo 15.º-N da Lei n.º 6/2006, de 27 de fevereiro, pedido de diferimento da desocupação de imóvel arrendado para habitação, o BNA só pode converter o requerimento de despejo em título de desocupação do locado após ser notificado da decisão judicial referente ao pedido de diferimento.
+
+2 - Feita a conversão, o BNA disponibiliza a decisão judicial referida no número anterior ao agente de execução, notário ou oficial de justiça designado juntamente com o título de desocupação.
+
+> Revogado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+###### Artigo 12.º — Execução para pagamento de rendas, encargos ou despesas
+
+1 - Tendo o requerente, no requerimento de despejo, formulado pedido de pagamento de rendas, encargos ou despesas, o BAS, proferida decisão judicial para desocupação do locado, notifica o requerente desta para, em 10 dias, juntar ao processo comprovativo de pagamento de justiça da taxa respeitante à execução para pagamento de quantia certa.
+
+2 - A não apresentação, no prazo de 10 dias, do documento previsto no número anterior, é havida como desistência da instância quanto ao pedido de pagamento das rendas, encargos ou despesas.
+
+3 - Recebidos os elementos previstos no n.º 1, o BAS remete, por via eletrónica, o requerimento de despejo para o tribunal nele indicado, juntamente com a decisão judicial proferida, a procuração forense e o documento comprovativo do pagamento de taxa de justiça, valendo o conjunto destes documentos como requerimento executivo idóneo a iniciar a execução para pagamento de quantia certa.
+
+4 - Efetuado o envio do requerimento executivo para o tribunal, o BAS remete ao requerente o comprovativo desse envio, juntamente com as referências necessárias para efetuar o pagamento dos honorários devidos ao agente de execução designado, nos termos da regulamentação relativa à remuneração do agente de execução nas execuções cíveis.
+
+5 - Caso a designação do agente de execução tenha sido efetuada pelo BAS, são remetidos ao requerente, juntamente com elementos referidos no número anterior, os elementos de identificação e de contacto do agente de execução.
+
+6 - (Revogado.)
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 13.º — Designação do agente de execução responsável pela execução para pagamento de rendas, encargos ou despesas
+
+1 - Compete ao requerente, no requerimento de despejo, indicar o agente de execução responsável pela execução de quantia certa respeitante a rendas, encargos ou despesas em atraso.
+
+2 - O BAS procede à designação eletrónica e automática do agente de execução quando:
+
+a) O requerente não tenha designado, no requerimento de despejo, agente de execução para o efeito;
+
+b) A designação efetuada pelo requerente não seja válida.
+
+3 - A análise da validade da designação prevista na alínea b) do número anterior é efetuada no momento prévio à remessa para tribunal dos documentos previstos no n.º 3 do artigo anterior.
+
+4 - A designação prevista no n.º 2 é efetuada no momento previsto no número anterior, de acordo com as regras para a designação do agente de execução ou notário nos casos de cumulação de pedidos de despejo e de pagamento de rendas, encargos ou despesas definidas em portaria do membro do Governo responsável pela área da justiça, garantindo-se a aleatoriedade no resultado e a igualdade na distribuição do serviço, nos termos previstos no Código de Processo Civil.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+#### Secção IV — Efetivação da desocupação e entrega do imóvel
+
+###### Artigo 14.º — Desocupação do locado e autorização para entrada imediata no domicílio
+
+1 - Carece de prévia autorização judicial a entrada imediata no imóvel arrendado para tomar posse sempre que o mesmo constitua domicílio e o requerido não o desocupe de livre vontade ou incumpra o acordo previsto no n.º 2 do artigo 15.º-J da Lei n.º 6/2006, de 27 de fevereiro.
+
+2 - Nos casos de arrendamento para fins habitacionais em que o agente de execução, notário ou oficial de justiça verifique que no imóvel arrendado não se encontram pessoas e que existem indícios de que o mesmo se encontra abandonado, a entrada no imóvel não carece de prévia autorização judicial.
+
+3 - Nos casos previstos no número anterior, previamente à entrada no imóvel arrendado o agente de execução, notário ou oficial de justiça afixa no local aviso com dia e hora para entrada no imóvel, com antecedência não inferior a 20 dias, e confirma a existência de indícios de abandono, lavrando sempre auto de ambas as diligências.
+
+4 - Para efeitos do disposto no número anterior, considera-se existir indícios de abandono quando se verifiquem, pelo menos, duas das seguintes circunstâncias:
+
+a) O fornecimento de água ou de eletricidade encontrar-se interrompido há mais de dois meses;
+
+b) O receptáculo postal encontrar-se cheio;
+
+c) O imóvel encontrar-se devoluto, sendo tal situação confirmada por pessoa residente na área do locado e com conhecimento direto.
+
+5 - Para além das situações previstas no n.º 3 do artigo 15.º-J da Lei n.º 6/2006, de 27 de fevereiro, o agente de execução, o notário ou o oficial de justiça podem solicitar diretamente o auxílio das autoridades policiais sempre que seja oposta alguma resistência ou haja justificado receio de oposição de resistência, aplicando-se, com as necessárias adaptações, o disposto no n.º 5 do artigo 840.º do Código de Processo Civil.
+
+> Revogado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+###### Artigo 15.º — Entrega do imóvel
+
+1 - O agente de execução, o notário ou o oficial de justiça investe o requerente na posse, entregando-lhe os documentos e as chaves, se os houver, e notifica os requeridos e quaisquer detentores para que respeitem e reconheçam o direito do requerente.
+
+2 - Pertencendo a coisa em compropriedade a outros interessados, o requerente é investido na posse da sua quota-parte.
+
+3 - Tratando-se da casa de habitação principal do requerido, sempre que se suscitem sérias dificuldades no realojamento do despejado, o agente de execução, notário ou oficial de justiça comunica antecipadamente o facto à câmara municipal e às entidades assistenciais competentes.
+
+###### Artigo 16.º — Notificação para remoção dos bens
+
+Nas situações previstas no n.º 1 do artigo 15.º-K da Lei n.º 6/2006, de 27 de fevereiro, em que não tenha sido possível proceder à notificação do requerido para, no prazo de 30 dias, proceder à remoção dos seus bens móveis, o agente de execução, o notário ou o oficial de justiça afixa, na data em que procede ao arrolamento dos bens encontrados, a notificação na porta do imóvel, considerando-se o requerido notificado para efeitos do disposto no n.º 2 do mesmo artigo.
+
+> Revogado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+#### Secção V — Tramitação, comunicações, notificações e consulta do procedimento
+
+###### Artigo 17.º — Tramitação, comunicações e notificações
+
+1 - A tramitação do procedimento especial de despejo é efetuada eletronicamente nos termos definidos por portaria do membro do Governo responsável pela área da justiça.
+
+2 - São ainda efetuadas por via eletrónica, nos termos definidos por portaria do membro do Governo responsável pela área da justiça, as notificações realizadas pelo BAS e as comunicações entre o BAS, os tribunais, os mandatários e os agentes de execução, notários ou oficiais de justiça.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 18.º — Consulta do processo e disponibilização do título para desocupação do locado
+
+A forma de consulta do processo e o modo de disponibilização da decisão judicial para desocupação do locado são definidos por portaria do membro do Governo responsável pela área da justiça.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+#### Secção VI — Agentes de execução e notários
+
+###### Artigo 19.º — Intervenção de agentes de execução e notários no procedimento especial de despejo
+
+Só podem intervir no procedimento especial de despejo os agentes de execução e os notários que tenham manifestado essa vontade junto da Câmara dos Solicitadores ou da Ordem dos Notários, respetivamente.
+
+###### Artigo 20.º — Regime dos agentes de execução e notários
+
+São definidas por portaria do membro do Governo responsável pela área da justiça as seguintes matérias respeitantes ao regime da intervenção dos agentes de execução e notários no procedimento especial de despejo:
+
+a) Designação do agente de execução ou notário pelo requerente;
+
+b) Designação do agente de execução ou notário pelo BAS;
+
+c) Regime da lista de agentes de execução e de notários participantes no procedimento especial de despejo;
+
+d) Regime de substituição do agente de execução ou notário;
+
+e) Regime de honorários e reembolso de despesas;
+
+f) Mecanismo de revisão da nota de honorários e despesas.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+### Capítulo IV — Disposições complementares e finais
+
+###### Artigo 21.º — Regime das custas processuais
+
+Ao procedimento especial de despejo, quer quando esteja a correr no BAS, quer quando esteja a correr no tribunal, aplica-se o Regulamento das Custas Processuais, aprovado pelo Decreto-Lei n.º 34/2008, de 26 de fevereiro, com as especificidades previstas nos artigos seguintes.
+
+> Alterado pelo/a Artigo 38.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07
+
+###### Artigo 22.º — Taxas de justiça devidas
+
+1 - A taxa de justiça devida pela apresentação do requerimento de despejo corresponde à taxa de justiça prevista na tabela II do Regulamento das Custas Processuais para as execuções em que as diligências de execução não sejam realizadas por oficial de justiça.
+
+2 - A taxa de justiça devida pela apresentação da oposição ao requerimento de despejo, bem como pela resposta a este, corresponde à taxa de justiça prevista na tabela II do Regulamento das Custas Processuais para a oposição à execução ou à penhora.
+
+3 - Pela apresentação do pedido de autorização judicial para entrada imediata no domicílio, nos termos do artigo 15.º-L da Lei n.º 6/2006, de 27 de fevereiro, é devido o pagamento, pelo requerente, de taxa de justiça no valor de 0,2 UC.
+
+4 - É calculada nos termos previstos na tabela II do Regulamento das Custas Processuais para os «outros incidentes» a taxa de justiça devida nos seguintes casos:
+
+a) Apresentação do pedido de suspensão da desocupação do locado apresentado pelo detentor, nos termos do artigo 15.º-M da Lei n.º 6/2006, de 27 de fevereiro, e respetiva resposta;
+
+b) Apresentação do pedido de diferimento da desocupação de imóvel arrendado para habitação, nos termos do artigo 15.º-N da Lei n.º 6/2006, de 27 de fevereiro e respetiva contestação;
+
+c) (Revogada.)
+
+> Alterado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+###### Artigo 23.º — Pagamento da taxa de justiça devida pela apresentação do requerimento de despejo
+
+As formas de pagamento da taxa de justiça devida pela apresentação do requerimento de despejo são definidas por portaria do membro do Governo responsável pela área da justiça.
+
+###### Artigo 24.º — Pagamento da taxa de justiça noutras situações
+
+1 - Nos casos não previstos no artigo anterior, o pagamento da taxa de justiça devida é efetuada através da emissão de documento único de cobrança (DUC) e do respetivo pagamento, nos termos do Regulamento das Custas Processuais e da respetiva regulamentação.
+
+2 - O pagamento efetuado nos termos do número anterior é comprovado pela junção do respetivo documento comprovativo à peça processual a que respeita.
+
+###### Artigo 25.º — Taxa de justiça no caso de despejo efetuado por oficial de justiça
+
+1 - Nos casos em que seja designado oficial de justiça para proceder à desocupação do locado, além do pagamento da taxa de justiça prevista no n.º 1 do artigo 22.º, é devido o pagamento de taxa de justiça no seguinte valor:
+
+a) 1,75 UC, quando o procedimento tenha valor inferior a (euro) 30 000;
+
+b) 3,5 UC, quando o procedimento tenha valor igual ou superior a (euro) 30 000.
+
+2 - A taxa de justiça prevista no número anterior passa a ser devida logo que o requerente seja notificado para o seu pagamento ou com a notificação do BNA a informar o requerente de ter remetido para o oficial de justiça a decisão judicial que, nos termos do artigo 15.º-I da Lei n.º 6/2006, de 27 de fevereiro, determina a desocupação do locado.
+
+3 - O pagamento da taxa de justiça prevista no n.º 1 é comprovado por junção ao processo do respetivo documento comprovativo e, enquanto tal não suceder, o oficial de justiça não prossegue com os atos necessários à efetivação da desocupação.
+
+> Revogado pelo/a Artigo 53.º do/a [Lei n.º 56/2023 - Diário da República n.º 194/2023, Série I de 2023-10-06](https://diariodarepublica.pt/dr/detalhe/lei/56-2023-222477692), em vigor a partir de 2023-10-07, produz efeitos a partir de 2024-02-04
+
+###### Artigo 26.º — Valor do procedimento
+
+O valor do procedimento especial de despejo corresponde ao valor da renda de dois anos e meio, acrescido do valor das rendas em dívida.
+
+###### Artigo 27.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de novembro de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paula Maria von Hafe Teixeira da Cruz - Maria de Assunção Oliveira Cristas Machado da Graça.
+
+Promulgado em 28 de dezembro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 28 de dezembro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:389637:por
+title: Decreto-Lei n.º 253/93
+short_title: null
+summary: Estabelece medidas de racionalização dos efectivos de pessoal dos estabelecimentos fabris dependentes do Exército
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 253/93
+official_date: null
+publication_date: '1993-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 164/1993, Série I-A de 1993-07-15
+  number: '164'
+  series: I
+  supplement: null
+  pages: 3840 - 3841
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/07/164a00/38403841.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/253/1993/07/15/p/dre/pt/html
+  oj: null
+  dre: '389637'
+  dre_path: /dr/detalhe/decreto-lei/253-1993-389637
+  internal: pt:dre:389637:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1993-389637
+  metadata_url: https://data.dre.pt/eli/dec-lei/253/1993/07/15/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1993-389637
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-12-07T00:00:00Z'
+integrity:
+  source_sha256: e9886b2a576a89d928ed70a0eba6615e0d535afad29dda5995ad09d072e66ed4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-253-389637.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aposentação Bonificada
+- Exército
+- Pessoal Operário
+- Laboratório Militar de Produtos Químicos e Farmacêuticos
+- Manutenção Militar
+- Forças Armadas
+- Oficinas Gerais de Fardamento e Equipamento
+- Oficinas Gerais de Material de Engenharia
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Civil
+relationships:
+- type: amended_by
+  target: pt:dre:187086:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 253/93
+
+de 15 de Julho
+
+As indústrias de defesa constituem um factor essencial à afirmação da capacidade de defesa do País. Assim, vem o Governo adoptando medidas de racionalização e modernização destas indústrias, segundo critérios de funcionalidade logística e de viabilidade económica e financeira, no quadro do desenvolvimento tecnológico e das necessidades das Forças Armadas. Trata-se de manter e desenvolver, em função de critérios de oportunidade e racionalidade, o apoio às Forças Armadas, tirando partido da aptidão industrial disponível, a nível nacional e regional, e promovendo uma harmoniosa articulação entre as indústrias de defesa e o desenvolvimento do País.
+
+Componente importante do apoio industrial e logístico às Forças Armadas, os estabelecimentos fabris militares viram os seus efectivos de pessoal civil sobredimensionados com o fim do esforço militar em África, já pela redução das actividades produtivas, adequadas em tempo de paz, já pela brusca integração de pessoal regressado das sucursais ultramarinas encerradas com a descolonização. Por outro lado, o desenvolvimento da economia, proporcionando diversidade e qualidade de bens e serviços ao aprovisionamento militar, retira sentido à manutenção de actividades industriais e comerciais não directamente vocacionadas para a concorrência no mercado.
+
+Torna-se, nesta medida, indispensável para o ajustamento dos estabelecimentos fabris militares às novas realidades a racionalização dos seus efectivos de pessoal. Esta medida constitui um primeiro passo na reestruturação global de cada estabelecimento, que o reponha na posição estratégica e gestionária adequada à intervenção que deve competir-lhe em termos de defesa nacional.
+
+Na linha, pois, de medidas de descongestionamento de efectivos de pessoal de serviços ligados à Administração do Estado e subscritores da Caixa Geral de Aposentações, o presente diploma cria o enquadramento legal adequado à racionalização dos efectivos de pessoal dos estabelecimentos fabris militares.
+
+Foram ouvidas as estruturas representativas dos trabalhadores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente diploma aplica-se aos trabalhadores civis pertencentes aos grupos de pessoal auxiliar, operário e administrativo ou equiparados, dos seguintes estabelecimentos fabris do Exército:
+
+a) Laboratório Militar de Produtos Químicos e Farmacêuticos;
+
+b) Manutenção Militar;
+
+c) Oficinas Gerais de Fardamento e Equipamento;
+
+d) Oficinas Gerais de Material de Engenharia.
+
+###### Artigo 2.º — Aposentação voluntária
+
+1 - O pessoal que seja subscritor da Caixa Geral de Aposentações (CGA) pode, nos 60 dias subsequentes à entrada em vigor do presente diploma, requerer a aposentação, por sua iniciativa e sem submissão a junta médica, desde que conte, ou venha a contar, durante o ano de 1993, pelo menos 25 anos de serviço, independentemente da idade, ou 20 anos de serviço e 50 de idade.
+
+2 - A pensão a atribuir ao pessoal que venha a requerer a aposentação será calculada nos termos do Estatuto da Aposentação e acrescida de uma bonificação de 20%, não podendo em caso algum ser superior à correspondente a 36 anos de serviço.
+
+3 - O pessoal pode também requerer a sua aposentação, nos termos do presente diploma, desde que conte 15 anos de serviço e 45 anos de idade, caso em que não será aplicável o número anterior.
+
+4 - Não pode ser autorizada a contratação, ainda que em regime de prestação de serviço, pela administração central, regional e local, nos 10 anos posteriores à aposentação do pessoal que beneficie do disposto nos números anteriores.
+
+###### Artigo 3.º — Processo de aposentação
+
+1 - O processo de aposentação voluntária inicia-se por requerimento do interessado, dirigido ao Ministro da Defesa Nacional, que deve dar entrada no estabelecimento fabril respectivo nos 60 dias subsequentes à entrada em vigor do presente diploma.
+
+2 - O estabelecimento fabril instrui o processo com os elementos necessários à apreciação do pedido e ao cálculo da pensão.
+
+###### Artigo 4.º — Pensão provisória
+
+1 - Por despacho do Chefe do Estado-Maior do Exército, sob proposta da direcção do estabelecimento fabril, podem os requerentes de aposentação voluntária ser desligados do serviço, mediante a atribuição de uma pensão provisória.
+
+2 - As pensões provisórias são calculadas e suportadas pelo estabelecimento fabril até à passagem à situação de aposentação.
+
+3 - O despacho referido no n.º 1 produz os efeitos previstos no n.º 1 do artigo 43.º do Estatuto da Aposentação, aprovado pelo [Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro.
+
+###### Artigo 5.º — Desvinculação
+
+1 - O pessoal abrangido pelo presente diploma pode, no prazo previsto no n.º 1 do artigo 2.º, requerer a cessação do vínculo laboral com o estabelecimento fabril a que pertença, beneficiando de uma indemnização calculada nos termos do número seguinte.
+
+2 - A indemnização assume a natureza de uma prestação pecuniária única, a abonar no mês subsequente à desvinculação, de valor correspondente a um mês de remuneração base por cada 24 meses completos de tempo de serviço.
+
+3 - É aplicável à contratação pela Administração Pública de trabalhadores que beneficiem do disposto nos números anteriores o previsto no n.º 4 do artigo 2.º
+
+###### Artigo 6.º — Admissão de pessoal
+
+Até à publicação do diploma de reestruturação de cada estabelecimento fabril, a admissão de pessoal a título permanente para o respectivo quadro carece de anuência prévia do Ministro da Defesa Nacional.
+
+###### Artigo 7.º — Contribuição financeira
+
+1 - A partir de Janeiro de 1994, os estabelecimentos fabris do Exército passam a entregar mensalmente à CGA, a título de contribuição para o financiamento do sistema, montante igual ao das quotas deduzidas nas remunerações do respectivo pessoal, simultaneamente com a remessa destas quotizações.
+
+2 - A inobservância do prazo a que se refere o número anterior obriga os estabelecimentos fabris do Exército ao pagamento de juros, de acordo com a legislação aplicável.
+
+Visto e aprovado em Conselho de Ministros de 13 de Maio de 1993. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - Jorge Braga de Macedo.
+
+**Promulgado em 1 de Julho de 1993.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 2 de Julho de 1993.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

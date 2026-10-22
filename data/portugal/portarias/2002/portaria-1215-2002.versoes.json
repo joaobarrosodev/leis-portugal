@@ -1,0 +1,322 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:626819:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-998840767",
+ "dre_path": "/dr/detalhe/portaria/1215-2002-626819",
+ "source_lastmod": "2026-02-11",
+ "versions": [
+  {
+   "date": "2002-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "999152375",
+    "999152575",
+    "999152775",
+    "999152975",
+    "999153175",
+    "999153375",
+    "999153575",
+    "999153775",
+    "999153975",
+    "999154175",
+    "999154375",
+    "999154575",
+    "999154775",
+    "999154975",
+    "999155175",
+    "999155375",
+    "999155575",
+    "999155775",
+    "999155975"
+   ]
+  },
+  {
+   "date": "2003-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:494487:por",
+     "title": "Portaria n.º 1048/2003",
+     "published": "2003-09-23",
+     "dre_path": "/dr/detalhe/portaria/1048-2003-494487"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "999152375",
+    "999152575",
+    "999152775",
+    "999152975",
+    "999153175",
+    "999153375",
+    "999153575",
+    "999153775",
+    "999153975",
+    "999154175",
+    "999154375",
+    "999154575",
+    "999154775",
+    "999154975",
+    "1037796148",
+    "1037796149",
+    "999155575",
+    "999155775",
+    "1037796150"
+   ]
+  },
+  {
+   "date": "2006-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:541011:por",
+     "title": "Portaria n.º 84/2006",
+     "published": "2006-01-23",
+     "dre_path": "/dr/detalhe/portaria/84-2006-541011"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "999152375",
+    "1049282326",
+    "1049282327",
+    "999152575",
+    "999152775",
+    "999152975",
+    "999153175",
+    "999153375",
+    "999153575",
+    "999153775",
+    "999153975",
+    "999154175",
+    "999154375",
+    "999154575",
+    "999154775",
+    "999154975",
+    "1037796148",
+    "1037796149",
+    "999155575",
+    "1049282365",
+    "1037796150"
+   ]
+  }
+ ],
+ "fragments": {
+  "999152375": {
+   "fragment_id": "999152275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "No âmbito da medida Agricultura e Desenvolvimento Rural, abreviadamente designada por medida AGRIS, dos programas operacionais regionais, são apoiados, entre outros, investimentos relativos à instalação de linhas de distribuição e de alimentação de energia eléctrica em média e baixa tensões e de postos de transformação, tendo por destinatárias, designadamente, explorações agrícolas e pequenas unidades agro-industriais.\n\nEsses apoios têm vindo a ser concedidos na sequência de candidatura formalizada através da EDP, uma vez que aquelas obras se integram na rede pública de abastecimento de energia eléctrica.\n\nTodavia, face à elevada procura desses apoios por parte dos interessados, o procedimento não se tem revelado o mais eficaz, tanto mais que importa assegurar uma maior articulação com os apoios previstos no Programa AGRO para a electrificação interna das explorações.\n\nImporta, assim, proceder à alteração do Regulamento de Aplicação da Subacção n.º 6.2, «Electrificação», da medida AGRIS, por forma a possibilitar a apresentação e formalização directa das candidaturas pelos interessados.\n\nAssim:\n\nAo abrigo do n.º 2 do artigo 22.º do Decreto-Lei n.º 163-A/2000, de 27 de Julho:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:"
+  },
+  "999152575": {
+   "fragment_id": "999152475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 8 de Agosto de 2002.\n\nA Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite. - O Ministro da Agricultura, Desenvolvimento Rural e Pescas, Armando José Cordeiro Sevinate Pinto."
+  },
+  "999152775": {
+   "fragment_id": "999152675",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 6.2, «ELECTRIFICAÇÃO»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO DA SUBACÇÃO N.º 6.2, «ELECTRIFICAÇÃO»"
+  },
+  "999152975": {
+   "fragment_id": "999152875",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de aplicação da subacção n.º 6.2, «Electrificação», da acção n.º 6, «Caminhos e electrificação agro-rurais» da medida AGRIS."
+  },
+  "999153175": {
+   "fragment_id": "999153075",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nA subacção Electrificação visa disponibilizar o acesso à energia eléctrica por parte das explorações agro-florestais, pequenas agro-indústrias e outras iniciativas e projectos de desenvolvimento local por forma a permitir a modernização, reconversão, diversificação e viabilização das actividades produtivas e proporcionar, assim, às populações rurais a melhoria do seu rendimento e qualidade de vida."
+  },
+  "999153375": {
+   "fragment_id": "999153275",
+   "type": 11,
+   "heading": "Artigo 3.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Beneficiários\n\nPodem beneficiar das ajudas previstas neste Regulamento os titulares de explorações agro-florestais e de pequenas unidades agro-industriais produtoras de produtos de qualidade, tal como se encontram definidos no âmbito da acção n.º 2, «Desenvolvimento dos produtos de qualidade da medida AGRIS», as associações de regantes, as cooperativas de rega, as juntas de agricultores e demais organizações de agricultores, directamente ou através da EDP Distribuição - Energia, S. A., adiante abreviadamente designada por EDP."
+  },
+  "999153575": {
+   "fragment_id": "999153475",
+   "type": 11,
+   "heading": "Artigo 4.º — Investimentos apoiados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Investimentos apoiados\n\nPodem ser concedidas ajudas a projectos que visem a instalação de linhas de distribuição e de alimentação de energia eléctrica em média e baixa tensões e de postos de transformação integrados numa rede pública de abastecimento, à excepção dos investimentos previstos no artigo seguinte."
+  },
+  "999153775": {
+   "fragment_id": "999153675",
+   "type": 11,
+   "heading": "Artigo 5.º — Investimentos excluídos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Investimentos excluídos\n\nFicam excluídos dos apoios previstos neste Regulamento:\n\na) Os investimentos de carácter individual no interior das explorações agro-florestais e das pequenas unidades agro-industriais;\n\nb) Os investimentos susceptíveis de ser integrados em projectos de desenvolvimento rural."
+  },
+  "999153975": {
+   "fragment_id": "999153875",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e nível das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Forma e nível das ajudas\n\nAs ajudas são atribuídas sob a forma de incentivo não reembolsável no valor de 100% das despesas elegíveis."
+  },
+  "999154175": {
+   "fragment_id": "999154075",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\n1 - São elegíveis as despesas relativas:\n\na) À elaboração dos estudos e projectos de investimento;\n\nb) À instalação de redes de distribuição e linhas de alimentação em média e baixa tensões;\n\nc) À instalação de postos de transformação;\n\nd) Ao acompanhamento e fiscalização das obras.\n\n2 - No caso de candidaturas apresentadas pela EDP, sem prejuízo das limitações impostas nos normativos comunitários aplicáveis, designadamente no Regulamento (CE) n.º 1685/2000, da Comissão, de 28 de Julho, poderão ser considerados elegíveis, até 10% do total das restantes despesas elegíveis, os encargos internos imputados à realização dos trabalhos referidos no número anterior.\n\n3 - Com excepção das despesas referidas na alínea a) do n.º 1, que podem ser consideradas quando realizadas nos seis meses anteriores, apenas são elegíveis no âmbito deste Regulamento as despesas realizadas após a apresentação da candidatura."
+  },
+  "999154375": {
+   "fragment_id": "999154275",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação e formalização das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação e formalização das candidaturas\n\nOs processos de candidatura apresentados directamente pelos beneficiários são entregues na direcção regional de agricultura competente, ao longo de todo o ano, em formulário próprio, acompanhado dos elementos indicados nas respectivas instruções, bem como do projecto de electrificação, das licenças e autorizações exigidas nos termos da legislação aplicável e do parecer da EDP sobre os mesmos."
+  },
+  "999154575": {
+   "fragment_id": "999154475",
+   "type": 11,
+   "heading": "Artigo 9.º — Apresentação e formalização das candidaturas da EDP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apresentação e formalização das candidaturas da EDP\n\n1 - O processo de candidatura, quando apresentada pela EDP, é precedido da apresentação de uma manifestação de interesse dos outros beneficiários referidos no n.º 1 do artigo 3.º, em formulário próprio e acompanhada dos seguintes elementos:\n\na) Informação sobre a localização das explorações agro-florestais e demais unidades produtivas interessadas na utilização de energia eléctrica da rede pública e identificação dos pontos em que se pretende a utilização da mesma;\n\nb) Indicação da potência a instalar em cada exploração e unidade produtiva;\n\nc) Memória descritiva e justificativa da electrificação.\n\n2 - As manifestações de interesse são entregues na direcção regional de agricultura competente e por esta remetidas à EDP, acompanhadas de parecer fundamentado.\n\n3 - A EDP elabora a estimativa orçamental dos encargos e apresenta a candidatura, em formulário próprio, acompanhado dos documentos indicados nas respectivas instruções.\n\n4 - As manifestações de interesse e a subsequente formalização das candidaturas são concretizadas, ao longo de todo o ano, junto das direcções regionais de agricultura."
+  },
+  "999154775": {
+   "fragment_id": "999154675",
+   "type": 11,
+   "heading": "Artigo 10.º — Protocolo com a EDP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Protocolo com a EDP\n\nPara efeitos de operacionalização do disposto no presente Regulamento, será celebrado um protocolo entre o Ministério da Agricultura, Desenvolvimento Rural e Pescas e a EDP."
+  },
+  "999154975": {
+   "fragment_id": "999154875",
+   "type": 11,
+   "heading": "Artigo 11.º — Análise das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Análise das candidaturas\n\nA análise das candidaturas compete ao coordenador da medida AGRIS, que as remeterá ao gestor da intervenção operacional regional, nos termos do disposto no artigo 30.º do Decreto-Lei n.º 54-A/2000, de 7 de Abril."
+  },
+  "999155175": {
+   "fragment_id": "999155075",
+   "type": 11,
+   "heading": "Artigo 12.º — Decisão sobre as candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Decisão sobre as candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n2 - As candidaturas serão decididas nos meses de Maio e Novembro.\n\n3 - As candidaturas são seleccionadas tendo em conta os seguintes critérios:\n\na) Exploração com a instalação interna concluída;\n\nb) Exploração(ões) localizada(s) em zonas com investimentos colectivos em infra-estruturas já realizados ou em fase de execução;\n\nc) Dimensão e viabilidade da(s) exploração(ões), área a regar e infra-estruturas agro-pecuárias;\n\nd) Interligação com outros investimentos a nível de exploração;\n\ne) Utilização colectiva da linha de alimentação (número potencial de explorações servidas);\n\nf) Zonas abrangidas por acções de dinamização do desenvolvimento agrícola e rural (acção n.º 8 da medida AGRIS);\n\ng) Zonas abrangidas por acções integradas de desenvolvimento de base territorial (eixo prioritário n.º 2 dos PO regionais) em que as actividades agrícolas ou florestais tenham carácter dominante e integrador.\n\n4 - As candidaturas são aprovadas em função da dotação orçamental disponível.\n\n5 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento, bem como as que não sejam aprovadas por insuficiência orçamental."
+  },
+  "999155375": {
+   "fragment_id": "999155275",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato de atribuição das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e os beneficiários, no prazo de 30 dias a contar da data da comunicação ao interessado e àquele Instituto da aprovação da respectiva candidatura.\n\n2 - Podem ser exigidas garantias para segurança do reembolso das ajudas atribuídas."
+  },
+  "999155575": {
+   "fragment_id": "999155475",
+   "type": 11,
+   "heading": "Artigo 14.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Obrigações dos beneficiários\n\n1 - Os beneficiários ficam obrigados a executar os investimentos nos termos do projecto aprovado.\n\n2 - Os beneficiários que concorram ao abrigo do artigo 3.º ficam, ainda, obrigados a:\n\na) Entregar a obra concluída à EDP Distribuição - Energia, S. A., nos termos da legislação aplicável;\n\nb) Efectuar, por sua conta, quaisquer trabalhos adicionais que lhe sejam eventualmente exigidos pela EDP aquando da entrega da obra;\n\nc) Manter a exploração agro-florestal ou a unidade produtiva por um período mínimo de cinco anos a contar da data de celebração do contrato de atribuição da ajuda."
+  },
+  "999155775": {
+   "fragment_id": "999155675",
+   "type": 11,
+   "heading": "Artigo 15.º — Execução dos investimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Execução dos investimentos\n\n1 - Os projectos e os investimentos podem ser efectuados pela EDP Distribuição - Energia, S. A., ou por empresas por ela qualificadas.\n\n2 - Os prazos para início e conclusão da obra são de, respectivamente, seis meses e um ano após a assinatura do contrato de atribuição de ajudas.\n\n> Nota: [3.º, Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011) A alteração ao presente artigo aplica-se aos contratos celebrados após 1 de Dezembro de 2001."
+  },
+  "999155975": {
+   "fragment_id": "999155875",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento das ajudas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.\n\n2 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio de um recapitulativo das despesas ao IFADAP, com base no qual este procederá ao processamento das ajudas.\n\n3 - A primeira prestação das ajudas só será paga após a realização de, pelo menos, 25% do investimento elegível.\n\n4 - No caso das candidaturas apresentadas pelos beneficiários que concorram directamente às ajudas ao abrigo do artigo 3.º, o último pagamento fica condicionado à apresentação de relatório de aprovação da obra pela Direcção-Geral da Energia, do documento comprovativo de recepção da obra pela EDP e do contrato de exploração com esta última.\n\n5 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento das ajudas."
+  },
+  "1037796148": {
+   "fragment_id": "999155075",
+   "type": 11,
+   "heading": "Artigo 12.º — Decisão sobre as candidaturas",
+   "in_force_from": "2003-09-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1048/2003 - Diário da República n.º 220/2003, Série I-B de 2003-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/1048-2003-494487), em vigor a partir de 2003-09-28"
+   ],
+   "markdown": "###### Artigo 12.º — Decisão sobre as candidaturas\n\n1 - A decisão das candidaturas compete ao Ministro da Agricultura, Desenvolvimento Rural e Pescas.\n\n2 - As candidaturas são seleccionadas tendo em conta os seguintes critérios:\n\na) Exploração com a instalação interna concluída;\n\nb) Exploração(ões) localizada(s) em zonas com investimentos colectivos em infra-estruturas já realizados ou em fase de execução;\n\nc) Dimensão e viabilidade da(s) exploração(ões), área a regar e infra-estruturas agro-pecuárias;\n\nd) Interligação com outros investimentos a nível de exploração;\n\ne) Utilização colectiva da linha de alimentação (número potencial de explorações servidas);\n\nf) Zonas abrangidas por acções de dinamização do desenvolvimento agrícola e rural (acção n.º 8 da medida AGRIS);\n\ng) Zonas abrangidas por acções integradas de desenvolvimento de base territorial (eixo prioritário n.º 2 dos PO regionais) em que as actividades agrícolas ou florestais tenham carácter dominante e integrador.\n\n3 - As candidaturas são aprovadas em função da dotação orçamental disponível.\n\n4 - São recusadas as candidaturas que não reúnam as condições estabelecidas neste Regulamento, bem como as que não sejam aprovadas por insuficiência orçamental.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1048/2003 - Diário da República n.º 220/2003, Série I-B de 2003-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/1048-2003-494487), em vigor a partir de 2003-09-28"
+  },
+  "1037796149": {
+   "fragment_id": "999155275",
+   "type": 11,
+   "heading": "Artigo 13.º — Contrato de atribuição das ajudas",
+   "in_force_from": "2003-09-28",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 1048/2003 - Diário da República n.º 220/2003, Série I-B de 2003-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/1048-2003-494487), em vigor a partir de 2003-09-28"
+   ],
+   "markdown": "###### Artigo 13.º — Contrato de atribuição das ajudas\n\n1 - A atribuição das ajudas previstas neste Regulamento faz-se ao abrigo de contratos celebrados entre o Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e os beneficiários, no prazo de 30 dias a contar da data da comunicação ao interessado e àquele Instituto da aprovação da respectiva candidatura.\n\n2 - (Revogado.)\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 1048/2003 - Diário da República n.º 220/2003, Série I-B de 2003-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/1048-2003-494487), em vigor a partir de 2003-09-28"
+  },
+  "1037796150": {
+   "fragment_id": "999155875",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento das ajudas",
+   "in_force_from": "2003-09-28",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 1048/2003 - Diário da República n.º 220/2003, Série I-B de 2003-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/1048-2003-494487), em vigor a partir de 2003-09-28"
+   ],
+   "markdown": "###### Artigo 16.º — Pagamento das ajudas\n\n1 - O pagamento das ajudas é efectuado pelo IFADAP nos termos das cláusulas contratuais.\n\n2 - Os pedidos de pagamento serão apresentados através das direcções regionais de agricultura ao coordenador da medida AGRIS, que, após análise dos mesmos, procederá ao envio de um recapitulativo das despesas ao IFADAP, com base no qual este procederá ao processamento das ajudas.\n\n3 - A primeira prestação das ajudas só será paga após a realização de, pelo menos, 25% do investimento elegível.\n\n4 - No caso das candidaturas apresentadas pelos beneficiários que concorram directamente às ajudas ao abrigo do artigo 3.º, o último pagamento fica condicionado à apresentação de relatório de aprovação da obra pela Direcção-Geral da Energia, do documento comprovativo de recepção da obra pela EDP e do contrato de exploração com esta última.\n\n5 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento das ajudas, nos termos e condições previstos no artigo 52.º do Regulamento (CE) n.º 445/2002, da Comissão, de 26 de Fevereiro.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 1048/2003 - Diário da República n.º 220/2003, Série I-B de 2003-09-23](https://diariodarepublica.pt/dr/detalhe/portaria/1048-2003-494487), em vigor a partir de 2003-09-28"
+  },
+  "1049282326": {
+   "fragment_id": "1049253818",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o Regulamento de Aplicação da Subacção n.º 6.2, «Electrificação», da acção n.º 6, «Caminhos e electrificação agro-rurais», da medida AGRIS dos programas operacionais regionais, em anexo ao presente diploma e do qual faz parte integrante."
+  },
+  "1049282327": {
+   "fragment_id": "1049253819",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nÉ revogada a Portaria n.º 59/2001, de 30 de Janeiro."
+  },
+  "1049282365": {
+   "fragment_id": "999155675",
+   "type": 11,
+   "heading": "Artigo 15.º — Execução dos investimentos",
+   "in_force_from": "2006-01-24",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011), em vigor a partir de 2006-01-24"
+   ],
+   "markdown": "###### Artigo 15.º — Execução dos investimentos\n\n1 - Os projectos e os investimentos podem ser efectuados pela EDP Distribuição - Energia, S. A., ou por empresas por ela qualificadas.\n\n2 - Os prazos para início e conclusão da obra são de, respectivamente, seis meses e um ano após a assinatura do contrato de atribuição de ajudas.\n\n3 - O coordenador da medida AGRIS pode, em casos devidamente fundamentados, conceder a prorrogação dos prazos estabelecidos no número anterior.\n\n> Nota: [3.º, Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011) A alteração ao presente artigo aplica-se aos contratos celebrados após 1 de Dezembro de 2001.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 84/2006 - Diário da República n.º 16/2006, Série I-B de 2006-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/84-2006-541011), em vigor a partir de 2006-01-24"
+  }
+ }
+}

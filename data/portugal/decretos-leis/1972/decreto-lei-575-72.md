@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:665131:por
+title: Decreto-Lei n.º 575/72
+short_title: null
+summary: Adopta várias providências de carácter fiscal quanto aos impostos complementar e profissional e a novas facilidades
+  às cooperativas agrícolas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 575/72
+official_date: null
+publication_date: '1972-12-30'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 302/1972, Série I de 1972-12-30
+  number: '302'
+  series: I
+  supplement: null
+  pages: 2115 - 2116
+  pdf_url: https://files.diariodarepublica.pt/1s/1972/12/30200/21152116.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '665131'
+  dre_path: /dr/detalhe/decreto-lei/575-1972-665131
+  internal: pt:dre:665131:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1972-665131
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/575-1972-665131
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-12-30T00:00:00Z'
+integrity:
+  source_sha256: 6c2509a0eea489c121ef6ad40f087944af2f0117d9c7582fd0f474a2203d06dc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1972/DRE-1972-575-665131.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:401901:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 575/72
+
+de 30 de Dezembro
+
+Entre as medidas de política fiscal cuja adopção foi autorizada pelo artigo 9.º da [Lei n.º 6/72](https://diariodarepublica.pt/dr/detalhe/lei/6-1972-186147), de 27 de Dezembro, figuram algumas que, pela sua própria natureza, carecem de aturado estudo e de articulação com providências que deverão ser naturalmente tomadas, mas se localizam fora da acção do sector tributário.
+
+Importa, todavia, dar seguimento desde já, àquelas cuja aplicação convém reportar, tanto quanto possível, à data de 1 de Janeiro do próximo ano. Este é o caso das medidas relativas aos impostos complementar e profissional previstas nas alíneas d), e) e f) do referido artigo. É ainda o caso das providências destinadas a facilitar a acção das cooperativas agrícolas [alínea c)], a integrar na oportuna revisão do regime tributário das cooperativas em geral.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º O regime do artigo 3.º do [Decreto-Lei n.º 45399](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45399-1963-432796), de 30 de Novembro de 1963, é tornado extensivo aos abonos relativos à situação de reserva e às pensões de aposentação ou de reforma por serviços prestados às entidades referidas na alínea b) da regra 4.ª do artigo 15.º do Código do Imposto Complementar.
+
+###### Art. 2.º Os artigos 23.º e 24.º do Código do Imposto Profissional passam a ter a seguinte redacção:
+
+###### Art. 23.º ...
+
+1.º ...
+
+2.º Sobre as remunerações de outra natureza, a taxa do imposto profissional sobre 120000$00 e a taxa da contribuição industrial sobre o restante.
+
+§ único ...
+
+###### Art. 24.º Os contribuintes que, durante qualquer período do ano, tenham exercido em acumulação actividades por conta de outrem e que, relativamente às actividades desta natureza, hajam auferido rendimentos superiores ao quantitativo estabelecido na alínea a) do n.º 1.º do artigo 8.º do [Decreto-Lei n.º 49410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49410-1969-176301), de 24 de Novembro de 1969, ficam sujeitos a um adicionamento sobre o excedente a este quantitativo, obtido pela aplicação das taxas seguintes:
+
+...
+
+§ 1.º ...
+
+§ 2.º ...
+
+§ 3.º ...
+
+§ 4.º ...
+
+###### Art. 3.º - 1. As cooperativas agrícolas poderão, sem prejuízo das regalias concedidas pela legislação em vigor, ser autorizadas a:
+
+a) Industrializar os produtos das explorações agrícolas, silvícolas, aquícolas ou pecuárias não integradas em explorações industriais dos seus associados;
+
+b) Ceder, no todo ou em parte, os seus edifícios, instalações, equipamentos ou serviços a outras cooperativas agrícolas, ou utilizar as instalações, equipamentos ou serviços de outras cooperativas da mesma natureza para a realização dos fins da concessionária ou da utente;
+
+c) Participar como sócios ou accionistas titulares de acções nominativas em sociedades que tenham por objecto a produção, transporte, armazenagem, conservação, tratamento, aproveitamento ou industrialização dos produtos provenientes das explorações agrícolas, silvícolas, pecuárias e aquícolas, ou ainda a comercialização dos respectivos produtos, quer da sociedade, quer dos seus sócios;
+
+d) Receber, para fins idênticos aos previstos na anterior, produtos provenientes de explorações a cargo dos serviços do Estado.
+
+2. Para efeitos do número precedente, considera-se industrialização dos produtos das explorações agrícolas, silvícolas, pecuárias ou aquícolas aquela em que o valor dos produtos provenientes dessas explorações exceda 75 por cento do valor de todos os produtos utilizados ou incorporados no produto obtido com a mesma industrialização.
+
+3. A autorização para os efeitos da alínea c) do n.º 1 é da competência do Ministro das Finanças, ouvido o Ministro da Economia, e só será concedida quando se reconheça que a participação se mostre conveniente aos interesses da economia nacional e a parte do capital subscrita por cooperativas ou outras associações agrícolas exceda 50 por cento do capital da sociedade.
+
+###### Art. 4.º - 1. As sociedades de que trata a alínea c) do n.º 1 do artigo anterior são isentas de contribuição industrial e de imposto complementar se a participação das cooperativas ou destas e de outras associações agrícolas exceder 50 por cento do capital social da sociedade.
+
+2. Se a sociedade tiver outros objectivos além dos de que trata a alínea referida no número precedente, as isenções estabelecidas neste artigo não aproveitarão aos lucros imputáveis às actividades exercidas dentro desses outros objectivos.
+
+###### Art. 5.º Fica revogado o artigo 1.º do [Decreto-Lei n.º 404/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/404-1970-138835), de 24 de Agosto.
+
+###### Art. 6.º As disposições do artigo 1.º e as alterações de que trata o artigo 2.º do presente diploma aplicar-se-ão às liquidações que, nos termos do respectivo Código, devam ser efectuadas a partir de 1 de Janeiro de 1973.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.
+
+**Promulgado em 29 de Dezembro de 1972.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

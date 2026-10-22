@@ -1,0 +1,179 @@
+---
+schema_version: '1.0'
+id: pt:dre:1468806:por
+title: Resolução n.º 26/2005 (2.ª série)
+short_title: null
+summary: null
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 26/2005 (2.ª série)
+official_date: null
+publication_date: '2005-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2005, Série II de 2005-05-19
+  number: '97'
+  series: II
+  supplement: null
+  pages: 7791 - 7792
+  pdf_url: https://files.diariodarepublica.pt/2s/2005/05/097000000/0779107792.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1468806'
+  dre_path: /dr/detalhe/resolucao/26-2005-1468806
+  internal: pt:dre:1468806:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/26-2005-1468806
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/26-2005-1468806
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-05-19T00:00:00Z'
+integrity:
+  source_sha256: 31c84fa635fb41d7176377360d399d4a662e8d88ab5ea43314d3f21174bddcf4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-26-1468806.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: celex:31999R1260
+  label: null
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 26/2005 (2.ª série)
+
+Resolução n.º 26/2005 (2.ª série). - O [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, alterado pela [Lei n.º 20/2000](https://diariodarepublica.pt/dr/detalhe/lei/20-2000-339845), de 10 de Agosto, e pelo [Decreto-Lei n.º 122/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/122-2001-164205), de 17 de Abril, define a estrutura orgânica responsável pela gestão, acompanhamento, avaliação e controlo da execução do III Quadro Comunitário de Apoio (QCA III) e das intervenções estruturais comunitárias relativas a Portugal, nos termos do Regulamento (CE) n.º 1260/99, do Conselho, de 21 de Junho.
+
+De acordo com o estabelecido no artigo 25.º do referido diploma, a gestão técnica, administrativa e financeira de cada uma das intervenções operacionais sectoriais incluídas no QCA III incumbe a um gestor, que pode ser apoiado por coordenadores de componentes de intervenções operacionais.
+
+A [Resolução do Conselho de Ministros n.º 27/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2000-274021), de 16 de Maio, define, nos termos do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, as estruturas de gestão do QCA III e, no que diz respeito à Intervenção Operacional da Saúde, que constitui o n.º 5 do anexo I à referida resolução, procede à nomeação dos coordenadores das suas componentes de molde a permitir melhorar a eficácia e aumentar a coordenação no âmbito da Intervenção Operacional da Saúde, dada a grande diversidade e a especificidade das acções que estão programadas.
+
+Através da [Resolução do Conselho de Ministros n.º 27/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2000-274021), publicada no Diário da República, 1.ª série-B, n.º 113, de 16 de Maio de 2000, com as alterações que lhe foram introduzidas pela resolução do Conselho de Ministros n.º 44/2004, publicada no Diário da República, 2.ª série, n.º 105, de 5 de Maio de 2004, nomeadamente do n.º 2 do artigo 5.º do anexo I, foi nomeado como coordenador da componente "Formação dos activos", da Intervenção Operacional da Saúde, o licenciado Rui Manuel da Silva Rodrigues Guerra e como coordenador da componente "Melhoria do acesso" o licenciado João Campos Vargas Moniz.
+
+Uma vez que o licenciado Rui Manuel da Silva Rodrigues Guerra foi chamado a desempenhar funções de chefe do Gabinete da Secretária de Estado Adjunta e da Saúde e o licenciado João Campos Vargas Moniz foi nomeado para exercer o cargo de gestor da Intervenção Operacional da Saúde, por resolução do Conselho de Ministros de 14 de Abril, torna-se necessário nomear dois novos coordenadores para os substituir.
+
+Assim:
+
+Nos termos da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear para o cargo de coordenador da componente "Formação dos activos", da Intervenção Operacional da Saúde do QCA III, a licenciada Maria João Baeta Condessa, em regime de substituição, nos termos do disposto no artigo 33.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, e nos n.os 3 e 5 do artigo 7.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho, para conceder o necessário apoio ao gestor daquela Intervenção Operacional, no exercício das suas funções, com a remuneração correspondente a vogal do conselho de administração de empresa pública do grupo B, nível 1, cujo currículo se publica em anexo à presente resolução e da qual faz parte integrante.
+
+2 - Determinar que a nomeação de coordenador da componente "Formação dos activos", da Intervenção Operacional da Saúde do QCA III, referida no número anterior, produz efeitos a partir do dia 5 de Maio de 2005.
+
+3 - Exonerar o licenciado João Campos Vargas Moniz, com efeitos a partir de 1 de Maio de 2005, do cargo de coordenador da componente "Melhoria do acesso" em virtude da sua nomeação para o cargo de gestor da Intervenção Operacional da Saúde, ao abrigo da resolução do Conselho de Ministros de 14 de Abril.
+
+4 - Nomear para o cargo de coordenador da componente "Melhoria do acesso", da Intervenção Operacional da Saúde do QCA III, o licenciado Hugo Manuela Mesquita da Silva, nos termos do disposto no artigo 33.º do [Decreto-Lei n.º 54-A/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-a-2000-249799), de 7 de Abril, para conceder o necessário apoio ao gestor daquela Intervenção Operacional, no exercício das suas funções, com a remuneração correspondente a vogal do conselho de administração de empresa pública do grupo B, nível 1, cujo currículo se publica em anexo à presente resolução, da qual faz parte integrante.
+
+5 - Determinar que a nomeação de coordenador da componente "Melhoria do acesso", da Intervenção Operacional da Saúde do QCA III, referida no número anterior, produz efeitos a partir do dia 1 de Maio de 2005 e que o prazo para a execução da missão corresponde ao período de vigência da Intervenção Operacional da Saúde, nos termos previstos no n.º 14 da [Resolução do Conselho de Ministros n.º 27/2000](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/27-2000-274021), de 16 de Maio.
+
+5 de Maio de 2005. - O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+Curriculum vitae
+
+Maria João Baeta Condessa, natural de Lisboa, nascida a 16 de Maio de 1967, casada, dois filhos.
+
+A) Habilitações literárias - licenciatura em Gestão de Empresas (1986-1991), pelo Instituto Superior de Gestão e pós-graduação em Gestão e Avaliação da Formação (1996-1997).
+
+B) Habilitações profissionais:
+
+Estágio profissional na Câmara de Comércio de Grenoble em articulação com a Faculdade de Charles Pierre. Curso de Consultores de Formação - Instituto Superior de Gestão (1996);
+
+Participação e intervenção em seminários nos domínios das política públicas nas áreas do emprego, da formação profissional e da inovação.
+
+C) Actividade profissional:
+
+Consultora de projectos na área de desenvolvimento de competências dos recursos humanos e na criação de suportes para as políticas públicas em matéria de FSE, tendo colaborado nomeadamente com o IGFSE, PRODEP, IESE, Deloitte, Grupo Somague, Grupo Soares da Costa, Rumos (2004-2005);
+
+Directora executiva do Gabinete de Parcerias e Formação Profissional (GPF) do Programa Operacional da Economia POE/PRIME, tendo coordenado as áreas de parcerias e iniciativas públicas, associativismo, infra-estruturas tecnológicas e de formação (escolas tecnológicas) e SIME (Sistemas de Incentivos para a Modernização Empresarial) - componente formação profissional (2001-2004);
+
+Coordenadora no GdA-fp - Ministério da Economia - das áreas de projectos de formação profissional financiados pelo PEDIP II;
+
+Coordenadora de área na NORMA, S. A., Divisão de Formação, consultora nas áreas de gestão e formadora dos módulos de gestão do Programa Jovens Técnicos para a Indústria (JTI);
+
+Consultora da Escola Marquês de Pombal no Programa FOCO (1996);
+
+Técnica de formação profissional no INETI (1991-1995).
+
+Curriculum vitae
+
+Hugo Manuel Mesquita da Silva, nascido em Portimão a 27 de Abril de 1954, residente em Lisboa.
+
+Habilitações literárias - licenciatura em Sociologia pelo Instituto Superior de Ciências do Trabalho e da Empresa com informação final de Bom (1981).
+
+Formação complementar - pós-graduação em Organização e Gestão da Formação na Faculdade de Psicologia de Lisboa (1996).
+
+Situação profissional actual - assessor principal da Direcção-Geral das Autarquias Locais, requisitado na Direcção-Geral do Tribunal de Contas desde 1 de Junho de 2004.
+
+Carreira e experiência profissional:
+
+Exerceu desde Maio de 2000 as funções de perito nacional destacado junto da Comissão Europeia/Direcção-Geral de Política Regional, tendo sido responsável pelo acompanhamento dos fundos estruturais em Portugal em várias intervenções operacionais, designadamente no Programa Operacional da Saúde;
+
+Subdirector-geral do Desenvolvimento Regional, tendo sido responsável pela coordenação do Gabinete de Estudos de Políticas Regionais, pelo acompanhamento de Programas do QCA II e pela gestão de programas de iniciativa comunitária (1997-2000);
+
+Chefe da Divisão de Formação e Recursos Humanos e director regional do Planeamento e Desenvolvimento da Comissão de Coordenação da Região de Lisboa e Vale do Tejo (1995-1997);
+
+Coordenador pedagógico no Projecto de Formação em Gestão Pública Local, financiado pela CEE, em Moçambique (1989-1992);
+
+Ingresso em 1983, por concurso público, no quadro da Direcção-Geral da Acção Regional e Local do Ministério da Administração Interna;
+
+No período entre 1979-1983 exerceu a carreira docente no ensino oficial secundário.
+
+Representações:
+
+A título de representação da CCRLVT assegurou, entre outras, as seguintes funções:
+
+Membro do conselho consultivo regional do Instituto de Emprego e Formação Profissional;
+
+Interlocutor regional para o Mercado Social de Emprego;
+
+Assegurou ainda a representação da DGDR em diversos fóruns comunitários e ou internacionais, tais como:
+
+Comité das Iniciativas Comunitárias;
+
+Comité Consultivo da Comissão Europeia para o Desenvolvimento e a Reconversão das Regiões;
+
+Comité das Políticas de Desenvolvimento Territorial (OCDE).

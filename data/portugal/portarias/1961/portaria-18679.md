@@ -1,0 +1,128 @@
+---
+schema_version: '1.0'
+id: pt:dre:173085:por
+title: Portaria n.º 18679
+short_title: null
+summary: Introduz alterações na organização dos cursos de cadetes que actualmente frequentam a Escola Naval, estabelecida
+  no quadro II anexo à Portaria n.º 18489
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Estado-Maior da Armada
+proposing_entity: null
+official_number: '18679'
+official_date: null
+publication_date: '1961-08-18'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 191/1961, Série I de 1961-08-18
+  number: '191'
+  series: I
+  supplement: null
+  pages: 1026 - 1027
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/08/19100/10261027.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '173085'
+  dre_path: /dr/detalhe/portaria/18679-1961-173085
+  internal: pt:dre:173085:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/18679-1961-173085
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/18679-1961-173085
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1961-08-18T00:00:00Z'
+integrity:
+  source_sha256: 06a9752dbdf14edcb317b43b797e5536a9eac84058bc18ca6ffd3bfffeb0da1c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-18679-173085.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 18679
+
+Tendo-se reconhecido a necessidade de antecipar a promoção a guarda-marinha dos cadetes do curso de D. Lourenço de Almeida em relação à data fixada na [Portaria n.º 18489](https://diariodarepublica.pt/dr/detalhe/portaria/18489-1961-170502), de 27 de Maio de 1961;
+
+Atendendo às medidas propostas para tal fim pelo director e 1.º comandante da Escola Naval, depois de ouvido o conselho escolar:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 43608](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43608-1961-569521), de 20 de Abril de 1961, o seguinte:
+
+1.º À organização dos cursos de cadetes que actualmente frequentam a Escola Naval, estabelecida no quadro II anexo à [Portaria n.º 18489](https://diariodarepublica.pt/dr/detalhe/portaria/18489-1961-170502), de 27 de Maio de 1961, são introduzidas as alterações constantes do quadro anexo a esta portaria.
+
+2.º Aos cadetes do curso de D. Lourenço de Almeida é dispensada a realização do embarque de que trata o artigo 148.º do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 41894](https://diariodarepublica.pt/dr/detalhe/decreto/41894-1958-337818), de 7 de Outubro de 1958.
+
+3.º No 7.º período do curso de D. Lourenço de Almeida não serão realizados exames finais; os cadetes desse curso apenas lograrão aprovação nas cadeiras em que obtenham dispensa desse exame, nas condições estabelecidas na primeira parte do n.º 3.º da [Portaria n.º 18489](https://diariodarepublica.pt/dr/detalhe/portaria/18489-1961-170502), de 27 de Maio de 1961.
+
+Ministério da Marinha, 18 de Agosto de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
+
+Alterações a introduzir no quadro II anexo à [Portaria n.º 18489](https://diariodarepublica.pt/dr/detalhe/portaria/18489-1961-170502), de 27 de Maio de 1961
+
+Curso de D. Lourenço de Almeida
+
+7.º período:
+
+Curso de marinha:
+
+Início do período - 15 de Setembro de 1961.
+
+Fim dos trabalhos escolares - 30 de Novembro de 1961.
+
+Estágios - de 1 a 31 de Dezembro de 1961.
+
+Fim do período - 31 de Dezembro de 1961.
+
+Promoção a guarda-marinha - referida a 1 de Janeiro de 1962.
+
+Cursos de engenheiros maquinistas navais e de administração naval:
+
+Início do período - 15 de Setembro de 1961.
+
+Fim dos trabalhos escolares - 31 de Dezembro de 1961.
+
+Fim do período - 31 de Dezembro de 1961.
+
+Promoção a guarda-marinha - referida a 1 de Janeiro de 1962.
+
+Ministério da Marinha, 18 de Agosto de 1961. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

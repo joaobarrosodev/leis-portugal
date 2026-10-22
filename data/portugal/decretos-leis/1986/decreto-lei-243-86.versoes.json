@@ -1,0 +1,820 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:219080:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-213345474",
+ "dre_path": "/dr/detalhe/decreto-lei/243-1986-219080",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213221419",
+    "213221420",
+    "213221421",
+    "213221422",
+    "213221423",
+    "213221425",
+    "213221426",
+    "213221427",
+    "213221428",
+    "213221429",
+    "213221430",
+    "213221431",
+    "213221432",
+    "213221433",
+    "213221434",
+    "213221435",
+    "213221436",
+    "213221437",
+    "213221438",
+    "213221439",
+    "213221440",
+    "213221441",
+    "213221442",
+    "213221443",
+    "213221444",
+    "213221445",
+    "213221446",
+    "213221447",
+    "213221448",
+    "213221449",
+    "213221450",
+    "213221451",
+    "213221452",
+    "213221453",
+    "213221454",
+    "213221455",
+    "213221456",
+    "213221457",
+    "213221458",
+    "213221459",
+    "213221460",
+    "213221461",
+    "213221462",
+    "213221463",
+    "213221464",
+    "213221465",
+    "213221466",
+    "213221467",
+    "213221468",
+    "213221469",
+    "213221470",
+    "213221471",
+    "213221472",
+    "213221473",
+    "213221474",
+    "213433975",
+    "213433976",
+    "213433977",
+    "213433978",
+    "213433979",
+    "213433980",
+    "213433981",
+    "213433982",
+    "213433983",
+    "213433984",
+    "213433985",
+    "213433986",
+    "213433987",
+    "213433988",
+    "213433989",
+    "213433990",
+    "213433991",
+    "213433992",
+    "213433993",
+    "213433994",
+    "213433995",
+    "213433996",
+    "213433997",
+    "213433998",
+    "213433999",
+    "213434000",
+    "213434001",
+    "213434002",
+    "213434003",
+    "213434004",
+    "213434005",
+    "213434006",
+    "213434007",
+    "213434008"
+   ]
+  }
+ ],
+ "fragments": {
+  "213221419": {
+   "fragment_id": "213433875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 243/86\n\nde 20 de Agosto\n\nPelo presente diploma aprova-se o Regulamento Geral de Higiene e Segurança do Trabalho nos Estabelecimentos Comerciais, de Escritório e Serviços, que representa uma sistematização de normas que pela primeira vez é feita em Portugal neste domínio.\n\nO Regulamento adapta os princípios da Convenção n.º 120 da Organização Internacional do Trabalho, sobre higiene e segurança no comércio e escritórios, e respeita a Recomendação n.º 120 sobre a mesma matéria.\n\nCom este diploma o Governo visa definir o quadro geral de requisitos a observar, por forma a garantir a saúde dos trabalhadores dos ramos de actividade referidos, remetendo para regulamentação complementar a definição de critérios e de normas relativos a aspectos específicos, à medida que se verifique a sua necessidade ou conveniência.\n\nCumprindo disposições legais recentes, bem como as orientações da Organização Internacional do Trabalho sobre consulta aos parceiros sociais, o Regulamento agora aprovado prevê expressamente tal consulta sempre que a autoridade competente adopte medidas visando a aplicação do diploma.\n\nNo que respeita ao âmbito de aplicação, considerou-se de incluir, a par das entidades privadas e cooperativas, as entidades públicas, incluindo a própria Administração Pública, por não haver razão para as isentar do cumprimento das obrigações impostas nem impedir os respectivos trabalhadores de beneficiarem de condições de trabalho aplicáveis aos demais. Não se desconhece, todavia, que as particularidades da Administração Pública obrigam, em certos aspectos, a que o regime geral estabelecido seja adaptado em conformidade, pelo que se prevê que os ministérios interessados tomem as medidas necessárias nesse sentido.\n\nO projecto que antecedeu o presente diploma foi, nos termos da Lei n.º 16/79, de 26 de Maio, submetido à discussão pública, tendo sido acolhidas muitas das sugestões formuladas. Foi igualmente objecto de apreciação e consenso pelo Conselho Nacional de Higiene e Segurança do Trabalho.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "213221420": {
+   "fragment_id": "213433876",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ aprovado o Regulamento Geral de Higiene e Segurança do Trabalho nos Estabelecimentos Comerciais, de Escritório e Serviços, anexo ao presente diploma e que dele faz parte integrante."
+  },
+  "213221421": {
+   "fragment_id": "213433877",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA aplicação do Regulamento aos serviços da Administração Pública instalados à data da sua entrada em vigor far-se-á por despacho conjunto do Ministro do Trabalho e Segurança Social, do ministro competente e do membro do Governo que tiver a seu cargo a função pública."
+  },
+  "213221422": {
+   "fragment_id": "213433878",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO presente diploma aplica-se nas Regiões Autónomas dos Açores e da Madeira, sem prejuízo das adaptações que lhe venham a ser introduzidas por diploma regional."
+  },
+  "213221423": {
+   "fragment_id": "213433879",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO Regulamento entra em vigor no prazo de 180 dias a contar da data da sua publicação."
+  },
+  "213221425": {
+   "fragment_id": "213433881",
+   "type": 14,
+   "heading": "Anexo — Regulamento Geral de Higiene e Segurança do Trabalho nos Estabelecimentos Comercias, de Escritório e Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento Geral de Higiene e Segurança do Trabalho nos Estabelecimentos Comercias, de Escritório e Serviços"
+  },
+  "213221426": {
+   "fragment_id": "213433882",
+   "type": 1,
+   "heading": "Capítulo I — Objectivo e campo de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objectivo e campo de aplicação"
+  },
+  "213221427": {
+   "fragment_id": "213433883",
+   "type": 11,
+   "heading": "Artigo 1.º — (Objectivo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Objectivo)\n\nO presente Regulamento tem por objectivo assegurar boas condições de higiene e segurança e a melhor qualidade de ambiente de trabalho em todos os locais onde se desenvolvam actividades de comércio, escritório e serviços."
+  },
+  "213221428": {
+   "fragment_id": "213433884",
+   "type": 11,
+   "heading": "Artigo 2.º — (Campo de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Campo de aplicação)\n\nO presente Regulamento aplica-se à Administração Pública, aos estabelecimentos ou locais de trabalho, instituições e organismos seguintes, quer públicos, quer cooperativos ou privados:\n\na) Estabelecimentos ou locais onde os trabalhadores exerçam a actividade do comércio;\n\nb) Estabelecimentos ou locais, instituições e organismos onde os trabalhadores exerçam a actividade de escritório;\n\nc) Todos os serviços ou locais de quaisquer estabelecimentos, instituições e organismos onde os trabalhadores exerçam principalmente a actividade de escritório não compreendidos no artigo seguinte e aos quais não se aplique outra legislação ou outras disposições que regulamentem a higiene e segurança na indústria, nas minas, nos transportes ou na agricultura."
+  },
+  "213221429": {
+   "fragment_id": "213433885",
+   "type": 11,
+   "heading": "Artigo 3.º — (Outras entidades abrangidas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Outras entidades abrangidas)\n\n1 - Este Regulamento aplica-se igualmente aos estabelecimentos ou locais de trabalho, instituições ou organismos:\n\na) Que prestem serviços de ordem pessoal;\n\nb) Correios e serviços de telecomunicações;\n\nc) Hotéis, pensões e similares;\n\nd) Restaurantes, cantinas, cafés e noutros locais similares onde se sirvam refeições ou bebidas;\n\ne) Estabelecimentos ou locais destinados a espectáculos, divertimentos públicos ou recreativos.\n\n2 - Os locais ou instalações de trabalho com características provisórias ficam abrangidos por este Regulamento."
+  },
+  "213221430": {
+   "fragment_id": "213433886",
+   "type": 1,
+   "heading": "Capítulo II — Condições gerais dos locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Condições gerais dos locais de trabalho"
+  },
+  "213221431": {
+   "fragment_id": "213433887",
+   "type": 8,
+   "heading": "Secção I — Requisitos gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Requisitos gerais"
+  },
+  "213221432": {
+   "fragment_id": "213433888",
+   "type": 11,
+   "heading": "Artigo 4.º — (Espaço unitário do trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Espaço unitário do trabalho)\n\n1 - Todo o trabalhador deve dispor de um espaço suficiente e livre de qualquer obstáculo para poder realizar o trabalho sem risco para a sua saúde e segurança.\n\n2 - Para efeito do número anterior, os locais de trabalho devem satisfazer os seguintes requisitos:\n\na) A área útil por trabalhador, excluindo a ocupada pelo posto de trabalho fixo, não deve ser inferior a 2 m2 e o espaço entre postos de trabalho não deve ser inferior a 80 cm;\n\nb) O volume mínimo por trabalhador não deve ser inferior a 10 m3;\n\nc) O pé direito dos locais de trabalho não deve ser inferior a 3m, admitindo-se, nos edifícios adaptados, uma tolerância até 2,70m;\n\nd) Os locais destinados exclusivamente a armazém, e desde que neles não haja permanência de trabalhadores, podem ter como tolerância limite 2,20 m de pé direito.\n\n3 - Todos os estabelecimentos comerciais, escritórios e serviços que à data da entrada em vigor deste diploma já funcionem em instalações cujo pé direito seja inferior aos mínimos exigidos na alínea c) do n.º 2 deste artigo deverão dispor de meios complementares de renovação do ar."
+  },
+  "213221433": {
+   "fragment_id": "213433889",
+   "type": 11,
+   "heading": "Artigo 5.º — (Assentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Assentos)\n\n1 - Devem ser postos à disposição dos trabalhadores assentos apropriados e em número suficiente, de modo que possam sempre que seja compatível com a natureza do trabalho, realizá-lo na posição de sentado.\n\n2 - Nos postos de trabalho fixos devem ser postos à disposição dos trabalhadores assentos facilmente higienizáveis, confortáveis, funcionais, anatomicamente adaptados aos requisitos do posto de trabalho e à duração do mesmo."
+  },
+  "213221434": {
+   "fragment_id": "213433890",
+   "type": 8,
+   "heading": "Secção II — Conservação dos locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conservação dos locais de trabalho"
+  },
+  "213221435": {
+   "fragment_id": "213433891",
+   "type": 11,
+   "heading": "Artigo 6.º — (Conservação e higienização)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Conservação e higienização)\n\nTodos os locais de trabalho, zonas de passagens, instalações comuns e ainda os seus equipamentos devem estar conveniente e permanentemente conservados e higienizados."
+  },
+  "213221436": {
+   "fragment_id": "213433892",
+   "type": 11,
+   "heading": "Artigo 7.º — (Limpeza diária e periódica)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Limpeza diária e periódica)\n\n1 - Devem ser limpos diariamente:\n\na) Os pavimentos;\n\nb) Os planos de trabalho e seus utensílios;\n\nc) Os utensílios ou equipamentos de uso diário;\n\nd) As instalações higieno-sanitárias, como vestiários, lavabos, balneários, retretes e urinóis, ou outras comuns postas à disposição dos trabalhadores.\n\n2 - Devem ser limpos periodicamente:\n\na) Paredes e tectos;\n\nb) Fontes de luz natural e artificial;\n\nc) Os utensílios ou equipamentos de uso não diário;\n\nd) As instalações referidas no n.º 1, alínea d), que serão ainda sujeitas a desinfecção."
+  },
+  "213221437": {
+   "fragment_id": "213433893",
+   "type": 11,
+   "heading": "Artigo 8.º — (Operações de limpeza e desinfecção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Operações de limpeza e desinfecção)\n\n1 - As operações de limpeza e desinfecção devem ser feitas:\n\na) Por forma que não levantem poeiras;\n\nb) Fora das horas de trabalho, ou, durante as horas de trabalho, quando exigências particulares a tal obriguem e possam ser feitas sem inconveniente grave para o trabalhador;\n\nc) Com produtos não tóxicos ou irritantes, designadamente nas instalações higieno-sanitárias, como vestiários, lavabos, balneários, retretes e urinóis, e em outras instalações comuns postas à disposição dos trabalhadores."
+  },
+  "213221438": {
+   "fragment_id": "213433894",
+   "type": 11,
+   "heading": "Artigo 9.º — (Desperdícios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Desperdícios)\n\n1 - Os desperdícios ou restos incómodos devem ser colocados em recipientes resistentes e higienizáveis com tampa, que serão removidos diariamente do local de trabalho.\n\n2. - Quando os desperdícios ou restos forem muito incómodos ou susceptíveis de libertarem substâncias tóxicas, perigosas ou infectantes, devem ser previamente neutralizados e colocados em recipientes resistentes cuja tampa feche hermeticamente. A sue remoção do local de trabalho deve ser diária ou no final de cada turno de trabalho, conforme os casos.\n\n3 - Cada posto de trabalho deve ter recipiente ou dispositivo próprio."
+  },
+  "213221439": {
+   "fragment_id": "213433895",
+   "type": 1,
+   "heading": "Capítulo III — Condições especiais dos locais de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Condições especiais dos locais de trabalho"
+  },
+  "213221440": {
+   "fragment_id": "213433896",
+   "type": 8,
+   "heading": "Secção I — Condições atmosféricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Condições atmosféricas"
+  },
+  "213221441": {
+   "fragment_id": "213433897",
+   "type": 11,
+   "heading": "Artigo 10.º — (Atmosfera de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Atmosfera de trabalho)\n\n1 - A atmosfera de trabalho bem como a das instalações comuns devem garantir a saúde e o bem-estar dos trabalhadores.\n\n2 - Os diversos locais de trabalho bem como as instalações comuns devem conter meios que permitam a renovação natural e permanente do ar sem provocar correntes incómodas ou prejudiciais aos trabalhadores.\n\n3 - Os postos de trabalho que libertem ou produzam produtos incómodos, tóxicos ou infectantes devem estar providos de dispositivos de captação local e respectiva drenagem, de modo a impedir a sua difusão no ambiente de trabalho.\n\n4 - Os postos de trabalho que utilizem produtos incómodos, tóxicos ou infectantes devem estar isolados dos restantes postos de trabalho, não comunicando directamente entre si.\n\n5 - Nos compartimentos cegos ou interiores, ou quando a ventilação pelo processo previsto no n.º 2 não for suficiente, devem ser instalados meios que assegurem a renovação forçada do ar, não provocando correntes ou arrefecimentos bruscos prejudiciais.\n\n6 - Os meios destinados à renovação natural ou forçada da atmosfera de trabalho e das instalações comuns devem obedecer aos seguintes requisitos:\n\na) Não produzir nem admitir na atmosfera de trabalho e das instalações comuns substâncias incómodas, tóxicas, perigosas ou infectantes;\n\nb) O caudal médio de ar fresco e puro a ser admitido na atmosfera de trabalho deve tender a, pelo menos, 30 m3 por hora e por trabalhador. O caudal poderá ser aumentado até 50 m3 sempre que as condições ambientais o exijam;\n\nc) Os dispositivos artificiais de renovação do ar devem ser silenciosos.\n\n7 - Nos compartimentos cegos ou interiores, sempre que a entidade fiscalizadora reconheça a potencialidade de risco grave, pode ser exigível a adopção de um sistema de ventilação de emergência."
+  },
+  "213221442": {
+   "fragment_id": "213433898",
+   "type": 8,
+   "heading": "Secção II — Condições de temperatura e humidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Condições de temperatura e humidade"
+  },
+  "213221443": {
+   "fragment_id": "213433899",
+   "type": 11,
+   "heading": "Artigo 11.º — (Temperatura e humidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Temperatura e humidade)\n\n1 - Os locais de trabalho, bem como as instalações comuns, devem oferecer boas condições de temperatura e humidade, de modo a proporcionar bem-estar e defender a saúde dos trabalhadores.\n\na) A temperatura dos locais de trabalho deve, na medida do possível, oscilar entre 18ºC e 22ºC, salvo em determinadas condições climatéricas, em que poderá atingir os 25ºC.\n\nb) A humidade da atmosfera de trabalho deve oscilar entre 50% e 70%.\n\nc) Sempre que da ventilação natural não resulte uma atmosfera de trabalho conforme as alíneas anteriores, deve-se procurar adoptar sistemas artificiais de ventilação e de aquecimento ou arrefecimento, conforme os casos.\n\nd) Os dispositivos artificiais de correcção da atmosfera trabalho não devem ser poluentes, sendo de recomendar os sistemas de ar condicionado, locais ou gerais.\n\n2 - Os trabalhadores não devem ser obrigados a trabalhar na vizinhança imediata de instalações que produzam radiações térmicas elevadas ou um arrefecimento intenso, a menos que se tomem medidas apropriadas de protecção.\n\n3 - Os radiadores, convectores ou tubagens de aquecimento central devem ser instalados de modo que os trabalhadores não sejam incomodados pela irradiação do calor ou circulação de ar quente."
+  },
+  "213221444": {
+   "fragment_id": "213433900",
+   "type": 11,
+   "heading": "Artigo 12.º — (Alterações bruscas de temperatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Alterações bruscas de temperatura)\n\n1 - Os trabalhadores não devem ser sujeitos, em consequência das condições do ambiente de trabalho, a variações bruscas de temperatura consideradas nocivas à saúde, pelo que devem ser protegidos com equipamento individual.\n\n2 - Para efeitos do disposto no número anterior, devem instalar-se câmaras de transição para que os trabalhadores se possam aquecer ou arrefecer gradualmente até à temperatura exterior.\n\n3 - Os trabalhadores que exerçam tarefas no exterior dos edifícios devem estar protegidos contra as intempéries e a exposição excessiva ao sol.\n\n4 - A protecção deve ser assegurada, conforme os casos, por abrigos ou pelo uso de fato apropriado e outros dispositivos de protecção individual."
+  },
+  "213221445": {
+   "fragment_id": "213433901",
+   "type": 11,
+   "heading": "Artigo 13.º — (Pausas no horário de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Pausas no horário de trabalho)\n\nSempre que os trabalhadores estejam submetidos a temperaturas muito altas ou muito baixas em consequência das condições do ambiente de trabalho, devem ser adoptadas medidas correctivas adequadas ou, em situações excepcionais, ser-lhes facultadas pausas no horário de trabalho ou reduzida a duração deste."
+  },
+  "213221446": {
+   "fragment_id": "213433902",
+   "type": 8,
+   "heading": "Secção III — Condições de iluminação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Condições de iluminação"
+  },
+  "213221447": {
+   "fragment_id": "213433903",
+   "type": 11,
+   "heading": "Artigo 14.º — (Iluminação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Iluminação)\n\n1 - Os locais de trabalho ou de passagem dos trabalhadores e as instalações comuns devem ser providos de iluminação natural ou complementar artificial, quando aquela for insuficiente por inviabilidade do cumprimento do preceituado no n.º 3.\n\n2 - A iluminação nos locais de trabalho deve ser adequada aos requisitos de iluminação das tarefas a executar e obedecer aos valores insertos no Regulamento Tipo de Segurança nos Estabelecimentos Industriais da Organização Internacional do Trabalho, com as necessárias adaptações, enquanto não forem publicadas normas portuguesas.\n\n3 - A superfície dos meios transparentes nas aberturas destinadas à iluminação natural não deve ser inferior a um terço da área do pavimento a iluminar e nalguns casos poderá atingir um meio, se a entidade fiscalizadora o reconhecer necessário.\n\n4 - Sempre que os requisitos da tarefa de um posto de trabalho o exijam e sejam reconhecidos pela entidade fiscalizadora, deve ser aplicada sobre o mesmo iluminação local, como complemento do sistema de iluminação geral.\n\n5 - A iluminação artificial não deve poluir a atmosfera de trabalho e deve ser, sempre que possível, eléctrica.\n\n6 - Além da iluminação mínima e adequada aos requisitos das tarefas dos diversos postos de trabalho, as fontes de iluminação devem satisfazer os seguintes requisitos:\n\na) Serem de intensidade uniforme e estarem distribuídas de modo a evitar contrastes muito acentuados e reflexos prejudiciais nos locais de trabalho, em especial nos planos de trabalho;\n\nb) Não provocarem encandeamento;\n\nc) Não provocarem excessivo aquecimento;\n\nd) Não provocarem cheiros, fumos ou gases incómodos, tóxicos ou perigosos;\n\ne) Não serem susceptíveis de variações grandes de intensidade.\n\n7 - Nos casos em que a tecnologia o exija, devem ser fornecidos aos trabalhadores meios ópticos adequados.\n\n8 - Os locais onde trabalham grande número de pessoas devem estar providos de sistema de iluminação de emergência e de segurança para garantir a iluminação de circulação e do sinalização de saídas, conforme as disposições regulamentares em vigor."
+  },
+  "213221448": {
+   "fragment_id": "213433904",
+   "type": 11,
+   "heading": "Artigo 15.º — (Iluminação de segurança e sinalização de emergência)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Iluminação de segurança e sinalização de emergência)\n\nDevem ser previstos sistemas de iluminação de segurança e de sinalização luminosa de emergência em casos de interrupção de corrente para locais onde se reúna um grande número de trabalhadores ou de público ou noutros em que a interrupção de corrente possa provocar situações de risco."
+  },
+  "213221449": {
+   "fragment_id": "213433905",
+   "type": 11,
+   "heading": "Artigo 16.º — (Tonalidade das paredes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Tonalidade das paredes)\n\nA tonalidade das paredes e tectos deve ser de modo a não absorver demasiada luz."
+  },
+  "213221450": {
+   "fragment_id": "213433906",
+   "type": 11,
+   "heading": "Artigo 17.º — (Superfície das instalações e planos de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Superfície das instalações e planos de trabalho)\n\nAs superfícies das instalações e dos planos de trabalho não devem provocar reflexos prejudiciais ou encandeamento;"
+  },
+  "213221451": {
+   "fragment_id": "213433907",
+   "type": 8,
+   "heading": "Secção IV — Ruído e vibrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Ruído e vibrações"
+  },
+  "213221452": {
+   "fragment_id": "213433908",
+   "type": 11,
+   "heading": "Artigo 18.º — (Ruído e vibrações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Ruído e vibrações)\n\n1 - Em todos os locais de trabalho devem eliminar-se ou reduzir-se os ruídos e vibrações aí produzidos e limitar-se a sua propagação pela adopção de medidas técnicas apropriadas com vista a evitar os seus efeitos nocivos sobre os trabalhadores.\n\n2 - Para efeitos do disposto no número anterior, deverão ser adaptadas as seguintes medidas técnicas:\n\na) Programação do trabalho de modo a isolar os postos de trabalho ruidosos e trepidantes dos restantes;\n\nb) Insonorização dos compartimentos ou locais onde existem postos de trabalho ruidosos;\n\nc) Fornecimento de dispositivos de protecção individual aos trabalhadores dos postos de trabalho ruidosos, como complemento das medidas técnicas gerais, sempre que for necessário."
+  },
+  "213221453": {
+   "fragment_id": "213433909",
+   "type": 11,
+   "heading": "Artigo 19.º — (Ruído ambiente)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Ruído ambiente)\n\nSempre que possível, os valores limites da exposição ao ruído e às vibrações não devem ultrapassar os indicados nas normas portuguesas."
+  },
+  "213221454": {
+   "fragment_id": "213433910",
+   "type": 1,
+   "heading": "Capítulo IV — Protecção de máquinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Protecção de máquinas"
+  },
+  "213221455": {
+   "fragment_id": "213433911",
+   "type": 11,
+   "heading": "Artigo 20.º — (Dispositivos de segurança)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Dispositivos de segurança)\n\n1 - Os elementos móveis de motor e máquinas e eventuais órgãos de transmissão, bem como as suas partes perigosas, devem estar convenientemente protegidos por dispositivos de segurança, a menos que a sua construção e localização sejam de modo a impedir o seu contacto com pessoas ou objectos.\n\n2 - As máquinas antigas, construídas ou instaladas sem dispositivos de segurança eficientes, devem ser modificadas ou protegidas, sempre que o risco existente o justifique."
+  },
+  "213221456": {
+   "fragment_id": "213433912",
+   "type": 1,
+   "heading": "Capítulo V — Métodos e ritmos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Métodos e ritmos"
+  },
+  "213221457": {
+   "fragment_id": "213433913",
+   "type": 11,
+   "heading": "Artigo 21.º — (Métodos de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Métodos de trabalho)\n\nOs métodos de trabalho devem ser consentâneos com as regras de segurança e higiene do trabalho, de sanidade física e mental e o conforto dos trabalhadores."
+  },
+  "213221458": {
+   "fragment_id": "213433914",
+   "type": 11,
+   "heading": "Artigo 22.º — (Ritmos de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Ritmos de trabalho)\n\n1 - Os ritmos de trabalho não devem ocasionar efeitos nocivos aos trabalhadores, particularmente nos domínios da fadiga física ou nervosa.\n\n2 - Com o objectivo de prevenir ou limitar os efeitos indicados, devem prever-se pausas no decurso do trabalho ou, caso seja possível, criar-se sistemas de rotatividade no desempenho das tarefas.\n\n3 - A prova das situações previstas no n.º 1 deverá ser feita com base em parecer emitido pelo médico do trabalho da empresa ou, no caso de este não existir, por médico competente previamente designado pelas partes.\n\n4 - Compete à entidade fiscalizadora, no objectivo de prevenir os efeitos que o presente artigo acautela, recomendar aos empregadores a aplicação das medidas consideradas no n.º 2."
+  },
+  "213221459": {
+   "fragment_id": "213433915",
+   "type": 1,
+   "heading": "Capítulo VI — Substâncias e processos incómodos, insalubres e tóxicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Substâncias e processos incómodos, insalubres e tóxicos"
+  },
+  "213221460": {
+   "fragment_id": "213433916",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "213221461": {
+   "fragment_id": "213433917",
+   "type": 11,
+   "heading": "Artigo 23.º — (Protecção técnica e individual)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Protecção técnica e individual)\n\nOs trabalhadores devem ser protegidos por medidas técnicas eficientes e, complementarmente, pelo uso de dispositivos de protecção individual contra as substâncias e processos incómodos, insalubres, tóxicos, perigosos ou infectantes."
+  },
+  "213221462": {
+   "fragment_id": "213433918",
+   "type": 11,
+   "heading": "Artigo 24.º — (Recipientes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Recipientes)\n\nOs recipientes contendo substâncias perigosas devem ter:\n\na) Um dístico ou sinal de «Perigo»;\n\nb) O nome da substância ou uma designação de referência;\n\nc) Na medida do possível, os conselhos essenciais relativos ao primeiro cuidado a administrar no caso de as substâncias em causa poderem afectar a saúde ou a integridade física dos trabalhadores."
+  },
+  "213221463": {
+   "fragment_id": "213433919",
+   "type": 11,
+   "heading": "Artigo 25.º — (Utilização e manipulação de substâncias insalubres, tóxicas ou perigosas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Utilização e manipulação de substâncias insalubres, tóxicas ou perigosas)\n\n1 - Quando os trabalhadores utilizem, manipulem ou lidem com substâncias insalubres, tóxicas ou perigosas, a autoridade competente poderá fixar os cuidados e as medidas a observar através de normas relativas aos equipamentos e meios de protecção individual.\n\n2 - Os meios de protecção individual devem ser fornecidos em boas condições de utilização, em obediência ao dever de colaboração expresso no artigo 49.º do presente Regulamento."
+  },
+  "213221464": {
+   "fragment_id": "213433920",
+   "type": 11,
+   "heading": "Artigo 26.º — (Idade mínima)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — (Idade mínima)\n\nPara trabalhos que impliquem a utilização dos processos e substâncias referidos no artigo anterior será fixada uma idade mínima."
+  },
+  "213221465": {
+   "fragment_id": "213433921",
+   "type": 8,
+   "heading": "Secção II — Locais subterrâneos, cegos ou sem janelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Locais subterrâneos, cegos ou sem janelas"
+  },
+  "213221466": {
+   "fragment_id": "213433922",
+   "type": 11,
+   "heading": "Artigo 27.º — (Dispositivos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — (Dispositivos especiais)\n\nOs locais subterrâneos, bem como cegos ou sem janelas, onde se executem trabalhos regularmente e onde se manipulem substâncias incómodas, tóxicas, perigosas ou infectantes devem ser dotados de dispositivos eficazes de renovação do ar e dispositivos artificiais de iluminação e aquecimento, sem viciarem a atmosfera ambiente."
+  },
+  "213221467": {
+   "fragment_id": "213433923",
+   "type": 11,
+   "heading": "Artigo 28.º — (Condições de trabalho)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — (Condições de trabalho)\n\nSe a iluminação artificial e a renovação do ar dos locais subterrâneos cegos ou sem janelas não forem suficientes, os trabalhadores, na medida do possível, não devem trabalhar de um modo continuado, mas por rotação, que poderá ser imposta em determinados casos, pela entidade fiscalizadora."
+  },
+  "213221468": {
+   "fragment_id": "213433924",
+   "type": 8,
+   "heading": "Secção III — Armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Armazenagem"
+  },
+  "213221469": {
+   "fragment_id": "213433925",
+   "type": 11,
+   "heading": "Artigo 29.º — (Armazenagem)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — (Armazenagem)\n\n1 - A armazenagem dos produtos ou substâncias incómodos, insalubres, perigosos, tóxicos ou infectantes deve ser efectuada em compartimento próprio, não comunicando directamente com os locais de trabalho, e obedecerá às seguintes características:\n\na) Ter sistema de ventilação eficiente, de modo a impedir acumulação perigosa de gases ou vapores;\n\nb) Fechar hermeticamente, de modo a evitar que os locais de trabalho sejam inundados pelos cheiros, gases ou vapores;\n\nc) O pavimento deve ser escavado, de modo a poder receber o conteúdo das embalagens que sejam susceptíveis de deterioração.\n\n2 - Quando os produtos armazenados forem inflamáveis ou explosivos, simples ou misturados, os armazéns devem dispor de uma parede frágil voltada para zona exterior livre de habitações, instalação eléctrica blindada e antideflagrante e ainda porta chapeada a ferro."
+  },
+  "213221470": {
+   "fragment_id": "213433926",
+   "type": 8,
+   "heading": "Secção IV — Armazenagem em instalações frigoríficas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Armazenagem em instalações frigoríficas"
+  },
+  "213221471": {
+   "fragment_id": "213433927",
+   "type": 11,
+   "heading": "Artigo 30.º — (Requisitos das instalações frigoríficas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — (Requisitos das instalações frigoríficas)\n\nAs instalações frigoríficas para armazenagem de produtos devem obedecer aos seguintes requisitos:\n\na) As máquinas o as condutas de produtos frigoríficos prejudiciais à saúde devem ser montadas e mantidas por forma a assegurar a necessária estanquidade;\n\nb) As instalações frigoríficas devem ser convenientemente iluminadas e dispor de espaço suficiente para a inspecção e a manutenção dos condensadores;\n\nc) As portas das instalações frigoríficas devem possuir fechos que permitam a sua abertura, tanto do exterior como do interior, e, no caso de dispor de fechadura, devem existir dispositivos de alarme accionáveis no interior das câmaras que comuniquem com a sala das máquinas e com o guarda da instalação ou porteiro da empresa."
+  },
+  "213221472": {
+   "fragment_id": "213433928",
+   "type": 11,
+   "heading": "Artigo 31.º — (Protecção do trabalhador)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — (Protecção do trabalhador)\n\n1 - Quando o trabalho nas instalações frigoríficas tiver uma certa permanência, deverá haver câmara intermédia, com ar condicionado, onde o pessoal possa reaquecer-se e tomar bebidas e alimentos quentes.\n\n2 - As pessoas que trabalhem no interior de instalações frigoríficas, em permanência ou não, devem usar equipamento especial de protecção individual, designadamente vestuário de agasalho de lã grossa, resguardo do pescoço e cabeça e calçado protegido do frio e humidade."
+  },
+  "213221473": {
+   "fragment_id": "213433929",
+   "type": 1,
+   "heading": "Capítulo VII — Substâncias explosivas e inflamáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Substâncias explosivas e inflamáveis"
+  },
+  "213221474": {
+   "fragment_id": "213433930",
+   "type": 11,
+   "heading": "Artigo 32.º — (Cuidados e medidas de protecção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — (Cuidados e medidas de protecção)\n\n1 - Nos locais onde se arrecadem, manipulem, empreguem ou vendam substâncias e agentes insalubres, tóxicos, perigosos, inflamáveis ou facilmente combustíveis ou se encontrem gases, vapores ou poeiras susceptíveis de dar lugar a incêndios ou explosões as instalações, equipamentos e utensílios empregados não devem originar aquecimentos perigosos ou formação de chispas.\n\n2 - Para a lubrificação de máquinas e aparelhos em contacto com as substâncias susceptíveis de explosão ou inflamáveis devem usar-se lubrificantes que não dêem lugar a reacções perigosas com as referidas substâncias.\n\n3 - Nos estabelecimentos em que se arrecadem, manipulem ou vendam substâncias inflamáveis ou susceptíveis de explosão deve existir, pelo menos, uma saída de emergência com portas de abrir para fora e mantidas permanentemente livres de qualquer obstáculo."
+  },
+  "213433975": {
+   "fragment_id": "213433931",
+   "type": 11,
+   "heading": "Artigo 33.º — (Armazenagem - Remissão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — (Armazenagem - Remissão)\n\nOs locais destinados a armazenamento de substâncias perigosas, inflamáveis, susceptíveis de explosão, corrosivas, devem obedecer aos requisitos previstos na secção II do capítulo VII do Regulamento Geral de Segurança Social e Higiene do Trabalho nos Estabelecimento Industriais, quando adequados, e, na medida do possível, mediante as necessárias adaptações, tendo em consideração a natureza do estabelecimento a que possam ser aplicáveis."
+  },
+  "213433976": {
+   "fragment_id": "213433932",
+   "type": 1,
+   "heading": "Capítulo VIII — Armazéns, arrecadações e adegas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Armazéns, arrecadações e adegas"
+  },
+  "213433977": {
+   "fragment_id": "213433933",
+   "type": 11,
+   "heading": "Artigo 34.º — (condições gerais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — (condições gerais)\n\nOs armazéns, arrecadações e adegas não devem comunicar directamente com os locais de trabalho, devendo obedecer aos seguintes requisitos:\n\na) Devem ter iluminação artificial, quando interiores ou subterrâneos;\n\nb) Devem ter ventilação adequada, quando interiores ou subterrâneos;\n\nc) Devem ter às entradas meios portáteis de extinção de incêndios, quando se justifique."
+  },
+  "213433978": {
+   "fragment_id": "213433934",
+   "type": 11,
+   "heading": "Artigo 35.º — (Empilhamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — (Empilhamento)\n\n1 - Quando os materiais se conservem em embalagens, o empilhamento deve efectuar-se por forma a oferecer estabilidade.\n\na) O peso dos materiais empilhados não deve exceder, mesmo temporariamente, a sobrecarga prevista para os pavimentos.\n\nb) Não é permitido o empilhamento de materiais contra paredes ou divisórias que não estejam convenientemente dimensionadas para resistir aos esforços laterais.\n\n2 - O empilhamento dos materiais ou produtos deve realizar-se de maneira que não prejudique a conveniente distribuição da luz natural ou artificial, a circulação nas vias de passagem e o funcionamento eficaz dos equipamentos ou do material de luta contra incêndios."
+  },
+  "213433979": {
+   "fragment_id": "213433935",
+   "type": 1,
+   "heading": "Capítulo IX — Prevenção de incêndios e protecção contra o fogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Prevenção de incêndios e protecção contra o fogo"
+  },
+  "213433980": {
+   "fragment_id": "213433936",
+   "type": 11,
+   "heading": "Artigo 36.º — (Equipamento de extinção de incêndios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — (Equipamento de extinção de incêndios)\n\n1 - Todos os locais de trabalho aos quais se aplica este Regulamento devem estar providos de equipamento adequado para a extinção de incêndios, em perfeito estado de funcionamento, situado em locais acessíveis e convenientemente assinalados.\n\n2 - O estado de funcionamento dos equipamentos de extinção, de incêndios deve ser verificado em intervalos regulares, a acordo com as respectivas instruções de aplicação.\n\n3 - Em todos os locais de trabalho deve existir pessoal em número suficiente e devidamente instruído no uso do equipamento de combate a incêndios."
+  },
+  "213433981": {
+   "fragment_id": "213433937",
+   "type": 11,
+   "heading": "Artigo 37.º — (Instrução dos trabalhadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — (Instrução dos trabalhadores)\n\n1 - Todo o trabalhador deve estar suficientemente instruído sobre os planos de evacuação dos locais de trabalho, para o que se deverão fazer, com certa periodicidade, exercícios em que se ponham em prova os ensinamentos ministrados para evacuação em caso de eventual concretização do risco de incêndio.\n\n2 - Nos locais em que haja ingresso público deverá ser fixado, de forma bem visível, o plano de evacuação do edifício, com sinalização adequada, em especial das saídas."
+  },
+  "213433982": {
+   "fragment_id": "213433938",
+   "type": 1,
+   "heading": "Capítulo X — Instalações e equipamentos de higiene e bem-estar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Instalações e equipamentos de higiene e bem-estar"
+  },
+  "213433983": {
+   "fragment_id": "213433939",
+   "type": 8,
+   "heading": "Secção I — Instalações sanitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Instalações sanitárias"
+  },
+  "213433984": {
+   "fragment_id": "213433940",
+   "type": 11,
+   "heading": "Artigo 38.º — (Requisitos e equipamentos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — (Requisitos e equipamentos)\n\n1 - As instalações sanitárias devem satisfazer os seguintes requisitos:\n\na) Sempre que possível, ser separadas por sexos;\n\nb) Se situadas em edifício separado dos locais de trabalho, ter comunicação por passagens cobertas;\n\nc) Dispor de água canalizada e de esgotos ligados à rede geral ou a fossa séptica, com interposição de sifões hidráulicos;\n\nd) Ser iluminadas e ventiladas, de preferência naturalmente;\n\ne) Ter pavimentos revestidos de material resistente, liso e impermeável, inclinados para ralos de escoamento providos de sifões hidráulicos;\n\nf) Ter paredes de cor clara e revestidas de azulejo ou outro material impermeável até, pelo menos, 1,5 m de altura.\n\n2 - As instalações sanitárias devem dispor do seguinte equipamento:\n\na) Um lavatório fixo;\n\nb) Uma retrete com bacia à turca ou de assento com tampo aberto na extremidade anterior, por piso ou por cada 25 homens ou fracção trabalhando simultaneamente;\n\nc) Um urinol, na antecâmara da retrete e na proporção da alínea anterior;\n\nd) Uma bacia de assento com tampo aberto na extremidade anterior, por piso ou por cada 15 mulheres ou fracção trabalhando simultaneamente.\n\n3 - O equipamento das instalações sanitárias deve satisfazer as seguintes condições:\n\na) As retretes, munidas de autoclismo, devem ser instaladas em compartimentos separados, com, pelo menos, 0,8 m de largura e 1,3 m de comprimento, ventilados por tiragem directa para o exterior e com porta independente e provida de fecho;\n\nb) Quando as retretes forem reunidas em grupo, as divisórias dos compartimentos devem ter a altura mínima de 1,8 m e o seu bordo inferior não poderá situar-se a mais de 0,2 m acima do pavimento;\n\nc) Os urinóis, munidos de dispositivos de descargas de água, devem ser de fácil escoamento e lavagem. Quando em grupo, devem ser separados por baias laterais distantes entre si, pelo menos, 0,6 m;\n\nd) Os lavatórios devem estar providos de sabão não irritante e, preferencialmente, de dispositivos automáticos de secagem de mãos ou toalhas individuais de papel."
+  },
+  "213433985": {
+   "fragment_id": "213433941",
+   "type": 8,
+   "heading": "Secção II — Chuveiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Chuveiros"
+  },
+  "213433986": {
+   "fragment_id": "213433942",
+   "type": 11,
+   "heading": "Artigo 39.º — (Chuveiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — (Chuveiros)\n\nQuando a natureza do trabalho o exija, particular e nomeadamente quando o trabalhador manipule substâncias tóxicas, perigosas ou infectantes, deverá existir um chuveiro por cada grupo de dez trabalhadores ou fracção que cessem simultaneamente o trabalho."
+  },
+  "213433987": {
+   "fragment_id": "213433943",
+   "type": 8,
+   "heading": "Secção III — Vestiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Vestiários"
+  },
+  "213433988": {
+   "fragment_id": "213433944",
+   "type": 11,
+   "heading": "Artigo 40.º — (Vestiários)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — (Vestiários)\n\nDevem ser postos à disposição dos trabalhadores vestiários que lhes permitam mudar e guardar o vestuário que não seja usado durante o trabalho."
+  },
+  "213433989": {
+   "fragment_id": "213433945",
+   "type": 11,
+   "heading": "Artigo 41.º — (Armários individuais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — (Armários individuais)\n\n1 - Os vestiários devem dispor de armários individuais sempre que os trabalhadores exerçam tarefas em que haja necessidade de mudança de roupa e na medida da área disponível dos estabelecimentos existentes.\n\n2 - Deve haver tantos armários individuais quanto os trabalhadores do mesmo sexo e separados para homens e mulheres."
+  },
+  "213433990": {
+   "fragment_id": "213433946",
+   "type": 11,
+   "heading": "Artigo 42.º — (Medidas e características)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — (Medidas e características)\n\nOs armários individuais devem ter as medidas e características fixadas nas normas portuguesas."
+  },
+  "213433991": {
+   "fragment_id": "213433947",
+   "type": 11,
+   "heading": "Artigo 43.º — (Trabalhadores expostos a substâncias tóxicas, irritantes ou infectantes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — (Trabalhadores expostos a substâncias tóxicas, irritantes ou infectantes)\n\nNos casos em que os trabalhadores estejam expostas a substâncias tóxicas, irritantes ou infectantes, os armários devem ser formados por dois compartimentos independentes para permitir guardar a roupa de uso pessoal em local diferente do destinado ao fato de trabalho."
+  },
+  "213433992": {
+   "fragment_id": "213433948",
+   "type": 8,
+   "heading": "Secção IV — Refeitórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Refeitórios"
+  },
+  "213433993": {
+   "fragment_id": "213433949",
+   "type": 11,
+   "heading": "Artigo 44.º — (Refeitórios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — (Refeitórios)\n\n1 - Quando sejam fornecidas refeições aos trabalhadores, devem dispor de uma ou mais salas destinadas exclusivamente a refeitório, com meios próprios para aquecer a comida, não comunicando directamente com os locais de trabalho, instalações sanitárias ou locais insalubres.\n\n2 - A superfície dos refeitórios deve ser calculada em função do número máximo de pessoas que os possam utilizar simultaneamente e tendo em conta os requisitos seguintes:\n\nAté 25 pessoas, 18,5 m2;\n\nDe 26 a 74 pessoas, 18,5 m2 mais 0,65 m2 por pessoa acima de 25;\n\nDe 75 a 149 pessoas, 50 m2 mais 0,55 m2 por pessoa acima de 74;\n\nDe 150 a 499 pessoas, 92 m2 mais 0,50 m2 por pessoa acima de 149;\n\nDe 300 pessoas ou mais, 255 m2 mais 0,40 m2 por pessoa acima de 499.\n\n3 - Os refeitórios devem ser providos de bancos ou cadeiras e de mesas em número suficiente, devendo estas ter tampo liso sem fendas e de material impermeável.\n\n4 - À entrada do refeitório deve haver, pelo menos, um lavatório fixo para os trabalhadores que nele tomem as refeições, com dispositivos automáticos de secagem de mãos ou toalhas individuais de papel.\n\n5 - As paredes e pavimentos devem ser lisos e laváveis e aquelas, de preferência, pintadas de cor clara.\n\n6 - Os refeitórios devem dispor, de preferência, de iluminação e ventilação naturais.\n\n7 - É proibido tomar refeições nos postos de trabalho.\n\n8 - Todos os trabalhadores que manipulem produtos irritantes, tóxicos ou infectantes não podem entrar nos refeitórios com os fatos de trabalho."
+  },
+  "213433994": {
+   "fragment_id": "213433950",
+   "type": 8,
+   "heading": "Secção V — Água potável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Água potável"
+  },
+  "213433995": {
+   "fragment_id": "213433951",
+   "type": 11,
+   "heading": "Artigo 45.º — (Água potável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — (Água potável)\n\n1 - Deve ser posta à disposição dos trabalhadores, em locais facilmente acessíveis, água potável em quantidade suficiente e, se possível, corrente.\n\n2 - Devem ser distribuídos copos individuais aos trabalhadores ou instalados bebedouros de jacto ascendente."
+  },
+  "213433996": {
+   "fragment_id": "213433952",
+   "type": 11,
+   "heading": "Artigo 46.º — (Recipientes de água)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — (Recipientes de água)\n\n1 - Quando não houver rede de água potável, pode ser utilizada água potável de outra origem, desde que contida em recipientes fechados e higienizados.\n\n2 - Os recipientes de água não potável e suas canalizações devem ter um dístico-aviso, «Água imprópria para consumo»."
+  },
+  "213433997": {
+   "fragment_id": "213433953",
+   "type": 1,
+   "heading": "Capítulo XI — Dispositivos de protecção individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Dispositivos de protecção individual"
+  },
+  "213433998": {
+   "fragment_id": "213433954",
+   "type": 11,
+   "heading": "Artigo 47.º — (Medidas de protecção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — (Medidas de protecção)\n\n1 - Deve existir à disposição dos trabalhadores vestuário de trabalho e ou dispositivo de protecção individual contra os riscos resultantes das tarefas e operações efectuadas sempre que sejam insuficientes as medidas técnicas de higiene e segurança de carácter geral.\n\n2 - O equipamento de protecção individual e o fato de trabalho não devem ser utilizados como meio de substituir qualquer protecção ou medida técnica eficaz, mas antes como recursos de segurança complementar."
+  },
+  "213433999": {
+   "fragment_id": "213433955",
+   "type": 1,
+   "heading": "Capítulo XII — Primeiros socorros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Primeiros socorros"
+  },
+  "213434000": {
+   "fragment_id": "213433956",
+   "type": 11,
+   "heading": "Artigo 48.º — (Requisitos mínimos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — (Requisitos mínimos)\n\n1 - Todo o local de trabalho deve possuir um posto de primeiros socorros ou armários, caixas ou bolsas com conteúdo mínimo destinado a primeiros socorros, adequadamente distribuídos pelos vários sectores de trabalho.\n\n2 - O conteúdo dos postos, armários, caixas e bolsas de primeiros socorros deve ser mantido em condições de assepsia, convenientemente conservado, etiquetado e imediatamente substituído após a sua utilização.\n\n3 - As condições indicadas no número anterior devem ser controladas por um responsável, indicado pela empresa, com o curso de socorrista.\n\n4 - Junto dos armários, caixas ou bolsas de primeiros socorros devem existir instruções claras e simples para os primeiros cuidados a pôr em prática em cada caso de urgência."
+  },
+  "213434001": {
+   "fragment_id": "213433957",
+   "type": 1,
+   "heading": "Capítulo XIII — Deveres gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Deveres gerais"
+  },
+  "213434002": {
+   "fragment_id": "213433958",
+   "type": 11,
+   "heading": "Artigo 49.º — (Deveres de colaboração)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — (Deveres de colaboração)\n\nAs entidades competentes, os trabalhadores e os empregadores devem colaborar entre si de modo a observarem-se as condições que assegurem a realização do objectivo previsto no artigo 1.º"
+  },
+  "213434003": {
+   "fragment_id": "213433959",
+   "type": 11,
+   "heading": "Artigo 50.º — (Dever das partes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — (Dever das partes)\n\n1 - Os trabalhadores devem ser informados das questões de higiene e segurança relativas à sua actividade profissional.\n\n2 - Os trabalhadores devem estar especialmente informados:\n\na) Dos riscos para a saúde inerentes às substâncias nocivas que utilizam ou possam vir a utilizar ou manipular no decurso do seu trabalho, mesmo no caso de produtos cujo uso não seja habitual no estabelecimento;\n\nb) Da necessidade de utilizarem convenientemente equipamento e dispositivos de protecção individual ou colectiva.\n\n3 - Constitui dever dos empregadores assegurar eficazmente a informação referida nos números anteriores.\n\n4 - Os trabalhadores, para além de cooperarem no cumprimento das obrigações que incumbem aos empregadores, devem:\n\na) Cumprir as prescrições de segurança e higiene estabelecidas na legislação aplicável ou concretamente determinadas pela entidade patronal ou seus representantes;\n\nb) Utilizar, correctamente e segundo as instruções do fabricante e do empregador, os dispositivos técnicos gerais ou individuais de higiene e segurança que por este lhes são postos à disposição."
+  },
+  "213434004": {
+   "fragment_id": "213433960",
+   "type": 1,
+   "heading": "Capítulo XIV — Entidade fiscalizadora e sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIV — Entidade fiscalizadora e sanções"
+  },
+  "213434005": {
+   "fragment_id": "213433961",
+   "type": 11,
+   "heading": "Artigo 51.º — (Entidade fiscalizadora)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — (Entidade fiscalizadora)\n\nA fiscalização do cumprimento das disposições deste Regulamento compete, consoante os casos, à Inspecção-Geral do Trabalho, à Direcção-Geral dos Cuidados de Saúde Primários e às demais entidades com competência na matéria, de harmonia com a legislação aplicável."
+  },
+  "213434006": {
+   "fragment_id": "213433962",
+   "type": 11,
+   "heading": "Artigo 52.º — (Sanções e medidas cautelares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — (Sanções e medidas cautelares)\n\n1 - Às infracções ao presente Regulamento é aplicável o regime legal estabelecido no Decreto-Lei n.º 491/85, de 26 de Novembro.\n\n2 - Quando a situação constitua perigo eminente para a vida, saúde ou segurança dos trabalhadores, serão tomados providências imediatas para eliminar ou prevenir possíveis consequências da falta de cumprimento das normas do presente Regulamento, podendo determinar-se a suspensão do trabalho e encerramento dos respectivos locais ou a selagem de qualquer equipamento.\n\n3 - Destas decisões e seus fundamentos deverá de imediato ser dado conhecimento à entidade licenciadora com competência na matéria."
+  },
+  "213434007": {
+   "fragment_id": "213433963",
+   "type": 1,
+   "heading": "Capítulo XV — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XV — Disposições transitórias"
+  },
+  "213434008": {
+   "fragment_id": "213433964",
+   "type": 11,
+   "heading": "Artigo 53.º — (Regime de excepção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — (Regime de excepção)\n\n1 - O Ministro do Trabalho e Segurança Social e o ministro da tutela, ouvidas as organizações representativas dos empregadores e dos trabalhadores directamente interessados, podem, por despacho conjunto, excluir determinadas categorias de estabelecimentos, instituições e organismos referidos nos artigos 2.º e 3.º da aplicação do conjunto ou parte das disposições do presente Regulamento quando as circunstâncias tornem manifestamente inconveniente ou inviável essa aplicação.\n\n2 - Podem, ainda ser excluídos, em concreto, do campo de aplicação deste Regulamento, pelas razões e forma previstas no número anterior, um determinado estabelecimento, instituição ou organismo."
+  }
+ }
+}

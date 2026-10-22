@@ -1,0 +1,315 @@
+---
+schema_version: '1.0'
+id: pt:dre:142713:por
+title: Portaria n.º 814/2005
+short_title: null
+summary: Regula o regime de acumulação de funções e actividades públicas e privadas dos educadores de infância e dos professores
+  dos ensinos básico e secundário
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Educação
+proposing_entity: null
+official_number: 814/2005
+official_date: null
+publication_date: '2005-09-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/2005, Série I-B de 2005-09-13
+  number: '176'
+  series: I
+  supplement: null
+  pages: 5526 - 5528
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/09/176b00/55265528.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-08-17'
+version_history:
+  file: portaria-814-2005.versoes.json
+  count: 2
+  source_lastmod: '2024-08-19'
+  versions:
+  - date: '2005-09-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-08-17'
+    amending: pt:dre:884692089:por
+    amending_title: Portaria n.º 188-G/2024/1
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/814/2005/p/cons/20240816/pt/html
+  oj: null
+  dre: '142713'
+  dre_path: /dr/detalhe/portaria/814-2005-142713
+  internal: pt:dre:142713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/814-2005-142713
+  metadata_url: https://data.dre.pt/eli/port/814/2005/p/cons/20240816/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-884584129
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2005-884584129
+  retrieved_at: '2026-10-22T13:12:08Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-19T00:00:00Z'
+integrity:
+  source_sha256: ad7dd5f84b3e1422ad17d32fe6455ce8c86e536b186b4138d8e74840a7e1227e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:12:08Z'
+  notes: 2 versão(ões); histórico completo em portaria-814-2005.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Funções
+- Direcção Regional da Educação
+- Educador de Infância
+- Pessoal Docente
+- Ensino Básico
+relationships:
+- type: amended_by
+  target: pt:dre:884692089:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/188-g-2024-884692089
+  date: '2024-08-16'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/1/1998/01/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/105/1997/04/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/105/1997/04/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1046/2004/08/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1046/2004/08/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/367/1998/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/367/1998/06/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/652/1999/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/652/1999/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/90-a/2001/02/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/90-a/2001/02/08/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:12:08Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 814/2005
+
+Portaria n.º 814/2005
+
+de 13 de Setembro
+
+O Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, prevê, expressamente, no seu artigo 111.º, a possibilidade de os docentes exercerem em acumulação com as que lhe são inerentes outras actividades da mesma ou de diferente natureza, condicionando-a, todavia, e em função das especificidades da função docente, aos critérios especiais a definir por portaria conjunta dos Ministros das Finanças e da Educação.
+
+O exercício da actividade docente é, enquanto função pública por excelência, igualmente «permeado» pelo princípio da exclusividade, pelo que a sua cumulação com outras funções assume carácter excepcional e carece de autorização prévia para a generalidade dos casos em que é permitida.
+
+A experiência angariada com a aplicação da regulamentação corporizada na Portaria n.º 652/99, de 14 de Agosto, aliada ao natural dinamismo da actividade social, tem permitido evidenciar a existência de áreas de actuação (e outras situações) potencialmente similares ou concorrenciais com as funções exercidas ao nível da escola pública não cobertas pelo regime jurídico actualmente vigente.
+
+Impõe-se, pois, que sejam clarificadas e reajustadas as condições em que os docentes abrangidos pelo estatuto da carreira docente podem exercer outras actividades, públicas e privadas, com especial atendimento ao exercício de funções docentes e actividades de formação profissional, visando contribuir quer para a optimização dos recursos humanos disponíveis quer para uma melhor imagem e qualidade do serviço público de educação.
+
+Através do presente diploma procura-se reforçar, de modo rigoroso e equilibrado, as garantias de dedicação plena e de profissionalidade deste corpo privativo da função pública, de forma consentânea com o prosseguimento dos objectivos de fixação do docente à escola e a necessidade de fomentar a moralização e a transparência da sua actividade.
+
+Aproveita-se ainda a oportunidade para realizar a concentração harmonizada num único diploma dos diversos normativos regulamentares do regime de acumulação, que, encontrando-se actualmente dispersos por diversos instrumentos avulsos, têm dificultado a apreensão integrada e o tratamento unitário desta matéria.
+
+Foram ouvidas as organizações sindicais representativas do pessoal docente.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 111.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, adiante abreviadamente designado por estatuto da carreira docente, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de Abril, e alterado pelos Decretos-Leis n.os 105/97, de 29 de Abril, e 1/98, de 2 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Educação, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A presente portaria regula o regime de acumulação de funções e actividades públicas e privadas dos educadores de infância e dos professores dos ensinos básico e secundário.
+
+###### Artigo 2.º — Autorização
+
+1 - O exercício em acumulação de quaisquer funções ou atividades, públicas e privadas, carece de autorização prévia do diretor-geral da Administração Escolar, ressalvado o disposto no número seguinte.
+
+2 - Para efeitos do disposto no presente diploma, não se consideram em regime de acumulação:
+
+a) As actividades exercidas por inerência;
+
+b) A prestação de serviço em outro estabelecimento de educação ou ensino público, desde que, no conjunto, não ultrapasse o limite máximo de horário lectivo que, nos termos dos artigos 77.º e 79.º do estatuto da carreira docente, lhe pode ser confiado num só estabelecimento;
+
+c) O exercício de actividades de criação artística e literária;
+
+d) A realização de conferências, palestras e outras actividades de idêntica natureza, desde que, em qualquer dos casos, de curta duração;
+
+e) A participação em comissões, em grupos de trabalho ou em estruturas de idêntica natureza, quando criados por resolução do Conselho de Ministros ou por despacho do membro do Governo responsável pela área da educação, ciência e inovação;
+
+f) A participação em conselhos consultivos, comissões de fiscalização ou outros órgãos colegiais, quando prevista na lei e no exercício de fiscalização ou controlo de dinheiros públicos;
+
+g) A elaboração de provas de exame ou outras provas de avaliação externa do rendimento escolar dos alunos.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188-G/2024/1 - Diário da República n.º 158/2024, Suplemento, Série I de 2024-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/188-g-2024-884692089), em vigor a partir de 2024-08-17
+
+###### Artigo 3.º — Condições de acumulação
+
+1 - A autorização de acumulação de funções a que se refere o presente diploma só pode ser concedida verificadas, cumulativamente, as seguintes condições:
+
+a) Se a actividade a acumular não for legalmente considerada incompatível;
+
+b) Se os horários a praticar não forem total ou parcialmente coincidentes;
+
+c) Se não for susceptível de comprometer a isenção e a imparcialidade do exercício de funções docentes;
+
+d) Se não houver prejuízo para o interesse público e para os direitos e interesses legalmente protegidos dos cidadãos;
+
+e) Se a actividade privada a acumular, em regime de trabalho autónomo ou de trabalho subordinado, sendo similar ou de conteúdo idêntico ao das funções públicas desempenhadas pelo requerente, designadamente a prestação de serviços especializados de apoio e complemento educativo, de orientação pedagógica ou de apoio sócio-educativo e educação especial, não se dirija, em qualquer circunstância, aos alunos do agrupamento ou da escola onde o mesmo exerce a sua actividade principal.
+
+2 - Sem prejuízo do disposto nos n.os 3 e 5, a acumulação do exercício de funções docentes por parte de educadores de infância e de professores dos ensinos básico e secundário pode ser autorizada, desde que não exceda os seguintes limites:
+
+a) Até dez horas letivas semanais, não podendo exceder seis horas letivas consecutivas, quando prestadas em estabelecimento de educação ou de ensino não superior da rede do Ministério da Educação, Ciência e Inovação distinto daquele onde o docente exerce a sua atividade principal;
+
+b) Até dez horas letivas semanais, não podendo exceder seis horas letivas consecutivas, quando prestadas em estabelecimento de educação ou de ensino não superior e em escolas profissionais, bem como em estabelecimentos de ensino superior público, privado ou concordatário.
+
+3 - Alternativamente, e após opção expressa pelo próprio, o docente pode ser autorizado a desenvolver actividades de formação, em regime de acumulação, até ao limite anual de cento e cinquenta horas lectivas.
+
+4 - (Revogado.)
+
+5 - A acumulação de funções docentes com o exercício de actividades de formação ou de outra natureza, em regime de trabalho autónomo ou subordinado, em qualquer dos centros de formação profissional do Instituto do Emprego e Formação Profissional, I. P., pode ser autorizada até ao limite de quatro horas lectivas semanais.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188-G/2024/1 - Diário da República n.º 158/2024, Suplemento, Série I de 2024-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/188-g-2024-884692089), em vigor a partir de 2024-08-17
+
+###### Artigo 4.º — Impedimentos
+
+1 - Consideram-se impossibilitados de acumulação de funções os docentes que se encontrem numa das seguintes situações:
+
+a) Com dispensa total ou parcial da componente lectiva, nos termos do artigo 81.º do estatuto da carreira docente;
+
+b) No gozo de licença sabática ou em situação de equiparação a bolseiro;
+
+c) (Revogada.)
+
+d) Na situação a que se refere o n.º 2 do artigo 57.º do estatuto da carreira docente;
+
+e) Em regime de destacamento por condições específicas, de acordo com a legislação aplicável;
+
+f) Na situação de profissionalização em exercício;
+
+g) Na titularidade de cargos de direcção executiva ou como membros de comissões instaladoras de escolas ou de agrupamento de escolas, sem prejuízo do disposto no número seguinte.
+
+2 - Os diretores dos agrupamentos de escolas e das escolas não agrupadas, bem como os presidentes das comissões administrativas provisórias, podem acumular as suas funções com a realização de conferências, palestras, ações de formação de curta duração e outras atividades de idêntica natureza, nos termos do disposto na alínea d) do n.º 4 do artigo 26.º e no n.º 3 do artigo 66.º do Decreto-Lei n.º 75/2008, de 22 de abril, na sua redação atual.
+
+3 - Não será ainda autorizada a acumulação da actividade docente com as seguintes funções:
+
+a) Integração nos órgãos sociais ou prestação de qualquer outra forma de colaboração, designadamente actividades de consultadoria, assessoria, marketing ou vendas, em empresas fabricantes, distribuidoras ou revendedoras de material didáctico ou outros recursos educativos, incluindo editores ou livreiros de manuais escolares, e em associações representativas do respectivo sector, ressalvadas as actividades de que resulte a percepção de remuneração proveniente de direitos de autor ou a direcção de publicações de cariz técnico-científico;
+
+b) Exercício de qualquer outra actividade comercial, empresarial ou a prestação de serviços profissionais, em regime de trabalho autónomo ou de trabalho subordinado, incluindo patrocínio, assessoria ou consultadoria, que se dirija ao agrupamento ou à escola ou ao respectivo círculo de alunos onde o docente exerce a sua actividade principal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188-G/2024/1 - Diário da República n.º 158/2024, Suplemento, Série I de 2024-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/188-g-2024-884692089), em vigor a partir de 2024-08-17
+
+###### Artigo 5.º — Processo de autorização
+
+1 - O pedido de acumulação de funções é formulado pelo interessado, mediante requerimento a apresentar através do sítio eletrónico da Direção-Geral da Administração Escolar (DGAE), do qual devem constar as seguintes indicações:
+
+a) O local do exercício da função ou da atividade a acumular;
+
+b) O horário de trabalho ou da atividade a desenvolver;
+
+c) A remuneração a auferir;
+
+d) A natureza autónoma ou subordinada do trabalho ou da atividade a desenvolver, bem como a descrição sucinta do respetivo conteúdo;
+
+e) A justificação da inexistência de conflito entre o trabalho ou a atividade a acumular e a sua atividade principal, quando aplicável;
+
+f) A justificação do manifesto interesse público na acumulação, quando aplicável;
+
+g) O compromisso de honra de cessação imediata da atividade ou da função acumulada, no caso de ocorrência superveniente de conflito de interesses.
+
+2 - Ao requerimento a que se refere o número anterior é junto, em formato eletrónico, o horário distribuído no estabelecimento de educação, ensino ou formação onde o requerente pretende lecionar, com indicação das componentes letivas e não letivas, quando aplicável.
+
+3 - Compete aos serviços do estabelecimento de educação ou de ensino onde o docente exerce a sua atividade principal verificar a conformidade do pedido de acumulação com os requisitos previstos na presente portaria, bem como proceder ao seu envio para a DGAE, para que o diretor-geral desta profira decisão sobre o referido pedido.
+
+4 - A recusa de autorização carece de fundamentação nos termos legais.
+
+5 - Os pedidos de acumulação de funções são objeto de monitorização pela DGAE, a qual remete, no final de cada ano civil, um relatório ao membro do Governo responsável pela área da educação, ciência e inovação.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188-G/2024/1 - Diário da República n.º 158/2024, Suplemento, Série I de 2024-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/188-g-2024-884692089), em vigor a partir de 2024-08-17
+
+###### Artigo 6.º — Validade da acumulação
+
+A autorização de acumulação de funções concedida no âmbito do presente diploma é válida até ao final do ano escolar a que respeita e enquanto se mantiverem os pressupostos e as condições que a permitiram, não podendo justificar, em qualquer circunstância, o incumprimento das obrigações funcionais inerentes ao exercício da actividade principal acumulada.
+
+###### Artigo 7.º — Regime remuneratório
+
+Pelo exercício de funções docentes nos estabelecimentos de educação e de ensino público em regime de acumulação, nos termos da alínea a) do n.º 2 do artigo 3.º, aplica-se o índice remuneratório correspondente ao escalão em que o docente se encontra posicionado.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188-G/2024/1 - Diário da República n.º 158/2024, Suplemento, Série I de 2024-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/188-g-2024-884692089), em vigor a partir de 2024-08-17
+
+###### Artigo 8.º — Exercício de outras funções
+
+Ao exercício de funções em qualquer serviço ou organismo da administração pública, central, regional ou local, designadamente ao abrigo dos instrumentos de mobilidade previstos nos artigos 67.º e 70.º do estatuto da carreira docente, é aplicável a lei geral dos funcionários públicos em matéria de acumulação de funções.
+
+###### Artigo 9.º — Relevância disciplinar
+
+A violação, ainda que meramente culposa ou negligente, do disposto na presente portaria considera-se infração disciplinar para o efeito da aplicação do regime disciplinar previsto no estatuto da carreira docente e na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 188-G/2024/1 - Diário da República n.º 158/2024, Suplemento, Série I de 2024-08-16](https://diariodarepublica.pt/dr/detalhe/portaria/188-g-2024-884692089), em vigor a partir de 2024-08-17
+
+###### Artigo 10.º — Norma transitória
+
+Consideram-se válidas até ao início do ano escolar de 2005-2006 as autorizações de acumulações de funções do pessoal docente que não se mostrem ajustadas às condições fixadas no presente diploma.
+
+###### Artigo 11.º — Norma revogatória
+
+São revogados:
+
+a) A Portaria n.º 652/99, de 14 de Agosto, com as alterações introduzidas pela Portaria n.º 90-A/2001, de 8 de Fevereiro;
+
+b) O despacho conjunto n.º 913/99, de 12 de Outubro, publicado no Diário da República, 2.ª série, n.º 251, de 27 de Outubro de 1999;
+
+c) Os n.os 4 e 5 do despacho n.º 92/ME/88, publicado no Diário da República, 2.ª série, n.º 137, de 16 de Junho de 1992.
+
+###### Artigo 12.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 23 de Agosto de 2005.
+
+O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pela Ministra da Educação, Valter Victorino Lemos, Secretário de Estado da Educação.

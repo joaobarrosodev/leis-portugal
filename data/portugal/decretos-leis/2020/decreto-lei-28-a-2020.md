@@ -1,0 +1,674 @@
+---
+schema_version: '1.0'
+id: pt:dre:136678483:por
+title: Decreto-Lei n.º 28-A/2020
+short_title: null
+summary: Estabelece o regime jurídico da reconversão da paisagem
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Ação Climática
+official_number: 28-A/2020
+official_date: null
+publication_date: '2020-06-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 123/2020, 1º Suplemento, Série I de 2020-06-26
+  number: '123'
+  series: I
+  supplement: 1º Suplemento
+  pages: 27-(2) a 27-(12)
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/06/12301/0000200012.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-03-10'
+version_history:
+  file: decreto-lei-28-a-2020.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-06-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-15'
+    amending: pt:dre:177634017:por
+    amending_title: Decreto-Lei n.º 16/2022
+    changes:
+    - Adita Artigo 14.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 24.º-A
+    - Adita Anexo III
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Revoga Artigo 19.º
+  - date: '2026-03-10'
+    amending: pt:dre:1068974009:por
+    amending_title: Decreto-Lei n.º 76/2026
+    changes:
+    - Adita Artigo 25.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 24.º-A
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/28-a/2020/p/cons/20260309/pt/html
+  oj: null
+  dre: '136678483'
+  dre_path: /dr/detalhe/decreto-lei/28-a-2020-136678483
+  internal: pt:dre:136678483:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-a-2020-136678483
+  metadata_url: https://data.dre.pt/eli/dec-lei/28-a/2020/p/cons/20260309/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-177686368
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-177686368
+  retrieved_at: '2026-10-22T12:48:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ab829096f89dac058174b895d572b90b0fb6f1842a9d006583f184be7ee173b3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:48:41Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-28-a-2020.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Comissão Intersectorial
+- Proteção da Floresta
+- Direção Geral do Território
+- Instituto da Conservação da Natureza e das Florestas
+- Ordenamento Florestal
+- Plano de Gestão Florestal
+- Página na Internet
+- Proteção do Ambiente
+- Programa
+- Plataforma Eletrónica
+- Programa de Reordenamento e Gestão da Paisagem
+- Área Integrada de Gestão da Paisagem
+relationships:
+- type: amended_by
+  target: pt:dre:177634017:por
+  label: Adita Artigo 14.º-A; Adita Artigo 15.º-A; Adita Artigo 24.º-A; Adita Anexo III; Altera Artigo 2.º; Altera Artigo
+    5.º; Altera Artigo 6.º; Altera Artigo 10.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo
+    16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Revoga Artigo
+    19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017
+  date: '2022-01-14'
+- type: amended_by
+  target: pt:dre:1068974009:por
+  label: Adita Artigo 25.º-A; Altera Artigo 2.º; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo
+    16.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 24.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009
+  date: '2026-03-09'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/15/2019/01/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2019/01/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/224/2007/05/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/224/2007/05/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/80/2015/05/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2019/08/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/65/2019/08/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/65/2019/08/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/78/2017/08/17/p/dre
+article_structure:
+  article_count: 30
+  section_count: 7
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:48:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 28-A/2020
+
+Decreto-Lei n.º 28-A/2020
+
+de 26 de junho
+
+Sumário: Estabelece o regime jurídico da reconversão da paisagem.
+
+O XXII Governo Constitucional reconheceu, no âmbito das suas prioridades políticas, o papel primordial do ordenamento e revitalização dos territórios da floresta, tendo em vista a resiliência aos riscos, nomeadamente de incêndio, e a afirmação da biodiversidade como um ativo crucial para assegurar uma acumulação duradoura de carbono atmosférico. Adicionalmente, coloca-se um novo desafio de promover a valorização do território através da paisagem, no quadro de promoção de políticas ativas para o desenvolvimento rural, de forma a criar valor para os ativos estratégicos relacionados com as atividades agrícolas, silvícolas e turísticas, e promover a aceleração do uso produtivo e regenerativo do capital natural, base da bioeconomia, de modo a contribuir para uma melhor gestão da carga de combustíveis no território.
+
+Importa, pois, desenvolver respostas estruturadas que impulsionem a mudança da paisagem como referencial para uma nova economia dos territórios de floresta de baixa densidade, que valoriza o capital natural e a aptidão do solo, que promove a resiliência ao fogo e que assegura mais rendimentos, remunerando os serviços dos ecossistemas insuficientemente valorizados pelo mercado, através de um processo participado de base local que envolve e estimula os proprietários a investir e gerir as propriedades rústicas.
+
+O objetivo passa por quebrar o ciclo de desinvestimento e gestão dos territórios de floresta, marcados por fortes fragilidades sociais e económicas, associadas à pequena propriedade, que se reflete em elevados custos de exploração e numa diminuta rentabilidade.
+
+O envolvimento local, em particular das autarquias locais, em parceria com as comunidades locais, é condição primária para encetar projetos estruturantes do ponto de vista de gestão e ordenamento do espaço rústico.
+
+Assim, uma política de gestão e valorização da paisagem que combine as duas lógicas acima mencionadas permite uma melhor ação face às necessidades das populações e à resiliência dos territórios.
+
+Neste contexto, o Programa de Transformação da Paisagem reconhece a necessidade de intervir em territórios vulneráveis, através do Programa de Reordenamento e Gestão da Paisagem (PRGP) e de Áreas Integradas de Gestão da Paisagem (AIGP).
+
+Desse modo, assume relevância a criação do regime das PRGP e das AIGP, como instrumento de intervenção no território.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei aprova o regime jurídico da reconversão da paisagem através de Programas de Reordenamento e Gestão da Paisagem (PRGP) e de Áreas Integradas de Gestão da Paisagem (AIGP).
+
+###### Artigo 2.º — Âmbito territorial
+
+1 - Os PRGP podem ser constituídos para os territórios delimitados como vulneráveis, atenta a continuidade territorial e os seguintes critérios:
+
+a) As freguesias do continente em que mais de 40 % do território se encontra sob perigosidade alta e muito alta de incêndio rural, de acordo com a carta de perigosidade de incêndio rural mais atual;
+
+b) As freguesias do continente que sejam totalmente circundadas por freguesias que cumpram o critério de perigosidade referido na alínea anterior.
+
+2 - A delimitação de territórios vulneráveis, nos termos do número anterior, não se aplica às freguesias com mais de 40 % do território sob perigosidade alta e muito alta de incêndio rural, isoladas ou contíguas, cuja área global seja inferior a 200 km2.
+
+3 - A delimitação dos territórios vulneráveis, com base nos critérios dos números anteriores, é aprovada por portaria dos membros do Governo responsáveis pelas áreas da proteção civil, das autarquias locais, das florestas, do ordenamento do território, da agricultura e do desenvolvimento rural.
+
+4 - A portaria a que se refere o número anterior pode estabelecer orientações gerais ou diretrizes relativas ao ordenamento e gestão dos recursos florestais nos territórios por ela abrangidos, sem prejuízo do disposto nos PRGP e nos planos regionais de ordenamento florestal.
+
+5 - As AIGP devem ser constituídas, preferencialmente, no âmbito dos PRPG, atento o disposto nos números anteriores.
+
+6 - Podem, ainda, ser constituídas AIGP por iniciativa do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), em qualquer área do território continental, às quais não é aplicável o disposto nos números anteriores.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 3.º — Princípios gerais
+
+O regime instituído pelo presente decreto-lei obedece aos seguintes princípios:
+
+a) Princípio da participação e da responsabilidade dos proprietários e demais titulares de direitos reais sobre os prédios rústicos, conferindo-se à iniciativa dos participantes um papel preponderante na intervenção e sendo-lhes, nessa medida, imputadas responsabilidades inerentes a essa participação;
+
+b) Princípio da subsidiariedade da ação pública, garantindo que as ações de intervenção agrícola, florestal ou silvopastoril relativas a espaços privados são diretamente promovidas por entidades públicas apenas na medida em que os particulares, quer isoladamente quer em cooperação com aquelas, não as assegurem ou não possam assegurá-las;
+
+c) Princípio da solidariedade intergeracional, assegurando a transmissão às gerações futuras de espaços florestais corretamente ordenados e conservados;
+
+d) Princípio da sustentabilidade, garantindo que as operações a realizar assentam num modelo financeiramente sustentado e equilibrado, e contribuem para valorizar as áreas rurais intervencionadas através de soluções sustentáveis do ponto de vista sociocultural e ambiental;
+
+e) Princípio da integração, preferindo a intervenção em áreas cuja delimitação permita uma resposta adequada e articulada às componentes morfológica, económica, social, cultural e ambiental;
+
+f) Princípio da coordenação, promovendo a convergência, a articulação, a compatibilização e a complementaridade entre as várias ações de iniciativa pública, entre si, e entre estas e as ações de iniciativa privada;
+
+g) Princípio da justa ponderação, promovendo uma adequada ponderação de todos os interesses relevantes em face das operações a realizar, designadamente os interesses dos proprietários e demais titulares de direitos reais sobre prédios rústicos objeto dessas intervenções;
+
+h) Princípio da equidade, assegurando a justa repartição dos encargos e benefícios decorrentes da execução das operações a realizar.
+
+###### Artigo 4.º — Dever de promoção
+
+Incumbe ao Estado e às autarquias locais, no quadro do presente decreto-lei e dos demais regimes jurídicos aplicáveis, assegurar a promoção das medidas necessárias à reconversão de áreas florestais, agrícolas e silvopastoris integradas em PRGP ou, na ausência deste, em AIGP.
+
+###### Artigo 5.º — Direito de participação
+
+O proprietário e os demais titulares de direitos reais, bem como os arrendatários, dos prédios rústicos abrangidos participam na elaboração dos PRGP e na elaboração e execução das operações integradas de gestão da paisagem (OIGP), nos termos do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 6.º — Dever de cooperação
+
+O proprietário e os demais titulares de direitos reais, bem como os arrendatários, dos prédios rústicos abrangidos por AIGP têm o dever de colaborar na definição e execução da respetiva OIGP.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+### Capítulo II — Programas de Reordenamento e Gestão da Paisagem
+
+###### Artigo 7.º — Programas de Reordenamento e Gestão da Paisagem
+
+1 - O PRGP é um programa setorial, dirigido a territórios que apresentam vulnerabilidades específicas associadas à organização do território, visando a prevenção de riscos e adaptação às alterações climáticas, através do ordenamento e gestão da paisagem e da adoção de medidas específicas de intervenção.
+
+2 - As normas constantes do PRGP vinculam diretamente todas as entidades públicas, sem prejuízo da vinculação direta e imediata dos particulares relativamente às normas sobre a ocupação e utilização dos espaços florestais, nos termos do previsto no n.º 3 do artigo 3.º do Regime Jurídico dos Instrumentos de Gestão Territorial (RJIGT), aprovado pelo Decreto-Lei n.º 80/2015, de 14 de maio.
+
+###### Artigo 8.º — Conteúdo do Programa de Reordenamento e Gestão da Paisagem
+
+O conteúdo mínimo do PRGP consta do anexo I ao presente decreto-lei e do qual faz parte integrante.
+
+###### Artigo 9.º — Elaboração do Programa de Reordenamento e Gestão da Paisagem
+
+1 - A elaboração do PRGP é determinada por despacho do membro do Governo responsável pela área do ambiente, em articulação com o membro do Governo responsável pela área do ordenamento do território, nos termos previstos no artigo 46.º do RJIGT.
+
+2 - O acompanhamento da elaboração do PRGP observa o disposto no artigo 48.º do RJIGT.
+
+###### Artigo 10.º — Participação na elaboração do Programa de Reordenamento e Gestão da Paisagem
+
+1 - Concluída a elaboração da proposta de PRGP a entidade pública responsável pela respetiva elaboração procede à abertura de um período de discussão pública da proposta de programa através de aviso a publicar, com a antecedência de cinco dias, no Diário da República e a divulgar através da comunicação social e no respetivo sítio na Internet.
+
+2 - Durante o período de discussão pública, não inferior a 20 dias, a proposta de programa é disponibilizada para consulta e recolha de sugestões, nos sítios na Internet da entidade pública responsável pela sua elaboração e das autarquias locais das áreas territoriais abrangidas, e mediante afixação de editais pelas autarquias locais destas áreas territoriais.
+
+3 - Findo o período de discussão pública, a entidade pública responsável pela elaboração do programa pondera e divulga os respetivos resultados, nos termos definidos no número anterior.
+
+4 - A versão final da proposta deve ser elaborada no prazo de 30 dias, prorrogável uma única vez por igual período, salvo motivo fundamentado que justifique prazo diferente.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 11.º — Monitorização
+
+A monitorização do PRGP é da competência do fórum intersetorial.
+
+### Capítulo III — Áreas integradas de gestão da paisagem
+
+###### Artigo 12.º — Área integrada de gestão da paisagem
+
+1 - A AIGP sujeita uma determinada área com fatores críticos de perigo de incêndio e vulnerabilidade a um conjunto articulado de intervenções visando, de forma integrada, a reconversão e gestão de espaços florestais, agrícolas e silvopastoris com o objetivo de garantir uma maior resiliência ao fogo e melhorar os serviços de ecossistemas, promovendo a revitalização destes territórios e a adaptação às alterações climáticas.
+
+2 - A AIGP é contínua e abrange uma área mínima de 100 hectares, sem prejuízo do disposto no número seguinte.
+
+3 - A AIGP pode assumir ações complementares, quando em concomitância, em áreas críticas para a resiliência do território envolventes à área de intervenção, identificadas no contexto da criação da AIGP.
+
+###### Artigo 13.º — Iniciativa da área integrada de gestão da paisagem
+
+1 - A constituição de uma AIGP pode ser promovida pelo Estado, pelas autarquias locais, por organizações de produtores florestais ou agrícolas, por cooperativas, por associações locais, por organizações não-governamentais de ambiente, por entidades gestoras de baldios ou por organismos de investimento coletivo.
+
+2 - A iniciativa de constituição de uma AIGP concretiza-se mediante proposta enviada ao ICNF, I. P., acompanhada dos seguintes elementos:
+
+a) Memória descritiva e justificativa da proposta;
+
+b) Planta com a delimitação da área a intervencionar à escala 1:25000;
+
+c) Indicação da entidade gestora, caso se encontre constituída;
+
+d) Prazo de apresentação da OIGP.
+
+3 - No caso previsto no n.º 5 do artigo 2.º, a iniciativa da constituição da AIGP é do ICNF, I. P.
+
+4 - Quando a constituição da AIGP não seja da iniciativa das autarquias locais devem ser ouvidos os municípios das áreas abrangidas pela intervenção, salvo na situação referida no número anterior.
+
+5 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 14.º — Constituição da área integrada de gestão da paisagem
+
+1 - A AIGP pode ser constituída pela deliberação de aprovação do PRGP ou por despacho do membro do Governo responsável pela área das florestas.
+
+2 - A delimitação da AIGP por despacho, nos termos do número anterior, deve ter por base a proposta de critérios de elegibilidade a apresentar pelo ICNF, I. P.
+
+3 - O ato de constituição da AIGP inclui os elementos previstos no n.º 2 do artigo anterior.
+
+4 - A constituição da AIGP é publicada no Diário da República e publicitada mediante anúncio nos sítios na Internet da DGT, do ICNF, I. P., e das autarquias locais das áreas territoriais abrangidas, sendo objeto de afixação por editais nas autarquias locais das áreas territoriais abrangidas.
+
+5 - A aprovação da constituição da AIGP caduca, no prazo de três anos, se não for aprovada a correspondente OIGP.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 14.º-A — Deveres da entidade promotora
+
+Constituem deveres da entidade promotora:
+
+a) Promover a participação, mobilização e adesão voluntária dos proprietários à AIGP;
+
+b) Elaborar estudos, projetos temáticos e de investimento e os elementos preparatórios da proposta de OIGP;
+
+c) Instruir e submeter candidaturas aos diversos regimes de apoio disponibilizados;
+
+d) Designar a entidade gestora, nos termos previstos no presente decreto-lei;
+
+e) Apoiar o município nas operações de execução de cadastro necessárias à obtenção da configuração geométrica dos prédios que integram a AIGP e demais dados cadastrais, nos termos do artigo 20.º
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 15.º — Modelo de gestão
+
+1 - A entidade responsável pela elaboração e execução da OIGP assume a qualidade de entidade gestora, podendo revestir as modalidades de unidade de gestão florestal, de entidade de gestão florestal, de entidade gestora de zona de intervenção florestal, de entidade gestora de baldio ou, nos termos do disposto no artigo seguinte, de empresa local de promoção do desenvolvimento local e regional constituída ao abrigo do disposto no artigo 48.º da Lei n.º 50/2012, de 31 de agosto, na sua redação atual.
+
+2 - (Revogado.)
+
+3 - As autarquias locais da área abrangida pela AIGP podem, mediante contrato celebrado com a entidade gestora, assumir a qualidade de entidades corresponsáveis pela execução da OIGP.
+
+4 - Quando não seja indicada no momento de submissão da proposta de AIGP, a entidade gestora da OIGP deve ser designada pela entidade promotora no prazo 30 dias após a assinatura do contrato previsto n.º 3 do artigo 18.º, ouvido o ICNF, I. P.
+
+5 - A entidade promotora da AIGP pode assumir a função de entidade gestora, caso preencha os requisitos exigíveis para o efeito, nos termos do disposto no n.º 1.
+
+6 - As autarquias locais territorialmente competentes podem ser entidades responsáveis pela elaboração e execução da OIGP, nas áreas abrangidas pela intervenção, assumindo a qualidade de entidades gestoras.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 15.º-A — Empresa local de promoção do desenvolvimento local e regional
+
+1 - Para efeitos do disposto no n.º 1 do artigo anterior, as empresas locais de promoção do desenvolvimento local e regional apenas podem exercer a função de entidade gestora de uma OIGP quando tenham por objeto a promoção do desenvolvimento rural.
+
+2 - Nos casos previstos no número anterior, o período temporal a que se referem as alíneas a) a d) do n.º 1 do artigo 62.º da Lei n.º 50/2012, de 31 de agosto, na sua redação atual, é de 25 anos.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 16.º — Deveres da entidade gestora
+
+Constituem deveres da entidade gestora:
+
+a) Elaborar a proposta de OIGP;
+
+b) (Revogada.)
+
+c) Promover a participação e adesão voluntária dos proprietários à OIGP;
+
+d) Promover a divulgação e prestar os esclarecimentos necessários relativos às medidas e apoios existentes para a concretização das ações previstas na OIGP;
+
+e) Executar a OIGP, desenvolvendo as ações necessárias à sua concretização;
+
+f) Monitorizar a execução da OIGP e prestar informação ao ICNF, I. P., nomeadamente sobre o desenvolvimento das ações nela inseridas;
+
+g) Prestar apoio técnico aos proprietários abrangidos pela OIGP;
+
+h) Contratar e capacitar recursos humanos e técnicos e celebrar os demais contratos necessários à execução da OIGP;
+
+i) Instruir e submeter candidaturas aos diversos regimes de apoio disponibilizados;
+
+j) Apoiar o município nas operações de execução de cadastro necessárias à obtenção da configuração geométrica dos prédios que integram a AIGP e demais dados cadastrais, nos termos do artigo 20.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 17.º — Operação integrada de gestão da paisagem
+
+1 - A OIGP define, no espaço e no tempo, as intervenções de transformação da paisagem de reconvenção de culturas e de valorização e revitalização territorial, bem como o modelo operativo, os recursos financeiros e o sistema de gestão e de monitorização a implementar.
+
+2 - A OIGP observa as orientações previstas nos PRGP, nos programas especiais das áreas protegidas, nos programas regionais de ordenamento florestal, nos planos territoriais intermunicipais e municipais e nos programas de ação e de execução do Sistema de Gestão Integrada de Fogos Rurais, que lhe forem concretamente aplicáveis.
+
+3 - A OIGP incorpora os elementos correspondentes ao conteúdo dos planos de gestão florestal (PGF) previsto no Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, de acordo com o conteúdo mínimo estabelecido no anexo iii ao presente decreto-lei e do qual faz parte integrante, e produz os efeitos daqueles planos, dispensando a aprovação dos mesmos na área por ela abrangida.
+
+4 - O conteúdo dos PGF preexistentes na área abrangida pela OIGP é incorporado na proposta de OIGP, podendo sofrer alterações decorrentes da aprovação desta.
+
+5 - O conteúdo da OIGP deve salvaguardar as obrigações assumidas por beneficiários com projetos de recuperação do potencial produtivo aprovados, executados ou em execução, bem como os compromissos plurianuais assumidos por beneficiários no âmbito dos programas de desenvolvimento rural.
+
+6 - A OIGP tem por referência a área da AIGP, sem prejuízo dos ajustamentos necessários, em função dos resultados do processo de adesão dos proprietários, desde que fique assegurada a coerência e viabilidade da OIGP.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 18.º — Apoio público
+
+1 - São disponibilizadas as seguintes formas de apoio público à promoção e execução da OIGP:
+
+a) Apoio à entidade promotora, para realização das ações preparatórias indispensáveis à elaboração da proposta de OIGP, na sequência da constituição da AIGP;
+
+b) Apoio à entidade gestora, para elaboração da proposta de OIGP;
+
+c) Apoio à execução da OIGP, conjugando, para a mesma área, apoios ao investimento de reconversão e valorização de curto prazo, apoios à manutenção e gestão a médio prazo e apoios à remuneração dos serviços dos ecossistemas;
+
+d) Apoio aos municípios, para a execução de cadastro nos termos do artigo 20.º, na proporção em que as ações de cadastro a realizar não tenham sido objeto de outros apoios.
+
+2 - Os apoios previstos no número anterior podem ser atribuídos na modalidade multifundos.
+
+3 - A atribuição dos apoios previstos nos números anteriores tem por base os critérios de elegibilidade e de hierarquização aplicáveis e concretiza-se mediante contrato ou por outra forma prevista nos termos do regime de apoio aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 19.º — Conteúdo da operação integrada de gestão da paisagem
+
+Sem prejuízo do previsto para os Planos de Gestão Florestal, nos termos do artigo 17.º do Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual, a OIGP deve identificar:
+
+a) As intervenções de fomento da agricultura e da pastorícia em territórios florestais;
+
+b) Intervenções de revitalização económica e desenvolvimento rural;
+
+c) Os proprietários e titulares de outros direitos, ónus e encargos;
+
+d) A menção, se for o caso, ao desconhecimento da titularidade do prédio, para efeitos de início do procedimento de identificação e reconhecimento de prédio sem dono conhecido, nos termos e para os efeitos previstos no Decreto-Lei n.º 15/2019, de 21 de janeiro, na sua redação atual;
+
+e) A extensão e calendário das intervenções a realizar;
+
+f) Fontes de financiamento e respetiva programação plurianual;
+
+g) O programa de monitorização, com identificação dos indicadores de execução financeira, física e de impacto.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 20.º — Identificação dos titulares de direitos reais
+
+1 - A caracterização dos prédios que integram a AIGP e a identificação dos seus titulares têm suporte nas operações previstas:
+
+a) No sistema de informação cadastral simplificada, criado pela Lei n.º 78/2017, de 17 de agosto, mantido e generalizado pela Lei n.º 65/2019, de 23 de agosto, nos termos do disposto nos números seguintes;
+
+b) No cadastro geométrico da propriedade rústica e cadastro predial em vigor.
+
+2 - O disposto no n.º 5 do artigo 6.º da Lei n.º 78/2017, de 17 de agosto, aplica-se a todas as entidades que atuem como entidade promotora de AIGP ou como entidade gestora de OIGP, nos termos do presente decreto-lei.
+
+3 - (Revogado.)
+
+4 - As operações de execução de cadastro necessárias à obtenção da configuração geométrica dos prédios que integram a AIGP e a OIGP, e os demais dados cadastrais, são promovidas pelos municípios, com o apoio da entidade promotora e da entidade gestora.
+
+5 - A informação resultante da identificação da estrutura fundiária, através de representações gráficas georreferenciadas (RGG) validadas, e da respetiva titularidade, é objeto de consulta pública, sendo as eventuais reclamações remetidas para apreciação através do procedimento de composição administrativa de interesses, previsto no artigo 7.º da Lei n.º 65/2019, de 23 de agosto.
+
+6 - As RGG validadas sem reclamação pendente são remetidas à DGT por técnico de cadastro predial, para efeitos de verificação da conformidade com as Normas e Especificações Técnicas de Cadastro Predial e de integração dos prédios na Carta Cadastral.
+
+7 - A entidade gestora beneficia de acesso à informação existente no Balcão Único do Prédio das entidades públicas a que se refere o n.º 1 do artigo 27.º da Lei n.º 78/2017, de 17 de agosto, desde que se trate de informação relevante sobre os elementos caracterizadores e de identificação dos prédios circunscritos à área da AIGP e seus titulares.
+
+8 - A entidade gestora está especialmente obrigada ao dever de sigilo no contexto da legislação sobre proteção de dados pessoais, designadamente a Lei n.º 58/2019, de 8 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 21.º — Proposta de operação integrada de gestão da paisagem
+
+1 - A OIGP é elaborada pela entidade gestora e submetida à apreciação dos proprietários e demais titulares de direitos reais, ou quem exerça poderes legais de representação, e produtores florestais abrangidos pela AIGP em reunião expressamente convocada para o efeito e devidamente publicitada.
+
+2 - A convocatória da reunião é efetuada pela entidade gestora, mediante publicação de aviso num jornal de âmbito local ou nacional, e publicitada através de anúncio em sítio na Internet da respetiva autarquia e por afixação de edital nas sedes das autarquias locais da área de circunscrição dos prédios abrangidos.
+
+3 - A proposta de OIGP é disponibilizada, para consulta e recolha de sugestões, na sede do município da área de circunscrição dos prédios e no sítio na Internet do ICNF, I. P., pelo prazo mínimo de 15 dias.
+
+4 - Decorrido o prazo referido no número anterior, a entidade gestora promove a realização de uma reunião conjunta com os proprietários e demais titulares de direitos reais, ou quem exerça poderes legais de representação, e os produtores florestais identificados na área territorial abrangida, expressamente convocada para o efeito e devidamente publicitada nos termos do n.º 2, e procede à aprovação da proposta de OIGP.
+
+5 - Na reunião referida no número anterior procede-se ao estabelecimento de compromissos prévios, por via de declarações de compromisso a estabelecer com os proprietários e demais titulares de direitos reais, ou quem exerça poderes legais de representação, manifestando a intenção de aderir à OIGP, com identificação do meio de adesão, dos prédios a considerar e da tipologia de uso.
+
+6 - A proposta de OIGP é submetida pela entidade gestora ao ICNF, I. P., que, no prazo de 15 dias emite parecer.
+
+7 - O prazo para a emissão do parecer referido no número anterior fica suspenso, caso a constituição de OIGP dependa de autorização ou parecer prévio de um serviço ou entidade da Administração Pública, os quais devem ser emitidos no prazo de 15 dias.
+
+8 - A não emissão de autorização prévia no prazo devido determina a formação de deferimento tácito.
+
+9 - A não emissão dos pareceres, incluindo o do ICNF, I. P., no prazo devido não obsta à tomada de decisão final do órgão competente.
+
+10 - O ICNF, I. P., submete a proposta de OIGP ao membro do Governo responsável pela área das florestas, acompanhada dos pareceres referidos nos n.os 6 e 7, para os efeitos previstos no artigo seguinte.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 22.º — Aprovação da operação integrada de gestão da paisagem
+
+1 - A OIGP é aprovada por despacho do membro do Governo responsável pela área das florestas, a publicar no Diário da República.
+
+2 - O despacho a que se refere o número anterior é igualmente publicitado no sítio na Internet da DGT, do ICNF, I. P., e das autarquias locais das áreas territoriais abrangidas.
+
+3 - [Revogado.]
+
+4 - Para efeitos de candidatura a apoios públicos a OIGP é considerada instrumento equivalente ao Plano de Gestão Florestal, previsto no Decreto-Lei n.º 16/2009, de 14 de janeiro, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 23.º — Execução da operação integrada de gestão da paisagem
+
+1 - A responsabilidade pela execução da OIGP é dos proprietários abrangidos pela AIGP ou da entidade gestora à qual sejam transmitidos os poderes de gestão dos seus prédios.
+
+2 - Quando não for possível identificar o proprietário do prédio, cumprido o procedimento estabelecido no Decreto-Lei n.º 15/2019, de 21 de janeiro, aplica-se o regime de administração previsto para o prédio reconhecido e registado como sem dono conhecido.
+
+###### Artigo 24.º — Procedimento de notificação
+
+1 - Para efeitos do disposto no artigo anterior, uma vez aprovada a OIGP, a entidade gestora procede à notificação dos proprietários e demais titulares de direitos reais, ou quem exerça poderes legais de representação, nos termos estabelecidos nos artigos 110.º e seguintes do Código do Procedimento Administrativo, para que de forma voluntária assumam a execução das operações previstas para os seus prédios.
+
+2 - Sempre que não seja possível a notificação prevista no número anterior, designadamente em virtude do desconhecimento do paradeiro do proprietário, esta é efetuada por edital, nos termos estabelecidos no Código do Procedimento Administrativo, sendo para este efeito obrigatória a afixação de um edital no prédio respetivo.
+
+3 - A identificação do prédio referido no número anterior deve ainda ser objeto de ampla divulgação através do envio da informação ao Ministério dos Negócios Estrangeiros para que este assegure a divulgação junto das comunidades portuguesas no estrangeiro, através da rede diplomática e consular.
+
+4 - A notificação prevista nos números anteriores confere um prazo para adesão voluntária à OIGP, não inferior a 30 dias, contendo os seguintes elementos:
+
+a) Descrição das ações previstas para o prédio, incluindo a indicação de medidas urgentes, quando sejam necessárias, bem como as operações subsequentes a que o proprietário ou demais titulares de direitos reais, ou quem exerça poderes legais de representação, estão obrigados durante o período de vigência da OIGP;
+
+b) Prazo de execução;
+
+c) Fontes de financiamento disponíveis para apoio às operações previstas;
+
+d) Forma de disponibilização da OIGP;
+
+e) Meios de adesão.
+
+###### Artigo 24.º-A — Adesão
+
+1 - No prazo previsto na notificação a que se refere o artigo anterior, os proprietários devem comunicar à entidade gestora a sua adesão à OIGP, numa das seguintes modalidades:
+
+a) Execução pelo proprietário;
+
+b) Execução pela entidade gestora.
+
+2 - Em caso de falta de resposta, presume-se a adesão na modalidade de execução pela entidade gestora.
+
+3 - A adesão referida no n.º 1 é formalizada por contrato entre a entidade gestora e o proprietário, definindo as ações a realizar, a sua calendarização e a programação financeira.
+
+4 - O contrato previsto no número anterior deve ser celebrado no prazo máximo de 30 dias após o fim do prazo estabelecido na notificação a que se refere o artigo anterior, na data, hora e local a indicar pela entidade gestora, com antecedência mínima de 10 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15
+
+###### Artigo 25.º — Vigência da operação integrada de gestão da paisagem
+
+A OIGP vigora por um período de 25 anos prorrogável, mediante fundamentação, por períodos adicionais até ao limite máximo global de 50 anos.
+
+###### Artigo 25.º-A — Norma transitória
+
+1 - As ações de arborização ou de rearborização a realizar em OIGP aprovadas até 31 de dezembro de 2026, e cuja execução seja financiada pelo Plano de Recuperação e Resiliência (PRR), são sujeitas a comunicação prévia nos termos dos artigos 5.º e 7.º do Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual, a qual se considera efetuada sem necessidade de ser apresentada com antecedência mínima, com os despachos de aprovação das OIGP e é válida até ao final do prazo contratualizado para a execução do investimento financiado pelo PRR.
+
+2 - O previsto no número anterior não prejudica a necessidade de observar o disposto no artigo 7.º e no artigo 8.º do Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual, que pode ser concluído até ao final do prazo contratualizado para a execução do investimento financiado pelo PRR.
+
+3 - A realização de ações de arborização ou de rearborização em desconformidade com o disposto no número anterior constitui contraordenação, punível nos termos do artigo 15.º do Decreto-Lei n.º 96/2013, de 19 de julho, na sua redação atual.
+
+4 - Para efeitos de execução das OIGP aprovadas até 31 de dezembro de 2026, e cuja execução seja financiada pelo PRR, as entidades gestoras podem recorrer ao regime de simplificação de procedimentos previstos no artigo 7.º da Lei n.º 30/2021, de 21 de maio, ou ao regime previsto no artigo 36.º do Decreto-Lei n.º 98-A/2025, de 24 de agosto.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2026-1068974009), em vigor a partir de 2026-03-10.
+
+### Capítulo IV — Disposição final
+
+###### Artigo 26.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de maio de 2020. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita - Alexandra Ludomila Ribeiro Fernandes Leitão - João Pedro Soeiro de Matos Fernandes - Maria do Céu de Oliveira Antunes Albuquerque.
+
+Promulgado em 24 de junho de 2020.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 25 de junho de 2020.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo I — (a que se refere o artigo 8.º)
+
+(ver documento original)
+
+## Anexo II — (a que se refere o n.º 2 do artigo 15.º)
+
+Os contratos-programa têm por base um caderno de encargos, de horizonte temporal plurianual, e serão objeto de acompanhamento, monitorização e avaliação periódica. Nestes termos define-se:
+
+a) As ações elegíveis:
+
+i) Constituição, dinamização e funcionamento da entidade de gestão, incluindo a mobilização dos proprietários e apoio nas questões jurídico-administrativas relativas às propriedades rústicas;
+
+ii) Cadastro predial;
+
+iii) Contratação e capacitação de recursos humanos e técnicos;
+
+iv) Planeamento, ordenamento e gestão florestal;
+
+v) Elaboração de estudos, projetos temáticos e de projetos de investimento;
+
+vi) Ações de divulgação.
+
+b) Os elementos obrigatórios:
+
+i) As áreas que serão alvo de investimento/intervenções florestais, acompanhadas dos Planos de Gestão Florestal aprovados na área de intervenção da Área Integrada de Gestão da Paisagem (AIGP);
+
+ii) As áreas que desempenham função de mosaico/faixas de gestão, como sejam as zonas agrícolas;
+
+iii) As áreas em que se identifique a necessidade de criar mosaicos/faixas de gestão, nomeadamente em zonas críticas à passagem do fogo;
+
+iv) As linhas de água, áreas ripícolas, entre outras;
+
+v) A viabilidade da operação integrada de gestão da paisagem, com a apresentação dos proveitos e despesas previsionais, incluindo os apoios públicos potenciais, nomeadamente o pagamento dos serviços dos ecossistemas;
+
+vi) A programação da operação de cadastro dos prédios da AIGP;
+
+vii) A instrução e submissão das candidaturas aos diversos regimes de apoio disponibilizados;
+
+viii) A certificação da gestão florestal sustentável das explorações florestais da AIGP.
+
+113347994
+
+## Anexo III
+
+(a que se refere o n.º 3 do artigo 17.º)
+
+O projeto de operação integrada de gestão da paisagem (OIGP) deve conter os seguintes elementos:
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 16/2022 - Diário da República n.º 10/2022, Série I de 2022-01-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2022-177634017), em vigor a partir de 2022-01-15

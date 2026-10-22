@@ -1,0 +1,168 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177087987:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-213707041",
+ "dre_path": "/dr/detalhe/portaria/13-a-2022-177087987",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-01-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213749708",
+    "213749709",
+    "213749710",
+    "213749711",
+    "213749712",
+    "213749713",
+    "213749714",
+    "213749715"
+   ]
+  },
+  {
+   "date": "2023-05-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213706996:por",
+     "title": "Portaria n.º 142/2023",
+     "published": "2023-05-30",
+     "dre_path": "/dr/detalhe/portaria/142-2023-213706996"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "213749708",
+    "213749709",
+    "213749721",
+    "213749722",
+    "213749723",
+    "213749724",
+    "213749714",
+    "213749715",
+    "213749716"
+   ]
+  }
+ ],
+ "fragments": {
+  "213749708": {
+   "fragment_id": "213707042",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 13-A/2022\n\nde 4 de janeiro\n\nSumário: Regulamenta a comunicação de celebração de contratos de prestação de serviços com profissionais da área da cultura.\n\nO Estatuto dos Profissionais da Área da Cultura, aprovado em anexo ao Decreto-Lei n.º 105/2021, de 29 de novembro, encontra-se dividido em três partes essenciais: (i) o registo dos profissionais da área da cultura (RPAC), (ii) o regime contratual de trabalho e de prestação de atividade e (iii) o regime de proteção social.\n\nA presente portaria regulamenta a comunicação de celebração de contratos de prestação de serviços com profissionais da área da cultura, pelas entidades que disponham ou devam dispor de contabilidade organizada, como medida de combate à precariedade.\n\nFoi ouvida a Comissão Nacional da Proteção de Dados.\n\nAssim:\n\nManda o Governo, pelo Ministro de Estado e das Finanças, pela Ministra da Modernização do Estado e da Administração Pública, pela Ministra da Cultura e pela Ministra do Trabalho, Solidariedade e Segurança Social, ao abrigo do n.º 2 do artigo 30.º do Estatuto dos Profissionais da Área da Cultura, aprovado em anexo ao Decreto-Lei n.º 105/2021, de 29 de novembro, o seguinte:"
+  },
+  "213749709": {
+   "fragment_id": "213707043",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria regulamenta a comunicação de celebração de contratos de prestação de serviços com profissionais da área da cultura, pelas entidades que disponham ou devam dispor de contabilidade organizada, nos termos do disposto no do n.º 2 do artigo 30.º do Estatuto dos Profissionais da Área da Cultura (Estatuto), aprovado em anexo ao Decreto-Lei n.º 105/2021, de 29 de novembro."
+  },
+  "213749710": {
+   "fragment_id": "213707044",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidade gestora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidade gestora\n\n1 - Compete à Inspeção-Geral das Atividades Culturais (IGAC) a gestão das comunicações em articulação com:\n\na) A Agência para a Modernização Administrativa, I. P. (AMA);\n\nb) A Autoridade para as Condições do Trabalho (ACT);\n\nc) A Autoridade Tributária e Aduaneira (AT);\n\nd) Os Serviços da Segurança Social.\n\n2 - As trocas de informações entre as entidades referidas no número anterior são reguladas por protocolo.\n\n3 - Compete às entidades referidas no n.º 1 a responsabilidade pelo tratamento dos dados pessoais recolhidos, nomeadamente para efeitos de:\n\na) Confirmação do fundamento pela não celebração de contrato de trabalho, pela IGAC e ACT;\n\nb) Confirmação que o valor relativo ao contrato foi devidamente declarado para efeitos fiscais e contributivos, pela ACT e pelos serviços da Segurança Social;\n\nc) Planeamento das atividades de fiscalização, incluindo as referidas no artigo 5.º por todas as entidades."
+  },
+  "213749711": {
+   "fragment_id": "213707045",
+   "type": 11,
+   "heading": "Artigo 3.º — Disponibilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disponibilização\n\nA comunicação objeto da presente portaria está disponível no portal ePortugal."
+  },
+  "213749712": {
+   "fragment_id": "213707046",
+   "type": 11,
+   "heading": "Artigo 4.º — Comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comunicação\n\n1 - A entidade beneficiária da prestação, que disponha ou deva dispor de contabilidade organizada, deve comunicar a celebração de contrato de prestação de serviço antes do início da sua produção de efeitos, ilidindo fundamentadamente a presunção da existência de contrato de trabalho prevista no artigo 7.º do Estatuto.\n\n2 - Na impossibilidade de comunicação em momento anterior à produção de efeitos do contrato, nomeadamente por impossibilidade de acesso ao Portal ePortugal, a entidade beneficiária da prestação deve proceder à comunicação nas 48 horas posteriores.\n\n3 - A comunicação é realizada pela entidade beneficiária da prestação, utilizando um dos seguintes meios de autenticação eletrónica:\n\na) Cartão de Cidadão;\n\nb) Chave Móvel Digital;\n\nc) Sistema de autenticação do Portal das Finanças;\n\nd) Certificado digital emitido por Estado membro da União Europeia no âmbito do STORK;\n\ne) Outros meios de identificação eletrónica emitidos noutros Estados membros da União Europeia, reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014, do Parlamento Europeu e do Conselho, de 23 de julho.\n\n4 - Os dados constantes da comunicação são posteriormente comunicados pela AMA, I. P., às restantes entidades referidas no artigo 2.º, não dispensando as outras obrigações legais.\n\n5 - Quando, por motivos de indisponibilidade dos sistemas de informação, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser realizada por outros meios de transmissão eletrónica de dados que garantam a segurança dos dados transmitidos."
+  },
+  "213749713": {
+   "fragment_id": "213707047",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação dos contratos de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificação dos contratos de prestação de serviços\n\nNos termos do disposto no n.º 3 do artigo 30.º, no artigo 79.º e no n.º 3 do artigo 81.º do Estatuto e do n.º 3 do artigo 3.º, podem ser realizadas verificações eletrónicas por informação recolhida em base de dados entre as comunicações realizadas ao abrigo da presente portaria e as obrigações fiscais e contributivas associadas ao mesmo contrato."
+  },
+  "213749714": {
+   "fragment_id": "213707048",
+   "type": 11,
+   "heading": "Artigo 6.º — Dados abertos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Dados abertos\n\nA publicação, divulgação e disponibilização, para consulta ou outro fim, de informações, documentos e outros conteúdos que, pela sua natureza e nos termos da presente portaria, possam ou devam ser disponibilizados ao público, sem prejuízo do uso simultâneo de outros meios, deve estar disponível em formatos abertos, que permitam a leitura por máquina, para ser colocada ou indexada no Portal de Dados Abertos da Administração Pública, em www.dados.gov.pt."
+  },
+  "213749715": {
+   "fragment_id": "213707049",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nA presente portaria produz efeitos a 1 de janeiro de 2022."
+  },
+  "213749721": {
+   "fragment_id": "213707044",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidade gestora",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 2.º — Entidade gestora\n\n1 - Compete à Inspeção-Geral das Atividades Culturais (IGAC) a gestão das comunicações em articulação com:\n\na) A Agência para a Modernização Administrativa, I. P. (AMA);\n\nb) A Autoridade para as Condições do Trabalho (ACT);\n\nc) (Revogada.)\n\nd) (Revogada.)\n\n2 - As trocas de informações entre as entidades referidas no número anterior são reguladas por protocolo e efetuadas preferencialmente com recurso à Plataforma de Interoperabilidade da Administração Pública.\n\n3 - Compete à IGAC e à ACT a responsabilidade pelo tratamento dos dados pessoais recolhidos para efeitos de confirmação do fundamento pela não celebração de contrato de trabalho e de planeamento das atividades de fiscalização, incluindo as referidas no artigo 5.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+  },
+  "213749722": {
+   "fragment_id": "213707045",
+   "type": 11,
+   "heading": "Artigo 3.º — Disponibilização",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 3.º — Disponibilização\n\nA comunicação objeto da presente portaria é efetuada no portal ePortugal e contém os seguintes elementos:\n\na) Identificação das entidades beneficiárias, nome/designação social, n.º de identificação fiscal (NIF);\n\nb) Identificação do prestador de serviços, nome/designação social, n.º de identificação fiscal (NIF);\n\nc) Área de atividade;\n\nd) Período de início e fim da prestação;\n\ne) Local da prestação da atividade ou, não havendo um fixo ou predominante, a indicação de que a atividade é prestada em vários locais;\n\nf) As caraterísticas de laboralidade identificadas no Código do Trabalho e a fundamentação que permita afastar a sua verificação;\n\ng) Código CAE/CIRS.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+  },
+  "213749723": {
+   "fragment_id": "213707046",
+   "type": 11,
+   "heading": "Artigo 4.º — Comunicação",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 4.º — Comunicação\n\n1 - A entidade beneficiária da prestação, que disponha ou deva dispor de contabilidade organizada, deve comunicar, até ao 10.º dia útil seguinte ao final de cada trimestre, através do portal ePortugal, os contratos de prestação de serviço que tenham sido celebrados nesse trimestre.\n\n2 - (Revogado.)\n\n3 - A comunicação é realizada pela entidade beneficiária da prestação, utilizando um dos seguintes meios de autenticação eletrónica:\n\na) Cartão de Cidadão;\n\nb) Chave Móvel Digital;\n\nc) (Revogada.)\n\nd) Certificado digital emitido por Estado membro da União Europeia no âmbito do STORK;\n\ne) Outros meios de identificação eletrónica emitidos noutros Estados membros da União Europeia, reconhecidos para o efeito nos termos do artigo 6.º do Regulamento (UE) n.º 910/2014, do Parlamento Europeu e do Conselho, de 23 de julho.\n\n4 - Os dados constantes da comunicação são posteriormente comunicados pela AMA, I. P., às restantes entidades referidas no artigo 2.º, não dispensando as outras obrigações legais.\n\n5 - Quando, por motivos de indisponibilidade dos sistemas de informação, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em causa pode ser realizada por outros meios de transmissão eletrónica de dados que garantam a segurança dos dados transmitidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+  },
+  "213749724": {
+   "fragment_id": "213707047",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação dos contratos de prestação de serviços",
+   "in_force_from": "2023-05-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+   ],
+   "markdown": "###### Artigo 5.º — Verificação dos contratos de prestação de serviços\n\n1 - Nos termos do disposto no n.º 3 do artigo 30.º, no artigo 79.º e no n.º 3 do artigo 81.º do Estatuto e do n.º 3 do artigo 2.º da presente portaria, podem ser realizadas verificações eletrónicas com base nas comunicações efetuadas em cumprimento da presente portaria e as obrigações fiscais e contributivas associadas ao mesmo contrato.\n\n2 - Sem prejuízo de outras atividades de fiscalização, a verificação, pela ACT, da utilização indevida de contrato de prestação de serviço em relações de trabalho subordinado exerce-se através de verificações periódicas, por amostragem, das comunicações realizadas, ao abrigo da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 142/2023 - Diário da República n.º 104/2023, Série I de 2023-05-30](https://diariodarepublica.pt/dr/detalhe/portaria/142-2023-213706996), em vigor a partir de 2023-05-31"
+  },
+  "213749716": {
+   "fragment_id": "213707050",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 31 de dezembro de 2021.\n\nO Ministro de Estado e das Finanças, João Rodrigo Reis Carvalho Leão. - A Ministra da Modernização do Estado e da Administração Pública, Alexandra Ludomila Ribeiro Fernandes Leitão. - A Ministra da Cultura, Graça Maria da Fonseca Caetano Gonçalves. - A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho.\n\n114864443"
+  }
+ }
+}

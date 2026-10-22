@@ -1,0 +1,568 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:412258:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1973-223470674",
+ "dre_path": "/dr/detalhe/portaria/709-1973-412258",
+ "source_lastmod": "2025-06-02",
+ "versions": [
+  {
+   "date": "1973-10-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920666736",
+    "223574017",
+    "223574018",
+    "223574019",
+    "223574020",
+    "223574021",
+    "223574022",
+    "223574023",
+    "223574024",
+    "223574025",
+    "223574026",
+    "223574027",
+    "223574028",
+    "223574029",
+    "223574041",
+    "223574030",
+    "223574031",
+    "223574032",
+    "223574033",
+    "223574034",
+    "223574035",
+    "223574036",
+    "223574037",
+    "223574038",
+    "223574039",
+    "223574040",
+    "223574042",
+    "223574043",
+    "223574044",
+    "223574045",
+    "223574046",
+    "223574047",
+    "223574048",
+    "223574049",
+    "223574050",
+    "223574051"
+   ]
+  },
+  {
+   "date": "1973-11-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:412061:por",
+     "title": "Declaração",
+     "published": "1973-11-22",
+     "dre_path": "/dr/detalhe/declaracao/1973-412061"
+    }
+   ],
+   "changes": [
+    "Retifica Capítulo VIII"
+   ],
+   "fragments": [
+    "223574016",
+    "223574072",
+    "223574017",
+    "223574018",
+    "223574019",
+    "223574020",
+    "223574021",
+    "223574022",
+    "223574023",
+    "920157516",
+    "223574025",
+    "223574026",
+    "223574027",
+    "223574028",
+    "223574029",
+    "223574041",
+    "223574030",
+    "223574031",
+    "223574032",
+    "223574033",
+    "223574805",
+    "223574777",
+    "223574034",
+    "223574035",
+    "223574036",
+    "223574037",
+    "223574779",
+    "223574038",
+    "223574039",
+    "223574040",
+    "223574780",
+    "223574042",
+    "223574043",
+    "223574044",
+    "223574045",
+    "223574788",
+    "223574046",
+    "223574047",
+    "223574048",
+    "223574049",
+    "223574050",
+    "223574051",
+    "223574817",
+    "223574818"
+   ]
+  },
+  {
+   "date": "1982-06-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:395935:por",
+     "title": "Portaria n.º 600/82",
+     "published": "1982-06-18",
+     "dre_path": "/dr/detalhe/portaria/600-1982-395935"
+    }
+   ],
+   "changes": [
+    "Altera Capítulo XI",
+    "Altera 3ª Parte"
+   ],
+   "fragments": [
+    "223574016",
+    "223574072",
+    "223574017",
+    "223574018",
+    "223574019",
+    "223574020",
+    "223574021",
+    "223574022",
+    "223574023",
+    "920157516",
+    "223574025",
+    "223574026",
+    "920455085",
+    "223574028",
+    "223574029",
+    "223574041",
+    "223574030",
+    "223574031",
+    "223574032",
+    "223574033",
+    "223574805",
+    "223574777",
+    "223574034",
+    "223574035",
+    "223574036",
+    "223574037",
+    "223574779",
+    "223574038",
+    "223574039",
+    "223574040",
+    "223574780",
+    "223574042",
+    "223574043",
+    "223574044",
+    "223574045",
+    "223574788",
+    "223574046",
+    "223574047",
+    "223574048",
+    "223574049",
+    "223574050",
+    "223574051",
+    "920455086",
+    "223574818"
+   ]
+  }
+ ],
+ "fragments": {
+  "920666736": {
+   "fragment_id": "223573275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 709/73\n\nde 17 de Outubro\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, aprovar e pôr em execução, para uso da junta de recrutamento e selecção de pessoal navegante e das juntas de recrutamento e selecção de pessoal não navegante, as seguintes tabelas de inaptidão, que substituem as aprovadas pela Portaria n.º 15747, de 27 de Fevereiro de 1956:\n\nTabelas de inaptidão para uso da junta de recrutamento e selecção de pessoal navegante e das juntas de recrutamento e selecção de pessoal não navegante.\n\n> Nota: [Artigo 6.º, Portaria n.º 318/2023 - Diário da República n.º 206/2023, Série I de 2023-10-24](https://diariodarepublica.pt/dr/detalhe/portaria/318-2023-223203767) A presente portaria considera-se revogada a partir da data de entrada em vigor do despacho referido no artigo 2.º do Decreto-Lei n.º 291/99, de 3 de agosto."
+  },
+  "223574017": {
+   "fragment_id": "223573276",
+   "type": 1,
+   "heading": "Capítulo I — Constituição física geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Constituição física geral\n\n1. Altura (ver nota a):\n\nPilotos:\n\nMínima - 1,62 m;\n\nMáxima - 1,85 m.\n\nRestante pessoal da aeronáutica:\n\nMínima - 1,60 m;\n\nMáxima - 1,90 m.\n\n2. O perímetro torácico xifosternal em repouso não deve ser inferior a metade da altura expressa em centímetros (ver nota b).\n\n3. O peso deverá estar em relação com a altura; para os indivíduos entre os 18 e os 21 anos não deverá ultrapassar os seguintes limites (ver nota c):\n\n(ver documento original)\n\n(nota a) A altura total mede-se no estalão, estando o indivíduo com os calcanhares unidos e encostados à haste do estalão, o corpo direito e a cabeça sem qualquer flexão ou extensão; indica-se em metros, centímetros e meios centímetros. Quando a altura não contiver um número exacto de meios centímetros, deve fazer-se o arredondamento para baixo.\n\n(nota b) Mede-se aplicando a fita métrica, horizontalmente, em volta do tórax, por forma que o seu bordo superior rase a base dos mamilos.\n\n(nota c) Deve ser aproximado até aos hectogramas.\n\n(ver documento original)\n\n4. Antes dos 18 anos de idade poderão ser considerados aptos os indivíduos de perímetro torácico e peso inferiores ao exigido, quando apresentem um desenvolvimento harmonioso do seu corpo e seja de prever uma evolução normal do mesmo.\n\n5. A capacidade pulmonar em repouso não deverá ser inferior a 3500 cm3.\n\n6. A duração da apneia voluntária não deverá ser inferior a 50 s em repouso e a 30 s depois do esforço.\n\n7. A temperatura do corpo medida na axila ou na virilha não deverá exceder 37º; sempre que tal se verifique deverá ser averiguada a sua causa e só depois se tomará uma decisão."
+  },
+  "223574018": {
+   "fragment_id": "223573277",
+   "type": 1,
+   "heading": "Capítulo II — Doenças infecciosas e parasitárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Doenças infecciosas e parasitárias\n\n8. Doenças micóticas de qualquer órgão interno ou com lesões externas exigindo tratamento prolongado.\n\n9. Amebíase.\n\n10. Bilharziose.\n\n11. Filarioses.\n\n12. Leishmanioses.\n\n13. Lepra.\n\n14. Quisto hidático.\n\n15. Sezonismo crónico (ver nota a).\n\n16. Sífilis (ver nota b).\n\n17. Tripanossomíases.\n\n18. Tuberculose de qualquer grau ou localização (ver nota c).\n\n(nota a) O sezonismo recidivante acompanhado de anemia ou de esplenomegalia é causa de inaptidão definitiva.\n\n(nota b) Todas as lesões atribuíveis a sífilis evolutiva são causa de inaptidão definitiva.\n\n(nota c) Os complexos primários averiguadamente extintos não determinam incapacidade."
+  },
+  "223574019": {
+   "fragment_id": "223573278",
+   "type": 1,
+   "heading": "Capítulo III — Intoxicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Intoxicações\n\n19. Intoxicações crónicas, com manifestações somáticas ou psíquicas definidas (álcool, arsénio, chumbo, estupefacientes, mercúrio, tabaco, etc.)"
+  },
+  "223574020": {
+   "fragment_id": "223573279",
+   "type": 1,
+   "heading": "Capítulo IV — Lesões comuns a diversos órgãos e aparelhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Lesões comuns a diversos órgãos e aparelhos\n\n20. Corpos estranhos, quando determinem perturbações funcionais acentuadas.\n\n21. Estados alérgicos de difícil ou demorado tratamento ou exigindo cuidados incompatíveis com o serviço.\n\n22. Falta de qualquer órgão (congénita ou adquirida) ou vícios de conformação que acarretem perturbações funcionais ou deformidades incompatíveis com o serviço ou com a estética militar.\n\n23. Fístulas, quando determinem perturbações funcionais bem definidas.\n\n24. Hérnias(ver nota a).\n\n25. Mal dos transportes.\n\n26. Reumatismos crónicos com manifestações bem definidas.\n\n27. Tumores benignos, quando originem perturbações funcionais, causem mau aspecto e dificultem o uso dos artigos militares.\n\n28. Tumores malignos."
+  },
+  "223574021": {
+   "fragment_id": "223573280",
+   "type": 1,
+   "heading": "Capítulo V — Doenças por carência do metabolismo e das glândulas endócrinas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Doenças por carência do metabolismo e das glândulas endócrinas\n\n29. Acromegalia.\n\n30. Avitaminoses bem caracterizadas.\n\n31. Bócio simples quando dê lugar a fenómenos de compressão mecânica das estruturas anatómicas vizinhas ou prejudique o uso do uniforme ou equipamento militar.\n\n32. Diabetes insípida.\n\n33. Diabetes mellitus.\n\n34. Diabetes bronzeada.\n\n35. Distrofia adiposa genital (síndroma de Frölich).\n\n36. Gigantismo Nanismo.\n\n37. Glicosúrias persistentes.\n\n38. Gota.\n\n39. Hermafroditismo e pseudo-hermafroditismo.\n\n40. Hiperisulinismo.\n\n41. Hiperplasia do timo.\n\n42. Doença de Basedow e outras formas da hipertiroidismo.\n\n43. Hipogenitalismo: quadros morfológicos de intersexualidade.\n\n44. Hipoparatiroidismo e hiperparatirotidismo.\n\n45. Mixedema e outras formas de hipotiroidismo.\n\n46. Insuficiência supra-renal.\n\n47. Obesidade, mesmo incipiente.\n\n48. Síndroma de Cushing.\n\n49. Todas as demais disfunções ou afecções orgânicas de qualquer das glândulas de secreção interna, bem manifestadas ou suspeitas de evolução progressiva.\n\n50. Doenças de colagénio (lúpus, dermatomiosite, periarterite nodosa, esclerodermia)."
+  },
+  "223574022": {
+   "fragment_id": "223573281",
+   "type": 1,
+   "heading": "Capítulo VI — Doenças do sangue, órgãos hematopoéticos e sistema linfático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Doenças do sangue, órgãos hematopoéticos e sistema linfático\n\n51. Agranulocitoses.\n\n52. Anemia esplénica e síndroma de Banti.\n\n53. Anemia aplástica.\n\n54. Anemia perniciosa.\n\n55. Anemias hemolíticas.\n\n56. Anemias pós-hemorrágicas.\n\n57. Diáteses hemorrágicas.\n\n58. Doença de Hodgkin e outras granulomatoses malignas.\n\n59. Esplenectomia por qualquer causa.\n\n60. Esplenomegalia acentuada por qualquer causa.\n\n61. Hemoglobinúrias e mioglobinúrias.\n\n62. Hiperpiasias do sistema reticuloendotelial (reticuloendoteliose maligna, reticulossarcoma, linfossarcoma, linfoblastoma falicular).\n\n63. Leucemias.\n\n64. Perturbações da circulação linfática (elefantíase, etc.) que, pela sua natureza e localização, sejam susceptíveis de agravamento ou interfiram com a função.\n\n65. Policitemia verdadeira.\n\n66. Tesaurismoses.\n\n(nota a) As cicatrizes por herniorafia serão eliminatórias quando tenham menos de seis meses ou sejam aderentes, não flexíveis ou apresentem impulsão à tosse."
+  },
+  "223574023": {
+   "fragment_id": "223573282",
+   "type": 1,
+   "heading": "Capítulo VII — Doença do aparelho cárdio-vascular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Doença do aparelho cárdio-vascular\n\n67. Aneurisma de qualquer vaso.\n\n68. Arritmia, persistente ou paroxística, com repercussão sobre o regime circulatório ou estado geral (fibrilação auricular, pulso lento permanente, taquicardia paroxística ou extra-sistolia muito frequente ou complexa).\n\n69. Arterites obliterantes e outras arteriopatias crónicas que afectem a circulação periférica.\n\n70. Astenia neurocirculatória quando bem comprovada.\n\n71. Bloqueio cardíaco.\n\n72. Cardiopatia congénita.\n\n73. Cardiopatia coronária.\n\n74. Cardiopatia valvular.\n\n75. Endocardite bacteriana e outras endocardites.\n\n76. Hipertensão arterial, quando de valores definitivamente anormais e persistente, não atribuível a reacção psicogénea, mas secundária a doença renal ou outra sistemática.\n\n77. Hipertrofia cardíaca, comprovada radiograficamente e quando acompanhada de outras anormalidades clínicas ou eloctrocardiográfricas.\n\n78. Insuficiência cardíacas.\n\n79. Miocardite e outras doenças do miocárdio, quando comprovadas radiográfica ou electrocardiograficamente.\n\n80. Pericardite.\n\n81. Taquicardia permanente.\n\n82. Tromboflebite, quando exista persistência do trombo ou evidência da obstrução circulatória das artérias ou veias da região afectada.\n\n83. Varizes.\n\n84. Angiomas que, pelo seu número, volume e sede, causem perturbações funcionais ou dêem mau aspecto militar."
+  },
+  "223574024": {
+   "fragment_id": "223573283",
+   "type": 1,
+   "heading": "Capítulo VIII — Doenças do aparelho respiratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Doenças do aparelho respiratório\n\n85. Abcesso pulmonar.\n\n86. Bronquectasias.\n\n87. Bronquites.\n\n88. Enfizema pulmonar.\n\n89. Esclerose pulmonar.\n\n90. Gangrena pulmonar.\n\n91. Paquipleurites(ver nota a).\n\n92. Outros processos inflamatórios, crónicos, tumorais ou sequelas de lesões extintas dos brônquios, pulmões, pleuras ou de mediastino, produzindo perturbações funcionais acentuadas.\n\n93. Pleurisias serodibrinosas, purulentas ou hemorrágicas.\n\n94. Pneumoconioses.\n\n95. Pneumotórax espontâneo.\n\n(nota a) Será causa de inaptidão uma anamnese de pleurisia de natureza desconhecida ocorrida há menos de um ano e as paquipleurites que interfiram com a função respiratória ou que sejam consequência de processos pleuropulmonares de natureza tuberculosa."
+  },
+  "223574025": {
+   "fragment_id": "223573284",
+   "type": 1,
+   "heading": "Capítulo IX — Doenças do aparelho digestivo, glândulas anexas e parede abdominal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Doenças do aparelho digestivo, glândulas anexas e parede abdominal\n\n96. Acalásias viscerais.\n\n97. Apendicite (ver nota b).\n\n98. Apertos e prolapsos rectais.\n\n99. Colecistites, com ou sem colelitíase.\n\n100. Colites graves (ulcerativas e outros tipos de colites não ulcerativas, quando causem perturbações acentuadas e persistentes).\n\n101. Dentes naturais ou artificiais em número tal que não permitam a mastigação da uma refeição normal.\n\n102. Enterites ou colites crónicas, não ulcerosas.\n\n103. Colite ulcerosa, com graves repercussões gerais.\n\n104. Diverticulites do esófago, estômago, duodeno ou intestino, comprovadas radiograficamente e com perturbações funcionais.\n\n105. Estenoses ou dilatação idiopática do esófago.\n\n106. Eventrações ou diminuição da resistência da parede abdominal por qualquer causa.\n\n107. Gastrites com perturbações funcionais acentuadas e persistentes.\n\n108. Hemorróidas internas, volumosas ou acompanhadas de rectorragias graves ou prolapsadas intermitentes ou permanentes.\n\n109. Hepatopatias com ou sem icterícia, com insuficiência comprovada da função hepática.\n\n110. Lábio leporino e mutilações nos lábios por feridas, queimaduras, etc.\n\n111. Malformações ou doenças da boca e da língua, quando perturbem a mastigação, a deglutição, a linguagem ou tenham carácter progressivo.\n\n112. Mau hálito impedindo a vida colectiva.\n\n113. Pancreatites com perturbações funcionais acentuadas e persistentes.\n\n114. Perfurações, aderências ou paralisia do véu do paladar.\n\n115. Peritonites.\n\n116. Piorreia alveolar.\n\n117. Poliposes externas.\n\n118. Proctites, abcessos isquiorrectais, incontinências, fissuras e prurido anal, quando com carácter crónico e determinem acentuadas perturbações locais ou gerais.\n\n119. Prognatismo e deformidades dos maxilares em grau tal que impeça a oclusão útil das peças dentárias.\n\n120. Ptoses ou transposição das vísceras abdominais, quando acarretem perturbações funcionais evidentes.\n\n121. Úlceras pépticas do esófago, estômago e duodeno confirmadas pelos métodos usuais de diagnóstico, bem como os gastrectomizados ou gastroenterostomizados e individuos com recessões parciais do intestino ou com operações para desfazer aderências.\n\n(nota b) As cicatrizes por apendicectomia serão eliminatórias quando forem aderentes, não flexíveis ou apresentem impulsão à tosse."
+  },
+  "223574026": {
+   "fragment_id": "223573285",
+   "type": 1,
+   "heading": "Capítulo X — Doenças do aparelho génito-urinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Doenças do aparelho génito-urinário\n\n122. Abcesso prostático.\n\n123. Apertos da uretra.\n\n124. Atrofia acentuada ou perda de ambos os testículos.\n\n125. Blenorragia.\n\n126. Calculose renal, uretral ou vesical.\n\n127. Cancro mole.\n\n128. Cistites.\n\n129. Doenças de Nicolas-Favre.\n\n130. Ectopia testicular bilateral ou unilateral, quando haja retenção no canal inguinal.\n\n131. Enureses.\n\n132. Epididimites.\n\n133. Epispádias ou hipospádias, quando situadas atrás do freio prepucial.\n\n134. Granuloma ulceroso venéreo.\n\n135. Hidrocelo, quando bem definido.\n\n136. Hidronefroses e pionefroses.\n\n137. Hipertrofia prostática.\n\n138. Incontinência ou retenção de urina.\n\n139. Nefrites e nefroses.\n\n140. Orquites.\n\n141. Perda total ou parcial do pénis.\n\n142. Pielonefrites.\n\n143. Prostatites.\n\n144. Ptose renal ou perda de um rim.\n\n145. Varicocelo, quando bem definido.\n\n146. Vesiculites."
+  },
+  "223574027": {
+   "fragment_id": "223573286",
+   "type": 1,
+   "heading": "Capítulo XI — Doenças do aparelho visual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Doenças do aparelho visual\n\nAparelho lacrimal\n\n147. Dacriocistite aguda ou crónica.\n\n148. Epífora.\n\n149. Formações quísticas ou inflamatórias crónicas da glândula lacrimal.\n\nAparelho oculomotor\n\n150. Diplopia.\n\n151. Heterotropia.\n\n152. Nistagmo.\n\nConjuntiva\n\n153. Conjuntivites crónicas ou de curso arrastado rebeldes ao tratamento (nomeadamente tracoma e conjuntivite primaveril).\n\n154. Pterígio.\n\n155. Simbléfaro.\n\n156. Xeroftalmia.\n\nCórnea\n\n157. Alterações da forma ou da transparência com prejuízo visual.\n\n158. Queratites crónicas ou recidivantes.\n\n159. Úlceras recidivantes da córnea.\n\nEsclerótica\n\n160. Doenças inflamatórias, crónicas ou recidivantes da esclerótica.\n\n161. Escleromalácia.\n\nGlobo ocular\n\n162. Exoftalmo acentuado com prejuízo da protecção ocular.\n\n163. Glaucoma.\n\n164. Oftalmomalácia.\n\nMeios oculares\n\n165. Alterações da posição (subluxação do cristalino).\n\n166. Alterações da transparência.\n\nMembranas internas\n\n167. Alterações da forma ou das dimensões das pupilas ou das suas reacções com significado patológico ou prejuízo da função.\n\n168. Angiopatias retinianas.\n\n169. Colubomas com prejuízo da função.\n\n170. Coriorretinopatias.\n\n171. Retinopatias.\n\n172. Uveítes agudas, crónicas ou de carácter recidivante.\n\nNervo óptico\n\n173. Atrofia óptica.\n\n174. Estase papilar.\n\n175. Nevrites ópticas.\n\nPálpebras\n\n176. Alterações da forma ou de posição das pálpebras, diminuindo a protecção do globo ocular ou sendo causa de irritação.\n\n177. Distriquíase.\n\n178. Lagoftalmia.\n\n179. Ptose interferindo com a visão.\n\nPerturbações da função\n\n180. Discromatopsia para o verde e vermelho.\n\n181. Agudeza visual - é incompatível com todo o serviço da aeronáutica uma agudeza visual inferior a 1/10 num dos olhos e 5/10 no outro, medida nas tabelas regulamentares, depois da correcção com lentes apropriadas.\n\na) Para praças especialistas torna-se necessária a agudeza visual mínima de 5/10 e corrigível para 10/10 com lentes apropriadas.\n\n182. Ametropias - mesmo permitindo a visão igual ou superior à estabelecida no n.º 181, são incompatíveis com todo o serviço, quando objectivamente se verifique serem superiores a nove dioptrias em ambos os olhos, bem como as anisometropias muito acentuadas que não permitam correcção utilizável dentro dos limites de visão fixados no n.º 181.\n\n183. Campo visual - as hemianopsias, os escotomas extensos e as retracções concêntricas, quando bilaterais e superiores a 40º.\n\n184. Hemeralopia incurável."
+  },
+  "223574028": {
+   "fragment_id": "223573287",
+   "type": 1,
+   "heading": "Capítulo XII — Doenças dos ouvidos, nariz, faringe e laringe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Doenças dos ouvidos, nariz, faringe e laringe\n\nOuvidos\n\n185. Esvaziamento petromastóideo com fístula residual ou com cavidade anterotimpânica não epidermizada.\n\n186. Labirintites com perturbações funcionais acentuadas:\n\na) Cocleares, nas condições do n.º 193;\n\nb) Vestibulares, quando resulte síndroma vertiginosa permanente ou intermitente, devidamente comprovada.\n\n187. Labirintites crónicas.\n\n188. Labirinto-traumatismo com lesões funcionais persistentes nas condições do n.º 186.\n\n189. Otite externa crónica em grau acentuado.\n\n190. Otite média purulenta crónica, qualquer que seja a sua natureza.\n\n191. Otorreia tubária.\n\n192. Perda total ou notável deformidade do pavilhão da orelha, quando resulte mau aspecto militar ou impeça o uso de artigos militares, especialmente os auscultadores e os capacetes.\n\n193. Surdez incurável total ou diminuição bilateral da audição abaixo dos seguintes limites:\n\nLimites de agudeza auditiva que permitem o apuramento para o serviço da aeronáutica:\n\nVoz baixa com ar residual ouvida a 0,5 m;\n\nVoz alta ouvida a 20 m;\n\nVoz de comando ouvida a 30 m.\n\nNariz\n\n194. Deformidades congénitas ou adquiridas da via aérea, quando resulte mau aspecto militar ou dificuldade acentuada de qualquer função importante (respiração, fonação e deglutição).\n\n195. Rinites atróficas (ozena, etc.).\n\n196. Polipose.\n\n197. Sinusites.\n\nFaringe e laringe\n\n198. Anquiloses crico-aritenoideias, estenoses cicatriciais, quando daí resultem paralisias motoras.\n\n199. Laringites crónicas com alterações orgânicas ou perturbações funcionais.\n\n200. Malformação congénita ou adquirida da nasofaringe ou da trompa de Eustáquio em grau suficiente que altere a sua função.\n\n201. Paralisias motoras da laringe causando dificuldades da respiração ou acentuado defeito da fonação.\n\n202. Prolapso do ventrículo, quando resultem as condições do n.º 199.\n\n203. Qualquer processo cirúrgico, inflamatório ou infeccioso, até cura completa e a região atingida ficar funcionalmente normal."
+  },
+  "223574029": {
+   "fragment_id": "223573288",
+   "type": 1,
+   "heading": "Capítulo XIII — Doenças nervosas e mentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Doenças nervosas e mentais\n\nNeurologia\n\n204. Afecções extrapiramidais.\n\n205. Afecções inflamatórias das meninges ocorridas há menos de um ano; suas sequelas.\n\n206. Afecções inflamatórias do sistema nervoso central (encefalites, abcessos, mielites, incluindo poliomielite, nevraxites) ocorridas há menos de um ano; suas sequelas.\n\n207. Afecções inflamatórias dos nervos periféricos, raízes e plexos ocorridas há menos de um ano; suas sequelas.\n\n208. Afecções vasculares do sistema nervoso; malformações e tumores vasculares; suas sequelas.\n\n209. Discopatias vertebrais com sintomatologia dolorosa ou deficitária.\n\n210. Distrofia muscular progressiva e doenças afins.\n\n211. Enxaqueca grave.\n\n212. Epilepsia.\n\n213. Esclerose em placas e doenças afins.\n\n214. Esclerose lateral amiotrófica e doenças afins; mielose funicular.\n\n215. Gaguez, surdo-mudez, tartamudez e mudez.\n\n216. Heredodegenerescências espinocerebelosas.\n\n217. Impotência coeundi de qualquer origem.\n\n218. Miotonia, miastenia, distrofia miotónica.\n\n219. Neuroses motoras graves (tiques, tremores, cãibras dos escrivães, etc.).\n\n220. Neurossífilis em evolução.\n\n221. Sequelas graves de feridas ou traumatismos dos nervos periférico.\n\n222. Sequelas graves de traumatismos craniocerebrais ou vertebromedulares.\n\n223. Tumores do sistema nervoso central; siringomielia.\n\n224. Tumores dos nervos periféricos; doença de Recklinghausen.\n\nPsiquiatria\n\n225. Esquizofrenia.\n\n226. Oligofrenia.\n\n227. Paranóia.\n\n228. Personalidades psicopáticas.\n\n229. Psiconeurose ansiosa.\n\n230. Psiconeurose histérica.\n\n231. Psiconeurose obsessiva grave.\n\n232. Psicose maniacododepressiva.\n\n233. Psicoses exógenas.\n\n234. Psicoses orgânicas senis e pré-senis."
+  },
+  "223574041": {
+   "fragment_id": "223573300",
+   "type": 1,
+   "heading": "Capítulo IV — Doenças nervosas e mentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Doenças nervosas e mentais\n\nIgual ao capítulo IV da tabela complementar n.º 1.\n\nTabela complementar n.º 3"
+  },
+  "223574030": {
+   "fragment_id": "223573289",
+   "type": 1,
+   "heading": "Capítulo XIV — Doenças e lesões da pele",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIV — Doenças e lesões da pele\n\n235. Acne juvenil (ver nota a).\n\n236. Acne necrótica e quística (ver nota a).\n\n237. Alopecias (ver nota a).\n\n238. Atrofias cutâneas (esclerodermias, poiquilodermias e anetodermias).\n\n239. Calos e calosidades da planta do pé, quando dolorosas e sensíveis, desde que interfiram com a marcha ou o uso do calçado regulamentar.\n\n240. Cicatrizes extensas, profundas e aderentes, quando interfiram com os movimentos, apresentem impulsão à tosse ou produzam mau aspecto militar.\n\n241. Discromias (albinismo, vitíligo, melanodermia, etc.)(ver nota a).\n\n242. Eczemas - Neurodermites.\n\n243. Eritrodermias.\n\n244. Hematodermias (micose fungóide, etc.).\n\n245. Hidroses funcionais (hiperidrose, efidrose e bromidrose), quando bem caracterizadas com macerações ou ulcerações da pele.\n\n246. Ictiose e estados ictiosiformes (doença de Meleda, etc.)\n\n247. Lúpus eritematoso.\n\n248. Nevos (ver nota a).\n\n249. Onicose.\n\n250. Parapsoríases.\n\n251. Pênfigos e dermatoses bolhosas.\n\n252. Psoríase.\n\n253. Tinhas.\n\n254. Úlceras.\n\n(nota a) Quando as lesões forem muito extensas e produzam mau aspecto militar, ou que pela sua situação prejudiquem os movimentos, o uso de fardamento ou do equipamento."
+  },
+  "223574031": {
+   "fragment_id": "223573290",
+   "type": 1,
+   "heading": "Capítulo XV — Doenças dos ossos, articulações, músculos e tendões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XV — Doenças dos ossos, articulações, músculos e tendões\n\n255. Artrites e suas sequelas (anciloses, rigidez articular e dores permanentes ou periódicas).\n\n256. Artrodese e artroplastia.\n\n257. Artropatias degenerativas.\n\n258. Atrofia e contracção muscular com importante perturbação funcional.\n\n259. Condrodistrofias e distrofias ósseas.\n\n260. Lesões dos discos intervertebrais, especialmente quando acompanhadas de lesões nervosas bem caracterizadas (hérnia do núcleo polposo).\n\n261. Lesões dos meniscos da articulação do joelho, quando bem caracterizadas.\n\n262. Luxações e suas sequelas.\n\n263. Ossificação heterotópica.\n\n264. Osteoartrites.\n\n265. Osteocondrites.\n\n266. Osteomielites.\n\n267. Roturas ou aderências tendinosas com importante perturbação funcional.\n\n268. Sequelas de fracturas:\n\na) Deformação óssea ou articular dos membros com interferência da função;\n\nb) Fractura consolidada com calo vicioso;\n\nc) Fractura com consolidação retardada;\n\nd) Fractura consolidada com interferência da função;\n\ne) Fractura consolidada defeituosamente;\n\nf) Fractura não consolidada (pseudartrose).\n\n269. Sinovites.\n\n270. Tenossinovites."
+  },
+  "223574032": {
+   "fragment_id": "223573291",
+   "type": 1,
+   "heading": "Capítulo XVI — Deformidades congénitas ou adquiridas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XVI — Deformidades congénitas ou adquiridas\n\n271. Cavalgamento de dedos, quando seja completo, prejudicando a marcha de modo bem apreciável ou quando dificulte o uso do calçado regulamentar.\n\n272. Costela cervical, quando dê lugar a perturbações nervosas ou circulatórias.\n\n273. Cotovelo varo ou valgo, quando interfira com o serviço ou dê mau aspecto militar.\n\n274. Coxa vara ou valga.\n\n275. Dedos em martelo, quando os rebordos ungueais apoiem sobre o plano da planta do pé ou quando na face dorsal dos dedos existam evidentes sinais de irritação traumática provocada pelo calçado.\n\n276. Desvios da coluna vertebral (cifose, escoliose e lordose) que causem perturbações incompatíveis com o serviço ou dêem mau aspecto militar.\n\n277. Encurtamento de qualquer membro ou seu segmento que cause perturbações incompatíveis com o serviço ou dê mau aspecto militar.\n\n278. Espina bífida aparente (com alterações morfológicas ou funcionais ou tumor exterior).\n\n279. Espondilolistese.\n\n280. Falta das falanges terminal e média de quaisquer dois dedos da mesma mão.\n\n281. Falta de mais do que uma falange do indicador da mão direita.\n\n282. Falta de qualquer dedo, com excepção do mínimo, de qualquer das mãos.\n\n283. Falta de qualquer polegar ou parte dele, causando perturbações incompatíveis com o serviço.\n\n284. Falta do dedo grande de qualquer pé ou de dois dedos do mesmo pé.\n\n285. Falta de um membro ou de qualquer dos seus quatro segmentos.\n\n286. Hallux valgus acentuado que dificulte ou impeça o uso do calçado regulamentar.\n\n287. Joelho valgo, quando, colocados os côndilos femurais em contacto, os meléolos internos fiquem afastados mais de 10 cm.\n\n288. Joelho varo, quando, colocados os maléolos internos em contacto, os côndilos internos do fémur fiquem afastados mais de 10 cm.\n\n289. Lombarização da primeira vértebra sagrada (quando produzindo sintomas).\n\n290. Luxação congénita da anca e outras malformações ou deformidade da bacia suficientes para intervir com a função.\n\n291. Luxação congénita da rótula.\n\n292. Malformações ou deformidades do crânio e da face que causem perturbações funcionais ou dêem mau aspecto militar.\n\n293. Malformações ou deformidades do tórax que causem perturbações funcionais ou dêem mau aspecto militar.\n\n294. Ónix de difícil ou demorado tratamento.\n\n295. Osteosclerose.\n\n296. Pé cavo, quando pelo seu grau possa produzir perturbações de marcha.\n\n297. Pé chato, quando se comprove à exploração sintomas de pé fraco ou haja pronunciado desvio em valgo, mesmo quando não acompanhado de sintomas subjectivos.\n\n298. Pé varo, valgo, equino e tallus, quer estas variedades se apresentem isoladas ou associadas, quando forem em grau acentuado e prejudiquem a marcha.\n\n299. Rigidez, curvatura, flexão ou extensão permanente de um ou mais dedos da mão, determinando considerável embaraço para a execução de movimentos.\n\n300. Sacralização da quinta vértebra lombar (quando produzindo sintomas).\n\n301. Sindactilia.\n\n302. Torcicolo."
+  },
+  "223574033": {
+   "fragment_id": "223573292",
+   "type": 1,
+   "heading": "Capítulo XVII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XVII\n\n303. Outras doenças cuja evolução no sentido da cura completa e definitiva possa ser demorada ou não se verifique e malformações ou deformidades, quando interfiram com a função ou dêem mau aspecto militar, que não tivessem sido discriminadas em qualquer dos capítulos anteriores."
+  },
+  "223574034": {
+   "fragment_id": "223573293",
+   "type": 1,
+   "heading": "Capítulo I — Doenças do aparelho cardiovascular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Doenças do aparelho cardiovascular\n\n1. Arritmia cardíaca, excepto arritmia sinusal moderada ou extra-sístoles unifocais raras e isoladas.\n\n2. Arteriosclerose em grau desproporcionado à idade.\n\n3. Electrocardiograma nitidamente anormal.\n\n4. Hipertensão arterial, quando a tensão arterial sistólica exceda 15 e a diastólica 9.\n\n5. Hipertrofia cardíaca, quando o diâmetro transverso total exceder em 10% os valores da tabela Ungerleider-Clark (ver anexo II do n.º 7 do capítulo de instruções).\n\n6. Hipotensão arterial, quando a tensão arterial sistólica não atingir 10.\n\n7. Hipotensão ortostática.\n\n8. História de taquicardia paroxística, fibrilação ou flutter articular, mesmo limitada a um único ataque, ou de coreia ou reumatismo articular agudo e difteria nos últimos dois anos.\n\n9. Perturbações da circulação periférica.\n\n10. Sopro diastólico.\n\n11. Sopro sistólico significativo.\n\n12. Teste neurocirculatório (índice de Schneider) inferior a 8.\n\n(ver anexo I do n.º 7 do capítulo de instruções.)"
+  },
+  "223574035": {
+   "fragment_id": "223573294",
+   "type": 1,
+   "heading": "Capítulo II — Doenças do aparelho visual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Doenças do aparelho visual\n\n13. Acomodação - quando não esteja de acordo com a idade e seja inferior ao mínimo fixado pela tabela seguinte:\n\n(ver documento original)\n\n14. Campos visuais:\n\na) Periférico - toda a retracção igual ou superior a 15º em qualquer meridiano, a não ser que esteja em relação com a conformação da face;\n\nb) Escotomas graficamente demonstráveis, além do fisiológico.\n\n15. Equilíbrio oculomotor:\n\na) Enoforia superior a 10 dioptrias prismáticas;\n\nb) Exoforia superior a 5 dioptrias prismáticas;\n\nc) Hiperforia superior a 1 dioptria prismática;\n\nd) Amplitude de fusão: igual ou inferior a 15º (medida no amblioscópio);\n\ne) Ponto próximo de convergência superior à distância pupilar (nunca excedendo 72 mm).\n\n16. Índice de deslumbramento - acuidade inferior a 0,1, medida contra um foco luminoso emitido por um farol de 800 velas, de 10 cm de diâmetro, colocado ao lado do optótipo, visto a 5 m.\n\n17. Rapidez de percepção visual - a posição da abertura de um anel de Landold de ni = 0,1, localizada em mais de 1 s de exposição e a cor de uma chama em mais de 1/4 s.\n\n18. Refracção - em cicloplegia.\n\nHipermetropia superior a + 2 D.\n\nMiopia, em qualquer grau.\n\nAstigmatimo superior a (mais ou menos) 0,50 D, em qualquer meridiano.\n\n19. Senso cromático - qualquer grau de discromatopsia.\n\n20. Senso de profundidade - erro superior a 30 mm na média de cinco medições.\n\n21. Senso das formas:\n\na) Visão de longe-inferior a 10/10 = 1, sem correcção, medida separadamente para cada olho, nas tabelas regulamentares adoptadas no Exército português;\n\nb) Visão de perto-inferior a 30/30 = 1, sem correcção, medida separadamente para cada olho, na respectiva tabela regulamentar adoptada no Exército português.\n\n22. Senso luminoso - qualquer grau de hemeralopia (a curva de adaptação retiniana não deve mostrar qualquer deficit em relação à considerada normal para o método de exame utilizado).\n\n23. Visão estereoscópica - imperfeita."
+  },
+  "223574036": {
+   "fragment_id": "223573295",
+   "type": 1,
+   "heading": "Capítulo III — Doenças dos ouvidos, nariz, faringe e laringe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Doenças dos ouvidos, nariz, faringe e laringe\n\nOuvidos\n\n24. Anormal função labiríntica, determinada pelos testes apropriados (ver nota a).\n\n(nota a) Electronistagmografia.\n\n25. Atresia do canal auditivo externo em grau que não permita a correcta observação timpânica ou o acesso, tanto do canal como da caixa, a manobras terapêuticas.\n\n26. Audição - quando a acuidade auditiva for abaixo dos seguintes valores:\n\n4.5/4.5 em ambos os ouvidos, expresso em metros, para voz ciciada, ou a perda em decibéis for superior à seguinte tabela:\n\nPerda máxima audiométrica\n\n(ver documento original)\n\n27. Doença de Menière.\n\n28. Infiltrações brancas (placas calcárias) ocupando mais de 50% do tímpano abaixo das pregas timpanomaleolares e associadas com imobilidade da membrana do tímpano ou com hipoacusia, nas condições do n.º 26 desta tabela.\n\n29. Labilidade vestibular, quando acompanhada de reflexos neurovegetativos bem marcados (palidez, suores, náuseas e vómitos) e exista diferença de excitabilidade entre um e outro labirinto.\n\n30. Operação de esvaziamento petromastóideo ou de otoesclerose.\n\n31. Sequelas de otite com perfuração timpânica ou aderências dos ossinhos à parte interna da caixa.\n\nNariz\n\n32. Obstrução nasal, qualquer que seja a sua natureza; desvio do septo, a existência de cristas ou esporões de que resulte 50% ou mais de obstrução de qualquer das fossas nasais e que impeça a introdução da sonda de Itard ou interfira com a drenagem dos seios.\n\n33. Operações para o tratamento cirúrgico de sinusites, de hiperplasia dos cornetos (turbinectomias parciais), pólipos, tumores benignos, sinéquias e desvios do septo, caso se não observe a cura completa ou a estática endo e paranasal não seja funcionalmente normal.\n\n34. Perfurações do septo, quando, pelo seu tamanho, resultem alterações da função ou formação de crostas ou sejam causadas por doença orgânica.\n\n35. Rinites alérgicas.\n\n36. Rinites atróficas, quando bem marcadas, permitindo uma directa observação da parede posterior da faringe, mesmo sem crostas fétidas.\n\n37. Rinites hipertróficas (hipertrofia da cauda ou da cabeça dos cornetos inferiores) da cabeça.\n\nFaringe e laringe\n\n38. Adenoidite crónica, quando, pelo seu tamanho ou localização, provoque obstrução nasal nas condições do n.º 32 desta tabela, e obstrução tubária em qualquer grau.\n\n39. Anciloses cricoaritenóideas, estenoses cicatriciais ou sequelas evidentes de epiglotites específicas.\n\n40. Hipertrofia das amígdalas em grau que altere a respiração (respiração ruidosa e bucal) ou a fonação, de modo a assegurar a regular conversação pela rádio.\n\n41. História de edema laríngeo angioneurótico.\n\n42. Malformação congénita ou adquirida da nasofaringe ou da trompa de Eustáquio em grau suficiente que altere a sua função.\n\n43. Paralisias da laringe.\n\n44. Qualquer defeito da fala que impeça a clara dicção na comunicação radiotelefónica."
+  },
+  "223574037": {
+   "fragment_id": "223573296",
+   "type": 1,
+   "heading": "Capítulo IV — Doenças nervosas e mentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Doenças nervosas e mentais\n\nNeurologia\n\n45. Afecções extrapiramidais; degenerescência hepatolenticular; distonias, coreias e atetoses; síndromas parkinsónicas.\n\n46. Afecções inflamatórias das meninges e suas sequelas, sob qualquer forma.\n\n47. Afecções inflamatórias do sistema nervoso central (encefalites, abcessos, mielites, incluindo poliomielite, e nevraxites) e suas sequelas em qualquer grau.\n\n48. Afecções inflamatórias dos nervos periféricos, raízes e plexos; suas sequelas sob qualquer forma; nevralgias.\n\n49. Afecções vasculares do sistema nervoso; malformações e tumores vasculares; sequelas de acidentes hemorrágicos.\n\n50. Convulsões paroxísticas; perdas repetidas de conhecimento ou qualquer alteração fugaz da consciência (epilepsia em todas as suas formas, síncope ou lipotimia, narcolepsia, etc.).\n\n51. Discopatias vertebrais com sintomas radiculares ou medulares, em particular ciática ou braquialgia, permanente ou paroxística, em qualquer grau.\n\n52. Distrofia muscular progressiva e doenças afins; amiotrofias e musculares em qualquer grau.\n\n53. Enxaqueca em qualquer grau.\n\n54. Esclerose em placas e encefalomielites crónicas.\n\n55. Esclerose lateral amiotrófica; paralisia espinal espástica; amiotrofias espinais; mielose funicular.\n\n56. Gaguez, surdo-mudez, tartamudex e mudez.\n\n57. Heredodegenerescências espinocerebelosas (doença de Friedreich e afins).\n\n58. Impotência coeundi de qualquer origem.\n\n59. Miotonia, miastenia, distrofia miotónica.\n\n60. Neuroses motoras em qualquer grau, em particular tiques, tremores e onicofagia.\n\n61. Neurossífilis (paralisia geral, tabes, meningomielite e qualquer outra forma de sífilis); serologia positiva para a sífilis em qualquer grau e em qualquer época da vida.\n\n62. Traumatismos cranioencefálicos, desde que tenham implicado inconsciência prolongada, defeito ósseo (por traumatismo ou trepanação), sequelas neurológicas ou encefalopatia pós-traumática.\n\n63. Alterações permanentes do traçado electroencefalográfico, quaisquer que sejam as suas causas.\n\n64. Traumatismo e feridas dos nervos periféricos, com sequelas de qualquer gravidade.\n\n65. Traumatismos vertebromedulares, desde que haja alterações ósseas da coluna, sequelas neurológicas, alterações esfincterianas ou genitais.\n\n66. Tumores do sistema nervoso central; siringomielia.\n\n67. Tumores dos nervos periféricos; doença de Recklinghausen.\n\nPsiquiatria\n\n68. Esquizofrenia, processos e reacções de todos os tipos.\n\n69. Oligofrenias, em particular debilidade mental, de qualquer grau.\n\n70. Paranóia; personalidade querulenta.\n\n71. Personalidades psicopáticas de qualquer tipo, particularmente:\n\na) Anormais sexuais, em particular invertidos;\n\nb) Ciclomíticas, com variações periódicas e excessivas do humor;\n\nc) Delinquentes habituais, inconformistas e anti-sociais;\n\nd) Esquizóides, com autismo e excentricidades;\n\ne) Inadaptáveis à vida social;\n\nf) Irritáveis e explosivos.\n\n72. Psiconeurose histérica (personalidade histérica marcada; reacções de conversão).\n\n73. Psiconeurose obsessiva (existência actual ou história de fobias, obsessões, actividades compulsivas, repetitivas ou outras manifestações).\n\n74. Psiconeuroses de angústia e reacções ansiosas, incluindo psicoses de espavento, reacções de pânico, emotividade exagerada, reacções de somatização.\n\n75. Psicose maníaco-depressiva; depressões e excitações reaccionais; depressões involutivas.\n\n76. Psicoses exógenas, quando bem caracterizadas e de evolução prolongada; psicose de Korsakoff.\n\n77. Psicoses orgânicas senis e pré-senis; demência senil, demência arteriosclerótica, doenças de Pick e Alzheimer.\n\n78. Perfil psicológico e psicotécnico incompatível com as diferentes actividades de voo."
+  },
+  "223574038": {
+   "fragment_id": "223573297",
+   "type": 1,
+   "heading": "Capítulo I — Doenças do aparelho cardiovascular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Doenças do aparelho cardiovascular\n\nIgual ao capítulo I da tabela complementar n.º 1."
+  },
+  "223574039": {
+   "fragment_id": "223573298",
+   "type": 1,
+   "heading": "Capítulo II — Doenças do aparelho visual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Doenças do aparelho visual\n\n79. Igual ao capítulo II da tabela complementar n.º 1, tolerando-se, contudo, ligeiras deficiências que se corrijam totalmente com óculos, desde que sem óculos a visão não seja inferior a 5/10 e 7/10 num e noutro olho."
+  },
+  "223574040": {
+   "fragment_id": "223573299",
+   "type": 1,
+   "heading": "Capítulo III — Doenças dos ouvidos, nariz, faringe e laringe igual ao capítulo III da tabela complementar n.º 1.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Doenças dos ouvidos, nariz, faringe e laringe igual ao capítulo III da tabela complementar n.º 1."
+  },
+  "223574042": {
+   "fragment_id": "223573301",
+   "type": 1,
+   "heading": "Capítulo I — Doenças do aparelho cárdio-vascular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Doenças do aparelho cárdio-vascular\n\n80. Arritmia cardíaca, excepto arritmia sinusal, ou extra-sistoles unifocais isoladas.\n\n81. Hipotensão arterial, quando a tensão arterial sistólica não atingir 9,5.\n\n82. Hipotensão ortostática.\n\n83. Irrigação arterial insuficiente de qualquer membro."
+  },
+  "223574043": {
+   "fragment_id": "223573302",
+   "type": 1,
+   "heading": "Capítulo II — Doenças do aparelho visual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Doenças do aparelho visual\n\n84. Acomodação - quando não esteja de acordo com a idade após correcção de ametropia.\n\n85. Campos visuais - retraídos mais do que 15º concêntricos ou escotomas extensos.\n\n86. Equilíbrio oculomotor:\n\nExoforia - superior a 15 V;\n\nEnoforia - superior a 6 V;\n\nHiperforia - superior a 1 V.\n\n88. Senso cromático - imperfeita classificação da colecção de Holmgreen ou dos jogos corados regulamentares.\n\n89. Senso das formas:\n\na) Visão de longe - não inferior a 0,1 sem óculos e corrigível a, pelo menos, 10/10 e 7/10 num e outro olho;\n\nb) Visão de perto - corrigível à visão binocular normal.\n\n90. Senso luminoso - hemeralopia.\n\n91. Visão estereoscópica - inexistente."
+  },
+  "223574044": {
+   "fragment_id": "223573303",
+   "type": 1,
+   "heading": "Capítulo III — Doenças dos ouvidos, nariz, faringe e laringe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Doenças dos ouvidos, nariz, faringe e laringe\n\nOuvidos\n\n92. Anormal função labiríntica, determinada pelos testes habituais.\n\n93. Atresia do canal auditivo externo em grau muitíssimo acentuado.\n\n94. Audição - quando a acuidade auditiva for abaixo dos seguintes valores:\n\n4.5.2, expresso em metros para a voz ciciada, e a perda máxima em decibéis for superior à da seguinte tabela:\n\nPerda máxima audiométrica\n\n(ver documento original)\n\n95. Doença de Ménière.\n\n96. Infiltrações brancas (placas calcárias) ocupando mais de 50% do tímpano e associadas com imobilidade do tímpano ou com hipoacusia nas condições do n.º 94 desta tabela.\n\n97. Labilidade vestibular, quando acompanhada de reflexos neurovegetativos bem marcados (palidez, suores, náuseas e vómitos) e exista diferença de excitabilidade entre um e outro labirinto.\n\nNariz\n\n98. Perfuração do septo, quando resulte alteração da função ou seja causada por doença orgânica.\n\n99. Rinites atróficas, quando bem evidentes.\n\n100. Rinites confirmadamente alérgicas.\n\nFaringe e laringe\n\nEsta parte do capítulo é igual à que lhe corresponde na tabela complementar n.º 1."
+  },
+  "223574045": {
+   "fragment_id": "223573304",
+   "type": 1,
+   "heading": "Capítulo IV — Doenças nervosas e mentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Doenças nervosas e mentais\n\nNeurologia\n\n101. Afecções extrapiramidais; degenerescência hepatolenticular; distonias, coreias e atetoses; síndromas parkinsónicas.\n\n102. Afecções vasculares do sistema nervoso; malformações e tumores vasculares; sequelas de acidentes hemorrágicos.\n\n103. Amiotrofias ou agenesias musculares localizadas não são causa de inaptidão quando:\n\nModeradas;\n\nNão interferindo com as funções motoras necessárias ao serviço;\n\nTendo aparecido, pelo menos, cinco anos antes da observação.\n\n104. Convulsões paroxísticas; perdas repetidas de conhecimento ou qualquer alteração fugaz da consciência (epilepsia em todas as suas formas, síncopes ou lipotimia, narcolepsia, etc.).\n\n105. Discopatias vertebrais não são causa de inaptidão desde que não tenha havido recorrência dolorosa há menos de três anos.\n\n106. Enxaqueca não é causa de inaptidão, quando em grau ligeiro e sem componente oftálmico.\n\n107. Esclerose em placas e encefalomielites crónicas.\n\n108. Esclerose lateral amiotrófica; paralisia espinal espástica; amiotrofias espinais, mielose funicular.\n\n109. Gaguez, surdo-mudez, tartamudez e mudez.\n\n110. Heredodegenerescências espinocerebelosas (doenças de Friedreich e afins).\n\n111. Impotência coeundi de qualquer origem.\n\n112. Miotonia, miastenia, distrofia miotónica.\n\n113. Neuroses motoras, em particular tiques, tremores, onicofagia.\n\n114. Traumatismos cranioencefálicos, desde que tenham implicado inconsciência prolongada, defeito ósseo (por traumatismo ou trepanação), sequelas neurológicas, encefalopatia pós-traumática ou alterações permanentes do traçado electroencefalográfico.\n\n115. Traumatismos e feridas dos nervos periféricos, com sequelas de qualquer gravidade.\n\n116. Traumatismos vertebromedulares, desde que haja alterações ósseas da coluna, sequelas neurológicas, alterações esfincterianas ou genitais.\n\n117. Tumores do sistema nervoso central; siringomielia.\n\n118. Tumores dos nervos periféricos; doença de Recklinghausen.\n\n119. Uma anamnese de afecções inflamatórias das meninges não é causa de inaptidão desde que não existam sequelas permanentes e a fase aguda tenha ocorrido há mais de um ano.\n\n120. Uma anamnese de afecções inflamatórias do sistema nervoso central (encefalite, abcessos, mielite, incluindo poliomielite, nevraxites) não é causa de inaptidão desde que não existam sequelas permanentes e a fase aguda tenha ocorrido há mais de um ano.\n\n121. Uma anamnese de afecções inflamatórias dos nervos periféricos, raízes e plexos não é causa de inaptidão desde que não existam sequelas permanentes e a fase aguda tenha ocorrido há mais de um ano.\n\n122. Uma história de afecção sifilítica curada com serologia negativa não é causa de inaptidão.\n\nPsiquiatria\n\n123. Esquizofrenia, processos e reacções de todos os tipos.\n\n124. Formas de reacção exógena, tendo curado há mais de três anos, não são causa de inaptidão.\n\n125. Oligofrenias, em particular debilidade mental, de qualquer grau.\n\n126. Paranóia; personalidades querulentas.\n\n127. Personalidades psicopáticas de qualquer tipo, particularmente:\n\na) Anormais sexuais, em particular invertidos;\n\nb) Ciclotímicas, com variações periódicas e excessivas do humor;\n\nc) Delinquentes habituais, inconformistas e anti-sociais;\n\nd) Esquizóides, com autismo e excentricidade;\n\ne) Inadaptíveis à vida social;\n\nf) Irritáveis e explosivos.\n\n128. Psiconeurose histérica (personalidade histérica marcada, reacções de conversão).\n\n129. Psiconeurose obsessiva (existência actual, ou história de fobias, obsessões, actividades compulsivas, repetitivas ou outras manifestações).\n\n130. Psicoses orgânicas senis e pré-senis; demência senil; demência arteriosclerótica, doença de Pick e Alzheimer.\n\n131. Reacções ansiosas de moderada intensidade, tendo curado há mais de três anos, não são causa de inaptidão.\n\n132. Surtos depressivos ou hipomaníacos de curta duração, preferentemente reaccionais, tendo curado há mais de três anos, não são causa de inaptidão."
+  },
+  "223574046": {
+   "fragment_id": "223573305",
+   "type": 1,
+   "heading": "Capítulo I — Constituição física geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Constituição física geral\n\n133. Altura:\n\nPara homens:\n\nMínima - 1,60 m;\n\nMáxima - 1,85 m.\n\nPara enfermeiras pára-quedistas:\n\nMínima - 1,54 m;\n\nMáxima - 1,77 m.\n\n134. Peso proporcional à altura (ver tabela geral).\n\n135. Deficiente musculatura ou cicatrizes que limitem os movimentos."
+  },
+  "223574047": {
+   "fragment_id": "223573306",
+   "type": 1,
+   "heading": "Capítulo II — Lesões comuns a diversos órgãos e aparelhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Lesões comuns a diversos órgãos e aparelhos\n\n136. Hérnias."
+  },
+  "223574048": {
+   "fragment_id": "223573307",
+   "type": 1,
+   "heading": "Capítulo III — Doenças do aparelho cárdio-vascular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Doenças do aparelho cárdio-vascular\n\n137. Haver na anamnese hemorragias remotas cerebrais, oculares ou dos ouvidos.\n\n138. Haver na anamnese síncope inexplicável ou enjoo cinético.\n\n139. A tensão arterial não ser superior a 140/90 mm de mercúrio.\n\n140. Verificar-se taquicardia permanente superior a 100 pulsações por minuto.\n\n141. Varizes."
+  },
+  "223574049": {
+   "fragment_id": "223573308",
+   "type": 1,
+   "heading": "Capítulo IV — Doenças do aparelho génito-urinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Doenças do aparelho génito-urinário\n\n142. Hidrocelo."
+  },
+  "223574050": {
+   "fragment_id": "223573309",
+   "type": 1,
+   "heading": "Capítulo V — Doenças do aparelho visual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Doenças do aparelho visual\n\n143. A acuidade visual deve ser igual ou superior a 9/10 num olho e 7/10 no outro olho, com correcção.\n\n144. Nistagmo de qualquer natureza.\n\n145. Existência de leucomas, desde que afectem a visão mínima admitida.\n\n146. Existência de discromatopsia em qualquer das suas variedades."
+  },
+  "223574051": {
+   "fragment_id": "223573310",
+   "type": 1,
+   "heading": "Capítulo VI — Doenças dos ossos, articulações, músculos e tendões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Doenças dos ossos, articulações, músculos e tendões\n\n147. Existência de luxações, anciloses, mobilidade anormal das grandes articulações, sinais de intervenções cirúrgicas ou outras sequelas de traumatismos das grandes articulações, fracturas antigas acompanhadas de deformações ou dor.\n\n148. Pés planos com deformidades aparentes dos ossos do tarso e do metatarso."
+  },
+  "223574016": {
+   "fragment_id": "223573275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 709/73\n\nde 17 de Outubro\n\nManda o Governo da República Portuguesa, pelo Secretário de Estado da Aeronáutica, aprovar e pôr em execução, para uso da junta de recrutamento e selecção de pessoal navegante e das juntas de recrutamento e selecção de pessoal não navegante, as seguintes tabelas de inaptidão, que substituem as aprovadas pela Portaria n.º 15747, de 27 de Fevereiro de 1956:\n\nTabelas de inaptidão para uso da junta de recrutamento e selecção de pessoal navegante e das juntas de recrutamento e selecção de pessoal não navegante."
+  },
+  "223574072": {
+   "fragment_id": "223573333",
+   "type": 4,
+   "heading": "1ª Parte — Tabela geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## 1ª Parte — Tabela geral"
+  },
+  "920157516": {
+   "fragment_id": "223573283",
+   "type": 1,
+   "heading": "Capítulo VIII — Doenças do aparelho respiratório",
+   "in_force_from": "1973-11-22",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 273/1973, Série I de 1973-11-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1973-412061), em vigor a partir de 1973-11-22"
+   ],
+   "markdown": "### Capítulo VIII — Doenças do aparelho respiratório\n\n85. Abcesso pulmonar.\n\n86. Bronquectasias.\n\n87. Refracção em cicloplegia hipormotropia superior a + 4 D miopia superior a 2,5 D, em qualquer diâmetro.\n\n88. Enfizema pulmonar.\n\n89. Esclerose pulmonar.\n\n90. Gangrena pulmonar.\n\n91. Paquipleurites(ver nota a).\n\n92. Outros processos inflamatórios, crónicos, tumorais ou sequelas de lesões extintas dos brônquios, pulmões, pleuras ou de mediastino, produzindo perturbações funcionais acentuadas.\n\n93. Pleurisias serodibrinosas, purulentas ou hemorrágicas.\n\n94. Pneumoconioses.\n\n95. Pneumotórax espontâneo.\n\n(nota a) Será causa de inaptidão uma anamnese de pleurisia de natureza desconhecida ocorrida há menos de um ano e as paquipleurites que interfiram com a função respiratória ou que sejam consequência de processos pleuropulmonares de natureza tuberculosa.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 273/1973, Série I de 1973-11-22](https://diariodarepublica.pt/dr/detalhe/declaracao/1973-412061), em vigor a partir de 1973-11-22"
+  },
+  "223574805": {
+   "fragment_id": "223573367",
+   "type": 14,
+   "heading": "2ª Parte — Tabelas complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## 2ª Parte — Tabelas complementares"
+  },
+  "223574777": {
+   "fragment_id": "223573337",
+   "type": 14,
+   "heading": "Tabela complementar n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela complementar n.º 1"
+  },
+  "223574779": {
+   "fragment_id": "223573339",
+   "type": 14,
+   "heading": "Tabela complementar n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela complementar n.º 2"
+  },
+  "223574780": {
+   "fragment_id": "223573340",
+   "type": 14,
+   "heading": "Tabela complementar n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela complementar n.º 3"
+  },
+  "223574788": {
+   "fragment_id": "223573348",
+   "type": 14,
+   "heading": "Tabela complementar n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Tabela complementar n.º 4"
+  },
+  "223574817": {
+   "fragment_id": "223573368",
+   "type": 14,
+   "heading": "3ª Parte — Instruções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## 3ª Parte — Instruções\n\n1. As tabelas a usar nas inspecções são as constantes do quadro seguinte:\n\n(ver documento original)\n\n2. Nas inspecções serão considerados inaptos:\n\na) Todos os indivíduos portadores de doenças, lesões ou perturbações funcionais discriminadas na tabela geral ou que não reúnam as condições físicas nela mencionadas;\n\nb) Todos os indivíduos que se destinam a determinadas especialidades da Força Aérea, quando portadores das doenças, lesões ou perturbações funcionais constantes da respectiva tabela complementar.\n\n3. A inaptidão será;\n\na) Temporária:\n\n1) Para os indivíduos portadores das doenças agudas mencionadas ou não nas tabelas e cuja evolução se possa fazer no sentido da cura completa e definitiva;\n\n2) Para os indivíduos que não reúnam no momento da inspecção as condições físicas referidas no capítulo I da tabela geral, mas que possam vir a adquiri-las.\n\nb) Definitiva - em todos os outros casos.\n\n4. Sempre que não lhes seja possível fazer um diagnóstico completo e preciso, podem as juntas promover que os inspeccionados sejam submetidos a exames complementares nas clínicas especializadas militares ou em clínicas civis autorizadas superiormente.\n\n5. Os requisitos mínimos para a admissão em cada uma das especialidades da Força Aérea podem ser alterados por determinação do chefe do Estado-Maior da Força Aérea, tendo em atenção as exigências físicas impostas pelo emprego de novos tipos de avião, a criação ou transformação de especialidades e ainda as necessidades em especialistas."
+  },
+  "223574818": {
+   "fragment_id": "223573369",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Secretaria de Estado da Aeronáutica, 27 de Julho de 1973. - O Secretário de Estado da Aeronáutica, José Pereira do Nascimento."
+  },
+  "920455085": {
+   "fragment_id": "223573286",
+   "type": 1,
+   "heading": "Capítulo XI — Doenças do aparelho visual",
+   "in_force_from": "1982-06-23",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 600/82 - Diário da República n.º 138/1982, Série I de 1982-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/600-1982-395935), em vigor a partir de 1982-06-23"
+   ],
+   "markdown": "### Capítulo XI — Doenças do aparelho visual\n\nAparelho lacrimal\n\n147. Dacriocistite aguda ou crónica.\n\n148. Epífora.\n\n149. Formações quísticas ou inflamatórias crónicas da glândula lacrimal.\n\nAparelho oculomotor\n\n150. Diplopia.\n\n151. Heterotropia.\n\n152. Nistagmo.\n\nConjuntiva\n\n153. Conjuntivites crónicas ou de curso arrastado rebeldes ao tratamento (nomeadamente tracoma e conjuntivite primaveril).\n\n154. Pterígio.\n\n155. Simbléfaro.\n\n156. Xeroftalmia.\n\nCórnea\n\n157. Alterações da forma ou da transparência com prejuízo visual.\n\n158. Queratites crónicas ou recidivantes.\n\n159. Úlceras recidivantes da córnea.\n\nEsclerótica\n\n160. Doenças inflamatórias, crónicas ou recidivantes da esclerótica.\n\n161. Escleromalácia.\n\nGlobo ocular\n\n162. Exoftalmo acentuado com prejuízo da protecção ocular.\n\n163. Glaucoma.\n\n164. Oftalmomalácia.\n\nMeios oculares\n\n165. Alterações da posição (subluxação do cristalino).\n\n166. Alterações da transparência.\n\nMembranas internas\n\n167. Alterações da forma ou das dimensões das pupilas ou das suas reacções com significado patológico ou prejuízo da função.\n\n168. Angiopatias retinianas.\n\n169. Colubomas com prejuízo da função.\n\n170. Coriorretinopatias.\n\n171. Retinopatias.\n\n172. Uveítes agudas, crónicas ou de carácter recidivante.\n\nNervo óptico\n\n173. Atrofia óptica.\n\n174. Estase papilar.\n\n175. Nevrites ópticas.\n\nPálpebras\n\n176. Alterações da forma ou de posição das pálpebras, diminuindo a protecção do globo ocular ou sendo causa de irritação.\n\n177. Distriquíase.\n\n178. Lagoftalmia.\n\n179. Ptose interferindo com a visão.\n\nPerturbações da função\n\n180. Discromatopsia para o verde e vermelho.\n\n181. Agudeza visual - é incompatível com todo o serviço da aeronáutica uma agudeza visual inferior a 1/10 num dos olhos e 5/10 no outro, medida nas tabelas regulamentares, depois da correcção com lentes apropriadas.\n\na) Para as especialidades que no quadro constante da 3.ª parte - Instruções - têm a indicação de lhes ser aplicável determinada tabela complementar, torna-se necessária a agudeza visual mínima indicada nessa tabela.\n\n182. Ametropias - mesmo permitindo a visão igual ou superior à estabelecida no n.º 181, são incompatíveis com todo o serviço, quando objectivamente se verifique serem superiores a nove dioptrias em ambos os olhos, bem como as anisometropias muito acentuadas que não permitam correcção utilizável dentro dos limites de visão fixados no n.º 181.\n\n183. Campo visual - as hemianopsias, os escotomas extensos e as retracções concêntricas, quando bilaterais e superiores a 40º.\n\n184. Hemeralopia incurável.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 600/82 - Diário da República n.º 138/1982, Série I de 1982-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/600-1982-395935), em vigor a partir de 1982-06-23"
+  },
+  "920455086": {
+   "fragment_id": "223573368",
+   "type": 14,
+   "heading": "3ª Parte — Instruções",
+   "in_force_from": "1982-06-23",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 600/82 - Diário da República n.º 138/1982, Série I de 1982-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/600-1982-395935), em vigor a partir de 1982-06-23"
+   ],
+   "markdown": "## 3ª Parte — Instruções\n\n1. As tabelas a usar nas inspecções são as constantes do quadro seguinte:\n\n(ver documento original)\n\n2. Nas inspecções serão considerados inaptos:\n\na) Todos os indivíduos portadores de doenças, lesões ou perturbações funcionais discriminadas na tabela geral ou que não reúnam as condições físicas nela mencionadas;\n\nb) Todos os indivíduos que se destinam a determinadas especialidades da Força Aérea, quando portadores das doenças, lesões ou perturbações funcionais constantes da respectiva tabela complementar.\n\n3. A inaptidão será;\n\na) Temporária:\n\n1) Para os indivíduos portadores das doenças agudas mencionadas ou não nas tabelas e cuja evolução se possa fazer no sentido da cura completa e definitiva;\n\n2) Para os indivíduos que não reúnam no momento da inspecção as condições físicas referidas no capítulo I da tabela geral, mas que possam vir a adquiri-las.\n\nb) Definitiva - em todos os outros casos.\n\n4. Sempre que não lhes seja possível fazer um diagnóstico completo e preciso, podem as juntas promover que os inspeccionados sejam submetidos a exames complementares nas clínicas especializadas militares ou em clínicas civis autorizadas superiormente.\n\n5. Os requisitos mínimos para a admissão em cada uma das especialidades da Força Aérea podem ser alterados por determinação do chefe do Estado-Maior da Força Aérea, tendo em atenção as exigências físicas impostas pelo emprego de novos tipos de avião, a criação ou transformação de especialidades e ainda as necessidades em especialistas.\n\n> Nota: [Anexo, Portaria n.º 600/82 - Diário da República n.º 138/1982, Série I de 1982-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/600-1982-395935) substitui o quadro integrado no n.º 1.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 600/82 - Diário da República n.º 138/1982, Série I de 1982-06-18](https://diariodarepublica.pt/dr/detalhe/portaria/600-1982-395935), em vigor a partir de 1982-06-23"
+  }
+ }
+}

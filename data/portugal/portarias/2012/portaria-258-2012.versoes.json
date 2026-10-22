@@ -1,0 +1,351 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174780:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-960669908",
+ "dre_path": "/dr/detalhe/portaria/258-2012-174780",
+ "source_lastmod": "2026-01-27",
+ "versions": [
+  {
+   "date": "2012-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "961299375",
+    "961299575",
+    "961299775",
+    "961299975",
+    "961300175",
+    "961300375",
+    "961300575",
+    "961300775",
+    "961300975",
+    "961301175",
+    "961301375",
+    "961301575",
+    "961301775"
+   ]
+  },
+  {
+   "date": "2013-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:258167:por",
+     "title": "Portaria n.º 32/2013",
+     "published": "2013-01-29",
+     "dre_path": "/dr/detalhe/portaria/32-2013-258167"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "961299375",
+    "1020029055",
+    "961299775",
+    "1020029053",
+    "961300175",
+    "961300375",
+    "961300575",
+    "1020029056",
+    "1020029054",
+    "961301175",
+    "961301375",
+    "961301575",
+    "961301775"
+   ]
+  },
+  {
+   "date": "2026-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1023994567:por",
+     "title": "Portaria n.º 31-A/2026/1",
+     "published": "2026-01-23",
+     "dre_path": "/dr/detalhe/portaria/31-a-2026-1023994567"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "961299375",
+    "1028060177",
+    "1028060178",
+    "1028060179",
+    "1028060180",
+    "1028060181",
+    "1028060182",
+    "1020029056",
+    "1028060183",
+    "1028060184",
+    "1028060185",
+    "1028060186",
+    "961301775"
+   ]
+  }
+ ],
+ "fragments": {
+  "961299375": {
+   "fragment_id": "961299275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 14/2012, de 20 de janeiro, definiu a missão, atribuições e tipo de organização interna da Direção-Geral da Educação, do Ministério da Educação e Ciência. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear e estabelecer o número máximo de unidades flexíveis e matriciais do serviço e as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo dos n.os 4 e 5 do artigo 21.º e 3 do artigo 22.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Educação e Ciência, o seguinte:"
+  },
+  "961299575": {
+   "fragment_id": "961299475",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral da Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral da Educação\n\n1 - A Direção-Geral da Educação, abreviadamente designada por DGE, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços do Júri Nacional de Exames;\n\nb) Direção de Serviços de Desenvolvimento Curricular;\n\nc) Direção de Serviços de Educação Especial e Apoios Socioeducativos;\n\nd) Direção de Serviços de Projetos Educativos;\n\ne) Direção de Serviços de Planeamento e Administração Geral;\n\nf) Gabinete de Segurança Escolar.\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia do 1.º grau."
+  },
+  "961299775": {
+   "fragment_id": "961299675",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços do Júri Nacional de Exames",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direção de Serviços do Júri Nacional de Exames\n\n1 - À Direção de Serviços do Júri Nacional de Exames, abreviadamente designada por DSJNE, compete:\n\na) Coordenar e planificar a realização das provas finais, dos exames finais nacionais, dos exames a nível de escola equivalentes aos nacionais e das provas de exame de equivalência à frequência dos 2.º e 3.º ciclos do ensino básico e provas de equivalência à frequência do ensino secundário e organizar a respetiva logística;\n\nb) Estabelecer as normas técnicas para correção e classificação das provas finais, dos exames nacionais, dos exames a nível de escola equivalentes aos nacionais e das provas de exame de equivalência à frequência dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, bem como as referentes à reapreciação e reclamação das mesmas provas;\n\nc) Promover os mecanismos de apoio à prestação de provas finais de ciclo e de exames finais nacionais por parte dos alunos com necessidades educativas especiais;\n\nd) Definir os procedimentos relativos à realização das provas finais de ciclo, dos exames finais nacionais e à respetiva classificação;\n\ne) Elaborar as orientações adequadas por forma a garantir a qualidade do processo de avaliação externa da aprendizagem;\n\nf) Determinar a afixação das pautas nas escolas;\n\ng) Disponibilizar os dados estatísticos e respetiva análise referentes à avaliação externa da aprendizagem;\n\nh) Propor os normativos legais de suporte à realização das provas de avaliação externa;\n\ni) Emitir parecer sobre as questões relativas ao processo de avaliação externa;\n\nj) Validar as condições de acesso dos alunos à realização de provas finais de ciclo e de exames finais nacionais e consequente certificação dos seus currículos;\n\nk) Decidir sobre situações imprevistas ocorridas em qualquer das chamadas ou fases dos exames;\n\nl) Elaborar um relatório no final de cada ano escolar de apreciação do processo de inscrição, realização, classificação, reapreciação e reclamação de exames, bem como do respetivo sistema de informação;\n\nm) Desenvolver durante o processo de realização de provas de avaliação externa os procedimentos adequados para garantir a segurança, a confidencialidade e a equidade nas provas, quando necessário em articulação com o Gabinete de Avaliação Educacional;\n\nn) Colaborar com o Gabinete de Avaliação Educacional na definição de critérios relativos à formação de professores no domínio da avaliação das aprendizagens;\n\no) Assegurar a colaboração com o Gabinete de Avaliação Educacional no processo da avaliação das aprendizagens, garantindo a coerência entre currículo e avaliação.\n\n2 - O diretor de serviços do Júri Nacional de Exames é, por inerência, o presidente do Júri Nacional de Exames."
+  },
+  "961299975": {
+   "fragment_id": "961299875",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Desenvolvimento Curricular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Desenvolvimento Curricular\n\nÀ Direção de Serviços de Desenvolvimento Curricular, abreviadamente designada por DSDC, compete:\n\na) Desenvolver o estudo sobre os currículos, os programas das disciplinas e as orientações relativas às áreas curriculares e às áreas curriculares não disciplinares e propor a respetiva revisão, em coerência com os objetivos do sistema educativo;\n\nb) Desenvolver estudos sobre a organização pedagógica das escolas, propondo as medidas para a respetiva reorganização;\n\nc) Coordenar, acompanhar e propor orientações, em termos científico-pedagógicos e didáticos, para as atividades da educação pré-escolar e escolar, abrangendo as respetivas modalidades de educação especial e de ensino à distância, incluindo as escolas portuguesas no estrangeiro e de ensino do português no estrangeiro, em articulação com o serviço do Ministério dos Negócios Estrangeiros responsável pela gestão da respetiva rede;\n\nd) Identificar as necessidades de equipamentos educativos e de material didático, incluindo manuais escolares, e assegurar as condições para a respetiva avaliação e certificação;\n\ne) Conceber e documentar os termos de referência da qualidade, caracterização e normalização dos equipamentos básicos e do mobiliário dos estabelecimentos de educação e de ensino, em articulação com a Direção-Geral de Administração Escolar;\n\nf) Conceber, coordenar e acompanhar o desenvolvimento, em termos pedagógicos e didáticos, da educação artística genérica;\n\ng) Conceber os termos de referência para a formação inicial, contínua e especializada do pessoal docente e contribuir, em articulação com a Direção-Geral da Administração Escolar, para o planeamento das respetivas necessidades."
+  },
+  "961300175": {
+   "fragment_id": "961300075",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Educação Especial e de Apoios Socioeducativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Educação Especial e de Apoios Socioeducativos\n\nÀ Direção de Serviços de Educação Especial e de Apoios Socioeducativos, abreviadamente designada por DSEEAS, compete:\n\na) Conceber orientações e instrumentos de suporte às escolas no âmbito da implementação e acompanhamento de respostas de educação especial e de apoio educativo, designadamente as de orientação escolar e profissional, de educação para a saúde e de ação social escolar;\n\nb) Coordenar, acompanhar e propor medidas e orientações, em termos organizativos pedagógicos e didáticos, promotoras da inclusão e do sucesso educativo dos alunos com necessidades educativas especiais na educação pré-escolar e escolar na modalidade de educação especial nos ensinos público, particular, cooperativo e solidário, designadamente atividades de complemento e acompanhamento pedagógico;\n\nc) Conceber e coordenar modalidades de intervenção precoce dirigidas a crianças com necessidades educativas especiais em articulação com os serviços competentes dos ministérios responsáveis pelas áreas da segurança social e da saúde;\n\nd) Conceber, produzir e distribuir manuais escolares e outros materiais pedagógicos em formatos acessíveis, adaptados e em desenho universal;\n\ne) Recolher e tratar a informação relevante respeitante à educação especial para efeitos de regulação e de monitorização das respostas educativas e de apoio educativo;\n\nf) Assegurar a participação nas ações de natureza logística, operacional e de correção de provas adaptadas necessárias em matéria de avaliação externa de aprendizagens, em articulação com o Gabinete de Avaliação Educacional;\n\ng) Identificar e planear a afetação de recursos diferenciados no quadro de uma avaliação compreensiva de necessidades;\n\nh) Promover, conceber e acompanhar as medidas tendentes à utilização pedagógica das tecnologias de informação e de comunicação no âmbito da educação especial."
+  },
+  "961300375": {
+   "fragment_id": "961300275",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Projetos Educativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Projetos Educativos\n\nÀ Direção de Serviços de Projetos Educativos, abreviadamente designada por DSPE, compete:\n\na) Coordenar, acompanhar e propor orientações, em termos pedagógicos e didáticos, para a promoção do sucesso e a prevenção do abandono escolar;\n\nb) Coordenar, acompanhar e propor orientações, em termos pedagógicos e didáticos, para as atividades de enriquecimento curricular;\n\nc) Coordenar, acompanhar e propor orientações, em termos pedagógicos e didáticos, para as atividades do desporto escolar;\n\nd) Conceber, desenvolver, acompanhar e avaliar iniciativas promotoras do sucesso educativo que contemplem, incluam e façam uso das tecnologias de informação e comunicação (TIC) nos estabelecimentos de ensino e de educação;\n\ne) Conceber, desenvolver, acompanhar e avaliar outros projetos educativos que, pela sua natureza ou âmbito, se mostrem relevantes."
+  },
+  "961300575": {
+   "fragment_id": "961300475",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Planeamento e Administração Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Planeamento e Administração Geral\n\nÀ Direção de Serviços de Planeamento e Administração Geral, abreviadamente designada por DSPAG, compete:\n\na) Elaborar instrumentos de planeamento, gestão, avaliação e controlo no âmbito da DGE;\n\nb) Proceder à elaboração, ao acompanhamento e à gestão do orçamento da DGE, elaborando a respetiva conta de gerência;\n\nc) Assegurar a gestão dos recursos humanos da DGE;\n\nd) Assegurar, propondo e praticando as ações necessárias, o processamento e a liquidação das despesas e assegurar a gestão e o controlo contabilístico das receitas próprias da DGE;\n\ne) Assegurar a gestão dos sistemas de informação e infraestruturas tecnológicas da DGE;\n\nf) Apoiar a Unidade Ministerial de Compras no âmbito dos procedimentos tendentes à formação de contratos de empreitadas de obras públicas e de aquisição de bens e serviços;\n\ng) Desenvolver os procedimentos de contratação pública, fora do âmbito dos acordos-quadro, para garantir a atividade da DGE;\n\nh) Prestar apoio logístico e financeiro ao Gabinete Coordenador da Rede de Bibliotecas Escolares, bem como à Comissão Interministerial de Apoio à Execução do Plano Nacional de Leitura;\n\ni) Acompanhar a execução dos contratos celebrados e proceder à elaboração dos respetivos relatórios;\n\nj) Organizar e manter atualizado o cadastro dos bens imóveis e o inventário dos bens móveis afetos à DGE, empreendendo as ações necessárias à sua preservação, conservação e valorização;\n\nk) Assegurar a gestão do economato da DGE e gerir o respetivo parque de viaturas;\n\nl) Assegurar o registo e a distribuição da correspondência e manter o arquivo geral."
+  },
+  "961300775": {
+   "fragment_id": "961300675",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinete de Segurança Escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gabinete de Segurança Escolar\n\nAo Gabinete de Segurança Escolar, abreviadamente designada por GSE, compete:\n\na) Elaborar o plano de atividades anual;\n\nb) Elaborar e proceder à implementação das medidas necessárias para combater situações de segurança e violência escolar;\n\nc) Avaliar a capacidade do MEC para, atendendo aos recursos disponíveis, fazer face aos problemas diagnosticados;\n\nd) Estabelecer prioridades de intervenção e parcerias com outras entidades da administração central ou descentralizadas, tendo em conta a avaliação e o diagnóstico efetuado nos termos das alíneas anteriores;\n\ne) Conceber, implementar e desenvolver procedimentos de monitorização e acompanhamento em matéria de segurança escolar;\n\nf) Proceder à monitorização dos sistemas de vigilância das escolas;\n\ng) Promover e acompanhar programas de intervenção na área da segurança, garantindo a necessária articulação com o Programa Escola Segura;\n\nh) Conceber instrumentos, procedimentos e recursos que visem ajudar a resolver os problemas identificados pelas escolas;\n\ni) Realizar visitas e reuniões de trabalho nas escolas, em articulação com a Direção-Geral da Administração Escolar;\n\nj) Organizar ações de formação específicas sobre segurança escolar no MEC, dirigidas ao pessoal docente e não docente das escolas;\n\nk) Promover e assegurar a realização periódica de exercícios e simulacros, não só para testar os meios exteriores envolvidos como para fomentar uma maior consciencialização da segurança escolar e uma habituação aos planos de segurança e acompanhar o cumprimento do plano de emergência das escolas;\n\nl) Manter uma permanente articulação e cooperação com as estruturas conexas em matéria de segurança escolar nas escolas, designadamente com o Programa Escola Segura;\n\nm) Acompanhar experiências e modelos de intervenção em execução noutros países."
+  },
+  "961300975": {
+   "fragment_id": "961300875",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGE é fixado em oito."
+  },
+  "961301175": {
+   "fragment_id": "961301075",
+   "type": 11,
+   "heading": "Artigo 9.º — Equipas multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Equipas multidisciplinares\n\nÉ fixada em três a dotação máxima de equipas multidisciplinares."
+  },
+  "961301375": {
+   "fragment_id": "961301275",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 360/2007, de 30 de março;\n\nb) A Portaria n.º 382/2007, de 30 de março."
+  },
+  "961301575": {
+   "fragment_id": "961301475",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "961301775": {
+   "fragment_id": "961301675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Vítor Louçã Rabaça Gaspar, em 3 de agosto de 2012. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 18 de julho de 2012."
+  },
+  "1020029055": {
+   "fragment_id": "961299475",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral da Educação",
+   "in_force_from": "2013-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral da Educação\n\n1 - A Direção-Geral da Educação, abreviadamente designada por DGE, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços do Júri Nacional de Exames;\n\nb) Direção de Serviços de Desenvolvimento Curricular;\n\nc) Direção de Serviços de Educação Especial e Apoios Socioeducativos;\n\nd) Direção de Serviços de Projetos Educativos;\n\ne) Direção de Serviços de Planeamento e Administração Geral;\n\nf) [Revogada].\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia do 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+  },
+  "1020029053": {
+   "fragment_id": "961299875",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Desenvolvimento Curricular",
+   "in_force_from": "2013-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Desenvolvimento Curricular\n\nÀ Direção de Serviços de Desenvolvimento Curricular, abreviadamente designada por DSDC, compete:\n\na) Desenvolver o estudo sobre os currículos, os programas das disciplinas e as orientações relativas às áreas curriculares e às áreas curriculares não disciplinares e propor a respetiva revisão, em coerência com os objetivos do sistema educativo;\n\nb) Desenvolver estudos sobre a organização pedagógica das escolas, propondo as medidas para a respetiva reorganização;\n\nc) Coordenar, acompanhar e propor orientações, em termos científico-pedagógicos e didáticos, para as atividades da educação pré-escolar e escolar, abrangendo as respetivas modalidades de educação especial e de ensino à distância, incluindo as escolas portuguesas no estrangeiro e de ensino do português no estrangeiro, em articulação com o serviço do Ministério dos Negócios Estrangeiros responsável pela gestão da respetiva rede;\n\nd) Identificar as necessidades de equipamentos educativos e de material didático, incluindo manuais escolares, e assegurar as condições para a respetiva avaliação e certificação;\n\ne) Conceber e documentar os termos de referência da qualidade, caracterização e normalização dos equipamentos básicos e do mobiliário dos estabelecimentos de educação e de ensino, em articulação com a Direcção-Geral dos Estabelecimentos Escolares;\n\nf) Conceber, coordenar e acompanhar o desenvolvimento, em termos pedagógicos e didáticos, da educação artística genérica;\n\ng) Conceber os termos de referência para a formação inicial, contínua e especializada do pessoal docente e contribuir, em articulação com a Direção-Geral da Administração Escolar, para o planeamento das respetivas necessidades.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+  },
+  "1020029056": {
+   "fragment_id": "961300675",
+   "type": 11,
+   "heading": "Artigo 7.º — Gabinete de Segurança Escolar",
+   "in_force_from": "2013-01-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+   ],
+   "markdown": "###### Artigo 7.º — Gabinete de Segurança Escolar\n\nAo Gabinete de Segurança Escolar, abreviadamente designada por GSE, compete:\n\na) Elaborar o plano de atividades anual;\n\nb) Elaborar e proceder à implementação das medidas necessárias para combater situações de segurança e violência escolar;\n\nc) Avaliar a capacidade do MEC para, atendendo aos recursos disponíveis, fazer face aos problemas diagnosticados;\n\nd) Estabelecer prioridades de intervenção e parcerias com outras entidades da administração central ou descentralizadas, tendo em conta a avaliação e o diagnóstico efetuado nos termos das alíneas anteriores;\n\ne) Conceber, implementar e desenvolver procedimentos de monitorização e acompanhamento em matéria de segurança escolar;\n\nf) Proceder à monitorização dos sistemas de vigilância das escolas;\n\ng) Promover e acompanhar programas de intervenção na área da segurança, garantindo a necessária articulação com o Programa Escola Segura;\n\nh) Conceber instrumentos, procedimentos e recursos que visem ajudar a resolver os problemas identificados pelas escolas;\n\ni) Realizar visitas e reuniões de trabalho nas escolas, em articulação com a Direção-Geral da Administração Escolar;\n\nj) Organizar ações de formação específicas sobre segurança escolar no MEC, dirigidas ao pessoal docente e não docente das escolas;\n\nk) Promover e assegurar a realização periódica de exercícios e simulacros, não só para testar os meios exteriores envolvidos como para fomentar uma maior consciencialização da segurança escolar e uma habituação aos planos de segurança e acompanhar o cumprimento do plano de emergência das escolas;\n\nl) Manter uma permanente articulação e cooperação com as estruturas conexas em matéria de segurança escolar nas escolas, designadamente com o Programa Escola Segura;\n\nm) Acompanhar experiências e modelos de intervenção em execução noutros países.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+  },
+  "1020029054": {
+   "fragment_id": "961300875",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2013-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+   ],
+   "markdown": "###### Artigo 8.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGE é fixado em sete.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+  },
+  "1028060177": {
+   "fragment_id": "961299475",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral da Educação",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+   ],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral da Educação\n\n1 - A Direção-Geral da Educação, abreviadamente designada por DGE, estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços do Júri Nacional de Exames;\n\nb) Direção de Serviços de Desenvolvimento Curricular;\n\nc) Direção de Serviços de Educação Especial e Apoios Socioeducativos;\n\nd) Direção de Serviços de Projetos Educativos;\n\ne) Direção de Serviços de Planeamento e Administração Geral;\n\nf) [Revogada].\n\n2 - As unidades referidas no número anterior são dirigidas por diretores de serviços, cargos de direção intermédia do 1.º grau.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+  },
+  "1028060178": {
+   "fragment_id": "961299675",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços do Júri Nacional de Exames",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Direção de Serviços do Júri Nacional de Exames\n\n1 - À Direção de Serviços do Júri Nacional de Exames, abreviadamente designada por DSJNE, compete:\n\na) Coordenar e planificar a realização das provas finais, dos exames finais nacionais, dos exames a nível de escola equivalentes aos nacionais e das provas de exame de equivalência à frequência dos 2.º e 3.º ciclos do ensino básico e provas de equivalência à frequência do ensino secundário e organizar a respetiva logística;\n\nb) Estabelecer as normas técnicas para correção e classificação das provas finais, dos exames nacionais, dos exames a nível de escola equivalentes aos nacionais e das provas de exame de equivalência à frequência dos 2.º e 3.º ciclos do ensino básico e do ensino secundário, bem como as referentes à reapreciação e reclamação das mesmas provas;\n\nc) Promover os mecanismos de apoio à prestação de provas finais de ciclo e de exames finais nacionais por parte dos alunos com necessidades educativas especiais;\n\nd) Definir os procedimentos relativos à realização das provas finais de ciclo, dos exames finais nacionais e à respetiva classificação;\n\ne) Elaborar as orientações adequadas por forma a garantir a qualidade do processo de avaliação externa da aprendizagem;\n\nf) Determinar a afixação das pautas nas escolas;\n\ng) Disponibilizar os dados estatísticos e respetiva análise referentes à avaliação externa da aprendizagem;\n\nh) Propor os normativos legais de suporte à realização das provas de avaliação externa;\n\ni) Emitir parecer sobre as questões relativas ao processo de avaliação externa;\n\nj) Validar as condições de acesso dos alunos à realização de provas finais de ciclo e de exames finais nacionais e consequente certificação dos seus currículos;\n\nk) Decidir sobre situações imprevistas ocorridas em qualquer das chamadas ou fases dos exames;\n\nl) Elaborar um relatório no final de cada ano escolar de apreciação do processo de inscrição, realização, classificação, reapreciação e reclamação de exames, bem como do respetivo sistema de informação;\n\nm) Desenvolver durante o processo de realização de provas de avaliação externa os procedimentos adequados para garantir a segurança, a confidencialidade e a equidade nas provas, quando necessário em articulação com o Gabinete de Avaliação Educacional;\n\nn) Colaborar com o Gabinete de Avaliação Educacional na definição de critérios relativos à formação de professores no domínio da avaliação das aprendizagens;\n\no) Assegurar a colaboração com o Gabinete de Avaliação Educacional no processo da avaliação das aprendizagens, garantindo a coerência entre currículo e avaliação.\n\n2 - O diretor de serviços do Júri Nacional de Exames é, por inerência, o presidente do Júri Nacional de Exames.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+  },
+  "1028060179": {
+   "fragment_id": "961299875",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Desenvolvimento Curricular",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+   ],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Desenvolvimento Curricular\n\nÀ Direção de Serviços de Desenvolvimento Curricular, abreviadamente designada por DSDC, compete:\n\na) Desenvolver o estudo sobre os currículos, os programas das disciplinas e as orientações relativas às áreas curriculares e às áreas curriculares não disciplinares e propor a respetiva revisão, em coerência com os objetivos do sistema educativo;\n\nb) Desenvolver estudos sobre a organização pedagógica das escolas, propondo as medidas para a respetiva reorganização;\n\nc) Coordenar, acompanhar e propor orientações, em termos científico-pedagógicos e didáticos, para as atividades da educação pré-escolar e escolar, abrangendo as respetivas modalidades de educação especial e de ensino à distância, incluindo as escolas portuguesas no estrangeiro e de ensino do português no estrangeiro, em articulação com o serviço do Ministério dos Negócios Estrangeiros responsável pela gestão da respetiva rede;\n\nd) Identificar as necessidades de equipamentos educativos e de material didático, incluindo manuais escolares, e assegurar as condições para a respetiva avaliação e certificação;\n\ne) Conceber e documentar os termos de referência da qualidade, caracterização e normalização dos equipamentos básicos e do mobiliário dos estabelecimentos de educação e de ensino, em articulação com a Direcção-Geral dos Estabelecimentos Escolares;\n\nf) Conceber, coordenar e acompanhar o desenvolvimento, em termos pedagógicos e didáticos, da educação artística genérica;\n\ng) Conceber os termos de referência para a formação inicial, contínua e especializada do pessoal docente e contribuir, em articulação com a Direção-Geral da Administração Escolar, para o planeamento das respetivas necessidades.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+  },
+  "1028060180": {
+   "fragment_id": "961300075",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Educação Especial e de Apoios Socioeducativos",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Educação Especial e de Apoios Socioeducativos\n\nÀ Direção de Serviços de Educação Especial e de Apoios Socioeducativos, abreviadamente designada por DSEEAS, compete:\n\na) Conceber orientações e instrumentos de suporte às escolas no âmbito da implementação e acompanhamento de respostas de educação especial e de apoio educativo, designadamente as de orientação escolar e profissional, de educação para a saúde e de ação social escolar;\n\nb) Coordenar, acompanhar e propor medidas e orientações, em termos organizativos pedagógicos e didáticos, promotoras da inclusão e do sucesso educativo dos alunos com necessidades educativas especiais na educação pré-escolar e escolar na modalidade de educação especial nos ensinos público, particular, cooperativo e solidário, designadamente atividades de complemento e acompanhamento pedagógico;\n\nc) Conceber e coordenar modalidades de intervenção precoce dirigidas a crianças com necessidades educativas especiais em articulação com os serviços competentes dos ministérios responsáveis pelas áreas da segurança social e da saúde;\n\nd) Conceber, produzir e distribuir manuais escolares e outros materiais pedagógicos em formatos acessíveis, adaptados e em desenho universal;\n\ne) Recolher e tratar a informação relevante respeitante à educação especial para efeitos de regulação e de monitorização das respostas educativas e de apoio educativo;\n\nf) Assegurar a participação nas ações de natureza logística, operacional e de correção de provas adaptadas necessárias em matéria de avaliação externa de aprendizagens, em articulação com o Gabinete de Avaliação Educacional;\n\ng) Identificar e planear a afetação de recursos diferenciados no quadro de uma avaliação compreensiva de necessidades;\n\nh) Promover, conceber e acompanhar as medidas tendentes à utilização pedagógica das tecnologias de informação e de comunicação no âmbito da educação especial.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+  },
+  "1028060181": {
+   "fragment_id": "961300275",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Projetos Educativos",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Projetos Educativos\n\nÀ Direção de Serviços de Projetos Educativos, abreviadamente designada por DSPE, compete:\n\na) Coordenar, acompanhar e propor orientações, em termos pedagógicos e didáticos, para a promoção do sucesso e a prevenção do abandono escolar;\n\nb) Coordenar, acompanhar e propor orientações, em termos pedagógicos e didáticos, para as atividades de enriquecimento curricular;\n\nc) Coordenar, acompanhar e propor orientações, em termos pedagógicos e didáticos, para as atividades do desporto escolar;\n\nd) Conceber, desenvolver, acompanhar e avaliar iniciativas promotoras do sucesso educativo que contemplem, incluam e façam uso das tecnologias de informação e comunicação (TIC) nos estabelecimentos de ensino e de educação;\n\ne) Conceber, desenvolver, acompanhar e avaliar outros projetos educativos que, pela sua natureza ou âmbito, se mostrem relevantes.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+  },
+  "1028060182": {
+   "fragment_id": "961300475",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Planeamento e Administração Geral",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Planeamento e Administração Geral\n\nÀ Direção de Serviços de Planeamento e Administração Geral, abreviadamente designada por DSPAG, compete:\n\na) Elaborar instrumentos de planeamento, gestão, avaliação e controlo no âmbito da DGE;\n\nb) Proceder à elaboração, ao acompanhamento e à gestão do orçamento da DGE, elaborando a respetiva conta de gerência;\n\nc) Assegurar a gestão dos recursos humanos da DGE;\n\nd) Assegurar, propondo e praticando as ações necessárias, o processamento e a liquidação das despesas e assegurar a gestão e o controlo contabilístico das receitas próprias da DGE;\n\ne) Assegurar a gestão dos sistemas de informação e infraestruturas tecnológicas da DGE;\n\nf) Apoiar a Unidade Ministerial de Compras no âmbito dos procedimentos tendentes à formação de contratos de empreitadas de obras públicas e de aquisição de bens e serviços;\n\ng) Desenvolver os procedimentos de contratação pública, fora do âmbito dos acordos-quadro, para garantir a atividade da DGE;\n\nh) Prestar apoio logístico e financeiro ao Gabinete Coordenador da Rede de Bibliotecas Escolares, bem como à Comissão Interministerial de Apoio à Execução do Plano Nacional de Leitura;\n\ni) Acompanhar a execução dos contratos celebrados e proceder à elaboração dos respetivos relatórios;\n\nj) Organizar e manter atualizado o cadastro dos bens imóveis e o inventário dos bens móveis afetos à DGE, empreendendo as ações necessárias à sua preservação, conservação e valorização;\n\nk) Assegurar a gestão do economato da DGE e gerir o respetivo parque de viaturas;\n\nl) Assegurar o registo e a distribuição da correspondência e manter o arquivo geral.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+  },
+  "1028060183": {
+   "fragment_id": "961300875",
+   "type": 11,
+   "heading": "Artigo 8.º — Unidades orgânicas flexíveis",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+   ],
+   "markdown": "###### Artigo 8.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades orgânicas flexíveis da DGE é fixado em sete.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 32/2013 - Diário da República n.º 20/2013, Série I de 2013-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/32-2013-258167), em vigor a partir de 2013-01-30"
+  },
+  "1028060184": {
+   "fragment_id": "961301075",
+   "type": 11,
+   "heading": "Artigo 9.º — Equipas multidisciplinares",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Equipas multidisciplinares\n\nÉ fixada em três a dotação máxima de equipas multidisciplinares.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+  },
+  "1028060185": {
+   "fragment_id": "961301275",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma revogatória",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 360/2007, de 30 de março;\n\nb) A Portaria n.º 382/2007, de 30 de março.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+  },
+  "1028060186": {
+   "fragment_id": "961301475",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": "2026-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 31-A/2026/1 - Diário da República n.º 16/2026, Suplemento, Série I de 2026-01-23](https://diariodarepublica.pt/dr/detalhe/portaria/31-a-2026-1023994567), em vigor a partir de 2026-01-24, produz efeitos a partir de 2025-10-01"
+  }
+ }
+}

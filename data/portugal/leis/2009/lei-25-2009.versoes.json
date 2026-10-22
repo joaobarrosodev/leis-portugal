@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:494224:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2009-213497690",
+ "dre_path": "/dr/detalhe/lei/25-2009-494224",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-06-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "213499682",
+    "213499683",
+    "213499684",
+    "213499685",
+    "213499686",
+    "213499687",
+    "213499688",
+    "213499689",
+    "213499690",
+    "213499691",
+    "213499692",
+    "213499693",
+    "213499694",
+    "213499695",
+    "213499696",
+    "213499697",
+    "213499698",
+    "213499699",
+    "213499700",
+    "213499701",
+    "213499702",
+    "213499703",
+    "213499704",
+    "213499705",
+    "213499706",
+    "213499707",
+    "213499708",
+    "213499709",
+    "213499710",
+    "213499711",
+    "213499712",
+    "213499713",
+    "213499715"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:493035:por",
+     "title": "Declaração de Rectificação n.º 56/2009",
+     "published": "2009-08-03",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/56-2009-493035",
+     "date": "2009-07-05"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "213499682": {
+   "fragment_id": "213497691",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 25/2009\n\nde 5 de Junho\n\nEstabelece o regime jurídico da emissão e da execução de decisões de apreensão de bens ou elementos de prova na União Europeia, em cumprimento da Decisão Quadro n.º <a href=\"eurlex.asp?ano=2003&id=32003F0577\" title=\"Link para Decisão da Comunidade Europeia\">2003/577/JAI</a>, do Conselho, de 22 de Julho de 2003.\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:\n\n> Nota: [Artigo 49.º, Lei n.º 88/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/88-2017-108028570) revoga o presente diploma, no que respeita à execução das decisões de apreensão de elementos de prova,"
+  },
+  "213499683": {
+   "fragment_id": "213497692",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, definições e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, definições e âmbito de aplicação"
+  },
+  "213499684": {
+   "fragment_id": "213497693",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei estabelece o regime jurídico da emissão e transmissão, pelas autoridades judiciárias portuguesas, de decisões de apreensão para efeitos de recolha de elementos de prova ou de subsequente perda de bens no âmbito de um processo penal, tendo em vista o seu reconhecimento e execução em outro Estado membro da União Europeia.\n\n2 - A presente lei estabelece também o regime jurídico do reconhecimento e da execução em Portugal das decisões de apreensão tomadas por uma autoridade judiciária de outro Estado membro da União Europeia no âmbito de um processo penal, para efeitos de recolha de elementos de prova ou de subsequente perda de bens.\n\n3 - A execução na União Europeia das decisões de apreensão de bens ou de elementos de prova é baseada no princípio do reconhecimento mútuo e realizada em conformidade com o disposto na Decisão Quadro n.º <a href=\"eurlex.asp?ano=2003&id=32003F0577\" title=\"Link para Decisão da Comunidade Europeia\">2003/577/JAI</a>, do Conselho, de 22 de Julho."
+  },
+  "213499685": {
+   "fragment_id": "213497694",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara os efeitos da presente lei, considera-se:\n\na) «Estado de emissão» o Estado membro no qual uma autoridade judiciária, tal como definida no direito nacional desse Estado, toma, valida ou confirma de alguma forma uma decisão de apreensão, no âmbito de um processo penal;\n\nb) «Estado de execução» o Estado membro em cujo território se encontra o bem ou o elemento de prova;\n\nc) «Decisão de apreensão» qualquer medida tomada por uma autoridade judiciária competente do Estado de emissão para impedir provisoriamente operações de destruição, transformação, deslocação, transferência ou alienação de bens que podem ser objecto de perda ou que podem constituir elementos de prova;\n\nd) «Bens» bens de qualquer natureza, corpóreos ou incorpóreos, móveis ou imóveis, acto jurídico ou documento que certifique um título ou direito sobre um bem, relativamente aos quais a autoridade judiciária competente do Estado de emissão considera que:\n\ni) Constituem o produto de uma infracção penal ou correspondem, no todo ou em parte, ao valor desse produto; ou,\n\nii) Constituem o instrumento ou o objecto dessa infracção;\n\ne) «Elemento de prova» o objecto, documento ou dado susceptível de servir como meio de prova em processo penal relativo a uma infracção penal."
+  },
+  "213499686": {
+   "fragment_id": "213497695",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de aplicação\n\n1 - São reconhecidas e executadas sem controlo da dupla incriminação do facto as decisões de apreensão tomadas no âmbito de processos penais que respeitem aos seguintes factos, desde que, de acordo com a legislação do Estado de emissão, estes sejam puníveis com pena privativa da liberdade de duração máxima não inferior a três anos:\n\na) Participação numa organização criminosa;\n\nb) Terrorismo;\n\nc) Tráfico de seres humanos;\n\nd) Exploração sexual de crianças e pedopornografia;\n\ne) Tráfico ilícito de estupefacientes e de substâncias psicotrópicas;\n\nf) Tráfico ilícito de armas, munições e explosivos;\n\ng) Corrupção;\n\nh) Fraude, incluindo a fraude lesiva dos interesses financeiros das Comunidades Europeias, na acepção da Convenção de 26 de Julho de 1995 Relativa à Protecção dos Interesses Financeiros das Comunidades Europeias;\n\ni) Branqueamento dos produtos do crime;\n\nj) Falsificação de moeda, incluindo a contrafacção do euro;\n\nl) Cibercriminalidade;\n\nm) Crimes contra o ambiente, incluindo o tráfico ilícito de espécies animais ameaçadas e de espécies e variedades vegetais ameaçadas;\n\nn) Auxílio à entrada e à permanência irregulares;\n\no) Homicídio voluntário e ofensas corporais graves;\n\np) Tráfico ilícito de órgãos e de tecidos humanos;\n\nq) Rapto, sequestro e tomada de reféns;\n\nr) Racismo e xenofobia;\n\ns) Roubo organizado ou à mão armada;\n\nt) Tráfico de bens culturais, incluindo antiguidades e obras de arte;\n\nu) Burla;\n\nv) Extorsão de protecção e extorsão;\n\nx) Contrafacção e piratagem de produtos;\n\nz) Falsificação de documentos administrativos e respectivo tráfico;\n\naa) Falsificação de meios de pagamento;\n\nbb) Tráfico ilícito de substâncias hormonais e outros factores de crescimento;\n\ncc) Tráfico ilícito de materiais nucleares e radioactivos;\n\ndd) Tráfico de veículos furtados ou roubados;\n\nee) Violação;\n\nff) Fogo posto;\n\ngg) Crimes abrangidos pela jurisdição do Tribunal Penal Internacional;\n\nhh) Desvio de avião ou navio;\n\nii) Sabotagem.\n\n2 - Ressalvado o disposto no n.º 4 do artigo 8.º, no que respeita às situações não previstas no número anterior só são admissíveis o reconhecimento e a execução pelas autoridades judiciárias portuguesas das decisões de apreensão se os factos em causa constituírem infracção punível pela lei portuguesa, independentemente dos seus elementos constitutivos ou da sua qualificação no direito do Estado de emissão.\n\n3 - Também no que respeita às situações não previstas no n.º 1, só são admissíveis o reconhecimento e a execução pelas autoridades judiciárias portuguesas das decisões de apreensão para efeitos de subsequente perda de bens se a lei portuguesa permitir a apreensão em processo pelos factos em causa, independentemente dos seus elementos constitutivos ou da sua qualificação no direito do Estado de emissão."
+  },
+  "213499687": {
+   "fragment_id": "213497696",
+   "type": 1,
+   "heading": "Capítulo II — Emissão, conteúdo e transmissão de decisão de apreensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Emissão, conteúdo e transmissão de decisão de apreensão"
+  },
+  "213499688": {
+   "fragment_id": "213497697",
+   "type": 11,
+   "heading": "Artigo 4.º — Autoridade portuguesa competente para a emissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autoridade portuguesa competente para a emissão\n\nÉ competente para emitir a decisão de apreensão relativa a bens ou elementos de prova situados em outro Estado membro a autoridade judiciária portuguesa competente para a mesma decisão relativamente a bens situados em Portugal."
+  },
+  "213499689": {
+   "fragment_id": "213497698",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo e forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conteúdo e forma\n\n1 - A decisão de apreensão, tendo em vista o respectivo reconhecimento e execução, é acompanhada da certidão anexa à presente lei, e que desta faz parte integrante, devidamente preenchida com as informações nela referidas.\n\n2 - A certidão deve ser traduzida numa das línguas oficiais do Estado de execução ou noutra língua oficial das instituições das Comunidades Europeias aceite por este Estado mediante declaração depositada junto do Secretariado-Geral do Conselho.\n\n3 - A certidão deve ser assinada e a exactidão do conteúdo atestada pela autoridade judiciária que ordena a medida.\n\n4 - A autoridade judiciária emitente pode indicar os procedimentos e formalidades a seguir pela autoridade judiciária do Estado de execução que se mostrem indispensáveis para garantir a validade dos elementos de prova que se visa obter."
+  },
+  "213499690": {
+   "fragment_id": "213497699",
+   "type": 11,
+   "heading": "Artigo 6.º — Transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transmissão\n\n1 - Sendo conhecida a autoridade judiciária competente para a execução, a autoridade judiciária emitente transmite directamente a decisão de apreensão, acompanhada da certidão a que se refere o artigo anterior.\n\n2 - Se a autoridade judiciária competente para a execução for desconhecida, a autoridade judiciária emitente efectua todas as averiguações necessárias, nomeadamente através dos pontos de contacto da Rede Judiciária Europeia, a fim de obter essa informação do Estado de execução."
+  },
+  "213499691": {
+   "fragment_id": "213497700",
+   "type": 11,
+   "heading": "Artigo 7.º — Pedidos complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Pedidos complementares\n\n1 - Os elementos referidos no artigo 5.º devem ser acompanhados, aquando da transmissão:\n\na) De um pedido de transferência do elemento de prova para o Estado de emissão; ou\n\nb) De um pedido de execução de uma decisão de perda proferida pelo Estado de emissão; ou\n\nc) De um pedido de decisão de perda pelo Estado de execução e sua posterior execução.\n\n2 - Não sendo possível juntar, desde logo, um dos pedidos referidos no número anterior, deve incluir-se na certidão uma instrução para que os bens sejam mantidos no Estado de execução enquanto se aguarda um dos pedidos referidos.\n\n3 - Na situação a que se refere o número anterior, a autoridade judiciária emitente deve indicar a data estimada para apresentação do pedido, sem prejuízo da possibilidade de o Estado de execução limitar a duração da apreensão.\n\n4 - Os pedidos referidos no n.º 1 devem ser apresentados pelo Estado de emissão e tratados pelo Estado de execução em conformidade com as regras aplicáveis ao auxílio judiciário mútuo em matéria penal e à cooperação internacional em matéria de perda.\n\n5 - As autoridades judiciárias portuguesas não podem recusar os pedidos a que se refere a alínea a) do n.º 1 com base na verificação da falta de dupla incriminação, quando estejam em causa as infracções a que se refere o n.º 1 do artigo 3.º e estas sejam puníveis no Estado de emissão com pena privativa da liberdade de duração máxima não inferior a três anos."
+  },
+  "213499692": {
+   "fragment_id": "213497701",
+   "type": 1,
+   "heading": "Capítulo III — Reconhecimento e execução de uma decisão de apreensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Reconhecimento e execução de uma decisão de apreensão"
+  },
+  "213499693": {
+   "fragment_id": "213497702",
+   "type": 8,
+   "heading": "Secção I — Recusa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Recusa"
+  },
+  "213499694": {
+   "fragment_id": "213497703",
+   "type": 11,
+   "heading": "Artigo 8.º — Causas de recusa de reconhecimento e de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Causas de recusa de reconhecimento e de execução\n\n1 - A autoridade judiciária competente recusa o reconhecimento e a execução de uma decisão de apreensão quando:\n\na) A certidão a que se refere o artigo 5.º não seja apresentada, se encontre incompleta ou não corresponda manifestamente à decisão de apreensão em causa;\n\nb) Exista imunidade ou privilégio previsto na lei portuguesa que impossibilite a execução da decisão de apreensão;\n\nc) Decorra claramente das informações constantes da certidão que a execução do pedido referido no artigo 7.º é contrária ao princípio ne bis in idem;\n\nd) Nos casos a que se refere o n.º 2 do artigo 3.º, o facto que tenha motivado a emissão da decisão não constitua infracção punível pela lei portuguesa.\n\n2 - A autoridade judiciária competente recusa o reconhecimento e a execução de uma decisão de apreensão quando, nos casos a que se refere o n.º 2 do artigo 3.º, o facto que tenha motivado a emissão da decisão não constitua infracção punível pela lei portuguesa.\n\n3 - Na situação a que se refere a alínea a) do n.º 1, a autoridade judiciária competente, antes de se decidir pelo não reconhecimento e pela não execução, total ou parcial, deve, em alternativa:\n\na) Conceder um prazo para que a certidão seja apresentada, completada ou corrigida;\n\nb) Aceitar documento equivalente;\n\nc) Dispensar a autoridade judiciária do Estado de emissão da apresentação da certidão, caso se considere suficientemente esclarecida.\n\n4 - A execução não pode ser recusada com o fundamento previsto no n.º 2, em matéria de contribuições e impostos, de alfândegas e de câmbios, pela circunstância de a legislação portuguesa não prever o mesmo tipo de contribuições e impostos ou o mesmo tipo de regulamentação em matéria de contribuições e impostos, de alfândegas e de câmbios que a legislação do Estado de emissão.\n\n5 - A decisão de recusa é notificada de imediato à autoridade judiciária do Estado de emissão."
+  },
+  "213499695": {
+   "fragment_id": "213497704",
+   "type": 8,
+   "heading": "Secção II — Adiamento e impossibilidade de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Adiamento e impossibilidade de execução"
+  },
+  "213499696": {
+   "fragment_id": "213497705",
+   "type": 11,
+   "heading": "Artigo 9.º — Adiamento da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adiamento da execução\n\n1 - A autoridade judiciária competente pode adiar a execução de uma decisão de apreensão quando:\n\na) A execução possa prejudicar uma investigação criminal em curso, caso em que pode adiar aquela durante um prazo que considere razoável;\n\nb) Os bens ou elementos de prova em causa tenham sido já objecto de uma decisão de apreensão num processo penal, e até que essa decisão deixe de produzir efeitos;\n\nc) No caso de uma decisão de apreensão de bens tendo em vista a sua subsequente declaração de perda, esses bens já tenham sido objecto, em Portugal, de uma decisão no âmbito de outro processo e até que essa decisão deixe de produzir efeitos.\n\n2 - O disposto na alínea c) do número anterior aplica-se apenas se a decisão em causa prevalecer sobre posteriores decisões nacionais de apreensão num processo penal ao abrigo do direito nacional.\n\n3 - Deve ser apresentado à autoridade judiciária do Estado de emissão, no mais curto prazo possível, um relatório sobre o adiamento da execução da decisão de apreensão em que se mencionem os motivos do adiamento e, sendo possível, a duração prevista do mesmo.\n\n4 - Cessando o motivo para o adiamento, a autoridade judiciária competente toma, no mais curto prazo possível, as medidas necessárias à execução, sendo a autoridade judiciária do Estado de emissão informada do facto.\n\n5 - A autoridade judiciária competente informa a autoridade judiciária do Estado de emissão acerca de qualquer outra medida restritiva de que os bens em causa possam ser objecto."
+  },
+  "213499697": {
+   "fragment_id": "213497706",
+   "type": 11,
+   "heading": "Artigo 10.º — Impossibilidade de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Impossibilidade de execução\n\nA autoridade judiciária competente notifica de imediato a autoridade judiciária do Estado de emissão da impossibilidade prática de executar a decisão de apreensão por os bens ou elementos de prova terem desaparecido, terem sido destruídos ou não poderem ser encontrados no local indicado na certidão ou por a localização dos bens ou dos elementos de prova não ter sido indicada de forma suficientemente precisa, mesmo após consulta ao Estado de emissão."
+  },
+  "213499698": {
+   "fragment_id": "213497707",
+   "type": 8,
+   "heading": "Secção III — Processo de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Processo de execução"
+  },
+  "213499699": {
+   "fragment_id": "213497708",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência para a execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência para a execução\n\n1 - É competente para a execução em Portugal o tribunal com competência para proceder à instrução criminal da área onde o bem ou elemento de prova objecto da decisão de apreensão se encontra à data da decisão.\n\n2 - Quando a decisão de apreensão abranja mais do que um bem ou elemento de prova é competente o tribunal da área onde se encontra o maior número de bens ou elementos de prova.\n\n3 - Quando não for possível determinar o tribunal em cuja área se encontra o maior número de bens ou elementos de prova é competente o que primeiro toma conhecimento da decisão de apreensão."
+  },
+  "213499700": {
+   "fragment_id": "213497709",
+   "type": 11,
+   "heading": "Artigo 12.º — Reconhecimento e execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reconhecimento e execução\n\n1 - O pedido de execução da decisão é apresentado ao Ministério Público.\n\n2 - Quando não seja competente por força da aplicação do disposto no artigo anterior, a autoridade judiciária que recebeu a decisão remete-a ao tribunal competente, disso informando a autoridade judiciária do Estado de emissão interessada.\n\n3 - Verificada a conformidade do pedido às normas aplicáveis e ressalvada a aplicação do disposto nas secções i e ii do presente capítulo, a autoridade judiciária competente reconhece a decisão sem que seja necessária qualquer outra formalidade e ordena sem demora as medidas necessárias à execução imediata da apreensão.\n\n4 - Os procedimentos de execução da decisão seguem os trâmites previstos na lei processual penal.\n\n5 - Sem prejuízo do disposto no número anterior, a autoridade judiciária deve respeitar, na execução, as formalidades e procedimentos expressamente indicados pela autoridade judiciária do Estado de emissão, sempre que tal se mostre necessário para garantir a validade dos elementos de prova que se visa obter, desde que tais formalidades e procedimentos não contrariem os princípios fundamentais do direito português.\n\n6 - A autoridade judiciária portuguesa comunica imediatamente a sua resolução sobre a decisão de apreensão à autoridade judiciária do Estado de emissão, sempre que possível no prazo máximo de vinte e quatro horas a contar da recepção da decisão.\n\n7 - A autoridade judiciária comunica imediatamente à autoridade judiciária do Estado de emissão a execução da decisão de apreensão."
+  },
+  "213499701": {
+   "fragment_id": "213497710",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração temporal da apreensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração temporal da apreensão\n\n1 - Os bens ou elementos de prova apreendidos são mantidos nessa situação até existir uma decisão definitiva acerca de qualquer dos pedidos a que se refere o n.º 1 do artigo 7.º\n\n2 - A autoridade judiciária competente pode, após consulta junto do Estado de emissão e em conformidade com o direito e a prática nacionais, determinar condições adequadas às circunstâncias do caso, a fim de limitar a duração da apreensão.\n\n3 - Verificando-se que, de acordo com tais condições, a autoridade judiciária prevê o levantamento da medida, deve informar o Estado de emissão deste facto, dando-lhe a possibilidade de apresentar as suas observações.\n\n4 - As autoridades judiciárias do Estado de emissão informam de imediato a autoridade judiciária competente da revogação da decisão de apreensão.\n\n5 - As autoridades judiciárias que recebem uma informação do Estado de emissão dando conta da revogação de uma decisão de apreensão levantam a medida de imediato."
+  },
+  "213499702": {
+   "fragment_id": "213497711",
+   "type": 1,
+   "heading": "Capítulo IV — Comunicações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Comunicações"
+  },
+  "213499703": {
+   "fragment_id": "213497712",
+   "type": 11,
+   "heading": "Artigo 14.º — Comunicações entre autoridades judiciárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Comunicações entre autoridades judiciárias\n\n1 - As comunicações entre autoridades judiciárias são realizadas por meio que permita a obtenção de um registo escrito daquelas e, no caso da transmissão da decisão de apreensão, acompanhada da certidão, a verificação da sua autenticidade.\n\n2 - As comunicações são traduzidas numa das línguas oficiais do Estado de execução ou noutra língua oficial das instituições das Comunidades Europeias aceite por este Estado mediante declaração depositada junto do Secretariado-Geral do Conselho."
+  },
+  "213499704": {
+   "fragment_id": "213497713",
+   "type": 1,
+   "heading": "Capítulo V — Modos de impugnação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Modos de impugnação"
+  },
+  "213499705": {
+   "fragment_id": "213497714",
+   "type": 11,
+   "heading": "Artigo 15.º — Recursos e requerimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Recursos e requerimentos\n\n1 - O recurso de uma decisão de apreensão de bens ou elementos de prova situados em outro Estado membro proferida por autoridade judiciária portuguesa, bem como o requerimento de modificação ou revogação da medida, efectua-se nos termos previstos no Código de Processo Penal.\n\n2 - O recurso de uma decisão de apreensão de bens ou elementos de prova reconhecida e executada em Portugal ao abrigo do disposto na presente lei pode ser apresentado perante os tribunais portugueses nos termos previstos no Código de Processo Penal.\n\n3 - O recurso apresentado em Portugal e a respectiva motivação são notificados à autoridade judiciária do Estado de emissão para que possa responder no prazo de 10 dias.\n\n4 - O processo é remetido ao tribunal competente imediatamente após a junção da resposta da autoridade judiciária do Estado de emissão ou findo o prazo para a sua apresentação.\n\n5 - A autoridade judiciária do Estado de emissão é informada do resultado do recurso.\n\n6 - O recurso respeitante aos fundamentos subjacentes à emissão de uma decisão de apreensão só é admitido perante os tribunais portugueses nos casos em que Portugal é o Estado de emissão.\n\n7 - Os recursos a que se refere o presente artigo não têm efeito suspensivo."
+  },
+  "213499706": {
+   "fragment_id": "213497715",
+   "type": 1,
+   "heading": "Capítulo VI — Urgência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Urgência"
+  },
+  "213499707": {
+   "fragment_id": "213497716",
+   "type": 11,
+   "heading": "Artigo 16.º — Natureza urgente da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Natureza urgente da execução\n\n1 - Os actos relativos ao procedimento a que se refere a presente lei praticam-se mesmo fora dos dias úteis e das horas de expediente dos serviços de justiça, e no período de férias judiciais.\n\n2 - Os prazos relativos ao procedimento a que se refere a presente lei correm em férias."
+  },
+  "213499708": {
+   "fragment_id": "213497717",
+   "type": 1,
+   "heading": "Capítulo VII — Responsabilidade civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Responsabilidade civil"
+  },
+  "213499709": {
+   "fragment_id": "213497718",
+   "type": 11,
+   "heading": "Artigo 17.º — Responsabilidade civil pela execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Responsabilidade civil pela execução\n\nSem prejuízo do disposto no n.º 6 do artigo 15.º, quando o Estado de execução, por força do seu direito nacional, for responsabilizado civilmente pelos danos causados pela execução de uma decisão de apreensão que lhe tenha sido transmitida, o Estado de emissão deve reembolsar o Estado de execução pelo valor da indemnização pago, excepto se, e na medida em que, os danos, ou parte deles, se devam em exclusivo à conduta do Estado de execução."
+  },
+  "213499710": {
+   "fragment_id": "213497719",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "213499711": {
+   "fragment_id": "213497720",
+   "type": 11,
+   "heading": "Artigo 18.º — Casos especiais de transmissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Casos especiais de transmissão\n\nCaso o Reino Unido ou a Irlanda o declarem, nos termos e para os efeitos a que se refere o n.º 2 do artigo 4.º da Decisão Quadro n.º <a href=\"eurlex.asp?ano=2003&id=32003F0577\" title=\"Link para Decisão da Comunidade Europeia\">2003/577/JAI</a>, do Conselho, de 22 de Julho, as transmissões a que se refere o artigo 6.º desta lei são efectuadas através da ou das autoridades centrais especificadas em tais declarações."
+  },
+  "213499712": {
+   "fragment_id": "213497721",
+   "type": 11,
+   "heading": "Artigo 19.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direito subsidiário\n\nÉ aplicável subsidiariamente ao procedimento a que se refere a presente lei o Código de Processo Penal."
+  },
+  "213499713": {
+   "fragment_id": "213497722",
+   "type": 11,
+   "heading": "Artigo 20.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "213499715": {
+   "fragment_id": "213497724",
+   "type": 14,
+   "heading": "Anexo — Certidão a que se refere o artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Certidão a que se refere o artigo 5.º\n\n(ver documento original)"
+  }
+ }
+}

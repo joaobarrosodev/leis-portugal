@@ -1,0 +1,321 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:108074437:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-108078176",
+ "dre_path": "/dr/detalhe/decreto-lei/108-2017-108074437",
+ "source_lastmod": "2024-09-25",
+ "versions": [
+  {
+   "date": "2024-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836117867:por",
+     "title": "Decreto-Lei n.º 5/2024",
+     "published": "2024-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/5-2024-836117867"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 18.º"
+   ],
+   "fragments": [
+    "108070668",
+    "108070669",
+    "108070670",
+    "108070671",
+    "108070672",
+    "888962792",
+    "108070674",
+    "108078275",
+    "108078276",
+    "108078277",
+    "108078278",
+    "108078279",
+    "108078280",
+    "108078281",
+    "108078282",
+    "108078283",
+    "108078284",
+    "108078285",
+    "108078286",
+    "108078287",
+    "108078288",
+    "108078289",
+    "888962793",
+    "108078291",
+    "108078292"
+   ]
+  },
+  {
+   "date": "2025-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:912653922:por",
+     "title": "Decreto-Lei n.º 45/2025",
+     "published": "2025-03-27",
+     "dre_path": "/dr/detalhe/decreto-lei/45-2025-912653922"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º",
+    "Revoga Artigo 14.º"
+   ],
+   "fragments": [
+    "108070668",
+    "108070669",
+    "108070670",
+    "108070671",
+    "108070672",
+    "888962792",
+    "108070674",
+    "108078275",
+    "108078276",
+    "108078277",
+    "108078278",
+    "108078279",
+    "108078280",
+    "108078281",
+    "108078282",
+    "912533139",
+    "108078284",
+    "912533140",
+    "108078286",
+    "108078287",
+    "108078288",
+    "108078289",
+    "888962793",
+    "108078291",
+    "108078292"
+   ]
+  }
+ ],
+ "fragments": {
+  "108070668": {
+   "fragment_id": "108078177",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 108/2017\n\nde 30 de agosto\n\nO sistema de saúde, tal como decorre da Base XII da Lei de Bases da Saúde, aprovada pela Lei n.º 48/90, de 24 de agosto, com as alterações introduzidas pela Lei n.º 27/2002, de 8 de novembro, em sentido estrito, é constituído pelo Serviço Nacional de Saúde (SNS) e por todas as entidades públicas que desenvolvam atividades de promoção, prevenção e tratamento na área da saúde, bem como por todas as entidades privadas e por todos os profissionais livres que acordem com a primeira a prestação de todas ou de algumas daquelas atividades.\n\nCom a implementação da reforma da gestão hospitalar, procedeu-se à transformação de alguns estabelecimentos hospitalares: primeiro em sociedades anónimas de capitais exclusivamente públicos e, posteriormente, em entidades públicas empresariais, integradas no setor público empresarial.\n\nEm matéria de recursos humanos, os trabalhadores das entidades públicas empresariais do setor da saúde estão sujeitos ao regime do contrato de trabalho, nos termos do Código do Trabalho, bem como ao regime disposto em diplomas que definam o regime legal de carreira de profissões da saúde, demais legislação laboral, normas imperativas sobre títulos profissionais, instrumentos de regulamentação coletiva de trabalho e regulamentos internos. Efetivamente, a padronização e a identidade de critérios de organização e valorização de recursos humanos contribuem para a circularidade do sistema e sustentam o reconhecimento mútuo da qualificação, independentemente do local de trabalho e da natureza jurídica da relação de emprego.\n\nAtravés do presente decreto-lei, o Governo pretende garantir que os farmacêuticos das instituições de saúde no âmbito do SNS possam dispor de um percurso comum de progressão profissional e de diferenciação técnico-científica, o que possibilita também a mobilidade interinstitucional, com harmonização de direitos e deveres, sem subverter a autonomia de gestão do setor empresarial do Estado.\n\nEm conformidade, o presente decreto-lei vem instituir uma carreira de farmacêutico nas entidades públicas empresariais e nas parcerias em saúde em regime de gestão e financiamento privado integradas no SNS, bem como os respetivos requisitos de habilitação profissional e percurso de progressão profissional e de diferenciação técnico-científica.\n\nRelativamente ao desenvolvimento da carreira, a mesma é apresentada como uma carreira pluricategorial, com três categorias - farmacêutico assistente, farmacêutico assessor e farmacêutico assessor sénior - as quais refletem uma diferenciação de conteúdos funcionais, ao mesmo tempo que se fixam as regras de transição para as novas categorias.\n\nCumpre, a este propósito, referir que a presente alteração não condiciona a aplicação do Código do Trabalho nem a liberdade de negociação reconhecida às partes no âmbito da contratação coletiva.\n\nForam ouvidos os representantes das associações sindicais.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108070669": {
+   "fragment_id": "108078178",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "108070670": {
+   "fragment_id": "108078179",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece o regime da carreira farmacêutica nas entidades públicas empresariais e nas parcerias em saúde, em regime de gestão e financiamento privados, integradas no Serviço Nacional de Saúde, bem como os respetivos requisitos de habilitação profissional e percurso de progressão profissional e de diferenciação técnico-científica."
+  },
+  "108070671": {
+   "fragment_id": "108078180",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente decreto-lei aplica-se aos farmacêuticos em regime de contrato individual de trabalho, nos termos do Código do Trabalho, nas entidades públicas empresariais e nas parcerias em saúde, em regime de gestão e financiamento privados, integradas no Serviço Nacional de Saúde, nos termos dos diplomas que definem o regime jurídico dos trabalhadores dessas entidades, sem prejuízo da manutenção do mesmo regime laboral e do disposto em instrumento de regulamentação coletiva de trabalho."
+  },
+  "108070672": {
+   "fragment_id": "108078181",
+   "type": 1,
+   "heading": "Capítulo II — Qualificação profissional e áreas de exercício profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Qualificação profissional e áreas de exercício profissional"
+  },
+  "888962792": {
+   "fragment_id": "108078182",
+   "type": 11,
+   "heading": "Artigo 3.º — Qualificação profissional",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 5/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "###### Artigo 3.º — Qualificação profissional\n\n1 - A integração na carreira farmacêutica pressupõe a posse do título definitivo de farmacêutico, concedido pela Ordem dos Farmacêuticos, bem como o título de especialista na correspondente área de exercício profissional, obtido nos termos do Regime Jurídico da Residência Farmacêutica, aprovado pelo Decreto-Lei n.º 6/2020, de 24 de fevereiro.\n\n2 - Sem prejuízo do disposto na parte final do número anterior, a posse do título de especialista, na correspondente área de exercício profissional, atribuído pela Ordem dos Farmacêuticos, é condição suficiente para integração na carreira farmacêutica.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 5/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), em vigor a partir de 2024-01-06"
+  },
+  "108070674": {
+   "fragment_id": "108078183",
+   "type": 11,
+   "heading": "Artigo 4.º — Áreas de exercício profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Áreas de exercício profissional\n\n1 - A carreira farmacêutica organiza-se nas seguintes áreas de exercício profissional, a que correspondem formas de exercício adequadas à natureza da atividade desenvolvida:\n\na) Análises clínicas;\n\nb) Farmácia hospitalar;\n\nc) Genética humana.\n\n2 - Podem ser criadas outras áreas, que integrem ou não as áreas referidas no número anterior, através de portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde."
+  },
+  "108078275": {
+   "fragment_id": "108078184",
+   "type": 1,
+   "heading": "Capítulo III — Estrutura da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Estrutura da carreira"
+  },
+  "108078276": {
+   "fragment_id": "108078185",
+   "type": 11,
+   "heading": "Artigo 5.º — Categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Categorias\n\nA carreira farmacêutica é pluricategorial, estruturando-se nas seguintes categorias:\n\na) Farmacêutico assistente;\n\nb) Farmacêutico assessor;\n\nc) Farmacêutico assessor sénior."
+  },
+  "108078277": {
+   "fragment_id": "108078186",
+   "type": 11,
+   "heading": "Artigo 6.º — Perfil profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Perfil profissional\n\n1 - O farmacêutico é o profissional de saúde a quem cumpre desenvolver atividade no âmbito do medicamento, análises clínicas e genética suscetíveis de contribuir para a salvaguarda da saúde pública, bem como ações de educação dirigidas à comunidade no âmbito da otimização da terapêutica e promoção da saúde.\n\n2 - A carreira farmacêutica reflete a diferenciação e qualificação profissionais inerentes ao exercício do ato farmacêutico e enquadra profissionais detentores do respetivo título de especialistas.\n\n3 - O farmacêutico, consoante a área profissional em que se enquadre, exerce a sua atividade em todas as etapas do circuito do medicamento, influenciando e monitorizando a utilização de medicamentos e outros produtos de saúde numa perspetiva de contínua otimização do tratamento do doente através do uso judicioso, seguro, eficaz e apropriado dos medicamentos, e transformando a informação laboratorial adquirida em conhecimento útil ao diagnóstico, ao acompanhamento do doente e ao suporte terapêutico.\n\n4 - Para os efeitos previstos nos números anteriores, e com sujeição ao sigilo profissional, o farmacêutico tem direito a aceder aos dados clínicos relativos aos utentes que lhe forem confiados, e que sejam necessários ao correto exercício das suas funções."
+  },
+  "108078278": {
+   "fragment_id": "108078187",
+   "type": 11,
+   "heading": "Artigo 7.º — Deveres funcionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Deveres funcionais\n\nSem prejuízo do conteúdo funcional inerente à respetiva categoria, os farmacêuticos exercem a sua atividade com plena responsabilidade profissional e autonomia técnico-científica, através do exercício das funções assumidas, cooperando com outros profissionais cuja ação seja complementar da sua e coordenando as equipas multidisciplinares de trabalho constituídas, sendo responsáveis pelos atos relacionados com o exercício das atividades praticadas por outros profissionais sob a sua responsabilidade e direção."
+  },
+  "108078279": {
+   "fragment_id": "108078188",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo funcional da categoria de farmacêutico assistente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo funcional da categoria de farmacêutico assistente\n\nAo farmacêutico assistente incumbe executar funções enquadradas no ato farmacêutico, respeitada a correspondente especialidade, nomeadamente:\n\na) Investigar, desenvolver e preparar as formas farmacêuticas dos medicamentos;\n\nb) Registar, fabricar, controlar e garantir a qualidade dos medicamentos, dos dispositivos médicos e outros produtos de saúde;\n\nc) Assegurar o adequado armazenamento, conservação, transporte e distribuição por grosso dos medicamentos, dos dispositivos médicos e outros produtos de saúde, se aplicável;\n\nd) Efetuar a gestão integrada do circuito do medicamento, dos dispositivos médicos e outros produtos de saúde, designadamente a respetiva preparação, controlo, seleção, gestão, aquisição, armazenamento, distribuição, validação, monitorização e vigilância;\n\ne) Proceder à divulgação dos recursos de informação necessários para a preparação e administração segura dos medicamentos, no ponto de prestação de cuidados;\n\nf) Proceder à gestão integrada do circuito dos tratamentos experimentais, incluindo a consulta farmacêutica e a avaliação de ensaios clínicos no âmbito da Comissão de Ética e Investigação;\n\ng) Interpretar, validar a prescrição, preparar e controlar fórmulas magistrais estéreis e não estéreis, assim como executar e controlar preparações oficinais;\n\nh) Proceder ao desenho, parametrização e avaliação de tecnologias de informação e sistemas de informação no âmbito do circuito do medicamento;\n\ni) Interpretar e avaliar as prescrições médicas;\n\nj) Promover a informação e consulta sobre medicamentos, dispositivos médicos e outros produtos de saúde;\n\nk) Proceder ao acompanhamento, vigilância, monitorização e controlo da distribuição, dispensa, adesão e utilização de medicamentos, de dispositivos médicos e outros produtos de saúde no âmbito da prestação de cuidados farmacêuticos e outras atividades de farmácia clínica, nomeadamente, no que diz respeito ao acompanhamento farmacoterapêutico, reconciliação da terapêutica e consulta farmacêutica;\n\nl) Proceder à articulação entre os cuidados prestados nos diferentes níveis de saúde, cuidados primários e cuidados hospitalares, no sentido da melhoria da qualidade, nível da segurança e efetividade da terapêutica medicamentosa;\n\nm) Proceder à monitorização clínica de fármacos, incluindo a determinação e interpretação de parâmetros farmacocinéticos e o estabelecimento de esquemas posológicos individualizados, bem como as vertentes de farmacogenética e farmacogenómica;\n\nn) Efetuar a colheita de produtos biológicos e desenvolver métodos de análise laboratorial, a sua validação e, se necessário, executar técnicas diferenciadas;\n\no) Proceder à avaliação, interpretação de resultados e respetiva validação clínica e biopatológica;\n\np) Proceder à identificação, caracterização, avaliação e resposta a riscos e emergências em saúde pública;\n\nq) Implementar, avaliar e monitorizar os sistemas de qualidade relacionados com a sua área profissional;\n\nr) Participar e cooperar em programas de investigação científica e protocolos de estudo relacionados com a sua área profissional;\n\ns) Participar em júris de concursos e de avaliação;\n\nt) Integrar equipas de serviço de urgência;\n\nu) Participar nas atividades de planeamento e programação do trabalho a executar pela unidade ou serviço respetivo;\n\nv) Participar na orientação e avaliação das atividades dos farmacêuticos e de outros profissionais de saúde no âmbito do seu processo de formação, bem como nas atividades de estágios de pré e pós-graduados;\n\nw) Substituir o farmacêutico assessor nas suas ausências e impedimentos."
+  },
+  "108078280": {
+   "fragment_id": "108078189",
+   "type": 11,
+   "heading": "Artigo 9.º — Conteúdo funcional da categoria de farmacêutico assessor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conteúdo funcional da categoria de farmacêutico assessor\n\nPara além das funções inerentes à categoria de farmacêutico assistente, compete ao farmacêutico assessor:\n\na) Participar na estruturação, organização, planeamento e coordenação dos serviços;\n\nb) Planificar, coordenar, orientar e avaliar as atividades dos farmacêuticos e de outros profissionais de saúde no âmbito do seu processo de formação, bem como nas atividades de estágios de pré e pós-licenciatura, mestrados e doutoramentos;\n\nc) Desenvolver e coordenar protocolos de estudo relacionados com a sua área de atividade;\n\nd) Integrar comissões clínicas e técnico-científicas com o objetivo da disciplina, racionalização de recursos, melhoria assistencial e a salvaguarda da saúde pública;\n\ne) Responsabilizar-se pela gestão da qualidade dos serviços e implementação de boas práticas e outros referenciais;\n\nf) Assumir a responsabilidade técnica pela seleção, aquisição e conservação de medicamentos, dispositivos médicos e outros produtos de saúde relacionados com a sua área profissional;\n\ng) Assumir a responsabilidade técnica pela gestão de bancos celulares, amostras biológicas, ADN e respetivas bases de dados relacionadas com a sua área profissional;\n\nh) Assumir a responsabilidade técnica pela seleção e conservação de dispositivos médicos in vivo e in vitro, equipamentos e sua correta conservação;\n\ni) Emitir pareceres técnico-científicos;\n\nj) Substituir o farmacêutico assessor sénior nas suas ausências e impedimentos."
+  },
+  "108078281": {
+   "fragment_id": "108078190",
+   "type": 11,
+   "heading": "Artigo 10.º — Conteúdo funcional da categoria de farmacêutico assessor sénior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Conteúdo funcional da categoria de farmacêutico assessor sénior\n\nPara além das funções inerentes às categorias de farmacêutico assistente e farmacêutico assessor, compete ao farmacêutico assessor sénior:\n\na) Responsabilizar-se por setores ou unidades de serviço e respetivos recursos humanos;\n\nb) Planear, programar e avaliar o trabalho da respetiva unidade, serviço ou departamento;\n\nc) Assumir a responsabilidade pelas atividades de formação e de desenvolvimento profissional contínuo dos farmacêuticos da sua unidade, serviço ou departamento, ou das atividades de formação da instituição, quando para tal designado;\n\nd) Elaborar, promover ou apoiar a concretização de projetos de desenvolvimento técnico-científico, institucional, de qualidade e de inovação, que mobilizem e envolvam o conjunto da equipa profissional em que esteja integrado."
+  },
+  "108078282": {
+   "fragment_id": "108078191",
+   "type": 11,
+   "heading": "Artigo 11.º — Condições de admissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Condições de admissão\n\n1 - Para a admissão à categoria de farmacêutico assistente é exigido o grau de especialista.\n\n2 - Para a admissão à categoria de farmacêutico assessor são exigidos seis anos de exercício efetivo com a categoria de farmacêutico assistente.\n\n3 - Para a admissão à categoria de farmacêutico assessor sénior são exigidos quatro anos de exercício efetivo com a categoria de farmacêutico assessor."
+  },
+  "108078283": {
+   "fragment_id": "108078192",
+   "type": 11,
+   "heading": "Artigo 12.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Recrutamento\n\n1 - O recrutamento para os postos de trabalho sujeitos ao regime do Código do Trabalho, no âmbito da carreira farmacêutica, incluindo a mudança de categoria, é feito mediante processo de seleção com observância do disposto no artigo anterior.\n\n2 - Os requisitos de candidatura e a tramitação do processo de seleção previstos no número anterior são regulados por instrumento de regulamentação coletiva de trabalho."
+  },
+  "108078284": {
+   "fragment_id": "108078193",
+   "type": 11,
+   "heading": "Artigo 13.º — Posições remuneratórias e remunerações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Posições remuneratórias e remunerações\n\nAs posições remuneratórias e as remunerações dos trabalhadores integrados na carreira farmacêutica são fixadas em instrumento de regulamentação coletiva de trabalho."
+  },
+  "108078285": {
+   "fragment_id": "108078194",
+   "type": 11,
+   "heading": "Artigo 14.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Período experimental\n\n1 - O período experimental dos trabalhadores integrados na carreira farmacêutica com contratos individuais de trabalho por tempo indeterminado tem a duração de 90 dias.\n\n2 - Considera-se cumprido o período experimental a que se refere o número anterior sempre que o contrato por tempo indeterminado tenha sido imediatamente precedido da constituição, no mesmo serviço ou estabelecimento e para o desempenho das mesmas funções, de um vínculo, na modalidade de contrato a termo resolutivo, certo ou incerto, cuja duração tenha sido igual ou superior a 90 dias."
+  },
+  "108078286": {
+   "fragment_id": "108078195",
+   "type": 11,
+   "heading": "Artigo 15.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Formação profissional\n\n1 - A formação dos trabalhadores integrados na carreira farmacêutica assume carácter de continuidade e prossegue objetivos de atualização técnica e científica ou de desenvolvimento de projetos de investigação.\n\n2 - A formação prevista no número anterior deve ser planeada e programada, de modo a incluir informação interdisciplinar e desenvolver competências de organização e gestão de serviços.\n\n3 - A frequência de cursos de formação complementar ou de atualização profissional, com vista ao aperfeiçoamento, diferenciação técnica ou projetos de investigação, pode ser autorizada, mediante licença sem perda de remuneração, por um período não superior a 15 dias úteis por ano, ou nos termos que venham a ser definidos por instrumento de regulamentação coletiva de trabalho.\n\n4 - O membro do Governo responsável pela área da saúde pode atribuir, com faculdade de delegação, a licença prevista nos termos do número anterior, por um período superior a 15 dias úteis, desde que a proposta se encontre devidamente fundamentada e a formação se revista de interesse para os serviços."
+  },
+  "108078287": {
+   "fragment_id": "108078196",
+   "type": 11,
+   "heading": "Artigo 16.º — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Avaliação do desempenho\n\nA avaliação do desempenho relativa aos trabalhadores que integrem a carreira farmacêutica é a prevista no regime que fixa o sistema integrado de gestão e avaliação do desempenho na Administração Pública, com as adaptações que forem introduzidas por instrumento de regulamentação coletiva de trabalho."
+  },
+  "108078288": {
+   "fragment_id": "108078197",
+   "type": 11,
+   "heading": "Artigo 17.º — Direção e coordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direção e coordenação\n\n1 - Os trabalhadores integrados na carreira farmacêutica podem exercer funções de direção ou coordenação de departamentos, serviços ou unidades funcionais dos serviços e estabelecimentos integrados no Serviço Nacional de Saúde, desde que sejam titulares, preferencialmente, da categoria de farmacêutico assessor sénior ou, em casos excecionais devidamente fundamentados, de farmacêutico assessor ou de farmacêutico assistente, sendo exigido, neste último caso, que tenham um mínimo de cinco anos de exercício efetivo de funções na área profissional correspondente.\n\n2 - Sem prejuízo do disposto em lei especial, e de acordo com a organização interna, mediante conveniência de serviço, o exercício de funções de direção ou coordenação de departamentos, serviços ou unidades funcionais do Serviço Nacional de Saúde efetua-se em comissão de serviço, pelo período de três anos, renovável por iguais períodos, sendo a respetiva remuneração fixada por instrumento de regulamentação coletiva de trabalho.\n\n3 - O exercício das funções referidas nos números anteriores não impede a manutenção da atividade de prestação de cuidados de saúde por parte dos farmacêuticos, mas tem primazia sobre ela, em caso de incompatibilidade superveniente."
+  },
+  "108078289": {
+   "fragment_id": "108078198",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições transitórias e finais"
+  },
+  "888962793": {
+   "fragment_id": "108078199",
+   "type": 11,
+   "heading": "Artigo 18.º — Norma transitória",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 5/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), em vigor a partir de 2024-01-06"
+   ],
+   "markdown": "###### Artigo 18.º — Norma transitória\n\n1 - O disposto no artigo 2.º não prejudica os contratos de gestão já aprovados, bem como os que se encontrem, à data de entrada em vigor do presente decreto-lei, em fase de procedimento prévio à contratação ou em fase de procedimento concursal.\n\n2 - O diploma a que se refere a parte final do artigo 3.º é aprovado no prazo de 180 dias a contar da publicação do presente decreto-lei.\n\n3 - (Revogado.)\n\n4 - Os atuais trabalhadores contratados pelas entidades referidas no artigo 2.º para o desempenho das funções inerentes ao conteúdo funcional da presente carreira, que não detenham o título de especialista na correspondente área de exercício profissional, mantêm as funções para que foram contratados, transitando para a carreira prevista no presente decreto-lei quando obtiverem as necessárias qualificações, nos termos a definir pelo diploma a que se refere o n.º 2.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 5/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-2024-836117867), em vigor a partir de 2024-01-06"
+  },
+  "108078291": {
+   "fragment_id": "108078200",
+   "type": 11,
+   "heading": "Artigo 19.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "108078292": {
+   "fragment_id": "108078201",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de julho de 2017. - António Luís Santos da Costa - Ricardo Emanuel Martins Mourinho Félix - Adalberto Campos Fernandes.\n\nPromulgado em 12 de agosto de 2017.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 18 de agosto de 2017.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "912533139": {
+   "fragment_id": "108078192",
+   "type": 11,
+   "heading": "Artigo 12.º — Recrutamento",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922), em vigor a partir de 2025-03-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Recrutamento\n\n1 - O recrutamento para os postos de trabalho sujeitos ao regime do Código do Trabalho, no âmbito da carreira farmacêutica, incluindo a mudança de categoria, é feito mediante processo de seleção com observância do disposto no artigo anterior.\n\n2 - Os requisitos de candidatura e a tramitação do processo de seleção previstos no número anterior são regulados por instrumento de regulamentação coletiva de trabalho.\n\n3 - Na promoção para as categorias de farmacêutico assessor e de farmacêutico assessor sénior, o posicionamento remuneratório faz-se para a primeira posição remuneratória da respetiva categoria.\n\n4 - Caso o candidato aufira remuneração igual ou superior à da primeira posição remuneratória das categorias de farmacêutico assessor e de farmacêutico assessor sénior, o posicionamento remuneratório faz-se na posição remuneratória que na estrutura remuneratória da categoria para a qual se faz o recrutamento corresponda o nível remuneratório superior mais aproximado.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 45/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922), em vigor a partir de 2025-03-28, produz efeitos a partir de 2025-01-01"
+  },
+  "912533140": {
+   "fragment_id": "108078194",
+   "type": 11,
+   "heading": "Artigo 14.º — Período experimental",
+   "in_force_from": "2025-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 45/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922), em vigor a partir de 2025-03-28, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Período experimental\n\n1 - O período experimental dos trabalhadores integrados na carreira farmacêutica com contratos individuais de trabalho por tempo indeterminado tem a duração de 90 dias.\n\n2 - Considera-se cumprido o período experimental a que se refere o número anterior sempre que o contrato por tempo indeterminado tenha sido imediatamente precedido da constituição, no mesmo serviço ou estabelecimento e para o desempenho das mesmas funções, de um vínculo, na modalidade de contrato a termo resolutivo, certo ou incerto, cuja duração tenha sido igual ou superior a 90 dias.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 45/2025 - Diário da República n.º 61/2025, Série I de 2025-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2025-912653922), em vigor a partir de 2025-03-28, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

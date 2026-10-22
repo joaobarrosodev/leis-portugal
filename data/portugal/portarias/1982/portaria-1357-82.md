@@ -1,0 +1,102 @@
+---
+schema_version: '1.0'
+id: pt:dre:626604:por
+title: Portaria n.º 1357/82
+short_title: null
+summary: Autoriza a Direcção-Geral do Património do Estado a realizar, de conta de verbas próprias do seu orçamento, a despesa
+  inerente à adjudicação de uma empreitada de obras públicas, a realizar pela Direcção-Geral dos Edifícios e Monumentos Nacionais,
+  destinada à realização das terraplanagens necessárias para a implantação de um armazém de recolha de viaturas apreendidas
+  a favor do Estado
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretarias de Estado das Finanças e do Orçamento
+proposing_entity: null
+official_number: 1357/82
+official_date: null
+publication_date: '1982-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 301/1982, 9º Suplemento, Série I de 1982-12-31
+  number: '301'
+  series: I
+  supplement: 9º Suplemento
+  pages: 4326-(199) a 4326-(199)
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/12/30109/01990199.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '626604'
+  dre_path: /dr/detalhe/portaria/1357-1982-626604
+  internal: pt:dre:626604:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1357-1982-626604
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1357-1982-626604
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-12-31T00:00:00Z'
+integrity:
+  source_sha256: 0cef93970049796eec048f51360533ba6fa43a1104d1d74d879110c53aa3ca9e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-1357-626604.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1357/82
+
+de 31 de Dezembro
+
+Nos termos do artigo 10.º do [Decreto-Lei n.º 211/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1979-380551), de 12 de Julho:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado das Finanças e do Orçamento, o seguinte:
+
+1.º É autorizada a Direcção-Geral do Património do Estado a realizar, de conta de verbas próprias do seu orçamento, a despesa inerente à adjudicação de uma empreitada de obras públicas, a realizar pela Direcção-Geral dos Edifícios e Monumentos Nacionais, destinada à realização das terraplenagens necessárias para a implantação de um armazém de recolha de viaturas apreendidas a favor do Estado.
+
+2.º A empreitada referida no número anterior atinge o montante de 3967823$50, que será distribuído por 2 anos económicos, como a seguir se indica:
+
+Em 1982 - 1500000$00;
+
+Em 1983 - 2467823$50.
+
+Secretarias de Estado das Finanças e do Orçamento, 31 de Dezembro de 1982. - O Secretário de Estado das Finanças, José Cândido Sousa Carrusca Robin de Andrade. - O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.

@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:172092:por
+title: Portaria n.º 887/85
+short_title: null
+summary: Estabelece uma lista de manipulações usuais a que poderão ser submetidas as mercadorias armazenadas nos depósitos
+  referidos no artigo 114.º-D da Reforma Aduaneira, aprovada pelo Decreto-Lei n.º 46311, de 27 de Abril de 1965
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento
+proposing_entity: null
+official_number: 887/85
+official_date: null
+publication_date: '1985-11-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 269/1985, Série I de 1985-11-22
+  number: '269'
+  series: I
+  supplement: null
+  pages: 3889 - 3889
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/11/26900/38893889.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '172092'
+  dre_path: /dr/detalhe/portaria/887-1985-172092
+  internal: pt:dre:172092:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/887-1985-172092
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/887-1985-172092
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-11-22T00:00:00Z'
+integrity:
+  source_sha256: 0d142585b93e739c87c5028c9a32a794fcdf257a4968f82a944c2541a2a741d8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-887-172092.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 887/85
+
+de 22 de Novembro
+
+Tendo em consideração que é necessário estabelecer uma lista de manipulações usuais a que poderão ser submetidas as mercadorias armazenadas nos depósitos referidos no artigo 114.º-D da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de, 27 de Abril de 1965, com a redacção que lhe foi dada pelo Decreto-Lei, n.º 392/85, de 9 de Outubro;
+
+Tendo em consideração que essa lista deverá mencionar as manipulações usuais destinadas a assegurar a conservação das mercadorias ou a melhorar a sua apresentação e qualidade comercial:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, nos termos do § 1.º do artigo 114.º-D da Reforma Aduaneira, estabelecer a seguinte lista de manipulações usuais:
+
+1) Exame, inventário e extracção de amostras;
+
+2) Reparação resultante de avarias ocorridas durante o transporte ou a armazenagem, desde que se trate de operações elementares;
+
+3) Limpeza;
+
+4) Eliminação de partes avariadas;
+
+5) Escolha, peneiração, joeiramento, clarificação mecânica, filtração, transvasamento, trasfega ou qualquer outro tratamento simples semelhante;
+
+6) Aposição nas próprias mercadorias ou nas embalagens de marcas, de carimbos, de etiquetas ou de outros sinais distintivos semelhantes, desde que essa aposição não seja susceptível de conferir às mercadorias uma origem aparente diferente da sua origem real;
+
+7) Modificação das marcas e números dos volumes, desde que essa modificação não seja susceptível de conferir às mercadorias uma origem aparente diferente da sua origem real;
+
+8) Embalagem, desembalagem, mudança de embalagem, reparação de embalagem, transvasamento ou reacondicionamento simples noutros recipientes;
+
+9) Fixação das mercadorias em suportes para efeitos de acondicionamento ou de apresentação;
+
+10) Operações simples de formação de sortidos e de classificação;
+
+11) Exame, ensaio e preparação para funcionamento de máquinas, aparelhos e veículos, desde que se trate de operações simples;
+
+12) Mistura de mercadorias que não sejam licores, aguardentes, vinhos e bebidas espirituosas, desde que se trate de operações simples;
+
+13) Misturas de licores entre si;
+
+14) Mistura de aguardentes entre si;
+
+15) Lotação de vinhos e outras práticas enológicas correntes;
+
+16) Diluição de bebidas espirituosas com água, com o fim de reduzir o seu título alcoométrico;
+
+17) Dessalgação, limpeza e crouponnage de peles;
+
+18) Trituração de legumes secos;
+
+19) Separação de mercadorias, desde que se trate de operações simples;
+
+20) Todas as manipulações destinadas a assegurar a conservação das mercadorias durante a sua armazenagem, tais como arejamento, secagem, mesmo por meio de calor artificial, refrigeração e congelação, adição de meios de conservação, fumigação, enxoframento (tratamento antiparasitário), lubrificação, pintura anticorrosiva e aplicação de um revestimento para o transporte.
+
+Secretaria de Estado do Orçamento.
+
+**Assinada em 30 de Outubro de 1985.**
+
+**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.**

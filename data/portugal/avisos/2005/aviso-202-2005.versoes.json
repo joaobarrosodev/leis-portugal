@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:534787:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2005-920510253",
+ "dre_path": "/dr/detalhe/aviso/202-2005-534787",
+ "source_lastmod": "2025-06-04",
+ "versions": [
+  {
+   "date": "2005-05-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920504267"
+   ]
+  }
+ ],
+ "fragments": {
+  "920504267": {
+   "fragment_id": "920510254",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso n.º 202/2005\n\nPor ordem superior se torna público que se encontram cumpridas as formalidades exigidas na República Portuguesa e na República de Cabo Verde para a entrada em vigor da Convenção sobre Segurança Social entre a República Portuguesa e a República de Cabo Verde, assinada na Cidade da Praia em 10 de Abril de 2001.\n\nA Convenção foi aprovada pelo Decreto n.º 2/2005, publicado no Diário da República, 1.ª série-A, n.º 25, de 4 de Fevereiro de 2005. Na sequência das notificações a que se refere o seu artigo 45.º, a mesma Convenção entra em vigor no dia 1 de Abril de 2005."
+  }
+ }
+}

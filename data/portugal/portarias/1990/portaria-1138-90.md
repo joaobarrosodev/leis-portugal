@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:564425:por
+title: Portaria n.º 1138/90
+short_title: null
+summary: Alarga o quadro de pessoal militarizado da Marinha (QPMM)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Defesa Nacional e das Finanças
+proposing_entity: null
+official_number: 1138/90
+official_date: null
+publication_date: '1990-11-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 266/1990, Série I de 1990-11-17
+  number: '266'
+  series: I
+  supplement: null
+  pages: 4722 - 4722
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/11/26600/47224722.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '564425'
+  dre_path: /dr/detalhe/portaria/1138-1990-564425
+  internal: pt:dre:564425:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1138-1990-564425
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1138-1990-564425
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-11-17T00:00:00Z'
+integrity:
+  source_sha256: 3f0ceed85d43ecdd5987b87d8ce741770f5ba1ab01289b52cdafc811040aa898
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-1138-564425.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1138/90
+
+de 17 de Novembro
+
+Considerando que se torna necessário, face às necessidades de serviço, ajustar o quadro do pessoal militarizado da Marinha (QPMM), em consequência da passagem à situação de reforma de supranumerários permanentes oriundos do ex-quadro geral de adidos;
+
+Considerando que se encontram na referida situação o n.º 36001981, faroleiro de 1.ª classe António Ferreira Martins, o n.º 36002181, faroleiro de 1.ª classe José Moreira, e o n.º 34002481, cabo-de-mar de 1.ª classe António José Bonacho de Almeida Castelhano, que passaram à situação de reforma, respectivamente, em 30 de Janeiro de 1990, 14 de Abril de 1990 e 28 de Fevereiro de 1990:
+
+Manda o Governo, pelos Ministros da Defesa Nacional e das Finanças, ao abrigo do n.º 4 do n.º 1.º da [Portaria n.º 457/81](https://diariodarepublica.pt/dr/detalhe/portaria/457-1981-574329), de 4 de Junho, que os efectivos fixados para o grupo 6 do QPMM - Classe de faroleiros técnicos pelo n.º 1.º da [Portaria n.º 444/83](https://diariodarepublica.pt/dr/detalhe/portaria/444-1983-311667), de 19 de Abril, e para o grupo 3 do QPMM pela [Portaria n.º 258/82](https://diariodarepublica.pt/dr/detalhe/portaria/258-1982-599935), de 11 de Março, com as alterações introduzidas pelo despacho do Vice-Primeiro-Ministro e Ministro da Defesa Nacional n.º 01/MDN/85, de 30 de Janeiro, e pela [Portaria n.º 30/88](https://diariodarepublica.pt/dr/detalhe/portaria/30-1988-283371), de 15 de Janeiro, passem a ser os seguintes:
+
+Grupo 6 - Faroleiros:
+
+Classe de faroleiros técnicos:
+
+Faroleiros técnicos de 1.ª classe ... 6
+
+Grupo 3 - Cabos-de-mar:
+
+Cabos-de-mar de 1.ª classe ... 48
+
+Minsitérios da Defesa Nacional e das Finanças.
+
+**Assinada em 30 de Outubro de 1990.**
+
+**O Ministro da Defesa Nacional, Joaquim Fernando Nogueira. - Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado do Orçamento.**

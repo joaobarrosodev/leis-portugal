@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:1099230:por
+title: Resolução n.º 10/2008
+short_title: null
+summary: Resolução Fundamentada da declaração de utilidade pública da expropriação das parcelas necessárias à execução da
+  obra do EN 337 - Variante de Tábua - 1.ª Fase
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações - Gabinete do Secretário de Estado Adjunto, das Obras Públicas
+  e das Comunicações
+proposing_entity: null
+official_number: 10/2008
+official_date: null
+publication_date: '2008-04-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 71/2008, Série II de 2008-04-10
+  number: '71'
+  series: II
+  supplement: null
+  pages: 16348 - 16348
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/04/071000000/1634816348.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1099230'
+  dre_path: /dr/detalhe/resolucao/10-2008-1099230
+  internal: pt:dre:1099230:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/10-2008-1099230
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/10-2008-1099230
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-04-10T00:00:00Z'
+integrity:
+  source_sha256: c34aa24014224c7745feb9c1965d618756e95a3e249b36e1a79b19994b4d46d6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-10-1099230.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 10/2008
+
+Resolução fundamentada
+
+O Ministério das Obras Públicas, Transportes e Comunicações, citado como Entidade Requerida na Providência Cautelar que corre os seus termos no Tribunal Administrativo e Fiscal de Coimbra, sob o n.º 273/08.0BECRB, vem nos termos e para os efeitos do disposto no n.º 1 do artigo 128.º do Código de Processo nos Tribunais Administrativos (CPTA), manifestar a intenção de executar o [Despacho n.º 28022-C/2007](https://diariodarepublica.pt/dr/detalhe/despacho/28022-c-2007-1861148), de 27 de Novembro de 2007, publicado no D.R., 2.ª série, n.º 239, de 12 de Dezembro de 2007, que declara a utilidade pública, com carácter de urgência, da expropriação dos bens imóveis e direitos a eles inerentes necessários à execução da obra do EN 337 - Variante de Tábua - 1.ª Fase, objecto da referida providência cautelar, nos termos da fundamentação seguinte:
+
+A construção da Variante de Tábua enquadra-se no disposto do artigo 8.º, n.º 2 do PRN 2000, aprovado pelo [Decreto-Lei n.º 222/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-1998-424689), de 17 de Julho, com as alterações introduzidas pela [Lei n.º 98/99](https://diariodarepublica.pt/dr/detalhe/lei/98-1999-353346) de 26 de Julho e pelo [Decreto-Lei n.º 182/2003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/182-2003-660297), de 16 de Agosto, que prevê que "deve ser elaborado, a nível nacional, um programa de construção de variantes à travessia de sedes de concelho e outros centros urbanos, ponderando as características operacionais, o impacte ambiental e as condições de segurança".
+
+Assim, a construção desta variante permitirá retirar o tráfego de passagem do interior de Tábua, principalmente o tráfego de pesados com origem e destino na Zona Industrial, contribuindo substancialmente para o aumento da segurança rodoviária e para o melhoramento das condições sociais e ambientais da população.
+
+O traçado da Variante em apreço, com uma extensão aproximada de 5764 m, inicia-se na estrada EN 234-6, após a travessia do Rio Mondego, e o seu término é cerca do km 0+400 da EN 337-4. Ao longo do seu desenvolvimento, a Variante intercepta várias estradas e caminhos municipais, bem como a EN 337, tendo-se desnivelado todos os percursos existentes. Criaram-se dois nós de ligação à cidade de Tábua, um ao km 1+350 e outro ao km 5+100, sendo o término do traçado em apreço numa rotunda localizada sobre a actual EN 337-4.
+
+Esta 1ª fase da variante em articulação com a 2.ª fase, actualmente em fase de concurso da empreitada, permitirá estabelecer um acesso rápido e em condições de segurança entre Tábua e o futuro IC6 (troço entre Catraia dos Poços e Venda de Galizes, actualmente também em fase de concurso de empreitada), que será o principal acesso rodoviário entre Coimbra e Covilhã, servindo em parte de alternativa à actual EN 17 e à EN 230.
+
+A construção desta Variante surge ainda pela necessidade de criar um percurso alternativo, rápido e seguro para quem actualmente tem de atravessar a cidade de Tábua, e ainda no futuro irá servir de ligação entre o IC 6 e o IC 12.
+
+Acresce que o melhoramento dos acessos quer em termos de segurança quer em termos de rapidez em relação aos grandes centros urbanos da zona, isto é, Coimbra, Covilhã e Viseu, tornam Tábua e as povoações em seu redor bastante atractivas para o estabelecimento de indústrias e serviços, contribuindo assim para o desenvolvimento das actividades económicas da região, bem como para a melhoria das condições económicas e sociais das populações.
+
+Por outro lado, referimos que presente empreitada foi adjudicada à empresa Rosas Construtores, S. A., tendo o contrato sido assinado em 21 de Novembro de 2007 e a obra consignada em 24 de Dezembro de 2008.
+
+Através da resolução do seu Conselho de Administração de 7 de Dezembro de 2005, a então EP - E.P.E. aprovou as plantas parcelares e os mapas de expropriações das parcelas de terreno necessárias à execução da citada obra.
+
+Em 12 de Dezembro de 2007, foi publicado o [Despacho n.º 28022-C/2007](https://diariodarepublica.pt/dr/detalhe/despacho/28022-c-2007-1861148), de 27 de Novembro de 2007 que, reconhecendo o interesse público subjacente à célere e eficaz execução da obra projectada, declara a utilidade pública, com carácter de urgência, da expropriação dos bens imóveis e direitos a eles inerentes necessários à execução da EN 337 - Variante de Tábua - 1.ª Fase.
+
+A urgência das expropriações dos bens imóveis e direitos a eles inerentes para a execução desta obra fundamenta-se no disposto no artigo 161.º do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949.
+
+De acordo com o contrato, o prazo de execução da empreitada é de 500 dias, pelo que o processo expropriativo já se encontra a decorrer, sendo que qualquer atraso na sua execução imputável ao dono de obra conduzirá ao pagamento de avultadas indemnizações ao adjudicatário.
+
+Acresce que, encontram-se já no local do empreendimento importantes meios materiais e humanos (cerca de 50 pessoas a laborar na obra, laboratório, equipamento de terraplanagem, instalações sociais e administrativas), com vista à execução, dentro dos prazos contratualmente previstos, das obras de construção desta empreitada, os quais implicam custos directos associados muito elevados que a suspensão da empreitada obrigaria a indemnizar, nos termos do regime jurídico das empreitadas de obras públicas.
+
+Desta forma, a paralisação desta obra prejudicaria grave e duplamente o interesse público, uma vez que, por um lado, implicaria o pagamento de importantes indemnizações ao empreiteiro, por a responsabilidade da suspensão não lhe ser imputável e, por outro lado, inviabilizaria a construção de uma infra-estrutura, cuja importância é fulcral para a região, quer de um ponto de vista humano, quer de um ponto de vista económico.
+
+Resulta, pois, de todo o exposto a verificação de grave prejuízo para o interesse público na não execução do [Despacho n.º 28022-C/2007](https://diariodarepublica.pt/dr/detalhe/despacho/28022-c-2007-1861148), de 27 de Novembro de 2007, publicado no D.R., 2.ª série, n.º 239, de 12 de Dezembro de 2007 que, reconhecendo o interesse público subjacente à célere e eficaz execução da obra projectada, declara a utilidade pública, com carácter de urgência, da expropriação dos bens imóveis e direitos a eles inerentes necessários à execução da EN 337 - Variante de Tábua -1.ª Fase.
+
+Assim, nos termos e para os efeitos do artigo 128.º do CPTA, reconhece-se a existência de grave urgência para o interesse público na imediata execução do supra citado despacho e dos demais actos subsequentes referentes às expropriações e, em consequência, reconhece-se que o diferimento da execução dos mesmos seria gravemente prejudicial para o interesse público subjacente, determinando-se assim, não obstante a existência da providência cautelar, que a EP - Estradas de Portugal, S. A., prossiga o processo expropriativo, bem como a execução da empreitada de construção da EN 337 - Variante de Tábua - 1.ª Fase.
+
+2 de Abril de 2008. - O Secretário de Estado Adjunto, das Obras Públicas e das Comunicações, Paulo Jorge Oliveira Ribeiro de Campos.

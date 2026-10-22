@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:303118:por
+title: Decreto n.º 5/74
+short_title: null
+summary: Adopta várias providências de carácter administrativo relativas às províncias ultramarinas
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: 5/74
+official_date: null
+publication_date: '1974-01-09'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 7/1974, Série I de 1974-01-09
+  number: '7'
+  series: I
+  supplement: null
+  pages: 22 - 23
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/01/00700/00220023.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '303118'
+  dre_path: /dr/detalhe/decreto/5-1974-303118
+  internal: pt:dre:303118:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1974-303118
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/5-1974-303118
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-01-09T00:00:00Z'
+integrity:
+  source_sha256: c7bda47b8498a11b5d4b4e845dd608d7df1daf898ae914d7d6683ab7285c8a84
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-5-303118.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 5/74
+
+de 9 de Janeiro
+
+Considerando a necessidade de urgente solução de diversos problemas de ordem administrativa postos à consideração deste Ministério;
+
+Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por motivo de urgência;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+I
+
+Disposições especiais
+
+A) Angola
+
+###### Artigo 1.º Enquanto não estiver regulamentado o uso da carteira profissional, a que se refere a alínea s) do n.º 1.º do artigo 75.º do [Decreto n.º 125/72](https://diariodarepublica.pt/dr/detalhe/decreto/125-1972-397096), de 20 de Abril, é dispensada a sua apresentação pelos candidatos aos concursos de técnico verificador de 2.ª classe.
+
+B) Moçambique
+
+###### Art. 2.º Fica o Governador-Geral do Estado autorizado a rever os impostos de produção e consumo actualmente em vigor.
+
+###### Art. 3.º - 1. Nos Serviços de Saúde e Assistência, e destinados aos quadros do Serviço de Saúde Mental, são criados os seguintes lugares:
+
+No quadro complementar de cirurgiões, especialistas e internistas:
+
+1 de médico psiquiatra-chefe do Serviço de Saúde Mental ... E
+
+8 de médico psiquiatra ... F
+
+1 de médico neurologista ... F
+
+No quadro comum administrativo de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social:
+
+1 de enfermeiro-geral ... J
+
+3 de terapeuta ocupacional ... H
+
+4 de assistente social ... H
+
+2. A chefia do Serviço de Saúde Mental será exercida, em comissão, por médico psiquiatra do quadro complementar de cirurgiões, especialistas e internistas dos Serviços de Saúde e Assistência e os restantes lugares de médico serão providos de harmonia com o disposto no artigo 120.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
+
+3. O provimento dos lugares criados pelo n.º 1 para o quadro comum administrativo, de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social, far-se-á de harmonia com o disposto nos artigos 148.º e 149.º, respectivamente, do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
+
+###### Art. 4.º - 1. Nos serviços referidos no artigo antecedente, e destinados aos quadros do Centro de Medicina Física e de Reabilitação, são criados os seguintes lugares:
+
+No quadro complementar de cirurgiões, especialistas e internistas:
+
+3 de médico fisiatra ... F
+
+No quadro comum administrativo, de enfermagem, de terapêutica e diagnóstico, de saúde pública e de serviço social:
+
+1 de chefe de secção ... J
+
+1 de enfermeiro-geral ... J
+
+3 de terapeuta da fala ... H
+
+6 de terapeuta ocupacional ... H
+
+12 de fisioterapeuta ... H
+
+1 de encarregado-chefe de oficinas protésicas ... H
+
+1 de assistente social ... H
+
+2. Os Serviços de Saúde e Assistência poderão requisitar aos Serviços de Educação um psicólogo ou um professor de ensino secundário ou técnico, com essa especialização, e um professor de Educação Física para prestarem serviço, em tempo parcial, no Centro de Medicina Física e de Reabilitação.
+
+3. Aos funcionários referidos nos números anteriores é inteiramente aplicável o disposto nos n.os 3 a 6 do artigo 8.º do [Decreto n.º 58/71](https://diariodarepublica.pt/dr/detalhe/decreto/58-1971-445532), de 1 de Março.
+
+###### Art. 5.º - 1. Destinado ao Centro referido no artigo antecedente, é criado, com a categoria da letra L, um lugar de enfermeira de reabilitação, com estágio de instrutora de actividades diárias.
+
+2. Será acrescido de 20% o vencimento da enfermeira de que trata o número antecedente sempre que se verifique o exercício efectivo de funções.
+
+###### Art. 6.º - 1. Os médicos fisiatras referidos no artigo 4.º serão nomeados nos termos do artigo 120.º do [Decreto n.º 49073](https://diariodarepublica.pt/dr/detalhe/decreto/49073-1969-199975), de 21 de Junho de 1969.
+
+2. No caso de impossibilidade de provimento nos termos do número antecedente, e desde que conveniências de serviço o aconselhem, poderão os médicos fisiatras ser requisitados ao Ministério da Saúde, de harmonia com o [Decreto-Lei n.º 39677](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39677-1954-635429), de 24 de Maio de 1954, e [Decreto-Lei n.º 275/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/275-1970-140831), de 18 de Junho.
+
+3. Os lugares da letra H e de enfermeira de reabilitação, criados, respectivamente, pelos artigos 4.º e 5.º, serão providos em regime de contrato.
+
+II
+
+Disposições comuns
+
+###### Art. 7.º - 1. Aos médicos do Hospital do Ultramar que tenham exercido as funções de médico interno estagiário e posteriormente hajam transitado para os quadros complementares de cirurgiões, especialistas e internistas e de técnicos especializados é contado o tempo correspondente ao exercício daquelas funções para efeito da concessão das diuturnidades a que se referem o artigo 89.º e o n.º 5.º do artigo 91.º do regulamento aprovado pelo [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março.
+
+2. O abono das diuturnidades a que se alude no número anterior obedecerá ao disposto no § único do artigo 166.º do Estatuto do Funcionalismo Ultramarino.
+
+###### Art. 8.º Os médicos do quadro complementar de cirurgiões, especialistas e internistas do Hospital do Ultramar admitidos para dirigir os serviços especializados a que se refere o artigo 41.º do [Decreto n.º 37638](https://diariodarepublica.pt/dr/detalhe/decreto/37638-1949-267627), de 7 de Dezembro de 1949, e enquanto se mantiverem no exercício dessas funções, consideram-se incluídos, desde a posse, na letra J, a que se referem os mapas anexos ao [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935, com direito aos respectivos vencimentos.
+
+###### Art. 9.º O n.º 3 do artigo 164.º do Regulamento do Hospital do Ultramar, aprovado pelo [Decreto n.º 131/70](https://diariodarepublica.pt/dr/detalhe/decreto/131-1970-229120), de 26 de Março, passa a ter a seguinte redacção:
+
+3. Fora dos casos previstos nos números anteriores, poderá ainda ser prestada assistência médico-cirúrgica geral e de especialidades nos termos que, previamente aprovados por despacho do Ministro do Ultramar, venham a ser fixados em acordos celebrados entre o Hospital do Ultramar e a Direcção-Geral dos Hospitais, do Ministério da Saúde, ou outros departamentos e entidades assistenciais.
+
+Marcello Caetano - Baltasar Leite Rebelo de Sousa.
+
+**Promulgado em 28 de Dezembro de 1973.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.

@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:611729:por
+title: Portaria n.º 329/89
+short_title: null
+summary: Majora a ajuda aos investimentos de jovens agricultores relativamente ao Programa de Electrificação das Explorações
+  Agrícolas, ao Programa de Drenagem e Conservação do Solo e ao Programa de Pequenos Regadios Individuais, no âmbito do Programa
+  Específico de Desenvolvimento da Agricultura Portuguesa (PEDAP)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 329/89
+official_date: null
+publication_date: '1989-05-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 105/1989, Série I de 1989-05-08
+  number: '105'
+  series: I
+  supplement: null
+  pages: 1842 - 1843
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/05/10500/18421843.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '611729'
+  dre_path: /dr/detalhe/portaria/329-1989-611729
+  internal: pt:dre:611729:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-1989-611729
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/329-1989-611729
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-02-22T00:00:00Z'
+integrity:
+  source_sha256: d96b48578859377df12d1588cad97c66bb704f302163341a111c028d5c577fa1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-329-611729.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:158643:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 329/89
+
+de 8 de Maio
+
+Considerando as alterações recentemente aprovadas relativas ao Programa de Electrificação das Explorações Agrícolas, ao Programa de Drenagem e Conservação do Solo e ao Programa de Pequenos Regadios Individuais, no âmbito do Programa Específico de Desenvolvimento da Agricultura Portuguesa (PEDAP), designadamente no que respeita aos jovens agricultores;
+
+Considerando a conveniência em majorar a ajuda prevista naqueles Programas aos investimentos de jovens agricultores, em termos articulados com o estipulado no [Decreto-Lei n.º 79-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1987-254631), de 18 de Fevereiro;
+
+Considerando ainda a necessidade de clarificar o regime jurídico aplicável às explorações associadas, no âmbito do Programa de Electrificação das Explorações Agrícolas e do Programa de Pequenos Regadios Individuais:
+
+Manda o Governo, pelo Ministro da Agricultura, Pescas e Alimentação, ao abrigo do artigo 9.º do [Decreto-Lei n.º 96/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1987-662487), de 4 de Março, o seguinte:
+
+1.º As percentagens referidas na alínea c) do n.º 1 do n.º 10.º da [Portaria n.º 6/89](https://diariodarepublica.pt/dr/detalhe/portaria/6-1989-234333), de 4 de Janeiro, no n.º 1 do n.º 6.º da [Portaria n.º 185/89](https://diariodarepublica.pt/dr/detalhe/portaria/185-1989-613183), de 6 de Março, e na alínea b) do n.º 3 do n.º 14.º da [Portaria n.º 178/89](https://diariodarepublica.pt/dr/detalhe/portaria/178-1989-612809), de 4 de Março, são majoradas de 25% no caso de os beneficiários serem jovens agricultores, nos termos do n.º 6 do artigo 2.º do [Decreto-Lei n.º 79-A/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/79-a-1987-254631), de 18 de Fevereiro, e preencherem os seguintes requisitos:
+
+a) Seja agricultor a título principal, nos termos do n.º 1 do artigo 2.º do Decreto-Lei n.º 79-A/86, de 18 de Fevereiro, ou se venha a instalar como tal nos termos do n.º 7 do mesmo artigo;
+
+b) Possua qualificação profissional bastante, nos termos do n.º 2 do artigo 14.º do decreto-lei referido na alínea anterior;
+
+c) Utilize uma exploração que necessite de um volume de trabalho equivalente, no mínimo, a uma UHT;
+
+d) Apresente um plano de exploração conforme formulário a distribuir pelos serviços competentes;
+
+e) Tenha ou se comprometa a introduzir, a partir do início do ano seguinte ao da concessão da ajuda, uma contabilidade simplificada, bem como a mantê-la no período em que exercer obrigatoriamente a actividade agrícola, nos termos da alínea seguinte;
+
+f) Se comprometa a exercer a actividade agrícola na exploração por um período mínimo de cinco anos.
+
+2.º As condições de agricultor a título principal, de jovem agricultor, de primeira instalação do jovem agricultor e da sua qualificação profissional são confirmadas pelas direcções regionais de agricultura.
+
+3.º A majoração referida no n.º 1.º aplica-se às pessoas colectivas cujos associados sejam, todos, jovens agricultores nos termos e condições previstos no mesmo número.
+
+4.º O regime jurídico aplicável às explorações associadas referidas no n.º 2 do n.º 14.º da [Portaria n.º 178/89](https://diariodarepublica.pt/dr/detalhe/portaria/178-1989-612809), de 4 de Março, e no n.º 2 do n.º 8.º da [Portaria n.º 185/89](https://diariodarepublica.pt/dr/detalhe/portaria/185-1989-613183), de 6 de Março, é o previsto na lei para as sociedades de agricultura de grupo.
+
+5.º São revogados o n.º 2 do n.º 10.º da [Portaria n.º 6/89](https://diariodarepublica.pt/dr/detalhe/portaria/6-1989-234333), de 4 de Janeiro, o n.º 2 do n.º 6.º da [Portaria n.º 185/89](https://diariodarepublica.pt/dr/detalhe/portaria/185-1989-613183), de 6 de Março, e a alínea c) do n.º 3 do n.º 14.º da [Portaria n.º 178/89](https://diariodarepublica.pt/dr/detalhe/portaria/178-1989-612809), de 4 de Março.
+
+Ministério da Agricultura, Pescas e Alimentação.
+
+**Assinada em 14 de Abril de 1989.**
+
+**O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto.**

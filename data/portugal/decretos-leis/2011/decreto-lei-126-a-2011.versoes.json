@@ -1,0 +1,1116 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:642010:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-56934606",
+ "dre_path": "/dr/detalhe/decreto-lei/126-a-2011-642010",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "56939787",
+    "56939788",
+    "56939789",
+    "56939790",
+    "56939791",
+    "56939792",
+    "56939793",
+    "56939794",
+    "56939795",
+    "56939796",
+    "56939797",
+    "56939798",
+    "56939799",
+    "56939800",
+    "56939801",
+    "56939802",
+    "56939803",
+    "56939804",
+    "56939805",
+    "56939806",
+    "56939807",
+    "56939808",
+    "56939809",
+    "56939810",
+    "56939811",
+    "56939812",
+    "56939813",
+    "56939814",
+    "56939815",
+    "56939816",
+    "56939817",
+    "56939818",
+    "56939819",
+    "56939820",
+    "56939821",
+    "56939822",
+    "56939823",
+    "56939824",
+    "56939825",
+    "56939826",
+    "56939827",
+    "56939828",
+    "56939829",
+    "56939830",
+    "56939831",
+    "56939832",
+    "56939833",
+    "56939834",
+    "56939835",
+    "56939836",
+    "56939837",
+    "56939838",
+    "56939839",
+    "56939840",
+    "56939841",
+    "56939842",
+    "56939843",
+    "56939844",
+    "56939845",
+    "56939846",
+    "56939847",
+    "56939848",
+    "56939849",
+    "56939850",
+    "56939851",
+    "56939852",
+    "56939853",
+    "56939854",
+    "56939855",
+    "56939856",
+    "56939857",
+    "56939858",
+    "56939859"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164417:por",
+     "title": "Decreto-Lei n.º 167-A/2013",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/167-a-2013-164417"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 35.º-A",
+    "Adita Artigo 38.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 40.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "56939787",
+    "56939788",
+    "56939789",
+    "158508434",
+    "56939791",
+    "158508435",
+    "158508436",
+    "158508437",
+    "56939795",
+    "56939796",
+    "56939797",
+    "56939798",
+    "56939799",
+    "56939800",
+    "56939801",
+    "56939802",
+    "56939803",
+    "56939804",
+    "56939805",
+    "56939806",
+    "56939807",
+    "56939808",
+    "56939809",
+    "56939810",
+    "56939811",
+    "56939812",
+    "56939813",
+    "56939814",
+    "56939815",
+    "56939816",
+    "56939817",
+    "56939818",
+    "56939819",
+    "56939820",
+    "56939821",
+    "56939822",
+    "56939823",
+    "56939824",
+    "56939825",
+    "56939826",
+    "56939827",
+    "56939828",
+    "56939829",
+    "56939830",
+    "56939831",
+    "56939832",
+    "56939833",
+    "56939834",
+    "56939835",
+    "56939836",
+    "56939837",
+    "56939838",
+    "56939839",
+    "158508439",
+    "56939840",
+    "56939841",
+    "56939842",
+    "56939843",
+    "158508440",
+    "56939844",
+    "56939845",
+    "56939846",
+    "158508438",
+    "56939848",
+    "56939849",
+    "56939850",
+    "56939851",
+    "56939852",
+    "56939853",
+    "56939854",
+    "56939855",
+    "56939856",
+    "56939857",
+    "56957275",
+    "158508441",
+    "158508442"
+   ]
+  },
+  {
+   "date": "2014-03-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572382:por",
+     "title": "Decreto-Lei n.º 31/2014",
+     "published": "2014-02-27",
+     "dre_path": "/dr/detalhe/decreto-lei/31-2014-572382"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 36.º"
+   ],
+   "fragments": [
+    "56939787",
+    "56939788",
+    "56939789",
+    "158508434",
+    "56939791",
+    "158508435",
+    "158508436",
+    "158508443",
+    "56939795",
+    "56939796",
+    "56939797",
+    "56939798",
+    "56939799",
+    "56939800",
+    "56939801",
+    "56939802",
+    "56939803",
+    "56939804",
+    "56939805",
+    "56939806",
+    "56939807",
+    "56939808",
+    "56939809",
+    "56939810",
+    "56939811",
+    "56939812",
+    "56939813",
+    "56939814",
+    "56939815",
+    "56939816",
+    "56939817",
+    "56939818",
+    "56939819",
+    "56939820",
+    "56939821",
+    "56939822",
+    "56939823",
+    "56939824",
+    "56939825",
+    "56939826",
+    "56939827",
+    "56939828",
+    "56939829",
+    "56939830",
+    "56939831",
+    "56939832",
+    "56939833",
+    "56939834",
+    "56939835",
+    "56939836",
+    "56939837",
+    "56939838",
+    "56939839",
+    "158508439",
+    "56939840",
+    "158508444",
+    "56939842",
+    "56939843",
+    "158508440",
+    "56939844",
+    "56939845",
+    "56939846",
+    "158508438",
+    "56939848",
+    "56939849",
+    "56939850",
+    "56939851",
+    "56939852",
+    "56939853",
+    "56939854",
+    "56939855",
+    "56939856",
+    "56939857",
+    "56957275",
+    "158508441",
+    "158508442"
+   ]
+  },
+  {
+   "date": "2015-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66443112:por",
+     "title": "Decreto-Lei n.º 24/2015",
+     "published": "2015-02-06",
+     "dre_path": "/dr/detalhe/decreto-lei/24-2015-66443112"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º",
+    "Revoga Artigo 35.º"
+   ],
+   "fragments": [
+    "56939787",
+    "56939788",
+    "56939789",
+    "158508434",
+    "56939791",
+    "158508435",
+    "158508446",
+    "158508443",
+    "56939795",
+    "56939796",
+    "56939797",
+    "56939798",
+    "56939799",
+    "56939800",
+    "158508445",
+    "56939802",
+    "56939803",
+    "56939804",
+    "56939805",
+    "56939806",
+    "56939807",
+    "56939808",
+    "56939809",
+    "56939810",
+    "56939811",
+    "56939812",
+    "56939813",
+    "56939814",
+    "56939815",
+    "56939816",
+    "56939817",
+    "56939818",
+    "56939819",
+    "56939820",
+    "56939821",
+    "56939822",
+    "56939823",
+    "56939824",
+    "56939825",
+    "56939826",
+    "56939827",
+    "56939828",
+    "56939829",
+    "56939830",
+    "56939831",
+    "56939832",
+    "56939833",
+    "56939834",
+    "56939835",
+    "56939836",
+    "56939837",
+    "56939838",
+    "158508447",
+    "158508439",
+    "56939840",
+    "158508444",
+    "56939842",
+    "56939843",
+    "158508440",
+    "56939844",
+    "56939845",
+    "56939846",
+    "158508438",
+    "56939848",
+    "56939849",
+    "56939850",
+    "56939851",
+    "56939852",
+    "56939853",
+    "56939854",
+    "56939855",
+    "56939856",
+    "56939857",
+    "56957275",
+    "158508441",
+    "158508442"
+   ]
+  }
+ ],
+ "fragments": {
+  "56939787": {
+   "fragment_id": "56934607",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 126-A/2011\n\nde 29 de Dezembro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nAs características específicas da Presidência do Conselho de Ministros (PCM), como centro do Governo e como departamento governamental onde coexistem as diversas políticas transversais, justificam a sua estruturação numa área institucional, que integra também a igualdade, segurança e informações e numa área sectorial relativa à imigração, à administração local e reforma administrativa, ao desporto e juventude e à comunicação social.\n\nJá a inserção na PCM dos serviços, organismos e outras estruturas do Ministério da Cultura, em concretização da solução consagrada na Lei Orgânica do Governo, explica a existência da cultura como outra área de intervenção da PCM.\n\nNo âmbito da área institucional, igualdade, segurança e informações, extingue-se a Unidade para a Participação Política e Cívica, o Gabinete de Estudos, Planeamento e Avaliação, o controlador financeiro e o Gabinete Coordenador de Segurança, ainda que a extinção desta entidade apenas se torne efectiva quando entrar em vigor o diploma que proceda à revisão da Lei de Segurança Interna, de modo a uma adequada reorganização do sistema de segurança interna.\n\nExtingue-se também o Conselho Nacional de Planeamento Civil de Emergência, mas agora por fusão, na medida em que as suas atribuições são integradas na Autoridade Nacional de Protecção Civil do Ministério da Administração Interna.\n\nReestrutura-se ainda o Centro Jurídico, que é reconduzido a um serviço de exclusivo apoio jurídico ao Conselho de Ministros, ao Primeiro-Ministro e aos restantes membros de Governo integrados na PCM, sendo as suas atribuições nos domínios da gestão do DIGESTO - Sistema Integrado de Tratamento e da Informação Jurídica, da administração da PCMLEX e da publicação dos diplomas do Governo transferidas para a Secretaria-Geral.\n\nAtribui-se ainda um novo enquadramento orgânico ao Instituto de Investigação Científica Tropical, I. P., transferindo-o para o âmbito do Ministério dos Negócios Estrangeiros.\n\nJá na área da cultura, extingue-se o controlador financeiro do Ministério da Cultura e fundem-se diversos serviços e organismos da administração directa e indirecta do Estado. De entre as fusões, destacam-se a da Direcção-Geral do Livro e das Bibliotecas com a Direcção-Geral dos Arquivos, originando a Direcção-Geral do Livro, dos Arquivos e das Bibliotecas, e a do Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P., com o Instituto dos Museus e da Conservação, I. P., gerando um serviço da administração directa do Estado, a Direcção-Geral do Património Cultural.\n\nTambém na área da cultura, reestrutura-se o Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, que passa a designar-se Gabinete de Estratégia, Planeamento e Avaliação Culturais e assume as atribuições nos domínios do apoio jurídico-contencioso e da gestão administrativa e financeira do Fundo de Fomento Cultural da Secretaria-Geral do Ministério da Cultura.\n\nAinda no mesmo âmbito, prevê-se que a natureza jurídica da Cinemateca Portuguesa - Museu do Cinema seja alterada de instituto público para entidade pública empresarial, mantendo a mesma denominação, e procede-se a uma reestruturação das diversas entidades públicas empresariais com atribuições no domínio da cultura, que, no futuro, serão integradas num Agrupamento Complementar de Empresas.\n\nNas áreas sectoriais relativas à imigração, à administração local e reforma administrativa, ao desporto e juventude e à comunicação social, em concreto no que tem que ver com as políticas sectoriais relacionadas com a administração local, extingue-se a Inspecção-Geral da Administração Local, passando as suas atribuições a ser prosseguidas pela Inspecção-Geral de Finanças.\n\nFinalmente, refira-se que a PCM passa a deter atribuições no domínio da internacionalização da economia, cabendo-lhe a coordenação estratégica dos serviços e organismos do Estado envolvidos na promoção e captação de investimento estrangeiro e da cooperação para o desenvolvimento, através do órgão de consulta do Primeiro-Ministro nessa matéria, o Conselho Estratégico de Internacionalização da Economia.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "56939788": {
+   "fragment_id": "56934608",
+   "type": 1,
+   "heading": "Capítulo I — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Missão e atribuições"
+  },
+  "56939789": {
+   "fragment_id": "56934609",
+   "type": 11,
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nA Presidência do Conselho de Ministros, abreviadamente designada por PCM, é o departamento central do Governo que tem por missão prestar apoio ao Conselho de Ministros, ao Primeiro-Ministro e aos demais membros do Governo aí integrados organicamente e promover a coordenação interministerial dos diversos departamentos governamentais."
+  },
+  "56939790": {
+   "fragment_id": "56934610",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da PCM:\n\na) Assegurar o regular funcionamento do Conselho de Ministros;\n\nb) Desenvolver o planeamento estratégico necessário à execução do Programa do Governo;\n\nc) Promover a coordenação interministerial entre os diversos departamentos governamentais;\n\nd) Assegurar as relações institucionais do Governo com a Presidência da República e com a Assembleia da República;\n\ne) Assegurar a prestação de apoio jurídico, informativo, técnico e administrativo ao Primeiro-Ministro, ao Conselho de Ministros e aos demais membros do Governo integrados na PCM;\n\nf) A definição de políticas de desenvolvimento cultural, de defesa da língua e do património cultural e de incentivo à criação artística;\n\ng) Coordenar o procedimento de aprovação e publicação de diplomas, assegurando o controlo de qualidade dos actos normativos do Governo, as diligências necessárias em sede de audições a entidades públicas e privadas e a fixação das orientações para o serviço público de publicação do Diário da República;\n\nh) Gerir as infra-estruturas de comunicação interna do Governo e incrementar e apoiar o desenvolvimento das valências de governo electrónico (e-government), designadamente aquelas relativas à desmaterialização de procedimentos e à certificação e segurança das comunicações;\n\ni) Assegurar o funcionamento do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE);\n\nj) Desenvolver e divulgar sistemas de tratamento de informação jurídica, articulando as bases de dados jurídicas públicas;\n\nl) Promover as condições para o regular funcionamento do sistema estatístico nacional;\n\nm) Assegurar formas de relacionamento do Governo com os cidadãos e as instituições da sociedade civil.\n\n2 - São atribuições da PCM, no domínio das relações do Governo com outras entidades:\n\na) Assegurar as relações institucionais do Governo com as Regiões Autónomas;\n\nb) Assegurar as relações institucionais e exercer, em articulação com o Ministério das Finanças, a tutela administrativa sobre as autarquias locais, entidades equiparadas e demais formas de organização territorial autárquica.\n\n3 - É atribuição da PCM, no domínio da internacionalização da economia, a articulação dos serviços e organismos do Estado envolvidos na promoção e captação de investimento estrangeiro e da cooperação para o desenvolvimento.\n\n4 - São atribuições da PCM, no domínio da segurança e das informações:\n\na) Assegurar, no respeito da Constituição e da lei, a actividade de produção de informações necessárias à salvaguarda da independência nacional e dos interesses nacionais e à garantia da segurança externa e interna do Estado Português;\n\nb) Garantir a segurança das matérias classificadas no âmbito nacional e das organizações internacionais de que Portugal é parte e exercer a autoridade de credenciação de pessoas e empresas para o acesso e manuseamento de matérias classificadas.\n\n5 - São atribuições da PCM a concepção, execução e coordenação das políticas públicas nas seguintes áreas de intervenção:\n\na) Cidadania e Igualdade de Género;\n\nb) Cultura;\n\nc) Imigração e Diálogo Intercultural;\n\nd) Administração Local e Reforma Administrativa;\n\ne) Desporto e Juventude;\n\nf) Comunicação Social."
+  },
+  "56939791": {
+   "fragment_id": "56934611",
+   "type": 1,
+   "heading": "Capítulo II — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Estrutura orgânica"
+  },
+  "56939792": {
+   "fragment_id": "56934612",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\n1 - A PCM prossegue as suas atribuições através de serviços integrados na administração directa do Estado, de organismos integrados na administração indirecta do Estado, de órgãos consultivos, de outras estruturas e de entidades integradas no sector empresarial do Estado.\n\n2 - Os serviços, organismos, órgãos, estruturas e entidades referidos no número anterior desenvolvem a sua actividade nas seguintes áreas de intervenção:\n\na) Área institucional, igualdade, segurança e informações;\n\nb) Área da cultura;\n\nc) Área da imigração, administração local e reforma administrativa, desporto e juventude e comunicação social."
+  },
+  "56939793": {
+   "fragment_id": "56934613",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\n1 - Integram a administração directa do Estado, no âmbito da PCM, os seguintes serviços centrais:\n\na) A Comissão para a Cidadania e a Igualdade de Género;\n\nb) A Secretaria-Geral;\n\nc) O Gabinete Nacional de Segurança;\n\nd) O Centro Jurídico;\n\ne) O Centro de Gestão da Rede Informática do Governo;\n\nf) A Inspecção-Geral das Actividades Culturais;\n\ng) O Gabinete de Estratégia, Planeamento e Avaliação Culturais;\n\nh) A Biblioteca Nacional de Portugal;\n\ni) A Direcção-Geral das Artes;\n\nj) A Direcção-Geral do Livro, dos Arquivos e das Bibliotecas;\n\nl) A Direcção-Geral do Património Cultural;\n\nm) A Direcção-Geral das Autarquias Locais;\n\nn) O Gabinete para os Meios de Comunicação Social.\n\n2 - Integram ainda a administração directa do Estado, no âmbito da PCM, os seguintes serviços periféricos:\n\na) A Direcção Regional da Cultura do Norte;\n\nb) A Direcção Regional da Cultura do Centro;\n\nc) A Direcção Regional da Cultura do Alentejo;\n\nd) A Direcção Regional da Cultura do Algarve."
+  },
+  "56939794": {
+   "fragment_id": "56934614",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\nProsseguem atribuições da PCM, sob superintendência e tutela do Primeiro-Ministro ou de outro membro do governo integrado na PCM, os seguintes organismos:\n\na) O Instituto Nacional de Estatística, I. P.;\n\nb) O Instituto do Cinema e do Audiovisual, I. P.;\n\nc) O Alto Comissariado para a Imigração e Diálogo Intercultural, I. P.;\n\nd) A Agência para a Modernização Administrativa, I. P.;\n\ne) O Instituto Português do Desporto e Juventude, I. P."
+  },
+  "56939795": {
+   "fragment_id": "56934615",
+   "type": 11,
+   "heading": "Artigo 6.º — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Órgãos consultivos\n\nSão órgãos consultivos no âmbito da PCM:\n\na) O Conselho Estratégico de Internacionalização da Economia;\n\nb) O Conselho Superior de Segurança Interna;\n\nc) O Conselho Superior de Informações;\n\nd) O Conselho Nacional de Cultura."
+  },
+  "56939796": {
+   "fragment_id": "56934616",
+   "type": 11,
+   "heading": "Artigo 7.º — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outras estruturas\n\nNo âmbito da PCM funcionam ainda:\n\na) O Secretário-Geral do Sistema de Segurança Interna;\n\nb) O Secretário-Geral do Sistema de Informações da República Portuguesa, o Serviço de Informações Estratégicas de Defesa e o Serviço de Informações de Segurança;\n\nc) O Conselho Superior de Estatística;\n\nd) A Academia Internacional de Cultura Portuguesa;\n\ne) A Academia Nacional de Belas Artes;\n\nf) A Academia Portuguesa da História."
+  },
+  "56939797": {
+   "fragment_id": "56934617",
+   "type": 11,
+   "heading": "Artigo 8.º — Sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sector empresarial do Estado\n\nAs orientações estratégicas, a implementação dos respectivos planos e os relatórios de execução financeira das entidades do sector empresarial do Estado no âmbito da PCM ficam condicionados à apreciação e aprovação do membro do Governo responsável pela área das finanças."
+  },
+  "56939798": {
+   "fragment_id": "56934618",
+   "type": 1,
+   "heading": "Capítulo III — Área institucional, igualdade, segurança e informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Área institucional, igualdade, segurança e informações"
+  },
+  "56939799": {
+   "fragment_id": "56934619",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços da administração directa do Estado"
+  },
+  "56939800": {
+   "fragment_id": "56934620",
+   "type": 11,
+   "heading": "Artigo 9.º — Comissão para a Cidadania e a Igualdade de Género",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Comissão para a Cidadania e a Igualdade de Género\n\n1 - A Comissão para a Cidadania e a Igualdade de Género, abreviadamente designada por CIG, tem por missão garantir a execução das políticas públicas no âmbito da cidadania e da promoção e defesa da igualdade de género.\n\n2 - A CIG prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar a elaboração e o desenvolvimento da política global e sectorial com incidência na promoção da cidadania e da igualdade de género e participar na sua execução, ao nível das políticas específicas, e na correspondente articulação ao nível das políticas integradas;\n\nb) Contribuir para a alteração do quadro normativo, ou para a sua efectivação, na perspectiva da cidadania e da igualdade de género, elaborando propostas, emitindo pareceres ou sugerindo mecanismos que promovam o cumprimento das normas vigentes, designadamente nos domínios da educação para a cidadania e da igualdade e não discriminação entre homens e mulheres;\n\nc) Propor medidas e desenvolver acções de intervenção contra todas as formas de violência de género e de apoio às suas vítimas;\n\nd) Assegurar modalidades adequadas de participação institucional das organizações não-governamentais que concorram para a realização das políticas de cidadania e de igualdade de género.\n\n3 - A CIG é dirigida por um presidente, coadjuvado por um vice-presidente, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939801": {
+   "fragment_id": "56934621",
+   "type": 11,
+   "heading": "Artigo 10.º — Secretaria-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Secretaria-Geral\n\n1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão assegurar e coordenar o apoio jurídico, informativo, técnico e administrativo à PCM, bem como as funções de inspecção e auditoria, através da apreciação da legalidade e regularidade dos actos praticados pelos serviços e organismos da PCM, ou sob tutela dos membros do Governo integrados na PCM, bem como avaliar a sua gestão e os seus resultados, através do controlo de auditoria técnica, de desempenho e financeiro, com excepção dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.\n\n2 - A SG prossegue, designadamente, as seguintes atribuições:\n\na) Prestar ao Conselho de Ministros, ao Primeiro-Ministro, aos ministros e aos demais membros do Governo integrados na PCM a assistência técnica, jurídica e administrativa que lhe seja solicitada, assegurando ainda todo o apoio informativo, técnico, administrativo e documental às entidades e serviços integrados na PCM cuja orgânica não contemple estruturas de prestação desse apoio;\n\nb) Administrar, conservar e zelar pela segurança dos imóveis afectos à PCM e respectivos recheio e equipamentos, sem prejuízo das atribuições cometidas aos serviços e organismos responsáveis pela administração do património cultural;\n\nc) Assegurar a elaboração do orçamento de funcionamento e do orçamento de investimento da PCM, bem como acompanhar a respectiva execução;\n\nd) Gerir o DIGESTO - Sistema Integrado de Tratamento e da Informação Jurídica, assegurando o tratamento da informação jurídica e a difusão de informação legislativa e jurídica de base, e administrar a PCMLEX, garantindo a existência de um serviço de tratamento de informação legislativa, podendo para o efeito participar na repartição das receitas geradas;\n\ne) Promover a publicação dos diplomas do Governo, garantindo o registo, preparação, envio e controlo da publicação dos diplomas no Diário da República.\n\n3 - A SG é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939802": {
+   "fragment_id": "56934622",
+   "type": 11,
+   "heading": "Artigo 11.º — Gabinete Nacional de Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Gabinete Nacional de Segurança\n\n1 - O Gabinete Nacional de Segurança, abreviadamente designado por GNS, tem por missão garantir a segurança da informação classificada no âmbito nacional e das organizações internacionais de que Portugal é parte e exercer a função de autoridade de credenciação de pessoas e empresas para o acesso e manuseamento de informação classificada, bem como a de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE).\n\n2 - O GNS prossegue, designadamente, as seguintes atribuições:\n\na) Garantir a articulação e a harmonização dos procedimentos relativos à segurança das matérias classificadas em todos os serviços, organismos e entidades, públicos ou privados, onde sejam administradas tais matérias;\n\nb) Assegurar, nos termos dos instrumentos de vinculação do Estado Português, a protecção e a salvaguarda das matérias classificadas emanadas das organizações internacionais de que Portugal faz parte ou das respectivas estruturas internas, bem como de outros Estados;\n\nc) Exercer em Portugal os poderes públicos cometidos às autoridades nacionais de segurança, nomeadamente, nas áreas da credenciação de segurança, segurança das comunicações, distribuição e outras;\n\nd) Fiscalizar e inspeccionar os órgãos de segurança que detenham matérias classificadas sob responsabilidade portuguesa, dentro e fora do território nacional;\n\ne) Exercer as funções de autoridade credenciadora e de fiscalização de entidades que actuem no âmbito do SCEE, bem como no quadro do regime jurídico dos documentos electrónicos e da assinatura electrónica.\n\n3 - O GNS é dirigido por um director-geral, coadjuvado por um subdirector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939803": {
+   "fragment_id": "56934623",
+   "type": 11,
+   "heading": "Artigo 12.º — Centro Jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Centro Jurídico\n\n1 - O Centro Jurídico, abreviadamente designado CEJUR, tem por missão o exercício de funções de apoio jurídico ao Conselho de Ministros, ao Primeiro-Ministro e aos restantes membros do Governo integrados na PCM.\n\n2 - O CEJUR prossegue, designadamente, as seguintes atribuições:\n\na) Representar em juízo, através de consultores jurídicos para o efeito designados, o Conselho de Ministros, o Primeiro-Ministro ou qualquer outro membro do Governo organicamente integrado na PCM no âmbito do contencioso administrativo;\n\nb) Preparar os projectos de resposta nos processos de fiscalização da constitucionalidade ou legalidade das normas constantes de diplomas assinados pelo Primeiro-Ministro ou por qualquer dos membros do Governo integrados na PCM;\n\nc) Elaborar estudos legislativos e outros de carácter jurídico;\n\nd) Participar, a solicitação do membro do Governo, na análise e preparação de projectos de diplomas legais e regulamentares, contribuindo para a boa qualidade dos actos normativos e para a simplificação legislativa e regulamentar.\n\n3 - O CEJUR é dirigido por um director, cargo de direcção superior de 1.º grau."
+  },
+  "56939804": {
+   "fragment_id": "56934624",
+   "type": 11,
+   "heading": "Artigo 13.º — Centro de Gestão da Rede Informática do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Centro de Gestão da Rede Informática do Governo\n\n1 - O Centro de Gestão da Rede Informática do Governo, abreviadamente designado por CEGER, tem por missão assegurar a gestão da rede informática do Governo e a prestação de apoio nos domínios das tecnologias de informação e de comunicações e dos sistemas de informação.\n\n2 - O CEGER prossegue, designadamente, as seguintes atribuições:\n\na) Garantir a gestão da rede informática do Governo, velando pela sua segurança e pela segurança de informações e de bases de dados;\n\nb) Assegurar o estudo, a concepção, o desenvolvimento, a implantação e a exploração de sistemas de informação de utilização comum para os gabinetes dos membros do Governo;\n\nc) Prestar apoio de consultoria aos membros do Governo e seus gabinetes, bem como a outros organismos, em matérias de tecnologias de informação, de comunicações, de sistemas de informação e segurança electrónica;\n\nd) Actuar como entidade certificadora do Governo no âmbito do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE).\n\n3 - O CEGER é dirigido por um director, cargo de direcção superior de 1.º grau."
+  },
+  "56939805": {
+   "fragment_id": "56934625",
+   "type": 8,
+   "heading": "Secção II — Organismo da administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organismo da administração indirecta do Estado"
+  },
+  "56939806": {
+   "fragment_id": "56934626",
+   "type": 11,
+   "heading": "Artigo 14.º — Instituto Nacional de Estatística, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Instituto Nacional de Estatística, I. P.\n\n1 - O Instituto Nacional de Estatística, I. P., abreviadamente designado por INE, I. P., tem por missão a produção e divulgação da informação estatística oficial, promovendo a coordenação, o desenvolvimento e a divulgação da actividade estatística nacional.\n\n2 - O INE, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Produzir informação estatística oficial, com o objectivo de apoiar a tomada de decisão pública, privada, individual e colectiva, bem como a investigação científica;\n\nb) Elaborar as Contas Nacionais Portuguesas, em articulação com as demais entidades competentes;\n\nc) Divulgar de forma acessível a informação estatística produzida;\n\nd) Coordenar e exercer a supervisão técnico-científica e metodológica da produção estatística da sua responsabilidade, bem como das entidades com delegação de competências e dos Serviços Regionais de Estatísticas das Regiões Autónomas;\n\ne) Cooperar com as entidades nacionais que o solicitarem e com os organismos de outros Estados, da União Europeia e das organizações internacionais, na área da informação estatística.\n\n3 - O INE, I. P., é dirigido por um conselho directivo constituído por um presidente e dois vogais."
+  },
+  "56939807": {
+   "fragment_id": "56934627",
+   "type": 8,
+   "heading": "Secção III — Órgãos consultivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgãos consultivos"
+  },
+  "56939808": {
+   "fragment_id": "56934628",
+   "type": 11,
+   "heading": "Artigo 15.º — Conselho Estratégico de Internacionalização da Economia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Conselho Estratégico de Internacionalização da Economia\n\n1 - O Conselho Estratégico de Internacionalização da Economia é o órgão de consulta do Primeiro-Ministro em matéria de internacionalização da economia.\n\n2 - A composição, as competências e o funcionamento do Conselho Estratégico de Internacionalização da Economia são definidos por Resolução do Conselho de Ministros."
+  },
+  "56939809": {
+   "fragment_id": "56934629",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho Superior de Segurança Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho Superior de Segurança Interna\n\n1 - O Conselho Superior de Segurança Interna é o órgão interministerial de audição e consulta do Primeiro-Ministro em matéria de segurança interna.\n\n2 - O Conselho Superior de Segurança Interna tem a composição e as competências previstas na Lei de Segurança Interna."
+  },
+  "56939810": {
+   "fragment_id": "56934630",
+   "type": 11,
+   "heading": "Artigo 17.º — Conselho Superior de Informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Conselho Superior de Informações\n\n1 - O Conselho Superior de Informações é o órgão interministerial de consulta e coordenação do Primeiro-Ministro em matéria de informações.\n\n2 - O Conselho Superior de Informações tem a composição e as competências previstas na Lei Quadro do Sistema de Informações da República Portuguesa."
+  },
+  "56939811": {
+   "fragment_id": "56934631",
+   "type": 8,
+   "heading": "Secção IV — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Outras estruturas"
+  },
+  "56939812": {
+   "fragment_id": "56934632",
+   "type": 11,
+   "heading": "Artigo 18.º — Secretário-Geral do Sistema de Segurança Interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Secretário-Geral do Sistema de Segurança Interna\n\nNos termos da Lei de Segurança Interna, funciona no âmbito da PCM o Secretário-Geral do Sistema de Segurança Interna, órgão directamente dependente do Primeiro-Ministro, ao qual compete a coordenação, a direcção, o controlo e o comando operacional das forças e serviços de segurança."
+  },
+  "56939813": {
+   "fragment_id": "56934633",
+   "type": 11,
+   "heading": "Artigo 19.º — Sistema de Informações da República Portuguesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sistema de Informações da República Portuguesa\n\nNos termos da Lei Quadro do Sistema de Informações da República Portuguesa, abreviadamente designado por SIRP, funcionam no âmbito da PCM:\n\na) O Secretário-Geral, órgão do SIRP directamente dependente do Primeiro-Ministro, ao qual compete dirigir, através do Serviço de Informações Estratégicas e de Defesa, abreviadamente designado por SIED, e do Serviço de Informações de Segurança, abreviadamente designado por SIS, no respeito da Constituição e da lei, a actividade de produção de informações necessárias à salvaguarda da independência nacional e dos interesses nacionais e à garantia da segurança externa e interna do Estado Português;\n\nb) O SIED, serviço público que se integra no SIRP e que tem por missão a produção de informações que contribuam para a salvaguarda da independência nacional, dos interesses nacionais e da segurança externa do Estado Português;\n\nc) O SIS, serviço público que se integra no SIRP e que tem por missão a produção de informações destinadas a garantir a segurança interna e necessárias a prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, possam alterar ou destruir o Estado de direito constitucionalmente estabelecido."
+  },
+  "56939814": {
+   "fragment_id": "56934634",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho Superior de Estatística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conselho Superior de Estatística\n\nNos termos da Lei do Sistema Estatístico Nacional, funciona no âmbito da PCM o Conselho Superior de Estatística, órgão presidido pelo ministro que tutela o Instituto Nacional de Estatística, I. P., que tem como missão orientar e coordenar o Sistema Estatístico Nacional (SEN), competindo-lhe, designadamente, a definição das linhas gerais da actividade estatística nacional e respectivas prioridades, bem como a coordenação do SEN e seu aperfeiçoamento técnico."
+  },
+  "56939815": {
+   "fragment_id": "56934635",
+   "type": 8,
+   "heading": "Secção V — Entidades do sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Entidades do sector empresarial do Estado"
+  },
+  "56939816": {
+   "fragment_id": "56934636",
+   "type": 11,
+   "heading": "Artigo 21.º — Internacionalização da economia e Imprensa Nacional-Casa da Moeda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Internacionalização da economia e Imprensa Nacional-Casa da Moeda\n\n1 - Sem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao membro do Governo responsável pela área das finanças, o exercício da superintendência e tutela sobre a Agência para o Investimento e o Comércio Externo de Portugal, E. P. E., cabe ao Primeiro-Ministro ou ao Ministro de Estado a quem essa competência for delegada.\n\n2 - A competência relativa à definição das orientações estratégicas para a Sociedade para o Financiamento do Desenvolvimento, Instituição Financeira de Crédito, S. A., bem como ao acompanhamento da sua execução, cabe ao Primeiro-Ministro.\n\n3 - O exercício do poder de superintendência relativo à actividade da Imprensa Nacional-Casa da Moeda, S. A., relacionada com o serviço público de edição do Diário da República é assegurado pelo Primeiro-Ministro ou pelo membro do Governo integrado na PCM a quem essa competência for delegada."
+  },
+  "56939817": {
+   "fragment_id": "56934637",
+   "type": 1,
+   "heading": "Capítulo IV — Área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Área da cultura"
+  },
+  "56939818": {
+   "fragment_id": "56934638",
+   "type": 8,
+   "heading": "Secção I — Missão e atribuições na área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Missão e atribuições na área da cultura"
+  },
+  "56939819": {
+   "fragment_id": "56934639",
+   "type": 11,
+   "heading": "Artigo 22.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Missão e atribuições\n\n1 - Na área da cultura, a PCM tem por missão a definição e execução de uma política global e coordenada, designadamente, a definição e execução de políticas de desenvolvimento cultural, de salvaguarda e valorização do património cultural, de incentivo à criação artística e à difusão e internacionalização da cultura e da língua portuguesa.\n\n2 - Na prossecução da sua missão na área da cultura, são atribuições da PCM:\n\na) Salvaguardar e valorizar o património cultural imóvel, móvel, arqueológico, arquivístico, audiovisual, bibliográfico, fonográfico, fotográfico e imaterial, bem como assegurar a política museológica nacional;\n\nb) Defender e valorizar a cultura e a língua portuguesas e apoiar a divulgação dos criadores e dos autores portugueses no País e no estrangeiro, em articulação com o Ministério dos Negócios Estrangeiros;\n\nc) Desenvolver a política de promoção do livro e da leitura;\n\nd) Promover o desenvolvimento das indústrias criativas e reforçar a protecção dos direitos dos criadores e dos produtores;\n\ne) Desenvolver uma política integrada de gestão da documentação de arquivo produzida pela Administração Pública e valorizar a missão dos arquivos nacionais como repositório da memória colectiva;\n\nf) Definir uma política de apoios públicos ao sector criativo e cultural em articulação com parcerias institucionais e privadas;\n\ng) Dinamizar as redes de equipamentos culturais, promovendo a sua sustentabilidade;\n\nh) Valorizar as áreas do cinema e do audiovisual, promovendo o desenvolvimento sustentado e integrado das actividades cinematográficas e audiovisuais nas suas vertentes cultural e económica;\n\ni) Valorizar a identidade cultural e o prestígio dos organismos nacionais de produção artística;\n\nj) Valorizar os profissionais das actividades artísticas;\n\nl) Promover as actividades culturais não-profissionais;\n\nm) Promover a transversalidade da cultura através de parcerias, visando uma mais efectiva integração das políticas sectoriais."
+  },
+  "56939820": {
+   "fragment_id": "56934640",
+   "type": 8,
+   "heading": "Secção II — Serviços da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Serviços da administração directa do Estado"
+  },
+  "56939821": {
+   "fragment_id": "56934641",
+   "type": 11,
+   "heading": "Artigo 23.º — Inspecção-Geral das Actividades Culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Inspecção-Geral das Actividades Culturais\n\n1 - A Inspecção-Geral das Actividades Culturais, abreviadamente designada por IGAC, tem por missão controlar e auditar os serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura e fiscalizar e superintender na protecção do direito de autor, dos direitos conexos e dos recintos e espectáculos de natureza artística.\n\n2 - A IGAC prossegue, designadamente, as seguintes atribuições:\n\na) Realizar auditoria técnica, financeira e de gestão aos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\nb) Exercer a actividade de supervisão, fiscalização e monitorização na área do direito de autor, dos direitos conexos, dos espectáculos e dos recintos e espectáculos de natureza artística;\n\nc) Promover e assegurar, nos termos da lei, o registo, a classificação e a autenticação de obras e de conteúdos culturais;\n\nd) Assegurar a certificação das actividades na área dos recintos e espectáculos de natureza artística, sem prejuízo das competências legalmente atribuídas a outras entidades.\n\n3 - A IGAC é dirigida por um inspector-geral, coadjuvado por um subinspector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939822": {
+   "fragment_id": "56934642",
+   "type": 11,
+   "heading": "Artigo 24.º — Gabinete de Estratégia, Planeamento e Avaliação Culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Gabinete de Estratégia, Planeamento e Avaliação Culturais\n\n1 - O Gabinete de Estratégia, Planeamento e Avaliação Culturais, abreviadamente designado por GEPAC, tem por missão garantir o apoio técnico à formulação de políticas culturais, ao planeamento estratégico e operacional e às relações internacionais, em articulação com a programação financeira, proceder ao acompanhamento e avaliação global de resultados obtidos, bem como assegurar o apoio jurídico e o contencioso dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.\n\n2 - O GEPAC prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio técnico em matéria de definição e estruturação das políticas, prioridades e objectivos da área da cultura e contribuir para a concepção e a execução da respectiva política legislativa;\n\nb) Apoiar a definição das principais opções em matéria orçamental e assegurar a articulação entre os instrumentos de planeamento, de previsão orçamental, de reporte e de prestação de contas;\n\nc) Acompanhar e avaliar a execução das políticas e programas da área da cultura, bem como elaborar, difundir e apoiar a criação dos instrumentos adequados a esse fim;\n\nd) Promover, organizar e acompanhar o processo da avaliação de desempenho dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura;\n\ne) Assegurar a gestão administrativa e financeira do Fundo de Fomento Cultural;\n\nf) Propor a celebração de contratos-programa ou outros mecanismos de gestão de fundos comunitários, participar na definição das condições de acesso, elegibilidade, critérios de selecção e monitorização dos resultados das medidas ou acções de programas operacionais, de programas de iniciativa comunitária e outros programas, assegurar a gestão conjunta das referidas medidas ou acções e colaborar na divulgação e dinamização destes mecanismos de financiamento;\n\ng) Apoiar e assegurar as relações internacionais na área da cultura, coordenando as acções desenvolvidas no âmbito das relações externas no respectivo sector e os projectos dos serviços e organismos relativos à internacionalização da cultura portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\nh) Propor a adopção ou prestar apoio técnico à adopção de medidas legislativas no domínio do direito de autor, assegurando a representação do membro do Governo responsável pela área da cultura nas organizações e nos fóruns internacionais.\n\n3 - O GEPAC é dirigido por um director-geral, cargo de direcção superior de 1.º grau."
+  },
+  "56939823": {
+   "fragment_id": "56934643",
+   "type": 11,
+   "heading": "Artigo 25.º — Biblioteca Nacional de Portugal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Biblioteca Nacional de Portugal\n\n1 - A Biblioteca Nacional de Portugal, abreviadamente designada por BNP, tem por missão proceder à recolha, tratamento e conservação do património documental português, em língua portuguesa e sobre Portugal, nos vários tipos de suporte em que este se apresente, bem como assegurar o seu estudo, divulgação e as condições para a sua fruição e garantir a classificação e inventariação do património bibliográfico nacional.\n\n2 - A BNP prossegue, designadamente, as seguintes atribuições:\n\na) Receber, processar, conservar e facultar ao acesso público quer a documentação abrangida por depósito legal, quer outra, adquirida a diversos títulos, considerada de interesse para a língua portuguesa, a cultura e o conhecimento científico do País, de modo a enriquecer, em todos os campos do saber, o património nacional;\n\nb) Assegurar as funções de Agência Bibliográfica Nacional, registando e difundindo a bibliografia nacional corrente e retrospectiva, bem como assegurar a gestão do Catálogo Colectivo Nacional consubstanciado na PORBASE - Base Nacional de Dados Bibliográficos;\n\nc) Funcionar como organismo de normalização sectorial no domínio da informação e documentação no País, mantendo uma actualização e uma relação permanente com as organizações desse âmbito a nível internacional;\n\nd) Definir estratégias e desenvolver actividades de preservação e conservação dos acervos à sua guarda, incluindo uma activa política de transferência de suportes;\n\ne) Promover e participar em projectos de cooperação nacionais e internacionais, visando o desenvolvimento de novos serviços comuns e partilhados, nomeadamente no âmbito da informação digital;\n\nf) Exercer, em representação do Estado, o direito de preferência em caso de alienação, designadamente, em hasta pública ou leilão, de espécies bibliográficas, colecções, fundos bibliográficos e espólios documentais, independentemente da sua classificação ou inventariação.\n\n3 - A BNP é dirigida por um director-geral, coadjuvado por um subdirector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939824": {
+   "fragment_id": "56934644",
+   "type": 11,
+   "heading": "Artigo 26.º — Direcção-Geral das Artes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direcção-Geral das Artes\n\n1 - A Direcção-Geral das Artes, abreviadamente designada por DGARTES, tem por missão a coordenação e execução das políticas de apoio às artes, promovendo e qualificando a criação artística e garantindo a universalidade da sua fruição.\n\n2 - A DGARTES prossegue, designadamente, as seguintes atribuições:\n\na) Propor e assegurar a execução e coordenação de medidas estruturantes para as artes do espectáculo, visuais e digitais;\n\nb) Promover a igualdade de acesso às artes, assegurando a diversificação e descentralização da criação e da difusão da criação e produção artística, bem como incentivando o desenvolvimento de mecanismos que estimulem e facilitem o acesso dos diferentes públicos;\n\nc) Fomentar a criação, produção e difusão das artes, enquanto parceira institucional de desenvolvimento, nomeadamente através da definição de sistemas de incentivos adequados, produção de informação relevante para o sector e do reconhecimento e prémio dos percursos e projectos de mérito a nível nacional;\n\nd) Promover e projectar, a nível internacional, criadores, produtores e outros agentes culturais portugueses, facilitando o acesso a canais de promoção e distribuição e criando os mecanismos e incentivos adequados à sua efectivação;\n\ne) Fomentar os cruzamentos interdisciplinares das artes, articulando políticas intersectoriais, em especial nas áreas da educação e da economia, promovendo a colaboração com outros serviços e organismos da administração central e local.\n\n3 - A DGARTES é dirigida por um director-geral, coadjuvado por um subdirector-geral, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939825": {
+   "fragment_id": "56934645",
+   "type": 11,
+   "heading": "Artigo 27.º — Direcção-Geral do Livro, dos Arquivos e das Bibliotecas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Direcção-Geral do Livro, dos Arquivos e das Bibliotecas\n\n1 - A Direcção-Geral do Livro, dos Arquivos e das Bibliotecas, abreviadamente designada por DGLAB, tem por missão assegurar a coordenação do sistema nacional de arquivos e a execução de uma política integrada do livro não escolar, das bibliotecas e da leitura.\n\n2 - A DGLAB prossegue, designadamente, as seguintes atribuições:\n\na) Promover a leitura, em articulação com os sectores público e privado;\n\nb) Elaborar e desenvolver programas e projectos que contribuam para a consolidação de uma economia sustentável do sector do livro;\n\nc) Estimular a pesquisa e a elaboração de estudos, em particular sobre o mercado do livro e sobre os hábitos de leitura, em articulação com o GEPAC;\n\nd) Planear e executar a difusão dos autores portugueses no estrangeiro e intensificar a exportação do livro português para os países de língua portuguesa, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ne) Assegurar a execução e o desenvolvimento da política arquivística nacional e o cumprimento das obrigações do Estado no domínio do património arquivístico e da gestão de arquivos, em qualquer forma ou suporte e em todo o território nacional;\n\nf) Superintender técnica e normativamente e realizar as acções de auditoria em todos os arquivos do Estado, autarquias locais e empresas públicas, bem como em todos os conjuntos documentais que, nos termos da lei, venham a integrar o património arquivístico e fotográfico protegido;\n\ng) Assegurar, em articulação com as entidades competentes, a cooperação internacional no domínio arquivístico;\n\nh) Exercer, em representação do Estado, o direito de preferência em caso de alienação, designadamente, em hasta pública ou leilão, de espécies arquivísticas valiosas ou de interesse histórico-cultural do património arquivístico e fotográfico, independentemente da sua classificação ou inventariação;\n\ni) Assegurar a execução de uma política nacional para as bibliotecas públicas, em conformidade com as orientações dos organismos internacionais do sector, em articulação com as autarquias, às quais compete a tutela e gestão desses equipamentos.\n\n3 - A DGLAB é dirigida por um director-geral, coadjuvado por três subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939826": {
+   "fragment_id": "56934646",
+   "type": 11,
+   "heading": "Artigo 28.º — Direcção-Geral do Património Cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direcção-Geral do Património Cultural\n\n1 - A Direcção-Geral do Património Cultural, abreviadamente designada por DGPC, tem por missão assegurar a gestão, salvaguarda, valorização, conservação e restauro dos bens que integrem o património cultural imóvel, móvel e imaterial do País, bem como desenvolver e executar a política museológica nacional.\n\n2 - A DGPC prossegue, designadamente, as seguintes atribuições:\n\na) Assegurar o cumprimento das obrigações do Estado no domínio do inventário, classificação, estudo, conservação, restauro, protecção, valorização e divulgação do património cultural móvel e imóvel, e também no domínio do estudo, valorização e divulgação do património imaterial;\n\nb) Propor a classificação de bens imóveis, de interesse nacional e de interesse público, e a fixação das respectivas zonas especiais de protecção, bem como propor a classificação e realizar a inventariação sistemática e actualizada dos bens que integram património cultural móvel e imaterial;\n\nc) Propor e executar a política museológica nacional, promover a qualificação e credenciação dos museus portugueses, reforçar e consolidar a Rede Portuguesa de Museus, assegurar a gestão das instituições museológicas dependentes e coordenar a execução da política de conservação e restauro de bens culturais móveis e móveis integrados;\n\nd) Elaborar, em articulação com as respectivas direcções regionais de cultura, planos, programas e projectos para a execução de obras e intervenções de conservação, recuperação, restauro e valorização, em imóveis classificados ou em vias de classificação do Estado, bem como proceder à respectiva fiscalização ou acompanhamento técnico;\n\ne) Assegurar a gestão e valorização do património cultural arquitectónico e arqueológico que lhe esteja afecto, e promover, executar e fiscalizar as obras ou intervenções necessárias a esse fim;\n\nf) Assegurar o acompanhamento do comércio de bens culturais, bem como os procedimentos relativos à exportação, expedição, importação e circulação de bens culturais móveis e exercer, em representação do Estado, o direito de preferência na alienação de bens culturais, nos termos da lei;\n\ng) Conservar, tratar, e actualizar os arquivos documentais, bem como o banco de dados para o inventário do património arquitectónico e arqueológico.\n\n3 - A DGPC é dirigida por um director-geral, coadjuvado por quatro subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939827": {
+   "fragment_id": "56934647",
+   "type": 11,
+   "heading": "Artigo 29.º — Direcções regionais de cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direcções regionais de cultura\n\n1 - As direcções regionais de cultura, abreviadamente designadas por DRC, são serviços periféricos da PCM na área da cultura, que têm por missão, na sua área de actuação geográfica e em articulação com os serviços e organismos da PCM na área da cultura, a criação de condições de acesso aos bens culturais, o acompanhamento das actividades e a fiscalização das estruturas de produção artística financiadas pelos serviços e organismos da área da cultura, o acompanhamento das acções relativas à salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial, e o apoio a museus.\n\n2 - No âmbito das circunscrições territoriais respectivas, as DRC prosseguem, designadamente, as seguintes atribuições:\n\na) Assegurar o acompanhamento das actividades e colaborar na fiscalização das estruturas apoiadas pelos serviços e organismos da PCM na área da cultura, em articulação com a DGARTES;\n\nb) Apoiar iniciativas culturais locais ou regionais, de carácter profissional ou não, que, pela sua natureza, correspondam a necessidades ou aptidões específicas da região e não integrem programas de âmbito nacional;\n\nc) Propor à DGPC o plano regional de intervenções prioritárias em matéria de estudo e salvaguarda do património arquitectónico e arqueológico, bem como os programas e projectos anuais e plurianuais da sua conservação, restauro e valorização, assegurando a respectiva promoção e execução;\n\nd) Gerir os monumentos e sítios que lhe forem afectos e assegurar as condições para a sua fruição pelo público;\n\ne) Assegurar a gestão das instituições museológicas que lhe forem afectas.\n\n3 - As DRC são dirigidas por um director regional, cargo de direcção superior de 1.º grau."
+  },
+  "56939828": {
+   "fragment_id": "56934648",
+   "type": 8,
+   "heading": "Secção III — Organismo da administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Organismo da administração indirecta do Estado"
+  },
+  "56939829": {
+   "fragment_id": "56934649",
+   "type": 11,
+   "heading": "Artigo 30.º — Instituto do Cinema e do Audiovisual, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Instituto do Cinema e do Audiovisual, I. P.\n\n1 - O Instituto do Cinema e do Audiovisual, I. P., abreviadamente designado por ICA, I. P., tem por missão apoiar o desenvolvimento das actividades cinematográficas e audiovisuais, desde a criação até à divulgação e circulação nacional e internacional das obras, potenciando o surgimento de novos valores, contribuindo para a diversidade de oferta cultural e para a promoção da língua e da identidade nacionais.\n\n2 - O ICA, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar o membro do Governo responsável pela área da cultura na definição de políticas públicas para os sectores cinematográfico e audiovisual em conformidade com a sua missão;\n\nb) Propor programas, medidas e acções com vista a melhorar a eficácia e a eficiência das políticas referidas na alínea anterior e a assegurar a adequação destas às evoluções dos sectores abrangidos;\n\nc) Promover uma efectiva divulgação e circulação nacional e internacional das obras, directamente ou em cooperação com outras entidades;\n\nd) Assegurar a representação nacional nas instituições e órgãos internacionais nos domínios cinematográfico e audiovisual, nomeadamente a nível da União Europeia, do Conselho da Europa, da Cooperação Ibero-Americana e da Comunidade dos Países de Língua Portuguesa, bem como de outras plataformas de cooperação ou integração, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros;\n\ne) Colaborar com as entidades competentes na elaboração de acordos internacionais no domínio cinematográfico e audiovisual e assegurar as tarefas relativas à aplicação dos acordos existentes, bem como estabelecer e aplicar parcerias e colaborações com instituições congéneres de outros países, sem prejuízo das atribuições próprias do Ministério dos Negócios Estrangeiros.\n\n3 - O ICA, I. P., é dirigido por um conselho directivo, constituído por um presidente e um vice-presidente."
+  },
+  "56939830": {
+   "fragment_id": "56934650",
+   "type": 8,
+   "heading": "Secção IV — Órgão consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Órgão consultivo"
+  },
+  "56939831": {
+   "fragment_id": "56934651",
+   "type": 11,
+   "heading": "Artigo 31.º — Conselho Nacional de Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conselho Nacional de Cultura\n\n1 - O Conselho Nacional de Cultura é o órgão de consulta do membro do Governo responsável pela área da cultura e tem por missão emitir pareceres e recomendações sobre questões relativas à realização dos objectivos de política cultural e propor medidas que julgue necessárias ao seu desenvolvimento.\n\n2 - A composição, as competências e o funcionamento do Conselho Nacional de Cultura são definidos em diploma próprio."
+  },
+  "56939832": {
+   "fragment_id": "56934652",
+   "type": 8,
+   "heading": "Secção V — Outras estruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Outras estruturas"
+  },
+  "56939833": {
+   "fragment_id": "56934653",
+   "type": 11,
+   "heading": "Artigo 32.º — Academias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Academias\n\nAs competências do membro do Governo responsável pela área da cultura relativas à Academia Internacional de Cultura Portuguesa, à Academia Nacional de Belas Artes e à Academia Portuguesa da História, instituições científicas de utilidade pública, exercem-se nos termos dos respectivos estatutos."
+  },
+  "56939834": {
+   "fragment_id": "56934654",
+   "type": 8,
+   "heading": "Secção VI — Entidades do sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Entidades do sector empresarial do Estado"
+  },
+  "56939835": {
+   "fragment_id": "56934655",
+   "type": 11,
+   "heading": "Artigo 33.º — Sector empresarial do Estado no domínio da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Sector empresarial do Estado no domínio da cultura\n\nSem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao membro do Governo responsável pela área das finanças, a competência relativa à definição das orientações estratégicas das entidades do sector empresarial do Estado com atribuições no domínio da cultura, bem como ao acompanhamento da sua execução, é exercida pelo membro do Governo responsável pela área da cultura."
+  },
+  "56939836": {
+   "fragment_id": "56934656",
+   "type": 1,
+   "heading": "Capítulo V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V\n\nÁrea da imigração, administração local e reforma administrativa, desporto e juventude e comunicação social"
+  },
+  "56939837": {
+   "fragment_id": "56934657",
+   "type": 8,
+   "heading": "Secção I — Serviços da administração directa do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Serviços da administração directa do Estado"
+  },
+  "56939838": {
+   "fragment_id": "56934658",
+   "type": 11,
+   "heading": "Artigo 34.º — Direcção-Geral das Autarquias Locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Direcção-Geral das Autarquias Locais\n\n1 - A Direcção-Geral das Autarquias Locais, abreviadamente designada por DGAL, tem por missão a concepção, estudo, coordenação e execução de medidas de apoio à administração local e ao reforço da cooperação entre esta e a administração central.\n\n2 - A DGAL prossegue, designadamente, as seguintes atribuições:\n\na) Assegurar os meios e os instrumentos necessários ao apoio e à cooperação técnica e financeira entre a administração central e a administração local autárquica, em articulação com as comissões de coordenação e desenvolvimento regional (CCDR);\n\nb) Acompanhar o processo de descentralização de competências para as autarquias locais e respectivas associações;\n\nc) Estabelecer critérios, em colaboração com os organismos competentes, relativos às transferências financeiras para as autarquias locais e respectivas associações, as áreas metropolitanas, bem como sistematizar o respectivo processamento;\n\nd) Acompanhar a articulação das CCDR com as autarquias locais e respectivas associações na concretização dos programas operacionais e de planeamento no continente;\n\ne) Conceber e desenvolver sistemas de informação relativos às autarquias locais e respectivas associações no âmbito da gestão financeira, patrimonial, administrativa e do pessoal;\n\nf) Garantir o acesso a informação detida pela administração local relativa à identificação dos operadores e respectivos estabelecimentos e natureza das actividades e produtos, a todas as autoridades que participem no controlo oficial em matéria de segurança alimentar;\n\ng) Participar na elaboração de medidas legislativas relativas à administração local autárquica e acompanhar e apreciar os efeitos da respectiva aplicação, elaborar estudos, análises e pareceres a pedido dos membros do Governo e sistematizar as informações e os pareceres jurídicos sobre matérias relacionadas com a administração local autárquica, promovendo a sua uniformização interpretativa;\n\nh) Realizar a instrução de processos de declaração de utilidade pública das expropriações e pedidos de reversão.\n\n3 - A DGAL é dirigida por um director-geral, coadjuvado por dois subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente."
+  },
+  "56939839": {
+   "fragment_id": "56934659",
+   "type": 11,
+   "heading": "Artigo 35.º — Gabinete para os Meios de Comunicação Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Gabinete para os Meios de Comunicação Social\n\n1 - O Gabinete para os Meios de Comunicação Social, abreviadamente designado por GMCS, tem por missão apoiar o Governo na concepção, execução e avaliação das políticas públicas para a comunicação social, procurando a qualificação do sector e dos novos serviços de comunicação social, tendo em vista a salvaguarda da liberdade de expressão e dos demais direitos fundamentais, bem como do pluralismo e da diversidade.\n\n2 - O GMCS prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar o Governo na definição e na avaliação das políticas públicas para o sector e para os novos serviços de comunicação;\n\nb) Propor as medidas normativas necessárias ao aperfeiçoamento e à simplificação do quadro legislativo e regulamentar, designadamente através do incentivo da co-regulação e da auto-regulação;\n\nc) Exercer as competências de fiscalização, certificação e credenciação que lhe sejam cometidas por lei;\n\nd) Executar as medidas respeitantes à aplicação dos sistemas de incentivos do Estado à comunicação social, bem como assegurar a fiscalização do respectivo cumprimento.\n\n3 - O GMCS é dirigido por um director, cargo de direcção superior de 1.º grau."
+  },
+  "56939840": {
+   "fragment_id": "56934660",
+   "type": 8,
+   "heading": "Secção II — Organismos da administração indirecta do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Organismos da administração indirecta do Estado"
+  },
+  "56939841": {
+   "fragment_id": "56934661",
+   "type": 11,
+   "heading": "Artigo 36.º — Alto Comissariado para a Imigração e Diálogo Intercultural, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Alto Comissariado para a Imigração e Diálogo Intercultural, I. P.\n\n1 - O Alto Comissariado para a Imigração e Diálogo Intercultural, I. P., abreviadamente designado por ACIDI, I. P., tem por missão colaborar na definição, execução e avaliação das políticas públicas, transversais e sectoriais, relevantes para a integração social dos imigrantes e das minorias étnicas, bem como fomentar o diálogo entre as diversas religiões, culturas e etnias.\n\n2 - O ACIDI, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover o acolhimento e a integração social dos imigrantes e das minorias étnicas, nomeadamente através do desenvolvimento de políticas públicas, de centros de apoio aos imigrantes e de parcerias com as associações de imigrantes e as diferentes comunidades migrantes;\n\nb) Promover o diálogo intercultural e inter-religioso;\n\nc) Estimular a participação cívica dos imigrantes e das minorias étnicas;\n\nd) Desenvolver acções de combate ao racismo e à xenofobia, tendo em vista a eliminação de discriminações, nomeadamente em função da origem, da raça, da etnia ou da religião;\n\ne) Promover a inclusão social de crianças e jovens provenientes de contextos socioeconómicos mais vulneráveis, em particular os descendentes de imigrantes e minorias étnicas, tendo em vista a igualdade de oportunidades e o reforço da coesão social.\n\n3 - Junto do ACIDI, I. P., funcionam o Conselho Consultivo para os Assuntos da Imigração e a Comissão para a Igualdade e Contra a Discriminação Racial.\n\n4 - O ACIDI, I. P., é dirigido por um conselho directivo, constituído por um presidente, designado Alto-Comissário para a Imigração e o Diálogo Intercultural, e um vogal."
+  },
+  "56939842": {
+   "fragment_id": "56934662",
+   "type": 11,
+   "heading": "Artigo 37.º — Agência para a Modernização Administrativa, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Agência para a Modernização Administrativa, I. P.\n\n1 - A Agência para a Modernização Administrativa, I. P., abreviadamente designada por AMA, tem por missão identificar, desenvolver e avaliar programas, projectos e acções de modernização e de simplificação administrativa e regulatória e promover, coordenar, gerir e avaliar o sistema de distribuição de serviços públicos, no quadro das políticas definidas pelo Governo.\n\n2 - A AMA, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Contribuir para a definição das linhas estratégicas e das políticas gerais relacionadas com a administração electrónica, a simplificação administrativa e a distribuição de serviços públicos, incluindo a interoperabilidade na Administração Pública;\n\nb) Gerir e desenvolver redes de lojas para os cidadãos e para as empresas, em sistema de balcões multiserviços, integrados e especializados, articulando com os sistemas de atendimento em voz e rede;\n\nc) Promover a modernização da prestação e distribuição de serviços públicos orientados para a satisfação das necessidades dos cidadãos e das empresas;\n\nd) Promover as políticas para a sociedade de informação, em articulação com outros organismos da Administração Pública;\n\ne) Apoiar a elaboração, implementação de plataformas e soluções de e-learning.\n\n3 - A AMA, I. P., é dirigida por um conselho directivo, constituído por um presidente e dois vogais."
+  },
+  "56939843": {
+   "fragment_id": "56934663",
+   "type": 11,
+   "heading": "Artigo 38.º — Instituto Português do Desporto e Juventude, I. P.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Instituto Português do Desporto e Juventude, I. P.\n\n1 - O Instituto Português do Desporto e Juventude, I. P., abreviadamente designado por IPDJ, I. P., tem por missão a execução de uma política integrada e descentralizada para as áreas do desporto e da juventude, em estreita colaboração com entes públicos e privados, designadamente com organismos desportivos, associações juvenis, estudantis e autarquias locais.\n\n2 - O IPDJ, I. P., prossegue, designadamente, as seguintes atribuições:\n\na) Prestar apoio e propor a adopção de programas para a integração da actividade física e do desporto nos estilos de vida saudável quotidiana dos cidadãos e apoiar técnica, material e financeiramente o desenvolvimento da prática desportiva, assim como o desporto de alto rendimento e as selecções nacionais;\n\nb) Propor e aplicar medidas preventivas e repressivas no âmbito da ética no desporto, designadamente no combate à dopagem, à corrupção, à violência, ao racismo e à xenofobia no desporto, bem como na defesa da verdade, da lealdade e correcção das competições e respectivos resultados;\n\nc) Propor a adopção do controlo médico-desportivo no acesso e na prática desportiva;\n\nd) Apoiar a definição das políticas públicas para a juventude, designadamente através da adopção de medidas de estímulo à participação cívica dos jovens em actividades sociais, económicas, culturais e educativas;\n\ne) Apoiar o associativismo jovem, nos termos da lei, mantendo actualizado o Registo Nacional do Associativismo Jovem;\n\nf) Promover a implementação de programas destinados a responder às necessidades e especificidade do universo jovem, nomeadamente nas áreas da ocupação de tempos livres, do voluntariado, do associativismo, da educação não formal e da formação;\n\ng) Apoiar a mobilidade dos jovens, promovendo a construção de infra-estruturas de alojamento e dinamizando, em particular, a rede nacional de pousadas da juventude.\n\n3 - Junto do IPDJ, I. P., funcionam o Conselho Nacional do Desporto, o Conselho Consultivo da Juventude e a Autoridade Antidopagem de Portugal.\n\n4 - O IPDJ, I. P., é dirigido por um conselho directivo, constituído por um presidente, um vice-presidente e dois vogais."
+  },
+  "56939844": {
+   "fragment_id": "56934664",
+   "type": 8,
+   "heading": "Secção III — Entidades do sector empresarial do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Entidades do sector empresarial do Estado"
+  },
+  "56939845": {
+   "fragment_id": "56934665",
+   "type": 11,
+   "heading": "Artigo 39.º — Sector empresarial do Estado no domínio da comunicação social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Sector empresarial do Estado no domínio da comunicação social\n\nSem prejuízo dos poderes conferidos por lei ao Conselho de Ministros e ao membro do Governo responsável pela área das finanças, a competência relativa à definição das orientações estratégicas das entidades do sector empresarial do Estado com atribuições no domínio da comunicação social, bem como ao acompanhamento da sua execução, é exercida pelo Ministro Adjunto e dos Assuntos Parlamentares."
+  },
+  "56939846": {
+   "fragment_id": "56934666",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições transitórias e finais"
+  },
+  "56939847": {
+   "fragment_id": "56934667",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nSuperintendências e tutelas conjuntas e articulações no âmbito da Presidência do Conselho de Ministros\n\n1 - A definição das orientações estratégicas e a fixação de objectivos para as comissões de coordenação e desenvolvimento regional do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, no domínio do apoio às autarquias locais e às suas associações, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas das autarquias locais, do ambiente e do ordenamento do território.\n\n2 - A definição das orientações estratégicas e a fixação de objectivos para a Comissão para a Igualdade no Trabalho e no Emprego do Ministério da Economia e do Emprego, bem como o acompanhamento da sua execução, são articulados entre os membros do Governo responsáveis pelas áreas da igualdade de género, do emprego e da solidariedade e segurança social.\n\n3 - O Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social do Ministério da Solidariedade e Segurança Social, funciona sob articulação dos membros do Governo responsáveis pelas áreas da igualdade de género, da solidariedade e da segurança social."
+  },
+  "56939848": {
+   "fragment_id": "56934668",
+   "type": 11,
+   "heading": "Artigo 41.º — Mapas de pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Mapas de pessoal dirigente\n\nSão aprovados os mapas de dirigentes superiores da administração directa e indirecta da PCM, constantes dos anexos i e ii ao presente decreto-lei, respectivamente, do qual fazem parte integrante."
+  },
+  "56939849": {
+   "fragment_id": "56934669",
+   "type": 11,
+   "heading": "Artigo 42.º — Extinção, criação, fusão e reestruturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Extinção, criação, fusão e reestruturação\n\n1 - São extintos:\n\na) O Gabinete Coordenador de Segurança;\n\nb) A Unidade para a Participação Política e Cívica;\n\nc) O Gabinete de Estudos, Planeamento e Avaliação;\n\nd) O controlador financeiro da Presidência do Conselho de Ministros;\n\ne) O controlador financeiro do Ministério da Cultura.\n\n2 - São criados:\n\na) O Conselho Estratégico de Internacionalização da Economia;\n\nb) A Direcção-Geral do Livro, dos Arquivos e das Bibliotecas;\n\nc) A Direcção-Geral do Património Cultural.\n\n3 - São extintos, sendo objecto de fusão, os seguintes serviços e organismos:\n\na) O Conselho Nacional de Planeamento Civil de Emergência, sendo as suas atribuições integradas na Autoridade Nacional de Protecção Civil, no âmbito do Ministério da Administração Interna;\n\nb) A Secretaria-Geral do Ministério da Cultura, sendo as suas atribuições integradas na Secretaria-Geral, com excepção das atribuições nos domínios do apoio jurídico-contencioso e da gestão administrativa e financeira do Fundo de Fomento Cultural, que são integradas no Gabinete de Estratégia, Planeamento e Avaliação Culturais;\n\nc) A Direcção-Geral do Livro e das Bibliotecas, sendo as suas atribuições integradas na Direcção-Geral do Livro, dos Arquivos e das Bibliotecas;\n\nd) A Direcção-Geral dos Arquivos, sendo as suas atribuições integradas na Direcção-Geral do Livro, dos Arquivos e das Bibliotecas;\n\ne) O Instituto de Gestão do Património Arquitectónico e Arqueológico, I. P., sendo as suas atribuições integradas na Direcção-Geral do Património Cultural;\n\nf) O Instituto dos Museus e da Conservação, I. P., sendo as suas atribuições integradas na Direcção-Geral do Património Cultural;\n\ng) A Direcção Regional de Cultura de Lisboa e Vale do Tejo, sendo as suas atribuições no domínio do apoio às artes integradas na Direcção-Geral das Artes e nos domínios da salvaguarda, valorização e divulgação do património cultural imóvel, móvel e imaterial e do apoio a museus integradas na Direcção-Geral do Património Cultural;\n\nh) A Comissão para o Património Cultural Imaterial, sendo as suas atribuições nos domínios instrutórios e decisórios integradas na Direcção-Geral do Património Cultural e no domínio consultivo integradas no Conselho Nacional de Cultura;\n\ni) A Inspecção-Geral da Administração Local, sendo as suas atribuições integradas na Inspecção-Geral de Finanças.\n\n4 - São objecto de reestruturação os seguintes serviços:\n\na) O Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, que passa a designar-se Gabinete de Estratégia, Planeamento e Avaliação Culturais;\n\nb) O Gabinete Nacional de Segurança, que deixa de funcionar junto do Gabinete Coordenador de Segurança;\n\nc) O Centro Jurídico, sendo as suas atribuições nos domínios da gestão do DIGESTO - Sistema Integrado de Tratamento e da Informação Jurídica, da administração da PCMLEX e da publicação dos diplomas do Governo integradas na Secretaria-Geral.\n\n5 - São ainda objecto de restruturação os demais serviços e organismos referidos nos artigos 4.º e 5.º\n\n6 - É transferido o Instituto de Investigação Científica Tropical, I. P., para o âmbito do Ministério dos Negócios Estrangeiros."
+  },
+  "56939850": {
+   "fragment_id": "56934670",
+   "type": 11,
+   "heading": "Artigo 43.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Referências legais\n\nAs referências legais feitas aos serviços e organismos objecto de extinção, fusão e reestruturação, mencionados no artigo anterior, consideram-se feitas aos serviços ou organismos que passam integrar as respectivas atribuições."
+  },
+  "56939851": {
+   "fragment_id": "56934671",
+   "type": 11,
+   "heading": "Artigo 44.º — Externalização e sector empresarial do Estado na área da cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Externalização e sector empresarial do Estado na área da cultura\n\n1 - A Cinemateca Portuguesa - Museu do Cinema, I. P., deixa de integrar a administração central do Estado, através de aprovação de novo enquadramento jurídico como entidade pública empresarial e passa a denominar-se Cinemateca Portuguesa - Museu do Cinema, E. P. E., abreviadamente designada por CPMC, E. P. E.\n\n2 - A Companhia Nacional de Bailado é objecto de cisão da OPART - Organismo de Produção Artística, E. P. E., e transformada em entidade pública empresarial, que passa a denominar-se Companhia Nacional de Bailado, E. P. E., abreviadamente designada por CNB, E. P. E.\n\n3 - O OPART - Organismo de Produção Artística, E. P. E., passa a denominar-se Teatro Nacional de São Carlos, E. P. E., abreviadamente designado por TNSC, E. P. E.\n\n4 - As entidades públicas empresariais referidas nos números anteriores, bem como o Teatro Nacional de São João, E. P. E., e o Teatro Nacional D. Maria II, E. P. E., integram um Agrupamento Complementar de Empresas (ACE) a instituir."
+  },
+  "56939852": {
+   "fragment_id": "56934672",
+   "type": 11,
+   "heading": "Artigo 45.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Produção de efeitos\n\n1 - As criações, fusões e reestruturações previstas no presente decreto-lei apenas produzem efeitos com a entrada em vigor dos respectivos diplomas orgânicos.\n\n2 - Exceptua-se do disposto no número anterior, a designação dos titulares dos cargos de direcção superior e dos órgãos de direcção dos serviços e organismos previstos nos mapas anexos ao presente decreto-lei, a qual pode ter lugar após a sua entrada em vigor.\n\n3 - Nos casos de fusões, a designação prevista no número anterior depende da prévia cessação de funções, designadamente nos termos do número seguinte, de um número pelo menos igual de dirigentes, assegurando os dirigentes designados a direcção dos serviços e organismos objecto de fusão até à entrada em vigor dos novos diplomas orgânicos.\n\n4 - As comissões de serviço dos titulares de cargos de direcção superior de serviços e organismos cuja reestruturação ou fusão tenha sido determinada pelo presente decreto-lei podem cessar, independentemente do disposto no n.º 1, por despacho fundamentado, quando, por efeito da reestruturação ou fusão, exista necessidade de imprimir nova orientação à gestão dos serviços."
+  },
+  "56939853": {
+   "fragment_id": "56934673",
+   "type": 11,
+   "heading": "Artigo 46.º — Equiparação do Alto-Comissário para a Imigração e o Diálogo Intercultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Equiparação do Alto-Comissário para a Imigração e o Diálogo Intercultural\n\nPara efeitos de constituição do respectivo gabinete, até à entrada em vigor do novo diploma orgânico do Alto Comissariado para a Imigração e Diálogo Intercultural, I. P., mantém-se a equiparação a subsecretário de Estado do Alto-Comissário para a Imigração e o Diálogo Intercultural."
+  },
+  "56939854": {
+   "fragment_id": "56934674",
+   "type": 11,
+   "heading": "Artigo 47.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Norma transitória\n\nA extinção do Gabinete Coordenador de Segurança produz efeitos à data da entrada em vigor do diploma que proceda à revisão da Lei de Segurança Interna."
+  },
+  "56939855": {
+   "fragment_id": "56941575",
+   "type": 11,
+   "heading": "Artigo 48.º — Legislação orgânica complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Legislação orgânica complementar\n\n1 - Os diplomas orgânicos pelos quais se procede à criação, fusão e reestruturação dos serviços e organismos da PCM devem ser aprovados no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Até à entrada em vigor dos diplomas orgânicos a que se refere o número anterior, os serviços e organismos da PCM continuam a reger-se pelas disposições normativas que lhes são aplicáveis."
+  },
+  "56939856": {
+   "fragment_id": "56941576",
+   "type": 11,
+   "heading": "Artigo 49.º — Transição de regimes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Transição de regimes\n\n1 - São revogadas as normas dos decretos-leis que aprovam a estrutura orgânica dos serviços da administração directa do Estado da PCM.\n\n2 - A revogação prevista no número anterior produz efeitos na data de entrada em vigor dos decretos regulamentares que aprovam as orgânicas dos serviços da administração directa do Estado da PCM que lhes sucedem, nos termos do n.º 4 do artigo 7.º e do n.º 1 do artigo 24.º da Lei n.º 4/2004, de 15 de Janeiro.\n\n3 - O disposto no número anterior não prejudica o recurso à forma de decreto-lei nos casos em que tal seja exigível.\n\n4 - Os diplomas que aprovam a estrutura orgânica dos institutos públicos revestem a forma prevista na Lei n.º 3/2004, de 15 de Janeiro."
+  },
+  "56939857": {
+   "fragment_id": "56941577",
+   "type": 11,
+   "heading": "Artigo 50.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 202/2006, de 27 de Outubro;\n\nb) O Decreto-Lei n.º 215/2006, de 27 de Outubro, alterado pelo Decreto-Lei n.º 59/2010, de 7 de Junho."
+  },
+  "56939858": {
+   "fragment_id": "56941578",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 41.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 41.º)\n\nCargos de direcção superior da administração directa\n\n(ver documento original)"
+  },
+  "56939859": {
+   "fragment_id": "56941579",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 41.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 41.º)\n\nDirigentes de organismos da administração indirecta\n\n(ver documento original)"
+  },
+  "158508434": {
+   "fragment_id": "56934610",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - Na prossecução da sua missão, são atribuições da PCM:\n\na) Assegurar o regular funcionamento do Conselho de Ministros;\n\nb) Desenvolver o planeamento estratégico necessário à execução do Programa do Governo;\n\nc) Promover a coordenação interministerial entre os diversos departamentos governamentais;\n\nd) Desenvolvimento Regional, Modernização Administrativa e Administração Local;\n\ne) Assegurar a prestação de apoio jurídico, informativo, técnico e administrativo ao Primeiro-Ministro, ao Conselho de Ministros e aos demais membros do Governo integrados na PCM;\n\nf) A definição de políticas de desenvolvimento cultural, de defesa da língua e do património cultural e de incentivo à criação artística;\n\ng) Coordenar o procedimento de aprovação e publicação de diplomas, assegurando o controlo de qualidade dos actos normativos do Governo, as diligências necessárias em sede de audições a entidades públicas e privadas e a fixação das orientações para o serviço público de publicação do Diário da República;\n\nh) Gerir as infra-estruturas de comunicação interna do Governo e incrementar e apoiar o desenvolvimento das valências de governo electrónico (e-government), designadamente aquelas relativas à desmaterialização de procedimentos e à certificação e segurança das comunicações;\n\ni) Assegurar o funcionamento do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (SCEE);\n\nj) Desenvolver e divulgar sistemas de tratamento de informação jurídica, articulando as bases de dados jurídicas públicas;\n\nl) Promover as condições para o regular funcionamento do sistema estatístico nacional;\n\nm) Assegurar formas de relacionamento do Governo com os cidadãos e as instituições da sociedade civil.\n\n2 - São atribuições da PCM, no domínio das relações do Governo com outras entidades:\n\na) Assegurar as relações institucionais do Governo com as Regiões Autónomas;\n\nb) Assegurar as relações institucionais e exercer, em articulação com o Ministério das Finanças, a tutela administrativa sobre as autarquias locais, entidades equiparadas e demais formas de organização territorial autárquica.\n\n3 - É atribuição da PCM, no domínio da internacionalização da economia, a articulação dos serviços e organismos do Estado envolvidos na promoção e captação de investimento estrangeiro e da cooperação para o desenvolvimento.\n\n4 - São atribuições da PCM, no domínio da segurança e das informações:\n\na) Assegurar, no respeito da Constituição e da lei, a actividade de produção de informações necessárias à salvaguarda da independência nacional e dos interesses nacionais e à garantia da segurança externa e interna do Estado Português;\n\nb) Garantir a segurança das matérias classificadas no âmbito nacional e das organizações internacionais de que Portugal é parte e exercer a autoridade de credenciação de pessoas e empresas para o acesso e manuseamento de matérias classificadas.\n\n5 - São atribuições da PCM a concepção, execução e coordenação das políticas públicas nas seguintes áreas de intervenção:\n\na) Cidadania e Igualdade de Género;\n\nb) Cultura;\n\nc) Imigração e Diálogo Intercultural;\n\nd) Administração Local e Reforma Administrativa;\n\ne) Desporto e Juventude;\n\nf) Comunicação Social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508435": {
+   "fragment_id": "56934612",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura geral",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura geral\n\n1 - A PCM prossegue as suas atribuições através de serviços integrados na administração directa do Estado, de organismos integrados na administração indirecta do Estado, de órgãos consultivos, de outras estruturas e de entidades integradas no sector empresarial do Estado.\n\n2 - Os serviços, organismos, órgãos, estruturas e entidades referidos no número anterior desenvolvem a sua actividade nas seguintes áreas de intervenção:\n\na) Área institucional, igualdade, segurança e informações;\n\nb) Área da cultura;\n\nc) Área do desenvolvimento regional, imigração, modernização administrativa e administração local, desporto e juventude e comunicação social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508436": {
+   "fragment_id": "56934613",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\n1 - Integram a administração directa do Estado, no âmbito da PCM, os seguintes serviços centrais:\n\na) A Comissão para a Cidadania e a Igualdade de Género;\n\nb) A Secretaria-Geral;\n\nc) O Gabinete Nacional de Segurança;\n\nd) O Centro Jurídico;\n\ne) A Comissão de Coordenação e Desenvolvimento Regional do Norte;\n\nf) A Comissão de Coordenação e Desenvolvimento Regional do Centro;\n\ng) A Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo;\n\nh) A Comissão de Coordenação e Desenvolvimento Regional do Alentejo;\n\ni) A Comissão de Coordenação e Desenvolvimento Regional do Algarve.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508437": {
+   "fragment_id": "56934614",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\nProsseguem atribuições da PCM, sob superintendência e tutela do Primeiro-Ministro ou de outro membro do governo integrado na PCM, os seguintes organismos:\n\na) O Instituto Nacional de Estatística, I. P.;\n\nb) O Instituto do Cinema e do Audiovisual, I. P.;\n\nc) O Alto Comissariado para a Imigração e Diálogo Intercultural, I. P.;\n\nd) A Agência para a Modernização Administrativa, I. P.;\n\ne) O Instituto Português do Desporto e Juventude, I. P.\n\nf) Agência para o Desenvolvimento e Coesão, I.P.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508439": {
+   "fragment_id": "158507651",
+   "type": 11,
+   "heading": "Artigo 35.º-A — Comissões de coordenação e desenvolvimento regional",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 35.º-A — Comissões de coordenação e desenvolvimento regional\n\n1 - As comissões de coordenação e desenvolvimento regional, abreviadamente designadas por CCDR, são os serviços periféricos da PCM que têm por missão assegurar a coordenação e a articulação das diversas políticas setoriais de âmbito regional, bem como executar as políticas de ambiente, de ordenamento do território e cidades, e apoiar tecnicamente as autarquias locais e as suas associações, ao nível das respetivas áreas geográficas de atuação.\n\n2 - As CCDR prosseguem no âmbito das circunscrições territoriais respetivas, designadamente, as seguintes atribuições:\n\na) Contribuir para a definição da política de desenvolvimento regional no quadro da política de desenvolvimento económico e social do País, dinamizando e participando nos processos de planeamento estratégico de base territorial, bem como fomentar parcerias entre agentes regionais, desenvolver estudos de articulação de políticas setoriais no espaço regional e elaborar programas integrados visando a coesão e a competitividade territoriais;\n\nb) Assegurar a articulação entre instituições da administração direta do Estado, autarquias locais e entidades equiparadas, e dinamizar a cooperação inter-regional transfronteiriça, contribuindo para a integração europeia do espaço regional e para o reforço da sua competitividade, com base em estratégias de desenvolvimento sustentável de níveis regional e local;\n\nc) Promover e garantir uma adequada articulação intersetorial entre os serviços desconcentrados de âmbito regional, em termos de concertação estratégica e de planeamento das intervenções de natureza ambiental, económica e social numa ótica de desenvolvimento regional;\n\nd) Apoiar tecnicamente as autarquias locais e as suas associações;\n\ne) Executar, avaliar e fiscalizar, ao nível regional, as políticas de ambiente e de ordenamento do território;\n\nf) Garantir a elaboração, acompanhamento e avaliação dos instrumentos de gestão territorial, assegurando a sua articulação com os instrumentos de gestão territorial de âmbito nacional e regional;\n\ng) Assegurar o cumprimento das responsabilidades de gestão que lhes sejam confiadas no âmbito da política de coesão da União Europeia em Portugal.\n\n3 - As CCDR integram a rede de pontos focais do Observatório do Ordenamento do Território e do Urbanismo e participam no desenvolvimento do Sistema Nacional de Informação Territorial.\n\n4 - A definição das orientações estratégicas e a fixação de objetivos relativamente às CCDR, nos domínios do ambiente, ordenamento do território, conservação da natureza e cidades, e o acompanhamento da sua execução, bem como a designação dos respetivos cargos de direção superior, são articulados entre os membros do Governo responsáveis pelas áreas do desenvolvimento regional e do ambiente e ordenamento do território, sem prejuízo de competir ao membro do Governo responsável pelas áreas do ambiente e ordenamento do território decidir sobre as matérias relativas ao ambiente, ordenamento do território, conservação da natureza e cidades, bem como dirigir e acompanhar a atividade da estrutura de missão para a Região Demarcada do Douro.\n\n5 - Cada uma das CCDR é dirigida por um presidente, coadjuvado por dois vice-presidentes, cargos de direção superior de 1.º e 2.º graus, respetivamente.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508440": {
+   "fragment_id": "158507652",
+   "type": 11,
+   "heading": "Artigo 38.º-A — Agência para o Desenvolvimento e Coesão, I.P.",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 38.º-A — Agência para o Desenvolvimento e Coesão, I.P.\n\n1 - A Agência para o Desenvolvimento e Coesão, I.P., abreviadamente designada por Agência, I.P., tem por missão coordenar a política de desenvolvimento regional e assegurar a coordenação geral dos fundos europeus estruturais e de investimento.\n\n2 - A Agência, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Formular propostas de políticas de desenvolvimento regional sustentável, nos planos estratégico e operacional;\n\nb) Colaborar na conceção e promoção de instrumentos de base territorial da perspetiva do desenvolvimento regional designadamente os que visem a valorização dos recursos endógenos associados ao desenvolvimento sustentado do território, nomeadamente os contratos-programa entre as autoridades de gestão dos fundos europeus estruturais e de investimento e entidades públicas ou privadas;\n\nc) Monitorizar a aplicação de políticas estruturais, nomeadamente as cofinanciadas por fundos europeus;\n\nd) Definir e manter atualizado o registo central «de minimis» e exercer o controlo da acumulação de apoios financeiros e fiscais concedidos nesse âmbito;\n\ne) Assegurar a coordenação geral, incluindo o acompanhamento dos processos de programação, reprogramação e monitorização daqueles fundos, em articulação com as autoridades de gestão dos Programas Operacionais;\n\nf) Assegurar a interlocução, no plano técnico, com a Comissão Europeia, ao nível do Acordo de Parceria;\n\ng) Assegurar a coordenação e o suporte técnico aos processos de programação e reprogramação, bem como a monitorização e a produção e sistematização dos indicadores físicos e financeiros;\n\nh) Exercer as funções de autoridade de certificação e de entidade pagadora dos fundos da política de coesão, incluindo nos programas de cooperação territorial europeia do mecanismo financeiro do Espaço Económico Europeu e das iniciativas comunitárias ou de outros instrumentos financeiros para que venha a ser designado;\n\ni) Executar, em articulação com a Autoridade de Auditoria, funções de auditoria e controlo das intervenções dos fundos da política de coesão, incluindo nos programas de cooperação territorial europeia no mecanismo financeiro do Espaço Económico Europeu e nas iniciativas comunitárias ou outros instrumentos financeiros para que venha a ser designada;\n\nj) Gerir as medidas programáticas de assistência técnica do Fundo Europeu de Desenvolvimento Regional (FEDER) e do Fundo Social Europeu (FSE);\n\nk) Garantir a articulação ao nível da programação, acompanhamento e avaliação entre os fundos da política de coesão e os recursos nacionais, nomeadamente no quadro da programação orçamental plurianual e da mobilização da contrapartida nacional dos investimentos cofinanciados por fundos europeus;\n\nl) Assegurar as funções que lhe sejam atribuídas no âmbito das intervenções ou fundos europeus;\n\nm) Intervir na atribuição e administração de financiamentos e de outras operações ativas, no âmbito de medidas de financiamento do Banco Europeu de Investimentos (BEI), ou de outros instrumentos financeiros, associados à utilização de fundos europeus, nos termos definidos pela respetiva regulamentação.\n\n3 - A Agência, I.P., é dirigida por um conselho diretivo, constituído por um presidente, um vice-presidente e dois vogais.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508438": {
+   "fragment_id": "56934667",
+   "type": 11,
+   "heading": "Artigo 40.º — Superintendências e tutelas conjuntas e articulações no âmbito da Presidência do Conselho de Ministros",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 40.º — Superintendências e tutelas conjuntas e articulações no âmbito da Presidência do Conselho de Ministros\n\n1 - [Revogado].\n\n2 - A definição das orientações estratégicas e a fixação de objetivos para a Comissão para a Igualdade no Trabalho e no Emprego do Ministério da Solidariedade, Emprego e Segurança Social, bem como o acompanhamento da sua execução, é articulada entre os membros do Governo responsáveis pelas áreas da igualdade de género e do emprego.\n\n3 - O Conselho Nacional para as Políticas de Solidariedade, Voluntariado, Família, Reabilitação e Segurança Social do Ministério da Solidariedade e Segurança Social, funciona sob articulação dos membros do Governo responsáveis pelas áreas da igualdade de género, da solidariedade e da segurança social.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "56957275": {
+   "fragment_id": "56941583",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Outubro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Luís Miguel Gubert Morais Leitão - Miguel Bento Martins Costa Macedo e Silva - Miguel Fernando Cassola de Miranda Relvas - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Luís Pedro Russo da Mota Soares.\n\nPromulgado em 27 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 28 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "158508441": {
+   "fragment_id": "56941578",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 41.º)",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 41.º)\n\nCargos de direção superior da administração direta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508442": {
+   "fragment_id": "56941579",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 41.º)",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 41.º)\n\nDirigentes de organismos da administração indireta\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508443": {
+   "fragment_id": "56934614",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração indirecta do Estado",
+   "in_force_from": "2014-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Administração indirecta do Estado\n\nProsseguem atribuições da PCM, sob superintendência e tutela do Primeiro-Ministro ou de outro membro do governo integrado na PCM, os seguintes organismos:\n\na) O Instituto Nacional de Estatística, I. P.;\n\nb) O Instituto do Cinema e do Audiovisual, I. P.;\n\nc) O Alto Comissariado para as Migrações, I.P.;\n\nd) A Agência para a Modernização Administrativa, I. P.;\n\ne) O Instituto Português do Desporto e Juventude, I. P.\n\nf) Agência para o Desenvolvimento e Coesão, I.P.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508444": {
+   "fragment_id": "56934661",
+   "type": 11,
+   "heading": "Artigo 36.º — Alto Comissariado para as Migrações, I.P.",
+   "in_force_from": "2014-03-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-03"
+   ],
+   "markdown": "###### Artigo 36.º — Alto Comissariado para as Migrações, I.P.\n\n1 - O Alto Comissariado para as Migrações, I.P., abreviadamente designado por ACM, I.P., tem por missão colaborar na definição, execução e avaliação das políticas públicas, transversais e setoriais em matéria de migrações, relevantes para a atração dos migrantes nos contextos nacional, internacional e lusófono, para a integração dos imigrantes e grupos étnicos, em particular as comunidades ciganas, e para a gestão e valorização da diversidade entre culturas, etnias e religiões.\n\n2 - O ACM, I.P., prossegue, designadamente, as seguintes atribuições:\n\na) Promover a imagem internacional de Portugal enquanto destino de migrações;\n\nb) Promover e dinamizar o acolhimento, a integração, a participação e a formação profissional e cívica dos imigrantes e seus descendentes, nomeadamente através do desenvolvimento de políticas transversais, de centros e gabinetes de apoio aos imigrantes que proporcionem uma resposta integrada dos serviços públicos, e de parcerias com a sociedade civil, as autarquias locais e as associações de imigrantes, tendo em vista a promoção da coesão e solidariedade social, do acesso à cidadania e o reforço das redes sociais de integração e participação pública;\n\nc) Colaborar, em articulação com outras entidades públicas competentes, na conceção e desenvolvimento das prioridades da política migratória;\n\nd) Cooperar com todas as entidades competentes na execução da política migratória, designadamente através de ações, nacionais e internacionais, de captação de imigrantes de elevado potencial;\n\ne) Exercer funções de interlocução junto de atuais e potenciais imigrantes em procedimentos administrativos ou fora deles, sem prejuízo das competências próprias dos organismos envolvidos, por via do aconselhamento daqueles imigrantes, do contacto com outras entidades públicas e privadas, do recurso a meios eletrónicos e da preparação da documentação pertinente;\n\nf) Gerir, quando a competência lhe for delegada, as iniciativas, fundos e planos de ação da União Europeia em matéria de migrações;\n\ng) Cooperar com o Ministério dos Negócios Estrangeiros, através de uma abordagem integrada às dinâmicas de emigração e imigração e respetivas diásporas, designadamente em ações que apoiem, incentivem e acompanhem o retorno de cidadãos nacionais emigrantes no estrangeiro ou reforcem os seus laços de vínculo a Portugal;\n\nh) Garantir o acesso dos imigrantes, suas associações e outras comunidades a toda a informação relevante para o exercício dos seus direitos e deveres de cidadania;\n\ni) Celebrar protocolos com entidades públicas ou privadas em todas as matérias com relevo para a captação, fixação e integração de migrantes, designadamente no que respeita ao emprego, à formação e inserção profissional, ao empreendedorismo, à mobilidade migratória, à mediação sociocultural, à habitação, saúde e educação, tendo em vista o codesenvolvimento local e regional, a mobilização de competências e a inclusão económica e social;\n\nj) Promover o diálogo, a inovação e a educação intercultural e inter-religiosa, designadamente através do apoio ao associativismo e de ações de valorização da interação positiva e da diversidade cultural, num quadro de consideração mútua e de respeito pelas normas legais e constitucionais;\n\nk) Combater todas as formas de discriminação em função da cor, nacionalidade, origem étnica ou religião, independentemente do meio em que ocorram, através de ações, campanhas ou eventos de sensibilização da opinião pública, bem como através do processamento das contraordenações previstas na lei.\n\n3 - Junto do ACM, I.P., funciona a Comissão para a Igualdade e Contra a Discriminação Racial, que se rege por diploma próprio.\n\n4 - O ACM, I.P., é dirigido por um conselho diretivo, constituído por um presidente, designado Alto-Comissário para as Migrações, e um vogal.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 31/2014 - Diário da República n.º 41/2014, Série I de 2014-02-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2014-572382), em vigor a partir de 2014-03-03"
+  },
+  "158508446": {
+   "fragment_id": "56934613",
+   "type": 11,
+   "heading": "Artigo 4.º — Administração directa do Estado",
+   "in_force_from": "2015-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Administração directa do Estado\n\n1 - Integram a administração directa do Estado, no âmbito da PCM, os seguintes serviços centrais:\n\na) Revogada;\n\nb) A Secretaria-Geral;\n\nc) O Gabinete Nacional de Segurança;\n\nd) O Centro Jurídico;\n\ne) A Comissão de Coordenação e Desenvolvimento Regional do Norte;\n\nf) A Comissão de Coordenação e Desenvolvimento Regional do Centro;\n\ng) A Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo;\n\nh) A Comissão de Coordenação e Desenvolvimento Regional do Alentejo;\n\ni) A Comissão de Coordenação e Desenvolvimento Regional do Algarve.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 167-A/2013 - Diário da República n.º 253/2013, 3º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-a-2013-164417), em vigor a partir de 2014-01-01"
+  },
+  "158508445": {
+   "fragment_id": "56934621",
+   "type": 11,
+   "heading": "Artigo 10.º — Secretaria-Geral",
+   "in_force_from": "2015-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07"
+   ],
+   "markdown": "###### Artigo 10.º — Secretaria-Geral\n\n1 - A Secretaria-Geral, abreviadamente designada por SG, tem por missão assegurar e coordenar o apoio jurídico, informativo, técnico e administrativo à PCM, bem como as funções de inspecção e auditoria, através da apreciação da legalidade e regularidade dos actos praticados pelos serviços e organismos da PCM, ou sob tutela dos membros do Governo integrados na PCM, bem como avaliar a sua gestão e os seus resultados, através do controlo de auditoria técnica, de desempenho e financeiro, com excepção dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.\n\n2 - Cabe ainda à SG prestar apoio aos Conselho de Ministros, Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, no apoio à conceção e avaliação das políticas públicas na área da comunicação social e da sociedade de informação.\n\n3 - A SG prossegue, designadamente, as seguintes atribuições:\n\na) Prestar ao Conselho de Ministros, ao Primeiro-Ministro, aos ministros e aos demais membros do Governo integrados na PCM a assistência técnica, jurídica e administrativa que lhe seja solicitada, assegurando ainda todo o apoio informativo, técnico, administrativo e documental às entidades e serviços integrados na PCM cuja orgânica não contemple estruturas de prestação desse apoio;\n\nb) Administrar, conservar e zelar pela segurança dos imóveis afectos à PCM e respectivos recheio e equipamentos, sem prejuízo das atribuições cometidas aos serviços e organismos responsáveis pela administração do património cultural;\n\nc) Assegurar a elaboração do orçamento de funcionamento e do orçamento de investimento da PCM, bem como acompanhar a respectiva execução;\n\nd) Gerir o DIGESTO - Sistema Integrado de Tratamento e da Informação Jurídica, assegurando o tratamento da informação jurídica e a difusão de informação legislativa e jurídica de base, e administrar a PCMLEX, garantindo a existência de um serviço de tratamento de informação legislativa, podendo para o efeito participar na repartição das receitas geradas;\n\ne) Promover a publicação dos diplomas do Governo, garantindo o registo, preparação, envio e controlo da publicação dos diplomas no Diário da República.\n\nf) Proceder à elaboração de estudos e propostas legislativas e regulamentares na área da comunicação social e da sociedade de informação.\n\n4 - A SG é dirigida por um secretário-geral, coadjuvado por dois secretários-gerais-adjuntos, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07"
+  },
+  "158508447": {
+   "fragment_id": "56934659",
+   "type": 11,
+   "heading": "Artigo 35.º — Gabinete para os Meios de Comunicação Social",
+   "in_force_from": "2015-02-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07"
+   ],
+   "markdown": "###### Artigo 35.º — Gabinete para os Meios de Comunicação Social\n\n1 - O Gabinete para os Meios de Comunicação Social, abreviadamente designado por GMCS, tem por missão apoiar o Governo na concepção, execução e avaliação das políticas públicas para a comunicação social, procurando a qualificação do sector e dos novos serviços de comunicação social, tendo em vista a salvaguarda da liberdade de expressão e dos demais direitos fundamentais, bem como do pluralismo e da diversidade.\n\n2 - O GMCS prossegue, designadamente, as seguintes atribuições:\n\na) Apoiar o Governo na definição e na avaliação das políticas públicas para o sector e para os novos serviços de comunicação;\n\nb) Propor as medidas normativas necessárias ao aperfeiçoamento e à simplificação do quadro legislativo e regulamentar, designadamente através do incentivo da co-regulação e da auto-regulação;\n\nc) Exercer as competências de fiscalização, certificação e credenciação que lhe sejam cometidas por lei;\n\nd) Executar as medidas respeitantes à aplicação dos sistemas de incentivos do Estado à comunicação social, bem como assegurar a fiscalização do respectivo cumprimento.\n\n3 - O GMCS é dirigido por um director, cargo de direcção superior de 1.º grau.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07"
+  }
+ }
+}

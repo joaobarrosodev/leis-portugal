@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:187769:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1996-976070391",
+ "dre_path": "/dr/detalhe/portaria/718-1996-187769",
+ "source_lastmod": "2025-12-10",
+ "versions": [
+  {
+   "date": "1996-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "976085390"
+   ]
+  },
+  {
+   "date": "1996-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:622998:por",
+     "title": "Declaração de Rectificação n.º 16-S/96",
+     "published": "1996-12-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-s-1996-622998"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "976085390",
+    "976085387"
+   ]
+  }
+ ],
+ "fragments": {
+  "976085390": {
+   "fragment_id": "976070392",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1996-12-31",
+   "changed_by": [],
+   "markdown": "Portaria n.º 718/96\n\nde 10 de Dezembro\n\nO Decreto-Lei n.º 83/92, de 7 de Maio, procedeu à definição do regime aplicável às taxas incidentes sobre o vinho do Porto, bem como sobre a aguardente vínica aplicada no seu benefício, tendo ainda determinado que o produto da taxa incidente sobre a aguardente seria repartido entre o Instituto do Vinho do Porto (IVP) e a Casa do Douro (CD), na razão de uma percentagem a fixar anualmente por portaria do Ministério da Agricultura, mediante proposta daquele Instituto.\n\nEm virtude da publicação dos Decretos-Leis n.os 74/95 e 76/95, de 19 de Abril, o mencionado regime tributário foi alterado, na medida em que passaram a constituir receitas da Comissão Interprofissional da Região Demarcada do Douro (CIRDD) as taxas correspondentes às competências atribuídas a esta entidade, e que anteriormente vinham sendo exercidas pela CD, a qual continuou a exercer transitoriamente aquelas competências e a ter direito à quota-parte da receita dessas taxas, até ao início do mandato do conselho geral da CIRDD.\n\nTendo o conselho geral da CIRDD entrado em funções no passado dia 21 de Outubro, a titularidade das receitas em causa passou a pertencer a esta entidade, que passará a receber, conjuntamente com o IVP, a receita das taxas relativas à aguardente cobradas posteriormente àquela data.\n\nSendo assim, a repartição das receitas referentes ao ano de 1996 reflectirá aquelas consequências da alteração institucional da Região Demarcada do Douro, respeitando os dois regimes sucessivamente em vigor ao longo deste ano e repartindo entre a CD e o IVP a receita das taxas cobradas até 21 de Outubro e entre este último e a CIRDD as taxas cobradas posteriormente.\n\nUma vez que a CIRDD deverá, a partir de agora, exercer as funções de controlo físico e administrativo da circulação e utilização das aguardentes tributadas e dotar-se dos meios necessários para este efeito, esta receita contribuirá para financiar esse esforço.\n\nNo que respeita à fixação das percentagens de divisão de receitas, e à semelhança do que tem vindo a ser decidido em anos anteriores, determina-se que as receitas cobradas antes e depois de 21 de Outubro sejam repartidas em partes iguais pelos respectivos destinatários.\n\nAssim, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 83/92, de 7 de Maio:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que o produto da taxa estabelecida na alínea b) do artigo 1.º do Decreto-Lei n.º 83/92, de 7 de Maio, seja repartido da seguinte forma:\n\na) A receita das taxas cobradas até 21 de Outubro de 1996 será repartida entre o Instituto do Vinho do Porto e a Casa do Douro na razão de metade para cada um destes organismos;\n\nb) A receita das taxas cobradas a partir de 21 de Outubro de 1996 será repartida entre o Instituto do Vinho do Porto e a Comissão Interprofissional da Região Demarcada do Douro na razão de metade para cada um destes organismos.\n\nMinistério da Agricultura, do Desenvolvimento Rural e das Pescas."
+  },
+  "976085387": {
+   "fragment_id": "976070393",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.\n\nAssinada em 22 de Novembro de 1996.\n\nPelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Manuel Maria Cardoso Leal, Secretário de Estado da Produção Agro-Alimentar."
+  }
+ }
+}

@@ -1,0 +1,148 @@
+---
+schema_version: '1.0'
+id: pt:dre:565042:por
+title: Portaria n.º 784/81
+short_title: null
+summary: Altera a Portaria n.º 13038, de 9 de Janeiro de 1950 (define as dimensões livres sob as passagens superiores às linhas
+  férreas)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado dos Transportes Interiores
+proposing_entity: null
+official_number: 784/81
+official_date: null
+publication_date: '1981-09-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 208/1981, Série I de 1981-09-10
+  number: '208'
+  series: I
+  supplement: null
+  pages: 2416 - 2417
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/20800/24162417.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '565042'
+  dre_path: /dr/detalhe/portaria/784-1981-565042
+  internal: pt:dre:565042:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/784-1981-565042
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/784-1981-565042
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-09-10T00:00:00Z'
+integrity:
+  source_sha256: b0491d8a8758c682c68050ca4fc5891fc992e701655cb34625d9fb8788091442
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-784-565042.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 784/81
+
+de 10 de Setembro
+
+As actuais técnicas de exploração e a evolução prevista para as características da circulação ferroviária tornam necessário modificar as dimensões livres sob as passagens superiores às linhas férreas, definidas pela [Portaria n.º 13038](https://diariodarepublica.pt/dr/detalhe/portaria/13038-1950-445105), de 9 de Janeiro de 1950.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado dos Transportes Interiores, o seguinte:
+
+1.º O sistema de eixos de referência a utilizar em cada secção transversal é definido do seguinte modo:
+
+1) A origem dos eixos, no caso de linhas de via única, é o ponto médio do segmento da tangente às faces superiores das cabeças dos carris (plano de rolamento);
+
+2) A origem dos eixos, no caso de linhas de via dupla, é o ponto médio do segmento que une os pontos que para cada via são definidos nos termos do número anterior;
+
+3) Os eixos, que são ortogonais, coincidem com as direcções horizontal e vertical;
+
+4) O eixo vertical, tal como foi definido, coincide com o eixo da via, no caso de linhas de via única, e com o eixo da linha (ou da entrevia), no caso de linhas de via dupla.
+
+2.º Para cada via, a diferença entre a cota do carril mais alto e a cota do ponto mais baixo da estrutura do tabuleiro, medida sobre a vertical desse carril, e para a secção transversal mais desfavorável, será:
+
+a) Para as linhas onde não se prevê a electrificação - 5,70 m;
+
+b) Para as linhas a electrificar - 6 m em plena via e 7,25 m nas zonas de estação.
+
+1 - Deverão ser sempre respeitadas as espessuras correspondentes à superstrutura da via (carris, travessas, balastro, laje e sub-base), indicadas no desenho n.º 1.
+
+2 - Em linhas a electrificar, quando a passagem superior se situar a menos de 100 m, quer de uma passagem de nível que excepcionalmente se mantenha em serviço após a execução da obra de arte, quer de um aparelho de via, a altura mínima será de 6,40 m.
+
+3 - Designa-se por zona de estação o troço compreendido entre os pontos situados 500 m além das pontas das agulhas extremas, previstas face à remodelação das estações.
+
+3.º Os valores mencionados no número anterior poderão ser aumentados nos casos seguintes:
+
+a) Quando a largura do encontro da passagem superior, segundo o eixo longitudinal, seja superior a 30 m;
+
+b) Quando se preveja a renovação/rectificação do traçado da via;
+
+c) Quando a linha já esteja electrificada ou os trabalhos de electrificação estejam em curso.
+
+4.º Na direcção horizontal, as larguras a respeitar são as indicadas nos desenhos anexos, excepto para as situações particulares a seguir referidas, em que esses valores serão eventualmente acrescidos:
+
+a) Quando se preveja aumento do número de vias (plena via ou estações);
+
+b) Quando a largura dos encontros da passagem superior, segundo o eixo longitudinal da via, exceda os 30 m;
+
+c) Quando a electrificação já exista ou os respectivos trabalhos estejam em curso de execução;
+
+d) Quando já existam ou se prevejam obstáculos na entrevia;
+
+e) Quando se preveja rectificação do traçado da via;
+
+f) Quando, em via dupla, o raio da curva seja inferior a 250 m.
+
+5.º Os Caminhos de Ferro Portugueses, E. P., fornecerão, por escrito, aos interessados os valores correspondentes aos itens 3.º e 4.º
+
+6.º Entre cada grupo de 2 vias e uma 3.ª via (via tripla) ou outro grupo de 2 vias (via quádrupla), a mínima distância entre eixos a respeitar será de 5,50 m nas vias sem electrificação e 6,80 m nas vias com electrificação existente ou prevista.
+
+7.º Em casos devidamente justificados, poderão ser adoptados valores inferiores aos constantes da presente portaria, quando aprovados pelo Ministro da tutela.
+
+8.º Constituem parte integrante da presente portaria os desenhos anexos.
+
+Secretaria de Estado dos Transportes Interiores, 21 de Agosto de 1981. - O Secretário de Estado dos Transportes Interiores, Abílio Gaspar Rodrigues.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/20800/24162417.pdf))](https://files.diariodarepublica.pt/1s/1981/09/20800/24162417.pdf)

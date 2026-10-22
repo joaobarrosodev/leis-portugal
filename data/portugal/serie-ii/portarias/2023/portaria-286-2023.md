@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:214523678:por
+title: Portaria n.º 286/2023
+short_title: null
+summary: Reclassifica como monumento de interesse público a Igreja de Santa Marinha, paroquial de Real, incluindo o património
+  móvel integrado, e respetivo adro e escadaria, e fixa a respetiva zona especial de proteção
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Cultura - Gabinete da Secretária de Estado da Cultura
+proposing_entity: null
+official_number: 286/2023
+official_date: null
+publication_date: '2023-06-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 117/2023, Série II de 2023-06-19
+  number: '117'
+  series: II
+  supplement: null
+  pages: 60 - 63
+  pdf_url: https://files.diariodarepublica.pt/2s/2023/06/117000000/0006000063.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '214523678'
+  dre_path: /dr/detalhe/portaria/286-2023-214523678
+  internal: pt:dre:214523678:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2023-214523678
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/286-2023-214523678
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-06-19T00:00:00Z'
+integrity:
+  source_sha256: 13ab5fb3766652a5ac3c59f5aa9eea5eb4c842dd5a57924cb58bf81e0b167c22
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-286-214523678.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 286/2023
+
+A Igreja de Santa Marinha, paroquial de Real, foi classificada, com a designação de «Conjunto da igreja paroquial da freguesia de Real, com as imagens de granito integradas na vedação do adro e a escadaria», como valor concelhio pelo artigo 3.º do [Decreto n.º 129/77](https://diariodarepublica.pt/dr/detalhe/decreto/129-1977-278706), publicado no Diário da República, 1.ª série, n.º 226, de 29 de setembro de 1977, classificação que foi convertida para interesse municipal, nos termos do n.º 2 do artigo 112.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, na sua redação atual.
+
+A igreja paroquial de Real, dedicada a Santa Marinha, surge inicialmente referenciada em documentação do século xiii, relativa a um templo situado em localização distinta, que foi substituído, ao longo do século xviii, pelo edifício atualmente existente, considerado um dos maiores do concelho.
+
+O imóvel setecentista é composto por um corpo de arquitetura austera, com fachadas sóbrias, torre sineira de grandes dimensões e elementos decorativos concentrados no portal principal, correspondendo a esta depuração formal um espaço interno amplo e profusamente decorado.
+
+No interior, com nave coberta por abóbada de berço com pinturas decorativas, coro alto assente sobre mísulas e capelas laterais e colaterais, destaca-se o conjunto de talha rococó dourada e policromada, que ganha particular importância por não se cingir aos altares, desenvolvendo-se pelas sanefas recortadas que rematam os muitos vãos, incluindo o arco triunfal. Apesar da uniformidade da cronologia, o retábulo-mor, de boa composição, com tribuna e trono, apresenta qualidade superior, figurando nele as imagens de Santa Marinha e de Santo Ovídio.
+
+A igreja é rodeada por adro com muro de balaustres valorizado por esculturas singelas, em granito, a marcar as duas entradas, sendo a principal acessível através de escadaria. Na sua envolvente existem ainda o portal e ruína da antiga casa paroquial, um cruzeiro e o edifício da antiga escola.
+
+O conjunto, de volumetria destacada na paisagem de Castelo de Paiva, conserva exemplarmente a feição setecentista original, reconhecendo-se, na sua representatividade artística e particular unidade cronológica, arquitetónica e plástica, elementos que justificam a reclassificação para uma categoria de interesse nacional.
+
+Assim, pela presente portaria, procede-se à reclassificação como monumento de interesse público e à redenominação como «Igreja de Santa Marinha, paroquial de Real, incluindo o património móvel integrado, e respetivo adro e escadaria».
+
+A reclassificação da Igreja de Santa Marinha, paroquial de Real, incluindo o património móvel integrado, e respetivo adro e escadaria, reflete os critérios constantes do artigo 17.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, na sua redação atual, relativos ao caráter matricial do bem, ao seu interesse como testemunho simbólico e religioso, ao seu valor estético e material intrínseco, à sua conceção arquitetónica e urbanística, e à sua extensão e ao que nela se reflete do ponto de vista da memória coletiva.
+
+A zona especial de proteção (ZEP) tem em consideração a implantação e a envolvente urbanística do imóvel, incluindo o restante edificado com interesse patrimonial, de forma a preservar o enquadramento do bem, assim como os pontos de vista e as perspetivas da sua contemplação e fruição.
+
+No âmbito da instrução do procedimento de fixação da ZEP, a Direção-Geral do Património Cultural, em articulação com a Direção Regional de Cultura do Norte, procedeu ao estudo das restrições consideradas adequadas, que obtiveram parecer favorável do Conselho Nacional de Cultura e foram sujeitas a audiência dos interessados, nos termos do Código do Procedimento Administrativo, não tendo a Câmara Municipal de Castelo de Paiva respondido ao pedido de parecer, aquando da sua elaboração, nem apresentado posteriormente quaisquer observações.
+
+Assim:
+
+Nos termos do n.º 2 do artigo 28.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, na sua redação atual, do n.º 2 do artigo 30.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação atual, ao abrigo do artigo 21.º do [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, na sua redação atual, e no uso das competências delegadas pelo [Despacho n.º 7052/2022](https://diariodarepublica.pt/dr/detalhe/despacho/7052-2022-184306970), publicado no Diário da República, 2.ª série, n.º 107, de 2 de junho de 2022, manda o Governo, pela Secretária de Estado da Cultura, o seguinte:
+
+###### Artigo 1.º — Reclassificação e redenominação
+
+É reclassificada como monumento de interesse público (MIP) e redenominada como «Igreja de Santa Marinha, paroquial de Real, incluindo o património móvel integrado, e respetivo adro e escadaria», no lugar da Igreja, freguesia de Real, concelho de Castelo de Paiva, distrito de Aveiro, conforme planta constante do anexo à presente portaria e da qual faz parte integrante.
+
+###### Artigo 2.º — Zona especial de proteção
+
+1 - É fixada a zona especial de proteção da igreja referida no artigo anterior, conforme planta constante do anexo à presente portaria e da qual faz parte integrante.
+
+2 - Nos termos do n.º 1 do artigo 43.º do [Decreto-Lei n.º 309/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/309-2009-483153), de 23 de outubro, na sua redação atual, são fixadas as seguintes restrições:
+
+a) Área de sensibilidade arqueológica (ASA):
+
+É criada uma ASA, correspondente à Zona 1, conforme planta referida no número anterior, em que as intervenções ou trabalhos com ação intrusiva no solo, devem ser objeto de acompanhamento arqueológico presencial e contínuo, da responsabilidade de um arqueólogo previamente autorizado pela tutela do património cultural competente;
+
+b) Bens imóveis, ou grupos de bens imóveis:
+
+São criados três zonamentos, conforme planta constante do anexo à presente portaria, da qual faz parte integrante, em que:
+
+i) Podem ser objeto de obras de alteração:
+
+1) Na Zona 1:
+
+Qualquer intervenção nos imóveis deve ter por base a elaboração de um relatório prévio de avaliação;
+
+São apenas admitidas obras de reabilitação, de modo a manter a unidade morfológica e as características dos imóveis, no que respeita à volumetria, desenho e composição das fachadas e sistemas construtivos originais;
+
+É admitida a construção de raiz com um só piso, desde que integrada num projeto global para o espaço que dê garantias de preservação das ruínas;
+
+2) Na Zona 2:
+
+São admitidas obras de reabilitação de modo a manter a unidade morfológica e as características dos imóveis: volumetria, desenho e composição das fachadas e sistema construtivo;
+
+São admitidas ampliações pontuais, sempre de área e volume inferiores à preexistência;
+
+3) Na Zona 3:
+
+É admitida a construção de novos edifícios de habitação unifamiliar com cércea máxima de 7 m, desde que não comprometam o enquadramento, o carácter e o significado cultural do bem classificado, nem desvirtuem a sua interpretação e apreciação;
+
+Não é admitida a abertura de novos arruamentos, e todas as intervenções em espaços públicos, vias, largos, etc., devem ser projetadas de forma a não comprometer o enquadramento, o carácter e o significado cultural do bem classificado, nem desvirtuar a sua interpretação nem as perspetivas de contemplação;
+
+São admitidas intervenções nos espaços verdes no âmbito do cultivo dos terrenos e exploração das espécies arbóreas existentes, sendo a plantação de novas espécies admitida quando contribua para a valorização do enquadramento paisagístico do imóvel classificado;
+
+ii) Devem ser preservados:
+
+1) Na Zona 1:
+
+Não é admitida a alteração integral dos elementos estruturais originais, tais como paredes-mestras, estruturas de pavimentos e coberturas em madeira, ou a remoção dos elementos decorativos de valor que fazem parte integrante do espaço;
+
+2) Na Zona 3:
+
+Não se admitem ampliações dos edifícios existentes;
+
+iii) Em circunstâncias excecionais podem ser demolidos:
+
+1) Na Zona 2:
+
+São admitidas demolições parciais ou pontuais de volumes anexos e ou elementos espúrios que contribuam para a adulteração arquitetónica dos edifícios;
+
+São admitidas demolições interiores tendo em conta uma eventual adaptação a novas funções, desde que com preservação dos elementos estruturais ainda originais, tais como paredes-mestras, estruturas de pavimentos e coberturas em madeira, e conservando os elementos decorativos de valor preexistentes;
+
+2) Na Zona 3:
+
+São admitidas obras de demolição e de alteração do desenho e composição das fachadas para valorização da preexistência.
+
+7 de junho de 2023. - A Secretária de Estado da Cultura, Isabel Alexandra Rodrigues Cordeiro.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2023/06/117000000/0006000063.pdf))](https://files.diariodarepublica.pt/2s/2023/06/117000000/0006000063.pdf)

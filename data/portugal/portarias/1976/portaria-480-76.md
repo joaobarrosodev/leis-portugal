@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:429811:por
+title: Portaria n.º 480/76
+short_title: null
+summary: Cria e regulamenta o curso superior de Educação Física
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Investigação Científica
+proposing_entity: null
+official_number: 480/76
+official_date: null
+publication_date: '1976-08-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 180/1976, Série I de 1976-08-03
+  number: '180'
+  series: I
+  supplement: null
+  pages: 1873 - 1875
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18000/18731875.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '429811'
+  dre_path: /dr/detalhe/portaria/480-1976-429811
+  internal: pt:dre:429811:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/480-1976-429811
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/480-1976-429811
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-05-25T00:00:00Z'
+integrity:
+  source_sha256: a6efaf315a862ac8dfb3c034016641a811c49faa8b3ed1e52b876cde7735e534
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-480-429811.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:252807:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 480/76
+
+de 3 de Agosto
+
+De acordo com o estabelecido no [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, que no seu preâmbulo referia visar um duplo objectivo: «Por um lado, elimina-se uma situação que se apresentava como injustamente discriminatória para a educação física em geral, bem como para os respectivos profissionais e estabelecimentos de ensino, adoptando-se, correlativamente, algumas providências de carácter excepcional, mas que outra coisa não representam do que uma parcial compensação do tratamento desfavorável que ao regime deposto mereceu este sector.»
+
+«Por outro, e sobretudo, intenta-se lançar as bases da normal integração da educação física no ensino superior universitário, assim lhe reconhecendo, enfim, o seu lugar próprio no sistema educativo.»
+
+Sendo, pois, o estágio referido no artigo 22.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534) uma providência de carácter excepcional;
+
+Visando o referido estágio normalizar através de cursos e outros processos de actualização de conhecimentos, a aberrante situação criada aos professores diplomados pelas escolas de instrutores de educação física, que foram indevidamente impedidos de concorrer para lugares do quadro das escolas preparatórias ou dos estabelecimentos de ensino secundário;
+
+Considerando não se tratar de um estágio pedagógico, uma vez que os professores em causa já o realizaram integrado no seu curso, mas de formas de actualização e aperfeiçoamento profissional, cujo pedido de organização pelos próprios professores, como condição para se efectivarem, é digno do melhor louvor;
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Investigação Científica:
+
+1.º No estágio referido no artigo 22.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro, neste diploma designado por curso, podem inscrever-se todos os diplomados pelas escolas de instrutores de educação física que estejam ou venham a estar nas condições definidas nos n.os 1 a 3 do artigo 21.º do citado decreto-lei.
+
+2.º O curso terá a duração de um ano lectivo e será realizado nos termos a seguir definidos.
+
+3.º No prazo de trinta dias, a partir da data da publicação desta portaria, estará aberta a inscrição no curso, devendo o candidato solicitar a sua inscrição no estabelecimento de ensino ou organismo oficial onde se encontre a prestar serviço, por requerimento dirigido à Direcção-Geral do Ensino Superior.
+
+4.º Será incumbida da realização do curso a Direcção-Geral do Ensino Superior, em colaboração com os institutos superiores de educação física, que para o efeito serão dotados de uma verba própria, podendo ainda destacar-se pessoal técnico e docente considerado indispensável à melhor organização do curso.
+
+5.º A título transitório e no âmbito da Direcção-Geral do Ensino Superior, será constituído um grupo de trabalho responsável pela organização e direcção do curso, no qual os inscritos estarão representados por três elementos de sua escolha.
+
+6.º Compete ao grupo de trabalho:
+
+a) A organização do curso referido nos artigos 8.º e 9.º, prevendo a possibilidade da sua realização simultânea em vários locais, a definir futuramente em função da distribuição geográfica dos inscritos no curso e tomando em conta as disposições já existentes quanto à divisão regional do País;
+
+b) A designação dos elementos que compõem o corpo docente deste curso;
+
+c) Classificação do candidato no curso e proposta de homologação à Direcção-Geral do Ensino Superior;
+
+d) A atribuição da classificação final, tendo em atenção os elementos que sobre cada inscrito foram colhidos pelos docentes do curso;
+
+e) Propor a publicação dos trabalhos documentais cujo nível científico ou técnico assim o justifique;
+
+f) Convocar os inscritos no curso e orientar os trabalhos colectivos previstos no artigo 7.º e o contrôle das presenças nos termos do n.º 3 do mesmo artigo;
+
+g) Propor uma classificação para os trabalhos documentais apresentados;
+
+h) Propor à Direcção-Geral do Ensino Superior a anulação do curso dos candidatos cujo número de faltas ou não execução dos trabalhos assim o exigirem, assim como a passagem dos certificados comprovativos da frequência com aproveitamento do referido curso.
+
+7.º O curso será realizado mantendo-se os inscritos no desempenho das funções que ocupam, quer em estabelecimentos de ensino oficial ou particular, quer em organismos oficiais ou outros.
+
+8.º O curso incluirá obrigatoriamente:
+
+a) A apresentação de trabalhos documentais realizados individualmente;
+
+b) A participação em sessões mensais de trabalho colectivo, a realizar na última sexta-feira e sábado de cada mês, em local a definir pela Direcção-Geral do Ensino Superior, e nos meses de Novembro a Junho;
+
+c) A frequência de um curso no mês de Setembro, com a duração mínima de dezoito e máxima de vinte e quatro dias.
+
+9.º Os trabalhos documentais versarão sobre planeamento, investigação, administração, reeducação, didáctica e pedagogia, metodologia desportiva, treino físico, expressão corporal e trabalhos técnicos e pedagógicos relativos à educação física e ao desporto.
+
+10.º Os inscritos no curso poderão ainda propor outros temas à Direcção-Geral do Ensino Superior.
+
+11.º A não apresentação de, pelo menos, um trabalho documental até ao final do mês de Junho importará a anulação do curso já realizado, sob proposta do grupo responsável pelo curso à Direcção-Geral do Ensino Superior.
+
+12.º Por convocação e sob a orientação do grupo responsável pelo curso, realizar-se-ão mensalmente sessões de trabalho colectivo para análise e discussão dos documentos referidos no n.º 8.º e relato de experiências realizadas pelos profissionais a nível do seu distrito.
+
+13.º Nestas sessões estimular-se-á ainda a discussão e colaboração de estagiários de diferentes serviços, por forma a elaborarem conjuntamente trabalhos respeitantes à organização das actividades desportivas do distrito, quer na escola, quer fora dela, e abrangendo prioritariamente os escalões etários da escolaridade obrigatória.
+
+14.º Não são permitidas mais de três faltas às sessões mensais de discussão.
+
+15.º O curso visará a actualização de conhecimentos, tendo como objectivo global a análise e estudo dos problemas da educação física e do desporto da população portuguesa, por forma a considerar soluções e experiências adaptadas às necessidades e possibilidades do País, e prioritariamente no que respeita aos escalões etários correspondentes à idade escolar do ensino básico, secundário e médio.
+
+16.º O curso incluirá:
+
+a) Quatro seminários, com a duração máxima de oito horas cada um, a organizar, respectivamente, pela Direcção-Geral do Ensino Superior (ISEF), Direcção-Geral do Ensino Secundário, Direcção-Geral do Ensino Básico e pela Direcção-Geral dos Desportos, que visarão o estudo e debate, com os inscritos, de temas propostos pelos serviços centrais;
+
+b) Sessões de trabalho teórico, a definir pelo grupo de trabalho, que abranjam os sectores da cência, educação e administração, e que sejam considerados como os mais adequados à formação dos inscritos no curso e à sociedade portuguesa;
+
+c) Sessões de trabalho prático, a organizar nos termos da alínea anterior, e que se constituem em ligação directa e como enriquecimento dos aspectos teóricos versados.
+
+17.º A não comparência a este curso ou a sua frequência irregular (mais de um terço de faltas às sessões programadas) importará para o candidato a exclusão do mesmo.
+
+18.º A frequência deste curso, com aproveitamento, conferirá:
+
+a) A habilitação profissional para efeitos de provimento nos lugares dos quadros de pessoal docente do ensino básico, secundário ou médio, nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro;
+
+b) Uma classificação profissional baseada na nota final constante do diploma de curso da Escola de Instrutores de Educação Física, a qual acrescerá meio valor por cada ano de serviço docente prestado nos termos da legislação em vigor.
+
+19.º Os docentes em serviço nos estabelecimentos de ensino oficiais gozarão do estatuto de professores de serviço eventual ou provisório, nos termos do artigo 23.º do [Decreto-Lei n.º 675/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/675-1975-309534), de 3 de Dezembro.
+
+20.º Os inscritos no curso serão dispensados pelas entidades privadas, serviços oficiais ou estabelecimentos de ensino onde prestem serviço, devendo ser abonados pelos respectivos serviços dos subsídios de transporte e ajudas de custo, nos termos e para os efeitos previstos no n.º 8.º deste diploma.
+
+21.º Deverão, porém, os frequentadores do curso que exerçam a sua actividade para entidades privadas, com excepção de estabelecimentos de ensino, requerer à Direcção-Geral do Ensino Superior o abono de importâncias a que se refere o número anterior.
+
+22.º Para efeitos de constituição do grupo de trabalho, recorrer-se-á ao destacamento de profissionais de educação física ou outros de reconhecida competência nas matérias a versar.
+
+23.º As despesas com o curso de informação e aperfeiçoamento previsto nos n.os 9.º a 12.º, no que respeita, nomeadamente, a transporte e alojamento de prelectores e estagiários, serão suportadas pelas verbas inscritas no orçamento da Direcção-Geral do Ensino Superior, com eventual comparticipação, por transferência, das verbas orçamentadas para as Direcções-Gerais do Ensino Básico, do Ensino Secundário e dos Desportos, nos termos a determinar futuramente pelo Ministro da Educação e Investigação Científica.
+
+24. Para os cursos que devam ser realizados durante os anos lectivos de 1977-1978 e seguintes, deverão as inscrições ser feitas durante o mês de Julho imediatamente anterior.
+
+Ministério da Educação e Investigação Científica, 16 de Julho de 1976. - O Ministro da Educação e Investigação Científica, Vítor Manuel Rodrigues Alves.

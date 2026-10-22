@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:302951:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regional/2002-960673304",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regional/2-2002-302951",
+ "source_lastmod": "2025-12-04",
+ "versions": [
+  {
+   "date": "2002-04-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "960673192",
+    "960673193",
+    "960673194",
+    "960673195",
+    "960673196",
+    "960673197"
+   ]
+  }
+ ],
+ "fragments": {
+  "960673192": {
+   "fragment_id": "960673305",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa Regional n.º 2/2002/A\n\nCria a Comissão Eventual para o Estudo do Financiamento do Serviço Regional de Saúde\n\nA Assembleia Legislativa Regional dos Açores, nos termos estatutários e regimentais, resolve o seguinte:"
+  },
+  "960673193": {
+   "fragment_id": "960673306",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ constituída a Comissão Eventual para o Estudo do Financiamento do Serviço Regional de Saúde (SRS)."
+  },
+  "960673194": {
+   "fragment_id": "960673307",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA Comissão tem por objecto:\n\na) A análise do estudo do financiamento do SRS, tendo em vista a identificação das questões cujo aperfeiçoamento se mostre necessário ou útil;\n\nb) A determinação de possíveis soluções, identificando as que dependam de intervenção regional e as que dependam de intervenção nacional."
+  },
+  "960673195": {
+   "fragment_id": "960673308",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nNa prossecução dos seus objectivos, a Comissão deverá, de entre outros:\n\na) Fomentar o debate público e a auscultação das entidades públicas e privadas que possam contribuir para a realização dos seus objectivos;\n\nb) Deliberar sobre o pedido de contributos técnicos a entidades públicas ou privadas de reconhecida idoneidade;\n\nc) Aceitar e discutir os contributos técnicos provenientes de entidades públicas ou privadas que possam colaborar na realização dos seus objectivos."
+  },
+  "960673196": {
+   "fragment_id": "960673309",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA Comissão é composta por nove deputados, sendo cinco do Partido Socialista, dois do Partido Social-Democrata, um do Partido Popular e um do Partido Comunista Português."
+  },
+  "960673197": {
+   "fragment_id": "960673310",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nNo prazo de 10 meses a contar da sua constituição, a Comissão apresentará ao Plenário o respectivo relatório."
+  }
+ }
+}

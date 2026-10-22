@@ -1,0 +1,329 @@
+---
+schema_version: '1.0'
+id: pt:dre:600492:por
+title: Portaria n.º 895/94
+short_title: null
+summary: Estabelece os valores limite de descarga nas águas e nos solos e os objectivos de qualidade para certas substâncias
+  ditas "perigosas", com vista a eliminar ou reduzir a poluição que podem provocar nesses meios
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Indústria e Energia, da Saúde e do Ambiente e Recursos Naturais
+proposing_entity: null
+official_number: 895/94
+official_date: null
+publication_date: '1994-10-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/1994, Série I-B de 1994-10-03
+  number: '229'
+  series: I
+  supplement: null
+  pages: 6057 - 6062
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/895/1994/10/03/p/dre/pt/html
+  oj: null
+  dre: '600492'
+  dre_path: /dr/detalhe/portaria/895-1994-600492
+  internal: pt:dre:600492:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-1994-600492
+  metadata_url: https://data.dre.pt/eli/port/895/1994/10/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/895-1994-600492
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-09-30T00:00:00Z'
+integrity:
+  source_sha256: 804d86bf03eacce0652c6d71b163425d5cfc6528ec07dc93f6f418bf9dbdae3e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-895-600492.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Atividade Industrial
+- Instituto da ÁGUA
+- Contrato Programa
+- Definição de Competências
+- Descarga de ÁGUA Residual
+- Direcção Regional do Ambiente
+- Direcção Regional do Ambiente e Recursos Naturais
+- Proteção do Ambiente
+- Águas Residuais
+- Poluição da água
+- Tratamento de ÁGUA
+relationships:
+- type: amended_by
+  target: pt:dre:667919:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31976L0464
+  label: null
+  source: http://data.europa.eu/eli/dir/1976/464/oj
+- type: cites
+  target: celex:31984L0491
+  label: null
+  source: http://data.europa.eu/eli/dir/1984/491/oj
+- type: cites
+  target: celex:31986L0280
+  label: null
+  source: http://data.europa.eu/eli/dir/1986/280/oj
+- type: cites
+  target: celex:31988L0347
+  label: null
+  source: http://data.europa.eu/eli/dir/1988/347/oj
+- type: cites
+  target: celex:31990L0415
+  label: null
+  source: http://data.europa.eu/eli/dir/1990/415/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 895/94
+
+de 3 de Outubro
+
+As características de toxicidade de determinadas substâncias, a que se alia, muitas vezes, elevado potencial de persistência e bioacumulação, tornam necessário um controlo estrito das emissões para o ambiente, em particular para o meio aquático.
+
+Numa perspectiva de protecção dos recursos hídricos, que, sendo um componente fundamental do ambiente biofísico, são indispensáveis ao desenvolvimento da sociedade humana, é fundamental actuar preventivamente sobre as principais fontes de poluição e exercer uma vigilância activa dos meios receptores, de forma que não acarrete aumento de poluição por essas substâncias noutros meios, designadamente no solo e no ar.
+
+O Decreto-Lei n.º 74/90, de 7 de Março, estabelece no artigo 40.º que a preservação do meio aquático da poluição provocada por certas substâncias persistentes, tóxicas e bioacumuláveis, ditas "substâncias perigosas", se faz por eliminação ou redução das emissões de acordo com o estipulado na Directiva n.º [76/464/CEE](https://data.europa.eu/eli/dir/1976/464/oj?locale=pt), de 4 de Maio, e inclui, transpondo as Directivas n.os [84/491/CEE](https://data.europa.eu/eli/dir/1984/491/oj?locale=pt), de 9 de Outubro, [86/280/CEE](https://data.europa.eu/eli/dir/1986/280/oj?locale=pt), de 12 de Junho, e [88/347/CEE](https://data.europa.eu/eli/dir/1988/347/oj?locale=pt), de 16 de Junho, que se baseiam na primeira directiva citada, alguns valores limite e objectivos de qualidade para substâncias incluídas na lista I da Directiva n.º [76/464/CEE](https://data.europa.eu/eli/dir/1976/464/oj?locale=pt), de 4 de Maio, apresentada no anexo XXVI ao referido decreto-lei.
+
+Posteriormente à publicação do decreto-lei acima referido, foi publicada a Directiva n.º [90/415/CEE](https://data.europa.eu/eli/dir/1990/415/oj?locale=pt), que altera o anexo II à Directiva n.º [86/280/CEE](https://data.europa.eu/eli/dir/1986/280/oj?locale=pt), introduzindo nesse anexo mais quatro substâncias, às quais, portanto, se aplica o estipulado nesta última directiva e na anteriormente publicada, a Directiva n.º [76/464/CEE](https://data.europa.eu/eli/dir/1976/464/oj?locale=pt). Torna-se, assim, necessário transpor a Directiva n.º [90/415/CEE](https://data.europa.eu/eli/dir/1990/415/oj?locale=pt), considerada no âmbito das Directivas n.os [76/464/CEE](https://data.europa.eu/eli/dir/1976/464/oj?locale=pt) e [86/280/CEE](https://data.europa.eu/eli/dir/1986/280/oj?locale=pt), por forma a incluir na legislação nacional disposições que regulem de forma adequada a descarga destas quatro substâncias no meio hídrico.
+
+Assim, ao abrigo do disposto nos artigos 40.º e 43.º do Decreto-Lei n.º 74/90, de 7 de Março, e do disposto no Decreto-Lei n.º 46/94, de 22 de Fevereiro:
+
+Manda o Governo, pelos Ministros da Indústria e Energia, da Saúde e do Ambiente e Recursos Naturais:
+
+1.º
+
+Objectivo e âmbito
+
+O presente diploma tem por objecto estabelecer os valores limite de descarga nas águas e nos solos e os objectivos de qualidade para certas substâncias ditas "perigosas", com vista a eliminar ou reduzir a poluição que podem provocar nesses meios.
+
+2.º
+
+Condições de licenciamento
+
+1 - O licenciamento das descargas das substâncias a seguir discriminadas, provenientes dos sectores industriais identificados no anexo I, fica condicionado ao cumprimento dos valores limite de descarga constantes do mesmo anexo a esta portaria e que dela faz parte integrante:
+
+a) 1,2-dicloroetano (EDC);
+
+b) Tricloroetileno (TRI);
+
+c) Percloroetileno (PER);
+
+d) Triclorobenzeno (TCB).
+
+2 - O cumprimento dos valores limite constantes do anexo I não poderá, em caso algum, sobrepor-se às exigências do cumprimento dos objectivos de qualidade definidos no anexo II.
+
+3 - As licenças de descarga serão revistas pelo menos de quatro em quatro anos.
+
+3.º
+
+Aplicação dos valores limite
+
+1 - Os valores limite aplicam-se normalmente no ponto em que as águas residuais contendo as substâncias identificadas no artigo 2.º são descarregadas.
+
+2 - Se as águas residuais contendo as substâncias identificadas no artigo 2.º forem tratadas fora do estabelecimento industrial, numa instalação de tratamento destinada à sua eliminação, os valores limite podem ser aplicados no ponto em que as águas residuais dessa instalação de tratamento são descarregadas.
+
+4.º
+
+Autocontrolo e fiscalização
+
+1 - O cumprimento dos valores limite constantes do anexo I é verificado através de acções de autocontrolo e de fiscalização, entendendo-se os valores limite como referentes às águas residuais antes de qualquer diluição no meio receptor.
+
+2 - As acções de autocontrolo que serão estabelecidas na licença e as acções de fiscalização previstas no Decreto-Lei n.º 46/94, de 22 de Fevereiro, devem incluir, nomeadamente, a colheita e análise de amostras representativas das águas residuais e do meio receptor, a medição de caudais de descarga e a determinação da quantidade de substância tratada, tendo em atenção as características quantitativas e qualitativas do meio receptor.
+
+3 - Sem prejuízo de situações particulares de algumas unidades industriais, a amostra de vinte e quatro horas é considerada representativa da descarga e será a base do cálculo da quantidade de substância descarregada mensalmente.
+
+4 - Se não for possível determinar a quantidade de substância tratada, para efeitos do n.º 2 pode tomar-se como base a quantidade de substância que pode ser utilizada em função da capacidade de produção em que se fundamenta a licença.
+
+5 - As colheitas de amostras e a medição de caudais previstas no n.º 2 far-se-ão normalmente nos pontos de descarga aos quais se aplicam os valores limite.
+
+6 - Se necessário, para garantir que as determinações analíticas cumpram as condições referidas no anexo III, as colheitas de amostras para análise e a medição de caudais podem ser realizadas noutro ponto, a montante do ponto a que se aplicam os valores limite, desde que:
+
+a) Todas as águas da unidade industrial susceptíveis de conterem a substância em causa sejam analisadas;
+
+b) Sejam realizadas campanhas regulares para verificar que as determinações são efectivamente representativas das quantidades descarregadas no ponto a que se aplicam os valores limite ou que são sempre superiores a estas.
+
+7 - Os resultados obtidos através das acções de autocontrolo constam de relatórios que devem ser enviados, de acordo com a periodicidade estipulada na licença, às direcções regionais do ambiente e recursos naturais (DRARN), que os comunicarão ao Instituto da Água (INAG), que informará as Direcções-Gerais da Saúde, do Ambiente e da Indústria quando se verifique qualquer irregularidade.
+
+8 - As acções de autocontrolo podem ser simplificadas no caso do EDC, TRI e PER, quando a descarga anual não ultrapasse 30 kg/ano.
+
+5.º
+
+Métodos de referência
+
+1 - Os métodos de referência para o controlo das águas residuais e do meio receptor são os indicados no anexo III.
+
+2 - Poderão ser utilizados outros métodos, desde que os seus limites de detecção, a precisão e a exactidão sejam equivalentes aos referidos no anexo III.
+
+6.º
+
+Inventário e relatórios
+
+1 - As DRARN procedem, até 1 de Janeiro de 1995, ao inventário das fontes de descarga pontuais, múltiplas e difusas, das substâncias identificadas no n.º 2.º, existentes à data da publicação da presente portaria, e do qual constará a caracterização das águas residuais descarregadas e dos meios receptores.
+
+2 - As DRARN elaboram anualmente, no 1.º trimestre do ano seguinte àquele a que respeita, um relatório circunstanciado das acções de autocontrolo e fiscalização realizadas tanto no que se refere às descargas como ao meio receptor.
+
+3 - O INAG elabora um relatório súmula da situação a nível nacional, no qual será analisado o grau de cumprimento do estipulado na presente portaria.
+
+7.º
+
+Programas de redução de poluição
+
+1 - Para outras fontes importantes de poluição com as substâncias identificadas no n.º 2.º, fontes múltiplas ou difusas, o INAG, com base no inventário referido no n.º 6.º, estabelece, ouvidas as DRARN, programas específicos a fim de evitar ou eliminar a poluição, nomeadamente para:
+
+a) Utilização de EDC como solvente, fora de um local de produção ou de transformação, quando as descargas anuais forem inferiores a 30 kg/ano;
+
+b) Utilização de TRI como solvente para a limpeza a seco, para a extração de gorduras ou de aromas e para o desengorduramento de metais, quando as descargas anuais forem inferiores a 30 kg/ano;
+
+c) Utilização do PER como solvente para a limpeza a seco, a extracção de gorduras ou de aromas e para o desengorduramento de metais, quando as descargas anuais forem inferiores a 30 kg/ano;
+
+d) Utilização de TCB como solvente ou suporte de corantes na indústria têxtil ou como componente dos óleos utilizados em transformadores, enquanto não existir legislação comunitária específica.
+
+2 - Estes programas incluem, designadamente, as medidas e técnicas mais adequadas para garantir a substituição, a recuperação e ou a reciclagem das substâncias referidas no n.º 2.º
+
+8.º
+
+Condições de aplicação
+
+Nos termos do n.º 4 do artigo 45.º do Decreto-Lei n.º 74/90, de 7 de Março, as normas específicas de descarga fixadas para os sectores identificados prevalecem sobre as normas gerais de descarga de águas residuais para as substâncias contempladas nesta portaria, sendo para os outros parâmetros considerado o disposto no Decreto-Lei n.º 74/90, de 27 de Março, tendo em atenção a especificidade dos sectores e das substâncias.
+
+9.º
+
+Entrada em vigor
+
+1 - A presente portaria entra em vigor:
+
+a) Para as unidades que se instalem posteriormente à sua publicação, à data do início da sua laboração;
+
+b) Para as unidades já existentes em 1 de Janeiro de 1995.
+
+2 - O prazo estabelecido na alínea b) do número anterior pode ser derrogado e prorrogado até 1 de Janeiro de 1997, se for estabelecido um contrato-programa para redução de poluição.
+
+Ministérios da Indústria e Energia, da Saúde e do Ambiente e Recursos Naturais.
+
+**Assinada em 2 de Setembro de 1994.**
+
+Pelo Ministro da Indústria e Energia, Luís Filipe Alves Monteiro, Secretário de Estado da Indústria. - O Ministro da Saúde, Adalberto Paulo da Fonseca Mendo. - A Ministra do Ambiente e Recursos Naturais, Maria Teresa Pinto Basto Gouveia.
+
+## ANEXO I — Valores limite de descarga
+
+A) 1,2-dicloroetano
+
+N.º CAS 107-06-2
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+
+B) Tricloroetileno
+
+N.º CAS 79-01-6
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+
+C) Percloroetileno
+
+N.º CAS 127-18-14
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+
+D) Triclorobenzeno
+
+A poluição resultante das descargas de TCB que afecta as concentrações nos sedimentos, nos moluscos, nos crustáceos e ou nos peixes não deve, directa ou indirectamente, aumentar de maneira significativa com o tempo.
+
+O TCB pode apresentar-se sob a forma de três isómeros:
+
+1,2,3-TCB-N.º CAS 87-61-6;
+
+1,2,4-TCB-N.º CAS 120-82-1;
+
+1,3,5-TCB-N.º CAS 180-70-3.
+
+O TCB técnico é uma mistura dos três isómeros, com predominância do 1,2,4-TCB, e pode também conter pequenas quantidades de di e tetraclorobenzeno.
+
+As presentes disposições aplicam-se ao TCB total (soma de três isómeros).
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+
+## ANEXO II — Objectivos de qualidade para os meios receptores
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf))](https://files.diariodarepublica.pt/1s/1994/10/229b00/60576062.pdf)
+
+## ANEXO III — Métodos de referência
+
+A) 1,2-dicloroetano (EDC)
+
+1 - O método de referência para a determinação da presença de 1,2-dicloroetano (EDC) nos efluentes e nas águas é a cromatografia em fase gasosa com detecção por captura de electrões após extracção por solvente apropriado ou a cromatografia em fase gasosa após isolamento pelo processo purge and trap e retenção por meio de separador capilar arrefecido por criogenia. O limite de determinação é de 10 (mi)g/l para os efluentes e de 1 (mi)g/l para as águas.
+
+2 - A exactidão e a precisão do método devem ser de mais ou menos 50% para uma concentração que represente duas vezes o valor do limite de determinação.
+
+3 - A concentração de EDC pode ser estabelecida com base nas quantidades de AOX, EOX ou VOX, desde que, previamente, a entidade licenciadora considere que estes métodos cumprem o estipulado no n.º 5 do artigo 2.º Nestas circunstâncias deverá ser periodicamente estabelecida a relação de concentração do EDC e do parâmetro utilizado.
+
+B) Tricloroetileno (TRI)
+
+1 - O método de referência para a determinação do tricloroetileno (TRI) nos efluentes e nas águas é a cromatografia em fase gasosa com detecção por captura de electrões após extracção por solvente apropriado. O limite de determinação de TRI é de 10 (mi)g/l para efluentes e de 0,1 (mi)g/l para as águas.
+
+2 - A exactidão e a precisão do método devem ser de mais ou menos 50% para uma concentração que represente duas vezes o valor do limite de determinação.
+
+3 - A concentração de TRI pode ser estabelecida com base nas quantidades de AOX, EOX ou VOX, desde que, previamente, a entidade licenciadora considere que estes métodos cumprem o estipulado no n.º 5 do artigo 2.º Nestas circunstâncias deverá ser periodicamente estabelecida a relação de concentração do TRI e do parâmetro utilizado.
+
+C) Percloroetileno (PER)
+
+1 - O método de referência para a determinação da presença de percloroetileno (PER) nos efluentes e nas águas é a cromatografia em fase gasosa com detecção por captura de electrões após extracção por solvente adequado. O limite de determinação de PER é de 10 (mi)g/l para efluentes e de 0,1 (mi)g/l para as águas.
+
+2 - A exactidão e a precisão do método devem ser de mais ou menos 50% para uma concentração que represente duas vezes o valor do limite de determinação.
+
+3 - A concentração de PER pode ser estabelecida com base nas quantidades de AOX, EOX ou VOX, desde que, previamente, a entidade licenciadora considere que estes métodos cumprem o estipulado no n.º 5 do artigo 2.º Nestas circunstâncias deverá ser periodicamente estabelecida a relação de concentração do PER e do parâmetro utilizado.
+
+D) Triclorobenzeno (TCB)
+
+1 - O método de referência para a determinação da presença de triclorobenzeno (TCB) nos efluentes e nas águas é a cromatografia em fase gasosa com detecção por captura de electrões após extracção por solvente adequado. O limite de determinação para cada isómero separadamente é de 10 (mi)g/l para efluentes e de 1 (mi)g/l para as águas.
+
+2 - O método de referência para a determinação do TCB nos sedimentos e nos organismos é a cromatografia em fase gasosa com detecção por captura de electrões após preparação adequada da amostra. O limite de determinação para cada isómero separadamente é de 1 (mi)g/l de matéria seca.
+
+3 - A exactidão e a precisão do método devem ser de mais ou menos 50% para uma concentração que represente duas vezes o valor do limite de determinação.
+
+4 - A concentração do TCB pode ser estabelecida com base nas quantidades de AOX, EOX ou VOX, desde que, previamente, a entidade licenciadora considere que estes métodos cumprem o estipulado no n.º 5 do artigo 2.º Nestas circunstâncias deverá ser periodicamente estabelecida a relação de concentração do TCB e do parâmetro utilizado.
+
+E) Medição de caudal
+
+A medição de caudal dos efluentes deve ser efectuada com uma exactidão de (mais ou menos) 20%.

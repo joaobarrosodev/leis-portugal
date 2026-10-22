@@ -1,0 +1,952 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:140549:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-34430975",
+ "dre_path": "/dr/detalhe/decreto-lei/137-a-2009-140549",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-06-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "52079075",
+    "52079175",
+    "52079275",
+    "52079375",
+    "52079475",
+    "52079575",
+    "52079675",
+    "52079775",
+    "52079875",
+    "52079975",
+    "52080075",
+    "52080175",
+    "52080275",
+    "52080375",
+    "52080475",
+    "52080575",
+    "52080675",
+    "52080775",
+    "52080875",
+    "52080975",
+    "52081075",
+    "52081175",
+    "52081275",
+    "52081375",
+    "52081475",
+    "52081575",
+    "52081675",
+    "52081775",
+    "52081875",
+    "52081975",
+    "52082075",
+    "52082175",
+    "52082275",
+    "52082375",
+    "52082475",
+    "52082575",
+    "52082675",
+    "52082775",
+    "52082875",
+    "52082975",
+    "52083075",
+    "52083175",
+    "52083275",
+    "52083375",
+    "52083475",
+    "52083575",
+    "52083675",
+    "52083775",
+    "52083875",
+    "52083975",
+    "52084075",
+    "52084175",
+    "52084275",
+    "52084375",
+    "52084475",
+    "52084575",
+    "52084675",
+    "52084775",
+    "52084875",
+    "52084975",
+    "52085075",
+    "52085175",
+    "52085275"
+   ]
+  },
+  {
+   "date": "2012-03-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553461:por",
+     "title": "Decreto-Lei n.º 59/2012",
+     "published": "2012-03-14",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2012-553461"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "52079075",
+    "52079175",
+    "52079275",
+    "872431038",
+    "52079475",
+    "52079575",
+    "52079675",
+    "52079775",
+    "52079875",
+    "52079975",
+    "52080075",
+    "52080175",
+    "52080275",
+    "52080375",
+    "52080475",
+    "872431039",
+    "52080675",
+    "52080775",
+    "52085375",
+    "52080875",
+    "52080975",
+    "52081075",
+    "52081175",
+    "52081275",
+    "52081375",
+    "52081475",
+    "52081575",
+    "52081675",
+    "52081775",
+    "52081875",
+    "52081975",
+    "52082075",
+    "52082175",
+    "872431040",
+    "52082375",
+    "52082475",
+    "52082575",
+    "52082675",
+    "52082775",
+    "52082875",
+    "872431041",
+    "52083075",
+    "52083175",
+    "52083275",
+    "52083375",
+    "52083475",
+    "52083575",
+    "52083675",
+    "52083775",
+    "52083875",
+    "52083975",
+    "52084075",
+    "52084175",
+    "52084275",
+    "52084375",
+    "52084475",
+    "52084575",
+    "52084675",
+    "52084775",
+    "52084875",
+    "52084975",
+    "52085075",
+    "52085175",
+    "52085275"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537589:por",
+     "title": "Decreto-Lei n.º 124-A/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/124-a-2018-117537589"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "52079075",
+    "52079175",
+    "52079275",
+    "117551860",
+    "117551861",
+    "52079575",
+    "117551862",
+    "52079775",
+    "52079875",
+    "52079975",
+    "52080075",
+    "52080175",
+    "52080275",
+    "52080375",
+    "52080475",
+    "872431039",
+    "52080675",
+    "52080775",
+    "52085375",
+    "117551863",
+    "52080975",
+    "52081075",
+    "52081175",
+    "52081275",
+    "52081375",
+    "52081475",
+    "52081575",
+    "52081675",
+    "52081775",
+    "52081875",
+    "52081975",
+    "52082075",
+    "52082175",
+    "872431040",
+    "52082375",
+    "52082475",
+    "52082575",
+    "52082675",
+    "52082775",
+    "52082875",
+    "872431041",
+    "52083075",
+    "52083175",
+    "52083275",
+    "52083375",
+    "52083475",
+    "52083575",
+    "52083675",
+    "52083775",
+    "52083875",
+    "52083975",
+    "52084075",
+    "52084175",
+    "52084275",
+    "52084375",
+    "52084475",
+    "52084575",
+    "52084675",
+    "52084775",
+    "52084875",
+    "52084975",
+    "52085075",
+    "52085175",
+    "52085275"
+   ]
+  },
+  {
+   "date": "2019-12-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:129475782:por",
+     "title": "Declaração de Retificação n.º 10/2020",
+     "published": "2020-02-21",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/10-2020-129475782"
+    },
+    {
+     "id": "pt:dre:127504232:por",
+     "title": "Decreto-Lei n.º 174-B/2019",
+     "published": "2019-12-26",
+     "dre_path": "/dr/detalhe/decreto-lei/174-b-2019-127504232"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "52079075",
+    "52079175",
+    "52079275",
+    "117551860",
+    "127479151",
+    "52079575",
+    "117551862",
+    "52079775",
+    "52079875",
+    "52079975",
+    "52080075",
+    "52080175",
+    "52080275",
+    "52080375",
+    "52080475",
+    "872431039",
+    "52080675",
+    "52080775",
+    "52085375",
+    "117551863",
+    "52080975",
+    "52081075",
+    "135839557",
+    "52081275",
+    "52081375",
+    "52081475",
+    "52081575",
+    "52081675",
+    "52081775",
+    "52081875",
+    "52081975",
+    "52082075",
+    "52082175",
+    "872431040",
+    "52082375",
+    "52082475",
+    "52082575",
+    "52082675",
+    "52082775",
+    "52082875",
+    "872431041",
+    "52083075",
+    "52083175",
+    "52083275",
+    "52083375",
+    "52083475",
+    "52083575",
+    "52083675",
+    "52083775",
+    "52083875",
+    "52083975",
+    "52084075",
+    "52084175",
+    "52084275",
+    "52084375",
+    "52084475",
+    "52084575",
+    "52084675",
+    "52084775",
+    "52084875",
+    "52084975",
+    "52085075",
+    "52085175",
+    "52085275"
+   ]
+  }
+ ],
+ "fragments": {
+  "52079075": {
+   "fragment_id": "35050775",
+   "type": 15,
+   "heading": "Diploma — Decreto-Lei n.º 137-A/2009 de 12 de Junho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Com o Decreto-Lei n.º 300/2007, de 23 de Agosto, que alterou o Decreto-Lei n.º 558/99, de 17 de Dezembro, o Governo procedeu a uma revisão profunda do regime jurídico do sector empresarial do Estado, de modo a permitir que as diversas entidades que o integrem passem a actuar, predominantemente, sob a égide do direito societário.\n\nComo se esclarece no preâmbulo do referido diploma legal, foi entendido continuar a justificar-se a existência de entidades empresariais de natureza pública, como é actualmente o caso da CP, E. P., que, com a revogação do Decreto-Lei n.º 260/76, de 8 de Abril, passou a ser regida pelas disposições do capítulo III do referido Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\nFoi propósito deste novo regime simplificar o estatuto legal destas entidades públicas empresariais e aproximá-lo, tanto quanto possível, dos paradigmas jurídico-privados, tentando assegurar, igualmente, a harmonia entre este regime jurídico e o novo estatuto do gestor público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de Março.\n\nÉ nesta perspectiva, dando execução ao expressamente previsto no artigo 35.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, que agora se procede à revogação do Decreto-Lei n.º 109/77, de 25 de Março, bem como dos estatutos da Caminhos de Ferro Portugueses, E. P., aprovados por aquele diploma legal, procedendo-se à aprovação de um novo regime jurídico aplicável a esta entidade pública empresarial e aprovando-se os respectivos estatutos.\n\nAo mesmo tempo, actualiza-se a denominação social da empresa, que passa a CP - Comboios de Portugal, E. P. E., em correspondência com o seu objecto social e com o objecto social da Rede Ferroviária Nacional - REFER, E. P. E., entidade à qual foi atribuída a gestão da infra-estrutura.\n\nConsagra-se no presente decreto-lei o enquadramento que permitirá a contratualização dos serviços de transporte público ferroviário de passageiros prestados pela CP, E. P. E., estabelecendo-se que o respectivo instrumento contratual deve incluir disposições específicas sobre os serviços relativamente aos quais se justifica a existência de obrigações de serviço público.\n\nNeste contexto, concede-se a possibilidade, mediante autorização prévia dos membros do Governo responsáveis pela área das finanças e pelo sector dos transportes, de a CP, E. P. E., subconcessionar serviços de transporte ferroviário mediante o lançamento de procedimentos concursais, envolvendo a cedência temporária de componentes do estabelecimento próprio, bem como de celebrar parcerias com autarquias ou outras entidades públicas.\n\nTal possibilidade não prejudica a atribuição de serviços de transporte ferroviário de passageiros não incluídos no contrato a celebrar entre o Estado ou outra entidade pública legalmente competente com a CP, E. P. E., nos termos da legislação aplicável.\n\nO presente decreto-lei prevê, ainda, em cumprimento das Orientações Estratégicas para o Sector Ferroviário, apresentadas pelo XVII Governo Constitucional, em Outubro de 2006, e dando cumprimento ao compromisso de liberalização do sector assumido por Portugal junto da União Europeia, a possibilidade de autonomização de áreas de actividade da CP, E. P. E. Nesse sentido, o presente decreto-lei prevê a constituição de uma sociedade anónima cujo capital social inicial será integralmente detido pela CP, E. P. E., e cujo objecto será a actividade de transporte ferroviário de mercadorias, que adoptará a denominação de CP Carga - Logística e Transportes Ferroviários de Mercadorias, S. A.\n\nA autonomização daquela área de actividade opera-se por cisão, nos termos do disposto no artigo 33.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 300/2007, de 23 de Agosto.\n\nFoi ouvida a Comissão de Trabalhadores da Caminhos de Ferro Portugueses, E. P.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "52079175": {
+   "fragment_id": "36208175",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação da CP - Comboios de Portugal, E. P. E.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação da CP - Comboios de Portugal, E. P. E.\n\n1 - O presente decreto-lei aprova o regime jurídico aplicável à CP - Comboios de Portugal, E. P. E. (CP, E. P. E.)\n\n2 - São igualmente aprovados os estatutos da CP, E. P. E., publicados como anexo I do presente decreto-lei e que dele fazem parte integrante.\n\n3 - O presente decreto-lei constitui título bastante para todos os efeitos legais, incluindo os de registo."
+  },
+  "52079275": {
+   "fragment_id": "36208275",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza jurídica\n\nA CP, E. P. E., é uma entidade pública empresarial com personalidade jurídica, dotada de autonomia administrativa e financeira e de património próprio, estando sujeita a tutela e superintendência dos membros do Governo responsáveis pela área das finanças e pelo sector dos transportes."
+  },
+  "52079375": {
+   "fragment_id": "36208375",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Regime jurídico aplicável\n\nA CP, E. P. E., rege-se pelo disposto no Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, pelo presente decreto-lei e estatutos anexos, que dele fazem parte integrante, e pela demais legislação aplicável."
+  },
+  "52079475": {
+   "fragment_id": "36208475",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A CP, E. P. E., tem por objecto principal a prestação de serviços de transporte ferroviário de passageiros e de mercadorias em linhas férreas, troços de linha e ramais que integram ou venham a integrar a rede ferroviária nacional.\n\n2 - Integra igualmente o objecto principal da CP, E. P. E., a prestação de serviços de transporte ferroviário internacional de passageiros e de mercadorias, em conformidade com o disposto na lei, tratados, convenções e acordos em vigor.\n\n3 - A CP, E. P. E., pode ainda, acessoriamente, exercer as seguintes actividades:\n\na) A exploração de transportes terrestres destinados a complementar o transporte ferroviário;\n\nb) A exploração de terminais de mercadorias e de instalações oficinais e de construção, manutenção ou reparação de material circulante, bem como de parques e linhas de estacionamento deste material;\n\nc) A exploração de outros bens compreendidos no estabelecimento industrial ou comercial que lhe esteja afecto ou integre o seu património privado;\n\nd) A exploração de actividades comerciais e operacionais em estações de passageiros, cuja gestão lhe esteja atribuída;\n\ne) A locação ou outras formas de cedência de utilização ou de prestação de serviços relacionados com a utilização de material circulante;\n\nf) Outras actividades complementares ou subsidiárias do seu objecto principal, bem como outros ramos de actividade comercial ou industrial dele acessórios que não prejudiquem a sua prossecução.\n\n4 - No exercício do objecto definido no número anterior, a CP, E. P. E., pode:\n\na) Constituir sociedades ou adquirir partes de capital, nos termos da lei;\n\nb) Celebrar com outras empresas ou entidades os acordos que se revelem necessários e convenientes para melhor satisfação das necessidades do público e das exigências do serviço de que está incumbida;\n\nc) Praticar todos os actos que se revelem necessários ou convenientes à prossecução do seu objecto.\n\n5 - As condições de gestão e exploração das instalações fixas do domínio público do Estado, afectas às actividades referidas nas alíneas b) e c) do n.º 3, são objecto de contratos de concessão a celebrar entre a CP, E. P. E., e o Estado.\n\n6 - As condições de gestão e exploração das estações a que respeita a actividade referida na alínea d) do n.º 3 são objecto de contrato a celebrar entre a CP, E. P. E., e a Rede Ferroviária Nacional - REFER, E. P. E."
+  },
+  "52079575": {
+   "fragment_id": "36208575",
+   "type": 11,
+   "heading": "Artigo 5.º — Intervenções nos elementos da infra-estrutura e sua subconcessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Intervenções nos elementos da infra-estrutura e sua subconcessão\n\n1 - Os contratos referidos no n.º 5 do artigo anterior definem as condições em que a CP, E. P. E., pode realizar intervenções nas respectivas instalações fixas e proceder à respectiva subconcessão.\n\n2 - Os contratos referidos no n.º 6 do artigo 4.º estão sujeitos ao regime substantivo dos contratos administrativos constante do Código dos Contratos Públicos."
+  },
+  "52079675": {
+   "fragment_id": "36208675",
+   "type": 11,
+   "heading": "Artigo 6.º — Prestação de serviços de transporte ferroviário de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prestação de serviços de transporte ferroviário de passageiros\n\n1 - Sem prejuízo da celebração de contratos de concessão com o Estado, directamente ou com outra entidade pública legalmente competente, nos termos do n.º 2 do artigo 19.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e da demais legislação aplicável, compete à CP, E. P. E., exercer a actividade de prestação de serviços de transporte ferroviário de passageiros.\n\n2 - Os contratos referidos no número anterior identificam os serviços cuja gestão e exploração é atribuída à CP, E. P. E., com sujeição a obrigações de serviço público, nos termos da legislação aplicável.\n\n3 - Das disposições contratuais relativas à prestação de serviços públicos, tal como referido no número anterior, constam, designadamente:\n\na) Os direitos e deveres das partes, incluindo as obrigações de serviço público, bem como o preço, a respectiva compensação e direitos exclusivos;\n\nb) O critério de cálculo das compensações das obrigações de serviço público;\n\nc) A zona geográfica abrangida pelo serviço;\n\nd) As modalidades de repartição de custos ligados à prestação de serviço;\n\ne) As modalidades de repartição de receitas ligadas à venda de títulos de transporte;\n\nf) O prazo de duração do contrato.\n\n4 - As disposições contratuais relativas à prestação de serviços públicos incluem, ainda, designadamente:\n\na) O dimensionamento da oferta pretendida expressa em comboios por quilómetro (comboios.quilómetro) e lugares por quilómetro (lugares.quilómetro);\n\nb) Os requisitos de qualidade e níveis de desempenho;\n\nc) As linhas, troços de linha ou ramais utilizados no serviço;\n\nd) Os itinerários, frequências e paragens do serviço, bem como o sistema de bilhética e o tarifário;\n\ne) As sanções e penalidades aplicáveis em caso de incumprimento ou de cumprimento defeituoso do contrato ou de falhas de desempenho."
+  },
+  "52079775": {
+   "fragment_id": "36208775",
+   "type": 11,
+   "heading": "Artigo 7.º — Subconcessão de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Subconcessão de serviços\n\n1 - A CP, E. P. E., pode subconcessionar a prestação de serviços de transporte ferroviário de passageiros através de procedimento concursal, com cedência temporária do seu estabelecimento, incluindo material circulante e instalações fixas necessárias à exploração.\n\n2 - A subconcessão referida no número anterior está sujeita a autorização dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, que aprovam por despacho conjunto as condições da subconcessão, incluindo o respectivo programa de concurso e caderno de encargos.\n\n3 - Do contrato que atribui a subconcessão constam, designadamente:\n\na) Os requisitos específicos que os concorrentes devem satisfazer;\n\nb) A indicação dos serviços de transporte a explorar, bem como dos bens afectos à subconcessão;\n\nc) A indicação dos bens que, finda a subconcessão, revertem para a concessionária, bem como as respectivas condições de reversão;\n\nd) A lista dos contratos de trabalho a transmitir à subconcessionária e as condições dessa transmissão, nos termos das disposições aplicáveis;\n\ne) As condições de exploração e tarifários;\n\nf) O prazo da subconcessão, que deve ser fixado entre 5 e 10 anos."
+  },
+  "52079875": {
+   "fragment_id": "36208875",
+   "type": 11,
+   "heading": "Artigo 8.º — Parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Parcerias\n\n1 - A CP, E. P. E., pode celebrar acordos com entidades públicas, designadamente municípios, associações de municípios, entidades do sector empresarial estadual ou municipal ou com entidades privadas sem fins lucrativos, estabelecendo parcerias para a exploração de serviços de transporte ferroviário, designadamente através da criação de entidades jurídicas autónomas por períodos não superiores a 12 anos, nos termos da lei.\n\n2 - A celebração dos acordos referidos no número anterior está sujeita a autorização dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "52079975": {
+   "fragment_id": "36208975",
+   "type": 11,
+   "heading": "Artigo 9.º — Autonomização de actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autonomização de actividades\n\nPodem ser autonomizadas, nos termos da lei, áreas de actividade da CP, E. P. E., de apoio à prestação de serviços de transporte de passageiros urbano e suburbano, regional e inter-regional e de longo curso e de mercadorias, e, no âmbito das respectivas actividades acessórias, designadamente de reparação, manutenção, readaptação ou renovação e construção de material circulante."
+  },
+  "52080075": {
+   "fragment_id": "36209075",
+   "type": 11,
+   "heading": "Artigo 10.º — Autonomização da actividade de transporte de mercadorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Autonomização da actividade de transporte de mercadorias\n\n1 - A actividade de transporte de mercadorias é autonomizada pela CP, E. P. E., por via de cisão simples, nos termos do artigo 33.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, de acordo com o disposto nos números seguintes.\n\n2 - O conselho de administração da CP, E. P. E., constitui, através de deliberação, a CP Carga - Logística e Transportes Ferroviários de Mercadorias, S. A., doravante designada por CP Carga, S. A., detida integralmente por aquela, por cisão dos activos afectos à actividade de transporte de mercadorias, indicando o património a afectar à nova sociedade, incluindo contratos de utilização de instalações fixas, o contrato de sociedade, o respectivo quadro de pessoal e a relação de trabalhadores a transitar.\n\n3 - A constituição da CP Carga, S. A., deve respeitar as orientações constantes do despacho n.º 9541/2008, de 14 de Março, publicado no Diário da República, 2.ª série, n.º 65, de 2 de Abril de 2008.\n\n4 - São transferidas para a nova sociedade, por efeito do presente decreto-lei, as posições jurídicas em contratos celebrados pela CP, E. P. E., relativamente às atribuições que venham a ser prosseguidas pela CP Carga, S. A., sem prejuízo da manutenção das garantias a elas inerentes, após a sua constituição e pelo período de tempo estritamente necessário à concretização da alteração da titularidade das mesmas.\n\n5 - Os trabalhadores cujos contratos sejam transmitidos nos termos do número anterior mantêm, perante a nova sociedade a que ficam afectos, todos os direitos e regalias de que eram titulares ao serviço da CP, E. P. E.\n\n6 - Em tudo o que não seja incompatível com o disposto no presente decreto-lei, a constituição da CP Carga, S. A., rege-se pelo disposto no Código das Sociedades Comerciais, devendo o registo da sociedade ser efectuado mediante a apresentação da respectiva acta."
+  },
+  "52080175": {
+   "fragment_id": "36209175",
+   "type": 11,
+   "heading": "Artigo 11.º — Financiamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Financiamentos\n\nA CP, E. P. E., pode contrair os financiamentos, internos ou externos, necessários à prossecução das suas atribuições e competências, nos termos do Decreto-Lei n.º 558/99, de 27 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto."
+  },
+  "52080275": {
+   "fragment_id": "36209275",
+   "type": 11,
+   "heading": "Artigo 12.º — Capital estatutário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Capital estatutário\n\n1 - O capital estatutário da CP, E. P. E., é de (euro) 1 995 317 000, detido integralmente pelo Estado, e destina-se a responder às necessidades permanentes da empresa.\n\n2 - O capital estatutário da CP, E. P. E., é aumentado ou reduzido, mediante despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "52080375": {
+   "fragment_id": "36209375",
+   "type": 11,
+   "heading": "Artigo 13.º — Órgãos da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Órgãos da empresa\n\n1 - São órgãos da CP, E. P. E.:\n\na) O conselho de administração;\n\nb) O conselho fiscal;\n\nc) O revisor oficial de contas ou sociedade de revisores oficiais de contas;\n\nd) O conselho consultivo.\n\n2 - Aos administradores da CP, E. P. E., aplica-se o Estatuto do Gestor Público."
+  },
+  "52080475": {
+   "fragment_id": "36209475",
+   "type": 11,
+   "heading": "Artigo 14.º — Planos de actividades e prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Planos de actividades e prestação de contas\n\n1 - O conselho de administração elabora, para cada ano económico, os projectos de planos de actividade, de orçamento anual e de programa de investimentos, os quais são submetidos à aprovação dos membros do Governo responsáveis pelas áreas das finanças e dos transportes, até 30 de Novembro do ano anterior.\n\n2 - O conselho de administração elabora, com referência a 31 de Dezembro do ano anterior, os documentos de prestação de contas, remetendo-os à Inspecção-Geral de Finanças e à Direcção-Geral do Tesouro e Finanças, nos prazos em que, nas sociedades anónimas, se deva proceder à disponibilização das contas aos accionistas, nos termos do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto."
+  },
+  "52080575": {
+   "fragment_id": "36209575",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições finais e transitórias\n\n1 - Os membros dos órgãos da CP, E. P., mantêm-se em funções até à data da nomeação dos membros dos órgãos da CP, E. P. E., data em que cessam as respectivas funções.\n\n2 - Até à celebração dos contratos referidos no artigo 6.º:\n\na) Constitui serviço concessionado o serviço público de transporte ferroviário de passageiros no território nacional prestado pela CP, E. P. E., nos termos do n.º 2 do artigo 4.º do Decreto-Lei n.º 270/2003, de 28 de Outubro, alterado pelo Decreto-Lei n.º 231/2007, de 14 de Junho;\n\nb) No que se refere às indemnizações compensatórias pela prossecução de obrigações de serviço público, é aplicável o regime jurídico da concessão de subvenções públicas, previsto no Decreto-Lei n.º 167/2008, de 20 de Agosto.\n\n3 - Até à celebração dos contratos referidos no n.º 4 do artigo 4.º mantêm-se afectos à CP, E. P. E., os bens constantes das listas anexas ao despacho conjunto n.º 261/99, de 5 de Março, publicado no Diário da República, 2.ª série, n.º 70, de 24 de Março de 1999, sem prejuízo da sua alteração, por idêntica forma.\n\n4 - Mantém-se a vigência, até à celebração dos contratos referidos nos números anteriores:\n\na) Do Decreto n.º 11 928, de 21 de Julho de 1926;\n\nb) Do Decreto n.º 12 800, de 7 de Dezembro de 1926;\n\nc) Dos regimes consignados nas bases XXV, n.º 3, XXVI, XXVII, XXVIII, XXIX, n.os 1 e 2, XXXI, XXXII, n.º 4, e LIII anexas ao Decreto-Lei n.º 104/73, de 13 de Março."
+  },
+  "52080675": {
+   "fragment_id": "36209675",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 109/77, de 25 de Março, alterado pelos Decretos-Leis n.os 406/78, de 15 de Dezembro, 116/92, de 20 de Junho, e 274/98, de 5 de Setembro."
+  },
+  "52080775": {
+   "fragment_id": "36209775",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação."
+  },
+  "52080875": {
+   "fragment_id": "36209875",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\nEstatutos da CP - Comboios de Portugal, E. P. E."
+  },
+  "52080975": {
+   "fragment_id": "37723475",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede e objecto"
+  },
+  "52081075": {
+   "fragment_id": "39341175",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e sede\n\n1 - A CP - Comboios de Portugal, E. P. E., abreviadamente designada por CP, E. P. E., é uma entidade pública empresarial, dotada de autonomia administrativa, financeira e patrimonial, com capacidade jurídica que abrange todos os direitos e obrigações necessários ou convenientes à prossecução do seu objecto.\n\n2 - A CP, E. P. E., tem sede em Lisboa, no seu prédio situado na Calçada do Duque, 14, 16, 18 e 20, e exerce a sua actividade em todo o território nacional e no estrangeiro, nos termos da lei, dos acordos e convenções em vigor.\n\n3 - Por deliberação do conselho de administração, a empresa pode criar e manter, em qualquer ponto do território nacional ou fora dele, agências, delegações ou qualquer forma de representação, bem como deslocar a sua sede para qualquer local dentro do País."
+  },
+  "52081175": {
+   "fragment_id": "39341275",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - A CP, E. P. E., tem por objecto principal a prestação de serviços de transporte ferroviário de passageiros e de mercadorias em linhas férreas, troços de linha e ramais que integram ou venham a integrar a rede ferroviária nacional.\n\n2 - Integra igualmente o objecto principal da CP, E. P. E., a prestação de serviços de transporte ferroviário internacional de passageiros e de mercadorias, em conformidade com o disposto na lei, nos tratados, convenções e acordos em vigor.\n\n3 - A CP, E. P. E., pode ainda, acessoriamente, exercer as seguintes actividades:\n\na) A exploração de transportes destinados a complementar o transporte ferroviário;\n\nb) A exploração de terminais de mercadorias e de instalações oficinais e de construção, manutenção ou reparação de material circulante, bem como de parques e linhas de estacionamento deste material;\n\nc) A exploração de outros bens compreendidos no estabelecimento industrial ou comercial que lhe esteja afecto ou integre o seu património privado;\n\nd) A exploração de actividades comerciais e operacionais em estações de passageiros, cuja gestão lhe esteja atribuída;\n\ne) A locação ou outras formas de cedência de utilização ou de prestação de serviços relacionados com a utilização do material circulante;\n\nf) Outras actividades complementares ou subsidiárias do seu objecto principal, bem como de outros ramos de actividade comercial ou industrial dele acessórios que não prejudiquem a sua prossecução.\n\n4 - No exercício do objecto definido no número anterior, a CP, E. P. E., pode:\n\na) Constituir sociedades ou adquirir partes de capital, nos termos da lei;\n\nb) Celebrar com outras empresas ou entidades os acordos que se revelem necessários ou convenientes para melhor satisfação das necessidades do público e das exigências do serviço de que está incumbida;\n\nc) Praticar todos os actos que se revelem necessários ou convenientes à prossecução do seu objecto."
+  },
+  "52081275": {
+   "fragment_id": "37723575",
+   "type": 1,
+   "heading": "Capítulo II — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital"
+  },
+  "52081375": {
+   "fragment_id": "39341375",
+   "type": 11,
+   "heading": "Artigo 3.º — Titularidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Titularidade\n\nO capital estatutário da CP, E. P. E., é de (euro) 1 995 317 000, sendo detido integralmente pelo Estado e destina-se a responder às necessidades permanentes da empresa."
+  },
+  "52081475": {
+   "fragment_id": "39341475",
+   "type": 11,
+   "heading": "Artigo 4.º — Fixação do capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Fixação do capital\n\nO capital estatutário da CP, E. P. E., pode ser aumentado ou reduzido mediante despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "52081575": {
+   "fragment_id": "37723675",
+   "type": 1,
+   "heading": "Capítulo III — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização"
+  },
+  "52081675": {
+   "fragment_id": "39341575",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "52081775": {
+   "fragment_id": "40858675",
+   "type": 11,
+   "heading": "Artigo 5.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Órgãos\n\nSão órgãos da CP, E. P. E.:\n\na) O conselho de administração;\n\nb) O conselho fiscal;\n\nc) O revisor oficial de contas ou sociedade de revisores oficiais de contas;\n\nd) O conselho consultivo."
+  },
+  "52081875": {
+   "fragment_id": "39341675",
+   "type": 8,
+   "heading": "Secção II — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Conselho de administração"
+  },
+  "52081975": {
+   "fragment_id": "40858775",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\n1 - O conselho de administração é composto por um presidente, um vice-presidente e três vogais, nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.\n\n2 - Por deliberação do conselho de administração podem, igualmente, ser indicados três membros executivos do conselho de administração para integrarem uma comissão executiva, a qual é presidida pelo presidente do conselho de administração, sendo os restantes membros do conselho de administração não executivos.\n\n3 - Caso exista, a comissão executiva fica responsável pela gestão corrente, nos termos admitidos pela lei.\n\n4 - Ao vice-presidente compete substituir o presidente nas suas faltas, ausências e impedimentos."
+  },
+  "52082075": {
+   "fragment_id": "40858875",
+   "type": 11,
+   "heading": "Artigo 7.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mandato\n\n1 - O mandato dos membros do conselho de administração tem a duração de três anos e é renovável até ao máximo de três renovações.\n\n2 - Embora designados por prazo certo, os administradores mantêm-se em funções até nova designação, sem prejuízo da dissolução, demissão ou renúncia.\n\n3 - Faltando definitivamente um administrador, o mesmo deve ser substituído, exercendo o novo membro funções até ao fim do período para o qual foram designados os membros em exercício."
+  },
+  "52082175": {
+   "fragment_id": "40858975",
+   "type": 11,
+   "heading": "Artigo 8.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estatuto\n\n1 - O estatuto dos membros do conselho de administração é definido pelo Estatuto do Gestor Público.\n\n2 - Os membros do conselho de administração auferem a remuneração que seja fixada nos termos dos artigos 28.º e 29.º do Estatuto do Gestor Público."
+  },
+  "52082275": {
+   "fragment_id": "40859075",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Competência\n\n1 - Compete ao conselho de administração exercer os mais amplos poderes de gestão e representação da empresa, nos termos da lei e dos estatutos.\n\n2 - Compete, em especial, ao conselho de administração:\n\na) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da entidade pública empresarial;\n\nb) Celebrar contratos com o Estado, nos termos e para os efeitos referidos no artigo 21.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, contemplando designadamente a atribuição de indemnizações compensatórias e o fornecimento de serviços públicos relativamente ao transporte de passageiros;\n\nc) Celebrar contratos-programa com o Estado e elaborar planos plurianuais de actividade e financiamento, de harmonia com as opções e prioridades fixadas nos planos nacionais a médio prazo;\n\nd) Elaborar o orçamento anual da CP, E. P. E., e remetê-lo aos membros do governo responsáveis pelas áreas das finanças e dos transportes, nos termos do artigo 20.º destes Estatutos;\n\ne) Elaborar e submeter à aprovação do membro do Governo responsável pelo sector dos transportes as actualizações orçamentais nos casos previstos na lei;\n\nf) Organizar os documentos de prestação de contas e remetê-los à Inspecção-Geral de Finanças, nos termos e para os efeitos do disposto nestes Estatutos;\n\ng) Contrair empréstimos e celebrar todos os contratos necessários à prossecução da actividade da CP, E. P. E., nos termos da lei;\n\nh) Representar a CP, E. P. E. em juízo ou fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\ni) Adquirir, vender ou, por qualquer forma, alienar ou onerar direitos, nomeadamente os incidentes sobre bens móveis e imóveis do património próprio da CP, E. P. E.;\n\nj) Requerer às autoridades competentes providências de expropriação por utilidade pública, ocupação de terrenos, implantação de traçados e estabelecimento de limitações ao uso de prédios ou de zonas de protecção e de exercício de servidões administrativas;\n\nl) Deliberar sobre a constituição de sociedades e sobre a aquisição ou alienação de partes de capital, nos termos da lei;\n\nm) Estabelecer a organização técnico-administrativa da CP, E. P. E., e as respectivas normas de funcionamento interno, de modo a garantir uma adequada economia de meios e a qualidade dos serviços públicos de transportes que lhe são cometidos;\n\nn) Constituir mandatários com os poderes que julgue convenientes, incluindo os de substabelecer;\n\no) Negociar e outorgar acordos colectivos de trabalho, bem como fixar as condições de trabalho;\n\np) Designar e exonerar os responsáveis da estrutura orgânica da CP, E. P. E.;\n\nq) Exercer as demais competências que, nos termos da lei, lhe sejam atribuídas.\n\n3 - O conselho de administração pode encarregar algum dos seus membros de se ocuparem de certas matérias de administração, desde que não abranjam as matérias referidas nas alíneas a) a g) e m) do número anterior, e sem que tal exclua a competência normal dos outros administradores ou do conselho, nem a responsabilidade daqueles.\n\n4 - O conselho de administração deve delegar na comissão executiva, caso esta exista, a gestão corrente da empresa, não abrangendo as matérias referidas nas alíneas a), c) a g) e m) do n.º 2, definindo em acta os limites e condições de tal delegação.\n\n5 - A deliberação do conselho de administração referida no número anterior deve estabelecer o modo de funcionamento da comissão executiva.\n\n6 - O conselho de administração ou a comissão executiva, caso esta exista, pode também delegar em qualquer trabalhador da empresa os poderes previstos na alínea i) do n.º 2, sendo a prova desta delegação feita por simples credencial assinada por quem, nos termos deste estatuto, tem competência para obrigar a empresa e sendo estas assinaturas autenticadas com o respectivo selo branco.\n\n7 - Sem prejuízo de outras restrições decorrentes da lei, constituem competência reservada do conselho de administração, não podendo ser objecto de delegação, as matérias sujeitas a autorização ou aprovação tutelar.\n\n8 - A delegação prevista nos n.os 3 a 5 não exclui a competência do conselho de administração de deliberar sobre os mesmos assuntos.\n\n9 - Os outros administradores são responsáveis, nos termos da lei, pela vigilância geral da actuação do administrador ou da comissão executiva e pelos prejuízos causados por actos e omissões destes, quando, tendo conhecimento de tais actos ou omissões ou do propósito de os praticar, não provoquem a intervenção do conselho para tomar as medidas adequadas."
+  },
+  "52082375": {
+   "fragment_id": "40859175",
+   "type": 11,
+   "heading": "Artigo 10.º — Competência do presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competência do presidente\n\n1 - Compete, especialmente, ao presidente do conselho de administração:\n\na) Coordenar a actividade do conselho de administração e convocar e dirigir as respectivas reuniões;\n\nb) Zelar pela correcta execução das deliberações do conselho de administração;\n\nc) Submeter a despacho do membro do Governo responsável pelas áreas das finanças ou dos transportes os assuntos que dele careçam, e, de modo geral, assegurar a relação com a tutela;\n\nd) Exercer os poderes que o conselho de administração lhe delegar.\n\n2 - Compete, em especial, ao presidente da comissão executiva, caso esta exista:\n\na) Assegurar que seja prestada toda a informação aos demais membros do conselho de administração relativamente à actividade da comissão executiva;\n\nb) Assegurar o cumprimento dos limites da delegação, da estratégia da empresa e dos deveres de colaboração perante o presidente do conselho de administração."
+  },
+  "52082475": {
+   "fragment_id": "40859275",
+   "type": 11,
+   "heading": "Artigo 11.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Funcionamento\n\n1 - O conselho de administração fixa, nos termos da lei, as datas ou a periodicidade das suas reuniões ordinárias, pelo menos mensalmente, e reúne extraordinariamente sempre que convocado pelo presidente ou por dois administradores.\n\n2 - A comissão executiva reúne por convocação do seu presidente sempre que o exijam os interesses da empresa e, pelo menos, de 15 em 15 dias.\n\n3 - O conselho de administração e a comissão executiva não podem funcionar sem a presença da maioria dos seus membros.\n\n4 - Os administradores podem fazer-se representar numa reunião por outro administrador, mediante carta dirigida ao respectivo presidente, mas cada instrumento de representação não pode ser utilizado mais de uma vez.\n\n5 - Para efeitos do número anterior, um administrador executivo não pode fazer-se representar por um administrador não executivo, caso exista comissão executiva.\n\n6 - As deliberações do conselho de administração e da comissão executiva constam sempre de acta e são tomadas por maioria dos votos expressos, dos administradores presentes ou representados.\n\n7 - O presidente do conselho de administração e da comissão executiva dispõe de voto de qualidade.\n\n8 - No caso de um membro do conselho de administração ou da comissão executiva, caso esta exista, faltar duas vezes seguidas ou quatro interpoladas em cada período de um ano, contado a partir da sua designação, sem que a justificação tenha sido aceite pelo conselho de administração, pode este órgão declarar a sua falta definitiva para todos os efeitos legais."
+  },
+  "52082575": {
+   "fragment_id": "40859375",
+   "type": 11,
+   "heading": "Artigo 12.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Actas\n\n1 - Nas actas do conselho de administração e da comissão executiva, caso esta exista, mencionam-se, sumariamente, mas com clareza, todas as deliberações tomadas nas respectivas reuniões, bem como os votos de vencido.\n\n2 - As actas, registadas em livros próprios, são assinadas por todos os membros que participem na reunião.\n\n3 - Os participantes na reunião podem ditar para a acta a súmula das suas intervenções."
+  },
+  "52082675": {
+   "fragment_id": "40859475",
+   "type": 11,
+   "heading": "Artigo 13.º — Vinculação da empresa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Vinculação da empresa\n\n1 - A CP, E. P. E., obriga-se:\n\na) Pela assinatura de dois membros executivos do conselho de administração, sendo um deles o presidente;\n\nb) Pela assinatura de um membro executivo do conselho de administração, no âmbito da delegação de poderes;\n\nc) Pela assinatura de mandatários, no âmbito dos poderes que lhes tenham sido conferidos;\n\nd) Por dois membros do conselho fiscal nos casos em que a lei estabeleça que os membros do conselho fiscal podem exercer poderes de representação da empresa.\n\n2 - Tratando-se de títulos de obrigações da CP, E. P. E., as assinaturas podem ser de chancela.\n\n3 - O conselho de administração pode deliberar, dentro dos limites legais, que certos documentos da CP, E. P. E., para além dos referidos no número anterior, sejam assinados por processos mecânicos ou de chancela."
+  },
+  "52082775": {
+   "fragment_id": "39341775",
+   "type": 8,
+   "heading": "Secção III — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho fiscal"
+  },
+  "52082875": {
+   "fragment_id": "40859575",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição\n\n1 - O conselho fiscal é constituído por três membros, sendo um presidente, todos designados por despacho conjunto dos membros do governo responsáveis pela área das finanças e pelo sector dos transportes.\n\n2 - O mandato dos membros do conselho fiscal tem a duração de três anos, renovável nos termos da legislação aplicável.\n\n3 - Pelo menos um membro do conselho fiscal deve ter um curso superior adequado ao exercício das respectivas funções e conhecimentos em auditoria e contabilidade e ser independente.\n\n4 - O presidente do conselho fiscal dispõe de voto de qualidade.\n\n5 - A remuneração dos membros do conselho fiscal é fixada por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "52082975": {
+   "fragment_id": "40859675",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - O conselho fiscal tem as competências estabelecidas na lei e nestes estatutos.\n\n2 - Compete, em especial, ao conselho fiscal:\n\na) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração da empresa;\n\nb) Acompanhar com regularidade a gestão através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Acompanhar o funcionamento da empresa e o cumprimento das leis, dos estatutos e dos regulamentos que lhe são aplicáveis;\n\nd) Emitir parecer sobre o relatório de gestão e as contas do exercício;\n\ne) Deliberar a contratação da prestação de serviços de peritos que coadjuvem um ou vários dos seus membros no exercício das suas funções, nos termos da lei;\n\nf) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\ng) Dar parecer sobre a subscrição de participações sociais em sociedades ou sobre alterações do capital social ou nas participadas da CP, E. P. E.;\n\nh) Dar parecer sobre a aquisição, alienação ou oneração de bens imóveis, não previstos nos orçamentos aprovados;\n\ni) Dar parecer sobre a contracção de empréstimos de valor superior a 50 % do capital;\n\nj) Pronunciar-se sobre qualquer outro assunto, em matéria de gestão económica e financeira, que seja submetido à sua consideração pelo conselho de administração ou pela comissão executiva, caso exista;\n\nl) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global.\n\n3 - Compete ainda aos membros do conselho fiscal:\n\na) Participar nas reuniões do conselho fiscal;\n\nb) Participar nas reuniões do conselho de administração para que o presidente do mesmo os convoque ou em que se apreciem as contas de exercício;\n\nc) Participar nas reuniões da comissão executiva, caso exista, onde se apreciem as contas de exercício;\n\nd) Registar por escrito todas as verificações, fiscalizações, denúncias recebidas e diligências que tenham sido efectuadas e o resultado das mesmas;\n\ne) Participar ao presidente do conselho fiscal os factos de que tenham conhecimento e que sejam reveladores de dificuldades na prossecução do objecto social.\n\n4 - Compete, em especial, ao presidente do conselho fiscal participar ao presidente do conselho de administração, bem como à tutela, os factos de que tenham conhecimento e que considere reveladores de grave dificuldade na prossecução do objecto social."
+  },
+  "52083075": {
+   "fragment_id": "40859775",
+   "type": 11,
+   "heading": "Artigo 16.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Funcionamento\n\n1 - O conselho fiscal reúne, pelo menos, uma vez todos os trimestres e ainda sempre que o seu presidente ou o presidente do conselho de administração o solicitem.\n\n2 - As reuniões do conselho fiscal são convocadas com, pelo menos, cinco dias de antecedência relativamente à data da sua realização, excepto em casos de urgência em que o prazo pode ser reduzido para três dias.\n\n3 - O conselho fiscal delibera por maioria de votos, tendo o presidente voto de qualidade.\n\n4 - Nas actas do conselho fiscal, registadas em livros próprios e assinadas por todos os membros que participem na reunião, mencionam-se, ainda que sumariamente, todas as deliberações tomadas nas respectivas reuniões, devendo os membros que discordem das deliberações incluir na acta os respectivos motivos."
+  },
+  "52083175": {
+   "fragment_id": "39341875",
+   "type": 8,
+   "heading": "Secção IV — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Revisor oficial de contas"
+  },
+  "52083275": {
+   "fragment_id": "40859875",
+   "type": 11,
+   "heading": "Artigo 17.º — Designação e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Designação e mandato\n\n1 - O revisor oficial de contas ou a sociedade de revisores oficiais de contas é designado, sob proposta do conselho fiscal, por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes.\n\n2 - O mandato do revisor oficial de contas ou da sociedade de revisores oficiais de contas tem a duração de três anos e é renovável nos termos da legislação aplicável.\n\n3 - A remuneração do revisor oficial de contas ou da sociedade de revisores oficiais de contas é fixada por despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "52083375": {
+   "fragment_id": "40859975",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\n1 - O revisor oficial de contas tem as competências estabelecidas na lei e nestes estatutos.\n\n2 - Compete, em especial, ao revisor oficial de contas:\n\na) Participar nas reuniões do conselho fiscal, quando convocado pelo seu presidente;\n\nb) Participar nas reuniões do conselho de administração para que o presidente do mesmo os convoque ou em que se apreciem as contas de exercício;\n\nc) Participar nas reuniões da comissão executiva, caso exista, onde se apreciem as contas de exercício;\n\nd) Registar por escrito todas as verificações, fiscalizações, denúncias recebidas e diligências que tenham sido efectuadas e o resultado das mesmas.\n\n3 - Compete, em especial, ao revisor oficial de contas participar aos presidentes do conselho de administração e do conselho fiscal, bem como à tutela, os factos de que tenha conhecimento e que considere reveladores de graves dificuldades na prossecução do objecto social.\n\n4 - Compete ainda ao revisor oficial de contas o dever de proceder a todos os exames e verificações necessários à revisão e certificação legais das contas."
+  },
+  "52083475": {
+   "fragment_id": "40860075",
+   "type": 11,
+   "heading": "Artigo 19.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Conselho consultivo\n\n1 - O conselho consultivo é composto por:\n\na) Dois representantes nomeados pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes;\n\nb) Um representante indicado pelo Instituto da Mobilidade e dos Transportes Terrestres, I. P.;\n\nc) Um representante indicado pela Autoridade Metropolitana de Transportes de Lisboa;\n\nd) Um representante indicado pela Autoridade Metropolitana de Transportes do Porto;\n\ne) Um representante eleito pelos trabalhadores da CP, E. P. E.\n\n2 - O conselho consultivo pode, ainda, ser composto por entidades cooptadas às quais, por deliberação devidamente fundamentada e tomada por maioria absoluta dos seus membros, seja atribuída tal qualidade, tendo em atenção a respectiva área de actuação e conexão com os fins da CP, E. P. E.\n\n3 - O conselho consultivo é presidido pelo representante dos membros do Governo responsáveis pelas áreas das finanças e dos transportes que para tal seja designado, no respectivo despacho conjunto de nomeação.\n\n4 - O mandato dos membros do conselho consultivo é de três anos.\n\n5 - O conselho consultivo reúne pelo menos duas vezes por ano e as suas deliberações são tomadas por maioria simples, tendo o presidente voto de qualidade.\n\n6 - As reuniões são convocadas pelo presidente com a antecedência mínima de cinco dias, devendo a convocatória indicar a data, hora e local em que se realiza a reunião, bem como a respectiva ordem de trabalhos.\n\n7 - Devem ser lavradas actas de todas as reuniões, assinadas por todos os membros do conselho consultivo presentes.\n\n8 - O exercício do cargo de membro do conselho consultivo não é remunerado, sem prejuízo do pagamento de ajudas de custo, se forem devidas, as quais são suportadas pelas entidades públicas que designaram os seus representantes e, nos restantes casos, pela CP, E. P. E."
+  },
+  "52083575": {
+   "fragment_id": "40860175",
+   "type": 11,
+   "heading": "Artigo 20.º — Competências do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competências do conselho consultivo\n\nAo conselho consultivo compete:\n\na) Apreciar os planos de actividade de natureza anual e plurianual;\n\nb) Apreciar o relatório de actividades;\n\nc) Emitir recomendações e pronunciar-se sobre os assuntos relacionados com a actividade da CP, E. P. E., que lhe sejam submetidos pelo presidente, pela maioria dos seus membros, ou cuja apreciação seja solicitada pelo conselho de administração."
+  },
+  "52083675": {
+   "fragment_id": "37723775",
+   "type": 1,
+   "heading": "Capítulo IV — Tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Tutela"
+  },
+  "52083775": {
+   "fragment_id": "39341975",
+   "type": 11,
+   "heading": "Artigo 21.º — Orientações de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Orientações de gestão\n\n1 - Cabe ao Governo definir, nos termos da lei, os objectivos gerais a prosseguir pela CP, E. P. E., de modo a assegurar a sua harmonização com as políticas globais e sectoriais definidas na lei.\n\n2 - O Governo acompanha a evolução da situação da empresa, por forma a assegurar os níveis adequados da satisfação das necessidades da colectividade, a salvaguardar o seu equilíbrio económico-financeiro, de modo a garantir a prossecução de adequadas políticas de modernização do transporte ferroviário."
+  },
+  "52083875": {
+   "fragment_id": "39342075",
+   "type": 11,
+   "heading": "Artigo 22.º — Intervenção tutelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Intervenção tutelar\n\n1 - A tutela económica e financeira da CP, E. P. E., é exercida pelos membros do Governo responsáveis pelas áreas das finanças e dos transportes, sem prejuízo do respectivo poder de superintendência.\n\n2 - A tutela abrange, nomeadamente:\n\na) A aprovação dos planos de actividades e de investimento, orçamentos e contas, assim como as dotações para capital, subsídios e indemnizações compensatórias, com excepção das reguladas pela via contratual nos termos da alínea c) do n.º 2 do artigo 9.º;\n\nb) A aprovação da política de preços ou tarifas a praticar pela empresa, restrita ao serviço público de transporte de passageiros, nos termos constantes da legislação especial.\n\n3 - A CP, E. P. E. está sujeita, nos termos gerais, ao controlo financeiro exercido pela Inspecção-Geral de Finanças, que tem por objecto averiguar da legalidade, economia, eficiência e eficácia da sua gestão."
+  },
+  "52083975": {
+   "fragment_id": "37723875",
+   "type": 1,
+   "heading": "Capítulo V — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Pessoal"
+  },
+  "52084075": {
+   "fragment_id": "39342175",
+   "type": 11,
+   "heading": "Artigo 23.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Estatuto\n\n1 - O estatuto do pessoal da CP, E. P. E., é o regime do contrato individual de trabalho.\n\n2 - A matéria relativa à contratação colectiva rege-se pela lei geral, incluindo pelo decreto-lei que aprova os presentes estatutos."
+  },
+  "52084175": {
+   "fragment_id": "37723975",
+   "type": 1,
+   "heading": "Capítulo VI — Transformação, fusão ou cisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Transformação, fusão ou cisão"
+  },
+  "52084275": {
+   "fragment_id": "39342275",
+   "type": 11,
+   "heading": "Artigo 24.º — Forma legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Forma legal\n\nA transformação da CP, E. P. E., bem como a respectiva fusão ou cisão, opera-se por decreto-lei, nos exactos termos nele estabelecidos, sem prejuízo do disposto nos artigos 9.º e 10.º do decreto-lei que aprova os presentes estatutos."
+  },
+  "52084375": {
+   "fragment_id": "37724075",
+   "type": 1,
+   "heading": "Capítulo VII — Da gestão financeira e patrimonial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Da gestão financeira e patrimonial"
+  },
+  "52084475": {
+   "fragment_id": "39342375",
+   "type": 11,
+   "heading": "Artigo 25.º — Princípios de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Princípios de gestão\n\n1 - Na gestão financeira e patrimonial, a CP, E. P. E., aplica as regras legais, os princípios orientadores referidos no artigo 20.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, o disposto nestes estatutos e os princípios de boa gestão empresarial.\n\n2 - Os recursos da CP, E. P. E., devem ser aproveitados nos termos que melhor sirvam o equilíbrio económico da exploração, com vista a atingir o máximo de eficácia na sua contribuição para o desenvolvimento económico-social."
+  },
+  "52084575": {
+   "fragment_id": "39342475",
+   "type": 11,
+   "heading": "Artigo 26.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Receitas\n\n1 - É da exclusiva competência da CP, E. P. E., a cobrança de receitas provenientes da sua actividade ou que lhe sejam facultadas, nos termos dos presentes estatutos ou da lei, bem como a realização de todas as despesas inerentes à prossecução do seu objecto.\n\n2 - Constituem receitas da CP, E. P. E., nomeadamente, as seguintes:\n\na) As receitas resultantes da prestação de serviço de transporte ferroviário;\n\nb) As receitas provenientes da prestação de outros serviços no âmbito das suas actividades;\n\nc) Os rendimentos de bens próprios;\n\nd) As comparticipações e as dotações do Estado ou de outras entidades públicas e os subsídios e as compensações financeiras a atribuir, em razão da assunção de obrigações de serviço público;\n\ne) O produto da alienação de bens próprios e da constituição de direitos sobre eles;\n\nf) O produto da constituição de direitos sobre bens do domínio público à mesma afectos e da atribuição de concessões e de licença pelo uso dos mesmos bens;\n\ng) As doações, heranças ou legados que lhe sejam destinados;\n\nh) Quaisquer outros rendimentos ou valores que provenham da sua actividade ou que, por lei ou contrato, lhe devam pertencer."
+  },
+  "52084675": {
+   "fragment_id": "39342575",
+   "type": 11,
+   "heading": "Artigo 27.º — Plano de actividades e orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Plano de actividades e orçamento\n\n1 - A CP, E. P. E., prepara para cada ano económico o plano de actividades, o orçamento e os planos de investimento e respectivas fontes de financiamento, que devem ser completados com os desdobramentos necessários para permitir a descentralização de responsabilidades e o adequado controlo de gestão.\n\n2 - O orçamento deve incluir, entre outros, uma proposta fundamentada dos preços de transporte a praticar pela CP, E. P. E., no ano seguinte.\n\n3 - Os projectos do plano de actividade, o orçamento anual e os planos de investimento, anuais e plurianuais, e respectivas fontes de financiamento, são elaborados com respeito pelos pressupostos macroeconómicos, pelas orientações estratégicas definidas nos termos do artigo 11.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, e pelas directrizes definidas pelo Governo, bem como, quando for o caso, por contratos de gestão ou por contratos-programa, e devem ser remetidos para aprovação até 30 de Novembro do ano anterior, aos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "52084775": {
+   "fragment_id": "39342675",
+   "type": 11,
+   "heading": "Artigo 28.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Contabilidade\n\n1 - A contabilidade da CP, E. P. E., deve responder às necessidades da gestão da empresa e permitir um controlo orçamental permanente, bem como a fácil verificação da correspondência entre os valores patrimoniais.\n\n2 - A organização e execução da contabilidade e dos orçamentos e suas actualizações devem processar-se em conformidade com regulamentos a estabelecer de harmonia com os presentes estatutos e demais legislação em vigor."
+  },
+  "52084875": {
+   "fragment_id": "39342775",
+   "type": 11,
+   "heading": "Artigo 29.º — Regime de reavaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Regime de reavaliação\n\n1 - A CP, E. P. E., pode proceder à reavaliação do activo imobilizado corpóreo próprio e dos bens do domínio público ferroviário afectos à sua actividade, usando como base o valor resultante de avaliações elaboradas por entidade independente, a seleccionar de acordo com critérios previamente definidos por despacho conjunto dos membros do Governo responsáveis pela área das finanças e pelo sector dos transportes.\n\n2 - A reavaliação deve reportar-se à data em que for efectuada e constar do balanço referente ao ano em que se integra.\n\n3 - Aplica-se à reavaliação efectuada nos termos deste artigo o disposto nos artigos 3.º a 8.º do Decreto-Lei n.º 22/92, de 22 de Fevereiro, com as necessárias adaptações."
+  },
+  "52084975": {
+   "fragment_id": "39342875",
+   "type": 11,
+   "heading": "Artigo 30.º — Provisões e reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Provisões e reservas\n\n1 - A CP, E. P. E., deve constituir provisões, reservas e fundos julgados necessários, sendo obrigatória a constituição da reserva legal, no valor de 5 % dos lucros de cada exercício.\n\n2 - A reserva legal pode ser utilizada para cobrir eventuais prejuízos de exercício."
+  },
+  "52085075": {
+   "fragment_id": "39342975",
+   "type": 11,
+   "heading": "Artigo 31.º — Prestação de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Prestação de contas\n\nA CP, E. P. E., elabora, com referência a 31 de Dezembro do ano anterior, os documentos de prestação anual de contas, remetendo-os, nos prazos em que nas sociedades anónimas se deve proceder à disponibilização das contas aos accionistas, à Inspecção-Geral de Finanças e à Direcção-Geral do Tesouro e Finanças que, após parecer, os submetem à apreciação dos membros do Governo responsáveis pelas áreas das finanças e dos transportes."
+  },
+  "52085175": {
+   "fragment_id": "37724175",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "52085275": {
+   "fragment_id": "39343075",
+   "type": 11,
+   "heading": "Artigo 32.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Participação\n\nA CP, E. P. E., pode fazer parte de associações e organizações nacionais ou internacionais relacionadas com as actividades por ela exercidas e desempenhar neles as funções ou cargos para que seja eleita."
+  },
+  "872431038": {
+   "fragment_id": "36208375",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico aplicável",
+   "in_force_from": "2012-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+   ],
+   "markdown": "###### Artigo 3.º — Regime jurídico aplicável\n\nA CP, E. P. E., rege-se pelo disposto no Decreto-Lei n.º 558/99, de 17 de dezembro, alterado Decreto-Lei n.º 300/2007, de 23 de agosto, pela Lei n.º 64-A/2008, de 31 de dezembro, e pela Lei n.º 55-A/2010, de 31 de dezembro, com exceção do previsto no artigo 37.º, bem como pelo disposto no presente decreto-lei e estatutos anexos, que dele fazem parte integrante, e pela demais legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+  },
+  "872431039": {
+   "fragment_id": "36209575",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições finais e transitórias",
+   "in_force_from": "2012-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+   ],
+   "markdown": "###### Artigo 15.º — Disposições finais e transitórias\n\n1 - Os membros dos órgãos da CP, E. P., mantêm-se em funções até à data da nomeação dos membros dos órgãos da CP, E. P. E., data em que cessam as respectivas funções.\n\n2 - Até à celebração dos contratos referidos no artigo 6.º:\n\na) Constitui serviço concessionado o serviço público de transporte ferroviário de passageiros no território nacional prestado pela CP, E. P. E., nos termos do n.º 2 do artigo 4.º do Decreto-Lei n.º 270/2003, de 28 de Outubro, alterado pelo Decreto-Lei n.º 231/2007, de 14 de Junho;\n\nb) No que se refere às indemnizações compensatórias pela prossecução de obrigações de serviço público, é aplicável o regime jurídico da concessão de subvenções públicas, previsto no Decreto-Lei n.º 167/2008, de 20 de Agosto.\n\n3 - Até à celebração dos contratos referidos no n.º 5 do artigo 4.º mantêm-se afetos à CP, E. P. E., os bens constantes das listas anexas ao despacho conjunto n.º 261/99, de 5 de março, publicado no Diário da República, 2.ª série, n.º 70, de 24 de março de 1999, sem prejuízo da sua alteração, por idêntica forma.\n\n4 - Mantém-se a vigência, até à celebração dos contratos referidos nos números anteriores:\n\na) Do Decreto n.º 11 928, de 21 de Julho de 1926;\n\nb) Do Decreto n.º 12 800, de 7 de Dezembro de 1926;\n\nc) Dos regimes consignados nas bases XXV, n.º 3, XXVI, XXVII, XXVIII, XXIX, n.os 1 e 2, XXXI, XXXII, n.º 4, e LIII anexas ao Decreto-Lei n.º 104/73, de 13 de Março.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+  },
+  "52085375": {
+   "fragment_id": "36209975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de Abril de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Mário Lino Soares Correia.\n\nPromulgado em 5 de Junho de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 8 de Junho de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "872431040": {
+   "fragment_id": "40859075",
+   "type": 11,
+   "heading": "Artigo 9.º — Competência",
+   "in_force_from": "2012-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+   ],
+   "markdown": "###### Artigo 9.º — Competência\n\n1 - Compete ao conselho de administração exercer os mais amplos poderes de gestão e representação da empresa, nos termos da lei e dos estatutos.\n\n2 - Compete, em especial, ao conselho de administração:\n\na) Deliberar sobre o exercício, modificação ou cessação de actividades acessórias do objecto principal da entidade pública empresarial;\n\nb) Celebrar contratos com o Estado, nos termos e para os efeitos referidos no artigo 21.º do Decreto-Lei n.º 558/99, de 17 de Dezembro, alterado pelo Decreto-Lei n.º 300/2007, de 23 de Agosto, contemplando designadamente a atribuição de indemnizações compensatórias e o fornecimento de serviços públicos relativamente ao transporte de passageiros;\n\nc) Celebrar contratos-programa com o Estado e elaborar planos plurianuais de actividade e financiamento, de harmonia com as opções e prioridades fixadas nos planos nacionais a médio prazo;\n\nd) Elaborar o orçamento anual da CP, E. P. E., e remetê-lo aos membros do governo responsáveis pelas áreas das finanças e dos transportes, nos termos do artigo 20.º destes Estatutos;\n\ne) Elaborar e submeter à aprovação do membro do Governo responsável pelo sector dos transportes as actualizações orçamentais nos casos previstos na lei;\n\nf) Organizar os documentos de prestação de contas e remetê-los à Inspecção-Geral de Finanças, nos termos e para os efeitos do disposto nestes Estatutos;\n\ng) Contrair empréstimos e celebrar todos os contratos necessários à prossecução da actividade da CP, E. P. E., nos termos da lei;\n\nh) Representar a CP, E. P. E. em juízo ou fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\ni) Adquirir, vender ou, por qualquer forma, alienar ou onerar direitos, nomeadamente os incidentes sobre bens móveis e imóveis do património próprio da CP, E. P. E.;\n\nj) Requerer às autoridades competentes providências de expropriação por utilidade pública, ocupação de terrenos, implantação de traçados e estabelecimento de limitações ao uso de prédios ou de zonas de protecção e de exercício de servidões administrativas;\n\nl) Deliberar sobre a constituição de sociedades e sobre a aquisição ou alienação de partes de capital, nos termos da lei;\n\nm) Estabelecer a organização técnico-administrativa da CP, E. P. E., e as respectivas normas de funcionamento interno, de modo a garantir uma adequada economia de meios e a qualidade dos serviços públicos de transportes que lhe são cometidos;\n\nn) Constituir mandatários com os poderes que julgue convenientes, incluindo os de substabelecer;\n\no) Negociar e outorgar acordos colectivos de trabalho, bem como fixar as condições de trabalho;\n\np) Designar e exonerar os responsáveis da estrutura orgânica da CP, E. P. E.;\n\nq) Exercer as demais competências que, nos termos da lei, lhe sejam atribuídas.\n\n3 - O conselho de administração pode encarregar algum dos seus membros de se ocuparem de certas matérias de administração, desde que não abranjam as matérias referidas nas alíneas a) a g) e m) do número anterior, e sem que tal exclua a competência normal dos outros administradores ou do conselho, nem a responsabilidade daqueles.\n\n4 - O conselho de administração deve delegar na comissão executiva, caso esta exista, a gestão corrente da empresa, não abrangendo as matérias referidas nas alíneas a), c) a g) e m) do n.º 2, definindo em acta os limites e condições de tal delegação.\n\n5 - A deliberação do conselho de administração referida no número anterior deve estabelecer o modo de funcionamento da comissão executiva.\n\n6 - O conselho de administração ou a comissão executiva, caso esta exista, pode também delegar em qualquer trabalhador da empresa os poderes previstos na alínea h) do n.º 2, sendo a prova desta delegação feita por simples credencial assinada por quem, nos termos deste estatuto, tem competência para obrigar a empresa e sendo estas assinaturas autenticadas com o respetivo selo branco.\n\n7 - Sem prejuízo de outras restrições decorrentes da lei, constituem competência reservada do conselho de administração, não podendo ser objecto de delegação, as matérias sujeitas a autorização ou aprovação tutelar.\n\n8 - A delegação prevista nos n.os 3 a 5 não exclui a competência do conselho de administração de deliberar sobre os mesmos assuntos.\n\n9 - Os outros administradores são responsáveis, nos termos da lei, pela vigilância geral da actuação do administrador ou da comissão executiva e pelos prejuízos causados por actos e omissões destes, quando, tendo conhecimento de tais actos ou omissões ou do propósito de os praticar, não provoquem a intervenção do conselho para tomar as medidas adequadas.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+  },
+  "872431041": {
+   "fragment_id": "40859675",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": "2012-03-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+   ],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - O conselho fiscal tem as competências estabelecidas na lei e nestes estatutos.\n\n2 - Compete, em especial, ao conselho fiscal:\n\na) Examinar, sempre que o julgue conveniente e, pelo menos, uma vez por mês, a escrituração da empresa;\n\nb) Acompanhar com regularidade a gestão através dos balancetes e mapas demonstrativos da execução orçamental;\n\nc) Acompanhar o funcionamento da empresa e o cumprimento das leis, dos estatutos e dos regulamentos que lhe são aplicáveis;\n\nd) Emitir parecer sobre o relatório de gestão e as contas do exercício;\n\ne) Deliberar a contratação da prestação de serviços de peritos que coadjuvem um ou vários dos seus membros no exercício das suas funções, nos termos da lei;\n\nf) Manter o conselho de administração informado sobre os resultados das verificações e dos exames a que proceda;\n\ng) Dar parecer sobre a subscrição de participações sociais em sociedades ou sobre alterações do capital social nas participadas da CP, E. P. E.;\n\nh) Dar parecer sobre a aquisição, alienação ou oneração de bens imóveis, não previstos nos orçamentos aprovados;\n\ni) Dar parecer sobre a contracção de empréstimos de valor superior a 50 % do capital;\n\nj) Pronunciar-se sobre qualquer outro assunto, em matéria de gestão económica e financeira, que seja submetido à sua consideração pelo conselho de administração ou pela comissão executiva, caso exista;\n\nl) Elaborar relatórios da sua acção fiscalizadora, incluindo um relatório anual global.\n\n3 - Compete ainda aos membros do conselho fiscal:\n\na) Participar nas reuniões do conselho fiscal;\n\nb) Participar nas reuniões do conselho de administração para que o presidente do mesmo os convoque ou em que se apreciem as contas de exercício;\n\nc) Participar nas reuniões da comissão executiva, caso exista, onde se apreciem as contas de exercício;\n\nd) Registar por escrito todas as verificações, fiscalizações, denúncias recebidas e diligências que tenham sido efectuadas e o resultado das mesmas;\n\ne) Participar ao presidente do conselho fiscal os factos de que tenham conhecimento e que sejam reveladores de dificuldades na prossecução do objecto social.\n\n4 - Compete, em especial, ao presidente do conselho fiscal participar ao presidente do conselho de administração, bem como à tutela, os factos de que tenham conhecimento e que considere reveladores de grave dificuldade na prossecução do objecto social.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+  },
+  "117551860": {
+   "fragment_id": "36208375",
+   "type": 11,
+   "heading": "Artigo 3.º — Regime jurídico aplicável",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+   ],
+   "markdown": "###### Artigo 3.º — Regime jurídico aplicável\n\nA CP, E. P. E., rege-se pelo disposto no Decreto-Lei n.º 133/2013, de 3 de outubro, na sua redação atual, pelo presente decreto-lei e estatutos anexos, que dele fazem parte integrante, e pela demais legislação aplicável.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2012 - Diário da República n.º 53/2012, Série I de 2012-03-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2012-553461), em vigor a partir de 2012-03-15"
+  },
+  "117551861": {
+   "fragment_id": "36208475",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A CP, E. P. E., tem por objeto principal a prestação de serviços de transporte ferroviário de passageiros em linhas férreas, troços de linha e ramais que integram ou venham a integrar a rede ferroviária nacional.\n\n2 - Integra igualmente o objeto principal da CP, E. P. E., a prestação de serviços de transporte ferroviário internacional de passageiros, em conformidade com o disposto na lei, tratados, convenções e acordos em vigor.\n\n3 - A CP, E. P. E., pode ainda, acessoriamente, exercer as seguintes actividades:\n\na) A exploração de transportes terrestres destinados a complementar o transporte ferroviário;\n\nb) A exploração de terminais de mercadorias e de instalações oficinais e de construção, manutenção ou reparação de material circulante, bem como de parques e linhas de estacionamento deste material;\n\nc) A exploração de outros bens compreendidos no estabelecimento industrial ou comercial que lhe esteja afecto ou integre o seu património privado;\n\nd) A exploração de actividades comerciais e operacionais em estações de passageiros, cuja gestão lhe esteja atribuída;\n\ne) A locação ou outras formas de cedência de utilização ou de prestação de serviços relacionados com a utilização de material circulante;\n\nf) Outras actividades complementares ou subsidiárias do seu objecto principal, bem como outros ramos de actividade comercial ou industrial dele acessórios que não prejudiquem a sua prossecução.\n\n4 - No exercício do objecto definido no número anterior, a CP, E. P. E., pode:\n\na) Constituir sociedades ou adquirir partes de capital, nos termos da lei;\n\nb) Celebrar com outras empresas ou entidades os acordos que se revelem necessários e convenientes para melhor satisfação das necessidades do público e das exigências do serviço de que está incumbida;\n\nc) Praticar todos os actos que se revelem necessários ou convenientes à prossecução do seu objecto.\n\n5 - As condições de gestão e exploração das instalações fixas do domínio público do Estado, afectas às actividades referidas nas alíneas b) e c) do n.º 3, são objecto de contratos de concessão a celebrar entre a CP, E. P. E., e o Estado.\n\n6 - As condições de gestão e exploração das estações a que respeita a atividade referida na alínea d) do n.º 3 são objeto de contrato a celebrar entre a CP, E. P. E., e a Infraestruturas de Portugal, S. A.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+  },
+  "117551862": {
+   "fragment_id": "36208675",
+   "type": 11,
+   "heading": "Artigo 6.º — Prestação de serviços de transporte ferroviário de passageiros",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Prestação de serviços de transporte ferroviário de passageiros\n\n1 - Nos termos dos artigos 3.º e 5.º do regime jurídico do serviço público de transporte de passageiros, aprovado em anexo à Lei n.º 52/2015, de 9 de junho, na sua redação atual:\n\na) O Estado é a autoridade de transportes competente quanto ao serviço público de transporte ferroviário de passageiros, sem prejuízo da articulação e partilha de competências com autoridades de transportes de âmbito local ou regional;\n\nb) A CP, E. P. E, é um operador interno do Estado, devendo a sua atividade de prestação do serviço público de transporte ferroviário de passageiros ser enquadrada em contrato de serviço público.\n\n2 - O serviço público de transporte de passageiros de interesse económico geral prestado pela CP, E. P. E., pode ser prestado em regimes de exploração diferenciados de acordo com a área geográfica, designadamente:\n\na) Urbano e suburbano;\n\nb) Regional;\n\nc) Longo curso;\n\nd) Internacional.\n\n3 - O contrato de serviço público da CP, E. P. E, é celebrado nos termos do Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, e da Lei n.º 52/2015, de 9 de junho, ambos na sua redação atual.\n\n4 - As disposições contratuais relativas à prestação de serviços públicos incluídas no contrato referido no número anterior devem ser compatíveis com os objetivos estratégicos da política de transportes públicos, delas devendo constar, designadamente:\n\na) A identificação dos serviços de interesse económico geral prestados e quais os que estão sujeitos a obrigações de serviço público, compensações e exclusividade;\n\nb) A especificação clara, objetiva e transparente das obrigações de serviço público, bem como a respetiva compensação e direitos exclusivos, tendo em conta objetivos de sustentabilidade económica, ambiental, social e territorial;\n\nc) O critério de cálculo das compensações das obrigações de serviço público;\n\nd) As modalidades de repartição de custos ligados à prestação de serviço;\n\ne) A separação de contas da CP, E. P. E. relativas à prossecução de atividades sujeitas e não sujeitas a obrigações de serviço público;\n\nf) As modalidades de repartição de receitas ligadas à venda de títulos de transporte;\n\ng) A zona geográfica abrangida pelo serviço;\n\nh) O dimensionamento da oferta pretendida expressa em comboios por quilómetro (comboios.quilómetro) e lugares por quilómetro (lugares.quilómetro);\n\ni) As linhas, troços de linha ou ramais utilizados no serviço;\n\nj) Os itinerários, frequências e paragens do serviço, bem como o sistema de bilhética e o tarifário;\n\nk) Os requisitos operacionais, de qualidade e níveis de desempenho e respetivos mecanismos de monitorização e fiscalização por parte da empresa e pelas autoridades competentes;\n\nl) As medidas de promoção da intermodalidade e dos direitos dos passageiros;\n\nm) Os incentivos à manutenção ou desenvolvimento de uma gestão eficaz por parte do operador de serviço público;\n\nn) As sanções e penalidades aplicáveis em caso de incumprimento ou de cumprimento defeituoso do contrato ou de falhas de desempenho;\n\no) O prazo do contrato, o qual deve respeitar o disposto no Regulamento (CE) n.º 1370/2007, do Parlamento Europeu e do Conselho, de 23 de outubro de 2007, na sua redação atual.\n\n5 - A prestação de serviço público ferroviário de passageiros está ainda sujeita ao cumprimento das obrigações decorrentes dos seguintes decretos-leis:\n\na) Decreto-Lei n.º 217/2015, de 7 de outubro, na sua redação atual;\n\nb) Decreto-Lei n.º 270/2003, de 28 de outubro, na sua redação atual;\n\nc) Decreto-Lei n.º 58/2008, de 26 de março, na sua redação atual.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+  },
+  "117551863": {
+   "fragment_id": "36209875",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\nLista de elementos da infraestrutura ferroviária\n\nA infraestrutura ferroviária é composta pelos seguintes elementos, desde que façam parte das vias principais e de serviço, com exceção das situadas no interior das oficinas de reparação do material e dos depósitos ou resguardos das unidades de tração, assim como dos ramais particulares:\n\na) Terrenos;\n\nb) Estrutura e plataforma da via, nomeadamente aterros, trincheiras, drenos, valas, valetas de alvenaria, aquedutos, muros de revestimento, plantações para proteção dos taludes, etc.;\n\nc) Cais de passageiros e de mercadorias, nomeadamente nas estações de passageiros e nos terminais de mercadorias, bermas e pistas, muros de vedação, sebes vivas, paliçadas, faixas protetoras contra o fogo, dispositivos para aquecimento das agulhas, anteparos contra neve;\n\nd) Obras de arte, pontes e outras passagens superiores, túneis, valas cobertas e outras passagens inferiores, muros de suporte e obras de proteção contra avalanches, queda de pedras, etc.;\n\ne) Passagens de nível, incluindo as instalações destinadas a garantir a segurança da circulação rodoviária;\n\nf) Superstrutura, nomeadamente carris, carris de gola e contracarris, travessas e longarinas, pequenas peças de ligação, balastro, incluindo gravilha e areia, aparelhos de via, placas giratórias e carros transbordadores, exceto os exclusivamente reservados às unidades de tração;\n\ng) Pátios das estações de passageiros e mercadorias, incluindo acessos por estrada e acessos para passageiros que cheguem ou partam a pé;\n\nh) Instalações de segurança, sinalização e telecomunicações das vias propriamente ditas, das estações e das triagens, incluindo instalações de produção, transformação e distribuição da corrente elétrica para sinalização e telecomunicações, edifícios afetos às referidas instalações e freios de via;\n\ni) Instalações de iluminação destinadas a assegurar a circulação dos veículos e a respetiva segurança;\n\nj) Instalações de transformação e de transporte da corrente elétrica para a tração dos comboios, subestações, linhas de alimentação entre as subestações e os fios de contacto, catenárias e suportes, carril de transmissão (terceiro carril) e seus suportes;\n\nk) Edifícios afetos ao serviço das infraestruturas, incluindo a parte relativa às instalações de cobrança dos bilhetes de transporte.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+  },
+  "127479151": {
+   "fragment_id": "36208475",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": "2019-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 174-B/2019 - Diário da República n.º 248/2019, 1º Suplemento, Série I de 2019-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-b-2019-127504232), em vigor a partir de 2019-12-27, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A CP, E. P. E., tem por objeto principal a prestação de serviços de transporte ferroviário de passageiros em linhas férreas, troços de linha e ramais que integram ou venham a integrar a rede ferroviária nacional.\n\n2 - Integra igualmente o objeto principal da CP, E. P. E., a prestação de serviços de transporte ferroviário internacional de passageiros, em conformidade com o disposto na lei, tratados, convenções e acordos em vigor.\n\n3 - A CP, E. P. E., pode ainda, acessoriamente, exercer as seguintes actividades:\n\na) A exploração de transportes terrestres destinados a complementar o transporte ferroviário;\n\nb) A exploração de terminais de mercadorias e de instalações oficinais e de construção, manutenção ou reparação de material circulante, bem como de parques e linhas de estacionamento deste material;\n\nc) A exploração de outros bens compreendidos no estabelecimento industrial ou comercial que lhe esteja afecto ou integre o seu património privado;\n\nd) A exploração de actividades comerciais e operacionais em estações de passageiros, cuja gestão lhe esteja atribuída;\n\ne) A exploração de atividades de fabrico e venda, bem como de serviços de manutenção, reparação, grande reparação e reabilitação, de material circulante ferroviário, incluindo todas as atividades complementares, como estudos e conceção de instalações oficinais, fabrico, reparação e manutenção de componentes eletrónicos de ferrovia e desenvolvimento de soluções informáticas;\n\nf) A locação ou outras formas de cedência de utilização ou de prestação de serviços relacionados com a utilização de material circulante;\n\ng) Outras actividades complementares ou subsidiárias do seu objecto principal, bem como outros ramos de actividade comercial ou industrial dele acessórios que não prejudiquem a sua prossecução.\n\n4 - No exercício do objecto definido no número anterior, a CP, E. P. E., pode:\n\na) Constituir sociedades ou adquirir partes de capital, nos termos da lei;\n\nb) Celebrar com outras empresas ou entidades os acordos que se revelem necessários e convenientes para melhor satisfação das necessidades do público e das exigências do serviço de que está incumbida;\n\nc) Praticar todos os actos que se revelem necessários ou convenientes à prossecução do seu objecto.\n\n5 - As condições de gestão e exploração das instalações fixas do domínio público do Estado, afectas às actividades referidas nas alíneas b) e c) do n.º 3, são objecto de contratos de concessão a celebrar entre a CP, E. P. E., e o Estado.\n\n6 - São objeto de contratos a celebrar entre a CP, E. P. E., e a Infraestruturas de Portugal, S. A., as condições de gestão e exploração:\n\na) Das estações a que respeita a atividade referida na alínea d) do n.º 3;\n\nb) De instalações oficinais e de fabricação, manutenção ou reparação de material circulante, a que respeita a atividade referida na alínea e) do n.º 3, quando integrem a infraestrutura ferroviária cuja titularidade de gestão cabe à Infraestruturas de Portugal, S. A.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 174-B/2019 - Diário da República n.º 248/2019, 1º Suplemento, Série I de 2019-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-b-2019-127504232), em vigor a partir de 2019-12-27, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 124-A/2018 - Diário da República n.º 251/2018, 1º Suplemento, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-a-2018-117537589), em vigor a partir de 2019-01-01"
+  },
+  "135839557": {
+   "fragment_id": "39341275",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2019-12-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 174-B/2019 - Diário da República n.º 248/2019, 1º Suplemento, Série I de 2019-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-b-2019-127504232), em vigor a partir de 2019-12-27, produz efeitos a partir de 2019-12-27"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\n1 - A CP, E. P. E., tem por objecto principal a prestação de serviços de transporte ferroviário de passageiros e de mercadorias em linhas férreas, troços de linha e ramais que integram ou venham a integrar a rede ferroviária nacional.\n\n2 - Integra igualmente o objecto principal da CP, E. P. E., a prestação de serviços de transporte ferroviário internacional de passageiros e de mercadorias, em conformidade com o disposto na lei, nos tratados, convenções e acordos em vigor.\n\n3 - A CP, E. P. E., pode ainda, acessoriamente, exercer as seguintes actividades:\n\na) A exploração de transportes destinados a complementar o transporte ferroviário;\n\nb) A exploração de terminais de mercadorias e de instalações oficinais e de construção, manutenção ou reparação de material circulante, bem como de parques e linhas de estacionamento deste material;\n\nc) A exploração de outros bens compreendidos no estabelecimento industrial ou comercial que lhe esteja afecto ou integre o seu património privado;\n\nd) A exploração de actividades comerciais e operacionais em estações de passageiros, cuja gestão lhe esteja atribuída;\n\ne) A exploração de atividades de fabrico e venda, bem como de serviços de manutenção, reparação, grande reparação e reabilitação, de material circulante ferroviário, incluindo todas as atividades complementares, como estudos e conceção de instalações oficinais, fabrico, reparação e manutenção de componentes eletrónicos de ferrovia e desenvolvimento de soluções informáticas;\n\nf) A locação ou outras formas de cedência de utilização ou de prestação de serviços relacionados com a utilização do material circulante;\n\ng) Outras actividades complementares ou subsidiárias do seu objecto principal, bem como de outros ramos de actividade comercial ou industrial dele acessórios que não prejudiquem a sua prossecução.\n\n4 - No exercício do objecto definido no número anterior, a CP, E. P. E., pode:\n\na) Constituir sociedades ou adquirir partes de capital, nos termos da lei;\n\nb) Celebrar com outras empresas ou entidades os acordos que se revelem necessários ou convenientes para melhor satisfação das necessidades do público e das exigências do serviço de que está incumbida;\n\nc) Praticar todos os actos que se revelem necessários ou convenientes à prossecução do seu objecto.\n\n5 - ...\n\n6 - São objeto de contratos a celebrar entre a CP, E. P. E., e a Infraestruturas de Portugal, S. A., as condições de gestão e exploração:\n\na) Das estações a que respeita a atividade referida na alínea d) do n.º 3;\n\nb) De instalações oficinais e de fabricação, manutenção ou reparação de material circulante, a que respeita a atividade referida na alínea e) do n.º 3, quando integrem a infraestrutura ferroviária cuja titularidade de gestão cabe à Infraestruturas de Portugal, S. A.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto-Lei n.º 174-B/2019 - Diário da República n.º 248/2019, 1º Suplemento, Série I de 2019-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/174-b-2019-127504232), em vigor a partir de 2019-12-27, produz efeitos a partir de 2019-12-27"
+  }
+ }
+}

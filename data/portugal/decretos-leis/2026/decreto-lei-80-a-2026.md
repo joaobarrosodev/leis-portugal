@@ -1,0 +1,322 @@
+---
+schema_version: '1.0'
+id: pt:dre:1080481232:por
+title: Decreto-Lei n.º 80-A/2026
+short_title: null
+summary: Cria apoios excecionais e temporários de compensação pela escalada do preço dos combustíveis verificada em consequência
+  do conflito no Médio Oriente a atribuir aos operadores de transporte de passageiros e mercadorias, às entidades do setor
+  social, às associações humanitárias de bombeiros e aos setores agrícola, florestal, das pescas e da aquicultura.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças
+official_number: 80-A/2026
+official_date: null
+publication_date: '2026-03-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/2026, Suplemento, Série I de 2026-03-31
+  number: '63'
+  series: I
+  supplement: null
+  pages: 2 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/03/06304/0000200007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-11'
+version_history:
+  file: decreto-lei-80-a-2026.versoes.json
+  count: 2
+  source_lastmod: '2026-10-08'
+  versions:
+  - date: '2026-03-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-11'
+    amending: pt:dre:1145969708:por
+    amending_title: Decreto-Lei n.º 141/2026
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/80-a/2026/03/31/p/dre/pt/html
+  oj: null
+  dre: '1080481232'
+  dre_path: /dr/detalhe/decreto-lei/80-a-2026-1080481232
+  internal: pt:dre:1080481232:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-a-2026-1080481232
+  metadata_url: https://data.dre.pt/eli/dec-lei/80-a/2026/03/31/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2026-1080854175
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2026-1080854175
+  retrieved_at: '2026-10-22T14:00:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-08T00:00:00Z'
+integrity:
+  source_sha256: d30202ab6d512d9cf98ab9338df7127f19d0e6bc9a0a721e109910e13ebeb85d
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T14:00:54Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-80-a-2026.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:1145969708:por
+  label: Altera Artigo 6.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2026-1145969708
+  date: '2026-07-10'
+- type: amended_by
+  target: pt:dre:1178225508:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2026-1178225508
+  date: '2026-10-08'
+- type: cites
+  target: celex:32013R1408
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1408/oj
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: null
+- type: cites
+  target: celex:32014R0717
+  label: null
+  source: http://data.europa.eu/eli/reg/2014/717/oj
+- type: cites
+  target: celex:32023R2831
+  label: null
+  source: http://data.europa.eu/eli/reg/2023/2831/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/73/2010/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/73-a/2025/12/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/73-a/2025/12/30/p/dre
+article_structure:
+  article_count: 18
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:00:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 80-A/2026
+
+Em face do aumento extraordinário do preço dos combustíveis decorrente do impacto da crise geopolítica e militar no Médio Oriente nos preços do petróleo e dos seus derivados, num quadro de elevada incerteza, com consequente impacto social e económico para as famílias e as empresas, foi decidido proceder a um desconto temporário e extraordinário do imposto sobre os produtos petrolíferos e energéticos (ISP) (quando o aumento de preço exceda, face à semana de 2 a 6 de março, um valor de 10 cêntimos na gasolina sem chumbo e no gasóleo rodoviário), correspondendo à devolução da receita fiscal adicional de imposto sobre valor acrescentado, através de uma redução temporária das taxas unitárias do ISP aplicáveis, no continente, à gasolina sem chumbo e ao gasóleo rodoviário.
+
+Deste modo, face ao contexto atual de aumento contínuo dos preços e dos efeitos nefastos que a pressão inflacionista provoca na estrutura de custos dos operadores de transportes, com implicações subsequentes nas cadeias de valor, o presente decreto-lei cria um apoio de 10 cêntimos por litro, criando-se, assim, de forma excecional e temporária, um apoio extraordinário ao gasóleo profissional, que contempla os abastecimentos elegíveis que ocorram entre 1 de abril e 30 de junho de 2026, até ao limite máximo de 15 000 litros por viatura.
+
+O presente decreto-lei cria, igualmente, um apoio extraordinário ao setor agrícola, florestal, das pescas e aquicultura, atribuído pelo Instituto de Financiamento da Agricultura e Pescas, I. P., para mitigar o aumento do preço dos combustíveis, no valor de 10 cêntimos por litro de gasóleo colorido e marcado, relativo a consumos efetuados entre 1 de abril e 30 de junho de 2026.
+
+Ademais, é criado um apoio extraordinário às entidades do setor social, nos meses de abril a junho de 2026, a ser efetivado de uma só vez no valor de 600 €, o que equivale a 10 cêntimos por litro para 2000 litros por mês.
+
+Por fim, é, ainda, criado um apoio extraordinário às empresas de transportes de táxis e às associações humanitárias de bombeiros correspondente a 10 cêntimos por litro de gasóleo rodoviário e gasolina utilizados, nos meses de abril a junho de 2026, como carburantes por veículos de socorro e de combate a incêndio e veículos automóveis ligeiros de passageiros utilizados no transporte de passageiros em táxi, respetivamente.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — DISPOSIÇÃO GERAIS
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à criação dos seguintes apoios excecionais e temporários de compensação pelo aumento do preço dos combustíveis verificado em consequência do conflito no Médio Oriente:
+
+a) Apoio extraordinário ao gasóleo profissional;
+
+b) Apoio extraordinário aos setores agrícola, florestal, das pescas e aquicultura;
+
+c) Apoio extraordinário às empresas de transportes de táxis, às entidades do setor social e às associações humanitárias de bombeiros.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+Os apoios excecionais e temporários previstos no presente decreto-lei aplicam-se aos operadores de transporte de passageiros e de mercadorias, aos titulares de cartão para abastecimento de gasóleo colorido e marcado, às empresas de transportes de táxis, às entidades do setor social e às associações humanitárias de bombeiros.
+
+### Capítulo II — APOIO EXTRAORDINÁRIO AO GASÓLEO PROFISSIONAL
+
+###### Artigo 3.º — Beneficiários
+
+As empresas de transporte de passageiros e de mercadorias por conta de outrem, com sede ou estabelecimento estável num Estado-Membro, beneficiam do apoio extraordinário ao gasóleo profissional relativamente ao gasóleo classificado pelos códigos NC 2710 19 42 a 2710 19 48 e 2710 20 11 a 2710 20 19, quando abastecido em veículos devidamente licenciados e destinados exclusivamente àquela atividade.
+
+###### Artigo 4.º — Forma e cálculo do apoio extraordinário
+
+1 - O apoio extraordinário ao gasóleo profissional apenas é aplicável a abastecimentos que se destinem a ser utilizados como carburantes em veículos:
+
+a) Com um peso total em carga igual ou superior a 35 toneladas e tributados na categoria D do Imposto Único de Circulação ou veículos equivalentes de outros Estados-Membros da União Europeia, no caso dos veículos de transporte de mercadorias;
+
+b) Destinados ao transporte coletivo de passageiros com lotação não inferior a 22 lugares, no caso das empresas de transporte coletivo de passageiros.
+
+2 - O apoio extraordinário de 10 cêntimos por litro é atribuído nas semanas em que o preço médio do gasóleo simples, tal como divulgado pela Direção-Geral de Energia e Geologia (DGEG), apresente um aumento superior a 10 cêntimos por litro, quando comparado com o preço médio registado na semana de 2 a 6 de março, sendo considerados os consumos efetuados entre 1 de abril e 30 de junho de 2026.
+
+3 - O referido apoio apenas é aplicável a abastecimentos até ao limite máximo de 15 000 litros por veículo, no período referido no número anterior.
+
+4 - O apoio extraordinário ao gasóleo profissional não é cumulável com o regime previsto no artigo 70.º do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho.
+
+5 - Aplica-se subsidiariamente o disposto no artigo 93.º-A do Código dos Impostos Especiais de Consumo, aprovado em anexo ao Decreto-Lei n.º 73/2010, de 21 de junho, e respetiva regulamentação.
+
+###### Artigo 5.º — Regulamento de minimis
+
+O apoio extraordinário previsto no presente capítulo está sujeito às regras europeias aplicáveis em matéria de auxílios de minimis, nas condições estabelecidas no Regulamento (UE) 2023/2831, da Comissão, de 13 de dezembro de 2023, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia.
+
+### Capítulo III — APOIO EXTRAORDINÁRIO AOS SETORES AGRÍCOLA, FLORESTAL, DAS PESCAS E AQUICULTURA
+
+###### Artigo 6.º — Beneficiários
+
+1 - Os titulares de cartão para abastecimento de gasóleo colorido e marcado, emitido pela Direção-Geral de Agricultura e Desenvolvimento Rural (DGADR) e que estejam inscritos na Base de Dados do IB - Identificação do Beneficiário do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), beneficiam do apoio extraordinário previsto no presente capítulo.
+
+2 - Para efeitos de atribuição de apoios financeiros ao abrigo da alínea a) do n.º 1 do artigo 10.º, e sem prejuízo do artigo 11.º, os beneficiários não podem ser empresas em dificuldade, na aceção constante no ponto 18 do artigo 2.º do Regulamento (UE) n.º 651/2014 da Comissão, de 17 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno [Regulamento (UE) n.º 651/2014], no exercício contabilístico anterior a 28 de fevereiro de 2026.
+
+3 - O disposto no número anterior não é aplicável às micro ou pequenas empresas, na aceção do anexo i do Regulamento (UE) n.º 651/2014, desde que estas:
+
+a) Não tenham sido objeto de um processo coletivo de insolvência;
+
+b) Não tenham recebido auxílios de emergência ou à reestruturação.
+
+2 - Os titulares de cartão para abastecimento de gasóleo colorido e marcado que não estejam registados na Base de Dados do IB - Identificação do Beneficiário podem registar-se para beneficiar do apoio extraordinário.
+
+3 - O registo é feito presencialmente junto das entidades indicadas no sítio na Internet do IFAP, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2026-1145969708), em vigor a partir de 2026-07-11.
+
+###### Artigo 7.º — Forma e cálculo do apoio extraordinário
+
+O apoio extraordinário de 10 cêntimos por litro é atribuído nas semanas em que o preço médio do gasóleo colorido e marcado, tal como divulgado pela DGEG, apresente um aumento superior a 10 cêntimos por litro, quando comparado com o preço médio registado na semana de 2 a 6 de março, sendo considerados os consumos efetuados entre 1 de abril e 30 de junho de 2026.
+
+###### Artigo 8.º — Cumulação
+
+Os pequenos agricultores, os detentores do estatuto de agricultura familiar, os pequenos aquicultores e a pequena pesca artesanal e costeira podem cumular o apoio extraordinário previsto no presente capítulo com a majoração prevista no artigo 225.º da Lei n.º 73-A/2025, de 30 de dezembro, que aprova o Orçamento do Estado para 2026, nos termos nele previsto.
+
+###### Artigo 9.º — Pagamento do apoio extraordinário
+
+1 - O apuramento dos beneficiários e quantidades de gasóleo colorido e marcado elegíveis para pagamento, em conformidade com o previsto no artigo 6.º, é efetuado pela DGADR e pela Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM), para posterior comunicação ao IFAP, I. P.
+
+2 - O pagamento do apoio extraordinário é efetuado pelo IFAP, I. P., através de transferência bancária, com base nos dados previamente registados na Base de Dados do IB - Identificação do Beneficiário.
+
+###### Artigo 10.º — Auxílios de Estado
+
+1 - Os apoios financeiros previstos no presente capítulo são concedidos de acordo com o direito da União Europeia em matéria de auxílios de Estado, podendo, consoante a atividade exercida pelo beneficiário, ser enquadrados num dos seguintes regimes:
+
+a) Ao abrigo da alínea c) do n.º 3 do artigo 107.º do Tratado de Funcionamento da União Europeia, e em conformidade com o enquadramento temporário aplicável aos auxílios estatais adotado no contexto da crise no Médio Oriente, quando os apoios se destinem à produção primária de produtos agrícolas ou aos setores da pesca e da aquicultura;
+
+b) Ao abrigo do Regulamento (UE) 2023/2831 da Comissão, de 13 de dezembro de 2023, relativo aos auxílios de minimis, quando o beneficiário exerça atividades não abrangidas pela alínea anterior.
+
+2 - O enquadramento do beneficiário nos regimes referidos no número anterior é determinado em função da respetiva Classificação Portuguesa das Atividades Económicas, Revisão 4, e da natureza do apoio atribuído.
+
+3 - Compete ao IFAP, I. P., e ao Gabinete de Planeamento, Políticas e Administração Geral, assegurar o cumprimento das obrigações de registo, controlo, reporte e publicidade exigidas pelo direito da União Europeia.
+
+4 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 141/2026 - Diário da República n.º 132/2026, Série I de 2026-07-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/141-2026-1145969708), em vigor a partir de 2026-07-11.
+
+###### Artigo 11.º — Condições gerais do pagamento
+
+1 - A atribuição do apoio depende da verificação:
+
+a) Da regularidade da situação contributiva e tributária dos beneficiários perante a segurança social e a Autoridade Tributária e Aduaneira (AT);
+
+b) Da inscrição, pelo beneficiário, no balcão dos Fundos, bem como da existência de dotação de minimis para o montante a pagar.
+
+2 - A verificação da situação contributiva é realizada por recurso a webservice, entre o Instituto da Segurança Social, I. P. (ISS, I. P.), e o IFAP, I. P.
+
+3 - A verificação da situação tributária é realizada através da plataforma de interoperabilidade da Administração Pública (iAP).
+
+4 - A verificação do disposto na alínea b) do n.º 1, bem como o registo dos auxílios no SircaMinimis, é realizada pelo IFAP, I. P., em articulação com a Agência de Desenvolvimento e Coesão, I. P.
+
+### Capítulo IV — APOIO EXTRAORDINÁRIO ÀS EMPRESAS DE TRANSPORTES DE TÁXIS, ÀS ENTIDADES DO SETOR SOCIALE ÀS ASSOCIAÇÕES HUMANITÁRIAS DE BOMBEIROS
+
+###### Artigo 12.º — Beneficiários
+
+1 - As empresas de transportes de táxis, as entidades do setor social e as associações humanitárias de bombeiros beneficiam do apoio extraordinário previsto no presente capítulo.
+
+2 - Entende-se por entidades do setor social as instituições particulares de solidariedade social, as irmandades da misericórdia, as casas do povo, as cooperativas de solidariedade social e as associações mutualistas com acordo de cooperação no âmbito da ação social.
+
+###### Artigo 13.º — Forma e cálculo do apoio extraordinário
+
+1 - O apoio extraordinário é aplicável ao gasóleo rodoviário e à gasolina utilizados, nos meses de abril a junho de 2026, como carburantes em veículos:
+
+a) De socorro e de combate a incêndio dos corpos de bombeiros e de transporte de doentes, no caso de associações humanitárias de bombeiros;
+
+b) Automóveis ligeiros de passageiros utilizados no transporte de passageiros em táxi com licença emitida pelo Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), que tenham inspeção periódica obrigatória válida.
+
+2 - O apoio a conferir entre 1 de abril e 30 de junho de 2026 é de 10 cêntimos por litro, considerando um consumo de 1200 litros por mês por viatura, no caso dos «Veículos classe S (Super)» abrangidos pela alínea a) do número anterior e de 400 litros por mês nos restantes casos, o que corresponde aos seguintes montantes:
+
+a) 360 € por veículo, no caso dos «Veículos classe S (Super)» abrangidos pela alínea a) do número anterior;
+
+b) 120 € por veículo, nos restantes casos.
+
+3 - O apoio a conferir às entidades do setor social, nos meses de abril a junho de 2026, é efetivado de uma só vez e corresponde ao valor 600 €.
+
+> Retificado pelo/a [Declaração de Retificação n.º 14/2026/1 - Diário da República n.º 79/2026, Série I de 2026-04-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/14-2026-1088732652), com efeitos a partir de 2026-04-01.
+
+###### Artigo 14.º — Pagamento do apoio extraordinário
+
+O apoio extraordinário é suportado pelo Fundo Ambiental, sendo pago de uma única vez pelo IMT, I. P., que o operacionaliza, verificando que os veículos para os quais é solicitado o apoio cumprem com os critérios de elegibilidade.
+
+###### Artigo 15.º — Condições gerais do pagamento
+
+1 - A atribuição do apoio depende da verificação da regularidade da situação contributiva e tributária dos beneficiários perante a segurança social e a AT.
+
+2 - A verificação da situação contributiva é realizada por recurso a webservice, entre o ISS, I. P., e o IMT, I. P.
+
+3 - A verificação da situação tributária é realizada através da plataforma de interoperabilidade da Administração Pública (iAP).
+
+### Capítulo V — DISPOSIÇÕES FINAIS
+
+###### Artigo 16.º — Financiamento
+
+A dotação orçamental disponível para os apoios referidos nos capítulos anteriores e para a majoração prevista no artigo 225.º da Lei n.º 73-A/2025, de 30 de dezembro, é definida por despacho dos membros do Governo responsáveis pelas áreas das finanças, da energia e da agricultura e mar, conforme aplicável.
+
+###### Artigo 17.º — Recuperação de pagamentos indevidos
+
+1 - Em caso de pagamento indevido, a AT, o IFAP, I. P., ou o Fundo Ambiental, conforme aplicável, promovem a respetiva recuperação, mediante notificação para reembolso voluntário, ou coercivamente, através de processo de execução fiscal, caso o interessado não devolva as ajudas indevidamente recebidas no prazo de 30 dias a contar daquela notificação.
+
+2 - Relativamente aos valores a reembolsar nos termos do número anterior incidem juros legais, calculados à taxa legal em vigor, sobre o montante indevido, contados desde o termo do prazo fixado na notificação para reembolso voluntário das ajudas indevidamente recebidas até ao seu efetivo e integral reembolso.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de março de 2026. - Luís Montenegro - Joaquim Miranda Sarmento - Manuel Castro Almeida - Miguel Martinez de Castro Pinto Luz - Paulo Jorge Simões Ribeiro - João Manuel do Amaral Esteves - José Manuel Fernandes.
+
+Promulgado em 30 de março de 2026.
+
+Publique-se.
+
+O Presidente da República, António José Martins Seguro.
+
+Referendado em 31 de março de 2026.
+
+O Primeiro-Ministro, Luís Montenegro.

@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176800371:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-176811871",
+ "dre_path": "/dr/detalhe/decreto-lei/122-2021-176800371",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176830279",
+    "176830280",
+    "176830281",
+    "176830282",
+    "176830283",
+    "176830284",
+    "176830285",
+    "176830286",
+    "176830287",
+    "176830288",
+    "176830289",
+    "176830290",
+    "176830291",
+    "176830292",
+    "176830293",
+    "176830294",
+    "176830295",
+    "176830296",
+    "176830297",
+    "176830298",
+    "176830299",
+    "176830300",
+    "176830301",
+    "176830302",
+    "176830303",
+    "176830304"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "176830279",
+    "176830280",
+    "176830281",
+    "176830282",
+    "176830283",
+    "176830284",
+    "176830285",
+    "213918867",
+    "213918868",
+    "176830288",
+    "176830289",
+    "176830290",
+    "176830291",
+    "176830292",
+    "176830293",
+    "176830294",
+    "176830295",
+    "176830296",
+    "176830297",
+    "176830298",
+    "214172729",
+    "176830300",
+    "176830301",
+    "176830302",
+    "176830303",
+    "176830304",
+    "176830305"
+   ]
+  }
+ ],
+ "fragments": {
+  "176830279": {
+   "fragment_id": "176811872",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 122/2021\n\nde 30 de dezembro\n\nSumário: Aprova a orgânica do Gabinete Nacional SIRENE.\n\nA abolição do controlo das fronteiras internas entre Estados, decorrente do Acordo de Schengen e da sua Convenção de Aplicação, de 14 de junho de 1985, exigiu a aplicação de um conjunto de medidas compensatórias, as quais assumiram papel preponderante através do Sistema de Informação de Schengen (SIS), um sistema centralizado de informações de larga escala, operacional em 30 países europeus, 26 dos quais Estados-Membros da União Europeia.\n\nO SIS sofreu diferentes alterações ao longo dos anos. As principais evoluções, nomeadamente o «SIS 1+» e o «SISone4all», permitiram a conexão de novos Estados-Membros ao espaço Schengen e uma melhoria do seu desempenho técnico.\n\nO SIS de segunda geração (SIS II) entrou em funcionamento em 9 de abril de 2013, incluindo novas funções e categorias de objetos, como a utilização de dados biométricos para confirmação de identidade, novas categorias de indicações de objetos, a possibilidade de interrogar o sistema central e a utilização de dados suplementares para tratar de casos de usurpação de identidade.\n\nO funcionamento e a utilização do SIS II encontram-se estabelecidos em dois instrumentos fundamentais: o Regulamento (CE) n.º 1987/2006, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, relativo ao estabelecimento, ao funcionamento e à utilização do SIS de segunda geração - respeitante à utilização do SIS no controlo de nacionais de países terceiros que não preencham as condições de entrada ou permanência no Espaço Schengen - e a Decisão 2007/533/JAI, do Conselho, de 12 de junho de 2007, relativa ao estabelecimento, ao funcionamento e à utilização do SIS II, respeitante à utilização do SIS para fins de cooperação policial e judiciária em matéria penal, designados de «instrumentos jurídicos SIS II». Esses instrumentos serão substituídos gradualmente pelos novos Regulamentos (UE) 2018/1860, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, relativo à utilização do SIS para efeitos de regresso dos nacionais de países terceiros em situação irregular, (UE) 2018/1861, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, relativo ao estabelecimento, ao funcionamento e à utilização do SIS no domínio dos controlos de fronteira, e que altera a Convenção de Aplicação do Acordo de Schengen, e (UE) 2018/1862, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, relativo ao estabelecimento, ao funcionamento e à utilização do SIS no domínio da cooperação policial e da cooperação judiciária em matéria penal, os quais entrarão plenamente em vigor em data a fixar por decisão da Comissão até 28 de dezembro de 2021, à luz dos novos desafios das migrações e da segurança.\n\nCada Estado-Membro possui um Sistema Nacional (N.SIS), constituído pelos sistemas de dados nacionais que comunicam com o SIS central.\n\nPara que cada N.SIS possa satisfazer as necessidades e as exigências de funcionamento impostas pela Convenção de Aplicação do Acordo de Schengen e demais instrumentos jurídicos, cada Estado-Membro tem de designar uma autoridade que assegura o intercâmbio e a disponibilidade de informações suplementares, designado por «Supplementary Information Request at the National Entries» (SIRENE).\n\nNeste sentido, Portugal dispõe de um Gabinete Nacional SIRENE, criado pelo Decreto-Lei n.º 292/94, de 16 de novembro, que funcionava inicialmente na dependência do membro do Governo responsável pela área da administração interna.\n\nNo âmbito do Programa de Reestruturação da Administração Central do Estado, o Decreto-Lei n.º 203/2006, de 27 de outubro, na sua redação atual, aprovou uma nova lei orgânica do Ministério da Administração Interna, resultando do n.º 4 do seu artigo 16.º que o Gabinete Nacional SIRENE fosse então integrado no Gabinete Coordenador de Segurança, no âmbito da Presidência do Conselho de Ministros.\n\nCom a publicação da Lei n.º 53/2008, de 29 de agosto, na sua redação atual, designada Lei de Segurança Interna, nos termos do n.º 8 do seu artigo 21.º, o Gabinete Nacional SIRENE mantém a sua integração no Gabinete Coordenador de Segurança.\n\nAtravés das alterações introduzidas à Lei de Segurança Interna pelo Decreto-Lei n.º 49/2017, de 24 de maio, e pela Lei n.º 21/2019, de 25 de fevereiro, veio o artigo 23.º-A instituir o Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI) que reúne, sob a mesma gestão, o Gabinete Nacional SIRENE, o Gabinete Nacional da Interpol, a Unidade Nacional da Europol, a coordenação dos oficiais de ligação nacionais e estrangeiros, a coordenação dos Centros de Cooperação Policial e Aduaneira, os pontos de contacto decorrentes das Decisões Prüm e o Gabinete de Informações de Passageiros.\n\nO Gabinete Nacional SIRENE assegura a ligação com os restantes Gabinetes SIRENE e funciona de forma permanente e ininterrupta, tal como o PUC-CPI.\n\nA ambiguidade que resulta da integração do Gabinete Nacional SIRENE no Gabinete Coordenador de Segurança há muito que revelou não ser a solução mais adequada. Na verdade, tratando-se o Gabinete Nacional SIRENE de uma estrutura operacional de intercâmbio de informações em sede de cooperação policial internacional, apresenta identidade funcional com o PUC-CPI e não com o Gabinete Coordenador de Segurança, considerando que este se constitui como um órgão especializado de assessoria e consulta.\n\nO progressivo desenvolvimento do SIS, enquanto maior e mais amplamente utilizado instrumento de partilha de informação de apoio à cooperação entre os Estado-Membros do Acordo de Schengen em matéria de controlo das fronteiras externas e de aplicação da lei, as exigências resultantes dos instrumentos da União Europeia, nomeadamente a criação de um ponto único de contacto (Single Point of Contact - SPOC) para o intercâmbio internacional de informação entre os serviços de polícia, e a constituição do PUC-CPI, identificam a necessidade de clarificação da inserção orgânica e estrutura funcional do Gabinete Nacional SIRENE, e a consequente alteração do seu regime legal, em vigor há mais de duas décadas.\n\nImpondo-se garantir coerência na prossecução da cooperação internacional, ponderado o disposto no n.º 6 do artigo 23.º-A da Lei de Segurança Interna, na sua redação atual, importa agora que o Gabinete Nacional SIRENE seja efetivamente integrado no PUC-CPI, que passa, assim, a observar efetivas competências funcionais e de direção. Com efeito, este possui conhecimento e capacidade bastantes para garantir o nível de cooperação internacional exigida e disponibilizar os recursos humanos e as tecnologias de informação necessários para assegurar o seu desenvolvimento, funcionamento e manutenção, que garantam a qualidade do seu produto operacional, a par da racionalização, baseadas na obtenção de sinergias, com redução de recursos humanos e materiais, em ganhos de eficiência e de eficácia.\n\nPara o efeito, o coordenador do Gabinete de Gestão responsável pela unidade orgânica do Gabinete Nacional SIRENE do PUC-CPI e o coordenador do Gabinete Nacional SIRENE passam a ser a mesma pessoa; os elementos que asseguram o funcionamento do Gabinete Nacional SIRENE passam a integrar o PUC-CPI, assim como os serviços jurídicos, de tradução e de secretariado, que, para o efeito, são integrados nos Serviços de Apoio do PUC-CPI.\n\nConcomitantemente, e no que concerne ao N.SIS, acolhendo um conceito de segurança interna de âmbito mais alargado, quer no seu campo de ação, quer quanto às entidades que nele intervêm, consagram-se agora, como entidades utilizadoras do SIS, as autoridades judiciárias competentes, a Polícia Marítima, a Autoridade Nacional da Aviação Civil e o Instituto da Mobilidade e dos Transportes, I. P., face às respetivas competências e em conformidade com os respetivos instrumentos jurídicos.\n\nFoi ouvida a Comissão Nacional de Proteção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "176830280": {
+   "fragment_id": "176811873",
+   "type": 1,
+   "heading": "Capítulo I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposição geral"
+  },
+  "176830281": {
+   "fragment_id": "176811874",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei:\n\na) Aprova a orgânica do Gabinete Nacional responsável pelo Supplementary Information Request at the National Entries (SIRENE), adiante designado por Gabinete Nacional SIRENE;\n\nb) Procede à primeira alteração ao Decreto-Lei n.º 10/2020, de 11 de março, que estabelece a orgânica do Ponto Único de Contacto para a Cooperação Policial Internacional (PUC-CPI)."
+  },
+  "176830282": {
+   "fragment_id": "176874075",
+   "type": 1,
+   "heading": "Capítulo II — Gabinete Nacional SIRENE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gabinete Nacional SIRENE"
+  },
+  "176830283": {
+   "fragment_id": "176874076",
+   "type": 11,
+   "heading": "Artigo 2.º — Enquadramento e missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Enquadramento e missão\n\n1 - O Gabinete Nacional SIRENE integra-se e é instalado no PUC-CPI, nos termos e para os efeitos do n.º 6 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n2 - O Gabinete Nacional SIRENE é a estrutura responsável pelo intercâmbio de informações suplementares relacionadas com indicações relativas ao Sistema de Informação de Schengen (SIS) no âmbito do Acordo de Schengen, sua Convenção de Aplicação, SIS e subsequentes instrumentos jurídicos."
+  },
+  "176830284": {
+   "fragment_id": "176874077",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\n1 - São atribuições do Gabinete Nacional SIRENE as que decorrem do acervo Schengen relativo ao estabelecimento, ao funcionamento e à utilização do SIS, e subsequentes instrumentos jurídicos, designadamente:\n\na) Inserir, modificar, completar, retificar ou eliminar indicações no SIS, mediante instrução, requisição ou delegação das autoridades judiciais e administrativas ou a pedido de forças e serviços de segurança, após verificação da sua conformidade com a lei;\n\nb) Assegurar o intercâmbio das informações suplementares;\n\nc) Consultar ou informar outros Estados-Membros aquando da introdução de uma indicação;\n\nd) Adotar medidas adequadas após deteção de indicação ou de resposta positiva;\n\ne) Adotar medidas adequadas caso não ocorra nenhuma das situações previstas na alínea anterior;\n\nf) Verificar a qualidade dos dados do SIS inseridos;\n\ng) Criar mecanismos que assegurem a qualidade da informação introduzida no sistema;\n\nh) Verificar a compatibilidade e a prioridade das indicações, nomeadamente quando existam indicações múltiplas;\n\ni) Garantir o exercício dos direitos de acesso, retificação e apagamento de dados por pessoas singulares em relação aos dados pessoais tratados no SIS;\n\nj) Assegurar o cumprimento do período de conservação de cada indicação e a sua respetiva supressão.\n\n2 - Para efeitos do presente decreto-lei, consideram-se «indicações» o conjunto de dados introduzidos no SIS que permitam que as autoridades competentes procedam à identificação de pessoas ou de objetos, com vista à tomada de medidas específicas."
+  },
+  "176830285": {
+   "fragment_id": "176874078",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição e funcionamento\n\n1 - A estrutura do Gabinete Nacional SIRENE compreende:\n\na) O coordenador;\n\nb) O coordenador adjunto;\n\nc) O serviço operativo.\n\n2 - O funcionamento ininterrupto do Gabinete Nacional SIRENE é assegurado em regime de turnos nos termos do disposto do n.º 7 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual, por elementos das entidades referidas no n.º 2 do artigo seguinte.\n\n3 - O Gabinete Nacional SIRENE garante a ligação aos restantes gabinetes SIRENE, assegurando o intercâmbio de informações suplementares."
+  },
+  "176830286": {
+   "fragment_id": "176874079",
+   "type": 11,
+   "heading": "Artigo 5.º — Coordenador e coordenador adjunto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Coordenador e coordenador adjunto\n\n1 - O coordenador do Gabinete de Gestão responsável pela unidade orgânica do Gabinete SIRENE (Gabinete Nacional SIRENE) do PUC-CPI é o coordenador do Gabinete Nacional SIRENE, nos termos e para os efeitos do disposto nos n.os 4 a 6 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual, no n.º 4 do artigo 2.º e nos n.os 1 a 3 do artigo 3.º do Decreto-Lei n.º 10/2020, de 11 de março.\n\n2 - O coordenador do Gabinete Nacional SIRENE é responsável pela sua organização e funcionamento, competindo-lhe:\n\na) A gestão das indicações no que respeita à sua análise e validação, à qualidade dos dados inseridos e ao cumprimento dos seus períodos de conservação;\n\nb) A gestão de informação suplementar que deva ser trocada com os demais Gabinetes SIRENE;\n\nc) Garantir a realização de consultas com os demais Gabinetes SIRENE;\n\nd) Assegurar a ligação com os chefes dos demais Gabinetes SIRENE;\n\ne) A coordenação operativa das entidades que solicitam a inserção de indicações;\n\nf) Garantir a atualização da organização e dos procedimentos em conformidade com as disposições legais que vinculem o Estado Português;\n\ng) Coordenar a atividade dos elementos que asseguram o funcionamento do Gabinete Nacional SIRENE;\n\nh) Garantir o processamento dos pedidos de acesso, retificação e apagamento de dados por pessoas singulares em relação aos dados pessoais tratados no SIS, no âmbito do exercício de direitos.\n\n3 - O coordenador adjunto do Gabinete Nacional SIRENE, cargo de direção intermédia de 2.º grau, é nomeado por despacho dos membros do Governo responsáveis pelas áreas da administração interna e da justiça, sob proposta do Secretário-Geral do Sistema de Segurança Interna, de entre elementos da Guarda Nacional Republicana (GNR), da Polícia de Segurança Pública (PSP), da Polícia Judiciária (PJ) e do Serviço de Estrangeiros e Fronteiras (SEF), e exerce funções em comissão de serviço pelo período de três anos, nos termos dos n.os 4 e 5 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n4 - O coordenador-adjunto coadjuva o coordenador do Gabinete Nacional SIRENE e substitui-o nas suas ausências e impedimentos, relativamente às matérias do Gabinete."
+  },
+  "176830287": {
+   "fragment_id": "176874080",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviço operativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Serviço operativo\n\n1 - O serviço operativo é assegurado por elementos da GNR, da PSP, da PJ e do SEF, nos termos do n.º 2 do artigo 4.º e do n.º 2 do artigo 5.º, nomeados em comissão de serviço no PUC-CPI, em conformidade com os n.os 1, 2, 5 e 6 do artigo 5.º do Decreto-Lei n.º 10/2020, de 11 de março.\n\n2 - Compete essencialmente ao serviço operativo:\n\na) Criar, inserir, modificar, atualizar e eliminar indicações no SIS;\n\nb) Transmitir informações suplementares relativas a indicações inseridas no SIS;\n\nc) Consultar ou informar outros Gabinetes SIRENE aquando da introdução de uma indicação, sempre que necessário;\n\nd) Efetuar os contactos com os demais Gabinetes SIRENE;\n\ne) Adotar medidas adequadas após deteção de indicação ou de resposta positiva;\n\nf) Adotar medidas adequadas caso não ocorra nenhuma das situações previstas na alínea anterior;\n\ng) Verificar a qualidade dos dados do SIS inseridos;\n\nh) Verificar a compatibilidade e a ordem de prioridade das indicações, nomeadamente quando existam indicações múltiplas;\n\ni) Executar as tarefas relativas aos casos de intervenção principal e complementar, próprias dos Gabinetes SIRENE;\n\nj) Assegurar os demais procedimentos, em conformidade com as disposições legais que vinculem o Estado Português, e ações conexas com a operacionalização do SIS.\n\n3 - Os elementos do serviço operativo devem possuir as qualificações adequadas ao exercício das competências, funções e tarefas inerentes ao funcionamento e às atribuições do Gabinete Nacional SIRENE.\n\n4 - Para fazer face a situações de urgência que requeiram ação imediata, os elementos do serviço operativo, no exercício das suas competências, têm acesso direto a todas as informações, incluindo às bases de dados e sistemas de informação nacionais, e a todas as informações sobre as indicações introduzidas por Portugal, segundo o princípio da necessidade de conhecer, sendo para o efeito definidas, mediante portaria a aprovar pelo membro do Governo responsável pela área respetiva da base de dados a aceder, elaborada em conjunto com o Secretário-Geral do Sistema de Segurança Interna, as medidas técnicas de salvaguarda que limitem este acesso ao estritamente necessário e justificado."
+  },
+  "176830288": {
+   "fragment_id": "176874081",
+   "type": 11,
+   "heading": "Artigo 7.º — Serviços de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Serviços de apoio\n\nOs serviços de apoio do Gabinete Nacional SIRENE encontram-se previstos no artigo 4.º do Decreto-Lei n.º 10/2020, de 11 de março."
+  },
+  "176830289": {
+   "fragment_id": "176874082",
+   "type": 11,
+   "heading": "Artigo 8.º — Pessoal e encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pessoal e encargos\n\n1 - Os elementos que desempenhem funções no Gabinete Nacional SIRENE, assim como os encargos daí resultantes, regem-se pelo disposto no artigo 5.º do Decreto-Lei n.º 10/2020, de 11 de março.\n\n2 - O coordenador adjunto do Gabinete Nacional SIRENE pode optar pela remuneração-base devida na situação jurídico-funcional de origem, sendo os encargos com a remuneração suportados pela força ou serviço de segurança de origem até ao limite que ali auferia, sendo o eventual remanescente suportado pelo Gabinete do Secretário-Geral do Sistema de Segurança Interna."
+  },
+  "176830290": {
+   "fragment_id": "176874083",
+   "type": 11,
+   "heading": "Artigo 9.º — Magistrado do Ministério Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Magistrado do Ministério Público\n\nO controlo da legalidade e a validação de atos que exijam a intervenção do Ministério Público são assegurados pelo ponto de contacto a que se refere o n.º 10 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual."
+  },
+  "176830291": {
+   "fragment_id": "176874084",
+   "type": 11,
+   "heading": "Artigo 10.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Dever de sigilo\n\nAos elementos que desempenham funções no Gabinete Nacional SIRENE aplica-se o disposto no artigo 6.º do Decreto-Lei n.º 10/2020, de 11 de março."
+  },
+  "176830292": {
+   "fragment_id": "176874085",
+   "type": 11,
+   "heading": "Artigo 11.º — Proteção de dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Proteção de dados pessoais\n\nAo tratamento de dados pessoais nos termos do presente decreto-lei, em tudo o que não estiver especificamente previsto nos instrumentos jurídicos de Schengen, aplica-se, em conformidade com o respetivo âmbito de aplicação, o Regulamento (UE) 2016/679, do Parlamento e do Conselho, de 27 de abril de 2016, as Leis n.os 58/2019, de 8 de agosto, e 59/2019, de 8 de agosto."
+  },
+  "176830293": {
+   "fragment_id": "176874086",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo do tratamento de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo do tratamento de dados\n\n1 - O Gabinete Nacional SIRENE conserva a documentação relativa à sua atividade e procedimentos de tratamento de dados sob a sua responsabilidade.\n\n2 - O Gabinete Nacional SIRENE disponibiliza a documentação referida no número anterior à autoridade de controlo, a pedido desta.\n\n3 - O Gabinete Nacional SIRENE adota e aplica as medidas técnicas e de organização, e os procedimentos adequados, para garantir um elevado nível de segurança, adaptado aos riscos que o tratamento representa e à natureza dos dados."
+  },
+  "176830294": {
+   "fragment_id": "176874087",
+   "type": 11,
+   "heading": "Artigo 13.º — Autoridade de controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Autoridade de controlo\n\nA fiscalização da aplicação do presente decreto-lei compete à Comissão Nacional de Proteção de Dados enquanto autoridade de controlo a que se referem as Leis n.os 58/2019, de 8 de agosto, e 59/2019, de 8 de agosto."
+  },
+  "176830295": {
+   "fragment_id": "176874088",
+   "type": 11,
+   "heading": "Artigo 14.º — Responsável pelo tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Responsável pelo tratamento\n\nO coordenador do Gabinete Nacional SIRENE é o responsável pelo tratamento de dados pessoais efetuado pelo Gabinete Nacional SIRENE no âmbito da gestão das indicações criadas por Portugal e no âmbito do intercâmbio de informações suplementares."
+  },
+  "176830296": {
+   "fragment_id": "176874089",
+   "type": 11,
+   "heading": "Artigo 15.º — Encarregado de proteção de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Encarregado de proteção de dados\n\n1 - O coordenador do Gabinete Nacional SIRENE designa um encarregado de proteção de dados incumbido de assistir o responsável pelo tratamento no cumprimento das obrigações legais em matéria de proteção de dados pessoais.\n\n2 - À designação, cargo e funções do encarregado de proteção de dados são aplicáveis as disposições conjugadas do Regulamento (UE) 2016/679, do Parlamento Europeu e do Conselho, de 27 de abril de 2016, e das Leis n.os 58/2019, de 8 de agosto, e 59/2019, de 8 de agosto.\n\n3 - O encarregado de proteção de dados é o ponto de contacto único dos titulares dos dados, os quais têm o direito de o contactar para todos os assuntos respeitantes ao tratamento de dados.\n\n4 - O encarregado de proteção de dados tem acesso a todos os dados tratados pelo Gabinete Nacional SIRENE, remetendo o caso para a autoridade de controlo quando considerar que o tratamento de dados não foi efetuado em conformidade com a lei."
+  },
+  "176830297": {
+   "fragment_id": "176874090",
+   "type": 11,
+   "heading": "Artigo 16.º — Regulamento interno",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Regulamento interno\n\nAo Gabinete Nacional SIRENE é aplicável o Regulamento interno previsto no n.º 6 do artigo 2.º do Decreto-Lei n.º 10/2020, de 11 de março."
+  },
+  "176830298": {
+   "fragment_id": "176874091",
+   "type": 1,
+   "heading": "Capítulo III — Sistema de Informação de Schengen e Sistema Nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Sistema de Informação de Schengen e Sistema Nacional"
+  },
+  "176830299": {
+   "fragment_id": "176874092",
+   "type": 11,
+   "heading": "Artigo 17.º — Autoridades com direito de acesso aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Autoridades com direito de acesso aos dados\n\n1 - Dispõem de acesso aos dados introduzidos no SIS, bem como direito a consultá-los, as autoridades que, para o efeito, são indicadas pelo Estado Português:\n\na) A GNR;\n\nb) A PSP;\n\nc) A PJ;\n\nd) O SEF;\n\ne) A Polícia Marítima;\n\nf) A Autoridade Nacional da Aviação Civil;\n\ng) A Autoridade Tributária e Aduaneira;\n\nh) O Instituto da Mobilidade e dos Transportes, I. P.;\n\ni) A Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas;\n\nj) As autoridades judiciárias competentes, concretamente magistrados do Ministério Público e juízes de instrução criminal.\n\n2 - As autoridades referidas no número anterior dispõem do direito de acesso no estrito cumprimento das respetivas atribuições legais e para os fins de acesso previstos nos Regulamentos (UE) 2018/1860, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, 2018/1861, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, 2018/1862, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, e Regulamento (CE) n.º 1986/2006, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006.\n\n3 - Anualmente é comunicada à Agência Europeia para a Gestão Operacional de Sistemas Informáticos de Grande Escala no Espaço de Liberdade, Segurança e Justiça (eu-LISA) a lista das autoridades competentes que estão autorizadas a consultar diretamente os dados no SIS, especificando, para cada autoridade, os dados que pode consultar e para que finalidades."
+  },
+  "176830300": {
+   "fragment_id": "176874093",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições complementares, transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições complementares, transitórias e finais"
+  },
+  "176830301": {
+   "fragment_id": "176874094",
+   "type": 11,
+   "heading": "Artigo 18.º — Alteração ao Decreto-Lei n.º 10/2020, de 11 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alteração ao Decreto-Lei n.º 10/2020, de 11 de março\n\nO artigo 2.º do Decreto-Lei n.º 10/2020, de 11 de março, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...]:\n\na) Gabinete SIRENE (Gabinete Nacional SIRENE);\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...].\n\n5 - [...].\n\n6 - [...].»"
+  },
+  "176830302": {
+   "fragment_id": "176874095",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições transitórias\n\n1 - O coordenador, os coordenadores adjuntos em funções no Gabinete Nacional SIRENE e o coordenador do Gabinete de Gestão responsável pela unidade orgânica do Gabinete Nacional SIRENE do PUC-CPI cessam as respetivas comissões de serviço nos 15 dias após a entrada em vigor do presente decreto-lei.\n\n2 - Mediante despacho do Secretário-Geral do Sistema de Segurança Interna os elementos do serviço operativo que à data de entrada em vigor do presente decreto-lei exerçam funções no Gabinete Nacional SIRENE, transitam para a situação de comissão de serviço prevista no artigo 9.º, e são integrados no PUC-CPI, sem prejuízo de oposição expressa do interessado ou do dirigente máximo da respetiva entidade, a comunicar no prazo de 10 dias.\n\n3 - Mediante despacho do Secretário-Geral do Sistema de Segurança Interna os elementos afetos aos serviços jurídico, de tradução e de secretariado referidos nos artigos 10.º, 11.º e 12.º do Decreto-Lei n.º 292/94, de 16 de novembro, que à data de entrada em vigor do presente decreto-lei exerçam funções no Gabinete Nacional SIRENE, transitam para a situação de comissão de serviço prevista no artigo 9.º e são integrados nos serviços de apoio do PUC-CPI, sem prejuízo de oposição expressa do interessado ou do dirigente máximo da respetiva entidade, a comunicar no prazo de 10 dias.\n\n4 - A aplicação do disposto no artigo 17.º depende da revisão do Regulamento interno, previsto no n.º 6 do artigo 2.º do Decreto-Lei n.º 10/2020, de 11 de março, a efetuar no prazo máximo de 30 dias a partir da data de entrada em vigor do presente decreto-lei."
+  },
+  "176830303": {
+   "fragment_id": "176874096",
+   "type": 11,
+   "heading": "Artigo 20.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Norma revogatória\n\nSão revogados:\n\na) O n.º 8 do artigo 21.º da Lei n.º 53/2008, de 29 de agosto, na sua redação atual;\n\nb) O Decreto-Lei n.º 292/94, de 16 de novembro."
+  },
+  "176830304": {
+   "fragment_id": "176874097",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "213918867": {
+   "fragment_id": "176874079",
+   "type": 11,
+   "heading": "Artigo 5.º — Coordenador e coordenador adjunto",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 5.º — Coordenador e coordenador adjunto\n\n1 - O coordenador do Gabinete de Gestão responsável pela unidade orgânica do Gabinete SIRENE (Gabinete Nacional SIRENE) do PUC-CPI é o coordenador do Gabinete Nacional SIRENE, nos termos e para os efeitos do disposto nos n.os 4 a 6 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual, no n.º 4 do artigo 2.º e nos n.os 1 a 3 do artigo 3.º do Decreto-Lei n.º 10/2020, de 11 de março.\n\n2 - O coordenador do Gabinete Nacional SIRENE é responsável pela sua organização e funcionamento, competindo-lhe:\n\na) A gestão das indicações no que respeita à sua análise e validação, à qualidade dos dados inseridos e ao cumprimento dos seus períodos de conservação;\n\nb) A gestão de informação suplementar que deva ser trocada com os demais Gabinetes SIRENE;\n\nc) Garantir a realização de consultas com os demais Gabinetes SIRENE;\n\nd) Assegurar a ligação com os chefes dos demais Gabinetes SIRENE;\n\ne) A coordenação operativa das entidades que solicitam a inserção de indicações;\n\nf) Garantir a atualização da organização e dos procedimentos em conformidade com as disposições legais que vinculem o Estado Português;\n\ng) Coordenar a atividade dos elementos que asseguram o funcionamento do Gabinete Nacional SIRENE;\n\nh) Garantir o processamento dos pedidos de acesso, retificação e apagamento de dados por pessoas singulares em relação aos dados pessoais tratados no SIS, no âmbito do exercício de direitos.\n\n3 - O coordenador adjunto do Gabinete Nacional SIRENE, cargo de direção intermédia de 2.º grau, é nomeado por despacho do Secretário-Geral do Sistema de Segurança Interna, sob proposta dos dirigentes máximos das respetivas forças e serviços de origem, de entre elementos da Guarda Nacional Republicana (GNR), da Polícia de Segurança Pública (PSP) e da Polícia Judiciária (PJ), e exerce funções em comissão de serviço pelo período de três anos, renovável, nos termos dos n.os 4 e 5 do artigo 23.º-A da Lei n.º 53/2008, de 29 de agosto, na sua redação atual.\n\n4 - O coordenador-adjunto coadjuva o coordenador do Gabinete Nacional SIRENE e substitui-o nas suas ausências e impedimentos, relativamente às matérias do Gabinete.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213918868": {
+   "fragment_id": "176874080",
+   "type": 11,
+   "heading": "Artigo 6.º — Serviço operativo",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 6.º — Serviço operativo\n\n1 - O serviço operativo é assegurado por elementos da GNR, da PSP e da PJ, nos termos do n.º 2 do artigo 4.º e do n.º 2 do artigo 5.º, nomeados em comissão de serviço no PUC-CPI, em conformidade com os n.os 1, 2, 5 e 6 do artigo 5.º do Decreto-Lei n.º 10/2020, de 11 de março.\n\n2 - Compete essencialmente ao serviço operativo:\n\na) Criar, inserir, modificar, atualizar e eliminar indicações no SIS;\n\nb) Transmitir informações suplementares relativas a indicações inseridas no SIS;\n\nc) Consultar ou informar outros Gabinetes SIRENE aquando da introdução de uma indicação, sempre que necessário;\n\nd) Efetuar os contactos com os demais Gabinetes SIRENE;\n\ne) Adotar medidas adequadas após deteção de indicação ou de resposta positiva;\n\nf) Adotar medidas adequadas caso não ocorra nenhuma das situações previstas na alínea anterior;\n\ng) Verificar a qualidade dos dados do SIS inseridos;\n\nh) Verificar a compatibilidade e a ordem de prioridade das indicações, nomeadamente quando existam indicações múltiplas;\n\ni) Executar as tarefas relativas aos casos de intervenção principal e complementar, próprias dos Gabinetes SIRENE;\n\nj) Assegurar os demais procedimentos, em conformidade com as disposições legais que vinculem o Estado Português, e ações conexas com a operacionalização do SIS.\n\n3 - Os elementos do serviço operativo devem possuir as qualificações adequadas ao exercício das competências, funções e tarefas inerentes ao funcionamento e às atribuições do Gabinete Nacional SIRENE.\n\n4 - Para fazer face a situações de urgência que requeiram ação imediata, os elementos do serviço operativo, no exercício das suas competências, têm acesso direto a todas as informações, incluindo às bases de dados e sistemas de informação nacionais, e a todas as informações sobre as indicações introduzidas por Portugal, segundo o princípio da necessidade de conhecer, sendo para o efeito definidas, mediante portaria a aprovar pelo membro do Governo responsável pela área respetiva da base de dados a aceder, elaborada em conjunto com o Secretário-Geral do Sistema de Segurança Interna, as medidas técnicas de salvaguarda que limitem este acesso ao estritamente necessário e justificado.\n\n> Alterado pelo/a Artigo 43.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "214172729": {
+   "fragment_id": "176874092",
+   "type": 11,
+   "heading": "Artigo 17.º — Autoridades com direito de acesso aos dados",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 17.º — Autoridades com direito de acesso aos dados\n\n1 - Dispõem de acesso aos dados introduzidos no SIS, bem como direito a consultá-los, as autoridades que, para o efeito, são indicadas pelo Estado Português:\n\na) A GNR;\n\nb) A PSP;\n\nc) A PJ;\n\nd) (Revogada);\n\ne) A Polícia Marítima;\n\nf) A Autoridade Nacional da Aviação Civil;\n\ng) A Autoridade Tributária e Aduaneira;\n\nh) O Instituto da Mobilidade e dos Transportes, I. P.;\n\ni) A Direção-Geral dos Assuntos Consulares e Comunidades Portuguesas;\n\nj) As autoridades judiciárias competentes, concretamente magistrados do Ministério Público e juízes de instrução criminal.\n\n2 - As autoridades referidas no número anterior dispõem do direito de acesso no estrito cumprimento das respetivas atribuições legais e para os fins de acesso previstos nos Regulamentos (UE) 2018/1860, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, 2018/1861, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, 2018/1862, do Parlamento Europeu e do Conselho, de 28 de novembro de 2018, e Regulamento (CE) n.º 1986/2006, do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006.\n\n3 - Anualmente é comunicada à Agência Europeia para a Gestão Operacional de Sistemas Informáticos de Grande Escala no Espaço de Liberdade, Segurança e Justiça (eu-LISA) a lista das autoridades competentes que estão autorizadas a consultar diretamente os dados no SIS, especificando, para cada autoridade, os dados que pode consultar e para que finalidades.\n\n> Alterado pelo/a Artigo 48.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "176830305": {
+   "fragment_id": "176874098",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de novembro de 2021. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - João Rodrigo Reis Carvalho Leão - João Titterington Gomes Cravinho - Eduardo Arménio do Nascimento Cabrita - Francisca Eugénia da Silva Dias Van Dunem - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 23 de dezembro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de dezembro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114851994"
+  }
+ }
+}

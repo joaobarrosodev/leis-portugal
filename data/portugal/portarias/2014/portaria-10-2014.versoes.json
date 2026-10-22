@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:571019:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-212268058",
+ "dre_path": "/dr/detalhe/portaria/10-2014-571019",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-01-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212123861",
+    "212123862",
+    "212123863",
+    "212123864",
+    "212123865",
+    "212123866",
+    "212123867"
+   ]
+  },
+  {
+   "date": "2023-04-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:212243410:por",
+     "title": "Portaria n.º 111/2023",
+     "published": "2023-04-26",
+     "dre_path": "/dr/detalhe/portaria/111-2023-212243410"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "212123861",
+    "212123869",
+    "212123863",
+    "212123864",
+    "212123865",
+    "212123866",
+    "212123867",
+    "212123868"
+   ]
+  }
+ ],
+ "fragments": {
+  "212123861": {
+   "fragment_id": "212268059",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 10/2014\n\nde 17 de janeiro\n\nOs serviços de piquete e de unidades de prevenção visam assegurar a prossecução das atribuições da Polícia Judiciária em regime de permanência.\n\nOs montantes da retribuição destas formas específicas de prestação de trabalho foram fixados, pela última vez, em 1997, sob a forma de percentagens do índice 100 da escala salarial do pessoal de investigação criminal, definindo-se, na mesma portaria, o regime retributivo do trabalho por turnos em vigor na Polícia Judiciária.\n\nO incremento do nível qualitativo da criminalidade tem correspondentemente gerado um aumento das exigências da prestação de trabalho naquelas modalidades, sendo certo que o combate às modernas formas de criminalidade, cada vez mais opacas e imunes a tradicionais formas de investigação, não se compaginam, também hoje, com a observância de horários normais de trabalho.\n\nEm Resolução do Conselho da Europa sobre a reclamação Coletiva n.º 60/2010 relativa à remuneração do trabalho do pessoal de investigação criminal da Polícia Judiciária foi considerado que o valor atualmente pago a estes profissionais em resultado do trabalho desenvolvidos em regime de piquete e prevenção ativa não garante a remuneração acrescida a que se refere o n.º 2 do artigo 4.º da Carta Social Europeia.\n\nImporta pois, por um lado, corrigir as percentagens antes estabelecidas, que sofreram, desde então, uma depreciação e, por outro, procurar uma aproximação efetiva às exigências da referida Resolução, designadamente no que ao cálculo e retribuição do valor hora diz respeito.\n\nDesta forma, nos termos do disposto nos n.os 3 e 4 do artigo 79.º do Decreto-Lei n.º 275-A/2000, de 9 de novembro, manda o Governo, pelas Ministras de Estado e das Finanças e da Justiça, o seguinte:"
+  },
+  "212123862": {
+   "fragment_id": "212268060",
+   "type": 11,
+   "heading": "Artigo 1.º — Suplemento de piquete",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Suplemento de piquete\n\n1 - O suplemento de piquete a que tem direito o pessoal da Polícia Judiciária é fixado em percentagens do índice 100 da escala salarial do pessoal de investigação criminal:\n\na) Dias úteis:\n\nCoordenadores de Investigação Criminal - 9,3 %;\n\nInspetores-chefe - 8,5 %;\n\nInspetores e outro pessoal - 8,3 %;\n\nb) Sábados, domingos e feriados:\n\nCoordenadores de Investigação Criminal - 11,6 %;\n\nInspetores-chefe - 10,7 %;\n\nInspetores e outro pessoal - 10,5 %.\n\n2 - Os montantes resultantes do cálculo das percentagens fixadas nos números anteriores são arredondados para as décimas de euros imediatamente superiores."
+  },
+  "212123863": {
+   "fragment_id": "212268061",
+   "type": 11,
+   "heading": "Artigo 2.º — Suplemento de prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Suplemento de prevenção\n\nO suplemento de prevenção é fixado em 40 % dos valores obtidos nos termos dos números anteriores."
+  },
+  "212123864": {
+   "fragment_id": "212268062",
+   "type": 11,
+   "heading": "Artigo 3.º — Remuneração do valor-hora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Remuneração do valor-hora\n\n1 - A prestação efetiva de trabalho por parte do pessoal que integra o serviço de unidades de prevenção é remunerada em função do valor-hora calculado de acordo com a fórmula seguinte:\n\nValor do correspondente suplemento de piquete/12\n\n2 - O valor da hora de trabalho prestado a partir das 24 horas sofre um acréscimo de 100 % relativamente ao fixado no número anterior.\n\n3 - Em caso algum o montante total auferido em função do disposto nos artigos 2.º a 4.º pode exceder o do correspondente suplemento de piquete.\n\n4 - O montante mensal dos pagamentos referidos nos números anteriores, auferido por qualquer trabalhador que integre o pessoal da Polícia Judiciária, não pode ultrapassar um terço da respetiva remuneração base."
+  },
+  "212123865": {
+   "fragment_id": "212268063",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de turnos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de turnos\n\nO pessoal da Polícia Judiciária que trabalha em regime de turnos tem direito a um suplemento correspondente a um acréscimo de remuneração calculado sobre a sua remuneração base, de acordo com as seguintes percentagens:\n\na) Regime de turnos permanente, parcial e total - respetivamente 22 % e 25 %;\n\nb) Regime de turnos semanal prolongado, parcial e total - respetivamente 20 % e 22 %;\n\nc) Regime de turnos semanal, parcial e total - respetivamente 15 % e 20 %."
+  },
+  "212123866": {
+   "fragment_id": "212268064",
+   "type": 11,
+   "heading": "Artigo 5.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Produção de efeitos\n\nOs valores ora fixados vigoram a partir do mês imediato ao da publicação da presente portaria."
+  },
+  "212123867": {
+   "fragment_id": "212268065",
+   "type": 11,
+   "heading": "Artigo 6.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Norma revogatória\n\nÉ revogada a Portaria n.º 98/97, de 13 de fevereiro."
+  },
+  "212123869": {
+   "fragment_id": "212268060",
+   "type": 11,
+   "heading": "Artigo 1.º — Suplemento de piquete",
+   "in_force_from": "2023-04-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2023 - Diário da República n.º 81/2023, Série I de 2023-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2023-212243410), em vigor a partir de 2023-04-27"
+   ],
+   "markdown": "###### Artigo 1.º — Suplemento de piquete\n\n1 - O suplemento de piquete a que tem direito o pessoal da Polícia Judiciária é fixado nas seguintes percentagens do nível remuneratório 19 da Tabela Remuneratória Única:\n\na) Dias úteis:\n\nCoordenadores de Investigação Criminal - 9,3 %;\n\nInspetores-chefe - 8,5 %;\n\nInspetores e outro pessoal - 8,3 %;\n\nb) Sábados, domingos e feriados:\n\nCoordenadores de Investigação Criminal - 11,6 %;\n\nInspetores-chefe - 10,7 %;\n\nInspetores e outro pessoal - 10,5 %.\n\n2 - Os montantes resultantes do cálculo das percentagens fixadas nos números anteriores são arredondados para as décimas de euros imediatamente superiores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 111/2023 - Diário da República n.º 81/2023, Série I de 2023-04-26](https://diariodarepublica.pt/dr/detalhe/portaria/111-2023-212243410), em vigor a partir de 2023-04-27"
+  },
+  "212123868": {
+   "fragment_id": "212268066",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra de Estado e das Finanças, Maria Luís Casanova Morgado Dias de Albuquerque, em 14 de janeiro de 2014. - A Ministra da Justiça, Paula Maria von Hafe Teixeira da Cruz, em 13 de janeiro de 2014."
+  }
+ }
+}

@@ -1,0 +1,175 @@
+---
+schema_version: '1.0'
+id: pt:dre:639888:por
+title: Despacho Normativo n.º 106/91
+short_title: null
+summary: Estabelece as normas a que deverão obedecer a autorização e o funcionamento das instalações adequadas à descarga,
+  recepção, guarda e armazenagem das mercadorias
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 106/91
+official_date: null
+publication_date: '1991-05-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/1991, Série I-B de 1991-05-20
+  number: '115'
+  series: I
+  supplement: null
+  pages: 2686 - 2688
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/05/115b00/26862688.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/106/1991/05/20/p/dre/pt/html
+  oj: null
+  dre: '639888'
+  dre_path: /dr/detalhe/despacho-normativo/106-1991-639888
+  internal: pt:dre:639888:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1991-639888
+  metadata_url: https://data.dre.pt/eli/despnorm/106/1991/05/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/106-1991-639888
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-05-20T00:00:00Z'
+integrity:
+  source_sha256: ee47bbc17828369b6bfb5adb8beae381356ebee0f3c1aba93d29cb9a9422257c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-106-639888.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alfândega
+- Armazenagem
+- Armazenagens de Depósito Provisório
+- Desalfândegamento
+- Circulação de Mercadorias
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/1991/01/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/1991/01/10/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 106/91
+
+O regime simplificado de desalfandegamento no domicílio, instituído pelo [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), de 10 de Janeiro, veio permitir o encaminhamento directo de carregamentos completos de mercadorias das fronteiras para as instalações dos importadores, medida que, a par da redução de custos e de uma acrescida celeridade na disponibilização das mercadorias, visa atenuar os inconvenientes decorrentes das carências em infra-estruturas vocacionadas para a recepção e armazenagem de mercadorias introduzidas no território nacional e os efeitos negativos que daí advêm para a fluidez do tráfego respectivo.
+
+Através da publicação do [Despacho Normativo n.º 29/90](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/29-1990-332268), deu-se um primeiro passo no sentido de debelar os inconvenientes apontados, actualizando-se os requisitos exigidos para a constituição de armazéns de depósito provisório privado, fomentando, assim, o encaminhamento dos fluxos de mercadorias para um leque mais diversificado de locais de desembaraço aduaneiro.
+
+Importa, agora, alargar aos importadores que pretendam beneficiar do regime simplificado de desalfandegamento no domicílio as vantagens das medidas acima referenciadas, adaptando-as às exigências e finalidades deste regime.
+
+Assim:
+
+Ao abrigo do disposto na alínea a) do n.º 1 do artigo 5.º do [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), de 10 de Janeiro, determina-se:
+
+1 - O presente despacho estabelece as normas a que deverão obedecer a autorização e o funcionamento das instalações adequadas à descarga, recepção, guarda e armazenagem das mercadorias abrangidas pelo regime simplificado de desalfandegamento no domicílio, criado pelo [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), de 10 de Janeiro, adiante designadas por armazéns de domiciliação.
+
+2 - A autorização para constituição dos armazéns de domiciliação será concedida pelo director da alfândega respectiva às empresas importadoras que reúnam cumulativamente as seguintes condições:
+
+a) Possuam um capital social mínimo de 10000000$00 no continente e de 3000000$00 nas Regiões Autónomas;
+
+b) Disponham de contabilidade devidamente organizada, com recurso ao inventário permanente, que permita às autoridades aduaneiras exercer um controlo imediato sobre as mercadorias entradas em armazém e, bem assim, sobre a regularidade e frequência das operações de domiciliação.
+
+3 - Para a instrução do processo de autorização devem ser apresentados, conjuntamente com o requerimento, os seguintes documentos:
+
+a) Registo criminal dos sócios gerentes ou administradores da empresa;
+
+b) Pacto social actualizado da empresa;
+
+c) Certidão passada pela conservatória do registo comercial com indicação actualizada das pessoas que obrigam a sociedade;
+
+d) Documento comprovativo da legalização do armazém emitido pela autarquia local, tratando-se de instalações da propriedade da requerente, ou cópia da escritura pública do contrato de arrendamento, nos demais casos.
+
+3.1 - Caso a requerente não disponha dos documentos exigidos no número anterior, poderá a sua falta ser suprida pela exibição de documento comprovativo da inscrição do prédio na matriz predial e da existência da correspondente licença de utilização.
+
+4 - Os armazéns de domiciliação devem preencher os seguintes requisitos:
+
+a) Área que permita responder às necessidades de armazenagem resultantes do volume de tráfego da requerente, onde as mercadorias deverão permanecer devidamente isoladas até à sua libertação da acção aduaneira;
+
+b) Serem constituídos em instalações pertencentes à empresa requerente, ou, quando tal não aconteça, em instalações que esta prove estarem em condições legais de poder utilizar em regime de exclusividade, quer por exibição da escritura de contrato que legitime a utilização do armazém, quer pela apresentação dos respectivos recibos de renda;
+
+c) Existência, sempre que necessário, de instrumentos e equipamentos indispensáveis à movimentação, pesagem e abertura dos volumes e, bem assim, à verificação das mercadorias neles descarregadas;
+
+d) Vias que possibilitem aos veículos transportadores das mercadorias um fácil acesso aos armazéns;
+
+e) Apetrechamento com água, luz e instalações sanitárias e local adequado à análise documental inerente ao controlo aduaneiro;
+
+f) Dispor o requerente de meios de comunicação próprios de fácil acesso, telefone e telex ou telefax.
+
+4.1 - Para que as instalações referidas no n.º 4 sejam aprovadas como armazéns de depósito provisório privado, deverá, além dos demais requisitos exigidos, a área referida na alínea a) desse número revestir as seguintes características:
+
+a) Não ser inferior a 100 m2:
+
+b) Apresentar-se devidamente isolada e ser exclusivamente afecta a receber mercadorias para serem desalfandegadas ao abrigo do regime de domiciliação.
+
+4.2 - Sem prejuízo do disposto na alínea anterior, poderá ser fixada para os depósitos provisórios privados, no acordo de domiciliação, uma área inferior a 100 m2, tendo em conta o volume e frequência do tráfego da empresa e as características, natureza e volume das mercadorias destinadas a serem recebidas nos referidos armazéns.
+
+5 - As mercadorias que podem ser recebidas nos armazéns de domiciliação serão designadas no acordo previsto no artigo 6.º do [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), de 10 de Janeiro, podendo ser admitidas quaisquer espécies de mercadorias importadas passíveis de direitos ou outras imposições, tendo-se especialmente em conta, nos acordos a celebrar, as restrições ou proibições fundadas em considerações de moralidade ou de ordem públicas, de segurança pública, de higiene ou de saúde públicas, ou em considerações de ordem veterinária ou fitopatológica, ou referentes à protecção de patentes, marcas de fábrica e direitos de autor e de reprodução, qualquer que seja a sua quantidade ou o seu país de origem, procedência ou destino.
+
+As mercadorias que representam um perigo, ou sejam susceptíveis de alterarem outras mercadorias, ou exijam instalações especiais, só deverão ser admitidas em depósitos especialmente preparados para as receber.
+
+6 - Os armazéns de domiciliação podem ser constituídos em recintos ao ar livre, mediante pedido caso a caso, que apenas serão autorizados desde que a administração aduaneira entenda não haver inconveniente face à natureza e acondicionamento das mercadorias.
+
+7 - Os titulares dos armazéns de domiciliação são responsáveis perante as autoridades aduaneiras pelo pagamento dos direitos de importação e demais imposições devidos pelas mercadorias entradas em armazém e que tenham sido desviadas do fim a que se destinam antes de haverem sido declaradas para um regime aduaneiro, ou desembaraçadas da acção aduaneira, sem prejuízo do eventual procedimento por infracção fiscal, nos termos da legislação aplicável.
+
+8 - A entrada em funcionamento dos armazéns de domiciliação dependerá de vistoria prévia das instalações pelos serviços da alfândega competente, os quais confirmarão a observância dos requisitos fixados nos n.os 2 a 6, devendo, para o efeito, os respectivos pedidos ser apresentados com a antecedência mínima de 10 dias.
+
+9 - Para efeitos de aplicação da alínea b) do n.º 2 anterior, cada remessa de mercadorias entrada nos armazéns de domiciliação deverá ser registada em fichas de existência, do modelo anexo a este despacho normativo, servindo de documento base dos referidos registos os elementos constantes do documento de trânsito respectivo, eventualmente corrigido das diferenças verificadas, nos termos preceituados no n.º 2 do artigo 21.º do [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), de 10 de Janeiro.
+
+9.1 - As fichas de existência exigidas no número anterior poderão ser substituídas por registos processados informaticamente, que atinjam os mesmos objectivos.
+
+10 - Quando as autoridades aduaneiras pretendam proceder a qualquer controlo físico das mercadorias, quer no acto de descarga, quer aquando da sua verificação, a prestação de todos os serviços inerentes à movimentação, abertura de volumes e a quaisquer outros actos exigidos por essas formalidades é da exclusiva responsabilidade dos titulares dos armazéns.
+
+11 - Os actuais titulares de armazéns aprovados pelas alfândegas para receberem mercadorias no âmbito do regime normal de descarga directa, regulado no [Decreto-Lei n.º 363/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/363-1981-144399), de 31 de Dezembro, que pretendam beneficiar do regime simplificado de desalfandegamento no domicílio, poderão, até ao termo do prazo previsto no artigo 27.º do [Decreto-Lei n.º 16/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1991-694041), de 10 de Janeiro, e para efeitos da celebração do respectivo acordo de domiciliação, apresentar, na alfândega respectiva, pedido de aprovação dos referidos armazéns como armazéns de domiciliação, o qual será apreciado à luz das disposições constantes do presente despacho normativo.
+
+12 - Para efeitos do disposto no número anterior poderão os directores das alfândegas dispensar a apresentação dos documentos que eventualmente tenham sido entregues para aprovação dos armazéns referidos na primeira parte desse número, desde que os documentos continuem válidos e preencham os requisitos exigidos para o fim a que se destinam neste despacho normativo.
+
+13 - Em tudo quanto não se encontre previsto neste despacho normativo são subsidiariamente aplicáveis as disposições do regime jurídico dos armazéns de depósito provisório, regulado no [Decreto-Lei n.º 281/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/281-1986-219973), de 5 de Setembro.
+
+Ministério das Finanças, 18 de Abril de 1991. - O Secretário de Estado dos Assuntos Fiscais, José Oliveira Costa.
+
+Armazéns de domiciliação
+
+(Ficha de existências - n.º 9 do Despacho Normativo n.º 106/91)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/05/115b00/26862688.pdf))](https://files.diariodarepublica.pt/1s/1991/05/115b00/26862688.pdf)

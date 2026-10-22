@@ -1,0 +1,82 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:161518655:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-161587744",
+ "dre_path": "/dr/detalhe/lei/20-2021-161518655",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-04-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "161627613",
+    "161627614",
+    "161627615",
+    "161627616",
+    "161627617",
+    "161627618"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:162834698:por",
+     "title": "Declaração de Retificação n.º 14/2021",
+     "published": "2021-05-06",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/14-2021-162834698",
+     "date": "2021-04-17"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "161627613": {
+   "fragment_id": "161587745",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 20/2021\n\nde 16 de abril\n\nSumário: Alteração, por apreciação parlamentar, ao Decreto-Lei n.º 92/2020, de 23 de outubro, que altera o regime geral da gestão de resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro.\n\nAlteração, por apreciação parlamentar, ao Decreto-Lei n.º 92/2020, de 23 de outubro, que altera o regime geral da gestão de resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "161627614": {
+   "fragment_id": "161587746",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à primeira alteração, por apreciação parlamentar, ao Decreto-Lei n.º 92/2020, de 23 de outubro, que altera o regime geral da gestão de resíduos, aprovado pelo Decreto-Lei n.º 178/2006, de 5 de setembro."
+  },
+  "161627615": {
+   "fragment_id": "161587747",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração ao Decreto-Lei n.º 92/2020, de 23 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração ao Decreto-Lei n.º 92/2020, de 23 de outubro\n\nO artigo 2.º do Decreto-Lei n.º 92/2020, de 23 de outubro, passa a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n[...]:\n\n'Artigo 58.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - (Revogado.)\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\n8 - [...].\n\n9 - [...].\n\n10 - [...].\n\n11 - [...].\n\n12 - A TGR deve ser repercutida nas tarifas e prestações financeiras cobradas pelos sujeitos passivos e ao longo da cadeia de valor da gestão de resíduos até ao produtor dos resíduos, sem prejuízo do estabelecido no n.º 25 do presente artigo.\n\n13 - [...].\n\n14 - [...].\n\n15 - [...].\n\n16 - [...].\n\n17 - [...].\n\n18 - (Proémio do anterior n.º 15.º):\n\na) Ao Fundo Ambiental, em 50 % do valor global arrecadado pela ANR;\n\nb) (Alínea b) do anterior n.º 15.º);\n\nc) Às despesas com o financiamento de iniciativas dos municípios que visem o aumento da eficiência do setor dos resíduos, a criação e manutenção de novos fluxos de resíduos, como é o caso dos biorresíduos, ou a implementação de modelos de recolha seletiva mais eficientes.\n\n19 - [...].\n\n20 - [...].\n\n21 - [...].\n\n22 - [...].\n\n23 - [...].\n\n24 - É aplicada uma moratória ao disposto no n.º 3 do presente artigo até 30 de junho de 2021, sendo que, até essa data, a TGR assume o valor de 11 (euro)/t de resíduos.\n\n25 - As receitas previstas na alínea a) do n.º 18 que, por razão não diretamente imputável aos municípios, designadamente por não apresentação de candidaturas, não sejam a estes distribuídas no âmbito de avisos por parte do Fundo Ambiental, revertem, anualmente, a favor destes, devendo os municípios repercutir integralmente essa diferença na redução das tarifas e prestações financeiras cobradas.\n\n26 - O Governo deve adotar medidas que permitam aumentar a transparência e o escrutínio da utilização das receitas da TGR, nomeadamente através da publicação obrigatória, até março de cada ano, de um relatório anual onde conste a atribuição desagregada, por ações, objetivos e destinatários, das receitas geradas pela TGR.'\n\n[...]»"
+  },
+  "161627616": {
+   "fragment_id": "161587748",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o n.º 4 do artigo 58.º do Decreto-Lei n.º 178/2006, de 5 de setembro."
+  },
+  "161627617": {
+   "fragment_id": "161587749",
+   "type": 11,
+   "heading": "Artigo 4.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Produção de efeitos\n\nA presente lei reporta os seus efeitos à data de entrada em vigor do Decreto-Lei n.º 92/2020, de 23 de outubro."
+  },
+  "161627618": {
+   "fragment_id": "161587750",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

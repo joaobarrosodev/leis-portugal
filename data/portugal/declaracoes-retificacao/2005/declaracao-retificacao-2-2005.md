@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:619370:por
+title: Declaração de Rectificação n.º 2/2005
+short_title: null
+summary: De ter sido rectificado o Decreto Regulamentar Regional n.º 16/2004/M, de 17 de Dezembro, da Região Autónoma da Madeira,
+  que aprova a organização e funcionamento do Governo Regional da Madeira, publicado no Diário da República, 1.ª série, n.º
+  294, de 17 de Dezembro de 2004
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 2/2005
+official_date: null
+publication_date: '2005-02-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 24/2005, Série I-B de 2005-02-03
+  number: '24'
+  series: I
+  supplement: null
+  pages: 866 - 866
+  pdf_url: https://files.diariodarepublica.pt/1s/2005/02/024b00/08660866.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/2/2005/02/03/p/dre/pt/html
+  oj: null
+  dre: '619370'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2-2005-619370
+  internal: pt:dre:619370:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2005-619370
+  metadata_url: https://data.dre.pt/eli/declrectif/2/2005/02/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2-2005-619370
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-02-03T00:00:00Z'
+integrity:
+  source_sha256: 925cf54945c37f7457d7a1d38a1a27492121941d4ad5843ee1333facc0856ca1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2005/DRE-2005-2-619370.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Secretaria Regional do Turismo e Cultura
+- Governo Regional
+- Definição de Competências
+- Presidência do Governo Regional
+- Vice-presidência do Governo Regional
+- Secretaria Regional do Plano e Finanças
+- Secretaria Regional da Educação
+- Secretaria Regional do Equipamento Social e Transportes
+- Secretaria Regional dos Assuntos Sociais
+- Orgânica
+- Madeira.região Autónoma
+- Secretaria Regional
+- Secretaria Regional do Ambiente e dos Recursos Naturais
+- Secretaria Regional dos Recursos Humanos
+- Transferência de Competências
+- Transferência de Pessoal
+- Transferência de Serviços
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/16/2004/12/17/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/16/2004/12/17/m/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 2/2005
+
+Para os devidos efeitos se declara que o [Decreto Regulamentar Regional n.º 16/2004/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/16-2004-218356), publicado no Diário da República, 1.ª série, n.º 294, de 17 de Dezembro de 2004, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com a seguinte inexactidão, que assim se rectifica:
+
+No n.º 2 do artigo 10.º, onde se lê «O Gabinete do Presidente do Governo Regional é composto por um máximo de três adjuntos e cinco secretários pessoais» deve ler-se «O Gabinete do Presidente do Governo Regional é composto por um máximo de quatro adjuntos e quatro secretários pessoais».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 27 de Janeiro de 2005. - O Secretário-Geral, José M. Sousa Rego.

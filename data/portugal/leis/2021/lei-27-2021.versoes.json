@@ -1,0 +1,347 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:163442504:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-164870244",
+ "dre_path": "/dr/detalhe/lei/27-2021-163442504",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-05-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "164816847",
+    "164816848",
+    "164816849",
+    "164816850",
+    "164816851",
+    "164816852",
+    "164816853",
+    "164816854",
+    "164816855",
+    "164816856",
+    "164816857",
+    "164816858",
+    "164816859",
+    "164816860",
+    "164816861",
+    "164816862",
+    "164816863",
+    "164816864",
+    "164816865",
+    "164816866",
+    "164816867",
+    "164816868",
+    "164816869",
+    "164816870"
+   ]
+  },
+  {
+   "date": "2021-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164870232:por",
+     "title": "Declaração de Retificação n.º 18/2021",
+     "published": "2021-06-09",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/18-2021-164870232"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 3.º"
+   ],
+   "fragments": [
+    "164816847",
+    "164816848",
+    "164816849",
+    "164816873",
+    "164816851",
+    "164816852",
+    "164816853",
+    "164816854",
+    "164816855",
+    "164816856",
+    "164816857",
+    "164816858",
+    "164816859",
+    "164816860",
+    "164816861",
+    "164816862",
+    "164816863",
+    "164816864",
+    "164816865",
+    "164816866",
+    "164816867",
+    "164816868",
+    "164816869",
+    "164816870",
+    "164816871"
+   ]
+  },
+  {
+   "date": "2022-08-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:187351209:por",
+     "title": "Lei n.º 15/2022",
+     "published": "2022-08-11",
+     "dre_path": "/dr/detalhe/lei/15-2022-187351209"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "164816847",
+    "164816848",
+    "164816849",
+    "164816873",
+    "164816851",
+    "164816852",
+    "187212553",
+    "164816854",
+    "164816855",
+    "164816856",
+    "164816857",
+    "164816858",
+    "164816859",
+    "164816860",
+    "164816861",
+    "164816862",
+    "164816863",
+    "164816864",
+    "164816865",
+    "164816866",
+    "164816867",
+    "164816868",
+    "164816869",
+    "164816870",
+    "164816871"
+   ]
+  }
+ ],
+ "fragments": {
+  "164816847": {
+   "fragment_id": "164870245",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 27/2021\n\nde 17 de maio\n\nSumário: Carta Portuguesa de Direitos Humanos na Era Digital.\n\nCarta Portuguesa de Direitos Humanos na Era Digital\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "164816848": {
+   "fragment_id": "164870246",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei aprova a Carta Portuguesa de Direitos Humanos na Era Digital."
+  },
+  "164816849": {
+   "fragment_id": "164870247",
+   "type": 11,
+   "heading": "Artigo 2.º — Direitos em ambiente digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direitos em ambiente digital\n\n1 - A República Portuguesa participa no processo mundial de transformação da Internet num instrumento de conquista de liberdade, igualdade e justiça social e num espaço de promoção, proteção e livre exercício dos direitos humanos, com vista a uma inclusão social em ambiente digital.\n\n2 - As normas que na ordem jurídica portuguesa consagram e tutelam direitos, liberdades e garantias são plenamente aplicáveis no ciberespaço."
+  },
+  "164816850": {
+   "fragment_id": "164870248",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito de acesso ao ambiente digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direito de acesso ao ambiente digital\n\n1 - Todos, independentemente da ascendência, género, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica, condição social ou orientação sexual, têm o direito de livre acesso à Internet.\n\n2 - Com vista a assegurar um ambiente digital que fomente e defenda os direitos humanos, compete ao Estado promover:\n\na) O uso autónomo e responsável da Internet e o livre acesso às tecnologias de informação e comunicação;\n\nb) A definição e execução de programas de promoção da igualdade de género e das competências digitais nas diversas faixas etárias;\n\nc) A eliminação de barreiras no acesso à Internet por pessoas portadoras de necessidades especiais a nível físico, sensorial ou cognitivo, designadamente através da definição e execução de programas com esse fim;\n\nd) A redução e eliminação das assimetrias regionais e locais em matéria de conectividade, assegurando a sua existência nos territórios de baixa densidade e garantindo em todo o território nacional conectividade de qualidade, em banda larga e a preço acessível;\n\ne) A existência de pontos de acesso gratuitos em espaços públicos, como bibliotecas, juntas de freguesia, centros comunitários, jardins públicos, hospitais, centros de saúde, escolas e outros serviços públicos;\n\nf) A criação de uma tarifa social de acesso a serviços de Internet aplicável a clientes finais economicamente vulneráveis;\n\ng) A execução de programas que garantam o acesso a instrumentos e meios tecnológicos e digitais por parte da população, para potenciar as competências digitais e o acesso a plataformas eletrónicas, em particular dos cidadãos mais vulneráveis;\n\nh) A adoção de medidas e ações que assegurem uma melhor acessibilidade e uma utilização mais avisada, que contrarie os comportamentos aditivos e proteja os consumidores digitalmente vulneráveis;\n\ni) A continuidade do domínio de Internet de Portugal «.PT», bem como das condições que o tornam acessível tecnológica e financeiramente a todas as pessoas singulares e coletivas para registo de domínios em condições de transparência e igualdade;\n\nj) A definição e execução de medidas de combate à disponibilização ilícita e à divulgação de conteúdos ilegais em rede e de defesa dos direitos de propriedade intelectual e das vítimas de crimes praticados no ciberespaço."
+  },
+  "164816851": {
+   "fragment_id": "164870249",
+   "type": 11,
+   "heading": "Artigo 4.º — Liberdade de expressão e criação em ambiente digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Liberdade de expressão e criação em ambiente digital\n\n1 - Todos têm o direito de exprimir e divulgar o seu pensamento, bem como de criar, procurar, obter e partilhar ou difundir informações e opiniões em ambiente digital, de forma livre, sem qualquer tipo ou forma de censura, sem prejuízo do disposto na lei relativamente a condutas ilícitas.\n\n2 - A República Portuguesa participa nos esforços internacionais para que o ciberespaço permaneça aberto à livre circulação das ideias e da informação e assegure a mais ampla liberdade de expressão, assim como a liberdade de imprensa.\n\n3 - Todos têm o direito de beneficiar de medidas públicas de promoção da utilização responsável do ciberespaço e de proteção contra todas as formas de discriminação e crime, nomeadamente contra a apologia do terrorismo, o incitamento ao ódio e à violência contra pessoa ou grupo de pessoas por causa da sua raça, cor, origem étnica ou nacional, ascendência, religião, sexo, orientação sexual, identidade de género ou deficiência física ou psíquica, o assédio ou exploração sexual de crianças, a mutilação genital feminina e a perseguição.\n\n4 - A criação de obras literárias, científicas ou artísticas originais, bem como as equiparadas a originais e as prestações dos artistas intérpretes ou executantes, dos produtores de fonogramas e de videogramas e dos organismos de radiodifusão gozam de especial proteção contra a violação do disposto no Código do Direito de Autor e dos Direitos Conexos, aprovado pelo Decreto-Lei n.º 63/85, de 14 de março, em ambiente digital."
+  },
+  "164816852": {
+   "fragment_id": "164870250",
+   "type": 11,
+   "heading": "Artigo 5.º — Garantia do acesso e uso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantia do acesso e uso\n\nÉ proibida a interrupção intencional de acesso à Internet, seja parcial ou total, ou a limitação da disseminação de informação ou de outros conteúdos, salvo nos casos previstos na lei."
+  },
+  "164816853": {
+   "fragment_id": "164870251",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito à proteção contra a desinformação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direito à proteção contra a desinformação\n\n1 - O Estado assegura o cumprimento em Portugal do Plano Europeu de Ação contra a Desinformação, por forma a proteger a sociedade contra pessoas singulares ou coletivas, de jure ou de facto, que produzam, reproduzam ou difundam narrativa considerada desinformação, nos termos do número seguinte.\n\n2 - Considera-se desinformação toda a narrativa comprovadamente falsa ou enganadora criada, apresentada e divulgada para obter vantagens económicas ou para enganar deliberadamente o público, e que seja suscetível de causar um prejuízo público, nomeadamente ameaça aos processos políticos democráticos, aos processos de elaboração de políticas públicas e a bens públicos.\n\n3 - Para efeitos do número anterior, considera-se, designadamente, informação comprovadamente falsa ou enganadora a utilização de textos ou vídeos manipulados ou fabricados, bem como as práticas para inundar as caixas de correio eletrónico e o uso de redes de seguidores fictícios.\n\n4 - Não estão abrangidos pelo disposto no presente artigo os meros erros na comunicação de informações, bem como as sátiras ou paródias.\n\n5 - Todos têm o direito de apresentar e ver apreciadas pela Entidade Reguladora para a Comunicação Social queixas contra as entidades que pratiquem os atos previstos no presente artigo, sendo aplicáveis os meios de ação referidos no artigo 21.º e o disposto na Lei n.º 53/2005, de 8 de novembro, relativamente aos procedimentos de queixa e deliberação e ao regime sancionatório.\n\n6 - O Estado apoia a criação de estruturas de verificação de factos por órgãos de comunicação social devidamente registados e incentiva a atribuição de selos de qualidade por entidades fidedignas dotadas do estatuto de utilidade pública."
+  },
+  "164816854": {
+   "fragment_id": "164870252",
+   "type": 11,
+   "heading": "Artigo 7.º — Direitos de reunião, manifestação, associação e participação em ambiente digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direitos de reunião, manifestação, associação e participação em ambiente digital\n\n1 - A todos é assegurado o direito de reunião, manifestação, associação e participação de modo pacífico em ambiente digital e através dele, designadamente para fins políticos, sociais e culturais, bem como de usar meios de comunicação digitais para a organização e divulgação de ações cívicas ou a sua realização no ciberespaço.\n\n2 - Os órgãos de soberania e de poder regional e local asseguram a possibilidade de exercício dos direitos de participação legalmente previstos através de plataformas digitais ou outros meios digitais."
+  },
+  "164816855": {
+   "fragment_id": "164870253",
+   "type": 11,
+   "heading": "Artigo 8.º — Direito à privacidade em ambiente digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direito à privacidade em ambiente digital\n\n1 - Todos têm direito a comunicar eletronicamente usando a criptografia e outras formas de proteção da identidade ou que evitem a recolha de dados pessoais, designadamente para exercer liberdades civis e políticas sem censura ou discriminação.\n\n2 - O direito à proteção de dados pessoais, incluindo o controlo sobre a sua recolha, o registo, a organização, a estruturação, a conservação, a adaptação ou alteração, a recuperação, a consulta, a utilização, a divulgação por transmissão, difusão ou qualquer outra forma de disponibilização, a comparação ou interconexão, a limitação, o apagamento ou a destruição, é assegurado nos termos legais."
+  },
+  "164816856": {
+   "fragment_id": "164870254",
+   "type": 11,
+   "heading": "Artigo 9.º — Uso da inteligência artificial e de robôs",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Uso da inteligência artificial e de robôs\n\n1 - A utilização da inteligência artificial deve ser orientada pelo respeito dos direitos fundamentais, garantindo um justo equilíbrio entre os princípios da explicabilidade, da segurança, da transparência e da responsabilidade, que atenda às circunstâncias de cada caso concreto e estabeleça processos destinados a evitar quaisquer preconceitos e formas de discriminação.\n\n2 - As decisões com impacto significativo na esfera dos destinatários que sejam tomadas mediante o uso de algoritmos devem ser comunicadas aos interessados, sendo suscetíveis de recurso e auditáveis, nos termos previstos na lei.\n\n3 - São aplicáveis à criação e ao uso de robôs os princípios da beneficência, da não-maleficência, do respeito pela autonomia humana e pela justiça, bem como os princípios e valores consagrados no artigo 2.º do Tratado da União Europeia, designadamente a não discriminação e a tolerância."
+  },
+  "164816857": {
+   "fragment_id": "164870255",
+   "type": 11,
+   "heading": "Artigo 10.º — Direito à neutralidade da Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direito à neutralidade da Internet\n\nTodos têm direito a que os conteúdos transmitidos e recebidos em ambiente digital não sejam sujeitos a discriminação, restrição ou interferência em relação ao remetente, ao destinatário, ao tipo ou conteúdo da informação, ao dispositivo ou aplicações utilizados, ou, em geral, a escolhas legítimas das pessoas."
+  },
+  "164816858": {
+   "fragment_id": "164870256",
+   "type": 11,
+   "heading": "Artigo 11.º — Direito ao desenvolvimento de competências digitais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direito ao desenvolvimento de competências digitais\n\n1 - Todos têm direito à educação para a aquisição e o desenvolvimento de competências digitais.\n\n2 - O Estado promove e executa programas que incentivem e facilitem o acesso, por parte das várias faixas etárias da população, a meios e instrumentos digitais e tecnológicos, por forma a assegurar, designadamente, a educação através da Internet e a utilização crescente de serviços públicos digitais.\n\n3 - O serviço público de comunicação social audiovisual contribui para a educação digital dos utilizadores das várias faixas etárias e promove a divulgação da presente lei e demais legislação aplicável."
+  },
+  "164816859": {
+   "fragment_id": "164870257",
+   "type": 11,
+   "heading": "Artigo 12.º — Direito à identidade e outros direitos pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Direito à identidade e outros direitos pessoais\n\n1 - Todos têm direito à identidade pessoal, ao bom nome e à reputação, à imagem e à palavra, bem como à sua integridade moral em ambiente digital.\n\n2 - Incumbe ao Estado:\n\na) Combater a usurpação de identidade e incentivar a criação de plataformas que permitam o uso pelo cidadão de meios seguros de autenticação eletrónica;\n\nb) Promover mecanismos que visem o aumento da segurança e da confiança nas transações comerciais, em especial na ótica da defesa do consumidor.\n\n3 - Fora dos casos previstos na lei, é proibida qualquer forma de utilização de código bidimensional ou de dimensão superior para tratar e difundir informação sobre o estado de saúde ou qualquer outro aspeto relacionado com a origem racial ou étnica, as opiniões políticas, as convicções religiosas ou filosóficas, ou a filiação sindical, bem como dados genéticos, dados biométricos ou dados relativos à vida sexual ou orientação sexual de uma pessoa."
+  },
+  "164816860": {
+   "fragment_id": "164870258",
+   "type": 11,
+   "heading": "Artigo 13.º — Direito ao esquecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Direito ao esquecimento\n\n1 - Todos têm o direito de obter do Estado apoio no exercício do direito ao apagamento de dados pessoais que lhes digam respeito, nos termos e nas condições estabelecidas na legislação europeia e nacional aplicáveis.\n\n2 - O direito ao esquecimento pode ser exercido a título póstumo por qualquer herdeiro do titular do direito, salvo quando este tenha feito determinação em sentido contrário."
+  },
+  "164816861": {
+   "fragment_id": "164870259",
+   "type": 11,
+   "heading": "Artigo 14.º — Direitos em plataformas digitais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direitos em plataformas digitais\n\n1 - Na utilização de plataformas digitais, todos têm o direito de:\n\na) Receber informação clara e simples sobre as condições de prestação de serviços quando utilizem plataformas que viabilizam fluxos de informação e comunicação;\n\nb) Exercer nessas plataformas os direitos garantidos pela presente Carta e na demais legislação aplicável;\n\nc) Ver garantida a proteção do seu perfil, incluindo a sua recuperação se necessário, bem como de obter cópia dos dados pessoais que lhes digam respeito nos termos previstos na lei;\n\nd) Apresentar reclamações e recorrer a meios alternativos de resolução de conflitos nos termos previstos na lei.\n\n2 - O Estado promove a utilização pelas plataformas digitais de sinaléticas gráficas que transmitam de forma clara e simples a política de privacidade que asseguram aos seus utilizadores."
+  },
+  "164816862": {
+   "fragment_id": "164870260",
+   "type": 11,
+   "heading": "Artigo 15.º — Direito à cibersegurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Direito à cibersegurança\n\n1 - Todos têm direito à segurança no ciberespaço, incumbindo ao Estado definir políticas públicas que garantam a proteção dos cidadãos e das redes e sistemas de informação, e que criem mecanismos que aumentem a segurança no uso da Internet, em especial por parte de crianças e jovens.\n\n2 - O Centro Nacional de Cibersegurança promove, em articulação com as demais entidades públicas competentes e parceiros privados, a formação dos cidadãos e empresas para adquirirem capacitação prática e beneficiarem de serviços online de prevenção e neutralização de ameaças à segurança no ciberespaço, sendo para esse efeito dotado de autonomia administrativa e financeira."
+  },
+  "164816863": {
+   "fragment_id": "164870261",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito à liberdade de criação e à proteção dos conteúdos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito à liberdade de criação e à proteção dos conteúdos\n\n1 - Todos têm direito à livre criação intelectual, artística, científica e técnica, bem como a beneficiarem, no ambiente digital, da proteção legalmente conferida às obras, prestações, produções e outros conteúdos protegidos por direitos de propriedade intelectual.\n\n2 - As medidas proporcionais, adequadas e eficazes com vista a impedir o acesso ou a remover conteúdos disponibilizados em manifesta violação do direito de autor e direitos conexos são objeto de lei especial."
+  },
+  "164816864": {
+   "fragment_id": "164870262",
+   "type": 11,
+   "heading": "Artigo 17.º — Direito à proteção contra a geolocalização abusiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Direito à proteção contra a geolocalização abusiva\n\n1 - Todos têm direito à proteção contra a recolha e o tratamento ilegais de informação sobre a sua localização quando efetuem uma chamada obtida a partir de qualquer equipamento.\n\n2 - A utilização dos dados da posição geográfica do equipamento de um utilizador só pode ser feita com o seu consentimento ou autorização legal."
+  },
+  "164816865": {
+   "fragment_id": "164870263",
+   "type": 11,
+   "heading": "Artigo 18.º — Direito ao testamento digital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Direito ao testamento digital\n\n1 - Todas as pessoas podem manifestar antecipadamente a sua vontade no que concerne à disposição dos seus conteúdos e dados pessoais, designadamente os constantes dos seus perfis e contas pessoais em plataformas digitais, nos termos das condições contratuais de prestação do serviço e da legislação aplicável, inclusive quanto à capacidade testamentária.\n\n2 - A supressão póstuma de perfis pessoais em redes sociais ou similares por herdeiros não pode ter lugar se o titular do direito tiver deixado indicação em contrário junto dos responsáveis do serviço."
+  },
+  "164816866": {
+   "fragment_id": "164870264",
+   "type": 11,
+   "heading": "Artigo 19.º — Direitos digitais face à Administração Pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Direitos digitais face à Administração Pública\n\nPerante a Administração Pública, a todos é reconhecido o direito:\n\na) A beneficiar da transição para procedimentos administrativos digitais;\n\nb) A obter informação digital relativamente a procedimentos e atos administrativos e a comunicar com os decisores;\n\nc) À assistência pessoal no caso de procedimentos exclusivamente digitais;\n\nd) A que dados prestados a um serviço sejam partilhados com outro, nos casos legalmente previstos;\n\ne) A beneficiar de regimes de «dados abertos» que facultem o acesso a dados constantes das aplicações informáticas de serviços públicos e permitam a sua reutilização, nos termos previstos na lei;\n\nf) De livre utilização de uma plataforma digital europeia única para a prestação de acesso a informações, nos termos do Regulamento (UE) 2018/1724 do Parlamento Europeu e do Conselho, de 2 de outubro de 2018."
+  },
+  "164816867": {
+   "fragment_id": "164870265",
+   "type": 11,
+   "heading": "Artigo 20.º — Direito das crianças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Direito das crianças\n\n1 - As crianças têm direito a proteção especial e aos cuidados necessários ao seu bem-estar e segurança no ciberespaço.\n\n2 - As crianças podem exprimir livremente a sua opinião e têm a liberdade de receber e transmitir informações ou ideias, em função da sua idade e maturidade."
+  },
+  "164816868": {
+   "fragment_id": "164870266",
+   "type": 11,
+   "heading": "Artigo 21.º — Ação popular digital e outras garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Ação popular digital e outras garantias\n\n1 - Para defesa do disposto na presente lei, a todos são reconhecidos os direitos previstos na legislação referente à ação popular, devidamente adaptada à realidade do ambiente digital.\n\n2 - O Estado apoia o exercício pelos cidadãos dos direitos de reclamação, de recurso e de acesso a formas alternativas de resolução de litígios emergentes de relações jurídicas estabelecidas no ciberespaço.\n\n3 - As pessoas coletivas sem fins lucrativos que se dediquem à promoção e defesa do disposto na presente Carta têm o direito a obter o estatuto de utilidade pública, nos termos da legislação aplicável às entidades de caráter cultural.\n\n4 - Os direitos assegurados em processo administrativo em suporte eletrónico, nos termos do disposto no n.º 3 do artigo 64.º do Código do Procedimento Administrativo, são objeto de legislação própria, a aprovar no prazo de 180 dias após a entrada em vigor da presente lei."
+  },
+  "164816869": {
+   "fragment_id": "164870267",
+   "type": 11,
+   "heading": "Artigo 22.º — Direito transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Direito transitório\n\nAté à entrada em vigor da lei prevista no n.º 2 do artigo 16.º são aplicáveis as normas vigentes que regulam o impedimento do acesso ou remoção de conteúdos disponibilizados em violação do direito de autor e direitos conexos."
+  },
+  "164816870": {
+   "fragment_id": "164870268",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nA presente lei entra em vigor 60 dias após a sua publicação."
+  },
+  "164816873": {
+   "fragment_id": "164870248",
+   "type": 11,
+   "heading": "Artigo 3.º — Direito de acesso ao ambiente digital",
+   "in_force_from": "2021-07-16",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2021 - Diário da República n.º 111/2021, Série I de 2021-06-09](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2021-164870232), em vigor a partir de 2021-07-16"
+   ],
+   "markdown": "###### Artigo 3.º — Direito de acesso ao ambiente digital\n\n1 - Todos, independentemente da ascendência, género, raça, língua, território de origem, religião, convicções políticas ou ideológicas, instrução, situação económica, condição social ou orientação sexual, têm o direito de livre acesso à Internet.\n\n2 - Com vista a assegurar um ambiente digital que fomente e defenda os direitos humanos, compete ao Estado promover:\n\na) O uso autónomo e responsável da Internet e o livre acesso às tecnologias de informação e comunicação;\n\nb) A definição e execução de programas de promoção da igualdade de género e das competências digitais nas diversas faixas etárias;\n\nc) A eliminação de barreiras no acesso à Internet por pessoas com necessidades especiais a nível físico, sensorial ou cognitivo, designadamente através da definição e execução de programas com esse fim;\n\nd) A redução e eliminação das assimetrias regionais e locais em matéria de conectividade, assegurando a sua existência nos territórios de baixa densidade e garantindo em todo o território nacional conectividade de qualidade, em banda larga e a preço acessível;\n\ne) A existência de pontos de acesso gratuitos em espaços públicos, como bibliotecas, juntas de freguesia, centros comunitários, jardins públicos, hospitais, centros de saúde, escolas e outros serviços públicos;\n\nf) A criação de uma tarifa social de acesso a serviços de Internet aplicável a clientes finais economicamente vulneráveis;\n\ng) A execução de programas que garantam o acesso a instrumentos e meios tecnológicos e digitais por parte da população, para potenciar as competências digitais e o acesso a plataformas eletrónicas, em particular dos cidadãos mais vulneráveis;\n\nh) A adoção de medidas e ações que assegurem uma melhor acessibilidade e uma utilização mais avisada, que contrarie os comportamentos aditivos e proteja os consumidores digitalmente vulneráveis;\n\ni) A continuidade do domínio de Internet de Portugal «.PT», bem como das condições que o tornam acessível tecnológica e financeiramente a todas as pessoas singulares e coletivas para registo de domínios em condições de transparência e igualdade;\n\nj) A definição e execução de medidas de combate à disponibilização ilícita e à divulgação de conteúdos ilegais em rede e de defesa dos direitos de propriedade intelectual e das vítimas de crimes praticados no ciberespaço.\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2021 - Diário da República n.º 111/2021, Série I de 2021-06-09](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2021-164870232), em vigor a partir de 2021-07-16"
+  },
+  "164816871": {
+   "fragment_id": "164870269",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de abril de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 8 de maio de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 11 de maio de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114236482"
+  },
+  "187212553": {
+   "fragment_id": "164870251",
+   "type": 11,
+   "heading": "Artigo 6.º — Direito à proteção contra a desinformação",
+   "in_force_from": "2022-08-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 15/2022 - Diário da República n.º 155/2022, Série I de 2022-08-11](https://diariodarepublica.pt/dr/detalhe/lei/15-2022-187351209), em vigor a partir de 2022-08-12"
+   ],
+   "markdown": "###### Artigo 6.º — Direito à proteção contra a desinformação\n\n1 - O Estado assegura o cumprimento em Portugal do Plano Europeu de Ação contra a Desinformação, por forma a proteger a sociedade contra pessoas singulares ou coletivas, de jure ou de facto, que produzam, reproduzam ou difundam narrativa considerada desinformação.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 15/2022 - Diário da República n.º 155/2022, Série I de 2022-08-11](https://diariodarepublica.pt/dr/detalhe/lei/15-2022-187351209), em vigor a partir de 2022-08-12"
+  }
+ }
+}

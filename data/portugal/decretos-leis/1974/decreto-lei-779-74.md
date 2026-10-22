@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:236078:por
+title: Decreto-Lei n.º 779/74
+short_title: null
+summary: Autoriza a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10%, 1975 - Plano de
+  Investimentos Públicos»
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 779/74
+official_date: null
+publication_date: '1974-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 303/1974, 2º Suplemento, Série I de 1974-12-31
+  number: '303'
+  series: I
+  supplement: 2º Suplemento
+  pages: 1670-(31) a 1670-(32)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30302/00310032.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '236078'
+  dre_path: /dr/detalhe/decreto-lei/779-1974-236078
+  internal: pt:dre:236078:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/779-1974-236078
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/779-1974-236078
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-06-16T00:00:00Z'
+integrity:
+  source_sha256: 1b1edc63036101aa818870c2127f00ae684929b3495740d9a220073c0041b060
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-779-236078.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:670001:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 779/74
+
+de 31 de Dezembro
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É autorizada a emissão de um empréstimo interno, amortizável, denominado «Obrigações do Tesouro, 10%, 1975 - Plano de Investimentos Públicos».
+
+###### Art. 2.º O produto da colocação do empréstimo destinar-se-á ao financiamento da execução de planos de investimento económico aprovados pelo Conselho de Ministros.
+
+###### Art. 3.º - 1. O empréstimo, cujo serviço fica a cargo da Junta do Crédito Público, desdobrar-se-á em séries de 100000 contos cada uma, ficando desde já a Direcção-Geral da Fazenda Pública autorizada a emitir a obrigação geral correspondente às trinta primeiras séries, no total nominal de 3 milhões de contos.
+
+2. Fica o Secretário de Estado do Tesouro autorizado a, por simples decreto, mandar proceder à emissão, pela Direcção-Geral da Fazenda Pública, de outra ou outras obrigações gerais correspondentes a novas séries do empréstimo.
+
+###### Art. 4.º - 1. A representação do empréstimo far-se-á em títulos de cupão de 1, 5 e 10 obrigações, do valor nominal de 500$00 cada uma, ou em certificados de dívida inscrita correspondentes a qualquer número de títulos.
+
+2. É aplicável ao empréstimo autorizado pelo presente decreto-lei o disposto nos artigos 4.º e 5.º do [Decreto-Lei n.º 45142](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45142-1963-693026), de 17 de Julho de 1963.
+
+###### Art. 5.º - 1. O juro nominal das obrigações será de 10% ao ano, pagável aos semestres em 1 de Janeiro e 1 de Julho de cada ano.
+
+2. Os primeiros juros vencem-se em 1 de Julho de 1975.
+
+###### Art. 6.º - 1. As obrigações deste empréstimo serão obrigatoriamente amortizadas por sorteio, em seis anuidades, todas iguais, excepto a última, se necessário for para efeito de acerto, pagáveis em 1 de Janeiro de cada ano.
+
+2. A primeira amortização terá lugar em 1 de Janeiro de 1978.
+
+3. O reembolso das obrigações a amortizar em 1 de Janeiro dos anos de 1978, 1979, 1980, 1981, 1982 e 1983 será feito, respectivamente, por 102%, 104%, 106%, 108%, 110% e 112% do seu valor nominal.
+
+###### Art. 7.º Os títulos e certificados representativos das obrigações emitidas gozam dos direitos, isenções e garantias consignados no artigo 58.º da [Lei n.º 1933](https://diariodarepublica.pt/dr/detalhe/lei/1933-1936-685257), de 13 de Fevereiro de 1936, e no artigo 22.º do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960, bem como da isenção do pagamento do imposto sobre as sucessões e doações.
+
+###### Art. 8.º Os títulos e certificados levarão as assinaturas de chancela do Ministro das Finanças, do presidente e de um dos vogais da Junta do Crédito Público, bem como o selo branco da mesma Junta.
+
+###### Art. 9.º Poderá o Ministro das Finanças contratar com as instituições de crédito nacionais dos sectores público e privado a colocação total ou parcial dos títulos ou fazê-la por subscrição pública ou por venda no mercado.
+
+###### Art. 10.º - 1. A colocação do empréstimo será inicialmente por subscrição pública, aberta durante os meses de Janeiro e Fevereiro de 1975, considerando-se este prazo, para efeito do valor dos primeiros juros, dividido em quatro quinzenas.
+
+2. As obrigações que forem colocadas por subscrição pública serão representadas, até à troca pelos correspondentes títulos definitivos, por cautelas entregues no acto do pagamento.
+
+3. A entrega dos títulos definitivos aos tomadores será feita no decurso do 2.º semestre de 1975, a partir de data a fixar.
+
+4. As obrigações subscritas durante a primeira quinzena, com termo em 15 de Janeiro, conferem aos tomadores direito ao juro completo do 1.º semestre de 1975; as subscritas durante a segunda quinzena, com termo em 31 de Janeiro, conferem direito a juro parcial do mesmo semestre, no valor de 22$90 por obrigação; as subscritas durante a terceira quinzena, com termo em 15 de Fevereiro, conferem direito a juro parcial do mesmo semestre no valor de 20$80 por obrigação; e as subscritas durante a última quinzena conferem direito a juro parcial do mesmo semestre no valor de 18$70 por obrigação.
+
+###### Art. 11.º Relativamente às obrigações representadas por cautelas, entregues aos tomadores pelas instituições de crédito no acto da subscrição, o primeiro juro será liquidado, a partir da data do seu vencimento, pelas mesmas instituições de crédito mediante aposição de carimbo de «pago» naquelas cautelas.
+
+###### Art. 12.º Até à data do vencimento destes primeiros juros, a Junta do Crédito Público entregará a cada uma das instituições de crédito que tenha participado na colocação uma ordem de pagamento da importância correspondente aos juros a pagar no 1.º semestre de 1975 das obrigações que tenha colocado.
+
+###### Art. 13.º As obrigações não colocadas por subscrição pública só vencem juro a partir da data da entrega ao Tesouro do capital correspondente, de harmonia com o disposto na parte aplicável do artigo 11.º do [Decreto-Lei n.º 46152](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46152-1965-226659), de 11 de Janeiro de 1965.
+
+###### Art. 14.º Nos dez dias úteis após o final de cada uma das quatro quinzenas da subscrição, as instituições de crédito entregarão ao Tesouro, mediante guias solicitadas à Direcção-Geral da Fazenda Pública, a importância total das subscrições feitas por seu intermédio.
+
+###### Art. 15.º - 1. Até ao décimo dia útil posterior ao final das citadas quinzenas de subscrição, as instituições de crédito entregarão na Junta do Crédito Público os originais dos boletins subscritos por seu intermédio.
+
+2. Os boletins que, em razão de demora de transporte, não possam ser entregues dentro dos prazos estabelecidos, serão objecto de comunicações provisórias à Junta, organizadas pelos competentes serviços das instituições de crédito.
+
+###### Art. 16.º No Orçamento Geral do Estado serão inscritas as verbas indispensáveis para ocorrer aos encargos do empréstimo autorizado por este diploma.
+
+###### Art. 17.º As despesas com a emissão do empréstimo, incluindo os trabalhos extraordinários que a urgência da sua representação justificar e forem autorizados, serão pagas por força das correspondentes dotações orçamentais do Ministério das Finanças, inscritas nos orçamentos dos anos económicos em que tiverem lugar.
+
+###### Art. 18.º As disposições do artigo 39.º do [Decreto-Lei n.º 42900](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42900-1960-282283), de 5 de Abril de 1960, no que se referem à indicação do montante e do encargo máximo, não são aplicáveis a este empréstimo.
+
+###### Art. 19.º Este decreto-lei entra imediatamente em vigor.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.
+
+**Promulgado em 30 de Dezembro de 1974.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**

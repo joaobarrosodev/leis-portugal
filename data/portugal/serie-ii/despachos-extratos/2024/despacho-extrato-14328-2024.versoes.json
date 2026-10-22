@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:898727763:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-extrato/2024-1180095775",
+ "dre_path": "/dr/detalhe/despacho-extrato/14328-2024-898727763",
+ "source_lastmod": "2026-10-14",
+ "versions": [
+  {
+   "date": "2024-12-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1180114775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1180114775": {
+   "fragment_id": "1180095875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Nos termos do disposto no n.º 2 do artigo 61.º da Lei n.º 5/2011, de 2 de março, com a redação dada pelo Decreto-Lei n.º 55/2021, de 29 de junho - Lei das Ordens Honoríficas Portuguesas, autorizo a unidade militar do Exército abaixo indicada a aceitar a seguinte condecoração.\n\nCruz com Espadas da Ordem Pro Merito Melitensi, da Ordem Soberana e Militar de Malta\n\nRegimento de Artilharia n.º 4."
+  }
+ }
+}

@@ -1,0 +1,182 @@
+---
+schema_version: '1.0'
+id: pt:dre:615036:por
+title: Portaria n.º 260/2010
+short_title: null
+summary: Aprova o modelo de declaração de regularização tributária de elementos patrimoniais colocados no exterior e as respectivas
+  instruções de preenchimento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e da Administração Pública
+proposing_entity: null
+official_number: 260/2010
+official_date: null
+publication_date: '2010-05-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 90/2010, Série I de 2010-05-10
+  number: '90'
+  series: I
+  supplement: null
+  pages: 1622 - 1624
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/05/09000/0162201624.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/260/2010/05/10/p/dre/pt/html
+  oj: null
+  dre: '615036'
+  dre_path: /dr/detalhe/portaria/260-2010-615036
+  internal: pt:dre:615036:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-2010-615036
+  metadata_url: https://data.dre.pt/eli/port/260/2010/05/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/260-2010-615036
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-05-10T00:00:00Z'
+integrity:
+  source_sha256: a03fe961cdb5dadafbd636bd81f19cc47a69a4bedcac60ed88cf91dc134ae772
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-260-615036.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituição de Crédito
+- Conservação de Documentos
+- Declaração de Rendimentos
+- Impresso
+- Banco de Portugal
+- Tributação
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3-b/2010/04/28/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 260/2010
+
+de 10 de Maio
+
+O regime excepcional de regularização tributária de elementos patrimoniais que não se encontrassem em território português em 31 de Dezembro de 2009, abreviadamente designado RERT II, foi criado pelo artigo 131.º da [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de Abril.
+
+A sua operacionalidade implica a adopção de algumas medidas complementares, designadamente as relativas à aprovação do modelo declarativo, à definição das características dos documentos comprovativos da titularidade, montante e localização dos elementos patrimoniais e, bem assim, relativamente aos elementos patrimoniais que se encontrassem em Estados fora da União Europeia e do Espaço Económico Europeu e à definição das regras a que deve obedecer o respectivo repatriamento a que se refere a alínea c) do n.º 2 do artigo 2.º do RERT II.
+
+Por outro lado, tendo em atenção a necessidade de salvaguardar a confidencialidade, para efeitos fiscais, de todas as declarações e elementos com ela relacionados, excepto quando o declarante os divulgue ou autorize expressamente a sua divulgação, atribui-se a sua guarda e arquivo ao Banco de Portugal.
+
+Foram ouvidos o Banco de Portugal e a Associação Portuguesa de Bancos.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 5.º do regime excepcional de regularização tributária de elementos patrimoniais, aprovado pelo artigo 131.º da [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), de 28 de Abril, manda o Governo, pelo Ministro de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Declaração de regularização tributária
+
+1 - É aprovado o modelo de declaração de regularização tributária de elementos patrimoniais colocados no exterior e as respectivas instruções de preenchimento, os quais se publicam em anexo à presente portaria e dela fazem parte integrante.
+
+2 - A declaração para regularização tributária a que se refere o número anterior pode ser obtida por impressão em papel formato A4 a partir do sítio da DGCI na Internet (www.portaldasfinancas.gov.pt).
+
+3 - A declaração de regularização tributária é apresentada em três exemplares, destinando-se um exemplar ao Banco de Portugal, outro exemplar à instituição de crédito interveniente, sendo o terceiro exemplar entregue ao apresentante, depois de autenticado pela instituição de crédito interveniente na recepção.
+
+###### Artigo 2.º — Elementos a apresentar com a declaração de regularização tributária
+
+1 - Juntamente com a declaração de regularização tributária, são apresentados documentos, originais ou autenticados, comprovativos:
+
+a) Da titularidade directa ou indirecta em 31 de Dezembro de 2009 dos elementos patrimoniais declarados;
+
+b) Do montante individualizado dos elementos patrimoniais declarados determinado nos termos do artigo 3.º do RERT II;
+
+c) Da identificação da instituição depositária, contratante ou emitente, com a indicação da sua sede, direcção efectiva ou estabelecimento estável, a que os depósitos, contratos ou emissões sejam imputáveis; e
+
+d) Da transferência, para conta aberta em nome do declarante junto de uma instituição de crédito domiciliada em território português ou para uma sucursal instalada neste território, dos elementos patrimoniais declarados caso estes se encontrassem em Estados fora da União Europeia e do Espaço Económico Europeu ou, quando, comprovadamente, os elementos patrimoniais declarados já não se encontrem na titularidade do declarante no momento do repatriamento, de outros activos financeiros de valor equivalente que tenham substituído aqueles.
+
+2 - Para efeitos do disposto na alínea d) do número anterior, se na data da transferência o declarante não detiver os elementos patrimoniais declarados e os activos financeiros que detém forem de valor inferior ao que consta da declaração de titularidade a 31 de Dezembro de 2009, deve ser esse o montante objecto de repatriamento.
+
+###### Artigo 3.º — Arquivo da declaração de regularização tributária
+
+Compete ao Banco de Portugal conservar em arquivo, por um período de 10 anos, todas as declarações de regularização tributária e respectivos documentos comprovativos.
+
+**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 6 de Maio de 2010.**
+
+## ANEXO — (a que se refere o n.º 1 do artigo 1.º)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2010/05/09000/0162201624.pdf))](https://files.diariodarepublica.pt/1s/2010/05/09000/0162201624.pdf)
+
+Instruções de preenchimento
+
+Quadro 1 - este quadro destina-se à identificação do titular dos elementos patrimoniais declarados ou do seu representante fiscal em território português. Caso a declaração seja apresentada por representante fiscal, a morada a indicar é a deste, sendo sempre obrigatória a identificação do titular dos elementos patrimoniais declarados e a comprovação dos poderes de representação. É obrigatória a apresentação dos números de identificação fiscal do titular e do representante.
+
+Quadro 2 - no quadro 2 são descritos os elementos patrimoniais abrangidos pelo regime excepcional de regularização tributária aprovado pelo artigo 131.º da [Lei n.º 3-B/2010](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990) (RERT II). Os elementos patrimoniais descritos são obrigatoriamente individualizados por natureza, depositário, emitente e contratante, devendo ser apresentadas tantas declarações quanto as necessárias para declarar a totalidade dos elementos patrimoniais.
+
+Exemplos:
+
+1 - Depósito em US$, no montante de ..., na conta n.º ..., no Banco ..., em...
+
+2 - ... acções do capital social de ..., com o valor de ..., depositadas na conta n.º..., no Banco ..., em...
+
+3 - ...títulos do Estado Português, no valor nominal de ..., depositados na conta n.º ..., no Banco ..., em...
+
+4 - ... obrigações emitidas por ..., no valor nominal de ..., depositadas na conta n.º ..., no Banco ..., em...
+
+5 - Apólice de seguro de vida n.º ...no montante de ... emitida por ..., em...
+
+A conversão em euros dos elementos patrimoniais far-se-á de acordo com as seguintes regras, aplicadas com referência à data de 31 de Dezembro de 2009, constantes do artigo 3.º do RERT II:
+
+a) No caso de depósitos em instituições financeiras, o montante do respectivo saldo;
+
+b) No caso de instrumentos financeiros cotados em mercado regulamentado, o valor da última cotação;
+
+c) No caso de unidades de participação em organismos de investimento colectivo não admitidas à cotação em mercado regulamentado, bem como de seguros do ramo «Vida» ligados a um fundo de investimentos, o seu valor para efeitos de resgate;
+
+d) No caso de operações de capitalização do ramo «Vida» e demais instrumentos de capitalização, o valor capitalizado;
+
+e) Nos demais casos, o valor que resultar da aplicação das regras de determinação do valor tributável previstas no Código do Imposto do Selo ou o respectivo custo de aquisição, consoante o que for maior.
+
+Os documentos comprovativos dos elementos patrimoniais declarados, emitidos pelas entidades depositárias ou contratantes, quando não redigidos em português, podem ser apresentados em língua inglesa. Um mesmo documento pode comprovar mais do que um elemento patrimonial declarado.
+
+Quadro 3 - este quadro destina-se à determinação, pelo declarante, do imposto que, nos termos do n.º 3 do artigo 5.º do RERT II, deve ser pago em simultâneo com a apresentação da declaração ou nos 10 dias úteis posteriores contados da data da recepção da mesma. É efectuada uma liquidação por cada declaração apresentada. O valor dos elementos objecto de regularização inscrito deve corresponde ao total do quadro 2.
+
+Quadro 4 - no quadro 4, de preenchimento obrigatório no caso de elementos patrimoniais que se encontrassem em Estados fora da União Europeia e do Espaço Económico Europeu, são descritos os elementos patrimoniais abrangidos pelo RERT II - os quais corresponderão aos elementos patrimoniais declarados no quadro 2 ou de outros activos financeiros de valor equivalente quando, após prova a efectuar pelo declarante, os elementos patrimoniais declarados não se encontrem, já, na titularidade do sujeito passivo no momento do repatriamento e tenham sido substituído por estes agora objecto de repatriamento - os quais foram objecto de transferência para conta aberta em nome do sujeito passivo junto de uma instituição de crédito domiciliada em território português ou para uma sucursal instalada neste território. Caso, na data da transferência, o sujeito passivo prove que não detém os elementos patrimoniais declarados e os activos financeiros que detém, e que substituam aqueles, sejam de valor inferior ao que consta da declaração datada de 31 de Dezembro de 2009 - e que constam do quadro 2 - , deverão ser estes os inscritos no quadro 4.
+
+Este quadro destina-se a ser assinado pelo sujeito passivo ou pelo seu representante legal e deve ser acompanhado de comprovativo da transferência emitido por instituição de crédito domiciliada em território português ou por sucursal instalada neste território. A falta de assinatura constitui motivo para recusa da declaração.
+
+Quadro 5 - este quadro destina-se a ser assinado pelo sujeito passivo ou pelo seu representante legal. A falta de assinatura constitui motivo para recusa da declaração.
+
+Quadro 6 - este quadro destina-se à identificação do banco interveniente nos actos de recepção e pagamento e à confirmação de cada um dos actos nele previstos.

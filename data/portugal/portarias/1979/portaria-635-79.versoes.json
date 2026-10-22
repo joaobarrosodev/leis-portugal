@@ -1,0 +1,934 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:367241:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1979-1090315275",
+ "dre_path": "/dr/detalhe/portaria/635-1979-367241",
+ "source_lastmod": "2026-06-03",
+ "versions": [
+  {
+   "date": "1985-07-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:183616:por",
+     "title": "Portaria n.º 493/85",
+     "published": "1985-07-20",
+     "dre_path": "/dr/detalhe/portaria/493-1985-183616"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 32.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera § único.",
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "1090315475",
+    "1128408975",
+    "1128409175",
+    "1090315675",
+    "1090315875",
+    "1090316075",
+    "1128396975",
+    "1129695475",
+    "1129695675",
+    "1129801675",
+    "1129801875",
+    "1129802075",
+    "1129802275",
+    "1128398175",
+    "1128398375",
+    "1128419275",
+    "1128419675",
+    "1129804775",
+    "1128420775",
+    "1090316275",
+    "1128420975",
+    "1090316475",
+    "1128424975",
+    "1129802475",
+    "1129802675",
+    "1128425375",
+    "1090316675",
+    "1128425575",
+    "1128425775",
+    "1128421875",
+    "1128422075",
+    "1128425975",
+    "1090316875",
+    "1128426975",
+    "1128433175",
+    "1128427175",
+    "1090317075",
+    "1128434675",
+    "1129802875",
+    "1128433375",
+    "1128458075",
+    "1128458275",
+    "1128435675",
+    "1128458475",
+    "1129805275",
+    "1090317275",
+    "1128435975",
+    "1128458675",
+    "1090317475",
+    "1128436275",
+    "1128436475",
+    "1128460475",
+    "1128459075",
+    "1128459275",
+    "1128459475",
+    "1128460675",
+    "1128459675",
+    "1128460875",
+    "1128461075",
+    "1128461275",
+    "1128461475"
+   ]
+  },
+  {
+   "date": "2026-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1128002428:por",
+     "title": "Portaria n.º 241/2026/1",
+     "published": "2026-05-29",
+     "dre_path": "/dr/detalhe/portaria/241-2026-1128002428"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 43.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 29.º"
+   ],
+   "fragments": [
+    "1090315475",
+    "1128408975",
+    "1128409175",
+    "1090315675",
+    "1090315875",
+    "1090316075",
+    "1134674975",
+    "1134680775",
+    "1134675175",
+    "1134675375",
+    "1129801875",
+    "1129802075",
+    "1134675575",
+    "1128398175",
+    "1134675775",
+    "1134675975",
+    "1134676175",
+    "1134678375",
+    "1128420775",
+    "1090316275",
+    "1128420975",
+    "1090316475",
+    "1128424975",
+    "1134678575",
+    "1129802675",
+    "1128425375",
+    "1090316675",
+    "1134678775",
+    "1134678975",
+    "1134680975",
+    "1134679175",
+    "1128425975",
+    "1090316875",
+    "1128426975",
+    "1128433175",
+    "1134679375",
+    "1090317075",
+    "1134679575",
+    "1129802875",
+    "1128433375",
+    "1134681175",
+    "1128458275",
+    "1128435675",
+    "1128458475",
+    "1129805275",
+    "1090317275",
+    "1128435975",
+    "1128458675",
+    "1090317475",
+    "1134679775",
+    "1134679975",
+    "1134680175",
+    "1128459075",
+    "1134680375",
+    "1128459475",
+    "1128460675",
+    "1128459675",
+    "1134680575",
+    "1128461075",
+    "1128461275",
+    "1128461475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1090315475": {
+   "fragment_id": "1090315375",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Considerando a reestruturação de que tem sido objecto a actividade dos mergulhadores da Armada:\n\nManda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, nos termos da alínea b) do artigo 2.º do Decreto n.º 120/74, de 25 de Março, o seguinte:"
+  },
+  "1128408975": {
+   "fragment_id": "1128408875",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado e posto em vigor o Regulamento do Serviço de Mergulhadores da Armada, anexo à presente portaria."
+  },
+  "1128409175": {
+   "fragment_id": "1128409075",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nÉ revogada a Portaria n.º 18874, de 12 de Dezembro de 1961."
+  },
+  "1090315675": {
+   "fragment_id": "1090315575",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Estado-Maior da Armada, 9 de Novembro de 1979. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante."
+  },
+  "1090315875": {
+   "fragment_id": "1090315775",
+   "type": 14,
+   "heading": "Anexo — Regulamento do Serviço de Mergulhadores da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento do Serviço de Mergulhadores da Armada"
+  },
+  "1090316075": {
+   "fragment_id": "1090315975",
+   "type": 1,
+   "heading": "Capítulo I — Designações, funções e categorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Designações, funções e categorias"
+  },
+  "1128396975": {
+   "fragment_id": "1128396875",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs mergulhadores da Armada compreendem:\n\na) Mergulhadores dos quadros permanentes;\n\nb) Mergulhadores em serviço militar obrigatório."
+  },
+  "1129695475": {
+   "fragment_id": "1128397075",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs mergulhadores dos quadros permanentes compreendem:\n\na) Os mergulhadores a que se referem as alíneas a), b), c), d) e e) do artigo 4.º genericamente designados, no âmbito deste Regulamento, por mergulhadores-sapadores;\n\nb) Os mergulhadores-nadadores de combate;\n\nc) Os mergulhadores-vigias.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1129695675": {
+   "fragment_id": "1128409275",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAlém das funções inerentes aos seus postos, na sua qualidade de militares da Armada, competem aos mergulhadores, em grau de responsabilidade adequado, as seguintes:\n\n1) Mergulhadores-sapadores:\n\na) Participar nas acções de carácter defensivo e ofensivo próprias da guerra de minas e de sabotagem submarina;\n\nb) Cooperar na inactivação de armamento explosivo que seja encontrado nas áreas de responsabilidade naval;\n\nc) Proceder a buscas nas obras vivas dos navios de guerra e mercantes, inactivando todo o armamento explosivo que seja encontrado;\n\nd) Efectuar operações de defesa de portos e de assalto e limpeza de praias, especialmente em áreas submersas;\n\ne) Prestar assistência aos navios da Armada em inspecções e reparações de obras vivas;\n\nf) Executar serviços de salvação marítima, nomeadamente a recuperação de naufragados, reflutuações e assistência a submarinos;\n\ng) Executar trabalhos subaquáticos, nomeadamente demolições submarinas e obras portuárias;\n\nh) Colaborar em missões de busca e salvamento, nomeadamente em socorros a náufragos;\n\ni) Guardar e conservar o material, incluindo o de demolição, em uso ou distribuído para utilização no respectivo serviço;\n\nj) Ministrar instrução de material, equipamento e técnica de mergulho;\n\nl) Efectuar os registos e escrituração inerentes ao serviço;\n\n2) Mergulhadores-nadadores de combate:\n\na) Efectuar deslocações discretas no meio aquático, no âmbito da execução de incursões anfíbias, e bem assim outras acções especiais de natureza militar, no âmbito das missões da Marinha;\n\nb) Efectuar os registos e a escrituração inerentes ao serviço;\n\n3) Mergulhadores-vigias:\n\na) Proceder a buscas nas obras vivas dos navios;\n\nb) Executar pequenas reparações subaquáticas no âmbito do serviço de limitação de avarias;\n\n4) Mergulhadores em serviço militar obrigatório:\n\na) Proceder a inspecções e buscas nas obras vivas dos navios de guerra e mercantes e colaborar na inactivação de todo o armamento explosivo que seja encontrado em zonas de responsabilidade naval;\n\nb) Cooperar em operações de defesa de portos e de assalto e limpeza de praias, especialmente em áreas submersas;\n\nc) Prestar assistência na reparação e inspecção das obras vivas de navios da Armada e outros, quando tal for determinado;\n\nd) Cooperar na execução de serviços de salvação marítima nomeadamente na recuperação de náufragos em reflutuação e assistência a submarinos;\n\ne) Cooperar, nos termos das disposições em vigor, na execução de trabalhos subaquáticos, nomeadamente demolições submarinas e trabalhos portuários;\n\nf) Cooperar em missões de busca e salvamento, nomeadamente em socorro a náufragos;\n\ng) Cooperar na guarda, conservação e manutenção do material, incluindo o de demolição, em uso ou distribuído para utilização, em serviço;\n\nh) Efectuar os registos e a escrituração inerentes ao serviço;\n\ni) Cooperar no serviço de limitação de avarias;\n\nj) Participar no serviço de vigilância.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1129801675": {
+   "fragment_id": "1128397275",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 4.º\n\nPrestam serviço de mergulhadores-sapadores:\n\na) Os oficiais a que se refere o artigo 103.º do Estatuto dos Oficiais da Armada;\n\nb) Os oficiais da classe de oficiais técnicos (mergulhadores);\n\nc) Os oficiais da classe do serviço especial do ramo de mergulhadores;\n\nd) Os sargentos e praças dos quadros permanentes da classe de mergulhadores;\n\ne) As praças habilitadas com o curso de especialização em sapador submarino.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1129801875": {
+   "fragment_id": "1128397475",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 5.º\n\nPrestam serviço de mergulhador-nadador de combate os oficiais, sargentos e praças habilitados com o curso de aperfeiçoamento em mergulhador-nadador de combate.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1129802075": {
+   "fragment_id": "1128397675",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 6.º\n\nPrestam serviço de mergulhador-vigia os oficiais, sargentos e praças habilitados com o curso de aperfeiçoamento em mergulhador-vigia.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1129802275": {
+   "fragment_id": "1128397875",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 7.º\n\nPrestam serviço de mergulhador em serviço militar obrigatório as praças habilitadas com a instrução técnica básica de mergulhadores.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1128398175": {
+   "fragment_id": "1128398075",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs sargentos e praças da classe de mergulhadores e os sapadores submarinos classificam-se, de acordo com a sua preparação profissional, em categorias."
+  },
+  "1128398375": {
+   "fragment_id": "1128398275",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nSão classificadas na 4.ª categoria as praças que concluam com aproveitamento a instrução técnica básica de mergulhadores."
+  },
+  "1128419275": {
+   "fragment_id": "1128419175",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nSão classificadas na 3.ª categoria as praças da classe de mergulhadores que concluam com aproveitamento o curso de formação técnica, o curso técnico complementar ou o curso de especialização em sapador submarino."
+  },
+  "1128419675": {
+   "fragment_id": "1128419575",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nSão classificadas na 2.ª categoria as praças da classe de mergulhadores que completem dois anos após o ingresso nos quadros permanentes daquela classe e as praças que completem igual período após a habilitação com o curso de especialização em sapador submarino."
+  },
+  "1129804775": {
+   "fragment_id": "1128421375",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616)."
+   ],
+   "markdown": "###### Artigo 12.º\n\nSão classificadas na 1.ª categoria as praças da classe de mergulhadores que satisfaçam as condições de promoção a segundo-sargento mergulhador.\n\n§ único. O ingresso na categoria de sargentos mantém o direito à categoria de mergulhador anteriormente possuída como praça, nas condições do corpo, deste artigo e demais disposições do presente Regulamento.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616)."
+  },
+  "1128420775": {
+   "fragment_id": "1128420675",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nSão peritos mergulhadores os oficiais a que se referem as alíneas a), b) e c) do artigo 4.º do presente Regulamento, podendo, como tal, dirigir qualquer operação de mergulho."
+  },
+  "1090316275": {
+   "fragment_id": "1090316175",
+   "type": 1,
+   "heading": "Capítulo II — Admissão a cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Admissão a cursos"
+  },
+  "1128420975": {
+   "fragment_id": "1128420875",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs condições de admissão aos cursos são as que constam das normas respectivas, a aprovar por diploma legal e despacho do Chefe do Estado-Maior da Armada."
+  },
+  "1090316475": {
+   "fragment_id": "1090316375",
+   "type": 1,
+   "heading": "Capítulo III — Preparação e treino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Preparação e treino"
+  },
+  "1128424975": {
+   "fragment_id": "1128424875",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs diferentes cursos e provas de mergulhadores previstos para o pessoal da Armada são realizados na Escola de Mergulhadores, cujas actividades são regidas pelo respectivo regulamento interno, aprovado por despacho do Chefe do Estado-Maior da Armada."
+  },
+  "1129802475": {
+   "fragment_id": "1128425075",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 16.º\n\nTodos os mergulhadores devem ser submetidos a treinos com a maior continuidade possível. Estabelecem-se como guia os tempos mínimos de exercícios periódicos, que são os seguintes:\n\na) Os mergulhadores-sapadores, os mergulhadores-nadadores de combate e os mergulhadores em serviço militar obrigatório devem treinar um mínimo de 270 minutos por trimestre à máxima profundidade praticável e com todos os aparelhos de mergulho para cuja condução estejam habilitados;\n\nb) Os mergulhadores-vigias devem realizar um treino mensal, com a duração mínima de noventa minutos, o qual consistirá, de preferência, na busca das obras vivas de um navio.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1129802675": {
+   "fragment_id": "1128421575",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 17.º\n\nOs mergulhadores da Armada que tenham deixado de mergulhar por um período superior a 3 meses não devem imergir a mais de 20 m sem que antes tenham efectuado 3 mergulhos, em dias separados, a profundidades inferiores.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1128425375": {
+   "fragment_id": "1128425275",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nNão deverão efectuar-se imersões a profundidades superiores a 40 m quando no local não exista uma câmara de pressão."
+  },
+  "1090316675": {
+   "fragment_id": "1090316575",
+   "type": 1,
+   "heading": "Capítulo IV — Inspecções médicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Inspecções médicas"
+  },
+  "1128425575": {
+   "fragment_id": "1128425475",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs candidatos a qualquer curso de mergulhador são sujeitos, primeiramente, a inspecção médica na Escola de Mergulhadores e, depois, aos exames das especialidades requeridas, incluindo provas psicotécnicas. Terminadas estas inspecções, deverão os candidatos ser presentes à Junta de Recrutamento e Selecção, acompanhados das respectivas fichas de observação, para julgamento da sua aptidão física, de harmonia com a legislação aplicável."
+  },
+  "1128425775": {
+   "fragment_id": "1128425675",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nOs mergulhadores da Armada devem ser sujeitos a uma inspecção médica anual, a realizar na Escola de Mergulhadores, para verificar se continuam a satisfazer às condições de aptidão física exigidas pela legislação aplicável."
+  },
+  "1128421875": {
+   "fragment_id": "1128421775",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - Além da inspecção médica anual a que se refere o artigo anterior, os mergulhadores deverão sujeitar-se a exames médicos periódicos, com um intervalo de tempo não superior a três meses.\n\n2 - Nestes exames médicos deve ser prestada atenção especial aos ouvidos, garganta e sistema respiratório em geral.\n\n3 - O comandante da Escola de Mergulhadores, os comandantes das unidades de mergulhadores-sapadores e os chefes de serviço de mergulhadores devem certificar-se se foram respeitados os preceitos regulamentares estabelecidos pelos artigos 20.º e 21.º"
+  },
+  "1128422075": {
+   "fragment_id": "1128421975",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nNa Escola de Mergulhadores prestará serviço um oficial médico, ao qual compete, especialmente, a inspecção dos candidatos a mergulhadores, o preenchimento das respectivas fichas de observação e a inspecção periódica, nos termos do presente Regulamento, de todos os mergulhadores da Armada e dos alunos que frequentam os cursos de mergulhadores da Armada."
+  },
+  "1128425975": {
+   "fragment_id": "1128425875",
+   "type": 11,
+   "heading": "§ único.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### § único.\n\nAo oficial médico a que se refere o corpo deste artigo compete igualmente instruir os mergulhadores na parte que respeita aos seus conhecimentos profissionais e assistir a todas as instruções em que a sua presença seja julgada necessária, devendo ser inspeccionado quanto à sua aptidão para suportar pressões, com o objectivo de poder prestar os seus serviços em câmaras de pressão."
+  },
+  "1090316875": {
+   "fragment_id": "1090316775",
+   "type": 1,
+   "heading": "Capítulo V — Registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Registos"
+  },
+  "1128426975": {
+   "fragment_id": "1128426875",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nTodos os mergulhadores terão sempre em seu poder um livro de registo, denominado «Registo do mergulhador», que servirá como certificado da sua qualificação, no qual serão registadas as imersões, os resultados das inspecções e exames médicos a que são obrigados, bem como quaisquer outras observações relativas ao desempenho do serviço de mergulhador."
+  },
+  "1128433175": {
+   "fragment_id": "1128433075",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nAs imersões e os treinos em câmaras de pressão devem ser registados detalhadamente num registo, designado por «Diário de imersões», pelo qual se avaliará em pormenor como foram realizadas as imersões, nomeadamente no que respeita a descompressões e outros procedimentos de segurança."
+  },
+  "1128427175": {
+   "fragment_id": "1128427075",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nNas respectivas repartições da Direcção do Serviço do Pessoal será mantido um registo actualizado do tempo de imersão de cada mergulhador."
+  },
+  "1090317075": {
+   "fragment_id": "1090316975",
+   "type": 1,
+   "heading": "Capítulo VI — Responsabilidade e segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Responsabilidade e segurança"
+  },
+  "1128434675": {
+   "fragment_id": "1128427275",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nSó podem ser responsáveis pela condução de operações com mergulhadores-sapadores os oficiais a que se referem as alíneas a), b) e c) do artigo 4.º do presente Regulamento.\n\n§ único. Em casos especiais, e na impossibilidade de se dispor de oficiais nas condições indicadas, os sargentos da classe de mergulhadores poderão assumir essa responsabilidade."
+  },
+  "1129802875": {
+   "fragment_id": "1128434975",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 27.º\n\n1 - As imersões a profundidade superior a 40 m só podem ser executados sob a direcção de um ofical especializado em mergulhador-sapador ou de um oficial oriundo da classe de mergulhadores.\n\n2 - Em casos especiais, e na impossibilidade de se dispor de oficiais nas condições indicadas, os sargentos da classe de mergulhadores poderão assumir essa responsabilidade.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1128433375": {
+   "fragment_id": "1128433275",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAs imersões entre 20 m e 40 m de profundidade devem ser dirigidas por um mergulhador de 1.ª categoria."
+  },
+  "1128458075": {
+   "fragment_id": "1128457975",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nOs mergulhadores em serviço militar obrigatório não podem efectuar imersões a profundidade superior a 40 m."
+  },
+  "1128458275": {
+   "fragment_id": "1128458175",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1 - Os mergulhadores-vigias não podem efectuar imersões a profundidade superior a 20 m.\n\n2 - As imersões efectuadas a profundidade superior a 10 m devem ser dirigidas por um mergulhador de 3.ª categoria ou superior."
+  },
+  "1128435675": {
+   "fragment_id": "1128435575",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nNas operações com mergulhadores adiante especificadas devem existir sempre mergulhadores de reserva, na situação de prontos, isto é, totalmente equipados, com válvula da garrafa aberta e máscara pronta a ser colocada:\n\na) Em exercícios de mergulhadores-sapadores;\n\nb) Em imersões a profundidade superior a 20 m;\n\nc) Quando mergulhando com aparelhos autónomos em locais em que exista o risco de os mergulhadores ficarem enrascados;\n\nd) Quando se esteja a ministrar instrução no mar."
+  },
+  "1128458475": {
+   "fragment_id": "1128458375",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1 - Todos os mergulhadores terão como guia outros mergulhadores, sendo normalmente designado um guia por cada mergulhador.\n\n2 - Quando os mergulhadores-sapadores estiverem a mergulhar com flutuadores ou nadando livremente, será designado um guia por cada quatro mergulhadores.\n\n3 - Nas condições a que se refere o número anterior, os mergulhadores de reserva não devem ser incluídos no pessoal que serve de guia ou no pessoal que opera na água."
+  },
+  "1129805275": {
+   "fragment_id": "1129805175",
+   "type": 11,
+   "heading": "Artigo 32.º-A",
+   "in_force_from": "1985-07-25",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 32.º-A\n\nSalvo nos casos devidamente justificados, os mergulhadores-nadadores de combate não realizarão acções submarinas a título individual ou isolado do âmbito da missão do Destacamento de Acções Especiais.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1090317275": {
+   "fragment_id": "1090317175",
+   "type": 1,
+   "heading": "Capítulo VII — Obrigações e direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Obrigações e direitos"
+  },
+  "1128435975": {
+   "fragment_id": "1128435875",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\nOs mergulhadores da Armada ficam obrigados ao serviço que lhes é próprio, quando isso lhes seja determinado, desde que se realizem as necessárias condições de responsabilidade, médicas e materiais, estabelecidas por este diploma e pelas instruções regulamentares em vigor."
+  },
+  "1128458675": {
+   "fragment_id": "1128458575",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nOs mergulhadores e os guias a que se refere o artigo 32.º receberão as gratificações a que têm direito e que lhes forem atribuídas pelo desempenho das suas funções."
+  },
+  "1090317475": {
+   "fragment_id": "1090317375",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "1128436275": {
+   "fragment_id": "1128436175",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1 - Incumbe à Escola de Mergulhadores fiscalizar o estado de preparação de todos os mergulhadores da Armada, exigindo, se assim o entender necessário, que estes provem estar aptos para a execução dos trabalhos normais da sua especialidade.\n\n2 - Incumbe ainda à Escola de Mergulhadores a inspecção periódica de todo o material de mergulho existente nas unidades e serviços da Armada."
+  },
+  "1128436475": {
+   "fragment_id": "1128436375",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\nOs comandantes, directores ou chefes que tenham sob as suas ordens mergulhadores ou possuam material de mergulho devem, no seu âmbito, proporcionar condições para que se cumpra o disposto no artigo 35.º"
+  },
+  "1128460475": {
+   "fragment_id": "1128436575",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\nPor portaria do Chefe do Estado-Maior da Armada serão estabelecidas as normas que definirão as equivalências entre as categorias de mergulhadores da Armada e as classes de mergulhadores civis."
+  },
+  "1128459075": {
+   "fragment_id": "1128458975",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nA execução de qualquer trabalho ou serviço próprio do Serviço de Mergulhadores da Armada, no âmbito da Marinha, que envolva abono de gratificação de imersão para além do correspondente aos quinhentos e quarenta minutos trimestrais, destinados a exercícios de instrução e a treino, carece da autorização do Chefe do Estado-Maior da Armada."
+  },
+  "1128459275": {
+   "fragment_id": "1128459175",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\nOs pedidos para os trabalhos ou serviços a que se refere o artigo anterior devem processar-se pela forma que se indica:\n\na) A entidade interessada dirige o respectivo pedido, pelas vias competentes, ao Comando Naval do Continente, especificando a natureza do serviço ou trabalho, local onde será efectuado e quaisquer outros elementos que se julguem necessários para o planeamento da sua execução;\n\nb) O Comando Naval do Continente, depois de informado pela Escola de Mergulhadores das possibilidades materiais e técnicas da realização e da estimativa de despesas a efectuar, incluindo nestas os abonos da gratificação por imersões, despesas de deslocações e encargos eventuais, submeterá o processo, devidamente informado, ao Chefe do Estado-Maior da Armada, através do Estado-Maior da Armada."
+  },
+  "1128459475": {
+   "fragment_id": "1128459375",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1 - Em casos devidamente fundamentados, pressupondo impraticabilidade de recurso a serviço público adequado, poderá ser autorizada a assistência do Serviço de Mergulhadores da Armada a entidades oficiais fora do âmbito da Marinha e até a particulares, mas, para estes, só quando envolva carácter humanitário.\n\n2 - A assistência a que se faz menção no número anterior, cujos pedidos se devem processar de forma idêntica à mencionada no artigo 39.º, implicará, normalmente, o reembolso dos correspondentes encargos, excepto quando envolva carácter humanitário."
+  },
+  "1128460675": {
+   "fragment_id": "1128460575",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nQuando as solicitações para realização de trabalhos ou serviços, nos termos do artigo 38.º e n.º 1 do artigo 40.º, sejam de molde a exigir uma actuação urgente, poderá o comandante naval do Continente providenciar no sentido da sua execução, devendo o processo respectivo, quando completado, ser submetido a aprovação superior, observado o disposto no artigo 39.º, na parte aplicável."
+  },
+  "1128459675": {
+   "fragment_id": "1128459575",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\nOs mergulhadores que estejam a realizar serviços para entidades estranhas à Marinha, nos termos do artigo 40.º, continuam sob à responsabilidade das autoridades a que estão subordinados e de acordo com o estabelecido neste Regulamento."
+  },
+  "1128460875": {
+   "fragment_id": "1128460775",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - Enquanto não existir um serviço público adequado para o efeito, as entidades do Estado, ou particulares, que desejem preparar pessoal mergulhador para o seu serviço, poderão solicitar à Superintendência dos Serviços do Pessoal a admissão destes a cursos a ministrar na Escola de Mergulhadores.\n\n2 - A instrução de mergulhadores civis na Escola de Mergulhadores, requerida pelas entidades interessadas nos termos previstos neste Regulamento, dará lugar a uma contrapartida a favor da Marinha, a satisfazer por aquelas entidades, a qual será fixada com base em informação da Escola, tendo em conta as despesas efectuadas.\n\n3 - Antes de frequentar os referidos cursos, o pessoal civil será sujeito às provas de admissão que forem regulamentadas."
+  },
+  "1128461075": {
+   "fragment_id": "1128460975",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nPara além do disposto no presente Regulamento, os sapadores submarinos regem-se pelas disposições genéricas aplicáveis previstas para os mergulhadores-sapadores."
+  },
+  "1128461275": {
+   "fragment_id": "1128461175",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\nA expressão «em imersão» aplicada neste Regulamento tem o significado de «sujeito à pressão»."
+  },
+  "1128461475": {
+   "fragment_id": "1128461375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante."
+  },
+  "1134674975": {
+   "fragment_id": "1128396875",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 1.º\n\nOs mergulhadores da Armada compreendem:\n\na) Os mergulhadores-sapadores;\n\nb) Os mergulhadores-nadadores de combate;\n\nc) Os mergulhadores-vigias.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134680775": {
+   "fragment_id": "1128397075",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs mergulhadores dos quadros permanentes compreendem:\n\na) Os mergulhadores a que se referem as alíneas a), b), c), d) e e) do artigo 4.º genericamente designados, no âmbito deste Regulamento, por mergulhadores-sapadores;\n\nb) Os mergulhadores-nadadores de combate;\n\nc) Os mergulhadores-vigias.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1134675175": {
+   "fragment_id": "1128409275",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 3.º\n\nAlém das funções inerentes aos seus postos, na sua qualidade de militares da Armada, competem aos mergulhadores, em grau de responsabilidade adequado, as seguintes:\n\n1) Mergulhadores-sapadores:\n\na) Participar nas acções de carácter defensivo e ofensivo próprias da guerra de minas e de sabotagem submarina;\n\nb) Cooperar na inactivação de armamento explosivo que seja encontrado nas áreas de responsabilidade naval;\n\nc) Proceder a buscas nas obras vivas dos navios de guerra e mercantes, inactivando todo o armamento explosivo que seja encontrado;\n\nd) Efectuar operações de defesa de portos e de assalto e limpeza de praias, especialmente em áreas submersas;\n\ne) Prestar assistência aos navios da Armada em inspecções e reparações de obras vivas;\n\nf) Executar serviços de salvação marítima, nomeadamente a recuperação de naufragados, reflutuações e assistência a submarinos;\n\ng) Executar trabalhos subaquáticos, nomeadamente demolições submarinas e obras portuárias;\n\nh) Colaborar em missões de busca e salvamento, nomeadamente em socorros a náufragos;\n\ni) Guardar e conservar o material, incluindo o de demolição, em uso ou distribuído para utilização no respectivo serviço;\n\nj) Ministrar instrução de material, equipamento e técnica de mergulho;\n\nl) Efectuar os registos e escrituração inerentes ao serviço;\n\n2) Mergulhadores-nadadores de combate:\n\na) Efectuar deslocações discretas no meio aquático, no âmbito da execução de incursões anfíbias, e bem assim outras acções especiais de natureza militar, no âmbito das missões da Marinha;\n\nb) Efectuar os registos e a escrituração inerentes ao serviço;\n\n3) Mergulhadores-vigias:\n\na) Proceder a buscas nas obras vivas dos navios;\n\nb) Executar pequenas reparações subaquáticas no âmbito do serviço de limitação de avarias;\n\nc) Cooperar nas missões de busca e salvamento marítimo e de resgate de náufragos a partir de uma unidade naval.\n\n4) [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1134675375": {
+   "fragment_id": "1128397275",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 4.º\n\nPrestam serviço de mergulhadores-sapadores:\n\na) Os oficiais com o curso de especialização de oficiais em mergulhador-sapador;\n\nb) Os oficiais da classe do serviço técnico do ramo de mergulhadores;\n\nc) Os oficiais da classe do serviço especial do ramo de mergulhadores;\n\nd) Os sargentos e praças da classe de mergulhadores;\n\ne) Os sargentos e praças habilitados com o curso de especialização em sapador submarino.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1134675575": {
+   "fragment_id": "1128397875",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 7.º\n\nPrestam serviço de sapador submarino os sargentos e praças com o curso de especialização em sapador submarino.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1134675775": {
+   "fragment_id": "1128398275",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 9.º\n\nSão classificadas na 4.ª categoria as praças que concluam com aproveitamento o curso de formação de praças mergulhadores.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134675975": {
+   "fragment_id": "1128419175",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 10.º\n\nSão classificadas na 3.ª categoria as praças da classe de mergulhadores que concluam com aproveitamento o curso de formação complementar de praças mergulhador-sapador ou os sargentos e praças que concluam o curso de especialização em sapador submarino.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134676175": {
+   "fragment_id": "1128419575",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 11.º\n\nSão classificadas na 2.ª categoria as praças da classe de mergulhadores que completem dois anos após ingresso nos quadros permanentes, desde que habilitadas com o curso de formação de mergulhador técnico, e os sargentos e praças que completem igual período após estarem habilitados com o curso de especialização em sapador submarino.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134678375": {
+   "fragment_id": "1128421375",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616)."
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - São classificadas na 1.ª categoria as praças da classe de mergulhadores que satisfaçam as condições de promoção a segundo-sargento mergulhador.\n\n2 - O ingresso na categoria de sargentos mantém o direito à categoria de mergulhador anteriormente possuída como praça, nas condições do número anterior, e demais disposições do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616)."
+  },
+  "1134678575": {
+   "fragment_id": "1128425075",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+   ],
+   "markdown": "###### Artigo 16.º\n\nTodos os mergulhadores devem ser submetidos a treinos com a maior continuidade possível. Estabelecem-se como guia os tempos mínimos de exercícios periódicos, que são os seguintes:\n\na) Os mergulhadores-sapadores e os mergulhadores-nadadores de combate devem treinar um mínimo de 270 minutos por trimestre à máxima profundidade praticável e com todos os aparelhos de mergulho para cuja condução estejam habilitados;\n\nb) Os mergulhadores-vigias devem realizar dois treinos mensais, que consistem num mergulho nas obras vivas de um navio, com a duração mínima de 90 minutos, e um exercício no âmbito da busca e salvamento, nomeadamente recuperação de náufrago a nado.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 493/85 - Diário da República n.º 165/1985, Série I de 1985-07-20](https://diariodarepublica.pt/dr/detalhe/portaria/493-1985-183616), em vigor a partir de 1985-07-25."
+  },
+  "1134678775": {
+   "fragment_id": "1128425475",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 19.º\n\n1 - Os candidatos a qualquer curso de mergulhador são sujeitos a inspeção médica e exames das especialidades requeridas, incluindo provas psicotécnicas, a definir por despacho do Superintendente do Pessoal.\n\n2 - Concluídas as inspeções a que se refere o número anterior, os processos são analisados pela Direção de Pessoal para efeitos de seleção.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134678975": {
+   "fragment_id": "1128425675",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 20.º\n\nOs mergulhadores da Armada devem ser sujeitos a uma inspeção médica anual para verificar a satisfação das condições de aptidão física exigida pela legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134680975": {
+   "fragment_id": "1128421775",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 21.º\n\n1 - Além da inspecção médica anual a que se refere o artigo anterior, os mergulhadores deverão sujeitar-se a exames médicos periódicos, com um intervalo de tempo não superior a três meses.\n\n2 - Nestes exames médicos deve ser prestada atenção especial aos ouvidos, garganta e sistema respiratório em geral.\n\n3 - O comandante da Escola de Mergulhadores, os comandantes das unidades de mergulhadores-sapadores e os chefes de serviço de mergulhadores devem certificar-se se foram respeitados os preceitos regulamentares estabelecidos pelos artigos 20.º e 21.º\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134679175": {
+   "fragment_id": "1128421975",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 22.º\n\nNa Esquadrilha de Subsuperfície presta serviço um oficial médico naval, especializado em medicina hiperbárica, a quem compete a inspeção dos candidatos a mergulhadores, prevista no artigo 19.º, a manutenção dos respetivos registos médicos e a inspeção periódica, prevista no artigo 20.º, nos termos do presente Regulamento, de todos os mergulhadores da Armada e dos alunos que frequentam os cursos de mergulhador.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134679375": {
+   "fragment_id": "1128427075",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 25.º\n\nÀ Direção de Pessoal compete manter um registo atualizado do tempo de imersão de cada mergulhador.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134679575": {
+   "fragment_id": "1128427275",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 26.º\n\n1 - Só podem ser responsáveis pela condução de operações com mergulhadores-sapadores os oficiais a que se referem as alíneas a), b) e c) do artigo 4.º do presente Regulamento.\n\n2 - Em casos especiais, e na impossibilidade de se dispor de oficiais nas condições indicadas, os sargentos da classe de mergulhadores poderão assumir essa responsabilidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134681175": {
+   "fragment_id": "1128457975",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 29.º\n\nOs mergulhadores em serviço militar obrigatório não podem efectuar imersões a profundidade superior a 40 m.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134679775": {
+   "fragment_id": "1128436175",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 35.º\n\n1 - Ao Agrupamento de Mergulhadores compete controlar o estado de preparação de todos os mergulhadores da Armada, exigindo, se assim o entender necessário, que estes provem estar aptos para a execução dos trabalhos normais da sua especialidade.\n\n2 - Compete ainda ao Agrupamento de Mergulhadores a inspeção periódica de todo o material de mergulho existente nas unidades e serviços da Marinha.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134679975": {
+   "fragment_id": "1128436375",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 36.º\n\nOs comandantes, diretores ou chefes que tenham sob as suas ordens mergulhadores ou que possuam material de mergulho, devem, no seu âmbito, proporcionar condições para que se cumpra o disposto nos artigos 16.º e 35.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134680175": {
+   "fragment_id": "1128436575",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 37.º\n\nPor portaria do membro do Governo responsável pela área da defesa nacional serão estabelecidas as normas que definirão as equivalências entre as categorias de mergulhadores da Armada e as classes de mergulhadores civis.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134680375": {
+   "fragment_id": "1128459175",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 39.º\n\nOs pedidos para os trabalhos ou serviços a que se refere o artigo anterior devem processar-se pela forma que se indica:\n\na) A entidade interessada dirige o respetivo pedido, pelas vias competentes, ao Comando Naval, especificando a natureza do serviço ou trabalho, local onde será efetuado e quaisquer outros elementos que se julguem necessários para o planeamento da sua execução;\n\nb) O Comando Naval, depois de informado pelo Agrupamento de Mergulhadores das possibilidades materiais e técnicas da realização e da estimativa de despesas a efetuar, incluindo os abonos da gratificação por imersões, despesas de deslocações e encargos eventuais, submete o processo, devidamente informado, ao Chefe do Estado-Maior da Armada, através do Estado-Maior da Armada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  },
+  "1134680575": {
+   "fragment_id": "1128460775",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": "2026-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+   ],
+   "markdown": "###### Artigo 43.º\n\n1 - Enquanto não existir um serviço público adequado para o efeito, para as entidades do Estado, ou particulares, que desejem preparar pessoal mergulhador para o seu serviço, podem solicitar à Superintendência do Pessoal a admissão a estes cursos a ministrar na Escola de Mergulhadores.\n\n2 - A instrução de mergulhadores civis na Escola de Mergulhadores, requerida pelas entidades interessadas nos termos previstos neste Regulamento, dará lugar a uma contrapartida a favor da Marinha, a satisfazer por aquelas entidades, a qual será fixada com base em informação da Escola, tendo em conta as despesas efectuadas.\n\n3 - Antes de frequentar os referidos cursos, o pessoal civil será sujeito às provas de admissão que forem regulamentadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 241/2026/1 - Diário da República n.º 104/2026, Série I de 2026-05-29](https://diariodarepublica.pt/dr/detalhe/portaria/241-2026-1128002428), em vigor a partir de 2026-05-30."
+  }
+ }
+}

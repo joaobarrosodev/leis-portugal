@@ -1,0 +1,155 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:236547:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-911627118",
+ "dre_path": "/dr/detalhe/decreto-lei/113-2005-236547",
+ "source_lastmod": "2025-03-19",
+ "versions": [
+  {
+   "date": "2005-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "911627249",
+    "911627250",
+    "911627251",
+    "911627252",
+    "911627253",
+    "911627254",
+    "911627255",
+    "911627256",
+    "911627257",
+    "911627258"
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:910323298:por",
+     "title": "Decreto-Lei n.º 13-A/2025",
+     "published": "2025-03-10",
+     "dre_path": "/dr/detalhe/decreto-lei/13-a-2025-910323298"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "911627249",
+    "911627250",
+    "911627251",
+    "911627252",
+    "911627253",
+    "911628103",
+    "911627255",
+    "911627256",
+    "911627257",
+    "911627258",
+    "911627259"
+   ]
+  }
+ ],
+ "fragments": {
+  "911627249": {
+   "fragment_id": "911627119",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 113/2005\n\nde 13 de Julho\n\nO Programa do XVII Governo Constitucional consagra como uma das principais prioridades da acção governativa a melhoria das condições do exercício das funções dos elementos que integram as forças de segurança.\n\nOs trágicos acontecimentos dos últimos meses vieram relembrar que os agentes das forças e serviços de segurança enfrentam, na sua actividade, riscos específicos dos quais pode resultar a morte ou invalidez permanente. Os mesmos acontecimentos tornaram clara a inadequação do regime de compensação para danos resultantes desses riscos que foi introduzido pelo Decreto-Lei n.º 189/2004, de 17 de Agosto, nomeadamente quanto ao âmbito de beneficiários em caso de morte.\n\nO presente diploma contém um novo regime de compensação por invalidez permanente ou morte directamente decorrente dos riscos próprios da actividade policial ou de segurança aplicável aos membros da Guarda Nacional Republicana, Polícia de Segurança Pública, Polícia Marítima, carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, Corpo da Guarda Prisional e Corpo Nacional da Guarda Florestal.\n\nMantendo-se o âmbito das pessoas abrangidas e os montantes estabelecidos para a compensação, altera-se o regime de acesso aos benefícios por morte, dando prioridade à indicação de beneficiário feita pelo próprio militar ou agente. Apenas na falta desta se recorre a um regime supletivo de âmbito mais alargado do que o actual.\n\nClarifica-se ainda a conexão entre o risco próprio da actividade e os danos elegíveis, adequando-a a um regime que, na prática, substitui um seguro, e a conexão desta compensação com outros benefícios. Finalmente, regula-se o procedimento a adoptar para a indicação de beneficiário e para a atribuição da compensação.\n\nNo sentido de evitar que os familiares das vítimas de acontecimentos recentes fossem prejudicados pela inexistência deste novo regime legal, estabelece-se que ele é aplicável a factos ocorridos desde a entrada em vigor do diploma cujo regime é agora substituído.\n\nForam ouvidas as associações sócio-profissionais e sindicais do pessoal abrangido pelo presente diploma.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "911627250": {
+   "fragment_id": "911627120",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nOs militares da Guarda Nacional Republicana, o pessoal com funções policiais da Polícia de Segurança Pública, o pessoal militarizado da Polícia Marítima, o pessoal da carreira de investigação e fiscalização do Serviço de Estrangeiros e Fronteiras, o pessoal do Corpo da Guarda Prisional e o pessoal do Corpo Nacional da Guarda Florestal têm direito a uma compensação especial por invalidez permanente ou morte directamente decorrente dos riscos próprios da actividade policial ou de segurança."
+  },
+  "911627251": {
+   "fragment_id": "911627121",
+   "type": 11,
+   "heading": "Artigo 2.º — Beneficiários em caso de morte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Beneficiários em caso de morte\n\n1 - Em caso de morte, a compensação a que se refere o artigo anterior é concedida a quem tiver sido indicado pelo militar ou agente de segurança, nos termos do artigo 3.º do presente diploma.\n\n2 - Não existindo a indicação referida no número anterior, a compensação é atribuída pela seguinte ordem de precedência:\n\na) Conjuntamente ao cônjuge sobrevivo, não separado judicialmente de pessoas e bens, ou à pessoa que vivia em união de facto com o falecido, nos termos referidos na Lei n.º 7/2001, de 11 de Maio, e aos filhos ou outros descendentes;\n\nb) Aos pais ou outros ascendentes."
+  },
+  "911627252": {
+   "fragment_id": "911627122",
+   "type": 11,
+   "heading": "Artigo 3.º — Indicação de beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Indicação de beneficiário\n\n1 - As pessoas singulares referidas no artigo 1.º podem declarar por escrito qual a pessoa ou pessoas a quem deve ser paga a compensação na situação referida no n.º 1 do artigo anterior e qual a percentagem desta a atribuir a cada um desses beneficiários.\n\n2 - A declaração supracitada tem natureza confidencial e pode ser revogada ou alterada a todo o tempo por iniciativa do declarante.\n\n3 - Os serviços administrativos da entidade na qual o agente ou militar presta serviço facultam-lhe, no momento do seu ingresso, e posteriormente a requerimento do mesmo militar ou agente, o formulário de declaração, de modelo aprovado pelo dirigente máximo da respectiva força ou serviço, contendo a identificação do declarante e os elementos referidos no n.º 1.\n\n4 - Depois de preenchida, a declaração é inserida em sobrescrito de cor opaca, o qual é fechado, lacrado e assinado no verso de forma legível pelo receptor e pelo declarante, sendo entregue a este um recibo.\n\n5 - O sobrescrito contendo a indicação do beneficiário é arquivado pelos serviços administrativos da força ou serviço respectivo e só é aberto em caso de morte do agente ou militar.\n\n6 - As forças e serviços referidos no presente diploma têm um prazo de 30 dias a contar da data da sua publicação para facultar aos agentes e militares os formulários para preenchimento da declaração dos beneficiários."
+  },
+  "911627253": {
+   "fragment_id": "911627123",
+   "type": 11,
+   "heading": "Artigo 4.º — Limites da compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Limites da compensação\n\n1 - O valor da compensação por morte é de 250 vezes o valor da retribuição mínima mensal garantida.\n\n2 - O valor da compensação por invalidez permanente tem como limite mínimo 150 vezes o valor da retribuição mínima mensal garantida e como limite máximo 250 vezes aquele valor.\n\n3 - A determinação da compensação referida no número anterior é feita tendo como base o seu limite mínimo, adicionando, por cada ano de serviço que o agente ou militar ainda pudesse prestar, o produto do índice 2,8 pelo valor da retribuição mínima mensal garantida.\n\n4 - Se, em resultado dos mesmos factos, à invalidez suceder a morte do militar ou agente, os beneficiários referidos no artigo 3.º têm direito ao pagamento da diferença remanescente.\n\n5 - Para efeitos do presente artigo, releva o valor da retribuição mínima mensal garantida em vigor à data dos factos geradores do direito à compensação."
+  },
+  "911627254": {
+   "fragment_id": "911627124",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição da compensação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Atribuição da compensação\n\n1 - O apuramento dos factos constitutivos do direito à compensação é objecto de inquérito a instaurar por determinação do membro do Governo com a tutela da força ou serviço de segurança, oficiosamente ou a requerimento dos interessados.\n\n2 - O instrutor do inquérito referido no número anterior é nomeado pelo dirigente máximo da respectiva força ou serviço e produz as suas conclusões no prazo máximo de 30 dias.\n\n3 - O relatório do inquérito:\n\na) Determina o nexo de causalidade existente entre o risco inerente ao exercício da função policial ou de segurança e a morte ou a invalidez permanente do agente ou militar;\n\nb) Fixa o montante da indemnização a atribuir, em caso de invalidez permanente;\n\nc) Identifica qual ou quais os beneficiários, em caso de morte.\n\n4 - O relatório do inquérito é homologado pelo dirigente máximo da respectiva força ou serviço, que o deverá remeter ao ministro da tutela.\n\n5 - A competência para a concessão da compensação a que se refere o artigo 1.º é exercida por despacho conjunto dos ministros com a tutela da área das finanças e da respectiva força ou serviço."
+  },
+  "911627255": {
+   "fragment_id": "911627125",
+   "type": 11,
+   "heading": "Artigo 6.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Encargos\n\nO pagamento da compensação a que se refere o presente diploma é feito por conta da Secretaria-Geral do Ministério das Finanças."
+  },
+  "911627256": {
+   "fragment_id": "911627126",
+   "type": 11,
+   "heading": "Artigo 7.º — Outros direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outros direitos\n\n1 - A compensação prevista no presente diploma não pode ser acumulada com direitos resultantes da aplicação do Decreto-Lei n.º 324/85, de 6 de Agosto.\n\n2 - A mesma compensação não pode ainda ser atribuída quando os factos tenham ocorrido no âmbito de missões policiais, humanitárias ou de paz fora do território nacional, se abrangidas por legislação especial.\n\n3 - Quando a morte ou invalidez tenha resultado de acidente de viação imputável a terceiro e cuja responsabilidade civil esteja transferida ou garantida para entidade seguradora ou equiparável, fica o Estado sub-rogado nos direitos dos beneficiários desta indemnização, até ao valor do montante pago nos termos deste diploma.\n\n4 - A aplicação do regime previsto no presente diploma não prejudica ou diminui outros direitos resultantes da aplicação de outras normas legais em vigor em tudo o que aqui não se encontre especialmente regulado."
+  },
+  "911627257": {
+   "fragment_id": "911627127",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação no tempo\n\nO presente diploma é aplicável às situações ocorridas a partir de 18 de Agosto de 2004, desde que não tenha havido atribuição da compensação prevista no Decreto-Lei n.º 189/2004, de 17 de Agosto."
+  },
+  "911627258": {
+   "fragment_id": "911627128",
+   "type": 11,
+   "heading": "Artigo 9.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Norma revogatória\n\nSão revogados os Decretos-Leis n.os 189/2004, de 17 de Agosto, e 80/2005, de 20 de Abril."
+  },
+  "911628103": {
+   "fragment_id": "911627124",
+   "type": 11,
+   "heading": "Artigo 5.º — Atribuição da compensação",
+   "in_force_from": "2025-03-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Atribuição da compensação\n\n1 - O apuramento dos factos constitutivos do direito à compensação é objecto de inquérito a instaurar por determinação do membro do Governo com a tutela da força ou serviço de segurança, oficiosamente ou a requerimento dos interessados.\n\n2 - O instrutor do inquérito referido no número anterior é nomeado pelo dirigente máximo da respectiva força ou serviço e produz as suas conclusões no prazo máximo de 30 dias.\n\n3 - O relatório do inquérito:\n\na) Determina o nexo de causalidade existente entre o risco inerente ao exercício da função policial ou de segurança e a morte ou a invalidez permanente do agente ou militar;\n\nb) Fixa o montante da indemnização a atribuir, em caso de invalidez permanente;\n\nc) Identifica qual ou quais os beneficiários, em caso de morte.\n\n4 - O relatório do inquérito é homologado pelo dirigente máximo da respectiva força ou serviço, que o deverá remeter ao ministro da tutela.\n\n5 - A competência para a concessão da compensação a que se refere o artigo 1.º é do membro do Governo com tutela da respetiva força ou serviço.\n\n> Alterado pelo/a Artigo 154.º do/a [Decreto-Lei n.º 13-A/2025 - Diário da República n.º 48/2025, Suplemento, Série I de 2025-03-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-a-2025-910323298), em vigor a partir de 2025-03-11, produz efeitos a partir de 2025-01-01"
+  },
+  "911627259": {
+   "fragment_id": "911627129",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Maio de 2005. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Luís Manuel Moreira de Campos e Cunha - Luís Filipe Marques Amado - Alberto Bernardes Costa - Jaime de Jesus Lopes Silva.\n\nPromulgado em 29 de Junho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 30 de Junho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

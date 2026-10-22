@@ -1,0 +1,627 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:58509397:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-108106965",
+ "dre_path": "/dr/detalhe/decreto-lei/155-2014-58509397",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-10-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108096050",
+    "108096051",
+    "108096052",
+    "108096053",
+    "108096054",
+    "108096055",
+    "108096056",
+    "108096057",
+    "108096058",
+    "108096059",
+    "108096060",
+    "108096061",
+    "108096062",
+    "108096063",
+    "108096064",
+    "108096065",
+    "108096067",
+    "108096068",
+    "108096069",
+    "108096070",
+    "108096071",
+    "108096072",
+    "108096073",
+    "108096074",
+    "108107575",
+    "108107576",
+    "108107577",
+    "108107578",
+    "108107579",
+    "108107580",
+    "108107581",
+    "108107582",
+    "108107583",
+    "108107584",
+    "108107585",
+    "108107586",
+    "108107587",
+    "108107588",
+    "108107589",
+    "108107590",
+    "108107591",
+    "108107592",
+    "108107593",
+    "108107594",
+    "108107595",
+    "108107596",
+    "108107597",
+    "108107598",
+    "108107599",
+    "108107600",
+    "108107601",
+    "108107602",
+    "108107603",
+    "108107604"
+   ]
+  },
+  {
+   "date": "2017-08-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108052025:por",
+     "title": "Decreto-Lei n.º 104/2017",
+     "published": "2017-08-25",
+     "dre_path": "/dr/detalhe/decreto-lei/104-2017-108052025"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "108096050",
+    "108096051",
+    "108096052",
+    "108096053",
+    "108107612",
+    "108107613",
+    "108096056",
+    "108096057",
+    "108096058",
+    "108096059",
+    "108096060",
+    "108096061",
+    "108096062",
+    "108096063",
+    "108096064",
+    "108096065",
+    "108096066",
+    "108096067",
+    "108096068",
+    "108096069",
+    "108096070",
+    "108107614",
+    "108107615",
+    "108096073",
+    "108096074",
+    "108107575",
+    "108107576",
+    "108107577",
+    "108107578",
+    "108107579",
+    "108107580",
+    "108107581",
+    "108107582",
+    "108107583",
+    "108107584",
+    "108107585",
+    "108107586",
+    "108107587",
+    "108107588",
+    "108107589",
+    "108107590",
+    "108107591",
+    "108107592",
+    "108107593",
+    "108107594",
+    "108107595",
+    "108107596",
+    "108107597",
+    "108107598",
+    "108107599",
+    "108107600",
+    "108107601",
+    "108107602",
+    "108107603",
+    "108107604"
+   ]
+  }
+ ],
+ "fragments": {
+  "108096050": {
+   "fragment_id": "108106966",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 155/2014\n\nde 21 de outubro\n\nA Resolução do Conselho de Ministros n.º 73/2013, de 19 de novembro, determinou o processo de criação da Instituição Financeira de Desenvolvimento (IFD), fixando os respetivos modelo e missão.\n\nA referida resolução do Conselho de Ministros atribui à IFD a missão de colmatar as falhas de mercado no financiamento das pequenas e médias empresas de cariz não financeiro, que sejam viáveis, à qual se deve dedicar em exclusivo.\n\nEsta instituição tem como objetivos desempenhar as funções de gestão «grossista» de instrumentos financeiros públicos de estímulo, incentivo e orientação do investimento empresarial em bens e serviços transacionáveis, melhorar as condições de financiamento da economia - pela redução dos custos e aumento das maturidades de financiamento das empresas viáveis, aumento da liquidez disponível e criação de novos instrumentos de financiamento e de capitalização, aperfeiçoar a integração institucional dos instrumentos financeiros existentes, e exercer, complementarmente, as funções de apoio técnico sobre modelos de financiamento público, na promoção da competitividade e da internacionalização das empresas portuguesas.\n\nA IFD visa colmatar as insuficiências de mercado no financiamento das pequenas e médias empresas, designadamente, ao nível da capitalização e do financiamento de longo prazo da atividade produtiva, assumindo uma importante função anticíclica. Consequentemente, pelo papel ativo na melhoria das condições de financiamento da economia e no aperfeiçoamento da arquitetura institucional dos instrumentos financeiros, a IFD ficará na dependência do membro do Governo responsável pela área da economia, em articulação com o membro do Governo responsável pelo desenvolvimento regional, sem prejuízo da função acionista exercida pelo membro do Governo responsável pela área das finanças.\n\nNeste contexto, a IFD assume a gestão de instrumentos financeiros com recurso a financiamento de fundos europeus estruturais e de investimento, e a gestão dos fundos resultantes do reembolso de incentivos reembolsáveis dos diferentes períodos de programação no âmbito dos fundos europeus.\n\nNo âmbito da sua gestão, a instituição privilegia uma intervenção de natureza grossista, operando em estreita parceria e complementaridade com o sistema financeiro, sem se sobrepor às atividades desenvolvidas pelas instituições de crédito, não captando depósitos nem outros fundos reembolsáveis junto do público.\n\nO aperfeiçoamento da arquitetura institucional dos instrumentos financeiros materializar-se-á através do aumento da eficácia dos instrumentos de financiamento da economia e da realização plena dos princípios de boa governação.\n\nA IFD deve permanecer, a todo o tempo, focada na sustentabilidade das suas atividades, as quais devem ser desenvolvidas de modo a não gerarem quaisquer riscos orçamentais, não devendo, igualmente, a IFD conceder financiamento ao sector público, o qual, para efeitos do presente decreto-lei, deve entender-se como incluindo também as empresas públicas de objeto não financeiro que se encontrem fora do perímetro geral de consolidação das Administrações Públicas, as Regiões Autónomas, as Autarquias Locais e as respetivas empresas.\n\nA administração da IFD, os seus órgãos sociais e trabalhadores devem aderir às melhores práticas em matéria de transparência e responsabilidade e pautar-se pela obtenção de resultados sustentáveis e duradouros.\n\nNa concretização do princípio da racionalidade económica, o processo de constituição da IFD pressupõe a integração progressiva de entidades financeiras existentes na esfera do Estado - com funções de gestão de instrumentos financeiros de apoio às empresas -, potenciando as respetivas disponibilidades. Com a criação da IFD, surge uma nova arquitetura institucional, que agrega as atuais entidades públicas com funções de gestão de instrumentos financeiros, conduzindo a uma gestão mais eficiente e racional dos recursos públicos de apoio ao financiamento das pequenas e médias empresas viáveis e contribuindo para uma visão consolidada da execução das políticas públicas nesta área de intervenção.\n\nNa prossecução da sua missão, a IFD norteia-se pela eficiência na utilização dos seus meios e recursos, pela sustentabilidade da sua atividade, pela responsabilização dos seus gestores e pela obtenção de resultados de forma duradoura.\n\nObtida a autorização do Banco de Portugal, ao abrigo do disposto no n.º 1 do artigo 175.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro, cumpre com o presente decreto-lei criar a IFD e aprovar os respetivos estatutos.\n\nFoi ouvido o Banco de Portugal.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "108096051": {
+   "fragment_id": "108106967",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei cria a IFD - Instituição Financeira de Desenvolvimento, S.A., e aprova os respetivos estatutos."
+  },
+  "108096052": {
+   "fragment_id": "108106968",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação da IFD - Instituição Financeira de Desenvolvimento, S.A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação da IFD - Instituição Financeira de Desenvolvimento, S.A.\n\n1 - É criada a IFD - Instituição Financeira de Desenvolvimento, S.A. (IFD).\n\n2 - São aprovados, em anexo ao presente decreto-lei e do qual fazem parte integrante, os estatutos da IFD.\n\n3 - A IFD é uma sociedade financeira, adota a forma de sociedade anónima, e rege-se pelo presente decreto-lei, pelos respetivos estatutos, pelo Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro (RGICSF), pelo regime jurídico aplicável ao sector público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, e, subsidiariamente, pelo Código das Sociedades Comerciais e demais legislação aplicável.\n\n4 - O capital social inicial da IFD deve ser depositado à ordem da sociedade no prazo máximo de 30 dias a contar da entrada em vigor do presente decreto-lei.\n\n5 - O presente decreto-lei é título bastante para efeitos de registo comercial.\n\n6 - O início de atividade da IFD fica dependente de registo especial do Banco de Portugal, nos termos dos artigos 65.º e seguintes do RGICSF.\n\n7 - A proposta de alteração dos estatutos da IFD é deliberada pela respetiva assembleia geral, em conformidade com a lei, e com respeito pelos princípios que estiveram na base da constituição da IFD e constantes do presente decreto-lei, ficando a sua concretização dependente de aprovação por instrumento legislativo com força legal equivalente ou superior à do presente decreto-lei, sem prejuízo da autorização prévia do Banco de Portugal, sempre que a mesma seja necessária, nos termos previstos no RGICSF."
+  },
+  "108096053": {
+   "fragment_id": "108106969",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede\n\nA IFD tem sede na cidade do Porto."
+  },
+  "108096054": {
+   "fragment_id": "108106970",
+   "type": 11,
+   "heading": "Artigo 4.º — Objeto da IFD - Instituição Financeira de Desenvolvimento, S.A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objeto da IFD - Instituição Financeira de Desenvolvimento, S.A.\n\n1 - A IFD tem por objeto a realização de operações que visem colmatar as insuficiências de mercado no financiamento de pequenas e médias empresas viáveis através:\n\na) Da gestão e administração de fundos de investimento, de outros patrimónios autónomos ou de instrumentos de natureza análoga, todos suportados por fundos públicos de apoio à economia; e\n\nb) Da realização de operações de crédito, incluindo concessão de garantias e outros compromissos.\n\n2 - Na prossecução do seu objeto, a IFD pode também desenvolver a atividade de consultadoria a pequenas e médias empresas em matéria de estrutura do capital, de estratégia empresarial e questões conexas, bem como consultadoria e serviços no domínio da fusão e compra de empresas.\n\n3 - A IFD é qualificada como sociedade financeira, para todos os efeitos legais, enquadrando-se na alínea l) do n.º 1 do artigo 6.º do RGICSF.\n\n4 - A IFD desenvolve a sua atividade de forma prudente e sustentável, de modo a não gerar quaisquer riscos orçamentais, e desempenha a sua atividade de concessão de empréstimos através de instrumentos intermediados («on-lending») facultados a outras instituições de crédito e sociedades financeiras a operar no mercado.\n\n5 - A IFD não investe em dívida pública portuguesa, emitida ou garantida pelo sector público consolidado, o qual, para efeitos do presente decreto-lei, deve entender-se como incluindo empresas públicas de objeto não financeiro que se encontrem fora do perímetro geral de consolidação das Administrações Públicas, as Regiões Autónomas, as Autarquias Locais e as respetivas empresas, nem financia ou presta garantias a tal sector."
+  },
+  "108096055": {
+   "fragment_id": "108106971",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências\n\n1 - A IFD desempenha a função de gestão de instrumentos financeiros dirigidos ao apoio à economia e ao estímulo e orientação do investimento empresarial e à criação de emprego, assumindo-se essencialmente como operador grossista.\n\n2 - Na concretização do seu objeto, compete em especial à IFD assegurar:\n\na) A gestão de instrumentos financeiros com recurso a financiamento de fundos europeus estruturais e de investimento, incluindo os relativos ao quadro comunitário de apoio 2014-2020, de acordo com os regulamentos da União Europeia e o Acordo de Parceria;\n\nb) A gestão dos reembolsos associados aos diferentes períodos de programação no âmbito dos fundos europeus, desde que não tenham outro destino legal ou contratualmente definido até à data da entrada em vigor do presente decreto-lei; e\n\nc) A gestão de instrumentos financeiros com recurso apenas a financiamento de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, de acordo com o seu objeto social.\n\n3 - Adicionalmente, compete à IFD o exercício de funções de apoio técnico sobre modelos de financiamento público, na promoção da competitividade e da internacionalização das empresas portuguesas.\n\n4 - O financiamento de longo prazo da IFD é assegurado apenas junto de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, devendo o mesmo ter subjacente a manutenção de um elevado rácio de solvabilidade e, no que respeita à respetiva composição e perfil de vencimento, um sólido equilíbrio entre ativos e passivos da IFD."
+  },
+  "108096056": {
+   "fragment_id": "108106972",
+   "type": 11,
+   "heading": "Artigo 6.º — Capital social da IFD - Instituição Financeira de Desenvolvimento, S.A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Capital social da IFD - Instituição Financeira de Desenvolvimento, S.A.\n\n1 - O capital social da IFD é de (euro) 100 000 000,00 (cem milhões de euros), sendo representado por 100 000 000 (cem milhões) de ações, com valor nominal de (euro) 1,00 (um euro) cada, devendo ser totalmente realizado nos termos previstos no n.º 4 do artigo 2.º\n\n2 - O Estado Português, através da Direção-Geral do Tesouro e Finanças, é o detentor de todas as ações da IFD, mantendo-se, a todo o tempo, o seu único acionista.\n\n3 - O capital social da IFD apenas pode ser aumentado por decisão do acionista único, em conformidade com as normas aplicáveis de direito português e do direito da União Europeia."
+  },
+  "108096057": {
+   "fragment_id": "108106973",
+   "type": 11,
+   "heading": "Artigo 7.º — Supervisão, controlo público e transparência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Supervisão, controlo público e transparência\n\n1 - A IFD encontra-se sujeita à supervisão do Banco de Portugal, nos termos do RGICSF.\n\n2 - A IFD está também sujeita ao controlo regular da Inspeção-Geral de Finanças e do Tribunal de Contas, nos termos da lei e no âmbito das respetivas competências.\n\n3 - A IFD subordina-se ainda aos procedimentos de gestão, controlo e auditoria previstos nas regras de aplicação dos fundos europeus estruturais e de investimento.\n\n4 - A Assembleia da República deve ser informada regularmente sobre o cumprimento dos objetivos da IFD sendo, para o efeito, os respetivos documentos de prestação de contas anuais auditados enviados à Assembleia da República para escrutínio público, e publicamente divulgados nos 30 dias subsequentes à sua aprovação pela assembleia geral.\n\n5 - Para efeitos do disposto no número anterior, a IFD remete ao Presidente da Assembleia da República, nos cinco dias úteis subsequentes à aprovação das contas em sede de assembleia geral, cópia das contas aprovadas nessa assembleia geral.\n\n6 - As políticas definidas para a atuação da IFD são regularmente avaliadas, pelo menos uma vez por ano, com o objetivo de identificar falhas de mercado no financiamento das pequenas e médias empresas de cariz não financeiro viáveis."
+  },
+  "108096058": {
+   "fragment_id": "108106974",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nRelações entre o Estado Português, a IFD - Instituição Financeira de Desenvolvimento, S.A., e as sociedades por esta totalmente dominadas\n\nSão aplicáveis às relações entre o Estado Português e a IFD e entre esta entidade e as sociedades por esta totalmente dominadas as normas dos artigos 501.º a 503.º do Código das Sociedades Comerciais."
+  },
+  "108096059": {
+   "fragment_id": "108107475",
+   "type": 11,
+   "heading": "Artigo 9.º — Função acionista e ministérios sectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Função acionista e ministérios sectoriais\n\n1 - A função acionista na IFD é exercida pelo membro do Governo responsável pela área das finanças, com faculdade de delegação, em articulação com os membros do Governo responsáveis pelas áreas da economia e do desenvolvimento regional, com respeito pelo objeto social da IFD e os seus requisitos de funcionamento consagrados no presente decreto-lei.\n\n2 - A tutela sectorial da IFD é exercida pelo membro do Governo responsável pela área da economia, em articulação com o membro do Governo responsável pela área do desenvolvimento regional.\n\n3 - Compete ao titular da função acionista propor a designação e destituição dos membros do conselho de administração da IFD, que não integrem a comissão de auditoria, em sede própria, sob proposta dos membros do Governo responsáveis pelas áreas da economia e do desenvolvimento regional."
+  },
+  "108096060": {
+   "fragment_id": "108107476",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação e incompatibilidades dos membros dos órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Designação e incompatibilidades dos membros dos órgãos sociais\n\n1 - A designação dos órgãos sociais da IFD é feita por eleição, em Assembleia Geral, nos termos da lei comercial.\n\n2 - São aplicáveis ao recrutamento e seleção dos membros do órgão de administração da IFD as melhores práticas e as regras legais aplicáveis às sociedades financeiras, especificamente os requisitos de competência e idoneidade, tal como as normas legais aplicáveis aos gestores públicos, em especial as previstas no Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, alterado pelo Decreto-Lei n.º 8/2012, de 15 de janeiro, e pela Lei n.º 64-B/2008, de 31 de dezembro.\n\n3 - Os membros do órgão de administração da IFD devem respeitar as regras legais aplicáveis em matéria de conflito de interesses e de divulgação de participações e interesses patrimoniais.\n\n4 - Os contratos de gestão a celebrar com os membros do órgão de administração da IFD devem conter uma cláusula de não concorrência específica, limitada a determinado período de tempo, após o término das funções desempenhadas na IFD."
+  },
+  "108096061": {
+   "fragment_id": "108107477",
+   "type": 11,
+   "heading": "Artigo 11.º — Remuneração dos membros do órgão de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Remuneração dos membros do órgão de administração\n\n1 - As remunerações dos membros do órgão de administração da IFD, a fixar de acordo com o previsto no artigo 10.º dos respetivos estatutos, correspondem às remunerações definidas para os membros dos órgãos de administração das empresas classificadas no Grupo A, nos termos previstos na Resolução do Conselho de Ministros n.º 16/2012, de 14 de fevereiro, sem prejuízo do disposto no número seguinte.\n\n2 - Os membros do órgão de administração da IFD podem exercer o direito de opção referido na 2.ª parte do n.º 9 do artigo 28.º do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, alterado pelo Decreto-Lei n.º 8/2012, de 15 de janeiro, e pela Lei n.º 64-B/2008, de 31 de dezembro."
+  },
+  "108096062": {
+   "fragment_id": "108107478",
+   "type": 11,
+   "heading": "Artigo 12.º — Trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Trabalhadores\n\nOs trabalhadores da IFD ficam sujeitos ao regime jurídico do contrato individual de trabalho, sendo-lhes adicionalmente exigível que adiram às melhores práticas em matéria de transparência e responsabilidade e que se pautem pela obtenção de resultados sustentáveis e duradouros."
+  },
+  "108096063": {
+   "fragment_id": "108107479",
+   "type": 11,
+   "heading": "Artigo 13.º — Contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Contratação\n\n1 - Com a exceção dos contratos celebrados no exercício das suas funções de gestão de tesouraria e de financiamento, a IFD está sujeita às regras da contratação pública e deve observar os correspondentes requisitos em todas as suas decisões e sempre que se relacione com terceiros.\n\n2 - A IFD deve observar plenamente os princípios da concorrência e da transparência."
+  },
+  "108096064": {
+   "fragment_id": "108107480",
+   "type": 11,
+   "heading": "Artigo 14.º — Despesas comprovadamente efetuadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Despesas comprovadamente efetuadas\n\nSão suportadas pela IFD as despesas comprovadamente efetuadas antes da constituição da sociedade e que sejam necessárias à sua criação."
+  },
+  "108096065": {
+   "fragment_id": "108107481",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no primeiro dia útil após a sua publicação."
+  },
+  "108096067": {
+   "fragment_id": "108107483",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 2 do artigo 2.º)\n\nESTATUTOS DA IFD - INSTITUIÇÃO FINANCEIRA DE DESENVOLVIMENTO, S. A."
+  },
+  "108096068": {
+   "fragment_id": "108107484",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede e objeto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede e objeto social"
+  },
+  "108096069": {
+   "fragment_id": "108107485",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação\n\nA sociedade adota a denominação de «IFD - Instituição Financeira de Desenvolvimento, S.A.», adiante abreviadamente designada por «IFD», é constituída sob a forma de sociedade anónima, e rege-se pelos presentes estatutos e pela legislação geral e especial que lhe seja aplicável."
+  },
+  "108096070": {
+   "fragment_id": "108107486",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\nA IFD tem a sua sede no Porto, na Avenida Fernão de Magalhães, 1862 - 13.º andar, freguesia de Campanhã."
+  },
+  "108096071": {
+   "fragment_id": "108107487",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objeto social\n\n1 - A IFD tem por objeto a realização de operações que visem colmatar as insuficiências de mercado no financiamento de pequenas e médias empresas viáveis através:\n\na) Da gestão e administração de fundos de investimento, de outros patrimónios autónomos ou de instrumentos de natureza análoga, todos suportados por fundos públicos de apoio à economia; e\n\nb) Da realização de operações de crédito, incluindo concessão de garantias e outros compromissos.\n\n2 - Na prossecução do seu objeto, a IFD pode também desenvolver a atividade de consultadoria a pequenas e médias empresas em matéria de estrutura do capital, de estratégia empresarial e questões conexas, bem como consultadoria e serviços no domínio da fusão e compra de empresas.\n\n3 - A IFD é qualificada como sociedade financeira, para todos os efeitos legais, enquadrando-se na alínea l) do n.º 1 do artigo 6.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro (RGICSF).\n\n4 - A IFD desenvolve a sua atividade de forma prudente e sustentável, de modo a não gerar quaisquer riscos orçamentais, e desempenha a sua atividade de concessão de empréstimos através de instrumentos intermediados («on-lending») facultados a outras instituições de crédito e sociedades financeiras a operar no mercado.\n\n5 - A IFD não investe em dívida pública portuguesa, emitida ou garantida pelo sector público consolidado, o qual, nos termos do diploma de criação da IFD, deve entender-se como incluindo as empresas públicas de objeto não financeiro que se encontrem fora do perímetro geral de consolidação das Administrações Públicas, as Regiões Autónomas, as Autarquias Locais, e as respetivas empresas, nem financia ou presta garantias a tal sector."
+  },
+  "108096072": {
+   "fragment_id": "108107488",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A IFD desempenha a função de gestão de instrumentos financeiros dirigidos ao apoio à economia e ao estímulo e orientação do investimento empresarial e à criação de emprego, assumindo-se essencialmente como operador grossista.\n\n2 - Na concretização do seu objeto compete em especial à IFD assegurar:\n\na) A gestão de instrumentos financeiros com recurso a financiamento de fundos europeus estruturais e de investimento, incluindo os relativos ao quadro comunitário de apoio 2014-2020, de acordo com os regulamentos da União Europeia e o Acordo de Parceria;\n\nb) A gestão dos reembolsos associados aos diferentes períodos de programação no âmbito dos fundos europeus, desde que não tenham outro destino legal ou contratualmente definido até à data da entrada em vigor do diploma de criação da IFD; e\n\nc) A gestão de instrumentos financeiros com recurso apenas a financiamento de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, de acordo com o seu objeto social.\n\n3 - Adicionalmente, compete à IFD o exercício de funções de apoio técnico sobre modelos de financiamento público, na promoção da competitividade e da internacionalização das empresas portuguesas.\n\n4 - O financiamento de longo prazo da IFD é assegurado apenas junto de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, devendo o mesmo ter subjacente a manutenção de um elevado rácio de solvabilidade e, no que respeita à respetiva composição e perfil de vencimento, um sólido equilíbrio entre ativos e passivos da IFD."
+  },
+  "108096073": {
+   "fragment_id": "108107489",
+   "type": 1,
+   "heading": "Capítulo II — Capital e ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital e ações"
+  },
+  "108096074": {
+   "fragment_id": "108107490",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\n1 - O capital social da IFD é de (euro) 100 000 000,00 (cem milhões de euros), encontra-se totalmente realizado e é representado por 100.000.000 (cem milhões) de ações, com valor nominal de (euro) 1,00 (um euro) cada.\n\n2 - O Estado Português é detentor de todas as ações da IFD, mantendo-se, a todo o tempo, o seu único acionista.\n\n3 - O capital social da IFD apenas pode ser aumentado por decisão do acionista único, em conformidade com as normas aplicáveis de direito português e do direito da União Europeia."
+  },
+  "108107575": {
+   "fragment_id": "108107491",
+   "type": 11,
+   "heading": "Artigo 6.º — Ações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ações\n\nAs ações são obrigatoriamente escriturais e nominativas."
+  },
+  "108107576": {
+   "fragment_id": "108107492",
+   "type": 1,
+   "heading": "Capítulo III — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Órgãos sociais"
+  },
+  "108107577": {
+   "fragment_id": "108107493",
+   "type": 8,
+   "heading": "Secção I — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Estrutura orgânica"
+  },
+  "108107578": {
+   "fragment_id": "108107494",
+   "type": 11,
+   "heading": "Artigo 7.º — Órgãos sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Órgãos sociais\n\n1 - São órgãos sociais da IFD:\n\na) A assembleia geral;\n\nb) O conselho de administração;\n\nc) A comissão de auditoria, que é parte integrante do conselho de administração; e\n\nd) O revisor oficial de contas.\n\n2 - O conselho de administração pode designar um secretário da sociedade e o respetivo suplente.\n\n3 - A assembleia geral cria, ainda, obrigatoriamente, um conselho consultivo e designa os respetivos membros."
+  },
+  "108107579": {
+   "fragment_id": "108107495",
+   "type": 11,
+   "heading": "Artigo 8.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Duração do mandato\n\n1 - Os membros dos órgãos sociais são designados para exercerem as suas funções por períodos de três anos civis, contando-se como completo o ano da designação.\n\n2 - Sem prejuízo de eventuais limitações legais, é permitida a recondução, por um máximo de duas vezes.\n\n3 - Os membros dos órgãos sociais consideram-se em funções após serem designados e terem aceite, expressa ou tacitamente, essa designação.\n\n4 - Os membros dos órgãos sociais permanecem em exercício de funções até à sua substituição, se entretanto não tiverem cessado as mesmas, por renúncia ou destituição."
+  },
+  "108107580": {
+   "fragment_id": "108107496",
+   "type": 11,
+   "heading": "Artigo 9.º — Caução e seguros em favor da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Caução e seguros em favor da sociedade\n\n1 - Salvo nos casos em que, nos termos legais, a caução seja, ou possa ser dispensada, os membros do conselho de administração devem, nos 30 dias seguintes à sua designação, prestar caução, pelo montante mínimo legalmente previsto, e por qualquer das formas admitidas por lei, podendo a caução ser substituída por seguro constituído para o efeito.\n\n2 - Havendo dispensa de prestação de caução a sociedade celebra contrato de seguro relativamente às responsabilidades inerentes às funções desempenhadas pelos seus administradores.\n\n3 - Não tendo sido dispensada a prestação de caução, a sociedade suporta o custo do contrato de seguro na parte em que exceder o valor mínimo legalmente previsto.\n\n4 - Compete à comissão de auditoria fixar o valor de cobertura de responsabilidade dos administradores a suportar pela sociedade, para os efeitos do cumprimento do disposto nos n.os 2 e 3."
+  },
+  "108107581": {
+   "fragment_id": "108107497",
+   "type": 11,
+   "heading": "Artigo 10.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Remuneração\n\nAs remunerações dos membros dos órgãos sociais são fixadas de acordo com as regras aplicáveis às empresas públicas e às sociedades financeiras."
+  },
+  "108107582": {
+   "fragment_id": "108107498",
+   "type": 8,
+   "heading": "Secção II — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia geral"
+  },
+  "108107583": {
+   "fragment_id": "108107499",
+   "type": 11,
+   "heading": "Artigo 11.º — Mesa da assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mesa da assembleia geral\n\n1 - A mesa da assembleia geral é constituída por um presidente e um secretário, a eleger pela assembleia geral.\n\n2 - Compete à mesa da assembleia geral proceder à convocação da assembleia geral e dirigir os respetivos trabalhos, bem como elaborar as atas."
+  },
+  "108107584": {
+   "fragment_id": "108107500",
+   "type": 11,
+   "heading": "Artigo 12.º — Convocação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Convocação e funcionamento\n\n1 - A assembleia geral deve ser convocada sempre que a lei o determine, ou sempre que o conselho de administração ou a comissão de auditoria o julguem necessário, nos prazos, termos e condições estabelecidos na lei.\n\n2 - A convocação do acionista único para a assembleia geral é feita por carta registada ou, caso este comunique previamente o seu consentimento, por correio eletrónico com recibo de leitura, devendo mediar, entre a expedição das cartas ou as mensagens de correio eletrónico, pelo menos, 21 dias.\n\n3 - Mediante decisão do acionista único, a assembleia geral pode passar a reunir com recurso a meios telemáticos."
+  },
+  "108107585": {
+   "fragment_id": "108107501",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.\n\n2 - Compete especialmente à assembleia geral:\n\na) Apreciar os documentos de prestação de contas e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Apreciar a gestão e fiscalização da sociedade;\n\nc) Eleger os membros dos órgãos sociais;\n\nd) Aprovar o plano de negócios anual, preparado de acordo com o disposto na alínea b) do n.º 1 do artigo 16.º;\n\ne) Deliberar sobre propostas de alterações dos estatutos, em conformidade com a lei, e com respeito pelos princípios que estiveram na base da criação da sociedade, conforme previsto no diploma de criação da IFD, ficando a sua concretização dependente de aprovação por instrumento legislativo com força legal equivalente ou superior à daquele diploma;\n\nf) Tratar de qualquer outro assunto para que tenha sido convocada."
+  },
+  "108107586": {
+   "fragment_id": "108107502",
+   "type": 8,
+   "heading": "Secção III — Conselho de administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho de administração"
+  },
+  "108107587": {
+   "fragment_id": "108107503",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição\n\n1 - A sociedade é administrada e representada por um conselho de administração composto por um mínimo de sete e um máximo de nove membros, todos eleitos por deliberação da assembleia geral, devendo no ato de designação ser fixado o número de administradores.\n\n2 - Para além dos três membros que integram a comissão de auditoria, o conselho é composto por administradores executivos, nos termos do disposto no n.º 1 do artigo seguinte, e por um a três administradores não executivos.\n\n3 - Os membros da comissão de auditoria integram o conselho de administração, sem prejuízo das suas competências de fiscalização e não obstante não disporem de poderes executivos.\n\n4 - Compete ao acionista único eleger o presidente e o vice-presidente do conselho de administração, não podendo o primeiro assumir funções executivas."
+  },
+  "108107588": {
+   "fragment_id": "108107504",
+   "type": 11,
+   "heading": "Artigo 15.º — Delegação de poderes e constituição de comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Delegação de poderes e constituição de comissões\n\n1 - O conselho de administração pode delegar, dentro dos limites da lei, poderes de administração, incluindo os relativos à gestão corrente da sociedade numa comissão executiva, composta por um mínimo de três e um máximo de cinco administradores, a qual deve preferencialmente ser presidida pelo vice-presidente do conselho de administração, sem prejuízo do disposto no número seguinte.\n\n2 - O presidente da comissão executiva é formalmente designado pelo conselho de administração.\n\n3 - As deliberações do conselho de administração relativas à delegação de poderes devem fixar os limites da delegação, devendo ser exarados em ata os poderes delegados e, no caso de se criar uma comissão executiva, deve a deliberação em causa estabelecer, ainda, a composição e o modo de funcionamento desta.\n\n4 - O conselho de administração pode constituir comissões especializadas sem remuneração específica dos seus membros, com ou sem a presença dos seus membros, para acompanhar determinadas matérias específicas."
+  },
+  "108107589": {
+   "fragment_id": "108107505",
+   "type": 11,
+   "heading": "Artigo 16.º — Competências do conselho de administração e da comissão executiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Competências do conselho de administração e da comissão executiva\n\n1 - Compete ao conselho de administração, sem prejuízo das demais competências que lhe conferem a lei e estes estatutos:\n\na) Gerir, com os mais amplos poderes, todos os negócios sociais e efetuar todas as operações relativas ao objeto social;\n\nb) Preparar e aprovar o plano de negócios anual da sociedade a submeter à assembleia geral, o qual deve identificar e consubstanciar, de forma clara, as falhas de mercado que a sociedade visa colmatar, bem como os instrumentos considerados adequados para o efeito;\n\nc) Aprovar os documentos de prestação de contas a submeter à assembleia geral;\n\nd) Representar a sociedade em juízo e fora dele, ativa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\ne) Nomear representantes, temporários ou permanentes, em sociedades ou outras instituições ou organismos públicos ou privados;\n\nf) Participar em agrupamentos complementares de empresas, cujo âmbito e atividades estejam de acordo com o objeto social da IFD.\n\n2 - Compete, também, em especial, ao conselho de administração, declarar a falta definitiva de um administrador no caso de este faltar, sem justificação aceite pela administração, a três reuniões seguidas ou a cinco interpoladas em cada exercício.\n\n3 - Para os efeitos do disposto no número anterior, cabe ao conselho de administração qualificar a falta, considerando-se devidamente justificada a que, sendo fundamentada pelo faltoso, não for recusada, até ao final da segunda reunião subsequente à que respeita.\n\n4 - Os poderes relativos à gestão corrente da sociedade que sejam delegados na comissão executiva, nos termos do n.º 1 do artigo anterior, incluem todos os poderes de decisão e representação necessários ou convenientes ao exercício da respetiva atividade, cuja delegação não seja proibida pelas normas legais e regulamentares a cada momento em vigor."
+  },
+  "108107590": {
+   "fragment_id": "108107506",
+   "type": 11,
+   "heading": "Artigo 17.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Reuniões\n\n1 - O conselho de administração reúne sempre que o presidente ou dois administradores o convoquem, e, pelo menos, uma vez por mês.\n\n2 - O conselho de administração pode deliberar reunir em datas previamente fixadas, que devem constar de deliberação específica e de ata, sendo, nesse caso, dispensada a convocação, sem prejuízo de disponibilização prévia de documentos.\n\n3 - A convocação pode ser verbal ou por correio eletrónico, devendo revestir forma escrita, se estiver em causa a deliberação de aumento do capital social ou a alteração da sede social.\n\n4 - Qualquer administrador pode fazer-se representar nas reuniões do conselho por outro administrador, mediante carta dirigida ao presidente, ou votar por correspondência, mas cada administrador apenas pode representar o máximo de dois ausentes.\n\n5 - As deliberações são tomadas por maioria simples dos administradores presentes ou representados, e dos que votem por correspondência, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "108107591": {
+   "fragment_id": "108107507",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência dos presidentes do conselho de administração e da comissão executiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência dos presidentes do conselho de administração e da comissão executiva\n\n1 - Compete especialmente ao presidente do conselho de administração:\n\na) Representar institucionalmente a sociedade em atos protocolares de caráter não executivo;\n\nb) Representar a sociedade em juízo ou fora dele, sempre que tal representação não for exercida pelo presidente da comissão executiva ou por um administrador desta integrante;\n\nc) Coordenar a atividade do conselho de administração;\n\nd) Convocar as reuniões do conselho de administração e fixar as respetivas ordens de trabalho, por sua iniciativa, ou a pedido do presidente da comissão executiva ou de quaisquer dois administradores;\n\ne) Dirigir as reuniões do conselho de administração, promovendo a participação dos seus membros nas respetivas deliberações;\n\nf) Exercer voto de qualidade no âmbito das reuniões do conselho de administração;\n\ng) Zelar pela correta execução das deliberações do conselho de administração.\n\n2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vice-presidente, caso tenha sido designado ou, na falta ou impedimento deste, pelo membro ao qual tenha sido atribuído esse direito no ato de nomeação, ou, na falta dessa indicação, pelo membro que se encontrar há mais tempo em funções e, em caso de igualdade, pelo mais idoso.\n\n3 - Ao presidente da comissão executiva compete:\n\na) A normal representação da sociedade, em juízo e fora dele;\n\nb) Coordenar a atividade da comissão executiva, bem como convocar e dirigir as respetivas reuniões;\n\nc) Solicitar ao presidente do conselho de administração a convocação das reuniões do conselho de administração, sempre que o entenda conveniente;\n\nd) Exercer voto de qualidade no âmbito das reuniões da comissão executiva;\n\ne) Zelar pela correta execução das deliberações da comissão executiva."
+  },
+  "108107592": {
+   "fragment_id": "108107508",
+   "type": 11,
+   "heading": "Artigo 19.º — Vinculação da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Vinculação da sociedade\n\n1 - A sociedade obriga-se perante terceiros pela intervenção de:\n\na) Dois administradores;\n\nb) Dois mandatários ou procuradores no cumprimento do respetivo mandato ou procuração.\n\n2 - Os atos e documentos de mero expediente podem ser praticados ou assinados por um administrador ou mandatário constituído para o efeito."
+  },
+  "108107593": {
+   "fragment_id": "108107509",
+   "type": 8,
+   "heading": "Secção IV — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fiscalização"
+  },
+  "108107594": {
+   "fragment_id": "108107510",
+   "type": 11,
+   "heading": "Artigo 20.º — Órgãos de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Órgãos de fiscalização\n\nA fiscalização da sociedade é exercida por uma comissão de auditoria e por um revisor oficial de contas."
+  },
+  "108107595": {
+   "fragment_id": "108107511",
+   "type": 11,
+   "heading": "Artigo 21.º — Comissão de auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Comissão de auditoria\n\n1 - A comissão de auditoria é composta por um presidente e dois vogais, todos designados pela assembleia geral, os quais, sem prejuízo da sua competência específica, são formalmente administradores não executivos, com assento no conselho de administração.\n\n2 - A comissão de auditoria tem as atribuições, poderes e deveres previstos na lei e nestes estatutos.\n\n3 - Compete especialmente à comissão de auditoria:\n\na) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;\n\nb) Acompanhar o funcionamento da sociedade e o cumprimento das leis, dos estatutos e dos regulamentos que lhe forem aplicáveis;\n\nc) Assistir a reuniões do conselho de administração;\n\nd) Pedir a convocação da assembleia geral, quando o entenda necessário, ou convocá-la, quando o presidente da mesa não o faça devendo fazê-lo;\n\ne) Emitir parecer sobre os documentos de prestação de contas;\n\nf) Levar à consideração do conselho de administração qualquer assunto e emitir parecer sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "108107596": {
+   "fragment_id": "108107512",
+   "type": 11,
+   "heading": "Artigo 22.º — Revisor oficial de contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Revisor oficial de contas\n\n1 - O revisor oficial de contas e o respetivo suplente, que devem ser sociedades de revisores oficiais de contas de reputação e dimensão adequadas à atividade desenvolvida pela sociedade, são designados pela assembleia geral, sob proposta da comissão de auditoria.\n\n2 - As competências, poderes e deveres do revisor oficial de contas são os que se encontram previstos na lei e nestes estatutos.\n\n3 - Compete especialmente ao revisor oficial de contas:\n\na) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;\n\nb) Acompanhar o funcionamento da sociedade e o cumprimento das leis, dos estatutos e dos regulamentos que lhe forem aplicáveis;\n\nc) Emitir parecer sobre os documentos de prestação de contas.\n\n4 - O revisor oficial de contas deve ter acesso ilimitado a toda e qualquer informação relativa à sociedade ou a qualquer dos seus órgãos sociais, que se revele necessária ao cumprimento de todas as suas obrigações."
+  },
+  "108107597": {
+   "fragment_id": "108107513",
+   "type": 8,
+   "heading": "Secção V — Secretário da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Secretário da sociedade"
+  },
+  "108107598": {
+   "fragment_id": "108107514",
+   "type": 11,
+   "heading": "Artigo 23.º — Secretário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Secretário\n\nO conselho de administração pode designar, a todo o tempo, um secretário e o respetivo suplente, com as funções e competências que lhe forem atribuídas por lei, e cujos mandatos, renováveis, por uma ou mais vezes, coincidem com o mandato do conselho de administração designante."
+  },
+  "108107599": {
+   "fragment_id": "108107515",
+   "type": 8,
+   "heading": "Secção VI — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Conselho consultivo"
+  },
+  "108107600": {
+   "fragment_id": "108107516",
+   "type": 11,
+   "heading": "Artigo 24.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Composição\n\n1 - A criação do conselho consultivo é decidida pelo acionista único, nos termos dos números seguintes.\n\n2 - O conselho consultivo é composto por representantes de stakeholders relevantes para a atividade da IFD devidamente qualificados e independentes e por outros membros de reconhecido mérito científico e técnico.\n\n3 - Os membros do conselho consultivo são designados pelo acionista único, por sua iniciativa ou sob proposta do conselho de administração.\n\n4 - O presidente do conselho consultivo é designado pelo acionista único.\n\n5 - O mandato dos membros do conselho consultivo é de quatro anos civis, podendo ser reeleitos apenas uma vez.\n\n6 - Quaisquer pessoas coletivas que, nos termos do n.º 2, tenham assento no conselho consultivo devem, por carta dirigida ao respetivo presidente, indicar, para cada mandato, uma pessoa singular que as represente com caráter de continuidade."
+  },
+  "108107601": {
+   "fragment_id": "108107517",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência e funcionamento\n\n1 - Compete ao conselho consultivo emitir pareceres, não vinculativos, sobre matérias relativas ao objeto social e atividades da IFD, por sua própria iniciativa ou a pedido do conselho de administração.\n\n2 - Os pareceres do conselho consultivo devem constar de ata e ser comunicados ao conselho de administração.\n\n3 - O conselho consultivo reúne sempre que convocado e, em qualquer caso, pelo menos duas vezes por ano.\n\n4 - As convocatórias do conselho consultivo, assinadas pelo respetivo presidente, devem constar de carta enviada aos vários membros, com a antecedência mínima de três dias.\n\n5 - A convocatória deve ainda ser afixada na sede da sociedade.\n\n6 - O conselho consultivo deve reunir e deliberar independentemente do número de membros presentes.\n\n7 - As deliberações são tomadas por maioria simples, correspondendo um voto a cada membro e tendo o presidente voto de qualidade.\n\n8 - As deliberações do conselho consultivo devem constar de ata.\n\n9 - O conselho consultivo emite um relatório anual da sua atividade, o qual deve ser publicamente divulgado."
+  },
+  "108107602": {
+   "fragment_id": "108107518",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições gerais e finais"
+  },
+  "108107603": {
+   "fragment_id": "108107519",
+   "type": 11,
+   "heading": "Artigo 26.º — Formas de comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Formas de comunicação\n\nTodas as comunicações emitidas ao abrigo do disposto no presente instrumento que devam revestir forma escrita e ser transmitidas por correio registado com aviso de receção, podem ser entregues com protocolo que comprove a data de entrega."
+  },
+  "108107604": {
+   "fragment_id": "108107520",
+   "type": 11,
+   "heading": "Artigo 27.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Dissolução e liquidação\n\n1 - A sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da sociedade rege-se pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "108107612": {
+   "fragment_id": "108106970",
+   "type": 11,
+   "heading": "Artigo 4.º — Objeto da IFD - Instituição Financeira de Desenvolvimento, S.A.",
+   "in_force_from": "2017-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+   ],
+   "markdown": "###### Artigo 4.º — Objeto da IFD - Instituição Financeira de Desenvolvimento, S.A.\n\n1 - A IFD, visando colmatar insuficiências de mercado, em especial no financiamento das pequenas e médias empresas e empresas de dimensão média em termos europeus (mid caps), tem por objeto a realização das seguintes operações e a prestação dos seguintes serviços:\n\na) Gestão e administração de fundos de investimento, de outros patrimónios autónomos ou de instrumentos de natureza análoga, todos suportados por fundos públicos de apoio à economia;\n\nb) Realização de operações de crédito, incluindo concessão de garantias e outros compromissos;\n\nc) Organização, em favor de instituições de crédito e sociedades financeiras a operar no mercado, de operações de obtenção de recursos financeiros junto de outras entidades, nacionais ou estrangeiras (operações de «arrangement»);\n\nd) Consultadoria a empresas em matéria de estrutura do capital, de estratégia empresarial e questões conexas, bem como consultadoria e serviços no domínio da fusão e compra de empresas.\n\n2 - [Revogado].\n\n3 - A IFD é qualificada como sociedade financeira, para todos os efeitos legais, enquadrando-se na alínea l) do n.º 1 do artigo 6.º do RGICSF.\n\n4 - A IFD desenvolve a sua atividade de forma prudente e sustentável, de modo a não gerar quaisquer riscos orçamentais, e desempenha a sua atividade de concessão de empréstimos através de instrumentos intermediados («on-lending») facultados a outras instituições de crédito e sociedades financeiras a operar no mercado.\n\n5 - A IFD não investe em dívida pública portuguesa, emitida ou garantida pelo sector público consolidado, o qual, para efeitos do presente decreto-lei, deve entender-se como incluindo as empresas públicas de objeto não financeiro que se encontrem fora do perímetro geral de consolidação das Administrações Públicas, as Regiões Autónomas, as Autarquias Locais, e as respetivas empresas, nem financia ou presta garantias a tal sector.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+  },
+  "108107613": {
+   "fragment_id": "108106971",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências",
+   "in_force_from": "2017-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+   ],
+   "markdown": "###### Artigo 5.º — Competências\n\n1 - A IFD desempenha a função de gestão de instrumentos financeiros dirigidos ao apoio à economia e ao estímulo e orientação do investimento empresarial e à criação de emprego, assumindo-se essencialmente como operador grossista.\n\n2 - Na concretização do seu objeto, compete em especial à IFD assegurar:\n\na) A gestão de instrumentos financeiros com recurso a financiamento de fundos europeus estruturais e de investimento, incluindo os relativos ao quadro comunitário de apoio 2014-2020, de acordo com os regulamentos da União Europeia e o Acordo de Parceria, bem como de financiamento proveniente de outros programas europeus de apoio às empresas, designadamente os geridos pelo Grupo do Banco Europeu de Investimento, no âmbito do Fundo Europeu para Investimentos Estratégicos, ou outros financiados pelo orçamento da União Europeia;\n\nb) A gestão dos reembolsos associados aos diferentes períodos de programação no âmbito dos fundos europeus, desde que não tenham outro destino legal ou contratualmente definido até à data da entrada em vigor do presente decreto-lei; e\n\nc) A gestão de instrumentos financeiros com recurso apenas a financiamento de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, de acordo com o seu objeto social.\n\n3 - Adicionalmente, compete à IFD o exercício de funções de apoio técnico sobre modelos de financiamento público, na promoção da competitividade e da internacionalização das empresas portuguesas.\n\n4 - O financiamento de longo prazo da IFD é assegurado apenas junto de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, devendo o mesmo ter subjacente a manutenção de um elevado rácio de solvabilidade e, no que respeita à respetiva composição e perfil de vencimento, um sólido equilíbrio entre ativos e passivos da IFD.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+  },
+  "108096066": {
+   "fragment_id": "108107482",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de setembro de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Manuel Castro Almeida - António de Magalhães Pires de Lima.\n\nPromulgado em 15 de outubro de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 16 de outubro de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "108107614": {
+   "fragment_id": "108107487",
+   "type": 11,
+   "heading": "Artigo 3.º — Objeto social",
+   "in_force_from": "2017-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+   ],
+   "markdown": "###### Artigo 3.º — Objeto social\n\n1 - A IFD, visando colmatar insuficiências de mercado, em especial no financiamento das pequenas e médias empresas e empresas de dimensão média em termos europeus (mid caps), tem por objeto a realização das seguintes operações e a prestação dos seguintes serviços:\n\na) Gestão e administração de fundos de investimento, de outros patrimónios autónomos ou de instrumentos de natureza análoga, todos suportados por fundos públicos de apoio à economia;\n\nb) Realização de operações de crédito, incluindo concessão de garantias e outros compromissos;\n\nc) Organização, em favor de instituições de crédito e sociedades financeiras a operar no mercado, de operações de obtenção de recursos financeiros junto de outras entidades, nacionais ou estrangeiras (operações de «arrangement»);\n\nd) Consultadoria a empresas em matéria de estrutura do capital, de estratégia empresarial e questões conexas, bem como consultadoria e serviços no domínio da fusão e compra de empresas.\n\n2 - [Revogado].\n\n3 - A IFD é qualificada como sociedade financeira, para todos os efeitos legais, enquadrando-se na alínea l) do n.º 1 do artigo 6.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de dezembro (RGICSF).\n\n4 - A IFD desenvolve a sua atividade de forma prudente e sustentável, de modo a não gerar quaisquer riscos orçamentais, e desempenha a sua atividade de concessão de empréstimos através de instrumentos intermediados («on-lending») facultados a outras instituições de crédito e sociedades financeiras a operar no mercado.\n\n5 - A IFD não investe em dívida pública portuguesa, emitida ou garantida pelo sector público consolidado, o qual, nos termos do diploma de criação da IFD, deve entender-se como incluindo as empresas públicas de objeto não financeiro que se encontrem fora do perímetro geral de consolidação das Administrações Públicas, as Regiões Autónomas, as Autarquias Locais, e as respetivas empresas, nem financia ou presta garantias a tal sector.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+  },
+  "108107615": {
+   "fragment_id": "108107488",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": "2017-08-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+   ],
+   "markdown": "###### Artigo 4.º — Competências\n\n1 - A IFD desempenha a função de gestão de instrumentos financeiros dirigidos ao apoio à economia e ao estímulo e orientação do investimento empresarial e à criação de emprego, assumindo-se essencialmente como operador grossista.\n\n2 - Na concretização do seu objeto compete em especial à IFD assegurar:\n\na) A gestão de instrumentos financeiros com recurso a financiamento de fundos europeus estruturais e de investimento, incluindo os relativos ao quadro comunitário de apoio 2014-2020, de acordo com os regulamentos da União Europeia e o Acordo de Parceria, bem como de financiamento proveniente de outros programas europeus de apoio às empresas, designadamente os geridos pelo Grupo do Banco Europeu de Investimento, no âmbito do Fundo Europeu para Investimentos Estratégicos, ou outros financiados pelo orçamento da União Europeia;\n\nb) A gestão dos reembolsos associados aos diferentes períodos de programação no âmbito dos fundos europeus, desde que não tenham outro destino legal ou contratualmente definido até à data da entrada em vigor do diploma de criação da IFD; e\n\nc) A gestão de instrumentos financeiros com recurso apenas a financiamento de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, de acordo com o seu objeto social.\n\n3 - Adicionalmente, compete à IFD o exercício de funções de apoio técnico sobre modelos de financiamento público, na promoção da competitividade e da internacionalização das empresas portuguesas.\n\n4 - O financiamento de longo prazo da IFD é assegurado apenas junto de instituições financeiras multilaterais e instituições de desenvolvimento nacionais, devendo o mesmo ter subjacente a manutenção de um elevado rácio de solvabilidade e, no que respeita à respetiva composição e perfil de vencimento, um sólido equilíbrio entre ativos e passivos da IFD.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 104/2017 - Diário da República n.º 164/2017, Série I de 2017-08-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/104-2017-108052025), em vigor a partir de 2017-08-26"
+  }
+ }
+}

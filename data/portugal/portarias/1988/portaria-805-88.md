@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:356545:por
+title: Portaria n.º 805/88
+short_title: null
+summary: Transfere para a comissão executiva da Região de Turismo do Verde Minho a competência para a prática de vários actos
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 805/88
+official_date: null
+publication_date: '1988-12-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 285/1988, Série I de 1988-12-12
+  number: '285'
+  series: I
+  supplement: null
+  pages: 4895 - 4896
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/12/28500/48954896.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '356545'
+  dre_path: /dr/detalhe/portaria/805-1988-356545
+  internal: pt:dre:356545:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/805-1988-356545
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/805-1988-356545
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-12-12T00:00:00Z'
+integrity:
+  source_sha256: c9683e0dbf6b1e97930c8d64897c8d1fea91c059c2bcda59e63c1b66bd72f8f9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-805-356545.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 805/88
+
+de 12 de Dezembro
+
+Considerando o disposto no artigo 6.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro, que estabelece normas respeitantes ao aproveitamento dos recursos turísticos do País e ao exercício da indústria hoteleira e similar;
+
+Considerando a solicitação do presidente da respectiva comissão regional e que a comissão executiva da Região de Turismo do Verde Minho se considera dotada dos meios adequados para o exercício das competências a que se referem as alíneas c), d) e e) do artigo 5.º do referido diploma legal, com a redacção que à alínea c) foi dada pelo [Decreto-Lei n.º 149/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-1988-285370), de 27 de Abril:
+
+Manda o Governo, pelo Secretário de Estado do Turismo, no uso da competência que lhe foi conferida pelo Despacho n.º 10/87, de 28 de Setembro, do Ministro do Comércio e Turismo, transferir para a comissão executiva da Região de Turismo do Verde Minho a competência para a prática dos seguintes actos:
+
+a) Atribuir aos estabelecimentos similares dos hoteleiros a respectiva classificação, com excepção dos que integrarem qualquer dos empreendimentos a que se referem as alíneas a) a d) do n.º 1 do artigo 4.º do [Decreto-Lei n.º 328/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/328-1986-221697), de 30 de Setembro;
+
+b) Autorizar a abertura dos estabelecimentos referidos na alínea anterior;
+
+c) Fiscalizar as instalações destes estabelecimentos e ordenar as providências necessárias para corrigir as deficiências neles verificadas.
+
+Ministério do Comércio e Turismo.
+
+**Assinada em 24 de Novembro de 1988.**
+
+**O Secretário de Estado do Turismo, Licínio Alberto de Almeida Cunha.**

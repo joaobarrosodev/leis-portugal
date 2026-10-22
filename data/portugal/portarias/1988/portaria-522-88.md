@@ -1,0 +1,171 @@
+---
+schema_version: '1.0'
+id: pt:dre:378079:por
+title: Portaria n.º 522/88
+short_title: null
+summary: Regulamenta o Decreto-Lei n.º 248/88, de 15 de Julho, que cria as sociedades de fomento empresarial (SFEs)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 522/88
+official_date: null
+publication_date: '1988-08-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 179/1988, Série I de 1988-08-04
+  number: '179'
+  series: I
+  supplement: null
+  pages: 3228 - 3230
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '378079'
+  dre_path: /dr/detalhe/portaria/522-1988-378079
+  internal: pt:dre:378079:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/522-1988-378079
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/522-1988-378079
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-08-04T00:00:00Z'
+integrity:
+  source_sha256: 20f6c2d15900c56d5184f38621ddd0b61faa1879c56d4ed5dcd9a4980d7644ce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-522-378079.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 522/88
+
+de 4 de Agosto
+
+A presente portaria visa regulamentar o [Decreto-Lei n.º 248/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1988-372452), de 15 de Julho.
+
+Na linha de orientação definida pelo PCEDED - Programa de Correcção Estrutural do Défice Externo e do Desemprego, que constitui o instrumento enquadrador da «estratégia de progresso controlado» , privilegiou-se, no âmbito do apoio das sociedades de fomento empresarial (SFEs), as empresas que contribuam para a redução do défice da balança de mercadorias e serviços e para a formação de valor acrescentado nacional.
+
+Estabelecem-se, assim, três condições para que as empresas possam beneficiar de apoio das SFEs. Envolvem a apresentação de um dossier relativamente simples e de fácil elaboração, ficando a eventual normalização dos mapas ao cuidado das SFEs, que, se assim o entenderem, poderão inspirar-se na [Portaria n.º 338/87](https://diariodarepublica.pt/dr/detalhe/portaria/338-1987-665948), de 24 de Abril.
+
+São elas as seguintes:
+
+Pelo menos 30% das vendas totais deverão ser encaminhados, directa ou indirectamente, para os mercados externos;
+
+A soma do valor acrescentado bruto das empresas com as vendas, directas ou indirectas, para os mercados externos deverá, pelo menos, representar 50% das vendas totais;
+
+As vendas, directas ou indirectas, para os mercados externos terão de exceder a componente importada dos custos correntes, ou seja, as empresas terão de apresentar um saldo cambial positivo. Por razões de simplificação, não se releva a componente importada do investimento neste balanço cambial.
+
+Atenta a finalidade prosseguida, fixam-se condições razoáveis de alienação das participações que, salvaguardando a rentabilidade das SFEs, estimulem a iniciativa e o gosto pelo risco dos jovens empresários.
+
+Assim:
+
+Manda o Governo, pelo Ministro das Finanças, em execução do disposto no artigo 20.º do [Decreto-Lei n.º 248/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-1988-372452), de 15 de Julho, o seguinte:
+
+1.º Para os fins da alínea a) do n.º 1 do artigo 3.º, considera-se que a empresa deve satisfazer os critérios legais de classificação de pequena e média empresa; se tais critérios não estiverem estabelecidos para o sector em causa, aplicar-se-ão os critérios definidos para as empresas industriais.
+
+2.º Para os fins da alínea b) do n.º 1 do artigo 3.º, considera-se que a empresa deve satisfazer cumulativamente as seguintes condições:
+
+a) [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
+
+b) [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
+
+c) [([ver documento original](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf))](https://files.diariodarepublica.pt/1s/1988/08/17900/32283230.pdf)
+
+3.º Em casos de notória redução de importações de países não pertencentes à CEE, as vendas no mercado externo, a que se refere o n.º 2.º, poderão integrar o valor da substituição de importações, desde que inequivocamente comprovadas.
+
+4.º - 1 - Entende-se por ano cruzeiro o primeiro exercício económico, que coincidirá com o ano civil, em que se possa considerar normal a utilização da capacidade produtiva instalada.
+
+2 - Nos casos de recuperação de empresas, entende-se o ano cruzeiro como o primeiro exercício económico, que coincidirá com o ano civil, em que se possa considerar normal a utilização da capacidade produtiva instalada após a implementação das medidas consideradas necessárias à sua viabilização económica.
+
+3 - O ano cruzeiro deverá iniciar-se num prazo máximo de três anos contados a partir do pedido de apoio à SFE.
+
+5.º - 1 - Entende-se por exportações indirectas o fornecimento de bens ou serviços a exportadores directos.
+
+2 - Nos casos em que os exportadores directos não canalizem para os mercados externos a totalidade das suas vendas, aplicar-se-á, para efeitos de determinação das exportações indirectas da empresa, a proporção das exportações nas vendas totais do exportador directo.
+
+6.º - 1 - Entende-se por componente importada dos custos as aquisições directas no exterior, acrescidas das importações indirectas.
+
+2 - As aquisições directas no exterior compreendem não só as importações efectuadas pela própria empresa, mas também as efectuadas através de importadores nacionais para a empresa.
+
+3 - As importações indirectas calcular-se-ão por aplicação dos coeficientes indicados nas fichas anexas à [Portaria n.º 338/87](https://diariodarepublica.pt/dr/detalhe/portaria/338-1987-665948), de 24 de Abril.
+
+7.º Para os fins da alínea b) do artigo 4.º, deve o jovem empresário deter, pelo menos, 10% do capital social da empresa.
+
+8.º Para os fins da alínea d) do artigo 5.º, considera-se que os empréstimos ou garantias prestados deverão respeitar as condições definidas na linha de crédito do Banco de Portugal - Reforço do capital social das PMEs/Empréstimos a sócios singulares.
+
+9.º Para os fins do n.º 1 do artigo 6.º, considera-se empresa de má situação económico-financeira, mas eventualmente recuperável, aquela que não excede qualquer dos seguintes limites:
+
+1) Recuperação, através dos proveitos normais, dos seguintes custos:
+
+Matérias-primas e subsidiárias;
+
+Fornecimentos e serviços de terceiros;
+
+Subcontratos;
+
+50% dos outros custos;
+
+2) Existência de uma situação líquida passiva não superior a 25% do passivo dado pelo último balanço, considerando os aumentos do capital social a realizar no âmbito dos apoios a prestar pela SFE.
+
+10.º Para os fins do n.º 1 do artigo 7.º, aplicar-se-ão os seguintes princípios:
+
+1) Tem o jovem empresário o direito de adquirir a parte social da SFE por um preço que será a média aritmética simples dos dois valores obtidos pelos métodos seguintes, não podendo, contudo, ser inferior ao valor determinado pelo método constante da alínea a):
+
+a) Valor capitalizado da participação da SFE, dada pelo valor de aquisição mais juros compostos, calculadas anualmente à taxa básica de desconto do Banco de Portugal em vigor no 1.º dia de cada período anual, acrescida de dois pontos percentuais, menos os lucros que eventualmente hajam sido distribuídos, também capitalizados;
+
+b) Valor de cotação em bolsa ou, na falta dele, valor dado por avaliação da empresa;
+
+2) Tem o jovem empresário o direito de pagar à SFE o valor devido num prazo até cinco anos após a aquisição, mediante prestações periódicas de capital e juros, calculadas à taxa de juro que for negociável entre as partes;
+
+3) Na falta de entendimento entre a SFE e o jovem empresário quanto à avaliação a que se refere a alínea b) do n.º 1) anterior, caberá ao Auditor-Geral do Mercado de Títulos designar um árbitro, mediante requerimento de qualquer das partes, e a sua avaliação, a efectuar no prazo máximo de 120 dias, será acatada por ambas as partes.
+
+11.º As SFEs passam a ser entidades credenciadas para os fins da [Portaria n.º 338/87](https://diariodarepublica.pt/dr/detalhe/portaria/338-1987-665948), de 24 de Abril.
+
+Ministério das Finanças.
+
+**Assinada em 15 de Julho de 1988.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**

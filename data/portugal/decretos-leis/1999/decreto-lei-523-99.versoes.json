@@ -1,0 +1,226 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:632395:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-34559775",
+ "dre_path": "/dr/detalhe/decreto-lei/523-1999-632395",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51474775",
+    "50984175",
+    "50984275",
+    "50984375",
+    "50984475",
+    "50984575",
+    "50984675",
+    "50984775",
+    "50984875",
+    "50984975",
+    "50985075",
+    "50985175",
+    "50985275",
+    "50985375",
+    "50985475",
+    "50985575",
+    "50985675"
+   ]
+  },
+  {
+   "date": "2006-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:620286:por",
+     "title": "Decreto-Lei n.º 76-A/2006",
+     "published": "2006-03-29",
+     "dre_path": "/dr/detalhe/decreto-lei/76-a-2006-620286"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51474775",
+    "50984175",
+    "50984275",
+    "50984375",
+    "50984475",
+    "51474675",
+    "50984675",
+    "50984775",
+    "50984875",
+    "50984975",
+    "50985075",
+    "50985175",
+    "50985275",
+    "50985375",
+    "50985475",
+    "50985575",
+    "50985675",
+    "50985775"
+   ]
+  }
+ ],
+ "fragments": {
+  "51474775": {
+   "fragment_id": "35179575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-06-30",
+   "changed_by": [],
+   "markdown": "O direito à livre constituição de cooperativas, reconhecido pela Constituição da República, no seu artigo 61.º, como um dos direitos económicos fundamentais, tem dado origem a um sector cooperativo dinâmico, no âmbito do qual as 52 cooperativas de comercialização actualmente constituídas adquirem uma posição de relevo, na medida em que vêm desenvolvendo um notável trabalho na modernização do sector e na defesa dos interesses dos pequenos comerciantes.\n\nPrevista a sua existência no artigo 4.º do Código Cooperativo vigente, as cooperativas de comercialização têm o seu regime jurídico específico definido no Decreto-Lei n.º 311/81, de 18 de Novembro.\n\nTorna-se, agora, necessário definir um regime jurídico adaptado ao Código Cooperativo, entretanto aprovado pela Lei n.º 51/96, de 7 de Setembro, bem como às alterações que posteriormente sofreu em virtude da substituição do escudo pelo euro, através dos Decretos-Leis n.os 343/98, de 6 de Novembro, e 131/99, de 21 de Abril.\n\nPretende-se, igualmente, criar mecanismos que permitam uma cada vez maior responsabilização das cooperativas de comercialização perante os seus membros, nomeadamente criando novas formas de participação associativa e estabelecendo mecanismos aptos a incrementar a transparência na sua organização empresarial. Vão neste sentido duas das principais inovações do regime jurídico que agora se implementa: a criação do conselho cultural, enquanto órgão da cooperativa susceptível de ser encarregue pela respectiva direcção da promoção e execução das acções de dinamização associativa e de educação e formação cooperativas, e a obrigatoriedade de certificação legal de contas a partir da verificação de determinados requisitos.\n\nForam ouvidos o lNSCOOP - Instituto António Sérgio do Sector Cooperativo e a UCREPA - Federação Nacional das Cooperativas de Retalhistas de Produtos Alimentares, F. C. R. L.\n\nAssim, nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "50984175": {
+   "fragment_id": "36096775",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nAs cooperativas de comercialização e suas organizações de grau superior regem-se pelas disposições do presente diploma e, em tudo o que não estiver especialmente regulado, pelas do Código Cooperativo."
+  },
+  "50984275": {
+   "fragment_id": "36096875",
+   "type": 11,
+   "heading": "Artigo 2.º — Noção e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Noção e objecto\n\n1 - São cooperativas de comercialização as que tenham por objecto principal:\n\na) Adquirir, armazenar e fornecer aos membros os bens e serviços necessários à sua actividade;\n\nb) Colocar no mercado os bens produzidos ou transformados pelos membros;\n\nc) Desenvolver simultaneamente as actividades referidas nas alíneas anteriores.\n\n2 - A utilização da forma cooperativa não isenta da obrigatoriedade da conformidade do exercício da actividade com a lei, da obtenção de autorizações e licenças e de outras formalidades exigíveis nos termos legais, devendo as entidades de quem dependam as referidas autorizações e licenças ter em conta a especial natureza e função social das cooperativas."
+  },
+  "50984375": {
+   "fragment_id": "36096975",
+   "type": 11,
+   "heading": "Artigo 3.º — Actividades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Actividades\n\nPara a realização dos seus fins, as cooperativas de comercialização podem, nomeadamente:\n\na) Fornecer bens e serviços adquiridos ou produzidos pela cooperativa;\n\nb) Importar e exportar todos os bens e serviços que se integrem no âmbito das suas actividades;\n\nc) Instalar serviços de apoio;\n\nd) Criar e apoiar a realização de cursos de formação técnica e cooperativa;\n\ne) Promover actividades e serviços de ordem cultural e recreativa destinados aos seus membros e colaboradores."
+  },
+  "50984475": {
+   "fragment_id": "36097075",
+   "type": 11,
+   "heading": "Artigo 4.º — Cooperativas multissectoriais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cooperativas multissectoriais\n\n1 - Uma cooperativa de comercialização pode assumir a natureza de cooperativa multissectorial desde que, de acordo com os respectivos estatutos, desenvolva actividades próprias de outros ramos do sector cooperativo.\n\n2 - As cooperativas multissectoriais devem funcionar com secções autónomas correspondentes às várias actividades desenvolvidas e sujeitas aos regimes legais específicos.\n\n3 - Os benefícios especificamente concedidos às cooperativas de comercialização não são extensivos às actividades alheias a este ramo."
+  },
+  "50984575": {
+   "fragment_id": "36097175",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma de constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Forma de constituição\n\nAs cooperativas de comercialização constituem-se por escritura pública."
+  },
+  "50984675": {
+   "fragment_id": "36097275",
+   "type": 11,
+   "heading": "Artigo 6.º — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Membros\n\nOs membros das cooperativas de comercialização de 1.º grau podem ser pessoas singulares, maiores, ou pessoas colectivas."
+  },
+  "50984775": {
+   "fragment_id": "36097375",
+   "type": 11,
+   "heading": "Artigo 7.º — Admissão de membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Admissão de membros\n\n1 - Só podem ser admitidos como membros das cooperativas de comercialização as pessoas jurídicas, que se dediquem à actividade de comércio ou indústria, possuidoras de cartão de identificação de pessoa colectiva ou equiparada, que tenham estabelecimento próprio em actividade devidamente localizado.\n\n2 - Perde a qualidade de membro quem deixar de reunir os requisitos previstos no n.º 1 se, no prazo de dois anos, a actividade não for retomada."
+  },
+  "50984875": {
+   "fragment_id": "36097475",
+   "type": 11,
+   "heading": "Artigo 8.º — Entradas mínimas de capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entradas mínimas de capital\n\nSem prejuízo do disposto no n.º 2 do artigo 18.º do Código Cooperativo, as entradas mínimas de capital a subscrever pelo membro das cooperativas de comercialização não podem ser inferiores a (Euro) 100, podendo os estatutos definir um montante superior."
+  },
+  "50984975": {
+   "fragment_id": "36097575",
+   "type": 11,
+   "heading": "Artigo 9.º — Operações com terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Operações com terceiros\n\nSão consideradas operações com terceiros:\n\na) Nas cooperativas de comercialização que tenham como objectivo principal o consignado na alínea a) do artigo 2.º deste diploma, o fornecimento de bens e serviços a pessoas jurídicas que, embora reunindo as condições de admissão previstas nos estatutos, não sejam membros de cooperativas;\n\nb) Nas cooperativas de comercialização que tenham como objectivo principal o consignado na alínea b) do artigo 2.º deste diploma, as aquisições de bens e serviços produzidos ou transformados por pessoas jurídicas não admitidas como membros;\n\nc) Nas cooperativas de comercialização que tenham como objectivo principal o consignado na alínea c) do artigo 2.º deste diploma, as operações identificadas nas alíneas anteriores."
+  },
+  "50985075": {
+   "fragment_id": "36097675",
+   "type": 11,
+   "heading": "Artigo 10.º — Certificação legal das contas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Certificação legal das contas\n\n1 - Ficam obrigadas à certificação legal das contas as cooperativas de comercialização que, durante dois anos consecutivos, ultrapassem dois dos três seguintes limites:\n\na) Total do balanço: (Euro) 1500000;\n\nb) Total de vendas líquidas e outros proveitos: (Euro) 3000000;\n\nc) Número de trabalhadores empregados em média durante o exercício: 50.\n\n2 - O revisor oficial de contas será designado pela direcção da cooperativa."
+  },
+  "50985175": {
+   "fragment_id": "36097775",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselho cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselho cultural\n\nOs estatutos podem prever a criação de um conselho cultural, com competências delegadas pela direcção da cooperativa no planeamento, promoção e execução das acções de dinamização associativa e de educação e formação cooperativas."
+  },
+  "50985275": {
+   "fragment_id": "36097875",
+   "type": 11,
+   "heading": "Artigo 12.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incompatibilidades\n\nPara efeitos do artigo 64.º do Código Cooperativo, considera-se actividade económica idêntica ou similar à da cooperativa o exercício, pelo membro, da mesma actividade comercial, tal como se encontra definida no artigo 1.º do Decreto-Lei n.º 339/85, de 21 de Agosto."
+  },
+  "50985375": {
+   "fragment_id": "36097975",
+   "type": 11,
+   "heading": "Artigo 13.º — Adaptação dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Adaptação dos estatutos\n\nAs cláusulas estatutárias que regem as cooperativas de comercialização constituídas ao abrigo de legislação anterior e contrárias ao disposto no presente diploma consideram-se por este automaticamente substituídas, sem prejuízo das alterações que vierem a ser deliberadas pelos cooperadores."
+  },
+  "50985475": {
+   "fragment_id": "36098075",
+   "type": 11,
+   "heading": "Artigo 14.º — Actualização das entradas mínimas de capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Actualização das entradas mínimas de capital\n\nAplica-se à actualização das entradas mínimas de capital por parte dos membros das cooperativas de comercialização que já tenham essa qualidade à data de entrada em vigor do presente diploma o prazo estabelecido no n.º 3 do artigo 21.º do Código Cooperativo."
+  },
+  "50985575": {
+   "fragment_id": "36098175",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 311/81, de 18 de Novembro."
+  },
+  "50985675": {
+   "fragment_id": "36098275",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor 30 dias após a sua publicação."
+  },
+  "51474675": {
+   "fragment_id": "36097175",
+   "type": 11,
+   "heading": "Artigo 5.º — Forma de constituição",
+   "in_force_from": "2006-06-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+   ],
+   "markdown": "###### Artigo 5.º — Forma de constituição\n\nA constituição das cooperativas de comercialização deve ser reduzida a escrito, salvo se forma mais solene for exigida para a transmissão dos bens que representem o capital social inicial da cooperativa.\n\n> Alterado pelo/a Artigo 32.º do/a [Decreto-Lei n.º 76-A/2006 - Diário da República n.º 63/2006, Suplemento n.º 1, Série I-A de 2006-03-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-a-2006-620286), em vigor a partir de 2006-06-30"
+  },
+  "50985775": {
+   "fragment_id": "36098375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1999. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 19 de Novembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 25 de Novembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

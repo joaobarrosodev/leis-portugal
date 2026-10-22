@@ -1,0 +1,167 @@
+---
+schema_version: '1.0'
+id: pt:dre:499476:por
+title: Decreto-Lei n.º 385/87
+short_title: null
+summary: Fixa os níveis máximos de radioactividade para os géneros alimentícios e alimentos para animais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 385/87
+official_date: null
+publication_date: '1987-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 295/1987, Série I de 1987-12-24
+  number: '295'
+  series: I
+  supplement: null
+  pages: 4398 - 4399
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/12/29500/43984399.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '499476'
+  dre_path: /dr/detalhe/decreto-lei/385-1987-499476
+  internal: pt:dre:499476:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1987-499476
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/385-1987-499476
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-12-24T00:00:00Z'
+integrity:
+  source_sha256: a52967e3f60a1c106c80bdfff26226138714c643c97258aef8a601bcddd9dfd3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-385-499476.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 385/87
+
+de 24 de Dezembro
+
+Considerando que as medidas tomadas na Comunidade Económica Europeia relativas à contaminação radioactiva e constantes do Regulamento (CEE) n.º [1707/86](http://data.europa.eu/eli/reg/1986/1707/oj?locale=pt) do Conselho, de 30 de Maio de 1986, deixaram de vigorar em 31 de Outubro do ano em curso, não tendo sido substituídas por outras;
+
+Considerando que os níveis máximos de radioactividade fixados naquele Regulamento obtiveram então o consenso de todos os Estados membros;
+
+Considerando que, ao abrigo do artigo 36.º do [Tratado da CEE](https://diariodarepublica.pt/application/external/tratado), qualquer Estado membro pode adaptar medidas nacionais, na ausência de regulamentação comunitária com vista à salvaguarda da saúde pública;
+
+Considerando que é necessário prevenir o risco de contaminação radioactiva na comercialização, na importação e na exportação de géneros alimentícios e de alimentos para animais, aplicando internamente os níveis máximos de radioactividade fixados no citado Regulamento e estabelecendo um processo de controle da observância desses níveis:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º — Objectivo
+
+O presente diploma tem por objectivo fixar os níveis máximos de radioactividade para os produtos mencionados no artigo 2.º, cuja observância condiciona a sua comercialização, importação e exportação, bem como estabelecer o respectivo processo de controle.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+1 - O presente diploma é aplicável aos géneros alimentícios e aos alimentos para animais.
+
+2 - Para efeito do presente diploma entende-se como géneros alimentícios e como alimentos para animais os produtos definidos, respectivamente, no artigo 2.º, alínea b), do Decreto-Lei n.º 85/84, de 23 de Março, e no artigo 2.º, alínea 2), do Decreto-Lei n.º 50/84, de 8 de Fevereiro.
+
+###### Artigo 3.º — Níveis máximos admitidos
+
+Os níveis máximos de radioactividade referidos no artigo 1.º são os seguintes:
+
+1) A radioactividade máxima acumulada de césio 134 e 137 não deve ultrapassar:
+
+a) 370 Bq/kg para o leite das posições pautais 04.01 e 04.02, bem como para os géneros alimentícios destinados à alimentação especial dos lactentes durante os quatro a seis primeiros meses de vida, respondendo por si só às necessidades nutricionais dessa categoria de pessoas e acondicionados para venda a retalho em embalagens claramente identificadas e rotuladas como «preparados para lactentes»; todavia o nível aplicável aos produtos concentrados ou desidratados é calculado com base no produto reconstituído pronto para o consumo;
+
+b) 600 Bq/kg para todos os outros géneros alimentícios;
+
+2) A radioactividade máxima acumulada de iodo 131 não deve ultrapassar:
+
+a) 500 Bq/kg para o leite das posições pautais 04.01 e 04.02, bem como para os géneros alimentícios destinados à alimentação especial dos lactentes durante os quatro a seis primeiros meses de vida, respondendo por si só às necessidades nutricionais dessa categoria de pessoas e acondicionados para venda a retalho em embalagens claramente identificadas e rotuladas como «preparados para lactentes»; todavia o nível aplicável aos produtos concentrados ou desidratados é calculado com base no produto reconstituído pronto para o consumo;
+
+b) 1000 Bq/kg para todos os frutos e produtos hortícolas;
+
+c) 50 Bq/l para todos os alimentos líquidos, com excepção dos considerados na alínea a) do presente número;
+
+3) Os níveis máximos de radioactividade para os alimentos para animais serão fixados logo que disponíveis dados científicos para o efeito, sem prejuízo de que, sempre que as circunstâncias o aconselhem, por portaria do Ministro da Saúde, ouvida a comissão prevista no artigo 4.º, n.º 2, venham a ser estabelecidos os respectivos valores.
+
+###### Artigo 4.º — Condições excepcionais
+
+1 - Sempre que se verifiquem condições em relação às quais a aplicação dos Níveis fixados no artigo anterior implique perturbações na comercialização dos produtos, incluindo importações e exportações, com risco para a saúde pública, o Ministro da Saúde adoptará, por meio de portaria, as medidas adequadas.
+
+2 - Com o objectivo previsto no número anterior, é criada no Ministério da Saúde uma comissão com funções consultivas, constituída por representantes da Direcção-Geral dos Cuidados de Saúde Primários, do Instituto da Qualidade Alimentar, do Laboratório Nacional de Engenharia e Tecnologia Industrial e da Direcção-Geral das Alfândegas, podendo eventualmente integrar representantes de outros organismos, sempre que as circunstâncias o aconselhem.
+
+###### Artigo 5.º — Entidades competentes
+
+Sob a responsabilidade e coordenação do Ministério da Saúde, o controle da observância dos níveis máximos de radioactividade fixados no artigo 3.º será efectuado pelos departamentos competentes daquele Ministério e dos Ministérios da Indústria e Energia, da Agricultura, Pescas e Alimentação e das Finanças.
+
+###### Artigo 6.º — Controle
+
+O controle dos níveis de radioactividade para os produtos mencionados no artigo 2.º será efectuado:
+
+a) Nos locais de produção ou transformação, quando se tratar de produtos nacionais;
+
+b) Quando se tratar de produtos importados:
+
+Nas estâncias aduaneiras ou em outros locais sob a acção aduaneira, sempre que o controle deva ser efectuado antes do desalfandegamento dos produtos;
+
+Nos armazéns dos importadores, quando o controle for efectuado após o desalfandegamento dos produtos.
+
+###### Artigo 7.º — Certificados
+
+O controle referido no artigo 6.º pode ser dispensado, desde que os produtos em causa sejam acompanhados de certificados comprovativos do grau de contaminação radioactiva que não exceda os níveis máximos definidos no artigo 3.º
+
+###### Artigo 8.º — Período de vigência
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação e caducará logo que entre em vigor regulamentação comunitária sobre a matéria.
+
+Visto e aprovado em Conselho de Ministros de 5 de Novembro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Arlindo Marques Cunha - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.
+
+**Promulgado em 3 de Dezembro de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 10 de Dezembro de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

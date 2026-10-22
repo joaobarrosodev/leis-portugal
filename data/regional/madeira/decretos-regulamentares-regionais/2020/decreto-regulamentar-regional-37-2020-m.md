@@ -1,0 +1,393 @@
+---
+schema_version: '1.0'
+id: pt:dre:135056059:por
+title: Decreto Regulamentar Regional n.º 37/2020/M
+short_title: null
+summary: Aprova a orgânica da Direção Regional da Agricultura e Desenvolvimento Rural e revoga o Decreto Regulamentar Regional
+  n.º 22/2015/M, de 16 de dezembro
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 37/2020/M
+official_date: null
+publication_date: '2020-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2020, Série I de 2020-06-03
+  number: '108'
+  series: I
+  supplement: null
+  pages: 13 - 18
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/06/10800/0001300018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes:
+- "A revogação do presente diploma pelo Decreto Regulamentar Regional n.º 29/2024/M, de 12 de novembro, produz efeitos: \n\
+  a) Na parte referente às atribuições previstas no Decreto Regulamentar Regional n.º 29/2024/M, a 13 de novembro de 2024;\n\
+  b) No respeitante às normas de qualquer natureza relativas às atribuições na área da sidra, com a entrada em vigor do diploma\
+  \ que proceda à reestruturação do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM, alterando o Decreto\
+  \ Legislativo Re"
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-04-21'
+version_history:
+  file: decreto-regulamentar-regional-37-2020-m.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2020-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-18'
+    amending: pt:dre:138217584:por
+    amending_title: Decreto Regulamentar Regional n.º 39/2020/M
+    changes:
+    - Altera Artigo 10.º
+  - date: '2022-04-21'
+    amending: pt:dre:182291600:por
+    amending_title: Decreto Regulamentar Regional n.º 4/2022/M
+    changes:
+    - Adita Artigo 6.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/37/2020/m/cons/20241113/pt/html
+  oj: null
+  dre: '135056059'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/37-2020-135056059
+  internal: pt:dre:135056059:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/37-2020-135056059
+  metadata_url: https://data.dre.pt/eli/decregulreg/37/2020/m/cons/20241113/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-138217625
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2020-138217625
+  retrieved_at: '2026-10-22T12:33:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: ee869e405da5da404cd14bcc38fea086892491095c1ff8b14f1ee6c4eb3d6366
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:41Z'
+  notes: 3 versão(ões); histórico completo em decreto-regulamentar-regional-37-2020-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direção Regional de Agricultura e Desenvolvimento Rural
+- Orgânica
+- Madeira.região Autónoma
+- Secretaria Regional da Agricultura e Desenvolvimento Rural
+relationships:
+- type: amended_by
+  target: pt:dre:138217584:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-2020-138217584
+  date: '2020-07-17'
+- type: amended_by
+  target: pt:dre:182291600:por
+  label: Adita Artigo 6.º-A; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2022-182291600
+  date: '2022-04-20'
+- type: cites
+  target: eli:http://data.dre.pt/eli/de
+  label: null
+  source: http://data.dre.pt/eli/de
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/11/2020/01/21/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/11/2020/01/21/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/22/2015/12/16/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/22/2015/12/16/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/8-a/2019/11/19/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/8-a/2019/11/19/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 13
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 37/2020/M
+
+Decreto Regulamentar Regional n.º 37/2020/M
+
+Sumário: Aprova a orgânica da Direção Regional da Agricultura e Desenvolvimento Rural e revoga o Decreto Regulamentar Regional n.º 22/2015/M, de 16 de dezembro.
+
+O Decreto Regulamentar Regional n.º 8-A/2019/M, de 19 de novembro, que instituiu a organização e funcionamento do XIII Governo Regional da Região Autónoma da Madeira, integra na sua estrutura a Secretaria Regional de Agricultura e Desenvolvimento Rural, cometendo-lhe competências nos domínios da agricultura, pecuária, veterinária e desenvolvimento rural.
+
+Por outro lado, o Decreto Regulamentar Regional n.º 11/2020/M, de 21 de janeiro, que aprova a lei orgânica da Secretaria Regional de Agricultura e Desenvolvimento Rural, através da alínea b) do n.º 1 do artigo 5.º, inclui na sua estrutura a Direção Regional de Agricultura e Desenvolvimento Rural, estabelecendo o n.º 1 do artigo 10.º do mesmo diploma a missão deste serviço executivo.
+
+Assim, nos termos do n.º 1 do artigo 17.º do Decreto Regulamentar Regional n.º 11/2020/M, de 21 de janeiro, e ao abrigo da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º, ambos da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e do n.º 1 do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, e 2/2013/M, de 2 de janeiro, que o republicou, o Governo Regional da Madeira decreta o seguinte:
+
+> Nota: [Artigo 9.º, Decreto Regulamentar Regional n.º 30/2024/M - Diário da República n.º 220/2024, Série I de 2024-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/30-2024-896349666) O presente diploma é revogado na parte respeitante às normas referentes às atribuições previstas no Decreto Regulamentar Regional n.º 30/2024/M, de 13 de novembro.
+
+> Nota: [Artigo 9.º, Decreto Regulamentar Regional n.º 29/2024/M - Diário da República n.º 219/2024, Série I de 2024-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/29-2024-896297378) A revogação do presente diploma, produz efeitos: a) Na parte referente às atribuições previstas no Decreto Regulamentar n.º 29/2024/M, de 12 de novembro, com a entrada em vigor do mesmo; b) No respeitante às normas de qualquer natureza relativas às atribuições na área da sidra, com a entrada em vigor do diploma que proceda à reestruturação do Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP-RAM, alterando o Decreto Legislativo Regional n.º 5/2013/M, de 5 de fevereiro; c) No respeitante às normas de qualquer natureza relativas às atribuições cometidas à Direção Regional de Veterinária e Bem-Estar Animal, com a entrada em vigor do diploma que aprovar a orgânica da Direção Regional de Veterinária e Bem-Estar Animal.
+
+### Capítulo I — Natureza, missão, atribuições e órgãos
+
+###### Artigo 1.º — Natureza
+
+A Direção Regional de Agricultura e Desenvolvimento Rural, abreviadamente designada por DRA, é um serviço executivo da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional de Agricultura e Desenvolvimento Rural (SRA), a que se refere a alínea b) do n.º 1 do artigo 5.º do Decreto Regulamentar Regional n.º 11/2020/M, de 21 de janeiro.
+
+###### Artigo 2.º — Missão
+
+A DRA tem por missão propor e executar as medidas de política para os setores agrícola, pecuário e agroalimentar da Região Autónoma da Madeira, visando reforçar e promover a agricultura familiar, o rendimento, a competitividade e qualificação das produções e das atividades, o conhecimento, a inovação, a economia circular, a segurança alimentar, a saúde e bem-estar animal, a proteção dos animais de companhia, bem como estimular o desenvolvimento sustentável do meio e da população rural.
+
+###### Artigo 3.º — Atribuições
+
+Para a prossecução da sua missão, a DRA tem as seguintes atribuições:
+
+a) Propor medidas de apoio ao desenvolvimento dos setores agrícola, pecuário e agroalimentar, designadamente das que confiram maior sustentabilidade à agricultura familiar e favoreçam a atração de jovens empresários às atividades;
+
+b) Desenvolver programas de apoio à minimização de custos com a aquisição de fatores de produção, e com os consumos energéticos das explorações agrícolas;
+
+c) Apoiar financeiramente o funcionamento e atividades, entre outras, de associações de agricultores, de criadores de gado e de proteção de animais de companhia, a realização de eventos de promoção dos produtos agrícolas, agroalimentares e das tradições rurais iniciativa de instituições privadas sem fins lucrativos e de outras entidades, bem como a execução de projetos patrocinados pela Universidade da Madeira considerados de elevado interesse para a agricultura regional;
+
+d) Concorrer para a melhoria das acessibilidades às explorações agrícolas, através da construção, beneficiação e ou requalificação de caminhos agrícolas, bem como de veredas, caminhos reais e sistemas de transporte adaptados a zonas montanhosas;
+
+e) Gerir o sistema de informação do Banco de Terrenos da Região Autónoma da Madeira;
+
+f) Proteger os recursos genéticos dos setores agrícola, em especial das variedades tradicionais locais com interesse renovado para a agricultura, e pecuário;
+
+g) Assegurar o funcionamento da Rede de Investigação, Experimentação e Demonstração Agronómica (RIEDA), que integra os campos experimentais e postos agrários dedicados às áreas da fruticultura, horticultura e floricultura;
+
+h) Desenvolver projetos, atividades de investigação científica, experimentação e demonstração, na sua área de intervenção, podendo para tal cooperar com instituições científicas regionais e associações do setor;
+
+i) Incentivar a adoção à agricultura de novas tecnologias e da digitalização;
+
+j) Promover o estabelecimento de planos estruturados de desenvolvimento de culturas com potencial na agricultura regional, com vista ao aumento quantitativo ou qualitativo das produções, e uma mais adequada satisfação do mercado quer local, quer externo;
+
+k) Prestar assistência técnica especializada às explorações agrícolas e pecuárias, bem assim como à agroindústria tradicional, orientando-as para as práticas mais sustentáveis e que valorizem os serviços dos ecossistemas, favorecendo o aumento do contributo das atividades para a descarbonização da economia;
+
+l) Incentivar o crescimento da agricultura em modo de produção biológico, bem como a adoção de outros métodos e práticas agronómicas sustentáveis, como a produção integrada e a proteção integrada;
+
+m) Promover a sustentabilidade do setor da apicultura regional e dotá-lo de sistemas de reconhecimento e valorização da qualidade das suas produções;
+
+n) Conceber cursos de formação profissional e tecnológica dos agricultores e dos agentes do setor agroalimentar, e disponibilizar formadores;
+
+o) Manter um sistema de emergência médico-veterinária, para as explorações pecuárias em regime de «detenção doméstica» e com a classificação de «classe 3»;
+
+p) Assegurar o funcionamento da Estação Zootécnica da Madeira (EZM), e da sua valência Pólo de Ovinicultura de Santana, desenvolvendo projetos e introduzindo serviços que confiram uma maior dinâmica e competitividade à pecuária regional;
+
+q) Garantir uma adequada proteção fitossanitária das culturas e das produções agrícolas, privilegiando o desenvolvimento de planos de ação assentes na luta biológica;
+
+r) Assegurar o funcionamento dos laboratórios oficiais de apoio às atividades dos setores agrícola, pecuário e agroalimentar, de forma a que correspondam, quer ao nível da capacidade analítica, quer da produção de material vegetal, à dinâmica das necessidades daqueles, como garantindo a mais elevada segurança das produções, designadamente ao nível da resposta a riscos alimentares emergentes;
+
+s) Dinamizar atividades de investigação e experimentação que visem a inovação e o desenvolvimento das produções agroalimentares regionais, designadamente na ótica da economia circular;
+
+t) Promover o estabelecimento de soluções ambientalmente sustentáveis para o reaproveitamento e valorização de produções agrícolas não comercializáveis em fresco, por forma a reduzir o desperdício alimentar;
+
+u) Garantir o acesso, funcionamento e a boa aplicação de sistemas de ajudas comunitárias aos setores agrícola e agroalimentar, nomeadamente no âmbito do POSEI - Medidas de Apoio às Produções Locais, subprograma Região Autónoma da Madeira;
+
+v) Salvaguardar a participação regional nos planos nacionais anuais relativos aos controlos oficiais realizados para a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios, à proteção e fitossanidade vegetal, à deteção de resíduos de pesticidas e de outros contaminantes em produtos de origem vegetal e animal e das normas relativas à saúde e ao bem-estar dos animais, como ainda nos programas de prevenção e luta a epizotias e doenças de cariz zoonótico;
+
+w) Acompanhar os programas de ação nacionais e comunitários relacionados com os setores agroalimentar, a saúde pública veterinária e a saúde animal, participando na definição e aplicação de medidas para resposta a situações extraordinárias ou de emergência;
+
+x) Realizar as ações veterinárias de inspeção e controlo da saúde e do bem-estar dos animais, designadamente nos processos do licenciamento de explorações pecuárias, parques zoológicos, estabelecimentos de comercialização e de prestação de cuidados a animais e ainda dos meios de transporte de animais vivos;
+
+y) Gerir os sistemas de identificação e registo de animais e explorações, bem como do controlo da movimentação, dos meios de transporte, dos locais de concentração, apresentação e utilização dos animais;
+
+z) Coordenar ou participar, no âmbito do regime de exercício da atividade industrial, nos processos de licenciamento dos estabelecimentos do setor agroalimentar, incluindo os da pesca, aquicultura e apicultura, como assegurar a recolha e transmissão à respetiva autoridade nacional competente da informação relativa aos registos de operadores do setor agroalimentar;
+
+aa) Regular as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional, bem como de fertilizantes e de outros fatores de produção agrícola;
+
+bb) Exercer as ações veterinárias de inspeção e controlo sanitário para garantir a salubridade e genuinidade dos produtos de origem animal;
+
+cc) Executar, em articulação com outras entidades públicas competentes, as ações de inspeção e controlo de produtos de origem vegetal e animal, frescos ou transformados, no âmbito das trocas intracomunitárias, das importações e das exportações;
+
+dd) Assegurar o funcionamento dos estabelecimentos da Rede Centros de Abastecimento Agrícola da Madeira dedicados à preparação de hortofrutícolas frescos para lançamento nos mercados, adequando-as à evolução das necessidades e exigências dos consumidores;
+
+ee) Gerir as atividades do Mercado Abastecedor do Funchal, o mercado grossista regional de hortofrutícolas frescos, e das unidades Mercado dos Agricultores, de vendas diretas dos produtores agrícolas aos consumidores familiares;
+
+ff) Contribuir para um maior reconhecimento das cadeias de abastecimento curtas e a criação de condições que incentivem um maior consumo dos produtos agrícolas e agroalimentares locais nas compras públicas ou financiadas com fundos públicos;
+
+gg) Desenvolver o projeto «Sidrarias da Madeira», a ser constituído por uma sidraria-central e várias mini-sidrarias, a localizar nas zonas em que a produção desta bebida tradicional madeirense assume maior significado;
+
+hh) Adotar às principais produções agrícolas e agroalimentares regionais sistemas de qualificação, designadamente ao abrigo dos regimes de qualidade da União Europeia de Denominação de Origem Protegida (DOP) e Indicação Geográfica Protegida (IGP), e estabelecer sistemas de controlo e atestação da conformidade ou de certificação dos produtos agrícolas e agroalimentares tradicionais da RAM;
+
+ii) Assegurar o funcionamento da Câmara de Provadores dos Produtos Agrícolas e Agroalimentares da Região Autónoma da Madeira e do laboratório específico para análises sensoriais;
+
+jj) Realizar ações de promoção e divulgação dos produtos agrícolas, pecuários e agroalimentares regionais, nomeadamente sob a égide das marcas coletivas «Produto da Madeira», «Produto do Porto Santo» e «Carne Regional»;
+
+kk) Cooperar com instituições privadas sem fins lucrativos que operam em território rural, na qualificação e valorização de agentes rurais, apoiando financeiramente projetos formativos considerados de interesse relevante para o desenvolvimento rural;
+
+ll) Incentivar, em articulação com instituições privadas sem fins lucrativos que operam em território rural e outras entidades, projetos inovadores que visem a revitalização das atividades primárias de matriz agrorrural;
+
+mm) Produzir e difundir informação útil sobre os setores agrícola e agroalimentar regionais, para diferentes públicos;
+
+nn) Recolher, tratar e difundir a informação técnico-económica relevante no âmbito das suas atribuições;
+
+oo) Reforçar as relações institucionais com os organismos públicos que detêm atribuições e competências nas áreas da agricultura, pecuária, veterinária, alimentação e segurança alimentar, designadamente como autoridade nacional para as diferentes matérias;
+
+pp) Representar a Região Autónoma da Madeira em organizações nacionais e internacionais relacionadas com as áreas das suas atribuições, quando para tal seja indigitada;
+
+qq) Exercer na Região Autónoma da Madeira as competências atribuídas às entidades nacionais com funções homólogas previstas na lei em vigor;
+
+rr) Exercer as demais competências previstas na lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2022/M - Diário da República n.º 77/2022, Série I de 2022-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2022-182291600), em vigor a partir de 2022-04-21, produz efeitos a partir de 2021-12-21
+
+###### Artigo 4.º — Órgão de direção
+
+1 - A DRA é dirigida pelo diretor regional de Agricultura e Desenvolvimento Rural, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.
+
+2 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao diretor regional:
+
+a) Desempenhar as funções de autoridade regional veterinária;
+
+b) Coordenar e gerir as áreas de atribuições referidas no artigo 3.º;
+
+c) Coordenar e orientar a atuação dos serviços da DRA;
+
+d) Coordenar superiormente a interligação dos serviços da DRA com os outros departamentos da SRA, quando tal seja necessário;
+
+e) Determinar a realização de estudos, pareceres e outros trabalhos considerados necessários no âmbito de atuação da DRA;
+
+f) Autorizar a realização de despesas e celebrar contratos no seu âmbito de atuação e de acordo com as competências e limites fixados por lei;
+
+g) Ordenar a instauração ou instrução de processos de contraordenação no âmbito de atuação da DRA e tomar a decisão final relativamente aos mesmos;
+
+h) Definir e propor para superior decisão tudo o que se torne necessário ao bom e correto funcionamento da DRA;
+
+i) Emitir certidões de dívida por falta de cumprimento ao procedimento que seja estabelecido quanto ao pagamento de serviços prestados;
+
+j) Exercer as competências que lhe são conferidas no Estatuto do Pessoal Dirigente.
+
+3 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências nos titulares de cargos de direção.
+
+4 - O diretor regional é substituído, nas suas ausências, faltas e impedimentos, por um titular de cargo de Direção a designar.
+
+### Capítulo II — Estrutura e funcionamento geral
+
+###### Artigo 5.º — Organização interna
+
+1 - A organização interna da DRA obedece ao modelo estrutural misto.
+
+2 - É adotado o modelo organizacional hierarquizado nas áreas de atividade relacionadas com a prossecução das atribuições nos domínios da inovação agrícola e agroalimentar, da agricultura de precisão, do desenvolvimento rural, da gestão e controlo das ajudas à produção, transformação e comercialização agrícola e agroalimentar, da assistência técnica e do apoio à produção, agrícola e pecuária, quer em produção convencional, quer em modo de produção biológico, proteção integrada e produção integrada, do desenvolvimento pecuário, da saúde e bem-estar animal, dos laboratórios agroalimentares, da qualidade e segurança alimentar e do apoio ao comércio agroalimentar, compreendendo unidades orgânicas nucleares e flexíveis e secções ou áreas de coordenação administrativa, a aprovar nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, e 2/2013/M, de 2 de janeiro.
+
+3 - É adotado o modelo de estrutura matricial, no desenvolvimento de áreas transversais de interesse estratégico para a agricultura, pecuária e desenvolvimento rural, de molde a possibilitar a implementação de projetos através de equipas multidisciplinares.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2022/M - Diário da República n.º 77/2022, Série I de 2022-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2022-182291600), em vigor a partir de 2022-04-21
+
+###### Artigo 6.º — Dotação de cargos de direção
+
+A dotação de cargos de direção intermédia de 1.º grau e de chefes de departamento consta do anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 6.º-A — Estatuto remuneratório dos chefes de equipa
+
+Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Regulamentar Regional n.º 4/2022/M - Diário da República n.º 77/2022, Série I de 2022-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2022-182291600), em vigor a partir de 2022-04-21
+
+###### Artigo 7.º — Receitas
+
+A DRA dispõe de receitas provenientes de dotações que lhe forem atribuídas no Orçamento da Região Autónoma da Madeira.
+
+###### Artigo 8.º — Despesas
+
+Constituem despesas da DRA as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+### Capítulo III — Disposições finais e transitórias
+
+###### Artigo 9.º — Carreiras subsistentes
+
+1 - O desenvolvimento indiciário das carreiras subsistentes de chefe de departamento da SRA é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, alterado pelos Decretos Legislativos Regionais n.os 4/2005/M, de 15 de abril, e 16/2000/M, de 15 de julho, sendo-lhes aplicável o disposto no artigo 106.º da Lei 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, e 66/2012 e 66-B, ambas de 31 de dezembro.
+
+2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro.
+
+3 - Os postos de trabalho relativos à carreira de coordenador são extintos à medida que vagar.
+
+###### Artigo 10.º — Norma transitória
+
+1 - Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 5.º, mantêm-se em vigor a Portaria n.º 38/2016, de 12 de fevereiro, retificada pela Declaração de Retificação n.º 15/2016, de 28 de abril, e o Despacho n.º GS-12/SRAP/2016, de 4 de abril, do Secretário Regional de Agricultura e Pescas, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas naqueles previstas.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - Nos termos legais aplicáveis, mantêm-se os procedimentos de recrutamento de pessoal em curso à data da entrada em vigor do presente diploma, os quais se reportam aos serviços a que respeitam os postos de trabalho correspondentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 4/2022/M - Diário da República n.º 77/2022, Série I de 2022-04-20](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2022-182291600), em vigor a partir de 2022-04-21, produz efeitos a partir de 2021-12-21
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 39/2020/M - Diário da República n.º 138/2020, Série I de 2020-07-17](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/39-2020-138217584), em vigor a partir de 2020-07-18, produz efeitos a partir de 2020-06-03
+
+###### Artigo 11.º — Cessação de vigência
+
+É revogado o Decreto Regulamentar Regional n.º 22/2015/M, de 16 de dezembro.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 14 de maio de 2020.
+
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
+
+Assinado em 28 de maio de 2020.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## Anexo — (a que se refere o artigo 6.º)
+
+(ver documento original)
+
+113280666

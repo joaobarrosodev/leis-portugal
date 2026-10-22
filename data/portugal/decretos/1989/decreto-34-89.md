@@ -1,0 +1,117 @@
+---
+schema_version: '1.0'
+id: pt:dre:619278:por
+title: Decreto n.º 34/89
+short_title: null
+summary: Desafecta uma parcela de terreno do domínio público fluvial junto ao rio Lis
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 34/89
+official_date: null
+publication_date: '1989-08-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1989, Série I de 1989-08-18
+  number: '189'
+  series: I
+  supplement: null
+  pages: 3378 - 3379
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/18900/33783379.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '619278'
+  dre_path: /dr/detalhe/decreto/34-1989-619278
+  internal: pt:dre:619278:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1989-619278
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/34-1989-619278
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-08-18T00:00:00Z'
+integrity:
+  source_sha256: b8075f574a2665d41e9f593bcfe2554854aade1360e09a662c9e38f73b809649
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-34-619278.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 34/89
+
+de 18 de Agosto
+
+Nos termos do [Decreto-Lei n.º 48784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646), de 21 de Dezembro de 1968, os terrenos do domínio público sob a administração da extinta Direcção-Geral dos Serviços Hidráulicos, hoje Direcção-Geral dos Recursos Naturais, podem ser desafectados quando se considerem prevalentes, em relação ao uso público a que estão destinados, outros fins de interesse geral para que os terrenos sejam aptos e para cuja conveniente satisfação seja inadequado o regime de dominialidade.
+
+Nestas condições encontra-se uma parcela de terreno na margem direita do rio Lis, confrontando a norte com a Mata Nacional da Praia do Pedrógão, a nascente e sul com o rio Lis e a poente com a estrada florestal São Pedro de Muel-Carriço, freguesia de Vieira de Leiria, município da Marinha Grande.
+
+A parcela de terreno em questão fazia anteriormente parte integrante do leito do rio Lis, tendo passado a terreno enxuto em consequência das obras de regularização do curso de água.
+
+O terreno tem vindo a ser usufruído privativamente para fins agrícolas, propondo-se o actual utente implantar um estabelecimento hoteleiro, o qual foi declarado de interesse para o turismo.
+
+Considerando o disposto nos artigos 1.º e 4.º do [Decreto-Lei n.º 48784](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48784-1968-306646), de 21 de Dezembro de 1968:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º É desafectada do domínio público a parcela de terreno marginal ao rio Lis, situada na freguesia de Vieira de Leiria, município da Marinha Grande, representada na planta anexa a este diploma, de que faz parte integrante, para ser vendida, com dispensa de hasta pública, ao actual utente.
+
+###### Art. 2.º O referido terreno será utilizado para fins de interesse turístico, não podendo nele ser executadas quaisquer obras sem licença prévia da Direcção-Geral dos Recursos Naturais, bem como das demais entidades competentes nos termos da lei.
+
+Presidência do Conselho de Ministros, 20 de Março de 1989.
+
+Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
+
+**Assinado em 26 de Julho de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 31 de Julho de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/08/18900/33783379.pdf))](https://files.diariodarepublica.pt/1s/1989/08/18900/33783379.pdf)

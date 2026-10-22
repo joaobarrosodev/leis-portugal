@@ -1,0 +1,176 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73807562:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2016-946151344",
+ "dre_path": "/dr/detalhe/decreto-lei/15-2016-73807562",
+ "source_lastmod": "2025-11-14",
+ "versions": [
+  {
+   "date": "2016-03-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "946248003",
+    "946248004",
+    "946248005",
+    "946248006",
+    "946248007",
+    "946248008",
+    "946248009",
+    "946248010",
+    "946248011",
+    "946248012",
+    "946248013"
+   ]
+  },
+  {
+   "date": "2025-11-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:945966853:por",
+     "title": "Decreto-Lei n.º 119/2025",
+     "published": "2025-11-13",
+     "dre_path": "/dr/detalhe/decreto-lei/119-2025-945966853"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "946248003",
+    "946248004",
+    "946248015",
+    "946248016",
+    "946248007",
+    "946248008",
+    "946248009",
+    "946248010",
+    "946248011",
+    "946248012",
+    "946248013",
+    "946248014"
+   ]
+  }
+ ],
+ "fragments": {
+  "946248003": {
+   "fragment_id": "946151345",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 15/2016\n\nde 9 de março\n\nO Programa do XXI Governo Constitucional estabeleceu o mar como um desígnio nacional, cuja concretização passa pela valorização da posição estratégica de Portugal no Atlântico.\n\nAs Grandes Opções do Plano para 2016-2019 sublinham que os portos nacionais constituem um pilar fundamental para o desenvolvimento económico de Portugal e para a alavancagem das exportações. Neste sentido, a estratégia do Governo passa por aproveitar de forma mais eficiente as vantagens competitivas do posicionamento estratégico do País, apostando no aumento da competitividade crescente a nível global dos portos e das cadeias logísticas nacionais, reforçando a ligação à rede transeuropeia de transportes, apostando na melhoria das acessibilidades marítimas e terrestres, na especialização de atividade de cada porto de acordo com o seu hinterland específico, na gestão mais eficiente da capacidade disponível, bem como na simplificação de procedimentos e numa abordagem adequada à organização do território.\n\nNesta sequência, o Relatório do Orçamento do Estado para 2016 refere que são avaliadas, preparadas e lançadas diversas intervenções estratégicas nos portos portugueses, designadamente a coordenação estratégica entre os portos de Lisboa, Setúbal e Sesimbra.\n\nAssim, o presente decreto-lei estabelece os termos da referida coordenação estratégica, que assenta na criação de um conselho de administração comum, na elaboração conjunta dos instrumentos de gestão, na elaboração de um plano estratégico comum às duas administrações portuárias e, tendencialmente, na constituição de serviços partilhados.\n\nA acumulação de funções por parte dos administradores permite uma otimização de soluções no âmbito operacional, conferindo-lhe, ao mesmo tempo, uma orientação coordenada e gerando os necessários consensos à boa consecução das atribuições que lhes estão legalmente cometidas no quadro de uma estratégia e organização comuns.\n\nDe forma a potenciar a articulação daquelas estruturas portuárias estabelece-se, ainda, que o Conselho Metropolitano da Área Metropolitana de Lisboa passa a designar um dos administradores das empresas, cumprindo também um dos objetivos deste Governo de promover uma maior proximidade com a administração local.\n\nO presente decreto-lei define, também, os termos do mandato e o regime remuneratório associado à referida acumulação de funções, deixando-se plasmado de forma clara e expressa que os administradores continuam a auferir uma única remuneração e não beneficiam de qualquer remuneração adicional, sendo remunerados como se de um único conselho de administração se tratasse.\n\nSem prejuízo do regime estabelecido no presente decreto-lei, mantêm-se o regime e as obrigações decorrentes dos princípios e regras aplicáveis ao setor público empresarial, aprovado pelo Decreto-Lei n.º 133/2013, de 3 de outubro, alterado pela Lei n.º 75-A/2014, de 30 de setembro, bem como do Estatuto do Gestor Público, aprovado pelo Decreto-Lei n.º 71/2007, de 27 de março, alterado e republicado pelo Decreto-Lei n.º 8/2012, de 18 de março.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "946248004": {
+   "fragment_id": "946151346",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece a coordenação estratégica da Administração do Porto de Lisboa, S. A. (APL, S. A.), e da Administração dos Portos de Setúbal e Sesimbra, S. A. (APSS, S. A.), definindo o regime de acumulação de funções dos membros dos respetivos conselhos de administração, para efeitos de planeamento estratégico e promoção de sinergias organizacionais e operacionais de ambas as empresas."
+  },
+  "946248005": {
+   "fragment_id": "946151347",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição conjunta e acumulação de funções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Composição conjunta e acumulação de funções\n\nOs conselhos de administração da APL, S. A., e da APSS, S. A., são integrados por um presidente e quatro vogais, doravante designados por administradores, que são comuns às duas empresas e exercem as suas funções em regime de acumulação."
+  },
+  "946248006": {
+   "fragment_id": "946151348",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação\n\n1 - Os administradores são designados por deliberação da assembleia geral de cada empresa.\n\n2 - Um dos administradores é designado sob proposta do Conselho Metropolitano da Área Metropolitana de Lisboa (AML).\n\n3 - A designação dos administradores implica a imediata cessação do mandato dos membros dos conselhos de administração em exercício de funções àquela data."
+  },
+  "946248007": {
+   "fragment_id": "946151349",
+   "type": 11,
+   "heading": "Artigo 4.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Remuneração\n\n1 - Os administradores auferem apenas uma remuneração e não beneficiam de qualquer abono adicional em virtude da acumulação de funções.\n\n2 - A remuneração dos administradores é determinada pela classificação decorrente da aplicação dos critérios previstos na Resolução do Conselho de Ministros n.º 16/2012, de 9 de fevereiro, ao resultado da agregação dos indicadores respeitantes à APL, S. A., e à APSS, S. A.\n\n3 - A remuneração dos administradores, bem como todos os encargos referentes aos mesmos, são suportados, em partes iguais, pela APL, S. A., e pela APSS, S. A.\n\n4 - Os contratos de gestão a celebrar com os administradores devem reportar-se ao exercício de funções na APL, S. A., e na APSS, S. A., e considerar as especificidades do mandato em causa."
+  },
+  "946248008": {
+   "fragment_id": "946151350",
+   "type": 11,
+   "heading": "Artigo 5.º — Planeamento estratégico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Planeamento estratégico\n\n1 - Os conselhos de administração da APL, S. A., e da APSS, S. A., elaboram, de forma coerente e articulada, os respetivos instrumentos de gestão e planeamento, designadamente:\n\na) Os planos e as orientações estratégicas das empresas;\n\nb) Os planos de atividades e os orçamentos, anuais e plurianuais, incluindo os planos de investimento e as fontes de financiamento;\n\nc) Os planos anuais e plurianuais de obras marítimas e terrestres e do equipamento dos portos;\n\nd) Os planos comuns de divulgação e informação de obrigações legais, serviço público e planeamento estratégico.\n\n2 - Os instrumentos de gestão e planeamento referidos na alínea a) do número anterior são sujeitos a parecer do Conselho Metropolitano da AML."
+  },
+  "946248009": {
+   "fragment_id": "946151351",
+   "type": 11,
+   "heading": "Artigo 6.º — Reorganização de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Reorganização de serviços\n\nNo prazo de 180 dias, a contar da data da entrada em vigor do presente decreto-lei, a APL, S. A., e a APSS, S. A., em razão da prossecução comum de atribuições e competências, procede à reorganização das respetivas estruturas e organização geral que se verifique necessária e potenciadora dos objetivos do presente decreto-lei."
+  },
+  "946248010": {
+   "fragment_id": "946151352",
+   "type": 11,
+   "heading": "Artigo 7.º — Norma imperativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Norma imperativa\n\nO regime fixado no presente decreto-lei tem natureza imperativa, prevalecendo sobre quaisquer normas em contrário, especiais ou excecionais, que resultem, nomeadamente, do Estatuto do Gestor Público, dos diplomas estatutários ou de qualquer outra legislação aplicável à APL, S. A., e à APSS, S. A., e não podendo ser por estes afastado ou modificado."
+  },
+  "946248011": {
+   "fragment_id": "946151353",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Decreto-Lei n.º 336/98, de 3 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Decreto-Lei n.º 336/98, de 3 de novembro\n\nO artigo 9.º dos Estatutos da APL, S. A., aprovados em anexo ao Decreto-Lei n.º 336/98, de 3 de novembro, alterado pelos Decretos-Leis n.os 334/2001, de 24 de dezembro, e 46/2002, de 2 de março, passa a ter a seguinte redação:\n\n«Artigo 9.º\n\nComposição conjunta do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e quatro vogais, que são comuns à Administração dos Portos de Setúbal e Sesimbra, S. A., e exercem as suas funções em regime de acumulação.\n\n2 - ...\n\n3 - ...»"
+  },
+  "946248012": {
+   "fragment_id": "946151354",
+   "type": 11,
+   "heading": "Artigo 9.º — Alteração ao Decreto-Lei n.º 338/98, de 3 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Alteração ao Decreto-Lei n.º 338/98, de 3 de novembro\n\nO artigo 9.º dos Estatutos da APSS, S. A., aprovados em anexo ao Decreto-Lei n.º 338/98, de 3 de novembro, alterado pelos Decretos-Leis n.os 334/2001, de 24 de dezembro, e 46/2002, de 2 de março, passa a ter a seguinte redação:\n\n«Artigo 9.º\n\nComposição conjunta do conselho de administração\n\n1 - O conselho de administração é composto por um presidente e quatro vogais, que são comuns à Administração do Porto de Lisboa, S. A., e exercem as suas funções em regime de acumulação.\n\n2 - ...\n\n3 - ...»"
+  },
+  "946248013": {
+   "fragment_id": "946151355",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "946248015": {
+   "fragment_id": "946151347",
+   "type": 11,
+   "heading": "Artigo 2.º — Composição conjunta e acumulação de funções",
+   "in_force_from": "2025-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2025 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853), em vigor a partir de 2025-11-14"
+   ],
+   "markdown": "###### Artigo 2.º — Composição conjunta e acumulação de funções\n\nO conselho de administração da Administração do Porto de Lisboa, S. A., e da Administração dos Portos de Setúbal e Sesimbra, S. A., é composto por um presidente e até quatro vogais, doravante designados por administradores, que são comuns às duas empresas e exercem as suas funções em regime de acumulação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 119/2025 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853), em vigor a partir de 2025-11-14"
+  },
+  "946248016": {
+   "fragment_id": "946151348",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": "2025-11-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 119/2025 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853), em vigor a partir de 2025-11-14"
+   ],
+   "markdown": "###### Artigo 3.º — Designação\n\n1 - Os administradores são designados por deliberação da assembleia geral de cada empresa.\n\n2 - (Revogado.)\n\n3 - A designação dos administradores implica a imediata cessação do mandato dos membros dos conselhos de administração em exercício de funções àquela data.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 119/2025 - Diário da República n.º 220/2025, Série I de 2025-11-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-2025-945966853), em vigor a partir de 2025-11-14"
+  },
+  "946248014": {
+   "fragment_id": "946151356",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 3 de março de 2016. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - José Alberto de Azeredo Ferreira Lopes - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos - Ana Paula Mendes Vitorino.\n\nPromulgado em 7 de março de 2016.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 8 de março de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  }
+ }
+}

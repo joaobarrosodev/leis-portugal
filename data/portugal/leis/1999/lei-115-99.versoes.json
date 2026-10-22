@@ -1,0 +1,267 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:345126:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1999-74872623",
+ "dre_path": "/dr/detalhe/lei/115-1999-345126",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74891075",
+    "74891076",
+    "74891077",
+    "74891078",
+    "74891079",
+    "74891080",
+    "74891081",
+    "74891082",
+    "74891083",
+    "74891084",
+    "74891085",
+    "74891086"
+   ]
+  },
+  {
+   "date": "2008-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247448:por",
+     "title": "Decreto-Lei n.º 34/2008",
+     "published": "2008-02-26",
+     "dre_path": "/dr/detalhe/decreto-lei/34-2008-247448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "74891075",
+    "74891076",
+    "74891077",
+    "74891078",
+    "74891088",
+    "74891080",
+    "74891081",
+    "74891082",
+    "74891083",
+    "74891084",
+    "74891085",
+    "74891086",
+    "74891087"
+   ]
+  },
+  {
+   "date": "2021-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:165036155:por",
+     "title": "Lei n.º 36/2021",
+     "published": "2021-06-14",
+     "dre_path": "/dr/detalhe/lei/36-2021-165036155"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "74891075",
+    "74891076",
+    "74891077",
+    "74891078",
+    "165106115",
+    "74891080",
+    "74891081",
+    "74891082",
+    "74891083",
+    "74891084",
+    "74891085",
+    "74891086",
+    "74891087"
+   ]
+  },
+  {
+   "date": "2023-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:213881448:por",
+     "title": "Decreto-Lei n.º 41/2023",
+     "published": "2023-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/41-2023-213881448"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "74891075",
+    "74891076",
+    "74891077",
+    "74891078",
+    "165106115",
+    "213919017",
+    "74891081",
+    "213919018",
+    "74891083",
+    "74891084",
+    "74891085",
+    "74891086",
+    "74891087"
+   ]
+  }
+ ],
+ "fragments": {
+  "74891075": {
+   "fragment_id": "74872624",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 115/99\n\nde 3 de Agosto\n\nRegime jurídico das associações de imigrantes\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "74891076": {
+   "fragment_id": "74872625",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A presente lei estabelece o regime de constituição e os direitos e deveres das associações representativas dos imigrantes e seus descendentes.\n\n2 - Em tudo o que não se encontre especialmente regulado na presente lei é aplicável às associações de imigrantes o regime legal das associações, de acordo com a sua natureza estatutária."
+  },
+  "74891077": {
+   "fragment_id": "74872626",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\n1 - As associações de imigrantes são associações constituídas nos termos da lei geral, dotadas de personalidade jurídica, sem fins lucrativos, de âmbito nacional, regional ou local, e que inscrevam nos seus estatutos o objectivo de proteger os direitos e interesses específicos dos imigrantes e dos seus descendentes residentes em Portugal, visando nomeadamente:\n\na) Defender e promover os direitos e interesses dos imigrantes e seus descendentes em tudo quanto respeite à sua valorização, de modo a permitir a sua plena integração e inserção;\n\nb) Desenvolver acções de apoio aos imigrantes e seus descendentes visando a melhoria das suas condições de vida;\n\nc) Promover e estimular as capacidades próprias, culturais e sociais das comunidades de imigrantes ou dos seus descendentes como elemento fundamental da sociedade em que se inserem;\n\nd) Propor acções necessárias à prevenção ou cessação de actos ou omissões de entidades públicas ou privadas que constituam discriminação racial;\n\ne) Estabelecer intercâmbios com associações congéneres estrangeiras ou promover acções comuns de informação ou formação.\n\n2 - Para os efeitos da presente lei, equiparam-se às associações de imigrantes as uniões e federações por elas criadas."
+  },
+  "74891078": {
+   "fragment_id": "74872627",
+   "type": 11,
+   "heading": "Artigo 3.º — Independência e autonomia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Independência e autonomia\n\n1 - As associações de imigrantes são independentes do Estado e dos partidos políticos e têm o direito de livremente elaborar, aprovar e modificar os seus estatutos, eleger os seus corpos sociais, aprovar os seus planos de actividades e administrar o seu património.\n\n2 - A concessão de qualquer tipo de apoios por parte do Estado às associações de imigrantes não pode condicionar a sua autonomia e independência."
+  },
+  "74891079": {
+   "fragment_id": "74872628",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos das associações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos das associações\n\n1 - As associações de imigrantes gozam dos seguintes direitos:\n\na) Participar na definição da política de imigração;\n\nb) Participar nos processos legislativos referentes à imigração;\n\nc) Participar em órgãos consultivos, nos termos da lei;\n\nd) Beneficiar de direito de antena nos serviços públicos de rádio e televisão através das respectivas associações representativas de âmbito nacional;\n\ne) Beneficiar de todos os direitos e regalias atribuídos por lei às pessoas colectivas de utilidade pública;\n\nf) Beneficiar de isenção de custas e preparos judiciais e de imposto do selo;\n\ng) Solicitar e obter das entidades competentes as informações e a documentação que lhes permitam acompanhar a definição e execução das políticas de imigração;\n\nh) Intervir junto das autoridades públicas em defesa dos direitos dos imigrantes;\n\ni) Participar, junto das autarquias locais, na definição e execução das políticas locais que digam directamente respeito aos imigrantes;\n\nj) Beneficiar de apoio técnico e financeiro por parte do Estado, nos termos da presente lei.\n\n2 - Os direitos previstos nas alíneas a) a f) do número anterior só podem ser exercidos pelas associações cuja representatividade seja reconhecida, nos termos do artigo seguinte."
+  },
+  "74891080": {
+   "fragment_id": "74872629",
+   "type": 11,
+   "heading": "Artigo 5.º — Reconhecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reconhecimento\n\n1 - O reconhecimento de representatividade para os efeitos da presente lei é atribuído pelo Alto-Comissário para a Imigração e Minorias Étnicas (ACIME) às associações que o requeiram e que demonstrem reunir cumulativamente os seguintes requisitos:\n\na) Ter estatutos publicados;\n\nb) Ter corpos sociais regularmente eleitos;\n\nc) Possuir inscrição no Registo Nacional de Pessoas Colectivas;\n\nd) Inscrever no seu objecto ou denominação social a promoção dos direitos e interesses específicos dos imigrantes;\n\ne) Desenvolver actividades que comprovem uma real promoção dos direitos e interesses específicos dos imigrantes.\n\n2 - O reconhecimento de representatividade é precedido de parecer do Conselho Consultivo."
+  },
+  "74891081": {
+   "fragment_id": "74872630",
+   "type": 11,
+   "heading": "Artigo 6.º — Mecenato associativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Mecenato associativo\n\nA lei do mecenato regula os termos e condições em que quotizações e outras contribuições de pessoas singulares ou colectivas destinadas a financiar actividades ou projectos de associações de imigrantes podem ser consideradas para efeitos de deduções fiscais."
+  },
+  "74891082": {
+   "fragment_id": "74872631",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio do Estado\n\n1 - Os apoios às associações previstos na alínea j) do n.º 1 do artigo 4.º da presente lei são atribuídos mediante a celebração de protocolos entre as associações e o ACIME.\n\n2 - A celebração dos protocolos referidos no número anterior baseia-se em projectos apresentados pelas associações e é precedida de parecer do Conselho Consultivo.\n\n3 - Na concessão de qualquer tipo de apoios por parte do Estado, nenhuma associação de imigrantes pode ser privilegiada ou prejudicada em relação às demais por motivos étnicos, ideológicos, religiosos ou de situação geográfica."
+  },
+  "74891083": {
+   "fragment_id": "74872632",
+   "type": 11,
+   "heading": "Artigo 8.º — Dotações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dotações orçamentais\n\nAs dotações orçamentais para suportar os encargos financeiros decorrentes da concessão dos apoios previstos na presente lei são inscritas anualmente no Orçamento do Estado, em rubrica própria."
+  },
+  "74891084": {
+   "fragment_id": "74872633",
+   "type": 11,
+   "heading": "Artigo 9.º — Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conselho Consultivo\n\nOs artigos 2.º e 3.º do Decreto-Lei n.º 39/98, de 27 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n[...]\n\nAo Conselho Consultivo para os Assuntos da Imigração, adiante designado por Conselho Consultivo, compete:\n\na) Pronunciar-se sobre os projectos de diploma relativos aos direitos dos imigrantes;\n\nb) Participar na definição das políticas de integração social que visem a eliminação das discriminações e promovam a igualdade;\n\nc) Participar na definição de medidas e acções que visem a melhoria das condições de vida dos imigrantes e acompanhar a sua execução;\n\nd) ...\n\ne) Exercer outras competências que lhe sejam atribuídas por lei.\n\nArtigo 3.º\n\n[...]\n\n1 - O Conselho Consultivo é composto por:\n\na) ...\n\nb) Um representante de cada uma das comunidades de imigrantes de língua portuguesa, eleitos, cada um, pelas associações de imigrantes da respectiva comunidade, bem como três representantes eleitos pelas associações de imigrantes de outras comunidades com presença em Portugal;\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) Dois cidadãos de reconhecido mérito cooptados pelos restantes membros do Conselho.\n\n2 - ...\n\n3 - O Conselho reúne ordinariamente de três em três meses e extraordinariamente quando convocado pelo presidente, ou quando, pelo menos, um terço dos seus membros o solicitem, devendo, neste último caso, indicar a matéria que pretendem ver incluída na ordem de trabalhos.»"
+  },
+  "74891085": {
+   "fragment_id": "74872634",
+   "type": 11,
+   "heading": "Artigo 10.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regulamentação\n\nCompete ao Governo, ouvidas as associações de imigrantes, regulamentar no prazo de 90 dias após a sua entrada em vigor as disposições da presente lei que de tal careçam."
+  },
+  "74891086": {
+   "fragment_id": "74872635",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nSem prejuízo da sua entrada em vigor nos termos gerais, a presente lei só produz efeitos financeiros após a entrada em vigor da Lei do Orçamento do Estado posterior à sua aprovação."
+  },
+  "74891088": {
+   "fragment_id": "74872628",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos das associações",
+   "in_force_from": "2008-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Direitos das associações\n\nAs associações de imigrantes gozam dos seguintes direitos:\n\na) Participar na definição da política de imigração;\n\nb) Participar nos processos legislativos referentes à imigração;\n\nc) Participar em órgãos consultivos, nos termos da lei;\n\nd) Beneficiar de direito de antena nos serviços públicos de rádio e televisão através das respectivas associações representativas de âmbito nacional;\n\ne) Beneficiar de todos os direitos e regalias atribuídos por lei às pessoas colectivas de utilidade pública;\n\nf) Beneficiar de isenção de imposto do selo;\n\ng) Solicitar e obter das entidades competentes as informações e a documentação que lhes permitam acompanhar a definição e execução das políticas de imigração;\n\nh) Intervir junto das autoridades públicas em defesa dos direitos dos imigrantes;\n\ni) Participar, junto das autarquias locais, na definição e execução das políticas locais que digam directamente respeito aos imigrantes;\n\nj) Beneficiar de apoio técnico e financeiro por parte do Estado, nos termos da presente lei.\n\n2 - Os direitos previstos nas alíneas a) a f) do número anterior só podem ser exercidos pelas associações cuja representatividade seja reconhecida, nos termos do artigo seguinte.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01"
+  },
+  "74891087": {
+   "fragment_id": "74872636",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 17 de Junho de 1999.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em Ponta Delgada, Açores, em 20 de Julho de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 22 de Julho de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "165106115": {
+   "fragment_id": "74872628",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos das associações",
+   "in_force_from": "2021-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Direitos das associações\n\n1- As associações de imigrantes gozam dos seguintes direitos:\n\na) Participar na definição da política de imigração;\n\nb) Participar nos processos legislativos referentes à imigração;\n\nc) Participar em órgãos consultivos, nos termos da lei;\n\nd) Beneficiar de direito de antena nos serviços públicos de rádio e televisão através das respectivas associações representativas de âmbito nacional;\n\ne) (Revogada);\n\nf) Beneficiar de isenção de imposto do selo;\n\ng) Solicitar e obter das entidades competentes as informações e a documentação que lhes permitam acompanhar a definição e execução das políticas de imigração;\n\nh) Intervir junto das autoridades públicas em defesa dos direitos dos imigrantes;\n\ni) Participar, junto das autarquias locais, na definição e execução das políticas locais que digam directamente respeito aos imigrantes;\n\nj) Beneficiar de apoio técnico e financeiro por parte do Estado, nos termos da presente lei.\n\n2 - Os direitos previstos nas alíneas a) a f) do número anterior só podem ser exercidos pelas associações cuja representatividade seja reconhecida, nos termos do artigo seguinte.\n\n> Alterado pelo/a Artigo 19.º do/a [Lei n.º 36/2021 - Diário da República n.º 113/2021, Série I de 2021-06-14](https://diariodarepublica.pt/dr/detalhe/lei/36-2021-165036155), em vigor a partir de 2021-07-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 34/2008 - Diário da República n.º 40/2008, Série I de 2008-02-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-2008-247448), em vigor a partir de 2008-09-01"
+  },
+  "213919017": {
+   "fragment_id": "74872629",
+   "type": 11,
+   "heading": "Artigo 5.º — Reconhecimento",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 5.º — Reconhecimento\n\n1 - O reconhecimento de representatividade para os efeitos da presente lei é atribuído pela Agência para a Integração, Migrações e Asilo, I. P. (AIMA, I. P.), às associações que o requeiram e que demonstrem reunir cumulativamente os seguintes requisitos:\n\na) Ter estatutos publicados;\n\nb) Ter corpos sociais regularmente eleitos;\n\nc) Possuir inscrição no Registo Nacional de Pessoas Colectivas;\n\nd) Inscrever no seu objecto ou denominação social a promoção dos direitos e interesses específicos dos imigrantes;\n\ne) Desenvolver actividades que comprovem uma real promoção dos direitos e interesses específicos dos imigrantes.\n\n2 - O reconhecimento de representatividade é precedido de parecer do Conselho para as Migrações e Asilo.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  },
+  "213919018": {
+   "fragment_id": "74872631",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio do Estado",
+   "in_force_from": "2023-10-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio do Estado\n\n1 - Os apoios às associações previstos na alínea j) do n.º 1 do artigo 4.º são atribuídos mediante a celebração de protocolos entre as associações e a AIMA, I. P.\n\n2 - A celebração dos protocolos referidos no número anterior baseia-se em projetos apresentados pelas associações e é precedida de parecer do Conselho para as Migrações e Asilo.\n\n3 - Na concessão de qualquer tipo de apoios por parte do Estado, nenhuma associação de imigrantes pode ser privilegiada ou prejudicada em relação às demais por motivos étnicos, ideológicos, religiosos ou de situação geográfica.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 41/2023 - Diário da República n.º 107/2023, Série I de 2023-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2023-213881448), em vigor a partir de 2023-10-29"
+  }
+ }
+}

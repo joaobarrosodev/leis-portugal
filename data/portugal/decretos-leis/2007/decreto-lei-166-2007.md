@@ -1,0 +1,268 @@
+---
+schema_version: '1.0'
+id: pt:dre:521259:por
+title: Decreto-Lei n.º 166/2007
+short_title: null
+summary: Aprova a orgânica do Instituto Nacional de Estatística, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 166/2007
+official_date: null
+publication_date: '2007-05-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/2007, Série I de 2007-05-03
+  number: '85'
+  series: I
+  supplement: null
+  pages: 2948 - 2950
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/05/08500/29482950.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/166/2007/05/03/p/dre/pt/html
+  oj: null
+  dre: '521259'
+  dre_path: /dr/detalhe/decreto-lei/166-2007-521259
+  internal: pt:dre:521259:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2007-521259
+  metadata_url: https://data.dre.pt/eli/dec-lei/166/2007/05/03/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/166-2007-521259
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-07-02T00:00:00Z'
+integrity:
+  source_sha256: e35f723927141314ac0e1a77da0ce9c1afb7eb7e13abf6166434f61a6f986c26
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-166-521259.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto Nacional de Estatística
+- Conselho Superior de Estatística
+- Contrato Individual de Trabalho
+- Definição de Competências
+- Primeiro-ministro
+- Conselho Diretivo
+- Orgânica
+- Presidência do Conselho de Ministros
+- Sistema Estatístico Nacional
+relationships:
+- type: amended_by
+  target: pt:dre:178531:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/202/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/479/1999/11/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/479/1999/11/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+article_structure:
+  article_count: 16
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 166/2007
+
+de 3 de Maio
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do XVII Governo no tocante à modernização administrativa e à melhoria da qualidade dos serviços públicos, com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 202/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2006-545641), de 27 de Outubro, que aprova a Lei Orgânica da Presidência do Conselho de Ministros, avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+Neste novo modelo organizativo da Presidência do Conselho de Ministros onde se destacam com evidência as suas atribuições de apoio a toda a actividade governativa, assumem particular importância as funções de produção e divulgação da informação estatística oficial asseguradas pelo Instituto Nacional de Estatística.
+
+Decorridos 17 anos da aprovação, pelo [Decreto-Lei n.º 280/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1989-618497), de 23 de Agosto, dos Estatutos do Instituto Nacional de Estatística, no decurso dos quais foram introduzidas alterações substanciais ao quadro normativo do Sistema Estatístico Nacional e Europeu, importa, agora, concretizar a reestruturação do Instituto Nacional de Estatística.
+
+Assim:
+
+Ao abrigo do n.º 1 do artigo 9.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto Nacional de Estatística, I. P., abreviadamente designado por INE, I. P., é um instituto público, integrado na administração indirecta do Estado dotado de autonomia administrativa.
+
+2 - O INE, I. P., prossegue atribuições da Presidência do Conselho de Ministros, sob superintendência e tutela do Primeiro-Ministro ou de outro membro do Governo integrado na Presidência do Conselho de Ministros.
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O INE, I. P., é um organismo central com jurisdição em todo o território nacional.
+
+2 - O INE, I. P., tem sede em Lisboa, podendo ter delegações ou qualquer outra forma de representação em território nacional.
+
+###### Artigo 3.º — Independência técnica
+
+O INE, I. P., goza de independência técnica no exercício da actividade estatística oficial, sem prejuízo do cumprimento das normas emanadas dos órgãos próprios do Sistema Estatístico Nacional (SEN) ou do Sistema Estatístico Europeu.
+
+###### Artigo 4.º — Missão e atribuições
+
+1 - O INE, I. P., tem por missão a produção e divulgação da informação estatística oficial, promovendo a coordenação, o desenvolvimento e a divulgação da actividade estatística nacional.
+
+2 - São atribuições do INE, I. P.:
+
+a) Produzir informação estatística oficial, com o objectivo de apoiar a tomada de decisão pública, privada, individual e colectiva, bem como a investigação científica;
+
+b) Elaborar as Contas Nacionais Portuguesas, em articulação com as demais entidades competentes, assegurando o cumprimento das obrigações nacionais no quadro do Sistema Estatístico Europeu;
+
+c) Divulgar, de forma acessível, a informação estatística produzida;
+
+d) Coordenar e exercer a supervisão técnico-científica e metodológica das estatísticas oficiais produzidas pelas entidades com delegação de competências e dos Serviços Regionais de Estatística das Regiões Autónomas;
+
+e) Cooperar com as entidades nacionais e com organismos de outros Estados, da União Europeia e das organizações internacionais, na área da informação estatística.
+
+3 - Sem prejuízo do disposto no número anterior, o INE, I. P., pode produzir e difundir outra informação de natureza estatística que permita satisfazer as necessidades dos utilizadores, públicos ou privados.
+
+4 - O INE, I. P., na qualidade de autoridade estatística nacional, faz parte integrante do Sistema Estatístico Europeu.
+
+5 - O INE, I. P., no exercício da sua actividade na qualidade de autoridade estatística, pode exigir a prestação de informações, com carácter obrigatório e gratuito, nos termos da lei do SEN.
+
+###### Artigo 5.º — Órgãos
+
+É órgão do INE, I. P., o conselho directivo.
+
+###### Artigo 6.º — Conselho Superior de Estatística
+
+Junto do INE, I. P., funciona o Conselho Superior de Estatística, cujas competências, composição e funcionamento são regulados em diploma próprio.
+
+###### Artigo 7.º — Conselho directivo
+
+1 - O conselho directivo é composto por um presidente e dois vogais.
+
+2 - Sem prejuízo das competências que lhe sejam conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho directivo:
+
+a) Realizar inquéritos, recenseamentos e outras operações estatísticas;
+
+b) Aceder para fins exclusivamente estatísticos, à informação individualizada relativa às cooperativas, às pessoas colectivas públicas e privadas, designadamente as instituições de crédito e outros agentes económicos, e aos empresários em nome individual, recolhida no quadro da sua missão por toda a administração pública ou por instituições de direito privado que tenham como atribuição a gestão de um serviço público;
+
+c) Aceder, constituir e gerir ficheiros de informação geográfica para suporte à produção e difusão da informação estatística georreferenciada;
+
+d) Criar, centralizar e gerir ficheiros de unidades estatísticas;
+
+e) Participar na concepção dos suportes dos dados administrativos que possam vir a ser usados para efeitos estatísticos, de modo a assegurar, sempre que possível, a adopção das definições, conceitos e nomenclaturas estatísticas aprovadas pelo Conselho Superior de Estatística;
+
+f) Realizar o registo prévio dos instrumentos de notação, independentemente do respectivo suporte, a utilizar na produção das estatísticas oficiais;
+
+g) Garantir que entidades com delegação de competências e os Serviços Regionais de Estatística das Regiões Autónomas, aplicam, nas operações estatísticas que realizam, as metodologias, conceitos, classificações e variáveis aprovadas pelo Conselho Superior de Estatística;
+
+h) Certificar a qualidade das estatísticas produzidas pelas entidades referidas na alínea anterior;
+
+i) Apoiar científica e metodologicamente a produção estatística no âmbito do SEN;
+
+j) Aplicar as coimas decorrentes dos processos de contra-ordenação estatística;
+
+l) Realizar estudos e análises de natureza demográfica, social, económica, ambiental, científica e tecnológica;
+
+m) Promover a formação de quadros do SEN, em conjunto com instituições do ensino superior;
+
+n) Submeter à aprovação do Primeiro-Ministro a criação e encerramento das delegações do INE, I. P., ou qualquer outra forma de representação em território nacional;
+
+o) Estabelecer relações de cooperação, no âmbito das suas atribuições, com outras entidades públicas ou privadas, nacionais ou estrangeiras, nomeadamente com os países de língua oficial portuguesa.
+
+3 - O conselho directivo exerce, ainda, as competências previstas no regime jurídico do SEN e demais legislação complementar.
+
+4 - O conselho directivo pode delegar competências em um ou mais dos seus membros ou em trabalhadores do INE, I. P., com faculdade de subdelegação.
+
+###### Artigo 8.º — Organização Interna
+
+A organização interna do INE, I. P., é a prevista nos respectivos Estatutos.
+
+###### Artigo 9.º — Estatuto dos membros do conselho directivo
+
+Aos membros do conselho directivo é aplicável o disposto na lei quadro dos institutos públicos e, subsidiariamente, o disposto no estatuto do gestor público.
+
+###### Artigo 10.º — Regime de pessoal
+
+Ao pessoal do INE, I. P., é aplicável o regime do contrato individual de trabalho.
+
+###### Artigo 11.º — Receitas
+
+1 - O INE, I. P., dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado.
+
+2 - O INE, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) O produto da venda de bens e serviços, no âmbito das suas atribuições;
+
+b) Quaisquer outros rendimentos provenientes da sua actividade ou do seu património;
+
+c) O produto das coimas aplicadas nos termos e percentagens previstos na lei;
+
+d) Quaisquer outras receitas que por lei, contrato ou outro título lhe venham a ser atribuídos.
+
+3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas do INE, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas do INE, I. P., as que resultem dos encargos e responsabilidades decorrentes da prossecução das suas atribuições e actividades, bem como os encargos com o funcionamento do Conselho Superior de Estatística.
+
+###### Artigo 13.º — Criação e participação em outras entidades
+
+1 - O INE, I. P., pode, mediante autorização dos membros do Governo responsáveis pelas áreas das finanças e da tutela criar, participar na criação ou adquirir participações em instituições privadas sem fins lucrativos, assegurando, ainda, a continuidade das participações que detém.
+
+2 - O INE, I. P., pode filiar-se ou participar em instituições ou organismos afins, nacionais ou internacionais.
+
+###### Artigo 14.º — Regulamento internos
+
+Os regulamentos internos do INE, I. P., são remetidos ao ministro da tutela e ao ministro responsável pela área das finanças, para aprovação nos termos do n.º 4 do artigo 41.º da [Lei n.º 3/2004](https://diariodarepublica.pt/dr/detalhe/lei/3-2004-603478), de 15 de Janeiro, no prazo de 90 dias a contar da entrada em vigor do presente decreto-lei.
+
+###### Artigo 15.º — Norma revogatória
+
+1 - É revogado o [Decreto-Lei n.º 280/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1989-618497), de 23 de Agosto.
+
+2 - O disposto no número anterior não prejudica as situações constituídas ao abrigo do disposto nos n.os 2 a 5 do artigo 31.º e no n.º 5 do artigo 33.º do [Decreto-Lei n.º 280/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1989-618497), de 23 de Agosto, na redacção dada pelo [Decreto-Lei n.º 479/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/479-1999-683186), de 9 de Novembro.
+
+###### Artigo 16.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de Março de 2007. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira.
+
+**Promulgado em 12 de Abril de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, ANÍBAL CAVACO SILVA.**
+
+**Referendado em 16 de Abril de 2007.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:462024:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1980-169924937",
+ "dre_path": "/dr/detalhe/decreto-lei/465-1980-462024",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1980-10-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169926377",
+    "169926378",
+    "169926379",
+    "169926380",
+    "169926381",
+    "169926382",
+    "169926383",
+    "169926384",
+    "169926385",
+    "169926386",
+    "169926387",
+    "169926388",
+    "169926389",
+    "169926390"
+   ]
+  },
+  {
+   "date": "2008-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:468663:por",
+     "title": "Lei n.º 12-A/2008",
+     "published": "2008-02-27",
+     "dre_path": "/dr/detalhe/lei/12-a-2008-468663"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "169926377",
+    "169926378",
+    "169926379",
+    "169926392",
+    "169926381",
+    "169926382",
+    "169926383",
+    "169926384",
+    "169926385",
+    "169926386",
+    "169926387",
+    "169926388",
+    "169926389",
+    "169926390",
+    "169926391"
+   ]
+  }
+ ],
+ "fragments": {
+  "169926377": {
+   "fragment_id": "169924938",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 465/80\n\nde 14 de Outubro\n\nDa aplicação das disposições constantes do Decreto-Lei n.º 191-C/79, de 25 de Junho, que constitui o quadro de referência do ordenamento da função pública, resultou a indicação de carreiras comuns, que importa igualmente unificar, dada a similitude de posição e de qualificação, de acordo com o comando normativo do referido diploma.\n\nA instituição do grupo das carreiras técnicas superiores, bem como a definição do seu regime quanto a posição e áreas de recrutamento, conduziu à revisão das correspondentes carreiras de inspecção, deixando por tratar a situação dos inspectores superiores, que importa agora solucionar, na perspectiva acolhida no diploma de estruturação de carreiras, e, consequentemente, caminhar para a sua eliminação como categoria isolada.\n\nAinda na sequência dos princípios balizadores do sistema de carreira, importa esclarecer a posição relativa da categoria de chefe de secção, que se insere inequivocamente na carreira administrativa como cargo de chefia.\n\nNestes termos:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "169926378": {
+   "fragment_id": "169924939",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito de aplicação)\n\n1 - As disposições do presente diploma aplicam-se aos funcionários providos em lugares dos quadros dos diversos serviços e organismos da Administração Central e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.\n\n2 - São igualmente aplicáveis aos agentes dos serviços e organismos referidos no número anterior as disposições do presente diploma que se traduzam em valorizações da categoria correspondente do pessoal do quadro."
+  },
+  "169926379": {
+   "fragment_id": "169924940",
+   "type": 11,
+   "heading": "Artigo 2.º — (Inspectores superiores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Inspectores superiores)\n\n1 - À categoria de inspector superior passa a corresponder a letra B da tabela de vencimentos da função pública.\n\n2 - Os lugares de inspector superior não inseridos em carreira extinguir-se-ão à medida que vagarem.\n\n3 - Aos cargos de inspector superior equiparados a subdirector-geral ou a director de serviços aplica-se o regime jurídico estabelecido no Decreto-Lei n.º 191-F/79, de 26 de Junho."
+  },
+  "169926380": {
+   "fragment_id": "169924941",
+   "type": 11,
+   "heading": "Artigo 3.º — (Chefe de secção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Chefe de secção)\n\n1 - À categoria de chefe de secção passa a corresponder a letra H da tabela de vencimentos da função pública.\n\n2 - Os funcionários providos na categoria referida no número anterior ficam isentos de horário de trabalho, não lhes sendo devida qualquer remuneração pela prestação de trabalho extraordinário.\n\n3 - Não ficam abrangidos pela parte final do número anterior os chefes de secção que, em regime de tempo completo, se encontrem a prestar apoio aos membros do Governo, Ministros da República e outros órgãos de soberania.\n\n4 - A categoria de chefe de secção é considerada, para todos os efeitos legais, como cargo de chefia da carreira administrativa.\n\n5 - O número de lugares de chefe de secção constante dos quadros de pessoal deve corresponder às respectivas unidades orgânicas, extinguindo-se os lugares excedentes à medida que vagarem."
+  },
+  "169926381": {
+   "fragment_id": "169924942",
+   "type": 11,
+   "heading": "Artigo 4.º — (Carreira de tesoureiro)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Carreira de tesoureiro)\n\n1 - A carreira de tesoureiro desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras H, I e J.\n\n2 - O recrutamento para ingresso na carreira far-se-á de entre segundos-oficiais administrativos habilitados com o curso geral do ensino secundário ou equiparado e com, pelo menos, três anos na categoria.\n\n3 - O acesso às categorias de tesoureiro de 1.ª classe e tesoureiro principal fica condicionado à permanência de um mínimo de cinco anos na categoria imediatamente inferior e de classificação de serviço não inferior a Bom.\n\n4 - O disposto nos números anteriores não é aplicável às carreiras das tesourarias da Fazenda Pública."
+  },
+  "169926382": {
+   "fragment_id": "169924943",
+   "type": 11,
+   "heading": "Artigo 5.º — (Carreira de secretário-recepcionista)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Carreira de secretário-recepcionista)\n\n1 - A carreira de secretário-recepcionista desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras J, L e M.\n\n2 - O ingresso na carreira fica condicionado à posse do curso geral do ensino secundário ou equiparado, conhecimentos de técnicas de arquivo e prática de dactilografia.\n\n3 - O acesso à categoria superior fica condicionado à permanência de, pelo menos, três anos na categoria imediatamente inferior e classificação de serviço não inferior a Bom."
+  },
+  "169926383": {
+   "fragment_id": "169924944",
+   "type": 11,
+   "heading": "Artigo 6.º — (Carreira de auxiliar técnico administrativo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Carreira de auxiliar técnico administrativo)\n\n1 - A carreira de auxiliar técnico administrativo desenvolve-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras N, Q e S.\n\n2 - O ingresso é condicionado à habilitação mínima da escolaridade obrigatória e formação adequada.\n\n3 - A mudança de categoria verificar-se-á após a permanência de cinco anos na categoria anterior com classificação de serviço não inferior a Bom.\n\n4 - Transitam para a carreira de auxiliar técnico administrativo os actuais arquivistas e catalogadores não abrangidos pelo regime estabelecido no Decreto-Lei n.º 280/79, de 10 de Agosto.\n\n5 - É aplicável a esta carreira o disposto no n.º 5 do artigo 11.º e no n.º 4 do artigo 19.º do Decreto-Lei n.º 191-C/79, de 25 de Junho."
+  },
+  "169926384": {
+   "fragment_id": "169924945",
+   "type": 11,
+   "heading": "Artigo 7.º — (Carreiras de fiscal de obras públicas e fiscal de obras)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Carreiras de fiscal de obras públicas e fiscal de obras)\n\n1 - As carreiras de fiscal de obras públicas e fiscal de obras desenvolvem-se pelas categorias de principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras L, N e P.\n\n2 - O recrutamento para as categorias de fiscal de obras públicas de 2.ª classe e de fiscal de obras de 2.ª classe far-se-á de entre operários qualificados e semiqualificados da respectiva área funcional, habilitados com a escolaridade obrigatória e com, pelo menos, quatro anos de prática profissional comprovada na carreira.\n\n3 - O acesso à categoria superior fica condicionado à permanência de, pelo menos, três anos na categoria imediatamente inferior e de classificação de serviço não inferior a Bom.\n\n4 - É extinta a categoria de fiscal auxiliar de obras públicas, também designada em alguns diplomas como fiscal de obras públicas auxiliar, transitando o pessoal nela provido para a categoria de fiscal de obras públicas de 2.ª classe ou de fiscal de obras de 2.ª classe."
+  },
+  "169926385": {
+   "fragment_id": "169924946",
+   "type": 11,
+   "heading": "Artigo 8.º — (Regime genérico aplicável)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Regime genérico aplicável)\n\nÀs carreiras a que se referem os artigos anteriores é aplicável o regime estabelecido no Decreto-Lei n.º 191-C/79, de 25 de Junho, e legislação complementar, em tudo o que não esteja especialmente regulado neste diploma."
+  },
+  "169926386": {
+   "fragment_id": "169924947",
+   "type": 11,
+   "heading": "Artigo 9.º — (Transição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Transição)\n\n1 - A transição do pessoal abrangido pelo presente diploma far-se-á na categoria ou classe em que o funcionário ou agente actualmentes se encontra, sem prejuízo da valorização operada pela atribuição das novas letras de vencimento.\n\n2 - O pessoal a integrar na carreira de auxiliar técnico administrativo transitará para as novas categorias de acordo com o tempo de serviço na respectiva categoria ou carreira.\n\n3 - Transita para a base das respectivas carreiras, estruturadas nos termos do presente diploma, o pessoal que se encontra provido em categoria ou classe inferior.\n\n4 - Para efeitos de progressão na respectiva carreira, é considerado na categoria de ingresso o tempo de serviço prestado em categoria ou classe inferior, extinta nos termos do presente diploma."
+  },
+  "169926387": {
+   "fragment_id": "169924948",
+   "type": 11,
+   "heading": "Artigo 10.º — (Alterações aos quadros de pessoal)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Alterações aos quadros de pessoal)\n\n1 - Para efeitos de aplicação do presente diploma, consideram-se automaticamente alterados os quadros de pessoal dos organismos e serviços de acordo com as seguintes regras:\n\na) Na letra de vencimento, em relação às categorias valorizadas e cuja designação não se altere;\n\nb) Em dotação global, designação e letra de vencimento na carreira de auxiliar técnico administrativo;\n\nc) Aumentada a dotação de fiscal de obras públicas de 2.ª classe ou de fiscal de obras de 2.ª classe em tantas unidades quantas as de, respectivamente, fiscal de obras públicas auxiliar e fiscal de obras auxiliar.\n\n2 - As alterações aos quadros de pessoal para efeito de criação das categorias de tesoureiro principal e de secretário-recepcionista principal serão feitas mediante portaria conjunta do Ministro das Finanças e do Plano, do Ministro competente e do membro do Governo que tiver a seu cargo a função pública, de acordo com as seguintes regras:\n\na) O número de lugares a criar não pode ser superior ao da categoria imediatamente inferior;\n\nb) Os encargos resultantes da criação dos lugares serão satisfeitos por conta das disponibilidades existentes nas dotações orçamentais que suportam as despesas com o pessoal dos quadros aprovados por lei e do pessoal contratado não pertencente aos quadros."
+  },
+  "169926388": {
+   "fragment_id": "169924949",
+   "type": 11,
+   "heading": "Artigo 11.º — (Salvaguarda de direitos adquiridos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Salvaguarda de direitos adquiridos)\n\nA aplicação do disposto no presente diploma não prejudicará em caso algum a situação que os funcionários já detêm."
+  },
+  "169926389": {
+   "fragment_id": "169924950",
+   "type": 11,
+   "heading": "Artigo 12.º — (Dúvidas de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Dúvidas de aplicação)\n\nAs dúvidas resultantes da aplicação do presente diploma serão resolvidas por despacho do membro do Governo que tiver a seu cargo a função pública."
+  },
+  "169926390": {
+   "fragment_id": "169924951",
+   "type": 11,
+   "heading": "Artigo 13.º — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Entrada em vigor)\n\nO presente diploma entra em vigor no dia 1 do mês seguinte ao da sua publicação."
+  },
+  "169926392": {
+   "fragment_id": "169924941",
+   "type": 11,
+   "heading": "Artigo 3.º — (Chefe de secção)",
+   "in_force_from": "2008-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — (Chefe de secção)\n\n(Revogado.)\n\n> Alterado pelo/a Artigo 116.º do/a [Lei n.º 12-A/2008 - Diário da República n.º 41/2008, 1º Suplemento, Série I de 2008-02-27](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), em vigor a partir de 2008-03-01"
+  },
+  "169926391": {
+   "fragment_id": "169924952",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 27 de Agosto de 1980. - Francisco Sá Carneiro.\n\nPromulgado em 3 de Outubro de 1980.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  }
+ }
+}

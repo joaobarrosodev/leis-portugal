@@ -1,0 +1,433 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:249819:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2008-106476895",
+ "dre_path": "/dr/detalhe/decreto-lei/70-2008-249819",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2008-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "106489776",
+    "106489777",
+    "106489778",
+    "106489779",
+    "106489780",
+    "106489781",
+    "106489782",
+    "106489783",
+    "106489784",
+    "106489785",
+    "106489786",
+    "106489787",
+    "106489788",
+    "106489789",
+    "106489790",
+    "106489791",
+    "106489792",
+    "106489793",
+    "106489794",
+    "106489795",
+    "106489796",
+    "106489797",
+    "106489798",
+    "106489799",
+    "106489800",
+    "106489801",
+    "106489802",
+    "106489803",
+    "106489804",
+    "106489805",
+    "106489806",
+    "106489807",
+    "106489808",
+    "106489809",
+    "106489810",
+    "106489811",
+    "106489812",
+    "106489813",
+    "106489814",
+    "106489815",
+    "106489816",
+    "106489817",
+    "106489818",
+    "106489819",
+    "106489820"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:551642:por",
+     "title": "Declaração de Rectificação n.º 32-B/2008",
+     "published": "2008-06-13",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/32-b-2008-551642",
+     "date": "2008-04-20"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "106489776": {
+   "fragment_id": "106476896",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 70/2008\n\nde 15 de Abril\n\nA Lei n.º 64/2007, de 6 de Novembro, que alterou a Lei n.º 1/99, de 13 de Janeiro (aprova o Estatuto do Jornalista), ditou o reforço de competências e a alteração da composição da Comissão da Carteira Profissional de Jornalista (CCPJ). Se a esta entidade continuam a ser atribuídas as funções de assegurar o funcionamento do sistema de acreditação dos profissionais da informação dos órgãos de comunicação social e a salvaguarda do regime de incompatibilidades profissionais dos jornalistas, acrescem-lhe agora as de verificar, e eventualmente sancionar, o incumprimento de alguns dos deveres legais que sobre eles impendem. Passou também a CCPJ a ocupar-se da organização das comissões de arbitragem em matéria de litígios relativos a direitos de autor dos jornalistas cuja constituição lhe venha a ser solicitada.\n\nA este acréscimo de responsabilidades passou a corresponder uma estrutura unitária e alargada a nove elementos, em que o presidente, um jurista de reconhecido mérito na área da comunicação social, é cooptado pelos restantes membros, todos eles jornalistas, designados igualitariamente pelos seus pares e pelos operadores do sector de entre os que possuam pelo menos 10 anos de experiência profissional. Uma secção disciplinar assegura, com possibilidade de recurso para o plenário da Comissão, o respeito pelos deveres profissionais.\n\nO presente decreto-lei visa, assim, regulamentar o novo regime, definindo o modo de organização e de funcionamento da nova CCPJ e densificando as suas competências legais.\n\nForam ouvidos a Entidade Reguladora para a Comunicação Social, a Comissão da Carteira Profissional de Jornalista, o Sindicato dos Jornalistas e a Confederação Portuguesa dos Meios de Comunicação Social.\n\nAssim:\n\nAo abrigo da Lei n.º 1/99, de 13 de Janeiro, na redacção que lhe foi conferida pela Lei n.º 64/2007, de 6 de Novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "106489777": {
+   "fragment_id": "106476897",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "106489778": {
+   "fragment_id": "106476898",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei estabelece as regras de organização e funcionamento da Comissão da Carteira Profissional de Jornalista (CCPJ).\n\n2 - O presente decreto-lei tem ainda como objecto a regulamentação do sistema de acreditação profissional dos jornalistas e do respectivo regime de deveres e incompatibilidades profissionais."
+  },
+  "106489779": {
+   "fragment_id": "106476899",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nEstão sujeitos às disposições do presente decreto-lei os jornalistas, equiparados a jornalistas, correspondentes e colaboradores da área informativa de órgãos de comunicação social que exerçam a sua actividade em território nacional."
+  },
+  "106489780": {
+   "fragment_id": "106476900",
+   "type": 11,
+   "heading": "Artigo 3.º — Natureza e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Natureza e atribuições\n\nA CCPJ é um organismo independente de direito público, ao qual incumbe assegurar o funcionamento do sistema de acreditação profissional dos jornalistas, equiparados a jornalistas, correspondentes e colaboradores da área informativa dos órgãos de comunicação social, bem como o cumprimento dos respectivos deveres profissionais, nos termos do Estatuto do Jornalista e do presente decreto-lei."
+  },
+  "106489781": {
+   "fragment_id": "106476901",
+   "type": 11,
+   "heading": "Artigo 4.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competências\n\nCompete à CCPJ:\n\na) Atribuir, renovar, suspender ou cassar os títulos de acreditação profissional dos jornalistas, equiparados a jornalistas, correspondentes e colaboradores da área informativa dos órgãos de comunicação social;\n\nb) Apreciar, julgar e sancionar a violação, pelos jornalistas, equiparados a jornalistas, correspondentes e colaboradores da área informativa dos órgãos de comunicação social, dos deveres profissionais enunciados no n.º 2 do artigo 14.º do Estatuto do Jornalista;\n\nc) Aprovar, após consulta pública aos jornalistas, o regulamento aplicável ao procedimento disciplinar e promover a sua publicação, nos termos da lei;\n\nd) Assegurar a constituição e o funcionamento das comissões de arbitragem previstas no artigo 7.º-C do Estatuto do Jornalista e aprovar o respectivo regulamento;\n\ne) Instruir os processos de contra-ordenação por infracção aos artigos 3.º, 4.º, 5.º, 7.º-A, 7.º-B, 15.º e 17.º do Estatuto do Jornalista e aplicar as respectivas coimas e sanções acessórias;\n\nf) Aprovar o regulamento e organizar o processo eleitoral dos membros da CCPJ designados pelos jornalistas profissionais;\n\ng) Exercer os demais poderes que lhe sejam conferidos por lei."
+  },
+  "106489782": {
+   "fragment_id": "106476902",
+   "type": 1,
+   "heading": "Capítulo II — Títulos de acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Títulos de acreditação"
+  },
+  "106489783": {
+   "fragment_id": "106476903",
+   "type": 8,
+   "heading": "Secção I — Emissão e renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Emissão e renovação"
+  },
+  "106489784": {
+   "fragment_id": "106476904",
+   "type": 11,
+   "heading": "Artigo 5.º — Carteira profissional de jornalista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Carteira profissional de jornalista\n\n1 - A carteira profissional de jornalista é o documento de identificação dos jornalistas e de certificação do seu nome profissional, constituindo título de habilitação bastante para o exercício da profissão e dos direitos que a lei lhe confere.\n\n2 - A habilitação com a carteira profissional constitui condição indispensável ao exercício da profissão de jornalista.\n\n3 - Ao titular da carteira profissional no exercício das suas funções são garantidos todos os direitos previstos no Estatuto do Jornalista e na legislação sectorial específica.\n\n4 - Para a identificação do jornalista em exercício de funções é suficiente a apresentação da carteira profissional, não lhe podendo ser exigido qualquer outro documento, salvo por parte de autoridade policial e desde que haja fundada suspeita de falsidade ou invalidade do título."
+  },
+  "106489785": {
+   "fragment_id": "106476905",
+   "type": 11,
+   "heading": "Artigo 6.º — Título de estagiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Título de estagiário\n\n1 - A profissão de jornalista inicia-se com um estágio que se realiza em regime de ocupação principal, permanente e remunerada.\n\n2 - O título de estagiário é o documento de identificação do jornalista estagiário e constitui título de habilitação bastante para o exercício da actividade jornalística.\n\n3 - Os jornalistas estagiários devem requerer a emissão do título a que se refere o número anterior no prazo de 30 dias a contar do início do estágio.\n\n4 - O requerimento é instruído com os seguintes elementos:\n\na) Cópia de documento que permita a identificação civil do requerente;\n\nb) Uma fotografia recente a cores, tipo passe;\n\nc) Cópia do certificado de habilitações literárias;\n\nd) Declaração comprovativa da admissão como estagiário na redacção de órgão de comunicação social, assinada pelo respectivo director, com indicação do nome do jornalista responsável pela orientação do estágio e número da respectiva carteira profissional;\n\ne) Documento comprovativo do exercício da profissão, com indicação das funções que desempenha, emitido pela entidade empregadora ou, na falta desta, declaração sob compromisso de honra subscrita por dois jornalistas profissionais de que o requerente exerce a profissão naquele regime;\n\nf) Declaração, sob compromisso de honra, de que não se encontra abrangido por nenhuma das incompatibilidades previstas no Estatuto do Jornalista e de que se obriga a observar os deveres inerentes à profissão.\n\n5 - O título de estagiário confere ao seu titular os direitos previstos no Estatuto de Jornalista e na legislação sectorial específica, aplicando-se, com as necessárias adaptações, o disposto no artigo 5.º\n\n6 - A realização de estágios organizados no âmbito de acordos de colaboração entre empresas de comunicação social e estabelecimentos de ensino superior ou entidades acreditadas através do Sistema de Acreditação de Entidades Formadoras não carece de qualquer título habilitador, podendo no entanto a sua duração ser contabilizada, até ao máximo de três meses, como tempo de estágio profissional."
+  },
+  "106489786": {
+   "fragment_id": "106476906",
+   "type": 11,
+   "heading": "Artigo 7.º — Emissão da carteira profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Emissão da carteira profissional\n\n1 - A emissão da carteira profissional é requerida, salvo facto não imputável ao jornalista, no prazo de 30 dias contados da entrega de declaração comprovativa da conclusão do estágio, devendo o pedido ser acompanhado dos seguintes documentos:\n\na) Declaração comprovativa da conclusão do estágio com aproveitamento, com indicação do nome e do número da carteira profissional do jornalista que o orientou, emitida pela entidade empregadora;\n\nb) Documento comprovativo do exercício da profissão em regime de ocupação principal, permanente e remunerada, com indicação da categoria e das funções que desempenha, emitido pela entidade empregadora;\n\nc) Declaração, sob compromisso de honra, de que não se encontra abrangido por nenhuma das incompatibilidades previstas no Estatuto do Jornalista e de que se obriga a observar os deveres inerentes à profissão.\n\n2 - Em caso de recusa, pelas entidades referidas na alínea b) do número anterior, de emissão do respectivo documento comprovativo, a CCPJ solicita a intervenção da Autoridade para as Condições do Trabalho.\n\n3 - Tratando-se de jornalistas que optem pelo exercício da profissão em regime de trabalho independente, o documento referido na alínea b) do n.º 1 é substituído por comprovativo de entrega da declaração de início de actividade na competente repartição de finanças."
+  },
+  "106489787": {
+   "fragment_id": "106476907",
+   "type": 11,
+   "heading": "Artigo 8.º — Renovação da carteira profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Renovação da carteira profissional\n\n1 - A carteira profissional de jornalista é válida pelo período de dois anos, carecendo de renovação.\n\n2 - A renovação é concedida a requerimento do interessado, a apresentar no mês anterior ao termo de validade do título, que deve ser acompanhado de:\n\na) Uma fotografia a cores, tipo passe, quando a fotografia anterior tenha sido entregue há mais de cinco anos;\n\nb) Documento referido na alínea b) do n.º 1 do artigo anterior, actualizado, ou, tratando-se de jornalistas que exerçam a profissão em regime de trabalho independente, prova de elaboração e publicação regular de trabalhos jornalísticos nos dois anos imediatamente anteriores.\n\n3 - Os requerentes que tenham exercido, de forma titulada, a actividade de jornalista em regime de ocupação principal, permanente e remunerada, durante 10 anos seguidos ou 15 interpolados, têm direito à renovação da carteira profissional e estão dispensados da prova do exercício efectivo da profissão, mantendo-se sujeitos ao regime legal de incompatibilidades profissionais previsto no Estatuto do Jornalista.\n\n4 - O prazo para o requerimento da renovação da carteira profissional é suspenso nas situações de doença impeditiva do exercício de profissão, de ausência no estrangeiro por motivos profissionais e de desemprego.\n\n5 - A ocorrência de qualquer das situações previstas no número anterior, devidamente atestada pelas entidades competentes, deve ser prontamente comunicada à CCPJ.\n\n6 - O jornalista que se encontre em situação comprovada de desemprego pode requerer a renovação da carteira, suspendendo-se o envio do título ao interessado até à alteração daquela situação."
+  },
+  "106489788": {
+   "fragment_id": "106476908",
+   "type": 11,
+   "heading": "Artigo 9.º — Cartão de equiparado a jornalista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cartão de equiparado a jornalista\n\n1 - Os indivíduos que preencham as condições previstas no n.º 1 do artigo 15.º do Estatuto do Jornalista requerem a emissão do cartão de equiparado a jornalista, devendo o requerimento ser acompanhado de:\n\na) Cópia de documento que permita a identificação civil do requerente;\n\nb) Uma fotografia recente a cores, tipo passe;\n\nc) Declaração da entidade proprietária do órgão de comunicação social onde o requerente exerce a actividade comprovativa das funções aí desempenhadas;\n\nd) Declaração, sob compromisso de honra, de que não se encontra abrangido por nenhuma das incompatibilidades previstas no Estatuto do Jornalista e de que se obriga a observar os deveres inerentes à profissão.\n\n2 - O título de equiparado a jornalista é válido pelo período de dois anos, carecendo de renovação.\n\n3 - A renovação é concedida a requerimento do interessado, a apresentar no mês anterior ao termo de validade do título, que deve ser acompanhado de:\n\na) Uma fotografia a cores, tipo passe, quando a fotografia anterior tenha sido entregue há mais de cinco anos;\n\nb) A declaração referida na alínea c) do n.º 1."
+  },
+  "106489789": {
+   "fragment_id": "106476909",
+   "type": 11,
+   "heading": "Artigo 10.º — Cartão de correspondente local e de colaborador da área informativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cartão de correspondente local e de colaborador da área informativa\n\n1 - Os correspondentes locais, bem como os colaboradores especializados e os colaboradores da área informativa de órgãos de comunicação social nacionais, regionais ou locais, que exerçam regularmente actividade jornalística sem que esta constitua a sua ocupação principal, permanente e remunerada, têm direito a um documento de identificação, para fins de acesso à informação.\n\n2 - O requerimento para a emissão dos títulos a que se refere o presente artigo é acompanhado dos seguintes documentos:\n\na) Cópia de documento que permita a identificação civil do requerente;\n\nb) Uma fotografia recente a cores, tipo passe;\n\nc) Declaração da entidade proprietária do órgão de comunicação social onde o interessado exerce a actividade jornalística comprovativa das funções aí desempenhadas;\n\nd) Declaração, sob compromisso de honra, de que não se encontra abrangido pelas incompatibilidades previstas no Estatuto do Jornalista e de que se obriga a observar os deveres inerentes à profissão.\n\n3 - São aplicáveis, com as necessárias adaptações, os n.os 2 e 3 do artigo anterior."
+  },
+  "106489790": {
+   "fragment_id": "106476910",
+   "type": 11,
+   "heading": "Artigo 11.º — Cartão de correspondente estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cartão de correspondente estrangeiro\n\n1 - É condição do exercício de funções de correspondente de órgão de comunicação social estrangeiro em Portugal a habilitação com cartão de identificação, emitido ou reconhecido pela CCPJ, que titule a sua actividade e garanta o seu acesso às fontes de informação.\n\n2 - A emissão do cartão referido no número anterior é requerida pelo interessado devendo o requerimento ser instruído com os seguintes elementos:\n\na) Cópia de bilhete de identidade ou documento que permita a identificação civil do requerente;\n\nb) Uma fotografia recente a cores, tipo passe;\n\nc) Documento emitido pelo órgão de comunicação social estrangeiro, comprovando que o requerente exerce actividade jornalística ao seu serviço, com indicação da categoria e funções;\n\nd) Declaração, sob compromisso de honra, de que se obriga a observar os deveres inerentes à profissão.\n\n3 - Em caso de dúvida quanto ao preenchimento das condições que conferem direito ao cartão de identificação, a CCPJ solicitará o parecer da Associação de Imprensa Estrangeira ou de outras entidades nacionais ou estrangeiras representativas dos jornalistas.\n\n4 - São aplicáveis, com as necessárias adaptações, os n.os 2 e 3 do artigo 9.º\n\n5 - Os correspondentes estrangeiros estão sujeitos às normas éticas da profissão de jornalista e ao respectivo regime de incompatibilidades."
+  },
+  "106489791": {
+   "fragment_id": "106476911",
+   "type": 11,
+   "heading": "Artigo 12.º — Cartão de colaborador nas comunidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Cartão de colaborador nas comunidades\n\nAos cidadãos que exerçam uma actividade jornalística em órgãos de comunicação social destinados às comunidades portuguesas no estrangeiro e aí sedeados é atribuído um título identificativo, a emitir pela CCPJ nos termos definidos em portaria conjunta dos membros do Governo responsáveis pelas áreas das comunidades e da comunicação social."
+  },
+  "106489792": {
+   "fragment_id": "106476912",
+   "type": 11,
+   "heading": "Artigo 13.º — Nome profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Nome profissional\n\n1 - Os interessados na obtenção de um título de acreditação previsto no presente decreto-lei devem registar o seu nome profissional, ou os seus nomes profissionais, na CCPJ.\n\n2 - Havendo coincidência ou semelhança de nomes profissionais, a CCPJ decide sobre a prevalência, de acordo com o critério da maior antiguidade na sua utilização pública.\n\n3 - O disposto nos números anteriores não prejudica o disposto no Código do Direito de Autor e dos Direitos Conexos em matéria de protecção de nome literário ou artístico."
+  },
+  "106489793": {
+   "fragment_id": "106476913",
+   "type": 11,
+   "heading": "Artigo 14.º — Prazos de envio dos títulos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prazos de envio dos títulos\n\n1 - Sem prejuízo do disposto no n.º 6 do artigo 8.º, o prazo para o envio ao interessado dos títulos previstos no presente decreto-lei é de 60 dias.\n\n2 - As decisões de indeferimento são fundamentadas e notificadas por escrito ao interessado.\n\n3 - Para efeitos de recurso, presumem-se tacitamente indeferidos os pedidos de emissão e de renovação de títulos que não sejam enviados no prazo previsto no n.º 1."
+  },
+  "106489794": {
+   "fragment_id": "106476914",
+   "type": 11,
+   "heading": "Artigo 15.º — Deterioração e extravio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Deterioração e extravio\n\n1 - Em caso de deterioração ou extravio do título profissional, o interessado requer a emissão de uma segunda via à CCPJ.\n\n2 - A CCPJ emite, em face do requerimento, documento provisório substitutivo do título, válido por 60 dias."
+  },
+  "106489795": {
+   "fragment_id": "106476915",
+   "type": 11,
+   "heading": "Artigo 16.º — Modelos dos títulos profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Modelos dos títulos profissionais\n\nOs títulos de acreditação previstos no presente decreto-lei obedecem aos modelos a aprovar por despacho do membro do Governo responsável pela área da comunicação social."
+  },
+  "106489796": {
+   "fragment_id": "106476916",
+   "type": 8,
+   "heading": "Secção II — Suspensão e cassação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Suspensão e cassação"
+  },
+  "106489797": {
+   "fragment_id": "106476917",
+   "type": 11,
+   "heading": "Artigo 17.º — Suspensão do direito ao título",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Suspensão do direito ao título\n\n1 - A ocorrência superveniente de incompatibilidade, prevista no Estatuto do Jornalista, suspende o direito ao título profissional de jornalista, de estagiário ou de equiparado, e implica:\n\na) O dever de o titular comunicar à CCPJ a correspondente situação e de proceder à entrega do título;\n\nb) A não renovação do título enquanto subsistir a incompatibilidade e durante os prazos de impedimento referidos no artigo 3.º do Estatuto do Jornalista.\n\n2 - A devolução ou renovação do título opera-se mediante solicitação do interessado, que comprova pelos meios adequados a cessação da incompatibilidade e, se for o caso, do impedimento.\n\n3 - A CCPJ notifica o titular para, em 10 dias, proceder à entrega do título, sempre que, por qualquer meio, verifique existir uma situação de incompatibilidade ou de impedimento.\n\n4 - A CCPJ determina a cassação do título que não seja entregue no prazo previsto no número anterior, solicitando a sua apreensão às autoridades competentes.\n\n5 - O disposto nos números anteriores é aplicável, com as necessárias adaptações, aos títulos profissionais de correspondente local, de colaborador e de correspondente estrangeiro."
+  },
+  "106489798": {
+   "fragment_id": "106476918",
+   "type": 11,
+   "heading": "Artigo 18.º — Falsas declarações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Falsas declarações\n\n1 - Independentemente de outras sanções previstas na lei, os títulos de acreditação obtidos com base em falsas declarações são cassados pela CCPJ, após audição obrigatória do interessado.\n\n2 - Constitui contra-ordenação, punível com coima de (euro) 1000 a (euro) 7500, a prestação de falsas declarações sobre os requisitos legais necessários à obtenção de um título de acreditação que venha a ter como resultado a sua atribuição.\n\n3 - A instrução dos processos de contra-ordenação e a aplicação de coimas pela infracção ao disposto no número anterior compete à CCPJ.\n\n4 - O produto das coimas reverte em 60 % para o Estado e em 40 % para a CCPJ."
+  },
+  "106489799": {
+   "fragment_id": "106476919",
+   "type": 11,
+   "heading": "Artigo 19.º — Suspensão e interdição do exercício da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Suspensão e interdição do exercício da profissão\n\n1 - Os tribunais comunicam à CCPJ todas as decisões que imponham a interdição ou suspensão do exercício da actividade ou da profissão, bem como o seu período de duração e as datas do respectivo início e termo.\n\n2 - As decisões referidas no número anterior são averbadas no processo individual, obrigando à entrega do título à CCPJ nos cinco dias imediatos ao início da execução da correspondente sanção ou medida de coacção, sem o que é solicitada a sua apreensão às autoridades competentes."
+  },
+  "106489800": {
+   "fragment_id": "106476920",
+   "type": 1,
+   "heading": "Capítulo III — Composição da CCPJ e designação dos seus membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Composição da CCPJ e designação dos seus membros"
+  },
+  "106489801": {
+   "fragment_id": "106476921",
+   "type": 11,
+   "heading": "Artigo 20.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Composição\n\n1 - A CCPJ é composta por oito elementos com um mínimo de 10 anos de exercício da profissão de jornalista e detentores de carteira profissional ou título equiparado válido, designados igualitariamente pelos jornalistas profissionais e pelos operadores do sector, e por um jurista de reconhecido mérito e experiência na área da comunicação social, cooptado por aqueles, que preside.\n\n2 - Os membros da CCPJ são independentes no exercício das suas funções, apenas estando vinculados à lei e às normas éticas que regem o exercício da profissão de jornalista."
+  },
+  "106489802": {
+   "fragment_id": "106476922",
+   "type": 11,
+   "heading": "Artigo 21.º — Designação e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Designação e mandato\n\n1 - A designação, pelos operadores do sector, de quatro elementos para a CCPJ é efectuada pela confederação de associações dos meios de comunicação social ou, na sua ausência, pelas associações do sector com maior representatividade, devendo reflectir a diversidade dos meios existentes, designadamente a imprensa, a rádio e a televisão.\n\n2 - A designação, pelos jornalistas profissionais, de quatro elementos para a CCPJ efectua-se através de eleição, organizada pela CCPJ.\n\n3 - Conjuntamente com os membros efectivos é designado igual número de suplentes.\n\n4 - A cooptação do presidente da CCPJ efectua-se por maioria absoluta dos membros designados.\n\n5 - A lista contendo a identificação dos membros da CCPJ é remetida ao membro do Governo responsável pela área da comunicação social, que promove a sua publicação, por aviso, na 2.ª série do Diário da República.\n\n6 - O mandato dos membros da CCPJ é de três anos contados da data da respectiva tomada de posse, mantendo-se os membros cessantes em efectividade de funções até à tomada de posse dos seus sucessores, salvo renúncia ou impedimento involuntário prolongado.\n\n7 - Os membros suplentes substituem os efectivos em todos os casos de impedimento involuntário, ainda que temporário, completando o mandato se aquele persistir.\n\n8 - Em caso de renúncia, os membros suplentes substituem os efectivos, completando o mandato."
+  },
+  "106489803": {
+   "fragment_id": "106476923",
+   "type": 11,
+   "heading": "Artigo 22.º — Eleição de membros por jornalistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Eleição de membros por jornalistas\n\n1 - A eleição a que se refere o n.º 2 do artigo anterior realiza-se por sufrágio pessoal e secreto, segundo o método da média mais alta de Hondt.\n\n2 - Integram os cadernos eleitorais todos os jornalistas com título profissional actualizado à data do anúncio das eleições.\n\n3 - As candidaturas organizam-se mediante listas discriminando os candidatos efectivos e a ordem dos suplentes, apresentadas por associações sindicais e profissionais de jornalistas de âmbito nacional, ou por um mínimo de 100 jornalistas inscritos nos cadernos eleitorais.\n\n4 - A aprovação do regulamento e a organização do processo eleitoral incumbe à CCPJ, que pode celebrar convénios com as associações sindicais ou profissionais com vista à prática dos actos materiais necessários à sua realização."
+  },
+  "106489804": {
+   "fragment_id": "106476924",
+   "type": 1,
+   "heading": "Capítulo IV — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Procedimento disciplinar"
+  },
+  "106489805": {
+   "fragment_id": "106476925",
+   "type": 11,
+   "heading": "Artigo 23.º — Sanções disciplinares profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Sanções disciplinares profissionais\n\n1 - As violações dos deveres enunciados no n.º 2 do artigo 14.º do Estatuto do Jornalista constituem infracção disciplinar profissional, punida com as seguintes penas, tendo em conta a gravidade da infracção, a culpa e os antecedentes disciplinares do agente:\n\na) Advertência registada;\n\nb) Repreensão escrita;\n\nc) Suspensão do exercício da actividade profissional até 12 meses.\n\n2 - Para determinar o grau de culpa do agente, designadamente quando tenha agido no cumprimento de um dever de obediência hierárquica, a CCPJ pode requerer os elementos que entenda necessários ao conselho de redacção do órgão de comunicação social em que tenha sido cometida a infracção.\n\n3 - A pena de suspensão do exercício da actividade só pode ser aplicada quando o agente, nos três anos precedentes, tenha sido sancionado pelo menos duas vezes com a pena de repreensão escrita, ou uma vez com idêntica pena de suspensão."
+  },
+  "106489806": {
+   "fragment_id": "106476926",
+   "type": 11,
+   "heading": "Artigo 24.º — Procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento disciplinar\n\n1 - O procedimento disciplinar é conduzido pela CCPJ, à qual compete a decisão da sua abertura, que pode ser delegada no secretariado, concluindo-se com a publicação da decisão final, nos termos legais.\n\n2 - A decisão de abertura do procedimento disciplinar é tomada oficiosamente ou na sequência de participação de pessoa que tenha sido directamente afectada pela infracção disciplinar, ou ainda do conselho de redacção do órgão de comunicação social em que esta foi cometida, quando esgotadas internamente as suas competências na matéria.\n\n3 - O procedimento assegura o direito de defesa dos acusados, nos termos do regulamento disciplinar aprovado, após consulta pública aos jornalistas, pela CCPJ, o qual é remetido ao membro do Governo responsável pela área da comunicação social para publicação na 2.ª série do Diário da República."
+  },
+  "106489807": {
+   "fragment_id": "106476927",
+   "type": 11,
+   "heading": "Artigo 25.º — Secção disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Secção disciplinar\n\n1 - Aberto o procedimento disciplinar, a apreciação, julgamento e sanção da violação dos deveres profissionais enumerados no n.º 2 do artigo 14.º do Estatuto do Jornalista compete a uma secção disciplinar composta por três jornalistas.\n\n2 - Os elementos da secção disciplinar são eleitos pelos membros da CCPJ, de entre os jornalistas que a compõem, por voto secreto, pelo período de um ano.\n\n3 - Das decisões da secção disciplinar cabe recurso, com efeito suspensivo, para o plenário da CCPJ."
+  },
+  "106489808": {
+   "fragment_id": "106476928",
+   "type": 1,
+   "heading": "Capítulo V — Funcionamento da CCPJ",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Funcionamento da CCPJ"
+  },
+  "106489809": {
+   "fragment_id": "106476929",
+   "type": 11,
+   "heading": "Artigo 26.º — Sede e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Sede e funcionamento\n\n1 - A CCPJ tem sede em Lisboa.\n\n2 - A CCPJ elabora o seu próprio regulamento, o qual é remetido ao membro do Governo responsável pela área da comunicação social, para homologação e publicação na 2.ª série do Diário da República.\n\n3 - A CCPJ reúne-se em plenário, com periodicidade bimestral, e sempre que for extraordinariamente convocada para o efeito pelo presidente ou por pelo menos três dos seus membros.\n\n4 - A CCPJ nomeia um secretariado, que é o seu órgão permanente de competência delegada, constituído por dois elementos eleitos de entre os seus membros e pelo presidente.\n\n5 - Compete ao secretariado:\n\na) Representar a CCPJ em juízo e fora dele, para todos os efeitos legais;\n\nb) Movimentar as contas bancárias, bastando, para o efeito, a assinatura de dois dos seus membros;\n\nc) Assegurar a gestão corrente da CCPJ."
+  },
+  "106489810": {
+   "fragment_id": "106476930",
+   "type": 11,
+   "heading": "Artigo 27.º — Legitimidade processual e isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Legitimidade processual e isenções\n\n1 - A CCPJ tem legitimidade para propor e intervir em processos principais e cautelares destinados à defesa de valores e bens jurídicos cuja protecção lhe seja cometida nos termos da lei.\n\n2 - A CCPJ está isenta de custas em qualquer tribunal ou instância."
+  },
+  "106489811": {
+   "fragment_id": "106476931",
+   "type": 11,
+   "heading": "Artigo 28.º — Dever de sigilo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Dever de sigilo\n\n1 - Os membros e colaboradores da CCPJ estão obrigados a manter sigilo relativamente a todos os dados pessoais, documentos e informações apresentados pelos requerentes, salvo se e na medida em que forem expressamente autorizados pelo interessado do contrário.\n\n2 - Ressalva-se a mera informação de que alguém é titular de determinado título de acreditação, por solicitação de autoridade pública ou a requerimento de quem tiver interesse legítimo."
+  },
+  "106489812": {
+   "fragment_id": "106476932",
+   "type": 11,
+   "heading": "Artigo 29.º — Compensações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Compensações\n\n1 - Os membros da CCPJ e do secretariado têm direito a uma senha de presença por cada participação em reuniões ou sessões de trabalho.\n\n2 - O montante de cada senha de presença é fixado através de despacho conjunto dos membros do Governo responsáveis pelas áreas das finanças e da comunicação social.\n\n3 - A compensação referida nos números anteriores não prejudica o direito de reembolso pelas despesas a que o exercício das respectivas funções dê causa, as quais são pagas mediante documentação comprovativa."
+  },
+  "106489813": {
+   "fragment_id": "106476933",
+   "type": 11,
+   "heading": "Artigo 30.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Património\n\nO património da CCPJ é constituído pela universalidade dos seus bens, direitos e obrigações."
+  },
+  "106489814": {
+   "fragment_id": "106476934",
+   "type": 11,
+   "heading": "Artigo 31.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Receitas\n\n1 - Constituem receitas da CCPJ:\n\na) Os emolumentos cobrados pela emissão, renovação ou substituição dos títulos de acreditação;\n\nb) O produto das coimas por si aplicadas, nos termos do disposto no Estatuto do Jornalista;\n\nc) As importâncias cobradas no exercício das suas funções para fazer face a despesas do interesse dos requerentes;\n\nd) Os subsídios e outros apoios que lhe sejam atribuídos;\n\ne) As doações, heranças ou legados concedidos por quaisquer entidades de direito público ou privado;\n\nf) O produto da venda de quaisquer publicações, bem como da realização ou cedência de estudos sociais e estatísticos, inquéritos e outros trabalhos ou serviços prestados a outras entidades;\n\ng) As dotações públicas que se mostrem indispensáveis à sua organização logística ou à prossecução das suas actividades administrativas;\n\nh) Quaisquer outras receitas previstas na lei, regulamento ou provenientes de negócio jurídico.\n\n2 - O montante dos emolumentos referidos na alínea a) do n.º 1 é fixado por despacho do membro do Governo responsável pela área da comunicação social.\n\n3 - Sem prejuízo das sanções legalmente previstas, a inobservância dos prazos previstos para requerimento dos títulos de acreditação ou da sua renovação pelos respectivos interessados determina a cobrança de custos adicionais de processamento, no montante de:\n\na) 50 % do emolumento respectivo, por atraso igual ou inferior a 30 dias sobre a data limite estabelecida;\n\nb) 100 %, nos demais casos.\n\n4 - A CCPJ pode estabelecer isenções ou reduções de emolumentos nos casos de comprovada insuficiência económica do requerente."
+  },
+  "106489815": {
+   "fragment_id": "106476935",
+   "type": 11,
+   "heading": "Artigo 32.º — Actividade financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Actividade financeira\n\n1 - A actividade financeira da CCPJ rege-se pelas disposições legais aplicáveis aos serviços e fundos autónomos.\n\n2 - A realização das despesas e o seu pagamento são autorizados pelo presidente da CCPJ."
+  },
+  "106489816": {
+   "fragment_id": "106476936",
+   "type": 11,
+   "heading": "Artigo 33.º — Dever de colaboração com a administração da justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Dever de colaboração com a administração da justiça\n\n1 - Cumpre à CCPJ comunicar ao Ministério Público a suspeita da prática de crimes de que tenha conhecimento no exercício das suas funções e por causa delas.\n\n2 - A CCPJ pode solicitar a colaboração de quaisquer entidades oficiais a fim de se assegurar da licitude dos actos que constituam pressuposto para o regular exercício das suas funções."
+  },
+  "106489817": {
+   "fragment_id": "106476937",
+   "type": 11,
+   "heading": "Artigo 34.º — Dever de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Dever de informação\n\nA CCPJ remete à Entidade Reguladora para a Comunicação Social, nos primeiros 60 dias de cada ano, a lista dos titulares acreditados para o respectivo exercício profissional."
+  },
+  "106489818": {
+   "fragment_id": "106476938",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "106489819": {
+   "fragment_id": "106476939",
+   "type": 11,
+   "heading": "Artigo 35.º — Exercício em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Exercício em curso\n\nSem prejuízo do direito de renúncia, os membros da CCPJ em exercício à data da entrada em vigor do presente decreto-lei mantêm-se em funções até à data da tomada de posse dos novos membros."
+  },
+  "106489820": {
+   "fragment_id": "106476940",
+   "type": 11,
+   "heading": "Artigo 36.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Revogação\n\n1 - É revogado o Decreto-Lei n.º 305/97, de 11 de Novembro.\n\n2 - O Regulamento da Comissão da Carteira Profissional de Jornalista, aprovado em 22 de Abril de 1996 e publicado na 2.ª série do Diário da República de 4 de Julho de 1996, mantém-se em vigor, em tudo o que não contrarie o presente decreto-lei, até à aprovação do novo regulamento."
+  }
+ }
+}

@@ -1,0 +1,1836 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:580779:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-115333474",
+ "dre_path": "/dr/detalhe/decreto-lei/209-2000-580779",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115328139",
+    "115328140",
+    "115328141",
+    "115328142",
+    "115328143",
+    "115328144",
+    "115328145",
+    "115328146",
+    "115328147",
+    "115328148",
+    "115328149",
+    "115328150",
+    "115328151",
+    "115328152",
+    "115328153",
+    "115328154",
+    "115328155",
+    "115328156",
+    "115328157",
+    "115328158",
+    "115328159",
+    "115328160",
+    "115328161",
+    "115328162",
+    "115328163",
+    "115328164",
+    "115328165",
+    "115328167",
+    "115328168",
+    "115328169",
+    "115328170",
+    "115328171",
+    "115328172",
+    "115328173",
+    "115328174",
+    "115334875",
+    "115334876",
+    "115334877",
+    "115334878",
+    "115334879",
+    "115334880",
+    "115334881",
+    "115334882",
+    "115334883",
+    "115334884",
+    "115334885",
+    "115334886",
+    "115334887",
+    "115334888",
+    "115334889",
+    "115334890",
+    "115334891",
+    "115334892",
+    "115334893",
+    "115334894",
+    "115334895",
+    "115334896",
+    "115334897",
+    "115334898",
+    "115334899",
+    "115334900",
+    "115334901",
+    "115334902",
+    "115334903",
+    "115334904",
+    "115334905",
+    "115334906",
+    "115334907",
+    "115334908",
+    "115334909",
+    "115334910",
+    "115334911",
+    "115334912",
+    "115334913",
+    "115334914",
+    "115334915",
+    "115334916",
+    "115334917",
+    "115334918",
+    "115334919",
+    "115334920",
+    "115334921",
+    "115334922",
+    "115334923",
+    "115334924",
+    "115334925",
+    "115334926",
+    "115334927",
+    "115334928",
+    "115334929",
+    "115334930",
+    "115334931",
+    "115334932",
+    "115334933",
+    "115334934",
+    "115334935",
+    "115334936",
+    "115334937",
+    "115334938",
+    "115334939",
+    "115334940",
+    "115334941",
+    "115334942",
+    "115334943",
+    "115334944",
+    "115334945",
+    "115334946",
+    "115334947",
+    "115334948",
+    "115334949",
+    "115334950",
+    "115334951",
+    "115334952",
+    "115334953",
+    "115334954",
+    "115334955",
+    "115334956",
+    "115334957",
+    "115334958",
+    "115334959",
+    "115334960",
+    "115334961",
+    "115334962",
+    "115334963",
+    "115334964",
+    "115334965",
+    "115334966",
+    "115334967",
+    "115334968",
+    "115334969",
+    "115334970",
+    "115334971",
+    "115334972",
+    "115334973",
+    "115334974",
+    "115335075",
+    "115335076",
+    "115335077",
+    "115335078",
+    "115335079",
+    "115335080",
+    "115335081",
+    "115335082",
+    "115335083",
+    "115335084",
+    "115335085",
+    "115335086",
+    "115335087",
+    "115335088",
+    "115335089",
+    "115335090",
+    "115335091"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:437447:por",
+     "title": "Declaração de Rectificação n.º 14-A/2000",
+     "published": "2000-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/14-a-2000-437447",
+     "date": "2000-09-07"
+    }
+   ]
+  },
+  {
+   "date": "2000-12-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:599109:por",
+     "title": "Decreto-Lei n.º 312/2000",
+     "published": "2000-12-02",
+     "dre_path": "/dr/detalhe/decreto-lei/312-2000-599109"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II",
+    "Altera Anexo IV"
+   ],
+   "fragments": [
+    "115328139",
+    "115328140",
+    "115328141",
+    "115328142",
+    "115335104",
+    "115328144",
+    "115328145",
+    "115328146",
+    "115328147",
+    "115328148",
+    "115328149",
+    "115328150",
+    "115328151",
+    "115328152",
+    "115328153",
+    "115328154",
+    "115328155",
+    "115328156",
+    "115335105",
+    "115328158",
+    "115328159",
+    "115328160",
+    "115328161",
+    "115328162",
+    "115328163",
+    "115335106",
+    "115328165",
+    "115328166",
+    "115328167",
+    "115328168",
+    "115328169",
+    "115328170",
+    "115328171",
+    "115328172",
+    "115328173",
+    "115328174",
+    "115334875",
+    "115334876",
+    "115334877",
+    "115334878",
+    "115334879",
+    "115334880",
+    "115334881",
+    "115334882",
+    "115334883",
+    "115334884",
+    "115334885",
+    "115334886",
+    "115334887",
+    "115334888",
+    "115334889",
+    "115334890",
+    "115334891",
+    "115334892",
+    "115334893",
+    "115334894",
+    "115334895",
+    "115334896",
+    "115334897",
+    "115334898",
+    "115334899",
+    "115335125",
+    "115334901",
+    "115334902",
+    "115334903",
+    "115334904",
+    "115334905",
+    "115334906",
+    "115334907",
+    "115334908",
+    "115334909",
+    "115334910",
+    "115334911",
+    "115334912",
+    "115334913",
+    "115334914",
+    "115334915",
+    "115334916",
+    "115334917",
+    "115334918",
+    "115334919",
+    "115334920",
+    "115334921",
+    "115334922",
+    "115334923",
+    "115334924",
+    "115334925",
+    "115334926",
+    "115334927",
+    "115334928",
+    "115334929",
+    "115334930",
+    "115334931",
+    "115335126",
+    "115334933",
+    "115334934",
+    "115334935",
+    "115334936",
+    "115334937",
+    "115334938",
+    "115334939",
+    "115334940",
+    "115334941",
+    "115334942",
+    "115334943",
+    "115334944",
+    "115334945",
+    "115334946",
+    "115334947",
+    "115334948",
+    "115334949",
+    "115334950",
+    "115334951",
+    "115334952",
+    "115334953",
+    "115334954",
+    "115334955",
+    "115334956",
+    "115334957",
+    "115334958",
+    "115334959",
+    "115334960",
+    "115335098",
+    "115335099",
+    "115334961",
+    "115334962",
+    "115334963",
+    "115334964",
+    "115334965",
+    "115334966",
+    "115334967",
+    "115334968",
+    "115334969",
+    "115334970",
+    "115334971",
+    "115334972",
+    "115334973",
+    "115334974",
+    "115335075",
+    "115335076",
+    "115335077",
+    "115335078",
+    "115335079",
+    "115335080",
+    "115335081",
+    "115335082",
+    "115335083",
+    "115335084",
+    "115335085",
+    "115335086",
+    "115335087",
+    "115335088",
+    "115335089",
+    "115335090",
+    "115335091"
+   ]
+  },
+  {
+   "date": "2018-05-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115312061:por",
+     "title": "Decreto-Lei n.º 33/2018",
+     "published": "2018-05-15",
+     "dre_path": "/dr/detalhe/decreto-lei/33-2018-115312061"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "115328139",
+    "115328140",
+    "115328141",
+    "115328142",
+    "115335104",
+    "115328144",
+    "115328145",
+    "115335127",
+    "115328147",
+    "115328148",
+    "115328149",
+    "115328150",
+    "115328151",
+    "115328152",
+    "115328153",
+    "115328154",
+    "115328155",
+    "115328156",
+    "115335105",
+    "115328158",
+    "115328159",
+    "115328160",
+    "115328161",
+    "115328162",
+    "115328163",
+    "115335106",
+    "115328165",
+    "115328166",
+    "115328167",
+    "115328168",
+    "115328169",
+    "115328170",
+    "115328171",
+    "115335128",
+    "115328173",
+    "115328174",
+    "115334875",
+    "115334876",
+    "115334877",
+    "115334878",
+    "115334879",
+    "115334880",
+    "115334881",
+    "115334882",
+    "115334883",
+    "115334884",
+    "115334885",
+    "115334886",
+    "115334887",
+    "115334888",
+    "115334889",
+    "115334890",
+    "115334891",
+    "115334892",
+    "115334893",
+    "115334894",
+    "115334895",
+    "115334896",
+    "115334897",
+    "115334898",
+    "115334899",
+    "115335125",
+    "115334901",
+    "115334902",
+    "115334903",
+    "115334904",
+    "115334905",
+    "115334906",
+    "115334907",
+    "115334908",
+    "115334909",
+    "115334910",
+    "115334911",
+    "115334912",
+    "115334913",
+    "115334914",
+    "115334915",
+    "115334916",
+    "115334917",
+    "115334918",
+    "115334919",
+    "115334920",
+    "115334921",
+    "115334922",
+    "115334923",
+    "115334924",
+    "115334925",
+    "115334926",
+    "115334927",
+    "115334928",
+    "115334929",
+    "115334930",
+    "115334931",
+    "115335126",
+    "115334933",
+    "115334934",
+    "115334935",
+    "115334936",
+    "115334937",
+    "115334938",
+    "115334939",
+    "115334940",
+    "115334941",
+    "115334942",
+    "115334943",
+    "115334944",
+    "115334945",
+    "115334946",
+    "115334947",
+    "115334948",
+    "115334949",
+    "115334950",
+    "115334951",
+    "115334952",
+    "115334953",
+    "115334954",
+    "115334955",
+    "115334956",
+    "115334957",
+    "115334958",
+    "115334959",
+    "115334960",
+    "115335098",
+    "115335099",
+    "115334961",
+    "115334962",
+    "115334963",
+    "115334964",
+    "115334965",
+    "115334966",
+    "115334967",
+    "115334968",
+    "115334969",
+    "115334970",
+    "115334971",
+    "115334972",
+    "115334973",
+    "115334974",
+    "115335075",
+    "115335076",
+    "115335077",
+    "115335078",
+    "115335079",
+    "115335080",
+    "115335081",
+    "115335082",
+    "115335083",
+    "115335084",
+    "115335085",
+    "115335086",
+    "115335087",
+    "115335088",
+    "115335089",
+    "115335090",
+    "115335091"
+   ]
+  }
+ ],
+ "fragments": {
+  "115328139": {
+   "fragment_id": "115334775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 209/2000\n\nde 2 de Setembro\n\nA continuação do esforço de consolidação orçamental e contenção das despesas públicas passa pela adopção de novas formas de gestão do património mobiliário e imobiliário do Estado, que induza níveis acrescidos de racionalidade e de eficiência e conduza a uma maior responsabilização efectiva dos intervenientes.\n\nPara além do programa de privatizações existem empresas e participações que por razões de interesse nacional têm num determinado momento de continuar públicas. É assim necessário melhorar as condições para um exercício efectivo e responsabilizador da tutela financeira sobre as empresas públicas e para o acompanhamento financeiro das concessões de serviço público, que pesam crescentemente sobre o orçamento.\n\nPara o efeito e considerando exigências de flexibilidade de resposta, elevado nível técnico e independência dos interesses privados, optou-se por atribuir a uma sociedade gestora de participações sociais de capitais exclusivamente públicos a missão de deter as participações do Estado que não seja considerado estratégico manter na directa dependência do Governo e de apoiar tecnicamente o Ministro das Finanças no exercício da tutela financeira sobre as restantes e no acompanhamento das concessões. Esta solução permitirá, uma vez obtido sucesso na resolução das situações de dependência das empresas do Orçamento do Estado, progressivamente, passar as participações que não seja considerado necessário manter na directa dependência do Governo para o património da sociedade gestora de participações sociais agora criada, como etapa conducente à sua eventual privatização.\n\nO modelo organizativo de gestão das participações sociais directas ou indirectas do Estado pelo qual se optou implica que a mesma seja levada a cabo por uma estrutura empresarial de cúpula destinada a gerir as participações em empresas de objecto mais especializado, na área do imobiliário e do mobiliário, as quais recebem parte do património que se encontra actualmente sob gestão directa da Administração Pública.\n\nA PARPÚBLICA - Participações Públicas (SGPS), S. A., visa, enquanto estrutura de cúpula, a coordenação geral e o acompanhamento global da gestão do património afecto ao conjunto das empresas cuja criação ora se prevê. Tem-se particularmente em vista reforçar a intervenção na alienação das participações não estratégicas do Estado e maximizar o nível de recursos disponíveis para a reestruturação dos sectores empresariais públicos que fornecem bens ou serviços públicos e semipúblicos e para a recuperação económica e financeira das empresas do sector público.\n\nNeste âmbito, importa redefinir alguns aspectos do actual quadro normativo e desenvolver outros, no sentido de atribuir à PARPÚBLICA um novo papel na organização e gestão integradas do Sector Empresarial do Estado.\n\nAssim, define-se o âmbito de intervenção da PARPÚBLICA, por forma que a sua actuação se estenda a vertentes complementares da própria gestão directa das participações do Estado, nomeadamente no que respeita à prestação de serviços de acompanhamento das empresas do Estado e apoio ao Governo na tomada de decisões relacionadas com essas empresas, quer para efeitos de privatização, quer no domínio da reestruturação e saneamento financeiros.\n\nDecorrente destas atribuições e do interesse público que lhes anda associado, justifica-se a previsão de um regime que comporta algumas excepções e especialidades em relação à legislação comercial aplicável, nomeadamente o Decreto-Lei n.º 495/88, de 30 de Dezembro, diploma regulador das sociedades gestoras de participações sociais. Tal deve-se ao facto de a PARPÚBLICA se assumir claramente, neste modelo, como instrumento para a gestão do património do Estado, pelo que deve ser dotada quanto a esse âmbito específico de poderes e competências que lhe permitam prosseguir eficazmente os seus objectivos, beneficiando, em simultâneo, da flexibilidade de actuação inerente à sua natureza societária.\n\nQuanto às operações de privatização e de reprivatização de participações sociais do Estado, clarifica-se qual o regime jurídico aplicável a cada caso e concretiza-se, dentro do quadro de opções previstas na Lei n.º 11/90, de 5 de Abril, o destino a dar às receitas das reprivatizações de sociedade de capitais públicos.\n\nA par da gestão do património mobiliário do Estado, também a gestão do património imobiliário deve ser equacionada, tendo em vista uma maior racionalidade na sua utilização e a identificação e alienação do património excedentário. Para prosseguir estes objectivos, é constituída a SAGESTAMO - Sociedade Gestora de Participações Sociais Imobiliárias, S. A., totalmente participada pela PARPÚBLICA, que, por sua vez, criará na sua dependência sociedades de objecto especializado no financiamento, na gestão e na alienação do património imobiliário, em estreita colaboração com a Direcção-Geral do Património prevendo-se mecanismos específicos para a necessária articulação institucional.\n\nAtravés desta estrutura empresarial, potenciam-se as capacidades de gestão da quantidade e qualidade dos imóveis do Estado e de alienação dos imóveis excedentários, promove-se a racionalização das necessidades dos espaços dos serviços públicos e a colocação no mercado dos espaços excedentes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115328140": {
+   "fragment_id": "115334776",
+   "type": 1,
+   "heading": "Capítulo I — Reestruturação da PARTEST",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Reestruturação da PARTEST"
+  },
+  "115328141": {
+   "fragment_id": "115334777",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação da PARPÚBLICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação da PARPÚBLICA\n\n1 - É reestruturada a PARTEST, Participações do Estado (SGPS), S. A., sociedade de capitais exclusivamente públicos, que passará a denominar-se PARPÚBLICA - Participações Públicas (SGPS), S. A., e a ter por finalidade a gestão integrada, sob forma empresarial, da carteira de participações públicas e, através das empresas participadas de objecto especializado, a gestão de património imobiliário.\n\n2 - Os estatutos da PARPÚBLICA são publicados no anexo I ao presente diploma e dele fazem parte integrante."
+  },
+  "115328142": {
+   "fragment_id": "115334778",
+   "type": 11,
+   "heading": "Artigo 2.º — Capital social da PARPÚBLICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Capital social da PARPÚBLICA\n\nO capital social da PARPÚBLICA é aumentado para 2000000000 de euros, encontrando-se o aumento parcialmente realizado pelas participações sociais directamente detidas pelo Estado, no valor de 388128555 euros, identificadas no anexo II ao presente diploma, do qual faz parte integrante."
+  },
+  "115328143": {
+   "fragment_id": "115334779",
+   "type": 11,
+   "heading": "Artigo 3.º — Equiparação ao Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Equiparação ao Estado\n\nÉ aplicável, à PARPÚBLICA o disposto no artigo 545.º do Código das Sociedades Comerciais."
+  },
+  "115328144": {
+   "fragment_id": "115334780",
+   "type": 11,
+   "heading": "Artigo 4.º — Direitos do Estado como accionista",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direitos do Estado como accionista\n\n1 - Os direitos do Estado como accionista da sociedade são exercidos pelo Ministro das Finanças ou por quem este designar.\n\n2 - São aplicáveis às relações entre o Estado e a PARPÚBLICA as normas dos artigos 501.º a 503.º do Código das Sociedades Comerciais."
+  },
+  "115328145": {
+   "fragment_id": "115334781",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime da PARPÚBLICA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime da PARPÚBLICA\n\n1 - A PARPÚBLICA pode, em derrogação ao disposto no artigo 1.º do Decreto-Lei n.º 495/88, de 30 de Dezembro:\n\na) Deter participações sociais de montante inferior a 10% do capital com direito de voto das sociedades participadas, independentemente das situações previstas nos n.os 3 a 6 do artigo 3.º daquele diploma legal;\n\nb) Alienar ou onerar participações sociais antes de decorrido um ano sobre a data da sua aquisição independentemente das situações previstas na segunda parte da alínea b) do n.º 1 e no n.º 5, ambos do artigo 5.º do mesmo diploma;\n\nc) Prestar apoio técnico ao Ministro das Finanças no domínio da gestão de activos financeiros do Estado.\n\n2 - À PARPÚBLICA é aplicável o regime do Decreto-Lei n.º 558/99, de 17 de Dezembro."
+  },
+  "115328146": {
+   "fragment_id": "115334782",
+   "type": 11,
+   "heading": "Artigo 6.º — Funções especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funções especiais\n\n1 - Poderá a PARPÚBLICA ser incumbida, por despacho do Ministro das Finanças, de apoiar o exercício da tutela financeira prevista no Decreto-Lei n.º 558/99, de 17 de Dezembro, a gestão de activos financeiros do Estado e a gestão de serviços de interesse económico geral, prestando, designadamente, os seguintes serviços:\n\na) Proceder ao acompanhamento da gestão de empresas em que o Estado ou outros entes públicos detenham, directa ou indirectamente, participações sociais;\n\nb) Exercer as funções de liquidatária de empresas dissolvidas pelo Estado, ou por outros entes públicos, sendo subsidiariamente aplicáveis a esta actividade as normas do Código das Sociedades Comerciais, do Código dos Processos Especiais de Recuperação da Empresa e de Falência e demais legislação atinente aos liquidatários de empresas;\n\nc) Proceder ao acompanhamento das empresas privadas encarregadas da gestão de serviços de interesse económico geral por força da concessão ou da atribuição de direitos especiais ou exclusivos, nos termos previstos no artigo 13.º, por remissão do n.º 4 do artigo 36.º, ambos do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n2 - Pode ainda a PARPÚBLICA ser incumbida de exercer os direitos do Estado como accionista, nos termos do artigo 10.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n3 - A remuneração anual pelos serviços prestados ao abrigo dos números anteriores será fixada pelo Ministro das Finanças, mediante proposta fundamentada da PARPÚBLICA."
+  },
+  "115328147": {
+   "fragment_id": "115334783",
+   "type": 11,
+   "heading": "Artigo 7.º — Acções que conferem direitos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acções que conferem direitos especiais\n\n1 - Poderão ser transmitidas para a titularidade da PARPÚBLICA as acções de sociedades anónimas, actualmente na titularidade directa do Estado, que conferem direitos especiais, designadamente de nomeação de administrador, de veto ou de reserva de confirmação relativamente às deliberações sociais que importem alteração do contrato social, bem como as consideradas contrárias ao interesse público, incluindo todos os direitos e deveres inerentes àquela sucessão.\n\n2 - Para o exercício dos direitos e para o cumprimento dos deveres descritos no número anterior, a PARPÚBLICA é equiparada ao Estado.\n\n3 - A transmissão prevista no n.º 1 será definida, caso a caso, por despacho do Ministro das Finanças, mas não implicará, em qualquer caso, a alteração da natureza jurídica das acções a transmitir."
+  },
+  "115328148": {
+   "fragment_id": "115334784",
+   "type": 11,
+   "heading": "Artigo 8.º — Alienação de acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alienação de acções\n\n1 - A reprivatização das participações sociais nacionalizadas após 25 de Abril de 1974 de que a PARPÚBLICA seja titular é regulada nos termos da Lei n.º 11/90, de 5 de Abril.\n\n2 - A privatização das restantes participações detidas pela PARPÚBLICA realizar-se-á nos termos da Lei n.º 71/88, de 24 de Maio, e diplomas complementares, por iniciativa do Estado ou do conselho de administração da sociedade.\n\n3 - Pode ser efectuada por qualquer dos processos previstos no n.º 1 do artigo 2.º da Lei n.º 71/88 a privatização de posições sociais que implique a perda de posição maioritária da PARPÚBLICA."
+  },
+  "115328149": {
+   "fragment_id": "115334785",
+   "type": 11,
+   "heading": "Artigo 9.º — Receitas das reprivatizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Receitas das reprivatizações\n\n1 - As receitas obtidas com as reprivatizações de participações sociais nacionalizadas após 25 de Abril de 1974 serão entregues ao Estado ou afectas pela PARPÚBLICA a uma das seguintes finalidades legais:\n\na) Amortização da dívida de empresas participadas;\n\nb) Novas aplicações de capital no sector produtivo.\n\n2 - A opção a tomar em cada caso será objecto de despacho do Ministro das Finanças, que concretizará a afectação das receitas, nos termos da lei.\n\n3 - O despacho referido no número anterior determinará ainda qual a compensação a atribuir à PARPÚBLICA, em valor ou bens equivalentes, pelo montante realizado com a reprivatização das participações sociais cujo produto seja entregue ao Estado.\n\n4 - As entregas ao Estado, a que se refere o n.º 1, devem ocorrer até 30 dias após o despacho referido nos números anteriores."
+  },
+  "115328150": {
+   "fragment_id": "115334786",
+   "type": 1,
+   "heading": "Capítulo II — Criação da SAGESTAMO, da FUNDIESTAMO e da SAGESECUR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Criação da SAGESTAMO, da FUNDIESTAMO e da SAGESECUR"
+  },
+  "115328151": {
+   "fragment_id": "115334787",
+   "type": 11,
+   "heading": "Artigo 10.º — Constituição da SAGESTAMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Constituição da SAGESTAMO\n\n1 - É criada a sociedade anónima de capitais exclusivamente públicos SAGESTAMO - Sociedade Gestora de Participações Sociais Imobiliárias, S. A., abreviadamente designada SAGESTAMO, detida integralmente pela PARPÚBLICA.\n\n2 - O objecto social da SAGESTAMO é a gestão de participações sociais em sociedades que, directa ou indirectamente através de fundos de investimento imobiliário, detenham a propriedade de património imobiliário público e assegurem:\n\na) O arrendamento de imóveis ao Estado e outros entes públicos interessados na respectiva utilização;\n\nb) A alienação do património imobiliário excedentário; e\n\nc) O financiamento da actividade.\n\n3 - A SAGESTAMO integra ainda participações sociais em sociedades cujo objecto social abrange a cedência de espaços para instalação de actividades produtivas, e a promoção e o desenvolvimento imobiliários, como forma indirecta de exercício, pelo Estado, de actividades económicas.\n\n4 - Os estatutos da SAGESTAMO são publicados no anexo III ao presente decreto-lei e dele fazem parte integrante."
+  },
+  "115328152": {
+   "fragment_id": "115334788",
+   "type": 11,
+   "heading": "Artigo 11.º — Capital da SAGESTAMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Capital da SAGESTAMO\n\nO capital social da SAGESTAMO é de 137000000 de euros, integralmente realizado pelo património transferido da PARPÚBLICA e pela participação na FUNDIESTAMO, conforme descrito no anexo IV ao presente diploma, do qual faz parte integrante."
+  },
+  "115328153": {
+   "fragment_id": "115334789",
+   "type": 11,
+   "heading": "Artigo 12.º — Inerências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Inerências\n\nIntegra o conselho de administração da SAGESTAMO, por inerência, o director-geral do Património."
+  },
+  "115328154": {
+   "fragment_id": "115334790",
+   "type": 11,
+   "heading": "Artigo 13.º — Criação da FUNDIESTAMO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Criação da FUNDIESTAMO\n\n1 - É criada a sociedade anónima de capitais exclusivamente públicos FUNDIESTAMO - Sociedade Gestora de Fundos de Investimento Imobiliário Públicos, S. A., abreviadamente designada FUNDIESTAMO, detida integralmente pela SAGESTAMO - Sociedade Gestora de Participações Sociais Imobiliárias, S. A.\n\n2 - O objecto contratual da FUNDIESTAMO é a administração, em representação dos participantes, de um ou mais fundos de investimento imobiliário, abertos ou fechados, cujos investimentos serão destinados à aquisição de bens imóveis para cedência exclusiva ao Estado e a outros entes públicos, através de arrendamento.\n\n3 - O capital social da FUNDIESTAMO é de 1000000 de euros, integralmente realizado em dinheiro pela PARPÚBLICA.\n\n4 - A FUNDIESTAMO rege-se pelo disposto no presente diploma, nos estatutos anexos e, em tudo o que não os contrarie, pelo disposto no Decreto-Lei n.º 294/95, de 17 de Novembro.\n\n5 - Os estatutos da FUNDIESTAMO são publicados no anexo V ao presente decreto-lei e dele fazem parte integrante."
+  },
+  "115328155": {
+   "fragment_id": "115334791",
+   "type": 11,
+   "heading": "Artigo 14.º — Regime das SGFII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regime das SGFII\n\n1 - À FUNDIESTAMO, bem como a outras SGFII de capitais exclusivamente públicos que venham a ser constituídas, controladas pela SAGESTAMO, e aos fundos de investimento imobiliário públicos por estas administrados, não se aplica o disposto nas alíneas a) e e) do n.º 2 do artigo 5.º, no artigo 10.º, nas alíneas d) e seguintes do n.º 1 e no n.º 3 do artigo 22.º, todos do Decreto-Lei n.º 294/95.\n\n2 - A avaliação anual prevista no n.º 2 do artigo 34.º do Decreto-Lei n.º 294/95 poderá ser levada a cabo globalmente, para o conjunto dos imóveis, e basear-se-á no rendimento previsível dos bens, considerando a manutenção para o futuro dos contratos de arrendamento existentes.\n\n3 - As unidades de participação nos fundos a constituir podem ser subscritas através da rede de balcões dos CTT ou nas Tesourarias do Estado, sem prejuízo de outras entidades colocadoras com as quais a sociedade gestora venha a celebrar contrato nos termos no artigo 31.º do Decreto-Lei n.º 294/95.\n\n4 - As condições de prestação do serviço de colocação das unidades de participação serão estabelecidas por contrato a celebrar entre as entidades envolvidas."
+  },
+  "115328156": {
+   "fragment_id": "115334792",
+   "type": 11,
+   "heading": "Artigo 15.º — Excepções ao regime das sociedades de gestão e investimento imobiliário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Excepções ao regime das sociedades de gestão e investimento imobiliário\n\nÀ LOCACEST - Sociedade de Gestão e Investimento Imobiliário, S. A., sociedade de capitais exclusivamente públicos, bem como a outras SGII de capitais exclusivamente públicos a constituir, controladas pela SAGESTAMO, e cujo objecto social consista no arrendamento de imóveis a entes públicos, não se aplica o regime previsto no n.º 2 do artigo 2.º, nos artigos 5.º e 6.º, nos n.os 2 e 3 do artigo 7.º e no artigo 8.º do Decreto-Lei n.º 135/91, de 4 de Abril."
+  },
+  "115328157": {
+   "fragment_id": "115334793",
+   "type": 11,
+   "heading": "Artigo 16.º — Outras sociedades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Outras sociedades\n\n1 - A SAGESTAMO pode, isoladamente ou com entidades públicas, criar novas sociedades ou adquirir sociedades já constituídas, com a seguinte natureza:\n\na) De gestão e investimento imobiliário (SGII);\n\nb) De compra e venda de imóveis;\n\nc) Gestora de fundos de investimento imobiliário públicos (SGFIIP).\n\n2 - A SAGESTAMO pode ainda, isoladamente ou com outras entidades, criar sociedades cujo objecto social se enquadre no seu campo específico de actuação.\n\n3 - As SGII e as sociedades de compra e venda de imóveis controladas pela SAGESTAMO e, bem assim, os fundos de investimento imobiliário geridos por sociedades controladas pela SAGESTAMO ficam autorizadas a ceder, para efeitos de titularização, os créditos relativos aos seus activos a quaisquer fundos de titularização de créditos designadamente à sociedade prevista no artigo 17.º do presente decreto-lei."
+  },
+  "115328158": {
+   "fragment_id": "115334794",
+   "type": 11,
+   "heading": "Artigo 17.º — Criação da SAGESECUR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Criação da SAGESECUR\n\n1 - É criada a sociedade anónima de capitais exclusivamente públicos SAGESECUR - Sociedade de Titularização de Créditos, S. A., abreviadamente designada SAGESECUR, detida integralmente pela PARPÚBLICA.\n\n2 - O objecto social da SAGESECUR consiste na realização de operações de titularização de créditos, mediante a sua aquisição, gestão e transmissão, bem como a emissão de obrigações para pagamento dos créditos adquiridos, e ainda as demais operações permitidas por lei a este tipo de sociedades.\n\n3 - O capital social da SAGESECUR é de 2500000 de euros, integralmente realizado em dinheiro pela PARPÚBLICA.\n\n4 - Os estatutos da SAGESECUR são publicados no anexo VI ao presente decreto-lei e dele fazem parte integrante."
+  },
+  "115328159": {
+   "fragment_id": "115334795",
+   "type": 1,
+   "heading": "Capítulo III — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições gerais e finais"
+  },
+  "115328160": {
+   "fragment_id": "115334796",
+   "type": 11,
+   "heading": "Artigo 18.º — Liberdade de contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Liberdade de contratação\n\nO disposto no presente diploma não prejudica a possibilidade do Estado e demais entes públicos celebrarem contratos de arrendamento com outras entidades."
+  },
+  "115328161": {
+   "fragment_id": "115334797",
+   "type": 11,
+   "heading": "Artigo 19.º — Contratação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contratação\n\nAs entidades públicas podem, independentemente do valor, celebrar contratos por ajuste directo com as sociedades a que se refere o presente diploma."
+  },
+  "115328162": {
+   "fragment_id": "115334798",
+   "type": 11,
+   "heading": "Artigo 20.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Pessoal\n\n1 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores de quaisquer empresas públicas podem ser autorizados a exercer cargos ou funções na PARPÚBLICA e na SAGESTAMO, em regime de comissão de serviço, sem limite de duração.\n\n2 - Os trabalhadores da PARPÚBLICA e da SAGESTAMO podem ser autorizados a exercer cargos ou funções em empresas públicas, em regime de comissão de serviço, sem limite de duração.\n\n3 - O exercício dos cargos ou funções previstos nos números anteriores efectua-se sem prejuízo de quaisquer direitos, incluindo os benefícios de aposentação ou reforma e sobrevivência, sendo designadamente tais cargos ou funções considerados, para efeitos de contagem de tempo de serviço, como tendo sido exercidos no lugar de origem.\n\n4 - Os funcionários e os trabalhadores a que se referem os números anteriores podem optar, a todo o tempo, pela remuneração auferida no seu quadro de origem ou pela correspondente aos cargos ou funções que vão desempenhar.\n\n5 - Os vencimentos e demais encargos dos funcionários e trabalhadores em regime de comissão de serviço são da responsabilidade da entidade onde se encontrem a exercer funções."
+  },
+  "115328163": {
+   "fragment_id": "115334799",
+   "type": 11,
+   "heading": "Artigo 21.º — Produção de efeitos dos estatutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Produção de efeitos dos estatutos\n\n1 - Os novos estatutos da PARPÚBLICA e os estatutos da SAGESTAMO, da FUNDIESTAMO e da SAGESECUR produzem efeitos relativamente a terceiros a partir da entrada em vigor do presente diploma, independentemente dos registos, os quais devem ser requeridos nos 90 dias seguintes àquela data.\n\n2 - As eventuais alterações aos estatutos das sociedades a que se refere o número anterior produzirão todos os seus efeitos desde que deliberadas nos termos do regime estatutário e das disposições aplicáveis da lei comercial, sendo bastante a sua redução a escritura pública e subsequente registo e publicação."
+  },
+  "115328164": {
+   "fragment_id": "115334800",
+   "type": 11,
+   "heading": "Artigo 22.º — Registos e isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Registos e isenções\n\n1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo.\n\n2 - A constituição de novas sociedades ao abrigo do presente diploma, bem como as alterações aos estatutos das sociedades já existentes, que se mostrem necessárias à execução do presente diploma, são documentadas apenas pelas actas das assembleias gerais de onde constem as correspondentes deliberações.\n\n3 - São ainda isentos de taxas e emolumentos devidos a quaisquer entidades, designadamente ao Registo Nacional de Pessoas Colectivas e às Conservatórias do Registo Predial ou Comercial, todos os demais actos a praticar para execução do disposto neste diploma, incluindo os registos dos novos estatutos da PARPÚBLICA, da SAGESTAMO, da FUNDIESTAMO e da SAGESECUR, bem como das nomeações dos titulares dos órgãos estatutários das sociedades a constituir.\n\n4 - São isentos de taxas e emolumentos devidos às entidades referidas no número anterior os actos relativos a aumentos de capital da PARPÚBLICA, da SAGESTAMO e das sociedades por estas controladas, desde que as respectivas escrituras públicas sejam outorgadas até ao termo do prazo de três anos, contados desde a data de entrada em vigor do presente diploma.\n\n5 - Os actos de aquisição e de registo de bens imóveis, realizados por qualquer das sociedades a que se refere o presente diploma, ao Estado ou a outros entes públicos, estão isentos de taxas e emolumentos.\n\n6 - A isenção de emolumentos prevista nos números anteriores, com respeito a quaisquer actos notariais e de registo, não abrange os emolumentos pessoais, nem as importâncias correspondentes à participação emolumentar normalmente devida aos notários, conservadores e oficiais do registo e do notariado pela sua intervenção nos actos."
+  },
+  "115328165": {
+   "fragment_id": "115334801",
+   "type": 11,
+   "heading": "Artigo 23.º — Legislação revogada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Legislação revogada\n\nÉ revogado o Decreto-Lei n.º 452/91, de 11 de Dezembro."
+  },
+  "115328167": {
+   "fragment_id": "115334803",
+   "type": 14,
+   "heading": "Anexo I — Estatutos da PARPÚBLICA - Participações Públicas (SGPS), S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Estatutos da PARPÚBLICA - Participações Públicas (SGPS), S. A."
+  },
+  "115328168": {
+   "fragment_id": "115334804",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede, duração e objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede, duração e objecto social"
+  },
+  "115328169": {
+   "fragment_id": "115334805",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação\n\nA sociedade adopta a denominação PARPÚBLICA - Participações Públicas (SGPS), S. A., sociedade anónima de capitais exclusivamente públicos que se rege pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável."
+  },
+  "115328170": {
+   "fragment_id": "115334806",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sociedade tem a sede na Rua do Comércio, 100, 3.º, em Lisboa.\n\n2 - Por deliberação do conselho de administração, a sociedade poderá deslocar a sede social dentro do mesmo concelho ou para concelho limítrofe."
+  },
+  "115328171": {
+   "fragment_id": "115334807",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA sociedade é constituída por tempo indeterminado."
+  },
+  "115328172": {
+   "fragment_id": "115334808",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A PARPÚBLICA tem por objecto:\n\na) A gestão das participações sociais públicas que integrem o seu património;\n\nb) A gestão, através de empresas participadas de objecto especializado, do património imobiliário que lhes seja afecto;\n\nc) A prestação de apoio técnico ao exercício, pelo Ministro das Finanças, da tutela financeira do Estado sobre as empresas públicas e sobre as empresas privadas concessionárias de serviços de interesse económico geral, bem como à gestão de activos financeiros do Estado;\n\nd) A prestação de serviços no domínio da liquidação de sociedades dissolvidas pelo Estado ou por outros entes públicos;\n\ne) A prestação de serviços técnicos de administração e gestão às participadas.\n\n2 - A PARPÚBLICA pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico."
+  },
+  "115328173": {
+   "fragment_id": "115334809",
+   "type": 1,
+   "heading": "Capítulo II — Capital, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital, acções e obrigações"
+  },
+  "115328174": {
+   "fragment_id": "115334810",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\nO capital social da sociedade e de 2000000000 de euros e é representado por 400 milhões de acções, de valor nominal de 5 euros cada uma."
+  },
+  "115334875": {
+   "fragment_id": "115334811",
+   "type": 11,
+   "heading": "Artigo 6.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acções\n\n1 - As acções são obrigatoriamente nominativas e representadas por títulos que incorporam o número de acções de que cada accionista é titular.\n\n2 - Os títulos são assinados por dois administradores, podendo ambas as assinaturas ser de chancela.\n\n3 - As acções podem revestir forma escritural, sendo as acções tituladas ou escriturais reciprocamente convertíveis a pedido do accionista."
+  },
+  "115334876": {
+   "fragment_id": "115334812",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações\n\nA sociedade poderá emitir qualquer tipo de obrigações, nos termos da lei e nas condições estabelecidas pela assembleia geral ou pelo conselho de administração e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas."
+  },
+  "115334877": {
+   "fragment_id": "115334813",
+   "type": 1,
+   "heading": "Capítulo III — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Assembleia geral"
+  },
+  "115334878": {
+   "fragment_id": "115334814",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição e votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição e votos\n\n1 - A assembleia geral é composta pelos accionistas com direito de voto.\n\n2 - Os accionistas que sejam pessoas colectivas indicarão, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.\n\n3 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral."
+  },
+  "115334879": {
+   "fragment_id": "115334815",
+   "type": 11,
+   "heading": "Artigo 9.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões\n\nA assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que o conselho de administração ou o fiscal único o julguem necessário."
+  },
+  "115334880": {
+   "fragment_id": "115334816",
+   "type": 11,
+   "heading": "Artigo 10.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mesa\n\nA mesa da assembleia geral será constituída por um presidente, um vice-presidente e um secretário, designados por resolução do Conselho de Ministros."
+  },
+  "115334881": {
+   "fragment_id": "115334817",
+   "type": 11,
+   "heading": "Artigo 11.º — Convocação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Convocação e funcionamento\n\n1 - A convocação dos accionistas para a assembleia geral é feita por carta registada expedida com, pelo menos, 21 dias de antecedência em relação à data de reunião da assembleia.\n\n2 - A assembleia geral só poderá funcionar em primeira convocação desde que se achem presentes ou devidamente representados accionistas detentores de, no mínimo, 51% do capital social.\n\n3 - Tanto em primeira como em segunda convocação, as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da sociedade e aquisição ou alienação de acções próprias devem ser aprovadas por 51% dos votos correspondentes ao capital social."
+  },
+  "115334882": {
+   "fragment_id": "115334818",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.\n\n2 - Compete especialmente à assembleia geral:\n\na) Apreciar os documentos de prestação de contas e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;\n\nc) Deliberar, mediante proposta do conselho de administração, sobre a aquisição, alienação ou oneração de participações sociais que ultrapassem 1% do capital social;\n\nd) Autorizar a contracção de empréstimos por prazo superior a um ano e a emissão de empréstimos obrigacionistas;\n\ne) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, para o efeito, designar uma comissão de vencimentos;\n\nf) Tratar de qualquer outro assunto para que tenha sido convocada."
+  },
+  "115334883": {
+   "fragment_id": "115334819",
+   "type": 1,
+   "heading": "Capítulo IV — Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Administração"
+  },
+  "115334884": {
+   "fragment_id": "115334820",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\n1 - A sociedade é gerida por um conselho de administração composto por três ou cinco membros, designados por resolução do Conselho de Ministros, que designará também os que exercerão as funções de presidente e de vice-presidente.\n\n2 - O conselho de administração poderá, dentro dos limites legais, conferir competências suas a um administrador-delegado ou a uma comissão executiva, consoante seja composto por três ou mais membros, fixando-lhes as atribuições e regulamentando a respectiva delegação."
+  },
+  "115334885": {
+   "fragment_id": "115334821",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência\n\nCompete ao conselho de administração, sem prejuízo das demais competências que lhe conferem a lei e estes estatutos:\n\na) Gerir, com os mais amplos poderes, todos os negócios sociais e efectuar todas as operações relativas ao objecto social;\n\nb) Aprovar os documentos de prestação de contas a submeter à assembleia geral;\n\nc) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\nd) Propor à assembleia geral a contracção de empréstimos por prazo superior a um ano e a emissão de empréstimos obrigacionistas;\n\ne) Propor à assembleia geral a aquisição, alienação ou oneração de participações sociais e de títulos negociáveis que ultrapassem 1% do capital social;\n\nf) Contratar programas de papel comercial e financiamentos por prazo igual ou inferior a um ano;\n\ng) Nomear representantes, temporários ou permanentes, em sociedades ou outras instituições ou organismos públicos ou privados."
+  },
+  "115334886": {
+   "fragment_id": "115334822",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões\n\n1 - O conselho de administração reunirá ordinariamente uma vez por trimestre e todas as vezes que o presidente ou dois administradores o convoquem, por forma suficiente e com a antecedência necessária.\n\n2 - Qualquer administrador pode fazer-se representar nas reuniões do conselho por outro administrador, mediante carta dirigida ao presidente.\n\n3 - As deliberações serão tomadas por maioria simples dos administradores presentes ou representados, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "115334887": {
+   "fragment_id": "115334823",
+   "type": 11,
+   "heading": "Artigo 16.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Presidente\n\n1 - Compete especialmente ao presidente do conselho de administração:\n\na) Representar a empresa em juízo ou fora dele;\n\nb) Coordenar a actividade do conselho de administração, bem como convocar e dirigir as respectivas reuniões;\n\nc) Exercer voto de qualidade;\n\nd) Zelar pela correcta execução das deliberações do conselho de administração.\n\n2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vice-presidente ou, no caso de impedimento deste, pelo vogal do conselho de administração por si designado para o efeito."
+  },
+  "115334888": {
+   "fragment_id": "115334824",
+   "type": 11,
+   "heading": "Artigo 17.º — Vinculação da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Vinculação da sociedade\n\n1 - Todos os actos e documentos que obriguem a sociedade vinculá-la-ão perante terceiros, quando praticados ou assinados por:\n\na) Dois administradores;\n\nb) Um só administrador com poderes delegados para o efeito;\n\nc) Um mandatário ou procurador no cumprimento do respectivo mandato ou procuração.\n\n2 - Os actos e documentos de mero expediente poderão ser praticados ou assinados por um administrador ou mandatário constituído para o efeito."
+  },
+  "115334889": {
+   "fragment_id": "115334825",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização"
+  },
+  "115334890": {
+   "fragment_id": "115334826",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização da sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização da sociedade\n\n1 - A fiscalização da sociedade será exercida por um fiscal único, designado por resolução do Conselho de Ministros, que designará também o suplente.\n\n2 - O fiscal único e o seu suplente são revisores oficiais de contas ou sociedades de revisores oficiais de contas."
+  },
+  "115334891": {
+   "fragment_id": "115334827",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência\n\n1 - As competências, poderes e deveres do fiscal único são as que se encontram previstas na lei e nestes estatutos.\n\n2 - Compete especialmente ao fiscal único:\n\na) Examinar, sempre que o julgue conveniente, a escrituração da sociedade;\n\nb) Acompanhar o funcionamento da sociedade e o cumprimento das leis, dos estatutos e dos regulamentos que lhe forem aplicáveis;\n\nc) Assistir a reuniões do conselho de administração, sempre que o entenda conveniente ou para tal for convocado;\n\nd) Pedir a convocação extraordinária da assembleia geral, quando o entenda necessário;\n\ne) Emitir parecer sobre os documentos de prestação de contas;\n\nf) Levar à consideração do conselho de administração qualquer assunto e emitir parecer sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "115334892": {
+   "fragment_id": "115334828",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições gerais"
+  },
+  "115334893": {
+   "fragment_id": "115334829",
+   "type": 11,
+   "heading": "Artigo 20.º — Caução e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Caução e remuneração\n\n1 - Os membros do conselho de administração são dispensados de caução.\n\n2 - Os membros dos órgãos sociais serão remunerados ou não, conforme for deliberado em assembleia geral ou pela comissão de vencimentos por esta designada."
+  },
+  "115334894": {
+   "fragment_id": "115334830",
+   "type": 11,
+   "heading": "Artigo 21.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Duração do mandato\n\n1 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos civis, renováveis, contando-se como completo o ano civil da designação.\n\n2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido designados e permanecem no exercício das suas funções até à designação de quem deva substituí-los."
+  },
+  "115334895": {
+   "fragment_id": "115334831",
+   "type": 1,
+   "heading": "Capítulo VII — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Aplicação dos resultados"
+  },
+  "115334896": {
+   "fragment_id": "115334832",
+   "type": 11,
+   "heading": "Artigo 22.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Aplicação\n\n1 - Os lucros do exercício terão, sucessivamente, a seguinte aplicação:\n\na) Cobertura dos prejuízos de exercícios anteriores;\n\nb) Constituição e, eventualmente, reintegração da reserva legal e de outras reservas que a lei determinar;\n\nc) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral determinar;\n\nd) Dividendos a distribuir;\n\ne) Outras finalidades que a assembleia geral delibere.\n\n2 - Poderá ser feito aos accionistas um adiantamento sobre lucros no decurso do exercício sob proposta do conselho de administração, com o parecer favorável do fiscal único."
+  },
+  "115334897": {
+   "fragment_id": "115334833",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais"
+  },
+  "115334898": {
+   "fragment_id": "115334834",
+   "type": 11,
+   "heading": "Artigo 23.º — Reprivatização e privatização de participações sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reprivatização e privatização de participações sociais\n\n1 - A reprivatização de participações sociais detidas pela sociedade que hajam sido objecto de nacionalização após 25 de Abril de 1974 é regulada nos termos da Lei n.º 11/90, de 5 de Abril, e do decreto-lei que aprovou os presentes estatutos.\n\n2 - A privatização de outras participações sociais realizar-se-á nos termos da Lei n.º 71/88, de 24 de Maio, e diplomas complementares, bem como do decreto-lei que aprovou estes estatutos, por iniciativa do Estado ou do conselho de administração."
+  },
+  "115334899": {
+   "fragment_id": "115334835",
+   "type": 11,
+   "heading": "Artigo 24.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Dissolução e liquidação\n\n1 - A sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "115334900": {
+   "fragment_id": "115334836",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(ver quadro no documento original)"
+  },
+  "115334901": {
+   "fragment_id": "115334837",
+   "type": 14,
+   "heading": "Anexo III — Estatutos da SAGESTAMO - Sociedade Gestora de Participações Sociais Imobiliárias, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Estatutos da SAGESTAMO - Sociedade Gestora de Participações Sociais Imobiliárias, S. A."
+  },
+  "115334902": {
+   "fragment_id": "115334838",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede, duração e objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede, duração e objecto social"
+  },
+  "115334903": {
+   "fragment_id": "115334839",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação\n\nA sociedade adopta a denominação SAGESTAMO - Sociedade Gestora de Participações Sociais Imobiliárias, S. A., sociedade anónima de capitais exclusivamente públicos que se rege pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável."
+  },
+  "115334904": {
+   "fragment_id": "115334840",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A sociedade tem a sede na Rua do Comércio, 100, 3.º, em Lisboa.\n\n2 - Por deliberação do conselho de administração, a Sociedade poderá deslocar a sede social dentro do mesmo concelho ou para concelho limítrofe."
+  },
+  "115334905": {
+   "fragment_id": "115334841",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA Sociedade é constituída por tempo indeterminado."
+  },
+  "115334906": {
+   "fragment_id": "115334842",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto social\n\n1 - A Sociedade tem por objecto a gestão de participações sociais de sociedades que exercem a sua actividade no sector imobiliário, incluindo sociedades gestoras de fundos de investimento imobiliário, como forma indirecta de exercício de actividades económicas.\n\n2 - A Sociedade pode prestar serviços técnicos de administração e gestão às participadas.\n\n3 - A Sociedade pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico."
+  },
+  "115334907": {
+   "fragment_id": "115334843",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, acções e obrigações"
+  },
+  "115334908": {
+   "fragment_id": "115334844",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\nO capital social da Sociedade é de 137000000 de euros, encontrando-se integralmente realizado e é representado por 27400000 acções, de valor nominal de 5 euros cada uma."
+  },
+  "115334909": {
+   "fragment_id": "115334845",
+   "type": 11,
+   "heading": "Artigo 6.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acções\n\n1 - As acções são obrigatoriamente nominativas e representadas por títulos que incorporam o número de acções de que cada accionista é titular.\n\n2 - Os títulos são assinados por dois administradores, podendo ambas as assinaturas ser de chancela.\n\n3 - As acções podem revestir forma escritural, sendo as acções tituladas ou escriturais reciprocamente convertíveis a pedido do accionista."
+  },
+  "115334910": {
+   "fragment_id": "115334846",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações\n\nA Sociedade poderá emitir qualquer tipo de obrigações, nos termos da lei e nas condições estabelecidas pela assembleia geral ou pelo conselho de administração e, bem assim, efectuar sobre obrigações próprias as operações que forem legalmente permitidas."
+  },
+  "115334911": {
+   "fragment_id": "115334847",
+   "type": 1,
+   "heading": "Capítulo III — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Assembleia geral"
+  },
+  "115334912": {
+   "fragment_id": "115334848",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição e votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição e votos\n\n1 - A assembleia geral é composta pelos accionistas com direito de voto.\n\n2 - Os accionistas que sejam pessoas colectivas indicarão, por carta dirigida, ao presidente da mesa, quem os representará na assembleia geral.\n\n3 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral."
+  },
+  "115334913": {
+   "fragment_id": "115334849",
+   "type": 11,
+   "heading": "Artigo 9.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões\n\nA assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que o conselho de administração ou o fiscal único o julguem necessário."
+  },
+  "115334914": {
+   "fragment_id": "115334850",
+   "type": 11,
+   "heading": "Artigo 10.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mesa\n\nA mesa da assembleia geral será constituída por um presidente e um secretário, eleitos pela assembleia."
+  },
+  "115334915": {
+   "fragment_id": "115334851",
+   "type": 11,
+   "heading": "Artigo 11.º — Convocação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Convocação e funcionamento\n\n1 - A convocação dos accionistas para a assembleia geral é feita por carta registada expedida com, pelo menos, 21 dias de antecedência em relação à data de reunião da assembleia.\n\n2 - A assembleia geral só poderá funcionar em primeira convocação desde que se achem presentes ou devidamente representados accionistas detentores de, no mínimo, 51% do capital social.\n\n3 - Tanto, em primeira como em segunda convocação, as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da Sociedade e aquisição ou alienação de acções próprias devem ser aprovadas por 51% dos votos correspondentes ao capital social."
+  },
+  "115334916": {
+   "fragment_id": "115334852",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.\n\n2 - Compete especialmente à assembleia geral:\n\na) Apreciar os documentos de prestação de contas e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Eleger a mesa da assembleia geral, os administradores e o fiscal único e designar o presidente e o vice-presidente do conselho de administração, sem prejuízo do disposto nos n.º 2 e n.º 3 do artigo 13.º;\n\nc) Deliberar sobre quaisquer alterações dos estatutos e aumentos de capital;\n\nd) Autorizar a aquisição, oneração ou alienação de participações sociais de valor superior a 1% do capital social;\n\ne) Autorizar a contracção de empréstimos por prazo superior a um ano e a emissão de empréstimos obrigacionistas;\n\nf) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, para o efeito, designar uma comissão de vencimentos;\n\ng) Tratar de qualquer outro assunto para que tenha sido convocada."
+  },
+  "115334917": {
+   "fragment_id": "115334853",
+   "type": 1,
+   "heading": "Capítulo IV — Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Administração"
+  },
+  "115334918": {
+   "fragment_id": "115334854",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\n1 - A Sociedade é gerida por um conselho de administração, composto por três ou cinco membros, eleitos em assembleia geral, que designará de entre estes o que exercerá as funções de presidente.\n\n2 - Um dos lugares de administrador é, por inerência, ocupado pelo director-geral da Direcção-Geral do Património.\n\n3 - O conselho de administração poderá dentro dos limites legais, conferir competências suas a uma comissão executiva, fixando-lhe as atribuições e regulamentando a respectiva delegação."
+  },
+  "115334919": {
+   "fragment_id": "115334855",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência\n\nCompete ao conselho de administração, sem prejuízo das demais competências que lhe conferem a lei e estes estatutos:\n\na) Gerir, com os mais amplos poderes, todos os negócios sociais e efectuar todas as operações relativas ao objecto social;\n\nb) Representar a Sociedade em juízo e fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\nc) Nomear representantes, temporários ou permanentes, em sociedades ou outras instituições ou organismos públicos ou privados;\n\nd) Contratar financiamentos por prazo igual ou inferior a um ano;\n\ne) Propor à assembleia geral a contracção de empréstimos por prazo superior a um ano e a emissão de obrigações;\n\nf) Deliberar sobre a aquisição, oneração ou alienação de participações sociais de valor inferior a 1% do capital social;\n\ng) Propor à assembleia geral que a Sociedade, directa ou indirectamente, se associe com outras pessoas ou adquire, aliene ou onere participações sociais de valor superior a 1% do capital social."
+  },
+  "115334920": {
+   "fragment_id": "115334856",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões\n\n1 - O conselho de administração reunirá ordinariamente uma vez por trimestre e todas as vezes que o presidente ou dois administradores o convoquem, por forma suficiente e com a antecedência necessária.\n\n2 - Qualquer administrador pode fazer-se representar nas reuniões do conselho por outro administrador, mediante carta dirigida ao presidente.\n\n3 - As deliberações serão tomadas por maioria simples dos administradores presentes ou representados, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "115334921": {
+   "fragment_id": "115334857",
+   "type": 11,
+   "heading": "Artigo 16.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Presidente\n\n1 - Compete especialmente ao presidente do conselho de administração:\n\na) Representar a empresa em juízo ou fora dele;\n\nb) Coordenar a actividade do conselho de administração, bem como convocar e dirigir as respectivas reuniões;\n\nc) Exercer voto de qualidade;\n\nd) Zelar pela correcta execução das deliberações do conselho de administração.\n\n2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito."
+  },
+  "115334922": {
+   "fragment_id": "115334858",
+   "type": 11,
+   "heading": "Artigo 17.º — Vinculação da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Vinculação da Sociedade\n\n1 - Todos os actos e documentos que obriguem a Sociedade vinculá-la-ão perante terceiros, quando praticados ou assinados por:\n\na) Dois administradores;\n\nb) Um só administrador com poderes delegados para o efeito;\n\nc) Um mandatário ou procurador no cumprimento do respectivo mandato ou procuração.\n\n2 - Os actos e documentos de mero expediente poderão ser praticados ou assinados por um administrador ou mandatário constituído para o efeito."
+  },
+  "115334923": {
+   "fragment_id": "115334859",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização"
+  },
+  "115334924": {
+   "fragment_id": "115334860",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização da Sociedade\n\n1 - A fiscalização da Sociedade será exercida por um fiscal único, eleito em assembleia geral, que também elegerá o suplente.\n\n2 - O fiscal único e o seu suplente são revisores oficiais de contas ou sociedades de revisores oficiais de contas."
+  },
+  "115334925": {
+   "fragment_id": "115334861",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência\n\n1 - As competências, poderes e deveres do fiscal único são as que se encontram previstas na lei e nestes estatutos.\n\n2 - Compete especialmente ao fiscal único:\n\na) Examinar, sempre que o julgue conveniente, a escrituração da Sociedade;\n\nb) Acompanhar o funcionamento da Sociedade e o cumprimento das leis, dos estatutos e dos regulamentos que lhe forem aplicáveis;\n\nc) Assistir a reuniões do conselho de administração, sempre que o entenda conveniente ou para tal for convocado;\n\nd) Pedir a convocação extraordinária da assembleia geral, quando o entenda necessário;\n\ne) Emitir parecer sobre os documentos de prestação de contas;\n\nf) Levar à consideração do conselho de administração qualquer assunto e emitir parecer sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "115334926": {
+   "fragment_id": "115334862",
+   "type": 1,
+   "heading": "Capítulo VI — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Aplicação dos resultados"
+  },
+  "115334927": {
+   "fragment_id": "115334863",
+   "type": 11,
+   "heading": "Artigo 20.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aplicação\n\n1 - Os lucros do exercício terão, sucessivamente, a seguinte aplicação:\n\na) Cobertura dos prejuízos de exercícios anteriores;\n\nb) Constituição e, eventualmente, reintegração da reserva legal e de outras reservas que a lei determinar;\n\nc) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral determinar;\n\nd) Dividendos a distribuir;\n\ne) Outras finalidades que a assembleia geral delibere.\n\n2 - Poderá ser feito aos accionistas um adiantamento sobre lucros no decurso do exercício sob proposta do conselho de administração, com o parecer favorável do fiscal único."
+  },
+  "115334928": {
+   "fragment_id": "115334864",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições gerais e finais"
+  },
+  "115334929": {
+   "fragment_id": "115334865",
+   "type": 11,
+   "heading": "Artigo 21.º — Caução e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Caução e remuneração\n\n1 - Os membros do conselho de administração são dispensados de caução.\n\n2 - Os membros dos órgãos sociais serão remunerados ou não, conforme for deliberado em assembleia geral ou pela comissão de vencimentos por esta designada."
+  },
+  "115334930": {
+   "fragment_id": "115334866",
+   "type": 11,
+   "heading": "Artigo 22.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Duração do mandato\n\n1 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos civis, renováveis, contando-se como completo o ano civil da designação.\n\n2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício, das suas funções até à eleição de quem deva substituí-los."
+  },
+  "115334931": {
+   "fragment_id": "115334867",
+   "type": 11,
+   "heading": "Artigo 23.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Dissolução e liquidação\n\n1 - A Sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da Sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "115334932": {
+   "fragment_id": "115334868",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV\n\n(ver quadro no documento original)"
+  },
+  "115334933": {
+   "fragment_id": "115334869",
+   "type": 14,
+   "heading": "Anexo V — Estatutos da FUNDIESTAMO - Sociedade Gestora de Fundos de Investimento Imobiliário Públicos, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Estatutos da FUNDIESTAMO - Sociedade Gestora de Fundos de Investimento Imobiliário Públicos, S. A."
+  },
+  "115334934": {
+   "fragment_id": "115334870",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede, duração e objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede, duração e objecto social"
+  },
+  "115334935": {
+   "fragment_id": "115334871",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação\n\nA sociedade adopta a denominação FUNDIESTAMO - Sociedade Gestora de Fundos de Investimento Imobiliário Públicos, S. A., sociedade anónima de capitais exclusivamente públicos que se rege pelos presentes estatutos e pela legislação aplicável."
+  },
+  "115334936": {
+   "fragment_id": "115334872",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A Sociedade tem a sede na Rua do Comércio, 100, 3.º, em Lisboa.\n\n2 - Por deliberação do conselho de administração, a Sociedade poderá deslocar a sede social dentro do mesmo concelho ou para concelho limítrofe."
+  },
+  "115334937": {
+   "fragment_id": "115334873",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA Sociedade é constituída por tempo indeterminado."
+  },
+  "115334938": {
+   "fragment_id": "115334874",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto social\n\n1 - A Sociedade Gestora tem por objecto a administração de fundos de investimento imobiliário, abertos ou fechados, cujos investimentos serão destinados a aquisição de bens imóveis para cedência exclusiva ao Estado e a outros entes públicos, através de arrendamento, para além de numerário e títulos de dívida pública.\n\n2 - A administração, gestão e representação dos fundos é exercida nos termos e com a amplitude consentida pela lei, em nome e por conta comum dos participantes.\n\n3 - A Sociedade poderá em nome e por conta comum dos participantes e na qualidade de gestora dos fundos e sua legal representante, praticar todos os actos de administração e disposição inerentes à gestão dos fundos, bem como exercer todos os direitos que, directa ou indirectamente, estejam relacionados com os bens e finalidades destes."
+  },
+  "115334939": {
+   "fragment_id": "115334975",
+   "type": 1,
+   "heading": "Capítulo II — Capital e acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital e acções"
+  },
+  "115334940": {
+   "fragment_id": "115334976",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\nO capital social da Sociedade é de 1000000 de euros e é representado por 200000 acções, de valor nominal de cinco euros cada uma e encontra-se integralmente subscrito e realizado em dinheiro."
+  },
+  "115334941": {
+   "fragment_id": "115334977",
+   "type": 11,
+   "heading": "Artigo 6.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acções\n\n1 - As acções são obrigatoriamente nominativas e representadas por títulos que incorporam o número de acções de que cada accionista é titular.\n\n2 - Os títulos são assinados por dois administradores, podendo ambas as assinaturas ser de chancela.\n\n3 - As acções podem revestir forma escritural, sendo as acções tituladas ou escriturais reciprocamente convertíveis a pedido do accionista."
+  },
+  "115334942": {
+   "fragment_id": "115334978",
+   "type": 1,
+   "heading": "Capítulo III — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Assembleia geral"
+  },
+  "115334943": {
+   "fragment_id": "115334979",
+   "type": 11,
+   "heading": "Artigo 7.º — Composição e votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Composição e votos\n\n1 - A assembleia geral é composta pelos accionistas com direito de voto.\n\n2 - Os accionistas que sejam pessoas colectivas indicarão, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.\n\n3 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral."
+  },
+  "115334944": {
+   "fragment_id": "115334980",
+   "type": 11,
+   "heading": "Artigo 8.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Reuniões\n\nA assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que o conselho de administração ou o fiscal único o julguem necessário."
+  },
+  "115334945": {
+   "fragment_id": "115334981",
+   "type": 11,
+   "heading": "Artigo 9.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Mesa\n\nA mesa da assembleia geral será constituída por um presidente e um secretário, eleitos pela assembleia."
+  },
+  "115334946": {
+   "fragment_id": "115334982",
+   "type": 11,
+   "heading": "Artigo 10.º — Convocação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Convocação e funcionamento\n\n1 - A convocação dos accionistas para a assembleia geral é feita por carta registada expedida com, pelo menos, 21 dias de antecedência em relação à data de reunião da assembleia.\n\n2 - A assembleia geral só poderá funcionar em primeira convocação desde que se achem presentes ou devidamente representados accionistas detentores de, no mínimo, 51% do capital social.\n\n3 - Tanto em primeira como em segunda convocação, as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da sociedade e aquisição, ou alienação de acções próprias devem ser aprovadas por 51% dos votos correspondentes ao capital social."
+  },
+  "115334947": {
+   "fragment_id": "115334983",
+   "type": 11,
+   "heading": "Artigo 11.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Competência\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.\n\n2 - Compete especialmente à assembleia geral:\n\na) Apreciar os documentos de prestação de contas e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Eleger os membros do conselho de administração e designar o presidente;\n\nc) Eleger o fiscal único;\n\nd) Fixar as remunerações dos membros dos órgãos sociais, podendo, para o efeito, designar uma comissão de vencimentos."
+  },
+  "115334948": {
+   "fragment_id": "115334984",
+   "type": 1,
+   "heading": "Capítulo IV — Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Administração"
+  },
+  "115334949": {
+   "fragment_id": "115334985",
+   "type": 11,
+   "heading": "Artigo 12.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Composição\n\n1 - A Sociedade é gerida por um conselho de administração composto por três ou cinco membros, eleitos em assembleia geral que designará de entre estes o que exercerá as funções de presidente.\n\n2 - O conselho de administração poderá, dentro dos limites legais, conferir competências suas a um administrador-delegado ou a uma comissão executiva, consoante seja composto por três ou cinco membros, fixando-lhes as atribuições e regulamentando a respectiva delegação."
+  },
+  "115334950": {
+   "fragment_id": "115334986",
+   "type": 11,
+   "heading": "Artigo 13.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Competência\n\n1 - Compete ao conselho de administração representar a Sociedade em juízo e fora dele, cabendo-lhe os mais amplos poderes de gestão, incluindo os de alienar bens sociais, móveis e imóveis.\n\n2 - Em especial, compete ao conselho de administração praticar todos os actos e operações necessários ou convenientes à boa administração e gestão dos fundos, designadamente:\n\na) Representar os participantes dos fundos em todos os direitos derivados das suas participações;\n\nb) Emitir, em ligação com os depositários, unidades de participação dos fundos e autorizar o seu reembolso;\n\nc) Determinar o valor das participações;\n\nd) Seleccionar os valores que devem constituir os fundos de acordo com a política de aplicações prevista nos respectivos regulamentos de gestão, e efectuar ou dar instruções aos depositários para que estes efectuem as operações correspondentes;\n\ne) Manter em ordem a escrita da Sociedade, bem como a dos fundos que a esta incumbe gerir."
+  },
+  "115334951": {
+   "fragment_id": "115334987",
+   "type": 11,
+   "heading": "Artigo 14.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Reuniões\n\n1 - O conselho de administração reunirá ordinariamente uma vez por trimestre e todas as vezes que o presidente ou dois administradores o convoquem, por forma suficiente e com a antecedência necessária.\n\n2 - Qualquer administrador pode fazer-se representar nas reuniões do conselho por outro administrador, mediante carta dirigida ao presidente.\n\n3 - As deliberações serão tomadas por maioria simples dos administradores presentes ou representados, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "115334952": {
+   "fragment_id": "115334988",
+   "type": 11,
+   "heading": "Artigo 15.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Presidente\n\n1 - Compete especialmente ao presidente do conselho de administração:\n\na) Representar a empresa em juízo ou fora dele;\n\nb) Coordenar a actividade do conselho de administração, bem como convocar e dirigir as respectivas reuniões;\n\nc) Exercer voto de qualidade;\n\nd) Zelar pela correcta execução das deliberações do conselho de administração.\n\n2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito."
+  },
+  "115334953": {
+   "fragment_id": "115334989",
+   "type": 11,
+   "heading": "Artigo 16.º — Vinculação da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Vinculação da Sociedade\n\n1 - Todos os actos e documentos que obriguem a Sociedade vinculá-la-ão perante terceiros, quando praticados ou assinados por:\n\na) Dois administradores;\n\nb) Um só administrador com poderes delegados para o efeito;\n\nc) Um mandatário ou procurador no cumprimento do respectivo mandato ou procuração.\n\n2 - Os actos e documentos de mero expediente poderão ser praticados ou assinados por um administrador ou mandatário constituído para o efeito."
+  },
+  "115334954": {
+   "fragment_id": "115334990",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização"
+  },
+  "115334955": {
+   "fragment_id": "115334991",
+   "type": 11,
+   "heading": "Artigo 17.º — Fiscalização da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fiscalização da Sociedade\n\n1 - A fiscalização da Sociedade será exercida por um fiscal único eleito em assembleia geral, que também elegerá o suplente.\n\n2 - O fiscal único e o seu suplente são revisores oficiais de contas ou sociedades de revisores oficiais de contas."
+  },
+  "115334956": {
+   "fragment_id": "115334992",
+   "type": 11,
+   "heading": "Artigo 18.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Competência\n\n1 - As competências, poderes e deveres do fiscal único são as que se encontram previstas na lei e nestes estatutos.\n\n2 - Compete especialmente ao fiscal único:\n\na) Examinar, sempre que o julgue conveniente, a escrituração da Sociedade;\n\nb) Acompanhar o funcionamento da Sociedade e o cumprimento das leis, dos estatutos e dos regulamentos que lhe forem aplicáveis;\n\nc) Assistir a reuniões do conselho de administração, sempre que o entenda conveniente ou para tal for convocado;\n\nd) Pedir a convocação extraordinária da assembleia geral, quando o entenda necessário;\n\ne) Emitir parecer sobre os documentos de prestação de contas;\n\nf) Levar à consideração do conselho de administração qualquer assunto e emitir parecer sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "115334957": {
+   "fragment_id": "115334993",
+   "type": 1,
+   "heading": "Capítulo VI — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Aplicação dos resultados"
+  },
+  "115334958": {
+   "fragment_id": "115334994",
+   "type": 11,
+   "heading": "Artigo 19.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Aplicação\n\n1 - Os lucros do exercício terão, sucessivamente, a seguinte aplicação:\n\na) Cobertura dos prejuízos de exercícios anteriores;\n\nb) Constituição e, eventualmente, reintegração da reserva legal e de outras reservas que a lei determinar;\n\nc) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral determinar;\n\nd) Dividendos a distribuir;\n\ne) Outras finalidades que a assembleia geral delibere.\n\n2 - Poderá ser feito aos accionistas um adiantamento sobre lucros no decurso do exercício, sob proposta do conselho de administração com o parecer favorável do fiscal único."
+  },
+  "115334959": {
+   "fragment_id": "115334995",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições gerais e finais"
+  },
+  "115334960": {
+   "fragment_id": "115334996",
+   "type": 11,
+   "heading": "Artigo 20.º — Caução e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Caução e remuneração\n\n1 - Os membros do conselho de administração são dispensados de caução.\n\n2 - Os membros dos órgãos sociais serão remunerados ou não, conforme for deliberado em assembleia geral ou pela comissão de vencimentos por esta designada."
+  },
+  "115334961": {
+   "fragment_id": "115334997",
+   "type": 14,
+   "heading": "Anexo VI — Estatutos da SAGESECUR - Sociedade de Titularização de Créditos, S. A.",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — Estatutos da SAGESECUR - Sociedade de Titularização de Créditos, S. A."
+  },
+  "115334962": {
+   "fragment_id": "115334998",
+   "type": 1,
+   "heading": "Capítulo I — Denominação, sede, duração e objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Denominação, sede, duração e objecto social"
+  },
+  "115334963": {
+   "fragment_id": "115334999",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação\n\nA Sociedade adopta a denominação SAGESECUR - Sociedade de Titularização de Créditos, S. A., sociedade anónima de capitais exclusivamente públicos que se rege pelos presentes estatutos e pela legislação geral ou especial que lhe seja aplicável."
+  },
+  "115334964": {
+   "fragment_id": "115335000",
+   "type": 11,
+   "heading": "Artigo 2.º — Sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sede\n\n1 - A Sociedade tem a sede na Rua do Comércio, 100, 3.º, em Lisboa.\n\n2 - Por deliberação do conselho de administração, a Sociedade poderá deslocar a sede social dentro do mesmo concelho ou para concelho limítrofe."
+  },
+  "115334965": {
+   "fragment_id": "115335001",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração\n\nA Sociedade é constituída por tempo indeterminado."
+  },
+  "115334966": {
+   "fragment_id": "115335002",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Objecto social\n\nA Sociedade tem por objecto exclusivo a realização de operações de titularização de créditos, mediante a sua aquisição, gestão e transmissão, bem como a emissão de obrigações para pagamento dos créditos adquiridos e ainda as demais operações permitidas por lei."
+  },
+  "115334967": {
+   "fragment_id": "115335003",
+   "type": 1,
+   "heading": "Capítulo II — Capital social, acções e obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Capital social, acções e obrigações"
+  },
+  "115334968": {
+   "fragment_id": "115335004",
+   "type": 11,
+   "heading": "Artigo 5.º — Capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Capital social\n\nO capital social da Sociedade e de 2500000 de euros, encontrando-se integralmente realizado e é representado por 500000 acções, do valor nominal de 5 euros cada uma."
+  },
+  "115334969": {
+   "fragment_id": "115335005",
+   "type": 11,
+   "heading": "Artigo 6.º — Acções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acções\n\n1 - As acções são obrigatoriamente nominativas, registadas e representadas por títulos que incorporam o número de acções de que cada accionista é titular.\n\n2 - Os títulos são assinados por dois administradores, podendo ambas as assinaturas ser de chancela.\n\n3 - As acções podem revestir forma escritural, sendo as acções tituladas ou escriturais reciprocamente convertíveis a pedido do accionista."
+  },
+  "115334970": {
+   "fragment_id": "115335006",
+   "type": 11,
+   "heading": "Artigo 7.º — Obrigações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Obrigações\n\nA Sociedade poderá emitir qualquer tipo de obrigações, incluindo obrigações titularizadas, nos termos da lei e nas condições estabelecidas pela assembleia geral ou pelo conselho de administração."
+  },
+  "115334971": {
+   "fragment_id": "115335007",
+   "type": 1,
+   "heading": "Capítulo III — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Assembleia geral"
+  },
+  "115334972": {
+   "fragment_id": "115335008",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição e votos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição e votos\n\n1 - A assembleia geral é composta pelos accionistas com direito de voto.\n\n2 - Os accionistas que sejam pessoas colectivas indicarão, por carta dirigida ao presidente da mesa, quem os representará na assembleia geral.\n\n3 - Nenhum accionista se pode fazer representar por mais de uma pessoa na mesma sessão da assembleia geral."
+  },
+  "115334973": {
+   "fragment_id": "115335009",
+   "type": 11,
+   "heading": "Artigo 9.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões\n\nA assembleia geral reunirá ordinariamente pelo menos uma vez por ano e extraordinariamente sempre que o conselho de administração ou o fiscal único o julguem necessário."
+  },
+  "115334974": {
+   "fragment_id": "115335010",
+   "type": 11,
+   "heading": "Artigo 10.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mesa\n\nA mesa da assembleia geral será constituída por um presidente e um secretário, eleitos pela assembleia."
+  },
+  "115335075": {
+   "fragment_id": "115335011",
+   "type": 11,
+   "heading": "Artigo 11.º — Convocação e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Convocação e funcionamento\n\n1 - A convocação dos accionistas para a assembleia geral é feita por carta registada expedida com, pelo menos, 21 dias de antecedência em relação à data de reunião da assembleia.\n\n2 - A assembleia geral só poderá funcionar em primeira convocação desde que se achem presentes ou devidamente representados accionistas detentores de, no mínimo, 51% do capital social.\n\n3 - Tanto em primeira como em segunda convocação, as deliberações sobre alteração dos estatutos, fusão, cisão, transformação, dissolução da Sociedade e aquisição ou alienação de acções próprias devem ser aprovadas por 51% dos votos correspondentes ao capital social."
+  },
+  "115335076": {
+   "fragment_id": "115335012",
+   "type": 11,
+   "heading": "Artigo 12.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Competência\n\n1 - A assembleia geral delibera sobre todos os assuntos para os quais a lei e estes estatutos lhe atribuem competência.\n\n2 - Compete especialmente à assembleia geral:\n\na) Apreciar os documentos de prestação de contas e deliberar sobre a aplicação dos resultados do exercício;\n\nb) Eleger a mesa da assembleia geral, os administradores e o fiscal único e designar o presidente do conselho de administração;\n\nc) Deliberar sobre as remunerações dos membros dos corpos sociais, podendo, para o efeito, designar uma comissão de vencimentos;\n\nd) Tratar de qualquer outro assunto para que tenha sido convocada."
+  },
+  "115335077": {
+   "fragment_id": "115335013",
+   "type": 1,
+   "heading": "Capítulo IV — Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Administração"
+  },
+  "115335078": {
+   "fragment_id": "115335014",
+   "type": 11,
+   "heading": "Artigo 13.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Composição\n\n1 - A Sociedade é gerida por um conselho de administração composto por três ou cinco membros, eleitos em assembleia geral, que designará de entre estes o que exercerá as funções de presidente.\n\n2 - O conselho de administração poderá, dentro dos limites legais, conferir competências suas a uma comissão executiva, fixando-lhe as atribuições e regulamentando a respectiva delegação."
+  },
+  "115335079": {
+   "fragment_id": "115335015",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência\n\nCompete ao conselho de administração, sem prejuízo das demais competências que lhe conferem a lei e estes estatutos:\n\na) Gerir, com os mais amplos poderes, todos os negócios sociais e efectuar todas as operações relativas ao objecto social;\n\nb) Representar a sociedade em juízo e fora dele, activa e passivamente, podendo desistir, transigir e confessar em quaisquer pleitos e, bem assim, celebrar convenções de arbitragem;\n\nc) Nomear representantes, temporários ou permanentes, em sociedades ou outras instituições ou organismos públicos ou privados;\n\nd) Deliberar sobre a emissão de obrigações, incluindo a emissão de obrigações titularizadas, nos termos da lei;\n\ne) Propor à assembleia geral que a Sociedade, directa ou indirectamente, se associe com outras pessoas."
+  },
+  "115335080": {
+   "fragment_id": "115335016",
+   "type": 11,
+   "heading": "Artigo 15.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reuniões\n\n1 - O conselho de administração reunirá ordinariamente uma vez por trimestre e todas as vezes que o presidente ou dois administradores o convoquem, por forma suficiente e com a antecedência necessária.\n\n2 - Qualquer administrador pode fazer-se representar nas reuniões do conselho por outro administrador, mediante carta dirigida ao presidente.\n\n3 - As deliberações serão tomadas por maioria simples dos administradores presentes ou representados, tendo o presidente, em caso de empate, voto de qualidade."
+  },
+  "115335081": {
+   "fragment_id": "115335017",
+   "type": 11,
+   "heading": "Artigo 16.º — Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Presidente\n\n1 - Compete especialmente ao presidente do conselho de administração:\n\na) Representar a empresa em juízo ou fora dele;\n\nb) Coordenar a actividade do conselho de administração, bem como convocar e dirigir as respectivas reuniões;\n\nc) Exercer voto de qualidade;\n\nd) Zelar pela correcta execução das deliberações do conselho de administração.\n\n2 - Nas suas faltas ou impedimentos, o presidente é substituído pelo vogal do conselho de administração por si designado para o efeito."
+  },
+  "115335082": {
+   "fragment_id": "115335018",
+   "type": 11,
+   "heading": "Artigo 17.º — Vinculação da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Vinculação da Sociedade\n\n1 - Todos os actos e documentos que obriguem a Sociedade vinculá-la-ão perante terceiros, quando praticados ou assinados por:\n\na) Dois administradores;\n\nb) Um só administrador com poderes delegados para o efeito;\n\nc) Um mandatário ou procurador no cumprimento do respectivo mandato ou procuração.\n\n2 - Os actos e documentos de mero expediente poderão ser praticados ou assinados por um administrador ou mandatário constituído para o efeito."
+  },
+  "115335083": {
+   "fragment_id": "115335019",
+   "type": 1,
+   "heading": "Capítulo V — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Fiscalização"
+  },
+  "115335084": {
+   "fragment_id": "115335020",
+   "type": 11,
+   "heading": "Artigo 18.º — Fiscalização da Sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Fiscalização da Sociedade\n\n1 - A fiscalização da Sociedade será exercida por um fiscal único eleito em assembleia geral, que também elegerá o suplente.\n\n2 - O fiscal único e o seu suplente são revisores oficiais de contas ou sociedades de revisores oficiais de contas."
+  },
+  "115335085": {
+   "fragment_id": "115335021",
+   "type": 11,
+   "heading": "Artigo 19.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Competência\n\n1 - As competências, poderes e deveres do fiscal único são as que se encontram previstas na lei e nestes estatutos.\n\n2 - Compete especialmente ao fiscal único:\n\na) Examinar, sempre que o julgue conveniente, a escrituração da Sociedade;\n\nb) Acompanhar o funcionamento da Sociedade e o cumprimento das leis, dos estatutos e dos regulamentos que lhe forem aplicáveis;\n\nc) Assistir a reuniões do conselho de administração, sempre que o entenda conveniente ou para tal for convocado;\n\nd) Pedir a convocação extraordinária da assembleia geral, quando o entenda necessário;\n\ne) Emitir parecer sobre os documentos de prestação de contas;\n\nf) Levar à consideração do conselho de administração qualquer assunto e emitir parecer sobre qualquer matéria que lhe seja submetida por aquele órgão."
+  },
+  "115335086": {
+   "fragment_id": "115335022",
+   "type": 1,
+   "heading": "Capítulo VI — Aplicação dos resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Aplicação dos resultados"
+  },
+  "115335087": {
+   "fragment_id": "115335023",
+   "type": 11,
+   "heading": "Artigo 20.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Aplicação\n\n1 - Os lucros do exercício terão, sucessivamente, a seguinte aplicação:\n\na) Cobertura dos prejuízos de exercícios anteriores;\n\nb) Constituição e, eventualmente, reintegração da reserva legal e de outras reservas que a lei determinar;\n\nc) Constituição, reforço ou reintegração de outras reservas, conforme a assembleia geral determinar;\n\nd) Dividendos a distribuir;\n\ne) Outras finalidades que a assembleia geral delibere.\n\n2 - Poderá ser feito aos accionistas um adiantamento sobre lucros no decurso do exercício sob proposta do conselho de administração, com o parecer favorável do fiscal único."
+  },
+  "115335088": {
+   "fragment_id": "115335024",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições gerais e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições gerais e finais"
+  },
+  "115335089": {
+   "fragment_id": "115335025",
+   "type": 11,
+   "heading": "Artigo 21.º — Caução e remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Caução e remuneração\n\n1 - Os membros do conselho de administração são dispensados de caução.\n\n2 - Os membros dos órgãos sociais serão remunerados ou não, conforme for deliberado em assembleia geral ou pela comissão de vencimentos por esta designada."
+  },
+  "115335090": {
+   "fragment_id": "115335026",
+   "type": 11,
+   "heading": "Artigo 22.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Duração do mandato\n\n1 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos civis, renováveis, contando-se como completo o ano civil da designação.\n\n2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los."
+  },
+  "115335091": {
+   "fragment_id": "115335027",
+   "type": 11,
+   "heading": "Artigo 23.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Dissolução e liquidação\n\n1 - A Sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da Sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral."
+  },
+  "115335104": {
+   "fragment_id": "115334779",
+   "type": 11,
+   "heading": "Artigo 3.º — Equiparação ao Estado",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 3.º — Equiparação ao Estado\n\nÉ aplicável à PARPÚBLICA o disposto no artigo 545.º do Código das Sociedades Comerciais.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447), em vigor a partir de 2000-09-07"
+  },
+  "115335105": {
+   "fragment_id": "115334793",
+   "type": 11,
+   "heading": "Artigo 16.º — Outras sociedades",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 16.º — Outras sociedades\n\n1 - A SAGESTAMO pode, isoladamente ou com entidades públicas, criar novas sociedades ou adquirir sociedades já constituídas, com a seguinte natureza:\n\na) De gestão e investimento imobiliário (SGII);\n\nb) De compra e venda de imóveis;\n\nc) Gestora de fundos de investimento imobiliário públicos (SGFIIP).\n\n2 - A SAGESTAMO pode ainda, isoladamente ou com outras entidades, criar sociedades cujo objecto social se enquadre no seu campo específico de actuação.\n\n3 - As SGII e as sociedades de compra e venda de imóveis controladas pela SAGESTAMO e, bem assim, os fundos de investimento imobiliário geridos por sociedades controladas pela SAGESTAMO ficam autorizadas a ceder, para efeitos de titularização, os créditos relativos aos seus activos a quaisquer sociedades ou fundos de titularização de créditos, designadamente à sociedade prevista no artigo 17.º do presente decreto-lei.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447), em vigor a partir de 2000-09-07"
+  },
+  "115335106": {
+   "fragment_id": "115334800",
+   "type": 11,
+   "heading": "Artigo 22.º — Registos e isenções",
+   "in_force_from": "2000-09-07",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447), em vigor a partir de 2000-09-07"
+   ],
+   "markdown": "###### Artigo 22.º — Registos e isenções\n\n1 - O presente diploma constitui título bastante para a comprovação do disposto nos artigos anteriores, para todos os efeitos legais, incluindo os de registo.\n\n2 - A constituição de novas sociedades ao abrigo do presente diploma, bem como as alterações aos estatutos das sociedades já existentes, que se mostrem necessárias à execução do presente diploma, são documentadas apenas pelas actas das assembleias gerais de onde constem as correspondentes deliberações.\n\n3 - São isentos de taxas e emolumentos devidos a quaisquer entidades, designadamente ao Registo Nacional de Pessoas Colectivas e às Conservatórias do Registo Predial ou Comercial, todos os demais actos a praticar para execução do disposto neste diploma, incluindo os registos dos novos estatutos da PARPÚBLICA, da SAGESTAMO, da FUNDIESTAMO e da SAGESECUR, bem como das nomeações dos titulares dos órgãos estatutários das sociedades a constituir.\n\n4 - São ainda isentos de taxas e emolumentos devidos às entidades referidas no número anterior os actos relativos a aumentos de capital da PARPÚBLICA, da SAGESTAMO e das sociedades por estas controladas, desde que as respectivas escrituras públicas sejam outorgadas até ao termo do prazo de três anos, contados desde a data de entrada em vigor do presente diploma.\n\n5 - Os actos de aquisição e de registo de bens imóveis, realizados por qualquer das sociedades a que se refere o presente diploma, ao Estado ou a outros entes públicos, estão isentos de taxas e emolumentos.\n\n6 - A isenção de emolumentos prevista nos números anteriores, com respeito a quaisquer actos notariais e de registo, não abrange os emolumentos pessoais, nem as importâncias correspondentes à participação emolumentar normalmente devida aos notários, conservadores e oficiais do registo e do notariado pela sua intervenção nos actos.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447), em vigor a partir de 2000-09-07"
+  },
+  "115328166": {
+   "fragment_id": "115334802",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Junho de 2000. - Jaime José Matos da Gama - Joaquim Augusto Nunes Pina Moura - Diogo Campos Barradas de Lacerda Machado - Alberto de Sousa Martins.\n\nPromulgado em 16 de Agosto de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Agosto de 2000.\n\nO Primeiro-Ministro, em exercício, Jaime José Matos da Gama."
+  },
+  "115335125": {
+   "fragment_id": "115334836",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2000-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 312/2000 - Diário da República n.º 278/2000, Série I-A de 2000-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2000-599109), em vigor a partir de 2000-12-07"
+   ],
+   "markdown": "## Anexo II\n\n(ver quadro no documento original)\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 312/2000 - Diário da República n.º 278/2000, Série I-A de 2000-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2000-599109), em vigor a partir de 2000-12-07"
+  },
+  "115335126": {
+   "fragment_id": "115334868",
+   "type": 14,
+   "heading": "Anexo IV",
+   "in_force_from": "2000-12-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 312/2000 - Diário da República n.º 278/2000, Série I-A de 2000-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2000-599109), em vigor a partir de 2000-12-07"
+   ],
+   "markdown": "## Anexo IV\n\n(ver quadro no documento original)\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 312/2000 - Diário da República n.º 278/2000, Série I-A de 2000-12-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-2000-599109), em vigor a partir de 2000-12-07"
+  },
+  "115335098": {
+   "fragment_id": "115335034",
+   "type": 11,
+   "heading": "Artigo 21.º — Duração do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Duração do mandato\n\n1 - Os membros dos órgãos sociais exercem as suas funções por períodos de três anos civis, renováveis, contando-se como completo o ano civil da designação.\n\n2 - Os membros dos órgãos sociais consideram-se empossados logo que tenham sido eleitos e permanecem no exercício das suas funções até à eleição de quem deva substituí-los.\n\n> Nota: [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447) O presente artigo foi renumerado, correspondendo ao anterior artigo 22.º do Decreto-Lei n.º 209/2000, de 2 de setembro"
+  },
+  "115335099": {
+   "fragment_id": "115335036",
+   "type": 11,
+   "heading": "Artigo 22.º — Dissolução e liquidação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Dissolução e liquidação\n\n1 - A Sociedade dissolve-se nos casos e nos termos legais.\n\n2 - A liquidação da Sociedade reger-se-á pelas disposições da lei e pelas deliberações da assembleia geral.\n\n> Nota: [Declaração de Rectificação n.º 14-A/2000 - Diário da República n.º 252/2000, 2º Suplemento, Série I-A de 2000-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-a-2000-437447) O presente artigo foi renumerado, correspondendo ao anterior artigo 23.º do Decreto-Lei n.º 209/2000, de 2 de setembro"
+  },
+  "115335127": {
+   "fragment_id": "115334782",
+   "type": 11,
+   "heading": "Artigo 6.º — Funções especiais",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 6.º — Funções especiais\n\n1 - Poderá a PARPÚBLICA ser incumbida, por despacho do Ministro das Finanças, de apoiar o exercício da tutela financeira prevista no Decreto-Lei n.º 558/99, de 17 de Dezembro, a gestão de activos financeiros do Estado e a gestão de serviços de interesse económico geral, prestando, designadamente, os seguintes serviços:\n\na) Proceder ao acompanhamento da gestão de empresas em que o Estado ou outros entes públicos detenham, directa ou indirectamente, participações sociais;\n\nb) Exercer as funções de liquidatária de empresas dissolvidas pelo Estado, ou por outros entes públicos, sendo subsidiariamente aplicáveis a esta actividade as normas do Código das Sociedades Comerciais, do Código dos Processos Especiais de Recuperação da Empresa e de Falência e demais legislação atinente aos liquidatários de empresas;\n\nc) Proceder ao acompanhamento das empresas privadas encarregadas da gestão de serviços de interesse económico geral por força da concessão ou da atribuição de direitos especiais ou exclusivos, nos termos previstos no artigo 13.º, por remissão do n.º 4 do artigo 36.º, ambos do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n2 - Pode ainda a PARPÚBLICA ser incumbida de exercer os direitos do Estado como accionista, nos termos do artigo 10.º do Decreto-Lei n.º 558/99, de 17 de Dezembro.\n\n3 - A remuneração anual pelos serviços prestados ao abrigo dos números anteriores será fixada pelo Ministro das Finanças, mediante proposta fundamentada da PARPÚBLICA.\n\n4 - A PARPÚBLICA pode assegurar a prestação de serviços que tenham por objeto estudos, pareceres, projetos e serviços de consultoria ou outros trabalhos especializados de natureza intelectual, às empresas públicas do setor empresarial do Estado, diretamente ou através da promoção de procedimentos de aquisição.\n\n> Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  },
+  "115335128": {
+   "fragment_id": "115334808",
+   "type": 11,
+   "heading": "Artigo 4.º — Objecto",
+   "in_force_from": "2018-05-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+   ],
+   "markdown": "###### Artigo 4.º — Objecto\n\n1 - A PARPÚBLICA tem por objecto:\n\na) A gestão das participações sociais públicas que integrem o seu património;\n\nb) A gestão, através de empresas participadas de objecto especializado, do património imobiliário que lhes seja afecto;\n\nc) A prestação de apoio técnico ao exercício, pelo Ministro das Finanças, da tutela financeira do Estado sobre as empresas públicas e sobre as empresas privadas concessionárias de serviços de interesse económico geral, bem como à gestão de activos financeiros do Estado;\n\nd) A prestação de serviços no domínio da liquidação de sociedades dissolvidas pelo Estado ou por outros entes públicos;\n\ne) A prestação de serviços técnicos de administração e gestão às participadas.\n\nf) A prestação de serviços de consultoria de natureza intelectual, a empresas públicas do setor empresarial do Estado, bem como a aquisição destes serviços em nome, por conta ou em benefício de tais empresas;\n\ng) A instituição e gestão de plataformas de cooperação e de partilha de conhecimento em rede entre as empresas públicas do setor empresarial do Estado.\n\n2 - A PARPÚBLICA pode participar em agrupamentos complementares de empresas e em agrupamentos europeus de interesse económico.\n\n> Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16"
+  }
+ }
+}

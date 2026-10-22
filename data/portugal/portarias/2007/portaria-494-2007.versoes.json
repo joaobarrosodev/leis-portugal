@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:521051:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-906249947",
+ "dre_path": "/dr/detalhe/portaria/494-2007-521051",
+ "source_lastmod": "2025-02-06",
+ "versions": [
+  {
+   "date": "2007-04-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "906178913"
+   ]
+  }
+ ],
+ "fragments": {
+  "906178913": {
+   "fragment_id": "906249948",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 494/2007\n\nde 26 de Abril\n\nCom a publicação da Portaria n.º 740/2006, de 31 de Julho, estabeleceram-se algumas condicionantes à pesca com ganchorra na zona ocidental norte, que se impõe sejam revistas.\n\nÉ o caso da alteração dos portos onde se pode efectuar a descarga de bivalves, tendo presente a constatação de que as áreas de operação das embarcações licenciadas para a arte de ganchorra se situam em áreas próximas do limite sul da zona em causa, aliada à necessidade de reduzir custos de operação relacionados com o preço dos combustíveis.\n\nDe igual modo, o conhecimento científico sobre os recursos capturados com esta arte aconselha a que seja permitida a atribuição, durante o ano de 2007, de até duas licenças de ganchorra exclusivamente para a pesca de longueirão, conquilha e ameijola, com o objectivo de avaliar as potencialidades de exploração destas espécies.\n\nAssim:\n\nAo abrigo das alíneas b) e g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, do n.º 3 do artigo 1.º do Decreto-Lei n.º 81/2005, de 20 de Abril, e do artigo 13.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela Portaria n.º 1102-E/2000, de 22 de Novembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:"
+  }
+ }
+}

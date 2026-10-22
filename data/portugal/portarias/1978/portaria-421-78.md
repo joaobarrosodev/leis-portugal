@@ -1,0 +1,258 @@
+---
+schema_version: '1.0'
+id: pt:dre:297008:por
+title: Portaria n.º 421/78
+short_title: null
+summary: Aprova algumas alterações às normas que fixam as condições de admissão aos cursos de oficiais na Escola Náutica Infante
+  D. Henrique e ao calendário escolar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado da Marinha Mercante
+proposing_entity: null
+official_number: 421/78
+official_date: null
+publication_date: '1978-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/1978, Série I de 1978-07-27
+  number: '171'
+  series: I
+  supplement: null
+  pages: 1521 - 1523
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/07/17100/15211523.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '297008'
+  dre_path: /dr/detalhe/portaria/421-1978-297008
+  internal: pt:dre:297008:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/421-1978-297008
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/421-1978-297008
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-07-27T00:00:00Z'
+integrity:
+  source_sha256: 1e35f103d888ea9bdedb6d0f29724fd16121deb1783b42982dc286478fb34282
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-421-297008.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 421/78
+
+de 27 de Julho
+
+A Escola Náutica Infante D. Henrique é um estabelecimento de ensino que funciona no âmbito do Ministério dos Transportes e Comunicações.
+
+Os cursos de oficiais da marinha mercante aí ministrados são considerados de nível superior, desde a aprovação do seu actual regulamento pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro.
+
+A qualificação dos cursos como superiores obriga a uma exigência especial no que respeita à qualidade do ensino e à preparação dos alunos.
+
+Neste último aspecto, assume particular importância a preparação básica dos alunos, a qual deverá ser de nível semelhante à que se exige a qualquer aluno do ensino superior oficial.
+
+As dificuldades de lançamento imediato do 12.º ano de escolaridade dentro do sistema de ensino português levaram à criação dos cursos propedêuticos do ensino superior, os quais visam uma preparação específica dos alunos para a frequência dos cursos superiores existentes no âmbito do Ministério da Educação e Cultura.
+
+Torna-se difícil, para já, inserir os cursos da Escola Náutica neste sistema de acesso ao ensino superior, sem prejuízo de estudos futuros com tal objectivo.
+
+Todavia, não será razoável que aos alunos aprovados no Ano Propedêutico, tendo como nucleares as disciplinas de Matemática e Ciências Físico-Químicas, e que pretendem candidatar-se à Escola Náutica, venha a ser exigida a prestação de provas de aptidão académica em pé de igualdade com os candidatos habilitados apenas com o curso complementar do ensino secundário.
+
+Neste sentido, são introduzidas algumas alterações às normas que fixam as condições de admissão aos cursos de oficiais, constantes do anexo Q do Regulamento da Escola Náutica Infante D. Henrique.
+
+Estas alterações, por seu lado, determinam a necessidade de revisão do calendário escolar, constante do anexo C do mesmo Regulamento, o qual corresponde ao anexo T da [Portaria n.º 280/77](https://diariodarepublica.pt/dr/detalhe/portaria/280-1977-252023), de 20 de Maio, que operou algumas modificações no mesmo.
+
+Nestes termos, ao abrigo do artigo 1.º do [Decreto-Lei n.º 600/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/600-1975-312408), de 29 de Outubro:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Marinha Mercante, o seguinte:
+
+1.º Os anexos C e Q do Regulamento da Escola Náutica Infante D. Henrique, aprovado pelo [Decreto n.º 348/72](https://diariodarepublica.pt/dr/detalhe/decreto/348-1972-688606), de 5 de Setembro, e posteriormente alterados, respectivamente pelas Portarias n.os [280/77](https://diariodarepublica.pt/dr/detalhe/portaria/280-1977-252023), de 20 de Maio, e [749/75](https://diariodarepublica.pt/dr/detalhe/portaria/749-1975-311178), de 16 de Dezembro, são substituídos pelos anexos I e II do presente diploma;
+
+2.º As alterações ao calendário escolar introduzidas pela presente portaria têm eficácia a partir de 1 de Setembro de 1978.
+
+Secretaria de Estado da Marinha Mercante, 4 de Julho de 1978. - O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.
+
+## ANEXO I — (Anexo C do Regulamento)
+
+Calendário escolar
+
+3.ª semana de Outubro:
+
+Abertura das aulas.
+
+1 a 10 de Janeiro:
+
+Recepção de documentos para exames dos alunos voluntários (época de Janeiro).
+
+15 a 31 de Janeiro:
+
+Exames dos alunos voluntários.
+
+15 de Fevereiro a 15 de Março:
+
+Exames finais das disciplinas e instruções do 1.º semestre.
+
+1 de Maio a 30 de Junho:
+
+Divulgação de avisos para candidatura aos cursos gerais.
+
+1 a 12 de Junho:
+
+Recepção de documentos para exames dos alunos voluntários (1.ª época) e para exames de 2.ª época dos alunos reprovados no exame final do 1.º semestre.
+
+Última semana de Junho:
+
+Encerramento das aulas.
+
+7 a 28 de Julho:
+
+Exames finais (1.ª época) para todos os cursos, para os alunos reprovados nos exames do 1.º semestre (2.ª época) e para os alunos voluntários (1.ª época).
+
+1 a 8 de Setembro:
+
+Apresentação de candidaturas e recepção de documentos para exames de 2.ª época.
+
+8 a 12 de Setembro:
+
+Processamento administrativo dos candidatos.
+
+13 a 16 de Setembro:
+
+Exames de admissão.
+
+20 a 30 de Setembro:
+
+Exames de 2.ª época.
+
+3 a 9 de Outubro:
+
+Inspecções médicas.
+
+12 de Outubro:
+
+Afixação das classificações e ordenação dos candidatos.
+
+1 a 15 de Outubro:
+
+Matrículas em todos os cursos.
+
+## ANEXO II — (Anexo Q do Regulamento)
+
+I - Condições de admissão
+
+1 - As condições de admissão aos cursos gerais de oficiais são as seguintes:
+
+a) Possuir, como habilitações mínimas, o curso complementar dos liceus, ou equivalente, sendo obrigatórias as disciplinas de Matemática e Ciências Físico-Químicas; a equivalência de habilitações estrangeiras será definida, em cada caso concreto, por despacho do director-geral dos Estudos Náuticos, mediante parecer do conselho directivo da Escola;
+
+b) Possuir aptidão física para a carreira marítima;
+
+c) Não estar matriculado em qualquer outro estabelecimento de ensino oficial;
+
+d) Obter aprovação nas provas de aptidão referidas no n.º 8 deste anexo, não estando dispensado das mesmas nos termos dos n.os 9 ou 16;
+
+e) Sendo estrangeiro, possuir conhecimento da língua portuguesa.
+
+2 - As condições de admissão aos cursos complementares de oficiais são as seguintes:
+
+a) Requerimento, dirigido ao presidente do conselho ditima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca;
+
+b) Possuir aptidão física.
+
+II - Documentos a entregar pelos candidatos
+
+3 - Os documentos a entregar pelos candidatos ao ingresso nos cursos gerais são os seguintes:
+
+a) Requerimento, dirigido ao presidente do conselho directivo (em papel selado, com um selo fiscal de 50$00 inutilizado pela assinatura do candidato), indicando o curso a que se candidata;
+
+b) Certidão narrativa completa do registo de nascimento ou, sendo o candidato estrangeiro, documento equivalente reconhecido pela lei portuguesa;
+
+c) Certificado das habilitações literárias;
+
+d) Declaração de quem exerça o poder paternal, se se tratar de menor, autorizando-o a efectuar a matrícula;
+
+e) Declaração, com assinatura reconhecida notarialmente, de que o candidato não está matriculado em qualquer outro estabelecimento de ensino oficial, comprometendo-se a anular a matrícula na Escola Náutica caso venha a matricular-se noutro estabelecimento de ensino oficial;
+
+f) Uma microrradiografia (com anterioridade não superior a sessenta dias relativamente ao dia das inspecções médicas);
+
+g) Boletim individual de saúde, no qual esteja registada vacina contra o tétano;
+
+h) Três fotografias actuais.
+
+4 - Os documentos a entregar pelos candidatos ao ingresso nos cursos complementares são os seguintes:
+
+a) Requerimento dirigido ao presidente do conselho directivo (em papel selado, com selo fiscal de 50$00 inutilizado pela assinatura do candidato);
+
+b) Documentos comprovativos de que satisfaz às condições fixadas no Regulamento da Inscrição Marítima, Matrícula e Lotações dos Navios da Marinha Mercante e da Pesca.
+
+5 - Os documentos deverão ser entregues na secretaria da Escola, nas datas estabelecidas para apresentação de candidaturas. Os candidatos inscritos no Ano Propedêutico que não possam dispor do certificado de aproveitamento, dentro do prazo referido, deverão apresentar, em sua substituição, documento comprovativo da sua inscrição no Ano Propedêutico. O certificado de aproveitamento deverá, em todo o caso, ser apresentado até 30 de Setembro.
+
+6 - O conselho directivo pode autorizar ainda, excepcionalmente, a aceitação de documentos fora dos prazos normais, quando reconheça que o atraso é devido a causa de força maior.
+
+7 - Os candidatos não admitidos podem reaver da Escola os documentos entregues.
+
+III - Aptidão académica
+
+8 - As provas de aptidão académica incidem sobre as disciplinas de Matemática e Ciências Físico-Químicas, considerando-se aprovados os alunos que obtenham 19 valores na soma das classificações das duas provas e um mínimo de 9 valores em cada uma.
+
+9 - Os candidatos aprovados no Ano Propedêutico, no plano correspondente ao par de disciplinas nucleares «Matemática e Ciências Físico-Químicas», são dispensados da prestação das provas referidas no número anterior. Para efeitos de ordenação, atender-se-á às notas obtidas no Ano Propedêutico nas disciplinas de Matemática e Ciências Físico-Químicas.
+
+10 - A classificação das provas não é susceptível de recurso.
+
+IV - Aptidão física
+
+11 - A verificação da aptidão física dos candidatos aos cursos gerais compete a uma junta médica fixada e nomeada por despacho do director-geral dos Estudos Náuticos.
+
+12 - Os resultados dos exames médicos não são susceptíveis de recurso.
+
+V - Ordenação dos candidatos e vagas
+
+13 - Os candidatos aos cursos gerais serão ordenados em função das classificações obtidas, nos termos dos n.os 8 e 9.
+
+14 - O Secretário de Estado da Marinha Mercante determinará, em cada ano, o número de alunos a admitir em cada curso, sendo as vagas preenchidas de acordo com prioridade resultante da ordenação referida no número anterior.
+
+15 - O disposto nos n.os 13 e 14 não é aplicável aos candidatos estrangeiros, cuja admissão depende das condições a definir pelo Secretário de Estado da Marinha Mercante, ouvida a Direcção-Geral dos Estudos Náuticos.
+
+16 - Podem ainda ser admitidos para além das vagas estabelecidas, e com dispensas das provas de aptidão académica, indivíduos habilitados com curso superior, nacional ou estrangeiro, mediante autorização do Secretário de Estado da Marinha Mercante, ouvida a Direcção-Geral dos Estudos Náuticos.
+
+**O Secretário de Estado da Marinha Mercante, Luís António Penedo Correia Maltês.**

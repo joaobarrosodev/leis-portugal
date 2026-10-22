@@ -1,0 +1,204 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114177777:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-114360541",
+ "dre_path": "/dr/detalhe/portaria/342-a-2017-114177777",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-11-09",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114355327",
+    "114355328",
+    "114355329",
+    "114355330",
+    "114355331",
+    "114355332",
+    "114355333",
+    "114355334",
+    "114355335",
+    "114355336",
+    "114355337"
+   ]
+  },
+  {
+   "date": "2017-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114360527:por",
+     "title": "Portaria n.º 372-A/2017",
+     "published": "2017-12-14",
+     "dre_path": "/dr/detalhe/portaria/372-a-2017-114360527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "114355327",
+    "114355328",
+    "114355329",
+    "114355330",
+    "114355331",
+    "114355332",
+    "114355333",
+    "114355334",
+    "114355345",
+    "114355336",
+    "114355337",
+    "114355338"
+   ]
+  },
+  {
+   "date": "2018-02-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114701938:por",
+     "title": "Portaria n.º 51-A/2018",
+     "published": "2018-02-19",
+     "dre_path": "/dr/detalhe/portaria/51-a-2018-114701938"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "114355327",
+    "114355328",
+    "114355329",
+    "114733180",
+    "114355331",
+    "114355332",
+    "114355333",
+    "114355334",
+    "114355345",
+    "114355336",
+    "114355337",
+    "114355338"
+   ]
+  }
+ ],
+ "fragments": {
+  "114355327": {
+   "fragment_id": "114360542",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 342-A/2017\n\nde 9 de novembro\n\nO país foi atingido durante este ano de 2017, no decurso do verão e início do outono, por um conjunto de incêndios, deflagrados em datas precisas e com extensão variada, com grande incidência na região Centro e Norte, mas também com ocorrências nas regiões de Lisboa e Vale do Tejo e Alentejo, cuja violência e dimensão dos danos provocados não têm paralelo com situações verificadas nos anos anteriores no período homólogo.\n\nA devastação provocada e a expressão dos prejuízos causados por estes incêndios, nas zonas atingidas, permitem reconhecê-los como catástrofe natural e acionar, em apoio das explorações agrícolas que sofreram diretamente os efeitos de tais eventos, medidas de restabelecimento do potencial produtivo previstas no Programa de Desenvolvimento Rural do Continente, abreviadamente designado PDR 2020, nomeadamente o apoio 6.2.2, «Restabelecimento do potencial produtivo», inserido na ação 6.2 «Prevenção e restabelecimento do potencial produtivo». Além disso, a extensão dos danos emergentes destes incêndios foi de tal ordem que os tornam em catástrofes naturais de caráter muito singular, face à violência anormal que apresentaram. Esta circunstância permite considerar toda a intervenção dos apoios a conceder, como constituindo uma intervenção específica em todo o potencial produtivo atingido.\n\nTal apoio foi desde logo acionado em relação aos incêndios deflagrados em julho e agosto que atingiram as regiões Norte, Centro, Lisboa e Vale do Tejo e Alentejo, pelo Despacho n.º 8851-A/2017, de 4 de outubro, publicado no Diário da República, 2.ª série, n.º 193, de 6 de outubro. Para estes casos, face à extensão dos prejuízos, adotou-se um regime especial de níveis de apoio, de acordo com a Portaria n.º 295/2017, de 2 de outubro. Em setembro, os municípios da Covilhã, Fundão, Penafiel e Sertã viram-se atingidos por incêndios cuja extensão lhes deixou uma percentagem de área ardida muito significativa, e em outubro, o incêndio de efeitos particularmente violentos deflagrado a dia 15, atingiu 41 municípios.\n\nAs declarações de prejuízos já recolhidas permitem identificar a diversidade de perfis das explorações agrícolas afetadas. O balanço que já é possível fazer das candidaturas apresentadas no âmbito do despacho que acionou o apoio 6.2.2 em relação aos incêndios de julho e agosto, bem como as declarações de prejuízo já recolhidas nas demais ocorrências de setembro e outubro, permitem encarar a abertura do apoio 6.2.2 «Restabelecimento do potencial produtivo» sobre todo este período, considerando-o globalmente, e procurando encontrar, em função disso, um regime de níveis de apoio a aplicar nas áreas atingidas por estas catástrofes naturais, assim reconhecidas, que se mostre capaz de assegurar uma aplicação mais justa e equitativa desta medida de apoio.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, Florestas e Desenvolvimento Rural, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 156/2014, de 27 de outubro, na redação do Decreto-Lei n.º 215/2015, de 6 de outubro, o seguinte:"
+  },
+  "114355328": {
+   "fragment_id": "114360543",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente Portaria estabelece um regime especial da tipologia de intervenções específicas e dos níveis e limites de apoio, em derrogação do disposto no n.º 2 do artigo 10.º da Portaria n.º 199/2015, de 6 de julho, alterada pelas Portarias n.º 56/2016, de 28 de março, n.º 223-A/2017, de 21 de julho, e Portaria n.º 260-A/2017, de 23 de agosto, que estabelece o regime do apoio 6.2.2, «Restabelecimento do potencial produtivo», inserido na ação n.º 6.2, «Prevenção e restabelecimento do potencial produtivo», da medida n.º 6, «Gestão do risco e restabelecimento do potencial produtivo», do Programa de Desenvolvimento Rural do Continente (PDR 2020).\n\n2 - A presente Portaria fixa ainda o montante global disponível para os apoios incluídos no seu âmbito de aplicação."
+  },
+  "114355329": {
+   "fragment_id": "114360544",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO regime especial das tipologias de intervenções específicas e dos níveis e limites de apoio estabelecido pela presente Portaria, aplica-se ao apoio 6.2.2 «Restabelecimento do potencial produtivo», a conceder às explorações afetadas pelos incêndios que deflagraram em julho e agosto de 2017 nas regiões do Norte, Centro, Lisboa e Vale do Tejo e Alentejo, e em setembro e outubro de 2017 nas regiões Norte e Centro, e que tenham sido ou venham a ser reconhecidos, nos termos e para os efeitos do disposto na alínea b) do artigo 3.º e última parte da alínea a) do n.º 1 do artigo 6.º da Portaria n.º 199/2015, de 6 de julho, como catástrofe natural."
+  },
+  "114355330": {
+   "fragment_id": "114360545",
+   "type": 11,
+   "heading": "Artigo 3.º — Níveis e limites de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Níveis e limites de apoio\n\n1 - Os níveis de apoio a conceder às operações elegíveis, de acordo com os critérios fixados nos despachos mencionados no n.º 2 do artigo 6.º da Portaria n.º 199/2015, de 6 de julho, proferidos no âmbito a que se refere o artigo anterior, repartem-se pelos seguintes escalões:\n\na) 100 % da despesa elegível, quando igual ou inferior a (euro)5.000 (cinco mil euros), no caso de beneficiários que tenham recebido pagamentos diretos de valor igual ou inferior a (euro)5.000 (cinco mil euros) no ano de 2016 e que tenham tido prejuízos superiores a 80 % do potencial agrícola nas explorações abrangidas pelos despachos acima indicados;\n\nb) 85 % da despesa elegível que corresponda a tipologias de intervenção específicas, quando igual ou inferior a (euro)50.000 (cinquenta mil euros), também aplicável, nos mesmos termos, à despesa elegível igual ou inferior a (euro)5.000 nas situações que não preencham os requisitos da alínea a);\n\nc) 50 % da despesa elegível entre (euro)50.001 (cinquenta mil e um euros) e até (euro)400.000 (quatrocentos mil euros);\n\nd) Caso a despesa elegível seja superior a (euro)400.000 (quatrocentos mil euros), o apoio é atribuído até ao limite deste valor.\n\n2 - Para efeitos de aplicação dos níveis de apoio, a despesa elegível é fracionada, sucessivamente, pelos escalões previstos nas alíneas a), b) e c) do número anterior, de acordo com as respetivas condições, até ao limite do respetivo montante, recebendo cada fração da despesa elegível, o nível de apoio que corresponda ao escalão em que fica enquadrada.\n\n3 - O limiar mínimo da despesa elegível consta do despacho previsto no n.º 2 do artigo 6.º da Portaria n.º 199/2015, de 6 de julho."
+  },
+  "114355331": {
+   "fragment_id": "114360546",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologias de intervenção específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologias de intervenção específicas\n\nPara efeitos do disposto na alínea b) do n.º 1 do artigo anterior, consideram-se, no âmbito de aplicação do regime especial da presente Portaria, tipologias de intervenção específicas, os ativos fixos tangíveis e ativos biológicos que integram o capital produtivo da exploração, correspondente a animais, plantações plurianuais, máquinas, equipamentos, armazéns e outras construções de apoio à atividade agrícola."
+  },
+  "114355332": {
+   "fragment_id": "114360547",
+   "type": 11,
+   "heading": "Artigo 5.º — Montante global disponível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Montante global disponível\n\nO montante global disponível para os apoios a que se aplica o regime especial da presente Portaria, é de (euro)15.000.000 (quinze milhões de euros)."
+  },
+  "114355333": {
+   "fragment_id": "114360548",
+   "type": 11,
+   "heading": "Artigo 6.º — Aplicação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aplicação subsidiária\n\nEm tudo o que não se encontre especialmente previsto na presente Portaria, aplicam-se as normas do regime geral constante da Portaria n.º 199/2015, de 6 de julho."
+  },
+  "114355334": {
+   "fragment_id": "114360549",
+   "type": 11,
+   "heading": "Artigo 7.º — Aplicação imediata",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aplicação imediata\n\nO regime dos níveis e limites de apoio previstos no artigo 3.º da presente Portaria aplica-se imediatamente aos pedidos de apoio apresentados no âmbito do Despacho n.º 8851-A/2017, de 4 de outubro, publicado no Diário da República, 2.ª série, n.º 193, de 6 de outubro, retificado pela Declaração de Retificação n.º 707/2017, de 9 de outubro, publicada no Diário da República, 2.ª série, n.º 200, de 17 de outubro, todos do Ministro da Agricultura, Florestas e Desenvolvimento Rural."
+  },
+  "114355335": {
+   "fragment_id": "114360550",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Despacho n.º 8851-A/2017, de 4 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração ao Despacho n.º 8851-A/2017, de 4 de outubro\n\n1 - São revogados o n.º 1 e o n.º 2 do artigo 2.º do Despacho n.º 8851-A/2017, de 4 de outubro.\n\n2 - O prazo limite para apresentação de pedidos de apoio previsto no n.º 6 do artigo 2.º do despacho referido no número anterior, é fixado em 15 de dezembro 2017."
+  },
+  "114355336": {
+   "fragment_id": "114360551",
+   "type": 11,
+   "heading": "Artigo 9.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Revogação\n\nA Portaria n.º 295/2017, de 2 de outubro, é revogada na medida em que as suas normas se mostrem incompatíveis com o regime especial previsto na presente Portaria."
+  },
+  "114355337": {
+   "fragment_id": "114360552",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nA presente Portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114355345": {
+   "fragment_id": "114360550",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração ao Despacho n.º 8851-A/2017, de 4 de outubro",
+   "in_force_from": "2017-12-15",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 372-A/2017 - Diário da República n.º 239/2017, 2º Suplemento, Série I de 2017-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/372-a-2017-114360527), em vigor a partir de 2017-12-15"
+   ],
+   "markdown": "###### Artigo 8.º — Alteração ao Despacho n.º 8851-A/2017, de 4 de outubro\n\n1 - São revogados o n.º 1 e o n.º 2 do artigo 2.º do Despacho n.º 8851-A/2017, de 4 de outubro.\n\n2 - O prazo limite para apresentação de pedidos de apoio previsto no n.º 6 do artigo 2.º do Despacho n.º 8851-A/2017, de 4 de outubro, é fixado em 22 de dezembro 2017.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 372-A/2017 - Diário da República n.º 239/2017, 2º Suplemento, Série I de 2017-12-14](https://diariodarepublica.pt/dr/detalhe/portaria/372-a-2017-114360527), em vigor a partir de 2017-12-15"
+  },
+  "114355338": {
+   "fragment_id": "114360553",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, Florestas e Desenvolvimento Rural, Luís Manuel Capoulas Santos, em 9 de novembro de 2017."
+  },
+  "114733180": {
+   "fragment_id": "114360545",
+   "type": 11,
+   "heading": "Artigo 3.º — Níveis e limites de apoio",
+   "in_force_from": "2018-02-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 51-A/2018 - Diário da República n.º 35/2018, 1º Suplemento, Série I de 2018-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/51-a-2018-114701938), em vigor a partir de 2018-02-20"
+   ],
+   "markdown": "###### Artigo 3.º — Níveis e limites de apoio\n\n1 - Os níveis de apoio a conceder às operações elegíveis, de acordo com os critérios fixados nos despachos mencionados no n.º 2 do artigo 6.º da Portaria n.º 199/2015, de 6 de julho, proferidos no âmbito a que se refere o artigo anterior, repartem-se pelos seguintes escalões:\n\na) 100 % da despesa elegível, quando igual ou inferior a (euro)5.000 (cinco mil euros), no caso de beneficiários que tenham recebido pagamentos diretos de valor igual ou inferior a (euro)5.000 (cinco mil euros) no ano de 2016 e que tenham tido prejuízos superiores a 80 % do potencial agrícola nas explorações abrangidas pelos despachos acima indicados;\n\nb) 85 % da despesa elegível que corresponda a tipologias de intervenção específicas, quando igual ou inferior a (euro)50.000 (cinquenta mil euros), também aplicável, nos mesmos termos, à despesa elegível igual ou inferior a (euro)5.000 nas situações que não preencham os requisitos da alínea a);\n\nc) 50 % da despesa elegível entre (euro) 50 001 (cinquenta mil e um euros) e até (euro) 800 000 (oitocentos mil euros);\n\nd) Caso a despesa elegível seja superior a (euro) 800 000 (oitocentos mil euros), o apoio é atribuído até ao limite deste valor.\n\n2 - Para efeitos de aplicação dos níveis de apoio, a despesa elegível é fracionada, sucessivamente, pelos escalões previstos nas alíneas a), b) e c) do número anterior, de acordo com as respetivas condições, até ao limite do respetivo montante, recebendo cada fração da despesa elegível, o nível de apoio que corresponda ao escalão em que fica enquadrada.\n\n3 - O limiar mínimo da despesa elegível consta do despacho previsto no n.º 2 do artigo 6.º da Portaria n.º 199/2015, de 6 de julho.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 51-A/2018 - Diário da República n.º 35/2018, 1º Suplemento, Série I de 2018-02-19](https://diariodarepublica.pt/dr/detalhe/portaria/51-a-2018-114701938), em vigor a partir de 2018-02-20"
+  }
+ }
+}

@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:368233:por
+title: Portaria n.º 765/71
+short_title: null
+summary: Torna extensivo à província de Cabo Verde, com a alteração introduzida pelo presente diploma, o Decreto n.º 421/70,
+  que promulga o diploma orgânico dos serviços de economia do ultramar
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Economia
+proposing_entity: null
+official_number: 765/71
+official_date: null
+publication_date: '1971-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 304/1971, 1º Suplemento, Série I de 1971-12-31
+  number: '304'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2074-(12) a 2074-(13)
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30401/00120013.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '368233'
+  dre_path: /dr/detalhe/portaria/765-1971-368233
+  internal: pt:dre:368233:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/765-1971-368233
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/765-1971-368233
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1971-12-31T00:00:00Z'
+integrity:
+  source_sha256: 80e399333f68a22c87faf0dbca491994989b89a7661e655b5733bcc0cbf8319b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-765-368233.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 765/71
+
+de 31 de Dezembro
+
+Considerando conveniente tornar extensivo à província de Cabo Verde o [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro;
+
+Tendo em vista o disposto no n.º 2 do artigo 59.º do citado decreto;
+
+Por proposta do Governo de Cabo Verde;
+
+Usando da competência concedida pelo § 2.º do artigo 136.º da Constituição:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Ultramar, o seguinte:
+
+É tornado extensivo à província de Cabo Verde o [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), de 4 de Setembro, ao qual é introduzida a seguinte alteração:
+
+O quadro comum dos serviços de economia do ultramar, fixado no mapa I anexo ao citado [Decreto n.º 421/70](https://diariodarepublica.pt/dr/detalhe/decreto/421-1970-148833), passa a ter, na referida província, a seguinte constituição:
+
+MAPA I
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1971/12/30401/00120013.pdf))](https://files.diariodarepublica.pt/1s/1971/12/30401/00120013.pdf)
+
+**O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.**
+
+Para ser publicada nos Boletins Oficiais de todas as províncias ultramarinas. - J. da Silva Cunha.

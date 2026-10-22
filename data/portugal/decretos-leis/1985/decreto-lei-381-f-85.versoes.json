@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:476748:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1985-869421943",
+ "dre_path": "/dr/detalhe/decreto-lei/381-f-1985-476748",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1985-09-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "868814400",
+    "868814401",
+    "868814402",
+    "868814403"
+   ]
+  }
+ ],
+ "fragments": {
+  "868814400": {
+   "fragment_id": "869421944",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 381-F/85\n\nde 28 de Setembro\n\nConsiderando que importa obter uma perfeita optimização dos recursos humanos existentes, face ao estatuído no Decreto-Lei n.º 41/84, de 3 de Fevereiro, que impõe restrições à admissão de pessoal;\n\nConsiderando que os critérios de distribuição estabelecidos nos n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 57/80, de 26 de Março, se revelaram pouco adequados a uma correcta gestão e aproveitamento desses mesmos recursos, particularmente na área do pessoal auxiliar de apoio das escolas do ensino primário e jardins-de-infância:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:\n\n> Nota: [Artigo 34.º, Decreto-Lei n.º 147/97 - Diário da República n.º 133/1997, Série I-A de 1997-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/147-1997-358959) Consideram-se revogadas as disposições do presente Decreto-Lei no que respeita à educação pré-escolar."
+  },
+  "868814401": {
+   "fragment_id": "869421945",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - O número de elementos do pessoal auxiliar de apoio por escola do ensino primário ou jardim-de-infância com três ou mais salas será calculado anualmente e será igual ao quociente da divisão inteira por 3 do número de salas de aula em funcionamento no ano lectivo a que o cálculo respeita.\n\n2 - Os jardins-de-infância que funcionem com menos de três salas disporão sempre de um elemento do pessoal auxiliar de apoio."
+  },
+  "868814402": {
+   "fragment_id": "869421946",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nNas escolas do ensino primário com menos de três salas, o serviço de limpeza será assegurado por pessoal assalariado, até ao limite de uma hora por dia e por sala."
+  },
+  "868814403": {
+   "fragment_id": "869421947",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão revogados os n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 57/80, de 26 de Março."
+  }
+ }
+}

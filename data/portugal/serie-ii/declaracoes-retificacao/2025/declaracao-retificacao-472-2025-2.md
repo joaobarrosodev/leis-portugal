@@ -1,0 +1,95 @@
+---
+schema_version: '1.0'
+id: pt:dre:918014284:por
+title: Declaração de Retificação n.º 472/2025/2
+short_title: null
+summary: Retifica a Deliberação n.º 499/2025, de 4 de abril.
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Ambiente e Energia e Agricultura e Pescas - Instituto da Conservação da Natureza e das Florestas, I. P.
+proposing_entity: null
+official_number: 472/2025/2
+official_date: null
+publication_date: '2025-05-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 92/2025, Série II de 2025-05-14
+  number: '92'
+  series: II
+  supplement: null
+  pages: 108 - 108
+  pdf_url: https://files.diariodarepublica.pt/2s/2025/05/092000000/0010800108.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '918014284'
+  dre_path: /dr/detalhe/declaracao-retificacao/472-2025-918014284
+  internal: pt:dre:918014284:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/472-2025-918014284
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/472-2025-918014284
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-05-14T00:00:00Z'
+integrity:
+  source_sha256: fb4788dcb88b99d1d3a4ca89b25232eec9440721d6acfd7ab901d5132112a108
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2025/DRE-2025-472-918014284.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 472/2025/2
+
+Ao abrigo do disposto no artigo 11.º do Regulamento de Publicação de Atos no Diário da República, aprovado pelo [Despacho Normativo n.º 16/2022](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-2022-205457496), de 30 de dezembro, declara-se que a [Deliberação n.º 499/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/499-2025-913781393), de 4 de abril, publicada no Diário da República, 2.ª série, n.º 67, de 4 de abril de 2025, saiu com a seguinte inexatidão, que assim se retifica:
+
+No n.º 11 da [Deliberação n.º 499/2025](https://diariodarepublica.pt/dr/detalhe/deliberacao/499-2025-913781393), de 4 de abril, onde se lê:
+
+«11 - A presente deliberação produz efeitos imediatos, considerando-se ratificados todos os atos praticados no âmbito dos poderes ora delegados e subdelegados, desde 26 de julho de 2024 pelo vogal do Conselho Diretivo Prof. Doutor José Manuel Godinho Calado e desde 17 de fevereiro de 2025, pelos vogais do Conselho Diretivo Dr. Paulo Jorge Farinha Luís, Dr. Carlos Alberto Marcelino de Albuquerque e Eng. Carlos Augusto Caimoto Amaral Ludovico.»
+
+deve ler-se:
+
+«11 - A presente deliberação produz efeitos imediatos, considerando-se ratificados todos os atos praticados no âmbito dos poderes ora delegados e subdelegados, desde 26 de julho de 2024 pelo vogal do Conselho Diretivo Prof. Doutor José Manuel Godinho Calado e desde 17 de fevereiro de 2025, pelos vogais do Conselho Diretivo Eng. Nuno Miguel Figueiredo e Silva de Sousa Sequeira Gama, Dr. Paulo Jorge Farinha Luís, Dr. Carlos Alberto Marcelino de Albuquerque e Eng. Carlos Augusto Caimoto Amaral Ludovico.»
+
+6 de maio de 2025. - O Presidente do Conselho Diretivo, Nuno Banza.

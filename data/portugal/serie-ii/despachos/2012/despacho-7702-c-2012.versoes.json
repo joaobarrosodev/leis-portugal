@@ -1,0 +1,305 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:3560104:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho/2012-1143893075",
+ "dre_path": "/dr/detalhe/despacho/7702-c-2012-3560104",
+ "source_lastmod": "2026-07-03",
+ "versions": [
+  {
+   "date": "2012-06-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1143893275"
+   ]
+  },
+  {
+   "date": "2012-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1611032:por",
+     "title": "Despacho n.º 8705/2012 - 2.ª Série",
+     "published": "2012-06-29",
+     "dre_path": "/dr/detalhe/despacho/8705-2012-1611032"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "1143893275",
+    "1143893475",
+    "1143893675",
+    "1143893875",
+    "1143894075",
+    "1143894275",
+    "1143894475",
+    "1143894675",
+    "1143894875",
+    "1143895075",
+    "1143895275",
+    "1143895475",
+    "1143895675",
+    "1143895875",
+    "1143897875",
+    "1143896275",
+    "1143896475"
+   ]
+  },
+  {
+   "date": "2022-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185390578:por",
+     "title": "Despacho n.º 7980-B/2022 - 2.ª Série",
+     "published": "2022-06-29",
+     "dre_path": "/dr/detalhe/despacho/7980-b-2022-185390578"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "1143893275",
+    "1143893475",
+    "1143893675",
+    "1143893875",
+    "1143894075",
+    "1143894275",
+    "1143894475",
+    "1144444275",
+    "1144444475",
+    "1143895075",
+    "1143895275",
+    "1143895475",
+    "1143895675",
+    "1143895875",
+    "1144444675",
+    "1143896275",
+    "1143896475"
+   ]
+  },
+  {
+   "date": "2022-07-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185715788:por",
+     "title": "Despacho n.º 8150-B/2022 - 2.ª Série",
+     "published": "2022-07-05",
+     "dre_path": "/dr/detalhe/despacho/8150-b-2022-185715788"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "1143893275",
+    "1143893475",
+    "1143893675",
+    "1143893875",
+    "1143894075",
+    "1143894275",
+    "1143894475",
+    "1144444275",
+    "1144444475",
+    "1143895075",
+    "1143895275",
+    "1143895475",
+    "1143895675",
+    "1143895875",
+    "1144445075",
+    "1143896275",
+    "1143896475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1143893275": {
+   "fragment_id": "1143893175",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despacho n.º 7702-C/2012\n\nA Portaria n.º 142-B/2012, de 15 de maio, estabelece no artigo 9.º que as normas e procedimentos relativos à prescrição, requisição, gestão e faturação de encargos com o transporte não urgente de doentes constam de regulamento a aprovar por despacho do membro de Governo responsável pela área da saúde.\n\nImporta assim em execução do disposto na citada disposição legal aprovar o referido regulamento, pelo que, nos termos do artigo 9.º da Portaria n.º 142-B/2012, de 15 de maio, determina-se:"
+  },
+  "1143893475": {
+   "fragment_id": "1143893375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado em anexo ao presente despacho o regulamento que define as normas e procedimentos relativos à prescrição, requisição, gestão, conferência e faturação de encargos com o transporte não urgente de doentes assegurado pelo Serviço Nacional de Saúde (SNS), nos termos da Portaria n.º 142-B/2012, de 15 de maio."
+  },
+  "1143893675": {
+   "fragment_id": "1143893575",
+   "type": 11,
+   "heading": "Artigo 2.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Produção de efeitos\n\nO presente despacho produz efeitos a partir do dia 1 de junho de 2012."
+  },
+  "1143893875": {
+   "fragment_id": "1143893775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "1 de junho de 2012. - O Secretário de Estado da Saúde, Manuel Ferreira Teixeira."
+  },
+  "1143894075": {
+   "fragment_id": "1143893975",
+   "type": 14,
+   "heading": "Anexo — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento"
+  },
+  "1143894275": {
+   "fragment_id": "1143894175",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente Regulamento tem por objeto definir as normas e procedimentos relativos à prescrição, requisição, gestão, conferência e faturação de encargos com o transporte não urgente de doentes, assegurado pelo Serviço Nacional de Saúde (SNS), nos termos e condições estabelecidas na Portaria n.º 142-B/2012, de 15 de maio."
+  },
+  "1143894475": {
+   "fragment_id": "1143894375",
+   "type": 11,
+   "heading": "Artigo 2.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prescrição\n\n1 - A prescrição do transporte é da exclusiva competência do médico assistente, que deve obrigatoriamente registar os seguintes elementos no sistema de apoio ao médico (SAM) ou sistema equivalente:\n\na) A justificação clínica, devidamente fundamentada, da necessidade de transporte;\n\nb) A verificação da condição económica;\n\nc) Nos casos em que haja necessidade de efetuar o transporte em ambulância:\n\ni) A justificação da modalidade de transporte;\n\nii) As condições em que o transporte deve ocorrer, nomeadamente se o doente necessita de ventilação, oxigénio, monitorização, cadeira de rodas ou se trate de doente acamado ou isolado;\n\nd) A justificação da necessidade de acompanhante;\n\ne) A justificação da necessidade de acompanhamento de profissional de saúde;\n\nf) Em caso de tratamentos prolongados e continuados que impliquem (para além dos 30 dias) a justificação da sua necessidade.\n\n2 - A prescrição de técnicas de fisiatria e reabilitação em fase aguda encontra-se limitada, em regra, a 120 dias a contar da primeira prescrição, inerente ao tratamento de uma mesma situação clínica que lhe deu origem."
+  },
+  "1143894675": {
+   "fragment_id": "1143894575",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisição\n\n1 - Após prescrição do transporte pelo médico, os serviços administrativos da entidade requisitante validam a condição económica do doente e procedem à requisição do transporte.\n\n2 - A requisição do transporte obedece aos critérios de minimização da distância entre o local de origem, que deve corresponder à morada a partir da qual o transporte é efetuado, e o local de destino, que deve ter em conta a localidade mais próxima do local de origem, e aos critérios previstos no artigo 6.º da Portaria n.º 142-B/2012, de 15 de maio.\n\n3 - Cabe à entidade requisitante a organização do transporte e a sua valorização de acordo com critérios de racionalidade económica obedecendo ao princípio de agrupamento de doentes transportados em função da otimização do percurso, dos estabelecimentos de destino e dos horários da prestação, nos termos do artigo 6.º da Portaria n.º 142-B/2012, de 15 de maio.\n\n4 - A requisição de transporte contém a seguinte informação:\n\na) Número de requisição, que deverá ser sequencial;\n\nb) Identificação do doente a transportar, incluindo o nome, data de nascimento, morada completa, número de identificação de doente do SNS, e situação de migrante, se for o caso;\n\nc) Identificação da entidade requisitante;\n\nd) Local de prescrição;\n\ne) Local de origem (identificação com morada completa, incluindo os sete dígitos do código postal);\n\nf) Local de destino (identificação com morada completa, incluindo os sete dígitos do código postal);\n\ng) Identificação do médico prescritor, da qual constem obrigatoriamente o nome completo, o número de cédula profissional e a respetiva especialidade;\n\nh) Justificação da necessidade de acompanhante, caso seja prescrito;\n\ni) Modalidade de transporte requisitado e motivos determinantes da escolha do tipo de transporte quando diferente de veículo de transporte simples de doentes e de transporte múltiplo de doentes;\n\nj) Agendamento do número de deslocações mensais previstas;\n\nk) Autorização pelo responsável da entidade requisitante ou da pessoa em que este delegar tal competência.\n\n5 - Na requisição devem constar ainda as condições em que o transporte deve ocorrer, nomeadamente se o doente necessita de ventilação, oxigénio, monitorização, isolamento, transporte em maca, cadeira de rodas, acompanhante e acompanhamento de profissional de saúde.\n\n6 - Na requisição ou pedido de transporte (conjunto de requisições para um mesmo agrupamento) devem ainda, aquando da realização do transporte, para efeitos de faturação e conferência do pagamento do transporte, constar obrigatoriamente os seguintes elementos:\n\na) Relativamente ao transportador:\n\ni) Matrícula do veículo transportador;\n\nii) Número do certificado de vistoria do INEM;\n\niii) Identificação do motorista e do tripulante, quando este último for exigido;\n\niv) Número de doentes e acompanhantes transportados;\n\nv) Data e hora da deslocação;\n\nvi) Local de origem e de destino;\n\nvii) Quilómetros a contabilizar;\n\nviii) Indicação de fornecimento de oxigénio, kit de parto, ventilador ou equipamento de monitorização;\n\nix) Indicação do tempo de espera mediante formato (hora e minutos - HH: MM);\n\nx) Identificação de outros fatores necessários ao cálculo do preço;\n\nb) Relativamente ao prestador dos cuidados de saúde de cujo acesso o transporte é instrumental:\n\ni) Dia da prestação de cuidados de saúde;\n\nii) Local da prestação de cuidados de saúde;\n\niii) Hora de entrada do doente no local de prestação dos cuidados de saúde e hora de conclusão da prestação de cuidados de saúde.\n\n7 - A omissão de quaisquer dos elementos referidos no n.º 4 determina a invalidade da requisição, com exceção da alínea h) do n.º 4.\n\n8 - A omissão de qualquer dos elementos referidos no n.º 6, à exceção das subalíneas viii) e ix) da alínea a), invalida a respetiva faturação.\n\n9 - A requisição de transporte é efetuada por via informática através de aplicação de gestão integrada de transporte (AGIT), com base na informação inicial gerada pelo software de apoio à atividade médica (SAM ou equivalente).\n\n10 - Após a introdução na AGIT, a requisição do transporte é confirmada pelo responsável da entidade requisitante.\n\n11 - A requisição deve ser disponibilizada ao transportador através da AGIT, antes da realização do transporte.\n\n12 - A requisição deve ainda ser disponibilizada à entidade prestadora dos cuidados de saúde, através da AGIT, nos termos dos n.os 4 e 5 do presente artigo.\n\n13 - Para garantir a integridade da informação, deve existir uma interligação entre as diferentes aplicações informáticas, nomeadamente entre o software de apoio à atividade médica e a AGIT.\n\n14 - A AGIT deve possibilitar o acesso da entidade requisitante, do transportador, da entidade prestadora de serviço e da entidade supervisora.\n\n15 - Só são válidas as requisições de transporte efetuadas através de AGIT, sendo apenas admissível a emissão manual de requisição de transporte no caso de inoperacionalidade do sistema informático ou nos cuidados prestados no domicílio, obrigando nestas situações à transcrição posterior da requisição para AGIT."
+  },
+  "1143894875": {
+   "fragment_id": "1143894775",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão de transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão de transportes\n\n1 - O transporte deve ser programado e requisitado com a antecedência mínima de 48 horas.\n\n2 - Em situações pontuais e de natureza excecional, o prazo referido no número anterior pode não ser observado desde que devidamente autorizado e exista acordo entre a entidade requisitante e a transportadora.\n\n3 - A hora limite de aceitação tácita de aprovação/autorização de requisições do transporte diária, no sistema informático, ocorre até às 15 horas e 30 minutos.\n\n4 - As prescrições de transportes para agendamento para o dia «n + 1», e aprovadas para além da hora de aceitação tácita do dia «n», não serão atribuíveis a nenhuma transportadora, produzindo efeitos apenas no dia «n + 2», sendo estes pedidos de transporte, normal e automaticamente, agrupados com os restantes.\n\n5 - Para qualquer outra autorização dada depois das 15 horas e 30 minutos, o pedido de transporte é objeto de agrupamento com os restantes pedidos no dia seguinte.\n\n6 - Os pedidos de transporte são agrupados tendo em conta os horários das prestações de cuidados às quais os doentes se destinam, de acordo com:\n\na) Se o destino se situar, preferencialmente, dentro dos limites geográficos do concelho de origem dos doentes ou num raio não superior a 10 km, estes são agrupados com intervalos, entre a prestação do primeiro doente e a do último, de uma hora;\n\nb) Caso o destino se situe fora do concelho de origem dos doentes, o intervalo entre a prestação do primeiro doente e a do último pode ser de duas ou quatro horas, consoante o número de quilómetros a percorrer seja, respetivamente, inferior ou superior ao número de quilómetros a fixar por cada entidade responsável pela organização do transporte em função das suas caraterísticas geográficas, num intervalo de 100 km a 130 km.\n\n7 - Na otimização dos percursos deve ser aplicada a regra do desvio máximo, ou seja, podendo ser agrupados os doentes, para um percurso e ao longo do mesmo, para além das freguesias e concelhos, desde que não exista um desvio superior a 10 km ou 30 minutos, inerente a cada recolha de doentes para o transporte único em apreço, sendo observados os limites referidos na alínea b) do número anterior.\n\n8 - Na gestão das requisições importa assegurar que:\n\na) As moradas são completas com os sete dígitos do código postal de origem e de destino do transporte a efetuar;\n\nb) Todas as requisições de transporte são efetuadas e autorizadas previamente e de forma automática na AGIT;\n\nc) Todos os agendamentos de transportes tenham sempre as respetivas datas e horas associadas, de modo a permitir os agrupamentos de doentes em transportes múltiplos;\n\nd) É utilizado, preferencialmente, o transporte múltiplo e em veículo de transporte simples de doentes, VTSD, sempre que possível;\n\ne) Existe criação automática de agrupamentos, no caso de transportes múltiplos, de modo a que seja utilizada a capacidade máxima do veículo, tendo em conta o destino e a hora das respetivas prestações de cuidados de saúde, e demais características da prescrição."
+  },
+  "1143895075": {
+   "fragment_id": "1143894975",
+   "type": 11,
+   "heading": "Artigo 5.º — Validade da requisição de transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Validade da requisição de transporte\n\n1 - A requisição é válida por 30 dias a contar da data da sua primeira utilização para os atos clínicos prescritos, exceto nas situações constantes nos números seguintes.\n\n2 - Quando se trate de tratamentos prolongados, a requisição é válida para todo o período de tratamentos, até ao máximo de 90 dias, a contar da sua primeira utilização, devendo, nestes casos, o médico assistente elaborar relatório clínico, a incluir no processo do doente, que fundamenta a necessidade de tratamentos para além dos 30 dias.\n\n3 - Quando se trate de tratamentos de diálise, a requisição pode ter duração anual a reavaliar de três em três meses, pelo médico assistente."
+  },
+  "1143895275": {
+   "fragment_id": "1143895175",
+   "type": 11,
+   "heading": "Artigo 6.º — Utilização de meios eletrónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Utilização de meios eletrónicos\n\n1 - A prescrição, requisição, gestão e mapa de encargos com o transporte é processada por meios eletrónicos através da AGIT.\n\n2 - As entidades do SNS têm de adaptar os respetivos sistemas de informação, nomeadamente no domínio da prescrição, requisição, faturação e conferência, e implementar a prescrição eletrónica do transporte não urgente de doentes.\n\n3 - De forma a garantir a integridade da informação, deve existir uma interligação entre as diferentes aplicações informáticas, nomeadamente entre o software de apoio à atividade médica e a AGIT."
+  },
+  "1143895475": {
+   "fragment_id": "1143895375",
+   "type": 11,
+   "heading": "Artigo 7.º — Requisição do transporte de insuficientes renais crónicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requisição do transporte de insuficientes renais crónicos\n\n1 - A requisição do transporte não urgente de insuficientes renais crónicos obedece ao disposto nos números anteriores, com as especificidades previstas nos números seguintes.\n\n2 - A requisição do transporte de insuficientes renais crónicos em tratamento em unidade convencionada de diálise nos termos da legislação em vigor deve ser feita pelo próprio ou seu representante junto da administração regional de saúde (ARS) da respetiva área de residência do doente, inclusive nas situações de alteração temporária do local habitual de residência, devendo, nesse caso, a mesma ser comunicada pelo próprio ou seu representante aos serviços competentes da ARS a que pertence.\n\n3 - A requisição e a organização do transporte devem ser efetuadas para o centro de diálise mais próximo da residência ou do local de permanência em caso de alteração temporária do local habitual de residência.\n\n4 - De acordo com o programa de diálise delineado, cabe à respetiva ARS definir qual a modalidade e tipo de transporte adequada, apenas recorrendo a meio de transporte individual quando houver indicação clínica expressa nesse sentido.\n\n5 - A organização do transporte deve ser efetuada em articulação com o transportador e deve obedecer ao princípio de agrupamento de doentes transportados em função do percurso, estabelecimento de destino e horário de tratamento e ainda de acordo com critérios de racionalidade económica validados pela respetiva ARS.\n\n6 - As ARS devem programar atempadamente o transporte dos insuficientes renais crónicos da sua área de influência que irão iniciar as sessões de diálise."
+  },
+  "1143895675": {
+   "fragment_id": "1143895575",
+   "type": 11,
+   "heading": "Artigo 8.º — Requisição do transporte no âmbito da Rede Nacional de Cuidados Continuados Integrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Requisição do transporte no âmbito da Rede Nacional de Cuidados Continuados Integrados\n\n1 - A requisição do transporte não urgente no âmbito da Rede Nacional de Cuidados Continuados Integrados (RNCCI) obedece ao disposto nos números anteriores, com as especificidades previstas nos números seguintes.\n\n2 - No âmbito dos cuidados prestados aos doentes do SNS integrados na RNCCI, a requisição de transporte é da responsabilidade do hospital, qualquer que seja o tipo de transporte a utilizar, nas seguintes situações:\n\na) A requisição do transporte não urgente de doentes transferidos para uma qualquer unidade da RNCCI por proposta da equipa de gestão de altas do hospital;\n\nb) A requisição do transporte não urgente de doentes transferidos para a equipa domiciliária da RNCCI, por proposta da equipa de gestão de altas do hospital e referência da equipa coordenadora local (ECL);\n\nc) A requisição do transporte decorrente de atos clínicos programados prescritos pelo próprio hospital.\n\n3 - A requisição do transporte proveniente das unidades da RNCCI é efetuada através da AGIT, tendo de ser obrigatoriamente validada pelo médico da ECL da área da unidade da RNCCI, que simultaneamente justificará a necessidade clínica do mesmo.\n\n4 - Em caso de necessidade de cuidados médicos em ambiente hospitalar, o transporte de doentes do SNS provenientes da RNCCI, salvo indicação em contrário do médico da ECL da área de unidade da RNCCI, é sempre efetuado para o hospital mais próximo da unidade de cuidados continuados integrados na qual o doente está internado."
+  },
+  "1143895875": {
+   "fragment_id": "1143895775",
+   "type": 11,
+   "heading": "Artigo 9.º — Requisição de transporte no âmbito do Sistema Integrado de Gestão de Inscritos para a Cirurgia (SIGIC)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Requisição de transporte no âmbito do Sistema Integrado de Gestão de Inscritos para a Cirurgia (SIGIC)\n\nAs requisições e imputação de encargos no âmbito do Sistema Integrado de Gestão de Inscritos para a Cirurgia (SIGIC) observam o disposto no n.º 4 do artigo 8.º da Portaria n.º 142-B/2012, de 15 de maio, e demais legislação em vigor para o SIGIC, desde que não recaiam no âmbito do disposto no artigo 11.º da referida portaria."
+  },
+  "1143897875": {
+   "fragment_id": "1143895975",
+   "type": 11,
+   "heading": "Artigo 10.º — Faturação",
+   "in_force_from": "2012-07-04",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 8705/2012 - Diário da República n.º 125/2012, Série II de 2012-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/8705-2012-1611032), em vigor a partir de 2012-07-04, com efeitos a partir de 2012-06-01."
+   ],
+   "markdown": "###### Artigo 10.º — Faturação\n\n1 - A responsabilidade pelo pagamento dos encargos com transporte, nos termos previstos na Portaria n.º 142-B/2012, de 15 de maio, é das entidades referidas no seu artigo 8.º, sem prejuízo do regime previsto no n.º 5 do seu artigo 4.º\n\n2 - O «tempo de espera» é contabilizado, apenas nas deslocações superiores a 20 km, por agrupamento de doentes e não por cada doente, não sendo contabilizada a primeira hora de espera.\n\n3 - O valor da segunda hora e subsequentes de tempo de espera, nas deslocações superiores a 20 km de distância, por parte da transportadora, é calculado por frações de minutos, por parte da transportadora, do seguinte modo:\n\n([hora de saída do último doente no prestador de serviços clínicos - hora de entrada do último doente de um prestador de serviços clínicos] - a primeira hora de espera) x (o preço da hora de espera)\n\n4 - Para além de quatro horas de espera, excetuando a primeira, é necessário a apresentação sempre de uma justificação da entidade prestadora do ato clínico e a sua respetiva autorização pela entidade responsável pelo encargo financeiro.\n\n5 - Quando ocorram sobreposições de matrículas de viaturas e de motoristas, entre agrupamentos de transporte de doentes, bem como quando se tratem de frações de tempo inerentes à primeira hora de espera, não são aceites as respetivas faturas.\n\n6 - A faturação relativa à ministração de produtos ou procedimentos clínicos só é aceite se prescrita previamente pelo médico, a não ser que tenha ocorrido um caso excecional devidamente justificado e aprovado, pelo órgão de gestão da entidade responsável pelo encargo, para efeitos de faturação.\n\n7 - No caso de existir faturação por «taxa de saída», apenas para deslocações iguais ou inferiores a 20 km, a mesma não pode ser efetuada com junção de quilómetros e vice-versa.\n\n8 - A regra de cálculo da distância percorrida em quilómetros está associada ao doente, em transporte múltiplo, que efetuou um maior trajeto até ao seu destino, designado «primeiro doente».\n\n9 - No cálculo do valor relativo ao acompanhante, quando prescrito, não se aplica o disposto no número anterior, mas apenas a distância associada ao doente concreto que foi acompanhado.\n\n10 - O valor da «taxa de saída» aplicado apenas para deslocações iguais ou inferiores a 20 km, é único: i) por cada doente e acompanhante transportado, quando, efetuado em ambulâncias, transporte singular ou múltiplo, até ao limite da lotação do veículo; ii) e único por deslocação, quando efetuadas em VTSD, transporte singular ou múltiplo, até ao limite da lotação do veículo.\n\n11 - A contabilização do total de quilómetros percorridos no âmbito da prestação de serviços de transporte em ambulância, é apurada pela distância percorrida entre o local da origem do prestador do serviço de transporte e o regresso ao mesmo.\n\n12 - A contabilização do total de quilómetros percorridos no âmbito da prestação de serviços de transporte em VTSD, é apurada pela distância percorrida, ida e volta, entre o local da origem do doente e o local do prestador de serviços de saúde, sem prejuízo de até ao cumprimento do estatuído no n.º 14 do presente artigo, os órgãos de gestão das entidades financeiras responsáveis pelos encargos, poderem admitir estabelecer diferente forma de contabilização, atendendo às circunstâncias e diversidade geográfica do País.\n\n13 - A base de cálculo das distâncias tem de ter uma única metodologia em todo o país e deve estar associada a um referencial único nacional, acrescidos de outros aferidores que acrescentem valor qualitativo a este cálculo.\n\n14 - Para efeitos do disposto no número anterior, a ACSS, em articulação com a SPMS - Serviços Partilhados do Ministério da Saúde (SPMS), determinará, através de circular normativa a emitir no prazo de 180 dias a contar da data de entrada em vigor do presente regulamento, um referencial único adequado para o cálculo das distâncias em quilómetros.\n\n15 - Nos casos previstos no n.º 2 do artigo 11.º da Portaria n.º 142-B/2012, de 15 de maio, para efeitos de faturação e auditoria, terá de ser comprovado o contacto prévio com o CODU através da indicação da hora e do número de telefone pelo qual o mesmo foi realizado.\n\n16 - Nos casos de não realização do serviço de transporte, previamente autorizado e aceite, por causa imputável ao doente ou ao SNS, a deslocação deve ser faturada pela transportadora à entidade requisitante, com base na distância existente entre o seu local de saída e o local de origem do doente (ida e volta).\n\n17 - Sem prejuízo da aplicação de outras regras por parte dos serviços e estabelecimentos do SNS, no âmbito dos respetivos processos de contratação nos casos em que existirem falhas de transporte de doentes por causa imputável à transportadora devidamente requisitados nos termos do presente regulamento, deverá ser deduzido na faturação do transportador o valor correspondente ao transporte em falta.\n\n18 - O disposto nos números anteriores não prejudica, nos processos de contratação dos serviços do transporte, a obtenção de condições consideradas mais vantajosas para o SNS.\n\n19 - Na situação dos doentes abrangidos pelo artigo 4.º da Portaria n.º 142-B/2012, de 15 de maio, as entidades do SNS devem cobrar ao doente o valor correspondente à sua quota-parte do inerente encargo e proceder à emissão do respetivo recibo, nos termos seguintes:\n\na) Quando exista a possibilidade de cálculo imediato do valor a suportar pelo utente, a cobrança deve ser feita no ato da requisição/agendamento do transporte, devendo ser efetuado informaticamente o registo do pagamento realizado pelo utente;\n\nb) Caso não seja possível no ato da requisição/agendamento do transporte apurar objetivamente o valor a suportar pelo utente, deverá ser emitida, posteriormente, uma nota de débito ao utente, a qual deve ser liquidada no prazo máximo de 30 dias.\n\n20 - A verificação do limite máximo do valor a pagar por mês, previsto no n.º 5 do artigo 4.º da Portaria n.º 142-B/2012, de 15 de maio, é objeto de prova documental (recibos) a efetuar por parte do utente.\n\n21 - O fecho contabilístico do mês ocorre até ao dia 10 do mês seguinte.\n\n22 - A faturação pendente não pode exceder os 180 dias para ser apresentada e ou justificada junto dos respetivos serviços do SNS. Para além desse prazo, será devolvida às transportadoras em causa.\n\n> Alterado pelo/a [Despacho n.º 8705/2012 - Diário da República n.º 125/2012, Série II de 2012-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/8705-2012-1611032), em vigor a partir de 2012-07-04, com efeitos a partir de 2012-06-01."
+  },
+  "1143896275": {
+   "fragment_id": "1143896175",
+   "type": 11,
+   "heading": "Artigo 11.º — Avaliação/monitorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Avaliação/monitorização\n\n1 - Cada ARS designa um colaborador com o perfil de supervisor, que deve monitorizar o integral cumprimento do presente regulamento e a utilização de um sistema informatizado de gestão dos transportes pelos agrupamentos de centros de saúde (ACES) da sua região.\n\n2 - Os restantes serviços e estabelecimentos do SNS designam um responsável pela gestão de transportes com o perfil de supervisor do sistema informatizado de gestão do transporte aí implementados, que deve apreciar trimestralmente as requisições de transporte e analisar os respetivos custos, remetendo os dados trabalhados estatisticamente e comentados à ARS respetiva, a qual, por sua vez, prepara a informação trimestral a enviar à Administração Central do Sistema de Saúde, I. P. (ACSS)\n\n3 - As ARS devem elaborar um relatório com periodicidade anual com as principais oportunidades de melhoria detetadas relativamente ao transporte, como forma de busca contínua da melhoria, e com avaliação qualitativa e quantitativa do desempenho da instituição nesta matéria. Esse relatório deve ser submetido à apreciação do órgão máximo dirigente da instituição e ser objeto de posterior envio à ACSS, até ao dia 30 de março de cada ano.\n\n4 - As entidades do SNS devem ainda avaliar periodicamente, de acordo com o seu modelo interno de gestão do risco, o cumprimento do presente regulamento, bem como desencadear a realização de auditorias internas."
+  },
+  "1143896475": {
+   "fragment_id": "1143896375",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições transitórias\n\n1 - As entidades do SNS que ainda não têm implementado uma AGIT têm de, no prazo dos 90 dias subsequentes ao da entrada em vigor deste regulamento, proceder à sua implementação nos termos previstos no n.º 2 do artigo 6.º\n\n2 - Durante o prazo referido no número anterior os estabelecimentos de saúde do SNS ou convencionados e os serviços administrativos dos referidos estabelecimentos procedem à requisição manual do transporte, nos termos e condições previstas nos n.os 1 a 7 do artigo 3.º do presente regulamento.\n\n3 - As requisições emitidas até à publicação do presente regulamento mantêm o respetivo período de validade de 30 dias.\n\n206157656"
+  },
+  "1144444275": {
+   "fragment_id": "1143894575",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisição",
+   "in_force_from": "2022-07-04",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01."
+   ],
+   "markdown": "###### Artigo 3.º — Requisição\n\n1 - Após prescrição do transporte pelo médico, os serviços administrativos da entidade requisitante validam a condição económica do doente e procedem à requisição do transporte.\n\n2 - A requisição do transporte obedece aos critérios de minimização da distância entre o local de origem, que deve corresponder à morada a partir da qual o transporte é efetuado, e o local de destino, que deve ter em conta a localidade mais próxima do local de origem, e aos critérios previstos no artigo 6.º da Portaria n.º 142-B/2012, de 15 de maio.\n\n3 - Cabe à entidade requisitante a organização do transporte e a sua valorização de acordo com critérios de racionalidade económica obedecendo ao princípio de agrupamento de doentes transportados em função da otimização do percurso, dos estabelecimentos de destino e dos horários da prestação, nos termos do artigo 6.º da Portaria n.º 142-B/2012, de 15 de maio.\n\n4 - A requisição de transporte contém a seguinte informação:\n\na) Número de requisição, que deverá ser sequencial;\n\nb) Identificação do doente a transportar, incluindo o nome, data de nascimento, morada completa, número de identificação de doente do SNS, e situação de migrante, se for o caso;\n\nc) Identificação da entidade requisitante;\n\nd) Local de prescrição;\n\ne) Local de origem (identificação com morada completa, incluindo os sete dígitos do código postal);\n\nf) Local de destino (identificação com morada completa, incluindo os sete dígitos do código postal);\n\ng) Identificação do médico prescritor, da qual constem obrigatoriamente o nome completo, o número de cédula profissional e a respetiva especialidade;\n\nh) Justificação da necessidade de acompanhante, caso seja prescrito;\n\ni) Modalidade de transporte requisitado e motivos determinantes da escolha do tipo de transporte quando diferente de veículo dedicado ao transporte de doentes (VDTD) e de transporte múltiplo de doentes;\n\nj) Agendamento do número de deslocações mensais previstas;\n\nk) Autorização pelo responsável da entidade requisitante ou da pessoa em que este delegar tal competência.\n\n5 - Na requisição devem constar ainda as condições em que o transporte deve ocorrer, nomeadamente se o doente necessita de ventilação, oxigénio, monitorização, isolamento, transporte em maca, cadeira de rodas, acompanhante e acompanhamento de profissional de saúde.\n\n6 - Na requisição ou pedido de transporte (conjunto de requisições para um mesmo agrupamento) devem ainda, aquando da realização do transporte, para efeitos de faturação e conferência do pagamento do transporte, constar obrigatoriamente os seguintes elementos:\n\na) Relativamente ao transportador:\n\ni) Matrícula do veículo transportador;\n\nii) Número do certificado de vistoria do INEM;\n\niii) Identificação do motorista e do tripulante, quando este último for exigido;\n\niv) Número de doentes e acompanhantes transportados;\n\nv) Data e hora da deslocação;\n\nvi) Local de origem e de destino;\n\nvii) Quilómetros a contabilizar;\n\nviii) Indicação de fornecimento de oxigénio, kit de parto, ventilador ou equipamento de monitorização;\n\nix) Indicação do tempo de espera mediante formato (hora e minutos - HH: MM);\n\nx) Identificação de outros fatores necessários ao cálculo do preço;\n\nb) Relativamente ao prestador dos cuidados de saúde de cujo acesso o transporte é instrumental:\n\ni) Dia da prestação de cuidados de saúde;\n\nii) Local da prestação de cuidados de saúde;\n\niii) Hora de entrada do doente no local de prestação dos cuidados de saúde e hora de conclusão da prestação de cuidados de saúde.\n\n7 - A omissão de quaisquer dos elementos referidos no n.º 4 determina a invalidade da requisição, com exceção da alínea h) do n.º 4.\n\n8 - A omissão de qualquer dos elementos referidos no n.º 6, à exceção das subalíneas viii) e ix) da alínea a), invalida a respetiva faturação.\n\n9 - A requisição de transporte é efetuada por via informática através de aplicação de gestão integrada de transporte (AGIT), com base na informação inicial gerada pelo software de apoio à atividade médica (SAM ou equivalente).\n\n10 - Após a introdução na AGIT, a requisição do transporte é confirmada pelo responsável da entidade requisitante.\n\n11 - A requisição deve ser disponibilizada ao transportador através da AGIT, antes da realização do transporte.\n\n12 - A requisição deve ainda ser disponibilizada à entidade prestadora dos cuidados de saúde, através da AGIT, nos termos dos n.ºs 4 e 5 do presente artigo.\n\n13 - Para garantir a integridade da informação, deve existir uma interligação entre as diferentes aplicações informáticas, nomeadamente entre o software de apoio à atividade médica e a AGIT.\n\n14 - A AGIT deve possibilitar o acesso da entidade requisitante, do transportador, da entidade prestadora de serviço e da entidade supervisora.\n\n15 - Só são válidas as requisições de transporte efetuadas através de AGIT, sendo apenas admissível a emissão manual de requisição de transporte no caso de inoperacionalidade do sistema informático ou nos cuidados prestados no domicílio, obrigando nestas situações à transcrição posterior da requisição para AGIT.\n\n> Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01."
+  },
+  "1144444475": {
+   "fragment_id": "1143894775",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão de transportes",
+   "in_force_from": "2022-07-04",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01."
+   ],
+   "markdown": "###### Artigo 4.º — Gestão de transportes\n\n1 - O transporte deve ser programado e requisitado com a antecedência mínima de 48 horas.\n\n2 - Em situações pontuais e de natureza excecional, o prazo referido no número anterior pode não ser observado desde que devidamente autorizado e exista acordo entre a entidade requisitante e a transportadora.\n\n3 - A hora limite de aceitação tácita de aprovação/autorização de requisições do transporte diária, no sistema informático, ocorre até às 15 horas e 30 minutos.\n\n4 - As prescrições de transportes para agendamento para o dia «n + 1», e aprovadas para além da hora de aceitação tácita do dia «n», não serão atribuíveis a nenhuma transportadora, produzindo efeitos apenas no dia «n + 2», sendo estes pedidos de transporte, normal e automaticamente, agrupados com os restantes.\n\n5 - Para qualquer outra autorização dada depois das 15 horas e 30 minutos, o pedido de transporte é objeto de agrupamento com os restantes pedidos no dia seguinte.\n\n6 - Os pedidos de transporte são agrupados tendo em conta os horários das prestações de cuidados às quais os doentes se destinam, de acordo com:\n\na) Se o destino se situar, preferencialmente, dentro dos limites geográficos do concelho de origem dos doentes ou num raio não superior a 10 km, estes são agrupados com intervalos, entre a prestação do primeiro doente e a do último, de uma hora;\n\nb) Caso o destino se situe fora do concelho de origem dos doentes, o intervalo entre a prestação do primeiro doente e a do último pode ser de duas ou quatro horas, consoante o número de quilómetros a percorrer seja, respetivamente, inferior ou superior ao número de quilómetros a fixar por cada entidade responsável pela organização do transporte em função das suas caraterísticas geográficas, num intervalo de 100 km a 130 km.\n\n7 - Na otimização dos percursos deve ser aplicada a regra do desvio máximo, ou seja, podendo ser agrupados os doentes, para um percurso e ao longo do mesmo, para além das freguesias e concelhos, desde que não exista um desvio superior a 10 km ou 30 minutos, inerente a cada recolha de doentes para o transporte único em apreço, sendo observados os limites referidos na alínea b) do número anterior.\n\n8 - Na gestão das requisições importa assegurar que:\n\na) As moradas são completas com os sete dígitos do código postal de origem e de destino do transporte a efetuar;\n\nb) Todas as requisições de transporte são efetuadas e autorizadas previamente e de forma automática na AGIT;\n\nc) Todos os agendamentos de transportes tenham sempre as respetivas datas e horas associadas, de modo a permitir os agrupamentos de doentes em transportes múltiplos;\n\nd) É utilizado, preferencialmente, o transporte múltiplo e o transporte em VDTD;\n\ne) Existe criação automática de agrupamentos, no caso de transportes múltiplos, de modo a que seja utilizada a capacidade máxima do veículo, tendo em conta o destino e a hora das respetivas prestações de cuidados de saúde, e demais características da prescrição.\n\n> Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01."
+  },
+  "1144444675": {
+   "fragment_id": "1143895975",
+   "type": 11,
+   "heading": "Artigo 10.º — Faturação",
+   "in_force_from": "2022-07-04",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01.",
+    "Alterado pelo/a [Despacho n.º 8705/2012 - Diário da República n.º 125/2012, Série II de 2012-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/8705-2012-1611032), em vigor a partir de 2012-07-04, com efeitos a partir de 2012-06-01."
+   ],
+   "markdown": "###### Artigo 10.º — Faturação\n\n1 - A responsabilidade pelo pagamento dos encargos com transporte, nos termos previstos na Portaria n.º 142-B/2012, de 15 de maio, é das entidades referidas no seu artigo 8.º, sem prejuízo do regime previsto no n.º 5 do seu artigo 4.º\n\n2 - O «tempo de espera» é contabilizado, apenas nas deslocações superiores a 15 km ou 20 km, conforme se trate de transporte em VDTD ou em ambulância, por agrupamento de doentes e não por cada doente, não sendo contabilizada a primeira hora de espera.\n\n3 - O valor da segunda hora e subsequentes de tempo de espera, nas deslocações superiores a 15 km ou 20 km, conforme se trate de transporte em VDTD ou em ambulância, é calculado, por parte da transportadora, por frações de minutos, do seguinte modo:\n\n([hora de saída do último doente no prestador de serviços clínicos - hora de entrada do último doente de um prestador de serviços clínicos] - a primeira hora de espera) x (o preço da hora de espera)\n\n4 - Para além de quatro horas de espera, excetuando a primeira, é necessário a apresentação sempre de uma justificação da entidade prestadora do ato clínico e a sua respetiva autorização pela entidade responsável pelo encargo financeiro.\n\n5 - Quando ocorram sobreposições de matrículas de viaturas e de motoristas, entre agrupamentos de transporte de doentes, bem como quando se tratem de frações de tempo inerentes à primeira hora de espera, não são aceites as respetivas faturas.\n\n6 - A faturação relativa à ministração de produtos ou procedimentos clínicos só é aceite se prescrita previamente pelo médico, a não ser que tenha ocorrido um caso excecional devidamente justificado e aprovado, pelo órgão de gestão da entidade responsável pelo encargo, para efeitos de faturação.\n\n7 - No caso de existir faturação por «taxa de saída», apenas para deslocações iguais ou inferiores a 15 km ou 20 km, conforme se trate de transporte em VDTD ou em ambulância, a mesma não pode ser efetuada com junção de quilómetros e vice-versa.\n\n8 - A regra de cálculo da distância percorrida em quilómetros está associada ao doente, em transporte múltiplo, que efetuou um maior trajeto até ao seu destino, designado «primeiro doente».\n\n9 - No cálculo do valor relativo ao acompanhante, quando prescrito, não se aplica o disposto no número anterior, mas apenas a distância associada ao doente concreto que foi acompanhado.\n\n10 - O valor da «taxa de saída» aplicado apenas para deslocações iguais ou inferiores a 15 km ou 20 km, conforme se trate de transporte em VDTD ou em ambulância, é o seguinte:\n\na) Por cada doente e acompanhante transportado, quando efetuado em ambulâncias do Tipo A1 (singular) e Tipo A2 (múltiplo), até ao limite da lotação do veículo: (euro) 10;\n\nb) Por cada doente e acompanhante transportados, quando efetuado em VDTD, até ao limite da lotação do veículo: (euro) 9.\n\n11 - (Revogado.)\n\n12 - A contabilização dos quilómetros de serviço de transporte de doentes em ambulância ou VDTD é apurada pela distância percorrida entre o local da origem do prestador de serviços de transporte e o regresso ao mesmo.\n\n13 - A base de cálculo das distâncias tem de ter uma única metodologia em todo o país e deve estar associada a um referencial único nacional, acrescidos de outros aferidores que acrescentem valor qualitativo a este cálculo.\n\n14 - (Revogado.)\n\n15 - Nos casos previstos no n.º 2 do artigo 11.º da Portaria n.º 142-B/2012, de 15 de maio, para efeitos de faturação e auditoria, terá de ser comprovado o contacto prévio com o CODU através da indicação da hora e do número de telefone pelo qual o mesmo foi realizado.\n\n16 - Nos casos de não realização do serviço de transporte, previamente autorizado e aceite, por causa imputável ao doente ou ao SNS, a deslocação deve ser faturada pela transportadora à entidade requisitante, com base na distância existente entre o seu local de saída e o local de origem do doente (ida e volta).\n\n17 - Sem prejuízo da aplicação de outras regras por parte dos serviços e estabelecimentos do SNS, no âmbito dos respetivos processos de contratação nos casos em que existirem falhas de transporte de doentes por causa imputável à transportadora devidamente requisitados nos termos do presente regulamento, deverá ser deduzido na faturação do transportador o valor correspondente ao transporte em falta.\n\n18 - O disposto nos números anteriores não prejudica, nos processos de contratação dos serviços do transporte, a obtenção de condições consideradas mais vantajosas para o SNS.\n\n19 - Na situação dos doentes abrangidos pelo artigo 4.º da Portaria n.º 142-B/2012, de 15 de maio, as entidades do SNS devem cobrar ao doente o valor correspondente à sua quota-parte do inerente encargo e proceder à emissão do respetivo recibo, nos termos seguintes:\n\na) Quando exista a possibilidade de cálculo imediato do valor a suportar pelo utente, a cobrança deve ser feita no ato da requisição/agendamento do transporte, devendo ser efetuado informaticamente o registo do pagamento realizado pelo utente;\n\nb) Caso não seja possível no ato da requisição/agendamento do transporte apurar objetivamente o valor a suportar pelo utente, deverá ser emitida, posteriormente, uma nota de débito ao utente, a qual deve ser liquidada no prazo máximo de 30 dias.\n\n20 - A verificação do limite máximo do valor a pagar por mês, previsto no n.º 5 do artigo 4.º da Portaria n.º 142-B/2012, de 15 de maio, é objeto de prova documental (recibos) a efetuar por parte do utente.\n\n21 - O fecho contabilístico do mês ocorre até ao dia 10 do mês seguinte.\n\n22 - A faturação pendente não pode exceder os 180 dias para ser apresentada e ou justificada junto dos respetivos serviços do SNS. Para além desse prazo, será devolvida às transportadoras em causa.\n\n> Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01.\n\n> Alterado pelo/a [Despacho n.º 8705/2012 - Diário da República n.º 125/2012, Série II de 2012-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/8705-2012-1611032), em vigor a partir de 2012-07-04, com efeitos a partir de 2012-06-01."
+  },
+  "1144445075": {
+   "fragment_id": "1143895975",
+   "type": 11,
+   "heading": "Artigo 10.º — Faturação",
+   "in_force_from": "2022-07-10",
+   "changed_by": [
+    "Alterado pelo/a [Despacho n.º 8150-B/2022 - Diário da República n.º 128/2022, 1º Suplemento, Série II de 2022-07-05](https://diariodarepublica.pt/dr/detalhe/despacho/8150-b-2022-185715788), em vigor a partir de 2022-07-10, com efeitos a partir de 2022-07-01.",
+    "Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01.",
+    "Alterado pelo/a [Despacho n.º 8705/2012 - Diário da República n.º 125/2012, Série II de 2012-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/8705-2012-1611032), em vigor a partir de 2012-07-04, com efeitos a partir de 2012-06-01."
+   ],
+   "markdown": "###### Artigo 10.º — Faturação\n\n1 - A responsabilidade pelo pagamento dos encargos com transporte, nos termos previstos na Portaria n.º 142-B/2012, de 15 de maio, é das entidades referidas no seu artigo 8.º, sem prejuízo do regime previsto no n.º 5 do seu artigo 4.º\n\n2 - O «tempo de espera» é contabilizado, apenas nas deslocações superiores a 15 km, por agrupamento de doentes e não por cada doente, não sendo contabilizada a primeira hora de espera.\n\n3 - O valor da segunda hora e subsequentes de tempo de espera, nas deslocações superiores a 15 km, é calculado, por parte da transportadora, por frações de minutos, do seguinte modo:\n\n([hora de saída do último doente no prestador de serviços clínicos - hora de entrada do último doente de um prestador de serviços clínicos] - a primeira hora de espera) x (o preço da hora de espera)\n\n4 - Para além de quatro horas de espera, excetuando a primeira, é necessário a apresentação sempre de uma justificação da entidade prestadora do ato clínico e a sua respetiva autorização pela entidade responsável pelo encargo financeiro.\n\n5 - Quando ocorram sobreposições de matrículas de viaturas e de motoristas, entre agrupamentos de transporte de doentes, bem como quando se tratem de frações de tempo inerentes à primeira hora de espera, não são aceites as respetivas faturas.\n\n6 - A faturação relativa à ministração de produtos ou procedimentos clínicos só é aceite se prescrita previamente pelo médico, a não ser que tenha ocorrido um caso excecional devidamente justificado e aprovado, pelo órgão de gestão da entidade responsável pelo encargo, para efeitos de faturação.\n\n7 - No caso de existir faturação por «taxa de saída», apenas para deslocações iguais ou inferiores a 15 km, a mesma não pode ser efetuada com junção de quilómetros e vice-versa.\n\n8 - A regra de cálculo da distância percorrida em quilómetros está associada ao doente, em transporte múltiplo, que efetuou um maior trajeto até ao seu destino, designado «primeiro doente».\n\n9 - No cálculo do valor relativo ao acompanhante, quando prescrito, não se aplica o disposto no número anterior, mas apenas a distância associada ao doente concreto que foi acompanhado.\n\n10 - O valor da «taxa de saída» aplicado apenas para deslocações iguais ou inferiores a 15 km é o seguinte:\n\na) Por cada doente e acompanhante transportado, quando efetuado em ambulâncias do Tipo A1 (singular) e Tipo A2 (múltiplo), até ao limite da lotação do veículo: (euro) 10;\n\nb) Por cada doente e acompanhante transportados, quando efetuado em VDTD, até ao limite da lotação do veículo: (euro) 9.\n\n11 - (Revogado.)\n\n12 - A contabilização dos quilómetros de serviço de transporte de doentes em ambulância ou VDTD é apurada pela distância percorrida entre o local da origem do prestador de serviços de transporte e o regresso ao mesmo.\n\n13 - A base de cálculo das distâncias tem de ter uma única metodologia em todo o país e deve estar associada a um referencial único nacional, acrescidos de outros aferidores que acrescentem valor qualitativo a este cálculo.\n\n14 - (Revogado.)\n\n15 - Nos casos previstos no n.º 2 do artigo 11.º da Portaria n.º 142-B/2012, de 15 de maio, para efeitos de faturação e auditoria, terá de ser comprovado o contacto prévio com o CODU através da indicação da hora e do número de telefone pelo qual o mesmo foi realizado.\n\n16 - Nos casos de não realização do serviço de transporte, previamente autorizado e aceite, por causa imputável ao doente ou ao SNS, a deslocação deve ser faturada pela transportadora à entidade requisitante, com base na distância existente entre o seu local de saída e o local de origem do doente (ida e volta).\n\n17 - Sem prejuízo da aplicação de outras regras por parte dos serviços e estabelecimentos do SNS, no âmbito dos respetivos processos de contratação nos casos em que existirem falhas de transporte de doentes por causa imputável à transportadora devidamente requisitados nos termos do presente regulamento, deverá ser deduzido na faturação do transportador o valor correspondente ao transporte em falta.\n\n18 - O disposto nos números anteriores não prejudica, nos processos de contratação dos serviços do transporte, a obtenção de condições consideradas mais vantajosas para o SNS.\n\n19 - Na situação dos doentes abrangidos pelo artigo 4.º da Portaria n.º 142-B/2012, de 15 de maio, as entidades do SNS devem cobrar ao doente o valor correspondente à sua quota-parte do inerente encargo e proceder à emissão do respetivo recibo, nos termos seguintes:\n\na) Quando exista a possibilidade de cálculo imediato do valor a suportar pelo utente, a cobrança deve ser feita no ato da requisição/agendamento do transporte, devendo ser efetuado informaticamente o registo do pagamento realizado pelo utente;\n\nb) Caso não seja possível no ato da requisição/agendamento do transporte apurar objetivamente o valor a suportar pelo utente, deverá ser emitida, posteriormente, uma nota de débito ao utente, a qual deve ser liquidada no prazo máximo de 30 dias.\n\n20 - A verificação do limite máximo do valor a pagar por mês, previsto no n.º 5 do artigo 4.º da Portaria n.º 142-B/2012, de 15 de maio, é objeto de prova documental (recibos) a efetuar por parte do utente.\n\n21 - O fecho contabilístico do mês ocorre até ao dia 10 do mês seguinte.\n\n22 - A faturação pendente não pode exceder os 180 dias para ser apresentada e ou justificada junto dos respetivos serviços do SNS. Para além desse prazo, será devolvida às transportadoras em causa.\n\n> Alterado pelo/a [Despacho n.º 8150-B/2022 - Diário da República n.º 128/2022, 1º Suplemento, Série II de 2022-07-05](https://diariodarepublica.pt/dr/detalhe/despacho/8150-b-2022-185715788), em vigor a partir de 2022-07-10, com efeitos a partir de 2022-07-01.\n\n> Alterado pelo/a [Despacho n.º 7980-B/2022 - Diário da República n.º 124/2022, 1º Suplemento, Série II de 2022-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/7980-b-2022-185390578), em vigor a partir de 2022-07-04, com efeitos a partir de 2022-07-01.\n\n> Alterado pelo/a [Despacho n.º 8705/2012 - Diário da República n.º 125/2012, Série II de 2012-06-29](https://diariodarepublica.pt/dr/detalhe/despacho/8705-2012-1611032), em vigor a partir de 2012-07-04, com efeitos a partir de 2012-06-01."
+  }
+ }
+}

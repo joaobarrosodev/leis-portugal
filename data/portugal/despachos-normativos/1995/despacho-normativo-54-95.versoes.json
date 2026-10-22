@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:565394:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/despacho-normativo/1995-169773218",
+ "dre_path": "/dr/detalhe/despacho-normativo/54-1995-565394",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-09-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "169774877"
+   ]
+  },
+  {
+   "date": "1996-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233551:por",
+     "title": "Despacho Normativo n.º 41/96",
+     "published": "1996-10-11",
+     "dre_path": "/dr/detalhe/despacho-normativo/41-1996-233551"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169774875"
+   ]
+  },
+  {
+   "date": "1997-06-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:367439:por",
+     "title": "Despacho Normativo n.º 29/97",
+     "published": "1997-06-16",
+     "dre_path": "/dr/detalhe/despacho-normativo/29-1997-367439"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "169774877"
+   ]
+  }
+ ],
+ "fragments": {
+  "169774877": {
+   "fragment_id": "169773219",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-06-21",
+   "changed_by": [],
+   "markdown": "Despacho Normativo n.º 54/95\n\nO Decreto-Lei n.º 177/94, de 27 de Junho, que criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II, veio estatuir, na alínea b) do n.º 1 do seu artigo 3.º, que uma das formas de prossecução dos objectivos do Programa se concretiza através de acções voluntaristas dependentes de iniciativas da Administração Pública, cujo modo de implementação foi definido pelo Despacho Normativo n.º 622/94, de 23 de Agosto.\n\nTrata-se de acções importantes para o desenvolvimento industrial que não estão cobertas pelos sistemas de incentivos do Programa e que têm por objectivo o desenvolvimento de actividades destinadas a colmatar deficiências detectadas nos vários domínios relacionados com a promoção de factores dinâmicos de competitividade das empresas.\n\nO n.º 2 do artigo 3.º do acima citado Despacho Normativo n.º 622/94, ao definir as equipas de projecto, refere-se aos organismos mencionados no n.º 1 como responsáveis pela implementação e gestão das medidas e acções.\n\nNão pode, no entanto, interpretar-se aquela disposição no sentido de tais funções caberem em exclusivo àqueles organismos e entidades.\n\nExistem, na verdade, entidades externas à Administração Pública cuja vocação, perfil, competência técnica e idoneidade para o desempenho daquelas funções aconselha a que, nos termos do n.º 1 do artigo 31.º do Decreto-Lei n.º 99/94, de 19 de Abril, lhes seja confiada a gestão técnica, administrativa ou financeira de determinadas acções voluntaristas, como componentes que são de uma intervenção operacional.\n\nDe salientar, no que respeita aos contratos-programa, a inclusão imperativa nestes das regras a que a entidade a quem é atribuída a gestão de acções fica sujeita em matéria de aquisição de bens e serviços.\n\nIsto porque se, nos termos do n.º 1 do artigo 31.º do Decreto-Lei n.º 99/94, de 19 de Abril, e da alínea g) do n.º 2 do artigo 23.º do Decreto-Lei n.º 55/95, de 29 de Março, este último diploma não é aplicável neste campo, não se segue daí que a Administração não possa impor, contratualmente, regras de disciplina naquela matéria.\n\nO presente despacho normativo, em complemento do Despacho Normativo n.º 622/94, destina-se, assim, a definir um conjunto de regras básicas relativas à atribuição da gestão de componentes em matéria de acções voluntaristas, bem como à formulação dos princípios em que devem assentar os contratos-programas respectivos.\n\nNestes termos, determino:\n\n1 - Sem prejuízo do disposto no n.º 1 do artigo 3.º do Despacho Normativo n.º 622/94, de 23 de Agosto, o Ministro da Economia pode atribuir a entidades públicas ou privadas a gestão técnica, administrativa ou financeira das acções voluntaristas que seguidamente se indicam, previstas no artigo 2.º daquele diploma, que passam a designar-se por Acções D - Apoio a iniciativas voluntaristas dinamizadas através de contratos-programas, no âmbito das seguintes medidas:\n\na) Da medida n.º 4.1 'Promoção de missões de qualidade de design industrial';\n\nb) Da medida n.º 4.2 'Cooperação interempresas e redimensionamento empresarial';\n\nc) Da medida n.º 4.3 'Internacionalização das estratégias industriais';\n\nd) Da medida n.º 4.4 'Promoção da inovação e transferência tecnológica';\n\ne) Da medida n.º 4.5 'Missões de sensibilização ambiental';\n\nf) Da medida n.º 4.6 'Missões de produtividade e projectos de demonstração';\n\ng) Da medida n.º 4.7 'Promoção das infra-estruturas tecnológicas junto da indústria';\n\nh) Da medida n.º 4.8 'Estratégias de especialização e mutação da estrutura produtiva';\n\ni) Da medida n.º 4.9 'Missões de eficiência energética'.\n\n2.º As entidades externas a que se reporta o número anterior deverão reunir cumulativamente os seguintes requisitos:\n\na) Terem, como objectivo estatuariamente definido, a actuação em áreas directamente relacionadas com a medida em que se inserem as acções a realizar;\n\nb) Demonstrarem, nomeadamente pelas actividades anteriormente desenvolvidas, adequadas vocação e experiência para a prossecução dos objectivos e dos padrões de qualidade a atingir com as acções a desenvolve;\n\nc) Demonstrarem capacidade técnica, financeira e organizativa, bem como disporem de recursos humanos e materiais adequados à realização das acções pretendidas.\n\n3.º - 1 - Compete aos organismos ou entidades a que se refere o artigo 3.º do Despacho Normativo n.º 622/94 seleccionar as entidades e propor a atribuição da gestão das acções, nos termos do n.º 1.º\n\n2 - Com a proposta será apresentada minuta de contrato-programa destinado a definir as acções, bem como os objectivos e metas a alcançar.\n\n3 - A proposta e a minuta de contrato-programa serão submetidas ao Ministro da Indústria e Energia pelo gestor do PEDIDP II, devidamente informadas.\n\n4.º O contrato-programa a que se refere o n.º 2 do número anterior é celebrado entre o organismo implementador como primeiro outorgante, a entidade a quem é atribuída a gestão como segundo outorgante e o IAPMEI, na sua qualidade de gestor financeiro do PEDIP II, como terceiro outorgante.\n\n5.º - 1 - Do contrato-programa constarão, designadamente:\n\na) A definição das acções cuja gestão é atribuída, bem como as metas do contrato;\n\nb) O período de vigência do contrato, com as datas do respectivo início e termo;\n\nc) Os direitos e obrigações das partes contratantes;\n\nd) A definição dos instrumentos financeiros utilizáveis;\n\ne) A definição das regras a que fica sujeito o segundo outorgante relativamente à aquisição de bens e serviços para cumprimento do objecto do contrato;\n\nf) As condições de financiamento e de pagamento;\n\ng) A estrutura de acompanhamento, controlo e fiscalização da execução do contrato;\n\nh) A penalização face a situações de incumprimento.\n\n2 - O segundo outorgante fica obrigado a elaborar relatórios trimestrais nos termos previstos no contrato-programa a que se refere o n.º 3.º, os quais serão remetidos ao primeiro outorgante para efeitos de apresentação ao gestor do PEDIP II.\n\nMinistério da Indústria e Energia, 31 de Agosto de 1995. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral."
+  },
+  "169774875": {
+   "fragment_id": "169773219",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1996-10-16",
+   "changed_by": [
+    "Alterado pelo/a [Despacho Normativo n.º 41/96 - Diário da República n.º 236/1996, Série I-B de 1996-10-11](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1996-233551), em vigor a partir de 1996-10-16"
+   ],
+   "markdown": "Despacho Normativo n.º 54/95\n\nO Decreto-Lei n.º 177/94, de 27 de Junho, que criou o Programa Estratégico de Dinamização e Modernização da Indústria Portuguesa - PEDIP II, veio estatuir, na alínea b) do n.º 1 do seu artigo 3.º, que uma das formas de prossecução dos objectivos do Programa se concretiza através de acções voluntaristas dependentes de iniciativas da Administração Pública, cujo modo de implementação foi definido pelo Despacho Normativo n.º 622/94, de 23 de Agosto.\n\nTrata-se de acções importantes para o desenvolvimento industrial que não estão cobertas pelos sistemas de incentivos do Programa e que têm por objectivo o desenvolvimento de actividades destinadas a colmatar deficiências detectadas nos vários domínios relacionados com a promoção de factores dinâmicos de competitividade das empresas.\n\nO n.º 2 do artigo 3.º do acima citado Despacho Normativo n.º 622/94, ao definir as equipas de projecto, refere-se aos organismos mencionados no n.º 1 como responsáveis pela implementação e gestão das medidas e acções.\n\nNão pode, no entanto, interpretar-se aquela disposição no sentido de tais funções caberem em exclusivo àqueles organismos e entidades.\n\nExistem, na verdade, entidades externas à Administração Pública cuja vocação, perfil, competência técnica e idoneidade para o desempenho daquelas funções aconselha a que, nos termos do n.º 1 do artigo 31.º do Decreto-Lei n.º 99/94, de 19 de Abril, lhes seja confiada a gestão técnica, administrativa ou financeira de determinadas acções voluntaristas, como componentes que são de uma intervenção operacional.\n\nDe salientar, no que respeita aos contratos-programa, a inclusão imperativa nestes das regras a que a entidade a quem é atribuída a gestão de acções fica sujeita em matéria de aquisição de bens e serviços.\n\nIsto porque se, nos termos do n.º 1 do artigo 31.º do Decreto-Lei n.º 99/94, de 19 de Abril, e da alínea g) do n.º 2 do artigo 23.º do Decreto-Lei n.º 55/95, de 29 de Março, este último diploma não é aplicável neste campo, não se segue daí que a Administração não possa impor, contratualmente, regras de disciplina naquela matéria.\n\nO presente despacho normativo, em complemento do Despacho Normativo n.º 622/94, destina-se, assim, a definir um conjunto de regras básicas relativas à atribuição da gestão de componentes em matéria de acções voluntaristas, bem como à formulação dos princípios em que devem assentar os contratos-programas respectivos.\n\nNestes termos, determino:\n\n1.º Sem prejuízo do disposto no n.º 1 do artigo 3.º do Despacho Normativo n.º 622/94, de 23 de Agosto, o Ministro da Indústria e Energia pode atribuir a entidades públicas ou privadas a gestão técnica, administrativa ou financeira das seguintes acções voluntaristas previstas no artigo 2.º daquele despacho:\n\na) No âmbito da medida n.º 4.1 «Promoção de missões de qualidade e de design industrial»;\n\nb) No âmbito da medida n.º 4.4 «Promoção da inovação e transferência tecnológica»;\n\nc) No âmbito da medida n.º 4.8 «Estratégias de especialização e mutação da estrutura produtiva»;\n\nd) No âmbito da medida n.º 4.9 «Promoção das missões de eficiência energética».\n\ne) No âmbito da medida 4.3 'Internacionalização das estratégias industriais'.\n\n2.º As entidades externas a que se reporta o número anterior deverão reunir cumulativamente os seguintes requisitos:\n\na) Terem, como objectivo estatuariamente definido, a actuação em áreas directamente relacionadas com a medida em que se inserem as acções a realizar;\n\nb) Demonstrarem, nomeadamente pelas actividades anteriormente desenvolvidas, adequadas vocação e experiência para a prossecução dos objectivos e dos padrões de qualidade a atingir com as acções a desenvolve;\n\nc) Demonstrarem capacidade técnica, financeira e organizativa, bem como disporem de recursos humanos e materiais adequados à realização das acções pretendidas.\n\n3.º - 1 - Compete aos organismos ou entidades a que se refere o artigo 3.º do Despacho Normativo n.º 622/94 seleccionar as entidades e propor a atribuição da gestão das acções, nos termos do n.º 1.º\n\n2 - Com a proposta será apresentada minuta de contrato-programa destinado a definir as acções, bem como os objectivos e metas a alcançar.\n\n3 - A proposta e a minuta de contrato-programa serão submetidas ao Ministro da Indústria e Energia pelo gestor do PEDIDP II, devidamente informadas.\n\n4.º O contrato-programa a que se refere o n.º 2 do número anterior é celebrado entre o organismo implementador como primeiro outorgante, a entidade a quem é atribuída a gestão como segundo outorgante e o IAPMEI, na sua qualidade de gestor financeiro do PEDIP II, como terceiro outorgante.\n\n5.º - 1 - Do contrato-programa constarão, designadamente:\n\na) A definição das acções cuja gestão é atribuída, bem como as metas do contrato;\n\nb) O período de vigência do contrato, com as datas do respectivo início e termo;\n\nc) Os direitos e obrigações das partes contratantes;\n\nd) A definição dos instrumentos financeiros utilizáveis;\n\ne) A definição das regras a que fica sujeito o segundo outorgante relativamente à aquisição de bens e serviços para cumprimento do objecto do contrato;\n\nf) As condições de financiamento e de pagamento;\n\ng) A estrutura de acompanhamento, controlo e fiscalização da execução do contrato;\n\nh) A penalização face a situações de incumprimento.\n\n2 - O segundo outorgante fica obrigado a elaborar relatórios trimestrais nos termos previstos no contrato-programa a que se refere o n.º 3.º, os quais serão remetidos ao primeiro outorgante para efeitos de apresentação ao gestor do PEDIP II.\n\nMinistério da Indústria e Energia, 31 de Agosto de 1995. - O Ministro da Indústria e Energia, Luís Fernando Mira Amaral.\n\n> Alterado pelo/a [Despacho Normativo n.º 41/96 - Diário da República n.º 236/1996, Série I-B de 1996-10-11](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/41-1996-233551), em vigor a partir de 1996-10-16"
+  }
+ }
+}

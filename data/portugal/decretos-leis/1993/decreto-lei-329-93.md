@@ -1,0 +1,1433 @@
+---
+schema_version: '1.0'
+id: pt:dre:653127:por
+title: Decreto-Lei n.º 329/93
+short_title: null
+summary: Estabelece o regime de protecção na velhice e na invalidez dos beneficiários do regime geral de segurança social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 329/93
+official_date: null
+publication_date: '1993-09-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 226/1993, Série I-A de 1993-09-25
+  number: '226'
+  series: I
+  supplement: null
+  pages: 5378 - 5391
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/09/226a00/53785391.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-06-01'
+version_history:
+  file: decreto-lei-329-93.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1993-09-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-04-01'
+    amending: pt:dre:489988:por
+    amending_title: Decreto-Lei n.º 9/99
+    changes:
+    - Adita Artigo 38.º-A
+    - Adita Artigo 38.º-B
+    - Altera Artigo 20.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+  - date: '1999-08-01'
+    amending: pt:dre:357518:por
+    amending_title: Decreto-Lei n.º 265/99
+    changes:
+    - Altera Artigo 5.º
+    - Revoga Secção IV
+    - Revoga Secção II
+    - Revoga Artigo 52.º
+    - Revoga Secção III
+    - Revoga Artigo 84.º
+    - Revoga Artigo 88.º
+  - date: '2007-06-01'
+    amending: pt:dre:520669:por
+    amending_title: Decreto-Lei n.º 187/2007
+    changes:
+    - Revoga Capítulo I
+    - Revoga Secção I
+    - Revoga Artigo 1.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 3.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Secção II
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Secção III
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 13.º
+    - Revoga Subsecção I
+    - Revoga Artigo 31.º
+    - Revoga Artigo 32.º
+    - Revoga Artigo 33.º
+    - Revoga Artigo 34.º
+    - Revoga Artigo 35.º
+    - Revoga Artigo 36.º
+    - Revoga Artigo 37.º
+    - Revoga Artigo 38.º
+    - Revoga Artigo 38.º-A
+    - Revoga Artigo 38.º-B
+    - Revoga Artigo 39.º
+    - Revoga Subsecção II
+    - Revoga Subsecção III
+    - Revoga Artigo 43.º
+    - Revoga Artigo 44.º
+    - Revoga Artigo 45.º
+    - Revoga Artigo 48.º
+    - Revoga Artigo 49.º
+    - Revoga Capítulo IV
+    - Revoga Artigo 50.º
+    - Revoga Artigo 51.º
+    - Revoga Artigo 53.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/329/1993/p/cons/20070510/pt/html
+  oj: null
+  dre: '653127'
+  dre_path: /dr/detalhe/decreto-lei/329-1993-653127
+  internal: pt:dre:653127:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-1993-653127
+  metadata_url: https://data.dre.pt/eli/dec-lei/329/1993/p/cons/20070510/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-211056787
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1993-211056787
+  retrieved_at: '2026-10-22T12:55:53Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: bdb129cbbfc416ef5254e14dc4cdc2d224c3d93b3c734d9a93182321cc11a742
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:55:53Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-329-93.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acumulação de Pensões
+- Acumulação de Pensões e Remunerações
+- Cálculo de Pensões
+- Centro Nacional de Pensões
+- Complemento Social de Pensão
+- Contribuições da Segurança Social
+- Administração Pública
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensão Unificada
+- Prestações da Segurança Social
+- Proteção Social
+- Regime Geral da Segurança Social
+- Regime Jurídico
+- Segurança Social
+- Subsídio por Assistência de Terceira Pessoa
+relationships:
+- type: amended_by
+  target: pt:dre:489988:por
+  label: Adita Artigo 38.º-A; Adita Artigo 38.º-B; Altera Artigo 20.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo
+    24.º; Altera Artigo 25.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988
+  date: '1999-01-08'
+- type: amended_by
+  target: pt:dre:357518:por
+  label: Altera Artigo 5.º; Revoga Secção IV; Revoga Secção II; Revoga Artigo 52.º; Revoga Secção III; Revoga Artigo 84.º;
+    Revoga Artigo 88.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518
+  date: '1999-07-14'
+- type: amended_by
+  target: pt:dre:520669:por
+  label: Revoga Capítulo I; Revoga Secção I; Revoga Artigo 1.º; Revoga Artigo 2.º; Revoga Artigo 3.º; Revoga Artigo 4.º; Revoga
+    Artigo 5.º; Revoga Artigo 6.º; Revoga Secção II; Revoga Artigo 7.º; Revoga Artigo 8.º; Revoga Secção III; Revoga Artigo
+    9.º; Revoga Artigo 10.º; Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 13.º; Revoga Subsecção I; Revoga Artigo
+    31.º; Revoga Artigo 32.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669
+  date: '2007-05-10'
+article_structure:
+  article_count: 114
+  section_count: 35
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:55:53Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 329/93
+
+Decreto-Lei n.º 329/93
+
+de 25 de Setembro
+
+1 - As profundas mudanças que nos aspectos sociais, demográficos e económicos se têm feito sentir nos últimos anos apresentam múltiplas e pesadas interdependências com os sistemas de segurança social, condicionando, primordialmente, as alternativas possíveis em matéria de reconhecimento do direito a pensões.
+
+Com efeito, os problemas e desafios que se colocam decorrem de factores que, em Portugal, à semelhança dos demais países europeus, se enquadram no progressivo envelhecimento da população, quer por força do decréscimo da taxa de natalidade, quer pelo crescimento dos níveis de esperança de vida.
+
+O efeito mais consolidado deste envelhecimento na segurança social é o da elevada percentagem de pensionistas em relação ao total de beneficiários activos, além do mais pelos custos acrescidos que provoca e pela incerteza de recursos financeiros a que dá lugar.
+
+Importa, assim, acompanhar os efeitos da evolução verificada nos domínios económico, social e familiar, à luz do binómio respeitante ao reconhecimento do direito às pensões e às respectivas fontes do seu financiamento.
+
+Neste quadro de referências entronca a matéria particular da necessidade de protecção das situações de incapacidade permanente, atentos os objectivos a prosseguir de prevenção de situações de dependência, em maior ou menor escala, que exigem do sistema um esforço de solidariedade que compense a eventual exclusão de pessoas com deficiência.
+
+2 - Acresce que as bases gerais do regime de protecção nas eventualidades de invalidez e velhice, tanto dos trabalhadores por conta de outrem, como dos trabalhadores independentes, têm ainda, em grande parte, como suporte normativo princípios consagrados em legislação dos anos 60, pese, embora, os significativos aperfeiçoamentos e as modificações que foram introduzidas naquele ordenamento normativo, até por força da aprovação da nova Lei de Bases do Sistema de Segurança Social (Lei n.º 28/84, de 14 de Agosto).
+
+Tais factos determinaram, necessariamente, uma acentuada dispersão e proliferação legislativas, nem sempre coerente no seu todo, circunstâncias a todos os títulos desaconselháveis para a correcta definição dos direitos sociais dos cidadãos neste domínio.
+
+Estas insuficiências do aparelho legislativo, confirmadas pela longa experiência da sua aplicação, aconselham a criação de instrumentos de reforço da dimensão económica e social, de desenvolvimento da eficácia das prestações e da eliminação de injustiças sociais, objectivos que o Governo se impõe valorizar cada vez mais e que estão expressamente consagrados nas Grandes Opções do Plano para 1993.
+
+3 - A reforma do regime de pensões do sistema de segurança social, em especial no que respeita às pensões de velhice, impõe-se ainda pelas incongruências e pelos anacronismos que caracterizam o seu actual método de cálculo, que está na origem de distorções e injustiças relativas.
+
+Bastará referir o peso excessivo que apresentam as pensões calculadas com base em carreiras contributivas muito curtas, o que origina um número exagerado de prestações cujo montante não ultrapassa o valor estabelecido como mínimo de pensão.
+
+A inexistência de revalorização das remunerações tomadas em consideração não chega a ser compensada pela considerável abertura do sistema, quando comparado com os de outros países, no que se refere às taxas de formação das pensões.
+
+Outros aspectos há que evidenciam o grau de vulnerabilidade do sistema. É o caso, na sequência da generalização dos subsídios de Natal e de férias aos pensionistas, do pagamento de 14 prestações anuais de pensão, calculadas com base em 12 fracções anuais de salários, para os quais concorrem, no entanto, 14 prestações remuneratórias. É ainda o caso da extrema facilidade com que, em termos de carreira contributiva, se podem preencher prazos de garantia ou contabilizar anos para o cômputo de pensão.
+
+Pode resumir-se, numa palavra, indiscutivelmente preocupante, a situação do sistema de pensões do regime geral de segurança social: assentando o seu financiamento exclusivamente nas receitas das contribuições sobre salários, o seu ordenamento jurídico tem, afinal, de certo modo, penalizado os beneficiários que mais contribuem ou que descontam durante mais tempo.
+
+Compreende-se, assim, que sejam numerosas e significativas as modificações que integram este diploma, na perspectiva de uma ampla reforma do regime de pensões de velhice e de invalidez.
+
+4 - É o que acontece com a medida da uniformização da idade de pensão de velhice aos 65 anos, tendo em vista o estabelecimento, neste domínio, da igualdade de tratamento entre homens e mulheres. Fixa-se, porém, um período transitório de seis anos para a introdução gradual da medida, mediante o aumento, em cada ano, de seis meses no limite da idade de reforma.
+
+De entre as circunstâncias tidas em conta na adopção desta medida salienta-se a situação demográfica do País, caracterizada por acentuado envelhecimento da população e pela maior esperança de vida das mulhetes, bem como a frequente existência de carreiras mais curtas em relação às mulheres, o que aconselha, no seu próprio interesse, o alargamento do período etário a considerar.
+
+5 - Define-se de modo mais preciso e adequado o quadro jurídico em que se inserem as condições técnicas e financeiras em que devem ocorrer regimes de reforma de velhice antecipada, em atenção à natureza das actividades exercidas.
+
+Neste sentido, estabelece-se a necessidade de distinguir entre profissões desgastantes e profissões cujo exercício pressupõe qualidades físicas próprias de determinadas faixas etárias, consagra-se a impossibilidade de a antecipação ultrapassar a idade limite de 60 anos, sem prejuízo das situações mais favoráveis actualmente existentes, e prevê-se ainda a necessidade de financiamento específico, mediante contribuições adicionais ou transferências financeiras adequadas.
+
+6 - O prazo de garantia, ou seja, o período contributivo mínimo para acesso às pensões de velhice, passa dos actuais 120 meses para 15 anos.
+
+Trata-se de uma medida que visa, antes de mais, estimular o desenvolvimento e o reforço da carreira contributiva dos beneficiários, em coerência com a natureza daquelas prestações e os interesses objectivos dos beneficiários, cuja protecção é tanto maior quanto mais amplo for o tempo de descontos.
+
+Com isto não fica prejudicada a protecção nos casos em que os trabalhadores, por motivo de incapacidade ou deficiência adquirida, são forçados a abandonar precocemente o mercado de trabalho, já que se mantém inalterado o prazo de garantia necessário para a atribuição de pensões por motivo de invalidez, bem como a articulação desta com as situações de doença prolongada.
+
+Por último, é ainda de referir que esta medida se articula com o facto, adiante referido, de passar a ser considerado o período de 15 anos para a escolha dos anos a tomar em consideração na determinação da remuneração de referência que serve de base ao cálculo da pensão.
+
+7 - Procede-se, como medida de grande amplitude, à reformulação do método de cálculo das pensões, o qual é constituído por cinco medidas, naturalmente interligadas.
+
+Em primeiro lugar, em cumprimento do preceituado no artigo 27.º da Lei n.º 28/84, de 14 de Agosto, estabelece-se, como medida de grande alcance, a revalorização das remunerações consideradas na determinação da remuneração média que constitui a base de cálculo das pensões, de modo a conferir-lhes um valor actualizado, com referência à data do cálculo de pensão.
+
+Em segundo lugar, prevê-se que seja tomado em consideração um maior período de carreira contributiva (10 melhores anos dos últimos 15), com vista a que a remuneração de referência exprima de forma mais ajustada o último período de actividade profissional. Deste modo, será possível diluir as alterações conjunturais de desvios acentuados das remunerações, evitando, quer prejuízos para os beneficiários, em função da sua carreira laboral, quer para as instituições, neste caso em consequência de certas práticas na declaração dos salários de referência.
+
+Em terceiro lugar, regressa-se à fixação da taxa de formação da pensão em 2% por ano civil, com manutenção da taxa mínima de 30% e da taxa máxima de 80%. Esta última, em conjugação com a revalorização das remunerações, é susceptível de contribuir para uma efectiva melhoria do montante das pensões dos beneficiários com maior carreira contributiva.
+
+Em quarto lugar, considerou-se indispensável o estabelecimento de uma densidade contributiva anual mínima de 120 dias de registo de remunerações por cada ano ou grupo de anos, tendo em vista cercear procedimentos menos correctos na fácil formação da taxa da pensão. Porém, esta medida não põe em causa a protecção das actividades irregulares ou sazonais, na medida em que os anos com menor número de dias são conglobados para perfazer a densidade mínima estabelecida.
+
+Em quinto lugar, consagra-se a previsão de que a remuneração de referência do cálculo da pensão mensal deve exprimir a média aritmética das remunerações de 14 meses, de modo a traduzir o efectivo ganho salarial dos interessados. De qualquer modo, a remuneração de referência apurada serve sempre de base ao cálculo de uma pensão a pagar em 14 mensalidades.
+
+8 - Traz também a marca de uma reforma de fundo a medida que considera como prestação não contributiva, chamada «complemento social», o valor atribuído aos pensionistas que, completando, quando for caso disso, a pensão calculada com base nas remunerações revalorizadas e na carreira contributiva, permite garantir a concessão de um determinado valor mínimo.
+
+Trata-se de tornar transparente e, ao mesmo tempo, coerente todo o esquema das pensões do regime geral, distinguindo a prestação que é devida à carreira contributiva dos pensionistas e o montante que, de modo gratuito, advém da aplicação do princípio da solidariedade baseado numa certa consideração de rendimento mínimo.
+
+Não se trata propriamente de atribuir uma «pensão mínima», como vulgarmente é referido, mas de assegurar que, em complemento da pensão resultante da fórmula de cálculo e, portanto, do esforço contributivo realizado, o pensionista receba uma prestação complementar que garanta um certo mínimo, a estabelecer legalmente.
+
+No entanto, dado que o complemento de pensão é qualificado como prestação do regime não contributivo, estabelece-se, ao mesmo tempo, como exigência de equidade e por motivo de coerência, que o seu valor não pode ser superior ao que se encontrar estabelecido para a pensão social daquele regime.
+
+9 - Não esqueceu o legislador os aspectos que entroncam no aperfeiçoamento do conceito e da natureza da incapacidade permanente, com vista a ultrapassar as dificuldades, também correntes noutros países, de a protecção estabelecida traduzir a correspondência entre a limitação funcional ocorrida e a respectiva incapacidade de ganho.
+
+Deste modo, será possível articular melhor as situações de titularidade de pensões de invalidez e de exercício de actividade profissional, na base do aproveitamento das capacidades remanescentes dos interessados.
+
+Para o efeito, preconiza-se a fixação do critério de perda ou redução da capacidade de ganho na peritagem médico-social a realizar.
+
+10 - Definem-se também no diploma novos critérios relativos ao reembolso das prestações pagas pela segurança social em caso de responsabilização superveniente de terceiro pelo acto ou facto que deu causa à incapacidade.
+
+Neste sentido, caracterizam-se com precisão as situações em que é reconhecido o direito à pensão de invalidez no caso de a incapacidade resultar de acto de terceiro, define-se o limite da responsabilidade de terceiro e estabelecem-se medidas destinadas a impedir que dos acordos indemnizatórios entre o terceiro responsável e o beneficiário possam resultar prejuízos para a segurança social.
+
+11 - Importa, por último, assinalar as medidas consagradas quanto à possibilidade de cumulação, embora com certos condicionalismos, das pensões com outras pensões e das pensões de invalidez com rendimentos resultantes do exercício de actividade profissional.
+
+A adopção de tais princípios impôs, contudo, que fosse estabelecido um conjunto de novos procedimentos, designadamente declarações dos beneficiários e das instituições de segurança social, tendo em vista impedir a concessão indevida de prestações e assim evitando ou minimizando as situações de reembolso. Trata-se, no fundo, de melhorar a transparência e a mútua colaboração, indispensáveis ao relacionamento entre os cidadãos e o sistema de segurança social.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 28/84, de 14 de Agosto, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 113.º, Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669) Revoga o presente diploma, sem prejuízo do seguinte: a) Aos beneficiários cujas prestações de desemprego tenham sido requeridas até à data da entrada em vigor do Decreto-Lei n.º 125/2005, de 3 de Agosto, é aplicável, no cálculo da respectiva pensão, o factor de redução previsto no artigo 38.º-A do presente decreto-lei; b) Aos beneficiários que tenham requerido as suas prestações de desemprego depois da data da entrada em vigor do Decreto-Lei n.º 125/2005, de 3 de Agosto, é aplicável, no cálculo da respectiva pensão, o factor de redução previsto no artigo 36.º do decreto-lei n.º 187/2007, de 10 de maio.
+
+### Capítulo I — Princípios fundamentais
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção I — Natureza e objectivos das prestações
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 1.º — Protecção na invalidez e na velhice
+
+1 - O presente diploma define a protecção nas eventualidades de invalidez e de velhice dos beneficiários com enquadramento obrigatório no regime geral de segurança social, a seguir designado por regime geral.
+
+2 - Não estão abrangidos pela protecção nas eventualidades de invalidez e de velhice, no âmbito do regime geral:
+
+a) Os beneficiários da Caixa de Abono de Família dos Empregados Bancários;
+
+b) Os docentes do ensino particular e cooperativo abrangidos pelos Decretos-Leis n.os 327/85, de 8 de Agosto, e 321/88, de 22 de Setembro.
+
+3 - A invalidez provocada por paramiloidose familiar é objecto de protecção especial, regulada em diploma próprio.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 2.º — Eventualidade invalidez
+
+1 - Integra a eventualidade invalidez toda a situação mórbida, de causa não profissional, determinante de incapacidade permanente para o trabalho.
+
+2 - Para efeitos do disposto no n.º 1 considera-se situação mórbida de causa profissional a que resulta de acidente de trabalho ou de doença profissional.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 3.º — Eventualidade velhice
+
+Integra a eventualidade velhice a situação em que o beneficiário tenha atingido a idade mínima legalmente presumida como adequada para a cessação do exercício da actividade profissional.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 4.º — Modalidades das prestações
+
+A protecção nas eventualidades de invalidez e de velhice é assegurada através da atribuição do direito a prestações pecuniárias mensais, denominadas «pensão de invalidez», «pensão de velhice» e «subsídio por assistência de terceira pessoa».
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 5.º — Objectivos das prestações
+
+1 - As pensões de invalidez e de velhice têm por objectivo compensar a perda de remunerações de trabalho motivada pela ocorrência das respectivas eventualidades.
+
+2 - [Revogado.]
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 6.º — Acções de readaptação e reabilitação profissional
+
+1 - A protecção na eventualidade de invalidez pode ser complementada por acções de readaptação e reabilitação profissional.
+
+2 - As acções previstas no número anterior são asseguradas pelas instituições de segurança social ou por serviços dos sectores da saúde e do emprego e formação profissional, nos termos previstos em legislação própria.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção II — Titularidade das prestações
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 7.º — Disposição geral
+
+A titularidade do direito às pensões de invalidez e de velhice e ao subsídio por assistência de terceira pessoa é reconhecida aos beneficiários que reúnam as respectivas condições de atribuição.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 8.º — Não reconhecimento do direito à pensão de invalidez
+
+Não é reconhecido o direito à pensão de invalidez quando a correspondente incapacidade teve lugar em data anterior à inscrição do beneficiário no sistema de segurança social e não se verificou agravamento determinante de incapacidade permanente para o exercício da profissão.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção III — Regime da responsabilidade civil de terceiro
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 9.º — Responsabilidade civil de terceiro
+
+1 - Existindo responsabilidade civil de terceiro pelo facto determinante da incapacidade que fundamenta a atribuição da pensão de invalidez, não há lugar ao pagamento das respectivas prestações até que o somatório das pensões a que o beneficiário teria direito, se não houvesse tal responsabilidade, atinja o valor da indemnização por perda de capacidade de ganho.
+
+2 - Quando não seja discriminado o valor da indemnização por perda da capacidade de ganho, presume-se que a mesma corresponde a dois terços do valor total da indemnização atribuída.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 10.º — Direito ao reembolso das prestações pagas
+
+Se, não obstante o disposto no artigo anterior, tiver havido pagamento de pensões, a instituição de segurança social tem o direito de exigir o respectivo reembolso.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 11.º — Não pagamento da indemnização por falta de bens penhoráveis
+
+Nos casos em que, por falta de bens penhoráveis, o beneficiário não possa obter do responsável o valor da indemnização devida, não há lugar à aplicação do disposto no artigo 9.º
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 12.º — Celebração de acordos
+
+1 - Nos casos em que o pedido de reembolso do valor das pensões não tiver sido judicialmente formulado pela instituição de segurança social, nenhuma transacção pode ser celebrada com o beneficiário titular do direito à indemnização, nem pode ser-lhe efectuado qualquer pagamento com a mesma finalidade, sem que se encontre certificado, pela mesma instituição, se houve pagamento de pensões e qual o respectivo montante.
+
+2 - Havendo acordo, o responsável pela indemnização deve:
+
+a) Comunicar à instituição de segurança social o valor total da indemnização devida;
+
+b) Reter e pagar directamente ao Centro Nacional de Pensões o valor correspondente ao das pensões pagas, até ao limite do montante da indemnização.
+
+3 - Em caso de incumprimento do disposto nos números anteriores, o terceiro responsável pela indemnização responde solidariamente com o beneficiário pelo reembolso do valor das pensões pagas a este.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 13.º — Regime aplicável ao subsídio por assistência de terceira pessoa
+
+O disposto nos artigos anteriores relativamente às pensões de invalidez é aplicável ao subsídio por assistência de terceira pessoa.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+### Capítulo II — Condições de atribuição das prestações
+
+#### Secção I — Condições gerais de atribuição das pensões
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 14.º — Prazo de garantia
+
+1 - O reconhecimento do direito às pensões previstas neste diploma depende da verificação de um prazo de garantia.
+
+2 - O prazo de garantia pode ser preenchido por recurso à totalização de períodos contributivos verificados noutros regimes de protecção social, na parte em que não se sobreponham.
+
+3 - Para efeitos do número anterior consideram-se outros regimes de protecção social os regimes especiais de segurança social, os regimes da função pública, incluindo o dos ex-funcionários ultramarinos, os regimes das caixas de reforma ou previdência ainda subsistentes, bem como os regimes dos sistemas de segurança social estrangeiros, de acordo com o disposto em instrumentos internacionais.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 15.º — Densidade contributiva
+
+1 - Para efeitos do preenchimento do prazo de garantia, são considerados os anos civis em que o total de dias com registo de remunerações seja igual ou superior a 120.
+
+2 - Quando, em alguns dos anos civis com remunerações registadas, não se verificar a densidade contributiva exigida no número anterior, os dias com registo de remunerações neles verificados são tomados em conta no apuramento da densidade contributiva dando-se como cumprido um ano civil por cada grupo de 120 dias.
+
+3 - Se o número de dias registados num ano civil, contado individualmente ou em conglobação com outros, for superior a 120, não são considerados os dias excedentes para a contagem de outro ano civil.
+
+4 - Sempre que para o apuramento da densidade contributiva haja necessidade de considerar mais de um ano, a sua contagem é feita sequencialmente, sem prejuízo da irrelevância para o efeito dos anos civis que apresentam o mínimo de 120 dias.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção II — Condições de atribuição das pensões de invalidez
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 16.º — Prazo de garantia
+
+1 - O prazo de garantia para atribuição das pensões de invalidez é de cinco anos civis, seguidos ou interpolados, com registo de remunerações, nos termos do disposto no artigo anterior.
+
+2 - Não é exigível o cumprimento do prazo de garantia nos casos em que o beneficiário tenha esgotado o período de 1095 dias de registo de remunerações por equivalência à entrada de contribuições por motivo de doença e ocorra uma situação de incapacidade permanente para o trabalho.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 17.º — Situação de invalidez
+
+1 - O reconhecimento do direito às pensões de invalidez depende ainda da certificação da situação de invalidez.
+
+2 - Considera-se em situação de invalidez o beneficiário que, em consequência de incapacidade permanente, física ou mental, não possa auferir na sua profissão mais de um terço da remuneração correspondente ao seu exercício normal.
+
+3 - A incapacidade para o trabalho é permanente quando seja de presumir que o beneficiário não recuperará, dentro dos três anos subsequentes, a capacidade de auferir no desempenho da profissão mais de 50% da remuneração correspondente.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 18.º — Profissões a que se reporta a invalidez
+
+1 - A incapacidade referida no artigo anterior reporta-se ao exercício da última profissão desempenhada pelo beneficiário no âmbito do regime geral.
+
+2 - Se, à data do requerimento da pensão, o beneficiário exercer, simultaneamente, mais de uma profissão abrangida pelo regime geral, a invalidez só lhe será reconhecida se a redução de capacidade de ganho prevista se reportar à profissão mais bem remunerada.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 19.º — Caracterização da invalidez em caso de vinculação sucessiva a outros sistemas
+
+Se, à data em que for requerida a pensão, tiver cessado o registo de remunerações, no âmbito do regime geral, por período ininterrupto superior a 12 meses, e o beneficiário estiver a exercer actividade abrangida por diferente regime, ainda que de outro sistema de protecção social, nacional ou estrangeiro, a concessão da pensão fica dependente do reconhecimento, pelo serviço de verificação das incapacidades permanentes do centro regional de segurança social, da situação de invalidez em relação a essa actividade.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção III — Condições de atribuição das pensões de velhice
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 20.º — Princípio geral
+
+O reconhecimento do direito à pensão de velhice depende da verificação cumulativa das seguintes condições:
+
+a) Decurso do prazo de garantia;
+
+b) Idade legalmente prevista;
+
+c) Manifestação de vontade do beneficiário.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+###### Artigo 21.º — Prazo de garantia
+
+O prazo de garantia das pensões de velhice é de 15 anos civis, seguidos ou interpolados, com registo de remunerações, atento o disposto no artigo 15.º
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 22.º — Idade da pensão por velhice
+
+1 - A idade de acesso à pensão por velhice é aos 65 anos, sem prejuízo dos regimes e medidas especiais e das regras de transição previstas neste diploma.
+
+2 - Os regimes e medidas especiais previstos no número anterior são os seguintes:
+
+a) Regime de flexibilização da idade de pensão por velhice;
+
+b) Regimes de antecipação da idade de pensão por velhice, por motivo da natureza especialmente penosa ou desgastante da actividade profissional exercida, expressamente reconhecida por lei;
+
+c) Medidas temporárias de protecção específica a actividades ou empresas por razões conjunturais;
+
+d) Regime de antecipação da pensão de velhice nas situações de desemprego involuntário de longa duração.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+###### Artigo 23.º — Flexibilização da idade de pensão por velhice
+
+1 - A flexibilização da idade de pensão por velhice, prevista na alínea a) do n.º 2 do artigo anterior, consiste no direito de requerer a pensão em idade inferior, ou superior, a 65 anos.
+
+2 - Têm direito à antecipação de idade de pensão por velhice, no âmbito do número anterior, os beneficiários que, tendo cumprido o prazo de garantia, tenham, pelo menos, 55 anos de idade e que, à data em que perfaçam esta idade, tenham completado 30 anos civis de registo de remunerações para efeito do cálculo da pensão.
+
+3 - A flexibilização da idade de pensão por velhice pode verificar-se no âmbito do regime da pensão unificada.
+
+4 - O direito de requerer a pensão de velhice em idade superior a 65 anos não depende da verificação de condições especiais.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 125/2005 - Diário da República n.º 148/2005, Série I-A de 2005-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2005-240378) suspende a vigência da norma constante do n.º 2 do presente artigo. Esta suspensão não prejudica a aplicação das normas relativas ao cálculo da pensão estatutária constantes do artigo 38.º-A do presente diploma, quando essa aplicação seja prevista, por remissão, noutros diplomas.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 437/99 - Diário da República n.º 253/1999, Série I-A de 1999-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186), produz efeitos a partir de 1999-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+###### Artigo 24.º — Antecipação da idade de pensão por velhice por motivo da natureza da actividade exercida
+
+A antecipação da idade de pensão por velhice, prevista na alínea b) do n.º 2 do artigo 22.º, é estabelecida por lei própria, que define as respectivas condições, designadamente a natureza especialmente penosa ou desgastante da actividade profissional exercida pelo beneficiário e as particularidades específicas relevantes no seu exercício.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+###### Artigo 25.º — Limite etário da antecipação da idade de pensão por velhice por razões conjunturais
+
+A antecipação da idade de pensão por velhice, no âmbito das medidas temporárias de protecção específica previstas na alínea c) do n.º 2 do artigo 22.º, é estabelecida em diploma próprio e tem como limite os 55 anos de idade do beneficiário, ressalvado o disposto em legislação anterior.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+###### Artigo 26.º — Suporte financeiro da antecipação da idade da pensão por velhice
+
+1 - A antecipação da idade de acesso à pensão por velhice pressupõe a existência de adequado suporte financeiro para o efeito.
+
+2 - No regime de flexibilização da idade de pensão por velhice, previsto na alínea a) do n.º 2 do artigo 22.º, o suporte financeiro da antecipação da pensão é garantido pela aplicação de adequado factor de redução da pensão de velhice.
+
+3 - Nos restantes regimes e medidas de antecipação da idade da pensão por velhice, previstos nas alíneas b), c) e d) do n.º 2 do artigo 22.º, o suporte financeiro da antecipação da pensão por velhice é previsto em lei especial que estabeleça o respectivo financiamento.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 125/2005 - Diário da República n.º 148/2005, Série I-A de 2005-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2005-240378) suspende a vigência da norma constante do n.º 2 do presente artigo. Esta suspensão não prejudica a aplicação das normas relativas ao cálculo da pensão estatutária constantes do artigo 38.º-A do presente diploma, quando essa aplicação seja prevista, por remissão, noutros diplomas.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+#### Secção IV — Condições de atribuição do subsídio por assistência de terceira pessoa
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 27.º — Situação de dependência
+
+É condição de atribuição do direito ao subsídio por assistência de terceira pessoa aos pensionistas que estes se encontrem em situação de dependência.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 28.º — Caracterização da situação de dependência
+
+1 - Consideram-se em situação de dependência os pensionistas que não podem praticar com autonomia os actos indispensáveis à satisfação de necessidades básicas da vida quotidiana e carecem de assistência permanente de outra pessoa.
+
+2 - Para os efeitos do número anterior são considerados, nomeadamente, os actos relativos a alimentação, locomoção e cuidados de higiene pessoal.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 29.º — Assistência permanente por terceira pessoa
+
+1 - A assistência por terceira pessoa considera-se permanente quando implique um atendimento de, pelo menos, seis horas diárias.
+
+2 - O familiar do pensionista em situação de dependência que lhe preste assistência constante é considerado terceira pessoa para efeito de atribuição do subsídio.
+
+3 - A assistência pode ser assegurada através da participação, sucessiva e conjugada, de várias pessoas, incluindo a prestada no âmbito do apoio domiciliário, durante o período mínimo a que se refere o n.º 1.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 30.º — Assistência prestada em estabelecimento
+
+Sempre que o pensionista, em situação de dependência, beneficie de assistência permanente prestada em estabelecimento de saúde ou de apoio social, oficial ou particular sem fins lucrativos, cujo funcionamento seja financiado pelo Estado ou outras pessoas colectivas de direito público ou de direito privado e utilidade pública, não há lugar à atribuição do subsídio por assistência de terceira pessoa.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+### Capítulo III — Determinação do montante das prestações
+
+#### Secção I — Montante das pensões
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+##### Subsecção I — Montante da pensão estatutária
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 31.º — Cálculo da pensão estatutária
+
+1 - A pensão estatutária é a que resulta da aplicação das regras de cálculo da pensão.
+
+2 - O montante mensal da pensão estatutária é igual ao produto da taxa global de formação da pensão pelo valor da remuneração de referência.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 32.º — Taxa de formação da pensão
+
+1 - A taxa anual de formação da pensão é de 2% por cada ano civil com registo de remunerações.
+
+2 - A taxa global de formação da pensão é o produto da taxa anual pelo número de anos civis com registo de remunerações, tendo por limites mínimo e máximo, respectivamente, 30% e 80%.
+
+3 - Para os efeitos dos números anteriores apenas são considerados os anos civis com densidade contributiva igual ou superior a 120 dias com registo de remunerações.
+
+4 - Quando, em alguns dos anos com remunerações registadas, não se verificar a densidade contributiva estabelecida no número anterior, aplica-se o regime previsto nos n.os 2, 3 e 4 do artigo 15.º
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 33.º — Remuneração de referência
+
+1 - A remuneração de referência para efeitos de cálculo das pensões de invalidez e de velhice é definida pela fórmula R/140, em que R representa o total das 140 remunerações dos 10 anos civis a que correspondam remunerações mais elevadas, compreendidos nos últimos 15 anos com registo de remunerações.
+
+2 - Nos casos em que o número de anos civis com registo de remunerações seja inferior a 10, a remuneração de referência a que alude o número anterior obtém-se dividindo o total das remunerações registadas pelo produto de 14 vezes o número de anos civis a que as mesmas correspondam.
+
+3 - Quando, pela natureza e antiguidade dos registos de remunerações existentes nas instituições de segurança social, se não mostrar tecnicamente possível a aplicação do critério estabelecido no n.º 1, serão considerados valores convencionais de remunerações, a definir em diploma próprio.
+
+4 - Enquanto não for publicado o diploma a que se refere o número anterior, aplicar-se-á para o efeito a Portaria n.º 599/86, de 13 de Outubro.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 34.º — Revalorização da base de cálculo
+
+Os valores das remunerações registadas, a considerar para a determinação da remuneração de referência, são actualizados por aplicação do índice geral de preços no consumidor (IPC), sem habitação.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 35.º — Termos da revalorização
+
+A revalorização obtém-se por aplicação às remunerações anuais consideradas para o cálculo da remuneração de referência do coeficiente correspondente a cada um dos anos, conforme tabela estabelecida periodicamente por portaria conjunta dos Ministros das Finanças e do Emprego e da Segurança Social.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 36.º — Contagem especial de tempo de serviço militar obrigatório
+
+1 - O tempo de serviço militar obrigatório é contado, a requerimento dos interessados, aos beneficiários activos ou pensionistas que:
+
+a) À data da prestação desse serviço, não estivessem abrangidos por regimes de segurança social, em termos de conferirem direito ao registo de remunerações por equivalência à entrada de contribuições;
+
+b) Não tenham usufruído da contagem do referido tempo para efeito de qualquer outro regime, ainda que de outro sistema de protecção social.
+
+2 - A contagem de tempo, a que se refere o número anterior, faz-se nos termos gerais e produz efeitos exclusivamente na taxa de formação das pensões.
+
+3 - Os efeitos, a que se refere o número anterior, reportam-se à data do início da pensão, se o requerimento for anterior, ou ao mês seguinte ao da entrada do requerimento, se for posterior àquela data.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 37.º — Contagens de tempo particulares
+
+São tomados em consideração, exclusivamente para a determinação da taxa de formação das pensões, os períodos fixados em legislação própria, designadamente os períodos de licença especial para assistência a filhos menores, resultantes do exercício do direito dos pais trabalhadores a interromperem a prestação de trabalho para acompanhamento dos filhos.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 38.º — Contagens especiais de períodos de actividade
+
+As contagens especiais de períodos de actividade, para cálculo de pensões, previstas em normas de segurança social inseridas em diplomas que definem os estatutos profissionais de certas actividades, só podem ter lugar desde que tenham sido pagas para o efeito as correspondentes contribuições adicionais.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 38.º-A — Montante da pensão antecipada por velhice
+
+1 - O montante estatutário da pensão antecipada de velhice, atribuída no âmbito do disposto na alínea a) do n.º 2 do artigo 22.º, é calculado pela aplicação de um factor de redução ao valor da pensão estatutária, calculada nos termos gerais.
+
+2 - O factor de redução é determinado pela fórmula 1 - x, em que x é igual à taxa global de redução.
+
+3 - A taxa global de redução é o produto da taxa anual de 4,5% pelo número de anos de antecipação considerados para o efeito.
+
+4 - Quando o beneficiário aos 55 anos tiver carreira contributiva superior à exigida no n.º 2 do artigo 23.º, o número de anos de antecipação a considerar para a determinação da taxa global de redução da pensão é reduzido de 1 por cada período de 3 que exceda os 30.
+
+5 - Os beneficiários com pensão antecipada por velhice, reduzida nos termos dos números anteriores, que tenham cessado o exercício de actividade podem continuar a contribuir para efeito de acréscimo do montante da pensão, em termos a regulamentar.
+
+6 - Nos casos previstos nas alíneas b), c) e d) do n.º 2 do artigo 22.º, o montante da pensão antecipada é calculado nos termos gerais, com as particularidades previstas na legislação especial que se lhes aplique.
+
+> Nota: [Artigo 104.º, Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669) A revogação operada pelo decreto-Lei n.º 187/2007, de 3 de agosto, não prejudica a aplicação das normas relativas ao cálculo da pensão estatutária, previsto no n.º 4.º a) do presente artigo.
+
+> Nota: [Artigo 1.º, Decreto-Lei n.º 125/2005 - Diário da República n.º 148/2005, Série I-A de 2005-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2005-240378) suspende a vigência das normas constantes dos n.ºs 1 a 4 do presente artigo. Esta suspensão não prejudica a aplicação das normas relativas ao cálculo da pensão estatutária, quando essa aplicação seja prevista, por remissão, noutros diplomas.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+###### Artigo 38.º-B — Montante da pensão de velhice com aplicação de bonificação
+
+1 - O montante da pensão estatutária de velhice atribuída a beneficiário de idade superior a 65 anos e que, à data em que requeira a pensão, tenha completado 40 anos civis com registo de remunerações no âmbito do regime geral é calculado nos termos gerais e bonificado pela aplicação do factor definido no número seguinte.
+
+2 - O factor de bonificação é determinado pela fórmula 1 + y, em que y é igual à taxa global de bonificação.
+
+3 - A taxa global de bonificação é o produto da taxa anual de 10% pelo número de anos de carreira contributiva cumpridos a partir da idade em que perfaça 40 anos de carreira contributiva e com o limite de 70 anos.
+
+4 - Para efeito da taxa global de bonificação não se considera:
+
+a) O ano civil em que o beneficiário perfaça 65 anos, caso o mesmo releve para a taxa global de formação da pensão;
+
+b) O ano civil em relação ao qual a efectiva entrada de contribuições tenha tido lugar por período inferior a 120 dias.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 437/99 - Diário da República n.º 253/1999, Série I-A de 1999-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186), produz efeitos a partir de 1999-06-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 9/99 - Diário da República n.º 6/1999, Série I-A de 1999-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1999-489988), em vigor a partir de 1999-04-01
+
+###### Artigo 39.º — Pensão proporcional
+
+1 - As pensões, cuja atribuição dependa do cumprimento do prazo de garantia com recurso à totalização de períodos contributivos de outros regimes de protecção social, são calculadas nos termos gerais, ressalvado o disposto no n.º 2 do artigo 33.º, mas o seu montante é reduzido à fracção correspondente à relação entre o prazo de garantia cumprido no regime geral e o legalmente exigível.
+
+2 - Se, para efeito de totalização, forem tomados em consideração períodos contributivos de regime de segurança social estrangeiro, o cálculo da pensão é efectuado nos termos do instrumento internacional aplicável.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+##### Subsecção II — Montante da pensão regulamentar
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 40.º — Pensão regulamentar
+
+O quantitativo mensal da pensão regulamentar é igual ao montante da pensão estatutária, acrescido dos valores respeitantes:
+
+a) Às actualizações periódicas das pensões;
+
+b) Aos acréscimos decorrentes de actividade exercida em acumulação, se for caso disso.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 41.º — Montantes adicionais das pensões
+
+Nos meses de Julho e de Dezembro de cada ano, os pensionistas têm direito a receber, além da pensão mensal que lhes corresponda, um montante adicional de igual quantitativo.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 42.º — Acréscimos por exercício de actividade
+
+1 - Nas situações de exercício de actividade em acumulação com pensões de invalidez ou de velhice, o montante mensal da pensão regulamentar é acrescido de 1/14 de 2% do total das remunerações registadas.
+
+2 - O acréscimo referido no número anterior produz efeitos no dia 1 de Janeiro de cada ano, com referência às remunerações registadas no ano anterior.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+##### Subsecção III — Montante mínimo garantido aos pensionistas
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 43.º — Garantia do valor mínimo
+
+1 - Aos pensionistas de invalidez e velhice do regime geral é garantido um valor mínimo de pensão variável em função do disposto nos números seguintes.
+
+2 - O valor mínimo de pensão, mencionado no número anterior, é definido periodicamente em diploma próprio, por referência à remuneração mínima garantida à generalidade dos trabalhadores por conta de outrem em vigor à data da actualização periódica das pensões, deduzida do quantitativo correspondente à taxa contributiva estabelecida para o regime geral imputável ao trabalhador subordinado.
+
+3 - Nas situações em que a carreira contributiva do beneficiário, relevante para a taxa de formação da pensão, seja igual ou superior a 15 anos, o valor mínimo de pensão pode ser ajustado, nos termos a fixar em diploma próprio, em função do número de anos da carreira contributiva, até ao limite da remuneração mínima de referência mencionada no número anterior.
+
+4 - A referência no número anterior à carreira contributiva relevante para a taxa de formação da pensão pressupõe que, no âmbito da carreira contributiva do beneficiário no regime geral, tenha havido lugar ao cumprimento do prazo de garantia.
+
+5 - Os valores previstos nos n.os 2 e 3 não são aplicáveis às pensões antecipadas atribuídas ao abrigo do regime de flexibilização da idade de pensão por velhice, previsto na alínea a) do n.º 2 do artigo 22.º
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 437/99 - Diário da República n.º 253/1999, Série I-A de 1999-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186), produz efeitos a partir de 1999-06-01
+
+###### Artigo 44.º — Atribuição do complemento social
+
+1 - No caso de a pensão, calculada nos termos gerais ser de montante inferior aos valores garantidos de acordo com o disposto nos n.os 2 e 3 do artigo anterior, acresce ao respectivo montante uma prestação, designada «complemento social», cujo valor corresponde à diferença entre o valor garantido e a pensão do regime geral.
+
+2 - Quando estiver em causa a atribuição de pensão proporcional ou pensão antecipada por força da aplicação do regime de flexibilização da idade de pensão por velhice e os respectivos montantes forem inferiores ao valor da pensão social, o montante do complemento social de pensão corresponde à diferença entre o montante da pensão social e o da pensão do regime geral.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 437/99 - Diário da República n.º 253/1999, Série I-A de 1999-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186), produz efeitos a partir de 1999-06-01
+
+###### Artigo 45.º — Natureza do complemento social
+
+O complemento social previsto no artigo anterior é considerado uma prestação do regime não contributivo, cuja atribuição não depende de condição de recursos.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção II — Montante do subsídio por assistência de terceira pessoa
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 46.º — Fixação do montante do subsídio
+
+O montante mensal do subsídio por assistência de terceira pessoa é fixado em diploma próprio.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 47.º — Montantes adicionais do subsídio
+
+Nos meses de Julho e de Dezembro de cada ano, os pensionistas a quem tenha sido atribuído o subsídio por assistência de terceira pessoa têm direito a receber, além do subsídio mensal que lhes corresponde, um montante adicional de igual quantitativo.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+#### Secção III — Actualização das prestações
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 48.º — Periodicidade e critérios de actualização
+
+Os valores das prestações reguladas neste diploma são periodicamente actualizados, tendo em conta os meios financeiros disponíveis e a variação previsível do índice geral dos preços no consumidor.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 49.º — Termos da actualização das pensões regulamentares
+
+A actualização das pensões regulamentares é realizada através da aplicação de uma percentagem periodicamente estabelecida em diploma próprio.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+### Capítulo IV — Início e duração das prestações
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 50.º — Início da pensão de invalidez
+
+A pensão de invalidez é devida a partir da data da deliberação da comissão de verificação ou de recurso ou daquela a que a comissão reporte a incapacidade permanente, mas nunca pode ter início em data anterior à do requerimento ou à da promoção oficiosa da verificação da incapacidade permanente.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 51.º — Início da pensão de velhice
+
+A pensão de velhice é devida a partir da data da apresentação do respectivo requerimento ou daquela que o beneficiário indique para o início da pensão, no caso previsto neste diploma relativamente à apresentação antecipada do requerimento.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 52.º — Início do subsídio por assistência de terceira pessoa
+
+O início do subsídio por assistência de terceira pessoa verifica-se a partir do mês seguinte ao da apresentação do respectivo requerimento, se for feita prova de que o requerente dispunha já de assistência de terceira pessoa ou, caso contrário, desde o mês seguinte àquele em que esta condição se verifique.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 53.º — Convolação das pensões de invalidez em pensões de velhice
+
+As pensões de invalidez tomam de direito a natureza de pensões de velhice a partir do mês seguinte àquele em que os beneficiários atinjam a idade legal para acesso a estas pensões.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 54.º — Cessação das prestações
+
+1 - As prestações cessam no fim do mês em que se verifique a extinção do respectivo direito.
+
+2 - A cessação das pensões de invalidez, decorrente da revisão da incapacidade permanente, produz efeitos a partir do mês seguinte ao da comunicação do facto ao pensionista pela instituição de segurança social competente.
+
+3 - O direito extingue-se pela morte do titular da prestação e pelo desaparecimento das respectivas condições de atribuição.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+### Capítulo V — Acumulação e coordenação das prestações
+
+#### Secção I — Acumulação de pensões com pensões
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 55.º — Princípio geral de acumulação
+
+É permitida a acumulação de pensões de invalidez ou de velhice do regime geral com pensões de outros regimes de protecção social de enquadramento obrigatório, nos termos previstos em diploma próprio.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 56.º — Acumulação com pensões de regimes facultativos
+
+1 - As pensões de invalidez e de velhice do regime geral são livremente acumuláveis com pensões resultantes de regimes facultativos de protecção social.
+
+2 - Os períodos de registo de remunerações sucessivos para o regime geral e para o regime do seguro social voluntário determinam a atribuição de uma única pensão, não dando, consequentemente, origem à acumulação prevista no número anterior.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção II — Acumulação de pensões com rendimentos do trabalho
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 57.º — Princípio da acumulação
+
+É permitida a acumulação de pensão de invalidez com rendimentos de trabalho, auferidos no País ou no estrangeiro, atentas as capacidades remanescentes do pensionista e tendo em vista a sua reinserção sócio-profissional.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 58.º — Limites da acumulação
+
+1 - A acumulação a que se reporta o artigo anterior tem por limite o valor de 100% da remuneração de referência tomada em consideração no cálculo da pensão, actualizada pela aplicação do coeficente a que se refere o artigo 35.º
+
+2 - Para efeitos de acumulação, não se consideram incluídos no valor da pensão mensal os respectivos montantes adicionais, o complemento social, nem o montante do subsídio por assistência de terceira pessoa.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 59.º — Redução da pensão de invalidez por efeito da acumulação
+
+1 - Se o quantitativo mensal recebido pelo pensionista, como soma da pensão de invalidez com rendimentos de trabalho, for superior ao limite estabelecido no n.º 1 do artigo 58.º, o montante concedido a título de pensão é reduzido na parte em que o referido quantitativo mensal exceda esse limite.
+
+2 - O quantitativo mensal dos rendimentos do trabalho, a considerar para efeitos do número anterior, corresponde aos valores seguintes, conforme o caso:
+
+a) No início da acumulação, ao valor da remuneração declarada pelo pensionista;
+
+b) Posteriormente, a um 1/14 das remunerações auferidas no ano anterior.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 60.º — Acumulação de pensão de velhice com rendimentos de trabalho
+
+É livremente permitida a acumulação de pensões de velhice com rendimentos de trabalho, tendo em vista contribuir para a manutenção da inserção sócio-profissional dos pensionistas.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção III — Acumulação do subsídio por assistência de terceira pessoa com prestação análoga
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 61.º — Princípio geral
+
+1 - Não é permitida a acumulação entre o subsídio por assistência de terceira pessoa e prestação análoga, salvo se o valor desta for inferior, caso em que o montante da prestação do regime geral será igual à respectiva diferença.
+
+2 - Considera-se prestação análoga a que tenha por objectivo a protecção na situação de dependência.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+#### Secção IV — Coordenação das pensões do regime geral e da função pública
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 62.º — Pensão unificada
+
+As pensões de invalidez e de velhice do regime geral e as pensões de aposentação ou de reforma da Caixa Nacional de Previdência, a receber por quem tenha sido abrangido pelos dois regimes de protecção social, podem ser atribuídas de forma unificada.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 63.º — Regime jurídico da pensão unificada
+
+O regime jurídico aplicável à pensão unificada é definido em diploma próprio.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+### Capítulo VI — Verificação das incapacidades permanentes
+
+###### Artigo 64.º — Verificação das incapacidades permanentes e da dependência
+
+1 - A verificação das incapacidades permanentes e das situações de dependência para atribuição de prestações é realizada pelos centros regionais de segurança social no âmbito do sistema de verificação das incapacidades permanentes.
+
+2 - Constituem órgãos especializados do sistema de verificação das incapacidades permanentes as comissões de verificação, as comissões de recurso e os médicos relatores.
+
+3 - A definição da estrutura, das competências e do regime de funcionamento do sistema de verificação das incapacidades permanentes consta de diploma próprio.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 65.º — Avaliação da incapacidade permanente
+
+A incapacidade permanente é avaliada em função das faculdades físicas e mentais do beneficiário, do estado geral, da idade, das suas aptidões de natureza profissional e da capacidade de trabalho remanescente.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 66.º — Revisão da invalidez
+
+1 - Os pensionistas de invalidez podem ser sujeitos a exames de revisão por decisão das instituições ou a seu pedido, nos termos regulados em diploma próprio.
+
+2 - Os exames de revisão não implicam encargos para os pensionistas, salvo o disposto em legislação especial.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+### Capítulo VII — Atribuição de pensões provisórias
+
+#### Secção I — Condições de atribuição das pensões provisórias
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 67.º — Pensões provisórias
+
+Podem ser atribuídas pensões provisórias de invalidez e de velhice, tendo em vista impedir situações temporárias de desprotecção.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 68.º — Atribuição da pensão provisória de invalidez
+
+1 - A atribuição da pensão provisória de invalidez tem lugar nas situações em que se tenha esgotado o período máximo de 1095 dias de registo de remunerações por incapacidade temporária e se mantenha a incapacidade para o trabalho.
+
+2 - Os beneficiários a quem tenha sido atribuída pensão provisória de invalidez são sujeitos oficiosamente a exame pelas comissões de verificação das incapacidades permanentes, no prazo de 30 dias.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 69.º — Não atribuição de pensão provisória de invalidez
+
+1 - Não há lugar à atribuição da pensão provisória de invalidez nos casos em que o período máximo de 1095 dias de registo de remunerações por incapacidade temporária for atingido sem que tenha decorrido um ano sobre a data da deliberação anterior da comissão de verificação ou de recurso que não tenha considerado o beneficiário em situação de incapacidade permanente.
+
+2 - O princípio estabelecido no número anterior não é aplicável aos casos de nova verificação de incapacidade permanente por agravamento do estado de saúde do beneficiário, nos termos legalmente previstos.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 70.º — Atribuição da pensão provisória de velhice
+
+A atribuição da pensão provisória de velhice depende de os beneficiários satisfazerem, à data do requerimento, as condições de atribuição da pensão de velhice.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção II — Duração das pensões provisórias
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 71.º — Início da pensão provisória de invalidez
+
+A pensão provisória de invalidez é devida a partir do dia seguinte àquele em que se esgotou o período máximo de 1095 dias de registo de remunerações por incapacidade temporária.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 72.º — Cessação das pensões provisórias
+
+1 - As pensões provisórias cessam pela sua conversão na pensão definitiva.
+
+2 - A pensão provisória de invalidez cessa:
+
+a) Se não for verificada a incapacidade permanente do beneficiário;
+
+b) Se o beneficiário não comparecer, sem motivo justificado, ao exame para que tenha sido convocado nos termos do n.º 2 do artigo 68.º
+
+3 - Na situação prevista na alínea b) do número anterior há lugar à restituição dos valores das pensões provisórias de invalidez que tenham sido pagas.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 73.º — Acerto de valores
+
+Determinado o montante da pensão definitiva, a instituição procede de imediato ao acerto do respectivo valor com o montante da pensão provisória.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+### Capítulo VIII — Processamento e administração
+
+#### Secção I — Instituições competentes
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 74.º — Gestão das prestações
+
+1 - A gestão das prestações previstas neste diploma e a aplicação da respectiva legislação competem ao Centro Nacional de Pensões.
+
+2 - Os centros regionais de segurança social colaboram com o Centro Nacional de Pensões, nos termos dos artigos seguintes.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 75.º — Competências do Centro Nacional de Pensões
+
+Compete ao Centro Nacional de Pensões:
+
+a) A atribuição do direito às prestações, incluindo o complemento social;
+
+b) A realização do cálculo, processamento e pagamento das mesmas prestações.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 76.º — Competência dos centros regionais de segurança social
+
+Compete aos centros regionais de segurança social:
+
+a) A informação e o apoio aos interessados sobre as matérias referentes às prestações previstas neste diploma;
+
+b) A colaboração com o Centro Nacional de Pensões na instrução dos processos relativos às mesmas prestações.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção II — Organização dos processos
+
+##### Subsecção I — Requerimento
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 77.º — Requerimento das prestações
+
+1 - A atribuição das prestações depende de requerimento dos interessados, sem prejuízo do disposto no número seguinte.
+
+2 - A atribuição da pensão provisória de invalidez e da pensão de invalidez, na sequência de verificação de incapacidade permanente promovida oficiosamente, não depende de requerimento inicial.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 78.º — Apresentação do requerimento
+
+1 - Os requerimentos são entregues nos centros regionais de segurança social da área da residência dos beneficiários.
+
+2 - No caso de os beneficiários residirem no estrangeiro, os requerimentos são entregues nas instituições previstas para o efeito nos instrumentos internacionais aplicáveis e, na sua falta, no Centro Nacional de Pensões.
+
+3 - O requerimento da pensão de velhice pode ser apresentado com a antecedência máxima de três meses em relação à data a que o beneficiário deseje reportar o início da prestação.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+##### Subsecção II — Declarações e meios de prova
+
+###### Artigo 79.º — Declaração de exercício de actividade profissional dos requerentes de pensão de invalidez
+
+1 - Os beneficiários devem declarar, no acto do requerimento da pensão de invalidez, a última profissão desempenhada no âmbito do regime geral e, no caso de exercício simultâneo de mais de uma, ainda que de diferente sistema de protecção social, nacional ou estrangeiro, aquela a que corresponda maior remuneração.
+
+2 - Nas situações de cessação de registo de remunerações por período ininterrupto superior a 12 meses, à data do requerimento, o requerente da pensão deve declarar se exerce actividade profissional abrangida por outro regime, ainda que de diferente sistema de protecção social, nacional ou estrangeiro.
+
+3 - Os requerentes de pensão de invalidez devem ainda declarar se exercem actividade profissional abrangida por regime de diferente sistema de protecção social, nacional ou estrangeiro, bem como a respectiva remuneração.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 80.º — Declaração de exercício de actividade profissional dos pensionistas de invalidez
+
+Os pensionistas de invalidez que exerçam actividade profissional devem comunicar ao Centro Nacional de Pensões:
+
+a) O início do exercício da actividade e o valor da respectiva remuneração mensal;
+
+b) O termo do exercício da actividade;
+
+c) Periodicamente, o valor médio mensal das remunerações auferidas.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 81.º — Declaração de titularidade de pensão dos requerentes de pensão de invalidez e de velhice
+
+Os beneficiários devem declarar, no acto do requerimento, se são titulares de outra pensão e, em caso afirmativo, indicar o respectivo valor e a entidade pagadora.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 82.º — Declaração de titularidade de pensão dos pensionistas de invalidez e velhice
+
+Os pensionistas de invalidez e de velhice que passem a acumular a pensão com outra concedida por outro regime, ainda que de diferente sistema de protecção social, devem declarar ao Centro Nacional de Pensões:
+
+a) O início e o valor da pensão acumulada;
+
+b) O termo da pensão de invalidez acumulada;
+
+c) Periodicamente, o valor da pensão acumulada.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 83.º — Declaração em caso de incapacidade decorrente do acto de terceiro
+
+No acto de requerimento da pensão de invalidez devem os beneficiários:
+
+a) Declarar se a incapacidade foi provocada por intervenção de terceiro;
+
+b) Identificar os eventuais responsáveis pela incapacidade permanente;
+
+c) Declarar se houve lugar a indemnização e qual o respectivo montante.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 84.º — Declaração de situações determinantes da cessação do subsídio por assistência de terceira pessoa
+
+Os beneficiários devem declarar qualquer das seguintes situações determinantes da extinção do direito ao subsídio por assistência de terceira pessoa:
+
+a) Desaparecimento da situação de dependência;
+
+b) Inexistência da assistência por terceira pessoa;
+
+c) Colocação em estabelecimento de saúde ou de apoio social, nos termos do artigo 30.º
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 85.º — Actuação do Centro Nacional de Pensões nas declarações periódicas
+
+1 - As declarações periódicas referidas na alínea c) do artigo 80.º e na alínea c) do artigo 82.º são realizadas nos prazos e nos termos estabelecidos pelo Centro Nacional de Pensões.
+
+2 - O Centro Nacional de Pensões deve dar conhecimento público dos prazos e dos termos estabelecidos para as declarações periódicas a que se refere o número anterior, de modo que seja assegurada a informação dos pensionistas para o cumprimento da respectiva obrigação.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 86.º — Prazo geral das declarações
+
+O prazo para a apresentação das declarações não referidas no artigo anterior é de 30 dias após a ocorrência do respectivo evento.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 87.º — Meios de prova para a atribuição das pensões de invalidez e velhice
+
+1 - O processo de atribuição das pensões de invalidez e de velhice deve ser instruído, para além do requerimento, com os seguintes elementos:
+
+a) Fotocópia do bilhete de identidade;
+
+b) Certificação da incapacidade permanente, tratando-se de pensão de invalidez;
+
+c) Certificação dos períodos contributivos cumpridos.
+
+2 - Dos processos devem ainda constar as declarações exigidas neste diploma, designadamente as referidas nos artigos 79.º, 81.º e 83.º, bem como quaisquer outros elementos considerados necessários pelas instituições competentes.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 88.º — Meios de prova para atribuição do subsídio por assistência de terceira pessoa
+
+1 - O processo de atribuição do subsídio por assistência de terceira pessoa deve ser instruído, para além do requerimento, com os seguintes elementos:
+
+a) Deliberação da comissão de verificação de incapacidades permanentes;
+
+b) Relatório comprovativo da existência da pessoa que presta ou se dispõe a prestar assistência, com especificação das condições em que a mesma é ou vai ser prestada, quando a comissão de verificação tiver concluído pela existência da situação de dependência;
+
+c) Outros elementos considerados necessários pela instituição de segurança social.
+
+2 - Se a comissão de verificação concluir pela existência de situação de dependência, mas o relatório não confirmar a assistência permanente de terceira pessoa, os requerentes são notificados para, no prazo de 60 dias, comprovarem o preenchimento desta condição, sob pena de a mesma ser considerada como não verificada.
+
+> Revogado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 265/99 - Diário da República n.º 162/1999, Série I-A de 1999-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1999-357518), em vigor a partir de 1999-08-01
+
+###### Artigo 89.º — Prova de vida
+
+Os pensionistas de invalidez e de velhice devem fazer prova de vida dentro dos prazos e nos termos fixados pelo Centro Nacional de Pensões.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 90.º — Efeitos da inobservância das obrigações legais
+
+1 - Determinam a suspensão do pagamento das prestações em curso:
+
+a) A não realização da prova de vida prevista no artigo 89.º;
+
+b) A não prestação das declarações a que se referem a alínea c) do artigo 80.º e a alínea c) do artigo 82.º;
+
+c) A adopção pelos pensionistas de procedimentos que impeçam ou retardem a avaliação da subsistência da incapacidade permanente ou da dependência, designadamente a ausência injustificada ao exame médico e a não actuação para a obtenção de elementos clínicos.
+
+2 - Realizadas as provas e as declarações referidas no número anterior e adoptados os procedimentos que permitam a avaliação da subsistência da incapacidade permanente ou da dependência, o pensionista readquire o direito ao pagamento das prestações suspensas desde o início daquela, verificados os requisitos legais.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 91.º — Contra-ordenações
+
+Constituem contra-ordenações, puníveis nos termos do Decreto-Lei n.º 64/89, de 25 de Fevereiro, o incumprimento das obrigações previstas na alínea a) do artigo 80.º, na alínea a) do artigo 82.º, nas alíneas a) e c) do artigo 83.º e no artigo 84.º
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+#### Secção III — Atribuição e pagamento das prestações
+
+###### Artigo 92.º — Forma expressa
+
+A atribuição das prestações exige decisão expressa da instituição.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 93.º — Comunicação da atribuição das prestações
+
+1 - O Centro Nacional de Pensões deve notificar o beneficiário e a entidade empregadora, se for caso disso, da atribuição das prestações e da data a que o início das mesmas se reporta.
+
+2 - Da comunicação deve constar a discriminação dos elementos necessários à correcta compreensão do montante da pensão, designadamente:
+
+a) As remunerações consideradas para o cálculo;
+
+b) O número de anos civis com registo de remunerações relevantes para o cálculo da pensão;
+
+c) O valor da pensão estatutária;
+
+d) O montante do complemento social da pensão, se for caso disso.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 94.º — Comunicação da não atribuição das prestações
+
+1 - Se na apreciação do processo se verificar que não se encontram reunidas as condições para a atribuição das prestações, devem as instituições:
+
+a) Informar o requerente da falta das mesmas condições;
+
+b) Fixar um prazo adequado para o requerente fazer prova da existência das referidas condições;
+
+c) Informar que o termo do prazo, sem a respectiva comprovação, determina o indeferimento tácito do pedido.
+
+2 - Sempre que os elementos remetidos pelo beneficiário não permitam a verificação das condições de atribuição das prestações, há lugar a indeferimento expresso, com comunicação ao beneficiário da data da decisão.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 95.º — Pagamento das prestações
+
+As prestações previstas no presente diploma são pagas mensalmente.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 96.º — Prazo de prescrição
+
+1 - Para efeitos de prescrição do direito às prestações, considera-se que a contagem do respectivo prazo se inicia no dia seguinte àquele em que as mesmas foram postas a pagamento.
+
+2 - São equiparadas a prestações postas a pagamento as que se encontrem legalmente suspensas por incumprimento de obrigações imputável ao beneficiário.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+### Capítulo IX — Disposições transitórias e finais
+
+#### Secção I — Disposições transitórias
+
+###### Artigo 97.º — Produção de efeitos
+
+O regime estabelecido no presente diploma aplica-se:
+
+a) Às prestações requeridas ou promovidas oficiosamente após a sua entrada em vigor;
+
+b) Às relações jurídicas prestacionais, constituídas ao abrigo de legislação anterior e que se mantenham na vigência da lei nova, salvo nos casos em que a aplicação da lei anterior esteja prevista neste diploma.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 98.º — Requerimentos de pensões com efeitos diferidos
+
+Nas situações em que tenha sido requerida pensão de velhice com efeitos diferidos, nos termos do n.º 3 do artigo 78.º ou em que os requisitos legais para a atribuição das prestações só se verifiquem na vigência deste diploma, o regime aplicável é o que se encontra em vigor à data do início da produção de efeitos.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 99.º — Direitos adquiridos nas situações de acumulação de pensões com rendimentos de trabalho
+
+1 - Para as pensões de invalidez atribuídas ao abrigo de anterior legislação mantêm-se em vigor as normas aplicáveis à data de início da vigência deste diploma sobre a acumulação com rendimentos de trabalho, bem como sobre a atribuição dos respectivos acréscimos.
+
+2 - Os pensionistas com pensões de velhice atribuídas ao abrigo de legislação anterior que se encontram em situação de acumulação com rendimentos de trabalho à data da entrada em vigor deste diploma têm direito no ano de 1994 ao acréscimo calculado nos termos da mesma legislação.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 100.º — Complemento por cônjuge a cargo
+
+Mantém-se o direito às prestações designadas por complemento por cônjuge a cargo, atribuídas ou a atribuir em função de pensões concedidas no âmbito da legislação anteriormente vigente e nos seus precisos termos.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 101.º — Prazos de garantia
+
+1 - Relevam para efeitos da aplicação deste diploma os prazos de garantia cumpridos ao abrigo e durante a vigência da legislação que os determinou.
+
+2 - Para cumprimento dos prazos de garantia em formação à data da entrada em vigor do presente diploma não é exigida a densidade contributiva relativamente aos anos anteriores àquela data.
+
+3 - Sempre que o beneficiário não tenha adquirido o prazo de garantia ao abrigo da legislação anterior, cada período de 12 meses com registo de remunerações corresponde a um ano civil para o efeito deste diploma.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 102.º — Taxa anual de formação de pensão
+
+A exigência da densidade contributiva prevista nos n.os 3 e 4 do artigo 32.º só tem lugar a partir do início de vigência deste diploma.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 103.º — Idade para acesso à pensão de velhice
+
+1 - A igualização da idade para acesso à pensão de velhice a beneficiários de ambos os sexos, prevista no artigo 22.º, é atingida de forma gradual.
+
+2 - Para efeito da gradualidade referida no número anterior, a idade mínima de pensão de velhice das mulheres é estabelecida para 1994 em 62 anos e 6 meses, acrescentando-se posteriormente, por cada ano civil, o período de 6 meses à idade fixada para o ano anterior.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 104.º — Montante mínimo de pensão
+
+Os titulares das pensões de invalidez e de velhice em curso à data da entrada em vigor deste diploma têm direito a um montante mínimo de pensão correspondente ao valor mínimo garantido nos termos do n.º 1 do artigo 43.º
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 105.º — Manutenção de esquemas particulares
+
+1 - São mantidos os esquemas particulares de pensões de invalidez e velhice dos seguintes grupos profissionais:
+
+a) Trabalhadores do interior das minas;
+
+b) Inscritos marítimos profissionais de pesca;
+
+c) Inscritos marítimos da marinha do comércio de longo curso, de cabotagem, costeira e das pescas;
+
+d) Pilotos da aviação civil.
+
+2 - São ainda mantidos os esquemas particulares de pensões de velhice cuja vigência temporária se encontre estabelecida em legislação especial em vigor à data do início de vigência deste diploma.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 106.º — Índices de revalorização da base de cálculo
+
+Os índices da revalorização da base de cálculo referidos no artigo 34.º são aplicáveis até 31 de Dezembro de 2001.
+
+> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 35/2002 - Diário da República n.º 42/2002, Série I-A de 2002-02-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2002-278032), produz efeitos a partir de 2002-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 437/99 - Diário da República n.º 253/1999, Série I-A de 1999-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186), produz efeitos a partir de 1999-06-01
+
+#### Secção II — Disposições finais
+
+###### Artigo 107.º — Legislação substituída
+
+O presente diploma substitui, nos seus precisos termos, a legislação anteriormente em vigor, designadamente:
+
+a) As secções V e VI do Decreto n.º 45266, de 23 de Setembro de 1963;
+
+b) O Decreto-Lei n.º 724/74, de 18 de Dezembro;
+
+c) A Portaria n.º 865/74, de 31 de Dezembro;
+
+d) O Decreto Regulamentar n.º 60/82, de 15 de Setembro;
+
+e) O Decreto-Lei n.º 463-A/82, de 30 de Novembro;
+
+f) O Decreto Regulamentar n.º 9/83, de 7 de Fevereiro;
+
+g) O Decreto-Lei n.º 41/89, de 2 de Fevereiro;
+
+h) A Portaria n.º 470/90, de 28 de Junho.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 108.º — Remissão
+
+Quando disposições legais remeterem para preceitos de diplomas substituídos nos termos do artigo anterior, entende-se que a remissão é feita para as correspondentes disposições deste diploma.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 109.º — Regulamentação
+
+1 - A regulamentação das normas constantes do presente diploma constará de decreto regulamentar
+
+2 - Os procedimentos administrativos a adoptar, no âmbito da aplicação do presente diploma e dos seus regulamentos, são aprovados por portaria do Ministro do Emprego e da Segurança Social.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 110.º — Conversão do suplemento a grande inválido
+
+Consideram-se convertidos em subsídios por assistência de terceira pessoa, a partir da data de início de vigência deste diploma, os suplementos a grande inválido atribuídos ao abrigo de anterior legislação.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 111.º — Apuramento anual da gestão financeira das pensões
+
+O Centro Nacional de Pensões deve apurar, anualmente, de forma autonomizada, o valor referido no artigo 44.º e inseri-lo nos dados estatístico-financeiros a remeter ao Instituto de Gestão Financeira da Segurança Social.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+###### Artigo 112.º — Início de vigência
+
+O presente diploma entra em vigor no dia 1 de Janeiro de 1994.
+
+> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01
+
+Visto e aprovado em Conselho de Ministros de 8 de Julho de 1993. - Aníbal António Cavaco Silva - José Luís Campos Vieira de Castro.
+
+Promulgado em 3 de Setembro de 1993.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 7 de Setembro de 1993.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

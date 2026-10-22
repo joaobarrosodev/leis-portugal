@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:548206:por
+title: Decreto-Lei n.º 327/89
+short_title: null
+summary: Equipara o vencimento base dos assessores do gabinete do presidente e dos juízes do Tribunal Constitucional ao dos
+  adjuntos dos gabinetes ministeriais
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 327/89
+official_date: null
+publication_date: '1989-09-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 222/1989, Série I de 1989-09-26
+  number: '222'
+  series: I
+  supplement: null
+  pages: 4283 - 4283
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/22200/42834283.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '548206'
+  dre_path: /dr/detalhe/decreto-lei/327-1989-548206
+  internal: pt:dre:548206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1989-548206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/327-1989-548206
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-05-23T00:00:00Z'
+integrity:
+  source_sha256: 5f2ec8fa4b5c2a582e72db6ad755f23bd52858e8703d72cec44940b0096374c1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-327-548206.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:523411:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 327/89
+
+de 26 de Setembro
+
+A remuneração dos assessores do gabinete do presidente e dos juízes do Tribunal Constitucional, embora com referência a letra de vencimento, era, nos termos do disposto no [Decreto-Lei n.º 149-A/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1983-664729), de 5 de Abril, com as alterações que lhe foram introduzidas pelo [Decreto-Lei n.º 172/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/172-1984-384422), de 24 de Maio, igual à dos adjuntos dos gabinetes dos membros do Governo.
+
+Os vencimentos destes últimos, contudo, beneficiaram de um ajustamento operado pelo [Decreto-Lei n.º 25/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1988-282875), de 30 de Janeiro.
+
+Torna-se necessário, no sentido de repor a equivalência subjacente ao espírito da lei, actualizar os vencimentos daqueles assessores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. A remuneração dos assessores do gabinete do presidente e dos juízes do Tribunal Constitucional é equiparada à dos adjuntos dos gabinetes dos membros do Governo, com ressalva do abono para despesas de representação previsto no artigo 9.º do [Decreto-Lei n.º 262/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1988-375192), de 23 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 17 de Agosto de 1989. - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira.
+
+**Promulgado em 13 de Outubro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 15 de Setembro de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

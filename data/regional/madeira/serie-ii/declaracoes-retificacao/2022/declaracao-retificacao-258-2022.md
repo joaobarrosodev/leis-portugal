@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:181527598:por
+title: Declaração de Retificação n.º 258/2022
+short_title: null
+summary: Retifica o Aviso n.º 1659/2021, publicado no Diário da República, 2.ª série, n.º 17, de 26 de janeiro de 2021
+jurisdiction: regional
+territory: madeira
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Universidade da Madeira
+proposing_entity: null
+official_number: 258/2022
+official_date: null
+publication_date: '2022-04-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/2022, Série II de 2022-04-01
+  number: '65'
+  series: II
+  supplement: null
+  pages: 268 - 269
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '181527598'
+  dre_path: /dr/detalhe/declaracao-retificacao/258-2022-181527598
+  internal: pt:dre:181527598:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/258-2022-181527598
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/258-2022-181527598
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-04-01T00:00:00Z'
+integrity:
+  source_sha256: 7e30654f5ba7cf9835d0b2533fccce1b948be06b4489325ae177771f45c5b9c0
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2022/DRE-2022-258-181527598.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 258/2022
+
+Por ter saído com inexatidão o [Aviso n.º 1659/2021](https://diariodarepublica.pt/dr/detalhe/aviso/1659-2021-155250855), publicado no Diário da República, 2.ª série, n.º 17, datado de 26 de janeiro de 2021, referente ao mestrado em Literatura, Cultura e Diversidade da Universidade da Madeira, retifica-se o mesmo.
+
+Assim, no quadro n.º 2, Plano de estudos, onde se lê:
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf))](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf)
+
+deverá ler-se:
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf))](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf)
+
+No quadro n.º 3, Unidades curriculares opcionais, onde se lê:
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf))](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf)
+
+deverá ler-se:
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf))](https://files.diariodarepublica.pt/2s/2022/04/065000000/0026800269.pdf)
+
+6 de julho de 2021. - O Reitor, Prof. Doutor Sílvio Moreira Fernandes.

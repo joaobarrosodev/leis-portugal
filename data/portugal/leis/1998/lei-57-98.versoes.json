@@ -1,0 +1,1171 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:437236:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1998-60858721",
+ "dre_path": "/dr/detalhe/lei/57-1998-437236",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-08-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "180121175",
+    "60859414",
+    "60859415",
+    "60859416",
+    "60859417",
+    "60859418",
+    "60859419",
+    "60859420",
+    "60859421",
+    "60859422",
+    "60859423",
+    "60859424",
+    "60859425",
+    "60859426",
+    "60859427",
+    "60859428",
+    "60859429",
+    "60859430",
+    "60859431",
+    "60859432",
+    "60859433",
+    "60859434",
+    "60859435",
+    "60859436",
+    "60859437",
+    "60859438",
+    "60859439",
+    "60859440",
+    "60859441",
+    "60859442",
+    "60859443",
+    "60859444",
+    "60859445",
+    "60859446",
+    "60859447"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:244888:por",
+     "title": "Declaração de Rectificação n.º 16/98",
+     "published": "1998-09-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/16-1998-244888",
+     "date": "1998-08-23"
+    }
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540216:por",
+     "title": "Decreto-Lei n.º 323/2001",
+     "published": "2001-12-17",
+     "dre_path": "/dr/detalhe/decreto-lei/323-2001-540216"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "60859413",
+    "60859414",
+    "60859415",
+    "60874380",
+    "60859417",
+    "60859418",
+    "60859419",
+    "60859420",
+    "60859421",
+    "60859422",
+    "60859423",
+    "60859424",
+    "60859425",
+    "60859426",
+    "60859427",
+    "60859428",
+    "60859429",
+    "60859430",
+    "60859431",
+    "60859432",
+    "60859433",
+    "60859434",
+    "60859435",
+    "60859436",
+    "60859437",
+    "60859438",
+    "60859439",
+    "60859440",
+    "60874409",
+    "60859442",
+    "60859443",
+    "60859444",
+    "60859445",
+    "60859446",
+    "60859447",
+    "60859452"
+   ]
+  },
+  {
+   "date": "2009-09-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490258:por",
+     "title": "Lei n.º 113/2009",
+     "published": "2009-09-17",
+     "dre_path": "/dr/detalhe/lei/113-2009-490258"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "60859413",
+    "60859414",
+    "60859415",
+    "60874466",
+    "60859417",
+    "62003129",
+    "60859419",
+    "62062507",
+    "62062508",
+    "60859422",
+    "62062509",
+    "60859424",
+    "60859425",
+    "60859426",
+    "62062510",
+    "62062553",
+    "62062554",
+    "62062555",
+    "62062556",
+    "62062557",
+    "62062558",
+    "60859434",
+    "60859435",
+    "62062559",
+    "60859437",
+    "60859438",
+    "62062560",
+    "60859440",
+    "62062561",
+    "60859442",
+    "60859443",
+    "62062562",
+    "62062563",
+    "60859446",
+    "60859447",
+    "60859452"
+   ]
+  },
+  {
+   "date": "2009-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:490401:por",
+     "title": "Lei n.º 114/2009",
+     "published": "2009-09-22",
+     "dre_path": "/dr/detalhe/lei/114-2009-490401"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 26.º"
+   ],
+   "fragments": [
+    "60859413",
+    "60859414",
+    "60859415",
+    "60874466",
+    "60859417",
+    "62003129",
+    "60859419",
+    "62062507",
+    "62062508",
+    "60859422",
+    "62062509",
+    "60859424",
+    "60859425",
+    "60859426",
+    "62062510",
+    "62062553",
+    "62062554",
+    "62062555",
+    "62062556",
+    "63914575",
+    "62062558",
+    "60859434",
+    "60859435",
+    "62062559",
+    "60859437",
+    "60859438",
+    "62062560",
+    "60859440",
+    "62062561",
+    "60859442",
+    "60859443",
+    "62062562",
+    "62062563",
+    "60859446",
+    "60859447",
+    "60859452"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:491690:por",
+     "title": "Lei n.º 115/2009",
+     "published": "2009-10-12",
+     "dre_path": "/dr/detalhe/lei/115-2009-491690",
+     "date": "2010-04-10"
+    }
+   ]
+  },
+  {
+   "date": "2015-05-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67142147:por",
+     "title": "Lei n.º 37/2015",
+     "published": "2015-05-05",
+     "dre_path": "/dr/detalhe/lei/37-2015-67142147"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "180121175",
+    "180121176",
+    "180121177",
+    "180121178",
+    "180121179",
+    "180121180",
+    "180121181",
+    "180121182",
+    "180121183",
+    "180121184",
+    "180121185",
+    "180121186",
+    "180121187",
+    "180121188",
+    "180121189",
+    "180121190",
+    "180121191",
+    "180121192",
+    "180121193",
+    "180121194",
+    "180121195",
+    "180121196",
+    "180121197",
+    "180121198",
+    "180121199",
+    "180121200",
+    "180121201",
+    "180121202",
+    "180121203",
+    "180121204",
+    "180121205",
+    "180121206",
+    "180121207",
+    "180121208",
+    "180121209",
+    "180121210"
+   ]
+  }
+ ],
+ "fragments": {
+  "180121175": {
+   "fragment_id": "60858722",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2015-05-10",
+   "changed_by": [],
+   "markdown": "Lei n.º 57/98\n\nde 18 de Agosto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º, das alíneas b), c) e d) do n.º 1 do artigo 165.º e do n.º 3 do artigo 166.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "60859414": {
+   "fragment_id": "60858723",
+   "type": 1,
+   "heading": "Capítulo I — Identificação criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Identificação criminal"
+  },
+  "60859415": {
+   "fragment_id": "60858724",
+   "type": 8,
+   "heading": "Secção I — Objecto e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objecto e princípios gerais"
+  },
+  "60859416": {
+   "fragment_id": "60858725",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A identificação criminal tem por objecto a recolha, o tratamento e a conservação de extractos de decisões e de comunicações de factos referidos no artigo 5.º provenientes de tribunais portugueses, e de tribunais estrangeiros, relativamente a portugueses e a estrangeiros residentes em Portugal neles julgados, com o fim de permitir o conhecimento dos seus antecedentes criminais.\n\n2 - São também objecto de recolha, como meio complementar de identificação, as impressões digitais dos arguidos condenados nos tribunais portugueses, que são arquivadas pela ordem da respectiva fórmula, para organização do ficheiro dactiloscópico."
+  },
+  "60859417": {
+   "fragment_id": "60858726",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios\n\nA identificação criminal deve processar-se no estrito respeito pelo princípio da legalidade e, bem assim, pelos princípios da autenticidade, veracidade, univocidade e segurança dos elementos identificativos."
+  },
+  "60859418": {
+   "fragment_id": "60858727",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidade responsável pelas bases de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entidade responsável pelas bases de dados\n\n1 - O director-geral dos Serviços Judiciários é o responsável pelas bases de dados de identificação criminal, nos termos e para os efeitos definidos na alínea h) do artigo 2.º da Lei n.º 10/91, de 29 de Abril.\n\n2 - Cabe ao director-geral dos Serviços Judiciários assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação."
+  },
+  "60859419": {
+   "fragment_id": "60858728",
+   "type": 8,
+   "heading": "Secção II — Registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Registo criminal"
+  },
+  "60859420": {
+   "fragment_id": "60858729",
+   "type": 11,
+   "heading": "Artigo 4.º — Ficheiro central",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ficheiro central\n\n1 - O registo criminal é organizado em ficheiro central, que pode ser informatizado.\n\n2 - O registo criminal é constituído pelos elementos de identificação civil do arguido, por extractos de decisões criminais e por comunicações de factos a este respeitantes, sujeitos a registo nos termos da presente lei.\n\n3 - Os extractos das decisões e as comunicações de factos a que se refere o número anterior contêm a indicação:\n\na) Do tribunal que proferiu a decisão e do número do processo;\n\nb) Da identificação civil do arguido;\n\nc) Da data e forma da decisão;\n\nd) Do conteúdo da decisão e dos preceitos aplicados;\n\ne) Dos factos constantes do n.º 2 do artigo 5.º\n\n4 - Tratando-se de decisões condenatórias, o respectivo extracto deve conter a designação e data da prática do crime com indicação dos preceitos violados e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas.\n\n5 - A informação a que se refere o n.º 2 é comunicada aos serviços de identificação criminal através de boletins do registo criminal."
+  },
+  "60859421": {
+   "fragment_id": "60858730",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Âmbito do registo criminal\n\n1 - Estão sujeitas a registo criminal as seguintes decisões:\n\na) As decisões que apliquem penas e medidas de segurança que determinem o seu reexame, suspensão, prorrogação da suspensão, revogação e que declarem a sua extinção;\n\nb) As decisões que concedam ou revoguem a liberdade condicional ou a liberdade para prova;\n\nc) As decisões de dispensa de pena;\n\nd) As decisões que determinem ou revoguem o cancelamento no registo;\n\ne) As decisões que apliquem perdões e que concedam indultos ou comutações de penas;\n\nf) As decisões que determinem a não transcrição em certificados do registo criminal de condenações que tenham aplicado;\n\ng) As decisões que ordenem ou recusem a extradição;\n\nh) Os acórdãos proferidos em recurso extraordinário de revisão;\n\ni) Os acórdãos de revisão e confirmação de decisões condenatórias estrangeiras.\n\n2 - Estão ainda sujeitos a registo criminal os seguintes factos:\n\na) O pagamento de multa;\n\nb) O falecimento do arguido condenado.\n\n3 - As decisões judiciais a que se refere o n.º 1 são comunicadas após trânsito em julgado."
+  },
+  "60859422": {
+   "fragment_id": "60858731",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso a informação pelo titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Acesso a informação pelo titular\n\nO titular da informação ou quem prove efectuar o pedido em seu nome ou no seu interesse tem o direito de tomar conhecimento dos dados que ao mesmo disserem respeito constantes do registo criminal, podendo exigir a sua rectificação e actualização ou a supressão de dados indevidamente registados."
+  },
+  "60859423": {
+   "fragment_id": "60858732",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso à informação por terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Acesso à informação por terceiros\n\nPodem ainda aceder à informação sobre identificação criminal:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal e de instrução de processos criminais e de execução de penas;\n\nb) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nc) As entidades com competência legal para a instrução dos processos individuais dos reclusos e para esse fim;\n\nd) Os serviços de reinserção social no âmbito da prossecução dos seus fins;\n\ne) As entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins;\n\nf) Entidades oficiais não abrangidas pelas alíneas anteriores para a prossecução de fins públicos a seu cargo, quando os certificados não possam ser obtidos dos próprios titulares, e mediante autorização do Ministro da Justiça;\n\ng) As autoridades ou entidades diplomáticas e consulares estrangeiras, mediante autorização do Ministro da Justiça e nas mesmas condições das correspondentes autoridades nacionais, para instrução de processos criminais;\n\nh) As entidades oficiais de Estados membros das Comunidades Europeias, nas mesmas condições das correspondentes entidades nacionais, mediante autorização do Ministro da Justiça, para os fins constantes do artigo 5.º da Directiva do Conselho n.º <a href=\"eurlex.asp?ano=1964&id=364L0221\" title=\"Link para Directiva da Comunidade Europeia\">64/221/CEE</a>, de 25 de Fevereiro de 1964;\n\ni) Entidades autorizadas pelo Ministro da Justiça para a prossecução de fins de investigação científica ou estatísticos."
+  },
+  "60859424": {
+   "fragment_id": "60858733",
+   "type": 11,
+   "heading": "Artigo 8.º — Formas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Formas de acesso\n\n1 - O conhecimento da informação sobre identificação criminal pode ser obtido pelas formas seguintes:\n\na) Certificado do registo criminal;\n\nb) Reprodução autenticada do registo informático ou, na ausência de aplicação informática, consulta do registo individual;\n\nc) Acesso directo ao ficheiro central informatizado.\n\n2 - O âmbito da informação sobre identificação criminal para fins de investigação científica ou estatísticos é definido no despacho de autorização, não podendo abranger elementos que permitam identificar qualquer registo individual."
+  },
+  "60859425": {
+   "fragment_id": "60858734",
+   "type": 11,
+   "heading": "Artigo 9.º — Certificado do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Certificado do registo criminal\n\n1 - O certificado do registo criminal é emitido, com recurso preferencial a meios informáticos, pelos serviços de identificação criminal, a requisição ou requerimento, constituindo documento bastante para provar os antecedentes criminais do titular da informação.\n\n2 - O conteúdo do registo criminal é certificado face ao registo individual.\n\n3 - Não pode constar dos certificados qualquer indicação ou referência donde se possa depreender a existência, no registo, de outros elementos para além dos que devam ser expressamente certificados nos termos da lei, nem qualquer outra menção não contida nos ficheiros centrais do registo criminal e de contumazes nos termos dos artigos 5.º e 18.º da presente lei.\n\n4 - A emissão de certificados do registo criminal pode processar-se automaticamente em terminais de computador colocados nos tribunais ou em instalações de outras entidades referidas no artigo 7.º, com garantia do controlo e segurança da transmissão dos dados."
+  },
+  "60859426": {
+   "fragment_id": "60858735",
+   "type": 11,
+   "heading": "Artigo 10.º — Certificados requisitados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Certificados requisitados\n\n1 - Os certificados requisitados para os fins referidos nas alíneas a) a e) do artigo 7.º contêm a transcrição integral do registo criminal, salvo a informação cancelada ao abrigo do artigo 15.º\n\n2 - Nos certificados requisitados nos termos do artigo 7.º constam as decisões proferidas por tribunais estrangeiros, sendo-lhes aplicável o disposto no artigo 15.º"
+  },
+  "60859427": {
+   "fragment_id": "60858736",
+   "type": 11,
+   "heading": "Artigo 11.º — Certificados requeridos para fins de emprego",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Certificados requeridos para fins de emprego\n\n1 - Os certificados requeridos por particulares para fins de emprego, público ou privado, ou para o exercício de qualquer profissão ou actividade cujo exercício dependa de um título público ou de uma autorização ou homologação da autoridade pública devem conter apenas:\n\na) As decisões que decretem a demissão da função pública, proíbam o exercício de função pública, profissão ou actividade ou interditem esse exercício;\n\nb) As decisões que sejam consequência, complemento ou execução das indicadas na alínea anterior e não tenham como efeito o cancelamento do registo.\n\n2 - Nos casos em que, por força de lei, se exija ausência de quaisquer antecedentes criminais ou apenas de alguns para o exercício de determinada profissão ou actividade, os certificados são emitidos em conformidade com o disposto nos n.os 1 e 2 do artigo 12.º, devendo o requerente especificar a profissão ou actividade a exercer."
+  },
+  "60859428": {
+   "fragment_id": "60858737",
+   "type": 11,
+   "heading": "Artigo 12.º — Certificados requeridos para outros fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Certificados requeridos para outros fins\n\n1 - Os certificados requeridos por particulares para fins não previstos no artigo anterior contêm a transcrição integral do registo criminal, excepto se a lei permitir transcrição mais restrita do conteúdo.\n\n2 - Os certificados referidos no número anterior não podem conter informação relativa:\n\na) A condenações por contravenção, decorridos seis meses após o cumprimento da pena;\n\nb) A decisões canceladas nos termos do artigo 15.º;\n\nc) A decisões canceladas nos termos dos artigos 16.º e 17.º, bem como a revogação, a anulação ou a extinção da decisão de cancelamento;\n\nd) A decisões que declarem uma interdição de actividades ao abrigo do artigo 100.º do Código Penal, quando o período de interdição tenha chegado ao seu termo;\n\ne) A condenações de delinquentes primários em pena não superior a seis meses de prisão ou em pena equivalente, salvo enquanto vigorar interdição decretada pela autoridade judicial.\n\n3 - O director-geral dos Serviços Judiciários pode limitar o conteúdo ou recusar a emissão de certificados requeridos para fins não previstos na lei, se o requerente não justificar a necessidade de acesso à informação sobre identificação criminal."
+  },
+  "60859429": {
+   "fragment_id": "60858738",
+   "type": 11,
+   "heading": "Artigo 13.º — Reprodução autenticada do registo informático ou consulta do registo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reprodução autenticada do registo informático ou consulta do registo individual\n\n1 - A reprodução autenticada do registo informático destina-se a facultar ao titular da informação o conhecimento do conteúdo integral do registo a seu respeito, não substituindo, em caso algum, o certificado do registo criminal.\n\n2 - Na ausência de aplicação informática, o direito de acesso pelo titular ao conhecimento do conteúdo integral do registo a seu respeito concretiza-se através da consulta do registo individual, devendo o respectivo pedido ser dirigido ao director-geral dos Serviços Judiciários."
+  },
+  "60859430": {
+   "fragment_id": "60858739",
+   "type": 11,
+   "heading": "Artigo 14.º — Acesso directo ao ficheiro central informatizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Acesso directo ao ficheiro central informatizado\n\n1 - O acesso directo ao ficheiro central informatizado é definido por articulação entre a entidade requerente, os serviços de identificação criminal e a Direcção-Geral dos Serviços de Informática, nos termos previstos no diploma regulamentar.\n\n2 - As entidades autorizadas a aceder directamente ao ficheiro central informatizado são obrigadas a adoptar as medidas administrativas e técnicas que forem definidas pelos serviços de identificação criminal, necessárias a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n3 - As pesquisas ou as tentativas de pesquisa directa de informação sobre a identificação criminal ficam registadas automaticamente durante um período não inferior a um ano, podendo o seu registo ser objecto de controlo adequado pelos serviços de identificação criminal, que, para o efeito, podem solicitar os esclarecimentos convenientes às autoridades respectivas.\n\n4 - A utilização do impresso para requerimento de certificado do registo criminal pode ser dispensada nos serviços onde se processe a emissão.\n\n5 - A informação obtida por acesso directo não pode ter conteúdo mais lato do que o obtido através de certificado do registo criminal, providenciando os serviços de identificação criminal pela salvaguarda dos limites de acesso."
+  },
+  "60859431": {
+   "fragment_id": "60858740",
+   "type": 11,
+   "heading": "Artigo 15.º — Cancelamento definitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cancelamento definitivo\n\n1 - São canceladas automaticamente, e de forma irrevogável, no registo criminal:\n\na) As decisões que tenham aplicado pena principal ou medida de segurança, decorridos 5, 7 ou 10 anos sobre a extinção da pena ou medida de segurança, se a sua duração tiver sido inferior a 5 anos, entre 5 e 8 anos, ou superior a 8 anos, respectivamente, e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nb) As decisões de dispensa de pena e que apliquem pena de admoestação, decorridos 5 anos sobre o trânsito em julgado ou sobre a execução, respectivamente;\n\nc) As decisões que tenham aplicado pena acessória, após o decurso do prazo para esta fixado na respectiva sentença condenatória;\n\nd) As decisões consideradas sem efeito por disposição legal.\n\n2 - O cancelamento definitivo previsto nas alíneas a) e b) do n.º 1 não aproveita ao condenado quanto às perdas definitivas que lhe resultarem da condenação, não prejudica os direitos que desta advierem para o ofendido ou para terceiros, nem sana, de per si, a nulidade dos actos praticados pelo condenado durante a incapacidade.\n\n3 - São igualmente canceladas as decisões ou factos que sejam consequência, complemento ou execução de decisões que devam ser canceladas nos termos do n.º 1."
+  },
+  "60859432": {
+   "fragment_id": "60858741",
+   "type": 11,
+   "heading": "Artigo 16.º — Cancelamento provisório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cancelamento provisório\n\n1 - Estando em causa qualquer dos fins a que se destina o certificado requerido nos termos dos artigos 11.º e 12.º, sem prejuízo do disposto no n.º 2 do artigo 11.º, pode o tribunal de execução de penas determinar, decorridos dois anos sobre a extinção da pena principal ou da medida de segurança, o cancelamento, total ou parcial, das decisões que dele deveriam constar.\n\n2 - O disposto no número anterior só se aplica se o interessado se tiver comportado de forma que seja razoável supor encontrar-se readaptado e só tem lugar quando o requerente haja cumprido a obrigação de indemnizar o ofendido, justificado a sua extinção por qualquer meio legal ou se prove a impossibilidade do seu cumprimento.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente no caso de o interessado incorrer em nova condenação por crime doloso."
+  },
+  "60859433": {
+   "fragment_id": "60858742",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisões não transcritas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Decisões não transcritas\n\n1 - Os tribunais que condenem em pena de prisão até um ano ou em pena não privativa da liberdade podem determinar na sentença ou em despacho posterior, sempre que das circunstâncias que acompanharam o crime não se puder induzir perigo de prática de novos crimes, a não transcrição da respectiva sentença nos certificados a que se referem os artigos 11.º e 12.º deste diploma.\n\n2 - No caso de ter sido aplicada qualquer interdição, apenas é observado o disposto no número anterior findo o prazo da mesma.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente no caso de o interessado incorrer em nova condenação por crime doloso."
+  },
+  "60859434": {
+   "fragment_id": "60858743",
+   "type": 8,
+   "heading": "Secção III — Registo de contumazes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Registo de contumazes"
+  },
+  "60859435": {
+   "fragment_id": "60858744",
+   "type": 11,
+   "heading": "Artigo 18.º — Natureza e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Natureza e fins\n\n1 - O registo de contumazes, organizado em ficheiro central informatizado, consiste na recolha, tratamento e divulgação da informação sobre arguidos e condenados contumazes com vista a garantir a eficácia das medidas de desmotivação da ausência, sendo o principal objectivo a emissão do certificado de contumácia.\n\n2 - Estão sujeitas a registo as decisões dos tribunais que, nos termos da lei de processo penal, declarem a contumácia, alterem essa declaração ou a façam cessar."
+  },
+  "60859436": {
+   "fragment_id": "60858745",
+   "type": 11,
+   "heading": "Artigo 19.º — Acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acesso\n\n1 - Tem acesso à informação contida no registo de contumazes o titular da informação ou quem prove efectuar o pedido em nome ou no interesse daquele, podendo ser exigida a rectificação, actualização ou supressão de dados incorrectamente registados.\n\n2 - Podem ainda aceder ao registo de contumazes:\n\na) As entidades referidas no artigo 7.º;\n\nb) As entidades públicas a quem incumba assegurar a execução dos efeitos da contumácia;\n\nc) Os terceiros que provem efectuar o pedido com a finalidade de acautelarem interesses ligados à celebração de negócio jurídico com indivíduo declarado contumaz ou para instruir processo da sua anulação, sendo, neste caso, a informação restrita ao despacho que declarar a contumácia.\n\n3 - Ao registo de contumazes é aplicável o disposto no artigo 8.º, com as necessárias adaptações."
+  },
+  "60859437": {
+   "fragment_id": "60858746",
+   "type": 11,
+   "heading": "Artigo 20.º — Transcrição no certificado do registo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Transcrição no certificado do registo criminal\n\nA declaração de contumácia consta obrigatoriamente dos certificados do registo criminal requisitados para os fins referidos no artigo 10.º"
+  },
+  "60859438": {
+   "fragment_id": "60858747",
+   "type": 1,
+   "heading": "Capítulo II — Disposições penais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições penais"
+  },
+  "60859439": {
+   "fragment_id": "60858748",
+   "type": 11,
+   "heading": "Artigo 21.º — Violação de normas relativas a ficheiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Violação de normas relativas a ficheiros\n\n1 - A violação das normas relativas a ficheiros informatizados de identificação criminal ou de contumazes é punida nos termos dos artigos 34.º a 36.º, 38.º, 39.º e 41.º da Lei n.º 10/91, de 29 de Abril.\n\n2 - Quem, de forma indevida, obtiver, fornecer a outrem ou fizer uso de dados ou informações constantes dos ficheiros não automatizados de identificação criminal ou de contumazes, desviando-os da finalidade legal, é punido com pena de prisão até um ano ou multa até 120 dias."
+  },
+  "60859440": {
+   "fragment_id": "60858749",
+   "type": 11,
+   "heading": "Artigo 22.º — Falsificação de impressos de modelos oficiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Falsificação de impressos de modelos oficiais\n\nA falsificação de impressos de modelo oficial de certificados do registo criminal e de contumácia, o uso destes documentos falsificados e a falsificação de outros impressos de modelo oficial da identificação criminal constituem crime punido nos termos do artigo 256.º do Código Penal."
+  },
+  "60859441": {
+   "fragment_id": "60858750",
+   "type": 11,
+   "heading": "Artigo 23.º — Venda não autorizada de impressos exclusivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Venda não autorizada de impressos exclusivos\n\n1 - A venda de impressos de modelo oficial exclusivos dos serviços de identificação criminal sem que tenha existido despacho de autorização constitui contra-ordenação, punível com coima de 100000$00 a 750000$00 e com a apreensão dos impressos e do produto da venda indevida.\n\n2 - A organização do processo e a decisão sobre a aplicação da coima competem ao director-geral dos Serviços Judiciários.\n\n3 - O produto das coimas constitui receita do cofre geral dos tribunais do Ministério da Justiça."
+  },
+  "60859442": {
+   "fragment_id": "60858751",
+   "type": 1,
+   "heading": "Capítulo III — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições transitórias e finais"
+  },
+  "60859443": {
+   "fragment_id": "60858752",
+   "type": 11,
+   "heading": "Artigo 24.º — Tempo de conservação dos registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Tempo de conservação dos registos\n\n1 - Os registos individuais que hajam cessado a sua vigência são cancelados do ficheiro informático ou retirados dos ficheiros manuais no prazo máximo de dois anos após a data em que hajam perdido a eficácia jurídica, não podendo manter-se em ficheiro após o decurso desse prazo qualquer informação a eles respeitante.\n\n2 - O acesso à informação sem eficácia jurídica mantida em ficheiro durante o prazo previsto no número anterior só é possível aos serviços de identificação criminal para reposição de registos indevidamente cancelados ou retirados."
+  },
+  "60859444": {
+   "fragment_id": "60858753",
+   "type": 11,
+   "heading": "Artigo 25.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Reclamações e recursos\n\n1 - Compete ao director-geral dos Serviços Judiciários decidir sobre as reclamações respeitantes ao acesso à informação em matéria de identificação criminal e seu conteúdo, cabendo recurso da sua decisão.\n\n2 - O recurso sobre a legalidade da transcrição nos certificados do registo criminal é interposto para o tribunal de execução das penas."
+  },
+  "60859445": {
+   "fragment_id": "60858754",
+   "type": 11,
+   "heading": "Artigo 26.º — Parecer prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Parecer prévio\n\nA elaboração de diplomas legais em que se preveja a ausência de antecedentes criminais para o exercício de determinada profissão ou actividade é precedida, necessariamente, de parecer do Instituto de Reinserção Social."
+  },
+  "60859446": {
+   "fragment_id": "60858755",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Disposição transitória\n\n1 - A presente lei será regulamentada no prazo de 90 dias.\n\n2 - O Governo adoptará no mesmo prazo as providências necessárias para que, tendo em conta o disposto no artigo 9.º, n.º 3, seja assegurado, designadamente, o cumprimento das normas que vedam a aquisição e porte de armas por objectores de consciência."
+  },
+  "60859447": {
+   "fragment_id": "60858756",
+   "type": 11,
+   "heading": "Artigo 28.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Norma revogatória\n\nFicam revogados, a partir da entrada em vigor do regulamento previsto no número anterior, as seguintes normas legais e diplomas:\n\na) Artigos 13.º a 17.º do Decreto-Lei n.º 63/76, de 24 de Janeiro, alterado pelo Decreto-Lei n.º 325/89, de 26 de Setembro, na parte relativa à identificação criminal;\n\nb) Artigos 56.º a 63.º e 67.º a 76.º do Decreto-Lei n.º 64/76, de 24 de Janeiro, alterado pelos Decretos-Leis n.os 408/76, de 27 de Maio, e 851/76, de 17 de Dezembro, na parte referente à identificação criminal;\n\nc) Decreto-Lei n.º 39/83, de 25 de Janeiro, alterado pelos Decretos-Leis n.os 60/87, de 2 de Fevereiro, e 305/88, de 2 de Setembro, com excepção dos artigos 23.º e 24.º;\n\nd) Decreto-Lei n.º 305/88, de 2 de Setembro;\n\ne) Artigos 13.º a 33.º e, na parte referente à identificação criminal, os artigos 34.º a 45.º da Lei n.º 12/91, de 21 de Maio."
+  },
+  "60859413": {
+   "fragment_id": "60858722",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 57/98\n\nde 18 de Agosto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º, das alíneas b), c) e d) do n.º 1 do artigo 165.º e do n.º 3 do artigo 166.º da Constituição, para valer como lei geral da República, o seguinte:"
+  },
+  "60874380": {
+   "fragment_id": "60858725",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "1998-08-23",
+   "changed_by": [
+    "Rectificado pelo/a [Declaração de Rectificação n.º 16/98 - Diário da República n.º 226/1998, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1998-244888), em vigor a partir de 1998-08-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A identificação criminal tem por objecto a recolha, o tratamento e a conservação de extractos de decisões e de comunicações de factos referidos no artigo 5.º, provenientes de tribunais portugueses, e de tribunais estrangeiros, relativamente a portugueses e a estrangeiros residentes em Portugal neles julgados, com o fim de permitir o conhecimento dos seus antecedentes criminais.\n\n2 - São também objecto de recolha, como meio complementar de identificação, as impressões digitais dos arguidos condenados nos tribunais portugueses, que são arquivadas pela ordem da respectiva fórmula, para organização do ficheiro dactiloscópico.\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 16/98 - Diário da República n.º 226/1998, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1998-244888), em vigor a partir de 1998-08-23"
+  },
+  "60874409": {
+   "fragment_id": "60858750",
+   "type": 11,
+   "heading": "Artigo 23.º — Venda não autorizada de impressos exclusivos",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Venda não autorizada de impressos exclusivos\n\n1 - A venda de impressos de modelo oficial exclusivos dos serviços de identificação criminal sem que tenha existido despacho de autorização constitui contra-ordenação, punível com coima de (euro) 498,80 a (euro) 3740,98 e com a apreensão dos impressos e do produto da venda indevida.\n\n2 - A organização do processo e a decisão sobre a aplicação da coima competem ao director-geral dos Serviços Judiciários.\n\n3 - O produto das coimas constitui receita do cofre geral dos tribunais do Ministério da Justiça.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+  },
+  "60859452": {
+   "fragment_id": "60858761",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 26 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 31 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 6 de Agosto de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "60874466": {
+   "fragment_id": "60858725",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 16/98 - Diário da República n.º 226/1998, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1998-244888), em vigor a partir de 1998-08-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A identificação criminal tem por objecto a recolha, o tratamento e a conservação de extractos de decisões e de comunicações de factos referidos no artigo 5.º provenientes de tribunais portugueses e também de tribunais estrangeiros, neste caso relativamente a portugueses, a estrangeiros residentes em Portugal e a pessoas colectivas ou entidades equiparadas que tenham em Portugal a sua sede, administração efectiva ou representação permanente, julgados nesses tribunais, com o fim de permitir o conhecimento dos seus antecedentes criminais.\n\n2 - São também objecto de recolha, como meio complementar de identificação, as impressões digitais das pessoas singulares condenadas nos tribunais portugueses, que são arquivadas pela ordem da respectiva fórmula, para organização do ficheiro dactiloscópico.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 16/98 - Diário da República n.º 226/1998, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1998-244888), em vigor a partir de 1998-08-23"
+  },
+  "62003129": {
+   "fragment_id": "60858727",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidade responsável pelas bases de dados",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 3.º — Entidade responsável pelas bases de dados\n\n1 - O director-geral da Administração da Justiça é o responsável pelas bases de dados de identificação criminal, nos termos e para os efeitos definidos na Lei n.º 67/98, de 26 de Outubro.\n\n2 - Cabe ao director-geral da Administração da Justiça assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062507": {
+   "fragment_id": "60858729",
+   "type": 11,
+   "heading": "Artigo 4.º — Ficheiro central",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 4.º — Ficheiro central\n\n1 - O registo criminal é organizado em ficheiro central, que pode ser informatizado.\n\n2 - O registo criminal é constituído pelos elementos de identificação do arguido, por extractos de decisões criminais e por comunicações de factos a este respeitantes, sujeitos a registo nos termos da presente lei.\n\n3 - Os extractos das decisões e as comunicações de factos a que se refere o número anterior contêm a indicação:\n\na) Do tribunal que proferiu a decisão e do número do processo;\n\nb) Da identificação do arguido;\n\nc) Da data e forma da decisão;\n\nd) Do conteúdo da decisão e dos preceitos aplicados;\n\ne) Dos factos constantes do n.º 2 do artigo 5.º\n\n4 - Tratando-se de decisões condenatórias, o respectivo extracto deve conter a designação e data da prática do crime com indicação dos preceitos violados e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas.\n\n5 - A informação a que se refere o n.º 2 é comunicada aos serviços de identificação criminal através de boletins do registo criminal.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062508": {
+   "fragment_id": "60858730",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito do registo criminal",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Âmbito do registo criminal\n\n1 - Estão sujeitas a registo criminal as seguintes decisões:\n\na) As decisões que apliquem penas e medidas de segurança, as que determinem o seu reexame, substituição, suspensão, prorrogação da suspensão, revogação e as que declarem a sua extinção;\n\nb) As decisões que concedam ou revoguem a liberdade condicional ou a liberdade para prova;\n\nc) As decisões de dispensa de pena;\n\nd) As decisões que determinem a reabilitação de pessoa colectiva ou entidade equiparada;\n\ne) As decisões que determinem ou revoguem o cancelamento no registo;\n\nf) As decisões que apliquem perdões e que concedam indultos ou comutações de penas;\n\ng) As decisões que determinem a não transcrição em certificados do registo criminal de condenações que tenham aplicado;\n\nh) As decisões que ordenem ou recusem a extradição;\n\ni) Os acórdãos proferidos em recurso extraordinário de revisão;\n\nj) Os acórdãos de revisão e confirmação de decisões condenatórias estrangeiras.\n\n2 - Estão ainda sujeitos a registo criminal os seguintes factos:\n\na) O pagamento de multa;\n\nb) O falecimento do arguido condenado.\n\nc) A extinção da pessoa colectiva ou entidade equiparada condenada, incluindo a sua fusão ou cisão.\n\n3 - As decisões judiciais a que se refere o n.º 1 são comunicadas após trânsito em julgado.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062509": {
+   "fragment_id": "60858732",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso à informação por terceiros",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 113/2009 - Diário da República n.º 181/2009, Série I de 2009-09-17](https://diariodarepublica.pt/dr/detalhe/lei/113-2009-490258), em vigor a partir de 2009-09-22"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso à informação por terceiros\n\nPodem ainda aceder à informação sobre identificação criminal:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais, de execução de penas e de decisão sobre adopção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de menores ou regulação do exercício das responsabilidades parentais;\n\nb) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nc) As entidades com competência legal para a instrução dos processos individuais dos reclusos e para esse fim;\n\nd) Os serviços de reinserção social no âmbito da prossecução dos seus fins;\n\ne) As entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins;\n\nf) Entidades oficiais não abrangidas pelas alíneas anteriores para a prossecução de fins públicos a seu cargo, quando os certificados não possam ser obtidos dos próprios titulares, e mediante autorização do Ministro da Justiça, e, tratando-se de informação relativa a pessoa colectiva ou equiparada, entidades públicas encarregadas da supervisão da actividade económica por aquela desenvolvida, na medida do estritamente necessário para o exercício dessa supervisão e mediante autorização do Ministro da Justiça;\n\ng) As autoridades ou entidades diplomáticas e consulares estrangeiras, mediante autorização do Ministro da Justiça e nas mesmas condições das correspondentes autoridades nacionais, para instrução de processos criminais;\n\nh) As entidades oficiais de Estados membros da União Europeia, nas mesmas condições das correspondentes entidades nacionais, mediante autorização do Ministro da Justiça, para os fins constantes do n.º 3 do artigo 27.º da Directiva n.º 2004/38/CE, do Parlamento Europeu e do Conselho, de 29 de Abril, bem como as entidades de outro Estado, nos termos estabelecidos em convenção ou acordo internacional, assegurado que seja tratamento recíproco às entidades nacionais;\n\ni) Entidades autorizadas pelo Ministro da Justiça para a prossecução de fins de investigação científica ou estatísticos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 113/2009 - Diário da República n.º 181/2009, Série I de 2009-09-17](https://diariodarepublica.pt/dr/detalhe/lei/113-2009-490258), em vigor a partir de 2009-09-22"
+  },
+  "62062510": {
+   "fragment_id": "60858736",
+   "type": 11,
+   "heading": "Artigo 11.º — Certificados requeridos para fins de emprego ou de exercício de actividade",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 11.º — Certificados requeridos para fins de emprego ou de exercício de actividade\n\n1 - Os certificados requeridos por particulares que sejam pessoas singulares para fins de emprego, público ou privado, ou para o exercício de qualquer profissão ou actividade cujo exercício dependa de um título público ou de uma autorização ou homologação da autoridade pública devem conter apenas:\n\na) As decisões que decretem a demissão da função pública, proíbam o exercício de função pública, profissão ou actividade ou interditem esse exercício;\n\nb) As decisões que sejam consequência, complemento ou execução das indicadas na alínea anterior e não tenham como efeito o cancelamento do registo.\n\n2 - Nos casos em que, por força de lei, se exija ausência de quaisquer antecedentes criminais ou apenas de alguns para o exercício de determinada profissão ou actividade, os certificados são emitidos em conformidade com o disposto nos n.os 1 e 2 do artigo 12.º, devendo o requerente especificar a profissão ou actividade a exercer.\n\n3 - Os certificados requeridos por pessoa colectiva ou equiparada para o exercício de certa actividade contêm a transcrição integral do registo criminal, excepto se a lei permitir transcrição mais restrita do conteúdo.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062553": {
+   "fragment_id": "60858737",
+   "type": 11,
+   "heading": "Artigo 12.º — Certificados requeridos para outros fins",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 12.º — Certificados requeridos para outros fins\n\n1 - Os certificados requeridos por particulares, quer sejam pessoas singulares ou pessoas colectivas ou equiparadas, para fins não previstos no artigo anterior contêm a transcrição integral do registo criminal, excepto se a lei permitir transcrição mais restrita do seu conteúdo.\n\n2 - Os certificados referidos no número anterior não podem conter informação relativa:\n\na) A condenações por contravenção, decorridos seis meses após o cumprimento da pena;\n\nb) A decisões canceladas nos termos do artigo 15.º;\n\nc) A decisões canceladas nos termos dos artigos 16.º e 17.º, bem como a revogação, a anulação ou a extinção da decisão de cancelamento;\n\nd) A decisões que declarem uma interdição de actividades ao abrigo do artigo 100.º do Código Penal, quando o período de interdição tenha chegado ao seu termo;\n\ne) Tratando-se de pessoa singular, a condenações de delinquentes primários em pena não superior a seis meses de prisão ou em pena equivalente, salvo enquanto vigorar interdição decretada pela autoridade judicial.\n\n3 - O director-geral da Administração da Justiça pode limitar o conteúdo ou recusar a emissão de certificados requeridos para fins não previstos na lei se o requerente não justificar a necessidade de acesso à informação sobre identificação criminal.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062554": {
+   "fragment_id": "60858738",
+   "type": 11,
+   "heading": "Artigo 13.º — Reprodução autenticada do registo informático ou consulta do registo individual",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 13.º — Reprodução autenticada do registo informático ou consulta do registo individual\n\n1 - A reprodução autenticada do registo informático destina-se a facultar ao titular da informação o conhecimento do conteúdo integral do registo a seu respeito, não substituindo, em caso algum, o certificado do registo criminal.\n\n2 - Na ausência de aplicação informática, o direito de acesso pelo titular ao conhecimento do conteúdo integral do registo a seu respeito concretiza-se através da consulta do registo individual, sendo o respectivo pedido dirigido ao director-geral da Administração da Justiça.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062555": {
+   "fragment_id": "60858739",
+   "type": 11,
+   "heading": "Artigo 14.º — Acesso directo ao ficheiro central informatizado",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 14.º — Acesso directo ao ficheiro central informatizado\n\n1 - O acesso directo ao ficheiro central informatizado é definido por articulação entre a entidade requerente, os serviços de identificação criminal e o Instituto das Tecnologias de Informação na Justiça, nos termos previstos no diploma regulamentar.\n\n2 - As entidades autorizadas a aceder directamente ao ficheiro central informatizado são obrigadas a adoptar as medidas administrativas e técnicas que forem definidas pelos serviços de identificação criminal, necessárias a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n3 - As pesquisas ou as tentativas de pesquisa directa de informação sobre a identificação criminal ficam registadas automaticamente durante um período não inferior a um ano, podendo o seu registo ser objecto de controlo adequado pelos serviços de identificação criminal, que, para o efeito, podem solicitar os esclarecimentos convenientes às autoridades respectivas.\n\n4 - A utilização do impresso para requerimento de certificado do registo criminal pode ser dispensada nos serviços onde se processe a emissão.\n\n5 - A informação obtida por acesso directo não pode ter conteúdo mais lato do que o obtido através de certificado do registo criminal, providenciando os serviços de identificação criminal pela salvaguarda dos limites de acesso.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062556": {
+   "fragment_id": "60858740",
+   "type": 11,
+   "heading": "Artigo 15.º — Cancelamento definitivo",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 15.º — Cancelamento definitivo\n\n1 - São canceladas automaticamente, e de forma irrevogável, no registo criminal:\n\na) As decisões que tenham aplicado pena de prisão ou medida de segurança, decorridos 5, 7 ou 10 anos sobre a extinção da pena ou medida de segurança, se a sua duração tiver sido inferior a 5 anos, entre 5 e 8 anos ou superior a 8 anos, respectivamente, e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nb) As decisões que tenham aplicado pena de multa principal a pessoa singular, decorridos cinco anos sobre a extinção da pena e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nc) As decisões que tenham aplicado pena de multa a pessoa colectiva ou entidade equiparada, decorridos 5, 7 ou 10 anos sobre a extinção da pena, consoante a multa tenha sido fixada em menos de 600 dias, entre 600 e 900 dias ou em mais de 900 dias, respectivamente, e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nd) As decisões que tenham aplicado pena de dissolução a pessoa colectiva ou entidade equiparada, decorridos 10 anos sobre o trânsito em julgado;\n\ne) As decisões que tenham aplicado pena substitutiva da pena principal, decorridos cinco anos sobre a extinção da pena e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nf) As decisões de dispensa de pena ou que apliquem pena de admoestação, decorridos cinco anos sobre o trânsito em julgado ou sobre a execução, respectivamente;\n\ng) As decisões que tenham aplicado pena acessória, após o decurso do prazo para esta fixado na respectiva sentença condenatória ou, tratando-se de pena acessória sem prazo, após a decisão de reabilitação;\n\nh) As decisões consideradas sem efeito por disposição legal.\n\n2 - O cancelamento definitivo previsto nas alíneas a) a f) do número anterior não aproveita ao condenado quanto às perdas definitivas que lhe resultarem da condenação, não prejudica os direitos que desta advierem para o ofendido ou para terceiros nem sana, por si só, a nulidade dos actos praticados pelo condenado durante a incapacidade.\n\n3 - São igualmente canceladas as decisões ou factos que sejam consequência, complemento ou execução de decisões que devam ser canceladas nos termos do n.º 1.\n\n4 - São igualmente canceladas as decisões e os factos respeitantes a pessoa singular, após o seu falecimento, e os respeitantes a pessoa colectiva ou entidade equiparada, após a sua extinção, excepto quando esta tenha resultado de fusão ou cisão, caso em que as decisões e os factos passam a integrar o registo criminal das pessoas colectivas ou equiparadas que tiverem resultado da cisão ou em que a fusão se tiver efectivado.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062557": {
+   "fragment_id": "60858741",
+   "type": 11,
+   "heading": "Artigo 16.º — Cancelamento provisório",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 16.º — Cancelamento provisório\n\n1 - Estando em causa qualquer dos fins a que se destina o certificado requerido nos termos dos artigos 11.º e 12.º, sem prejuízo do disposto nos n.os 2 e 3 do artigo 11.º, pode o tribunal de execução das penas determinar, decorridos dois anos sobre a extinção da pena principal ou da medida de segurança, o cancelamento, total ou parcial, das decisões que dele deveriam constar.\n\n2 - O disposto no número anterior só se aplica se o interessado se tiver comportado de forma que seja razoável supor encontrar-se readaptado e só tem lugar quando o requerente haja cumprido a obrigação de indemnizar o ofendido, justificado a sua extinção por qualquer meio legal ou se prove a impossibilidade do seu cumprimento.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente no caso de o interessado incorrer em nova condenação por crime doloso.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062558": {
+   "fragment_id": "60858742",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisões não transcritas",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 17.º — Decisões não transcritas\n\n1 - Os tribunais que condenem pessoa singular em pena de prisão até um ano ou em pena não privativa da liberdade podem determinar na sentença ou em despacho posterior, sempre que das circunstâncias que acompanharam o crime não se puder induzir perigo de prática de novos crimes, a não transcrição da respectiva sentença nos certificados a que se referem os artigos 11.º e 12.º\n\n2 - No caso de ter sido aplicada qualquer interdição, apenas é observado o disposto no número anterior findo o prazo da mesma.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente no caso de o interessado incorrer em nova condenação por crime doloso.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062559": {
+   "fragment_id": "60858745",
+   "type": 11,
+   "heading": "Artigo 19.º — Acesso",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 19.º — Acesso\n\n1 - Tem acesso à informação contida no registo de contumazes o titular da informação ou quem prove efectuar o pedido em nome ou no interesse daquele, podendo ser exigida a rectificação, actualização ou supressão de dados incorrectamente registados.\n\n2 - Podem ainda aceder ao registo de contumazes:\n\na) As entidades referidas no artigo 7.º;\n\nb) As entidades públicas a quem incumba assegurar a execução dos efeitos da contumácia;\n\nc) Os terceiros que provem efectuar o pedido com a finalidade de acautelarem interesses ligados à celebração de negócio jurídico com contumaz ou para instruir processo da sua anulação, sendo, neste caso, a informação restrita ao despacho que declarar a contumácia.\n\n3 - Ao registo de contumazes é aplicável o disposto no artigo 8.º, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062560": {
+   "fragment_id": "60858748",
+   "type": 11,
+   "heading": "Artigo 21.º — Violação de normas relativas a ficheiros",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 21.º — Violação de normas relativas a ficheiros\n\n1 - A violação das normas relativas a ficheiros informatizados de identificação criminal ou de contumazes é punida nos termos do disposto na secção iii do capítulo vi da Lei n.º 67/98, de 26 de Outubro.\n\n2 - Quem, de forma indevida, obtiver, fornecer a outrem ou fizer uso de dados ou informações constantes dos ficheiros não automatizados de identificação criminal ou de contumazes, desviando-os da finalidade legal, é punido com pena de prisão até um ano ou multa até 120 dias.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062561": {
+   "fragment_id": "60858750",
+   "type": 11,
+   "heading": "Artigo 23.º — Venda não autorizada de impressos exclusivos",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Venda não autorizada de impressos exclusivos\n\n1 - A venda de impressos de modelo oficial exclusivos dos serviços de identificação criminal sem que tenha existido despacho de autorização constitui contra-ordenação, punível com coima de (euro) 500 a (euro) 3750 e com a apreensão dos impressos e do produto da venda indevida.\n\n2 - A organização do processo e a decisão sobre a aplicação da coima competem ao director-geral da Administração da Justiça.\n\n3 - O produto das coimas constitui receita do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+  },
+  "62062562": {
+   "fragment_id": "60858753",
+   "type": 11,
+   "heading": "Artigo 25.º — Reclamações e recursos",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 25.º — Reclamações e recursos\n\n1 - Compete ao director-geral da Administração da Justiça decidir sobre as reclamações respeitantes ao acesso à informação em matéria de identificação criminal e seu conteúdo, cabendo recurso da sua decisão.\n\n2 - O recurso sobre a legalidade da transcrição nos certificados do registo criminal é interposto para o tribunal de execução das penas.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "62062563": {
+   "fragment_id": "60858754",
+   "type": 11,
+   "heading": "Artigo 26.º — Parecer prévio",
+   "in_force_from": "2009-12-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 26.º — Parecer prévio\n\nA elaboração de diplomas legais em que se preveja a ausência de antecedentes criminais para o exercício de determinada profissão ou actividade por pessoa singular é precedida, necessariamente, de parecer da Direcção-Geral de Reinserção Social.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "63914575": {
+   "fragment_id": "60858741",
+   "type": 11,
+   "heading": "Artigo 16.º — Cancelamento provisório",
+   "in_force_from": "2010-04-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2009-491690), em vigor a partir de 2010-04-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 16.º — Cancelamento provisório\n\n1 - Estando em causa qualquer dos fins a que se destina o certificado requerido nos termos dos artigos 11.º e 12.º, sem prejuízo do disposto nos n.os 2 e 3 do artigo 11.º, pode o tribunal de execução das penas determinar, decorridos dois anos sobre a extinção da pena principal ou da medida de segurança, o cancelamento, total ou parcial, das decisões que dele deveriam constar.\n\n2 - O disposto no número anterior só se aplica se o interessado se tiver comportado de forma que seja razoável supor encontrar-se readaptado e só tem lugar quando o requerente haja cumprido a obrigação de indemnizar o ofendido, justificado a sua extinção por qualquer meio legal ou se prove a impossibilidade do seu cumprimento.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2009-491690), em vigor a partir de 2010-04-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121176": {
+   "fragment_id": "60858723",
+   "type": 1,
+   "heading": "Capítulo I — Identificação criminal",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "### Capítulo I — Identificação criminal\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121177": {
+   "fragment_id": "60858724",
+   "type": 8,
+   "heading": "Secção I — Objecto e princípios gerais",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "#### Secção I — Objecto e princípios gerais\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121178": {
+   "fragment_id": "60858725",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 16/98 - Diário da República n.º 226/1998, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1998-244888), em vigor a partir de 1998-08-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - A identificação criminal tem por objecto a recolha, o tratamento e a conservação de extractos de decisões e de comunicações de factos referidos no artigo 5.º provenientes de tribunais portugueses e também de tribunais estrangeiros, neste caso relativamente a portugueses, a estrangeiros residentes em Portugal e a pessoas colectivas ou entidades equiparadas que tenham em Portugal a sua sede, administração efectiva ou representação permanente, julgados nesses tribunais, com o fim de permitir o conhecimento dos seus antecedentes criminais.\n\n2 - São também objecto de recolha, como meio complementar de identificação, as impressões digitais das pessoas singulares condenadas nos tribunais portugueses, que são arquivadas pela ordem da respectiva fórmula, para organização do ficheiro dactiloscópico.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 16/98 - Diário da República n.º 226/1998, Série I-A de 1998-09-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-1998-244888), em vigor a partir de 1998-08-23"
+  },
+  "180121179": {
+   "fragment_id": "60858726",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 2.º — Princípios\n\nA identificação criminal deve processar-se no estrito respeito pelo princípio da legalidade e, bem assim, pelos princípios da autenticidade, veracidade, univocidade e segurança dos elementos identificativos.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121180": {
+   "fragment_id": "60858727",
+   "type": 11,
+   "heading": "Artigo 3.º — Entidade responsável pelas bases de dados",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 3.º — Entidade responsável pelas bases de dados\n\n1 - O director-geral da Administração da Justiça é o responsável pelas bases de dados de identificação criminal, nos termos e para os efeitos definidos na Lei n.º 67/98, de 26 de Outubro.\n\n2 - Cabe ao director-geral da Administração da Justiça assegurar o direito de informação e de acesso aos dados pelos respectivos titulares, a correcção de inexactidões, o completamento de omissões, a supressão de dados indevidamente registados, bem como velar pela legalidade da consulta ou da comunicação da informação.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121181": {
+   "fragment_id": "60858728",
+   "type": 8,
+   "heading": "Secção II — Registo criminal",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "#### Secção II — Registo criminal\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121182": {
+   "fragment_id": "60858729",
+   "type": 11,
+   "heading": "Artigo 4.º — Ficheiro central",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 4.º — Ficheiro central\n\n1 - O registo criminal é organizado em ficheiro central, que pode ser informatizado.\n\n2 - O registo criminal é constituído pelos elementos de identificação do arguido, por extractos de decisões criminais e por comunicações de factos a este respeitantes, sujeitos a registo nos termos da presente lei.\n\n3 - Os extractos das decisões e as comunicações de factos a que se refere o número anterior contêm a indicação:\n\na) Do tribunal que proferiu a decisão e do número do processo;\n\nb) Da identificação do arguido;\n\nc) Da data e forma da decisão;\n\nd) Do conteúdo da decisão e dos preceitos aplicados;\n\ne) Dos factos constantes do n.º 2 do artigo 5.º\n\n4 - Tratando-se de decisões condenatórias, o respectivo extracto deve conter a designação e data da prática do crime com indicação dos preceitos violados e das penas principais, de substituição e acessórias ou das medidas de segurança aplicadas.\n\n5 - A informação a que se refere o n.º 2 é comunicada aos serviços de identificação criminal através de boletins do registo criminal.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121183": {
+   "fragment_id": "60858730",
+   "type": 11,
+   "heading": "Artigo 5.º — Âmbito do registo criminal",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 5.º — Âmbito do registo criminal\n\n1 - Estão sujeitas a registo criminal as seguintes decisões:\n\na) As decisões que apliquem penas e medidas de segurança, as que determinem o seu reexame, substituição, suspensão, prorrogação da suspensão, revogação e as que declarem a sua extinção;\n\nb) As decisões que concedam ou revoguem a liberdade condicional ou a liberdade para prova;\n\nc) As decisões de dispensa de pena;\n\nd) As decisões que determinem a reabilitação de pessoa colectiva ou entidade equiparada;\n\ne) As decisões que determinem ou revoguem o cancelamento no registo;\n\nf) As decisões que apliquem perdões e que concedam indultos ou comutações de penas;\n\ng) As decisões que determinem a não transcrição em certificados do registo criminal de condenações que tenham aplicado;\n\nh) As decisões que ordenem ou recusem a extradição;\n\ni) Os acórdãos proferidos em recurso extraordinário de revisão;\n\nj) Os acórdãos de revisão e confirmação de decisões condenatórias estrangeiras.\n\n2 - Estão ainda sujeitos a registo criminal os seguintes factos:\n\na) O pagamento de multa;\n\nb) O falecimento do arguido condenado.\n\nc) A extinção da pessoa colectiva ou entidade equiparada condenada, incluindo a sua fusão ou cisão.\n\n3 - As decisões judiciais a que se refere o n.º 1 são comunicadas após trânsito em julgado.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121184": {
+   "fragment_id": "60858731",
+   "type": 11,
+   "heading": "Artigo 6.º — Acesso a informação pelo titular",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 6.º — Acesso a informação pelo titular\n\nO titular da informação ou quem prove efectuar o pedido em seu nome ou no seu interesse tem o direito de tomar conhecimento dos dados que ao mesmo disserem respeito constantes do registo criminal, podendo exigir a sua rectificação e actualização ou a supressão de dados indevidamente registados.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121185": {
+   "fragment_id": "60858732",
+   "type": 11,
+   "heading": "Artigo 7.º — Acesso à informação por terceiros",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23",
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 113/2009 - Diário da República n.º 181/2009, Série I de 2009-09-17](https://diariodarepublica.pt/dr/detalhe/lei/113-2009-490258), em vigor a partir de 2009-09-22"
+   ],
+   "markdown": "###### Artigo 7.º — Acesso à informação por terceiros\n\nPodem ainda aceder à informação sobre identificação criminal:\n\na) Os magistrados judiciais e do Ministério Público para fins de investigação criminal, de instrução de processos criminais, de execução de penas e de decisão sobre adopção, tutela, curatela, acolhimento familiar, apadrinhamento civil, entrega, guarda ou confiança de menores ou regulação do exercício das responsabilidades parentais;\n\nb) As entidades que, nos termos da lei processual, recebam delegação para a prática de actos de inquérito ou instrução ou a quem incumba cooperar internacionalmente na prevenção e repressão da criminalidade e no âmbito dessas competências;\n\nc) As entidades com competência legal para a instrução dos processos individuais dos reclusos e para esse fim;\n\nd) Os serviços de reinserção social no âmbito da prossecução dos seus fins;\n\ne) As entidades com competência legal para garantir a segurança interna e prevenir a sabotagem, o terrorismo, a espionagem e a prática de actos que, pela sua natureza, podem alterar ou destruir o Estado de direito constitucionalmente estabelecido, no âmbito da prossecução dos seus fins;\n\nf) Entidades oficiais não abrangidas pelas alíneas anteriores para a prossecução de fins públicos a seu cargo, quando os certificados não possam ser obtidos dos próprios titulares, e mediante autorização do Ministro da Justiça, e, tratando-se de informação relativa a pessoa colectiva ou equiparada, entidades públicas encarregadas da supervisão da actividade económica por aquela desenvolvida, na medida do estritamente necessário para o exercício dessa supervisão e mediante autorização do Ministro da Justiça;\n\ng) As autoridades ou entidades diplomáticas e consulares estrangeiras, mediante autorização do Ministro da Justiça e nas mesmas condições das correspondentes autoridades nacionais, para instrução de processos criminais;\n\nh) As entidades oficiais de Estados membros da União Europeia, nas mesmas condições das correspondentes entidades nacionais, mediante autorização do Ministro da Justiça, para os fins constantes do n.º 3 do artigo 27.º da Directiva n.º 2004/38/CE, do Parlamento Europeu e do Conselho, de 29 de Abril, bem como as entidades de outro Estado, nos termos estabelecidos em convenção ou acordo internacional, assegurado que seja tratamento recíproco às entidades nacionais;\n\ni) Entidades autorizadas pelo Ministro da Justiça para a prossecução de fins de investigação científica ou estatísticos.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 113/2009 - Diário da República n.º 181/2009, Série I de 2009-09-17](https://diariodarepublica.pt/dr/detalhe/lei/113-2009-490258), em vigor a partir de 2009-09-22"
+  },
+  "180121186": {
+   "fragment_id": "60858733",
+   "type": 11,
+   "heading": "Artigo 8.º — Formas de acesso",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 8.º — Formas de acesso\n\n1 - O conhecimento da informação sobre identificação criminal pode ser obtido pelas formas seguintes:\n\na) Certificado do registo criminal;\n\nb) Reprodução autenticada do registo informático ou, na ausência de aplicação informática, consulta do registo individual;\n\nc) Acesso directo ao ficheiro central informatizado.\n\n2 - O âmbito da informação sobre identificação criminal para fins de investigação científica ou estatísticos é definido no despacho de autorização, não podendo abranger elementos que permitam identificar qualquer registo individual.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121187": {
+   "fragment_id": "60858734",
+   "type": 11,
+   "heading": "Artigo 9.º — Certificado do registo criminal",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 9.º — Certificado do registo criminal\n\n1 - O certificado do registo criminal é emitido, com recurso preferencial a meios informáticos, pelos serviços de identificação criminal, a requisição ou requerimento, constituindo documento bastante para provar os antecedentes criminais do titular da informação.\n\n2 - O conteúdo do registo criminal é certificado face ao registo individual.\n\n3 - Não pode constar dos certificados qualquer indicação ou referência donde se possa depreender a existência, no registo, de outros elementos para além dos que devam ser expressamente certificados nos termos da lei, nem qualquer outra menção não contida nos ficheiros centrais do registo criminal e de contumazes nos termos dos artigos 5.º e 18.º da presente lei.\n\n4 - A emissão de certificados do registo criminal pode processar-se automaticamente em terminais de computador colocados nos tribunais ou em instalações de outras entidades referidas no artigo 7.º, com garantia do controlo e segurança da transmissão dos dados.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121188": {
+   "fragment_id": "60858735",
+   "type": 11,
+   "heading": "Artigo 10.º — Certificados requisitados",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 10.º — Certificados requisitados\n\n1 - Os certificados requisitados para os fins referidos nas alíneas a) a e) do artigo 7.º contêm a transcrição integral do registo criminal, salvo a informação cancelada ao abrigo do artigo 15.º\n\n2 - Nos certificados requisitados nos termos do artigo 7.º constam as decisões proferidas por tribunais estrangeiros, sendo-lhes aplicável o disposto no artigo 15.º\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121189": {
+   "fragment_id": "60858736",
+   "type": 11,
+   "heading": "Artigo 11.º — Certificados requeridos para fins de emprego ou de exercício de actividade",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 11.º — Certificados requeridos para fins de emprego ou de exercício de actividade\n\n1 - Os certificados requeridos por particulares que sejam pessoas singulares para fins de emprego, público ou privado, ou para o exercício de qualquer profissão ou actividade cujo exercício dependa de um título público ou de uma autorização ou homologação da autoridade pública devem conter apenas:\n\na) As decisões que decretem a demissão da função pública, proíbam o exercício de função pública, profissão ou actividade ou interditem esse exercício;\n\nb) As decisões que sejam consequência, complemento ou execução das indicadas na alínea anterior e não tenham como efeito o cancelamento do registo.\n\n2 - Nos casos em que, por força de lei, se exija ausência de quaisquer antecedentes criminais ou apenas de alguns para o exercício de determinada profissão ou actividade, os certificados são emitidos em conformidade com o disposto nos n.os 1 e 2 do artigo 12.º, devendo o requerente especificar a profissão ou actividade a exercer.\n\n3 - Os certificados requeridos por pessoa colectiva ou equiparada para o exercício de certa actividade contêm a transcrição integral do registo criminal, excepto se a lei permitir transcrição mais restrita do conteúdo.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121190": {
+   "fragment_id": "60858737",
+   "type": 11,
+   "heading": "Artigo 12.º — Certificados requeridos para outros fins",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 12.º — Certificados requeridos para outros fins\n\n1 - Os certificados requeridos por particulares, quer sejam pessoas singulares ou pessoas colectivas ou equiparadas, para fins não previstos no artigo anterior contêm a transcrição integral do registo criminal, excepto se a lei permitir transcrição mais restrita do seu conteúdo.\n\n2 - Os certificados referidos no número anterior não podem conter informação relativa:\n\na) A condenações por contravenção, decorridos seis meses após o cumprimento da pena;\n\nb) A decisões canceladas nos termos do artigo 15.º;\n\nc) A decisões canceladas nos termos dos artigos 16.º e 17.º, bem como a revogação, a anulação ou a extinção da decisão de cancelamento;\n\nd) A decisões que declarem uma interdição de actividades ao abrigo do artigo 100.º do Código Penal, quando o período de interdição tenha chegado ao seu termo;\n\ne) Tratando-se de pessoa singular, a condenações de delinquentes primários em pena não superior a seis meses de prisão ou em pena equivalente, salvo enquanto vigorar interdição decretada pela autoridade judicial.\n\n3 - O director-geral da Administração da Justiça pode limitar o conteúdo ou recusar a emissão de certificados requeridos para fins não previstos na lei se o requerente não justificar a necessidade de acesso à informação sobre identificação criminal.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121191": {
+   "fragment_id": "60858738",
+   "type": 11,
+   "heading": "Artigo 13.º — Reprodução autenticada do registo informático ou consulta do registo individual",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 13.º — Reprodução autenticada do registo informático ou consulta do registo individual\n\n1 - A reprodução autenticada do registo informático destina-se a facultar ao titular da informação o conhecimento do conteúdo integral do registo a seu respeito, não substituindo, em caso algum, o certificado do registo criminal.\n\n2 - Na ausência de aplicação informática, o direito de acesso pelo titular ao conhecimento do conteúdo integral do registo a seu respeito concretiza-se através da consulta do registo individual, sendo o respectivo pedido dirigido ao director-geral da Administração da Justiça.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121192": {
+   "fragment_id": "60858739",
+   "type": 11,
+   "heading": "Artigo 14.º — Acesso directo ao ficheiro central informatizado",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 14.º — Acesso directo ao ficheiro central informatizado\n\n1 - O acesso directo ao ficheiro central informatizado é definido por articulação entre a entidade requerente, os serviços de identificação criminal e o Instituto das Tecnologias de Informação na Justiça, nos termos previstos no diploma regulamentar.\n\n2 - As entidades autorizadas a aceder directamente ao ficheiro central informatizado são obrigadas a adoptar as medidas administrativas e técnicas que forem definidas pelos serviços de identificação criminal, necessárias a garantir que a informação não possa ser obtida indevidamente nem usada para fim diferente do permitido.\n\n3 - As pesquisas ou as tentativas de pesquisa directa de informação sobre a identificação criminal ficam registadas automaticamente durante um período não inferior a um ano, podendo o seu registo ser objecto de controlo adequado pelos serviços de identificação criminal, que, para o efeito, podem solicitar os esclarecimentos convenientes às autoridades respectivas.\n\n4 - A utilização do impresso para requerimento de certificado do registo criminal pode ser dispensada nos serviços onde se processe a emissão.\n\n5 - A informação obtida por acesso directo não pode ter conteúdo mais lato do que o obtido através de certificado do registo criminal, providenciando os serviços de identificação criminal pela salvaguarda dos limites de acesso.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121193": {
+   "fragment_id": "60858740",
+   "type": 11,
+   "heading": "Artigo 15.º — Cancelamento definitivo",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 15.º — Cancelamento definitivo\n\n1 - São canceladas automaticamente, e de forma irrevogável, no registo criminal:\n\na) As decisões que tenham aplicado pena de prisão ou medida de segurança, decorridos 5, 7 ou 10 anos sobre a extinção da pena ou medida de segurança, se a sua duração tiver sido inferior a 5 anos, entre 5 e 8 anos ou superior a 8 anos, respectivamente, e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nb) As decisões que tenham aplicado pena de multa principal a pessoa singular, decorridos cinco anos sobre a extinção da pena e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nc) As decisões que tenham aplicado pena de multa a pessoa colectiva ou entidade equiparada, decorridos 5, 7 ou 10 anos sobre a extinção da pena, consoante a multa tenha sido fixada em menos de 600 dias, entre 600 e 900 dias ou em mais de 900 dias, respectivamente, e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nd) As decisões que tenham aplicado pena de dissolução a pessoa colectiva ou entidade equiparada, decorridos 10 anos sobre o trânsito em julgado;\n\ne) As decisões que tenham aplicado pena substitutiva da pena principal, decorridos cinco anos sobre a extinção da pena e desde que, entretanto, não tenha ocorrido nova condenação por crime;\n\nf) As decisões de dispensa de pena ou que apliquem pena de admoestação, decorridos cinco anos sobre o trânsito em julgado ou sobre a execução, respectivamente;\n\ng) As decisões que tenham aplicado pena acessória, após o decurso do prazo para esta fixado na respectiva sentença condenatória ou, tratando-se de pena acessória sem prazo, após a decisão de reabilitação;\n\nh) As decisões consideradas sem efeito por disposição legal.\n\n2 - O cancelamento definitivo previsto nas alíneas a) a f) do número anterior não aproveita ao condenado quanto às perdas definitivas que lhe resultarem da condenação, não prejudica os direitos que desta advierem para o ofendido ou para terceiros nem sana, por si só, a nulidade dos actos praticados pelo condenado durante a incapacidade.\n\n3 - São igualmente canceladas as decisões ou factos que sejam consequência, complemento ou execução de decisões que devam ser canceladas nos termos do n.º 1.\n\n4 - São igualmente canceladas as decisões e os factos respeitantes a pessoa singular, após o seu falecimento, e os respeitantes a pessoa colectiva ou entidade equiparada, após a sua extinção, excepto quando esta tenha resultado de fusão ou cisão, caso em que as decisões e os factos passam a integrar o registo criminal das pessoas colectivas ou equiparadas que tiverem resultado da cisão ou em que a fusão se tiver efectivado.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121194": {
+   "fragment_id": "60858741",
+   "type": 11,
+   "heading": "Artigo 16.º — Cancelamento provisório",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 8.º do/a [Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2009-491690), em vigor a partir de 2010-04-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 16.º — Cancelamento provisório\n\n1 - Estando em causa qualquer dos fins a que se destina o certificado requerido nos termos dos artigos 11.º e 12.º, sem prejuízo do disposto nos n.os 2 e 3 do artigo 11.º, pode o tribunal de execução das penas determinar, decorridos dois anos sobre a extinção da pena principal ou da medida de segurança, o cancelamento, total ou parcial, das decisões que dele deveriam constar.\n\n2 - O disposto no número anterior só se aplica se o interessado se tiver comportado de forma que seja razoável supor encontrar-se readaptado e só tem lugar quando o requerente haja cumprido a obrigação de indemnizar o ofendido, justificado a sua extinção por qualquer meio legal ou se prove a impossibilidade do seu cumprimento.\n\n3 - (Revogado).\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 8.º do/a [Lei n.º 115/2009 - Diário da República n.º 197/2009, Série I de 2009-10-12](https://diariodarepublica.pt/dr/detalhe/lei/115-2009-491690), em vigor a partir de 2010-04-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121195": {
+   "fragment_id": "60858742",
+   "type": 11,
+   "heading": "Artigo 17.º — Decisões não transcritas",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 17.º — Decisões não transcritas\n\n1 - Os tribunais que condenem pessoa singular em pena de prisão até um ano ou em pena não privativa da liberdade podem determinar na sentença ou em despacho posterior, sempre que das circunstâncias que acompanharam o crime não se puder induzir perigo de prática de novos crimes, a não transcrição da respectiva sentença nos certificados a que se referem os artigos 11.º e 12.º\n\n2 - No caso de ter sido aplicada qualquer interdição, apenas é observado o disposto no número anterior findo o prazo da mesma.\n\n3 - O cancelamento previsto no n.º 1 é revogado automaticamente no caso de o interessado incorrer em nova condenação por crime doloso.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121196": {
+   "fragment_id": "60858743",
+   "type": 8,
+   "heading": "Secção III — Registo de contumazes",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "#### Secção III — Registo de contumazes\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121197": {
+   "fragment_id": "60858744",
+   "type": 11,
+   "heading": "Artigo 18.º — Natureza e fins",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 18.º — Natureza e fins\n\n1 - O registo de contumazes, organizado em ficheiro central informatizado, consiste na recolha, tratamento e divulgação da informação sobre arguidos e condenados contumazes com vista a garantir a eficácia das medidas de desmotivação da ausência, sendo o principal objectivo a emissão do certificado de contumácia.\n\n2 - Estão sujeitas a registo as decisões dos tribunais que, nos termos da lei de processo penal, declarem a contumácia, alterem essa declaração ou a façam cessar.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121198": {
+   "fragment_id": "60858745",
+   "type": 11,
+   "heading": "Artigo 19.º — Acesso",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 19.º — Acesso\n\n1 - Tem acesso à informação contida no registo de contumazes o titular da informação ou quem prove efectuar o pedido em nome ou no interesse daquele, podendo ser exigida a rectificação, actualização ou supressão de dados incorrectamente registados.\n\n2 - Podem ainda aceder ao registo de contumazes:\n\na) As entidades referidas no artigo 7.º;\n\nb) As entidades públicas a quem incumba assegurar a execução dos efeitos da contumácia;\n\nc) Os terceiros que provem efectuar o pedido com a finalidade de acautelarem interesses ligados à celebração de negócio jurídico com contumaz ou para instruir processo da sua anulação, sendo, neste caso, a informação restrita ao despacho que declarar a contumácia.\n\n3 - Ao registo de contumazes é aplicável o disposto no artigo 8.º, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121199": {
+   "fragment_id": "60858746",
+   "type": 11,
+   "heading": "Artigo 20.º — Transcrição no certificado do registo criminal",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 20.º — Transcrição no certificado do registo criminal\n\nA declaração de contumácia consta obrigatoriamente dos certificados do registo criminal requisitados para os fins referidos no artigo 10.º\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121200": {
+   "fragment_id": "60858747",
+   "type": 1,
+   "heading": "Capítulo II — Disposições penais",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "### Capítulo II — Disposições penais\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121201": {
+   "fragment_id": "60858748",
+   "type": 11,
+   "heading": "Artigo 21.º — Violação de normas relativas a ficheiros",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 21.º — Violação de normas relativas a ficheiros\n\n1 - A violação das normas relativas a ficheiros informatizados de identificação criminal ou de contumazes é punida nos termos do disposto na secção iii do capítulo vi da Lei n.º 67/98, de 26 de Outubro.\n\n2 - Quem, de forma indevida, obtiver, fornecer a outrem ou fizer uso de dados ou informações constantes dos ficheiros não automatizados de identificação criminal ou de contumazes, desviando-os da finalidade legal, é punido com pena de prisão até um ano ou multa até 120 dias.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121202": {
+   "fragment_id": "60858749",
+   "type": 11,
+   "heading": "Artigo 22.º — Falsificação de impressos de modelos oficiais",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 22.º — Falsificação de impressos de modelos oficiais\n\nA falsificação de impressos de modelo oficial de certificados do registo criminal e de contumácia, o uso destes documentos falsificados e a falsificação de outros impressos de modelo oficial da identificação criminal constituem crime punido nos termos do artigo 256.º do Código Penal.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121203": {
+   "fragment_id": "60858750",
+   "type": 11,
+   "heading": "Artigo 23.º — Venda não autorizada de impressos exclusivos",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — Venda não autorizada de impressos exclusivos\n\n1 - A venda de impressos de modelo oficial exclusivos dos serviços de identificação criminal sem que tenha existido despacho de autorização constitui contra-ordenação, punível com coima de (euro) 500 a (euro) 3750 e com a apreensão dos impressos e do produto da venda indevida.\n\n2 - A organização do processo e a decisão sobre a aplicação da coima competem ao director-geral da Administração da Justiça.\n\n3 - O produto das coimas constitui receita do Instituto de Gestão Financeira e de Infra-Estruturas da Justiça.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 323/2001 - Diário da República n.º 290/2001, Série I-A de 2001-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-2001-540216), em vigor a partir de 2002-01-01"
+  },
+  "180121204": {
+   "fragment_id": "60858751",
+   "type": 1,
+   "heading": "Capítulo III — Disposições transitórias e finais",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "### Capítulo III — Disposições transitórias e finais\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121205": {
+   "fragment_id": "60858752",
+   "type": 11,
+   "heading": "Artigo 24.º — Tempo de conservação dos registos",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 24.º — Tempo de conservação dos registos\n\n1 - Os registos individuais que hajam cessado a sua vigência são cancelados do ficheiro informático ou retirados dos ficheiros manuais no prazo máximo de dois anos após a data em que hajam perdido a eficácia jurídica, não podendo manter-se em ficheiro após o decurso desse prazo qualquer informação a eles respeitante.\n\n2 - O acesso à informação sem eficácia jurídica mantida em ficheiro durante o prazo previsto no número anterior só é possível aos serviços de identificação criminal para reposição de registos indevidamente cancelados ou retirados.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121206": {
+   "fragment_id": "60858753",
+   "type": 11,
+   "heading": "Artigo 25.º — Reclamações e recursos",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 25.º — Reclamações e recursos\n\n1 - Compete ao director-geral da Administração da Justiça decidir sobre as reclamações respeitantes ao acesso à informação em matéria de identificação criminal e seu conteúdo, cabendo recurso da sua decisão.\n\n2 - O recurso sobre a legalidade da transcrição nos certificados do registo criminal é interposto para o tribunal de execução das penas.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121207": {
+   "fragment_id": "60858754",
+   "type": 11,
+   "heading": "Artigo 26.º — Parecer prévio",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+   ],
+   "markdown": "###### Artigo 26.º — Parecer prévio\n\nA elaboração de diplomas legais em que se preveja a ausência de antecedentes criminais para o exercício de determinada profissão ou actividade por pessoa singular é precedida, necessariamente, de parecer da Direcção-Geral de Reinserção Social.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 114/2009 - Diário da República n.º 184/2009, Série I de 2009-09-22](https://diariodarepublica.pt/dr/detalhe/lei/114-2009-490401), em vigor a partir de 2009-12-23"
+  },
+  "180121208": {
+   "fragment_id": "60858755",
+   "type": 11,
+   "heading": "Artigo 27.º — Disposição transitória",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 27.º — Disposição transitória\n\n1 - A presente lei será regulamentada no prazo de 90 dias.\n\n2 - O Governo adoptará no mesmo prazo as providências necessárias para que, tendo em conta o disposto no artigo 9.º, n.º 3, seja assegurado, designadamente, o cumprimento das normas que vedam a aquisição e porte de armas por objectores de consciência.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121209": {
+   "fragment_id": "60858756",
+   "type": 11,
+   "heading": "Artigo 28.º — Norma revogatória",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "###### Artigo 28.º — Norma revogatória\n\nFicam revogados, a partir da entrada em vigor do regulamento previsto no número anterior, as seguintes normas legais e diplomas:\n\na) Artigos 13.º a 17.º do Decreto-Lei n.º 63/76, de 24 de Janeiro, alterado pelo Decreto-Lei n.º 325/89, de 26 de Setembro, na parte relativa à identificação criminal;\n\nb) Artigos 56.º a 63.º e 67.º a 76.º do Decreto-Lei n.º 64/76, de 24 de Janeiro, alterado pelos Decretos-Leis n.os 408/76, de 27 de Maio, e 851/76, de 17 de Dezembro, na parte referente à identificação criminal;\n\nc) Decreto-Lei n.º 39/83, de 25 de Janeiro, alterado pelos Decretos-Leis n.os 60/87, de 2 de Fevereiro, e 305/88, de 2 de Setembro, com excepção dos artigos 23.º e 24.º;\n\nd) Decreto-Lei n.º 305/88, de 2 de Setembro;\n\ne) Artigos 13.º a 33.º e, na parte referente à identificação criminal, os artigos 34.º a 45.º da Lei n.º 12/91, de 21 de Maio.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  },
+  "180121210": {
+   "fragment_id": "60858761",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2015-05-10",
+   "changed_by": [
+    "Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+   ],
+   "markdown": "Aprovada em 26 de Junho de 1998.\n\nO Presidente da Assembleia da República, António de Almeida Santos.\n\nPromulgada em 31 de Julho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 6 de Agosto de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 46.º do/a [Lei n.º 37/2015 - Diário da República n.º 86/2015, Série I de 2015-05-05](https://diariodarepublica.pt/dr/detalhe/lei/37-2015-67142147), em vigor a partir de 2015-05-10"
+  }
+ }
+}

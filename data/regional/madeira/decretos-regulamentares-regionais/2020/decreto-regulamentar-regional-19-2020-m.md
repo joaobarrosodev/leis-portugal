@@ -1,0 +1,272 @@
+---
+schema_version: '1.0'
+id: pt:dre:129970436:por
+title: Decreto Regulamentar Regional n.º 19/2020/M
+short_title: null
+summary: Aprova a orgânica da Direção Regional de Administração Escolar
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 19/2020/M
+official_date: null
+publication_date: '2020-03-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 47/2020, Série I de 2020-03-06
+  number: '47'
+  series: I
+  supplement: null
+  pages: 5 - 8
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/03/04700/0000500008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/19/2020/03/06/m/dre/pt/html
+  oj: null
+  dre: '129970436'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/19-2020-129970436
+  internal: pt:dre:129970436:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436
+  metadata_url: https://data.dre.pt/eli/decregulreg/19/2020/03/06/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/19-2020-129970436
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-12-16T00:00:00Z'
+integrity:
+  source_sha256: 840e25159015d477134900fd23fb6a349e43c8a334d0f8384e0f32e398404a60
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2020/DRE-2020-19-129970436.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Reestruturação de Serviços
+- Pessoal Dirigente
+- Governo Regional
+- Criação de Lugares
+- Criação de Serviços
+- Definição de Competências
+- Direcção Regional da Administração Escolar
+- Diretor Regional
+- Integração de Serviços
+- Integração de Trabalhadores
+- Orgânica
+- Madeira.região Autónoma
+- Regime de Pessoal
+- Transferência de Competências
+- Transferência de Serviços
+relationships:
+- type: amended_by
+  target: pt:dre:900164438:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec
+  label: null
+  source: http://data.dre.pt/eli/dec
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/42-a/2016/12/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/42-a/2016/12/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/2/2020/01/09/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/2/2020/01/09/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/8-a/2019/11/19/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/8-a/2019/11/19/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 11
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 19/2020/M
+
+Aprova a orgânica da Direção Regional de Administração Escolar
+
+O [Decreto Regulamentar Regional n.º 8-A/2019/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-a-2019-126318034), de 19 de novembro, que aprovou a organização e funcionamento do XIII Governo Regional da Madeira, concebeu no seu artigo 1.º a Estrutura do Governo, criando através da alínea d) a Secretaria Regional de Educação, Ciência e Tecnologia e especificando no respetivo artigo 5.º as atribuições cometidas a essa estrutura organizacional.
+
+Nesta sequência, o [Decreto Regulamentar Regional n.º 2/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), de 9 de janeiro, aprovou a orgânica da Secretaria Regional de Educação, Ciência e Tecnologia nela ficando englobados os setores de Educação, da Educação Especial, do Desporto, da Formação Profissional, da Ciência e Tecnologia, da Juventude e da Comunicação Social e estatuiu no seu articulado que a natureza, a missão, as atribuições e a organização interna do organismo referido na alínea d) do n.º 1 do artigo 6.º do anexo constariam de decreto regulamentar regional.
+
+Assim, e porque o respetivo artigo 17.º, que definiu a missão a cumprir pela Direção Regional de Administração Escolar (DRAE), pretendeu centrar a sua atuação em áreas específicas, designadamente os recursos humanos da educação e a administração escolar, sempre numa perspetiva de apoio ao desenvolvimento das organizações escolares, projetou-se uma conceção de administração escolar pluridimensional. Significa que a ação da DRAE não se restringe às questões organizacionais e administrativas da educação, nem à simples difusão de informação geral acerca do funcionamento das escolas do ponto de vista jurídico e normativo, mas visa, sobretudo, implementar conceções de modernização assentes em análise diagnóstica e conhecimento especializado das organizações para obtenção de eficiência e performance de resultados, através da intervenção nos processos de utilização racional de recursos.
+
+Simultaneamente, assume particular relevância o propósito desta Direção Regional se focar no apoio à melhoria organizacional das escolas, suportada pela coerência entre a sua ação planificadora e a articulação e intencionalidade colocadas na produção dos respetivos instrumentos de gestão, tendo em vista a obtenção de melhores resultados escolares.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, revisto pelas Leis n.os [130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, do artigo 5.º do [Decreto Regulamentar Regional n.º 8-A/2019/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-a-2019-126318034), de 19 de novembro, da alínea d) do n.º 1 do artigo 6.º e do artigo 17.º da orgânica da Secretaria Regional de Educação, Ciência e Tecnologia, aprovada pelo [Decreto Regulamentar Regional n.º 2/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), de 9 de janeiro, e do n.º 1 do artigo 24.º do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os [24/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/24-2012-174815), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro, o Governo Regional da Madeira decreta o seguinte:
+
+### CAPÍTULO I — Natureza, missão, atribuições e competências
+
+###### Artigo 1.º — Natureza
+
+A Direção Regional de Administração Escolar, designada no presente diploma abreviadamente por DRAE, é o serviço da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional de Educação, Ciência e Tecnologia, adiante designada por SRE, a que se refere a alínea d) do n.º 1 do artigo 6.º da orgânica aprovada pelo [Decreto Regulamentar Regional n.º 2/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), de 9 de janeiro.
+
+###### Artigo 2.º — Missão
+
+A DRAE tem por missão a conceção de medidas de gestão, a coordenação e o apoio técnico-legal nas áreas de recursos humanos e de administração escolar, no âmbito das diretrizes definidas para a administração pública regional, criando condições para a implementação de políticas de desenvolvimento e valorização dos recursos humanos e de evolução da autonomia das escolas, promovendo a gestão estratégica e a melhoria organizacional e providenciando conhecimento especializado de suporte aos processos de decisão política e de informação à comunidade educativa e à sociedade em geral.
+
+###### Artigo 3.º — Atribuições
+
+Na prossecução da sua missão, são atribuições da DRAE:
+
+a) Promover, no quadro da SRE, políticas de desenvolvimento da autonomia, administração e gestão das organizações escolares e iniciativas de valorização de recursos humanos definidas para a administração pública regional, coordenando e apoiando os seus serviços na respetiva implementação;
+
+b) Participar em processos de negociação coletiva da Administração Pública com as organizações representativas dos trabalhadores, no âmbito das áreas de atuação da DRAE;
+
+c) Harmonizar a política geral definida para a Administração Pública com as medidas a adotar nas áreas docente e não docente nas organizações escolares da Região Autónoma da Madeira, abreviadamente designada por RAM, emanando orientações ao nível da gestão dos recursos humanos e procedendo ao seu acompanhamento;
+
+d) Desenvolver políticas de gestão estratégica de recursos humanos das organizações escolares;
+
+e) Promover iniciativas que visem a produção e partilha de conhecimento que sustente as opções estratégicas a realizar pelas organizações escolares e pelos serviços;
+
+f) Contribuir para o contínuo aperfeiçoamento dos sistemas de informação e de apoio à tomada de decisão no âmbito do sistema educativo regional;
+
+g) Promover o reforço da autonomia e responsabilização das escolas, potenciando sinergias entre os diferentes intervenientes do sistema educativo regional, num quadro de rigor e qualidade, sustentado numa perspetiva de melhoria organizacional contínua;
+
+h) Apoiar o desenvolvimento organizacional das escolas, numa perspetiva de melhoria organizacional suportada pela coerência na ação planificadora, na articulação e intencionalidade colocadas na produção dos respetivos instrumentos de autonomia, administração e gestão;
+
+i) Monitorizar e avaliar a qualidade do desempenho organizacional resultante das políticas expressas nas alíneas anteriores, num quadro de rigor procedimental e de melhoria do serviço público de educação;
+
+j) Orientar as unidades orgânicas de âmbito concelhio que vierem a assumir localmente a coordenação das escolas básicas do 1.º ciclo com ou sem pré-escolar.
+
+###### Artigo 4.º — Competências
+
+1 - A DRAE é dirigida por um diretor regional, cargo de direção superior de 1.º grau, que é responsável pelas políticas de desenvolvimento da administração e gestão das organizações escolares e pela emanação de orientações ao nível dos recursos humanos da SRE.
+
+2 - Ao diretor regional são, genericamente, cometidas as seguintes competências:
+
+a) Gerir o sistema centralizado de gestão da SRE, nos termos do artigo 22.º do [Decreto Regulamentar Regional n.º 2/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/2-2020-127899796), de 9 de janeiro;
+
+b) Autorizar a mobilidade dos recursos humanos da SRE;
+
+c) Processar/acompanhar as remunerações, abonos e regalias sociais dos recursos humanos da DRAE e dos serviços que integram a administração direta da SRE;
+
+d) Qualificar os acidentes de trabalho e autorizar o processamento das respetivas despesas, dos recursos humanos da DRAE e dos serviços que integram a administração direta da SRE;
+
+e) Realizar a gestão de recursos humanos dos serviços que integram a administração direta da SRE que não possuam unidades orgânicas de gestão de recursos humanos, sem prejuízo das competências próprias desses serviços em matéria de avaliação do desempenho, horários de trabalho e assiduidade;
+
+f) Proceder à recolha de informação e sistematização de dados e indicadores relativos ao sistema educativo regional, reportando-os às entidades competentes;
+
+g) Pronunciar-se sobre projetos de diplomas que versem matérias das suas atribuições;
+
+h) Emanar pareceres técnicos e jurídicos no âmbito de procedimentos administrativos e de processos contenciosos nas áreas da sua competência;
+
+i) Colaborar no levantamento das necessidades de formação inicial, contínua e especializada dos recursos humanos da SRE;
+
+j) Colaborar com a Direção Regional de Planeamento, Recursos e Infraestruturas na adequação da rede escolar, nos seus aspetos de gestão e funcionamento;
+
+k) Acompanhar a aplicação de medidas de política educativa e das disposições legais em vigor no âmbito das suas atribuições;
+
+l) Apoiar o desenvolvimento organizacional das escolas numa perspetiva de melhoria, tendo em vista a obtenção de melhores resultados escolares;
+
+m) Promover iniciativas de informação e atualização técnica aos recursos humanos das organizações escolares, orientada para os respetivos conteúdos funcionais.
+
+3 - O diretor regional exerce as competências que lhe foram conferidas por lei ou que nele sejam delegadas, para além das referidas no número anterior.
+
+4 - O diretor regional é substituído, nas suas ausências e impedimentos, pelo diretor de serviços para o efeito designado.
+
+5 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção e chefia.
+
+### CAPÍTULO II — Estrutura e funcionamento geral
+
+###### Artigo 5.º — Organização interna
+
+A organização interna dos serviços obedece a um modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Cargos de direção
+
+Os lugares de direção superior e de direção intermédia de 1.º grau constam do anexo i ao presente diploma, do qual fazem parte integrante.
+
+### CAPÍTULO III — Disposições finais e transitórias
+
+###### Artigo 7.º — Transferência de competências, direitos e obrigações
+
+As competências, os direitos e as obrigações de que eram titulares os órgãos ou serviços da Direção Regional de Inovação e Gestão são automaticamente transferidos para os correspondentes novos órgãos ou serviços que os substituem, ou que os passam a integrar em razão da respetiva matéria de competências, sem dependência de quaisquer formalidades, mantendo-se, no entanto, as referidas competências, direitos e obrigações nos anteriores órgãos ou serviços até à data da entrada em vigor do diploma que vier a aprovar a respetiva orgânica.
+
+###### Artigo 8.º — Afetação de pessoal
+
+O pessoal afeto à Direção Regional de Inovação e Gestão transita para a Direção Regional de Administração Escolar, com efeitos à data de entrada em vigor do presente diploma.
+
+###### Artigo 9.º — Norma transitória
+
+Até à entrada em vigor dos diplomas que aprovam as unidades orgânicas nucleares e flexíveis da DRAE previstas no artigo 5.º, mantém-se em vigor a Portaria n.º 67/2016, de 25 de fevereiro, alterada pelas Portarias n.os 211/2016, de 18 de maio, e 65/2018, de 28 de fevereiro, e o Despacho n.º 70/2016, de 26 de fevereiro, alterado pelos Despachos n.os 237/2017, de 19 de maio, e 95/2018, de 1 de março, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas naqueles previstas.
+
+###### Artigo 10.º — Norma revogatória
+
+É revogado o [Decreto Regulamentar Regional n.º 5/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2016-73318739), de 28 de janeiro, alterado pelo [Decreto Regulamentar Regional n.º 5/2018/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/5-2018-114778990), de 28 de fevereiro.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 13 de fevereiro de 2020.
+
+**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+
+**Assinado em 21 de fevereiro de 2020.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO I — Mapa de cargos dirigentes a que se refere o artigo 6.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/04700/0000500008.pdf))](https://files.diariodarepublica.pt/1s/2020/03/04700/0000500008.pdf)

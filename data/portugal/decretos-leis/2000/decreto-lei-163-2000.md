@@ -1,0 +1,124 @@
+---
+schema_version: '1.0'
+id: pt:dre:314420:por
+title: Decreto-Lei n.º 163/2000
+short_title: null
+summary: Prorroga, a título excepcional, os contratos de trabalho a termo certo do pessoal do Parque Arqueológico do Vale
+  do Côa e do Centro Nacional de Arte Rupestre
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Cultura
+proposing_entity: null
+official_number: 163/2000
+official_date: null
+publication_date: '2000-07-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 172/2000, Série I-A de 2000-07-27
+  number: '172'
+  series: I
+  supplement: null
+  pages: 3627 - 3627
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/07/172a00/36273627.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/163/2000/07/27/p/dre/pt/html
+  oj: null
+  dre: '314420'
+  dre_path: /dr/detalhe/decreto-lei/163-2000-314420
+  internal: pt:dre:314420:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2000-314420
+  metadata_url: https://data.dre.pt/eli/dec-lei/163/2000/07/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/163-2000-314420
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-07-27T00:00:00Z'
+integrity:
+  source_sha256: 919d5b0b9724edc6b66493ca689e5f807fb5b0688f91c0b9e5c44c33d157e438
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-163-314420.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro Nacional de ARTE Rupestre
+- Contrato de Trabalho a Termo
+- Instituto Português de Arqueologia
+- Pessoal Técnico Profissional
+- Pessoal Técnico Superior
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 163/2000
+
+de 27 de Julho
+
+Encontra-se em curso o descongelamento extraordinário das vagas dos quadros de pessoal do Parque Arqueológico do Vale do Côa (PAVC) e do Centro Nacional de Arte Rupestre (CNART), serviços dependentes do Instituto Português de Arqueologia (IPA).
+
+Se bem que se preveja para breve o referido descongelamento, certo é que será ainda necessário proceder à realização dos concursos externos tendentes ao preenchimento das vagas em causa.
+
+A imperativa exigência de se assegurar o funcionamento e a estabilidade dos serviços em causa impõem ao Governo a necessidade de, por este meio, prorrogar, a título excepcional, os contratos de trabalho a termo certo do pessoal técnico-profissional e técnico superior em exercício de funções no PAVC e no CNART.
+
+Foram observados os procedimentos decorrentes da [Lei n.º 23/98](https://diariodarepublica.pt/dr/detalhe/lei/23-1998-459419), de 26 de Maio.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+Os contratos de trabalho a termo certo do pessoal técnico-profissional e técnico superior em exercício de funções no Parque Arqueológico do Vale do Côa (PAVC) e no Centro Nacional de Arte Rupestre (CNART) são prorrogados por um ano, a título excepcional.
+
+Visto e aprovado em Conselho de Ministros de 15 de Junho de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - Manuel Maria Ferreira Carrilho - Alberto de Sousa Martins.
+
+**Promulgado em 12 de Julho de 2000.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 19 de Julho de 2000.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

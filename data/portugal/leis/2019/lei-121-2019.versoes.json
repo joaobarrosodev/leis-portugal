@@ -1,0 +1,1930 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124981336:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2019-225391811",
+ "dre_path": "/dr/detalhe/lei/121-2019-124981336",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-09-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "225395791",
+    "225395792",
+    "225395793",
+    "225395794",
+    "225395795",
+    "225395796",
+    "225395797",
+    "225395798",
+    "225395799",
+    "225395800",
+    "225395802",
+    "225395803",
+    "225395804",
+    "225395805",
+    "225395806",
+    "225395807",
+    "225395808",
+    "225395809",
+    "225395810",
+    "225395811",
+    "225395812",
+    "225395813",
+    "225395814",
+    "225395815",
+    "225395816",
+    "225395817",
+    "225395818",
+    "225395819",
+    "225395820",
+    "225395821",
+    "225395822",
+    "225395823",
+    "225395824",
+    "225395825",
+    "225395826",
+    "225395827",
+    "225395828",
+    "225395829",
+    "225395830",
+    "225395831",
+    "225395832",
+    "225395833",
+    "225395834",
+    "225395835",
+    "225395836",
+    "225395837",
+    "225395838",
+    "225395839",
+    "225395840",
+    "225395841",
+    "225395842",
+    "225395843",
+    "225395844",
+    "225395845",
+    "225395846",
+    "225395847",
+    "225395848",
+    "225395849",
+    "225395850",
+    "225395851",
+    "225395852",
+    "225395853",
+    "225395854",
+    "225395855",
+    "225395856",
+    "225395857",
+    "225395858",
+    "225395859",
+    "225395860",
+    "225395861",
+    "225395862",
+    "225395863",
+    "225395864",
+    "225395865",
+    "225395866",
+    "225395867",
+    "225395868",
+    "225395869",
+    "225395870",
+    "225395871",
+    "225395872",
+    "225395873",
+    "225395874",
+    "225433775",
+    "225433776",
+    "225433777",
+    "225433778",
+    "225433779",
+    "225433780",
+    "225433781",
+    "225433782",
+    "225433783",
+    "225433784",
+    "225433785",
+    "225433786",
+    "225433787",
+    "225433788",
+    "225433789",
+    "225433790",
+    "225433791",
+    "225433792",
+    "225433793",
+    "225433794",
+    "225433795",
+    "225433796",
+    "225433797",
+    "225433798",
+    "225433799",
+    "225433800",
+    "225433801",
+    "225433802",
+    "225433803",
+    "225433804",
+    "225433805",
+    "225433806",
+    "225433807",
+    "225433808",
+    "225433809",
+    "225433810",
+    "225433811",
+    "225433812",
+    "225433813",
+    "225433814",
+    "225433815",
+    "225433816",
+    "225433817",
+    "225433818",
+    "225433819",
+    "225433820",
+    "225433821",
+    "225433822",
+    "225433823",
+    "225433824",
+    "225433825",
+    "225433826",
+    "225433827",
+    "225433828",
+    "225433829",
+    "225433830",
+    "225433831",
+    "225433832",
+    "225433833",
+    "225433834",
+    "225433835",
+    "225433836",
+    "225433837",
+    "225433838",
+    "225433839"
+   ]
+  },
+  {
+   "date": "2024-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:225397112:por",
+     "title": "Lei n.º 66/2023",
+     "published": "2023-12-07",
+     "dre_path": "/dr/detalhe/lei/66-2023-225397112"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 32.º-A",
+    "Adita Artigo 32.º-B",
+    "Adita Artigo 64.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 48.º",
+    "Altera Artigo 57.º",
+    "Altera Artigo 62.º",
+    "Altera Artigo 63.º",
+    "Altera Artigo 64.º",
+    "Altera Artigo 66.º",
+    "Altera Secção III",
+    "Altera Artigo 68.º",
+    "Altera Artigo 69.º",
+    "Altera Artigo 70.º",
+    "Altera Artigo 72.º",
+    "Altera Artigo 73.º",
+    "Altera Artigo 76.º",
+    "Altera Artigo 79.º",
+    "Altera Artigo 102.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º"
+   ],
+   "fragments": [
+    "225395791",
+    "225433850",
+    "225395793",
+    "225433851",
+    "225395795",
+    "225395796",
+    "225395797",
+    "225395798",
+    "225434378",
+    "225395800",
+    "225395801",
+    "225395802",
+    "225395803",
+    "225433852",
+    "225395805",
+    "225395806",
+    "225433853",
+    "225395808",
+    "225395809",
+    "225395810",
+    "225395811",
+    "225395812",
+    "225433854",
+    "225395814",
+    "225433855",
+    "225433856",
+    "225395817",
+    "225433857",
+    "225395819",
+    "225395820",
+    "225395821",
+    "225395822",
+    "225433858",
+    "225395824",
+    "225395825",
+    "225395826",
+    "225395827",
+    "225395828",
+    "225395829",
+    "225433859",
+    "225395831",
+    "225433860",
+    "225395833",
+    "225433861",
+    "225433862",
+    "225395836",
+    "225395837",
+    "225395838",
+    "225434383",
+    "225434384",
+    "225395839",
+    "225395840",
+    "225395841",
+    "225395842",
+    "225395843",
+    "225395844",
+    "225434379",
+    "225434380",
+    "225434381",
+    "225434382",
+    "225395849",
+    "225395850",
+    "225395851",
+    "225395852",
+    "225395853",
+    "225395854",
+    "225395855",
+    "225395856",
+    "225395857",
+    "225433863",
+    "225395859",
+    "225395860",
+    "225395861",
+    "225395862",
+    "225395863",
+    "225395864",
+    "225395865",
+    "225395866",
+    "225433864",
+    "225395868",
+    "225395869",
+    "225395870",
+    "225395871",
+    "225395872",
+    "225395873",
+    "225395874",
+    "225433775",
+    "225433865",
+    "225433866",
+    "225434377",
+    "225434385",
+    "225434386",
+    "225433780",
+    "225433867",
+    "225433782",
+    "225434376",
+    "225433868",
+    "225433785",
+    "225433869",
+    "225433870",
+    "225433788",
+    "225433789",
+    "225433871",
+    "225433791",
+    "225433792",
+    "225433872",
+    "225433794",
+    "225433795",
+    "225433873",
+    "225433797",
+    "225433798",
+    "225433799",
+    "225433874",
+    "225433801",
+    "225433802",
+    "225433803",
+    "225433804",
+    "225433805",
+    "225433806",
+    "225433807",
+    "225433808",
+    "225433809",
+    "225433810",
+    "225433811",
+    "225433812",
+    "225433813",
+    "225433814",
+    "225433815",
+    "225433816",
+    "225433817",
+    "225433818",
+    "225433819",
+    "225433820",
+    "225433821",
+    "225433822",
+    "225433823",
+    "225433824",
+    "225433825",
+    "225434375",
+    "225433827",
+    "225433828",
+    "225433829",
+    "225433830",
+    "225433831",
+    "225433832",
+    "225433833",
+    "225433834",
+    "225433835",
+    "225433836",
+    "225433837",
+    "225433838",
+    "225433839"
+   ]
+  }
+ ],
+ "fragments": {
+  "225395791": {
+   "fragment_id": "225391812",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 121/2019\n\nde 25 de setembro\n\nSumário: Cria a Ordem dos Assistentes Sociais e aprova o respetivo estatuto.\n\nCria a Ordem dos Assistentes Sociais e aprova o respetivo estatuto\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "225395792": {
+   "fragment_id": "225391813",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei:\n\na) Cria a profissão de assistente social;\n\nb) Cria a Ordem dos Assistentes Sociais, adiante designada por Ordem, e aprova o seu Estatuto, publicado em anexo à presente lei, da qual faz parte integrante."
+  },
+  "225395793": {
+   "fragment_id": "225391814",
+   "type": 11,
+   "heading": "Artigo 2.º — Profissão de assistente social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Profissão de assistente social\n\n1 - A profissão de assistente social abrange todos os profissionais que exerçam a sua atividade de serviço social no território nacional, em regime de trabalho subordinado ou de forma independente.\n\n2 - As entidades empregadoras dos sectores público, privado, cooperativo e social, estão vinculadas ao regime de exercício da profissão de assistente social."
+  },
+  "225395794": {
+   "fragment_id": "225391815",
+   "type": 11,
+   "heading": "Artigo 3.º — Profissionais abrangidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Profissionais abrangidos\n\n1 - A Ordem abrange os profissionais habilitados com a licenciatura em Serviço Social, conferida por instituições de ensino superior portuguesas ou por instituições estrangeiras, desde que reconhecidas nos termos da lei em vigor, e que exercem a profissão de assistente social.\n\n2 - Estão ainda abrangidos os titulares da licenciatura em Política Social criada pela Portaria n.º 541/84 de 31 de julho, ministrada pelo Instituto Superior de Ciências Sociais e Políticas, e a licenciatura em Trabalho Social, criado pelo Despacho n.º 6439/97 (2.ª série), de 22 de agosto, ministrada pela Universidade de Trás-os-Montes e Alto Douro, extintas na sequência do processo de adequação a Bolonha.\n\n3 - Podem ainda requerer a inscrição na Ordem, no prazo de um ano a contar da data da entrada em vigor da presente lei, os profissionais que, não sendo titulares das licenciaturas referidas nos números anteriores, a 1 de janeiro de 2019 exerçam há mais de 10 anos a profissão de assistente social, e demonstrem ser detentores de formação adequada ao desempenho das funções da prestação de serviço social.\n\n4 - O procedimento e modo de comprovação do exercício previsto no número anterior consta do regulamento de inscrição na Ordem dos Assistentes Sociais."
+  },
+  "225395795": {
+   "fragment_id": "225391816",
+   "type": 11,
+   "heading": "Artigo 4.º — Comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comissão instaladora\n\n1 - A Ordem considera-se efetivamente instalada com a primeira reunião do conselho geral e a concomitante tomada de posse do primeiro bastonário eleito nos termos do Estatuto da Ordem dos Assistentes Sociais.\n\n2 - Até essa data, a Ordem é interinamente gerida por uma comissão instaladora, com poderes limitados para esse efeito.\n\n3 - A comissão instaladora é composta por cinco elementos, incluindo o presidente.\n\n4 - A comissão instaladora é nomeada pelo membro do Governo responsável pela área da segurança social, no prazo de 60 dias após a entrada em vigor da presente lei, após audição das associações profissionais interessadas, podendo os seus membros ser substituídos nos mesmos termos.\n\n5 - O mandato da comissão instaladora tem a duração máxima de um ano a partir da data da sua nomeação, cessando com a investidura dos órgãos nacionais da Ordem, nos termos do n.º 1.\n\n6 - Se, no prazo definido no número anterior não tiverem sido eleitos os órgãos da Ordem, o membro do Governo responsável pela área da segurança social pode determinar a prorrogação do mandato da comissão instaladora, simultaneamente com a marcação da data das eleições."
+  },
+  "225395796": {
+   "fragment_id": "225391817",
+   "type": 11,
+   "heading": "Artigo 5.º — Competência e funcionamento da comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competência e funcionamento da comissão instaladora\n\n1 - Compete à comissão instaladora:\n\na) Preparar e submeter a aprovação ministerial os regulamentos provisórios necessários à entrada em funcionamento da Ordem, nomeadamente os respeitantes aos atos eleitorais e ao valor provisório da taxa de inscrição;\n\nb) Promover as inscrições na Ordem nos termos da presente lei e do Estatuto aprovados em anexo;\n\nc) Elaborar e manter atualizado o registo nacional dos assistentes sociais;\n\nd) Realizar todos os atos necessários à instalação e início do funcionamento da Ordem;\n\ne) Preparar os atos eleitorais e proceder à convocação e organização das primeiras eleições para os órgãos da Ordem, nos termos da presente lei, até 30 dias antes do termo do seu mandato e apreciar os eventuais recursos;\n\nf) Convocar a primeira reunião do conselho geral, que inclui a tomada de posse do bastonário, nos 15 dias posteriores ao apuramento dos resultados eleitorais, ou do julgamento dos recursos, se os houver;\n\ng) Prestar contas do mandato exercido mediante relatório dirigido ao membro do Governo responsável pela área da segurança social e aos órgãos eleitos da Ordem.\n\n2 - Na prossecução das suas competências, a comissão instaladora rege-se pelo Estatuto da Ordem dos Assistentes Sociais, aprovado em anexo à presente lei, com as necessárias adaptações.\n\n3 - As despesas da comissão instaladora, nos termos definidos em despacho ministerial, correm por conta da Ordem, sendo satisfeitas designadamente por via da receita das taxas de inscrição cobradas."
+  },
+  "225395797": {
+   "fragment_id": "225391818",
+   "type": 11,
+   "heading": "Artigo 6.º — Inscrição de assistentes sociais em exercício",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Inscrição de assistentes sociais em exercício\n\n1 - O exercício da profissão de assistente social, um ano após a entrada em vigor da presente lei, depende da inscrição na Ordem como membro efetivo.\n\n2 - A aceitação ou rejeição da inscrição na Ordem requer maioria de dois terços dos membros da comissão instaladora e só pode ser recusada nos termos do artigo 61.º do Estatuto da Ordem dos Assistentes Sociais anexo à presente lei."
+  },
+  "225395798": {
+   "fragment_id": "225391819",
+   "type": 11,
+   "heading": "Artigo 7.º — Tutela administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Tutela administrativa\n\nOs poderes de tutela administrativa sobre a Ordem, nos termos do respetivo Estatuto e da Lei n.º 2/2013, de 10 de janeiro, que estabelece o regime jurídico de criação, organização e funcionamento das associações públicas profissionais, são exercidos pelo membro do Governo responsável pela área da segurança social."
+  },
+  "225395799": {
+   "fragment_id": "225391820",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\nPara efeitos do disposto no artigo 2.º, o Governo regulamenta no prazo de 120 dias a profissão de assistente social, bem como o regime de acesso e exercício da profissão."
+  },
+  "225395800": {
+   "fragment_id": "225391821",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e produção de efeitos\n\nA presente lei entra em vigor 30 dias após a sua publicação e produz efeitos à data da entrada em vigor da regulamentação específica a que se refere o artigo anterior."
+  },
+  "225395802": {
+   "fragment_id": "225391823",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DA ORDEM DOS ASSISTENTES SOCIAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTO DA ORDEM DOS ASSISTENTES SOCIAIS"
+  },
+  "225395803": {
+   "fragment_id": "225391824",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, âmbito e fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, âmbito e fins"
+  },
+  "225395804": {
+   "fragment_id": "225391825",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Ordem dos Assistentes Sociais, adiante designada por Ordem, é a associação pública profissional representativa dos profissionais de serviço social que, em conformidade com os preceitos deste Estatuto e as demais disposições legais aplicáveis, exercem a profissão de assistente social.\n\n2 - A Ordem é uma pessoa coletiva de direito público, que no exercício dos seus poderes públicos, pratica os atos administrativos necessários ao desempenho das suas funções e aprova os regulamentos previstos na lei e no presente Estatuto.\n\n3 - Os atos e regulamentos da Ordem não estão sujeitos a aprovação governamental, salvo os casos previstos na lei.\n\n4 - A Ordem dispõe de património e finanças próprios, bem como de autonomia orçamental e financeira, nos termos da lei."
+  },
+  "225395805": {
+   "fragment_id": "225391826",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e sede\n\n1 - A Ordem tem âmbito nacional.\n\n2 - A Ordem tem sede em Lisboa, podendo a mesma ser alterada por deliberação do conselho geral aprovada por maioria absoluta.\n\n3 - Sem prejuízo do disposto no n.º 1, a Ordem pode compreender estruturas regionais, às quais incumbe a prossecução das suas atribuições na respetiva área geográfica."
+  },
+  "225395806": {
+   "fragment_id": "225391827",
+   "type": 11,
+   "heading": "Artigo 3.º — Fins",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Fins\n\nA Ordem tem por fins regular o acesso e o exercício da profissão de assistente social, aprovar as normas técnicas e deontológicas aplicáveis, zelar pelo cumprimento das normas legais e regulamentares da profissão, bem como exercer o poder disciplinar sobre os seus membros no quadro de um regime disciplinar autónomo."
+  },
+  "225395807": {
+   "fragment_id": "225391828",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições da Ordem:\n\na) A regulação do acesso e do exercício da profissão;\n\nb) A defesa dos interesses gerais dos destinatários dos serviços prestados pelos seus membros, assegurando e fazendo respeitar o direito dos cidadãos ao serviço social;\n\nc) A representação e a defesa dos interesses gerais da profissão, em território nacional, zelando nomeadamente pela função social, dignidade e prestígio da mesma;\n\nd) Conferir, em exclusivo, os títulos profissionais de assistente social e atribuir as cédulas profissionais aos seus membros;\n\ne) A defesa do título profissional, incluindo a denúncia das situações de exercício ilegal da profissão, podendo constituir-se assistente em processo-crime;\n\nf) Conferir o título de especialista aos assistentes sociais que cumpram os requisitos fixados pelos órgãos competentes;\n\ng) A elaboração e a atualização do registo profissional dos seus membros;\n\nh) Assegurar o cumprimento das regras de ética e de deontologia profissional;\n\ni) O exercício do poder disciplinar sobre os seus membros;\n\nj) A atribuição, quando existam, de prémios ou títulos honoríficos;\n\nk) A prestação de serviços aos seus membros, no respeitante ao exercício profissional, designadamente em relação à informação, à formação profissional e à assistência técnica e jurídica;\n\nl) A colaboração com as entidades da Administração Pública na prossecução de fins de interesse público relacionados com a profissão do assistente social;\n\nm) A participação na elaboração da legislação que diga respeito à respetiva profissão;\n\nn) A participação nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão;\n\no) O reconhecimento de qualificações profissionais obtidas fora de Portugal, nos termos da lei, do direito da União Europeia, ou de convenção internacional;\n\np) A emissão de pareceres, em matéria científica e técnica, que lhes sejam solicitados por qualquer entidade, nacional ou estrangeira, pública ou privada, quando exista interesse público ou para a profissão;\n\nq) A promoção do desenvolvimento da área científica do serviço social e das ciências sociais, e do respetivo ensino;\n\nr) Quaisquer outras que lhe sejam cometidas por lei.\n\n2 - A Ordem está impedida de exercer ou de participar em atividades de natureza sindical ou que se relacionem com a regulação das relações económicas ou profissionais dos seus membros."
+  },
+  "225395808": {
+   "fragment_id": "225391829",
+   "type": 11,
+   "heading": "Artigo 5.º — Princípios de atuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Princípios de atuação\n\nA Ordem atua em respeito dos princípios da legalidade, da igualdade, da proporcionalidade, da justiça e da imparcialidade."
+  },
+  "225395809": {
+   "fragment_id": "225391830",
+   "type": 11,
+   "heading": "Artigo 6.º — Insígnia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Insígnia\n\nA Ordem tem direito a usar emblema e selo próprios, conforme modelos a aprovar pelo conselho geral, sob proposta da direção."
+  },
+  "225395810": {
+   "fragment_id": "225391831",
+   "type": 1,
+   "heading": "Capítulo II — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização"
+  },
+  "225395811": {
+   "fragment_id": "225391832",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "225395812": {
+   "fragment_id": "225391833",
+   "type": 11,
+   "heading": "Artigo 7.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Organização\n\n1 - A Ordem tem órgãos nacionais e regionais, podendo constituir colégios de especialidade profissional.\n\n2 - As competências dos órgãos definem-se em razão do âmbito ou em razão da especialidade das matérias.\n\n3 - A organização da Ordem baseia-se na democracia representativa e na separação de poderes."
+  },
+  "225395813": {
+   "fragment_id": "225391834",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Órgãos nacionais\n\nSão órgãos nacionais da Ordem:\n\na) O conselho geral;\n\nb) O bastonário;\n\nc) A direção;\n\nd) O conselho jurisdicional;\n\ne) O conselho fiscal."
+  },
+  "225395814": {
+   "fragment_id": "225391835",
+   "type": 11,
+   "heading": "Artigo 9.º — Órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Órgãos regionais\n\nSão órgãos das delegações regionais:\n\na) A assembleia regional;\n\nb) A direção regional."
+  },
+  "225395815": {
+   "fragment_id": "225391836",
+   "type": 11,
+   "heading": "Artigo 10.º — Colégios de especialidade profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Colégios de especialidade profissional\n\nPara cada colégio de especialidade profissional existe um conselho de especialidade profissional."
+  },
+  "225395816": {
+   "fragment_id": "225391837",
+   "type": 11,
+   "heading": "Artigo 11.º — Exercício de cargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Exercício de cargos\n\n1 - Sem prejuízo do disposto no número seguinte, bem como do pagamento pela Ordem de quaisquer despesas decorrentes de representação ou deslocação ao serviço da Ordem, o exercício dos cargos dos órgãos da Ordem não é remunerado.\n\n2 - Por deliberação do conselho geral, os cargos executivos permanentes podem ser remunerados."
+  },
+  "225395817": {
+   "fragment_id": "225391838",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições de exercício dos membros dos órgãos da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições de exercício dos membros dos órgãos da Ordem\n\n1 - Os membros dos órgãos executivos da Ordem que sejam trabalhadores por conta de outrem têm direito, para o exercício das suas funções no âmbito dos cargos para que foram eleitos, a:\n\na) Licença sem vencimento, com a duração máxima do respetivo mandato, a atribuir nos termos da legislação laboral;\n\nb) Um crédito de horas correspondente a 24 dias de trabalho por ano, que podem utilizar em períodos de meio dia, que contam, para todos os efeitos legais, como serviço efetivo.\n\n2 - Os membros dos órgãos não executivos da Ordem usufruem do direito a 24 faltas justificadas, que contam para todos os efeitos legais como serviço efetivo, salvo quanto à remuneração ou retribuição.\n\n3 - A Ordem comunica às entidades empregadoras das quais dependam os membros dos seus órgãos, as datas e o número de dias de que estes necessitam para o exercício das respetivas funções, por meios idóneos e seguros, incluindo o correio eletrónico.\n\n4 - A comunicação prevista no número anterior é feita com uma antecedência mínima de cinco dias ou, em caso de reuniões ou atividades de natureza extraordinária dos órgãos da Ordem, logo que as mesmas sejam convocadas."
+  },
+  "225395818": {
+   "fragment_id": "225391839",
+   "type": 11,
+   "heading": "Artigo 13.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Incompatibilidades\n\n1 - O exercício das funções executivas, disciplinares e de fiscalização em órgãos da Ordem é incompatível entre si.\n\n2 - O exercício de cargos nos órgãos da Ordem é incompatível com:\n\na) Cargos de direção em outras entidades que igualmente promovam a defesa da profissão;\n\nb) Membros de órgãos de soberania ou de órgãos de governo próprio das regiões autónomas, bem como de órgãos executivos do poder local;\n\nc) Cargos dirigentes na Administração Pública;\n\nd) Cargos em associações sindicais ou patronais;\n\ne) Outros cargos ou atividades com os quais se verifique um manifesto conflito de interesses, declarado pelo conselho jurisdicional, a pedido da direção."
+  },
+  "225395819": {
+   "fragment_id": "225391840",
+   "type": 11,
+   "heading": "Artigo 14.º — Responsabilidade solidária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Responsabilidade solidária\n\n1 - Os membros dos órgãos colegiais respondem solidariamente pelos atos praticados no exercício do mandato que lhes foi conferido.\n\n2 - Ficam isentos de responsabilidade os membros da Ordem que tenham votado expressamente contra a deliberação em causa, bem como os que não tenham estado presentes na sessão na qual tenha sido tomada a deliberação, desde que tenham manifestado a sua discordância logo que dela tenham tomado conhecimento."
+  },
+  "225395820": {
+   "fragment_id": "225391841",
+   "type": 11,
+   "heading": "Artigo 15.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Vinculação\n\n1 - A Ordem obriga-se pelas assinaturas do bastonário, ou do seu substituto, e de um outro membro da direção em efetividade de funções.\n\n2 - A direção pode constituir mandatário para a prática de determinados atos, devendo para tal fixar com precisão o âmbito e temporalidade dos poderes conferidos."
+  },
+  "225395821": {
+   "fragment_id": "225391842",
+   "type": 8,
+   "heading": "Secção II — Dos órgãos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos órgãos nacionais"
+  },
+  "225395822": {
+   "fragment_id": "225391843",
+   "type": 11,
+   "heading": "Artigo 16.º — Conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Conselho geral\n\nO conselho geral é composto por 30 a 50 membros, eleitos por sufrágio universal e pelo sistema de representação proporcional segundo o método da média mais alta de Hondt, nos círculos territoriais que correspondem aos órgãos regionais previstos no artigo 2.º do presente Estatuto."
+  },
+  "225395823": {
+   "fragment_id": "225391844",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competências do conselho geral\n\nCompete ao conselho geral:\n\na) Eleger e destituir, nos termos do presente Estatuto, a sua mesa, bem como elaborar o seu regimento;\n\nb) Pronunciar-se sobre a nomeação da direção, sob proposta do bastonário, e eventualmente votar a sua rejeição;\n\nc) Eleger o conselho fiscal;\n\nd) Aprovar o orçamento e o plano de atividades, bem como o relatório e as contas, sob proposta da direção;\n\ne) Aprovar projeto de alteração do Estatuto, por maioria absoluta;\n\nf) Aprovar os regulamentos previstos na lei e no presente Estatuto, que não sejam da competência de outros órgãos, bem como os demais regulamentos necessários para a prossecução das atribuições da Ordem;\n\ng) Aprovar os regulamentos de quotas e taxas, sob proposta da direção;\n\nh) Propor a criação de colégios de especialidade, bem como de títulos de especialidade;\n\ni) Ratificar a celebração de protocolos com associações congéneres, nacionais ou estrangeiras, sob proposta da direção;\n\nj) Aprovar a convocação de referendos, sob proposta do bastonário, por maioria absoluta."
+  },
+  "225395824": {
+   "fragment_id": "225391845",
+   "type": 11,
+   "heading": "Artigo 18.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funcionamento\n\n1 - O conselho geral reúne ordinariamente:\n\na) No início do mandato, para a eleição da mesa do conselho geral, do conselho fiscal e para ratificação da direção;\n\nb) Anualmente, para a aprovação do orçamento e plano de atividades, bem como do relatório e contas da direção.\n\n2 - O conselho geral reúne extraordinariamente, sempre que as circunstâncias o aconselhem e o seu presidente o convoque, por sua iniciativa ou a pedido da direção, de qualquer das direções regionais ou de um mínimo de um terço dos seus membros.\n\n3 - Se à hora marcada para o início da reunião não se encontrarem presentes, pelo menos, metade dos membros efetivos, a reunião começa 30 minutos depois, com os membros presentes, desde que em número não inferior a um terço dos membros efetivos.\n\n4 - A reunião destinada à discussão e votação do relatório e contas da direção realiza-se até ao final do mês de março do ano subsequente ao do respetivo exercício."
+  },
+  "225395825": {
+   "fragment_id": "225391846",
+   "type": 11,
+   "heading": "Artigo 19.º — Convocatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Convocatória\n\n1 - O conselho geral é convocado pelo seu presidente mediante aviso postal ou eletrónico expedido para cada um dos seus membros, com, pelo menos, 15 dias de antecedência em relação à data designada para a realização da reunião.\n\n2 - Em caso de urgência, a reunião pode ser convocada com a antecedência de três dias em relação à data designada para a realização da mesma.\n\n3 - Da convocatória devem constar a ordem de trabalhos, o horário e o local de realização da reunião."
+  },
+  "225395826": {
+   "fragment_id": "225391847",
+   "type": 11,
+   "heading": "Artigo 20.º — Mesa do conselho geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Mesa do conselho geral\n\nA mesa do conselho geral é composta por um presidente e dois secretários, eleitos individualmente por maioria absoluta."
+  },
+  "225395827": {
+   "fragment_id": "225391848",
+   "type": 11,
+   "heading": "Artigo 21.º — Votações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Votações\n\n1 - As deliberações do conselho geral são tomadas por maioria simples, descontadas as abstenções, desde que os votos a favor constituam, pelo menos, um quarto dos membros presentes, salvo os casos em que a lei exige maioria qualificada.\n\n2 - As votações só são tomadas por voto secreto nos casos previstos na lei, ou quando haja deliberação do próprio conselho, caso a caso, para esse efeito."
+  },
+  "225395828": {
+   "fragment_id": "225391849",
+   "type": 11,
+   "heading": "Artigo 22.º — Bastonário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Bastonário\n\nO bastonário representa a Ordem e é o presidente da direção."
+  },
+  "225395829": {
+   "fragment_id": "225391850",
+   "type": 11,
+   "heading": "Artigo 23.º — Eleição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Eleição\n\n1 - O bastonário é eleito por sufrágio universal, secreto e periódico.\n\n2 - Para a candidatura ao cargo de bastonário é necessário o mínimo de 10 anos de exercício da profissão.\n\n3 - No caso de nenhuma das candidaturas concorrentes obter maioria absoluta dos votos válidos expressos, realiza-se nova votação duas semanas depois, entre as duas candidaturas mais votadas na primeira votação, que não declarem retirar a sua candidatura.\n\n4 - O bastonário toma posse perante o conselho geral, na primeira reunião deste."
+  },
+  "225395830": {
+   "fragment_id": "225391851",
+   "type": 11,
+   "heading": "Artigo 24.º — Competências do bastonário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Competências do bastonário\n\n1 - Compete ao bastonário:\n\na) Representar a Ordem, em juízo e fora dele, designadamente perante os órgãos de soberania e demais órgãos do poder, bem como das organizações europeias e internacionais;\n\nb) Presidir à direção e designar os respetivos vogais;\n\nc) Dirigir as reuniões da direção, com voto de qualidade, e participar sem voto, querendo, nas reuniões de todos os órgãos colegiais da Ordem, salvo o conselho jurisdicional;\n\nd) Executar e fazer executar as deliberações da direção e dos demais órgãos nacionais;\n\ne) Exercer as competências da direção em casos de reconhecida urgência ou nas situações em que tal competência lhe seja delegada;\n\nf) Assegurar o normal funcionamento dos serviços da Ordem, no respeito da lei, do Estatuto e dos respetivos regulamentos;\n\ng) Solicitar a qualquer órgão da Ordem a elaboração de pareceres relativos a matérias da sua competência.\n\n2 - O bastonário pode delegar poderes em qualquer membro da direção da Ordem."
+  },
+  "225395831": {
+   "fragment_id": "225391852",
+   "type": 11,
+   "heading": "Artigo 25.º — Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Direção\n\n1 - A direção é composta pelo bastonário, por dois vice-presidentes e por um número par de vogais, no máximo de quatro.\n\n2 - Os membros da direção, salvo o bastonário, são nomeados por aquele e são submetidos coletivamente à apreciação do conselho geral antes do início de funções.\n\n3 - O conselho geral pode votar a rejeição da direção apresentada pelo bastonário, sob proposta de um quarto dos seus membros, cuja aprovação carece de maioria absoluta.\n\n4 - Não havendo proposta de rejeição, ou não sendo ela aprovada, a direção considera-se ratificada.\n\n5 - Em caso de rejeição da direção pelo conselho geral ou de posterior aprovação de uma moção de censura por maioria absoluta, o bastonário apresenta, no prazo de duas semanas, novos vice-presidentes e vogais da direção à apreciação do conselho.\n\n6 - As moções de censura só podem ser discutidas e votadas uma semana depois da sua apresentação ao presidente da mesa do conselho geral."
+  },
+  "225395832": {
+   "fragment_id": "225391853",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências da direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Competências da direção\n\nCompete à direção:\n\na) Dirigir a atividade nacional da Ordem;\n\nb) Aprovar a inscrição de novos membros da Ordem ou mandar suspendê-la ou cancelá-la, nos termos da lei;\n\nc) Elaborar e manter atualizado o registo profissional de todos os membros da Ordem;\n\nd) Dar execução às deliberações do conselho geral e do conselho jurisdicional;\n\ne) Aprovar diretrizes e quaisquer normas de gestão relativas aos serviços e instalações da Ordem;\n\nf) Emitir, diretamente ou através de comissões constituídas para o efeito, pareceres e informações a entidades públicas e privadas, no âmbito das atribuições da Ordem;\n\ng) Cobrar as receitas e efetuar as despesas previstas no orçamento;\n\nh) Elaborar e apresentar ao conselho geral o plano e o orçamento, bem como o relatório de atividades e as contas anuais;\n\ni) Promover a instalação das direções regionais e coordenar as suas atividades;\n\nj) Propor a criação do quadro de especialidades profissionais de assistente social;\n\nk) Deliberar sobre alienação ou oneração de bens da Ordem e a contração de empréstimos, dentro dos limites de endividamento aprovados no orçamento;\n\nl) Aceitar os legados ou doações feitas à Ordem;\n\nm) Marcar, nos termos do regulamento eleitoral, a data das eleições para os órgãos da Ordem diretamente eleitos;\n\nn) Dirigir os serviços da Ordem, nomear os dirigentes dos serviços, aprovar a contratação de pessoal e a aquisição ou locação de bens e serviços, bem como praticar os demais atos e realizar os demais contratos necessários à gestão da Ordem;\n\no) Aprovar o estabelecimento de formas de cooperação com outras entidades, públicas ou privadas, que contribuam para a prossecução das atribuições da Ordem;\n\np) Aprovar os subsídios de deslocação para os membros dos órgãos da Ordem, para efeito das reuniões ou de outras atividades da Ordem;\n\nq) Aprovar o seu regimento."
+  },
+  "225395833": {
+   "fragment_id": "225391854",
+   "type": 11,
+   "heading": "Artigo 27.º — Funcionamento da direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Funcionamento da direção\n\n1 - A direção reúne ordinariamente uma vez por mês e extraordinariamente sempre que convocada pelo seu presidente.\n\n2 - A direção só pode deliberar validamente quando estejam presentes mais de metade dos seus membros.\n\n3 - As deliberações são tomadas por maioria simples dos membros presentes, dispondo o presidente de voto de qualidade."
+  },
+  "225395834": {
+   "fragment_id": "225391855",
+   "type": 11,
+   "heading": "Artigo 28.º — Conselho jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Conselho jurisdicional\n\n1 - O conselho jurisdicional é composto por cinco membros e assessorado por um consultor jurídico, sendo um dos seus membros presidente e os restantes vogais.\n\n2 - Os membros do conselho jurisdicional são eleitos em lista por sufrágio universal, direto, secreto e periódico, de entre membros da Ordem com, pelo menos, 10 anos de exercício profissional.\n\n3 - O conselho jurisdicional é um órgão independente, não podendo os seus membros ser destituídos por motivo das suas decisões, sem prejuízo do respetivo controlo jurisdicional.\n\n4 - O conselho jurisdicional pode incluir personalidades de reconhecido mérito alheias à profissão até um terço da sua composição."
+  },
+  "225395835": {
+   "fragment_id": "225391856",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências do conselho jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Competências do conselho jurisdicional\n\nCompete ao conselho jurisdicional:\n\na) Zelar pelo cumprimento da lei, do Estatuto e dos regulamentos internos, quer por parte dos órgãos da Ordem, quer por parte de todos os seus membros;\n\nb) Instruir e julgar os processos disciplinares contra os membros da Ordem;\n\nc) Decidir, a requerimento dos interessados, os recursos sobre a validade das decisões relativas a perda ou suspensão do mandato dos membros dos órgãos da Ordem;\n\nd) Decidir os recursos sobre a validade das decisões dos demais órgãos da Ordem que afetem diretamente direitos dos seus membros, designadamente em matéria de inscrição, a requerimento dos interessados;\n\ne) Decidir os recursos das decisões em matéria eleitoral, nos termos do n.º 3 do artigo 56.º;\n\nf) Verificar previamente a conformidade legal e regulamentar dos referendos convocados pelo conselho geral;\n\ng) Emitir parecer sobre as propostas de alteração ao presente Estatuto, do regulamento disciplinar e dos regulamentos relativos ao acesso e ao exercício da profissão;\n\nh) Aprovar o seu regimento."
+  },
+  "225395836": {
+   "fragment_id": "225391857",
+   "type": 11,
+   "heading": "Artigo 30.º — Funcionamento do conselho jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Funcionamento do conselho jurisdicional\n\n1 - O conselho jurisdicional reúne ordinariamente de acordo com a agenda por si aprovada e extraordinariamente quando convocado pelo seu presidente, ou por quem o substitua, nos termos do seu regimento.\n\n2 - As deliberações do conselho jurisdicional são tomadas por maioria, sem direito a abstenção, dispondo o presidente de voto de qualidade.\n\n3 - Em qualquer decisão é garantido aos membros do conselho jurisdicional a apresentação de declaração de voto, dela fazendo parte integrante."
+  },
+  "225395837": {
+   "fragment_id": "225391858",
+   "type": 11,
+   "heading": "Artigo 31.º — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Conselho fiscal\n\n1 - O conselho fiscal é composto por um presidente, um vogal e um revisor oficial de contas.\n\n2 - O conselho fiscal é eleito pelo conselho geral, por maioria de três quintos, sob proposta da direção.\n\n3 - Compete à direção deliberar sobre a remuneração do revisor oficial de contas."
+  },
+  "225395838": {
+   "fragment_id": "225391859",
+   "type": 11,
+   "heading": "Artigo 32.º — Competências do conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Competências do conselho fiscal\n\nCompete ao conselho fiscal:\n\na) Verificar a gestão patrimonial e financeira da Ordem;\n\nb) Examinar e emitir parecer sobre as contas anuais, a apresentar pela direção ao conselho geral;\n\nc) Pronunciar-se, antes da sua conclusão, sobre os contratos de empréstimo negociados pela direção;\n\nd) Apresentar à direção as sugestões que entenda serem do interesse da Ordem, em matéria de gestão patrimonial e financeira;\n\ne) Elaborar os pareceres solicitados pelos demais órgãos da Ordem, no âmbito da sua competência;\n\nf) Fiscalizar as atas lavradas nas reuniões da direção."
+  },
+  "225395839": {
+   "fragment_id": "225391860",
+   "type": 8,
+   "heading": "Secção III — Dos órgãos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dos órgãos regionais"
+  },
+  "225395840": {
+   "fragment_id": "225391861",
+   "type": 11,
+   "heading": "Artigo 33.º — Assembleia regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Assembleia regional\n\nA assembleia regional é composta por todos os membros inscritos na Ordem cujo domicílio profissional esteja situado na área geográfica incluída na delegação regional."
+  },
+  "225395841": {
+   "fragment_id": "225391862",
+   "type": 11,
+   "heading": "Artigo 34.º — Competências da assembleia regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Competências da assembleia regional\n\nCompete à assembleia regional:\n\na) Eleger a sua mesa e os membros da direção regional;\n\nb) Aprovar o orçamento, o plano de atividades e contas da direção regional;\n\nc) Deliberar sobre assuntos de âmbito regional por iniciativa própria ou a pedido da direção regional."
+  },
+  "225395842": {
+   "fragment_id": "225391863",
+   "type": 11,
+   "heading": "Artigo 35.º — Direção regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Direção regional\n\nA direção regional é composta por um presidente e vogais em número par, no máximo de quatro."
+  },
+  "225395843": {
+   "fragment_id": "225391864",
+   "type": 11,
+   "heading": "Artigo 36.º — Competências da direção regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Competências da direção regional\n\nCompete à direção regional:\n\na) Representar a Ordem na respetiva área geográfica, designadamente perante as entidades públicas que aí exerçam atribuições, sempre que mandatada para o efeito pela direção;\n\nb) Dar execução às deliberações do conselho geral e da assembleia regional e às diretrizes da direção;\n\nc) Exercer poderes delegados pela direção;\n\nd) Executar o orçamento para a delegação regional;\n\ne) Gerir os serviços regionais;\n\nf) Elaborar e apresentar à direção o relatório e as contas anuais aprovados pela assembleia regional;\n\ng) Deliberar sobre qualquer assunto que não esteja compreendido nas competências específicas dos restantes órgãos."
+  },
+  "225395844": {
+   "fragment_id": "225391865",
+   "type": 8,
+   "heading": "Secção IV — Colégios de especialidade profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Colégios de especialidade profissionais"
+  },
+  "225395845": {
+   "fragment_id": "225391866",
+   "type": 11,
+   "heading": "Artigo 37.º — Especialidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Especialidades\n\n1 - Podem ser criados colégios de especialidade sempre que determinada matéria seja considerada como tendo caraterísticas técnicas e científicas particulares, cuja importância implique uma especialização de conhecimento ou prática profissional.\n\n2 - Cada colégio de especialidade é constituído por todos os membros titulares da especialidade correspondente.\n\n3 - A obtenção do título de especialista rege-se por regulamento elaborado pela direção e aprovado pelo conselho geral.\n\n4 - O regulamento referido no número anterior só produz efeitos após homologação do membro do governo responsável pela área da segurança social."
+  },
+  "225395846": {
+   "fragment_id": "225391867",
+   "type": 11,
+   "heading": "Artigo 38.º — Comissão instaladora",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Comissão instaladora\n\n1 - Sempre que se forme um colégio de especialidade profissional, a direção nomeia uma comissão instaladora composta por um presidente, um secretário e três vogais, com prazo para elaborar uma proposta das condições de acesso e um regulamento interno e eleitoral a submeter à aprovação do conselho geral.\n\n2 - Aprovadas as condições de acesso e o regulamento interno e eleitoral, a comissão instaladora procede à inscrição dos membros que satisfaçam as condições estipuladas para atribuição do título de especialista e, de seguida, dá início ao processo eleitoral."
+  },
+  "225395847": {
+   "fragment_id": "225391868",
+   "type": 11,
+   "heading": "Artigo 39.º — Conselho de especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Conselho de especialidade\n\n1 - Cada colégio de especialidade profissional é dirigido por um conselho de especialidade, composto por um presidente, um secretário e três vogais eleitos por quatro anos pelos membros da respetiva especialidade, de acordo com regulamento próprio aprovado pela direção.\n\n2 - O presidente tem, pelo menos, cinco anos de exercício da especialidade."
+  },
+  "225395848": {
+   "fragment_id": "225391869",
+   "type": 11,
+   "heading": "Artigo 40.º — Competências do conselho de especialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Competências do conselho de especialidade\n\nCompete ao conselho de especialidade:\n\na) Propor à direção os critérios para atribuição do título de assistente social especialista na área respetiva;\n\nb) Atribuir o título de assistente social especialista;\n\nc) Elaborar e manter atualizado o quadro geral dos assistentes sociais especialistas;\n\nd) Promover o estreitamento das relações científicas e profissionais no âmbito nacional e internacional em cada especialidade;\n\ne) Zelar pela valorização científica, técnica e profissional dos seus membros."
+  },
+  "225395849": {
+   "fragment_id": "225391870",
+   "type": 8,
+   "heading": "Secção V — Mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Mandatos"
+  },
+  "225395850": {
+   "fragment_id": "225391871",
+   "type": 11,
+   "heading": "Artigo 41.º — Duração do mandato e tomada de posse",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Duração do mandato e tomada de posse\n\n1 - Os titulares dos órgãos eletivos são eleitos por um período de quatro anos.\n\n2 - A constituição ou a tomada de posse dos órgãos eletivos, conforme os casos, ocorre no dia do início do mandato, salvo se os mesmos não forem eleitos atempadamente, caso em que o início de funções ocorre no oitavo dia posterior à eleição.\n\n3 - Caso não seja possível o início de funções dos novos titulares no primeiro dia do mandato, os titulares cessantes mantêm-se em funções até à data em que aquele ocorra.\n\n4 - Sempre que se revelar necessário proceder a eleições intercalares para qualquer dos órgãos eletivos, o respetivo mandato acompanha a duração do mandato dos restantes órgãos.\n\n5 - Os titulares dos órgãos não podem ser eleitos ou designados para um terceiro mandato consecutivo no mesmo órgão, nem para um quarto mandato consecutivo em órgãos diferentes."
+  },
+  "225395851": {
+   "fragment_id": "225391872",
+   "type": 11,
+   "heading": "Artigo 42.º — Demissão, renúncia e suspensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Demissão, renúncia e suspensão\n\n1 - Os membros dos órgãos da Ordem gozam do direito de renúncia ao mandato para o qual tenham sido eleitos ou designados.\n\n2 - Qualquer membro dos órgãos da Ordem, salvo o bastonário, pode solicitar a suspensão temporária do exercício das funções correspondentes, por motivos devidamente fundamentados, não podendo o prazo de suspensão exceder seis meses.\n\n3 - A renúncia ou suspensão do mandato devem ser comunicadas aos presidentes dos respetivos órgãos, bem como ao presidente da mesa do conselho geral.\n\n4 - Excetua-se do disposto no número anterior a demissão do bastonário que deve ser apresentada apenas ao presidente da mesa do Conselho Geral."
+  },
+  "225395852": {
+   "fragment_id": "225391873",
+   "type": 11,
+   "heading": "Artigo 43.º — Vacatura, substituição e eleição intercalar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Vacatura, substituição e eleição intercalar\n\n1 - As vagas em órgãos colegiais que resultem da suspensão, renúncia, morte ou incapacidade são preenchidas pelos respetivos suplentes, de acordo com o regulamento.\n\n2 - Tratando-se do bastonário, o mesmo é substituído pelos vice-presidentes da direção e, na falta deste, pelo presidente do conselho geral, procedendo-se a nova eleição para o cargo.\n\n3 - Perdem o mandato, mediante decisão do presidente do órgão a que pertençam ou da respetiva mesa, conforme os casos, os membros dos órgãos da Ordem que excederem o número de faltas previsto no respetivo regulamento, bem como os que forem condenados a sanção disciplinar que os torne inelegíveis para o cargo que exercem, ou que incorrerem em situações de incompatibilidade com o exercício da profissão.\n\n4 - A vacatura de mais de metade dos membros de órgão colegial eleito e a inexistência de membros substitutos obriga à realização de eleições intercalares.\n\n5 - Para efeitos do disposto no número anterior, faltando menos de um ano para terminar o mandato, o órgão mantém-se em funções com os membros eleitos, desde que os mesmos assegurem, no mínimo, um terço do número de membros que compõem o órgão."
+  },
+  "225395853": {
+   "fragment_id": "225391874",
+   "type": 8,
+   "heading": "Secção VI — Eleições e referendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Eleições e referendos"
+  },
+  "225395854": {
+   "fragment_id": "225433675",
+   "type": 11,
+   "heading": "Artigo 44.º — Regulamento eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Regulamento eleitoral\n\n1 - As eleições são regidas pelo regulamento eleitoral, aprovado pelo conselho geral, com respeito pelo disposto no presente Estatuto.\n\n2 - A condução dos atos eleitorais é da responsabilidade de uma comissão eleitoral, nos termos do artigo seguinte."
+  },
+  "225395855": {
+   "fragment_id": "225433676",
+   "type": 11,
+   "heading": "Artigo 45.º — Comissão eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Comissão eleitoral\n\n1 - A comissão eleitoral é composta pelo presidente da mesa do conselho geral e por um representante de cada uma das listas admitidas a sufrágio, a indicar no momento da apresentação das respetivas candidaturas.\n\n2 - Cabe ao presidente da mesa do conselho geral presidir à comissão eleitoral.\n\n3 - Compete à comissão eleitoral:\n\na) Receber e admitir as candidaturas apresentadas a sufrágio;\n\nb) Fiscalizar o processo eleitoral e resolver todas as questões surgidas no seu âmbito;\n\nc) Distribuir entre as diferentes candidaturas os meios de apoio disponibilizados pela direção;\n\nd) Proceder ao apuramento dos resultados eleitorais;\n\ne) Decidir dos recursos às decisões das mesas de assembleia de voto.\n\n4 - A comissão eleitoral dispõe do apoio dos serviços da Ordem e todos os órgãos da Ordem devem cooperar com ela no exercício das suas funções."
+  },
+  "225395856": {
+   "fragment_id": "225433677",
+   "type": 11,
+   "heading": "Artigo 46.º — Data das eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Data das eleições\n\n1 - As eleições realizam-se simultaneamente para todos os órgãos eletivos, durante o último trimestre do mandato e até duas semanas antes do termo do mesmo.\n\n2 - No caso de eleições intercalares, as mesmas têm lugar até ao sexagésimo dia posterior à verificação do facto que lhes deu origem."
+  },
+  "225395857": {
+   "fragment_id": "225433678",
+   "type": 11,
+   "heading": "Artigo 47.º — Capacidade eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Capacidade eleitoral\n\n1 - Têm direito de voto os membros da Ordem no pleno gozo dos seus direitos, inscritos até à data da marcação das eleições.\n\n2 - Sem prejuízo do disposto em relação ao bastonário, ao conselho jurisdicional, bem como aos presidentes dos conselhos de especialidade, podem ser candidatos aos órgãos da Ordem todos os seus membros que sejam eleitores."
+  },
+  "225395858": {
+   "fragment_id": "225433679",
+   "type": 11,
+   "heading": "Artigo 48.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Candidaturas\n\n1 - As candidaturas para os órgãos nacionais e regionais são apresentadas perante o respetivo presidente da comissão eleitoral.\n\n2 - Cada lista candidata é subscrita por um mínimo de 50 eleitores, no caso dos órgãos nacionais, e de 30 eleitores, no caso dos órgãos regionais, devendo as listas incluir os nomes de todos os candidatos efetivos e suplentes a cada um dos órgãos, juntamente com a declaração de aceitação.\n\n3 - As candidaturas ao cargo de bastonário e ao conselho jurisdicional devem ser subscritas por um mínimo de 100 eleitores.\n\n4 - As candidaturas têm de ser individualizadas para cada órgão.\n\n5 - As candidaturas são apresentadas com a antecedência mínima de 60 dias em relação à data marcada para a as eleições."
+  },
+  "225395859": {
+   "fragment_id": "225433680",
+   "type": 11,
+   "heading": "Artigo 49.º — Igualdade de tratamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Igualdade de tratamento\n\n1 - As listas admitidas a sufrágio beneficiam de igual tratamento por parte dos órgãos e serviços da Ordem.\n\n2 - A Ordem comparticipa nos encargos inerentes às campanhas eleitorais e ao ato eleitoral, em montante a definir pela direção e a repartir igualitariamente entre as listas admitidas a sufrágio."
+  },
+  "225395860": {
+   "fragment_id": "225433681",
+   "type": 11,
+   "heading": "Artigo 50.º — Cadernos eleitorais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Cadernos eleitorais\n\n1 - Os cadernos eleitorais devem ser afixados na sede nacional e, a existir, nas sedes regionais, com a antecedência prevista no regulamento eleitoral, devendo ainda ser disponibilizados no sítio eletrónico da Ordem.\n\n2 - Da inscrição irregular ou da omissão nos cadernos eleitorais pode qualquer eleitor reclamar para a comissão eleitoral nos 15 dias seguintes aos da afixação, devendo esta comissão decidir da reclamação no prazo de 48 horas."
+  },
+  "225395861": {
+   "fragment_id": "225433682",
+   "type": 11,
+   "heading": "Artigo 51.º — Verificação e suprimento de irregularidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Verificação e suprimento de irregularidades\n\n1 - A comissão eleitoral deve verificar da regularidade das candidaturas nos cinco dias subsequentes ao encerramento do prazo para entrega das listas.\n\n2 - Com vista ao suprimento das eventuais irregularidades encontradas, a documentação é devolvida ao primeiro subscritor da lista com a notificação que as mesmas devem ser sanadas no prazo de três dias úteis.\n\n3 - Findo o prazo referido no número anterior sem que se proceda à regularização das candidaturas, deve a comissão eleitoral rejeitá-las nas 48 horas seguintes."
+  },
+  "225395862": {
+   "fragment_id": "225433683",
+   "type": 11,
+   "heading": "Artigo 52.º — Boletins de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Boletins de voto\n\n1 - Os boletins de voto são emitidos pela Ordem, mediante controlo da comissão eleitoral.\n\n2 - Os boletins de voto e as listas admitidas a sufrágio são enviados, por via postal ou eletrónica, a todos os membros com capacidade eleitoral até sete dias antes da data marcada para o ato eleitoral, estando ainda disponíveis nos locais de voto."
+  },
+  "225395863": {
+   "fragment_id": "225433684",
+   "type": 11,
+   "heading": "Artigo 53.º — Identificação dos eleitores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Identificação dos eleitores\n\nA identificação dos eleitores é feita através da cédula profissional e, na sua falta, mediante apresentação de cartão de cidadão ou qualquer outro documento oficial de identificação com fotografia, aceite pela mesa de voto."
+  },
+  "225395864": {
+   "fragment_id": "225433685",
+   "type": 11,
+   "heading": "Artigo 54.º — Assembleias de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Assembleias de voto\n\n1 - Para a realização do ato eleitoral constituem-se, pelo menos, tantas assembleias de voto quantos os círculos eleitorais, incluindo uma mesa de voto na sede nacional.\n\n2 - A comissão eleitoral pode determinar o desdobramento territorial dos círculos eleitorais."
+  },
+  "225395865": {
+   "fragment_id": "225433686",
+   "type": 11,
+   "heading": "Artigo 55.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Votação\n\n1 - As eleições fazem-se por sufrágio universal.\n\n2 - O voto pode ser exercido de forma presencial ou por via postal ou eletrónica, nos termos a definir por regulamento.\n\n3 - A opção pelo voto por via postal ou eletrónica implica a renúncia ao voto presencial.\n\n4 - É vedado o voto por procuração."
+  },
+  "225395866": {
+   "fragment_id": "225433687",
+   "type": 11,
+   "heading": "Artigo 56.º — Reclamações e recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Reclamações e recursos\n\n1 - Os eleitores podem apresentar reclamações à mesa de voto, com fundamento em irregularidades do ato eleitoral, devendo as mesmas ser decididas até ao encerramento do ato eleitoral.\n\n2 - Da decisão das reclamações cabe recurso imediato para a comissão eleitoral, a qual deve apreciá-los no prazo de 48 horas e previamente ao apuramento definitivo, sendo a sua decisão comunicada aos recorrentes por escrito, afixada na sede nacional e, a existir, nas sedes regionais, e publicitada no sítio eletrónico da Ordem.\n\n3 - Das decisões da comissão eleitoral cabe recurso para o conselho jurisdicional, no prazo de três dias úteis a contar da data da sua afixação e publicitação.\n\n4 - O conselho jurisdicional é convocado pelo respetivo presidente, devendo a sua decisão ser proferida no prazo de dez dias úteis."
+  },
+  "225395867": {
+   "fragment_id": "225433688",
+   "type": 11,
+   "heading": "Artigo 57.º — Referendos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Referendos\n\n1 - Por deliberação do conselho geral, tomada por maioria absoluta, sob proposta do bastonário, podem ser submetidas a referendo, consultivo ou vinculativo, dos membros da Ordem quaisquer questões da competência daquele órgão, do bastonário ou da direção, ressalvadas as questões financeiras e disciplinares.\n\n2 - Está sujeita a referendo obrigatório a aprovação de proposta de dissolução da Ordem.\n\n3 - A realização de qualquer referendo é precedida obrigatoriamente pela verificação da sua conformidade legal e regulamentar pelo conselho jurisdicional, sob pena de nulidade e responsabilidade disciplinar de quem tenha permitido a sua realização.\n\n4 - A organização dos referendos obedece ao regime previsto para as eleições, com as necessárias adaptações, nos termos do competente regulamento.\n\n5 - Nos casos omissos, são aplicáveis os princípios gerais do regime dos referendos políticos e legislativos, estabelecidos na Constituição e na lei."
+  },
+  "225395868": {
+   "fragment_id": "225433689",
+   "type": 1,
+   "heading": "Capítulo III — Responsabilidade externa da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Responsabilidade externa da Ordem"
+  },
+  "225395869": {
+   "fragment_id": "225433690",
+   "type": 11,
+   "heading": "Artigo 58.º — Relatório anual e deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Relatório anual e deveres de informação\n\n1 - A Ordem elabora anualmente um relatório sobre a prossecução das suas atribuições, apresentado à Assembleia da República e ao Governo até 31 de março de cada ano.\n\n2 - A Ordem presta à Assembleia da República e ao Governo toda a informação que lhe seja solicitada relativamente à prossecução das suas atribuições.\n\n3 - O bastonário deve corresponder ao pedido das comissões parlamentares competentes para prestar as informações e esclarecimentos de que estas necessitem."
+  },
+  "225395870": {
+   "fragment_id": "225433691",
+   "type": 11,
+   "heading": "Artigo 59.º — Controlo jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Controlo jurisdicional\n\n1 - Os atos e omissões dos órgãos da Ordem ficam sujeitos à jurisdição administrativa nos termos da respetiva legislação.\n\n2 - Os recursos jurisdicionais não podem ser interpostos antes de serem esgotados os recursos internos previstos no presente Estatuto, designadamente os recursos para o conselho jurisdicional."
+  },
+  "225395871": {
+   "fragment_id": "225433692",
+   "type": 1,
+   "heading": "Capítulo IV — Gestão administrativa, patrimonial e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Gestão administrativa, patrimonial e financeira"
+  },
+  "225395872": {
+   "fragment_id": "225433693",
+   "type": 11,
+   "heading": "Artigo 60.º — Ano social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Ano social\n\nO ano social corresponde ao ano civil."
+  },
+  "225395873": {
+   "fragment_id": "225433694",
+   "type": 11,
+   "heading": "Artigo 61.º — Gestão administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Gestão administrativa\n\n1 - A Ordem dispõe de serviços necessários à prossecução das suas atribuições, nos termos do respetivo regulamento.\n\n2 - A Ordem encontra-se sujeita à jurisdição do Tribunal de Contas."
+  },
+  "225395874": {
+   "fragment_id": "225433695",
+   "type": 1,
+   "heading": "Capítulo V — Membros da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Membros da Ordem"
+  },
+  "225433775": {
+   "fragment_id": "225433696",
+   "type": 8,
+   "heading": "Secção I — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Inscrição"
+  },
+  "225433776": {
+   "fragment_id": "225433697",
+   "type": 11,
+   "heading": "Artigo 62.º — Obrigatoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Obrigatoriedade\n\n1 - A atribuição do título profissional, o seu uso e o exercício da profissão de assistente social, em qualquer setor de atividade, individualmente ou em sociedade profissional, dependem da inscrição na Ordem como membro efetivo, sem prejuízo do disposto no n.º 1 do artigo 67.º\n\n2 - Para efeitos do disposto no número anterior, considera-se qualquer setor de atividade o setor público, privado, cooperativo, social ou outro, independentemente do exercício por conta própria ou por conta de outrem.\n\n3 - A prestação de serviços de serviço social por empresas empregadoras ou subcontratantes de assistentes sociais não depende de registo na Ordem, sem prejuízo do regime das sociedades profissionais.\n\n4 - O uso ilegal do título profissional ou o exercício da profissão sem título são punidos nos termos da lei penal.\n\n5 - Ninguém pode contratar ou utilizar serviços a profissionais que não estejam inscritos na Ordem.\n\n6 - A infração ao disposto no número anterior constitui contraordenação, punível com coima no montante equivalente entre 3 e 10 vezes o valor do indexante dos apoios sociais (IAS), a aplicar pelo Ministro da Segurança Social, sob proposta da Ordem, à qual compete a instrução do processo e que beneficia de 40 % do montante das coimas aplicadas, cabendo os restantes 60 % ao Estado."
+  },
+  "225433777": {
+   "fragment_id": "225433698",
+   "type": 11,
+   "heading": "Artigo 63.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Inscrição\n\n1 - Podem inscrever-se na Ordem, para acesso à profissão de assistente social:\n\na) Os titulares do grau académico superior em serviço social, conferido, na sequência de um curso com duração não inferior a três anos curriculares, por instituição de ensino superior portuguesa;\n\nb) Os titulares de grau académico superior estrangeiro em serviço social, a quem seja conferida equivalência ao grau a que se refere a alínea anterior;\n\nc) Os profissionais nacionais de Estados-Membros da União Europeia ou do Espaço Económico Europeu cujas qualificações tenham sido obtidas fora de Portugal, nos termos do artigo 67.º\n\n2 - A inscrição de nacionais de Estados terceiros cujas qualificações tenham sido obtidas fora de Portugal e aos quais se aplique o disposto na alínea c) do número anterior depende igualmente da garantia de reciprocidade de tratamento, nos termos de convenção internacional, incluindo convenção celebrada entre a Ordem e a autoridade congénere do país de origem do interessado.\n\n3 - Inscrevem-se ainda na Ordem, como membros:\n\na) As sociedades profissionais de assistentes sociais, incluindo as filiais de organizações associativas de assistentes sociais constituídas ao abrigo do direito de outro Estado, nos termos do artigo 68.º;\n\nb) As representações permanentes em território nacional de organizações associativas de assistentes sociais constituídas ao abrigo do direito de outro Estado, nos termos do artigo 69.º;\n\n4 - A inscrição na Ordem para o exercício da profissão de assistente social só pode ser recusada:\n\na) Por falta de formação académica superior nos termos das alíneas a) a c) do n.º 1;\n\nb) Quando ao interessado tiver sido aplicada pena de interdição ou suspensão do exercício da profissão prevista na lei, ou por motivo de infração criminal, contraordenacional ou disciplinar.\n\n5 - A inscrição como membro da Ordem pode ocorrer a todo o tempo."
+  },
+  "225433778": {
+   "fragment_id": "225433699",
+   "type": 11,
+   "heading": "Artigo 64.º — Cédula profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Cédula profissional\n\n1 - Com a inscrição é emitida cédula profissional, assinada pelo bastonário.\n\n2 - A cédula profissional segue o modelo a aprovar pelo conselho geral.\n\n3 - A cédula profissional é revalidada periodicamente, nos termos regulamentares, desde que se mantenham os pressupostos que justificaram a sua emissão.\n\n4 - A emissão da cédula profissional depende da comprovação da subscrição de seguro de responsabilidade profissional.\n\n5 - Para efeitos do disposto no n.º 4, é observado o disposto no artigo 38.º da Lei n.º 2/2013, de 10 de janeiro."
+  },
+  "225433779": {
+   "fragment_id": "225433700",
+   "type": 11,
+   "heading": "Artigo 65.º — Suspensão e cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Suspensão e cancelamento\n\n1 - São suspensos da Ordem os membros que:\n\na) Por sua iniciativa requeiram a suspensão;\n\nb) Se encontrem em situação de incompatibilidade com o exercício da profissão;\n\nc) Sejam punidos com a sanção disciplinar de suspensão ou sujeitos a suspensão preventiva em processo disciplinar.\n\n2 - É cancelada a inscrição na Ordem aos membros que:\n\na) Deixem de exercer, voluntariamente, a atividade profissional e que assim o manifestem junto da direção;\n\nb) Sejam sujeitos à medida disciplinar de expulsão ou com sanção penal, ou outra, de interdição profissional, nos termos da lei."
+  },
+  "225433780": {
+   "fragment_id": "225433701",
+   "type": 8,
+   "heading": "Secção II — Profissionais da União Europeia e do Espaço Económico Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Profissionais da União Europeia e do Espaço Económico Europeu"
+  },
+  "225433781": {
+   "fragment_id": "225433702",
+   "type": 11,
+   "heading": "Artigo 66.º — Direito de estabelecimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Direito de estabelecimento\n\n1 - O reconhecimento das qualificações profissionais de nacional de Estado-Membro da União Europeia ou do Espaço Económico Europeu obtidas fora de Portugal, para a sua inscrição como membro da Ordem, é regulado pela Lei n.º 9/2009, de 4 de março, alterada pelas Leis n.os 41/2012, de 28 de agosto, 25/2014, de 2 de maio, e 26/2017, de 30 de maio, sem prejuízo de condições especiais de reciprocidade, caso as qualificações em causa tenham sido obtidas fora da União Europeia ou do Espaço Económico Europeu.\n\n2 - O profissional que pretenda inscrever-se na Ordem nos termos do número anterior e que preste serviços, de forma subordinada ou autónoma ou na qualidade de sócio ou que atue como gerente ou administrador no Estado-Membro de origem, no âmbito de organização associativa de profissionais, deve, observado o disposto no n.º 4 do artigo 37.º da Lei n.º 2/2013, de 10 de janeiro, identificar a organização em causa no pedido apresentado nos termos do artigo 47.º da Lei n.º 9/2009, de 4 de março.\n\n3 - Caso o facto a comunicar nos termos do número anterior ocorra após a apresentação do pedido de reconhecimento de qualificações, deve a organização associativa em causa ser identificada perante a Ordem, no prazo de 60 dias."
+  },
+  "225433782": {
+   "fragment_id": "225433703",
+   "type": 11,
+   "heading": "Artigo 67.º — Livre prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Livre prestação de serviços\n\n1 - Os profissionais legalmente estabelecidos noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu e que aí desenvolvam atividades comparáveis à atividade profissional de assistente social regulada pelo presente Estatuto, podem exercê-las, de forma ocasional e esporádica, em território nacional, em regime de livre prestação de serviços, nos termos da Lei n.º 9/2009, de 4 de março.\n\n2 - Os profissionais referidos no número anterior podem fazer uso do título profissional de assistente social e são equiparados a assistente social, para todos os efeitos legais, exceto quando o contrário resulte das disposições em causa.\n\n3 - O profissional que preste serviços, de forma subordinada ou autónoma ou na qualidade de sócio ou que atue como gerente ou administrador no Estado-Membro de origem, no âmbito de organização associativa de profissionais e pretenda exercer a sua atividade profissional em território nacional nessa qualidade, em regime de livre prestação de serviços, deve identificar, perante a Ordem, a organização associativa por conta da qual presta serviços na declaração referida no artigo 5.º da Lei n.º 9/2009, de 4 de março."
+  },
+  "225433783": {
+   "fragment_id": "225433704",
+   "type": 8,
+   "heading": "Secção III — Sociedades de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Sociedades de profissionais"
+  },
+  "225433784": {
+   "fragment_id": "225433705",
+   "type": 11,
+   "heading": "Artigo 68.º — Sociedades de profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Sociedades de profissionais\n\n1 - Os assistentes Sociais estabelecidos em território nacional podem exercer em grupo a profissão, desde que constituam ou ingressem como sócios em sociedades profissionais de assistentes sociais.\n\n2 - Podem ainda ser sócios de sociedades de profissionais de assistentes sociais:\n\na) Sociedades de profissionais de assistentes sociais previamente constituídas e inscritas como membros da Ordem;\n\nb) Organizações associativas de profissionais equiparados a assistentes sociais constituídas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, cujo capital e direitos de voto caibam maioritariamente aos profissionais em causa.\n\n3 - O requisito de capital referido na alínea b) do número anterior não é aplicável caso a organização associativa não disponha de capital social.\n\n4 - O juízo de equiparação a que se refere a alínea b) do n.º 2 é regido:\n\na) Quanto a nacionais de Estado-Membro da União Europeia ou do Espaço Económico Europeu, pelo n.º 4 do artigo 1.º da Lei n.º 9/2009, de 4 de março;\n\nb) Quanto a nacionais de países terceiros cujas qualificações tenham sido obtidas fora de Portugal, pelo regime de reciprocidade internacionalmente vigente.\n\n5 - As sociedades de assistentes sociais gozam dos direitos e estão sujeitas aos deveres aplicáveis aos profissionais membros da Ordem que sejam compatíveis com a sua natureza, estando nomeadamente sujeitas aos princípios e regras deontológicos constantes do presente Estatuto.\n\n6 - Às sociedades profissionais de assistentes sociais não é reconhecida capacidade eleitoral.\n\n7 - Os membros do órgão executivo das sociedades profissionais de assistentes sociais, independentemente da sua qualidade de membros da Ordem, devem respeitar os princípios e regras deontológicos, a autonomia técnica e científica e as garantias conferidas aos assistentes sociais pela lei e pelo presente Estatuto.\n\n8 - As sociedades profissionais de assistentes sociais podem exercer, a título secundário, qualquer atividade que não seja incompatível com a de assistente social e em relação à qual não se verifique impedimento, nos termos do presente Estatuto, não estando o exercício daquela sujeito ao controlo da Ordem.\n\n9 - A constituição e o funcionamento das sociedades de profissionais constam de diploma próprio."
+  },
+  "225433785": {
+   "fragment_id": "225433706",
+   "type": 8,
+   "heading": "Secção IV — Outras organizações de prestadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Outras organizações de prestadores"
+  },
+  "225433786": {
+   "fragment_id": "225433707",
+   "type": 11,
+   "heading": "Artigo 69.º — Organizações associativas de profissionais de outros Estados membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Organizações associativas de profissionais de outros Estados membros\n\n1 - As organizações associativas de profissionais equiparados a assistentes sociais, constituídas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, cujo capital com direito de voto caiba maioritariamente aos profissionais em causa e ou a outras organizações associativas, cujo capital e direitos de voto caibam maioritariamente aos profissionais em causa, podem inscrever as respetivas representações permanentes em Portugal, constituídas nos termos da lei comercial, como membros da Ordem, sendo enquanto tal equiparadas a sociedades de assistentes sociais para efeitos do presente Estatuto.\n\n2 - Os requisitos de capital, referidos no número anterior não são aplicáveis caso a organização associativa não disponha de capital social, aplicando-se, em seu lugar, o requisito de atribuição da maioria de direitos de voto aos profissionais ali referidos.\n\n3 - O juízo de equiparação a que se refere o n.º 1 é regido:\n\na) Quanto a nacionais de Estado-Membro da União Europeia ou do Espaço Económico Europeu, pelo n.º 4 do artigo 1.º da Lei n.º 9/2009, de 4 de março, e pela Lei n.º 41/2012, de 28 de agosto, alterada pela Lei n.º 25/2014, de 2 de maio;\n\nb) Quanto a nacionais de países terceiros cujas qualificações tenham sido obtidas fora de Portugal, pelo regime de reciprocidade internacionalmente vigente.\n\n4 - O regime jurídico de inscrição das organizações associativas de profissionais de outros Estados membros consta da Lei n.º 53/2015, de 11 de junho, que estabelece o regime jurídico da constituição e funcionamento das sociedades de profissionais que estejam sujeitas a associações públicas profissionais.\n\n5 - Às organizações associativas de profissionais de outros Estados membros não é reconhecida capacidade eleitoral."
+  },
+  "225433787": {
+   "fragment_id": "225433708",
+   "type": 11,
+   "heading": "Artigo 70.º — Outros prestadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Outros prestadores\n\nAs pessoas coletivas que prestem serviços de serviço social e não se constituam sob a forma de sociedades de profissionais não estão sujeitas a inscrição na Ordem, sem prejuízo da obrigatoriedade de inscrição na Ordem dos profissionais que aí exercem a respetiva atividade, nos termos do presente Estatuto."
+  },
+  "225433788": {
+   "fragment_id": "225433709",
+   "type": 8,
+   "heading": "Secção V — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Direitos e deveres"
+  },
+  "225433789": {
+   "fragment_id": "225433710",
+   "type": 11,
+   "heading": "Artigo 71.º — Direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Direitos\n\n1 - Constituem direitos dos membros efetivos da Ordem:\n\na) Exercer a profissão de assistente social;\n\nb) Eleger e ser eleito para os órgãos da Ordem, sem prejuízo das incapacidades previstas no presente Estatuto;\n\nc) Participar nas atividades da Ordem e exercer quaisquer funções no seu âmbito;\n\nd) Ser apoiado pela Ordem para defesa dos seus direitos e interesses profissionais, salvo em relação a situações que envolvam responsabilidade disciplinar perante a Ordem;\n\ne) Ser informado pela Ordem acerca dos estudos, relatórios e pareceres relativos ao exercício da profissão;\n\nf) Participar e beneficiar da atividade social e científica da Ordem e utilizar os serviços oferecidos pela Ordem;\n\ng) Beneficiar da atividade editorial e utilizar os serviços oferecidos pela Ordem\n\nh) Requerer a respetiva cédula profissional e os demais documentos necessários ao exercício da profissão;\n\ni) Exercer o direito de defesa em qualquer procedimento disciplinar e recorrer dos atos que afetem os seus direitos e interesses legalmente protegidos;\n\nj) Requerer os títulos de especialidade, nos termos previstos no presente Estatuto e nos regulamentos aplicáveis;\n\nk) Solicitar a comprovação oficial da sua qualificação profissional;\n\nl) Solicitar a suspensão ou o cancelamento da sua inscrição, nos termos do artigo 65.º\n\n2 - O não pagamento de contribuições por um período superior a seis meses, após aviso prévio, determina o impedimento de participação na vida institucional da Ordem, bem como de usufruir dos seus serviços, enquanto perdurar aquela situação."
+  },
+  "225433790": {
+   "fragment_id": "225433711",
+   "type": 11,
+   "heading": "Artigo 72.º — Deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Deveres\n\nConstituem deveres dos membros efetivos da Ordem:\n\na) Participar na vida institucional da Ordem;\n\nb) Pagar as quotas e taxas devidas e os demais encargos regulamentares;\n\nc) Cumprir e fazer cumprir as leis, os regulamentos e as deliberações dos órgãos da Ordem;\n\nd) Respeitar escrupulosamente os princípios definidos no código deontológico;\n\ne) Prestar a comissões e grupos de trabalho a colaboração que lhes seja solicitada;\n\nf) Desempenhar os cargos para que sejam eleitos e as funções para as quais sejam designados com o seu consentimento ou que constituam uma obrigação nos termos do presente Estatuto;\n\ng) Contribuir para a boa reputação da Ordem e procurar alargar o seu âmbito de influência;\n\nh) Agir solidariamente na defesa dos interesses coletivos dos membros da Ordem;\n\ni) Manter a Ordem informada quanto a todos os dados pessoais e profissionais constantes do registo profissional, nomeadamente quanto ao domicílio profissional e quanto a impedimentos ao exercício profissional;\n\nj) Contratar seguro de responsabilidade profissional."
+  },
+  "225433791": {
+   "fragment_id": "225433712",
+   "type": 1,
+   "heading": "Capítulo VI — Regime disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Regime disciplinar"
+  },
+  "225433792": {
+   "fragment_id": "225433713",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "225433793": {
+   "fragment_id": "225433714",
+   "type": 11,
+   "heading": "Artigo 73.º — Infração disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Infração disciplinar\n\n1 - Considera-se infração disciplinar toda a ação ou omissão que consista em violação, por qualquer membro da Ordem, dos deveres consignados na lei, no presente Estatuto e nos respetivos regulamentos.\n\n2 - A infração disciplinar é:\n\na) Leve, quando o arguido viole de forma pouco intensa os deveres profissionais a que se encontra adstrito no exercício da profissão;\n\nb) Grave, quando o arguido viole de forma séria os deveres profissionais a que se encontra adstrito no exercício da profissão;\n\nc) Muito grave, quando o arguido viole os deveres profissionais a que está adstrito no exercício da profissão, afetando com a sua conduta a dignidade e o prestígio profissional, de tal forma que fique definitivamente inviabilizado o exercício da profissão.\n\n3 - As infrações disciplinares previstas no presente Estatuto e nas demais disposições legais e regulamentares aplicáveis são puníveis a título de dolo ou negligência."
+  },
+  "225433794": {
+   "fragment_id": "225433715",
+   "type": 11,
+   "heading": "Artigo 74.º — Jurisdição disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Jurisdição disciplinar\n\n1 - Os membros da Ordem estão sujeitos ao poder disciplinar dos órgãos da Ordem, nos termos previstos no presente Estatuto e no regulamento disciplinar.\n\n2 - Durante o tempo de suspensão da inscrição o membro da Ordem continua sujeito ao poder disciplinar da Ordem.\n\n3 - O cancelamento da inscrição não faz cessar a responsabilidade disciplinar por infrações anteriormente praticadas.\n\n4 - A punição com a sanção de expulsão não faz cessar a responsabilidade disciplinar do membro da Ordem relativamente às infrações por ele cometidas antes da decisão definitiva que tenha aplicado aquela sanção."
+  },
+  "225433795": {
+   "fragment_id": "225433716",
+   "type": 11,
+   "heading": "Artigo 75.º — Independência da responsabilidade disciplinar dos membros da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Independência da responsabilidade disciplinar dos membros da Ordem\n\n1 - A responsabilidade disciplinar é independente da responsabilidade civil e criminal decorrente da prática do mesmo facto e coexiste com qualquer outra prevista por lei.\n\n2 - Quando, com fundamento nos mesmos factos, tiver sido instaurado processo penal contra membro da Ordem e, para se conhecer da existência de uma infração disciplinar, for necessário julgar qualquer questão que não possa ser convenientemente resolvida no processo disciplinar, pode ser ordenada a suspensão do processo disciplinar durante o tempo em que, por força de decisão jurisdicional ou de apreciação jurisdicional de qualquer questão, a marcha do correspondente processo disciplinar não possa começar ou continuar a ter lugar.\n\n3 - A suspensão do processo disciplinar, nos termos do número anterior, é comunicada pela Ordem à autoridade judiciária competente, a qual deve ordenar a remessa à Ordem de cópia do despacho de acusação e, se a ele houver lugar, do despacho de pronúncia.\n\n4 - Sempre que, em processo penal contra membro da Ordem por factos suscetíveis de integrarem infrações disciplinares, for designado dia para a audiência de julgamento, o tribunal deve ordenar a remessa à Ordem, preferencialmente por via eletrónica, do despacho de acusação, do despacho de pronúncia e da contestação, se tiver sido apresentada, bem como quaisquer outros elementos solicitados pela direção ou pelo bastonário.\n\n5 - A responsabilidade disciplinar dos membros perante a Ordem, decorrente da prática de infrações, é independente da responsabilidade disciplinar perante os respetivos empregadores, por violação dos deveres emergentes de relações de trabalho."
+  },
+  "225433796": {
+   "fragment_id": "225433717",
+   "type": 11,
+   "heading": "Artigo 76.º — Responsabilidade disciplinar das sociedades de profissionais e dos profissionais em livre prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Responsabilidade disciplinar das sociedades de profissionais e dos profissionais em livre prestação de serviços\n\n1 - As pessoas coletivas membros da Ordem estão sujeitas ao poder disciplinar dos seus órgãos, nos termos do presente Estatuto e da lei que estabelece o regime jurídico da constituição e funcionamento das sociedades de profissionais.\n\n2 - Os profissionais que prestem serviços em território nacional em regime de livre prestação são equiparados aos membros da Ordem para efeitos disciplinares, nos termos do n.º 2 do artigo 4.º da Lei n.º 9/2009, de 4 de março, com as especificidades constantes do n.º 8 do artigo 84.º e do regulamento disciplinar."
+  },
+  "225433797": {
+   "fragment_id": "225433718",
+   "type": 11,
+   "heading": "Artigo 77.º — Prescrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Prescrição\n\n1 - O procedimento disciplinar extingue-se, por efeito de prescrição, logo que sobre a prática da infração tiver decorrido o prazo de cinco anos, salvo o disposto no número seguinte.\n\n2 - Se a infração disciplinar constituir simultaneamente infração criminal para a qual a lei estabeleça prescrição sujeita a prazo mais longo, o procedimento disciplinar apenas prescreve após o decurso deste último prazo.\n\n3 - O prazo de prescrição do procedimento disciplinar corre desde o dia em que o facto se tiver consumado.\n\n4 - Para efeitos do disposto no número anterior, o prazo de prescrição só corre:\n\na) Nas infrações instantâneas, desde o momento da sua prática;\n\nb) Nas infrações continuadas, desde o dia da prática do último ato;\n\nc) Nas infrações permanentes, desde o dia em que cessar a consumação.\n\n5 - O procedimento disciplinar também prescreve se, desde o conhecimento pelo órgão competente para a instauração do processo disciplinar ou a participação efetuada nos termos do n.º 1 do artigo 81.º, não for iniciado o correspondente processo disciplinar, no prazo de um ano."
+  },
+  "225433798": {
+   "fragment_id": "225433719",
+   "type": 11,
+   "heading": "Artigo 78.º — Suspensão e interrupção do prazo de prescrição do procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Suspensão e interrupção do prazo de prescrição do procedimento disciplinar\n\n1 - O prazo de prescrição do procedimento disciplinar suspende-se durante o tempo em que:\n\na) O processo disciplinar estiver suspenso, a aguardar despacho de acusação ou de pronúncia em processo criminal;\n\nb) O processo disciplinar estiver pendente, a partir da notificação da acusação nele proferida.\n\n2 - A suspensão do prazo de prescrição do procedimento disciplinar não pode ultrapassar o prazo máximo de 18 meses.\n\n3 - O prazo prescricional volta a correr a partir do dia em que cessar a causa da suspensão.\n\n4 - O prazo de prescrição do procedimento disciplinar interrompe-se com a notificação ao assistente social arguido:\n\na) Da instauração do processo disciplinar;\n\nb) Da acusação.\n\n5 - Após cada período de interrupção começa a correr novo prazo de prescrição."
+  },
+  "225433799": {
+   "fragment_id": "225433720",
+   "type": 8,
+   "heading": "Secção II — Do exercício da ação disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do exercício da ação disciplinar"
+  },
+  "225433800": {
+   "fragment_id": "225433721",
+   "type": 11,
+   "heading": "Artigo 79.º — Participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Participação\n\n1 - Têm legitimidade para participar à Ordem factos suscetíveis de constituir infração disciplinar:\n\na) Qualquer pessoa direta ou indiretamente afetada pelos factos participados;\n\nb) A direção;\n\nc) O provedor dos destinatários dos serviços;\n\nd) Oficiosamente, o próprio presidente do conselho jurisdicional;\n\ne) O Ministério Público, nos termos do n.º 3.\n\n2 - Os tribunais e quaisquer outras autoridades devem dar conhecimento à Ordem da prática, por parte dos membros desta, de factos suscetíveis de constituírem infração disciplinar.\n\n3 - O Ministério Público e os órgãos de polícia criminal remetem à Ordem certidão das denúncias, participações ou queixas apresentadas contra membros da Ordem e que possam consubstanciar factos suscetíveis de constituir infração disciplinar."
+  },
+  "225433801": {
+   "fragment_id": "225433722",
+   "type": 11,
+   "heading": "Artigo 80.º — Desistência da participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Desistência da participação\n\nA desistência da participação disciplinar pelo participante extingue o processo disciplinar, salvo se a infração imputada afetar:\n\na) A dignidade do membro da Ordem visado e, neste caso, este manifeste intenção de continuação do processo;\n\nb) O prestígio da Ordem ou da profissão, em qualquer uma das suas especialidades."
+  },
+  "225433802": {
+   "fragment_id": "225433723",
+   "type": 11,
+   "heading": "Artigo 81.º — Instauração do processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Instauração do processo disciplinar\n\n1 - Qualquer órgão da Ordem, oficiosamente ou tendo por base queixa, denúncia ou participação apresentada por pessoa devidamente identificada, contendo factos suscetíveis de integrarem infração disciplinar do membro da Ordem, comunica, de imediato, os factos ao órgão competente para a instauração de processo disciplinar.\n\n2 - Quando se conclua que a participação é infundada, dela se dá conhecimento ao membro da Ordem visado e são emitidas as certidões que o mesmo entenda necessárias para a tutela dos seus direitos e interesses legítimos."
+  },
+  "225433803": {
+   "fragment_id": "225433724",
+   "type": 11,
+   "heading": "Artigo 82.º — Legitimidade processual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Legitimidade processual\n\nAs pessoas com interesse direto, pessoal e legítimo relativamente aos factos participados podem solicitar à Ordem a sua intervenção no processo e requerer e alegar o que tiverem por conveniente"
+  },
+  "225433804": {
+   "fragment_id": "225433725",
+   "type": 11,
+   "heading": "Artigo 83.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Direito subsidiário\n\nSem prejuízo do disposto no presente Estatuto, o processo disciplinar rege-se pelo regulamento disciplinar, sendo subsidiariamente aplicáveis as normas procedimentais previstas na Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho."
+  },
+  "225433805": {
+   "fragment_id": "225433726",
+   "type": 8,
+   "heading": "Secção III — Das sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Das sanções disciplinares"
+  },
+  "225433806": {
+   "fragment_id": "225433727",
+   "type": 11,
+   "heading": "Artigo 84.º — Aplicação das sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Aplicação das sanções disciplinares\n\n1 - As sanções disciplinares são as seguintes:\n\na) Advertência;\n\nb) Repreensão registada;\n\nc) Multa;\n\nd) Suspensão dos direitos e regalias em relação à Ordem, incluindo direitos eleitorais, até um máximo de dois anos;\n\ne) Suspensão do exercício profissional até ao máximo de dois anos;\n\nf) Expulsão.\n\n2 - A sanção prevista na alínea a) do número anterior é aplicada às infrações praticadas com culpa leve de que não tenha resultado prejuízo grave para terceiro, nem para a Ordem.\n\n3 - A sanção prevista na alínea b) do n.º 1 é aplicada às infrações disciplinares praticadas com negligência grave, por infração sem gravidade ou em caso de reincidência na infração referida no número anterior.\n\n4 - A sanção prevista na alínea c) do n.º 1 é aplicável a infrações graves que não devam ser punidas com sanção mais severa e varia entre 1 e 10 vezes o valor do IAS.\n\n5 - A sanção prevista na alínea d) do n.º 1 é aplicável em caso de não pagamento culposo das quotas e taxas devidas, por um período superior a um ano.\n\n6 - A sanção prevista na alínea e) do n.º 1 é aplicável a infração disciplinar que afete gravemente a dignidade e o prestígio da profissão ou lese direitos ou interesses relevantes de terceiros.\n\n7 - A sanção prevista na alínea f) do n.º 1 é aplicável a infração muito grave quando, tendo em conta a natureza da profissão, a infração disciplinar tenha posto em causa a vida, a integridade física das pessoas, ou seja gravemente lesiva da honra ou do património alheios ou de valores equivalentes, sem prejuízo do direito à reabilitação nos termos do regulamento disciplinar.\n\n8 - No caso de profissionais em regime de livre prestação de serviços em território nacional, as sanções previstas nas alíneas e) e f) do n.º 1 assumem a forma de interdição temporária ou definitiva do exercício da atividade profissional neste território, consoante os casos, aplicando-se, com as devidas adaptações, o disposto no artigo 102.º\n\n9 - Sempre que a infração resulte da violação de um dever por omissão, o cumprimento das sanções aplicadas não dispensa o arguido do cumprimento daquele, se tal ainda for possível."
+  },
+  "225433807": {
+   "fragment_id": "225433728",
+   "type": 11,
+   "heading": "Artigo 85.º — Graduação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Graduação\n\nNa aplicação das sanções deve atender-se aos antecedentes profissionais e disciplinares do arguido, ao grau de culpa, à gravidade e às consequências da infração, à situação económica do arguido e a todas as demais circunstâncias agravantes ou atenuantes."
+  },
+  "225433808": {
+   "fragment_id": "225433729",
+   "type": 11,
+   "heading": "Artigo 86.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Sanções acessórias\n\nA aplicação de sanções mais graves do que a de repreensão registada pode ser acumulada com as seguintes sanções acessórias:\n\na) Destituição de cargo, em caso de membro da Ordem que exerça algum cargo nos respetivos órgãos;\n\nb) Impossibilidade de integração em lista candidata aos órgãos da Ordem, por um período máximo de 15 anos."
+  },
+  "225433809": {
+   "fragment_id": "225433730",
+   "type": 11,
+   "heading": "Artigo 87.º — Acumulação de infrações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Acumulação de infrações\n\nSem prejuízo do disposto no presente Estatuto quanto às sanções acessórias, não pode aplicar-se ao mesmo membro da Ordem mais do que uma sanção disciplinar por cada facto punível."
+  },
+  "225433810": {
+   "fragment_id": "225433731",
+   "type": 11,
+   "heading": "Artigo 88.º — Suspensão das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Suspensão das sanções\n\n1 - As sanções disciplinares de advertência, repreensão registada e suspensão podem ser suspensas quando, atendendo à personalidade do infrator, às condições da sua vida, à sua conduta anterior e posterior à infração e às circunstâncias desta, se conclua que a simples censura do comportamento e a ameaça da sanção realizam de forma adequada e suficiente as finalidades da punição.\n\n2 - O tempo de suspensão não é inferior a seis meses para as sanções de advertência e de repreensão registada e a um ano para a sanção de suspensão, nem superior a dois e três anos, respetivamente, contando-se estes prazos desde a data do início do cumprimento da sanção.\n\n3 - Cessa a suspensão da sanção sempre que, relativamente ao membro da Ordem punido, seja proferido despacho de condenação em novo processo disciplinar."
+  },
+  "225433811": {
+   "fragment_id": "225433732",
+   "type": 11,
+   "heading": "Artigo 89.º — Execução das sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Execução das sanções\n\n1 - Compete à direção dar execução às decisões proferidas em sede de processo disciplinar, designadamente, praticar os atos necessários à efetiva suspensão ou ao cancelamento da inscrição dos membros da Ordem a quem sejam aplicadas as sanções de suspensão e de expulsão, respetivamente.\n\n2 - A aplicação de sanção de suspensão ou de expulsão implica a proibição temporária ou definitiva, respetivamente, da prática de qualquer ato profissional próprio do assistente social, bem como a entrega da cédula profissional na sede da Ordem."
+  },
+  "225433812": {
+   "fragment_id": "225433733",
+   "type": 11,
+   "heading": "Artigo 90.º — Início de produção de efeitos das sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Início de produção de efeitos das sanções disciplinares\n\n1 - As sanções disciplinares iniciam a produção dos seus efeitos no dia seguinte àquele em que a decisão se torne definitiva.\n\n2 - Se, na data em que a decisão se torna definitiva, estiver suspensa a inscrição do arguido por motivos não disciplinares, o cumprimento da sanção disciplinar de suspensão tem início no dia seguinte ao do levantamento da suspensão."
+  },
+  "225433813": {
+   "fragment_id": "225433734",
+   "type": 11,
+   "heading": "Artigo 91.º — Prazo para pagamento da multa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Prazo para pagamento da multa\n\n1 - As multas aplicadas nos termos da alínea c) do n.º 1 do artigo 84.º devem ser pagas no prazo de 30 dias, a contar do início de produção de efeitos da sanção respetiva.\n\n2 - Ao membro da Ordem que não pague a multa no prazo referido no número anterior é suspensa a sua inscrição, mediante decisão do órgão disciplinarmente competente, que lhe é comunicada.\n\n3 - A suspensão só pode ser levantada após o pagamento da importância em dívida"
+  },
+  "225433814": {
+   "fragment_id": "225433735",
+   "type": 11,
+   "heading": "Artigo 92.º — Comunicação e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Comunicação e publicidade\n\n1 - A aplicação de qualquer das sanções previstas nas alíneas b) a f) do artigo 84.º é comunicada pela direção à sociedade de profissionais ou organização associativa por conta da qual o arguido prestava serviços à data dos factos e à autoridade competente noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, para o controlo da atividade do arguido estabelecido nesse mesmo Estado-Membro.\n\n2 - A aplicação das sanções de suspensão ou de expulsão só pode ter lugar após audiência pública, salvo falta do arguido, nos termos do regulamento disciplinar.\n\n3 - Às sanções previstas nas alíneas e) e f) do artigo 84.º, é dada publicidade através do sítio eletrónico da Ordem e em locais considerados idóneos para o cumprimento das finalidades de prevenção geral do sistema jurídico.\n\n4 - As sanções disciplinares previstas nas alíneas b) a d) do artigo 84.º são sempre tornadas públicas, salvo quando o conselho jurisdicional justificadamente determinar coisa diferente, por razões ligadas à defesa dos interesses da Ordem ou de direitos ou interesses legítimos de terceiros."
+  },
+  "225433815": {
+   "fragment_id": "225433736",
+   "type": 11,
+   "heading": "Artigo 93.º — Prescrição das sanções disciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Prescrição das sanções disciplinares\n\nAs sanções disciplinares prescrevem nos prazos seguintes, a contar da data em que a decisão se tornou inimpugnável:\n\na) Um mês, para a sanção de repreensão registada;\n\nb) Três meses, para a sanção de multa;\n\nc) Seis meses, para as sanções de suspensão previstas nas alíneas d) e e) do artigo 84.º;\n\nd) Um ano, para a sanção de expulsão."
+  },
+  "225433816": {
+   "fragment_id": "225433737",
+   "type": 11,
+   "heading": "Artigo 94.º — Condenação em processo criminal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Condenação em processo criminal\n\n1 - Sempre que em processo criminal seja imposta a proibição de exercício da profissão durante período de tempo determinado, este é deduzido à sanção disciplinar de suspensão que, pela prática dos mesmos factos, vier a ser aplicada ao membro da Ordem.\n\n2 - A condenação de um membro da Ordem em processo criminal é comunicada a esta entidade, para efeitos de averbamento ao respetivo cadastro."
+  },
+  "225433817": {
+   "fragment_id": "225433738",
+   "type": 8,
+   "heading": "Secção IV — Do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Do processo"
+  },
+  "225433818": {
+   "fragment_id": "225433739",
+   "type": 11,
+   "heading": "Artigo 95.º — Obrigatoriedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Obrigatoriedade\n\nA aplicação de uma sanção disciplinar é sempre precedida do apuramento dos factos e da responsabilidade disciplinar em processo próprio, nos termos previstos no presente Estatuto e no regulamento disciplinar."
+  },
+  "225433819": {
+   "fragment_id": "225433740",
+   "type": 11,
+   "heading": "Artigo 96.º — Formas do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Formas do processo\n\n1 - A ação disciplinar comporta as seguintes formas:\n\na) Processo de averiguações;\n\nb) Processo disciplinar.\n\n2 - O processo de averiguações é aplicável quando não seja possível identificar claramente a existência de uma infração disciplinar ou o respetivo infrator, impondo-se a realização de diligências sumárias para o esclarecimento ou a concretização dos factos em causa.\n\n3 - Aplica-se o processo disciplinar sempre que a determinado membro da Ordem sejam imputados factos devidamente concretizados, suscetíveis de constituir infração disciplinar.\n\n4 - Depois de averiguada a identidade do infrator ou logo que se mostrem minimamente concretizados ou esclarecidos os factos participados, sendo eles suscetíveis de constituir infração disciplinar, é proposta a imediata conversão do processo de averiguações em processo disciplinar, mediante parecer sucintamente fundamentado.\n\n5 - Quando a participação seja manifestamente inviável ou infundada, deve a mesma ser liminarmente arquivada, dando-se cumprimento ao disposto no n.º 2 do artigo 81.º"
+  },
+  "225433820": {
+   "fragment_id": "225433741",
+   "type": 11,
+   "heading": "Artigo 97.º — Processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Processo disciplinar\n\n1 - O processo disciplinar é estatuído no regulamento disciplinar.\n\n2 - O processo disciplinar é composto pelas seguintes fases:\n\na) Instrução;\n\nb) Defesa do arguido;\n\nc) Decisão;\n\nd) Execução.\n\n3 - Independentemente da fase do processo disciplinar, são asseguradas ao arguido todas as garantias de defesa, nos termos gerais de direito."
+  },
+  "225433821": {
+   "fragment_id": "225433742",
+   "type": 11,
+   "heading": "Artigo 98.º — Suspensão preventiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Suspensão preventiva\n\n1 - Após a audição do arguido ou se este, tendo sido notificado, não comparecer para ser ouvido, pode ser ordenada a sua suspensão preventiva, mediante deliberação tomada por maioria qualificada de dois terços dos membros do órgão competente da Ordem.\n\n2 - A suspensão a que se refere o número anterior só pode ser decretada nos casos em que haja indícios da prática de infração disciplinar à qual corresponda uma das sanções previstas nas alíneas e) e f) do n.º 1 do artigo 84.º\n\n3 - A suspensão preventiva não pode exceder três meses e é sempre descontada na sanção de suspensão."
+  },
+  "225433822": {
+   "fragment_id": "225433743",
+   "type": 11,
+   "heading": "Artigo 99.º — Natureza secreta do processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Natureza secreta do processo\n\n1 - O processo é de natureza secreta até ao despacho de acusação ou de arquivamento.\n\n2 - O relator pode, todavia, autorizar a consulta do processo pelo arguido, pelo participante ou pelos interessados, quando daí não resulte inconveniente para a instrução e sob condição de não ser divulgado o que dele conste.\n\n3 - O arguido ou o interessado, quando membro da Ordem, que não respeite a natureza secreta do processo incorre em responsabilidade disciplinar."
+  },
+  "225433823": {
+   "fragment_id": "225433744",
+   "type": 8,
+   "heading": "Secção V — Das garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Das garantias"
+  },
+  "225433824": {
+   "fragment_id": "225433745",
+   "type": 11,
+   "heading": "Artigo 100.º — Controlo jurisdicional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Controlo jurisdicional\n\nA decisão relativa à aplicação de uma sanção disciplinar fica sujeita à jurisdição administrativa, de acordo com a respetiva legislação."
+  },
+  "225433825": {
+   "fragment_id": "225433746",
+   "type": 11,
+   "heading": "Artigo 101.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Revisão\n\n1 - É admissível a revisão de decisão definitiva proferida pelos órgãos da Ordem com competência disciplinar sempre que:\n\na) Uma decisão judicial transitada em julgado declarar falsos quaisquer elemento ou meios de prova que tenha sido determinante para a decisão revidenda;\n\nb) Uma decisão judicial transitada em julgado tiver dado como provado crime cometido por membro ou membros do órgão que proferiu a decisão revidenda e relacionado com o exercício das suas funções no processo;\n\nc) Os factos que serviram de fundamento à decisão condenatória forem inconciliáveis com os que forem dados como provados noutra decisão definitiva e da oposição resultarem graves dúvidas sobre a justiça da condenação;\n\nd) Se tenham descoberto novos factos ou meios de prova que, por si ou combinados com os que foram apreciados no processo, suscitem graves dúvidas sobre a justiça da decisão condenatória proferida.\n\n2 - A simples alegação de ilegalidade, formal ou substancial, do processo e decisão disciplinares não constitui fundamento para a revisão.\n\n3 - A revisão é admissível ainda que o procedimento se encontre extinto ou a sanção prescrita ou cumprida.\n\n4 - O exercício do direito de revisão previsto no presente artigo é regulado pelas disposições aplicáveis do regulamento disciplinar."
+  },
+  "225433826": {
+   "fragment_id": "225433747",
+   "type": 11,
+   "heading": "Artigo 102.º — Reabilitação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Reabilitação profissional\n\n1 - O membro da Ordem a quem tenha sido aplicada a sanção de expulsão pode ser sujeito a processo de reabilitação, mediante requerimento, desde que se verifiquem cumulativamente os seguintes requisitos:\n\na) Tenham decorrido mais de 10 anos sobre o trânsito em julgado da decisão que aplicou a sanção;\n\nb) O reabilitando tenha revelado boa conduta.\n\n2 - Deliberada a reabilitação, o membro da Ordem reabilitado recupera plenamente os seus direitos e é dada a publicidade devida, nos termos do artigo 92.º, com as necessárias adaptações."
+  },
+  "225433827": {
+   "fragment_id": "225433748",
+   "type": 1,
+   "heading": "Capítulo VII — Da deontologia profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Da deontologia profissional"
+  },
+  "225433828": {
+   "fragment_id": "225433749",
+   "type": 11,
+   "heading": "Artigo 103.º — Princípios gerais de conduta profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Princípios gerais de conduta profissional\n\nConstituem princípios de conduta profissional dos assistentes sociais:\n\na) Pautar a sua ação, nas diferentes áreas de atuação profissional, pelos princípios éticos que regem a prática científica e a profissão;\n\nb) Cumprir e fazer cumprir as normas deontológicas aplicáveis à profissão;\n\nc) Reportar todas as situações que não se coadunem com as normas deontológicas aplicáveis à profissão."
+  },
+  "225433829": {
+   "fragment_id": "225433750",
+   "type": 11,
+   "heading": "Artigo 104.º — Deveres gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Deveres gerais\n\nNa sua conduta profissional, devem ser respeitados pelo assistente social os seguintes princípios gerais:\n\na) Atuar com independência e isenção profissional;\n\nb) Prestigiar e dignificar a profissão;\n\nc) Exercer a sua atividade com diligência e zelo;\n\nd) Utilizar os instrumentos científicos e técnicos adequados ao rigor exigido no exercício da profissão;\n\ne) Colocar a sua capacidade ao serviço do interesse público inerente à profissão;\n\nf) Empenhar-se no estabelecimento de uma dinâmica de cooperação social com o objetivo de melhorar o bem-estar individual e coletivo;\n\ng) Comprometer-se com a atualização contínua dos seus conhecimentos e das suas capacidades científicas, técnicas e profissionais;\n\nh) Evitar a deturpação da interpretação do conteúdo, explícito ou implícito, de documentos de apoio técnico ao exercício da profissão, com o intuito de iludir a boa-fé de outrem;\n\ni) Reconhecer as suas competências profissionais e preservar a autonomia da profissão, procurando apoio multidisciplinar, quando necessário;\n\nj) Defender e fazer defender o sigilo profissional, exigindo o mesmo de pessoas sob sua direção ou orientação;\n\nk) Conhecer e agir com respeito pelos preceitos legais e regulamentares;\n\nl) Respeitar as incompatibilidades que decorram da lei;\n\nm) Cumprir e fazer cumprir as normas deontológicas aplicáveis à profissão;\n\nn) Identificar-se de forma precisa como membro da Ordem, nomeadamente através do nome profissional e do número de cédula profissional;\n\no) Reportar ao conselho jurisdicional todas as situações que não se coadunem com as normas deontológicas aplicáveis à profissão;\n\np) Abster-se de exercer a sua atividade em áreas do exercício profissional para as quais não tenham recebido formação específica;\n\nq) Recusar quaisquer interferências no exercício da sua atividade que ponham em causa aspetos técnico-científicos ou éticos associados ao exercício profissional, independentemente das suas funções e dependências hierárquicas ou do local onde exercem a sua atividade;\n\nr) Abster-se de desviar para atendimento particular próprio, com finalidade lucrativa, pessoa em atendimento ou atendida em instituição com a qual mantenham qualquer tipo de vínculo;\n\ns) Recusar quaisquer incentivos ou ofertas que possam afetar, ou ser interpretadas como aptas a afetar, a boa prática profissional."
+  },
+  "225433830": {
+   "fragment_id": "225433751",
+   "type": 11,
+   "heading": "Artigo 105.º — Deveres para com a Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Deveres para com a Ordem\n\nConstituem deveres específicos dos assistentes sociais para com a Ordem:\n\na) Respeitar o presente Estatuto e regulamentos da Ordem;\n\nb) Cumprir as deliberações da Ordem;\n\nc) Colaborar nas atribuições da Ordem e exercer os cargos para os quais tenha sido eleito;\n\nd) Cooperar em procedimentos disciplinares;\n\ne) Denunciar situações de exercício ilegal da profissão, nomeadamente por falta de habilitações académicas e profissionais, incluindo a falta de inscrição na Ordem, ou por motivo de suspensão ou interdição."
+  },
+  "225433831": {
+   "fragment_id": "225433752",
+   "type": 11,
+   "heading": "Artigo 106.º — Deveres para com o destinatário dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Deveres para com o destinatário dos serviços\n\nNo âmbito das suas relações com os destinatários dos serviços, os assistentes sociais devem:\n\na) Prestar os seus serviços com respeito pela dignidade do destinatário dos serviços, pelas suas necessidades e pelos seus valores pessoais, sem qualquer tipo de discriminação;\n\nb) Manter registos claros e atualizados;\n\nc) Garantir a privacidade da informação recolhida no desempenho das suas funções;\n\nd) Fornecer informação adequada ao destinatário, fazendo-o compreendê-la para que possa, sempre que possível, consentir ou declinar o serviço social voluntário;\n\ne) Pautar a atividade profissional por critérios de honestidade e integridade."
+  },
+  "225433832": {
+   "fragment_id": "225433753",
+   "type": 11,
+   "heading": "Artigo 107.º — Deveres recíprocos entre assistentes sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Deveres recíprocos entre assistentes sociais\n\nNo exercício da profissão, os assistentes sociais devem:\n\na) Tratar os colegas com urbanidade e respeito;\n\nb) Abster-se de denegrir o trabalho dos colegas, sem prejuízo da liberdade de apreciação crítica;\n\nc) Abster-se de praticar atos de concorrência desleal, sem prejuízo da liberdade de concorrência na prestação de serviços;\n\nd) Promover um ambiente que favoreça o comportamento ético, a qualidade do serviço prestado, a avaliação e oportunidades de melhoria de desempenho profissional;\n\ne) Apoiar e orientar o trabalho de colegas mais novos na profissão, promovendo a sua integração profissional;\n\nf) Manter o princípio da imparcialidade em qualquer avaliação do desempenho e reconhecer as legítimas diferenças de opinião;\n\ng) Respeitar as diferentes formas de atuação, desde que enquadradas na área profissional, bem como as diferentes opiniões profissionais;\n\nh) Mencionar as contribuições de outros colegas, como colaboradores e como fornecedores de informação, no âmbito de trabalhos científicos e outros."
+  },
+  "225433833": {
+   "fragment_id": "225433754",
+   "type": 11,
+   "heading": "Artigo 108.º — Deveres para com outros profissionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Deveres para com outros profissionais\n\nQuando, no âmbito da sua atividade profissional, os assistentes sociais tenham de relacionar-se com outros profissionais devem:\n\na) Manter-se fiéis ao rigor técnico-científico inerente à sua atividade profissional;\n\nb) Reconhecer as suas competências técnicas e profissionais e procurar apoio multidisciplinar quando necessário, preservando a autonomia da profissão e respeitando os limites de atuação de cada profissional;\n\nc) Colaborar com outros profissionais, respeitando os deveres e responsabilidades que decorram das normas deontológicas aplicáveis à profissão e das normas de conduta profissional dos outros profissionais;\n\nd) Colaborar com outros profissionais na partilha de informação, sempre que esta seja relevante para garantir a prestação dos melhores serviços."
+  },
+  "225433834": {
+   "fragment_id": "225433755",
+   "type": 11,
+   "heading": "Artigo 109.º — Privacidade do destinatário dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Privacidade do destinatário dos serviços\n\n1 - Os assistentes sociais têm a obrigação de assegurar a manutenção da privacidade de toda a informação a respeito do destinatário dos serviços.\n\n2 - Os assistentes sociais recolhem e registam apenas a informação estritamente necessária sobre o destinatário dos serviços, de acordo com os objetivos em causa.\n\n3 - O arquivo, manipulação, manutenção e destruição de registos, relatórios ou quaisquer outros documentos acerca do destinatário dos serviços são efetuados de forma a assegurar a privacidade e da informação.\n\n4 - A não manutenção da privacidade pode justificar-se sempre que se considere existir uma situação de perigo para o destinatário dos serviços ou para terceiros, que possa ameaçar de uma forma grave a integridade física ou psíquica, perigo de dano significativo, ou qualquer forma de maus-tratos a indivíduos, menores ou adultos, particularmente indefesos, em razão de idade, deficiência, doença ou outras condições de vulnerabilidade física, psíquica ou social.\n\n5 - Os assistentes sociais que integrem equipas de trabalho, em situações de articulação interdisciplinar e institucional, podem partilhar informação considerada confidencial sobre o destinatário dos serviços."
+  },
+  "225433835": {
+   "fragment_id": "225433756",
+   "type": 11,
+   "heading": "Artigo 110.º — Desenvolvimento das regras deontológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Desenvolvimento das regras deontológicas\n\nAs regras deontológicas dos assistentes sociais são objeto de desenvolvimento em código deontológico a aprovar pelo conselho geral."
+  },
+  "225433836": {
+   "fragment_id": "225433757",
+   "type": 1,
+   "heading": "Capítulo VIII — Balcão único e transparência da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Balcão único e transparência da informação"
+  },
+  "225433837": {
+   "fragment_id": "225433758",
+   "type": 11,
+   "heading": "Artigo 111.º — Documentos e balcão único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Documentos e balcão único\n\n1 - A Ordem dispõe de um sítio eletrónico para prestação de informação, notificação e respostas adequadas no âmbito da Lei n.º 9/2009, de 4 de março, e do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n2 - Todos os pedidos, comunicações e notificações entre a Ordem e profissionais, sociedades de assistentes sociais ou outras organizações associativas de profissionais, com exceção dos relativos a procedimentos disciplinares, são realizados por meios eletrónicos, através do balcão único eletrónico dos serviços, referido nos artigos 5.º e 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, acessível através do sítio eletrónico da Ordem.\n\n3 - Quando, por indisponibilidade das plataformas eletrónicas, não for possível o cumprimento do disposto no número anterior, a transmissão da informação em apreço pode ser feita por entrega nos serviços da Ordem, por remessa pelo correio sob registo, por telecópia ou por correio eletrónico.\n\n4 - A apresentação de documentos em forma simples, nos termos dos números anteriores, dispensa a remessa dos documentos originais, autênticos, autenticados ou certificados, sem prejuízo do disposto na alínea a) do n.º 3 e nos n.os 4 e 5 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho.\n\n5 - É ainda aplicável aos procedimentos referidos no presente artigo o disposto nas alíneas d) e e) do artigo 5.º e no n.º 1 do artigo 7.º do Decreto-Lei n.º 92/2010, de 26 de julho."
+  },
+  "225433838": {
+   "fragment_id": "225433759",
+   "type": 11,
+   "heading": "Artigo 112.º — Informação no sítio eletrónico da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Informação no sítio eletrónico da Ordem\n\nPara além da informação prevista no artigo 23.º da Lei n.º 2/2013, de 10 de janeiro, no n.º 3 do artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, e no n.º 4 do artigo 19.º da Diretiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de junho de 2000, relativa a certos aspetos legais dos serviços da sociedade de informação, em especial do comércio eletrónico, no mercado interno, a Ordem deve disponibilizar ao público em geral, através do seu sítio eletrónico, as seguintes informações:\n\na) Regime de acesso e exercício da profissão;\n\nb) Princípios e regras deontológicos e normas técnicas aplicáveis aos seus membros;\n\nc) Procedimento de apresentação de queixa ou reclamações pelos destinatários, relativamente aos serviços prestados pelos profissionais no âmbito da sua atividade;\n\nd) Ofertas de emprego na Ordem;\n\ne) Registo atualizado dos seus membros, do qual consta:\n\ni) O nome, o domicílio profissional e o número de carteira ou cédula profissionais;\n\nii) A designação do título e das especialidades profissionais;\n\niii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;\n\nf) Registo atualizado dos profissionais em livre prestação de serviços no território nacional, que se consideram inscritos nos termos do n.º 2 do artigo 4.º da Lei n.º 9/2009, de 4 de março, que contemple:\n\ni) O nome e o domicílio profissionais e, caso exista, a designação do título profissional de origem e das respetivas especialidades;\n\nii) A identificação da associação pública profissional no Estado-Membro de origem, na qual o profissional se encontre inscrito;\n\niii) A situação de suspensão ou interdição temporária do exercício da atividade, se for caso disso;\n\niv) A informação relativa às sociedades de profissionais ou outras formas de organização associativa de profissionais para que prestem serviços no Estado-Membro de origem, caso aqui prestem serviços nessa qualidade."
+  },
+  "225433839": {
+   "fragment_id": "225433760",
+   "type": 11,
+   "heading": "Artigo 113.º — Cooperação administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Cooperação administrativa\n\nA Ordem presta e solicita às autoridades administrativas dos outros Estados-Membros da União Europeia e do Espaço Económico Europeu e à Comissão Europeia assistência mútua e tomam as medidas necessárias para cooperar eficazmente, nomeadamente através do Sistema de Informação do Mercado Interno, no âmbito dos procedimentos relativos a prestadores de serviços já estabelecidos noutro Estado-Membro, nos termos do capítulo VI do Decreto-Lei n.º 92/2010, de 26 de julho, do n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, e dos n.os 2 e 3 do artigo 19.º da Diretiva 2000/31/CE do Parlamento Europeu e do Conselho, de 8 de junho de 2000.\n\n112548231"
+  },
+  "225433850": {
+   "fragment_id": "225391813",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei:\n\na) Regula a profissão de assistente social;\n\nb) Cria a Ordem dos Assistentes Sociais, adiante designada por Ordem, e aprova o seu Estatuto, publicado em anexo à presente lei, da qual faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433851": {
+   "fragment_id": "225391815",
+   "type": 11,
+   "heading": "Artigo 3.º — Profissionais abrangidos",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Profissionais abrangidos\n\n1 - A Ordem abrange os profissionais habilitados com a licenciatura em Serviço Social, conferida por instituições de ensino superior portuguesas ou por instituições estrangeiras, desde que reconhecidas nos termos da lei em vigor, e que exercem a profissão de assistente social.\n\n2 - Estão ainda abrangidos os titulares da licenciatura em Política Social criada pela Portaria n.º 541/84 de 31 de julho, ministrada pelo Instituto Superior de Ciências Sociais e Políticas, e a licenciatura em Trabalho Social, criado pelo Despacho n.º 6439/97 (2.ª série), de 22 de agosto, ministrada pela Universidade de Trás-os-Montes e Alto Douro, extintas na sequência do processo de adequação a Bolonha.\n\n3 - Podem ainda requerer a inscrição na Ordem, até 31 de dezembro de 2024, os profissionais que, não sendo titulares das licenciaturas referidas nos números anteriores, a 1 de janeiro de 2019 exerçam há mais de 10 anos a profissão de assistente social, e demonstrem ser detentores de formação adequada ao desempenho das funções da prestação de serviço social.\n\n4 - O procedimento e modo de comprovação do exercício previsto no número anterior consta do regulamento de inscrição na Ordem dos Assistentes Sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434378": {
+   "fragment_id": "225391820",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\nPara efeitos do disposto no artigo 2.º, o Governo regulamenta no prazo de 120 dias a profissão de assistente social, bem como o regime de acesso e exercício da profissão.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225395801": {
+   "fragment_id": "225391822",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 5 de julho de 2019.\n\nO Vice-Presidente da Assembleia da República, em substituição do Presidente da Assembleia da República, Jorge Lacão.\n\nPromulgada em 21 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 26 de agosto de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "225433852": {
+   "fragment_id": "225391825",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Ordem dos Assistentes Sociais, adiante designada por Ordem, é a associação pública profissional representativa dos profissionais de serviço social que, em conformidade com os preceitos deste Estatuto e as demais disposições legais aplicáveis, exercem a profissão de assistente social.\n\n2 - Para efeitos do presente Estatuto, considera-se serviço social a área disciplinar e profissional das ciências sociais e humanas que promove o desenvolvimento, mudança e coesão social para a promoção da pessoa, assente em princípios de justiça social, direitos humanos, responsabilidade coletiva e respeito pela diversidade.\n\n3 - A Ordem é uma pessoa coletiva de direito público, que no exercício dos seus poderes públicos, pratica os atos administrativos necessários ao desempenho das suas funções e aprova os regulamentos previstos na lei e no presente Estatuto.\n\n4 - Os atos e regulamentos da Ordem não estão sujeitos a aprovação governamental, salvo os casos previstos na lei.\n\n5 - A Ordem dispõe de património e finanças próprios, bem como de autonomia orçamental e financeira, nos termos da lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433853": {
+   "fragment_id": "225391828",
+   "type": 11,
+   "heading": "Artigo 4.º — Atribuições",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Atribuições\n\n1 - São atribuições da Ordem:\n\na) A regulação do acesso à profissão pelo reconhecimento de qualificações profissionais e a regulação do acesso e do exercício da profissão em matéria deontológica;\n\nb) A defesa dos interesses gerais dos destinatários dos serviços prestados pelos seus membros, assegurando e fazendo respeitar o direito dos cidadãos ao serviço social;\n\nc) A representação e a defesa dos interesses gerais da profissão, em território nacional, zelando nomeadamente pela função social, dignidade e prestígio da mesma;\n\nd) Conferir, em exclusivo, os títulos profissionais de assistente social e atribuir as cédulas profissionais aos seus membros;\n\ne) A defesa do título profissional, incluindo a denúncia das situações de exercício ilegal da profissão, podendo constituir-se assistente em processo-crime;\n\nf) Conferir o título de especialista aos assistentes sociais que cumpram os requisitos fixados pelos órgãos competentes;\n\ng) A elaboração e a atualização do registo profissional dos seus membros que, sem prejuízo do Regulamento Geral sobre a Proteção de Dados (RGPD), aprovado pelo Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, deve ser público;\n\nh) Assegurar o cumprimento das regras de ética e de deontologia profissional;\n\ni) O exercício do poder disciplinar sobre os seus membros;\n\nj) A atribuição, quando existam, de prémios ou títulos honoríficos;\n\nk) A prestação de serviços aos seus membros, no respeitante ao exercício profissional, designadamente em relação à informação, à formação profissional e à assistência técnica e jurídica;\n\nl) A colaboração com as entidades da Administração Pública na prossecução de fins de interesse público relacionados com a profissão do assistente social;\n\nm) A participação na elaboração da legislação que diga respeito ao acesso e ao exercício da profissão, mediante pedido dos órgãos com competência legislativa;\n\nn) A participação nos processos oficiais de acreditação e na avaliação dos cursos que dão acesso à profissão;\n\no) O reconhecimento de qualificações profissionais obtidas fora de Portugal, nos termos da lei, do direito da União Europeia ou de convenção internacional, cujos processos, sem prejuízo do RGPD, devem ser públicos;\n\np) A participação na cooperação administrativa no âmbito dos procedimentos relativos a prestadores e profissionais provenientes de outros Estados-Membros da União Europeia ou do Espaço Económico Europeu, nos termos do disposto nos artigos 26.º a 29.º do Decreto-Lei n.º 92/2010, de 26 de julho, que estabelece os princípios e as regras necessárias para simplificar o livre acesso e exercício das atividades de serviços, e no n.º 2 do artigo 51.º da Lei n.º 9/2009, de 4 de março, nomeadamente através do Sistema de Informação do Mercado Interno;\n\nq - A emissão de pareceres, em matéria científica e técnica, que lhes sejam solicitados por qualquer entidade, nacional ou estrangeira, pública ou privada, quando exista interesse público ou para a profissão;\n\nr) A promoção do desenvolvimento da área científica do serviço social e das ciências sociais, e do respetivo ensino;\n\ns) A garantia de que o exercício da profissão observa o princípio da livre concorrência, bem como as regras de defesa da concorrência e de proteção contra a concorrência desleal;\n\nt) Quaisquer outras que lhe sejam cometidas por lei.\n\n2 - A Ordem está impedida de exercer ou de participar em atividades de natureza sindical ou que se relacionem com a regulação das relações económicas ou profissionais dos seus membros.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433854": {
+   "fragment_id": "225391834",
+   "type": 11,
+   "heading": "Artigo 8.º — Órgãos nacionais",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Órgãos nacionais\n\nSão órgãos nacionais da Ordem:\n\na) O conselho geral;\n\nb) O bastonário;\n\nc) A direção;\n\nd) O conselho jurisdicional;\n\ne) O conselho fiscal.\n\nf) O conselho de supervisão;\n\ng) O provedor dos destinatários dos serviços;\n\nh) Os colégios de especialidade, quando existam.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433855": {
+   "fragment_id": "225391836",
+   "type": 11,
+   "heading": "Artigo 10.º — Colégios de especialidade profissional",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 10.º — Colégios de especialidade profissional\n\nA criação de especialidades e a composição, competências e modo de funcionamento dos colégios de especialidade são definidos em regulamento aprovado pelo conselho geral, mediante proposta da direção e parecer vinculativo do conselho de supervisão, o qual apenas produz efeitos após homologação pelo membro do Governo responsável pela área da segurança social.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433856": {
+   "fragment_id": "225391837",
+   "type": 11,
+   "heading": "Artigo 11.º — Remuneração dos cargos",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Remuneração dos cargos\n\n1 - Sem prejuízo do disposto no número seguinte, bem como do pagamento pela Ordem de quaisquer despesas decorrentes de representação ou deslocação ao serviço da Ordem, o exercício dos cargos dos órgãos da Ordem não é remunerado.\n\n2 - A remuneração do provedor dos destinatários dos serviços é determinada por regulamento a aprovar pelo conselho de supervisão, mediante proposta da direção aprovada pelo conselho geral.\n\n3 - O exercício de funções nos demais órgãos da Ordem pode ser remunerado em função do volume de trabalho, nos termos do regulamento previsto no número anterior.\n\n4 - A existência de remuneração, nos termos do número anterior, não prejudica o direito a ajudas de custo.\n\n5 - A ausência de remuneração, nos termos do n.º 3, não prejudica o direito a ajudas de custo ou senhas de presença.\n\n6 - A remuneração dos cargos do conselho de supervisão, quando aplicável, é aprovada pelo conselho geral, sob proposta da direção.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433857": {
+   "fragment_id": "225391839",
+   "type": 11,
+   "heading": "Artigo 13.º — Incompatibilidades",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 13.º — Incompatibilidades\n\n1 - O exercício das funções executivas, disciplinares, de fiscalização e de supervisão em órgãos da Ordem é incompatível entre si.\n\n2 - O exercício de cargos nos órgãos da Ordem é incompatível com:\n\na) Cargos de direção em outras entidades que igualmente promovam a defesa da profissão;\n\nb) Membros de órgãos de soberania ou de órgãos de governo próprio das regiões autónomas, bem como de órgãos executivos do poder local;\n\nc) Cargos dirigentes na Administração Pública;\n\nd) O exercício de quaisquer funções dirigentes superiores em estabelecimentos de ensino superior público e privado de serviço social ou área equiparada;\n\ne) Outros cargos ou atividades com os quais se verifique um manifesto conflito de interesses, declarado pelo conselho jurisdicional, a pedido da direção.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433858": {
+   "fragment_id": "225391844",
+   "type": 11,
+   "heading": "Artigo 17.º — Competências do conselho geral",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 17.º — Competências do conselho geral\n\nCompete ao conselho geral:\n\na) Eleger e destituir, nos termos do presente Estatuto, a sua mesa, bem como elaborar o seu regimento;\n\nb) Pronunciar-se sobre a nomeação da direção, sob proposta do bastonário, e eventualmente votar a sua rejeição;\n\nc) Eleger o conselho fiscal;\n\nd) Aprovar o orçamento e o plano de atividades, bem como o relatório e as contas, sob proposta da direção;\n\ne) Aprovar projeto de alteração do Estatuto, por maioria absoluta;\n\nf) Aprovar os regulamentos previstos na lei e no presente Estatuto, que não sejam da competência de outros órgãos, bem como os demais regulamentos necessários para a prossecução das atribuições da Ordem;\n\ng) Aprovar os regulamentos de quotas e taxas, sob proposta da direção;\n\nh) Deliberar sobre as propostas de criação de colégios de especialidade, bem como de títulos de especialidade;\n\ni) Ratificar a celebração de protocolos com associações congéneres, nacionais ou estrangeiras, sob proposta da direção;\n\nj) Aprovar a convocação de referendos, sob proposta do bastonário, por maioria absoluta.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433859": {
+   "fragment_id": "225391851",
+   "type": 11,
+   "heading": "Artigo 24.º — Competências e obrigações",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 24.º — Competências e obrigações\n\n1 - Compete ao bastonário:\n\na) Representar a Ordem, em juízo e fora dele, designadamente perante os órgãos de soberania e demais órgãos do poder, bem como das organizações europeias e internacionais;\n\nb) Presidir à direção e designar os respetivos vogais;\n\nc) Dirigir as reuniões da direção, com voto de qualidade, e participar sem voto, querendo, nas reuniões de todos os órgãos colegiais da Ordem, salvo o conselho jurisdicional;\n\nd) Executar e fazer executar as deliberações da direção e dos demais órgãos nacionais;\n\ne) Exercer as competências da direção em casos de reconhecida urgência ou nas situações em que tal competência lhe seja delegada;\n\nf) Assegurar o normal funcionamento dos serviços da Ordem, no respeito da lei, do Estatuto e dos respetivos regulamentos;\n\ng) Solicitar a qualquer órgão da Ordem a elaboração de pareceres relativos a matérias da sua competência.\n\nh) Designar o provedor dos destinatários dos serviços, sob proposta do conselho de supervisão.\n\n2 - O bastonário pode delegar poderes em qualquer membro da direção da Ordem.\n\n3 - O bastonário está sujeito ao cumprimento das obrigações declarativas previstas na Lei n.º 52/2019, de 31 de julho, que aprova o regime do exercício de funções por titulares de cargos políticos e altos cargos públicos.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433860": {
+   "fragment_id": "225391853",
+   "type": 11,
+   "heading": "Artigo 26.º — Competências da direção",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 26.º — Competências da direção\n\nCompete à direção:\n\na) Dirigir a atividade nacional da Ordem;\n\nb) Aprovar a inscrição de novos membros da Ordem ou mandar suspendê-la ou cancelá-la, nos termos da lei;\n\nc) Elaborar, manter atualizado e publicitar o registo profissional de todos os membros da Ordem;\n\nd) Dar execução às deliberações do conselho geral, do conselho jurisdicional e do conselho de supervisão;\n\ne) Aprovar diretrizes e quaisquer normas de gestão relativas aos serviços e instalações da Ordem;\n\nf) Emitir, diretamente ou através de comissões constituídas para o efeito, pareceres e informações a entidades públicas e privadas, no âmbito das atribuições da Ordem;\n\ng) Cobrar as receitas e efetuar as despesas previstas no orçamento;\n\nh) Elaborar e apresentar ao conselho geral o plano e o orçamento, bem como o relatório de atividades e as contas anuais;\n\ni) Promover a instalação das direções regionais e coordenar as suas atividades;\n\nj) Propor a criação do quadro de especialidades profissionais de assistente social;\n\nk) Deliberar sobre alienação ou oneração de bens da Ordem e a contração de empréstimos, dentro dos limites de endividamento aprovados no orçamento;\n\nl) Aceitar os legados ou doações feitas à Ordem;\n\nm) Marcar, nos termos do regulamento eleitoral, a data das eleições para os órgãos da Ordem diretamente eleitos;\n\nn) Dirigir os serviços da Ordem, nomear os dirigentes dos serviços, aprovar a contratação de pessoal e a aquisição ou locação de bens e serviços, bem como praticar os demais atos e realizar os demais contratos necessários à gestão da Ordem;\n\no) Aprovar o estabelecimento de formas de cooperação com outras entidades, públicas ou privadas, que contribuam para a prossecução das atribuições da Ordem;\n\np) Aprovar os subsídios de deslocação para os membros dos órgãos da Ordem, para efeito das reuniões ou de outras atividades da Ordem;\n\nq) Aprovar o seu regimento.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433861": {
+   "fragment_id": "225391855",
+   "type": 11,
+   "heading": "Artigo 28.º — Conselho jurisdicional",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 28.º — Conselho jurisdicional\n\n1 - O conselho jurisdicional é composto por cinco membros e assessorado por um consultor jurídico, sendo um dos seus membros presidente e os restantes vogais.\n\n2 - Os membros do conselho jurisdicional são eleitos em lista por sufrágio universal, direto, secreto e periódico, de entre membros da Ordem com, pelo menos, 10 anos de exercício profissional.\n\n3 - O conselho jurisdicional é um órgão independente, não podendo os seus membros ser destituídos por motivo das suas decisões, sem prejuízo do respetivo controlo jurisdicional.\n\n4 - O conselho jurisdicional deve integrar, no mínimo, duas personalidades de reconhecido mérito com conhecimentos e experiência relevantes para a respetiva atividade, que não sejam membros da Ordem.\n\n5 - Os membros referidos no número anterior são eleitos através de processo eleitoral autónomo, nos termos do n.º 2.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433862": {
+   "fragment_id": "225391856",
+   "type": 11,
+   "heading": "Artigo 29.º — Competências do conselho jurisdicional",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 29.º — Competências do conselho jurisdicional\n\nCompete ao conselho jurisdicional:\n\na) Zelar pelo cumprimento da lei, do Estatuto e dos regulamentos internos, quer por parte dos órgãos da Ordem, quer por parte de todos os seus membros;\n\nb) Instruir e julgar os processos disciplinares contra os membros da Ordem;\n\nc) Decidir, a requerimento dos interessados, os recursos sobre a validade das decisões relativas a perda ou suspensão do mandato dos membros dos órgãos da Ordem;\n\nd) Decidir os recursos sobre a validade das decisões dos demais órgãos da Ordem que afetem diretamente direitos dos seus membros, designadamente em matéria de inscrição, a requerimento dos interessados;\n\ne) Decidir os recursos das decisões em matéria eleitoral, nos termos do n.º 3 do artigo 56.º;\n\nf) Verificar previamente a conformidade legal e regulamentar dos referendos convocados pelo conselho geral;\n\ng) Emitir parecer sobre as propostas de alteração ao presente Estatuto, do regulamento disciplinar e dos regulamentos relativos ao acesso e ao exercício da profissão;\n\nh) Aprovar o seu regimento.\n\ni) Elaborar um relatório anual de atividades, a submeter ao conselho de supervisão.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434383": {
+   "fragment_id": "225433774",
+   "type": 11,
+   "heading": "Artigo 32.º-A — Conselho de supervisão",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 32.º-A — Conselho de supervisão\n\n1 - O conselho de supervisão é independente no exercício das suas funções, zela pela legalidade da atividade exercida pelos órgãos da Ordem e exerce poderes de controlo, nomeadamente em matéria de regulação do exercício da profissão.\n\n2 - Sem prejuízo de outras competências estabelecidas por lei, compete ao conselho de supervisão:\n\na) Acompanhar regularmente a atividade do conselho jurisdicional, designadamente através da apreciação anual do respetivo relatório de atividades e da emissão de recomendações genéricas sobre os seus procedimentos;\n\nb) Acompanhar regularmente a atividade formativa da Ordem, em especial a realização dos estágios de acesso à profissão, e a atividade de reconhecimento de competências obtidas no estrangeiro, designadamente através da apreciação anual do respetivo relatório de atividades e da emissão de recomendações genéricas sobre os seus procedimentos;\n\nc) Supervisionar a legalidade e conformidade estatutária e regulamentar da atividade exercida pelos órgãos da Ordem;\n\nd) Propor a designação do provedor dos destinatários dos serviços, nos termos do n.º 2 do artigo 32.º-B;\n\ne) Destituir o provedor dos destinatários dos serviços por falta grave no exercício das suas funções, ouvida a direção;\n\nf) Determinar a remuneração dos membros dos órgãos da Ordem, por regulamento, sob proposta do conselho geral;\n\ng) Avaliar e pronunciar-se sobre o exercício de funções nos órgãos da Ordem com a titularidade de órgãos sociais de associações de representação de interesses suscetíveis de gerar conflitos de interesses.\n\n3 - Sem prejuízo do disposto no número seguinte, o conselho de supervisão é composto por cinco membros com direito de voto:\n\na) Dois membros representantes da profissão, inscritos na Ordem;\n\nb) Dois membros oriundos dos estabelecimentos de ensino superior que habilitem academicamente o acesso à profissão, não inscritos na Ordem;\n\nc) Um membro cooptado pelos membros referidos nas alíneas anteriores, por maioria absoluta, que seja uma personalidade de reconhecido mérito, com conhecimentos e experiência relevantes para a atividade da Ordem, não inscritos na Ordem.\n\n4 - Os membros previstos nas alíneas a) e b) do número anterior são eleitos por sufrágio universal, direto, secreto e periódico, pelos inscritos na Ordem, e por método de representação proporcional ao número de votos obtido pelas listas candidatas.\n\n5 - O provedor dos destinatários dos serviços é, por inerência, membro do conselho de supervisão, sem direito de voto.\n\n6 - Os membros do conselho de supervisão elegem o presidente de entre os membros não inscritos na Ordem.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434384": {
+   "fragment_id": "225434975",
+   "type": 11,
+   "heading": "Artigo 32.º-B — Provedor dos destinatários dos serviços",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 32.º-B — Provedor dos destinatários dos serviços\n\n1 - O provedor dos destinatários dos serviços é uma personalidade independente, não inscrita na Ordem, que tem a função de defender os interesses dos destinatários dos serviços dos membros da Ordem, sem prejuízo do Estatuto do Provedor de Justiça.\n\n2 - O provedor dos destinatários dos serviços é designado pelo bastonário, sob proposta do conselho de supervisão, e não pode ser destituído, salvo por falta grave no exercício das suas funções.\n\n3 - Sem prejuízo das demais competências previstas na lei ou nos estatutos, compete ao provedor analisar as queixas apresentadas pelos destinatários dos serviços, e emitir recomendações para a sua resolução e para o aperfeiçoamento do desempenho da Ordem.\n\n4 - As funções de provedor são remuneradas nos termos regulados por regulamento do conselho de supervisão.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434379": {
+   "fragment_id": "225391866",
+   "type": 11,
+   "heading": "Artigo 37.º — Especialidades",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 37.º — Especialidades\n\n1 - Podem ser criados colégios de especialidade sempre que determinada matéria seja considerada como tendo caraterísticas técnicas e científicas particulares, cuja importância implique uma especialização de conhecimento ou prática profissional.\n\n2 - Cada colégio de especialidade é constituído por todos os membros titulares da especialidade correspondente.\n\n3 - A obtenção do título de especialista rege-se por regulamento elaborado pela direção e aprovado pelo conselho geral.\n\n4 - O regulamento referido no número anterior só produz efeitos após homologação do membro do governo responsável pela área da segurança social.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434380": {
+   "fragment_id": "225391867",
+   "type": 11,
+   "heading": "Artigo 38.º — Comissão instaladora",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 38.º — Comissão instaladora\n\n1 - Sempre que se forme um colégio de especialidade profissional, a direção nomeia uma comissão instaladora composta por um presidente, um secretário e três vogais, com prazo para elaborar uma proposta das condições de acesso e um regulamento interno e eleitoral a submeter à aprovação do conselho geral.\n\n2 - Aprovadas as condições de acesso e o regulamento interno e eleitoral, a comissão instaladora procede à inscrição dos membros que satisfaçam as condições estipuladas para atribuição do título de especialista e, de seguida, dá início ao processo eleitoral.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434381": {
+   "fragment_id": "225391868",
+   "type": 11,
+   "heading": "Artigo 39.º — Conselho de especialidade",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 39.º — Conselho de especialidade\n\n1 - Cada colégio de especialidade profissional é dirigido por um conselho de especialidade, composto por um presidente, um secretário e três vogais eleitos por quatro anos pelos membros da respetiva especialidade, de acordo com regulamento próprio aprovado pela direção.\n\n2 - O presidente tem, pelo menos, cinco anos de exercício da especialidade.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434382": {
+   "fragment_id": "225391869",
+   "type": 11,
+   "heading": "Artigo 40.º — Competências do conselho de especialidade",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 40.º — Competências do conselho de especialidade\n\nCompete ao conselho de especialidade:\n\na) Propor à direção os critérios para atribuição do título de assistente social especialista na área respetiva;\n\nb) Atribuir o título de assistente social especialista;\n\nc) Elaborar e manter atualizado o quadro geral dos assistentes sociais especialistas;\n\nd) Promover o estreitamento das relações científicas e profissionais no âmbito nacional e internacional em cada especialidade;\n\ne) Zelar pela valorização científica, técnica e profissional dos seus membros.\n\n> Revogado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433863": {
+   "fragment_id": "225433679",
+   "type": 11,
+   "heading": "Artigo 48.º — Candidaturas",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 48.º — Candidaturas\n\n1 - As candidaturas para os órgãos nacionais e regionais são apresentadas perante o respetivo presidente da comissão eleitoral.\n\n2 - As listas de candidatos aos órgãos eletivos da Ordem devem promover a igualdade entre homens e mulheres, assegurando que a proporção de pessoas de cada sexo não seja inferior a 40 %, salvo se no universo eleitoral existir uma percentagem de pessoas do sexo menos representado inferior a 20 %.\n\n3 - Cada lista candidata é subscrita por um mínimo de 50 eleitores, no caso dos órgãos nacionais, e de 30 eleitores, no caso dos órgãos regionais, devendo as listas incluir os nomes de todos os candidatos efetivos e suplentes a cada um dos órgãos, juntamente com a declaração de aceitação.\n\n4 - As candidaturas ao cargo de bastonário e ao conselho jurisdicional devem ser subscritas por um mínimo de 100 eleitores.\n\n5 - As candidaturas têm de ser individualizadas para cada órgão.\n\n6 - As candidaturas são apresentadas com a antecedência mínima de 60 dias em relação à data marcada para a as eleições.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433864": {
+   "fragment_id": "225433688",
+   "type": 11,
+   "heading": "Artigo 57.º — Referendos",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 57.º — Referendos\n\n1 - Por deliberação do conselho geral, tomada por maioria absoluta, sob proposta do bastonário, podem ser submetidas a referendo, consultivo ou vinculativo, dos membros da Ordem quaisquer questões da competência daquele órgão, do bastonário ou da direção, ressalvadas as questões financeiras e disciplinares.\n\n2 - Está sujeita a referendo obrigatório a aprovação de proposta de dissolução da Ordem.\n\n3 - A realização de qualquer referendo é precedida obrigatoriamente pela verificação da sua conformidade legal e regulamentar pelo conselho jurisdicional, sob pena de nulidade e responsabilidade disciplinar de quem tenha permitido a sua realização.\n\n4 - A organização dos referendos obedece ao regime previsto para as eleições, com as necessárias adaptações, nos termos do competente regulamento, com as exceções previstas no presente artigo.\n\n5 - O referendo é vinculativo se nele participar mais de metade dos membros da Ordem, ou se a proposta submetida a referendo obtiver mais de 66 % dos votos e a participação for superior a 40 % dos membros.\n\n6 - Nos casos omissos, são aplicáveis os princípios gerais do regime dos referendos políticos e legislativos, estabelecidos na Constituição e na lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433865": {
+   "fragment_id": "225433697",
+   "type": 11,
+   "heading": "Artigo 62.º — Obrigatoriedade",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 62.º — Obrigatoriedade\n\n1 - A atribuição do título profissional, o seu uso e o exercício da profissão de assistente social, em qualquer setor de atividade, individualmente ou em sociedade profissional, dependem da inscrição na Ordem como membro efetivo, sem prejuízo do disposto no n.º 1 do artigo 67.º\n\n2 - Para efeitos do disposto no número anterior, considera-se qualquer setor de atividade o setor público, privado, cooperativo, social ou outro, independentemente do exercício por conta própria ou por conta de outrem.\n\n3 - A prestação de serviços de serviço social por empresas empregadoras ou subcontratantes de assistentes sociais não depende de registo na Ordem.\n\n4 - O uso ilegal do título profissional ou o exercício da profissão sem título são punidos nos termos da lei penal.\n\n5 - (Revogado.)\n\n6 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433866": {
+   "fragment_id": "225433698",
+   "type": 11,
+   "heading": "Artigo 63.º — Inscrição",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 63.º — Inscrição\n\n1 - Podem inscrever-se na Ordem, para acesso à profissão de assistente social:\n\na) Os titulares do grau académico superior em serviço social, conferido por instituição de ensino superior portuguesa;\n\nb) Os titulares de grau académico superior estrangeiro em serviço social, a quem seja conferida equivalência ao grau a que se refere a alínea anterior;\n\nc) Os profissionais nacionais de Estados-Membros da União Europeia ou do Espaço Económico Europeu cujas qualificações tenham sido obtidas fora de Portugal, nos termos do artigo 67.º\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - A inscrição na Ordem para o exercício da profissão de assistente social só pode ser recusada:\n\na) Por falta de formação académica superior nos termos das alíneas a) a c) do n.º 1;\n\nb) Quando ao interessado tiver sido aplicada a pena disciplinar de expulsão e ainda não tiverem decorrido cinco anos contados do trânsito em julgado da decisão.\n\n5 - A inscrição como membro da Ordem pode ocorrer a todo o tempo.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434377": {
+   "fragment_id": "225433699",
+   "type": 11,
+   "heading": "Artigo 64.º — Cédula profissional",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 64.º — Cédula profissional\n\n1 - Com a inscrição é emitida cédula profissional, assinada pelo bastonário.\n\n2 - A cédula profissional segue o modelo a aprovar pelo conselho geral.\n\n3 - [Revogado.]\n\n4 - A emissão da cédula profissional depende da comprovação da subscrição de seguro de responsabilidade profissional.\n\n5 - Para efeitos do disposto no n.º 4, é observado o disposto no artigo 38.º da Lei n.º 2/2013, de 10 de janeiro.\n\n> Alterado pelo/a Artigo 7.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434385": {
+   "fragment_id": "225434976",
+   "type": 11,
+   "heading": "Artigo 64.º-A — Atos da profissão de assistente social",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 64.º-A — Atos da profissão de assistente social\n\n1 - No exercício da sua profissão, o assistente social atua em conformidade com os conteúdos funcionais inerentes, cabendo-lhe, designadamente, contribuir para a resolução de situações no contexto das relações sociais e humanas, com vista à capacitação e desenvolvimento das pessoas e comunidades.\n\n2 - O assistente social exerce a sua profissão com plena responsabilidade profissional e autonomia técnico-científica, adotando uma conduta responsável e ética, salvaguardando o princípio da dignidade humana, do respeito pela liberdade individual e exercício da cidadania, da solidariedade, da equidade e da justiça social.\n\n3 - Os assistentes sociais têm competência para definir, executar e supervisionar planos de intervenção no âmbito do serviço social, nas diferentes áreas de intervenção com pessoas grupos e comunidades, incluindo o diagnóstico, o plano de intervenção e a avaliação, no respeito pelos valores deontológicos da profissão de assistente social.\n\n4 - Os assistentes sociais têm ainda competência para exercer atividades no âmbito do ensino, da investigação, formação, consultoria, coordenação e direção no âmbito do serviço social e para praticar atos, de acordo com as respetivas qualificações e competências profissionais, em colaboração com outros profissionais, destinados a atingir objetivos comuns de desenvolvimento humano e bem-estar social, designadamente:\n\na) Conceção, planificação, implementação e avaliação de projetos sociais;\n\nb) Administração e gestão social, direção técnica e coordenação de equipamentos e serviços sociais, bem como de equipas afetas a programas, projetos e iniciativas de desenvolvimento social;\n\nc) Assessoria a órgãos de administração e gestão de entidades públicas, privadas e da economia social, no âmbito da área do serviço social;\n\nd) Aconselhamento, suporte social, orientação e prestação de informação sobre recursos sociais e comunitários, no âmbito da área do serviço social;\n\ne) Consultoria a associações e movimentos de cidadãos, no âmbito das políticas sociais e no exercício, promoção e defesa dos direitos de cidadania;\n\nf) Conceção, implementação e avaliação de programas e políticas sociais e outras políticas públicas relevantes para as áreas de intervenção;\n\ng) Investigação social, incluindo atividades de investigação aplicada e avaliativa para a melhoria do acesso, qualidade e eficácia dos serviços, projetos e políticas sociais.\n\n5 - Os atos referidos no número anterior não são atos expressamente reservados pela lei aos assistentes sociais, para efeitos do artigo 30.º da Lei n.º 2/2013, de 10 de janeiro.\n\n> Aditado pelo/a Artigo 4.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434386": {
+   "fragment_id": "225433700",
+   "type": 11,
+   "heading": "Artigo 65.º — Suspensão e cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Suspensão e cancelamento\n\n1 - São suspensos da Ordem os membros que:\n\na) Por sua iniciativa requeiram a suspensão;\n\nb) Se encontrem em situação de incompatibilidade com o exercício da profissão;\n\nc) Sejam punidos com a sanção disciplinar de suspensão ou sujeitos a suspensão preventiva em processo disciplinar.\n\n2 - É cancelada a inscrição na Ordem aos membros que:\n\na) Deixem de exercer, voluntariamente, a atividade profissional e que assim o manifestem junto da direção;\n\nb) Sejam sujeitos à medida disciplinar de expulsão ou com sanção penal, ou outra, de interdição profissional, nos termos da lei."
+  },
+  "225433867": {
+   "fragment_id": "225433702",
+   "type": 11,
+   "heading": "Artigo 66.º — Direito de estabelecimento",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 66.º — Direito de estabelecimento\n\n1 - O reconhecimento das qualificações profissionais de nacional de Estado-Membro da União Europeia ou do Espaço Económico Europeu obtidas fora de Portugal, para a sua inscrição como membro da Ordem, é regulado pela Lei n.º 9/2009, de 4 de março.\n\n2 - O profissional que pretenda inscrever-se na Ordem nos termos do número anterior e que preste serviços, de forma subordinada ou autónoma ou na qualidade de sócio ou que atue como administrador ou gerente no Estado-Membro de origem, no âmbito de organização associativa de profissionais, observado o disposto no n.º 4 do artigo 37.º da Lei n.º 2/2013, de 10 de janeiro, deve identificar a organização em causa no pedido apresentado nos termos do artigo 47.º da Lei n.º 9/2009, de 4 de março.\n\n3 - Caso o facto a comunicar nos termos do número anterior ocorra após a apresentação do pedido de reconhecimento de qualificações, deve a organização associativa em causa ser identificada perante a Ordem, no prazo de 60 dias.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434376": {
+   "fragment_id": "225433704",
+   "type": 8,
+   "heading": "Secção III — Sociedades de profissionais e sociedades multidisciplinares",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "#### Secção III — Sociedades de profissionais e sociedades multidisciplinares\n\n> Alterado pelo/a Artigo 5.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433868": {
+   "fragment_id": "225433705",
+   "type": 11,
+   "heading": "Artigo 68.º — Sociedades de profissionais e multidisciplinares",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 68.º — Sociedades de profissionais e multidisciplinares\n\n1 - Os assistentes sociais podem constituir ou ingressar como sócios em sociedades profissionais de assistentes sociais ou em sociedades multidisciplinares, nos termos de regime próprio.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - As sociedades profissionais de assistentes sociais e as sociedades multidisciplinares gozam dos direitos e estão sujeitas aos deveres aplicáveis aos profissionais membros da Ordem que sejam compatíveis com a sua natureza, nomeadamente os princípios e regras deontológicos constantes do presente Estatuto.\n\n6 - (Revogado.)\n\n7 - Os membros do órgão executivo das sociedades profissionais de assistentes sociais e das sociedades multidisciplinares devem respeitar os princípios e regras deontológicos, a autonomia técnica e as garantias conferidas aos assistentes sociais pela lei e pelo presente Estatuto.\n\n8 - As sociedades profissionais de assistentes sociais podem exercer, a título secundário, qualquer atividade que não seja incompatível com a de assistente social e em relação à qual não se verifique impedimento, nos termos do presente Estatuto, não estando o exercício daquela sujeito ao controlo da Ordem.\n\n9 - (Revogado.)\n\n10 - As sociedades profissionais de assistentes sociais e as sociedades multidisciplinares devem subscrever um seguro de responsabilidade civil profissional, cujas condições mínimas são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433869": {
+   "fragment_id": "225433707",
+   "type": 11,
+   "heading": "Artigo 69.º — Organizações associativas de profissionais de outros Estados-Membros",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 69.º — Organizações associativas de profissionais de outros Estados-Membros\n\n1 - As representações permanentes em Portugal de organizações associativas de profissionais equiparados por lei a assistentes sociais constituídas noutro Estado-Membro da União Europeia ou do Espaço Económico Europeu, cujo capital com direito de voto caiba maioritariamente aos profissionais em causa e ou a outras organizações associativas cujo capital e direitos de voto caibam maioritariamente aos profissionais em causa, são equiparadas a sociedades de assistentes sociais para efeitos do presente Estatuto.\n\n2 - Os requisitos de capital, referidos no número anterior não são aplicáveis caso a organização associativa não disponha de capital social, aplicando-se, em seu lugar, o requisito de atribuição da maioria de direitos de voto aos profissionais ali referidos.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433870": {
+   "fragment_id": "225433708",
+   "type": 11,
+   "heading": "Artigo 70.º — Outros prestadores",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 70.º — Outros prestadores\n\nAs pessoas coletivas que prestam serviços de serviço social não estão sujeitas a inscrição na Ordem, sem prejuízo da obrigatoriedade de inscrição dos profissionais que nelas exercem a respetiva atividade, nos termos do presente Estatuto.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433871": {
+   "fragment_id": "225433711",
+   "type": 11,
+   "heading": "Artigo 72.º — Deveres",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 72.º — Deveres\n\n1- Constituem deveres dos membros efetivos da Ordem:\n\na) Participar na vida institucional da Ordem;\n\nb) Pagar as quotas e taxas devidas e os demais encargos regulamentares;\n\nc) Cumprir e fazer cumprir as leis, os regulamentos e as deliberações dos órgãos da Ordem;\n\nd) Respeitar escrupulosamente os princípios definidos no código deontológico;\n\ne) Prestar a comissões e grupos de trabalho a colaboração que lhes seja solicitada;\n\nf) Desempenhar os cargos para que sejam eleitos e as funções para as quais sejam designados com o seu consentimento ou que constituam uma obrigação nos termos do presente Estatuto;\n\ng) Contribuir para a boa reputação da Ordem e procurar alargar o seu âmbito de influência;\n\nh) Agir solidariamente na defesa dos interesses coletivos dos membros da Ordem;\n\ni) Manter a Ordem informada quanto a todos os dados pessoais e profissionais constantes do registo profissional, nomeadamente quanto ao domicílio profissional e quanto a impedimentos ao exercício profissional;\n\nj) Contratar seguro de responsabilidade profissional.\n\n2 - As condições mínimas do seguro são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da segurança social.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433872": {
+   "fragment_id": "225433714",
+   "type": 11,
+   "heading": "Artigo 73.º — Infração disciplinar",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 73.º — Infração disciplinar\n\n1 - Considera-se infração disciplinar toda a ação ou omissão que consista em violação dos deveres consignados na lei, no presente Estatuto ou nos respetivos regulamentos.\n\n2 - A infração disciplinar é:\n\na) Leve, quando o arguido viole de forma pouco intensa os deveres profissionais a que se encontra adstrito no exercício da profissão;\n\nb) Grave, quando o arguido viole de forma séria os deveres profissionais a que se encontra adstrito no exercício da profissão;\n\nc) Muito grave, quando o arguido viole os deveres profissionais a que está adstrito no exercício da profissão, afetando com a sua conduta a dignidade e o prestígio profissional, de tal forma que fique definitivamente inviabilizado o exercício da profissão.\n\n3 - As infrações disciplinares previstas no presente Estatuto e nas demais disposições legais e regulamentares aplicáveis são puníveis a título de dolo ou negligência.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433873": {
+   "fragment_id": "225433717",
+   "type": 11,
+   "heading": "Artigo 76.º — Responsabilidade disciplinar das sociedades de profissionais, das sociedades multidisciplinares e dos profissionais em livre prestação de serviços",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 76.º — Responsabilidade disciplinar das sociedades de profissionais, das sociedades multidisciplinares e dos profissionais em livre prestação de serviços\n\n1 - As sociedades de profissionais de assistentes sociais e as sociedades multidisciplinares, bem como os respetivos sócios, estão sujeitas à jurisdição e ao regime disciplinares da Ordem, nos termos do presente Estatuto e da lei.\n\n2 - Os profissionais que prestem serviços em território nacional em regime de livre prestação são equiparados aos membros da Ordem para efeitos disciplinares, nos termos do n.º 2 do artigo 4.º da Lei n.º 9/2009, de 4 de março, com as especificidades constantes do n.º 8 do artigo 84.º e do regulamento disciplinar.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225433874": {
+   "fragment_id": "225433721",
+   "type": 11,
+   "heading": "Artigo 79.º — Participação",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 79.º — Participação\n\n1 - Têm legitimidade para participar à Ordem factos suscetíveis de constituir infração disciplinar:\n\na) Qualquer pessoa direta ou indiretamente afetada pelos factos participados;\n\nb) A direção;\n\nc) O provedor dos destinatários dos serviços;\n\nd) Oficiosamente, o próprio presidente do conselho jurisdicional;\n\ne) O conselho de supervisão;\n\nf) O Ministério Público, nos termos do n.º 3.\n\n2 - Os tribunais e quaisquer outras autoridades devem dar conhecimento à Ordem da prática, por parte dos membros desta, de factos suscetíveis de constituírem infração disciplinar.\n\n3 - O Ministério Público e os órgãos de polícia criminal remetem à Ordem certidão das denúncias, participações ou queixas apresentadas contra membros da Ordem e que possam consubstanciar factos suscetíveis de constituir infração disciplinar.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  },
+  "225434375": {
+   "fragment_id": "225433747",
+   "type": 11,
+   "heading": "Artigo 102.º — Reabilitação profissional",
+   "in_force_from": "2024-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+   ],
+   "markdown": "###### Artigo 102.º — Reabilitação profissional\n\n1 - O membro da Ordem a quem tenha sido aplicada a sanção de expulsão pode ser sujeito a processo de reabilitação, mediante requerimento, desde que se verifiquem cumulativamente os seguintes requisitos:\n\na) Tenham decorrido mais de cinco anos sobre o trânsito em julgado da decisão que aplicou a sanção;\n\nb) O reabilitando tenha revelado boa conduta.\n\n2 - Deliberada a reabilitação, o membro da Ordem reabilitado recupera plenamente os seus direitos e é dada a publicidade devida, nos termos do artigo 92.º, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 66/2023 - Diário da República n.º 236/2023, Série I de 2023-12-07](https://diariodarepublica.pt/dr/detalhe/lei/66-2023-225397112), em vigor a partir de 2024-03-01"
+  }
+ }
+}

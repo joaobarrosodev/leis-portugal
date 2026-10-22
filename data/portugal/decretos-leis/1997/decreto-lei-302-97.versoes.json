@@ -1,0 +1,64 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:675649:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-944179528",
+ "dre_path": "/dr/detalhe/decreto-lei/302-1997-675649",
+ "source_lastmod": "2025-11-04",
+ "versions": [
+  {
+   "date": "1997-11-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944178987"
+   ]
+  },
+  {
+   "date": "1997-11-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:305443:por",
+     "title": "Declaração de Rectificação n.º 21-E/97",
+     "published": "1997-11-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/21-e-1997-305443"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma"
+   ],
+   "fragments": [
+    "944178987",
+    "944178983",
+    "944178982"
+   ]
+  }
+ ],
+ "fragments": {
+  "944178987": {
+   "fragment_id": "944179529",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1997-11-29",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 302/97\n\nde 4 de Novembro\n\nO Decreto-Lei n.º 93/97, de 23 de Abril, que aprovou a Lei Orgânica da Escola de Pesca e da Marinha de Comércio (EPMC), prevê no artigo 21.º, n.º 6, que os cursos ministrados na EPMC, bem como os respectivos planos curriculares e conteúdos programáticos, são aprovados por portaria conjunta dos Ministros da Educação, para a Qualificação e o Emprego e da Agricultura, do Desenvolvimento Rural e das Pescas, mediante proposta fundamentada do director da EPMC, ouvido o conselho pedagógico.\n\nOra, considerando que a Direcção-Geral de Portos, Navegação e Transportes Marítimos é o organismo que, nos termos do artigo 2.º do Decreto-Lei n.º 319/93, de 21 de Setembro, tem como atribuição assegurar o cumprimento das normas nacionais e internacionais, as condições conducentes à certificação do pessoal do mar e ainda verificar as condições legais e técnicas do exercício da actividade do pessoal do mar, nomeadamente no que se refere à inscrição marítima, carreiras e certificação, e que, por isso, incumbirá sempre ao Ministério do Equipamento, do Planeamento e da Administração do Território subscrever as propostas da EPMC e, por conseguinte, aprovar a prevista portaria, urge alterar o disposto no n.º 6 do artigo 21.º do Decreto-Lei n.º 93/97, de 23 de Abril.\n\nConsiderando ainda, nos termos do n.º 1 do artigo 24.º do Decreto-Lei n.º 104/89, de 6 de Abril, complementado com o estabelecido no n.º 2 do mesmo artigo, e pelo exposto nos artigos 16.º e 21.º da Portaria n.º 1086/90, de 27 de Outubro, que aquele Ministério tem participação directa na criação e regulamentação da actividade formativa a realizar naquela Escola, no âmbito dos cursos e exames a efectivar a todo o pessoal do mar, isto é, abrangido pelo Regulamento de Inscrição Marítima;\n\nAssim:\n\nAo abrigo do disposto no artigo 16.º, n.º 1, do Decreto-Lei n.º 74/96, de 18 de Junho, e nos termos do n.º 2 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "944178983": {
+   "fragment_id": "944179531",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo único\n\nO n.º 6 do artigo 21.º do Decreto-Lei n.º 93/97, de 23 de Abril, passa a ter a seguinte redacção:\n\n«Artigo 21.º\n\nOrganização do ensino\n\n...\n\n6 - Os cursos ministrados na EPMC, bem como os respectivos planos curriculares e conteúdos programáticos, são aprovados por portaria conjunta dos Ministros do Equipamento, do Planeamento e da Administração do Território, da Educação, para a Qualificação e o Emprego e da Agricultura, do Desenvolvimento Rural e das Pescas, mediante proposta fundamentada do director da EPMC, ouvido o conselho pedagógico.»"
+  },
+  "944178982": {
+   "fragment_id": "944179530",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de Setembro de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - João Cardona Gomes Cravinho - Manuel Maria Cardoso Leal - Eduardo Carrega"
+  }
+ }
+}

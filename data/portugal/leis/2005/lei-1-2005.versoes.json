@@ -1,0 +1,735 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:457049:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2005-176750004",
+ "dre_path": "/dr/detalhe/lei/1-2005-457049",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-01-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "176750147",
+    "176750084",
+    "176750085",
+    "176750086",
+    "176750087",
+    "176750088",
+    "176750089",
+    "176750090",
+    "176750091",
+    "176750092",
+    "176750093",
+    "176750094",
+    "176750095",
+    "176750096",
+    "176750097",
+    "176750098",
+    "176750099",
+    "176750100",
+    "176750101"
+   ]
+  },
+  {
+   "date": "2005-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483459:por",
+     "title": "Lei n.º 39-A/2005",
+     "published": "2005-07-29",
+     "dre_path": "/dr/detalhe/lei/39-a-2005-483459"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Capítulo V",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "176750083",
+    "176750084",
+    "176750085",
+    "176750103",
+    "176750087",
+    "176750088",
+    "176750089",
+    "176750090",
+    "176750091",
+    "176750092",
+    "176750093",
+    "176750094",
+    "176750095",
+    "176750096",
+    "176750097",
+    "176750098",
+    "176750099",
+    "176750104",
+    "176750105",
+    "176750102"
+   ]
+  },
+  {
+   "date": "2007-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197511:por",
+     "title": "Lei n.º 53-A/2006",
+     "published": "2006-12-29",
+     "dre_path": "/dr/detalhe/lei/53-a-2006-197511"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 14.º"
+   ],
+   "fragments": [
+    "176750083",
+    "176750084",
+    "176750085",
+    "176750103",
+    "176750087",
+    "176750088",
+    "176750089",
+    "176750090",
+    "176750091",
+    "176750092",
+    "176750093",
+    "176750094",
+    "176750095",
+    "176750096",
+    "176750097",
+    "176750098",
+    "176750099",
+    "176750104",
+    "176750105",
+    "176750106",
+    "176750102"
+   ]
+  },
+  {
+   "date": "2012-03-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:542867:por",
+     "title": "Lei n.º 9/2012",
+     "published": "2012-02-23",
+     "dre_path": "/dr/detalhe/lei/9-2012-542867"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 15.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "176750083",
+    "176750084",
+    "176750085",
+    "176750138",
+    "176750087",
+    "176750139",
+    "176750140",
+    "176750141",
+    "176750091",
+    "176750092",
+    "176750093",
+    "176750142",
+    "176750143",
+    "176750144",
+    "176750145",
+    "176750098",
+    "176750146",
+    "176750104",
+    "176750105",
+    "176750106",
+    "176750137",
+    "176750102"
+   ]
+  },
+  {
+   "date": "2022-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176714548:por",
+     "title": "Lei n.º 95/2021",
+     "published": "2021-12-29",
+     "dre_path": "/dr/detalhe/lei/95-2021-176714548"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "176750147",
+    "176750148",
+    "176750149",
+    "176750150",
+    "176750151",
+    "176750152",
+    "176750153",
+    "176750154",
+    "176750155",
+    "176750156",
+    "176750157",
+    "176750158",
+    "176750159",
+    "176750160",
+    "176750161",
+    "176750162",
+    "176750163",
+    "176750164",
+    "176750165",
+    "176750166",
+    "176750167",
+    "176750168"
+   ]
+  }
+ ],
+ "fragments": {
+  "176750147": {
+   "fragment_id": "176750005",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-01-28",
+   "changed_by": [],
+   "markdown": "Lei n.º 1/2005\n\nde 10 de Janeiro\n\nRegula a utilização de câmaras de vídeo pelas forças e serviços de segurança em locais públicos de utilização comum\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei seguinte:"
+  },
+  "176750084": {
+   "fragment_id": "176750006",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "176750085": {
+   "fragment_id": "176750007",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - A presente lei regula a utilização de sistemas de vigilância por câmaras de vídeo pelas forças e serviços de segurança em locais públicos de utilização comum, para captação e gravação de imagem e som e seu posterior tratamento.\n\n2 - Quaisquer referências feitas na presente lei a câmaras de vídeo fixas ou portáteis entendem-se extensíveis a qualquer outro meio técnico análogo, bem como a qualquer sistema que permita a realização das gravações nela previstas.\n\n3 - São aplicáveis, para os fins da presente lei, as definições constantes do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, com as necessárias adaptações."
+  },
+  "176750086": {
+   "fragment_id": "176750008",
+   "type": 11,
+   "heading": "Artigo 2.º — Fins dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fins dos sistemas\n\n1 - Só poderá ser autorizada a utilização de videovigilância, no âmbito da presente lei, que vise um dos seguintes fins:\n\na) Protecção de edifícios e instalações públicos e respectivos acessos;\n\nb) Protecção de instalações com interesse para a defesa nacional;\n\nc) Protecção da segurança das pessoas e bens, públicos ou privados, e prevenção da prática de crimes em locais em que exista razoável risco da sua ocorrência.\n\n2 - O responsável pelo tratamento de imagens e sons é a força de segurança com jurisdição na área de captação ou o serviço de segurança requerente, regendo-se esse tratamento pelo disposto na Lei n.º 67/98, de 26 de Outubro, em tudo o que não seja especificamente previsto na presente lei.\n\n3 - Para efeitos de fiscalização de infracções estradais, ficam as forças de segurança autorizadas a aceder a imagens captadas pelas entidades que controlam o tráfego rodoviário, devendo a respectiva captação, para esse efeito, ser objecto da autorização devida."
+  },
+  "176750087": {
+   "fragment_id": "176750009",
+   "type": 1,
+   "heading": "Capítulo II — Câmaras fixas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Câmaras fixas"
+  },
+  "176750088": {
+   "fragment_id": "176750010",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização de instalação\n\n1 - A instalação de câmaras fixas, nos termos da presente lei, está sujeita a autorização do membro do Governo que tutela a força ou serviço de segurança requerente, precedendo parecer da Comissão Nacional de Protecção de Dados (CNPD).\n\n2 - No caso de parecer negativo da CNPD, a autorização não pode ser concedida.\n\n3 - A competência prevista no n.º 1 é delegável, nos termos legais."
+  },
+  "176750089": {
+   "fragment_id": "176750011",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condições de instalação\n\nNos locais objecto de vigilância com recurso a câmaras fixas é obrigatória a afixação, em local bem visível, de informação sobre as seguintes matérias:\n\na) A existência e a localização das câmaras de vídeo;\n\nb) A finalidade da captação de imagens e sons;\n\nc) Informação sobre o responsável pelo tratamento dos dados recolhidos, perante quem os direitos de acesso e rectificação podem ser exercidos."
+  },
+  "176750090": {
+   "fragment_id": "176750012",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Pedido de autorização\n\n1 - O pedido de autorização de instalação de câmaras fixas é requerido pelo dirigente máximo da força ou serviço de segurança respectivo e deve ser instruído com os seguintes elementos:\n\na) Os locais públicos objecto de observação pelas câmaras fixas;\n\nb) Características técnicas do equipamento utilizado;\n\nc) Identificação dos responsáveis pela conservação e tratamento dos dados, quando não sejam os responsáveis pelo sistema;\n\nd) Os fundamentos justificativos da necessidade e conveniência da instalação do sistema de vigilância por câmaras de vídeo;\n\ne) Os procedimentos de informação ao público sobre a existência do sistema;\n\nf) Os mecanismos tendentes a assegurar o correcto uso dos dados registados;\n\ng) Os critérios que regem a conservação dos dados registados;\n\nh) O período de conservação dos dados, com respeito pelos princípios da adequação e da proporcionalidade, face ao fim a que os mesmos se destinam.\n\n2 - A autorização de instalação pode também ser requerida pelo presidente da câmara, cabendo nesse caso a instrução dos elementos referidos nas alíneas b) a h) do número anterior à força de segurança com jurisdição na respectiva área de observação, aplicando-se, quanto ao procedimento de decisão, o disposto no artigo 3.º\n\n3 - Da decisão de autorização constarão:\n\na) Os locais públicos objecto de observação pelas câmaras de vídeo;\n\nb) As limitações e condições de uso do sistema;\n\nc) A proibição de captação de sons, excepto quando ocorra perigo concreto para a segurança de pessoas e bens;\n\nd) O espaço físico susceptível de ser gravado, o tipo de câmara e suas especificações técnicas;\n\ne) A duração da autorização.\n\n4 - A duração da autorização será a mais adequada aos fundamentos invocados no pedido.\n\n5 - A duração máxima da autorização será de um ano, sujeita a renovação, mediante comprovação da manutenção dos fundamentos invocados para a sua concessão.\n\n6 - A autorização pode ser suspensa ou revogada, a todo o tempo, mediante decisão fundamentada."
+  },
+  "176750091": {
+   "fragment_id": "176750013",
+   "type": 1,
+   "heading": "Capítulo III — Câmaras portáteis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Câmaras portáteis"
+  },
+  "176750092": {
+   "fragment_id": "176750014",
+   "type": 11,
+   "heading": "Artigo 6.º — Utilização de câmaras portáteis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Utilização de câmaras portáteis\n\n1 - A autorização para a instalação de câmaras fixas inclui a utilização de câmaras portáteis.\n\n2 - Excepcionalmente, quando não seja possível obter em tempo útil a autorização prevista no artigo anterior, o dirigente máximo da força ou serviço de segurança pode autorizar a utilização de câmaras portáteis, informando no prazo de quarenta e oito horas a entidade prevista no artigo 3.º para os efeitos aí previstos.\n\n3 - Se a autorização não for concedida ou o parecer da CNPD for negativo, o responsável pelo sistema procede à destruição imediata do material gravado.\n\n4 - Sem prejuízo do disposto nos números anteriores, à utilização de câmaras portáteis é aplicável a legislação própria relativa às forças e serviços de segurança e a Lei n.º 5/2002, de 11 de Janeiro."
+  },
+  "176750093": {
+   "fragment_id": "176750015",
+   "type": 1,
+   "heading": "Capítulo IV — Utilização, conservação e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Utilização, conservação e registo"
+  },
+  "176750094": {
+   "fragment_id": "176750016",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípios de utilização das câmaras de vídeo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípios de utilização das câmaras de vídeo\n\n1 - A utilização de câmaras de vídeo rege-se pelo princípio da proporcionalidade.\n\n2 - Só é autorizada a utilização de câmaras de vídeo quando tal meio se mostre concretamente o mais adequado para a manutenção da segurança e ordem públicas e para a prevenção da prática de crimes, tendo em conta as circunstâncias concretas do local a vigiar.\n\n3 - Na ponderação, caso a caso, da finalidade concreta a que o sistema se destina são igualmente tidos em conta a possibilidade e o grau de afectação de direitos pessoais através da utilização de câmaras de vídeo.\n\n4 - É expressamente proibida a instalação de câmaras fixas em áreas que, apesar de situadas em locais públicos, sejam, pela sua natureza, destinadas a ser utilizadas em resguardo.\n\n5 - A autorização de utilização de câmaras de vídeo pressupõe sempre a existência de riscos objectivos para a segurança e a ordem públicas.\n\n6 - É vedada a utilização de câmaras de vídeo quando a captação de imagens e de sons abranja interior de casa ou edifício habitado ou sua dependência, salvo consentimento dos proprietários e de quem o habite legitimamente ou autorização judicial.\n\n7 - É igualmente vedada a captação de imagens e sons nos locais previstos no n.º 1 do artigo 2.º, quando essa captação afecte, de forma directa e imediata, a intimidade das pessoas, ou resulte na gravação de conversas de natureza privada.\n\n8 - As imagens e sons acidentalmente obtidos, em violação do disposto nos n.os 6 e 7, devem ser destruídos de imediato pelo responsável pelo sistema.\n\n9 - A verificação do disposto nos n.os 1, 2 e 5 compete ao membro do Governo que tutela a força ou o serviço de segurança requerente."
+  },
+  "176750095": {
+   "fragment_id": "176750017",
+   "type": 11,
+   "heading": "Artigo 8.º — Aspectos procedimentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aspectos procedimentais\n\n1 - Quando uma gravação, realizada de acordo com a presente lei, registe a prática de factos com relevância criminal, a força ou serviço de segurança que utilize o sistema elaborará auto de notícia, que remeterá ao Ministério Público juntamente com a fita ou suporte original das imagens e sons, no mais curto prazo possível ou, no máximo, até setenta e duas horas após o conhecimento da prática dos factos.\n\n2 - Caso não seja possível a remessa do auto de notícia no prazo previsto no número anterior, a participação dos factos será feita verbalmente."
+  },
+  "176750096": {
+   "fragment_id": "176750018",
+   "type": 11,
+   "heading": "Artigo 9.º — Conservação das gravações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conservação das gravações\n\n1 - As gravações obtidas de acordo com a presente lei serão conservadas pelo prazo máximo de um mês contado desde a respectiva captação, sem prejuízo do disposto no artigo anterior.\n\n2 - Todas as pessoas que tenham acesso às gravações realizadas nos termos da presente lei, em razão das suas funções, deverão sobre as mesmas guardar sigilo, sob pena de procedimento criminal.\n\n3 - Com excepção dos casos previstos no n.º 1, é proibida a cessão ou cópia das gravações obtidas de acordo com a presente lei."
+  },
+  "176750097": {
+   "fragment_id": "176750019",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos dos interessados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direitos dos interessados\n\n1 - São assegurados, a todas as pessoas que figurem em gravações obtidas de acordo com a presente lei, os direitos de acesso e eliminação, salvo o disposto no número seguinte.\n\n2 - O exercício dos direitos previstos no número anterior poderá ser fundamentadamente negado quando seja susceptível de constituir perigo para a defesa do Estado ou para a segurança pública, ou quando seja susceptível de constituir uma ameaça ao exercício dos direitos e liberdades de terceiros ou, ainda, quando esse exercício prejudique investigação criminal em curso.\n\n3 - Os direitos previstos no n.º 1 serão exercidos perante o responsável pelo tratamento dos dados recolhidos, directamente ou através da CNPD."
+  },
+  "176750098": {
+   "fragment_id": "176750020",
+   "type": 11,
+   "heading": "Artigo 11.º — Infracções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Infracções\n\nSalvo responsabilidade criminal, a violação das disposições da presente lei será sancionada de acordo com o estatuto disciplinar a que o agente se encontre sujeito, sem prejuízo do regime sancionatório constante da Lei n.º 67/98, de 26 de Outubro."
+  },
+  "176750099": {
+   "fragment_id": "176750021",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo dos sistemas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo dos sistemas\n\nA autoridade competente para autorizar a instalação de câmaras de vídeo fixas manterá registo público de todas as instalações autorizadas, onde conste a data e o local exactos da instalação, o seu requerente e o fim a que se destina e o parecer da CNPD, bem como o período da autorização e suas eventuais renovações."
+  },
+  "176750100": {
+   "fragment_id": "176750022",
+   "type": 1,
+   "heading": "Capítulo V — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposição transitória"
+  },
+  "176750101": {
+   "fragment_id": "176750023",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposição transitória\n\nAs forças e serviços de segurança responsáveis pelos sistemas de vigilância por câmaras de vídeo actualmente existentes dispõem do prazo de seis meses para proceder à adaptação dos sistemas às disposições da presente lei, contado a partir da data da respectiva entrada em vigor, com submissão à CNPD de toda a informação necessária."
+  },
+  "176750083": {
+   "fragment_id": "176750005",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 1/2005\n\nde 10 de Janeiro\n\nRegula a utilização de câmaras de vídeo pelas forças e serviços de segurança em locais públicos de utilização comum\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei seguinte:"
+  },
+  "176750103": {
+   "fragment_id": "176750008",
+   "type": 11,
+   "heading": "Artigo 2.º — Fins dos sistemas",
+   "in_force_from": "2005-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+   ],
+   "markdown": "###### Artigo 2.º — Fins dos sistemas\n\n1 - Só poderá ser autorizada a utilização de videovigilância, no âmbito da presente lei, que vise um dos seguintes fins:\n\na) Protecção de edifícios e instalações públicos e respectivos acessos;\n\nb) Protecção de instalações com interesse para a defesa nacional;\n\nc) Protecção da segurança das pessoas e bens, públicos ou privados, e prevenção da prática de crimes em locais em que exista razoável risco da sua ocorrência.\n\nd) Prevenção e repressão de infracções estradais.\n\n2 - O responsável pelo tratamento de imagens e sons é a força de segurança com jurisdição na área de captação ou o serviço de segurança requerente, regendo-se esse tratamento pelo disposto na Lei n.º 67/98, de 26 de Outubro, em tudo o que não seja especificamente previsto na presente lei.\n\n3 - Para efeitos de fiscalização de infracções estradais, ficam as forças de segurança autorizadas a aceder a imagens captadas pelas entidades que controlam o tráfego rodoviário, devendo a respectiva captação, para esse efeito, ser objecto da autorização devida.\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+  },
+  "176750104": {
+   "fragment_id": "176750022",
+   "type": 1,
+   "heading": "Capítulo V — Regime especial",
+   "in_force_from": "2005-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+   ],
+   "markdown": "### Capítulo V — Regime especial\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+  },
+  "176750105": {
+   "fragment_id": "176750023",
+   "type": 11,
+   "heading": "Artigo 13.º — Utilização de sistemas de vigilância rodoviária",
+   "in_force_from": "2005-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+   ],
+   "markdown": "###### Artigo 13.º — Utilização de sistemas de vigilância rodoviária\n\n1 - Com vista à salvaguarda da segurança das pessoas e bens na circulação rodoviária e à melhoria das condições de prevenção e repressão das infracções estradais é autorizada a instalação e a utilização pelas forças de segurança de sistemas de vigilância electrónica, mediante câmaras digitais, de vídeo ou fotográficas, para captação de dados em tempo real e respectiva gravação e tratamento, bem como sistemas de localização, instalados ou a instalar pela entidade competente para a gestão das estradas nacionais e pelas concessionárias rodoviárias, nas respectivas vias concessionadas.\n\n2 - Os sistemas de registo, gravação e tratamento de dados referidos no número anterior são autorizados tendo em vista o reforço da eficácia da intervenção legal das forças de segurança e das autoridades judiciárias e a racionalização de meios, sendo apenas utilizáveis em conformidade com os princípios gerais de tratamento de dados pessoais previstos na Lei n.º 67/98, de 26 de Outubro, em especial os princípios da adequação e da proporcionalidade e de acordo com as regras previstas no artigo 8.º, nos n.os 1 e 2 do artigo 9.º e no artigo 11.º, por forma a assegurar:\n\na) A detecção, em tempo real ou através de registo, de infracções rodoviárias e a aplicação das correspondentes normas sancionatórias;\n\nb) A realização de acções de controlo de tráfego e o accionamento de mecanismos de prevenção e de socorro em matéria de acidentes de trânsito;\n\nc) A localização de viaturas para efeitos de cumprimento de normas legais, designadamente de carácter penal, tais como as referentes a veículos furtados ou à detecção de matrículas falsificadas em circulação;\n\nd) A utilização dos registos vídeo para efeitos de prova em processo penal ou contra-ordenacional, respectivamente nas fases de levantamento de auto, inquérito, instrução e julgamento ou nas fases administrativa e de recurso judicial.»\n\n2 - Fica o Governo autorizado a aprovar, no prazo de 60 dias, ouvida a Comissão Nacional de Protecção de Dados (CNPD), nos termos e dentro dos limites decorrentes do número anterior, legislação que:\n\na) Regulamente os procedimentos a adoptar na instalação de sistemas de vigilância rodoviária;\n\nb) Tipifique os procedimentos a adoptar para o tratamento da informação recolhida e o eficaz registo de acidentes, infracções ou quaisquer ilícitos;\n\nc) Estabeleça o regime de transição para a utilização dos sistemas existentes e as formas de coordenação das forças de segurança.\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+  },
+  "176750102": {
+   "fragment_id": "176750024",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 18 de Novembro de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 23 de Dezembro de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 29 de Dezembro de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "176750106": {
+   "fragment_id": "176750025",
+   "type": 11,
+   "heading": "Artigo 14.º — Utilização de sistemas municipais",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 142.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Utilização de sistemas municipais\n\nCom vista à salvaguarda da segurança de pessoas e bens na circulação rodoviária e à melhoria das condições de prevenção e repressão de infracções de trânsito é igualmente autorizada, nos termos decorrentes do artigo anterior e do Decreto-Lei n.º 207/2005, de 29 de Novembro, a utilização pelas forças de segurança dos sistemas de vigilância electrónica criados, nos termos legais, pelos municípios.\n\n> Aditado pelo/a Artigo 142.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01"
+  },
+  "176750138": {
+   "fragment_id": "176750008",
+   "type": 11,
+   "heading": "Artigo 2.º — Fins dos sistemas",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22",
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+   ],
+   "markdown": "###### Artigo 2.º — Fins dos sistemas\n\n1 - Só poderá ser autorizada a utilização de videovigilância, no âmbito da presente lei, que vise um dos seguintes fins:\n\na) Protecção de edifícios e instalações públicos e respectivos acessos;\n\nb) Proteção de instalações com interesse para a defesa e a segurança;\n\nc) Proteção da segurança das pessoas e bens, públicos ou privados, e prevenção da prática de factos qualificados pela lei como crimes, em locais em que exista razoável risco da sua ocorrência;\n\nd) Prevenção e repressão de infracções estradais.\n\ne) Prevenção de atos terroristas;\n\nf) Proteção florestal e deteção de incêndios florestais.\n\n2 - O responsável pelo tratamento de imagens e sons é a força de segurança com jurisdição na área de captação ou o serviço de segurança requerente, regendo-se esse tratamento pelo disposto na Lei n.º 67/98, de 26 de Outubro, em tudo o que não seja especificamente previsto na presente lei.\n\n3 - Para efeitos de fiscalização de infracções estradais, ficam as forças de segurança autorizadas a aceder a imagens captadas pelas entidades que controlam o tráfego rodoviário, devendo a respectiva captação, para esse efeito, ser objecto da autorização devida.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+  },
+  "176750139": {
+   "fragment_id": "176750010",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização de instalação",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 3.º — Autorização de instalação\n\n1 - A instalação de câmaras fixas, nos termos da presente lei, está sujeita a autorização do membro do Governo que tutela a força ou serviço de segurança requerente.\n\n2 - A decisão de autorização é precedida de parecer da Comissão Nacional de Proteção de Dados (CNPD), que se pronuncia sobre a conformidade do pedido face às necessidades de cumprimento das regras referentes à segurança do tratamento dos dados recolhidos, bem como acerca das medidas especiais de segurança a implementar adequadas a garantir os controlos de entrada nas instalações, dos suportes de dados, da inserção, da utilização, de acesso, da transmissão, da introdução e do transporte e, bem assim, do previsto no artigo 4.º, nos n.os 4 e 6 a 8 do artigo 7.º, e nos artigos 8.º a 10.º\n\n3 - O parecer referido no número anterior é emitido no prazo de 60 dias a contar da data de receção do pedido de autorização, prazo após o qual o parecer é considerado positivo.\n\n4 - A competência prevista no n.º 1 é delegável, nos termos legais.\n\n5 - O disposto no n.º 1 é aplicável aos pedidos de renovação.\n\n6 - O pedido de renovação apresentado até 30 dias antes de expirado o prazo de duração da autorização ou renovação e que não tenha sido decidido considera-se provisoriamente deferido, nos termos e limites antes definidos, até que seja proferida decisão.\n\n7 - A CNPD pode, fundamentadamente, no quadro da emissão do parecer a que se refere o n.º 2:\n\na) Formular recomendações tendo em vista assegurar as finalidades a que se refere o n.º 2, sujeitando a emissão de parecer totalmente positivo à verificação da completude do cumprimento das suas recomendações;\n\nb) Dispensar expressamente a existência de certas medidas de segurança, garantido que se mostre o respeito pelos direitos, liberdades e garantias dos titulares dos dados.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750140": {
+   "fragment_id": "176750011",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de instalação",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de instalação\n\n1 - Nos locais objeto de vigilância com recurso a câmaras fixas é obrigatória a afixação, em local bem visível, de informação sobre as seguintes matérias:\n\na) A existência e a localização das câmaras de vídeo;\n\nb) A finalidade da captação de imagens e sons;\n\nc) O responsável pelo tratamento dos dados recolhidos, perante quem os direitos de acesso e retificação podem ser exercidos.\n\n2 - Os avisos a que se refere o número anterior são acompanhados de simbologia adequada, objeto de definição por portaria do membro do Governo responsável pela área da administração interna.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750141": {
+   "fragment_id": "176750012",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 5.º — Pedido de autorização\n\n1 - O pedido de autorização de instalação de câmaras fixas é requerido pelo dirigente máximo da força ou serviço de segurança respectivo e deve ser instruído com os seguintes elementos:\n\na) Os locais públicos objecto de observação pelas câmaras fixas;\n\nb) Características técnicas do equipamento utilizado;\n\nc) Identificação dos responsáveis pela conservação e tratamento dos dados, quando não sejam os responsáveis pelo sistema;\n\nd) Os fundamentos justificativos da necessidade e conveniência da instalação do sistema de vigilância por câmaras de vídeo;\n\ne) Os procedimentos de informação ao público sobre a existência do sistema;\n\nf) Os mecanismos tendentes a assegurar o correcto uso dos dados registados;\n\ng) Os critérios que regem a conservação dos dados registados;\n\nh) O período de conservação dos dados, com respeito pelos princípios da adequação e da proporcionalidade, face ao fim a que os mesmos se destinam.\n\ni) O comprovativo de aprovação, de capacidade ou de garantia de financiamento da instalação do equipamento utilizado e das respetivas despesas de manutenção.\n\n2 - A autorização de instalação pode também ser requerida pelo presidente da câmara, que pode promover previamente um processo de consulta pública, cabendo a instrução dos elementos referidos nas alíneas b) a h) do número anterior à força de segurança com jurisdição na respetiva área de observação, aplicando-se, quanto ao procedimento de decisão, o disposto no artigo 3.º\n\n3 - Da decisão de autorização constarão:\n\na) Os locais públicos objecto de observação pelas câmaras de vídeo;\n\nb) As limitações e condições de uso do sistema;\n\nc) A proibição de captação de sons, excepto quando ocorra perigo concreto para a segurança de pessoas e bens;\n\nd) O espaço físico susceptível de ser gravado, o tipo de câmara e suas especificações técnicas;\n\ne) A duração da autorização.\n\n4 - A duração da autorização será a mais adequada aos fundamentos invocados no pedido.\n\n5 - A duração máxima da autorização é de dois anos, suscetível de renovação por iguais períodos, mediante comprovação da manutenção dos fundamentos invocados para a sua concessão ou da existência de novos fundamentos.\n\n6 - A autorização pode ser suspensa ou revogada, a todo o tempo, mediante decisão fundamentada.\n\n7 - Os requisitos técnicos mínimos do equipamento referido na alínea b) do n.º 1 são objeto de definição por portaria do membro do Governo responsável pela área da administração interna, ouvida a CNPD.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750142": {
+   "fragment_id": "176750016",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípios de utilização das câmaras de vídeo",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 7.º — Princípios de utilização das câmaras de vídeo\n\n1 - A utilização de câmaras de vídeo rege-se pelo princípio da proporcionalidade.\n\n2 - É autorizada a utilização de câmaras de vídeo quando tal meio se mostre concretamente o mais adequado para a manutenção da segurança e ordem públicas e para a prevenção da prática de crimes, tendo em conta as circunstâncias concretas do local a vigiar.\n\n3 - Na ponderação, caso a caso, da finalidade concreta a que o sistema se destina são igualmente tidos em conta a possibilidade e o grau de afectação de direitos pessoais através da utilização de câmaras de vídeo.\n\n4 - É expressamente proibida a instalação de câmaras fixas em áreas que, apesar de situadas em locais públicos, sejam, pela sua natureza, destinadas a ser utilizadas em resguardo.\n\n5 - A autorização de utilização de câmaras de vídeo pressupõe sempre a existência de riscos objectivos para a segurança e a ordem públicas.\n\n6 - É vedada a utilização de câmaras de vídeo quando a captação de imagens e de sons abranja interior de casa ou edifício habitado ou sua dependência, salvo consentimento dos proprietários e de quem o habite legitimamente ou autorização judicial.\n\n7 - É igualmente vedada a captação de imagens e sons nos locais previstos no n.º 1 do artigo 2.º, quando essa captação afecte, de forma directa e imediata, a intimidade das pessoas, ou resulte na gravação de conversas de natureza privada.\n\n8 - As imagens e sons acidentalmente obtidos, em violação do disposto nos n.os 6 e 7, devem ser destruídos de imediato pelo responsável pelo sistema.\n\n9 - A verificação do disposto nos n.os 1, 2, 3 e 5 compete ao membro do Governo que tutela a força ou o serviço de segurança requerente.\n\n10 - Excecionalmente, quando estejam em causa circunstâncias urgentes devidamente fundamentadas e que constituam perigo para a defesa do Estado ou para a segurança e ordem pública, pode o dirigente máximo da força ou serviço de segurança respetivo determinar que se proceda à instalação de câmaras de vídeo, sem prejuízo de posterior processo de autorização a encetar no prazo de 72 horas.\n\n11 - Nos casos a que se refere o número anterior o membro do Governo que tutela a força ou serviço de segurança é imediatamente informado.\n\n12 - Nos casos em que a autorização referente ao preceituado no n.º 10 não seja concedida aplica-se, com as necessárias adaptações, o disposto no n.º 3 do artigo 6.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750143": {
+   "fragment_id": "176750017",
+   "type": 11,
+   "heading": "Artigo 8.º — Aspectos procedimentais",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 8.º — Aspectos procedimentais\n\n1 - Quando uma gravação, realizada de acordo com a presente lei, registe a prática de factos com relevância criminal, a força ou serviço de segurança que utilize o sistema elaborará auto de notícia, que remeterá ao Ministério Público juntamente com a fita ou suporte original das imagens e sons, no mais curto prazo possível ou, no máximo, até setenta e duas horas após o conhecimento da prática dos factos.\n\n2 - Caso não seja possível a remessa do auto de notícia no prazo previsto no número anterior, a participação dos factos é feita verbal ou eletronicamente, remetendo-se o auto no mais curto prazo possível.\n\n3 - A decisão de autorização de instalação de câmaras e a decisão de instalação em caso de urgência são comunicadas ao Ministério Público.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750144": {
+   "fragment_id": "176750018",
+   "type": 11,
+   "heading": "Artigo 9.º — Conservação das gravações",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 9.º — Conservação das gravações\n\n1 - As gravações obtidas de acordo com a presente lei são conservadas, em registo codificado, pelo prazo máximo de 30 dias contados desde a respetiva captação, sem prejuízo do disposto no artigo anterior.\n\n2 - Todas as pessoas que tenham acesso às gravações realizadas nos termos da presente lei, em razão das suas funções, deverão sobre as mesmas guardar sigilo, sob pena de procedimento criminal.\n\n3 - Com excepção dos casos previstos no n.º 1, é proibida a cessão ou cópia das gravações obtidas de acordo com a presente lei.\n\n4 - O código a que se refere o n.º 1 fica a cargo das forças e serviços de segurança responsáveis.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750145": {
+   "fragment_id": "176750019",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos dos interessados",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 10.º — Direitos dos interessados\n\n1 - São assegurados, a todas as pessoas que figurem em gravações obtidas de acordo com a presente lei, os direitos de acesso e eliminação, salvo o disposto no número seguinte.\n\n2 - O exercício dos direitos previstos no número anterior pode ser fundamentadamente negado quando seja suscetível de constituir perigo para a defesa do Estado ou para a segurança pública, ou quando seja suscetível de constituir uma ameaça ao exercício dos direitos e liberdades de terceiros ou, ainda, quando esse exercício prejudique investigação criminal em curso ou nos casos a que se refere o n.º 1 do artigo 8.º\n\n3 - Os direitos previstos no n.º 1 serão exercidos perante o responsável pelo tratamento dos dados recolhidos, directamente ou através da CNPD.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750146": {
+   "fragment_id": "176750021",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo dos sistemas",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 12.º — Registo dos sistemas\n\nA autoridade competente para autorizar a instalação de câmaras de vídeo fixas mantém registo público de todas as instalações autorizadas, onde conste a data e o local exatos da instalação, o seu requerente e o fim a que se destina, os demais elementos do processo instruído pela força de segurança respetiva e o parecer da CNPD, bem como o período da autorização e suas eventuais renovações.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750137": {
+   "fragment_id": "176750057",
+   "type": 11,
+   "heading": "Artigo 15.º — Sistemas de proteção florestal e deteção de incêndios florestais",
+   "in_force_from": "2012-03-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 15.º — Sistemas de proteção florestal e deteção de incêndios florestais\n\n1 - Com vista à salvaguarda da segurança das pessoas e bens no âmbito florestal e à melhoria das condições de prevenção e deteção de incêndios florestais pode ser autorizada pelo membro do Governo responsável pela área da administração interna a instalação e a utilização pelas competentes forças de segurança de sistemas de vigilância eletrónica, mediante câmaras digitais, de vídeo ou fotográficas, para captação de dados em tempo real e respetiva gravação e tratamento.\n\n2 - Os sistemas de registo, gravação e tratamento de dados referidos no número anterior têm em vista o reforço da eficácia da intervenção legal das forças de segurança e das autoridades judiciárias e a racionalização de meios, sendo apenas utilizáveis em conformidade com os princípios gerais de tratamento de dados pessoais previstos na Lei n.º 67/98, de 26 de outubro, em especial os princípios da adequação e da proporcionalidade, e de acordo com as regras previstas nos n.os 4 e 6 a 8 do artigo 7.º, no artigo 8.º, nos n.os 1 e 2 do artigo 9.º e nos artigos 10.º e 11.º, por forma a assegurar:\n\na) A deteção, em tempo real ou através de registo, de incêndios florestais e a aplicação das correspondentes normas sancionatórias;\n\nb) O acionamento de mecanismos de proteção civil e socorro no mesmo âmbito;\n\nc) A utilização dos registos vídeo para efeitos de prova em processo penal ou contraordenacional, respetivamente nas fases de levantamento de auto, inquérito, instrução e julgamento ou nas fases administrativa e de recurso judicial.\n\n3 - A instalação dos sistemas a que se refere o n.º 1 em terreno que seja propriedade privada carece de autorização do respetivo proprietário, sendo objeto de definição por portaria do membro do Governo responsável pela área da administração interna.\n\n4 - Nas zonas objeto de vigilância é obrigatória a afixação, em locais públicos, de informação sobre a existência e a localização das câmaras de vídeo, a finalidade da captação de imagens e informação sobre o responsável pelo tratamento dos dados recolhidos, perante quem os direitos de acesso e retificação podem ser exercidos.\n\n5 - A decisão de autorização referida no n.º 1 é sustentada em pareceres:\n\na) Da CNPD, para os efeitos a que se refere o n.º 2 do artigo 3.º; e\n\nb) Da Autoridade Nacional de Proteção Civil (ANPC).\n\n6 - A competência prevista no n.º 1 para a decisão de autorização é delegável, nos termos legais.\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750148": {
+   "fragment_id": "176750006",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  },
+  "176750149": {
+   "fragment_id": "176750007",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito de aplicação",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito de aplicação\n\n1 - A presente lei regula a utilização de sistemas de vigilância por câmaras de vídeo pelas forças e serviços de segurança em locais públicos de utilização comum, para captação e gravação de imagem e som e seu posterior tratamento.\n\n2 - Quaisquer referências feitas na presente lei a câmaras de vídeo fixas ou portáteis entendem-se extensíveis a qualquer outro meio técnico análogo, bem como a qualquer sistema que permita a realização das gravações nela previstas.\n\n3 - São aplicáveis, para os fins da presente lei, as definições constantes do artigo 3.º da Lei n.º 67/98, de 26 de Outubro, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  },
+  "176750150": {
+   "fragment_id": "176750008",
+   "type": 11,
+   "heading": "Artigo 2.º — Fins dos sistemas",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22",
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+   ],
+   "markdown": "###### Artigo 2.º — Fins dos sistemas\n\n1 - Só poderá ser autorizada a utilização de videovigilância, no âmbito da presente lei, que vise um dos seguintes fins:\n\na) Protecção de edifícios e instalações públicos e respectivos acessos;\n\nb) Proteção de instalações com interesse para a defesa e a segurança;\n\nc) Proteção da segurança das pessoas e bens, públicos ou privados, e prevenção da prática de factos qualificados pela lei como crimes, em locais em que exista razoável risco da sua ocorrência;\n\nd) Prevenção e repressão de infracções estradais.\n\ne) Prevenção de atos terroristas;\n\nf) Proteção florestal e deteção de incêndios florestais.\n\n2 - O responsável pelo tratamento de imagens e sons é a força de segurança com jurisdição na área de captação ou o serviço de segurança requerente, regendo-se esse tratamento pelo disposto na Lei n.º 67/98, de 26 de Outubro, em tudo o que não seja especificamente previsto na presente lei.\n\n3 - Para efeitos de fiscalização de infracções estradais, ficam as forças de segurança autorizadas a aceder a imagens captadas pelas entidades que controlam o tráfego rodoviário, devendo a respectiva captação, para esse efeito, ser objecto da autorização devida.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+  },
+  "176750151": {
+   "fragment_id": "176750009",
+   "type": 1,
+   "heading": "Capítulo II — Câmaras fixas",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "### Capítulo II — Câmaras fixas\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  },
+  "176750152": {
+   "fragment_id": "176750010",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização de instalação",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 3.º — Autorização de instalação\n\n1 - A instalação de câmaras fixas, nos termos da presente lei, está sujeita a autorização do membro do Governo que tutela a força ou serviço de segurança requerente.\n\n2 - A decisão de autorização é precedida de parecer da Comissão Nacional de Proteção de Dados (CNPD), que se pronuncia sobre a conformidade do pedido face às necessidades de cumprimento das regras referentes à segurança do tratamento dos dados recolhidos, bem como acerca das medidas especiais de segurança a implementar adequadas a garantir os controlos de entrada nas instalações, dos suportes de dados, da inserção, da utilização, de acesso, da transmissão, da introdução e do transporte e, bem assim, do previsto no artigo 4.º, nos n.os 4 e 6 a 8 do artigo 7.º, e nos artigos 8.º a 10.º\n\n3 - O parecer referido no número anterior é emitido no prazo de 60 dias a contar da data de receção do pedido de autorização, prazo após o qual o parecer é considerado positivo.\n\n4 - A competência prevista no n.º 1 é delegável, nos termos legais.\n\n5 - O disposto no n.º 1 é aplicável aos pedidos de renovação.\n\n6 - O pedido de renovação apresentado até 30 dias antes de expirado o prazo de duração da autorização ou renovação e que não tenha sido decidido considera-se provisoriamente deferido, nos termos e limites antes definidos, até que seja proferida decisão.\n\n7 - A CNPD pode, fundamentadamente, no quadro da emissão do parecer a que se refere o n.º 2:\n\na) Formular recomendações tendo em vista assegurar as finalidades a que se refere o n.º 2, sujeitando a emissão de parecer totalmente positivo à verificação da completude do cumprimento das suas recomendações;\n\nb) Dispensar expressamente a existência de certas medidas de segurança, garantido que se mostre o respeito pelos direitos, liberdades e garantias dos titulares dos dados.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750153": {
+   "fragment_id": "176750011",
+   "type": 11,
+   "heading": "Artigo 4.º — Condições de instalação",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 4.º — Condições de instalação\n\n1 - Nos locais objeto de vigilância com recurso a câmaras fixas é obrigatória a afixação, em local bem visível, de informação sobre as seguintes matérias:\n\na) A existência e a localização das câmaras de vídeo;\n\nb) A finalidade da captação de imagens e sons;\n\nc) O responsável pelo tratamento dos dados recolhidos, perante quem os direitos de acesso e retificação podem ser exercidos.\n\n2 - Os avisos a que se refere o número anterior são acompanhados de simbologia adequada, objeto de definição por portaria do membro do Governo responsável pela área da administração interna.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750154": {
+   "fragment_id": "176750012",
+   "type": 11,
+   "heading": "Artigo 5.º — Pedido de autorização",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 5.º — Pedido de autorização\n\n1 - O pedido de autorização de instalação de câmaras fixas é requerido pelo dirigente máximo da força ou serviço de segurança respectivo e deve ser instruído com os seguintes elementos:\n\na) Os locais públicos objecto de observação pelas câmaras fixas;\n\nb) Características técnicas do equipamento utilizado;\n\nc) Identificação dos responsáveis pela conservação e tratamento dos dados, quando não sejam os responsáveis pelo sistema;\n\nd) Os fundamentos justificativos da necessidade e conveniência da instalação do sistema de vigilância por câmaras de vídeo;\n\ne) Os procedimentos de informação ao público sobre a existência do sistema;\n\nf) Os mecanismos tendentes a assegurar o correcto uso dos dados registados;\n\ng) Os critérios que regem a conservação dos dados registados;\n\nh) O período de conservação dos dados, com respeito pelos princípios da adequação e da proporcionalidade, face ao fim a que os mesmos se destinam.\n\ni) O comprovativo de aprovação, de capacidade ou de garantia de financiamento da instalação do equipamento utilizado e das respetivas despesas de manutenção.\n\n2 - A autorização de instalação pode também ser requerida pelo presidente da câmara, que pode promover previamente um processo de consulta pública, cabendo a instrução dos elementos referidos nas alíneas b) a h) do número anterior à força de segurança com jurisdição na respetiva área de observação, aplicando-se, quanto ao procedimento de decisão, o disposto no artigo 3.º\n\n3 - Da decisão de autorização constarão:\n\na) Os locais públicos objecto de observação pelas câmaras de vídeo;\n\nb) As limitações e condições de uso do sistema;\n\nc) A proibição de captação de sons, excepto quando ocorra perigo concreto para a segurança de pessoas e bens;\n\nd) O espaço físico susceptível de ser gravado, o tipo de câmara e suas especificações técnicas;\n\ne) A duração da autorização.\n\n4 - A duração da autorização será a mais adequada aos fundamentos invocados no pedido.\n\n5 - A duração máxima da autorização é de dois anos, suscetível de renovação por iguais períodos, mediante comprovação da manutenção dos fundamentos invocados para a sua concessão ou da existência de novos fundamentos.\n\n6 - A autorização pode ser suspensa ou revogada, a todo o tempo, mediante decisão fundamentada.\n\n7 - Os requisitos técnicos mínimos do equipamento referido na alínea b) do n.º 1 são objeto de definição por portaria do membro do Governo responsável pela área da administração interna, ouvida a CNPD.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750155": {
+   "fragment_id": "176750013",
+   "type": 1,
+   "heading": "Capítulo III — Câmaras portáteis",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "### Capítulo III — Câmaras portáteis\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  },
+  "176750156": {
+   "fragment_id": "176750014",
+   "type": 11,
+   "heading": "Artigo 6.º — Utilização de câmaras portáteis",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "###### Artigo 6.º — Utilização de câmaras portáteis\n\n1 - A autorização para a instalação de câmaras fixas inclui a utilização de câmaras portáteis.\n\n2 - Excepcionalmente, quando não seja possível obter em tempo útil a autorização prevista no artigo anterior, o dirigente máximo da força ou serviço de segurança pode autorizar a utilização de câmaras portáteis, informando no prazo de quarenta e oito horas a entidade prevista no artigo 3.º para os efeitos aí previstos.\n\n3 - Se a autorização não for concedida ou o parecer da CNPD for negativo, o responsável pelo sistema procede à destruição imediata do material gravado.\n\n4 - Sem prejuízo do disposto nos números anteriores, à utilização de câmaras portáteis é aplicável a legislação própria relativa às forças e serviços de segurança e a Lei n.º 5/2002, de 11 de Janeiro.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  },
+  "176750157": {
+   "fragment_id": "176750015",
+   "type": 1,
+   "heading": "Capítulo IV — Utilização, conservação e registo",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "### Capítulo IV — Utilização, conservação e registo\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  },
+  "176750158": {
+   "fragment_id": "176750016",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípios de utilização das câmaras de vídeo",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 7.º — Princípios de utilização das câmaras de vídeo\n\n1 - A utilização de câmaras de vídeo rege-se pelo princípio da proporcionalidade.\n\n2 - É autorizada a utilização de câmaras de vídeo quando tal meio se mostre concretamente o mais adequado para a manutenção da segurança e ordem públicas e para a prevenção da prática de crimes, tendo em conta as circunstâncias concretas do local a vigiar.\n\n3 - Na ponderação, caso a caso, da finalidade concreta a que o sistema se destina são igualmente tidos em conta a possibilidade e o grau de afectação de direitos pessoais através da utilização de câmaras de vídeo.\n\n4 - É expressamente proibida a instalação de câmaras fixas em áreas que, apesar de situadas em locais públicos, sejam, pela sua natureza, destinadas a ser utilizadas em resguardo.\n\n5 - A autorização de utilização de câmaras de vídeo pressupõe sempre a existência de riscos objectivos para a segurança e a ordem públicas.\n\n6 - É vedada a utilização de câmaras de vídeo quando a captação de imagens e de sons abranja interior de casa ou edifício habitado ou sua dependência, salvo consentimento dos proprietários e de quem o habite legitimamente ou autorização judicial.\n\n7 - É igualmente vedada a captação de imagens e sons nos locais previstos no n.º 1 do artigo 2.º, quando essa captação afecte, de forma directa e imediata, a intimidade das pessoas, ou resulte na gravação de conversas de natureza privada.\n\n8 - As imagens e sons acidentalmente obtidos, em violação do disposto nos n.os 6 e 7, devem ser destruídos de imediato pelo responsável pelo sistema.\n\n9 - A verificação do disposto nos n.os 1, 2, 3 e 5 compete ao membro do Governo que tutela a força ou o serviço de segurança requerente.\n\n10 - Excecionalmente, quando estejam em causa circunstâncias urgentes devidamente fundamentadas e que constituam perigo para a defesa do Estado ou para a segurança e ordem pública, pode o dirigente máximo da força ou serviço de segurança respetivo determinar que se proceda à instalação de câmaras de vídeo, sem prejuízo de posterior processo de autorização a encetar no prazo de 72 horas.\n\n11 - Nos casos a que se refere o número anterior o membro do Governo que tutela a força ou serviço de segurança é imediatamente informado.\n\n12 - Nos casos em que a autorização referente ao preceituado no n.º 10 não seja concedida aplica-se, com as necessárias adaptações, o disposto no n.º 3 do artigo 6.º\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750159": {
+   "fragment_id": "176750017",
+   "type": 11,
+   "heading": "Artigo 8.º — Aspectos procedimentais",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 8.º — Aspectos procedimentais\n\n1 - Quando uma gravação, realizada de acordo com a presente lei, registe a prática de factos com relevância criminal, a força ou serviço de segurança que utilize o sistema elaborará auto de notícia, que remeterá ao Ministério Público juntamente com a fita ou suporte original das imagens e sons, no mais curto prazo possível ou, no máximo, até setenta e duas horas após o conhecimento da prática dos factos.\n\n2 - Caso não seja possível a remessa do auto de notícia no prazo previsto no número anterior, a participação dos factos é feita verbal ou eletronicamente, remetendo-se o auto no mais curto prazo possível.\n\n3 - A decisão de autorização de instalação de câmaras e a decisão de instalação em caso de urgência são comunicadas ao Ministério Público.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750160": {
+   "fragment_id": "176750018",
+   "type": 11,
+   "heading": "Artigo 9.º — Conservação das gravações",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 9.º — Conservação das gravações\n\n1 - As gravações obtidas de acordo com a presente lei são conservadas, em registo codificado, pelo prazo máximo de 30 dias contados desde a respetiva captação, sem prejuízo do disposto no artigo anterior.\n\n2 - Todas as pessoas que tenham acesso às gravações realizadas nos termos da presente lei, em razão das suas funções, deverão sobre as mesmas guardar sigilo, sob pena de procedimento criminal.\n\n3 - Com excepção dos casos previstos no n.º 1, é proibida a cessão ou cópia das gravações obtidas de acordo com a presente lei.\n\n4 - O código a que se refere o n.º 1 fica a cargo das forças e serviços de segurança responsáveis.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750161": {
+   "fragment_id": "176750019",
+   "type": 11,
+   "heading": "Artigo 10.º — Direitos dos interessados",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 10.º — Direitos dos interessados\n\n1 - São assegurados, a todas as pessoas que figurem em gravações obtidas de acordo com a presente lei, os direitos de acesso e eliminação, salvo o disposto no número seguinte.\n\n2 - O exercício dos direitos previstos no número anterior pode ser fundamentadamente negado quando seja suscetível de constituir perigo para a defesa do Estado ou para a segurança pública, ou quando seja suscetível de constituir uma ameaça ao exercício dos direitos e liberdades de terceiros ou, ainda, quando esse exercício prejudique investigação criminal em curso ou nos casos a que se refere o n.º 1 do artigo 8.º\n\n3 - Os direitos previstos no n.º 1 serão exercidos perante o responsável pelo tratamento dos dados recolhidos, directamente ou através da CNPD.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750162": {
+   "fragment_id": "176750020",
+   "type": 11,
+   "heading": "Artigo 11.º — Infracções",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "###### Artigo 11.º — Infracções\n\nSalvo responsabilidade criminal, a violação das disposições da presente lei será sancionada de acordo com o estatuto disciplinar a que o agente se encontre sujeito, sem prejuízo do regime sancionatório constante da Lei n.º 67/98, de 26 de Outubro.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  },
+  "176750163": {
+   "fragment_id": "176750021",
+   "type": 11,
+   "heading": "Artigo 12.º — Registo dos sistemas",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 12.º — Registo dos sistemas\n\nA autoridade competente para autorizar a instalação de câmaras de vídeo fixas mantém registo público de todas as instalações autorizadas, onde conste a data e o local exatos da instalação, o seu requerente e o fim a que se destina, os demais elementos do processo instruído pela força de segurança respetiva e o parecer da CNPD, bem como o período da autorização e suas eventuais renovações.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750164": {
+   "fragment_id": "176750022",
+   "type": 1,
+   "heading": "Capítulo V — Regime especial",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+   ],
+   "markdown": "### Capítulo V — Regime especial\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+  },
+  "176750165": {
+   "fragment_id": "176750023",
+   "type": 11,
+   "heading": "Artigo 13.º — Utilização de sistemas de vigilância rodoviária",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+   ],
+   "markdown": "###### Artigo 13.º — Utilização de sistemas de vigilância rodoviária\n\n1 - Com vista à salvaguarda da segurança das pessoas e bens na circulação rodoviária e à melhoria das condições de prevenção e repressão das infracções estradais é autorizada a instalação e a utilização pelas forças de segurança de sistemas de vigilância electrónica, mediante câmaras digitais, de vídeo ou fotográficas, para captação de dados em tempo real e respectiva gravação e tratamento, bem como sistemas de localização, instalados ou a instalar pela entidade competente para a gestão das estradas nacionais e pelas concessionárias rodoviárias, nas respectivas vias concessionadas.\n\n2 - Os sistemas de registo, gravação e tratamento de dados referidos no número anterior são autorizados tendo em vista o reforço da eficácia da intervenção legal das forças de segurança e das autoridades judiciárias e a racionalização de meios, sendo apenas utilizáveis em conformidade com os princípios gerais de tratamento de dados pessoais previstos na Lei n.º 67/98, de 26 de Outubro, em especial os princípios da adequação e da proporcionalidade e de acordo com as regras previstas no artigo 8.º, nos n.os 1 e 2 do artigo 9.º e no artigo 11.º, por forma a assegurar:\n\na) A detecção, em tempo real ou através de registo, de infracções rodoviárias e a aplicação das correspondentes normas sancionatórias;\n\nb) A realização de acções de controlo de tráfego e o accionamento de mecanismos de prevenção e de socorro em matéria de acidentes de trânsito;\n\nc) A localização de viaturas para efeitos de cumprimento de normas legais, designadamente de carácter penal, tais como as referentes a veículos furtados ou à detecção de matrículas falsificadas em circulação;\n\nd) A utilização dos registos vídeo para efeitos de prova em processo penal ou contra-ordenacional, respectivamente nas fases de levantamento de auto, inquérito, instrução e julgamento ou nas fases administrativa e de recurso judicial.»\n\n2 - Fica o Governo autorizado a aprovar, no prazo de 60 dias, ouvida a Comissão Nacional de Protecção de Dados (CNPD), nos termos e dentro dos limites decorrentes do número anterior, legislação que:\n\na) Regulamente os procedimentos a adoptar na instalação de sistemas de vigilância rodoviária;\n\nb) Tipifique os procedimentos a adoptar para o tratamento da informação recolhida e o eficaz registo de acidentes, infracções ou quaisquer ilícitos;\n\nc) Estabeleça o regime de transição para a utilização dos sistemas existentes e as formas de coordenação das forças de segurança.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Alterado pelo/a Artigo 23.º do/a [Lei n.º 39-A/2005 - Diário da República n.º 145/2005, 1º Suplemento, Série I-A de 2005-07-29](https://diariodarepublica.pt/dr/detalhe/lei/39-a-2005-483459), em vigor a partir de 2005-08-03"
+  },
+  "176750166": {
+   "fragment_id": "176750025",
+   "type": 11,
+   "heading": "Artigo 14.º — Utilização de sistemas municipais",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Aditado pelo/a Artigo 142.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Utilização de sistemas municipais\n\nCom vista à salvaguarda da segurança de pessoas e bens na circulação rodoviária e à melhoria das condições de prevenção e repressão de infracções de trânsito é igualmente autorizada, nos termos decorrentes do artigo anterior e do Decreto-Lei n.º 207/2005, de 29 de Novembro, a utilização pelas forças de segurança dos sistemas de vigilância electrónica criados, nos termos legais, pelos municípios.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Aditado pelo/a Artigo 142.º do/a [Lei n.º 53-A/2006 - Diário da República n.º 249/2006, 1º Suplemento, Série I de 2006-12-29](https://diariodarepublica.pt/dr/detalhe/lei/53-a-2006-197511), em vigor a partir de 2007-01-01"
+  },
+  "176750167": {
+   "fragment_id": "176750057",
+   "type": 11,
+   "heading": "Artigo 15.º — Sistemas de proteção florestal e deteção de incêndios florestais",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28",
+    "Aditado pelo/a Artigo 2.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+   ],
+   "markdown": "###### Artigo 15.º — Sistemas de proteção florestal e deteção de incêndios florestais\n\n1 - Com vista à salvaguarda da segurança das pessoas e bens no âmbito florestal e à melhoria das condições de prevenção e deteção de incêndios florestais pode ser autorizada pelo membro do Governo responsável pela área da administração interna a instalação e a utilização pelas competentes forças de segurança de sistemas de vigilância eletrónica, mediante câmaras digitais, de vídeo ou fotográficas, para captação de dados em tempo real e respetiva gravação e tratamento.\n\n2 - Os sistemas de registo, gravação e tratamento de dados referidos no número anterior têm em vista o reforço da eficácia da intervenção legal das forças de segurança e das autoridades judiciárias e a racionalização de meios, sendo apenas utilizáveis em conformidade com os princípios gerais de tratamento de dados pessoais previstos na Lei n.º 67/98, de 26 de outubro, em especial os princípios da adequação e da proporcionalidade, e de acordo com as regras previstas nos n.os 4 e 6 a 8 do artigo 7.º, no artigo 8.º, nos n.os 1 e 2 do artigo 9.º e nos artigos 10.º e 11.º, por forma a assegurar:\n\na) A deteção, em tempo real ou através de registo, de incêndios florestais e a aplicação das correspondentes normas sancionatórias;\n\nb) O acionamento de mecanismos de proteção civil e socorro no mesmo âmbito;\n\nc) A utilização dos registos vídeo para efeitos de prova em processo penal ou contraordenacional, respetivamente nas fases de levantamento de auto, inquérito, instrução e julgamento ou nas fases administrativa e de recurso judicial.\n\n3 - A instalação dos sistemas a que se refere o n.º 1 em terreno que seja propriedade privada carece de autorização do respetivo proprietário, sendo objeto de definição por portaria do membro do Governo responsável pela área da administração interna.\n\n4 - Nas zonas objeto de vigilância é obrigatória a afixação, em locais públicos, de informação sobre a existência e a localização das câmaras de vídeo, a finalidade da captação de imagens e informação sobre o responsável pelo tratamento dos dados recolhidos, perante quem os direitos de acesso e retificação podem ser exercidos.\n\n5 - A decisão de autorização referida no n.º 1 é sustentada em pareceres:\n\na) Da CNPD, para os efeitos a que se refere o n.º 2 do artigo 3.º; e\n\nb) Da Autoridade Nacional de Proteção Civil (ANPC).\n\n6 - A competência prevista no n.º 1 para a decisão de autorização é delegável, nos termos legais.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28\n\n> Aditado pelo/a Artigo 2.º do/a [Lei n.º 9/2012 - Diário da República n.º 39/2012, Série I de 2012-02-23](https://diariodarepublica.pt/dr/detalhe/lei/9-2012-542867), em vigor a partir de 2012-03-22"
+  },
+  "176750168": {
+   "fragment_id": "176750024",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-01-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+   ],
+   "markdown": "Aprovada em 18 de Novembro de 2004.\n\nO Presidente da Assembleia da República, João Bosco Mota Amaral.\n\nPromulgada em 23 de Dezembro de 2004.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendada em 29 de Dezembro de 2004.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes.\n\n> Revogado pelo/a Artigo 28.º do/a [Lei n.º 95/2021 - Diário da República n.º 251/2021, Série I de 2021-12-29](https://diariodarepublica.pt/dr/detalhe/lei/95-2021-176714548), em vigor a partir de 2022-01-28"
+  }
+ }
+}

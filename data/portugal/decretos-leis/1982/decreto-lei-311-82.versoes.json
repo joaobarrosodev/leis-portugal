@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:397278:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1982-922231859",
+ "dre_path": "/dr/detalhe/decreto-lei/311-1982-397278",
+ "source_lastmod": "2025-06-24",
+ "versions": [
+  {
+   "date": "1982-08-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "922252933",
+    "922252934",
+    "922252935",
+    "922252936",
+    "922252937",
+    "922252938",
+    "922252939",
+    "922252940",
+    "922252941",
+    "922252942"
+   ]
+  },
+  {
+   "date": "1996-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:477288:por",
+     "title": "Lei n.º 10-B/96",
+     "published": "1996-03-23",
+     "dre_path": "/dr/detalhe/lei/10-b-1996-477288"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "922252933",
+    "922252934",
+    "922252935",
+    "922252936",
+    "922252937",
+    "922252944",
+    "922252939",
+    "922252940",
+    "922252941",
+    "922252942",
+    "922252943"
+   ]
+  },
+  {
+   "date": "1997-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:583042:por",
+     "title": "Lei n.º 52-C/96",
+     "published": "1996-12-27",
+     "dre_path": "/dr/detalhe/lei/52-c-1996-583042"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "922252933",
+    "922252934",
+    "922252935",
+    "922252936",
+    "922252937",
+    "922252945",
+    "922252939",
+    "922252940",
+    "922252941",
+    "922252942",
+    "922252943"
+   ]
+  },
+  {
+   "date": "2011-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:344942:por",
+     "title": "Lei n.º 55-A/2010",
+     "published": "2010-12-31",
+     "dre_path": "/dr/detalhe/lei/55-a-2010-344942"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "922252933",
+    "922252934",
+    "922252935",
+    "922252946",
+    "922252937",
+    "922252947",
+    "922252939",
+    "922252940",
+    "922252941",
+    "922252942",
+    "922252943"
+   ]
+  }
+ ],
+ "fragments": {
+  "922252933": {
+   "fragment_id": "922231860",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 311/82\n\nde 4 de Agosto\n\n1. A locação financeira (leasing) tem desempenhado em alguns países estrangeiros uma importante função no domínio do financiamento do investimento privado e, por via deste, na modernização e reconversão da economia.\n\nTrata-se, por força das suas próprias características, de um contrato de consequências fiscais vantajosas para as empresas que a ele recorram. No entanto, dada a especificidade dos contornos que modelam a locação financeira nos planos económico e jurídico, a mesma carece de regulamentação que, por um lado, elimine os eventuais obstáculos de índole fiscal ao seu desenvolvimento e, por outro, evite, na medida do possível, o seu uso com propósitos de evasão fiscal.\n\nAlém disso, para incentivar a inserção desta actividade nos objectivos de política económica definidos, justifica-se a concessão de alguns benefícios de natureza fiscal que, através da sua selectividade, permitam orientar o investimento assim financiado para as regiões e sectores cujo desenvolvimento se pretende promover.\n\n2. O quadro geral em matéria fiscal em que se move a locação financeira é o que resulta da legislação aplicável.\n\nPara resolver uma lacuna no domínio da tributação dos rendimentos respeitantes à locação de bens de equipamento quando efectuada por empresas não sujeitas a impostos sobre os lucros, a Lei n.º 40/81, de 31 de Dezembro, autorizou o Governo a alterar o Código do Imposto de Capitais no sentido de tributar neste imposto os rendimentos derivados do uso ou da concessão do uso de equipamento agrícola, industrial, comercial ou científico que não estejam sujeitos a contribuição predial, quando sejam auferidos por empresas não sujeitas, relativamente aos mesmos, a impostos sobre os lucros. Essa tributação é feita por retenção na fonte, à taxa de 12%, para o que se teve em conta que, neste caso, a taxa incide sobre rendimentos brutos.\n\nO presente diploma desenvolve o quadro geral atrás referido, nos aspectos que se julga merecerem regulamentação específica.\n\n3. Esse desenvolvimento respeita, em primeiro lugar, às regras de reintegração dos bens locados, quer pela sociedade de locação financeira, quer, após a transmissão daqueles bens no exercício da opção de compra no final do contrato, pela empresa locatária. Além disso, dadas as características da actividade das sociedades de locação financeira, consideram-se em contribuição industrial os ganhos ou perdas obtidos com a transmissão dos bens objecto de locação financeira, excepto quando se trate de perdas realizadas aquando do exercício da opção de compra pelo locatário do bem locado.\n\nPor outro lado, tendo em vista assegurar um adequado grau de neutralidade fiscal, isenta-se de sisa a transmissão por compra e venda a favor do locatário, no termo da vigência do contrato de locação financeira e realizada nas condições nele estabelecidas, da propriedade ou do direito de superfície constituído sobre os imóveis locados e estabelece-se uma disciplina que permite a isenção do imposto de transacções dos bens adquiridos pelas sociedades de locação financeira, quando locados a empresas que, se os adquirissem directamente, poderiam beneficiar dessa isenção.\n\n4. No tocante a benefícios fiscais, estabelecem-se os julgados mais adequados, prevendo-se a redução a 50% da taxa do imposto do selo devido pelo acto de constituição das sociedades de locação financeira e a isenção total ou parcial do imposto de capitas, secção B, e do imposto complementar, secção A, dos juros de obrigações emitidas pelas mesmas quando o produto da emissão se destine a financiar investimentos de relevante interesse económico e social.\n\nPor outro lado, além da isenção da contribuição predial relativamente aos rendimentos de coisas imóveis locadas, que assim são tributados apenas em contribuição industrial, permite-se a redução a 4% da taxa da sisa pela aquisição de prédios ou de terrenos para a sua construção ou pela constituição ou aquisição do direito de superfície para este fim, nos mesmos termos em que podem aproveitar deste benefício fiscal as empresas que façam aquela aquisição directamente.\n\nFinalmente, estabelece-se uma dedução na matéria colectável da contribuição industrial calculada em função dos proveitos derivados da locação financeira e variável consoante a região e sector em que são utilizados os bens bocados e isenta-se de direitos aduaneiros a importação de bens de equipamento destinados a serem locados e em relação aos quais a produção nacional não ofereça condições equivalentes de qualidade, preço ou prazo de entrega.\n\nAssim:\n\nUsando da autorização conferida pelo artigo 34.º da Lei n.º 40/81, de 31 de Dezembro, o Governo decreta, nos termos das alíneas a) e b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "922252934": {
+   "fragment_id": "922231861",
+   "type": 11,
+   "heading": "Artigo 1.º — (Reintegrações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Reintegrações)\n\n1 - São consideradas como custos ou perdas do exercício da sociedade de locação financeira, para efeitos do disposto no n.º 7.º do artigo 26.º do Código da Contribuição Industrial, as reintegrações dos bens locados, podendo as reintegrações de bens de equipamento, edifícios industriais ou edificações integradas em conjuntos industriais e edifícios afectos a hotéis exceder até 100% as taxas aplicáveis que, de acordo com a Portaria n.º 737/81, de 29 de Agosto, correspondam aos ramos de actividade em que os bens locados são utilizados ou, na sua falta, as previstas na tabela II (taxas genéricas) anexa àquela portaria.\n\n2 - Aos bens objecto do acréscimo de taxas previsto no número anterior não é aplicável o disposto no n.º 1, alínea b) do n.º 8.º da Portaria n.º 737/81, de 29 de Agosto.\n\n3 - Quando se verifique a transmissão a favor da empresa locatária dos bens locados, no termo do contrato de locação financeira, são consideradas como custos ou perdas daquela, para efeitos fiscais, as reintegrações do valor de transmissão segundo o regime que lhes for aplicável.\n\n4 - No caso referido no número anterior, tratando-se de imóveis, quando o valor líquido, tendo em conta as reintegrações que poderiam ter sido praticadas para efeitos fiscais, nos termos do n.º 1, for superior ao valor por que foi efectuada a transmissão, a respectiva diferença será considerada como proveito da empresa locatária para efeitos de tributação no exercício em que se verificar a transmissão, a qual, nesse caso, acresce ao valor desta para efeitos de eventual reintegração nos termos do n.º 3."
+  },
+  "922252935": {
+   "fragment_id": "922231862",
+   "type": 11,
+   "heading": "Artigo 2.º — (Transmissão dos bens objecto de locação financeira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Transmissão dos bens objecto de locação financeira)\n\n1 - É componente positiva ou negativa do lucro tributável da sociedade de locação financeira, para efeitos do Código da Contribuição Industrial, o resultado obtido na transmissão dos bens objecto de locação financeira, não lhe sendo aplicável o disposto no Código do Imposto de Mais-Valias.\n\n2 - Não é, porém, considerada custo ou perda do exercício, para efeitos fiscais, a diferença entre o valor contabilístico da coisa locada e o valor por que esta for transferida para o locatário no termo do contrato, no exercício do seu direito de opção de compra."
+  },
+  "922252936": {
+   "fragment_id": "922231863",
+   "type": 11,
+   "heading": "Artigo 3.º — (Transmissão de imóveis locados a favor do locatário)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Transmissão de imóveis locados a favor do locatário)\n\nEstá isenta de sisa a transmissão por compra e venda a favor do locatário, no termo da vigência do contrato de locação financeira e realizada nas condições nele estabelecidas, da propriedade ou do direito de superfície constituído sobre os imóveis bocados."
+  },
+  "922252937": {
+   "fragment_id": "922231864",
+   "type": 11,
+   "heading": "Artigo 4.º — (Isenção de imposto de transacções)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Isenção de imposto de transacções)\n\n1 - São isentas do imposto de transacções as aquisições dos bens referidos nas verbas n.os 2, 23 e 24 da lista I anexa ao respectivo Código, efectuadas por sociedades de locação financeira, quando os bens se destinem a ser bocados a empresa que, nos termos previstos nas mencionadas verbas, pudesse beneficiar dessa isenção.\n\n2 - Para efeitos do disposto no número anterior, a sociedade de locação financeira deverá cumprir o preceituado nos §§ 2.º e seguintes do artigo 5.º do Código do Imposto de Transacções, fazendo na declaração modelo n.º 13 a identificação da empresa locatária e a indicação do local de utilização dos bens.\n\n3 - Em matéria de penalidades observar-se-á o seguinte:\n\na) A sociedade de locação financeira e a empresa locatária incorrerão solidariamente na penalidade prevista no artigo 116.º do Código do Imposto de Transacções se a referida declaração modelo n.º 13 tiver sido utilizada na aquisição de bens não enquadráveis nas verbas n.os 2, 23 e 24;\n\nb) A empresa locatária incorrerá na penalidade prevista no artigo 116.º-A do Código do Imposto de Transacções quando haja dado aos bens bocados destino diferente daquele em que se baseou a isenção, sem que sejam observadas as formalidades estabelecidas no artigo 5.º-A do mesmo Código e os prazos nele fixados."
+  },
+  "922252938": {
+   "fragment_id": "922231865",
+   "type": 11,
+   "heading": "Artigo 5.º — (Isenção de contribuição predial e redução de sisa)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Isenção de contribuição predial e redução de sisa)\n\n1 - As sociedades de locação financeira sujeitas a contribuição industrial gozam de:\n\na) Isenção da contribuição predial relativamente aos rendimentos de coisas imóveis locadas, não lhes aproveitando o disposto na primeira parte do § único do artigo 89.º do Código da Contribuição Industrial;\n\nb) Redução a 4% da taxa da sisa pela aquisição de prédios ou de terrenos para a sua construção, ou pela constituição ou aquisição do direito de superfície para este fim, quando esses prédios, através da locação financeira, sejam destinados à instalação de indústrias de interesse para o desenvolvimento económico do País ou à conveniente ampliação de empresas com vista a novos fabricos, redução do custo ou melhoria da qualidade dos produtos, benefício que ficará sem efeito se, por facto imputável à sociedade locadora, for dada ao imóvel afectação diversa no decénio posterior à sua aquisição.\n\n2 - A aplicação do benefício a que se refere a alínea b) do número anterior depende de despacho do Ministro de Estado e das Finanças e do Plano, a requerimento dos interessados, sobre informação da Direcção-Geral das Contribuições e Impostos, depois de ouvidos os serviços competentes do ministério ou ministérios que superintendam nas actividades respectivas.\n\n3 - O requerimento a que se refere o número anterior deverá ser apresentado antes da transmissão."
+  },
+  "922252939": {
+   "fragment_id": "922231866",
+   "type": 11,
+   "heading": "Artigo 6.º — (Dedução do lucro tributável da contribuição industrial)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Dedução do lucro tributável da contribuição industrial)\n\n1 - As sociedades de locação financeira sujeitas a contribuição industrial podem deduzir no lucro tributável da contribuição industrial, depois de consideradas as demais deduções legais aplicáveis, uma importância correspondente à que resultar da aplicação àquele lucro tributável do coeficiente igual à soma dos que forem obtidos através da multiplicação dos factores f(índice i) pelos quocientes entre os proveitos em cada exercício dos contratos de locação financeira de bens destinados a ser utilizados em regiões e sectores a que correspondam aqueles factores e os proveitos totais da empresa, num caso e noutro sujeitos a contribuição industrial.\n\n2 - Os factores f(índice i) são definidos por portaria do Ministro de Estado e das Finanças e do Plano.\n\n3 - Para efeitos do disposto no n.º 1 as sociedades de locação financeira juntarão à declaração modelo n.º 2 da contribuição industrial declaração evidenciando a forma como foi calculada a importância deduzida, juntando-lhe os documentos comprovativos de estarem preenchidos os condicionalismos necessários."
+  },
+  "922252940": {
+   "fragment_id": "922231867",
+   "type": 11,
+   "heading": "Artigo 7.º — (Isenção de direitos aduaneiros)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Isenção de direitos aduaneiros)\n\n1 - As sociedades de locação financeira sujeitas a contribuição industrial podem beneficiar de isenção de direitos aduaneiros pela importação de bens de equipamento destinados a serem bocados e em relação aos quais a produção nacional não ofereça condições equivalentes de qualidade, preço ou prazo de entrega.\n\n2 - A concessão do benefício a que se refere o número anterior depende de despacho do Ministro de Estado e das Finanças e do Plano, a requerimento da sociedade de locação financeira, que o deverá apresentar na Direcção-Geral das Alfândegas antes do despacho alfandegário."
+  },
+  "922252941": {
+   "fragment_id": "922231868",
+   "type": 11,
+   "heading": "Artigo 8.º — (Benefícios relativos a juros de obrigações)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Benefícios relativos a juros de obrigações)\n\n1 - O Ministro de Estado e das Finanças e do Plano pode conceder a isenção total ou parcial do imposto de capitais, secção B, e do imposto complementar, secção A, relativamente aos juros de obrigações emitidas por sociedades de locação financeira sujeitas a contribuição industrial, quando o produto da emissão se destine a financiar investimentos de relevante interesse económico e social.\n\n2 - O benefício fiscal a que se refere o número anterior deverá ser requerido pela sociedade interessada antes da emissão das obrigações."
+  },
+  "922252942": {
+   "fragment_id": "922231869",
+   "type": 11,
+   "heading": "Artigo 9.º — (Benefícios em matéria de imposto do selo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Benefícios em matéria de imposto do selo)\n\nÉ reduzida a 50% a taxa do imposto do selo devido pelo acto da constituição das sociedades de locação financeira."
+  },
+  "922252944": {
+   "fragment_id": "922231865",
+   "type": 11,
+   "heading": "Artigo 5.º — (Isenção de contribuição predial e redução de sisa)",
+   "in_force_from": "1996-03-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — (Isenção de contribuição predial e redução de sisa)\n\n1 - Às sociedades de locação financeira sujeitas a imposto sobre o rendimento das pessoas colectivas aplicar-se-á a taxa de sisa de 4% pela aquisição de prédios ou de terrenos para construção, ou pela constituição ou aquisição do direito de superfície para este fim, quando esses prédios, através da locação financeira, sejam destinados à instalação de indústrias de interesse para o desenvolvimento económico do País ou à conveniente ampliação de empresas com vista a novos fabricos, redução do custo ou melhoria da qualidade dos produtos, benefício que ficará sem efeito se, por facto imputável à sociedade locadora, for dada ao imóvel afectação diversa no sétimo ano posterior à sua aquisição.\n\n2 - A aplicação da taxa a que se refere o número anterior depende de despacho do Ministro das Finanças, a requerimento dos interessados, sobre informação da Direcção-Geral das Contribuições e Impostos, depois de ouvidos os serviços competentes do ministério ou ministérios que superintendam nas actividades respectivas.\n\n3 - O requerimento a que se refere o número anterior deverá ser apresentado no prazo a que se refere o n.º 1 do artigo 15.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações.\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+  },
+  "922252943": {
+   "fragment_id": "922231870",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros em 8 de Julho de 1982. - Francisco José Pereira Pinto Balsemão.\n\nPromulgado em 21 de Julho de 1982.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "922252945": {
+   "fragment_id": "922231865",
+   "type": 11,
+   "heading": "Artigo 5.º — Redução da taxa de sisa",
+   "in_force_from": "1997-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, 3º Suplemento, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01",
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — Redução da taxa de sisa\n\n1 - Às sociedades de locação financeira sujeitas a imposto sobre o rendimento das pessoas colectivas aplicar-se-á a taxa de sisa de 4% pela aquisição de prédios ou de terrenos para construção, ou pela constituição ou aquisição do direito de superfície para este fim, quando esses prédios, através da locação financeira, sejam destinados à instalação de indústrias de interesse para o desenvolvimento económico do País ou à conveniente ampliação de empresas com vista a novos fabricos, redução do custo ou melhoria de qualidade dos produtos, benefício que ficará sem efeito se, por facto imputável à sociedade locadora, for dada ao imóvel afectação diversa no septénio posterior à sua aquisição.\n\n2 - A aplicação da taxa a que se refere o número anterior depende de despacho do Ministro das Finanças, a requerimento dos interessados, sobre informação da Direcção-Geral das Contribuições e Impostos, depois de ouvidos os serviços competentes do ministério ou ministérios que superintendam nas actividades respectivas.\n\n3 - O requerimento a que se refere o número anterior deverá ser apresentado no prazo a que se refere o n.º 1 do artigo 15.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações.\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, 3º Suplemento, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+  },
+  "922252946": {
+   "fragment_id": "922231863",
+   "type": 11,
+   "heading": "Artigo 3.º — (Transmissão de imóveis locados a favor do locatário)",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 117.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — (Transmissão de imóveis locados a favor do locatário)\n\nEstá isenta de imposto municipal sobre as transmissões onerosas de imóveis a transmissão por compra e venda a favor do locatário, no exercício do direito de opção de compra previsto no regime jurídico do contrato de locação financeira, da propriedade ou do direito de superfície constituído sobre o imóvel locado.\n\n> Alterado pelo/a Artigo 117.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01"
+  },
+  "922252947": {
+   "fragment_id": "922231865",
+   "type": 11,
+   "heading": "Artigo 5.º — Redução da taxa de sisa",
+   "in_force_from": "2011-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 118.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01",
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, 3º Suplemento, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01",
+    "Alterado pelo/a Artigo 44.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — Redução da taxa de sisa\n\n1 - Às sociedades de locação financeira sujeitas a imposto sobre o rendimento das pessoas colectivas aplicar-se-á a taxa de sisa de 4% pela aquisição de prédios ou de terrenos para construção, ou pela constituição ou aquisição do direito de superfície para este fim, quando esses prédios, através da locação financeira, sejam destinados à instalação de indústrias de interesse para o desenvolvimento económico do País ou à conveniente ampliação de empresas com vista a novos fabricos, redução do custo ou melhoria de qualidade dos produtos, benefício que ficará sem efeito se, por facto imputável à sociedade locadora, for dada ao imóvel afectação diversa no septénio posterior à sua aquisição.\n\n2 - A aplicação da taxa a que se refere o número anterior depende de despacho do Ministro das Finanças, a requerimento dos interessados, sobre informação da Direcção-Geral das Contribuições e Impostos, depois de ouvidos os serviços competentes do ministério ou ministérios que superintendam nas actividades respectivas.\n\n3 - O requerimento a que se refere o número anterior deverá ser apresentado no prazo a que se refere o n.º 1 do artigo 15.º do Código do Imposto Municipal de Sisa e do Imposto sobre as Sucessões e Doações.\n\n> Revogado pelo/a Artigo 118.º do/a [Lei n.º 55-A/2010 - Diário da República n.º 253/2010, 1º Suplemento, Série I de 2010-12-31](https://diariodarepublica.pt/dr/detalhe/lei/55-a-2010-344942), em vigor a partir de 2011-01-01\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 52-C/96 - Diário da República n.º 299/1996, 3º Suplemento, Série I-A de 1996-12-27](https://diariodarepublica.pt/dr/detalhe/lei/52-c-1996-583042), em vigor a partir de 1997-01-01\n\n> Alterado pelo/a Artigo 44.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+  }
+ }
+}

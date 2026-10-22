@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:689635:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-221414408",
+ "dre_path": "/dr/detalhe/decreto-lei/292-1995-689635",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-11-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221382805",
+    "221382806",
+    "221382807",
+    "221382808",
+    "221382809",
+    "221382810",
+    "221382811"
+   ]
+  },
+  {
+   "date": "2009-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:491903:por",
+     "title": "Lei n.º 31/2009",
+     "published": "2009-07-03",
+     "dre_path": "/dr/detalhe/lei/31-2009-491903"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "221382805",
+    "221382806",
+    "221382807",
+    "221382808",
+    "221382813",
+    "221382810",
+    "221382811",
+    "221382812"
+   ]
+  }
+ ],
+ "fragments": {
+  "221382805": {
+   "fragment_id": "221414409",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 292/95\n\nde 14 de Novembro\n\nÉ hoje generalizadamente aceite que a salvaguarda do interesse público relativo ao correcto ordenamento do território deve ser assegurada no quadro de instrumentos de planeamento territorial que definam, com clareza e transparência, os princípios e normas que devem orientar a ocupação, o uso e a transformação dos solos para efeitos urbanísticos.\n\nNa verdade, um desenvolvimento urbano sustentável não pode ser dissociado das preocupações de melhoria da qualidade de vida nos meios urbanos, de adequado enquadramento das edificações no espaço envolvente e da existência de zonas de recreio e lazer.\n\nA cobertura do território nacional por planos directores municipais permite e aconselha a entrada numa nova fase do planeamento territorial, agora ao nível dos planos de urbanização e de pormenor.\n\nA qualidade dos planos de urbanização e de pormenor, bem como dos projectos de operações de loteamento, vai ter forçosamente expressão na qualidade e harmonia do espaço construído e a construir. No limiar do século XXI não é aceitável que voltem a surgir zonas urbanas descaracterizadas, massificadas e sem qualidade.\n\nNeste contexto, importa proceder à fixação de regras mínimas de qualificação técnica para a elaboração dos planos urbanísticos e dos projectos de operações de loteamento.\n\nAo fazê-lo, há que ter em consideração que, nos últimos anos, tem aumentado o número de cursos, ministrados pelas instituições de ensino superior portuguesas, conferentes de especializações nas áreas do planeamento urbanístico e do urbanismo em geral.\n\nAtendendo à diversidade de domínios do saber, de técnicas e de valências presentes no planeamento territorial, considera-se indispensável fazer assentar a elaboração de planos de urbanização e planos de pormenor, previstos no Decreto-Lei n.º 69/90, de 2 de Março, bem como de projectos de operações de loteamento, em equipas multidisciplinares de que façam parte profissionais detentores de formações diversificadas e complementares.\n\nNo entanto, as equipas multidisciplinares devem adequar-se às especificidades próprias de cada plano urbanístico ou projecto de loteamento, que podem exigir maior ou menor número de profissionais e especialistas. Consagra-se, assim, no presente diploma a composição mínima das equipas multidisciplinares que se considera poder garantir a qualidade exigível aos instrumentos de planeamento territorial e aos projectos de loteamento. Espera-se, contudo, que as equipas multidisciplinares sejam sistematicamente enriquecidas, de modo que a respectiva interdisciplinaridade permita alcançar bons níveis de qualidade.\n\nO objectivo fundamental da constituição de equipas multidisciplinares é assegurar a presença e intervenção, na elaboração dos planos e projectos, de formações técnicas diversificadas, reconhecidamente válidas e aptas para tratar as diferentes valências que devem ser consideradas, razão pela qual se entende salvaguardada a multidisciplinaridade quando um dos elementos da equipa disponha, simultaneamente, de mais de uma habilitação ou qualificação profissional.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "221382806": {
+   "fragment_id": "221414410",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece os princípios relativos à definição das qualificações oficiais a exigir aos autores de planos de urbanização, de planos de pormenor e de projectos de operações de loteamento."
+  },
+  "221382807": {
+   "fragment_id": "221414411",
+   "type": 11,
+   "heading": "Artigo 2.º — Planos de urbanização e de pormenor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Planos de urbanização e de pormenor\n\n1 - Os planos de urbanização e de pormenor são obrigatoriamente elaborados por equipas técnicas multidisciplinares.\n\n2 - As equipas multidisciplinares incluem pelo menos um arquitecto, um engenheiro civil ou engenheiro técnico civil, um arquitecto paisagista, um técnico urbanista e um licenciado em Direito, qualquer deles com experiência profissional efectiva de, pelo menos, três anos.\n\n3 - Quando o plano de pormenor não exija um tratamento específico ao nível do enquadramento paisagístico e do estudo dos espaços exteriores, as entidades a que alude o n.º 1 do artigo 5.º, mediante despacho fundamentado, podem dispensar a participação do arquitecto paisagista na respectiva equipa multidisciplinar.\n\n4 - Quando um dos técnicos integrantes de equipa multidisciplinar disponha, simultaneamente, de mais de uma das qualificações exigidas para a sua composição, fica dispensada a integração dos técnicos com as qualificações correspondentes.\n\n5 - Sem prejuízo do disposto nos números anteriores, devem ainda participar nas equipas multidisciplinares outros técnicos cujas especialidades se revelem indispensáveis ou aconselháveis à elaboração dos planos.\n\n6 - As equipas multidisciplinares de planos de urbanização ou de planos de pormenor dispõem de um coordenador técnico, designado de entre os seus membros.\n\n7 - Os planos de salvaguarda e valorização referentes a edifícios classificados e suas zonas de protecção devem ser elaborados por equipas multidisciplinares com a composição estabelecida no n.º 2."
+  },
+  "221382808": {
+   "fragment_id": "221414412",
+   "type": 11,
+   "heading": "Artigo 3.º — Técnicos urbanistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Técnicos urbanistas\n\n1 - Para os efeitos do presente diploma, consideram-se técnicos urbanistas os profissionais que disponham de licenciatura ou bacharelato nas áreas do urbanismo ou do planeamento físico do território ou de outras licenciaturas, bacharelatos e pós-graduações que os habilitem para o exercício de actividades no domínio do urbanismo.\n\n2 - A identificação dos cursos relevantes para efeitos do número anterior é feita mediante portaria conjunta dos Ministros do Planeamento e da Administração do Território, da Educação e das Obras Públicas, Transportes e Comunicações."
+  },
+  "221382809": {
+   "fragment_id": "221414413",
+   "type": 11,
+   "heading": "Artigo 4.º — Projectos de operações de loteamento urbano",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Projectos de operações de loteamento urbano\n\n1 - Os projectos de operações de loteamento urbano são elaborados por equipas multidisciplinares, que devem incluir pelo menos um arquitecto, um engenheiro civil, ou engenheiro técnico civil, e um arquitecto paisagista.\n\n2 - As equipas multidisciplinares de projectos de operações de loteamento dispõem de um coordenador técnico designado de entre os seus membros.\n\n3 - Exceptuam-se do disposto no n.º 1 as operações de loteamento urbano:\n\na) Que não ultrapassem, em número de fogos e em área, os limites para o efeito fixados em regulamento municipal;\n\nb) Que incidam em áreas abrangidas por plano de urbanização ou de pormenor;\n\nc) Cujos lotes confinem todos com arruamentos públicos existentes, não implicando alterações às redes viária pública e de infra-estruturas exteriores aos prédios.\n\n4 - Os projectos de operações de loteamento urbano previstos no número anterior podem ser elaborados, individualmente, por arquitecto, engenheiro civil, técnico urbanista ou engenheiro técnico civil.\n\n5 - Qualquer loteamento em zona de protecção a edifícios classificados deve ser elaborado por um arquitecto ou por equipa multidisciplinar, consoante a área esteja ou não abrangida por plano de urbanização, de pormenor ou de salvaguarda."
+  },
+  "221382810": {
+   "fragment_id": "221414414",
+   "type": 11,
+   "heading": "Artigo 5.º — Verificação das qualificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Verificação das qualificações\n\n1 - A verificação das qualificações oficiais fixadas pelo presente diploma incumbe à entidade competente para a respectiva elaboração, no caso dos planos municipais, e competente para o licenciamento, no caso das operações de loteamento.\n\n2 - As qualificações oficiais devem ser verificadas mediante a apresentação de:\n\na) Título emitido por associação pública profissional comprovando a inscrição, sempre que o exercício da profissão esteja legalmente dependente da inscrição nessas associações;\n\nb) Certificado de habilitações e currículo comprovativo, nos restantes casos.\n\n3 - A experiência profissional é comprovada pelo respectivo currículo."
+  },
+  "221382811": {
+   "fragment_id": "221414415",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\n1 - O presente diploma entra em vigor no dia 1 de Janeiro de 1996, sem prejuízo do disposto no número seguinte.\n\n2 - Até 1 de Julho de 1996, os projectos de operações de loteamento urbano em área não abrangida por plano de urbanização ou de pormenor podem ser elaborados nos termos do n.º 4 do artigo 4.º do presente diploma."
+  },
+  "221382813": {
+   "fragment_id": "221414413",
+   "type": 11,
+   "heading": "Artigo 4.º — Projectos de operações de loteamento urbano",
+   "in_force_from": "2009-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Lei n.º 31/2009 - Diário da República n.º 127/2009, Série I de 2009-07-03](https://diariodarepublica.pt/dr/detalhe/lei/31-2009-491903), em vigor a partir de 2009-11-01"
+   ],
+   "markdown": "###### Artigo 4.º — Projectos de operações de loteamento urbano\n\n1 - Os projectos de operações de loteamento urbano são elaborados por equipas multidisciplinares, que devem incluir pelo menos um arquitecto, um engenheiro civil, ou engenheiro técnico civil, e um arquitecto paisagista.\n\n2 - As equipas multidisciplinares de projectos de operações de loteamento dispõem de um coordenador técnico designado de entre os seus membros.\n\n3 - (Revogado)\n\n4 - (Revogado)\n\n5 - Qualquer loteamento em zona de protecção a edifícios classificados deve ser elaborado por um arquitecto ou por equipa multidisciplinar, consoante a área esteja ou não abrangida por plano de urbanização, de pormenor ou de salvaguarda.\n\n> Alterado pelo/a Artigo 28.º do/a [Lei n.º 31/2009 - Diário da República n.º 127/2009, Série I de 2009-07-03](https://diariodarepublica.pt/dr/detalhe/lei/31-2009-491903), em vigor a partir de 2009-11-01"
+  },
+  "221382812": {
+   "fragment_id": "221414416",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 31 de Agosto de 1995. - Aníbal António Cavaco Silva - Luís Francisco Valente de Oliveira - Maria Manuela Dias Ferreira Leite.\n\nPromulgado em 24 de Outubro de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 26 de Outubro de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

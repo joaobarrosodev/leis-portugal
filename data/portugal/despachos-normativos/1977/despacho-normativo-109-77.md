@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:251591:por
+title: Despacho Normativo n.º 109/77
+short_title: null
+summary: Estabelece o processamento da liquidação das pensões de invalidez e reforma extraordinária dos cidadãos considerados
+  deficientes das forças armadas, ao abrigo do Decreto-Lei n.º 43/76, de 20 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios da Defesa Nacional e das Finanças
+proposing_entity: null
+official_number: 109/77
+official_date: null
+publication_date: '1977-05-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/1977, Série I de 1977-05-10
+  number: '108'
+  series: I
+  supplement: null
+  pages: 1026 - 1026
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/05/10800/10261026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '251591'
+  dre_path: /dr/detalhe/despacho-normativo/109-1977-251591
+  internal: pt:dre:251591:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/109-1977-251591
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/109-1977-251591
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-05-10T00:00:00Z'
+integrity:
+  source_sha256: 05cbde990fdc383c618e54cf381d22e96e553be5602044f27d95c013e1bffd8f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-109-251591.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 109/77
+
+Considerando que quanto à remuneração base e fórmula sobre a qual as pensões de invalidez a militares são calculadas se verifica existir uma disparidade de critérios entre os militares incorporados por Portugal continental, aos quais se aplica desde 1 de Janeiro de 1973 (inclusive) o regime constante do Estatuto da Aposentação ([Decreto-Lei n.º 498/72](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1972-685188), de 9 de Dezembro), e os militares incorporados pelos ex-territórios ultramarinos, aos quais se aplica o regime estabelecido no [Decreto-Lei n.º 48273](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48273-1968-235278), de 12 de Março de 1968;
+
+Considerando que resulta de tal disparidade serem as pensões destes de montante inferior às daqueles;
+
+Considerando que o [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, quer no seu espírito, quer na sua letra, pretendeu regular de igual modo a situação dos militares que nos seus termos se deficientaram, independentemente do território pelo qual foram incorporados e/ou do local da sua residência;
+
+Considerando que, no caso específico dos cidadãos portugueses considerados deficientes das forças armadas (DFA), ao abrigo do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, este diploma revoga o [Decreto-Lei n.º 210/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1973-421985), de 9 de Maio, com excepção dos seus artigos 1.º e 7.º;
+
+Considerando que os encargos com as pensões de invalidez e reforma extraordinária, que eram suportados pelos orçamentos das ex-províncias ultramarinas, passaram a sê-lo pelo Orçamento Geral do Estado Português:
+
+Determina-se:
+
+Que a liquidação das pensões de invalidez e reforma extraordinária dos cidadãos considerados DFA, ao abrigo do [Decreto-Lei n.º 43/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-1976-506028), de 20 de Janeiro, que foram incorporados pelos ex-territórios ultramarinos e/ou neles tivessem tido, tenham ou venham a ter residência seja processada em igualdade de condições com os DFA incorporados em Portugal.
+
+Ministérios da Defesa Nacional e das Finanças, 4 de Março de 1977. - O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro das Finanças, Henrique Medina Carreira.

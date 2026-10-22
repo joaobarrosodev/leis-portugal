@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131908529:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-132334113",
+ "dre_path": "/dr/detalhe/lei/10-2020-131908529",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215195361",
+    "132294103",
+    "132294104",
+    "132294105"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:132332503:por",
+     "title": "Declaração de Retificação n.º 17/2020",
+     "published": "2020-04-23",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/17-2020-132332503",
+     "date": "2020-04-19"
+    }
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215195361",
+    "215195362",
+    "215195363",
+    "215195364",
+    "215195365"
+   ]
+  }
+ ],
+ "fragments": {
+  "215195361": {
+   "fragment_id": "132334114",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 10/2020\n\nde 18 de abril\n\nSumário: Regime excecional e temporário quanto às formalidades da citação e da notificação postal, no âmbito da pandemia da doença COVID-19.\n\nRegime excecional e temporário quanto às formalidades da citação e da notificação postal no âmbito da pandemia da doença COVID-19\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "132294103": {
+   "fragment_id": "132334115",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece um regime excecional e temporário quanto às formalidades da citação e da notificação postal previstas nas leis processuais e procedimentais e quanto aos serviços de envio de encomendas postais, atendendo à situação epidemiológica provocada pelo coronavírus SARS-CoV-2 e à doença COVID-19."
+  },
+  "132294104": {
+   "fragment_id": "132334116",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excecional\n\n1 - Fica suspensa a recolha da assinatura na entrega de correio registado e encomendas até à cessação da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19.\n\n2 - A recolha da assinatura é substituída pela identificação verbal e recolha do número do cartão de cidadão, ou de qualquer outro meio idóneo de identificação, mediante a respetiva apresentação e aposição da data em que a recolha foi efetuada.\n\n3 - Em caso de recusa de apresentação e fornecimento dos dados referidos no número anterior, o distribuidor do serviço postal lavra nota do incidente na carta ou aviso de receção e devolve-o à entidade remetente.\n\n4 - Nos casos previstos no número anterior, e qualquer que seja o processo ou procedimento, o ato de certificação da ocorrência vale como notificação, consoante os casos.\n\n5 - Sem prejuízo do disposto no número anterior, as citações e notificações realizadas através de remessa de carta registada com aviso de receção consideram-se efetuadas na data em que for recolhido o número de cartão de cidadão, ou de qualquer outro meio legal de identificação.\n\n6 - O disposto neste artigo aplica-se, com as necessárias adaptações, às citações e notificações que sejam realizadas por contacto pessoal."
+  },
+  "132294105": {
+   "fragment_id": "132334117",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "215195362": {
+   "fragment_id": "132334115",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece um regime excecional e temporário quanto às formalidades da citação e da notificação postal previstas nas leis processuais e procedimentais e quanto aos serviços de envio de encomendas postais, atendendo à situação epidemiológica provocada pelo coronavírus SARS-CoV-2 e à doença COVID-19.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195363": {
+   "fragment_id": "132334116",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Retificado pelo/a [Declaração de Retificação n.º 17/2020 - Diário da República n.º 80/2020, Série I de 2020-04-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-2020-132332503), em vigor a partir de 2020-04-19"
+   ],
+   "markdown": "###### Artigo 2.º — Regime excecional\n\n1 - Fica suspensa a recolha da assinatura na entrega de correio registado e encomendas até à cessação da situação excecional de prevenção, contenção, mitigação e tratamento da infeção epidemiológica por SARS-CoV-2 e da doença COVID-19.\n\n2 - A recolha da assinatura é substituída pela identificação verbal e recolha do número do cartão de cidadão, ou de qualquer outro meio idóneo de identificação, mediante a respetiva apresentação e aposição da data em que a recolha foi efetuada.\n\n3 - Em caso de recusa de apresentação e fornecimento dos dados referidos no número anterior, o distribuidor do serviço postal lavra nota do incidente na carta ou aviso de receção e devolve-o à entidade remetente.\n\n4 - Nos casos previstos no número anterior, e qualquer que seja o processo ou procedimento, o ato de certificação da ocorrência vale como citação ou notificação, consoante os casos.\n\n5 - Sem prejuízo do disposto no número anterior, as citações e notificações realizadas através de remessa de carta registada com aviso de receção consideram-se efetuadas na data em que for recolhido o número de cartão de cidadão, ou de qualquer outro meio legal de identificação.\n\n6 - O disposto neste artigo aplica-se, com as necessárias adaptações, às citações e notificações que sejam realizadas por contacto pessoal.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Retificado pelo/a [Declaração de Retificação n.º 17/2020 - Diário da República n.º 80/2020, Série I de 2020-04-23](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/17-2020-132332503), em vigor a partir de 2020-04-19"
+  },
+  "215195364": {
+   "fragment_id": "132334117",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195365": {
+   "fragment_id": "132334118",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 16 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 17 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 17 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113191322\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

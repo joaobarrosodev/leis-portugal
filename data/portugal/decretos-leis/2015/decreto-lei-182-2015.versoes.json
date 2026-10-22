@@ -1,0 +1,370 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70139962:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-124356183",
+ "dre_path": "/dr/detalhe/decreto-lei/182-2015-70139962",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-08-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853915109",
+    "124377500",
+    "124377501",
+    "124377502",
+    "124377503",
+    "124377504"
+   ]
+  },
+  {
+   "date": "2016-01-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73268682:por",
+     "title": "Resolução da Assembleia da República n.º 12/2016",
+     "published": "2016-01-22",
+     "dre_path": "/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "152942351",
+    "152942352",
+    "152942353",
+    "152942354",
+    "152942355",
+    "152942356",
+    "152942357"
+   ]
+  },
+  {
+   "date": "2020-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124346824:por",
+     "title": "Lei n.º 73/2019",
+     "published": "2019-09-02",
+     "dre_path": "/dr/detalhe/lei/73-2019-124346824"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "152942358",
+    "152942359",
+    "152942360",
+    "152942361",
+    "152942362",
+    "152942363",
+    "152942364"
+   ]
+  },
+  {
+   "date": "2024-04-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:853867964:por",
+     "title": "Lei n.º 28/2024",
+     "published": "2024-02-28",
+     "dre_path": "/dr/detalhe/lei/28-2024-853867964"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "853915109",
+    "853915110",
+    "853915111",
+    "853915112",
+    "853915113",
+    "853915114",
+    "853915115"
+   ]
+  }
+ ],
+ "fragments": {
+  "853915109": {
+   "fragment_id": "124356184",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2024-04-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 182/2015\n\nde 31 de agosto\n\nA Casa do Douro com a natureza de associação pública foi criada em 1932 com o objetivo de defender os interesses dos viticultores da Região Demarcada do Douro (RDD), assumiu posteriormente a natureza de associação pública, e foi extinta pelo Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nAtendendo à importância da existência de uma associação que pugne pela prossecução dos interesses dos viticultores da RDD traduzida, designadamente, na competência para indicar representantes da produção no Conselho Interprofissional do Instituto do Vinho do Douro e do Porto, I. P., assegurando a paridade de representação com as associações do comércio, foi desencadeado um procedimento de seleção de uma associação de direito privado e de inscrição facultativa, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nEncontrando-se assegurada a mencionada representatividade dos viticultores, é necessário proceder à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, conforme previsto no referido decreto-lei.\n\nA Casa do Douro com a natureza de associação pública acumulou uma avultada dívida ao Estado e a privados, criando uma situação de insustentabilidade financeira que limitava a sua capacidade de intervenção.\n\nDado que é premente acautelar os direitos dos credores, sob pena de se prejudicar gravemente o interesse público e o próprio interesse dos viticultores durienses, o presente decreto-lei define os procedimentos a adotar com vista à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "124377500": {
+   "fragment_id": "124356185",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define os procedimentos para a regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro."
+  },
+  "124377501": {
+   "fragment_id": "124356186",
+   "type": 11,
+   "heading": "Artigo 2.º — Designação do administrador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Designação do administrador\n\n1 - Por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, é designado um administrador para proceder à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública.\n\n2 - O despacho referido no número anterior fixa a remuneração do administrador e o prazo em que o procedimento de regularização das dívidas deve ser concluído.\n\n3 - Na data da produção de efeitos do despacho de designação do administrador, os membros dos órgãos da extinta Casa do Douro com a natureza de associação pública cessam todas as suas funções, nomeadamente as previstas no artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro, ficando privados de quaisquer poderes, bem como de conservar e ocupar os bens móveis e imóveis.\n\n4 - Os poderes e as funções referidos no número anterior passam a constituir obrigação do administrador."
+  },
+  "124377502": {
+   "fragment_id": "124356187",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - Os membros da direção da extinta Casa do Douro com a natureza de associação pública devem entregar ao administrador, no prazo de sete dias a contar da data da produção de efeitos do despacho referido no n.º 1 do artigo anterior, todos os bens, valores monetários e documentos, nomeadamente os de prestação de contas à data de 31 de dezembro de 2014, bem como os livros, os documentos e demais informação contabilística da associação e o inventário dos respetivos bens e direitos.\n\n2 - O administrador submete à aprovação dos membros do Governo responsáveis pelas áreas das finanças e da agricultura os documentos de prestação de contas referidos no número anterior, bem como o inventário de todos os bens e direitos da extinta Casa do Douro com natureza de associação pública, acompanhados de um relatório de auditoria elaborado por entidade independente.\n\n3 - O administrador procede à determinação do ativo, cobrando créditos e alienando bens e direitos, sem dependência de qualquer autorização, com exceção da alienação de vinhos, que deve ser objeto de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n4 - O disposto no número anterior não prejudica a celebração de acordo para regularização das dívidas perante os credores públicos, nos termos dos artigos 14.º e 15.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n5 - A conta final deve ser apresentada até 60 dias após o respetivo termo, em forma de conta corrente e acompanhada de todos os elementos comprovativos, para aprovação pelos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n6 - A aprovação dos documentos referidos nos n.os 2 e 5 é precedida de parecer da Inspeção-Geral de Finanças.\n\n7 - O saldo remanescente após o pagamento de todo o passivo reconhecido é entregue à associação de direito privado que sucedeu à extinta Casa do Douto com natureza de associação pública, nos termos previstos no n.º 4 do artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n8 - Com a aprovação final das contas cessam as funções e as responsabilidades do administrador."
+  },
+  "124377503": {
+   "fragment_id": "124356188",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposição final\n\n1 - Na medida do estritamente necessário, o Estado, através da Direção-Geral do Tesouro e Finanças, pode adiantar o montante destinado à satisfação de encargos com a regularização das dívidas, e com a remuneração do administrador, por recurso a dotação do capítulo 60 do Ministério das Finanças, que deve ser reembolsado logo que a referida regularização de dívidas o permita, com prioridade absoluta sobre quaisquer outros créditos, seja qual for a sua natureza ou as garantias de que gozem.\n\n2 - O administrador pode recorrer a serviços externos, mediante pedido fundamentado a submeter a autorização dos membros do Governo responsáveis pelas áreas das finanças e da agricultura."
+  },
+  "124377504": {
+   "fragment_id": "124356189",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "152942351": {
+   "fragment_id": "124356184",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2016-01-27",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "Decreto-Lei n.º 182/2015\n\nde 31 de agosto\n\nA Casa do Douro com a natureza de associação pública foi criada em 1932 com o objetivo de defender os interesses dos viticultores da Região Demarcada do Douro (RDD), assumiu posteriormente a natureza de associação pública, e foi extinta pelo Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nAtendendo à importância da existência de uma associação que pugne pela prossecução dos interesses dos viticultores da RDD traduzida, designadamente, na competência para indicar representantes da produção no Conselho Interprofissional do Instituto do Vinho do Douro e do Porto, I. P., assegurando a paridade de representação com as associações do comércio, foi desencadeado um procedimento de seleção de uma associação de direito privado e de inscrição facultativa, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nEncontrando-se assegurada a mencionada representatividade dos viticultores, é necessário proceder à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, conforme previsto no referido decreto-lei.\n\nA Casa do Douro com a natureza de associação pública acumulou uma avultada dívida ao Estado e a privados, criando uma situação de insustentabilidade financeira que limitava a sua capacidade de intervenção.\n\nDado que é premente acautelar os direitos dos credores, sob pena de se prejudicar gravemente o interesse público e o próprio interesse dos viticultores durienses, o presente decreto-lei define os procedimentos a adotar com vista à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942352": {
+   "fragment_id": "124356185",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2016-01-27",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define os procedimentos para a regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942353": {
+   "fragment_id": "124356186",
+   "type": 11,
+   "heading": "Artigo 2.º — Designação do administrador",
+   "in_force_from": "2016-01-27",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 2.º — Designação do administrador\n\n1 - Por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, é designado um administrador para proceder à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública.\n\n2 - O despacho referido no número anterior fixa a remuneração do administrador e o prazo em que o procedimento de regularização das dívidas deve ser concluído.\n\n3 - Na data da produção de efeitos do despacho de designação do administrador, os membros dos órgãos da extinta Casa do Douro com a natureza de associação pública cessam todas as suas funções, nomeadamente as previstas no artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro, ficando privados de quaisquer poderes, bem como de conservar e ocupar os bens móveis e imóveis.\n\n4 - Os poderes e as funções referidos no número anterior passam a constituir obrigação do administrador.\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942354": {
+   "fragment_id": "124356187",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": "2016-01-27",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - Os membros da direção da extinta Casa do Douro com a natureza de associação pública devem entregar ao administrador, no prazo de sete dias a contar da data da produção de efeitos do despacho referido no n.º 1 do artigo anterior, todos os bens, valores monetários e documentos, nomeadamente os de prestação de contas à data de 31 de dezembro de 2014, bem como os livros, os documentos e demais informação contabilística da associação e o inventário dos respetivos bens e direitos.\n\n2 - O administrador submete à aprovação dos membros do Governo responsáveis pelas áreas das finanças e da agricultura os documentos de prestação de contas referidos no número anterior, bem como o inventário de todos os bens e direitos da extinta Casa do Douro com natureza de associação pública, acompanhados de um relatório de auditoria elaborado por entidade independente.\n\n3 - O administrador procede à determinação do ativo, cobrando créditos e alienando bens e direitos, sem dependência de qualquer autorização, com exceção da alienação de vinhos, que deve ser objeto de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n4 - O disposto no número anterior não prejudica a celebração de acordo para regularização das dívidas perante os credores públicos, nos termos dos artigos 14.º e 15.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n5 - A conta final deve ser apresentada até 60 dias após o respetivo termo, em forma de conta corrente e acompanhada de todos os elementos comprovativos, para aprovação pelos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n6 - A aprovação dos documentos referidos nos n.os 2 e 5 é precedida de parecer da Inspeção-Geral de Finanças.\n\n7 - O saldo remanescente após o pagamento de todo o passivo reconhecido é entregue à associação de direito privado que sucedeu à extinta Casa do Douto com natureza de associação pública, nos termos previstos no n.º 4 do artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n8 - Com a aprovação final das contas cessam as funções e as responsabilidades do administrador.\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942355": {
+   "fragment_id": "124356188",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição final",
+   "in_force_from": "2016-01-27",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 4.º — Disposição final\n\n1 - Na medida do estritamente necessário, o Estado, através da Direção-Geral do Tesouro e Finanças, pode adiantar o montante destinado à satisfação de encargos com a regularização das dívidas, e com a remuneração do administrador, por recurso a dotação do capítulo 60 do Ministério das Finanças, que deve ser reembolsado logo que a referida regularização de dívidas o permita, com prioridade absoluta sobre quaisquer outros créditos, seja qual for a sua natureza ou as garantias de que gozem.\n\n2 - O administrador pode recorrer a serviços externos, mediante pedido fundamentado a submeter a autorização dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942356": {
+   "fragment_id": "124356189",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2016-01-27",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942357": {
+   "fragment_id": "124356190",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2016-01-27",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 22 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942358": {
+   "fragment_id": "124356184",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27",
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01"
+   ],
+   "markdown": "Decreto-Lei n.º 182/2015\n\nde 31 de agosto\n\nA Casa do Douro com a natureza de associação pública foi criada em 1932 com o objetivo de defender os interesses dos viticultores da Região Demarcada do Douro (RDD), assumiu posteriormente a natureza de associação pública, e foi extinta pelo Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nAtendendo à importância da existência de uma associação que pugne pela prossecução dos interesses dos viticultores da RDD traduzida, designadamente, na competência para indicar representantes da produção no Conselho Interprofissional do Instituto do Vinho do Douro e do Porto, I. P., assegurando a paridade de representação com as associações do comércio, foi desencadeado um procedimento de seleção de uma associação de direito privado e de inscrição facultativa, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nEncontrando-se assegurada a mencionada representatividade dos viticultores, é necessário proceder à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, conforme previsto no referido decreto-lei.\n\nA Casa do Douro com a natureza de associação pública acumulou uma avultada dívida ao Estado e a privados, criando uma situação de insustentabilidade financeira que limitava a sua capacidade de intervenção.\n\nDado que é premente acautelar os direitos dos credores, sob pena de se prejudicar gravemente o interesse público e o próprio interesse dos viticultores durienses, o presente decreto-lei define os procedimentos a adotar com vista à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01"
+  },
+  "152942359": {
+   "fragment_id": "124356185",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define os procedimentos para a regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942360": {
+   "fragment_id": "124356186",
+   "type": 11,
+   "heading": "Artigo 2.º — Designação do administrador",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 2.º — Designação do administrador\n\n1 - Por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, é designado um administrador para proceder à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública.\n\n2 - O despacho referido no número anterior fixa a remuneração do administrador e o prazo em que o procedimento de regularização das dívidas deve ser concluído.\n\n3 - Na data da produção de efeitos do despacho de designação do administrador, os membros dos órgãos da extinta Casa do Douro com a natureza de associação pública cessam todas as suas funções, nomeadamente as previstas no artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro, ficando privados de quaisquer poderes, bem como de conservar e ocupar os bens móveis e imóveis.\n\n4 - Os poderes e as funções referidos no número anterior passam a constituir obrigação do administrador.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942361": {
+   "fragment_id": "124356187",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - Os membros da direção da extinta Casa do Douro com a natureza de associação pública devem entregar ao administrador, no prazo de sete dias a contar da data da produção de efeitos do despacho referido no n.º 1 do artigo anterior, todos os bens, valores monetários e documentos, nomeadamente os de prestação de contas à data de 31 de dezembro de 2014, bem como os livros, os documentos e demais informação contabilística da associação e o inventário dos respetivos bens e direitos.\n\n2 - O administrador submete à aprovação dos membros do Governo responsáveis pelas áreas das finanças e da agricultura os documentos de prestação de contas referidos no número anterior, bem como o inventário de todos os bens e direitos da extinta Casa do Douro com natureza de associação pública, acompanhados de um relatório de auditoria elaborado por entidade independente.\n\n3 - O administrador procede à determinação do ativo, cobrando créditos e alienando bens e direitos, sem dependência de qualquer autorização, com exceção da alienação de vinhos, que deve ser objeto de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n4 - O disposto no número anterior não prejudica a celebração de acordo para regularização das dívidas perante os credores públicos, nos termos dos artigos 14.º e 15.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n5 - A conta final deve ser apresentada até 60 dias após o respetivo termo, em forma de conta corrente e acompanhada de todos os elementos comprovativos, para aprovação pelos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n6 - A aprovação dos documentos referidos nos n.os 2 e 5 é precedida de parecer da Inspeção-Geral de Finanças.\n\n7 - O saldo remanescente após o pagamento de todo o passivo reconhecido é entregue à associação de direito privado que sucedeu à extinta Casa do Douto com natureza de associação pública, nos termos previstos no n.º 4 do artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n8 - Com a aprovação final das contas cessam as funções e as responsabilidades do administrador.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942362": {
+   "fragment_id": "124356188",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição final",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 4.º — Disposição final\n\n1 - Na medida do estritamente necessário, o Estado, através da Direção-Geral do Tesouro e Finanças, pode adiantar o montante destinado à satisfação de encargos com a regularização das dívidas, e com a remuneração do administrador, por recurso a dotação do capítulo 60 do Ministério das Finanças, que deve ser reembolsado logo que a referida regularização de dívidas o permita, com prioridade absoluta sobre quaisquer outros créditos, seja qual for a sua natureza ou as garantias de que gozem.\n\n2 - O administrador pode recorrer a serviços externos, mediante pedido fundamentado a submeter a autorização dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942363": {
+   "fragment_id": "124356189",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "152942364": {
+   "fragment_id": "124356190",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 22 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "853915110": {
+   "fragment_id": "124356185",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2024-04-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04",
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei define os procedimentos para a regularização das dívidas da extinta Casa do Douro com a natureza de associação pública, nos termos previstos no Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "853915111": {
+   "fragment_id": "124356186",
+   "type": 11,
+   "heading": "Artigo 2.º — Designação do administrador",
+   "in_force_from": "2024-04-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04",
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 2.º — Designação do administrador\n\n1 - Por despacho dos membros do Governo responsáveis pelas áreas das finanças e da agricultura, é designado um administrador para proceder à regularização das dívidas da extinta Casa do Douro com a natureza de associação pública.\n\n2 - O despacho referido no número anterior fixa a remuneração do administrador e o prazo em que o procedimento de regularização das dívidas deve ser concluído.\n\n3 - Na data da produção de efeitos do despacho de designação do administrador, os membros dos órgãos da extinta Casa do Douro com a natureza de associação pública cessam todas as suas funções, nomeadamente as previstas no artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro, ficando privados de quaisquer poderes, bem como de conservar e ocupar os bens móveis e imóveis.\n\n4 - Os poderes e as funções referidos no número anterior passam a constituir obrigação do administrador.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "853915112": {
+   "fragment_id": "124356187",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento",
+   "in_force_from": "2024-04-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04",
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 3.º — Procedimento\n\n1 - Os membros da direção da extinta Casa do Douro com a natureza de associação pública devem entregar ao administrador, no prazo de sete dias a contar da data da produção de efeitos do despacho referido no n.º 1 do artigo anterior, todos os bens, valores monetários e documentos, nomeadamente os de prestação de contas à data de 31 de dezembro de 2014, bem como os livros, os documentos e demais informação contabilística da associação e o inventário dos respetivos bens e direitos.\n\n2 - O administrador submete à aprovação dos membros do Governo responsáveis pelas áreas das finanças e da agricultura os documentos de prestação de contas referidos no número anterior, bem como o inventário de todos os bens e direitos da extinta Casa do Douro com natureza de associação pública, acompanhados de um relatório de auditoria elaborado por entidade independente.\n\n3 - O administrador procede à determinação do ativo, cobrando créditos e alienando bens e direitos, sem dependência de qualquer autorização, com exceção da alienação de vinhos, que deve ser objeto de autorização prévia dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n4 - O disposto no número anterior não prejudica a celebração de acordo para regularização das dívidas perante os credores públicos, nos termos dos artigos 14.º e 15.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n5 - A conta final deve ser apresentada até 60 dias após o respetivo termo, em forma de conta corrente e acompanhada de todos os elementos comprovativos, para aprovação pelos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n6 - A aprovação dos documentos referidos nos n.os 2 e 5 é precedida de parecer da Inspeção-Geral de Finanças.\n\n7 - O saldo remanescente após o pagamento de todo o passivo reconhecido é entregue à associação de direito privado que sucedeu à extinta Casa do Douto com natureza de associação pública, nos termos previstos no n.º 4 do artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n8 - Com a aprovação final das contas cessam as funções e as responsabilidades do administrador.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "853915113": {
+   "fragment_id": "124356188",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposição final",
+   "in_force_from": "2024-04-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04",
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 4.º — Disposição final\n\n1 - Na medida do estritamente necessário, o Estado, através da Direção-Geral do Tesouro e Finanças, pode adiantar o montante destinado à satisfação de encargos com a regularização das dívidas, e com a remuneração do administrador, por recurso a dotação do capítulo 60 do Ministério das Finanças, que deve ser reembolsado logo que a referida regularização de dívidas o permita, com prioridade absoluta sobre quaisquer outros créditos, seja qual for a sua natureza ou as garantias de que gozem.\n\n2 - O administrador pode recorrer a serviços externos, mediante pedido fundamentado a submeter a autorização dos membros do Governo responsáveis pelas áreas das finanças e da agricultura.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "853915114": {
+   "fragment_id": "124356189",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": "2024-04-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04",
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  },
+  "853915115": {
+   "fragment_id": "124356190",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2024-04-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28",
+    "Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04",
+    "Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01",
+    "Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 16 de julho de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Maria de Assunção Oliveira Cristas Machado da Graça.\n\nPromulgado em 22 de agosto de 2015.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de agosto de 2015.\n\nPelo Primeiro-Ministro, Paulo Sacadura Cabral Portas, Vice-Primeiro-Ministro.\n\n> Revogado pelo/a Artigo 9.º do/a [Lei n.º 28/2024 - Diário da República n.º 42/2024, Série I de 2024-02-28](https://diariodarepublica.pt/dr/detalhe/lei/28-2024-853867964), em vigor a partir de 2024-04-28\n\n> Reposto em Vigor pelo/a [Acórdão do Tribunal Constitucional n.º 522/2021 - Diário da República n.º 193/2021, Série I de 2021-10-04](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/522-2021-172266453), produz efeitos a partir de 2021-10-04\n\n> Revogado pelo/a Artigo 8.º do/a [Lei n.º 73/2019 - Diário da República n.º 167/2019, Série I de 2019-09-02](https://diariodarepublica.pt/dr/detalhe/lei/73-2019-124346824), em vigor a partir de 2020-01-01\n\n> Revogado pelo/a [Resolução da Assembleia da República n.º 12/2016 - Diário da República n.º 15/2016, Série I de 2016-01-22](https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/12-2016-73268682), em vigor a partir de 2016-01-27"
+  }
+ }
+}

@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:120454165:por
+title: Resolução da Assembleia da República n.º 34/2019
+short_title: null
+summary: Consagra a memória dos três membros do Congresso da República Portuguesa mortos em consequência de combates na Grande
+  Guerra de 1914-1918
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 34/2019
+official_date: null
+publication_date: '2019-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 44/2019, Série I de 2019-03-04
+  number: '44'
+  series: I
+  supplement: null
+  pages: 1476 - 1476
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/03/04400/0147601476.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/34/2019/03/04/p/dre/pt/html
+  oj: null
+  dre: '120454165'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/34-2019-120454165
+  internal: pt:dre:120454165:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/34-2019-120454165
+  metadata_url: https://data.dre.pt/eli/resolassrep/34/2019/03/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/34-2019-120454165
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-03-04T00:00:00Z'
+integrity:
+  source_sha256: 2214be73e6d457a4dc2b0cfc37be3f4ab026c1a70da0f051e077a6c170b568a2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-34-120454165.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Parlamentar
+- Portugal
+- Comemoração
+- Guerra
+- Memorial
+- Assembleia da República
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 34/2019
+
+Consagra a memória dos três membros do Congresso da República Portuguesa mortos em consequência de combates na Grande Guerra de 1914-1918
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, consagrar a memória dos três parlamentares mortos na Grande Guerra de 1914-1918 - João Francisco de Sousa, José Afonso Palla e José Botelho de Carvalho Araújo - descerrando no Palácio de São Bento uma placa evocativa ou outro monumento comemorativo que perpetue os seus nomes e memória na História do parlamentarismo português.
+
+Aprovada em 8 de fevereiro de 2019.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**

@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:169928:por
+title: Despacho Normativo n.º 116/85
+short_title: null
+summary: Determina que o pedido de admissão à cotação nas Bolsas de Valores de Lisboa e do Porto das acções referidas no n.º
+  1 do artigo 1.º do Decreto-Lei n.º 253/82, de 29 de Junho, não dependa de autorização prévia do Ministro das Finanças
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças - Gabinete do Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro
+proposing_entity: null
+official_number: 116/85
+official_date: null
+publication_date: '1985-12-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 294/1985, Série I de 1985-12-21
+  number: '294'
+  series: I
+  supplement: null
+  pages: 4225 - 4225
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/12/29400/42254225.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '169928'
+  dre_path: /dr/detalhe/despacho-normativo/116-1985-169928
+  internal: pt:dre:169928:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/116-1985-169928
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/116-1985-169928
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-12-21T00:00:00Z'
+integrity:
+  source_sha256: 7f5d263fecb79b3806d0f0f194a4f345b9bdd7bf129b27d55fb85650f9d5d26e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-116-169928.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 116/85
+
+Nos termos do n.º 1 do artigo 1.º do [Decreto-Lei n.º 253/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1982-395513), de 29 de Junho, as entidades do sector público que, separada ou conjuntamente, detêm participações maioritárias em sociedades privadas, constituídas sob a forma de sociedades anónimas de responsabilidade limitada, devem solicitar a admissão à cotação nas Bolsas de Valores de Lisboa e do Porto das acções representativas da totalidade do capital social daquelas sociedades. Porque a alienação das participações públicas no capital de sociedades privadas está em geral sujeita ao regime definido pela [Portaria n.º 694/82](https://diariodarepublica.pt/dr/detalhe/portaria/694-1982-395279), de 14 de Julho, que faz depender este tipo de operações da observância de várias condições, entre as quais se conta a prévia autorização do Ministro das Finanças, e porque o referido regime também se aplica, embora com algumas especialidades, à transacção das participações públicas nas bolsas de valores, têm-se suscitado dúvidas sobre a possibilidade de as entidades referidas no citado artigo 1.º, n.º 1, do [Decreto-Lei n.º 253/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1982-395513) requererem a admissão à cotação das suas acções em sociedades privadas sem que, previamente e para tanto, tenham obtido a autorização ministerial exigida pela mencionada [Portaria n.º 694/82](https://diariodarepublica.pt/dr/detalhe/portaria/694-1982-395279).
+
+Estas dúvidas não têm razão de ser. De facto, o [Decreto-Lei n.º 253/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1982-395513) impõe a todas as entidades do sector público um dever bem preciso, para cujo incumprimento se comina uma especial sanção no artigo 4.º E da simples admissão à cotação que, aliás, e conforme o n.º 2 do artigo 2.º daquele decreto-lei, poderá ser ordenada pelo Ministro das Finanças, independentemente dos requisitos fixados pelo artigo 37.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro, resultará a possibilidade de transacção dos títulos nas bolsas. Consequentemente, a alienação, por transacção nas bolsas de valores, das participações públicas referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 253/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1982-395513) não está sujeita aos condicionalismos e formalismos da [Portaria n.º 694/82](https://diariodarepublica.pt/dr/detalhe/portaria/694-1982-395279).
+
+Nestes termos, determino o seguinte:
+
+1 - O pedido de admissão à cotação nas Bolsas de Valores de Lisboa e do Porto das acções referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 253/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/253-1982-395513), de 29 de Junho, não depende de autorização prévia do Ministro das Finanças.
+
+2 - A alienação das mesmas acções por transacções nas bolsas de valores não está sujeita ao regime estabelecido pela [Portaria n.º 694/82](https://diariodarepublica.pt/dr/detalhe/portaria/694-1982-395279), de 14 de Julho.
+
+3 - Os princípios constantes dos dois números anteriores são igualmente aplicáveis à alienação de acções não cotadas, transaccionadas nas bolsas de valores conforme se prevê no n.º 2 do artigo 52.º do [Decreto-Lei n.º 8/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-1974-283675), de 14 de Janeiro.
+
+Ministério das Finanças, 25 de Novembro de 1985. - O Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro, José Alberto Tavares Moreira.

@@ -1,0 +1,127 @@
+---
+schema_version: '1.0'
+id: pt:dre:320078:por
+title: Decreto-Lei n.º 47/2001
+short_title: null
+summary: Prevê a possibilidade de as Regiões Autónomas adoptarem medidas específicas no âmbito do regime jurídico da actividade
+  apícola, aprovado pelo Decreto-Lei n.º 37/2000, de 14 de Março
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 47/2001
+official_date: null
+publication_date: '2001-02-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 35/2001, Série I-A de 2001-02-10
+  number: '35'
+  series: I
+  supplement: null
+  pages: 765 - 765
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/02/035a00/07650765.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/47/2001/02/10/p/dre/pt/html
+  oj: null
+  dre: '320078'
+  dre_path: /dr/detalhe/decreto-lei/47-2001-320078
+  internal: pt:dre:320078:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2001-320078
+  metadata_url: https://data.dre.pt/eli/dec-lei/47/2001/02/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2001-320078
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-02-10T00:00:00Z'
+integrity:
+  source_sha256: 68dff5b9470d14605abcdf09b45e15fe9458c1c2169be05332d7e5f5b0473feb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-47-320078.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Regional
+- Direção Geral de Veterinária
+- Definição de Competências
+- Apicultura
+- Madeira.região Autónoma
+- Regime Jurídico
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/37/2000/03/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/37/2000/03/14/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47/2001
+
+de 10 de Fevereiro
+
+O [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março, definiu as bases gerais do regime jurídico da actividade apícola.
+
+Dadas as características e condicionalismos dos arquipélagos da Madeira e dos Açores e a sua estrutura organizacional, revela-se necessário prever a possibilidade de, pela via regulamentar, as Regiões Autónomas adoptarem medidas específicas para os respectivos territórios, em função das suas especificidades.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único — Regiões Autónomas
+
+1 - Nas Regiões Autónomas dos Açores e da Madeira a localização, densidade e implantação dos apiários abrangidos pelo [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março, são objecto de regulamentação através de diploma dos respectivos órgãos de governo próprio, tendo em conta as características específicas de cada Região.
+
+2 - As competências previstas nos artigos 4.º, 7.º e 10.º do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março, são exercidas pelos organismos competentes das respectivas administrações regionais.
+
+3 - Os organismos referidos no número anterior comunicarão à Direcção-Geral de Veterinária, na qualidade de autoridade veterinária nacional, os registos e declarações de existências previstos no artigo 4.º do [Decreto-Lei n.º 37/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37-2000-411874), de 14 de Março.
+
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Vítor Manuel da Silva Santos - Luís Manuel Capoulas Santos.
+
+**Promulgado em 18 de Janeiro de 2001.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 25 de Janeiro de 2001.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

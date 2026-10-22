@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:2826714:por
+title: Portaria n.º 543/2008
+short_title: null
+summary: Autorização ao Instituto da Segurança Social, I. P., para repartição de encargos, em 2007 e 2008, relativos a contratos
+  para aquisição do serviço de operação de contact center
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e do Trabalho e da Solidariedade Social
+proposing_entity: null
+official_number: 543/2008
+official_date: null
+publication_date: '2008-05-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 102/2008, Série II de 2008-05-28
+  number: '102'
+  series: II
+  supplement: null
+  pages: 23804 - 23804
+  pdf_url: https://files.diariodarepublica.pt/2s/2008/05/102000000/2380423804.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2826714'
+  dre_path: /dr/detalhe/portaria/543-2008-2826714
+  internal: pt:dre:2826714:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/543-2008-2826714
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/543-2008-2826714
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-05-28T00:00:00Z'
+integrity:
+  source_sha256: df290517ec1d1d6e37af142f2da78511cf839bd5c7d91ff486baa43267644be4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-543-2826714.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 543/2008
+
+Considerando que o Plano de Acção 2007 do Instituto da Segurança Social, I. P., estabeleceu o objectivo estratégico do 2.º nível «4.5 - Melhorar o atendimento telefónico» e a meta «4.5.1 - Dimensionar e quantificar (custos e benefícios) um projecto de contact center para o ISS, I. P.»;
+
+Considerando que, no âmbito do referido projecto, pretende-se proceder à contratação dos serviços de operação do contact center, em regime de outsourcing;
+
+Considerando que para assegurar a concretização do projecto foi criada, mediante deliberação de 2 de Novembro de 2007 do conselho directivo do Instituto da Segurança Social, I. P., a equipa de projecto contact center;
+
+Considerando que o valor estimado da despesa é de (euro) 3.625 123;
+
+Considerando que o contrato a celebrar será válido pelo período de 14 meses;
+
+Nos termos do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho, torna-se necessária a publicação de portaria conjunta dos Ministros de Estado e das Finanças e do Trabalho e da Solidariedade Social uma vez que a respectiva despesa dá lugar a encargo orçamental em mais de um ano económico.
+
+Assim:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e do Trabalho e da Solidariedade Social, o seguinte:
+
+1 - Fica o Instituto da Segurança Social, I. P. (ISS, I. P.), autorizado à repartição de encargos relativos ao(s) contrato(s) a celebrar com a(s) entidade(s) a quem vier a ser adjudicado o concurso público, de âmbito comunitário, para aquisição do serviço de operação do contact center, escalonados na forma abaixo indicada:
+
+Ano económico de 2008 - (euro) 540 431;
+
+Ano económico de 2009 - (euro) 3 084 692.
+
+2 - A despesa emergente do contrato a celebrar relativa ao corrente ano económico tem cabimento no orçamento de administração do ISS, I. P.
+
+3 - Fica ainda o ISS, I. P., autorizado, se tal se mostrar necessário, a transferir os eventuais saldos para os anos seguintes, bem como a proceder à renovação do(s) contrato(s) que vier(em) a ser celebrado(s), nos termos da alínea g) do n.º 1 do artigo 86.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de Junho.
+
+12 de Março de 2008. - O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - Pelo Ministro do Trabalho e da Solidariedade Social, Pedro Manuel Dias de Jesus Marques, Secretário de Estado da Segurança Social.

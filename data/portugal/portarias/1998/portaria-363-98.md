@@ -1,0 +1,787 @@
+---
+schema_version: '1.0'
+id: pt:dre:479396:por
+title: Portaria n.º 363/98
+short_title: null
+summary: Equipara ao grau de bacharel os cursos das Escolas Superiores de Tecnologia da Saúde de Coimbra, Lisboa e Porto e
+  da Escola Superior de Saúde do Alcoitão
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios da Educação e da Saúde
+proposing_entity: null
+official_number: 363/98
+official_date: null
+publication_date: '1998-06-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/1998, Série I-B de 1998-06-26
+  number: '145'
+  series: I
+  supplement: null
+  pages: 2877 - 2881
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/06/145b00/28772881.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/363/1998/06/26/p/dre/pt/html
+  oj: null
+  dre: '479396'
+  dre_path: /dr/detalhe/portaria/363-1998-479396
+  internal: pt:dre:479396:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-1998-479396
+  metadata_url: https://data.dre.pt/eli/port/363/1998/06/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/363-1998-479396
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-04-05T00:00:00Z'
+integrity:
+  source_sha256: 88ba2f5356a9e71f3b0204b1a7c6d9b6a5639c605f44ec5804bf159e755ac60a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-363-479396.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Bacharelato
+- Formação Profissional
+- Plano de Estudos
+- Ensino Superior Politécnico
+- Escola Superior de Saúde do Alcoitão
+- Escola Técnica dos Serviços de Saúde
+- Lisboa
+- Coimbra
+- Porto
+relationships:
+- type: amended_by
+  target: pt:dre:138814:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/280/1997/10/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/280/1997/10/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/415/1993/12/23/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 363/98
+
+de 26 de Junho
+
+Sob proposta dos conselhos científicos das Escolas Superiores de Tecnologia da Saúde de Coimbra, Lisboa e Porto e da Escola Superior de Saúde do Alcoitão;
+
+Ao abrigo do disposto no artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro, conjugado com o artigo 2.º deste diploma:
+
+Manda o Governo, pelos Ministros da Educação e da Saúde, o seguinte:
+
+1.º
+
+Cursos equiparados ao grau de bacharel
+
+São equiparados ao grau de bacharel, ao abrigo do artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro, os cursos constantes dos anexos I a IV a esta portaria, nos termos neles referidos.
+
+2.º
+
+Registo
+
+O registo das equiparações ao grau de bacharel concedidas aos cursos das escolas técnicas dos serviços de saúde e da Escola de Reabilitação do Alcoitão, ao abrigo do artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), realiza-se nos termos dos números seguintes da presente portaria.
+
+3.º
+
+Requerimento
+
+O registo é requerido pelo titular do diploma, ou pelo seu representante legal, à escola superior que sucedeu àquela que lhe concedeu o diploma:
+
+a) Escola Superior de Saúde do Alcoitão para os diplomas emitidos pela Escola de Reabilitação do Alcoitão;
+
+b) Escola Superior de Tecnologia da Saúde de Coimbra para os diplomas emitidos pela Escola Técnica dos Serviços de Saúde de Coimbra;
+
+c) Escola Superior de Tecnologia da Saúde de Lisboa para os diplomas emitidos pela Escola Técnica dos Serviços de Saúde de Lisboa;
+
+d) Escola Superior de Tecnologia da Saúde do Porto para os diplomas emitidos pela Escola Técnica dos Serviços de Saúde do Porto.
+
+4.º
+
+Instrução do pedido
+
+O pedido de registo é instruído obrigatória e exclusivamente com o original do diploma.
+
+5.º
+
+Verificação de autenticidade
+
+Os serviços da escola verificam a autenticidade do diploma.
+
+6.º
+
+Número de registo
+
+Aos registos realizados nos termos desta portaria é atribuída, em cada escola, uma numeração sequencial.
+
+7.º
+
+Registo
+
+1 - O registo é averbado no verso do original do diploma.
+
+2 - O averbamento, que pode ser realizado por meios manuais ou mecânicos, reveste a forma seguinte:
+
+«Nos termos do disposto no artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro, este diploma confere ao seu titular os direitos inerentes ao grau de bacharel.
+
+Registado na escola superior de ... (nome da escola) com o n.º ... (número a que se refere o n.º 6.º desta portaria).
+
+... (localidade sede da escola que efectua o registo), em ... (data do registo).
+
+O director (assinatura do director, sobre a qual é aposto selo branco, ou, não havendo, o carimbo a óleo).»
+
+8.º
+
+Devolução do original
+
+Após o registo, é realizada uma cópia do diploma, verso e anverso, que fica arquivada juntamente com o requerimento, sendo o original devolvido ao requerente.
+
+9.º
+
+Prazo do registo
+
+O registo deve ser realizado no prazo de 15 dias úteis contado a partir da recepção do requerimento na escola.
+
+10.º
+
+Comunicação
+
+Até ao dia 15 de cada mês, o director de cada escola remete ao Departamento de Recursos Humanos da Saúde e ao Departamento do Ensino Superior uma informação estatística indicando, para cada curso e ano de conclusão, o número de registos efectuados até ao final do mês anterior.
+
+11.º
+
+Entrada em vigor
+
+Esta portaria entra em vigor no dia imediato ao da sua publicação.
+
+Ministérios da Educação e da Saúde
+
+**Assinada em 26 de Maio de 1998.**
+
+Pelo Ministro da Educação, Alfredo Jorge Silva, Secretário de Estado do Ensino Superior. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.
+
+## ANEXO I — Escola Técnica dos Serviços de Saúde de Lisboa
+
+Cursos equiparados ao grau de bacharel, ao abrigo do n.º 3 do artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro.
+
+Iniciados no ano lectivo de 1980-1981:
+
+Curso de:
+
+Cardiopneumografia;
+
+Dietista;
+
+Fisioterapia;
+
+Neurofisiografia;
+
+Ortopedista;
+
+Preparador de Anatomia Patológica:
+
+Preparador de Laboratório de Análises Clínicas e de Saúde Pública;
+
+Preparador de Medicina Nuclear;
+
+Radiologia;
+
+Radioterapia.
+
+Iniciados no ano lectivo de 1981-1982:
+
+Curso de:
+
+Audiometria;
+
+Cardiopneumografia;
+
+Fisioterapia;
+
+Ortopróteses;
+
+Preparador de Anatomia Patológica;
+
+Preparador de Laboratório de Análises Clínicas e de Saúde Pública;
+
+Preparador de Laboratório Farmacêutico;
+
+Radiologia.
+
+Iniciados no ano lectivo de 1982-1983:
+
+Curso de:
+
+Anatomia Patológica;
+
+Dietista;
+
+Fisioterapia;
+
+Neurofisiografia;
+
+Preparador de Análises Clínicas e Saúde Pública;
+
+Radiologia.
+
+Iniciados no ano lectivo de 1983-1984:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Audiometria;
+
+Técnico de Farmácia;
+
+Técnico de Ortopróteses;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1984-1985:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Ortóptica;
+
+Técnico de Radiologia;
+
+Técnico de Radioterapia.
+
+Iniciados no ano lectivo de 1985-1986:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Farmácia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1986-1987:
+
+Curso de:
+
+Dietista;
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Farmácia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1987-1988:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Farmácia;
+
+Técnico de Radiologia;
+
+Técnico de Radioterapia.
+
+Iniciados no ano lectivo de 1988-1989:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Dietética;
+
+Técnico de Farmácia;
+
+Técnico de Medicina Nuclear;
+
+Técnico de Ortóptica;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1989-1990:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1990-1991:
+
+Curso de:
+
+Cardiopneumografia;
+
+Dietética;
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1991-1992:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Dietética;
+
+Técnico de Higiene e Saúde Ambiental;
+
+Técnico de Radiologia.
+
+## ANEXO II — Escola Técnica dos Serviços de Saúde de Coimbra
+
+Cursos equiparados ao grau de bacharel, ao abrigo do n.º 3 do artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro.
+
+Iniciados no ano lectivo de 1980-1981:
+
+Curso de:
+
+Anatomia Patológica;
+
+Cardiografistas;
+
+Dietistas (ou de Dietologia);
+
+Preparador de Análises Clínicas;
+
+Radiografistas.
+
+Iniciados no ano lectivo de 1981-1982:
+
+Curso de:
+
+Cardiopneumografia;
+
+Dietologia;
+
+Preparador de Análises e Saúde Pública;
+
+Preparador de Anatomia Patológica;
+
+Preparador de Medicina Nuclear;
+
+Radiologia;
+
+Radioterapia.
+
+Iniciados no ano lectivo de 1982-1983:
+
+Curso de:
+
+Cardiopneumografia;
+
+Dietologia;
+
+Preparador de Análises Clínicas;
+
+Preparador de Anatomia Patológica;
+
+Radiografistas.
+
+Iniciados no ano lectivo de 1983-1984:
+
+Curso de:
+
+Dietologia;
+
+Radiografistas;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Farmácia.
+
+Iniciados no ano lectivo de 1984-1985:
+
+Curso de:
+
+Dietologia;
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Farmácia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1985-1986:
+
+Curso de:
+
+Dietista;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Farmácia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1986-1987:
+
+Curso de:
+
+Dietética;
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Farmácia;
+
+Técnico de Ortóptica;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1987-1988:
+
+Curso de:
+
+Dietética;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1988-1989:
+
+Curso de:
+
+Dietética;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Farmácia;
+
+Técnico de Ortóptica;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1989-1990:
+
+Curso de:
+
+Dietética;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Neurofisiografia;
+
+Técnico de Radiologia.
+
+Iniciados ano lectivo de 1990-1991:
+
+Curso de:
+
+Dietética;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Cardiopneumografia;
+
+Fisioterapia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1991-1992:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Farmácia;
+
+Técnico de Higiene e Saúde Ambiental;
+
+Técnico de Radiologia.
+
+## ANEXO III — Escola Técnica dos Serviços de Saúde do Porto
+
+Cursos equiparados ao grau de bacharel, ao abrigo do n.º 3 do artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro.
+
+Iniciados no ano lectivo de 1980-1981:
+
+Curso de:
+
+Anatomia Patológica;
+
+Cardiopneumografia;
+
+Dietologia;
+
+Neurofisiografia;
+
+Preparador de Análises Clínicas;
+
+Radiologia.
+
+Iniciados no ano lectivo de 1981-1982:
+
+Curso de:
+
+Cardiopneumografia;
+
+Fisioterapia;
+
+Ortóptica;
+
+Preparador de Anatomia Patológica;
+
+Radiologia;
+
+Radioterapia.
+
+Iniciados no ano lectivo de 1982-1983:
+
+Curso de:
+
+Cardiopneumografia;
+
+Dietética;
+
+Ortóptica;
+
+Preparador de Análises Clínicas;
+
+Radiologia.
+
+Iniciados no ano lectivo de 1983-1984:
+
+Curso de:
+
+Fisioterapia;
+
+Neurofisiografia;
+
+Preparador de Análises Clínicas e Saúde Pública;
+
+Preparador de Anatomia Patológica, Citológica e Tanatológica;
+
+Preparador de Laboratório Farmacêutico;
+
+Radiologia.
+
+Iniciados no ano lectivo de 1984-1985:
+
+Curso de:
+
+Dietética;
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Audiometria;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Farmácia;
+
+Técnico de Medicina Nuclear;
+
+Técnico de Radiologia;
+
+Terapia da Fala;
+
+Terapia Ocupacional.
+
+Iniciados no ano lectivo de 1985-1986:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Radiologia;
+
+Técnico de Radioterapia.
+
+Iniciados no ano lectivo de 1986-1987:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Farmácia;
+
+Técnico de Ortopróteses;
+
+Técnico de Radiologia;
+
+Terapia Ocupacional.
+
+Iniciados no ano lectivo de 1987-1988:
+
+Curso de:
+
+Dietética;
+
+Fisioterapia;
+
+Técnico de Farmácia.
+
+Iniciados no ano lectivo de 1988-1989:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Anatomia Patológica, Citológica e Tanatológica;
+
+Técnico de Farmácia;
+
+Técnico de Radiologia;
+
+Técnico de Radioterapia;
+
+Terapia da Fala;
+
+Terapia Ocupacional.
+
+Iniciados no ano lectivo de 1989-1990:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Radiologia.
+
+Iniciados ano lectivo de 1990-1991:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Cardiopneumografia;
+
+Técnico de Radiologia.
+
+Iniciados no ano lectivo de 1991-1992:
+
+Curso de:
+
+Fisioterapia;
+
+Técnico de Análises Clínicas e Saúde Pública;
+
+Técnico de Higiene e Saúde Ambiental;
+
+Técnico de Radiologia;
+
+Técnico de Radioterapia.
+
+## ANEXO IV — Escola de Reabilitação do Alcoitão
+
+Cursos equiparados ao grau de bacharel, ao abrigo do n.º 3 do artigo 9.º do [Decreto-Lei n.º 415/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/415-1993-541444), de 23 de Dezembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764), de 15 de Outubro, conjugado com o artigo 2.º do [Decreto-Lei n.º 280/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/280-1997-667764).
+
+Iniciados a partir do ano lectivo de 1966-1967:
+
+Curso de:
+
+Fisioterapia;
+
+Terapia da Fala;
+
+Terapia Ocupacional.

@@ -1,0 +1,105 @@
+---
+schema_version: '1.0'
+id: pt:dre:547810:por
+title: Portaria n.º 830/89
+short_title: null
+summary: Altera a denominação da Cooperativa de Ensino Superior Artístico, Árvore I para Escola Superior Artística do Porto
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 830/89
+official_date: null
+publication_date: '1989-09-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 217/1989, Série I de 1989-09-20
+  number: '217'
+  series: I
+  supplement: null
+  pages: 4194 - 4194
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/09/21700/41944194.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '547810'
+  dre_path: /dr/detalhe/portaria/830-1989-547810
+  internal: pt:dre:547810:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-1989-547810
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-1989-547810
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-09-20T00:00:00Z'
+integrity:
+  source_sha256: 87661514a5e2fb43709a76cb65d628f8c0540e76eda45242970c4d7c37a5648d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-830-547810.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 830/89
+
+de 20 de Setembro
+
+Dadas as alterações introduzidas nos estatutos da Cooperativa de Ensino Superior Artístico, Árvore I, C. R. L., pelas quais passou a denominar-se Cooperativa de Ensino Superior Artístico do Porto, C. R. L.;
+
+Considerando que, em consequência das mesmas alterações, foi autonomizada a denominação do estabelecimento de ensino superior de que é titular aquela Cooperativa, e cujo funcionamento foi autorizado pelo Despacho n.º 129/MEC/86, de 21 de Junho, passando aquele estabelecimento a ser designado por Escola Superior Artística do Porto;
+
+Tendo em conta que foram cumpridos todos os requisitos legais respeitantes ao processo de alteração e registo da denominação da Cooperativa, bem como do estabelecimento de ensino superior de que é titular;
+
+Ao abrigo e nos termos dos artigos 16.º, n.º 1, 18.º, n.º 1, e 25.º do [Decreto-Lei n.º 271/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/271-1989-618546), de 19 de Agosto:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º É reconhecida a Escola Superior Artística do Porto, de que é titular a Cooperativa de Ensino Superior Artístico do Porto, C. R. L., novas denominações atribuídas ao estabelecimento e entidade titular, anteriormente denominados «Cooperativa de Ensino Superior Artístico, Árvore I».
+
+2.º As autorizações, reconhecimentos e condições estabelecidos pelo Despacho n.º 129/MEC/86, de 21 de Junho, publicado no Diário da República, 2.ª série, n.º 146, 2.º suplemento, de 28 de Junho de 1986, referentes quer ao estabelecimento de ensino Cooperativa de Ensino Superior Artístico, Árvore I, quer à Cooperativa sua titular, consideram-se feitas, respectivamente, em nome da Escola Superior Artística do Porto e da Cooperativa de Ensino Superior Artístico do Porto, C. R. L.
+
+Ministério da Educação.
+
+**Assinada em 4 de Setembro de 1989.**
+
+**O Ministro da Educação, Roberto Artur da Luz Carneiro.**

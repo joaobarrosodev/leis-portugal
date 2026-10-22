@@ -1,0 +1,1009 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:191100:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2012-874306676",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/34-2012-191100",
+ "source_lastmod": "2024-08-02",
+ "versions": [
+  {
+   "date": "2012-11-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "874301868",
+    "874301869",
+    "874301870",
+    "874301871",
+    "874301872",
+    "874301874",
+    "874303875",
+    "874303876",
+    "874303877",
+    "874303878",
+    "874303879",
+    "874303880",
+    "874303881",
+    "874303882",
+    "874303883",
+    "874303884",
+    "874303885",
+    "874303886",
+    "874303887",
+    "874303888",
+    "874303889",
+    "874303890",
+    "874303891",
+    "874303892",
+    "874303893",
+    "874303894",
+    "874303895",
+    "874303896",
+    "874303897",
+    "874303898",
+    "874303899",
+    "874303900",
+    "874303901",
+    "874303902",
+    "874303903",
+    "874303904",
+    "874303905",
+    "874303906",
+    "874303907",
+    "874303908",
+    "874303909",
+    "874303910",
+    "874303911",
+    "874303912",
+    "874303913",
+    "874303914",
+    "874303915"
+   ]
+  },
+  {
+   "date": "2015-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70007184:por",
+     "title": "Decreto Legislativo Regional n.º 6/2015/M",
+     "published": "2015-08-13",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2015-70007184"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "874301868",
+    "874301869",
+    "874301870",
+    "874301871",
+    "874301872",
+    "874301873",
+    "874301874",
+    "874303875",
+    "874303876",
+    "874303877",
+    "874303878",
+    "874303879",
+    "874303880",
+    "874303881",
+    "874303882",
+    "874303982",
+    "874303884",
+    "874303885",
+    "874303886",
+    "874303887",
+    "874303888",
+    "874303889",
+    "874303890",
+    "874303891",
+    "874303892",
+    "874303893",
+    "874303894",
+    "874303895",
+    "874303896",
+    "874303897",
+    "874303898",
+    "874303899",
+    "874303900",
+    "874303901",
+    "874303902",
+    "874303903",
+    "874303904",
+    "874303905",
+    "874303906",
+    "874303907",
+    "874303908",
+    "874303909",
+    "874303910",
+    "874303911",
+    "874303912",
+    "874303913",
+    "874303914",
+    "874303915"
+   ]
+  },
+  {
+   "date": "2016-07-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74953322:por",
+     "title": "Decreto Legislativo Regional n.º 29/2016/M",
+     "published": "2016-07-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/29-2016-74953322"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 24.º-A",
+    "Adita Artigo 28.º-A",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 29.º"
+   ],
+   "fragments": [
+    "874301868",
+    "874301869",
+    "874301870",
+    "874301871",
+    "874301872",
+    "874301873",
+    "874301874",
+    "874304006",
+    "874303876",
+    "874303983",
+    "874303984",
+    "874303985",
+    "874304007",
+    "874303881",
+    "874303986",
+    "874303982",
+    "874303987",
+    "874303885",
+    "874303988",
+    "874303989",
+    "874304008",
+    "874303990",
+    "874304009",
+    "874303991",
+    "874303992",
+    "874304010",
+    "874303894",
+    "874304011",
+    "874303993",
+    "874303897",
+    "874303898",
+    "874304012",
+    "874303900",
+    "874303901",
+    "874303902",
+    "874303903",
+    "874303904",
+    "874303905",
+    "874304013",
+    "874303907",
+    "874303994",
+    "874304015",
+    "874304016",
+    "874304017",
+    "874304018",
+    "874304019",
+    "874304021",
+    "874303913",
+    "874303995",
+    "874303915"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537584:por",
+     "title": "Decreto Legislativo Regional n.º 26/2018/M",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2018-117537584"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 17.º-A"
+   ],
+   "fragments": [
+    "874301868",
+    "874301869",
+    "874301870",
+    "874301871",
+    "874301872",
+    "874301873",
+    "874301874",
+    "874304006",
+    "874303876",
+    "874303983",
+    "874303984",
+    "874303985",
+    "874304007",
+    "874303881",
+    "874303986",
+    "874303982",
+    "874303987",
+    "874303885",
+    "874303988",
+    "874303989",
+    "874304008",
+    "874303990",
+    "874304009",
+    "874303991",
+    "874303992",
+    "874304010",
+    "874303894",
+    "874304011",
+    "874303993",
+    "874303897",
+    "874303898",
+    "874304022",
+    "874304012",
+    "874303900",
+    "874303901",
+    "874303902",
+    "874303903",
+    "874303904",
+    "874303905",
+    "874304013",
+    "874303907",
+    "874303994",
+    "874304015",
+    "874304016",
+    "874304017",
+    "874304018",
+    "874304019",
+    "874304021",
+    "874303913",
+    "874303995",
+    "874303915"
+   ]
+  },
+  {
+   "date": "2024-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:873755644:por",
+     "title": "Decreto Legislativo Regional n.º 6/2024/M",
+     "published": "2024-07-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2024-873755644"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º-A"
+   ],
+   "fragments": [
+    "874301868",
+    "874301869",
+    "874301870",
+    "874301871",
+    "874301872",
+    "874301873",
+    "874301874",
+    "874304006",
+    "874303876",
+    "874303983",
+    "874303984",
+    "874303985",
+    "874304007",
+    "874303881",
+    "874303986",
+    "874303982",
+    "874303987",
+    "874303885",
+    "874303988",
+    "874303989",
+    "874304008",
+    "874303990",
+    "874304009",
+    "874303991",
+    "874303992",
+    "874304010",
+    "874303894",
+    "874304011",
+    "874303993",
+    "874303897",
+    "874303898",
+    "874304023",
+    "874304012",
+    "874303900",
+    "874303901",
+    "874303902",
+    "874303903",
+    "874303904",
+    "874303905",
+    "874304013",
+    "874303907",
+    "874303994",
+    "874304015",
+    "874304016",
+    "874304017",
+    "874304018",
+    "874304019",
+    "874304021",
+    "874303913",
+    "874303995",
+    "874303915"
+   ]
+  }
+ ],
+ "fragments": {
+  "874301868": {
+   "fragment_id": "874306677",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 34/2012/M\n\nAprova a orgânica do Instituto de Segurança Social da Madeira, IP-RAM\n\nConsiderando que desde a aprovação da orgânica do Centro de Segurança Social da Madeira (CSSM), pelo Decreto Legislativo Regional n.º 26/2004/M, de 20 de agosto, ocorreram várias e significativas alterações legislativas, nomeadamente nas bases gerais do sistema de segurança social, na Lei-Quadro dos Institutos Públicos e no Estatuto do Gestor Público, as quais reforçaram a natureza jurídica e especificidades das instituições públicas de segurança social;\n\nConsiderando que o atual contexto de vigência do programa de assistência económica e financeira a Portugal (PAEF) impõe a necessidade de consolidação orçamental, de racionalização e de redução da despesa pública, tendo repercussão sobre a estrutura, organização e competências da instituição de segurança social na Região Autónoma da Madeira, tornando-se assim imperiosa a reestruturação deste Instituto;\n\nConsiderando que, por outro lado, na sequência do Decreto Regulamentar Regional n.º 8/2011/M, de 14 de novembro, que aprova a nova estrutura orgânica do Governo Regional da Madeira, o Decreto Regulamentar Regional n.º 7/2012/M, de 1 de junho, aprova a nova estrutura orgânica da Secretaria Regional dos Assuntos Sociais (SRAS), entidade que tutela a área da segurança social na RAM, e institui o Instituto de Segurança Social da Madeira, IP-RAM, como um dos serviços personalizados da SRAS, estabelecendo que a respetiva estrutura orgânica deverá constar de diploma regulamentador próprio e ulterior:\n\nNeste sentido, torna-se necessário proceder à reestruturação orgânica, com vista à adequação aos regimes jurídicos em vigor e com o objetivo de reforçar a modernização administrativa, reafirmar as competências regionais relativas aos contribuintes com sede e aos beneficiários com residência na Região Autónoma da Madeira, concretizar a racionalização estrutural com a adoção de um novo modelo orgânico que promova a eficiência, a flexibilidade e eficácia de atuação dos serviços, numa ótica de qualidade, em prol do melhor serviço aos cidadãos e em cumprimento dos compromissos do Governo Regional em matéria de reorganização estrutural e racionalização de recursos.\n\nAproveita-se este ensejo para alterar a nomenclatura do serviço, passando a denominar-se Instituto de Segurança Social da Madeira, IP-RAM, abreviadamente designado ISSM, IP-RAM.\n\nAcresce ainda, que sendo o Instituto de Segurança Social da Madeira, IP-RAM, a instituição pública de solidariedade social na Região Autónoma da Madeira, nos termos da Lei de Bases da Segurança Social e dada a complexidade da respetiva gestão, a dimensão dos recursos humanos, materiais e financeiros envolvidos, a diversidade de matérias âmbito de atuação, o mesmo goza do regime especial previsto na Lei-Quadro dos Institutos Públicos.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de maio.\n\nAssim:\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, ao abrigo do disposto na alínea a) do n.º 1 do artigo 227.º e no n.º 1 do artigo 232.º da Constituição da República Portuguesa, nas alíneas c) e i) do n.º 1 do artigo 37.º, na alínea m) do artigo 40.º e no n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto e alterado pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, e no artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, alterada e republicada pelo Decreto-Lei n.º 5/2012, de 17 de janeiro, alterado pelo Decreto-Lei n.º 123/2012, de 20 de junho, e no artigo 32.º-B do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, na redação dada pelo Decreto Legislativo Regional n.º 24/2012/M, de 30 de agosto, o seguinte:"
+  },
+  "874301869": {
+   "fragment_id": "874306678",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovada a orgânica do Instituto de Segurança Social da Madeira, IP-RAM, adiante designado abreviadamente por ISSM, IP-RAM, em anexo ao presente diploma, que dele faz parte integrante."
+  },
+  "874301870": {
+   "fragment_id": "874306679",
+   "type": 11,
+   "heading": "Artigo 2.º — Sucessão e referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sucessão e referências legais\n\n1 - O ISSM, IP-RAM, sucede em todas as atribuições, direitos, obrigações e posição jurídica contratual ou processual do Centro de Segurança Social da Madeira.\n\n2 - As referências legais e regulamentares feitas ao Centro de Segurança Social da Madeira consideram-se feitas ao ISSM, IP-RAM."
+  },
+  "874301871": {
+   "fragment_id": "874306680",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\n1 - São revogados os Decretos Legislativos Regionais n.os 26/2004/M, de 20 de agosto, 23/2006/M, de 27 de junho, e 16/2007/M, de 7 de novembro.\n\n2 - Sem prejuízo do disposto no número anterior, o mapa de pessoal bem como a organização interna do Centro de Segurança Social da Madeira mantêm-se em vigor até à publicação da portaria conjunta do Vice-Presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, que aprova os estatutos do ISSM, IP-RAM."
+  },
+  "874301872": {
+   "fragment_id": "874306681",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "874301874": {
+   "fragment_id": "874306683",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "874303875": {
+   "fragment_id": "874306684",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, âmbito e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, âmbito e atribuições"
+  },
+  "874303876": {
+   "fragment_id": "874306685",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e natureza jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e natureza jurídica\n\n1 - O Instituto de Segurança Social da Madeira, IP-RAM, abreviadamente designado por ISSM, IP-RAM, é uma pessoa coletiva de direito público, integrado na administração indireta da Região Autónoma da Madeira, abreviadamente designada por RAM, com personalidade jurídica, dotado de autonomia administrativa e financeira e património próprio.\n\n2 - O ISSM, IP-RAM, é a instituição de solidariedade e segurança social, na RAM, sendo um instituto público de regime especial, nos termos da lei.\n\n3 - O ISSM, IP-RAM, rege-se pelo disposto no presente diploma e pelas normas aplicáveis do regime jurídico dos institutos públicos."
+  },
+  "874303877": {
+   "fragment_id": "874306686",
+   "type": 11,
+   "heading": "Artigo 2.º — Tutela e superintendência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Tutela e superintendência\n\nO ISSM, IP-RAM, exerce a sua atividade sob a tutela e superintendência do Secretário Regional dos Assuntos Sociais."
+  },
+  "874303878": {
+   "fragment_id": "874306687",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede e jurisdição territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Sede e jurisdição territorial\n\n1 - O ISSM, IP-RAM, tem a sua sede no Funchal e dispõe de serviços locais de proximidade com o cidadão, no território da RAM.\n\n2 - O ISSM, IP-RAM, tem jurisdição sobre todo o território da RAM, sendo, nomeadamente, a instituição competente relativamente aos beneficiários de segurança social com residência na RAM e aos contribuintes da segurança social, sejam entidades empregadoras ou equiparadas e trabalhadores independentes com sede, direção efetiva, domicílio profissional ou residência na RAM, ainda que detenham estabelecimentos, locais de trabalho ou sucursais fora do território regional."
+  },
+  "874303879": {
+   "fragment_id": "874306688",
+   "type": 11,
+   "heading": "Artigo 4.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Missão e atribuições\n\n1 - O ISSM, IP-RAM, no âmbito do sistema integrado de segurança social, tem por missão a gestão dos regimes de segurança social, o reconhecimento dos direitos e o cumprimento das obrigações decorrentes dos regimes de segurança social, a gestão da recuperação da dívida e o exercício da ação social, bem como assegurar a aplicação dos instrumentos internacionais de segurança social na RAM.\n\n2 - São atribuições do ISSM, IP-RAM, designadamente:\n\na) Propor medidas de estratégia e contribuir para a definição de políticas, objetivos e prioridades da segurança social, em conformidade com as orientações e a estratégia de ação superiormente estabelecidas, participando na elaboração do plano global do setor;\n\nb) Gerir as prestações do sistema de segurança social;\n\nc) Assegurar e gerir a relação de vinculação, o enquadramento e a qualificação dos contribuintes e beneficiários;\n\nd) Garantir a realização dos direitos e promover o cumprimento das obrigações dos beneficiários do sistema de segurança social;\n\ne) Arrecadar as receitas do sistema de segurança social, assegurando o cumprimento das obrigações contributivas dos contribuintes e gerir as respetivas contas correntes no âmbito da segurança social;\n\nf) Assegurar as formas de recuperação da dívida à segurança social dos contribuintes, nos termos da lei;\n\ng) Assegurar a cobrança coerciva e executar as dívidas de contribuintes e beneficiários à segurança social, garantindo na RAM a aplicação do regime especial de execução de dívidas aprovado pelo Decreto-Lei n.º 42/2001, de 9 de fevereiro, e demais legislação em vigor;\n\nh) Reclamar os créditos da segurança social em sede de processos de insolvência e de execução de índole fiscal, cível e laboral;\n\ni) Assegurar, no seu âmbito de atuação, o cumprimento das obrigações e das normas de coordenação decorrentes dos instrumentos internacionais de segurança social;\n\nj) Assegurar a intervenção no âmbito da representação da RAM nas negociações para celebração e revisão de instrumentos internacionais de segurança social, relevantes para a RAM;\n\nk) Assegurar a eficácia do sistema complementar, garantindo nomeadamente a sua articulação com o sistema público de segurança social, nos termos da lei;\n\nl) Assegurar o exercício da ação inspetiva e fiscalizadora no cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social, das instituições particulares de solidariedade social, abreviadamente designadas IPSS, e de outras entidades privadas que exerçam atividades de apoio social;\n\nm) Exercer os poderes sancionatórios no âmbito dos ilícitos de mera ordenação social relativos aos estabelecimentos de apoio social, a beneficiários e contribuintes, nos termos legais;\n\nn) Assegurar nos termos da lei, as ações necessárias à eventual aplicação dos regimes sancionatórios referentes a infrações criminais praticadas por beneficiários e contribuintes no âmbito do sistema de segurança social;\n\no) Assegurar, nos termos da lei, a concessão de proteção jurídica;\n\np) Elaborar e propor os quadros normativos reguladores do exercício da tutela e do regime de cooperação com as IPSS e da cooperação com outras entidades ou estabelecimentos privados que desenvolvam atividades de apoio social;\n\nq) Desenvolver e executar as políticas de ação social, bem como desenvolver medidas de combate à pobreza e de promoção da inclusão social;\n\nr) Desenvolver a cooperação com as IPSS e exercer, nos termos da lei, a sua tutela, bem como desenvolver a cooperação com outras entidades;\n\ns) Celebrar acordos ou protocolos de cooperação e acordos de gestão;\n\nt) Assegurar o apoio social às famílias, através do financiamento direto, nos termos da lei;\n\nu) Desenvolver e apoiar iniciativas que tenham por finalidade a melhoria das condições de vida das famílias e a promoção da igualdade de oportunidades, designadamente as dirigidas à infância, à juventude, ao envelhecimento ativo, dependência, deficiência e outros grupos em situação de vulnerabilidade;\n\nv) Promover o licenciamento dos serviços e estabelecimentos de apoio social;\n\nw) Intervir na adoção, nos termos da lei;\n\nx) Promover a divulgação e informação relevante a beneficiários, contribuintes e cidadãos em geral e as ações adequadas ao exercício do direito de informação e reclamação dos interessados, bem como a dignificação da imagem do sistema de segurança social.\n\n3 - No âmbito da alínea s) do número anterior, os acordos ou protocolos de cooperação e acordos de gestão atípicos carecem de homologação por parte da tutela."
+  },
+  "874303880": {
+   "fragment_id": "874306689",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos"
+  },
+  "874303881": {
+   "fragment_id": "874306690",
+   "type": 8,
+   "heading": "Secção I — Conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Conselho diretivo"
+  },
+  "874303882": {
+   "fragment_id": "874306691",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Composição\n\nO conselho diretivo é composto por um presidente e dois vogais."
+  },
+  "874303883": {
+   "fragment_id": "874306692",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatuto\n\nOs membros do conselho diretivo regem-se pelo regime especial dos institutos públicos, sendo equiparados, para efeitos remuneratórios, a gestores públicos."
+  },
+  "874303884": {
+   "fragment_id": "874306693",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do conselho diretivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competências do conselho diretivo\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei, ou nele delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do ISSM,IP-RAM:\n\na) Dirigir a atividade do ISSM, IP-RAM, tendo em vista, designadamente, a garantia dos direitos e do cumprimento dos deveres dos beneficiários e contribuintes, a recuperação da dívida e o regular exercício e desenvolvimento da ação social;\n\nb) Elaborar os regulamentos e as normas internas necessários ao funcionamento do ISSM, IP-RAM, e definir orientações e objetivos;\n\nc) Dinamizar e gerir as prestações do sistema de segurança social e dos seus subsistemas;\n\nd) Dirigir, coordenar e assegurar a gestão dos serviços e dos estabelecimentos integrados do ISSM, IP-RAM, programar as respetivas ações e zelar pelo seu bom funcionamento, com vista à prossecução das suas atribuições;\n\ne) Elaborar os planos de atividade, anuais e plurianuais, o relatório de atividades, as contas e o balanço social;\n\nf) Arrecadar e gerir as receitas e autorizar despesas, nos termos da lei;\n\ng) Contratar com entidades terceiras, públicas ou privadas, a prestação de serviços de apoio ao ISSM, IP-RAM, com vista ao adequado desempenho das suas atribuições;\n\nh) Assegurar a regularidade da relação contributiva de segurança social, bem como constituir hipotecas legais e autorizar o respetivo distrate;\n\ni) Autorizar o pagamento em prestações das dívidas, no âmbito de acordos para regularização da dívida, na forma, condições e requisitos estabelecidos na lei para a recuperação da dívida à segurança social e no âmbito do processo de execução de dívidas nos termos da lei;\n\nj) Exercer a ação inspetiva e fiscalizadora do cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social, das IPSS e de outras entidades privadas que exerçam atividades de apoio social;\n\nk) Aplicar coimas e sanções acessórias às contraordenações praticadas por beneficiários, contribuintes e estabelecimentos de apoio social;\n\nl) Celebrar os acordos de cooperação e acordos de gestão com as IPSS;\n\nm) Assegurar a aplicação dos instrumentos internacionais em matéria de segurança social e a intervenção em sede de negociação, conforme a alínea j) do n.º 2 do artigo 4.º;\n\nn) Promover medidas de modernização administrativa e intervir na definição do sistema de informação da segurança social, em articulação e colaboração com o Instituto de Informática, I. P.;\n\no) Constituir mandatários do ISSM, IP-RAM, em juízo e fora dele, incluindo com o poder de substabelecer;\n\np) Exercer os atos de direção, gestão e disciplina do pessoal, e praticar os demais atos previstos na lei e nos estatutos;\n\nq) Praticar quaisquer outros atos necessários à prossecução das atribuições do ISSM, IP-RAM.\n\n2 - Compete ainda ao conselho diretivo, no âmbito da gestão financeira e patrimonial, gerir os recursos humanos, financeiros e patrimoniais do ISSM, IP-RAM.\n\n3 - O conselho diretivo pode distribuir entre os seus membros, sob proposta do presidente, a gestão de áreas de atuação do ISSM, IP-RAM.\n\n4 - O conselho diretivo pode delegar, com faculdade de subdelegação, em um ou mais dos seus membros e nos seus dirigentes dos serviços, as competências que lhe estejam atribuídas, devendo fixar expressamente os respetivos limites.\n\n5 - Compete, em geral, ao presidente do conselho diretivo dirigir e orientar a ação deste órgão e exercer as competências que lhe sejam conferidas por lei ou que nele forem delegadas ou subdelegadas e, em especial, representar o ISSM, IP-RAM, em juízo ou na prática de atos jurídicos, com a faculdade de delegação nos restantes membros do conselho diretivo, nos termos da lei.\n\n6 - O presidente é substituído, nas faltas e impedimentos, pelo vogal que ele indicar e, na sua falta, pelo vogal mais antigo."
+  },
+  "874303885": {
+   "fragment_id": "874306694",
+   "type": 8,
+   "heading": "Secção II — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Fiscal único"
+  },
+  "874303886": {
+   "fragment_id": "874306695",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do ISSM, IP-RAM.\n\n2 - Ao fiscal único é aplicável o regime jurídico definido na Lei-Quadro dos Institutos Públicos.\n\n3 - O fiscal único é designado por despacho conjunto do secretário regional responsável pela área das finanças e pelo secretário regional da tutela, de entre revisores oficiais de contas ou sociedades de revisores oficiais de contas."
+  },
+  "874303887": {
+   "fragment_id": "874306696",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Competências do fiscal único\n\nCompete ao fiscal único, designadamente:\n\na) Acompanhar e controlar com regularidade o cumprimento das leis e regulamentos aplicáveis, a execução orçamental, a situação económica, financeira e patrimonial e analisar a contabilidade do ISSM, IP-RAM;\n\nb) Dar parecer sobre o orçamento, suas revisões e alterações, bem como sobre o plano de atividades na perspetiva da sua cobertura orçamental;\n\nc) Dar parecer sobre o relatório de gestão de exercício e contas de gerência, incluindo documentos de certificação legal de contas;\n\nd) Manter o conselho diretivo informado sobre os resultados das verificações e exames a que proceda;\n\ne) Elaborar relatórios da sua ação fiscalizadora, incluindo um relatório anual global;\n\nf) Pronunciar-se sobre os assuntos que lhe sejam submetidos pelo conselho diretivo, pelo Tribunal de Contas e pelas entidades que integram o controlo estratégico do sistema de controlo interno da administração financeira do Estado."
+  },
+  "874303888": {
+   "fragment_id": "874306697",
+   "type": 1,
+   "heading": "Capítulo III — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização interna"
+  },
+  "874303889": {
+   "fragment_id": "874306698",
+   "type": 11,
+   "heading": "Artigo 11.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Organização interna\n\nA organização interna do ISSM, IP-RAM, é a prevista nos respetivos estatutos, a aprovar por portaria conjunta do Vice-Presidente do Governo Regional e dos Secretários Regionais do Plano e Finanças e dos Assuntos Sociais, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma."
+  },
+  "874303890": {
+   "fragment_id": "874306699",
+   "type": 1,
+   "heading": "Capítulo IV — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Receitas e despesas"
+  },
+  "874303891": {
+   "fragment_id": "874306700",
+   "type": 11,
+   "heading": "Artigo 12.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Receitas\n\n1 - O ISSM, IP-RAM, dispõe das receitas provenientes de dotações que lhe forem atribuídas pelo orçamento da segurança social.\n\n2 - O ISSM, IP-RAM, dispõe ainda das seguintes receitas:\n\na) As contribuições, quotizações e demais valores, nos termos da lei, afetos no âmbito do sistema de segurança social;\n\nb) O produto das coimas e custas legalmente previstas;\n\nc) As comparticipações pela utilização dos estabelecimentos integrados ou serviços sociais;\n\nd) A reposição e reembolso de prestações do sistema de segurança social;\n\ne) As receitas afetas ao ISSM, IP-RAM, relativas à exploração dos jogos sociais;\n\nf) As receitas afetas ao ISSM, IP-RAM, relativas ao Fundo de Socorro Social;\n\ng) Os rendimentos de bens próprios e os juros de depósitos bancários;\n\nh) As transferências de quaisquer entidades públicas ou privadas, doações, legados ou heranças;\n\ni) Os valores provenientes de organismos nacionais e estrangeiros para pagamento de benefícios, ao abrigo de instrumentos internacionais de segurança social, e quaisquer outros valores resultantes da execução destes instrumentos internacionais, nos termos dos normativos aplicáveis;\n\nj) A alienação de imobilizações corpóreas e o produto da alienação ou cedência de direitos do seu património;\n\nk) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas ou devidas."
+  },
+  "874303892": {
+   "fragment_id": "874306701",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Despesas\n\n1 - Constituem despesas do ISSM, IP-RAM, os encargos decorrentes da prossecução das suas atribuições, designadamente:\n\na) Os encargos com as prestações do sistema de segurança social;\n\nb) Os encargos decorrentes de apoios a IPSS e outras instituições que exerçam atividades na área da segurança social;\n\nc) Os encargos com pessoal, bens e serviços e outros encargos no âmbito do sistema de segurança social, designadamente os encargos decorrentes do funcionamento de estabelecimentos e serviços de ação social;\n\nd) As transferências para o Governo Regional destinadas ao financiamento das políticas ativas de emprego e valorização profissional;\n\ne) Os encargos com a liquidação de benefícios por conta de organismos estrangeiros ao abrigo de instrumentos internacionais de segurança social e de quaisquer outros valores resultantes da execução destes instrumentos internacionais, nos termos dos normativos aplicáveis;\n\nf) Os encargos com a avaliação das incapacidades no âmbito do serviço de verificação de incapacidades;\n\ng) Os encargos de administração;\n\nh) As despesas e transferências de capital, designadamente investimentos do ISSM, IP-RAM, e financiamento de investimentos realizados através das IPSS e de outras instituições que exerçam atividades na área da segurança social;\n\ni) As transferências para o Instituto de Gestão Financeira da Segurança Social, I. P., designadamente a título de excedente de execução orçamental;\n\nj) Outras despesas que sejam afetas a entidades do sistema de segurança social, cuja execução na RAM caiba ou seja atribuída ao ISSM, IP-RAM;\n\nk) Os encargos com ações de formação profissional promovidas pelo ISSM, IP-RAM;\n\nl) Outras despesas previstas ou permitidas legalmente."
+  },
+  "874303893": {
+   "fragment_id": "874306702",
+   "type": 1,
+   "heading": "Capítulo V — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Património"
+  },
+  "874303894": {
+   "fragment_id": "874306703",
+   "type": 11,
+   "heading": "Artigo 14.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Património\n\nO património do ISSM, IP-RAM, é constituído pela universalidade dos bens, direitos e obrigações de que seja titular."
+  },
+  "874303895": {
+   "fragment_id": "874306704",
+   "type": 1,
+   "heading": "Capítulo VI — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Pessoal"
+  },
+  "874303896": {
+   "fragment_id": "874306705",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime de pessoal\n\nO regime aplicável ao pessoal do ISSM, IP-RAM, é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do disposto neste diploma."
+  },
+  "874303897": {
+   "fragment_id": "874306706",
+   "type": 11,
+   "heading": "Artigo 16.º — Cargos dirigentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Cargos dirigentes\n\nOs dirigentes intermédios do ISSM, IP-RAM, exercem os respetivos cargos em regime de comissão de serviço, sendo-lhes aplicável o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado e demais legislação aplicável."
+  },
+  "874303898": {
+   "fragment_id": "874306707",
+   "type": 11,
+   "heading": "Artigo 17.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Poderes de autoridade\n\n1 - O pessoal do ISSM, IP-RAM, quando no exercício de funções de fiscalização, de inspeção, de acompanhamento ou de supervisão, nomeadamente das IPSS e outras entidades privadas que exerçam atividades de apoio social, goza das seguintes prerrogativas:\n\na) Direito de acesso e livre-trânsito nos termos da lei, pelo tempo e horário necessário ao desempenho das suas funções, em todos os serviços e instalações das entidades públicas e privadas sujeitas ao exercício das suas atribuições;\n\nb) Obter, das entidades inspecionadas e fiscalizadas, para apoio nas ações em curso, a cedência de instalações adequadas, material e equipamento próprio bem como a colaboração de pessoal que se mostre indispensável;\n\nc) Requisitar a colaboração necessária das autoridades policiais e administrativas para o exercício das suas funções;\n\nd) Promover nos termos legais a selagem de quaisquer instalações, dependências, cofres ou móveis, bem como a apreensão, requisição ou reprodução de documentos em poder das entidades alvo de controlo ou do seu pessoal, quando isso se mostre indispensável à realização da ação para o que deve ser levantado o competente auto, dispensável no caso de simples reprodução de documento;\n\ne) Requisitar, para exame, consulta e junção aos autos, livros, documentos, registos, arquivos e outros elementos pertinentes em poder das entidades cuja atividade seja objeto da sua ação de inspeção ou fiscalização.\n\n2 - O pessoal do ISSM, IP-RAM, no exercício das prerrogativas previstas no presente artigo, é portador de um documento de identificação próprio, de modelo a fixar por portaria do secretário regional da tutela, devendo exibi-lo no exercício das suas funções."
+  },
+  "874303899": {
+   "fragment_id": "874306708",
+   "type": 1,
+   "heading": "Capítulo VII — Articulação e colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Articulação e colaboração com outras entidades"
+  },
+  "874303900": {
+   "fragment_id": "874306709",
+   "type": 11,
+   "heading": "Artigo 18.º — Articulação com os serviços centrais e instituições de segurança social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Articulação com os serviços centrais e instituições de segurança social\n\nO ISSM, IP-RAM, no âmbito das suas atribuições, no desenvolvimento da sua atuação e na prossecução dos seus objetivos, articular-se-á com as instituições, organismos e serviços de segurança social, centrais e da Região Autónoma dos Açores, bem como com instituições e organismos de segurança social de outros Estados."
+  },
+  "874303901": {
+   "fragment_id": "874306710",
+   "type": 11,
+   "heading": "Artigo 19.º — Articulação com outros setores da administração pública central, regional e local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Articulação com outros setores da administração pública central, regional e local\n\nO ISSM, IP-RAM, articular-se-á, no seu âmbito de atuação, com os serviços dos outros setores da Administração Pública, designadamente os da habitação, trabalho, emprego, educação, justiça e finanças."
+  },
+  "874303902": {
+   "fragment_id": "874306711",
+   "type": 11,
+   "heading": "Artigo 20.º — Articulação com o setor da saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Articulação com o setor da saúde\n\n1 - O ISSM, IP-RAM, articulará a sua ação com as instituições integrantes do sistema regional de saúde, a fim de assegurar o objetivo comum de defesa e promoção da qualidade de vida dos cidadãos.\n\n2 - Esta articulação deverá concretizar-se no âmbito dos órgãos de planeamento e programação de atividades e no plano concreto dos programas de ação social e dos cuidados de saúde.\n\n3 - Promover-se-á a participação recíproca dos dois setores em órgãos próprios de planeamento e direção e também nos trabalhos de campo ou periféricos.\n\n4 - Os serviços de segurança social facultarão aos serviços de saúde o apoio indispensável à organização de programas que tenham por objetivo o desenvolvimento integral de pessoas ou grupos sociais economicamente menos favorecidos."
+  },
+  "874303903": {
+   "fragment_id": "874306712",
+   "type": 11,
+   "heading": "Artigo 21.º — Acordos com outras entidades públicas e privadas e concessão e delegação de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Acordos com outras entidades públicas e privadas e concessão e delegação de serviço público\n\n1 - Verificando-se a necessidade de reforçar a prestação de serviços prosseguidos pelo ISSM, IP-RAM, para a otimização da prossecução das suas atribuições, o ISSM, IP-RAM, poderá, para o efeito, celebrar acordos de prestação de serviços com outras entidades, públicas ou privadas, sempre que tal método assegure um controlo mais eficiente dos custos e da qualidade do serviço prestado.\n\n2 - Mediante a prévia autorização dos membros do Governo Regional responsáveis pelas áreas das finanças e da tutela, o conselho diretivo do ISSM, IP-RAM, pode conceder ou delegar a entidades privadas, por prazo determinado, a prossecução de algumas das suas atribuições e os poderes necessários para o efeito, podendo a concessão ser acompanhada pela cessão de exploração de estabelecimentos integrados do ISSM, IP-RAM, assumindo o delegado a obrigação de prosseguir essas atribuições ou colaborar na sua prossecução sob a orientação do ISSM, IP-RAM."
+  },
+  "874303904": {
+   "fragment_id": "874306713",
+   "type": 11,
+   "heading": "Artigo 22.º — Criação ou participação em entidades de direito privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Criação ou participação em entidades de direito privado\n\nO ISSM, IP-RAM, mediante autorização prévia dos secretários regionais responsáveis pela área das finanças e da tutela, anualmente renovada, poderá participar na criação ou adquirir participação em entidades privadas que prossigam fins de solidariedade e segurança social, desde que tal se mostre imprescindível para a prossecução das respetivas atribuições."
+  },
+  "874303905": {
+   "fragment_id": "874306714",
+   "type": 11,
+   "heading": "Artigo 23.º — Relações com o sistema bancário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Relações com o sistema bancário\n\nO ISSM, IP-RAM, pode relacionar-se com as instituições do sistema bancário ou financeiro, sempre que tal se revele necessário à prossecução das suas atribuições."
+  },
+  "874303906": {
+   "fragment_id": "874306715",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "874303907": {
+   "fragment_id": "874306716",
+   "type": 8,
+   "heading": "Secção I — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições finais"
+  },
+  "874303908": {
+   "fragment_id": "874306717",
+   "type": 11,
+   "heading": "Artigo 24.º — Aplicação do regime especial de execução de dívidas à RAM",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Aplicação do regime especial de execução de dívidas à RAM\n\nAs competências atribuídas na RAM ao Centro de Segurança Social da Madeira, nos termos do artigo 48.º do Decreto Legislativo Regional n.º 26/2004/M, de 20 de agosto, para os fins do Decreto-Lei n.º 42/2001, de 9 de fevereiro, com as alterações do Decreto-Lei n.º 112/2004, de 13 de maio, e das Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, e 64-B/2011, de 30 de dezembro, consideram-se atribuídas, para os mesmos fins, na RAM, ao ISSM, IP-RAM, relativamente às execuções dos contribuintes e beneficiários de segurança social, considerando o disposto no n.º 2 do artigo 3.º do presente diploma."
+  },
+  "874303909": {
+   "fragment_id": "874306718",
+   "type": 11,
+   "heading": "Artigo 25.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Legitimidade\n\nA legitimidade para reclamar judicialmente créditos de segurança social sobre contribuintes e beneficiários de segurança social, referenciados no n.º 2 do artigo 3.º, no âmbito de processos de insolvência, recuperação e reclamação de créditos, bem como a legitimidade para intervir passiva ou ativamente em processos judiciais, pertence ao ISSM, IP-RAM, que assumirá a posição jurídica processual do Centro de Segurança Social da Madeira em todas as ações, processos ou incidentes."
+  },
+  "874303910": {
+   "fragment_id": "874306719",
+   "type": 11,
+   "heading": "Artigo 26.º — Negócios jurídicos subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Negócios jurídicos subsistentes\n\nTodos os direitos e obrigações resultantes de negócios jurídicos celebrados pelo Centro de Segurança Social da Madeira ou provenientes de negócios celebrados pelos antecessores, Centro Regional de Segurança Social, Direção Regional da Segurança Social e Caixa de Previdência e Abono de Família do Distrito do Funchal, e que subsistam à data da entrada em vigor do presente diploma, mantêm-se válidos, transferindo-se para a esfera jurídica do ISSM, IP-RAM, todas as posições contratuais assumidas por aquelas entidades."
+  },
+  "874303911": {
+   "fragment_id": "874306720",
+   "type": 11,
+   "heading": "Artigo 27.º — Transferências de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferências de créditos\n\nTransitam para a esfera jurídica do ISSM, IP-RAM, todos os créditos, valores, contas, títulos, direitos e ações do Centro de Segurança Social da Madeira."
+  },
+  "874303912": {
+   "fragment_id": "874306721",
+   "type": 11,
+   "heading": "Artigo 28.º — Regalias e isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regalias e isenções\n\nO ISSM, IP-RAM, goza de todas as regalias e isenções reconhecidas por lei ao Estado."
+  },
+  "874303913": {
+   "fragment_id": "874306722",
+   "type": 8,
+   "heading": "Secção II — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições transitórias"
+  },
+  "874303914": {
+   "fragment_id": "874306723",
+   "type": 11,
+   "heading": "Artigo 29.º — Mandatos dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Mandatos dos órgãos\n\n1 - Os mandatos em curso dos membros do conselho diretivo mantêm-se até ao final dos respetivos prazos ou quando ocorrer a tomada de posse da comissão de recrutamento e seleção para a administração regional da Madeira, caso esta venha a ocorrer em data anterior à cessação dos respetivos mandatos.\n\n2 - O mandato em curso do fiscal único mantém-se, até nova designação.\n\n3 - O disposto no n.º 1 deste artigo não prejudica a aplicação das novas regras de remuneração introduzidas pelo Decreto-Lei n.º 8/2012, de 18 de janeiro, aos mandatos em curso."
+  },
+  "874303915": {
+   "fragment_id": "874306724",
+   "type": 11,
+   "heading": "Artigo 30.º — Concursos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Concursos pendentes\n\nOs concursos pendentes mantêm-se válidos, sendo os candidatos providos, de acordo com o regime previsto na abertura do concurso, nos lugares do mapa de pessoal."
+  },
+  "874301873": {
+   "fragment_id": "874306682",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de outubro de 2012.\n\nO Presidente da Assembleia Legislativa, José Miguel Jardim Olival de Mendonça.\n\nAssinado em 30 de outubro de 2012.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.\n\nANEXO\n\nOrgânica do Instituto de Segurança Social da Madeira, IP-RAM"
+  },
+  "874303982": {
+   "fragment_id": "874306692",
+   "type": 11,
+   "heading": "Artigo 7.º — Estatuto",
+   "in_force_from": "2015-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Estatuto\n\n1 - Os membros do conselho diretivo regem-se pelo regime especial dos institutos públicos, sendo equiparados, para efeitos remuneratórios, a gestores públicos.\n\n2 - A remuneração dos membros do conselho diretivo é fixada por despacho conjunto do membro do Governo da tutela e do membro do Governo responsável pela área das finanças, com observância das orientações aprovadas pela Resolução do Conselho do Governo, a que se refere o n.º 3 do artigo 23.º do Decreto Legislativo Regional n.º 12/2010/M, de 5 de agosto, alterado pelos Decretos Legislativos Regionais n.os 2/2011/M, de 10 de janeiro, e 31/2013/M, de 26 de dezembro.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto Legislativo Regional n.º 6/2015/M - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2015-70007184), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-01-01"
+  },
+  "874304006": {
+   "fragment_id": "874306684",
+   "type": 1,
+   "heading": "Capítulo I — Natureza, âmbito e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Natureza, âmbito e atribuições"
+  },
+  "874303983": {
+   "fragment_id": "874306686",
+   "type": 11,
+   "heading": "Artigo 2.º — Tutela e superintendência",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 2.º — Tutela e superintendência\n\nO ISSM, IP-RAM, exerce a sua atividade sob a tutela e superintendência do Secretário Regional da Inclusão e Assuntos Sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874303984": {
+   "fragment_id": "874306687",
+   "type": 11,
+   "heading": "Artigo 3.º — Sede e jurisdição territorial",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 3.º — Sede e jurisdição territorial\n\n1 - O ISSM, IP-RAM, tem a sua sede no Funchal e dispõe de serviços locais de proximidade com o cidadão, no território da RAM.\n\n2 - O ISSM, IP-RAM tem jurisdição sobre todo o território da RAM, sendo, nomeadamente, a instituição competente relativamente aos beneficiários de segurança social com residência na RAM e aos contribuintes da segurança social, sejam entidades empregadoras ou equiparadas, trabalhadores independentes ou entidades contratantes, com sede, direção efetiva, domicílio profissional ou residência na RAM ainda que detenham estabelecimentos, locais de trabalho ou sucursais fora do território regional.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874303985": {
+   "fragment_id": "874306688",
+   "type": 11,
+   "heading": "Artigo 4.º — Missão e atribuições",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 4.º — Missão e atribuições\n\n1 - O ISSM, IP-RAM, no âmbito do sistema integrado de segurança social, tem por missão a gestão dos regimes de segurança social, o reconhecimento dos direitos e o cumprimento das obrigações decorrentes dos regimes de segurança social, a gestão da recuperação da dívida e o exercício da ação social, bem como assegurar a aplicação dos instrumentos internacionais de segurança social na RAM.\n\n2 - São atribuições do ISSM, IP-RAM, designadamente:\n\na) Propor medidas de estratégia e contribuir para a definição de políticas, objetivos e prioridades da segurança social, em conformidade com as orientações e a estratégia de ação superiormente estabelecidas, participando na elaboração do plano global do setor;\n\nb) Gerir e pagar as prestações do sistema de segurança social e outras prestações sociais que, por lei ou regulamento, lhe sejam cometidas;\n\nc) Assegurar e gerir a relação de vinculação, o enquadramento e a qualificação dos contribuintes e beneficiários;\n\nd) Garantir a realização dos direitos e promover o cumprimento das obrigações dos beneficiários do sistema de segurança social;\n\ne) Arrecadar as receitas do sistema de segurança social, assegurando o cumprimento das obrigações contributivas dos contribuintes e gerir as respetivas contas correntes no âmbito da segurança social;\n\nf) Assegurar as formas de recuperação da dívida à segurança social dos contribuintes, nos termos da lei;\n\ng) Assegurar a cobrança coerciva e executar as dívidas de contribuintes e beneficiários à segurança social, garantindo na RAM a aplicação do regime especial de execução de dívidas aprovado pelo Decreto-Lei n.º 42/2001, de 9 de fevereiro, e demais legislação em vigor;\n\nh) Reclamar os créditos da segurança social em sede de processos de insolvência e de execução de índole fiscal, cível e laboral;\n\ni) Assegurar, no seu âmbito de atuação, o cumprimento das obrigações e das normas de coordenação decorrentes dos instrumentos internacionais de segurança social;\n\nj) Assegurar a intervenção no âmbito da representação da RAM nas negociações para celebração e revisão de instrumentos internacionais de segurança social, relevantes para a RAM;\n\nk) Assegurar a eficácia do sistema complementar, garantindo nomeadamente a sua articulação com o sistema público de segurança social, nos termos da lei;\n\nl) Assegurar o exercício da ação inspetiva e fiscalizadora no cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social, das instituições particulares de solidariedade social, abreviadamente designadas IPSS, e de outras entidades privadas que exerçam atividades de apoio social;\n\nm) Exercer os poderes sancionatórios no âmbito dos ilícitos de mera ordenação social relativos aos estabelecimentos de apoio social, a beneficiários e contribuintes, nos termos legais;\n\nn) Assegurar nos termos da lei, as ações necessárias à eventual aplicação dos regimes sancionatórios referentes a infrações criminais praticadas por beneficiários e contribuintes no âmbito do sistema de segurança social;\n\no) Assegurar, nos termos da lei, a concessão de proteção jurídica;\n\np) Elaborar e propor os quadros normativos reguladores do exercício da tutela e do regime de cooperação com as IPSS e da cooperação com outras entidades ou estabelecimentos privados que desenvolvam atividades de apoio social;\n\nq) Desenvolver e executar as políticas de ação social, implementando, nomeadamente, respostas sociais, medidas de combate à pobreza e de promoção da inclusão social, incluindo a criação de linhas de emergência, de apoio social ou de respostas sociais, bem como medidas referentes à emergência social;\n\nr) Desenvolver a cooperação com as IPSS e exercer, nos termos da lei, a sua tutela, bem como desenvolver a cooperação com outras entidades;\n\ns) Celebrar com as IPSS acordos de cooperação, acordos de gestão, protocolos e demais instrumentos de cooperação previstos na lei;\n\nt) Assegurar o apoio social às famílias, através do financiamento direto, nos termos da lei;\n\nu) Desenvolver e apoiar iniciativas que tenham por finalidade a melhoria das condições de vida das famílias e a promoção da igualdade de oportunidades, designadamente as dirigidas à infância, à juventude, ao envelhecimento ativo, dependência, deficiência e outros grupos em situação de vulnerabilidade;\n\nv) Assegurar o desenvolvimento funcional e integral de competências de pessoas com deficiência, numa perspetiva de inclusão, de reabilitação e terapêutica, de apoio psicossocial e familiar, que propicie bem-estar, saúde geral, envelhecimento ativo e qualidade de vida;\n\nw) Promover o licenciamento dos serviços e estabelecimentos de apoio social;\n\nx) Intervir na adoção, nos termos da lei;\n\ny) Assegurar, nos termos da lei, assessoria técnica aos tribunais em matéria de promoção e proteção de crianças e jovens em risco e tutelar cível;\n\nz) Prosseguir ações instrutórias e/ou decisórias em matéria de segurança social ou com ela conexas, nos termos de acordos de cooperação e colaboração institucional com demais instituições de segurança social e com entidades que prosseguem atribuições conexas ou complementares com a segurança social;\n\naa) Assegurar a gestão e administração dos bens e direitos de que seja titular e que constituem o seu património;\n\nab) Assegurar a gestão orçamental das dotações que lhe sejam afetas, designadamente no âmbito do Orçamento da Segurança Social;\n\nac) Assegurar a gestão dos seus recursos financeiros;\n\nad) Promover a divulgação e informação relevante a beneficiários, contribuintes e cidadãos em geral e as ações adequadas ao exercício do direito de informação e reclamação dos interessados, bem como a dignificação da imagem do sistema de segurança social.\n\n3 - No âmbito da alínea s) do número anterior, os acordos ou protocolos de cooperação e acordos de gestão atípicos carecem de homologação por parte da tutela.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304007": {
+   "fragment_id": "874306689",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos"
+  },
+  "874303986": {
+   "fragment_id": "874306691",
+   "type": 11,
+   "heading": "Artigo 6.º — Composição",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 6.º — Composição\n\nO conselho diretivo é composto por um presidente, um vice-presidente e um vogal, respetivamente, cargos de direção superior de 1.º grau e de 2.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874303987": {
+   "fragment_id": "874306693",
+   "type": 11,
+   "heading": "Artigo 8.º — Competências do conselho diretivo",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 8.º — Competências do conselho diretivo\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei, ou nele delegadas ou subdelegadas, compete ao conselho diretivo, no âmbito da orientação e gestão do ISSM,IP-RAM:\n\na) Dirigir a atividade do ISSM, IP-RAM, tendo em vista, designadamente, a garantia dos direitos e do cumprimento dos deveres dos beneficiários e contribuintes, a recuperação da dívida e o regular exercício e desenvolvimento da ação social;\n\nb) Elaborar os regulamentos e as normas internas necessários ao funcionamento do ISSM, IP-RAM, e definir orientações e objetivos;\n\nc) Dinamizar e gerir as prestações do sistema de segurança social e dos seus subsistemas;\n\nd) Conceder as prestações ou apoios sociais;\n\ne) Dirigir, coordenar e assegurar a gestão dos serviços e dos estabelecimentos integrados do ISSM, IP-RAM, programar as respetivas ações e zelar pelo seu bom funcionamento, incluindo os serviços médicos e de enfermagem necessários, com vista à prossecução das suas atribuições.\n\nf) Elaborar os planos de atividade, anuais e plurianuais, o relatório de atividades, as contas e o balanço social;\n\ng) Arrecadar e gerir as receitas e autorizar despesas, nos termos da lei;\n\nh) Contratar com entidades terceiras, públicas ou privadas, o fornecimento de bens e serviços, nos termos da lei;\n\ni) Contratar com entidades terceiras, públicas ou privadas, a prestação de serviços de apoio ao ISSM, IP-RAM, com vista ao adequado desempenho das suas atribuições;\n\nj) Assegurar a regularidade da relação contributiva de segurança social, bem como constituir hipotecas legais e autorizar o respetivo distrate;\n\nk) Autorizar o pagamento em prestações das dívidas, no âmbito de acordos para regularização da dívida, na forma, condições e requisitos estabelecidos na lei para a recuperação da dívida à segurança social e no âmbito do processo de execução de dívidas nos termos da lei;\n\nl) Exercer a ação inspetiva e fiscalizadora do cumprimento dos direitos e obrigações dos beneficiários e contribuintes do sistema de segurança social, das IPSS e de outras entidades privadas que exerçam atividades de apoio social;\n\nm) Aplicar coimas e sanções acessórias às contraordenações praticadas por beneficiários, contribuintes e estabelecimentos de apoio social;\n\nn) Celebrar os acordos de cooperação e acordos de gestão com as IPSS;\n\np) Assegurar a aplicação dos instrumentos internacionais em matéria de segurança social e a intervenção em sede de negociação, conforme a alínea j) do n.º 2 do artigo 4.º;\n\np) Promover medidas de modernização administrativa e intervir na definição do sistema de informação da segurança social, em articulação e colaboração com o Instituto de Informática, I. P.;\n\nq) Constituir mandatários do ISSM, IP-RAM, em juízo e fora dele, incluindo com o poder de substabelecer;\n\nr) Elaborar a proposta de orçamento, coordenar a respetiva execução e aprovar a conta do ISSM, IP-RAM;\n\ns) Praticar quaisquer outros atos necessários à prossecução das atribuições do ISSM, IP-RAM.\n\n2 - Compete ainda ao conselho diretivo, no âmbito da gestão financeira e patrimonial, gerir os recursos humanos, financeiros e patrimoniais do ISSM, IP-RAM e as demais competências decorrentes da lei, nomeadamente, as previstas no regime jurídico dos institutos públicos.\n\n3 - O conselho diretivo pode distribuir entre os seus membros, sob proposta do presidente, a gestão de áreas de atuação do ISSM, IP-RAM.\n\n4 - O conselho diretivo pode delegar, com faculdade de subdelegação, em um ou mais dos seus membros e nos seus dirigentes dos serviços, as competências que lhe estejam atribuídas, devendo fixar expressamente os respetivos limites.\n\n5 - Compete, em geral, ao presidente do conselho diretivo dirigir e orientar a ação deste órgão e exercer as competências que lhe sejam conferidas por lei ou que nele forem delegadas ou subdelegadas e, em especial, representar o ISSM, IP-RAM, em juízo ou na prática de atos jurídicos, com a faculdade de delegação nos restantes membros do conselho diretivo, nos termos da lei.\n\n6 - O presidente é substituído, nas faltas e impedimentos, pelo vice-presidente.\n\n7 - O presidente do conselho diretivo pode decidir e praticar atos inadiáveis, os quais, sendo da competência do conselho diretivo, não possam, por motivos imperiosos de urgência, aguardar reunião deste órgão, devendo tais decisões e atos ser submetidos a ratificação do conselho diretivo, na primeira reunião subsequente deste órgão.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874303988": {
+   "fragment_id": "874306695",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 9.º — Estatuto\n\n1 - O fiscal único é o órgão responsável pelo controlo da legalidade, da regularidade e da boa gestão financeira e patrimonial do ISSM, IP-RAM.\n\n2 - Ao fiscal único é aplicável o regime jurídico definido para os institutos públicos.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874303989": {
+   "fragment_id": "874306696",
+   "type": 11,
+   "heading": "Artigo 10.º — Competências do fiscal único",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 10.º — Competências do fiscal único\n\nO fiscal único tem as competências definidas no regime jurídico aplicável aos institutos públicos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304008": {
+   "fragment_id": "874306697",
+   "type": 1,
+   "heading": "Capítulo III — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização interna"
+  },
+  "874303990": {
+   "fragment_id": "874306698",
+   "type": 11,
+   "heading": "Artigo 11.º — Organização interna",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 11.º — Organização interna\n\nA organização interna do ISSM, IP-RAM é a prevista nos respetivos estatutos, a aprovar por portaria conjunta dos membros do Governo Regional responsáveis pelas áreas das Finanças e da Administração Pública e da tutela, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304009": {
+   "fragment_id": "874306699",
+   "type": 1,
+   "heading": "Capítulo IV — Receitas e despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Receitas e despesas"
+  },
+  "874303991": {
+   "fragment_id": "874306700",
+   "type": 11,
+   "heading": "Artigo 12.º — Receitas",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 12.º — Receitas\n\n1 - O ISSM, IP-RAM dispõe das seguintes receitas:\n\na) As contribuições, quotizações e demais valores inerentes à relação contributiva afetos no âmbito do sistema de segurança social;\n\nb) O produto das coimas e custas legalmente previstas;\n\nc) As comparticipações pela utilização dos estabelecimentos integrados ou serviços sociais;\n\nd) A reposição de prestações do sistema de segurança social;\n\ne) As receitas afetas ao ISSM, IP-RAM, relativas à exploração dos jogos sociais;\n\nf) As receitas afetas ao ISSM, IP-RAM, relativas ao Fundo de Socorro Social;\n\ng) Os rendimentos de bens próprios e os juros de depósitos bancários;\n\nh) As transferências de quaisquer entidades públicas ou privadas, doações, legados ou heranças;\n\ni) Os valores provenientes de organismos nacionais e estrangeiros para pagamento de benefícios, ao abrigo de instrumentos internacionais de segurança social, e quaisquer outros valores resultantes da execução destes instrumentos internacionais, nos termos dos normativos aplicáveis;\n\nj) A alienação de imobilizações corpóreas e o produto da alienação ou cedência de direitos do seu património;\n\nk) Quaisquer outras receitas que por lei, contrato ou outro título lhe sejam atribuídas ou devidas.\n\n2 - Para além das receitas referidas no número anterior, o ISSM, IP-RAM pode ainda beneficiar de dotações, transferências e subsídios do Orçamento da Segurança Social e de outras fontes, nos termos da lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874303992": {
+   "fragment_id": "874306701",
+   "type": 11,
+   "heading": "Artigo 13.º — Despesas",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 13.º — Despesas\n\n1 - Constituem despesas do ISSM, IP-RAM, os encargos decorrentes da prossecução das suas atribuições, designadamente:\n\na) Os encargos com as prestações do sistema de segurança social;\n\nb) Os encargos decorrentes de apoios a IPSS e outras instituições que exerçam atividades na área da segurança social;\n\nc) Os encargos com pessoal, bens e serviços e outros encargos no âmbito do sistema de segurança social, designadamente os encargos decorrentes do funcionamento de estabelecimentos e serviços de ação social;\n\nd) As transferências para o Governo Regional destinadas ao financiamento das políticas ativas de emprego e valorização profissional;\n\ne) Os encargos com a liquidação de benefícios por conta de organismos estrangeiros ao abrigo de instrumentos internacionais de segurança social e de quaisquer outros valores resultantes da execução destes instrumentos internacionais, nos termos dos normativos aplicáveis;\n\nf) Os encargos com a avaliação das incapacidades no âmbito do serviço de verificação de incapacidades;\n\ng) Os encargos de administração;\n\nh) As despesas e transferências de capital, designadamente investimentos do ISSM, IP-RAM, e financiamento de investimentos realizados através das IPSS e de outras instituições que exerçam atividades na área da segurança social;\n\ni) As transferências para o Instituto de Gestão Financeira da Segurança Social, IP, designadamente a título de excedente de execução orçamental, no âmbito das dotações integradas no Orçamento da Segurança Social;\n\nj) Outras despesas que sejam afetas a entidades do sistema de segurança social, cuja execução na RAM caiba ou seja atribuída ao ISSM, IP-RAM;\n\nk) Os encargos com ações de formação profissional promovidas pelo ISSM, IP-RAM;\n\nl) Outras despesas previstas ou permitidas legalmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304010": {
+   "fragment_id": "874306702",
+   "type": 1,
+   "heading": "Capítulo V — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Património"
+  },
+  "874304011": {
+   "fragment_id": "874306704",
+   "type": 1,
+   "heading": "Capítulo VI — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Pessoal"
+  },
+  "874303993": {
+   "fragment_id": "874306705",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime e mapa de pessoal",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 15.º — Regime e mapa de pessoal\n\n1 - O regime aplicável ao pessoal do ISSM, IP-RAM, é o genericamente estabelecido para os trabalhadores que exercem funções públicas, sem prejuízo do disposto neste diploma.\n\n2 - Compete ao membro do Governo Regional da tutela aprovar o mapa de pessoal do ISSM, IP-RAM.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304012": {
+   "fragment_id": "874306708",
+   "type": 1,
+   "heading": "Capítulo VII — Articulação e colaboração com outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Articulação e colaboração com outras entidades"
+  },
+  "874304013": {
+   "fragment_id": "874306715",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "874303994": {
+   "fragment_id": "874306717",
+   "type": 11,
+   "heading": "Artigo 24.º — Aplicação do regime especial de execução de dívidas à RAM",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 24.º — Aplicação do regime especial de execução de dívidas à RAM\n\nAs competências atribuídas na RAM ao Centro de Segurança Social da Madeira, nos termos do artigo 48.º do Decreto Legislativo Regional n.º 26/2004/M, de 20 de agosto, para os fins do Decreto-Lei n.º 42/2001, de 9 de fevereiro, na sua redação atual, consideram-se atribuídas, para os mesmos fins, na RAM, ao ISSM, IP-RAM, relativamente à execução das pessoas singulares e pessoas coletivas e outras entidades a estas legalmente equiparadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304015": {
+   "fragment_id": "874306793",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Adaptação do regime jurídico de instalação, funcionamento e fiscalização dos estabelecimentos de apoio social",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 24.º-A — Adaptação do regime jurídico de instalação, funcionamento e fiscalização dos estabelecimentos de apoio social\n\n1 - As referências ao Instituto da Segurança Social, IP, constantes nos artigos 7.º, 8.º, 9.º, 11.º, 15.º, 16.º, 17.º, 19.º, 20.º, 26.º, 28.º, 30.º, 31.º, 32.º, 33.º, 36.º, 38.º, 39.º, 39.º-C, 39.º-K e 40.º do Decreto-Lei n.º 64/2007, de 14 de março, com as alterações introduzidas pelos Decretos-Leis n.os99/2011, de 28 de setembro, e 33/2014, de 4 de março, no que à segurança social respeita, consideram-se reportadas, na Região Autónoma da Madeira, ao ISSM, IP-RAM.\n\n2 - A portaria mencionada no artigo 29.º do diploma referido no número anterior é da competência do membro do Governo Regional responsável pela área da segurança social.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304016": {
+   "fragment_id": "874306718",
+   "type": 11,
+   "heading": "Artigo 25.º — Legitimidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Legitimidade\n\nA legitimidade para reclamar judicialmente créditos de segurança social sobre contribuintes e beneficiários de segurança social, referenciados no n.º 2 do artigo 3.º, no âmbito de processos de insolvência, recuperação e reclamação de créditos, bem como a legitimidade para intervir passiva ou ativamente em processos judiciais, pertence ao ISSM, IP-RAM, que assumirá a posição jurídica processual do Centro de Segurança Social da Madeira em todas as ações, processos ou incidentes."
+  },
+  "874304017": {
+   "fragment_id": "874306719",
+   "type": 11,
+   "heading": "Artigo 26.º — Negócios jurídicos subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Negócios jurídicos subsistentes\n\nTodos os direitos e obrigações resultantes de negócios jurídicos celebrados pelo Centro de Segurança Social da Madeira ou provenientes de negócios celebrados pelos antecessores, Centro Regional de Segurança Social, Direção Regional da Segurança Social e Caixa de Previdência e Abono de Família do Distrito do Funchal, e que subsistam à data da entrada em vigor do presente diploma, mantêm-se válidos, transferindo-se para a esfera jurídica do ISSM, IP-RAM, todas as posições contratuais assumidas por aquelas entidades."
+  },
+  "874304018": {
+   "fragment_id": "874306720",
+   "type": 11,
+   "heading": "Artigo 27.º — Transferências de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Transferências de créditos\n\nTransitam para a esfera jurídica do ISSM, IP-RAM, todos os créditos, valores, contas, títulos, direitos e ações do Centro de Segurança Social da Madeira."
+  },
+  "874304019": {
+   "fragment_id": "874306721",
+   "type": 11,
+   "heading": "Artigo 28.º — Regalias e isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Regalias e isenções\n\nO ISSM, IP-RAM, goza de todas as regalias e isenções reconhecidas por lei ao Estado."
+  },
+  "874304021": {
+   "fragment_id": "874306794",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Assunção de encargos, prestação de serviços e despesas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 28.º-A — Assunção de encargos, prestação de serviços e despesas\n\n1 - A autorização prévia relativa à assunção de encargos plurianuais pelo ISSM, IP-RAM, nos termos da alínea b) do n.º 1 do artigo 6.º da Lei dos Compromissos e Pagamentos em Atraso, aprovada pela Lei n.º 8/2012, de 21 de fevereiro, na sua redação atual, bem como a emissão de parecer prévio vinculativo para a celebração ou renovação de contratos de prestação de serviços a que se refere o n.º 5 do artigo 51.º do Decreto Legislativo Regional n.º 17/2015/M, de 30 de dezembro, conjugado com o n.º 7 do artigo 49.º do Decreto Legislativo Regional n.º 18/2014/M, de 31 de dezembro, é da competência do membro do Governo Regional responsável pela área das finanças.\n\n2 - Compete ao membro do Governo Regional da tutela, e demais entidades regionais, conferir a autorização prévia de despesas no âmbito dos procedimentos de contratação pública promovidos pelo ISSM, IP-RAM, sem prejuízo das competências legalmente atribuídas aos órgãos próprios daquele instituto nos termos da lei.\n\n3 - Os pedidos do ISSM, IP-RAM referentes às situações referidas nos números anteriores são acompanhados dos seguintes documentos:\n\na) Declaração de cabimento orçamental emitida pelo ISSM, IP-RAM;\n\nb) Informação previamente validada pela Unidade de Gestão da Secretaria Regional da Inclusão e Assuntos Sociais, que assegura a conformidade da informação prestada pelo ISSM, IP-RAM.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874303995": {
+   "fragment_id": "874306723",
+   "type": 11,
+   "heading": "Artigo 29.º — Mandato do fiscal único",
+   "in_force_from": "2016-07-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+   ],
+   "markdown": "###### Artigo 29.º — Mandato do fiscal único\n\n1 - [Revogado.]\n\n2 - O mandato em curso do fiscal único mantém-se, até nova designação, nos termos da lei.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 29/2016/M - Diário da República n.º 135/2016, Série I de 2016-07-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-2016-74953322), em vigor a partir de 2016-07-16"
+  },
+  "874304022": {
+   "fragment_id": "874306795",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Suplementos remuneratórios",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 65.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 17.º-A — Suplementos remuneratórios\n\n1 - Aos trabalhadores afetos a linhas de emergência ou de apoio social e a respostas sociais que exijam disponibilidade permanente para prestação de trabalho a qualquer hora e em qualquer dia, e/ou prevenção, é atribuído um suplemento remuneratório mensal, 12 vezes ao ano, destinado a assegurar o seu funcionamento ininterrupto ou alargado e/ou isenção de horário de trabalho, calculado com base no nível 19 da Tabela Remuneratória Única, nas seguintes percentagens:\n\na) 12 %, no caso de trabalhador afeto a linhas de emergência ou de apoio social e a respostas sociais de funcionamento ininterrupto nos sete dias da semana;\n\nb) 5 %, no caso de trabalhador afeto a linhas de emergência ou de apoio social e a respostas sociais de funcionamento ininterrupto ou alargado distinto do previsto na alínea anterior.\n\n2 - As linhas de emergência ou de apoio social e a respostas sociais previstas no n.º 1, e respetivas condições e circunstâncias específicas, são definidas por despacho do membro do governo responsável pela área da inclusão e assuntos sociais.\n\n> Aditado pelo/a Artigo 65.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01"
+  },
+  "874304023": {
+   "fragment_id": "874306795",
+   "type": 11,
+   "heading": "Artigo 17.º-A — Suplementos remuneratórios",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 98.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01",
+    "Aditado pelo/a Artigo 65.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 17.º-A — Suplementos remuneratórios\n\n1 - Aos trabalhadores afetos a linhas de emergência ou de apoio social e a respostas sociais que exijam disponibilidade permanente para prestação de trabalho a qualquer hora e em qualquer dia, e/ou prevenção, é atribuído um suplemento remuneratório mensal, 12 vezes ao ano, destinado a assegurar o seu funcionamento ininterrupto, calculado com base no nível 19 da Tabela Remuneratória Única, nas seguintes percentagens:\n\na) 20 %, no caso de trabalhador afeto a linhas de emergência ou de apoio social e a respostas sociais de funcionamento ininterrupto, todos os dias do ano, durante 24:00 horas/dia;\n\nb) 12 %, no caso de trabalhador afeto a linhas de emergência ou de apoio social e a respostas sociais de funcionamento ininterrupto, todos os dias do ano, em horário alargado.\n\n2 - As linhas de emergência ou de apoio social e a respostas sociais previstas no n.º 1, e respetivas condições e circunstâncias específicas, são definidas por despacho do membro do Governo Regional responsável pela área da inclusão, trabalho e juventude.\n\n> Alterado pelo/a Artigo 98.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30, produz efeitos a partir de 2024-01-01\n\n> Aditado pelo/a Artigo 65.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01, produz efeitos a partir de 2019-01-01"
+  }
+ }
+}

@@ -1,0 +1,1102 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66041469:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2015-67396717",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2015-66041469",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-01-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "67395055",
+    "67395056",
+    "67395057",
+    "67395058",
+    "67395059",
+    "67395060",
+    "67395061",
+    "67395062",
+    "67395063",
+    "67395064",
+    "67395065",
+    "67395066",
+    "67395067",
+    "67395068",
+    "67395069",
+    "67395070",
+    "67395071",
+    "67395072",
+    "67395073",
+    "67395074",
+    "67395675",
+    "67395676",
+    "67395677",
+    "67395678",
+    "67395679",
+    "67395680",
+    "67395681",
+    "67395682",
+    "67395683",
+    "67395684",
+    "67395685",
+    "67395686",
+    "67395687",
+    "67395688",
+    "67395689",
+    "67395690",
+    "67395691",
+    "67395692",
+    "67395693",
+    "67395694",
+    "67395695",
+    "67395696",
+    "67395697",
+    "67395698",
+    "67395699",
+    "67395700",
+    "67395701",
+    "67395702",
+    "67395703",
+    "67395704",
+    "67395705",
+    "67395706",
+    "67395707",
+    "67395708",
+    "67395709",
+    "67395710"
+   ]
+  },
+  {
+   "date": "2015-03-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66849067:por",
+     "title": "Decreto Legislativo Regional n.º 7/2015/A",
+     "published": "2015-03-26",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/7-2015-66849067"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 24.º-A",
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "67395055",
+    "67395056",
+    "67395057",
+    "67395058",
+    "67395059",
+    "67395060",
+    "67395061",
+    "67395062",
+    "67395063",
+    "67395064",
+    "67395065",
+    "67395066",
+    "67395067",
+    "67395068",
+    "67395069",
+    "67395070",
+    "67395071",
+    "67395072",
+    "67395073",
+    "67395074",
+    "67395675",
+    "67395676",
+    "67395677",
+    "67395678",
+    "67395679",
+    "67395680",
+    "67395681",
+    "67395682",
+    "67395683",
+    "67395684",
+    "67395685",
+    "67395686",
+    "67395687",
+    "70915423",
+    "70915424",
+    "70915425",
+    "70915426",
+    "70915427",
+    "67395692",
+    "67395693",
+    "70915422",
+    "67395695",
+    "67395696",
+    "67395697",
+    "67395698",
+    "67395699",
+    "67395700",
+    "67395701",
+    "67395702",
+    "67395703",
+    "67395704",
+    "67395705",
+    "67395706",
+    "67395707",
+    "67395708",
+    "67395709",
+    "67395710",
+    "70903049",
+    "70916164",
+    "70916165",
+    "70916166",
+    "70916167",
+    "70916168",
+    "70916169",
+    "70916170",
+    "70916171",
+    "70916172",
+    "70916173",
+    "70916174"
+   ]
+  },
+  {
+   "date": "2015-06-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67377973:por",
+     "title": "Decreto Legislativo Regional n.º 15/2015/A",
+     "published": "2015-06-03",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/15-2015-67377973"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º",
+    "Altera MAPA I",
+    "Altera MAPA II",
+    "Altera MAPA III",
+    "Altera MAPA IV",
+    "Altera MAPA X"
+   ],
+   "fragments": [
+    "67395055",
+    "67395056",
+    "67395057",
+    "67395058",
+    "67395059",
+    "67395060",
+    "67395061",
+    "67395062",
+    "67395063",
+    "67395064",
+    "67395065",
+    "67395066",
+    "70915433",
+    "67395068",
+    "67395069",
+    "67395070",
+    "67395071",
+    "67395072",
+    "67395073",
+    "67395074",
+    "67395675",
+    "67395676",
+    "67395677",
+    "67395678",
+    "67395679",
+    "67395680",
+    "67395681",
+    "67395682",
+    "67395683",
+    "67395684",
+    "67395685",
+    "67395686",
+    "67395687",
+    "70915423",
+    "70915424",
+    "70915425",
+    "70915426",
+    "70915427",
+    "67395692",
+    "67395693",
+    "70915422",
+    "67395695",
+    "67395696",
+    "67395697",
+    "67395698",
+    "67395699",
+    "67395700",
+    "67395701",
+    "67395702",
+    "67395703",
+    "67395704",
+    "67395705",
+    "67395706",
+    "67395707",
+    "67395708",
+    "67395709",
+    "67395710",
+    "70903049",
+    "70915428",
+    "70915429",
+    "70915430",
+    "70915431",
+    "70916168",
+    "70916169",
+    "70916170",
+    "70916171",
+    "70916172",
+    "70915432",
+    "70916174"
+   ]
+  },
+  {
+   "date": "2015-10-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70804096:por",
+     "title": "Decreto Legislativo Regional n.º 23/2015/A",
+     "published": "2015-10-26",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/23-2015-70804096"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º"
+   ],
+   "fragments": [
+    "67395055",
+    "67395056",
+    "67395057",
+    "67395058",
+    "67395059",
+    "67395060",
+    "67395061",
+    "67395062",
+    "67395063",
+    "67395064",
+    "67395065",
+    "67395066",
+    "70915433",
+    "67395068",
+    "67395069",
+    "67395070",
+    "67395071",
+    "67395072",
+    "67395073",
+    "67395074",
+    "67395675",
+    "67395676",
+    "67395677",
+    "67395678",
+    "67395679",
+    "67395680",
+    "67395681",
+    "67395682",
+    "67395683",
+    "67395684",
+    "67395685",
+    "67395686",
+    "67395687",
+    "70915423",
+    "70915424",
+    "70915425",
+    "70915426",
+    "70915427",
+    "67395692",
+    "67395693",
+    "70915434",
+    "67395695",
+    "67395696",
+    "67395697",
+    "67395698",
+    "67395699",
+    "67395700",
+    "67395701",
+    "67395702",
+    "67395703",
+    "67395704",
+    "67395705",
+    "67395706",
+    "67395707",
+    "67395708",
+    "67395709",
+    "67395710",
+    "70903049",
+    "70915428",
+    "70915429",
+    "70915430",
+    "70915431",
+    "70916168",
+    "70916169",
+    "70916170",
+    "70916171",
+    "70916172",
+    "70915432",
+    "70916174"
+   ]
+  },
+  {
+   "date": "2016-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72970526:por",
+     "title": "Decreto Legislativo Regional n.º 27/2015/A",
+     "published": "2015-12-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/27-2015-72970526"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 24.º"
+   ],
+   "fragments": [
+    "67395055",
+    "67395056",
+    "67395057",
+    "67395058",
+    "67395059",
+    "67395060",
+    "67395061",
+    "67395062",
+    "67395063",
+    "67395064",
+    "67395065",
+    "67395066",
+    "70915433",
+    "67395068",
+    "67395069",
+    "67395070",
+    "67395071",
+    "67395072",
+    "67395073",
+    "67395074",
+    "67395675",
+    "67395676",
+    "67395677",
+    "67395678",
+    "67395679",
+    "67395680",
+    "67395681",
+    "67395682",
+    "67395683",
+    "67395684",
+    "67395685",
+    "67395686",
+    "126348185",
+    "70915423",
+    "70915424",
+    "70915425",
+    "70915426",
+    "70915427",
+    "67395692",
+    "67395693",
+    "70915434",
+    "67395695",
+    "67395696",
+    "67395697",
+    "67395698",
+    "67395699",
+    "67395700",
+    "67395701",
+    "67395702",
+    "67395703",
+    "67395704",
+    "67395705",
+    "67395706",
+    "67395707",
+    "67395708",
+    "67395709",
+    "67395710",
+    "70903049",
+    "70915428",
+    "70915429",
+    "70915430",
+    "70915431",
+    "70916168",
+    "70916169",
+    "70916170",
+    "70916171",
+    "70916172",
+    "70915432",
+    "70916174"
+   ]
+  }
+ ],
+ "fragments": {
+  "67395055": {
+   "fragment_id": "67396718",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 1/2015/A\n\nORÇAMENTO DA REGIÃO AUTÓNOMA DOS AÇORES PARA O ANO 2015\n\nA Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea p) do n.º 1 do artigo 227.º e do n.º 1 do artigo 232.º da Constituição da República Portuguesa e da alínea c) do artigo 34.º e do n.º 1 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:\n\n> Nota: [Artigo 1.º, Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973) Os mapas I, II, III, IV e X publicados em anexo ao Decreto Legislativo Regional n.º 1/2015/A, de 7 de janeiro, são alterados nos termos constantes dos mapas em anexo ao Decreto Legislativo Regional n.º 15/2015/A, de 3 de junho."
+  },
+  "67395056": {
+   "fragment_id": "67396719",
+   "type": 1,
+   "heading": "Capítulo I — Aprovação do orçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Aprovação do orçamento"
+  },
+  "67395057": {
+   "fragment_id": "67396720",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação\n\nÉ aprovado pelo presente diploma o Orçamento da Região Autónoma dos Açores para 2015, constante dos mapas seguintes:\n\na) Mapas I a IX do orçamento da administração pública regional, incluindo os orçamentos dos fundos e serviços autónomos;\n\nb) Mapa X, com os programas e projetos de investimento de cada secretaria regional;\n\nc) Mapa XI, com as responsabilidades contratuais plurianuais, agregadas por departamento regional."
+  },
+  "67395058": {
+   "fragment_id": "67396721",
+   "type": 1,
+   "heading": "Capítulo II — Disciplina orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disciplina orçamental"
+  },
+  "67395059": {
+   "fragment_id": "67396722",
+   "type": 11,
+   "heading": "Artigo 2.º — Utilização das dotações orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Utilização das dotações orçamentais\n\n1 - Ficam cativos 6% do total das verbas orçamentadas em aquisição de bens e serviços.\n\n2 - A descativação da verba referida no número anterior só pode realizar-se por razões excecionais, estando sempre sujeita à autorização do membro do Governo Regional responsável pela área das finanças, que decide os montantes a descativar em função da evolução da execução orçamental."
+  },
+  "67395060": {
+   "fragment_id": "67396723",
+   "type": 11,
+   "heading": "Artigo 3.º — Gestão do património regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Gestão do património regional\n\n1 - A gestão patrimonial da administração direta e indireta da Região Autónoma dos Açores deve orientar-se por critérios de eficiência e de racionalidade de modo a minimizar o respetivo impacto orçamental.\n\n2 - Para efeitos de avaliação do impacto orçamental, a aquisição onerosa do direito de propriedade e de outros direitos reais de gozo sobre imóveis para o património da administração direta e indireta da Região Autónoma dos Açores, quando não dependa legalmente de autorização do membro do Governo Regional responsável pela área das finanças, fica sujeita à anuência prévia daquele membro do Governo Regional.\n\n3 - O pedido de anuência prévia deve ser fundamentado e indicar a descrição física e legal do imóvel sobre o qual se pretende adquirir qualquer direito e respetivo preço de aquisição.\n\n4 - A permuta de imóveis por parte dos serviços da administração direta e indireta da Região Autónoma dos Açores fica sujeita ao regime previsto nos números anteriores, mesmo quando não haja lugar a qualquer pagamento por parte da Região resultante da diferença de valores dos imóveis objeto de permuta.\n\n5 - O decreto regulamentar regional de execução do Orçamento da Região Autónoma dos Açores define os bens e direitos cuja aquisição ou locação dependem da autorização prévia e específica do membro do Governo Regional responsável pela área das finanças.\n\n6 - Na falta ou insuficiência de legislação própria, aplica-se à gestão do património regional a legislação nacional aplicável ao domínio privado do Estado, com as necessárias adaptações orgânicas."
+  },
+  "67395061": {
+   "fragment_id": "67396724",
+   "type": 11,
+   "heading": "Artigo 4.º — Transferências orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transferências orçamentais\n\n1 - O Governo Regional dos Açores fica autorizado a proceder às alterações orçamentais que se revelarem necessárias à execução do Orçamento Regional, fazendo cumprir, nesta matéria, o Decreto-Lei n.º 71/95, de 15 de abril, com as devidas adaptações, em termos de correspondência dos órgãos e serviços da administração regional às referências ali constantes aos órgãos e serviços da Administração do Estado.\n\n2 - Quando se verifique a deslocação ou transferência de serviços entre departamentos da administração regional ou entre serviços do mesmo departamento, as dotações orçamentais inscritas nos orçamentos dos serviços de origem poderão ser transferidas para os serviços de destino.\n\n3 - Quando se verifiquem transferências de pessoal entre departamentos da administração regional ou dentro de cada departamento, de um organismo para outro organismo, justificadas pela mobilidade e reafetação de recursos humanos e seu racional aproveitamento, as dotações orçamentais inscritas nos orçamentos de origem poderão, respetivamente, ser transferidas para os departamentos ou organismos de destino."
+  },
+  "67395062": {
+   "fragment_id": "67396725",
+   "type": 11,
+   "heading": "Artigo 5.º — Retenção de transferências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Retenção de transferências\n\nQuando os fundos e serviços autónomos dotados de autonomia financeira não prestem tempestivamente e por motivo que lhes seja imputável, à Direção Regional do Orçamento e Tesouro, a informação anualmente definida no decreto regulamentar de execução orçamental, podem ser retidas as transferências e recusadas as antecipações de duodécimos, nos termos a fixar no referido diploma e até que a situação seja devidamente sanada."
+  },
+  "67395063": {
+   "fragment_id": "67396726",
+   "type": 1,
+   "heading": "Capítulo III — Disposições relativas a trabalhadores do Setor Público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições relativas a trabalhadores do Setor Público"
+  },
+  "67395064": {
+   "fragment_id": "67396727",
+   "type": 11,
+   "heading": "Artigo 6.º — Admissão de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Admissão de pessoal\n\nA admissão, a qualquer título, de pessoal para os serviços e organismos da administração regional, incluindo os institutos públicos e os serviços personalizados regionais, carece de prévia autorização do membro do Governo Regional responsável pela área das finanças e da administração pública."
+  },
+  "67395065": {
+   "fragment_id": "67396728",
+   "type": 1,
+   "heading": "Capítulo IV — Transferências e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Transferências e financiamento"
+  },
+  "67395066": {
+   "fragment_id": "67396729",
+   "type": 11,
+   "heading": "Artigo 7.º — Transferências do Orçamento do Estado e da União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transferências do Orçamento do Estado e da União Europeia\n\n1 - Os montantes a receber, por transferência, do Orçamento do Estado deverão atingir o valor de (euro) 250 963 710.\n\n2 - O valor estimado para as transferências da União Europeia deverá atingir o montante de (euro) 194 229 000."
+  },
+  "67395067": {
+   "fragment_id": "67396730",
+   "type": 11,
+   "heading": "Artigo 8.º — Necessidades de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Necessidades de financiamento\n\nFica o Governo Regional autorizado, nos termos da lei, a contrair empréstimos, incluindo créditos bancários, até ao montante de (euro) 69 143 000, dos quais (euro) 19 143 000 respeitam a uma operação de refinanciamento e os restantes destinam-se ao financiamento de projetos com comparticipação de Fundos Europeus Estruturais e de Investimento (FEEI)."
+  },
+  "67395068": {
+   "fragment_id": "67396731",
+   "type": 1,
+   "heading": "Capítulo V — Finanças locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Finanças locais"
+  },
+  "67395069": {
+   "fragment_id": "67396732",
+   "type": 11,
+   "heading": "Artigo 9.º — Transferências do Orçamento do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Transferências do Orçamento do Estado\n\nFica o Governo Regional autorizado, através do membro do Governo Regional responsável pela área das finanças, a transferir para as autarquias locais da Região Autónoma dos Açores os apoios financeiros inscritos no Orçamento do Estado a favor destas, líquidos das retenções que venham a ser efetuadas nos termos da lei."
+  },
+  "67395070": {
+   "fragment_id": "67396733",
+   "type": 1,
+   "heading": "Capítulo VI — Operações ativas e prestação de garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Operações ativas e prestação de garantias"
+  },
+  "67395071": {
+   "fragment_id": "67396734",
+   "type": 11,
+   "heading": "Artigo 10.º — Operações ativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Operações ativas\n\nFica o Governo Regional autorizado a realizar operações ativas até ao montante (euro) 4 000 000."
+  },
+  "67395072": {
+   "fragment_id": "67396735",
+   "type": 11,
+   "heading": "Artigo 11.º — Mobilização de ativos e recuperação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Mobilização de ativos e recuperação de créditos\n\nFica o Governo Regional autorizado, no âmbito da recuperação de créditos e outros ativos financeiros da Região detidos pela Direção Regional do Orçamento e Tesouro:\n\na) A proceder à redefinição das condições de pagamento das dívidas nos casos em que os devedores se proponham pagar a pronto ou em prestações;\n\nb) A proceder à anulação de créditos detidos pela Direção Regional do Orçamento e Tesouro, quando, em casos devidamente fundamentados, se verifique que não se justifica a respetiva recuperação."
+  },
+  "67395073": {
+   "fragment_id": "67396736",
+   "type": 11,
+   "heading": "Artigo 12.º — Alienação de participações sociais da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alienação de participações sociais da Região\n\nFica o Governo Regional autorizado a alienar as participações sociais que a Região Autónoma dos Açores detém em entidades participadas, à exceção das de setores considerados estratégicos para a Região Autónoma dos Açores e de primeira necessidade para as populações."
+  },
+  "67395074": {
+   "fragment_id": "67396737",
+   "type": 11,
+   "heading": "Artigo 13.º — Princípio da unidade da tesouraria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Princípio da unidade da tesouraria\n\n1 - Toda a movimentação de fundos dos serviços e organismos dotados de autonomia administrativa e financeira da Região Autónoma dos Açores deve ser efetuada no âmbito do sistema de centralização de tesouraria - Safira.\n\n2 - As contas dos serviços referidos no número anterior devem ser abertas com a autorização prévia da Direção Regional do Orçamento e Tesouro.\n\n3 - As entidades públicas empresariais regionais devem manter as suas disponibilidades e aplicações financeiras no âmbito do sistema Safira."
+  },
+  "67395675": {
+   "fragment_id": "67396738",
+   "type": 11,
+   "heading": "Artigo 14.º — Limite máximo para a concessão de garantias pela Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Limite máximo para a concessão de garantias pela Região\n\n1 - O limite máximo para a autorização da concessão de garantias pela Região em 2015 é fixado em (euro) 145 000 000.\n\n2 - O aval da Região Autónoma dos Açores poderá ser concedido para garantir operações de refinanciamento desde que não impliquem um aumento do endividamento líquido, com observância do limite fixado no número anterior."
+  },
+  "67395676": {
+   "fragment_id": "67396739",
+   "type": 11,
+   "heading": "Artigo 15.º — Garantias de empréstimos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Garantias de empréstimos\n\nFica o Governo Regional autorizado a garantir, nas condições correntes nos respetivos mercados, operações financeiras em moeda com curso legal em Portugal ou em moeda estrangeira requeridas pela execução de empreendimentos de reconhecido interesse económico e social para a Região."
+  },
+  "67395677": {
+   "fragment_id": "67396740",
+   "type": 1,
+   "heading": "Capítulo VII — Gestão da dívida pública regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Gestão da dívida pública regional"
+  },
+  "67395678": {
+   "fragment_id": "67396741",
+   "type": 11,
+   "heading": "Artigo 16.º — Gestão da dívida pública direta da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Gestão da dívida pública direta da Região\n\nFica o Governo Regional autorizado, através do membro do Governo Regional responsável pela área das finanças, a realizar as seguintes operações de gestão de dívida pública direta da Região:\n\na) À contratação de novas operações destinadas a fazer face ao pagamento antecipado ou à transferência das responsabilidades associadas a empréstimos anteriores;\n\nb) Ao reforço das dotações orçamentais para amortização de capital;\n\nc) Ao pagamento antecipado, total ou parcial, de empréstimos já contratados;\n\nd) À renegociação das condições de empréstimos anteriores, incluindo a celebração de contratos de troca (swaps), do regime de taxa de juro, de divisa e de outras condições contratuais;\n\ne) À emissão de dívida flutuante, para fazer face a operações de reforço de tesouraria;\n\nf) Ao pagamento de juros, comissões e outros encargos resultantes de empréstimos contraídos ou a contrair."
+  },
+  "67395679": {
+   "fragment_id": "67396742",
+   "type": 11,
+   "heading": "Artigo 17.º — Gestão da dívida do Setor Público Empresarial Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Gestão da dívida do Setor Público Empresarial Regional\n\nFica o Governo Regional autorizado, através do membro do Governo Regional responsável pela área das finanças, a realizar operações de aquisição de dívidas das empresas do Setor Público Empresarial Regional, avalizadas pela Região."
+  },
+  "67395680": {
+   "fragment_id": "67396743",
+   "type": 1,
+   "heading": "Capítulo VIII — Despesas orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Despesas orçamentais"
+  },
+  "67395681": {
+   "fragment_id": "67396744",
+   "type": 11,
+   "heading": "Artigo 18.º — Controlo das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Controlo das despesas\n\nO Governo Regional tomará as medidas necessárias à rigorosa contenção das despesas públicas e ao controlo da sua eficiência, de forma a alcançar uma melhor aplicação dos recursos públicos."
+  },
+  "67395682": {
+   "fragment_id": "67396745",
+   "type": 11,
+   "heading": "Artigo 19.º — Fundos e serviços autónomos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Fundos e serviços autónomos\n\n1 - Os fundos e serviços autónomos deverão remeter ao membro do Governo Regional responsável pela área das finanças, balancetes trimestrais que permitam avaliar a respetiva execução orçamental, bem como os elementos necessários à avaliação da execução das despesas incluídas no plano de investimentos da Região, conforme vier a ser definido no decreto regulamentar regional de execução do Orçamento da Região Autónoma dos Açores.\n\n2 - Em 2015, os fundos e serviços autónomos não poderão contrair empréstimos que aumentem o seu endividamento líquido.\n\n3 - A emissão de garantias a favor de terceiros pelos serviços e fundos autónomos depende de autorização prévia do membro do Governo Regional responsável pela área das finanças."
+  },
+  "67395683": {
+   "fragment_id": "67396746",
+   "type": 11,
+   "heading": "Artigo 20.º — Autorização de despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Autorização de despesas\n\n1 - São competentes para autorizar despesas com empreitadas de obras públicas, locação e aquisição de bens e serviços as seguintes entidades, com os seguintes limites:\n\na) Até (euro) 100 000, os diretores regionais e os órgãos máximos dos serviços com autonomia administrativa;\n\nb) Até (euro) 200 000, os órgãos máximos dos organismos dotados de autonomia administrativa e financeira;\n\nc) Até (euro) 1 000 000, o vice-presidente, os secretários regionais e os subsecretários regionais;\n\nd) Até (euro) 4 000 000, o presidente do Governo Regional;\n\ne) Sem limite, o Conselho do Governo Regional.\n\n2 - As competências referidas no número anterior podem ser delegadas, nos termos que vierem a ser fixados no decreto regulamentar regional que puser em execução o Orçamento da Região Autónoma dos Açores para o ano 2015 ou em diploma autónomo."
+  },
+  "67395684": {
+   "fragment_id": "67396747",
+   "type": 11,
+   "heading": "Artigo 21.º — Despesas com deslocações ao estrangeiro e consultadoria externa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Despesas com deslocações ao estrangeiro e consultadoria externa\n\n1 - As despesas com a deslocação ao estrangeiro relativamente ao pessoal vinculado a qualquer título à administração pública regional, incluindo os institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos, não deverão registar acréscimos.\n\n2 - Excetua-se do limite previsto no número anterior o gabinete do Subsecretário Regional da Presidência para as Relações Externas e a Direção Regional das Comunidades.\n\n3 - O recurso à consultadoria externa não deverá ocorrer em áreas técnicas para as quais existam quadros técnicos dos serviços e organismos da administração pública regional, incluindo os institutos públicos regionais que revistam a natureza de serviços personalizados ou de fundos públicos."
+  },
+  "67395685": {
+   "fragment_id": "67396748",
+   "type": 11,
+   "heading": "Artigo 22.º — Aplicação do Decreto-Lei n.º 18/2008, de 29 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Aplicação do Decreto-Lei n.º 18/2008, de 29 de janeiro\n\nNa aplicação do Decreto-Lei n.º 18/2008, de 29 de janeiro, consideram-se reportadas aos órgãos e serviços correspondentes da administração regional as referências feitas naquele diploma a órgãos e serviços da Administração do Estado."
+  },
+  "67395686": {
+   "fragment_id": "67396749",
+   "type": 11,
+   "heading": "Artigo 23.º — Alteração ao Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Alteração ao Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho\n\nO artigo 5.º do Decreto Legislativo Regional n.º 14/2009/A, de 29 de julho, na redação que lhe foi dada pelo artigo 24.º do Decreto Legislativo Regional n.º 2/2014/A, de 29 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 5.º\n\n[...]\n\nO regime excecional previsto no presente diploma é aplicável aos contratos de empreitada e de subempreitada de obras públicas celebrados até 31 de dezembro de 2016.»"
+  },
+  "67395687": {
+   "fragment_id": "67396750",
+   "type": 11,
+   "heading": "Artigo 24.º — Isenção de caução nos contratos de empreitada e subempreitada de obras públicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Isenção de caução nos contratos de empreitada e subempreitada de obras públicas\n\n1 - Nos contratos de empreitada de obras públicas a celebrar pelas entidades adjudicantes referidas no artigo 2.º do Decreto Legislativo Regional n.º 34/2008/A, de 28 do julho, cujos procedimentos de formação se iniciem após a entrada em vigor do presente diploma e até 31 de dezembro de 2016, não há lugar à prestação de caução, quando o preço contratual for inferior (euro) 200 000.\n\n2 - O disposto no número anterior aplica-se, com as devidas adaptações aos contratos de subempreitada de obras públicas."
+  },
+  "67395688": {
+   "fragment_id": "67396751",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração do Decreto Legislativo Regional n.º 20/2012/A, de 18 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração do Decreto Legislativo Regional n.º 20/2012/A, de 18 de abril\n\nO artigo 1.º do Decreto Legislativo Regional n.º 20/2012/A, de 18 de abril, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - O valor da caução a prestar nos termos e para os efeitos do artigo 53.º do Decreto Legislativo Regional n.º 12/2007/A, de 5 de junho, é, até 31 de dezembro de 2015, reduzido para 25%.\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].»"
+  },
+  "67395689": {
+   "fragment_id": "67396752",
+   "type": 11,
+   "heading": "Artigo 26.º — Pagamento no âmbito do Serviço Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pagamento no âmbito do Serviço Regional de Saúde\n\n1 - As instituições e os serviços integrados no Serviço Regional de Saúde podem contratar qualquer modalidade de cessão de créditos relativamente às suas dívidas, convencionando juros moratórios inferiores aos legais na ausência de pagamento nos prazos legais, por despacho conjunto do vice-presidente do Governo Regional e do secretário regional da Saúde.\n\n2 - As cessões de crédito já efetuadas no âmbito dos sistemas de pagamento em vigor para as instituições e serviços integrados no Serviço Regional de Saúde devem respeitar o disposto no número anterior, sendo a informação centralizada na SAUDAÇOR - Sociedade Gestora de Recursos e Equipamentos dos Açores, S. A."
+  },
+  "67395690": {
+   "fragment_id": "67396753",
+   "type": 11,
+   "heading": "Artigo 27.º — Limitação das remunerações dos gestores públicos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Limitação das remunerações dos gestores públicos regionais\n\nOs gestores públicos regionais não podem usufruir remuneração superior à estabelecida para o cargo de presidente do Governo Regional."
+  },
+  "67395691": {
+   "fragment_id": "67396754",
+   "type": 11,
+   "heading": "Artigo 28.º — Utilização das dotações orçamentais para software informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Utilização das dotações orçamentais para software informático\n\nAs despesas com aquisição de licenças de software apenas podem ser executadas nos casos em que seja fundamentadamente demonstrada a inexistência de soluções alternativas em software livre ou que o custo total de utilização da solução em software livre seja superior à solução em software proprietário ou sujeito a licenciamento específico, incluindo nestes todos os eventuais custos de manutenção, adaptação, migração ou saída."
+  },
+  "67395692": {
+   "fragment_id": "67396755",
+   "type": 1,
+   "heading": "Capítulo IX — Adaptação do sistema fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Adaptação do sistema fiscal"
+  },
+  "67395693": {
+   "fragment_id": "67396756",
+   "type": 11,
+   "heading": "Artigo 29.º — Deduções à coleta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Deduções à coleta\n\n1 - Em cumprimento do disposto no n.º 4 do artigo 6.º do Decreto Legislativo Regional n.º 2/99/A, de 20 de janeiro, determina-se que os lucros que beneficiarão da dedução à coleta são os que forem reinvestidos:\n\na) Na promoção turística e na reabilitação de empreendimentos turísticos;\n\nb) Na aquisição de novas embarcações de pesca;\n\nc) Na investigação científica e desenvolvimento experimental (I&D) com interesse relevante;\n\nd) No reforço da capacidade de exportação das empresas regionais e de criação de bens transacionáveis de caráter inovador;\n\ne) Em investimentos de apoio social de âmbito empresarial;\n\nf) No tratamento de resíduos e efluentes, em energias renováveis e eficiência energética;\n\ng) Aquicultura e transformação de pescado.\n\n2 - O Governo Regional dos Açores definirá as condições de aplicabilidade das deduções previstas no número anterior, mediante decreto regulamentar regional."
+  },
+  "67395694": {
+   "fragment_id": "67396757",
+   "type": 11,
+   "heading": "Artigo 30.º — Benefícios Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Benefícios Fiscais\n\n1 - Em cumprimento do disposto no n.º 4 do artigo 9.º do Decreto Legislativo Regional n.º 2/99/A, de 20 de janeiro, determina-se que são considerados relevantes, tendo em vista a concessão de benefícios fiscais em regime contratual, os projetos de investimentos em unidades produtivas de valor superior a (euro) 2 000 000 e que tenham reconhecida e notória relevância estratégica para a economia regional.\n\n2 - O limite previsto no número anterior é de (euro) 400 000 nas ilhas do Corvo, Flores, Faial, Pico, São Jorge, Graciosa e Santa Maria."
+  },
+  "67395695": {
+   "fragment_id": "67396758",
+   "type": 1,
+   "heading": "Capítulo X — Concessão de subsídios e outras formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Concessão de subsídios e outras formas de apoio"
+  },
+  "67395696": {
+   "fragment_id": "67396759",
+   "type": 11,
+   "heading": "Artigo 31.º — Concessão de subsídios e outras formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Concessão de subsídios e outras formas de apoio\n\n1 - Fica o Governo Regional autorizado a conceder subsídios e outras formas de apoio a entidades públicas e privadas no âmbito das ações e projetos de desenvolvimento que visem a melhoria da qualidade de vida e que tenham enquadramento nos objetivos do plano da Região Autónoma dos Açores, designadamente para:\n\na) Proteção civil;\n\nb) Transportes;\n\nc) Construção, reabilitação e equipamento de infraestruturas públicas;\n\nd) Saúde e solidariedade social;\n\ne) Educação e formação;\n\nf) Turismo;\n\ng) Agricultura e pecuária;\n\nh) Aquicultura e transformação de pescado.\n\n2 - Fica o Governo Regional autorizado a conceder subsídios e outras formas de apoio a ações e projetos de caráter social, económico, cultural, desportivo e religioso, que visem a salvaguarda das tradições, usos e costumes, o património regional ou a promoção da Região Autónoma dos Açores.\n\n3 - No âmbito do disposto no número anterior, os apoios a conceder poderão assumir a forma de compensação pelos financiamentos utilizados pelas entidades beneficiárias na prossecução dos objetivos inerentes.\n\n4 - A concessão destes auxílios fundamenta-se em motivo de interesse público e faz-se com respeito pelos princípios da publicidade, da transparência, da concorrência e da imparcialidade.\n\n5 - A concessão dos auxílios previstos neste preceito é sempre precedida de resolução do Conselho do Governo Regional, na qual é fixado o limite máximo orçamental dos apoios a conceder e indicado a finalidade destes, o enquadramento orçamental da despesa inerente e, quando for o caso, a respetiva repartição plurianual, bem como o departamento do Governo Regional responsável pela sua atribuição.\n\n6 - Os apoios a conceder em concreto são autorizados por despacho do membro do Governo Regional que representa o departamento referido no número anterior e objeto de contrato-programa com o beneficiário, no qual devem ser definidos os objetivos, o tipo e o valor do apoio, os direitos e as obrigações das partes, as medidas de controlo e acompanhamento, bem como o regime sancionatório em caso de incumprimento.\n\n7 - Todos os subsídios e formas de apoio concedidos serão objeto de publicação no Jornal Oficial da Região Autónoma da Açores."
+  },
+  "67395697": {
+   "fragment_id": "67396760",
+   "type": 11,
+   "heading": "Artigo 32.º — Subsídios e outras formas de apoio abrangidos pelo artigo anterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Subsídios e outras formas de apoio abrangidos pelo artigo anterior\n\n1 - Estão abrangidos pelo disposto no artigo anterior os subsídios e outras formas de apoio concedidos pelos serviços da administração direta regional, assim como os referentes a todas as entidades públicas que, nos termos da lei, gozem de autonomia administrativa e financeira.\n\n2 - Os apoios financeiros concedidos ao abrigo de legislação específica deverão respeitar o previsto no respetivo regime legal."
+  },
+  "67395698": {
+   "fragment_id": "67396761",
+   "type": 1,
+   "heading": "Capítulo XI — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Disposições finais"
+  },
+  "67395699": {
+   "fragment_id": "67396762",
+   "type": 11,
+   "heading": "Artigo 33.º — Suspensão da aplicação da Portaria n.º 87/2010, de 8 de setembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Suspensão da aplicação da Portaria n.º 87/2010, de 8 de setembro\n\nFica suspensa durante o ano de 2015 a aplicação da Portaria n.º 87/2010, de 8 de setembro, relativamente à comparticipação das famílias pela utilização dos serviços de ama, creches, jardins-de-infância, nas vertentes de horário completo e do prolongamento de horário e centros de atividades de tempos livres (ATL) abrangidos por instrumentos de cooperação com a segurança social, aplicando-se durante este período o disposto nas Portarias n.os 90/2002, de 12 de setembro, 2/2003, de 16 de janeiro e 86/2006, de 7 de dezembro."
+  },
+  "67395700": {
+   "fragment_id": "67396763",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nAtualização do complemento regional de pensão, aprovado pelo Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril\n\nNos termos definidos no artigo 13.º do Decreto Legislativo Regional n.º 8/2002/A, de 10 de abril, alterado pelos Decretos Legislativos Regionais n.os 22/2007/A, de 23 de outubro, 6/2010/A, de 23 de fevereiro, 3/2012/A, de 13 de janeiro, 3/2013/A, de 23 de maio, 2/2014/A, de 29 de janeiro, 14/2014/A, de 1 de agosto e 22/2014/A, de 27 de novembro, é aumentado em 2% o valor do complemento regional de pensão, fixando-se em (euro)743 o apoio atribuído anualmente aos beneficiários do 1.º escalão."
+  },
+  "67395701": {
+   "fragment_id": "67396764",
+   "type": 11,
+   "heading": "Artigo 35.º — Suspensão da obrigação de reembolso de incentivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Suspensão da obrigação de reembolso de incentivo\n\n1 - Fica suspensa, durante o ano de 2015, a obrigação de reembolso de incentivo prevista no n.º 3 do artigo 22.º, n.º 3 do artigo 27.º e n.º 4 do artigo 32.º do Decreto Legislativo Regional n.º 19/2007/A, de 23 de julho, alterado pelos Decretos Legislativos Regionais n.os2/2009/A, de 2 de março, 10/2010/A, de 16 de março, 26/2011/A, de 4 de novembro, 3/2012/A, de 13 de janeiro, 2/2013/A, de 22 de abril e 2/2014/A, de 29 de janeiro, nos termos a definir em protocolo a celebrar para o efeito entre as instituições de crédito e o departamento do Governo Regional competente em matéria de política de incentivos.\n\n2 - O prazo de suspensão previsto no número anterior acresce ao prazo global de financiamento previsto nos artigos ali mencionados, na proporção de doze meses, a contabilizar no último ano do prazo."
+  },
+  "67395702": {
+   "fragment_id": "67396765",
+   "type": 11,
+   "heading": "Artigo 36.º — Plano Regional de Vacinação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Plano Regional de Vacinação\n\nO Governo Regional dos Açores dotará, no ano de 2015, as Unidades de Saúde de Ilha com os recursos financeiros necessários ao cumprimento do Plano Regional de Vacinação."
+  },
+  "67395703": {
+   "fragment_id": "67396766",
+   "type": 11,
+   "heading": "Artigo 37.º — Complemento especial para o doente oncológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Complemento especial para o doente oncológico\n\nNo âmbito das dotações de despesa do Orçamento Regional aprovadas para o ano de 2015, deverá ser aprovada legislação tendo por objeto a atribuição de um complemento especial aos doentes oncológicos e seus acompanhantes para complementar o apoio conferido ao abrigo do regime de deslocação de doentes do Serviço Regional de Saúde."
+  },
+  "67395704": {
+   "fragment_id": "67396767",
+   "type": 11,
+   "heading": "Artigo 38.º — Alteração ao Decreto Legislativo Regional n.º 19/2007/A, de 23 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Alteração ao Decreto Legislativo Regional n.º 19/2007/A, de 23 de julho\n\nO artigo 40.º do Decreto Legislativo Regional n.º 19/2007/A, de 23 de julho, alterado pelos Decretos Legislativos Regionais n.os2/2009/A, de 2 de março, 10/2010/A, de 16 de março, 26/2011/A, de 4 de novembro, 3/2012/A, de 13 de janeiro,2/2013/A, de 22 de abril e 2/2014/A, de 29 de janeiro, passa a ter a seguinte redação:\n\n«Artigo 40.º\n\n[...]\n\n1 - [...].\n\n2 - Fica suspensa, durante o ano de 2015, a obrigação de reembolso de incentivo prevista na alínea l) do artigo 19.º do Decreto Regulamentar Regional n.º 4/2001/A, de 6 de junho, alterado pelos Decretos Regulamentares Regionais n.os27/2002/A, de 16 de setembro, 22/2003/A, de 27 de maio, 27/2004/A, de 15 de julho e 25/2005/A, de 6 de dezembro, nos termos a definir em protocolo a celebrar para o efeito entre as instituições de crédito e o departamento do Governo Regional competente em matéria de política de incentivos.\n\n3 - O prazo de suspensão previsto no número anterior acresce ao prazo global de financiamento previsto nos artigos ali mencionados, na proporção de doze meses, a contabilizar no último ano do prazo.\n\n4 - [Anterior n.º 2].»"
+  },
+  "67395705": {
+   "fragment_id": "67396768",
+   "type": 11,
+   "heading": "Artigo 39.º — Centralização de atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Centralização de atribuições\n\n1 - Sem prejuízo do disposto no número seguinte, os serviços que funcionam junto dos gabinetes dos membros do Governo Regional ou no âmbito das direções regionais, quando, nos termos da lei, gozem de autonomia administrativa, exercem-na nos termos em que ela é definida pela Lei n.º 8/90, de 20 de fevereiro, e Decreto-Lei n.º 155/92, de 28 de julho, com as adaptações introduzidas à administração regional pelo Decreto Legislativo Regional n.º 7/97/A, de 24 de maio.\n\n2 - As atribuições nos domínios da gestão dos recursos financeiros e patrimoniais dos serviços com autonomia administrativa, referidos no número anterior, transitam para a responsabilidade dos respetivos órgãos tutelares.\n\n3 - Do exposto no número anterior, excluem-se os estabelecimentos de ensino da Região integrados no âmbito da Direção Regional da Educação."
+  },
+  "67395706": {
+   "fragment_id": "67396769",
+   "type": 11,
+   "heading": "Artigo 40.º — Transferência de competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Transferência de competências\n\n1 - A Secretaria-Geral da Presidência do Governo Regional é a entidade responsável pela prestação de contas, através de uma única conta de gerência, dos seguintes serviços:\n\na) Secretária Regional Adjunta da Presidência para os Assuntos Parlamentares;\n\nb) Subsecretário Regional da Presidência para as Relações Externas;\n\nc) Secretaria-Geral da Presidência.\n\n2 - Sem prejuízo do disposto do número anterior, os serviços referidos são responsáveis pela execução do respetivo orçamento."
+  },
+  "67395707": {
+   "fragment_id": "67396770",
+   "type": 11,
+   "heading": "Artigo 41.º — Centro Público Internacional das Ciências do Mar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Centro Público Internacional das Ciências do Mar\n\nFica o Governo Regional mandatado para negociar com o Governo da República no âmbito dos Projetos de Interesse Comum, nos termos estatutários, o processo para implementação na Região Autónoma dos Açores, do Centro Público Internacional das Ciências do Mar."
+  },
+  "67395708": {
+   "fragment_id": "67396771",
+   "type": 11,
+   "heading": "Artigo 42.º — Alteração ao Decreto Legislativo Regional n.º 17/2014/A, de 6 de outubro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Alteração ao Decreto Legislativo Regional n.º 17/2014/A, de 6 de outubro\n\nÉ alterado o anexo constante do artigo 2.º do Decreto Legislativo Regional n.º 17/2014/A, de 6 de outubro, referente ao quadro plurianual de programação orçamental, nos seguintes termos:\n\n«Quadro Plurianual de Programação Orçamental\n\n(Despesa, em milhões de euros)\n\n(ver documento original)\n\nNão inclui dotação provisional e operações de refinanciamento.»"
+  },
+  "67395709": {
+   "fragment_id": "67396772",
+   "type": 11,
+   "heading": "Artigo 43.º — Execução orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Execução orçamental\n\nO Orçamento da Região Autónoma dos Açores será posto em execução pelo Governo Regional mediante decreto regulamentar regional, que estabelecerá medidas regulamentares e de desenvolvimento do disposto no presente diploma, aplicáveis a todos os serviços que integram a administração pública regional, incluindo os organismos dotados de autonomia administrativa e financeira."
+  },
+  "67395710": {
+   "fragment_id": "67396773",
+   "type": 11,
+   "heading": "Artigo 44.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Entrada em vigor\n\nO presente decreto legislativo regional produz efeitos a partir de 1 de janeiro de 2015."
+  },
+  "70915423": {
+   "fragment_id": "70920317",
+   "type": 11,
+   "heading": "Artigo 24.º-A — Redução do valor da caução nos contratos públicos",
+   "in_force_from": "2015-03-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2015/A - Diário da República n.º 60/2015, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2015-66849067), em vigor a partir de 2015-03-27"
+   ],
+   "markdown": "###### Artigo 24.º-A — Redução do valor da caução nos contratos públicos\n\n1 - Nos contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços celebrados pelas entidades adjudicantes referidas no artigo 2.º do Decreto Legislativo Regional n.º 34/2008/A, de 28 de julho, alterado pelo Decreto Legislativo Regional n.º 15/2009/A, de 6 de agosto, após 1 de janeiro de 2012 e até 31 de dezembro de 2016, o valor da caução exigida ao adjudicatário com vista a garantir a celebração do contrato, bem como o exato e pontual cumprimento de todas as obrigações legais e contratuais, é reduzido para 2 % do preço contratual.\n\n2 - Nos contratos de empreitada de obras públicas celebrados pelas entidades adjudicantes referidas no número anterior após 1 de janeiro de 2012 e até 31 de dezembro de 2016, não pode ser exigido ao cocontratante, em cada um dos pagamentos parciais previstos, um reforço da caução prestada em valor superior a 2 %.\n\n3 - Nos contratos de empreitada de obras públicas, de locação ou aquisição de bens móveis e de aquisição de serviços celebrados pelas entidades adjudicantes referidas no n.º 1 em data anterior a 1 de janeiro de 2012, o valor da caução prestada pelo adjudicatário e bem assim o valor do reforço da caução prestada pelo empreiteiro, pode ser reduzido para 2 % do preço contratual, desde que tenha tido lugar a receção provisória ou o início do período de garantia, consoante o caso e essa redução seja requerida pelo cocontratante e não se verifiquem circunstâncias que permitam, ou previsivelmente venham a permitir, a execução da caução.\n\n4 - O disposto nos números anteriores aplica-se, com as necessárias adaptações, aos contratos de subempreitada de obras públicas.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 7/2015/A - Diário da República n.º 60/2015, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2015-66849067), em vigor a partir de 2015-03-27"
+  },
+  "70915424": {
+   "fragment_id": "67396751",
+   "type": 11,
+   "heading": "Artigo 25.º — Alteração do Decreto Legislativo Regional n.º 20/2012/A, de 18 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Alteração do Decreto Legislativo Regional n.º 20/2012/A, de 18 de abril\n\nO artigo 1.º do Decreto Legislativo Regional n.º 20/2012/A, de 18 de abril, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - O valor da caução a prestar nos termos e para os efeitos do artigo 53.º do Decreto Legislativo Regional n.º 12/2007/A, de 5 de junho, é, até 31 de dezembro de 2015, reduzido para 25%.\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].»"
+  },
+  "70915425": {
+   "fragment_id": "67396752",
+   "type": 11,
+   "heading": "Artigo 26.º — Pagamento no âmbito do Serviço Regional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Pagamento no âmbito do Serviço Regional de Saúde\n\n1 - As instituições e os serviços integrados no Serviço Regional de Saúde podem contratar qualquer modalidade de cessão de créditos relativamente às suas dívidas, convencionando juros moratórios inferiores aos legais na ausência de pagamento nos prazos legais, por despacho conjunto do vice-presidente do Governo Regional e do secretário regional da Saúde.\n\n2 - As cessões de crédito já efetuadas no âmbito dos sistemas de pagamento em vigor para as instituições e serviços integrados no Serviço Regional de Saúde devem respeitar o disposto no número anterior, sendo a informação centralizada na SAUDAÇOR - Sociedade Gestora de Recursos e Equipamentos dos Açores, S. A."
+  },
+  "70915426": {
+   "fragment_id": "67396753",
+   "type": 11,
+   "heading": "Artigo 27.º — Limitação das remunerações dos gestores públicos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Limitação das remunerações dos gestores públicos regionais\n\nOs gestores públicos regionais não podem usufruir remuneração superior à estabelecida para o cargo de presidente do Governo Regional."
+  },
+  "70915427": {
+   "fragment_id": "67396754",
+   "type": 11,
+   "heading": "Artigo 28.º — Utilização das dotações orçamentais para software informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Utilização das dotações orçamentais para software informático\n\nAs despesas com aquisição de licenças de software apenas podem ser executadas nos casos em que seja fundamentadamente demonstrada a inexistência de soluções alternativas em software livre ou que o custo total de utilização da solução em software livre seja superior à solução em software proprietário ou sujeito a licenciamento específico, incluindo nestes todos os eventuais custos de manutenção, adaptação, migração ou saída."
+  },
+  "70915422": {
+   "fragment_id": "67396757",
+   "type": 11,
+   "heading": "Artigo 30.º — Benefícios Fiscais",
+   "in_force_from": "2015-03-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2015/A - Diário da República n.º 60/2015, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2015-66849067), em vigor a partir de 2015-03-27"
+   ],
+   "markdown": "###### Artigo 30.º — Benefícios Fiscais\n\n1 - Em cumprimento do disposto no n.º 4 do artigo 9.º do Decreto Legislativo Regional n.º 2/99/A, de 20 de janeiro, determina-se que são considerados relevantes, tendo em vista a concessão de benefícios fiscais em regime contratual, os projetos de investimentos em unidades produtivas de valor superior a (euro) 2 000 000 e que tenham reconhecida e notória relevância estratégica para a economia regional.\n\n2 - O limite previsto no número anterior é de (euro) 400 000 nas ilhas do Corvo, Flores, Faial, Pico, São Jorge, Graciosa e Santa Maria.\n\n3 - O limite previsto no n.º 1 é excecionalmente de (euro) 1.000.000 no caso de projetos de investimento que se realizem na ilha Terceira e que criem postos de trabalho.\n\n4 - O previsto no número anterior não é aplicável à deslocalização da atividade objeto do benefício exercida em qualquer das outras ilhas da Região, caso em que se aplica o disposto no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2015/A - Diário da República n.º 60/2015, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2015-66849067), em vigor a partir de 2015-03-27"
+  },
+  "70903049": {
+   "fragment_id": "70904480",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 27 de novembro de 2014.\n\nA Presidente da Assembleia Legislativa, Ana Luísa Luís.\n\nAssinado em Angra do Heroísmo em 22 de dezembro de 2014.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino."
+  },
+  "70916164": {
+   "fragment_id": "70916251",
+   "type": 15,
+   "heading": "MAPA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Receita da Região Autónoma dos Açores\n\n(ver documento original)"
+  },
+  "70916165": {
+   "fragment_id": "70916252",
+   "type": 15,
+   "heading": "MAPA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despesas da Região especificadas segundo a classificação orgânica, por capítulos\n\n(ver documento original)"
+  },
+  "70916166": {
+   "fragment_id": "70916253",
+   "type": 15,
+   "heading": "MAPA III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despesas da Região especificadas segundo a classificação funcional\n\n(ver documento original)"
+  },
+  "70916167": {
+   "fragment_id": "70916254",
+   "type": 15,
+   "heading": "MAPA IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despesas da Região especificadas segundo a classificação económica\n\n(ver documento original)"
+  },
+  "70916168": {
+   "fragment_id": "70916255",
+   "type": 15,
+   "heading": "MAPA V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Receitas Globais dos fundos e serviços autónomos segundo a classificação orgânica\n\n(ver documento original)"
+  },
+  "70916169": {
+   "fragment_id": "70916256",
+   "type": 15,
+   "heading": "MAPA VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Receitas globais dos fundos e serviços autónomos especificados segundo a classificação económica\n\n(ver documento original)"
+  },
+  "70916170": {
+   "fragment_id": "70916257",
+   "type": 15,
+   "heading": "MAPA VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despesas globais dos fundos e serviços autónomos segundo a classificação orgânica\n\n(ver documento original)"
+  },
+  "70916171": {
+   "fragment_id": "70916258",
+   "type": 15,
+   "heading": "MAPA VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despesas globais dos fundos e serviços autónomos especificados segundo a classificação económica\n\n(ver documento original)"
+  },
+  "70916172": {
+   "fragment_id": "70916259",
+   "type": 15,
+   "heading": "MAPA IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despesas globais dos fundos e serviços autónomos especificados segundo a classificação funcional\n\n(ver documento original)"
+  },
+  "70916173": {
+   "fragment_id": "70916260",
+   "type": 15,
+   "heading": "MAPA X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Despesas de Investimento da Administração Pública Regional\n\nResumo por departamento\n\n(ver documento original)"
+  },
+  "70916174": {
+   "fragment_id": "70916261",
+   "type": 15,
+   "heading": "MAPA XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Responsabilidades contratuais plurianuais agrupadas por Departamento Regional\n\n(ver documento original)"
+  },
+  "70915433": {
+   "fragment_id": "67396730",
+   "type": 11,
+   "heading": "Artigo 8.º — Necessidades de financiamento",
+   "in_force_from": "2015-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+   ],
+   "markdown": "###### Artigo 8.º — Necessidades de financiamento\n\nFica o Governo Regional autorizado, nos termos da lei, a contrair empréstimos, incluindo créditos bancários, até ao montante de (euro) 79 143 000 dos quais, (euro) 19 143 000 respeitam a uma operação de refinanciamento e os restantes destinam-se ao financiamento de projetos com comparticipação de Fundos Europeus Estruturais e de Investimento (FEEI).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+  },
+  "70915428": {
+   "fragment_id": "70916251",
+   "type": 15,
+   "heading": "MAPA I",
+   "in_force_from": "2015-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+   ],
+   "markdown": "Receita da Região Autónoma dos Açores\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+  },
+  "70915429": {
+   "fragment_id": "70916252",
+   "type": 15,
+   "heading": "MAPA II",
+   "in_force_from": "2015-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+   ],
+   "markdown": "Despesas da Região especificadas segundo a classificação orgânica, por capítulos\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+  },
+  "70915430": {
+   "fragment_id": "70916253",
+   "type": 15,
+   "heading": "MAPA III",
+   "in_force_from": "2015-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+   ],
+   "markdown": "Despesas da Região especificadas segundo a classificação funcional\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+  },
+  "70915431": {
+   "fragment_id": "70916254",
+   "type": 15,
+   "heading": "MAPA IV",
+   "in_force_from": "2015-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+   ],
+   "markdown": "Despesas da Região especificadas segundo a classificação económica\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+  },
+  "70915432": {
+   "fragment_id": "70916260",
+   "type": 15,
+   "heading": "MAPA X",
+   "in_force_from": "2015-06-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+   ],
+   "markdown": "Despesas de Investimento da Administração Pública Regional\n\nResumo por departamento\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 15/2015/A - Diário da República n.º 107/2015, Série I de 2015-06-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/15-2015-67377973), em vigor a partir de 2015-06-04"
+  },
+  "70915434": {
+   "fragment_id": "67396757",
+   "type": 11,
+   "heading": "Artigo 30.º — Benefícios Fiscais",
+   "in_force_from": "2015-10-27",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2015/A - Diário da República n.º 209/2015, Série I de 2015-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2015-70804096), em vigor a partir de 2015-10-27",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2015/A - Diário da República n.º 60/2015, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2015-66849067), em vigor a partir de 2015-03-27"
+   ],
+   "markdown": "###### Artigo 30.º — Benefícios Fiscais\n\n1 - Em cumprimento do disposto no n.º 4 do artigo 9.º do Decreto Legislativo Regional n.º 2/99/A, de 20 de janeiro, determina-se que são considerados relevantes, tendo em vista a concessão de benefícios fiscais em regime contratual, os projetos de investimentos em unidades produtivas de valor superior a (euro) 2 000 000 e que tenham reconhecida e notória relevância estratégica para a economia regional.\n\n2 - O limite previsto no número anterior é de:\n\na) (euro) 400.000,00 nas ilhas do Corvo, Flores, Faial, Pico, São Jorge, Graciosa e Santa Maria;\n\nb) (euro) 200.000,00 no caso de projetos de investimento relativos a atividades de biotecnologia marinha e aquacultura, e que, independentemente da sua localização, prevejam despesas em investigação e desenvolvimento no valor mínimo de 10% do investimento previsto.\n\n3 - O limite previsto no n.º 1 é excecionalmente de (euro) 1.000.000 no caso de projetos de investimento que se realizem na ilha Terceira e que criem postos de trabalho.\n\n4 - O previsto no número anterior não é aplicável à deslocalização da atividade objeto do benefício exercida em qualquer das outras ilhas da Região, caso em que se aplica o disposto no n.º 1.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 23/2015/A - Diário da República n.º 209/2015, Série I de 2015-10-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2015-70804096), em vigor a partir de 2015-10-27\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 7/2015/A - Diário da República n.º 60/2015, Série I de 2015-03-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/7-2015-66849067), em vigor a partir de 2015-03-27"
+  },
+  "126348185": {
+   "fragment_id": "67396750",
+   "type": 11,
+   "heading": "Artigo 24.º — Isenção de caução nos contratos de empreitada e subempreitada de obras públicas",
+   "in_force_from": "2016-01-01",
+   "changed_by": [
+    "Revogado pelo/a Parte IV do/a [Decreto Legislativo Regional n.º 27/2015/A - Diário da República n.º 253/2015, Série I de 2015-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2015-72970526), em vigor a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — Isenção de caução nos contratos de empreitada e subempreitada de obras públicas\n\n1 - Nos contratos de empreitada de obras públicas a celebrar pelas entidades adjudicantes referidas no artigo 2.º do Decreto Legislativo Regional n.º 34/2008/A, de 28 do julho, cujos procedimentos de formação se iniciem após a entrada em vigor do presente diploma e até 31 de dezembro de 2016, não há lugar à prestação de caução, quando o preço contratual for inferior (euro) 200 000.\n\n2 - O disposto no número anterior aplica-se, com as devidas adaptações aos contratos de subempreitada de obras públicas.\n\n> Revogado pelo/a Parte IV do/a [Decreto Legislativo Regional n.º 27/2015/A - Diário da República n.º 253/2015, Série I de 2015-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2015-72970526), em vigor a partir de 2016-01-01"
+  }
+ }
+}

@@ -1,0 +1,149 @@
+---
+schema_version: '1.0'
+id: pt:dre:324761:por
+title: Portaria n.º 747/78
+short_title: null
+summary: Visa a integração de adidos na Direcção-Geral do Comércio Externo
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Comércio e Turismo
+proposing_entity: null
+official_number: 747/78
+official_date: null
+publication_date: '1978-12-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 288/1978, Série I de 1978-12-16
+  number: '288'
+  series: I
+  supplement: null
+  pages: 2655 - 2656
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/12/28800/26552656.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '324761'
+  dre_path: /dr/detalhe/portaria/747-1978-324761
+  internal: pt:dre:324761:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1978-324761
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/747-1978-324761
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-05-08T00:00:00Z'
+integrity:
+  source_sha256: 0958e7cc7ed68f4ca2c4eb172fbbabbe8f8393fdc0592372cb275e4e4ea8bb11
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-747-324761.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:392798:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 747/78
+
+de 16 de Dezembro
+
+Considerando que o objectivo final da gestão do quadro geral de adidos se identifica com a definição de soluções que garantam a colocação dos agentes nele ingressados em situações de pleno emprego;
+
+Considerando que esse desiderato deverá, quanto possível, ser alcançado mediante a integração dos adidos nos serviços e organismos em que se encontrem a prestar serviço;
+
+Considerando que se enquadra em tal condicionalismo a situação dos adidos destacados na Direcção-Geral do Comércio Externo, o presente diploma procede à integração dos referidos agentes naquele departamento do Ministério do Comércio e Turismo;
+
+Considerando, finalmente, o disposto no artigo 3.º do [Decreto-Lei n.º 175/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797), de 13 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Ministro do Comércio e Turismo e pelos Secretários de Estado da Administração Pública e do Orçamento, o seguinte:
+
+1.º
+
+(Alteração dos quadros de pessoal da Direcção-Geral do Comércio Externo)
+
+1 - O quadro de pessoal da Direcção-Geral do Comércio Externo, aprovado pelo [Decreto Regulamentar n.º 15/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/15-1977-141810), de 23 de Fevereiro, é aumentado dos lugares constantes do quadro anexo a este diploma.
+
+2 - Serão providos nos lugares criados nos termos do número anterior os adidos que se encontrem destacados na Direcção-Geral do Comércio Externo à data da publicação desta portaria.
+
+3 - O mesmo quadro de pessoal poderá ainda ser alterado, sob proposta do director-geral do Comércio Externo, mediante despacho do Ministro do Comércio e Turismo e dos Secretários de Estado da Administração Pública e do Orçamento, a publicar na 1.ª série do Diário da República, com o objectivo de integrar os adidos que, tendo sido posteriormente destacados para aquele departamento, satisfaçam necessidades permanentes de serviço.
+
+2.º
+
+(Categorias e formas de integração)
+
+1 - O provimento nos lugares criados ao abrigo do número anterior far-se-á nas categorias que resultem da aplicação de critérios a definir por despacho do Ministro do Comércio e Turismo e do Secretário de Estado da Administração Pública.
+
+2 - As integrações far-se-ão mediante listas nominativas aprovadas pelo Ministro do Comércio e Turismo e pelo Secretário de Estado da Administração Pública, independentemente de quaisquer formalidades, salvo o visto do Tribunal de Contas e a sua publicação no Diário da República.
+
+3.º
+
+(Tempo de serviço)
+
+Aos adidos integrados nos termos deste diploma será contado para todos os efeitos, o tempo de serviço prestado nos organismos de origem e o de permanência no quadro geral de adidos, excepto no que se refere à promoção, caso em que a antiguidade no quadro será contada a partir da data do destacamento na Direcção-Geral do Comércio Externo.
+
+4.º
+
+(Providências orçamentais)
+
+Enquanto o orçamento da Direcção-Geral do Comércio Externo não for dotado com as verbas indispensáveis à satisfação dos encargos decorrentes da execução do presente diploma, as remunerações certas referidas na alínea b) do n.º 2 do artigo 26.º do [Decreto-Lei n.º 294/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1976-502033), de 24 de Abril, com a redacção que lhe foi dada pelo artigo 8.º do [Decreto-Lei n.º 175/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/175-1978-297797), de 13 de Julho, dos agentes integrados nos termos do mesmo serão processadas por conta das correspondentes verbas da rubrica «Remunerações certas e permanentes - Pessoal do quadro geral de adidos» inscrita no orçamento do Serviço Central de Pessoal.
+
+5.º
+
+(Resolução de dúvidas)
+
+As dúvidas resultantes da aplicação desta portaria serão resolvidas mediante despacho do Ministro do Comércio e Turismo e dos Secretários de Estado da Administração Pública e do Orçamento, de harmonia com as respectivas competências.
+
+6.º
+
+(Entrada em vigor)
+
+Este diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano e do Comércio e Turismo, 24 de Novembro de 1978. - O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.
+
+Quadro
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1978/12/28800/26552656.pdf))](https://files.diariodarepublica.pt/1s/1978/12/28800/26552656.pdf)
+
+**O Ministro do Comércio e Turismo, Pedro José Rodrigues Pires de Miranda. - O Secretário de Estado da Administração Pública, António Jorge de Figueiredo Lopes. - O Secretário de Estado do Orçamento, Alberto José dos Santos Ramalheira.**

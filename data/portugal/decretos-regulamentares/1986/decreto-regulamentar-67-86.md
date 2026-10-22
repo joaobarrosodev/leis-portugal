@@ -1,0 +1,330 @@
+---
+schema_version: '1.0'
+id: pt:dre:221537:por
+title: Decreto Regulamentar n.º 67/86
+short_title: null
+summary: Dá nova redacção a vários artigos do Decreto Regulamentar n.º 8/83, de 5 de Fevereiro (regulamenta a orgânica do
+  Instituto Nacional de Defesa do Consumidor)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Plano e da Administração do Território
+proposing_entity: null
+official_number: 67/86
+official_date: null
+publication_date: '1986-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 275/1986, Série I de 1986-11-28
+  number: '275'
+  series: I
+  supplement: null
+  pages: 3589 - 3593
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221537'
+  dre_path: /dr/detalhe/decreto-regulamentar/67-1986-221537
+  internal: pt:dre:221537:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/67-1986-221537
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-05-24T00:00:00Z'
+integrity:
+  source_sha256: 061cbea2556b5fc2c518cd6bde3583959de654c458e938dbe4906373d2567a50
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-67-221537.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:283525:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 67/86
+
+de 28 de Novembro
+
+Com a publicação do [Decreto-Lei n.º 210/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/210-1985-182032), de 27 de Junho, foi decretada a extinção de diversos organismos da Administração Pública, entre os quais o Gabinete de Defesa do Consumidor, aí se estabelecendo também o conteúdo e tramitação geral dos respectivos processos.
+
+O presente diploma, dando cumprimento ao disposto na alínea e) do artigo 1.º daquele decreto-lei, procede à reformulação da Lei Orgânica do Instituto Nacional de Defesa do Consumidor, de molde a absorver as atribuições e competências daquele Gabinete e a alcançar um reforço da política de defesa do consumidor, através de uma melhor coordenação e intervenção prévia e sistemática, com relação à actividade legislativa neste âmbito.
+
+Naturalmente, introduzem-se, também, no diploma orgânico do Instituto Nacional de Defesa do Consumidor, alguns melhoramentos que a experiência de dois anos de actividade do organismo suscitou e que se mostram adequados à realização dos objectivos acima referidos.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º Em virtude da transição das atribuições e competências do Gabinete de Defesa do Consumidor para o Instituto Nacional de Defesa do Consumidor, são alteradas as disposições do [Decreto Regulamentar n.º 8/83](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1983-310983), de 5 de Fevereiro, abaixo indicadas, que passam a ter a seguinte redacção:
+
+###### Artigo 1.º — Natureza e objectivos
+
+1 - O Instituto Nacional de Defesa do Consumidor, abreviadamente designado por INDC, criado pelo artigo 15.º da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, é um organismo destinado a estudar, participar e promover a política de salvaguarda dos direitos dos consumidores, bem como a coordenar e executar medidas tendentes à sua protecção, informação e educação e de apoio às organizações representativas.
+
+2 - ...
+
+3 - ...
+
+4 - ...
+
+###### Artigo 2.º — Atribuições
+
+1 - São atribuições do INDC:
+
+a) ...
+
+b) ...
+
+c) ...
+
+d) ...
+
+e) Estabelecer contactos e participar regularmente nas actividades e acções comuns dos organismos internacionais e estrangeiros relacionados com o âmbito das suas atribuições e propor a celebração de acordos de convenções internacionais;
+
+f) Impulsionar em geral a aplicação das medidas previstas na [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, através da elaboração, colaboração e coordenação da feitura de legislação e das normas portuguesas com incidência no consumo.
+
+2 - O INDC exerce as suas atribuições em colaboração com outros serviços e entidades cujas áreas de actuação funcional apresentem interesse para a defesa do consumidor, assegurando a coordenação interdepartamental neste âmbito.
+
+###### Artigo 3.º — Competências
+
+Para a prossecução das atribuições referidas no artigo anterior, compete ao INDC:
+
+a) Estudar, propor e dar parecer sobre as políticas directamente relacionadas com a protecção do consumidor;
+
+b) [Actual alínea a).]
+
+c) [Actual alínea b).]
+
+d) [Actual alínea c).]
+
+e) [Actual alínea d).]
+
+f) [Actual alínea e).]
+
+g) [Actual alínea f).]
+
+h) [Actual alínea g).]
+
+i) Propor soluções conducentes a uma racionalização de consumos, tendo em consideração os factores de qualidade e preços;
+
+j) [Actual alínea h).]
+
+l) [Actual alínea i).]
+
+m) [Actual alínea j).]
+
+n) [Actual alínea l).]
+
+o) Estar representado nos conselhos, comissões e grupos de trabalho criados no âmbito da Administração Pública com interesse para a protecção do consumidor, assegurando a representação do ministério da tutela sempre que lhe for determinado;
+
+p) Estudar e assegurar a elaboração de legislação relativa à protecção dos direitos e interesses dos consumidores;
+
+q) Estudar e propor, em colaboração com outros organismos competentes em matéria de protecção dos consumidores, todas as medidas decorrentes da integração de Portugal na Comunidade Económica Europeia;
+
+r) Fomentar o estabelecimento de relações com outras entidades, sempre que consideradas necessárias à prossecução das suas atribuições;
+
+s) Enviar propostas e recomendações aos organismos da Administração Pública e às empresas públicas e privadas, com vista a assegurar a realização das suas atribuições;
+
+t) Solicitar e receber as informações necessárias à prossecução das suas atribuições, tanto dos organismos da Administração Pública como das empresas públicas e privadas.
+
+###### Artigo 13.º — Funcionamento do conselho administrativo
+
+1 - ...
+
+2 - ...
+
+3 - O representante do Ministério das Finanças referido no artigo 11.º terá direito a uma gratificação mensal a fixar nos termos da legislação em vigor.
+
+###### Artigo 14.º — Serviços
+
+São serviços do INDC:
+
+a) A Direcção de Serviços de Formação e Apoio aos Consumidores;
+
+b) A Direcção de Serviços de Estudos do Consumo;
+
+c) ...
+
+d) [Actual alínea e).]
+
+###### Artigo 15.º — Direcção de Serviços de Formação e Apoio aos Consumidores
+
+1 - À Direcção de Serviços de Formação e Apoio aos Consumidores incumbe coordenar e executar as medidas destinadas ao esclarecimento, educação e apoio aos consumidores e às suas organizações representativas.
+
+2 - A Direcção de Serviços de Formação e Apoio aos Consumidores compreende:
+
+a) ...
+
+b) ...
+
+c) A Divisão de Apoio aos Consumidores e Associações.
+
+3 - À Divisão de Formação compete:
+
+a) ...
+
+b) ...
+
+c) ...
+
+4 - À Divisão de Informação compete:
+
+a) [Actual n.º 4.]
+
+b) Divulgar os estudos efectuados pelo INDC.
+
+5 - À Divisão de Apoio aos Consumidores e Associações compete:
+
+a) Fomentar e apoiar o associativismo dos consumidores através da concessão de meios técnicos e financeiros, avaliando a sua adequada aplicação;
+
+b) Organizar e manter actualizado o censo das associações de defesa do consumidor;
+
+c) Conceder assistência individual aos consumidores, mediante a prestação de informações de qualquer natureza no âmbito do consumo, incluindo a jurídica, e a recepção e encaminhamento das suas reclamações;
+
+d) Proporcionar mecanismos de concertação e arbitragem para pequenos litígios surgidos no âmbito do consumo;
+
+e) Elaborar, periodicamente, estudos dos resultados e da receptividade das acções de mediação e arbitragem.
+
+###### Artigo 16.º — Direcção de Serviços de Estudos do Consumo
+
+1 - À Direcção de Serviços de Estudos do Consumo incumbe coordenar a realização de estudos técnicos, jurídicos, económicos e sociais adequados à definição e implantação das políticas de protecção do consumidor.
+
+2 - A Direcção de Serviços de Estudos do Consumo compreende:
+
+a) A Divisão das Políticas de Consumo;
+
+b) A Divisão de Estudos Técnicos;
+
+c) A Divisão de Consultadoria Jurídica.
+
+3 - À Divisão das Políticas de Consumo compete:
+
+a) Efectuar os estudos necessários à definição das políticas de protecção do consumidor;
+
+b) Estudar as características nacionais e regionais do consumo, tendo em vista a elaboração de propostas conducentes à sua racionalização;
+
+c) Promover e apoiar acções de descentralização, a nível regional e local, no âmbito da protecção dos consumidores;
+
+d) Estudar e propor medidas especiais de apoio aos consumidores, atendendo, nomeadamente, às situações específicas dos jovens, idosos, deficientes e economicamente débeis;
+
+e) Elaborar pareceres sobre quaisquer políticas directamente relacionadas com a protecção dos consumidores, designadamente sobre política de preços de bens e serviços e das normas de defesa da concorrência.
+
+4 - À Divisão de Estudos Técnicos compete:
+
+a) Elaborar, através dos seus próprios meios ou mediante o recurso a outros serviços, estudos e pareceres relativos a bens e serviços, em especial sobre qualidade, segurança, preços e circuitos de distribuição, por meio de várias acções, designadamente:
+
+Ensaios e estudos comparativos;
+
+Estudos de mercado;
+
+Inquéritos;
+
+b) Colaborar com os organismos que exercem funções de normalização e certificação em matérias que interessam à protecção do consumidor;
+
+c) Analisar e acompanhar o exercício da actividade publicitária comercial, de forma a verificar e controlar o cumprimento da lei.
+
+5 - À Divisão de Consultadoria Jurídica compete:
+
+a) Assegurar a elaboração dos projectos de diplomas legais regulamentadores da [Lei n.º 29/81](https://diariodarepublica.pt/dr/detalhe/lei/29-1981-575922), de 22 de Agosto, bem como dos que respeitem à protecção da saúde e segurança e dos interesses económicos e jurídicos dos consumidores;
+
+b) Acompanhar e analisar a produção legislativa respeitante à matéria de protecção do consumidor;
+
+c) Elaborar estudos, informações e pareceres de natureza jurídica sobre matérias da competência do INDC;
+
+d) Fomentar as relações necessárias com os serviços competentes nestas matérias, assegurando a participação do INDC nos grupos de trabalho que a nível interdepartamental se venham a constituir.
+
+###### Artigo 29.º — Técnicos auxiliares
+
+1 - Os técnicos auxiliares exercem funções de secretariado e atendimento dos consumidores, prestando-lhes informações, esclarecendo dúvidas e fornecendo indicações necessárias à resolução dos seus problemas, integrando-se na área de apoio ao consumidor.
+
+2 - Os lugares de técnico auxiliar de 2.ª classe serão providos, por concurso, de entre diplomados com um curso técnico-profissional da área da administração, adequado às funções referidas no n.º 1, de duração não inferior a dezoito meses, para além de nove anos de escolaridade.
+
+###### Art. 2.º É revogado o artigo 18.º, passando o artigo 19.º a 18.º e acompanhando os restantes artigos esta alteração de ordem numérica.
+
+###### Art. 3.º É revogada a alínea e) do n.º 2 do artigo 19.º, passando as alíneas f) e g) a designar-se, respectivamente, e) e f).
+
+###### Art. 4.º O quadro de pessoal do INDC, a que se refere o artigo 23.º, passa a ser o constante do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+###### Art. 5.º Todas as referências ao Ministro da Qualidade de Vida, constantes do diploma, consideram-se feitas ao ministro da tutela.
+
+###### Art. 6.º São acrescentados às disposições gerais e transitórias os seguintes artigos:
+
+###### Artigo 36.º
+
+Todas as referências ao Gabinete de Defesa do Consumidor, constantes de diplomas legais e outros documentos, consideram-se feitas ao INDC.
+
+###### Artigo 37.º — Incompatibilidades
+
+1 - É vedado aos funcionários do INDC, em áreas directamente relacionadas com as atribuições do organismo:
+
+a) Exercer qualquer ramo de comércio ou indústria;
+
+b) Exercer qualquer forma de consultadoria ou outro tipo de profissão liberal;
+
+c) Publicar e divulgar opiniões sobre matérias de protecção do consumidor que por qualquer forma responsabilizem o INDC.
+
+2 - O exercício das actividades mencionadas no número anterior poderá, no entanto, ser autorizado pelo ministro da tutela, desde que não cause prejuízo ao serviço, não afecte o prestígio da função e não ponha em causa a isenção profissional do funcionário.
+
+Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira.
+
+**Promulgado em 7 de Novembro de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Novembro de 1986.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Quadro do pessoal a que se refere o artigo 4.º do Decreto Regulamentar n.º 67/86
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf)
+
+Quadro do pessoal a que se refere o artigo 4.º do Decreto Regulamentar n.º 67/86
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf))](https://files.diariodarepublica.pt/1s/1986/11/27500/35893593.pdf)

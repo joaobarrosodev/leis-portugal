@@ -1,0 +1,689 @@
+---
+schema_version: '1.0'
+id: pt:dre:114825661:por
+title: Decreto-Lei n.º 15/2018
+short_title: null
+summary: Aprova o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da
+  dança
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Educação
+proposing_entity: null
+official_number: 15/2018
+official_date: null
+publication_date: '2018-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 47/2018, Série I de 2018-03-07
+  number: '47'
+  series: I
+  supplement: null
+  pages: 1186 - 1192
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/03/04700/0118601192.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-10-18'
+version_history:
+  file: decreto-lei-15-2018.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2018-03-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-20'
+    amending: pt:dre:115138847:por
+    amending_title: Lei n.º 17/2018
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Revoga Artigo 6.º
+    - Revoga Artigo 7.º
+  - date: '2023-10-18'
+    amending: pt:dre:222877158:por
+    amending_title: Decreto-Lei n.º 94/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Anexo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/15/2018/p/cons/20231017/pt/html
+  oj: null
+  dre: '114825661'
+  dre_path: /dr/detalhe/decreto-lei/15-2018-114825661
+  internal: pt:dre:114825661:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2018-114825661
+  metadata_url: https://data.dre.pt/eli/dec-lei/15/2018/p/cons/20231017/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115104377
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115104377
+  retrieved_at: '2026-10-22T12:18:21Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9fa7deb8ede1193fc1863e3cf5a376db72ab42b7a519efe80f2931b475e87de5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:18:21Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-15-2018.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Artístico
+- Admissão de Pessoal
+- Bailado
+- Colocação de Professores
+- Concurso
+- Contrato de Trabalho a Termo
+- Contrato Individual de Trabalho
+- Definição de Competências
+- Regulamentação de Atos Legislativos
+- Direção Geral da Administração Escolar
+- Ensino Oficial
+- Ensino Secundário Vocacional
+- Estatuto da Carreira Docente
+- Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário
+- Carreira Profissional
+- Formas de Provimento
+- Recrutamento de Pessoal
+- JURI
+- Música
+- Período Experimental
+- Estabelecimento de Ensino
+- Pessoal Docente
+- Qualificação Profissional
+- Regime Jurídico
+- Actividade Artística
+relationships:
+- type: amended_by
+  target: pt:dre:115138847:por
+  label: Altera Artigo 1.º; Altera Artigo 5.º; Revoga Artigo 6.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/17-2018-115138847
+  date: '2018-04-19'
+- type: amended_by
+  target: pt:dre:222877158:por
+  label: Altera Artigo 1.º; Altera Anexo; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera
+    Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo
+    13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158
+  date: '2023-10-17'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/132/2012/06/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/2007/01/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/114/2017/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/192/2002/03/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/192/2002/03/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/693/1998/09/03/p/dre
+article_structure:
+  article_count: 30
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:18:21Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 15/2018
+
+Decreto-Lei n.º 15/2018
+
+de 7 de março
+
+O presente decreto-lei aprova um regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança, o que significa que, pela primeira vez, os docentes integrados nestes grupos de recrutamento possuem um regime jurídico próprio, adequado às especificidades deste tipo de ensino.
+
+Também pela primeira vez, estes docentes passarão a beneficiar de um sistema ordinário de vinculação, através da celebração de três contratos sucessivos ou duas renovações, tal como acontece no regime geral, constante do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.
+
+Efetivamente, tal como neste regime, ao fim de duas renovações dos contratos de trabalho a termo resolutivo celebrados com o Ministério da Educação na sequência de colocação obtida em horário anual e completo, no mesmo ou em diferente grupo, subgrupo ou disciplina de formação artística, os docentes ficam vinculados. Desta forma, põe-se termo a uma situação de discriminação que se traduzia na inexistência de uma forma de vinculação ordinária para os docentes integrados nos grupos de recrutamento em causa.
+
+Assim, o regime específico de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança permite a estes docentes não só ter um regime próprio mais adequado de recrutamento, como lhes garante um mecanismo de vinculação ordinária que nunca antes lhes tinha sido facultado pelo legislador.
+
+No mesmo sentido, este decreto-lei aprova ainda o regime da vinculação extraordinária do pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino, combatendo, assim, a precariedade também quanto a estes trabalhadores.
+
+O presente decreto-lei contribui, pois, para a promoção do ensino artístico especializado através da valorização dos seus profissionais.
+
+Finalmente, aprova-se o regime do concurso interno antecipado a ocorrer em 2018, nos termos da alínea c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foi promovida a audição do Conselho das Escolas.
+
+Foram observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.
+
+Assim:
+
+Nos termos do artigo 24.º do Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - É aprovado o regime de seleção e recrutamento de docentes do ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais nos estabelecimentos públicos de ensino, que consta do anexo ao presente decreto-lei e do qual faz parte integrante.
+
+2 - O presente decreto-lei aprova ainda os regimes dos seguintes procedimentos, a realizar no ano de 2018:
+
+a) Concurso extraordinário de vinculação do pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais, nos estabelecimentos públicos de ensino;
+
+b) Concurso interno antecipado nos termos da alínea c) do n.º 1 do artigo 6.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, e concurso externo extraordinário previsto no artigo 39.º da Lei n.º 114/2017, de 29 de dezembro.
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei/17-2018-115138847), em vigor a partir de 2018-04-20
+
+### Capítulo II — Concurso extraordinário de vinculação do pessoal docente das componentes técnico-artísticas do ensino artístico especializado
+
+###### Artigo 2.º — Regras do concurso
+
+1 - Ao concurso referido na alínea a) do n.º 2 do artigo anterior aplica-se o disposto nos n.os 2, 3, 4 e 11 do artigo 16.º do regime de seleção e recrutamento publicado em anexo ao presente decreto-lei, concorrendo os candidatos aos lugares do quadro de escola e à área curricular onde lecionam à data de abertura do concurso.
+
+2 - O concurso referido no número anterior é aberto pela Direção-Geral da Administração Escolar (DGAE) mediante aviso publicado na sua página eletrónica e em local de estilo das instalações dos estabelecimentos de ensino respetivos.
+
+3 - A aceitação e apresentação dos docentes colocados em resultado do concurso previsto nos números anteriores rege-se pelas correspondentes normas do regime de seleção e recrutamento de docentes do ensino artístico especializado da música e da dança, publicado em anexo ao presente decreto-lei.
+
+###### Artigo 3.º — Exercício de funções
+
+1 - Os docentes integrados na carreira na sequência do concurso referido na alínea a) do n.º 2 do artigo 1.º ficam vinculados a lecionar as disciplinas de técnicas especiais, sem prejuízo de lhes poder ser distribuída, nos termos legais, a regência de outras disciplinas no âmbito dos vários domínios de especialização para os quais se encontrem habilitados.
+
+2 - A componente não letiva dos docentes das técnicas especiais inclui a distribuição de serviço técnico especializado de apoio à respetiva escola.
+
+###### Artigo 4.º — Dotação das vagas
+
+As vagas ao concurso extraordinário de vinculação do pessoal docente das componentes técnico-artísticas do ensino artístico especializado são fixadas, por quadro de escola, através de portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+### Capítulo III — Concurso interno antecipado e concurso externo extraordinário
+
+###### Artigo 5.º — Concurso interno antecipado
+
+1 - Podem ser candidatos ao concurso interno previsto na alínea b) do n.º 2 do artigo 1.º os docentes a que se refere o artigo 22.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+6 - No âmbito do concurso de mobilidade interna são considerados todos os horários completos e incompletos, recolhidos pela DGAE, mediante proposta do órgão de direção do agrupamento de escolas ou da escola não agrupada.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 17/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei/17-2018-115138847), em vigor a partir de 2018-04-20
+
+###### Artigo 6.º — Renovação dos contratos a termo resolutivo
+
+A realização do concurso interno previsto na alínea b) do n.º 2 do artigo 1.º não impede a renovação dos contratos a termo resolutivo a que se refere o n.º 4 do artigo 42.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, desde que se verifiquem os requisitos aí previstos, afastando-se a aplicação do n.º 8 do mesmo artigo.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 17/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei/17-2018-115138847), em vigor a partir de 2018-04-20
+
+###### Artigo 7.º — Concurso externo extraordinário
+
+Os docentes vinculados na sequência do concurso externo extraordinário previsto no artigo 39.º da Lei n.º 114/2017, de 29 de dezembro, que aprova o Orçamento do Estado para 2018, exercem funções, no ano escolar de 2018-2019, obrigatoriamente no estabelecimento de ensino onde forem colocados no âmbito da mobilidade interna.
+
+> Revogado pelo/a Artigo 3.º do/a [Lei n.º 17/2018 - Diário da República n.º 77/2018, Série I de 2018-04-19](https://diariodarepublica.pt/dr/detalhe/lei/17-2018-115138847), em vigor a partir de 2018-04-20
+
+###### Artigo 8.º — Dotação das vagas
+
+A dotação das vagas a preencher mediante a realização do concurso interno antecipado e do concurso externo extraordinário são fixadas por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+### Capítulo IV — Disposições transitórias
+
+###### Artigo 9.º — Integração na carreira do pessoal docente do ensino artístico especializado
+
+1 - A integração na carreira do pessoal docente recrutado na sequência dos procedimentos previstos no n.º 1 e alínea a) do n.º 2 do artigo 1.º ocorridos em 2018 produz efeitos no prazo de um ano a contar da abertura dos primeiros cursos correspondentes às condições de profissionalização aprovadas pelo despacho a que se refere o n.º 5 do artigo 10.º, sendo dispensados da realização do período probatório previsto no artigo 31.º do Estatuto da Carreira dos Educadores de Infância e dos Professores dos Ensinos Básico e Secundário, aprovado pelo Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual, doravante designado abreviadamente por ECD.
+
+2 - Os docentes do ensino artístico especializado da música e da dança e o pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais que à data da colocação possuam grau de licenciatura e sejam detentores de qualificação profissional integram a carreira docente, nos termos do artigo 36.º do ECD.
+
+3 - Os docentes do ensino artístico especializado da música e da dança e o pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais que à data da colocação possuam o grau de licenciatura e não sejam profissionalizados integram a carreira no índice 126 da tabela referida no n.º 5 do artigo 43.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, até 31 de agosto do ano em que completem a habilitação profissional, passando no dia 1 de setembro desse ano a posicionar-se no índice 167, previsto no n.º 4 do artigo 34.º do ECD, nos termos do n.º 1 do artigo seguinte.
+
+4 - Os docentes do ensino artístico especializado da música e da dança e o pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais que à data da colocação não possuam grau de licenciatura integram a carreira no índice 112 da tabela referida no n.º 5 do artigo 43.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual.
+
+###### Artigo 10.º — Profissionalização do pessoal docente do ensino artístico especializado
+
+1 - Os docentes do ensino artístico especializado da música e da dança e o pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais que não possuam profissionalização ingressam provisoriamente na carreira e consolidam o vínculo no prazo máximo de um ano após a abertura dos primeiros cursos correspondentes às condições de profissionalização aprovadas pelo despacho a que se refere o n.º 5, desde que até essa data obtenham a respetiva qualificação profissional.
+
+2 - A não verificação da condição referida no número anterior determina a aplicação do disposto na alínea a) do n.º 1 do artigo 18.º do Decreto-Lei n.º 132/2012, de 27 de junho, na sua redação atual, salvo se o docente demonstrar que tal facto não lhe é imputável.
+
+3 - Os docentes do ensino artístico especializado da música e da dança e o pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais referidos no n.º 4 do artigo anterior permanecem no índice 112 até concluírem a profissionalização, após o que transitam para o índice 167 previsto no n.º 4 do artigo 34.º do ECD, desde que tenham obtido avaliação mínima de Bom, passando a aplicar-se o artigo 37.º do mesmo estatuto.
+
+4 - Os docentes de carreira providos nos grupos de recrutamento definidos nas Portarias n.os 693/98, de 3 de setembro, e 192/2002, de 4 de março, e o pessoal docente das técnicas especiais dos estabelecimentos públicos do ensino artístico especializado, que se encontram posicionados nos índices 151 e 156 nos termos do n.º 9 do artigo 10.º do Decreto-Lei n.º 15/2007, de 19 de janeiro, transitam para o índice 167 da tabela indiciária publicada em anexo ao ECD.
+
+5 - As condições da profissionalização em serviço dos docentes do ensino artístico especializado da música e da dança e do pessoal docente das componentes técnico-artísticas do ensino artístico especializado para o exercício de funções nas áreas das artes visuais e dos audiovisuais são aprovadas por despacho do membro do Governo com competência em matéria de educação.
+
+### Capítulo V — Disposições finais
+
+###### Artigo 11.º — Legislação subsidiária
+
+Em tudo o que não estiver regulado no presente decreto-lei é aplicável o regime seleção e recrutamento do pessoal docente dos ensinos básico e secundário, o regime geral de recrutamento de trabalhadores em funções públicas e a lei geral do trabalho em funções públicas.
+
+###### Artigo 12.º — Norma transitória
+
+1 - O disposto no n.º 2 do artigo 16.º do regime de seleção e recrutamento publicado em anexo ao presente decreto-lei aplica-se à sucessão de contratos celebrados ininterruptamente ou respetivas renovações a partir de 1 de setembro de 2015.
+
+2 - O disposto no n.º 12 do artigo 16.º do regime de seleção e recrutamento publicado em anexo ao presente decreto-lei não se aplica aos concursos externos que decorram até ao limite do prazo previsto no n.º 1 do artigo 10.º do presente decreto-lei, ficando neste período os opositores ao concurso externo dispensados da qualificação profissional prevista no n.º 2 do artigo 3.º daquele regime e integrando a carreira, quando providos, nos termos e condições previstas no artigo 9.º do presente decreto-lei.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de fevereiro de 2018. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Tiago Brandão Rodrigues.
+
+Promulgado em 28 de fevereiro de 2018.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 5 de março de 2018.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo — Regime de seleção e recrutamento de docentes do ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais
+
+(a que se refere o n.º 1 do artigo 1.º)
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+O presente regime estabelece o regime de concurso para seleção e recrutamento do pessoal docente para os grupos, subgrupos e disciplinas de formação artística do ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais efetuada pelos estabelecimentos públicos de ensino.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 2.º — Natureza e objetivos
+
+1 - A seleção e o recrutamento do pessoal docente podem revestir a natureza de:
+
+a) Concurso interno;
+
+b) Concurso externo;
+
+c) Concurso para a satisfação de necessidades temporárias.
+
+2 - Os concursos interno e externo visam a satisfação de necessidades permanentes de pessoal docente dos estabelecimentos públicos de ensino artístico especializado da música e da dança e das artes visuais e dos audiovisuais.
+
+3 - O concurso interno visa a mobilidade dos docentes pertencentes aos quadros dos estabelecimentos públicos de ensino artístico especializado da música e da dança e das artes visuais e dos audiovisuais para vagas em quadros de outros estabelecimentos públicos daquela natureza.
+
+4 - O concurso externo destina-se ao recrutamento de candidatos que pretendam aceder a vagas dos quadros dos estabelecimentos de ensino artístico especializado da música e da dança e das artes visuais e dos audiovisuais.
+
+5 - O concurso para a satisfação das necessidades temporárias visa suprir necessidades que não sejam satisfeitas pelos concursos interno e externo ou que ocorram no intervalo da sua abertura.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 3.º — Âmbito pessoal
+
+1 - São opositores ao concurso interno, para efeitos de transferência de quadro e ou de grupo de recrutamento, os docentes de carreira.
+
+2 - Os docentes de carreira vinculados às Regiões Autónomas são ordenados de acordo com as mesmas prioridades aplicadas aos docentes do continente nos respetivos regimes jurídicos de concurso, em condições de reciprocidade.
+
+3 - São opositores em 1.ª prioridade ao concurso externo os candidatos que, à data de abertura dos respetivos concursos, cumpram o disposto nos n.os 2, 10 e 11 do artigo 16.º e possuam qualificação profissional para o grupo de recrutamento a que se candidatam, bem como os demais requisitos previstos no artigo 22.º do Estatuto da Carreira dos Educadores de Infância e Professores dos Ensinos Básico e Secundário, aprovado em anexo ao Decreto-Lei n.º 139-A/90, de 28 de abril, na sua redação atual (ECD).
+
+4 - São opositores em 2.ª prioridade ao concurso externo os candidatos que possuam qualificação profissional para o grupo de recrutamento a que se candidatam, preencham os demais requisitos previstos no artigo 22.º do ECD e possuam pelo menos 365 dias de tempo de serviço nos últimos seis anos escolares nos estabelecimentos de ensino referidos no número seguinte.
+
+5 - Para efeitos do disposto no número anterior é considerado o tempo de serviço prestado em:
+
+a) Estabelecimentos integrados na rede pública do Ministério da Educação;
+
+b) Estabelecimentos integrados na rede pública das Regiões Autónomas;
+
+c) Estabelecimentos do ensino superior público;
+
+d) Estabelecimentos ou instituições de ensino dependentes ou sob a tutela de outros ministérios que tenham protocolo com o Ministério da Educação;
+
+e) Estabelecimentos do ensino português no estrangeiro, incluindo ainda o exercício de funções docentes como agentes da cooperação portuguesa nos termos do correspondente estatuto jurídico.
+
+6 - São opositores em 3.ª prioridade ao concurso externo os candidatos que possuam qualificação profissional para o grupo de recrutamento a que se candidatam e preencham os demais requisitos previstos no artigo 22.º do ECD.
+
+7 - São opositores ao concurso para a satisfação das necessidades temporárias os docentes que, à data de abertura dos respetivos concursos, possuam qualificação profissional para a docência, preencham os demais requisitos previstos no artigo 22.º do ECD e cumpram os parâmetros específicos de admissão determinados pelos estabelecimentos públicos de ensino da música e da dança e das artes visuais e dos audiovisuais no aviso de abertura do concurso.
+
+8 - Esgotada a possibilidade de colocação de docentes profissionalizados nos termos do número anterior, é aplicável, com as necessárias adaptações, o disposto no n.º 9 do artigo 40.º do Decreto-Lei n.º 32-A/2023, de 8 de maio.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+### Capítulo II — Concurso interno e externo
+
+###### Artigo 4.º — Procedimento
+
+1 - Os concursos interno e externo são abertos simultaneamente em todos os estabelecimentos públicos do ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais pelos respetivos diretores, de acordo com a calendarização previamente definida pela Direção-Geral da Administração Escolar (DGAE).
+
+2 - O procedimento dos concursos interno e externo efetua-se exclusivamente em suporte eletrónico disponibilizado pela DGAE, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE.
+
+3 - A abertura dos concursos interno e externo tem periodicidade anual.
+
+4 - As vagas para os concursos interno e externo são fixadas por grupo, subgrupo ou disciplina da formação artística e por quadro de escola, através de portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.
+
+5 - Os concursos interno e externo são abertos em cada estabelecimento de ensino, mediante aviso publicado na respetiva página eletrónica e em local de estilo das suas instalações e na página eletrónica da DGAE acessível através do Portal Único de Serviços.
+
+6 - Nos avisos de abertura do concurso interno e externo constam obrigatoriamente os seguintes elementos:
+
+a) Identificação das vagas a ocupar nos termos do n.º 4;
+
+b) O calendário indicativo do concurso;
+
+c) Requisitos gerais de admissão, motivos de exclusão, critérios de seleção e respetiva ponderação, sistema de valoração final e critérios de desempate;
+
+d) Formas de apresentação da candidatura;
+
+e) Composição e identificação do júri;
+
+f) Documentos exigidos para efeito da avaliação das candidaturas;
+
+g) Forma de publicitação das listas provisórias dos candidatos admitidos e excluídos e das listas de classificação final, de colocação e de exclusão.
+
+7 - No concurso externo os docentes só podem ocupar vaga diferente daquela cuja abertura deram origem nos termos dos n.os 10 e 11 do artigo 16.º, caso se encontrem preenchidas todas as vagas abertas em que forem suscetíveis de ser opositores.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 5.º — Júri
+
+1 - Em cada estabelecimento público de ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais é constituído um júri presidido pelo respetivo diretor, por dois vogais efetivos e dois suplentes designados pelo conselho pedagógico.
+
+2 - Em caso de falta ou impedimento, o presidente é substituído pelo subdiretor ou por um dos seus adjuntos, por si designado para aquele efeito.
+
+3 - Na designação dos vogais deve o conselho pedagógico indicar, obrigatoriamente, quer se trate dos vogais efetivos quer dos suplentes, pelo menos um docente do grupo de formação artística especializada para a qual se processa o recrutamento e que deve pertencer, sempre que possível, ao quadro da escola, sendo o outro vogal uma personalidade de reconhecido mérito na área de formação artística especializada onde é aberto o concurso.
+
+4 - Em caso de inexistência no quadro da escola de docentes do grupo de formação artística especializada para o qual se processa o recrutamento, os vogais poderão ser designados, na sua totalidade, de entre as personalidades referidas na parte final do número anterior.
+
+5 - Compete ao júri assegurar a tramitação do procedimento concursal, desde a data da sua designação até à elaboração da lista de classificação final.
+
+6 - É, nomeadamente, da competência do júri a prática dos seguintes atos:
+
+a) Definir os parâmetros específicos que densificam os critérios gerais de seleção e a respetiva pontuação;
+
+b) Admitir e excluir candidatos ao concurso, nos termos legalmente previstos, fundamentando em ata as respetivas deliberações;
+
+c) Notificar por via eletrónica os candidatos, sempre que tal seja exigido;
+
+d) Garantir aos candidatos o acesso ao conteúdo das atas e dos documentos que as fundamentam e proceder à emissão de certidões ou reproduções autenticadas, no prazo de três dias úteis contados da data da entrada do respetivo requerimento.
+
+7 - O registo dos diferentes procedimentos do concurso é efetuado pelo júri no suporte eletrónico disponibilizado pela DGAE, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE.
+
+8 - As deliberações tomadas pelo júri devem ser registadas em ata.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 6.º — Funcionamento do júri
+
+1 - O júri delibera com a participação efetiva e presencial de todos os seus membros, devendo as respetivas deliberações ser tomadas por maioria e sempre por votação nominal.
+
+2 - As deliberações do júri devem ser fundamentadas e registadas por escrito, podendo os candidatos ter acesso, nos termos da lei, às atas e aos documentos em que elas assentam.
+
+3 - Em caso de impugnação, as deliberações escritas são facultadas à entidade que sobre ela tenha de decidir.
+
+4 - O júri pode ser secretariado por pessoa a designar para esse efeito pelo diretor do estabelecimento de ensino.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 7.º — Critérios e métodos de seleção
+
+1 - São critérios gerais de seleção, de verificação cumulativa e a que correspondem as seguintes ponderações:
+
+a) O perfil de competências: 40 %;
+
+b) A experiência profissional: 30 %;
+
+c) A formação profissional: 30 %.
+
+2 - A classificação final, obtida na escala de 0 a 100 pontos, resulta da soma das classificações atribuídas em cada um dos critérios gerais de seleção.
+
+3 - Para cada um dos critérios gerais o júri fixa, em ata, em momento prévio à data da abertura do concurso, os parâmetros específicos e a respetiva pontuação, tendo em conta o limite estipulado para cada critério geral.
+
+4 - Na experiência profissional é considerado, sem prejuízo de outros parâmetros específicos, o tempo de serviço prestado em estabelecimentos de ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais.
+
+5 - A candidatura pode ser ponderada através da realização de uma entrevista profissional de seleção, a realizar pelo júri e obedecendo ao disposto no artigo seguinte.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 8.º — Entrevista profissional de seleção
+
+1 - A entrevista profissional de seleção visa avaliar, de forma objetiva e sistemática, a experiência profissional e aspetos comportamentais e artísticos evidenciados durante a interação estabelecida entre o entrevistador e o entrevistado, nomeadamente os relacionados com a capacidade de comunicação, de relacionamento interpessoal e aptidão artística vocacionada para o ensino, designadamente através da realização de uma prova prática.
+
+2 - Por cada entrevista profissional de seleção é elaborada uma ficha individual contendo o resumo dos temas abordados, os parâmetros de avaliação e a classificação obtida em cada um deles, devidamente fundamentada.
+
+3 - A entrevista profissional de seleção é realizada pelo júri, na presença de todos os seus elementos, ou por, pelo menos, dois técnicos especialistas na área.
+
+4 - A entrevista profissional de seleção é pública, podendo a ela assistir todos os interessados, sendo o local, data e hora da sua realização atempadamente afixados em local visível e público das instalações do estabelecimento de ensino e disponibilizados na sua página eletrónica.
+
+###### Artigo 9.º — Candidatura
+
+1 - A apresentação ao concurso é efetuada mediante o preenchimento de formulário em formato eletrónico disponibilizado pela DGAE, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE, no prazo de três dias úteis.
+
+2 - O formulário de candidatura deve ser preenchido de acordo com as respetivas instruções, sob pena de ser considerado irregularmente preenchido.
+
+3 - Sendo o candidato opositor a vários concursos, deve ordenar as suas preferências de colocação, sendo obrigatoriamente opositor à vaga cuja abertura deu origem, nos termos dos n.os 10 e 11 do artigo 16.º
+
+4 - O candidato comprova os elementos constantes do formulário da sua candidatura mediante o carregamento eletrónico dos adequados documentos, sendo dispensado da entrega dos documentos comprovativos que se encontrem arquivados e válidos no respetivo processo individual, exceto do registo criminal atualizado ou de declaração de autorização de acesso ao mesmo.
+
+5 - Os documentos comprovativos devem ser apresentados pelo candidato até ao final do prazo de candidatura.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 10.º — Apreciação das candidaturas
+
+1 - Terminado o prazo para apresentação das candidaturas, o júri procede à verificação dos elementos apresentados pelos candidatos.
+
+2 - O júri pode requerer a apresentação de documentos autênticos ou autenticados sempre que existam dúvidas sobre a veracidade ou autenticidade dos documentos apresentados.
+
+3 - Após a conclusão do procedimento previsto no número anterior, o júri elabora e publicita, na página eletrónica do respetivo estabelecimento público de ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais, bem como em edital afixado nas suas instalações, as listas provisórias dos candidatos admitidos e excluídos, contendo os motivos que fundamentam a proposta de exclusão.
+
+4 - Após a divulgação das listas provisórias de exclusão, os candidatos dispõem do prazo de cinco dias úteis, a contar do dia imediato à referida publicitação, para apresentarem reclamação, usando para tal a aplicação eletrónica do concurso, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE, sendo no prazo de sete dias úteis notificados da correspondente decisão.
+
+5 - Não é admitida a junção de documentos que, por não serem do conhecimento oficioso, devessem ter sido apresentados dentro do prazo previsto para apresentação das candidaturas.
+
+6 - Terminado o prazo de sete dias úteis a que se refere o n.º 4, as listas provisórias convertem-se em definitivas, contendo as alterações decorrentes do deferimento das reclamações, sendo os candidatos ordenados por ordem decrescente, por grupo, subgrupo ou disciplina de formação artística, em função da classificação final obtida sendo afixadas em local de estilo e publicitadas no sítio na Internet de cada estabelecimento de ensino.
+
+7 - As listas de colocação e de exclusão são publicitadas no sítio na Internet de cada estabelecimento de ensino e da DGAE, sendo as listas de colocação das escolas homologadas pelo diretor-geral da Administração Escolar.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 11.º — Garantias de impugnação administrativa
+
+Das listas de classificação final e de exclusão pode ser interposto recurso hierárquico para o diretor-geral da Administração Escolar, sem efeito suspensivo, a apresentar no prazo de cinco dias úteis contados a partir do primeiro dia útil seguinte ao da sua publicitação, em formulário eletrónico disponibilizado para o efeito pela DGAE, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 12.º — Aceitação
+
+1 - Os candidatos colocados em resultado dos concursos devem, no prazo de dois dias úteis, contados a partir do primeiro dia útil seguinte ao da publicitação das listas definitivas de colocação, aceitar a colocação na aplicação eletrónica disponibilizada pela DGAE, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE.
+
+2 - A não aceitação da colocação obtida determina a anulação da colocação e extingue o correspondente lugar no quadro da escola para efeitos daquele concurso.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 13.º — Apresentação
+
+1 - Os candidatos colocados em resultado dos concursos interno e externo devem apresentar-se no primeiro dia útil do mês de setembro.
+
+2 - Nos casos em que a apresentação, por motivo de férias, parentalidade, doença ou outro motivo previsto na lei, não puder ser presencial, deve o candidato colocado comunicar o facto à escola, por si ou por interposta pessoa, no primeiro dia útil do mês de setembro, devendo apresentar até ao quinto dia útil seguinte documento justificativo da sua não comparência naquele dia.
+
+3 - O não cumprimento do dever de apresentação determina a anulação da colocação obtida.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+### Capítulo III — Necessidades temporárias
+
+###### Artigo 14.º — Satisfação de necessidades temporárias
+
+1 - Para a satisfação das necessidades que subsistirem após a realização dos concursos interno e externo ou daquelas que ao longo do ano venham a surgir, os estabelecimentos públicos de ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais procedem ao concurso de contratação de escola.
+
+2 - Se os estabelecimentos públicos de ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais assim o entenderem, podem determinar como método prévio de carácter eliminatório a realização de uma prova prática de aptidão técnica e pedagógica a efetuar por todos os candidatos à contratação.
+
+3 - Caso se verifique a realização da prova, cabe ao estabelecimento público de ensino artístico especializado da música, da dança e das artes visuais e dos audiovisuais elaborar o respetivo regulamento, o qual deve estabelecer, designadamente, a duração, o programa e os critérios de avaliação da prova, considerando o projeto educativo do estabelecimento de ensino.
+
+4 - O regulamento é publicitado na respetiva página eletrónica e afixado no estabelecimento de ensino nos locais habituais destinados à divulgação de informação da escola.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 15.º — Concurso de contratação de escola
+
+1 - O concurso de contratação de escola é realizado através da aplicação eletrónica disponibilizada para o efeito pela DGAE, acessível através do Portal Único de Serviços e do sítio na Internet da DGAE.
+
+2 - Os horários postos a concurso de contratação de escola são divulgados na página eletrónica do estabelecimento público de ensino artístico especializado.
+
+3 - O procedimento de seleção é aberto pelo órgão de direção do estabelecimento público de ensino artístico especializado, pelo prazo de três dias úteis.
+
+4 - A publicitação referida no n.º 2 inclui os seguintes elementos:
+
+a) Identificação da modalidade de contrato de trabalho a termo resolutivo;
+
+b) Identificação da duração do contrato;
+
+c) Identificação do local de trabalho;
+
+d) Caracterização das funções;
+
+e) Requisitos de admissão e critérios de seleção;
+
+f) Critérios a aplicar no desempate.
+
+5 - São critérios objetivos de seleção, a seguir obrigatoriamente:
+
+a) A avaliação curricular, que vale 60 %;
+
+b) A entrevista, que vale 40 %;
+
+c) Para efeitos de desempate, o órgão de direção do estabelecimento de ensino define, nos termos da lei, dois critérios que considere pertinentes.
+
+6 - A avaliação curricular deve ter em conta, pelo menos, os seguintes aspetos:
+
+a) Experiência profissional;
+
+b) Habilitações e formação complementar.
+
+7 - Na avaliação curricular, a ponderação de cada critério deve constar da aplicação eletrónica, para conhecimento dos candidatos.
+
+8 - A candidatura é instruída com o curriculum vitae, o registo criminal atualizado, ou a declaração de autorização de acesso ao mesmo, a declaração de robustez física, perfil psíquico e características de personalidade indispensáveis ao exercício da função e a vacinação obrigatória.
+
+9 - A lista final ordenada é divulgada na página eletrónica do estabelecimento público de ensino artístico especializado.
+
+10 - Os docentes recrutados através do concurso de contratação de escola aceitam a colocação eletronicamente e apresentam-se no estabelecimento de ensino em que foram colocados, no prazo de dois dias úteis.
+
+11 - Em caso de não aceitação ou não apresentação nos termos do número anterior, é recrutado o docente posicionado imediatamente a seguir na lista final a que se refere o n.º 9.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 16.º — Contrato de trabalho em funções públicas a termo resolutivo
+
+1 - O contrato de trabalho em funções públicas a termo resolutivo produz efeitos a partir do primeiro dia útil imediatamente a seguir ao da aceitação, e tem a duração mínima de 30 dias e máxima até ao final do ano escolar, incluindo o período de férias.
+
+2 - A sucessão de contratos de trabalho em funções públicas a termo resolutivo celebrados com o Ministério da Educação na sequência de colocação obtida em horário anual e completo, no mesmo ou em diferente grupo, subgrupo ou disciplina de formação artística, não pode exceder o limite de três anos ou duas renovações.
+
+3 - Considera-se horário anual, aquele cuja colocação ocorre até ao último dia do prazo limite para o início do ano letivo, de acordo com o calendário escolar, e que vigora até ao fim do ano escolar.
+
+4 - Para efeitos do n.º 2, não se consideram os completamentos e aditamentos ao horário de colocação.
+
+5 - A renovação do contrato em funções públicas a termo resolutivo em horário anual e completo depende do preenchimento cumulativo dos seguintes requisitos:
+
+a) Manutenção do horário letivo anual e completo no mesmo grupo, subgrupo ou disciplina da formação artística, apurado à data em que a necessidade é declarada;
+
+b) Avaliação de desempenho com a classificação mínima de Bom;
+
+c) Concordância expressa das partes.
+
+6 - A renovação do contrato é sujeita à forma escrita.
+
+7 - A verificação dos requisitos constantes do n.º 5 é efetuada num único momento, através da plataforma eletrónica da DGAE.
+
+8 - O contrato destinado à substituição temporária de docente vigora pelo tempo necessário à sua substituição ou até ao terceiro dia útil a contar do dia imediato ao da apresentação do docente substituído, sem prejuízo do disposto no número seguinte.
+
+9 - No caso de o docente substituído se apresentar durante o período de realização dos trabalhos de avaliação, o contrato mantém-se em vigor até à sua respetiva conclusão.
+
+10 - A verificação do limite indicado no n.º 2 determina a abertura de vaga no quadro do estabelecimento público de ensino artístico especializado em que o docente se encontra a lecionar.
+
+11 - Determina ainda a abertura de vaga no quadro do estabelecimento público de ensino artístico especializado em que o docente se encontra a lecionar a 31 de dezembro do ano anterior ao da abertura do concurso, desde que preencha cumulativamente as seguintes condições:
+
+a) Possua, pelo menos, 1095 dias de tempo de serviço para efeitos de concurso;
+
+b) Tenha celebrado contratos de trabalho em funções públicas a termo resolutivo com estabelecimento de ensino artístico especializado da rede do Ministério da Educação nos dois anos escolares anteriores, com qualificação profissional, dos quais resulte uma das seguintes situações:
+
+i) Tenha prestado, pelo menos, 180 dias de tempo de serviço em cada um desses anos;
+
+ii) Tenha prestado, pelo menos, 365 dias de tempo de serviço no cômputo desses dois anos e em cada um deles tenha prestado, pelo menos, 120 dias de tempo de serviço.
+
+12 - Para efeitos do disposto no n.º 2 só releva o tempo de serviço prestado em estabelecimentos públicos de ensino artístico especializado da rede do Ministério da Educação, em grupo, subgrupo ou disciplina do ensino artístico especializado, com qualificação profissional e componente letiva.
+
+13 - Para efeitos do disposto na alínea a) do n.º 11 é considerado o tempo de serviço prestado em:
+
+a) Estabelecimentos integrados na rede pública do Ministério da Educação;
+
+b) Estabelecimentos integrados na rede pública das Regiões Autónomas;
+
+c) Estabelecimentos do ensino superior público;
+
+d) Estabelecimentos ou instituições de ensino dependentes ou sob a tutela de outros ministérios que tenham protocolo com o Ministério da Educação;
+
+e) Estabelecimentos do ensino português no estrangeiro, incluindo ainda o exercício de funções docentes como agentes da cooperação portuguesa nos termos do correspondente estatuto jurídico;
+
+f) Estabelecimentos de ensino particular ou cooperativo com contrato de associação.
+
+14 - Os contratos de trabalho e as renovações são outorgados pelo órgão de direção do estabelecimento de ensino, em representação do Estado.
+
+15 - Os modelos destinados à celebração do contrato e à renovação são aprovados pela DGAE, estando disponibilizados na respetiva aplicação informática.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18
+
+###### Artigo 17.º — Período experimental
+
+1 - O período experimental é cumprido no primeiro contrato celebrado em cada ano.
+
+2 - Ao período experimental aplica-se o regime previsto na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, para os contratos de trabalho em funções públicas.
+
+> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 94/2023 - Diário da República n.º 201/2023, Série I de 2023-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-2023-222877158), em vigor a partir de 2023-10-18

@@ -1,0 +1,264 @@
+---
+schema_version: '1.0'
+id: pt:dre:441163:por
+title: Decreto Regulamentar n.º 74/83
+short_title: null
+summary: Regulamenta, para efeitos de efectiva aplicabilidade, a Lei n.º 4/83, de 2 de Abril, que institui para os titulares
+  de cargos políticos e equiparados o dever de apresentarem antes do início das respectivas funções, ou no prazo máximo de
+  30 dias após esse início, bem como após a cessação das mesmas funções, uma declaração de património e rendimentos, bem como
+  do passivo existente à data da declaração
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério da Justiça
+proposing_entity: null
+official_number: 74/83
+official_date: null
+publication_date: '1983-10-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 230/1983, Série I de 1983-10-06
+  number: '230'
+  series: I
+  supplement: null
+  pages: 3478 - 3495
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23000/34783495.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '441163'
+  dre_path: /dr/detalhe/decreto-regulamentar/74-1983-441163
+  internal: pt:dre:441163:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/74-1983-441163
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-03-09T00:00:00Z'
+integrity:
+  source_sha256: 9c8ebfad9e9a7605103ad38f84a4078528619250f9edcb8475fb638ca8126cba
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-74-441163.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:407554:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 74/83
+
+de 6 de Outubro
+
+O presente diploma tem como objectivo implantar um mecanismo de efectiva execução da [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril.
+
+Tomaram-se em conta, como não poderia deixar de ser, os grandes princípios e orientações daquele texto legal; introduziram-se, porém, as normas regulamentares indispensáveis a torná-lo actuante na prática.
+
+Assim:
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º - 1 - A declaração sobre o valor do património e rendimentos dos titulares dos cargos políticos, a que alude o corpo do artigo 1.º da [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, será efectuada em impresso modelo n.º 1, anexo ao presente diploma.
+
+2 - A declaração a que alude o n.º 1 do artigo 2.º da mesma lei será efectuada em impresso modelo n.º 2, anexo ao presente diploma.
+
+3 - Os impressos referidos nos números anteriores são modelos exclusivos da Imprensa Nacional-Casa da Moeda, podendo ser alterados por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças e do Plano.
+
+###### Art. 2.º Nas declarações prestadas nos termos do artigo anterior serão discriminados, em capítulos autónomos, os seguintes elementos, de modo a permitir uma avaliação rigorosa do património e rendimentos líquidos dos declarantes:
+
+a) Activo patrimonial (capítulo I);
+
+b) Passivo (capítulo II);
+
+c) Cargos sociais exercidos (capítulo III);
+
+d) Rendimento colectável bruto, para efeitos de imposto complementar (capítulo IV).
+
+###### Art. 3.º - 1 - No capítulo I das declarações serão mencionados os elementos respeitantes às seguintes rubricas:
+
+a) Património imobiliário;
+
+b) Quotas, acções, participações ou outras partes sociais do capital de sociedades civis ou comerciais;
+
+c) Direitos sobre barcos, aeronaves ou veículos automóveis;
+
+d) Carteiras de títulos e contas bancárias a prazo;
+
+e) Direitos de crédito de valor superior a 100 salários mínimos nacionais;
+
+f) Outros elementos do activo patrimonial.
+
+2 - Em cada rubrica descrever-se-ão, separadamente, os elementos respeitantes a valores situados fora do País ou produzidos no estrangeiro.
+
+###### Art. 4.º - 1 - Consideram-se bens do património imobiliário os prédios, rústicos ou urbanos, aí se englobando as plantações, edifícios ou construções de qualquer natureza neles incorporados ou assentes com carácter de permanência, desde que, em circunstâncias normais, sejam susceptíveis de rendimento, ainda que estejam isentos de contribuição predial.
+
+2 - Os referidos bens serão, para efeito de declaração, identificados pela respectiva situação, indicação da sua natureza rústica ou urbana, sumária descrição, bem como pela respectiva inscrição matricial.
+
+###### Art. 5.º - 1 - Os elementos patrimoniais mencionados na alínea b) do n.º 1 do artigo 3.º serão descritos pela identificação da sociedade civil ou comercial a que se reportam, através de menção da respectiva firma ou denominação social, sede e data de constituição.
+
+2 - Tratando-se de sociedade irregular, será feita menção desta circunstância.
+
+###### Art. 6.º - 1 - Consideram-se integrados na rubrica mencionada na alínea c) do artigo 3.º os direitos reais sujeitos a registo relativamente a:
+
+a) Barcos, quer se destinem a recreio ou a qualquer actividade de natureza comercial ou industrial;
+
+b) Aeronaves, de uso particular, qualquer que seja a finalidade da sua utilização, ainda que de recreio;
+
+c) Automóveis, tanto ligeiros como pesados, de carga ou mistos, ou motociclos de passageiros.
+
+2 - A identificação dos mencionados bens far-se-á pela menção da respectiva matrícula, marca, classe, tipo e modelo.
+
+###### Art. 7.º - 1 - Consideram-se como integrantes da rubrica mencionada na alínea d) do artigo 3.º as obrigações, títulos ou certificados da dívida pública ou quaisquer outros papéis ou títulos de crédito, com excepção de letras e livranças, independentemente de terem ou não cotação na bolsa, e da natureza da entidade que tiver procedido à respectiva emissão.
+
+2 - Consideram-se ainda como integrantes da mesma rubrica os valores, em numerário ou em títulos, depositados em contas a prazo em qualquer estabelecimento bancário ou similar.
+
+###### Art. 8.º Consideram-se como integrantes da rubrica mencionada na alínea e) do artigo 3.º os direitos de crédito de valor superior ao produto do factor 100, aplicado ao montante do salário mínimo nacional.
+
+###### Art. 9.º - 1 - Os bens referidos no n.º 1 do artigo 7.º serão descritos pela identificação dos títulos, mediante a declaração dos seus números, se são ou não preferenciais, nominativos, ao portador ou «de coupon», qual a entidade emitente, o valor facial de cada e o juro estipulado.
+
+2 - Os valores a que se refere o n.º 2 do artigo 7.º serão descritos pela indicação do seu montante, bem como da entidade depositária, número da conta, data do depósito, termo do prazo e taxa de juro fixada.
+
+3 - Os créditos a que alude o artigo 8.º serão identificados através da indicação do seu montante, sendo líquido, entidade devedora e data do vencimento.
+
+###### Art. 10.º Na rubrica «Outros elementos do activo patrimonial» descrever-se-ão os estabelecimentos comerciais ou industriais, incluindo os de indústria agrícola, de que o declarante seja proprietário na qualidade de empresário em nome individual.
+
+###### Art. 11.º No capítulo II das declarações referidas no artigo 1.º serão discriminados os débitos que oneram o património do declarante, mencionando-se:
+
+a) A identificação do credor;
+
+b) O montante do débito;
+
+c) A data do vencimento.
+
+###### Art. 12.º - 1 - Do capítulo III das declarações constarão discriminadamente os cargos de administrador, gerente, gestor, director, membro de comissão administrativa, de conselho fiscal ou de comissão de fiscalização, membro de mesa da assembleia geral ou de órgãos ou cargos análogos de quaisquer sociedades comerciais, civis sob forma comercial, cooperativas ou públicas, tanto nacionais como estrangeiras, desde que tais cargos tenham sido ocupados nos últimos 2 anos anteriores à emissão das declarações.
+
+2 - Relativamente a cada um dos cargos declarados será feita menção das datas do início de funções e do respectivo termo, se já tiver ocorrido.
+
+###### Art. 13.º O capítulo IV das declarações conterá os elementos respeitantes a rendimentos sujeitos a imposto complementar referentes a:
+
+a) Prédios rústicos e urbanos;
+
+b) Indústria agrícola;
+
+c) Actividade comercial e industrial;
+
+d) Trabalho, incluindo os abonos e pensões relativos à situação de reserva, de aposentação ou reforma;
+
+e) Aplicação de capitais;
+
+f) Pensões e rendas, temporárias ou vitalícias.
+
+###### Art. 14.º - 1 - As declarações sobre o valor do património e rendimentos serão pessoalmente entregues em triplicado pelo obrigado à sua apresentação, ou procurador que legalmente o represente, contra recibo, na secretaria do Tribunal Constitucional, ou pelo correio, sob registo e com aviso de recepção, em envelope dirigido ao secretário do Tribunal Constitucional, caso em que a assinatura do declarante deverá ser reconhecida notarialmente.
+
+2 - A secretaria do Tribunal Constitucional devolverá ao remetente o duplicado da declaração, apondo no mesmo nota de recibo.
+
+###### Art. 15.º - 1 - A declaração será registada na secretaria do Tribunal Constitucional, em livro próprio, modelo n.º 3, anexo ao presente diploma, que poderá ser alterado por portaria conjunta do Primeiro-Ministro e do Ministro das Finanças e do Plano.
+
+2 - O livro referido no número anterior terá termos de abertura e encerramento, assinados pelo presidente do Tribunal Constitucional, que rubricará todas as suas folhas, as quais serão numeradas.
+
+3 - De cada registo de declaração constará:
+
+a) A identificação do declarante, com indicação do cargo político ou equiparado que exerce;
+
+b) A data de apresentação;
+
+c) A menção do número do processo respectivo e do lugar de arquivo do mesmo.
+
+4 - À margem do registo averbar-se-á:
+
+a) Nota identificativa da declaração a que se refere o artigo 2.º da [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril;
+
+b) Nota identificativa das decisões proferidas nos termos do artigo 3.º da [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, sobre a omissão ou inexactidão das declarações.
+
+###### Art. 16.º - 1 - O original da declaração a que se refere o n.º 1 do artigo 1.º será autuado em processo organizado por cada declarante.
+
+2 - Será incorporada no mesmo auto, logo que prestada, a declaração referida no n.º 2 do artigo 1.º
+
+3 - Os serviços de secretaria do Tribunal Constitucional manterão devidamente actualizado um ficheiro onomástico referente aos processos individuais mencionados nos números anteriores, de modo a permitir fácil acesso aos mesmos.
+
+4 - O triplicado da declaração será, para efeitos de reforma dos autos, arquivado na Secção de Expediente, Orçamento e Contabilidade do referido Tribunal.
+
+###### Art. 17.º O processamento automático dos dados referentes aos processos e ficheiro mencionados nos n.os 1 a 3 do artigo anterior só será permitido por lei da Assembleia da República.
+
+###### Art. 18.º - 1 - O acesso aos processos mencionados no artigo 1.º é garantido através da sua consulta na secretaria do Tribunal, durante as horas de expediente.
+
+2 - Em casos devidamente justificados, pode o presidente do Tribunal Constitucional mandar passar certidões do processo.
+
+###### Art. 19.º - 1 - Têm legitimidade para ter acesso aos processos:
+
+a) O declarante;
+
+b) Quaisquer entidades públicas, no âmbito das respectivas funções;
+
+c) Quaisquer pessoas, individuais ou colectivas, que mostrem interesse legítimo relevante no conhecimento dos dados.
+
+2 - O acesso aos dados depende de prévia autorização do Tribunal Constitucional, a proferir mediante acórdão sobre requerimento formulado pelo interessado ou seu mandatário.
+
+3 - O requerente deverá articular factos concretos demonstrativos de interesse legítimo e relevante, indicar concretamente quais as informações pretendidas e subscrever uma declaração em que afirme ter conhecimento da responsabilidade criminal estabelecida no artigo 6.º da [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril.
+
+4 - O acto de consulta deverá ser registado no próprio processo, mediante cota, identificando a data da mesma, o consulente e o motivo da consulta.
+
+###### Art. 20.º - 1 - Em casos e circunstâncias devidamente justificados, em que o interesse público imponha o esclarecimento da situação patrimonial das entidades mencionadas no n.º 1 do artigo 4.º da [Lei n.º 4/83](https://diariodarepublica.pt/dr/detalhe/lei/4-1983-312432), de 2 de Abril, nomeadamente por haver dúvidas publicamente manifestadas sobre a veracidade das declarações prestadas, poderá o Tribunal Constitucional, a requerimento das entidades mencionadas no n.º 1 do artigo anterior deliberar por acórdão a sua divulgação, narrativa ou por extracto, através de comunicado emitido oficialmente pelo mesmo Tribunal.
+
+2 - O referido comunicado estará em tudo sujeito ao regime jurídico das notas oficiosas governamentais.
+
+###### Art. 21.º Aplica-se, com as devidas adaptações, à declaração referida no n.º 2 do artigo 1.º o regime previsto no presente diploma.
+
+###### Art. 22.º Pela prestação das declarações mencionadas no artigo 1.º não haverá lugar ao pagamento de qualquer preparo ou imposto de justiça.
+
+###### Art. 24.º Da omissão ou inexactidão das declarações a que se refere o artigo 1.º o presidente do Tribunal Constitucional dará conhecimento, para os fins tidos por convenientes, ao representante do ministério público junto daquele Tribunal.
+
+Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Rui Manuel Parente Chancerelle de Machete.
+
+**Promulgado em 27 de Setembro de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 28 de Setembro de 1983.**
+
+**O Primeiro-Ministro, Mário Soares.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/10/23000/34783495.pdf))](https://files.diariodarepublica.pt/1s/1983/10/23000/34783495.pdf)

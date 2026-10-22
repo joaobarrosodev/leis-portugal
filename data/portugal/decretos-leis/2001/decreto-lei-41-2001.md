@@ -1,0 +1,513 @@
+---
+schema_version: '1.0'
+id: pt:dre:319952:por
+title: Decreto-Lei n.º 41/2001
+short_title: null
+summary: Aprova o estatuto do artesão e da unidade produtiva artesanal e define o respectivo processo de acreditação
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 41/2001
+official_date: null
+publication_date: '2001-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 34/2001, Série I-A de 2001-02-09
+  number: '34'
+  series: I
+  supplement: null
+  pages: 724 - 727
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/02/034a00/07240727.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2002-04-17'
+version_history:
+  file: decreto-lei-41-2001.versoes.json
+  count: 2
+  source_lastmod: '2025-06-03'
+  versions:
+  - date: '2001-02-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2002-04-17'
+    amending: pt:dre:304327:por
+    amending_title: Decreto-Lei n.º 110/2002
+    changes:
+    - Adita Secção III-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Artigo 17.º-A
+    - Adita Capítulo III-A
+    - Adita Artigo 20.º-A
+    - Adita Artigo 20.º-B
+    - Adita Artigo 20.º-C
+    - Adita Artigo 20.º-D
+    - Adita Capítulo III-B
+    - Adita Artigo 20.º-E
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Revoga Artigo 7.º
+    - Revoga Artigo 8.º
+    - Revoga Artigo 20.º
+    - Revoga Artigo 21.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/41/2001/p/cons/20020416/pt/html
+  oj: null
+  dre: '319952'
+  dre_path: /dr/detalhe/decreto-lei/41-2001-319952
+  internal: pt:dre:319952:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2001-319952
+  metadata_url: https://data.dre.pt/eli/dec-lei/41/2001/p/cons/20020416/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-920348105
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2001-920348105
+  retrieved_at: '2026-10-22T13:27:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-06-03T00:00:00Z'
+integrity:
+  source_sha256: ffc75eed64398388d069d3761ef418e9f0e485fa709bee11c0fafa24584095ed
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:27:42Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-41-2001.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Artesão
+- Cartão de Identificação
+- Certificação Profissional
+- Comissão Nacional para a Promoção dos Ofícios e Microempresas Artesanais
+- Artesanato
+- Estatuto
+- Microempresa
+- Registo Nacional do Artesanato
+relationships:
+- type: amended_by
+  target: pt:dre:304327:por
+  label: Adita Secção III-A; Adita Artigo 15.º-A; Adita Artigo 15.º-B; Adita Artigo 17.º-A; Adita Capítulo III-A; Adita Artigo
+    20.º-A; Adita Artigo 20.º-B; Adita Artigo 20.º-C; Adita Artigo 20.º-D; Adita Capítulo III-B; Adita Artigo 20.º-E; Altera
+    Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 9.º; Altera Artigo
+    10.º; Altera Artigo 11.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327
+  date: '2002-04-16'
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/136/1997/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/136/1997/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/4/2000/02/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/4/2000/02/01/p/dre
+article_structure:
+  article_count: 30
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:27:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 41/2001
+
+Decreto-Lei n.º 41/2001
+
+de 9 de Fevereiro
+
+A Resolução do Conselho de Ministros n.º 136/97, de 14 de Agosto, com a redacção que lhe foi dada pela Resolução do Conselho de Ministros n.º 4/2000, de 1 de Fevereiro, ao aprovar o Programa para a Promoção dos Ofícios e das Microempresas Artesanais (PPART), estabeleceu um conjunto de eixos de acção cujo objectivo central é a valorização, a expansão e a renovação das artes, dos ofícios e das microempresas artesanais.
+
+Preconizou-se, então, como medida de suporte à política pública de fomento às artes, ofícios e microempresas artesanais, a definição do estatuto do artesão e do respectivo processo de acreditação. A fim de assegurar a preservação e a promoção das artes e ofícios é necessário dotar este sector de um instrumento jurídico de base que enquadre, defina e regule o conjunto de actividades económicas a ele associadas, e que, dessa forma, oriente a definição e execução de políticas adequadas ao manifesto interesse público de que este sector se reveste.
+
+Neste contexto, torna-se particularmente importante definir com clareza os conceitos de artesão e de unidade produtiva artesanal, bem como os requisitos a que devem obedecer as actividades artesanais para que possam beneficiar de apoios públicos e de medidas de discriminação positiva. Assim, a Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais considerou fundamental propor ao Governo a aprovação do estatuto do artesão e da unidade produtiva artesanal, que, designadamente, institui os respectivos processos de acreditação.
+
+Com a definição do estatuto do artesão e da unidade produtiva artesanal, o Governo pretende dar corpo a uma estratégia de valorização e credibilização das artes e ofícios enquanto plataforma de afirmação da identidade e cultura nacionais, que assenta, nomeadamente, no reconhecimento do papel fundamental que podem assumir na dinamização da economia e do emprego a nível local.
+
+Na elaboração do presente diploma participou a Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais, tendo sido ouvidas as associações de artesãos e a Federação Nacional das Cooperativas de Artesanato.
+
+Foram ouvidos os órgãos de Governo próprio das Regiões Autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma aprova o estatuto do artesão e da unidade produtiva artesanal e define o respectivo processo de reconhecimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 2.º — Objectivos
+
+O presente diploma, ao aprovar o estatuto do artesão e da unidade produtiva artesanal, tem por objectivos:
+
+a) Identificar os artesãos, as unidades produtivas artesanais e as actividades artesanais, conferindo-lhes maior visibilidade e valorização social e contribuindo, também, para a dignificação das profissões ligadas ao artesanato, nomeadamente junto dos mais jovens;
+
+b) Contribuir para uma adequada definição e ajustamento das políticas de incentivo e de discriminação positiva para o sector;
+
+c) Reforçar a consciência social da importância das artes e ofícios como meio privilegiado de preservação dos valores da identidade cultural do País e como instrumento de dinamização da economia e do emprego a nível local;
+
+d) Assegurar a produção de dados estatísticos que permitam obter informação rigorosa e actualizada sobre o sector, através do registo dos artesãos e das unidades produtivas artesanais.
+
+e) Reforçar o papel das associações, bem como das federações ou outras estruturas representativas dos artesãos ou das unidades produtivas artesanais, na divulgação e promoção das artes e ofícios.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 3.º — Âmbito
+
+1 - As disposições contidas neste diploma são aplicáveis em todo o território nacional, a todos os artesãos e a todas as unidades produtivas artesanais que pretendam ser reconhecidos como tal, sem prejuízo das eventuais adaptações às especificidades regionais e do desenvolvimento dos princípios gerais nele contidos que nas Regiões Autónomas venham a ser introduzidas através de decreto legislativo regional.
+
+2 - As disposições contidas neste diploma são aplicáveis às actividades artesanais relativas à produção e preparação de bens alimentares e ao restauro de bens patrimoniais, sem prejuízo das normas específicas aplicáveis a estes sectores de actividade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+### Capítulo II — Da actividade artesanal, do artesão e da unidade produtiva artesanal
+
+#### Secção I — Da actividade artesanal
+
+###### Artigo 4.º — Conceito
+
+Designa-se por actividade artesanal a actividade económica, de reconhecido valor cultural e social, que assenta na produção, restauro ou reparação de bens de valor artístico ou utilitário, de raiz tradicional ou contemporânea, e na prestação de serviços de igual natureza, bem como na produção e preparação de bens alimentares.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 5.º — Requisitos
+
+1 - A actividade artesanal deve caracterizar-se pela fidelidade aos processos tradicionais, em que a intervenção pessoal constitui um factor predominante e o produto final é de fabrico individualizado e genuíno, sem prejuízo da abertura à inovação consagrada no artigo seguinte.
+
+2 - A predominância da intervenção pessoal é avaliada em relação às fases do processo produtivo em que se influencie ou determine a qualidade e natureza do produto ou serviço final, em obediência aos requisitos referidos no número anterior.
+
+###### Artigo 6.º — Abertura à inovação
+
+A fidelidade aos processos tradicionais referida no n.º 1 do artigo anterior pode ser compatibilizada com a inovação, desde que sejam respeitadas as exigências ambientais e de saúde pública e os direitos dos consumidores, nos seguintes domínios e condições:
+
+a) Adequação do produto final às tendências do mercado e a novas funcionalidades desde que conserve um carácter diferenciado relativamente à produção industrial;
+
+b) Adaptação dos processos produtivos, equipamentos e tecnologias de produção, por imperativos de ordem ambiental e de higiene e segurança no local de trabalho e por forma a diminuir a penosidade do processo produtivo ou a rentabilizar a produção desde que, em qualquer caso, seja salvaguardada a natureza e qualidade do produto ou serviço final;
+
+c) Utilização de novas matérias-primas por razões de maior adequação ao resultado final pretendido, desde que, no caso da produção de bens de raiz tradicional, tal substituição não descaracterize o produto e não seja feita na produção e preparação de bens alimentares.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 7.º — Tipologia das actividades artesanais
+
+À luz do disposto nos artigos anteriores, estabelece-se a seguinte tipologia para as actividades artesanais:
+
+a) Artes;
+
+b) Ofícios;
+
+c) Produção e confecção tradicional de bens alimentares.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 8.º — Repertório de actividades artesanais
+
+1 - A actividade desenvolvida de acordo com as condições previstas nos preceitos anteriores deverá constar do repertório de actividades artesanais, a publicar nos termos previstos no artigo 21.º, sem prejuízo do disposto no n.º 3.
+
+2 - O repertório de actividades artesanais referido no preceito anterior tem um carácter dinâmico, pelo que deverá ser actualizado periodicamente, de acordo com a evolução do sector.
+
+3 - Até cada nova actualização do repertório de actividades artesanais, poderá a Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais, mediante fundamentação adequada e para efeitos de acreditação de artesãos e de unidades produtivas artesanais, reconhecer actividades ainda não constantes do mesmo.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+#### Secção II — Do artesão
+
+###### Artigo 9.º — Conceito
+
+1 - Para efeitos do presente diploma, entende-se por artesão o trabalhador que exerce uma actividade artesanal, por conta própria ou por conta de outrem, inserido em unidade produtiva artesanal reconhecida.
+
+2 - O exercício da actividade artesanal nos termos do número anterior supõe o domínio dos saberes e técnicas que lhe são inerentes, bem como um apurado sentido estético e perícia manual.
+
+3 - A comprovação do domínio dos saberes e técnicas inerentes ao exercício da actividade artesanal é definida por portaria conjunta dos Ministros do Trabalho e da Solidariedade, da Economia, do Planeamento, da Agricultura, do Desenvolvimento Rural e das Pescas, da Educação e da Cultura.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 10.º — Carta de artesão
+
+1 - O estatuto de artesão é reconhecido através da emissão do título «carta de artesão».
+
+2 - A carta de artesão é emitida para os artesãos que a requeiram, relativamente a uma ou mais actividades artesanais, desde que, para cada uma delas, preencham os requisitos exigidos no presente diploma.
+
+3 - A carta de artesão é válida por períodos a definir na portaria conjunta a que se refere o n.º 3 do artigo 9.º, em função do tempo de exercício da actividade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 11.º — Requisitos para o reconhecimento
+
+1 - A atribuição da carta de artesão supõe o exercício da actividade artesanal, nos seguintes termos:
+
+a) A actividade em causa deve constar do repertório das actividades artesanais a que se refere o artigo 17.º-A e cumprir as normas constantes do presente diploma;
+
+b) O artesão deve exercer a sua actividade a título profissional.
+
+c) Tratando-se da produção e preparação artesanal de bens alimentares, o artesão tem de exercer a sua actividade em local devidamente licenciado para o efeito e cumprir as normas aplicáveis, nomeadamente as relativas a higiene, segurança e qualidade alimentar;
+
+d) Tratando-se do restauro de património cultural, móvel e integrado, o artesão tem de exercer a sua actividade no cumprimento das normas específicas constantes da legislação em vigor para este sector de actividade.
+
+2 - Excepcionalmente, e mediante fundamentação adequada, pode ser atribuída a carta de artesão de mérito a quem, embora não cumprindo o requisito previsto na alínea b) do número anterior, seja detentor de saberes cuja preservação ou transmissão se considere importante promover.
+
+3 - Os artesãos que beneficiem da excepção referida no número anterior devem disponibilizar-se para transmitir os seus conhecimentos, designadamente colaborando em projectos ou acções de formação de novos artesãos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+#### Secção III — Da unidade produtiva artesanal
+
+###### Artigo 12.º — Conceito
+
+Para efeitos do presente diploma, considera-se unidade produtiva artesanal toda e qualquer unidade económica, legalmente constituída e devidamente registada, designadamente sob as formas de empresário em nome individual, estabelecimento individual de responsabilidade limitada, cooperativa, sociedade unipessoal ou sociedade comercial que desenvolva uma actividade artesanal, nos termos previstos na secção I do presente diploma.
+
+###### Artigo 13.º — Carta de unidade produtiva artesanal
+
+1 - O estatuto de unidade produtiva artesanal é reconhecido através da emissão do título «carta de unidade produtiva artesanal».
+
+2 - A carta de unidade produtiva artesanal é emitida para as unidades produtivas que a requeiram, relativamente a uma ou mais actividades artesanais, desde que, para cada uma delas, preencham os requisitos exigidos no presente diploma.
+
+3 - A carta de unidade produtiva artesanal é válida por períodos a definir na portaria conjunta a que se refere o n.º 3 do artigo 9.º, em função do tempo de exercício da actividade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 14.º — Requisitos para o reconhecimento
+
+1 - As unidades produtivas artesanais poderão obter a carta de unidade produtiva artesanal desde que reúnam, cumulativamente, as seguintes condições:
+
+a) Ter como responsável pela produção um artesão, possuidor do título referido no artigo 10.º, que a dirija e nela participe;
+
+b) Ter, no máximo, nove trabalhadores para o total das actividades desenvolvidas, salvo o disposto no número seguinte;
+
+c) Tratando-se da produção e preparação artesanal de bens alimentares, a unidade produtiva artesanal tem de estar previamente licenciada e cumprir as normas aplicáveis, nomeadamente as relativas a higiene, segurança e qualidade alimentar;
+
+d) Tratando-se do restauro de património cultural, móvel e integrado, a unidade produtiva artesanal tem de exercer a sua actividade cumprindo as normas específicas constantes da legislação em vigor para este sector de actividade.
+
+2 - Excepcionalmente, tendo em conta a natureza da actividade desenvolvida, e mediante uma análise casuística fundamentada, poderão ser consideradas unidades produtivas artesanais as empresas que, embora excedendo o número de trabalhadores fixado na alínea b) do número anterior, salvaguardem os princípios que caracterizam os processos produtivos artesanais.
+
+3 - A obtenção da carta não isenta as unidades produtivas artesanais do cumprimento das obrigações legais a que estejam sujeitas, designadamente em matéria de licenciamento das actividades desenvolvidas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 15.º — Efeitos
+
+O reconhecimento do estatuto de unidade produtiva artesanal, nos termos do artigo 13.º, é condição necessária para o acesso a quaisquer apoios e benefícios que o Estado atribua ao artesanato.
+
+#### Secção III-A — Publicitação do reconhecimento
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 15.º-A — Símbolo
+
+1 - Os artesãos e as unidades produtivas artesanais podem mencionar o reconhecimento na rotulagem, publicidade e demais documentos comerciais de acompanhamento dos seus produtos, através da utilização de símbolo do qual constem as expressões: «Produzido por artesão reconhecido» ou «Produzido em unidade produtiva artesanal reconhecida», sem prejuízo da aplicação das regras gerais sobre rotulagem, apresentação e publicidade.
+
+2 - O modelo de símbolo referido no número anterior é aprovado por portaria conjunta dos Ministros do Trabalho e da Solidariedade, da Economia, do Planeamento, da Agricultura, do Desenvolvimento Rural e das Pescas, da Educação e da Cultura.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 15.º-B — Uso indevido
+
+1 - A utilização do símbolo ou das expressões referidas no n.º 1 do artigo anterior, por pessoas singulares ou colectivas não reconhecidas nos termos do presente diploma, ou de expressões ou termos passíveis de induzir em erro quanto ao verdadeiro modo de produção, processo ou serviço ou que explorem a reputação dos produtos ou modos de produção artesanais, bem como as práticas que constituam actos de concorrência desleal, é sancionada nos termos da lei geral.
+
+2 - As marcas comerciais e as denominações sociais que ostentem as indicações referidas no número anterior podem continuar a ser utilizadas até 31 de Dezembro de 2004, desde que sejam sempre acompanhadas de uma indicação, no mesmo campo visual e com caracteres da mesma dimensão, que informe claramente que, consoante o caso:
+
+a) Não se trata de um produto ou serviço produzido por artesão reconhecido ou por uma unidade produtiva artesanal reconhecida; ou
+
+b) Não se trata de uma empresa reconhecida como unidade produtiva artesanal.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+#### Secção IV — Processo de acreditação
+
+###### Artigo 16.º — Competência
+
+1 - O reconhecimento do estatuto de artesão e do estatuto de unidade produtiva artesanal é da competência da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
+
+2 - O reconhecimento do estatuto de artesão e de unidade produtiva artesanal para a produção e preparação artesanal de bens alimentares está sujeito a parecer vinculativo dos serviços competentes do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas que, quando esteja em causa o reconhecimento de artesãos e de unidades produtivas artesanais que laborem produtos cujo nome é uma denominação de origem protegida, uma indicação geográfica protegida ou produtos abrangidos por modos de produção particulares, procedem à audição dos respectivos agrupamentos gestores ou equiparados.
+
+3 - O reconhecimento do estatuto de artesão e de unidade produtiva artesanal para o restauro de património cultural, móvel e integrado, está sujeito a parecer vinculativo do Instituto Português de Conservação e Restauro.
+
+4 - Da decisão da Comissão cabe recurso para o Ministro do Trabalho e da Solidariedade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+### Capítulo III — Registo Nacional do Artesanato
+
+###### Artigo 17.º — Organização
+
+O Registo Nacional do Artesanato é organizado pela Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais e integra as seguintes secções:
+
+a) Secção I - Repertório das Actividades Artesanais;
+
+b) Secção II - Artesãos;
+
+c) Secção III - Unidades Produtivas Artesanais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 17.º-A — Repertório de actividades artesanais
+
+1 - O repertório de actividades artesanais é constituído pela lista de actividades desenvolvidas de acordo com as condições previstas no presente diploma e é aprovado pela portaria a que se refere o n.º 3 do artigo 9.º
+
+2 - O repertório tem um carácter dinâmico e é actualizado periodicamente de acordo com a evolução do sector, por portaria conjunta do Ministro do Trabalho e da Solidariedade e dos ministros competentes em razão da matéria, sob proposta da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
+
+3 - Até cada nova actualização do repertório, pode a Comissão, mediante fundamentação adequada, e para efeitos de reconhecimento de artesãos e de unidades produtivas artesanais, reconhecer actividades ainda não constantes do mesmo.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 18.º — Competência
+
+A inscrição no Registo é da competência da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 19.º — Inscrição
+
+A inscrição dos artesãos e das unidades produtivas artesanais no Registo é gratuita.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 20.º — Organização
+
+O Registo organiza-se nas seguintes secções:
+
+a) Secção das actividades artesanais;
+
+b) Secção dos artesãos;
+
+c) Secção das unidades produtivas artesanais.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+### Capítulo III-A — Suspensão e revogação das cartas de artesão e de unidade produtiva artesanal
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 20.º-A — Comunicação de alterações
+
+1 - Todas as alterações das circunstâncias e dos elementos constantes dos processos de reconhecimento de artesãos e de unidades produtivas artesanais devem ser comunicadas à Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais no prazo máximo de 30 dias contados da sua verificação.
+
+2 - As alterações comunicadas nos termos do número anterior implicam a reavaliação dos processos, sempre que se verifiquem em relação aos requisitos que determinaram o reconhecimento.
+
+3 - Ponderadas as alterações e os resultados da eventual reavaliação dos processos, a Comissão procede à correspondente actualização do Registo.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 20.º-B — Iniciativa dos titulares
+
+As cartas de artesão e de unidade produtiva artesanal podem ser suspensas ou revogadas a pedido dos respectivos titulares, sem prejuízo do disposto nos artigos seguintes.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 20.º-C — Suspensão das cartas
+
+1 - As cartas de artesão e de unidade produtiva artesanal podem, sem prejuízo da aplicação, pelas entidades competentes, de outras sanções, ser suspensas a todo o tempo, desde que se verifique uma das seguintes situações:
+
+a) Incumprimento de algum dos requisitos de reconhecimento previstos nos artigos 11.º e 14.º;
+
+b) Incumprimento do dever de comunicar alterações das circunstâncias e dos elementos constantes dos processos de reconhecimento, nos termos do artigo 20.º-A.
+
+2 - A suspensão aplica-se por um período máximo de 45 dias durante o qual a situação de irregularidade deve ser corrigida.
+
+3 - A suspensão das cartas é notificada por carta registada com aviso de recepção e é precedida de inquérito, com a audição do titular da carta, o qual disporá de um período mínimo de 15 dias para a realização das verificações ou exames que solicitar.
+
+4 - A aplicação da suspensão das cartas é da competência da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 20.º-D — Revogação das cartas
+
+1 - As cartas de artesão e de unidade produtiva artesanal podem, sem prejuízo da aplicação, pelas entidades competentes, de outras sanções, ser revogadas a todo o tempo, desde que se verifique uma das seguintes situações:
+
+a) Utilização abusiva ou fraudulenta das cartas ou de benefícios decorrentes da sua titularidade;
+
+b) Não seja, no prazo previsto no artigo anterior, sanada a situação que levou à suspensão das cartas.
+
+2 - A revogação das cartas é notificada por carta registada com aviso de recepção e é precedida de inquérito, com a audição do titular da carta, o qual disporá de um período mínimo de 15 dias para a realização das verificações ou exames que solicitar.
+
+3 - A aplicação da revogação das cartas é da competência da Comissão Nacional para a Promoção dos Ofícios e das Microempresas Artesanais.
+
+4 - A revogação da carta implica a exclusão do Registo Nacional do Artesanato.
+
+5 - Da decisão da Comissão cabe recurso para o Ministro do Trabalho e da Solidariedade.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+### Capítulo III-B — Estruturas representativas
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 20.º-E — Das estruturas representativas de artesãos e de unidades produtivas artesanais
+
+1 - São consideradas representativas do sector, para efeitos do presente diploma, as pessoas colectivas de direito privado, constituídas nos termos da lei geral, que não tenham fins lucrativos, sejam constituídas maioritariamente por artesãos ou unidades produtivas artesanais e tenham por objecto a defesa dos direitos e interesses dos artesãos e das unidades produtivas artesanais, bem como as suas uniões, federações ou confederações.
+
+2 - O Estado deve promover a participação das estruturas representativas dos artesãos e das unidades produtivas artesanais na definição e implementação das políticas de incremento do artesanato, assegurando, designadamente, a sua participação em comissões e grupos de trabalho com atribuições no sector.
+
+3 - As entidades referidas nos números anteriores colaboram com o Estado e as autarquias locais na divulgação e promoção das artes e ofícios.
+
+4 - Para assegurar a divulgação da informação e a prestação de apoio aos artesãos e às unidades produtivas artesanais no processo de reconhecimento, a Comissão pode estabelecer protocolos com as estruturas representativas do sector.
+
+5 - As estruturas representativas do sector podem, nos termos de protocolos a celebrar com as entidades competentes e dentro das disponibilidades orçamentais destas, beneficiar de apoios financeiros, de carácter técnico ou logístico.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+### Capítulo IV — Disposições finais
+
+###### Artigo 21.º — Regulamentação
+
+No prazo de 180 dias a contar da publicação do presente diploma serão aprovadas as normas regulamentares necessárias à execução das disposições contidas no mesmo no que respeita à definição do repertório das actividades artesanais, ao processo de acreditação dos artesãos e das unidades produtivas artesanais e à organização e funcionamento do Registo Nacional do Artesanato.
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2002 - Diário da República n.º 89/2002, Série I-A de 2002-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2002-304327), em vigor a partir de 2002-04-17
+
+###### Artigo 22.º — Vigência
+
+O presente diploma entra em vigor trinta dias após a sua publicação, com excepção do disposto no artigo 15.º, que começará a vigorar em simultâneo com os regulamentos a este respeitantes previstos no artigo anterior.
+
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2000. - António Manuel de Oliveira Guterres - Eduardo Luís Barreto Ferro Rodrigues - Vítor Manuel da Silva Santos - Elisa Maria da Costa Guimarães Ferreira - Luís Manuel Capoulas Santos - Augusto Ernesto Santos Silva - José Estêvão Cangarato Sasportes.
+
+Promulgado em 26 de Janeiro de 2001.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 1 de Fevereiro de 2001.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

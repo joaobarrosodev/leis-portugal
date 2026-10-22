@@ -1,0 +1,269 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:614290:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2010-114440343",
+ "dre_path": "/dr/detalhe/decreto-lei/42-2010-614290",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114449375",
+    "114449376",
+    "114449377",
+    "114449378",
+    "114449379",
+    "114449380",
+    "114449381",
+    "114449382",
+    "114449383",
+    "114449384",
+    "114449385"
+   ]
+  },
+  {
+   "date": "2018-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114425586:por",
+     "title": "Lei n.º 114/2017",
+     "published": "2017-12-29",
+     "dre_path": "/dr/detalhe/lei/114-2017-114425586"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "114449375",
+    "114449376",
+    "114449377",
+    "114449378",
+    "114449387",
+    "114449380",
+    "114449381",
+    "114449382",
+    "114449383",
+    "114449388",
+    "114449385",
+    "114449386"
+   ]
+  },
+  {
+   "date": "2021-11-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:174126179:por",
+     "title": "Decreto-Lei n.º 95/2021",
+     "published": "2021-11-10",
+     "dre_path": "/dr/detalhe/decreto-lei/95-2021-174126179"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "114449375",
+    "114449376",
+    "114449377",
+    "114449378",
+    "174165790",
+    "114449380",
+    "114449381",
+    "114449382",
+    "114449383",
+    "114449388",
+    "114449385",
+    "114449386"
+   ]
+  },
+  {
+   "date": "2026-03-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1068974007:por",
+     "title": "Decreto-Lei n.º 74/2026",
+     "published": "2026-03-09",
+     "dre_path": "/dr/detalhe/decreto-lei/74-2026-1068974007"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "114449375",
+    "114449376",
+    "114449377",
+    "114449378",
+    "1069800775",
+    "114449380",
+    "114449381",
+    "114449382",
+    "114449383",
+    "1069800975",
+    "114449385",
+    "114449386"
+   ]
+  }
+ ],
+ "fragments": {
+  "114449375": {
+   "fragment_id": "114440344",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 42/2010\n\nde 30 de Abril\n\nNo quadro do processo de reversão da Hidroeléctrica de Cahora Bassa, SARL, para a titularidade maioritária da República de Moçambique, concluído em 27 de Novembro de 2007, assumiu o Estado Português o compromisso de apoio ao investimento em Moçambique, por parte de empresas portuguesas, ou com participação de empresas portuguesas, tendo para o efeito sido celebrado um Memorando de Entendimento entre ambos os governos tendente à criação de um Fundo Português de Apoio ao Investimento em Moçambique, com o objectivo de promover o financiamento de projectos de investimento e de parcerias estratégicas, designadamente nas áreas da energia, em especial das energias renováveis, do ambiente e das infra-estruturas, com respeito por critérios de sustentabilidade económica, financeira e ambiental.\n\nAtravés do presente decreto-lei é, assim, criado um Fundo que, para além de promover a cooperação e a solidariedade com Moçambique, proporciona inegáveis mais-valias para a economia e para as empresas portuguesas, uma vez que lhes faculta novas oportunidades de investimento em sectores económicos estruturantes do mercado moçambicano, nomeadamente nas áreas da energia, do ambiente e das infra-estruturas.\n\nCom efeito, a estratégia para relançar a economia e promover o emprego traçada no Programa do XVIII Governo Constitucional prevê como linha de acção fundamental a internacionalização da economia portuguesa, consubstanciada no Pacto para a Internacionalização, capaz de promover o rápido aumento das exportações, através do aumento da actividade das actuais empresas exportadoras, do alargamento da base exportadora e da captação de investimento directo estrangeiro modernizador.\n\nParalelamente, tem o Estado Português vindo a promover diversas iniciativas no quadro da política de cooperação financeira, tendo em vista o financiamento de projectos de investimento em sectores estruturantes das economias com quem Portugal mantém relações privilegiadas de cooperação, nos termos da Resolução do Conselho de Ministros n.º 196/2005, de 22 de Dezembro.\n\nEsta resolução definiu o quadro orientador da política de cooperação portuguesa, assente numa concepção moderna de cooperação, alinhada com as necessidades dos países beneficiários e promovendo a capacitação destes no plano das respectivas administrações públicas, do seu sector privado e do seu capital humano. Em particular, a relação com os países africanos de língua oficial portuguesa é considerada como um dos vectores de intervenção prioritária da cooperação portuguesa, bem como a promoção do crescimento económico e o desenvolvimento do sector privado.\n\nA presente iniciativa visa, então, mobilizar recursos financeiros para projectos de natureza variada, com contrapartida ao nível do maior envolvimento do tecido empresarial nacional, incluindo o exportador, na economia moçambicana, e com respeito pelas prioridades geográficas e sectoriais da cooperação portuguesa, nos termos definidos naquela resolução.\n\nPara o efeito, o Fundo será dotado com um capital correspondente ao contravalor em euros de 124 milhões de dólares americanos, ao câmbio da data da entrada em vigor do presente decreto-lei, divulgado pelo Banco de Portugal, e arredondado ao múltiplo de (euro) 1000 imediatamente superior.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114449376": {
+   "fragment_id": "114440345",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei cria o Fundo Português de Apoio ao Investimento em Moçambique, abreviadamente designado por Fundo."
+  },
+  "114449377": {
+   "fragment_id": "114440346",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO Fundo tem a natureza de património autónomo, sem personalidade jurídica, e rege-se pelo disposto no presente decreto-lei e no respectivo regulamento de gestão."
+  },
+  "114449378": {
+   "fragment_id": "114440347",
+   "type": 11,
+   "heading": "Artigo 3.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objectivos\n\nO Fundo tem por objectivo participar no financiamento de projectos de investimento de iniciativa pública ou privada em Moçambique, a efectuar através de empresas portuguesas, de parcerias integradas por empresas portuguesas, ou envolvendo a aquisição de bens e serviços de origem portuguesa, devendo ainda:\n\na) Promover uma adequada partilha de risco e transferência de know-how;\n\nb) Garantir a sua compatibilidade com as prioridades da política de cooperação financeira para o desenvolvimento do Estado Português definidas pelo Governo;\n\nc) Privilegiar a sua inserção em sectores económicos estruturantes, designadamente nas áreas da energia, ambiente, infra-estruturas e turismo;\n\nd) Respeitar critérios de sustentabilidade e eficiência económica, financeira e ambiental, contribuindo, designadamente, para o fomento do recurso a energias renováveis e da transferência de tecnologias limpas, que conduzam à redução da emissão de gases com efeito de estufa e de resíduos urbanos."
+  },
+  "114449379": {
+   "fragment_id": "114440348",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O Fundo tem o capital inicial correspondente ao contravalor em euros de 124 milhões de dólares americanos, ao câmbio da data da entrada em vigor do presente diploma, divulgado pelo Banco de Portugal, e arredondado ao múltiplo de (euro) 1000 imediatamente superior.\n\n2 - O capital do Fundo é subscrito integralmente pelo Estado, através da Direcção-Geral do Tesouro e Finanças.\n\n3 - O capital do Fundo é realizado no prazo de cinco dias após a entrada em vigor do presente diploma, pelo valor equivalente a 10 % do valor subscrito, devendo o capital remanescente ser realizado até ao final do 5.º ano de duração do Fundo, à medida das necessidades de financiamento dos projectos elegíveis, mediante proposta apresentada pela entidade gestora do Fundo.\n\n4 - O capital do Fundo é representado por unidades de participação com o valor unitário nominal de (euro) 1000.\n\n5 - As unidades de participação do Fundo podem ser transferidas, onerosamente, nos termos da lei e em condições de mercado, a favor de qualquer empresa pública ou instituição de crédito com sede em Portugal."
+  },
+  "114449380": {
+   "fragment_id": "114440349",
+   "type": 11,
+   "heading": "Artigo 5.º — Fontes de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Fontes de financiamento\n\n1 - Para além do valor do seu capital nos termos do artigo anterior, o Fundo é financiado pelas seguintes receitas:\n\na) Comissões ou outros proveitos obtidos em resultado da sua actividade;\n\nb) Rendimentos provenientes dos investimentos e das aplicações financeiras efectuados;\n\nc) Quaisquer outros meios financeiros que lhe venham a ser atribuídos ou consignados.\n\n2 - As receitas do Fundo são exclusivamente aplicadas no desenvolvimento das suas actividades no âmbito do objecto que prossegue."
+  },
+  "114449381": {
+   "fragment_id": "114440350",
+   "type": 11,
+   "heading": "Artigo 6.º — Despesas do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Despesas do Fundo\n\nConstituem despesas do Fundo as que resultem de encargos decorrentes da aplicação do presente decreto-lei."
+  },
+  "114449382": {
+   "fragment_id": "114440351",
+   "type": 11,
+   "heading": "Artigo 7.º — Gestão do Fundo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Gestão do Fundo\n\nO Fundo é gerido por uma entidade gestora legalmente habilitada para o efeito, à qual compete efectuar, em nome e por conta do Fundo, as operações necessárias à realização do seu objecto, tendo em conta os princípios estabelecidos no Memorando de Entendimento celebrado em 30 de Junho de 2008 entre os governos de Portugal e de Moçambique, através, respectivamente, do Ministério das Finanças e da Administração Pública e do Ministério da Energia."
+  },
+  "114449383": {
+   "fragment_id": "114440352",
+   "type": 11,
+   "heading": "Artigo 8.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regulamentação\n\n1 - O regulamento de gestão do Fundo é aprovado por portaria do membro do Governo responsável pela área das finanças, no prazo de 60 dias a contar da data da entrada em vigor do presente decreto-lei.\n\n2 - O regulamento de gestão do Fundo estabelece, designadamente, os procedimentos de acesso e de utilização dos recursos obtidos através do Fundo."
+  },
+  "114449384": {
+   "fragment_id": "114440353",
+   "type": 11,
+   "heading": "Artigo 9.º — Duração, renovação e extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Duração, renovação e extinção\n\n1 - O Fundo tem a duração de 15 anos, contados a partir do início da sua actividade, prazo findo o qual será extinto, revertendo o produto da sua liquidação para os participantes.\n\n2 - Sem prejuízo do disposto no ponto anterior, o prazo de duração do Fundo pode ser prorrogado por decisão dos participantes."
+  },
+  "114449385": {
+   "fragment_id": "114440354",
+   "type": 11,
+   "heading": "Artigo 10.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "114449387": {
+   "fragment_id": "114440348",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O Fundo tem o capital inicial correspondente ao contravalor em euros de 124 milhões de dólares americanos, ao câmbio da data da entrada em vigor do presente diploma, divulgado pelo Banco de Portugal, e arredondado ao múltiplo de (euro) 1000 imediatamente superior.\n\n2 - O capital do Fundo é subscrito integralmente pelo Estado, através da Direcção-Geral do Tesouro e Finanças.\n\n3 - O capital do Fundo é realizado no prazo de cinco dias após a entrada em vigor do presente diploma, pelo valor equivalente a 10 % do valor subscrito, devendo o capital remanescente ser realizado até ao final do décimo ano de duração do Fundo, à medida das necessidades de financiamento dos projetos elegíveis, mediante proposta apresentada pela entidade gestora do Fundo.\n\n4 - O capital do Fundo é representado por unidades de participação com o valor unitário nominal de (euro) 1000.\n\n5 - As unidades de participação do Fundo podem ser transferidas, onerosamente, nos termos da lei e em condições de mercado, a favor de qualquer empresa pública ou instituição de crédito com sede em Portugal.\n\n> Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114449388": {
+   "fragment_id": "114440353",
+   "type": 11,
+   "heading": "Artigo 9.º — Duração, renovação e extinção",
+   "in_force_from": "2018-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Duração, renovação e extinção\n\n1 - O Fundo tem a duração de 20 anos, contados a partir do início da sua atividade, prazo findo o qual será extinto, revertendo o produto da sua liquidação para os participantes.\n\n2 - Sem prejuízo do disposto no ponto anterior, o prazo de duração do Fundo pode ser prorrogado por decisão dos participantes.\n\n> Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "114449386": {
+   "fragment_id": "114440355",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Fevereiro de 2010. - José Sócrates Carvalho Pinto de Sousa - Carlos Manuel Costa Pina.\n\nPromulgado em 26 de Abril de 2010.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 29 de Abril de 2010.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "174165790": {
+   "fragment_id": "114440348",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": "2021-11-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2021 - Diário da República n.º 218/2021, Série I de 2021-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2021-174126179), em vigor a partir de 2021-11-11",
+    "Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O Fundo tem o capital inicial correspondente ao contravalor em euros de 124 milhões de dólares americanos, ao câmbio da data da entrada em vigor do presente diploma, divulgado pelo Banco de Portugal, e arredondado ao múltiplo de (euro) 1000 imediatamente superior.\n\n2 - O capital do Fundo é subscrito integralmente pelo Estado, através da Direcção-Geral do Tesouro e Finanças.\n\n3 - O capital do Fundo é realizado no prazo de cinco dias após a entrada em vigor do presente decreto-lei, pelo valor equivalente a 10 % do valor subscrito, devendo o capital remanescente ser realizado até ao final do décimo quinto ano de duração do Fundo, à medida das necessidades de financiamento dos projetos elegíveis, mediante proposta apresentada pela entidade gestora do Fundo.\n\n4 - O capital do Fundo é representado por unidades de participação com o valor unitário nominal de (euro) 1000.\n\n5 - As unidades de participação do Fundo podem ser transferidas, onerosamente, nos termos da lei e em condições de mercado, a favor de qualquer empresa pública ou instituição de crédito com sede em Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2021 - Diário da República n.º 218/2021, Série I de 2021-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2021-174126179), em vigor a partir de 2021-11-11\n\n> Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "1069800775": {
+   "fragment_id": "114440348",
+   "type": 11,
+   "heading": "Artigo 4.º — Capital",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2026-1068974007), em vigor a partir de 2026-03-10.",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2021 - Diário da República n.º 218/2021, Série I de 2021-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2021-174126179), em vigor a partir de 2021-11-11",
+    "Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Capital\n\n1 - O Fundo tem o capital inicial correspondente ao contravalor em euros de 124 milhões de dólares americanos, ao câmbio da data da entrada em vigor do presente diploma, divulgado pelo Banco de Portugal, e arredondado ao múltiplo de (euro) 1000 imediatamente superior.\n\n2 - O capital do Fundo é subscrito integralmente pelo Estado, através da Direcção-Geral do Tesouro e Finanças.\n\n3 - O capital do Fundo é realizado no prazo de cinco dias após a entrada em vigor do presente diploma, pelo valor equivalente a 10 % do valor subscrito, devendo o capital remanescente ser realizado até ao final do vigésimo ano de duração do Fundo, à medida das necessidades de financiamento dos projetos elegíveis, mediante proposta apresentada pela entidade gestora do Fundo.\n\n4 - O capital do Fundo é representado por unidades de participação com o valor unitário nominal de (euro) 1000.\n\n5 - As unidades de participação do Fundo podem ser transferidas, onerosamente, nos termos da lei e em condições de mercado, a favor de qualquer empresa pública ou instituição de crédito com sede em Portugal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2026-1068974007), em vigor a partir de 2026-03-10.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 95/2021 - Diário da República n.º 218/2021, Série I de 2021-11-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/95-2021-174126179), em vigor a partir de 2021-11-11\n\n> Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  },
+  "1069800975": {
+   "fragment_id": "114440353",
+   "type": 11,
+   "heading": "Artigo 9.º — Duração, renovação e extinção",
+   "in_force_from": "2026-03-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2026-1068974007), em vigor a partir de 2026-03-10.",
+    "Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Duração, renovação e extinção\n\n1 - O Fundo tem a duração de 24 anos, contados a partir do início da sua atividade, prazo findo o qual será extinto, revertendo o produto da sua liquidação para os participantes.\n\n2 - Sem prejuízo do disposto no ponto anterior, o prazo de duração do Fundo pode ser prorrogado por decisão dos participantes.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 74/2026 - Diário da República n.º 47/2026, Série I de 2026-03-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/74-2026-1068974007), em vigor a partir de 2026-03-10.\n\n> Alterado pelo/a Artigo 313.º do/a [Lei n.º 114/2017 - Diário da República n.º 249/2017, Série I de 2017-12-29](https://diariodarepublica.pt/dr/detalhe/lei/114-2017-114425586), em vigor a partir de 2018-01-01"
+  }
+ }
+}

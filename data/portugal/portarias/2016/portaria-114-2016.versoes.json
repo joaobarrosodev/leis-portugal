@@ -1,0 +1,336 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74306008:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-126775063",
+ "dre_path": "/dr/detalhe/portaria/114-2016-74306008",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-04-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "126811543",
+    "126811544",
+    "126811545",
+    "126811547",
+    "126811548",
+    "126811549",
+    "126811550",
+    "126811551",
+    "126811552",
+    "126811553",
+    "126811554",
+    "126811555",
+    "126811556",
+    "126811557",
+    "126811558",
+    "126811559",
+    "126811560",
+    "126811561",
+    "126811562",
+    "126811563",
+    "126811564",
+    "126811565",
+    "126811566",
+    "126811567",
+    "126811568",
+    "126811569",
+    "126811570"
+   ]
+  },
+  {
+   "date": "2019-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:126774995:por",
+     "title": "Portaria n.º 400/2019",
+     "published": "2019-12-02",
+     "dre_path": "/dr/detalhe/portaria/400-2019-126774995"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "126811543",
+    "126811544",
+    "126811545",
+    "126811546",
+    "126811547",
+    "126811548",
+    "126811549",
+    "126811550",
+    "126811551",
+    "126811552",
+    "126811553",
+    "126811571",
+    "126811555",
+    "126811556",
+    "126811557",
+    "126811558",
+    "126811559",
+    "126811560",
+    "126811561",
+    "126811562",
+    "126811572",
+    "126811564",
+    "126811565",
+    "126811566",
+    "126811567",
+    "126811568",
+    "126811569",
+    "126811570"
+   ]
+  }
+ ],
+ "fragments": {
+  "126811543": {
+   "fragment_id": "126775064",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 114/2016\n\nde 29 de abril\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), determinou que a estruturação operacional deste fundo é composta por um programa operacional (PO) de âmbito nacional, designado Mar 2020.\n\nO Mar 2020, aprovado formalmente pela Comissão Europeia através da Decisão de Execução C (2015) 8642, de 30 de novembro de 2015, contempla uma visão estratégica destinada a promover uma pesca sustentável e eficiente em termos de recursos, inovadora, competitiva e baseada no conhecimento, enquadrada na Prioridade da União a que alude o n.º 1 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014.\n\nA materialização daquela Prioridade conta com a possibilidade de cofinanciamento, no âmbito dos artigos 26.º e 28.º do citado regulamento, de operações nos domínios da inovação e da transferência de conhecimentos entre cientistas e pescadores, que visem o exercício de uma pesca inovadora, competitiva e baseada no conhecimento, permitindo aos Estados-Membros a adoção de regimes de apoio mediante a aprovação da competente regulamentação específica.\n\nO Decreto-Lei n.º 159/2014, de 27 de outubro, que estabelece as regras gerais de aplicação dos programas operacionais financiados pelos FEEI, veio prever sob a alínea d) do n.º 1 do artigo 4.º e a alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos FEEI é também integrado pela regulamentação específica dos programas operacionais e que, no caso do FEAMP, a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.\n\nAssim:\n\nManda o Governo, pela Ministra do Mar, ao abrigo do disposto na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, o seguinte:"
+  },
+  "126811544": {
+   "fragment_id": "126775065",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o Regulamento do Regime de Apoio à Inovação e à Transferência de Conhecimentos entre Cientistas e Pescadores ao abrigo da Prioridade da União estabelecida no n.º 1 do artigo 6.º do Regulamento (UE) n.º 508/2014 do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e com enquadramento nas medidas previstas nos artigos 26.º e 28.º do mesmo diploma, em anexo à presente portaria, que dela faz parte integrante."
+  },
+  "126811545": {
+   "fragment_id": "126775066",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "126811547": {
+   "fragment_id": "126775068",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nREGULAMENTO DO REGIME DE APOIO À INOVAÇÃO E À TRANSFERÊNCIA DE CONHECIMENTOS ENTRE CIENTISTAS E PESCADORES"
+  },
+  "126811548": {
+   "fragment_id": "126775069",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Regulamento estabelece o Regime de Apoio à Inovação e à Transferência de Conhecimentos entre Cientistas e Pescadores do Programa Operacional (PO) Mar 2020, para Portugal Continental."
+  },
+  "126811549": {
+   "fragment_id": "126775070",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\nOs apoios previstos no presente regime têm como finalidade estimular a criação e difusão de processos e produtos inovadores nas pescas e na transformação e comercialização dos produtos da pesca e da aquicultura, bem como promover a transferência de conhecimentos através de parcerias entre cientistas e pescadores."
+  },
+  "126811550": {
+   "fragment_id": "126775071",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente Regulamento e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Grupos de ação local» ou «GAL»», a parceria formada por representantes locais dos setores público e privado de um determinado território de intervenção, representativa das atividades socioeconómicas e com uma estratégia de desenvolvimento própria, denominada estratégia de desenvolvimento local de base comunitária;\n\nb) «Micro, pequenas e médias empresas (PME)» as definidas como tal na Recomendação n.º 2003/361/CE, de 6 de maio de 2003;\n\nc) «Organização de pescadores», pessoas coletivas de direito privado sem fins lucrativos, desde que sejam associações do setor da pesca;\n\nd) «Organização de produtores», organização profissional reconhecida nos termos da Organização Comum dos Mercados dos produtos da pesca e da aquicultura."
+  },
+  "126811551": {
+   "fragment_id": "126775072",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\n1 - No âmbito da inovação são suscetíveis de apoio as operações no domínio da pesca e da transformação e comercialização que visem desenvolver ou introduzir:\n\na) Produtos e equipamentos novos ou substancialmente melhorados;\n\nb) Técnicas e processos novos ou melhorados;\n\nc) Sistemas de gestão e de organização novos ou melhorados.\n\n2 - No âmbito das parcerias entre cientistas e pescadores são suscetíveis de apoio as operações que:\n\na) Prevejam a criação de redes, acordos de parcerias ou associações entre um ou vários organismos científicos independentes e pescadores, ou uma ou várias organizações de pescadores, nos quais podem participar organismos técnicos;\n\nb) Envolvam atividades realizadas no quadro das redes, dos acordos de parceria ou das associações referidas na alínea anterior."
+  },
+  "126811552": {
+   "fragment_id": "126775073",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade das operações\n\n1 - Podem beneficiar de apoios ao abrigo do presente Regulamento as operações que:\n\na) Não estejam materialmente concluídas ou totalmente executadas à data de apresentação da candidatura, independentemente de todos os pagamentos correspondentes terem sido efetuados pelo beneficiário;\n\nb) Visem os objetivos previstos no artigo 2.º e se enquadrem numa das tipologias elencadas no artigo anterior;\n\nc) Enquadrando-se no domínio da inovação, contenham um elemento de novidade ou de melhoria substancial (produto, equipamento, técnica, processo, sistema de gestão ou de organização) nas práticas internas das empresas da pesca ou da indústria de transformação dos produtos da pesca e da aquicultura;\n\nd) Enquadrando-se no domínio das parcerias entre cientistas e pescadores, envolvam uma das seguintes atividades:\n\ni) Recolha e gestão de dados que não os previstos no Programa Nacional de Recolha de Dados;\n\nii) Estudos;\n\niii) Projetos-piloto;\n\niv) Divulgação de conhecimentos e de resultados da investigação, seminários e boas práticas.\n\n2 - A elegibilidade das operações que prevejam uma parceria depende ainda da sua formalização por contrato em que seja fixado o âmbito dessa colaboração mútua e sejam previstas as obrigações reciprocamente assumidas com vista à execução da operação, em especial no que respeita à assunção de custos, à partilha de riscos e à divulgação de resultados."
+  },
+  "126811553": {
+   "fragment_id": "126775074",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologia de beneficiários\n\n1 - No âmbito da inovação, podem apresentar candidaturas ao presente regime:\n\na) Os organismos científicos ou técnicos, públicos ou privados, reconhecidos pela Administração;\n\nb) Empresas da pesca ou da indústria de transformação e outros operadores da fileira da pesca, desde que em colaboração com organismo científico ou técnico reconhecido pela Administração, que valida os seus resultados.\n\n2 - No âmbito das parcerias entre cientistas e pescadores, podem apresentar candidaturas ao presente regime:\n\na) Organismos de direito público;\n\nb) Pescadores;\n\nc) Organizações de pescadores, incluindo organizações de produtores;\n\nd) GAL-Pesca;\n\ne) Organizações não governamentais."
+  },
+  "126811554": {
+   "fragment_id": "126812975",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos beneficiários\n\nSem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, apenas são elegíveis os beneficiários que detenham as licenças e autorizações necessárias à execução da operação."
+  },
+  "126811555": {
+   "fragment_id": "126812976",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a atividade apoiada:\n\na) No caso de operações enquadráveis no n.º 1 do artigo 4.º:\n\ni) Investimentos materiais ou imateriais, trabalhos ou equipamentos imprescindíveis à execução da operação, bem como as amortizações de bens corpóreos já detidos pelo beneficiário, correspondentes ao período de afetação desses bens à operação, com exceção dos que já tenham sido objeto de apoio público;\n\nii) Despesas com pessoal diretamente ligadas à operação, nomeadamente remunerações e encargos sociais obrigatórios;\n\niii) Despesas com deslocações e estadias diretamente ligadas à operação, com as regras e limites previstos para a administração pública;\n\niv) Despesas diretas ligadas a afretamento de navio ou encargos com o mesmo devidamente detalhados;\n\nv) Relativas a trabalhos científicos ligados à preparação, acompanhamento e avaliação da operação;\n\nvi) Relativas à divulgação dos resultados da operação.\n\nb) No caso de operações enquadráveis no n.º 2 do artigo 4.º:\n\ni) Custos associados à criação de redes ou acordos de parceria, nomeadamente inerentes a sistemas de informação e comunicação eletrónica;\n\nii) Despesas inerentes a atividades de recolha e gestão de dados;\n\niii) Custos relativos a estudos e projetos-piloto;\n\niv) Despesas de divulgação dos resultados da investigação, incluindo a organização de seminários e divulgação de boas práticas;\n\nv) Outras despesas diretamente relacionadas com a operação, nomeadamente com pessoal, respeitantes a remunerações e encargos sociais obrigatórios e deslocações e estadias, com as regras e limites previstos para a administração pública.\n\n2 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são consideradas não elegíveis as seguintes despesas:\n\na) Aquisição de telemóveis, material e mobiliário de escritório;\n\nb) Aquisição de terrenos, infraestruturas e veículos automóveis.\n\n3 - Sem prejuízo do disposto nos números anteriores, podem ser consideradas elegíveis outras despesas, desde que imprescindíveis à realização dos objetivos subjacentes à operação e aprovadas pelo gestor."
+  },
+  "126811556": {
+   "fragment_id": "126812977",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxas de apoio\n\n1 - A taxa de apoio público para os projetos apresentados ao abrigo do presente regime é de 50 % das despesas elegíveis da operação, sem prejuízo do disposto nos números seguintes.\n\n2 - A taxa de apoio público prevista no número anterior é elevada para:\n\na) 60 % no caso de a operação ser executada por organização de pescadores;\n\nb) 75 % no caso de a operação ser executada por organização de produtores;\n\nc) 100 % no caso de:\n\ni) O beneficiário ser um organismo de direito público ou uma empresa encarregada da gestão de serviços de interesse económico geral; ou\n\nii) A operação ser de interesse coletivo, ser executada por beneficiário coletivo previsto no artigo 6.º e possuir características inovadoras, nomeadamente a nível local.\n\n3 - No caso de a operação ser executada por empresas não abrangidas pela definição de PME, a taxa de apoio público é de 30 %."
+  },
+  "126811557": {
+   "fragment_id": "126812978",
+   "type": 11,
+   "heading": "Artigo 10.º — Natureza dos apoios públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza dos apoios públicos\n\nOs apoios públicos previstos no presente regime revestem a forma de subvenção não reembolsável."
+  },
+  "126811558": {
+   "fragment_id": "126812979",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas, de acordo com o plano de abertura de candidaturas previsto na alínea b) do n.º 1 do artigo 33.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do Mar 2020, em www.mar2020.pt, e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do Mar 2020, em www.mar2020.pt, e estão sujeitos a confirmação eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - O regime-regra previsto nos números precedentes não prejudica a possibilidade de os anúncios a que alude o artigo seguinte fixarem forma diversa de apresentação de candidaturas quando tal se justifique."
+  },
+  "126811559": {
+   "fragment_id": "126812980",
+   "type": 11,
+   "heading": "Artigo 12.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor e podem, sem prejuízo do disposto no presente Regulamento, prever, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das atividades a apoiar;\n\nc) A dotação orçamental a atribuir;\n\nd) O número máximo de candidaturas admitidas por beneficiário;\n\ne) Os critérios de seleção e os respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\nf) A forma, o nível e os limites dos apoios a conceder.\n\n2 - Os anúncios dos períodos de apresentação das candidaturas são divulgados no portal do Portugal 2020, em www.portugal2020.pt e no portal do Mar 2020, em www.mar2020.pt, e publicitados em dois órgãos de comunicação social."
+  },
+  "126811560": {
+   "fragment_id": "126812981",
+   "type": 11,
+   "heading": "Artigo 13.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Seleção das candidaturas\n\n1 - Para efeitos de concessão de apoio financeiro, as candidaturas são selecionadas e ordenadas de acordo com as seguintes regras:\n\na) Em função do valor da pontuação final (PF) resultante da aplicação da seguinte fórmula:\n\nPF = 0,5 AT + 0,5 AE\n\nb) A forma de cálculo das pontuações da AT (apreciação técnica) e da AE (apreciação estratégica) é definida no Anexo do presente Regulamento, do qual faz parte integrante.\n\n2 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos em qualquer das valências previstas no número anterior.\n\n3 - As candidaturas selecionadas de acordo com o disposto nos números anteriores são separadas por tipologia de operação e hierarquizadas para efeitos de decisão, atentos os eventuais limites dos apoios a conceder fixados no anúncio de abertura.\n\n4 - As candidaturas são hierarquizadas por ordem de pontuação e, em caso de igualdade pontual, por ordem de entrada, prevalecendo as que tenham sido primeiramente apresentadas."
+  },
+  "126811561": {
+   "fragment_id": "126812982",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão das candidaturas\n\n1 - As Direções Regionais de Agricultura e Pescas e a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, no âmbito das suas competências enquanto organismos intermédios do Mar 2020, analisam e emitem parecer sobre as candidaturas.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta no prazo fixado para o efeito fundamento para o seu indeferimento.\n\n3 - O parecer referido no n.º 1 é emitido e remetido à autoridade de gestão num prazo máximo de 40 dias úteis a contar da data-limite para a apresentação das candidaturas.\n\n4 - O secretariado técnico aprecia os pareceres emitidos sobre as candidaturas com vista a assegurar que as mesmas são selecionadas em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete-as ao gestor com proposta de decisão final.\n\n5 - A comissão de gestão emite parecer sobre as propostas de decisão relativas às candidaturas a financiamento.\n\n6 - A decisão das operações que prevejam um investimento elegível igual ou superior a (euro) 2 500 000,00 compete ao membro do Governo responsável pela área do mar.\n\n7 - Antes de ser emitida a decisão final, o secretariado técnico procede à audiência de interessados, nos termos do Código do Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n8 - Sem prejuízo do disposto no n.º 4 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as candidaturas são objeto de decisão no prazo de 60 dias úteis contados a partir da data-limite para a respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n9 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "126811562": {
+   "fragment_id": "126812983",
+   "type": 11,
+   "heading": "Artigo 15.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Termo de aceitação\n\n1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pelo gestor."
+  },
+  "126811563": {
+   "fragment_id": "126812984",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, I. P., após apresentação pelo beneficiário do pedido e dos respetivos documentos de suporte, da forma e nos termos previstos nos números seguintes.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n4 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação.\n\n5 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições previstas na decisão de aprovação.\n\n6 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não sendo contabilizado o pedido de pagamento a título de adiantamento a que alude o artigo seguinte.\n\n7 - O gestor pode, na decisão de aprovação da candidatura, fixar metas intercalares de execução material e financeira e os inerentes prazos para a apresentação dos pedidos de pagamento, bem como fixar o montante da última prestação do apoio concedido."
+  },
+  "126811564": {
+   "fragment_id": "126812985",
+   "type": 11,
+   "heading": "Artigo 17.º — Adiantamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Adiantamento dos apoios\n\n1 - O beneficiário pode solicitar ao IFAP, I. P. a concessão de um adiantamento até 50 % do valor do apoio, após submissão do termo de aceitação a que alude o artigo 15.º\n\n2 - No caso de beneficiários de natureza privada, os adiantamentos são concedidos apenas mediante a prévia constituição de garantia a favor do IFAP, I. P., nos termos e condições definidas por este instituto.\n\n3 - A concessão e o montante dos adiantamentos a que se refere o número anterior ficam limitados às disponibilidades financeiras do Mar 2020.\n\n4 - A concessão de um adiantamento não obsta ao pagamento dos apoios ao abrigo do disposto no artigo anterior, contanto que os pagamentos efetuados a título de adiantamento e de reembolso, no seu conjunto, não excedam a totalidade da ajuda pública atribuída ao beneficiário."
+  },
+  "126811565": {
+   "fragment_id": "126812986",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações dos beneficiários\n\n1 - Sem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, constituem obrigações dos beneficiários:\n\na) Iniciar a execução das operações até 90 dias a contar da data da submissão do termo de aceitação e concluir essa execução até 3 anos a contar da mesma data, sem prejuízo da elegibilidade temporal prevista no n.º 2 do artigo 65.º do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nb) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação da operação;\n\nc) Aplicar integralmente os apoios na realização da operação aprovada, com vista à execução dos objetivos que justificaram a sua atribuição;\n\nd) Assegurar as demais componentes do financiamento, cumprindo pontualmente as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objetivos subjacentes à atribuição dos apoios;\n\ne) Manter integralmente os requisitos da atribuição dos apoios, designadamente os objetivos da operação, não alterando nem modificando a mesma sem prévia autorização do gestor do Mar 2020;\n\nf) Cumprir as metas de execução, financeira e material, que vierem a ser definidas na decisão de aprovação da candidatura, bem como os prazos definidos para apresentação dos pedidos de pagamento;\n\ng) Prever meios que assegurem a divulgação dos resultados alcançados.\n\n2 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e conclusão da execução da operação, previstos na alínea a) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao beneficiário."
+  },
+  "126811566": {
+   "fragment_id": "126812987",
+   "type": 11,
+   "heading": "Artigo 19.º — Alterações às operações aprovadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alterações às operações aprovadas\n\nPodem ser admitidas alterações técnicas à operação desde que se mantenha o objetivo do projeto aprovado, seguindo-se o disposto no artigo 22.º, delas não podendo resultar o aumento do apoio público."
+  },
+  "126811567": {
+   "fragment_id": "126812988",
+   "type": 11,
+   "heading": "Artigo 20.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P."
+  },
+  "126811568": {
+   "fragment_id": "126812989",
+   "type": 11,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\n1 - Os apoios objeto do presente regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013 e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente Regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação da operação ou falsificando documentos fornecidos no âmbito da mesma.\n\n2 - As reduções e exclusões dos apoios são efetuadas nos termos e condições a definir em portaria do membro do Governo responsável pela área do mar.\n\n3 - À recuperação dos montantes indevidamente recebidos, aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "126811569": {
+   "fragment_id": "126812990",
+   "type": 11,
+   "heading": "Artigo 22.º — Extinção ou modificação da operação por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Extinção ou modificação da operação por iniciativa do beneficiário\n\nO beneficiário pode requerer ao gestor:\n\na) A extinção da operação, desde que proceda à restituição das importâncias recebidas;\n\nb) A modificação da operação, desde que proceda à restituição das importâncias recebidas, na medida correspondente à modificação."
+  },
+  "126811570": {
+   "fragment_id": "126812991",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nMetodologia para determinação das pontuações da AT (apreciação técnica) e da AE (apreciação estratégica)\n\n1 - A apreciação técnica é efetuada de acordo com as alíneas seguintes, podendo atingir o máximo de 100 pontos:\n\na) No caso de operações enquadráveis no n.º 1 do artigo 4.º:\n\ni) As que possuam características técnicas adequadas e compatíveis com os objetivos que lhes estão subjacentes são pontuadas com 50 pontos de base;\n\nii) À pontuação base prevista na alínea anterior, acrescem as majorações previstas na Tabela I\n\nTABELA I\n\n(ver documento original)\n\nb) No caso de operações enquadráveis no n.º 2 do artigo 4.º:\n\ni) As que possuam características técnicas adequadas e compatíveis com os objetivos que lhes estão subjacentes são pontuadas com 50 pontos de base;\n\nii) À pontuação base prevista na alínea anterior, acrescem as majorações previstas na Tabela II.\n\nTABELA II\n\n(ver documento original)\n\n2 - A apreciação estratégica (AE) é efetuada de acordo com as alíneas seguintes, podendo atingir o máximo de 100 pontos:\n\na) No caso de operações enquadráveis no n.º 1 do artigo 4.º:\n\ni) As que contenham um elemento de novidade ou de melhoria substancial são pontuadas com 50 pontos de base;\n\nii) À pontuação base prevista na alínea anterior, acrescem as majorações previstas na Tabela III.\n\nTABELA III\n\n(ver documento original)\n\nb) No caso de operações enquadráveis no n.º 2 do artigo 4.º:\n\ni) As que contribuam para solucionar dificuldades dos operadores da fileira da pesca ou que fomentem a partilha de conhecimentos entre cientistas e pescadores são pontuadas com 50 pontos de base;\n\nii) À pontuação base prevista na alínea anterior, acrescem as majorações previstas na Tabela IV.\n\nTABELA IV\n\n(ver documento original)"
+  },
+  "126811546": {
+   "fragment_id": "126775067",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Mar, Ana Paula Mendes Vitorino, em 22 de abril de 2016."
+  },
+  "126811571": {
+   "fragment_id": "126812975",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos beneficiários",
+   "in_force_from": "2019-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03"
+   ],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos beneficiários\n\nA elegibilidade dos beneficiários é aferida tendo por base os critérios previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03"
+  },
+  "126811572": {
+   "fragment_id": "126812984",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento dos apoios",
+   "in_force_from": "2019-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03"
+   ],
+   "markdown": "###### Artigo 16.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, I. P., após apresentação pelo beneficiário do pedido e dos respetivos documentos de suporte, da forma e nos termos previstos nos números seguintes.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n4 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação.\n\n5 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições previstas na decisão de aprovação.\n\n6 - Os pedidos de pagamento são apresentados com cadência regular ao longo da execução da operação, podendo, em regra, ser apresentados até quatro pedidos de pagamento por candidatura aprovada, para além do pedido de pagamento a título de adiantamento a que alude o artigo seguinte, sem prejuízo do gestor, designadamente através da orientação técnica a que alude a alínea e) do n.º 2 do artigo 4.º do Decreto-Lei n.º 159/2014, de 27 de outubro, autorizar a apresentação de pedidos de pagamento adicionais.\n\n7 - O gestor pode, na decisão de aprovação da candidatura, fixar metas intercalares de execução material e financeira e os inerentes prazos para a apresentação dos pedidos de pagamento, bem como fixar o montante da última prestação do apoio concedido.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03"
+  }
+ }
+}

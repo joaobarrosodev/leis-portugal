@@ -1,0 +1,961 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:397153:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/1975-917146679",
+ "dre_path": "/dr/detalhe/decreto/494-a-1975-397153",
+ "source_lastmod": "2025-05-07",
+ "versions": [
+  {
+   "date": "1975-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:281824:por",
+     "title": "Declaração",
+     "published": "1976-03-31",
+     "dre_path": "/dr/detalhe/declaracao/1976-281824"
+    },
+    {
+     "id": "pt:dre:183176:por",
+     "title": "Rectificação",
+     "published": "1976-02-10",
+     "dre_path": "/dr/detalhe/rectificacao/1976-183176"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 27.º"
+   ],
+   "fragments": [
+    "916935035",
+    "916935036",
+    "916935037",
+    "916935038",
+    "916935039",
+    "916935040",
+    "916935041",
+    "916935042",
+    "916935043",
+    "916935044",
+    "916935045",
+    "916935046",
+    "916935047",
+    "916935048",
+    "916935049",
+    "916935050",
+    "916935051",
+    "916935052",
+    "916935053",
+    "916935054",
+    "916935055",
+    "916935056",
+    "916935057",
+    "916935058",
+    "916935059",
+    "916935060",
+    "916935061",
+    "916935062",
+    "916935063",
+    "916935064",
+    "916935065",
+    "916935066",
+    "916935067",
+    "916935068",
+    "916935069",
+    "916935070",
+    "916935071",
+    "916935072",
+    "916935073",
+    "916935074",
+    "917146775",
+    "917146776",
+    "917146777",
+    "917146778",
+    "917146779",
+    "917146780",
+    "917146781",
+    "917146782",
+    "917146783",
+    "917146784",
+    "917146785",
+    "917146786",
+    "917146787",
+    "917146788",
+    "917146789",
+    "917146790",
+    "917146791",
+    "917146792",
+    "917146793"
+   ]
+  },
+  {
+   "date": "1977-08-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:255458:por",
+     "title": "Decreto Regulamentar n.º 48/77",
+     "published": "1977-08-05",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/48-1977-255458"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 40.º"
+   ],
+   "fragments": [
+    "916935035",
+    "916935036",
+    "916935037",
+    "916935038",
+    "916935039",
+    "917146795",
+    "916935040",
+    "916935041",
+    "916935042",
+    "916935043",
+    "916935044",
+    "916935045",
+    "916935046",
+    "916935047",
+    "916935048",
+    "916935049",
+    "916935050",
+    "916935051",
+    "916935052",
+    "916935053",
+    "916935054",
+    "916935055",
+    "916935056",
+    "916935057",
+    "916935058",
+    "916935059",
+    "916935060",
+    "916935061",
+    "916935062",
+    "916935063",
+    "916935064",
+    "916935065",
+    "916935066",
+    "916935067",
+    "916935068",
+    "916935069",
+    "916935070",
+    "916935071",
+    "916935072",
+    "916935073",
+    "917146841",
+    "917146775",
+    "917146776",
+    "917146777",
+    "917146778",
+    "917146779",
+    "917146780",
+    "917146781",
+    "917146782",
+    "917146783",
+    "917146784",
+    "917146785",
+    "917146786",
+    "917146787",
+    "917146788",
+    "917146846",
+    "917146790",
+    "917146791",
+    "917146792",
+    "917146793",
+    "917146794",
+    "917146812"
+   ]
+  },
+  {
+   "date": "1979-02-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:393224:por",
+     "title": "Decreto n.º 14/79",
+     "published": "1979-02-09",
+     "dre_path": "/dr/detalhe/decreto/14-1979-393224"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "916935035",
+    "916935036",
+    "916935037",
+    "916935038",
+    "916935039",
+    "917146795",
+    "916935040",
+    "916935041",
+    "916935042",
+    "916935043",
+    "916935044",
+    "916935045",
+    "916935046",
+    "916935047",
+    "916935048",
+    "916935049",
+    "916935050",
+    "916935051",
+    "916935052",
+    "916935053",
+    "916935054",
+    "916935055",
+    "916935056",
+    "916935057",
+    "916935058",
+    "916935059",
+    "916935060",
+    "916935061",
+    "916935062",
+    "916935063",
+    "916935064",
+    "916935065",
+    "916935066",
+    "916935067",
+    "916935068",
+    "916935069",
+    "916935070",
+    "916935071",
+    "916935072",
+    "916935073",
+    "917584315",
+    "917146775",
+    "917146776",
+    "917146777",
+    "917146778",
+    "917146779",
+    "917146780",
+    "917146781",
+    "917146782",
+    "917146783",
+    "917146784",
+    "917146785",
+    "917146786",
+    "917146787",
+    "917146788",
+    "917146846",
+    "917146790",
+    "917146791",
+    "917146792",
+    "917146793",
+    "917146794",
+    "917146812"
+   ]
+  },
+  {
+   "date": "1980-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:460777:por",
+     "title": "Decreto n.º 85/80",
+     "published": "1980-09-19",
+     "dre_path": "/dr/detalhe/decreto/85-1980-460777"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "916935035",
+    "916935036",
+    "916935037",
+    "916935038",
+    "916935039",
+    "917146795",
+    "916935040",
+    "916935041",
+    "916935042",
+    "916935043",
+    "916935044",
+    "916935045",
+    "916935046",
+    "916935047",
+    "916935048",
+    "916935049",
+    "916935050",
+    "916935051",
+    "916935052",
+    "916935053",
+    "916935054",
+    "916935055",
+    "916935056",
+    "916935057",
+    "916935058",
+    "916935059",
+    "916935060",
+    "916935061",
+    "916935062",
+    "916935063",
+    "916935064",
+    "916935065",
+    "916935066",
+    "916935067",
+    "916935068",
+    "916935069",
+    "916935070",
+    "916935071",
+    "916935072",
+    "916935073",
+    "917584329",
+    "917146775",
+    "917146776",
+    "917146777",
+    "917146778",
+    "917146779",
+    "917146780",
+    "917146781",
+    "917146782",
+    "917146783",
+    "917146784",
+    "917146785",
+    "917146786",
+    "917146787",
+    "917146788",
+    "917146846",
+    "917146790",
+    "917146791",
+    "917146792",
+    "917146793",
+    "917146794",
+    "917146812"
+   ]
+  },
+  {
+   "date": "1981-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:578369:por",
+     "title": "Portaria n.º 509/81",
+     "published": "1981-06-25",
+     "dre_path": "/dr/detalhe/portaria/509-1981-578369"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "916935035",
+    "916935036",
+    "916935037",
+    "916935038",
+    "916935039",
+    "917146795",
+    "916935040",
+    "916935041",
+    "916935042",
+    "916935043",
+    "916935044",
+    "916935045",
+    "916935046",
+    "916935047",
+    "916935048",
+    "916935049",
+    "916935050",
+    "916935051",
+    "916935052",
+    "916935053",
+    "916935054",
+    "916935055",
+    "916935056",
+    "916935057",
+    "916935058",
+    "916935059",
+    "916935060",
+    "916935061",
+    "916935062",
+    "916935063",
+    "916935064",
+    "916935065",
+    "916935066",
+    "916935067",
+    "916935068",
+    "916935069",
+    "916935070",
+    "916935071",
+    "916935072",
+    "916935073",
+    "917584329",
+    "917146775",
+    "917146776",
+    "917146777",
+    "917146778",
+    "917146779",
+    "917146780",
+    "917146781",
+    "917146782",
+    "917146783",
+    "917146784",
+    "917146785",
+    "917146786",
+    "917146787",
+    "917146788",
+    "917146846",
+    "917146790",
+    "917146791",
+    "917146792",
+    "917146793",
+    "917146794",
+    "919377102"
+   ]
+  }
+ ],
+ "fragments": {
+  "916935035": {
+   "fragment_id": "917146680",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 494-A/75, de 10 de Setembro\n\nAo abrigo do n.º 1 do artigo 5.º do Decreto-Lei n.º 79/75, de 22 de Fevereiro:\n\nUsando da faculdade conferida pelo artigo 3.º, n.º 1, alínea 4), da Lei Constitucional n.º 6/75, de 26 de Março, o Governo decreta e eu promulgo o seguinte:"
+  },
+  "916935036": {
+   "fragment_id": "917146681",
+   "type": 1,
+   "heading": "Capítulo I — Da natureza, atribuição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Da natureza, atribuição e competência"
+  },
+  "916935037": {
+   "fragment_id": "917146682",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O Serviço Nacional de Ambulâncias (SNA) tem como objectivo assegurar a orientação, a coordenação e a eficiência das actividades respeitantes à prestação de primeiros socorros a sinistrados e doentes e ao respectivo transporte para os estabelecimentos hospitalares.\n\n2. O SNA é dotado de personalidade jurídica e autonomia administrativa e financeira, dispondo de património próprio, e funciona no âmbito do Ministério da Defesa."
+  },
+  "916935038": {
+   "fragment_id": "917146683",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara a realização dos objectivos fixados no artigo anterior e dentro das suas atribuições, compete, em especial, ao Serviço Nacional de Ambulâncias:\n\na) Propor e adoptar as providências necessárias para que seja assegurado, em termos eficientes, o socorro a sinistrados e doentes urgentes, nas suas fases de alerta, primeiros socorros e transporte, quer quando se trate de acidentes ocorridos na via pública ou no local de trabalho, quer nos demais casos de sinistros, intoxicações, agressões ou quaisquer outros em que se torne necessário o seu transporte para estabelecimentos hospitalares;\n\nb) Colaborar, em acordo com os planos nacionais de protecção civil, com as entidades públicas ou com pessoas colectivas de utilidade pública na organização do sistema de alerta e serviços de primeiros socorros e transporte de doentes, elaborando o respectivo plano de acção;\n\nc) Orientar o serviço a cargo das entidades públicas ou de pessoas colectivas de utilidade pública que dispõem de ambulâncias, designadamente estabelecendo zonas de respectiva actuação e expedindo instruções, às quais é devido acatamento;\n\nd) Adoptar ou promover as medidas necessárias para que a comunicação das doenças, sinistros e acidentes e o accionamento dos meios de socorros se efectuem com a máxima urgência e em termos eficazes;\n\ne) Promover, nos domínios da sua competência, as medidas adequadas à colaboração com os diversos sectores afins, em particular com as entidades representadas no Conselho Coordenador, afectando para tal meios e pessoal necessários;\n\nf) Fixar as condições da prestação dos serviços a realizar pelas entidades a quem foram atribuídas as ambulâncias, ou que sejam subsidiadas pelo SNA;\n\ng) Fomentar a instrução adequada dos socorristas através de apoio técnico e financeiro;\n\nh) Proceder à cedência definitiva (a título gratuito, com reembolso parcial ou com reserva de propriedade) ou à cedência temporária de ambulâncias e (ou) o respectivo equipamento, que pode ser sujeita a condições expressas em contrato, às entidades que prossigam os mesmos fins do SNA;\n\ni) Comparticipar na compra e na manutenção de ambulâncias e de material de socorrismo a adquirir por entidades com responsabilidade na prestação de socorros de urgência;\n\nj) Estudar os tipos de ambulâncias, normalizando-os e definindo o respectivo equipamento;\n\nl) Manter um parque privativo de ambulâncias nos termos em que se considerar necessário, para suprir deficiências de cobertura e formar uma reserva de emergência;\n\nm) Elaborar o plano anual de actividade, com a justificação dos empreendimentos a levar a cabo e com a definição das prioridades a respeitar na sua execução, dos meios de investimento necessários e da coordenação com outras entidades;\n\nn) Elaborar os projectos dos empreendimentos constantes do plano de acção e do plano anual de actividades e, logo que estes sejam superiormente aprovados, promover a sua execução, procedendo à abertura de concursos, à adjudicação de obras e de fornecimento, à celebração de contratos, quando for caso disso, assumindo, em regra, a direcção e fiscalização dos trabalhos respectivos;\n\no) Efectuar e promover inquéritos e estudos de modo a possibilitar a utilização racional dos recursos de que dispõe e melhorar a realização das suas finalidades;\n\np) Elaborar o orçamento anual e administrar os fundos que lhe são consignados;\n\nq) Propor medidas legislativas ou outras consideradas recomendáveis, com vista a um eficiente desempenho das atribuições do SNA."
+  },
+  "916935039": {
+   "fragment_id": "917146684",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos e serviços do SNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos e serviços do SNA"
+  },
+  "916935040": {
+   "fragment_id": "917146685",
+   "type": 8,
+   "heading": "Secção I — Dos órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Dos órgãos"
+  },
+  "916935041": {
+   "fragment_id": "917146686",
+   "type": 3,
+   "heading": "Subsecção I — Do Conselho Coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Do Conselho Coordenador"
+  },
+  "916935042": {
+   "fragment_id": "917146687",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. Constituem o Conselho Coordenador, além do presidente da comissão de gestão do SNA, representantes dos seguintes Ministérios:\n\na) Defesa Nacional (Serviço Nacional de Protecção Civil);\n\nb) Administração Interna (Direcção-Geral de Administração Local e Regional, forças de segurança pública e Conselho Nacional do Serviço de Incêndios);\n\nc) Trabalho (Direcção-Geral do Trabalho);\n\nd) Assuntos Sociais (Secretaria de Estado da Saúde);\n\ne) Equipamento Social e do Ambiente (Junta Autónoma de Estradas);\n\nf) Transportes e Comunicações (Correios e Telecomunicações de Portugal e Direcção-Geral da Aeronáutica Civil);\n\ne ainda:\n\ng) O presidente da Cruz Vermelha Portuguesa;\n\nh) O presidente da Liga dos Bombeiros Portugueses; e\n\ni) O director-geral da Prevenção Rodoviária Portuguesa.\n\n2. Podem ainda tomar parte nas reuniões, sem direito a voto, individualidades devidamente convocadas.\n\n3. Ouvido o Conselho Coordenador, poderá ser alterada a sua composição por despacho do Ministro da Defesa Nacional.\n\n4. As reuniões do Conselho Coordenador são dirigidas por um presidente e, na sua falta ou impedimento, por um vice-presidente, nomeados de entre os seus membros pelo Ministro da Defesa Nacional, não podendo estas nomeações recair no presidente da comissão de gestão.\n\n5. Na falta ou impedimento do presidente e do vice-presidente, presidirá um vogal, escolhido pelos membros do Conselho Coordenador.\n\n6. Servirá de secretário, sem direito a voto, o funcionário do SNA designado pelo presidente do Conselho Coordenador, sob proposta do presidente da comissão de gestão."
+  },
+  "916935043": {
+   "fragment_id": "917146688",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Compete, na generalidade, ao Conselho Coordenador a orientação da actividade do SNA e, em especial:\n\na) Assegurar as ligações do SNA com os diversos Ministérios, Secretarias de Estado, serviços ou instituições nos mesmos representados, tendo em vista, em especial, as necessidades dos sectores da protecção civil, da saúde e do trabalho;\n\nb) Assistir o SNA na sua acção coordenadora e acompanhar a execução das providências tendentes à prossecução dos seus fins;\n\nc) Aprovar o plano anual de actividade, orçamento, relatório anual de actividade e as contas anuais de gerência do SNA;\n\nd) Exercer acção de inspecção e fiscalização sobre as actividades do SNA;\n\ne) Aprovar as condições a que deve obedecer a colaboração de técnicos ou organismos estrangeiros, para a elaboração de estudos, pareceres, projectos, em regime de prestação de serviços e, bem assim, a concessão de bolsas de estudo no estrangeiro;\n\nf) Apreciar e deliberar sobre as matérias que, pela sua importância, o conselho coordenador pretenda avocar e aquelas que a comissão de gestão entenda submeter à sua deliberação;\n\ng) Propor ao Ministério da Defesa Nacional as medidas legislativas ou outras consideradas recomendáveis no domínio das actividades a prosseguir pelo SNA, em conformidade com a política superiormente definida.\n\n2. O Conselho Coordenador reunirá mensalmente e extraordinariamente por iniciativa do seu presidente ou a pedido de, pelo menos, três dos seus membros, e também da comissão de gestão.\n\n3. Em qualquer das circunstâncias referidas no número anterior, compete ao presidente do Conselho Coordenador a convocação dos seus membros."
+  },
+  "916935044": {
+   "fragment_id": "917146689",
+   "type": 3,
+   "heading": "Subsecção II — Da comissão de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Da comissão de gestão"
+  },
+  "916935045": {
+   "fragment_id": "917146690",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Junto dos serviços centrais do SNA funciona uma comissão de gestão, composta pelo seu presidente, pelos directores de serviço, por um representante do pessoal do SNA e por um secretário, este sem direito a voto.\n\n2. Nas faltas ou impedimentos do presidente e dos vogais intervêm os respectivos substitutos legais.\n\n3. O representante do pessoal e o seu substituto são eleitos em plenário, não podendo recair a escolha em vogal nato.\n\n4. Nas reuniões da comissão de gestão podem participar, sem direito a voto, quaisquer individualidades devidamente convidadas pelo presidente, após concordância da maioria dos membros presentes."
+  },
+  "916935046": {
+   "fragment_id": "917146691",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. À comissão de gestão, e dentro das suas atribuições, compete, em especial:\n\na) Elaborar o plano anual de actividade, o orçamento, o relatório anual de actividade e as contas anuais de gerência e submetê-los ao Conselho Coordenador;\n\nb) Elaborar e aprovar os regulamentos internos respeitantes à estruturação dos serviços e as suas alterações;\n\nc) Aprovar a distribuição do pessoal pelos diversos sectores dos serviços mediante proposta do seu presidente;\n\nd) Aprovar as propostas de admissão, de provimento e de promoção de pessoal do SNA;\n\ne) Autorizar a realização das despesas previstas no orçamento do SNA, nos termos legais e de acordo com a orientação superior, ou pronunciar-se sobre a legalidade das mesmas, quando excedam a sua competência;\n\nf) Conceder subsídios e comparticipações a entidades que colaboram na prossecução dos fins do SNA, de acordo com os planos aprovados;\n\ng) Aprovar as propostas de abertura de concursos para admissão de pessoal e afixação dos respectivos programas, quando for caso disso, e praticar os actos subsequentes;\n\nh) Assalariar o pessoal auxiliar ou outro que as exigências do serviço determinem, dentro das verbas atribuídas para estes fins no orçamento;\n\ni) Conceder bolsas de estudo no País para cumprimento dos programas aprovados de formação de pessoal;\n\nj) Aprovar as condições a que deve obedecer a colaboração de técnicos a entidades nacionais, para a elaboração de estudos, pareceres e projectos em regime de prestação de serviço;\n\nl) Dar parecer nos processos disciplinares quando caiba pena superior à de repreensão, ainda que registada;\n\nm) Adjudicar e aprovar a minuta de contratos relativos a empreitadas, a fornecimentos de material, a elaboração de estudos do serviço e tudo quanto diga respeito ao bom funcionamento do SNA, dentro dos limites legais previstos para serviços com autonomia administrativa e financeira;\n\nn) Deliberar sobre as dispensas das formalidades de concurso público ou limitado e da celebração de contratos escritos, sempre que o valor dos encargos seja inferior a 50% do valor limite referido na alínea anterior;\n\no) Propor expropriações e efectuar arrendamentos, dentro da sua competência, quando forem julgados necessários para a concretização dos objectivos do SNA;\n\np) Elaborar projectos de diplomas legais destinados a serem apreciados pelo Conselho Coordenador.\n\n2. A comissão de gestão reunirá, pelo menos, uma vez por semana, em dia e hora a fixar pelos seus membros."
+  },
+  "916935047": {
+   "fragment_id": "917146692",
+   "type": 3,
+   "heading": "Subsecção III — Das disposições comuns respeitantes ao fornecimento dos órgãos do SNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Das disposições comuns respeitantes ao fornecimento dos órgãos do SNA"
+  },
+  "916935048": {
+   "fragment_id": "917146693",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. Nas reuniões dos órgãos do SNA serão tratados os assuntos constantes da agenda, elaborada pelo presidente e distribuída pelos vogais com a antecedência mínima de setenta e duas horas ao Conselho Coordenador e vinte e quatro horas à comissão de gestão.\n\n2. A pedido de qualquer vogal, deve-lhe ser facultada, antes da reunião, a documentação relativa à matéria inscrita na agenda.\n\n3. Sob proposta de qualquer vogal, o presidente pode inscrever na agenda de uma das reuniões seguintes os assuntos que lhe tenham sido sugeridos.\n\n4. Em caso de urgência ou de diminuta importância, pode qualquer assunto ser tratado antes da ordem do dia, desde que o presidente o aceite."
+  },
+  "916935049": {
+   "fragment_id": "917146694",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nOs vogais dos órgãos do SNA não podem tomar parte na votação dos assuntos que forem do seu interesse directo."
+  },
+  "916935050": {
+   "fragment_id": "917146695",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As deliberações são tomadas por maioria absoluta e, em caso de empate, o presidente tem voto de qualidade.\n\n2. Os vogais vencidos podem consignar nas actas as razões do seu desacordo.\n\n3. É exigida a maioria simples dos membros dos órgãos do SNA, sempre que exerçam funções deliberativas."
+  },
+  "916935051": {
+   "fragment_id": "917146696",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. As deliberações tomadas em reunião constarão da acta e só por ela podem ser aprovadas.\n\n2. As actas serão aprovadas no final da reunião, em minuta, ou na reunião seguinte.\n\n3. As actas são consideradas válidas desde que assinadas pelo presidente e secretário, podendo ser assinadas pelos membros que o desejem antes da sua distribuição."
+  },
+  "916935052": {
+   "fragment_id": "917146697",
+   "type": 8,
+   "heading": "Secção II — Dos serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Dos serviços"
+  },
+  "916935053": {
+   "fragment_id": "917146698",
+   "type": 3,
+   "heading": "Subsecção I — Das disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção I — Das disposições gerais"
+  },
+  "916935054": {
+   "fragment_id": "917146699",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs serviços do SNA compreendem:\n\na) Os serviços centrais; e\n\nb) Os serviços regionais."
+  },
+  "916935055": {
+   "fragment_id": "917146700",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os serviços do SNA serão dirigidos pelo presidente da comissão de gestão.\n\n2. Nas suas faltas ou impedimentos o presidente será substituído pelo director de serviço designado pela comissão de gestão."
+  },
+  "916935056": {
+   "fragment_id": "917146701",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Ao presidente da comissão de gestão compete dirigir os serviços do SNA, orientando e coordenando a actividade dos vários serviços, e ainda:\n\na) Representar o SNA em juízo e fora dele, podendo constituir advogado para o efeito;\n\nb) Submeter a despacho superior os assuntos que o justifiquem ou excedam a sua competência;\n\nc) Presidir à comissão de gestão;\n\nd) Promover a coordenação, a nível de serviços, com os sectores da Saúde, da Protecção Civil e do Trabalho, na parte que interessa ao SNA;\n\ne) Propor alterações na organização dos serviços e bem assim a constituição de grupos de trabalho e de comissões de estudo;\n\nf) Praticar os actos mais correntes ou repetidos relativos às funções especiais dos serviços;\n\ng) Conceder, nos termos legais, as licenças seguidas ou interpoladas a que o pessoal do SNA tenha direito, com excepção da licença ilimitada;\n\nh) Outorgar nos contratos a celebrar pelo SNA;\n\ni) Mandar instaurar inquéritos e processos disciplinares;\n\nj) Decidir nos processos disciplinares dentro da sua competência, aplicando penas, mediante parecer prévio da comissão de gestão, quando às infracções caiba pena superior à de repreensão, ainda que registada.\n\n2. O presidente da comissão de gestão poderá receber do Ministro da Defesa Nacional delegação de competência, nos termos do artigo 17.º do Decreto-Lei n.º 42800, de 11 de Janeiro de 1960, do artigo 11.º do Decreto-Lei n.º 48059, de 23 de Novembro de 1967, e n.º 2 do artigo 8.º do Decreto-Lei n.º 48234, de 31 de Janeiro de 1968.\n\n3. O presidente da comissão de gestão poderá delegar as competências no n.º 1 e subdelegar as que lhe forem delegadas nos termos do n.º 2 e conforme dispõem os Decretos-Leis n.os 42800, de 11 de Janeiro de 1960, e 48059, de 23 de Novembro de 1967."
+  },
+  "916935057": {
+   "fragment_id": "917146702",
+   "type": 3,
+   "heading": "Subsecção II — Dos serviços centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção II — Dos serviços centrais"
+  },
+  "916935058": {
+   "fragment_id": "917146703",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. Os serviços centrais compreendem quatro direcções de serviços, a saber:\n\na) Direcção de Serviços Administrativo-Financeiros;\n\nb) Direcção de Serviços de Telecomunicações;\n\nc) Direcção de Serviços de Socorro e Transporte; e\n\nd) Direcção de Serviços Técnicos e Apoio Externo.\n\n2. Cada direcção de serviços será dirigida por um director, que poderá, cumulativamente, dirigir duas ou mais direcções."
+  },
+  "916935059": {
+   "fragment_id": "917146704",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nCompete à Direcção de Serviços Administrativo-Financeiros, em especial:\n\na) Assegurar os serviços de expediente geral e arquivo;\n\nb) Prestar apoio administrativo e jurídico aos restantes serviços do SNA;\n\nc) Preparar os elementos relativos ao plano e relatório anual de actividades, orçamento e contas anuais de gerência do SNA;\n\nd) Executar os actos relacionados com a administração do pessoal do SNA e em especial do seu recrutamento, provimento, colocação, transferência e exoneração, organizando e mantendo actualizado o respectivo cadastro;\n\ne) Preparar e organizar acções de formação, valorização e aperfeiçoamento do pessoal do SNA afecto a este sector e apoiar, no mesmo sentido, os restantes sectores;\n\nf) Contabilizar as receitas e as despesas e organizar os processos dos bens que façam parte do património do SNA, mantendo actualizado o respectivo cadastro;\n\ng) Preparar os orçamentos e projectos de financiamento do SNA e assegurar a gestão financeira;\n\nh) Propor e tomar as medidas respeitantes à cobrança das receitas e conferir os seus valores;\n\ni) Elaborar propostas, conferindo e informando os processos de despesa do SNA;\n\nj) Processar, liquidar e executar o pagamento de despesas autorizadas;\n\nl) Exercer outras atribuições relacionadas com o sector e que visem a melhoria dos serviços."
+  },
+  "916935060": {
+   "fragment_id": "917146705",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nCompete à Direcção de Serviços de Telecomunicações, em especial:\n\na) Estudar, planear e acompanhar o desenvolvimento dos sistemas de telecomunicações privativos do SNA e o seu enquadramento noutras redes, quando conveniente, no sentido de dar apoio aos objectivos referidos no artigo 1.º;\n\nb) Promover e executar as acções necessárias à instalação, manutenção e exploração dos sistemas de telecomunicações privativos do SNA;\n\nc) Tomar as medidas julgadas necessárias à preparação técnica do pessoal afecto ao sector;\n\nd) Propor apoio financeiro e técnico e a celebração de acordos com entidades que colaboram com o SNA, no domínio das telecomunicações e sistemas de alerta, com ênfase para a colaboração no domínio dos operadores de centrais de emergência;\n\ne) Exercer outras atribuições relacionadas com o sector."
+  },
+  "916935061": {
+   "fragment_id": "917146706",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nCompete à Direcção de Serviços do Socorro e Transporte, em especial:\n\na) Propor e adoptar medidas com vista à disciplina do transporte de acidentados, doentes e outras pessoas necessitadas de assistência, dentro de uma política de racionalização de emprego de meios terrestres e aéreos;\n\nb) Pugnar pela elevação do nível técnico dos socorros de urgência, podendo colaborar com outras entidades na criação de uma escola de socorristas e na profissionalização dos seus diplomados, através de apoio técnico e financeiro;\n\nc) Promover, em colaboração com outras entidades, a divulgação dos conhecimentos gerais de socorrismo, através de apoio técnico e financeiro;\n\nd) Assegurar a colaboração com os sectores da saúde, na parte que interessa ao SNA;\n\ne) Fomentar, em colaboração com os serviços de saúde regionais, a criação de grupos regionais para o socorro de urgência e contribuir para o estabelecimento de escalas médicas de urgência, onde as mesmas se tornem necessárias;\n\nf) Estudar e manter actualizados, em colaboração com o respectivo departamento da Saúde e Serviço Nacional de Protecção Civil, os planos de evacuações sanitárias;\n\ng) Contribuir para que sejam supridas as carências dos serviços de urgência hospitalares, quando tal se torne indispensável para o SNA;\n\nh) Estudar as regras e definir critérios para a distribuição de subsídios a conceder para efeitos de aquisição ou comparticipação na compra e reparação de ambulâncias;\n\ni) Elaborar e manter actualizado o ficheiro nacional de ambulâncias;\n\nj) Estudar e propor medidas destinadas à tipificação das ambulâncias e do seu apetrechamento;\n\nl) Exercer outras atribuições que lhe sejam cometidas e relacionadas com o sector."
+  },
+  "916935062": {
+   "fragment_id": "917146707",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nCompete à Direcção de Serviços Técnicos e Apoio Externo, em especial:\n\na) Preparar e coordenar planos e relatórios de actividade e projectos relacionados com os fins do SNA e, bem assim, recolher e tratar os respectivos elementos estatísticos;\n\nb) Prestar apoio técnico através de contactos directos com as entidades que colaboram com o SNA e colaborar na sua operacionalidade, de acordo com a orientação previamente definida;\n\nc) Promover e organizar actividades e documentação, nos sectores bibliográfico e áudio-visual, relacionadas com o SNA;\n\nd) Realizar inquéritos, em colaboração com os serviços do SNA;\n\ne) Proceder a estudos e prestar colaboração sobre as matérias de que for incumbida pelo Conselho Coordenador, comissão de gestão ou pelo presidente da comissão de gestão do SNA;\n\nf) Exercer outras atribuições que lhe sejam cometidas e relacionadas com o sector."
+  },
+  "916935063": {
+   "fragment_id": "917146708",
+   "type": 3,
+   "heading": "Subsecção III — Dos serviços regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subsecção III — Dos serviços regionais"
+  },
+  "916935064": {
+   "fragment_id": "917146709",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Os serviços regionais, com a designação de «Delegação Regional», serão criados por despacho do Ministro da Defesa Nacional, sob proposta do Conselho Coordenador, ouvida a comissão de gestão, e actuarão na área que lhes for fixada no despacho.\n\n2. O pessoal dos serviços regionais pertence ao quadro único de pessoal, publicado em anexo, e será colocado em qualquer dos serviços regionais por despacho do Ministro da Defesa Nacional, sob proposta do presidente da comissão de gestão.\n\n3. Os serviços regionais dependem directamente do presidente e da comissão de gestão, sem prejuízo da autonomia de funções que lhes for atribuída por despacho ministerial."
+  },
+  "916935065": {
+   "fragment_id": "917146710",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal do SNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do pessoal do SNA"
+  },
+  "916935066": {
+   "fragment_id": "917146711",
+   "type": 8,
+   "heading": "Secção I — Do quadro de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Do quadro de pessoal"
+  },
+  "916935067": {
+   "fragment_id": "917146712",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. O SNA disporá do pessoal constante do quadro anexo ao presente diploma.\n\n2. O quadro de pessoal pode ser revisto quanto a número de unidades, cargos e categorias, de harmonia com a evolução das exigências do serviço do SNA, por portaria conjunta dos Ministros da Defesa Nacional e das Finanças."
+  },
+  "916935068": {
+   "fragment_id": "917146713",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nAlém do pessoal do quadro, pode ser contratado para prestação de serviço eventual ou assalariado, nos termos legais e dentro das disponibilidades orçamentais respectivas, o pessoal indispensável à boa execução dos serviços que não possam ser desempenhados por pessoal do quadro."
+  },
+  "916935069": {
+   "fragment_id": "917146714",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. Para o estudo de problemas específicos podem ser constituídas no SNA comissões ou grupos de trabalho, cujo mandato, composição e funcionamento são estabelecidos em despacho conjunto dos Ministros interessados.\n\n2. Aos componentes das comissões ou grupos de trabalho estranhos ao SNA pode ser atribuída uma remuneração por despacho conjunto dos Ministros da Defesa Nacional e das Finanças."
+  },
+  "916935070": {
+   "fragment_id": "917146715",
+   "type": 8,
+   "heading": "Secção II — Do provimento do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Do provimento do pessoal"
+  },
+  "916935071": {
+   "fragment_id": "917146716",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. O provimento dos lugares do SNA é por nomeação, salvo os de categoria igual ou inferior à letra S, que é por contrato.\n\n2. As nomeações para ingresso no quadro do SNA têm carácter provisório durante dois anos.\n\n3. Findo este prazo, os funcionários são providos definitivamente, se tiverem dado provas de aptidão para o lugar; no caso contrário, são exonerados.\n\n4. A nomeação para o cargo de presidente é sempre em comissão de serviço, por três anos, prorrogável por iguais períodos.\n\n5. A nomeação para o cargo de director de serviço pode ser em comissão de serviço ou a título definitivo, com a aplicação dos n.ºs 2 e 3 deste artigo ou dos n.ºs 1 e 2 do artigo seguinte.\n\n6. Quando o funcionário do SNA ascender a cargo igual ou superior à letra R, contar-se-á, para efeito de nomeação definitiva, o tempo de serviço prestado na situação de contratado."
+  },
+  "916935072": {
+   "fragment_id": "917146717",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. Se a nomeação para qualquer categoria do quadro do SNA recair em funcionário público ou administrativo, é feita em comissão de serviço por um ano, prorrogável tacitamente por períodos de igual tempo.\n\n2. A seu pedido e após um ano de bom e efectivo serviço, a nomeação em comissão pode converter-se em definitiva, ingressando no quadro do SNA.\n\n3. Dando-se o reingresso do funcionário no quadro de origem, mas não tendo vaga, o mesmo ficará na situação de supranumerário em relação ao quadro do SNA, podendo, entretanto, prestar serviço no quadro de origem, conforme for decidido pelos Ministros respectivos."
+  },
+  "916935073": {
+   "fragment_id": "917146718",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1. O lugar de presidente da comissão de gestão do SNA é provido por escolha do Ministro da Defesa Nacional de entre indivíduos habilitados com curso superior adequado e com reconhecida competência.\n\n2. O lugar de director de serviço é provido por escolha do Ministro da Defesa Nacional de entre indivíduos habilitados com curso superior adequado ao exercício das respectivas funções, de preferência de entre funcionários do SNA de categoria hierárquica inferior."
+  },
+  "916935074": {
+   "fragment_id": "917146719",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Por despacho do Ministro da Defesa Nacional, mediante proposta do presidente da comissão de gestão, ouvida a comissão de gestão, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:\n\na) Técnicos de 1.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções, devendo um ser engenheiro electrotécnico e de preferência entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe se nas condições anteriores; ou de entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nb) Técnicos de 2.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre técnicos auxiliares principais ou adjunto do chefe de secretaria, se nas condições anteriores; ou de técnicos auxiliares principais ou adjunto do chefe de secretaria, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nc) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre o adjunto do chefe de secretaria nas condições anteriores ou, quando não diplomado, com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nd) Chefe de contabilidade e tesoureiro de 1.ª, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais, adequados ao exercício das respectivas funções, ou de entre contabilistas de 1.ª ou tesoureiros de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ne) Técnicos auxiliares principais, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais e industriais, adequados ao exercício das funções de técnicos auxiliares principais ou de entre, respectivamente, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe e técnicos auxiliares de 3.ª classe, com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;\n\nf) Adjunto do chefe de secretaria, primeiros e segundos-oficiais, de entre diplomados com curso superior adequado ou pelos institutos comerciais para os lugares de adjunto do chefe de secretaria ou de entre, respectivamente, primeiros, segundos e terceiros-oficiais, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ng) Contabilistas de 1.ª classe e tesoureiro de 2.ª classe, de entre os contabilistas de 2.ª classe, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nh) Montador de telecomunicações de 1.ª e 2.ª classes, de entre, respectivamente, montadores de 2.ª e 3.ª classes, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ni) Desenhador de 2.ª classe, de entre indivíduos habilitados com os cursos adequados das escolas técnicas ou habilitações equivalentes;\n\nj) Técnicos auxiliares de 3.ª classe, de entre indivíduos com o curso geral dos liceus ou equiparado, depois da frequência do estágio referido no n.º 3 deste artigo;\n\nk) Contabilistas de 2.ª classe, de entre indivíduos habilitados com o curso geral do comércio, curso geral dos liceus ou habilitações equivalentes;\n\nl) Montadores de telecomunicações de 3.ª classe, de entre indivíduos habilitados com os cursos de radiomontador, incluindo o ministrado na Escola Militar de Electromecânica, ou geral de electricidade, quando completado com o curso complementar de radiotécnico, ou de entre mecânico electricista de 1.ª classe, com, pelo menos, três anos de bom e efectivo serviço;\n\nm) Terceiro-oficial, de entre indivíduos com o curso geral dos liceus ou habilitações equivalentes e escriturários-dactilógrafos e telefonistas com o ciclo preparatório, com, pelo menos, seis anos de bom e efectivo serviço na categoria;\n\nn) Mecânico electricista de 1.ª, de entre mecânicos electricistas de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\no) Mecânico auto, de entre indivíduos com categoria profissional e de entre motoristas com, pelo menos, três anos de bom e efectivo serviço na categoria e conhecimentos adequados de mecânica;\n\np) Escriturários-dactilógrafos e telefonistas, de entre indivíduos habilitados com o ciclo preparatório ou habilitações equivalentes;\n\nq) Motoristas, de entre indivíduos habilitados com a escolaridade obrigatória e carta de condução passada há mais de cinco anos;\n\nr) Mecânico electricista de 2.ª, de entre indivíduos com habilitações profissionais adequadas;\n\ns) Contínuos, de entre indivíduos com escolaridade obrigatória.\n\n2. Os escriturários-dactilógrafos e telefonistas que ingressem na categoria de terceiro-oficial sem a habilitação do curso geral dos liceus ou equiparado não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem as mesmas habilitações.\n\n3. O ingresso na categoria de técnico auxiliar de 3.ª classe será precedido de um estágio remunerado, que obedecerá a normas a estabelecer pela comissão de gestão e a aprovar pelo Ministro da Defesa Nacional.\n\n4. Os funcionários da carreira de pessoal administrativo e técnico até à letra L, inclusive, e com, pelo menos, seis meses na categoria podem transitar, a seu pedido e mediante parecer favorável da comissão de gestão, de uma para outra carreira, para lugar de igual categoria, excepto os terceiros-oficiais, que poderão apenas transitar para técnicos auxiliares de 3.ª\n\n5. Os funcionários da carreira de pessoal administrativo, para transitarem para a carreira de pessoal técnico, nos termos do número anterior, deverão frequentar, com aproveitamento, o estágio referido em 3.\n\n6. Os montadores de telecomunicações de 1.ª poderão transitar para a carreira de pessoal técnico, na categoria de técnico auxiliar de 1.ª classe, desde que possuam seis meses na categoria, habilitações equivalentes à dos técnicos auxiliares de 3.ª classe, incluindo o estágio, e ainda o parecer favorável da comissão de gestão."
+  },
+  "917146775": {
+   "fragment_id": "917146720",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. A nomeação para lugares de ingresso no quadro de pessoal do SNA, sem prejuízo do disposto no n.º 1 do artigo 40.º, que não seja de pessoal dirigente, obedecerá a normas a estabelecer pela comissão de gestão e a aprovar pelo Ministro da Defesa Nacional.\n\n2. Para efeito de avaliação de conhecimentos e graduação dos candidatos, a comissão de gestão nomeará um júri com um presidente, dois vogais e um secretário, este sem direito a voto.\n\n3. O júri poderá propor à comissão de gestão a colaboração de entidades estranhas ao SNA."
+  },
+  "917146776": {
+   "fragment_id": "917146721",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. Para a preparação, aperfeiçoamento e selecção do pessoal do SNA, com categoria igual ou inferior à letra J, podem ser organizados cursos de aperfeiçoamento profissional destinados a dar aos funcionários conhecimentos relativos às matérias da sua especialidade ou com vista à sua qualificação, para efeitos de promoção.\n\n2. A comissão de gestão estabelecerá as condições de admissão, o programa dos cursos e a valorização a atribuir à classificação obtida a adicionar a um coeficiente a atribuir à antiguidade na categoria anterior, para efeitos de promoção.\n\n3. Os cursos podem ser ministrados por indivíduos estranhos ao SNA, com especial competência sobre as matérias a versar, podendo ser-lhes atribuída uma remuneração por despacho do Ministro da Defesa Nacional.\n\n4. Os cursos podem ser realizados em outro departamento estatal ou estabelecimento oficial, mediante acordo aprovado pelo Ministro da Defesa Nacional.\n\n5. Na falta da realização de cursos previstos no n.º 1, as promoções são feitas considerando a antiguidade e as condições exigidas no artigo 27.º"
+  },
+  "917146777": {
+   "fragment_id": "917146722",
+   "type": 1,
+   "heading": "Capítulo IV — Da gestão financeira e património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Da gestão financeira e património"
+  },
+  "917146778": {
+   "fragment_id": "917146723",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nA gestão financeira e patrimonial do SNA obedecerá aos princípios gerais de administração financeira dos serviços dotados de autonomia administrativa e financeira."
+  },
+  "917146779": {
+   "fragment_id": "917146724",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\n1. São receitas do SNA:\n\na) 1% dos prémios ou contribuições relativos a seguros dos ramos de vida, acidentes de trabalho, automóvel e responsabilidade civil e acidentes pessoais cobrados;\n\nb) Doações, heranças ou legados;\n\nc) Reembolsos de comparticipações e despesas realizadas por conta de outrem no âmbito das suas atribuições;\n\nd) A contribuição que vier a ser fixada com a Federação das Caixas de Previdência e Abono de Família;\n\ne) Outras receitas que lhe forem consignadas.\n\n2. As entidades seguradoras devem cobrar a percentagem prevista na alínea a) conjuntamente com o prémio ou contribuição, sendo responsáveis pela cobrança perante o SNA.\n\n3. No decurso do segundo mês a seguir àquele em que se efectuou a cobrança, as entidades seguradoras devem depositar, sem qualquer dedução, o total mensal em conta especial na Caixa Geral de Depósitos, Crédito e Previdência à ordem do SNA.\n\n4. Nos dez dias seguintes ao termo do prazo previsto no número anterior, as entidades seguradoras enviarão ao SNA duplicado da guia de depósito e uma relação das cobranças efectuadas por ramos de actividade.\n\n5. O Ministério das Finanças, pelo organismo competente, comunicará ao SNA, até 31 de Março e 30 de Setembro de cada ano, em relação aos semestres imediatamente anteriores, findos em 31 de Dezembro e 30 de Junho, as importâncias cobradas a título de prémio ou contribuição relativamente aos ramos de seguro previstos na alínea a) do n.º 1, com referência à entidade seguradora, mês e ramo de actividade."
+  },
+  "917146780": {
+   "fragment_id": "917146725",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\n1. Constituem encargos do SNA todas as despesas decorrentes do funcionamento dos seus serviços e de execução, exploração, conservação e ampliação dos empreendimentos ou serviços a seu cargo.\n\n2. São ainda encargos do SNA as despesas relativas a:\n\na) Aquisição e cedência de ambulâncias e do respectivo equipamento, a título gratuito ou com reembolso parcial, a entidades que prossigam os fins do SNA;\n\nb) Comparticipação na compra e na manutenção do material de socorrismo, a adquirir por tais entidades;\n\nc) Atribuição de subsídios e de prémios relacionados com acções de socorrismo e com a preparação de pessoal para o efeito;\n\nd) Contratos com entidades nacionais ou estrangeiras para a realização de estudos, pareceres ou projectos necessários à prossecução das suas atribuições."
+  },
+  "917146781": {
+   "fragment_id": "917146726",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. O saldo de gerência de cada ano transita para o ano económico seguinte.\n\n2. Até ao dia 30 de Novembro de cada ano deve ser apresentado aos Ministros da Defesa Nacional e das Finanças, para aprovação, o orçamento respeitante ao ano seguinte.\n\n3. As alterações ao orçamento realizar-se-ão por orçamentos suplementares sujeitos à aprovação dos Ministros da Defesa Nacional e das Finanças.\n\n4. O SNA apresentará ao Ministro da Defesa Nacional, até 30 de Abril de cada ano, o relatório de actividades e as contas de gerência relativos ao ano anterior, para serem submetidos, no prazo legal, a julgamento do Tribunal de Contas."
+  },
+  "917146782": {
+   "fragment_id": "917146727",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. Todas as receitas do SNA são depositadas à sua ordem na Caixa Geral de Depósitos, Crédito e Previdência.\n\n2. O movimento da conta é feito por meio de cheques assinados conjuntamente pelo presidente da comissão de gestão, pelo director dos Serviços Administrativo-Financeiros e pelo tesoureiro.\n\n3. No caso de impedimento de qualquer destas entidades, deve assinar o cheque o seu substituto legal com a indicação desta qualidade."
+  },
+  "917146783": {
+   "fragment_id": "917146728",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\n1. Para ocorrer a encargos com despesas correntes inadiáveis haverá um fundo permanente, a constituir por despacho do Ministro da Defesa Nacional e a administrar pelo presidente da comissão de gestão do SNA.\n\n2. Os pagamentos das despesas superiores a 5000$00 e as referentes às remunerações do pessoal serão feitos por meio de cheque ou ordem de pagamento."
+  },
+  "917146784": {
+   "fragment_id": "917146729",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. É obrigatório proceder a balanço da tesouraria:\n\na) Por balancetes mensais; e\n\nb) Por balancetes em 14 de Fevereiro e em 31 de Dezembro de cada ano.\n\n2. Os balancetes obrigatórios previstos no número anterior são sempre apresentados à comissão de gestão, na primeira reunião que se lhes seguir.\n\n3. Proceder-se-á a balancete extraordinário sempre que for determinado pelo presidente da comissão de gestão, ou pela comissão de gestão."
+  },
+  "917146785": {
+   "fragment_id": "917146730",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. São responsáveis pela gestão financeira e patrimonial, perante a Fazenda Nacional:\n\na) A comissão de gestão, relativamente às despesas por si autorizadas;\n\nb) O presidente da comissão de gestão e o director dos Serviços Administrativo-Financeiros;\n\nc) O tesoureiro ou, quando substituído, o seu substituto.\n\n2. O tesoureiro e o seu substituto, antes de entrarem em exercício de funções, devem prestar caução nos termos previstos para os tesoureiros e restantes exactores da Fazenda Nacional.\n\n3. O tesoureiro do SNA, ou quem o substitua durante o período de substituição, tem direito a abono para falhas."
+  },
+  "917146786": {
+   "fragment_id": "917146731",
+   "type": 1,
+   "heading": "Capítulo V — Das disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Das disposições finais e transitórias"
+  },
+  "917146787": {
+   "fragment_id": "917146732",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nOs membros dos órgãos do SNA e o seu pessoal terão direito a cartão de identidade próprio, de modelo a fixar."
+  },
+  "917146788": {
+   "fragment_id": "917146733",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. O SNA celebrará acordos com os serviços sociais de outro ou outros organismos estaduais a fim de o seu pessoal usufruir dos respectivos benefícios.\n\n2. Na impossibilidade de celebração de acordos com os serviços sociais de outro organismo estadual, podem ser celebrados acordos com empresas idóneas ou entidades que possam proporcionar regalias sociais, sujeitos à aprovação do Ministro da Defesa Nacional.\n\n3. Os acordos podem ser celebrados em conjunto com outras entidades.\n\n4. As modalidades de auxílio e assistência económica, social e cultural a prestar aos funcionários do SNA devem ser previamente aprovadas pelo Ministro da Defesa Nacional."
+  },
+  "917146789": {
+   "fragment_id": "917146734",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1. O primeiro provimento dos lugares previstos nos quadros iniciais do SNA será feito por escolha do Ministro da Defesa Nacional.\n\n2. O pessoal civil, actualmente apresentado no Ministério da Defesa Nacional, em serviço no SNA, cedido por outros Ministérios, pode ser provido, a seu requerimento, sem interrupção de funções, em lugares das suas categorias actuais ou equivalentes às desempenhadas à data da sua transferência dos quadros donde é oriundo, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.\n\n3. O pessoal actualmente em regime de prestação de serviço no SNA será provido, independentemente de concurso e limite máximo de idade, em lugares equivalentes do quadro, desde que preencha as condições de nomeação constantes do presente diploma.\n\n4. Para os efeitos dos n.os 2 e 3, o presidente da comissão técnica e executiva elaborará uma relação nominal do pessoal com a indicação dos cargos e categorias do quadro de origem e a sua correspondência em lugares do quadro, destinada a ser presente ao Ministro da Defesa Nacional, após a aprovação pelo Conselho Coordenador.\n\n5. Ao pessoal a transferir para o SNA, nos termos dos n.os 2 e 3, será contado, para todos os efeitos legais, o tempo de serviço anteriormente prestado, qualquer que tenha sido a sua situação, incluindo o tempo na categoria, quando esta seja igual ou equivalente.\n\n6. Poderá ser proposto pelo presidente da comissão técnica e executiva o provimento definitivo nas categorias para as quais transitar o pessoal a que se refere o n.º 2, quando tenha provimento definitivo no quadro de origem."
+  },
+  "917146790": {
+   "fragment_id": "917146735",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1. Aos funcionários do SNA nomeados, contratados ou assalariados, que sejam incumbidos de especiais tarefas, implicando a prestação de trabalho para além do horário normal, pode ser atribuído um complemento de ordenado, nos termos da legislação em vigor.\n\n2. Para os lugares de direcção e chefia e de funções especializadas pode ser atribuído um complemento de ordenado.\n\n3. O pessoal militar, na situação de reserva, em serviço no SNA e quando não opte pelo vencimento correspondente ao cargo que desempenha, terá direito a um complemento de ordenado equivalente à diferença entre a pensão de reserva e o soldo do seu posto, no activo.\n\n4. O montante do complemento de ordenado referido em 1, 2 e 3 deve ser proposto pelo presidente da comissão de gestão, ouvida a comissão de gestão, e aprovado pelo Ministro da Defesa Nacional, após parecer do Ministro das Finanças."
+  },
+  "917146791": {
+   "fragment_id": "917146736",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. O Comando-Geral da Polícia de Segurança Pública, a partir da data de entrada em vigor do presente diploma, deixará de funcionar como órgão administrativo do Conselho Coordenador, nos termos estabelecidos no artigo 3.º do Decreto-Lei n.º 447/74, de 13 de Setembro, passando tais funções a ser exercidas pelos serviços competentes do SNA.\n\n2. Transitoriamente e enquanto não for nomeado o presidente da comissão de gestão do SNA, a competência que lhe é atribuída nos termos do artigo 14.º é exercida pelo presidente da comissão técnica e executiva, a que se refere o n.º 4 deste artigo, que se mantém em funções.\n\n3. O Conselho Coordenador manter-se-á em funcionamento, com a composição constante do n.º 1 do artigo 4.º do Decreto-Lei n.º 447/74, mas com a competência referida no n.º 1 do artigo 5.º deste diploma, enquanto não forem designados o presidente, o vice-presidente e os representantes das entidades indicadas no n.º 1 do artigo 4.º\n\n4. É extinta a comissão técnica e executiva criada pelo n.º 3 do artigo 2.º do Decreto-Lei n.º 447/74, de 13 de Setembro."
+  },
+  "917146792": {
+   "fragment_id": "917146737",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nAs dúvidas que surgirem na interpretação do presente decreto serão resolvidas por despacho do Ministro da Defesa Nacional e do Ministro das Finanças, quando envolvam aumento de encargos."
+  },
+  "917146793": {
+   "fragment_id": "917146738",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nO presente diploma entra imediatamente em vigor."
+  },
+  "917146795": {
+   "fragment_id": "917146740",
+   "type": 11,
+   "heading": "Artigo 3.º — Dos órgãos e serviços do SNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dos órgãos e serviços do SNA\n\n1. O SNA compreende órgãos e serviços.\n\n2. São órgãos do SNA o Conselho Coordenador e a comissão de gestão.\n\n3. São serviços do SNA os serviços centrais, organizados de acordo com os grandes sectores da sua actividade, e os regionais, onde e quando se justifiquem."
+  },
+  "917146841": {
+   "fragment_id": "917146719",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1975-09-10",
+   "changed_by": [
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 77/1976, 2º Suplemento, Série I de 1976-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-281824), em vigor a partir de 1975-09-10",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 34/1976, 2º Suplemento, Série I de 1976-02-10](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-183176), em vigor a partir de 1975-09-10"
+   ],
+   "markdown": "###### Artigo 27.º\n\n1. Por despacho do Ministro da Defesa Nacional, mediante proposta do presidente da comissão de gestão, ouvida a comissão de gestão, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:\n\na) Técnicos de 1.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções, devendo um ser engenheiro electrotécnico e de preferência entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe se nas condições anteriores; ou de entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nb) Técnicos de 2.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre técnicos auxiliares principais ou adjunto do chefe de secretaria, se nas condições anteriores; ou de técnicos auxiliares principais ou adjunto do chefe de secretaria, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nc) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre o adjunto do chefe de secretaria nas condições anteriores ou, quando não diplomado, com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nd) Chefe de contabilidade e tesoureiro de 1.ª, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais, adequados ao exercício das respectivas funções, ou de entre contabilistas de 1.ª ou tesoureiros de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ne) Técnicos auxiliares principais, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe, de entre indivíduos diplomados com o curso superior adequado ou pelos institutos comerciais e industriais ou com qualificação profissional resultante da frequência do estágio especializado previsto no n.º 3 deste artigo ou de entre, respectivamente, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe e técnicos auxiliares de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;\n\nf) Adjunto do chefe de secretaria, primeiros e segundos-oficiais, de entre diplomados com curso superior adequado ou pelos institutos comerciais para os lugares de adjunto do chefe de secretaria ou de entre, respectivamente, primeiros, segundos e terceiros-oficiais, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ng) Contabilistas de 1.ª classe e tesoureiro de 2.ª classe, de entre os contabilistas de 2.ª classe, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nh) Montador de telecomunicações de 1.ª e 2.ª classes, de entre, respectivamente, montadores de 2.ª e 3.ª classes, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ni) Desenhador de 2.ª classe, de entre indivíduos habilitados com os cursos adequados das escolas técnicas ou habilitações equivalentes;\n\nj) Técnicos auxiliares de 3.ª classe, de entre indivíduos com o curso geral dos liceus ou equiparado, depois da frequência do estágio referido no n.º 3 deste artigo;\n\nk) Contabilistas de 2.ª classe, de entre indivíduos habilitados com o curso geral do comércio, curso geral dos liceus ou habilitações equivalentes;\n\nl) Montadores de telecomunicações de 3.ª classe, de entre indivíduos habilitados com os cursos de radiomontador, incluindo o ministrado na Escola Militar de Electromecânica, ou geral de electricidade, quando completado com o curso complementar de radiotécnico, ou de entre mecânico electricista de 1.ª classe, com, pelo menos, três anos de bom e efectivo serviço;\n\nm) Terceiro-oficial, de entre indivíduos com o curso geral dos liceus ou habilitações equivalentes e escriturários-dactilógrafos e telefonistas com o ciclo preparatório, com, pelo menos, seis anos de bom e efectivo serviço na categoria;\n\nn) Mecânico electricista de 1.ª, de entre mecânicos electricistas de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\no) Mecânico auto, de entre indivíduos com categoria profissional e de entre motoristas com, pelo menos, três anos de bom e efectivo serviço na categoria e conhecimentos adequados de mecânica;\n\np) Escriturários-dactilógrafos e telefonistas, de entre indivíduos habilitados com o ciclo preparatório ou habilitações equivalentes;\n\nq) Motoristas, de entre indivíduos habilitados com a escolaridade obrigatória e carta de condução passada há mais de cinco anos;\n\nr) Mecânico electricista de 2.ª, de entre indivíduos com habilitações profissionais adequadas;\n\ns) Contínuos, de entre indivíduos com escolaridade obrigatória.\n\n2. Os escriturários-dactilógrafos e telefonistas que ingressem na categoria de terceiro-oficial sem a habilitação do curso geral dos liceus ou equiparado não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem as mesmas habilitações.\n\n3. O ingresso nas categorias de técnico auxiliar de 1.ª, 2.ª e 3.ª classes será precedido de um estágio remunerado, que obedecerá a normas a estabelecer pela comissão de gestão e a aprovar pelo Ministro da Defesa Nacional.\n\n4. Os funcionários da carreira de pessoal administrativo e técnico até à letra L, inclusive, e com, pelo menos, seis meses na categoria podem transitar, a seu pedido e mediante parecer favorável da comissão de gestão, de uma para outra carreira, para lugar de igual categoria, excepto os terceiros-oficiais, que poderão apenas transitar para técnicos auxiliares de 3.ª\n\n5. Os funcionários da carreira de pessoal administrativo, para transitarem para a carreira de pessoal técnico, nos termos do número anterior, deverão frequentar, com aproveitamento, o estágio referido em 3.\n\n6. Os montadores de telecomunicações de 1.ª poderão transitar para a carreira de pessoal técnico, na categoria de técnico auxiliar de 1.ª classe, desde que possuam seis meses na categoria, habilitações equivalentes à dos técnicos auxiliares de 3.ª classe, incluindo o estágio, e ainda o parecer favorável da comissão de gestão.\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 77/1976, 2º Suplemento, Série I de 1976-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-281824), em vigor a partir de 1975-09-10\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 34/1976, 2º Suplemento, Série I de 1976-02-10](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-183176), em vigor a partir de 1975-09-10"
+  },
+  "917146846": {
+   "fragment_id": "917146734",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1977-08-10",
+   "changed_by": [
+    "Alterado pelo/a [Decreto Regulamentar n.º 48/77 - Diário da República n.º 180/1977, Série I de 1977-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1977-255458), em vigor a partir de 1977-08-10"
+   ],
+   "markdown": "###### Artigo 40.º\n\n1. O primeiro provimento dos lugares previstos nos quadros iniciais do SNA será feito por escolha do Ministro da Defesa Nacional.\n\n2. O pessoal civil, actualmente apresentado no Ministério da Defesa Nacional, em serviço no SNA, cedido por outros Ministérios, pode ser provido, a seu requerimento, sem interrupção de funções, em lugares das suas categorias actuais ou equivalentes às desempenhadas à data da sua transferência dos quadros donde é oriundo, independentemente de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.\n\n3. O pessoal que nesta data se encontra ao serviço do SNA em regime de prestação de serviços será provido nos lugares do respectivo quadro por despacho do Ministro da Defesa Nacional, independentemente de quaisquer outras condições e formalidades, salvo as respeitantes às habilitações legais e o visto do Tribunal de Contas e publicação no Diário da República.\n\n4. Para os efeitos dos n.ºs 2 e 3, o presidente da comissão técnica e executiva elaborará uma relação nominal do pessoal com a indicação dos cargos e categorias do quadro de origem e a sua correspondência em lugares do quadro, destinada a ser presente ao Ministro da Defesa Nacional, após a aprovação pelo Conselho Coordenador.\n\n5. Ao pessoal a transferir para o SNA, nos termos dos n.ºs 2 e 3, será contado, para todos os efeitos legais, o tempo de serviço anteriormente prestado, qualquer que tenha sido a sua situação, incluindo o tempo na categoria, quando esta seja igual ou equivalente.\n\n6. Poderá ser proposto pelo presidente da comissão técnica e executiva o provimento definitivo nas categorias para as quais transitar o pessoal a que se refere o n.º 2, quando tenha provimento definitivo no quadro de origem.\n\n> Alterado pelo/a [Decreto Regulamentar n.º 48/77 - Diário da República n.º 180/1977, Série I de 1977-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/48-1977-255458), em vigor a partir de 1977-08-10"
+  },
+  "917146794": {
+   "fragment_id": "917146739",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Vasco dos Santos Gonçalves - Silvano Ribeiro - Mário Luís da Silva Murteira - José Joaquim Fragoso.\n\nPromulgado em 10 de Setembro de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "917146812": {
+   "fragment_id": "917198813",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal do SNA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Quadro de pessoal do SNA\n\n(ver documento original)\n\nO Ministro da Defesa Nacional, Silvano Ribeiro."
+  },
+  "917584315": {
+   "fragment_id": "917146719",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1979-02-14",
+   "changed_by": [
+    "Alterado pelo/a [Decreto n.º 14/79 - Diário da República n.º 34/1979, Série I de 1979-02-09](https://diariodarepublica.pt/dr/detalhe/decreto/14-1979-393224), em vigor a partir de 1979-02-14",
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 77/1976, 2º Suplemento, Série I de 1976-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-281824), em vigor a partir de 1975-09-10",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 34/1976, 2º Suplemento, Série I de 1976-02-10](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-183176), em vigor a partir de 1975-09-10"
+   ],
+   "markdown": "###### Artigo 27.º\n\n1. Por despacho do Ministro da Defesa Nacional, mediante proposta do presidente da comissão de gestão, ouvida a comissão de gestão, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:\n\na) Técnicos de 1.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções, devendo um ser engenheiro electrotécnico e de preferência entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe se nas condições anteriores; ou de entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nb) Técnicos de 2.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre técnicos auxiliares principais ou adjunto do chefe de secretaria, se nas condições anteriores; ou de técnicos auxiliares principais ou adjunto do chefe de secretaria, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nc) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre o adjunto do chefe de secretaria nas condições anteriores ou, quando não diplomado, com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nd) Chefe de contabilidade e tesoureiro de 1.ª, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais, adequados ao exercício das respectivas funções, ou de entre contabilistas de 1.ª ou tesoureiros de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ne) Técnicos auxiliares principais, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe, de entre indivíduos diplomados com o curso superior adequado ou pelos institutos comerciais e industriais ou com qualificação profissional resultante da frequência do estágio especializado previsto no n.º 3 deste artigo ou de entre, respectivamente, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe e técnicos auxiliares de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;\n\nf) Adjunto do chefe de secretaria, primeiros e segundos-oficiais, de entre diplomados com curso superior adequado ou pelos institutos comerciais para os lugares de adjunto do chefe de secretaria ou de entre, respectivamente, primeiros, segundos e terceiros-oficiais, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ng) Contabilistas de 1.ª classe e tesoureiro de 2.ª classe, de entre os contabilistas de 2.ª classe, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nh) Montador de telecomunicações de 1.ª e 2.ª classes, de entre, respectivamente, montadores de 2.ª e 3.ª classes, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ni) Desenhador de 2.ª classe, de entre indivíduos habilitados com os cursos adequados das escolas técnicas ou habilitações equivalentes;\n\nj) Técnicos auxiliares de 3.ª classe, de entre indivíduos com o curso geral dos liceus ou equiparado, depois da frequência do estágio referido no n.º 3 deste artigo;\n\nk) Contabilistas de 2.ª classe, de entre indivíduos habilitados com o curso geral do comércio, curso geral dos liceus ou habilitações equivalentes;\n\nl) Montadores de telecomunicações de 3.ª classe, de entre indivíduos habilitados com os cursos de radiomontador, incluindo o ministrado na Escola Militar de Electromecânica, ou geral de electricidade, quando completado com o curso complementar de radiotécnico, ou de entre mecânico electricista de 1.ª classe, com, pelo menos, três anos de bom e efectivo serviço;\n\nm) Terceiro-oficial, de entre indivíduos que possuam a habilitação do curso geral dos liceus ou equiparado e escriturários-dactilógrafos do respectivo quadro desde que tenham pelo menos três anos de bom e efectivo serviço nessa categoria;\n\nn) Mecânico electricista de 1.ª, de entre mecânicos electricistas de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\no) Mecânico auto, de entre indivíduos com categoria profissional e de entre motoristas com, pelo menos, três anos de bom e efectivo serviço na categoria e conhecimentos adequados de mecânica;\n\np) Escriturários-dactilógrafos e telefonistas, de entre indivíduos habilitados com o ciclo preparatório ou habilitações equivalentes;\n\nq) Motoristas, de entre indivíduos habilitados com a escolaridade obrigatória e carta de condução passada há mais de cinco anos;\n\nr) Mecânico electricista de 2.ª, de entre indivíduos com habilitações profissionais adequadas;\n\ns) Contínuos, de entre indivíduos com escolaridade obrigatória.\n\n2. Os escriturários-dactilógrafos e telefonistas que ingressem na categoria de terceiro-oficial sem a habilitação do curso geral dos liceus ou equiparado não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem as mesmas habilitações.\n\n3. O ingresso nas categorias de técnico auxiliar de 1.ª, 2.ª e 3.ª classes será precedido de um estágio remunerado, que obedecerá a normas a estabelecer pela comissão de gestão e a aprovar pelo Ministro da Defesa Nacional.\n\n4. Os funcionários da carreira de pessoal administrativo e técnico até à letra L, inclusive, e com, pelo menos, seis meses na categoria podem transitar, a seu pedido e mediante parecer favorável da comissão de gestão, de uma para outra carreira, para lugar de igual categoria, excepto os terceiros-oficiais, que poderão apenas transitar para técnicos auxiliares de 3.ª\n\n5. Os funcionários da carreira de pessoal administrativo, para transitarem para a carreira de pessoal técnico, nos termos do número anterior, deverão frequentar, com aproveitamento, o estágio referido em 3.\n\n6. Os montadores de telecomunicações de 1.ª poderão transitar para a carreira de pessoal técnico, na categoria de técnico auxiliar de 1.ª classe, desde que possuam seis meses na categoria, habilitações equivalentes à dos técnicos auxiliares de 3.ª classe, incluindo o estágio, e ainda o parecer favorável da comissão de gestão.\n\n> Alterado pelo/a [Decreto n.º 14/79 - Diário da República n.º 34/1979, Série I de 1979-02-09](https://diariodarepublica.pt/dr/detalhe/decreto/14-1979-393224), em vigor a partir de 1979-02-14\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 77/1976, 2º Suplemento, Série I de 1976-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-281824), em vigor a partir de 1975-09-10\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 34/1976, 2º Suplemento, Série I de 1976-02-10](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-183176), em vigor a partir de 1975-09-10"
+  },
+  "917584329": {
+   "fragment_id": "917146719",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1980-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto n.º 85/80 - Diário da República n.º 217/1980, Série I de 1980-09-19](https://diariodarepublica.pt/dr/detalhe/decreto/85-1980-460777), em vigor a partir de 1980-09-24",
+    "Alterado pelo/a [Decreto n.º 14/79 - Diário da República n.º 34/1979, Série I de 1979-02-09](https://diariodarepublica.pt/dr/detalhe/decreto/14-1979-393224), em vigor a partir de 1979-02-14",
+    "Retificado pelo/a [Declaração - Diário do Governo n.º 77/1976, 2º Suplemento, Série I de 1976-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-281824), em vigor a partir de 1975-09-10",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 34/1976, 2º Suplemento, Série I de 1976-02-10](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-183176), em vigor a partir de 1975-09-10"
+   ],
+   "markdown": "###### Artigo 27.º\n\n1. Por despacho do Ministro da Defesa Nacional, mediante proposta do presidente da comissão de gestão, ouvida a comissão de gestão, serão providos os restantes lugares do quadro, de harmonia com as condições seguintes:\n\na) Técnicos de 1.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções, devendo um ser engenheiro electrotécnico e de preferência entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe se nas condições anteriores; ou de entre técnicos de 2.ª classe, chefe de secretaria, chefe de contabilidade ou tesoureiro de 1.ª classe, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nb) Técnicos de 2.ª classe, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções e de preferência entre técnicos auxiliares principais ou adjunto do chefe de secretaria, se nas condições anteriores; ou de técnicos auxiliares principais ou adjunto do chefe de secretaria, se não diplomados, mas com, pelo menos, cinco anos de bom e efectivo serviço na categoria e reconhecidas condições para o desempenho das funções;\n\nc) Chefe de secretaria, de entre indivíduos diplomados com curso superior adequado ao exercício das respectivas funções ou de entre primeiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria;\n\nd) Chefe de contabilidade e tesoureiro de 1.ª, de entre indivíduos diplomados com curso superior ou pelos institutos comerciais, adequados ao exercício das respectivas funções, ou de entre contabilistas de 1.ª ou tesoureiros de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ne) Técnicos auxiliares principais, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe, de entre indivíduos diplomados com o curso superior adequado ou pelos institutos comerciais e industriais ou com qualificação profissional resultante da frequência do estágio especializado previsto no n.º 3 deste artigo ou de entre, respectivamente, técnicos auxiliares de 1.ª classe, técnicos auxiliares de 2.ª classe e técnicos auxiliares de 3.ª classe com, pelo menos, três anos de bom e efectivo serviço na categoria e as habilitações referidas neste diploma;\n\nf) Primeiros-oficiais e segundos-oficiais, de entre, respectivamente, segundos-oficiais e terceiros-oficiais com pelo menos três anos de bom e efectivo serviço na categoria;\n\ng) Contabilistas de 1.ª classe e tesoureiro de 2.ª classe, de entre os contabilistas de 2.ª classe, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\nh) Montador de telecomunicações de 1.ª e 2.ª classes, de entre, respectivamente, montadores de 2.ª e 3.ª classes, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\ni) Desenhador de 2.ª classe, de entre indivíduos habilitados com os cursos adequados das escolas técnicas ou habilitações equivalentes;\n\nj) Técnicos auxiliares de 3.ª classe, de entre indivíduos com o curso geral dos liceus ou equiparado, depois da frequência do estágio referido no n.º 3 deste artigo;\n\nk) Contabilistas de 2.ª classe, de entre indivíduos habilitados com o curso geral do comércio, curso geral dos liceus ou habilitações equivalentes;\n\nl) Montadores de telecomunicações de 3.ª classe, de entre indivíduos habilitados com os cursos de radiomontador, incluindo o ministrado na Escola Militar de Electromecânica, ou geral de electricidade, quando completado com o curso complementar de radiotécnico, ou de entre mecânico electricista de 1.ª classe, com, pelo menos, três anos de bom e efectivo serviço;\n\nm) Terceiro-oficial, de entre indivíduos que possuam a habilitação do curso geral dos liceus ou equiparado e escriturários-dactilógrafos do respectivo quadro desde que tenham pelo menos três anos de bom e efectivo serviço nessa categoria;\n\nn) Mecânico electricista de 1.ª, de entre mecânicos electricistas de 2.ª, com, pelo menos, três anos de bom e efectivo serviço na categoria;\n\no) Mecânico auto, de entre indivíduos com categoria profissional e de entre motoristas com, pelo menos, três anos de bom e efectivo serviço na categoria e conhecimentos adequados de mecânica;\n\np) Escriturários-dactilógrafos e telefonistas, de entre indivíduos habilitados com o ciclo preparatório ou habilitações equivalentes;\n\nq) Motoristas, de entre indivíduos habilitados com a escolaridade obrigatória e carta de condução passada há mais de cinco anos;\n\nr) Mecânico electricista de 2.ª, de entre indivíduos com habilitações profissionais adequadas;\n\ns) Contínuos, de entre indivíduos com escolaridade obrigatória.\n\n2. Os escriturários-dactilógrafos e telefonistas que ingressem na categoria de terceiro-oficial sem a habilitação do curso geral dos liceus ou equiparado não poderão ascender a categoria superior à de segundo-oficial enquanto não possuírem as mesmas habilitações.\n\n3. O ingresso nas categorias de técnico auxiliar de 1.ª, 2.ª e 3.ª classes será precedido de um estágio remunerado, que obedecerá a normas a estabelecer pela comissão de gestão e a aprovar pelo Ministro da Defesa Nacional.\n\n4. Os funcionários da carreira de pessoal administrativo e técnico até à letra L, inclusive, e com, pelo menos, seis meses na categoria podem transitar, a seu pedido e mediante parecer favorável da comissão de gestão, de uma para outra carreira, para lugar de igual categoria, excepto os terceiros-oficiais, que poderão apenas transitar para técnicos auxiliares de 3.ª\n\n5. Os funcionários da carreira de pessoal administrativo, para transitarem para a carreira de pessoal técnico, nos termos do número anterior, deverão frequentar, com aproveitamento, o estágio referido em 3.\n\n6. Os montadores de telecomunicações de 1.ª poderão transitar para a carreira de pessoal técnico, na categoria de técnico auxiliar de 1.ª classe, desde que possuam seis meses na categoria, habilitações equivalentes à dos técnicos auxiliares de 3.ª classe, incluindo o estágio, e ainda o parecer favorável da comissão de gestão.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto n.º 85/80 - Diário da República n.º 217/1980, Série I de 1980-09-19](https://diariodarepublica.pt/dr/detalhe/decreto/85-1980-460777), em vigor a partir de 1980-09-24\n\n> Alterado pelo/a [Decreto n.º 14/79 - Diário da República n.º 34/1979, Série I de 1979-02-09](https://diariodarepublica.pt/dr/detalhe/decreto/14-1979-393224), em vigor a partir de 1979-02-14\n\n> Retificado pelo/a [Declaração - Diário do Governo n.º 77/1976, 2º Suplemento, Série I de 1976-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao/1976-281824), em vigor a partir de 1975-09-10\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 34/1976, 2º Suplemento, Série I de 1976-02-10](https://diariodarepublica.pt/dr/detalhe/rectificacao/1976-183176), em vigor a partir de 1975-09-10"
+  },
+  "919377102": {
+   "fragment_id": "917198813",
+   "type": 14,
+   "heading": "Anexo — Quadro de pessoal do SNA",
+   "in_force_from": "1981-06-30",
+   "changed_by": [
+    "Alterado pelo/a [Portaria n.º 509/81 - Diário da República n.º 143/1981, Série I de 1981-06-25](https://diariodarepublica.pt/dr/detalhe/portaria/509-1981-578369), em vigor a partir de 1981-06-30"
+   ],
+   "markdown": "## Anexo — Quadro de pessoal do SNA\n\n(ver documento original)\n\nO Ministro da Defesa Nacional, Silvano Ribeiro.\n\n> Nota: [1.º, Portaria n.º 529/81 - Diário da República n.º 146/1981, Série I de 1981-06-29](https://diariodarepublica.pt/dr/detalhe/portaria/529-1981-578517) 1. São criados, a partir de 1 de Novembro de 1980, 3 lugares de tesoureiro principal, de 1.ª classe e de 2.ª classe, a que correspondem, respectivamente, as letras H, I e J. 2. Consideram-se extintos, a partir da mesma data, 1 lugar de tesoureiro de 1.ª classe, com a letra H, e 2 lugares de tesoureiro de 2.ª classe, com a letra L.\n\n> Nota: [Artigo 1.º, Decreto n.º 85/80 - Diário da República n.º 217/1980, Série I de 1980-09-19](https://diariodarepublica.pt/dr/detalhe/decreto/85-1980-460777) 1. É extinto o lugar de adjunto de chefe de secretaria que consta do quadro de pessoal, aprovado em anexo ao presente diploma. 2. É criado no mesmo quadro mais um lugar de primeiro-oficial.\n\n> Alterado pelo/a [Portaria n.º 509/81 - Diário da República n.º 143/1981, Série I de 1981-06-25](https://diariodarepublica.pt/dr/detalhe/portaria/509-1981-578369), em vigor a partir de 1981-06-30"
+  }
+ }
+}

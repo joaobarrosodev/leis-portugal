@@ -1,0 +1,681 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73943939:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-117128629",
+ "dre_path": "/dr/detalhe/portaria/50-2016-73943939",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-03-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117127763",
+    "117127764",
+    "117127765",
+    "117127767",
+    "117127768",
+    "117127769",
+    "117127770",
+    "117127771",
+    "117127772",
+    "117127773",
+    "117127774",
+    "117138975",
+    "117138976",
+    "117138977",
+    "117138978",
+    "117138979",
+    "117138980",
+    "117138981",
+    "117138982",
+    "117138983",
+    "117138984",
+    "117138985",
+    "117138986",
+    "117138987",
+    "117138988",
+    "117138989",
+    "117138990",
+    "117138991",
+    "117138992"
+   ]
+  },
+  {
+   "date": "2016-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:75099114:por",
+     "title": "Portaria n.º 214/2016",
+     "published": "2016-08-04",
+     "dre_path": "/dr/detalhe/portaria/214-2016-75099114"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "117127763",
+    "117127764",
+    "117127765",
+    "117127766",
+    "117127767",
+    "117127768",
+    "117127769",
+    "117127770",
+    "117138997",
+    "117127772",
+    "117138998",
+    "117127774",
+    "117138975",
+    "117138976",
+    "117138977",
+    "117138978",
+    "117138979",
+    "117138980",
+    "117138981",
+    "117138982",
+    "117138983",
+    "117138984",
+    "117138985",
+    "117138986",
+    "117138987",
+    "117138988",
+    "117138989",
+    "117138990",
+    "117138991",
+    "117138992"
+   ]
+  },
+  {
+   "date": "2018-11-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117128626:por",
+     "title": "Portaria n.º 305/2018",
+     "published": "2018-11-27",
+     "dre_path": "/dr/detalhe/portaria/305-2018-117128626"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "117127763",
+    "117127764",
+    "117127765",
+    "117127766",
+    "117127767",
+    "117127768",
+    "117127769",
+    "117127770",
+    "117138997",
+    "117127772",
+    "117138998",
+    "117139003",
+    "117138975",
+    "117138976",
+    "117138977",
+    "117138978",
+    "117138979",
+    "117138980",
+    "117138981",
+    "117138982",
+    "117138983",
+    "117138984",
+    "117138985",
+    "117138986",
+    "117138987",
+    "117138988",
+    "117138989",
+    "117138990",
+    "117138991",
+    "117138992"
+   ]
+  },
+  {
+   "date": "2019-12-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:126774995:por",
+     "title": "Portaria n.º 400/2019",
+     "published": "2019-12-02",
+     "dre_path": "/dr/detalhe/portaria/400-2019-126774995"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "117127763",
+    "117127764",
+    "117127765",
+    "117127766",
+    "117127767",
+    "117127768",
+    "117127769",
+    "117127770",
+    "126814708",
+    "117127772",
+    "117138998",
+    "117139003",
+    "126814709",
+    "117138976",
+    "117138977",
+    "117138978",
+    "117138979",
+    "117138980",
+    "117138981",
+    "117138982",
+    "126814710",
+    "117138984",
+    "117138985",
+    "117138986",
+    "117138987",
+    "117138988",
+    "117138989",
+    "117138990",
+    "117138991",
+    "117138992"
+   ]
+  },
+  {
+   "date": "2020-04-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:130954770:por",
+     "title": "Portaria n.º 82-B/2020",
+     "published": "2020-03-31",
+     "dre_path": "/dr/detalhe/portaria/82-b-2020-130954770"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 23.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "117127763",
+    "117127764",
+    "117127765",
+    "117127766",
+    "117127767",
+    "117127768",
+    "117127769",
+    "117127770",
+    "131003072",
+    "117127772",
+    "117138998",
+    "117139003",
+    "126814709",
+    "117138976",
+    "117138977",
+    "117138978",
+    "117138979",
+    "117138980",
+    "117138981",
+    "117138982",
+    "126814710",
+    "117138984",
+    "117138985",
+    "117138986",
+    "117138987",
+    "117138988",
+    "117138989",
+    "131003073",
+    "117138990",
+    "117138991",
+    "117138992"
+   ]
+  },
+  {
+   "date": "2021-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:169945280:por",
+     "title": "Portaria n.º 176/2021",
+     "published": "2021-08-20",
+     "dre_path": "/dr/detalhe/portaria/176-2021-169945280"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "117127763",
+    "117127764",
+    "117127765",
+    "117127766",
+    "117127767",
+    "117127768",
+    "117127769",
+    "117127770",
+    "131003072",
+    "117127772",
+    "117138998",
+    "117139003",
+    "169953681",
+    "117138976",
+    "117138977",
+    "117138978",
+    "117138979",
+    "117138980",
+    "117138981",
+    "117138982",
+    "126814710",
+    "117138984",
+    "117138985",
+    "117138986",
+    "117138987",
+    "117138988",
+    "117138989",
+    "131003073",
+    "117138990",
+    "117138991",
+    "117138992"
+   ]
+  },
+  {
+   "date": "2022-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:180474165:por",
+     "title": "Portaria n.º 114/2022",
+     "published": "2022-03-15",
+     "dre_path": "/dr/detalhe/portaria/114-2022-180474165"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "117127763",
+    "117127764",
+    "117127765",
+    "117127766",
+    "117127767",
+    "117127768",
+    "117127769",
+    "117127770",
+    "131003072",
+    "117127772",
+    "117138998",
+    "117139003",
+    "169953681",
+    "117138976",
+    "117138977",
+    "117138978",
+    "117138979",
+    "117138980",
+    "117138981",
+    "117138982",
+    "126814710",
+    "117138984",
+    "117138985",
+    "180532614",
+    "117138987",
+    "117138988",
+    "117138989",
+    "131003073",
+    "117138990",
+    "117138991",
+    "117138992"
+   ]
+  }
+ ],
+ "fragments": {
+  "117127763": {
+   "fragment_id": "117128630",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 50/2016\n\nde 23 de março\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP), determinou que a estruturação operacional deste fundo é composta por um programa operacional (PO) de âmbito nacional, designado Mar 2020.\n\nO Mar 2020, aprovado formalmente pela Comissão Europeia através da Decisão de Execução C (2015) 8642, de 30 de novembro de 2015, contempla uma visão estratégica para o desenvolvimento sustentável da aquicultura portuguesa, enquadrada na Prioridade da União Europeia a que alude o n.º 2 do artigo 6.º do Regulamento (UE) n.º 508/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014.\n\nA materialização daquela Prioridade conta com a possibilidade de cofinanciamento, no âmbito dos artigos 47.º, 48.º e 49.º do citado regulamento, de operações nos domínios da inovação, aconselhamento e investimentos produtivos que visem o desenvolvimento sustentável da aquicultura, permitindo aos Estados membros a adoção de regimes de apoio mediante a aprovação da competente regulamentação específica.\n\nO Decreto-Lei n.º 159/2014, de 27 de outubro, que estabelece as regras gerais de aplicação dos programas operacionais financiados pelos FEEI, veio prever sob a alínea d) do n.º 1 do artigo 4.º e a alínea b) do n.º 2 do artigo 5.º, respetivamente, que o regime jurídico dos FEEI é também integrado pela regulamentação específica dos programas operacionais e que, no caso do FEAMP, a mesma é aprovada por portaria do membro do Governo responsável pela área do mar.\n\nAssim:\n\nManda o Governo, pela Ministra do Mar, ao abrigo do disposto na alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, o seguinte:"
+  },
+  "117127764": {
+   "fragment_id": "117128631",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria aprova o Regulamento do Regime de Apoio ao Desenvolvimento Sustentável da Aquicultura, nos Domínios da Inovação, do Aconselhamento e dos Investimentos Produtivos, ao abrigo da Prioridade da União Europeia estabelecida no n.º 2 do artigo 6.º do Regulamento (UE) n.º 508/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativo ao Fundo Europeu dos Assuntos Marítimos e das Pescas, e com enquadramento nas medidas previstas nos artigos 47.º, 48.º e 49.º do mesmo diploma, em anexo à presente portaria, que dela faz parte integrante."
+  },
+  "117127765": {
+   "fragment_id": "117128632",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "117127767": {
+   "fragment_id": "117128634",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nREGULAMENTO DO REGIME DE APOIO AO DESENVOLVIMENTO SUSTENTÁVEL DA AQUICULTURA, NOS DOMÍNIOS DA INOVAÇÃO, DO ACONSELHAMENTO E DOS INVESTIMENTOS PRODUTIVOS."
+  },
+  "117127768": {
+   "fragment_id": "117128635",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente Regulamento estabelece o Regime de Apoio ao Desenvolvimento Sustentável da Aquicultura nos Domínios da Inovação, do Aconselhamento e dos Investimentos Produtivos do Programa Operacional (PO) Mar 2020, para Portugal Continental."
+  },
+  "117127769": {
+   "fragment_id": "117128636",
+   "type": 11,
+   "heading": "Artigo 2.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objetivos\n\n1 - No âmbito da inovação e dos serviços de gestão, de substituição e de aconselhamento, os apoios previstos no presente Regulamento têm como finalidade potenciar, ao nível das empresas aquícolas, o desenvolvimento tecnológico, a inovação, a redução do impacte da atividade no ambiente e a transferência de conhecimentos tendo em vista melhorar as respetivas competências, desempenho e competitividade.\n\n2 - No âmbito dos investimentos produtivos, os apoios previstos no presente Regulamento têm como finalidade promover o aumento da competitividade e da viabilidade das empresas aquícolas, incluindo a melhoria das condições de segurança e de trabalho, em particular das pequenas e médias empresas (PME), bem como incentivar a proteção e restauração da biodiversidade aquática, a melhoria dos ecossistemas ligados à aquicultura e o aumento da eficiência em termos de recursos."
+  },
+  "117127770": {
+   "fragment_id": "117128637",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente Regulamento e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Empresa» qualquer pessoa singular ou coletiva que, independentemente da sua forma jurídica, exerce uma atividade económica;\n\nb) «Empresas aquícolas» as empresas que detenham um dos seguintes códigos de atividade económica:\n\ni) Divisão 03, Grupo 032, Classe 0321, subclasse 03210, Aquicultura em águas salgadas e salobras;\n\nii) Divisão 03, Grupo 032, Classe 0322, subclasse 03220, Aquicultura em águas doces;\n\nc) «Empresas com atividade em estabelecimentos conexos» as empresas que exercem a sua atividade através de centros de depuração e ou centros de expedição de moluscos bivalves vivos ou depósitos, devidamente licenciados e aprovados, com o seguinte código de atividade económica:\n\ni) Divisão 46, Grupo 463, Classe 4638, subclasse 46381, Comércio por grosso de peixe, crustáceos e moluscos;\n\nd) «Micro, pequenas e médias empresas (PME)» as definidas como tal na Recomendação n.º 2003/361/CE, de 6 de maio de 2003."
+  },
+  "117127771": {
+   "fragment_id": "117128638",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\n1 - No âmbito da inovação são suscetíveis de apoio as operações destinadas à aquisição de conhecimentos técnicos, científicos ou organizacionais que visem o desenvolvimento sustentável da aquicultura, nomeadamente nos seguintes domínios:\n\na) Redução do impacte da atividade no ambiente;\n\nb) Redução da dependência do consumo de farinha e óleo de peixe;\n\nc) Melhoria do bem-estar animal ou novos métodos de produção sustentáveis;\n\nd) Promoção de uma utilização sustentável dos recursos;\n\ne) Criação ou introdução no mercado de novas espécies aquícolas com um bom potencial de mercado;\n\nf) Introdução de produtos novos ou substancialmente melhorados;\n\ng) Introdução de processos novos ou melhorados;\n\nh) Criação de sistemas de gestão e organização novos ou melhorados;\n\ni) Realização de estudos de viabilidade técnica ou económica de produtos ou processos inovadores.\n\n2 - No âmbito dos serviços de gestão, de substituição e de aconselhamento às explorações aquícolas, são suscetíveis de apoio as operações que visem:\n\na) A criação de serviços de gestão, de substituição e de aconselhamento;\n\nb) A aquisição de serviços de aconselhamento de caráter técnico, científico, jurídico, ambiental ou económico, designadamente ao nível:\n\ni) Das necessidades de gestão que permitam cumprir a legislação ambiental nacional e da União Europeia, bem como as exigências em matéria de ordenamento do espaço marítimo;\n\nii) Da avaliação de impacte ambiental referida na Diretiva n.º 2001/42/CE, do Parlamento Europeu e do Conselho, de 27 de junho de 2001, e na Diretiva n.º 92/43/CEE, do Conselho, de 21 de maio de 1992, transpostas para a ordem jurídica nacional;\n\niii) Das necessidades de gestão que permitam cumprir a legislação nacional e da União Europeia relativa à saúde e ao bem-estar dos animais aquáticos ou à saúde pública;\n\niv) Das normas de saúde e de segurança previstas na legislação nacional e da União Europeia;\n\nv) Das estratégias de comercialização e empresariais.\n\n3 - No âmbito dos investimentos produtivos são suscetíveis de apoio as seguintes operações:\n\na) Investimentos produtivos na aquicultura, nomeadamente a construção de novas unidades de produção aquícola ou de estabelecimentos conexos, a construção ou modernização de unidades de acondicionamento e embalagem, quando integradas em estabelecimentos aquícolas, e a instalação ou melhoramento de zonas de transposição de moluscos bivalves vivos;\n\nb) Diversificação da produção aquícola e das espécies cultivadas;\n\nc) Modernização de unidades de produção aquícola ou estabelecimentos conexos, incluindo a melhoria das condições de trabalho e de segurança dos trabalhadores aquícolas e a construção e modernização de embarcações de apoio à atividade;\n\nd) Melhoria e modernização relacionadas com a saúde e o bem-estar dos animais, incluindo a aquisição de equipamentos destinados a proteger as explorações contra os predadores selvagens;\n\ne) A diversificação do rendimento das empresas aquícolas através do desenvolvimento de atividades complementares relacionadas com as atividades comerciais aquícolas de base como sejam o turismo de pesca, os serviços ambientais ou as atividades pedagógicas ligados à aquicultura;\n\nf) Melhoria da qualidade dos produtos por aplicação de técnicas de maneio adequadas e introdução de novas tecnologias;\n\ng) Introdução de sistemas ou de processos que reduzam substancialmente o impacto negativo, reforcem os efeitos positivos sobre o ambiente ou aumentem a eficiência em termos de recursos, em comparação com as práticas habituais do sector;\n\nh) Instalação de sistemas que contribuam para a melhoria da eficiência energética ou promovam a conversão das empresas aquícolas para fontes de energia renováveis;\n\ni) Requalificação de lagos naturais ou artificiais utilizados para a aquicultura, através da remoção do limo e sedimentos, ou investimentos destinados a impedir o depósito do limo e sedimentos;\n\nj) Investimentos em sistemas aquícolas fechados em que os produtos aquícolas sejam explorados em sistemas de recirculação fechados, minimizando assim a utilização de água;\n\nk) Investimentos que reduzam substancialmente o impacto das empresas aquícolas na utilização e na qualidade da água, especialmente reduzindo a quantidade de água, de produtos químicos, de antibióticos e de outros medicamentos utilizados ou melhorando a qualidade da água de saída, inclusive através da utilização de sistemas aquícolas multitróficos ou de decantação."
+  },
+  "117127772": {
+   "fragment_id": "117128639",
+   "type": 11,
+   "heading": "Artigo 5.º — Elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Elegibilidade das operações\n\n1 - Podem beneficiar de apoios ao abrigo do presente Regulamento as operações que:\n\na) Não estejam materialmente concluídas ou totalmente executadas à data de apresentação da candidatura, independentemente de todos os pagamentos correspondentes terem sido efetuados pelo beneficiário;\n\nb) Estejam localizadas na zona do PO;\n\nc) Visem os objetivos previstos no artigo 2.º e se enquadrem numa das tipologias elencadas no artigo anterior;\n\nd) Enquadrando-se no domínio dos investimentos produtivos, prevejam um investimento elegível de valor igual ou superior a (euro) 5000.\n\n2 - Não é concedido apoio a operações que:\n\na) Consistam em investimentos em equipamentos ou infraestruturas destinados a garantir o cumprimento de exigências do direito da União Europeia relacionadas com o ambiente, a saúde humana ou animal, a higiene ou o bem-estar dos animais, a partir do momento em que essas exigências se tornem obrigatórias para as empresas;\n\nb) Envolvam a cultura de organismos geneticamente modificados;\n\nc) Localizando-se em áreas marinhas protegidas, tenham um impacte ambiental negativo importante que não possa ser adequadamente atenuado, determinado pelas autoridades competentes com base numa avaliação de impacte ambiental."
+  },
+  "117127773": {
+   "fragment_id": "117128640",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipologia de beneficiários\n\n1 - No âmbito da inovação, podem apresentar candidaturas ao presente Regulamento:\n\na) Os organismos científicos ou técnicos, públicos ou privados reconhecidos pelo Estado, ou em colaboração com esses organismos;\n\nb) As entidades referidas no n.º 3, desde que a operação preveja uma parceria com os organismos a que se refere a alínea anterior.\n\n2 - No âmbito dos serviços de gestão, de substituição e de aconselhamento às explorações aquícolas, podem apresentar candidaturas ao presente Regulamento:\n\na) Quando se trate de operações enquadráveis na alínea a) do n.º 2 do artigo 4.º, os organismos de direito público ou outras entidades que venham a ser selecionados para criar os serviços de aconselhamento às explorações;\n\nb) Quando se trate de operações enquadráveis na alínea b) do n.º 2 do artigo 4.º, PME do sector aquícola ou organizações do sector aquícola, incluindo organizações de produtores e associações.\n\n3 - No âmbito dos investimentos produtivos, podem apresentar candidaturas ao presente regime pessoas singulares ou coletivas de direito privado cuja atividade se enquadre num dos códigos de atividade económica previstos nas alíneas b) e c) do artigo 3.º"
+  },
+  "117127774": {
+   "fragment_id": "117128641",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos beneficiários\n\n1 - Sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, apenas são elegíveis os beneficiários que demonstrem deter capacidade económica e financeira equilibrada, de acordo com o anexo i do presente Regulamento, do qual faz parte integrante, exceto nos casos em que essa apreciação não é exigida, nos termos do artigo 13.º\n\n2 - Adicionalmente ao disposto no número anterior, apenas são elegíveis os beneficiários que:\n\na) Detenham autorização de instalação, no caso de construção de novos estabelecimentos;\n\nb) Detenham licença de exploração, no caso de modernização de estabelecimentos existentes;\n\nc) Detenham autorização para a alteração do estabelecimento, nos casos aplicáveis;\n\nd) Comprovem a propriedade do terreno e ou das instalações ou o direito ao seu uso, nos casos aplicáveis;\n\ne) Demonstrem, mediante relatório de comercialização independente, a existência de boas perspetivas de mercado sustentáveis para o produto;\n\nf) Sendo empresas aquícolas em início de atividade, apresentem plano empresarial e, quando o investimento seja superior a (euro) 50 000, um estudo de viabilidade, incluindo uma avaliação ambiental da operação realizada por entidade habilitada para o efeito."
+  },
+  "117138975": {
+   "fragment_id": "117128642",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a atividade apoiada:\n\na) No caso de operações enquadráveis no n.º 1 do artigo 4.º:\n\ni) Trabalhos ou equipamentos imprescindíveis à execução da operação, bem como as amortizações de bens corpóreos já detidos pelo beneficiário, correspondentes ao período de afetação desses bens à operação, com exceção dos que já tenham sido objeto de apoio público;\n\nii) De exploração diretamente ligadas à operação, incluindo despesas com pessoal, nomeadamente remunerações e encargos sociais obrigatórios;\n\niii) Relativas a trabalhos científicos ligados à preparação, acompanhamento e avaliação da operação;\n\niv) Com formação, formadores e pessoal de apoio e de preparação, execução e avaliação indispensáveis às ações de formação, com os limites previstos na Portaria n.º 60-A/2015, de 2 de março;\n\nv) Relativas à divulgação dos resultados da operação;\n\nvi) Fiscalização de obras, desde que efetuada por uma entidade externa à responsável pela realização dos trabalhos;\n\nvii) Custos associados às garantias exigidas pela autoridade de gestão no âmbito da execução da operação, auditorias, prémios de seguro referentes exclusivamente à cobertura de riscos relativos à realização da operação, estudos e projetos técnicos, até ao limite de 8 % das restantes despesas elegíveis;\n\nb) No caso de operações enquadráveis na alínea a) do n.º 2 do artigo 4.º, encargos incorridos na criação de serviços de gestão, substituição e aconselhamento, incluindo despesas com pessoal e respetivos encargos sociais obrigatórios, aquisições de serviços, deslocações, materiais e consumíveis indispensáveis à sua execução;\n\nc) No caso de operações enquadráveis na alínea b) do n.º 2 do artigo 4.º, encargos com aquisição de serviços de aconselhamento às explorações de caráter técnico, científico, jurídico, ambiental ou económico, incluindo despesas de constituição do processo individual de aconselhamento;\n\nd) No caso de operações enquadráveis no n.º 3 do artigo 4.º:\n\ni) Construção, modernização ou adaptação de edifícios ou de instalações;\n\nii) Aquisição de edifícios ou instalações, exceto no que diz respeito ao valor correspondente ao terreno;\n\niii) Vedações, meios e sistemas de segurança e proteção, incluindo os que visam os predadores selvagens;\n\niv) Preparação de terrenos;\n\nv) Aquisição e instalação de máquinas e equipamentos;\n\nvi) Aquisição de equipamentos e meios de movimentação interna;\n\nvii) Aquisição de contentores específicos para o transporte de juvenis;\n\nviii) Aquisição de equipamentos e sistemas informáticos e telemáticos;\n\nix) Trabalhos de adaptação ou melhoramento da circulação hidráulica;\n\nx) Aquisição de sistemas de automatização;\n\nxi) Aquisição e instalação de equipamentos necessários à produção e distribuição de energia;\n\nxii) Aquisição de sistemas e equipamentos que visem a recolha, armazenagem e tratamento de resíduos sólidos e efluentes líquidos, incluindo a construção de estações de pré-tratamento de águas residuais industriais ou estações de tratamento de águas residuais;\n\nxiii) Instalações para vigilante desde que localizadas dentro da área de implantação do estabelecimento e não exceda um custo total de (euro) 40 000, nem de (euro) 500/m2;\n\nxiv) Aquisição ou adaptação de embarcações de serviço específicas para a atividade aquícola;\n\nxv) Aquisição de veículos aprovados e certificados nos termos do Acordo Internacional de Transporte de Produtos Perecíveis sob Temperatura Dirigida para transporte de produtos da aquicultura em estado refrigerado;\n\nxvi) Auditorias, estudos e projetos técnico-económicos de assinalamento marítimo ou de avaliação ambiental;\n\nxvii) Fiscalização de obras desde que realizada por entidade externa ao construtor;\n\nxviii) Custos associados às garantias exigidas pela autoridade de gestão no âmbito da execução do projeto;\n\nxix) Planos que visem a implementação de sistemas de segurança alimentar, controlo de qualidade e certificação de acordo com a legislação em vigor;\n\nxx) Despesas com formação profissional diretamente relacionadas com os objetivos da operação, desde que estejam de acordo com as regras e limites definidos no artigo 50.º do Regulamento (UE) n.º 508/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e na Portaria n.º 60-A/2015, de 2 de março;\n\nxxi) Construção de estruturas e aquisição e instalação de equipamentos diretamente relacionados com a diversificação do rendimento das empresas aquícolas no caso de operações enquadráveis na alínea c) do n.º 3 do artigo 4.º\n\n2 - O montante da despesa elegível prevista na subalínea xv) da alínea c) do número anterior não pode ultrapassar 20 % das despesas elegíveis previstas nas subalíneas i) a xiv) da alínea c) do número anterior.\n\n3 - O montante da despesa elegível prevista nas subalíneas xvi), xvii) e xviii) da alínea c) do n.º 1 não pode ultrapassar 8 % das despesas elegíveis previstas nas subalíneas i) a xiv) da alínea c) do n.º 1.\n\n4 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são consideradas não elegíveis:\n\na) No âmbito de operações enquadradas no n.º 1 do artigo 4.º, as seguintes despesas:\n\ni) Com aquisição de telemóveis, material e mobiliário de escritório, bem como as relacionadas com equipamento para áreas não inseridas no âmbito da operação aprovada;\n\nii) Que visem dar cumprimento a exigências decorrentes de normas europeias após a data em que as mesmas se tornaram obrigatórias;\n\nb) No âmbito de operações enquadradas no n.º 3 do artigo 4.º, as seguintes despesas:\n\ni) Com a aquisição de telemóveis, material e mobiliário de escritório e sistemas ou equipamentos afetos a áreas não produtivas;\n\nii) Em meios de transporte externos ao estabelecimento, exceto os referidos na subalínea xv) da alínea c) do n.º 1;\n\niii) Encargos de funcionamento;\n\niv) Com bens cuja amortização a legislação fiscal permita que seja efetuada num único ano;\n\nv) Com a aquisição de ovos, larvas, juvenis, ou progenitores;\n\nvi) De pré-financiamento, constituição de processo de empréstimo e de fundos de maneio;\n\nvii) Que visem o cumprimento de normas europeias em vigor, após a data em que as mesmas se tornem obrigatórias, com a exceção da instalação ou ampliação de estabelecimentos.\n\n5 - Sem prejuízo do disposto dos números anteriores, podem ser consideradas elegíveis outras despesas desde que imprescindíveis à realização dos objetivos subjacentes à operação e aprovadas pelo gestor."
+  },
+  "117138976": {
+   "fragment_id": "117128643",
+   "type": 11,
+   "heading": "Artigo 9.º — Taxas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Taxas de apoio\n\n1 - A taxa de apoio público para os projetos apresentados ao abrigo do presente regime é de 50 % das despesas elegíveis da operação, sem prejuízo do disposto nos números seguintes.\n\n2 - A taxa de apoio público prevista no número anterior é elevada para:\n\na) 60 % no caso de a operação ser executada por beneficiário coletivo, previsto na alínea b) do n.º 2 do artigo 6.º, sem prejuízo do disposto na alínea seguinte;\n\nb) 75 % no caso de a operação ser executada por uma organização de produtores;\n\nc) 100 % no caso de:\n\ni) O beneficiário ser um organismo de direito público;\n\nii) A operação ser de interesse coletivo, ser executada por beneficiário coletivo previsto na alínea b) do n.º 2 do artigo 6.º e possuir características inovadoras, nomeadamente a nível local.\n\n3 - No caso de a operação ser executada por empresas não abrangidas pela definição de PME, a taxa de apoio público é de 30 %."
+  },
+  "117138977": {
+   "fragment_id": "117128644",
+   "type": 11,
+   "heading": "Artigo 10.º — Natureza e montante dos apoios públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Natureza e montante dos apoios públicos\n\n1 - Os apoios públicos previstos no presente regime revestem a forma de subvenção não reembolsável.\n\n2 - O limite máximo dos apoios públicos é de (euro) 6 500 000 por operação."
+  },
+  "117138978": {
+   "fragment_id": "117128645",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação das candidaturas\n\n1 - São estabelecidos períodos para apresentação de candidaturas, de acordo com o plano de abertura de candidaturas previsto na alínea b) do n.º 1 do artigo 33.º do Decreto-Lei n.º 137/2014, de 12 de setembro, sendo o mesmo divulgado no portal do Portugal 2020, em www.portugal2020.pt, e no portal do Mar 2020, em www.mar2020.pt, e publicitado em dois órgãos de comunicação social.\n\n2 - A apresentação das candidaturas efetua-se nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, através da submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, ou no portal do Mar 2020, em www.mar2020.pt, e estão sujeitos a confirmação eletrónica, a efetuar pela autoridade de gestão, considerando-se a data de submissão como a data de apresentação da candidatura.\n\n3 - O regime-regra previsto nos números precedentes não prejudica a possibilidade de os anúncios a que alude o artigo seguinte fixarem forma diversa de apresentação de candidaturas quando tal se justifique."
+  },
+  "117138979": {
+   "fragment_id": "117128646",
+   "type": 11,
+   "heading": "Artigo 12.º — Anúncios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Anúncios\n\n1 - Os anúncios dos períodos de apresentação das candidaturas são aprovados pelo gestor e podem, sem prejuízo do disposto no presente Regulamento, prever, nomeadamente, o seguinte:\n\na) Os objetivos e as prioridades visadas;\n\nb) A tipologia das atividades a apoiar;\n\nc) A dotação orçamental a atribuir;\n\nd) O número máximo de candidaturas admitidas por beneficiário;\n\ne) Os critérios de seleção e os respetivos fatores, fórmulas, ponderação e critério de desempate, em função dos objetivos e prioridades fixados, bem como a pontuação mínima para seleção;\n\nf) A forma, o nível e os limites dos apoios a conceder, respeitando o disposto no artigo 10.º\n\n2 - Os anúncios dos períodos de apresentação das candidaturas são divulgados no portal do Portugal 2020, em www.portugal2020.pt e no portal do Mar 2020, em www.mar2020.pt, e publicitados em dois órgãos de comunicação social."
+  },
+  "117138980": {
+   "fragment_id": "117128647",
+   "type": 11,
+   "heading": "Artigo 13.º — Seleção das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Seleção das candidaturas\n\n1 - Para efeitos de concessão de apoio financeiro, as candidaturas enquadráveis nos n.os 1 e 2 do artigo 4.º são selecionadas e ordenadas de acordo com as seguintes regras:\n\na) Em função do valor da pontuação final (PF) resultante da aplicação da seguinte fórmula:\n\nPF = 0,5 AT + 0,5 AE\n\nb) A forma de cálculo das pontuações da AT (apreciação técnica) e da AE (apreciação estratégica) é definida no anexo ii do presente Regulamento, do qual faz parte integrante.\n\n2 - Para efeitos de concessão de apoio financeiro, as candidaturas enquadráveis no n.º 3 do artigo 4.º são selecionadas e ordenadas de acordo com as seguintes regras:\n\na) Em função do valor da pontuação final (PF) resultante da aplicação da seguinte fórmula:\n\nPF = 0,3 AT + 0,3 VE + 0,4 AE\n\nb) A forma de cálculo das pontuações da AT (apreciação técnica), da VE (apreciação económico-financeira) e da AE (apreciação estratégica) é definida no anexo ii do presente Regulamento;\n\nc) A apreciação económica e financeira não é exigível quando se trate de candidaturas cujo investimento elegível seja inferior a (euro) 100 000, caso em que a PF é a resultante da seguinte fórmula:\n\nPF = 0,5 AT + 0,5 AE\n\n3 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos em qualquer das valências previstas nos números anteriores.\n\n4 - A AE não é exigível com um investimento elegível inferior a (euro) 25 000, caso em que a PF é resultante da seguinte fórmula:\n\nPF = AT\n\n5 - As candidaturas selecionadas de acordo com o disposto nos números anteriores são separadas por tipologia de operação e hierarquizadas para efeitos de decisão, atentos os eventuais limites dos apoios a conceder fixados no anúncio de abertura.\n\n6 - As candidaturas são hierarquizadas por ordem de pontuação e, em caso de igualdade pontual, por ordem de entrada, prevalecendo as que tenham sido primeiramente apresentadas."
+  },
+  "117138981": {
+   "fragment_id": "117128648",
+   "type": 11,
+   "heading": "Artigo 14.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Análise e decisão das candidaturas\n\n1 - As Direções Regionais de Agricultura e Pescas e a Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos, no âmbito das suas competências enquanto organismos intermédios do Mar 2020, analisam e emitem parecer sobre as candidaturas.\n\n2 - Sem prejuízo do disposto no n.º 3 do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são solicitados aos candidatos, quando se justifique, os documentos exigidos no formulário de candidatura ou elementos complementares, constituindo a falta de entrega dos mesmos ou a ausência de resposta no prazo fixado para o efeito fundamento para o seu indeferimento.\n\n3 - O parecer referido no n.º 1 é emitido e remetido à autoridade de gestão num prazo máximo de 40 dias úteis a contar da data-limite para a apresentação das candidaturas.\n\n4 - O secretariado técnico aprecia os pareceres emitidos sobre as candidaturas com vista a assegurar que as mesmas são selecionadas em conformidade com as regras e critérios aplicáveis ao Mar 2020 e submete-as ao gestor com proposta de decisão final.\n\n5 - A comissão de gestão emite parecer sobre as propostas de decisão relativas às candidaturas a financiamento.\n\n6 - A decisão das operações que prevejam um investimento elegível igual ou superior a (euro) 2 500 000 compete ao membro do Governo responsável pela área do mar.\n\n7 - Antes de ser emitida a decisão final, o secretariado técnico procede à audiência de interessados, nos termos do Código do Procedimento Administrativo, quanto à eventual intenção de indeferimento total ou parcial e respetivos fundamentos.\n\n8 - Sem prejuízo do disposto no n.º 4 do artigo 20.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as candidaturas são objeto de decisão no prazo de 60 dias úteis contados a partir da data-limite para a respetiva apresentação, sendo a mesma comunicada aos candidatos pela autoridade de gestão, no prazo máximo de cinco dias úteis a contar da data da sua emissão.\n\n9 - A decisão de aprovação, total ou parcial, das candidaturas é igualmente comunicada pela autoridade de gestão ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), no prazo máximo de cinco dias úteis a contar da data da sua emissão."
+  },
+  "117138982": {
+   "fragment_id": "117128649",
+   "type": 11,
+   "heading": "Artigo 15.º — Termo de aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Termo de aceitação\n\n1 - A aceitação do apoio pelo beneficiário nos termos e condições definidos na decisão da sua atribuição é efetuada mediante submissão eletrónica e autenticação de termo de aceitação, nos termos do artigo 11.º do Decreto-Lei n.º 159/2014, de 27 de outubro, de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n2 - O beneficiário dispõe de 30 dias úteis para a submissão eletrónica do termo de aceitação, sob pena de caducidade da decisão de aprovação da candidatura, nos termos do disposto no n.º 2 do artigo 21.º do Decreto-Lei n.º 159/2014, de 27 de outubro, salvo motivo justificado não imputável ao beneficiário e aceite pelo gestor."
+  },
+  "117138983": {
+   "fragment_id": "117128650",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, I. P., após apresentação pelo beneficiário do pedido e dos respetivos documentos de suporte, da forma e nos termos previstos nos números seguintes.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n4 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação.\n\n5 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições previstas na decisão de aprovação.\n\n6 - Podem ser apresentados até quatro pedidos de pagamento por candidatura aprovada, não sendo contabilizado o pedido de pagamento a título de adiantamento a que alude o artigo seguinte.\n\n7 - O gestor pode, na decisão de aprovação da candidatura, fixar metas intercalares de execução material e financeira e os inerentes prazos para a apresentação dos pedidos de pagamento, bem como fixar o montante da última prestação do apoio concedido."
+  },
+  "117138984": {
+   "fragment_id": "117128651",
+   "type": 11,
+   "heading": "Artigo 17.º — Adiantamento dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Adiantamento dos apoios\n\n1 - O beneficiário pode solicitar ao IFAP, I. P., a concessão de um adiantamento até 50 % do valor do apoio, após submissão do termo de aceitação a que alude o artigo 15.º\n\n2 - Os adiantamentos apenas são concedidos mediante a prévia constituição de garantia a favor do IFAP, I. P., nos termos e condições definidas por este instituto.\n\n3 - A concessão e o montante dos adiantamentos a que se refere o número anterior ficam limitados às disponibilidades financeiras do Mar 2020.\n\n4 - A concessão de um adiantamento não obsta ao pagamento dos apoios ao abrigo do disposto no artigo anterior, contanto que os pagamentos efetuados a título de adiantamento e de reembolso, no seu conjunto, não excedam a totalidade da ajuda pública atribuída ao beneficiário."
+  },
+  "117138985": {
+   "fragment_id": "117128652",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações dos beneficiários\n\n1 - Sem prejuízo das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, constituem obrigações dos beneficiários:\n\na) Iniciar a execução das operações até 90 dias a contar da data da submissão do termo de aceitação e concluir essa execução até três anos a contar da mesma data, sem prejuízo da elegibilidade temporal prevista no n.º 2 do artigo 65.º do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013;\n\nb) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação da operação;\n\nc) Aplicar integralmente os apoios na realização da operação aprovada, com vista à execução dos objetivos que justificaram a sua atribuição;\n\nd) Assegurar as demais componentes do financiamento, cumprindo pontualmente as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objetivos subjacentes à atribuição dos apoios;\n\ne) Manter integralmente os requisitos da atribuição dos apoios, designadamente os objetivos da operação, não alterando nem modificando a mesma sem prévia autorização do gestor do Mar 2020;\n\nf) Comprovar, até à data de apresentação do último pedido de pagamento, que detêm uma situação financeira equilibrada, de acordo com o anexo iii do presente Regulamento, do qual faz parte integrante, exceto nos casos em que essa apreciação não é exigida, nos termos do artigo 13.º;\n\ng) Cumprir as metas de execução, financeira e material, que vierem a ser definidas na decisão de aprovação da candidatura, bem como os prazos definidos para apresentação dos pedidos de pagamento;\n\nh) Preverem meios que assegurem a divulgação dos resultados alcançados e assegurarem o cumprimento das obrigações legais em matéria de ambiente, sempre que se trate de operações enquadráveis no n.º 1 do artigo 4.º\n\n2 - Excecionalmente, pode ser aceite a prorrogação dos prazos de início e conclusão da execução da operação, previstos na alínea a) do número anterior, desde que a sua necessidade seja justificada e se fundamente em razões não imputáveis ao beneficiário."
+  },
+  "117138986": {
+   "fragment_id": "117128653",
+   "type": 11,
+   "heading": "Artigo 19.º — Alterações às operações aprovadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alterações às operações aprovadas\n\nPodem ser admitidas alterações técnicas à operação desde que se mantenha o objetivo do projeto aprovado, seguindo-se o disposto no artigo 22.º, delas não podendo resultar o aumento do apoio público."
+  },
+  "117138987": {
+   "fragment_id": "117128654",
+   "type": 11,
+   "heading": "Artigo 20.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Cobertura orçamental\n\nOs encargos com o pagamento dos apoios públicos previstos neste Regulamento são suportados pelo projeto relativo ao Mar 2020, inscrito no Orçamento do Estado, da responsabilidade do IFAP, I. P."
+  },
+  "117138988": {
+   "fragment_id": "117128655",
+   "type": 11,
+   "heading": "Artigo 21.º — Reduções e exclusões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Reduções e exclusões\n\n1 - Os apoios objeto do presente Regulamento estão sujeitos a reduções e exclusões em harmonia com o disposto no artigo 143.º do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e demais legislação aplicável, designadamente quando ocorra alguma das seguintes situações:\n\na) Incumprimento pelo beneficiário das obrigações decorrentes da decisão de atribuição do apoio, do termo de aceitação, do presente Regulamento ou da legislação nacional e europeia aplicável;\n\nb) Prestação de falsas informações ou informações inexatas ou incompletas, seja sobre factos que serviram de base à apreciação da candidatura, seja sobre a situação da operação ou falsificando documentos fornecidos no âmbito da mesma.\n\n2 - As reduções e exclusões dos apoios são efetuadas nos termos e condições a definir em portaria do membro do Governo responsável pela área do mar.\n\n3 - À recuperação dos montantes indevidamente recebidos aplica-se o disposto no artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no artigo 12.º do Decreto-Lei n.º 195/2012, de 13 de agosto, e na demais legislação aplicável."
+  },
+  "117138989": {
+   "fragment_id": "117128656",
+   "type": 11,
+   "heading": "Artigo 22.º — Extinção ou modificação da operação por iniciativa do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Extinção ou modificação da operação por iniciativa do beneficiário\n\nO beneficiário pode requerer ao gestor:\n\na) A extinção da operação, desde que proceda à restituição das importâncias recebidas;\n\nb) A modificação da operação, desde que proceda à restituição das importâncias recebidas, na medida correspondente à modificação."
+  },
+  "117138990": {
+   "fragment_id": "117128657",
+   "type": 14,
+   "heading": "Anexo I — Critério para avaliação de situação financeira pré-projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Critério para avaliação de situação financeira pré-projeto\n\n1 - Para efeitos do disposto no n.º 1 do artigo 7.º, considera-se existir uma situação financeira equilibrada quando a autonomia financeiro pré e pós-projeto seja igual ou superior a 15 %. A autonomia financeira pré-projeto tem por base o último exercício encerrado à data da apresentação das candidaturas.\n\n2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = CP/AL x 100\n\nem que:\n\nCP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou acionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato;\n\nAL - ativo líquido da empresa.\n\n3 - Relativamente aos beneficiários que, à data de apresentação das candidaturas, não tenham desenvolvido qualquer atividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20 % do custo total do investimento.\n\n4 - Os beneficiários podem comprovar o indicador referido no n.º 1 com informação mais recente, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas."
+  },
+  "117138991": {
+   "fragment_id": "117128658",
+   "type": 14,
+   "heading": "Anexo II — Metodologia para a pontuação final (PF)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Metodologia para a pontuação final (PF)\n\n1 - Apreciação económico-financeira (VE). - A apreciação económico-financeira é pontuada de 0 a 100 pontos de acordo com o estabelecido nas alíneas seguintes:\n\na) A taxa interna de rendibilidade (TIR) do projeto é pontuada de acordo com a seguinte tabela:\n\nTABELA I\n\n(ver documento original)\n\nb) O REFI é a taxa de refinanciamento do Banco Central Europeu em vigor no primeiro dia útil de cada mês correspondente à apresentação ou reformulação da candidatura.\n\n2 - Apreciação técnica (AT). - O cálculo da apreciação técnica é efetuado de acordo com as alíneas seguintes, podendo atingir o máximo de 100 pontos:\n\na) Operações enquadráveis no n.º 1 do artigo 4.º:\n\ni) As operações que possuam características técnicas compatíveis com os respetivos objetivos são pontuadas com 50 pontos de base;\n\nii) À pontuação-base prevista na alínea anterior acrescem as majorações previstas na seguinte tabela:\n\nTABELA II\n\n(ver documento original)\n\nb) Operações enquadráveis no n.º 2 do artigo 4.º:\n\ni) As operações que possuam características técnicas compatíveis com os respetivos objetivos são pontuadas com 50 pontos de base;\n\nii) À pontuação-base prevista na alínea anterior acrescem as majorações previstas na seguinte tabela:\n\nTABELA III\n\n(ver documento original)\n\nc) Operações enquadráveis no n.º 3 do artigo 4.º:\n\ni) As operações que demonstrem ser tecnicamente viáveis são pontuadas com 50 pontos de base;\n\nii) À pontuação-base prevista na alínea anterior acrescem as majorações previstas na tabela IV:\n\nTABELA IV\n\n(ver documento original)\n\n3 - Apreciação estratégica (AE). - A apreciação estratégica é efetuada de acordo com as seguintes alíneas, podendo atingir um máximo de 100 pontos:\n\na) Pontuação relativa à natureza do beneficiário:\n\ni) Micro e pequena empresa - 45 pontos;\n\nii) Média empresa - 40 pontos;\n\niii) Outras empresas - 35 pontos;\n\niv) Entidades de direito público ou de direito privado, reconhecidas pelo Estado - 45 pontos;\n\nv) Organizações do sector aquícola - 40 pontos;\n\nb) À pontuação prevista na alínea anterior acrescem as majorações:\n\ni) Previstas na tabela v, caso se trate de operações enquadráveis no n.º 1 do artigo 4.º;\n\nii) Previsto na tabela vi, caso se trate de operações enquadráveis no n.º 2 do artigo 4.º;\n\niii) Previstas na tabela vii, caso se trate de operações enquadráveis no n.º 3 do artigo 4.º\n\nTABELA V\n\n(ver documento original)\n\nTABELA VI\n\n(ver documento original)\n\nTABELA VII\n\n(ver documento original)"
+  },
+  "117138992": {
+   "fragment_id": "117128659",
+   "type": 14,
+   "heading": "Anexo III — Critério para avaliação de situação financeira pós-projeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Critério para avaliação de situação financeira pós-projeto\n\n1 - Para efeitos do disposto na alínea f) do artigo 18.º, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pós-projeto seja igual ou superior a 15 %. A autonomia financeira pós-projeto tem por base o último exercício encerrado à data de apresentação do último pedido de pagamento.\n\n2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = CP/AL x 100\n\nem que:\n\nCP - capitais próprios da empresa;\n\nAL - ativo líquido da empresa.\n\n3 - Os beneficiários podem comprovar o indicador referido no n.º 1 com informação mais recente, devendo para o efeito apresentar os respetivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas."
+  },
+  "117127766": {
+   "fragment_id": "117128633",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Mar, Ana Paula Mendes Vitorino, em 16 de março de 2016."
+  },
+  "117138997": {
+   "fragment_id": "117128638",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": "2016-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+   ],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\n1 - No âmbito da inovação são suscetíveis de apoio as operações destinadas à aquisição de conhecimentos técnicos, científicos ou organizacionais que visem o desenvolvimento sustentável da aquicultura, nomeadamente nos seguintes domínios:\n\na) Redução do impacte da atividade no ambiente;\n\nb) Redução da dependência do consumo de farinha e óleo de peixe;\n\nc) Melhoria do bem-estar animal ou novos métodos de produção sustentáveis;\n\nd) Promoção de uma utilização sustentável dos recursos;\n\ne) Criação ou introdução no mercado de novas espécies aquícolas com um bom potencial de mercado;\n\nf) Introdução de produtos novos ou substancialmente melhorados;\n\ng) Introdução de processos novos ou melhorados;\n\nh) Criação de sistemas de gestão e organização novos ou melhorados;\n\ni) Realização de estudos de viabilidade técnica ou económica de produtos ou processos inovadores.\n\n2 - No âmbito dos serviços de gestão, de substituição e de aconselhamento às explorações aquícolas, são suscetíveis de apoio as operações que visem:\n\na) A criação de serviços de gestão, de substituição e de aconselhamento;\n\nb) A aquisição de serviços de aconselhamento de caráter técnico, científico, jurídico, ambiental ou económico.\n\n3 - No âmbito dos investimentos produtivos são suscetíveis de apoio as seguintes operações:\n\na) Investimentos produtivos na aquicultura, nomeadamente a construção de novas unidades de produção aquícola ou de estabelecimentos conexos, a construção ou modernização de unidades de acondicionamento e embalagem, quando integradas em estabelecimentos aquícolas, e a instalação ou melhoramento de zonas de transposição de moluscos bivalves vivos;\n\nb) Diversificação da produção aquícola e das espécies cultivadas;\n\nc) Modernização de unidades de produção aquícola ou estabelecimentos conexos, incluindo a melhoria das condições de trabalho e de segurança dos trabalhadores aquícolas e a construção e modernização de embarcações de apoio à atividade;\n\nd) Melhoria e modernização relacionadas com a saúde e o bem-estar dos animais, incluindo a aquisição de equipamentos destinados a proteger as explorações contra os predadores selvagens;\n\ne) A diversificação do rendimento das empresas aquícolas através do desenvolvimento de atividades complementares relacionadas com as atividades comerciais aquícolas de base como sejam o turismo de pesca, os serviços ambientais ou as atividades pedagógicas ligados à aquicultura;\n\nf) Melhoria da qualidade dos produtos por aplicação de técnicas de maneio adequadas e introdução de novas tecnologias;\n\ng) Introdução de sistemas ou de processos que reduzam substancialmente o impacto negativo, reforcem os efeitos positivos sobre o ambiente ou aumentem a eficiência em termos de recursos, em comparação com as práticas habituais do sector;\n\nh) Instalação de sistemas que contribuam para a melhoria da eficiência energética ou promovam a conversão das empresas aquícolas para fontes de energia renováveis;\n\ni) Requalificação de lagos naturais ou artificiais utilizados para a aquicultura, através da remoção do limo e sedimentos, ou investimentos destinados a impedir o depósito do limo e sedimentos;\n\nj) Investimentos em sistemas aquícolas fechados em que os produtos aquícolas sejam explorados em sistemas de recirculação fechados, minimizando assim a utilização de água;\n\nk) Investimentos que reduzam substancialmente o impacto das empresas aquícolas na utilização e na qualidade da água, especialmente reduzindo a quantidade de água, de produtos químicos, de antibióticos e de outros medicamentos utilizados ou melhorando a qualidade da água de saída, inclusive através da utilização de sistemas aquícolas multitróficos ou de decantação.\n\n4 - Os serviços de aconselhamento referidos no n.º 2 abrangem:\n\na) As necessidades de gestão que permitam cumprir a legislação ambiental nacional e da União Europeia, bem como as exigências em matéria de ordenamento do espaço marítimo;\n\nb) A avaliação de impacte ambiental referida na Diretiva n.º 2001/42/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2001, e na Diretiva n.º 92/43/CEE do Conselho, de 21 de maio de 1992, transpostas para a ordem jurídica nacional;\n\nc) As necessidades de gestão que permitam cumprir a legislação nacional e da União Europeia relativa à saúde e ao bem-estar dos animais aquáticos ou à saúde pública;\n\nd) As normas de saúde e de segurança previstas na legislação nacional e da União Europeia;\n\ne) As estratégias de comercialização e empresariais.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+  },
+  "117138998": {
+   "fragment_id": "117128640",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipologia de beneficiários",
+   "in_force_from": "2016-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+   ],
+   "markdown": "###### Artigo 6.º — Tipologia de beneficiários\n\n1 - No âmbito da inovação, podem apresentar candidaturas ao presente Regulamento:\n\na) Os organismos científicos ou técnicos, públicos ou privados reconhecidos pelo Estado, ou em colaboração com esses organismos;\n\nb) As entidades referidas no n.º 3, desde que a operação preveja uma parceria com os organismos a que se refere a alínea anterior.\n\n2 - No âmbito dos serviços de gestão, de substituição e de aconselhamento às explorações aquícolas, podem apresentar candidaturas ao presente regime:\n\na) Quando se trate de operações enquadráveis na alínea a) do n.º 2 do artigo 4.º, o Instituto Português do Mar e da Atmosfera, I. P., enquanto laboratório nacional de referência, outros organismos de direito público ou entidades que venham a ser selecionados para criar os serviços de aconselhamento às explorações;\n\nb) Quando se trate de operações enquadráveis na alínea b) do n.º 2 do artigo 4.º, PME do sector aquícola ou organizações do sector aquícola, incluindo organizações de produtores e associações.\n\n3 - No âmbito dos investimentos produtivos, podem apresentar candidaturas ao presente regime pessoas singulares ou coletivas de direito privado cuja atividade se enquadre num dos códigos de atividade económica previstos nas alíneas b) e c) do artigo 3.º\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+  },
+  "117139003": {
+   "fragment_id": "117128641",
+   "type": 11,
+   "heading": "Artigo 7.º — Elegibilidade dos beneficiários",
+   "in_force_from": "2018-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 305/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/305-2018-117128626), em vigor a partir de 2018-11-28, produz efeitos a partir de 2016-03-24"
+   ],
+   "markdown": "###### Artigo 7.º — Elegibilidade dos beneficiários\n\n1 - Sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, apenas são elegíveis os beneficiários que demonstrem deter capacidade económica e financeira equilibrada, de acordo com o anexo i do presente Regulamento, do qual faz parte integrante, exceto nos casos em que essa apreciação não é exigida, nos termos do artigo 13.º\n\n2 - Adicionalmente ao disposto no número anterior, apenas são elegíveis os beneficiários que:\n\na) Detenham autorização de instalação, no caso de construção de novos estabelecimentos;\n\nb) Detenham licença de exploração, no caso de modernização de estabelecimentos existentes;\n\nc) Detenham autorização para a alteração do estabelecimento, nos casos aplicáveis;\n\nd) Comprovem a propriedade do terreno e ou das instalações ou o direito ao seu uso, nos casos aplicáveis;\n\ne) Sendo empresas aquícolas em início de atividade e propondo-se realizar investimentos produtivos:\n\ni) Demonstrem, mediante relatório de comercialização independente, a existência de boas perspetivas de mercado sustentáveis para o produto;\n\nii) Apresentem plano empresarial e, quando o investimento seja superior a (euro) 50 000, um estudo de viabilidade, incluindo uma avaliação ambiental da operação.\n\nf) [Revogado.]\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 305/2018 - Diário da República n.º 228/2018, Série I de 2018-11-27](https://diariodarepublica.pt/dr/detalhe/portaria/305-2018-117128626), em vigor a partir de 2018-11-28, produz efeitos a partir de 2016-03-24"
+  },
+  "126814708": {
+   "fragment_id": "117128638",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": "2019-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+   ],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\n1 - No âmbito da inovação são suscetíveis de apoio as operações destinadas à aquisição de conhecimentos técnicos, científicos ou organizacionais que visem o desenvolvimento sustentável da aquicultura, nomeadamente nos seguintes domínios:\n\na) Redução do impacte da atividade no ambiente;\n\nb) Redução da dependência do consumo de farinha e óleo de peixe;\n\nc) Melhoria do bem-estar animal ou novos métodos de produção sustentáveis;\n\nd) Promoção de uma utilização sustentável dos recursos;\n\ne) Criação ou introdução no mercado de novas espécies aquícolas com um bom potencial de mercado;\n\nf) Introdução de produtos novos ou substancialmente melhorados;\n\ng) Introdução de processos novos ou melhorados;\n\nh) Criação de sistemas de gestão e organização novos ou melhorados;\n\ni) Realização de estudos de viabilidade técnica ou económica de produtos ou processos inovadores.\n\n2 - No âmbito dos serviços de gestão, de substituição e de aconselhamento às explorações aquícolas, são suscetíveis de apoio as operações que visem:\n\na) A criação de serviços de gestão, de substituição e de aconselhamento;\n\nb) A aquisição de serviços de aconselhamento de caráter técnico, científico, jurídico, ambiental ou económico.\n\n3 - No âmbito dos investimentos produtivos são suscetíveis de apoio as seguintes operações:\n\na) Investimentos produtivos na aquicultura, nomeadamente a construção de novas unidades de produção aquícola ou de estabelecimentos conexos, a construção ou modernização de unidades de acondicionamento e embalagem, quando integradas em estabelecimentos aquícolas, e a instalação ou melhoramento de zonas de transposição de moluscos bivalves vivos;\n\nb) Diversificação da produção aquícola e das espécies cultivadas;\n\nc) Modernização de unidades de produção aquícola ou estabelecimentos conexos, incluindo a melhoria das condições de trabalho e de segurança dos trabalhadores aquícolas e a construção e modernização de embarcações de apoio à atividade;\n\nd) Melhoria e modernização relacionadas com a saúde e o bem-estar dos animais, incluindo a aquisição de equipamentos destinados a proteger as explorações contra os predadores selvagens;\n\ne) A diversificação do rendimento das empresas aquícolas através do desenvolvimento de atividades complementares relacionadas com as atividades comerciais aquícolas de base como sejam o turismo de pesca, os serviços ambientais ou as atividades pedagógicas ligados à aquicultura;\n\nf) Melhoria da qualidade dos produtos por aplicação de técnicas de maneio adequadas e introdução de novas tecnologias;\n\ng) Introdução de sistemas ou de processos que reduzam substancialmente o impacto negativo, reforcem os efeitos positivos sobre o ambiente ou aumentem a eficiência em termos de recursos, em comparação com as práticas habituais do sector;\n\nh) Instalação de sistemas que contribuam para a melhoria da eficiência energética ou promovam a conversão das empresas aquícolas para fontes de energia renováveis;\n\ni) Requalificação de lagos naturais ou artificiais utilizados para a aquicultura, através da remoção do limo e sedimentos, ou investimentos destinados a impedir o depósito do limo e sedimentos;\n\nj) Investimentos em sistemas aquícolas fechados em que os produtos aquícolas sejam explorados em sistemas de recirculação fechados, minimizando assim a utilização de água;\n\nk) Investimentos que reduzam substancialmente o impacto das empresas aquícolas na utilização e na qualidade da água, especialmente reduzindo a quantidade de água, de produtos químicos, de antibióticos e de outros medicamentos utilizados ou melhorando a qualidade da água de saída, inclusive através da utilização de sistemas aquícolas multitróficos ou de decantação.\n\n4 - Os serviços de aconselhamento referidos no n.º 2 abrangem:\n\na) As necessidades de gestão que permitam cumprir a legislação ambiental nacional e da União Europeia, bem como as exigências em matéria de ordenamento do espaço marítimo;\n\nb) A avaliação de impacte ambiental referida na Diretiva n.º 2001/42/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2001, e na Diretiva n.º 92/43/CEE do Conselho, de 21 de maio de 1992, transpostas para a ordem jurídica nacional;\n\nc) As necessidades de gestão que permitam cumprir a legislação nacional e da União Europeia relativa à saúde e ao bem-estar dos animais aquáticos ou à saúde pública;\n\nd) As normas de saúde e de segurança previstas na legislação nacional e da União Europeia;\n\ne) As estratégias de comercialização e empresariais.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+  },
+  "126814709": {
+   "fragment_id": "117128642",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": "2019-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a atividade apoiada:\n\na) No caso de operações enquadráveis no n.º 1 do artigo 4.º:\n\ni) Trabalhos ou equipamentos imprescindíveis à execução da operação, bem como as amortizações de bens corpóreos já detidos pelo beneficiário, correspondentes ao período de afetação desses bens à operação, com exceção dos que já tenham sido objeto de apoio público;\n\nii) De exploração diretamente ligadas à operação, incluindo despesas com pessoal, nomeadamente remunerações e encargos sociais obrigatórios;\n\niii) Relativas a trabalhos científicos ligados à preparação, acompanhamento e avaliação da operação;\n\niv) Com formação, formadores e pessoal de apoio e de preparação, execução e avaliação indispensáveis às ações de formação, com os limites previstos na Portaria n.º 60-A/2015, de 2 de março;\n\nv) Relativas à divulgação dos resultados da operação;\n\nvi) Fiscalização de obras, desde que efetuada por uma entidade externa à responsável pela realização dos trabalhos;\n\nvii) Custos associados às garantias exigidas pela autoridade de gestão no âmbito da execução da operação, auditorias, prémios de seguro referentes exclusivamente à cobertura de riscos relativos à realização da operação, estudos e projetos técnicos, até ao limite de 8 % das restantes despesas elegíveis;\n\nb) No caso de operações enquadráveis na alínea a) do n.º 2 do artigo 4.º, encargos incorridos na criação de serviços de gestão, substituição e aconselhamento, incluindo despesas com pessoal e respetivos encargos sociais obrigatórios, aquisições de serviços, deslocações, materiais e consumíveis indispensáveis à sua execução;\n\nc) No caso de operações enquadráveis na alínea b) do n.º 2 do artigo 4.º, encargos com aquisição de serviços de aconselhamento às explorações de caráter técnico, científico, jurídico, ambiental ou económico, incluindo despesas de constituição do processo individual de aconselhamento;\n\nd) No caso de operações enquadráveis no n.º 3 do artigo 4.º:\n\ni) Construção, modernização ou adaptação de edifícios ou de instalações;\n\nii) Aquisição de edifícios ou instalações, exceto no que diz respeito ao valor correspondente ao terreno;\n\niii) Vedações, meios e sistemas de segurança e proteção, incluindo os que visam os predadores selvagens;\n\niv) Preparação de terrenos;\n\nv) Aquisição e instalação de máquinas e equipamentos;\n\nvi) Aquisição de equipamentos e meios de movimentação interna;\n\nvii) Aquisição de contentores específicos para o transporte de juvenis;\n\nviii) Aquisição de equipamentos e sistemas informáticos e telemáticos;\n\nix) Trabalhos de adaptação ou melhoramento da circulação hidráulica;\n\nx) Aquisição de sistemas de automatização;\n\nxi) Aquisição e instalação de equipamentos necessários à produção e distribuição de energia;\n\nxii) Aquisição de sistemas e equipamentos que visem a recolha, armazenagem e tratamento de resíduos sólidos e efluentes líquidos, incluindo a construção de estações de pré-tratamento de águas residuais industriais ou estações de tratamento de águas residuais;\n\nxiii) Instalações para vigilante desde que localizadas dentro da área de implantação do estabelecimento e não exceda um custo total de (euro) 40 000, nem de (euro) 500/m2;\n\nxiv) Aquisição ou adaptação de embarcações de serviço específicas para a atividade aquícola;\n\nxv) Aquisição de veículos aprovados e certificados nos termos do Acordo Internacional de Transporte de Produtos Perecíveis sob Temperatura Dirigida para transporte de produtos da aquicultura em estado refrigerado;\n\nxvi) Auditorias, estudos e projetos técnico-económicos de assinalamento marítimo ou de avaliação ambiental;\n\nxvii) Fiscalização de obras desde que realizada por entidade externa ao construtor;\n\nxviii) Custos associados às garantias exigidas pela autoridade de gestão no âmbito da execução do projeto;\n\nxix) Planos que visem a implementação de sistemas de segurança alimentar, controlo de qualidade e certificação de acordo com a legislação em vigor;\n\nxx) Despesas com formação profissional diretamente relacionadas com os objetivos da operação, desde que estejam de acordo com as regras e limites definidos no artigo 50.º do Regulamento (UE) n.º 508/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e na Portaria n.º 60-A/2015, de 2 de março;\n\nxxi) Construção de estruturas e aquisição e instalação de equipamentos diretamente relacionados com a diversificação do rendimento das empresas aquícolas no caso de operações enquadráveis na alínea c) do n.º 3 do artigo 4.º\n\n2 - O montante da despesa elegível prevista na subalínea xv) da alínea c) do número anterior não pode ultrapassar 20 % das despesas elegíveis previstas nas subalíneas i) a xiv) da alínea d) do número anterior.\n\n3 - O montante da despesa elegível prevista nas subalíneas xvi), xvii) e xviii) da alínea c) do n.º 1 não pode ultrapassar 8 % das despesas elegíveis previstas nas subalíneas i) a xiv) da alínea d) do n.º 1.\n\n4 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são consideradas não elegíveis:\n\na) No âmbito de operações enquadradas no n.º 1 do artigo 4.º, as seguintes despesas:\n\ni) Com aquisição de telemóveis, material e mobiliário de escritório, bem como as relacionadas com equipamento para áreas não inseridas no âmbito da operação aprovada;\n\nii) Que visem dar cumprimento a exigências decorrentes de normas europeias após a data em que as mesmas se tornaram obrigatórias;\n\nb) No âmbito de operações enquadradas no n.º 3 do artigo 4.º, as seguintes despesas:\n\ni) Com a aquisição de telemóveis, material e mobiliário de escritório e sistemas ou equipamentos afetos a áreas não produtivas;\n\nii) Em meios de transporte externos ao estabelecimento, exceto os referidos na subalínea xv) da alínea d) do n.º 1;\n\niii) Encargos de funcionamento;\n\niv) Com bens cujo custo unitário seja igual ou inferior a mil euros, exceto quando façam parte integrante de um conjunto de elementos e não possam ser avaliados e utilizados individualmente;\n\nv) Com a aquisição de ovos, larvas, juvenis, ou progenitores;\n\nvi) De pré-financiamento, constituição de processo de empréstimo e de fundos de maneio;\n\nvii) Que visem o cumprimento de normas europeias em vigor, após a data em que as mesmas se tornem obrigatórias, com a exceção da instalação ou ampliação de estabelecimentos.\n\n5 - Sem prejuízo do disposto dos números anteriores, podem ser consideradas elegíveis outras despesas desde que imprescindíveis à realização dos objetivos subjacentes à operação e aprovadas pelo gestor.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05"
+  },
+  "126814710": {
+   "fragment_id": "117128650",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento dos apoios",
+   "in_force_from": "2019-12-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05"
+   ],
+   "markdown": "###### Artigo 16.º — Pagamento dos apoios\n\n1 - O pagamento do apoio é feito pelo IFAP, I. P., após apresentação pelo beneficiário do pedido e dos respetivos documentos de suporte, da forma e nos termos previstos nos números seguintes.\n\n2 - A apresentação dos pedidos de pagamento efetua-se através de submissão de formulário eletrónico disponível no portal do Portugal 2020, em www.portugal2020.pt, e no portal do IFAP, I. P., em www.ifap.pt, considerando-se a data de submissão como a data de apresentação do pedido de pagamento.\n\n3 - O pedido de pagamento reporta-se às despesas efetivamente realizadas e pagas, devendo os respetivos comprovativos e demais documentos que o integram ser submetidos eletronicamente de acordo com os procedimentos aprovados pelo IFAP, I. P., e divulgados no respetivo portal, em www.ifap.pt.\n\n4 - Apenas são aceites os pedidos de pagamentos relativos a despesas pagas por transferência bancária, débito em conta ou cheque, comprovados por extrato bancário, nos termos previstos no termo de aceitação.\n\n5 - O apoio é pago proporcionalmente à realização do investimento elegível e nas demais condições previstas na decisão de aprovação.\n\n6 - Os pedidos de pagamento são apresentados com cadência regular ao longo da execução da operação, podendo, em regra, ser apresentados até quatro pedidos de pagamento por candidatura aprovada, para além do pedido de pagamento a título de adiantamento a que alude o artigo seguinte, sem prejuízo do gestor, designadamente através da orientação técnica a que alude a alínea e) do n.º 2 do artigo 4.º do Decreto-Lei n.º 159/2014, de 27 de outubro, autorizar a apresentação de pedidos de pagamento adicionais.\n\n7 - O gestor pode, na decisão de aprovação da candidatura, fixar metas intercalares de execução material e financeira e os inerentes prazos para a apresentação dos pedidos de pagamento, bem como fixar o montante da última prestação do apoio concedido.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05"
+  },
+  "131003072": {
+   "fragment_id": "117128638",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipologia de operações",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 82-B/2020 - Diário da República n.º 64/2020, 1º Suplemento, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/82-b-2020-130954770), em vigor a partir de 2020-04-01, produz efeitos a partir de 2020-03-18",
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+   ],
+   "markdown": "###### Artigo 4.º — Tipologia de operações\n\n1 - No âmbito da inovação são suscetíveis de apoio as operações destinadas à aquisição de conhecimentos técnicos, científicos ou organizacionais que visem o desenvolvimento sustentável da aquicultura, nomeadamente nos seguintes domínios:\n\na) Redução do impacte da atividade no ambiente;\n\nb) Redução da dependência do consumo de farinha e óleo de peixe;\n\nc) Melhoria do bem-estar animal ou novos métodos de produção sustentáveis;\n\nd) Promoção de uma utilização sustentável dos recursos;\n\ne) Criação ou introdução no mercado de novas espécies aquícolas com um bom potencial de mercado;\n\nf) Introdução de produtos novos ou substancialmente melhorados;\n\ng) Introdução de processos novos ou melhorados;\n\nh) Criação de sistemas de gestão e organização novos ou melhorados;\n\ni) Realização de estudos de viabilidade técnica ou económica de produtos ou processos inovadores.\n\n2 - No âmbito dos serviços de gestão, de substituição e de aconselhamento às explorações aquícolas, são suscetíveis de apoio as operações que visem:\n\na) A criação de serviços de gestão, de substituição e de aconselhamento;\n\nb) A aquisição de serviços de aconselhamento de caráter técnico, científico, jurídico, ambiental ou económico.\n\n3 - No âmbito dos investimentos produtivos são suscetíveis de apoio as seguintes operações:\n\na) Investimentos produtivos na aquicultura, nomeadamente a construção de novas unidades de produção aquícola ou de estabelecimentos conexos, a construção ou modernização de unidades de acondicionamento e embalagem, quando integradas em estabelecimentos aquícolas, e a instalação ou melhoramento de zonas de transposição de moluscos bivalves vivos;\n\nb) Diversificação da produção aquícola e das espécies cultivadas;\n\nc) Modernização de unidades de produção aquícola ou estabelecimentos conexos, incluindo a melhoria das condições de trabalho e de segurança dos trabalhadores aquícolas e a construção e modernização de embarcações de apoio à atividade;\n\nd) Melhoria e modernização relacionadas com a saúde e o bem-estar dos animais, incluindo a aquisição de equipamentos destinados a proteger as explorações contra os predadores selvagens;\n\ne) A diversificação do rendimento das empresas aquícolas através do desenvolvimento de atividades complementares relacionadas com as atividades comerciais aquícolas de base como sejam o turismo de pesca, os serviços ambientais ou as atividades pedagógicas ligados à aquicultura;\n\nf) Melhoria da qualidade dos produtos por aplicação de técnicas de maneio adequadas e introdução de novas tecnologias;\n\ng) Introdução de sistemas ou de processos que reduzam substancialmente o impacto negativo, reforcem os efeitos positivos sobre o ambiente ou aumentem a eficiência em termos de recursos, em comparação com as práticas habituais do sector;\n\nh) Instalação de sistemas que contribuam para a melhoria da eficiência energética ou promovam a conversão das empresas aquícolas para fontes de energia renováveis;\n\ni) Requalificação de lagos naturais ou artificiais utilizados para a aquicultura, através da remoção do limo e sedimentos, ou investimentos destinados a impedir o depósito do limo e sedimentos;\n\nj) Investimentos em sistemas aquícolas fechados em que os produtos aquícolas sejam explorados em sistemas de recirculação fechados, minimizando assim a utilização de água;\n\nk) Investimentos que reduzam substancialmente o impacto das empresas aquícolas na utilização e na qualidade da água, especialmente reduzindo a quantidade de água, de produtos químicos, de antibióticos e de outros medicamentos utilizados ou melhorando a qualidade da água de saída, inclusive através da utilização de sistemas aquícolas multitróficos ou de decantação.\n\nl) Melhoria da segurança, da higiene, da saúde e das condições de trabalho.\n\n4 - Os serviços de aconselhamento referidos no n.º 2 abrangem:\n\na) As necessidades de gestão que permitam cumprir a legislação ambiental nacional e da União Europeia, bem como as exigências em matéria de ordenamento do espaço marítimo;\n\nb) A avaliação de impacte ambiental referida na Diretiva n.º 2001/42/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2001, e na Diretiva n.º 92/43/CEE do Conselho, de 21 de maio de 1992, transpostas para a ordem jurídica nacional;\n\nc) As necessidades de gestão que permitam cumprir a legislação nacional e da União Europeia relativa à saúde e ao bem-estar dos animais aquáticos ou à saúde pública;\n\nd) As normas de saúde e de segurança previstas na legislação nacional e da União Europeia;\n\ne) As estratégias de comercialização e empresariais.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 82-B/2020 - Diário da República n.º 64/2020, 1º Suplemento, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/82-b-2020-130954770), em vigor a partir de 2020-04-01, produz efeitos a partir de 2020-03-18\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 214/2016 - Diário da República n.º 149/2016, Série I de 2016-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/214-2016-75099114), em vigor a partir de 2016-08-05, produz efeitos a partir de 2016-03-24"
+  },
+  "131003073": {
+   "fragment_id": "131010281",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma Transitória",
+   "in_force_from": "2020-04-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 6.º do/a [Portaria n.º 82-B/2020 - Diário da República n.º 64/2020, 1º Suplemento, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/82-b-2020-130954770), em vigor a partir de 2020-04-01, produz efeitos a partir de 2020-03-18"
+   ],
+   "markdown": "###### Artigo 23.º — Norma Transitória\n\nNorma Transitória\n\nDe forma a agilizar a apresentação de candidaturas que visem dar resposta à pandemia de COVID-19, melhorando as condições de trabalho e de segurança dos trabalhadores, são derrogadas, no período de 18 de março a 31 de dezembro de 2020, as seguintes disposições:\n\na) A alínea d) do n.º 1 do artigo 5.º;\n\nb) Subalínea iv) da alínea b) do n.º 4 do artigo 8.º\n\n> Aditado pelo/a Artigo 6.º do/a [Portaria n.º 82-B/2020 - Diário da República n.º 64/2020, 1º Suplemento, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/portaria/82-b-2020-130954770), em vigor a partir de 2020-04-01, produz efeitos a partir de 2020-03-18"
+  },
+  "169953681": {
+   "fragment_id": "117128642",
+   "type": 11,
+   "heading": "Artigo 8.º — Elegibilidade das despesas",
+   "in_force_from": "2021-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 176/2021 - Diário da República n.º 162/2021, Série I de 2021-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2021-169945280), em vigor a partir de 2021-08-21",
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05"
+   ],
+   "markdown": "###### Artigo 8.º — Elegibilidade das despesas\n\n1 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a atividade apoiada:\n\na) No caso de operações enquadráveis no n.º 1 do artigo 4.º:\n\ni) Trabalhos ou equipamentos imprescindíveis à execução da operação, bem como as amortizações de bens corpóreos já detidos pelo beneficiário, correspondentes ao período de afetação desses bens à operação, com exceção dos que já tenham sido objeto de apoio público;\n\nii) De exploração diretamente ligadas à operação, incluindo despesas com pessoal, nomeadamente remunerações e encargos sociais obrigatórios;\n\niii) Relativas a trabalhos científicos ligados à preparação, acompanhamento e avaliação da operação;\n\niv) Com formação, formadores e pessoal de apoio e de preparação, execução e avaliação indispensáveis às ações de formação, com os limites previstos na Portaria n.º 60-A/2015, de 2 de março;\n\nv) Relativas à divulgação dos resultados da operação;\n\nvi) Fiscalização de obras, desde que efetuada por uma entidade externa à responsável pela realização dos trabalhos;\n\nvii) Custos associados às garantias exigidas pela autoridade de gestão no âmbito da execução da operação, auditorias, prémios de seguro referentes exclusivamente à cobertura de riscos relativos à realização da operação, estudos e projetos técnicos, até ao limite de 8 % das restantes despesas elegíveis;\n\nb) No caso de operações enquadráveis na alínea a) do n.º 2 do artigo 4.º, encargos incorridos na criação de serviços de gestão, substituição e aconselhamento, incluindo despesas com pessoal e respetivos encargos sociais obrigatórios, aquisições de serviços, deslocações, materiais e consumíveis indispensáveis à sua execução;\n\nc) No caso de operações enquadráveis na alínea b) do n.º 2 do artigo 4.º, encargos com aquisição de serviços de aconselhamento às explorações de caráter técnico, científico, jurídico, ambiental ou económico, incluindo despesas de constituição do processo individual de aconselhamento;\n\nd) No caso de operações enquadráveis no n.º 3 do artigo 4.º:\n\ni) Construção, modernização ou adaptação de edifícios ou de instalações;\n\nii) Aquisição de edifícios ou instalações, exceto no que diz respeito ao valor correspondente ao terreno;\n\niii) Vedações, meios e sistemas de segurança e proteção, incluindo os que visam os predadores selvagens;\n\niv) Preparação de terrenos;\n\nv) Aquisição e instalação de máquinas e equipamentos;\n\nvi) Aquisição de equipamentos e meios de movimentação interna;\n\nvii) Aquisição de contentores específicos para o transporte de juvenis;\n\nviii) Aquisição de equipamentos e sistemas informáticos e telemáticos;\n\nix) Trabalhos de adaptação ou melhoramento da circulação hidráulica;\n\nx) Aquisição de sistemas de automatização;\n\nxi) Aquisição e instalação de equipamentos necessários à produção e distribuição de energia;\n\nxii) Aquisição de sistemas e equipamentos que visem a recolha, armazenagem e tratamento de resíduos sólidos e efluentes líquidos, incluindo a construção de estações de pré-tratamento de águas residuais industriais ou estações de tratamento de águas residuais;\n\nxiii) Instalações para vigilante desde que localizadas dentro da área de implantação do estabelecimento e não exceda um custo total de (euro) 40 000, nem de (euro) 500/m2;\n\nxiv) Aquisição ou adaptação de embarcações de serviço específicas para a atividade aquícola;\n\nxv) Aquisição de veículos aprovados e certificados nos termos do Acordo Internacional de Transporte de Produtos Perecíveis sob Temperatura Dirigida para transporte de produtos da aquicultura em estado refrigerado;\n\nxvi) Auditorias, estudos e projetos técnico-económicos de assinalamento marítimo ou de avaliação ambiental;\n\nxvii) Fiscalização de obras desde que realizada por entidade externa ao construtor;\n\nxviii) Custos associados às garantias exigidas pela autoridade de gestão no âmbito da execução do projeto;\n\nxix) Planos que visem a implementação de sistemas de segurança alimentar, controlo de qualidade e certificação de acordo com a legislação em vigor;\n\nxx) Despesas com formação profissional diretamente relacionadas com os objetivos da operação, desde que estejam de acordo com as regras e limites definidos no artigo 50.º do Regulamento (UE) n.º 508/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014, e na Portaria n.º 60-A/2015, de 2 de março;\n\nxxi) Construção de estruturas e aquisição e instalação de equipamentos diretamente relacionados com a diversificação do rendimento das empresas aquícolas no caso de operações enquadráveis na alínea c) do n.º 3 do artigo 4.º\n\n2 - O montante da despesa elegível prevista na subalínea xv) da alínea c) do número anterior não pode ultrapassar 20 % das despesas elegíveis previstas nas subalíneas i) a xiv) da alínea d) do número anterior.\n\n3 - O montante da despesa elegível prevista nas subalíneas xvi), xvii) e xviii) da alínea c) do n.º 1 não pode ultrapassar 8 % das despesas elegíveis previstas nas subalíneas i) a xiv) da alínea d) do n.º 1.\n\n4 - Sem prejuízo das regras gerais constantes do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, são consideradas não elegíveis:\n\na) No âmbito de operações enquadradas no n.º 1 do artigo 4.º, as seguintes despesas:\n\ni) Com aquisição de telemóveis, material e mobiliário de escritório, bem como as relacionadas com equipamento para áreas não inseridas no âmbito da operação aprovada;\n\nii) Que visem dar cumprimento a exigências decorrentes de normas europeias após a data em que as mesmas se tornaram obrigatórias;\n\nb) No âmbito de operações enquadradas no n.º 3 do artigo 4.º, as seguintes despesas:\n\ni) Com a aquisição de telemóveis, material e mobiliário de escritório e sistemas ou equipamentos afetos a áreas não produtivas;\n\nii) Em meios de transporte externos ao estabelecimento, exceto os referidos na subalínea xv) da alínea d) do n.º 1;\n\niii) Encargos de funcionamento;\n\niv) (Revogada.)\n\nv) Com a aquisição de ovos, larvas, juvenis, ou progenitores;\n\nvi) De pré-financiamento, constituição de processo de empréstimo e de fundos de maneio;\n\nvii) Que visem o cumprimento de normas europeias em vigor, após a data em que as mesmas se tornem obrigatórias, com a exceção da instalação ou ampliação de estabelecimentos.\n\n5 - Sem prejuízo do disposto dos números anteriores, podem ser consideradas elegíveis outras despesas desde que imprescindíveis à realização dos objetivos subjacentes à operação e aprovadas pelo gestor.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 176/2021 - Diário da República n.º 162/2021, Série I de 2021-08-20](https://diariodarepublica.pt/dr/detalhe/portaria/176-2021-169945280), em vigor a partir de 2021-08-21\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 400/2019 - Diário da República n.º 231/2019, Série I de 2019-12-02](https://diariodarepublica.pt/dr/detalhe/portaria/400-2019-126774995), em vigor a partir de 2019-12-03, produz efeitos a partir de 2016-08-05"
+  },
+  "180532614": {
+   "fragment_id": "117128653",
+   "type": 11,
+   "heading": "Artigo 19.º — Alterações às operações aprovadas",
+   "in_force_from": "2022-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/portaria/114-2022-180474165), em vigor a partir de 2022-03-16"
+   ],
+   "markdown": "###### Artigo 19.º — Alterações às operações aprovadas\n\n1 - Podem ser admitidas alterações técnicas à operação, desde que delas não resulte o aumento do apoio público e se mantenha o objetivo do projeto aprovado, seguindo-se o disposto no artigo 22.º, sem prejuízo do disposto no número seguinte.\n\n2 - Estando em causa um investimento produtivo, caso as alterações técnicas impliquem acréscimo de custos, pode ser considerado o aumento do apoio público desde que observadas as seguintes condições:\n\na) As alterações e necessidade de aumento do apoio público sejam devidamente justificadas;\n\nb) O acréscimo de custos respeite a despesas elegíveis; e\n\nc) Exista disponibilidade financeira para acomodar o aumento de apoio solicitado.\n\n3 - A condição prevista na alínea c) do número anterior é dispensada no caso de a entidade beneficiária ter outra(s) operação(ões) aprovada(s) ao abrigo do presente regime em que desista, total ou parcialmente, do apoio que lhe está atribuído, em montante igual ou superior ao do aumento de apoio pretendido.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 114/2022 - Diário da República n.º 52/2022, Série I de 2022-03-15](https://diariodarepublica.pt/dr/detalhe/portaria/114-2022-180474165), em vigor a partir de 2022-03-16"
+  }
+ }
+}

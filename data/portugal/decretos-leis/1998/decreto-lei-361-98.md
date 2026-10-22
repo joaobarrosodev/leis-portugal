@@ -1,0 +1,371 @@
+---
+schema_version: '1.0'
+id: pt:dre:229304:por
+title: Decreto-Lei n.º 361/98
+short_title: null
+summary: Regime jurídico da pensão unificada
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e da Solidariedade
+proposing_entity: null
+official_number: 361/98
+official_date: null
+publication_date: '1998-11-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 267/1998, Série I-A de 1998-11-18
+  number: '267'
+  series: I
+  supplement: null
+  pages: 6230 - 6233
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/11/267a00/62306233.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2014-01-01'
+version_history:
+  file: decreto-lei-361-98.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-11-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-03'
+    amending: pt:dre:692186:por
+    amending_title: Decreto-Lei n.º 437/99
+    changes:
+    - Altera Artigo 10.º
+  - date: '2014-01-01'
+    amending: pt:dre:164404:por
+    amending_title: Lei n.º 83-C/2013
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Revoga Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/361/1998/p/cons/20131231/pt/html
+  oj: null
+  dre: '229304'
+  dre_path: /dr/detalhe/decreto-lei/361-1998-229304
+  internal: pt:dre:229304:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1998-229304
+  metadata_url: https://data.dre.pt/eli/dec-lei/361/1998/p/cons/20131231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-138824239
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-138824239
+  retrieved_at: '2026-10-22T12:33:54Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5eeb1b0498cd2e37a3285acebd5f830cd2050bfc58437eebd535e0f30337d2f3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:54Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-361-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cálculo de Pensões
+- Centro Nacional de Pensões
+- Caixa Geral de Aposentações
+- Pensão de Aposentação
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensão de Reforma
+- Pensão Unificada
+- Prestações da Segurança Social
+- Regime Jurídico
+- Regimes de Segurança Social
+- Segurança Social
+relationships:
+- type: amended_by
+  target: pt:dre:692186:por
+  label: Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186
+  date: '1999-10-29'
+- type: amended_by
+  target: pt:dre:164404:por
+  label: Altera Artigo 4.º; Altera Artigo 9.º; Altera Artigo 10.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404
+  date: '2013-12-31'
+- type: cites
+  target: celex:31971R1408
+  label: null
+  source: http://data.europa.eu/eli/reg/1971/1408/oj
+article_structure:
+  article_count: 31
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:54Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 361/98
+
+Decreto-Lei n.º 361/98
+
+de 18 de Novembro
+
+De harmonia com princípios constitucionalmente previstos e tendo em conta o estabelecido no artigo 70.º da Lei n.º 28/84, de 14 de Agosto, foi instituído o regime da pensão unificada pelo Decreto-Lei n.º 143/88, de 22 de Abril, o qual teve por objectivo permitir a totalização dos períodos contributivos existentes no regime geral da segurança social e no regime da função pública, para efeito de atribuição de uma única pensão.
+
+A medida, inicialmente marcada por um campo restrito de aplicação, por apenas abranger os trabalhadores activos e se reportar ao âmbito das pensões de invalidez e velhice, foi posteriormente alargada pelo Decreto-Lei n.º 159/92, de 31 de Julho, à protecção por morte, conferindo ainda, embora a título transitório, a possibilidade de os pensionistas de invalidez e velhice poderem requerer esta modalidade de pensão.
+
+Tendo em atenção a experiência resultante da aplicação do Decreto-Lei n.º 159/92, mostra-se, agora, conveniente reformular o regime da pensão unificada de modo a abranger as situações que do mesmo ainda se encontravam excluídas.
+
+Assim, como medida inovadora, o presente diploma prevê o alargamento do âmbito pessoal do regime da pensão unificada a trabalhadores que, cumulativamente, sejam beneficiários de sistemas de segurança social de países com os quais Portugal tenha convenção sobre tal matéria.
+
+Trata-se de uma medida com um elevado grau de complexidade técnica face às incidências dos instrumentos internacionais na lei interna, atenta a divergência do respectivo conteúdo e o próprio facto de os mesmos instrumentos poderem apenas ser vinculativos no âmbito do regime de segurança social.
+
+Por outro lado, aproveitou-se a revisão da legislação para lhe introduzir os aperfeiçoamentos que a sua aplicação veio mostrar necessários, ao mesmo tempo que se permitiu a aplicação das novas medidas, em período naturalmente transitório, a trabalhadores já pensionistas, de modo a satisfazer solicitações que, entretanto, foram apresentadas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º e do n.º 5 do artigo 112.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 80.º, Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404) O protocolo administrativo que assegura a articulação funcional entre o CNP e a CGA, I. P., necessária à integral execução do disposto no Decreto-Lei n.º 361/98, de 18 de novembro, alterado pelo Decreto-Lei n.º 437/99, de 29 de outubro, é revisto no prazo de 30 dias, para adaptação às alterações introduzidas pela presente lei.
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 437/99 - Diário da República n.º 253/1999, Série I-A de 1999-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186) O disposto no n.º 5 do artigo 43.º e no n.º 2 do artigo 44.º, relativamente ao valor mínimo da pensão antecipada determinada pela aplicação do regime de flexibilização da idade de pensão, produz efeitos a 1 de abri de 1999.
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+As pensões de invalidez, velhice e sobrevivência do regime geral de segurança social e as pensões de aposentação, reforma ou sobrevivência da Caixa Geral de Aposentações, a receber ou legar por quem tenha sido abrangido pelos dois regimes de protecção social, podem ser atribuídas de forma unificada, nos termos previstos no presente diploma.
+
+###### Artigo 2.º — Âmbito pessoal
+
+1 - O regime da pensão unificada, estabelecido por este diploma, abrange os beneficiários do regime geral de segurança social e os subscritores da Caixa Geral de Aposentações.
+
+2 - Ficam excluídos do regime da pensão unificada:
+
+a) As pessoas que sejam pensionistas, sem prejuízo do disposto no artigo 24.º;
+
+b) As pessoas a quem não seja reconhecido o direito à pensão de invalidez, no âmbito do regime geral de segurança social, por a concessão desta prestação ser da responsabilidade exclusiva do regime estrangeiro, por força da aplicação de instrumento internacional.
+
+###### Artigo 3.º — Definições
+
+Para os efeitos deste diploma considera-se que:
+
+a) A referência a «pagamento de contribuições» ou de «quotizações», bem como a expressão «com descontos», abrange quer as situações em que esse pagamento foi efectuado, quer as situações que lhes são legalmente equivalentes, nos precisos termos em que relevarem nos regimes em que se verifiquem;
+
+b) «Último regime» e «primeiro regime» designam, em cada caso concreto, o regime que atribui e o que não atribui a pensão unificada, respectivamente.
+
+###### Artigo 4.º — Articulação dos regimes
+
+1 - O regime da pensão unificada baseia-se na totalização dos períodos de pagamento de contribuições e de quotizações para o regime geral de segurança social e para a Caixa Geral de Aposentações, sendo os períodos de sobreposição contributiva contados uma só vez.
+
+2 - Os períodos cumpridos ao abrigo de legislação de outro país podem relevar para efeitos de pensão unificada, exclusivamente para abertura do direito à pensão, se tanto o regime geral da segurança social como a CGA aplicarem o instrumento legal que permite a totalização desses períodos.
+
+3 - Os períodos contributivos de um regime correspondentes a carreiras legalmente integradas no outro regime apenas relevam para efeito do regime que as passou a integrar.
+
+4 - A titularidade do direito, as condições de atribuição e a avaliação das situações de incapacidade permanente são as do último regime.
+
+5 - A pensão unificada é considerada, para todos os efeitos legais, como pensão do último regime, sem prejuízo do que neste diploma se disponha em contrário.
+
+> Alterado pelo/a Artigo 80.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+### Capítulo II — Pensões de invalidez e velhice ou de aposentação e reforma
+
+###### Artigo 5.º — Condições de atribuição
+
+1 - A pensão unificada só pode ser atribuída ao abrigo do regime para que tenha havido, pelo menos, 60 meses com pagamento de contribuições ou quotizações e relativamente ao qual, considerada a totalização de períodos referida no n.º 1 do artigo 4.º, se encontrem preenchidos o respectivo prazo de garantia e as demais condições de atribuição à data do requerimento, ou daquela em que o mesmo produzir efeitos, se apresentado antecipadamente.
+
+2 - Se o disposto no número anterior for satisfeito por ambos os regimes, a pensão unificada é atribuída por aquele para que tenha sido feito o último pagamento de contribuições ou quotizações.
+
+3 - Quando, no último mês com descontos, tenha havido sobreposição contributiva para os dois regimes e tenha sido preenchido o condicionalismo previsto no n.º 1 em ambos os regimes, a pensão unificada é atribuída pelo regime para que o interessado contribuiu no último mês da sua carreira contributiva em que não houve sobreposição.
+
+###### Artigo 6.º — Atribuição da pensão unificada
+
+1 - Os beneficiários e subscritores requerentes de pensão devem declarar no requerimento se estão, ou não, abrangidos pelos dois regimes de protecção social, bem como por regime estrangeiro.
+
+2 - Os beneficiários e subscritores abrangidos por ambos os regimes devem declarar expressamente se pretendem, ou não, a atribuição da pensão unificada.
+
+3 - Em caso de omissão da declaração prevista nos números anteriores, a instituição comunica ao interessado ou ao serviço de que o mesmo depende a possibilidade de ele suprir a lacuna no prazo de 30 dias.
+
+4 - O regime da pensão unificada não pode ser aplicado se não for feita a declaração prevista nos n.os 2 e 3.
+
+5 - A atribuição de pensão unificada pelo regime geral de segurança social a beneficiários que se encontrem a exercer funções a que corresponda inscrição na Caixa Geral de Aposentações determina a cessação daquelas funções.
+
+6 - Nas situações previstas no número anterior a parcela correspondente ao período com descontos para a Caixa Geral de Aposentações é determinada com base na situação existente e na lei em vigor à data a que se reportam os efeitos do direito à pensão unificada.
+
+7 - A cessação de funções a que corresponde a inscrição na Caixa Geral de Aposentações, em conformidade com o determinado no n.º 5, ocorre com base na comunicação do reconhecimento do direito à pensão unificada efectuada por aquela Caixa ao respectivo serviço ou organismo.
+
+###### Artigo 7.º — Cálculo da pensão unificada
+
+O valor da pensão unificada obtém-se por aplicação das regras de cálculo do último regime, ressalvado o disposto no presente diploma.
+
+> Revogado pelo/a Artigo 80.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 8.º — Períodos contributivos e remunerações
+
+1 - Para efeito de atribuição e de cálculo da pensão unificada pressupõem-se, sem interrupção, os períodos contributivos para o regime geral de segurança social anteriores a 1971, que não compreendam situações de mais de 12 meses consecutivos sem pagamento de contribuições entre as respectivas datas da primeira e da última contribuição.
+
+2 - São aplicáveis ao cálculo da pensão unificada, quando for caso disso, os diplomas que tenham atribuído valores convencionais de remunerações a situações contributivas do regime geral de segurança social.
+
+3 - O período correspondente ao cumprimento do serviço militar obrigatório é considerado pelo último regime, sempre que esteja registado em ambos os regimes de protecção social.
+
+###### Artigo 9.º — Garantia do valor da pensão
+
+1 - O valor da pensão unificada é igual à soma das parcelas correspondentes aos valores a que o trabalhador tem direito por aplicação separada de cada um dos regimes.
+
+2 - (Revogado.)
+
+> Alterado pelo/a Artigo 80.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+###### Artigo 10.º — Repartição de encargos
+
+1 - A instituição que atribuir a pensão unificada receberá, da outra instituição para a qual o interessado tenha descontado, o montante da respectiva parcela de pensão, calculada nos termos do artigo anterior.
+
+2 - (Revogado).
+
+3 -  (Revogado).
+
+4 - (Revogado).
+
+> Alterado pelo/a Artigo 80.º do/a [Lei n.º 83-C/2013 - Diário da República n.º 253/2013, 1º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/lei/83-c-2013-164404), em vigor a partir de 2014-01-01
+
+> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 437/99 - Diário da República n.º 253/1999, Série I-A de 1999-10-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1999-692186), em vigor a partir de 1999-11-03, produz efeitos a partir de 1999-06-01
+
+###### Artigo 11.º — Períodos de actividade posteriores à pensão
+
+Os períodos contributivos ou de quotização cumpridos no regime geral de segurança social ou na função pública, em data posterior ao início da pensão unificada, são considerados nos termos do respectivo regime, traduzindo-se numa mera adição à sua comparticipação, sem acréscimo de encargos para o outro regime.
+
+###### Artigo 12.º — Actualização da pensão unificada
+
+1 - A pensão unificada é actualizada de acordo com as regras aplicáveis às pensões do último regime.
+
+2 - O encargo resultante da actualização da pensão unificada é repartido de acordo com as percentagens fixadas aquando da atribuição do montante inicial da pensão.
+
+###### Artigo 13.º — Prestações complementares
+
+A pensão unificada não prejudica a concessão, quando for caso disso, da prestação devida por assistência de terceira pessoa, nos termos da respectiva legislação.
+
+###### Artigo 14.º — Parcela autónoma
+
+Quando a atribuição da pensão, no âmbito do regime geral de segurança social, for da responsabilidade exclusiva do regime português, nos termos de instrumento internacional, o valor correspondente ao período contributivo, cumprido no regime estrangeiro, é considerado como uma parcela autónoma da pensão unificada, não relevando para o cálculo do montante global desta pensão nem para efeitos da determinação dos encargos previstos no n.º 2 do artigo 10.º
+
+### Capítulo III — Pensões de sobrevivência
+
+###### Artigo 15.º — Atribuição da pensão
+
+1 - O regime da pensão unificada é aplicável às pensões de sobrevivência por morte de pensionista titular de pensão deste regime.
+
+2 - A aplicação do regime da pensão unificada por morte de trabalhador activo depende de opção expressa de todas as pessoas com direito a pensão de sobrevivência.
+
+###### Artigo 16.º — Disposições aplicáveis
+
+É aplicável à pensão unificada de sobrevivência, com as necessárias adaptações, o disposto no capítulo anterior, sem prejuízo do que dispõem os artigos seguintes.
+
+###### Artigo 17.º — Condições de atribuição
+
+A pensão unificada de sobrevivência só pode ser atribuída por regime para que tenha havido, pelo menos, 36 meses com pagamento de contribuições ou quotizações e relativamente ao qual, considerando a totalização de períodos referida no n.º 1 do artigo 4.º, se encontrem preenchidos o prazo de garantia e as demais condições de atribuição.
+
+###### Artigo 18.º — Garantia de direitos
+
+1 - É garantido, a quem não tenha direito à pensão de sobrevivência no âmbito da pensão unificada, o acesso à prestação através do primeiro regime, desde que satisfeitos os respectivos condicionalismos de atribuição.
+
+2 - Na situação a que se refere o número anterior, a pensão de sobrevivência é actualizada em conformidade com as regras aplicáveis no âmbito do primeiro regime e constitui encargo exclusivo da respectiva instituição gestora.
+
+###### Artigo 19.º — Prestações complementares
+
+O disposto no artigo 13.º é igualmente aplicável ao subsídio por assistência de terceira pessoa atribuído aos titulares de pensão de sobrevivência.
+
+###### Artigo 20.º — Cálculo da pensão
+
+O montante da pensão de sobrevivência obtém-se por aplicação da percentagem de cálculo específica ao valor da pensão unificada de invalidez ou velhice, reforma ou aposentação, atribuída ou atribuível ao falecido, deduzido, quando for caso disso, da comparticipação referida no n.º 3 do artigo 10.º
+
+###### Artigo 21.º — Repartição de encargos
+
+Os encargos da pensão global de sobrevivência são distribuídos, pelos dois regimes, nas proporções em que os mesmos suportariam a pensão unificada de invalidez ou velhice, aposentação ou reforma.
+
+###### Artigo 22.º — Alteração do conjunto de pensionistas de sobrevivência
+
+Quando a pensão unificada de sobrevivência estiver a ser concedida a uma pluralidade de titulares e se verifique a alteração do conjunto de pensionistas, há lugar a novo cálculo, como se fosse uma atribuição inicial, mas tendo em conta as actualizações entretanto verificadas.
+
+###### Artigo 23.º — Suspensão
+
+1 - Sempre que a concessão da pensão de sobrevivência seja da exclusiva responsabilidade de regime estrangeiro, por força da aplicação de instrumento internacional, não há lugar ao pagamento da pensão unificada relativamente ao respectivo titular.
+
+2 - A suspensão prevista no número anterior não prejudica o pagamento do montante correspondente à parcela que, no âmbito da pensão unificada, é da responsabilidade da Caixa Geral de Aposentações.
+
+### Capítulo IV — Disposições transitórias
+
+###### Artigo 24.º — Aplicação a pensionistas
+
+1 - Os pensionistas anteriormente excluídos do âmbito pessoal da pensão unificada, por estarem abrangidos por regime de segurança social de país em relação ao qual Portugal se encontra vinculado por instrumento internacional, podem requerer a pensão unificada nos 180 dias subsequentes à entrada em vigor do presente diploma.
+
+2 - À pensão unificada referida no n.º 1 aplicam-se as especificidades constantes das disposições do presente capítulo.
+
+###### Artigo 25.º — Início da pensão
+
+A pensão unificada é devida a partir do mês seguinte ao da entrada do requerimento, substituindo a pensão ou pensões anteriormente atribuídas.
+
+###### Artigo 26.º — Determinação do valor das parcelas
+
+1 - Para efeitos do disposto no artigo 24.º, as parcelas a que se refere o artigo 9.º deste diploma são de valor correspondente ao da pensão que cada regime estiver a pagar ou que, pelo mesmo, for devida à data do requerimento, sem prejuízo das disposições sobre acumulação de pensões.
+
+2 - Tratando-se de pensões de sobrevivência, as parcelas devidas por cada instituição correspondem ao valor resultante do disposto no artigo 20.º do presente diploma.
+
+###### Artigo 27.º — Legislação aplicável ao cálculo da pensão unificada
+
+O valor da pensão unificada, nas situações previstas no artigo 24.º, é determinado de acordo com a legislação aplicável pelo último regime, à data da atribuição da sua pensão.
+
+### Capítulo V — Disposições finais
+
+###### Artigo 28.º — Normas de execução
+
+O Centro Nacional de Pensões e a Caixa Geral de Aposentações devem celebrar, no prazo de 90 dias a contar da entrada em vigor deste diploma, um protocolo administrativo, a homologar pelos ministros competentes, que assegure a articulação funcional, entre ambos os organismos, necessária à integral execução deste diploma.
+
+###### Artigo 29.º — Produção de efeitos
+
+O presente diploma é aplicável às situações requeridas após o respectivo início de vigência, bem como àquelas sobre as quais ainda não tenha recaído decisão das instituições gestoras.
+
+###### Artigo 30.º — Revogação
+
+São revogados o Decreto-Lei n.º 159/92, de 31 de Julho, e a Portaria n.º 2/93, de 2 de Janeiro.
+
+###### Artigo 31.º — Entrada em vigor
+
+O presente diploma entra em vigor no 1.º dia do 3.º mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 8 de Outubro de 1998. - António Manuel de Oliveira Guterres - Jaime José Matos da Gama - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - Eduardo Luís Barreto Ferro Rodrigues.
+
+Promulgado em 5 de Novembro de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Novembro de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

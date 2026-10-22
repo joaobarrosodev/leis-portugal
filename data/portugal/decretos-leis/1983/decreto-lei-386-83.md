@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:441524:por
+title: Decreto-Lei n.º 386/83
+short_title: null
+summary: Prorroga até 31 de Dezembro de 1984 o prazo fixado no artigo 2.º do Decreto-Lei n.º 298/82, de 29 de Julho, e no
+  n.º 2 do artigo 94.º do Estatuto aprovado pelo Decreto-Lei n.º 119/83, de 25 de Fevereiro (Reforma dos Estatutos das Instituições
+  Particulares de Solidariedade Social)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 386/83
+official_date: null
+publication_date: '1983-10-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 238/1983, Série I de 1983-10-15
+  number: '238'
+  series: I
+  supplement: null
+  pages: 3607 - 3607
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/10/23800/36073607.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '441524'
+  dre_path: /dr/detalhe/decreto-lei/386-1983-441524
+  internal: pt:dre:441524:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1983-441524
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/386-1983-441524
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-02-19T00:00:00Z'
+integrity:
+  source_sha256: b6b302b69b181e9153c84ef8003f890d86d349d273e59fe9ed5934d334388f1d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-386-441524.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:193821:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 386/83
+
+de 15 de Outubro
+
+O Estatuto das Instituições Particulares de Solidariedade Social, aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro, estabelece no n.º 2 do artigo 94.º, de harmonia com idêntica disposição constante do artigo 2.º do [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), de 29 de Julho, que as instituições particulares de solidariedade social, anteriormente qualificadas como pessoas colectivas de utilidade pública administrativa, e as associações de socorros mútuos deverão reformar os seus estatutos, de acordo com o regime estabelecido naquele diploma, no prazo de 6 meses a contar da data da sua publicação.
+
+Considerando a impossibilidade de muitas instituições procederem à alteração dos estatutos dentro do prazo previsto, quer por motivo de falta de meios das próprias instituições, quer em consequência do atraso na publicação dos regulamentos previstos no n.º 2 do artigo 7.º do Estatuto citado, torna-se necessário proceder à prorrogação do referido prazo.
+
+Por outro lado, conforme resulta da experiência de aplicação do Estatuto aprovado pelo [Decreto-Lei n.º 519-G2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-g2-1979-157007), de 31 de Dezembro, requere-se que a prorrogação seja feita por um período suficientemente dilatado.
+
+A existência, em todo o País, de cerca de 1500 instituições com formas muito variadas e com estatutos por vezes antigos torna complexa e morosa a tarefa de promover, estudar e executar a sua reformulação, não só pelas exigências de informação aos associados e dirigentes, mas também pela necessidade de introduzir adaptações aos condicionalismos específicos das instituições e ao seu funcionamento interno.
+
+Por isso se considera conveniente fixar o termo da prorrogação em 31 de Dezembro de 1984.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. É prorrogado até 31 de Dezembro de 1984 o prazo fixado no artigo 2.º do [Decreto-Lei n.º 298/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/298-1982-397370), de 29 de Julho, e no n.º 2 do artigo 94.º do Estatuto aprovado pelo [Decreto-Lei n.º 119/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-1983-311401), de 25 de Fevereiro.
+
+Visto e aprovado em Conselho de Ministros de 29 de Setembro de 1983. - Mário Soares - Carlos Alberto da Mota Pinto - Amândio Anes de Azevedo.
+
+**Promulgado em 4 de Outubro de 1983.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 7 de Outubro de 1983.**
+
+**O Primeiro-Ministro, Mário Soares.**

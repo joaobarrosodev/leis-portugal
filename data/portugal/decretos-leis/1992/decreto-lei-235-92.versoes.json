@@ -1,0 +1,841 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220346:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1992-106547158",
+ "dre_path": "/dr/detalhe/decreto-lei/235-1992-220346",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1992-10-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "123540906",
+    "106546992",
+    "106546993",
+    "106546994",
+    "106546995",
+    "106546996",
+    "106546997",
+    "106546998",
+    "106546999",
+    "106547000",
+    "106547001",
+    "106547002",
+    "106547003",
+    "106547004",
+    "106547005",
+    "106547006",
+    "106547007",
+    "106547008",
+    "106547009",
+    "106547010",
+    "106547011",
+    "106547012",
+    "106547013",
+    "106547014",
+    "106547015",
+    "106547016",
+    "106547017",
+    "106547018",
+    "106547019",
+    "106547020",
+    "106547021",
+    "106547022",
+    "106547023",
+    "106547024",
+    "106547025",
+    "106547026",
+    "106547027",
+    "106547028",
+    "106547029"
+   ]
+  },
+  {
+   "date": "1992-12-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:340976:por",
+     "title": "Declaração de Rectificação n.º 174/92",
+     "published": "1992-10-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/174-1992-340976"
+    }
+   ],
+   "changes": [
+    "Retifica Diploma",
+    "Retifica Artigo 12.º"
+   ],
+   "fragments": [
+    "123540906",
+    "106546992",
+    "106546993",
+    "106546994",
+    "106546995",
+    "106546996",
+    "106546997",
+    "106546998",
+    "106546999",
+    "106547000",
+    "106547001",
+    "106547002",
+    "123540907",
+    "106547004",
+    "106547005",
+    "106547006",
+    "106547007",
+    "106547008",
+    "106547009",
+    "106547010",
+    "106547011",
+    "106547012",
+    "106547013",
+    "106547014",
+    "106547015",
+    "106547016",
+    "106547017",
+    "106547018",
+    "106547019",
+    "106547020",
+    "106547021",
+    "106547022",
+    "106547023",
+    "106547024",
+    "106547025",
+    "106547026",
+    "106547027",
+    "106547028",
+    "106547029",
+    "106547030"
+   ]
+  },
+  {
+   "date": "1999-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:345122:por",
+     "title": "Lei n.º 114/99",
+     "published": "1999-08-03",
+     "dre_path": "/dr/detalhe/lei/114-1999-345122"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 36.º"
+   ],
+   "fragments": [
+    "123540906",
+    "106546992",
+    "106546993",
+    "106546994",
+    "106546995",
+    "106546996",
+    "106546997",
+    "106546998",
+    "106546999",
+    "106547000",
+    "106547001",
+    "106547002",
+    "123540907",
+    "106547004",
+    "106547005",
+    "106547006",
+    "106547007",
+    "106547008",
+    "106547009",
+    "106547010",
+    "106547011",
+    "106547012",
+    "106547013",
+    "106547014",
+    "106547015",
+    "106547016",
+    "106547017",
+    "106547018",
+    "106547019",
+    "106547020",
+    "106547021",
+    "106547022",
+    "106547023",
+    "106547024",
+    "106547025",
+    "106547026",
+    "123540908",
+    "106547028",
+    "106547029",
+    "106547030"
+   ]
+  },
+  {
+   "date": "2023-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:211340863:por",
+     "title": "Lei n.º 13/2023",
+     "published": "2023-04-03",
+     "dre_path": "/dr/detalhe/lei/13-2023-211340863"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 37.º-A",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 36.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º"
+   ],
+   "fragments": [
+    "123540906",
+    "106546992",
+    "106546993",
+    "106546994",
+    "211390845",
+    "106546996",
+    "106546997",
+    "106546998",
+    "211390843",
+    "106547000",
+    "211390844",
+    "106547002",
+    "211390846",
+    "211390832",
+    "211390833",
+    "106547006",
+    "211390847",
+    "211390834",
+    "211390848",
+    "211390849",
+    "211390850",
+    "211390851",
+    "211390852",
+    "211390853",
+    "211390835",
+    "211390854",
+    "106547017",
+    "106547018",
+    "211390836",
+    "106547020",
+    "211390837",
+    "106547022",
+    "211390838",
+    "106547024",
+    "211390855",
+    "211390856",
+    "211390839",
+    "106547028",
+    "211390840",
+    "211390841",
+    "211390842"
+   ]
+  }
+ ],
+ "fragments": {
+  "123540906": {
+   "fragment_id": "106547159",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1992-12-23",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 235/92\n\nde 24 de Outubro\n\nO Decreto-Lei n.º 508/80, de 21 de Outubro, actualmente em vigor, definiu, pela primeira vez, no nosso ordenamento jurídico, um regime específico regulamentador do contrato de serviço doméstico.\n\nAté à data da sua entrada em vigor, as normas regulamentadoras deste tipo de contrato eram as do Código Civil de 1867, que, pela época em que foram produzidas, se mostravam completamente desfasadas da realidade social.\n\nTratando-se da primeira tentativa de regular, global e coerentemente, a prestação de trabalho doméstico e tendo surgido numa época de profundas mutações na concepção dos regimes disciplinadores da relação de trabalho, o referido diploma não poderia deixar de ter, naturalmente, um período de vigência transitório.\n\nDecorridos cerca de 10 anos, reconhece-se que a dinâmica das relações laborais e a melhoria das condições de vida dos agregados familiares justificam uma revisão de algumas matérias do actual regime.\n\nA circunstância de o trabalho doméstico ser prestado a agregados familiares, e, por isso, gerar relações profissionais com acentuado carácter pessoal que postulam um permanente clima de confiança, exige, a par da consideração da especificidade económica daqueles, que o seu regime se continue a configurar como especial em certas matérias.\n\nPor outro lado, prevê-se a aproximação ao quadro normativo geral atinente aos regimes de faltas, de férias e do respectivo subsídio.\n\nNo que concerne às inovações, cabe anotar a justaposição do subsídio de Natal, tendo em conta a sua prática generalizada na contratação colectiva, e a regulação flexível de períodos de trabalho semanais para trabalhadores alojados e não alojados, de acordo, aliás, com o previsto na Lei n.º 2/91, de 17 de Janeiro. Por último, inserem-se prescrições gerais relativas à segurança e saúde no trabalho doméstico.\n\nForam ouvidas as entidades representativas dos trabalhadores, nos termos da lei, sendo, porém, que na ponderação dos respectivos contributos houve de atender à circunstância de o objecto e o sentido do presente diploma se acharem já estabelecidos na Lei n.º 12/92, de 16 de Julho, este também objecto de audição dos representantes dos trabalhadores.\n\nAssim:\n\nNo uso da autorização concedida pela Lei n.º 12/92, de 16 de Julho, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "106546992": {
+   "fragment_id": "106547160",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime das relações de trabalho emergentes do contrato de serviço doméstico."
+  },
+  "106546993": {
+   "fragment_id": "106547161",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição\n\n1 - Contrato de serviço doméstico é aquele pelo qual uma pessoa se obriga, mediante retribuição, a prestar a outrem, com carácter regular, sob a sua direcção e autoridade, actividades destinadas à satisfação das necessidades próprias ou específicas de um agregado familiar, ou equiparado, e dos respectivos membros, nomeadamente:\n\na) Confecção de refeições;\n\nb) Lavagem e tratamento de roupas;\n\nc) Limpeza e arrumo de casa;\n\nd) Vigilância e assistência a crianças, pessoas idosas e doentes;\n\ne) Tratamento de animais domésticos;\n\nf) Execução de serviços de jardinagem;\n\ng) Execução de serviços de costura;\n\nh) Outras actividades consagradas pelos usos e costumes;\n\ni) Coordenação e supervisão de tarefas do tipo das mencionadas neste número;\n\nj) Execução de tarefas externas relacionadas com as anteriores.\n\n2 - O regime previsto no presente diploma aplica-se, com as necessárias adaptações, à prestação das actividades referidas no número anterior a pessoas colectivas de fins não lucrativos, ou a agregados familiares, por conta daquelas, desde que não abrangidas por regime legal ou convencional.\n\n3 - Não se considera serviço doméstico a prestação de trabalhos com carácter acidental, a execução de uma tarefa concreta de frequência intermitente ou o desempenho de trabalhos domésticos em regime au pair, de autonomia ou de voluntariado social."
+  },
+  "106546994": {
+   "fragment_id": "106547162",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Forma\n\nO contrato de serviço doméstico não está sujeito a forma especial, salvo no caso de contrato a termo."
+  },
+  "106546995": {
+   "fragment_id": "106547163",
+   "type": 11,
+   "heading": "Artigo 4.º — Idade mínima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Idade mínima\n\n1 - Só podem ser admitidos a prestar serviço doméstico os menores que já tenham completado 16 anos de idade.\n\n2 - A admissão de menores deve ser comunicada pela entidade empregadora, no prazo de 90 dias, à Inspecção-Geral do Trabalho, com a indicação dos seguintes elementos:\n\na) Nome e idade do menor;\n\nb) Nome e morada do representante legal;\n\nc) Local da prestação de trabalho;\n\nd) Duração diária e semanal do trabalho;\n\ne) Retribuição;\n\nf) Número de beneficiário da segurança social."
+  },
+  "106546996": {
+   "fragment_id": "106547164",
+   "type": 11,
+   "heading": "Artigo 5.º — Contrato a termo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contrato a termo\n\n1 - Ao contrato de serviço doméstico pode ser aposto termo, certo ou incerto, quando se verifique a natureza transitória ou temporária do trabalho a prestar.\n\n2 - O contrato de serviço doméstico pode ainda ser celebrado a termo certo quando as partes assim o convencionarem, desde que a sua duração, incluindo as renovações, não seja superior a um ano.\n\n3 - Nas situações previstas no n.º 1, na falta de estipulação escrita do prazo considera-se que o contrato é celebrado pelo período em que persistir o motivo determinante.\n\n4 - A não verificação dos requisitos de justificação, quando exigidos, ou a falta de redução a escrito, no caso do n.º 2, tornam nula a estipulação do termo."
+  },
+  "106546997": {
+   "fragment_id": "106547165",
+   "type": 11,
+   "heading": "Artigo 6.º — Renovação do contrato a termo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Renovação do contrato a termo\n\n1 - O contrato de trabalho a termo certo pode ser objecto de duas renovações, considerando-se o contrato renovado se o trabalhador continuar ao serviço para além do prazo estabelecido.\n\n2 - Se o trabalhador continuar ao serviço da entidade empregadora após o decurso de 15 dias sobre a data do termo da última renovação do contrato ou da verificação do evento que, nos termos do n.º 1 do artigo anterior, justificou a sua celebração, o contrato converte-se em contrato sem termo."
+  },
+  "106546998": {
+   "fragment_id": "106547166",
+   "type": 11,
+   "heading": "Artigo 7.º — Modalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Modalidades\n\n1 - O contrato de serviço doméstico pode ser celebrado com ou sem alojamento e com ou sem alimentação.\n\n2 - Entende-se por alojado, para os efeitos deste diploma, o trabalhador doméstico cuja retribuição em espécie compreenda a prestação de alojamento ou de alojamento e alimentação.\n\n3 - O contrato de serviço doméstico pode ser celebrado a tempo inteiro ou a tempo parcial."
+  },
+  "106546999": {
+   "fragment_id": "106547167",
+   "type": 11,
+   "heading": "Artigo 8.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Período experimental\n\n1 - No contrato de serviço doméstico há um período experimental de 90 dias, salvo estipulação escrita por via da qual seja eliminado ou reduzido.\n\n2 - Durante o período experimental, qualquer das partes pode fazer cessar o contrato, sem aviso prévio ou alegação de justa causa, não havendo lugar a qualquer indemnização.\n\n3 - No caso de cessação do contrato durante o período experimental, deve ser concedido ao trabalhador alojado um prazo não inferior a vinte e quatro horas para abandono do alojamento.\n\n4 - O período experimental conta para efeitos de antiguidade."
+  },
+  "106547000": {
+   "fragment_id": "106547168",
+   "type": 11,
+   "heading": "Artigo 9.º — Conceito e modalidades de retribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conceito e modalidades de retribuição\n\n1 - Só se considera retribuição aquilo a que o trabalhador tem direito como contrapartida do seu trabalho, nos termos da lei ou do contrato.\n\n2 - A retribuição do trabalhador pode ser paga parte em dinheiro e parte em espécie, designadamente pelo fornecimento de alojamento e alimentação ou só alojamento ou apenas alimentação.\n\n3 - Sempre que no dia de descanso semanal ou feriado a entidade empregadora não conceda refeição ao trabalhador alojado, nem permita a sua confecção com géneros por aquela fornecidos, o trabalhador tem direito a receber o valor correspondente à alimentação em espécie, que acrescerá à retribuição em numerário."
+  },
+  "106547001": {
+   "fragment_id": "106547169",
+   "type": 11,
+   "heading": "Artigo 10.º — Tempo de cumprimento e limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Tempo de cumprimento e limites\n\n1 - A obrigação de satisfazer a retribuição em dinheiro vence-se, salvo estipulação em contrário, no termo da unidade de tempo que servir de base para a sua fixação.\n\n2 - A remuneração mínima garantida para o trabalhador de serviço doméstico é a fixada em diploma especial.\n\n3 - Para efeitos de cálculo das várias prestações, compensações e indemnizações estabelecidas no presente diploma, o valor total da retribuição será expresso em dinheiro."
+  },
+  "106547002": {
+   "fragment_id": "106547170",
+   "type": 11,
+   "heading": "Artigo 11.º — Cálculo de valor diário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cálculo de valor diário\n\nA determinação do valor diário da retribuição deve efectuar-se dividindo o montante desta por 30, por 15 ou por 7, consoante tenha sido fixada com referência ao mês, à quinzena ou à semana, respectivamente."
+  },
+  "106547003": {
+   "fragment_id": "106547171",
+   "type": 11,
+   "heading": "Artigo 12.º — Subsídio de Natal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Subsídio de Natal\n\n1 - O trabalhador do serviço doméstico tem direito a um subsídio de Natal não inferior a 50% da parcela pecuniária da retribuição correspondente a um mês, o qual deve ser pago até ao dia 22 de Dezembro de cada ano.\n\n2 - Quando o trabalhador perfaça cinco anos de antiguidade, o montante do subsídio previsto no número anterior será igual à retribuição correspondente a um mês.\n\n3 - O subsídio de Natal é proporcional ao tempo de trabalho prestado no ano da sua concessão."
+  },
+  "106547004": {
+   "fragment_id": "106547172",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Duração do trabalho\n\n1 - O período normal de trabalho semanal não pode ser superior a quarenta e quatro horas.\n\n2 - No caso dos trabalhadores alojados apenas são considerados, para efeitos do número anterior, os tempos de trabalho efectivo.\n\n3 - Quando exista acordo do trabalhador, o período normal de trabalho pode ser observado em termos médios."
+  },
+  "106547005": {
+   "fragment_id": "106547173",
+   "type": 11,
+   "heading": "Artigo 14.º — Intervalos para refeições e descanso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Intervalos para refeições e descanso\n\n1 - O trabalhador alojado tem direito, em cada dia, a gozar de intervalos para refeições e descanso, sem prejuízo das funções de vigilância e assistência a prestar ao agregado familiar.\n\n2 - O trabalhador alojado tem direito a um repouso nocturno de, pelo menos, oito horas consecutivas, que não deve ser interrompido, salvo por motivos graves, imprevistos ou de força maior, ou quando tenha sido contratado para assistir a doentes ou crianças até aos 3 anos.\n\n3 - A organização dos intervalos para refeições e descanso é estabelecida por acordo ou, na falta deste, fixada pelo empregador dentro dos períodos consagrados para o efeito pelos usos."
+  },
+  "106547006": {
+   "fragment_id": "106547174",
+   "type": 11,
+   "heading": "Artigo 15.º — Descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Descanso semanal\n\n1 - O trabalhador não alojado a tempo inteiro e o trabalhador alojado têm direito, sem prejuízo da retribuição, ao gozo de um dia de descanso semanal.\n\n2 - Pode ser convencionado entre as partes o gozo de meio dia ou de um dia completo de descanso, além do dia de descanso semanal previsto no número anterior.\n\n3 - O dia de descanso semanal deve coincidir com o domingo, podendo recair em outro dia da semana, quando motivos sérios e não regulares da vida do agregado familiar o justifiquem."
+  },
+  "106547007": {
+   "fragment_id": "106550875",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito a férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Direito a férias\n\n1 - O trabalhador de serviço doméstico tem direito, em cada ano civil, a um período de férias remuneradas de 22 dias úteis.\n\n2 - O direito a férias vence-se no dia 1 de Janeiro de cada ano, salvo quando a antiguidade do trabalhador ao serviço do empregador for inferior a seis meses, caso em que só se vence no fim deste período.\n\n3 - Quando o início do exercício de funções ocorra no 1.º trimestre do ano civil, o trabalhador tem direito, após o decurso do período experimental, a um período de férias de oito dias úteis, a gozar até 31 de Dezembro do ano da admissão.\n\n4 - O trabalhador contratado a prazo inferior a um ano tem direito a um período de férias equivalente a dois dias úteis por cada mês completo.\n\n5 - Para efeitos de férias, a contagem dos dias úteis compreende os dias da semana de segunda a sexta-feira, com a exclusão dos feriados, não sendo como tal considerados o sábado e o domingo."
+  },
+  "106547008": {
+   "fragment_id": "106550876",
+   "type": 11,
+   "heading": "Artigo 17.º — Retribuição durante as férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Retribuição durante as férias\n\n1 - A retribuição correspondente ao período de férias não pode ser inferior à que o trabalhador perceberia se estivesse em serviço efectivo.\n\n2 - O trabalhador contratado com alojamento e alimentação ou só com alimentação tem direito a receber a retribuição correspondente ao período de férias integralmente em dinheiro, no valor equivalente àquelas prestações, salvo se, por acordo, se mantiver o direito às mesmas durante o período de férias.\n\n3 - Para efeitos do número anterior, os valores do alojamento e da alimentação são os determinados por referência ao valor da remuneração mínima garantida para os trabalhadores do serviço doméstico, nos termos da respectiva legislação."
+  },
+  "106547009": {
+   "fragment_id": "106550877",
+   "type": 11,
+   "heading": "Artigo 18.º — Subsídio de férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Subsídio de férias\n\nO trabalhador tem direito a receber, até ao início das férias, um subsídio em numerário de montante igual ao valor da remuneração correspondente ao período de férias."
+  },
+  "106547010": {
+   "fragment_id": "106550878",
+   "type": 11,
+   "heading": "Artigo 19.º — Férias não gozadas por cessação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Férias não gozadas por cessação do contrato\n\n1 - Cessando o contrato de trabalho, o trabalhador tem direito a receber a retribuição e o subsídio correspondentes a um período de férias proporcional ao tempo de serviço prestado no ano da cessação.\n\n2 - Se o contrato cessar antes do gozo do período de férias vencido nesse ano, o trabalhador tem direito a receber a retribuição e o subsídio correspondentes a esse período.\n\n3 - O período de férias a que se refere o número anterior, embora não gozado, conta para efeitos de antiguidade."
+  },
+  "106547011": {
+   "fragment_id": "106550879",
+   "type": 11,
+   "heading": "Artigo 20.º — Gozo e marcação de férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Gozo e marcação de férias\n\n1 - As férias devem ser gozadas no decurso do ano civil em que se vencem, podendo, por acordo, ser gozadas em dois períodos interpolados, sem que, neste caso, qualquer dos períodos possa ter duração inferior a 10 dias úteis consecutivos.\n\n2 - A marcação do período de férias deve ser feita por acordo entre a entidade empregadora e o trabalhador.\n\n3 - Na falta de acordo, cabe à entidade empregadora fixar as férias no período que medeia entre 1 de Maio e 31 de Outubro."
+  },
+  "106547012": {
+   "fragment_id": "106550880",
+   "type": 11,
+   "heading": "Artigo 21.º — Violação do direito a férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Violação do direito a férias\n\nNo caso de a entidade empregadora obstar ao gozo das férias nos termos previstos no presente diploma, o trabalhador tem direito a receber, a título de indemnização, o dobro da retribuição correspondente ao período em falta, que deverá, obrigatoriamente, ser gozado no 1.º trimestre do ano civil subsequente."
+  },
+  "106547013": {
+   "fragment_id": "106550881",
+   "type": 11,
+   "heading": "Artigo 22.º — Irrenunciabilidade do direito a férias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Irrenunciabilidade do direito a férias\n\nO direito a férias é irrenunciável e o seu gozo efectivo não pode ser substituído por qualquer compensação económica ou outra, ainda que com o acordo do trabalhador."
+  },
+  "106547014": {
+   "fragment_id": "106550882",
+   "type": 11,
+   "heading": "Artigo 23.º — Faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Faltas\n\n1 - Falta é a ausência do trabalhador durante o período normal de trabalho a que está obrigado.\n\n2 - As faltas podem ser justificadas ou injustificadas, nos termos do regime geral do contrato individual de trabalho.\n\n3 - As faltas podem ser descontadas na retribuição paga em dinheiro, salvo quando motivadas por casamento, falecimento do cônjuge e de parentes ou afins, com referência aos limites e graus de parentesco consagrados na regulamentação geral do contrato individual de trabalho."
+  },
+  "106547015": {
+   "fragment_id": "106550883",
+   "type": 11,
+   "heading": "Artigo 24.º — Feriados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Feriados\n\n1 - O trabalhador alojado e o não alojado a tempo inteiro têm direito, sem prejuízo da retribuição, ao gozo dos feriados obrigatórios previstos no regime geral do contrato individual de trabalho.\n\n2 - Com o acordo do trabalhador pode haver prestação de trabalho de duração normal nos feriados obrigatórios, que deve ser compensado com tempo livre, por um período correspondente, a gozar na mesma semana ou na seguinte.\n\n3 - Quando, por razões de atendível interesse do agregado familiar, não seja viável a compensação com tempo livre, o trabalhador tem direito à remuneração correspondente.\n\n4 - Os trabalhadores de serviço doméstico cuja retribuição seja fixada com referência à semana, à quinzena ou ao mês não podem sofrer redução na retribuição por motivo do gozo de feriados obrigatórios."
+  },
+  "106547016": {
+   "fragment_id": "106550884",
+   "type": 11,
+   "heading": "Artigo 25.º — Suspensão do contrato de trabalho por impedimento prolongado respeitante ao trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Suspensão do contrato de trabalho por impedimento prolongado respeitante ao trabalhador\n\n1 - Quando o trabalhador esteja temporariamente impedido de prestar trabalho por facto que não lhe seja imputável, nomeadamente doença ou acidente, e o impedimento se prolongue por mais de um mês, cessam os direitos, deveres e garantias das partes, na medida em que pressuponham a efectiva prestação de trabalho, sem prejuízo da observância das disposições aplicáveis na legislação sobre segurança social ou outra.\n\n2 - O tempo de suspensão conta para efeitos de antiguidade, mantendo-se os direitos, deveres e garantias das partes, na medida em que não pressuponham a efectiva prestação de trabalho.\n\n3 - Terminado o impedimento, o trabalhador deve, dentro de 10 dias, apresentar-se à entidade empregadora para retomar o serviço, sob pena de se considerar abandono do trabalho, com consequente cessação do contrato de trabalho.\n\n4 - Sendo o contrato sujeito a termo, a suspensão não impede a sua caducidade pela verificação daquele."
+  },
+  "106547017": {
+   "fragment_id": "106550885",
+   "type": 11,
+   "heading": "Artigo 26.º — Segurança e saúde no trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Segurança e saúde no trabalho\n\n1 - A entidade empregadora deve tomar as medidas necessárias para que os locais de trabalho, os utensílios, os produtos e os processos de trabalho não apresentem riscos para a segurança e saúde do trabalhador, nomeadamente:\n\na) Informar o trabalhador sobre o modo de funcionamento e conservação dos equipamentos utilizados na execução das suas tarefas;\n\nb) Promover a reparação de utensílios, e equipamentos cujo deficiente funcionamento possa constituir risco para a segurança e saúde do trabalhador;\n\nc) Assegurar a identificação dos recipientes que contenham produtos que apresentem grau de toxicidade ou possam causar qualquer tipo de lesão e fornecer as instruções necessárias à sua adequada utilização;\n\nd) Fornecer, em caso de necessidade, vestuário e equipamento de protecção adequados, a fim de prevenir, na medida do possível, dos riscos de acidente e ou de efeitos prejudiciais à saúde dos trabalhadores;\n\ne) Proporcionar, quando for o caso, alojamento e alimentação em condições que salvaguardem a higiene e saúde dos trabalhadores.\n\n2 - O trabalhador deve zelar pela manutenção das condições de segurança e de saúde, nomeadamente:\n\na) Cumprir as prescrições de segurança e saúde determinadas pela entidade empregadora;\n\nb) Utilizar correctamente os equipamentos, utensílios, e produtos postos à sua disposição;\n\nc) Comunicar imediatamente à entidade empregadora as avarias e deficiências relativas aos equipamentos e utensílios postos à sua disposição.\n\n3 - A entidade empregadora deve transferir a responsabilidade pela reparação dos danos emergentes de acidente de trabalho para entidades legalmente autorizadas a fazer este seguro."
+  },
+  "106547018": {
+   "fragment_id": "106550886",
+   "type": 11,
+   "heading": "Artigo 27.º — Cessação do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cessação do contrato\n\nO contrato de serviço doméstico pode cessar:\n\na) Por acordo das partes;\n\nb) Por caducidade;\n\nc) Por rescisão de qualquer das partes, ocorrendo justa causa;\n\nd) Por rescisão unilateral do trabalhador, com pré-aviso."
+  },
+  "106547019": {
+   "fragment_id": "106550887",
+   "type": 11,
+   "heading": "Artigo 28.º — Cessação do contrato por caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Cessação do contrato por caducidade\n\n1 - O contrato de serviço doméstico caduca nos casos previstos neste diploma e nos termos gerais de direito, nomeadamente:\n\na) Verificando-se o seu termo;\n\nb) Verificando-se a impossibilidade superveniente, absoluta e definitiva de o trabalhador prestar o seu trabalho ou de o empregador o receber;\n\nc) Verificando-se manifesta insuficiência económica do empregador, superveniente à celebração do contrato;\n\nd) Ocorrendo alteração substancial das circunstâncias de vida familiar do empregador que torne imediata e praticamente impossível a subsistência da relação de trabalho;\n\ne) Com a reforma do trabalhador por velhice ou invalidez.\n\n2 - Para efeitos da alínea b) do número anterior, considera-se definitivo o impedimento cuja duração seja superior a seis meses ou, antes de expirado este prazo, quando haja a certeza ou se preveja com segurança que o impedimento terá duração superior.\n\n3 - No caso previsto na alínea d) do n.º 1, o trabalhador terá direito a uma compensação de valor correspondente à retribuição de um mês por cada três anos de serviço, até ao limite de cinco, independentemente da retribuição por inteiro do mês em que se verificar a caducidade do contrato.\n\n4 - Quando se dê a caducidade do contrato a termo celebrado com trabalhador alojado, a este será concedido um prazo de três dias para abandono do alojamento."
+  },
+  "106547020": {
+   "fragment_id": "106550888",
+   "type": 11,
+   "heading": "Artigo 29.º — Rescisão com justa causa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Rescisão com justa causa\n\n1 - Constitui justa causa de rescisão qualquer facto ou circunstância que impossibilite a manutenção, atenta a natureza especial da relação em causa, do contrato de serviço doméstico.\n\n2 - Ocorrendo justa causa, qualquer das partes pode pôr imediatamente termo ao contrato.\n\n3 - No momento da rescisão do contrato devem ser referidos pela parte que o rescinde, expressa e inequivocamente, por escrito, os factos e circunstâncias que a fundamentem.\n\n4 - A existência de justa causa será apreciada tendo sempre em atenção o carácter das relações entre as partes, nomeadamente a natureza dos laços de convivência do trabalhador com o agregado familiar a que presta serviço."
+  },
+  "106547021": {
+   "fragment_id": "106550889",
+   "type": 11,
+   "heading": "Artigo 30.º — Justa causa de rescisão por parte do empregador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Justa causa de rescisão por parte do empregador\n\nConstituem justa causa de despedimento por parte do empregador, entre outros, os seguintes factos e comportamentos do trabalhador:\n\na) Desobediência ilegítima às ordens dadas pelo empregador ou outros membros do agregado familiar;\n\nb) Desinteresse repetido pelo cumprimento, com a diligência devida, das obrigações inerentes ao exercício das funções que lhe estejam cometidas;\n\nc) Provocação repetida de conflitos com outro ou outros trabalhadores ao serviço da entidade empregadora;\n\nd) Lesão de interesses patrimoniais sérios do empregador ou do agregado familiar;\n\ne) Faltas não justificadas ao trabalho que determinem prejuízos ou riscos sérios para o empregador ou para o agregado familiar ou, independentemente de qualquer prejuízo ou risco, quando o número de faltas injustificadas atingir em cada ano 5 seguidas ou 10 interpoladas;\n\nf) Falta culposa da observância de normas de segurança e saúde no trabalho;\n\ng) Prática de violências físicas, de injúrias ou de outras ofensas sobre a entidade empregadora, membros do agregado familiar, outros trabalhadores ao serviço do empregador e pessoas das relações do agregado familiar;\n\nh) Reduções anormais da produtividade do trabalhador;\n\ni) Falsas declarações relativas à justificação de faltas;\n\nj) Quebra de sigilo sobre qualquer assunto de que tenha conhecimento em virtude da convivência decorrente da natureza do contrato e de cuja revelação possa resultar prejuízo para a honra, bom nome ou património do agregado familiar;\n\nl) Manifesta falta de urbanidade no trato habitual com os membros do agregado familiar, designadamente as crianças e os idosos, ou com outras pessoas que, regular ou acidentalmente, sejam recebidas na família;\n\nm) Introdução abusiva no domicílio do agregado familiar de pessoas estranhas ao mesmo, sem autorização ou conhecimento prévio do empregador ou de quem o substitua;\n\nn) Recusa em prestar contas de dinheiros que lhe tenham sido confiados para compras ou pagamentos ou infidelidade na prestação dessas contas;\n\no) Hábitos ou comportamentos que não se coadunem com o ambiente normal do agregado familiar ou tendam a afectar gravemente a respectiva saúde ou qualidade de vida;\n\np) Negligência reprovável ou reiterada na utilização de aparelhagem electrodoméstica, utensílios de serviço, louças, roupas e objectos incluídos no recheio da habitação, quando daí resulte avaria, quebra ou inutilização que impliquem dano grave para o empregador."
+  },
+  "106547022": {
+   "fragment_id": "106550890",
+   "type": 11,
+   "heading": "Artigo 31.º — Indemnização por despedimento com alegação insubsistente de justa causa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Indemnização por despedimento com alegação insubsistente de justa causa\n\n1 - O despedimento decidido com alegação de justa causa e que venha a ser judicialmente declarado insubsistente, não havendo acordo quanto à reintegração do trabalhador, confere a este o direito a uma indemnização correspondente à retribuição de um mês por cada ano completo de serviço ou fracção, decorrido até à data em que tenha sido proferido o despedimento, nos casos de contrato sem termo ou com termo incerto, e às retribuições vincendas, nos casos de contrato com termo certo.\n\n2 - Quando se prove dolo do empregador, o valor da indemnização prevista no número anterior será agravado até ao dobro."
+  },
+  "106547023": {
+   "fragment_id": "106550891",
+   "type": 11,
+   "heading": "Artigo 32.º — Rescisão com justa causa pelo trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Rescisão com justa causa pelo trabalhador\n\n1 - O trabalhador poderá rescindir o contrato com justa causa nas situações seguintes:\n\na) Necessidade de cumprir obrigações legais incompatíveis com a continuação ao serviço;\n\nb) Falta culposa de pagamento pontual da retribuição, na forma devida;\n\nc) Lesão culposa de interesses patrimoniais do trabalhador ou ofensa à sua honra ou dignidade;\n\nd) Falta culposa quanto às condições proporcionadas ao trabalhador, nomeadamente alimentação, segurança e salubridade, em termos de acarretar prejuízo sério para a sua saúde;\n\ne) Aplicação de sanção abusiva;\n\nf) Mudança de residência permanente do empregador para outra localidade;\n\ng) Quebra de sigilo sobre assuntos de carácter pessoal do trabalhador;\n\nh) Manifesta falta de urbanidade no trato habitual com o trabalhador por parte do empregador ou dos membros do agregado familiar;\n\ni) Violação culposa das garantias do trabalhador previstas no presente diploma ou no contrato de trabalho.\n\n2 - A cessação do contrato nos termos das alíneas b) a e) do número anterior confere ao trabalhador o direito a indemnização de valor correspondente a um mês de retribuição por cada ano completo de serviço ou fracção."
+  },
+  "106547024": {
+   "fragment_id": "106550892",
+   "type": 11,
+   "heading": "Artigo 33.º — Rescisão do contrato pelo trabalhador, com aviso prévio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Rescisão do contrato pelo trabalhador, com aviso prévio\n\n1 - O trabalhador tem direito a rescindir o contrato, devendo propô-lo por escrito, com aviso prévio de duas semanas por cada ano de serviço ou fracção, não sendo, porém, obrigatório aviso prévio superior a seis semanas.\n\n2 - Se o trabalhador não cumprir, total ou parcialmente, o prazo do aviso prévio, pagará ao empregador, a título de indemnização, o valor da retribuição correspondente ao período do aviso prévio em falta.\n\n3 - A obrigação a que se refere o número anterior poderá ser satisfeita por compensação com créditos de retribuição."
+  },
+  "106547025": {
+   "fragment_id": "106550893",
+   "type": 11,
+   "heading": "Artigo 34.º — Abandono do trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Abandono do trabalho\n\n1 - Considera-se abandono do trabalho a ausência do trabalhador ao serviço acompanhada de factos que, com toda a probabilidade, revelem a intenção de o não retomar.\n\n2 - Presume-se abandono do trabalho a ausência do trabalhador ao serviço num período de 10 dias sem que a entidade empregadora tenha recebido comunicação do motivo da ausência.\n\n3 - A presunção estabelecida no número anterior pode ser ilidida pelo trabalhador mediante prova da ocorrência de motivo de força maior impeditivo da comunicação da ausência.\n\n4 - O abandono do trabalho vale como rescisão do contrato e constitui o trabalhador na obrigação de indemnizar a entidade empregadora de acordo com o estabelecido no artigo anterior.\n\n5 - A cessação do contrato só é invocável pela entidade empregadora após comunicação registada, com aviso de recepção, para a última morada conhecida do trabalhador."
+  },
+  "106547026": {
+   "fragment_id": "106550894",
+   "type": 11,
+   "heading": "Artigo 35.º — Documentos a entregar ao trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Documentos a entregar ao trabalhador\n\n1 - Todos os pagamentos em numerário devem constar de documento que titule terem sido recebidas as prestações correspondentes, as quais devem ser nele discriminadas.\n\n2 - Ao cessar o contrato de trabalho por qualquer das formas previstas no presente diploma, a entidade empregadora deve passar ao trabalhador, caso este o solicite, certificado donde conste o tempo durante o qual esteve ao seu serviço e a retribuição auferida.\n\n3 - O certificado só poderá conter outras referências quando tal for expressamente requerido pelo trabalhador."
+  },
+  "106547027": {
+   "fragment_id": "106550895",
+   "type": 11,
+   "heading": "Artigo 36.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Sanções\n\n1 - As infracções ao preceituado no presente diploma serão punidas nos termos da regulamentação geral do contrato individual de trabalho.\n\n2 - Constitui contra-ordenação, punida com coima de 10000$00 a 50000$00, a violação do disposto no n.º 2 do artigo 4.º\n\n3 - O produto das coimas reverte para o Instituto de Gestão Financeira da Segurança Social."
+  },
+  "106547028": {
+   "fragment_id": "106550896",
+   "type": 11,
+   "heading": "Artigo 37.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 508/80, de 21 de Outubro."
+  },
+  "106547029": {
+   "fragment_id": "106550897",
+   "type": 11,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nO presente diploma entra em vigor decorridos 60 dias após a sua publicação."
+  },
+  "123540907": {
+   "fragment_id": "106547171",
+   "type": 11,
+   "heading": "Artigo 12.º — Subsídio de Natal",
+   "in_force_from": "1992-12-23",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 174/92 - Diário da República n.º 252/1992, 2º Suplemento, Série I-A de 1992-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/174-1992-340976), em vigor a partir de 1992-12-23"
+   ],
+   "markdown": "###### Artigo 12.º — Subsídio de Natal\n\n1 - O trabalhador do serviço doméstico tem direito a um subsídio de Natal não inferior a 50% da parcela pecuniária da retribuição correspondente a um mês, o qual deve ser pago até ao dia 22 de Dezembro de cada ano.\n\n2 - Quando o trabalhador perfaça três anos de antiguidade, o montante do subsídio previsto no número anterior será igual à retribuição correspondente a um mês.\n\n3 - O subsídio de Natal é proporcional ao tempo de trabalho prestado no ano da sua concessão.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 174/92 - Diário da República n.º 252/1992, 2º Suplemento, Série I-A de 1992-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/174-1992-340976), em vigor a partir de 1992-12-23"
+  },
+  "106547030": {
+   "fragment_id": "106550898",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.\n\nPromulgado em 6 de Outubro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Outubro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "123540908": {
+   "fragment_id": "106550895",
+   "type": 11,
+   "heading": "Artigo 36.º — Contra-ordenações",
+   "in_force_from": "1999-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 36.º — Contra-ordenações\n\n1 - Constitui contra-ordenação muito grave a violação do n.º 1 do artigo 4.º\n\n2 - Constitui contra-ordenação grave a violação do n.º 1 do artigo 10.º, do n.º 1 do artigo 13.º, do n.º 1 do artigo 15.º, do n.º 1 do artigo 16.º, do artigo 18.º, do n.º 1 do artigo 24.º, dos n.os 1 e 3 do artigo 26.º, do n.º 3 do artigo 28.º, bem como do n.º 3 do artigo 29.º no caso de a rescisão do contrato de trabalho ser efectuada pelo empregador.\n\n3 - Constitui contra-ordenação leve a violação do n.º 2 do artigo 4.º e do artigo 35.º\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "211390845": {
+   "fragment_id": "106547163",
+   "type": 11,
+   "heading": "Artigo 4.º — Idade mínima",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 4.º — Idade mínima\n\n1 - Só podem ser admitidos a prestar serviço doméstico os menores que já tenham completado 16 anos de idade.\n\n2 - A admissão de menores deve ser comunicada pela entidade empregadora, no prazo de 90 dias, à Inspecção-Geral do Trabalho, com a indicação dos seguintes elementos:\n\na) Nome e idade do menor;\n\nb) Nome e morada do representante legal;\n\nc) Local da prestação de trabalho;\n\nd) Duração diária e semanal do trabalho;\n\ne) Retribuição;\n\nf) Número de beneficiário da segurança social.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390843": {
+   "fragment_id": "106547167",
+   "type": 11,
+   "heading": "Artigo 8.º — Período experimental",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 8.º — Período experimental\n\n1 - [Revogado.]\n\n2 - [Revogado.]\n\n3 - No caso de cessação do contrato durante o período experimental, deve ser concedido ao trabalhador alojado um prazo não inferior a vinte e quatro horas para abandono do alojamento.\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390844": {
+   "fragment_id": "106547169",
+   "type": 11,
+   "heading": "Artigo 10.º — Tempo de cumprimento e limites",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 10.º — Tempo de cumprimento e limites\n\n1 - A obrigação de satisfazer a retribuição em dinheiro vence-se, salvo estipulação em contrário, no termo da unidade de tempo que servir de base para a sua fixação.\n\n2 - [Revogado.]\n\n3 - Para efeitos de cálculo das várias prestações, compensações e indemnizações estabelecidas no presente diploma, o valor total da retribuição será expresso em dinheiro.\n\n> Alterado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390846": {
+   "fragment_id": "106547171",
+   "type": 11,
+   "heading": "Artigo 12.º — Subsídio de Natal",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01",
+    "Retificado pelo/a [Declaração de Rectificação n.º 174/92 - Diário da República n.º 252/1992, 2º Suplemento, Série I-A de 1992-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/174-1992-340976), em vigor a partir de 1992-12-23"
+   ],
+   "markdown": "###### Artigo 12.º — Subsídio de Natal\n\n1 - O trabalhador do serviço doméstico tem direito a um subsídio de Natal não inferior a 50% da parcela pecuniária da retribuição correspondente a um mês, o qual deve ser pago até ao dia 22 de Dezembro de cada ano.\n\n2 - Quando o trabalhador perfaça três anos de antiguidade, o montante do subsídio previsto no número anterior será igual à retribuição correspondente a um mês.\n\n3 - O subsídio de Natal é proporcional ao tempo de trabalho prestado no ano da sua concessão.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01\n\n> Retificado pelo/a [Declaração de Rectificação n.º 174/92 - Diário da República n.º 252/1992, 2º Suplemento, Série I-A de 1992-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/174-1992-340976), em vigor a partir de 1992-12-23"
+  },
+  "211390832": {
+   "fragment_id": "106547172",
+   "type": 11,
+   "heading": "Artigo 13.º — Duração do trabalho",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 13.º — Duração do trabalho\n\n1 - O período normal de trabalho semanal não pode ser superior a 40 horas.\n\n2 - No caso dos trabalhadores alojados apenas são considerados, para efeitos do número anterior, os tempos de trabalho efectivo.\n\n3 - Quando exista acordo do trabalhador, o período normal de trabalho pode ser observado em termos médios dentro dos limites previstos no Código do Trabalho.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390833": {
+   "fragment_id": "106547173",
+   "type": 11,
+   "heading": "Artigo 14.º — Intervalos para refeições e descanso",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 14.º — Intervalos para refeições e descanso\n\n1 - O trabalhador de serviço doméstico tem direito, em cada dia, a gozar de intervalos para refeições e descanso, sem prejuízo das funções de vigilância e assistência a prestar ao agregado familiar.\n\n2 - Sem prejuízo do disposto no Código do Trabalho, relativamente ao trabalho de menor, o trabalhador alojado tem direito a um repouso noturno de, pelo menos, onze horas consecutivas, que não deve ser interrompido, salvo por motivos graves, imprevistos ou de força maior, ou quando tenha sido contratado para assistir a doentes ou crianças até aos três anos.\n\n3 - A organização dos intervalos para refeições e descanso é estabelecida por acordo ou, na falta deste, fixada pelo empregador dentro dos limites previstos no Código do Trabalho.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390847": {
+   "fragment_id": "106550875",
+   "type": 11,
+   "heading": "Artigo 16.º — Direito a férias",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 16.º — Direito a férias\n\n1 - O trabalhador de serviço doméstico tem direito, em cada ano civil, a um período de férias remuneradas de 22 dias úteis.\n\n2 - O direito a férias vence-se no dia 1 de Janeiro de cada ano, salvo quando a antiguidade do trabalhador ao serviço do empregador for inferior a seis meses, caso em que só se vence no fim deste período.\n\n3 - Quando o início do exercício de funções ocorra no 1.º trimestre do ano civil, o trabalhador tem direito, após o decurso do período experimental, a um período de férias de oito dias úteis, a gozar até 31 de Dezembro do ano da admissão.\n\n4 - O trabalhador contratado a prazo inferior a um ano tem direito a um período de férias equivalente a dois dias úteis por cada mês completo.\n\n5 - Para efeitos de férias, a contagem dos dias úteis compreende os dias da semana de segunda a sexta-feira, com a exclusão dos feriados, não sendo como tal considerados o sábado e o domingo.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390834": {
+   "fragment_id": "106550876",
+   "type": 11,
+   "heading": "Artigo 17.º — Retribuição durante as férias",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 17.º — Retribuição durante as férias\n\n1 - A retribuição correspondente ao período de férias não pode ser inferior à que o trabalhador perceberia se estivesse em serviço efectivo.\n\n2 - O trabalhador contratado com alojamento e alimentação ou só com alimentação tem direito a receber a retribuição correspondente ao período de férias integralmente em dinheiro, no valor equivalente àquelas prestações, salvo se, por acordo, se mantiver o direito às mesmas durante o período de férias.\n\n3 - Para efeitos do número anterior, os valores do alojamento e da alimentação são os determinados por referência ao valor da remuneração mínima mensal garantida.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390848": {
+   "fragment_id": "106550877",
+   "type": 11,
+   "heading": "Artigo 18.º — Subsídio de férias",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 18.º — Subsídio de férias\n\nO trabalhador tem direito a receber, até ao início das férias, um subsídio em numerário de montante igual ao valor da remuneração correspondente ao período de férias.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390849": {
+   "fragment_id": "106550878",
+   "type": 11,
+   "heading": "Artigo 19.º — Férias não gozadas por cessação do contrato",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 19.º — Férias não gozadas por cessação do contrato\n\n1 - Cessando o contrato de trabalho, o trabalhador tem direito a receber a retribuição e o subsídio correspondentes a um período de férias proporcional ao tempo de serviço prestado no ano da cessação.\n\n2 - Se o contrato cessar antes do gozo do período de férias vencido nesse ano, o trabalhador tem direito a receber a retribuição e o subsídio correspondentes a esse período.\n\n3 - O período de férias a que se refere o número anterior, embora não gozado, conta para efeitos de antiguidade.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390850": {
+   "fragment_id": "106550879",
+   "type": 11,
+   "heading": "Artigo 20.º — Gozo e marcação de férias",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 20.º — Gozo e marcação de férias\n\n1 - As férias devem ser gozadas no decurso do ano civil em que se vencem, podendo, por acordo, ser gozadas em dois períodos interpolados, sem que, neste caso, qualquer dos períodos possa ter duração inferior a 10 dias úteis consecutivos.\n\n2 - A marcação do período de férias deve ser feita por acordo entre a entidade empregadora e o trabalhador.\n\n3 - Na falta de acordo, cabe à entidade empregadora fixar as férias no período que medeia entre 1 de Maio e 31 de Outubro.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390851": {
+   "fragment_id": "106550880",
+   "type": 11,
+   "heading": "Artigo 21.º — Violação do direito a férias",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 21.º — Violação do direito a férias\n\nNo caso de a entidade empregadora obstar ao gozo das férias nos termos previstos no presente diploma, o trabalhador tem direito a receber, a título de indemnização, o dobro da retribuição correspondente ao período em falta, que deverá, obrigatoriamente, ser gozado no 1.º trimestre do ano civil subsequente.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390852": {
+   "fragment_id": "106550881",
+   "type": 11,
+   "heading": "Artigo 22.º — Irrenunciabilidade do direito a férias",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 22.º — Irrenunciabilidade do direito a férias\n\nO direito a férias é irrenunciável e o seu gozo efectivo não pode ser substituído por qualquer compensação económica ou outra, ainda que com o acordo do trabalhador.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390853": {
+   "fragment_id": "106550882",
+   "type": 11,
+   "heading": "Artigo 23.º — Faltas",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 23.º — Faltas\n\n1 - Falta é a ausência do trabalhador durante o período normal de trabalho a que está obrigado.\n\n2 - As faltas podem ser justificadas ou injustificadas, nos termos do regime geral do contrato individual de trabalho.\n\n3 - As faltas podem ser descontadas na retribuição paga em dinheiro, salvo quando motivadas por casamento, falecimento do cônjuge e de parentes ou afins, com referência aos limites e graus de parentesco consagrados na regulamentação geral do contrato individual de trabalho.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390835": {
+   "fragment_id": "106550883",
+   "type": 11,
+   "heading": "Artigo 24.º — Feriados",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 24.º — Feriados\n\n1 - Os trabalhadores do serviço doméstico têm direito, sem prejuízo da retribuição, ao gozo dos feriados previstos no Código do Trabalho.\n\n2 - Sem prejuízo do disposto no Código do Trabalho quanto ao trabalho de menor, com o acordo do trabalhador pode haver prestação de trabalho nos feriados, de duração igual ao período normal de trabalho diário, conferindo o direito a um descanso compensatório remunerado, a gozar na mesma semana ou na seguinte.\n\n3 - Quando, por razões de atendível interesse do agregado familiar, não seja viável o descanso compensatório nos termos do número anterior, o trabalhador tem direito à remuneração correspondente.\n\n4 - Os trabalhadores de serviço doméstico não podem sofrer redução na retribuição por motivo do gozo de feriados.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390854": {
+   "fragment_id": "106550884",
+   "type": 11,
+   "heading": "Artigo 25.º — Suspensão do contrato de trabalho por impedimento prolongado respeitante ao trabalhador",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 25.º — Suspensão do contrato de trabalho por impedimento prolongado respeitante ao trabalhador\n\n1 - Quando o trabalhador esteja temporariamente impedido de prestar trabalho por facto que não lhe seja imputável, nomeadamente doença ou acidente, e o impedimento se prolongue por mais de um mês, cessam os direitos, deveres e garantias das partes, na medida em que pressuponham a efectiva prestação de trabalho, sem prejuízo da observância das disposições aplicáveis na legislação sobre segurança social ou outra.\n\n2 - O tempo de suspensão conta para efeitos de antiguidade, mantendo-se os direitos, deveres e garantias das partes, na medida em que não pressuponham a efectiva prestação de trabalho.\n\n3 - Terminado o impedimento, o trabalhador deve, dentro de 10 dias, apresentar-se à entidade empregadora para retomar o serviço, sob pena de se considerar abandono do trabalho, com consequente cessação do contrato de trabalho.\n\n4 - Sendo o contrato sujeito a termo, a suspensão não impede a sua caducidade pela verificação daquele.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390836": {
+   "fragment_id": "106550887",
+   "type": 11,
+   "heading": "Artigo 28.º — Cessação do contrato por caducidade",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 28.º — Cessação do contrato por caducidade\n\n1 - O contrato de serviço doméstico caduca nos casos previstos neste diploma e nos termos gerais de direito, nomeadamente:\n\na) [Revogada.]\n\nb) [Revogada.]\n\nc) Verificando-se manifesta insuficiência económica do empregador, superveniente à celebração do contrato;\n\nd) Ocorrendo alteração substancial das circunstâncias de vida familiar do empregador que torne imediata e praticamente impossível a subsistência da relação de trabalho, designadamente quando tenha cessado a necessidade de assistência para a qual o trabalhador foi contratado;\n\ne) [Revogada.]\n\n2 - [Revogado.]\n\n3 - No caso previsto na alínea d) do n.º 1, o trabalhador terá direito a uma compensação de valor correspondente à retribuição de um mês por cada três anos de serviço, até ao limite de cinco, independentemente da retribuição por inteiro do mês em que se verificar a caducidade do contrato.\n\n4 - Quando se dê a caducidade do contrato a termo celebrado com trabalhador alojado, a este será concedido um prazo de três dias para abandono do alojamento.\n\n5 - Nas situações previstas nas alíneas c) e d) do n.º 1, a cessação do contrato deve ser comunicada ao trabalhador, com a indicação dos motivos em que a mesma se fundamenta, com a antecedência mínima de:\n\na) 7 dias, caso o contrato tenha durado até 6 meses;\n\nb) 15 dias, caso o contrato tenha durado de 6 meses a 2 anos;\n\nc) 30 dias, caso o contrato tenha durado por período superior a 2 anos.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390837": {
+   "fragment_id": "106550889",
+   "type": 11,
+   "heading": "Artigo 30.º — Justa causa de rescisão por parte do empregador",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 30.º — Justa causa de rescisão por parte do empregador\n\nConstitui justa causa de despedimento por parte do empregador, entre outros, os seguintes factos e comportamentos culposos por parte do trabalhador:\n\na) Desobediência ilegítima às ordens dadas pelo empregador ou outros membros do agregado familiar;\n\nb) Desinteresse repetido pelo cumprimento, com a diligência devida, das obrigações inerentes ao exercício das funções que lhe estejam cometidas;\n\nc) Provocação repetida de conflitos com outro ou outros trabalhadores ao serviço da entidade empregadora;\n\nd) Lesão de interesses patrimoniais sérios do empregador ou do agregado familiar;\n\ne) Faltas não justificadas ao trabalho que determinem prejuízos ou riscos sérios para o empregador ou para o agregado familiar ou, independentemente de qualquer prejuízo ou risco, quando o número de faltas injustificadas atingir em cada ano 5 seguidas ou 10 interpoladas;\n\nf) Falta culposa da observância de normas de segurança e saúde no trabalho;\n\ng) Prática de violências físicas, de injúrias ou de outras ofensas sobre a entidade empregadora, membros do agregado familiar, outros trabalhadores ao serviço do empregador e pessoas das relações do agregado familiar;\n\nh) Reduções anormais da produtividade do trabalhador;\n\ni) Falsas declarações relativas à justificação de faltas;\n\nj) Quebra de sigilo sobre qualquer assunto de que tenha conhecimento em virtude da convivência decorrente da natureza do contrato e de cuja revelação possa resultar prejuízo para a honra, bom nome ou património do agregado familiar;\n\nl) Manifesta falta de urbanidade no trato habitual com os membros do agregado familiar, designadamente as crianças e os idosos, ou com outras pessoas que, regular ou acidentalmente, sejam recebidas na família;\n\nm) Introdução abusiva no domicílio do agregado familiar de pessoas estranhas ao mesmo, sem autorização ou conhecimento prévio do empregador ou de quem o substitua;\n\nn) Recusa em prestar contas de dinheiros que lhe tenham sido confiados para compras ou pagamentos ou infidelidade na prestação dessas contas;\n\no) Hábitos ou comportamentos que não se coadunem com o ambiente normal do agregado familiar ou tendam a afectar gravemente a respectiva saúde ou qualidade de vida;\n\np) Negligência reprovável ou reiterada na utilização de aparelhagem electrodoméstica, utensílios de serviço, louças, roupas e objectos incluídos no recheio da habitação, quando daí resulte avaria, quebra ou inutilização que impliquem dano grave para o empregador.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390838": {
+   "fragment_id": "106550891",
+   "type": 11,
+   "heading": "Artigo 32.º — Rescisão com justa causa pelo trabalhador",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 32.º — Rescisão com justa causa pelo trabalhador\n\n1 - O trabalhador poderá rescindir o contrato com justa causa nas situações seguintes:\n\na) Necessidade de cumprir obrigações legais incompatíveis com a continuação ao serviço;\n\nb) Falta culposa de pagamento pontual da retribuição, na forma devida;\n\nc) Lesão culposa de interesses patrimoniais do trabalhador ou ofensa à sua honra ou dignidade;\n\nd) Falta culposa quanto às condições proporcionadas ao trabalhador, nomeadamente alimentação, segurança e salubridade, em termos de acarretar prejuízo sério para a sua saúde;\n\ne) Aplicação de sanção abusiva;\n\nf) Mudança de residência permanente do empregador para outra localidade;\n\ng) Quebra de sigilo sobre assuntos de carácter pessoal do trabalhador;\n\nh) Manifesta falta de urbanidade no trato habitual com o trabalhador por parte do empregador ou dos membros do agregado familiar;\n\ni) Violação culposa das garantias legais ou constantes do contrato de trabalho, designadamente a prática de assédio pelo empregador, outros membros do agregado familiar ou por outros trabalhadores.\n\n2 - A cessação do contrato nos termos das alíneas b) a e) e g) a i) do número anterior confere ao trabalhador o direito a indemnização de valor correspondente a um mês de retribuição por cada ano completo de serviço ou fração.\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390855": {
+   "fragment_id": "106550893",
+   "type": 11,
+   "heading": "Artigo 34.º — Abandono do trabalho",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 34.º — Abandono do trabalho\n\n1 - Considera-se abandono do trabalho a ausência do trabalhador ao serviço acompanhada de factos que, com toda a probabilidade, revelem a intenção de o não retomar.\n\n2 - Presume-se abandono do trabalho a ausência do trabalhador ao serviço num período de 10 dias sem que a entidade empregadora tenha recebido comunicação do motivo da ausência.\n\n3 - A presunção estabelecida no número anterior pode ser ilidida pelo trabalhador mediante prova da ocorrência de motivo de força maior impeditivo da comunicação da ausência.\n\n4 - O abandono do trabalho vale como rescisão do contrato e constitui o trabalhador na obrigação de indemnizar a entidade empregadora de acordo com o estabelecido no artigo anterior.\n\n5 - A cessação do contrato só é invocável pela entidade empregadora após comunicação registada, com aviso de recepção, para a última morada conhecida do trabalhador.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390856": {
+   "fragment_id": "106550894",
+   "type": 11,
+   "heading": "Artigo 35.º — Documentos a entregar ao trabalhador",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 35.º — Documentos a entregar ao trabalhador\n\n1 - Todos os pagamentos em numerário devem constar de documento que titule terem sido recebidas as prestações correspondentes, as quais devem ser nele discriminadas.\n\n2 - Ao cessar o contrato de trabalho por qualquer das formas previstas no presente diploma, a entidade empregadora deve passar ao trabalhador, caso este o solicite, certificado donde conste o tempo durante o qual esteve ao seu serviço e a retribuição auferida.\n\n3 - O certificado só poderá conter outras referências quando tal for expressamente requerido pelo trabalhador.\n\n> Revogado pelo/a Artigo 33.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390839": {
+   "fragment_id": "106550895",
+   "type": 11,
+   "heading": "Artigo 36.º — Contra-ordenações",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01",
+    "Alterado pelo/a Artigo 3.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+   ],
+   "markdown": "###### Artigo 36.º — Contra-ordenações\n\n1 - Constitui contraordenação muito grave a violação do disposto no n.º 1 do artigo 9.º\n\n2 - Constitui contraordenação grave a violação do n.º 1 do artigo 10.º, do n.º 1 do artigo 13.º, dos n.os 1 e 2 do artigo 14.º, do n.º 1 do artigo 15.º, dos n.os 1 e 2 do artigo 24.º, dos n.os 1 e 3 do artigo 26.º, do n.º 3 do artigo 28.º e do n.º 3 do artigo 29.º no caso de a rescisão do contrato de trabalho ser efetuada pelo empregador.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 6.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01\n\n> Alterado pelo/a Artigo 3.º do/a [Lei n.º 114/99 - Diário da República n.º 179/1999, Série I-A de 1999-08-03](https://diariodarepublica.pt/dr/detalhe/lei/114-1999-345122), em vigor a partir de 1999-12-01"
+  },
+  "211390840": {
+   "fragment_id": "211393791",
+   "type": 11,
+   "heading": "Artigo 37.º-A — Aplicação subsidiária",
+   "in_force_from": "2023-05-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 17.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+   ],
+   "markdown": "###### Artigo 37.º-A — Aplicação subsidiária\n\nÀs relações emergentes do contrato de serviço doméstico aplicam-se as normas do Código do Trabalho em tudo o que não esteja previsto no presente regime.\n\n> Aditado pelo/a Artigo 17.º do/a [Lei n.º 13/2023 - Diário da República n.º 66/2023, Série I de 2023-04-03](https://diariodarepublica.pt/dr/detalhe/lei/13-2023-211340863), em vigor a partir de 2023-05-01"
+  },
+  "211390841": {
+   "fragment_id": "106550897",
+   "type": 11,
+   "heading": "Artigo 38.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Entrada em vigor\n\nO presente diploma entra em vigor decorridos 60 dias após a sua publicação."
+  },
+  "211390842": {
+   "fragment_id": "106550898",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Julho de 1992. - Aníbal António Cavaco Silva - Arlindo Gomes de Carvalho - José Albino da Silva Peneda.\n\nPromulgado em 6 de Outubro de 1992.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 9 de Outubro de 1992.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:405948:por
+title: Decreto Legislativo Regional n.º 3/2000/M
+short_title: null
+summary: Cria uma linha de crédito para a agricultura - 1999
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 3/2000/M
+official_date: null
+publication_date: '2000-01-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 25/2000, Série I-A de 2000-01-31
+  number: '25'
+  series: I
+  supplement: null
+  pages: 414 - 415
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/01/025a00/04140415.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/3/2000/01/31/m/dre/pt/html
+  oj: null
+  dre: '405948'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/3-2000-405948
+  internal: pt:dre:405948:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-405948
+  metadata_url: https://data.dre.pt/eli/declegreg/3/2000/01/31/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2000-405948
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-01-31T00:00:00Z'
+integrity:
+  source_sha256: f96e1f18b685b50a2a18f261bcd511cb600067df81645a3e57ce14b905e85cee
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2000/DRE-2000-3-405948.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Catástrofe
+- JURO Bonificado
+- Linha de Crédito
+- Exploração Agrícola
+- Agricultor
+- Madeira.região Autónoma
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 3/2000/M
+
+Cria uma linha de crédito para a agricultura - 1999
+
+Os ventos ciclónicos que se registaram em Janeiro de 1999, no território da Região Autónoma da Madeira, originaram graves prejuízos para a agricultura regional, nomeadamente ao nível das produções e das estruturas agrícolas.
+
+Porque as condições permanentes de natureza estrutural das empresas agrícolas regionais, tais como a dimensão da exploração e o tipo de cultura praticado, que determinam uma actividade de natureza familiar, não permitem a criação individual de um fundo de reserva para minimizar as consequências da destruição do aparelho produtivo, por ocorrências meteorológicas anormais, considera-se indispensável a criação de medidas de apoio destinadas à recuperação do potencial agrícola destruído.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 37.º da [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É criada uma linha de crédito bonificada para a disponibilização de meios financeiros aos agricultores cujas explorações agrícolas foram afectadas pelas adversidades climatéricas ocorridas na Região Autónoma da Madeira de 10 a 16 de Janeiro de 1999.
+
+###### Artigo 2.º — Montante
+
+1 - A linha de crédito bonificada criada por este diploma não poderá ultrapassar o montante global de 700000 contos.
+
+2 - O crédito a que se refere o número anterior será concedido sob a forma de empréstimos reembolsáveis e disponibilizado pelas instituições de crédito que para o efeito celebrem protocolos com o Governo da Região Autónoma da Madeira.
+
+###### Artigo 3.º — Acesso
+
+1 - Poderão aceder à linha de crédito bonificado todos os agricultores, cujas culturas se localizem no território da Região Autónoma da Madeira, que tenham sofrido uma quebra de produção de pelo menos 20% da sua produção normal.
+
+2 - Considera-se como produção normal a média de produção dos últimos três anos.
+
+###### Artigo 4.º — Condições dos empréstimos
+
+1 - O prazo dos empréstimos contraídos no âmbito da linha de crédito criada pelo presente diploma não poderá exceder quatro anos contados da data da primeira utilização.
+
+2 - A utilização dos empréstimos não poderá exceder um ano da data do contrato, com o limite de duas utilizações.
+
+3 - A amortização do capital será efectuada em prestações trimestrais de igual montante, com início até um ano após a data da primeira utilização.
+
+4 - Os juros serão contados dia a dia sobre o capital em dívida, à taxa de juro contratual, e serão calculados e pagos trimestral e postecipadamente. Durante o período de utilização, os juros serão contados sobre o capital efectivamente utilizado.
+
+###### Artigo 5.º — Bonificações
+
+1 - Os empréstimos contraídos no âmbito deste diploma beneficiam das seguintes bonificações de juros:
+
+a) 1.º ano: 100% da taxa de referência;
+
+b) 2.º ano: 80% da taxa de referência;
+
+c) 3.º ano: 60% da taxa de referência;
+
+d) 4.º ano: 40% da taxa de referência.
+
+2 - As bonificações previstas no número anterior serão calculadas com base na taxa de referência a que se refere o [Decreto-Lei n.º 359/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/359-1989-549393), de 18 de Outubro, salvo se a taxa de juro contratual for menor, caso em que a taxa de referência passará a ser igual a esta.
+
+###### Artigo 6.º — Cessação do processamento das bonificações
+
+1 - O processamento das bonificações previstas no artigo anterior cessa nas seguintes situações:
+
+a) Incumprimento por parte dos beneficiários da linha de crédito das obrigações contratuais assumidas;
+
+b) Prestação de falsas declarações na instrução do processo de adesão à linha de crédito;
+
+c) Amortização antecipada do capital em dívida.
+
+2 - Quando se verifique a situação prevista na alínea a) do número anterior, o beneficiário da linha de crédito em questão fica obrigado a restituir as bonificações que eventualmente tenham sido processadas posteriormente ao período de pagamento de juros imediatamente anterior ao do incumprimento.
+
+3 - Quando se verifique a situação prevista na alínea b) do n.º 1, o beneficiário da linha de crédito em questão fica obrigado a restituir todas as bonificações que tenham sido processadas até à data em que a irregularidade foi detectada.
+
+###### Artigo 7.º — Competências
+
+1 - Compete à Direcção Regional de Agricultura:
+
+a) A execução de todas as medidas e procedimentos necessários à correcta execução do disposto neste diploma;
+
+b) A análise e aprovação do processo de candidatura, bem como do respectivo contrato de empréstimo;
+
+c) O processamento e o pagamento das bonificações;
+
+d) A fiscalização física e contabilística da utilização dos empréstimos contraídos.
+
+2 - A Direcção Regional de Agricultura poderá solicitar às instituições de crédito e aos beneficiários da linha de crédito todos os esclarecimentos necessários à execução das competências que lhe são atribuídas.
+
+###### Artigo 8.º — Regulamentação
+
+Este diploma será regulamentado por portaria do Secretário Regional do Plano e da Coordenação e do Secretário Regional de Agricultura, Florestas e Pescas.
+
+###### Artigo 9.º — Cobertura orçamental
+
+Os encargos financeiros previstos neste diploma são suportados pelo Orçamento da Região Autónoma da Madeira, através da Secretaria Regional de Agricultura, Florestas e Pescas.
+
+###### Artigo 10.º — Vigência
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Sessão Plenária da Assembleia Legislativa Regional em 7 de Dezembro de 1999.
+
+**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival de Mendonça.**
+
+**Assinado em 5 de Janeiro de 2000.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**

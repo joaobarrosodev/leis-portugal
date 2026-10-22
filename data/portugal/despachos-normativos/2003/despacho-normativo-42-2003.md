@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:482397:por
+title: Despacho Normativo n.º 42/2003
+short_title: null
+summary: Estabelece o regime de envio, por transmissão electrónica de dados, de declarações de trânsito comunitário/comum
+  a apresentar à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 42/2003
+official_date: null
+publication_date: '2003-10-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 234/2003, Série I-B de 2003-10-09
+  number: '234'
+  series: I
+  supplement: null
+  pages: 6664 - 6665
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/10/234b00/66646665.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/42/2003/10/09/p/dre/pt/html
+  oj: null
+  dre: '482397'
+  dre_path: /dr/detalhe/despacho-normativo/42-2003-482397
+  internal: pt:dre:482397:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-2003-482397
+  metadata_url: https://data.dre.pt/eli/despnorm/42/2003/10/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-2003-482397
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-07-09T00:00:00Z'
+integrity:
+  source_sha256: 510e66b79aff05d238eb3aec9952472a958ca11e575f98947e928fa766f43e66
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-42-482397.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Tecnologia da Informação
+- Correio Electrónico
+- Documentação
+- Informatização
+- Sociedade da Informação
+- Documento Eletrónico
+- Internet
+- Sistema de Informação
+- Prazo
+- Prova
+- Trânsito
+- Trânsito Comunitário
+relationships:
+- type: amended_by
+  target: pt:dre:636183:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31992R2913
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2913/oj
+- type: cites
+  target: celex:31993R2454
+  label: null
+  source: http://data.europa.eu/eli/reg/1993/2454/oj
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 42/2003
+
+A Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), no âmbito do programa de informatização do regime de trânsito que vem desenvolvendo em parceria com a Comissão Europeia, disponibiliza um sistema informático para o envio e o tratamento automático de declarações de trânsito comunitário/comum, à semelhança dos desenvolvimentos paralelos, que ocorrem nas demais alfândegas comunitárias neste particular domínio.
+
+Tendo em vista incutir uma maior celeridade no processamento das formalidades de trânsito comunitário e obviar os elevados custos administrativos inerentes às operações de recolha de dados, urge criar os mecanismos que possibilitem uma maior adesão dos operadores à utilização das tecnologias de informação e da comunicação no seu relacionamento com a administração aduaneira.
+
+Para tanto, a DGAIEC, em conformidade com o previsto no Código Aduaneiro Comunitário, aprovado pelo Regulamento (CEE) n.º [2913/92](http://data.europa.eu/eli/reg/1992/2913/oj?locale=pt), do Conselho, de 12 de Outubro, e nas suas Disposições de Aplicação, aprovadas pelo Regulamento (CE) n.º [2454/93](http://data.europa.eu/eli/reg/1993/2454/oj?locale=pt), da Comissão, de 2 de Julho, faculta a possibilidade do envio de declarações através do EDI ou via Internet, consoante a opção do interessado, dando também assim execução ao Programa do Governo em matéria de sociedade de informação.
+
+Ainda de acordo com o previsto na citada regulamentação comunitária e na continuidade da linha de acção do Governo já assumida para outros sectores da Administração Pública, estabelece-se o regime de obrigatoriedade de envio, por transmissão electrónica de dados, em determinadas situações.
+
+Assim, ouvidas as entidades intervenientes, ao abrigo da alínea b) do artigo 61.º do Código Aduaneiro Comunitário, aprovado pelo Regulamento (CEE) n.º [2913/92](http://data.europa.eu/eli/reg/1992/2913/oj?locale=pt), de 12 de Outubro, do Conselho, e do n.º 1 do artigo 25.º do Decreto-Lei n.º 135/99, de 22 de Abril, a Ministra de Estado e das Finanças determina o seguinte:
+
+1 - As obrigações declarativas no âmbito do regime de trânsito comunitário/comum podem ser cumpridas por transmissão electrónica de dados.
+
+2 - Os operadores ou os seus representantes legalmente habilitados que optem por proceder ao envio electrónico das declarações devem proceder ao registo prévio para efeitos de atribuição de códigos de acesso.
+
+3 - As especificações inerentes ao registo, bem como as características do software, e demais aspectos relacionados, designadamente com o envio, consulta, rectificação e anulação de declarações de trânsito comunitário/comum e edição do documento de acompanhamento, constam no endereço www.dgaiec.gov.pt, relativo a «declarações electrónicas».
+
+4 - O registo dos representantes está condicionado à prova dos poderes de representação e será válido pelo período de tempo fixado na procuração ou até que a mesma seja revogada.
+
+5 - O envio da declaração é efectuado pela utilização de uma das seguintes modalidades:
+
+a) Intercâmbio de mensagens normalizadas EDI (electronic data interchange), em formato EDIFACT ou XML;
+
+b) Introdução dos dados através da aplicação web.
+
+6 - A declaração considera-se apresentada no momento do envio, o que desencadeia o controlo de validação e o respectivo tratamento automático.
+
+7 - O resultado do processamento automático é comunicado ao interessado através de mensagem electrónica de resposta, com a indicação do número e data do registo da declaração, que corresponde à aceitação, ou com a referência a erros detectados.
+
+8 - A autorização de saída é comunicada através de mensagem electrónica, que inclui a autorização para edição do documento de acompanhamento de trânsito, previsto no n.º 1 do artigo 358.º das Disposições de Aplicação do Código Aduaneiro Comunitário, aprovadas pelo Regulamento (CE) n.º [2454/93](http://data.europa.eu/eli/reg/1993/2454/oj?locale=pt), da Comissão.
+
+9 - Para as declarações de trânsito comunitário/comum enviadas por via electrónica fica dispensada a apresentação dos documentos de suporte da declaração, sem prejuízo de os mesmos deverem ser obrigatoriamente referenciados nos dados da declaração enviada e mantidos à disposição dos serviços aduaneiros.
+
+10 - Até à autorização de saída, os documentos relativos a cada uma das declarações enviadas devem ser conservados em boa ordem pela pessoa que efectua a declaração e, a partir do 5.º dia subsequente, deverão estar disponíveis e devidamente conservados no domicílio fiscal do responsável principal.
+
+11 - O prazo de conservação dos documentos referidos no número anterior é de três anos. Todavia, sempre que ocorra uma das causas que nos termos da lei geral tributária determine a suspensão ou a interrupção do prazo de caducidade ou de prescrição, aquele prazo deve ser ajustado em conformidade.
+
+12 - As obrigações declarativas no âmbito do regime de trânsito comunitário/comum são obrigatoriamente cumpridas por transmissão electrónica de dados quando o titular do regime, adiante designado por responsável principal, ou o destinatário, consoante o caso, beneficie ou queira beneficiar das seguintes medidas de simplificação:
+
+a) Utilização de uma garantia global com redução para 30% do montante de referência;
+
+b) Utilização de uma dispensa de garantia;
+
+c) Utilização de uma garantia global para a sujeição das mercadorias referidas no anexo n.º 44-C do Regulamento (CE) n.º [2454/93](http://data.europa.eu/eli/reg/1993/2454/oj?locale=pt), da Comissão, de 2 de Julho;
+
+d) Estatuto de expedidor autorizado;
+
+e) Estatuto de destinatário autorizado.
+
+13 - O regime da obrigatoriedade de envio é igualmente aplicável aos representantes directos das entidades referidas no número anterior.
+
+14 - Os operadores ou os seus representantes legalmente habilitados que adiram ao envio electrónico das declarações de trânsito comunitário/comum ficam vinculados a utilizá-lo em todas as operações de trânsito.
+
+15 - Sempre que por motivos de ordem técnica não for possível o cumprimento das obrigações declarativas por transmissão electrónica de dados, cabe à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo determinar as alternativas disponíveis.
+
+16 - O regime previsto no presente despacho entra em vigor no 1.º dia útil seguinte à data de publicação.
+
+Ministério das Finanças, 22 de Setembro de 2003. - Pela Ministra de Estado e das Finanças, Vasco Jorge Valdez Ferreira Matias, Secretário de Estado dos Assuntos Fiscais.

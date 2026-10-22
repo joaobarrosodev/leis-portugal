@@ -1,0 +1,376 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:693845:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-34578275",
+ "dre_path": "/dr/detalhe/decreto-lei/25-1991-693845",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1991-01-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51084975",
+    "51085075",
+    "51085175",
+    "51085275",
+    "51085375",
+    "51085475",
+    "51085575",
+    "51085675",
+    "51085775",
+    "51085875",
+    "51085975",
+    "51086075",
+    "51086175",
+    "51086275",
+    "51086375",
+    "51086475",
+    "51086575",
+    "51086675",
+    "51086775",
+    "51086875"
+   ]
+  },
+  {
+   "date": "1994-10-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:620702:por",
+     "title": "Decreto-Lei n.º 247/94",
+     "published": "1994-10-07",
+     "dre_path": "/dr/detalhe/decreto-lei/247-1994-620702"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 18.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 16.º"
+   ],
+   "fragments": [
+    "51084975",
+    "51438075",
+    "51438175",
+    "51438275",
+    "51085375",
+    "51085475",
+    "51085575",
+    "51438375",
+    "51438475",
+    "51438575",
+    "51439075",
+    "51438675",
+    "51086175",
+    "51438775",
+    "51086375",
+    "51438875",
+    "51439175",
+    "51086675",
+    "51438975",
+    "51086875",
+    "51086975"
+   ]
+  }
+ ],
+ "fragments": {
+  "51084975": {
+   "fragment_id": "35198075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O quadro legal das sociedades de desenvolvimento regional foi estabelecido pelo Decreto-Lei n.os 499/80, de 20 de Outubro. Desde a data da sua publicação, o sistema financeiro português conheceu profundas transformações, com particular incidência nos últimos quatro anos. Tais transformações prendem-se com a progressiva liberalização e a maior abertura dos mercados, num quadro de acelerada integração financeira a nível comunitário. Esta integração conheceu significativo aprofundamento com as decisões relativas ao mercado único dos serviços financeiros e sofrerá novo e decisivo impulso com a irreversível construção da união económica e monetária.\n\nEm consequência, alteraram-se significativamente as condições de competitividade e de equilíbrio concorrencial destas sociedades, pelo que se tornou indispensável a revisão profunda da sua regulamentação.\n\nPor outro lado, o papel acrescido da política de desenvolvimento regional, no contexto do reforço da coesão económica e social comunitária, traduz-se pela necessidade de aplicar e gerir de modo cada vez mais eficiente fundos públicos substancialmente acrescidos, visando a aceleração da convergência da economia portuguesa com a da Comunidade.\n\nNeste enquadramento surgem novas oportunidades de actuação para instituições financeiras vocacionadas para o desenvolvimento regional.\n\nPonderando os vários aspectos de ordem geral referidos, modifica-se consideravelmente no presente diploma a regulamentação vigente das sociedades de desenvolvimento regional, conferindo-lhes, designadamente, o estatuto de sociedades parabancárias, com uma actividade significativa no domínio do capital de risco e na prestação de serviços de apoio empresarial, de modo a dinamizar o investimento produtivo e a criar oportunidades de aplicação eficiente dos fundos comunitários e nacionais destinados ao desenvolvimento regional.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas dos Açores e da Madeira.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "51085075": {
+   "fragment_id": "36122475",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de desenvolvimento regional, abreviadamente designadas SDR, são instituições parabancárias que, nos termos do presente diploma, têm por objecto a promoção do investimento produtivo na área da respectiva região e por finalidade o apoio ao desenvolvimento económico e social da mesma."
+  },
+  "51085175": {
+   "fragment_id": "36122575",
+   "type": 11,
+   "heading": "Artigo 2.º — Forma e capital social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Forma e capital social\n\n1 - As SDR constituem-se sob a forma de sociedade anónima, devendo possuir um capital social não inferior a 600000 contos.\n\n2 - As acções representativas do capital social das SDR são nominativas e livremente transmissíveis, nos termos gerais de direito.\n\n3 - No acto de constituição da SDR o montante de capital estabelecido no n.º 1 deve estar realizado em, pelo menos, 80%, devendo o restante ser realizado no prazo máximo de um ano."
+  },
+  "51085275": {
+   "fragment_id": "36122675",
+   "type": 11,
+   "heading": "Artigo 3.º — Autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Autorização\n\n1 - A constituição da SDR depende de autorização, a conceder caso a caso, por portaria conjunta dos Ministros das Finanças e Planeamento e da Administração do Território, ouvido o Banco de Portugal.\n\n2 - O pedido de concessão de autorização deve ser apresentado no Banco de Portugal, acompanhado dos seguintes elementos:\n\na) Exposição fundamentada das razões de ordem económico-financeira justificativas da constituição da SDR, com indicação da sua adequação às orientações da política de desenvolvimento regional;\n\nb) Projecto de estatutos;\n\nc) Balanço previsional para cada um dos três primeiros anos de actividade;\n\nd) Declaração de compromisso de que no acto da constituição, e como condição da mesma, se mostrará depositado na Caixa Geral de Depósitos o montante do capital social realizado estabelecido no artigo anterior;\n\ne) Identificação pessoal e profissional dos accionistas outorgantes do pacto social, com especificação do capital por cada um subscrito, e exposição fundamentada da adequação da estrutura accionista à estabilidade da instituição;\n\nf) Parecer das comissões de coordenação regional das áreas abrangidos pela actividade da sociedade.\n\n3 - O Banco de Portugal poderá solicitar aos requerentes as informações ou elementos complementares e efectuar as averiguações que considere necessárias ou úteis à instrução do processo."
+  },
+  "51085375": {
+   "fragment_id": "36122775",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito territorial\n\n1 - As SDR exercem a sua actividade na área geográfica definida nos respectivos estatutos, determinada em função das características económico-sociais da região em causa e abrangendo uma ou mais unidades de nível III da Nomenclatura das Unidades Territoriais para Fins Estatísticos (NUTS) previstas no artigo 1.º do Decreto-Lei n.º 46/89, de 15 de Fevereiro.\n\n2 - Podem várias SDR cooperar na prossecução de certos objectivos comuns e na realização de empreendimentos que interessem às respectivas áreas de actuação, criando para o efeito, quando tal for considerado conveniente, serviços comuns de apoio e de coordenação de actividades."
+  },
+  "51085475": {
+   "fragment_id": "36122875",
+   "type": 11,
+   "heading": "Artigo 5.º — Sede e agências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Sede e agências\n\nAs SDR estabelecerão a sua sede num dos principais centros económico-administrativos da respectiva área geográfica, podendo instalar agências em localidades situadas nessa área."
+  },
+  "51085575": {
+   "fragment_id": "36122975",
+   "type": 11,
+   "heading": "Artigo 6.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objecto\n\n1 - As SDR, através da realização de operações financeiras e da prestação de serviços complementares, promovem a dinamização do investimento e das relações empresariais, tendo em vista o aproveitamento dos recursos endógenos e das potencialidades da respectiva área geográfica de actuação, em conformidade com os objectivos da política de desenvolvimento regional.\n\n2 - As SDR participam ainda, na medida dos meios técnicos e humanos disponíveis, com os órgãos competentes do Estado e das autarquias locais na prossecução dos objectivos de interesse regional, designadamente através das seguintes actividades:\n\na) Contribuição para a realização do desenvolvimento económico regional, em termos de preservação do equilíbrio ecológico e do património cultural e artístico da região, e da promoção de acções no âmbito do ordenamento do território, a par com a melhoria da qualidade de vida das populações e a criação de emprego;\n\nb) Participação no lançamento de parques industriais e de pólos de desenvolvimento regional e no fomento da cooperação intermunicipal;\n\nc) Divulgação de informações relevantes para o investimento e o desenvolvimento económico e social."
+  },
+  "51085675": {
+   "fragment_id": "36123075",
+   "type": 11,
+   "heading": "Artigo 7.º — Operações activas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Operações activas\n\n1 - No desenvolvimento da sua actividade podem as SDR efectuar as seguintes operações activas, tendo como beneficiários entidades com sede, estabelecimento principal ou actividade relevante na sua área geográfica:\n\na) Participar no capital de sociedades constituídas ou a constituir;\n\nb) Conceder a empresas crédito, a médio e a longo prazos, destinado ao financiamento do investimento em capital fixo, à recomposição do fundo de maneio ou à consolidação de passivos, neste último caso em conexão com as acções tendentes à reestruturação ou recuperação das empresas beneficiárias;\n\nc) Conceder crédito, a médio e a longo prazos, a profissionais livres para instalação na área da SDR ou para modernização ou renovação de equipamentos, quando se trate de especialidades de marcado interesse para a região;\n\nd) Adquirir créditos, por cessão ou sub-rogação, que hajam sido concedidos para fins idênticos aos indicados na alínea b);\n\ne) Prestar garantias bancárias que assegurem o cumprimento de obrigações assumidas para fins idênticos aos indicados na mesma alínea b);\n\nf) Adquirir obrigações e outros títulos de dívida negociáveis.\n\n2 - Na realização das operações a que se referem os números anteriores devem as SDR contribuir para a prossecução das orientações da política de desenvolvimento regional e ponderar as prioridades definidas no âmbito dessa política para a área geográfica em causa.\n\n3 - No prazo de três anos, contados a partir da data da sua constituição, as SDR deverão ter um mínimo equivalente a 75% dos fundos próprios aplicado em participações de capital social e obrigações convertíveis em acções em prazo não superior a um ano.\n\n4 - Em cada momento, pelo menos, 75% das participações das SDR noutras sociedades não poderão ter estado na sua titularidade, seguida ou interpoladamente, por um período superior a 12 anos.\n\n5 - O saldo das operações referidas nas alíneas b), c), d), e) e f) do n.º 1 não poderá ultrapassar em qualquer momento o montante equivalente a duas vezes e meia os fundos próprios da SDR.\n\n6 - Exceptuam-se do limite fixado no número anterior as obrigações convertíveis em acções.\n\n7 - São aplicáveis às SDR os limites à concentração de riscos em uma só entidade estabelecidos para as instituições de crédito."
+  },
+  "51085775": {
+   "fragment_id": "36123175",
+   "type": 11,
+   "heading": "Artigo 8.º — Prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Prestação de serviços\n\nCom vista, nomeadamente, à realização das atribuições indicadas no artigo 6.º, podem ainda as SDR prestar os serviços e efectuar as operações seguintes:\n\na) Apoiar o lançamento de novas empresas;\n\nb) Participar em acções tendentes à recuperação de empresas em deficiente situação económica ou financeira;\n\nc) Realizar estudos técnico-económicos de viabilidade de empresas ou de novos projectos de investimento, incluindo os que visem o acesso a sistemas de incentivos, a reestruturação e reorganização de empresas existentes, a promoção de mercados para o escoamento de produções regionais, a melhoria de processos de produção e a introdução de novas tecnologias, em termos de um eficaz aproveitamento dos recursos e factores produtivos locais;\n\nd) Proceder ao estudo das modalidades de financiamento mais adequadas à natureza dos empreendimentos referidos nas alíneas anteriores e promover a obtenção de crédito a médio e longo prazos junto de instituições de crédito ou estabelecimentos financeiros nacionais ou estrangeiros;\n\ne) Colaborar na procura dos parceiros mais convenientes para projectos de criação ou recuperação de empresas;\n\nf) Desenvolver, em colaboração, designadamente, com as comissões de coordenação regional, associações e núcleos empresariais, universidades e institutos politécnicos, estudos sectoriais e regionais, bem como a constituição de uma base de dados sobre as empresas e as oportunidades de negócio na região;\n\ng) Apoiar as autarquias locais que explorem serviços de interesse público, local ou regional, no estudo dos modelos de financiamento mais adequados, tendo em vista o lançamento de infra-estruturas e outros empreendimentos que contribuam para o desenvolvimento económico da respectiva área de actuação;\n\nh) Celebrar contratos de prestação de serviços com entidades promotores de empreendimentos ou responsáveis pela implementação de programas de carácter regional;\n\ni) Proceder à gestão técnica, administrativa e financeira das intervenções operacionais incluídas no quadro comunitário de apoio (QCA) para as intervenções estruturais comunitárias no território português, mediante a celebração de contratos-programa com o Estado, conforme o disposto no artigo 22.º do Decreto-Lei n.º 121-B/90, de 12 de Abril."
+  },
+  "51085875": {
+   "fragment_id": "36123275",
+   "type": 11,
+   "heading": "Artigo 9.º — Recursos alheios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recursos alheios\n\n1 - Para complemento dos respectivos fundos próprios podem as SDR obter recursos alheios através de:\n\na) Emissão de obrigações, de prazo não inferior a dois anos, até ao limite fixado no Código das Sociedades Comerciais;\n\nb) Financiamentos, por prazo não inferior a dois anos, concedidos por instituições de crédito ou parabancárias, até ao dobro dos fundos próprios da SDR;\n\nc) Crédito, na modalidade de conta corrente, por prazo inferior a dois anos, concedido por instituições de crédito, até ao limite máximo de 15% dos fundos próprios da SDR.\n\n2 - O montante de crédito não utilizado nos termos da alínea c) do número anterior poderá acrescer ao limite fixado na alínea b) do mesmo número."
+  },
+  "51085975": {
+   "fragment_id": "36123375",
+   "type": 11,
+   "heading": "Artigo 10.º — Fundos consignados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Fundos consignados\n\nAs SDR poderão receber e administrar fundos consignados a actividades de capital de risco sempre que os investimentos específicos a que se destinam sejam de reconhecido interesse para o desenvolvimento económico e social da respectiva área geográfica de actuação."
+  },
+  "51086075": {
+   "fragment_id": "36123475",
+   "type": 11,
+   "heading": "Artigo 11.º — Operações e actividades especialmente vedadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Operações e actividades especialmente vedadas\n\nFicam especialmente vedadas às SDR as seguintes operações e actividades:\n\na) O exercício directo de qualquer actividade agrícola, industrial ou comercial;\n\nb) A participação no capital social, a concessão de crédito e a prestação de garantias a quaisquer instituições de crédito ou parabancárias, bem como a sociedades cujo objecto compreenda a actividade de mediação sobre bens imóveis, a realização de empréstimos com garantia hipotecária ou a compra e venda, exploração ou administração de bens imóveis, exceptuada a exploração agrícola, turística, florestal ou cinegética;\n\nc) A aquisição ou posse de bens imóveis para além dos necessários às suas instalações, salvo quando lhes advenham por efeito de cessão de bens, dação em cumprimento, arrematação ou qualquer outro meio legal de cumprimento de obrigações ou destinado a assegurar esse cumprimento, devendo, em tais situações, proceder à respectiva alienação em prazo que só pode exceder dois anos se, em casos excepcionais, o Banco de Portugal o autorizar;\n\nd) A concessão de crédito ou a prestação de garantias, sob qualquer forma ou modalidade, aos membros dos seus órgãos sociais e aos seus directores, consultores, gerentes ou mandatários, bem como a empresas por eles directa ou indirectamente controladas."
+  },
+  "51086175": {
+   "fragment_id": "36123575",
+   "type": 11,
+   "heading": "Artigo 12.º — Operações vedadas às sociedades em cujo capital participem SDR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Operações vedadas às sociedades em cujo capital participem SDR\n\nÀ sociedade em cujo capital participe uma SDR é vedado, sob pena de nulidade do respectivo negócio, adquirir acções ou obrigações desta última."
+  },
+  "51086275": {
+   "fragment_id": "36123675",
+   "type": 11,
+   "heading": "Artigo 13.º — Reserva legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Reserva legal\n\nUma fracção não inferior a 10% dos lucros líquidos apurados em cada exercício deve ser destinada à formação de uma reserva legal das SDR até à concorrência do capital social."
+  },
+  "51086375": {
+   "fragment_id": "36123775",
+   "type": 11,
+   "heading": "Artigo 14.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Conselho consultivo\n\n1 - Para além dos órgãos previstos no Código das Sociedades Comerciais, existirá nas SDR um conselho consultivo, composto por:\n\na) O presidente do conselho de administração, que preside;\n\nb) O presidente da mesa da assembleia geral;\n\nc) O presidente do conselho fiscal;\n\nd) Um representante do Ministério do Planeamento e da Administração do Território, nomeado pelo Ministro, ouvidas as comissões de coordenação regional da respectiva área, ou um representante do governo regional, nomeado pelo respectivo presidente, quando a SDR tiver sede numa das regiões autónomas;\n\ne) Um representante das autarquias locais da área da actuação da SDR, nomeado pelo conselho da região da comissão de coordenação regional respectiva.\n\n2 - Os vogais mencionados nas alíneas d) e e) do número anterior exercem as suas funções por períodos de três anos, renováveis.\n\n3 - Sempre que o considere conveniente, o presidente do conselho consultivo pode convidar a fazerem-se representar, sem direito de voto, instituições ou sectores de actividade com relevância na economia regional.\n\n4 - O conselho consultivo reúne, ordinariamente, uma vez por semestre e, em reuniões extraordinárias, sempre que convocado pelo respectivo presidente.\n\n5 - Deve o conselho consultivo ser ouvido:\n\na) Aquando da apresentação dos relatórios da actividade da SDR e emitir parecer sobre a sua adequação às atribuições previstas no artigo 6.º do presente diploma;\n\nb) Sobre as orientações de estratégia global da SDR e sobre os problemas que lhe forem expressamente cometidos pelo seu presidente."
+  },
+  "51086475": {
+   "fragment_id": "36123875",
+   "type": 11,
+   "heading": "Artigo 15.º — Supervisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Supervisão\n\nAs SDR estão sujeitas à supervisão do Banco de Portugal."
+  },
+  "51086575": {
+   "fragment_id": "36123975",
+   "type": 11,
+   "heading": "Artigo 16.º — Contabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Contabilidade\n\n1 - A contabilidade das SDR será organizada segundo as normas e instruções do Banco de Portugal.\n\n2 - As contas anuais das SDR são obrigatoriamente sujeitas à revisão legal."
+  },
+  "51086675": {
+   "fragment_id": "36124075",
+   "type": 11,
+   "heading": "Artigo 17.º — SDR existente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — SDR existente\n\n1 - A SDR actualmente existente deve adaptar progressivamente a estrutura dos seus activos e passivos ao disposto no presente diploma, sendo-lhe vedado realizar quaisquer operações, designadamente recepção ou renovação de depósitos, que contrariem o regime nele estabelecido.\n\n2 - Os prazos fixados nos n.os 3 e 4 do artigo 7.º contam-se para a SDR em questão a partir da data da entrada em vigor deste diploma."
+  },
+  "51086775": {
+   "fragment_id": "36124175",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Regime jurídico\n\nAs SDR regem-se pelas normas do presente diploma, pela legislação aplicável ao conjunto das instituições parabancárias e ainda, subsidiariamente, pelas disposições que regulam a actividade das instituições de crédito, com as necessárias adaptações."
+  },
+  "51086875": {
+   "fragment_id": "36124275",
+   "type": 11,
+   "heading": "Artigo 19.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 499/80, de 20 de Outubro."
+  },
+  "51438075": {
+   "fragment_id": "36122475",
+   "type": 11,
+   "heading": "Artigo 1.º — Noção",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 1.º — Noção\n\nAs sociedades de desenvolvimento regional, abreviadamente designadas por SDR, são sociedades financeiras que, nos termos do presente diploma, têm por objecto a promoção do investimento produtivo na área da respectiva região e por finalidade o apoio ao desenvolvimento económico e social da mesma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438175": {
+   "fragment_id": "36122575",
+   "type": 11,
+   "heading": "Artigo 2.º — Forma e capital social",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 2.º — Forma e capital social\n\n1 - As SDR constituem-se sob a forma de sociedade anónima.\n\n2 - As acções representativas do capital social das SDR são nominativas ou ao portador registadas.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438275": {
+   "fragment_id": "36122675",
+   "type": 11,
+   "heading": "Artigo 3.º — Instrução do pedido de autorização",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 3.º — Instrução do pedido de autorização\n\nAlém dos elementos indicados na lei geral, o pedido de autorização para a constituição de uma SDR deve ser instruído com parecer das comissões de coordenação regional das áreas abrangidas pela actividade da sociedade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438375": {
+   "fragment_id": "36123075",
+   "type": 11,
+   "heading": "Artigo 7.º — Operações activas",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 7.º — Operações activas\n\n1 - No desenvolvimento da sua actividade podem as SDR efectuar as seguintes operações activas, tendo como beneficiários entidades com sede, estabelecimento principal ou actividade relevante na sua área geográfica:\n\na) Participar no capital de sociedades constituídas ou a constituir;\n\nb) Conceder a empresas crédito, a médio e a longo prazos, destinado ao financiamento do investimento em capital fixo, à recomposição do fundo de maneio ou à consolidação de passivos, neste último caso em conexão com as acções tendentes à reestruturação ou recuperação das empresas beneficiárias;\n\nc) Conceder crédito, a médio e a longo prazos, a profissionais livres para instalação na área da SDR ou para modernização ou renovação de equipamentos, quando se trate de especialidades de marcado interesse para a região;\n\nd) Adquirir créditos, por cessão ou sub-rogação, que hajam sido concedidos para fins idênticos aos indicados na alínea b);\n\ne) Prestar garantias bancárias que assegurem o cumprimento de obrigações assumidas para fins idênticos aos indicados na mesma alínea b);\n\nf) Adquirir obrigações e outros títulos de dívida negociáveis.\n\ng) Gerir fundos de capital de risco.\n\n2 - Na realização das operações a que se referem os números anteriores devem as SDR contribuir para a prossecução das orientações da política de desenvolvimento regional e ponderar as prioridades definidas no âmbito dessa política para a área geográfica em causa.\n\n3 - No fim do terceiro exercício completo posterior à sua constituição, as SDR deverão ter um mínimo equivalente a 60% dos fundos próprios aplicados em participações de capital social e obrigações convertíveis em acções em prazo não superior a um ano.\n\n4 - Nos casos de reforço do capital, realizado em dinheiro, o prazo previsto no número anterior renova-se até ao fim do segundo exercício seguinte, quanto ao montante do aumento.\n\n5 - Em cada momento, pelo menos, 75% das participações das SDR noutras sociedades não poderão ter estado na sua titularidade, seguida ou interpoladamente, por um período superior a 12 anos.\n\n6 - O saldo das operações referidas nas alíneas b), c), d), e) e f) do n.º 1 não poderá ultrapassar em qualquer momento o montante equivalente a duas vezes e meia os fundos próprios da SDR.\n\n7 - Exceptuam-se do limite fixado no número anterior as obrigações convertíveis em acções.\n\n8 - São aplicáveis às SDR os limites à concentração de riscos em uma só entidade estabelecidos para as instituições de crédito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438475": {
+   "fragment_id": "36123175",
+   "type": 11,
+   "heading": "Artigo 8.º — Prestação de serviços",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 8.º — Prestação de serviços\n\nCom vista, nomeadamente, à realização das atribuições indicadas no artigo 6.º, podem ainda as SDR prestar os serviços e efectuar as operações seguintes:\n\na) Apoiar o lançamento de novas empresas;\n\nb) Participar em acções tendentes à recuperação de empresas em deficiente situação económica ou financeira;\n\nc) Realizar estudos técnico-económicos de viabilidade de empresas ou de novos projectos de investimento, incluindo os que visem o acesso a sistemas de incentivos, a reestruturação e reorganização de empresas existentes, a promoção de mercados para o escoamento de produções regionais, a melhoria de processos de produção e a introdução de novas tecnologias, em termos de um eficaz aproveitamento dos recursos e factores produtivos locais;\n\nd) Proceder ao estudo das modalidades de financiamento mais adequadas à natureza dos empreendimentos referidos nas alíneas anteriores e promover a obtenção de crédito a médio e longo prazos junto de instituições de crédito ou estabelecimentos financeiros nacionais ou estrangeiros;\n\ne) Colaborar na procura dos parceiros mais convenientes para projectos de criação ou recuperação de empresas;\n\nf) Desenvolver, em colaboração, designadamente, com as comissões de coordenação regional, associações e núcleos empresariais, universidades e institutos politécnicos, estudos sectoriais e regionais, bem como a constituição de uma base de dados sobre as empresas e as oportunidades de negócio na região;\n\ng) Apoiar as autarquias locais que explorem serviços de interesse público, local ou regional, no estudo dos modelos de financiamento mais adequados, tendo em vista o lançamento de infra-estruturas e outros empreendimentos que contribuam para o desenvolvimento económico da respectiva área de actuação;\n\nh) Celebrar contratos de prestação de serviços com entidades promotores de empreendimentos ou responsáveis pela implementação de programas de carácter regional;\n\ni) Proceder à gestão técnica, administrativa e financeira das intervenções operacionais incluídas no quadro comunitário de apoio (QCA) para as intervenções estruturais comunitárias no território português, mediante a celebração de contratos-programa com o Estado, conforme o disposto no artigo 31.º do Decreto-Lei n.º 99/94, de 19 de Abril.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438575": {
+   "fragment_id": "36123275",
+   "type": 11,
+   "heading": "Artigo 9.º — Recursos alheios",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 9.º — Recursos alheios\n\n1 - Para complemento dos respectivos fundos próprios podem as SDR obter recursos alheios através de:\n\na) Emissão de obrigações, de prazo não inferior a dois anos, até ao limite fixado no Código das Sociedades Comerciais;\n\nb) Financiamentos, por prazo não inferior a dois anos, concedidos por instituições de crédito ou sociedades financeiras, até ao dobro dos fundos próprios da SDR;\n\nc) Crédito, na modalidade de conta corrente, por prazo inferior a dois anos, concedido por instituições de crédito, até ao limite máximo de 15% dos fundos próprios da SDR.\n\nd) Emissão de títulos de dívida de curto prazo regulados pelo Decreto-Lei n.º 181/92, de 22 de Agosto, com observância do limite fixado às sociedades comerciais.\n\n2 - O montante de crédito não utilizado nos termos da alínea c) do número anterior poderá acrescer ao limite fixado na alínea b) do mesmo número.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51439075": {
+   "fragment_id": "36123375",
+   "type": 11,
+   "heading": "Artigo 10.º — Fundos consignados",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 10.º — Fundos consignados\n\nAs SDR poderão receber e administrar fundos consignados a actividades de capital de risco sempre que os investimentos específicos a que se destinam sejam de reconhecido interesse para o desenvolvimento económico e social da respectiva área geográfica de actuação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438675": {
+   "fragment_id": "36123475",
+   "type": 11,
+   "heading": "Artigo 11.º — Operações e actividades especialmente vedadas",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 11.º — Operações e actividades especialmente vedadas\n\nFicam especialmente vedadas às SDR as seguintes operações e actividades:\n\na) O exercício directo de qualquer actividade agrícola, industrial ou comercial;\n\nb) A participação no capital social, a concessão de crédito e a prestação de garantias a quaisquer instituições de crédito ou sociedades financeiras, bem como a sociedades cujo objecto compreenda a actividade de mediação sobre bens imóveis, a compra e venda, exploração ou administração de bens imóveis, exceptuada a exploração agrícola, turística, florestal ou cinegética;\n\nc) A aquisição ou posse de bens imóveis para além dos necessários às suas instalações, salvo quando lhes advenham por efeito de cessão de bens, dação em cumprimento, arrematação ou qualquer outro meio legal de cumprimento de obrigações ou destinado a assegurar esse cumprimento, devendo, em tais situações, proceder à respectiva alienação em prazo que só pode exceder dois anos se, em casos excepcionais, o Banco de Portugal o autorizar;\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438775": {
+   "fragment_id": "36123675",
+   "type": 11,
+   "heading": "Artigo 13.º — Operações cambiais",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 13.º — Operações cambiais\n\nAs SDR podem realizar as operações cambiais necessárias ao exercício da sua actividade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438875": {
+   "fragment_id": "36123875",
+   "type": 11,
+   "heading": "Artigo 15.º — Regiões Autónomas",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 15.º — Regiões Autónomas\n\nNas Regiões Autónomas, as competências atribuídas pelo presente diploma às comissões de coordenação regional serão exercidas pelas entidades competentes dos respectivos Governos Regionais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51439175": {
+   "fragment_id": "36123975",
+   "type": 11,
+   "heading": "Artigo 16.º — Contabilidade",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 16.º — Contabilidade\n\n1 - A contabilidade das SDR será organizada segundo as normas e instruções do Banco de Portugal.\n\n2 - As contas anuais das SDR são obrigatoriamente sujeitas à revisão legal.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51438975": {
+   "fragment_id": "36124175",
+   "type": 11,
+   "heading": "Artigo 18.º — Regime jurídico",
+   "in_force_from": "1994-10-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+   ],
+   "markdown": "###### Artigo 18.º — Regime jurídico\n\nAs SDR regem-se pelas normas do presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/82, de 31 de Dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 247/94 - Diário da República n.º 232/1994, Série I-A de 1994-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/247-1994-620702), em vigor a partir de 1994-10-12"
+  },
+  "51086975": {
+   "fragment_id": "36124375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Outubro de 1990. - Aníbal António Cavaco Silva - Vasco Joaquim Rocha Vieira - Lino Dias Miguel - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.\n\nPromulgado em 14 de Dezembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 20 de Dezembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

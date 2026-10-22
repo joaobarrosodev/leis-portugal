@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:560018:por
+title: Decreto-Lei n.º 43550
+short_title: null
+summary: Determina que a taxa a que se referem os artigos 2.º e 3.º de Decreto-Lei n.º 40037 passe e incidir também sobre
+  e vinho que a Junta Nacional do Vinho adquira directamente aos produtores - Eleva para $10 a taxa estabelecida no artigo
+  3.º do referido decreto-lei
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado do Comércio
+proposing_entity: null
+official_number: '43550'
+official_date: null
+publication_date: '1961-03-21'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 66/1961, Série I de 1961-03-21
+  number: '66'
+  series: I
+  supplement: null
+  pages: 301 - 302
+  pdf_url: https://files.diariodarepublica.pt/1s/1961/03/06600/03010302.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '560018'
+  dre_path: /dr/detalhe/decreto-lei/43550-1961-560018
+  internal: pt:dre:560018:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43550-1961-560018
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-05-15T00:00:00Z'
+integrity:
+  source_sha256: 3519ff02f0c01d0f418eb592cc87c593f69f9f9fc353d38086359bd893b2745c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1961/DRE-1961-43550-560018.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:397133:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43550
+
+1. A fim de dotar a Junta Nacional do Vinho com os meios financeiros indispensáveis ao reajustamento económico dos preços e ao apetrechamento da produção por meio da extensão da rede de adegas cooperativas, foi criada pelo [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, uma taxa de $05, incidindo sobre o vinho de pasto ou de mesa vendido ao público na área da Junta Nacional do Vinho.
+
+2. A receita obtida com a cobrança da referida taxa mostra-se, porém, na actual conjuntura insuficiente para permitir a realização daquelas finalidades, dada a necessidade, por um lado, de intensificar a política de reajustamento de preços e, por outro, de fazer face aos onerosos encargos a que obriga o revigoramento económico da produção através da extensão da rede das adegas cooperativas e do aumento da capacidade de armazenagem de vinhos que assegure a eficiência da intervenção da Junta Nacional do Vinho.
+
+3. Para se atingir este objectivo tem de alargar-se o campo de incidência da taxa, fazendo-a recair sobre o vinho directamente entregue pela produção à Junta e de elevar-se de $05 a taxa até agora cobrada sobre o vinho vendido pelo comércio.
+
+4. Os novos meios financeiros postos à disposição da Junta resultam, de acordo com a Corporação da Lavoura, da participação da produção, visto que o aumento da taxa agora previsto e que incide sobre os vinhos entregues à Junta influenciará indirectamente o próprio preço de aquisição pelo comércio.
+
+5. O facto de haver transacções já realizadas no decorrer da presente campanha ocasionaria, porém, situações díspares se o regime proposto fosse imediatamente aplicado, uma vez que está em curso a intervenção da Junta Nacional do Vinho na campanha deste ano. Considera-se, por isso, conveniente que a lavoura seja isenta do pagamento da taxa à Junta Nacional do Vinho pelos vinhos que já tenham sido manifestados ao abrigo do regime de intervenção desta campanha.
+
+6. O regime do presente diploma deverá ser revisto logo que termine a execução dos planos de construção dos armazéns reguladores e de constituição das adegas cooperativas a cargo da Junta ou possam cessar as funções atribuídas a este organismo que justificam agora o estabelecimento destas providências.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º A taxa a que se referem os artigos 2.º e 3.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), de 18 de Janeiro de 1955, passará a incidir também sobre o vinho que a Junta Nacional do Vinho adquira directamente aos produtores.
+
+§ 1.º A cobrança da taxa referida neste artigo será feita directamente pela Junta aos produtores no acto da aquisição.
+
+§ 2.º O disposto no corpo deste artigo não é aplicável aos vinhos já manifestados para venda à Junta Nacional do Vinho, ao abrigo do regime de intervenção o em curso, mesmo quando não tenham sido ainda efectivamente adquiridos.
+
+###### Art. 2.º É elevado para $10 a taxa estabelecida no artigo 3.º do [Decreto-Lei n.º 40037](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40037-1955-539211), quando incida sobre o vinho de pasto ou de mesa para venda ao público em toda a área da Junta Nacional do Vinho e nas condições previstas nesse diploma.
+
+§ único. Os encargos da cobrança da taxa não poderão exceder 5 por cento do seu valor e serão estabelecidos por despacho do Secretário de Estado do Comércio.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 21 de Março de 1961. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

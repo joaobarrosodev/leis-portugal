@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:207237:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2002-937071521",
+ "dre_path": "/dr/detalhe/lei/17-2002-207237",
+ "source_lastmod": "2025-09-29",
+ "versions": [
+  {
+   "date": "2002-07-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "937049038",
+    "937049039",
+    "937049040",
+    "937049041",
+    "937049042",
+    "937049043",
+    "937049044",
+    "937049045",
+    "937049046",
+    "937049047",
+    "937049048",
+    "937049049",
+    "937049050"
+   ]
+  }
+ ],
+ "fragments": {
+  "937049038": {
+   "fragment_id": "937071522",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 17/2002\n\nde 15 de Julho\n\nAutoriza o Governo a legislar em matéria de propriedade industrial, aprovando um novo código e revogando a legislação em vigor nessa matéria.\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "937049039": {
+   "fragment_id": "937071523",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nÉ concedida ao Governo autorização para legislar sobre propriedade industrial, aprovando um novo código e revogando os diplomas em vigor respeitantes às matérias objecto do decreto-lei autorizado."
+  },
+  "937049040": {
+   "fragment_id": "937071524",
+   "type": 11,
+   "heading": "Artigo 2.º — Sentido e extensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Sentido e extensão\n\nO sentido e a extensão da autorização legislativa são os que constam dos artigos seguintes."
+  },
+  "937049041": {
+   "fragment_id": "937071525",
+   "type": 11,
+   "heading": "Artigo 3.º — Direitos privativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direitos privativos\n\n1 - No uso da presente autorização legislativa, o Governo pode legislar, em matéria de propriedade industrial, sobre:\n\na) O regime jurídico de protecção provisória decorrente da apresentação dos pedidos de patente, de modelo de utilidade e de registo;\n\nb) Os meios de prova dos direitos privativos de propriedade industrial;\n\nc) O mecanismo de restabelecimento de direitos, definindo os requisitos para a sua admissibilidade;\n\nd) A tramitação administrativa, para a concessão ou recusa dos direitos privativos de propriedade industrial, definindo quem tem legitimidade para a prática e promoção de actos, as regras relativas à prioridade, o regime de notificações, regulando o processo de oposição, prevendo a possibilidade de realização de vistorias e o respectivo enquadramento jurídico, disciplinando o processo de modificação oficiosa das decisões, fixando fundamentos gerais de recusa de protecção dos direitos e o regime de contagem dos prazos, bem como a forma de publicação dos actos;\n\ne) O regime jurídico de transmissão e licenças dos direitos privativos de propriedade industrial;\n\nf) O regime jurídico da invalidade, determinando os motivos e efeitos das suas diferentes modalidades e regulando o processo de declaração de nulidade e de anulação;\n\ng) O regime jurídico da caducidade e da renúncia aos direitos privativos de propriedade industrial;\n\nh) O recurso judicial, incluindo regras sobre decisões que o admitem, competência territorial dos tribunais de comércio, legitimidade, prazos, processo, graus de recurso e publicação das decisões judiciais;\n\ni) Os mecanismos extrajudiciais de resolução de litígios, nomeadamente o recurso arbitral;\n\nj) Os tribunais de marcas comunitárias, nos termos e para os efeitos dos artigos 91.º e seguintes do Regulamento (CE) n.º 40/94, do Conselho, de 20 de Dezembro de 1993.\n\n2 - No uso da presente autorização legislativa, pode o Governo ainda definir:\n\na) O conceito de invenção e o objecto, processo e vias de obtenção, efeitos, duração, condições de utilização e regime jurídico da invalidade de patentes e de modelos de utilidade, conteúdo e regras de titularidade dos direitos privativos correspondentes, bem como o processo para obtenção de certificados complementares de protecção para medicamentos e produtos fitofarmacêuticos;\n\nb) O conceito de topografia de produto semicondutor, o seu objecto e condições de utilização, bem como o processo de obtenção, efeitos, duração e regime jurídico da invalidade do respectivo registo e regras de titularidade do direito privativo correspondente;\n\nc) O conceito de desenho ou modelo, o seu objecto, processos de obtenção, efeitos, duração e regime de invalidade do respectivo registo, bem como o regime de protecção prévia e regras de titularidade do direito privativo correspondente;\n\nd) O objecto de marcas, recompensas, nomes e insígnias de estabelecimento, logótipos, denominações de origem e indicações geográficas, bem como o processo de obtenção, modalidades, efeitos, duração e regime jurídico de transmissão e licenças e de extinção dos respectivos registos e regras de titularidade dos direitos privativos correspondentes."
+  },
+  "937049042": {
+   "fragment_id": "937071526",
+   "type": 11,
+   "heading": "Artigo 4.º — Ilícitos criminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Ilícitos criminais\n\n1 - O Governo pode definir como ilícitos criminais:\n\na) A violação de direitos privativos de propriedade industrial relativos a patentes, modelos de utilidade, topografias de produtos semicondutores e desenhos ou modelos;\n\nb) A contrafacção, a imitação e o uso ilegal da marca;\n\nc) A venda, circulação ou ocultação de produtos ou artigos contrafeitos;\n\nd) A violação e o uso ilegal de denominação de origem ou de indicação geográfica;\n\ne) A obtenção, de má fé, de patente, de modelo de utilidade ou de registo de desenho ou modelo;\n\nf) A obtenção, ou manutenção de registo de marca, de nome de estabelecimento, de insígnia de estabelecimento ou de logótipo, com abuso de direito;\n\ng) O registo de acto inexistente ou realizado com ocultação da verdade.\n\n2 - Os tipos legais decorrentes do número anterior poderão incluir, no todo ou em parte e entre outros, como elementos constitutivos, uma actuação em termos de actividade empresarial e com intenção de alcançar, para si ou para terceiros, um benefício ilegítimo, sem o consentimento do titular do direito.\n\n3 - O procedimento dos crimes, que vierem a ser tipificados de acordo com o que se dispõe nos números anteriores, poderá ficar dependente de queixa.\n\n4 - Os actos preparatórios poderão ser puníveis como contra-ordenação.\n\n5 - O Governo fica, também, autorizado a legislar sobre a apreensão e destino de objectos, materiais ou instrumentos utilizados na prática de crimes, prevendo, nomeadamente, a realização de exames periciais, a declaração de perda a favor do Estado e a sua destruição, total ou parcial.\n\n6 - Poderá, ainda, ser previsto o direito de constituição, como assistentes, das associações empresariais nos processos resultantes de crimes que vierem a ser tipificados no novo Código."
+  },
+  "937049043": {
+   "fragment_id": "937071527",
+   "type": 11,
+   "heading": "Artigo 5.º — Penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Penas\n\nPara os ilícitos previstos no n.º 1 do artigo 3.º, o Governo fica autorizado a estabelecer as seguintes sanções:\n\na) Pena de prisão até 3 anos, ou pena de multa até 360 dias, para os casos previstos nas alíneas a), b), d) e g);\n\nb) Pena de prisão até 3 anos, para os casos previstos na alínea f);\n\nc) Pena de prisão até 1 ano, ou pena de multa até 120 dias, para os casos previstos nas alíneas c) e e)."
+  },
+  "937049044": {
+   "fragment_id": "937071528",
+   "type": 11,
+   "heading": "Artigo 6.º — Ilícitos contra-ordenacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Ilícitos contra-ordenacionais\n\n1 - Fica o Governo autorizado, ainda, a definir como ilícitos contra-ordenacionais:\n\na) A prática de actos de concorrência desleal, incluindo a divulgação, aquisição ou utilização de segredos de negócios de um concorrente;\n\nb) A invocação ou uso ilegal de recompensa;\n\nc) A violação de direitos de nome e de insígnia de estabalecimento;\n\nd) A violação do exclusivo do logótipo;\n\ne) A prática de actos preparatórios da execução dos actos referidos nas alíneas a) a f) do n.º 1 do artigo 3.º;\n\nf) O uso de marcas ilícitas;\n\ng) O uso indevido de nome ou de insígnia de estabalecimento, ou de logótipo;\n\nh) A invocação ou uso, indevidos, de direitos privativos de propriedade industrial.\n\n2 - Os tipos contra-ordenacionais decorrentes do número anterior poderão incluir, no todo ou em parte e entre outros, como elementos constitutivos, uma actuação em termos de actividade empresarial e com intenção de alcançar, para si ou para terceiros, um benefício ilegítimo sem o consentimento do titular do direito.\n\n3 - Em sede de contra-ordenações, o Governo poderá legislar sobre o destino de produtos ou artigos apreendidos, prevendo, nomeadamente, que sejam declarados perdidos a favor do Estado.\n\n4 - Por outro lado, o Governo fica autorizado a definir a competência para a instrução dos respectivos processos, para decidir e aplicar coimas e, bem assim, o destino dos montantes percebidos, a esse título."
+  },
+  "937049045": {
+   "fragment_id": "937071529",
+   "type": 11,
+   "heading": "Artigo 7.º — Coimas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Coimas\n\nPara os ilícitos previstos no n.º 1 do artigo 5.º, o Governo fica autorizado a prever coimas de (euro) 3000 a (euro) 30000, caso se trate de pessoa colectiva, e de (euro) 750 e (euro) 7500, quando se tratar de pessoa singular."
+  },
+  "937049046": {
+   "fragment_id": "937071530",
+   "type": 11,
+   "heading": "Artigo 8.º — Apreensão pelas alfândegas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apreensão pelas alfândegas\n\nO Governo poderá prever a apreensão, pelas alfândegas, bem como os termos em que poderá ser efectuada no acto da importação ou da exportação, de todos os produtos ou mercadorias que por qualquer forma, directa ou indirecta, trouxerem falsas indicações de proveniência ou denominações de origem, marcas ou outros sinais distintivos ilicitamente usados ou aplicados ou em que se manifestem indícios de qualquer infracção, de acordo com os artigos 3.º e 5.º desta lei."
+  },
+  "937049047": {
+   "fragment_id": "937071531",
+   "type": 11,
+   "heading": "Artigo 9.º — Providência cautelares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Providência cautelares\n\nFica o Governo autorizado, de igual modo, a legislar sobre providências cautelares, nomeadamente o arresto, em matéria de propriedade industrial."
+  },
+  "937049048": {
+   "fragment_id": "937071532",
+   "type": 11,
+   "heading": "Artigo 10.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Revogações\n\n1 - Na sequência do que se dispõe no artigo 1.º desta lei, fica o Governo autorizado a revogar:\n\na) O Decreto-Lei n.º 16/95, de 24 de Janeiro, incluindo o Código da Propriedade Industrial, aprovado pelo respectivo artigo 1.º;\n\nb) Restante legislação sobre as matérias objecto do decreto-lei autorizado.\n\n2 - O Governo fica autorizado a criar novas disposições transitórias, relativas a direitos privativos de propriedade industrial, meramente pedidos ou já constituídos, ao abrigo de legislação anterior, designadamente aquela que venha a ser revogada pelo decreto-lei autorizado."
+  },
+  "937049049": {
+   "fragment_id": "937071533",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nA entrada em vigor do novo Código não poderá efectivar-se antes de decorrido um prazo de 90 dias, após a sua publicação no Diário da República."
+  },
+  "937049050": {
+   "fragment_id": "937071534",
+   "type": 11,
+   "heading": "Artigo 12.º — Duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Duração\n\nA presente autorização legislativa tem a duração de 180 dias, contados a partir da sua entrada em vigor."
+  }
+ }
+}

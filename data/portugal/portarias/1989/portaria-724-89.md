@@ -1,0 +1,100 @@
+---
+schema_version: '1.0'
+id: pt:dre:618340:por
+title: Portaria n.º 724/89
+short_title: null
+summary: Cria no quadro da Direcção-Geral da Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE) um
+  lugar de assessor da carreira técnica superior
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 724/89
+official_date: null
+publication_date: '1989-08-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 195/1989, Série I de 1989-08-25
+  number: '195'
+  series: I
+  supplement: null
+  pages: 3567 - 3567
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/08/19500/35673567.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '618340'
+  dre_path: /dr/detalhe/portaria/724-1989-618340
+  internal: pt:dre:618340:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/724-1989-618340
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/724-1989-618340
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-08-25T00:00:00Z'
+integrity:
+  source_sha256: 0ea6240caf8c89c420f8b9188cf3a56996b1f4aa214366a3affb12008ee073fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-724-618340.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 724/89
+
+de 25 de Agosto
+
+Considerando que o actual inspector-geral do Trabalho tem direito à criação de um lugar de assessor da denominada carreira técnica superior, em virtude de em 1 de Julho de 1979 se encontrar no exercício do cargo de director de serviços do Serviço Central de Pessoal, no qual possuía nomeação definitiva;
+
+Considerando que, por interesse do funcionário e conveniência da Administração, aquele lugar deverá ser criado na Direcção-Geral da Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE);
+
+Considerando o disposto no artigo 14.º do [Decreto-Lei n.º 191-F/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-f-1979-634953), de 26 de Junho, e no n.º 3 do artigo 8.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho:
+
+Manda o Governo, pelo Ministro das Finanças, que seja criado no quadro da Direcção-Geral da Protecção Social aos Funcionários e Agentes da Administração Pública (ADSE), constante da [Portaria n.º 65/88](https://diariodarepublica.pt/dr/detalhe/portaria/65-1988-282916), de 2 de Fevereiro, um lugar de assessor da carreira técnica superior, a extinguir quando vagar.
+
+Ministério das Finanças.
+
+**Assinada em 4 de Agosto de 1989.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**

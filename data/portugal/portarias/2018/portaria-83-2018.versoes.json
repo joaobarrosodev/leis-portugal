@@ -1,0 +1,437 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:114913731:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2018-122627536",
+ "dre_path": "/dr/detalhe/portaria/83-2018-114913731",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-03-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122652390",
+    "122652391",
+    "122652392",
+    "122652393",
+    "122652394",
+    "122652395",
+    "122652397",
+    "122652398",
+    "122652399",
+    "122652400",
+    "122652401",
+    "122652402",
+    "122652403",
+    "122652404",
+    "122652405",
+    "122652406",
+    "122652407",
+    "122652408",
+    "122652409",
+    "122652410",
+    "122652411",
+    "122652412",
+    "122652413",
+    "122652414",
+    "122652415",
+    "122652416",
+    "122652417",
+    "122652418",
+    "122652419",
+    "122652420",
+    "122652421",
+    "122652422",
+    "122652423",
+    "122652424",
+    "122652425",
+    "122652426"
+   ]
+  },
+  {
+   "date": "2019-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:122627513:por",
+     "title": "Portaria n.º 190/2019",
+     "published": "2019-06-21",
+     "dre_path": "/dr/detalhe/portaria/190-2019-122627513"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 22.º",
+    "Altera Artigo 23.º",
+    "Altera Artigo 24.º"
+   ],
+   "fragments": [
+    "122652390",
+    "122652391",
+    "122652392",
+    "122652393",
+    "122652394",
+    "122652395",
+    "122652396",
+    "122652397",
+    "122652398",
+    "122652399",
+    "122652400",
+    "122652401",
+    "122652402",
+    "122652403",
+    "122652404",
+    "122652405",
+    "122652406",
+    "122652407",
+    "122652408",
+    "122652409",
+    "122652410",
+    "122652411",
+    "122652412",
+    "122652413",
+    "122652414",
+    "122652415",
+    "122652416",
+    "122652417",
+    "122652418",
+    "122652444",
+    "122652445",
+    "122652446",
+    "122652422",
+    "122652423",
+    "122652424",
+    "122652425",
+    "122652426"
+   ]
+  }
+ ],
+ "fragments": {
+  "122652390": {
+   "fragment_id": "122627537",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 83/2018\n\nde 26 de março\n\nNos termos da alínea b) do n.º 2 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho, para os pares instituição/curso cujas especiais características o justifiquem podem ser realizados concursos locais.\n\nAssim, a requerimento da Universidade de Aveiro, colhido o parecer favorável da Comissão Nacional de Acesso ao Ensino Superior e ao abrigo do disposto nos n.os 3 e 4 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, na sua redação atual;\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:\n\n> Nota: [Portaria n.º 190/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-2019-122627513) As alterações produzem efeitos a partir da candidatura à matrícula e inscrição no ano letivo de 2019-2020, inclusive."
+  },
+  "122652391": {
+   "fragment_id": "122627538",
+   "type": 11,
+   "heading": "Artigo 1.º — Aprovação de Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Aprovação de Regulamento\n\nÉ aprovado o Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Ciclo de Estudos Conducente ao Grau de Licenciado em Música, ministrado no Departamento de Comunicação e Arte da Universidade de Aveiro, cujo texto se publica em anexo a esta portaria, e da qual faz parte integrante."
+  },
+  "122652392": {
+   "fragment_id": "122627539",
+   "type": 11,
+   "heading": "Artigo 2.º — Concursos especiais e regimes especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Concursos especiais e regimes especiais\n\n1 - O ingresso no curso dos estudantes abrangidos pelos concursos especiais de acesso realiza-se nos termos do artigo 19.º do Decreto-Lei n.º 113/2014, de 16 de julho, alterado pelo Decreto-Lei n.º 63/2016, de 13 de setembro.\n\n2 - O ingresso no curso dos estudantes abrangidos pelo estatuto do estudante internacional realiza-se nos termos do artigo 6.º do Decreto-Lei n.º 36/2014, de 10 de março, alterado pelo Decreto-Lei n.º 113/2014, de 16 de julho.\n\n3 - O ingresso no curso dos estudantes abrangidos pelos regimes especiais de acesso realiza-se nos termos do n.º 2 do artigo 6.º do Decreto-Lei n.º 393-A/99, de 2 de outubro, alterado pelo Decreto-Lei n.º 272/2009, de 1 de outubro."
+  },
+  "122652393": {
+   "fragment_id": "122627540",
+   "type": 11,
+   "heading": "Artigo 3.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alterações\n\nTodas as alterações ao Regulamento são nele incorporadas através de nova redação dos seus artigos ou de aditamento de novos artigos."
+  },
+  "122652394": {
+   "fragment_id": "122627541",
+   "type": 11,
+   "heading": "Artigo 4.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação\n\nO Regulamento anexo à presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano letivo de 2018-2019, inclusive."
+  },
+  "122652395": {
+   "fragment_id": "122627542",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "122652397": {
+   "fragment_id": "122627544",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\nRegulamento do Concurso Local para a Matrícula e Inscrição no Ciclo de Estudos Conducente ao Grau de Licenciado em Música, ministrado no Departamento de Comunicação e Arte da Universidade de Aveiro."
+  },
+  "122652398": {
+   "fragment_id": "122627545",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no ciclo de estudos conducente ao grau de licenciado em Música, nas Áreas de Especialização de:\n\na) Composição;\n\nb) Direção e Teoria e Formação Musical;\n\nc) Performance;\n\nd) Teatro Musical;\n\ne) Musicologia.\n\nministrado no Departamento de Comunicação e Arte da Universidade de Aveiro."
+  },
+  "122652399": {
+   "fragment_id": "122627546",
+   "type": 11,
+   "heading": "Artigo 2.º — Fases de avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Fases de avaliação da capacidade para a frequência\n\nA avaliação da capacidade para a frequência do ciclo de estudos realiza-se em duas fases."
+  },
+  "122652400": {
+   "fragment_id": "122627547",
+   "type": 11,
+   "heading": "Artigo 3.º — Avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Avaliação da capacidade para a frequência\n\n1 - A avaliação da capacidade para a frequência do ciclo de estudos faz-se através da realização de duas provas de aptidão:\n\na) A avaliação da capacidade para a frequência das Áreas de Especialização de Composição, Direção e Teoria e Formação Musical, Performance e Teatro Musical faz-se através das seguintes provas:\n\naa) Prova de Aptidão Musical Específica;\n\nab) Prova escrita de Aptidão Musical Geral.\n\nb) A avaliação da capacidade para a frequência da Área de Especialização de Musicologia faz-se através das seguintes provas:\n\nba) Prova de Aptidão Específica;\n\nbb) Prova escrita de Aptidão Musical Geral.\n\n2 - A classificação final das provas de aptidão para a frequência do ciclo de estudos é o resultado do cálculo da seguinte fórmula, arredondada às décimas:\n\n0,75 x AE + 0,25 x AMG\n\nem que:\n\nAE = classificação atribuída à Prova de Aptidão Específica ou à Prova de Aptidão Musical Específica;\n\nAMG = classificação final da Prova de Aptidão Musical Geral."
+  },
+  "122652401": {
+   "fragment_id": "122627548",
+   "type": 11,
+   "heading": "Artigo 4.º — Prova de Aptidão Musical Específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prova de Aptidão Musical Específica\n\n1 - A Prova de Aptidão Musical Específica destina-se a avaliar a proficiência técnica e artística dos candidatos, nomeadamente as suas capacidades técnicas e as suas qualidades interpretativas e criativas no âmbito da Área de Especialização a que concorrem.\n\n2 - Os domínios sobre os quais incide a Prova de Aptidão Musical Específica e os respetivos critérios de avaliação são divulgados no edital a que se refere o artigo 15.º\n\n3 - O resultado da prova específica traduz-se numa classificação na escala inteira de 0 a 20.\n\n4 - A prova de Aptidão Musical Específica possui carácter eliminatório, pelo que só serão admitidos à Prova de Aptidão Musical Geral os candidatos que obtiverem nota igual ou superior a 10 naquela prova."
+  },
+  "122652402": {
+   "fragment_id": "122627549",
+   "type": 11,
+   "heading": "Artigo 5.º — Prova de Aptidão Específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prova de Aptidão Específica\n\n1 - A Prova de Aptidão Específica destina-se a avaliar a capacidade de redigir de forma sintética, de expor ideias e de levar a cabo uma leitura crítica de textos pertencentes à área de especialização de musicologia.\n\n2 - Os domínios sobre os quais incide a Prova de Aptidão Específica e os respetivos critérios de avaliação são divulgados no edital a que se refere o artigo 14.º\n\n3 - O resultado da prova específica traduz-se numa classificação na escala inteira de 0 a 20.\n\n4 - A prova de Aptidão Específica possui carácter eliminatório, pelo que só serão admitidos à Prova de Aptidão Musical Geral os candidatos que nela obtiverem nota igual ou superior a 10 naquela prova."
+  },
+  "122652403": {
+   "fragment_id": "122627550",
+   "type": 11,
+   "heading": "Artigo 6.º — Prova de Aptidão Musical Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prova de Aptidão Musical Geral\n\n1 - A prova de Aptidão Musical Geral é uma prova escrita e destina-se a avaliar o nível geral dos conhecimentos musicais dos candidatos, bem como a solidez da sua formação nesse domínio, pressupostos indispensáveis à frequência do ciclo de estudos em apreço.\n\n2 - A Prova de Aptidão Musical Geral é constituída por três partes:\n\na) Prova de formação auditiva;\n\nb) Prova de análise musical;\n\nc) Prova de conhecimentos em história da música.\n\n3 - Os domínios sobre os quais incide mais especificamente a Prova de Aptidão Musical Geral são divulgados no edital a que se refere o artigo 15.º\n\n4 - O resultado em cada uma das partes traduz-se numa classificação na escala inteira de 0 a 20.\n\n5 - Estão em condições de ser dispensados da Prova de Aptidão Musical Geral, desde que expressamente requerido ao júri a que se refere o artigo 14.º, os candidatos que frequentem ou tenham frequentado um curso superior de Música.\n\n6 - Os candidatos dispensados da Prova de Aptidão Musical Geral têm de comprovar através de documento original ou autenticado ou certificado por autoridade nacional de educação as habilitações que lhes permitem obter a dispensa até ao fim do prazo fixado para o efeito no edital a que se refere o artigo 15.º\n\n7 - A classificação final da Prova de Aptidão Musical Geral é a média aritmética simples das classificações obtidas nas três partes que a integram, arredondado às décimas.\n\n8 - São aprovados os candidatos que obtenham nesta prova classificação final igual ou superior a 7 valores, em todo o caso desde que não obtenham nota inferior a 5 valores numa das três partes a que se refere o n.º 2."
+  },
+  "122652404": {
+   "fragment_id": "122627551",
+   "type": 11,
+   "heading": "Artigo 7.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Validade das provas\n\nAs provas são válidas apenas para a candidatura à matrícula e inscrição no ano a que se reportam."
+  },
+  "122652405": {
+   "fragment_id": "122627552",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições para a candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições para a candidatura\n\n1 - Podem apresentar-se ao concurso os candidatos que reúnam uma das seguintes condições:\n\na) Ser titular de um curso do ensino secundário ou de habilitação legalmente equivalente e ter realizado com aprovação, os exames finais nacionais, correspondentes às provas de ingresso fixadas pela Universidade de Aveiro para a licenciatura em apreço;\n\nb) Ter realizado provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos (Decreto-Lei n.º 64/2006, de 21 de março, alterado pelo Decreto-Lei n.º 113/2014, de 16 de julho), de acordo com o regulamento específico destas provas.\n\n2 - A prova de ingresso pode ser substituída nos termos do artigo 20.º-A do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho.\n\n3 - Podem igualmente apresentar-se ao concurso os candidatos que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) e b) do n.º 1, já hajam estado ou estejam legalmente matriculados e inscritos em estabelecimento e curso de ensino superior.\n\n4 - Podem apresentar-se ao concurso, a título condicional, os candidatos que, até ao final do ano letivo anterior àquele a que o concurso se reporta, possam vir a concluir uma das habilitações a que se refere a alínea a) do n.º 1.\n\n5 - A validade dos exames nacionais finais é a que for fixada em deliberação da Comissão Nacional de Acesso ao Ensino Superior."
+  },
+  "122652406": {
+   "fragment_id": "122627553",
+   "type": 11,
+   "heading": "Artigo 9.º — Vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Vagas\n\nA matrícula e inscrição no ciclo de estudos está sujeita a limitações quantitativas fixadas nos termos do artigo 4.º do Decreto-Lei n.º 296-A/98, de 25 de setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de março, 26/2003, de 7 de fevereiro, 76/2004, de 27 de março, 158/2004, de 30 de junho, 147-A/2006, de 31 de julho, 40/2007, de 20 de fevereiro, e 45/2007, de 23 de fevereiro, e 90/2008, de 30 de maio, retificado pela Declaração de Retificação n.º 32-C/2008, de 16 de junho."
+  },
+  "122652407": {
+   "fragment_id": "122627554",
+   "type": 11,
+   "heading": "Artigo 10.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Local e prazo de apresentação da candidatura\n\n1 - A candidatura é efetuada na plataforma de candidaturas online dos Serviços de Gestão Académica da Universidade de Aveiro.\n\n2 - O prazo para entrega da candidatura é fixado nos termos do artigo 28.º"
+  },
+  "122652408": {
+   "fragment_id": "122627555",
+   "type": 11,
+   "heading": "Artigo 11.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apresentação da candidatura\n\nTem legitimidade para apresentar a candidatura:\n\na) O candidato;\n\nb) Um seu procurador bastante;\n\nc) A pessoa que demonstre exercer o poder paternal ou a tutela."
+  },
+  "122652409": {
+   "fragment_id": "122627556",
+   "type": 11,
+   "heading": "Artigo 12.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instrução do processo de candidatura\n\nO processo de candidatura é instruído com:\n\na) Documento comprovativo da titularidade da habilitação de candidatura;\n\nb) Elementos de identificação necessários à candidatura;\n\nc) Fotocópia do NIF."
+  },
+  "122652410": {
+   "fragment_id": "122627557",
+   "type": 11,
+   "heading": "Artigo 13.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Indeferimento liminar\n\n1 - São liminarmente indeferidas as candidaturas que:\n\na) Não sejam submetidas nos termos do artigo anterior;\n\nb) Sejam apresentadas fora de prazo.\n\n2 - O indeferimento liminar é da competência do Reitor da Universidade de Aveiro."
+  },
+  "122652411": {
+   "fragment_id": "122627558",
+   "type": 11,
+   "heading": "Artigo 14.º — Júri das provas do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Júri das provas do concurso\n\n1 - A organização das provas do concurso é da competência de um júri nomeado pelo Reitor, sob proposta do Diretor do Departamento de Comunicação e Arte e do respetivo diretor de curso.\n\n2 - Cabe ao júri do concurso:\n\na) Fixar os domínios sobre que incidem as provas;\n\nb) Fixar os conteúdos das provas;\n\nc) Fixar os critérios de avaliação a adotar em cada uma das provas;\n\nd) Nomear os júris para as provas;\n\ne) Proceder às operações de seriação dos candidatos nos termos do artigo 17.º tendo em vista a atribuição de uma nota final de candidatura;\n\nf) Autorizar a dispensa da Prova de Aptidão Musical Geral nos termos do n.º 5 do artigo 6.º\n\n3 - Compete aos júris das provas dar execução às provas de avaliação da capacidade e proceder à atribuição da respetiva classificação, no respeito pelas classificações mínimas a que se refere o artigo 16.º"
+  },
+  "122652412": {
+   "fragment_id": "122627559",
+   "type": 11,
+   "heading": "Artigo 15.º — Edital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Edital\n\nNos termos do disposto no artigo 28.º, o Reitor procede à aprovação e publicitação, na Universidade, do edital indicando, designadamente:\n\na) Os domínios sobre que incidem as provas de Aptidão Musical Específica, de Aptidão Específica e de Aptidão Musical Geral;\n\nb) Os critérios de avaliação a adotar em cada uma das referidas provas;\n\nc) Os prazos para a prática dos diferentes atos."
+  },
+  "122652413": {
+   "fragment_id": "122627560",
+   "type": 11,
+   "heading": "Artigo 16.º — Seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Seleção\n\nA avaliação da capacidade para a frequência das áreas de especialização e correspondentemente a classificação final das provas de aptidão atenderá aos seguintes fatores:\n\na) À classificação da Prova de Aptidão Musical Específica ou de Aptidão Específica, onde deve ser obtida uma classificação igual ou superior a 10;\n\nb) À Prova de Aptidão Musical Geral, onde deve ser obtida uma classificação igual ou superior a 7 e que em cada uma das três partes que a integram deve ser obtida uma classificação igual ou superior a 5."
+  },
+  "122652414": {
+   "fragment_id": "122627561",
+   "type": 11,
+   "heading": "Artigo 17.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição no ciclo de estudos é realizada com base numa nota final de candidatura, expressa na escala inteira de 0 a 20.\n\n2 - A nota de candidatura é a resultante do cálculo, até às décimas, da seguinte expressão:\n\n0,8 x PA + 0,1 x ES + 0,1 x PI\n\nem que:\n\nPA = classificação final das provas de aptidão para a frequência do ciclo de estudos, onde deve ser obtida uma classificação igual ou superior a 10;\n\nES = classificação final do ensino secundário ou habilitação legalmente equivalente;\n\nPI = classificação obtida na prova de ingresso."
+  },
+  "122652415": {
+   "fragment_id": "122627562",
+   "type": 11,
+   "heading": "Artigo 18.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas é feita por ordem decrescente da lista elaborada nos termos do artigo anterior."
+  },
+  "122652416": {
+   "fragment_id": "122627563",
+   "type": 11,
+   "heading": "Artigo 19.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 17.º, disputem a última vaga ou o último conjunto de vagas de uma Área de Especialização/Especialidade, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "122652417": {
+   "fragment_id": "122627564",
+   "type": 11,
+   "heading": "Artigo 20.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente Regulamento são da competência do Reitor da Universidade de Aveiro."
+  },
+  "122652418": {
+   "fragment_id": "122627565",
+   "type": 11,
+   "heading": "Artigo 21.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Resultado final\n\nO resultado final exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído."
+  },
+  "122652419": {
+   "fragment_id": "122627566",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Comunicação da decisão\n\n1 - O resultado final é tornado público através de aviso afixado no Departamento de Comunicação e Arte de acordo com o calendário a que se refere o artigo 28.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Nota final de candidatura a que se refere o artigo 17.º e as suas componentes;\n\nc) Resultado final.\n\n3 - A decisão de «não colocado» e de «excluído» da candidatura deve ser fundamentada e notificada ao interessado por carta registada com aviso de receção."
+  },
+  "122652420": {
+   "fragment_id": "122627567",
+   "type": 11,
+   "heading": "Artigo 23.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 28.º, mediante exposição dirigida ao Reitor da Universidade de Aveiro.\n\n2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio, em carta registada.\n\n3 - São liminarmente rejeitadas as reclamações ininteligíveis ou não fundamentadas.\n\n4 - As decisões sobre as reclamações que não tenham sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através de carta registada com aviso de receção."
+  },
+  "122652421": {
+   "fragment_id": "122627568",
+   "type": 11,
+   "heading": "Artigo 24.º — Segunda fase da avaliação da capacidade para a frequência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Segunda fase da avaliação da capacidade para a frequência\n\n1 - Nos termos consignados nos artigos 2.º e 28.º há lugar a uma 2.ª fase para avaliação da capacidade para a frequência do ciclo de estudos.\n\n2 - A admissão de estudantes à 2.ª fase das provas da avaliação da capacidade para a frequência está condicionada à devida justificação da falta à 1.ª fase, só podendo ser aceite se verificados motivos ponderosos impeditivos da apresentação à fase anterior.\n\n3 - Para acesso à 2.ª fase das provas é autorizada a aceitação de novas inscrições de estudantes que não tenham efetuado a inscrição na 1.ª fase, desde que a não tenham efetuado por motivos devidamente fundamentados.\n\n4 - Aos estudantes inscritos na 1.ª fase das provas que desistam no decorrer das mesmas não é permitida a inscrição na 2.ª fase, salvo se a desistência ficar a dever-se a problemas de saúde, acidentes ou lesões verificados e devidamente registados pelos elementos do respetivo júri.\n\n5 - Aos alunos considerados não aptos na 1.ª fase das provas é interdita a apresentação à 2.ª fase.\n\n6 - A 2.ª fase das provas não pode ser utilizada para efeitos de melhoria de classificação."
+  },
+  "122652422": {
+   "fragment_id": "122627569",
+   "type": 11,
+   "heading": "Artigo 25.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm direito de proceder à matrícula e inscrição no prazo fixado nos termos do artigo 28.º\n\n2 - A colocação apenas tem efeito para o ano letivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado."
+  },
+  "122652423": {
+   "fragment_id": "122627570",
+   "type": 11,
+   "heading": "Artigo 26.º — Exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Exclusão dos candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Atuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objetivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência do Reitor da Universidade de Aveiro."
+  },
+  "122652424": {
+   "fragment_id": "122627571",
+   "type": 11,
+   "heading": "Artigo 27.º — Comunicação à Direção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comunicação à Direção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, a Universidade envia à Direção-Geral do Ensino Superior uma lista de todos os candidatos que procederam à mesma, com indicação do nome e número do bilhete de identidade ou do cartão de cidadão."
+  },
+  "122652425": {
+   "fragment_id": "122627572",
+   "type": 11,
+   "heading": "Artigo 28.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente regulamento são fixados pelo Reitor da Universidade de Aveiro, devendo ser tornados públicos através de aviso afixado na Escola."
+  },
+  "122652426": {
+   "fragment_id": "122627573",
+   "type": 11,
+   "heading": "Artigo 29.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Aplicação\n\nO disposto no presente regulamento aplica-se a partir do ano letivo de 2018-2019, inclusive.\n\n111221564"
+  },
+  "122652396": {
+   "fragment_id": "122627543",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Ciência, Tecnologia e Ensino Superior, Manuel Frederico Tojal de Valsassina Heitor, em 20 de março de 2018."
+  },
+  "122652444": {
+   "fragment_id": "122627566",
+   "type": 11,
+   "heading": "Artigo 22.º — Comunicação da decisão",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-2019-122627513), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 22.º — Comunicação da decisão\n\n1 - O resultado final é divulgado na plataforma de candidaturas online da Universidade de Aveiro, e tornado público através de aviso afixado no Departamento de Comunicação e Arte, de acordo com o calendário a que se refere o artigo 28.º, sendo os candidatos notificados nos termos da alínea c) do n.º 1 e da alínea a) do n.º 2 do artigo 112.º do Código do Procedimento Administrativo.\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Nota final de candidatura a que se refere o artigo 17.º e as suas componentes;\n\nc) Resultado final.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-2019-122627513), em vigor a partir de 2019-06-22"
+  },
+  "122652445": {
+   "fragment_id": "122627567",
+   "type": 11,
+   "heading": "Artigo 23.º — Reclamações",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-2019-122627513), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 23.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 28.º, mediante exposição dirigida ao Reitor da Universidade de Aveiro.\n\n2 - A reclamação é entregue em mão no local onde o reclamante apresentou a candidatura ou enviada pelo correio, em carta registada.\n\n3 - São liminarmente rejeitadas as reclamações ininteligíveis ou não fundamentadas.\n\n4 - As decisões sobre as reclamações que não tenham sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos interessados de acordo com o disposto no artigo 112.º do Código do Procedimento Administrativo.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-2019-122627513), em vigor a partir de 2019-06-22"
+  },
+  "122652446": {
+   "fragment_id": "122627568",
+   "type": 11,
+   "heading": "Artigo 24.º — Segunda fase da avaliação da capacidade para a frequência",
+   "in_force_from": "2019-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-2019-122627513), em vigor a partir de 2019-06-22"
+   ],
+   "markdown": "###### Artigo 24.º — Segunda fase da avaliação da capacidade para a frequência\n\n1 - Nos termos consignados nos artigos 2.º e 28.º há lugar a uma 2.ª fase para avaliação da capacidade para a frequência do ciclo de estudos.\n\n2 - A admissão de candidatos à 2.ª fase das provas da avaliação da capacidade para a frequência está condicionada à devida justificação da falta à 1.ª fase, só podendo ser aceite se verificados motivos ponderosos e impeditivos da apresentação à fase anterior.\n\n3 - Para acesso à 2.ª fase das provas é autorizada a aceitação de novas inscrições de candidatos que não tenham efetuado a inscrição na 1.ª fase, desde que a não tenham efetuado por motivos devidamente fundamentados.\n\n4 - Aos estudantes inscritos na 1.ª fase das provas que desistam no decorrer das mesmas não é permitida a inscrição na 2.ª fase, salvo se a desistência ficar a dever-se a problemas de saúde, acidentes ou lesões verificados e devidamente registados pelos elementos do respetivo júri.\n\n5 - Aos candidatos considerados não aptos na 1.ª fase das provas é interdita a apresentação à 2.ª fase.\n\n6 - A 2.ª fase das provas não pode ser utilizada para efeitos de melhoria de classificação.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 190/2019 - Diário da República n.º 117/2019, Série I de 2019-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/190-2019-122627513), em vigor a partir de 2019-06-22"
+  }
+ }
+}

@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:201838712:por
+title: Portaria n.º 250/2022
+short_title: null
+summary: Estabelece medidas de gestão aplicáveis à captura de lagosta e lavagante, durante a desova
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Agricultura e Alimentação
+proposing_entity: null
+official_number: 250/2022
+official_date: null
+publication_date: '2022-10-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 192/2022, Série I de 2022-10-04
+  number: '192'
+  series: I
+  supplement: null
+  pages: 9 - 9
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/10/19200/0000900009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/250/2022/10/04/p/dre/pt/html
+  oj: null
+  dre: '201838712'
+  dre_path: /dr/detalhe/portaria/250-2022-201838712
+  internal: pt:dre:201838712:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-2022-201838712
+  metadata_url: https://data.dre.pt/eli/port/250/2022/10/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/250-2022-201838712
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-12-31T00:00:00Z'
+integrity:
+  source_sha256: 5af3277eda3a92a0d07d215cb7ff994d1a648986fa9d5db32a6427c0c6747a41
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-250-201838712.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Crustáceo
+- Pesca
+- Gestão dos Recursos
+- Recursos do Mar
+relationships:
+- type: amended_by
+  target: pt:dre:901661935:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/73/2020/09/23/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 250/2022
+
+de 4 de outubro
+
+O [Decreto-Lei n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), de 23 de setembro, que aprova o regime jurídico do exercício da atividade profissional da pesca comercial marítima e da autorização, registo e licenciamento dos navios ou embarcações utilizadas na referida atividade, prevê, no artigo 10.º a possibilidade de estabelecer restrições ao exercício da pesca para efeitos de conservação e gestão.
+
+A lagosta e o lavagante são recursos importantes e muito valorizados, capturados sobretudo com armadilhas de gaiola, tendo sido estabelecido, no Regulamento da Pesca por Armadilha, a interdição da captura e comercialização de exemplares ovados de ambas as espécies no período hábil de pesca, entre 1 de janeiro e 30 de setembro.
+
+Para melhorar a eficácia da medida, facilitando o controlo, considera-se adequado alargar a interdição da captura e comercialização de exemplares ovados destas espécies durante todo o ano, pelo que se estabelece agora esta proibição a todas as artes.
+
+Assim, ouvido o setor através do Movimento Associativo da Pesca Portuguesa, ao abrigo do disposto no artigo 10.º e no n.º 3 do artigo 19.º do [Decreto-Lei n.º 73/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213), de 23 de setembro, manda o Governo, pela Secretária de Estado das Pescas, no uso da delegação de competências conferida pelo [Despacho n.º 6620/2022](https://diariodarepublica.pt/dr/detalhe/despacho/6620-2022-183961875), da Ministra da Agricultura e Alimentação, publicado no Diário da República, 2.ª série, n.º 101, de 25 de maio de 2022, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente portaria estabelece medidas de gestão aplicáveis à captura de lagosta e lavagante, durante a desova.
+
+###### Artigo 2.º — Proibição de captura
+
+1 - É proibida a captura de exemplares ovados de lagostas (Palinurus elephas e P. mauritanicus) e lavagante (Homarus gammarus), independentemente da arte utilizada na captura.
+
+2 - Todos os exemplares ovados que forem capturados devem ser rejeitados e devolvidos ao mar, não podendo ser mantidos a bordo, transbordados, descarregados, transportados, armazenados, expostos para venda ou vendidos.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**A Secretária de Estado das Pescas, Teresa Alexandra Meca Valverde Gouveia Coelho Estêvão Pedro, em 23 de setembro de 2022.**

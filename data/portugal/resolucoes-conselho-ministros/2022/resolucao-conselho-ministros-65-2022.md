@@ -1,0 +1,166 @@
+---
+schema_version: '1.0'
+id: pt:dre:186522361:por
+title: Resolução do Conselho de Ministros n.º 65/2022
+short_title: null
+summary: Autoriza a realização da despesa relativa aos apoios decorrentes da celebração de contratos de patrocínio, no âmbito
+  do ensino artístico especializado
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 65/2022
+official_date: null
+publication_date: '2022-07-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 141/2022, Série I de 2022-07-22
+  number: '141'
+  series: I
+  supplement: null
+  pages: 3 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2022/07/14100/0000300004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/65/2022/07/22/p/dre/pt/html
+  oj: null
+  dre: '186522361'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/65-2022-186522361
+  internal: pt:dre:186522361:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/65-2022-186522361
+  metadata_url: https://data.dre.pt/eli/resolconsmin/65/2022/07/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/65-2022-186522361
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-07-22T00:00:00Z'
+integrity:
+  source_sha256: 6669257d8b93aeb582ca5292aebd9bad915efd31cc92297a8fb067e4b3badc44
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-65-186522361.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Artístico
+- Autorização de Despesas
+- Conselho de Ministros
+- Contrato
+- Delegação de Competências
+- Despesas Públicas
+- Direção Geral dos Estabelecimentos Escolares
+- Estabelecimento de Ensino
+- Ministro da Educação
+- Governo XXIII
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/152/2013/11/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/224-a/2015/07/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/224-a/2015/07/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 65/2022
+
+Nos termos do Estatuto do Ensino Particular e Cooperativo de nível não superior (EEPC), aprovado pelo [Decreto-Lei n.º 152/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-2013-504756), de 4 de novembro, na sua redação atual, o Estado pode celebrar contratos com estabelecimentos de ensino que se proponham criar cursos com planos próprios e com estabelecimentos de ensino em que sejam ministrados cursos do ensino especializado e promovidas experiências pedagógicas inovadoras.
+
+O n.º 1 do artigo 19.º do EEPC determina que o Estado pode celebrar com as entidades proprietárias de estabelecimentos de ensino particular contratos de patrocínio quando a ação pedagógica, o interesse pelos cursos, o nível dos programas, os métodos e os meios de ensino ou a qualidade do pessoal docente o justifiquem.
+
+Segundo o n.º 2 do referido artigo, os contratos de patrocínio têm por fim estimular e apoiar o ensino em domínios não abrangidos, ou insuficientemente abrangidos, pela rede pública, a criação de cursos com planos próprios e a melhoria pedagógica.
+
+Os contratos de patrocínio destinam-se ainda a promover a articulação entre diferentes modalidades de ensino especializado, designadamente artístico, e o ensino geral, nomeadamente ao nível da gestão curricular e do modelo de funcionamento, tendo em vista a respetiva otimização, de acordo com o n.º 3 do artigo 19.º do EEPC.
+
+Por sua vez, a [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, na sua redação atual, define o regime de concessão do apoio financeiro por parte do Estado, através do Ministério da Educação, no âmbito dos contratos de patrocínio, às entidades titulares de estabelecimentos de ensino artístico especializado de dança, música, teatro e artes visuais e audiovisuais da rede do ensino particular e cooperativo para a frequência dos cursos de iniciação, dos cursos de nível básico de dança, música e teatro e dos cursos de nível secundário de dança, música e artes visuais e audiovisuais. Nos termos previstos no n.º 1 do artigo 4.º da [Portaria n.º 224-A/2015](https://diariodarepublica.pt/dr/detalhe/portaria/224-a-2015-69905674), de 29 de julho, na sua redação atual, a celebração de contratos de patrocínio depende de abertura de concurso a determinar, de dois em dois anos, pelo membro do Governo responsável pela área da educação considerando a necessidade de financiamento de novos ciclos de ensino, tendo em conta os objetivos definidos no artigo 19.º do EEPC.
+
+Neste contexto, revela-se necessária a atribuição de apoio financeiro pelo Estado a estabelecimentos de ensino especializado para os anos letivos de 2022-2023, 2023-2024, 2024-2025, 2025-2026, 2026-2027 e 2027-2028, de forma a garantir o financiamento dos alunos que iniciem o seu percurso no ensino artístico especializado nos anos letivos de 2022-2023 e 2023-2024 até à conclusão do respetivo ciclo, assegurando o financiamento de inícios de ciclo.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar a Direção-Geral dos Estabelecimentos Escolares (DGEstE) a realizar despesa relativa aos apoios decorrentes da celebração de contratos de patrocínio com entidades titulares de estabelecimentos de ensino artístico especializado de dança, música, teatro e artes visuais e audiovisuais da rede do ensino particular e cooperativo, para os anos letivos de 2022-2023, 2023-2024, 2024-2025, 2025-2026, 2026-2027 e 2027-2028, até ao montante global de (euro) 152 406 880.
+
+2 - Determinar que os encargos financeiros resultantes dos apoios referidos no número anterior não podem exceder, em cada ano económico, os seguintes montantes:
+
+a) 2022 - (euro) 8 176 715;
+
+b) 2023 - (euro) 24 530 145;
+
+c) 2024 - (euro) 32 590 760;
+
+d) 2025 - (euro) 31 298 320;
+
+e) 2026 - (euro) 28 748 665;
+
+f) 2027 - (euro) 20 374 975;
+
+g) 2028 - (euro) 6 687 300.
+
+3 - Determinar que a despesa autorizada ao abrigo do n.º 1 abrange exclusivamente o financiamento de ciclos de ensino a iniciar nos anos letivos de 2022-2023 e 2023-2024, de acordo com os limites constantes na tabela em anexo à presente resolução e da qual faz parte integrante.
+
+4 - Determinar que a autorização concedida no n.º 1 não abrange a faculdade de financiar, nos contratos a celebrar, continuidades de ciclos iniciados em anos letivos anteriores nem a flexibilização de vagas que ocorra entre ciclos e regimes de frequência diferentes.
+
+5 - Estabelecer que os montantes fixados no n.º 2, para cada ano económico, podem ser acrescidos dos saldos apurados nos anos económicos antecedentes.
+
+6 - Determinar que os encargos financeiros resultantes dos apoios referidos no n.º 1 são satisfeitos pelas verbas adequadas inscritas e a inscrever no orçamento da DGEstE.
+
+7 - Delegar, com a faculdade de subdelegação, no membro do Governo responsável pela área da educação, a competência para a prática de todos os atos subsequentes a realizar no âmbito da presente resolução.
+
+8 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 30 de junho de 2022. - Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.
+
+## ANEXO — (a que se refere o n.º 3)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2022/07/14100/0000300004.pdf))](https://files.diariodarepublica.pt/1s/2022/07/14100/0000300004.pdf)

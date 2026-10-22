@@ -1,0 +1,1150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:401755:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1974-900538614",
+ "dre_path": "/dr/detalhe/decreto-lei/375-1974-401755",
+ "source_lastmod": "2024-12-17",
+ "versions": [
+  {
+   "date": "1974-08-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "900546084",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900546088",
+    "900546089",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546108",
+    "900546109",
+    "900546110",
+    "900546111",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115"
+   ]
+  },
+  {
+   "date": "1974-09-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:473731:por",
+     "title": "Decreto-Lei n.º 445/74",
+     "published": "1974-09-12",
+     "dre_path": "/dr/detalhe/decreto-lei/445-1974-473731"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900546088",
+    "900546161",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546108",
+    "900546109",
+    "900546110",
+    "900546111",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900546118",
+    "900546119",
+    "900546121",
+    "900546120",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1974-10-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:472112:por",
+     "title": "Rectificação",
+     "published": "1974-10-15",
+     "dre_path": "/dr/detalhe/rectificacao/1974-472112"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 24.º",
+    "Retifica Parte"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900546088",
+    "900546161",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900546111",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900546118",
+    "900546119",
+    "900546164",
+    "900546165",
+    "900546166",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1975-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:461400:por",
+     "title": "Decreto-Lei n.º 756/74",
+     "published": "1974-12-30",
+     "dre_path": "/dr/detalhe/decreto-lei/756-1974-461400"
+    }
+   ],
+   "changes": [
+    "Altera Parte"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900546088",
+    "900546161",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900546111",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900546118",
+    "900546119",
+    "900548194",
+    "900548195",
+    "900548196",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1975-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158395:por",
+     "title": "Decreto-Lei n.º 209/75",
+     "published": "1975-04-18",
+     "dre_path": "/dr/detalhe/decreto-lei/209-1975-158395"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900546088",
+    "900546161",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900546111",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900548199",
+    "900546119",
+    "900548194",
+    "900548195",
+    "900548196",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1983-06-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:245347:por",
+     "title": "Decreto-Lei n.º 235-F/83",
+     "published": "1983-06-01",
+     "dre_path": "/dr/detalhe/decreto-lei/235-f-1983-245347"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900548271",
+    "900548270",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900548272",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900548199",
+    "900546119",
+    "900548194",
+    "900548195",
+    "900548196",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1986-01-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:192247:por",
+     "title": "Decreto-Lei n.º 13/86",
+     "published": "1986-01-23",
+     "dre_path": "/dr/detalhe/decreto-lei/13-1986-192247"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 5.º"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900548271",
+    "900548273",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900548272",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900548199",
+    "900546119",
+    "900548194",
+    "900548195",
+    "900548196",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1986-05-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:402909:por",
+     "title": "Lei n.º 9/86",
+     "published": "1986-04-30",
+     "dre_path": "/dr/detalhe/lei/9-1986-402909"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900548271",
+    "900548273",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900548274",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900548199",
+    "900546119",
+    "900548194",
+    "900548195",
+    "900548196",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1986-07-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:228595:por",
+     "title": "Decreto-Lei n.º 167/86",
+     "published": "1986-06-27",
+     "dre_path": "/dr/detalhe/decreto-lei/167-1986-228595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900548271",
+    "900548273",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900553475",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900548199",
+    "900546119",
+    "900548194",
+    "900548195",
+    "900548196",
+    "900546122"
+   ]
+  },
+  {
+   "date": "1988-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:662751:por",
+     "title": "Lei n.º 2/88",
+     "published": "1988-01-26",
+     "dre_path": "/dr/detalhe/lei/2-1988-662751"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 27.º"
+   ],
+   "fragments": [
+    "900546084",
+    "900546123",
+    "900546085",
+    "900546086",
+    "900546087",
+    "900548271",
+    "900548273",
+    "900546124",
+    "900546090",
+    "900546091",
+    "900546092",
+    "900546125",
+    "900546093",
+    "900546094",
+    "900546095",
+    "900546126",
+    "900546096",
+    "900546097",
+    "900546098",
+    "900546099",
+    "900546127",
+    "900546100",
+    "900546101",
+    "900546102",
+    "900546103",
+    "900546104",
+    "900546128",
+    "900546105",
+    "900546106",
+    "900546107",
+    "900546129",
+    "900546163",
+    "900546109",
+    "900546110",
+    "900553476",
+    "900546112",
+    "900546113",
+    "900546114",
+    "900546115",
+    "900546116",
+    "900548199",
+    "900546119",
+    "900548194",
+    "900548195",
+    "900548196",
+    "900546122"
+   ]
+  }
+ ],
+ "fragments": {
+  "900546084": {
+   "fragment_id": "900538615",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 375/74\n\nde 20 de Agosto\n\n1. A reforma fiscal é tarefa prioritária do Governo Provisório.\n\nExige-a o Programa do Movimento das Forças Armadas, hoje lei constitucional, ao determinar que sejam lançados os fundamentos de «uma nova política económica, posta ao serviço do povo português, em particular das camadas da população até agora mais desfavorecidas, tendo como preocupação imediata a luta contra a inflação e a alta excessiva do custo de vida, o que necessariamente implicará uma estratégia antimonopolista».\n\nEstabelece-a o programa do Governo Provisório ao prever a «reforma do sistema tributário, tendente à sua racionalização e à atenuação da carga fiscal sobre as classes desfavorecidas, com vista a uma equitativa distribuição do rendimento».\n\nO processo susceptível de conduzir a uma reforma substancial do sistema tributário terá, porém, de ser longo e complexo. Há que fixar objectivos que dependem de delicadas opções políticas. Há que preparar cuidadosos trabalhos de análise económica e jurídica para se identificarem as soluções mais apropriadas. E há que reestruturar os serviços da administração fiscal por forma a responder às exigências do sistema que venha a ser estabelecido. Nada disto se pode conseguir em pouco tempo. De pouco valerá, por exemplo, modificar as regras e o alcance das leis tributárias sem um período prévio para adequada reorganização e apetrechamento dos serviços encarregados de assegurar a sua execução.\n\nNestes termos, e tendo em conta o curto período que decorreu desde o início da actividade do Governo Provisório, as disposições promulgadas no presente diploma constituem apenas um primeiro passo, necessariamente muito modesto, no domínio da reforma fiscal.\n\nCorrigem-se algumas distorções mais gritantes do sistema e inicia-se uma simplificação que terá de se acentuar. Contribui-se em grau já significativo, ainda que insuficiente, para tornar mais equitativa a distribuição da carga fiscal, nomeadamente através da redução do seu peso sobre as classes de rendimentos mais baixos. Atende-se aos imperativos da política orçamental, procurando alguns aumentos de receitas tributárias, embora respeitando rigorosamente os limites impostos pela actual conjuntura económica, que aconselha o adiamento de certas medidas e a antecipação de outras.\n\nMas outras providências de maior alcance terão de ser tomadas no futuro, segundo um plano por fases escalonadas no tempo. Na próxima fase que, segundo se espera, virá a efectuar-se dentro de poucos meses, prosseguir-se-á com a orientação agora iniciada. Procurar-se-á a correcção de distorções que ainda subsistem, muitas delas da maior relevância mas de eliminação difícil, como são as que resultam de uma evasão bastante acentuada. Adequar-se-á mais estreitamente a política fiscal aos imperativos de maior justiça social, nomeadamente pela intensificação da personalização do imposto. Considerar-se-á em especial a modificação das regras existentes em matéria de tributação de lucros das sociedades e de rendimentos dos títulos ao portador, a fim de corrigir as distorções e a falta de equidade que daí resultam. Promover-se-á a melhor adaptação da estrutura tributária aos objectivos da política de desenvolvimento económico. Prosseguir-se-á a reestruturação dos serviços, por forma a garantir uma acção fiscal mais efectiva e a criar condições para a introdução das mudanças programadas para o futuro.\n\nA reforma fiscal mais completa e desenvolvida só virá em fases posteriores. Para a realizar serão necessários estudos e trabalhos preparatórios necessariamente demorados e que envolvam mesmo alterações na actual orgânica dos serviços fiscais.\n\n2. Apesar das modificações projectadas para fases posteriores, as disposições do presente diploma marcam já, como acima se referiu, um primeiro passo no sentido da maior equidade na distribuição da carga tributária e da melhor adaptação do sistema fiscal aos objectivos do desenvolvimento económico e social. Assim, no domínio dos impostos directos:\n\nEleva-se de 30 para 50 contos a isenção do imposto profissional, diminuem-se as taxas nos escalões de rendimento tributável por esse imposto até 100 contos por ano e aumentam-se de forma progressiva as taxas estabelecidas para os escalões de rendimento superior a 300 contos, embora sem ultrapassar o limite máximo existente, que é já bastante elevado;\n\nAlargam-se as deduções relativas a rendimentos do trabalho e a filhos e enteados menores, no âmbito do imposto complementar, e torna-se esse imposto mais progressivo, não obstante a eliminação do adicional introduzido em Junho de 1972;\n\nIsenta-se de contribuição industrial os pescadores que exerçam directamente a pesca em regime de companha, sem intervenção de capital estranho, e eleva-se o limite das deduções admitidas a título de remuneração normal do trabalho dos contribuintes e seus familiares que exploram directamente pequenos estabelecimentos dos sectores da indústria ou dos serviços tributáveis no grupo C;\n\nEleva-se para 2000$00 a isenção da contribuição predial rústica dos prédios possuídos por cada contribuinte em cada concelho e estabelece-se a isenção da mesma contribuição para os rendimentos colectáveis até 5000$00, quando a propriedade seja explorada pelo próprio, com benefício evidente para mais de metade das pequenas explorações rurais, mesmo após a actualização dos rendimentos matriciais que se mostrem mais afastados da realidade;\n\nPenaliza-se, no âmbito da contribuição predial, a posse de prédios rústicos incultos ou insuficientemente cultivados por culpa do proprietário e a posse de terrenos inactivos que sejam aptos para construções consideradas convenientes sob o ponto de vista social e urbanístico;\n\nProíbe-se as empresas de pagar o imposto profissional e outros encargos legais que recaiam sobre as remunerações do trabalho, a fim de corrigir as distorções e injustiças que resultam desse sistema, sendo, porém, as respectivas importâncias incorporadas naquelas remunerações;\n\nReintroduz-se o imposto sobre a indústria agrícola, restaurando neste sector o equilíbrio da justiça tributária, profundamente afectado por uma suspensão que somente beneficiou os empresários de grandes explorações agrícolas, dado que só em relação a esses se presumiam lucros tributáveis significativos, depois de pagos os custos dos factores de produção; estabelece-se, todavia, a isenção desse imposto para os lucros tributáveis até 100 contos, a fim de, nesta fase inicial, em que há maiores dificuldades de liquidação, evitar a sobrecarga dos serviços fiscais com um grande volume de cobranças, de valor comparativamente reduzido; tudo recomenda, porém, que esse limite venha a ser revisto, depois de se ter ganho maior experiência e de se dispor de melhores mecanismos de liquidação, a fim de estabelecer um maior equilíbrio em relação aos limites de isenção de outros impostos.\n\n3. Várias das medidas que acabam de ser descritas, nomeadamente as que se referem ao alargamento ou estabelecimento de isenções ou reduções fiscais a favor dos rendimentos mais baixos, implicam diminuições importantes das receitas fiscais. A necessidade, hoje mais sentida do que nunca, de responder às solicitações de que o Estado é objecto em todos os sectores da vida nacional, exigiu que se procurasse noutras fontes a compensação para essa diminuição de receitas e simultaneamente parte dos recursos necessários para fazer face a aumentos inevitáveis das despesas públicas.\n\nProcurou-se que os necessários aumentos de impostos fossem um instrumento eficaz de política económica e não determinassem uma maior carga fiscal para as classes de baixos rendimentos.\n\nForam estes objectivos que orientaram as modificações atrás descritas no sistema de tributação directa - isto é, a que incide sobre os rendimentos efectivamente recebidos por cada pessoa ou empresa.\n\nDaí os aligeiramentos da carga fiscal sobre os rendimentos mais modestos, os agravamentos das taxas dos impostos profissional e complementar sobre os rendimentos mais elevados e a reintrodução do imposto sobre a indústria agrícola.\n\nContudo, o sistema fiscal português continua a depender em grau elevado dos impostos indirectos - aqueles que incidem sobre os bens sem atender à riqueza dos que compram ou vendem esses mesmos bens.\n\nNão é possível, a curto prazo, alterar esta situação.\n\nA fiscalidade indirecta terá, portanto, de contribuir com uma parcela importante do aumento das receitas. Procurou-se, todavia, que os aumentos dos impostos indirectos que agora se estabelecem incidam fundamentalmente sobre produtos de luxo ou sobre produtos que são menos essenciais ao consumo.\n\nAssim:\n\nActualiza-se o imposto do selo, alterando algumas das suas taxas em virtude da variação do valor da moeda e modificando a tributação do contrato de arrendamento, por forma a substituir o selo fixo, até agora aplicável a qualquer contrato, por um sistema com duas taxas proporcionais para os arrendamentos urbanos, uma para as rendas até 10000$00 por mês e outra, mais pesada, para as rendas superiores a esse valor e com total isenção para os arrendamentos de prédios rústicos de renda anual até 10000$00;\n\nCria-se um imposto do selo sobre as apostas mútuas desportivas, designadamente as do Totobola, embora fixando a respectiva taxa a nível mais modesto do que o de outras apostas mútuas, dadas as suas características populares;\n\nEstabelece-se o imposto do selo para os contratos administrativos de concessão de obras e serviços públicos, nos mesmos termos que os de empreitadas e fornecimento, por se considerar que as características comuns a uns e a outros justificam idêntico tratamento no âmbito deste imposto;\n\nAumenta-se a tributação sobre o consumo da cerveja, fundamentalmente por virtude do seu interesse como fonte de receita fiscal, conseguida à custa de pequeno sacrifício do consumidor;\n\nMantém-se a estrutura actual do imposto de transacções, conservando-se as isenções que protegem os bens de consumo essenciais e a taxa básica de 7%, para não agravar o custo de vida das classes menos favorecidas, mas elevando para 15% e 25%, respectivamente, as actuais taxas de 12% e 20% sobre bens que, na actual fase do desenvolvimento nacional não podem considerar-se essenciais para o consumo na generalidade dos portugueses, e introduzindo várias alterações nas listas dos produtos sujeitos a essas taxas mais agravadas.\n\nUsando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo Provisório decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "900546085": {
+   "fragment_id": "900538616",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1. É reposto em vigor o imposto sobre a indústria agrícola, estabelecido no Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola, suspenso pelo artigo 1.º do Decreto-Lei n.º 46496, de 18 de Agosto de 1965.\n\n2. É elevado para 100000$00 o limite de isenção do lucro anual das explorações agrícolas, silvícolas e pecuárias estabelecido no artigo 319.º do Código.\n\n3. Os contribuintes cujos rendimentos colectáveis passíveis de tributação em imposto sobre a indústria agrícola sejam, na média dos últimos três anos, superiores a 500000$00 são obrigados a possuir escrita devidamente organizada nos termos do artigo 323.º do Código, com a redacção que lhe foi dada pelo Decreto-Lei n.º 46369, de 7 de Junho de 1965, a partir do ano imediato ao da fixação do rendimento tributável do último daqueles três anos.\n\n4. A infracção ao disposto no número anterior será punida com a multa de 50000$00 a 500000$00, a aplicar nos termos do Código de Processo das Contribuições e Impostos, sem prejuízo do disposto no artigo 323.º, alínea b), do Código da Contribuição Predial e do Imposto sobre a Indústria Agrícola."
+  },
+  "900546086": {
+   "fragment_id": "900538617",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1. Ficam isentos de contribuição predial os rendimentos colectáveis rústicos, cuja soma em cada concelho ou bairro e por cada titular do rendimento não seja superior a 2000$00, e, bem assim, os rendimentos colectáveis dos prédios rústicos, quando cultivados pelos próprios contribuintes, desde que o rendimento colectável global por cada titular no território do continente e ilhas não exceda 5000$00.\n\n2. Para efeitos do disposto no número anterior, devem os titulares dos rendimentos requerer o averbamento, em seu nome, na matriz dos prédios ou partes de prédios que lhes pertençam ou de que tenham efectiva posse ou fruição, independentemente de quaisquer outras formalidades.\n\n3. A isenção estabelecida na segunda parte do n.º 1 do presente artigo só se aplica aos contribuintes que o solicitem, devendo, para o efeito, apresentar, até 30 de Abril de cada ano, na repartição de finanças da situação dos prédios, uma declaração, segundo modelo a aprovar oficialmente de que conste o montante global dos rendimentos dos seus prédios rústicos que por si sejam directamente cultivados.\n\n4. A inexactidão das declarações a que se refere o número anterior e as omissões nelas praticadas serão punidas com multa correspondente ao triplo devido, quando dolosa, ou igual ao montante do imposto, quando cometida por mera negligência.\n\n5. O rendimento colectável dos prédios rústicos, bem como o de prédios urbanos não arrendados, será corrigido por factores de actualização a fixar por portaria do Secretário de Estado do Orçamento, tendo em conta a data da inscrição na matriz ou da última avaliação, segundo índices que exprimam as variações sofridas pelos rendimentos e os demais critérios aplicáveis nos termos do Decreto-Lei n.º 45104, de 1 de Julho de 1963."
+  },
+  "900546087": {
+   "fragment_id": "900538618",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1. A taxa da contribuição predial rústica poderá, por proposta da Secretaria de Estado da Agricultura, ser elevada para 25% no primeiro ano, 40% no segunda e 50% nos seguintes, em relação aos prédios rústicos que, por razões imputáveis aos respectivos titulares, não sejam cultivados na sua totalidade ou em parte ou neles não se atinjam níveis de produtividade permitidos pelas potencialidades dos solos.\n\n2. O agravamento das taxas fixadas no número anterior cessará logo que a Secretaria de Estado da Agricultura comunique aos serviços tributários que aos prédios foi dada a aplicação havida por conveniente."
+  },
+  "900546088": {
+   "fragment_id": "900538619",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n- 1. As câmaras municipais do continente e ilhas adjacentes deverão organizar um cadastro dos terrenos para construção imediata, nos termos do artigo 7.º, n.º 1, do Decreto-Lei n.º 576/70, de 24 de Novembro.\n\n2. Os proprietários dos terrenos compreendidos no cadastro a que se refere o número anterior serão notificados para, no prazo de sessenta dias, declararem na câmara municipal o valor que lhes atribuem, o qual só poderá ser alterado por nova declaração apresentada na câmara municipal.\n\n3. O valor declarado pelos proprietários será comunicado, no prazo de trinta dias, à respectiva repartição de finanças, acompanhado dos demais elementos necessários à inscrição matricial, considerando-se, para este efeito, como rendimento colectável a vigésima parte desse valor.\n\n4. Os terrenos a que se refere o presente artigo ficam sujeitos a contribuição predial urbana às taxas de 20% no primeiro ano, 30% no segundo e 40% nos seguintes, a qual cessará unicamente a partir do ano imediato ao do início da construção.\n\n5. A tributação estabelecida no número anterior cessará igualmente nos casos em que o proprietário conceda à câmara municipal a promoção da venda do terreno em hasta pública, podendo esta cobrar, no caso de a venda se realizar, a taxa de 10% sobre o valor da transacção; no caso de a praça ficar deserta, restabelece-se o direito da tributação, salvo se o proprietário declarar novo valor para efeitos de nova praça e dos n.os 2 e seguintes.\n\n6. A câmara municipal poderá usar do direito de expropriação pelo valor declarado, ou usar do direito de preferência, por esse valor, em qualquer caso de alienação que não seja em hasta pública por ela realizada."
+  },
+  "900546089": {
+   "fragment_id": "900538620",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nA contribuição predial respeitante a prédios urbanos de habitação desocupados fica sujeita às seguintes regras:\n\n1.ª Os prédios inabitáveis ou destinados a demolição para edificação de novas construções e que se mantenham nessa situação por tempo superior a um ano serão sujeitos, por proposta da câmara municipal, ouvida a Secretaria de Estado de Habitação e Urbanismo, ao regime estabelecido no artigo anterior.\n\n2.ª Os prédios construídos de novo e destinados a arrendamento ficam sujeitos a tributação, salvo nos casos em que exista lei especial em contrário, nos termos seguintes:\n\na) A partir da data em que sejam habitáveis ou, nos casos em que a lei estabeleça prazo ou condicionalismo para o arrendamento, logo que decorra o referido prazo ou logo que seja verificado o condicionalismo ou decorrido o tempo em que deveria ser cumprido, quando dependa do respectivo titular;\n\nb) A partir da data da ocupação, se esta for anterior a qualquer dos prazos previstos na alínea precedente.\n\n3.ª A contribuição predial nos casos estabelecidos na regra anterior incidirá, salvo disposição legal em contrário, sobre o rendimento fixado por avaliação, quando não houver título de arrendamento.\n\n4.ª A sujeição a contribuição predial urbana dos prédios construídos de novo e destinados a venda começará depois de decorridos seis meses após a construção, se outro prazo não for estabelecido por lei, ou se a não alienação não for imputável ao proprietário.\n\n5.ª Os fogos devolutos ficam sujeitos a contribuição predial decorridos cento e vinte dias depois da cessação do último arrendamento, salvo se o novo arrendamento se não efectuar por motivos estranhos à vontade do senhorio; se a falta de novo arrendamento for imputável ao senhorio, a taxa da contribuição predial é agravada nos termos do artigo 4.º, n.º 4, do presente diploma."
+  },
+  "900546090": {
+   "fragment_id": "900538621",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nÉ elevado para 50000$00 o limite de isenção fixado no artigo 5.º do Código do Imposto Profissional."
+  },
+  "900546091": {
+   "fragment_id": "900538622",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs taxas do imposto profissional fixadas no artigo 21.º do Código passam a ser as seguintes:\n\n(ver documento original)"
+  },
+  "900546092": {
+   "fragment_id": "900538623",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA tabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional é substituída pela tabela anexa ao presente decreto-lei."
+  },
+  "900546093": {
+   "fragment_id": "900538624",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nÉ restabelecida a isenção do n.º 23.º do artigo 14.º do Código da Contribuição Industrial, que havia sido eliminado pelo artigo 2.º do Decreto-Lei n.º 237/70, de 25 de Maio, e que passará a abranger também os pescadores que exerçam directamente a pesca em regime de companha, mas sem intervenção de capital estranho."
+  },
+  "900546094": {
+   "fragment_id": "900538625",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ elevada para 30000$00 a importância estabelecida no § único do artigo 66.º do Código da Contribuição Industrial, como limite da remuneração normal do trabalho do contribuinte e de cada um dos seus familiares não empregados ou assalariados, a considerar para efeitos da fixação dos lucros tributáveis no grupo C."
+  },
+  "900546095": {
+   "fragment_id": "900538626",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nConsidera-se abolido, a partir do dia 1 de Setembro de 1974, o regime especial da contribuição industrial a que estão sujeitos os emolumentos e outros proventos dos funcionários públicos, revisto pela Lei n.º 1368, de 21 de Setembro de 1922, e regulamentado pelo Decreto n.º 8603, de 27 de Janeiro de 1923, e demais legislação complementar."
+  },
+  "900546096": {
+   "fragment_id": "900538627",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nNa execução do artigo 29.º do Código do Imposto Complementar a percentagem de 20% a deduzir aos rendimentos do trabalho, bem como o limite máximo, que é elevado para 25000$00, serão aplicados em relação a cada uma das pessoas que auferem esses rendimentos."
+  },
+  "900546097": {
+   "fragment_id": "900538628",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nAs deduções ao rendimento global líquido, estabelecidas na alínea a) do artigo 29.º do Código por cada filho ou enteado menor, não emancipado, que não seja contribuinte do imposto complementar, são elevadas para os seguintes valores:\n\nDe mais de 16 a 21 anos ... 16000$00\n\nDe mais de 11 a 16 anos ... 12000$00\n\nDe mais de 7 a 11 anos ... 8000$00\n\nAté 7 anos ... 4000$00"
+  },
+  "900546098": {
+   "fragment_id": "900538629",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nA tabela das taxas do imposto complementar, secção A, com a redacção dada ao corpo do artigo 33.º do Código deste imposto pelo artigo 7.º do Decreto-Lei n.º 718/73, de 31 de Dezembro, é substituída pela seguinte:\n\n(ver documento original)"
+  },
+  "900546099": {
+   "fragment_id": "900538630",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nÉ abolido o adicional criado pelo artigo 13.º do Decreto-Lei n.º 196/72, de 12 de Junho."
+  },
+  "900546100": {
+   "fragment_id": "900538631",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n- 1. É fixada em 10$00 a taxa do papel selado referido no artigo 6.º do Regulamento do Imposto do Selo, aprovado pelo Decreto n.º 12700, de 20 de Novembro de 1926, considerando-se alteradas em conformidade as taxas da Tabela Geral do Imposto do Selo, cujo pagamento deva ser feito por aquela forma.\n\n2. Continua em vigor, até à sua extinção, o papel já selado com a taxa de 6$00, devendo a diferença entre esta e a nova taxa ser completada por meio de estampilhas fiscais, coladas na parte superior do papel e inutilizadas nos termos gerais.\n\n3. A referida actualização será observada sempre que o imposto correspondente ao papel selado deva ou possa ser pago por meio de estampilha ou selo de verba."
+  },
+  "900546101": {
+   "fragment_id": "900538632",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nOs artigos 16, 28, 61-A e 92 da Tabela Geral do Imposto do Selo, passam a ter a seguinte redacção:\n\nART. 16 - Arrendamento:\n\nI - Arrendamento de prédios urbanos:\n\nSendo por escrito particular, cada folha - 10$00 (papel selado).\n\nAcresce, sobre a renda correspondente a um mês:\n\nNo contrato de renda até 10000$00 - 3% (estampilha).\n\nNos contratos de renda superior a 10000$00 - 6% (estampilha).\n\nNos contratos de arrendamento de prédios urbanos feitos nos termos do Decreto n.º 5411, de 17 de Abril de 1919, só é sujeito a imposto o exemplar destinado à repartição de finanças.\n\nII - Arrendamento de prédios rústicos, de renda superior a 10000$00 anuais:\n\nSendo feitos por escrito particular, cada folha - 10$00 (papel selado).\n\nSobre a renda anual - 3% (estampilha).\n\nAos contratos de arrendamento celebrados por escritura pública é aplicável o artigo 93, sendo as taxas proporcionais estabelecidas no presente artigo pagas por meio de selo de verba.\n\nPara efeitos de aplicação deste artigo, os arrendamentos nele abrangidos, quando feitos sem título, são equiparados aos feitos com título, nos termos e para os efeitos do artigo 69.º do Regulamento.\n\nO pagamento do imposto a que este artigo se refere cabe ao locador.\n\n...\n\nART. 28 - Bilhetes de lotaria, rifa ou tômbola e matrizes de aposta mútua desportiva, quando legalmente autorizadas:\n\nSobre o valor nominal de cada bilhete de lotaria, rifa ou tômbola - 20% (selo especial).\n\nA esta taxa acresce o selo do artigo 134 da Tabela.\n\nApostas mútuas desportivas: sendo do Totobola, por cada grupo de duas apostas contidas em cada matriz - $50 (selo especial).\n\nSendo qualquer outra aposta, sobre o respectivo valor - 20% (selo especial).\n\nO imposto sobre as matrizes de apostas mútuas é cobrado dos respectivos signatários pela entidade que as receber ou, relativamente às apostas do Totobola, pela Santa Casa da Misericórdia de Lisboa, e entregue por estas à Fazenda Nacional, por meio de guia, até ao último dia útil do mês imediato àquele a que respeitam as apostas. Ficam isentos os bilhetes das lotarias ou rifas do Governo, Misericórdias, hospitais ou estabelecimentos de caridade e associações de beneficência, e, bem assim, os de bazares ou quermesses de caridade.\n\nART. 61-A - Contratos, precedidos ou não de concurso público, celebrados com o Estado, autarquias locais e suas federações e uniões ou pessoas colectivas de utilidade pública administrativa, relativos a empreitadas e fornecimentos e a concessão de obras e serviços públicos:\n\nCada folha - 10$00 (papel selado ou estampilha). E de cada um, sobre o valor do contrato:\n\nDe empreitada sem fornecimento de materiais pelo empreiteiro - 2(por mil) (estampilha).\n\nDe fornecimento ou conjuntamente de empreitadas, ou de concessão de obras públicas - 3(por mil) (estampilha).\n\nNão sendo conhecido o valor do contrato, ou tratando-se de concessão de obras públicas e serviços públicos ou só de serviços:\n\nSobre o valor da caução ou garantia para cumprimento do contrato - 5% (estampilha).\n\nSe não existir caução ou garantia para cumprimento do contrato - 300$00 (estampilha).\n\nSe a importância do imposto for superior a 1000$00, o pagamento será feito por meio de guia, referenciando-se no contrato o número e data da respectiva verba do pagamento e a tesouraria da Fazenda Pública onde o mesmo se efectuou.\n\nART. 92 - Escritos particulares de confissão de dívida, consignação de rendimentos, hipoteca, penhor ou fiança ou de qualquer contrato, excluídos o mandato e o arrendamento - cada folha (ver nota a), 10$00 (papel selado).\n\nE de cada um - 50$00 (estampilha).\n\nAcresce o que competir à confissão de dívida ou ao contrato, segundo o que vai determinado nesta tabela.\n\nTodos os exemplares de um mesmo escrito particular são sujeitos, além do selo do papel, à taxa de 50$00, mas as taxas especiais dos contratos ou actos somente serão pagas num dos exemplares.\n\nFicam isentos os escritos dos contratos de empréstimos de livros feitos por bibliotecas ou sociedades de instrução, os dos contratos que tiverem por objecto empréstimos de alfaias agrícolas, gados e sementes e, bem assim, os escritos das garantias desses empréstimos.\n\n(nota a) O selo do papel pode também ser pago a tinta de óleo e será pago por estampilha quando a hipoteca, o penhor ou a fiança forem escritos no papel em que já esteja a obrigação principal."
+  },
+  "900546102": {
+   "fragment_id": "900538633",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nSão alteradas as taxas da Tabela Geral do Imposto do Selo não abrangidas pelos artigos anteriores, que passam a ser as seguintes:\n\nArtigo 4 - XVII, XXI, XXIII, XXV, XXXII, XXXVI e XL - 10$00;\n\nArtigo 17 - 15$00 (última taxa);\n\nArtigo 20 - 250$00;\n\nArtigo 44 - 15$00 (última taxa);\n\nArtigo 45 - 15$00 (última taxa);\n\nArtigo 46 - $20 (ver nota a);\n\nArtigo 47 - $20 (ver nota a);\n\nArtigo 56 - 10$00;\n\nArtigo 57 - 10$00;\n\nArtigo 58 - 10$00;\n\nArtigo 61 - 100$00 e 20$00 (segunda e terceira taxas, respectivamente);\n\nArtigo 68 - 200$00;\n\nArtigo 69 - 50$00;\n\nArtigo 86 - 10$00;\n\nArtigo 87 - 10$00;\n\nArtigo 88 - 10$00;\n\nArtigo 91 - 300$00 (última taxa);\n\nArtigo 93 - 250$00 (primeira taxa);\n\nArtigo 94-A - 10$00, 15$00, 10$00 e 5$00 (respectivamente a primeira, a segunda, a terceira e a quarta taxas);\n\nArtigo 99-A - 10$00 (ambas as taxas);\n\nArtigo 100 - 50$00 (segunda taxa);\n\nArtigo 107 - 20$00;\n\nArtigo 112 - 7$50;\n\nArtigo 113 - 2$50;\n\nArtigo 116-A - 7$50 (primeira taxa);\n\nArtigo 119 - 10$00 (todas as taxas);\n\nArtigo 137 - 10$00 e 5$00 (duas últimas taxas);\n\nArtigo 138 - 10$00;\n\nArtigo 139 - 15$00 (última taxa);\n\nArtigo 142 - 2$50;\n\nArtigo 148 - 5$00 (primeira taxa);\n\nArtigo 149 - 10$00;\n\nArtigo 151 - 10$00;\n\nArtigo 153 - 10$00;\n\nArtigo 157 - 15$00 e 25$00 (segunda e terceira taxas, respectivamente);\n\nArtigo 158 - 10$00;\n\nArtigo 162 - 200$00.\n\n(nota a) Continuarão em vigor, até à sua completa extinção, e sem necessidade de aposição de novo selo, os cheques já selados com a taxa de $10."
+  },
+  "900546103": {
+   "fragment_id": "900538634",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nÉ aditada à alínea f) do artigo 141 da Tabela Geral do Imposto do Selo a regra 6.ª, com a seguinte redacção:\n\n...\n\n6.ª Nos recibos ou quitações por devolução de títulos, acções ou obrigações que tenham sido entregues ao Banco de Portugal em caução do desconto de livranças a taxa incide sobre o valor da livrança ou livranças descontadas, qualquer que seja a cotação dos títulos dados em penhor."
+  },
+  "900546104": {
+   "fragment_id": "900538635",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nO imposto do selo a que se refere o artigo 2.º do Decreto n.º 4692, de 12 de Julho de 1918, não será devido nos casos em que, nos termos do Decreto-Lei n.º 579/70, de 24 de Novembro, a transmissão dos títulos não esteja sujeita ao imposto sobre as sucessões e doações por avença, de que trata o artigo 182.º do respectivo Código."
+  },
+  "900546105": {
+   "fragment_id": "900538636",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nO artigo 22.º do Código do Imposto de Transacções, com a redacção dada pelo artigo 13.º do Decreto-Lei n.º 653/70, de 28 de Dezembro, passa a ter a seguinte redacção:\n\n...\n\na) Mercadorias constantes da lista C anexa ao Código - taxa de 15%;\n\nb) Mercadorias constantes da lista B anexa ao Código - taxa de 25%;\n\nc) Cerveja - taxa específica de 4$00 por litro.\n\n§ 1.º ...\n\n§ 2.º ...\n\n§ 3.º ..."
+  },
+  "900546106": {
+   "fragment_id": "900538637",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nSão aprovadas as novas listas A, B e C anexas ao presente decreto-lei, as quais se consideram inseridas no Código do Imposto de Transacções para todos os efeitos legais."
+  },
+  "900546107": {
+   "fragment_id": "900538638",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n- 1. O imposto de transacções devido pelos crustáceos e ostras desembarcados ou vendidos no continente e ilhas adjacentes incidirá sobre o preço da venda efectuada na lota e será liquidado pelos organismos intervenientes nas vendagens, os quais o entregarão, por meio de guia do modelo n.º 3 anexa ao Código, devidamente adaptada, na competente tesouraria da Fazenda Pública, até ao fim do mês imediato ao da liquidação.\n\n2. O imposto devido pelos crustáceos e ostras importados será liquidado pelos serviços aduaneiros e pago segundo o estabelecido no Código para as demais importações.\n\n3. O imposto de transacções referido no n.º 1 será lançado em livro próprio do organismo interveniente nas vendagens, com indicação da data da transacção, nome e morada do adquirente, preço de venda e do imposto devido, sendo o encerramento feito mensalmente.\n\n4. Além das regras especificadas no presente artigo é aplicável às transacções a que o mesmo se reporta, com as necessárias adaptações, o regime do Código do Imposto de Transacções, entendendo-se que os organismos intervenientes nas vendagens substituem para todos os efeitos os produtores e grossistas, designadamente quanto às responsabilidades penais a estes atribuídas no Código."
+  },
+  "900546108": {
+   "fragment_id": "900538639",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nÉ concedido aos executados em processo de execução fiscal o prazo de trinta dias, a contar da data da publicação deste diploma, para efectuarem o pagamento voluntário da dívida exequenda, sem custas, encargos nem juros de mora."
+  },
+  "900546109": {
+   "fragment_id": "900538640",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n- 1. A partir de 1 de Janeiro de 1975 não poderão as pessoas singulares ou colectivas que atribuam ou paguem remunerações pela prestação de trabalho tomar sobre si os impostos ou outros encargos legais devidos pelas pessoas que lhes prestarem os serviços.\n\n2. A infracção ao disposto no número anterior será punida com multa igual ao dobro dos impostos ou encargos indevidamente assumidos.\n\n3. A multa estabelecida no número antecedente será aplicada nos termos do Código de Processo das Contribuições e Impostos."
+  },
+  "900546110": {
+   "fragment_id": "900538641",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAs importâncias correspondentes aos impostos e outros encargos legais a que se refere o artigo anterior e que, à data da entrada em vigor do presente decreto-lei, vinham sendo suportados pelas empresas deverão ser acrescidos às respectivas remunerações."
+  },
+  "900546111": {
+   "fragment_id": "900538642",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n- 1. É proibido às empresas comerciais ou industriais e, bem assim, às empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias efectuarem despesas confidenciais ou não documentadas.\n\n2. A infracção ao disposto neste artigo será punida com multa igual à despesa efectuada, num mínimo de 5000$00."
+  },
+  "900546112": {
+   "fragment_id": "900538643",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAs disposições contidas no presente decreto-lei relativas à contribuição predial e ao imposto sobre a indústria agrícola aplicam-se aos rendimentos do ano de 1974 e seguintes, salvo quanto aos rendimentos colectáveis corrigidos nos termos do n.º 5 do artigo 2.º, cuja entrada em vigor será fixada pelo Secretário de Estado do Orçamento em despacho a publicar no Diário do Governo."
+  },
+  "900546113": {
+   "fragment_id": "900538644",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n- 1. As alterações ao Código do Imposto Profissional são aplicáveis aos rendimentos recebidos ou postos à disposição dos seus titulares no ano de 1974 e seguintes.\n\n2. As importâncias que, por virtude das alterações introduzidas no Código pelos artigos 6.º e 7.º do presente diploma, se considerem a mais deduzidas e entregues ao Estado serão, sempre que possível, compensadas nas importâncias a deduzir nas remunerações a pagar ou a atribuir até ao fim do ano em curso.\n\n3. As importâncias que não possam ser compensadas de conformidade com o número anterior serão restituídas nos termos do artigo 33.º do Código."
+  },
+  "900546114": {
+   "fragment_id": "900538645",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAs disposições dos artigos 9.º e 10.º aplicam-se aos lucros do exercício de 1974 e seguintes."
+  },
+  "900546115": {
+   "fragment_id": "900538646",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nAs disposições dos artigos 12.º a 15.º aplicam-se aos rendimentos respeitantes ao ano de 1973 e seguintes."
+  },
+  "900546123": {
+   "fragment_id": "900538656",
+   "type": 4,
+   "heading": "Parte — A - Contribuição predial e imposto sobre a indústria agrícola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — A - Contribuição predial e imposto sobre a indústria agrícola"
+  },
+  "900546161": {
+   "fragment_id": "900538620",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1974-09-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 445/74 - Diário do Governo n.º 213/1974, Série I de 1974-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), em vigor a partir de 1974-09-17"
+   ],
+   "markdown": "###### Artigo 5.º\n\nA contribuição predial respeitante a prédios urbanos de habitação desocupados fica sujeita às seguintes regras:\n\n1.ª Os prédios inabitáveis ou destinados a demolição para edificação de novas construções e que se mantenham nessa situação por tempo superior a um ano serão sujeitos, por proposta da câmara municipal, ouvida a Secretaria de Estado de Habitação e Urbanismo, ao regime estabelecido no artigo anterior.\n\n2.ª Os prédios construídos de novo e destinados a arrendamento ficam sujeitos a tributação, salvo nos casos em que exista lei especial em contrário, nos termos seguintes:\n\na) A partir da data em que sejam habitáveis ou, nos casos em que a lei estabeleça prazo ou condicionalismo para o arrendamento, logo que decorra o referido prazo ou logo que seja verificado o condicionalismo ou decorrido o tempo em que deveria ser cumprido, quando dependa do respectivo titular;\n\nb) A partir da data da ocupação, se esta for anterior a qualquer dos prazos previstos na alínea precedente.\n\n3.ª A contribuição predial nos casos estabelecidos na regra anterior incidirá, salvo disposição legal em contrário, sobre o rendimento fixado por avaliação, quando não houver título de arrendamento.\n\n4.ª A sujeição a contribuição predial urbana dos prédios construídos de novo e destinados a venda começará depois de decorridos seis meses após a construção, se outro prazo não for estabelecido por lei, ou se a não alienação não for imputável ao proprietário.\n\n5.ª [Revogada.]\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 445/74 - Diário do Governo n.º 213/1974, Série I de 1974-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), em vigor a partir de 1974-09-17"
+  },
+  "900546124": {
+   "fragment_id": "900538657",
+   "type": 4,
+   "heading": "Parte — B - Imposto profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — B - Imposto profissional"
+  },
+  "900546125": {
+   "fragment_id": "900538658",
+   "type": 4,
+   "heading": "Parte — C - Contribuição industrial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — C - Contribuição industrial"
+  },
+  "900546126": {
+   "fragment_id": "900550093",
+   "type": 4,
+   "heading": "Parte — D - Imposto complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — D - Imposto complementar"
+  },
+  "900546127": {
+   "fragment_id": "900550094",
+   "type": 4,
+   "heading": "Parte — E - Imposto do selo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — E - Imposto do selo"
+  },
+  "900546128": {
+   "fragment_id": "900550095",
+   "type": 4,
+   "heading": "Parte — F - Imposto de transacções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — F - Imposto de transacções"
+  },
+  "900546129": {
+   "fragment_id": "900550096",
+   "type": 4,
+   "heading": "Parte — G - Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — G - Disposições diversas"
+  },
+  "900546116": {
+   "fragment_id": "900538647",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José da Silva Lopes.\n\nPromulgado em 19 de Agosto de 1974.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO DE SPÍNOLA."
+  },
+  "900546118": {
+   "fragment_id": "900538650",
+   "type": 14,
+   "heading": "Anexo — Imposto profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Imposto profissional\n\nTabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional e o artigo 8.º do Decreto-Lei n.º 375/74, de 20 de Agosto\n\n(ver documento original)"
+  },
+  "900546119": {
+   "fragment_id": "900538651",
+   "type": 14,
+   "heading": "Anexo — Imposto de transacções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Imposto de transacções\n\nListas a que se referem os artigos 5.º e 22.º do Código do Imposto de Transacções e o artigo 22.º do Decreto-Lei n.º 375/74."
+  },
+  "900546121": {
+   "fragment_id": "900538653",
+   "type": 4,
+   "heading": "Parte — LISTA B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — LISTA B\n\nTransacções sujeitas à taxa de 25%\n\n1. Aeronaves não abrangidas pela verba n.º 2 da lista A.\n\n2. Altifalantes e amplificadores de som.\n\n3. Antiguidades, raridades e objectos de colecção ou quaisquer mercadorias transaccionadas como tais.\n\n4. Aparelhos para aquecimento central.\n\n5. Aparelhos de massagem, estética e outros aparelhos para tratamento de beleza.\n\n6. Aparelhos receptores para radiodifusão ou televisão, incluindo os receptores combinados com gramofones ou gira-discos.\n\nCompreendem-se nesta verba as partes, peças e acessórios quando reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n7. Aparelhos para registo e reprodução de som:\n\na) Máquinas de ditar e outros aparelhos de gravação e reprodução de som, compreendendo os gira-discos e dispositivos semelhantes. Compreende as partes, peças, acessórios e respectivos estojos;\n\nb) Suportes de som para as máquinas e aparelhos abrangidos pela alínea anterior ou para usos análogos, tais como discos, cilindros, ceras, tiras, fitas e fios, preparados para gravação de som ou já gravados e respectivos álbuns.\n\n8. Armas de qualquer natureza e munições, salvo as de guerra.\n\nCompreendem-se nesta verba, designadamente:\n\na) Armas de fogo, de caça, de defesa, de recreio e de ornamentação;\n\nb) Espingardas, carabinas e pistolas de mola, de ar comprimido ou de gás;\n\nc) Partes, acessórios e peças separadas das referidas armas;\n\nd) Projécteis e munições, respectivas partes e peças separadas, compreendendo nomeadamente, zagalotes, chumbo de caça, balas de chumbo, setas, buchas para cartuchos e cartuchos de qualquer espécie.\n\n9. Artefactos total ou parcialmente de metais preciosos, com ou sem pérolas naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.\n\nCompreendem-se também nesta verba os artefactos só de prata, desde que contenham pérolas ou pedras preciosas.\n\nEstão excluídos os instrumentos de trabalho, quando da aplicação das matérias referidas resulte maior utilidade para o fim a que eles se destinam.\n\n10. Artigos de caça e de pesca desportiva, incluindo a submarina, bem como os respectivos equipamentos individuais.\n\n11. Artigos para divertimentos carnavalescos e fogos-de-artifício para recreio.\n\n12. Azulejos pintados à mão e tijoleira vidrada para painéis decorativos.\n\n13. Bebidas alcoólicas e extractos concentrados e compostos para a sua preparação ou fabrico, de preço superior a 50$00 por litro.\n\n14. Charuteiras, cigarreiras, tabaqueiras, fosforeiras, acendedores e isqueiros, domésticos ou portáteis.\n\n15. Conservas de esturjão e de salmão e preparados de ovas (caviar).\n\n16. Embarcações de recreio ou de desporto.\n\nCompreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados, bem como os motores fora de borda de potência superior a 25 H. P.\n\n17. Estatuetas e outros objectos de ornamentação, de madeira, de vidro, de pedra, de metal, de faiança ou de porcelana.\n\nExceptua-se desta verba a louça regional portuguesa.\n\n18. Instrumentos e aparelhos de fotografia, cinematografia e de óptica:\n\na) Máquinas fotográficas, aparelhos ou dispositivos para produção de luz relâmpago para fotografia e cinematografia;\n\nb) Aparelhos de tomadas de vistas e de som, mesmo combinados, e aparelhos de projecção, com ou sem reprodução de som, para cinematografia;\n\nc) Aparelhos de projecção fixa e móvel; aparelhos de ampliação ou de redução fotográfica;\n\nd) Alvos para projecções;\n\ne) Binóculos e óculos de grande alcance;\n\nf) Óculos de protecção (de sol, para alpinismo e desportos de Inverno, submarinos e estereoscópicos).\n\nCompreendem-se as partes, peças e acessórios dos referidos aparelhos, instrumentos e máquinas, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.\n\n19. Jogos, compreendendo os jogos mecânicos para recintos públicos.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos jogos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados; os acessórios comuns à maior parte dos jogos, tais como dados, fichas e indicadores de tempo; e, nomeadamente, as cartas de jogar, as mesas para jogos especialmente construídas para esse fim, como, por exemplo, as mesas com jogos de damas, aparelhos como o bilhar eléctrico e os jogos de tiro eléctricos, o futebol de mesa e semelhantes, de qualquer sistema, e os jogos de dominó, gamão, mahjong, glória, etc. Exclui-se, porém, o material de jogos reconhecidos como desportivos e o de jogos com características de brinquedo.\n\n20. Karts e suas peças ou acessórios, com exclusão dos pneumáticos, protectores e câmaras-de-ar.\n\n21. Louças e objectos de cerâmica, de faiança ou de porcelana, pintados à mão ou assinados.\n\nExceptuam-se desta verba a louça regional portuguesa.\n\n22. Máquinas e aparelhos eléctricos, a gás ou a petróleo:\n\na) Aparelhos frigoríficos;\n\nb) Máquinas de lavar e secar louça;\n\nc) Máquinas de lavar e secar roupa;\n\nd) Aspiradores de poeira e enceradoras;\n\ne) Esmagadores e misturadores de alimentos, batedores e espremedores de frutas;\n\nf) Máquinas de fazer café, chaleiras, torradeiras, grelhadores, assadores e aquecedores de alimentos;\n\ng) Máquinas e aparelhos de cozinha não especificados nesta verba, com excepção dos fogões;\n\nh) Ventoinhas, aparelhos renovadores de ar e secadores de cabelo;\n\ni) Máquinas de barbear, incluindo as de pilhas;\n\nj) Aparelhos para aquecimento de casas e usos semelhantes, incluindo os climatizadores.\n\n23. Marfim e suas obras.\n\n24. Metais preciosos, salvo a prata e suas ligas.\n\n25. Microfones e respectivos suportes.\n\n26. Moedas de ouro ou prata e de ligas em que entrem aqueles ou outros metais preciosos, quando não tiverem curso legal no país de origem.\n\n27. Motociclos de cilindrada igual ou superior a 175 c. c.\n\n28. Objectos de cristal e de vidro de alta qualidade.\n\n29. Objectos de estanho e suas ligas para fins domésticos, decorativos ou de ornamentação.\n\n30. Objectos de porcelana, de madrepérola, de âmbar ou de coral, para ornamentação de interiores ou para adorno pessoal.\n\nCompreendem-se nesta verba os objectos de toucador.\n\n31. Pedras preciosas naturais, sintéticas ou reconstituídas e pérolas naturais ou de cultura, e suas obras, quando destinadas a adorno pessoal ou ornamentação.\n\n32. Peles e penas de avestruz, peles de elefante, répteis, peixes e mamíferos marinhos e suas obras.\n\nSó se consideram obras aquelas em cujo valor as peles ou as penas entrem em proporção superior a 40%.\n\n33. Peles em cabelo, para adorno, abafo ou vestuário e suas obras, com exclusão das de coelho e de ovinos ou de caprinos adultos, de espécies comum não denominadas.\n\nSó se consideram obras aquelas em cujo valor as peles entrem em proporção superior a 40%.\n\n34. Produtos para fotografia e cinematografia:\n\na) Chapas, películas de qualquer espécie, papel, cartolina, cartão e tecidos para fotografia;\n\nb) Chapas, películas e fitas cinematográficas, incluindo os diapositivos;\n\nc) Produtos químicos para fotografia e cinema.\n\n35. Produtos de perfumaria e toucador, com excepção apenas dos sabões, sabonetes, pastas dentífricas ou pós saponificados e dentifrícios e dos considerados medicinais pela Direcção-Geral de Saúde.\n\nCompreendem-se nesta verba os produtos perfumados e os utilizados no embelezamento e no tratamento estético, designadamente perfumes de qualquer natureza, incluindo os extractos e os óleos essenciais ou essências, seus subprodutos e soluções; água-de-colónia e loções; vinagres de toucador; cremes de beleza e para barbear; leites e águas de beleza; tintas para o rosto (secas, gordas e líquidas); depilatórios; pós-de-arroz e pós compactos, champôs, brilhantinas e fixadores; corantes para os lábios; cremes para tirar a pintura do rosto; óleos, pomadas e vaselinas perfumadas; vernizes, lacas e mais produtos corantes e descorantes para as unhas; talco perfumado; tintas, lápis e outros produtos para caracterização; rímel; lápis para as sobrancelhas; desodorizantes e linimentos anti-solares; preparados para ondulação do cabelo, incluindo as lacas; produtos para aplicação antes ou depois de fazer a barba; tintas e outros produtos para coloração e descoloração do cabelo; sais de banho; óleos para massagens; preparados perfumados (em pó, líquido, pastilhas, fitas, etc.) e saquinhos de plantas aromáticas para salas e quartos de banho ou para malas e armários.\n\n36. Reboques de campismo ou desporto, bem como os veículos automóveis com carroçaria apropriada àqueles mesmos fins.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos reboques ou veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo, porém, os protectores, pneumáticos e câmaras-de-ar.\n\n37. Relógios com caixas total ou parcialmente de metais preciosos ou guarnecidos de pérolas naturais ou de cultura, de pedras preciosas naturais, sintéticas ou reconstituídas.\n\n38. Rendas, bordados, galões e guarnições, em peça, em tiras ou em aplicações.\n\n39. Tapeçarias, tapetes e tecidos feitos à mão; tapeçarias em peça ou em obra género Gobelins, Flandres, Aubusson, Beauvais e semelhantes.\n\n40. Tecidos em peça ou em obra, de seda natural, de vigonho, de pêlo de camelo, de alpaca, de iaque, de caxemira ou de cabra mohair."
+  },
+  "900546120": {
+   "fragment_id": "900538652",
+   "type": 4,
+   "heading": "Parte — LISTA A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Parte — LISTA A\n\nTransacções isentas de imposto\n\n1. Adubos.\n\n2. Aeronaves destinadas a serviços públicos de transportes regulares de passageiros ou mercadorias e os lubrificantes e combustíveis utilizados nas mesmas aeronaves.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados às referidas aeronaves e os correspondentes simuladores de voo.\n\n3. Água comum.\n\nNão se compreende nesta verba a água comum transaccionada em garrafas, garrafões, botijas, frascos ou outros recipientes análogos.\n\n4. Algodão hidrófilo.\n\n5. Almofadas, colchões e travesseiros com enchimento de palha ou folhelho.\n\n6. Animais vivos exclusiva ou principalmente destinados à alimentação, ao trabalho agrícola ou à reprodução.\n\n7. Aparelhos e artefactos de prótese destinados a substituir, no todo ou em parte, qualquer membro ou órgão do corpo humano e ainda os empregados para corrigir a audição e os utilizados para tratamento de fracturas.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos aparelhos e artefactos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n8. Aparelhos ortopédicos, compreendendo o calçado, cintas médico-cirúrgicas e meias medicinais.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos aparelhos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n9. Bagaço de azeitona e de outras oleaginosas.\n\n10. Cadeiras de rodas e veículos semelhantes, accionados manualmente ou por motor, para inválidos.\n\nCompreendem-se nesta verba as partes, peças e acessórios das cadeiras e veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo-se, porém, os protectores, pneumáticos e câmaras-de-ar.\n\n11. Carvão mineral e vegetal, mesmo aglomerado, e coque.\n\n12. Electricidade.\n\n13. Embarcações de qualquer natureza não abrangidas pela verba n.º 16 da lista B.\n\nCom exclusão dos motores fora de borda, compreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados.\n\n14. Enxofre sublimado.\n\n15. Farinhas, resíduos e desperdícios das indústrias alimentares e quaisquer outros produtos próprios para alimentação de gados e aves de capoeira.\n\n16. Forragens e palha.\n\n17. Gás do petróleo e da hulha.\n\n18. Gasóleo e fuelóleo.\n\n19. Jornais e outras publicações periódicas.\n\n20. Lenha e desperdícios de madeira.\n\n21. Lentes para correcção da vista, excluídas as lupas.\n\n22. Livros, quando na encadernação não entrem peles, tecidos de seda, veludos ou semelhantes.\n\n23. Máquinas, ferramentas e outros bens de equipamento afectos ao processo produtivo das mercadorias ou aos departamentos de apoio directo e exclusivo à produção de mercadorias.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos referidos bens de equipamento, desde que adquiridos para nos mesmos serem aplicados.\n\n24. Material circulante para vias férreas, bem como catenárias e carris, material para a sua instalação, aparelhagem de via e instalações e material de sinalização eléctrica ou outra utilizados no transporte ferroviário de passageiros e mercadorias.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela incluídos.\n\n25. Material exclusivamente didáctico.\n\nCompreendem-se nesta verba:\n\na) Cadernos escolares que contenham a designação do seu uso e ainda as capas soltas quando tenham a indicação do estabelecimento de ensino;\n\nb) Colecções de anatomia, botânica, geologia, mineralogia, zoologia ou outras ciências e respectivos exemplares;\n\nc) Mapas ou estampas para o ensino;\n\nd) Globos terrestres ou celestes;\n\ne) Obras cartográficas;\n\nf) Preparações microscópicas;\n\ng) Instrumentos, aparelhos, utensílios, máquinas - incluindo as seccionadas - e modelos utilizados no ensino, não susceptíveis de outro uso;\n\nh) Quadros de qualquer material para escrita e desenho, encaixilhados ou não, e respectivos ponteiros e apagadores.\n\n26. Medicamentos, especialidades farmacêuticas e outros produtos farmacêuticos destinados exclusivamente a fins terapêuticos ou profilácticos.\n\n27. Pastas, gazes, tiras, pensos, adesivos e outros suportes análogos, mesmo impregnados ou revestidos de quaisquer substâncias, para usos higiénicos, medicinais ou cirúrgicos.\n\n28. Plantas, raízes e tubérculos medicinais no estado natural.\n\n29. Plantas vivas, de espécies florestais ou frutíferas, e suas estacas e enxertos.\n\n30. Produtos destinados à alimentação humana a seguir indicados:\n\na) Pão, produtos afins e farinhas para a sua fabricação. Bolachas de água e sal;\n\nb) Massas alimentícias e pastas secas similares;\n\nExceptuam-se da isenção as massas recheadas, embora prontas para utilização imediata, e as massas do tipo Ravioli, Cannelloni, Tortellini e semelhantes;\n\nc) Leite para alimentação sob todas as formas e produtos derivados, sem adição de matérias estranhas.\n\nInclui os iogurtes simples já preparados; o leite conservado em recipientes fechados hermeticamente; o leite evaporado ou concentrado, no estado líquido, pastoso, em blocos ou em pó e farinhas lácteas; a manteiga; os queijos, e o leite simples, engarrafado;\n\nd) Azeites e outros óleos comestíveis; margarinas, manteiga e mais gorduras alimentares de origem animal. Excluída a gordura alimentar açucarada (sweet fat);\n\ne) Batatas, legumes e outros produtos hortícolas, frescos, congelados, refrigerados ou secos, em grão, quando não tenham sofrido preparação diferente da cozedura;\n\nf) Frutas frescas, congeladas ou secas.\n\nNão estão abrangidas por esta isenção: as frutas enlatadas; as cristalizadas, caldeadas ou cobertas; os doces, geleias, compotas, purés e pastas de frutas, obtidos por cozedura ou com adição de açúcar ou de álcool; a castanha de caju, as avelãs, os pinhões, as nozes, as amêndoas e o amendoim torrado, nem os sumos de frutos e seus concentrados;\n\ng) Outros produtos de origem vegetal, da pesca, da piscicultura, da avicultura, de cunicultura, da apicultura e da caça que não tenham sofrido transformação.\n\nIncluem-se, porém, nesta alínea as farinhas, féculas e sêmolas para alimentação de crianças; as sopas e caldos concentrados e sintéticos; as conservas simples de sardinhas, atum, cavala, carapau, anchovas e as de moluscos, salvo ostras e caracóis.\n\nSão excluídos da isenção:\n\n1. Cacau, chocolates e respectivos compostos;\n\n2. Especiarias, condimentos, molhos, temperos e produtos aromatizantes para alimentos;\n\n3. Produtos industrializados que precisam de preparação prévia para serem consumidos; leveduras e pós para preparar sobremesas, pudins, refrescos, bebidas, cremes, gelados, sorvetes, geleias e outros, ainda que não adicionados de açúcar;\n\n4. Arroz expandido, corn-flakes e produtos análogos, obtidos de cereais por tratamento em corrente de ar ou por torrefacção;\n\n5. Sumos de legumes e seus concentrados;\n\n6. Conservas de caça;\n\n7. Pastas de fígado (foie-gras) e semelhantes;\n\n8. As misturas de farinhas, féculas, amidos, extractos de malte com leite, leitelho, açúcar, ovos, cascina, albumina, glúten, farinhas de legumes ou de frutas ou substâncias aromáticas; as farinhas de cacau com aveia; os preparados constituídos pela mistura de ovos e leite, em pó, extracto de malte e cacau; os preparados constituídos por farinha de arroz, féculas diversas, farinha de bolota doce, açúcar e cacau aromatizado com baunilha; os preparados compostos por misturas de farinhas de cereais e de farinhas de frutas, adicionados ou não de cacau ou malte, ou constituídos por farinha de frutas adicionadas de cacau;\n\n9. Salgadinhos e outros produtos utilizados como aperitivos ou acompanhantes de bebidas, constituídos por misturas de vários ingredientes, tais como farinhas, sêmolas, malte, sal, gorduras, especiarias, queijo, presunto, mariscos, etc.:\n\nh) Carnes de quaisquer outros animais, frescas, refrigeradas ou congeladas, e miudezas comestíveis;\n\ni) Preparados de carne ou de miudezas simplesmente cozinhados ou como produtos de salsicharia (enchidos, ensacados, salgados e fumados).\n\nEstão excluídos desta isenção a mortadela, o salame, os paios, as pastas, purés, picados, galantinas, toucinho fumado (bacon) e o presunto enrolado;\n\nj) Sal (cloreto de sódio):\n\nSal marinho e sal-gema.\n\nNão está abrangido nesta isenção o sal marinho ou sal-gema misturado com outros produtos para alimentação humana, nem o sal para tornar mais tenros os alimentos;\n\nl) Vinagres comestíveis;\n\nm) Vinhos comuns e de pasto vendidos a granel.\n\nApenas são considerados como vendidos a granel os vinhos transaccionados em quantidade não inferior a 50 l por vasilha.\n\nOs vinhos de outra natureza e as restantes bebidas alcoólicas são excluídos desta isenção.\n\nNa interpretação das isenções dos produtos alimentícios referidos na presente verba n.º 30 deverá ter-se em consideração que são excluídos do seu âmbito todos os produtos edulcorados não expressamente isentos, qualquer que seja a forma ou aspecto que apresentem.\n\nSão, pelo contrário, incluídos nas isenções desta verba os alimentos já cozinhados que por sua natureza tenham de ser consumidos imediatamente.\n\n31. Produtos considerados exclusivamente como desinfectantes, insecticidas, fungicidas, herbicidas, parasiticidas, raticidas e semelhantes.\n\n32. Ráfia natural.\n\n33. Sabões sólidos, não perfumados, para uso doméstico.\n\n34. Sementes para a agricultura e floricultura.\n\n35. Sulfato cúprico, sulfato férrico e sulfato duplo de cobre e ferro.\n\n36. Utensílios e alfaias agrícolas, motocultivadores, tractores e outras máquinas e aparelhos, exclusiva ou principalmente destinados à agricultura, pecuária e silvicultura.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela referidos, com exclusão, porém, dos protectores, pneumáticos e câmaras-de-ar."
+  },
+  "900546122": {
+   "fragment_id": "900538654",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro das Finanças, José da Silva Lopes."
+  },
+  "900546163": {
+   "fragment_id": "900538639",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1974-10-15",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+   ],
+   "markdown": "###### Artigo 24.º\n\nÉ concedido aos executados em processo de execução fiscal o prazo de trinta dias, a contar da data da entrada em vigor deste diploma, para efectuarem o pagamento voluntário da dívida exequenda, sem custas, encargos nem juros de mora.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+  },
+  "900546164": {
+   "fragment_id": "900538652",
+   "type": 4,
+   "heading": "Parte — LISTA A",
+   "in_force_from": "1974-10-15",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+   ],
+   "markdown": "## Parte — LISTA A\n\nTransacções isentas de imposto\n\n1. Adubos.\n\n2. Aeronaves destinadas a serviços públicos de transportes regulares de passageiros ou mercadorias e os lubrificantes e combustíveis utilizados nas mesmas aeronaves.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados às referidas aeronaves e os correspondentes simuladores de voo.\n\n3. Água comum.\n\nNão se compreende nesta verba a água comum transaccionada em garrafas, garrafões, botijas, frascos ou outros recipientes análogos.\n\n4. Algodão hidrófilo.\n\n5. Almofadas, colchões e travesseiros com enchimento de palha ou folhelho.\n\n6. Animais vivos exclusiva ou principalmente destinados à alimentação, ao trabalho agrícola ou à reprodução.\n\n7. Aparelhos e artefactos de prótese destinados a substituir, no todo ou em parte, qualquer membro ou órgão do corpo humano e ainda os empregados para corrigir a audição e os utilizados para tratamento de fracturas.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos aparelhos e artefactos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n8. Aparelhos ortopédicos, compreendendo o calçado, cintas médico-cirúrgicas e meias medicinais.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos aparelhos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n9. Bagaço de azeitona e de outras oleaginosas.\n\n10. Cadeiras de rodas e veículos semelhantes, accionados manualmente ou por motor, para inválidos.\n\nCompreendem-se nesta verba as partes, peças e acessórios das cadeiras e veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo-se, porém, os protectores, pneumáticos e câmaras-de-ar.\n\n11. Carvão mineral e vegetal, mesmo aglomerado, e coque.\n\n12. Electricidade.\n\n13. Embarcações de qualquer natureza não abrangidas pela verba n.º 16 da lista B.\n\nCom exclusão dos motores fora de borda, compreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados.\n\n14. Enxofre sublimado.\n\n15. Farinhas, resíduos e desperdícios das indústrias alimentares e quaisquer outros produtos próprios para alimentação de gados e aves de capoeira.\n\n16. Forragens e palha.\n\n17. Gás do petróleo e da hulha.\n\n18. Gasóleo e fuelóleo.\n\n19. Jornais e outras publicações periódicas.\n\n20. Lenha e desperdícios de madeira.\n\n21. Lentes para correcção da vista, excluídas as lupas.\n\n22. Livros, quando na encadernação não entrem peles, tecidos de seda, veludos ou semelhantes.\n\n23. Máquinas, ferramentas e outros bens de equipamento afectos ao processo produtivo das mercadorias ou aos departamentos de apoio directo e exclusivo à produção de mercadorias.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos referidos bens de equipamento, desde que adquiridos para nos mesmos serem aplicados.\n\n24. Material circulante para vias férreas, bem como catenárias e carris, material para a sua instalação, aparelhagem de via e instalações e material de sinalização eléctrica ou outra utilizados no transporte ferroviário de passageiros e mercadorias.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela incluídos.\n\n25. Material exclusivamente didáctico.\n\nCompreendem-se nesta verba:\n\na) Cadernos escolares que contenham a designação do seu uso e ainda as capas soltas quando tenham a indicação do estabelecimento de ensino;\n\nb) Colecções de anatomia, botânica, geologia, mineralogia, zoologia ou outras ciências e respectivos exemplares;\n\nc) Mapas ou estampas para o ensino;\n\nd) Globos terrestres ou celestes;\n\ne) Obras cartográficas;\n\nf) Preparações microscópicas;\n\ng) Instrumentos, aparelhos, utensílios, máquinas - incluindo as seccionadas - e modelos utilizados no ensino, não susceptíveis de outro uso;\n\nh) Quadros de qualquer material para escrita e desenho, encaixilhados ou não, e respectivos ponteiros e apagadores.\n\n26. Medicamentos, especialidades farmacêuticas e outros produtos farmacêuticos destinados exclusivamente a fins terapêuticos ou profilácticos.\n\n27. Pastas, gazes, tiras, pensos, adesivos e outros suportes análogos, mesmo impregnados ou revestidos de quaisquer substâncias, para usos higiénicos, medicinais ou cirúrgicos.\n\n28. Plantas, raízes e tubérculos medicinais no estado natural.\n\n29. Plantas vivas, de espécies florestais ou frutíferas, e suas estacas e enxertos.\n\n30. Produtos destinados à alimentação humana a seguir indicados:\n\na) Pão, produtos afins e farinhas para a sua fabricação. Bolachas de água e sal;\n\nb) Massas alimentícias e pastas secas similares;\n\nExceptuam-se da isenção as massas recheadas, embora prontas para utilização imediata, e as massas do tipo Ravioli, Cannelloni, Tortellini e semelhantes;\n\nc) Leite para alimentação sob todas as formas e produtos derivados, sem adição de matérias estranhas.\n\nInclui os iogurtes simples já preparados; o leite conservado em recipientes fechados hermeticamente; o leite evaporado ou concentrado, no estado líquido, pastoso, em blocos ou em pó e farinhas lácteas; a manteiga; os queijos, e o leite simples, engarrafado;\n\nd) Azeites e outros óleos comestíveis; margarinas, manteiga e mais gorduras alimentares de origem animal. Excluída a gordura alimentar açucarada (sweet fat);\n\ne) Batatas, legumes e outros produtos hortícolas, frescos, congelados, refrigerados ou secos, em grão, quando não tenham sofrido preparação diferente da cozedura;\n\nf) Frutas frescas, congeladas ou secas.\n\nNão estão abrangidas por esta isenção: as frutas enlatadas; as cristalizadas, caldeadas ou cobertas; os doces, geleias, compotas, purés e pastas de frutas, obtidos por cozedura ou com adição de açúcar ou de álcool; a castanha de caju, as avelãs, os pinhões, as nozes, as amêndoas e o amendoim torrado, nem os sumos de frutos e seus concentrados;\n\ng) Outros produtos de origem vegetal, da pesca, da piscicultura, da avicultura, de cunicultura, da apicultura e da caça que não tenham sofrido transformação.\n\nIncluem-se nesta alínea as ramas de açúcar e o açúcar refinado e granulado; o bacalhau; o arroz branqueado e glaceado; as farinhas, féculas e sêmolas para alimentação de crianças; as sopas e caldos concentrados e sintéticos; as conservas simples de sardinhas, atum, cavala, carapau, anchovas e as de moluscos, salvo ostras e caracóis.\n\nSão excluídos da isenção:\n\n1. Cacau, chocolates e respectivos compostos;\n\n2. Especiarias, condimentos, molhos, temperos e produtos aromatizantes para alimentos;\n\n3. Produtos industrializados que precisam de preparação prévia para serem consumidos; leveduras e pós para preparar sobremesas, pudins, refrescos, bebidas, cremes, gelados, sorvetes, geleias e outros, ainda que não adicionados de açúcar;\n\n4. Arroz expandido, corn-flakes e produtos análogos, obtidos de cereais por tratamento em corrente de ar ou por torrefacção;\n\n5. Sumos de legumes e seus concentrados;\n\n6. Conservas de caça;\n\n7. Pastas de fígado (foie-gras) e semelhantes;\n\n8. As misturas de farinhas, féculas, amidos, extractos de malte com leite, leitelho, açúcar, ovos, cascina, albumina, glúten, farinhas de legumes ou de frutas ou substâncias aromáticas; as farinhas de cacau com aveia; os preparados constituídos pela mistura de ovos e leite, em pó, extracto de malte e cacau; os preparados constituídos por farinha de arroz, féculas diversas, farinha de bolota doce, açúcar e cacau aromatizado com baunilha; os preparados compostos por misturas de farinhas de cereais e de farinhas de frutas, adicionados ou não de cacau ou malte, ou constituídos por farinha de frutas adicionadas de cacau;\n\n9. Salgadinhos e outros produtos utilizados como aperitivos ou acompanhantes de bebidas, constituídos por misturas de vários ingredientes, tais como farinhas, sêmolas, malte, sal, gorduras, especiarias, queijo, presunto, mariscos, etc.:\n\nh) Carnes de quaisquer outros animais, frescas, refrigeradas ou congeladas, e miudezas comestíveis;\n\ni) Preparados de carne ou de miudezas simplesmente cozinhados ou como produtos de salsicharia (enchidos, ensacados, salgados e fumados).\n\nEstão excluídos desta isenção a mortadela, o salame, os paios, as pastas, purés, picados, galantinas, toucinho fumado (bacon) e o presunto enrolado;\n\nj) Sal (cloreto de sódio):\n\nSal marinho e sal-gema.\n\nNão está abrangido nesta isenção o sal marinho ou sal-gema misturado com outros produtos para alimentação humana, nem o sal para tornar mais tenros os alimentos;\n\nl) Vinagres comestíveis;\n\nm) Vinhos comuns e de pasto vendidos a granel.\n\nApenas são considerados como vendidos a granel os vinhos transaccionados em quantidade não inferior a 50 l por vasilha.\n\nOs vinhos de outra natureza e as restantes bebidas alcoólicas são excluídos desta isenção.\n\nNa interpretação das isenções dos produtos alimentícios referidos na presente verba n.º 30 deverá ter-se em consideração que são excluídos do seu âmbito todos os produtos edulcorados não expressamente isentos, qualquer que seja a forma ou aspecto que apresentem.\n\nSão, pelo contrário, incluídos nas isenções desta verba os alimentos já cozinhados que por sua natureza tenham de ser consumidos imediatamente.\n\n31. Produtos considerados exclusivamente como desinfectantes, insecticidas, fungicidas, herbicidas, parasiticidas, raticidas e semelhantes.\n\n32. Ráfia natural.\n\n33. Sabões sólidos, não perfumados, para uso doméstico.\n\n34. Sementes para a agricultura e floricultura.\n\n35. Sulfato cúprico, sulfato férrico e sulfato duplo de cobre e ferro.\n\n36. Utensílios e alfaias agrícolas, motocultivadores, tractores e outras máquinas e aparelhos, exclusiva ou principalmente destinados à agricultura, pecuária e silvicultura.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela referidos, com exclusão, porém, dos protectores, pneumáticos e câmaras-de-ar.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+  },
+  "900546165": {
+   "fragment_id": "900538653",
+   "type": 4,
+   "heading": "Parte — LISTA B",
+   "in_force_from": "1974-10-15",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+   ],
+   "markdown": "## Parte — LISTA B\n\nTransacções sujeitas à taxa de 25%\n\n1. Aeronaves não abrangidas pela verba n.º 2 da lista A.\n\n2. Altifalantes e amplificadores de som.\n\n3. Antiguidades, raridades e objectos de colecção ou quaisquer mercadorias transaccionadas como tais.\n\n4. Aparelhos para aquecimento central.\n\n5. Aparelhos de massagem, estética e outros aparelhos para tratamento de beleza.\n\n6. Aparelhos receptores para radiodifusão ou televisão, incluindo os receptores combinados com gramofones ou gira-discos.\n\nCompreendem-se nesta verba as partes, peças e acessórios quando reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n7. Aparelhos para registo e reprodução de som:\n\na) Máquinas de ditar e outros aparelhos de gravação e reprodução de som, compreendendo os gira-discos e dispositivos semelhantes. Compreende as partes, peças, acessórios e respectivos estojos;\n\nb) Suportes de som para as máquinas e aparelhos abrangidos pela alínea anterior ou para usos análogos, tais como discos, cilindros, ceras, tiras, fitas e fios, preparados para gravação de som ou já gravados e respectivos álbuns.\n\n8. Armas de qualquer natureza e munições, salvo as de guerra.\n\nCompreendem-se nesta verba, designadamente:\n\na) Armas de fogo, de caça, de defesa, de recreio e de ornamentação;\n\nb) Espingardas, carabinas e pistolas de mola, de ar comprimido ou de gás;\n\nc) Partes, acessórios e peças separadas das referidas armas;\n\nd) Projécteis e munições, respectivas partes e peças separadas, compreendendo nomeadamente, zagalotes, chumbo de caça, balas de chumbo, setas, buchas para cartuchos e cartuchos de qualquer espécie.\n\n9. Artefactos total ou parcialmente de metais preciosos, com ou sem pérolas naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.\n\nCompreendem-se também nesta verba os artefactos só de prata, desde que contenham pérolas ou pedras preciosas.\n\nEstão excluídos os instrumentos de trabalho, quando da aplicação das matérias referidas resulte maior utilidade para o fim a que eles se destinam.\n\n10. Artigos de caça e de pesca desportiva, incluindo a submarina, bem como os respectivos equipamentos individuais.\n\n11. Artigos para divertimentos carnavalescos e fogos-de-artifício para recreio.\n\n12. Azulejos pintados à mão e tijoleira vidrada para painéis decorativos.\n\n13. Bebidas alcoólicas e extractos concentrados e compostos para a sua preparação ou fabrico, de preço superior a 50$00 por litro.\n\n14. Charuteiras, cigarreiras, tabaqueiras, fosforeiras, acendedores e isqueiros, domésticos ou portáteis.\n\n15. Conservas de esturjão e de salmão e preparados de ovas (caviar).\n\n16. Embarcações de recreio ou de desporto.\n\nCompreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados, bem como os motores fora de borda de potência superior a 25 H. P.\n\n17. Estatuetas e outros objectos de ornamentação, de madeira, de vidro, de pedra, de metal, de faiança ou de porcelana.\n\nExceptua-se desta verba a louça regional portuguesa.\n\n18. Instrumentos e aparelhos de fotografia, cinematografia e de óptica:\n\na) Máquinas fotográficas, aparelhos ou dispositivos para produção de luz relâmpago para fotografia e cinematografia;\n\nb) Aparelhos de tomadas de vistas e de som, mesmo combinados, e aparelhos de projecção, com ou sem reprodução de som, para cinematografia;\n\nc) Aparelhos de projecção fixa e móvel; aparelhos de ampliação ou de redução fotográfica;\n\nd) Alvos para projecções;\n\ne) Binóculos e óculos de grande alcance;\n\nf) Óculos de protecção (de sol, para alpinismo e desportos de Inverno, submarinos e estereoscópicos).\n\nCompreendem-se as partes, peças e acessórios dos referidos aparelhos, instrumentos e máquinas, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.\n\n19. Jogos, compreendendo os jogos mecânicos para recintos públicos.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos jogos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados; os acessórios comuns à maior parte dos jogos, tais como dados, fichas e indicadores de tempo; e, nomeadamente, as cartas de jogar, as mesas para jogos especialmente construídas para esse fim, como, por exemplo, as mesas com jogos de damas, aparelhos como o bilhar eléctrico e os jogos de tiro eléctricos, o futebol de mesa e semelhantes, de qualquer sistema, e os jogos de dominó, gamão, mahjong, glória, etc. Exclui-se, porém, o material de jogos reconhecidos como desportivos e o de jogos com características de brinquedo.\n\n20. Karts e suas peças ou acessórios, com exclusão dos pneumáticos, protectores e câmaras-de-ar.\n\n21. Louças e objectos de cerâmica, de faiança ou de porcelana, pintados à mão ou assinados.\n\nExceptuam-se desta verba a louça regional portuguesa.\n\n22. Máquinas e aparelhos eléctricos, a gás ou a petróleo:\n\na) Aparelhos frigoríficos;\n\nb) Máquinas de lavar e secar louça;\n\nc) Máquinas de lavar e secar roupa;\n\nd) Aspiradores de poeira e enceradoras;\n\ne) Esmagadores e misturadores de alimentos, batedores e espremedores de frutas;\n\nf) Máquinas de fazer café, chaleiras, torradeiras, grelhadores, assadores e aquecedores de alimentos;\n\ng) Máquinas e aparelhos de cozinha não especificados nesta verba, com excepção dos fogões;\n\nh) Ventoinhas, aparelhos renovadores de ar e secadores de cabelo;\n\ni) Máquinas de barbear, incluindo as de pilhas;\n\nj) Aparelhos para aquecimento de casas e usos semelhantes, incluindo os climatizadores.\n\nCompreendem-se as partes, peças e acessórios das referidas máquinas e aparelhos, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.\n\n23. Marfim e suas obras.\n\n24. Metais preciosos, salvo a prata e suas ligas.\n\n25. Microfones e respectivos suportes.\n\n26. Moedas de ouro ou prata e de ligas em que entrem aqueles ou outros metais preciosos, quando não tiverem curso legal no país de origem.\n\n27. Motociclos de cilindrada igual ou superior a 175 c. c.\n\n28. Objectos de cristal e de vidro de alta qualidade.\n\n29. Objectos de estanho e suas ligas para fins domésticos, decorativos ou de ornamentação.\n\n30. Objectos de porcelana, de madrepérola, de âmbar ou de coral, para ornamentação de interiores ou para adorno pessoal.\n\nCompreendem-se nesta verba os objectos de toucador.\n\n31. Pedras preciosas naturais, sintéticas ou reconstituídas e pérolas naturais ou de cultura, e suas obras, quando destinadas a adorno pessoal ou ornamentação.\n\n32. Peles e penas de avestruz, peles de elefante, répteis, peixes e mamíferos marinhos e suas obras.\n\nSó se consideram obras aquelas em cujo valor as peles ou as penas entrem em proporção superior a 40%.\n\n33. Peles em cabelo, para adorno, abafo ou vestuário e suas obras, com exclusão das de coelho e de ovinos ou de caprinos adultos, de espécies comum não denominadas.\n\nSó se consideram obras aquelas em cujo valor as peles entrem em proporção superior a 40%.\n\n34. Produtos para fotografia e cinematografia:\n\na) Chapas, películas de qualquer espécie, papel, cartolina, cartão e tecidos para fotografia;\n\nb) Chapas, películas e fitas cinematográficas, incluindo os diapositivos;\n\nc) Produtos químicos para fotografia e cinema.\n\n35. Produtos de perfumaria e toucador, com excepção apenas dos sabões, sabonetes, pastas dentífricas ou pós saponificados e dentifrícios e dos considerados medicinais pela Direcção-Geral de Saúde.\n\nCompreendem-se nesta verba os produtos perfumados e os utilizados no embelezamento e no tratamento estético, designadamente perfumes de qualquer natureza, incluindo os extractos e os óleos essenciais ou essências, seus subprodutos e soluções; água-de-colónia e loções; vinagres de toucador; cremes de beleza e para barbear; leites e águas de beleza; tintas para o rosto (secas, gordas e líquidas); depilatórios; pós-de-arroz e pós compactos, champôs, brilhantinas e fixadores; corantes para os lábios; cremes para tirar a pintura do rosto; óleos, pomadas e vaselinas perfumadas; vernizes, lacas e mais produtos corantes e descorantes para as unhas; talco perfumado; tintas, lápis e outros produtos para caracterização; rímel; lápis para as sobrancelhas; desodorizantes e linimentos anti-solares; preparados para ondulação do cabelo, incluindo as lacas; produtos para aplicação antes ou depois de fazer a barba; tintas e outros produtos para coloração e descoloração do cabelo; sais de banho; óleos para massagens; preparados perfumados (em pó, líquido, pastilhas, fitas, etc.) e saquinhos de plantas aromáticas para salas e quartos de banho ou para malas e armários.\n\n36. Reboques de campismo ou desporto, bem como os veículos automóveis com carroçaria apropriada àqueles mesmos fins.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos reboques ou veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo, porém, os protectores, pneumáticos e câmaras-de-ar.\n\n37. Relógios com caixas total ou parcialmente de metais preciosos ou guarnecidos de pérolas naturais ou de cultura, de pedras preciosas naturais, sintéticas ou reconstituídas.\n\n38. Rendas, bordados, galões e guarnições, em peça, em tiras ou em aplicações.\n\nExceptuam-se desta verba as rendas e bordados regionais portugueses e, bem assim, as roupas populares com aplicação dos artigos indicados nesta verba.\n\n39. Tapeçarias, tapetes e tecidos feitos à mão; tapeçarias em peça ou em obra género Gobelins, Flandres, Aubusson, Beauvais e semelhantes.\n\nExceptuam-se desta verba os tapetes regionais portugueses, feitos à mão.\n\n40. Tecidos em peça ou em obra, de seda natural, de vigonho, de pêlo de camelo, de alpaca, de iaque, de caxemira ou de cabra mohair.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+  },
+  "900546166": {
+   "fragment_id": "900550129",
+   "type": 4,
+   "heading": "Parte — LISTA C",
+   "in_force_from": "1974-10-15",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+   ],
+   "markdown": "## Parte — LISTA C\n\nTransacções sujeitas à taxa de 15%\n\n1. Alcatifas.\n\n2. Aquecedores de água, compreendendo os de imersão.\n\n3. Artefactos totalmente de prata, sem pérolas naturais ou de cultura, pedras preciosas naturais sintéticas ou reconstituídas.\n\n4. Artigos pneumáticos para recreio ou desportos náuticos.\n\n5. Brinquedos, jogos e artigos semelhantes, eléctricos ou de pilhas.\n\n6. Bebidas de qualquer natureza, contidas em garrafas, botijas, garrafões, frascos ou outros recipientes, com exclusão da cerveja, dos vinhos comuns ou de pasto engarrafados ou engarrafonados de preço não superior a 20$00 por litro e das bebidas incluídas nas verbas n.º 30 da lista A e n.º 13 da lista B.\n\n7. Cacau em pó e preparados alimentares que contenham cacau ou chocolate; chocolates de qualquer natureza e seus compostos, tais como bombons, paus, pastilhas, granulados, com recheios de frutos, cremes, etc., e ainda os produtos cobertos ou recheados de chocolate.\n\n8. Conservas de aves e de caça; pastas de fígado e semelhantes; cogumelos comestíveis, trufas, túberas, alcachofras e conservas de espargos.\n\n9. Crustáceos e ostras.\n\n10. Joalharia de imitação e de fantasia, incluindo imitações de pérolas, de gemas, de pedras preciosas e de artigos similares.\n\n11. Objectos de porcelana não incluídos nas verbas n.os 17, 21 e 30 da lista B e artefactos de grés fino.\n\nExceptuam-se o material isolador e os artefactos para usos químicos e usos técnicos.\n\n12. Papel para forrar paredes.\n\n13. Papel para vitrais.\n\n14. Prata.\n\n15. Produtos de confeitaria de todos os tipos, tais como rebuçados, caramelos, pastilhas elásticas ou outras, confeitos, amêndoas, granjeia, drops; frutas cristalizadas, caldeadas ou cobertas; doces, geleias, marmeladas, compotas, purés e pastas de frutas; frutas secas cobertas com açúcar ou salgadas; tâmaras recheadas e produtos similares.\n\nCompreendem-se ainda nesta verba os produtos de pastelaria e doçaria, tais como bolachas, biscoitos, gelados, sorvetes e outros produtos que sejam edulcorados, salvo as farinhas, féculas e sêmolas para alimentação de crianças referidas na alínea g) da verba n.º 30 da lista A e as bolachas dos tipos Maria e Torrada.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+  },
+  "900548194": {
+   "fragment_id": "900538652",
+   "type": 4,
+   "heading": "Parte — LISTA A",
+   "in_force_from": "1975-01-04",
+   "changed_by": [
+    "Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+   ],
+   "markdown": "## Parte — LISTA A\n\nTransacções isentas de imposto\n\n1. Adubos.\n\n2. Aeronaves destinadas a serviços públicos de transportes regulares de passageiros ou mercadorias e os lubrificantes e combustíveis utilizados nas mesmas aeronaves.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados às referidas aeronaves e os correspondentes simuladores de voo.\n\n3. Água comum.\n\nNão se compreende nesta verba a água comum transaccionada em garrafas, garrafões, botijas, frascos ou outros recipientes análogos.\n\n4. Algodão hidrófilo.\n\n5. Almofadas, colchões e travesseiros com enchimento de palha ou folhelho.\n\n6. Animais vivos exclusiva ou principalmente destinados à alimentação, ao trabalho agrícola ou à reprodução.\n\n7. Aparelhos e artefactos de prótese destinados a substituir, no todo ou em parte, qualquer membro ou órgão do corpo humano e ainda os empregados para corrigir a audição e os utilizados para tratamento de fracturas.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos aparelhos e artefactos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n8. Aparelhos ortopédicos, compreendendo o calçado, cintas médico-cirúrgicas e meias medicinais.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos aparelhos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n9. Bagaço de azeitona e de outras oleaginosas.\n\n10. Cadeiras de rodas e veículos semelhantes, accionados manualmente ou por motor, para inválidos.\n\nCompreendem-se nesta verba as partes, peças e acessórios das cadeiras e veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo-se, porém, os protectores, pneumáticos e câmaras-de-ar.\n\n11. Carvão mineral e vegetal, mesmo aglomerado, e coque.\n\n12. Electricidade.\n\n13. Embarcações de qualquer natureza não abrangidas pela verba n.º 16 da lista B.\n\nCom exclusão dos motores fora de borda, compreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados.\n\n14. Enxofre sublimado.\n\n15. Farinhas, resíduos e desperdícios das indústrias alimentares e quaisquer outros produtos próprios para alimentação de gados e aves de capoeira.\n\n16. Forragens e palha.\n\n17. Gás do petróleo e da hulha.\n\n18. Gasóleo e fuelóleo.\n\n19. Jornais e outras publicações periódicas, como tais considerados na legislação que regular a matéria.\n\n20. Lenha e desperdícios de madeira.\n\n21. Lentes para correcção da vista, excluídas as lupas.\n\n22. Livros e folhetos de natureza cultural, educativa, recreativa e desportiva, brochados ou encadernados.\n\nExceptuam-se da isenção as obras em cuja encadernação entrem peles, tecidos de seda, veludos ou semelhantes e, bem assim, as obras abrangíveis na verba n.º 3 da lista B.\n\n23. Máquinas, ferramentas e outros bens de equipamento afectos ao processo produtivo das mercadorias ou aos departamentos de apoio directo e exclusivo à produção de mercadorias.Esta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos referidos bens de equipamento, desde que adquiridos para nos mesmos serem aplicados.\n\n24. Material circulante para vias férreas, bem como catenárias e carris, material para a sua instalação, aparelhagem de via e instalações e material de sinalização eléctrica ou outra utilizados no transporte ferroviário de passageiros e mercadorias.\n\nEsta isenção está sujeita ao condicionalismo previsto nos §§ 2.º a 5.º do artigo 5.º do Código.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela incluídos.\n\n25. Material exclusivamente didáctico.\n\nCompreendem-se nesta verba:\n\na) Cadernos escolares que contenham a designação do seu uso e ainda as capas soltas quando tenham a indicação do estabelecimento de ensino;\n\nb) Colecções de anatomia, botânica, geologia, mineralogia, zoologia ou outras ciências e respectivos exemplares;\n\nc) Mapas ou estampas para o ensino;\n\nd) Globos terrestres ou celestes;\n\ne) Obras cartográficas;\n\nf) Preparações microscópicas;\n\ng) Instrumentos, aparelhos, utensílios, máquinas - incluindo as seccionadas - e modelos utilizados no ensino, não susceptíveis de outro uso;\n\nh) Quadros de qualquer material para escrita e desenho, encaixilhados ou não, e respectivos ponteiros e apagadores.\n\n26. Medicamentos, especialidades farmacêuticas e outros produtos farmacêuticos destinados exclusivamente a fins terapêuticos ou profilácticos.\n\n27. Pastas, gazes, tiras, pensos, adesivos e outros suportes análogos, mesmo impregnados ou revestidos de quaisquer substâncias, para usos higiénicos, medicinais ou cirúrgicos.\n\n28. Plantas, raízes e tubérculos medicinais no estado natural.\n\n29. Plantas vivas, de espécies florestais ou frutíferas, e suas estacas e enxertos.\n\n30. Produtos destinados à alimentação humana a seguir indicados:\n\na) Pão, produtos afins e farinhas para a sua fabricação; bolachas de água e sal, e bolachas edulcoradas dos tipos Maria e Torrada;\n\nb) Massas alimentícias e pastas secas similares.\n\nExceptuam-se desta alínea as massas recheadas, embora prontas para utilização imediata, e as massas dos tipos Ravioli, Cannelloni, Tortellini e semelhantes; estão, porém, compreendidas na isenção as massas destes tipos mas de consumo popular;\n\nc) Leite para alimentação sob todas as formas e produtos derivados, sem adição de matérias estranhas.\n\nCompreendem-se nesta alínea:\n\n1) Iogurtes já preparados e natas;\n\n2) Leite conservado em garrafas ou outros recipientes, fechados hermeticamente, ainda que adicionados de cacau, chocolate ou baunilha;\n\n3) Leite evaporado ou concentrado, no estado líquido, pastoso, em blocos ou em pó;\n\n4) Leite em pó ou granulado, leites dietéticos e farinhas lácteas, ainda que adicionados de elementos complementares, exclusivamente destinados à alimentação de crianças;\n\n5) Manteigas;\n\n6) Queijos;\n\nd) Azeites e outros óleos comestíveis; margarinas, manteiga e mais gorduras alimentares de origem animal e vegetal.\n\nExceptuam-se desta alínea a gordura alimentar açucarada do tipo Sweet fat;\n\ne) Batatas, legumes e outros produtos hortícolas, frescos, congelados, refrigerados, secos ou desidratados, em grão, em farinha ou em puré, quando não tenham sofrido preparação diferente da cozedura ou da fritura;\n\nf) Frutos frescos, congelados, curtidos, secos ou em salmoura, sem adição de produtos estranhos.\n\nNão estão abrangidos por esta isenção:\n\n1) Frutas enlatadas, cristalizadas, caldeadas ou cobertas;\n\n2) Doces, geleias, compostas, purés e pastas de frutas, obtidos por cozedura ou com adição de açúcar ou de álcool;\n\n3) Castanha de caju, avelãs, pinhões, nozes, amêndoa, coco e amendoim torrado;\n\n4) Anis estrelado, tapioca e baunilha;\n\n5) Sumos de frutas e seus extractos ou concentrados.\n\nConsidera-se, porém, incluída na isenção da presente alínea f) a marmelada;\n\ng) Outros produtos de origem vegetal, da pesca, da piscicultura, da avicultura, da cunicultura, da apicultura e da caça, que não tenham sofrido transformação.\n\nIncluem-se, porém, nesta alínea:\n\n1) Ramas de açúcar e açúcar refinado e granulado;\n\n2) Chá e café, ainda que solúveis ou sem cafeína;\n\n3) Cevada, chicória e grão-de-bico, torrados;\n\n4) Arroz branqueado e glaceado;\n\n5) Farinhas, féculas e sêmolas para alimentação de crianças;\n\n6) Sopas e caldos concentrados e sintéticos;\n\n7) Peixe salgado seco ou em salmoura;\n\n8) Conservas simples de sardinha, atum, cavala, carapau, anchovas e de moluscos, salvo ostras e caracóis;\n\n9) Mel, ainda que refinado.\n\nEstão excluídos da isenção contida nesta alínea g):\n\n1) Cacau, chocolates e respectivos compostos;\n\n2) Especiarias, condimentos, molhos, temperos e produtos aromatizantes para alimentos;\n\n3) Produtos industrializados que precisam de preparação prévia para serem consumidos; leveduras e pós para preparar sobremesas, pudins, refrescos, bebidas, cremes, gelados, sorvetes, geleias e outros, ainda que não adicionados de açúcar;\n\n4) Arroz expandido, corn-flakes e produtos análogos, obtidos de cereais por torrefacção ou por qualquer outro processo;\n\n5) Sumos de produtos hortícolas e seus extractos ou concentrados;\n\n6) Conservas de aves e de caça;\n\n7) Pastas de fígado (foie-gras) e semelhantes;\n\n8) Misturas de farinhas, féculas, amidos, extractos de malte com leite, leitelho, açúcar, ovos, caseína, albumina, glúten, farinhas de legumes ou de frutas ou substâncias aromáticas; farinhas de cacau com aveia; preparados constituídos pela mistura de ovos e leite, em pó, extracto de malte e cacau; preparados constituídos por farinha de arroz, féculas diversas, farinha de bolota doce, açúcar e cacau aromatizado com baunilha; preparados compostos por misturas de farinhas de cereais e farinhas de frutas, adicionados ou não de cacau ou malte, ou constituídos por farinha de frutas adicionadas de cacau;\n\n9) Salgadinhos de qualquer tipo e outros produtos utilizados como aperitivos ou acompanhantes de bebidas, constituídos por misturas de vários ingredientes, tais como farinhas, sêmolas, malte, sal, gorduras, especiarias, queijo, presunto, mariscos, etc.;\n\nh) Carnes de quaisquer outros animais, frescas, refrigeradas ou congeladas e miudezas comestíveis;\n\ni) Preparados de carne ou de miudezas, simplesmente cozinhados ou como produtos de salsicharia (enchidos, ensacados, salgados e fumados); fiambre e presunto.\n\nEstão excluídos desta isenção: a mortadela, o salame, as pastas, purés e galantinas, os picados e o toucinho fumado (bacon);\n\nj) Sal (cloreto de sódio):\n\na) Sal marinho;\n\nb) Sal-gema.\n\nNão estão abrangidos nesta isenção o sal marinho e o sal-gema misturados com outros produtos para alimentação humana, nem o sal para tornar mais tenros os alimentos;\n\nl) Vinagres comestíveis;\n\nm) Vinhos comuns ou de pasto vendidos a granel.\n\nApenas são considerados como vendidos a granel os vinhos transaccionados em quantidade não inferior a 40 l por vasilha.\n\nOs vinhos de outra natureza e as restantes bebidas alcoólicas são excluídas desta isenção.\n\nNa interpretação das isenções dos produtos alimentícios referidos na presente verba n.º 30 deverá ter-se em consideração que são excluídos do seu âmbito todos os produtos edulcorados não expressamente isentos, qualquer que seja a forma ou o aspecto que apresentem.\n\nSão, pelo contrário, incluídos nas isenções desta verba os alimentos já cozinhados que por sua natureza tenham de ser consumidos imediatamente.\n\n31. Produtos considerados exclusivamente como desinfectantes, insecticidas, fungicidas, herbicidas, parasiticidas, raticidas e semelhantes.\n\n32. Ráfia natural.\n\n33. Sabões sólidos, não perfumados, para o uso doméstico.\n\n34. Sementes, bolbos e alporques para a agricultura, horticultura e floricultura.\n\n35. Sulfato cúprico, sulfato férrico e sulfato duplo de cobre e ferro.\n\n36. Utensílios e alfaias agrícolas, silos móveis, motocultivadores, tractores e outras máquinas e aparelhos, exclusiva ou principalmente destinados à agricultura, pecuária ou silvicultura.\n\nCompreendem-se nesta verba as partes, peças e acessórios, desde que sejam reconhecíveis como exclusiva ou principalmente destinados aos bens nela referidos, com exclusão, porém, dos protectores, pneumáticos e câmaras-de-ar.\n\n> Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+  },
+  "900548195": {
+   "fragment_id": "900538653",
+   "type": 4,
+   "heading": "Parte — LISTA B",
+   "in_force_from": "1975-01-04",
+   "changed_by": [
+    "Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+   ],
+   "markdown": "## Parte — LISTA B\n\nTransacções sujeitas à taxa de 25%\n\n1. Aeronaves não abrangidas pela verba n.º 2 da lista A.\n\n2. Altifalantes e amplificadores de som.\n\n3. Antiguidades, raridades e objectos de colecção ou quaisquer mercadorias transaccionadas como tais.\n\n4. Aparelhos para aquecimento central.\n\n5. Aparelhos de massagem, estética e outros aparelhos para tratamento de beleza.\n\n6. Aparelhos receptores para radiodifusão ou televisão, incluindo os receptores combinados com gramofones ou gira-discos.\n\nCompreendem-se nesta verba as partes, peças e acessórios quando reconhecíveis como exclusiva ou principalmente a eles destinados.\n\n7. Aparelhos para registo e reprodução de som:\n\na) Máquinas de ditar e outros aparelhos de gravação e reprodução de som, compreendendo os gira-discos e dispositivos semelhantes. Compreende as partes, peças, acessórios e respectivos estojos;\n\nb) Suportes de som para as máquinas e aparelhos abrangidos pela alínea anterior ou para usos análogos, tais como discos, cilindros, ceras, tiras, fitas e fios, preparados para gravação de som ou já gravados e respectivos álbuns.\n\n8. Armas de qualquer natureza e munições, salvo as de guerra.\n\nCompreendem-se nesta verba, designadamente:\n\na) Armas de fogo, de caça, de defesa, de recreio e de ornamentação;\n\nb) Espingardas, carabinas e pistolas de mola, de ar comprimido ou de gás;\n\nc) Partes, acessórios e peças separadas das referidas armas;\n\nd) Projécteis e munições, respectivas partes e peças separadas, compreendendo, nomeadamente, zagalotes, chumbo de caça, balas de chumbo, setas, buchas para cartuchos e cartuchos de qualquer espécie.\n\n9. Artefactos total ou parcialmente de metais preciosos, com ou sem pérolas naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.\n\nCompreendem-se também nesta verba os artefactos só de prata, desde que contenham pérolas ou pedras preciosas.\n\nEstão excluídos os instrumentos de trabalho quando da aplicação das matérias referidas resulte maior utilidade para o fim a que eles se destinam.\n\n10. Artigos destinados à prática dos seguintes desportos:\n\na) Caça e pesca, incluindo a submarina, bem como os respectivos equipamentos individuais não expressamento excluídos.\n\nExceptuam-se desta alínea os seguintes artigos:\n\n1) Agulhas para redes;\n\n2) Alcofas;\n\n3) Alicates;\n\n4) Amostras ou iscos artificiais de diversos tipos, género peixe com fateixas, creek-chub e mirrolure;\n\n5) Anzóis e fateixas;\n\n6) Baldes e bolsas de lona, tela ou pano;\n\n7) Bóias dos tipos «peão», «peão longo», «buldo», «torpedo» com chumbeira ou semelhantes;\n\n8) Botas, capas, calças, chapéus e fatos, impermeáveis ou não;\n\n9) Caixas de plástico;\n\n10) Canautos;\n\n11) Cestos de arame bourriches;\n\n12) Chumbeiras próprias para redes de pesca e dos tipos «amêndoa», «pirâmide» e «charuto», para pesca à linha;\n\n13) Destorcedores;\n\n14) Fios de aço com revestimento de perlon ou nylon e fios de perlon ou de nylon;\n\n15) Fitas plásticas;\n\n16) Pingalins;\n\n17) Redes de pesca; e perlon e nylon, entrançado, para o respectivo fabrico;\n\nb) Esgrima;\n\nc) Esqui, incluindo o aquático;\n\nd) Golfe;\n\ne) Ténis, e excluindo o de mesa.\n\n11. Artigos para divertimentos carnavalescos e fogos-de-artifício para recreio.\n\n12. Azulejos pintados à mão e tijoleira vidrada.\n\n13. Bebidas alcoólicas e produtos para a sua preparação ou fabrico a seguir indicados:\n\na) Aguardentes de origem vínica, de cana (incluindo o rum), de figo e de outros frutos directamente fermentescíveis;\n\nb) Outras bebidas alcoólicas não incluídas nas alíneas c), (d) e e) do artigo 22.º do Código, nem na verba n.º 6 da lista C;\n\nc) Extractos concentrados e compostos para a preparação ou farico de bebidas alcoólicas;\n\nd) Vinhos de preço superior a 50$00 por litro.\n\n14. Charuteiras, cigarreiras, tabaqueiras, fosforeiras, acendedores e isqueiros, domésticos ou portáteis.\n\n15. Conservas de esturjão e de salmão e preparados de ovas (caviar).\n\n16. Embarcações de recreio ou de desporto.\n\nCompreendem-se nesta verba as partes, peças e acessórios das embarcações nela referidas, desde que sejam reconhecíveis como exclusiva ou principalmente a elas destinados, bem como os motores fora de borda de potência superior a 25 H. P.\n\n17. Estatuetas e outros objectos de ornamentação, de madeira, de vidro, de pedra, de metal, de cerâmica, de faiança ou de porcelana.\n\nComprendem-se nesta verba os objectos de toucador.\n\nExceptuam-se desta verba os produtos regionais portugueses e ainda os produtos em que o carácter utilitário ou funcional sobreleve nitidamente o ornamental.\n\n18. Instrumentos e aparelhos de fotografia, cinematografia e de óptica:\n\na) Máquinas fotográficas, aparelhos ou dispositivos para produção de luz relâmpago para fotografia e cinematografia;\n\nb) Aparelhos de tomadas de vistas e de som, mesmo combinados, e aparelhos de projecção, com ou sem reprodução de som, para cinematografia;\n\nc) Aparelhos de projecção fixa e móvel; aparelhos de ampliação ou de redução fotográfica;\n\nd) Alvos para projecções;\n\ne) Binóculos e óculos de grande alcance;\n\nf) Óculos de protecção (de sol, para alpinismo e desportos de Inverno, submarinos e estereoscópicos).\n\nComprendem-se as partes, peças e acessórios dos referidos aparelhos, instrumentos e máquinas, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.\n\n19. Jogos, compreendendo os jogos mecânicos para recintos públicos.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos jogos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados; os acessórios comuns à maior parte dos jogos, tais como dados, fichas a indicadores de tempo; e, nomeadamente, as cartas de jogar, as mesas para jogos especialmente construídas para esse fim, como, por exemplo, as mesas com jogos de damas, aparelhos como o bilhar eléctrico e os jogos de tiro eléctricos, o futebol de mesa e semelhantes, de qualquer sistema, e os jogos de dominó, gamão, mahjong, glória, etc. Exclui-se, porém, o material de jogos reconhecidos como desportivos e o de jogos com características de brinquedo.\n\n20. Karts e suas peças ou acessórios, com exclusão dos pneumáticos, protectores e câmaras-de-ar.\n\n21. Louças de cerâmica, de faiança ou de porcelana, pintadas à mão, assinadas ou de alta qualidade.\n\nExceptuam-se desta verba a louça regional portuguesa e, bem assim, a louça utilitária de uso doméstico.\n\n22. Máquinas e aparelhos eléctricos, a gás, a petróleo ou a vapor:\n\na) Aparelhos frigoríficos;\n\nb) Máquinas de lavar e secar louça;\n\nc) Máquinas de lavar e secar roupa e máquinas de passar a ferro, com excepção dos ferros de engomar;\n\nd) Aspiradores de poeira e enceradoras;\n\ne) Esmagadores e misturadores de alimentos, batedores e espremedores de frutas;\n\nf) Máquinas de fazer café, chaleiras, torradeiras, grelhadores, assadores e aquecedores de alimentos;\n\ng) Máquinas e aparelhos de cozinha não especificados nesta verba, com excepção dos fogões;\n\nh) Ventoinhas, aparelhos renovadores de ar e secadores de cabelo;\n\ni) Máquinas de barbear, incluindo as de pilhas;\n\nj) Aparelhos para aquecimento de casas e usos semelhantes, incluindo os climatizadores.\n\nCompreendem-se nesta verba as partes, peças e acessórios das referidas máquinas e aparelhos, quando sejam reconhecidos como exclusiva ou principalmente a eles destinados.\n\nSão excluídos desta verba os aparelhos e máquinas cujas características os tornem exclusivamente utilizáveis em actividades industriais, comerciais ou agrícolas.\n\n23. Marfim e suas obras.\n\n24. Metais preciosos, salvo a prata e suas ligas.\n\n25. Microfones e respectivos suportes.\n\n26. Moedas de ouro ou prata e de ligas em que entrem aqueles ou outros metais preciosos, quando não tiverem curso legal no país de origem.\n\n27. Motociclos de cilindrada igual ou superior a 175 c. c.\n\n28. Objectos de cristal e meio-cristal e objectos de vidro de alta qualidade, denominados ou assinados.\n\n29. Objectos de estanho e suas ligas para fins domésticos, decorativos ou de ornamentação.\n\n30. Objectos de madrepérola, de âmbar ou de coral, para ornamentação de interiores ou para adorno pessoal.\n\nCompreendem-se nesta verba os objectos de toucador.\n\n31. Pedras preciosas naturais, sintéticas ou reconstituídas e pérolas naturais ou de cultura, e suas obras, quando destinadas a adorno pessoal ou ornamentação.\n\n32. Peles e penas de avestruz, peles de elefante, répteis, peixes e mamíferos marinhos e suas obras.\n\nSó se consideram obras aquelas em cujo valor as peles ou as penas entrem em proporção superior a 40%.\n\n33. Peles em cabelo, para adorno, abafo ou vestuário e suas obras, com exclusão das de coelho e de ovinos ou de caprinos adultos, de espécies comuns não denominadas.\n\nSó se consideram obras aquelas em cujo valor as peles entrem em proporção superior a 40%.\n\n34. Produtos para fotografia e cinematografia:\n\na) Chapas, películas de qualquer espécie, papel, cartolina, cartão e tecidos para fotografia;\n\nb) Chapas, películas e fitas cinematográficas, incluindo os diapositivos;\n\nc) Produtos químicos para fotografias e cinema.\n\n35. Produtos de perfumaria e toucador, com excepção apenas de sabões, sabonetes, pastas dentífricas ou pós saponificados e dentifrícios e dos considerados medicinais pela Direcção-Geral de Saúde.\n\nCompreendem-se nesta verba os produtos perfumados e os utilizados no embelezamento e no tratamento estético, designadamente perfumes de qualquer natureza, incluindo os extractos e os óleos essenciais ou essências, seus subprodutos e soluções; água-de-colónia e loções; vinagres de toucador; cremes de beleza e para barbear; leites e águas de beleza; tintas para o rosto (secas, gordas e líquidas); depilatórios; pós-de-arroz e pós compactos, champôs, brilhantinas e fixadores; corantes para os lábios; cremes para tirar a pintura do rosto; óleos, pomadas e vaselinas perfumadas; vernizes, lacas e mais produtos corantes e descorantes para as unhas; talco perfumado; tintas, lápis e outros produtos para caracterização; rimel; lápis para as sobrancelhas; desodorizantes e linimentos antisolares; preparados para ondulação de cabelo, incluindo as lacas; produtos para aplicação antes ou depois de fazer a barba; tintas e outros produtos para coloração e descoloração do cabelo; sais de banho; óleos para massagens; preparados perfumados (em pó, líquido, pastilhas, fitas, etc.) e saquinhos de plantas aromáticas para salas e quartos de banho ou para malas e armários.\n\n36. Reboques de campismo ou desporto, bem como os veículos automóveis com carroçaria apropriada àqueles mesmos fins.\n\nCompreendem-se nesta verba as partes, peças e acessórios dos reboques ou veículos nela referidos, desde que sejam reconhecíveis como exclusiva ou principalmente a eles destinados, excluindo, porém, os protectores, pneumáticos e câmaras-de-ar.\n\n37. Relógios com caixas total ou parcialmente de metais preciosos ou guarnecidos de pérolas naturais ou de cultura, de pedras preciosas naturais, sintéticas ou reconstituídas.\n\n38. Rendas, bordados, galões e guarnições, em peça, em tiras ou em aplicações.\n\nExceptuam-se desta verba as rendas e bordados regionais portugueses, e, bem assim, as roupas de criança e roupas populares com aplicação dos artigos indicados nesta verba.\n\n39. Tapeçarias, tapetes e tecidos feitos à mão; tapeçarias em peça ou em obra, género Gobelins, Flandres, Aubusson, Beauvais e semelhantes, fabricados manual ou mecanicamente.\n\nExceptuam-se desta verba as tapeçarias, tapetes e tecidos regionais portugueses, feitos à mão.\n\n40. Tecidos, em peça ou em obra, de seda natural, de vigonho, de pêlo de camelo, de alpaca, de iaque, de caxemira ou de cabra mohair, cuja percentagem seja superior a 30%.\n\n> Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+  },
+  "900548196": {
+   "fragment_id": "900550129",
+   "type": 4,
+   "heading": "Parte — LISTA C",
+   "in_force_from": "1975-01-04",
+   "changed_by": [
+    "Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+   ],
+   "markdown": "## Parte — LISTA C\n\nTransacções sujeitas à taxa de 15%\n\n1. Alcatifas, passadeiras, tapeçarias e tapetes, fabricados em teares manuais ou mecânicos.\n\nExceptuam-se desta verba os tapetes de dimensão não superior a 0,50 m2.\n\n2. Aquecedores de água, compreendendo os de imersão.\n\n3. Artefactos totalmente de prata, sem pérolas, naturais ou de cultura, pedras preciosas naturais, sintéticas ou reconstituídas.\n\n4. Artigos pneumáticos para recreio ou desportos náuticos.\n\n5. Brinquedos, jogos e artigos semelhantes, eléctricos ou de pilhas.\n\n6. Bebidas e outros produtos, contidos em qualquer recipiente, a seguir indicados:\n\na) Vinhos de preço igual ou inferior a 50$00 por litro;\n\nb) Xaropes;\n\nc) Extractos ou concentrados de frutos.\n\nExceptuam-se desta verba os seguintes produtos:\n\n1) Vinhos comuns ou de pasto, engarrafados ou engarrafonados, desde que sejam observadas cumulativamente as seguintes condições:\n\nIndicação obrigatória, nos rótulos, do preço de venda no retalho;\n\nO referido preço não poderá exceder 18$00 por litro quando em recipientes de capacidade não superior a 1 l, nem 15$00 por litro quando contidos em recipientes de capacidade superior a 1 l, mas não excedente a 5,3 l;\n\n2) Bebidas abrangidas na alínea d) do artigo 22.º do Código;\n\n3) Bebidas incluídas na verba n.º 30 da lista A.\n\n7. Cacau em pó e preparados alimentares que contenham cacau ou chocolate; chocolates de qualquer natureza e seus compostos, tais como bombons, paus, pastilhas, granulados, com ou sem recheios de frutos, cremes, licores, etc., e ainda outros produtos cobertos ou recheados de chocolate.\n\nExceptuam-se desta verba o leite e os iogurtes adicionados de cacau, chocolate ou baunilha, ainda que edulcorados.\n\n8. Conservas de aves e de caça; pastas de fígado e semelhantes; cogumelos comestíveis, trufas, túberas, alcachofras e conservas de espargo.9. Crustáceos e ostras.\n\n10. Joalharia de imitação e de fantasia, incluindo imitações de pérolas, de gemas, de pedras preciosas e de artigos similares.\n\n11. Objectos de porcelana não compreendidos na verba n.º 17 da lista B e artefactos de grés fino.\n\nExceptuam-se desta verba o material isolador e os artefactos para usos químicos e usos técnicos.\n\n12. Papel, tecidos e outros produtos para forrar paredes ou tectos.\n\n13. Papel para vitrais.\n\n14. Prata.\n\n15. Produtos de confeitaria de todos os tipos, tais como rebuçados, caramelos, pastilhas elásticas ou outras, confeitos, amêndoas, granjeia, drops; frutas cristalizadas, caldeadas ou cobertas; doces, geleias, compotas, purés e pastas de frutas; frutas secas cobertas com açúcar ou salgadas; frutas recheadas.\n\nCompreendem-se ainda nesta verba os produtos de pastelaria e doçaria, tais como bolachas, biscoitos, gelados, sorvetes e outros produtos edulcorados.\n\nExceptuam-se desta verba as farinhas, féculas e sêmolas para alimentação de crianças, incluídas na alínea g) da verba n.º 30 da lista A, a marmelada e as bolachas dos tipos Maria e Torrada.\n\n> Alterado pelo/a Parte do/a [Decreto-Lei n.º 756/74 - Diário do Governo n.º 302/1974, Série I de 1974-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/756-1974-461400), em vigor a partir de 1975-01-04\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 240/1974, Série I de 1974-10-15](https://diariodarepublica.pt/dr/detalhe/rectificacao/1974-472112), em vigor a partir de 1974-10-15"
+  },
+  "900548199": {
+   "fragment_id": "900538650",
+   "type": 14,
+   "heading": "Anexo — Imposto profissional",
+   "in_force_from": "1975-07-01",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 209/75 - Diário do Governo n.º 91/1975, Série I de 1975-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), em vigor a partir de 1975-07-01"
+   ],
+   "markdown": "## Anexo — Imposto profissional\n\nTabela das actividades exercidas por conta própria a que se referem os artigos 2.º, alínea c), 10.º e 31.º do Código do Imposto Profissional e o artigo 8.º do Decreto-Lei n.º 375/74, de 20 de Agosto\n\n(ver documento original)\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 209/75 - Diário do Governo n.º 91/1975, Série I de 1975-04-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1975-158395), em vigor a partir de 1975-07-01"
+  },
+  "900548271": {
+   "fragment_id": "900538619",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25"
+   ],
+   "markdown": "###### Artigo 4.º\n\n- 1. As câmaras municipais do continente e ilhas adjacentes deverão organizar um cadastro dos terrenos para construção imediata, nos termos do artigo 7.º, n.º 1, do Decreto-Lei n.º 576/70, de 24 de Novembro.\n\n2. Os proprietários dos terrenos compreendidos no cadastro a que se refere o número anterior serão notificados para, no prazo de sessenta dias, declararem na câmara municipal o valor que lhes atribuem, o qual só poderá ser alterado por nova declaração apresentada na câmara municipal.\n\n3. O valor declarado pelos proprietários será comunicado, no prazo de trinta dias, à respectiva repartição de finanças, acompanhado dos demais elementos necessários à inscrição matricial, considerando-se, para este efeito, como rendimento colectável a vigésima parte desse valor.\n\n4. Os terrenos a que se refere o presente artigo ficam sujeitos a contribuição predial urbana às taxas de 20% no primeiro ano, 30% no segundo e 40% nos seguintes, a qual cessará unicamente a partir do ano imediato ao do início da construção.\n\n5. A tributação estabelecida no número anterior cessará igualmente nos casos em que o proprietário conceda à câmara municipal a promoção da venda do terreno em hasta pública, podendo esta cobrar, no caso de a venda se realizar, a taxa de 10% sobre o valor da transacção; no caso de a praça ficar deserta, restabelece-se o direito da tributação, salvo se o proprietário declarar novo valor para efeitos de nova praça e dos n.os 2 e seguintes.\n\n6. A câmara municipal poderá usar do direito de expropriação pelo valor declarado, ou usar do direito de preferência, por esse valor, em qualquer caso de alienação que não seja em hasta pública por ela realizada.\n\n> Revogado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25"
+  },
+  "900548270": {
+   "fragment_id": "900538620",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25",
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 445/74 - Diário do Governo n.º 213/1974, Série I de 1974-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), em vigor a partir de 1974-09-17"
+   ],
+   "markdown": "###### Artigo 5.º\n\nA contribuição predial respeitante a prédios urbanos de habitação desocupados fica sujeita às seguintes regras:\n\n1.ª [Revogada.]\n\n2.ª Os prédios construídos de novo e destinados a arrendamento ficam sujeitos a tributação, salvo nos casos em que exista lei especial em contrário, nos termos seguintes:\n\na) A partir da data em que sejam habitáveis ou, nos casos em que a lei estabeleça prazo ou condicionalismo para o arrendamento, logo que decorra o referido prazo ou logo que seja verificado o condicionalismo ou decorrido o tempo em que deveria ser cumprido, quando dependa do respectivo titular;\n\nb) A partir da data da ocupação, se esta for anterior a qualquer dos prazos previstos na alínea precedente.\n\n3.ª A contribuição predial nos casos estabelecidos na regra anterior incidirá, salvo disposição legal em contrário, sobre o rendimento fixado por avaliação, quando não houver título de arrendamento.\n\n4.ª A sujeição a contribuição predial urbana dos prédios construídos de novo e destinados a venda começará depois de decorridos seis meses após a construção, se outro prazo não for estabelecido por lei, ou se a não alienação não for imputável ao proprietário.\n\n5.ª [Revogada.]\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 445/74 - Diário do Governo n.º 213/1974, Série I de 1974-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), em vigor a partir de 1974-09-17"
+  },
+  "900548272": {
+   "fragment_id": "900538642",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1983-06-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+   ],
+   "markdown": "###### Artigo 27.º\n\n- 1. É proibido às empresas comerciais ou industriais e, bem assim, às empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias efectuarem despesas confidenciais ou não documentadas.\n\n2 - A infracção ao disposto neste artigo será punida com multa igual à despesa total efectuada durante o exercício quando esse montante ultrapasse 1% da facturação total da empresa no mesmo período ou o máximo de 10000000$00, não podendo a multa ser inferior a 20000$00.\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+  },
+  "900548273": {
+   "fragment_id": "900538620",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1986-01-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 13/86 - Diário da República n.º 19/1986, Série I de 1986-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), em vigor a partir de 1986-01-24",
+    "Alterado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25",
+    "Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 445/74 - Diário do Governo n.º 213/1974, Série I de 1974-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), em vigor a partir de 1974-09-17"
+   ],
+   "markdown": "###### Artigo 5.º\n\nA contribuição predial respeitante a prédios urbanos de habitação desocupados fica sujeita às seguintes regras:\n\n1.ª [Revogada.]\n\n2.ª Os prédios construídos de novo e destinados a arrendamento ficam sujeitos a tributação, salvo nos casos em que exista lei especial em contrário, nos termos seguintes:\n\na) A partir da data em que sejam habitáveis ou, nos casos em que a lei estabeleça prazo ou condicionalismo para o arrendamento, logo que decorra o referido prazo ou logo que seja verificado o condicionalismo ou decorrido o tempo em que deveria ser cumprido, quando dependa do respectivo titular;\n\nb) A partir da data da ocupação, se esta for anterior a qualquer dos prazos previstos na alínea precedente.\n\n3.ª A contribuição predial nos casos estabelecidos na regra anterior incidirá, salvo disposição legal em contrário, sobre o rendimento fixado por avaliação, quando não houver título de arrendamento.\n\n4.ª A sujeição a contribuição predial urbana dos prédios construídos de novo e destinados a venda começará depois de decorridos seis meses após a construção, se outro prazo não for estabelecido por lei, ou se a não alienação não for imputável ao proprietário.\n\n5.ª [Revogada.]\n\n> Revogado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 13/86 - Diário da República n.º 19/1986, Série I de 1986-01-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), em vigor a partir de 1986-01-24\n\n> Alterado pelo/a Artigo 15.º do/a [Lei n.º 4/81 - Diário da República n.º 95/1981, 1º Suplemento, Série I de 1981-04-24](https://diariodarepublica.pt/dr/detalhe/lei/4-1981-667768), produz efeitos a partir de 1974-08-25\n\n> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 445/74 - Diário do Governo n.º 213/1974, Série I de 1974-09-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/445-1974-473731), em vigor a partir de 1974-09-17"
+  },
+  "900548274": {
+   "fragment_id": "900538642",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1986-05-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 58.º do/a [Lei n.º 9/86 - Diário da República n.º 99/1986, 2º Suplemento, Série I de 1986-04-30](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), em vigor a partir de 1986-05-02",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+   ],
+   "markdown": "###### Artigo 27.º\n\n- 1. É proibido às empresas comerciais ou industriais e, bem assim, às empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias efectuarem despesas confidenciais ou não documentadas.\n\n2 - A infracção ao disposto neste artigo será punida com multa igual à desposa total efectuada durante o exercício quando esse montante ultrapassa 0,5% da facturação total da empresa no mesmo período ou o máximo de 5000000$00, não podendo a multa ser inferior a 20000$00.\n\n> Alterado pelo/a Artigo 58.º do/a [Lei n.º 9/86 - Diário da República n.º 99/1986, 2º Suplemento, Série I de 1986-04-30](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), em vigor a partir de 1986-05-02\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+  },
+  "900553475": {
+   "fragment_id": "900538642",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1986-07-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/86 - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1986-228595), em vigor a partir de 1986-07-02",
+    "Alterado pelo/a Artigo 58.º do/a [Lei n.º 9/86 - Diário da República n.º 99/1986, 2º Suplemento, Série I de 1986-04-30](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), em vigor a partir de 1986-05-02",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+   ],
+   "markdown": "###### Artigo 27.º\n\n- 1. É proibido às empresas comerciais ou industriais e, bem assim, às empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias efectuarem despesas confidenciais ou não documentadas.\n\n2 - A infracção ao disposto neste artigo será punida com multa igual à despesa total efectuada durante o exercício quando esse montante ultrapasse 0,5% da facturação total da empresa no mesmo período ou o máximo de 5000000$00, não podendo a multa ser inferior a 20000$00.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/86 - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1986-228595), em vigor a partir de 1986-07-02\n\n> Alterado pelo/a Artigo 58.º do/a [Lei n.º 9/86 - Diário da República n.º 99/1986, 2º Suplemento, Série I de 1986-04-30](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), em vigor a partir de 1986-05-02\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+  },
+  "900553476": {
+   "fragment_id": "900538642",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1988-01-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 57.º do/a [Lei n.º 2/88 - Diário da República n.º 21/1988, 1º Suplemento, Série I de 1988-01-26](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), em vigor a partir de 1988-01-31",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/86 - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1986-228595), em vigor a partir de 1986-07-02",
+    "Alterado pelo/a Artigo 58.º do/a [Lei n.º 9/86 - Diário da República n.º 99/1986, 2º Suplemento, Série I de 1986-04-30](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), em vigor a partir de 1986-05-02",
+    "Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+   ],
+   "markdown": "###### Artigo 27.º\n\n1 - As empresas comerciais ou industriais, e bem assim as empresas com escrita devidamente organizada que se dediquem a explorações agrícolas, silvícolas ou pecuárias, que efectuem despesas confidenciais ou não documentadas ficam sujeitas, para esse tipo de despesas, à taxa de contribuição industrial agravada em 20%.\n\n2 - A realização das despesas a que se refere o número anterior que ultrapassem 2% da facturação total constitui infracção punida com multa de igual montante.\n\n> Alterado pelo/a Artigo 57.º do/a [Lei n.º 2/88 - Diário da República n.º 21/1988, 1º Suplemento, Série I de 1988-01-26](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), em vigor a partir de 1988-01-31\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 167/86 - Diário da República n.º 145/1986, Série I de 1986-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-1986-228595), em vigor a partir de 1986-07-02\n\n> Alterado pelo/a Artigo 58.º do/a [Lei n.º 9/86 - Diário da República n.º 99/1986, 2º Suplemento, Série I de 1986-04-30](https://diariodarepublica.pt/dr/detalhe/lei/9-1986-402909), em vigor a partir de 1986-05-02\n\n> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 235-F/83 - Diário da República n.º 126/1983, 2º Suplemento, Série I de 1983-06-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/235-f-1983-245347), em vigor a partir de 1983-06-06"
+  }
+ }
+}

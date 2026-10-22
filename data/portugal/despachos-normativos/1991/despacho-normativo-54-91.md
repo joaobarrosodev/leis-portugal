@@ -1,0 +1,99 @@
+---
+schema_version: '1.0'
+id: pt:dre:466835:por
+title: Despacho Normativo n.º 54/91
+short_title: null
+summary: Cria no quadro de pessoal do Instituto Português do Património Cultural, aprovado pelo Decreto-Lei n.º 216/90, de
+  3 de Julho, um lugar de arquitecto assessor da carreira de arquitecto
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministério das Finanças
+proposing_entity: null
+official_number: 54/91
+official_date: null
+publication_date: '1991-03-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 52/1991, Série I-B de 1991-03-04
+  number: '52'
+  series: I
+  supplement: null
+  pages: 1092 - 1092
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/03/052b00/10921092.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/54/1991/03/04/p/dre/pt/html
+  oj: null
+  dre: '466835'
+  dre_path: /dr/detalhe/despacho-normativo/54-1991-466835
+  internal: pt:dre:466835:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/54-1991-466835
+  metadata_url: https://data.dre.pt/eli/despnorm/54/1991/03/04/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/54-1991-466835
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-03-04T00:00:00Z'
+integrity:
+  source_sha256: 9e7a2573bd665ffb23bd1a5159843c9933f1b24a3667ca316ab2aab650be12ff
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-54-466835.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto Português do Património Cultural
+- Pessoal Técnico Superior
+- Quadro de Pessoal
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 54/91
+
+Considerando que o arquitecto de 1.ª classe do quadro de pessoal do Instituto Português do Património Cultural licenciado Alexandre Manuel Machado Santos Brás Mimoso cessou a comissão de serviço como director de serviços do Departamento do Património Arquitectónico do organismo referido, nos termos do artigo 20.º do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Julho, diploma este que veio revogar o [Decreto Regulamentar n.º 34/80](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/34-1980-470228), de 2 de Agosto;
+
+Considerando o disposto na alínea a) do n.º 2 do artigo 18.º do [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, e nos n.os 4 e 5 do mesmo artigo e diploma:
+
+Determina-se:
+
+1 - É criado no quadro de pessoal do Instituto Português do Património Cultural, aprovado pelo [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Julho, um lugar de arquitecto assessor da carreira de arquitecto, a extinguir quando vagar.
+
+2 - A criação do lugar referido no número anterior produz efeitos desde a entrada em vigor do [Decreto-Lei n.º 216/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1990-575493), de 3 de Julho.
+
+Presidência do Conselho de Ministros e Ministério das Finanças, 15 de Fevereiro de 1991. - O Secretário de Estado da Cultura, Pedro Miguel Santana Lopes. - A Secretária de Estado do Orçamento, Maria Manuela Dias Ferreira Leite.

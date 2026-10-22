@@ -1,0 +1,256 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:117821815:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2019-117821845",
+ "dre_path": "/dr/detalhe/portaria/17-2019-117821815",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "128508182",
+    "117752732",
+    "117752733",
+    "117752734",
+    "117752735",
+    "117752737"
+   ]
+  },
+  {
+   "date": "2019-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:120489640:por",
+     "title": "Portaria n.º 72-A/2019",
+     "published": "2019-03-01",
+     "dre_path": "/dr/detalhe/portaria/72-a-2019-120489640"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "117752731",
+    "120609165",
+    "117752733",
+    "120609160",
+    "120609161",
+    "120609162",
+    "120609163",
+    "120609164"
+   ]
+  },
+  {
+   "date": "2020-01-25",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:128470387:por",
+     "title": "Portaria n.º 17/2020",
+     "published": "2020-01-24",
+     "dre_path": "/dr/detalhe/portaria/17-2020-128470387"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "128508182",
+    "128508183",
+    "128508184",
+    "128508185",
+    "128508186",
+    "128508187",
+    "128508188",
+    "128508189"
+   ]
+  }
+ ],
+ "fragments": {
+  "128508182": {
+   "fragment_id": "117821846",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2020-01-25",
+   "changed_by": [],
+   "markdown": "Portaria n.º 17/2019\n\nde 15 de janeiro\n\nO artigo 46.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua atual redação, determina que o financiamento dos serviços a prestar pelas unidades da Rede Nacional de Cuidados Continuados Integrados (RNCCI), é estabelecido mediante modelo de financiamento próprio, a aprovar por portaria dos Ministros das Finanças, do Trabalho e da Solidariedade Social e da Saúde.\n\nAtravés da Portaria n.º 1087-A/2007, de 5 de setembro, foi definido o modelo de financiamento da RNCCI, bem como fixados os preços dos cuidados de saúde e de apoio social nas unidades de internamento e ambulatório da RNCCI.\n\nDe acordo com o disposto na alínea c) do n.º 1 do artigo 47.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua atual redação, o financiamento de cada tipo de serviços é específico, com preços adequados e revistos periodicamente, por forma a assegurar a sustentabilidade e a prestação de cuidados de qualidade.\n\nNeste contexto, procedeu-se no ano 2017 à atualização dos preços em 0,6 %, através da Portaria n.º 353/2017, de 16 de novembro, por aplicação da variação média do índice de preço no consumidor, conforme constante no Compromisso de Cooperação para o Setor Social e Solidário, Protocolo para o biénio 2017-2018.\n\nNo âmbito da Adenda ao Compromisso de Cooperação para o Sector Social e Solidário, assinada a 13 de abril de 2018, e volvidos 12 meses a contar da última atualização de preços, procedeu-se a uma atualização na percentagem de 2,2 %, sobre os preços dos cuidados de saúde e de apoio social nas unidades da RNCCI face ao observado em 2017.\n\nEstas atualizações sucederam-se a um período de alguns anos caraterizado por um desinvestimento na RNCCI, tendo sido necessário apostar no seu alargamento a partir de 2016, procedendo ao longo deste período a atualizações de preços que, com equilíbrio e rigor orçamental, fossem compatíveis com aquele desafio.\n\nEm 2019 encontram-se reunidas as condições para proceder a uma atualização dos preços, em conformidade com o disposto no n.º 6 da Portaria n.º 1087-A/2007, de 5 de setembro, na sua redação atual, que reflita a partir de 1 de janeiro de 2019 os preços que resultam diretamente da aplicação da variação média do índice de preço no consumidor em cada um dos últimos quatro anos, ou seja, entre 2016 e 2019, repondo-se assim a normalidade no que se refere à atualização determinada por aplicação do índice de preços do consumidor.\n\nNeste contexto, relevando a importância da RNCCI, bem como o compromisso do XXI Governo Constitucional de assegurar mais e melhores cuidados continuados integrados de saúde e de apoio social, importa continuar a apostar no alargamento da Rede, repor a normalidade e regular funcionamento, e salvaguardar, simultaneamente, a sustentabilidade das entidades promotoras e gestoras das sua unidades e equipas.\n\nAssim:\n\nAo abrigo do artigo 46.º do Decreto-Lei n.º 101/2006, de 6 de junho, alterado e republicado pelo Decreto-Lei n.º 136/2015, de 28 de julho, e do artigo 23.º e do n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro e ao abrigo das competências delegadas pelos Despachos n.º 7316/2017, publicado no Diário da República, 2.ª série, n.º 160, de 21 de agosto de 2017, n.º 1300/2016, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro de 2016 e n.º 11011/2018, publicado no Diário da República, 2.ª série, n.º 227, de 20 de novembro de 2018, manda o Governo, pelo Secretário de Estado do Orçamento, pela Secretária de Estado da Segurança Social e pela Secretária de Estado da Saúde, o seguinte:"
+  },
+  "117752732": {
+   "fragment_id": "117821847",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nOs preços dos cuidados de saúde e de apoio social prestados nas unidades de internamento e de ambulatório da Rede Nacional de Cuidados Continuados Integrados (RNCCI), a praticar a partir da data de entrada em vigor da presente portaria, constam da tabela em anexo à presente portaria, que dela faz parte integrante."
+  },
+  "117752733": {
+   "fragment_id": "117821848",
+   "type": 11,
+   "heading": "Artigo 2.º — Encargos com fraldas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Encargos com fraldas\n\n1 - O preço a pagar às unidades de longa duração e manutenção (ULDM) da RNCCI, por dia e por utente, pelos encargos decorrentes da utilização de fraldas é o constante da tabela em anexo à presente portaria, que dela faz parte integrante.\n\n2 - Para efeitos do disposto no número anterior, apenas se consideram os dias de internamentos efetivos na ULDM.\n\n3 - Ao utente não pode ser exigida pela ULDM qualquer quantia pelos encargos decorrentes da utilização de fraldas."
+  },
+  "117752734": {
+   "fragment_id": "117821849",
+   "type": 11,
+   "heading": "Artigo 3.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação\n\nÉ revogada a Portaria n.º 10/2019, de 14 de janeiro."
+  },
+  "117752735": {
+   "fragment_id": "117821850",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2019.\n\nEm 14 de janeiro de 2019."
+  },
+  "117752737": {
+   "fragment_id": "117821852",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(anexo II da Portaria n.º 1087-A/2007, de 5 de setembro, na redação dada pelo anexo III da Portaria n.º 189/2008, de 19 de fevereiro)\n\n(ver documento original)\n\n111979094"
+  },
+  "117752731": {
+   "fragment_id": "117821846",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 17/2019\n\nde 15 de janeiro\n\nO artigo 46.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua atual redação, determina que o financiamento dos serviços a prestar pelas unidades da Rede Nacional de Cuidados Continuados Integrados (RNCCI), é estabelecido mediante modelo de financiamento próprio, a aprovar por portaria dos Ministros das Finanças, do Trabalho e da Solidariedade Social e da Saúde.\n\nAtravés da Portaria n.º 1087-A/2007, de 5 de setembro, foi definido o modelo de financiamento da RNCCI, bem como fixados os preços dos cuidados de saúde e de apoio social nas unidades de internamento e ambulatório da RNCCI.\n\nDe acordo com o disposto na alínea c) do n.º 1 do artigo 47.º do Decreto-Lei n.º 101/2006, de 6 de junho, na sua atual redação, o financiamento de cada tipo de serviços é específico, com preços adequados e revistos periodicamente, por forma a assegurar a sustentabilidade e a prestação de cuidados de qualidade.\n\nNeste contexto, procedeu-se no ano 2017 à atualização dos preços em 0,6 %, através da Portaria n.º 353/2017, de 16 de novembro, por aplicação da variação média do índice de preço no consumidor, conforme constante no Compromisso de Cooperação para o Setor Social e Solidário, Protocolo para o biénio 2017-2018.\n\nNo âmbito da Adenda ao Compromisso de Cooperação para o Sector Social e Solidário, assinada a 13 de abril de 2018, e volvidos 12 meses a contar da última atualização de preços, procedeu-se a uma atualização na percentagem de 2,2 %, sobre os preços dos cuidados de saúde e de apoio social nas unidades da RNCCI face ao observado em 2017.\n\nEstas atualizações sucederam-se a um período de alguns anos caraterizado por um desinvestimento na RNCCI, tendo sido necessário apostar no seu alargamento a partir de 2016, procedendo ao longo deste período a atualizações de preços que, com equilíbrio e rigor orçamental, fossem compatíveis com aquele desafio.\n\nEm 2019 encontram-se reunidas as condições para proceder a uma atualização dos preços, em conformidade com o disposto no n.º 6 da Portaria n.º 1087-A/2007, de 5 de setembro, na sua redação atual, que reflita a partir de 1 de janeiro de 2019 os preços que resultam diretamente da aplicação da variação média do índice de preço no consumidor em cada um dos últimos quatro anos, ou seja, entre 2016 e 2019, repondo-se assim a normalidade no que se refere à atualização determinada por aplicação do índice de preços do consumidor.\n\nNeste contexto, relevando a importância da RNCCI, bem como o compromisso do XXI Governo Constitucional de assegurar mais e melhores cuidados continuados integrados de saúde e de apoio social, importa continuar a apostar no alargamento da Rede, repor a normalidade e regular funcionamento, e salvaguardar, simultaneamente, a sustentabilidade das entidades promotoras e gestoras das sua unidades e equipas.\n\nAssim:\n\nAo abrigo do artigo 46.º do Decreto-Lei n.º 101/2006, de 6 de junho, alterado e republicado pelo Decreto-Lei n.º 136/2015, de 28 de julho, e do artigo 23.º e do n.º 1 do artigo 25.º do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro e ao abrigo das competências delegadas pelos Despachos n.º 7316/2017, publicado no Diário da República, 2.ª série, n.º 160, de 21 de agosto de 2017, n.º 1300/2016, publicado no Diário da República, 2.ª série, n.º 18, de 27 de janeiro de 2016 e n.º 11011/2018, publicado no Diário da República, 2.ª série, n.º 227, de 20 de novembro de 2018, manda o Governo, pelo Secretário de Estado do Orçamento, pela Secretária de Estado da Segurança Social e pela Secretária de Estado da Saúde, o seguinte:"
+  },
+  "120609165": {
+   "fragment_id": "117821847",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2019-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nOs preços a praticar pelos cuidados de saúde e de apoio social prestados nas unidades de internamento e de ambulatório da Rede Nacional de Cuidados Continuados Integrados (RNCCI), com contratos já celebrados ou a celebrar no decurso da vigência da presente portaria, a partir da data da sua entrada em vigor são os constantes da tabela a ela anexa e que dela faz parte integrante.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+  },
+  "120609160": {
+   "fragment_id": "120610499",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Encargos plurianuais",
+   "in_force_from": "2019-03-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Encargos plurianuais\n\nPara efeitos da assunção dos compromissos plurianuais no âmbito dos contratos-programa com as entidades integradas ou a integrar a RNCCI, previstos nos Despachos n.os 4212/2017, publicado no Diário da República, 2.ª série, n.º 95, de 17 de maio de 2017, 11482-A/2017, publicado no Diário da República, 2.ª série, n.º 249, de 29 de dezembro de 2017, 2684/2018, publicado no Diário da República, 2.ª série, n.º 53, de 15 de março de 2018, e 12541-B/2018, publicado no Diário da República, 2.ª série, n.º 250, de 28 de dezembro de 2018, que se encontram em vigor ao abrigo do disposto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, os preços a praticar pelos cuidados de saúde e de apoio social prestados nas unidades de internamento e de ambulatório reportam ao disposto na presente portaria.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+  },
+  "120609161": {
+   "fragment_id": "117821849",
+   "type": 11,
+   "heading": "Artigo 3.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Revogação\n\nÉ revogada a Portaria n.º 10/2019, de 14 de janeiro."
+  },
+  "120609162": {
+   "fragment_id": "117821850",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2019.\n\nEm 14 de janeiro de 2019."
+  },
+  "120609163": {
+   "fragment_id": "117821851",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Orçamento, João Rodrigo Reis Carvalho Leão. - A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim. - A Secretária de Estado da Saúde, Raquel de Almeida Ferreira Duarte Bessa de Melo."
+  },
+  "120609164": {
+   "fragment_id": "117821852",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo\n\n(anexo II da Portaria n.º 1087-A/2007, de 5 de setembro, na redação dada pelo anexo III da Portaria n.º 189/2008, de 19 de fevereiro)\n\n(ver documento original)\n\n111979094"
+  },
+  "128508183": {
+   "fragment_id": "117821847",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2020-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nOs preços a praticar pelos cuidados de saúde e de apoio social prestados nas unidades de internamento e de ambulatório da Rede Nacional de Cuidados Continuados Integrados (RNCCI), com contratos já celebrados ou a celebrar no decurso da vigência da presente portaria, a partir da data da sua entrada em vigor são os constantes da tabela a ela anexa e que dela faz parte integrante.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+  },
+  "128508184": {
+   "fragment_id": "117821848",
+   "type": 11,
+   "heading": "Artigo 2.º — Encargos com fraldas",
+   "in_force_from": "2020-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Encargos com fraldas\n\n1 - O preço a pagar às unidades de longa duração e manutenção (ULDM) da RNCCI, por dia e por utente, pelos encargos decorrentes da utilização de fraldas é o constante da tabela em anexo à presente portaria, que dela faz parte integrante.\n\n2 - Para efeitos do disposto no número anterior, apenas se consideram os dias de internamentos efetivos na ULDM.\n\n3 - Ao utente não pode ser exigida pela ULDM qualquer quantia pelos encargos decorrentes da utilização de fraldas.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+  },
+  "128508185": {
+   "fragment_id": "120610499",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Encargos plurianuais",
+   "in_force_from": "2020-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01",
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º-A — Encargos plurianuais\n\nPara efeitos da assunção dos compromissos plurianuais no âmbito dos contratos-programa com as entidades integradas ou a integrar a RNCCI, previstos nos Despachos n.os 4212/2017, publicado no Diário da República, 2.ª série, n.º 95, de 17 de maio de 2017, 11482-A/2017, publicado no Diário da República, 2.ª série, n.º 249, de 29 de dezembro de 2017, 2684/2018, publicado no Diário da República, 2.ª série, n.º 53, de 15 de março de 2018, e 12541-B/2018, publicado no Diário da República, 2.ª série, n.º 250, de 28 de dezembro de 2018, que se encontram em vigor ao abrigo do disposto na alínea a) do n.º 1 do artigo 6.º da Lei n.º 8/2012, de 21 de fevereiro, os preços a praticar pelos cuidados de saúde e de apoio social prestados nas unidades de internamento e de ambulatório reportam ao disposto na presente portaria.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 72-A/2019 - Diário da República n.º 43/2019, 1º Suplemento, Série I de 2019-03-01](https://diariodarepublica.pt/dr/detalhe/portaria/72-a-2019-120489640), em vigor a partir de 2019-03-02, produz efeitos a partir de 2019-01-01"
+  },
+  "128508186": {
+   "fragment_id": "117821849",
+   "type": 11,
+   "heading": "Artigo 3.º — Revogação",
+   "in_force_from": "2020-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Revogação\n\nÉ revogada a Portaria n.º 10/2019, de 14 de janeiro.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+  },
+  "128508187": {
+   "fragment_id": "117821850",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2020-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2019.\n\nEm 14 de janeiro de 2019.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+  },
+  "128508188": {
+   "fragment_id": "117821851",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2020-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "O Secretário de Estado do Orçamento, João Rodrigo Reis Carvalho Leão. - A Secretária de Estado da Segurança Social, Cláudia Sofia de Almeida Gaspar Joaquim. - A Secretária de Estado da Saúde, Raquel de Almeida Ferreira Duarte Bessa de Melo.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+  },
+  "128508189": {
+   "fragment_id": "117821852",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2020-01-25",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+   ],
+   "markdown": "## Anexo\n\n(anexo II da Portaria n.º 1087-A/2007, de 5 de setembro, na redação dada pelo anexo III da Portaria n.º 189/2008, de 19 de fevereiro)\n\n(ver documento original)\n\n111979094\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 17/2020 - Diário da República n.º 17/2020, Série I de 2020-01-24](https://diariodarepublica.pt/dr/detalhe/portaria/17-2020-128470387), em vigor a partir de 2020-01-25, produz efeitos a partir de 2020-01-01"
+  }
+ }
+}

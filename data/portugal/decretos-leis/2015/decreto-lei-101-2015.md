@@ -1,0 +1,270 @@
+---
+schema_version: '1.0'
+id: pt:dre:67401245:por
+title: Decreto-Lei n.º 101/2015
+short_title: null
+summary: Estabelece os termos e as condições da atribuição de incentivos à mobilidade geográfica para zonas carenciadas de
+  trabalhadores médicos com contrato de trabalho por tempo indeterminado, ou a contratar, mediante vínculo de emprego público
+  ou privado, com serviço ou estabelecimento integrado no Serviço Nacional de Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 101/2015
+official_date: null
+publication_date: '2015-06-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2015, Série I de 2015-06-04
+  number: '108'
+  series: I
+  supplement: null
+  pages: 3604 - 3605
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/06/10800/0360403605.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-01-01'
+version_history:
+  file: decreto-lei-101-2015.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2015-06-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-01-28'
+    amending: pt:dre:105820580:por
+    amending_title: Decreto-Lei n.º 15/2017
+    changes:
+    - Adita Artigo 5.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+  - date: '2021-01-01'
+    amending: pt:dre:152639825:por
+    amending_title: Lei n.º 75-B/2020
+    changes:
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/101/2015/p/cons/20201231/pt/html
+  oj: null
+  dre: '67401245'
+  dre_path: /dr/detalhe/decreto-lei/101-2015-67401245
+  internal: pt:dre:67401245:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2015-67401245
+  metadata_url: https://data.dre.pt/eli/dec-lei/101/2015/p/cons/20201231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-105821479
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2015-105821479
+  retrieved_at: '2026-10-22T12:10:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 8fddad9c0e168738d0d165acef07fc5cc1d70c9b67a83996d8f0d7e6cea532b1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:10:02Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-101-2015.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Serviço Nacional de Saúde
+- Recrutamento de Pessoal
+- Incentivo Profissional
+- Incentivos à Deslocação
+- Mobilidade Geográfica
+- Estabelecimento Hospitalar
+- Mobilidade de Pessoal
+- Unidade de Saúde Pública
+relationships:
+- type: amended_by
+  target: pt:dre:105820580:por
+  label: Adita Artigo 5.º-A; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580
+  date: '2017-01-27'
+- type: amended_by
+  target: pt:dre:152639825:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825
+  date: '2020-12-31'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/177/2009/08/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/177/2009/08/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:10:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 101/2015
+
+Decreto-Lei n.º 101/2015
+
+de 4 de junho
+
+No setor da saúde existe uma elevada concentração de médicos em estabelecimentos situados em determinadas zonas, em detrimento de outros que se encontram localizados fora dos grandes centros populacionais. Esta situação tem efeitos negativos para os cidadãos que assim se veem, em alguns casos, forçados a deslocar-se a estabelecimentos de saúde distantes do seu domicílio, que lhes garantam os cuidados de que necessitam, com os consequentes impactos financeiros para o Serviço Nacional de Saúde.
+
+Neste contexto, a necessária gestão de recursos humanos impõe que se promova uma adequada racionalização dos profissionais existentes, no sentido de serem minimizadas as assimetrias regionais, através da criação dos estímulos que garantem a correção destas assimetrias.
+
+O presente decreto-lei estabelece os termos e as condições de atribuição de incentivos à futura fixação em zonas carenciadas de trabalhadores médicos com contrato de trabalho por tempo indeterminado, ou a contratar, mediante vínculo de emprego público ou privado, com serviço ou estabelecimento integrado no Serviço Nacional de Saúde, cujas especialidades são definidas anualmente por despacho dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.
+
+Foram observados os procedimentos decorrentes do Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei estabelece os termos e as condições de atribuição de incentivos aos trabalhadores médicos com contrato de trabalho por tempo indeterminado, ou a contratar, mediante vínculo de emprego público ou privado, com serviço ou estabelecimento integrado no Serviço Nacional de Saúde (SNS) situado em zona geográfica qualificada como carenciada.
+
+###### Artigo 2.º — Tipos de incentivos
+
+1 - Os incentivos aos trabalhadores médicos podem ter natureza pecuniária ou não pecuniária.
+
+2 - Aos trabalhadores médicos que sejam colocados em zonas carenciadas são atribuídos os seguintes incentivos de natureza pecuniária:
+
+a) Compensação das despesas de deslocação e transporte;
+
+b) Incentivo para colocação em zona carenciada.
+
+3 - Aos trabalhadores médicos que sejam colocados em zonas carenciadas são atribuídos os seguintes incentivos de natureza não pecuniária:
+
+a) A garantia de transferência escolar dos filhos de qualquer dos cônjuges ou de pessoa com quem viva em união de facto;
+
+b) O direito a dispensa de serviço, até cinco dias úteis, no período imediatamente anterior ou posterior ao início de funções no posto de trabalho qualificado como carenciado, que é considerada, para todos os efeitos legais, como prestação efetiva de serviço;
+
+c) A dispensa da anuência do órgão ou serviço de origem, no caso de trabalhador com vínculo de emprego público ou, sendo o caso, do órgão de gestão de serviço ou estabelecimento de saúde com a natureza de entidade pública empresarial integrado no SNS, nas situações em que o cônjuge ou a pessoa com quem vive em união de facto, requer a mobilidade para um serviço ou organismo sito na localidade onde o trabalhador médico é colocado;
+
+d) A preferência pelo cônjuge ou pela pessoa com quem viva em união de facto na lista de ordenação final dos candidatos, em caso de igualdade de classificação, nos procedimentos concursais de recrutamento publicitados ao abrigo e nos termos do artigo 30.º da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho, para ocupação de posto de trabalho em serviço ou organismo da administração direta e indireta do Estado sito na localidade onde o trabalhador médico é colocado, desde que se trate de trabalhador com vínculo de emprego público constituído por tempo indeterminado;
+
+e) O aumento da duração do período de férias, enquanto permanecer no estabelecimento cujo posto de trabalho identificado como carenciado, em dois dias, acrescidos de mais um dia de férias por cada cinco anos de serviço efetivamente prestado;
+
+f) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo do período de férias a que legalmente tem direito, em simultâneo com o cônjuge ou a pessoa com quem viva em união de facto;
+
+g) Sem prejuízo de situações excecionais que possam comprometer a prestação de cuidados de saúde, o gozo de 11 dias úteis consecutivos do período de férias a que legalmente tem direito, durante as férias escolares dos seus filhos ou dos filhos do cônjuge ou pessoa com quem viva em união de facto que faça parte do seu agregado familiar;
+
+h) O aumento, em dobro, do limite máximo de duração da licença sem perda de remuneração, previsto no artigo 25.º do Decreto-Lei n.º 177/2009, de 4 de agosto, a conceder pela entidade empregadora.
+
+i) Participação em atividades de investigação ou desenvolvimento das correspondentes competências e qualificações profissionais, mediante exercício de funções em serviços ou estabelecimento de saúde à sua escolha, situados em território nacional, pelo período máximo de 15 dias, por ano, seguido ou interpolado, com direito a ajudas de custo e transporte nos termos legais;
+
+j) Preferência, caso o trabalhador se candidate, nos termos legais, a procedimento concursal de recrutamento para preenchimento de postos de trabalho na categoria de assistente graduado sénior, na lista de ordenação final dos candidatos, em caso de igualdade de classificação, desde que o trabalhador nos termos previstos no presente decreto-lei, tenha sido colocado, e permaneça, em estabelecimento situado em zona qualificada como carenciada;
+
+k) A duração máxima do acordo de cedência de interesse público a que se refere o n.º 1 do artigo 243.º da LTFP, celebrado pelo cônjuge ou pela pessoa com quem viva em união de facto para exercício de funções no âmbito de serviço da administração direta ou indireta do Estado sito na localidade onde o trabalhador médico está colocado, coincide com o período de colocação do trabalhador na mesma localidade, sem prejuízo dos demais requisitos legais previstos para o referido acordo, nem de outras disposições legais mais favoráveis que lhe sejam aplicáveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28
+
+###### Artigo 3.º — Compensação das despesas de deslocação e transporte
+
+1 - Os trabalhadores médicos colocados em zonas carenciadas têm direito a um abono por compensação das despesas resultantes da sua deslocação e do seu agregado familiar, bem como do transporte da respetiva bagagem, correspondente ao valor do abono de 15 dias de ajuda de custo.
+
+2 - A compensação das despesas de deslocação e transporte efetiva-se num único pagamento, a realizar no mês seguinte ao início de funções no novo posto de trabalho.
+
+3 - O pagamento da compensação das despesas de deslocação e transporte a que se refere o número anterior é da responsabilidade do serviço ou estabelecimento de destino e deve ser efetuado no primeiro mês em que o serviço ou estabelecimento é responsável pelo processamento da correspondente remuneração.
+
+4 - O disposto no presente artigo não é aplicável aos médicos que, à data do recrutamento para zona geográfica carenciada, não se encontrem vinculados, em regime de contrato de trabalho em funções públicas ou de contrato individual de trabalho, independentemente, em ambos os casos, da sua modalidade, a serviços ou estabelecimentos de saúde, integrados no SNS, bem como aos que, tendo beneficiado do regime previsto no presente artigo, não tenham permanecido no estabelecimento de colocação pelo período mínimo de cinco anos.
+
+###### Artigo 4.º — Incentivo para colocação em zona carenciada
+
+1 - O incentivo para colocação é pago 12 meses por ano e visa compensar o trabalhador médico pelas condições mais exigentes de prestação em zona carenciada.
+
+2 - O valor do incentivo para colocação é devido durante e enquanto o trabalhador médico permanecer no posto de trabalho situado em zona carenciada, sendo fixado em 40 % da remuneração base correspondente à primeira posição remuneratória da categoria de assistente, da carreira especial médica ou da carreira médica.
+
+3 - [Revogado].
+
+4 - [Revogado].
+
+5 - O direito ao incentivo é atribuído pelo período de seis anos, após a colocação no posto de trabalho e cessa decorrido este prazo.
+
+6 - [Revogado].
+
+7 - [Revogado].
+
+> Alterado pelo/a Artigo 430.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28
+
+###### Artigo 5.º — Zonas geográficas carenciadas
+
+1 - Para efeitos do disposto no presente decreto-lei, a definição de zonas geográficas qualificadas como carenciadas assenta, designadamente, nos seguintes fatores:
+
+a) Percentagem do produto interno bruto (PIB), per capita, da região em que se situa o serviço ou estabelecimento de saúde;
+
+b) Número de trabalhadores médicos, em função da densidade populacional abrangida pelo serviço ou estabelecimento de saúde e sua comparação com outros estabelecimentos do mesmo grupo;
+
+c) Níveis de desempenho assistencial, produtividade e de acesso;
+
+d) Distância geográfica de outros serviços e estabelecimentos de saúde;
+
+e) Capacidade formativa dos serviços e estabelecimentos de saúde.
+
+2 - A identificação, por especialidade médica, dos serviços e estabelecimentos de saúde para os efeitos previstos no presente decreto-lei, faz-se, anualmente, no primeiro trimestre de cada ano, por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28
+
+###### Artigo 5.º-A — Mobilidade
+
+1 - No caso de um trabalhador médico que se disponibilize para ocupar um posto de trabalho num serviço ou estabelecimento de saúde que, para a respetiva especialidade, se situe em zona geográfica qualificada como carenciada, é dispensado o acordo do órgão ou serviço de origem.
+
+2 - Ao trabalhador médico que, tendo permanecido, ao abrigo do regime fixado pelo presente decreto-lei, por três ou mais anos num serviço ou estabelecimento de saúde situado em zona geográfica qualificada como carenciada e requeira a mobilidade para novo posto e local de trabalho é dispensado o acordo do órgão ou serviço de origem.
+
+3 - Sem prejuízo do disposto no n.º 5 do artigo 22.º-A do Estatuto do Serviço Nacional de Saúde, nas situações de mobilidade a tempo parcial é aplicável o disposto no n.º 1.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 15/2017 - Diário da República n.º 20/2017, Série I de 2017-01-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/15-2017-105820580), em vigor a partir de 2017-01-28
+
+###### Artigo 6.º — Disposição transitória
+
+O despacho a que se refere o artigo anterior é, em 2015, publicado no prazo máximo de 30 dias após a entrada em vigor do presente decreto-lei.
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 2 de abril de 2015. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Paulo José de Ribeiro Moita de Macedo.
+
+Promulgado em 28 de maio de 2015.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 29 de maio de 2015.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

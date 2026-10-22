@@ -1,0 +1,129 @@
+---
+schema_version: '1.0'
+id: pt:dre:590341:por
+title: Decreto-Lei n.º 444/89
+short_title: null
+summary: Aprova a Pauta dos Direitos de Importação (PDI) para 1990 e altera o Decreto-Lei n.º 258/87, de 26 de Junho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 444/89
+official_date: null
+publication_date: '1989-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 298/1989, 1º Suplemento, Série I de 1989-12-29
+  number: '298'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5638-(2) a 5638-(208)
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/12/29801/00020208.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '590341'
+  dre_path: /dr/detalhe/decreto-lei/444-1989-590341
+  internal: pt:dre:590341:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1989-590341
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1989-590341
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: 58a94c41e7840f6da90a29d9b24271d250c42724f91f3b25351e8f64e7b18429
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-444-590341.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 444/89
+
+de 29 de Dezembro
+
+O presente diploma tem por objectivo a aprovação da Pauta dos Direitos de Importação (PDI) para 1990. A sua publicação, anualmente, fica a dever-se à extensão das alterações introduzidas, sobretudo ao nível das taxas, em resultado da aplicação das medidas transitórias estabelecidas no Acto de Adesão às Comunidades.
+
+Integram as alterações para 1990, por um lado, taxas decorrentes da aplicação dos calendários de introdução gradual da Pauta Aduaneira Comum (PAC), previstos para o 5.º ano do período transitório, e, por outro lado, taxas resultantes da adopção imediata das que já estão em vigor na Comunidade dos Dez. Trata-se, neste último caso, de aproximações mais rápidas do que o previsto inicialmente, ao abrigo do artigo 201.º do citado Acto de Adesão, com diferentes objectivos: quando se trate de direitos de base inferiores aos da PAC, o agravamento tem em vista reduzir o ónus orçamental em matéria de recursos próprios das Comunidades e simultaneamente reduzir as situações susceptíveis de originar desvios de tráfego; quando os direitos de base são superiores à PAC, o desagravamento faculta à indústria nacional condições de aprovisionamento mais favoráveis.
+
+A possibilidade de o desagravamento de direitos revestir a forma de redução ou suspensão temporária ao nível da PAC, na expectativa de uma recuperação da produção nacional, permite à indústria utilizadora abastecer-se, entretanto, no mercado externo em condições concorrenciais. Estão nestas circunstâncias certos tipos de ferro-ligas, cujos direitos, reduzidos ao nível da PAC pelo Decreto-Lei n.º 306/89, de 6 de Setembro, no período de 4 de Abril a 31 de Dezembro de 1989, convém manter na mesma situação sem limite temporal. De modo similar, considera-se conveniente que determinados tipos de tubos de cobre, com direitos suspensos pelo Decreto-Lei n.º 258/87, de 26 de Junho, apenas em relação à Comunidade e a países preferenciais, por tempo indeterminado, possam beneficiar, sem limite de tempo, da redução de direitos ao nível da PAC, em virtude de subsistirem dificuldades de aprovisionamento no mercado interno.
+
+Assim:
+
+No uso da autorização legislativa concedida pela alínea a) do artigo 32.º da Lei n.º 114/88, de 30 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º É aprovada a Pauta dos Direitos de Importação para vigorar no ano de 1990, que constitui o anexo do presente diploma, do qual faz parte integrante, elaborada com base na Pauta Aduaneira Comum, aprovada pelo Regulamento (CEE) n.º [2886/89](https://data.europa.eu/eli/reg/1989/2886/oj?locale=pt), da Comissão, de 2 de Agosto de 1989.
+
+###### Art. 2.º A posição pautar ex 74.07 é excluída do artigo 2.º do Decreto-Lei n.º 258/87, de 26 de Junho, relativo à suspensão temporária de direitos nacionais.
+
+###### Art. 3.º O presente diploma entra em vigor no dia 1 de Janeiro de 1990.
+
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 1989. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 27 de Dezembro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 28 de Dezembro de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+PRIMEIRA PARTE
+
+Disposições preliminares
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29801/00020208.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29801/00020208.pdf)
+
+SEGUNDA PARTE
+
+Tabela de direitos
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1989/12/29801/00020208.pdf))](https://files.diariodarepublica.pt/1s/1989/12/29801/00020208.pdf)

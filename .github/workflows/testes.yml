@@ -1,0 +1,35 @@
+name: Testes
+
+on:
+  push:
+    branches: [main]
+    paths: ["src/**", "tests/**", "config/**", "schemas/**", "pyproject.toml", ".github/workflows/testes.yml"]
+  pull_request:
+
+jobs:
+  testes:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # Só o código, a configuração e os testes: o acervo (data/) não é necessário.
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: |
+            src
+            tests
+            config
+            schemas
+            pyproject.toml
+            README.md
+            LICENSE
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -e ".[dev]"
+      - name: Lint
+        run: ruff check src tests
+      - name: Testes (sem rede) com cobertura
+        run: python -m pytest --cov=leis_portugal --cov-report=term --cov-fail-under=85

@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:691785:por
+title: Decreto-Lei n.º 299/95
+short_title: null
+summary: Estabelece regras que visam simplificar e uniformizar o processo de cálculo dos juros nos empréstimos a conceder
+  ao abrigo de programas de habitação a custos controlados
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 299/95
+official_date: null
+publication_date: '1995-11-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 267/1995, Série I-A de 1995-11-18
+  number: '267'
+  series: I
+  supplement: null
+  pages: 7087 - 7087
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/11/267a00/70877087.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/299/1995/11/18/p/dre/pt/html
+  oj: null
+  dre: '691785'
+  dre_path: /dr/detalhe/decreto-lei/299-1995-691785
+  internal: pt:dre:691785:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1995-691785
+  metadata_url: https://data.dre.pt/eli/dec-lei/299/1995/11/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/299-1995-691785
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-11-18T00:00:00Z'
+integrity:
+  source_sha256: 4b7e5cd64d73334c0a2ab2f6e982a75e8265ff31809ef2b4bdd3e08751b61626
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-299-691785.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Construção Civil
+- Cooperativa de Habitação
+- Crédito à Habitação
+- Habitação
+- TAXA de JURO
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 299/95
+
+de 18 de Novembro
+
+No âmbito de alguns dos vários regimes de crédito à promoção habitacional a custos controlados está prevista a aplicação de uma metodologia especial para o cálculo de juros, a aplicar quando se verifique alteração da taxa de juro, diferente do regime geral regulado no [Decreto-Lei n.º 344/78](https://diariodarepublica.pt/dr/detalhe/decreto-lei/344-1978-325760), de 17 de Novembro.
+
+A recente liberalização do mercado financeiro, nomeadamente no que se refere às taxas de juro activas, e a atribuição, a todas as instituições de crédito envolvidas na área do financiamento à habitação a custos controlados, da possibilidade de actuar em qualquer tipo de concessão de crédito têm suscitado dificuldades na aplicação desta metodologia, para além de situações de disparidade em operações de crédito da mesma natureza e fim, conforme estejam sujeitas ao regime geral ou ao referido regime especial.
+
+Visa, portanto, o presente diploma simplificar e uniformizar o processo de cálculo dos juros nos empréstimos a conceder ao abrigo de programas de habitação a custos controlados, ultrapassada que está a fase de significativa instabilidade das taxas de juro, em consequência dos esforços de estabilização monetária e financeira.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º - 1 - A taxa de juro contratual dos empréstimos concedidos ao abrigo do regime de habitação a custos controlados corresponde à que estiver em vigor no início de cada período de contagem de juros.
+
+2 - O disposto no número anterior aplica-se a todos os empréstimos nele referidos, incluindo os já contratados, a partir do período de contagem de juros subsequente à entrada em vigor do presente diploma.
+
+###### Art. 2.º São revogadas a parte final do n.º 1 do artigo 4.º do [Decreto-Lei n.º 264/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1982-394514), de 8 de Julho, na redacção dada pelo [Decreto-Lei n.º 349/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/349-1983-454292), de 30 de Julho, e a parte final do artigo 8.º do [Decreto-Lei n.º 220/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-1983-451825), de 26 de Maio.
+
+Visto e aprovado em Conselho de Ministros de 14 de Setembro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 5 de Outubro de 1995.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 10 de Outubro de 1995.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

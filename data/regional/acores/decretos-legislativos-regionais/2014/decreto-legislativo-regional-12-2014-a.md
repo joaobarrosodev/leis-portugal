@@ -1,0 +1,806 @@
+---
+schema_version: '1.0'
+id: pt:dre:25345896:por
+title: Decreto Legislativo Regional n.º 12/2014/A
+short_title: null
+summary: Cria o Sistema de Incentivos para a Competitividade Empresarial - Competir+
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 12/2014/A
+official_date: null
+publication_date: '2014-07-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 130/2014, Série I de 2014-07-09
+  number: '130'
+  series: I
+  supplement: null
+  pages: 3759 - 3765
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/07/13000/0375903765.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-06-01'
+version_history:
+  file: decreto-legislativo-regional-12-2014-a.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2014-07-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2016-05-19'
+    amending: pt:dre:74454667:por
+    amending_title: Decreto Legislativo Regional n.º 9/2016/A
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+    - Altera Artigo 12.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+  - date: '2019-02-15'
+    amending: pt:dre:117821874:por
+    amending_title: Decreto Legislativo Regional n.º 2/2019/A
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+  - date: '2023-06-01'
+    amending: pt:dre:213761241:por
+    amending_title: Decreto Legislativo Regional n.º 20/2023/A
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/12/2014/a/cons/20230531/pt/html
+  oj: null
+  dre: '25345896'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/12-2014-25345896
+  internal: pt:dre:25345896:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2014-25345896
+  metadata_url: https://data.dre.pt/eli/declegreg/12/2014/a/cons/20230531/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-74477736
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2014-74477736
+  retrieved_at: '2026-10-22T12:06:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 52dc416b46889d296d32fcdd8a732e49c9525dee7b14c59eb2afe9206402ce46
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:06:25Z'
+  notes: 4 versão(ões); histórico completo em decreto-legislativo-regional-12-2014-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Assembleia Legislativa Regional
+- Financiamento
+- Câmara do Comércio e Indústria
+- Estatuto Político-administrativo da Região Autónoma dos Açores
+- Governo Regional
+- Contrato
+- Desenvolvimento Regional
+- Fiscalização
+- Página na Internet
+- Desenvolvimento Económico
+- Desenvolvimento Local
+- Sistema de Incentivos da Região Autónoma dos Açores
+- Açores
+- Sistema de Incentivos de BASE Regional
+- Sistema de Incentivos Regionais
+- Sistema de Incentivos para a Competitividade Empresarial
+relationships:
+- type: amended_by
+  target: pt:dre:73070297:por
+  label: null
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297
+  date: '2016-01-08'
+- type: amended_by
+  target: pt:dre:74454667:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 22.º; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667
+  date: '2016-05-18'
+- type: amended_by
+  target: pt:dre:114440373:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 9.º; Altera Artigo 12.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 22.º; Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373
+  date: '2018-01-03'
+- type: amended_by
+  target: pt:dre:117821874:por
+  label: Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2019-117821874
+  date: '2019-01-16'
+- type: amended_by
+  target: pt:dre:213761241:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241
+  date: '2023-05-31'
+- type: cites
+  target: celex:32013R1301
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1301/oj
+- type: cites
+  target: celex:32013R1303
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1303/oj
+- type: cites
+  target: celex:32013R1407
+  label: null
+  source: http://data.europa.eu/eli/reg/2013/1407/oj
+- type: cites
+  target: celex:32014R0651
+  label: null
+  source: null
+- type: cites
+  target: celex:32017R1084
+  label: null
+  source: null
+article_structure:
+  article_count: 27
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:06:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 12/2014/A
+
+Decreto Legislativo Regional n.º 12/2014/A
+
+SISTEMA DE INCENTIVOS PARA A COMPETITIVIDADE EMPRESARIAL - COMPETIR+
+
+A globalização da economia apresenta-se cada vez mais como uma evidência incontornável que induz, de forma premente, cada país e cada região a construir coletivamente as condições que lhes permitam aumentar a sua competitividade num ambiente concorrencial cada vez mais alargado.
+
+Neste enquadramento, indutor de rápidas evoluções tecnológicas e de novos modelos de negócio, os desafios que se colocam às empresas são decisivos, obrigando-as a uma evolução permanente tendo em vista, desejavelmente, liderarem novas tendências de mercado, aproveitando as oportunidades que uma economia aberta também disponibiliza.
+
+Os anteriores quadros comunitários de apoio permitiram dotar os Açores de infraestruturas de base a partir das quais se criaram as condições para potenciar o investimento privado, para abrir novos segmentos de negócio e operar uma reestruturação e modernização do tecido empresarial regional.
+
+A prioridade do novo quadro de orientação na utilização dos fundos estruturais comunitários para o período 2014-2020 será conferida às empresas, que indubitavelmente desempenham um papel fundamental na criação de emprego e de riqueza, assumindo-se como as unidades de produção que melhor otimizam a utilização dos recursos endógenos.
+
+Atentas as condicionantes que a nossa situação geográfica nos coloca, importa assegurar políticas de desenvolvimento que tenham como vetores estratégicos em permanência um crescimento equilibrado e sustentável, que fomentem o fortalecimento da concorrência e da competitividade do nosso tecido empresarial a nível regional, nacional e internacional.
+
+Nos objetivos a prosseguir, os incentivos ao investimento empresarial procuram, assim, premiar o acréscimo de produtividade e de competitividade das empresas e a melhoria do seu perfil de especialização, conferindo uma especial relevância aos apoios à criação de emprego qualificado, bem como privilegiar o apoio a projetos de investimento em atividades de produção de bens e serviços transacionáveis.
+
+Para estes objetivos concorrem, em especial, os fatores dinâmicos da competitividade, pelo que aspetos como os da inovação e empreendedorismo serão significativamente valorizados, bem como, pela primeira vez, fomenta-se o estímulo ao espírito de cooperação e de ações conjuntas que promovam a criação de massa crítica e de escala, da qual resulte uma maior capacitação em termos de acréscimos de produtividade e de competitividade.
+
+Considera-se, assim, premente prosseguir três eixos orientadores: um dirigido à diversificação da produção açoriana e ao aumento do seu valor acrescentado mediante o recurso de forma sistemática e estratégica da inovação, potenciando a capacidade exportadora das empresas; um outro dirigido ao contexto em que as empresas operam, incentivando a cooperação entre as empresas, as entidades do governo regional e local e as entidades do sistema científico e tecnológico; e, por último, um eixo dirigido à modernização das empresas existentes e ao desenvolvimento local por forma a introduzir ganhos de eficiência e de produtividade.
+
+Neste contexto, o Governo Regional dos Açores decidiu criar o Sistema de Incentivos para a Competitividade Empresarial, designado de COMPETIR+, o qual, no respeito pelos normativos comunitários aplicáveis em razão da matéria, constitui o quadro de referência dos incentivos financeiros dirigidos ao setor empresarial para o período de 2014 a 2020.
+
+O COMPETIR+ encontra-se estruturado em subsistemas de incentivos que traduzem linhas de apoio específicas e adequadas ao estádio de desenvolvimento regional, procurando, nomeadamente, responder a necessidades das empresas nas vertentes do fomento do alargamento da base económica de exportação, da internacionalização, do urbanismo sustentável integrado, da inovação e qualificação, do empreendedorismo, do desenvolvimento local e, por último, da eficiência empresarial.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos das disposições conjugadas do n.º 4 do artigo 112.º e da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e dos artigos 37.º, da alínea g) do n.º 2 do artigo 54.º e da alínea j) do artigo 67.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma cria o Sistema de Incentivos para a Competitividade Empresarial, adiante designado por Competir+, que visa promover o desenvolvimento sustentável da economia regional, reforçar a competitividade, a capacidade de penetração em novos mercados e a internacionalização das empresas regionais, assim como alargar a base económica de exportação da Região Autónoma dos Açores.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 2.º — Âmbito
+
+1 - O Competir+ é constituído pelos seguintes Subsistemas:
+
+a) Subsistema de Incentivos para o Fomento da Base Económica de Exportação;
+
+b) Subsistema de Incentivos para a Internacionalização;
+
+c) (Revogada);
+
+d) Subsistema de Incentivos para a Qualificação e Inovação;
+
+e) Subsistema de Incentivos para o Empreendedorismo Qualificado e Criativo;
+
+f) Subsistema de Incentivos para o Desenvolvimento Local;
+
+g) Subsistema de Apoio à Eficiência Empresarial.
+
+2 - Os Subsistemas de Incentivos referidos no número anterior têm a seguinte natureza:
+
+a) Fomento da Base Económica de Exportação - alargamento da base económica de exportação da economia regional, incentivando a realização de projetos de investimento que se direcionem para os mercados exteriores à Região e que se desenvolvam nas áreas agroalimentar, da economia do mar, indústria transformadora, turismo, economia digital, indústrias criativas, logística ou outras atividades com potencial de criação de bens e serviços transacionáveis;
+
+b) Internacionalização - impulsionamento da penetração e do posicionamento das empresas regionais nos mercados exteriores à Região, mediante compensação dos custos adicionais decorrentes da sua condição ultraperiférica;
+
+c) (Revogada).
+
+d) Qualificação e Inovação - promoção da inovação junto das empresas regionais pela via da produção de novos ou melhorados bens e serviços, de novos processos de produção, de novos modelos organizacionais ou de estratégias de marketing, que aumentem a capacidade de criação de valor acrescentado das empresas regionais e o reforço da orientação para os mercados exteriores à Região;
+
+e) Empreendedorismo Qualificado e Criativo - estímulo ao aparecimento de novos empreendedores e fortalecimento de uma cultura empresarial baseada no risco e na vontade empreendedora, incentivando a realização de projetos de investimento que contribuem para a diversificação e renovação do tecido empresarial regional e que se desenvolvam nas áreas do Empreende Jovem ou ações coletivas de empreendedorismo;
+
+f) Desenvolvimento Local - incentivo à realização de projetos de investimento de modernização dos estabelecimentos existentes, dinamização do mercado interno e expansão da capacidade produtiva das empresas regionais;
+
+g) Eficiência Empresarial - promoção da melhoria das condições gerais de competitividade das empresas regionais, no seu todo ou a nível de um setor ou grupo de setores, incentivando a realização de projetos que se desenvolvam nas tipologias de ações coletivas de eficiência empresarial ou constituição de clusters.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 50.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-01
+
+###### Artigo 3.º — Objetivos
+
+O Competir+ tem como objetivos gerais:
+
+a) Promover a criação de emprego durável e sustentável;
+
+b) Criar bens e serviços transacionáveis e de caráter inovador, reforçando a capacidade de exportação das empresas regionais;
+
+c) Estimular a densificação do tecido económico regional e a integração dos diferentes setores de atividade na economia global;
+
+d) Alterar o perfil de especialização da economia regional e promover novas áreas de crescimento económico;
+
+e) Estreitar o relacionamento do setor produtivo tradicional com outros setores de potencial económico ainda não desenvolvido;
+
+f) Atrair investimento externo;
+
+g) Diferenciar e valorizar os recursos endógenos, os produtos regionais e o património cultural e natural;
+
+h) Promover um posicionamento diferenciado a nível internacional dos produtos com potencial de exportação, nomeadamente os relativos à agricultura, pecuária, agroindústria e pesca;
+
+i) Aproveitar o conhecimento científico para a valorização de recursos e para a criação de novos negócios;
+
+j) Constituir a Região Autónoma dos Açores como um destino turístico de excelência para segmentos de mercado específicos e estruturar uma oferta qualificada;
+
+k) Ajudar a criar e a manter atividades empresariais nos centros urbanos, tornando-as catalisadoras de criatividade, de inovação e de desenvolvimento económico;
+
+l) Incitar as empresas regionais a realizar investimentos que lhes possibilitem a contenção de custos e o desenvolvimento das suas atividades de uma forma mais eficiente;
+
+m) Estimular a cooperação entre empresas, associações empresariais, municípios e entidades do sistema científico e tecnológico regional, tendo em vista a melhoria da competitividade do tecido económico regional;
+
+n) Dinamizar parcerias que promovam as conexões intrarregionais;
+
+o) Incentivar o planeamento integrado, o aproveitamento de sinergias, o desenvolvimento de economias de escala e a defesa de interesses económicos comuns;
+
+p) Compensar as empresas regionais de custos adicionais resultantes da prossecução de atividades económicas numa região ultraperiférica.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 4.º — Condições gerais de acesso dos promotores
+
+1 - Os promotores devem cumprir as seguintes condições de acesso, quando aplicável:
+
+a) Estar legalmente constituído;
+
+b) Dispor de contabilidade organizada;
+
+c) Possuir a situação regularizada face à administração fiscal e à segurança social;
+
+d) Não se encontrar em dívida no que respeita a apoios comunitários ou nacionais, independentemente da sua natureza e objetivos;
+
+e) Não ser uma empresa em dificuldade, nos termos do n.º 18 do artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho, alterado pelo Regulamento (UE) 2017/1084, da Comissão, de 14 de junho, com exceção das que sejam beneficiárias de um regime de auxílio regional ao funcionamento, desde que esse regime não trate as empresas em dificuldade mais favoravelmente que as outras empresas;
+
+f) Não se tratar de uma empresa sujeita a uma injunção de recuperação, ainda pendente, na sequência de uma decisão anterior da Comissão que declara um auxílio ilegal e incompatível com o mercado interno, conforme previsto na alínea a) do n.º 4 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 17 de junho de 2014.
+
+2 - As condições referidas no número anterior são exigíveis na data de celebração do contrato de concessão de incentivos.
+
+3 - Quando os promotores sejam agrupamentos complementares de empresas dever-se-á ter em conta, para aferir o cumprimento dos requisitos referidos no n.º 1, o conjunto das empresas agrupadas.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 50.º do/a [Decreto Legislativo Regional n.º 1/2018/A - Diário da República n.º 2/2018, Série I de 2018-01-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2018-114440373), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 44.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01
+
+###### Artigo 5.º — Condições gerais de acesso dos projetos
+
+1 - Os projetos devem cumprir com as seguintes condições de acesso, quando aplicável:
+
+a) Ser iniciado após a apresentação do formulário de pedido de incentivo, conforme o modelo constante no Anexo, com exceção da aquisição de terrenos, da elaboração de estudos diretamente associados ao projeto e dos adiantamentos para sinalização, até 50 % do custo de cada aquisição, realizados há menos de dois anos, e dos projetos cujo incentivo seja atribuído ao abrigo do Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis;
+
+b) Ter asseguradas as fontes de financiamento e ser financiado pelo promotor com, pelo menos, 25 % dos custos elegíveis, mediante recursos próprios ou através de financiamento externo, de uma forma que não inclua qualquer apoio financeiro público;
+
+c) Cumprir as condições legais necessárias ao exercício da atividade no estabelecimento objeto da candidatura;
+
+d) Ter aprovados os projetos de arquitetura, os projetos de especialidades e as memórias descritivas do investimento, quando legalmente exigíveis;
+
+e) Ter uma duração máxima de execução de três anos a contar da data da celebração do contrato de concessão de incentivos, sem prejuízo de outros prazos que venham a ser definidos na regulamentação específica.
+
+2 - O comprovativo da condição referida na alínea c) do número anterior pode ser feito até à data de encerramento do projeto, devendo à data de assinatura do contrato de concessão dos incentivos ou da aceitação da decisão ser comprovado o início do respetivo processo de licenciamento.
+
+3 - A condição referida na alínea d) do n.º 1 apenas é exigível no momento da celebração do contrato de concessão do incentivo ou da aceitação da decisão.
+
+4 - Quando existam investimentos em formação profissional deverão ser cumpridas todas as condições de acesso previstas na regulamentação de enquadramento do Fundo Social Europeu.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 6.º — Despesas elegíveis
+
+1 - O investimento previsto deve contemplar todas as rubricas necessárias à completa implementação do projeto.
+
+2 - O cálculo das despesas elegíveis é efetuado a preços correntes, deduzido o imposto sobre o valor acrescentado (IVA), sempre que o promotor do projeto seja sujeito passivo desse imposto e possa exercer o direito à dedução.
+
+3 - Para efeitos do cálculo do montante das despesas elegíveis, apenas são considerados os valores declarados pelo promotor do projeto que correspondam aos custos médios do mercado para a respetiva tipologia de investimento, devendo a entidade gestora, caso não se verifique essa correspondência, definir o montante máximo de despesas elegíveis.
+
+4 - Sem prejuízo das condições e dos limites que venham a ser fixados em cada um dos regulamentos dos diversos Subsistemas de Incentivos do Competir+, os ativos devem:
+
+a) Ser exclusivamente utilizados nos estabelecimentos beneficiários do incentivo;
+
+b) Ser amortizáveis, exceto terrenos;
+
+c) Ser adquiridos em condições de mercado a terceiros não relacionados com o adquirente.
+
+5 - No que diz respeito aos projetos das grandes empresas, os custos dos ativos intangíveis só são elegíveis até 50 % da totalidade dos custos de investimento elegíveis do investimento inicial.
+
+6 - Os custos salariais estimados decorrentes da criação de emprego podem ser considerados elegíveis, desde que estejam preenchidas, cumulativamente, as seguintes condições:
+
+a) O projeto de investimento deve conduzir a um aumento líquido do número de trabalhadores do estabelecimento em causa, em comparação com a média dos doze meses anteriores, após dedução ao número de postos de trabalho previsto criar do número de postos de trabalho a suprimir durante o mesmo período de tempo;
+
+b) Os postos de trabalho devem ser preenchidos no prazo de quatro meses, após a data de conclusão do projeto.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 7.º — Despesas não elegíveis
+
+1 - Sem prejuízo das condições e dos limites que venham a ser fixados em cada um dos regulamentos dos diversos Subsistemas de Incentivos do Competir+, consideram-se não elegíveis as despesas com:
+
+a) Aquisição de terrenos, com exceção dos destinados a termas, parques temáticos ou dos destinados à deslocalização de unidades empresariais para zonas e parques industriais ou para áreas de localização empresarial;
+
+b) Aquisição de edifícios, com exceção dos destinados a afetação turística, de edifícios degradados ou de intervenções em centros urbanos, desde que diretamente relacionados com o processo produtivo e com as funções essenciais ao exercício da atividade do projeto e nos termos a definir na regulamentação específica;
+
+c) Aquisição de bens em estado de uso, salvo nos casos previstos na regulamentação específica;
+
+d) Trespasses e direitos de utilização dos espaços;
+
+e) Fundo de maneio;
+
+f) Juros durante a construção;
+
+g) Trabalhos para a própria empresa;
+
+h) Despesas de funcionamento da empresa;
+
+i) Bens que se destinem unicamente a substituição ou reposição;
+
+j) Aquisição de ativos que tenham sido objeto de comparticipação através de auxílios de Estado;
+
+k) Todas as rubricas de investimento que não apresentem justificação ou relevante importância para o desenvolvimento do projeto;
+
+l) Transações ocorridas entre entidades participantes no projeto.
+
+2 - A aquisição de terrenos, os trabalhos preparatórios com a obtenção de licenças e a realização de estudos de viabilidade preliminares, quando inelegíveis, não são considerados para efeitos da data de início do projeto.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 8.º — Incentivos
+
+1 - O valor máximo do incentivo a conceder ao promotor, por projeto, não pode ser superior ao limite máximo do auxílio, indicado em percentagem de equivalente de subvenção bruta (ESB), constante do Mapa Nacional dos Auxílios Estatais com Finalidade Regional para o período de 2014-2020, ou ultrapassar o limite previsto no Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1407" title="Link para Regulamento da Comunidade Europeia">1407/2013</a>, da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia, relativo aos auxílios de minimis, consoante o enquadramento aplicável ao respetivo Subsistema de Incentivos.
+
+2 - Os incentivos a conceder podem revestir a forma de incentivo não reembolsável, de incentivo reembolsável sem juros e de prémio de realização.
+
+3 - Por decreto regulamentar regional poderão ser definidas majorações das taxas de comparticipação de incentivo não reembolsável nas ilhas ou concelhos com problemas específicos que afetem o tecido produtivo local, em circunstâncias excecionais, tomando em consideração critérios de densidade populacional, evolução dos níveis de produção, de rendimento e do poder de compra.
+
+4 - O incentivo reembolsável pode ser concedido através de instituições de crédito, nos termos definidos em protocolo a celebrar para o efeito com o departamento do Governo Regional com competência em matéria de competitividade empresarial.
+
+5 - No caso do incentivo reembolsável ser disponibilizado pelo Governo Regional, os promotores obrigam-se a apresentar uma garantia bancária, de valor idêntico ao montante total do incentivo reembolsável aprovado ou de valor idêntico ao montante de cada tranche liquidada em cada momento.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 9.º — Apresentação de candidaturas
+
+As candidaturas aos diversos Subsistemas de Incentivos do Competir+ são apresentadas, regra geral, no âmbito de um procedimento concursal e são submetidas através de formulário eletrónico, disponível no Balcão 2020 ou no Portal do Governo Regional.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 10.º — Análise das candidaturas
+
+1 - As candidaturas são analisadas pela entidade gestora definida em cada um dos regulamentos dos diversos Subsistemas de Incentivos do Competir+.
+
+2 - Podem ser estabelecidos protocolos entre os departamentos governamentais com competência em razão da matéria do projeto de investimento, onde serão definidos os respetivos âmbitos de intervenção na análise das candidaturas.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 11.º — Concessão dos incentivos
+
+Os incentivos são concedidos mediante despacho do membro do Governo Regional definido em cada um dos regulamentos dos diversos Subsistemas de Incentivo do Competir+ ou por resolução do Conselho do Governo, de acordo com as respetivas competências para autorização de despesas.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 12.º — Aceitação da decisão e contrato de concessão dos incentivos
+
+1 - A concessão do incentivo é formalizada mediante contrato a celebrar, por documento particular, entre a Região Autónoma dos Açores, através do membro do Governo Regional responsável pela concessão do incentivo e o promotor, no prazo máximo trinta dias úteis contados da data da notificação da decisão da concessão ou mediante assinatura do termo de aceitação.
+
+2 - O não envio, por causa imputável ao promotor, de qualquer documento conducente à celebração do contrato de concessão de incentivos, no prazo referido no número anterior, determina a caducidade da decisão de concessão do incentivo.
+
+3 - O prazo referido no n.º 1 pode ser prorrogado por decisão do membro do Governo Regional responsável pela concessão do incentivo.
+
+4 - Os modelos de contrato são homologados por despacho do membro do Governo Regional com competência em matéria de competitividade empresarial, devendo dele constar cláusulas relativas aos objetivos do projeto de investimento, à determinação do seu grau de cumprimento, à forma e montante do incentivo concedido, aos direitos e obrigações das partes e, sendo caso disso, às garantias a prestar.
+
+5 - A formalidade de celebração de contrato a que se refere o n.º 1 é dispensada no caso de projetos de investimento até (euro) 15.000,00, promovidos por micro e pequenas empresas, classificadas de acordo com o disposto no Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho.
+
+6 - O termo de aceitação devidamente assinado pelo beneficiário tem a natureza jurídica de um contrato escrito.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 13.º — Renegociação do contrato e cessão da posição contratual
+
+1 - O contrato de concessão de incentivos pode ser objeto de renegociação se as condições em que foi celebrado tiverem sofrido uma alteração anormal, desde que devidamente fundamentada.
+
+2 - A posição contratual do promotor no contrato de concessão de incentivos pode ser objeto de cessão, por motivos devidamente fundamentados, uma vez verificadas as condições de acesso do cessionário.
+
+3 - Compete ao responsável pela concessão do incentivo autorizar a cessão da posição contratual do promotor, bem como, aprovar os termos da renegociação do contrato de concessão de incentivos.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 14.º — Rescisão do contrato
+
+1 - O contrato de concessão de incentivos pode ser rescindido, por despacho do membro do Governo Regional responsável pela concessão do incentivo, em representação da Região, ou revogada a concessão do apoio, com os seguintes fundamentos:
+
+a) Não cumprimento, por facto imputável ao promotor, dos objetivos e obrigações estabelecidos no contrato, incluindo os prazos relativos ao início da realização do investimento e sua conclusão;
+
+b) Não cumprimento, por facto imputável ao promotor, das respetivas obrigações legais e fiscais;
+
+c) Prestação de falsas informações sobre a situação do promotor ou viciação de dados fornecidos na apresentação, apreciação e acompanhamento dos investimentos.
+
+2 - A rescisão do contrato implica a restituição dos incentivos concedidos, sendo o promotor obrigado a repor as importâncias recebidas no prazo de trinta dias úteis a contar da data do recibo de notificação, acrescidas de juros calculados à taxa indicada no contrato de concessão de incentivos.
+
+3 - Quando a resolução se verificar pelo motivo referido na alínea c) do n.º 1, o promotor não pode apresentar candidaturas a quaisquer incentivos pelo período de cinco anos.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 15.º — Pagamento do incentivo
+
+1 - Os pagamentos dos incentivos são efetuados por transferência bancária para a conta bancária do promotor indicada no contrato de concessão de incentivos ou no termo de aceitação.
+
+2 - Os promotores, após assinatura do contrato de concessão de incentivos ou do termo de aceitação, devem enviar, até seis pedidos de pagamento, cujo valor mínimo dos pedidos de pagamento intercalares terá de corresponder a 10 % do investimento elegível do projeto.
+
+3 - O departamento do Governo Regional responsável pela concessão do incentivo, em colaboração, conforme os casos, com outros departamentos do Governo Regional, promove a verificação física dos projetos para efeitos de pagamento final do incentivo, podendo, sempre que se justifique, efetuar verificações físicas intercalares.
+
+4 - O valor do investimento correspondente ao último pedido de pagamento, que deve ser apresentado no prazo máximo de cento e vinte dias úteis a partir da data de conclusão do projeto, não pode ser inferior a 15 % do investimento elegível do projeto.
+
+5 - No caso dos microprojetos de investimento até (euro) 15.000,00, enquadrados no Subsistema de Incentivos ao Desenvolvimento Local, deve ser apresentado um único pedido de pagamento, não se aplicando o disposto no artigo seguinte.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 16.º — Adiantamento do pagamento
+
+1 - Para além da situação prevista no artigo anterior, os promotores podem, igualmente, após a assinatura do contrato de concessão ou do termo de aceitação, recorrer ao mecanismo de adiantamento do pagamento do incentivo.
+
+2 - No caso de adiantamento, o promotor recebe o montante de incentivo correspondente à comparticipação de um investimento previsto no seu projeto, mediante a apresentação da fatura respetiva.
+
+3 - No prazo de quinze dias úteis após a transferência para a conta do promotor do montante referido no número anterior, deve o mesmo apresentar comprovativos do pagamento das respetivas faturas.
+
+4 - O não cumprimento do prazo previsto no número anterior pode inibir o promotor de recorrer novamente a este mecanismo.
+
+5 - Comprovando-se que os documentos de despesa comparticipados no pedido de adiantamento encontravam-se liquidados na data de apresentação do mesmo, o promotor fica inibido de recorrer novamente a este mecanismo.
+
+6 - O não cumprimento da obrigação de apresentar os comprovativos do pagamento das respetivas faturas inibe o promotor de receber qualquer incentivo, a qualquer título, no âmbito do Competir+.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 17.º — Obrigações dos promotores
+
+1 - Os promotores ficam sujeitos às seguintes obrigações:
+
+a) Executar o projeto nos termos e prazos fixados no contrato;
+
+b) Cumprir as obrigações legais, designadamente as fiscais;
+
+c) Entregar, nos prazos estabelecidos, todos os elementos que lhe forem solicitados pelas entidades com competência para a análise, acompanhamento, controlo e fiscalização dos diversos Subsistemas do Competir+;
+
+d) Permitir às entidades mencionadas na alínea anterior o acesso aos locais de realização do investimento;
+
+e) Comunicar à entidade gestora qualquer alteração ou ocorrência que ponha em causa os pressupostos relativos à aprovação do projeto;
+
+f) Manter as condições legais necessárias ao exercício da respetiva atividade, nomeadamente quanto à sua situação em matéria de licenciamento;
+
+g) Afetar o projeto à atividade e à localização geográfica durante um período mínimo de cinco anos, ou até ao final do prazo de reembolso do incentivo, se este for superior, contado a partir da data de conclusão do projeto, considerando-se esta a data da fatura correspondente à última despesa do projeto, o que não impede a substituição de instalações ou equipamentos que se tenham tornado obsoletos ou se tenham avariado dentro desse prazo;
+
+h) Manter a situação regularizada perante as entidades pagadoras do incentivo;
+
+i) Manter a contabilidade organizada, quando aplicável;
+
+j) Manter devidamente organizado, em dossier, todos os documentos suscetíveis de comprovar as informações e declarações prestadas no âmbito do projeto e de fundamentar as opções de investimento apresentadas, bem como todos os documentos comprovativos da realização das despesas de investimento, o qual poderá ser consultado a qualquer momento pelas entidades intervenientes no processo de análise, acompanhamento, controlo e fiscalização dos projetos, devendo este dossier ser mantido pelo prazo de três anos, contados a partir do encerramento do Programa Operacional Açores 2014-2020, de acordo com o disposto no artigo 140.º do Regulamento (UE) n.º 1303/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, publicado no Jornal Oficial da União Europeia, n.º L 347, de 20 de dezembro de 2013;
+
+k) Manter, em matéria de recursos humanos, as obrigações estabelecidas no contrato de concessão de incentivos;
+
+l) Publicitar os apoios recebidos nos termos regulamentares;
+
+m) Não alienar ou onerar, a qualquer título, o empreendimento ou equipamento a que respeita o projeto, nem ceder ou cessar a sua exploração ou utilização sem autorização do membro do Governo Regional responsável pela concessão do incentivo;
+
+n) Manter os postos de trabalho criados na Região durante um período mínimo de cinco anos, ou de três anos no caso das Pequenas e Médias Empresas classificadas de acordo com o disposto no Decreto-Lei n.º 372/2007, de 6 de novembro, alterado pelo Decreto-Lei n.º 143/2009, de 16 de junho, a contar da data em que tiver sido ocupado pela primeira vez;
+
+o) Os promotores ficam obrigados a celebrar contratos de trabalho por tempo indeterminado com, pelo menos, 50 % dos seus trabalhadores, ou 35 % no caso das micro e pequenas empresas, sendo o arredondamento feito por excesso;
+
+p) Por motivos associados à sazonalidade de atividades que resultem no reforço de encomendas, ou outros fatores que redundem num acréscimo de laboração e o consequente aumento do número de trabalhadores, a obrigatoriedade assumida na alínea anterior pode não ser observada, por períodos nunca superiores a três meses por ano, condição obrigatoriamente comunicada, com a devida justificação, à entidade avaliadora;
+
+q) Na ocorrência de doença prolongada do trabalhador ou licenças e dispensas relacionadas com a proteção na parentalidade previstas no artigo 35.º do Código do Trabalho, este pode ser substituído pelo tempo do seu impedimento, de forma temporária, por outro trabalhador com contrato a termo certo, após comunicação de tal condição à entidade avaliadora, no prazo de quinze dias úteis;
+
+r) [Anterior alínea o).]
+
+2 - Os casos referentes às alíneas p) e q) são reportados pela direção regional com competência na matéria à Comissão de Acompanhamento.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2019/A - Diário da República n.º 11/2019, Série I de 2019-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2019-117821874), em vigor a partir de 2019-02-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 18.º — Competências da entidade avaliadora
+
+1 - À entidade avaliadora, compete:
+
+a) Rececionar as candidaturas;
+
+b) Verificar o cumprimento das condições de acesso do promotor e do projeto;
+
+c) Solicitar pareceres aos departamentos do Governo Regional competentes em razão da matéria, ou a entidades externas, sempre que tal se revele necessário;
+
+d) Avaliar os projetos;
+
+e) Elaborar a proposta de decisão da candidatura, no prazo máximo de vinte e cinco dias úteis, a contar da verificação das condições de acesso do promotor e do projeto;
+
+f) Comunicar ao promotor a proposta de decisão relativa à candidatura;
+
+g) Reapreciar a candidatura, no prazo de dez dias úteis, na eventualidade de o promotor apresentar alegações em sede de audiência prévia;
+
+h) Comunicar ao promotor a decisão relativa à candidatura;
+
+i) Preparar o contrato de concessão de incentivos ou o termo de aceitação;
+
+j) Analisar os pedidos de pagamento de incentivo na vertente documental, contabilística e financeira;
+
+k) Acompanhar a execução dos projetos, promover a verificação física dos investimentos, assim como acompanhar a efetiva criação, preenchimento e manutenção dos postos de trabalho previstos no projeto/atividade, incluindo a verificação dos respetivos contratos de trabalho;
+
+l) Elaborar as propostas de pagamento;
+
+m) Enviar para processamento os incentivos devidos;
+
+n) Propor a renegociação dos contratos;
+
+o) Submeter ao membro do Governo Regional responsável pela concessão do incentivo ou à Autoridade de Gestão do PO Açores 2020 as propostas de encerramento dos processos e a atribuição dos prémios de realização;
+
+p) Efetuar o acompanhamento durante o período de afetação dos projetos à atividade e localização;
+
+q) Efetuar a gestão dos reembolsos do incentivo reembolsável ou, quando aplicável, propor o pagamento de juros do incentivo reembolsável às instituições de crédito protocoladas para o efeito.
+
+2 - No decorrer da avaliação das candidaturas, podem ser solicitados ao promotor esclarecimentos complementares, a prestar no prazo máximo de dez dias úteis, decorrido o qual, a ausência de resposta significa a desistência da candidatura.
+
+3 - Os prazos previstos nas alíneas e) e g) do n.º 1 suspendem-se sempre que, nos termos do número anterior, sejam solicitados esclarecimentos complementares.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2019/A - Diário da República n.º 11/2019, Série I de 2019-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2019-117821874), em vigor a partir de 2019-02-15
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 19.º — Acompanhamento, fiscalização e avaliação
+
+1 - O acompanhamento e a fiscalização dos projetos são efetuados pelo departamento do Governo Regional responsável pela concessão do incentivo, pela Inspeção Regional da Administração Pública ou por empresas especializadas, podendo ser solicitados pelo membro do Governo Regional com competência em matéria de competitividade empresarial, em colaboração, conforme os casos, com outros departamentos do Governo Regional, pelo gestor do Programa Operacional Açores 2014-2020 ou por outras entidades integradas no sistema de controlo adotado para o período de programação de 2014-2020.
+
+2 - O acompanhamento e a avaliação da execução conferida ao presente Sistema de Incentivos são efetuados pelo Conselho Estratégico da SDEA - Sociedade para o Desenvolvimento Empresarial dos Açores, EPER.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 20.º — Comissão de Acompanhamento
+
+1 - Para efeitos de acompanhamento da execução dos sistemas de incentivos é criada uma Comissão, denominada Comissão de Acompanhamento.
+
+2 - A Comissão de Acompanhamento é composta pelos seguintes elementos:
+
+a) O diretor regional com competência em matéria de apoio ao investimento e competitividade, que preside;
+
+b) Diretor regional com competência em matéria de emprego e qualificação profissional;
+
+c) Diretor regional com competência em matéria de turismo;
+
+d) Diretor regional com competência em matéria de ciência e tecnologia;
+
+e) Diretor regional com competência em matéria de energia;
+
+f) Um representante da Sociedade de Desenvolvimento Empresarial dos Açores (SDEA), EPER;
+
+g) Dois representantes da Câmara do Comércio e Indústria dos Açores;
+
+h) Um representante da Associação dos Industriais de Construção Civil e Obras Públicas dos Açores;
+
+i) Um representante de cada uma das centrais sindicais.
+
+3 - A Comissão de Acompanhamento reúne, ordinariamente, com periodicidade semestral, podendo reunir, extraordinariamente, mediante pedido de qualquer dos seus elementos.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2019/A - Diário da República n.º 11/2019, Série I de 2019-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2019-117821874), em vigor a partir de 2019-02-15
+
+###### Artigo 21.º — Informação pública
+
+1 - O Governo Regional disponibilizará anualmente, até ao dia 31 de março, nomeadamente através de divulgação eletrónica no Portal do Governo Regional, um relatório de todos os incentivos atribuídos ao abrigo do presente diploma no ano anterior, onde consta obrigatoriamente:
+
+a) A identificação sumária da entidade ou entidades beneficiárias;
+
+b) Descrição do projeto/atividade e dos seus objetivos;
+
+c) Concelho ou concelhos onde será desenvolvido o projeto/atividade;
+
+d) Número de postos de trabalho a criar e respetivas categorias profissionais;
+
+e) Valor total dos incentivos reembolsáveis e não reembolsáveis a receber;
+
+f) Prazo de conclusão do projeto/atividade;
+
+g) Classificação portuguesa da atividade económica (CAE).
+
+2 - Nos casos em que haja postos de trabalho resultantes do projeto/atividade, há, obrigatoriamente, monitorização e publicação anual no Portal do Governo Regional, durante os cinco anos subsequentes ao início do projeto/atividade, ou três anos no caso das pequenas e médias empresas, do número de postos de trabalho preenchidos e dos vínculos contratuais estabelecidos no âmbito do projeto/atividade.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 2/2019/A - Diário da República n.º 11/2019, Série I de 2019-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2019-117821874), em vigor a partir de 2019-02-15
+
+###### Artigo 22.º — Proibição de acumulação de incentivos
+
+1 - Os incentivos previstos no presente diploma não são cumuláveis com quaisquer outros da mesma natureza, para as mesmas despesas elegíveis.
+
+2 - No caso de um projeto beneficiar de incentivos de outra natureza, nomeadamente benefícios fiscais e instrumentos financeiros, o incentivo total acumulado deve respeitar os limites comunitários aplicáveis em matéria de regras de auxílios de Estado.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+###### Artigo 23.º — Regulamentação
+
+Os regulamentos dos diversos Subsistemas de Incentivos do Competir+ são aprovados por decreto regulamentar regional, no prazo de quinze dias úteis a partir da entrada em vigor do presente diploma.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 24.º — Compatibilidade com a regulamentação comunitária
+
+Os Subsistemas de Incentivos referidos no artigo 2.º subordinam-se às normas comunitárias de concorrência em matéria de auxílios de estado, observando, consoante a natureza dos projetos a apoiar, nomeadamente, os seguintes enquadramentos:
+
+a) Orientações Comunitárias relativas aos auxílios estatais com finalidade regional para 2014-2020, publicadas no Jornal Oficial da União Europeia 2013/C 209/01, de 23 de julho de 2013;
+
+b) Regulamento Geral de Isenção por Categoria que declara certas categorias de auxílios compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia;
+
+c) Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1407" title="Link para Regulamento da Comunidade Europeia">1407/2013</a>, da Comissão, de 18 de dezembro, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis;
+
+d) Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1301" title="Link para Regulamento da Comunidade Europeia">1301/2013</a>, do Parlamento Europeu e do Conselho, de 17 de dezembro, relativo ao Fundo Europeu de Desenvolvimento Regional e que estabelece disposições específicas relativas ao objetivo de investimento no crescimento e no emprego;
+
+e) Regulamento (UE) n.º <a href="eurlex.asp?ano=2013&id=313R1303" title="Link para Regulamento da Comunidade Europeia">1303/2013</a>, do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece disposições comuns relativas ao Fundo Europeu de Desenvolvimento Regional, ao Fundo Social Europeu, ao Fundo de Coesão e ao Fundo Europeu dos Assuntos Marítimos e das Pescas.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 25.º — Disposições transitórias
+
+1 - O Decreto Legislativo Regional n.º 19/2007/A, de 23 de julho, alterado e republicado pelo Decreto Legislativo Regional n.º 26/2011/A, de 4 de novembro, bem como a respetiva regulamentação, e o Decreto Legislativo Regional n.º 25/2010/A, de 22 de julho, continuam a aplicar-se aos projetos de investimento aprovados no âmbito do SIDER - Sistema de Incentivos para o Desenvolvimento Regional dos Açores e Empreende Jovem - Sistema de Incentivos ao Empreendedorismo, bem como aos projetos que, cumprindo com as condições previstas no Programa Operacional para os Açores 2020 (PO Açores 2020) venham a ser integrados neste, através da publicação de Avisos para apresentação de candidaturas.
+
+2 - (Revogado).
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 9/2016/A - Diário da República n.º 96/2016, Série I de 2016-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-2016-74454667), em vigor a partir de 2016-05-19
+
+> Alterado pelo/a Artigo 44.º do/a [Decreto Legislativo Regional n.º 1/2016/A - Diário da República n.º 5/2016, Série I de 2016-01-08](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2016-73070297), em vigor a partir de 2016-01-01
+
+###### Artigo 26.º — Norma revogatória
+
+Sem prejuízo do disposto no artigo anterior, são revogados os seguintes diplomas:
+
+a) Decreto Legislativo Regional n.º 19/2007/A, de 23 de julho, alterado e republicado pelos Decretos Legislativos Regionais n.os 2/2009/A, de 2 de março, 10/2010/A, de 16 de março e 26/2011/A, de 4 de novembro;
+
+b) Decreto Legislativo Regional n.º 25/2010/A, de 22 de julho;
+
+c) Decreto Regulamentar Regional n.º 22/2007/A, de 25 de outubro, alterado e republicado pelos Decretos Regulamentares Regionais n.os 12/2010/A, de 15 de junho e 7/2012/A, de 20 de fevereiro;
+
+d) Decreto Regulamentar Regional n.º 21/2007/A, de 24 de outubro, alterado pelo Decreto Regulamentar Regional n.º 11/2009/A, de 13 de agosto e alterado e republicado pelos Decretos Regulamentares Regionais n.º 9/2010/A, de 14 de junho e 11/2012/A, de 4 de maio;
+
+e) Decreto Regulamentar Regional n.º 23/2007/A, de 29 de outubro, alterado e republicado pelos Decretos Regulamentares Regionais n.os 11/2010/A, de 15 de junho e 4/2012/A, de 31 de janeiro;
+
+f) Decreto Regulamentar Regional n.º 26/2007/A, de 19 de novembro, alterado e republicado pelos Decretos Regulamentares Regionais n.os 10/2010/A, de 15 de junho e 2/2012/A, de 25 de janeiro.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+###### Artigo 27.º — Entrada em vigor
+
+O presente diploma entra em vigor a 1 de julho de 2014.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 4 de junho de 2014.
+
+A Presidente da Assembleia Legislativa, Ana Luísa Luís.
+
+Assinado em Angra do Heroísmo em 26 de junho de 2014.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01
+
+## Anexo — Formulário de pedido de auxílio ao investimento com finalidade regional
+
+[a que se refere a alínea a) do n.º 1 do artigo 5.º]
+
+1 - Informações sobre o beneficiário do auxílio:
+
+- nome, endereço oficial da sede principal, principal setor de atividade;
+
+- declaração de que a empresa não se encontra em dificuldade na aceção das orientações relativas aos auxílios estatais de emergência e à reestruturação a empresas em dificuldade;
+
+- declaração especificando os auxílios (de minimis e auxílios estatais) já recebidos a favor de outros projetos durante os últimos três anos na mesma região NUTS 3 em que será realizado o novo investimento, declaração especificando os auxílios ao investimento com finalidade regional recebidos ou a receber a favor do mesmo projeto de outras autoridades;
+
+- declaração especificando se a empresa encerrou uma atividade idêntica ou semelhante no EEE nos dois anos anteriores à data do pedido de auxílio;
+
+- declaração especificando se a empresa tenciona encerrar essa atividade no momento da apresentação do pedido de auxílio num período de dois anos após a conclusão do investimento a subvencionar.
+
+2 - Informações sobre o projeto/atividade a apoiar:
+
+- breve descrição do projeto/atividade;
+
+- breve descrição dos efeitos positivos esperados para a região em causa (por exemplo, número de postos de trabalho criados ou salvaguardados, atividades de I&D&I, atividades de formação, criação de um aglomerado);
+
+- base jurídica relevante (nacional, UE ou ambas);
+
+- data prevista de início e termo do projeto/atividade;
+
+- localização(ões) do projeto.
+
+3 - Informações sobre o financiamento do projeto/atividade:
+
+- investimentos e outros custos conexos, análise custo/eficácia das medidas de auxílio notificadas;
+
+- total dos custos elegíveis;
+
+- montante de auxílio necessário para realizar o projeto/atividade;
+
+- intensidade de auxílio.
+
+4 - Informações sobre a necessidade do auxílio e o seu impacto esperado:
+
+- breve explicação da necessidade do auxílio e do seu impacto a nível da decisão relativa ao investimento ou à localização. Deve ser indicado o eventual investimento ou localização alternativos na ausência do auxílio;
+
+- declaração quanto à ausência de um acordo irrevogável entre o beneficiário e os contratantes com vista à realização do projeto.
+
+> Revogado pelo/a Artigo 27.º do/a [Decreto Legislativo Regional n.º 20/2023/A - Diário da República n.º 105/2023, Série I de 2023-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2023-213761241), em vigor a partir de 2023-06-01

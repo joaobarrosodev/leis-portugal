@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:645732:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2002-927370852",
+ "dre_path": "/dr/detalhe/portaria/1300-2002-645732",
+ "source_lastmod": "2025-07-31",
+ "versions": [
+  {
+   "date": "2002-09-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "927411132"
+   ]
+  }
+ ],
+ "fragments": {
+  "927411132": {
+   "fragment_id": "927370853",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1300/2002\n\nde 27 de Setembro\n\nSob proposta dos estabelecimentos de ensino superior público referidos no anexo ao presente diploma;\n\nConsiderando o disposto no artigo 13.º da Lei de Bases do Sistema Educativo (Lei n.º 46/86, de 14 de Outubro, alterada pela Lei n.º 115/97, de 19 de Setembro);\n\nAo abrigo do disposto no n.º 2 do artigo 14.º do Regulamento Geral dos Cursos Bietápicos de Licenciatura das Escolas de Ensino Superior Politécnico, aprovado pela Portaria n.º 413-A/98, de 17 de Julho, alterada pela Portaria n.º 533-A/99, de 22 de Julho, e do capítulo III do Decreto-Lei n.º 316/83, de 2 de Julho:\n\nManda o Governo, pelo Ministro da Ciência e do Ensino Superior, o seguinte:"
+  }
+ }
+}

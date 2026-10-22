@@ -1,0 +1,322 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:684601:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-114824159",
+ "dre_path": "/dr/detalhe/decreto-lei/27-2006-684601",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-02-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "114824227",
+    "114824213",
+    "114824214",
+    "114824215",
+    "114824216",
+    "114824217",
+    "114824218",
+    "114824219",
+    "114824220",
+    "114824221",
+    "114824222",
+    "114824223",
+    "114824225"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:667530:por",
+     "title": "Declaração de Rectificação n.º 18/2006",
+     "published": "2006-03-23",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/18-2006-667530",
+     "date": "2006-02-11"
+    }
+   ]
+  },
+  {
+   "date": "2014-12-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:64297587:por",
+     "title": "Decreto-Lei n.º 176/2014",
+     "published": "2014-12-12",
+     "dre_path": "/dr/detalhe/decreto-lei/176-2014-64297587"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 3.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "114824227",
+    "114824213",
+    "114824214",
+    "114824239",
+    "114824216",
+    "114824217",
+    "114824229",
+    "114824230",
+    "114824231",
+    "114824232",
+    "114824233",
+    "114824234",
+    "114824235",
+    "114824236",
+    "114824238"
+   ]
+  },
+  {
+   "date": "2018-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114825662:por",
+     "title": "Decreto-Lei n.º 16/2018",
+     "published": "2018-03-07",
+     "dre_path": "/dr/detalhe/decreto-lei/16-2018-114825662"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "114824227",
+    "114824213",
+    "114824214",
+    "114824240",
+    "114824216",
+    "114824217",
+    "114824229",
+    "114824230",
+    "114824231",
+    "114824232",
+    "114824233",
+    "114824234",
+    "114824235",
+    "114824236",
+    "114824241"
+   ]
+  }
+ ],
+ "fragments": {
+  "114824227": {
+   "fragment_id": "114824160",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2006-02-11",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 27/2006\n\nde 10 de Fevereiro\n\nO XVII Governo Constitucional assumiu como um dos objectivos prioritários para a área da educação a melhoria das condições de estabilidade, de motivação e de formação do pessoal docente, adequadas a responder às reais necessidades do sistema de ensino.\n\nA reorganização curricular do ensino básico, aprovada pelo Decreto-Lei n.º 6/2001, de 18 de Janeiro, e a execução da reforma curricular do ensino secundário implementada pelo Decreto-Lei n.º 74/2004, de 26 de Março, demonstraram, por outro lado, a conveniência da redefinição dos critérios de distribuição do serviço docente nas escolas, de forma a permitir racionalizar a gestão dos recursos humanos disponíveis e garantir uma mais justa colocação dos docentes em função das necessidades decorrentes dos novos planos curriculares e conteúdos programáticos.\n\nNa mesma linha, também o Decreto-Lei n.º 344/89, de 11 de Outubro, diploma que estabelece o ordenamento jurídico da formação inicial e contínua dos educadores de infância e dos professores dos ensinos básico e secundário, preconiza a necessidade de adequação dos cursos de formação inicial de professores ministrados nos estabelecimentos de ensino superior e conferentes de qualificação profissional para a docência a tal contexto programático.\n\nEm resultado da experiência entretanto colhida, e após cuidada avaliação dos actuais grupos de docência, torna-se possível estabilizar um conjunto de soluções que orientem o processo de determinação e suprimento das necessidades de docência, tendo por referência as habilitações adequadas à leccionação das várias valências ou áreas disciplinares.\n\nNo quadro das iniciativas destinadas a alcançar tal desiderato, e em paralelo com a revisão do regime jurídico de selecção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário, o presente diploma procede à criação dos grupos de recrutamento para efeitos de colocação destes profissionais, através do reagrupamento e reorganização dos actuais grupos de docência, operando a sua transfiguração, fusão, desdobramento e renumeração, com a definição de novas áreas de recrutamento e a respectiva qualificação profissional.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "114824213": {
+   "fragment_id": "114824161",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei cria e define os grupos de recrutamento para efeitos de selecção e recrutamento do pessoal docente da educação pré-escolar e dos ensinos básico e secundário.\n\n2 - Para efeitos do disposto no presente decreto-lei, entende-se por grupo de recrutamento a estrutura que corresponde a habilitação específica para leccionar no nível de ensino, disciplina ou área disciplinar da educação pré-escolar e dos ensinos básico e secundário."
+  },
+  "114824214": {
+   "fragment_id": "114824162",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei abrange os educadores de infância e os professores dos ensinos básico e secundário pertencentes aos quadros de pessoal docente dos estabelecimentos de educação ou de ensino públicos e os indivíduos portadores de qualificação profissional para a docência ou portadores de habilitação própria para a docência com mais de seis anos de tempo de serviço docente não pertencentes a esses quadros.\n\n2 - O disposto no presente decreto-lei é ainda aplicável aos educadores de infância e aos professores do ensino básico e do ensino secundário pertencentes aos quadros de pessoal docente dos estabelecimentos de educação ou de ensino públicos e aos indivíduos portadores de qualificação profissional para a docência com aproveitamento em cursos que os qualificam para a docência em educação especial nos termos do artigo 36.º da Lei n.º 46/86, de 14 de Outubro (Lei de Bases do Sistema Educativo), com as alterações que lhe foram conferidas pelas Leis n.os 115/97, de 19 de Setembro, e 49/2005, de 30 de Agosto."
+  },
+  "114824215": {
+   "fragment_id": "114824163",
+   "type": 11,
+   "heading": "Artigo 3.º — Grupos de recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Grupos de recrutamento\n\nPara os devidos efeitos, são criados grupos de recrutamento na educação pré-escolar e nos ensinos básico e secundário cuja designação e organização é a constante dos mapas n.os 1 a 5 anexos ao presente decreto-lei e do qual fazem parte integrante, em consonância com os seguintes níveis e ciclos de ensino:\n\na) Educação pré-escolar;\n\nb) 1.º ciclo do ensino básico;\n\nc) 2.º ciclo do ensino básico;\n\nd) 3.º ciclo do ensino básico e do ensino secundário;\n\ne) Educação especial."
+  },
+  "114824216": {
+   "fragment_id": "114824164",
+   "type": 11,
+   "heading": "Artigo 4.º — Educação pré-escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Educação pré-escolar\n\nAs habilitações para o grupo de recrutamento de educação pré-escolar são as qualificações profissionais constantes dos normativos legais em vigor para a educação pré-escolar."
+  },
+  "114824217": {
+   "fragment_id": "114824165",
+   "type": 11,
+   "heading": "Artigo 5.º — 1.º ciclo do ensino básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — 1.º ciclo do ensino básico\n\nAs habilitações para o grupo de recrutamento do 1.º ciclo do ensino básico são as qualificações profissionais constantes dos normativos legais em vigor para o 1.º ciclo do ensino básico."
+  },
+  "114824218": {
+   "fragment_id": "114824166",
+   "type": 11,
+   "heading": "Artigo 6.º — 2.º ciclo do ensino básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — 2.º ciclo do ensino básico\n\nAs habilitações para os grupos de recrutamento do 2.º ciclo do ensino básico são as qualificações profissionais e as habilitações próprias para os grupos de docência do 2.º ciclo do ensino básico constantes dos normativos legais em vigor, com as especialidades seguintes:\n\na) As habilitações profissionais para o grupo de recrutamento Português e Estudos Sociais/História (código de recrutamento 200) são as que conferem qualificação profissional para leccionar no 1.º grupo de docência (Português e Estudos Sociais/História) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nb) As habilitações profissionais para o grupo de recrutamento Português e Francês (código de recrutamento 210) são as que conferem qualificação profissional para leccionar no 2.º grupo de docência (Português e Francês) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nc) As habilitações profissionais para o grupo de recrutamento Português e Inglês (código de recrutamento 220) são as que conferem qualificação profissional para leccionar no 3.º grupo de docência (Português e Inglês) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nd) As habilitações profissionais para o grupo de recrutamento Matemática e Ciências da Natureza (código de recrutamento 230) são as que conferem qualificação profissional para leccionar no 4.º grupo de docência (Matemática e Ciências da Natureza) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\ne) As habilitações profissionais para o grupo de recrutamento Educação Visual e Tecnológica (código de recrutamento 240) são as que conferem qualificação profissional para leccionar nos grupos de docência de Educação Visual, Trabalhos Manuais Masculinos e Trabalhos Manuais Femininos do 2.º ciclo do ensino básico, previstos no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesses grupos;\n\nf) As habilitações profissionais para o grupo de recrutamento Educação Musical (código de recrutamento 250) são as que conferem qualificação profissional para leccionar no grupo de docência de Educação Musical do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\ng) As habilitações profissionais para o grupo de recrutamento Educação Física (código de recrutamento 260) são as que conferem qualificação profissional para leccionar no grupo de docência de Educação Física do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nh) As habilitações profissionais para o grupo de recrutamento Educação Moral e Religiosa Católica (código de recrutamento 290) são as que conferem qualificação profissional para leccionar no grupo de docência de Educação Moral e Religiosa Católica do 2.º ciclo do ensino básico, previsto no Decreto-Lei n.º 407/89, de 16 de Novembro, com a realização do estágio pedagógico nesse grupo."
+  },
+  "114824219": {
+   "fragment_id": "114824167",
+   "type": 11,
+   "heading": "Artigo 7.º — 3.º ciclo do ensino básico e secundário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — 3.º ciclo do ensino básico e secundário\n\nAs habilitações para os grupos de recrutamento do 3.º ciclo do ensino básico e do ensino secundário são as qualificações profissionais e as habilitações próprias para os grupos de docência do 3.º ciclo do ensino básico e do ensino secundário constantes dos normativos legais em vigor, com as especialidades seguintes:\n\na) As habilitações profissionais para o grupo de recrutamento Educação Moral e Religiosa Católica (código de recrutamento 290) são as que conferem qualificação profissional para o grupo de docência de Educação Moral e Religiosa Católica do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 407/89, de 16 de Novembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nb) As habilitações profissionais para o grupo de recrutamento Matemática (código de recrutamento 500) são as que conferem qualificação profissional para o 1.º grupo de docência (Matemática) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nc) As habilitações profissionais para o grupo de recrutamento Electrotecnia (código de recrutamento 540) são as que conferem qualificação profissional para o grupo de docência 2.º-B (Electrotecnia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nd) As habilitações profissionais para o grupo de recrutamento Física e Química (código de recrutamento 510) são as que conferem qualificação profissional para os grupos de docência 4.º-A (Física e Química) e 4.º-B (Química e Física) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\ne) As habilitações profissionais para o grupo de recrutamento Artes Visuais (código de recrutamento 600) são as que conferem qualificação profissional para o 5.º grupo de docência (Artes Visuais) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nf) As habilitações profissionais para o grupo de recrutamento Economia e Contabilidade (código de recrutamento 430) são as que conferem qualificação profissional para os 6.º e 7.º grupos de docência (Contabilidade e Administração e Economia, respectivamente) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\ng) As habilitações profissionais para o grupo de recrutamento Português (código de recrutamento 300) são as que conferem qualificação profissional para os grupos de docência 8.º-A (Português, Latim e Grego) e 8.º-B (Português e Francês) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência e na disciplina de Português;\n\nh) As habilitações profissionais para o grupo de recrutamento Latim e Grego (código de recrutamento 310) são as que conferem qualificação profissional para o grupo de docência 8.º-A (Português, Latim e Grego) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e nas disciplinas de Latim e Grego;\n\ni) As habilitações profissionais para o grupo de recrutamento Francês (código de recrutamento 320) são as que conferem qualificação profissional para o grupo de docência 8.º-B (Português e Francês) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de Francês;\n\nj) As habilitações profissionais para o grupo de recrutamento Inglês (código de recrutamento 330) são as que conferem qualificação profissional para o 9.º grupo de docência (Inglês e Alemão) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de Inglês;\n\nl) As habilitações profissionais para o grupo de recrutamento Alemão (código de recrutamento 340) são as que conferem qualificação profissional para o 9.º grupo de docência (Inglês e Alemão) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de Alemão;\n\nm) As habilitações profissionais para o grupo de recrutamento História (código de recrutamento 400) são as que conferem qualificação profissional para o grupo de docência 10.º-A (História) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de História;\n\nn) As habilitações profissionais para o grupo de recrutamento Filosofia (código de recrutamento 410) são as que conferem qualificação profissional para o grupo de docência 10.º-B (Filosofia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\no) As habilitações profissionais para o grupo de recrutamento Geografia (código de recrutamento 420) são as que conferem qualificação profissional para o grupo de docência 11.º-A (Geografia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\np) As habilitações profissionais para o grupo de recrutamento Biologia e Geologia (código de recrutamento 520) são as que conferem qualificação profissional para o grupo de docência 11.º-B (Biologia e Geologia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nq) As habilitações profissionais para o grupo de recrutamento Educação Tecnológica (código de recrutamento 530) são as que conferem qualificação profissional para os grupos de docência 2.º (Mecanotecnia), 3.º (Construção Civil), 12.º-A (Mecanotecnia), 12.º-B (Electrotecnia), 12.º-C (Secretariado), 12.º-D (Artes dos Tecidos), 12.º-E (Construção Civil e Madeiras), 12.º-F (Artes Gráficas), 12.º-F (Equipamento) e 12.º-F (Têxtil) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\nr) As habilitações profissionais para o grupo de recrutamento Ciências Agro-Pecuárias (código de recrutamento 560) são as que conferem qualificação profissional para os grupos de docência de 12.º-F (Hortofloricultura e Criação de Animais), A (Produção Vegetal) e B (Indústrias Alimentares e Zootecnia) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\ns) As habilitações profissionais para o grupo de recrutamento Educação Física (código de recrutamento 620) são as que conferem qualificação profissional para o grupo de docência (Educação Física) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nt) As habilitações profissionais para o grupo de recrutamento Informática (código de recrutamento 550) são as que conferem qualificação profissional para o grupo de docência (Informática) do 3.º ciclo do ensino básico e do ensino secundário, previsto na Portaria n.º 1141-C/95, de 15 de Setembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nu) As habilitações profissionais para o grupo de recrutamento Música (código de recrutamento 610) são as que conferem qualificação profissional para o grupo de docência (Música) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização da prática pedagógica supervisionada nesse grupo de docência;\n\nv) As habilitações profissionais para o grupo de recrutamento Espanhol (código de recrutamento 350) são as que conferem qualificação profissional para o grupo de docência (Espanhol) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Despacho Normativo n.º 14/99, de 12 de Março, com a realização do estágio pedagógico nesse grupo de docência."
+  },
+  "114824220": {
+   "fragment_id": "114824168",
+   "type": 11,
+   "heading": "Artigo 8.º — Habilitações próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Habilitações próprias\n\nAs habilitações próprias para os grupos de recrutamento referidos nos artigos 6.º e 7.º são, até à sua completa extinção, estabelecidas por portaria do Ministro da Educação, mantendo-se as constantes dos normativos legais em vigor para os correspondentes grupos de docência até ao concurso de recrutamento e selecção de pessoal docente para o ano escolar de 2007-2008, inclusive."
+  },
+  "114824221": {
+   "fragment_id": "114824169",
+   "type": 11,
+   "heading": "Artigo 9.º — Recuperação de vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recuperação de vagas\n\nNos grupos de recrutamento Português (código de recrutamento 300), Latim e Grego (código de recrutamento 310), Francês (código de recrutamento 320), Inglês (código de recrutamento 330) e Alemão (código de recrutamento 340), a recuperação de vagas prevista no regime jurídico dos concursos de pessoal docente de educação pré-escolar e dos ensinos básico e secundário faz-se nos termos seguintes:\n\na) Para os candidatos pertencentes aos quadros dos grupos de docência 8.º-A (Português, Latim e Grego) e 8.º-B (Português e Francês), as vagas são recuperadas, apenas, no grupo de recrutamento Português (código de recrutamento 300);\n\nb) Para os candidatos pertencentes aos quadros do 9.º grupo de docência (Inglês e Alemão), as vagas são recuperadas, apenas, no grupo de recrutamento Inglês (código de recrutamento 330)."
+  },
+  "114824222": {
+   "fragment_id": "114824170",
+   "type": 11,
+   "heading": "Artigo 10.º — Correspondência com os grupos de docência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Correspondência com os grupos de docência\n\nTodas as referências feitas aos grupos de docência pela legislação em vigor consideram-se reportadas aos grupos de recrutamento a que se refere o presente decreto-lei."
+  },
+  "114824223": {
+   "fragment_id": "114824171",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, sendo aplicável a partir dos concursos relativos ao ano escolar de 2006-2007."
+  },
+  "114824225": {
+   "fragment_id": "114824173",
+   "type": 14,
+   "heading": "Anexo — MAPA N.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — MAPA N.º 1\n\nEducação pré-escolar\n\n(ver mapa no documento original)\n\nMAPA N.º 2\n\n1.º ciclo do ensino básico\n\n(ver mapa no documento original)\n\nMAPA N.º 3\n\n2.º ciclo do ensino básico\n\n(ver mapa no documento original)\n\nMAPA N.º 4\n\n3.º ciclo do ensino básico e do ensino secundário\n\n(ver mapa no documento original)\n\nMAPA N.º 5\n\nEducação pré-escolar e 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário\n\n(ver mapa no documento original)"
+  },
+  "114824239": {
+   "fragment_id": "114824163",
+   "type": 11,
+   "heading": "Artigo 3.º — Grupos de recrutamento",
+   "in_force_from": "2014-12-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Grupos de recrutamento\n\nPara os devidos efeitos, são criados grupos de recrutamento na educação pré-escolar e nos ensinos básico e secundário cuja designação e organização é a constante dos mapas n.os 1 a 5 anexos ao presente decreto-lei e do qual fazem parte integrante, em consonância com os seguintes níveis e ciclos de ensino:\n\na) Educação pré-escolar;\n\nb) 1.º ciclo do ensino básico;\n\nc) 2.º ciclo do ensino básico;\n\nd) 3.º ciclo do ensino básico e do ensino secundário;\n\ne) Educação especial;\n\nf) Ensino de Inglês no 1.º ciclo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+  },
+  "114824229": {
+   "fragment_id": "114827776",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Ensino de Inglês no 1.º ciclo",
+   "in_force_from": "2014-12-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+   ],
+   "markdown": "###### Artigo 5.º-A — Ensino de Inglês no 1.º ciclo\n\nAs habilitações para o grupo de recrutamento de Inglês do 1.º ciclo do ensino básico são as que conferem qualificação profissional para lecionar Inglês do 1.º ciclo.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+  },
+  "114824230": {
+   "fragment_id": "114824166",
+   "type": 11,
+   "heading": "Artigo 6.º — 2.º ciclo do ensino básico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — 2.º ciclo do ensino básico\n\nAs habilitações para os grupos de recrutamento do 2.º ciclo do ensino básico são as qualificações profissionais e as habilitações próprias para os grupos de docência do 2.º ciclo do ensino básico constantes dos normativos legais em vigor, com as especialidades seguintes:\n\na) As habilitações profissionais para o grupo de recrutamento Português e Estudos Sociais/História (código de recrutamento 200) são as que conferem qualificação profissional para leccionar no 1.º grupo de docência (Português e Estudos Sociais/História) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nb) As habilitações profissionais para o grupo de recrutamento Português e Francês (código de recrutamento 210) são as que conferem qualificação profissional para leccionar no 2.º grupo de docência (Português e Francês) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nc) As habilitações profissionais para o grupo de recrutamento Português e Inglês (código de recrutamento 220) são as que conferem qualificação profissional para leccionar no 3.º grupo de docência (Português e Inglês) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nd) As habilitações profissionais para o grupo de recrutamento Matemática e Ciências da Natureza (código de recrutamento 230) são as que conferem qualificação profissional para leccionar no 4.º grupo de docência (Matemática e Ciências da Natureza) do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\ne) As habilitações profissionais para o grupo de recrutamento Educação Visual e Tecnológica (código de recrutamento 240) são as que conferem qualificação profissional para leccionar nos grupos de docência de Educação Visual, Trabalhos Manuais Masculinos e Trabalhos Manuais Femininos do 2.º ciclo do ensino básico, previstos no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesses grupos;\n\nf) As habilitações profissionais para o grupo de recrutamento Educação Musical (código de recrutamento 250) são as que conferem qualificação profissional para leccionar no grupo de docência de Educação Musical do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\ng) As habilitações profissionais para o grupo de recrutamento Educação Física (código de recrutamento 260) são as que conferem qualificação profissional para leccionar no grupo de docência de Educação Física do 2.º ciclo do ensino básico, previsto no Decreto n.º 48572, de 9 de Setembro de 1968, com a realização do estágio pedagógico nesse grupo;\n\nh) As habilitações profissionais para o grupo de recrutamento Educação Moral e Religiosa Católica (código de recrutamento 290) são as que conferem qualificação profissional para leccionar no grupo de docência de Educação Moral e Religiosa Católica do 2.º ciclo do ensino básico, previsto no Decreto-Lei n.º 407/89, de 16 de Novembro, com a realização do estágio pedagógico nesse grupo."
+  },
+  "114824231": {
+   "fragment_id": "114824167",
+   "type": 11,
+   "heading": "Artigo 7.º — 3.º ciclo do ensino básico e secundário",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 18/2006 - Diário da República n.º 59/2006, Série I-A de 2006-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2006-667530), em vigor a partir de 2006-02-11"
+   ],
+   "markdown": "###### Artigo 7.º — 3.º ciclo do ensino básico e secundário\n\nAs habilitações para os grupos de recrutamento do 3.º ciclo do ensino básico e do ensino secundário são as qualificações profissionais e as habilitações próprias para os grupos de docência do 3.º ciclo do ensino básico e do ensino secundário constantes dos normativos legais em vigor, com as especialidades seguintes:\n\na) As habilitações profissionais para o grupo de recrutamento Educação Moral e Religiosa Católica (código de recrutamento 290) são as que conferem qualificação profissional para o grupo de docência de Educação Moral e Religiosa Católica do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 407/89, de 16 de Novembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nb) As habilitações profissionais para o grupo de recrutamento Matemática (código de recrutamento 500) são as que conferem qualificação profissional para o 1.º grupo de docência (Matemática) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nc) As habilitações profissionais para o grupo de recrutamento Electrotecnia (código de recrutamento 540) são as que conferem qualificação profissional para o grupo de docência 2.º-B (Electrotecnia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nd) As habilitações profissionais para o grupo de recrutamento Física e Química (código de recrutamento 510) são as que conferem qualificação profissional para os grupos de docência 4.º-A (Física e Química) e 4.º-B (Química e Física) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\ne) As habilitações profissionais para o grupo de recrutamento Artes Visuais (código de recrutamento 600) são as que conferem qualificação profissional para o 5.º grupo de docência (Artes Visuais) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nf) As habilitações profissionais para o grupo de recrutamento Economia e Contabilidade (código de recrutamento 430) são as que conferem qualificação profissional para os 6.º e 7.º grupos de docência (Contabilidade e Administração e Economia, respectivamente) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\ng) As habilitações profissionais para o grupo de recrutamento Português (código de recrutamento 300) são as que conferem qualificação profissional para os grupos de docência 8.º-A (Português, Latim e Grego) e 8.º-B (Português e Francês) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência e na disciplina de Português;\n\nh) As habilitações profissionais para o grupo de recrutamento Latim e Grego (código de recrutamento 310) são as que conferem qualificação profissional para o grupo de docência 8.º-A (Português, Latim e Grego) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro,com a realização do estágio pedagógico nesse grupo de docência e nas disciplinas de Latim ou Grego.\n\ni) As habilitações profissionais para o grupo de recrutamento Francês (código de recrutamento 320) são as que conferem qualificação profissional para o grupo de docência 8.º-B (Português e Francês) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de Francês;\n\nj) As habilitações profissionais para o grupo de recrutamento Inglês (código de recrutamento 330) são as que conferem qualificação profissional para o 9.º grupo de docência (Inglês e Alemão) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de Inglês;\n\nl) As habilitações profissionais para o grupo de recrutamento Alemão (código de recrutamento 340) são as que conferem qualificação profissional para o 9.º grupo de docência (Inglês e Alemão) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de Alemão;\n\nm) As habilitações profissionais para o grupo de recrutamento História (código de recrutamento 400) são as que conferem qualificação profissional para o grupo de docência 10.º-A (História) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência e na disciplina de História;\n\nn) As habilitações profissionais para o grupo de recrutamento Filosofia (código de recrutamento 410) são as que conferem qualificação profissional para o grupo de docência 10.º-B (Filosofia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\no) As habilitações profissionais para o grupo de recrutamento Geografia (código de recrutamento 420) são as que conferem qualificação profissional para o grupo de docência 11.º-A (Geografia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\np) As habilitações profissionais para o grupo de recrutamento Biologia e Geologia (código de recrutamento 520) são as que conferem qualificação profissional para o grupo de docência 11.º-B (Biologia e Geologia) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nq) As habilitações profissionais para o grupo de recrutamento Educação Tecnológica (código de recrutamento 530) são as que conferem qualificação profissional para os grupos de docência 2.º-A (Mecanotecnia), 3.º (Construção Civil), 12.º-A (Mecanotecnia), 12.º-B (Electrotecnia), 12.º-C (Secretariado), 12.º-D (Artes dos Tecidos), 12.º-E (Construção Civil e Madeiras), 12.º-F (Artes Gráficas), 12.º-F (Equipamento) e 12.º-F (Têxtil) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\nr) As habilitações profissionais para o grupo de recrutamento Ciências Agro-Pecuárias (código de recrutamento 560) são as que conferem qualificação profissional para os grupos de docência de 12.º-F (Hortofloricultura e Criação de Animais), A (Produção Vegetal) e B (Indústrias Alimentares e Zootecnia) do 3.º ciclo do ensino básico e do ensino secundário, previstos no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesses grupos de docência;\n\ns) As habilitações profissionais para o grupo de recrutamento Educação Física (código de recrutamento 620) são as que conferem qualificação profissional para o grupo de docência (Educação Física) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nt) As habilitações profissionais para o grupo de recrutamento Informática (código de recrutamento 550) são as que conferem qualificação profissional para o grupo de docência (Informática) do 3.º ciclo do ensino básico e do ensino secundário, previsto na Portaria n.º 1141-C/95, de 15 de Setembro, com a realização do estágio pedagógico nesse grupo de docência;\n\nu) As habilitações profissionais para o grupo de recrutamento Música (código de recrutamento 610) são as que conferem qualificação profissional para o grupo de docência (Música) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Decreto-Lei n.º 519-E2/79, de 29 de Dezembro, com a realização da prática pedagógica supervisionada nesse grupo de docência;\n\nv) As habilitações profissionais para o grupo de recrutamento Espanhol (código de recrutamento 350) são as que conferem qualificação profissional para o grupo de docência (Espanhol) do 3.º ciclo do ensino básico e do ensino secundário, previsto no Despacho Normativo n.º 14/99, de 12 de Março, com a realização do estágio pedagógico nesse grupo de docência.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 18/2006 - Diário da República n.º 59/2006, Série I-A de 2006-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/18-2006-667530), em vigor a partir de 2006-02-11"
+  },
+  "114824232": {
+   "fragment_id": "114824168",
+   "type": 11,
+   "heading": "Artigo 8.º — Habilitações próprias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Habilitações próprias\n\nAs habilitações próprias para os grupos de recrutamento referidos nos artigos 6.º e 7.º são, até à sua completa extinção, estabelecidas por portaria do Ministro da Educação, mantendo-se as constantes dos normativos legais em vigor para os correspondentes grupos de docência até ao concurso de recrutamento e selecção de pessoal docente para o ano escolar de 2007-2008, inclusive."
+  },
+  "114824233": {
+   "fragment_id": "114824169",
+   "type": 11,
+   "heading": "Artigo 9.º — Recuperação de vagas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recuperação de vagas\n\nNos grupos de recrutamento Português (código de recrutamento 300), Latim e Grego (código de recrutamento 310), Francês (código de recrutamento 320), Inglês (código de recrutamento 330) e Alemão (código de recrutamento 340), a recuperação de vagas prevista no regime jurídico dos concursos de pessoal docente de educação pré-escolar e dos ensinos básico e secundário faz-se nos termos seguintes:\n\na) Para os candidatos pertencentes aos quadros dos grupos de docência 8.º-A (Português, Latim e Grego) e 8.º-B (Português e Francês), as vagas são recuperadas, apenas, no grupo de recrutamento Português (código de recrutamento 300);\n\nb) Para os candidatos pertencentes aos quadros do 9.º grupo de docência (Inglês e Alemão), as vagas são recuperadas, apenas, no grupo de recrutamento Inglês (código de recrutamento 330)."
+  },
+  "114824234": {
+   "fragment_id": "114824170",
+   "type": 11,
+   "heading": "Artigo 10.º — Correspondência com os grupos de docência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Correspondência com os grupos de docência\n\nTodas as referências feitas aos grupos de docência pela legislação em vigor consideram-se reportadas aos grupos de recrutamento a que se refere o presente decreto-lei."
+  },
+  "114824235": {
+   "fragment_id": "114824171",
+   "type": 11,
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, sendo aplicável a partir dos concursos relativos ao ano escolar de 2006-2007."
+  },
+  "114824236": {
+   "fragment_id": "114824172",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria de Lurdes Reis Rodrigues.\n\nPromulgado em 2 de Fevereiro de 2006.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 3 de Fevereiro de 2006.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "114824238": {
+   "fragment_id": "114824173",
+   "type": 14,
+   "heading": "Anexo — MAPA N.º 1",
+   "in_force_from": "2014-12-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+   ],
+   "markdown": "## Anexo — MAPA N.º 1\n\nEducação pré-escolar\n\n(ver mapa no documento original)\n\nMAPA N.º 2\n\n1.º ciclo do ensino básico\n\n(ver documento original)\n\nMAPA N.º 3\n\n2.º ciclo do ensino básico\n\n(ver mapa no documento original)\n\nMAPA N.º 4\n\n3.º ciclo do ensino básico e do ensino secundário\n\n(ver mapa no documento original)\n\nMAPA N.º 5\n\nEducação pré-escolar e 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário\n\n(ver mapa no documento original)\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+  },
+  "114824240": {
+   "fragment_id": "114824163",
+   "type": 11,
+   "heading": "Artigo 3.º — Grupos de recrutamento",
+   "in_force_from": "2018-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2018 - Diário da República n.º 47/2018, Série I de 2018-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662), em vigor a partir de 2018-03-08",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Grupos de recrutamento\n\nPara os devidos efeitos, são criados grupos de recrutamento na educação pré-escolar e nos ensinos básico e secundário cuja designação e organização é a constante dos mapas n.os 1 a 5 anexos ao presente decreto-lei e do qual fazem parte integrante, em consonância com os seguintes níveis e ciclos de ensino:\n\na) Educação pré-escolar;\n\nb) 1.º ciclo do ensino básico;\n\nc) 2.º ciclo do ensino básico;\n\nd) 3.º ciclo do ensino básico e do ensino secundário;\n\ne) Educação especial;\n\nf) Ensino de Inglês no 1.º ciclo;\n\ng) Língua Gestual Portuguesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 16/2018 - Diário da República n.º 47/2018, Série I de 2018-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662), em vigor a partir de 2018-03-08\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+  },
+  "114824241": {
+   "fragment_id": "114824173",
+   "type": 14,
+   "heading": "Anexo — MAPA N.º 1",
+   "in_force_from": "2018-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16/2018 - Diário da República n.º 47/2018, Série I de 2018-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662), em vigor a partir de 2018-03-08",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+   ],
+   "markdown": "## Anexo — MAPA N.º 1\n\nEducação pré-escolar\n\n(ver mapa no documento original)\n\nMAPA N.º 2\n\n1.º ciclo do ensino básico\n\n(ver documento original)\n\nMAPA N.º 3\n\n2.º ciclo do ensino básico\n\n(ver mapa no documento original)\n\nMAPA N.º 4\n\n3.º ciclo do ensino básico e do ensino secundário\n\n(ver mapa no documento original)\n\nMAPA N.º 5\n\nEducação pré-escolar e 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário\n\n(ver mapa no documento original)\n\nMAPA N.º 6\n\nEducação pré-escolar e 1.º, 2.º e 3.º ciclos do ensino básico e do ensino secundário\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 16/2018 - Diário da República n.º 47/2018, Série I de 2018-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2018-114825662), em vigor a partir de 2018-03-08\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 176/2014 - Diário da República n.º 240/2014, Série I de 2014-12-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2014-64297587), em vigor a partir de 2014-12-17"
+  }
+ }
+}

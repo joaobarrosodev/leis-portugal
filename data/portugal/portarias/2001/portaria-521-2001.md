@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:332959:por
+title: Portaria n.º 521/2001
+short_title: null
+summary: Altera o plano de estudos ao curso de licenciatura em Organização e Gestão de Empresas ministrado pela Universidade
+  Moderna (Porto)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação
+proposing_entity: null
+official_number: 521/2001
+official_date: null
+publication_date: '2001-05-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 120/2001, Série I-B de 2001-05-24
+  number: '120'
+  series: I
+  supplement: null
+  pages: 3037 - 3039
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/521/2001/05/24/p/dre/pt/html
+  oj: null
+  dre: '332959'
+  dre_path: /dr/detalhe/portaria/521-2001-332959
+  internal: pt:dre:332959:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/521-2001-332959
+  metadata_url: https://data.dre.pt/eli/port/521/2001/05/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/521-2001-332959
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-12-22T00:00:00Z'
+integrity:
+  source_sha256: 2ff3aaf54069b153292e38321165f199c4c2b0e60b3af3b4f13e17bf9b653576
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2001/DRE-2001-521-332959.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Plano de Estudos
+- Curso de Organização e Gestão de Empresas
+- Dinensino-ensino Desenvolvimento e Cooperação
+relationships:
+- type: amended_by
+  target: pt:dre:423638:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/1994/01/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/313/1994/12/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/313/1994/12/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/94/1999/03/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/94/1999/03/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/37/1994/11/11/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 521/2001
+
+de 24 de Maio
+
+A requerimento da DINENSINO - Ensino, Desenvolvimento e Cooperação, C. R. L., entidade instituidora da Universidade Moderna (Porto), reconhecida como de interesse público pelo [Decreto-Lei n.º 313/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1994-574943), de 23 de Dezembro, ao abrigo do disposto no Estatuto do Ensino Superior Particular e Cooperativo (aprovado pelo [Decreto-Lei n.º 16/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-1994-512030), de 22 de Janeiro, alterado, por ratificação, pela [Lei n.º 37/94](https://diariodarepublica.pt/dr/detalhe/lei/37-1994-533820), de 11 de Novembro, e pelo [Decreto-Lei n.º 94/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/94-1999-150335), de 23 de Março);
+
+Considerando o disposto na [Portaria n.º 1078/90](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1990-565431), de 24 de Outubro;
+
+Tendo em vista o disposto no artigo 67.º e no n.º 5 do artigo 53.º do Estatuto do Ensino Superior Particular e Cooperativo;
+
+Ao abrigo do disposto no artigo 64.º do referido Estatuto:
+
+Manda o Governo, pelo Ministro da Educação, o seguinte:
+
+1.º
+
+Alteração do plano de estudos
+
+O plano de estudos do curso de licenciatura em Organização e Gestão de Empresas ministrado pela Universidade Moderna (Porto), cujo funcionamento foi autorizado pela [Portaria n.º 1078/90](https://diariodarepublica.pt/dr/detalhe/portaria/1078-1990-565431), de 24 de Outubro, passa a ser o constante do anexo à presente portaria.
+
+2.º
+
+Número máximo de alunos
+
+1 - O número de novos alunos a admitir anualmente não pode exceder 100.
+
+2 - A frequência global do curso não pode exceder 500 alunos.
+
+3.º
+
+Ano e semestre lectivos
+
+1 - O número de semanas lectivas efectivas de cada ano lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 30.
+
+2 - O número de semanas lectivas efectivas de cada semestre lectivo, excluindo as destinadas a avaliação de conhecimentos, não pode ser inferior a 15.
+
+4.º
+
+Ramos
+
+O curso desdobra-se nos ramos de:
+
+a) Gestão de Marketing;
+
+b) Gestão Económico-Financeira.
+
+5.º
+
+Transição
+
+As regras de transição entre o anterior e o novo plano de estudos são fixadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino.
+
+6.º
+
+Unidades curriculares de opção
+
+O elenco de unidades curriculares de opção a oferecer é fixado pelo órgão legal e estatutariamente competente da Universidade.
+
+7.º
+
+Aplicação
+
+O disposto na presente portaria aplica-se a partir do ano lectivo de 2000-2001, inclusive.
+
+Pelo Ministro da Educação, José Joaquim Dinis Reis, Secretário de Estado do Ensino Superior, em 26 de Abril de 2001.
+
+## ANEXO — Universidade Moderna (Porto)
+
+Curso de Organização e Gestão de Empresas
+
+Grau de licenciado
+
+QUADRO N.º 1
+
+1.º ano
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf)
+
+QUADRO N.º 2
+
+2.º ano
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf)
+
+QUADRO N.º 3
+
+3.º ano
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf)
+
+Ramo de Gestão de Marketing
+
+QUADRO N.º 4
+
+4.º ano
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf)
+
+Ramo de Gestão Económico-Financeira
+
+QUADRO N.º 5
+
+4.º ano
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf)
+
+Ramo de Gestão de Marketing
+
+QUADRO N.º 6
+
+5.º ano
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf)
+
+Ramo de Gestão Económico-Financeira
+
+QUADRO N.º 7
+
+5.º ano
+
+[(ver quadro no documento original)](https://files.diariodarepublica.pt/1s/2001/05/120b00/30373039.pdf)

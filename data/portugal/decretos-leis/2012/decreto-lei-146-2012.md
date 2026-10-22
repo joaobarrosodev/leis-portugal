@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:179778:por
+title: Decreto-Lei n.º 146/2012
+short_title: null
+summary: Procede à primeira alteração ao Decreto-Lei n.º 58/2012, de 14 de março, que aprova a orgânica da Inspeção-Geral
+  da Administração Interna
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 146/2012
+official_date: null
+publication_date: '2012-07-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 134/2012, Série I de 2012-07-12
+  number: '134'
+  series: I
+  supplement: null
+  pages: 3633 - 3634
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13400/0363303634.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/146/2012/07/12/p/dre/pt/html
+  oj: null
+  dre: '179778'
+  dre_path: /dr/detalhe/decreto-lei/146-2012-179778
+  internal: pt:dre:179778:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2012-179778
+  metadata_url: https://data.dre.pt/eli/dec-lei/146/2012/07/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2012-179778
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-07-12T00:00:00Z'
+integrity:
+  source_sha256: 5abb27cb1deb9aeea7f0d805af5c33a402988bc2fdd4ca1a6adc1fa8ae50d80e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-146-179778.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Gestão Financeira
+- Definição de Competências
+- Inspeção Geral da Administração Interna
+- Inspetor Geral
+- Orgânica
+- Quadro de Pessoal
+- Subinspector Geral
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/58/2012/03/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/58/2012/03/14/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 146/2012
+
+de 12 de julho
+
+O [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março, que aprova a orgânica da Inspeção-Geral da Administração Interna (IGAI), integra-se no âmbito do Plano de Redução e Melhoria da Administração Central (PREMAC), onde o processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços constituiu um passo fundamental para uma nova fase da reforma da Administração Pública, no sentido de a tornar, por um lado, eficiente e racional na utilização dos recursos públicos e, por outro, capaz de proporcionar o melhor cumprimento dos objetivos de redução da despesa pública a que o país está vinculado.
+
+A IGAI é, desde a sua criação, um organismo operacional de controlo e fiscalização especialmente vocacionado para o controlo da legalidade num dos domínios seguramente mais delicados da atuação do Estado de direito democrático, como é o do exercício dos poderes de autoridade e o do uso legítimo de meios de coerção pelas forças e serviços de segurança, cuja atuação, dadas as suas especiais características, pode conflituar com os direitos, liberdades e garantias fundamentais dos cidadãos.
+
+Deste modo, e tendo sido considerada a importância de solução diversa da prevista no [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março, no respeitante a matérias de organização interna da IGAI, promove-se a alteração da orgânica desta inspeção-geral definindo que a sua organização interna obedece ao modelo de estrutura hierarquizada.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma procede à primeira alteração ao [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março, que aprova a orgânica da Inspeção-Geral da Administração Interna.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março
+
+Os artigos 7.º e 10.º do [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março, passam a ter a seguinte redação:
+
+«Artigo 7.º
+
+[...]
+
+A organização interna da IGAI obedece ao modelo de estrutura hierarquizada.
+
+###### Artigo 10.º — [...]
+
+Os lugares de direção superior de 1.º e 2.º graus e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.»
+
+###### Artigo 3.º — Alteração ao anexo ao [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março
+
+O anexo ao [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março, passa a ter a redação constante do anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 4.º — Norma revogatória
+
+É revogado o artigo 11.º do [Decreto-Lei n.º 58/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2012-553450), de 14 de março.
+
+Visto e aprovado em Conselho de Ministros de 6 de junho de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Miguel Bento Martins Costa Macedo e Silva.
+
+**Promulgado em 3 de julho de 2012.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 5 de julho de 2012.**
+
+**O Primeiro-Ministro, Pedro Passos Coelho.**
+
+## ANEXO — (a que se refere o artigo 3.º)
+
+## ANEXO — (mapa a que se refere o artigo 10.º)
+
+Mapa de cargos de direção
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/07/13400/0363303634.pdf))](https://files.diariodarepublica.pt/1s/2012/07/13400/0363303634.pdf)

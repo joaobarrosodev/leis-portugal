@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:262350:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1994-116923616",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/16-1994-262350",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1994-05-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116922609",
+    "116922610",
+    "116922611",
+    "116922612",
+    "116922613"
+   ]
+  },
+  {
+   "date": "2018-11-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116923611:por",
+     "title": "Decreto Legislativo Regional n.º 13/2018/A",
+     "published": "2018-11-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/13-2018-116923611"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "116922609",
+    "116922620",
+    "116922621",
+    "116922622",
+    "116922613",
+    "116922614"
+   ]
+  }
+ ],
+ "fragments": {
+  "116922609": {
+   "fragment_id": "116923617",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 16/94/A\n\nAplicação na Região do regime de operação portuária\n\nO regime jurídico das operações portuárias foi recentemente revisto pelo Decreto-Lei n.º 298/93, de 28 de Agosto, visando a criação das condições necessárias à modernização da actividade portuária, com a diminuição de custos e também a existência de empresas devidamente dimensionadas que permitam enfrentar as exigências do futuro.\n\nA competência para a exequibilidade do regime instituído pelo diploma é conferida a entidades do governo central cujo âmbito de jurisdição não abrange as Regiões Autónomas, pelo que haverá também, neste aspecto, que proceder à sua adequação às especificidades regionais.\n\nAssim, a Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:"
+  },
+  "116922610": {
+   "fragment_id": "116923618",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nNa aplicação à Região Autónoma dos Açores do regime jurídico das operações portuárias estabelecido pelo Decreto-Lei n.º 298/93, de 28 de Agosto, ter-se-á em conta o disposto no artigo seguinte."
+  },
+  "116922611": {
+   "fragment_id": "116923619",
+   "type": 11,
+   "heading": "Artigo 2.º — Os artigos 3.º, 7.º, 11.º, 20.º e 34.º aplicam-se à Região com as seguintes adaptações:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Os artigos 3.º, 7.º, 11.º, 20.º e 34.º aplicam-se à Região com as seguintes adaptações:"
+  },
+  "116922612": {
+   "fragment_id": "116923620",
+   "type": 11,
+   "heading": "Artigo 3.º — Interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Interesse público\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\n3 - ...\n\na) ...\n\nb) ...\n\n4 - ...\n\n5 - Nas ilhas onde o serviço de movimentações de cargas não justifique a intervenção de empresas de estiva, a operação portuária poderá ser directamente exercida pela autoridade portuária competente.\n\nArtigo 7.º\n\nÂmbito da actividade\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nk) As operações de carga, descarga e arrumação de peixe fresco, refrigerado ou congelado, esta quando em instalações privativas das empresas de pesca e, em qualquer caso, em operações de transbordo, independentemente do tipo de actividade das embarcações envolvidas, desde que a apresentação da mercadoria ao transporte não seja modificada.\n\nArtigo 11.º\n\nCapital social\n\n1 - ...\n\na) Ponta Delgada - 50000000$00;\n\nb) Praia da Vitória - 25000000$00;\n\nc) Horta - 25000000$00.\n\n2 - Quando a empresa de estiva pretenda exercer a actividade em mais de um porto, o requisito de capital corresponderá ao resultado do somatório do capital exigido para cada um dos portos em que pretenda ser licenciada, com o limite máximo de 75000000$00.\n\nArtigo 20.º\n\nTaxas\n\n1 - ...\n\n2 - As taxas a que se refere o número anterior são fixadas anualmente por portaria conjunta dos Secretários Regionais das Finanças, Planeamento e Administração Pública, da Juventude, Emprego, Comércio, Indústria e Energia e da Habitação, Obras Públicas, Transportes e Comunicações, sob proposta da autoridade portuária competente, podendo nela ser prevista a concessão de bonificação em razão da antiguidade do licenciamento, do montante de investimentos realizados em obras e equipamentos na zona portuária ou do acréscimo do volume de carga movimentada em relação ao ano anterior.\n\nArtigo 34.º\n\nDestino das coimas\n\n1 - ...\n\n2 - As somas percebíveis resultantes da aplicação das coimas a que se refere o artigo 31.º reverterão 60% para o Fundo Regional de Transportes e 40% para a autoridade portuária.\n\nArt. 3.º As referências feitas nos artigos 13.º, n.º 3, 15.º, n.º 3, 19.º, n.º 1, alínea f), e 21.º, n.º 4, ao Instituto do Trabalho Portuário entendem-se como feitas à Secretaria Regional da Habitação, Obras Públicas, Transportes e Comunicações."
+  },
+  "116922613": {
+   "fragment_id": "116923621",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente diploma entra em vigor na data da sua publicação."
+  },
+  "116922620": {
+   "fragment_id": "116923618",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2018-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2018/A - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116923611), em vigor a partir de 2018-11-10"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO regime jurídico da operação portuária, aprovado pelo Decreto-Lei n.º 298/93, de 28 de agosto, alterado pelos Decretos-Leis n.os 324/94, de 30 de dezembro, e 65/95, de 7 de abril, e pela Lei n.º 3/2013, de 14 de janeiro, aplica-se na Região Autónoma dos Açores com as adaptações constantes nos artigos seguintes.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2018/A - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116923611), em vigor a partir de 2018-11-10"
+  },
+  "116922621": {
+   "fragment_id": "116923619",
+   "type": 11,
+   "heading": "Artigo 2.º — Adaptações objetivas",
+   "in_force_from": "2018-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2018/A - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116923611), em vigor a partir de 2018-11-10"
+   ],
+   "markdown": "###### Artigo 2.º — Adaptações objetivas\n\n1 - A operação portuária pode ser exercida diretamente pela autoridade portuária nas ilhas onde o serviço de movimentações de cargas não justifique a intervenção de empresas de estiva.\n\n2 - Não estão abrangidas pelo n.º 1 do artigo 7.º do regime jurídico da operação portuária, para além das situações previstas no n.º 2 desse artigo, as operações de carga, descarga e arrumação de peixe fresco, refrigerado ou congelado, quando realizadas em instalações privativas das empresas de pesca e, em qualquer caso, em operações de transbordo, independentemente do tipo de atividade das embarcações envolvidas, desde que a apresentação da mercadoria ao transporte não seja modificada.\n\n3 - As operações referidas no número anterior podem ser realizadas sem intervenção de trabalhadores abrangidos pelo regime do trabalho portuário.\n\n4 - O capital social necessário ao licenciamento e ao exercício da atividade de empresa de estiva é de (euro) 250 000 (duzentos e cinquenta mil euros) para o porto de Ponta Delgada, de (euro) 125 000 (cento e vinte e cinco mil euros) para os portos da Praia da Vitória e da Horta e de (euro) 50 000 (cinquenta mil euros) para outros portos.\n\n5 - Quando a empresa de estiva pretenda exercer a atividade em mais de um porto, o capital social corresponderá ao resultado do somatório do capital exigido para cada um dos portos em que pretenda ser licenciada, com o limite máximo de (euro) 500 000 (quinhentos mil euros).\n\n6 - O prazo das concessões do serviço público de movimentação de carga não pode exceder os 75 anos e deve ser estabelecido em função do período de tempo necessário para amortização e remuneração, em normais condições de rendibilidade da exploração, do capital investido pelo concessionário.\n\n7 - As bases gerais das concessões do serviço público de movimentação de carga são aprovadas por decreto legislativo regional.\n\n8 - O produto das coimas aplicadas pelas infrações ao regime jurídico da operação portuária reverte para o Fundo Regional de Apoio à Coesão e ao Desenvolvimento Económico e para a autoridade portuária, na proporção de 60 % e 40 %, respetivamente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2018/A - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116923611), em vigor a partir de 2018-11-10"
+  },
+  "116922622": {
+   "fragment_id": "116923620",
+   "type": 11,
+   "heading": "Artigo 3.º — Adaptação orgânica",
+   "in_force_from": "2018-11-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2018/A - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116923611), em vigor a partir de 2018-11-10"
+   ],
+   "markdown": "###### Artigo 3.º — Adaptação orgânica\n\n1 - As competências conferidas pelo Decreto-Lei n.º 298/93, de 28 de agosto, aos órgãos e serviços da administração central são exercidas na Região Autónoma dos Açores pelos seguintes órgãos e serviços da administração regional:\n\na) As competências conferidas ao Conselho de Ministros são exercidas pelo Conselho do Governo Regional;\n\nb) As competências conferidas unicamente ao Ministro do Mar são exercidas pelo membro do Governo Regional competente em matéria de transportes marítimos;\n\nc) As competências conferidas conjuntamente aos Ministros das Finanças, do Comércio e Turismo e do Mar são exercidas pelos membros do Governo Regional competentes em matéria de finanças e de transportes marítimos;\n\nd) As competências conferidas conjuntamente aos Ministros das Finanças e do Mar são exercidas pelos membros do Governo Regional competentes em matéria de finanças e de transportes marítimos;\n\ne) As competências conferidas conjuntamente aos Ministros do Comércio e Turismo e do Mar são exercidas pelos membros do Governo Regional competentes em matéria de finanças e de transportes marítimos.\n\n2 - As referências feitas no n.º 3 do artigo 13.º, no n.º 3 do artigo 15.º, na alínea f) do n.º 2 do artigo 19.º e no n.º 4 do artigo 21.º do Decreto-Lei n.º 298/93, de 28 de agosto, ao Instituto do Trabalho Portuário consideram-se, para todos os efeitos, reportadas ao departamento do Governo Regional com atribuições na área dos transportes marítimos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 13/2018/A - Diário da República n.º 216/2018, Série I de 2018-11-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2018-116923611), em vigor a partir de 2018-11-10"
+  },
+  "116922614": {
+   "fragment_id": "116923622",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 17 de Março de 1994.\n\nO Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.\n\nAssinado em Angra do Heroísmo em 18 de Abril de 1994.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto."
+  }
+ }
+}

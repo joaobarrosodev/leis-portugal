@@ -1,0 +1,84 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:274254:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1993-944648351",
+ "dre_path": "/dr/detalhe/portaria/479-1993-274254",
+ "source_lastmod": "2025-11-06",
+ "versions": [
+  {
+   "date": "1993-05-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944648755"
+   ]
+  },
+  {
+   "date": "1993-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:285573:por",
+     "title": "Declaração de Rectificação n.º 156/93",
+     "published": "1993-08-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/156-1993-285573"
+    }
+   ],
+   "changes": [
+    "Retifica Anexo"
+   ],
+   "fragments": [
+    "944648755",
+    "944648759",
+    "944648758",
+    "944648756",
+    "944648762"
+   ]
+  }
+ ],
+ "fragments": {
+  "944648755": {
+   "fragment_id": "944648352",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 479/93\n\nde 7 de Maio\n\nPelo Decreto-Lei n.º 134/88, de 21 de Abril, foi transmitida para o Estado a propriedade de 80 fogos do Gabinete da Área de Sines, sitos no Bairro do Pinhal, no centro urbano de Santo André, os quais ficam afectos à Direcção-Geral dos Serviços Prisionais.\n\nA identificação dos fogos transmitidos foi remetida para portaria conjunta, a aprovar posteriormente à constituição da propriedade horizontal dos prédios a que respeita.\n\nAssim:\n\nManda o Governo, pelos Ministros das Finanças, do Planeamento e da Administração do Território e da Justiça, ao abrigo do n.º 1 do artigo 1.º do Decreto-Lei n.º 134/88, de 21 de Abril, o seguinte:"
+  },
+  "944648759": {
+   "fragment_id": "944648356",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovada a lista das fracções autónomas transmitidas para o Estado e afectas à Direcção-Geral dos Serviços Prisionais, do Ministério da Justiça, anexa à presente portaria."
+  },
+  "944648758": {
+   "fragment_id": "944648355",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nA presente portaria constitui título bastante da transmissão de propriedade para todos os efeitos legais, incluindo os de registo predial, nos termos do artigo 3.º do Decreto-Lei n.º 134/88, de 21 de Abril."
+  },
+  "944648756": {
+   "fragment_id": "944648353",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Ministérios das Finanças, do Planeamento e da Administração do Território e da Justiça.\n\nAssinada em 5 de Abril de 1993.\n\nO Ministro da Finanças, Jorge Braga de Macedo. - O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro da Justiça, Álvaro José Brilhante Laborinho Lúcio."
+  },
+  "944648762": {
+   "fragment_id": "944648354",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "1993-08-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 156/93 - Diário da República n.º 204/1993, 4º Suplemento, Série I-B de 1993-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1993-285573), em vigor a partir de 1993-08-31"
+   ],
+   "markdown": "## Anexo\n\nFracções autónomas a que se refere a Portaria n.º 479/93\n\n1 - Fracções E, G, Q, S, AA, AC, AI, AM e AO, correspondentes, respectivamente, aos rés-do-chão n.os 5, 7, 17 e 19 e aos segundos andares n.os 5, 7, 13, 17 e 19 do prédio urbano designado por bloco A-1, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00597/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2497.\n\n2 - Fracções F, H, J, L, T, V e Z, correspondentes, respectivamente, aos rés-do-chão n.os 6, 8, 10 e 12 e aos segundos andares n.os 8, 10 e 12 do prédio urbano designado por bloco A-2, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00598/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2502.\n\n3 - Fracções F, H, L, R, T e V, correspondentes, respectivamente, aos rés-do-chão n.os 6, 8 e 12 e aos segundos andares n.os 6, 8 e 10 do prédio urbano designado por bloco A-3, descrito na Conservatória do Registo Predial de Santiago do Cacémsob o n.º 00599/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2503.\n\n4 - Fracções A, C, E, G, Q e S, correspondentes, respectivamente, aos rés-do-chão n.os 1, 3, 5 e 7 e aos segundos andares n.os 5 e 7 do prédio urbano designado por bloco A-4, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00600/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2504.\n\n5 - Fracções C, G, J, L, V e X, correspondentes, respectivamente, aos rés-do-chão n.os 3, 7, 10 e 12 e aos segundos andares n.os 10 e 11 do prédio urbano designado por bloco B-1, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00602/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2491.\n\n6 - Fracções A, B, D, H, L e S, correspondentes, respectivamente, aos rés-do-chão n.os 1, 2, 4, 8 e 12 e ao segundo andar n.º 7 do prédio urbano designado por bloco B-2, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00603/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2492.\n\n7 - Fracções C, E, G, H, I, J, U e X, correspondentes, respectivamente, aos rés-do-chão n.os 3, 5, 7, 8, 9 e 10 e aos segundos andares n.os 9 e 11 do prédio urbano designado por bloco B-3, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00604/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2493.\n\n8 - Fracções B, D, H, J, N, AD e AF, correspondentes, respectivamente, aos rés-do-chão n.os 2, 4, 8, 10 e 14 e aos segundos andares n.os 12 e 14 do prédio urbano designado por bloco B-4, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00605/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2494.\n\n9 - Fracções A, B, C, D, E, F, H, J, L, N, P, R, T, AB, AD, AF, AH, AJ, e AL, correspondentes, respectivamente, aos rés-do-chão n.os 1, 2, 3, 4, 5, 6, 8, 10, 12, 14, 16, 18 e 20 e aos segundos andares n.os 2, 4, 6, 8, 10 e 12 do prédio urbano designado por bloco B-5, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00606/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2495.\n\n10 - Fracções D, F, H, J, L e R, correspondentes, respectivamente, aos rés-do-chão n.os 4, 6, 8, 10, 12 e 18 do prédio urbano designado por bloco B-6, descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 00607/060389, da freguesia de Santo André e inscrito na matriz predial respectiva sob o artigo 2496.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 156/93 - Diário da República n.º 204/1993, 4º Suplemento, Série I-B de 1993-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/156-1993-285573), em vigor a partir de 1993-08-31"
+  }
+ }
+}

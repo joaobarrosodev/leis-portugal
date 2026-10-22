@@ -1,0 +1,442 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:644159:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2001-986457014",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/11-2001-644159",
+ "source_lastmod": "2025-12-16",
+ "versions": [
+  {
+   "date": "2001-09-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "986456916",
+    "986456917",
+    "986456918",
+    "986456919",
+    "986456920",
+    "986456921",
+    "986456922",
+    "986456923",
+    "986456924",
+    "986456925",
+    "986456926",
+    "986456927",
+    "986456928",
+    "986456929",
+    "986456930",
+    "986456931",
+    "986456932",
+    "986456933"
+   ]
+  },
+  {
+   "date": "2010-04-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:612248:por",
+     "title": "Decreto Regulamentar Regional n.º 6/2010/A",
+     "published": "2010-04-06",
+     "dre_path": "/dr/detalhe/decreto-regulamentar-regional/6-2010-612248"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A",
+    "Adita Artigo 14.º-A",
+    "Adita Artigo 14.º-B",
+    "Adita Artigo 14.º-C",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "986456916",
+    "986456917",
+    "986456935",
+    "986456936",
+    "986456937",
+    "986456938",
+    "986456939",
+    "986456940",
+    "986456941",
+    "986456942",
+    "986456947",
+    "986456948",
+    "986456972",
+    "986456950",
+    "986456951",
+    "986456952",
+    "986456957",
+    "986456962",
+    "986456967",
+    "986456973",
+    "986456969",
+    "986456970",
+    "986456971"
+   ]
+  }
+ ],
+ "fragments": {
+  "986456916": {
+   "fragment_id": "986457015",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 11/2001/A\n\nO Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, que aprovou o Estatuto do Serviço Regional de Saúde, prevê, no que respeita às autoridades de saúde, que os respectivos âmbito, competência, funcionamento, nomeação e condições de exercício de funções sejam aprovados por decreto regulamentar regional.\n\nAssim:\n\nAo abrigo do artigo 45.º e do n.º 3 do artigo 47.º do Decreto Legislativo Regional n.º 28/99/A, de 31 de Julho, da alínea d) do n.º 1 do artigo 227.º da Constituição e nos termos da alínea o) do artigo 60.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:"
+  },
+  "986456917": {
+   "fragment_id": "986457016",
+   "type": 11,
+   "heading": "Artigo 1.º — Definição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definição\n\nPara efeito do presente diploma, entende-se por autoridade de saúde o poder de intervenção do Estado na defesa da saúde pública, na prevenção da doença e promoção e manutenção da saúde, pela prevenção dos factores de risco e controlo de situações susceptíveis de causarem ou acentuarem prejuízos graves à saúde da pessoa ou dos agregados populacionais."
+  },
+  "986456918": {
+   "fragment_id": "986457017",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objecto\n\nA autoridade de saúde exerce-se a nível regional, de ilha e de concelho."
+  },
+  "986456919": {
+   "fragment_id": "986457018",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - A autoridade de saúde de âmbito regional é exercida pelo director regional de Saúde.\n\n2 - A autoridade de saúde de âmbito de ilha é exercida por um dos delegados de saúde concelhio da respectiva ilha.\n\n3 - A autoridade de saúde de âmbito concelhio é exercida pelos delegados de saúde concelhios."
+  },
+  "986456920": {
+   "fragment_id": "986457019",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - Às autoridades de saúde compete, designadamente:\n\na) Promover a investigação em saúde e a vigilância epidemiológica;\n\nb) Promover a educação para a saúde;\n\nc) Vigiar o nível sanitário dos aglomerados populacionais, dos serviços, estabelecimentos e locais de utilização pública e determinar as medidas correctivas necessárias para a defesa da saúde pública;\n\nd) Ordenar a suspensão de actividade ou o encerramento dos serviços, estabelecimentos e locais referidos na alínea anterior, quando funcionem em condições de grave risco para a saúde pública;\n\ne) Desencadear o internamento ou a prestação compulsiva de cuidados de saúde a indivíduos em situação de prejudicarem a saúde pública, nos ternos da lei;\n\nf) Exercer a vigilância sanitária das fronteiras;\n\ng) Proceder à requisição de serviços, estabelecimentos e profissionais de saúde em caso de epidemias graves e outras situações semelhantes;\n\nh) Participar em programas de investigação ou formação, designadamente os relacionados com a sua área profissional;\n\ni) Coordenar a recolha, notação e tratamento da informação estatística e epidemiológica com interesse em saúde.\n\n2 - Às autoridades de saúde compete, igualmente, a vigilância das decisões do Governo em matéria de saúde pública, podendo suspendê-las quando as considerem prejudiciais à saúde das pessoas e das comunidades.\n\n3 - Quando ocorram situações de catástrofe ou de outra grave emergência de saúde, o secretário regional competente em matéria de saúde toma as medidas necessárias de excepção que forem indispensáveis, coordenando a actuação dos serviços centrais, dos órgãos do Serviço Regional de Saúde e dos vários níveis de autoridade de saúde com os serviços de protecção civil."
+  },
+  "986456921": {
+   "fragment_id": "986457020",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoridade de saúde regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Autoridade de saúde regional\n\nÀ autoridade de saúde regional compete, especialmente:\n\na) Dirigir e supervisionar a actividade das autoridades de saúde, de acordo com a lei e as instruções superiormente emanadas;\n\nb) Exercer, em situações de emergência sanitária grave, mediante simples declaração pública do secretário regional da tutela, as competências de mobilização, coordenação e utilização dos meios disponíveis, ainda que de estabelecimentos de saúde em actividade privada."
+  },
+  "986456922": {
+   "fragment_id": "986457021",
+   "type": 11,
+   "heading": "Artigo 6.º — Delegados de saúde de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Delegados de saúde de ilha\n\nAos delegados de saúde de ilha compete, especialmente:\n\na) Elaborar o relatório anual sobre o estado sanitário da ilha e as actividades desenvolvidas, que enviarão até 15 de Março de cada ano à autoridade de saúde regional, conjuntamente com o programa para o ano em curso;\n\nb) Supervisionar, orientar, coordenar e apoiar a execução dos programas das actividades dos delegados de saúde concelhios, de acordo com a lei e as instruções superiormente emanadas;\n\nc) Exercer os demais poderes que lhes sejam atribuídos por lei, regulamento ou que hajam sido superiormente delegados ou subdelegados."
+  },
+  "986456923": {
+   "fragment_id": "986457022",
+   "type": 11,
+   "heading": "Artigo 7.º — Delegados de saúde concelhios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Delegados de saúde concelhios\n\nAos delegados de saúde concelhios compete, nomeadamente:\n\na) Elaborar o relatório anual sobre o estado sanitário do concelho e actividades desenvolvidas, que enviarão até 15 de Fevereiro à autoridade de saúde de ilha, conjuntamente com a programação para o ano em curso;\n\nb) Fazer cumprir as normas que tenham por objecto a defesa da saúde pública;\n\nc) Levantar autos relativos às infracções, instruir os respectivos processos e aplicar coimas de acordo com a lei, solicitando, quando necessário, o concurso das autoridades administrativas e policiais para o bom desempenho das suas funções;\n\nd) Determinar a suspensão do trabalho e o encerramento dos respectivos locais, no todo ou em parte, quando houver grave risco para a saúde pública;\n\ne) Participar em acções de informação, esclarecimento e prevenção;\n\nf) Efectuar as inspecções médicas determinadas por lei ou regulamento e passar os respectivos atestados;\n\ng) Verificar os óbitos ocorridos no concelho, de acordo com as disposições legais, emitir atestados médico-sanitários referentes às trasladações e fiscalizar a observância das leis e regulamentos sobre inumações e exumações;\n\nh) Fazer cumprir as normas sobre doenças transmissíveis, incluindo a evicção dos locais de trabalho e dos estabelecimentos escolares, mantendo actualizado o registo das doenças de notificação obrigatória, e coordenar as acções em caso de epidemia;\n\ni) Dar parecer sobre o pedido de licenciamento e fiscalizar as instituições e serviços privados prestadores de cuidados de saúde, sem prejuízo das competências legalmente atribuídas a outras entidades;\n\nj) Exercer a vigilância sanitária da qualidade da água para consumo humano, das zonas balneares e das águas para utilização recreativa;\n\nk) Exercer os demais poderes que lhes sejam atribuídos por lei, regulamento ou lhes hajam sido delegados ou subdelegados."
+  },
+  "986456924": {
+   "fragment_id": "986457023",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - As funções inerentes ao exercício do poder de autoridade de saúde são exercidas com autonomia técnica em relação aos serviços que lhes prestam apoio técnico, logístico e administrativo.\n\n2 - As funções de delegado de saúde podem ser acumuladas com quaisquer outras.\n\n3 - No exercício do seu poder, as autoridades de saúde dispõem de instalações, apoio técnico e administrativo fornecido pelas unidades de saúde de ilha em cujo âmbito territorial exerçam a respectiva autoridade.\n\n4 - As taxas sanitárias aplicadas pelas autoridades de saúde, no âmbito das suas funções, são cobradas pelos serviços competentes das unidades de saúde de ilha.\n\n5 - As autoridades de saúde e funcionários delas dependentes gozam de livre acesso aos locais objecto das suas funções, dispondo de cartão de identificação de modelo próprio.\n\n6 - Das decisões das autoridades de saúde cabe recurso hierárquico e contencioso nos termos da lei."
+  },
+  "986456925": {
+   "fragment_id": "986457024",
+   "type": 11,
+   "heading": "Artigo 9.º — Provimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Provimento\n\n1 - Os delegados de saúde de ilha e concelhios são nomeados por despacho do secretário regional da tutela, sob proposta do director regional de Saúde, pelo período de três anos, renovável, de entre médicos da carreira de saúde pública ou, se tal não for possível, de entre médicos de outras carreiras.\n\n2 - O delegado de saúde de ilha é nomeado de entre os delegados de saúde concelhios da respectiva ilha.\n\n3 - O delegado de saúde concelhio nomeado para delegado de saúde de ilha será substituído nos termos do artigo 12.º\n\n4 - O provimento nos cargos de delegado de saúde de ilha e concelhio obedecerá às normas previstas nos artigos 18.º e 20.º da Lei n.º 49/99, de 22 de Junho."
+  },
+  "986456926": {
+   "fragment_id": "986457025",
+   "type": 11,
+   "heading": "Artigo 10.º — Situações especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Situações especiais\n\n1 - Pela dimensão demográfica dos concelhos de Angra do Heroísmo e Ponta Delgada, o secretário regional da tutela poderá nomear mais de um delegado de saúde concelhio para cada um deles.\n\n2 - Quando a evolução demográfica de outros concelhos o justifique, o secretário regional da tutela poderá, igualmente, nomear para os mesmos mais de um delegado de saúde.\n\n3 - No caso previsto nos números anteriores, caberá ao delegado de saúde de ilha a definição do âmbito de actuação de cada um dos delegados de saúde.\n\n4 - Havendo falta de entendimento na definição do respectivo âmbito de actuação, caberá à autoridade de saúde regional, através de despacho, dirimir o conflito.\n\n5 - Os concelhos de Santa Cruz e das Lages, na ilha das Flores, são agrupados sob o mesmo delegado de saúde concelhio."
+  },
+  "986456927": {
+   "fragment_id": "986457026",
+   "type": 11,
+   "heading": "Artigo 11.º — Substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Substituição\n\nNas suas ausências e impedimentos, cabe ao delegado de saúde de ilha a indicação à tutela do delegado de saúde concelhio que o substitui."
+  },
+  "986456928": {
+   "fragment_id": "986457027",
+   "type": 11,
+   "heading": "Artigo 12.º — Delegados de saúde substitutos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Delegados de saúde substitutos\n\n1 - Por cada delegado de saúde concelhio será nomeado, nos termos do n.º 1 do artigo 9.º, um delegado substituto, que exercerá as respectivas funções nas ausências e impedimentos do titular.\n\n2 - O delegado de saúde substituto terá de reunir as condições exigidas para o provimento do titular.\n\n3 - A nomeação referida no n.º 1 far-se-á sob proposta:\n\na) Nas ilhas onde exista delegado de saúde de ilha, pelo respectivo delegado;\n\nb) Nas restantes situações, mediante proposta do titular.\n\n4 - No exercício das suas funções, o delegado de saúde substituto exercerá as competências próprias e delegadas do respectivo titular."
+  },
+  "986456929": {
+   "fragment_id": "986457028",
+   "type": 11,
+   "heading": "Artigo 13.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Remuneração\n\nA remuneração das autoridades de saúde será fixada por despacho normativo conjunto do secretário regional da tutela e do Secretário Regional da Presidência para as Finanças e Planeamento."
+  },
+  "986456930": {
+   "fragment_id": "986457029",
+   "type": 11,
+   "heading": "Artigo 14.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pessoal\n\nO pessoal técnico, nomeadamente os técnicos de higiene e saúde ambiental, e administrativo que preste apoio ao delegado de saúde concelhio depende hierárquica e funcionalmente deste."
+  },
+  "986456931": {
+   "fragment_id": "986457030",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - Os delegados de saúde de ilha serão nomeados à medida que forem sendo criadas as condições necessárias.\n\n2 - Até à implementação das unidades de saúde de ilha, o apoio a que se referem os n.os 1 e 3 do artigo 8.º é prestado pelo centro de saúde respectivo."
+  },
+  "986456932": {
+   "fragment_id": "986457031",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nFicam revogadas todas as disposições que disponham sobre esta matéria, nomeadamente o artigo 33.º do Decreto Regulamentar Regional n.º 3/86/A, de 24 de Janeiro."
+  },
+  "986456933": {
+   "fragment_id": "986457032",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da respectiva publicação."
+  },
+  "986456935": {
+   "fragment_id": "986457017",
+   "type": 11,
+   "heading": "Artigo 2.º — Objecto",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 2.º — Objecto\n\nA autoridade de saúde exerce-se a nível regional e de concelho, funcionando em sistema de rede integrada de informação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456936": {
+   "fragment_id": "986457018",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - A autoridade de saúde de âmbito regional é exercida pelo director regional de Saúde.\n\n2 - A autoridade de saúde regional pode ser coadjuvada por um coordenador regional de saúde pública.\n\n3 - A autoridade de saúde de âmbito concelhio é exercida pelos delegados de saúde concelhios.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456937": {
+   "fragment_id": "986457019",
+   "type": 11,
+   "heading": "Artigo 4.º — Competência",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 4.º — Competência\n\n1 - Às autoridades de saúde compete, designadamente:\n\na) Promover a investigação em saúde e a vigilância epidemiológica;\n\nb) Promover a educação para a saúde;\n\nc) Vigiar o nível sanitário dos aglomerados populacionais, dos serviços, estabelecimentos e locais de utilização pública e determinar as medidas correctivas necessárias para a defesa da saúde pública;\n\nd) Ordenar a suspensão de actividade ou o encerramento dos serviços, estabelecimentos e locais referidos na alínea anterior, quando funcionem em condições de grave risco para a saúde pública;\n\ne) Desencadear, de acordo com a Constituição e a lei, o internamento ou a prestação compulsiva de cuidados a indivíduos em situação de prejudicarem a saúde pública, nos termos da lei;\n\nf) Exercer a vigilância sanitária das fronteiras;\n\ng) Proceder à requisição de serviços, estabelecimentos e profissionais de saúde em caso de epidemias graves e outras situações semelhantes;\n\nh) Participar em programas de investigação ou formação, designadamente os relacionados com a sua área profissional;\n\ni) Coordenar a recolha, notação e tratamento da informação estatística e epidemiológica com interesse em saúde.\n\n2 - Às autoridades de saúde compete, igualmente, a vigilância das decisões dos órgãos e serviços executivos da Região em matéria de saúde pública, podendo suspendê-las quando as considerem prejudiciais.\n\n3 - Quando ocorram situações de catástrofe ou de outra grave emergência de saúde, o secretário regional competente em matéria de saúde toma as medidas necessárias de excepção que forem indispensáveis, coordenando a actuação dos serviços centrais, dos órgãos do Serviço Regional de Saúde e dos vários níveis de autoridade de saúde com os serviços de protecção civil.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456938": {
+   "fragment_id": "986457020",
+   "type": 11,
+   "heading": "Artigo 5.º — Autoridade de saúde regional",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 5.º — Autoridade de saúde regional\n\n1 - À autoridade de saúde regional compete, especialmente:\n\na) Dirigir e supervisionar a actividade das autoridades de saúde, de acordo com a lei e as instruções superiormente emanadas;\n\nb) Exercer, em situações de emergência sanitária grave, mediante simples declaração pública do secretário regional da tutela, as competências de mobilização, coordenação e utilização dos meios disponíveis, ainda que de estabelecimentos de saúde em actividade privada.\n\n2 - A autoridade de saúde de âmbito regional pode delegar no coordenador ou qualquer dos delegados de saúde concelhios algumas das competências referidas no número anterior.\n\n3 - A autoridade de saúde regional é substituída nas suas ausências e impedimentos pelo coordenador regional de saúde pública, ou por um delegado de saúde concelhio designado para o efeito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456939": {
+   "fragment_id": "986457021",
+   "type": 11,
+   "heading": "Artigo 6.º — Coordenador regional de Saúde Pública",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 6.º — Coordenador regional de Saúde Pública\n\nAo coordenador regional de saúde pública compete, designadamente:\n\na) Emitir parecer, apoiar e coordenar as actividades das autoridades de saúde concelhias de acordo com a lei e as instruções superiormente emanadas;\n\nb) Elaborar, até 15 de Março, relatório anual de análise epidemiológica sobre o estado sanitário da Região e das actividades desenvolvidas pelas autoridades de saúde concelhias, para apresentação à autoridade de saúde regional;\n\nc) Dar parecer, até 30 de Novembro de cada ano, do plano de actividades das autoridades de saúde concelhias, para o ano seguinte, para efeitos de aprovação da autoridade de saúde regional;\n\nd) Promover a articulação e cooperação eficiente entre as autoridades de saúde e os demais serviços integrados no Serviço Regional de Saúde, bem como com outras entidades externas;\n\ne) Avaliar as necessidades de formação dos diversos grupos profissionais das delegações de saúde da Região, mediante auscultação dos delegados de saúde concelhios, propondo à autoridade de saúde regional, planos de formação específica e contínua adequados;\n\nf) Exercer os demais poderes que lhe sejam atribuídos por lei, regulamento ou que lhe hajam sido delegados.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456940": {
+   "fragment_id": "986457022",
+   "type": 11,
+   "heading": "Artigo 7.º — Delegados de saúde concelhios",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 7.º — Delegados de saúde concelhios\n\nAos delegados de saúde concelhios compete, nomeadamente:\n\na) Elaborar o relatório anual de análise epidemiológica sobre o estado sanitário do concelho e actividades desenvolvidas, a enviar até 15 de Fevereiro, ao coordenador regional de Saúde Pública, para posterior apresentação à autoridade de saúde regional;\n\nb) Propor, até 30 de Outubro de cada ano, à autoridade de saúde regional o plano de actividades a ser desenvolvido no concelho, para o ano seguinte;\n\nc) Fazer cumprir nos termos da legislação aplicável a cada caso concreto, as normas que tenham por objecto a defesa da saúde pública, requerendo, quando necessário, o apoio das autoridades administrativas e policiais;\n\nd) Levantar autos relativos às infracções, instruir os respectivos processos e aplicar coimas de acordo com a lei, solicitando, quando necessário, o concurso das autoridades administrativas e policiais para o bom desempenho das suas funções;\n\ne) Determinar a suspensão do trabalho e o encerramento dos respectivos locais, no todo ou em parte, quando houver risco para a saúde pública nos termos da legislação em vigor;\n\nf) Participar em acções de informação, esclarecimento e prevenção;\n\ng) Efectuar as inspecções médicas determinadas por lei ou regulamento e passar os respectivos atestados;\n\nh) Verificar os óbitos ocorridos no concelho, de acordo com as disposições legais, emitir atestados médico-sanitários referentes às trasladações e fiscalizar a observância das leis e regulamentos sobre inumações e exumações;\n\ni) Fazer cumprir as normas sobre doenças transmissíveis, incluindo a evicção dos locais de trabalho e dos estabelecimentos escolares, mantendo actualizado o registo das doenças de notificação obrigatória, e coordenar as acções em caso de epidemia;\n\nj) Dar parecer sobre o pedido de licenciamento e fiscalizar as instituições e serviços privados prestadores de cuidados de saúde, sem prejuízo das competências legalmente atribuídas a outras entidades;\n\nk) Exercer a vigilância sanitária da qualidade da água para consumo humano, das zonas balneares e das águas para utilização recreativa;\n\nl) Exercer os demais poderes que lhes sejam atribuídos por lei, regulamento ou lhes hajam sido delegados ou subdelegados.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456941": {
+   "fragment_id": "986457023",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 8.º — Funcionamento\n\n1 - As funções inerentes ao exercício do poder de autoridade de saúde são exercidas com autonomia técnica e são independentes das de natureza operativa dos serviços que lhes prestem apoio técnico, logístico e administrativo.\n\n2 - As funções de delegado de saúde podem ser acumuladas com quaisquer outras.\n\n3 - No exercício do seu poder e competências, as autoridades de saúde dispõem de instalações, equipamentos, apoio técnico, logístico e administrativo fornecido pelas unidades de saúde em cujo âmbito territorial exerçam a respectiva autoridade.\n\n4 - As instalações e os equipamentos disponibilizados pelas unidades de saúde, nos termos do número anterior, devem ser as mais apropriadas ao tipo de actividade realizado pelas autoridades de saúde.\n\n5 - As autoridades de saúde podem delegar nos profissionais que, nos termos do artigo 14.º do presente diploma, lhes prestam apoio, de acordo com as áreas específicas de intervenção, a execução de actos materiais compreendidos no exercício das suas competências, desde que observados os requisitos de qualificação profissional necessários ao exercício das mesmas.\n\n6 - As taxas sanitárias aplicadas pelas autoridades de saúde, no âmbito das suas funções, são cobradas pelos serviços competentes das unidades de saúde em cujo âmbito territorial exerçam a respectiva autoridade.\n\n7 - Das decisões das autoridades de saúde cabe recurso hierárquico para o membro do Governo Regional com competência em matéria de saúde e contencioso, nos termos da lei.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456942": {
+   "fragment_id": "986457024",
+   "type": 11,
+   "heading": "Artigo 9.º — Provimento do delegado de saúde concelhio",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 9.º — Provimento do delegado de saúde concelhio\n\n1 - Os delegados de saúde concelhios são nomeados, em regime de comissão de serviço, por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde, de entre médicos da carreira médica de saúde pública ou de entre médicos de outras carreiras, em função do seu perfil, currículo ou experiência adequada.\n\n2 - A nomeação referida no número anterior efectua-se pelo período de três anos, renovável por iguais períodos.\n\n3 - É aplicável à comissão de serviço o regime constante da Lei n.º 12-A/2008, de 27 de Fevereiro, adaptada à Região Autónoma dos Açores através do Decreto Legislativo Regional n.º 26/2008/A, de 24 de Julho, com as especialidades previstas nos números seguintes.\n\n4 - Compete ao director regional da Saúde propor a eventual renovação da comissão de serviço referida no n.º 1 do presente artigo, até 90 dias antes do seu termo.\n\n5 - Em caso de vacatura do cargo por não renovação da comissão de serviço, as funções são asseguradas em regime de gestão corrente, até ao máximo de 90 dias.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456947": {
+   "fragment_id": "986457039",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Provimento do coordenador regional de saúde pública",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 9.º-A — Provimento do coordenador regional de saúde pública\n\n1 - O coordenador regional de saúde pública é nomeado, em regime de comissão de serviço, por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde, preferencialmente de entre médicos da carreira médica de saúde pública ou de entre médicos de outras carreiras, que detenham três ou mais anos de exercício de funções de delegado de saúde.\n\n2 - A nomeação referida no número anterior efectua-se pelo período de três anos, renovável por iguais períodos.\n\n3 - É aplicável à comissão de serviço o regime constante da Lei n.º 12-A/2008, de 27 de Fevereiro, adaptada à Região Autónoma dos Açores através do Decreto Legislativo Regional n.º 26/2008/A, de 24 de Julho, com as especialidades previstas nos números seguintes.\n\n4 - Compete ao director regional da Saúde propor a eventual renovação da comissão de serviço referida no n.º 1 do presente artigo, até 90 dias antes do seu termo.\n\n5 - Em caso de vacatura do cargo por não renovação da comissão de serviço, as funções são asseguradas em regime de gestão corrente, até ao máximo de 90 dias.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456948": {
+   "fragment_id": "986457025",
+   "type": 11,
+   "heading": "Artigo 10.º — Situações especiais",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 10.º — Situações especiais\n\n1 - Sempre que a dimensão demográfica o justifique, poderá o membro do Governo Regional com competência em matéria de saúde nomear mais de um delegado de saúde no mesmo concelho, bem como agrupar concelhos sob a mesma autoridade de saúde.\n\n2 - (Revogado.)\n\n3 - No caso previsto no número anterior, a definição do âmbito de actuação de cada um dos delegados de saúde cabe à autoridade de saúde regional, através de despacho.\n\n4 - Os concelhos de Santa Cruz e das Lajes, na ilha das Flores, são agrupados sob o mesmo delegado de saúde concelhio.\n\n5 - (Revogado.)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456972": {
+   "fragment_id": "986457026",
+   "type": 11,
+   "heading": "Artigo 11.º — Substituição",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 11.º — Substituição\n\nNas suas ausências e impedimentos, cabe ao delegado de saúde de ilha a indicação à tutela do delegado de saúde concelhio que o substitui.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456950": {
+   "fragment_id": "986457027",
+   "type": 11,
+   "heading": "Artigo 12.º — Delegados de saúde substitutos",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 12.º — Delegados de saúde substitutos\n\n1 - Nas ausências e impedimentos do delegado de saúde concelhio, as suas funções são asseguradas pelo delegado de saúde substituto, a designar por despacho do membro do Governo Regional com competência em matéria de saúde, sob proposta do director regional da Saúde.\n\n2 - Pode o membro do Governo Regional com competência em matéria da saúde, em casos excepcionais e ausências devidamente justificadas, designar um segundo delegado de saúde substituto, sob proposta do director regional da Saúde.\n\n3 - O delegado de saúde substituto tem de reunir as condições exigidas para o provimento do titular.\n\n4 - No exercício das suas funções, o delegado de saúde substituto exerce as competências próprias e delegadas do respectivo titular.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456951": {
+   "fragment_id": "986457028",
+   "type": 11,
+   "heading": "Artigo 13.º — Remuneração",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 13.º — Remuneração\n\nA remuneração do coordenador regional de saúde pública e das autoridades de saúde é fixada por despacho conjunto dos membros do Governo Regional competentes em matéria da saúde e de finanças.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456952": {
+   "fragment_id": "986457029",
+   "type": 11,
+   "heading": "Artigo 14.º — Pessoal",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 14.º — Pessoal\n\nOs técnicos de diagnóstico e terapêutica, nomeadamente de saúde ambiental, e restante pessoal necessário ao funcionamento das delegações de saúde dependem hierárquica e funcionalmente do delegado de saúde concelhio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456957": {
+   "fragment_id": "986457040",
+   "type": 11,
+   "heading": "Artigo 14.º-A — Dever de colaboração das instituições públicas e privadas",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 14.º-A — Dever de colaboração das instituições públicas e privadas\n\n1 - As autoridades de saúde têm o direito de acesso à informação necessária ao exercício das suas funções, relevante para a salvaguarda da saúde pública, devendo as instituições públicas e privadas fornecer os dados por aquelas considerados essenciais.\n\n2 - As autoridades de saúde têm ainda o direito de acesso a serviços, instituições ou locais abertos ao público, no exercício das suas funções.\n\n3 - Para efeitos do disposto nos números anteriores as autoridades de saúde e o pessoal técnico delas dependente dispõem de cartão de identificação de modelo próprio, aprovado por despacho do membro do Governo Regional com competência em matéria de saúde.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456962": {
+   "fragment_id": "986457041",
+   "type": 11,
+   "heading": "Artigo 14.º-B — Apoio jurídico e patrocínio judiciário",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 14.º-B — Apoio jurídico e patrocínio judiciário\n\nOs titulares dos poderes de autoridade de saúde que sejam arguidos ou parte em processo administrativo ou judicial, por acto cometido ou ocorrido no exercício e por causa das suas funções, têm direito a assistência jurídica, nas modalidades de apoio jurídico e patrocínio judiciário, a assegurar pela Direcção Regional da Saúde.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456967": {
+   "fragment_id": "986457042",
+   "type": 11,
+   "heading": "Artigo 14.º-C — Sanções",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 14.º-C — Sanções\n\nA desobediência a ordem ou a mandado legítimos, regularmente emanados e notificados pela autoridade de saúde, é punida nos termos da lei penal.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456973": {
+   "fragment_id": "986457030",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposições transitórias",
+   "in_force_from": "2010-04-07",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+   ],
+   "markdown": "###### Artigo 15.º — Disposições transitórias\n\n1 - Os delegados de saúde de ilha serão nomeados à medida que forem sendo criadas as condições necessárias.\n\n2 - Até à implementação das unidades de saúde de ilha, o apoio a que se referem os n.os 1 e 3 do artigo 8.º é prestado pelo centro de saúde respectivo.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto Regulamentar Regional n.º 6/2010/A - Diário da República n.º 66/2010, Série I de 2010-04-06](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2010-612248), em vigor a partir de 2010-04-07"
+  },
+  "986456969": {
+   "fragment_id": "986457031",
+   "type": 11,
+   "heading": "Artigo 16.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Norma revogatória\n\nFicam revogadas todas as disposições que disponham sobre esta matéria, nomeadamente o artigo 33.º do Decreto Regulamentar Regional n.º 3/86/A, de 24 de Janeiro."
+  },
+  "986456970": {
+   "fragment_id": "986457032",
+   "type": 11,
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da respectiva publicação."
+  },
+  "986456971": {
+   "fragment_id": "986457033",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Conselho do Governo Regional, em Angra do Heroísmo, em 11 de Julho de 2001.\n\nO Presidente do Governo Regional, Carlos Manuel Martins do Vale César.\n\nAssinado em Angra do Heroísmo em 16 de Agosto de 2001.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  }
+ }
+}

@@ -1,0 +1,335 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:662139:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-162529571",
+ "dre_path": "/dr/detalhe/decreto-lei/134-1987-662139",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1987-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162539666",
+    "162538550",
+    "162538551",
+    "162538552",
+    "162538553",
+    "162538554",
+    "162538555",
+    "162538556"
+   ]
+  },
+  {
+   "date": "1990-01-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:335235:por",
+     "title": "Decreto-Lei n.º 34/90",
+     "published": "1990-01-24",
+     "dre_path": "/dr/detalhe/decreto-lei/34-1990-335235"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "162538549",
+    "162538550",
+    "162538574",
+    "162538552",
+    "162538553",
+    "162538554",
+    "162538555",
+    "162538556",
+    "162538557"
+   ]
+  },
+  {
+   "date": "1992-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:331852:por",
+     "title": "Decreto-Lei n.º 437/91",
+     "published": "1991-11-08",
+     "dre_path": "/dr/detalhe/decreto-lei/437-1991-331852"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "162538549",
+    "162539661",
+    "162538574",
+    "162539662",
+    "162539663",
+    "162538554",
+    "162539664",
+    "162539665",
+    "162538557"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162539666",
+    "162539667",
+    "162539668",
+    "162539669",
+    "162539670",
+    "162539671",
+    "162539672",
+    "162539673",
+    "162539674"
+   ]
+  }
+ ],
+ "fragments": {
+  "162539666": {
+   "fragment_id": "162529572",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 134/87\n\nde 17 de Março\n\nO Decreto-Lei n.º 178/85, de 23 de Maio, introduziu algumas alterações pontuais ao Decreto-Lei n.º 305/81, de 12 de Novembro, sem, contudo, ter sido revista a respectiva tabela de vencimentos.\n\nTem-se verificado ao longo dos anos que a carreira de enfermagem se vem mostrando pouco aliciante, quer face às tarefas e responsabilidades que são cometidas aos seus profissionais, quer face às acrescidas exigências dos níveis habitacionais e de formação permanente que a Administração coloca.\n\nDaí que esteja criada uma situação de grave carência destes profissionais. Carência que importa tentar minorar, procurando simultaneamente que a carreira de enfermagem se não distancie dos índices de melhoria introduzidos nas restantes carreiras.\n\nEssa a principal razão de ser do presente diploma, cuja aprovação se entendeu não poder ser protelada.\n\nTendo ainda em consideração a necessidade que se tem verificado nos últimos anos de se recorrer à contratação de elevado número de enfermeiros em regime de tarefa para suprir as carências inadiáveis de pessoal de enfermagem nos estabelecimentos de saúde, as mais das vezes em virtude da não aplicação pela Administração de adequados critérios de gestão de recursos humanos - e atente-se em que a simples integração de todos os «tarefeiros» em lugares de quadro não preencheria todas as vagas existentes nos quadros, - parece da maior razoabilidade criar medidas que, de alguma forma, minimizem os prejuízos que decorrem da aplicação desse regime a estes profissionais.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162538550": {
+   "fragment_id": "162529573",
+   "type": 11,
+   "heading": "Artigo 1.º — Graus da carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Graus da carreira\n\n1 - A carreira de enfermagem desenvolve-se por cinco graus, a que correspondem as seguintes categorias:\n\na) Ao grau 1, a categoria de enfermeiro, que integra três escalões;\n\nb) Ao grau 2, as categorias de enfermeiro graduado e de enfermeiro-monitor, que integram dois escalões;\n\nc) Ao grau 3, as categorias de enfermeiro especialista, de enfermeiro-chefe e de enfermeiro-assistente, que integram dois escalões;\n\nd) Ao grau 4, as categorias de enfermeiro-supervisor e de enfermeiro-professor, que integram dois escalões;\n\ne) Ao grau 5, a categoria de técnico de enfermagem, que integra um escalão.\n\n2 - Às categorias indicadas no número anterior correspondem as remuneração constantes da tabela anexa ao presente diploma."
+  },
+  "162538551": {
+   "fragment_id": "162529574",
+   "type": 11,
+   "heading": "Artigo 2.º — Progressão na carreira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Progressão na carreira\n\n1 - A mudança de escalão em cada categoria verificar-se-á após a permanência de cinco anos no escalão anterior e classificação de serviço não inferior a Bom.\n\n2 - A mudança de escalão faz-se a requerimento do interessado, uma vez preenchidas as condições para tal, e produz efeitos no dia em que perfizer o módulo de cinco anos, dispensando-se quaisquer formalidades legais, à excepção do despacho de autorização da entidade competente, com aplicação do n.º 18 do artigo 10.º do Decreto-Lei n.º 178/85, de 23 de Maio.\n\n3 - No acesso a qualquer das categorias da carreira é mantida a letra de vencimento já detida pelo enfermeiro.\n\n4 - Para efeitos de mudança de escalão na categoria a que o enfermeiro ascendeu será contado o conjunto de tempo de serviço durante o qual foi remunerado pela letra de vencimento atribuída ao escalão onde se encontrava posicionado na categoria anterior e do tempo detido no escalão e categoria para a qual foi nomeado na sequência do respectivo concurso de acesso."
+  },
+  "162538552": {
+   "fragment_id": "162539275",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisições\n\n1 - As requisições referidas no n.º 11 do artigo 12.º do Decreto-Lei n.º 178/85, de 23 de Maio, poderão fazer-se por períodos até um ano, prorrogáveis até ao máximo de três.\n\n2 - A requisição considera-se automaticamente renovada se até 30 dias antes do seu termo o requisitante ou o requisitado não tiverem manifestado expressamente a intenção de a fazer cessar."
+  },
+  "162538553": {
+   "fragment_id": "162539276",
+   "type": 11,
+   "heading": "Artigo 4.º — Transição para os escalões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transição para os escalões\n\n1 - A integração dos enfermeiros nos diversos escalões far-se-á de acordo com módulos de cinco anos de exercício efectivo na categoria detida na actual carreira.\n\n2 - Os enfermeiros integrados em categorias insertas nos graus 1 e 2 que à data da entrada em vigor deste diploma possuam cinco anos de exercício efectivo no escalão em que se encontram posicionados transitarão para o escalão seguinte.\n\n3 - A integração nos escalões previstos neste diploma dos enfermeiros aos quais ainda não tenham sido aplicadas as regras de transição estabelecidas pelo Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelos Decretos-Leis n.os 324/83, de 6 de Julho, e 178/85, de 23 de Maio, far-se-á apenas após haverem sido aplicadas aquelas regras de transição.\n\n4 - A contagem de tempo de serviço previsto na alínea d) do n.º 2 e no n.º 4 do artigo 16.º do Decreto-Lei n.º 178/85, de 23 de Maio, só é aplicável aos enfermeiros que não foram ainda integrados na carreira instituída pelo Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelos Decretos-Leis n.os 324/83, de 6 de Julho, e 178/85, de 23 de Maio.\n\n5 - Os enfermeiros que à data da entrada em vigor deste diploma se encontrem providos em categoria à qual tenham ascendido de acordo com as regras de progressão na carreira estabelecidas no artigo 10.º do Decreto-Lei n.º 305/81, de 12 de Novembro, ou do Decreto-Lei n.º 178/85, de 23 de Maio, não poderão ser posicionados em escalão a que corresponda letra de vencimento inferior à de que beneficiariam se lhes fosse aplicada a regra de transição referente à categoria anterior.\n\n6 - Os enfermeiros que à data da entrada em vigor do presente diploma se encontrem concursados para o grau imediatamente superior não poderão ser colocados em escalão inferior àquele de que beneficiariam se já tivessem sido providos, independentemente do seu lugar na lista de graduação e ordenação.\n\n7 - Ao disposto nos n.os 5 e 6 deste artigo aplica-se o princípio consignado no n.º 3 do artigo 2.º do presente diploma."
+  },
+  "162538554": {
+   "fragment_id": "162539277",
+   "type": 11,
+   "heading": "Artigo 5.º — Contagem de tempo de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Contagem de tempo de serviço\n\n1 - O tempo de serviço prestado ao abrigo do artigo 6.º do Decreto-Lei n.º 135/80, de 20 de Maio, dos n.os 1 e 3 do artigo 3.º e do artigo 4.º do Decreto-Lei n.º 166/82, de 10 de Maio, do n.º 2 do artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com a redacção dada pelo Decreto-Lei n.º 299/85, de 29 de Julho, e do artigo 3.º do Decreto-Lei n.º 280/85, de 22 de Julho, será contado aos enfermeiros para todos os efeitos legais quando se tenha verificado ou vier a verificar a nomeação em categoria da carreira de enfermagem reestruturada pelo presente diploma.\n\n2 - Para efeitos de aposentação deverão os enfermeiros proceder aos descontos relativos ao tempo de serviço prestado ao abrigo das disposições legais referidas no número anterior.\n\n3 - As correcções decorrentes do presente artigo quanto aos enfermeiros que já tenham sido integrados na carreira far-se-ão sem observância de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas."
+  },
+  "162538555": {
+   "fragment_id": "162539278",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Disposições finais\n\n1 - O presente diploma produz efeitos desde 1 de Janeiro de 1987.\n\n2 - Os estabelecimentos e serviços onde é aplicável a actual carreira de enfermagem devem actualizar os seus quadros ou mapas de pessoal no prazo de 60 dias a contar da data da entrada em vigor deste diploma.\n\n3 - Da aplicação deste diploma não deverá resultar qualquer alteração do número de lugares existentes nos quadros ou mapas de pessoal nas diversas categorias da carreira.\n\n4 - As remunerações fixadas na tabela anexa reportar-se-ão à data da produção de efeitos do presente diploma.\n\n5 - Os efeitos da habilitação com o curso de promoção profissional regulamentado pela Portaria n.º 107/75, de 17 de Fevereiro, previstos na alínea d) do n.º 2 do artigo 16.º do Decreto-Lei n.º 178/85, de 23 de Maio, incluem a remuneração correspondente à categoria para que o mesmo habilita desde a data da sua conclusão."
+  },
+  "162538556": {
+   "fragment_id": "162539279",
+   "type": 11,
+   "heading": "Artigo 7.º — Revogações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Revogações\n\nSão revogadas as seguintes disposições do Decreto-Lei n.º 178/85, de 23 de Maio:\n\na) Artigo 2.º;\n\nb) N.os 1, 3, 4, 5 e 19 do artigo 10.º;\n\nc) N.º 11 do artigo 12.º;\n\nd) N.os 2 e 4 do artigo 16.º, à excepção do que respeita aos efeitos previstos nos n.os 3 e 4 do artigo 4.º do presente diploma;\n\ne) Tabela anexa."
+  },
+  "162538549": {
+   "fragment_id": "162529572",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 134/87\n\nde 17 de Março\n\nO Decreto-Lei n.º 178/85, de 23 de Maio, introduziu algumas alterações pontuais ao Decreto-Lei n.º 305/81, de 12 de Novembro, sem, contudo, ter sido revista a respectiva tabela de vencimentos.\n\nTem-se verificado ao longo dos anos que a carreira de enfermagem se vem mostrando pouco aliciante, quer face às tarefas e responsabilidades que são cometidas aos seus profissionais, quer face às acrescidas exigências dos níveis habitacionais e de formação permanente que a Administração coloca.\n\nDaí que esteja criada uma situação de grave carência destes profissionais. Carência que importa tentar minorar, procurando simultaneamente que a carreira de enfermagem se não distancie dos índices de melhoria introduzidos nas restantes carreiras.\n\nEssa a principal razão de ser do presente diploma, cuja aprovação se entendeu não poder ser protelada.\n\nTendo ainda em consideração a necessidade que se tem verificado nos últimos anos de se recorrer à contratação de elevado número de enfermeiros em regime de tarefa para suprir as carências inadiáveis de pessoal de enfermagem nos estabelecimentos de saúde, as mais das vezes em virtude da não aplicação pela Administração de adequados critérios de gestão de recursos humanos - e atente-se em que a simples integração de todos os «tarefeiros» em lugares de quadro não preencheria todas as vagas existentes nos quadros, - parece da maior razoabilidade criar medidas que, de alguma forma, minimizem os prejuízos que decorrem da aplicação desse regime a estes profissionais.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162538574": {
+   "fragment_id": "162529574",
+   "type": 11,
+   "heading": "Artigo 2.º — Progressão na carreira",
+   "in_force_from": "1990-01-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/90 - Diário da República n.º 20/1990, Série I de 1990-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235), em vigor a partir de 1990-01-29"
+   ],
+   "markdown": "###### Artigo 2.º — Progressão na carreira\n\n1 - A mudança de escalão em cada categoria verificar-se-á após a permanência de cinco anos no escalão anterior e classificação de serviço não inferior a Bom.\n\n2 - A mudança de escalão faz-se a requerimento do interessado, uma vez preenchidas as condições para tal, e produz efeitos no dia em que perfizer o módulo de cinco anos, dispensando-se quaisquer formalidades legais, à excepção do despacho de autorização da entidade competente, com aplicação do n.º 18 do artigo 10.º do Decreto-Lei n.º 178/85, de 23 de Maio.\n\n3 - No acesso a qualquer das categorias da carreira é mantida a letra de vencimento já detida pelo enfermeiro.\n\n4 - Para efeitos de mudança de escalão na categoria a que o enfermeiro ascendeu será contado o conjunto de tempo de serviço durante o qual foi remunerado pela letra de vencimento atribuída ao escalão onde se encontrava posicionado na categoria anterior e do tempo detido no escalão e categoria para a qual foi nomeado na sequência do respectivo concurso de acesso.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/90 - Diário da República n.º 20/1990, Série I de 1990-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235), em vigor a partir de 1990-01-29"
+  },
+  "162538557": {
+   "fragment_id": "162539280",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 27 de Fevereiro de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Março de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nTabela a que se refere o n.º 2 do artigo 1.º\n\n(ver documento original)\n\nNota. - Ao cargo do enfermeiro-director cabe o vencimento correspondente à letra C."
+  },
+  "162539661": {
+   "fragment_id": "162529573",
+   "type": 11,
+   "heading": "Artigo 1.º — Graus da carreira",
+   "in_force_from": "1992-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Graus da carreira\n\n1 - A carreira de enfermagem desenvolve-se por cinco graus, a que correspondem as seguintes categorias:\n\na) Ao grau 1, a categoria de enfermeiro, que integra três escalões;\n\nb) Ao grau 2, as categorias de enfermeiro graduado e de enfermeiro-monitor, que integram dois escalões;\n\nc) Ao grau 3, as categorias de enfermeiro especialista, de enfermeiro-chefe e de enfermeiro-assistente, que integram dois escalões;\n\nd) Ao grau 4, as categorias de enfermeiro-supervisor e de enfermeiro-professor, que integram dois escalões;\n\ne) Ao grau 5, a categoria de técnico de enfermagem, que integra um escalão.\n\n2 - Às categorias indicadas no número anterior correspondem as remuneração constantes da tabela anexa ao presente diploma.\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539662": {
+   "fragment_id": "162539275",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisições",
+   "in_force_from": "1992-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Requisições\n\n1 - As requisições referidas no n.º 11 do artigo 12.º do Decreto-Lei n.º 178/85, de 23 de Maio, poderão fazer-se por períodos até um ano, prorrogáveis até ao máximo de três.\n\n2 - A requisição considera-se automaticamente renovada se até 30 dias antes do seu termo o requisitante ou o requisitado não tiverem manifestado expressamente a intenção de a fazer cessar.\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539663": {
+   "fragment_id": "162539276",
+   "type": 11,
+   "heading": "Artigo 4.º — Transição para os escalões",
+   "in_force_from": "1992-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Transição para os escalões\n\n1 - A integração dos enfermeiros nos diversos escalões far-se-á de acordo com módulos de cinco anos de exercício efectivo na categoria detida na actual carreira.\n\n2 - Os enfermeiros integrados em categorias insertas nos graus 1 e 2 que à data da entrada em vigor deste diploma possuam cinco anos de exercício efectivo no escalão em que se encontram posicionados transitarão para o escalão seguinte.\n\n3 - A integração nos escalões previstos neste diploma dos enfermeiros aos quais ainda não tenham sido aplicadas as regras de transição estabelecidas pelo Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelos Decretos-Leis n.os 324/83, de 6 de Julho, e 178/85, de 23 de Maio, far-se-á apenas após haverem sido aplicadas aquelas regras de transição.\n\n4 - A contagem de tempo de serviço previsto na alínea d) do n.º 2 e no n.º 4 do artigo 16.º do Decreto-Lei n.º 178/85, de 23 de Maio, só é aplicável aos enfermeiros que não foram ainda integrados na carreira instituída pelo Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelos Decretos-Leis n.os 324/83, de 6 de Julho, e 178/85, de 23 de Maio.\n\n5 - Os enfermeiros que à data da entrada em vigor deste diploma se encontrem providos em categoria à qual tenham ascendido de acordo com as regras de progressão na carreira estabelecidas no artigo 10.º do Decreto-Lei n.º 305/81, de 12 de Novembro, ou do Decreto-Lei n.º 178/85, de 23 de Maio, não poderão ser posicionados em escalão a que corresponda letra de vencimento inferior à de que beneficiariam se lhes fosse aplicada a regra de transição referente à categoria anterior.\n\n6 - Os enfermeiros que à data da entrada em vigor do presente diploma se encontrem concursados para o grau imediatamente superior não poderão ser colocados em escalão inferior àquele de que beneficiariam se já tivessem sido providos, independentemente do seu lugar na lista de graduação e ordenação.\n\n7 - Ao disposto nos n.os 5 e 6 deste artigo aplica-se o princípio consignado no n.º 3 do artigo 2.º do presente diploma.\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539664": {
+   "fragment_id": "162539278",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposições finais",
+   "in_force_from": "1992-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Disposições finais\n\n1 - O presente diploma produz efeitos desde 1 de Janeiro de 1987.\n\n2 - Os estabelecimentos e serviços onde é aplicável a actual carreira de enfermagem devem actualizar os seus quadros ou mapas de pessoal no prazo de 60 dias a contar da data da entrada em vigor deste diploma.\n\n3 - Da aplicação deste diploma não deverá resultar qualquer alteração do número de lugares existentes nos quadros ou mapas de pessoal nas diversas categorias da carreira.\n\n4 - As remunerações fixadas na tabela anexa reportar-se-ão à data da produção de efeitos do presente diploma.\n\n5 - Os efeitos da habilitação com o curso de promoção profissional regulamentado pela Portaria n.º 107/75, de 17 de Fevereiro, previstos na alínea d) do n.º 2 do artigo 16.º do Decreto-Lei n.º 178/85, de 23 de Maio, incluem a remuneração correspondente à categoria para que o mesmo habilita desde a data da sua conclusão.\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539665": {
+   "fragment_id": "162539279",
+   "type": 11,
+   "heading": "Artigo 7.º — Revogações",
+   "in_force_from": "1992-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Revogações\n\nSão revogadas as seguintes disposições do Decreto-Lei n.º 178/85, de 23 de Maio:\n\na) Artigo 2.º;\n\nb) N.os 1, 3, 4, 5 e 19 do artigo 10.º;\n\nc) N.º 11 do artigo 12.º;\n\nd) N.os 2 e 4 do artigo 16.º, à excepção do que respeita aos efeitos previstos nos n.os 3 e 4 do artigo 4.º do presente diploma;\n\ne) Tabela anexa.\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539667": {
+   "fragment_id": "162529573",
+   "type": 11,
+   "heading": "Artigo 1.º — Graus da carreira",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Graus da carreira\n\n1 - A carreira de enfermagem desenvolve-se por cinco graus, a que correspondem as seguintes categorias:\n\na) Ao grau 1, a categoria de enfermeiro, que integra três escalões;\n\nb) Ao grau 2, as categorias de enfermeiro graduado e de enfermeiro-monitor, que integram dois escalões;\n\nc) Ao grau 3, as categorias de enfermeiro especialista, de enfermeiro-chefe e de enfermeiro-assistente, que integram dois escalões;\n\nd) Ao grau 4, as categorias de enfermeiro-supervisor e de enfermeiro-professor, que integram dois escalões;\n\ne) Ao grau 5, a categoria de técnico de enfermagem, que integra um escalão.\n\n2 - Às categorias indicadas no número anterior correspondem as remuneração constantes da tabela anexa ao presente diploma.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539668": {
+   "fragment_id": "162529574",
+   "type": 11,
+   "heading": "Artigo 2.º — Progressão na carreira",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/90 - Diário da República n.º 20/1990, Série I de 1990-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235), em vigor a partir de 1990-01-29"
+   ],
+   "markdown": "###### Artigo 2.º — Progressão na carreira\n\n1 - A mudança de escalão em cada categoria verificar-se-á após a permanência de cinco anos no escalão anterior e classificação de serviço não inferior a Bom.\n\n2 - A mudança de escalão faz-se a requerimento do interessado, uma vez preenchidas as condições para tal, e produz efeitos no dia em que perfizer o módulo de cinco anos, dispensando-se quaisquer formalidades legais, à excepção do despacho de autorização da entidade competente, com aplicação do n.º 18 do artigo 10.º do Decreto-Lei n.º 178/85, de 23 de Maio.\n\n3 - No acesso a qualquer das categorias da carreira é mantida a letra de vencimento já detida pelo enfermeiro.\n\n4 - Para efeitos de mudança de escalão na categoria a que o enfermeiro ascendeu será contado o conjunto de tempo de serviço durante o qual foi remunerado pela letra de vencimento atribuída ao escalão onde se encontrava posicionado na categoria anterior e do tempo detido no escalão e categoria para a qual foi nomeado na sequência do respectivo concurso de acesso.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 34/90 - Diário da República n.º 20/1990, Série I de 1990-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1990-335235), em vigor a partir de 1990-01-29"
+  },
+  "162539669": {
+   "fragment_id": "162539275",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisições",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Requisições\n\n1 - As requisições referidas no n.º 11 do artigo 12.º do Decreto-Lei n.º 178/85, de 23 de Maio, poderão fazer-se por períodos até um ano, prorrogáveis até ao máximo de três.\n\n2 - A requisição considera-se automaticamente renovada se até 30 dias antes do seu termo o requisitante ou o requisitado não tiverem manifestado expressamente a intenção de a fazer cessar.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539670": {
+   "fragment_id": "162539276",
+   "type": 11,
+   "heading": "Artigo 4.º — Transição para os escalões",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Transição para os escalões\n\n1 - A integração dos enfermeiros nos diversos escalões far-se-á de acordo com módulos de cinco anos de exercício efectivo na categoria detida na actual carreira.\n\n2 - Os enfermeiros integrados em categorias insertas nos graus 1 e 2 que à data da entrada em vigor deste diploma possuam cinco anos de exercício efectivo no escalão em que se encontram posicionados transitarão para o escalão seguinte.\n\n3 - A integração nos escalões previstos neste diploma dos enfermeiros aos quais ainda não tenham sido aplicadas as regras de transição estabelecidas pelo Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelos Decretos-Leis n.os 324/83, de 6 de Julho, e 178/85, de 23 de Maio, far-se-á apenas após haverem sido aplicadas aquelas regras de transição.\n\n4 - A contagem de tempo de serviço previsto na alínea d) do n.º 2 e no n.º 4 do artigo 16.º do Decreto-Lei n.º 178/85, de 23 de Maio, só é aplicável aos enfermeiros que não foram ainda integrados na carreira instituída pelo Decreto-Lei n.º 305/81, de 12 de Novembro, com a redacção dada pelos Decretos-Leis n.os 324/83, de 6 de Julho, e 178/85, de 23 de Maio.\n\n5 - Os enfermeiros que à data da entrada em vigor deste diploma se encontrem providos em categoria à qual tenham ascendido de acordo com as regras de progressão na carreira estabelecidas no artigo 10.º do Decreto-Lei n.º 305/81, de 12 de Novembro, ou do Decreto-Lei n.º 178/85, de 23 de Maio, não poderão ser posicionados em escalão a que corresponda letra de vencimento inferior à de que beneficiariam se lhes fosse aplicada a regra de transição referente à categoria anterior.\n\n6 - Os enfermeiros que à data da entrada em vigor do presente diploma se encontrem concursados para o grau imediatamente superior não poderão ser colocados em escalão inferior àquele de que beneficiariam se já tivessem sido providos, independentemente do seu lugar na lista de graduação e ordenação.\n\n7 - Ao disposto nos n.os 5 e 6 deste artigo aplica-se o princípio consignado no n.º 3 do artigo 2.º do presente diploma.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539671": {
+   "fragment_id": "162539277",
+   "type": 11,
+   "heading": "Artigo 5.º — Contagem de tempo de serviço",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 5.º — Contagem de tempo de serviço\n\n1 - O tempo de serviço prestado ao abrigo do artigo 6.º do Decreto-Lei n.º 135/80, de 20 de Maio, dos n.os 1 e 3 do artigo 3.º e do artigo 4.º do Decreto-Lei n.º 166/82, de 10 de Maio, do n.º 2 do artigo 17.º do Decreto-Lei n.º 41/84, de 3 de Fevereiro, com a redacção dada pelo Decreto-Lei n.º 299/85, de 29 de Julho, e do artigo 3.º do Decreto-Lei n.º 280/85, de 22 de Julho, será contado aos enfermeiros para todos os efeitos legais quando se tenha verificado ou vier a verificar a nomeação em categoria da carreira de enfermagem reestruturada pelo presente diploma.\n\n2 - Para efeitos de aposentação deverão os enfermeiros proceder aos descontos relativos ao tempo de serviço prestado ao abrigo das disposições legais referidas no número anterior.\n\n3 - As correcções decorrentes do presente artigo quanto aos enfermeiros que já tenham sido integrados na carreira far-se-ão sem observância de quaisquer formalidades, salvo a anotação das novas situações pelo Tribunal de Contas.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162539672": {
+   "fragment_id": "162539278",
+   "type": 11,
+   "heading": "Artigo 6.º — Disposições finais",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Disposições finais\n\n1 - O presente diploma produz efeitos desde 1 de Janeiro de 1987.\n\n2 - Os estabelecimentos e serviços onde é aplicável a actual carreira de enfermagem devem actualizar os seus quadros ou mapas de pessoal no prazo de 60 dias a contar da data da entrada em vigor deste diploma.\n\n3 - Da aplicação deste diploma não deverá resultar qualquer alteração do número de lugares existentes nos quadros ou mapas de pessoal nas diversas categorias da carreira.\n\n4 - As remunerações fixadas na tabela anexa reportar-se-ão à data da produção de efeitos do presente diploma.\n\n5 - Os efeitos da habilitação com o curso de promoção profissional regulamentado pela Portaria n.º 107/75, de 17 de Fevereiro, previstos na alínea d) do n.º 2 do artigo 16.º do Decreto-Lei n.º 178/85, de 23 de Maio, incluem a remuneração correspondente à categoria para que o mesmo habilita desde a data da sua conclusão.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539673": {
+   "fragment_id": "162539279",
+   "type": 11,
+   "heading": "Artigo 7.º — Revogações",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Revogações\n\nSão revogadas as seguintes disposições do Decreto-Lei n.º 178/85, de 23 de Maio:\n\na) Artigo 2.º;\n\nb) N.os 1, 3, 4, 5 e 19 do artigo 10.º;\n\nc) N.º 11 do artigo 12.º;\n\nd) N.os 2 e 4 do artigo 16.º, à excepção do que respeita aos efeitos previstos nos n.os 3 e 4 do artigo 4.º do presente diploma;\n\ne) Tabela anexa.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 64.º do/a [Decreto-Lei n.º 437/91 - Diário da República n.º 257/1991, Série I-A de 1991-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/437-1991-331852), em vigor a partir de 1992-01-01"
+  },
+  "162539674": {
+   "fragment_id": "162539280",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Janeiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 27 de Fevereiro de 1987.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 4 de Março de 1987.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\nTabela a que se refere o n.º 2 do artigo 1.º\n\n(ver documento original)\n\nNota. - Ao cargo do enfermeiro-director cabe o vencimento correspondente à letra C.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

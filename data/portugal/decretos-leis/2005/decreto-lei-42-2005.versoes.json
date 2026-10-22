@@ -1,0 +1,712 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:606304:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-182019766",
+ "dre_path": "/dr/detalhe/decreto-lei/42-2005-606304",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2005-02-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182018090",
+    "182018091",
+    "182018092",
+    "182018093",
+    "182018094",
+    "182018095",
+    "182018096",
+    "182018097",
+    "182018098",
+    "182018099",
+    "182018100",
+    "182018101",
+    "182018102",
+    "182018103",
+    "182018104",
+    "182018105",
+    "182018106",
+    "182018107",
+    "182018108",
+    "182018109",
+    "182018110",
+    "182018111",
+    "182018112",
+    "182018113",
+    "182018114",
+    "182018115",
+    "182018116",
+    "182018117",
+    "182018118",
+    "182018119",
+    "182018120",
+    "182018121",
+    "182018122",
+    "182018123",
+    "182018124",
+    "182018125",
+    "182018126",
+    "182018127",
+    "182018128",
+    "182018129",
+    "182018130",
+    "182018131",
+    "182018132",
+    "182018133",
+    "182018134",
+    "182018135",
+    "182018136",
+    "182018137",
+    "182018138",
+    "182018139",
+    "182018140",
+    "182018141",
+    "182018142",
+    "182018143",
+    "182018144",
+    "182018145"
+   ]
+  },
+  {
+   "date": "2008-06-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:456200:por",
+     "title": "Decreto-Lei n.º 107/2008",
+     "published": "2008-06-25",
+     "dre_path": "/dr/detalhe/decreto-lei/107-2008-456200"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "182018090",
+    "182018091",
+    "182018092",
+    "182018093",
+    "182018094",
+    "182018095",
+    "182018096",
+    "182018097",
+    "182018150",
+    "182018099",
+    "182018100",
+    "182018101",
+    "182018102",
+    "182018103",
+    "182018104",
+    "182018105",
+    "182018106",
+    "182018107",
+    "182018108",
+    "182018109",
+    "182018110",
+    "182018111",
+    "182018112",
+    "182018113",
+    "182018114",
+    "182018115",
+    "182018116",
+    "182018117",
+    "182018118",
+    "182018119",
+    "182018120",
+    "182018121",
+    "182018122",
+    "182018123",
+    "182018124",
+    "182018125",
+    "182018126",
+    "182018127",
+    "182018128",
+    "182018129",
+    "182018130",
+    "182018131",
+    "182018132",
+    "182018133",
+    "182018134",
+    "182018135",
+    "182018136",
+    "182018137",
+    "182018138",
+    "182018139",
+    "182018140",
+    "182018141",
+    "182018142",
+    "182018143",
+    "182018144",
+    "182018145",
+    "182018146"
+   ]
+  },
+  {
+   "date": "2026-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993270096:por",
+     "title": "Lei n.º 73-A/2025",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/lei/73-a-2025-993270096"
+    }
+   ],
+   "changes": [
+    "Adita Secção IV",
+    "Adita Artigo 37.º-A"
+   ],
+   "fragments": [
+    "182018090",
+    "182018091",
+    "182018092",
+    "182018093",
+    "182018094",
+    "182018095",
+    "182018096",
+    "182018097",
+    "182018150",
+    "182018099",
+    "182018100",
+    "182018101",
+    "182018102",
+    "182018103",
+    "182018104",
+    "182018105",
+    "182018106",
+    "182018107",
+    "182018108",
+    "182018109",
+    "182018110",
+    "182018111",
+    "182018112",
+    "182018113",
+    "182018114",
+    "182018115",
+    "182018116",
+    "182018117",
+    "182018118",
+    "182018119",
+    "182018120",
+    "182018121",
+    "182018122",
+    "182018123",
+    "182018124",
+    "182018125",
+    "182018126",
+    "182018127",
+    "182018128",
+    "182018129",
+    "182018130",
+    "182018131",
+    "182018132",
+    "182018133",
+    "182018134",
+    "182018135",
+    "182018136",
+    "1004362902",
+    "1004362906",
+    "182018137",
+    "182018138",
+    "182018139",
+    "182018140",
+    "182018141",
+    "182018142",
+    "182018143",
+    "182018144",
+    "182018145",
+    "182018146"
+   ]
+  }
+ ],
+ "fragments": {
+  "182018090": {
+   "fragment_id": "182019767",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 42/2005\n\nde 22 de Fevereiro\n\nA 19 de Junho de 1999, os ministros da educação de 29 Estados europeus, entre os quais o Estado Português, subscreveram a Declaração de Bolonha, acordo que contém como objectivo central o estabelecimento, até 2010, do espaço europeu de ensino superior, coerente, compatível, competitivo e atractivo para estudantes europeus e de países terceiros, espaço que promova a coesão europeia através do conhecimento, da mobilidade e da empregabilidade dos seus diplomados.\n\nConsolidado sucessivamente em reuniões dos ministros da educação consagradas à realização do espaço europeu de ensino superior, primeiro em 2001 em Praga, depois em 2003 em Berlim, o Processo de Bolonha representa um vector determinante para o cumprimento da Estratégia de Lisboa para 2010, aprovada em Março de 2000 pelos presidentes e chefes de governo dos países da União Europeia, que visa tornar a Europa, até 2010, o espaço económico mais dinâmico e competitivo do mundo, baseado no conhecimento e capaz de garantir um crescimento económico sustentável, com mais e melhores empregos e com maior coesão social.\n\nNo plano do ensino superior preconiza-se uma importante mudança nos paradigmas de formação, centrando-a na globalidade da actividade e nas competências que os jovens devem adquirir, e projectando-a para várias etapas da vida de adulto, em necessária ligação com a evolução do conhecimento e dos interesses individuais e colectivos.\n\nSão especialmente considerados:\n\ni) O reconhecimento da necessária adaptação do processo de aprendizagem aos conceitos e perspectivas da sociedade moderna e aos meios tecnológicos disponíveis;\n\nii) A percepção da necessidade de tornar o ensino superior mais atractivo e mais próximo dos interesses da sociedade, permitindo aos jovens uma escolha que lhes traga maior satisfação pessoal e maior capacidade competitiva no mercado europeu;\n\niii) A percepção de que o conhecimento é um bem universal, na abertura que se preconiza deste espaço do conhecimento a países terceiros.\n\nSão objectivos fundamentalmente sedimentados na colaboração institucional transnacional e no intercâmbio cultural, sustentado este na mobilidade de estudantes e profissionais.\n\nNo sentido da prossecução dos objectivos identificados, os Estados que aderiram ao Processo de Bolonha comprometeram-se a adoptar um conjunto de acções de reformulação em organização, em métodos e em conteúdos dos seus sistemas do ensino superior.\n\nAssim, em coerência com os compromissos resultantes dos desenvolvimentos do Processo de Bolonha, foi elaborado o presente diploma, que institui os princípios reguladores dos instrumentos para a criação do espaço europeu de ensino superior consubstanciado, designadamente:\n\ni) Na estrutura de três ciclos no ensino superior segundo as orientações basicamente adoptadas por todos os Estados signatários da Declaração de Bolonha;\n\nii) Na instituição de graus académicos intercompreensíveis e comparáveis;\n\niii) Na organização curricular por unidades de crédito acumuláveis e transferíveis no âmbito nacional e internacional;\n\niv) Nos instrumentos de mobilidade estudantil no espaço europeu de ensino superior durante e após a formação.\n\nA criação de um novo sistema de créditos curriculares (ECTS - european credit transfer system), que virá substituir o sistema de créditos consignado no Decreto-Lei n.º 173/80, de 29 de Maio, constitui um dos instrumentos mais relevantes desta política europeia de evolução do paradigma formativo.\n\nNesta nova concepção, o estudante desempenha o papel central, quer na organização das unidades curriculares, cujas horas de contacto assumirão a diversidade de formas e metodologias de ensino mais adequadas, quer na avaliação e creditação, as quais considerarão a globalidade do trabalho de formação do aluno, incluindo as horas de contacto, as horas de projecto, as horas de trabalho de campo, o estudo individual e as actividades relacionadas com avaliação, abrindo-se também a actividades complementares com comprovado valor formativo artístico, sócio-cultural ou desportivo.\n\nPor sua vez, a instituição do suplemento ao diploma, que deve ser emitido na língua original e numa língua de ampla divulgação na União Europeia, facilitará a mobilidade e a empregabilidade com base em informações sólidas e precisas sobre as qualificações, designadamente a natureza, nível, contexto e conteúdo dos estudos realizados pelo seu titular.\n\nDeve ainda realçar-se o alcance e o impacte de outras inovações consagradas pelo presente diploma, tais como a adopção de uma escala europeia de comparabilidade de classificações e, no contexto da mobilidade, o contrato de estudos, o boletim de registo académico e o guia informativo do estabelecimento de ensino.\n\nForam ouvidos o Conselho Consultivo do Ensino Superior, o Conselho de Reitores das Universidades Portuguesas, o Conselho Coordenador dos Institutos Superiores Politécnicos e a Associação Portuguesa do Ensino Superior Privado.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:\n\nPrincípios reguladores de instrumentos para a criação do espaço europeu de ensino superior"
+  },
+  "182018091": {
+   "fragment_id": "182019768",
+   "type": 1,
+   "heading": "Capítulo I — Objecto, âmbito e conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objecto, âmbito e conceitos"
+  },
+  "182018092": {
+   "fragment_id": "182019769",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma aprova os princípios reguladores de instrumentos para a criação do espaço europeu de ensino superior."
+  },
+  "182018093": {
+   "fragment_id": "182019770",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente diploma aplica-se:\n\na) A todos os estabelecimentos de ensino superior, adiante designados genericamente por estabelecimentos de ensino;\n\nb) A todas as formações ministradas por estabelecimentos de ensino superior conducentes à obtenção de um grau de ensino superior, adiante designadas genericamente por cursos.\n\n2 - O presente diploma aplica-se igualmente aos cursos não conferentes de grau ministrados por estabelecimentos de ensino superior, que sejam objecto de avaliação e de certificação."
+  },
+  "182018094": {
+   "fragment_id": "182019771",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nEntende-se por:\n\na) «Unidade curricular» a unidade de ensino com objectivos de formação próprios que é objecto de inscrição administrativa e de avaliação traduzida numa classificação final;\n\nb) «Plano de estudos de um curso» o conjunto organizado de unidades curriculares em que um estudante deve obter aprovação para:\n\ni) A obtenção de um determinado grau académico;\n\nii) A conclusão de um curso não conferente de grau;\n\niii) A reunião de uma parte das condições para obtenção de um determinado grau académico;\n\nc) «Ano curricular», «semestre curricular» e «trimestre curricular» as partes do plano de estudos do curso que, de acordo com o respectivo instrumento legal de aprovação, devam ser realizadas pelo estudante, quando em tempo inteiro e regime presencial, no decurso de um ano, um semestre ou um trimestre lectivo, respectivamente;\n\nd) «Duração normal de um curso» o número de anos, semestres e ou trimestres lectivos em que o curso deve ser realizado pelo estudante, quando a tempo inteiro e em regime presencial;\n\ne) «Horas de contacto» o tempo utilizado em sessões de ensino de natureza colectiva, designadamente em salas de aula, laboratórios ou trabalhos de campo, e em sessões de orientação pessoal de tipo tutorial;\n\nf) «Crédito» a unidade de medida do trabalho do estudante sob todas as suas formas, designadamente, sessões de ensino de natureza colectiva, sessões de orientação pessoal de tipo tutorial, estágios, projectos, trabalhos no terreno, estudo e avaliação;\n\ng) «Créditos de uma unidade curricular» o valor numérico que expressa o trabalho que deve ser efectuado por um estudante para realizar uma unidade curricular;\n\nh) «Créditos de uma área científica» o valor numérico que expressa o trabalho que deve ser efectuado por um estudante numa determinada área científica;\n\ni) «Estrutura curricular de um curso» o conjunto de áreas científicas que integram um curso e o número de créditos que um estudante deve reunir em cada uma delas para:\n\ni) A obtenção de um determinado grau académico;\n\nii) A conclusão de um curso não conferente de grau;\n\niii) A reunião de uma parte das condições para obtenção de um determinado grau académico;\n\nj) «Diploma» o documento emitido na forma legalmente prevista, comprovativo da atribuição de um grau académico emitido pelo estabelecimento de ensino que o confere. São diplomas, para os efeitos deste diploma legal:\n\ni) As cartas de curso;\n\nii) As cartas magistrais;\n\niii) As cartas doutorais;\n\niv) As certidões que comprovem a titularidade de um grau académico;\n\nv) O documento oficial comprovativo da conclusão de um curso não conferente de grau emitido pelo estabelecimento de ensino que o ministra e as respectivas certidões;\n\nl) «Parte de um curso superior» um conjunto de unidades curriculares que integram o plano de estudos de um curso e cuja ministração, a tempo inteiro e em regime presencial, não excede um ano lectivo;\n\nm) «Estudante em mobilidade» o estudante matriculado e inscrito num estabelecimento de ensino superior e curso que realiza parte desse curso noutro estabelecimento de ensino superior;\n\nn) «Estabelecimento de origem» o estabelecimento de ensino, nacional ou estrangeiro, em que se encontra matriculado e inscrito o estudante em mobilidade;\n\no) «Estabelecimento de acolhimento» o estabelecimento de ensino, nacional ou estrangeiro, em que o estudante em mobilidade frequenta parte de um curso superior."
+  },
+  "182018095": {
+   "fragment_id": "182019772",
+   "type": 1,
+   "heading": "Capítulo II — Sistema de créditos curriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Sistema de créditos curriculares"
+  },
+  "182018096": {
+   "fragment_id": "182019773",
+   "type": 11,
+   "heading": "Artigo 4.º — Expressão em créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Expressão em créditos\n\n1 - As estruturas curriculares dos cursos de ensino superior expressam em créditos o trabalho que deve ser efectuado pelo estudante em cada área científica.\n\n2 - Os planos de estudos dos cursos de ensino superior expressam em créditos o trabalho que deve ser efectuado pelo estudante em cada unidade curricular, bem como a área científica em que esta se integra."
+  },
+  "182018097": {
+   "fragment_id": "182019774",
+   "type": 11,
+   "heading": "Artigo 5.º — Número de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Número de créditos\n\nO número de créditos a atribuir por cada unidade curricular é determinado de acordo com os seguintes princípios:\n\na) O trabalho é medido em horas estimadas de trabalho do estudante;\n\nb) O número de horas de trabalho do estudante a considerar inclui todas as formas de trabalho previstas, designadamente as horas de contacto e as horas dedicadas a estágios, projectos, trabalhos no terreno, estudo e avaliação;\n\nc) O trabalho de um ano curricular realizado a tempo inteiro situa-se entre mil e quinhentas e mil seiscentas e oitenta horas e é cumprido num período de 36 a 40 semanas;\n\nd) O número de créditos correspondente ao trabalho de um ano curricular realizado a tempo inteiro é de 60;\n\ne) Para períodos curriculares de duração inferior a um ano, o número de créditos é atribuído na proporção que representem do ano curricular;\n\nf) O número de créditos correspondente ao trabalho de um curso realizado a tempo inteiro é igual ao produto da duração normal do curso em anos curriculares ou fracção por 60;\n\ng) Os créditos conferidos por cada unidade curricular são expressos em múltiplos de meio crédito;\n\nh) A uma unidade curricular integrante do plano de estudos de mais de um curso do mesmo estabelecimento de ensino superior deve ser atribuído o mesmo número de créditos, independentemente do curso."
+  },
+  "182018098": {
+   "fragment_id": "182018375",
+   "type": 11,
+   "heading": "Artigo 6.º — Trabalhos de dissertação e de tese",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Trabalhos de dissertação e de tese\n\nO número de créditos a atribuir aos trabalhos de dissertação e de tese previstos para a obtenção de graus académicos ou de diplomas de cursos não conferentes de grau é fixado tendo em consideração o tempo médio normal estimado como necessário à sua preparação e avaliação, medido em anos lectivos ou fracção, correspondendo um ano lectivo de trabalho a 60 créditos."
+  },
+  "182018099": {
+   "fragment_id": "182018376",
+   "type": 11,
+   "heading": "Artigo 7.º — Cursos ministrados em regime de tempo parcial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Cursos ministrados em regime de tempo parcial\n\n1 - Nos cursos ministrados em regime de tempo parcial, a atribuição de créditos a cada unidade curricular é feita com base na duração normal e na organização do plano de estudos do curso em regime de tempo inteiro.\n\n2 - Consideram-se, designadamente, abrangidos pelo número anterior os cursos ministrados em regime nocturno prolongado."
+  },
+  "182018100": {
+   "fragment_id": "182018377",
+   "type": 11,
+   "heading": "Artigo 8.º — Ensino a distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Ensino a distância\n\n1 - Nos cursos ministrados total ou parcialmente em regime de ensino a distância aplica-se o sistema de créditos curriculares.\n\n2 - Às unidades curriculares oferecidas, em alternativa, em regime presencial e a distância é atribuído o mesmo número de créditos."
+  },
+  "182018101": {
+   "fragment_id": "182018378",
+   "type": 11,
+   "heading": "Artigo 9.º — Casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Casos especiais\n\n1 - O órgão legal e estatutariamente competente do estabelecimento de ensino superior fixa as condições de aplicação do sistema de créditos curriculares aos cursos que não se organizem em anos, semestres ou trimestres lectivos.\n\n2 - Na atribuição dos créditos são aplicados os princípios fixados pelo presente diploma."
+  },
+  "182018102": {
+   "fragment_id": "182018379",
+   "type": 11,
+   "heading": "Artigo 10.º — Cursos não conferentes de grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cursos não conferentes de grau\n\n1 - O órgão legal e estatutariamente competente do estabelecimento de ensino superior fixa as condições de aplicação do sistema de créditos curriculares aos cursos não conferentes de grau por ele ministrados.\n\n2 - Na atribuição dos créditos são aplicados os princípios fixados pelo presente diploma."
+  },
+  "182018103": {
+   "fragment_id": "182018380",
+   "type": 11,
+   "heading": "Artigo 11.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regulamentação\n\nO órgão legal e estatutariamente competente de cada estabelecimento de ensino superior aprova um regulamento de aplicação do sistema de créditos curriculares, o qual inclui, designadamente, os procedimentos e regras a adoptar para a fixação dos créditos a obter em cada área científica e a atribuir por cada unidade curricular."
+  },
+  "182018104": {
+   "fragment_id": "182018381",
+   "type": 11,
+   "heading": "Artigo 12.º — Normas técnicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Normas técnicas\n\nPor despacho do director-geral do Ensino Superior, a publicar na 2.ª série do Diário da República, são fixadas as normas técnicas a que deve obedecer a apresentação das estruturas curriculares e dos planos de estudos dos cursos e a sua publicação."
+  },
+  "182018105": {
+   "fragment_id": "182018382",
+   "type": 11,
+   "heading": "Artigo 13.º — Avaliação, acompanhamento e acreditação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Avaliação, acompanhamento e acreditação\n\nA aplicação do sistema de créditos curriculares é objecto de apreciação no quadro do sistema de avaliação e acompanhamento do ensino superior e de acreditação dos seus estabelecimentos de ensino e cursos."
+  },
+  "182018106": {
+   "fragment_id": "182018383",
+   "type": 1,
+   "heading": "Capítulo III — Avaliação, classificação e qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Avaliação, classificação e qualificação"
+  },
+  "182018107": {
+   "fragment_id": "182018384",
+   "type": 8,
+   "heading": "Secção I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Princípios gerais"
+  },
+  "182018108": {
+   "fragment_id": "182018385",
+   "type": 11,
+   "heading": "Artigo 14.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Avaliação\n\n1 - O grau de cumprimento por parte do aluno dos objectivos de cada unidade curricular em que se encontra inscrito é objecto de avaliação.\n\n2 - A avaliação realiza-se de acordo com as normas aprovadas pelo órgão legal e estatutariamente competente do estabelecimento de ensino."
+  },
+  "182018109": {
+   "fragment_id": "182018386",
+   "type": 11,
+   "heading": "Artigo 15.º — Classificação das unidades curriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Classificação das unidades curriculares\n\n1 - A avaliação final de uma unidade curricular é expressa através de uma classificação na escala numérica inteira de 0 a 20.\n\n2 - Considera-se:\n\na) Aprovado numa unidade curricular o aluno que nela obtenha uma classificação não inferior a 10;\n\nb) Reprovado numa unidade curricular o aluno que nela obtenha uma classificação inferior a 10."
+  },
+  "182018110": {
+   "fragment_id": "182018387",
+   "type": 11,
+   "heading": "Artigo 16.º — Classificação final e qualificação dos graus e cursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Classificação final e qualificação dos graus e cursos\n\n1 - Aos graus académicos e aos cursos não conferentes de grau, é atribuída uma classificação ou qualificação final nos termos estabelecidos pelas normas legais reguladoras do regime jurídico de atribuição de graus e diplomas.\n\n2 - A classificação ou qualificação final é atribuída pelo órgão legal e estatutariamente competente do estabelecimento de ensino.\n\n3 - A classificação final é expressa no intervalo 10-20 da escala numérica inteira de 0 a 20.\n\n4 - A qualificação final é expressa nos termos estabelecidos pelas normas legais a que se refere o n.º 1."
+  },
+  "182018111": {
+   "fragment_id": "182018388",
+   "type": 11,
+   "heading": "Artigo 17.º — Menção qualitativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Menção qualitativa\n\nPor decisão do órgão legal e estatutariamente competente de cada estabelecimento de ensino, às classificações finais pode ser associada uma menção qualitativa com quatro classes:\n\na) 10 a 13 - Suficiente;\n\nb) 14 e 15 - Bom;\n\nc) 16 e 17 - Muito bom;\n\nd) 18 a 20 - Excelente."
+  },
+  "182018112": {
+   "fragment_id": "182018389",
+   "type": 8,
+   "heading": "Secção II — Escala europeia de comparabilidade de classificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Escala europeia de comparabilidade de classificações"
+  },
+  "182018113": {
+   "fragment_id": "182018390",
+   "type": 11,
+   "heading": "Artigo 18.º — Escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Escala\n\nA escala europeia de comparabilidade de classificações para os resultados de aprovado é constituída por cinco classes, identificadas pelas letras A a E."
+  },
+  "182018114": {
+   "fragment_id": "182018391",
+   "type": 11,
+   "heading": "Artigo 19.º — Correspondência entre escalas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Correspondência entre escalas\n\nEntre o intervalo 10-20 da escala numérica inteira de 0 a 20 e a escala europeia de comparabilidade de classificações, adopta-se a seguinte correspondência:\n\na) A: 20 a p, sendo p a classificação que permite abranger, nesta classe, 10% dos alunos;\n\nb) B: p - 1 a q, sendo q a classificação que permite abranger, no conjunto desta classe com a classe anterior, 35% dos alunos;\n\nc) C: q - 1 a r, sendo r a classificação que permite abranger, no conjunto desta classe com as classes anteriores, 65% dos alunos;\n\nd) D: r - 1 a s, sendo s a classificação que permite abranger, no conjunto desta classe com as classes anteriores, 90% dos alunos;\n\ne) E: s - 1 a 10."
+  },
+  "182018115": {
+   "fragment_id": "182018392",
+   "type": 11,
+   "heading": "Artigo 20.º — Princípios de aplicação da correspondência às classificações finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Princípios de aplicação da correspondência às classificações finais\n\n1 - A fixação das classificações finais abrangidas por cada uma das classes da escala europeia de comparabilidade de classificações é feita pelo órgão legal e estatutariamente competente do estabelecimento de ensino no respeito pelos seguintes princípios:\n\na) É estabelecida para cada par estabelecimento/curso;\n\nb) Considera a distribuição das classificações finais no conjunto de, pelo menos, os três anos mais recentes, e num total de, pelo menos, 100 diplomados;\n\nc) Quando uma classificação abranja duas classes, considera-se, em princípio, na primeira delas.\n\n2 - Quando não for possível atingir a dimensão da amostra a que se refere a alínea b) do número anterior, a utilização da escala europeia de comparabilidade de classificações é substituída pela menção do número de ordem da classificação do diploma no ano lectivo em causa e do número de diplomados nesse ano."
+  },
+  "182018116": {
+   "fragment_id": "182018393",
+   "type": 11,
+   "heading": "Artigo 21.º — Aplicação da correspondência às qualificações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Aplicação da correspondência às qualificações\n\nQuando a um grau académico ou a um curso não conferente de grau tiver sido atribuída uma qualificação final, entre esta e a escala europeia de comparabilidade de classificações adopta-se a correspondência que for estabelecida pelas normas legais que determinam a adopção de qualificação final."
+  },
+  "182018117": {
+   "fragment_id": "182018394",
+   "type": 11,
+   "heading": "Artigo 22.º — Princípios de aplicação da correspondência às classificações das unidades curriculares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Princípios de aplicação da correspondência às classificações das unidades curriculares\n\n1 - A fixação das classificações das unidades curriculares abrangidas por cada uma das classes da escala europeia de comparabilidade de classificações é feita pelo órgão legal e estatutariamente competente do estabelecimento de ensino no respeito pelos seguintes princípios:\n\na) É estabelecida para cada unidade curricular;\n\nb) Considera a distribuição das classificações finais dos estudantes aprovados nessa unidade curricular no conjunto de, pelo menos, os três anos mais recentes, e num total de, pelo menos, 100 diplomados:\n\nc) Quando uma classificação abranja duas classes, considera-se, em princípio, na primeira delas.\n\n2 - Quando não for possível atingir a dimensão da amostra a que se refere a alínea b) do número anterior, a utilização da escala europeia de comparabilidade de classificações é substituída pela menção do número de ordem da classificação do estudante no conjunto dos aprovados na disciplina no ano lectivo em causa e o número de aprovados nesse ano."
+  },
+  "182018118": {
+   "fragment_id": "182018395",
+   "type": 1,
+   "heading": "Capítulo IV — Mobilidade durante a formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Mobilidade durante a formação"
+  },
+  "182018119": {
+   "fragment_id": "182018396",
+   "type": 8,
+   "heading": "Secção I — Contrato de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Contrato de estudos"
+  },
+  "182018120": {
+   "fragment_id": "182018397",
+   "type": 11,
+   "heading": "Artigo 23.º — Contrato de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Contrato de estudos\n\nA realização de parte de um curso superior por um estudante em mobilidade está condicionada à prévia celebração de um contrato de estudos."
+  },
+  "182018121": {
+   "fragment_id": "182018398",
+   "type": 11,
+   "heading": "Artigo 24.º — Intervenientes no contrato de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Intervenientes no contrato de estudos\n\nO contrato de estudos é celebrado entre o estabelecimento de ensino de origem, o estabelecimento de ensino de acolhimento e o estudante."
+  },
+  "182018122": {
+   "fragment_id": "182018399",
+   "type": 11,
+   "heading": "Artigo 25.º — Conteúdo do contrato de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Conteúdo do contrato de estudos\n\nO contrato de estudos para os estudantes cujo estabelecimento de origem é um estabelecimento de ensino superior português inclui, obrigatoriamente:\n\na) As unidades curriculares que o estudante irá frequentar no estabelecimento de ensino de acolhimento, a língua em que são ministradas e avaliadas e o número de créditos que atribuem;\n\nb) As unidades curriculares do estabelecimento de ensino de origem cuja aprovação é substituída pela aprovação nas referidas na alínea a) e o número de créditos que atribuem em caso de aprovação;\n\nc) Os critérios que o estabelecimento de origem adoptará na conversão das classificações das unidades curriculares em que o estudante obteve aprovação no estabelecimento de acolhimento;\n\nd) O intervalo de tempo em que decorrerá a frequência do estabelecimento de ensino de acolhimento."
+  },
+  "182018123": {
+   "fragment_id": "182018400",
+   "type": 11,
+   "heading": "Artigo 26.º — Alterações ao contrato de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Alterações ao contrato de estudos\n\nAs alterações ao contrato de estudos revestem obrigatoriamente a forma de aditamentos ao mesmo."
+  },
+  "182018124": {
+   "fragment_id": "182018401",
+   "type": 11,
+   "heading": "Artigo 27.º — Modelo do contrato de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Modelo do contrato de estudos\n\nOs contratos de estudos e as suas alterações:\n\na) São elaborados de acordo com um modelo aprovado por portaria do Ministro da Ciência, Inovação e Ensino Superior;\n\nb) São escritos em português e em inglês ou, em alternativa ao inglês, na língua do estabelecimento de acolhimento se assim for acordado entre os estabelecimentos de ensino."
+  },
+  "182018125": {
+   "fragment_id": "182018402",
+   "type": 11,
+   "heading": "Artigo 28.º — Valor do contrato de estudos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Valor do contrato de estudos\n\n1 - O contrato de estudos subscrito por um estabelecimento de ensino superior português na qualidade de estabelecimento de acolhimento tem o valor de aceitação da inscrição no curso e nas unidades curriculares dele constantes.\n\n2 - O contrato de estudos subscrito por um estabelecimento de ensino superior português na qualidade de estabelecimento de origem tem o valor de decisão de equivalência de unidades curriculares e vincula o estabelecimento à adopção do critério de conversão de classificações dele constante."
+  },
+  "182018126": {
+   "fragment_id": "182018403",
+   "type": 8,
+   "heading": "Secção II — Boletim de registo académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Boletim de registo académico"
+  },
+  "182018127": {
+   "fragment_id": "182018404",
+   "type": 11,
+   "heading": "Artigo 29.º — Boletim de registo académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Boletim de registo académico\n\nAo estudante que realizou ou vai realizar parte de um curso superior como estudante em mobilidade é emitido um boletim de registo académico."
+  },
+  "182018128": {
+   "fragment_id": "182018405",
+   "type": 11,
+   "heading": "Artigo 30.º — Conteúdo do boletim de registo académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conteúdo do boletim de registo académico\n\n1 - O boletim de registo académico indica as unidades curriculares em que o estudante obteve aprovação.\n\n2 - Para cada unidade curricular são, designadamente, indicados:\n\na) A denominação;\n\nb) O número de créditos que atribui;\n\nc) A classificação segundo o sistema de classificação legalmente aplicável;\n\nd) A classificação segundo a escala europeia de comparabilidade de classificações."
+  },
+  "182018129": {
+   "fragment_id": "182018406",
+   "type": 11,
+   "heading": "Artigo 31.º — Modelo do boletim de registo académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Modelo do boletim de registo académico\n\n1 - O boletim de registo académico é elaborado de acordo com um modelo aprovado por portaria do Ministro da Ciência, Inovação e Ensino Superior.\n\n2 - O boletim de registo académico é um documento bilingue, escrito em português e inglês."
+  },
+  "182018130": {
+   "fragment_id": "182018407",
+   "type": 11,
+   "heading": "Artigo 32.º — Emissão do boletim de registo académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Emissão do boletim de registo académico\n\n1 - O boletim de registo académico é emitido, obrigatoriamente:\n\na) Pelo estabelecimento de ensino na qualidade de estabelecimento de origem, para instruir a candidatura do estudante à frequência de parte do curso no estabelecimento de acolhimento;\n\nb) Pelo estabelecimento de ensino na qualidade de estabelecimento de acolhimento, para certificar a aprovação nas unidades curriculares frequentadas com aproveitamento pelo estudante.\n\n2 - Pela emissão do boletim de registo académico não é cobrado qualquer valor."
+  },
+  "182018131": {
+   "fragment_id": "182018408",
+   "type": 11,
+   "heading": "Artigo 33.º — Valor legal do boletim de registo académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Valor legal do boletim de registo académico\n\nO boletim de registo académico emitido pelo estabelecimento de ensino na qualidade de estabelecimento de acolhimento tem o valor legal de certificado dos resultados obtidos."
+  },
+  "182018132": {
+   "fragment_id": "182018409",
+   "type": 8,
+   "heading": "Secção III — Guia informativo do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Guia informativo do estabelecimento de ensino"
+  },
+  "182018133": {
+   "fragment_id": "182018410",
+   "type": 11,
+   "heading": "Artigo 34.º — Guia informativo do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Guia informativo do estabelecimento de ensino\n\nCada estabelecimento de ensino elabora e disponibiliza um guia informativo."
+  },
+  "182018134": {
+   "fragment_id": "182018411",
+   "type": 11,
+   "heading": "Artigo 35.º — Conteúdo do guia informativo do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Conteúdo do guia informativo do estabelecimento de ensino\n\n1 - O guia informativo do estabelecimento de ensino é uma descrição do estabelecimento de ensino e das suas unidades orgânicas, dos graus que confere e dos cursos que ministra, indicando para estes as suas condições de acesso, duração, unidades curriculares e seus conteúdos, cargas horárias, créditos que confere e métodos de ensino e de avaliação de conhecimentos. O guia informativo inclui igualmente informação de natureza geral necessária à integração dos estudantes.\n\n2 - O guia pode ser elaborado para o estabelecimento de ensino ou para as suas unidades orgânicas, separadamente.\n\n3 - O guia é um documento bilingue, escrito em português e inglês."
+  },
+  "182018135": {
+   "fragment_id": "182018412",
+   "type": 11,
+   "heading": "Artigo 36.º — Responsabilidade pela elaboração do guia informativo do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Responsabilidade pela elaboração do guia informativo do estabelecimento de ensino\n\nA responsabilidade pela elaboração do guia informativo do estabelecimento de ensino é do seu órgão legal e estatutariamente competente."
+  },
+  "182018136": {
+   "fragment_id": "182018413",
+   "type": 11,
+   "heading": "Artigo 37.º — Disponibilização do guia informativo do estabelecimento de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Disponibilização do guia informativo do estabelecimento de ensino\n\nO guia informativo do estabelecimento de ensino é disponibilizado através da Internet, sem prejuízo da sua publicação por outras formas."
+  },
+  "182018137": {
+   "fragment_id": "182018414",
+   "type": 1,
+   "heading": "Capítulo V — Mobilidade após a formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Mobilidade após a formação"
+  },
+  "182018138": {
+   "fragment_id": "182018415",
+   "type": 11,
+   "heading": "Artigo 38.º — Suplemento ao diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Suplemento ao diploma\n\nO suplemento ao diploma é um documento complementar do diploma que:\n\na) Descreve o sistema de ensino superior português e o seu enquadramento no sistema educativo à data da obtenção do diploma;\n\nb) Caracteriza a instituição que ministrou o ensino e que conferiu o diploma;\n\nc) Caracteriza a formação realizada (grau, área, requisitos de acesso, duração normal, nível) e o seu objectivo;\n\nd) Fornece informação detalhada sobre a formação realizada e os resultados obtidos."
+  },
+  "182018139": {
+   "fragment_id": "182018416",
+   "type": 11,
+   "heading": "Artigo 39.º — Modelo do suplemento ao diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Modelo do suplemento ao diploma\n\n1 - O suplemento ao diploma é emitido de acordo com modelo aprovado por portaria do Ministro da Ciência, Inovação e Ensino Superior.\n\n2 - A descrição do sistema de ensino superior português e do seu enquadramento no sistema educativo é um texto comum, igualmente aprovado pela portaria a que se refere o número anterior.\n\n3 - O suplemento ao diploma é um documento bilingue, escrito em português e inglês."
+  },
+  "182018140": {
+   "fragment_id": "182018417",
+   "type": 11,
+   "heading": "Artigo 40.º — Emissão do suplemento ao diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Emissão do suplemento ao diploma\n\n1 - O suplemento ao diploma é emitido obrigatoriamente sempre que é emitido um diploma e só neste caso.\n\n2 - Pela emissão do suplemento ao diploma não pode ser cobrado qualquer valor."
+  },
+  "182018141": {
+   "fragment_id": "182018418",
+   "type": 11,
+   "heading": "Artigo 41.º — Competência para a emissão do suplemento ao diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Competência para a emissão do suplemento ao diploma\n\nO suplemento ao diploma é emitido pela entidade competente para a emissão do diploma."
+  },
+  "182018142": {
+   "fragment_id": "182018419",
+   "type": 11,
+   "heading": "Artigo 42.º — Valor legal do suplemento ao diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Valor legal do suplemento ao diploma\n\nO suplemento ao diploma tem natureza informativa, não substitui o diploma nem faz prova da titularidade da habilitação a que se refere."
+  },
+  "182018143": {
+   "fragment_id": "182018420",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições finais e transitórias"
+  },
+  "182018144": {
+   "fragment_id": "182018421",
+   "type": 11,
+   "heading": "Artigo 43.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Prazos\n\n1 - As normas técnicas a que se refere o artigo 12.º são aprovadas no prazo de um mês sobre a entrada em vigor do presente diploma.\n\n2 - O regulamento a que se refere o artigo 11.º é aprovado no prazo de três meses sobre a entrada em vigor do presente diploma.\n\n3 - O disposto no presente diploma aplica-se, com carácter obrigatório:\n\na) Aos cursos cuja criação, registo ou autorização de funcionamento seja solicitada depois de decorridos três meses sobre a sua entrada em vigor;\n\nb) Aos restantes cursos, a partir do ano lectivo da entrada em funcionamento da sua reorganização decorrente do Processo de Bolonha.\n\n4 - O prazo fixado no número anterior pode ser antecipado pelos estabelecimentos de ensino sempre que reúnam as condições para tal em data anterior.\n\n5 - A antecipação pode concretizar-se para a totalidade ou apenas para parte das disposições aprovadas pelo presente diploma."
+  },
+  "182018145": {
+   "fragment_id": "182018422",
+   "type": 11,
+   "heading": "Artigo 44.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Norma revogatória\n\n1 - É revogado o artigo 68.º do Decreto n.º 18717, de 2 de Agosto de 1930 (Estatuto da Instrução Universitária).\n\n2 - É revogado o Decreto-Lei n.º 173/80, de 29 de Maio.\n\n3 - Para os cursos que se encontrem organizados em unidades de crédito nos termos do Decreto-Lei n.º 173/80, de 29 de Maio, o disposto no número anterior entende-se sem prejuízo da aplicação deste decreto-lei até à entrada em funcionamento da reorganização dos cursos a que se refere o n.º 3 do artigo anterior."
+  },
+  "182018150": {
+   "fragment_id": "182018375",
+   "type": 11,
+   "heading": "Artigo 6.º — Trabalhos de dissertação e outros",
+   "in_force_from": "2008-06-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26"
+   ],
+   "markdown": "###### Artigo 6.º — Trabalhos de dissertação e outros\n\nO número de créditos a atribuir à dissertação dos ciclos de estudos conducentes ao grau de mestre, ou a outras formas de concretizar a componente a que se refere a alínea b) do n.º 1 do artigo 20.º do Decreto-Lei n.º 74/2006, de 24 de Março, bem como a outros trabalhos da mesma natureza previstos para a obtenção de diplomas de ciclos de estudos não conferentes de grau, é fixado tendo em consideração o tempo médio normal estimado como necessário à sua preparação e avaliação, medido em anos lectivos ou fracção, correspondendo um ano lectivo de trabalho a 60 créditos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 107/2008 - Diário da República n.º 121/2008, Série I de 2008-06-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2008-456200), em vigor a partir de 2008-06-26"
+  },
+  "182018146": {
+   "fragment_id": "182018423",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Dezembro de 2004. - Pedro Miguel de Santana Lopes - Paulo Sacadura Cabral Portas - Daniel Viegas Sanches - Maria da Graça Martins da Silva Carvalho.\n\nPromulgado em 31 de Janeiro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 7 de Fevereiro de 2005.\n\nO Primeiro-Ministro, Pedro Miguel de Santana Lopes."
+  },
+  "1004362902": {
+   "fragment_id": "1005484272",
+   "type": 8,
+   "heading": "Secção IV — Reconhecimento automático",
+   "in_force_from": "2026-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "#### Secção IV — Reconhecimento automático\n\n> Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01"
+  },
+  "1004362906": {
+   "fragment_id": "1005484271",
+   "type": 11,
+   "heading": "Artigo 37.º-A — Reconhecimento automático de créditos em mobilidade interna",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01"
+   ],
+   "markdown": "###### Artigo 37.º-A — Reconhecimento automático de créditos em mobilidade interna\n\n1 - Os estudantes do ensino superior têm direito ao reconhecimento automático dos créditos ECTS correspondentes a unidades curriculares opcionais realizadas no âmbito de programas de mobilidade interna, desde que as mesmas integrem o contrato de estudos previamente aprovados e que obtenham o devido aproveitamento escolar.\n\n2 - O reconhecimento de créditos referido no número anterior é efetuado sem encargos para o estudante.\n\n> Aditado pelo/a Artigo 249.º do/a [Lei n.º 73-A/2025 - Diário da República n.º 250/2025, Suplemento, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/lei/73-a-2025-993270096), em vigor a partir de 2026-01-01"
+  }
+ }
+}

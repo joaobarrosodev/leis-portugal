@@ -1,0 +1,1873 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:174824638:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2021-174875035",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/34-2021-174824638",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-11-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "174875131",
+    "174875132",
+    "174875133",
+    "174875134",
+    "174875136",
+    "174875137",
+    "174875138",
+    "174875139",
+    "174875140",
+    "174875141",
+    "174875142",
+    "174875143",
+    "174875144",
+    "174875145",
+    "174875146",
+    "174875147",
+    "174875148",
+    "174875149",
+    "174875150",
+    "174875151",
+    "174875152",
+    "174875153",
+    "174875154",
+    "174875155",
+    "174875156",
+    "174875157",
+    "174875158",
+    "174875159",
+    "174875160",
+    "174875161",
+    "174875162",
+    "174875163",
+    "174875164",
+    "174875165",
+    "174875166",
+    "174875167",
+    "174875168",
+    "174875169",
+    "174875170",
+    "174875171",
+    "174875172",
+    "174875173",
+    "174875174",
+    "174875275",
+    "174875276",
+    "174875277",
+    "174875278",
+    "174875279",
+    "174875280",
+    "174875281",
+    "174875282",
+    "174875283",
+    "174875284",
+    "174875285",
+    "174875286",
+    "174875287",
+    "174875288",
+    "174875289",
+    "174875290",
+    "174875291",
+    "174875292",
+    "174875293",
+    "174875294",
+    "174875295",
+    "174875296",
+    "174875297",
+    "174875298",
+    "174875299",
+    "174875300",
+    "174875301",
+    "174875302",
+    "174875303",
+    "174875304",
+    "174875305",
+    "174875306",
+    "174875307",
+    "174875308",
+    "174875309",
+    "174875310",
+    "174875311",
+    "174875312",
+    "174875313",
+    "174875314",
+    "174875315",
+    "174875316",
+    "174875317",
+    "174875318",
+    "174875319",
+    "174875320",
+    "174875321",
+    "174875322",
+    "174875323",
+    "174875324",
+    "174875325",
+    "174875326",
+    "174875327",
+    "174875328",
+    "174875329",
+    "174875330",
+    "174875331",
+    "174875332",
+    "174875333",
+    "174875334",
+    "174875335",
+    "174875336",
+    "174875337",
+    "174875338",
+    "174875339",
+    "174875340",
+    "174875341",
+    "174875342",
+    "174875343",
+    "174875344",
+    "174875345",
+    "174875346",
+    "174875347",
+    "174875348",
+    "174875349",
+    "174875350",
+    "174875351",
+    "174875352",
+    "174875353",
+    "174875354",
+    "174875355",
+    "174875356",
+    "174875357",
+    "174875358",
+    "174875359",
+    "174875360",
+    "174875361",
+    "174875362",
+    "174875363",
+    "174875364",
+    "174875365",
+    "174875366",
+    "174875367",
+    "174875368",
+    "174875369",
+    "174875370",
+    "174875371",
+    "174875372",
+    "174875373",
+    "174875374",
+    "174875475",
+    "174875476",
+    "174875477",
+    "174875478",
+    "174875479",
+    "174875480",
+    "174875481",
+    "174875482",
+    "174875483",
+    "174875484",
+    "174875485",
+    "174875486",
+    "174875487",
+    "174875488",
+    "174875489",
+    "174875490",
+    "174875491",
+    "174875492",
+    "174875493",
+    "174875494",
+    "174875495",
+    "174875496",
+    "174875497",
+    "174875498",
+    "174875499",
+    "174875500",
+    "174875501",
+    "174875502",
+    "174875503",
+    "174875504",
+    "174875505",
+    "174875506",
+    "174875507",
+    "174875508",
+    "174875509",
+    "174875510",
+    "174875511",
+    "174875512",
+    "174875513",
+    "174875514",
+    "174875515",
+    "174875516",
+    "174875517",
+    "174875518",
+    "174875519",
+    "174875520",
+    "174875521",
+    "174875522",
+    "174875523",
+    "174875524",
+    "174875525",
+    "174875526",
+    "174875527",
+    "174875528",
+    "174875529",
+    "174875530",
+    "174875531",
+    "174875532",
+    "174875533",
+    "174875534",
+    "174875535",
+    "174875536"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:176147942:por",
+     "title": "Declaração de Retificação n.º 15/2021/A",
+     "published": "2021-12-20",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/15-2021-176147942",
+     "date": "2021-11-25"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "174875131": {
+   "fragment_id": "174875036",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 34/2021/A\n\nSumário: Primeira alteração ao Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro, que aprova o Regime Jurídico dos Museus da Região Autónoma dos Açores.\n\nPrimeira alteração ao Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro, que aprova o Regime Jurídico dos Museus da Região Autónoma dos Açores\n\nO Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro, aprova o Regime Jurídico dos Museus da Região Autónoma dos Açores e, entre outras matérias, define os princípios da política museológica da Região e estabelece o regime jurídico comum aos museus e coleções da Região.\n\nTendo em conta que, passados estes cinco anos, se apresentam como necessárias alterações ao regime previsto no aludido diploma;\n\nTendo em conta que qualquer tipo de movimentação com caráter permanente de peças e obras de arte desvaloriza as coleções existentes sem garantias de valorização das coleções ou espaços museológicos para onde se transferem;\n\nTendo em consideração que nestes casos em particular existe uma necessidade acrescida de valorização dos pareceres técnicos sobre a conservação e os riscos decorrentes do transporte e movimentação de peças museológicas de elevado interesse regional e local;\n\nAssim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos das alíneas a) e d) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, do n.º 1 do artigo 37.º e dos artigos 41.º e 63.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:"
+  },
+  "174875132": {
+   "fragment_id": "174875037",
+   "type": 11,
+   "heading": "Artigo 1.º — Alteração ao Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Alteração ao Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro\n\n1 - Os artigos 82.º, 152.º, 153.º e 157.º do Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro, passam a ter a seguinte redação:\n\n«Artigo 82.º\n\nCondições de cedência\n\n1 - A cedência de bens culturais incorporados em museus na Região só pode ser efetuada a título temporário e apenas quando estejam garantidas as condições de segurança e de conservação.\n\n2 - A cedência prevista no número anterior deve ser obrigatoriamente precedida de parecer técnico do museu em que o bem está incorporado, o qual, para além da pronúncia sobre as condições de segurança e de conservação no local de destino da peça, deve referir quaisquer outros elementos inerentes à deslocação do bem em causa, concluindo ou pela concordância ou pela não concordância com a cedência.\n\n3 - Nos casos em que a decisão de cedência seja de sentido contrário ao parecer técnico, a mesma deve ser especialmente fundamentada, nomeadamente na demonstração de erro do teor do parecer técnico.\n\n4 - No caso referido no número anterior, é condição de validade da decisão a sua divulgação, conjuntamente com a respetiva fundamentação, bem como o parecer técnico do museu.\n\n5 - (Anterior n.º 2.)\n\n6 - (Anterior n.º 3.)\n\nArtigo 152.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) A violação do disposto no artigo 82.º;\n\ni) ...\n\nArtigo 153.º\n\n[...]\n\n...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) (Revogada.)\n\ng) ...\n\nArtigo 157.º\n\n[...]\n\nOs dados pessoais recolhidos nos termos dos artigos 36.º, 56.º e 57.º estão sujeitos ao regime previsto na Lei n.º 58/2019, de 8 de agosto.»"
+  },
+  "174875133": {
+   "fragment_id": "174875038",
+   "type": 11,
+   "heading": "Artigo 2.º — Republicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Republicação\n\nO Decreto Legislativo Regional n.º 25/2016/A, de 22 de novembro, com as alterações agora introduzidas, é republicado em anexo ao presente diploma, dele fazendo parte integrante."
+  },
+  "174875134": {
+   "fragment_id": "174875039",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte à data da sua publicação."
+  },
+  "174875136": {
+   "fragment_id": "174875041",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo"
+  },
+  "174875137": {
+   "fragment_id": "174875042",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "174875138": {
+   "fragment_id": "174875043",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente diploma aprova o regime jurídico dos museus da Região Autónoma dos Açores.\n\n2 - No âmbito do número anterior, o presente diploma:\n\na) Define princípios da política museológica da Região;\n\nb) Estabelece o regime jurídico comum aos museus e coleções da Região;\n\nc) Promove o rigor científico, técnico e profissional das práticas museológicas;\n\nd) Institui mecanismos de regulação e supervisão da programação, criação e transformação de museus;\n\ne) Estabelece os direitos e deveres das pessoas coletivas públicas e privadas de que dependam museus;\n\nf) Promove a institucionalização de formas de colaboração inovadoras entre instituições públicas e privadas tendo em vista a cooperação científica e técnica e o melhor aproveitamento possível de recursos dos museus;\n\ng) Define os regimes da propriedade pública ou privada de bens culturais incorporados em museus, do direito de preferência e de expropriação;\n\nh) Estabelece as regras de credenciação de museus;\n\ni) Estabelece as regras de certificação de coleções visitáveis;\n\nj) Cria e desenvolve a Rede de Museus e Coleções Visitáveis dos Açores;\n\nk) Promove o apoio planificado às instituições museológicas e às coleções visitáveis dos Açores."
+  },
+  "174875139": {
+   "fragment_id": "174875044",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios da política museológica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios da política museológica\n\n1 - A política museológica da Região Autónoma dos Açores obedece aos seguintes princípios:\n\na) Princípio do primado da pessoa, através da afirmação dos museus como instituições indispensáveis para o seu desenvolvimento integral e a concretização dos seus direitos fundamentais;\n\nb) Princípio da promoção da cidadania responsável, através da valorização da pessoa, para a qual os museus constituem instrumentos indispensáveis no domínio da fruição e criação cultural, estimulando o empenhamento de todos os cidadãos na sua salvaguarda, enriquecimento e divulgação;\n\nc) Princípio de serviço público, através da afirmação dos museus como instituições abertas à sociedade;\n\nd) Princípio da coesão regional, através da difusão do conhecimento sobre os Açores, promovido pelos museus, numa perspetiva de complementaridade temática de afirmação cultural;\n\ne) Princípio da coordenação, através de medidas concertadas no âmbito da criação e qualificação de museus, de forma articulada com outras políticas culturais e com as políticas da educação, da ciência, do ordenamento do território, do ambiente e do turismo;\n\nf) Princípio da transversalidade, através da utilização integrada de recursos, regionais e locais, de forma a corresponder e abranger a diversidade administrativa, geográfica e temática da realidade museológica dos Açores;\n\ng) Princípio da informação, através da recolha e divulgação sistemática de dados sobre os museus e o património cultural, com o fim de permitir em tempo útil a difusão o mais alargada possível e o intercâmbio de conhecimentos, a nível nacional e internacional;\n\nh) Princípio da supervisão, através da identificação e estímulo de processos que configurem boas práticas museológicas, de ações promotoras da qualificação e bom funcionamento dos museus e de medidas impeditivas da destruição, perda ou deterioração dos bens culturais neles incorporados;\n\ni) Princípio de descentralização, através da valorização dos museus municipais e do respetivo papel no acesso à cultura, aumentando e diversificando a frequência e a participação dos públicos e promovendo a correção de assimetrias neste domínio;\n\nj) Princípio da cooperação nacional, através do reconhecimento do dever de colaboração com museus do território nacional e com as instituições do estado com intervenção na área da museologia;\n\nk) Princípio da cooperação internacional, através do reconhecimento do dever de colaboração, especialmente com museus de países da diáspora açoriana e países de língua oficial portuguesa, e do incentivo à cooperação com organismos internacionais com intervenção na área da museologia.\n\n2 - A aplicação dos princípios referidos no número anterior subordina-se e articula-se com o regime jurídico de proteção e valorização do património cultural móvel e imóvel, constante do Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro, e com as bases da política de proteção e valorização do património cultural, aprovadas pela Lei n.º 107/2001, de 8 de setembro."
+  },
+  "174875140": {
+   "fragment_id": "174875045",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceito de museu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceito de museu\n\n1 - O museu é uma instituição de carácter permanente, aberta ao público, com ou sem personalidade jurídica, sem fins lucrativos, dotada de uma estrutura organizacional que lhe permite:\n\na) Garantir um destino unitário a um conjunto de bens culturais e valorizá-los através da investigação, incorporação, inventariação, documentação, conservação, interpretação, exposição e divulgação, com objetivos científicos, educativos e lúdicos;\n\nb) Facultar acesso regular ao público e fomentar a democratização da cultura, a promoção da pessoa e o desenvolvimento da sociedade.\n\n2 - Consideram-se museus as instituições, com diferentes designações, que apresentem as características e cumpram as funções museológicas previstas para o museu no presente diploma, ainda que o respetivo acervo integre espécies vivas, tanto botânicas como zoológicas, testemunhos resultantes da materialização de ideias, representações de realidades existentes ou virtuais, assim como bens de património cultural imóvel, ambiental e paisagístico."
+  },
+  "174875141": {
+   "fragment_id": "174875046",
+   "type": 11,
+   "heading": "Artigo 4.º — Coleções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Coleções\n\n1 - No âmbito do presente diploma, consideram-se coleções os conjuntos de bens naturais ou culturais, independentemente da sua tutela ou propriedade, que constituam importantes testemunhos da diversidade natural e cultural e que, pela sua relevância, deve ser acautelada a sua preservação, investigação e divulgação.\n\n2 - Considera-se coleção visitável o conjunto de bens naturais e culturais, conservados por uma pessoa singular ou por uma pessoa coletiva, pública ou privada, exposto publicamente em instalações especialmente afetas e adequadas a esse fim, mas que não reúna os meios que permitam o pleno desempenho das restantes funções museológicas que o presente diploma estabelece para o museu.\n\n3 - A coleção visitável é objeto de benefícios e de programas de apoio e de qualificação adequados à sua natureza e dimensão através dos organismos próprios da Região Autónoma e dos municípios, desde que disponha de bens culturais inventariados nos termos do disposto no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro.\n\n4 - Os programas referidos no número anterior são estabelecidos quando seja assegurada a possibilidade de investigação, acesso e visita pública regular com horário definido."
+  },
+  "174875142": {
+   "fragment_id": "174875047",
+   "type": 11,
+   "heading": "Artigo 5.º — Criação de museus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Criação de museus\n\nÉ livre a criação de museus por quaisquer entidades públicas ou privadas nos termos estabelecidos pelo presente diploma."
+  },
+  "174875143": {
+   "fragment_id": "174875048",
+   "type": 11,
+   "heading": "Artigo 6.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Âmbito de aplicação\n\n1 - O presente diploma é aplicável aos museus independentemente da respetiva propriedade ser pública ou privada.\n\n2 - O presente diploma não se aplica às bibliotecas, arquivos e centros de documentação.\n\n3 - A credenciação não modifica a dependência nem os direitos e deveres da pessoa coletiva em que se integra o museu ou a coleção visitável."
+  },
+  "174875144": {
+   "fragment_id": "174875049",
+   "type": 1,
+   "heading": "Capítulo II — Regime geral dos museus dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regime geral dos museus dos Açores"
+  },
+  "174875145": {
+   "fragment_id": "174875050",
+   "type": 8,
+   "heading": "Secção I — Funções museológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Funções museológicas"
+  },
+  "174875146": {
+   "fragment_id": "174875051",
+   "type": 11,
+   "heading": "Artigo 7.º — Funções do museu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Funções do museu\n\nO museu prossegue as seguintes funções:\n\na) Estudo e investigação;\n\nb) Incorporação;\n\nc) Inventariação e documentação;\n\nd) Conservação;\n\ne) Segurança;\n\nf) Interpretação e exposição;\n\ng) Educação."
+  },
+  "174875147": {
+   "fragment_id": "174875052",
+   "type": 8,
+   "heading": "Secção II — Estudo e investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estudo e investigação"
+  },
+  "174875148": {
+   "fragment_id": "174875053",
+   "type": 11,
+   "heading": "Artigo 8.º — Estudo e investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Estudo e investigação\n\nO estudo e a investigação fundamentam as ações desenvolvidas no âmbito das restantes funções do museu, designadamente para estabelecer a política de incorporações, identificar e caracterizar os bens culturais incorporados ou incorporáveis e para fins de documentação, de conservação, de interpretação e exposição e de educação."
+  },
+  "174875149": {
+   "fragment_id": "174875054",
+   "type": 11,
+   "heading": "Artigo 9.º — Dever de investigar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Dever de investigar\n\n1 - O museu promove e desenvolve atividades científicas, através do estudo e da investigação dos bens culturais nele incorporados ou incorporáveis.\n\n2 - Cada museu efetua o estudo e a investigação do património cultural afim à sua vocação.\n\n3 - A informação divulgada pelo museu, nomeadamente através de exposições, de edições, da ação educativa e das tecnologias de informação, deve ter fundamentação científica."
+  },
+  "174875150": {
+   "fragment_id": "174875055",
+   "type": 11,
+   "heading": "Artigo 10.º — Cooperação científica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cooperação científica\n\nO museu utiliza recursos próprios e estabelece formas de cooperação com outros museus com temáticas afins e com organismos vocacionados para a investigação, designadamente estabelecimentos de investigação e de ensino superior, para o desenvolvimento do estudo e investigação sistemática de bens culturais."
+  },
+  "174875151": {
+   "fragment_id": "174875056",
+   "type": 11,
+   "heading": "Artigo 11.º — Cooperação com o ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cooperação com o ensino\n\nO museu deve facultar aos estabelecimentos de ensino que ministrem cursos nas áreas da museologia, da conservação e restauro de bens culturais e de outras áreas disciplinares relacionadas com a sua vocação, oportunidades de prática profissional, mediante protocolos que estabeleçam a forma de colaboração, as obrigações e prestações mútuas, a repartição de encargos financeiros e os resultados da colaboração."
+  },
+  "174875152": {
+   "fragment_id": "174875057",
+   "type": 8,
+   "heading": "Secção III — Incorporação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Incorporação"
+  },
+  "174875153": {
+   "fragment_id": "174875058",
+   "type": 11,
+   "heading": "Artigo 12.º — Política de incorporações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Política de incorporações\n\n1 - O museu deve formular e aprovar, ou propor para aprovação da entidade de que dependa, uma política de incorporações, definida de acordo com a sua vocação e consubstanciada num programa de atuação que permita imprimir coerência e dar continuidade ao enriquecimento do respetivo acervo de bens culturais.\n\n2 - A política de incorporações deve ser revista e atualizada pelo menos de cinco em cinco anos."
+  },
+  "174875154": {
+   "fragment_id": "174875059",
+   "type": 11,
+   "heading": "Artigo 13.º — Incorporação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Incorporação\n\n1 - A incorporação representa a integração formal de um bem cultural no acervo do museu.\n\n2 - A incorporação compreende as seguintes modalidades:\n\na) Compra;\n\nb) Doação;\n\nc) Legado;\n\nd) Herança;\n\ne) Recolha;\n\nf) Achado;\n\ng) Transferência;\n\nh) Permuta;\n\ni) Afetação permanente;\n\nj) Preferência;\n\nk) Dação em pagamento.\n\n3 - Serão igualmente incorporados os bens culturais que venham a ser expropriados, salvaguardados os limites consagrados no presente diploma.\n\n4 - Os bens culturais depositados no museu não são incorporados."
+  },
+  "174875155": {
+   "fragment_id": "174875060",
+   "type": 11,
+   "heading": "Artigo 14.º — Incorporação de bens arqueológicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Incorporação de bens arqueológicos\n\n1 - A incorporação de bens arqueológicos provenientes de trabalhos arqueológicos e de achados fortuitos é efetuada em museus.\n\n2 - A incorporação referida no número anterior é feita preferencialmente em museus da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875156": {
+   "fragment_id": "174875061",
+   "type": 8,
+   "heading": "Secção IV — Inventariação e documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Inventariação e documentação"
+  },
+  "174875157": {
+   "fragment_id": "174875062",
+   "type": 11,
+   "heading": "Artigo 15.º — Dever de inventariar e de documentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Dever de inventariar e de documentar\n\n1 - Os bens culturais incorporados são obrigatoriamente objeto de elaboração do correspondente inventário museológico.\n\n2 - O museu deve documentar o direito de propriedade dos bens culturais incorporados.\n\n3 - Em circunstâncias excecionais, decorrentes da natureza e características do acervo do museu, a incorporação pode não ser acompanhada da imediata elaboração do inventário museológico de cada bem cultural.\n\n4 - Nos casos previstos nos artigos 67.º, 68.º e 71.º do presente diploma, o inventário museológico será elaborado no prazo máximo de 30 dias após a incorporação."
+  },
+  "174875158": {
+   "fragment_id": "174875063",
+   "type": 11,
+   "heading": "Artigo 16.º — Inventário museológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Inventário museológico\n\n1 - O inventário museológico é a relação exaustiva dos bens culturais que constituem o acervo próprio de cada museu, independentemente da modalidade de incorporação.\n\n2 - O inventário museológico visa a identificação e individualização de cada bem cultural e integra a respetiva documentação de acordo com as normas técnicas mais adequadas à sua natureza e características.\n\n3 - O inventário museológico estrutura-se de forma a assegurar a compatibilização com o inventário geral do património cultural, do inventário de bens particulares e do inventário de bens públicos, previstos no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro."
+  },
+  "174875159": {
+   "fragment_id": "174875064",
+   "type": 11,
+   "heading": "Artigo 17.º — Elementos do inventário museológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Elementos do inventário museológico\n\n1 - O inventário museológico compreende necessariamente um número de registo de inventário e uma ficha de inventário museológico.\n\n2 - O número de registo de inventário e a ficha de inventário museológico devem ser tratados informaticamente, podendo, porém, ter outro suporte enquanto o museu não disponha dos meios necessários à respetiva informatização."
+  },
+  "174875160": {
+   "fragment_id": "174875065",
+   "type": 11,
+   "heading": "Artigo 18.º — Número de inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Número de inventário\n\n1 - A cada bem cultural incorporado no museu é atribuído um número de registo de inventário.\n\n2 - O número de registo de inventário é único e intransmissível.\n\n3 - O número de registo de inventário é constituído por um código de individualização que não pode ser atribuído a qualquer outro bem cultural, mesmo que aquele a que foi inicialmente atribuído tenha sido abatido ao inventário museológico.\n\n4 - O número de registo de inventário é associado de forma permanente ao respetivo bem cultural da forma tecnicamente mais adequada."
+  },
+  "174875161": {
+   "fragment_id": "174875066",
+   "type": 11,
+   "heading": "Artigo 19.º — Ficha de inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Ficha de inventário\n\n1 - O museu elabora uma ficha de inventário museológico de cada bem cultural incorporado, acompanhado da respetiva imagem e de acordo com as regras técnicas adequadas à sua natureza.\n\n2 - A ficha de inventário museológico integra necessariamente os seguintes elementos:\n\na) Número de inventário;\n\nb) Nome da instituição;\n\nc) Denominação ou título;\n\nd) Autoria, quando aplicável;\n\ne) Datação;\n\nf) Material, meio e suporte, quando aplicável;\n\ng) Dimensões;\n\nh) Descrição;\n\ni) Localização;\n\nj) Historial;\n\nk) Modalidade de incorporação;\n\nl) Data de incorporação.\n\n3 - A ficha de inventário pode ser preenchida de forma manual ou informatizada.\n\n4 - O museu dotar-se-á dos equipamentos e das condições necessárias para o preenchimento informatizado das fichas de inventário.\n\n5 - A normalização das fichas de inventário museológico dos diversos tipos de bens culturais será promovida pela direção regional com competência em matéria de cultura, através da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores, definida no âmbito do presente diploma, através da aprovação e divulgação de normas técnicas em consonância com as normas internacionais, designadamente as do Conselho Internacional dos Museus (ICOM)."
+  },
+  "174875162": {
+   "fragment_id": "174875067",
+   "type": 11,
+   "heading": "Artigo 20.º — Informatização do inventário museológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Informatização do inventário museológico\n\n1 - O número de registo de inventário e a ficha de inventário museológico utilizam o mesmo código de individualização.\n\n2 - O inventário museológico informatizado articula-se com outros registos que identificam os bens culturais existentes no museu em outros suportes.\n\n3 - O inventário museológico informatizado é obrigatoriamente objeto de cópias de segurança regulares, a conservar no museu e na entidade de que dependa, de forma a garantir a integridade e a inviolabilidade da informação.\n\n4 - A informação contida no inventário museológico é disponibilizada à direção regional com competência em matéria de cultura.\n\n5 - A informatização do inventário museológico não dispensa a existência do livro de tombo, numerado sequencialmente e rubricado pelo diretor do museu."
+  },
+  "174875163": {
+   "fragment_id": "174875068",
+   "type": 11,
+   "heading": "Artigo 21.º — Contratação da informatização do inventário museológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Contratação da informatização do inventário museológico\n\n1 - As pessoas coletivas públicas de que dependam museus podem contratar total ou parcialmente a realização da informatização do inventário museológico, quando o pessoal afeto ao respetivo museu não tenha a preparação adequada ou seja em número insuficiente.\n\n2 - O contrato estabelece as condições de confidencialidade e segurança dos dados a informatizar, bem como sanções contratuais em caso de incumprimento."
+  },
+  "174875164": {
+   "fragment_id": "174875069",
+   "type": 11,
+   "heading": "Artigo 22.º — Classificação e inventário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Classificação e inventário\n\n1 - A incorporação e a elaboração do inventário museológico são independentes da classificação do bem móvel como tesouro regional ou de interesse público ou como bem de interesse municipal.\n\n2 - A classificação referida no número anterior, quando exista, consta da ficha de inventário museológico.\n\n3 - Os bens móveis incorporados em museus da Rede de Museus e Coleções Visitáveis dos Açores e constantes dos respetivos inventários museológicos consideram-se inventariados para efeitos do disposto no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro, no âmbito do registo regional de bens culturais."
+  },
+  "174875165": {
+   "fragment_id": "174875070",
+   "type": 11,
+   "heading": "Artigo 23.º — Inventário de bens públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Inventário de bens públicos\n\n1 - O número de registo de inventário e a ficha de inventário museológico constituem o instrumento de descrição, identificação e individualização adequados para a elaboração do inventário dos bens públicos previsto no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro.\n\n2 - Compete ao diretor ou dirigente de cada museu da administração regional, da administração local e de outros organismos e serviços públicos assegurar a disponibilidade dos dados referidos no número anterior à direção regional com competência em matéria de cultura."
+  },
+  "174875166": {
+   "fragment_id": "174875071",
+   "type": 11,
+   "heading": "Artigo 24.º — Inventário de bens particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Inventário de bens particulares\n\n1 - O número de registo de inventário e a ficha de inventário museológico dos bens culturais que integram o acervo dos museus privados aderentes à Rede de Museus e Coleções Visitáveis dos Açores constituem o instrumento de descrição, identificação e individualização adequados para a elaboração do inventário de bens de particulares previsto no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro.\n\n2 - O inventário museológico dos bens referidos no número anterior não modifica a sua propriedade ou posse, designadamente dos bens culturais propriedade da Igreja Católica ou de propriedade do Estado com afetação permanente ao serviço da Igreja Católica, de acordo com o estabelecido na Concordata entre a República Portuguesa e a Santa Sé."
+  },
+  "174875167": {
+   "fragment_id": "174875072",
+   "type": 11,
+   "heading": "Artigo 25.º — Documentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Documentação\n\nO inventário museológico deve ser complementado por registos subsequentes que possibilitem aprofundar e disponibilizar informação sobre os bens culturais, bem como acompanhar e historiar o respetivo processamento e a atividade do museu."
+  },
+  "174875168": {
+   "fragment_id": "174875073",
+   "type": 11,
+   "heading": "Artigo 26.º — Classificação como património arquivístico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Classificação como património arquivístico\n\n1 - Os inventários museológicos e outros registos que identificam bens culturais elaborados pelos museus públicos e privados consideram-se património arquivístico de interesse regional.\n\n2 - O inventário museológico e outros registos não informatizados produzidos pelo museu, independentemente da respetiva data e suporte material, devem ser conservados nas respetivas instalações, de forma a evitar a sua destruição, perda ou deterioração.\n\n3 - A desclassificação como arquivo de interesse regional dos inventários e outros registos referidos no n.º 1 do presente artigo reveste a forma de resolução do Governo Regional.\n\n4 - A desclassificação é obrigatoriamente precedida de parecer favorável do Plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores, definida no âmbito do presente diploma.\n\n5 - Em caso de extinção de um museu, os inventários e registos referidos nos números anteriores são conservados na direção regional com competência em matéria de cultura."
+  },
+  "174875169": {
+   "fragment_id": "174875074",
+   "type": 8,
+   "heading": "Secção V — Conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conservação"
+  },
+  "174875170": {
+   "fragment_id": "174875175",
+   "type": 11,
+   "heading": "Artigo 27.º — Dever de conservar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Dever de conservar\n\n1 - O museu conserva todos os bens culturais nele incorporados.\n\n2 - O museu garante as condições adequadas e promove as medidas preventivas necessárias à conservação dos bens culturais nele incorporados."
+  },
+  "174875171": {
+   "fragment_id": "174875176",
+   "type": 11,
+   "heading": "Artigo 28.º — Normas de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Normas de conservação\n\n1 - A conservação dos bens culturais incorporados obedece a normas e procedimentos de conservação preventiva elaborados por cada museu.\n\n2 - As normas referidas no número anterior definem os princípios e as prioridades da conservação preventiva e da avaliação de riscos, bem como estabelecem os respetivos procedimentos, de acordo com normas técnicas emanadas pela direção regional com competência em matéria de cultura."
+  },
+  "174875172": {
+   "fragment_id": "174875177",
+   "type": 11,
+   "heading": "Artigo 29.º — Condições de conservação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Condições de conservação\n\n1 - As condições de conservação abrangem todo o acervo de bens culturais, independentemente da sua localização no museu.\n\n2 - As condições referidas no número anterior devem ser monitorizadas com regularidade no tocante aos níveis de iluminação e teor de ultravioletas e de forma contínua no caso da temperatura e humidade relativa ambiente.\n\n3 - A monitorização dos poluentes deve ser assegurada, com a frequência necessária, por instituição ou laboratório devidamente credenciados.\n\n4 - As instalações do museu devem possibilitar o tratamento diferenciado das condições ambientais em relação à conservação dos vários tipos de bens culturais e, quando tal não seja possível, devem ser dotadas com os equipamentos de correção tecnicamente adequados.\n\n5 - A montagem de climatização centralizada, prevista no Decreto-Lei n.º 118/2013, de 20 de agosto, é adaptada às especiais condições de conservação dos bens culturais."
+  },
+  "174875173": {
+   "fragment_id": "174875178",
+   "type": 11,
+   "heading": "Artigo 30.º — Conservação e reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Conservação e reservas\n\n1 - O museu deve possuir reservas organizadas, de forma a assegurar a gestão das coleções tendo em conta as suas especificidades.\n\n2 - As reservas devem estar instaladas em áreas individualizadas e estruturalmente adequadas, dotadas de equipamento e mobiliário apropriados para garantir a conservação e segurança dos bens culturais."
+  },
+  "174875174": {
+   "fragment_id": "174875179",
+   "type": 11,
+   "heading": "Artigo 31.º — Intervenções de conservação e restauro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Intervenções de conservação e restauro\n\n1 - A conservação e o restauro de bens culturais incorporados ou depositados no museu só podem ser realizados por técnicos de qualificação legalmente reconhecida, quer integrem o pessoal do museu, quer sejam especialmente contratados para o efeito.\n\n2 - No caso de bens culturais classificados ou em vias de classificação, o projeto de conservação ou de restauro carece de autorização prévia da direção regional com competência em matéria de cultura.\n\n3 - É nulo o contrato celebrado para a conservação ou o restauro de bens culturais incorporados ou depositados em museu que viole os requisitos previstos nos números anteriores.\n\n4 - Quando tiverem sido executados trabalhos de conservação ou restauro que impliquem dano irreparável ou destruição de bens culturais incorporados ou depositados em museu, as pessoas a quem se achem vinculados, por contrato de trabalho, de prestação de serviços, ou de empreitada, aqueles que cometerem qualquer das contraordenações previstas no presente diploma são subsidiariamente responsáveis pelo pagamento da importância igual à da coima àqueles aplicável, salvo se provarem ter tomado as providências necessárias para os fazer observar a lei."
+  },
+  "174875275": {
+   "fragment_id": "174875180",
+   "type": 8,
+   "heading": "Secção VI — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Segurança"
+  },
+  "174875276": {
+   "fragment_id": "174875181",
+   "type": 11,
+   "heading": "Artigo 32.º — Condições de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Condições de segurança\n\n1 - O museu deve dispor das condições de segurança indispensáveis para garantir a proteção e a integridade dos bens culturais nele incorporados, bem como dos visitantes, do respetivo pessoal e das instalações.\n\n2 - As condições referidas no número anterior consistem designadamente em meios mecânicos, físicos ou eletrónicos que garantem a prevenção, a proteção física, a vigilância, a deteção e o alarme."
+  },
+  "174875277": {
+   "fragment_id": "174875182",
+   "type": 11,
+   "heading": "Artigo 33.º — Plano de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Plano de segurança\n\nCada museu deve dispor de um plano de segurança periodicamente testado em ordem a garantir a prevenção de perigos e a respetiva neutralização."
+  },
+  "174875278": {
+   "fragment_id": "174875183",
+   "type": 11,
+   "heading": "Artigo 34.º — Restrições à entrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Restrições à entrada\n\n1 - O museu, atendendo às respetivas características, pode estabelecer restrições à entrada por motivos de segurança.\n\n2 - As restrições limitam-se ao estritamente necessário e podem consistir na obrigação de deixar depositados na área de acolhimento do museu objetos que, pela sua natureza, possam prejudicar a segurança ou conservação dos bens culturais e das instalações."
+  },
+  "174875279": {
+   "fragment_id": "174875184",
+   "type": 11,
+   "heading": "Artigo 35.º — Guarda de objetos depositados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Guarda de objetos depositados\n\n1 - A responsabilidade civil do museu pela guarda de objetos de valor elevado implica por parte do visitante a respetiva declaração e identificação.\n\n2 - O museu pode recusar a entrada a visitantes que se façam acompanhar por objetos que pelo seu valor ou natureza não possam ser guardados em segurança nas instalações destinadas a esse fim."
+  },
+  "174875280": {
+   "fragment_id": "174875185",
+   "type": 11,
+   "heading": "Artigo 36.º — Vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Vigilância\n\n1 - O museu dispõe de vigilância presencial, que pode ser reforçada através do registo de imagens dos visitantes.\n\n2 - Quando especiais razões de segurança o aconselhem, as instalações ou parte das mesmas são equipadas com detetores de metais ou aparelhos radiográficos para controlo dos visitantes.\n\n3 - Na área de acolhimento dos visitantes, os referidos meios de vigilância são anunciados de forma visível e inequívoca.\n\n4 - As imagens recolhidas só podem ser acedidas, utilizadas, copiadas, transmitidas ou publicitadas por razões de segurança ou de investigação criminal e junto das entidades legalmente competentes.\n\n5 - O museu elimina periodicamente os registos que contenham as imagens referidas no número anterior de acordo com o estabelecido no respetivo regulamento."
+  },
+  "174875281": {
+   "fragment_id": "174875186",
+   "type": 11,
+   "heading": "Artigo 37.º — Cooperação com as forças de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Cooperação com as forças de segurança\n\n1 - As forças de segurança têm o dever de cooperar com o museu, designadamente através de definição conjunta do plano de segurança e da aprovação dos equipamentos de prevenção e neutralização de perigos.\n\n2 - O museu colabora com as forças de segurança no combate aos crimes contra a propriedade e tráfico ilícito de bens culturais.\n\n3 - O museu deve observar as recomendações das forças de segurança sobre a defesa da integridade dos bens culturais, instalações e equipamentos, bem como dos procedimentos a seguir pelo respetivo pessoal.\n\n4 - As recomendações referidas no número anterior são obrigatórias para os museus dependentes de pessoas coletivas públicas e para os museus da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875282": {
+   "fragment_id": "174875187",
+   "type": 11,
+   "heading": "Artigo 38.º — Confidencialidade do plano e das regras de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Confidencialidade do plano e das regras de segurança\n\n1 - O plano de segurança e as regras de segurança de cada museu têm natureza confidencial.\n\n2 - A violação do dever de sigilo sobre o plano de segurança ou das regras de segurança constitui infração disciplinar grave, independentemente da responsabilidade civil ou criminal pelas consequências da sua divulgação não autorizada.\n\n3 - O regime do artigo anterior aplica-se ao pessoal dos museus e ao pessoal das empresas privadas de segurança contratadas pelo museu.\n\n4 - Os contratos com empresas privadas de segurança devem incluir obrigatoriamente as cláusulas necessárias para garantir a natureza confidencial do plano e das regras de segurança, bem como o dever de sigilo do respetivo pessoal."
+  },
+  "174875283": {
+   "fragment_id": "174875188",
+   "type": 8,
+   "heading": "Secção VII — Interpretação e exposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Interpretação e exposição"
+  },
+  "174875284": {
+   "fragment_id": "174875189",
+   "type": 11,
+   "heading": "Artigo 39.º — Conhecimento dos bens culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Conhecimento dos bens culturais\n\n1 - A interpretação e a exposição constituem as formas de dar a conhecer os bens culturais incorporados ou depositados no museu de forma a propiciar o seu acesso pelo público.\n\n2 - O museu utiliza, sempre que possível, tecnologias de comunicação e informação, designadamente a Internet, na divulgação dos bens culturais e das suas iniciativas."
+  },
+  "174875285": {
+   "fragment_id": "174875190",
+   "type": 11,
+   "heading": "Artigo 40.º — Exposição e divulgação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Exposição e divulgação\n\n1 - O museu apresenta os bens culturais que constituem o respetivo acervo através de um plano de exposições que contemple, designadamente, exposições permanentes, temporárias e itinerantes.\n\n2 - O plano de exposições deve ser baseado nas características das coleções e em programas de investigação.\n\n3 - O museu define e executa um plano de edições, em diferentes suportes, adequado à sua vocação e tipologia e desenvolve programas culturais diversificados.\n\n4 - O museu comunica com os públicos efetivos e potenciais através de ações de promoção dos acervos e das atividades."
+  },
+  "174875286": {
+   "fragment_id": "174875191",
+   "type": 11,
+   "heading": "Artigo 41.º — Reproduções e atividade comercial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Reproduções e atividade comercial\n\n1 - O museu garante a qualidade, a fidelidade e os propósitos científicos e educativos das respetivas publicações e das réplicas de objetos ou de espécimes, bem como da publicidade respetiva.\n\n2 - As réplicas são produzidas e assinaladas como tal para evitar que sejam confundidas com os objetos ou com os espécimes originais.\n\n3 - Sem prejuízo dos direitos de autor, compete ao museu autorizar a reprodução dos bens culturais incorporados nas condições estabelecidas no respetivo regulamento."
+  },
+  "174875287": {
+   "fragment_id": "174875192",
+   "type": 8,
+   "heading": "Secção VIII — Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Educação"
+  },
+  "174875288": {
+   "fragment_id": "174875193",
+   "type": 11,
+   "heading": "Artigo 42.º — Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Educação\n\n1 - O museu desenvolve de forma sistemática programas de mediação cultural e atividades educativas que contribuam para o acesso ao património cultural e às manifestações culturais.\n\n2 - O museu promove a função educativa no respeito pela diversidade cultural tendo em vista a educação permanente, a participação da comunidade, o aumento e a diversificação dos públicos.\n\n3 - Os programas referidos no n.º 1 do presente artigo são articulados com as políticas públicas setoriais respeitantes à família, juventude, apoio às pessoas com deficiência, turismo e combate à exclusão social."
+  },
+  "174875289": {
+   "fragment_id": "174875194",
+   "type": 11,
+   "heading": "Artigo 43.º — Colaboração com o sistema de ensino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Colaboração com o sistema de ensino\n\n1 - O museu estabelece formas regulares de colaboração e de articulação institucional com o sistema de ensino, no quadro das ações de cooperação geral estabelecidas pelas entidades competentes em matéria de educação, ensino e cultura, podendo promover também autonomamente a participação e frequência dos jovens nas suas atividades.\n\n2 - A frequência do público escolar deve ser objeto de cooperação com as escolas em que se definam atividades educativas específicas e se estabeleçam os instrumentos de avaliação da recetividade dos alunos."
+  },
+  "174875290": {
+   "fragment_id": "174875195",
+   "type": 1,
+   "heading": "Capítulo III — Recursos humanos, financeiros e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Recursos humanos, financeiros e instalações"
+  },
+  "174875291": {
+   "fragment_id": "174875196",
+   "type": 8,
+   "heading": "Secção I — Recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Recursos humanos"
+  },
+  "174875292": {
+   "fragment_id": "174875197",
+   "type": 11,
+   "heading": "Artigo 44.º — Direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Direção\n\n1 - O museu deve ter um diretor, que o representa tecnicamente, sem prejuízo dos poderes da entidade pública ou privada de que o museu dependa.\n\n2 - Compete especialmente ao diretor do museu dirigir os serviços, assegurar o cumprimento das funções museológicas, propor e coordenar a execução do plano anual de atividades."
+  },
+  "174875293": {
+   "fragment_id": "174875198",
+   "type": 11,
+   "heading": "Artigo 45.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Pessoal\n\n1 - As entidades de tutela devem criar condições para que os museus disponham de pessoal devidamente habilitado e em número adequado ao cumprimento das funções museológicas.\n\n2 - Os museus com pequena dimensão devem estabelecer acordos com outros museus ou com instituições públicas ou privadas para reforçar o apoio ao exercício das funções museológicas, de acordo com as suas necessidades específicas.\n\n3 - Os museus podem assegurar o cumprimento das funções museológicas e desenvolver atividades, individualmente ou através das redes de museus a que pertençam, nomeadamente mediante a criação de serviços comuns."
+  },
+  "174875294": {
+   "fragment_id": "174875199",
+   "type": 11,
+   "heading": "Artigo 46.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Formação profissional\n\nO museu, de acordo com a sua vocação, tipo e dimensão, deve proporcionar, nos termos da legislação aplicável, formação especializada ao respetivo pessoal."
+  },
+  "174875295": {
+   "fragment_id": "174875200",
+   "type": 11,
+   "heading": "Artigo 47.º — Estruturas associativas e voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Estruturas associativas e voluntariado\n\n1 - O museu estimula a constituição de associações de amigos dos museus, de grupos de interesse especializado, de voluntariado ou de outras formas de colaboração sistemática da comunidade e dos públicos.\n\n2 - O museu, na medida das suas possibilidades, faculta espaços para a instalação de estruturas associativas ou de voluntariado que tenham por fim o contributo para o desempenho das funções do museu.\n\n3 - O museu define e estabelece por escrito os objetivos, os perfis, as funções, as obrigações e os benefícios do trabalho voluntário, de forma a promover o bom relacionamento entre os voluntários e os profissionais, a contribuir para o desenvolvimento de competências pelos voluntários e a melhorar a qualidade dos serviços prestados pelo museu.\n\n4 - Às associações sem fim lucrativo dotadas de personalidade jurídica, constituídas nos termos da lei geral, e em cujos estatutos conste especificamente a defesa e valorização do património cultural de um museu da Rede de Museus e Coleções Visitáveis dos Açores, pode ser atribuído o estatuto de pessoa coletiva de utilidade pública."
+  },
+  "174875296": {
+   "fragment_id": "174875201",
+   "type": 8,
+   "heading": "Secção II — Recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Recursos financeiros"
+  },
+  "174875297": {
+   "fragment_id": "174875202",
+   "type": 11,
+   "heading": "Artigo 48.º — Recursos financeiros e funções museológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Recursos financeiros e funções museológicas\n\n1 - O museu deve dispor de recursos financeiros especialmente consignados, adequados à sua vocação, tipo e dimensão, suficientes para assegurar a respetiva sustentabilidade e o cumprimento das funções museológicas.\n\n2 - A garantia dos recursos financeiros a que se refere o número anterior, bem como da sua afetação, cabem à entidade da qual o museu depende."
+  },
+  "174875298": {
+   "fragment_id": "174875203",
+   "type": 11,
+   "heading": "Artigo 49.º — Angariação de recursos financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Angariação de recursos financeiros\n\n1 - O museu elabora, de acordo com o respetivo programa de atividades, projetos suscetíveis de serem apoiados através do mecenato cultural e outras formas de parceria.\n\n2 - As receitas do museu são parcialmente consignadas às respetivas despesas, em museus com autonomia financeira.\n\n3 - Independentemente da proveniência dos recursos financeiros, o museu deve manter o controlo sobre o conteúdo e a integridade dos seus programas de atividades."
+  },
+  "174875299": {
+   "fragment_id": "174875204",
+   "type": 8,
+   "heading": "Secção III — Instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Instalações"
+  },
+  "174875300": {
+   "fragment_id": "174875205",
+   "type": 11,
+   "heading": "Artigo 50.º — Funções museológicas e instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Funções museológicas e instalações\n\nO museu deve dispor de instalações adequadas ao cumprimento das funções museológicas, designadamente de conservação, de segurança e de exposição, ao acolhimento e circulação dos visitantes, bem como à prestação de trabalho do seu pessoal."
+  },
+  "174875301": {
+   "fragment_id": "174875206",
+   "type": 11,
+   "heading": "Artigo 51.º — Natureza das instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Natureza das instalações\n\n1 - As instalações do museu comportam necessariamente espaços de acolhimento, de exposição, de reservas e de serviços técnicos e administrativos.\n\n2 - O museu deve dispor de espaços adequados ao cumprimento das restantes funções museológicas, designadamente biblioteca ou centro de documentação, áreas para atividades educativas e para oficina de conservação."
+  },
+  "174875302": {
+   "fragment_id": "174875207",
+   "type": 8,
+   "heading": "Secção IV — Estrutura orgânica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Estrutura orgânica"
+  },
+  "174875303": {
+   "fragment_id": "174875208",
+   "type": 11,
+   "heading": "Artigo 52.º — Enquadramento orgânico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Enquadramento orgânico\n\nAs entidades públicas e privadas de que dependam museus sem personalidade jurídica própria devem definir claramente o seu enquadramento orgânico e aprovar o respetivo regulamento."
+  },
+  "174875304": {
+   "fragment_id": "174875209",
+   "type": 11,
+   "heading": "Artigo 53.º — Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Regulamento\n\nO regulamento do museu contempla as seguintes matérias:\n\na) Vocação do museu;\n\nb) Enquadramento orgânico;\n\nc) Funções museológicas;\n\nd) Horário e regime de acesso público;\n\ne) Gestão de recursos humanos e financeiros."
+  },
+  "174875305": {
+   "fragment_id": "174875210",
+   "type": 1,
+   "heading": "Capítulo IV — Acesso público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Acesso público"
+  },
+  "174875306": {
+   "fragment_id": "174875211",
+   "type": 11,
+   "heading": "Artigo 54.º — Regime de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Regime de acesso\n\n1 - O museu garante o acesso e a visita pública regular.\n\n2 - O horário de abertura deve ser regular, suficiente e compatível com a vocação e a localização do museu, bem como com as necessidades das várias categorias de visitantes.\n\n3 - O horário de abertura é estabelecido no regulamento do museu, de acordo com os critérios referidos no número anterior e deve ser amplamente publicitado.\n\n4 - O horário de abertura é obrigatoriamente afixado no exterior do museu."
+  },
+  "174875307": {
+   "fragment_id": "174875212",
+   "type": 11,
+   "heading": "Artigo 55.º — Custo de ingresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Custo de ingresso\n\n1 - A gratuitidade ou onerosidade do ingresso no museu é estabelecida pela entidade de que dependa.\n\n2 - O custo de ingresso no museu é fixado pelo museu ou pela entidade de que dependa.\n\n3 - Devem ser estabelecidos custos de ingresso diferenciados e mais favoráveis em relação, nomeadamente, a jovens, idosos, famílias e estudantes.\n\n4 - Os museus que dependam de pessoas coletivas públicas devem facultar o ingresso gratuito durante tempo a estabelecer pelas respetivas tutelas."
+  },
+  "174875308": {
+   "fragment_id": "174875213",
+   "type": 11,
+   "heading": "Artigo 56.º — Registo de visitantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Registo de visitantes\n\n1 - Devem ser registados os ingressos de visitantes do museu e dos utentes de outros serviços, tais como do centro de documentação, da biblioteca e das reservas.\n\n2 - O sistema de registo dos visitantes e utentes deve proporcionar um conhecimento rigoroso dos públicos do museu.\n\n3 - As estatísticas de visitantes do museu são enviadas à direção regional com competência em matéria de cultura e às entidades com competência em matéria de estatística, de acordo com os procedimentos e nos suportes fixados por estas entidades."
+  },
+  "174875309": {
+   "fragment_id": "174875214",
+   "type": 11,
+   "heading": "Artigo 57.º — Estudos de público e de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Estudos de público e de avaliação\n\nO museu deve realizar periodicamente estudos de público e de avaliação em ordem a melhorar a qualidade do seu funcionamento e atender às necessidades dos visitantes."
+  },
+  "174875310": {
+   "fragment_id": "174875215",
+   "type": 11,
+   "heading": "Artigo 58.º — Apoio aos visitantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Apoio aos visitantes\n\nO museu deve prestar aos visitantes informações que contribuam para proporcionar a qualidade da visita e o cumprimento da função educativa."
+  },
+  "174875311": {
+   "fragment_id": "174875216",
+   "type": 11,
+   "heading": "Artigo 59.º — Apoio a pessoas com deficiência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Apoio a pessoas com deficiência\n\n1 - Os visitantes com necessidades especiais, nomeadamente pessoas com deficiência, têm direito a um apoio específico.\n\n2 - O museu publicita o apoio referido no número anterior e promove condições de igualdade na fruição cultural."
+  },
+  "174875312": {
+   "fragment_id": "174875217",
+   "type": 11,
+   "heading": "Artigo 60.º — Acesso às reservas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Acesso às reservas\n\n1 - O acesso aos bens culturais guardados nas reservas e à documentação que lhe está associada constitui um princípio orientador do funcionamento do museu, especialmente nos casos relacionados com trabalhos de investigação.\n\n2 - O acesso não é permitido, designadamente quando as condições de conservação dos bens culturais não o aconselhem ou por razões de segurança.\n\n3 - Nos casos previstos no número anterior o museu deve, sempre que possível, facilitar o acesso à documentação sobre os bens culturais."
+  },
+  "174875313": {
+   "fragment_id": "174875218",
+   "type": 11,
+   "heading": "Artigo 61.º — Acesso a documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Acesso a documentos\n\nO museu pode recusar o acesso aos seguintes documentos:\n\na) A avaliação ou o preço de bens culturais;\n\nb) A identidade dos depositantes de bens culturais;\n\nc) As condições de depósito;\n\nd) A localização de bens culturais;\n\ne) Os contratos de seguro;\n\nf) Os planos e regras de segurança;\n\ng) A ficha de inventário museológico ou outros registos quando não seja possível omitir as referências previstas nas alíneas anteriores;\n\nh) Os dados recolhidos nos termos dos artigos 36.º, 56.º e 57.º do presente diploma."
+  },
+  "174875314": {
+   "fragment_id": "174875219",
+   "type": 11,
+   "heading": "Artigo 62.º — Livro de sugestões e reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Livro de sugestões e reclamações\n\n1 - Os visitantes podem livremente apresentar sugestões ou reclamações sobre o funcionamento do museu, podendo as sugestões ser feitas em impresso próprio, via postal, por correio eletrónico ou através da Internet e devendo as reclamações ser efetuadas no livro de reclamações.\n\n2 - Cada museu deve dispor de um livro de reclamações.\n\n3 - O livro de reclamações é anunciado de forma visível na área de acolhimento dos visitantes.\n\n4 - A disponibilização do livro referido no n.º 1 é obrigatória para os museus dependentes de pessoas coletivas públicas e para os museus da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875315": {
+   "fragment_id": "174875220",
+   "type": 1,
+   "heading": "Capítulo V — Propriedade de bens culturais, direito de preferência e regime de expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Propriedade de bens culturais, direito de preferência e regime de expropriação"
+  },
+  "174875316": {
+   "fragment_id": "174875221",
+   "type": 8,
+   "heading": "Secção I — Propriedade de bens culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Propriedade de bens culturais"
+  },
+  "174875317": {
+   "fragment_id": "174875222",
+   "type": 11,
+   "heading": "Artigo 63.º — Propriedade pública e privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Propriedade pública e privada\n\n1 - A classificação ou o inventário de bens culturais incorporados em museus, previstos no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro, não modifica a respetiva propriedade, posse ou outro direito real.\n\n2 - A garantia prevista no número anterior aplica-se à adesão à Rede de Museus e Coleções Visitáveis dos Açores, bem como ao inventário museológico previsto no presente diploma e que constitui instrumento de descrição, identificação e individualização adequado dos bens culturais para efeitos da elaboração do inventário de bens públicos e de bens particulares."
+  },
+  "174875318": {
+   "fragment_id": "174875223",
+   "type": 11,
+   "heading": "Artigo 64.º — Domínio público cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Domínio público cultural\n\nOs bens culturais incorporados em museus da Região ou das autarquias locais, bem como os museus de entidades delas dependentes ou por elas tutelados, integram o domínio público cultural da Região ou dos municípios, conforme os casos."
+  },
+  "174875319": {
+   "fragment_id": "174875224",
+   "type": 11,
+   "heading": "Artigo 65.º — Desafetação do domínio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Desafetação do domínio público\n\nA desafetação de bens culturais do domínio público incorporados em museus carece de autorização do membro do Governo Regional com competência em matéria de cultura, ou da entidade municipal competente no caso de bens que integram o património dos municípios, ouvido o Conselho Regional de Cultura, sem prejuízo do cumprimento de outras formalidades exigidas por lei."
+  },
+  "174875320": {
+   "fragment_id": "174875225",
+   "type": 8,
+   "heading": "Secção II — Direito de preferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Direito de preferência"
+  },
+  "174875321": {
+   "fragment_id": "174875226",
+   "type": 11,
+   "heading": "Artigo 66.º — Direito de preferência da Região Autónoma dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Direito de preferência da Região Autónoma dos Açores\n\n1 - A alienação ou a constituição de outro direito real sobre bem cultural incorporado em museu privado confere à Região o direito de preferência, independentemente de o bem-estar classificado ou em vias de classificação ou inventariado.\n\n2 - A comunicação da alienação ou da constituição de outro direito real deve ser feita por escrito pelo responsável pelo museu ou do órgão dirigente da pessoa coletiva de que dependa, no caso de o museu não dispor de personalidade jurídica, ao serviço competente para a instrução do respetivo procedimento.\n\n3 - O incumprimento do dever previsto no número anterior determina a nulidade do ato ou negócio jurídico.\n\n4 - O prazo para o exercício do direito de preferência é de 60 dias.\n\n5 - O direito de preferência por parte da Região é exercido pelos membros do Governo Regional com competência em matéria de finanças e cultura."
+  },
+  "174875322": {
+   "fragment_id": "174875227",
+   "type": 11,
+   "heading": "Artigo 67.º — Incorporação em Museu da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Incorporação em Museu da Rede de Museus e Coleções Visitáveis dos Açores\n\nO exercício do direito de preferência por parte da Região determina a incorporação do bem cultural em museu da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875323": {
+   "fragment_id": "174875228",
+   "type": 11,
+   "heading": "Artigo 68.º — Direito de preferência pelo município",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Direito de preferência pelo município\n\n1 - No caso de a Região não exercer o direito de preferência, o mesmo é deferido ao município em cujo território se encontra o museu, sendo o bem cultural objeto da preferência obrigatoriamente incorporado em museu municipal.\n\n2 - O município goza de prazo idêntico ao da Região para exercer o direito de preferência, contado a partir do termo do primeiro prazo.\n\n3 - A Região notifica o museu e o município da decisão que tomarem até ao termo do prazo de que dispõem para preferir."
+  },
+  "174875324": {
+   "fragment_id": "174875229",
+   "type": 11,
+   "heading": "Artigo 69.º — Preferência em venda judicial e leilão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Preferência em venda judicial e leilão\n\n1 - Os museus da Rede de Museus e Coleções Visitáveis dos Açores gozam do direito de preferência em caso da venda judicial ou leilão de bens culturais, independentemente da respetiva classificação.\n\n2 - O prazo para o exercício do direito de preferência é de 15 dias e, em caso de concorrência no exercício deste direito por museus da Rede de Museus e Coleções Visitáveis dos Açores, cabe à direção regional com competência em matéria de cultura determinar qual o museu preferente.\n\n3 - A preferência só pode ser exercida se o bem cultural objeto da preferência se integrar na política de incorporações do museu definida nos termos do artigo 12.º do presente diploma.\n\n4 - A preferência exercida em violação do disposto no número anterior ou a não incorporação do bem cultural no museu preferente determinam a anulabilidade do ato de preferência."
+  },
+  "174875325": {
+   "fragment_id": "174875230",
+   "type": 8,
+   "heading": "Secção III — Regime de expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Regime de expropriação"
+  },
+  "174875326": {
+   "fragment_id": "174875231",
+   "type": 11,
+   "heading": "Artigo 70.º — Regime de expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Regime de expropriação\n\n1 - A expropriação de bens culturais móveis na Região pode ocorrer nos seguintes casos:\n\na) Quando, por responsabilidade do detentor, decorrente de violação grave dos seus deveres gerais, especiais ou contratualizados, se corra risco sério de degradação do bem;\n\nb) Quando por razões jurídicas, técnicas ou científicas devidamente fundamentadas a expropriação se revele a forma mais adequada de assegurar a tutela do bem;\n\nc) Quando a expropriação tiver sido requerida pelo interessado.\n\n2 - A expropriação prevista no número anterior está sujeita aos seguintes limites:\n\na) Só pode ser exercida pela Região;\n\nb) Depende de prévia pronúncia por parte do Conselho Regional de Cultura;\n\nc) Os bens móveis na Região só podem ser expropriados se forem incorporados em museus da Rede de Museus e Coleções Visitáveis dos Açores.\n\n3 - Fica assegurado o direito à reversão do bem expropriado nos termos previstos no presente diploma.\n\n4 - A declaração de utilidade pública da expropriação é da competência do membro do Governo Regional com competência em matéria de cultura, sob proposta da direção regional com competência em matéria de cultura, enquanto entidade expropriante.\n\n5 - A declaração referida no número anterior determina o início do procedimento de classificação como tesouro regional ou móvel de interesse público, aplicando-se o disposto no Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro."
+  },
+  "174875327": {
+   "fragment_id": "174875232",
+   "type": 11,
+   "heading": "Artigo 71.º — Incorporação em museu da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Incorporação em museu da Rede de Museus e Coleções Visitáveis dos Açores\n\nO bem cultural expropriado na Região é obrigatoriamente incorporado em museu da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875328": {
+   "fragment_id": "174875233",
+   "type": 11,
+   "heading": "Artigo 72.º — Procedimento de expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Procedimento de expropriação\n\n1 - À expropriação de bens culturais móveis aplica-se o regime previsto no artigo 91.º do Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de setembro.\n\n2 - O Plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores emite parecer prévio à declaração da utilidade pública."
+  },
+  "174875329": {
+   "fragment_id": "174875234",
+   "type": 11,
+   "heading": "Artigo 73.º — Direito de reversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Direito de reversão\n\n1 - O expropriado tem o direito de exigir a reversão do bem cultural expropriado quando:\n\na) A decisão final do procedimento de classificação não determine a classificação;\n\nb) O bem cultural classificado não seja incorporado em museu da Rede de Museus e Coleções Visitáveis dos Açores;\n\nc) O bem cultural seja desclassificado.\n\n2 - O direito de reversão cessa quando:\n\na) Tenham decorrido 20 anos sobre a data da publicação da declaração de utilidade pública;\n\nb) Haja renúncia do expropriado."
+  },
+  "174875330": {
+   "fragment_id": "174875235",
+   "type": 1,
+   "heading": "Capítulo VI — Depósito e cedência de bens culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Depósito e cedência de bens culturais"
+  },
+  "174875331": {
+   "fragment_id": "174875236",
+   "type": 8,
+   "heading": "Secção I — Depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Depósito"
+  },
+  "174875332": {
+   "fragment_id": "174875237",
+   "type": 11,
+   "heading": "Artigo 74.º — Tipos de depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Tipos de depósito\n\nO depósito de bens culturais em museus é determinado como medida provisória para a sua segurança e conservação ou por acordo entre o proprietário e o museu."
+  },
+  "174875333": {
+   "fragment_id": "174875238",
+   "type": 11,
+   "heading": "Artigo 75.º — Depósito coercivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Depósito coercivo\n\n1 - O membro do Governo Regional com competência em matéria de cultura, sob proposta fundamentada da direção regional com competência em matéria de cultura, pode ordenar, por despacho, o depósito coercivo de bens culturais integrantes do acervo de museus dependentes de pessoas coletivas públicas ou de museus da Rede de Museus e Coleções Visitáveis dos Açores, quando a respetiva conservação ou segurança não estejam garantidas com o fim de prevenir a respetiva destruição, perda ou deterioração.\n\n2 - O despacho referido no número anterior indica o local do depósito e fixa o prazo do mesmo, que pode ser prorrogado até que as condições de conservação ou segurança sejam consideradas suficientes."
+  },
+  "174875334": {
+   "fragment_id": "174875239",
+   "type": 11,
+   "heading": "Artigo 76.º — Depósito voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Depósito voluntário\n\nO depósito de bens culturais móveis classificados como tesouro regional ou móvel de interesse público ou em vias de classificação só pode ser efetuado em museus da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875335": {
+   "fragment_id": "174875240",
+   "type": 11,
+   "heading": "Artigo 77.º — Registo do depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 77.º — Registo do depósito\n\nO museu deve dispor de registo atualizado de todos os bens culturais depositados, atribuindo-lhes um número individualizado e a que deve corresponder uma ficha de inventário."
+  },
+  "174875336": {
+   "fragment_id": "174875241",
+   "type": 11,
+   "heading": "Artigo 78.º — Certificado de depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 78.º — Certificado de depósito\n\nO museu, independentemente do tipo de depósito, passa um certificado comprovativo em que identifica o bem cultural e descreve as condições de depósito."
+  },
+  "174875337": {
+   "fragment_id": "174875242",
+   "type": 11,
+   "heading": "Artigo 79.º — Restrição ao depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 79.º — Restrição ao depósito\n\nO museu só deve aceitar o depósito voluntário de bens culturais de natureza semelhante ou afim aos que constituem o respetivo acervo."
+  },
+  "174875338": {
+   "fragment_id": "174875243",
+   "type": 11,
+   "heading": "Artigo 80.º — Remuneração do depósito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 80.º — Remuneração do depósito\n\n1 - Em caso de depósito voluntário, o depositante pode ser remunerado excecionalmente, quando o bem cultural seja classificado ou esteja em vias de classificação, possa ser exposto e seja de relevante importância para o museu.\n\n2 - A remuneração pode consistir na obrigação de conservar ou restaurar o bem cultural."
+  },
+  "174875339": {
+   "fragment_id": "174875244",
+   "type": 11,
+   "heading": "Artigo 81.º — Seguro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 81.º — Seguro\n\nO museu deve celebrar contrato de seguro dos bens culturais depositados, quando tal for aconselhável por razões de segurança ou constitua condição do depósito, cujo objeto e clausulado serão acordados entre as partes."
+  },
+  "174875340": {
+   "fragment_id": "174875245",
+   "type": 8,
+   "heading": "Secção II — Cedência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Cedência"
+  },
+  "174875341": {
+   "fragment_id": "174875246",
+   "type": 11,
+   "heading": "Artigo 82.º — Condições de cedência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 82.º — Condições de cedência\n\n1 - A cedência de bens culturais incorporados em museus na Região só pode ser efetuada a título temporário e apenas quando estejam garantidas as condições de segurança e de conservação.\n\n2 - A cedência prevista no número anterior deve ser obrigatoriamente precedida de parecer técnico do museu em que o bem está incorporado, o qual, para além da pronúncia sobre as condições de segurança e de conservação no local de destino da peça, deve referir quaisquer outros elementos inerentes à deslocação do bem em causa, concluindo ou pela concordância ou pela não concordância com a cedência.\n\n3 - Nos casos em que a decisão de cedência seja de sentido contrário ao parecer técnico, a mesma deve ser especialmente fundamentada, nomeadamente na demonstração de erro do teor do parecer técnico.\n\n4 - No caso referido no número anterior, é condição de validade da decisão a sua divulgação, conjuntamente com a respetiva fundamentação, bem como o parecer técnico do museu.\n\n5 - A cedência temporária de bens culturais classificados, ou em vias de classificação, deve ser precedida de informação ao membro do Governo Regional com competência em matéria de cultura, com a antecedência mínima de 30 dias.\n\n6 - Quando a cedência temporária de bens culturais classificados, ou em vias de classificação, como tesouro regional ou bem móvel de interesse público implica expedição ou exportação dos bens, aplica-se o disposto no artigo n.º 14 do Decreto Legislativo Regional n.º 3/2015/A, de 4 de fevereiro."
+  },
+  "174875342": {
+   "fragment_id": "174875247",
+   "type": 11,
+   "heading": "Artigo 83.º — Documentação da cedência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 83.º — Documentação da cedência\n\n1 - A cedência de bem cultural para exposições temporárias ou itinerantes não determina a passagem do certificado de depósito previsto no artigo 78.º do presente diploma.\n\n2 - O museu deve documentar a cedência e assegurar as condições de integridade do bem cultural e da sua devolução."
+  },
+  "174875343": {
+   "fragment_id": "174875248",
+   "type": 11,
+   "heading": "Artigo 84.º — Seguro para bens culturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 84.º — Seguro para bens culturais\n\n1 - Os bens culturais cedidos por museu ou por pessoas singulares ou coletivas a museus devem ser objeto de contrato de seguro, cujo objeto e clausulado são acordados entre as partes.\n\n2 - No caso de a cedência temporária se efetuar entre museus dependentes de pessoas coletivas públicas no território nacional, o seguro apenas pode ser dispensado em casos excecionais e devidamente fundamentados."
+  },
+  "174875344": {
+   "fragment_id": "174875249",
+   "type": 1,
+   "heading": "Capítulo VII — Criação e fusão de museus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Criação e fusão de museus"
+  },
+  "174875345": {
+   "fragment_id": "174875250",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "174875346": {
+   "fragment_id": "174875251",
+   "type": 11,
+   "heading": "Artigo 85.º — Documento fundador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 85.º — Documento fundador\n\nA iniciativa da criação e fusão de museus deve ser efetuada através de documento em que a entidade proponente manifesta formalmente a intenção de criar ou fundir o museu, define o respetivo estatuto jurídico e compromete-se a executar o programa museológico, bem como a disponibilizar os recursos humanos e financeiros que asseguram a respetiva sustentabilidade."
+  },
+  "174875347": {
+   "fragment_id": "174875252",
+   "type": 11,
+   "heading": "Artigo 86.º — Programa museológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 86.º — Programa museológico\n\n1 - O programa museológico fundamenta a criação ou a fusão de museus.\n\n2 - O programa museológico integra os seguintes elementos:\n\na) A denominação prevista para o museu;\n\nb) A definição dos objetivos;\n\nc) A identificação e a caracterização dos bens culturais existentes ou a incorporar em função da sua incidência disciplinar e temática;\n\nd) A formulação das estratégias funcionais, designadamente nos domínios do estudo e investigação, incorporação, documentação, conservação, exposição e educação;\n\ne) A identificação dos públicos;\n\nf) A indicação das instalações e a afetação a áreas funcionais;\n\ng) As condições de conservação e segurança;\n\nh) Os recursos financeiros;\n\ni) A previsão do pessoal e perfis profissionais correspondentes.\n\n3 - O projeto de arquitetura deve ser elaborado de harmonia com o programa museológico, tendo em conta a boa execução do mesmo."
+  },
+  "174875348": {
+   "fragment_id": "174875253",
+   "type": 11,
+   "heading": "Artigo 87.º — Denominação de museus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 87.º — Denominação de museus\n\n1 - A denominação de «Museu Regional» e de «Museu de Ilha» é aprovada por decreto regulamentar regional, por proposta do membro do Governo Regional competente em matéria de cultura, ouvido o plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n2 - A denominação de «Museu Regional» e de «Museu de Ilha» só pode ser utilizada por museus a quem tenha sido atribuída nos termos do número anterior.\n\n3 - A denominação de «Museu Municipal» só pode ser utilizada por museu municipal ou por museus a quem o município autorize a utilização desta denominação."
+  },
+  "174875349": {
+   "fragment_id": "174875254",
+   "type": 8,
+   "heading": "Secção II — Parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Parcerias"
+  },
+  "174875350": {
+   "fragment_id": "174875255",
+   "type": 11,
+   "heading": "Artigo 88.º — Promoção de parcerias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 88.º — Promoção de parcerias\n\n1 - A Região e os municípios promovem a constituição de parcerias entre entidades públicas e privadas para a criação e qualificação de museus tendo em vista o enriquecimento do património cultural.\n\n2 - Nos casos em que o museu depende e é gerido por mais do que uma entidade, pública ou privada, as responsabilidades e deveres destas devem estar expressas em contrato escrito, nomeadamente contrato de concessão."
+  },
+  "174875351": {
+   "fragment_id": "174875256",
+   "type": 11,
+   "heading": "Artigo 89.º — Limites",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 89.º — Limites\n\nA constituição de parcerias por qualquer pessoa coletiva pública não pode envolver a desafetação de bens culturais do domínio público ou a sua cedência permanente, sem a autorização prevista no artigo 65.º do presente diploma."
+  },
+  "174875352": {
+   "fragment_id": "174875257",
+   "type": 11,
+   "heading": "Artigo 90.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 90.º — Regime jurídico\n\n1 - Quando a constituição da parceria dependa da afetação de um conjunto de bens culturais determinado a incorporar no museu ou de instalações específicas é dispensado o concurso público.\n\n2 - Ao lançamento, avaliação, fiscalização e acompanhamento da parceria é aplicável o Decreto-Lei n.º 111/2012, de 23 de maio, com as necessárias adaptações."
+  },
+  "174875353": {
+   "fragment_id": "174875258",
+   "type": 11,
+   "heading": "Artigo 91.º — Instrumentos contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 91.º — Instrumentos contratuais\n\nOs instrumentos contratuais para o estabelecimento de parcerias podem consistir em contratos mistos ou união de contratos e prever o recurso ao financiamento privado."
+  },
+  "174875354": {
+   "fragment_id": "174875259",
+   "type": 11,
+   "heading": "Artigo 92.º — Gestão de museus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 92.º — Gestão de museus\n\n1 - A criação de novos museus em regime de parceria pode prever a gestão privada de bens culturais do domínio público.\n\n2 - A gestão privada referida no número anterior é objeto de contrato administrativo que fixa obrigatoriamente a observância das funções museológicas e demais requisitos previstos na presente lei."
+  },
+  "174875355": {
+   "fragment_id": "174875260",
+   "type": 11,
+   "heading": "Artigo 93.º — Cedência de instalações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 93.º — Cedência de instalações\n\n1 - As pessoas coletivas públicas podem celebrar contrato administrativo para a criação de museus com outras pessoas coletivas públicas ou privadas mediante a cedência de instalações.\n\n2 - O contrato referido no número anterior consagra obrigatoriamente a impossibilidade da dispersão dos bens culturais incorporados ou a incorporar no museu."
+  },
+  "174875356": {
+   "fragment_id": "174875261",
+   "type": 11,
+   "heading": "Artigo 94.º — Parecer da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 94.º — Parecer da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores\n\nA constituição de parcerias entre entidades públicas e privadas que incidam sobre museu da Rede de Museus e Coleções Visitáveis dos Açores é objeto de parecer obrigatório do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875357": {
+   "fragment_id": "174875262",
+   "type": 1,
+   "heading": "Capítulo VIII — Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Rede de Museus e Coleções Visitáveis dos Açores"
+  },
+  "174875358": {
+   "fragment_id": "174875263",
+   "type": 8,
+   "heading": "Secção I — Objetivos, composição e atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Objetivos, composição e atividade"
+  },
+  "174875359": {
+   "fragment_id": "174875264",
+   "type": 11,
+   "heading": "Artigo 95.º — Conceito de Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 95.º — Conceito de Rede de Museus e Coleções Visitáveis dos Açores\n\nA Rede de Museus e Coleções Visitáveis dos Açores é um sistema organizado, baseado na adesão voluntária, configurado de forma progressiva e que visa a descentralização, a mediação, a qualificação e a cooperação entre museus."
+  },
+  "174875360": {
+   "fragment_id": "174875265",
+   "type": 11,
+   "heading": "Artigo 96.º — Objetivos da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 96.º — Objetivos da Rede de Museus e Coleções Visitáveis dos Açores\n\nA Rede de Museus e Coleções Visitáveis dos Açores tem como objetivos:\n\na) A valorização do património móvel dos Açores como recurso identitário, cultural e tecnológico;\n\nb) A valorização e a qualificação da realidade museológica na Região Autónoma dos Açores;\n\nc) A cooperação institucional e a articulação entre museus;\n\nd) A otimização e partilha de recursos;\n\ne) O planeamento e a racionalização dos investimentos em museus;\n\nf) A qualificação e difusão da informação relativa aos museus;\n\ng) A promoção do rigor e do profissionalismo das práticas museológicas e das técnicas museográficas;\n\nh) O fomento de parcerias inovadoras que contribuam para a dinamização e afirmação cultural da Região;\n\ni) A cooperação entre museus e entidades detentoras de coleções visitáveis."
+  },
+  "174875361": {
+   "fragment_id": "174875266",
+   "type": 11,
+   "heading": "Artigo 97.º — Composição da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 97.º — Composição da Rede de Museus e Coleções Visitáveis dos Açores\n\n1 - A Rede de Museus e Coleções Visitáveis dos Açores é composta pelos museus existentes na Região e credenciados nos termos do presente diploma.\n\n2 - Integram a Rede de Museus e Coleções Visitáveis dos Açores, com dispensa de formalidades, os museus existentes na Região e integrantes da Rede Portuguesa de Museus.\n\n3 - A fusão e a extinção de museus pertencentes à Rede de Museus e Coleções Visitáveis dos Açores ficam sujeitas a parecer técnico da sua estrutura de coordenação."
+  },
+  "174875362": {
+   "fragment_id": "174875267",
+   "type": 11,
+   "heading": "Artigo 98.º — Atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 98.º — Atividade\n\n1 - A Rede de Museus e Coleções Visitáveis dos Açores baseia a sua atividade nos museus credenciados e na comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores, definida no âmbito do presente diploma, de acordo com o princípio da subsidiariedade.\n\n2 - A articulação entre museus da Rede de Museus e Coleções Visitáveis dos Açores é promovida pela estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875363": {
+   "fragment_id": "174875268",
+   "type": 11,
+   "heading": "Artigo 99.º — Função dos museus regionais e museus de ilha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 99.º — Função dos museus regionais e museus de ilha\n\nNo âmbito da Rede de Museus e Coleções Visitáveis dos Açores, os museus regionais e museus de ilha desempenham as seguintes missões:\n\na) Fomentar a investigação de carácter disciplinar, interdisciplinar e temática correspondente à sua área territorial de atuação;\n\nb) Apoiar tecnicamente os museus e coleções visitáveis acreditadas da mesma área disciplinar e temática ou de áreas funcionais afins."
+  },
+  "174875364": {
+   "fragment_id": "174875269",
+   "type": 11,
+   "heading": "Artigo 100.º — Dever de colaboração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 100.º — Dever de colaboração\n\n1 - Os museus que integram a Rede de Museus e Coleções Visitáveis dos Açores colaboram entre si nomeadamente através de redes de museus, articulando os respetivos recursos com vista a melhorar e rentabilizar a prestação de serviços ao público.\n\n2 - A colaboração traduz-se no estabelecimento de contratos, acordos, convénios e protocolos de cooperação entre museus ou com entidades públicas ou privadas que visem, designadamente:\n\na) A realização conjunta de programas e projetos de interesse comum;\n\nb) A utilização simultânea de recursos disponíveis, dentro de uma perspetiva descentralizada de racionalização e otimização desses recursos;\n\nc) A concessão ou delegação de tarefas destinadas a promover de modo concertado, planificado e expeditas as respetivas relações."
+  },
+  "174875365": {
+   "fragment_id": "174875270",
+   "type": 11,
+   "heading": "Artigo 101.º — Colaboração com a Rede Portuguesa de Museus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 101.º — Colaboração com a Rede Portuguesa de Museus\n\nA direção regional com competência em matéria de cultura coopera com o organismo nacional com competência na área dos museus, no âmbito da credenciação e da Rede Portuguesa de Museus, em termos a definir e a constar de acordo a celebrar para o efeito."
+  },
+  "174875366": {
+   "fragment_id": "174875271",
+   "type": 8,
+   "heading": "Secção II — Estrutura de Coordenação da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estrutura de Coordenação da Rede de Museus e Coleções Visitáveis dos Açores"
+  },
+  "174875367": {
+   "fragment_id": "174875272",
+   "type": 11,
+   "heading": "Artigo 102.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 102.º — Âmbito\n\n1 - A estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores organiza, gere e planeia atividades no âmbito da rede.\n\n2 - O funcionamento da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores é assegurado pela direção regional com competência em matéria de cultura."
+  },
+  "174875368": {
+   "fragment_id": "174875273",
+   "type": 11,
+   "heading": "Artigo 103.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 103.º — Objetivos\n\nA estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores tem os seguintes objetivos:\n\na) Contribuir para assegurar a concretização do direito à cultura e à fruição cultural;\n\nb) Gerir setores fundamentais do património cultural, tendo em conta a manutenção e o reforço da identidade regional;\n\nc) Promover a valorização dos museus e das coleções visitáveis;\n\nd) Promover a criação de redes patrimoniais temáticas a nível local, insular e arquipelágico;\n\ne) Desempenhar um papel promotor da inovação e do incremento de atividades educativas e experimentais."
+  },
+  "174875369": {
+   "fragment_id": "174875274",
+   "type": 11,
+   "heading": "Artigo 104.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 104.º — Composição\n\n1 - A estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores é composta por um Plenário e por uma Comissão Executiva.\n\n2 - O Plenário é constituído pelos seguintes elementos:\n\na) O diretor regional com competência em matéria de cultura, que preside e tem voto de qualidade;\n\nb) O diretor de serviços com competência em matéria de museus da direção regional com competência em matéria de cultura;\n\nc) Um representante de cada uma das entidades tutelares dos museus da Rede de Museus e Coleções Visitáveis dos Açores;\n\nd) Os diretores dos Museus da Rede de Museus e Coleções Visitáveis dos Açores;\n\ne) Os elementos da Comissão Executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores;\n\nf) Dois representantes das Coleções Visitáveis associadas à Rede de Museus e Coleções Visitáveis dos Açores, a designar pelo diretor regional com competência em matéria de cultura, em regime de rotatividade;\n\ng) Consultores técnico-científicos até ao limite de três.\n\n3 - O mandato dos membros do Plenário, excluindo os cargos de inerência, é renovável a cada dois anos.\n\n4 - Os consultores técnico-científicos são nomeados por despacho do membro do Governo Regional com competência em matéria de cultura, sob proposta da comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n5 - Todos os membros do plenário exercem as suas funções sem remuneração complementar.\n\n6 - A Comissão Executiva é constituída por três técnicos com formação em museologia designados da administração regional e autárquica da Região, um dos quais assegura as funções de coordenação.\n\n7 - Os membros da comissão executiva são designados por despacho do membro do Governo Regional com competência em matéria de cultura, sob proposta do diretor regional com competência em matéria de cultura, ouvido o Plenário, e não auferem remuneração complementar."
+  },
+  "174875370": {
+   "fragment_id": "174875375",
+   "type": 11,
+   "heading": "Artigo 105.º — Missão e funcionamento da comissão executiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 105.º — Missão e funcionamento da comissão executiva\n\n1 - A comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores desempenha as seguintes missões:\n\na) Apoiar tecnicamente os museus credenciados e as coleções visitáveis certificadas;\n\nb) Promover a cooperação e a articulação entre os museus e coleções visitáveis;\n\nc) Contribuir para a vitalidade e o dinamismo cultural dos locais onde os museus estão instalados;\n\nd) Assegurar a implementação de boas práticas museológicas;\n\ne) Promover a formação de pessoal especializado;\n\nf) Dar parecer e elaborar relatórios sobre questões relativas à museologia;\n\ng) Dar parecer sobre a fusão de museus pertencentes à Rede de Museus e Coleções Visitáveis dos Açores;\n\nh) Colaborar com a direção regional com competência em matéria de cultura na apreciação das candidaturas à Rede de Museus e Coleções Visitáveis dos Açores, na promoção de programas e de atividades e no controlo da respetiva execução.\n\n2 - O funcionamento da comissão executiva é estabelecido por despacho do membro do Governo Regional com competência em matéria de cultura."
+  },
+  "174875371": {
+   "fragment_id": "174875376",
+   "type": 1,
+   "heading": "Capítulo IX — Credenciação de museus",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Credenciação de museus"
+  },
+  "174875372": {
+   "fragment_id": "174875377",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "174875373": {
+   "fragment_id": "174875378",
+   "type": 11,
+   "heading": "Artigo 106.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 106.º — Noção\n\nA credenciação do museu consiste na avaliação e no reconhecimento oficial da sua qualidade técnica."
+  },
+  "174875374": {
+   "fragment_id": "174875379",
+   "type": 11,
+   "heading": "Artigo 107.º — Objetivos da credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 107.º — Objetivos da credenciação\n\nA credenciação tem como objetivos promover o acesso à cultura e o enriquecimento do património cultural através da introdução de padrões de rigor e de qualidade no exercício das funções museológicas dos museus existentes na Região."
+  },
+  "174875475": {
+   "fragment_id": "174875380",
+   "type": 11,
+   "heading": "Artigo 108.º — Pedido de credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 108.º — Pedido de credenciação\n\nA credenciação pode ser requerida por qualquer museu com personalidade jurídica ou por qualquer pessoa coletiva pública ou privada de que dependa um museu."
+  },
+  "174875476": {
+   "fragment_id": "174875381",
+   "type": 11,
+   "heading": "Artigo 109.º — Requisitos de credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 109.º — Requisitos de credenciação\n\nA credenciação de um museu depende do preenchimento dos seguintes requisitos:\n\na) Cumprimento das funções museológicas previstas nos artigos 8.º a 43.º do presente diploma;\n\nb) Existência de recursos humanos, financeiros e instalações contemplados nos artigos 44.º a 51.º do presente diploma;\n\nc) Aprovação do regulamento do museu de acordo com o artigo 53.º do presente diploma;\n\nd) Garantia do acesso público nos termos previstos nos artigos 54.º a 62.º do presente diploma."
+  },
+  "174875477": {
+   "fragment_id": "174875382",
+   "type": 11,
+   "heading": "Artigo 110.º — Formulário de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 110.º — Formulário de candidatura\n\nA instrução da candidatura obedece a um formulário aprovado por despacho do membro do Governo Regional com competência em matéria de cultura."
+  },
+  "174875478": {
+   "fragment_id": "174875383",
+   "type": 8,
+   "heading": "Secção II — Procedimento de credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento de credenciação"
+  },
+  "174875479": {
+   "fragment_id": "174875384",
+   "type": 11,
+   "heading": "Artigo 111.º — Instrução do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 111.º — Instrução do procedimento\n\n1 - O pedido de credenciação é dirigido à direção regional com competência em matéria de cultura.\n\n2 - Na instrução do procedimento é obrigatória a emissão de parecer do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n3 - O procedimento de credenciação deve ser concluído no prazo de um ano, podendo ser prorrogado por seis meses, por despacho do membro do Governo Regional com competência em matéria de cultura, quando a complexidade do procedimento o exigir."
+  },
+  "174875480": {
+   "fragment_id": "174875385",
+   "type": 11,
+   "heading": "Artigo 112.º — Diligências instrutórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 112.º — Diligências instrutórias\n\n1 - A instrução do procedimento de credenciação determina a elaboração de um relatório preliminar e de um relatório técnico da responsabilidade da comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n2 - O relatório preliminar é notificado ao requerente para se pronunciar e, quando for o caso, para completar o pedido ou suprir deficiências.\n\n3 - Após o relatório preliminar efetuam-se as visitas e demais diligências consideradas necessárias e, de seguida, é elaborado o relatório técnico."
+  },
+  "174875481": {
+   "fragment_id": "174875386",
+   "type": 11,
+   "heading": "Artigo 113.º — Relatório técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 113.º — Relatório técnico\n\n1 - O relatório técnico deve pronunciar-se sobre a possibilidade de credenciação ou, no caso de concluir que o requerente não preenche ainda os requisitos de credenciação, propor as medidas corretivas e assinalar o prazo razoável para o respetivo cumprimento, até ao limite máximo de dois anos.\n\n2 - Quando haja lugar à aplicação de medidas corretivas o requerente pode candidatar-se ou ser objeto de medidas de apoio específicas, nomeadamente de contratos-programa.\n\n3 - No caso de o requerente aceitar as recomendações do relatório técnico considera-se em processo de credenciação.\n\n4 - O relatório técnico é submetido a parecer do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores quando o requerente não aceitar formalmente cumprir as medidas corretivas referidas no n.º 1 do presente artigo, seguindo-se os trâmites previstos no artigo 115.º"
+  },
+  "174875482": {
+   "fragment_id": "174875387",
+   "type": 11,
+   "heading": "Artigo 114.º — Parecer da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 114.º — Parecer da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores\n\nPara efeitos da emissão do parecer referido n.º 1 do artigo 115.º, os membros da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores podem realizar audições com os responsáveis do museu, nas respetivas instalações."
+  },
+  "174875483": {
+   "fragment_id": "174875388",
+   "type": 11,
+   "heading": "Artigo 115.º — Audiência prévia e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 115.º — Audiência prévia e decisão\n\n1 - A audiência prévia incide sobre o relatório técnico elaborado pela comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores e sobre o parecer do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores que, quando seja o caso, refere o resultado das audições previstas no artigo anterior.\n\n2 - A audiência prévia é escrita e por prazo não inferior a 20 dias.\n\n3 - A decisão final do membro do Governo Regional com competência em matéria de cultura é proferida sobre o relatório final do procedimento elaborado pela comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n4 - A decisão referida no número anterior é publicada em Jornal Oficial e notificada ao requerente e ao município onde o museu se situa."
+  },
+  "174875484": {
+   "fragment_id": "174875389",
+   "type": 8,
+   "heading": "Secção III — Efeitos da credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Efeitos da credenciação"
+  },
+  "174875485": {
+   "fragment_id": "174875390",
+   "type": 11,
+   "heading": "Artigo 116.º — Efeitos da credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 116.º — Efeitos da credenciação\n\nA credenciação de um museu tem os seguintes efeitos:\n\na) A passagem de documento comprovativo dessa qualidade;\n\nb) A utilização de um logótipo;\n\nc) A divulgação do museu;\n\nd) O acesso aos demais direitos e o cumprimento dos deveres previstos na presente lei."
+  },
+  "174875486": {
+   "fragment_id": "174875391",
+   "type": 11,
+   "heading": "Artigo 117.º — Documento comprovativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 117.º — Documento comprovativo\n\nO museu tem direito a receber um documento comprovativo da respetiva credenciação e a fazer menção da qualidade de Museu da Rede de Museus e Coleções Visitáveis dos Açores pelas formas que considere mais convenientes."
+  },
+  "174875487": {
+   "fragment_id": "174875392",
+   "type": 11,
+   "heading": "Artigo 118.º — Logótipo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 118.º — Logótipo\n\nO museu deve exibir na área de acolhimento um logótipo destinado a informar os visitantes da credenciação."
+  },
+  "174875488": {
+   "fragment_id": "174875393",
+   "type": 11,
+   "heading": "Artigo 119.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 119.º — Modelos\n\nOs modelos do documento comprovativo e do logótipo são aprovados por despacho do membro do Governo Regional com competência em matéria de cultura."
+  },
+  "174875489": {
+   "fragment_id": "174875394",
+   "type": 11,
+   "heading": "Artigo 120.º — Sinalização exterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 120.º — Sinalização exterior\n\nOs museus da Rede de Museus e Coleções Visitáveis dos Açores são objeto de sinalização exterior."
+  },
+  "174875490": {
+   "fragment_id": "174875395",
+   "type": 11,
+   "heading": "Artigo 121.º — Divulgação dos museus credenciados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 121.º — Divulgação dos museus credenciados\n\nA direção regional com competência em matéria de cultura efetua a divulgação sistematizada, periódica e atualizada dos museus integrados na Rede de Museus e Coleções Visitáveis dos Açores com a finalidade de os promover junto do público, de divulgar as suas características e a importância do respetivo património cultural."
+  },
+  "174875491": {
+   "fragment_id": "174875396",
+   "type": 11,
+   "heading": "Artigo 122.º — Monitorização da credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 122.º — Monitorização da credenciação\n\n1 - Os museus credenciados podem ser sujeitos a ações regulares de monitorização e sempre que haja evidência de incumprimento de requisitos contemplados na presente lei.\n\n2 - Os museus credenciados são objeto de revisão quinquenal, no âmbito da qual devem fazer prova da manutenção dos requisitos exigidos, designadamente o cumprimento das funções museológicas, a dotação de recursos humanos e financeiros, o acesso e a visita pública regular.\n\n3 - A revisão quinquenal dá origem a um relatório técnico que confirma a renovação da credenciação ou propõe medidas corretivas a adotar no prazo máximo de um ano.\n\n4 - As ações previstas nos números anteriores são da responsabilidade da comissão executiva da estrutura de coordenação.\n\n5 - Quando o museu não adote as medidas corretivas referidas no número anterior, fica sujeito ao cancelamento da credenciação."
+  },
+  "174875492": {
+   "fragment_id": "174875397",
+   "type": 11,
+   "heading": "Artigo 123.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 123.º — Apoios\n\n1 - A credenciação do museu é requisito indispensável para beneficiar de programas criados pela direção regional com competência em matéria de cultura e para a concessão de outros apoios financeiros pela Região.\n\n2 - Os museus em processo de credenciação podem beneficiar de programas de qualificação específicos."
+  },
+  "174875493": {
+   "fragment_id": "174875398",
+   "type": 8,
+   "heading": "Secção IV — Cancelamento da credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Cancelamento da credenciação"
+  },
+  "174875494": {
+   "fragment_id": "174875399",
+   "type": 11,
+   "heading": "Artigo 124.º — Cancelamento por iniciativa do museu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 124.º — Cancelamento por iniciativa do museu\n\n1 - O museu credenciado quando tenha personalidade jurídica, ou a pessoa coletiva de que dependa, podem solicitar livremente o cancelamento da credenciação.\n\n2 - A direção regional com competência em matéria de cultura procede ao cancelamento no prazo de 30 dias, a contar da data da solicitação referida no número anterior, aplicando-se à notificação e publicação da decisão o disposto no n.º 4 do artigo 115.º do presente diploma.\n\n3 - O cancelamento da credenciação determina a caducidade dos apoios concedidos, a impossibilidade de gozar do direito de preferência e dos benefícios e incentivos fiscais previstos no presente diploma."
+  },
+  "174875495": {
+   "fragment_id": "174875400",
+   "type": 11,
+   "heading": "Artigo 125.º — Cancelamento por iniciativa da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 125.º — Cancelamento por iniciativa da Região\n\nÉ cancelada a credenciação do museu nos seguintes casos:\n\na) Incumprimento reiterado das funções museológicas;\n\nb) Alteração dos recursos humanos e financeiros ou modificação das instalações que se traduzam numa diminuição de qualidade;\n\nc) Restrição injustificada do acesso e visita pública regular."
+  },
+  "174875496": {
+   "fragment_id": "174875401",
+   "type": 11,
+   "heading": "Artigo 126.º — Medidas corretivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 126.º — Medidas corretivas\n\nNos casos previstos nas alíneas a) e b) do artigo anterior, e quando o incumprimento ou as alterações sejam passíveis de correção, o museu é notificado para tomar as medidas corretivas necessárias no prazo máximo de seis meses."
+  },
+  "174875497": {
+   "fragment_id": "174875402",
+   "type": 11,
+   "heading": "Artigo 127.º — Decisão de cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 127.º — Decisão de cancelamento\n\nA decisão de cancelamento da credenciação é devidamente fundamentada, objeto de parecer obrigatório do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores, e notificada e publicada nos termos estabelecidos no n.º 4 do artigo 115.º do presente diploma."
+  },
+  "174875498": {
+   "fragment_id": "174875403",
+   "type": 1,
+   "heading": "Capítulo X — Certificação de Coleção Visitável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Certificação de Coleção Visitável"
+  },
+  "174875499": {
+   "fragment_id": "174875404",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "174875500": {
+   "fragment_id": "174875405",
+   "type": 11,
+   "heading": "Artigo 128.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 128.º — Noção\n\n1 - A Coleção Visitável é passível de certificação, que consiste no reconhecimento oficial do seu valor cultural para a Região.\n\n2 - A certificação confere o estatuto de Coleção Visitável associada à Rede de Museus e Coleções Visitáveis dos Açores."
+  },
+  "174875501": {
+   "fragment_id": "174875406",
+   "type": 11,
+   "heading": "Artigo 129.º — Objetivo da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 129.º — Objetivo da certificação\n\nA certificação tem como objetivo promover o acesso à cultura e ao património cultural através da valorização, conservação e salvaguarda de coleções que reúnam condições de visita e de estudo."
+  },
+  "174875502": {
+   "fragment_id": "174875407",
+   "type": 11,
+   "heading": "Artigo 130.º — Pedido de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 130.º — Pedido de certificação\n\nA certificação pode ser requerida por qualquer entidade pública ou privada que seja detentora de um conjunto de bens culturais relevantes."
+  },
+  "174875503": {
+   "fragment_id": "174875408",
+   "type": 11,
+   "heading": "Artigo 131.º — Requisitos de certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 131.º — Requisitos de certificação\n\n1 - A certificação de uma coleção como coleção visitável depende do preenchimento dos seguintes requisitos:\n\na) Valor intrínseco da coleção;\n\nb) Instalações especialmente afetas e adequadas;\n\nc) Condições de conservação e segurança;\n\nd) Inventário atualizado;\n\ne) Garantia de acesso e visita pública regular, com horário definido;\n\nf) Recursos humanos que assegurem a visita pública no horário definido.\n\n2 - Para efeitos do preenchimento do requisito previsto na alínea a) do número anterior deve atender-se:\n\na) Ao interesse da coleção como testemunho simbólico ou religioso;\n\nb) Ao interesse da coleção como testemunho notável de vivências ou factos históricos;\n\nc) Ao valor estético, técnico ou material intrínseco dos bens que compõem a coleção;\n\nd) À extensão da coleção e o que nela se reflete do ponto de vista da memória coletiva;\n\ne) À importância da coleção do ponto de vista da investigação histórica ou científica;\n\nf) Às circunstâncias suscetíveis de acarretarem diminuição ou perda da perenidade ou da integridade da coleção."
+  },
+  "174875504": {
+   "fragment_id": "174875409",
+   "type": 11,
+   "heading": "Artigo 132.º — Formulário de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 132.º — Formulário de candidatura\n\nA instrução da candidatura obedece a um formulário aprovado por despacho do membro do Governo Regional com competência em matéria de cultura."
+  },
+  "174875505": {
+   "fragment_id": "174875410",
+   "type": 8,
+   "heading": "Secção II — Procedimento de credenciação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Procedimento de credenciação"
+  },
+  "174875506": {
+   "fragment_id": "174875411",
+   "type": 11,
+   "heading": "Artigo 133.º — Instrução do procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 133.º — Instrução do procedimento\n\n1 - O pedido de certificação é dirigido à direção regional com competência em matéria de cultura.\n\n2 - Na instrução do procedimento é obrigatória a emissão de parecer do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n3 - O procedimento de certificação deve ser concluído no prazo de um ano, podendo ser prorrogado por seis meses, por despacho do membro do Governo Regional com competência em matéria de cultura, quando a complexidade do procedimento o exigir."
+  },
+  "174875507": {
+   "fragment_id": "174875412",
+   "type": 11,
+   "heading": "Artigo 134.º — Diligências instrutórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 134.º — Diligências instrutórias\n\n1 - A instrução do procedimento de certificação determina a elaboração de um relatório preliminar e de um relatório técnico da responsabilidade da comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n2 - O relatório preliminar é notificado ao requerente para se pronunciar e, quando for o caso, para completar o pedido ou suprir deficiências.\n\n3 - Após o relatório preliminar efetuam-se as visitas e demais diligências consideradas necessárias e, de seguida, é elaborado o relatório técnico."
+  },
+  "174875508": {
+   "fragment_id": "174875413",
+   "type": 11,
+   "heading": "Artigo 135.º — Relatório técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 135.º — Relatório técnico\n\n1 - O relatório técnico deve pronunciar-se sobre a possibilidade de certificação ou, no caso de concluir que o requerente não preenche ainda os requisitos de certificação, propor as medidas corretivas e assinalar o prazo razoável para o respetivo cumprimento, até ao limite máximo de dois anos.\n\n2 - Quando haja lugar à aplicação das medidas corretivas previstas no artigo anterior, o requerente pode candidatar-se ou ser objeto de medidas de apoio específicas, nomeadamente de contratos-programa.\n\n3 - No caso de o requerente aceitar as recomendações do relatório técnico considera-se em processo de certificação.\n\n4 - O relatório técnico será submetido a parecer do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores quando o requerente não aceitar formalmente cumprir as medidas corretivas referidas no n.º 1 do presente artigo, seguindo-se os trâmites previstos no artigo 115.º"
+  },
+  "174875509": {
+   "fragment_id": "174875414",
+   "type": 11,
+   "heading": "Artigo 136.º — Parecer da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 136.º — Parecer da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores\n\nPara efeitos da emissão do parecer referido n.º 1 do artigo 137.º, os membros da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores podem realizar audições com os responsáveis da Coleção Visitável, nas respetivas instalações."
+  },
+  "174875510": {
+   "fragment_id": "174875415",
+   "type": 11,
+   "heading": "Artigo 137.º — Audiência prévia e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 137.º — Audiência prévia e decisão\n\n1 - A audiência prévia incide sobre o relatório técnico elaborado pela comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores e sobre o parecer do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores que, quando seja o caso, refere o resultado das audições previstas no artigo anterior.\n\n2 - A audiência prévia é escrita e por prazo não inferior a 20 dias.\n\n3 - A decisão final do diretor regional com competência em matéria de cultura é proferida sobre o relatório final do procedimento elaborado pela comissão executiva da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores.\n\n4 - A decisão referida no número anterior é exarada em despacho do diretor regional com competência em matéria de cultura."
+  },
+  "174875511": {
+   "fragment_id": "174875416",
+   "type": 8,
+   "heading": "Secção III — Efeitos da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Efeitos da certificação"
+  },
+  "174875512": {
+   "fragment_id": "174875417",
+   "type": 11,
+   "heading": "Artigo 138.º — Efeitos da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 138.º — Efeitos da certificação\n\nA certificação de uma coleção visitável tem os seguintes efeitos:\n\na) A passagem de documento comprovativo dessa qualidade;\n\nb) A utilização de um logótipo;\n\nc) A divulgação da coleção visitável;\n\nd) O acesso aos demais direitos e o cumprimento dos deveres previstos no presente diploma."
+  },
+  "174875513": {
+   "fragment_id": "174875418",
+   "type": 11,
+   "heading": "Artigo 139.º — Documento comprovativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 139.º — Documento comprovativo\n\nA entidade detentora da coleção visitável tem direito a receber um documento comprovativo da respetiva certificação e a fazer menção da qualidade de coleção visitável associada à Rede de Museus e Coleções Visitáveis dos Açores pelas formas que considere mais convenientes."
+  },
+  "174875514": {
+   "fragment_id": "174875419",
+   "type": 11,
+   "heading": "Artigo 140.º — Logótipo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 140.º — Logótipo\n\nA entidade detentora da coleção visitável deve exibir na área de acolhimento um logótipo destinado a informar os visitantes da certificação."
+  },
+  "174875515": {
+   "fragment_id": "174875420",
+   "type": 11,
+   "heading": "Artigo 141.º — Modelos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 141.º — Modelos\n\nOs modelos do documento comprovativo e do logótipo são aprovados por despacho do diretor regional com competência em matéria de cultura."
+  },
+  "174875516": {
+   "fragment_id": "174875421",
+   "type": 11,
+   "heading": "Artigo 142.º — Sinalização exterior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 142.º — Sinalização exterior\n\nA coleção visitável associada à Rede de Museus e Coleções Visitáveis dos Açores é objeto de sinalização exterior."
+  },
+  "174875517": {
+   "fragment_id": "174875422",
+   "type": 11,
+   "heading": "Artigo 143.º — Divulgação das coleções visitáveis certificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 143.º — Divulgação das coleções visitáveis certificadas\n\nA direção regional com competência em matéria de cultura efetua a divulgação sistematizada, periódica e atualizada das coleções visitáveis associadas à Rede de Museus e Coleções Visitáveis dos Açores com a finalidade de as promover junto do público, de divulgar as suas características e a importância do respetivo património cultural."
+  },
+  "174875518": {
+   "fragment_id": "174875423",
+   "type": 11,
+   "heading": "Artigo 144.º — Monitorização da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 144.º — Monitorização da certificação\n\n1 - As coleções visitáveis certificadas podem ser sujeitas a ações regulares de monitorização, sempre que haja evidência de incumprimento de requisitos contemplados no presente diploma.\n\n2 - As coleções visitáveis certificadas são objeto de revisão quinquenal, no âmbito da qual devem fazer prova da manutenção dos requisitos exigidos, designadamente o cumprimento do disposto na presente legislação, a dotação de recursos humanos, o acesso e a visita pública regular.\n\n3 - A revisão quinquenal dá origem a um relatório técnico que confirma a renovação da certificação ou propõe medidas corretivas a adotar no prazo máximo de um ano.\n\n4 - As ações previstas nos números anteriores são da responsabilidade da comissão executiva da estrutura de coordenação.\n\n5 - Quando a entidade responsável pela coleção visitável não adote as medidas corretivas referidas no número anterior, fica sujeita ao cancelamento da certificação."
+  },
+  "174875519": {
+   "fragment_id": "174875424",
+   "type": 11,
+   "heading": "Artigo 145.º — Apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 145.º — Apoios\n\n1 - A certificação da coleção visitável é requisito indispensável para beneficiar de programas criados pela direção regional com competência em matéria de cultura e para a concessão de outros apoios financeiros pela Região.\n\n2 - As coleções visitáveis em processo de certificação podem beneficiar de programas de qualificação específicos."
+  },
+  "174875520": {
+   "fragment_id": "174875425",
+   "type": 8,
+   "heading": "Secção IV — Cancelamento da certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Cancelamento da certificação"
+  },
+  "174875521": {
+   "fragment_id": "174875426",
+   "type": 11,
+   "heading": "Artigo 146.º — Cancelamento por iniciativa da entidade detentora da coleção visitável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 146.º — Cancelamento por iniciativa da entidade detentora da coleção visitável\n\n1 - A entidade detentora de uma coleção visitável certificada pode solicitar livremente o cancelamento da certificação.\n\n2 - A direção regional com competência em matéria de cultura procede ao cancelamento no prazo de 30 dias, a contar da data da solicitação referida no número anterior, aplicando-se à notificação e publicação da decisão o disposto no n.º 4 do artigo 115.º do presente diploma.\n\n3 - O cancelamento da certificação determina a caducidade dos apoios concedidos previstos no presente diploma."
+  },
+  "174875522": {
+   "fragment_id": "174875427",
+   "type": 11,
+   "heading": "Artigo 147.º — Cancelamento por iniciativa da Região",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 147.º — Cancelamento por iniciativa da Região\n\nÉ cancelada a certificação da coleção visitável nos seguintes casos:\n\na) Incumprimento reiterado do definido na presente legislação;\n\nb) Alteração dos recursos humanos ou modificação das instalações que se traduzam numa diminuição de qualidade;\n\nc) Restrição injustificada do acesso e visita pública regular."
+  },
+  "174875523": {
+   "fragment_id": "174875428",
+   "type": 11,
+   "heading": "Artigo 148.º — Medidas corretivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 148.º — Medidas corretivas\n\nNos casos previstos nas alíneas a) e b) do artigo anterior, e quando o incumprimento ou as alterações sejam passíveis de correção, o responsável pela coleção visitável é notificado para tomar as medidas corretivas necessárias no prazo máximo de seis meses."
+  },
+  "174875524": {
+   "fragment_id": "174875429",
+   "type": 11,
+   "heading": "Artigo 149.º — Decisão de cancelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 149.º — Decisão de cancelamento\n\nA decisão de cancelamento da certificação é devidamente fundamentada, objeto de parecer obrigatório do plenário da estrutura de coordenação da Rede de Museus e Coleções Visitáveis dos Açores, e notificada e publicada nos termos estabelecidos no n.º 4 do artigo 115.º"
+  },
+  "174875525": {
+   "fragment_id": "174875430",
+   "type": 1,
+   "heading": "Capítulo XI — Tutela contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Tutela contraordenacional"
+  },
+  "174875526": {
+   "fragment_id": "174875431",
+   "type": 11,
+   "heading": "Artigo 150.º — Legislação subsidiária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 150.º — Legislação subsidiária\n\nÀs infrações previstas no presente capítulo é subsidiariamente aplicável o regime geral das contraordenações e coimas."
+  },
+  "174875527": {
+   "fragment_id": "174875432",
+   "type": 11,
+   "heading": "Artigo 151.º — Cumprimento do dever omitido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 151.º — Cumprimento do dever omitido\n\nSempre que a contraordenação resultar da omissão de um dever, a aplicação da sanção e o pagamento da coima não dispensam o infrator do seu cumprimento."
+  },
+  "174875528": {
+   "fragment_id": "174875433",
+   "type": 11,
+   "heading": "Artigo 152.º — Contraordenação grave",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 152.º — Contraordenação grave\n\nConstitui contraordenação punível com coima de (euro) 75,20 a (euro) 3740,98 ou de (euro) 750,20 a (euro) 44 891,81, conforme seja praticada por pessoa singular ou coletiva:\n\na) A violação do disposto no n.º 4 do artigo 15.º;\n\nb) A violação do disposto no artigo 31.º;\n\nc) A recusa de entrada de visitantes, sem fundamento, prevista no artigo 35.º;\n\nd) A violação do disposto nos n.os 3, 4 e 5 do artigo 36.º;\n\ne) A violação do disposto no artigo 37.º;\n\nf) A violação do disposto no artigo 38.º;\n\ng) O incumprimento do despacho previsto no n.º 1 do artigo 75.º;\n\nh) A violação do disposto no artigo 82.º;\n\ni) A utilização abusiva de denominação de museu prevista no artigo 94.º"
+  },
+  "174875529": {
+   "fragment_id": "174875434",
+   "type": 11,
+   "heading": "Artigo 153.º — Contraordenação simples",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 153.º — Contraordenação simples\n\nConstitui contraordenação punível com coima de (euro) 3,76 a (euro) 1870,49 ou de (euro) 376,00 a (euro) 22 445,91, conforme seja praticada por pessoa singular ou coletiva:\n\na) A violação do disposto no n.º 2 do artigo 22.º;\n\nb) O estabelecimento de restrições de entrada desproporcionadas, previstas no artigo 34.º;\n\nc) A violação do disposto no n.º 2 do artigo 41.º;\n\nd) A violação do disposto nos n.os 3 e 4 do artigo 54.º;\n\ne) A violação do disposto nos n.os 2, 3 e 4 do artigo 62.º;\n\nf) (Revogada.)\n\ng) A violação do disposto no artigo 118.º"
+  },
+  "174875530": {
+   "fragment_id": "174875435",
+   "type": 11,
+   "heading": "Artigo 154.º — Negligência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 154.º — Negligência\n\nA negligência é punível nos termos da lei."
+  },
+  "174875531": {
+   "fragment_id": "174875436",
+   "type": 11,
+   "heading": "Artigo 155.º — Sanções acessórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 155.º — Sanções acessórias\n\n1 - Conjuntamente com a coima prevista no tipo legal de contraordenação pode ser aplicada ao infrator uma das seguintes sanções acessórias:\n\na) Apreensão dos bens objeto de infração;\n\nb) Privação do direito a subsídio ou benefício outorgado por entidade ou serviço público;\n\nc) Privação do direito de participar em concursos públicos;\n\nd) Suspensão da credenciação.\n\n2 - A sanção referida na alínea d) do número anterior tem a duração máxima de dois anos, que se contarão a partir da decisão condenatória."
+  },
+  "174875532": {
+   "fragment_id": "174875437",
+   "type": 11,
+   "heading": "Artigo 156.º — Instrução e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 156.º — Instrução e decisão\n\n1 - A instrução do procedimento por contraordenação cabe à direção regional com competência em matéria de cultura ou a outros serviços competentes do Governo Regional, podendo igualmente ser confiada a organismos com competência de natureza inspetiva sobre a matéria.\n\n2 - A aplicação da coima compete ao diretor regional com competência em matéria de cultura ou ao dirigente do serviço do Governo Regional previsto no número anterior.\n\n3 - O produto da aplicação das coimas previstas no presente artigo constitui receita da Região."
+  },
+  "174875533": {
+   "fragment_id": "174875438",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Disposições finais e transitórias"
+  },
+  "174875534": {
+   "fragment_id": "174875439",
+   "type": 11,
+   "heading": "Artigo 157.º — Dados pessoais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 157.º — Dados pessoais\n\nOs dados pessoais recolhidos nos termos dos artigos 36.º, 56.º e 57.º estão sujeitos ao regime previsto na Lei n.º 58/2019, de 8 de agosto."
+  },
+  "174875535": {
+   "fragment_id": "174875440",
+   "type": 11,
+   "heading": "Artigo 158.º — Regime de exceção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 158.º — Regime de exceção\n\nAos edifícios onde estão instalados museus credenciados aplica-se o disposto no Decreto-Lei n.º 118/2013, de 20 de agosto, tendo em consideração as exigências específicas de conservação dos bens culturais."
+  },
+  "174875536": {
+   "fragment_id": "174875441",
+   "type": 11,
+   "heading": "Artigo 159.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 159.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte à data da sua publicação.\n\n114739517"
+  }
+ }
+}

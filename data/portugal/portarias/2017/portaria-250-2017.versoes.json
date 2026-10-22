@@ -1,0 +1,109 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107963499:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-107968030",
+ "dre_path": "/dr/detalhe/portaria/250-2017-107963499",
+ "source_lastmod": "2025-01-08",
+ "versions": [
+  {
+   "date": "2017-08-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107956460",
+    "107956461",
+    "107956462",
+    "107956463",
+    "107956464",
+    "107956466",
+    "107956467",
+    "107956468",
+    "107956469",
+    "107956470"
+   ]
+  }
+ ],
+ "fragments": {
+  "107956460": {
+   "fragment_id": "107968031",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 250/2017\n\nde 7 de agosto\n\nO Decreto-Lei n.º 382/99, de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade das águas dessas captações.\n\nOs perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente, por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, ainda, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água proveniente de captações subterrâneas, em situações de poluição acidental destas águas.\n\nTodas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado Decreto-Lei n.º 382/99, de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela Lei n.º 58/2005, de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho.\n\nNa sequência da construção de uma nova captação de águas subterrâneas no polo de captação de Olival e da desativação da captação AC5 do mesmo polo, torna-se necessário, proceder, em conformidade, à alteração da Portaria n.º 348/2013, de 29 de novembro.\n\nAssim, nos termos do n.º 1 do artigo 4.º do Decreto-Lei n.º 382/99, de 22 de setembro, na redação conferida pelo Decreto-Lei n.º 226-A/2007, de 31 de maio, manda o Governo, pelo Secretário de Estado do Ambiente, no uso das competências delegadas pelo Ministro do Ambiente, através da subalínea ii) da alínea d) do n.º 2 do Despacho n.º 489/2016, de 12 de janeiro, publicado no Diário da República, 2.ª série, n.º 7, de 12 de janeiro de 2016, o seguinte:"
+  },
+  "107956461": {
+   "fragment_id": "107968032",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria procede à primeira alteração da Portaria n.º 348/2013, de 29 de novembro, que aprova a delimitação dos perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público localizadas no concelho de Ourém."
+  },
+  "107956462": {
+   "fragment_id": "107968033",
+   "type": 11,
+   "heading": "Artigo 2.º — Alteração da Portaria n.º 348/2013, de 29 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alteração da Portaria n.º 348/2013, de 29 de novembro\n\nO artigo 1.º da Portaria n.º 348/2013, de 29 de novembro, passa a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n1 - [...]\n\na) [...];\n\nb) AC6 e SL2 do polo de captação de Olival;\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...].\n\n2 - [...].»"
+  },
+  "107956463": {
+   "fragment_id": "107968034",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração aos Anexos da Portaria n.º 348/2013, de 29 de novembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração aos Anexos da Portaria n.º 348/2013, de 29 de novembro\n\n1 - O Anexo I da Portaria n.º 348/2013, de 29 de novembro, é alterado em conformidade com as coordenadas das captações previstas na presente portaria, com a redação constante do anexo I à presente portaria, da qual faz parte integrante.\n\n2 - Os Anexos II, III, IV e V da Portaria n.º 348/2013, de 29 de novembro, são alterados em conformidade com as referências relativas aos perímetros de proteção das captações previstos na presente portaria, com a redação constante do anexo II à presente portaria, da qual faz parte integrante."
+  },
+  "107956464": {
+   "fragment_id": "107968035",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "107956466": {
+   "fragment_id": "107968037",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 3.º)\n\n«ANEXO I\n\n[...]\n\n(ver documento original)"
+  },
+  "107956467": {
+   "fragment_id": "107968038",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 3.º)\n\n«ANEXO II\n\n[...]\n\nPolo de captação de Olival\n\nAC6\n\n(ver documento original)\n\nSL2\n\n(ver documento original)"
+  },
+  "107956468": {
+   "fragment_id": "107968039",
+   "type": 14,
+   "heading": "Anexo III — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — [...]\n\nPolo de captação de Olival\n\nAC6 e SL2\n\n(ver documento original)"
+  },
+  "107956469": {
+   "fragment_id": "107968040",
+   "type": 14,
+   "heading": "Anexo IV — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — [...]\n\nPolo de captação de Olival\n\nAC6 e SL2\n\n(ver documento original)\n\nNota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central)."
+  },
+  "107956470": {
+   "fragment_id": "107968041",
+   "type": 14,
+   "heading": "Anexo V — [...]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — [...]\n\nPolo de captação de Olival\n\nAC6 e SL2\n\n(ver documento original)»"
+  }
+ }
+}

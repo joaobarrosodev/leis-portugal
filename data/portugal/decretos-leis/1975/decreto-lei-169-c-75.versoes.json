@@ -1,0 +1,337 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:573958:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1975-183001243",
+ "dre_path": "/dr/detalhe/decreto-lei/169-c-1975-573958",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1975-03-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "182999999",
+    "182894857",
+    "182894858",
+    "182894859",
+    "182894860",
+    "182894861",
+    "182894862",
+    "182894863"
+   ]
+  },
+  {
+   "date": "1976-01-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:355299:por",
+     "title": "Decreto-Lei n.º 760/75",
+     "published": "1975-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/760-1975-355299"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "182894856",
+    "182894857",
+    "182894858",
+    "182999992",
+    "182999993",
+    "182894861",
+    "182894862",
+    "182894863",
+    "182894864"
+   ]
+  },
+  {
+   "date": "1983-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:451843:por",
+     "title": "Decreto-Lei n.º 239/83",
+     "published": "1983-06-09",
+     "dre_path": "/dr/detalhe/decreto-lei/239-1983-451843"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "182894856",
+    "182999995",
+    "182999996",
+    "182999997",
+    "182999998",
+    "182894861",
+    "182894862",
+    "182894863",
+    "182894864"
+   ]
+  },
+  {
+   "date": "2018-05-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115235757:por",
+     "title": "Decreto-Lei n.º 32/2018",
+     "published": "2018-05-08",
+     "dre_path": "/dr/detalhe/decreto-lei/32-2018-115235757"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "182999999",
+    "183000000",
+    "183000001",
+    "183000002",
+    "183000003",
+    "183000004",
+    "183000005",
+    "183000006",
+    "183000007"
+   ]
+  }
+ ],
+ "fragments": {
+  "182999999": {
+   "fragment_id": "183001244",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-05-13",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 169-C/75\n\nde 31 de Março\n\nO Decreto-Lei n.º 759/74, de 30 de Dezembro, extinguiu o Comissariado do Desemprego, criando, no Ministério do Trabalho, na dependência directa do respectivo Ministro, o Gabinete de Gestão do Fundo de Desemprego, ao qual passaram a competir, transitoriamente, todas as atribuições que eram cometidas por lei ao Comissariado do Desemprego;\n\nConsequentemente e conforme o disposto no n.º 2 do artigo 2.º do citado decreto-lei, o Fundo de Desemprego passou para o âmbito do Ministério do Trabalho, pretendendo-se, deste modo, não só uma conexão directa entre os descontos feitos e a aplicação efectiva das verbas globais que constituem o referido Fundo, como ainda a aplicação criteriosa dessas verbas, quer na criação de novos postos de trabalho, quer no pagamento de subsídios, que se pretendem tornar extensivos a trabalhadores desempregados, independentemente do sector em que se enquadram;\n\nConsidera-se, no entanto, que só é possível atingir aqueles objectivos, aliados à necessidade de prossecução pelo Ministério do Trabalho de uma política global de planeamento do mercado de emprego, desde que se proceda à revisão do esquema de contribuições destinadas ao Fundo de Desemprego;\n\nAs características do subsídio de desemprego implicam a extensão do dever de contribuir ao próprio sector agrícola, até agora excluído;\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "182894857": {
+   "fragment_id": "183001245",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA taxa de contribuição para o Fundo de Desemprego a que se refere o artigo 18.º do Decreto-Lei n.º 237/70, de 25 de Maio, é fixada em 3%."
+  },
+  "182894858": {
+   "fragment_id": "183001246",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA quotização a que alude o artigo 2.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963, é fixada em 3%."
+  },
+  "182894859": {
+   "fragment_id": "183001247",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs pessoas, singulares ou colectivas, nacionais ou estrangeiras, que exerçam, em terreno próprio ou alheio, actividade agrícola com fim lucrativo, na qual ocupem um ou mais trabalhadores permanentes, concorrerão, em cada mês, para o Fundo de Desemprego, com 1% das importâncias que despenderem com aqueles trabalhadores em ordenados, salários, vencimentos, gratificações, percentagens, subsídios, prémios, diuturnidades e outras remunerações fixas ou eventuais, em dinheiro, géneros, alimentação, habitação ou por qualquer outro meio."
+  },
+  "182894860": {
+   "fragment_id": "183001248",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs trabalhadores permanentes ao serviço das entidades referidas no artigo anterior contribuirão, em cada mês, para o Fundo de Desemprego, com 0,5% dos ordenados e demais meios de retribuição indicados no mesmo preceito."
+  },
+  "182894861": {
+   "fragment_id": "183001249",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs taxas fixadas neste diploma para as contribuições e quotizações destinadas ao Fundo de Desemprego serão aplicáveis a partir de 1 de Abril de 1975."
+  },
+  "182894862": {
+   "fragment_id": "183001250",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO produto do aumento das contribuições e quotizações a que se refere este decreto-lei destina-se exclusivamente à satisfação dos encargos resultantes do subsídio de desemprego e ao financiamento de acções que visem a criação ou a manutenção de postos de trabalho."
+  },
+  "182894863": {
+   "fragment_id": "183001251",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nFicam revogadas as alíneas d) do artigo 4.º e b) do artigo 5.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963."
+  },
+  "182894856": {
+   "fragment_id": "183001244",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 169-C/75\n\nde 31 de Março\n\nO Decreto-Lei n.º 759/74, de 30 de Dezembro, extinguiu o Comissariado do Desemprego, criando, no Ministério do Trabalho, na dependência directa do respectivo Ministro, o Gabinete de Gestão do Fundo de Desemprego, ao qual passaram a competir, transitoriamente, todas as atribuições que eram cometidas por lei ao Comissariado do Desemprego;\n\nConsequentemente e conforme o disposto no n.º 2 do artigo 2.º do citado decreto-lei, o Fundo de Desemprego passou para o âmbito do Ministério do Trabalho, pretendendo-se, deste modo, não só uma conexão directa entre os descontos feitos e a aplicação efectiva das verbas globais que constituem o referido Fundo, como ainda a aplicação criteriosa dessas verbas, quer na criação de novos postos de trabalho, quer no pagamento de subsídios, que se pretendem tornar extensivos a trabalhadores desempregados, independentemente do sector em que se enquadram;\n\nConsidera-se, no entanto, que só é possível atingir aqueles objectivos, aliados à necessidade de prossecução pelo Ministério do Trabalho de uma política global de planeamento do mercado de emprego, desde que se proceda à revisão do esquema de contribuições destinadas ao Fundo de Desemprego;\n\nAs características do subsídio de desemprego implicam a extensão do dever de contribuir ao próprio sector agrícola, até agora excluído;\n\nNestes termos:\n\nUsando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "182999992": {
+   "fragment_id": "183001247",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1976-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs pessoas singulares ou colectivas, nacionais ou estrangeiras, que exerçam em terreno próprio ou alheio actividade agrícola com fim lucrativo, no qual ocupam um ou mais trabalhadores rurais permanentes, concorrerão em cada mês, para o Fundo de Desemprego, com 1% das importâncias que despenderem com aqueles trabalhadores em ordenados, salários, vencimentos, gratificações, percentagens, subsídios, prémios, diuturnidades e outras remunerações fixas ou eventuais, em dinheiro, géneros, alimentação, habitação ou por qualquer outro meio.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+  },
+  "182999993": {
+   "fragment_id": "183001248",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1976-01-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs trabalhadores rurais permanentes ao serviço das entidades referidas no artigo anterior contribuirão, em cada mês, para o Fundo de Desemprego, com 0,5% dos ordenados e demais meios de retribuição indicados no mesmo preceito.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+  },
+  "182894864": {
+   "fragment_id": "183001252",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Inácio da Costa Martins.\n\nPromulgado em 31 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES."
+  },
+  "182999995": {
+   "fragment_id": "183001245",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1983-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nA taxa de contribuição para o Fundo de Desemprego a que se refere o artigo 18.º do Decreto-Lei n.º 237/70, de 25 de Maio, é fixada em 4%.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+  },
+  "182999996": {
+   "fragment_id": "183001246",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1983-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA quotização a que alude o artigo 2.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963, é fixada em 4%, sendo, no entanto, para os trabalhadores inscritos em caixas de reforma ou previdência, de 3,5%, de conformidade com o regime previsto no § 5.º do artigo 2.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963, com a alteração introduzida pelo artigo 1.º do Decreto-Lei n.º 760/75, de 31 de Dezembro.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+  },
+  "182999997": {
+   "fragment_id": "183001247",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1983-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs pessoas singulares ou colectivas, nacionais ou estrangeiras, que exerçam em terreno próprio ou alheio actividade agrícola com fim lucrativo, no qual ocupam um ou mais trabalhadores rurais permanentes, concorrerão em cada mês, para o Fundo de Desemprego, com 2% das importâncias que despenderem com aqueles trabalhadores em ordenados, salários, vencimentos, gratificações, percentagens, subsídios, prémios, diuturnidades e outras remunerações fixas ou eventuais, em dinheiro, géneros, alimentação, habitação ou por qualquer outro meio.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+  },
+  "182999998": {
+   "fragment_id": "183001248",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1983-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs trabalhadores rurais permanentes ao serviço das entidades referidas no artigo anterior contribuirão, em cada mês, para o Fundo de Desemprego, com 1,5% dos ordenados e demais meios de retribuição indicados no mesmo preceito.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+  },
+  "183000000": {
+   "fragment_id": "183001245",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nA taxa de contribuição para o Fundo de Desemprego a que se refere o artigo 18.º do Decreto-Lei n.º 237/70, de 25 de Maio, é fixada em 4%.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+  },
+  "183000001": {
+   "fragment_id": "183001246",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nA quotização a que alude o artigo 2.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963, é fixada em 4%, sendo, no entanto, para os trabalhadores inscritos em caixas de reforma ou previdência, de 3,5%, de conformidade com o regime previsto no § 5.º do artigo 2.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963, com a alteração introduzida pelo artigo 1.º do Decreto-Lei n.º 760/75, de 31 de Dezembro.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01"
+  },
+  "183000002": {
+   "fragment_id": "183001247",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs pessoas singulares ou colectivas, nacionais ou estrangeiras, que exerçam em terreno próprio ou alheio actividade agrícola com fim lucrativo, no qual ocupam um ou mais trabalhadores rurais permanentes, concorrerão em cada mês, para o Fundo de Desemprego, com 2% das importâncias que despenderem com aqueles trabalhadores em ordenados, salários, vencimentos, gratificações, percentagens, subsídios, prémios, diuturnidades e outras remunerações fixas ou eventuais, em dinheiro, géneros, alimentação, habitação ou por qualquer outro meio.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+  },
+  "183000003": {
+   "fragment_id": "183001248",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs trabalhadores rurais permanentes ao serviço das entidades referidas no artigo anterior contribuirão, em cada mês, para o Fundo de Desemprego, com 1,5% dos ordenados e demais meios de retribuição indicados no mesmo preceito.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 239/83 - Diário da República n.º 132/1983, Série I de 1983-06-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/239-1983-451843), em vigor a partir de 1983-07-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 760/75 - Diário do Governo n.º 300/1975, 3º Suplemento, Série I de 1975-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/760-1975-355299), em vigor a partir de 1976-01-05"
+  },
+  "183000004": {
+   "fragment_id": "183001249",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 5.º\n\nAs taxas fixadas neste diploma para as contribuições e quotizações destinadas ao Fundo de Desemprego serão aplicáveis a partir de 1 de Abril de 1975.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "183000005": {
+   "fragment_id": "183001250",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO produto do aumento das contribuições e quotizações a que se refere este decreto-lei destina-se exclusivamente à satisfação dos encargos resultantes do subsídio de desemprego e ao financiamento de acções que visem a criação ou a manutenção de postos de trabalho.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "183000006": {
+   "fragment_id": "183001251",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "###### Artigo 7.º\n\nFicam revogadas as alíneas d) do artigo 4.º e b) do artigo 5.º do Decreto-Lei n.º 45080, de 20 de Junho de 1963.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  },
+  "183000007": {
+   "fragment_id": "183001252",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-05-13",
+   "changed_by": [
+    "Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - José Inácio da Costa Martins.\n\nPromulgado em 31 de Março de 1975.\n\nPublique-se.\n\nO Presidente da República, FRANCISCO DA COSTA GOMES.\n\n> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 32/2018 - Diário da República n.º 88/2018, Série I de 2018-05-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2018-115235757), em vigor a partir de 2018-05-13"
+  }
+ }
+}

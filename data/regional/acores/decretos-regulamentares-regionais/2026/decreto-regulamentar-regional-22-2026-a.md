@@ -1,0 +1,237 @@
+---
+schema_version: '1.0'
+id: pt:dre:1182979575:por
+title: Decreto Regulamentar Regional n.º 22/2026/A
+short_title: null
+summary: Aprova o regulamento regional de registo e publicitação de atividades de representação legítima de interesses.
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo Regional
+proposing_entity: null
+official_number: 22/2026/A
+official_date: null
+publication_date: '2026-10-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 202/2026, Série I de 2026-10-19
+  number: '202'
+  series: I
+  supplement: null
+  pages: 29 - 33
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/10/20200/0002900033.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/22/2026/10/19/a/dre/pt/html
+  oj: null
+  dre: '1182979575'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/22-2026-1182979575
+  internal: pt:dre:1182979575:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2026-1182979575
+  metadata_url: https://data.dre.pt/eli/decregulreg/22/2026/10/19/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/22-2026-1182979575
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-10-19T00:00:00Z'
+integrity:
+  source_sha256: f054877f00fc560c1a03064c57ad56c50caf597936ea0c98ceffeeb475c8d862
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2026/DRE-2026-22-1182979575.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/declretif/13/2026/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declretif/13/2026/03/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/37-a/2026/07/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/37-a/2026/07/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/5-a/2026/01/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/5-a/2026/01/28/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 22/2026/A
+
+Aprova o regulamento regional de registo e publicitação de atividades de representação legítima de interesses
+
+A [Lei n.º 5-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2026-1028061007), de 28 de janeiro, retificada pela [Declaração de Retificação n.º 13/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2026-1077350806), de 26 de março, aprova regras de transparência aplicáveis à interação entre entidades privadas, nacionais ou estrangeiras, e entidades públicas, que pretendam assegurar representação legítima de interesses, e cria o Registo de Transparência da Representação de Interesses (RTRI), a funcionar junto da Assembleia da República, introduzindo assim, no ordenamento jurídico nacional, um quadro regulador da atividade de representação legítima de interesses.
+
+No âmbito da referida lei, são consideradas entidades públicas os órgãos de governo próprio das regiões autónomas, incluindo os gabinetes dos respetivos membros e, bem assim, os órgãos e os serviços da administração regional autónoma.
+
+A orgânica do RTRI foi aprovada pela [Lei n.º 37-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/37-a-2026-1152763143), de 28 de julho, decorrendo do seu regime transitório que as entidades públicas abrangidas pela [Lei n.º 5-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2026-1028061007), de 28 de janeiro, retificada pela [Declaração de Retificação n.º 13/2026/1](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/13-2026-1077350806), de 26 de março, devem aprovar as normas regulamentares necessárias à definição do procedimento de publicitação das audiências por si concedidas.
+
+O presente diploma visa, assim, regulamentar a atividade transversal de todos os departamentos do Governo Regional, em matéria de transparência nas relações entre entidades públicas e entidades privadas, que exerçam a atividade de representação legítima de interesses.
+
+Assim, nos termos do disposto na alínea a) do n.º 1 do artigo 89.º e no n.º 1 do artigo 91.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente diploma aprova o regulamento regional de registo e publicitação de atividades de representação legítima de interesses, constante do anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Santa Cruz da Graciosa, em 22 de setembro de 2026.
+
+**O Presidente do Governo Regional, José Manuel Cabral Dias Bolieiro.**
+
+**Assinado em Angra do Heroísmo em 14 de outubro de 2026.**
+
+**Publique-se.**
+
+A Representante da República para a Região Autónoma dos Açores, Susana Goulart Costa.
+
+## ANEXO — (a que se refere o artigo 1.º)
+
+Regulamento regional de registo e publicitação de atividades de representação legítima de interesses
+
+###### Artigo 1.º — Objeto
+
+O presente regulamento estabelece as regras de registo e publicitação de atividades de representação legítima de interesses, para cumprimento dos deveres consagrados na [Lei n.º 5-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2026-1028061007), de 28 de janeiro.
+
+###### Artigo 2.º — Âmbito
+
+São abrangidos pelo presente regulamento:
+
+a) Os membros do Governo Regional, incluindo os membros dos respetivos gabinetes;
+
+b) Os órgãos e serviços da administração direta da Região Autónoma dos Açores.
+
+###### Artigo 3.º — Responsável pelo registo
+
+1 - Cabe a cada membro do Governo Regional designar por despacho, no âmbito do respetivo gabinete, um responsável por assegurar o registo de interações.
+
+2 - Sem prejuízo do disposto no artigo 2.º da [Lei n.º 5-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2026-1028061007), de 28 de janeiro, consideram-se interações, para efeitos do presente regulamento, os contactos entre as entidades referidas no artigo anterior e representantes de interesses, efetuados sob qualquer forma, incluindo o envio de correspondência ou material informativo, a organização de eventos, reuniões e conferências, bem como a participação em consultas sobre propostas legislativas, regulamentares, ou outros atos normativos.
+
+3 - Compete ao responsável designado nos termos do n.º 1:
+
+a) Verificar, previamente ao agendamento de qualquer audiência, a regularidade da inscrição do representante de interesses no Registo de Transparência da Representação de Interesses (RTRI);
+
+b) Assegurar o registo das interações do respetivo membro do Governo Regional, ou do seu gabinete, na plataforma eletrónica referida no n.º 2 do artigo seguinte, que sejam de registo obrigatório nos termos da lei;
+
+c) Identificar um ponto focal responsável pelo registo em cada um dos órgãos ou serviços integrados na respetiva área de tutela.
+
+4 - No prazo máximo de 15 dias após a entrada em vigor do presente regulamento, ou após qualquer alteração das designações efetuadas ao abrigo dos números anteriores, os departamentos do Governo Regional comunicam ao Gabinete de Prevenção da Corrupção e da Transparência a identificação dos responsáveis pelo registo, bem como dos respetivos pontos focais dos órgãos e serviços integrados na sua área de tutela.
+
+###### Artigo 4.º — Conteúdo do registo
+
+1 - O registo das interações a que se refere o n.º 2 do artigo anterior inclui:
+
+a) A data da interação;
+
+b) O tipo de interação;
+
+c) A identificação do representante de interesses;
+
+d) O número de inscrição no RTRI;
+
+e) A identificação da entidade cujo interesse é representado, nos casos em que a representação não seja feita em nome próprio;
+
+f) A indicação sumária do objeto da interação;
+
+g) Identificação do diploma legal objeto da consulta ou interação, sempre que estas tenham por destinatário órgão com competência regulamentar ou dotado de direito de iniciativa legislativa, e essa consulta ou interação tenham ocorrido na fase preparatória.
+
+2 - O registo das interações é feito em plataforma eletrónica disponibilizada para o efeito pela Presidência do Governo Regional.
+
+3 - O formulário a que se refere o n.º 1 do artigo 10.º da [Lei n.º 5-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2026-1028061007), de 28 de janeiro, é o formulário eletrónico disponibilizado na plataforma referida no número anterior, com o conteúdo mínimo previsto no n.º 1 do presente artigo.
+
+4 - As atuações e os elementos remetidos pelas entidades sujeitas a registo, devem ser identificadas na documentação instrutória dos procedimentos decisórios em causa.
+
+###### Artigo 5.º — Retificação e atualização dos registos
+
+1 - Os registos efetuados nos termos do presente regulamento podem ser retificados ou atualizados pelo responsável pelo registo sempre que se verifique a existência de erro material, omissão ou inexatidão.
+
+2 - As alterações efetuadas devem ficar registadas na plataforma eletrónica, com indicação da data da alteração e do respetivo fundamento.
+
+3 - As entidades cujas interações tenham sido objeto de registo ou publicitação podem requerer a correção de informações inexatas, mediante pedido fundamentado dirigido ao responsável pelo registo.
+
+4 - Quando a retificação incida sobre informação já divulgada publicamente, deve ser assegurada a correspondente atualização da informação publicitada.
+
+5 - A retificação ou atualização dos registos não prejudica a conservação do histórico das alterações efetuadas.
+
+###### Artigo 6.º — Dever de colaboração do representante de interesses
+
+1 - O representante de interesses inscrito no RTRI que interaja com membros do Governo Regional ou dos respetivos gabinetes, nos termos da [Lei n.º 5-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2026-1028061007), de 28 de janeiro, deve indicar previamente, sempre que solicite uma audiência:
+
+a) O respetivo número de inscrição no RTRI;
+
+b) A entidade cujo interesse representa, nos casos em que a representação não seja feita em nome próprio;
+
+c) O objeto da audiência solicitada.
+
+2 - Sem prejuízo dos direitos de participação previstos na Constituição da República Portuguesa e na lei, a falta de inscrição regular no RTRI obsta ao agendamento e à realização da audiência.
+
+3 - Nos casos em que a interação envolva o envio de documentos, em suporte físico ou eletrónico, em que o remetente não faculte as informações referidas no n.º 1, os documentos não são considerados no procedimento de decisão.
+
+###### Artigo 7.º — Publicitação das interações
+
+1 - Sem prejuízo do disposto no número seguinte, a listagem de audiências de cada entidade referida no artigo 2.º, é divulgada publicamente, por departamento, com periodicidade trimestral, até ao décimo quinto dia do mês seguinte ao termo de cada trimestre, através da interoperabilidade entre a plataforma eletrónica referida no n.º 2 do artigo 4.º e o Portal da Transparência.
+
+2 - Todas as consultas ou interações, que tenham por destinatário órgão com competência regulamentar ou dotado de direito de iniciativa legislativa e que tenham ocorrido na fase preparatória, são divulgadas, no final do respetivo procedimento, pelo departamento proponente, no respetivo sítio do Portal do Governo Regional dos Açores.
+
+3 - Para efeitos do número anterior, compete ao responsável pelo registo no gabinete do membro do Governo Regional proponente do ato em causa a identificação das consultas ou interações no final do procedimento, através da plataforma eletrónica referida no n.º 2 do artigo 4.º
+
+###### Artigo 8.º — Exclusões de publicitação
+
+1 - Não são objeto de publicitação, nos termos previstos no n.º 1 do artigo anterior, as interações cujo conteúdo, direta ou indiretamente, envolva matérias:
+
+a) Sujeitas a segredo de Estado, de justiça ou comercial;
+
+b) Sujeitas a restrições decorrentes do regime jurídico da proteção de dados pessoais ou outros regimes de proteção aplicáveis;
+
+c) Que possam colocar em risco a segurança nacional, a ordem pública ou os direitos fundamentais dos cidadãos.
+
+2 - As exclusões previstas no número anterior não dispensam o registo sumário da interação na plataforma eletrónica, devendo o respetivo campo de publicitação ser assinalado como reservado, com indicação do fundamento legal aplicável.
+
+###### Artigo 9.º — Direito de queixa
+
+Para efeitos do exercício do direito de queixa e respetivo acompanhamento previsto no artigo 11.º da [Lei n.º 5-A/2026](https://diariodarepublica.pt/dr/detalhe/lei/5-a-2026-1028061007), de 28 de janeiro, e respetivo acompanhamento, é disponibilizado um endereço de correio eletrónico através do Portal do Governo Regional dos Açores.
+
+###### Artigo 10.º — Regime transitório
+
+1 - Até à plena operacionalização do RTRI, e da plataforma eletrónica referida no n.º 2 do artigo 4.º, os responsáveis designados nos termos do artigo 3.º mantêm, com as devidas adaptações, um registo provisório e atualizado de todos os representantes de interesses e de todas as interações, promovendo a sua divulgação trimestral através da entidade gestora do Portal da Transparência.
+
+2 - O modelo de registo provisório referido no número anterior é aprovado por despacho do Presidente do Governo Regional.

@@ -1,0 +1,216 @@
+---
+schema_version: '1.0'
+id: pt:dre:621570:por
+title: Despacho Normativo n.º 69/91
+short_title: null
+summary: Regulamenta os encargos com formadores, para efeitos de co-financiamento pelo Fundo Social Europeu (FSE). Revoga
+  o Despacho Normativo n.º 88/89, de 12 de Setembro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Emprego e da Segurança Social
+proposing_entity: null
+official_number: 69/91
+official_date: null
+publication_date: '1991-03-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 70/1991, Série I-B de 1991-03-25
+  number: '70'
+  series: I
+  supplement: null
+  pages: 1563 - 1565
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/03/070b00/15631565.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/69/1991/03/25/p/dre/pt/html
+  oj: null
+  dre: '621570'
+  dre_path: /dr/detalhe/despacho-normativo/69-1991-621570
+  internal: pt:dre:621570:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1991-621570
+  metadata_url: https://data.dre.pt/eli/despnorm/69/1991/03/25/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/69-1991-621570
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-03-25T00:00:00Z'
+integrity:
+  source_sha256: 0538467fbd61d2805e979bec2aabc989aba6d7879812296295734900bb2c7710
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-69-621570.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- FSE
+- Pessoal Docente
+- Remuneração
+relationships: []
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 69/91
+
+O [Despacho Normativo n.º 88/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/88-1989-547456), de 12 de Setembro, estabelecia os valores máximos das remunerações dos formadores em acções de formação profissional co-financiáveis no âmbito do Fundo Social Europeu.
+
+A experiência adquirida durante a vigência do referido despacho normativo e a auscultação efectuada a parceiros sociais e a outras entidades com responsabilidades nesta matéria levaram à introdução de algumas alterações, que clarificam e aperfeiçoam o regime de apoio à formação profissional, com incidência nos custos com formadores.
+
+Procedeu-se, nomeadamente, a uma mais nítida distinção entre a formação teórica e a formação prática, considerou-se a formação efectuada no posto de trabalho, explicitou-se que aos valores máximos do custo horário respeitantes a formadores externos acresce o imposto sobre o valor acrescentado, sempre que for devido, conferiu-se prioridade à formação de formadores e procedeu-se à redução do número de escalões da tabela de custos com formadores externos.
+
+O presente despacho normativo contém o conjunto das medidas relativas aos custos com a actividade dos formadores, ficando revogado o [Despacho Normativo n.º 88/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/88-1989-547456).
+
+Assim, tendo em conta as atribuições cometidas ao Instituto do Emprego e Formação Profissional e ao Departamento para os Assuntos do Fundo Social Europeu pelos Decretos-Leis, respectivamente, n.os 247/85, de 12 de Julho, e 37/91, de 18 de Janeiro, determina-se:
+
+###### Artigo 1.º — Objecto
+
+O presente despacho normativo tem por objecto estabelecer os valores máximos dos custos com formadores que podem ser co-financiados no âmbito do Fundo Social Europeu.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entende-se por:
+
+a) Formador interno - aquele que tem vínculo laboral à entidade promotora da acção de formação;
+
+b) Formador externo - aquele que não tem vínculo laboral à entidade promotora da acção de formação;
+
+c) Formador permanente - aquele que desempenha as funções de formador como actividade principal;
+
+d) Formador eventual - aquele que desempenha as funções de formador como actividade de carácter secundário ou eventual;
+
+e) Formação teórica - aquela que é realizada em sala, sob a orientação de um formador, e com um conteúdo predominantemente informativo/formativo, visando a aquisição e aplicação de saberes;
+
+f) Formação prática - aquela que é realizada em oficina, laboratório ou outro local que permita o ensaio ou a experiência de técnicas, equipamentos e materiais, sob a orientação de um formador, visando fundamentalmente o treino e desenvolvimento de competências, em situação simulada ou próxima da real;
+
+g) Formação no posto de trabalho - aquela que é realizada em contexto real de trabalho, com o acompanhamento de um formador interno, visando a consolidação das competências adquiridas durante a formação teórica ou prática.
+
+###### Artigo 3.º — Formadores externos
+
+1 - Os valores máximos do custo horário, respeitantes a formadores externos, segundo a estrutura dos níveis de formação da CEE, são os constantes do anexo I a este diploma, acrescidos do imposto sobre o valor acrescentado (IVA), sempre que devido.
+
+2 - A estrutura dos níveis de formação da CEE a que se refere o número anterior encontra-se definida pela decisão do Conselho das Comunidades de 16 de Julho de 1985 e consta do anexo II a este diploma.
+
+###### Artigo 4.º — Formadores internos
+
+1 - Os valores máximos do custo horário respeitantes a formadores internos permanentes não podem exceder a remuneração a que esses formadores tenham direito por força da sua relação laboral com a entidade promotora.
+
+2 - Os valores máximos do custo horário respeitantes a formadores internos eventuais não podem exceder, para além da sua remuneração base, 50% do valor fixado na tabela do anexo II para níveis de formação idênticos, acrescidos dos descontos sociais obrigatórios.
+
+3 - Os valores máximos do custo horário respeitantes a formadores que acompanham a formação no posto de trabalho não podem exceder, para além da sua remuneração base, 20% do valor fixado na tabela do anexo I para a formação prática, acrescidos dos descontos sociais obrigatórios.
+
+4 - É fixado em 300 horas por ano civil o número máximo de horas de formação, teórica e prática, que pode ser considerado relativamente a cada formador interno eventual.
+
+5 - É fixado em 500 horas por ano civil o número máximo de horas de formação no posto de trabalho que pode ser considerado relativamente a cada formador interno eventual.
+
+###### Artigo 5.º — Formação de formadores
+
+Os valores máximos do custo horário respeitantes a formação de formadores serão reportados ao nível 5 da tabela do anexo I.
+
+###### Artigo 6.º — Preparação das sessões de formação
+
+1 - Nos custos máximos co-financiáveis respeitantes a formadores consideram-se abrangidos os encargos com a preparação das sessões de formação e com a avaliação dos formandos.
+
+2 - Os custos com a elaboração de documentação e manuais a fornecer aos formandos podem ser co-financiados, para além dos montantes máximos constantes da tabela do anexo I, desde que devidamente justificados.
+
+###### Artigo 7.º — Outros custos
+
+1 - Para além dos custos referidos nos artigos anteriores, poderão ainda ser co-financiados os encargos com alojamento, alimentação e transporte dos formadores decorrentes das acções de formação.
+
+2 - O co-financiamento dos encargos com alojamento e alimentação dos formadores obedecerá às regras e montantes fixados para atribuição de ajudas de custo a funcionários e agentes da Administração Pública com remuneração superior ao índice 405 do respectivo sistema retributivo.
+
+3 - O co-financiamento dos encargos com o transporte dos formadores obedecerá às regras estabelecidas para idênticas despesas de funcionários e agentes da Administração Pública.
+
+###### Artigo 8.º — Fixação de montantes superiores
+
+Em situações excepcionais, designadamente quando haja necessidade de recorrer a formadores estrangeiros ou haja dificuldade em recrutar formadores em áreas de formação muito específicas, poderá o Ministro do Emprego e da Segurança Social autorizar o co-financiamento de montantes superiores aos previstos no presente diploma.
+
+###### Artigo 9.º — Adaptações
+
+Os Governos Regionais dos Açores e da Madeira poderão introduzir as adaptações consideradas necessárias à aplicação do presente diploma às acções de formação profissional realizadas nas respectivas Regiões.
+
+###### Artigo 10.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+2 - Em relação às acções em curso na data referida no n.º 1 poderão as entidades promotoras actualizar os montantes anteriormente aprovados no que respeita à parte a executar a partir da entrada em vigor do presente despacho normativo.
+
+###### Artigo 11.º — Revogação
+
+É revogado o [Despacho Normativo n.º 88/89](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/88-1989-547456), publicado no Diário da República, 1.ª série, n.º 210, de 12 de Setembro de 1989.
+
+Secretaria de Estado do Emprego e Formação Profissional, 25 de Fevereiro de 1991. - O Secretário de Estado do Emprego e Formação Profissional, António José de Castro Bagão Félix.
+
+## ANEXO I — Valores máximos do custo horário respeitante a formadores externos co-financiáveis no âmbito Fundo Social Europeu
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1991/03/070b00/15631565.pdf))](https://files.diariodarepublica.pt/1s/1991/03/070b00/15631565.pdf)
+
+## ANEXO II — Estrutura dos níveis de formação da CEE
+
+Nível 1
+
+Formação de acesso a este nível: escolaridade obrigatória e iniciação profissional
+
+Essa iniciação profissional é adquirida quer num estabelecimento escolar, quer no âmbito de estruturas de formação extra-escolares, quer na empresa. A quantidade de conhecimentos técnicos e de capacidades práticas é muito limitada.
+
+Essa formação deve permitir principalmente a execução de um trabalho relativamente simples, podendo a sua aquisição ser bastante rápida.
+
+Nível 2
+
+Formação de acesso a este nível: escolaridade obrigatória e formação profissional (incluindo, nomeadamente, a aprendizagem)
+
+Esse nível corresponde a uma qualificação completa para o exercício de uma actividade bem determinada, com a capacidade de utilizar os instrumentos e técnica com ela relacionados.
+
+Esta actividade respeita principalmente a um trabalho de execução, que pode ser autónomo no limite das técnicas que lhe dizem respeito.
+
+Nível 3
+
+Formação de acesso a este nível: escolaridade obrigatória e ou formação profissional e formação técnica complementar ou formação técnica escolar ou outra de nível secundário.
+
+Esta formação implica mais conhecimentos técnicos que o nível 2. Esta actividade respeita principalmente a um trabalho técnico que pode ser executado de uma forma autónoma e ou incluir responsabilidades de enquadramento e de coordenação.
+
+Nível 4
+
+Formação de acesso a este nível: formação secundária (geral ou profissional) e formação técnica pós-secundária
+
+Esta formação técnica de alto nível é adquirida no âmbito de instituições escolares ou fora dele. A qualificação resultante desta formação inclui conhecimentos e capacidades que pertencem ao nível superior. Não exige, em geral, o domínio dos fundamentos científicos das diferentes áreas em causa. Estas capacidades e conhecimentos permitem assumir, de forma geralmente autónoma ou de forma independente, responsabilidades de concepção e ou de direcção e ou de gestão.
+
+Nível 5
+
+Formação de acesso a este nível: formação secundária (geral ou profissional) e formação superior completa
+
+Esta formação conduz geralmente à autonomia no exercício da actividade profissional (assalariada ou independente) que implica o domínio dos fundamentos científicos da profissão. As qualificações exigidas para exercer uma actividade profissional podem ser integradas nesses diferentes níveis.

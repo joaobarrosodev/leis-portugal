@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:200525491:por
+title: Declaração de Retificação n.º 763/2022
+short_title: null
+summary: Retificação do Edital n.º 1046/2022, publicado no Diário da República, 2.ª série, n.º 140, de 21 de julho de 2022
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Instituto Politécnico de Leiria
+proposing_entity: null
+official_number: 763/2022
+official_date: null
+publication_date: '2022-09-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 169/2022, Série II de 2022-09-01
+  number: '169'
+  series: II
+  supplement: null
+  pages: 316 - 317
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/09/169000000/0031600317.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '200525491'
+  dre_path: /dr/detalhe/declaracao-retificacao/763-2022-200525491
+  internal: pt:dre:200525491:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/763-2022-200525491
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/763-2022-200525491
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-09-01T00:00:00Z'
+integrity:
+  source_sha256: e31cb0a5c479a8b65490e25fada2d071b95b86da9cd1353062d60f12a856c245
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-763-200525491.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 763/2022
+
+Por ter sido publicado com inexatidão o [Edital n.º 1046/2022](https://diariodarepublica.pt/dr/detalhe/edital/1046-2022-186429410) no Diário da República, 2.ª série, n.º 140, de 21 de julho de 2022, referente à abertura de concurso documental para recrutamento de um professor adjunto para a área científica de Tradução, especialidade de Inglês, da Escola Superior de Educação e Ciências Sociais do Politécnico de Leiria, é objeto de retificação nos seguintes termos:
+
+1 - No ponto 6.3 do edital, onde se lê:
+
+«6.3 - O candidato deverá fazer acompanhar o seu requerimento dos seguintes documentos, devidamente numerados e identificados:
+
+a) Documentos comprovativos do preenchimento dos requisitos enunciados no ponto 5.1 do presente edital, ficando, todavia, os candidatos dispensados de os apresentar, desde que declarem, no requerimento de admissão (formulário), sob compromisso de honra, que satisfazem tais requisitos. Os documentos comprovativos das situações declaradas têm de ser entregues pelo candidato que preencher o lugar posto a concurso;
+
+b) Cópia dos certificados comprovativos da titularidade de grau académico e do título de especialista, nos termos do ponto 5.2 do edital;
+
+c) Documentos comprovativos do preenchimento das condições fixadas no ponto 5.3 deste edital, se aplicável;
+
+d) 1 exemplar do respetivo curriculum vitae, devidamente datado e assinado, bem como 1 exemplar dos documentos comprovativos dos factos nele indicados, que deverão ser, obrigatoriamente, organizados de acordo com os critérios de seleção e seriação e sistema de avaliação e classificação final constantes do ponto 7 deste edital;
+
+e) 1 exemplar do projeto de desenvolvimento científico, a elaborar pelo candidato, alinhado com a missão da ESECS do Politécnico de Leiria e das unidades de investigação que a ESECS - Politécnico de Leiria integram formalmente, com intervenção na área científica do concurso (PDC);
+
+f) 1 exemplar do projeto de desenvolvimento pedagógico, a elaborar pelo candidato, alinhado com a missão da ESECS do Politécnico de Leiria e orientado para o desenvolvimento da atividade formativa e da inovação no processo de ensino-aprendizagem (PDP);
+
+g) Listagem em formato não editável que contenha a identificação exata de todos os documentos submetidos (índice ou lista com o nome de cada documento pela ordem em que são apresentados), em conformidade com os critérios de seleção e seriação e sistema de avaliação e classificação final constantes do ponto 7 deste edital.»
+
+deve ler-se:
+
+«6.3 - O candidato deverá fazer acompanhar o seu requerimento dos seguintes documentos, devidamente numerados e identificados:
+
+a) Documentos comprovativos do preenchimento dos requisitos enunciados no ponto 5.1 do presente edital, ficando, todavia, os candidatos dispensados de os apresentar, desde que declarem, no requerimento de admissão (formulário), sob compromisso de honra, que satisfazem tais requisitos. Os documentos comprovativos das situações declaradas têm de ser entregues pelo candidato que preencher o lugar posto a concurso;
+
+b) Cópia dos certificados comprovativos da titularidade de grau académico e do título de especialista, nos termos do ponto 5.2 do edital;
+
+c) Documentos comprovativos do preenchimento das condições fixadas no ponto 5.3 deste edital, se aplicável;
+
+d) 1 exemplar do respetivo curriculum vitae, devidamente datado e assinado, bem como 1 exemplar dos documentos comprovativos dos factos nele indicados, que deverão ser, obrigatoriamente, organizados de acordo com os critérios de seleção e seriação e sistema de avaliação e classificação final constantes do ponto 7 deste edital;
+
+e) 1 exemplar do projeto de desenvolvimento científico, a elaborar pelo candidato, alinhado com a missão da ESECS do Politécnico de Leiria e das unidades de investigação que a ESECS - Politécnico de Leiria integram formalmente, com intervenção na área científica do concurso (PDC);
+
+f) Listagem em formato não editável que contenha a identificação exata de todos os documentos submetidos (índice ou lista com o nome de cada documento pela ordem em que são apresentados), em conformidade com os critérios de seleção e seriação e sistema de avaliação e classificação final constantes do ponto 7 deste edital.»
+
+23 de agosto de 2022. - O Presidente, Rui Filipe Pinto Pedrosa.

@@ -1,0 +1,94 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:132133789:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-conselho-ministros/2020-212137622",
+ "dre_path": "/dr/detalhe/resolucao-conselho-ministros/31-2020-132133789",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "904363196"
+   ]
+  },
+  {
+   "date": "2023-04-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:212137683:por",
+     "title": "Resolução do Conselho de Ministros n.º 34-B/2023",
+     "published": "2023-04-20",
+     "dre_path": "/dr/detalhe/resolucao-conselho-ministros/34-b-2023-212137683"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "212123840",
+    "212123833"
+   ]
+  },
+  {
+   "date": "2023-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:835994077:por",
+     "title": "Decreto-Lei n.º 139-A/2023",
+     "published": "2023-12-29",
+     "dre_path": "/dr/detalhe/decreto-lei/139-a-2023-835994077"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "904363196",
+    "904363197"
+   ]
+  }
+ ],
+ "fragments": {
+  "904363196": {
+   "fragment_id": "212137623",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-12-30",
+   "changed_by": [],
+   "markdown": "Resolução do Conselho de Ministros n.º 31/2020\n\nSumário: Cria a Estrutura de Missão Portugal Digital.\n\nO Programa do XXII Governo Constitucional considera a transição digital um dos instrumentos essenciais da estratégia de desenvolvimento do País.\n\nO novo enquadramento institucional em matéria de transformação digital, e a operacionalização e implementação das medidas previstas no Plano de Ação para a Transição Digital justificam a criação de uma Estrutura de Missão que tem como objetivo a coordenação e operacionalização das ações, medidas e iniciativas que são identificadas como prioritárias. Para além disso, a esta Estrutura de Missão cabe também a correta conjugação e articulação das diferentes áreas de atuação identificadas no Plano de Ação para a Transição Digital, bem como assegurar o envolvimento de todas as entidades da Administração Pública relevantes para a implementação das medidas.\n\nA Estrutura de Missão deve assegurar a gestão e operacionalização das estratégias integradas para o desenvolvimento de competências digitais que se encontram definidas no Programa «Iniciativa Nacional Competências Digitais e.2030, Portugal INCoDe.2030», aprovado pela Resolução do Conselho de Ministros n.º 26/2018, de 8 de março, enquanto iniciativa integrada de política pública dedicada ao reforço de competências digitais, devendo manter-se como quadro de referência nesta matéria, mas conhecer um novo impulso do ponto de vista da materialização dos objetivos e das metas fixadas. É este novo impulso que se pretende que seja dado pela Estrutura de Missão criada através da presente resolução.\n\nAssim:\n\nNos termos do n.º 1 do artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Criar a Estrutura de Missão Portugal Digital, adiante designada por Portugal Digital, enquanto estrutura técnica de acompanhamento das medidas de execução do Programa do Governo relativas à transição digital e de apoio à coordenação das políticas públicas em matéria de transformação digital da sociedade e da economia.\n\n2 - Determinar que a Portugal Digital fica na dependência do Ministro de Estado, da Economia e da Transição Digital.\n\n3 - Fixar como objetivos da Portugal Digital:\n\na) O apoio à coordenação global do Plano de Ação para a Transição Digital e a respetiva articulação com programas e iniciativas existentes;\n\nb) O acompanhamento da concretização dos objetivos estratégicos definidos no Plano de Ação para a Transição Digital;\n\nc) A comunicação e promoção do Plano de Ação Portugal Digital, a nível nacional e internacional;\n\nd) A dinamização das iniciativas de articulação das políticas públicas em matéria de transição digital com as diferentes entidades públicas e privadas que prossigam ou sejam por elas afetadas;\n\ne) O acompanhamento e monitorização das medidas que compõem os diversos pilares e catalisadores do Plano de Ação Portugal Digital;\n\nf) A prática de todos os atos necessários à prossecução da missão que lhe é conferida e à concretização dos objetivos fixados, bem como o exercício das competências que lhe venham a ser delegadas.\n\n4 - Prever que a Portugal Digital se pode candidatar a fundos, nacionais ou da União Europeia.\n\n5 - Determinar que a Portugal Digital é dirigida por um diretor executivo, com estatuto remuneratório equivalente ao vencimento mensal ao de presidente de empresa do grupo B, nos termos da tabela de remunerações dos gestores públicos aplicável.\n\n6 - Prever que, para a operacionalização da sua missão, a Portugal Digital pode recrutar um número máximo de oito técnicos, cujo exercício de funções pode efetuar-se ao abrigo dos seguintes regimes, nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e demais legislação aplicável:\n\na) Mobilidade;\n\nb) Contrato de trabalho a termo resolutivo certo ou incerto;\n\nc) Cedência de interesse público.\n\n7 - Determinar que a remuneração dos técnicos referidos no número anterior é fixada entre os níveis 30 a 70 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante a experiência e conhecimento dos respetivos membros.\n\n8 - Determinar que compete ao diretor executivo estabelecer as funções dos técnicos que prestam serviço na Portugal Digital e atribuir-lhes tarefas concretas e, em geral, superintender na respetiva atividade.\n\n9 - Estipular que o exercício de funções no âmbito da Portugal Digital não conduz à constituição de vínculos de emprego público por tempo indeterminado, nem acarreta o preenchimento de postos de trabalho dos mapas de pessoal de qualquer serviço ou organismo da Administração Pública, e caduca automática e necessariamente na data de extinção da Portugal Digital.\n\n10 - Determinar que o diretor executivo e demais elementos da Portugal Digital estão sujeitos aos deveres que impendem sobre os membros dos gabinetes, nos termos do Decreto-Lei n.º 11/2012, de 20 de janeiro, sem prejuízo da sua sujeição a outros deveres decorrentes do regime contratual aplicável.\n\n11 - Determinar que os elementos da Portugal Digital:\n\na) Exercem funções com isenção de horário de trabalho, sem qualquer suplemento remuneratório;\n\nb) Têm direito a ajudas de custo e de deslocação, nos termos previstos nas disposições legais em vigor para os trabalhadores em funções públicas, sempre que se desloquem em missão de serviço público.\n\n12 - Determinar que, junto da Portugal Digital, funciona um Conselho Interministerial de Coordenação composto por sete membros designados, cada um, por cada um dos membros do Governo identificados no n.º 1 do artigo 12.º do regime da organização e funcionamento do XXII Governo Constitucional, aprovado pelo Decreto-Lei n.º 169-B/2019, de 3 de dezembro.\n\n13 - Determinar que o Conselho Interministerial de Coordenação assegura o acompanhamento do Plano de Ação para a Transição Digital e a coordenação geral da execução dos diferentes programas e medidas que o integra.\n\n14 - Determinar que o Conselho Interministerial de Coordenação reúne ordinariamente uma vez por mês e, extraordinariamente, sempre que for convocado pelo diretor executivo da Portugal Digital, ao qual compete dirigir as reuniões do Conselho Interministerial de Coordenação e fixar a respetiva agenda.\n\n15 - Determinar que os elementos que integram a composição do Conselho Interministerial de Coordenação não auferem qualquer remuneração ou abono pelo exercício das funções.\n\n16 - Determinar que pode ser constituído, por despacho do Ministro de Estado, da Economia e da Transição Digital, um observatório para avaliação da execução do Plano de Ação para a Transição Digital, constituído por pessoas singulares ou representantes de entidades públicas ou privadas, de âmbito nacional ou internacional, que sejam relevantes em função dos temas a apreciar.\n\n17 - Determinar que a Portugal Digital é apoiada no seu funcionamento e na gestão e operacionalização do Plano de Ação para a Transição Digital nas vertentes administrativa, jurídica e logística pela Secretaria-Geral do Ministério da Economia.\n\n18 - Determinar que os encargos orçamentais decorrentes da criação e funcionamento da Portugal Digital são suportados pelo orçamento da Secretaria-Geral do Ministério da Economia.\n\n19 - Estabelecer que o mandato da Portugal Digital tem a duração de quatro anos.\n\n20 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.\n\n> Nota: [Artigo 2.º, Decreto-Lei n.º 139-A/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-2023-835994077) O Decreto-Lei n.º 139-A/2023, de 29 de dezembro determina, com efeitos a partir de 31 de dezembro de 2023, a extinção da Estrutura de Missão Portugal Digital. Sucedem-lhe nas atribuições e competências, a Agência para a Modernização Administrativa, I. P."
+  },
+  "212123840": {
+   "fragment_id": "212137623",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-04-21",
+   "changed_by": [
+    "Alterado pelo/a [Resolução do Conselho de Ministros n.º 34-B/2023 - Diário da República n.º 78/2023, 1º Suplemento, Série I de 2023-04-20](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-b-2023-212137683), em vigor a partir de 2023-04-21"
+   ],
+   "markdown": "Resolução do Conselho de Ministros n.º 31/2020\n\nSumário: Cria a Estrutura de Missão Portugal Digital.\n\nO Programa do XXII Governo Constitucional considera a transição digital um dos instrumentos essenciais da estratégia de desenvolvimento do País.\n\nO novo enquadramento institucional em matéria de transformação digital, e a operacionalização e implementação das medidas previstas no Plano de Ação para a Transição Digital justificam a criação de uma Estrutura de Missão que tem como objetivo a coordenação e operacionalização das ações, medidas e iniciativas que são identificadas como prioritárias. Para além disso, a esta Estrutura de Missão cabe também a correta conjugação e articulação das diferentes áreas de atuação identificadas no Plano de Ação para a Transição Digital, bem como assegurar o envolvimento de todas as entidades da Administração Pública relevantes para a implementação das medidas.\n\nA Estrutura de Missão deve assegurar a gestão e operacionalização das estratégias integradas para o desenvolvimento de competências digitais que se encontram definidas no Programa «Iniciativa Nacional Competências Digitais e.2030, Portugal INCoDe.2030», aprovado pela Resolução do Conselho de Ministros n.º 26/2018, de 8 de março, enquanto iniciativa integrada de política pública dedicada ao reforço de competências digitais, devendo manter-se como quadro de referência nesta matéria, mas conhecer um novo impulso do ponto de vista da materialização dos objetivos e das metas fixadas. É este novo impulso que se pretende que seja dado pela Estrutura de Missão criada através da presente resolução.\n\nAssim:\n\nNos termos do n.º 1 do artigo 28.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:\n\n1 - Criar a Estrutura de Missão Portugal Digital, adiante designada por Portugal Digital, enquanto estrutura técnica de acompanhamento das medidas de execução do Programa do Governo relativas à transição digital e de apoio à coordenação das políticas públicas em matéria de transformação digital da sociedade e da economia.\n\n2 - Determinar que a Portugal Digital fica na dependência do Ministro de Estado, da Economia e da Transição Digital.\n\n3 - Fixar como objetivos da Portugal Digital:\n\na) O apoio à coordenação global do Plano de Ação para a Transição Digital e a respetiva articulação com programas e iniciativas existentes;\n\nb) O acompanhamento da concretização dos objetivos estratégicos definidos no Plano de Ação para a Transição Digital;\n\nc) A comunicação e promoção do Plano de Ação Portugal Digital, a nível nacional e internacional;\n\nd) A dinamização das iniciativas de articulação das políticas públicas em matéria de transição digital com as diferentes entidades públicas e privadas que prossigam ou sejam por elas afetadas;\n\ne) O acompanhamento e monitorização das medidas que compõem os diversos pilares e catalisadores do Plano de Ação Portugal Digital;\n\nf) A prática de todos os atos necessários à prossecução da missão que lhe é conferida e à concretização dos objetivos fixados, bem como o exercício das competências que lhe venham a ser delegadas.\n\n4 - Prever que a Portugal Digital se pode candidatar a fundos, nacionais ou da União Europeia.\n\n5 - Determinar que a Portugal Digital é dirigida por um diretor executivo, com estatuto remuneratório equivalente ao vencimento mensal ao de presidente de empresa do grupo B, nos termos da tabela de remunerações dos gestores públicos aplicável.\n\n6 - Prever que, para a operacionalização da sua missão, a Portugal Digital pode recrutar um número máximo de oito técnicos, cujo exercício de funções pode efetuar-se ao abrigo dos seguintes regimes, nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e demais legislação aplicável:\n\na) Mobilidade;\n\nb) Contrato de trabalho a termo resolutivo certo ou incerto;\n\nc) Cedência de interesse público.\n\n7 - Determinar que a remuneração dos técnicos referidos no número anterior é fixada entre os níveis 30 a 70 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante a experiência e conhecimento dos respetivos membros.\n\n8 - Determinar que compete ao diretor executivo estabelecer as funções dos técnicos que prestam serviço na Portugal Digital e atribuir-lhes tarefas concretas e, em geral, superintender na respetiva atividade.\n\n9 - Estipular que o exercício de funções no âmbito da Portugal Digital não conduz à constituição de vínculos de emprego público por tempo indeterminado, nem acarreta o preenchimento de postos de trabalho dos mapas de pessoal de qualquer serviço ou organismo da Administração Pública, e caduca automática e necessariamente na data de extinção da Portugal Digital.\n\n10 - Determinar que o diretor executivo e demais elementos da Portugal Digital estão sujeitos aos deveres que impendem sobre os membros dos gabinetes, nos termos do Decreto-Lei n.º 11/2012, de 20 de janeiro, sem prejuízo da sua sujeição a outros deveres decorrentes do regime contratual aplicável.\n\n11 - Determinar que os elementos da Portugal Digital:\n\na) Exercem funções com isenção de horário de trabalho, sem qualquer suplemento remuneratório;\n\nb) Têm direito a ajudas de custo e de deslocação, nos termos previstos nas disposições legais em vigor para os trabalhadores em funções públicas, sempre que se desloquem em missão de serviço público.\n\n12 - Determinar que, junto da Portugal Digital, funciona um Conselho Interministerial de Coordenação composto por sete membros designados, cada um, por cada um dos membros do Governo identificados no n.º 1 do artigo 12.º do regime da organização e funcionamento do XXII Governo Constitucional, aprovado pelo Decreto-Lei n.º 169-B/2019, de 3 de dezembro.\n\n13 - Determinar que o Conselho Interministerial de Coordenação assegura o acompanhamento do Plano de Ação para a Transição Digital e a coordenação geral da execução dos diferentes programas e medidas que o integra.\n\n14 - Determinar que o Conselho Interministerial de Coordenação reúne ordinariamente uma vez por mês e, extraordinariamente, sempre que for convocado pelo diretor executivo da Portugal Digital, ao qual compete dirigir as reuniões do Conselho Interministerial de Coordenação e fixar a respetiva agenda.\n\n15 - Determinar que os elementos que integram a composição do Conselho Interministerial de Coordenação não auferem qualquer remuneração ou abono pelo exercício das funções.\n\n16 - Determinar que pode ser constituído, por despacho do Ministro de Estado, da Economia e da Transição Digital, um observatório para avaliação da execução do Plano de Ação para a Transição Digital, constituído por pessoas singulares ou representantes de entidades públicas ou privadas, de âmbito nacional ou internacional, que sejam relevantes em função dos temas a apreciar.\n\n17 - Determinar que a Portugal Digital é apoiada no seu funcionamento e na gestão e operacionalização do Plano de Ação para a Transição Digital nas vertentes administrativa, jurídica e logística pela Secretaria-Geral do Ministério da Economia.\n\n18 - Determinar que os encargos orçamentais decorrentes da criação e funcionamento da Portugal Digital são suportados pelo orçamento da Secretaria-Geral do Ministério da Economia.\n\n19 - Estabelecer que o mandato da Portugal Digital tem a duração de quatro anos.\n\n20 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.\n\n> Alterado pelo/a [Resolução do Conselho de Ministros n.º 34-B/2023 - Diário da República n.º 78/2023, 1º Suplemento, Série I de 2023-04-20](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/34-b-2023-212137683), em vigor a partir de 2023-04-21"
+  },
+  "212123833": {
+   "fragment_id": "212137624",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Presidência do Conselho de Ministros, 5 de março"
+  },
+  "904363197": {
+   "fragment_id": "212137624",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-12-30",
+   "changed_by": [
+    "Revogado pelo/a [Decreto-Lei n.º 139-A/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-2023-835994077), em vigor a partir de 2023-12-30, produz efeitos a partir de 2023-12-31"
+   ],
+   "markdown": "Presidência do Conselho de Ministros, 5 de março\n\n> Revogado pelo/a [Decreto-Lei n.º 139-A/2023 - Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-a-2023-835994077), em vigor a partir de 2023-12-30, produz efeitos a partir de 2023-12-31"
+  }
+ }
+}

@@ -1,0 +1,264 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:130602978:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-133911083",
+ "dre_path": "/dr/detalhe/decreto-lei/10-c-2020-130602978",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-03-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202009107",
+    "133911183",
+    "133911184",
+    "133911185",
+    "133911186",
+    "133911187"
+   ]
+  },
+  {
+   "date": "2020-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:133879986:por",
+     "title": "Decreto-Lei n.º 21/2020",
+     "published": "2020-05-16",
+     "dre_path": "/dr/detalhe/decreto-lei/21-2020-133879986"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 2.º-A",
+    "Altera Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "133911182",
+    "133911183",
+    "133911194",
+    "133911189",
+    "133911195",
+    "133911196",
+    "133911192",
+    "133911193"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202009107",
+    "202009108",
+    "202009109",
+    "202009110",
+    "202009111",
+    "202009112",
+    "202009113",
+    "202009114"
+   ]
+  }
+ ],
+ "fragments": {
+  "202009107": {
+   "fragment_id": "133911084",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-C/2020\n\nde 23 de março\n\nSumário: Estabelece medidas excecionais e temporárias de resposta à epidemia da doença COVID-19 no âmbito das inspeções técnicas periódicas.\n\nA Organização Mundial de Saúde considerou, no passado dia 30 de janeiro de 2020, que a epidemia SARS-CoV-2 causou uma situação de emergência de saúde pública de âmbito internacional, tendo, no dia 11 de março de 2020, caracterizado a disseminação do vírus como uma pandemia em virtude do elevado número de países afetados.\n\nNesse sentido, o Conselho de Ministros aprovou, nos dias 12 e 13 de março de 2020, um conjunto de medidas extraordinárias e de caráter urgente de resposta à situação epidemiológica do novo Coronavírus - COVID-19, através do Decreto-Lei n.º 10-A/2020, de 13 de março, e da Resolução do Conselho de Ministros n.º 10-A/2020, de 13 de março.\n\nAdemais, no dia 18 de março de 2020, foi decretado o estado de emergência em Portugal, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, o qual foi regulamentado através do Decreto n.º 2-A/2020, de 20 de março, que procedeu à criação de um conjunto de medidas, designadamente em matéria de circulação na via pública e de funcionamento ou suspensão de determinados tipos de instalações, estabelecimentos e atividades, com o intuito de conter a transmissão do vírus e conter a expansão da doença COVID-19.\n\nNeste contexto, importa continuar a promover medidas, em diversos setores, que aumentem as possibilidades de distanciamento social e de isolamento profilático. No caso do setor dos transportes e especificamente em matéria de inspeções técnicas periódicas de veículos a motor e seus reboques, a implementação de tais medidas impossibilita as entidades gestoras de centros de inspeção de cumprir a totalidade das obrigações previstas nos respetivos contratos de gestão.\n\nDeste modo, é essencial garantir que são assegurados os serviços essenciais, ainda que por marcação, referentes a alguns veículos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "133911183": {
+   "fragment_id": "133911085",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2 no âmbito das inspeções técnicas periódicas de veículos a motor e seus reboques."
+  },
+  "133911184": {
+   "fragment_id": "133911086",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de inspeção periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime excecional de inspeção periódica\n\n1 - Os veículos a motor e seus reboques, ligeiros ou pesados, que devessem ser apresentados à inspeção periódica no período que decorre desde 13 de março de 2020 até ao dia 30 de junho de 2020, veem o seu prazo prorrogado por cinco meses contados da data da matrícula.\n\n2 - Enquanto vigorar o regime de exceção previsto no número anterior o incumprimento da obrigação de inspeção periódica não releva para efeitos de seguro de responsabilidade civil automóvel ou do direito de regresso da empresa de seguros, conforme estabelecidos no artigo 17.º e na alínea i) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto, na sua redação atual.\n\n3 - Findo o regime de exceção previsto no n.º 1 do presente artigo, as empresas de seguro retomam o direito de regresso, nos termos previstos na alínea i) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto, na sua redação atual."
+  },
+  "133911185": {
+   "fragment_id": "133911087",
+   "type": 11,
+   "heading": "Artigo 3.º — Suspensão parcial da atividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Suspensão parcial da atividade\n\n1 - As entidades gestoras de centros de inspeção de veículos a motor e seus reboques procedem à suspensão parcial da atividade até ao dia 30 de junho de 2020, sem prejuízo do que seja determinado em matéria de definição de serviços essenciais, nos termos do artigo seguinte.\n\n2 - É considerada uma situação de «força maior», para efeitos da impossibilidade de cumprimento de todas as obrigações a cargo das entidades gestoras referidas no número anterior, decorrentes dos respetivos contratos de gestão, a aplicação de medidas de suspensão ou de encerramento de atividade no âmbito da prevenção, contenção, mitigação e tratamento da pandemia da doença COVID-19, designadamente as implementadas pelo presente decreto-lei, bem como pelo Decreto n.º 2-A/2020, de 20 de março, que regulamenta a aplicação do estado de emergência decretado pelo Presidente da República."
+  },
+  "133911186": {
+   "fragment_id": "133911088",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviços essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Serviços essenciais\n\n1 - Sem prejuízo do disposto no artigo 16.º do Decreto n.º 2-A/2020, de 20 de março, aplicável enquanto se mantiver a situação de estado de emergência, é definido por portaria do membro do Governo responsável pela área dos transportes, sob proposta do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), o regime da prestação de serviços essenciais de inspeção.\n\n2 - Na decorrência do disposto no número anterior, as entidades gestoras informam o IMT, I. P., de quais são os centros de inspeção que, até ao dia 30 de junho de 2020, asseguram a prestação dos serviços essenciais."
+  },
+  "133911187": {
+   "fragment_id": "133911089",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020."
+  },
+  "133911182": {
+   "fragment_id": "133911084",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 10-C/2020\n\nde 23 de março\n\nSumário: Estabelece medidas excecionais e temporárias de resposta à epidemia da doença COVID-19 no âmbito das inspeções técnicas periódicas.\n\nA Organização Mundial de Saúde considerou, no passado dia 30 de janeiro de 2020, que a epidemia SARS-CoV-2 causou uma situação de emergência de saúde pública de âmbito internacional, tendo, no dia 11 de março de 2020, caracterizado a disseminação do vírus como uma pandemia em virtude do elevado número de países afetados.\n\nNesse sentido, o Conselho de Ministros aprovou, nos dias 12 e 13 de março de 2020, um conjunto de medidas extraordinárias e de caráter urgente de resposta à situação epidemiológica do novo Coronavírus - COVID-19, através do Decreto-Lei n.º 10-A/2020, de 13 de março, e da Resolução do Conselho de Ministros n.º 10-A/2020, de 13 de março.\n\nAdemais, no dia 18 de março de 2020, foi decretado o estado de emergência em Portugal, através do Decreto do Presidente da República n.º 14-A/2020, de 18 de março, o qual foi regulamentado através do Decreto n.º 2-A/2020, de 20 de março, que procedeu à criação de um conjunto de medidas, designadamente em matéria de circulação na via pública e de funcionamento ou suspensão de determinados tipos de instalações, estabelecimentos e atividades, com o intuito de conter a transmissão do vírus e conter a expansão da doença COVID-19.\n\nNeste contexto, importa continuar a promover medidas, em diversos setores, que aumentem as possibilidades de distanciamento social e de isolamento profilático. No caso do setor dos transportes e especificamente em matéria de inspeções técnicas periódicas de veículos a motor e seus reboques, a implementação de tais medidas impossibilita as entidades gestoras de centros de inspeção de cumprir a totalidade das obrigações previstas nos respetivos contratos de gestão.\n\nDeste modo, é essencial garantir que são assegurados os serviços essenciais, ainda que por marcação, referentes a alguns veículos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "133911194": {
+   "fragment_id": "133911086",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de inspeção periódica",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 2.º — Regime excecional de inspeção periódica\n\n1 - Os veículos a motor e seus reboques, ligeiros ou pesados, que devessem ser apresentados à inspeção periódica no período que decorre desde 13 de março de 2020 até ao dia 30 de junho de 2020, veem o seu prazo prorrogado por cinco meses contados da data da matrícula.\n\n2 - Enquanto vigorar o regime de exceção previsto no número anterior o incumprimento da obrigação de inspeção periódica não releva para efeitos de seguro de responsabilidade civil automóvel ou do direito de regresso da empresa de seguros, conforme estabelecidos no artigo 17.º e na alínea i) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto, na sua redação atual.\n\n3 - Sem prejuízo do disposto nos números anteriores, com a abertura dos Centros de Inspeção Técnica de Veículos, podem ser realizadas inspeções periódicas a todos os veículos, incluindo os abrangidos pelo referido regime, não sendo para o efeito necessário observar o prazo de três meses estabelecido no artigo 7.º do Decreto-Lei n.º 144/2012, de 11 de julho, na sua redação atual.\n\n4 - Findo o regime de exceção previsto no n.º 1 do presente artigo, as empresas de seguro retomam o direito de regresso, nos termos previstos na alínea i) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "133911189": {
+   "fragment_id": "133911091",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Limitação de acesso a espaços frequentados pelo público",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 2.º-A — Limitação de acesso a espaços frequentados pelo público\n\nAs entidades gestoras de centros de inspeção podem retomar a sua atividade, estando obrigadas a cumprir as medidas excecionais e temporárias relativas à pandemia da doença COVID-19 em vigor em cada momento, em especial as constantes dos artigos 10.º a 15.º do regime da situação de calamidade anexo à Resolução do Conselho de Ministros n.º 33-A/2020, de 30 de abril, ou outras que as venham a substituir com idêntico conteúdo, e do artigo 13.º-B do Decreto-Lei n.º 20/2020, de 1 de maio, na sua redação atual, bem como as regras sanitárias e de higiene definidas em cada momento pela Direção-Geral da Saúde.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "133911195": {
+   "fragment_id": "133911087",
+   "type": 11,
+   "heading": "Artigo 3.º — Suspensão parcial da atividade",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 3.º — Suspensão parcial da atividade\n\n1 - As entidades gestoras de centros de inspeção de veículos a motor e seus reboques procedem à suspensão parcial da atividade até ao dia 30 de junho de 2020, sem prejuízo do que seja determinado em matéria de definição de serviços essenciais, nos termos do artigo seguinte.\n\n2 - É considerada uma situação de «força maior», para efeitos da impossibilidade de cumprimento de todas as obrigações a cargo das entidades gestoras referidas no número anterior, decorrentes dos respetivos contratos de gestão, a aplicação de medidas de suspensão ou de encerramento de atividade no âmbito da prevenção, contenção, mitigação e tratamento da pandemia da doença COVID-19, designadamente as implementadas pelo presente decreto-lei, bem como pelo Decreto n.º 2-A/2020, de 20 de março, que regulamenta a aplicação do estado de emergência decretado pelo Presidente da República.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "133911196": {
+   "fragment_id": "133911088",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviços essenciais",
+   "in_force_from": "2020-05-17",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Serviços essenciais\n\n1 - Sem prejuízo do disposto no artigo 16.º do Decreto n.º 2-A/2020, de 20 de março, aplicável enquanto se mantiver a situação de estado de emergência, é definido por portaria do membro do Governo responsável pela área dos transportes, sob proposta do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), o regime da prestação de serviços essenciais de inspeção.\n\n2 - Na decorrência do disposto no número anterior, as entidades gestoras informam o IMT, I. P., de quais são os centros de inspeção que, até ao dia 30 de junho de 2020, asseguram a prestação dos serviços essenciais.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "133911192": {
+   "fragment_id": "133911089",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020."
+  },
+  "133911193": {
+   "fragment_id": "133911090",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de março de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 23 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113139978"
+  },
+  "202009108": {
+   "fragment_id": "133911085",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece medidas excecionais e temporárias de resposta à epidemia SARS-CoV-2 no âmbito das inspeções técnicas periódicas de veículos a motor e seus reboques.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009109": {
+   "fragment_id": "133911086",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime excecional de inspeção periódica",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 2.º — Regime excecional de inspeção periódica\n\n1 - Os veículos a motor e seus reboques, ligeiros ou pesados, que devessem ser apresentados à inspeção periódica no período que decorre desde 13 de março de 2020 até ao dia 30 de junho de 2020, veem o seu prazo prorrogado por cinco meses contados da data da matrícula.\n\n2 - Enquanto vigorar o regime de exceção previsto no número anterior o incumprimento da obrigação de inspeção periódica não releva para efeitos de seguro de responsabilidade civil automóvel ou do direito de regresso da empresa de seguros, conforme estabelecidos no artigo 17.º e na alínea i) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto, na sua redação atual.\n\n3 - Sem prejuízo do disposto nos números anteriores, com a abertura dos Centros de Inspeção Técnica de Veículos, podem ser realizadas inspeções periódicas a todos os veículos, incluindo os abrangidos pelo referido regime, não sendo para o efeito necessário observar o prazo de três meses estabelecido no artigo 7.º do Decreto-Lei n.º 144/2012, de 11 de julho, na sua redação atual.\n\n4 - Findo o regime de exceção previsto no n.º 1 do presente artigo, as empresas de seguro retomam o direito de regresso, nos termos previstos na alínea i) do n.º 1 do artigo 27.º do Decreto-Lei n.º 291/2007, de 21 de agosto, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "202009110": {
+   "fragment_id": "133911091",
+   "type": 11,
+   "heading": "Artigo 2.º-A — Limitação de acesso a espaços frequentados pelo público",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 2.º-A — Limitação de acesso a espaços frequentados pelo público\n\nAs entidades gestoras de centros de inspeção podem retomar a sua atividade, estando obrigadas a cumprir as medidas excecionais e temporárias relativas à pandemia da doença COVID-19 em vigor em cada momento, em especial as constantes dos artigos 10.º a 15.º do regime da situação de calamidade anexo à Resolução do Conselho de Ministros n.º 33-A/2020, de 30 de abril, ou outras que as venham a substituir com idêntico conteúdo, e do artigo 13.º-B do Decreto-Lei n.º 20/2020, de 1 de maio, na sua redação atual, bem como as regras sanitárias e de higiene definidas em cada momento pela Direção-Geral da Saúde.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "202009111": {
+   "fragment_id": "133911087",
+   "type": 11,
+   "heading": "Artigo 3.º — Suspensão parcial da atividade",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 3.º — Suspensão parcial da atividade\n\n1 - As entidades gestoras de centros de inspeção de veículos a motor e seus reboques procedem à suspensão parcial da atividade até ao dia 30 de junho de 2020, sem prejuízo do que seja determinado em matéria de definição de serviços essenciais, nos termos do artigo seguinte.\n\n2 - É considerada uma situação de «força maior», para efeitos da impossibilidade de cumprimento de todas as obrigações a cargo das entidades gestoras referidas no número anterior, decorrentes dos respetivos contratos de gestão, a aplicação de medidas de suspensão ou de encerramento de atividade no âmbito da prevenção, contenção, mitigação e tratamento da pandemia da doença COVID-19, designadamente as implementadas pelo presente decreto-lei, bem como pelo Decreto n.º 2-A/2020, de 20 de março, que regulamenta a aplicação do estado de emergência decretado pelo Presidente da República.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "202009112": {
+   "fragment_id": "133911088",
+   "type": 11,
+   "heading": "Artigo 4.º — Serviços essenciais",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+   ],
+   "markdown": "###### Artigo 4.º — Serviços essenciais\n\n1 - Sem prejuízo do disposto no artigo 16.º do Decreto n.º 2-A/2020, de 20 de março, aplicável enquanto se mantiver a situação de estado de emergência, é definido por portaria do membro do Governo responsável pela área dos transportes, sob proposta do Instituto da Mobilidade e dos Transportes, I. P. (IMT, I. P.), o regime da prestação de serviços essenciais de inspeção.\n\n2 - Na decorrência do disposto no número anterior, as entidades gestoras informam o IMT, I. P., de quais são os centros de inspeção que, até ao dia 30 de junho de 2020, asseguram a prestação dos serviços essenciais.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 21/2020 - Diário da República n.º 95-A/2020, Série I de 2020-05-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2020-133879986), em vigor a partir de 2020-05-17, produz efeitos a partir de 2020-05-18"
+  },
+  "202009113": {
+   "fragment_id": "133911089",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor e vigência",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Entrada em vigor e vigência\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação e vigora até 30 de junho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202009114": {
+   "fragment_id": "133911090",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de março de 2020. - António Luís Santos da Costa - Mário José Gomes de Freitas Centeno - Pedro Nuno de Oliveira Santos.\n\nPromulgado em 23 de março de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 23 de março de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113139978\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

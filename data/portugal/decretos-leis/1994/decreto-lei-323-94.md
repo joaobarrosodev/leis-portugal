@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:322096:por
+title: Decreto-Lei n.º 323/94
+short_title: null
+summary: Aprova o Estatuto da Região Demarcada das Aguardentes Vínicas da Lourinhã
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 323/94
+official_date: null
+publication_date: '1994-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1994, Série I-A de 1994-12-29
+  number: '300'
+  series: I
+  supplement: null
+  pages: 7486 - 7489
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/323/1994/12/29/p/dre/pt/html
+  oj: null
+  dre: '322096'
+  dre_path: /dr/detalhe/decreto-lei/323-1994-322096
+  internal: pt:dre:322096:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1994-322096
+  metadata_url: https://data.dre.pt/eli/dec-lei/323/1994/12/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1994-322096
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2004-08-23T00:00:00Z'
+integrity:
+  source_sha256: 483f75f4d3c1caba31c745e37146b8f7f7e13ab0535e3d5a36a8513328ca8753
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-323-322096.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aguardente
+- Armazenagem
+- Vinho
+- Denominação de Origem
+- Controlo de Qualidade
+- Região Demarcada
+- Estatuto
+- Etiquetagem
+- Lourinhã
+- Ministro da Agricultura
+- Produção
+- Comissão Vitivinícola Regional
+- Comércio
+- Vinha
+relationships:
+- type: amended_by
+  target: pt:dre:479875:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/34/1992/03/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/34/1992/03/07/p/dre
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 323/94
+
+de 29 de Dezembro
+
+O [Decreto-Lei n.º 34/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1992-168233), de 7 de Março, ao reconhecer a denominação de origem «Lourinhã» para as aguardentes vínicas aí produzidas, pretendeu dar resposta à aspiração dos viticultores de verem reconhecida a qualidade das aguardentes vínicas da região e encontrarem formas de escoamento alternativas, a preços compensadores, para os vinhos aí produzidos.
+
+O presente diploma aprova o estatuto da respectiva região demarcada, dando acolhimento à vontade manifestada pelos produtores e comerciantes de produtos vínicos da região.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 8/85](https://diariodarepublica.pt/dr/detalhe/lei/8-1985-151875), de 4 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º É aprovado o Estatuto da Região Demarcada das Aguardentes Vínicas da Lourinhã, anexo ao presente diploma e que dele faz parte integrante, que define as condições de produção e comercialização das aguardentes vínicas aí produzidas, por forma a terem direito à denominação de origem «Lourinhã».
+
+###### Art. 2.º - 1 - Compete à Comissão Vitivinícola Regional da Lourinhã (CVRL) disciplinar a produção das aguardentes com direito à denominação a que se refere o Estatuto mencionado no artigo anterior, bem como dos vinhos que estão na sua origem, aplicar a respectiva regulamentação e velar pelo cumprimento da mesma, bem como fomentar a sua qualidade e promover as aguardentes que beneficiem daquela denominação.
+
+2 - Compete igualmente à CVRL realizar vistorias e proceder à colheita de amostras em armazéns ou instalações de vinificacão e destilação, selar os produtos, podendo ainda ter acesso a toda a documentação que permita verificar a obediência aos preceitos comunitários e nacionais relativos às aguardentes vínicas com direito à denominação a que se refere o presente diploma.
+
+3 - Em caso de infracção ao disposto no Estatuto anexo, pode a CVRL proceder disciplinarmente em relação aos agentes económicos nela inscritos, de acordo com o estatuído no seu regulamento interno, sem prejuízo de a infracção poder ser configurada como crime ou contra-ordenação.
+
+###### Art. 3.º A CVRL está submetida à tutela do Ministro da Agricultura, ao qual compete:
+
+a) Dirigir instruções no âmbito da política vitivinícola;
+
+b) Solicitar quaisquer informações ou ordenar inspecções e inquéritos ao seu funcionamento;
+
+c) Apreciar o orçamento e contas de exercício.
+
+Visto e aprovado em Conselho de Ministros de 6 de Outubro de 1994. - Aníbal António Cavaco Silva - António Duarte Silva.
+
+**Promulgado em 1 de Dezembro de 1994.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 5 de Dezembro de 1994.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+Estatuto da Região Demarcada das Aguardentes Vínicas da Lourinhã
+
+###### Artigo 1.º — Denominações protegidas
+
+1 - É reconhecido como denominação de origem «Lourinhã» a aguardente vínica de qualidade obtida a partir de vinhos elaborados com uvas produzidas na área da região delimitada no artigo seguinte aí produzida e envelhecida, e que obedeça às características químicas e organolépticas estabelecidas na lei e regulamento interno da CVRL.
+
+2 - É proibida a utilização em outros produtos vínicos de nomes, marcas, termos, expressões ou símbolos susceptíveis de, pela sua similitude gráfica ou fonética com os protegidos no presente Estatuto, induzirem o consumidor em erro, mesmo que precedidos dos termos «tipo», «estilo» ou outros análogos.
+
+###### Artigo 2.º — Delimitação da Região
+
+A área geográfica correspondente à produção de aguardente com direito à denominação «Lourinhã», conforme representação cartográfica em anexo, compreende:
+
+a) Do Município da Lourinhã, as freguesias de Lourinhã, Atalaia, Ribamar, Santa Bárbara, Vimeiro, Marteleira, Miragaia, Moita dos Ferreiros, Reguengo Grande, Moledo e São Bartolomeu;
+
+b) Do Município de Peniche, as freguesias de Atouguia da Baleia e Serra d'El-Rei;
+
+c) Do Município de Óbidos, a freguesia de Olho Marinho;
+
+d) Do Município do Bombarral, a freguesia de Vale Covo;
+
+e) Do Município de Torres Vedras, a freguesia de Campelos.
+
+###### Artigo 3.º — Solos
+
+As vinhas destinadas à produção de vinhos susceptíveis de darem origem a aguardente vínica de qualidade com direito à denominação «Lourinhã» devem estar ou ser instaladas em solos mediterrâneos pardos ou vermelhos, normais ou parabarros de arenitos finos, argilas ou argilitos e solos calcários pardos, normais ou parabarros de margas e arenitos finos interestratificados e, ainda, em solos calcários vermelhos de margas, solos litólicos de arenitos, aluviossolos modernos e podzóis.
+
+###### Artigo 4.º — Castas
+
+As castas a utilizar são as seguintes:
+
+a) Castas recomendadas:
+
+i) Brancas - Alicante-Branco, Alvadurão, Boal, Espinho, Marquinhas, Malvasia Rei (Seminári) e Tália;
+
+ii) Tintas - Cabinda.
+
+b) Castas autorizadas:
+
+i) Brancas - Cercial, Fernão-Pires, Rabo-de-Ovelha, Síria (Roupeiro), Seara-Nova e Vital;
+
+ii) Tintas - Carignan, Periquita e Tinta-Miúda.
+
+###### Artigo 5.º — Praticas culturais
+
+1 - As vinhas são estremes, conduzidas em forma baixa, em taça ou cordão.
+
+2 - As práticas culturais utilizadas são as tradicionais na região e as recomendadas pela CVRL tendo em vista a obtenção de produtos de qualidade.
+
+3 - A rega da vinha só pode ser efectuada em condições excepcionais reconhecidas pelo Instituto da Vinha e do Vinho, e após autorização, caso a caso, da CVRL, a quem incumbe velar pelo cumprimento das normas que para o efeito vierem a ser definidas.
+
+###### Artigo 6.º — Inscrição e caracterização das vinhas
+
+1 - As vinhas destinadas à produção de aguardentes vínicas com direito à denominação «Lourinhã» devem, a pedido dos interessados, ser inscritas na CVRL, que verifica se satisfazem os necessários requisitos, procede ao respectivo cadastro e efectua ao longo do ano as verificações que entender convenientes.
+
+2 - Sempre que se verifiquem alterações na titularidade ou na constituição das vinhas cadastradas e aprovadas, será do facto dado conhecimento pelos respectivos viticultores à CVRL, sem o que as suas aguardentes perderão o direito à denominação de origem.
+
+###### Artigo 7.º — Vinificação
+
+1 - Os vinhos destinados à produção de aguardentes vínicas com direito à denominação «Lourinhã» serão elaborados na região, em adegas inscritas e aprovadas pela CVRL que ficam submetidas ao seu controlo.
+
+2 - O título alcoométrico natural máximo dos vinhos a destilar será de 10% vol.
+
+3 - Os vinhos impróprios para consumo não podem ser utilizados para produção de aguardente vínica com direito à denominação «Lourinhã».
+
+4 - A vinificação é feita sem adição de anídrido sulfuroso, devendo ser seguidos os métodos e práticas enológicas legalmente autorizadas e tradicionais da região, com as particularidades definidas no regulamento interno da CVRL.
+
+###### Artigo 8.º — Conservação e destilação
+
+1 - Os vinhos destinados à produção das aguardentes vínicas da «Lourinhã» devem ser destilados no interior da região denominada, o mais tardar, até final do mês de Abril imediato à vinificação.
+
+2 - Os sistemas utilizados na destilação podem ser:
+
+a) Destilação contínua, em coluna de cobre com o diâmetro máximo de 18», que pode ser equipada com pratos de uma só calote ou pratos de calotes múltiplas, de alimentação contínua, sem qualquer órgão de rectificação suplementar; caso seja utilizado um gerador de vapor, o aquecimento não pode realizar-se a vapor directo; o título alcoométrico do destilado não pode ser superior a 78% vol.;
+
+b) Destilação descontínua, em alambique de cobre constituído por uma caldeira com capacidade máxima de 30 hl, aquecida a fogo directo, por um capitel com ou sem aquece-vinhos (esquentador) e por uma serpentina (refrigerante); neste processo, numa primeira destilação é obtido um destilado com um título alcoométrico compreendido entre 27% vol. e 30% vol., de cuja subsequente destilação é obtida a «aguardente de coração» cujo título alcoométrico não pode ser superior a 72% vol.
+
+###### Artigo 9.º — Envelhecimento
+
+1 - O envelhecimento é efectuado na região, em barris de carvalho com capacidade até 800 l.
+
+2 - As aguardentes Lourinhã só podem ser comercializadas após 24 meses de envelhecimento em barris de carvalho.
+
+3 - Nos locais de envelhecimento são armazenadas, exclusivamente, aguardentes vínicas com direito à denominação «Lourinhã».
+
+4 - O controlo e registo das idades é efectuado pela CVRL.
+
+5 - As contas/idade indicativas do período de envelhecimento, são:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf))](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)
+
+###### Artigo 10.º — Características químicas e organolépticas
+
+1 - As aguardentes vínicas da região da Lourinhã devem apresentar as características químicas e organolépticas definidas na lei e no regulamento interno da CVRL.
+
+2 - Não são autorizados quaisquer aditivos, com excepção da água destilada para redução do título alcoométrico até um mínimo de 38% vol., e caramelo até um máximo de 2%.
+
+###### Artigo 11.º — Designações de venda
+
+1 - A idade mínima das aguardentes que entram na composição dos diferentes lotes é a fixada pela CVRL.
+
+2 - A correspondência das contas/idade e das designações de venda é a seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf))](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)
+
+###### Artigo 12.º — Rotulagem
+
+1 - Os rótulos a utilizar têm de respeitar as normas legais aplicáveis e as definidas pela CVRL, a quem são previamente apresentados para aprovação.
+
+2 - Os designativos complementares permitidos são os referidos no artigo anterior.
+
+###### Artigo 13.º — Inscrição de destiladores comerciantes e respectivas instalações
+
+Sem prejuízo de outras exigências legais aplicáveis, todas as pessoas singulares ou colectivas que se dediquem à destilação, envelhecimento e ou comercialização e engarrafamento das aguardentes com direito à denominação «Lourinhã», excluída a distribuição e a venda a retalho das aguardentes engarrafadas, são obrigadas a fazer a sua inscrição, bem como a das respectivas instalações, na CVRL.
+
+###### Artigo 14.º — Circulação, comercialização e documentação de acompanhamento
+
+1 - As aguardentes a que se refere o presente Estatuto só podem ser postas em circulação e comercializadas após certificação pela CVRL, e desde que nos respectivos recipientes, à saída das instalações de elaboração, figure a denominação de origem, sejam acompanhados da necessária documentação oficial onde conste essa mesma denominação e sejam cumpridas as restantes exigências legais aplicáveis.
+
+2 - A CVRL pode definir condições complementares ao presente diploma no que respeita às regras de circulação, apresentação, comercialização e utilização de embalagens, desde que possam contribuir para um controlo mais rigoroso e não contrariem a legislação nacional e comunitária sobre a matéria.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf))](https://files.diariodarepublica.pt/1s/1994/12/300a00/74867489.pdf)

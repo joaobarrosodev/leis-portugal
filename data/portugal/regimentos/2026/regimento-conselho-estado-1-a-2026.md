@@ -1,0 +1,372 @@
+---
+schema_version: '1.0'
+id: pt:dre:1090808537:por
+title: Regimento do Conselho de Estado n.º 1-A/2026
+short_title: null
+summary: Segunda alteração ao Regimento do Conselho de Estado publicado no Diário da República, 1.ª série, n.º 261, suplemento,
+  de 10 de novembro de 1984.
+jurisdiction: portugal
+territory: null
+document_type: regimento-conselho-estado
+document_type_label: Regimento do Conselho de Estado
+issuing_authority:
+- Conselho de Estado
+proposing_entity: null
+official_number: 1-A/2026
+official_date: null
+publication_date: '2026-04-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 79/2026, Suplemento, Série I de 2026-04-23
+  number: '79'
+  series: I
+  supplement: null
+  pages: 2 - 9
+  pdf_url: https://files.diariodarepublica.pt/1s/2026/04/07901/0000200009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/rgtconsest/1-a/2026/04/23/p/dre/pt/html
+  oj: null
+  dre: '1090808537'
+  dre_path: /dr/detalhe/regimento-conselho-estado/1-a-2026-1090808537
+  internal: pt:dre:1090808537:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-a-2026-1090808537
+  metadata_url: https://data.dre.pt/eli/rgtconsest/1-a/2026/04/23/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-a-2026-1090808537
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-04-23T00:00:00Z'
+integrity:
+  source_sha256: ba6cd6d21f6b8aff85af1b48113cf91e3dad68a1040751d01e5826c455c6c2ca
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2026/DRE-2026-1-A-1090808537.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Estado
+- Regimento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/rgtconsest/1/2001/04/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/rgtconsest/1/2001/04/26/p/dre
+article_structure:
+  article_count: 24
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Regimento do Conselho de Estado n.º 1-A/2026
+
+Segunda alteração ao Regimento do Conselho de Estado publicado no Diário da República, 1.ª série, n.º 261, suplemento, de 10 de novembro de 1984, aprovada por unanimidade em reunião de 17 de abril de 2026 daquele órgão, nos termos do artigo 144.º da Constituição da República Portuguesa e da alínea g) do n.º 1 do artigo 3.º do mesmo Regimento.
+
+###### Artigo 1.º — Alteração ao Regimento do Conselho de Estado
+
+Os artigos 3.º, 11.º, 13.º e 17.º do Regimento do Conselho de Estado publicado no Diário da República, 1.ª série, n.º 261, suplemento, de 10 de novembro de 1984, e alterado pelo [Regimento do Conselho de Estado n.º 1/2001](https://diariodarepublica.pt/dr/detalhe/regimento-conselho-estado/1-2001-165018), de 26 de abril, passam a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - Compete ao Conselho de Estado:
+
+a) Pronunciar-se sobre a dissolução da Assembleia da República e das assembleias legislativas das regiões autónomas;
+
+b) Pronunciar-se sobre a demissão do Governo, no caso previsto no n.º 2 do artigo 195.º da Constituição;
+
+c) [Revogada.]
+
+d) [...]
+
+e) [Revogada.]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+2 - [...]
+
+a) Marcação dos dias das eleições do Presidente da República e dos deputados à Assembleia da República e às assembleias legislativas das regiões autónomas, de harmonia com a Lei Eleitoral;
+
+b) [...]
+
+c) Nomeação do Primeiro-Ministro, nos termos do n.º 1 do artigo 187.º da Constituição;
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+###### Artigo 11.º — [...]
+
+1 - [...]
+
+2 - São necessariamente escritos os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º
+
+3 - [...]
+
+4 - [Revogado.]
+
+5 - [...]
+
+###### Artigo 13.º — Atas
+
+1 - De tudo o que ocorrer nas reuniões do Conselho de Estado é lavrada ata, em formato eletrónico, arquivada em condições que garantam a sua confidencialidade.
+
+2 - [...]
+
+3 - As atas, depois de aprovadas, são assinadas digitalmente pelo secretário do Conselho de Estado, impressas, assinadas pelo Presidente da República e mantidas em arquivo que garanta a sua confidencialidade.
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+###### Artigo 17.º — [...]
+
+1 - São obrigatoriamente publicados os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º se o Presidente da República praticar os atos de que constituem requisito.
+
+2 - A publicação dos pareceres referidos no número anterior é simultânea com a dos atos a que aqueles respeitem.
+
+3 - [...]
+
+4 - [...]»
+
+###### Artigo 2.º — Republicação
+
+É republicado em anexo o Regimento do Conselho de Estado, com a redação atual e as necessárias correções materiais.
+
+###### Artigo 3.º — Entrada em vigor e produção de efeitos
+
+O presente Regimento entra em vigor no dia seguinte ao da sua publicação, produzindo efeitos a 9 de março de 2026.
+
+**Assinado, no Palácio de Belém, em 17 de abril de 2026.**
+
+**Publique-se, nos termos do artigo 18.º do Regimento do Conselho de Estado.**
+
+**O Presidente da República, António José Martins Seguro.**
+
+## ANEXO — Regimento do Conselho de Estado
+
+(a que se refere o artigo 2.º)
+
+### CAPÍTULO I — NATUREZA E COMPOSIÇÃO
+
+###### Artigo 1.º — Definição
+
+O Conselho de Estado é o órgão político de consulta do Presidente da República.
+
+###### Artigo 2.º — Composição
+
+O Conselho de Estado é presidido pelo Presidente da República e composto pelos seguintes membros:
+
+a) O Presidente da Assembleia da República;
+
+b) O Primeiro-Ministro;
+
+c) O presidente do Tribunal Constitucional;
+
+d) O Provedor de Justiça;
+
+e) Os presidentes dos governos regionais;
+
+f) Os antigos presidentes da República eleitos na vigência da Constituição que não hajam sido destituídos do cargo;
+
+g) Cinco cidadãos designados pelo Presidente da República pelo período correspondente à duração do seu mandato;
+
+h) Cinco cidadãos eleitos pela Assembleia da República, de harmonia com o princípio da representação proporcional, pelo período correspondente à duração da legislatura.
+
+### CAPÍTULO II — COMPETÊNCIA
+
+###### Artigo 3.º — Competência
+
+1 - Compete ao Conselho de Estado:
+
+a) Pronunciar-se sobre a dissolução da Assembleia da República e das assembleias legislativas das regiões autónomas;
+
+b) Pronunciar-se sobre a demissão do Governo, no caso previsto no n.º 2 do artigo 195.º da Constituição;
+
+c) [Revogada.]
+
+d) Pronunciar-se sobre a declaração da guerra e a feitura da paz;
+
+e) [Revogada.]
+
+f) Aconselhar o Presidente da República no exercício das suas funções, quando este lho solicitar;
+
+g) Aprovar e modificar o seu Regimento, interpretar as suas disposições e integrar as suas lacunas;
+
+h) Praticar os atos previstos na [Lei n.º 31/84](https://diariodarepublica.pt/dr/detalhe/lei/31-1984-373775), de 6 de setembro, e aqueles que o são no presente Regimento.
+
+2 - Durante o impedimento temporário do Presidente da República, bem como durante a vagatura do cargo até tomar posse o novo presidente eleito, compete ainda ao Conselho de Estado pronunciar-se sobre os seguintes atos do Presidente da República interino:
+
+a) Marcação dos dias das eleições do Presidente da República e dos deputados à Assembleia da República e às assembleias legislativas das regiões autónomas, de harmonia com a Lei Eleitoral;
+
+b) Convocação extraordinária da Assembleia da República;
+
+c) Nomeação do Primeiro-Ministro, nos termos do n.º 1 do artigo 187.º da Constituição;
+
+d) Nomeação e exoneração, sob proposta do Governo, do presidente do Tribunal de Contas e do procurador-geral da República;
+
+e) Nomeação e exoneração, sob proposta do Governo, do Chefe do Estado-Maior-General das Forças Armadas, do Vice-Chefe do Estado-Maior-General das Forças Armadas, quando exista, e dos chefes de estado-maior dos três ramos das Forças Armadas, ouvido, nestes dois últimos casos, o Chefe do Estado-Maior-General das Forças Armadas;
+
+f) Exercício das funções de comandante supremo das Forças Armadas;
+
+g) Nomeação dos embaixadores e dos enviados extraordinários, sob proposta do Governo, e aceitação de credenciais dos representantes diplomáticos estrangeiros.
+
+### CAPÍTULO III — FUNCIONAMENTO
+
+###### Artigo 4.º — Iniciativa e presidência das reuniões
+
+1 - O Conselho de Estado é presidido pelo Presidente da República, a quem compete a iniciativa de convocar as suas reuniões, a fixação da ordem de trabalhos e a direção destes.
+
+2 - O Conselho de Estado não pode reunir sem a presença do Presidente da República.
+
+###### Artigo 5.º — Convocatória
+
+1 - As reuniões devem ser convocadas, salvo caso de excecional urgência, com a antecedência mínima de 3 dias.
+
+2 - Também, salvo caso de excecional urgência, a convocação é transmitida aos membros do Conselho por forma escrita, devendo da convocatória constar sempre o dia e a hora da reunião, bem como a respetiva ordem de trabalhos.
+
+3 - Cabe ao secretário do Conselho de Estado promover o envio das convocatórias para as reuniões com a antecedência necessária para assegurar o respeito do prazo previsto no n.º 1.
+
+###### Artigo 6.º — Local das reuniões
+
+As reuniões do Conselho de Estado têm lugar em instalações da Presidência da República ou no local que for designado pelo Presidente da República.
+
+###### Artigo 7.º — Forma das reuniões
+
+O Conselho de Estado funciona sempre em reuniões plenárias, ressalvado o disposto no n.º 2 do artigo 12.º
+
+###### Artigo 8.º — Quórum de funcionamento
+
+1 - O Conselho de Estado só pode funcionar, em primeira convocação, estando presente a maioria do número dos seus membros em efetividade de funções.
+
+2 - Não se realizando reunião por inexistência de quórum, pode o Conselho, em nova convocação, com a mesma ordem de trabalhos e observados os termos do n.º 1 do artigo 5.º, funcionar com qualquer número de membros.
+
+###### Artigo 9.º — Audiência do Conselho de Estado
+
+1 - Salvos os casos previstos na alínea f) do n.º 1 do artigo 3.º, o Conselho de Estado pronuncia-se sempre mediante votação.
+
+2 - Nos casos previstos na alínea f) do n.º 1 do artigo 3.º, o Presidente da República pode limitar-se a ouvir os membros do Conselho, sem proceder a votação.
+
+###### Artigo 10.º — Votação
+
+1 - Os pareceres e deliberações do Conselho de Estado são tirados à pluralidade absoluta dos votos.
+
+2 - A votação é sempre nominal, ressalvado o disposto no n.º 3 do artigo 12.º
+
+3 - Não é admitida a abstenção.
+
+###### Artigo 11.º — Pareceres
+
+1 - Os pareceres do Conselho de Estado podem ser escritos ou verbais.
+
+2 - São necessariamente escritos os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º
+
+3 - Os demais pareceres só têm forma escrita no caso de o Presidente da República assim o solicitar.
+
+4 - [Revogado.]
+
+5 - Os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º são emitidos na reunião que para o efeito tiver sido convocada, sem prejuízo da possibilidade de suspensão dos trabalhos pelo Presidente da República por razões que julgue fundadas.
+
+###### Artigo 12.º — Deliberações respeitantes a membros do Conselho de Estado
+
+1 - A deliberação sobre a declaração de impossibilidade física permanente de membro do Conselho de Estado, prevista no n.º 2 do artigo 7.º da [Lei n.º 31/84](https://diariodarepublica.pt/dr/detalhe/lei/31-1984-373775), de 6 de setembro, é necessariamente precedida de exame efetuado por ao menos três médicos designados pelo Conselho.
+
+2 - A deliberação sobre autorização para que um membro do Conselho de Estado seja perito, testemunha ou declarante, prevista no n.º 2 do artigo 15.º da [Lei n.º 31/84](https://diariodarepublica.pt/dr/detalhe/lei/31-1984-373775), de 6 de setembro, é necessariamente precedida de audiência do membro do Conselho em causa, efetuada pelo Presidente da República ou pelo próprio Conselho, podendo neste caso a vontade do órgão ser apurada através de consulta escrita dirigida a cada um dos seus membros.
+
+3 - A deliberação sobre a suspensão de membro do Conselho de Estado, prevista no n.º 2 do artigo 14.º da [Lei n.º 31/84](https://diariodarepublica.pt/dr/detalhe/lei/31-1984-373775), de 6 de setembro, é tomada por escrutínio secreto.
+
+4 - Nas deliberações referidas no presente artigo o membro do Conselho de Estado a que respeitem não pode votar.
+
+###### Artigo 13.º — Atas
+
+1 - De tudo o que ocorrer nas reuniões do Conselho de Estado é lavrada ata, em formato eletrónico, arquivada em condições que garantam a sua confidencialidade.
+
+2 - O projeto de ata de cada reunião é redigido pelo secretário, que o remete aos membros do Conselho de Estado para ser submetida à aprovação deste no início da reunião seguinte, salvo se o Conselho deliberar a elaboração e aprovação da ata na própria reunião a que respeite.
+
+3 - As atas, depois de aprovadas, são assinadas digitalmente pelo secretário do Conselho de Estado, impressas, assinadas pelo Presidente da República e mantidas em arquivo que garanta a sua confidencialidade.
+
+4 - As atas do Conselho de Estado não podem ser consultadas nem divulgadas, durante um período de 30 anos a contar do final do mandato presidencial em que se realizaram as reuniões a que respeitam.
+
+5 - Ficam ressalvadas a consulta e divulgação das atas, no todo ou em parte, em casos excecionais por decisão do Presidente da República.
+
+6 - Após o referido período de 30 anos, a consulta e a divulgação das atas podem ser efetuadas por solicitação dirigida ao Presidente da República.
+
+7 - A consulta ou divulgação das atas, nos termos dos números anteriores, é sempre assegurada pelo secretário do Conselho de Estado e pelos serviços da Presidência da República.
+
+###### Artigo 14.º — Serviços de expediente e apoio
+
+Os serviços de expediente e apoio do Conselho de Estado são assegurados pela Secretaria-Geral da Presidência da República, que, para o efeito, coloca à disposição do Conselho os meios necessários.
+
+### CAPÍTULO IV — PUBLICIDADE
+
+###### Artigo 15.º — Natureza das reuniões e dever de sigilo
+
+1 - As reuniões do Conselho de Estado não são públicas.
+
+2 - Os membros do Conselho de Estado e o secretário têm o dever de sigilo quanto ao objeto e conteúdo das reuniões e quanto às deliberações tomadas e pareceres emitidos, ressalvado o disposto nos artigos seguintes.
+
+###### Artigo 16.º — Divulgação do conteúdo das reuniões
+
+**O Presidente e o Conselho podem concordar na publicação, após as reuniões, de uma nota informativa, na qual se indique, de forma sucinta, a totalidade ou parte do objeto da reunião e dos seus resultados.**
+
+###### Artigo 17.º — Publicação dos pareceres
+
+1 - São obrigatoriamente publicados os pareceres previstos nas alíneas a) a d) do n.º 1 e no n.º 2 do artigo 3.º se o Presidente da República praticar os atos de que constituem requisito.
+
+2 - A publicação dos pareceres referidos no número anterior é simultânea com a dos atos a que aqueles respeitem.
+
+3 - Os demais pareceres só são publicados se o Presidente da República assim o determinar.
+
+4 - A publicação efetua-se na 1.ª série do Diário da República.
+
+###### Artigo 18.º — Publicação da entrada em vigor
+
+1 - Este Regimento entra em vigor na data da sua publicação.
+
+2 - A publicação é efetuada na 1.ª série do Diário da República, por ordem do Presidente da República.
+
+3 - O texto remetido para publicação leva a indicação da aprovação pelo Conselho, com a respetiva data, e é assinado pelo Presidente da República.
+
+4 - Fica revogado o Regimento Provisório do Conselho de Estado, aprovado em 30 de março e publicado em 18 de abril de 1984.

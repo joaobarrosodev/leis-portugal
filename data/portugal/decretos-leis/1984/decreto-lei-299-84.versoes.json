@@ -1,0 +1,1090 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:373662:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-118874377",
+ "dre_path": "/dr/detalhe/decreto-lei/299-1984-373662",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1984-09-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "118878403",
+    "118536900",
+    "118536901",
+    "118536902",
+    "118536903",
+    "118536904",
+    "118536905",
+    "118536906",
+    "118536907",
+    "118536908",
+    "118536909",
+    "118536910",
+    "118536911",
+    "118536912",
+    "118536913",
+    "118536914",
+    "118536915",
+    "118536916",
+    "118536917",
+    "118536918",
+    "118536919",
+    "118536920",
+    "118536921",
+    "118536922",
+    "118536923",
+    "118536924"
+   ]
+  },
+  {
+   "date": "2003-01-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176533:por",
+     "title": "Decreto-Lei n.º 7/2003",
+     "published": "2003-01-15",
+     "dre_path": "/dr/detalhe/decreto-lei/7-2003-176533"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º"
+   ],
+   "fragments": [
+    "118536899",
+    "118536900",
+    "118536901",
+    "118536902",
+    "118536903",
+    "118536904",
+    "118536905",
+    "118536906",
+    "118536926",
+    "118536927",
+    "118536909",
+    "118536910",
+    "118536911",
+    "118536912",
+    "118536913",
+    "118536914",
+    "118536915",
+    "118536916",
+    "118536917",
+    "118536918",
+    "118536919",
+    "118536920",
+    "118536921",
+    "118536922",
+    "118536923",
+    "118536924",
+    "118536925"
+   ]
+  },
+  {
+   "date": "2006-05-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:650958:por",
+     "title": "Lei n.º 13/2006",
+     "published": "2006-04-17",
+     "dre_path": "/dr/detalhe/lei/13-2006-650958"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "118536899",
+    "118536900",
+    "118536901",
+    "118536902",
+    "118536903",
+    "118536904",
+    "118536905",
+    "118536906",
+    "118536926",
+    "118536927",
+    "118536909",
+    "118536910",
+    "118536964",
+    "118536912",
+    "118536913",
+    "118536914",
+    "118536915",
+    "118536916",
+    "118536917",
+    "118536918",
+    "118536919",
+    "118536920",
+    "118536921",
+    "118536922",
+    "118536923",
+    "118536924",
+    "118536925"
+   ]
+  },
+  {
+   "date": "2008-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:452234:por",
+     "title": "Decreto-Lei n.º 186/2008",
+     "published": "2008-09-19",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2008-452234"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 3.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "118536899",
+    "118878396",
+    "118536901",
+    "118878397",
+    "118536972",
+    "118536973",
+    "118536974",
+    "118878375",
+    "118878376",
+    "118878377",
+    "118878378",
+    "118878379",
+    "118878380",
+    "118878381",
+    "118878382",
+    "118878383",
+    "118878384",
+    "118878385",
+    "118878386",
+    "118878387",
+    "118878388",
+    "118878389",
+    "118878390",
+    "118878391",
+    "118878392",
+    "118878393",
+    "118878394",
+    "118878395"
+   ]
+  },
+  {
+   "date": "2011-03-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144217:por",
+     "title": "Decreto-Lei n.º 29-A/2011",
+     "published": "2011-03-01",
+     "dre_path": "/dr/detalhe/decreto-lei/29-a-2011-144217"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º-A"
+   ],
+   "fragments": [
+    "118536899",
+    "118878396",
+    "118536901",
+    "118878397",
+    "118878399",
+    "118536973",
+    "118536974",
+    "118878375",
+    "118878376",
+    "118878377",
+    "118878378",
+    "118878379",
+    "118878380",
+    "118878381",
+    "118878382",
+    "118878383",
+    "118878384",
+    "118878385",
+    "118878386",
+    "118878387",
+    "118878388",
+    "118878389",
+    "118878390",
+    "118878391",
+    "118878392",
+    "118878393",
+    "118878394",
+    "118878395"
+   ]
+  },
+  {
+   "date": "2012-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179057:por",
+     "title": "Decreto-Lei n.º 176/2012",
+     "published": "2012-08-02",
+     "dre_path": "/dr/detalhe/decreto-lei/176-2012-179057"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "118536899",
+    "118878396",
+    "118536901",
+    "118878401",
+    "118878399",
+    "118536973",
+    "118536974",
+    "118878375",
+    "118878376",
+    "118878377",
+    "118878378",
+    "118878379",
+    "118878380",
+    "118878381",
+    "118878382",
+    "118878383",
+    "118878384",
+    "118878385",
+    "118878386",
+    "118878387",
+    "118878388",
+    "118878389",
+    "118878390",
+    "118878391",
+    "118878392",
+    "118878393",
+    "118878394",
+    "118878395"
+   ]
+  },
+  {
+   "date": "2019-02-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:118748848:por",
+     "title": "Decreto-Lei n.º 21/2019",
+     "published": "2019-01-30",
+     "dre_path": "/dr/detalhe/decreto-lei/21-2019-118748848"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "118878403",
+    "118878404",
+    "118878405",
+    "118878406",
+    "118878407",
+    "118878408",
+    "118878409",
+    "118878410",
+    "118878411",
+    "118878412",
+    "118878413",
+    "118878414",
+    "118878415",
+    "118878416",
+    "118878417",
+    "118878418",
+    "118878419",
+    "118878420",
+    "118878421",
+    "118878422",
+    "118878423",
+    "118878424",
+    "118878425",
+    "118878426",
+    "118878427",
+    "118878428",
+    "118878429",
+    "118878430"
+   ]
+  }
+ ],
+ "fragments": {
+  "118878403": {
+   "fragment_id": "118874378",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-02-04",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 299/84\n\nde 5 de Setembro\n\nO reforço da descentralização do Estado através da atribuição de mais competências às autarquias existentes é um dos objectivos programáticos do presente Governo e que se encontra consagrado no Decreto-Lei n.º 77/84, de 8 de Março.\n\nPara a realização daquele objectivo, a Lei do Orçamento do Estado para 1984 (Lei n.º 42/83, de 31 de Dezembro) determina a transferência para os municípios de algumas competências que a administração central vem levando a cabo, em particular as que concernem ao serviço de transportes escolares.\n\nConsiderando que o actual regime de transportes escolares se encontra definido e regulado por um conjunto de diplomas legais cujas normas, em diversos aspectos, se mostram desajustadas à actual realidade de um serviço que, nos últimos 3 anos, sofreu uma explosão notável, e perante a necessidade de rever, à luz da descentralização, alguns dos princípios básicos que institucionalizam os benefícios do transporte escolar, decidiu o Governo reunir num único diploma a regulamentação que consagra as novas competências municipais na matéria.\n\nA importância deste diploma é por todos reconhecida, quer pelo facto de ser a primeira área de actuação da administração central a ser descentralizada, quer pelo significado que a realização desta competência tem na vida social, cultural e educativa das populações.\n\nO envolvimento dos destinatários e futuros responsáveis pela implementação deste diploma manifestou-se a vários níveis, tendo sido consideradas propostas formuladas pela Associação Nacional dos Municípios Portugueses.\n\nNa sequência do que assim foi estabelecido, visa o presente diploma regulamentar a responsabilização da administração local por todo o processo de organização, funcionamento e financiamento dos transportes escolares, a partir do ano lectivo de 1984-1985.\n\nÉ de realçar que o plano de transportes escolares a elaborar por cada município é o instrumento de gestão por excelência desta actividade e que se deverá conjugar com os princípios e políticas inerentes aos planos e redes de transportes públicos locais, devendo ser um complemento destes.\n\nAssim, para além da regulamentação que ora se define e estabelece relativamente aos poderes de intervenção dos municípios na organização, funcionamento e financiamento dos transportes escolares, o presente diploma cria junto de cada câmara municipal um conselho consultivo de transportes escolares, constituído basicamente pelos representantes do município e das escolas da área abrangida pelos transportes, competindo a presidência de cada um destes órgãos ao presidente da câmara municipal ou ao vereador em que ele entenda delegar as suas funções.\n\nCom efeito, a existência de uma estrutura local forte para organização e coordenação dos transportes escolares, nos seus múltiplos aspectos, potencializará a procura de soluções cada vez mais ajustadas, social e economicamente, às realidades locais se se atender à dominância do poder dos municípios já existente a outros níveis que se interligam com o funcionamento dos transportes escolares, como seja na responsabilidade das infra-estruturas viárias, na gestão dos diversos equipamentos colectivos do concelho, na emissão de pareceres sobre a criação ou alteração de carreiras regulares de transportes colectivos, entre outros.\n\nUma actuação devidamente programada entre os municípios e os estabelecimentos de ensino representará uma melhoria de serviços a prestar aos estudantes, bem como economias significativas na exploração dos transportes escolares.\n\nOs encargos resultantes do exercício desta competência por cada município dependerão, entre outros factores, do número de alunos-utentes do serviço de transportes escolares residentes no município. Para este efeito será transferida anualmente, para cada município, uma verba do Orçamento do Estado, que deverá acompanhar a evolução dos custos inerentes ao exercício das competências aqui regulamentadas.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "118536900": {
+   "fragment_id": "118874379",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\n1 - O presente diploma regula a transferência para os municípios do continente das novas competências em matéria de organização, financiamento e controle de funcionamento dos transportes escolares, de acordo com o disposto no n.º 5 do artigo 47.º da Lei n.º 42/83 e no Decreto-Lei n.º 77/84, de 8 de Março.\n\n2 - Para a prossecução das atribuições relativas aos transportes escolares podem os municípios constituir-se, nos termos da lei, em associações ou federações."
+  },
+  "118536901": {
+   "fragment_id": "118874380",
+   "type": 11,
+   "heading": "Artigo 2.º — (Âmbito do serviço de transporte escolar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — (Âmbito do serviço de transporte escolar)\n\n1 - As competências referidas no n.º 1 do artigo anterior consistem na oferta de serviço de transporte entre o local da sua residência e o local dos estabelecimentos de ensino que frequentam a todos os alunos dos ensinos primário, preparatório TV, preparatório directo e secundário, oficial ou particular e cooperativo com contrato de associação e paralelismo pedagógico quando residam a mais de 3 km ou 4 km dos estabelecimentos de ensino, respectivamente sem ou com refeitório.\n\n2 - O serviço de transporte escolar não abrange os alunos que frequentam cursos nocturnos ou residam nas áreas servidas por transportes urbanos e suburbanos nas regiões de Lisboa e Porto.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os alunos que hajam sido obrigatoriamente deslocados de cursos diurnos para a frequência de cursos nocturnos;\n\nb) Os alunos que hajam sido matriculados compulsivamente em estabelecimentos de ensino situados fora das áreas das suas residências;\n\nc) Os alunos do ensino básico que residam em áreas servidas por transportes suburbanos nas regiões de Lisboa e Porto."
+  },
+  "118536902": {
+   "fragment_id": "118874381",
+   "type": 11,
+   "heading": "Artigo 3.º — (Condições de transporte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — (Condições de transporte)\n\n1 - O transporte escolar será gratuito para os estudantes sujeitos à escolaridade obrigatória que se encontrem nas condições estabelecidas no artigo 2.º\n\n2 - A utilização dos transportes escolares pelos alunos deverá respeitar as normas emanadas do Ministério da Educação respeitantes ao processo de matrícula e seu encaminhamento.\n\n3 - Os alunos que cumpram o estipulado no número anterior e se encontrem matriculados em estabelecimentos de ensino fora do respectivo município de residência serão integrados nos transportes escolares que sirvam aqueles estabelecimentos de ensino, sem prejuízo de poderem utilizar outro transporte escolar.\n\n4 - O transporte dos estudantes do ensino secundário deverá ser comparticipado pelos interessados nos termos a definir em portaria conjunta dos Ministros da Administração Interna e da Educação, ouvida a Associação Nacional dos Municípios Portugueses.\n\n5 - Não serão abrangidos pelos benefícios previstos nos números anteriores os estudantes que se matriculem contrariando as normas estabelecidas de encaminhamento de matrícula de alunos.\n\n6 - Compete a cada estabelecimento de ensino a organização do processo de acesso ao transporte escolar por parte dos seus alunos."
+  },
+  "118536903": {
+   "fragment_id": "118874382",
+   "type": 11,
+   "heading": "Artigo 4.º — (Plano de transporte escolar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Plano de transporte escolar)\n\n1 - Em cada município deverá ser organizado um plano de transporte escolar, conjugando e complementando a rede de transportes públicos e os planos de transportes aprovados para a região, de acordo com a procura efectivamente verificada em cada ano lectivo.\n\n2 - Os estabelecimentos de ensino colaborarão com a respectiva câmara municipal em ordem à elaboração do plano de transporte escolar, à qual devem fornecer, obrigatoriamente, até 15 de Fevereiro de cada ano, os seguintes elementos:\n\na) Previsão do número de alunos que utilizarão o transporte escolar, discriminados por localidades de proveniência, grupos etários de menos e de mais de 12 anos, respectivo grau de ensino e ano que frequentam;\n\nb) Levantamento das localidades que não são servidas por carreiras de serviço público e que se situem a mais de 3 km dos pontos de paragem ou terminais das mesmas;\n\nc) Horário escolar previsto para o ano lectivo a que o plano diz respeito.\n\n3 - O plano de transporte escolar, a aprovar até 15 de Abril pela câmara municipal, incluirá, obrigatoriamente: a área abrangida, representada de preferência em planta à escala de 1:25000, contendo todos os itinerários dos meios de transporte colectivo de passageiros; a numeração e classificação oficiais, ou designação toponímica, das vias de comunicação a percorrer; a distribuição geográfica dos estabelecimentos de ensino, devidamente assinalados; a procura quantificada por locais de origem, assinalando, de forma especial, os que estiverem situados a distância superior a 3 km dos transportes colectivos.\n\n4 - Por razões de ordem conjuntural, o plano de transportes escolares poderá ser objecto de ajustamentos no decurso do ano lectivo a que respeita."
+  },
+  "118536904": {
+   "fragment_id": "118874383",
+   "type": 11,
+   "heading": "Artigo 5.º — (Divulgação dos planos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Divulgação dos planos)\n\n1 - Até ao dia 15 de Maio as câmaras municipais deverão remeter aos estabelecimentos de ensino, ao Instituto de Acção Social Escolar e à Direcção-Geral de Transportes Terrestres o respectivo plano de transportes escolares para o ano lectivo seguinte.\n\n2 - Até ao dia 15 de Junho as câmaras municipais enviarão às entidades referidas no número anterior declaração comprovativa da adjudicação de circuitos especiais.\n\n3 - Sempre que se verifiquem reajustamentos ao plano de transporte escolar, devem os mesmos ser dados a conhecer às entidades acima referidas no prazo de 30 dias."
+  },
+  "118536905": {
+   "fragment_id": "118874384",
+   "type": 11,
+   "heading": "Artigo 6.º — (Meio de transporte a utilizar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Meio de transporte a utilizar)\n\n1 - Na efectivação do transporte da população escolar serão utilizados, em princípio, os meios de transporte colectivo (rodoviário, ferroviário ou fluvial) que sirvam os locais dos estabelecimentos de ensino e de residência dos alunos, nos termos dos artigos 11.º a 14.º deste diploma.\n\n2 - Para os efeitos referidos no número anterior, serão considerados os meios de transporte colectivo cujos terminais ou pontos de paragem se situem a distância não superior a 3 km da residência dos alunos ou do estabelecimento de ensino e, bem assim, os que não obriguem os estudantes a tempos de espera superiores a 45 minutos, ou a tempos de deslocação superiores a 60 minutos, em cada viagem simples.\n\n3 - Sempre que os meios de transporte colectivo não preencham as condições fixadas nos números anteriores ou, preenchendo-as, não satisfaçam regularmente as necessidades do transporte escolar no que se refere quer ao cumprimento dos horários quer à realização dos desdobramentos que se revelem necessários, poderão ser utilizados veículos em regime de aluguer ou de propriedade dos municípios para a realização de circuitos especiais, de acordo com o disposto nos artigos 15.º a 17.º"
+  },
+  "118536906": {
+   "fragment_id": "118874385",
+   "type": 11,
+   "heading": "Artigo 7.º — (Criação provisória e reajustamento de serviços de transportes colectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Criação provisória e reajustamento de serviços de transportes colectivos)\n\n1 - Enquanto a competência para a concessão de carreiras regulares concelhias não for transferida para os municípios, estes poderão propor à Direcção-Geral de Transportes Terrestres a criação, com carácter provisório, de serviços de transportes colectivos, desde que a procura, designadamente a derivada de motivo escolar, o justifique.\n\n2 - Nos casos do número anterior, e quando houver acordo prévio com a empresa transportadora, a Direcção-Geral de Transportes Terrestres informará o processo com carácter de prioridade.\n\n3 - Sempre que se justifique uma alteração das necessidades de utilização dos transportes colectivos por motivos escolares, os municípios poderão propor à Direcção-Geral de Transportes Terrestres o respectivo reajustamento, o qual deverá ser objecto de despacho com carácter de urgência.\n\n4 - Os municípios serão obrigatoriamente ouvidos quanto ao estabelecimento e alteração das redes e horários de transportes colectivos da sua área."
+  },
+  "118536907": {
+   "fragment_id": "118874386",
+   "type": 11,
+   "heading": "Artigo 8.º — (Conselho consultivo de transportes escolares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — (Conselho consultivo de transportes escolares)\n\n1 - Com carácter consultivo, existirá junto de cada câmara municipal, ou do órgão executivo da associação ou da federação de municípios, um conselho consultivo de transportes escolares (CCTE).\n\n2 - O CCTE será composto por:\n\na) Presidente da câmara ou do órgão executivo da associação ou federação de municípios, ou o substituto por eles designado, que convocará e presidirá às reuniões;\n\nb) Professor-secretário de cada um dos estabelecimentos de ensino pós-primário abrangidos pelos transportes escolares;\n\nc) Orientador pedagógico ou coordenador da Telescola, conforme os casos;\n\nd) Delegado escolar, que representará o ensino primário;\n\ne) Coordenador regional para a Acção Social Escolar;\n\nf) Representante de cada uma das empresas concessionárias de serviço público que operam no município.\n\n3 - Nos casos em que na área de jurisdição da câmara municipal ou da associação ou das federações de municípios exista mais de um delegado escolar e ou mais de um orientador pedagógico ou coordenador da Telescola, todos terão assento no CCTE.\n\n4 - O CCTE poderá, eventualmente, ser alargado ao director escolar e ao técnico responsável regional para a Acção Social Escolar, desde que a organização dos transportes escolares requeira uma coordenação de âmbito intermunicipal."
+  },
+  "118536908": {
+   "fragment_id": "118874387",
+   "type": 11,
+   "heading": "Artigo 9.º — (Competência do conselho consultivo de transportes escolares)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — (Competência do conselho consultivo de transportes escolares)\n\nCompete ao CCTE colaborar com a câmara municipal na preparação do plano de transportes escolares do município, analisar todos os elementos necessários à sua elaboração e dar parecer sobre todas as questões referentes ao transporte escolar."
+  },
+  "118536909": {
+   "fragment_id": "118874388",
+   "type": 11,
+   "heading": "Artigo 10.º — (Competência das câmaras municipais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Competência das câmaras municipais)\n\n1 - Compete às câmaras municipais, em matéria de transportes escolares:\n\na) Elaborar e aprovar o plano de transportes escolares, ouvido obrigatoriamente o CCTE;\n\nb) Deliberar sobre a concessão de circuitos especiais;\n\nc) Reajustar as redes de transportes escolares já aprovadas, sempre que por razões pedagógicas, de pessoal ou de instalações o Ministério da Educação proponha alterações às referidas redes."
+  },
+  "118536910": {
+   "fragment_id": "118874389",
+   "type": 11,
+   "heading": "Artigo 11.º — (Bilhetes de assinatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Bilhetes de assinatura)\n\n1 - As empresas de transportes colectivos de passageiros concederão obrigatoriamente bilhetes de assinatura (passe escolar) aos estudantes abrangidos por este diploma.\n\n2 - Os bilhetes de assinatura terão validade mensal, a utilizar somente em duas viagens nos dias lectivos e para os troços das carreiras que ligam o local do estabelecimento de ensino ao local de residência do aluno."
+  },
+  "118536911": {
+   "fragment_id": "118874390",
+   "type": 11,
+   "heading": "Artigo 12.º — (Ocupação de lugar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — (Ocupação de lugar)\n\n1 - Os estudantes portadores de bilhete de assinatura têm direito à ocupação de um lugar sentado, nos termos da legislação geral.\n\n2 - Os estudantes de idade inferior a 12 anos têm direito a um lugar, mas se no mesmo veículo seguirem outros estudantes ou crianças menores de 12 anos, a cada 2 lugares corresponderão 3 crianças e a cada 3 lugares 4 crianças, desde que se trate de bancos sem separação de lugares individuais."
+  },
+  "118536912": {
+   "fragment_id": "118874391",
+   "type": 11,
+   "heading": "Artigo 13.º — (Preço e pagamento dos bilhetes de assinatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Preço e pagamento dos bilhetes de assinatura)\n\n1 - Os cartões para os passes escolares serão requisitados anualmente às empresas transportadoras pelas câmaras municipais.\n\n2 - Mediante protocolo a estabelecer entre a câmara municipal e os estabelecimentos de ensino, poderão estes requisitar, mensalmente, as vinhetas para os respectivos alunos.\n\n3 - O preço dos bilhetes de assinatura para estudantes terá a redução a fixar em portaria conjunta dos Ministérios da Administração Interna, da Educação e do Equipamento Social.\n\n4 - As empresas facturarão, mensalmente, às câmaras municipais os bilhetes de assinatura que lhes tiverem sido requisitados para o mês seguinte, recebendo das mesmas o correspondente pagamento até ao dia 20 do mês da sua utilização."
+  },
+  "118536913": {
+   "fragment_id": "118874392",
+   "type": 11,
+   "heading": "Artigo 14.º — (Garantia de execução do transporte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Garantia de execução do transporte)\n\n1 - As empresas são obrigadas a assegurar o transporte de todos os estudantes portadores de bilhetes de assinatura, realizando para o efeito os indispensáveis desdobramentos que regularmente se justifiquem, não se aplicando, neste caso, o condicionalismo referido no artigo 128.º do Regulamento de Transportes em Automóveis.\n\n2 - Para efeitos do disposto no número anterior, poderá a empresa requerer o licenciamento de veículos ligeiros de passageiros de aluguer sempre que o número excedentário de utentes da carreira não justifique a utilização de um veículo pesado.\n\n3 - A não realização dos desdobramentos a que se refere o n.º 1 do presente artigo é passível de multa, a aplicar nos termos do artigo 211.º do Regulamento de Transportes em Automóveis."
+  },
+  "118536914": {
+   "fragment_id": "118874393",
+   "type": 11,
+   "heading": "Artigo 15.º — (Circuitos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Circuitos especiais)\n\n1 - Os circuitos especiais podem ser efectuados directamente pelos municípios através de veículos próprios ou adjudicados mediante concurso.\n\n2 - O concurso a que se refere o número anterior será promovido pelas câmaras municipais até ao dia 20 de Abril e reger-se-á por normas específicas, a fixar em portaria dos Ministérios da Administração Interna e do Equipamento Social, ouvida a Associação Nacional dos Municípios Portugueses.\n\n3 - A adjudicação dos circuitos especiais será efectuada até 31 de Maio.\n\n4 - Os veículos utilizados na realização dos circuitos especiais deverão estar identificados nos termos da Portaria n.º 324/82, de 25 de Março, com a redacção que lhe foi dada pela Portaria n.º 475/83, de 22 de Abril."
+  },
+  "118536915": {
+   "fragment_id": "118874394",
+   "type": 11,
+   "heading": "Artigo 16.º — (Transporte de outras pessoas nos circuitos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Transporte de outras pessoas nos circuitos especiais)\n\n1 - Nos circuitos especiais poderão ser transportados professores e outros funcionários dos estabelecimentos de ensino, sem prejuízo da prioridade de transporte dos respectivos alunos.\n\n2 - Poderá também ser autorizado pela Direcção-Geral de Transportes Terrestres, sob proposta da câmara municipal, o transporte de outras pessoas, desde que haja lugares disponíveis e para satisfação desta procura, não existam transportes colectivos no percurso.\n\n3 - As pessoas transportadas nos termos dos números anteriores pagarão pelo seu transporte o preço correspondente ao dos bilhetes simples em vigor nas carreiras de serviço público, que constituirá receita do respectivo município."
+  },
+  "118536916": {
+   "fragment_id": "118874395",
+   "type": 11,
+   "heading": "Artigo 17.º — (Licenciamento de veículos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Licenciamento de veículos)\n\n1 - Sempre que os veículos a utilizar nos circuitos especiais não estejam licenciados para aluguer ou para a realização de circuitos turísticos e excursões colectivas, competirá à Direcção-Geral de Transportes Terrestres proceder aos respectivos licenciamentos.\n\n2 - O licenciamento será requerido ao director-geral de Transportes Terrestres pelo proprietário do veículo, acompanhado da indicação do respectivo itinerário e, no caso de concessão de circuito especial, de declaração comprovativa passada pela câmara municipal.\n\n3 - O disposto nos números anteriores não se aplica aos veículos pertencentes às câmaras municipais."
+  },
+  "118536917": {
+   "fragment_id": "118874396",
+   "type": 11,
+   "heading": "Artigo 18.º — (Responsabilidade civil pelo exercício da actividade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Responsabilidade civil pelo exercício da actividade)\n\n1 - No que respeita às empresas de transportes colectivos de passageiros, é aplicável em matéria de responsabilidade civil o que se encontra disposto nos artigos 122.º e 123.º do Regulamento de Transportes em Automóveis.\n\n2 - Nos outros casos, é obrigatório cobrir o risco da responsabilidade civil em condições não menos favoráveis que as contempladas no número anterior para passageiros.\n\n3 - No caso previsto no número anterior, poderá substituir-se o seguro pela prestação de caução idónea correspondente, como acontece com as empresas de transportes colectivos."
+  },
+  "118536918": {
+   "fragment_id": "118874397",
+   "type": 11,
+   "heading": "Artigo 19.º — (Transferência de veículos para os municípios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Transferência de veículos para os municípios)\n\n1 - A propriedade dos veículos afectos aos transportes escolares de que sejam titulares os estabelecimentos de ensino, o Instituto de Acção Social Escolar ou o Estado será transferida para os municípios, nos termos do n.º 1 do artigo 13.º do Decreto-Lei n.º 77/84, de 8 de Março.\n\n2 - O pessoal que actualmente assegura a condução dos veículos referidos no número anterior e que não esteja integrado no quadro dos estabelecimentos de ensino passará a prestar serviço nas câmaras municipais."
+  },
+  "118536919": {
+   "fragment_id": "118874398",
+   "type": 11,
+   "heading": "Artigo 20.º — (Competência do Ministério da Educação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Competência do Ministério da Educação)\n\nCompete ao Ministério da Educação, através do Instituto de Acção Social Escolar:\n\na) Transmitir, através dos directores escolares e responsáveis regionais, as orientações que constituem o quadro de referência para actuação dos delegados escolares, coordenadores regionais e secretários dos conselhos directivos no conselho consultivo de transportes escolares;\n\nb) Solicitar a intervenção dos serviços técnicos competentes, designadamente da Inspecção-Geral de Ensino, no sentido de tornar compatíveis os horários escolares com os da oferta dos transportes escolares;\n\nc) Apreciar os planos de transportes escolares sob o ponto de vista técnico-pedagógico, por forma a serem accionados os mecanismos necessários à compatibilização daqueles com a capacidade de acolhimento e funcionamento dos estabelecimentos de ensino;\n\nd) Participar na elaboração das portarias referidas no n.º 4 do artigo 3.º e no n.º 3 do artigo 13.º"
+  },
+  "118536920": {
+   "fragment_id": "118874399",
+   "type": 11,
+   "heading": "Artigo 21.º — (Competência do Ministério do Equipamento Social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Competência do Ministério do Equipamento Social)\n\nCompete ao Ministério do Equipamento Social, através da Direcção-Geral de Transportes Terrestres:\n\na) Promover a inserção das redes de transportes escolares em planos de transportes com âmbito mais vasto;\n\nb) Apoiar tecnicamente as câmaras municipais, sempre que estas o solicitem;\n\nc) Promover, através de portaria conjunta dos Ministérios da Administração Interna, da Educação e do Equipamento Social, a fixação dos preços dos bilhetes de assinatura utilizados pelos estudantes nos transportes colectivos;\n\nd) Fornecer, a pedido das câmaras municipais, relação das empresas concessionárias de serviço de transporte público que operam na área do município, indicando os percursos das carreiras e os respectivos horários;\n\ne) Accionar os mecanismos fiscalizadores da actividade dos transportes escolares, nos termos da lei."
+  },
+  "118536921": {
+   "fragment_id": "118874400",
+   "type": 11,
+   "heading": "Artigo 22.º — (Transferência de verbas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Transferência de verbas)\n\n1 - A parcela a transferir para fazer face aos custos dos transportes escolares será anualmente integrada no Fundo de Equilíbrio Financeiro.\n\n2 - O financiamento dos encargos com os transportes escolares relativos ao último trimestre de 1984 será assegurado pelo Governo através de transferência de verbas correspondentes aos custos previstos por município."
+  },
+  "118536922": {
+   "fragment_id": "118874401",
+   "type": 11,
+   "heading": "Artigo 23.º — (Repartição de encargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Repartição de encargos)\n\n1 - O financiamento dos transportes escolares no caso do n.º 3 do artigo 3.º será da responsabilidade dos municípios interessados, mediante acordo entre si.\n\n2 - Na falta de acordo relativamente à repartição dos encargos, serão estes repartidos proporcionalmente ao número de estudantes residentes em cada município interveniente."
+  },
+  "118536923": {
+   "fragment_id": "118874402",
+   "type": 11,
+   "heading": "Artigo 24.º — (Cumprimento dos prazos em 1984-1985)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Cumprimento dos prazos em 1984-1985)\n\nNo ano lectivo de 1984-1985, o cumprimento do preceituado nos artigos 4.º, 5.º e 15.º far-se-á independentemente dos prazos neles fixados."
+  },
+  "118536924": {
+   "fragment_id": "118874403",
+   "type": 11,
+   "heading": "Artigo 25.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Legislação revogada)\n\n1 - Ficam revogados os Decretos-Leis n.os 404/77, 372/79 e 229/83, respectivamente de 24 de Setembro, 9 de Setembro e 27 de Maio.\n\n2 - Poderão, todavia, no ano lectivo de 1984-1985, ser adoptados e postos em execução os planos de transportes escolares em funcionamento à data da entrada em vigor deste diploma."
+  },
+  "118536899": {
+   "fragment_id": "118874378",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 299/84\n\nde 5 de Setembro\n\nO reforço da descentralização do Estado através da atribuição de mais competências às autarquias existentes é um dos objectivos programáticos do presente Governo e que se encontra consagrado no Decreto-Lei n.º 77/84, de 8 de Março.\n\nPara a realização daquele objectivo, a Lei do Orçamento do Estado para 1984 (Lei n.º 42/83, de 31 de Dezembro) determina a transferência para os municípios de algumas competências que a administração central vem levando a cabo, em particular as que concernem ao serviço de transportes escolares.\n\nConsiderando que o actual regime de transportes escolares se encontra definido e regulado por um conjunto de diplomas legais cujas normas, em diversos aspectos, se mostram desajustadas à actual realidade de um serviço que, nos últimos 3 anos, sofreu uma explosão notável, e perante a necessidade de rever, à luz da descentralização, alguns dos princípios básicos que institucionalizam os benefícios do transporte escolar, decidiu o Governo reunir num único diploma a regulamentação que consagra as novas competências municipais na matéria.\n\nA importância deste diploma é por todos reconhecida, quer pelo facto de ser a primeira área de actuação da administração central a ser descentralizada, quer pelo significado que a realização desta competência tem na vida social, cultural e educativa das populações.\n\nO envolvimento dos destinatários e futuros responsáveis pela implementação deste diploma manifestou-se a vários níveis, tendo sido consideradas propostas formuladas pela Associação Nacional dos Municípios Portugueses.\n\nNa sequência do que assim foi estabelecido, visa o presente diploma regulamentar a responsabilização da administração local por todo o processo de organização, funcionamento e financiamento dos transportes escolares, a partir do ano lectivo de 1984-1985.\n\nÉ de realçar que o plano de transportes escolares a elaborar por cada município é o instrumento de gestão por excelência desta actividade e que se deverá conjugar com os princípios e políticas inerentes aos planos e redes de transportes públicos locais, devendo ser um complemento destes.\n\nAssim, para além da regulamentação que ora se define e estabelece relativamente aos poderes de intervenção dos municípios na organização, funcionamento e financiamento dos transportes escolares, o presente diploma cria junto de cada câmara municipal um conselho consultivo de transportes escolares, constituído basicamente pelos representantes do município e das escolas da área abrangida pelos transportes, competindo a presidência de cada um destes órgãos ao presidente da câmara municipal ou ao vereador em que ele entenda delegar as suas funções.\n\nCom efeito, a existência de uma estrutura local forte para organização e coordenação dos transportes escolares, nos seus múltiplos aspectos, potencializará a procura de soluções cada vez mais ajustadas, social e economicamente, às realidades locais se se atender à dominância do poder dos municípios já existente a outros níveis que se interligam com o funcionamento dos transportes escolares, como seja na responsabilidade das infra-estruturas viárias, na gestão dos diversos equipamentos colectivos do concelho, na emissão de pareceres sobre a criação ou alteração de carreiras regulares de transportes colectivos, entre outros.\n\nUma actuação devidamente programada entre os municípios e os estabelecimentos de ensino representará uma melhoria de serviços a prestar aos estudantes, bem como economias significativas na exploração dos transportes escolares.\n\nOs encargos resultantes do exercício desta competência por cada município dependerão, entre outros factores, do número de alunos-utentes do serviço de transportes escolares residentes no município. Para este efeito será transferida anualmente, para cada município, uma verba do Orçamento do Estado, que deverá acompanhar a evolução dos custos inerentes ao exercício das competências aqui regulamentadas.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "118536926": {
+   "fragment_id": "118874386",
+   "type": 11,
+   "heading": "Artigo 8.º — (Conselho consultivo de transportes escolares)",
+   "in_force_from": "2003-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — (Conselho consultivo de transportes escolares)\n\n1 - Com carácter consultivo, existirá junto de cada câmara municipal, ou do órgão executivo da associação ou da federação de municípios, um conselho consultivo de transportes escolares (CCTE).\n\n2 - O CCTE será composto por:\n\na) Presidente da câmara ou do órgão executivo da associação ou federação de municípios, ou o substituto por eles designado, que convocará e presidirá às reuniões;\n\nb) Professor-secretário de cada um dos estabelecimentos de ensino pós-primário abrangidos pelos transportes escolares;\n\nc) Orientador pedagógico ou coordenador da Telescola, conforme os casos;\n\nd) Delegado escolar, que representará o ensino primário;\n\ne) Coordenador regional para a Acção Social Escolar;\n\nf) Representante de cada uma das empresas concessionárias de serviço público que operam no município.\n\n3 - Nos casos em que na área de jurisdição da câmara municipal ou da associação ou das federações de municípios exista mais de um delegado escolar e ou mais de um orientador pedagógico ou coordenador da Telescola, todos terão assento no CCTE.\n\n4 - O CCTE poderá, eventualmente, ser alargado ao director escolar e ao técnico responsável regional para a Acção Social Escolar, desde que a organização dos transportes escolares requeira uma coordenação de âmbito intermunicipal.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+  },
+  "118536927": {
+   "fragment_id": "118874387",
+   "type": 11,
+   "heading": "Artigo 9.º — (Competência do conselho consultivo de transportes escolares)",
+   "in_force_from": "2003-01-20",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — (Competência do conselho consultivo de transportes escolares)\n\nCompete ao CCTE colaborar com a câmara municipal na preparação do plano de transportes escolares do município, analisar todos os elementos necessários à sua elaboração e dar parecer sobre todas as questões referentes ao transporte escolar.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+  },
+  "118536925": {
+   "fragment_id": "118874404",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - José Augusto Seabra - João Rosado Correia.\n\nPromulgado em 16 de Agosto de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Agosto de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "118536964": {
+   "fragment_id": "118874390",
+   "type": 11,
+   "heading": "Artigo 12.º — (Ocupação de lugar)",
+   "in_force_from": "2006-05-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Lei n.º 13/2006 - Diário da República n.º 75/2006, Série I-A de 2006-04-17](https://diariodarepublica.pt/dr/detalhe/lei/13-2006-650958), em vigor a partir de 2006-05-17"
+   ],
+   "markdown": "###### Artigo 12.º — (Ocupação de lugar)\n\n1 - Os estudantes portadores de bilhete de assinatura têm direito à ocupação de um lugar sentado, nos termos da legislação geral.\n\n2 - Revogado.\n\n> Alterado pelo/a Artigo 27.º do/a [Lei n.º 13/2006 - Diário da República n.º 75/2006, Série I-A de 2006-04-17](https://diariodarepublica.pt/dr/detalhe/lei/13-2006-650958), em vigor a partir de 2006-05-17"
+  },
+  "118878396": {
+   "fragment_id": "118874379",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": "2008-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\n1 - O presente diploma regula a transferência para os municípios do continente das novas competências em matéria de organização, financiamento e controle de funcionamento dos transportes escolares, de acordo com o disposto no n.º 5 do artigo 47.º da Lei n.º 42/83 e no Decreto-Lei n.º 77/84, de 8 de Março.\n\n2 - Para a prossecução das atribuições relativas aos transportes escolares podem os municípios constituir-se, nos termos da lei, em associações ou federações.\n\n3 - O presente decreto-lei regula, ainda, as condições de atribuição de um passe escolar aos alunos não abrangidos pelo artigo 2.º, designado por 'passe 4_18@escola.tp'.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+  },
+  "118878397": {
+   "fragment_id": "118874381",
+   "type": 11,
+   "heading": "Artigo 3.º — (Condições de transporte)",
+   "in_force_from": "2008-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — (Condições de transporte)\n\n1 - O transporte escolar será gratuito para os estudantes sujeitos à escolaridade obrigatória que se encontrem nas condições estabelecidas no artigo 2.º\n\n2 - A utilização dos transportes escolares pelos alunos deverá respeitar as normas emanadas do Ministério da Educação respeitantes ao processo de matrícula e seu encaminhamento.\n\n3 - Os alunos que cumpram o estipulado no número anterior e se encontrem matriculados em estabelecimentos de ensino fora do respectivo município de residência serão integrados nos transportes escolares que sirvam aqueles estabelecimentos de ensino, sem prejuízo de poderem utilizar outro transporte escolar.\n\n4 - O transporte dos estudantes do ensino secundário deverá ser comparticipado pelos interessados nos termos a definir em portaria conjunta dos Ministros da Administração Interna e da Educação, ouvida a Associação Nacional dos Municípios Portugueses.\n\n5 - Não serão abrangidos pelos benefícios previstos nos números anteriores os estudantes que se matriculem contrariando as normas estabelecidas de encaminhamento de matrícula de alunos.\n\n6 - Compete a cada estabelecimento de ensino a organização do processo de acesso ao transporte escolar por parte dos seus alunos, bem como a emissão de declaração, segundo modelo a definir na portaria prevista no n.º 3 do artigo 3.º-A, relativa aos alunos que não beneficiam de transporte escolar no âmbito do presente decreto-lei, para efeitos de atribuição do passe a que se refere o artigo 3.º-A.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+  },
+  "118536972": {
+   "fragment_id": "118874450",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Passe 4_18@escola.tp",
+   "in_force_from": "2008-09-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2008-09-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Passe 4_18@escola.tp\n\n1 - Os alunos não abrangidos pelo artigo 2.º, com idade entre os 4 aos 18 anos, inclusive, beneficiam de redução do preço do título de transporte, a qual corresponde a um desconto de 50 % a deduzir do valor da tarifa inteira relativa aos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha, correspondentes ao percurso entre a sua casa e a escola.\n\n2 - É aplicável ao 'passe 4_18@escola.tp' o disposto nos n.os 5 e 6 do artigo 3.º do presente decreto-lei.\n\n3 - As condições de atribuição do desconto a que se refere o n.º 1, bem como as relativas à operacionalização do sistema 'passe 4_18@escola.tp' são definidas por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, dos transportes, da administração local e da educação.\n\n4 - As compensações financeiras a atribuir aos operadores de transporte em razão da obrigação tarifária decorrente da implementação do 'passe 4_18@escola.tp' são estabelecidas em termos a acordar entre o Governo e as empresas de transporte.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2008-09-01"
+  },
+  "118536973": {
+   "fragment_id": "118874382",
+   "type": 11,
+   "heading": "Artigo 4.º — (Plano de transporte escolar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — (Plano de transporte escolar)\n\n1 - Em cada município deverá ser organizado um plano de transporte escolar, conjugando e complementando a rede de transportes públicos e os planos de transportes aprovados para a região, de acordo com a procura efectivamente verificada em cada ano lectivo.\n\n2 - Os estabelecimentos de ensino colaborarão com a respectiva câmara municipal em ordem à elaboração do plano de transporte escolar, à qual devem fornecer, obrigatoriamente, até 15 de Fevereiro de cada ano, os seguintes elementos:\n\na) Previsão do número de alunos que utilizarão o transporte escolar, discriminados por localidades de proveniência, grupos etários de menos e de mais de 12 anos, respectivo grau de ensino e ano que frequentam;\n\nb) Levantamento das localidades que não são servidas por carreiras de serviço público e que se situem a mais de 3 km dos pontos de paragem ou terminais das mesmas;\n\nc) Horário escolar previsto para o ano lectivo a que o plano diz respeito.\n\n3 - O plano de transporte escolar, a aprovar até 15 de Abril pela câmara municipal, incluirá, obrigatoriamente: a área abrangida, representada de preferência em planta à escala de 1:25000, contendo todos os itinerários dos meios de transporte colectivo de passageiros; a numeração e classificação oficiais, ou designação toponímica, das vias de comunicação a percorrer; a distribuição geográfica dos estabelecimentos de ensino, devidamente assinalados; a procura quantificada por locais de origem, assinalando, de forma especial, os que estiverem situados a distância superior a 3 km dos transportes colectivos.\n\n4 - Por razões de ordem conjuntural, o plano de transportes escolares poderá ser objecto de ajustamentos no decurso do ano lectivo a que respeita."
+  },
+  "118536974": {
+   "fragment_id": "118874383",
+   "type": 11,
+   "heading": "Artigo 5.º — (Divulgação dos planos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — (Divulgação dos planos)\n\n1 - Até ao dia 15 de Maio as câmaras municipais deverão remeter aos estabelecimentos de ensino, ao Instituto de Acção Social Escolar e à Direcção-Geral de Transportes Terrestres o respectivo plano de transportes escolares para o ano lectivo seguinte.\n\n2 - Até ao dia 15 de Junho as câmaras municipais enviarão às entidades referidas no número anterior declaração comprovativa da adjudicação de circuitos especiais.\n\n3 - Sempre que se verifiquem reajustamentos ao plano de transporte escolar, devem os mesmos ser dados a conhecer às entidades acima referidas no prazo de 30 dias."
+  },
+  "118878375": {
+   "fragment_id": "118874384",
+   "type": 11,
+   "heading": "Artigo 6.º — (Meio de transporte a utilizar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — (Meio de transporte a utilizar)\n\n1 - Na efectivação do transporte da população escolar serão utilizados, em princípio, os meios de transporte colectivo (rodoviário, ferroviário ou fluvial) que sirvam os locais dos estabelecimentos de ensino e de residência dos alunos, nos termos dos artigos 11.º a 14.º deste diploma.\n\n2 - Para os efeitos referidos no número anterior, serão considerados os meios de transporte colectivo cujos terminais ou pontos de paragem se situem a distância não superior a 3 km da residência dos alunos ou do estabelecimento de ensino e, bem assim, os que não obriguem os estudantes a tempos de espera superiores a 45 minutos, ou a tempos de deslocação superiores a 60 minutos, em cada viagem simples.\n\n3 - Sempre que os meios de transporte colectivo não preencham as condições fixadas nos números anteriores ou, preenchendo-as, não satisfaçam regularmente as necessidades do transporte escolar no que se refere quer ao cumprimento dos horários quer à realização dos desdobramentos que se revelem necessários, poderão ser utilizados veículos em regime de aluguer ou de propriedade dos municípios para a realização de circuitos especiais, de acordo com o disposto nos artigos 15.º a 17.º"
+  },
+  "118878376": {
+   "fragment_id": "118874385",
+   "type": 11,
+   "heading": "Artigo 7.º — (Criação provisória e reajustamento de serviços de transportes colectivos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — (Criação provisória e reajustamento de serviços de transportes colectivos)\n\n1 - Enquanto a competência para a concessão de carreiras regulares concelhias não for transferida para os municípios, estes poderão propor à Direcção-Geral de Transportes Terrestres a criação, com carácter provisório, de serviços de transportes colectivos, desde que a procura, designadamente a derivada de motivo escolar, o justifique.\n\n2 - Nos casos do número anterior, e quando houver acordo prévio com a empresa transportadora, a Direcção-Geral de Transportes Terrestres informará o processo com carácter de prioridade.\n\n3 - Sempre que se justifique uma alteração das necessidades de utilização dos transportes colectivos por motivos escolares, os municípios poderão propor à Direcção-Geral de Transportes Terrestres o respectivo reajustamento, o qual deverá ser objecto de despacho com carácter de urgência.\n\n4 - Os municípios serão obrigatoriamente ouvidos quanto ao estabelecimento e alteração das redes e horários de transportes colectivos da sua área."
+  },
+  "118878377": {
+   "fragment_id": "118874386",
+   "type": 11,
+   "heading": "Artigo 8.º — (Conselho consultivo de transportes escolares)",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — (Conselho consultivo de transportes escolares)\n\n1 - Com carácter consultivo, existirá junto de cada câmara municipal, ou do órgão executivo da associação ou da federação de municípios, um conselho consultivo de transportes escolares (CCTE).\n\n2 - O CCTE será composto por:\n\na) Presidente da câmara ou do órgão executivo da associação ou federação de municípios, ou o substituto por eles designado, que convocará e presidirá às reuniões;\n\nb) Professor-secretário de cada um dos estabelecimentos de ensino pós-primário abrangidos pelos transportes escolares;\n\nc) Orientador pedagógico ou coordenador da Telescola, conforme os casos;\n\nd) Delegado escolar, que representará o ensino primário;\n\ne) Coordenador regional para a Acção Social Escolar;\n\nf) Representante de cada uma das empresas concessionárias de serviço público que operam no município.\n\n3 - Nos casos em que na área de jurisdição da câmara municipal ou da associação ou das federações de municípios exista mais de um delegado escolar e ou mais de um orientador pedagógico ou coordenador da Telescola, todos terão assento no CCTE.\n\n4 - O CCTE poderá, eventualmente, ser alargado ao director escolar e ao técnico responsável regional para a Acção Social Escolar, desde que a organização dos transportes escolares requeira uma coordenação de âmbito intermunicipal.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+  },
+  "118878378": {
+   "fragment_id": "118874387",
+   "type": 11,
+   "heading": "Artigo 9.º — (Competência do conselho consultivo de transportes escolares)",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — (Competência do conselho consultivo de transportes escolares)\n\nCompete ao CCTE colaborar com a câmara municipal na preparação do plano de transportes escolares do município, analisar todos os elementos necessários à sua elaboração e dar parecer sobre todas as questões referentes ao transporte escolar.\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+  },
+  "118878379": {
+   "fragment_id": "118874388",
+   "type": 11,
+   "heading": "Artigo 10.º — (Competência das câmaras municipais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — (Competência das câmaras municipais)\n\n1 - Compete às câmaras municipais, em matéria de transportes escolares:\n\na) Elaborar e aprovar o plano de transportes escolares, ouvido obrigatoriamente o CCTE;\n\nb) Deliberar sobre a concessão de circuitos especiais;\n\nc) Reajustar as redes de transportes escolares já aprovadas, sempre que por razões pedagógicas, de pessoal ou de instalações o Ministério da Educação proponha alterações às referidas redes."
+  },
+  "118878380": {
+   "fragment_id": "118874389",
+   "type": 11,
+   "heading": "Artigo 11.º — (Bilhetes de assinatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — (Bilhetes de assinatura)\n\n1 - As empresas de transportes colectivos de passageiros concederão obrigatoriamente bilhetes de assinatura (passe escolar) aos estudantes abrangidos por este diploma.\n\n2 - Os bilhetes de assinatura terão validade mensal, a utilizar somente em duas viagens nos dias lectivos e para os troços das carreiras que ligam o local do estabelecimento de ensino ao local de residência do aluno."
+  },
+  "118878381": {
+   "fragment_id": "118874390",
+   "type": 11,
+   "heading": "Artigo 12.º — (Ocupação de lugar)",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Lei n.º 13/2006 - Diário da República n.º 75/2006, Série I-A de 2006-04-17](https://diariodarepublica.pt/dr/detalhe/lei/13-2006-650958), em vigor a partir de 2006-05-17"
+   ],
+   "markdown": "###### Artigo 12.º — (Ocupação de lugar)\n\n1 - Os estudantes portadores de bilhete de assinatura têm direito à ocupação de um lugar sentado, nos termos da legislação geral.\n\n2 - Revogado.\n\n> Alterado pelo/a Artigo 27.º do/a [Lei n.º 13/2006 - Diário da República n.º 75/2006, Série I-A de 2006-04-17](https://diariodarepublica.pt/dr/detalhe/lei/13-2006-650958), em vigor a partir de 2006-05-17"
+  },
+  "118878382": {
+   "fragment_id": "118874391",
+   "type": 11,
+   "heading": "Artigo 13.º — (Preço e pagamento dos bilhetes de assinatura)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — (Preço e pagamento dos bilhetes de assinatura)\n\n1 - Os cartões para os passes escolares serão requisitados anualmente às empresas transportadoras pelas câmaras municipais.\n\n2 - Mediante protocolo a estabelecer entre a câmara municipal e os estabelecimentos de ensino, poderão estes requisitar, mensalmente, as vinhetas para os respectivos alunos.\n\n3 - O preço dos bilhetes de assinatura para estudantes terá a redução a fixar em portaria conjunta dos Ministérios da Administração Interna, da Educação e do Equipamento Social.\n\n4 - As empresas facturarão, mensalmente, às câmaras municipais os bilhetes de assinatura que lhes tiverem sido requisitados para o mês seguinte, recebendo das mesmas o correspondente pagamento até ao dia 20 do mês da sua utilização."
+  },
+  "118878383": {
+   "fragment_id": "118874392",
+   "type": 11,
+   "heading": "Artigo 14.º — (Garantia de execução do transporte)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — (Garantia de execução do transporte)\n\n1 - As empresas são obrigadas a assegurar o transporte de todos os estudantes portadores de bilhetes de assinatura, realizando para o efeito os indispensáveis desdobramentos que regularmente se justifiquem, não se aplicando, neste caso, o condicionalismo referido no artigo 128.º do Regulamento de Transportes em Automóveis.\n\n2 - Para efeitos do disposto no número anterior, poderá a empresa requerer o licenciamento de veículos ligeiros de passageiros de aluguer sempre que o número excedentário de utentes da carreira não justifique a utilização de um veículo pesado.\n\n3 - A não realização dos desdobramentos a que se refere o n.º 1 do presente artigo é passível de multa, a aplicar nos termos do artigo 211.º do Regulamento de Transportes em Automóveis."
+  },
+  "118878384": {
+   "fragment_id": "118874393",
+   "type": 11,
+   "heading": "Artigo 15.º — (Circuitos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — (Circuitos especiais)\n\n1 - Os circuitos especiais podem ser efectuados directamente pelos municípios através de veículos próprios ou adjudicados mediante concurso.\n\n2 - O concurso a que se refere o número anterior será promovido pelas câmaras municipais até ao dia 20 de Abril e reger-se-á por normas específicas, a fixar em portaria dos Ministérios da Administração Interna e do Equipamento Social, ouvida a Associação Nacional dos Municípios Portugueses.\n\n3 - A adjudicação dos circuitos especiais será efectuada até 31 de Maio.\n\n4 - Os veículos utilizados na realização dos circuitos especiais deverão estar identificados nos termos da Portaria n.º 324/82, de 25 de Março, com a redacção que lhe foi dada pela Portaria n.º 475/83, de 22 de Abril."
+  },
+  "118878385": {
+   "fragment_id": "118874394",
+   "type": 11,
+   "heading": "Artigo 16.º — (Transporte de outras pessoas nos circuitos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — (Transporte de outras pessoas nos circuitos especiais)\n\n1 - Nos circuitos especiais poderão ser transportados professores e outros funcionários dos estabelecimentos de ensino, sem prejuízo da prioridade de transporte dos respectivos alunos.\n\n2 - Poderá também ser autorizado pela Direcção-Geral de Transportes Terrestres, sob proposta da câmara municipal, o transporte de outras pessoas, desde que haja lugares disponíveis e para satisfação desta procura, não existam transportes colectivos no percurso.\n\n3 - As pessoas transportadas nos termos dos números anteriores pagarão pelo seu transporte o preço correspondente ao dos bilhetes simples em vigor nas carreiras de serviço público, que constituirá receita do respectivo município."
+  },
+  "118878386": {
+   "fragment_id": "118874395",
+   "type": 11,
+   "heading": "Artigo 17.º — (Licenciamento de veículos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — (Licenciamento de veículos)\n\n1 - Sempre que os veículos a utilizar nos circuitos especiais não estejam licenciados para aluguer ou para a realização de circuitos turísticos e excursões colectivas, competirá à Direcção-Geral de Transportes Terrestres proceder aos respectivos licenciamentos.\n\n2 - O licenciamento será requerido ao director-geral de Transportes Terrestres pelo proprietário do veículo, acompanhado da indicação do respectivo itinerário e, no caso de concessão de circuito especial, de declaração comprovativa passada pela câmara municipal.\n\n3 - O disposto nos números anteriores não se aplica aos veículos pertencentes às câmaras municipais."
+  },
+  "118878387": {
+   "fragment_id": "118874396",
+   "type": 11,
+   "heading": "Artigo 18.º — (Responsabilidade civil pelo exercício da actividade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — (Responsabilidade civil pelo exercício da actividade)\n\n1 - No que respeita às empresas de transportes colectivos de passageiros, é aplicável em matéria de responsabilidade civil o que se encontra disposto nos artigos 122.º e 123.º do Regulamento de Transportes em Automóveis.\n\n2 - Nos outros casos, é obrigatório cobrir o risco da responsabilidade civil em condições não menos favoráveis que as contempladas no número anterior para passageiros.\n\n3 - No caso previsto no número anterior, poderá substituir-se o seguro pela prestação de caução idónea correspondente, como acontece com as empresas de transportes colectivos."
+  },
+  "118878388": {
+   "fragment_id": "118874397",
+   "type": 11,
+   "heading": "Artigo 19.º — (Transferência de veículos para os municípios)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — (Transferência de veículos para os municípios)\n\n1 - A propriedade dos veículos afectos aos transportes escolares de que sejam titulares os estabelecimentos de ensino, o Instituto de Acção Social Escolar ou o Estado será transferida para os municípios, nos termos do n.º 1 do artigo 13.º do Decreto-Lei n.º 77/84, de 8 de Março.\n\n2 - O pessoal que actualmente assegura a condução dos veículos referidos no número anterior e que não esteja integrado no quadro dos estabelecimentos de ensino passará a prestar serviço nas câmaras municipais."
+  },
+  "118878389": {
+   "fragment_id": "118874398",
+   "type": 11,
+   "heading": "Artigo 20.º — (Competência do Ministério da Educação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — (Competência do Ministério da Educação)\n\nCompete ao Ministério da Educação, através do Instituto de Acção Social Escolar:\n\na) Transmitir, através dos directores escolares e responsáveis regionais, as orientações que constituem o quadro de referência para actuação dos delegados escolares, coordenadores regionais e secretários dos conselhos directivos no conselho consultivo de transportes escolares;\n\nb) Solicitar a intervenção dos serviços técnicos competentes, designadamente da Inspecção-Geral de Ensino, no sentido de tornar compatíveis os horários escolares com os da oferta dos transportes escolares;\n\nc) Apreciar os planos de transportes escolares sob o ponto de vista técnico-pedagógico, por forma a serem accionados os mecanismos necessários à compatibilização daqueles com a capacidade de acolhimento e funcionamento dos estabelecimentos de ensino;\n\nd) Participar na elaboração das portarias referidas no n.º 4 do artigo 3.º e no n.º 3 do artigo 13.º"
+  },
+  "118878390": {
+   "fragment_id": "118874399",
+   "type": 11,
+   "heading": "Artigo 21.º — (Competência do Ministério do Equipamento Social)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — (Competência do Ministério do Equipamento Social)\n\nCompete ao Ministério do Equipamento Social, através da Direcção-Geral de Transportes Terrestres:\n\na) Promover a inserção das redes de transportes escolares em planos de transportes com âmbito mais vasto;\n\nb) Apoiar tecnicamente as câmaras municipais, sempre que estas o solicitem;\n\nc) Promover, através de portaria conjunta dos Ministérios da Administração Interna, da Educação e do Equipamento Social, a fixação dos preços dos bilhetes de assinatura utilizados pelos estudantes nos transportes colectivos;\n\nd) Fornecer, a pedido das câmaras municipais, relação das empresas concessionárias de serviço de transporte público que operam na área do município, indicando os percursos das carreiras e os respectivos horários;\n\ne) Accionar os mecanismos fiscalizadores da actividade dos transportes escolares, nos termos da lei."
+  },
+  "118878391": {
+   "fragment_id": "118874400",
+   "type": 11,
+   "heading": "Artigo 22.º — (Transferência de verbas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — (Transferência de verbas)\n\n1 - A parcela a transferir para fazer face aos custos dos transportes escolares será anualmente integrada no Fundo de Equilíbrio Financeiro.\n\n2 - O financiamento dos encargos com os transportes escolares relativos ao último trimestre de 1984 será assegurado pelo Governo através de transferência de verbas correspondentes aos custos previstos por município."
+  },
+  "118878392": {
+   "fragment_id": "118874401",
+   "type": 11,
+   "heading": "Artigo 23.º — (Repartição de encargos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — (Repartição de encargos)\n\n1 - O financiamento dos transportes escolares no caso do n.º 3 do artigo 3.º será da responsabilidade dos municípios interessados, mediante acordo entre si.\n\n2 - Na falta de acordo relativamente à repartição dos encargos, serão estes repartidos proporcionalmente ao número de estudantes residentes em cada município interveniente."
+  },
+  "118878393": {
+   "fragment_id": "118874402",
+   "type": 11,
+   "heading": "Artigo 24.º — (Cumprimento dos prazos em 1984-1985)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — (Cumprimento dos prazos em 1984-1985)\n\nNo ano lectivo de 1984-1985, o cumprimento do preceituado nos artigos 4.º, 5.º e 15.º far-se-á independentemente dos prazos neles fixados."
+  },
+  "118878394": {
+   "fragment_id": "118874403",
+   "type": 11,
+   "heading": "Artigo 25.º — (Legislação revogada)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — (Legislação revogada)\n\n1 - Ficam revogados os Decretos-Leis n.os 404/77, 372/79 e 229/83, respectivamente de 24 de Setembro, 9 de Setembro e 27 de Maio.\n\n2 - Poderão, todavia, no ano lectivo de 1984-1985, ser adoptados e postos em execução os planos de transportes escolares em funcionamento à data da entrada em vigor deste diploma."
+  },
+  "118878395": {
+   "fragment_id": "118874404",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - José Augusto Seabra - João Rosado Correia.\n\nPromulgado em 16 de Agosto de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Agosto de 1984.\n\nO Primeiro-Ministro, Mário Soares."
+  },
+  "118878399": {
+   "fragment_id": "118874450",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Passe 4_18@escola.tp",
+   "in_force_from": "2011-03-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 74.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2008-09-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Passe 4_18@escola.tp\n\n1 - Os alunos não abrangidos pelo artigo 2.º, com idade entre os 4 aos 18 anos, inclusive, beneficiam de uma redução do preço do título de transporte a deduzir do valor da tarifa inteira relativa aos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n2 - É aplicável ao 'passe 4_18@escola.tp' o disposto nos n.os 5 e 6 do artigo 3.º do presente decreto-lei.\n\n3 - O desconto e as condições de atribuição do mesmo, a que se refere o n.º 1, bem como as relativas à operacionalização do sistema 'passe 4_18@escola.tp' são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da administração local, dos transportes, e da educação.\n\n4 - As compensações financeiras a atribuir aos operadores de transporte em razão da obrigação tarifária decorrente da implementação do 'passe 4_18@escola.tp' são estabelecidas em termos a acordar entre o Governo e as empresas de transporte.\n\n> Alterado pelo/a Artigo 74.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2008-09-01"
+  },
+  "118878401": {
+   "fragment_id": "118874381",
+   "type": 11,
+   "heading": "Artigo 3.º — (Condições de transporte)",
+   "in_force_from": "2012-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 176/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), em vigor a partir de 2012-08-03",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — (Condições de transporte)\n\n1 - O transporte escolar é gratuito até ao final do 3.º ciclo do ensino básico, para os estudantes menores que se encontram nas condições estabelecidas no artigo anterior, bem como para os estudantes com necessidades educativas especiais que frequentam o ensino básico e secundário.\n\n2 - A utilização dos transportes escolares pelos alunos deverá respeitar as normas emanadas do Ministério da Educação respeitantes ao processo de matrícula e seu encaminhamento.\n\n3 - Os alunos que cumpram o estipulado no número anterior e se encontrem matriculados em estabelecimentos de ensino fora do respectivo município de residência serão integrados nos transportes escolares que sirvam aqueles estabelecimentos de ensino, sem prejuízo de poderem utilizar outro transporte escolar.\n\n4 - O transporte dos estudantes do ensino secundário deverá ser comparticipado pelos interessados nos termos a definir em portaria conjunta dos Ministros da Administração Interna e da Educação, ouvida a Associação Nacional dos Municípios Portugueses.\n\n5 - Não serão abrangidos pelos benefícios previstos nos números anteriores os estudantes que se matriculem contrariando as normas estabelecidas de encaminhamento de matrícula de alunos.\n\n6 - Compete a cada estabelecimento de ensino a organização do processo de acesso ao transporte escolar por parte dos seus alunos, bem como a emissão de declaração, segundo modelo a definir na portaria prevista no n.º 3 do artigo 3.º-A, relativa aos alunos que não beneficiam de transporte escolar no âmbito do presente decreto-lei, para efeitos de atribuição do passe a que se refere o artigo 3.º-A.\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 176/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), em vigor a partir de 2012-08-03\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+  },
+  "118878404": {
+   "fragment_id": "118874379",
+   "type": 11,
+   "heading": "Artigo 1.º — (Âmbito)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+   ],
+   "markdown": "###### Artigo 1.º — (Âmbito)\n\n1 - O presente diploma regula a transferência para os municípios do continente das novas competências em matéria de organização, financiamento e controle de funcionamento dos transportes escolares, de acordo com o disposto no n.º 5 do artigo 47.º da Lei n.º 42/83 e no Decreto-Lei n.º 77/84, de 8 de Março.\n\n2 - Para a prossecução das atribuições relativas aos transportes escolares podem os municípios constituir-se, nos termos da lei, em associações ou federações.\n\n3 - O presente decreto-lei regula, ainda, as condições de atribuição de um passe escolar aos alunos não abrangidos pelo artigo 2.º, designado por 'passe 4_18@escola.tp'.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+  },
+  "118878405": {
+   "fragment_id": "118874380",
+   "type": 11,
+   "heading": "Artigo 2.º — (Âmbito do serviço de transporte escolar)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — (Âmbito do serviço de transporte escolar)\n\n1 - As competências referidas no n.º 1 do artigo anterior consistem na oferta de serviço de transporte entre o local da sua residência e o local dos estabelecimentos de ensino que frequentam a todos os alunos dos ensinos primário, preparatório TV, preparatório directo e secundário, oficial ou particular e cooperativo com contrato de associação e paralelismo pedagógico quando residam a mais de 3 km ou 4 km dos estabelecimentos de ensino, respectivamente sem ou com refeitório.\n\n2 - O serviço de transporte escolar não abrange os alunos que frequentam cursos nocturnos ou residam nas áreas servidas por transportes urbanos e suburbanos nas regiões de Lisboa e Porto.\n\n3 - Exceptuam-se do disposto no número anterior:\n\na) Os alunos que hajam sido obrigatoriamente deslocados de cursos diurnos para a frequência de cursos nocturnos;\n\nb) Os alunos que hajam sido matriculados compulsivamente em estabelecimentos de ensino situados fora das áreas das suas residências;\n\nc) Os alunos do ensino básico que residam em áreas servidas por transportes suburbanos nas regiões de Lisboa e Porto.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878406": {
+   "fragment_id": "118874381",
+   "type": 11,
+   "heading": "Artigo 3.º — (Condições de transporte)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 176/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), em vigor a partir de 2012-08-03",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+   ],
+   "markdown": "###### Artigo 3.º — (Condições de transporte)\n\n1 - O transporte escolar é gratuito até ao final do 3.º ciclo do ensino básico, para os estudantes menores que se encontram nas condições estabelecidas no artigo anterior, bem como para os estudantes com necessidades educativas especiais que frequentam o ensino básico e secundário.\n\n2 - A utilização dos transportes escolares pelos alunos deverá respeitar as normas emanadas do Ministério da Educação respeitantes ao processo de matrícula e seu encaminhamento.\n\n3 - Os alunos que cumpram o estipulado no número anterior e se encontrem matriculados em estabelecimentos de ensino fora do respectivo município de residência serão integrados nos transportes escolares que sirvam aqueles estabelecimentos de ensino, sem prejuízo de poderem utilizar outro transporte escolar.\n\n4 - O transporte dos estudantes do ensino secundário deverá ser comparticipado pelos interessados nos termos a definir em portaria conjunta dos Ministros da Administração Interna e da Educação, ouvida a Associação Nacional dos Municípios Portugueses.\n\n5 - Não serão abrangidos pelos benefícios previstos nos números anteriores os estudantes que se matriculem contrariando as normas estabelecidas de encaminhamento de matrícula de alunos.\n\n6 - Compete a cada estabelecimento de ensino a organização do processo de acesso ao transporte escolar por parte dos seus alunos, bem como a emissão de declaração, segundo modelo a definir na portaria prevista no n.º 3 do artigo 3.º-A, relativa aos alunos que não beneficiam de transporte escolar no âmbito do presente decreto-lei, para efeitos de atribuição do passe a que se refere o artigo 3.º-A.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 176/2012 - Diário da República n.º 149/2012, Série I de 2012-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2012-179057), em vigor a partir de 2012-08-03\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2009-09-01"
+  },
+  "118878407": {
+   "fragment_id": "118874450",
+   "type": 11,
+   "heading": "Artigo 3.º-A — Passe 4_18@escola.tp",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 74.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2008-09-01"
+   ],
+   "markdown": "###### Artigo 3.º-A — Passe 4_18@escola.tp\n\n1 - Os alunos não abrangidos pelo artigo 2.º, com idade entre os 4 aos 18 anos, inclusive, beneficiam de uma redução do preço do título de transporte a deduzir do valor da tarifa inteira relativa aos passes mensais em vigor, designadamente os intermodais, os combinados e os passes de rede ou de linha.\n\n2 - É aplicável ao 'passe 4_18@escola.tp' o disposto nos n.os 5 e 6 do artigo 3.º do presente decreto-lei.\n\n3 - O desconto e as condições de atribuição do mesmo, a que se refere o n.º 1, bem como as relativas à operacionalização do sistema 'passe 4_18@escola.tp' são definidos por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da administração local, dos transportes, e da educação.\n\n4 - As compensações financeiras a atribuir aos operadores de transporte em razão da obrigação tarifária decorrente da implementação do 'passe 4_18@escola.tp' são estabelecidas em termos a acordar entre o Governo e as empresas de transporte.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 74.º do/a [Decreto-Lei n.º 29-A/2011 - Diário da República n.º 42/2011, 1º Suplemento, Série I de 2011-03-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-a-2011-144217), em vigor a partir de 2011-03-02, produz efeitos a partir de 2011-01-01\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2008 - Diário da República n.º 182/2008, Série I de 2008-09-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2008-452234), em vigor a partir de 2008-09-24, produz efeitos a partir de 2008-09-01"
+  },
+  "118878408": {
+   "fragment_id": "118874382",
+   "type": 11,
+   "heading": "Artigo 4.º — (Plano de transporte escolar)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — (Plano de transporte escolar)\n\n1 - Em cada município deverá ser organizado um plano de transporte escolar, conjugando e complementando a rede de transportes públicos e os planos de transportes aprovados para a região, de acordo com a procura efectivamente verificada em cada ano lectivo.\n\n2 - Os estabelecimentos de ensino colaborarão com a respectiva câmara municipal em ordem à elaboração do plano de transporte escolar, à qual devem fornecer, obrigatoriamente, até 15 de Fevereiro de cada ano, os seguintes elementos:\n\na) Previsão do número de alunos que utilizarão o transporte escolar, discriminados por localidades de proveniência, grupos etários de menos e de mais de 12 anos, respectivo grau de ensino e ano que frequentam;\n\nb) Levantamento das localidades que não são servidas por carreiras de serviço público e que se situem a mais de 3 km dos pontos de paragem ou terminais das mesmas;\n\nc) Horário escolar previsto para o ano lectivo a que o plano diz respeito.\n\n3 - O plano de transporte escolar, a aprovar até 15 de Abril pela câmara municipal, incluirá, obrigatoriamente: a área abrangida, representada de preferência em planta à escala de 1:25000, contendo todos os itinerários dos meios de transporte colectivo de passageiros; a numeração e classificação oficiais, ou designação toponímica, das vias de comunicação a percorrer; a distribuição geográfica dos estabelecimentos de ensino, devidamente assinalados; a procura quantificada por locais de origem, assinalando, de forma especial, os que estiverem situados a distância superior a 3 km dos transportes colectivos.\n\n4 - Por razões de ordem conjuntural, o plano de transportes escolares poderá ser objecto de ajustamentos no decurso do ano lectivo a que respeita.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878409": {
+   "fragment_id": "118874383",
+   "type": 11,
+   "heading": "Artigo 5.º — (Divulgação dos planos)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — (Divulgação dos planos)\n\n1 - Até ao dia 15 de Maio as câmaras municipais deverão remeter aos estabelecimentos de ensino, ao Instituto de Acção Social Escolar e à Direcção-Geral de Transportes Terrestres o respectivo plano de transportes escolares para o ano lectivo seguinte.\n\n2 - Até ao dia 15 de Junho as câmaras municipais enviarão às entidades referidas no número anterior declaração comprovativa da adjudicação de circuitos especiais.\n\n3 - Sempre que se verifiquem reajustamentos ao plano de transporte escolar, devem os mesmos ser dados a conhecer às entidades acima referidas no prazo de 30 dias.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878410": {
+   "fragment_id": "118874384",
+   "type": 11,
+   "heading": "Artigo 6.º — (Meio de transporte a utilizar)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — (Meio de transporte a utilizar)\n\n1 - Na efectivação do transporte da população escolar serão utilizados, em princípio, os meios de transporte colectivo (rodoviário, ferroviário ou fluvial) que sirvam os locais dos estabelecimentos de ensino e de residência dos alunos, nos termos dos artigos 11.º a 14.º deste diploma.\n\n2 - Para os efeitos referidos no número anterior, serão considerados os meios de transporte colectivo cujos terminais ou pontos de paragem se situem a distância não superior a 3 km da residência dos alunos ou do estabelecimento de ensino e, bem assim, os que não obriguem os estudantes a tempos de espera superiores a 45 minutos, ou a tempos de deslocação superiores a 60 minutos, em cada viagem simples.\n\n3 - Sempre que os meios de transporte colectivo não preencham as condições fixadas nos números anteriores ou, preenchendo-as, não satisfaçam regularmente as necessidades do transporte escolar no que se refere quer ao cumprimento dos horários quer à realização dos desdobramentos que se revelem necessários, poderão ser utilizados veículos em regime de aluguer ou de propriedade dos municípios para a realização de circuitos especiais, de acordo com o disposto nos artigos 15.º a 17.º\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878411": {
+   "fragment_id": "118874385",
+   "type": 11,
+   "heading": "Artigo 7.º — (Criação provisória e reajustamento de serviços de transportes colectivos)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — (Criação provisória e reajustamento de serviços de transportes colectivos)\n\n1 - Enquanto a competência para a concessão de carreiras regulares concelhias não for transferida para os municípios, estes poderão propor à Direcção-Geral de Transportes Terrestres a criação, com carácter provisório, de serviços de transportes colectivos, desde que a procura, designadamente a derivada de motivo escolar, o justifique.\n\n2 - Nos casos do número anterior, e quando houver acordo prévio com a empresa transportadora, a Direcção-Geral de Transportes Terrestres informará o processo com carácter de prioridade.\n\n3 - Sempre que se justifique uma alteração das necessidades de utilização dos transportes colectivos por motivos escolares, os municípios poderão propor à Direcção-Geral de Transportes Terrestres o respectivo reajustamento, o qual deverá ser objecto de despacho com carácter de urgência.\n\n4 - Os municípios serão obrigatoriamente ouvidos quanto ao estabelecimento e alteração das redes e horários de transportes colectivos da sua área.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878412": {
+   "fragment_id": "118874386",
+   "type": 11,
+   "heading": "Artigo 8.º — (Conselho consultivo de transportes escolares)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01",
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — (Conselho consultivo de transportes escolares)\n\n1 - Com carácter consultivo, existirá junto de cada câmara municipal, ou do órgão executivo da associação ou da federação de municípios, um conselho consultivo de transportes escolares (CCTE).\n\n2 - O CCTE será composto por:\n\na) Presidente da câmara ou do órgão executivo da associação ou federação de municípios, ou o substituto por eles designado, que convocará e presidirá às reuniões;\n\nb) Professor-secretário de cada um dos estabelecimentos de ensino pós-primário abrangidos pelos transportes escolares;\n\nc) Orientador pedagógico ou coordenador da Telescola, conforme os casos;\n\nd) Delegado escolar, que representará o ensino primário;\n\ne) Coordenador regional para a Acção Social Escolar;\n\nf) Representante de cada uma das empresas concessionárias de serviço público que operam no município.\n\n3 - Nos casos em que na área de jurisdição da câmara municipal ou da associação ou das federações de municípios exista mais de um delegado escolar e ou mais de um orientador pedagógico ou coordenador da Telescola, todos terão assento no CCTE.\n\n4 - O CCTE poderá, eventualmente, ser alargado ao director escolar e ao técnico responsável regional para a Acção Social Escolar, desde que a organização dos transportes escolares requeira uma coordenação de âmbito intermunicipal.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+  },
+  "118878413": {
+   "fragment_id": "118874387",
+   "type": 11,
+   "heading": "Artigo 9.º — (Competência do conselho consultivo de transportes escolares)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01",
+    "Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — (Competência do conselho consultivo de transportes escolares)\n\nCompete ao CCTE colaborar com a câmara municipal na preparação do plano de transportes escolares do município, analisar todos os elementos necessários à sua elaboração e dar parecer sobre todas as questões referentes ao transporte escolar.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01\n\n> Revogado pelo/a Artigo 29.º do/a [Decreto-Lei n.º 7/2003 - Diário da República n.º 12/2003, Série I-A de 2003-01-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2003-176533), em vigor a partir de 2003-01-20, produz efeitos a partir de 2003-01-01"
+  },
+  "118878414": {
+   "fragment_id": "118874388",
+   "type": 11,
+   "heading": "Artigo 10.º — (Competência das câmaras municipais)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — (Competência das câmaras municipais)\n\n1 - Compete às câmaras municipais, em matéria de transportes escolares:\n\na) Elaborar e aprovar o plano de transportes escolares, ouvido obrigatoriamente o CCTE;\n\nb) Deliberar sobre a concessão de circuitos especiais;\n\nc) Reajustar as redes de transportes escolares já aprovadas, sempre que por razões pedagógicas, de pessoal ou de instalações o Ministério da Educação proponha alterações às referidas redes.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878415": {
+   "fragment_id": "118874389",
+   "type": 11,
+   "heading": "Artigo 11.º — (Bilhetes de assinatura)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — (Bilhetes de assinatura)\n\n1 - As empresas de transportes colectivos de passageiros concederão obrigatoriamente bilhetes de assinatura (passe escolar) aos estudantes abrangidos por este diploma.\n\n2 - Os bilhetes de assinatura terão validade mensal, a utilizar somente em duas viagens nos dias lectivos e para os troços das carreiras que ligam o local do estabelecimento de ensino ao local de residência do aluno.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878416": {
+   "fragment_id": "118874390",
+   "type": 11,
+   "heading": "Artigo 12.º — (Ocupação de lugar)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 27.º do/a [Lei n.º 13/2006 - Diário da República n.º 75/2006, Série I-A de 2006-04-17](https://diariodarepublica.pt/dr/detalhe/lei/13-2006-650958), em vigor a partir de 2006-05-17"
+   ],
+   "markdown": "###### Artigo 12.º — (Ocupação de lugar)\n\n1 - Os estudantes portadores de bilhete de assinatura têm direito à ocupação de um lugar sentado, nos termos da legislação geral.\n\n2 - Revogado.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 27.º do/a [Lei n.º 13/2006 - Diário da República n.º 75/2006, Série I-A de 2006-04-17](https://diariodarepublica.pt/dr/detalhe/lei/13-2006-650958), em vigor a partir de 2006-05-17"
+  },
+  "118878417": {
+   "fragment_id": "118874391",
+   "type": 11,
+   "heading": "Artigo 13.º — (Preço e pagamento dos bilhetes de assinatura)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 13.º — (Preço e pagamento dos bilhetes de assinatura)\n\n1 - Os cartões para os passes escolares serão requisitados anualmente às empresas transportadoras pelas câmaras municipais.\n\n2 - Mediante protocolo a estabelecer entre a câmara municipal e os estabelecimentos de ensino, poderão estes requisitar, mensalmente, as vinhetas para os respectivos alunos.\n\n3 - O preço dos bilhetes de assinatura para estudantes terá a redução a fixar em portaria conjunta dos Ministérios da Administração Interna, da Educação e do Equipamento Social.\n\n4 - As empresas facturarão, mensalmente, às câmaras municipais os bilhetes de assinatura que lhes tiverem sido requisitados para o mês seguinte, recebendo das mesmas o correspondente pagamento até ao dia 20 do mês da sua utilização.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878418": {
+   "fragment_id": "118874392",
+   "type": 11,
+   "heading": "Artigo 14.º — (Garantia de execução do transporte)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — (Garantia de execução do transporte)\n\n1 - As empresas são obrigadas a assegurar o transporte de todos os estudantes portadores de bilhetes de assinatura, realizando para o efeito os indispensáveis desdobramentos que regularmente se justifiquem, não se aplicando, neste caso, o condicionalismo referido no artigo 128.º do Regulamento de Transportes em Automóveis.\n\n2 - Para efeitos do disposto no número anterior, poderá a empresa requerer o licenciamento de veículos ligeiros de passageiros de aluguer sempre que o número excedentário de utentes da carreira não justifique a utilização de um veículo pesado.\n\n3 - A não realização dos desdobramentos a que se refere o n.º 1 do presente artigo é passível de multa, a aplicar nos termos do artigo 211.º do Regulamento de Transportes em Automóveis.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878419": {
+   "fragment_id": "118874393",
+   "type": 11,
+   "heading": "Artigo 15.º — (Circuitos especiais)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — (Circuitos especiais)\n\n1 - Os circuitos especiais podem ser efectuados directamente pelos municípios através de veículos próprios ou adjudicados mediante concurso.\n\n2 - O concurso a que se refere o número anterior será promovido pelas câmaras municipais até ao dia 20 de Abril e reger-se-á por normas específicas, a fixar em portaria dos Ministérios da Administração Interna e do Equipamento Social, ouvida a Associação Nacional dos Municípios Portugueses.\n\n3 - A adjudicação dos circuitos especiais será efectuada até 31 de Maio.\n\n4 - Os veículos utilizados na realização dos circuitos especiais deverão estar identificados nos termos da Portaria n.º 324/82, de 25 de Março, com a redacção que lhe foi dada pela Portaria n.º 475/83, de 22 de Abril.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878420": {
+   "fragment_id": "118874394",
+   "type": 11,
+   "heading": "Artigo 16.º — (Transporte de outras pessoas nos circuitos especiais)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — (Transporte de outras pessoas nos circuitos especiais)\n\n1 - Nos circuitos especiais poderão ser transportados professores e outros funcionários dos estabelecimentos de ensino, sem prejuízo da prioridade de transporte dos respectivos alunos.\n\n2 - Poderá também ser autorizado pela Direcção-Geral de Transportes Terrestres, sob proposta da câmara municipal, o transporte de outras pessoas, desde que haja lugares disponíveis e para satisfação desta procura, não existam transportes colectivos no percurso.\n\n3 - As pessoas transportadas nos termos dos números anteriores pagarão pelo seu transporte o preço correspondente ao dos bilhetes simples em vigor nas carreiras de serviço público, que constituirá receita do respectivo município.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878421": {
+   "fragment_id": "118874395",
+   "type": 11,
+   "heading": "Artigo 17.º — (Licenciamento de veículos)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 17.º — (Licenciamento de veículos)\n\n1 - Sempre que os veículos a utilizar nos circuitos especiais não estejam licenciados para aluguer ou para a realização de circuitos turísticos e excursões colectivas, competirá à Direcção-Geral de Transportes Terrestres proceder aos respectivos licenciamentos.\n\n2 - O licenciamento será requerido ao director-geral de Transportes Terrestres pelo proprietário do veículo, acompanhado da indicação do respectivo itinerário e, no caso de concessão de circuito especial, de declaração comprovativa passada pela câmara municipal.\n\n3 - O disposto nos números anteriores não se aplica aos veículos pertencentes às câmaras municipais.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878422": {
+   "fragment_id": "118874396",
+   "type": 11,
+   "heading": "Artigo 18.º — (Responsabilidade civil pelo exercício da actividade)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 18.º — (Responsabilidade civil pelo exercício da actividade)\n\n1 - No que respeita às empresas de transportes colectivos de passageiros, é aplicável em matéria de responsabilidade civil o que se encontra disposto nos artigos 122.º e 123.º do Regulamento de Transportes em Automóveis.\n\n2 - Nos outros casos, é obrigatório cobrir o risco da responsabilidade civil em condições não menos favoráveis que as contempladas no número anterior para passageiros.\n\n3 - No caso previsto no número anterior, poderá substituir-se o seguro pela prestação de caução idónea correspondente, como acontece com as empresas de transportes colectivos.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878423": {
+   "fragment_id": "118874397",
+   "type": 11,
+   "heading": "Artigo 19.º — (Transferência de veículos para os municípios)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 19.º — (Transferência de veículos para os municípios)\n\n1 - A propriedade dos veículos afectos aos transportes escolares de que sejam titulares os estabelecimentos de ensino, o Instituto de Acção Social Escolar ou o Estado será transferida para os municípios, nos termos do n.º 1 do artigo 13.º do Decreto-Lei n.º 77/84, de 8 de Março.\n\n2 - O pessoal que actualmente assegura a condução dos veículos referidos no número anterior e que não esteja integrado no quadro dos estabelecimentos de ensino passará a prestar serviço nas câmaras municipais.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878424": {
+   "fragment_id": "118874398",
+   "type": 11,
+   "heading": "Artigo 20.º — (Competência do Ministério da Educação)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 20.º — (Competência do Ministério da Educação)\n\nCompete ao Ministério da Educação, através do Instituto de Acção Social Escolar:\n\na) Transmitir, através dos directores escolares e responsáveis regionais, as orientações que constituem o quadro de referência para actuação dos delegados escolares, coordenadores regionais e secretários dos conselhos directivos no conselho consultivo de transportes escolares;\n\nb) Solicitar a intervenção dos serviços técnicos competentes, designadamente da Inspecção-Geral de Ensino, no sentido de tornar compatíveis os horários escolares com os da oferta dos transportes escolares;\n\nc) Apreciar os planos de transportes escolares sob o ponto de vista técnico-pedagógico, por forma a serem accionados os mecanismos necessários à compatibilização daqueles com a capacidade de acolhimento e funcionamento dos estabelecimentos de ensino;\n\nd) Participar na elaboração das portarias referidas no n.º 4 do artigo 3.º e no n.º 3 do artigo 13.º\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878425": {
+   "fragment_id": "118874399",
+   "type": 11,
+   "heading": "Artigo 21.º — (Competência do Ministério do Equipamento Social)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 21.º — (Competência do Ministério do Equipamento Social)\n\nCompete ao Ministério do Equipamento Social, através da Direcção-Geral de Transportes Terrestres:\n\na) Promover a inserção das redes de transportes escolares em planos de transportes com âmbito mais vasto;\n\nb) Apoiar tecnicamente as câmaras municipais, sempre que estas o solicitem;\n\nc) Promover, através de portaria conjunta dos Ministérios da Administração Interna, da Educação e do Equipamento Social, a fixação dos preços dos bilhetes de assinatura utilizados pelos estudantes nos transportes colectivos;\n\nd) Fornecer, a pedido das câmaras municipais, relação das empresas concessionárias de serviço de transporte público que operam na área do município, indicando os percursos das carreiras e os respectivos horários;\n\ne) Accionar os mecanismos fiscalizadores da actividade dos transportes escolares, nos termos da lei.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878426": {
+   "fragment_id": "118874400",
+   "type": 11,
+   "heading": "Artigo 22.º — (Transferência de verbas)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 22.º — (Transferência de verbas)\n\n1 - A parcela a transferir para fazer face aos custos dos transportes escolares será anualmente integrada no Fundo de Equilíbrio Financeiro.\n\n2 - O financiamento dos encargos com os transportes escolares relativos ao último trimestre de 1984 será assegurado pelo Governo através de transferência de verbas correspondentes aos custos previstos por município.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878427": {
+   "fragment_id": "118874401",
+   "type": 11,
+   "heading": "Artigo 23.º — (Repartição de encargos)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 23.º — (Repartição de encargos)\n\n1 - O financiamento dos transportes escolares no caso do n.º 3 do artigo 3.º será da responsabilidade dos municípios interessados, mediante acordo entre si.\n\n2 - Na falta de acordo relativamente à repartição dos encargos, serão estes repartidos proporcionalmente ao número de estudantes residentes em cada município interveniente.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878428": {
+   "fragment_id": "118874402",
+   "type": 11,
+   "heading": "Artigo 24.º — (Cumprimento dos prazos em 1984-1985)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 24.º — (Cumprimento dos prazos em 1984-1985)\n\nNo ano lectivo de 1984-1985, o cumprimento do preceituado nos artigos 4.º, 5.º e 15.º far-se-á independentemente dos prazos neles fixados.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878429": {
+   "fragment_id": "118874403",
+   "type": 11,
+   "heading": "Artigo 25.º — (Legislação revogada)",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 25.º — (Legislação revogada)\n\n1 - Ficam revogados os Decretos-Leis n.os 404/77, 372/79 e 229/83, respectivamente de 24 de Setembro, 9 de Setembro e 27 de Maio.\n\n2 - Poderão, todavia, no ano lectivo de 1984-1985, ser adoptados e postos em execução os planos de transportes escolares em funcionamento à data da entrada em vigor deste diploma.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  },
+  "118878430": {
+   "fragment_id": "118874404",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-02-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Eduardo Ribeiro Pereira - Ernâni Rodrigues Lopes - José Augusto Seabra - João Rosado Correia.\n\nPromulgado em 16 de Agosto de 1984.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES.\n\nReferendado em 17 de Agosto de 1984.\n\nO Primeiro-Ministro, Mário Soares.\n\n> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 21/2019 - Diário da República n.º 21/2019, Série I de 2019-01-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/21-2019-118748848), em vigor a partir de 2019-02-04, produz efeitos a partir de 2019-01-01"
+  }
+ }
+}

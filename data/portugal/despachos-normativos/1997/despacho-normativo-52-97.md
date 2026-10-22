@@ -1,0 +1,157 @@
+---
+schema_version: '1.0'
+id: pt:dre:195832:por
+title: Despacho Normativo n.º 52/97
+short_title: null
+summary: Fixa as taxas a pagar pela concessão de autorizações especiais de caça da zona de caça social da ribeira de Cadelos
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 52/97
+official_date: null
+publication_date: '1997-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/1997, Série I-B de 1997-08-22
+  number: '193'
+  series: I
+  supplement: null
+  pages: 4377 - 4378
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/08/193b00/43774378.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/52/1997/08/22/p/dre/pt/html
+  oj: null
+  dre: '195832'
+  dre_path: /dr/detalhe/despacho-normativo/52-1997-195832
+  internal: pt:dre:195832:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1997-195832
+  metadata_url: https://data.dre.pt/eli/despnorm/52/1997/08/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/52-1997-195832
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-08-22T00:00:00Z'
+integrity:
+  source_sha256: 362c7c069aa71f1e484ce34641e9c2eb1d3bf16475e99e1db4d9b413e3abb2c3
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-52-195832.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Almeida
+- CAÇA
+- Taxa
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/640-c/1994/07/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/640-c/1994/07/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 52/97
+
+Nos termos das disposições conjugadas do artigo 25.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e da [Portaria n.º 640-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-c-1994-276379), de 15 de Julho, estabelecem-se as taxas a pagar pela concessão de autorizações especiais de caça da zona de caça social da ribeira de Cadelos:
+
+Zona de caça social da ribeira de Cadelos (processo n.º 300-DGF)
+
+Tabela a que se refere o n.º 3.º da [Portaria n.º 640-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-c-1994-276379), de 15 de Julho
+
+1 - As taxas devidas pelos caçadores naturais ou residentes nas freguesias de Ade, Amoreira, Castelo Mendo, Mesquitela e Monte Perobolço, do concelho de Almeida, pela concessão de autorização especial de caça são as seguintes:
+
+Caça à espera à rola e aos pombos - 500$00;
+
+Caça de salto ao coelho - 500$00;
+
+Caça de salto à perdiz - 500$00;
+
+Caça de montaria aos javalis - 500$00;
+
+Caça de espera aos javalis - 5000$00.
+
+2 - As taxas devidas pelos caçadores residentes nas restantes freguesias do concelho de Almeida pela concessão de autorização especial são as seguintes:
+
+Caça de espera à rola e aos pombos - 1500$00;
+
+Caça de salto ao coelho - 1500$00;
+
+Caça de salto à perdiz - 1500$00;
+
+Caça de montaria aos javalis - 1500$00;
+
+Caça de espera aos javalis - 7500$00.
+
+3 - As taxas devidas pelos restantes caçadores nacionais não residentes no concelho de Almeida pela concessão de autorização especial são as seguintes:
+
+Caça de espera à rola e aos pombos - 3000$00;
+
+Caça de salto ao coelho - 3000$00;
+
+Caça de salto à perdiz - 3000$00;
+
+Caça de montaria aos javalis - 5000$00;
+
+Caça de espera aos javalis - 10000$00.
+
+Tabela a que se refere a alínea h) do n.º 10.º da [Portaria n.º 640-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-c-1994-276379), de 15 de Julho
+
+As taxas suplementares são as seguintes:
+
+Caça de espera aos javalis:
+
+Troféu de 4 cm a 6,5 cm - 15000$00;
+
+Troféu de 6,6 cm a 7,8 cm - 25000$00;
+
+Troféu superior a 7,8 cm - 40000$00.
+
+Tabela a que se referem as alíneas i) e j) do n.º 10.º da [Portaria n.º 640-C/94](https://diariodarepublica.pt/dr/detalhe/portaria/640-c-1994-276379), de 15 de Julho
+
+As taxas adicionais são as seguintes:
+
+Por cada tiro falhado - 2500$00;
+
+Por cada animal ferido e não cobrado - 1000$00;
+
+Por desobediência ao guia - 10000$00.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, 31 de Julho de 1997. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário de Estado da Agricultura e do Desenvolvimento Rural.

@@ -1,0 +1,527 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:489486:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-75415953",
+ "dre_path": "/dr/detalhe/decreto-lei/209-2009-489486",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-09-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75421908",
+    "75421909",
+    "75421910",
+    "75421911",
+    "75421912",
+    "75421913",
+    "75421914",
+    "75421915",
+    "75421916",
+    "75421917",
+    "75421918",
+    "75421919",
+    "75421920",
+    "75421921",
+    "75421922",
+    "75421923",
+    "75421924",
+    "75421925",
+    "75421926",
+    "75421927",
+    "75421928",
+    "75421929",
+    "75421930"
+   ]
+  },
+  {
+   "date": "2010-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:609990:por",
+     "title": "Lei n.º 3-B/2010",
+     "published": "2010-04-28",
+     "dre_path": "/dr/detalhe/lei/3-b-2010-609990"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "75421908",
+    "75421909",
+    "75421910",
+    "75421911",
+    "75421912",
+    "75421913",
+    "75421914",
+    "75421915",
+    "75421932",
+    "75421917",
+    "75421918",
+    "75421919",
+    "75421920",
+    "75421921",
+    "75421922",
+    "75421923",
+    "75421924",
+    "75421925",
+    "75421926",
+    "75421927",
+    "75421928",
+    "75421929",
+    "75421930",
+    "75421931"
+   ]
+  },
+  {
+   "date": "2013-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:189513:por",
+     "title": "Lei n.º 66/2012",
+     "published": "2012-12-31",
+     "dre_path": "/dr/detalhe/lei/66-2012-189513"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 12.º",
+    "Altera Capítulo III",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "75421908",
+    "75421909",
+    "75421933",
+    "75421911",
+    "75421912",
+    "75421913",
+    "75421914",
+    "75421915",
+    "75421932",
+    "75421917",
+    "75421918",
+    "75421919",
+    "75421920",
+    "75421921",
+    "75421934",
+    "75421923",
+    "75421938",
+    "75421935",
+    "75421936",
+    "75421937",
+    "75421928",
+    "75421929",
+    "75421930",
+    "75421931"
+   ]
+  },
+  {
+   "date": "2013-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:484160:por",
+     "title": "Lei n.º 80/2013",
+     "published": "2013-11-28",
+     "dre_path": "/dr/detalhe/lei/80-2013-484160"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 16.º-A",
+    "Altera Artigo 1.º",
+    "Altera Capítulo III",
+    "Altera Artigo 14.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "75421908",
+    "75421909",
+    "75421943",
+    "75421911",
+    "75421912",
+    "75421913",
+    "75421914",
+    "75421915",
+    "75421932",
+    "75421917",
+    "75421918",
+    "75421919",
+    "75421920",
+    "75421921",
+    "75421934",
+    "75421923",
+    "75421947",
+    "75421944",
+    "75421945",
+    "75421946",
+    "75421939",
+    "75421940",
+    "75421941",
+    "75421942",
+    "75421931"
+   ]
+  }
+ ],
+ "fragments": {
+  "75421908": {
+   "fragment_id": "75415954",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 209/2009\n\nde 3 de Setembro\n\nA Lei n.º 12-A/2008, de 27 de Fevereiro, que regula os regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas e, complementarmente, o regime jurídico aplicável a cada modalidade de constituição da relação jurídica de emprego público, prevê, no n.º 2 do respectivo artigo 3.º, a sua aplicação, com as necessárias adaptações, à administração autárquica, designadamente no que respeita às competências em matéria administrativa dos respectivos órgãos.\n\nAssim, o presente decreto-lei vem proceder à adaptação à realidade autárquica da referida lei, consagrando, nos casos em que tal se justifica pelas especificidades próprias das autarquias, os modelos mais adequados ao desempenho das funções públicas em contexto municipal e de freguesia.\n\nO presente decreto-lei procede, ainda, à adaptação à administração autárquica do Decreto-Lei n.º 200/2006, de 25 de Outubro, na parte referente à racionalização de efectivos.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.\n\nAssim:\n\nNos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "75421909": {
+   "fragment_id": "75415955",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "75421910": {
+   "fragment_id": "75415956",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei procede à adaptação à administração autárquica do disposto na Lei n.º 12-A/2008, de 27 de Fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de Dezembro.\n\n2 - O presente decreto-lei procede, ainda, à adaptação à administração autárquica do Decreto-Lei n.º 200/2006, de 25 de Outubro, na parte referente à racionalização de efectivos.\n\n3 - O presente decreto-lei aplica-se, com as adaptações impostas pela observância das correspondentes competências, às áreas metropolitanas e comunidades intermunicipais."
+  },
+  "75421911": {
+   "fragment_id": "75415957",
+   "type": 1,
+   "heading": "Capítulo II — Gestão de recursos humanos, vinculação e carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Gestão de recursos humanos, vinculação e carreiras"
+  },
+  "75421912": {
+   "fragment_id": "75415958",
+   "type": 11,
+   "heading": "Artigo 2.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação\n\n1 - A Lei n.º 12-A/2008, de 27 de Fevereiro, com excepção das normas respeitantes ao regime jurídico da nomeação, aplica-se, com as adaptações constantes do presente decreto-lei, a todos os trabalhadores que exercem funções públicas na administração autárquica, independentemente da modalidade de vinculação e de constituição da relação jurídica de emprego público ao abrigo da qual exercem as respectivas funções.\n\n2 - As referências feitas na Lei n.º 12-A/2008, de 27 de Fevereiro, ao membro do Governo ou ao dirigente máximo do serviço ou organismo, consideram-se feitas, para efeitos do presente decreto-lei:\n\na) Nos municípios, ao presidente da câmara municipal;\n\nb) Nas freguesias, à junta de freguesia;\n\nc) Nos serviços municipalizados, ao presidente do conselho de administração."
+  },
+  "75421913": {
+   "fragment_id": "75415959",
+   "type": 11,
+   "heading": "Artigo 3.º — Mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Mapas de pessoal\n\n1 - Os municípios e as freguesias dispõem de mapas de pessoal aprovados, mantidos ou alterados, nos termos da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Os mapas de pessoal a que se refere o número anterior, são aprovados, mantidos ou alterados:\n\na) Nos municípios, pela assembleia municipal;\n\nb) Nas freguesias, pela assembleia de freguesia."
+  },
+  "75421914": {
+   "fragment_id": "75415960",
+   "type": 11,
+   "heading": "Artigo 4.º — Gestão dos recursos humanos em função dos mapas de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Gestão dos recursos humanos em função dos mapas de pessoal\n\n1 - No caso previsto no n.º 2 do artigo 6.º da Lei n.º 12-A/2008, de 27 de Fevereiro, o recrutamento nas condições aí previstas é precedido de aprovação do órgão executivo.\n\n2 - O sentido e a data da deliberação referida no número anterior são expressamente mencionados no procedimento do recrutamento."
+  },
+  "75421915": {
+   "fragment_id": "75415961",
+   "type": 11,
+   "heading": "Artigo 5.º — Orçamentação e gestão das despesas com pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Orçamentação e gestão das despesas com pessoal\n\n1 - Os orçamentos das entidades a que o presente decreto-lei é aplicável prevêem verbas destinadas a suportar os encargos previstos no n.º 1 do artigo 7.º da Lei n.º 12-A/2008, de 27 de Fevereiro.\n\n2 - Compete ao órgão executivo decidir sobre o montante máximo de cada um dos seguintes encargos:\n\na) Com o recrutamento de trabalhadores necessários à ocupação de postos de trabalho previstos, e não ocupados, nos mapas de pessoal aprovados e, ou;\n\nb) Com alterações do posicionamento remuneratório na categoria dos trabalhadores que se mantenham em exercício de funções;\n\nc) Com a atribuição de prémios de desempenho dos trabalhadores do órgão ou serviço.\n\n3 - O trabalho prestado em categorias específicas na administração autárquica em dia de descanso semanal, obrigatório ou complementar, e nos feriados, não é abrangido pelo limite remuneratório fixado no n.º 2 do artigo 161.º do Regime do Contrato de Trabalho em Funções Públicas, aprovado pela Lei n.º 59/2008, de 11 de Setembro.\n\n4 - As categorias a que se refere o número anterior são definidas por portaria dos membros do Governo responsáveis pelas áreas da Administração Pública e das autarquias locais."
+  },
+  "75421916": {
+   "fragment_id": "75415962",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratos de prestação de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Contratos de prestação de serviços\n\nA celebração de contratos de avença e tarefa com pessoas singulares nas condições referidas no n.º 4 do artigo 35.º da Lei n.º 12-A/2008, de 27 de Fevereiro, depende de deliberação favorável do órgão executivo."
+  },
+  "75421917": {
+   "fragment_id": "75415963",
+   "type": 11,
+   "heading": "Artigo 7.º — Alteração do posicionamento remuneratório: opção gestionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Alteração do posicionamento remuneratório: opção gestionária\n\n1 - Tendo em consideração as verbas orçamentais destinadas a suportar o tipo de encargos previstos na alínea b) do n.º 2 do artigo 5.º, o órgão executivo delibera sobre os encargos a suportar decorrentes de alterações do posicionamento remuneratório na categoria dos trabalhadores do órgão ou serviço.\n\n2 - A deliberação referida no número anterior fixa, fundamentadamente, aquando da elaboração do orçamento, o montante máximo, com as desagregações necessárias, dos encargos que o órgão se propõe suportar, bem como o universo das carreiras e categorias onde as alterações do posicionamento remuneratório na categoria podem ter lugar.\n\n3 - O universo referido no número anterior pode ainda ser desagregado, em função:\n\na) Da atribuição, competência ou actividade que os trabalhadores integrados em determinada carreira ou titulares de determinada categoria devam cumprir ou executar;\n\nb) Da área de formação académica ou profissional dos trabalhadores integrados em determinada carreira ou titulares de determinada categoria, quando tal área de formação tenha sido utilizada na caracterização dos postos de trabalho contidos nos mapas de pessoal.\n\n4 - Para os efeitos do disposto nos números anteriores, as alterações podem não ter lugar em todas as carreiras, ou em todas as categorias de uma mesma carreira, ou ainda relativamente a todos os trabalhadores integrados em determinada carreira, ou titulares de determinada categoria.\n\n5 - A decisão é tornada pública pelo órgão executivo, através de afixação em local adequado das suas instalações e de publicação no respectivo sítio na Internet."
+  },
+  "75421918": {
+   "fragment_id": "75415964",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração do posicionamento remuneratório: excepção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração do posicionamento remuneratório: excepção\n\n1 - Ainda que não se encontrem reunidos os requisitos previstos no n.º 1 do artigo 47.º da Lei n.º 12-A/2008, de 27 de Fevereiro, o órgão executivo respectivo, ouvido o Conselho Coordenador da Avaliação ou o órgão com competência equiparada, e nos limites fixados pela decisão referida nos n.os 2 e 3 do artigo anterior, pode alterar, para a posição remuneratória imediatamente seguinte àquela em que se encontra, o posicionamento remuneratório de trabalhador que tenha obtido, na última avaliação de desempenho, a menção máxima ou a imediatamente inferior.\n\n2 - Da mesma forma, nos limites fixados pela decisão referida nos n.os 2 e 3 do artigo anterior, o órgão executivo respectivo, ouvido o Conselho Coordenador da Avaliação, ou o órgão com competência equiparada, pode determinar que a alteração do posicionamento na categoria de trabalhador referido no n.º 3 do artigo 47.º da Lei n.º 12-A/2008, de 27 de Fevereiro, se opere para qualquer outra posição remuneratória seguinte àquela em que se encontra.\n\n3 - O disposto no número anterior tem como limite a posição remuneratória máxima para a qual tenham alterado o seu posicionamento os trabalhadores que, no âmbito do mesmo universo, se encontrem ordenados superiormente.\n\n4 - As alterações do posicionamento remuneratório previstas no presente artigo são particularmente fundamentadas e tornadas públicas com o teor integral da respectiva fundamentação e do parecer do Conselho Coordenador da Avaliação, ou do órgão com competência equiparada, por publicação em espaço próprio da 2.ª série do Diário da República, por afixação nas instalações da entidade respectiva e por inserção em página electrónica apropriada.\n\n5 - É aplicável o disposto no n.º 7 do artigo 47.º da Lei n.º 12-A/2008, de 27 de Fevereiro."
+  },
+  "75421919": {
+   "fragment_id": "75415965",
+   "type": 11,
+   "heading": "Artigo 9.º — Procedimento concursal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Procedimento concursal\n\n1 - Deliberado pelo órgão executivo respectivo, nos termos do n.º 2 do artigo 6.º da Lei n.º 12-A/2008, de 27 de Fevereiro, e para efeitos da alínea a) do n.º 2 do artigo 5.º do presente decreto-lei, promover o recrutamento de trabalhadores necessários à ocupação de todos ou de alguns postos de trabalho previstos, e não ocupados, nos mapas de pessoal aprovados, é publicitado o respectivo procedimento concursal através de publicação na 2.ª série do Diário da República.\n\n2 - O procedimento concursal referido no número anterior observa as injunções decorrentes do disposto no artigo 6.º da Lei n.º 12-A/2008, de 27 de Fevereiro, e do artigo 4.º do presente decreto-lei.\n\n3 - Da publicitação do procedimento concursal consta, com clareza, a referência ao número de postos de trabalho a ocupar e a sua caracterização em função da atribuição, competência ou actividade a cumprir ou a executar, carreira, categoria, e, quando imprescindível, área de formação académica ou profissional que lhes correspondam.\n\n4 - Para os efeitos do disposto no número anterior, a publicitação do procedimento faz referência:\n\na) À área de formação académica quando, nos casos da alínea c) do n.º 1 do artigo 44.º da Lei n.º 12-A/2008, de 27 de Fevereiro, exista mais do que uma no mesmo nível habilitacional;\n\nb) À área de formação profissional quando, nos casos das alíneas a) e b) do n.º 1 do artigo 44.º da Lei n.º 12-A/2008, de 27 de Fevereiro, a integração na carreira não dependa, ou não dependa exclusivamente, de habilitações literárias."
+  },
+  "75421920": {
+   "fragment_id": "75415966",
+   "type": 11,
+   "heading": "Artigo 10.º — Curso de Estudos Avançados em Gestão Pública Autárquica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Curso de Estudos Avançados em Gestão Pública Autárquica\n\n1 - Observados os condicionalismos referidos no n.º 1 do artigo anterior, relativamente a actividades de natureza permanente, o presidente da câmara municipal ou o presidente da junta de freguesia, nos municípios e nas freguesias, respectivamente, podem optar, em alternativa à publicitação de procedimento concursal nele previsto, pelo recurso a diplomados pelo curso de Estudos Avançados em Gestão Pública Autárquica (CEAGPA).\n\n2 - O CEAGPA decorre na Fundação para os Estudos e Formação Autárquica (Fundação CEFA) nos termos fixados na portaria que o regulamenta."
+  },
+  "75421921": {
+   "fragment_id": "75415967",
+   "type": 11,
+   "heading": "Artigo 11.º — Cedência de interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cedência de interesse público\n\nO acordo de cedência de interesse público, previsto no artigo 58.º da Lei n.º 12-A/2008, de 27 de Fevereiro, pressupõe a concordância escrita do presidente da câmara municipal ou da junta de freguesia, nos municípios e freguesias respectivamente, da entidade cessionária e do trabalhador, e implica, na falta de disposição em contrário, a suspensão do estatuto de origem deste."
+  },
+  "75421922": {
+   "fragment_id": "75415968",
+   "type": 11,
+   "heading": "Artigo 12.º — Mobilidade interna - Acordos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Mobilidade interna - Acordos\n\n1 - A mobilidade interna depende do acordo do trabalhador.\n\n2 - Sem prejuízo do disposto nos números seguintes, é dispensado o acordo do trabalhador para efeitos de mobilidade interna, em qualquer das suas modalidades, quando se opere para unidade orgânica da mesma entidade autárquica.\n\n3 - Quando a mobilidade interna se opere para categoria inferior da mesma carreira, ou para carreira de grau de complexidade funcional inferior ao da carreira em que o trabalhador se encontra integrado, ou ao da categoria de que é titular, o acordo do trabalhador nunca pode ser dispensado.\n\n4 - Quando a mobilidade interna se opere para órgão ou serviço, designadamente temporário, que não possa constituir relações jurídicas de emprego público por tempo indeterminado, e se preveja que possa ter duração superior a um ano, o acordo do trabalhador que não se encontre colocado em situação de mobilidade especial nunca pode ser dispensado.\n\n5 - A mobilidade interna de pessoal não docente da administração autárquica depende de audição prévia do respectivo director do agrupamento de escolas."
+  },
+  "75421923": {
+   "fragment_id": "75415969",
+   "type": 11,
+   "heading": "Artigo 13.º — Prémios de desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prémios de desempenho\n\n1 - Tendo em consideração as verbas orçamentais destinadas a suportar o tipo de encargos previstos na alínea c) do n.º 2 do artigo 5.º, o órgão executivo respectivo fixa, fundamentadamente, o universo dos cargos e o das carreiras e categorias onde a atribuição de prémios de desempenho pode ter lugar, com as desagregações necessárias do montante disponível em função de tais universos.\n\n2 - É aplicável à atribuição de prémios de desempenho, com as necessárias adaptações, o disposto nos n.os 3 a 5 do artigo 7.º"
+  },
+  "75421924": {
+   "fragment_id": "75415970",
+   "type": 1,
+   "heading": "Capítulo III — Racionalização de efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Racionalização de efectivos"
+  },
+  "75421925": {
+   "fragment_id": "75415971",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Âmbito\n\nO Decreto-Lei n.º 200/2006, de 25 de Outubro, na parte em que regula o processo de racionalização de efectivos, aplica-se, com as adaptações constantes do presente capítulo, aos serviços da administração autárquica."
+  },
+  "75421926": {
+   "fragment_id": "75415972",
+   "type": 11,
+   "heading": "Artigo 15.º — Processo de racionalização de efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Processo de racionalização de efectivos\n\nA decisão de dar início ao procedimento de racionalização de efectivos, bem como a responsabilidade pelo decurso do mesmo, competem:\n\na) À assembleia municipal, no caso dos serviços municipais;\n\nb) À assembleia de freguesia, no caso dos serviços das juntas de freguesia;\n\nc) Ao conselho de administração, no caso dos serviços municipalizados."
+  },
+  "75421927": {
+   "fragment_id": "75415973",
+   "type": 11,
+   "heading": "Artigo 16.º — Procedimento em caso de racionalização de efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Procedimento em caso de racionalização de efectivos\n\n1 - Com a entrada em vigor da deliberação que determina a racionalização de efectivos, o órgão responsável pela gestão do pessoal elabora:\n\na) Lista de actividades e procedimentos que devem ser assegurados para a prossecução e o exercício das atribuições e competências, assim como para a realização de objectivos, em conformidade com as disponibilidades orçamentais existentes;\n\nb) Lista dos postos de trabalho necessários para assegurar as actividades e os procedimentos referidos na alínea anterior, por subunidade orgânica, quando se justifique, identificando a carreira e as áreas funcional, habilitacional e geográfica, quando necessárias, com a respectiva fundamentação e em conformidade com as disponibilidades orçamentais existentes;\n\nc) Mapa comparativo entre o número de efectivos existentes no serviço e o número de postos de trabalho referido na alínea anterior.\n\n2 - As listas e o mapa referidos no número anterior são apresentados ao órgão deliberativo para aprovação.\n\n3 - Quando o número de postos de trabalho seja inferior ao número de efectivos existentes no serviço, há lugar à colocação de pessoal em situação de mobilidade especial ou, nos termos da lei, sendo o caso, à aplicação das disposições adequadas de cessação da relação jurídica de emprego público.\n\n4 - Para efeitos do número anterior, inclui-se nos efectivos existentes no serviço, o pessoal que aí exerça funções em regime de comissão de serviço, cedência de interesse público e de mobilidade interna.\n\n5 - Para efeitos do n.º 3, não se inclui nos efectivos existentes no serviço:\n\na) O pessoal que exerce funções noutro órgão, serviço ou entidade num dos regimes referidos no número anterior;\n\nb) O pessoal que se encontre em qualquer situação de licença, o qual se mantém nessa situação, aplicando-se-lhe o respectivo regime."
+  },
+  "75421928": {
+   "fragment_id": "75415974",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição para as carreiras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transição para as carreiras gerais\n\nAs transições referidas nos n.os 2 dos artigos 95.º a 100.º da Lei n.º 12-A/2008, de 27 de Fevereiro, carecem de homologação do órgão executivo respectivo, prévia à lista nominativa referida no artigo 109.º da mesma lei."
+  },
+  "75421929": {
+   "fragment_id": "75430875",
+   "type": 11,
+   "heading": "Artigo 18.º — Conversão das situações de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conversão das situações de mobilidade\n\n1 - Os trabalhadores que a 1 de Janeiro de 2009 se encontravam em situação de mobilidade para, ou de, entidade excluída do âmbito de aplicação objectivo da Lei n.º 12-A/2008, de 27 de Fevereiro, transitaram, por força do artigo 102.º da mesma lei e sem outras formalidades, para a situação jurídico-funcional de cedência de interesse público.\n\n2 - A manutenção do estatuto de origem dos trabalhadores referidos no número anterior depende do acordo celebrado entre as partes ao abrigo do regime do instrumento de mobilidade aplicável antes da conversão."
+  },
+  "75421930": {
+   "fragment_id": "75430876",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regulamentação\n\nSão aplicáveis à administração autárquica os instrumentos necessários à aplicação do disposto no presente decreto-lei aprovados por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais e da Administração Pública."
+  },
+  "75421932": {
+   "fragment_id": "75415962",
+   "type": 11,
+   "heading": "Artigo 6.º — Contratos de prestação de serviços",
+   "in_force_from": "2010-04-29",
+   "changed_by": [
+    "Alterado pelo/a Artigo 20.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+   ],
+   "markdown": "###### Artigo 6.º — Contratos de prestação de serviços\n\n1 - Sem prejuízo dos requisitos referidos nas alíneas c) e d) do n.º 2 do artigo 35.º da Lei n.º 12-A/2008, de 27 de Fevereiro, a celebração de contratos de tarefa e avença depende de prévio parecer favorável do órgão executivo relativamente à verificação do requisito referido na alínea a) do n.º 2 do mesmo artigo, sendo os termos e a tramitação desse parecer regulados por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais, das finanças e da Administração Pública.\n\n2 - O órgão executivo pode excepcionalmente autorizar a celebração de um número máximo de contratos de tarefa e avença, em termos a definir na portaria prevista no número anterior, desde que, a par do cumprimento do disposto no n.º 2 do artigo 35.º da Lei n.º 12-A/2008, de 27 de Fevereiro, não sejam excedidos os prazos contratuais inicialmente previstos e os encargos financeiros globais anuais, que devam suportar os referidos contratos, estejam inscritos na respectiva rubrica do orçamento do órgão ou serviço.\n\n3 - A verificação, através de relatório de auditoria efectuada pela Inspecção-Geral de Finanças ou pela Inspecção-Geral da Administração Local em articulação com a Direcção-Geral das Autarquias Locais, da vigência de contratos de prestação de serviços para execução de trabalho subordinado equivale ao reconhecimento pelo órgão ou serviço da necessidade de ocupação de um posto de trabalho com recurso à constituição de uma relação jurídica de emprego público por tempo indeterminado ou por tempo determinado ou determinável, conforme caracterização resultante da auditoria, determinando:\n\na) A alteração do mapa de pessoal do órgão ou serviço, por forma a prever aquele posto de trabalho;\n\nb) A publicitação de procedimento concursal para constituição da relação jurídica de emprego público, nos termos previstos no presente decreto-lei.\n\n> Alterado pelo/a Artigo 20.º do/a [Lei n.º 3-B/2010 - Diário da República n.º 82/2010, 1º Suplemento, Série I de 2010-04-28](https://diariodarepublica.pt/dr/detalhe/lei/3-b-2010-609990), em vigor a partir de 2010-04-29"
+  },
+  "75421931": {
+   "fragment_id": "75430877",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 9 de Julho de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Rui Carlos Pereira - Francisco Carlos da Graça Nunes Correia.\n\nPromulgado em 25 de Agosto de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 26 de Agosto de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "75421933": {
+   "fragment_id": "75415956",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei procede à adaptação à administração autárquica do disposto na Lei n.º 12-A/2008, de 27 de Fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de Dezembro.\n\n2 - O presente decreto-lei procede ainda à adaptação à administração autárquica do Decreto-Lei n.º 200/2006, de 25 de outubro, na parte referente à reestruturação de serviços públicos e racionalização de efetivos.\n\n3 - O presente decreto-lei procede, igualmente, à adaptação à administração autárquica da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro.\n\n4 - O presente decreto-lei aplica-se, com as adaptações impostas pela observância das correspondentes competências, às áreas metropolitanas e comunidades intermunicipais.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421934": {
+   "fragment_id": "75415968",
+   "type": 11,
+   "heading": "Artigo 12.º — Regras de aplicação da mobilidade interna",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 12.º — Regras de aplicação da mobilidade interna\n\n1 - Sem prejuízo do disposto no artigo 61.º da Lei n.º 12-A/2008, de 27 de fevereiro, retificada pela Declaração de Retificação n.º 22-A/2008, de 24 de abril, e alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, é dispensado o acordo do trabalhador para efeitos de mobilidade interna, em qualquer das suas modalidades, quando se opere:\n\na) Para unidade orgânica da área metropolitana ou comunidade intermunicipal em que se integra a entidade autárquica de origem;\n\nb) Para unidade orgânica de entidade autárquica integrante da área metropolitana ou comunidade intermunicipal da entidade autárquica de origem;\n\nc) Para unidade orgânica de entidade autárquica integrante da área metropolitana ou comunidade intermunicipal de origem.\n\n2 - O limite previsto no n.º 2 e o disposto nos n.os 3, 4 e 11, todos do artigo 61.º da Lei n.º 12-A/2008, de 27 de fevereiro, retificada pela Declaração de Retificação n.º 22-A/2008, de 24 de abril, e alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, aplica-se no âmbito da mobilidade referida no número anterior.\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - A mobilidade interna de pessoal não docente da administração autárquica depende de audição prévia do respectivo director do agrupamento de escolas.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421938": {
+   "fragment_id": "75415970",
+   "type": 1,
+   "heading": "Capítulo III — Reorganização de serviços e mobilidade especial",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "### Capítulo III — Reorganização de serviços e mobilidade especial\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421935": {
+   "fragment_id": "75415971",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Âmbito\n\n1 - O Decreto-Lei n.º 200/2006, de 25 de outubro, aplica-se aos serviços da administração autárquica na parte respeitante à reestruturação de serviços e à racionalização de efetivos, com as adaptações constantes do presente capítulo.\n\n2 - O regime de mobilidade especial previsto na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, na sequência de processos de reestruturação de serviços e racionalização de efetivos, aplica-se à administração autárquica com as especificidades constantes dos artigos seguintes.\n\n3 - Em caso de extinção ou fusão de autarquias, pode ainda ser aplicável, com as adaptações constantes do presente capítulo, o disposto no Decreto-Lei n.º 200/2006, de 25 de outubro, e na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, para os processos de extinção e fusão de órgãos e serviços.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421936": {
+   "fragment_id": "75415972",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - As referências feitas no Decreto-Lei n.º 200/2006, de 25 de outubro, e na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, ao membro do Governo, ao dirigente máximo do serviço ou organismo e ao dirigente responsável pelo processo de reorganização, consideram-se feitas, para efeitos do presente decreto-lei:\n\na) Nos municípios, ao presidente da câmara municipal;\n\nb) Nas freguesias, à junta de freguesia;\n\nc) Nos serviços municipalizados, ao conselho de administração;\n\nd) Nas áreas metropolitanas e comunidades intermunicipais, ao respetivo órgão de gestão executiva.\n\n2 - No caso de fusão, as referências ao dirigente responsável pelo processo de reorganização consideram-se feitas ao órgão designado para o efeito em diploma próprio.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421937": {
+   "fragment_id": "75415973",
+   "type": 11,
+   "heading": "Artigo 16.º — Mobilidade especial",
+   "in_force_from": "2013-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Mobilidade especial\n\n1 - O exercício das competências previstas para a entidade gestora da mobilidade compete a uma entidade gestora da mobilidade especial autárquica (EGMA), a constituir no âmbito de cada área metropolitana e comunidade intermunicipal.\n\n2 - A constituição e o funcionamento da EGMA são determinados, nos termos dos estatutos da respetiva área metropolitana ou comunidade intermunicipal, por regulamento específico, o qual é submetido a parecer prévio do membro do Governo responsável pela área da Administração Pública.\n\n3 - As competências atribuídas às secretarias-gerais são exercidas pela autarquia de origem do pessoal colocado em situação de mobilidade especial, ou pela EGMA no respetivo âmbito, de acordo com a opção tomada nos termos do número anterior.\n\n4 - O âmbito de aplicação dos procedimentos previstos nos artigos 29.º, 33.º a 40.º e 47.º-A da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, é o da respetiva área metropolitana ou comunidade intermunicipal.\n\n5 - Após a constituição da entidade gestora, o procedimento concursal próprio previsto no artigo 33.º da Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, opera, em primeiro lugar, para o pessoal colocado em mobilidade especial no âmbito da respetiva comunidade intermunicipal ou área metropolitana.\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421943": {
+   "fragment_id": "75415956",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2013-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01",
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente decreto-lei procede à adaptação à administração autárquica do disposto na Lei n.º 12-A/2008, de 27 de Fevereiro, alterada pela Lei n.º 64-A/2008, de 31 de Dezembro.\n\n2 - O presente decreto-lei procede ainda à adaptação à administração autárquica do Decreto-Lei n.º 200/2006, de 25 de outubro, na parte referente à reestruturação de serviços públicos e racionalização de efetivos.\n\n3 -  O presente decreto-lei procede, igualmente, à adaptação à administração autárquica do regime jurídico da requalificação de trabalhadores em funções públicas.\n\n4 - O presente decreto-lei aplica-se, com as adaptações impostas pela observância das correspondentes competências, às áreas metropolitanas e comunidades intermunicipais.\n\n> Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421947": {
+   "fragment_id": "75415970",
+   "type": 1,
+   "heading": "Capítulo III — Reorganização de serviços e sistema de requalificação de trabalhadores",
+   "in_force_from": "2013-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 41.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01",
+    "Alterado pelo/a Artigo 10.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "### Capítulo III — Reorganização de serviços e sistema de requalificação de trabalhadores\n\n> Alterado pelo/a Artigo 41.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01\n\n> Alterado pelo/a Artigo 10.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421944": {
+   "fragment_id": "75415971",
+   "type": 11,
+   "heading": "Artigo 14.º — Âmbito",
+   "in_force_from": "2013-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01",
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Âmbito\n\n1 - O Decreto-Lei n.º 200/2006, de 25 de outubro, aplica-se aos serviços da administração autárquica na parte respeitante à reestruturação de serviços e à racionalização de efetivos, com as adaptações constantes do presente capítulo.\n\n2 - O regime do sistema de requalificação, na sequência de processos de reestruturação de serviços e racionalização de efetivos, aplica-se à administração autárquica.\n\n3 - Em caso de extinção ou fusão de autarquias, pode ainda ser aplicável, com as adaptações constantes do presente capítulo, o disposto no Decreto-Lei n.º 200/2006, de 25 de outubro, e na Lei n.º 53/2006, de 7 de dezembro, alterada pelas Leis n.os 11/2008, de 20 de fevereiro, 64-A/2008, de 31 de dezembro, e 64-B/2011, de 30 de dezembro, para os processos de extinção e fusão de órgãos e serviços.\n\n> Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421945": {
+   "fragment_id": "75415972",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": "2013-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01",
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - As referências feitas no Decreto-Lei n.º 200/2006, de 25 de outubro, e no regime jurídico da requalificação de trabalhadores em funções públicas, ao membro do Governo, ao dirigente máximo do órgão ou serviço e ao dirigente responsável pelo processo de reorganização, consideram-se feitas, para efeitos do presente decreto-lei:\n\na) Nos municípios, ao presidente da câmara municipal;\n\nb) Nas freguesias, à junta de freguesia;\n\nc) Nos serviços municipalizados, ao conselho de administração;\n\nd) Nas áreas metropolitanas e comunidades intermunicipais, ao respetivo órgão de gestão executiva.\n\n2 - No caso de fusão, as referências ao dirigente responsável pelo processo de reorganização consideram-se feitas ao órgão designado para o efeito em diploma próprio.\n\n> Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421946": {
+   "fragment_id": "75415973",
+   "type": 11,
+   "heading": "Artigo 16.º — Sistema de requalificação de trabalhadores",
+   "in_force_from": "2013-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01",
+    "Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+   ],
+   "markdown": "###### Artigo 16.º — Sistema de requalificação de trabalhadores\n\n1 - O exercício das competências previstas para a entidade gestora do sistema de requalificação compete a uma entidade gestora da requalificação nas autarquias (EGRA) relativamente aos respetivos processos de reorganização e trabalhadores, a constituir no âmbito de cada área metropolitana e comunidade intermunicipal.\n\n2 - A constituição e o funcionamento da EGRA são determinados nos termos dos estatutos da respetiva área metropolitana ou comunidade intermunicipal, por regulamento específico, o qual é submetido a parecer prévio do membro do Governo responsável pela área da Administração Pública.\n\n3 - (Revogado.)\n\n4 - O âmbito de aplicação dos procedimentos previstos no regime de requalificação é o da área da entidade pública a que se refere o n.º 1.\n\n5 - O procedimento concursal próprio previsto para reinício de funções nos termos do regime de requalificação, opera, em primeiro lugar, para os trabalhadores em situação de requalificação no âmbito da área da respetiva área metropolitana ou comunidade intermunicipal.\n\n> Alterado pelo/a Artigo 39.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01\n\n> Alterado pelo/a Artigo 9.º do/a [Lei n.º 66/2012 - Diário da República n.º 252/2012, Série I de 2012-12-31](https://diariodarepublica.pt/dr/detalhe/lei/66-2012-189513), em vigor a partir de 2013-01-01"
+  },
+  "75421939": {
+   "fragment_id": "75430883",
+   "type": 11,
+   "heading": "Artigo 16.º-A — Entidades gestoras subsidiárias",
+   "in_force_from": "2013-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 40.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01"
+   ],
+   "markdown": "###### Artigo 16.º-A — Entidades gestoras subsidiárias\n\nCaso a EGRA não esteja constituída na data da aprovação, por qualquer das entidades referidas nas alíneas a) a d) do n.º 1 do artigo 15.º, da lista nominativa dos trabalhadores que são colocados em situação de requalificação, essa entidade assume a posição de EGRA para todos os efeitos previstos no artigo anterior, com as seguintes especificidades:\n\na) O âmbito de aplicação do n.º 4 do artigo anterior é o da área da respetiva entidade pública;\n\nb) O procedimento concursal próprio previsto para reinício de funções nos termos do regime de requalificação opera, em primeiro lugar, para os trabalhadores em situação de requalificação no âmbito da respetiva entidade pública.\n\n> Aditado pelo/a Artigo 40.º do/a [Lei n.º 80/2013 - Diário da República n.º 231/2013, Série I de 2013-11-28](https://diariodarepublica.pt/dr/detalhe/lei/80-2013-484160), em vigor a partir de 2013-12-01"
+  },
+  "75421940": {
+   "fragment_id": "75415974",
+   "type": 11,
+   "heading": "Artigo 17.º — Transição para as carreiras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Transição para as carreiras gerais\n\nAs transições referidas nos n.os 2 dos artigos 95.º a 100.º da Lei n.º 12-A/2008, de 27 de Fevereiro, carecem de homologação do órgão executivo respectivo, prévia à lista nominativa referida no artigo 109.º da mesma lei."
+  },
+  "75421941": {
+   "fragment_id": "75430875",
+   "type": 11,
+   "heading": "Artigo 18.º — Conversão das situações de mobilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Conversão das situações de mobilidade\n\n1 - Os trabalhadores que a 1 de Janeiro de 2009 se encontravam em situação de mobilidade para, ou de, entidade excluída do âmbito de aplicação objectivo da Lei n.º 12-A/2008, de 27 de Fevereiro, transitaram, por força do artigo 102.º da mesma lei e sem outras formalidades, para a situação jurídico-funcional de cedência de interesse público.\n\n2 - A manutenção do estatuto de origem dos trabalhadores referidos no número anterior depende do acordo celebrado entre as partes ao abrigo do regime do instrumento de mobilidade aplicável antes da conversão."
+  },
+  "75421942": {
+   "fragment_id": "75430876",
+   "type": 11,
+   "heading": "Artigo 19.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Regulamentação\n\nSão aplicáveis à administração autárquica os instrumentos necessários à aplicação do disposto no presente decreto-lei aprovados por portaria dos membros do Governo responsáveis pelas áreas das autarquias locais e da Administração Pública."
+  }
+ }
+}

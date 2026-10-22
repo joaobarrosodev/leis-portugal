@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:444448:por
+title: Decreto Legislativo Regional n.º 4/93/A
+short_title: null
+summary: Aplica o Sistema de Incentivos Financeiros ao Investimento no Turismo (SIFIT II)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 4/93/A
+official_date: null
+publication_date: '1993-02-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 37/1993, 1º Suplemento, Série I-A de 1993-02-13
+  number: '37'
+  series: I
+  supplement: 1º Suplemento
+  pages: 598-(2) a 598-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/02/037a01/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/4/1993/02/13/a/dre/pt/html
+  oj: null
+  dre: '444448'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/4-1993-444448
+  internal: pt:dre:444448:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1993-444448
+  metadata_url: https://data.dre.pt/eli/declegreg/4/1993/02/13/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/4-1993-444448
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-02-13T00:00:00Z'
+integrity:
+  source_sha256: 011c55084cdcb748fc19feb0a2b7e541705fe62d5cccfbfc105edc49c7ca5c26
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1993/DRE-1993-4-444448.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Governo Regional
+- Desenvolvimento Regional
+- Apoio ao Investimento
+- Sistema de Incentivos Financeiros ao Investimento no Turismo
+- Açores
+- Infraestrutura Turística
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/215/1992/10/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/1992/10/13/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 4/93/A
+
+Sistema de Incentivos Financeiros ao Investimento no Turismo (SIFIT II)
+
+Considerando a instituição do Sistema de Incentivos Financeiros ao Investimento no Turismo (SIFIT II) pelo [Decreto-Lei n.º 215/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816), de 13 de Outubro, e legislação complementar;
+
+Considerando que as especificidades geográfica e do sector turístico da Região, assim como a sua organização político-administrativa, justificam um tratamento diferenciado quer em sede da intensidade das subvenções previstas no Sistema quer no que concerne à repartição das competências administrativas e à tramitação dos processos:
+
+A Assembleia Legislativa Regional dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 229.º da Constituição e da alínea c) do n.º 1 do artigo 32.º do Estatuto Político-Administrativo da Região, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+A aplicação na Região Autónoma dos Açores do Sistema de Incentivos Financeiros ao Investimento no Turismo (SIFIT II), instituído pelo [Decreto-Lei n.º 215/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816), de 13 de Outubro, e regulamentação complementar, observará o disposto nos artigos seguintes.
+
+###### Artigo 2.º — Competências do Governo Regional
+
+Na Região Autónoma dos Açores, incumbe:
+
+a) Aos membros do Governo Regional com tutela sobre o planeamento regional e o turismo a aprovação do modelo de contrato de concessão das subvenções;
+
+b) Ao Secretário Regional do Turismo e Ambiente a representação da Região no acto da outorga dos contratos de concessão das subvenções;
+
+c) À Secretaria Regional do Turismo e Ambiente, através da Direcção Regional de Turismo (DRT), e à Direcção Regional de Estudos e Planeamento dos Açores (DREPA), as competências que o [Decreto-Lei n.º 215/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/215-1992-225816), de 13 de Outubro, comete ao Fundo de Turismo, de acordo com a tramitação definida no artigo seguinte e sem prejuízo do disposto na alínea b).
+
+###### Artigo 3.º — Tramitação
+
+1 - Os processos de candidatura relativos a projectos a executar na Região devem ser apresentados na DRT ou nas suas delegações.
+
+2 - Caso os processos envolvam investimento estrangeiro, serão submetidos a autorização da Secretaria Regional das Finanças, Planeamento e Administração Pública, que deverá ser comunicada à DRT no prazo de 10 dias úteis.
+
+3 - A DRT aprecia os projectos apresentados, calcula o valor das subvenções a atribuir, agrupa as candidaturas entradas em cada fase, hierarquiza-as segundo os critérios a estabelecer pelo despacho mencionado no artigo seguinte e apresenta-as à DREPA, para efeitos de selecção a nível regional, as quais são subsequentemente submetidas a apreciação pelo Governo Regional.
+
+###### Artigo 4.º — Valor das subvenções
+
+O valor das subvenções é determinado pela aplicação de uma percentagem sobre o valor total das despesas de investimento comparticipáveis, que será fixada entre 10% e 40%, e de acordo com a natureza do empreendimento, por despacho normativo dos Secretários Regionais das Finanças, Planeamento e Administração Pública e do Turismo e Ambiente.
+
+###### Artigo 5.º — Afectação dos empreendimentos
+
+A concessão de subvenções ao abrigo do SIFIT II depende da prévia assunção pelos requerentes da obrigação de afectação dos empreendimentos objecto dos projectos apresentados à actividade turística por prazo não inferior ao mais longo previsto no [Decreto Legislativo Regional n.º 25/87/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/25-1987-497829), de 12 de Dezembro, ou no diploma que o substituir.
+
+###### Artigo 6.º — Pagamentos
+
+1 - O pagamento das subvenções efectuar-se-á à medida da evolução das obras, de acordo com a proporção do subsídio concedido no custo total do investimento e em função dos documentos justificativos das despesas realizadas.
+
+2 - Excepcionalmente, o Secretário Regional do Turismo e Ambiente poderá autorizar, ponderadas as disponibilidades financeiras e em razão das características especiais do investimento subvencionado, uma das seguintes modalidades de pagamento:
+
+a) Depois de comprovada a utilização dos capitais próprios mínimos, mediante verificação dos documentos justificativos das despesas e vistoria ao local do empreendimento;
+
+b) Quatro adiantamentos, de valor não superior a um quarto da subvenção concedida, desde que a DRT aprove o plano das obras e de pagamentos a formular pelo promotor e sem prejuízo da ulterior apresentação dos documentos justificativos das despesas realizadas.
+
+3 - As modalidades de libertação das subvenções previstas no número anterior ficam ainda condicionadas à apresentação de garantias bancárias, pelo valor dos pagamentos a efectuar, constituídas a favor da Região Autónoma dos Açores e válidas até ao termo da execução do projecto.
+
+###### Artigo 7.º — Informação
+
+Os valores das subvenções concedidas serão publicitadas quadrimestralmente pela DREPA.
+
+###### Artigo 8.º — Disposição transitória
+
+As candidaturas respeitantes à primeira fase de 1993 poderão ser apresentadas até 16 de Fevereiro.
+
+###### Artigo 9.º — Vigência
+
+Este diploma entra em vigor na data da sua publicação.
+
+Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 27 de Janeiro de 1993.
+
+**O Presidente da Assembleia Legislativa Regional, Alberto Romão Madruga da Costa.**
+
+**Assinado em Angra do Heroísmo em 15 de Fevereiro de 1993.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Mário Fernando de Campos Pinto.**

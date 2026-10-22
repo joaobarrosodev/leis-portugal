@@ -1,0 +1,470 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:469018:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1996-156104141",
+ "dre_path": "/dr/detalhe/decreto-lei/48-1996-469018",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1996-05-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "156104966",
+    "156104876",
+    "156104877",
+    "156104878",
+    "156104879",
+    "156104880",
+    "156104881",
+    "156104882",
+    "156104883"
+   ]
+  },
+  {
+   "date": "1996-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:405682:por",
+     "title": "Decreto-Lei n.º 126/96",
+     "published": "1996-08-10",
+     "dre_path": "/dr/detalhe/decreto-lei/126-1996-405682"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "156104875",
+    "156104876",
+    "156104877",
+    "156104878",
+    "156104895",
+    "156104896",
+    "156104881",
+    "156104882",
+    "156104883",
+    "156104884"
+   ]
+  },
+  {
+   "date": "2010-10-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:307827:por",
+     "title": "Decreto-Lei n.º 111/2010",
+     "published": "2010-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/111-2010-307827"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "156104966",
+    "156101876",
+    "156104877",
+    "156104974",
+    "156104895",
+    "156101875",
+    "156104881",
+    "156104882",
+    "156104883",
+    "156104884"
+   ]
+  },
+  {
+   "date": "2011-05-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:277581:por",
+     "title": "Decreto-Lei n.º 48/2011",
+     "published": "2011-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/48-2011-277581"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "156104966",
+    "156101876",
+    "156104877",
+    "156104974",
+    "156101877",
+    "156101879",
+    "156101880",
+    "156101881",
+    "156101882",
+    "156101883",
+    "156101884"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:277581:por",
+     "title": "Decreto-Lei n.º 48/2011",
+     "published": "2011-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/48-2011-277581",
+     "date": "2011-05-02"
+    }
+   ]
+  },
+  {
+   "date": "2015-01-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66229856:por",
+     "title": "Decreto-Lei n.º 10/2015",
+     "published": "2015-01-16",
+     "dre_path": "/dr/detalhe/decreto-lei/10-2015-66229856"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 4.º-A",
+    "Altera Artigo 5.º",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "156104966",
+    "156101885",
+    "156104877",
+    "156101886",
+    "156101887",
+    "156101888",
+    "156101889",
+    "156101890",
+    "156101882",
+    "156101883",
+    "156101884"
+   ]
+  },
+  {
+   "date": "2021-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:155732595:por",
+     "title": "Decreto-Lei n.º 9/2021",
+     "published": "2021-01-29",
+     "dre_path": "/dr/detalhe/decreto-lei/9-2021-155732595"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "156104966",
+    "156101885",
+    "156104877",
+    "156101886",
+    "156101887",
+    "156101888",
+    "156101891",
+    "156101890",
+    "156101882",
+    "156101883",
+    "156101884"
+   ]
+  }
+ ],
+ "fragments": {
+  "156104966": {
+   "fragment_id": "156104142",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 48/96\n\nde 15 de Maio\n\nO regime de horários de funcionamento dos estabelecimentos comerciais encontrava-se fixado no Decreto-Lei n.º 417/83, de 25 de Novembro, com as alterações introduzidas pelos Decretos-Leis n.os 72/94, de 3 de Março, e 86/95, de 28 de Abril.\n\nTem vindo a ficar demonstrado pelo decurso do tempo, particularmente após a alteração operada em Abril de 1995, que o actual esquema de horários de abertura dos estabelecimentos comerciais tem suscitado ampla controvérsia, gerando opiniões muito díspares, que demonstram um descontentamento generalizado junto dos agentes económicos.\n\nConsiderando o princípio constitucional da livre iniciativa privada, consagrado no artigo 61.º da Constituição da República Portuguesa, mas tendo também em conta o interesse geral, justifica-se uma intervenção que proporcione:\n\nA correcção de distorções da concorrência, especialmente através da introdução de uma uniformização nacional do regime de funcionamento das grandes superfícies que não desvirtue as potencialidades do mercado nem perpetue as clivagens que se vinham fazendo sentir e que levaram, inclusivamente, à coexistência, no mesmo concelho, de estabelecimentos com períodos de abertura muito diferentes;\n\nA promoção de uma política que prossiga a consolidação e o fortalecimento das pequenas e médias empresas, como segmento indispensável à reconquista do mercado nacional, numa estratégia geradora de emprego, integradora da distribuição com as pequenas e médias empresas agrícolas e industriais, e que permita, num justo equilíbrio de oportunidades, a coexistência de todas as fórmulas empresariais;\n\nA preservação dos hábitos de consumo adquiridos e a satisfação das necessidades de abastecimento dos consumidores.\n\nCom o presente diploma estabelece-se um novo regime dos horários de funcionamento dos estabelecimentos comerciais, com excepção dos respeitantes às grandes superfícies contínuas. Constituindo este diploma um quadro geral de referência, estes últimos serão fixados através de portaria do Ministro da Economia, a qual estabelecerá um horário único relativamente aos domingos e feriados.\n\nÀ semelhança do que já foi feito em outros países europeus, nomeadamente em Espanha, introduziu-se um novo tipo de estabelecimento comercial: as lojas de conveniência, cujo conceito legal será definido também através de portaria do Ministro da Economia.\n\nProcedeu-se a uma reformulação das sanções aplicáveis às contra-ordenações, por meio do aumento dos montantes das coimas e pela introdução da figura da sanção acessória, aplicável nos casos mais graves de infracção reiterada.\n\nQuanto à duração diária e semanal do trabalho estabelecida na lei, em instrumento de regulamentação colectiva de trabalho ou no contrato individual de trabalho, a mesma será incontestavelmente observada, sem prejuízo do período de abertura dos estabelecimentos.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nTendo em consideração todos estes factores:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "156104876": {
+   "fragment_id": "156104143",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Sem prejuízo do regime especial em vigor para actividades não especificadas no presente diploma, os estabelecimentos de venda ao público e de prestação de serviços, incluindo os localizados em centros comerciais, podem estar abertos entre as 6 e as 24 horas de todos os dias da semana.\n\n2 - Os cafés, cervejarias, casas de chá, restaurantes, snack-bars e self-services poderão estar abertos até às 2 horas de todos os dias da semana.\n\n3 - As lojas de conveniência poderão estar abertas até às 2 horas de todos os dias da semana.\n\n4 - Os clubes, cabarets, boîtes, dancings, casas de fado e estabelecimentos análogos poderão estar abertos até às 4 horas de todos os dias da semana.\n\n5 - São exceptuados dos limites fixados nos n.os 1 e 2 os estabelecimentos situados em estações e terminais rodoviários, ferroviários, aéreos ou marítimos, bem como em postos abastecedores de combustível de funcionamento permanente.\n\n6 - O horário de funcionamento das grandes superfícies comerciais contínuas, tal como definidas no Decreto-Lei n.º 258/92, de 20 de Novembro, com a redacção dada pelo Decreto-Lei n.º 83/95, de 26 de Abril, será regulamentado através de portaria do Ministro da Economia.\n\n7 - No caso de estabelecimentos situados em centros comerciais, aplicar-se-á o horário de funcionamento previsto e estatuído no n.º 1, salvo se os mesmos atingirem áreas de venda contínua, tal como definidas no mencionado Decreto-Lei n.º 258/92, de 20 de Novembro, com a redacção dada pelo Decreto-Lei n.º 83/95, de 26 de Abril, caso em que terão de observar o horário a estabelecer na portaria de regulamentação mencionada no número anterior."
+  },
+  "156104877": {
+   "fragment_id": "156104144",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA duração semanal e diária do trabalho estabelecida na lei, em instrumento de regulamentação colectiva de trabalho ou no contrato individual de trabalho será observada, sem prejuízo do período de abertura dos estabelecimentos."
+  },
+  "156104878": {
+   "fragment_id": "156104145",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nCom excepção dos limites horários a fixar para as grandes superfícies comerciais contínuas, através de portaria do Ministro da Economia, nos termos do n.º 6 do artigo 1.º, podem as câmaras municipais, ouvidos os sindicatos, as associações patronais e as associações de consumidores, restringir ou alargar os limites fixados no citado artigo 1.º, a vigorar em todas as épocas do ano ou apenas em épocas determinadas, nos termos seguintes:\n\na) As restrições aos limites fixados no artigo 1.º apenas poderão ocorrer em casos devidamente justificados e que se prendam com razões de segurança ou de protecção da qualidade de vida dos cidadãos;\n\nb) Os alargamentos aos limites fixados no artigo 1.º apenas poderão ter lugar em localidades em que os interesses de certas actividades profissionais, nomeadamente ligadas ao turismo, o justifiquem."
+  },
+  "156104879": {
+   "fragment_id": "156104146",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - No prazo máximo de 120 dias a contar da data de entrada em vigor do presente diploma, deverão os órgãos autárquicos municipais elaborar ou rever os regulamentos municipais sobre horários de funcionamento dos estabelecimentos comerciais, de acordo com os critérios estabelecidos no artigo 1.º\n\n2 - Após a entrada em vigor do presente diploma, e até que se verifique o disposto no número anterior, devem os titulares dos estabelecimentos adaptar os respectivos períodos de abertura aos previstos no artigo 1.º, comunicando esse facto à câmara municipal da área em que se situa o estabelecimento.\n\n3 - O disposto no número anterior não prejudica a competência dos órgãos autárquicos municipais para, nos termos do disposto no artigo 3.º, restringirem ou alargarem os limites fixados no artigo 1.º\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 216/96 - Diário da República n.º 269/1996, Série I-A de 1996-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1996-168060) É prorrogado, em 90 dias, o prazo previsto no n.º 1 do artigo 4.º do Decreto-Lei n.º 48/96, de 15 de Maio."
+  },
+  "156104880": {
+   "fragment_id": "156104147",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - O mapa de horário de funcionamento de cada estabelecimento deve ser afixado em lugar bem visível do exterior.\n\n2 - Constitui contra-ordenação, punível com coima:\n\na) De 30000$00 a 90000$00, para pessoas singulares, e de 90000$00 a 300000$00, para pessoas colectivas, a infracção do disposto no número anterior;\n\nb) De 50000$00 a 750000$00, para pessoas singulares, e de 500000$00 a 5000000$00, para pessoas colectivas, o funcionamento fora do horário estabelecido.\n\n3 - A grande superfície comercial contínua que funcione, durante seis domingos e feriados, seguidos ou interpolados, fora do horário estabelecido para os domingos e feriados na portaria de regulamentação do Ministro da Economia, nos termos do n.º 6 do artigo 1.º, pode ainda ser sujeita à aplicação de uma sanção acessória, que consiste no encerramento do estabelecimento durante um período não inferior a três meses e não superior a dois anos.\n\n4 - A aplicação das coimas a que se referem os números anteriores, nos termos da legislação respectiva, compete ao presidente da câmara municipal da área em que se situar o estabelecimento, revertendo as receitas provenientes da sua aplicação para a respectiva câmara municipal."
+  },
+  "156104881": {
+   "fragment_id": "156104148",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO conceito relativo ao estabelecimento designado como loja de conveniência, no âmbito do n.º 3 do artigo 1.º, será definido, para todos os efeitos legais, por portaria do Ministro da Economia."
+  },
+  "156104882": {
+   "fragment_id": "156104149",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ revogado o Decreto-Lei n.º 417/83, de 25 de Novembro, com as alterações introduzidas pelos Decretos-Leis n.os 72/94, de 3 de Março, e 86/95, de 28 de Abril."
+  },
+  "156104883": {
+   "fragment_id": "156104150",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente diploma entra em vigor com a publicação da portaria a que se refere o n.º 6 do artigo 1.º"
+  },
+  "156104875": {
+   "fragment_id": "156104142",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 48/96\n\nde 15 de Maio\n\nO regime de horários de funcionamento dos estabelecimentos comerciais encontrava-se fixado no Decreto-Lei n.º 417/83, de 25 de Novembro, com as alterações introduzidas pelos Decretos-Leis n.os 72/94, de 3 de Março, e 86/95, de 28 de Abril.\n\nTem vindo a ficar demonstrado pelo decurso do tempo, particularmente após a alteração operada em Abril de 1995, que o actual esquema de horários de abertura dos estabelecimentos comerciais tem suscitado ampla controvérsia, gerando opiniões muito díspares, que demonstram um descontentamento generalizado junto dos agentes económicos.\n\nConsiderando o princípio constitucional da livre iniciativa privada, consagrado no artigo 61.º da Constituição da República Portuguesa, mas tendo também em conta o interesse geral, justifica-se uma intervenção que proporcione:\n\nA correcção de distorções da concorrência, especialmente através da introdução de uma uniformização nacional do regime de funcionamento das grandes superfícies que não desvirtue as potencialidades do mercado nem perpetue as clivagens que se vinham fazendo sentir e que levaram, inclusivamente, à coexistência, no mesmo concelho, de estabelecimentos com períodos de abertura muito diferentes;\n\nA promoção de uma política que prossiga a consolidação e o fortalecimento das pequenas e médias empresas, como segmento indispensável à reconquista do mercado nacional, numa estratégia geradora de emprego, integradora da distribuição com as pequenas e médias empresas agrícolas e industriais, e que permita, num justo equilíbrio de oportunidades, a coexistência de todas as fórmulas empresariais;\n\nA preservação dos hábitos de consumo adquiridos e a satisfação das necessidades de abastecimento dos consumidores.\n\nCom o presente diploma estabelece-se um novo regime dos horários de funcionamento dos estabelecimentos comerciais, com excepção dos respeitantes às grandes superfícies contínuas. Constituindo este diploma um quadro geral de referência, estes últimos serão fixados através de portaria do Ministro da Economia, a qual estabelecerá um horário único relativamente aos domingos e feriados.\n\nÀ semelhança do que já foi feito em outros países europeus, nomeadamente em Espanha, introduziu-se um novo tipo de estabelecimento comercial: as lojas de conveniência, cujo conceito legal será definido também através de portaria do Ministro da Economia.\n\nProcedeu-se a uma reformulação das sanções aplicáveis às contra-ordenações, por meio do aumento dos montantes das coimas e pela introdução da figura da sanção acessória, aplicável nos casos mais graves de infracção reiterada.\n\nQuanto à duração diária e semanal do trabalho estabelecida na lei, em instrumento de regulamentação colectiva de trabalho ou no contrato individual de trabalho, a mesma será incontestavelmente observada, sem prejuízo do período de abertura dos estabelecimentos.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses.\n\nTendo em consideração todos estes factores:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "156104895": {
+   "fragment_id": "156104146",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1996-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - No prazo máximo de 120 dias a contar da data de entrada em vigor do presente diploma, deverão os órgãos autárquicos municipais elaborar ou rever os regulamentos municipais sobre horários de funcionamento dos estabelecimentos comerciais, de acordo com os critérios estabelecidos no artigo 1.º\n\n2 - Após a entrada em vigor do presente diploma, e até que se verifique o disposto no número anterior, devem os titulares dos estabelecimentos comerciais adaptar os respectivos períodos de abertura aos previstos no artigo 1.º ou manter o período de abertura que vinha sendo praticado com base no regulamento municipal existente para o efeito, com excepção dos previstos nos n.os 6 e 7 do artigo 1.º, comunicando esse facto à câmara municipal da área em que se situa o estabelecimento.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  },
+  "156104896": {
+   "fragment_id": "156104147",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1996-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O mapa de horário de funcionamento de cada estabelecimento deve ser afixado em lugar bem visível do exterior.\n\n2 - Constitui contra-ordenação, punível com coima:\n\na) De 30000$00 a 90000$00, para pessoas singulares, e de 90000$00 a 300000$00, para pessoas colectivas, a infracção do disposto no número anterior;\n\nb) De 50000$00 a 750000$00, para pessoas singulares, e de 500000$00 a 5000000$00, para pessoas colectivas, o funcionamento fora do horário estabelecido.\n\n3 - A grande superfície comercial contínua que funcione, durante seis domingos e feriados, seguidos ou interpolados, fora do horário estabelecido para os domingos e feriados na portaria de regulamentação do Ministro da Economia, nos termos do n.º 6 do artigo 1.º, pode ainda ser sujeita à aplicação de uma sanção acessória, que consiste no encerramento do estabelecimento durante um período não inferior a três meses e não superior a dois anos.\n\n4 - A aplicação das coimas e da sanção acessória a que se referem os números anteriores, nos termos da legislação respectiva, compete ao presidente da câmara municipal da área em que se situa o estabelecimento, revertendo as receitas provenientes da sua aplicação para a respectiva câmara municipal.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  },
+  "156104884": {
+   "fragment_id": "156104151",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Março de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 30 de Abril de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Maio de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "156101876": {
+   "fragment_id": "156104143",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2010-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Sem prejuízo do regime especial em vigor para actividades não especificadas no presente diploma, os estabelecimentos de venda ao público e de prestação de serviços, incluindo os localizados em centros comerciais, podem estar abertos entre as 6 e as 24 horas de todos os dias da semana.\n\n2 - Os cafés, cervejarias, casas de chá, restaurantes, snack-bars e self-services poderão estar abertos até às 2 horas de todos os dias da semana.\n\n3 - As lojas de conveniência poderão estar abertas até às 2 horas de todos os dias da semana.\n\n4 - Os clubes, cabarets, boîtes, dancings, casas de fado e estabelecimentos análogos poderão estar abertos até às 4 horas de todos os dias da semana.\n\n5 - São exceptuados dos limites fixados nos n.os 1 e 2 os estabelecimentos situados em estações e terminais rodoviários, ferroviários, aéreos ou marítimos, bem como em postos abastecedores de combustível de funcionamento permanente.\n\n6 - (Revogado).\n\n7 - (Revogado).\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+  },
+  "156104974": {
+   "fragment_id": "156104145",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2010-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs câmaras municipais, ouvidos os sindicatos, as associações patronais, as associações de consumidores e a junta de freguesia onde o estabelecimento se situe, podem:\n\na) Restringir os limites fixados no artigo 1.º, a vigorar em todas as épocas do ano ou apenas em épocas determinadas, em casos devidamente justificados e que se prendam com razões de segurança ou de protecção da qualidade de vida dos cidadãos;\n\nb) Alargar os limites fixados no artigo 1.º, a vigorar em todas as épocas do ano ou apenas em épocas determinadas, em localidades em que os interesses de certas actividades profissionais, nomeadamente ligadas ao turismo, o justifiquem.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+  },
+  "156101875": {
+   "fragment_id": "156104147",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2010-10-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - O mapa de horário de funcionamento de cada estabelecimento deve ser afixado em lugar bem visível do exterior.\n\n2 - Constitui contra-ordenação, punível com coima:\n\na) De (euro) 150 a (euro) 450, para pessoas singulares, e de (euro) 450 a (euro) 1500, para pessoas colectivas, a infracção do disposto no número anterior;\n\nb) De (euro) 250 a (euro) 3740, para pessoas singulares, e de (euro) 2500 a (euro) 25 000, para pessoas colectivas, o funcionamento fora do horário estabelecido.\n\n3 - (Revogado.)\n\n4 - A fiscalização do cumprimento do disposto no presente decreto-lei, a instrução dos processos de contra-ordenação, bem como a aplicação das coimas e de sanções acessórias, competem ao presidente da câmara municipal da área em que se situa o estabelecimento.\n\n5 - O produto das coimas reverte para a câmara municipal da área em que se situa o estabelecimento.\n\n6 - Em caso de reincidência e quando a culpa do agente e a gravidade da infracção o justifique, para além das coimas previstas no n.º 2, pode ser aplicada a sanção acessória de encerramento do estabelecimento durante um período não inferior a três meses e não superior a dois anos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  },
+  "156101877": {
+   "fragment_id": "156104146",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2011-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - No prazo máximo de 120 dias a contar da data de entrada em vigor do presente diploma, deverão os órgãos autárquicos municipais elaborar ou rever os regulamentos municipais sobre horários de funcionamento dos estabelecimentos comerciais, de acordo com os critérios estabelecidos no artigo 1.º\n\n2 - Após a entrada em vigor do presente diploma, e até que se verifique o disposto no número anterior, devem os titulares dos estabelecimentos comerciais adaptar os respectivos períodos de abertura aos previstos no artigo 1.º ou manter o período de abertura que vinha sendo praticado com base no regulamento municipal existente para o efeito, comunicando esse facto à câmara municipal da área em que se situa o estabelecimento.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 216/96 - Diário da República n.º 269/1996, Série I-A de 1996-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1996-168060) É prorrogado, em 90 dias, o prazo previsto no n.º 1 do artigo 4.º do Decreto-Lei n.º 48/96, de 15 de Maio.\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  },
+  "156101879": {
+   "fragment_id": "156105136",
+   "type": 11,
+   "heading": "Artigo 4.º-A",
+   "in_force_from": "2011-05-02",
+   "changed_by": [
+    "Aditado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 4.º-A\n\n1 - O titular da exploração do estabelecimento, ou quem o represente, deve proceder à mera comunicação prévia, no 'Balcão do empreendedor', do horário de funcionamento, bem como das suas alterações.\n\n2 - Cada estabelecimento deve afixar o mapa de horário de funcionamento em local bem visível do exterior.\n\n3 - O horário de funcionamento de cada estabelecimento, as suas alterações e o mapa referido no número anterior não estão sujeitos a licenciamento, a autorização, a autenticação, a validação, a certificação, a actos emitidos na sequência de comunicações prévias com prazo, a registo ou a qualquer outro acto permissivo.\n\n> Aditado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "156101880": {
+   "fragment_id": "156104147",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2011-05-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - (Revogado.)\n\n2 - Constitui contra-ordenação punível com coima:\n\na) De (euro) 150 a (euro) 450, para pessoas singulares, e de (euro) 450 a (euro) 1500, para pessoas colectivas, a falta de mera comunicação prévia do horário de funcionamento, bem como das suas alterações e a falta da afixação do mapa de horário de funcionamento, em violação do disposto nos n.os 1 e 2 do artigo 4.º-A;\n\nb) De (euro) 250 a (euro) 3740, para pessoas singulares, e de (euro) 2500 a (euro) 25 000, para pessoas colectivas, o funcionamento fora do horário estabelecido.\n\n3 - (Revogado pelo Decreto-Lei n.º 111/2010, de 15 de Outubro.)\n\n4 - A fiscalização do cumprimento do disposto no presente decreto-lei, a instrução dos processos de contra-ordenação, bem como a aplicação das coimas e de sanções acessórias, competem ao presidente da câmara municipal da área em que se situa o estabelecimento.\n\n5 - O produto das coimas reverte para a câmara municipal da área em que se situa o estabelecimento.\n\n6 - Em caso de reincidência e quando a culpa do agente e a gravidade da infracção o justifique, para além das coimas previstas no n.º 2, pode ser aplicada a sanção acessória de encerramento do estabelecimento durante um período não inferior a três meses e não superior a dois anos.\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  },
+  "156101881": {
+   "fragment_id": "156104148",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO conceito relativo ao estabelecimento designado como loja de conveniência, no âmbito do n.º 3 do artigo 1.º, será definido, para todos os efeitos legais, por portaria do Ministro da Economia."
+  },
+  "156101882": {
+   "fragment_id": "156104149",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nÉ revogado o Decreto-Lei n.º 417/83, de 25 de Novembro, com as alterações introduzidas pelos Decretos-Leis n.os 72/94, de 3 de Março, e 86/95, de 28 de Abril."
+  },
+  "156101883": {
+   "fragment_id": "156104150",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO presente diploma entra em vigor com a publicação da portaria a que se refere o n.º 6 do artigo 1.º"
+  },
+  "156101884": {
+   "fragment_id": "156104151",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 28 de Março de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Alberto Bernardes Costa - João Cardona Gomes Cravinho - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Jorge Paulo Sacadura Almeida Coelho.\n\nPromulgado em 30 de Abril de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 2 de Maio de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "156101885": {
+   "fragment_id": "156104143",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Sem prejuízo do disposto no regime especial em vigor para atividades não especificadas no presente diploma, os estabelecimentos de venda ao público, de prestação de serviços, de restauração ou de bebidas, os estabelecimentos de restauração ou de bebidas com espaço para dança ou salas destinadas a dança, ou onde habitualmente se dance, ou onde se realizem, de forma acessória, espetáculos de natureza artística, os recintos fixos de espetáculos e de divertimentos públicos não artísticos têm horário de funcionamento livre.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n4 - [Revogado].\n\n5 - [Revogado].\n\n6 - (Revogado).\n\n7 - (Revogado).\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+  },
+  "156101886": {
+   "fragment_id": "156104145",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2015-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+   ],
+   "markdown": "###### Artigo 3.º\n\nAs câmaras municipais, ouvidos os sindicatos, as forças de segurança, as associações de empregadores, as associações de consumidores e a junta de freguesia onde o estabelecimento se situe, podem restringir os períodos de funcionamento, a vigorar em todas as épocas do ano ou apenas em épocas determinadas, em casos devidamente justificados e que se prendam com razões de segurança ou de proteção da qualidade de vida dos cidadãos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16"
+  },
+  "156101887": {
+   "fragment_id": "156104146",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2015-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21",
+    "Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - Os órgãos municipais devem adaptar os regulamentos municipais sobre horários de funcionamento em função do previsto no n.º 1 do artigo 1.º ou do disposto no artigo anterior.\n\n2 - [Revogado].\n\n3 - [Revogado].\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 216/96 - Diário da República n.º 269/1996, Série I-A de 1996-11-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/216-1996-168060) É prorrogado, em 90 dias, o prazo previsto no n.º 1 do artigo 4.º do Decreto-Lei n.º 48/96, de 15 de Maio.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  },
+  "156101888": {
+   "fragment_id": "156105136",
+   "type": 11,
+   "heading": "Artigo 4.º-A",
+   "in_force_from": "2015-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21",
+    "Aditado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+   ],
+   "markdown": "###### Artigo 4.º-A\n\n1 - [Revogado].\n\n2 - Em cada estabelecimento deve estar afixado o mapa de horário de funcionamento em local bem visível do exterior.\n\n3 - Para os conjuntos de estabelecimentos, instalados num único edifício, que pratiquem o mesmo horário de funcionamento, deve ser afixado um mapa de horário de funcionamento em local bem visível do exterior.\n\n4 - A definição do horário de funcionamento de cada estabelecimento ou de conjunto de estabelecimentos instalados no mesmo edifício, as suas alterações e o mapa referido no número anterior não estão sujeitos a qualquer formalidade ou procedimento, sem prejuízo de serem ouvidas as entidades representativas dos trabalhadores, nos termos da lei.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21\n\n> Aditado pelo/a Artigo 34.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-02"
+  },
+  "156101889": {
+   "fragment_id": "156104147",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2015-01-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21",
+    "Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - (Revogado.)\n\n2 - Constitui contra-ordenação punível com coima:\n\na) De (euro) 150,00 a (euro) 450,00, para pessoas singulares, e de (euro) 450,00 a (euro) 1 500,00, para pessoas coletivas, a falta da afixação do mapa de horário de funcionamento, em violação do disposto no n.º 2 do artigo anterior;\n\nb) De (euro) 250,00 a (euro) 3 740,00, para pessoas singulares, e de (euro) 2 500,00 a (euro) 25 000,00, para pessoas coletivas, o funcionamento fora do horário estabelecido.\n\n3 - (Revogado pelo Decreto-Lei n.º 111/2010, de 15 de Outubro.)\n\n4 - A fiscalização do cumprimento do disposto no presente diploma compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Autoridade de Segurança Alimentar e Económica e ao município territorialmente competente.\n\n5 - A instrução dos processos de contraordenação, bem como a aplicação das coimas e de sanções acessórias competem ao presidente da câmara municipal da área em que se situa o estabelecimento.\n\n6 - As autoridades de fiscalização mencionadas no n.º 4 podem determinar o encerramento imediato do estabelecimento que se encontre a laborar fora do horário de funcionamento estabelecido.\n\n7 - O produto das coimas reverte para a câmara municipal da área em que se situa o estabelecimento.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  },
+  "156101890": {
+   "fragment_id": "156104148",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2015-01-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21"
+   ],
+   "markdown": "###### Artigo 6.º\n\nO conceito relativo ao estabelecimento designado como loja de conveniência, no âmbito do n.º 3 do artigo 1.º, será definido, para todos os efeitos legais, por portaria do Ministro da Economia.\n\n> Revogado pelo/a Artigo 13.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21"
+  },
+  "156101891": {
+   "fragment_id": "156104147",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2021-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21",
+    "Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - (Revogado.)\n\n2 - Constitui contraordenação económica leve, punível nos termos do Regime Jurídico das Contraordenações Económicas, a prática dos seguintes atos:\n\na) A falta da afixação do mapa de horário de funcionamento, em violação do disposto no n.º 2 do artigo 4.º-A;\n\nb) O funcionamento do estabelecimento fora do horário estabelecido.\n\n3 - (Revogado pelo Decreto-Lei n.º 111/2010, de 15 de Outubro.)\n\n4 - A fiscalização do cumprimento do disposto no presente diploma compete à Guarda Nacional Republicana, à Polícia de Segurança Pública, à Autoridade de Segurança Alimentar e Económica e ao município territorialmente competente.\n\n5 - A instrução dos processos de contraordenação, bem como a aplicação das coimas e de sanções acessórias competem ao presidente da câmara municipal da área em que se situa o estabelecimento.\n\n6 - As autoridades de fiscalização mencionadas no n.º 4 podem determinar o encerramento imediato do estabelecimento que se encontre a laborar fora do horário de funcionamento estabelecido.\n\n7 - O produto das coimas reverte para a câmara municipal da área em que se situa o estabelecimento.\n\n> Alterado pelo/a Artigo 30.º do/a [Decreto-Lei n.º 9/2021 - Diário da República n.º 20/2021, Série I de 2021-01-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-2021-155732595), em vigor a partir de 2021-07-28\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2015 - Diário da República n.º 11/2015, Série I de 2015-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2015-66229856), em vigor a partir de 2015-01-21\n\n> Alterado pelo/a Artigo 33.º do/a [Decreto-Lei n.º 48/2011 - Diário da República n.º 65/2011, Série I de 2011-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2011-277581), em vigor a partir de 2011-05-01\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 111/2010 - Diário da República n.º 201/2010, Série I de 2010-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/111-2010-307827), em vigor a partir de 2010-10-16\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 126/96 - Diário da República n.º 185/1996, Série I-A de 1996-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/126-1996-405682), em vigor a partir de 1996-08-11"
+  }
+ }
+}

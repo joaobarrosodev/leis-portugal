@@ -1,0 +1,257 @@
+---
+schema_version: '1.0'
+id: pt:dre:150763:por
+title: Decreto-Lei n.º 173/97
+short_title: null
+summary: Aprova o regime de taxas incidentes sobre o vinho do Porto e produtos vínicos aptos a dar-lhe origem
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 173/97
+official_date: null
+publication_date: '1997-07-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 162/1997, Série I-A de 1997-07-16
+  number: '162'
+  series: I
+  supplement: null
+  pages: 3526 - 3528
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/07/162a00/35263528.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1997-07-31'
+version_history:
+  file: decreto-lei-173-97.versoes.json
+  count: 2
+  source_lastmod: '2025-11-04'
+  versions:
+  - date: '1997-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1997-07-31'
+    amending: pt:dre:484778:por
+    amending_title: Declaração de Rectificação n.º 14-E/97
+    changes:
+    - Retifica Artigo 12.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/173/1997/p/cons/19970731/pt/html
+  oj: null
+  dre: '150763'
+  dre_path: /dr/detalhe/decreto-lei/173-1997-150763
+  internal: pt:dre:150763:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-1997-150763
+  metadata_url: https://data.dre.pt/eli/dec-lei/173/1997/p/cons/19970731/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-944386291
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-944386291
+  retrieved_at: '2026-10-22T13:36:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-11-04T00:00:00Z'
+integrity:
+  source_sha256: e5bae69c9e11095bf3b3211907a10ad46ca2ddc7aa23db6dde00fc922db4c51a
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:36:00Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-173-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- SELO de Garantia
+- Certificado de Origem
+- Comissão Interprofissional da Região Demarcada do Douro
+- Denominação de Origem
+- Controlo de Qualidade
+- Instituto do Vinho do Porto
+- Região Demarcada do Douro
+- Regime Fiscal
+- Cápsula-selo
+- Taxa
+- Vinho do Porto
+relationships:
+- type: amended_by
+  target: pt:dre:484778:por
+  label: Retifica Artigo 12.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-e-1997-484778
+  date: '1997-07-31'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/74/1995/04/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/83/1992/05/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/83/1992/05/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/52-c/1996/12/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/736/1996/12/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/736/1996/12/12/p/dre
+article_structure:
+  article_count: 12
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:36:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 173/97
+
+Decreto-Lei n.º 173/97
+
+de 16 de Julho
+
+Na sequência da alteração institucional decorrente da criação da Comissão Interprofissional da Região Demarcada do Douro (CIRDD) através do Decreto-Lei n.º 74/95, de 19 de Abril, com a consequente redistribuição de competências entre os organismos de coordenação do sector do vinho do Porto, mostra-se oportuno consignar num diploma próprio o regime tributário incidente sobre a actividade dos agentes económicos ligados à produção e comércio daquele produto.
+
+Aproveitou-se agora para definir com maior clareza quais as taxas que vão incidir sobre o sector do vinho do Porto, por forma que as mesmas possam traduzir o pagamento da contrapartida dos serviços que o Instituto do Vinho do Porto (IVP) e a CIRDD prestam ao sector, a fim de que seja garantida eficazmente a qualidade e genuinidade do produto final.
+
+Consagram-se num único diploma as diversas taxas que incidem sobre a produção e comercialização do vinho do Porto e sobre os produtos utilizados na sua elaboração, aperfeiçoando-se as respectivas regras de liquidação e cobrança de maneira a simplificar o sistema até agora vigente, resolvendo algumas dúvidas e dificuldades que a prática tem vindo a demonstrar.
+
+Assim:
+
+No uso da autorização legislativa conferida pelo artigo 58.º da Lei n.º 52-C/96, de 27 de Dezembro, e nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+O vinho do Porto e os produtos vínicos utilizados na sua elaboração ficam sujeitos à aplicação de taxas que constituem contrapartida dos serviços prestados pelo Instituto do Vinho do Porto (IVP) e pela Comissão Interprofissional da Região Demarcada do Douro (CIRDD) para garantia da sua qualidade e genuinidade do produto final.
+
+###### Artigo 2.º — Incidência
+
+As taxas previstas nas alíneas a), b) e c) do artigo 25.º do Decreto-Lei n.º 192/88, de 30 de Maio, são as seguintes:
+
+a) Taxa incidente sobre o vinho do Porto destinado à comercialização, engarrafado ou a granel, e sobre o desclassificado para uso na indústria agro-alimentar;
+
+b) Taxa incidente sobre a aguardente vínica destinada à beneficiação dos mostos e ao tratamento do vinho generoso da Região Demarcada do Douro;
+
+c) Taxas devidas pela aquisição de selos de garantia e de cápsulas-selos, para aposição nas garrafas do vinho do Porto.
+
+###### Artigo 3.º — Sujeitos
+
+1 - As taxas referidas nas alíneas a) e c) do artigo 2.º são devidas pelos comerciantes inscritos no IVP.
+
+2 - A taxa referida na alínea b) do mesmo artigo é devida pelos adquirentes.
+
+###### Artigo 4.º — Liquidação e cobrança
+
+1 - A liquidação e a cobrança das taxas previstas no artigo 2.º serão realizadas de acordo com as seguintes regras:
+
+a) As taxas previstas na alínea a) serão liquidadas e cobradas no momento do pedido da certificação da denominação de origem;
+
+b) A taxa prevista na alínea b) será liquidada pelo IVP ou pela CIRDD após a validação do documento de acompanhamento da aguardente com destino ao respectivo utilizador, devendo o pagamento ser efectuado, junto da entidade que tiver realizado a validação, até ao final do semestre em que tenha ocorrido a liquidação;
+
+c) A taxa prevista na alínea c) será liquidada e cobrada no momento da aquisição dos selos e das cápsulas-selos.
+
+2 - A direcção do IVP poderá utilizar um procedimento simplificado de liquidação e cobrança das taxas revistas na alínea a) do número anterior, mediante declaração relativa aos volumes comercializados mensalmente, a apresentar pelos agentes económicos no IVP até ao dia 15 do mês seguinte àquele a que respeitar, devendo o pagamento ocorrer no prazo de cinco dias úteis a contar da data da liquidação.
+
+###### Artigo 5.º — Incidência
+
+As taxas previstas na alínea a) do artigo 14.º do Estatuto da CIRDD, aprovado pelo Decreto-Lei n.º 74/95, de 19 de Abril, são as seguintes:
+
+a) Taxa de certificação da origem dos mostos declarados para efeito de obtenção da denominação de origem vinho do Porto;
+
+b) Taxa de certificação da procedência dos vinhos aptos à denominação de origem vinho do Porto que transitem da Região Demarcada do Douro para o entreposto de Vila Nova de Gaia.
+
+###### Artigo 6.º — Sujeitos
+
+1 - A taxa referida na alínea a) do artigo anterior será devida pelos produtores.
+
+2 - A taxa referida na alínea b) do artigo anterior será devida pelos requerentes da certificação de procedência.
+
+###### Artigo 7.º — Liquidação e cobrança
+
+A liquidação e a cobrança das taxas previstas no artigo 5.º serão realizadas de acordo com as seguintes regras:
+
+a) A taxa prevista na alínea a) será liquidada pela CIRDD no momento da recepção das declarações de colheita e produção, podendo ser paga apenas em 20% nesse acto, caso em que o valor remanescente será pago até à data limite fixada no comunicado de vindima desse ano, para a comercialização dos vinhos daquela vindima;
+
+b) A taxa prevista na alínea b) será liquidada e cobrada no acto de validação do documento de acompanhamento do transporte dos vinhos.
+
+###### Artigo 8.º — Fixação das taxas
+
+1 - Da receita anual da taxa incidente sobre a aguardente vínica será entregue pelo IVP à CIRDD uma percentagem, a fixar anualmente, como contrapartida dos serviços prestados pela segunda no controlo administrativo da distribuição e utilização daquele produto.
+
+2 - Para efeitos do disposto no número anterior, até 31 de Dezembro de cada ano, o IVP transferirá para a CIRDD o saldo correspondente à diferença entre a receita já cobrada por esta e o valor que lhe cumpra receber, salvo quando aquela receita já exceda este valor, caso em que a CIRDD devolverá o excesso ao IVP.
+
+###### Artigo 9.º — Regulamentação
+
+1 - Os valores das taxas previstas no artigo 2.º e da percentagem referida no n.º 1 do artigo anterior são fixados por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sob proposta do IVP e com audição prévia da CIRDD.
+
+2 - Os modelos de selo de garantia e cápsula-selo destinados à aposição nas garrafas de vinho do Porto são aprovados por portaria do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, cabendo ao IVP definir as respectivas dimensões e demais características.
+
+3 - Os valores das taxas a que se refere o artigo 5.º serão fixados pelo conselho geral da CIRDD, secção especializada do vinho do Porto, sendo comunicados por esta ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas, para efeitos de publicação em aviso no Diário da República.
+
+###### Artigo 10.º — Pagamento coercivo e regime sancionatório
+
+1 - Em caso de falta de pagamento, no prazo fixado, das taxas previstas no presente diploma, após notificação por carta registada com aviso de recepção ao sujeito passivo para que efectue o pagamento do montante em dívida, acrescido de juros de mora, no prazo de 15 dias, haverá lugar a execução fiscal, nos termos previstos no Código de Processo Tributário, instaurada com base em certidão emitida pelo sujeito activo, elaborada nos termos do artigo 249.º do referido Código.
+
+2 - A expedição ou comercialização de vinho do Porto e o transporte referido na alínea b) do artigo 7.º sem o prévio pagamento das taxas previstas neste diploma que se mostrem devidas nesse momento, bem como a falta de apresentação pelos sujeitos passivos, no prazo fixado, da declaração referida na alínea a) do artigo 4.º, ou a apresentação de quaisquer declarações inexactas ou incompletas para efeitos de liquidação, constituem contra-ordenações, puníveis nos termos do Decreto-Lei n.º 433/82, de 27 de Outubro.
+
+3 - A aplicação das coimas previstas no número anterior compete ao presidente da direcção do IVP, nos termos previstos no Decreto-Lei n.º 433/82, de 27 de Outubro, com as alterações estabelecidas pelo Decreto-Lei n.º 244/95, de 14 de Setembro, sendo os processos de contra-ordenação instruídos pelos serviços do IVP.
+
+###### Artigo 11.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 83/92, de 7 de Maio;
+
+b) Os artigos 49.º e 52.º, n.º 3, do Decreto-Lei n.º 30408, de 30 de Abril de 1940;
+
+c) As alíneas c) e d) do artigo 1.º do Decreto-Lei n.º 43/87, de 28 de Janeiro.
+
+###### Artigo 12.º — Entrada em vigor
+
+1 - Os diplomas revogados pelo presente decreto-lei mantêm-se transitoriamente em vigor quanto aos montantes das taxas previstas no artigo 2.º, as quais continuarão a ser pagas por estes montantes até à publicação das portarias referidas no artigo 9.º, n.º 1.
+
+2 - Até à respectiva substituição pelas portarias previstas no artigo 9.º, n.º 2, continuará em vigor o disposto nas Portarias n.os 413/85, de 29 de Junho, e 736/96, de 12 de Dezembro, bem como no despacho ministerial de 25 de Março de 1975, que aprovou os modelos de selos de garantia a utilizar nas garrafas de vinho do Porto.
+
+3 - Até à publicação em aviso no Diário da República, conforme referido no n.º 3 do artigo 9.º, as taxas previstas no artigo 5.º continuarão a ser pagas pelos montantes que foram fixados nas alíneas c) e d) do artigo 1.º do Decreto-Lei n.º 43/87, de 28 de Janeiro, na parte aplicável ao vinho generoso apto à denominação de origem vinho do Porto.
+
+> Retificado pelo/a [Declaração de Rectificação n.º 14-E/97 - Diário da República n.º 175/1997, 3º Suplemento, Série I-A de 1997-07-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/14-e-1997-484778), em vigor a partir de 1997-07-31
+
+Visto e aprovado em Conselho de Ministros de 23 de Abril de 1997. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - José Eduardo Vera Cruz Jardim - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva.
+
+Promulgado em 26 de Junho de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado a 27 de Junho de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.

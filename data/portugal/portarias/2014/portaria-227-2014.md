@@ -1,0 +1,220 @@
+---
+schema_version: '1.0'
+id: pt:dre:58763445:por
+title: Portaria n.º 227/2014
+short_title: null
+summary: Define a atividade de compras centralizadas específicas da área da saúde que constituem atribuição da SPMS, E. P.
+  E. - Serviços Partilhados do Ministério da Saúde, E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 227/2014
+official_date: null
+publication_date: '2014-11-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 215/2014, Série I de 2014-11-06
+  number: '215'
+  series: I
+  supplement: null
+  pages: 5679 - 5680
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/11/21500/0567905680.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2025-04-16'
+version_history:
+  file: portaria-227-2014.versoes.json
+  count: 2
+  source_lastmod: '2025-04-14'
+  versions:
+  - date: '2014-11-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-04-16'
+    amending: pt:dre:914713270:por
+    amending_title: Portaria n.º 176/2025/1
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/227/2014/p/cons/20250411/pt/html
+  oj: null
+  dre: '58763445'
+  dre_path: /dr/detalhe/portaria/227-2014-58763445
+  internal: pt:dre:58763445:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/227-2014-58763445
+  metadata_url: https://data.dre.pt/eli/port/227/2014/p/cons/20250411/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-73783879
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2014-73783879
+  retrieved_at: '2026-10-22T13:25:12Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-04-14T00:00:00Z'
+integrity:
+  source_sha256: a8aa8f997941d48daf131048d853d015f3e1824bbba10b7975bcd1e0fba3c4d2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:25:12Z'
+  notes: 2 versão(ões); histórico completo em portaria-227-2014.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Assistência Medicamentosa
+- Comissão de Acompanhamento
+- Contenção de Despesas
+- Criação de Serviços
+- Saúde
+- Definição de Competências
+- Despesas Públicas
+- Serviço Nacional de Saúde
+- Serviços Partilhados do Ministério da Saúde
+- Comércio Eletrónico
+- Contratação Eletrónica
+- Contratação Pública
+relationships:
+- type: amended_by
+  target: pt:dre:914713270:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/176-2025-914713270
+  date: '2025-04-11'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/108/2011/11/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/108/2011/11/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/19/2010/03/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/19/2010/03/22/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:25:12Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 227/2014
+
+Portaria n.º 227/2014
+
+de 6 de novembro
+
+A aquisição centralizada de bens e serviços na área da saúde tem permitido não só elevadas poupanças, mas também a criação de sinergias e aumento de produtividade, assim como benefícios ao nível da qualidade do serviço prestado e da qualidade e celeridade da informação de gestão produzida.
+
+Pese embora estes benefícios constata-se que complementando o regime já previsto na Portaria n.º 55/2013, de 7 de fevereiro, relativamente à atividade da central de compras da saúde, torna-se necessário dotar os Serviços Partilhados do Ministério da Saúde, E. P. E. (SPMS, E. P. E.) de novos mecanismos que permitam um funcionamento mais eficaz na prossecução das suas atividades no domínio das compras públicas, designadamente no âmbito da agregação de informação.
+
+Visa-se assim estabelecer que as compras centralizadas realizadas pela SPMS, E. P. E., quer nos termos da Portaria n.º 55/2013, de 7 de fevereiro, quer nos termos do Despacho n.º 9813/2013, publicado no D.R., 2.ª série, n.º 142, de 25 de julho de 2013, devem estar suportadas num sistema integrado de informação, que permita fornecer informação relevante para a tomada de decisão sustentável particularmente no que tange à redução da despesa pública através da análise de informação integrada e fiável sobre quais as aquisições realizadas nomeadamente na área do medicamento e dispositivos clínicos, prestação de cuidados de saúde e bens e serviços no âmbito das tecnologias de informação e comunicação, indo-se assim ao encontro das recomendações do Tribunal de Contas relativamente a estas matérias.
+
+A adoção e disponibilização deste sistema permitirão a desmaterialização integral do ciclo das compras públicas na área da saúde, designadamente através da disponibilização de instrumentos de agregação de necessidades aquisitivas por via eletrónica, desmaterialização dos pedidos de exceção e disponibilização de informação de gestão.
+
+Prevê-se ainda a criação junto da SPMS, E. P. E., de uma Comissão de Acompanhamento de Compras na Saúde que integra os vários organismos da área da saúde e a quem compete colaborar com a SPMS, E. P. E., no planeamento e monitorização da política de compras específicas do setor da saúde.
+
+Nestes termos, ao abrigo do disposto nos n.os 6 e 10 do artigo 4.º do Decreto-Lei n.º 19/2010, de 22 de março, alterado pelo Decreto-Lei n.º 108/2011, de 17 de novembro, manda o Governo, pelo Secretário de Estado da Saúde, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+A atividade de compras centralizadas específicas da área da saúde que constituem atribuição da SPMS, E. P. E. - Serviços Partilhados do Ministério da Saúde, E. P. E., adiante abreviadamente designada por SPMS, E. P. E., abrange:
+
+a) A segregação entre a função de condução dos procedimentos e a função de execução administrativa e financeira dos contratos, com vista à celebração de acordos quadro ou outros contratos públicos, por tipologias de bens e serviços transversais na saúde;
+
+b) A adoção de procedimentos de aquisição centralizados com vista à celebração de contratos públicos, na sequência da agregação das necessidades das entidades compradoras;
+
+c) Adoção de práticas que promovam o equilíbrio adequado entre a eficiência financeira e a proteção do ambiente;
+
+d) A implementação e disponibilização de uma solução com vista à desmaterialização de todo o ciclo de compras na saúde, designadamente através da adoção de ferramentas de planeamento e agregação de necessidades aquisitivas, práticas aquisitivas por via eletrónica e interligação automática com todo e qualquer suporte, plataforma ou portal de recolha de informação relativa às compras na saúde, visando a redução de custos para o Estado e o aumento da sua eficiência, através da implementação e gestão de um Sistema de Informação de Compras na Saúde (SCS).
+
+###### Artigo 2.º — Sistema de Informação de Compras na Saúde (SCS)
+
+1 - Todo o processo relativo às compras na saúde assenta em sistema de informação que assegura o suporte e a gestão, geridas de forma centralizada pela SPMS, E. P. E., que são de uso obrigatório para as entidades compradoras e de forma a interoperar com os sistemas de suporte locais.
+
+2 - Todos os procedimentos de contratação de aquisição de bens e serviços realizados pela SPMS, E. P. E., são obrigatoriamente tramitados na plataforma eletrónica de contratação pública gerida pela SPMS, E. P. E., a qual é de acesso livre e gratuito a todas as entidades compradoras e cocontratantes.
+
+3 - Compete à SPMS, E. P. E., a definição dos procedimentos relativos ao acesso e utilização das aplicações informáticas que devem ser implementados e observados pelas entidades compradoras.
+
+4 - O disposto nos números anteriores não prejudica a observância das exigências legais decorrentes do regime da contratação pública.
+
+###### Artigo 3.º — Comissão de Acompanhamento das Compras na Saúde
+
+1 - É criada a funcionar junto da SPMS, E. P. E., a Comissão de Acompanhamento de Compras na Saúde (CACS) a quem compete colaborar com a SPMS, E. P. E., no planeamento e monitorização da política de compras específicas do setor da saúde.
+
+2 - Compete, especialmente à CACS:
+
+a) Colaborar na elaboração do plano da SPMS, E. P. E., no setor das compras;
+
+b) Acompanhar a execução estratégica do plano através da análise dos resultados alcançados e do respetivo grau de cumprimento;
+
+c) Apoiar a SPMS, E. P. E., no desenvolvimento de políticas de compras públicas com vista à racionalização da despesa pública, designadamente especialmente na área do medicamento e dispositivos médicos.
+
+3 - A CACS é composta pelos seguintes elementos:
+
+a) Um representante da SPMS, E. P. E., que preside;
+
+b) Um representante da Inspeção-geral das Atividades em Saúde (IGAS);
+
+c) Um representante Autoridade Nacional do Medicamento e Produtos de Saúde, I. P. (INFARMED);
+
+d) Um representante da Direção-Geral da Saúde (DGS);
+
+e) Um representante da Direção Executiva do Serviço Nacional de Saúde (DE-SNS);
+
+f) Um representante de cada uma de cinco Unidades Locais de Saúde, indicados anualmente, em sistema de rotatividade, pela SPMS, E. P. E;
+
+g) Um representante da Administração Central do Sistema de Saúde, I. P. (ACSS).
+
+4 - Os representantes da CACS são nomeados por despacho do membro do Governo responsável pela área da saúde e publicitadas no Portal da SPMS, E. P. E..
+
+5 - Os elementos da Comissão exercem as suas funções no seu horário de trabalho, não lhes sendo devida remuneração adicional, mas têm direito à afetação de tempo específico para a realização dos trabalhos da Comissão, bem como ao abono de ajudas de custo e deslocações suportadas pelos seus respetivos locais de origem.
+
+6 - Todo o apoio de secretariado e logística das atividades da comissão constitui encargo da SPMS, E. P. E..
+
+7 - O funcionamento da CACS consta de regulamento elaborado pela comissão, no prazo de 20 dias após a nomeação dos seus representantes, e é homologado pelo membro do governo responsável pela área da Saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 176/2025/1 - Diário da República n.º 72/2025, Série I de 2025-04-11](https://diariodarepublica.pt/dr/detalhe/portaria/176-2025-914713270), em vigor a partir de 2025-04-16
+
+###### Artigo 4.º — Informação e Monitorização
+
+1 - No âmbito do objeto da presente portaria é da responsabilidade de cada uma das entidades do Ministério da Saúde e dos estabelecimentos e serviços do Serviço Nacional de Saúde o fornecimento de informação exata e completa, bem como a sua permanente e atempada atualização.
+
+2 - Todos os contratos celebrados ao abrigo dos acordos quadro e outros instrumentos especiais de contratação devem ser obrigatoriamente reportados pelas entidades compradoras à SPMS, E. P. E., no prazo de vinte dias úteis após a sua outorga.
+
+3 - A informação referida nos números anteriores é remetida à SPMS, E. P. E., em suporte eletrónico definido por esta, tendo por base estruturas predefinidas e uniformizadas de reporte de informação.
+
+4 - A aplicação, funcionamento e resultados das aquisições centralizadas da área da saúde são anualmente auditados e avaliados pela SPMS, E. P. E., com vista a aferir da sua correta implementação e desempenho e, se necessário, permitir o seu reajustamento.
+
+5 - A SPMS, E. P. E., promove a elaboração e publicação dos relatórios anuais de poupança a disponibilizar no seu sítio da internet.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor 30 dias após a sua publicação.
+
+O Secretário de Estado da Saúde, Manuel Ferreira Teixeira, em 25 de outubro de 2014.

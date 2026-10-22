@@ -1,0 +1,332 @@
+---
+schema_version: '1.0'
+id: pt:dre:106654351:por
+title: Decreto-Lei n.º 35/2017
+short_title: null
+summary: Altera a regulação dos produtos fitofarmacêuticos, transpondo a Diretiva n.º 2009/128/CE
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural
+proposing_entity: null
+official_number: 35/2017
+official_date: null
+publication_date: '2017-03-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 60/2017, Série I de 2017-03-24
+  number: '60'
+  series: I
+  supplement: null
+  pages: 1616 - 1617
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/03/06000/0161601617.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/35/2017/03/24/p/dre/pt/html
+  oj: null
+  dre: '106654351'
+  dre_path: /dr/detalhe/decreto-lei/35-2017-106654351
+  internal: pt:dre:106654351:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2017-106654351
+  metadata_url: https://data.dre.pt/eli/dec-lei/35/2017/03/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2017-106654351
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-06-26T00:00:00Z'
+integrity:
+  source_sha256: 090e99f65cf495dd07b2d09d102e530bc4e02ec1fc577fd5fd0ed20e664233f2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-35-106654351.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Armazenagem
+- Gestão de Resíduos
+- Contra-ordenação
+- Definição de Competências
+- Direcção Regional de Agricultura e Pescas
+- Direção Geral de Alimentação e Veterinária
+- Controlo Sanitário
+- Fiscalização
+- Licenciamento
+- Embalagem
+- Normas de Segurança
+- Pesticida
+- Produto Fitofarmacêutico
+- Agricultura
+- Sanção
+- Substância Perigosa
+- Comércio
+- Venda
+relationships:
+- type: amended_by
+  target: pt:dre:1139191706:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:32009L0128
+  label: null
+  source: http://data.europa.eu/eli/dir/2009/128/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103/2010/09/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2010/09/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/42/2016/08/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42/2016/08/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/77/2006/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/77/2006/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/26/2013/04/11/p/dre
+- type: transposes
+  target: celex:32009L0128
+  label: null
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 35/2017
+
+de 24 de março
+
+A [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos fitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos, transpondo a [Diretiva n.º 2009/128/CE](https://data.europa.eu/eli/dir/2009/128/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas.
+
+O mencionado diploma abrange a aplicação terrestre e aérea de produtos fitofarmacêuticos e aplica-se aos utilizadores profissionais destes produtos em explorações agrícolas e florestais, em zonas urbanas, zonas de lazer e vias de comunicação.
+
+Não obstante estarem consagradas neste diploma medidas de segurança na aplicação de produtos fitofarmacêuticos, em especial, em zonas urbanas e zonas de lazer, com vista à proteção da saúde humana e do ambiente contra riscos derivados da aplicação destes produtos, a sua utilização em locais públicos de particular concentração de determinados grupos populacionais, deve ser ainda mais restringida, privilegiando o uso de outros meios de controlo dos organismos nocivos das plantas, como sejam o controlo mecânico, biológico, biotécnico ou cultural.
+
+Atento o exposto, no sentido de reforçar as medidas de restrição à utilização de produtos fitofarmacêuticos, importa proceder à alteração da [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à primeira alteração à [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, que regula as atividades de distribuição, venda e aplicação de produtos fitofarmacêuticos para uso profissional e de adjuvantes de produtos fitofarmacêuticos e define os procedimentos de monitorização à utilização dos produtos fitofarmacêuticos, que transpôs a [Diretiva n.º 2009/128/CE](https://data.europa.eu/eli/dir/2009/128/oj?locale=pt), do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, que estabelece um quadro de ação a nível comunitário para uma utilização sustentável dos pesticidas.
+
+###### Artigo 2.º — Alteração da [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril
+
+Os artigos 32.º, 54.º, 55.º e 58.º da [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril, passam a ter a seguinte redação:
+
+«Artigo 32.º
+
+[...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...]:
+
+a) Dada preferência aos produtos fitofarmacêuticos que não contenham substâncias ativas incluídas na lista de substâncias perigosas prioritárias, estabelecida pelo [Decreto-Lei n.º 77/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/77-2006-672144), de 30 de março, alterado pelos [Decretos-Leis n.os 103/2010](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2010-342131), de 24 de setembro, e [42/2016](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2016-75069303), de 1 de agosto;
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) Assegurado que são previamente afixados, de forma bem visível, junto da área a tratar, avisos que indiquem com clareza a identificação da entidade responsável pelo(s) tratamento(s), o(s) tratamento(s) a realizar, a data previsível do(s) mesmo(s) e, se necessário, a data a partir da qual pode ser restabelecido o acesso e a circulação de pessoas e animais ao local, de acordo com o intervalo de reentrada que, caso não exista indicação no rótulo, deve ser, pelo menos, até à secagem do pulverizado;
+
+f) [...]
+
+g) [Revogada].
+
+5 - Sem prejuízo do disposto no artigo 31.º e nos n.os 1, 2, 3, 4, 9 e 10 do presente artigo, não são permitidos tratamentos fitossanitários com recurso a produtos fitofarmacêuticos:
+
+a) Nos jardins infantis, nos jardins e parques urbanos de proximidade e nos parques de campismo;
+
+b) Nos hospitais e noutros locais de prestação de cuidados de saúde bem como nas estruturas residenciais para idosos;
+
+c) Nos estabelecimentos de ensino, exceto nos dedicados à formação em ciências agrárias.
+
+6 - A aplicação de produtos fitofarmacêuticos nos casos referidos no número anterior, apenas pode ser autorizada nas seguintes condições:
+
+a) Quando, comprovadamente, não se encontrem disponíveis meios e técnicas de controlo alternativas, nomeadamente, meios de controlo mecânicos, biológicos, biotécnicos ou culturais;
+
+b) Quando seja necessário fazer face a um perigo fitossanitário que constitua um risco para a agricultura, floresta ou ambientes naturais, devendo ser dada preferência aos produtos fitofarmacêuticos cuja utilização é permitida em modo de produção biológico, produtos fitofarmacêuticos de baixo risco ou que apresentem baixa perigosidade toxicológica, ecotoxicológica e ambiental e que não exijam medidas particulares de redução do risco para o homem ou para o ambiente.
+
+7 - A aplicação, a que se refere o número anterior, depende de autorização da DGAV, a qual depende de pedido apresentado na DRAP territorialmente competente, que procede à instrução do mesmo e elabora proposta de decisão final a remeter à DGAV, com a indicação dos produtos fitofarmacêuticos cuja utilização pode ser autorizada, bem como a indicação dos períodos preferenciais de aplicação.
+
+8 - (Anterior n.º 5.)
+
+9 - (Anterior n.º 6.)
+
+10 - Quando em aplicação do disposto no n.º 6, for autorizada a aplicação de produtos fitofarmacêuticos, estas devem ser efetuadas preferencialmente nos períodos do dia de menor afluência de pessoas e animais, de modo a evitar o contacto não intencional com as áreas tratadas.
+
+11 - A DGAV pode delegar na DRAP territorialmente competente para a receção do pedido de autorização a competência para a decisão final referida no n.º 7.
+
+###### Artigo 54.º — [...]
+
+1 - [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].
+
+6 - [...].
+
+7 - [...].
+
+8 - [...]
+
+9 - As entidades competentes, nos termos do presente artigo, podem realizar, entre si, protocolos que visem articular o exercício das competências de fiscalização, instrução e decisão no âmbito de processos de contraordenação.
+
+###### Artigo 55.º — [...]
+
+1 - [...].
+
+2 - [...]:
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+o) [...]
+
+p) [...]
+
+q) [...]
+
+r) [...]
+
+s) [...]
+
+t) [...]
+
+u) [...]
+
+v) A aplicação de produtos fitofarmacêuticos em zonas urbanas, zonas de lazer e vias de comunicação, em violação dos n.os 1, 2 e 3 do artigo 32.º;
+
+w) A aplicação de produtos fitofarmacêuticos em zonas urbanas, zonas de lazer e vias de comunicação, em violação do disposto nas alíneas c), d), e) e f) do n.º 4 do artigo 32.º, incluindo nos casos em que estejam em causa vias de comunicação, nos termos do n.º 2 do artigo 33.º;
+
+x) [...]
+
+y) [...]
+
+z) [...]
+
+aa) [...]
+
+bb) [...]
+
+cc) [...].
+
+3 - Constitui contraordenação punida com coima de (euro) 250 a (euro) 3740, no caso de pessoa singular, e de (euro) 500 a (euro) 22 500, no caso de pessoa coletiva, a aplicação de produtos fitofarmacêuticos em violação do disposto pelos n.os 5, 6 e 7 do artigo 32.º
+
+4 - (Anterior n.º 3.)
+
+5 - (Anterior n.º 4.)
+
+6 - (Anterior n.º 5.)
+
+7 - (Anterior n.º 6.)
+
+###### Artigo 58.º — [...]
+
+1 - [...]:
+
+a) A violação do disposto nos n.os 8 e 9 do artigo 32.º, incluindo nos casos em que estejam em causa vias de comunicação nos termos do n.º 2 do artigo 33.º;
+
+b) [...].
+
+2 - [...].
+
+3 - [...].
+
+4 - [...].
+
+5 - [...].»
+
+###### Artigo 3.º — Norma revogatória
+
+É revogada a alínea g) do n.º 4 do artigo 32.º da [Lei n.º 26/2013](https://diariodarepublica.pt/dr/detalhe/lei/26-2013-260454), de 11 de abril.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de janeiro de 2017. - António Luís Santos da Costa - Augusto Ernesto Santos Silva - Eduardo Arménio do Nascimento Cabrita - Maria Fernanda Fernandes Garcia Rollo - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Fernando Manuel Ferreira Araújo - Manuel de Herédia Caldeira Cabral - João Pedro Soeiro de Matos Fernandes - Luís Manuel Capoulas Santos.
+
+**Promulgado em 2 de março de 2017.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 14 de março de 2017.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

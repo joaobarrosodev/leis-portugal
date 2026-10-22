@@ -1,0 +1,959 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:319308:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2001-876297534",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2001-319308",
+ "source_lastmod": "2024-08-19",
+ "versions": [
+  {
+   "date": "2001-02-20",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "875515270",
+    "875515271",
+    "875515272",
+    "875515273",
+    "875515274"
+   ]
+  },
+  {
+   "date": "2002-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:478047:por",
+     "title": "Decreto Legislativo Regional n.º 29-A/2001/M",
+     "published": "2001-12-20",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703283",
+    "884703284",
+    "875515272",
+    "875515273",
+    "875515274",
+    "876319775"
+   ]
+  },
+  {
+   "date": "2004-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:673601:por",
+     "title": "Decreto Legislativo Regional n.º 30-A/2003/M",
+     "published": "2003-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703285",
+    "884703284",
+    "875515272",
+    "884703291",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2006-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:376218:por",
+     "title": "Decreto Legislativo Regional n.º 21-A/2005/M",
+     "published": "2005-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703688",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:262120:por",
+     "title": "Decreto Legislativo Regional n.º 3/2007/M",
+     "published": "2007-01-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/3-2007-262120",
+     "date": "2007-01-01"
+    }
+   ]
+  },
+  {
+   "date": "2008-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:398790:por",
+     "title": "Decreto Legislativo Regional n.º 2-A/2008/M",
+     "published": "2008-01-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703903",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:444240:por",
+     "title": "Decreto Legislativo Regional n.º 45/2008/M",
+     "published": "2008-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/45-2008-444240"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703907",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2010-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:482388:por",
+     "title": "Decreto Legislativo Regional n.º 34/2009/M",
+     "published": "2009-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/34-2009-482388"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703912",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2012-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:145060:por",
+     "title": "Decreto Legislativo Regional n.º 20/2011/M",
+     "published": "2011-12-26",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2011-145060"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703913",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2014-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164412:por",
+     "title": "Decreto Legislativo Regional n.º 31-A/2013/M",
+     "published": "2013-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703914",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66012654:por",
+     "title": "Decreto Legislativo Regional n.º 18/2014/M",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2014-66012654"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703915",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2018-01-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114484244:por",
+     "title": "Decreto Legislativo Regional n.º 2/2018/M",
+     "published": "2018-01-09",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2018-114484244"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703916",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537584:por",
+     "title": "Decreto Legislativo Regional n.º 26/2018/M",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2018-117537584"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703917",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2020-08-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:139918084:por",
+     "title": "Decreto Legislativo Regional n.º 12/2020/M",
+     "published": "2020-08-10",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/12-2020-139918084"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703926",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639812:por",
+     "title": "Decreto Legislativo Regional n.º 18/2020/M",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/18-2020-152639812"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703929",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2022-12-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205450899:por",
+     "title": "Decreto Legislativo Regional n.º 26/2022/M",
+     "published": "2022-12-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/26-2022-205450899"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703943",
+    "884703284",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2024-07-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:873755644:por",
+     "title": "Decreto Legislativo Regional n.º 6/2024/M",
+     "published": "2024-07-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2024-873755644"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "875515268",
+    "875515269",
+    "884703947",
+    "884703948",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2025-07-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:923290710:por",
+     "title": "Decreto Legislativo Regional n.º 2/2025/M",
+     "published": "2025-07-02",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-2025-923290710"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "875515268",
+    "923559821",
+    "923559822",
+    "923559823",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031451:por",
+     "title": "Decreto Legislativo Regional n.º 8/2025/M",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2025-993031451"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "875515268",
+    "923559821",
+    "993773643",
+    "923559823",
+    "875515272",
+    "884703689",
+    "884703292",
+    "884703290",
+    "884703288"
+   ]
+  }
+ ],
+ "fragments": {
+  "875515268": {
+   "fragment_id": "876297535",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 2/2001/M\n\nRedução da taxa do imposto sobre o rendimento das pessoas colectivas\n\nO diploma agora aprovado pela Assembleia Legislativa Regional constitui mais um passo no sentido de fomentar o investimento produtivo na Região Autónoma da Madeira, na sequência daquilo que tem sido uma preocupação constante do Governo Regional.\n\nRecorde-se que o exercício de poderes tributários, que vinha sendo de há muito reclamado pela Região Autónoma da Madeira, foi viabilizado pela Lei de Finanças das Regiões Autónomas.\n\nAssim, os órgãos do Governo Regional, usando da necessária prudência, adoptaram já um conjunto de medidas de natureza fiscal, materializadas no Decreto Legislativo Regional n.º 18/99/M, que adapta à especificidade regional os benefícios fiscais em regime contratual previstos no artigo 49.º-A do Estatuto dos Benefícios Fiscais; no Decreto Legislativo Regional n.º 5/2000/M, que estabelece o regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRS que exerçam a título principal uma actividade de natureza comercial, industrial ou agrícola, incluídos nas categorias C e D, e no Decreto Legislativo Regional n.º 6/2000/M, que estabelece o regime de deduções à colecta relativa aos lucros comerciais, industriais e agrícolas reinvestidos pelos sujeitos passivos de IRC.\n\nConsidera, no entanto, o Governo Regional da Madeira que é chegado o momento de dar um novo passo no caminho da adaptação do sistema fiscal nacional, continuando a favorecer o investimento produtivo e contribuindo para a correcção das assimetrias de distribuição de rendimento resultantes da insularidade e para a melhoria das condições de vida dos seus residentes.\n\nAssim, e conforme previsto no Programa do Governo, estabelece-se, agora, a redução da taxa do IRC em relação aos rendimentos dos sujeitos passivos residentes na Região Autónoma da Madeira, tal como definidos na alínea a) do artigo 13.º da Lei n.º 13/98, de 24 de Fevereiro.\n\nA redução agora aprovada representa um primeiro passo que poderá ter continuidade no futuro com novos desagravamentos, caso se conclua pela sua adequação aos objectivos pretendidos.\n\nSabe-se, por outro lado, que a Assembleia da República aprovou recentemente a redução progressiva da taxa de IRC, com efeitos já a partir de 1 de Janeiro de 2002, a qual ficará dependente da evolução das receitas fiscais nos próximos anos, aguardando-se com expectativa o resultado das medidas de combate à fraude e evasão fiscais, bem como dos novos regimes simplificados de tributação.\n\nTem-se, da mesma forma, plena consciência de que a nível da administração central se pensa avançar para um desagravamento substancial em relação às regiões do interior.\n\nAssim:\n\nA Assembleia Legislativa Regional da Madeira decreta, ao abrigo do disposto na alínea i) do n.º 1 do artigo 227.º da Constituição e na alínea f) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela Lei n.º 130/99, de 21 de Agosto, o seguinte:"
+  },
+  "875515269": {
+   "fragment_id": "876297536",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nEste diploma tem por objecto a definição do regime de redução da taxa geral do imposto sobre o rendimento das pessoas colectivas, prevista no CIRC, para vigorar na Região Autónoma da Madeira."
+  },
+  "875515270": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxa geral de IRC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Taxa geral de IRC\n\n1 - A taxa do imposto sobre o rendimento das pessoas colectivas, prevista no n.º 1 do artigo 69.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 29%.\n\n2 - A taxa referida no número anterior é aplicável aos sujeitos passivos do IRC que possuam sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira e o imposto em causa constitua receita da Região, nos termos previstos nas alíneas a) e b) do artigo 13.º da Lei de Finanças das Regiões Autónomas.\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) A taxa de Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo Decreto Legislativo Regional n.º 12/2020/M, é aplicável aos períodos de tributação que se iniciem em 1 de janeiro de 2020 ou após essa data."
+  },
+  "875515271": {
+   "fragment_id": "876297538",
+   "type": 11,
+   "heading": "Artigo 3.º — Restantes taxas previstas no CIRC",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Restantes taxas previstas no CIRC\n\nTodas as restantes taxas do IRC previstas, quer no artigo 69.º, quer em qualquer outra disposição do Código do IRC, permanecem inalteradas.\n\n> Nota: [Artigo 121.º, Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644) A aplicação do diferencial de 30 % à taxa liberatória de IRC entrará em vigor a 1 de janeiro de 2025."
+  },
+  "875515272": {
+   "fragment_id": "876297539",
+   "type": 11,
+   "heading": "Artigo 4.º — Tributação pelo lucro consolidado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tributação pelo lucro consolidado\n\nOs sujeitos passivos de IRC autorizados a proceder à determinação da matéria colectável de acordo com o regime especial de tributação previsto no artigo 59.º do CIRC poderão optar por se manter nesse regime, renunciando à aplicação da taxa prevista no n.º 1 do artigo 2.º do presente diploma."
+  },
+  "875515273": {
+   "fragment_id": "876297540",
+   "type": 11,
+   "heading": "Artigo 5.º — Implementação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Implementação\n\nO Governo Regional, por intermédio da Secretaria Regional do Plano e Finanças, diligenciará junto da Secretaria de Estado dos Assuntos Fiscais do Ministério das Finanças a colaboração necessária ao nível administrativo e informático, tendo em vista a entrada em vigor das medidas constantes do presente diploma."
+  },
+  "875515274": {
+   "fragment_id": "876297541",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir do dia 1 de Janeiro de 2001."
+  },
+  "884703283": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxa geral de IRC",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxa geral de IRC\n\n1 - A taxa do imposto sobre o rendimento das pessoas colectivas, prevista no n.º 1 do artigo 80.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 27%.\n\n2 - A taxa referida no número anterior é aplicável aos sujeitos passivos do IRC que possuam sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira e o imposto em causa constitua receita da Região, nos termos previstos nas alíneas a) e b) do artigo 13.º da Lei de Finanças das Regiões Autónomas.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703284": {
+   "fragment_id": "876297538",
+   "type": 11,
+   "heading": "Artigo 3.º — Restantes taxas previstas no CIRC",
+   "in_force_from": "2002-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Restantes taxas previstas no CIRC\n\nTodas as restantes taxas do IRC previstas, quer no artigo 80.º quer em qualquer outra disposição do Código do IRC, permanecem inalteradas.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "876319775": {
+   "fragment_id": "876297542",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional em 17 de Janeiro de 2001.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 31 de Janeiro de 2001.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "884703285": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2004-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas colectivas, prevista no n.º 1 do artigo 80.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 22,5%.\n\n2 - A taxa referida no número anterior é aplicável aos sujeitos passivos do IRC que possuam sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira e o imposto em causa constitua receita da Região, nos termos previstos nas alíneas a) e b) do artigo 13.º da Lei de Finanças das Regiões Autónomas.\n\n3 - Relativamente ao rendimento global das entidades que sejam sujeitos passivos de IRC, nos termos previstos no n.º 2, e que se insiram numa das actividades económicas do sector produtivo tradicional da Região Autónoma da Madeira referidas nas alíneas seguintes, a taxa aplicável é de 17,5%:\n\na) Indústria dos bordados e tapeçarias;\n\nb) Indústria dos vimes.\n\n4 - Apenas podem beneficiar da taxa referida no número anterior as empresas referidas nas alíneas a) e b) que preencham cumulativamente os seguintes requisitos:\n\na) A actividade produtiva nesse sector corresponda a pelo menos 80% do total do volume de negócios;\n\nb) Tenham aderido ao programa de reestruturação aprovado pela Portaria n.º 147/2003, de 3 de Novembro.\n\n5 - Exceptuam-se do regime previsto no n.º 1 deste artigo as empresas que exerçam actividades financeiras, bem como do tipo 'serviço intragrupo' (centros de coordenação, de tesouraria ou de distribuição), as quais serão tributadas à taxa normal em vigor para a circunscrição fiscal do continente.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703291": {
+   "fragment_id": "884584173",
+   "type": 11,
+   "heading": "Artigo 5.º — Pagamento especial por conta",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Pagamento especial por conta\n\nAs reduções de taxa de IRC em vigor na Região Autónoma da Madeira serão aplicadas à percentagem prevista na fórmula de cálculo para o apuramento do pagamento especial por conta, bem como aos limites máximos e mínimos fixados nos termos do n.º 2 do artigo 98.º do Código do IRC.\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+  },
+  "884703292": {
+   "fragment_id": "876297540",
+   "type": 11,
+   "heading": "Artigo 6.º — Implementação",
+   "in_force_from": "2004-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Implementação\n\nO Governo Regional, por intermédio da Secretaria Regional do Plano e Finanças, diligenciará junto da Secretaria de Estado dos Assuntos Fiscais do Ministério das Finanças a colaboração necessária ao nível administrativo e informático, tendo em vista a entrada em vigor das medidas constantes do presente diploma.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+  },
+  "884703290": {
+   "fragment_id": "876297541",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção de efeitos",
+   "in_force_from": "2004-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Produção de efeitos\n\nO presente diploma produz efeitos a partir do dia 1 de Janeiro de 2001.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+  },
+  "884703288": {
+   "fragment_id": "876297542",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa Regional em 17 de Janeiro de 2001.\n\nO Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.\n\nAssinado em 31 de Janeiro de 2001.\n\nO Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz."
+  },
+  "884703688": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas colectivas, prevista no n.º 1 do artigo 80.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 22,5%.\n\n2 - A taxa referida no número anterior é aplicável aos sujeitos passivos do IRC que possuam sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira e o imposto em causa constitua receita da Região, nos termos previstos nas alíneas a) e b) do artigo 13.º da Lei de Finanças das Regiões Autónomas.\n\n3 - Relativamente à matéria colectável das entidades que sejam sujeitos passivos de IRC, nos termos previstos no n.º 2, e que se insiram numa das actividades económicas do sector produtivo tradicional da Região Autónoma da Madeira referidas nas alíneas seguintes, a taxa aplicável é de 17,5%:\n\na) Indústria dos bordados e tapeçarias;\n\nb) Indústria dos vimes.\n\n4 - Apenas podem beneficiar da taxa referida no número anterior as empresas referidas nas alíneas a) e b) que preencham cumulativamente os seguintes requisitos:\n\na) A actividade produtiva nesse sector corresponda a pelo menos 80% do total do volume de negócios;\n\nb) Tenham aderido ao programa de reestruturação aprovado pela Portaria n.º 147/2003, de 3 de Novembro.\n\n5 - Exceptuam-se do regime previsto no n.º 1 deste artigo as empresas que exerçam actividades financeiras, bem como do tipo 'serviço intragrupo' (centros de coordenação, de tesouraria ou de distribuição), as quais serão tributadas à taxa normal em vigor para a circunscrição fiscal do continente.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703689": {
+   "fragment_id": "884584173",
+   "type": 11,
+   "heading": "Artigo 5.º — Pagamento especial por conta",
+   "in_force_from": "2006-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Pagamento especial por conta\n\nAs reduções de taxa de IRC em vigor na Região Autónoma da Madeira serão aplicadas ao apuramento do pagamento especial por conta, nos termos do artigo 98.º do Código do IRC.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Aditado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01"
+  },
+  "884703903": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2007-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas colectivas, prevista no n.º 1 do artigo 80.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 22,5%.\n\n2 - A taxa referida no número anterior é aplicável aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - O imposto devido nos termos das alíneas b) e c) do número anterior é determinado pela proporção entre o volume anual correspondente às instalações situadas na Região Autónoma da Madeira e o volume anual, total, de negócios do exercício.\n\n4 - Relativamente à matéria colectável das entidades que sejam sujeitos passivos de IRC, nos termos previstos no n.º 2, e que se insiram numa das actividades económicas do sector produtivo tradicional da Região Autónoma da Madeira referidas nas alíneas seguintes, a taxa aplicável é de 17,5%:\n\na) Indústria dos bordados e tapeçarias;\n\nb) Indústria dos vimes.\n\n5 - Apenas podem beneficiar da taxa referida no número anterior as empresas referidas nas alíneas a) e b) que preencham cumulativamente os seguintes requisitos:\n\na) A actividade produtiva nesse sector corresponda a pelo menos 80% do total do volume de negócios;\n\nb) Tenham aderido ao programa de reestruturação aprovado pela Portaria n.º 147/2003, de 3 de Novembro.\n\n6 - Exceptuam-se do regime previsto no n.º 1 deste artigo as empresas que exerçam actividades financeiras, bem como do tipo 'serviço intragrupo' (centros de coordenação, de tesouraria ou de distribuição), as quais serão tributadas à taxa normal em vigor para a circunscrição fiscal do continente.\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703907": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxa geral de IRC",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxa geral de IRC\n\n1 - As taxas de imposto sobre o rendimento das pessoas colectivas, previstas no n.º 1 do artigo 80.º do Código do IRC, para vigorar na Região Autónoma da Madeira, são as constantes da tabela seguinte:\n\n(ver documento original)\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - O imposto devido nos termos das alíneas b) e c) do número anterior é determinado pela proporção entre o volume anual correspondente às instalações situadas na Região Autónoma da Madeira e o volume anual, total, de negócios do exercício.\n\n4 - Exceptuam-se do regime previsto no n.º 1 deste artigo as empresas que exerçam actividades financeiras, bem como do tipo 'serviço intragrupo' (centros de coordenação, de tesouraria ou de distribuição), as quais serão tributadas à taxa normal em vigor para a circunscrição fiscal do continente.\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703912": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxa geral de IRC",
+   "in_force_from": "2010-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxa geral de IRC\n\n1 - As taxas de imposto sobre o rendimento das pessoas colectivas, previstas no n.º 1 do artigo 80.º do Código do IRC, para vigorar na Região Autónoma da Madeira, são as constantes da tabela seguinte:\n\n(ver documento original)\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - O imposto devido nos termos das alíneas b) e c) do n.º 2 do presente artigo é determinado pela proporção entre o volume anual correspondente às instalações situadas na Região Autónoma da Madeira e o volume anual, total, de negócios do exercício.\n\n6 - Exceptuam-se do regime previsto no n.º 1 deste artigo as empresas que exerçam actividades financeiras, bem como do tipo 'serviço intragrupo' (centros de coordenação, de tesouraria ou de distribuição), as quais serão tributadas à taxa normal em vigor para a circunscrição fiscal do continente.\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703913": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2012-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas colectivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira, é de 25%.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703914": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2014-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira, é de 23%.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703915": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC para vigorar na Região Autónoma da Madeira, é de 21 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade de natureza agrícola, comercial ou industrial que sejam qualificados como pequena ou média empresa nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a taxa de IRC aplicável aos primeiros (euro) 15 000 de matéria coletável é de 17 %, aplicando-se a taxa prevista no n.º 1 ao excedente.\n\n6 - A aplicação da taxa prevista no número anterior, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - O disposto nos números 5 e 6 aplica-se aos períodos de tributação que se iniciaram, ou aos factos tributários que ocorreram, em ou após 1 de janeiro de 2014.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703916": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2018-01-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC para vigorar na Região Autónoma da Madeira, é de 21 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua atual redação a taxa de IRC aplicável aos primeiros (euro) 15 000 de matéria coletável é de 16 %, aplicando-se a taxa prevista no número anterior ao excedente.\n\n6 - A aplicação da taxa prevista no número anterior, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703917": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 20 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na redação republicada pelo Decreto-Lei n.º 81/2017, de 30 de junho, a taxa de IRC aplicável aos primeiros (euro) 15 000 de matéria coletável é de 13 %, aplicando-se a taxa prevista no n.º 1 ao excedente.\n\n6 - A aplicação da taxa prevista no número anterior, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703926": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2020-08-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 20 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na redação atual, a taxa de IRC aplicável aos primeiros (euro) 25 000 de matéria coletável é de 11,9 %, aplicando-se a taxa prevista no número anterior ao excedente.\n\n6 - A aplicação da taxa prevista no número anterior, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) A taxa de Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo Decreto Legislativo Regional n.º 12/2020/M, é aplicável aos períodos de tributação que se iniciem em 1 de janeiro de 2020 ou após essa data.\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703929": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 14,7 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa, nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na redação atual, a taxa de IRC aplicável aos primeiros (euro) 25 000 de matéria coletável é de 11,9 %, aplicando-se a taxa prevista no n.º 1 ao excedente.\n\n6 - A aplicação da taxa prevista no número anterior, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) A taxa de Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo Decreto Legislativo Regional n.º 12/2020/M, é aplicável aos períodos de tributação que se iniciem em 1 de janeiro de 2020 ou após essa data.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703943": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2022-12-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 14,7 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a taxa de IRC aplicável aos primeiros 50 000 (euro) de matéria coletável é de 11,9 %, aplicando-se a taxa prevista no n.º 1 ao excedente.\n\n6 - A aplicação da taxa prevista no número anterior, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) A taxa de Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo Decreto Legislativo Regional n.º 12/2020/M, é aplicável aos períodos de tributação que se iniciem em 1 de janeiro de 2020 ou após essa data.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703947": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do Código do IRC, para vigorar na Região Autónoma da Madeira é de 14,7 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, a taxa de IRC aplicável aos primeiros 50 000 (euro) de matéria coletável é de 11,9 %, aplicando-se a taxa prevista no n.º 1 ao excedente.\n\n6 - A aplicação da taxa prevista nos n.os 5 e 8, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n8 - Quando o disposto no n.º 5 seja aplicado a entidades qualificadas como startup, nos termos previstos na Lei n.º 21/2023, de 25 de maio, na sua redação atual, e que reúnam cumulativamente as condições previstas na alínea f) do n.º 1 do artigo 2.º daquele diploma, a taxa de IRC prevista no n.º 5 é reduzida para 8,75 %.\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) A taxa de Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo Decreto Legislativo Regional n.º 12/2020/M, é aplicável aos períodos de tributação que se iniciem em 1 de janeiro de 2020 ou após essa data.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "884703948": {
+   "fragment_id": "876297538",
+   "type": 11,
+   "heading": "Artigo 3.º — Restantes taxas previstas no CIRC",
+   "in_force_from": "2024-07-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Restantes taxas previstas no CIRC\n\n1 - À taxa prevista no n.º 4, do artigo 87.º do CIRC, em vigor em cada ano, é aplicada uma redução de 30 %, com exceção das taxas previstas nas alíneas d), h) e i) do referido dispositivo legal cuja taxa se mantém em 35 %.\n\n2 - Às taxas de retenção na fonte previstas no artigo 94.º do CIRC, em vigor em cada ano, é aplicada uma redução de 30 %, com exceção dos rendimentos que sejam tributados a uma taxa de 35 %, mantendo-se, nesses casos, essa, a taxa aplicável.\n\n3 - As restantes taxas do IRC, previstas no respetivo Código, permanecem inalteradas, enquanto não se mostrarem alteradas por decreto legislativo regional.\n\n> Nota: [Artigo 121.º, Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644) A aplicação do diferencial de 30 % à taxa liberatória de IRC entrará em vigor a 1 de janeiro de 2025.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "923559821": {
+   "fragment_id": "876297536",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente diploma tem por objeto a definição do regime de redução das taxas do imposto sobre o rendimento das pessoas coletivas, previstas no CIRC, para vigorar na Região Autónoma da Madeira.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01"
+  },
+  "923559822": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista no n.º 1 do artigo 87.º do CIRC, para vigorar na Região Autónoma da Madeira é de 14 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua atual redação, a taxa de IRC aplicável aos primeiros 50 000 euros de matéria coletável é de 11,2 %, aplicando-se a taxa prevista no n.º 1 ao excedente.\n\n6 - A aplicação da taxa prevista nos n.os 5 e 8, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n8 - Quando o disposto no n.º 5 seja aplicado a entidades qualificadas como startup, nos termos previstos na Lei n.º 21/2023, de 25 de maio, na sua redação atual, e que reúnam cumulativamente as condições previstas na alínea f) do n.º 1 do artigo 2.º daquele diploma, a taxa de IRC prevista no n.º 5 é reduzida para 8,75 %.\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) A taxa de Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo Decreto Legislativo Regional n.º 12/2020/M, é aplicável aos períodos de tributação que se iniciem em 1 de janeiro de 2020 ou após essa data.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "923559823": {
+   "fragment_id": "876297538",
+   "type": 11,
+   "heading": "Artigo 3.º — Restantes taxas previstas no CIRC",
+   "in_force_from": "2025-07-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Restantes taxas previstas no CIRC\n\n1 - À taxa prevista no n.º 4, do artigo 87.º do CIRC, em vigor em cada ano, é aplicada uma redução de 30 %, com exceção das taxas previstas nas alíneas d), h) e i) do referido dispositivo legal cuja taxa se mantém em 35 %.\n\n2 — Às taxas de retenção na fonte previstas no n.º 4 do artigo 94.º do CIRC, em vigor em cada ano, é aplicada uma redução de 30 %.\n\n3 — Às retenções na fonte que, nos termos do n.º 3 do artigo 94.º do CIRC, tenham caráter definitivo, aplicam-se as correspondentes taxas previstas no artigo anterior e no n.º 1 do presente artigo, quando aplicáveis, com exceção dos rendimentos que sejam tributados a uma taxa de 35 %, mantendo-se, nesses casos, essa taxa.\n\n4 - As restantes taxas do IRC, previstas no respetivo Código, permanecem inalteradas, enquanto não se mostrarem alteradas por decreto legislativo regional.\n\n> Nota: [Artigo 121.º, Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644) A aplicação do diferencial de 30 % à taxa liberatória de IRC entrará em vigor a 1 de janeiro de 2025.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  },
+  "993773643": {
+   "fragment_id": "876297537",
+   "type": 11,
+   "heading": "Artigo 2.º — Taxas",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01",
+    "Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01",
+    "Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01",
+    "Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01",
+    "Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01",
+    "Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+   ],
+   "markdown": "###### Artigo 2.º — Taxas\n\n1 - A taxa do imposto sobre o rendimento das pessoas coletivas, prevista nos n.os 1 e 5 do artigo 87.º do CIRC, para vigorar na Região Autónoma da Madeira é de 13,3 %.\n\n2 - As taxas referidas no número anterior são aplicáveis aos sujeitos passivos do IRC que:\n\na) Tenham sede, direcção efectiva ou estabelecimento estável na Região Autónoma da Madeira;\n\nb) Tenham sede ou direcção efectiva noutra circunscrição e possuam sucursais, delegações, agências, escritórios, instalações ou quaisquer formas de representação permanente sem personalidade jurídica própria na Região Autónoma da Madeira;\n\nc) Tenham sede ou direcção efectiva fora do território nacional e possuam estabelecimento estável na Região Autónoma da Madeira.\n\n3 - Incluem-se na noção de representação permanente, um local, ou estaleiro de construção, de instalação ou de montagem e as actividades de coordenação, fiscalização e supervisão em conexão com os mesmos, se a sua duração ou a duração da obra ou da actividade exceder seis meses.\n\n4 - Para efeitos da contagem do prazo referido no número anterior, no caso dos estaleiros de construção, de fiscalização ou de montagem, o prazo aplica-se a cada estaleiro, individualmente, a partir da data de início de actividade, incluindo os trabalhos preparatórios, não sendo relevantes as interrupções voluntárias ou a empreitada ter sido encomendada a diversas pessoas ou ainda, as subempreitadas.\n\n5 - No caso de sujeitos passivos que exerçam, diretamente e a título principal, uma atividade económica de natureza agrícola, comercial ou industrial, que sejam qualificados como pequena ou média empresa ou empresa de pequena-média capitalização (Small Mid Cap), nos termos previstos no anexo ao Decreto-Lei n.º 372/2007, de 6 de novembro, na sua atual redação, a taxa de IRC aplicável aos primeiros 50 000 euros de matéria coletável é de 10,5 %, aplicando-se a taxa prevista no n.º 1 ao excedente.\n\n6 - A aplicação da taxa prevista nos n.os 5 e 8, está sujeita às regras comunitárias para os auxílios de minimis definidas no Regulamento (CE) n.º 1998/2006, da Comissão, de 15 de dezembro.\n\n7 - (Revogado.)\n\n8 - Quando o disposto no n.º 5 seja aplicado a entidades qualificadas como startup, nos termos previstos na Lei n.º 21/2023, de 25 de maio, na sua redação atual, e que reúnam cumulativamente as condições previstas na alínea f) do n.º 1 do artigo 2.º daquele diploma, a taxa de IRC prevista no n.º 5 é reduzida para 8,75 %.\n\n> Nota: [Artigo 20.º, Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084) A taxa de Imposto sobre o Rendimento das Pessoas Coletivas, introduzida pelo Decreto Legislativo Regional n.º 12/2020/M, é aplicável aos períodos de tributação que se iniciem em 1 de janeiro de 2020 ou após essa data.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710), em vigor a partir de 2025-07-03, produz efeitos a partir de 2025-01-01\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644), em vigor a partir de 2024-07-30\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2022/M - Diário da República n.º 250/2022, Série I de 2022-12-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2022-205450899), em vigor a partir de 2022-12-30, produz efeitos a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto Legislativo Regional n.º 18/2020/M - Diário da República n.º 253/2020, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2020-152639812), em vigor a partir de 2021-01-01\n\n> Alterado pelo/a Artigo 10.º do/a [Decreto Legislativo Regional n.º 12/2020/M - Diário da República n.º 154/2020, Série I de 2020-08-10](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2020-139918084), em vigor a partir de 2020-08-11, produz efeitos a partir de 2020-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 26/2018/M - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-2018-117537584), em vigor a partir de 2019-01-01\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 2/2018/M - Diário da República n.º 6/2018, Série I de 2018-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2018-114484244), em vigor a partir de 2018-01-10, produz efeitos a partir de 2018-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 18/2014/M - Diário da República n.º 252/2014, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2014-66012654), em vigor a partir de 2015-01-01\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto Legislativo Regional n.º 31-A/2013/M - Diário da República n.º 253/2013, 2º Suplemento, Série I de 2013-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/31-a-2013-164412), em vigor a partir de 2014-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 20/2011/M - Diário da República n.º 246/2011, Série I de 2011-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2011-145060), em vigor a partir de 2012-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 34/2009/M - Diário da República n.º 252/2009, Série I de 2009-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-2009-482388), em vigor a partir de 2010-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 45/2008/M - Diário da República n.º 252/2008, Série I de 2008-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/45-2008-444240), em vigor a partir de 2009-01-01\n\n> Alterado pelo/a Artigo 15.º do/a [Decreto Legislativo Regional n.º 2-A/2008/M - Diário da República n.º 11/2008, 1º Suplemento, Série I de 2008-01-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-a-2008-398790), em vigor a partir de 2008-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 3/2007/M - Diário da República n.º 6/2007, Série I de 2007-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/3-2007-262120), em vigor a partir de 2007-01-01\n\n> Alterado pelo/a Artigo 13.º do/a [Decreto Legislativo Regional n.º 21-A/2005/M - Diário da República n.º 250/2005, 2º Suplemento, Série I-A de 2005-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/21-a-2005-376218), em vigor a partir de 2006-01-01\n\n> Alterado pelo/a Artigo 12.º do/a [Decreto Legislativo Regional n.º 30-A/2003/M - Diário da República n.º 301/2003, 8º Suplemento, Série I-A de 2003-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/30-a-2003-673601), em vigor a partir de 2004-01-01\n\n> Alterado pelo/a Artigo 14.º do/a [Decreto Legislativo Regional n.º 29-A/2001/M - Diário da República n.º 293/2001, 1º Suplemento, Série I-A de 2001-12-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/29-a-2001-478047), em vigor a partir de 2002-01-01"
+  }
+ }
+}

@@ -1,0 +1,321 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:300608:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-221325644",
+ "dre_path": "/dr/detalhe/decreto-lei/74-2002-300608",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2026-11-28",
+   "future": true,
+   "acts": [
+    {
+     "id": "pt:dre:1174343372:por",
+     "title": "Decreto-Lei n.º 196/2026",
+     "published": "2026-09-29",
+     "dre_path": "/dr/detalhe/decreto-lei/196-2026-1174343372"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 13"
+   ],
+   "fragments": [
+    "221312058",
+    "221312059",
+    "221312060",
+    "221312061",
+    "221312062",
+    "221312063",
+    "221312064",
+    "1176424975",
+    "221312066",
+    "221312067",
+    "221312068",
+    "221312069",
+    "221312070",
+    "221312071",
+    "221312072",
+    "221312073",
+    "221312074",
+    "221325675",
+    "221325676",
+    "1176425175",
+    "221325678",
+    "221325679",
+    "221325680",
+    "221325681",
+    "221325682",
+    "221325683",
+    "221325684",
+    "221325685",
+    "221325686",
+    "221325687",
+    "221325688",
+    "221325689"
+   ]
+  }
+ ],
+ "fragments": {
+  "221312058": {
+   "fragment_id": "221325645",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Decreto-Lei n.º 177/2000, de 9 de Agosto, veio atribuir autonomia administrativa aos tribunais superiores da ordem dos tribunais judiciais e da ordem dos tribunais administrativos e fiscais.\n\nConstatando que a prossecução da função soberana que aos tribunais superiores compete exercer implica o desempenho de tarefas administrativas e de gestão diárias que podem, com proveito, ser cometidas aos próprios tribunais superiores, com inegáveis vantagens no que respeita à desconcentração de competências do Estado, o diploma estruturador do regime de autonomia preconiza a necessária adaptação dos serviços de apoio ao regime de autonomia.\n\nProcede-se, em execução do artigo 7.º deste diploma, à reorganização dos serviços de apoio do Supremo Tribunal de Justiça, conformando-os com a dimensão e a natureza das tarefas já hoje desempenhadas, e a desempenhar, quando da entrada em vigor do novo regime.\n\nFoi ouvido o Supremo Tribunal de Justiça.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "221312059": {
+   "fragment_id": "221325646",
+   "type": 1,
+   "heading": "Capítulo I — Organização dos serviços do Supremo Tribunal de Justiça",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Organização dos serviços do Supremo Tribunal de Justiça"
+  },
+  "221312060": {
+   "fragment_id": "221325647",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "221312061": {
+   "fragment_id": "221325648",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente diploma define a organização dos serviços do Supremo Tribunal de Justiça."
+  },
+  "221312062": {
+   "fragment_id": "221325649",
+   "type": 11,
+   "heading": "Artigo 2.º — Competências do Presidente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competências do Presidente\n\nCabe ao Presidente do Supremo Tribunal de Justiça exercer os poderes administrativos e financeiros idênticos aos que integram a competência ministerial."
+  },
+  "221312063": {
+   "fragment_id": "221325650",
+   "type": 1,
+   "heading": "Capítulo II — Órgãos, serviços e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Órgãos, serviços e competências"
+  },
+  "221312064": {
+   "fragment_id": "221325651",
+   "type": 8,
+   "heading": "Secção I — Estrutura geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Estrutura geral"
+  },
+  "1176424975": {
+   "fragment_id": "221325652",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos e serviços",
+   "in_force_from": "2026-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 196/2026 - Diário da República n.º 189/2026, Série I de 2026-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2026-1174343372), em vigor a partir de 2026-11-28."
+   ],
+   "markdown": "###### Artigo 3.º — Órgãos e serviços\n\n1 - O Supremo Tribunal de Justiça compreende os seguintes órgãos:\n\na) O conselho administrativo;\n\nb) O administrador;\n\nc) O conselho consultivo.\n\n2 - São serviços do Supremo Tribunal de Justiça:\n\na) A Secretaria Judicial;\n\nb) A Direcção de Serviços Administrativos e Financeiros;\n\nc) A Divisão de Documentação e Informação Jurídica;\n\nd) A Divisão de Organização e Informática;\n\ne) O Gabinete de Assessores dos Juízes Conselheiros e o Gabinete de Assessores dos Magistrados do Ministério Público;\n\nf) O Gabinete de Imprensa.\n\n3 - O Gabinete de Apoio do Presidente e o apoio administrativo aos vice-presidentes são regulados por diploma próprio.\n\n> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 196/2026 - Diário da República n.º 189/2026, Série I de 2026-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2026-1174343372), em vigor a partir de 2026-11-28."
+  },
+  "221312066": {
+   "fragment_id": "221325653",
+   "type": 8,
+   "heading": "Secção II — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Órgãos"
+  },
+  "221312067": {
+   "fragment_id": "221325654",
+   "type": 11,
+   "heading": "Artigo 4.º — Conselho administrativo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Conselho administrativo\n\n1 - O conselho administrativo é o órgão deliberativo em matéria de gestão financeira e patrimonial, sendo composto pelos seguintes membros:\n\na) O Presidente do Supremo Tribunal de Justiça, que preside;\n\nb) O administrador;\n\nc) Dois juízes conselheiros designados anualmente pelo plenário do Tribunal, sob proposta do Presidente;\n\nd) O director de Serviços Administrativos e Financeiros.\n\n2 - Compete ao conselho administrativo:\n\na) Apreciar os planos anuais de actividades e os respectivos relatórios de execução;\n\nb) Aprovar o projecto de orçamento anual e as suas alterações e apresentá-lo ao Governo nos prazos determinados para a elaboração da proposta de lei do Orçamento do Estado, a submeter à Assembleia da República, devendo ainda fornecer os elementos que esta lhe solicite sobre a matéria;\n\nc) Zelar pela cobrança das receitas e verificar regularmente os fundos em cofre e em depósito;\n\nd) Autorizar as despesas que não devam ser autorizadas pelo Presidente;\n\ne) Autorizar o pagamento das despesas qualquer que seja a entidade que tenha autorizado a respectiva realização;\n\nf) Fiscalizar a organização da contabilidade e zelar pela sua execução;\n\ng) Aprovar as contas de gerência e promover o seu envio ao Tribunal de Contas;\n\nh) Autorizar a constituição de fundos permanentes para o pagamento de pequenas despesas, estabelecendo as regras a que obedecerá o seu controlo;\n\ni) Pronunciar-se sobre qualquer assunto de gestão financeira e patrimonial que lhe seja submetido;\n\nj) Gerir o parque automóvel afecto ao Tribunal;\n\nk) Exercer as demais funções previstas na lei.\n\n3 - O conselho administrativo reúne, ordinariamente, uma vez por mês e, extraordinariamente, sempre que convocado pelo Presidente, por sua iniciativa ou a pedido de dois dos seus membros.\n\n4 - Para a validade das deliberações do conselho administrativo é necessária a presença de, pelo menos, três dos seus membros, entre os quais o Presidente.\n\n5 - As reuniões são secretariadas por um funcionário designado pelo Presidente, sem direito a voto."
+  },
+  "221312068": {
+   "fragment_id": "221325655",
+   "type": 11,
+   "heading": "Artigo 5.º — Administrador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administrador\n\n1 - O administrador é nomeado pelo Presidente do Supremo Tribunal de Justiça de entre indivíduos habilitados com licenciatura e experiência profissional adequadas ao exercício das respectivas funções.\n\n2 - A nomeação, precedida de audição do conselho consultivo, é em comissão de serviço pelo período de três anos, que poderá ser renovado por iguais períodos.\n\n3 - Compete ao administrador coordenar, sob a superintendência do Presidente do Supremo Tribunal de Justiça, o funcionamento dos respectivos serviços, designadamente em matérias de gestão de recursos humanos, gestão orçamental e gestão de instalações e equipamento.\n\n4 - O Presidente do Supremo Tribunal de Justiça pode delegar competências em matéria de gestão financeira no administrador ou, na falta deste, no secretário do Tribunal, até ao limite das competências de director-geral.\n\n5 - O administrador aufere a remuneração base do cargo de director-geral."
+  },
+  "221312069": {
+   "fragment_id": "221325656",
+   "type": 11,
+   "heading": "Artigo 6.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta do Presidente do Supremo Tribunal de Justiça.\n\n2 - O conselho consultivo é presidido pelo Presidente do Supremo Tribunal de Justiça e constituído pelos vice-presidentes, por sete juízes conselheiros, um de cada secção, designados anualmente pelo plenário do Supremo Tribunal, sob proposta do respectivo Presidente e pelo procurador-geral-adjunto, coordenador da actividade do Ministério Público no Tribunal.\n\n3 - Os pareceres do conselho consultivo não têm carácter vinculativo."
+  },
+  "221312070": {
+   "fragment_id": "221325657",
+   "type": 11,
+   "heading": "Artigo 7.º — Competência do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Competência do conselho consultivo\n\nCompete ao conselho consultivo:\n\na) Pronunciar-se sobre o plano anual de actividades;\n\nb) Propor a aquisição de publicações com interesse para o Supremo Tribunal de Justiça;\n\nc) Dar parecer sobre a criação de comissões para a prossecução de acções a desenvolver no âmbito do Supremo Tribunal de Justiça, designadamente junto das divisões referidas neste diploma;\n\nd) Apresentar sugestões que visem melhorar o funcionamento interno do Supremo Tribunal de Justiça;\n\ne) Pronunciar-se sobre propostas de celebração de protocolos e acordos de cooperação com outras instituições congéneres, nacionais, estrangeiras e internacionais, em especial com as de países ou territórios de língua portuguesa, com observância da política internacional estabelecida pelo Estado Português na área da justiça;\n\nf) Pronunciar-se sobre a nomeação e a renovação da comissão de serviço do administrador;\n\ng) Pronunciar-se sobre outras questões que lhe sejam submetidas pelo Presidente."
+  },
+  "221312071": {
+   "fragment_id": "221325658",
+   "type": 11,
+   "heading": "Artigo 8.º — Funcionamento do conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Funcionamento do conselho consultivo\n\n1 - O conselho consultivo reúne, ordinariamente, uma vez por trimestre e, extraordinariamente, sempre que o seu presidente o convocar, por iniciativa própria ou a solicitação da maioria dos seus membros.\n\n2 - Das reuniões do conselho consultivo será lavrada acta.\n\n3 - O conselho consultivo é secretariado por um funcionário designado pelo Presidente.\n\n4 - Poderão assistir às reuniões do conselho consultivo outros juízes conselheiros e magistrados do Ministério Público em funções no Supremo Tribunal de Justiça, o administrador e o secretário de tribunal superior quando convocados para o efeito."
+  },
+  "221312072": {
+   "fragment_id": "221325659",
+   "type": 8,
+   "heading": "Secção III — Serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Serviços"
+  },
+  "221312073": {
+   "fragment_id": "221325660",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretaria Judicial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretaria Judicial\n\nA organização e composição da Secretaria Judicial do Supremo Tribunal de Justiça consta de diploma próprio."
+  },
+  "221312074": {
+   "fragment_id": "221325661",
+   "type": 11,
+   "heading": "Artigo 10.º — Direcção de Serviços Administrativos e Financeiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Direcção de Serviços Administrativos e Financeiros\n\n1 - À Direcção de Serviços Administrativos e Financeiros compete:\n\na) Elaborar a proposta dos orçamentos de funcionamento e de investimento;\n\nb) Acompanhar a execução orçamental e propor as alterações necessárias;\n\nc) Processar as requisições de fundos de contas das dotações consignadas ao Tribunal;\n\nd) Elaborar a conta de gerência e preparar o projecto do respectivo relatório;\n\ne) Instruir os procedimentos relativos à aquisição de bens e serviços e à realização de empreitadas de obras públicas;\n\nf) Assegurar a escrituração e os registos contabilísticos obrigatórios;\n\ng) Assegurar o processamento das remunerações e outros abonos, bem como proceder à liquidação dos respectivos descontos;\n\nh) Verificar e processar os documentos de despesa;\n\ni) Assegurar o expediente dos Serviços Sociais do Ministério da Justiça;\n\nj) Executar as tarefas inerentes à recepção, distribuição, expedição e arquivo da correspondência e outros documentos;\n\nk) Recolher, organizar e manter actualizada a informação relativa aos recursos humanos do Supremo Tribunal;\n\nl) Proceder ao registo de assiduidade e de antiguidade do pessoal;\n\nm) Promover o aperfeiçoamento profissional do pessoal;\n\nn) Elaborar estudos necessários à correcta afectação do pessoal aos diversos serviços do Supremo Tribunal de Justiça;\n\no) Informar sobre as questões relativas à aplicação do regime da função pública que lhe sejam submetidas;\n\np) Assegurar a vigilância, segurança, conservação, limpeza e arrumação das instalações, equipamentos e viaturas;\n\nq) Manter actualizado o cadastro e o inventário dos bens imóveis e móveis e o inventário e cadastro relativo ao parque automóvel;\n\nr) Promover o armazenamento, conservação e distribuição de bens e consumos correntes e assegurar a gestão de estoques.\n\n2 - Da Direcção de Serviços Administrativos e Financeiros fazem parte a Secção de Recursos Humanos e a de Economato, a quem compete, sob a direcção do respectivo chefe, o exercício das competências referidas nas alíneas k) a o) e p) a r) do n.º 1, respectivamente."
+  },
+  "221325675": {
+   "fragment_id": "221325662",
+   "type": 11,
+   "heading": "Artigo 11.º — Divisão de Documentação e Informação Jurídica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Divisão de Documentação e Informação Jurídica\n\nCompete à Divisão de Documentação e Informação Jurídica:\n\na) Organizar e assegurar a gestão da biblioteca do Supremo Tribunal de Justiça, designadamente inventariando e tratando as publicações recebidas e adquiridas;\n\nb) Manter actualizadas as respectivas bases de dados;\n\nc) Assegurar a divulgação dos serviços prestados pela biblioteca e da documentação disponível;\n\nd) Organizar e manter actualizada uma base de dados de decisões do Supremo Tribunal de Justiça;\n\ne) Promover a publicação no Diário da República dos acórdãos do Supremo Tribunal, quando a mesma deva ter lugar;\n\nf) Preparar e promover a edição de outras publicações de interesse para o Supremo Tribunal de Justiça ou relacionadas com a sua actividade;\n\ng) Preparar colecções temáticas de estudos, relatórios e estatísticas que facilitem o exercício da actividade jornalística relativa à justiça e, em especial, ao Supremo Tribunal de Justiça;\n\nh) Realizar pesquisas informáticas ou manuais, nomeadamente junto de outras bibliotecas, a solicitação dos serviços do Supremo Tribunal de Justiça ou dos magistrados que neste desempenhem funções;\n\ni) Colaborar na organização e conservação do arquivo histórico do Supremo Tribunal de Justiça;\n\nj) Proceder ao tratamento sistemático e ao arquivo da legislação, assegurando um serviço de informação legislativa;\n\nk) Proceder à tradução e retroversão de textos;\n\nl) Organizar conferências e seminários da iniciativa do Supremo Tribunal de Justiça;\n\nm) Cooperar com instituições nacionais, estrangeiras e internacionais em matéria de documentação e informação;\n\nn) Apoiar os juízes conselheiros na selecção das decisões a publicar no Boletim do Ministério da Justiça."
+  },
+  "221325676": {
+   "fragment_id": "221325663",
+   "type": 11,
+   "heading": "Artigo 12.º — Divisão de Organização e Informática",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Divisão de Organização e Informática\n\nCompete à Divisão de Organização e Informática:\n\na) Planear e assegurar a gestão dos sistemas informáticos do Supremo Tribunal de Justiça;\n\nb) Proceder ao diagnóstico das necessidades que se verifiquem no funcionamento dos mesmos sistemas e formular as correspondentes propostas;\n\nc) Promover a formação de utilizadores internos de tais sistemas e cooperar nessa formação, com meios próprios, ou recorrendo a entidades externas ao Supremo Tribunal de Justiça;\n\nd) Proceder à conservação e actualização das bases de dados do Supremo Tribunal de Justiça em coordenação com os serviços produtores ou responsáveis pelo tratamento da correspondente informação;\n\ne) Manter em funcionamento e actualizados os serviços informativos que o Supremo Tribunal de Justiça venha a disponibilizar a utilizadores externos;\n\nf) Apoiar tecnicamente a elaboração de cadernos de encargos e a selecção, aquisição, contratação e instalação de equipamento informático;\n\ng) Tornar acessíveis aos magistrados em serviço no Supremo Tribunal de Justiça as principais bases de dados jurídicas de legislação, jurisprudência e doutrina, nacionais e estrangeiras, suportando o Supremo Tribunal os respectivos encargos em termos a definir pelo Presidente, ouvido o conselho consultivo."
+  },
+  "1176425175": {
+   "fragment_id": "221325664",
+   "type": 11,
+   "heading": "Artigo 13 — Gabinete de Assessores dos Juízes Conselheiros e Gabinete de Assessores dos Magistrados do Ministério Público",
+   "in_force_from": "2026-11-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 196/2026 - Diário da República n.º 189/2026, Série I de 2026-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2026-1174343372), em vigor a partir de 2026-11-28."
+   ],
+   "markdown": "###### Artigo 13 — Gabinete de Assessores dos Juízes Conselheiros e Gabinete de Assessores dos Magistrados do Ministério Público\n\n1 - O Gabinete de Assessores dos Juízes Conselheiros e o Gabinete de Assessores dos Magistrados Ministério Público compõem-se de assessores magistrados e não magistrados e de secretários, sendo o número de assessores magistrados fixado pela portaria a que se refere o n.º 3 do artigo 16.º\n\n2 - Os assessores dos gabinetes referidos no número anterior são livremente nomeados e exonerados pelo presidente do Supremo Tribunal de Justiça, após prévia audição dos presidentes de cada secção, e pelo Procurador-Geral da República, após prévia audição do procurador-geral-adjunto, coordenador do Ministério Público no Supremo Tribunal de Justiça, sem prejuízo do disposto no n.º 4.\n\n3 - Os membros dos gabinetes referidos no número anterior consideram-se, para todos os efeitos, em exercício de funções a partir da data do despacho que os tiver nomeado, com dispensa de fiscalização prévia do Tribunal de Contas e independentemente de publicação no Diário da República.\n\n4 - Quando os assessores sejam magistrados judiciais ou do Ministério Público, aplica-se-lhes o disposto no artigo 4.º da Lei n.º 2/98, de 8 de janeiro.\n\n5 - [Revogado.]\n\n6 - [Revogado.]\n\n7 - [Revogado.]\n\n8 - [Revogado.]\n\n9 - [Revogado.]\n\n10 - [Revogado.]\n\n11 - [Revogado.]\n\n12 - O administrador afetará ao Gabinete o pessoal administrativo de apoio considerado necessário ao seu funcionamento.\n\n> Alterado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 196/2026 - Diário da República n.º 189/2026, Série I de 2026-09-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-2026-1174343372), em vigor a partir de 2026-11-28."
+  },
+  "221325678": {
+   "fragment_id": "221325665",
+   "type": 11,
+   "heading": "Artigo 14.º — Gabinete de Imprensa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Gabinete de Imprensa\n\n1 - Compete ao Gabinete de Imprensa:\n\na) Exercer assessoria em matéria da comunicação social;\n\nb) Estudar e desenvolver formas de divulgação sistemática de informação sobre a actividade do Supremo Tribunal de Justiça, com observância da lei e de directivas superiores;\n\nc) Analisar o conteúdo dos títulos e seleccionar as notícias que interessem à actividade do Supremo Tribunal de Justiça e, em particular, dos tribunais;\n\nd) Recolher e analisar informação relativa a tendências de opinião sobre a acção do Supremo Tribunal de Justiça e, em geral, da administração da justiça.\n\n2 - O Gabinete de Imprensa é constituído por um máximo de três elementos, de preferência com experiência na área da comunicação social."
+  },
+  "221325679": {
+   "fragment_id": "221325666",
+   "type": 1,
+   "heading": "Capítulo III — Do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do pessoal"
+  },
+  "221325680": {
+   "fragment_id": "221325667",
+   "type": 11,
+   "heading": "Artigo 15.º — Regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Regime\n\nO pessoal ao serviço do Supremo Tribunal de Justiça rege-se pelo disposto no presente diploma, pelos diplomas próprios e, em tudo o que não for com eles incompatíveis, pelo regime geral da função pública."
+  },
+  "221325681": {
+   "fragment_id": "221325668",
+   "type": 11,
+   "heading": "Artigo 16.º — Quadros de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Quadros de pessoal\n\n1 - O lugar de administrador e o quadro do pessoal dirigente do Supremo Tribunal de Justiça constam do mapa anexo ao presente diploma, que dele faz parte integrante.\n\n2 - O quadro do pessoal da Secretaria Judicial é aprovado nos termos da Lei de Organização e Funcionamento dos Tribunais Judiciais, sob proposta do Presidente do Supremo Tribunal de Justiça.\n\n3 - O quadro do restante pessoal do Supremo Tribunal de Justiça é aprovado por portaria conjunta dos Ministros das Finanças e da Justiça e do membro do Governo que tiver a seu cargo a Administração Pública, sob proposta do Presidente do Supremo Tribunal de Justiça."
+  },
+  "221325682": {
+   "fragment_id": "221325669",
+   "type": 11,
+   "heading": "Artigo 17.º — Equiparação de regime",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Equiparação de regime\n\n1 - É aplicável ao pessoal que exerça funções no Supremo Tribunal de Justiça o disposto no artigo 26.º do Decreto-Lei n.º 545/99, de 14 de Dezembro, que organiza a composição e funcionamento da secretaria e dos serviços de apoio do Tribunal Constitucional.\n\n2 - O disposto no Decreto-Lei n.º 381/89, de 28 de Outubro, é aplicável aos motoristas ao serviço dos vice-presidentes do Supremo Tribunal de Justiça, que estabelece diversas normas aplicáveis aos motoristas da Administração Pública e de institutos públicos."
+  },
+  "221325683": {
+   "fragment_id": "221325670",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias"
+  },
+  "221325684": {
+   "fragment_id": "221325671",
+   "type": 11,
+   "heading": "Artigo 18.º — Serviços Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Serviços Sociais\n\nEm matéria de segurança social complementar, os magistrados do Supremo Tribunal de Justiça, bem como todo o restante pessoal em serviço no Supremo Tribunal de Justiça, têm direito a inscrever-se nos Serviços Sociais do Ministério da Justiça."
+  },
+  "221325685": {
+   "fragment_id": "221325672",
+   "type": 11,
+   "heading": "Artigo 19.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Alterações\n\n1 - Os artigos 12.º e 13.º do Decreto-Lei n.º 186-A/99, de 31 de Maio, que aprova o regulamento da Lei n.º 3/99, de 13 de Janeiro (Lei de Organização e Funcionamento dos Tribunais Judiciais), passam a ter a seguinte redacção:\n\n«Artigo 12.º\n\nA Secretaria do Supremo Tribunal de Justiça compreende serviços judiciais, compostos por uma secção central e por secções de processos e serviços do Ministério Público.\n\nArtigo 13.º\n\n1 - Compete à secção central:\n\na) Receber e registar a entrada de papéis e documentos respeitantes aos processos e distribuí-los pelas secções de processos a que pertençam;\n\nb) Efectuar a distribuição dos processos e papéis pelas restantes secções;\n\nc) Contar os processos e papéis avulsos;\n\nd) Organizar os mapas estatísticos;\n\ne) Passar certidões relativas a documentos que nela se encontrem pendentes e de processos arquivados;\n\nf) Executar o expediente da Secretaria Judicial que não seja da competência das secções de processos;\n\ng) Desempenhar quaisquer outras funções conferidas por lei.\n\n2 - Compete às secções de processos:\n\na) Movimentar os processos e efectuar o respectivo registo e expediente;\n\nb) Organizar as tabelas de processos para julgamento;\n\nc) Registar os acórdãos e proceder à sua notificação;\n\nd) Elaborar as actas de julgamento;\n\ne) Passar certidões, cópias e extractos, respeitantes a processos e documentos que nelas se encontram pendentes ou nelas devam ser ou estejam arquivados;\n\nf) Desempenhar quaisquer outras funções conferidas por lei.\n\n3 - Compete aos serviços do Ministério Público:\n\na) Movimentar os processos e efectuar o respectivo registo e expediente;\n\nb) Coadjuvar os procuradores-gerais-adjuntos na movimentação dos processos a cargo das secções, designadamente no controlo dos prazos e elaboração de pareceres, alegações e contra-alegações;\n\nc) Preparar, tratar e organizar os elementos necessários à elaboração do relatório anual;\n\nd) Passar certidões, cópias e extractos;\n\ne) Desempenhar quaisquer outras funções conferidas por lei.»\n\n2 - O artigo 8.º do Decreto-Lei n.º 177/2000, de 9 de Agosto, que estabelece o regime jurídico da gestão administrativa dos tribunais superiores, passa a ter a seguinte redacção:\n\n«Artigo 8.º\n\n[...]\n\nO presente diploma é aplicável à elaboração dos orçamentos do Supremo Tribunal de Justiça, do Supremo Tribunal Administrativo para o ano de 2003 e aos orçamentos dos tribunais da Relação e ao Tribunal Central Administrativo para o ano de 2004.»\n\n3 - Os artigos 1.º e 6.º do Decreto-Lei n.º 188/2000, de 12 de Agosto, que aprova a organização e composição do Gabinete de Apoio ao Presidente do Supremo Tribunal de Justiça, passam a ter a seguinte redacção:\n\n«Artigo 1.º\n\n[...]\n\n1 - ...\n\n2 - O Gabinete do Presidente do Supremo Tribunal de Justiça é constituído pelo chefe do Gabinete, por seis adjuntos e por três secretários pessoais.\n\n3 - Ao pessoal do Gabinete é aplicável, com as devidas adaptações, o regime de nomeação, exoneração, garantias, deveres e vencimento aplicável aos membros dos gabinetes ministeriais.\n\nArtigo 6.º\n\n[...]\n\nCada Vice-Presidente do Supremo Tribunal de Justiça é apoiado administrativamente por um secretário pessoal, ao qual é aplicável o disposto no n.º 3 do artigo 1.º»\n\n4 - Todas as referências feitas no Decreto-Lei n.º 188/2000, de 12 de Agosto, aos assessores passam a considerar-se feitas aos adjuntos."
+  },
+  "221325686": {
+   "fragment_id": "221325673",
+   "type": 11,
+   "heading": "Artigo 20.º — Situação transitória do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Situação transitória do pessoal\n\n1 - O pessoal que à data da entrada em vigor do presente diploma se encontra provido no Supremo Tribunal de Justiça transita para o quadro de pessoal a que se referem os n.os 2 e 3 do artigo 16.º, na mesma carreira, categoria e escalão.\n\n2 - Os funcionários que à data da publicação do presente diploma se encontrem a exercer funções no Supremo Tribunal de Justiça podem optar pela transição para o novo quadro de pessoal, nos termos previstos no número anterior.\n\n3 - O requerimento deve ser dirigido ao Presidente do Supremo Tribunal de Justiça ou ao director-geral da Administração da Justiça, consoante os casos, no prazo de 60 dias a contar da data da entrada em vigor do presente diploma.\n\n4 - Da aplicação do presente diploma não pode ocorrer diminuição de nível remuneratório actual ou de qualquer direito adquirido pelos funcionários a que se referem os n.os 1 e 2."
+  },
+  "221325687": {
+   "fragment_id": "221325674",
+   "type": 11,
+   "heading": "Artigo 21.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia imediato ao da sua publicação, excepto o disposto no n.º 1 do artigo 19.º, que entra em vigor no dia em que for provido o lugar de director de Serviços Administrativos e Financeiros."
+  },
+  "221325688": {
+   "fragment_id": "221325775",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Janeiro de 2002. - António Manuel de Oliveira Guterres - Guilherme d'Oliveira Martins - António Luís Santos Costa - Alberto de Sousa Martins.\n\nPromulgado em 7 de Março de 2002.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 14 de Março de 2002.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "221325689": {
+   "fragment_id": "221325776",
+   "type": 14,
+   "heading": "Anexo — Mapa do quadro do pessoal dirigente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Mapa do quadro do pessoal dirigente\n\n(a que se refere o n.º 1 do artigo 16.º)\n\n(ver mapa no documento original)"
+  }
+ }
+}

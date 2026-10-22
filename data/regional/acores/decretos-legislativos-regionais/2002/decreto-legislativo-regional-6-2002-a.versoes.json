@@ -1,0 +1,591 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:250609:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2002-122393538",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/6-2002-250609",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2002-03-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122374820",
+    "122374821",
+    "122374822",
+    "122374823",
+    "122374824",
+    "122374825",
+    "122374826",
+    "122374827",
+    "122374828",
+    "122374829",
+    "122374830",
+    "122374831",
+    "122374832",
+    "122374833",
+    "122374834",
+    "122374835",
+    "122374836",
+    "122374837",
+    "122374838",
+    "122374839",
+    "122374840",
+    "122374841",
+    "122374842",
+    "122374843",
+    "122374845",
+    "122374846"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:527185:por",
+     "title": "Declaração de Rectificação n.º 23-F/2002",
+     "published": "2002-06-29",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/23-f-2002-527185",
+     "date": "2002-03-16"
+    }
+   ]
+  },
+  {
+   "date": "2005-08-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:240007:por",
+     "title": "Decreto Legislativo Regional n.º 20/2005/A",
+     "published": "2005-07-22",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/20-2005-240007"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122374820",
+    "122374821",
+    "122374822",
+    "122374823",
+    "122374824",
+    "122374825",
+    "122397478",
+    "122374827",
+    "122374828",
+    "122374829",
+    "122374830",
+    "122374831",
+    "122374832",
+    "122374833",
+    "122374834",
+    "122374835",
+    "122374836",
+    "122374837",
+    "122374838",
+    "122374839",
+    "122374840",
+    "122374841",
+    "122397477",
+    "122374843",
+    "122374844",
+    "122374845",
+    "122374846"
+   ]
+  },
+  {
+   "date": "2006-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:546003:por",
+     "title": "Decreto Legislativo Regional n.º 37/2006/A",
+     "published": "2006-10-31",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/37-2006-546003"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 19.º-A"
+   ],
+   "fragments": [
+    "122374820",
+    "122374821",
+    "122374822",
+    "122374823",
+    "122374824",
+    "122374825",
+    "122397478",
+    "122374827",
+    "122374828",
+    "122374829",
+    "122374830",
+    "122374831",
+    "122374832",
+    "122374833",
+    "122374834",
+    "122374835",
+    "122374836",
+    "122374837",
+    "122374838",
+    "122374839",
+    "122397484",
+    "122397485",
+    "122397486",
+    "122397487",
+    "122397488",
+    "122397489",
+    "122397490",
+    "122397491"
+   ]
+  },
+  {
+   "date": "2009-12-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:481969:por",
+     "title": "Decreto Legislativo Regional n.º 22/2009/A",
+     "published": "2009-12-16",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/22-2009-481969"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 18.º",
+    "Altera Anexo I",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "122374820",
+    "122374821",
+    "122374822",
+    "122397526",
+    "122374824",
+    "122397527",
+    "122397528",
+    "122397529",
+    "122374828",
+    "122397530",
+    "122374830",
+    "122397531",
+    "122374832",
+    "122374833",
+    "122374834",
+    "122374835",
+    "122374836",
+    "122374837",
+    "122397532",
+    "122374839",
+    "122397484",
+    "122397485",
+    "122397486",
+    "122397487",
+    "122397488",
+    "122397489",
+    "122397533",
+    "122397534"
+   ]
+  }
+ ],
+ "fragments": {
+  "122374820": {
+   "fragment_id": "122393539",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 6/2002/A\n\nRegime de comparticipação na recuperação de habitação degradada\n\nNo presente diploma está patente a preocupação pela recuperação das habitações sem condições mínimas de habitabilidade, que não são condignas para o nosso tempo, propondo-se, assim, contribuir para a redução significativa da sua expressão percentual nos Açores. Desde há muito que se tem por necessário uma intervenção no sentido de dotar as habitações de conforto, salubridade e segurança, sendo esta uma condição sine qua non para a salvaguarda da qualidade de vida das populações. Alia-se a este objectivo uma política de preservação do património arquitectónico e urbanístico, apostando-se na reabilitação urbana e conservação do tecido habitacional regional como um elemento de identificação cultural dos Açores.\n\nPor outro lado, a deterioração das edificações afectas a fim habitacional em virtude da sua deficiente conservação e do seu envelhecimento diminui as condições de habitabilidade reduzindo o valor do património individual e comum, evidenciando-se como factor negativo quer do ponto de vista social, económico e urbanístico. Importa, pois, conferir a este tipo de situações um tratamento diferenciado no universo dos apoios à habitação, consubstanciando-o em diploma próprio e conferindo-lhe a dignidade de um regime autónomo.\n\nA consciência que a recuperação do parque habitacional degradado terá de ser fortemente intensificada, dadas as condições de antiguidade e debilidade do parque habitacional dos Açores, é pungente. Só com um parque consolidado e bem construído se podem evitar os custos humanos, sociais e económicos que ocorrem sempre que se verifica uma catástrofe natural de alguma intensidade. Assim, no que concerne à segurança sísmica, pretende-se aplicar um conjunto de medidas para melhorar a resistência dos imóveis aos sismos, aproximando-os da resistência de uma construção nova, tendo-se presente que os Açores constituem uma das zonas de maior sismicidade do País.\n\nAssim, em traços gerais, a par do tratamento, que se pretende equilibrado, dos objectivos a atingir com o presente diploma, nomeadamente no domínio da prevenção anti-sísmica como linha estratégica de longo prazo, cria-se um regime de recandidaturas ou de segundas candidaturas, em termos, aliás, inovadores e que permite corrigir algumas injustiças sociais. Procurou-se assegurar, por um lado, uma maior responsabilização dos cidadãos destinatários do apoio, através de um leque de obrigações mais alargado e, por outro, a existência de mecanismos jurídicos de controlo e fiscalização da atribuição dos subsídios que possibilitem à Administração realizar o interesse público de forma mais eficaz, eficiente e rigorosa.\n\nDecorre, também, naturalmente desse pressuposto a necessidade de reforçar a fiscalização das obras, sobretudo no que respeita ao cumprimento das normas de prevenção sísmica.\n\nFinalmente, como reforço da transparência da acção administrativa e do respeito pelos direitos e interesses legítimos dos cidadãos, o presente diploma apresenta uma melhor densificação conceptual.\n\nAssim, a Assembleia Legislativa Regional dos Açores, ao abrigo da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º da Lei n.º 61/98, de 27 de Agosto - Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:\n\n> Nota: [Artigo 30.º, Decreto Legislativo Regional n.º 11/2019/A - Diário da República n.º 100/2019, Série I de 2019-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2019-122393535) revoga o presente diploma. No entanto, para os contratos celebrados ao abrigo deste.mantêm-se em vigor as normas referentes ao ónus da inalienabilidade, às obrigações e sanções."
+  },
+  "122374821": {
+   "fragment_id": "122393540",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente diploma estabelece o regime jurídico da concessão dos apoios financeiros a obras de reabilitação, reparação e beneficiação em habitações degradadas através de uma comparticipação financeira em materiais e mão-de-obra."
+  },
+  "122374822": {
+   "fragment_id": "122393541",
+   "type": 11,
+   "heading": "Artigo 2.º — Formas de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Formas de apoio\n\n1 - O apoio referido no artigo anterior reveste a forma de subsídio, concedido a fundo perdido, e de bonificação de juros dos empréstimos contraídos para esse fim e destina-se exclusivamente a pessoas singulares constituídas em agregados familiares cuja situação socioeconómica não lhes permita procederem às intervenções necessárias à consecução dos fins previstos no presente diploma.\n\n2 - Os apoios a conceder poderão ser integrados em projectos de âmbito social plurissectoriais e que se dirijam aos agregados familiares em causa, podendo tais acções ser desencadeadas até à concretização do subsídio.\n\n3 - A administração regional poderá celebrar protocolos com as autarquias locais, bem como com instituições particulares de solidariedade social ou outras pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais.\n\n4 - Os referidos protocolos implicarão necessariamente que as entidades aí indicadas comparticipem financeiramente ou em espécie na execução dos mesmos e que os destinatários do apoio satisfaçam as condições de acesso ao regime contido no presente diploma."
+  },
+  "122374823": {
+   "fragment_id": "122393542",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do presente diploma considera-se:\n\na) Beneficiário todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar:\n\ni) Conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, e seus ascendentes e descendentes até ao 2.º grau, adoptados restritamente, e menores confiados àqueles com vista a futura adopção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com eles vivam em regime de comunhão de mesa e habitação;\n\nii) Conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes até ao 2.º grau, adoptados restritamente, e menores confiados àquela com vista a futura adopção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com ela vivam em comunhão de mesa e habitação;\n\nc) Pessoa com deficiência aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\nd) Rendimento mensal bruto (Rmb) o quantitativo que resulte da divisão por 12 dos rendimentos auferidos, sem dedução de quaisquer encargos, por todos os elementos do agregado familiar durante o ano civil anterior;\n\ne) Índice 100 do regime geral da função pública (I100) o valor previsto nos n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, anualmente actualizado por portaria do Ministro das Finanças;\n\nf) Rendimentos as remunerações provenientes de trabalho subordinado ou independente, incluindo ordenados, salários e outras remunerações do trabalho, tais como diuturnidades, horas extraordinárias e subsídios; os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos e urbanos; as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras, rendimento mínimo garantido, subsídio de desemprego e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória, incluindo os subsídios auferidos em razão dessas actividades, com excepção do subsídio familiar, aplicações financeiras e respectivos dividendos;\n\ng) Prédios rústicos e urbanos os classificados como tal no Código da Contribuição Autárquica, aprovado pelo Decreto-Lei n.º 442-C/88, de 30 de Novembro;\n\nh) Área bruta de habitação (A) o somatório do espaço circunscrito pelas paredes exteriores da habitação, que pode desenvolver-se num ou mais pisos;\n\ni) Habitação a unidade na qual se processa a vida de cada família residente no edifício, unidade essa que compreende o fogo e as suas dependências;\n\nj) Fogo o conjunto dos espaços privados nucleares de cada habitação, ou seja, dos espaços tais como a sala, os quartos, a cozinha, as instalações sanitárias, os arrumos, a despensa, as arrecadações em cave e em sótão, os corredores e os vestíbulos; conjunto esse confinado por uma envolvente que separa o fogo do resto do edifício;\n\nk) Dependências do fogo os espaços privados periféricos desse fogo, tais como as varandas, os balcões, os terraços, as arrecadações em cave ou em sótão (nos edifícios multifamiliares) ou em corpos anexos e os telheiros e alpendres (nos edifícios unifamiliares) - espaços esses exteriores à envolvente que confina o fogo;\n\nl) Habitação própria permanente aquela onde o beneficiário e o seu agregado familiar mantêm estabilizado o seu centro de vida familiar;\n\nm) Operações de loteamento e obras de urbanização as definidas como tal no regime jurídico das urbanizações e das edificações;\n\nn) Habitação degradada a que não reúna as condições mínimas de habitabilidade, segurança e salubridade, nomeadamente por deficiência ou inexistência de:\n\ni) Redes de distribuição de água, esgotos e electricidade;\n\nii) Instalações sanitárias;\n\niii) Fundações, estrutura e alvenarias adequadas, vãos e escadas;\n\niv) Revestimentos, pavimentos, coberturas e caixilharias adequados a prevenir a entrada de humidade ou de outros agentes atmosféricos;\n\no) Reabilitação os trabalhos necessários à consolidação estrutural do imóvel;\n\np) Reparação os trabalhos necessários à eliminação de patologias que provoquem perdas de habitabilidade e conforto no imóvel;\n\nq) Beneficiação os trabalhos necessários à dotação do imóvel das infra-estruturas ou equipamentos, designadamente do tipo hígio-sanitário, necessários para garantir salubridade, habitabilidade e conforto."
+  },
+  "122374824": {
+   "fragment_id": "122393543",
+   "type": 11,
+   "heading": "Artigo 4.º — Segurança e prevenção sísmica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Segurança e prevenção sísmica\n\nAs intervenções feitas no âmbito do presente diploma deverão integrar medidas antissísmicas elementares, como sejam a consolidação das paredes resistentes, preferencialmente com reboco armado, e a solidificação das alvenarias e coberturas, nomeadamente através da execução de cintas de coroamento e tirantes."
+  },
+  "122374825": {
+   "fragment_id": "122393544",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso - Requisitos positivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso - Requisitos positivos\n\n1 - Poderão aceder ao apoio previsto no presente diploma as pessoas singulares titulares do direito de propriedade sobre o imóvel candidatado, destinando-se este à habitação própria permanente do agregado familiar do candidato.\n\n2 - Excepcionalmente, poderão ter acesso aos apoios referidos no presente diploma comproprietários, usufrutuários, usuários e titulares do direito de habitação, que residam a título permanente na habitação degradada objecto do apoio e, quanto a esta, se posicionem nos termos seguintes:\n\na) Os comproprietários, desde que algum elemento do seu agregado familiar a habite a título permanente há mais de cinco anos;\n\nb) Os usufrutuários, usuários e titulares de direito de habitação, desde que provem essa condição nos termos previstos na lei e o respectivo título haja sido constituído há, pelo menos, cinco anos e de modo vitalício.\n\n3 - Os conceitos de proprietário, comproprietário, usufrutuário, usuário e titular de direito de habitação, bem como os modos de constituição das respectivas situações jurídicas, são os constantes do Código Civil.\n\n4 - Relativamente às candidaturas referidas nas alíneas do n.º 2, somente serão elegíveis aquelas cujos rendimentos dos agregados familiares se enquadrem na classe I constante do anexo II ao presente diploma.\n\n5 - A elegibilidade das candidaturas de comproprietários, bem como as de usufrutuários, usuários e titulares de direito de habitação depende ainda:\n\na) Da junção de documento comprovativo da autorização dos demais consortes da habitação a beneficiar, no primeiro caso;\n\nb) Da junção de documento comprovativo da autorização do proprietário da habitação a beneficiar, nos restantes.\n\n6 - São equiparadas às candidaturas de proprietários as candidaturas de comproprietários cuja totalidade dos consortes integre o respectivo agregado familiar."
+  },
+  "122374826": {
+   "fragment_id": "122393545",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de acesso - Requisitos negativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições de acesso - Requisitos negativos\n\n1 - Cumulativamente com as condições enunciadas no artigo anterior, o acesso ao apoio previsto no presente diploma depende da verificação dos seguintes requisitos:\n\na) Não ter sido, nem estar a ser, o interessado ou qualquer outro elemento do seu agregado familiar beneficiado por este ou por outro qualquer apoio à habitação atribuído por organismos da Administração Pública, salvas as situações referidas no artigo seguinte;\n\nb) Não ser o requerente ou qualquer outro elemento do seu agregado familiar proprietário de prédio urbano para além daquele que é objecto de candidatura, excepto se estiver exclusivamente afecto à actividade profissional do candidato, ou se encontre igualmente em estado de ruína ou degradação que impeça a sua habitabilidade, desde que não exceda valor a fixar;\n\nc) Não ser o requerente ou qualquer outro elemento do seu agregado familiar proprietário de prédios rústicos cujo somatório das respectivas áreas não ultrapasse um valor a fixar e desde que os mesmos não sejam passíveis de operações de loteamento e obras de urbanização;\n\nd) Não ser o rendimento mensal bruto do agregado superior ao limite máximo resultante do produto dos coeficientes indicados no anexo I pelo índice 100 do regime geral da função pública, do ano a que aquele se reporta, e pelo número de elementos do agregado familiar;\n\ne) Não ter sido a habitação objecto de candidatura arrestada, penhorada ou estar nomeada à penhora em processo executivo;\n\nf) Não ser a área bruta da habitação superior a 160 m2, exceptuando dependências que, designadamente, pela sua qualidade construtiva ou pé-direito não sejam passíveis de ser habitáveis, nomeadamente garagens, arribanas, lojas, adegas, celeiros e casas de arrumos, desde que a respectiva utilização se efectue em conformidade com os fins usualmente dados a cada um daqueles imóveis.\n\n2 - Caso os prédios referidos na alínea c) do número anterior sejam a única fonte de rendimento do agregado familiar e não sejam passíveis de operações de loteamento e obras de urbanização, não poderá o somatório das respectivas áreas exceder um valor a fixar.\n\n3 - O valores referidos na alínea c) do n.º 1 e no n.º 2 do presente artigo, serão fixados em diploma regulamentar.\n\n> Nota: [Artigo 19.º, Decreto Legislativo Regional n.º 20/2005/A - Diário da República n.º 140/2005, Série I-A de 2005-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007) A alteração produzida por este diploma vigora até 31 de Dezembro de 2010."
+  },
+  "122374827": {
+   "fragment_id": "122393546",
+   "type": 11,
+   "heading": "Artigo 7.º — Recandidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recandidaturas\n\n1 - Exceptuam-se do disposto na alínea a) do n.º 1 do artigo anterior os candidatos que já tenham sido apoiados, desde que o referido apoio tenha provindo de alguma das seguintes situações:\n\na) Aquisição de habitações à administração local;\n\nb) Constituição de novo agregado familiar;\n\nc) Apoios especiais decorrentes de eventos danosos, provocados pelas forças da natureza;\n\nd) Situações em que o tipo ou o montante dos apoios concedidos ou a alteração superveniente das circunstâncias não permitiu a resolução eficaz do problema habitacional do agregado.\n\n2 - As situações referidas nas alíneas do número anterior serão objecto de regulamentação."
+  },
+  "122374828": {
+   "fragment_id": "122393547",
+   "type": 11,
+   "heading": "Artigo 8.º — Presunção de rendimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Presunção de rendimentos\n\n1 - No caso de indivíduo maior que não apresente rendimentos do trabalho dependente ou independente ou que declare rendimentos inferiores ao salário mínimo nacional e não faça prova dos mesmos ou de estar incapacitado para o trabalho ou reformado por velhice ou invalidez, presume-se, para efeito do cômputo do rendimento anual bruto do respectivo agregado familiar, que aquele aufere um rendimento mensal de valor correspondente a um salário mínimo nacional praticado na Região, salvo se se comprovar que aufere rendimentos superiores, caso em que serão estes os relevantes para o efeito.\n\n2 - A presunção estabelecida na primeira parte do número anterior é afastada mediante prova de que a ausência de rendimentos se deve à verificação de uma das seguintes situações no agregado familiar:\n\na) Estar a frequentar estabelecimento de ensino e não possuir idade superior a 25 anos;\n\nb) Estar a cumprir o serviço militar obrigatório ou serviço cívico;\n\nc) Exercício da actividade de doméstica, não podendo, porém, ser considerado como tal mais de um elemento do agregado familiar;\n\nd) Estar desempregado.\n\n3 - A cessação de qualquer das situações previstas nas alíneas do número anterior deve ser de imediato comunicada à entidade instrutora do processo, nomeadamente para efeitos da reavaliação do montante do apoio a conceder."
+  },
+  "122374829": {
+   "fragment_id": "122393548",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura será instruído pela Direcção Regional de Habitação ou pelas diversas delegações de ilha da Secretaria Regional da Habitação e Equipamentos, nos termos a definir em diploma regulamentar.\n\n2 - A direcção da instrução do processo de candidatura compete ao director regional da Habitação, com poderes de delegação.\n\n3 - Serão prioritariamente propostos para decisão os processos que configurem situações de urgência ou grande carência no domínio da habitação.\n\n4 - Serão liminarmente indeferidas as candidaturas em que se verifique, pelo menos, uma das seguintes situações:\n\na) Cujos imóveis objecto das mesmas, pelas suas características ou localização, não sejam susceptíveis de garantir segurança aos respectivos ocupantes, nem mesmo mediante a concessão dos apoios previstos no presente diploma;\n\nb) O valor da intervenção atribuído às obras prioritárias na moradia for superior a um limite máximo a fixar por diploma regulamentar;\n\nc) O valor da intervenção seja claramente desproporcional face ao valor económico do imóvel em causa;\n\nd) As habitações que disponham de anexos não contíguos, sem o devido licenciamento, com condições de habitabilidade, e que, conjuntamente com a habitação candidatada, permitam o alojamento do agregado familiar."
+  },
+  "122374830": {
+   "fragment_id": "122393549",
+   "type": 11,
+   "heading": "Artigo 10.º — Decisão do processo de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Decisão do processo de candidatura\n\nO processo de candidatura será sujeito a decisão do Secretário Regional com competência em matéria de habitação, podendo esta ser objecto de delegação."
+  },
+  "122374831": {
+   "fragment_id": "122393550",
+   "type": 11,
+   "heading": "Artigo 11.º — Determinação, atribuição e concretização do subsídio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Determinação, atribuição e concretização do subsídio\n\n1 - O montante do apoio será determinado com base no orçamento das obras a executar, efectuado pelo serviço instrutor do processo, e em função da classe de apoio em que o agregado familiar se enquadra, nos termos do anexo II.\n\n2 - A atribuição do apoio referido no número anterior assumirá, para a primeira candidatura, a forma de fundo perdido, salvo o disposto no número seguinte.\n\n3 - A atribuição do apoio referido no n.º 1 assumirá, para as candidaturas a que se reporta o artigo 7.º, a forma de fundo perdido, juro bonificado e fundo perdido, ou apenas juro bonificado, a definir em diploma regulamentar.\n\n4 - A gestão dos apoios anteriores poderá ser feita pelo beneficiário, ou pelas autarquias locais, pelas instituições particulares de solidariedade social e por pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais.\n\n5 - As formas de concretização dos apoios serão definidas em diploma regulamentar, consoante as modalidades de gestão referidas no número anterior."
+  },
+  "122374832": {
+   "fragment_id": "122393551",
+   "type": 11,
+   "heading": "Artigo 12.º — Ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Ónus de inalienabilidade\n\n1 - As habitações estão sujeitas a um ónus de inalienabilidade pelo prazo de cinco anos, a contar da data de conclusão das obras objecto do apoio.\n\n2 - O ónus previsto no número anterior está sujeito a registo, cuja inscrição deve mencionar a respectiva natureza e prazo.\n\n3 - A caducidade do ónus pelo decurso do prazo determina o averbamento oficioso deste facto."
+  },
+  "122374833": {
+   "fragment_id": "122393552",
+   "type": 11,
+   "heading": "Artigo 13.º — Levantamento do ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Levantamento do ónus de inalienabilidade\n\n1 - Todo o beneficiário que pretender alienar a habitação apoiada antes do termo do prazo referido no artigo anterior deverá requerer o levantamento do ónus de inalienabilidade.\n\n2 - O exercício da faculdade referida implicará o reembolso à Região Autónoma dos Açores dos valores comparticipados, anualmente actualizados por portaria do Secretário Regional com competência em matéria de habitação."
+  },
+  "122374834": {
+   "fragment_id": "122393553",
+   "type": 11,
+   "heading": "Artigo 14.º — Caducidade do ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Caducidade do ónus de inalienabilidade\n\n1 - O ónus de inalienabilidade caduca nos casos em que haja lugar à venda ou adjudicação da habitação em processo de execução para pagamento de dívidas decorrentes de empréstimos para aquisição da habitação ou para a realização das obras comparticipadas nos termos do presente diploma.\n\n2 - Às situações previstas no n.º 1 é aplicável o regime contido no n.º 2 do artigo anterior."
+  },
+  "122374835": {
+   "fragment_id": "122393554",
+   "type": 11,
+   "heading": "Artigo 15.º — Cessação do ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Cessação do ónus de inalienabilidade\n\nO ónus de inalienabilidade cessa, sendo permitido o seu levantamento sem lugar a reembolso, nos casos de:\n\na) Morte ou invalidez permanente e absoluta do beneficiário ou do cônjuge;\n\nb) Inadequação da habitação ao agregado familiar pelo aumento do número dos descendentes do 1.º grau, salvo se a habitação apoiada for passível de ampliação."
+  },
+  "122374836": {
+   "fragment_id": "122393555",
+   "type": 11,
+   "heading": "Artigo 16.º — Alienação decorrido o prazo do ónus de inalienabilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alienação decorrido o prazo do ónus de inalienabilidade\n\nA alienação da habitação apoiada, decorrido o prazo do ónus de inalienabilidade, obriga o beneficiário a restituir à Região Autónoma dos Açores 30% da comparticipação financeira concedida, anualmente actualizada por portaria do Secretário Regional com competência em matéria de habitação."
+  },
+  "122374837": {
+   "fragment_id": "122393556",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações do beneficiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações do beneficiário\n\n1 - Sem prejuízo das obrigações gerais respeitantes à intervenção de qualquer cidadão num procedimento administrativo, o beneficiário fica especialmente obrigado a:\n\na) Assegurar o registo do ónus previsto no artigo 12.º do presente diploma e fazer prova do mesmo antes da concretização do subsídio;\n\nb) Iniciar as obras no prazo máximo de seis meses a contar da data da notificação do deferimento do apoio, salvo impedimento que lhe não seja imputável;\n\nc) Concluir as obras no prazo máximo de 12 meses a contar da data do seu início, salvo impedimento que lhe não seja imputável;\n\nd) Realizar os trabalhos descritos no relatório técnico de obras aprovado, de acordo com as regras da boa execução;\n\ne) Comunicar antecipadamente o início das obras e as fases críticas dos trabalhos a executar de acordo com o plano aprovado;\n\nf) Cooperar nas acções de fiscalização e controlo exercidas pela Região e respeitantes quer ao processo de candidatura, quer à execução dos trabalhos, quer ao acatamento das obrigações supervenientes;\n\ng) Apresentar os documentos comprovativos de despesa emitidos pelos respectivos fornecedores dos bens e pelos prestadores dos serviços;\n\nh) Celebrar, após a realização dos trabalhos, contrato de seguro respeitante à habitação apoiada;\n\ni) Afectar o imóvel apoiado a habitação permanente do beneficiário e agregado familiar;\n\nj) Comunicar, até à data da notificação da decisão, todas as alterações entretanto ocorridas e relevantes para a atribuição do apoio ou do seu montante.\n\n2 - O contrato de seguro referido na alínea h) do número anterior deverá abranger, no mínimo, o prazo de vigência do ónus de inalienabilidade.\n\n3 - A omissão da comunicação referida na alínea j) do n.º 1 é equiparada, para todos os efeitos, à prestação de falsas declarações."
+  },
+  "122374838": {
+   "fragment_id": "122393557",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1 - Exceptuando as situações de justo impedimento ou força maior:\n\na) O incumprimento do disposto na alínea a) do artigo 17.º implica a suspensão da concretização do apoio;\n\nb) O incumprimento do previsto na alínea b) do artigo 17.º implica a prescrição do direito ao apoio;\n\nc) O incumprimento do disposto na alínea c) do artigo 17.º implica a cessação imediata do apoio e o reembolso à Região Autónoma dos Açores do montante do apoio já atribuído;\n\nd) O incumprimento do previsto na alínea d) do artigo 17.º implica a cessação do apoio ainda não concretizado e o reembolso à Região Autónoma dos Açores do valor correspondente ao dos trabalhos previstos e não executados, salvo se o referido incumprimento se ficou a dever a motivos tecnicamente comprovados e reconhecidos pelos serviços do departamento governamental competente;\n\ne) O incumprimento do previsto na alínea e) do artigo 17.º não só implica a desresponsabilização da Administração relativamente a qualquer defeito emergente da construção, como implica a perda imediata do direito ao apoio e, caso este já tenha sido concretizado, a sua devolução;\n\nf) O incumprimento do previsto nas alíneas f) e g) do artigo 17.º implica:\n\ni) A suspensão do montante relativo às fases ainda por atribuir;\n\nii) A devolução dos montantes adiantados, na medida do incumprimento verificado, acrescidos de 10%;\n\ng) O incumprimento do previsto na alínea h) do artigo 17.º implica:\n\ni) Caso o seguro não tenha sido constituído, o reembolso à Região Autónoma dos Açores do montante do apoio atribuído;\n\nii) Caso o seguro venha a ser cancelado durante o período de vigência do ónus de inalienabilidade, a suspensão do prazo de vigência do referido ónus, contada a partir da data do referido cancelamento;\n\nh) O incumprimento do previsto na alínea i) do artigo 17.º determina o reembolso integral do apoio atribuído à administração regional, acrescido de 10%.\n\n2 - A prestação culposa de falsas declarações nas candidaturas determina, sem prejuízo de comunicação às autoridades competentes para instauração do competente processo criminal:\n\na) Na fase de instrução, a exclusão das mesmas;\n\nb) Na fase compreendida entre a decisão e a concretização do subsídio, a extinção do direito ao mesmo;\n\nc) Após a concretização do subsídio, o reembolso do mesmo, acrescido de 10%.\n\n3 - O incumprimento de alguma das obrigações referidas no artigo 17.º bem como a prestação de falsas declarações implicarão, ainda, a impossibilidade do faltoso se candidatar a qualquer outro programa de apoio à habitação."
+  },
+  "122374839": {
+   "fragment_id": "122393558",
+   "type": 11,
+   "heading": "Artigo 19.º — Majoração para deficientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Majoração para deficientes\n\nOs apoios concedidos pelo presente diploma serão objecto de majoração sempre que o agregado familiar do candidato integre pessoas portadoras de deficiência, a definir em diploma regulamentar."
+  },
+  "122374840": {
+   "fragment_id": "122393559",
+   "type": 11,
+   "heading": "Artigo 20.º — Intransmissibilidade mortis causa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Intransmissibilidade mortis causa\n\nO direito aos apoios concedidos ao abrigo do presente diploma não se transmite com a morte do seu titular."
+  },
+  "122374841": {
+   "fragment_id": "122393560",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamentação\n\nO presente diploma será regulamentado no prazo de 60 dias."
+  },
+  "122374842": {
+   "fragment_id": "122393561",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, os artigos 7.º a 11.º e demais disposições que contrariem o disposto no presente diploma;\n\nb) O Decreto Legislativo Regional n.º 5/99/A, de 11 de Março;\n\nc) A Resolução n.º 88/98, de 14 de Maio."
+  },
+  "122374843": {
+   "fragment_id": "122393562",
+   "type": 11,
+   "heading": "Artigo 23.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produção de efeitos\n\nO regime previsto no presente diploma produz efeitos a partir da data de entrada em vigor do diploma regulamentar previsto no artigo 21.º, aplicando-se às candidaturas pendentes que se encontrem na fase instrutória."
+  },
+  "122374845": {
+   "fragment_id": "122393564",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nOs limites máximos de rendimento a que se refere a alínea d) do n.º 1 do artigo 6.º são os seguintes (ver nota 1):\n\n(ver quadro no documento original)\n\n(nota 1) Exemplo: Limite máximo de rendimento = número de elementos x coeficiente x I100."
+  },
+  "122374846": {
+   "fragment_id": "122393565",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nAs classes de apoio referidas no n.º 1 do artigo 11.º são as seguintes:\n\n(ver quadro no documento original)"
+  },
+  "122397478": {
+   "fragment_id": "122393545",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de acesso - Requisitos negativos",
+   "in_force_from": "2005-08-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 20/2005/A - Diário da República n.º 140/2005, Série I-A de 2005-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007), em vigor a partir de 2005-08-21"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de acesso - Requisitos negativos\n\n1 - Cumulativamente com as condições enunciadas no artigo anterior, o acesso ao apoio previsto no presente diploma depende da verificação dos seguintes requisitos:\n\na) Não ter sido, nem estar a ser, o interessado ou qualquer outro elemento do seu agregado familiar beneficiado por este ou por outro qualquer apoio à habitação, atribuído por organismos da administração regional autónoma, salvas as situações abrangidas por regimes de apoio excepcional, que declarem serem os apoios nele previstos cumuláveis, e as referidas no artigo seguinte;\n\nb) Não ser o requerente ou qualquer outro elemento do seu agregado familiar proprietário de prédio urbano para além daquele que é objecto de candidatura, excepto se estiver exclusivamente afecto à actividade profissional do candidato, ou se encontre igualmente em estado de ruína ou degradação que impeça a sua habitabilidade, desde que não exceda valor a fixar;\n\nc) Não ser o requerente ou qualquer outro elemento do seu agregado familiar proprietário de prédios rústicos cujo somatório das respectivas áreas não ultrapasse um valor a fixar e desde que os mesmos não sejam passíveis de operações de loteamento e obras de urbanização;\n\nd) Não ser o rendimento mensal bruto do agregado superior ao limite máximo resultante do produto dos coeficientes indicados no anexo I pelo índice 100 do regime geral da função pública, do ano a que aquele se reporta, e pelo número de elementos do agregado familiar;\n\ne) Não ter sido a habitação objecto de candidatura arrestada, penhorada ou estar nomeada à penhora em processo executivo;\n\nf) Não ser a área bruta da habitação superior a 160 m2, exceptuando dependências que, designadamente, pela sua qualidade construtiva ou pé-direito não sejam passíveis de ser habitáveis, nomeadamente garagens, arribanas, lojas, adegas, celeiros e casas de arrumos, desde que a respectiva utilização se efectue em conformidade com os fins usualmente dados a cada um daqueles imóveis.\n\n2 - Caso os prédios referidos na alínea c) do número anterior sejam a única fonte de rendimento do agregado familiar e não sejam passíveis de operações de loteamento e obras de urbanização, não poderá o somatório das respectivas áreas exceder um valor a fixar.\n\n3 - O valores referidos na alínea c) do n.º 1 e no n.º 2 do presente artigo, serão fixados em diploma regulamentar.\n\n> Nota: [Artigo 19.º, Decreto Legislativo Regional n.º 20/2005/A - Diário da República n.º 140/2005, Série I-A de 2005-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007) A alteração produzida por este diploma vigora até 31 de Dezembro de 2010.\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 20/2005/A - Diário da República n.º 140/2005, Série I-A de 2005-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007), em vigor a partir de 2005-08-21"
+  },
+  "122397477": {
+   "fragment_id": "122393561",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": "2002-03-16",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 23-F/2002 - Diário da República n.º 148/2002, 1º Suplemento, Série I-A de 2002-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-f-2002-527185), em vigor a partir de 2002-03-16"
+   ],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nSão revogados:\n\na) Do Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, os artigos 7.º a 11.º e demais disposições que contrariem o disposto no presente diploma;\n\nb) O Decreto Legislativo Regional n.º 5/99/A, de 11 de Março;\n\nc) A Resolução n.º 88/98, de 14 de Maio.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 23-F/2002 - Diário da República n.º 148/2002, 1º Suplemento, Série I-A de 2002-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-f-2002-527185), em vigor a partir de 2002-03-16"
+  },
+  "122374844": {
+   "fragment_id": "122393563",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Janeiro de 2002.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 18 de Fevereiro de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "122397484": {
+   "fragment_id": "122397404",
+   "type": 11,
+   "heading": "Artigo 19.º-A — Majoração especial",
+   "in_force_from": "2006-11-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2006/A - Diário da República n.º 210/2006, Série I de 2006-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003), em vigor a partir de 2006-11-01"
+   ],
+   "markdown": "###### Artigo 19.º-A — Majoração especial\n\nOs apoios previstos no presente diploma, que tenham por objecto imóveis sitos nas ilhas de Santa Maria, Graciosa, São Jorge, Flores e Corvo, podem ser majorados, nos termos a definir em diploma regulamentar.»\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 37/2006/A - Diário da República n.º 210/2006, Série I de 2006-10-31](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/37-2006-546003), em vigor a partir de 2006-11-01"
+  },
+  "122397485": {
+   "fragment_id": "122393559",
+   "type": 11,
+   "heading": "Artigo 20.º — Intransmissibilidade mortis causa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Intransmissibilidade mortis causa\n\nO direito aos apoios concedidos ao abrigo do presente diploma não se transmite com a morte do seu titular."
+  },
+  "122397486": {
+   "fragment_id": "122393560",
+   "type": 11,
+   "heading": "Artigo 21.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regulamentação\n\nO presente diploma será regulamentado no prazo de 60 dias."
+  },
+  "122397487": {
+   "fragment_id": "122393561",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 23-F/2002 - Diário da República n.º 148/2002, 1º Suplemento, Série I-A de 2002-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-f-2002-527185), em vigor a partir de 2002-03-16"
+   ],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nSão revogados:\n\na) Do Decreto Legislativo Regional n.º 14/95/A, de 22 de Agosto, os artigos 7.º a 11.º e demais disposições que contrariem o disposto no presente diploma;\n\nb) O Decreto Legislativo Regional n.º 5/99/A, de 11 de Março;\n\nc) A Resolução n.º 88/98, de 14 de Maio.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 23-F/2002 - Diário da República n.º 148/2002, 1º Suplemento, Série I-A de 2002-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/23-f-2002-527185), em vigor a partir de 2002-03-16"
+  },
+  "122397488": {
+   "fragment_id": "122393562",
+   "type": 11,
+   "heading": "Artigo 23.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Produção de efeitos\n\nO regime previsto no presente diploma produz efeitos a partir da data de entrada em vigor do diploma regulamentar previsto no artigo 21.º, aplicando-se às candidaturas pendentes que se encontrem na fase instrutória."
+  },
+  "122397489": {
+   "fragment_id": "122393563",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado pela Assembleia Legislativa Regional dos Açores, na Horta, em 24 de Janeiro de 2002.\n\nO Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.\n\nAssinado em Angra do Heroísmo em 18 de Fevereiro de 2002.\n\nPublique-se.\n\nO Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa."
+  },
+  "122397490": {
+   "fragment_id": "122393564",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I\n\nOs limites máximos de rendimento a que se refere a alínea d) do n.º 1 do artigo 6.º são os seguintes (ver nota 1):\n\n(ver quadro no documento original)\n\n(nota 1) Exemplo: Limite máximo de rendimento = número de elementos x coeficiente x I100."
+  },
+  "122397491": {
+   "fragment_id": "122393565",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\nAs classes de apoio referidas no n.º 1 do artigo 11.º são as seguintes:\n\n(ver quadro no documento original)"
+  },
+  "122397526": {
+   "fragment_id": "122393542",
+   "type": 11,
+   "heading": "Artigo 3.º — Conceitos",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "###### Artigo 3.º — Conceitos\n\nPara efeitos do presente diploma considera-se:\n\na) Beneficiário todo e qualquer indivíduo que preencha os requisitos previstos no presente diploma para ser apoiado;\n\nb) Agregado familiar:\n\ni) Conjunto de pessoas constituído pelos cônjuges ou por duas pessoas que vivam em condições análogas às dos cônjuges, nos termos do artigo 2020.º do Código Civil, e seus ascendentes e descendentes até ao 2.º grau, adoptados restritamente, e menores confiados àqueles com vista a futura adopção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com eles vivam em regime de comunhão de mesa e habitação;\n\nii) Conjunto constituído por pessoa solteira, viúva, divorciada ou separada judicialmente de pessoas e bens, seus ascendentes e descendentes até ao 2.º grau, adoptados restritamente, e menores confiados àquela com vista a futura adopção ou em situação de tutela, colaterais até ao 3.º grau e afins, desde que com ela vivam em comunhão de mesa e habitação;\n\nc) Pessoa com deficiência aquela que, por motivo de perda ou anomalia, congénita ou adquirida, de estrutura ou função psicológica, intelectual, fisiológica ou anatómica susceptível de provocar restrições de capacidade para o trabalho ou angariação de meios de subsistência, possua, comprovadamente, grau de incapacidade permanente igual ou superior a 60%;\n\nd) Rendimento mensal bruto (Rmb) o quantitativo que resulte da divisão por 12 dos rendimentos auferidos, sem dedução de quaisquer encargos, por todos os elementos do agregado familiar durante o ano civil anterior;\n\ne) Índice 100 do regime geral da função pública (I100) o valor previsto nos n.os 2 e 3 do artigo 4.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro, anualmente actualizado por portaria do Ministro das Finanças;\n\nf) Rendimentos as remunerações provenientes de trabalho subordinado ou independente, incluindo ordenados, salários e outras remunerações do trabalho, tais como diuturnidades, horas extraordinárias e subsídios; os rendimentos provenientes de participações em sociedades comerciais ou rendas de prédios rústicos e urbanos; as pensões de reforma, de aposentação, de velhice, de invalidez, de sobrevivência, sociais, de sangue ou outras, rendimento mínimo garantido, subsídio de desemprego e ainda as resultantes do exercício de actividade comercial, industrial, agrícola, agro-pecuária e piscatória, incluindo os subsídios auferidos em razão dessas actividades, com excepção do subsídio familiar, aplicações financeiras e respectivos dividendos;\n\ng) Prédios rústicos e urbanos os classificados como tal no Código da Contribuição Autárquica, aprovado pelo Decreto-Lei n.º 442-C/88, de 30 de Novembro;\n\nh) Habitação a unidade na qual se processa a vida de cada família residente no edifício, unidade essa que compreende o fogo e as suas dependências;\n\ni) Fogo o conjunto dos espaços privados nucleares de cada habitação, ou seja, dos espaços tais como a sala, os quartos, a cozinha, as instalações sanitárias, os arrumos, a despensa, as arrecadações em cave e em sótão, os corredores e os vestíbulos; conjunto esse confinado por uma envolvente que separa o fogo do resto do edifício;\n\nj) Dependências do fogo os espaços privados periféricos desse fogo, tais como as varandas, os balcões, os terraços, as arrecadações em cave ou em sótão (nos edifícios multifamiliares) ou em corpos anexos e os telheiros e alpendres (nos edifícios unifamiliares) - espaços esses exteriores à envolvente que confina o fogo;\n\nk) Habitação própria permanente aquela onde o beneficiário e o seu agregado familiar mantêm estabilizado o seu centro de vida familiar;\n\nl) Operações de loteamento e obras de urbanização as definidas como tal no regime jurídico das urbanizações e das edificações;\n\nm) Habitação degradada a que não reúna as condições mínimas de habitabilidade, segurança e salubridade, nomeadamente por deficiência ou inexistência de:\n\ni) Redes de distribuição de água, esgotos e electricidade;\n\nii) Instalações sanitárias;\n\niii) Fundações, estrutura e alvenarias adequadas, vãos e escadas;\n\niv) Revestimentos, pavimentos, coberturas e caixilharias adequados a prevenir a entrada de humidade ou de outros agentes atmosféricos;\n\nn) Reabilitação os trabalhos necessários à consolidação estrutural do imóvel;\n\no) Reparação os trabalhos necessários à eliminação de patologias que provoquem perdas de habitabilidade e conforto no imóvel;\n\np) Beneficiação os trabalhos necessários à dotação do imóvel das infra-estruturas ou equipamentos, designadamente do tipo hígio-sanitário, necessários para garantir salubridade, habitabilidade e conforto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  },
+  "122397527": {
+   "fragment_id": "122393544",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso - Requisitos positivos",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "###### Artigo 5.º — Condições de acesso - Requisitos positivos\n\n1 - Poderão aceder ao apoio previsto no presente diploma as pessoas singulares titulares do direito de propriedade sobre o imóvel candidatado, destinando-se este à habitação própria permanente do agregado familiar do candidato.\n\n2 - Poderão, ainda, ter acesso aos apoios referidos no presente diploma comproprietários, usufrutuários, usuários e titulares do direito de habitação, que residam a título permanente na habitação degradada objecto do apoio e, quanto a esta, se posicionem nos termos seguintes:\n\na) Os comproprietários, desde que algum elemento do seu agregado familiar a habite a título permanente há mais de cinco anos;\n\nb) Os usufrutuários, usuários e titulares de direito de habitação, desde que provem essa condição nos termos previstos na lei e o respectivo título haja sido constituído há, pelo menos, cinco anos e de modo vitalício.\n\n3 - Os conceitos de proprietário, comproprietário, usufrutuário, usuário e titular de direito de habitação, bem como os modos de constituição das respectivas situações jurídicas, são os constantes do Código Civil.\n\n4 - Relativamente às candidaturas referidas nas alíneas do n.º 2, somente serão elegíveis aquelas cujos rendimentos dos agregados familiares se enquadrem na classe I constante do anexo II ao presente diploma.\n\n5 - A elegibilidade das candidaturas de comproprietários, bem como as de usufrutuários, usuários e titulares de direito de habitação depende ainda:\n\na) Da junção de documento comprovativo da autorização dos demais consortes da habitação a beneficiar, no primeiro caso;\n\nb) Da junção de documento comprovativo da autorização do proprietário da habitação a beneficiar, nos restantes.\n\n6 - São equiparadas às candidaturas de proprietários as candidaturas de comproprietários cuja totalidade dos consortes integre o respectivo agregado familiar.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  },
+  "122397528": {
+   "fragment_id": "122393545",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições de acesso - Requisitos negativos",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17",
+    "Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 20/2005/A - Diário da República n.º 140/2005, Série I-A de 2005-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007), em vigor a partir de 2005-08-21"
+   ],
+   "markdown": "###### Artigo 6.º — Condições de acesso - Requisitos negativos\n\n1 - Cumulativamente com as condições enunciadas no artigo anterior, o acesso ao apoio previsto no presente diploma depende da verificação dos seguintes requisitos:\n\na) Não ter sido, nem estar a ser, o interessado ou qualquer outro elemento do seu agregado familiar beneficiado por este ou por outro qualquer apoio à habitação, atribuído por organismos da administração regional autónoma, salvas as situações abrangidas por regimes de apoio excepcional, que declarem serem os apoios nele previstos cumuláveis, e as referidas no artigo seguinte;\n\nb) Não ser o requerente ou qualquer outro elemento do seu agregado familiar proprietário de prédio urbano para além daquele que é objecto de candidatura, excepto nos seguintes casos:\n\ni) Se o prédio urbano estiver exclusivamente afecto à actividade profissional do candidato;\n\nii) Se o prédio urbano se encontre em estado de ruína ou degradação que impeça a sua habitabilidade, desde que não exceda um valor a fixar em diploma regulamentar;\n\niii) Se o valor do prédio urbano não ultrapassar um valor a fixar em diploma regulamentar;\n\nc) Não ser o requerente ou qualquer outro elemento do seu agregado familiar proprietário de prédios rústicos cujo somatório das respectivas áreas não ultrapasse um valor a fixar e desde que os mesmos não sejam passíveis de operações de loteamento e obras de urbanização;\n\nd) Não ser o rendimento mensal bruto do agregado superior ao limite máximo resultante do produto dos coeficientes indicados no anexo I pelo índice 100 do regime geral da função pública, do ano a que aquele se reporta, e pelo número de elementos do agregado familiar;\n\ne) Não ter sido a habitação objecto de candidatura arrestada, penhorada ou estar nomeada à penhora em processo executivo;\n\nf) (Revogada.)\n\n2 - Caso os prédios referidos na alínea c) do número anterior sejam a única fonte de rendimento do agregado familiar e não sejam passíveis de operações de loteamento e obras de urbanização, não poderá o somatório das respectivas áreas exceder um valor a fixar.\n\n3 - O valores referidos na alínea c) do n.º 1 e no n.º 2 do presente artigo, serão fixados em diploma regulamentar.\n\n> Nota: [Artigo 19.º, Decreto Legislativo Regional n.º 20/2005/A - Diário da República n.º 140/2005, Série I-A de 2005-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007) A alteração produzida por este diploma vigora até 31 de Dezembro de 2010.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17\n\n> Alterado pelo/a Artigo 17.º do/a [Decreto Legislativo Regional n.º 20/2005/A - Diário da República n.º 140/2005, Série I-A de 2005-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/20-2005-240007), em vigor a partir de 2005-08-21"
+  },
+  "122397529": {
+   "fragment_id": "122393546",
+   "type": 11,
+   "heading": "Artigo 7.º — Recandidaturas",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "###### Artigo 7.º — Recandidaturas\n\n1 - Exceptuam-se do disposto na alínea a) do n.º 1 do artigo anterior as seguintes situações:\n\na) Aquisição de habitações à administração local;\n\nb) Constituição de novo agregado familiar;\n\nc) Apoios especiais decorrentes de eventos danosos, provocados pelas forças da natureza;\n\nd) Situações em que o tipo, o montante dos apoios concedidos ou a alteração superveniente das circunstâncias não permitiu a resolução eficaz e definitiva do problema habitacional do agregado;\n\ne) Quando já tenham decorrido mais de 10 anos entre a concretização total do apoio à habitação concedido e a recandidatura.\n\n2 - As situações referidas nas alíneas do número anterior serão objecto de regulamentação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  },
+  "122397530": {
+   "fragment_id": "122393548",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução do processo de candidatura",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "###### Artigo 9.º — Instrução do processo de candidatura\n\n1 - O processo de candidatura será instruído pela Direcção Regional de Habitação ou pelos serviços periféricos do departamento governamental com competência em matéria de habitação, nos termos a definir em diploma regulamentar.\n\n2 - A direcção da instrução do processo de candidatura compete ao director regional da Habitação, com poderes de delegação.\n\n3 - Serão prioritariamente propostos para decisão os processos que configurem situações de urgência ou grande carência no domínio da habitação.\n\n4 - Serão liminarmente indeferidas as candidaturas cujos imóveis objecto das mesmas, pelas suas características ou localização, não sejam susceptíveis de garantir segurança aos respectivos ocupantes, nem mesmo mediante a concessão dos apoios previstos no presente diploma.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  },
+  "122397531": {
+   "fragment_id": "122393550",
+   "type": 11,
+   "heading": "Artigo 11.º — Determinação, atribuição e concretização do subsídio",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "###### Artigo 11.º — Determinação, atribuição e concretização do subsídio\n\n1 - O montante do apoio será determinado com base no orçamento das obras a executar, efectuado pelo serviço instrutor do processo, e em função da classe de apoio em que o agregado familiar se enquadra, nos termos do anexo ii, não podendo, no entanto, ultrapassar um limite máximo a definir por diploma regulamentar.\n\n2 - Para efeitos de determinação do apoio referido no n.º 1 serão, ainda, consideradas elegíveis as despesas comprovadamente realizadas e decorrentes do processo de regularização da titularidade do direito de propriedade do imóvel candidatado, assim como as despesas inerentes ao registo do ónus previsto no artigo 12.º\n\n3 - A atribuição do apoio referido no número anterior assumirá, para a primeira candidatura, a forma de fundo perdido, salvo o disposto no número seguinte.\n\n4 - A atribuição do apoio referido no n.º 1 assumirá, para as candidaturas a que se reporta o artigo 7.º, a forma de fundo perdido, juro bonificado e fundo perdido, ou apenas juro bonificado, a definir em diploma regulamentar.\n\n5 - A gestão dos apoios anteriores poderá ser feita pelo beneficiário, ou pelas autarquias locais, pelas instituições particulares de solidariedade social e por pessoas colectivas de utilidade pública administrativa que prossigam fins assistenciais.\n\n6 - As formas de concretização dos apoios serão definidas em diploma regulamentar, consoante as modalidades de gestão referidas no número anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  },
+  "122397532": {
+   "fragment_id": "122393557",
+   "type": 11,
+   "heading": "Artigo 18.º — Sanções",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "###### Artigo 18.º — Sanções\n\n1 - Exceptuando as situações de justo impedimento ou força maior:\n\na) O incumprimento do disposto na alínea a) do artigo 17.º implica a suspensão da concretização do apoio;\n\nb) O incumprimento do previsto na alínea b) do artigo 17.º implica a prescrição do direito ao apoio;\n\nc) O incumprimento do disposto na alínea c) do artigo 17.º implica a cessação imediata do apoio e o reembolso à Região Autónoma dos Açores do montante do apoio já atribuído;\n\nd) O incumprimento do previsto na alínea d) do artigo 17.º implica a cessação do apoio ainda não concretizado e o reembolso à Região Autónoma dos Açores do valor correspondente ao dos trabalhos previstos e não executados, salvo se o referido incumprimento se ficou a dever a motivos tecnicamente comprovados e reconhecidos pelos serviços do departamento governamental competente;\n\ne) O incumprimento do previsto na alínea e) do artigo 17.º não só implica a desresponsabilização da Administração relativamente a qualquer defeito emergente da construção, como implica a perda imediata do direito ao apoio e, caso este já tenha sido concretizado, a sua devolução;\n\nf) O incumprimento do previsto nas alíneas f) e g) do artigo 17.º implica:\n\ni) A suspensão do montante relativo às fases ainda por atribuir;\n\nii) A devolução dos montantes adiantados, na medida do incumprimento verificado, acrescidos de 10%;\n\ng) O incumprimento do previsto na alínea h) do artigo 17.º implica:\n\ni) Caso o seguro não tenha sido constituído, o reembolso à Região Autónoma dos Açores do montante do apoio atribuído;\n\nii) Caso o seguro venha a ser cancelado durante o período de vigência do ónus de inalienabilidade, a suspensão do prazo de vigência do referido ónus, contada a partir da data do referido cancelamento;\n\nh) O incumprimento do previsto na alínea i) do artigo 17.º determina o reembolso integral do apoio atribuído à administração regional, acrescido de 10%.\n\n2 - A prestação culposa de falsas declarações nas candidaturas determina, sem prejuízo de comunicação às autoridades competentes para instauração do competente processo criminal:\n\na) Na fase de instrução, a exclusão das mesmas;\n\nb) Na fase compreendida entre a decisão e a concretização do subsídio, a extinção do direito ao mesmo;\n\nc) Após a concretização do subsídio, o reembolso do mesmo, acrescido de 10%.\n\n3 - O incumprimento de alguma das obrigações referidas no artigo 17.º, com excepção da alínea j) do n.º 1 do artigo anterior, implicará a impossibilidade do faltoso se candidatar a qualquer outro programa de apoio à habitação pelo período de cinco anos.\n\n4 - A prestação de falsas declarações implicará, ainda, a impossibilidade do declarante se candidatar a qualquer outro programa de apoio à habitação.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  },
+  "122397533": {
+   "fragment_id": "122393564",
+   "type": 14,
+   "heading": "Anexo I",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "## Anexo I\n\nOs limites máximos de rendimento a que se refere a alínea d) do n.º 1 do artigo 6.º são os seguintes (1): (ver documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  },
+  "122397534": {
+   "fragment_id": "122393565",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2009-12-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+   ],
+   "markdown": "## Anexo II\n\nAs classes de apoio referidas no n.º 1 do artigo 11.º são as seguintes:\n\n(ver quadro no documento original)\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 22/2009/A - Diário da República n.º 242/2009, Série I de 2009-12-16](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/22-2009-481969), em vigor a partir de 2009-12-21, produz efeitos a partir de 2009-12-17"
+  }
+ }
+}

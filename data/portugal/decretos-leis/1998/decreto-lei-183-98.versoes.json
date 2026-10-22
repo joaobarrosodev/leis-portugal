@@ -1,0 +1,1077 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:487540:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-808124998",
+ "dre_path": "/dr/detalhe/decreto-lei/183-1998-487540",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1998-07-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "808124898",
+    "808124899",
+    "808124900",
+    "808124901",
+    "808124902",
+    "808124904",
+    "808124905",
+    "808124906",
+    "808124907",
+    "808124908",
+    "808124909",
+    "808124910",
+    "808124911",
+    "808124912",
+    "808124913",
+    "808124914",
+    "808124915",
+    "808124916",
+    "808124917",
+    "808124918",
+    "808124919",
+    "808124920",
+    "808124921",
+    "808124922",
+    "808124923",
+    "808124924",
+    "808124925",
+    "808124926",
+    "808124927",
+    "808124928",
+    "808124929",
+    "808124930",
+    "808124931",
+    "808124932",
+    "808124933",
+    "808124934",
+    "808124935",
+    "808124936",
+    "808124937",
+    "808124938",
+    "808124939",
+    "808124940",
+    "808124941",
+    "808124942",
+    "808124943",
+    "808124944",
+    "808124945",
+    "808124946",
+    "808124947",
+    "808124948",
+    "808124949",
+    "808124950",
+    "808124951",
+    "808124952",
+    "808124953",
+    "808124954",
+    "808124955",
+    "808124956",
+    "808124957",
+    "808124958",
+    "808124959",
+    "808124960",
+    "808124961",
+    "808124962",
+    "808124963",
+    "808124964",
+    "808124965",
+    "808124966",
+    "808124967",
+    "808124968",
+    "808124969",
+    "808124970",
+    "808124971",
+    "808124972",
+    "808124973",
+    "808124974",
+    "808125375",
+    "808125376",
+    "808125377",
+    "808125378",
+    "808125379",
+    "808125380",
+    "808125381",
+    "808125382",
+    "808125383",
+    "808125384",
+    "808125385",
+    "808125386",
+    "808125387",
+    "808125388",
+    "808125389",
+    "808125390",
+    "808125391",
+    "808125392",
+    "808125393",
+    "808125394",
+    "808125395",
+    "808125396",
+    "808125397",
+    "808125398"
+   ]
+  },
+  {
+   "date": "2015-10-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70325351:por",
+     "title": "Lei n.º 159/2015",
+     "published": "2015-09-18",
+     "dre_path": "/dr/detalhe/lei/159-2015-70325351"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "808124898",
+    "808124899",
+    "808125436",
+    "808125437",
+    "808125438",
+    "808124903",
+    "808124904",
+    "808124905",
+    "808124906",
+    "808124907",
+    "808124908",
+    "808124909",
+    "808124910",
+    "808124911",
+    "808124912",
+    "808124913",
+    "808124914",
+    "808124915",
+    "808124916",
+    "808124917",
+    "808124918",
+    "808124919",
+    "808124920",
+    "808124921",
+    "808124922",
+    "808124923",
+    "808124924",
+    "808124925",
+    "808124926",
+    "808124927",
+    "808124928",
+    "808124929",
+    "808124930",
+    "808124931",
+    "808124932",
+    "808124933",
+    "808124934",
+    "808124935",
+    "808124936",
+    "808124937",
+    "808124938",
+    "808124939",
+    "808124940",
+    "808124941",
+    "808124942",
+    "808124943",
+    "808124944",
+    "808124945",
+    "808124946",
+    "808124947",
+    "808124948",
+    "808124949",
+    "808124950",
+    "808124951",
+    "808124952",
+    "808124953",
+    "808124954",
+    "808124955",
+    "808124956",
+    "808124957",
+    "808124958",
+    "808124959",
+    "808124960",
+    "808124961",
+    "808124962",
+    "808124963",
+    "808124964",
+    "808124965",
+    "808124966",
+    "808124967",
+    "808124968",
+    "808124969",
+    "808124970",
+    "808124971",
+    "808124972",
+    "808124973",
+    "808124974",
+    "808125375",
+    "808125376",
+    "808125377",
+    "808125378",
+    "808125379",
+    "808125380",
+    "808125381",
+    "808125382",
+    "808125383",
+    "808125384",
+    "808125385",
+    "808125386",
+    "808125387",
+    "808125388",
+    "808125389",
+    "808125390",
+    "808125391",
+    "808125392",
+    "808125393",
+    "808125394",
+    "808125395",
+    "808125396",
+    "808125397",
+    "808125398"
+   ]
+  }
+ ],
+ "fragments": {
+  "808124898": {
+   "fragment_id": "808124999",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 183/98\n\nde 4 de Julho\n\nO actual desenvolvimento extremamente rápido da ciência e das técnicas biológicas constitui, ao mesmo tempo, fonte de perspectivas admiráveis de progresso humano e de riscos acrescidos para a preservação de todos os seres vivos, em geral, e do homem, em particular.\n\nA profissão de biólogo justifica, assim, a criação de uma associação profissional de direito público e deve ser objecto de especial regulamentação, que defina com clareza os princípios que a devem nortear, estabeleça os requisitos de acesso ao exercício profissional e determine as regras disciplinares aplicáveis. O presente decreto-lei, ao criar a Ordem dos Biólogos, através da transformação da APB - Associação Portuguesa de Biólogos, associação de direito privado, vem ao encontro dessa exigência.\n\nSem nunca perder de vista a natureza mista das associações públicas profissionais - pública, enquanto prossegue atribuições públicas relativas ao exercício de profissões onde o interesse público está especialmente patente, privada, porque associação representativa dos profissionais inscritos -, a elaboração do Estatuto da Ordem dos Biólogos procurou conciliar as propostas apresentadas pelos representantes da profissão com os imperativos decorrentes do actual quadro constitucional português.\n\nEntre os aspectos mais significativos da regulamentação a que agora se procede, cumpre assinalar o reforço da descentralização organizativa e, bem assim, da separação entre órgãos executivos e disciplinares, a abertura à criação de áreas de especialização, a definição do núcleo essencial de regras de deontologia profissional, a previsão das regras sobre processo disciplinar, a consagração do referendo interno como instrumento de aprovação ou de ratificação pela profissão de decisões particularmente relevantes e, de uma maneira geral, todo o enquadramento relativo ao exercício da profissão de biólogo.\n\nFoi ouvida a Associação Portuguesa de Biólogos.\n\nAssim, no uso da autorização legislativa concedida pela Lei n.º 120/97, de 13 de Novembro, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei aplicável em todo o território nacional, o seguinte:"
+  },
+  "808124899": {
+   "fragment_id": "808125000",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - É criada a Ordem dos Biólogos, doravante designada Ordem, cujo Estatuto se publica em anexo ao presente decreto-lei, do qual faz parte integrante.\n\n2 - A Ordem resulta da transformação da actual APB - Associação Portuguesa de Biólogos, associação de direito privado, em associação de direito público."
+  },
+  "808124900": {
+   "fragment_id": "808125001",
+   "type": 11,
+   "heading": "Artigo 2.º — Instalação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Instalação\n\n1 - Compete à direcção da APB - Associação Portuguesa de Biólogos, abreviadamente designada direcção, proceder à instalação da Ordem, para o que:\n\na) Prepara os regulamentos internos necessários ao funcionamento da Ordem;\n\nb) Promove a inscrição dos biólogos;\n\nc) Prepara os actos eleitorais para os órgãos nacionais e regionais da Ordem;\n\nd) Confere posse ao bastonário que for eleito;\n\ne) Realiza os demais actos necessários à instalação e normal funcionamento da Ordem;\n\nf) Presta contas do mandato exercido.\n\n2 - A aplicação do novo Estatuto não prejudica a inscrição automática na Ordem dos actuais membros da APB - Associação Portuguesa de Biólogos, inscritos ao abrigo das disposições estatutárias respectivas, desde que reúnam as habilitações legalmente exigidas.\n\n3 - Na execução dos actos de instalação, a direcção rege-se, com as necessárias adaptações, pelo regime previsto no Estatuto anexo ao presente diploma.\n\n4 - O período de instalação não pode exceder o prazo de um ano a contar da data da entrada em vigor do presente diploma, cessando com a investidura dos órgãos nacionais da Ordem.\n\n5 - O termo do período de instalação requer uma declaração formal pública da direcção da Ordem."
+  },
+  "808124901": {
+   "fragment_id": "808125002",
+   "type": 11,
+   "heading": "Artigo 3.º — Eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Eleições\n\nAs eleições para os órgãos da Ordem devem estar concluídas até nove meses após a entrada em vigor do presente decreto-lei."
+  },
+  "808124902": {
+   "fragment_id": "808125003",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Regime de transição\n\n1 - A Ordem sucede nas situações jurídicas activas e passivas da APB - Associação Portuguesa de Biólogos.\n\n2 - A Ordem pode, por convénio a celebrar com outras instituições, suceder nos direitos e obrigações de que estas sejam titulares."
+  },
+  "808124904": {
+   "fragment_id": "808125005",
+   "type": 14,
+   "heading": "Anexo — ESTATUTO DA ORDEM DOS BIÓLOGOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — ESTATUTO DA ORDEM DOS BIÓLOGOS"
+  },
+  "808124905": {
+   "fragment_id": "808125006",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "808124906": {
+   "fragment_id": "808125007",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza e sede\n\n1 - A Ordem dos Biólogos, abreviadamente designada por Ordem, é a associação pública representativa dos licenciados no domínio das ciências biológicas ou equiparados legais que, nos termos do presente Estatuto, exercem a profissão de biólogos.\n\n2 - A Ordem tem sede em Lisboa."
+  },
+  "808124907": {
+   "fragment_id": "808125008",
+   "type": 11,
+   "heading": "Artigo 2.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Atribuições\n\n1 - A Ordem desenvolve a sua actividade no sentido de assegurar a defesa e promoção da profissão de biólogo, a melhoria e progresso da Biologia nos domínios científico, pedagógico, técnico e profissional, a salvaguarda dos princípios deontológicos que norteiam a profissão de biólogo e de proteger os interesses profissionais dos seus membros e os interesses públicos relacionados com a prestação profissional dos biólogos.\n\n2 - Incumbe, em especial, à Ordem:\n\na) Promover o desenvolvimento e bem-estar da sociedade através da salvaguarda do adequado exercício da profissão de biólogo, nomeadamente no que respeita à qualidade de vida e do ambiente;\n\nb) Representar os biólogos perante quaisquer entidades públicas ou privadas, nacionais ou estrangeiras;\n\nc) Zelar pela adequada habilitação profissional dos biólogos, pela sua função social, dignidade e prestígio e pelo respeito dos princípios deontológicos da profissão;\n\nd) Emitir a cédula profissional de biólogo;\n\ne) Exercer a jurisdição disciplinar sobre os biólogos;\n\nf) Colaborar com as instituições responsáveis pelo ensino da Biologia, emitindo parecer, sempre que solicitado, sobre os respectivos planos de curso;\n\ng) Regular a profissão através da adopção das medidas necessárias ao adequado exercício profissional;\n\nh) Emitir parecer sobre os projectos de diplomas legislativos relacionados com as suas atribuições;\n\ni) Fomentar a harmonia, colaboração e solidariedade entre os biólogos, pela promoção do contacto e da troca de informação entre eles, através de encontros, reuniões e publicações;\n\nj) Empreender acções de formação e de informação que visem a definição, promoção e desenvolvimento da actividade profissional dos biólogos, do seu papel na sociedade, do ensino e formação em Biologia ou de qualquer aspecto no domínio das ciências biológicas;\n\nl) Promover e manter relações entre biólogos portugueses e estrangeiros e entre a Ordem e as instituições equivalentes de outros países, nomeadamente através da sua filiação em quaisquer organizações relacionadas com a Biologia ou a profissão de biólogo;\n\nm) Intervir publicamente em assuntos e acontecimentos de ordem nacional ou internacional que digam respeito aos biólogos e à Biologia."
+  },
+  "808124908": {
+   "fragment_id": "808125009",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito\n\n1 - A Ordem tem âmbito nacional, sem prejuízo da desenvolvimento e prossecução, ao nível regional, das atribuições daquela.\n\n2 - As delegações regionais são as seguintes:\n\na) Delegação Regional do Norte, com sede no Porto, compreendendo as áreas correspondentes aos distritos de Braga, Bragança, Porto, Viana do Castelo e Vila Real;\n\nb) Delegação Regional do Centro, com sede em Coimbra, compreendendo as áreas correspondentes aos distritos de Aveiro, Castelo Branco, Coimbra, Guarda, Leiria e Viseu;\n\nc) Delegação Regional de Lisboa e Vale do Tejo, com sede em Lisboa, compreendendo as áreas correspondentes aos distritos de Lisboa, Santarém e Setúbal;\n\nd) Delegação Regional do Alentejo, com sede em Évora, compreendendo as áreas correspondentes aos distritos de Beja, Évora e Portalegre;\n\ne) Delegação Regional do Algarve, com sede em Faro, compreendendo a área correspondente ao distrito de Faro;\n\nf) Delegação Regional da Madeira, com sede no Funchal, compreendendo as áreas correspondentes a todos os concelhos da Região Autónoma da Madeira;\n\ng) Delegação Regional dos Açores, com sede em Ponta Delgada, compreendendo as áreas correspondentes a todos os concelhos da Região Autónoma dos Açores."
+  },
+  "808124909": {
+   "fragment_id": "808125010",
+   "type": 11,
+   "heading": "Artigo 4.º — Insígnias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Insígnias\n\nA Ordem tem direito a adoptar e a usar símbolo, estandarte e selo próprios, conforme modelo aprovado em assembleia geral, mediante proposta do conselho nacional."
+  },
+  "808124910": {
+   "fragment_id": "808125011",
+   "type": 11,
+   "heading": "Artigo 5.º — Representação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Representação\n\n1 - A Ordem é representada, em juízo e fora dele, pelo bastonário ou pelos presidentes dos conselhos regionais, quando estiverem em causa actos ou assuntos da responsabilidade das respectivas delegações regionais.\n\n2 - A Ordem pode constituir-se assistente, para defesa dos direitos ou interesses profissionais dos biólogos."
+  },
+  "808124911": {
+   "fragment_id": "808125012",
+   "type": 1,
+   "heading": "Capítulo II — Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Membros"
+  },
+  "808124912": {
+   "fragment_id": "808125013",
+   "type": 11,
+   "heading": "Artigo 6.º — Espécies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Espécies\n\nA Ordem tem membros efectivos, graduados, estudantes e honorários."
+  },
+  "808124913": {
+   "fragment_id": "808125014",
+   "type": 11,
+   "heading": "Artigo 7.º — Membros efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Membros efectivos\n\n1 - Podem ser membros efectivos da Ordem aqueles que exerçam a sua profissão em Portugal, preenchendo, cumulativamente, os seguintes requisitos:\n\na) Grau académico mínimo de licenciatura, obtido por frequência de ensino superior no domínio das ciências biológicas junto de qualquer instituição de ensino superior portuguesa ou estrangeira, reconhecido oficialmente em Portugal, cujo conteúdo biológico não seja inferior a metade do total do tempo de formação e que cubra vários dos níveis de organização da matéria viva;\n\nb) Formação académica e experiência profissional de duração total não inferior a seis anos;\n\nc) Experiência profissional como biólogo de duração não inferior a um ano.\n\n2 - Podem também ser admitidos como membros efectivos da Ordem os portugueses ou estrangeiros que, pela lei portuguesa ou convenção internacional, detenham habilitações consideradas equivalentes às do número anterior.\n\n3 - A admissão de nacionais dos Estados membros da União Europeia depende apenas da verificação dos requisitos previstos na Directiva do Conselho n.º 89/48/CEE e do respectivo diploma de transposição.\n\n4 - A Ordem é a autoridade competente para a verificação da observância dos requisitos a que se refere o número anterior."
+  },
+  "808124914": {
+   "fragment_id": "808125015",
+   "type": 11,
+   "heading": "Artigo 8.º — Membros graduados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Membros graduados\n\n1 - Podem ser membros graduados da Ordem os portugueses ou os estrangeiros que se proponham exercer em Portugal a profissão de biólogo e preencham os equisitos da alínea a) do n.º 1 do artigo anterior, mas não os requisitos das alíneas b) e c) do mesmo número.\n\n2 - À inscrição dos membros graduados aplica-se, com as necessárias adaptações, o regime previsto nos n.os 2 e 3 do artigo anterior."
+  },
+  "808124915": {
+   "fragment_id": "808125016",
+   "type": 11,
+   "heading": "Artigo 9.º — Membros estudantes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Membros estudantes\n\nPodem ser membros estudantes da Ordem os portugueses ou estrangeiros que frequentem, numa instituição portuguesa de ensino superior, um curso de licenciatura tal como definido na alínea a) do n.º 1 do artigo 7.º"
+  },
+  "808124916": {
+   "fragment_id": "808125017",
+   "type": 11,
+   "heading": "Artigo 10.º — Membros honorários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Membros honorários\n\nPodem ser membros honorários da Ordem as pessoas singulares ou colectivas, nacionais ou estrangeiras, a quem seja atribuída essa qualidade, em função de relevante contributo para o desenvolvimento da Biologia ou da profissão de biólogo."
+  },
+  "808124917": {
+   "fragment_id": "808125018",
+   "type": 11,
+   "heading": "Artigo 11.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inscrição\n\n1 - À inscrição como membro efectivo ou graduado corresponde a emissão de, respectivamente, cédula profissional ou cédula profissional provisória.\n\n2 - Cabe recurso para a assembleia geral das decisões do conselho directivo que recusem a inscrição como membro efectivo, graduado ou estudante.\n\n3 - A nomeação de membros honorários é sujeita a aprovação da assembleia geral, mediante proposta fundamentada do conselho directivo e parecer favorável do conselho nacional.\n\n4 - Os membros graduados que venham a obter as qualificações necessárias à inscrição como membros efectivos devem requerer a mudança de categoria ao conselho directivo, produzindo prova dessas qualificações.\n\n5 - Os membros estudantes que concluam a sua licenciatura e aqueles que abandonem os estudos sem conclusão da licenciatura devem comunicar tais circunstâncias ao conselho directivo para efeitos de, respectivamente, requererem a mudança de categoria ou a perda da qualidade de membro."
+  },
+  "808124918": {
+   "fragment_id": "808125019",
+   "type": 11,
+   "heading": "Artigo 12.º — Incompatibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Incompatibilidades\n\nNão se podem inscrever ou manter a sua inscrição na Ordem aqueles que, nos termos da lei, se encontrem em situação de incompatibilidade com o exercício da profissão de biólogo."
+  },
+  "808124919": {
+   "fragment_id": "808125020",
+   "type": 11,
+   "heading": "Artigo 13.º — Exclusão e suspensão de membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exclusão e suspensão de membros\n\n1 - Perdem a qualidade de membros da Ordem aqueles que se demitirem.\n\n2 - É suspensa a inscrição na Ordem daqueles que:\n\na) O requererem;\n\nb) Sejam punidos, na sequência de processo disciplinar, com a pena de suspensão;\n\nc) Estejam em situação incompatível com o exercício da profissão de biólogo."
+  },
+  "808124920": {
+   "fragment_id": "808125021",
+   "type": 11,
+   "heading": "Artigo 14.º — Direitos dos biólogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Direitos dos biólogos\n\nConstituem direitos dos biólogos:\n\na) Exercer a sua profissão em qualquer região do território nacional;\n\nb) Requerer a emissão de cédula profissional ou outros documentos comprovativos da sua habilitação para o exercício da profissão de biólogo;\n\nc) Eleger os membros dos órgãos da Ordem, nos termos do disposto no n.º 1 do artigo 26.º;\n\nd) Ser eleitos para membro dos órgãos da Ordem, nos termos do disposto no artigo 20.º;\n\ne) Beneficiar de todos os serviços e regalias prestados pela Ordem e ser informado da actividade desenvolvida pela mesma;\n\nf) Participar nas actividades da Ordem;\n\ng) Solicitar a intervenção da Ordem na defesa dos seus direitos e interesses profissionais;\n\nh) Reclamar e recorrer das deliberações e decisões dos órgãos da Ordem."
+  },
+  "808124921": {
+   "fragment_id": "808125022",
+   "type": 1,
+   "heading": "Capítulo III — Deontologia profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Deontologia profissional"
+  },
+  "808124922": {
+   "fragment_id": "808125023",
+   "type": 11,
+   "heading": "Artigo 15.º — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Princípios gerais\n\n1 - O biólogo deve respeito à vida, sob todas as suas formas, e deve estar empenhado no desenvolvimento e bem-estar da sociedade, nomeadamente no que respeita à influência da sua actividade profissional na qualidade de vida, ambiente e segurança.\n\n2 - No desempenho da sua actividade profissional o biólogo deve usar da máxima responsabilidade, dedicação e espírito de cooperação, deve demonstrar interesse pelos assuntos relacionados com a profissão, deve zelar para que a divulgação desses assuntos seja correcta e eficaz e deve encarar o contínuo aperfeiçoamento da sua profissão como um instrumento indispensável para o exercício profissional.\n\n3 - O biólogo não deve nunca renunciar à sua liberdade e independência profissional nem deixar que a sua actividade técnica, científica ou pedagógica seja norteada por pontos de vista ou objectivos alheios à sua profissão e deve, no exercício desta, apoiar-se constantemente nos seus conhecimentos científicos, na deontologia e no respeito dos direitos colectivos e individuais.\n\n4 - O biólogo está sujeito a deveres e obrigações para com a sociedade, a Ordem, os utentes dos seus serviços e para com os outros biólogos.\n\n5 - As regras deontológicas dos biólogos são objecto de desenvolvimento pelo código deontológico do biólogo, a aprovar pela assembleia geral, mediante proposta do conselho profissional e deontológico."
+  },
+  "808124923": {
+   "fragment_id": "808125024",
+   "type": 11,
+   "heading": "Artigo 16.º — Deveres deontológicos para com a sociedade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Deveres deontológicos para com a sociedade\n\n1 - Sem prejuízo do código deontológico do biólogo, de harmonia com o mesmo, constituem deveres do biólogo para com a sociedade:\n\na) Manter os seus conhecimentos científicos e técnicos permanente e empenhadamente actualizados, acompanhando o constante desenvolvimento da Biologia;\n\nb) Intervir activamente nos sectores sociais para os quais é directamente pertinente a sua actividade profissional específica;\n\nc) Exercer toda a actividade de investigação científica com o máximo sentido de responsabilidade;\n\nd) Estar atento à protecção e bem-estar dos animais experimentais, ponderando o número de indivíduos envolvidos, a relevância dos objectivos a alcançar, o sofrimento envolvido e a existência de alternativas, e garantir condições adequadas de utilização de animais experimentais;\n\ne) Ter um papel activo na aplicação correcta e ética dos avanços científicos e técnicos da sua área de especialidade e no aconselhamento de decisores com responsabilidades na regulamentação de matérias do seu conhecimento específico;\n\nf) Zelar para que os avanços científicos e técnicos contribuam para uma melhoria da qualidade de vida e respeitem o equilíbrio dos seres vivos com o ambiente e manter-se empenhado na preservação da biodiversidade em maior segurança através do uso sustentável dos recursos naturais;\n\ng) Exigir que a aplicação de novas tecnologias sobre os seres vivos e o ambiente seja precedida de avaliação aprofundada e criteriosa e seja compatível com a integridade e equilíbrio dos mesmos, recusando-a em caso contrário;\n\nh) Respeitar a evolução e individualidade dos seres vivos, em particular face a alteração intencional de genótipo ou da sua expressão, fazendo-a preceder de adequado debate, pesquisa e avaliação científica e ética;\n\ni) Ser prudente e exacto na transmissão de resultados e conhecimentos científicos, não falseando nunca os mesmos;\n\nj) Guardar e fazer guardar o segredo profissional.\n\n2 - O segredo profissional a que se refere a alínea j) do n.º 1 abrange tudo aquilo de que o biólogo possa ter conhecimento por motivo da sua actividade profissional ou de desempenho de cargo na Ordem e cuja divulgação possa ser potencialmente lesiva de terceiros e apenas cessa quando:\n\na) A lei o imponha ou o interessado o autorize expressamente;\n\nb) O conselho profissional e deontológico reconheça que a defesa da dignidade, direitos e interesses e deontologia profissional o impõem."
+  },
+  "808124924": {
+   "fragment_id": "808125025",
+   "type": 11,
+   "heading": "Artigo 17.º — Deveres para com a Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deveres para com a Ordem\n\nSão deveres do biólogo para com a Ordem:\n\na) Contribuir pelas formas ao seu alcance para o prestígio da Ordem e para a independência, dignidade e boa reputação da profissão de biólogo;\n\nb) Cumprir e fazer cumprir as regras consignadas no presente Estatuto, no código deontológico do biólogo e em quaisquer outros regulamentos da Ordem;\n\nc) Respeitar os órgãos da Ordem e cumprir as decisões e deliberações dos mesmos;\n\nd) Desempenhar com dedicação os cargos da Ordem para que seja eleito ou designado, colaborando na prossecução das suas atribuições;\n\ne) Participar sempre que possível nas assembleias gerais e regionais, bem como nas diversas iniciativas da Ordem;\n\nf) Pagar regularmente as quotas e outros valores devidos à Ordem;\n\ng) Comunicar, no prazo máximo de 30 dias úteis, as alterações de domicílio ou qualquer outra alteração relevante relacionada com a sua vida profissional."
+  },
+  "808124925": {
+   "fragment_id": "808125026",
+   "type": 11,
+   "heading": "Artigo 18.º — Deveres recíprocos dos biólogos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Deveres recíprocos dos biólogos\n\nSem prejuízo do código deontológico do biólogo, constituem deveres dos biólogos nas suas relações recíprocas:\n\na) Manter relações de cordialidade, tornando a divergência de opiniões uma fonte de progresso profissional, pelo conhecimento mútuo dos fundamentos da opinião alheia;\n\nb) Encarar os conflitos profissionais com lealdade e correcção, no respeito cabal da reputação de cada biólogo;\n\nc) Ser solidário com qualquer colega injustamente ofendido na sua actividade, dignidade ou imagem profissional;\n\nd) Não prejudicar os direitos profissionais dos colegas, não aceitando actividades profissionais atribuídas a outro biólogo nem incrementando a sua própria actividade, sempre que isso implique uma concorrência desleal e ilícita;\n\ne) Não se apropriar indevidamente de dados ou resultados da actividade alheia;\n\nf) Zelar pela justa remuneração dos biólogos que consigo colaborem;\n\ng) Promover a actualização, desenvolvimento e aperfeiçoamento próprio e dos demais biólogos na área científica e técnica de sua formação principal."
+  },
+  "808124926": {
+   "fragment_id": "808125027",
+   "type": 1,
+   "heading": "Capítulo IV — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Órgãos"
+  },
+  "808124927": {
+   "fragment_id": "808125028",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "808124928": {
+   "fragment_id": "808125029",
+   "type": 11,
+   "heading": "Artigo 19.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Órgãos\n\nSão órgãos da Ordem:\n\na) O congresso nacional;\n\nb) A assembleia geral;\n\nc) O conselho nacional;\n\nd) O conselho profissional e deontológico;\n\ne) O conselho directivo;\n\nf) O bastonário;\n\ng) O conselho fiscal;\n\nh) As assembleias regionais;\n\ni) Os conselhos regionais."
+  },
+  "808124929": {
+   "fragment_id": "808125030",
+   "type": 11,
+   "heading": "Artigo 20.º — Condições de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Condições de elegibilidade\n\n1 - Só podem ser eleitos para órgãos da Ordem os membros efectivos, ou honorários que tenham sido efectivos, com inscrição em vigor e sem punição de carácter disciplinar mais grave que a advertência.\n\n2 - Só podem ser eleitos para o cargo de bastonário os biólogos com, pelo menos, 10 anos de exercício profissional."
+  },
+  "808124930": {
+   "fragment_id": "808125031",
+   "type": 11,
+   "heading": "Artigo 21.º — Duração dos mandatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Duração dos mandatos\n\nOs titulares dos órgãos da Ordem são eleitos ou designados para mandatos de três anos."
+  },
+  "808124931": {
+   "fragment_id": "808125032",
+   "type": 11,
+   "heading": "Artigo 22.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Apresentação das candidaturas\n\n1 - A eleição para os órgãos da Ordem depende da apresentação de candidaturas ao presidente da mesa da assembleia geral ou aos presidentes das assembleias regionais, consoante se trate de eleições para órgãos nacionais ou regionais.\n\n2 - O prazo para apresentação das candidaturas, as quais são individualizadas para cada órgão, termina a 30 de Novembro do ano imediatamente anterior ao início do triénio subsequente.\n\n3 - As candidaturas são subscritas por um míninio de 50 ou 20 biólogos com inscrição em vigor, respectivamente no caso de candidaturas para órgãos nacionais ou regionais.\n\n4 - As candidaturas devem conter a identificação dos biólogos subscritores e dos candidatos, a indicação dos candidatos a cada órgão e o respectivo programa de acção."
+  },
+  "808124932": {
+   "fragment_id": "808125033",
+   "type": 11,
+   "heading": "Artigo 23.º — Data das eleições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Data das eleições\n\nAs eleições para os órgãos nacionais e regionais da Ordem realizam-se, respectivamente, até ao final do mês de Março, na reunião ordinária da assembleia geral ou da assembleia regional do ano a que dizem respeito."
+  },
+  "808124933": {
+   "fragment_id": "808125034",
+   "type": 11,
+   "heading": "Artigo 24.º — Comissão eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comissão eleitoral\n\n1 - Com a marcação da data das eleições é designada uma comissão eleitoral, com os seguintes membros:\n\na) O bastonário, que preside;\n\nb) Um representante do conselho nacional;\n\nc) Um representante do conselho fiscal;\n\nd) Um dos vice-presidentes da mesa da assembleia geral.\n\n2 - À comissão eleitoral compete:\n\na) Confirmar a correcção dos ficheiros de inscritos e mandar afixar os cadernos eleitorais;\n\nb) Apreciar reclamações sobre os cadernos eleitorais;\n\nc) Verificar a regularidade das candidaturas;\n\nd) Promover a fiscalização do processo eleitoral;\n\ne) Decidir sobre reclamações no processo eleitoral.\n\n3 - Dos actos da comissão eleitoral cabe recurso para o conselho nacional."
+  },
+  "808124934": {
+   "fragment_id": "808125035",
+   "type": 11,
+   "heading": "Artigo 25.º — Assembleia geral eleitoral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Assembleia geral eleitoral\n\n1 - A assembleia geral eleitoral funciona em secções de voto, uma em cada delegação regional, assumindo as mesas das assembleias regionais as funções de mesas de voto.\n\n2 - A convocatória da assembleia geral eleitoral fixa o horário de funcionamento das secções de voto por período não inferior a seis horas."
+  },
+  "808124935": {
+   "fragment_id": "808125036",
+   "type": 11,
+   "heading": "Artigo 26.º — Direito de voto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Direito de voto\n\n1 - Só têm direito de voto os membros efectivos, graduados ou os honorários que tenham sido efectivos ou graduados, com inscrição em vigor e no pleno exercício dos seus direitos.\n\n2 - O voto é secreto, podendo ser exercido pessoalmente ou por correspondência.\n\n3 - No caso de voto por correspondência, o boletim de voto é encerrado em sobrescrito sem qualquer inscrição exterior e é acompanhado de carta com o nome e assinatura do votante e de fotocópia do bilhete de identidade, encerrado em outro sobrescrito, o qual é endereçado à mesa da assembleia respectiva de modo a ser por ela recebido com uma antecedência de pelo menos setenta e duas horas em relação à hora de início da assembleia eleitoral."
+  },
+  "808124936": {
+   "fragment_id": "808125037",
+   "type": 11,
+   "heading": "Artigo 27.º — Renúncia e suspensão de mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Renúncia e suspensão de mandato\n\nPor motivo de força maior devidamente fundamentado, pode qualquer membro de órgão da Ordem solicitar ao conselho nacional a aceitação da sua renúncia ou suspensão do mandato por um período nunca superior a seis meses."
+  },
+  "808124937": {
+   "fragment_id": "808125038",
+   "type": 11,
+   "heading": "Artigo 28.º — Caducidade do mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Caducidade do mandato\n\nO mandato de qualquer membro de órgão da Ordem caduca quando se torne definitiva a decisão proferida em processo disciplinar que determine a aplicação de pena superior à de advertência."
+  },
+  "808124938": {
+   "fragment_id": "808125039",
+   "type": 11,
+   "heading": "Artigo 29.º — Substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Substituição\n\n1 - Em caso de renúncia ou caducidade do mandato do presidente de órgão da Ordem deve o respectivo órgão, na reunião ordinária subsequente, eleger de entre os seus membros um novo presidente.\n\n2 - No caso de renúncia ou caducidade do mandato por motivo disciplinar, doença ou morte, de outro membro de órgão da Ordem, o respectivo órgão elege um novo membro.\n\n3 - Nos casos previstos nos números anteriores, os substitutos exercem funções até ao termo do mandato do respectivo antecessor."
+  },
+  "808124939": {
+   "fragment_id": "808125040",
+   "type": 8,
+   "heading": "Secção II — Congresso nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Congresso nacional"
+  },
+  "808124940": {
+   "fragment_id": "808125041",
+   "type": 11,
+   "heading": "Artigo 30.º — Composição e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Composição e competências\n\n1 - O congresso nacional é um órgão de carácter consultivo constituído por todos os membros da Ordem e por quaisquer outras pessoas que, satisfazendo aos requisitos fixados no seu regulamento, nele se inscrevam.\n\n2 - O congresso nacional é organizado pelo conselho directivo em conjunto com o conselho regional da área onde o mesmo tem lugar.\n\n3 - Compete ao congresso nacional:\n\na) Pronunciar-se sobre o exercício da profissão de biólogo, seu estatuto e seus direitos, deveres e garantias;\n\nb) Pronunciar-se sobre quaisquer questões de natureza científica, técnica e pedagógica no âmbito da Biologia;\n\nc) Aprovar recomendações de carácter associativo e profissional."
+  },
+  "808124941": {
+   "fragment_id": "808125042",
+   "type": 11,
+   "heading": "Artigo 31.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Reuniões\n\n1 - O congresso nacional reúne ordinariamente de três em três anos e extraordinariamente quando for convocado pelo conselho directivo, por sua iniciativa ou a solicitação do conselho nacional.\n\n2 - O congresso nacional reúne, preferencialmente, de forma alternada em cada uma das áreas correspondentes às delegações regionais da Ordem."
+  },
+  "808124942": {
+   "fragment_id": "808125043",
+   "type": 11,
+   "heading": "Artigo 32.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Funcionamento\n\nO congresso nacional é presidido pelo bastonário e funciona nos termos do regulamento aprovado pelo conselho directivo, mediante parecer do conselho nacional."
+  },
+  "808124943": {
+   "fragment_id": "808125044",
+   "type": 8,
+   "heading": "Secção III — Assembleia geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Assembleia geral"
+  },
+  "808124944": {
+   "fragment_id": "808125045",
+   "type": 11,
+   "heading": "Artigo 33.º — Composição e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Composição e competências\n\n1 - A assembleia geral é constituída por todos os membros da Ordem com a inscrição em vigor.\n\n2 - Compete à assembleia geral:\n\na) Eleger e destituir a respectiva mesa, o bastonário, o conselho directivo e o conselho fiscal;\n\nb) Fiscalizar a acção dos restantes órgãos da Ordem;\n\nc) Deliberar sobre propostas de alteração ao Estatuto e aprovar ou alterar regulamentos internos e velar pelo seu cumprimento;\n\nd) Aprovar, rever e alterar o código deontológico do biólogo;\n\ne) Fixar e rever o montante das quotas e das taxas de emissão ou renovação das cédulas profissionais;\n\nf) Apreciar os relatórios de actividades e de contas apresentados pelo conselho directivo referentes ao ano findo;\n\ng) Apreciar o programa de acção e o orçamento apresentado pelo conselho directivo para o ano em curso;\n\nh) Apreciar propostas de nomeação de membros honorários, apresentadas pelo conselho directivo e com parecer do conselho nacional;\n\ni) Julgar os recursos das deliberações de outros órgãos da Ordem que lhe sejam presentes;\n\nj) Deliberar sobre todos os assuntos que não se insiram na competência de outros órgãos da Ordem e que estes decidam submeter-lhe."
+  },
+  "808124945": {
+   "fragment_id": "808125046",
+   "type": 11,
+   "heading": "Artigo 34.º — Mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Mesa\n\n1 - A mesa da assembleia geral é constituída por um presidente, dois vice-presidentes e dois secretários.\n\n2 - Compete à mesa convocar as reuniões da assembleia geral, dirigir e orientar os seus trabalhos e dar posse aos eleitos para os cargos da Ordem."
+  },
+  "808124946": {
+   "fragment_id": "808125047",
+   "type": 11,
+   "heading": "Artigo 35.º — Reuniões ordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Reuniões ordinárias\n\n1 - A assembleia geral reúne ordinariamente para apreciação do relatório e contas do ano findo, para apreciação do programa e orçamento para o ano em curso, e para eleição do bastonário, da mesa da assembleia geral, do conselho directivo e do conselho fiscal, nos anos em que tal deva ocorrer.\n\n2 - A assembleia geral para a eleição dos órgãos nacionais funciona nos termos previstos nos artigos 23.º, 25.º e 26.º do presente Estatuto.\n\n3 - A assembleia geral reúne em sessão ordinária uma vez por ano, antes do final do mês de Março."
+  },
+  "808124947": {
+   "fragment_id": "808125048",
+   "type": 11,
+   "heading": "Artigo 36.º — Reuniões extraordinárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Reuniões extraordinárias\n\n1 - A assembleia geral reúne extraordinariamente sempre que necessário para exercer as suas competências.\n\n2 - As sessões extraordinárias são convocadas pela mesa da assembleia geral por sua própria iniciativa, ou a pedido do conselho directivo, do conselho nacional, do conselho fiscal ou de um míninio de 10% dos biólogos com inscrição em vigor e no pleno uso dos seus direitos."
+  },
+  "808124948": {
+   "fragment_id": "808125049",
+   "type": 11,
+   "heading": "Artigo 37.º — Convocatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Convocatória\n\n1 - As reuniões da assembleia geral são convocadas pelo presidente da respectiva mesa por meio de anúncios publicados em dois jornais diários de grande circulação com uma antecedência mínima de 30 dias em relação à data designada para a reunião.\n\n2 - Da convocatória constarão a ordem de trabalhos, o carácter ordinário ou extraordinário da reunião e o local, data e hora da sua realização.\n\n3 - No caso de assembleia geral para eleição dos órgãos nacionais da Ordem, os boletins de voto para eventual votação por correspondência devem ser enviados com a convocatória a todos os membros, a qual fixará o horário de funcionamento das secções de voto."
+  },
+  "808124949": {
+   "fragment_id": "808125050",
+   "type": 11,
+   "heading": "Artigo 38.º — Votação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Votação\n\n1 - É permitido o voto por procuração passada a favor de membro com a inscrição em vigor.\n\n2 - A procuração constará de carta dirigida à mesa da assembleia geral, com assinatura do mandante e acompanhada de fotocópia do respectivo bilhete de identidade, na qual se expresse claramente o nome do membro que exercerá a representação.\n\n3 - Cada membro presente à assembleia geral não poderá exercer representação de mais de cinco membros ausentes.\n\n4 - As deliberações da assembleia geral são tomadas por maioria absoluta dos votos validamente expressos."
+  },
+  "808124950": {
+   "fragment_id": "808125051",
+   "type": 8,
+   "heading": "Secção IV — Conselho nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Conselho nacional"
+  },
+  "808124951": {
+   "fragment_id": "808125052",
+   "type": 11,
+   "heading": "Artigo 39.º — Composição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Composição e competência\n\n1 - O conselho nacional é o órgão consultivo da Ordem e é constituído pelo bastonário, pelo presidente da mesa da assembleia geral, pelo presidente do conselho fiscal, pelos presidentes dos conselhos regionais, pelos antigos bastonários e por três membros eleitos em assembleia geral.\n\n2 - O conselho nacional é presidido pelo bastonário e elege de entre os seus membros um vice-presidente e um secretário na primeira reunião de cada mandato.\n\n3 - Compete ao conselho nacional:\n\na) Emitir parecer sobre qualquer assunto a respeito do qual seja consultado pelos outros órgãos da Ordem e nomeadamente sobre a atribuição do título de membro honorário;\n\nb) Julgar os recursos das deliberações do conselho profissional e deontológico, do conselho directivo e dos actos da comissão eleitoral;\n\nc) Deliberar sobre os pedidos de escusa, renúncia ou suspensão temporária de membros dos órgãos da Ordem;\n\nd) Aconselhar o conselho directivo sobre acções, medidas e questões que considere oportunas para a Ordem;\n\ne) Solicitar à mesa da assembleia geral a convocação de reunião extraordinária, sempre que o entenda necessário;\n\nf) Elaborar e aprovar o seu próprio regulamento;\n\ng) Exercer as demais competências que lhe sejam atribuídas pelo presente Estatuto e regulamentos da Ordem."
+  },
+  "808124952": {
+   "fragment_id": "808125053",
+   "type": 8,
+   "heading": "Secção V — Conselho profissional e deontológico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Conselho profissional e deontológico"
+  },
+  "808124953": {
+   "fragment_id": "808125054",
+   "type": 11,
+   "heading": "Artigo 40.º — Composição e competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Composição e competências\n\n1 - O conselho profissional e deontológico é o órgão de jurisdição da Ordem e é constituído por sete membros efectivos eleitos pela assembleia geral.\n\n2 - Compete ao conselho profissional e deontológico:\n\na) Exercer o poder disciplinar sobre membros da Ordem, nos termos previstos no capítulo VII do presente Estatuto;\n\nb) Elaborar propostas de revisão ou de alteração do código deontológico, a submeter a aprovação da assembleia geral;\n\nc) Emitir parecer sobre questões profissionais e deontológicas sobre as quais seja consultado por outros órgãos da Ordem;\n\nd) Dirimir conflitos que possam existir no seio da Ordem;\n\ne) Elaborar e aprovar o seu próprio regulamento;\n\nf) Exercer as demais competências que lhe sejam atribuídas pelo presente Estatuto e pelos regulamentos da Ordem."
+  },
+  "808124954": {
+   "fragment_id": "808125055",
+   "type": 8,
+   "heading": "Secção VI — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Conselho directivo"
+  },
+  "808124955": {
+   "fragment_id": "808125056",
+   "type": 11,
+   "heading": "Artigo 41.º — Composição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Composição e competência\n\n1 - O conselho directivo é composto por nove membros, eleitos em assembleia geral, entre os quais o bastonário, que preside, um vice-presidente, um tesoureiro, um secretário-geral e cinco vogais.\n\n2 - Compete ao conselho directivo:\n\na) Dirigir e administrar a Ordem, na mira da prossecução dos seus objectivos;\n\nb) Gerir e administrar o património da Ordem;\n\nc) Cumprir e fazer cumprir as determinações do presente Estatuto, bem como as deliberações da assembleia geral;\n\nd) Definir e emitir oficialmente a posição da Ordem sobre quaisquer assuntos pertinentes à Biologia, aos biólogos, ou aos objectivos da Ordem;\n\ne) Emitir parecer sobre projectos de diplomas legislativos ou regulamentares pertinentes à profissão de biólogo e propor as alterações que entenda convenientes;\n\nf) Elaborar e submeter à apreciação da assembleia geral o relatório de actividades e de contas, bem como o orçamento e plano de actividades;\n\ng) Decidir sobre a filiação da Ordem em federações, confederações ou quaisquer outros organismos, nacionais ou estrangeiros, e nomear os representantes da Ordem nos mesmos;\n\nh) Deliberar sobre os pedidos de inscrição na Ordem e emitir as respectivas cédulas profissionais;\n\ni) Cobrar e arrecadar as receitas da Ordem e autorizar as despesas;\n\nj) Admitir ou dispensar funcionários da Ordem, fixando o quadro, o vencimento e funções destes;\n\nl) Propor à assembleia geral o valor das quotas, taxas ou encargos a pagar pelos membros da Ordem;\n\nm) Propor à assembleia geral a atribuição do título de membro honorário;\n\nn) Assegurar a publicação regular do órgão informativo da Ordem, bem como nomear e exonerar o respectivo director;\n\no) Nomear comissões, secções ou grupos de trabalho, constituídos por membros da Ordem, atribuindo-lhes as respectivas funções;\n\np) Organizar serviços e actividades de carácter profissional, científico, cultural, técnico, pedagógico ou assistencial, para benefício dos membros da Ordem;\n\nq) Organizar os referendos internos;\n\nr) Realizar todos os restantes actos normais de administração da Ordem, ou demais competências que as leis lhe atribuam."
+  },
+  "808124956": {
+   "fragment_id": "808125057",
+   "type": 11,
+   "heading": "Artigo 42.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Reuniões\n\n1 - Salvo convocação extraordinária pelo seu presidente, o conselho directivo reúne uma vez por mês.\n\n2 - Poderão assistir às reuniões do conselho directivo, na qualidade de observadores ou assessores, sem voto, as pessoas que o mesmo entenda convenientes.\n\n3 - Poderá sempre assistir às reuniões do conselho directivo qualquer membro do conselho fiscal, sem direito a voto."
+  },
+  "808124957": {
+   "fragment_id": "808125058",
+   "type": 8,
+   "heading": "Secção VII — Bastonário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Bastonário"
+  },
+  "808124958": {
+   "fragment_id": "808125059",
+   "type": 11,
+   "heading": "Artigo 43.º — Definição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Definição e competência\n\n1 - O bastonário é o presidente da Ordem dos Biólogos e, por inerência, do congresso nacional, do conselho nacional e do conselho directivo.\n\n2 - Compete ao bastonário:\n\na) Representar a Ordem, em juízo e fora dele;\n\nb) Convocar, abrir, encerrar e presidir às reuniões no congresso nacional, no conselho nacional e do conselho directivo;\n\nc) Decidir, com o seu voto de qualidade, os empates nas votações;\n\nd) Coordenar as actuações dos membros do conselho directivo, sem prejuízo das competências e responsabilidades de cada um destes;\n\ne) Participar, sempre que o entenda, em qualquer reunião de outro órgão da Ordem, salvo no conselho profissional e deontológico, só tendo direito a voto no congresso nacional, na assembleia geral e nos conselhos nacional e directivo."
+  },
+  "808124959": {
+   "fragment_id": "808125060",
+   "type": 8,
+   "heading": "Secção VIII — Conselho fiscal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Conselho fiscal"
+  },
+  "808124960": {
+   "fragment_id": "808125061",
+   "type": 11,
+   "heading": "Artigo 44.º — Composição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Composição e competência\n\n1 - O conselho fiscal é composto por um presidente, um vice-presidente e um secretário, eleitos directamente em assembleia geral.\n\n2 - Compete ao conselho fiscal:\n\na) Examinar a escrita e contabilidade da Ordem, quer de âmbito nacional quer regional;\n\nb) Emitir parecer sobre relatórios, contas e orçamentos anuais apresentados pelo conselho directivo e pelos conselhos regionais;\n\nc) Apresentar ao conselho directivo, aos conselhos regionais e à assembleia geral as propostas que entender adequadas para melhoria da situação financeira e patrimonial da Ordem;\n\nd) Emitir os pareceres que lhe sejam solicitados por qualquer outro órgão da Ordem;\n\ne) Solicitar à mesa da assembleia geral a convocação de reunião extraordinária, sempre que o entender necessário."
+  },
+  "808124961": {
+   "fragment_id": "808125062",
+   "type": 11,
+   "heading": "Artigo 45.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Reuniões\n\nSalvo convocação extraordinária pelo seu presidente, o conselho fiscal reúne uma vez por semestre."
+  },
+  "808124962": {
+   "fragment_id": "808125063",
+   "type": 8,
+   "heading": "Secção IX — Assembleias regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Assembleias regionais"
+  },
+  "808124963": {
+   "fragment_id": "808125064",
+   "type": 11,
+   "heading": "Artigo 46.º — Composição e competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Composição e competência\n\n1 - Em cada delegação regional da ordem funciona uma assembleia regional, constituída por todos os membros inscritos pela respectiva região.\n\n2 - Compete às assembleias regionais:\n\na) Eleger a respectiva mesa e o conselho regional;\n\nb) Aprovar o orçamento, relatório e contas da delegação;\n\nc) Apreciar a actividade do respectivo conselho regional e apresentar-lhe as moções e recomendações que entenda convenientes;\n\nd) Apresentar as propostas de carácter profissional e associativo que entenda convenientes aos órgãos nacionais da Ordem;\n\ne) Deliberar sobre os assuntos que lhe sejam apresentados pelo conselho regional ou pelo conselho directivo."
+  },
+  "808124964": {
+   "fragment_id": "808125065",
+   "type": 11,
+   "heading": "Artigo 47.º — Mesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Mesas\n\nAs mesas das assembleias regionais são constituídas por um presidente, um vice-presidente e um secretário, eleitos directamente pela assembleia regional."
+  },
+  "808124965": {
+   "fragment_id": "808125066",
+   "type": 11,
+   "heading": "Artigo 48.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Funcionamento\n\n1 - As assembleias regionais reúnem ordinariamente para a eleição da respectiva mesa e do conselho regional e para apreciação do relatório, contas, orçamento e plano de actividades da respectiva delegação.\n\n2 - A convocação e funcionamento das assembleias regionais segue, com as devidas adaptações, o regime estabelecido para a assembleia geral nos artigos 35.º a 38.º do presente Estatuto."
+  },
+  "808124966": {
+   "fragment_id": "808125067",
+   "type": 8,
+   "heading": "Secção X — Conselhos regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção X — Conselhos regionais"
+  },
+  "808124967": {
+   "fragment_id": "808125068",
+   "type": 11,
+   "heading": "Artigo 49.º — Composição e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Composição e funcionamento\n\n1 - Em cada delegação regional funciona um conselho regional, composto por um presidente, dois vice-presidentes, um tesoureiro, um secretário e dois vogais, eleitos directamente em assembleia geral.\n\n2 - Compete aos conselhos regionais:\n\na) Representar a delegação regional;\n\nb) Prosseguir, a nível regional, os objectivos da Ordem, promover iniciativas dinamizadoras das funções e actividades da Ordem na região e colaborar com os demais órgãos da Ordem;\n\nc) Tornar a Ordem presente junto das autoridades e entidades regionais, com elas mantendo colaboração na prossecução dos objectivos da Ordem;\n\nd) Gerir e administrar a delegação regional e o património a ela afecto;\n\ne) Elaborar e submeter a aprovação da assembleia regional o relatório e contas da delegação, bem como o orçamento e planos de actividades anuais, e remetê-los ao conselho directivo num prazo de 15 dias após a sua aprovação;\n\nf) Instruir os processos de inscrição na Ordem remetendo-os ao conselho directivo, para deliberação, acompanhados de parecer;\n\ng) Manter e actualizar o registo dos membros da Ordem afectos à delegação regional;\n\nh) Executar as deliberações da assembleia regional;\n\ni) Emitir os pareceres solicitados pelos demais órgãos da Ordem;\n\nj) Desenvolver as demais acções necessárias à prossecução das atribuições da Ordem na respectiva região."
+  },
+  "808124968": {
+   "fragment_id": "808125069",
+   "type": 11,
+   "heading": "Artigo 50.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Reuniões\n\nOs conselhos regionais reúnem, com as necessárias adaptações, nos termos previstos no artigo 42.º do presente Estatuto."
+  },
+  "808124969": {
+   "fragment_id": "808125070",
+   "type": 1,
+   "heading": "Capítulo V — Referendos internos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Referendos internos"
+  },
+  "808124970": {
+   "fragment_id": "808125071",
+   "type": 11,
+   "heading": "Artigo 51.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Objecto\n\n1 - A Ordem pode realizar, a nível nacional, referendos internos com carácter vinculativo aos seus membros, destinados a submeter a votação as questões que o conselho directivo considere suficientemente relevantes.\n\n2 - As questões devem ser formuladas com clareza e para respostas de sim ou não.\n\n3 - As questões referentes a matérias que o presente Estatuto cometa à competência deliberativa de qualquer órgão nacional só podem ser submetidas a referendo mediante autorização desse órgão."
+  },
+  "808124971": {
+   "fragment_id": "808125072",
+   "type": 11,
+   "heading": "Artigo 52.º — Organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Organização\n\n1 - Cabe ao conselho directivo fixar a data do referendo interno e organizar o respectivo processo.\n\n2 - O teor das questões a submeter a referendo interno é divulgado junto de todos os membros da Ordem e deve ser objecto de reuniões de esclarecimento e debate.\n\n3 - Sem prejuízo do disposto no número seguinte, as propostas de alteração às questões a submeter a referendo interno devem ser dirigidas por escrito ao conselho directivo, durante o período de esclarecimento e debate, por membros da Ordem devidamente identificados.\n\n4 - As propostas de referendo interno subscritas por um mínimo de 3% dos membros efectivos da Ordem no pleno gozo dos seus direitos não podem ser objecto de alteração."
+  },
+  "808124972": {
+   "fragment_id": "808125073",
+   "type": 11,
+   "heading": "Artigo 53.º — Efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Efeitos\n\n1 - O efeito vinculativo do referendo interno depende de o número de votantes ser superior a metade dos membros efectivos inscritos nos cadernos eleitorais.\n\n2 - Quando se trate de projectos de propostas relativos à dissolução da Ordem, a aprovação carece do voto expresso de dois terços dos membros inscritos nos cadernos eleitorais.\n\n3 - Os resultados dos referendos internos são divulgados pelo conselho directivo após a recepção dos apuramentos parciais."
+  },
+  "808124973": {
+   "fragment_id": "808125074",
+   "type": 1,
+   "heading": "Capítulo VI — Exercício da profissão de biólogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Exercício da profissão de biólogo"
+  },
+  "808124974": {
+   "fragment_id": "808125275",
+   "type": 11,
+   "heading": "Artigo 54.º — Profissão de biólogo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Profissão de biólogo\n\n1 - O exercício da profissão de biólogo depende de licenciatura no domínio das Ciências Biológicas ou de título legalmente equiparado.\n\n2 - Para os efeitos do presente Estatuto, consideram-se actividades profissionais no domínio das Ciências Biológicas as que versam sobre:\n\na) Estudo, identificação e classificação dos seres vivos e seus vestígios;\n\nb) Estudos ecológicos, de conservação da natureza, de aspectos biológicos do ambiente, do ordenamento do território e de impacte ambiental;\n\nc) Gestão e planificação da exploração racional de recursos vivos;\n\nd) Estudos, análises biológicas e tratamento de poluição de origem industrial, agrícola ou urbana;\n\ne) Estudos e análises biológicas e de controlo da qualidade de águas, solos e alimentos;\n\nf) Organização, gestão e conservação de áreas protegidas, parques naturais e reservas, jardins zoológicos e botânicos e museus cujos conteúdos são dedicados fundamentalmente à Biologia ou similares;\n\ng) Estudos e análises de amostras e materiais de origem biológica;\n\nh) Estudo, identificação e controlo de agentes biológicos patogénicos, de parasitas e de pragas;\n\ni) Estudo, desenvolvimento e controlo de processos e técnicas biológicas de aplicação industrial;\n\nj) Estudo, identificação, produção e controlo de produtos e materiais de ordem biológica, e de agentes biológicos que interferem na conservação e qualidade de quaisquer produtos e materiais;\n\nl) Estudos de genética humana, animal, vegetal e microbiana;\n\nm) Estudo e aplicação de processos e técnicas de biologia humana;\n\nn) Ensino da Biologia a todos os níveis, bem como educação ambiental e para a saúde;\n\no) Investigação científica fundamental ou aplicada em qualquer área da Biologia;\n\np) Consultadoria, peritagem, gestão e assessoria técnica e científica em assuntos e actividades do âmbito da Biologia;\n\nq) Quaisquer outras actividades que, atentas as circunstâncias, devam ser realizadas por pessoas com habilitações científicas, técnicas e profissionais especializadas no âmbito da Biologia.\n\n3 - O disposto no número anterior não prejudica as disposições legais aplicáveis ao exercício de outras profissões."
+  },
+  "808125375": {
+   "fragment_id": "808125276",
+   "type": 11,
+   "heading": "Artigo 55.º — Do exercício da profissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Do exercício da profissão\n\n1 - Só podem denominar-se biólogos os membros efectivos, graduados, ou honorários que tenham sido efectivos ou graduados, com inscrição em vigor na Ordem, e só esses podem exercer, no território nacional, a título profissional, a actividade de biólogo.\n\n2 - Os contratos de trabalho que o biólogo celebre no âmbito do exercício da sua profissão não podem estabelecer regras susceptíveis de afectar a sua isenção e independência perante a entidade patronal nem violar o presente Estatuto."
+  },
+  "808125376": {
+   "fragment_id": "808125277",
+   "type": 11,
+   "heading": "Artigo 56.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Identificação\n\nOs biólogos estão obrigados, em todos os documentos que emitem no exercício da sua profissão, a identificar-se com o número e tipo da respectiva cédula profissional e categoria de membro da Ordem."
+  },
+  "808125377": {
+   "fragment_id": "808125278",
+   "type": 1,
+   "heading": "Capítulo VII — Responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Responsabilidade disciplinar"
+  },
+  "808125378": {
+   "fragment_id": "808125279",
+   "type": 11,
+   "heading": "Artigo 57.º — Da responsabilidade disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Da responsabilidade disciplinar\n\n1 - Os biólogos estão sujeitos à jurisdição disciplinar dos órgãos da Ordem, nos termos previstos no presente Estatuto e nos respectivos regulamentos.\n\n2 - Comete infracção disciplinar o biólogo que, por acção ou omissão, violar dolosa ou negligentemente algum dos deveres fixados neste Estatuto, nos respectivos regulamentos, no código deontológico do biólogo ou nas demais disposições aplicáveis.\n\n3 - A acção disciplinar é independente de eventual responsabilidade civil ou criminal."
+  },
+  "808125379": {
+   "fragment_id": "808125280",
+   "type": 11,
+   "heading": "Artigo 58.º — Competência disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Competência disciplinar\n\n1 - O exercício do poder disciplinar compete ao conselho profissional e deontológico, salvo o disposto no número seguinte.\n\n2 - O exercício do poder disciplinar relativo aos membros do conselho profissional e deontológico compete a este órgão, em conjunto com o conselho nacional."
+  },
+  "808125380": {
+   "fragment_id": "808125281",
+   "type": 11,
+   "heading": "Artigo 59.º — Instauração do processo disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Instauração do processo disciplinar\n\n1 - O processo disciplinar é instaurado mediante decisão do conselho profissional e deontológico.\n\n2 - Os tribunais e demais autoridades públicas devem dar conhecimento à Ordem da prática por biólogos de actos susceptíveis de constituírem infracção disciplinar.\n\n3 - O Ministério Público e as demais entidades com poderes de investigação criminal devem dar conhecimento à Ordem das participações apresentadas contra biólogos, por actos relacionados com o exercício da profissão."
+  },
+  "808125381": {
+   "fragment_id": "808125282",
+   "type": 11,
+   "heading": "Artigo 60.º — Prescrição do procedimento disciplinar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Prescrição do procedimento disciplinar\n\n1 - O procedimento disciplinar prescreve no prazo de três anos sobre a prática da infracção, salvo o disposto no número seguinte.\n\n2 - O procedimento disciplinar de titulares de órgãos da Ordem prescreve no prazo de três anos sobre a cessação das respectivas funções.\n\n3 - As infracções disciplinares que constituam simultaneamente ilícito penal prescrevem no mesmo prazo que o procedimento criminal, quando este for superior.\n\n4 - A responsabilidade disciplinar permanece durante o período de suspensão da Ordem e não cessa pela demissão da Ordem, relativamente a factos anteriormente praticados."
+  },
+  "808125382": {
+   "fragment_id": "808125283",
+   "type": 11,
+   "heading": "Artigo 61.º — Penas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Penas\n\n1 - As penas disciplinares são as seguintes:\n\na) Advertência;\n\nb) Censura;\n\nc) Suspensão até 6 meses;\n\nd) Suspensão de 6 meses a 2 anos;\n\ne) Suspensão de 2 a 10 anos.\n\n2 - A pena prevista na alínea c) só pode ser aplicada por infracção disciplinar decorrente de violação negligente dos deveres deontológicos consignados nos artigos 15.º, 16.º e 18.º, da qual não resultem consequências graves para a qualidade de vida, para o ambiente ou para a segurança.\n\n3 - A pena prevista na alínea d) só pode ser aplicada por infracção disciplinar decorrente de violação, dolosa ou negligente, dos deveres deontológicos consignados nos artigos 15.º, 16.º e 18.º da qual resultem consequências graves para a qualidade de vida, para o ambiente ou para a segurança.\n\n4 - A pena prevista na alínea e) só pode ser aplicada por infracção disciplinar decorrente de violação dolosa dos deveres deontológicos consignados nos artigos 15.º, 16.º e 18.º da qual resultem consequências graves para a qualidade de vida, para o ambiente ou para a segurança."
+  },
+  "808125383": {
+   "fragment_id": "808125284",
+   "type": 11,
+   "heading": "Artigo 62.º — Escolha e medida da pena",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Escolha e medida da pena\n\nA escolha e a medida da pena são feitas em função da culpa do arguido, tendo em conta a gravidade e as consequências da infracção, os antecedentes profissionais e disciplinares e as demais circunstâncias da infracção."
+  },
+  "808125384": {
+   "fragment_id": "808125285",
+   "type": 11,
+   "heading": "Artigo 63.º — Instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º — Instrução\n\n1 - A instrução do processo disciplinar compreende as diligências necessárias ao apuramento da verdade material, devendo o relator remover os obstáculos ao seu regular e rápido andamento e, sem prejuízo do direito de defesa, recusar o que for inútil ou dilatório.\n\n2 - Até ao despacho de acusação o processo é secreto."
+  },
+  "808125385": {
+   "fragment_id": "808125286",
+   "type": 11,
+   "heading": "Artigo 64.º — Termo da instrução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º — Termo da instrução\n\n1 - Finda a instrução, o relator profere despacho de acusação ou emite parecer fundamentado em que conclua no sentido do arquivamento do processo.\n\n2 - Não sendo proferido despacho de acusação, o relator apresenta o parecer na primeira reunião do conselho profissional e deontológico, a fim de ser deliberado o arquivamento do processo ou determinado que o mesmo prossiga com a realização de diligências suplementares ou com o despacho de acusação, podendo neste último caso ser designado novo relator."
+  },
+  "808125386": {
+   "fragment_id": "808125287",
+   "type": 11,
+   "heading": "Artigo 65.º — Despacho de acusação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º — Despacho de acusação\n\n1 - O despacho de acusação deve indicar a identidade do arguido, os factos imputados e as circunstâncias que foram praticados, as normas legais e regulamentares infringidas, a prova e o prazo para a apresentação de defesa.\n\n2 - O arguido é notificado da acusação pessoalmente ou por carta registada com aviso de recepção, com a entrega da respectiva cópia."
+  },
+  "808125387": {
+   "fragment_id": "808125288",
+   "type": 11,
+   "heading": "Artigo 66.º — Defesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 66.º — Defesa\n\n1 - O prazo para apresentação de defesa é de 20 dias.\n\n2 - O arguido pode nomear para a sua defesa um representante especialmente mandatado para esse efeito.\n\n3 - A defesa deve expor clara e concisamente os factos e as razões que a fundamentam.\n\n4 - Com a defesa deve o arguido apresentar o rol de testemunhas, juntar documentos e requerer as diligências necessárias para o apuramento dos factos relevantes.\n\n5 - Não podem ser apresentadas mais de 5 testemunhas por cada facto, não podendo o total delas exceder 20."
+  },
+  "808125388": {
+   "fragment_id": "808125289",
+   "type": 11,
+   "heading": "Artigo 67.º — Alegações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 67.º — Alegações\n\nRealizadas as diligências a que se refere o artigo anterior e outras que sejam determinadas pelo relator, o interessado e o arguido são notificados para alegarem por escrito no prazo de 20 dias."
+  },
+  "808125389": {
+   "fragment_id": "808125290",
+   "type": 11,
+   "heading": "Artigo 68.º — Do julgamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 68.º — Do julgamento\n\n1 - Finda a instrução, o processo é presente ao conselho profissional e deontológico para julgamento, sendo lavrado e assinado o respectivo acórdão.\n\n2 - As penas de suspensão de 2 a 10 anos só podem ser aplicadas mediante decisão que obtenha dois terços dos votos de todos os membros do conselho profissional e deontológico.\n\n3 - Das deliberações do conselho profissional e deontológico cabe recurso para o conselho nacional."
+  },
+  "808125390": {
+   "fragment_id": "808125291",
+   "type": 11,
+   "heading": "Artigo 69.º — Notificação do acórdão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 69.º — Notificação do acórdão\n\n1 - Os acórdãos finais são imediatamente notificados ao arguido e aos interessados por carta registada com aviso de recepção.\n\n2 - O acórdão que aplicar pena de suspensão é também notificado à entidade empregadora do infractor."
+  },
+  "808125391": {
+   "fragment_id": "808125292",
+   "type": 11,
+   "heading": "Artigo 70.º — Processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 70.º — Processo de inquérito\n\n1 - Pode ser ordenada a abertura de processo de inquérito sempre que não esteja concretizada a infracção ou não seja conhecido o seu autor e quando seja necessário proceder a averiguações destinadas ao esclarecimento dos factos.\n\n2 - O processo de inquérito regula-se pelas normas aplicáveis ao processo disciplinar em tudo o que não esteja especialmente previsto."
+  },
+  "808125392": {
+   "fragment_id": "808125293",
+   "type": 11,
+   "heading": "Artigo 71.º — Termo de instrução em processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 71.º — Termo de instrução em processo de inquérito\n\n1 - Finda a instrução, o relator emite um parecer fundamentado em que propõe o prosseguimento do processo como disciplinar ou o seu arquivamento, consoante considere existirem ou não indícios suficientes da prática de infracção disciplinar.\n\n2 - O relator apresenta o seu parecer em reunião do conselho profissional e deontológico, que delibera no sentido de o processo prosseguir como disciplinar, ser arquivado ou de serem realizadas diligências complementares.\n\n3 - Caso o parecer não seja aprovado, pode ser designado novo relator de entre os membros do conselho que façam vencimento."
+  },
+  "808125393": {
+   "fragment_id": "808125294",
+   "type": 11,
+   "heading": "Artigo 72.º — Execução das decisões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 72.º — Execução das decisões\n\n1 - Compete ao conselho directivo dar execução às decisões disciplinares, podendo essa competência ser delegada no presidente do conselho regional da delegação onde o arguido tenha domicílio profissional.\n\n2 - O cumprimento da pena de suspensão tem início a partir do dia da respectiva notificação.\n\n3 - Se à data do início da suspensão estiver suspensa ou cancelada a inscrição do arguido, o cumprimento da pena de suspensão tem início a partir do dia imediato àquele em que tiver lugar o levantamento da suspensão da inscrição, ou a reinscrição, ou a partir do termo da execução da data em que termina a execução da anterior pena de suspensão."
+  },
+  "808125394": {
+   "fragment_id": "808125295",
+   "type": 11,
+   "heading": "Artigo 73.º — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 73.º — Revisão\n\n1 - As decisões disciplinares definitivas podem ser revistas a pedido do interessado, com fundamento em novos factos ou novas provas, susceptíveis de alterarem o sentido daquelas, ou quando outra decisão definitiva considerar falsos elementos de prova determinantes da decisão a rever.\n\n2 - A concessão de revisão depende de deliberação pela maioria absoluta dos membros do órgão que proferiu a decisão disciplinar."
+  },
+  "808125395": {
+   "fragment_id": "808125296",
+   "type": 1,
+   "heading": "Capítulo VIII — Receitas e despesas da Ordem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Receitas e despesas da Ordem"
+  },
+  "808125396": {
+   "fragment_id": "808125297",
+   "type": 11,
+   "heading": "Artigo 74.º — Receitas nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 74.º — Receitas nacionais\n\n1 - Constituem receitas e despesas da Ordem, a nível nacional:\n\na) Taxas de inscrição;\n\nb) Quotas;\n\nc) Subsídios, doações, heranças ou legados;\n\nd) Rendimentos de bens próprios, móveis ou imóveis, fundos de reserva ou capitais depositados;\n\ne) O produto de publicações, estudos, relatórios, prestações de serviços ou outras actividades da Ordem.\n\n2 - O património social da Ordem é único, embora o uso dos seus bens possa estar adstrito a delegações regionais."
+  },
+  "808125397": {
+   "fragment_id": "808125298",
+   "type": 11,
+   "heading": "Artigo 75.º — Receitas das delegações regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 75.º — Receitas das delegações regionais\n\n1 - Constituem receitas das delegações regionais:\n\na) A percentagem do montante das quotizações dos membros inscritos pela delegação que seja fixada pela assembleia geral;\n\nb) O produto das actividades editoriais e dos serviços da delegação regional;\n\nc) Subsídios, doações ou ofertas que sejam concedidos por quaisquer pessoas singulares ou colectivas à delegação regional;\n\nd) O rendimento de bens móveis e imóveis da Ordem afectos à delegação regional, bem como de fundos de reservas e capitais depositados da delegação.\n\n2 - As delegações regionais poderão solicitar o financiamento extraordinário das suas actividades ao conselho directivo, o qual avaliará o pedido e incluirá esse financiamento na sua proposta de orçamento, no caso de o aprovar.\n\n3 - No caso de actividades e serviços promovidos conjuntamente pela delegação regional e pelo conselho directivo, o produto, deduzidas as respectivas despesas, constituirá em partes iguais receita nacional e regional.\n\n4 - Em casos excepcionais de crise financeira, poderá o conselho directivo, mediante parecer positivo do conselho nacional e com aprovação da assembleia geral, dispor das receitas das delegações regionais."
+  },
+  "808125398": {
+   "fragment_id": "808125299",
+   "type": 11,
+   "heading": "Artigo 76.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 76.º — Despesas\n\nSão as seguintes as despesas da Ordem:\n\na) Todas as decorrentes do exercício das suas atribuições, actividades e iniciativas, consoante as deliberações do conselho directivo, de harmonia com o presente Estatuto, regulamentos e decisões da assembleia geral;\n\nb) Os encargos que derivem da adesão da Ordem a federações, confederações ou outros organismos;\n\nc) Todas as demais que lhe forem impostas pela lei vigente."
+  },
+  "808125436": {
+   "fragment_id": "808125001",
+   "type": 11,
+   "heading": "Artigo 2.º — Instalação",
+   "in_force_from": "2015-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 159/2015 - Diário da República n.º 183/2015, Série I de 2015-09-18](https://diariodarepublica.pt/dr/detalhe/lei/159-2015-70325351), em vigor a partir de 2015-10-18"
+   ],
+   "markdown": "###### Artigo 2.º — Instalação\n\n1 - Compete à direcção da APB - Associação Portuguesa de Biólogos, abreviadamente designada direcção, proceder à instalação da Ordem, para o que:\n\na) Prepara os regulamentos internos necessários ao funcionamento da Ordem;\n\nb) Promove a inscrição dos biólogos;\n\nc) Prepara os actos eleitorais para os órgãos nacionais e regionais da Ordem;\n\nd) Confere posse ao bastonário que for eleito;\n\ne) Realiza os demais actos necessários à instalação e normal funcionamento da Ordem;\n\nf) Presta contas do mandato exercido.\n\n2 - A aplicação do novo Estatuto não prejudica a inscrição automática na Ordem dos actuais membros da APB - Associação Portuguesa de Biólogos, inscritos ao abrigo das disposições estatutárias respectivas, desde que reúnam as habilitações legalmente exigidas.\n\n3 - Na execução dos actos de instalação, a direcção rege-se, com as necessárias adaptações, pelo regime previsto no Estatuto anexo ao presente diploma.\n\n4 - O período de instalação não pode exceder o prazo de um ano a contar da data da entrada em vigor do presente diploma, cessando com a investidura dos órgãos nacionais da Ordem.\n\n5 - O termo do período de instalação requer uma declaração formal pública da direcção da Ordem.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 159/2015 - Diário da República n.º 183/2015, Série I de 2015-09-18](https://diariodarepublica.pt/dr/detalhe/lei/159-2015-70325351), em vigor a partir de 2015-10-18"
+  },
+  "808125437": {
+   "fragment_id": "808125002",
+   "type": 11,
+   "heading": "Artigo 3.º — Eleições",
+   "in_force_from": "2015-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 159/2015 - Diário da República n.º 183/2015, Série I de 2015-09-18](https://diariodarepublica.pt/dr/detalhe/lei/159-2015-70325351), em vigor a partir de 2015-10-18"
+   ],
+   "markdown": "###### Artigo 3.º — Eleições\n\nAs eleições para os órgãos da Ordem devem estar concluídas até nove meses após a entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 159/2015 - Diário da República n.º 183/2015, Série I de 2015-09-18](https://diariodarepublica.pt/dr/detalhe/lei/159-2015-70325351), em vigor a partir de 2015-10-18"
+  },
+  "808125438": {
+   "fragment_id": "808125003",
+   "type": 11,
+   "heading": "Artigo 4.º — Regime de transição",
+   "in_force_from": "2015-10-18",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Lei n.º 159/2015 - Diário da República n.º 183/2015, Série I de 2015-09-18](https://diariodarepublica.pt/dr/detalhe/lei/159-2015-70325351), em vigor a partir de 2015-10-18"
+   ],
+   "markdown": "###### Artigo 4.º — Regime de transição\n\n1 - A Ordem sucede nas situações jurídicas activas e passivas da APB - Associação Portuguesa de Biólogos.\n\n2 - A Ordem pode, por convénio a celebrar com outras instituições, suceder nos direitos e obrigações de que estas sejam titulares.\n\n> Revogado pelo/a Artigo 4.º do/a [Lei n.º 159/2015 - Diário da República n.º 183/2015, Série I de 2015-09-18](https://diariodarepublica.pt/dr/detalhe/lei/159-2015-70325351), em vigor a partir de 2015-10-18"
+  },
+  "808124903": {
+   "fragment_id": "808125004",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de Abril de 1998. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco - Jorge Paulo Sacadura Almeida Coelho - José Eduardo Vera Cruz Jardim - Eduardo Carrega Marçal Grilo - Eduardo Luís Barreto Ferro Rodrigues - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 18 de Junho de 1998.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 23 de Junho de 1998.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

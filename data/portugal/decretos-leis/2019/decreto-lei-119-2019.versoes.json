@@ -1,0 +1,942 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124097549:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-124092803",
+ "dre_path": "/dr/detalhe/decreto-lei/119-2019-124097549",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124092005",
+    "124092006",
+    "124092007",
+    "124092008",
+    "124092009",
+    "124092010",
+    "124092011",
+    "124092012",
+    "124092013",
+    "124092014",
+    "124092015",
+    "124092016",
+    "124092017",
+    "124092018",
+    "124092019",
+    "124092020",
+    "124092021",
+    "124092022",
+    "124092023",
+    "124092024",
+    "124092025",
+    "124092026",
+    "124092027",
+    "124092028",
+    "124092029",
+    "124092030",
+    "124092031",
+    "124092032",
+    "124092033",
+    "124092034",
+    "124092035",
+    "124092036",
+    "124092037",
+    "124092038",
+    "124092039",
+    "124092040",
+    "124092041",
+    "124092042",
+    "124092043",
+    "124092044",
+    "124092045",
+    "124092046",
+    "124092048",
+    "124092049",
+    "124092050",
+    "124092051",
+    "124092052",
+    "124092053",
+    "124092054",
+    "124092055"
+   ]
+  },
+  {
+   "date": "2023-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207272800:por",
+     "title": "Decreto-Lei n.º 11/2023",
+     "published": "2023-02-10",
+     "dre_path": "/dr/detalhe/decreto-lei/11-2023-207272800"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Adita Artigo 13.º-C",
+    "Adita Artigo 28.º-A",
+    "Adita Anexo VII-A",
+    "Adita Anexo IX",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 26.º",
+    "Altera Anexo VI"
+   ],
+   "fragments": [
+    "124092005",
+    "207758025",
+    "124092007",
+    "207758040",
+    "207758041",
+    "207758042",
+    "207758026",
+    "124092012",
+    "124092013",
+    "124092014",
+    "124092015",
+    "207758043",
+    "207758044",
+    "208510219",
+    "124092019",
+    "207758046",
+    "124092021",
+    "124092022",
+    "207757998",
+    "207757999",
+    "207758000",
+    "124092023",
+    "124092024",
+    "124092025",
+    "207758027",
+    "207758047",
+    "207758048",
+    "207758049",
+    "207758050",
+    "207758051",
+    "207758052",
+    "207758053",
+    "207758028",
+    "124092035",
+    "208510220",
+    "124092037",
+    "207758055",
+    "124092039",
+    "207758029",
+    "124092041",
+    "207758001",
+    "207758002",
+    "207758003",
+    "207758004",
+    "207758005",
+    "207758006",
+    "207758030",
+    "207758031",
+    "207758032",
+    "207758033",
+    "207758034",
+    "207758035",
+    "207758056",
+    "207758037",
+    "208443262",
+    "207758021",
+    "207758039"
+   ]
+  }
+ ],
+ "fragments": {
+  "124092005": {
+   "fragment_id": "124092804",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 119/2019\n\nde 21 de agosto\n\nSumário: Estabelece o regime jurídico de produção de água para reutilização, obtida a partir do tratamento de águas residuais, bem como da sua utilização.\n\nO consumo crescente de água nas diferentes finalidades, como sejam o abastecimento público, a produção agrícola e pecuária, a indústria e os usos recreativos, entre outros, tem vindo a impor uma pressão crescente sobre os recursos hídricos. Esta pressão pode variar ao longo do ano, em função do aumento sazonal da procura de água, e pode ser potencialmente agravada perante cenários de alterações climáticas, onde as situações de seca prolongada poderão vir a ser mais intensas. A frequência e a intensidade das secas e seus danos ambientais e económicos aumentaram drasticamente nos últimos 30 anos. Assim, as situações de elevadas necessidades, conjugadas com a fraca, ou mesmo ausência de pluviosidade e elevada evapotranspiração, poderão provocar situações de desequilíbrio e escassez na disponibilidade de água.\n\nPara fazer face à procura crescente de água, a reutilização constitui uma origem alternativa, contribuindo para o uso sustentável dos recursos hídricos, na medida em que permite a manutenção de água no ambiente e a respetiva preservação para usos futuros, enquanto se salvaguarda a utilização presente, em linha com os princípios da economia circular.\n\nA nível global, a reutilização de água expandiu-se desde a rega agrícola ou de espaços verdes e de usos urbanos restritos até aos usos potáveis (indiretos e diretos), tendo as águas residuais tratadas passado a ser encaradas como uma nova fonte de água, adicional e/ou alternativa para múltiplos fins.\n\nA utilização de águas residuais tratadas pode proporcionar benefícios ambientais, sociais e económicos significativos, podendo contribuir para melhorar o ambiente, tanto quantitativamente, aliviando a pressão decorrente da diminuição dos volumes captados, quanto qualitativamente, ao diminuir as descargas de águas residuais tratadas em áreas sensíveis. Além disso, quando comparado com fontes alternativas de abastecimento de água, como sejam a dessalinização ou a transferência de água, a reutilização de água, muitas vezes, exige menores custos de investimento e energia, contribuindo também para reduzir as emissões de gases com efeito de estufa. A reutilização de água residual tratada é, aliás, um exemplo do que pode constituir uma medida de adaptação às alterações climáticas e uma boa prática de gestão da água, designadamente para fazer face ao aumento da frequência e intensidade de períodos de secas e de escassez de água, permitindo aumentar a resiliência dos sistemas contando-se entre as medidas previstas no Programa de Ação para a Adaptação às Alterações Climáticas (P-3AC).\n\nA reutilização de água tem vindo a crescer, existindo atualmente vários casos de sucesso distribuídos pelos cinco continentes. No entanto, os potenciais efeitos adversos sobre a saúde e sobre o ambiente são alvo de preocupação, o que leva a uma necessidade premente de definição de normas e regras a aplicar à prática de reutilização de água, bem como o desenvolvimento de metodologias para a respetiva avaliação do risco. A ausência destes mecanismos poderá levar à perda de oportunidade de desenvolvimento de práticas apropriadas e sustentáveis de reutilização de água.\n\nA nível internacional diversas organizações têm vindo a desenvolver estratégias com vista à promoção da reutilização de água, designadamente a Organização Mundial de Saúde (OMS), a Organização Internacional de Normalização (ISO) e, no contexto europeu, a própria Comissão Europeia (COM). Deste modo, a OMS tem desenvolvido normas para a proteção da saúde pública, em particular quando estejam em causa usos potáveis, i.e., usos que requeiram água com uma qualidade compatível com o consumo humano. A ISO tem vindo a desenvolver normas que visam a utilização de águas residuais tratadas para rega (rega agrícola e paisagística, de espaços públicos e privados), usos urbanos (sistemas centralizados e descentralizados), usos industriais e a avaliação do risco para a saúde e para o ambiente.\n\nNo âmbito da Estratégia Comum para a implementação da Diretiva-Quadro da Água, foi adotado um guia para a promoção da reutilização de água, como medida para alcançar e manter o bom estado das massas de água, para a utilização na rega agrícola de águas residuais de origem urbana, abrangidas pela Diretiva 91/271/CEE do Conselho, de 21 de maio de 1991, transposta para o direito nacional pelo Decreto-Lei n.º 152/97, de 19 de junho, na sua redação atual.\n\nA nível nacional, o artigo 57.º do Decreto-Lei n.º 226-A/2007, de 31 de maio, na sua redação atual, determina que as águas residuais tratadas devem ser reutilizadas, sempre que tal seja possível ou adequado, nomeadamente para rega de jardins, espaços públicos e campos de golfe, integrando a orientação prevista na Diretiva 91/271/CE. Esta mesma diretiva clarifica ainda que as vias de eliminação das águas residuais urbanas devem minimizar os efeitos nocivos sobre o ambiente e terão de ser sujeitas a regulamentação ou a autorizações prévias específicas.\n\nOs grandes núcleos urbanos estão equipados com Estações de Tratamento de Águas Residuais (ETAR) com elevada capacidade tecnológica, geridas por entidades gestoras de sistemas de titularidade estatal e municipal, que permitem assegurar níveis de tratamento em conformidade com as exigências da legislação nacional, pelo que importa valorizar essas águas residuais urbanas tratadas, em usos compatíveis, reduzindo dessa forma a pressão de consumo nos sistemas públicos de abastecimento de água.\n\nEstá, assim, estabelecido que as águas residuais tratadas devem ser reutilizadas, sempre que tal seja possível ou adequado, apostando numa estratégia de promoção da reutilização de água para diminuir a pressão sobre os recursos hídricos, o que implica a definição do seu enquadramento regulatório.\n\nNo presente decreto-lei estabelece-se que a reutilização de água é suportada por uma abordagem «adequar ao fim a que se destina» (fit-for-purpose), sendo definidas normas específicas adequadas aos usos em causa, bem como a proteção dos potenciais recetores em presença, tendo por base uma avaliação do risco.\n\nA minimização dos riscos será alcançada pela aplicação de barreiras múltiplas ajustadas a cada projeto específico (conceito multibarreira). Este critério consiste na imposição de barreiras de segurança ao nível do tratamento das águas e de barreiras físicas para minimização do contacto com os recetores, de modo a minimizar o risco de contacto direto, nomeadamente por ingestão e o risco de lixiviação, percolação ou arrastamento de contaminantes ou poluentes para as massas de água.\n\nNeste decreto-lei são, ainda, definidos os requisitos para a qualidade e monitorização da água e as principais tarefas de gestão dos riscos, a fim de garantir a reutilização da água em segurança para a saúde e para o ambiente, bem como o regime de licenciamento associado.\n\nFinalmente, são estabelecidos os mecanismos que visam garantir a transparência e o acesso à informação como aspetos fundamentais para promover a confiança dos utilizadores e também do público em geral no que diz respeito à segurança da reutilização da água.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, a Entidade Reguladora dos Serviços de Águas e Resíduos e a Federação Nacional de Regantes de Portugal.\n\nFoi promovida a audição da Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "124092006": {
+   "fragment_id": "124092805",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "124092007": {
+   "fragment_id": "124092806",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o regime jurídico de produção de água para reutilização (ApR), obtida a partir do tratamento de águas residuais, bem como da sua utilização, por forma a promover a sua correta utilização e a evitar efeitos nocivos para a saúde e para o ambiente.\n\n2 - O presente decreto-lei procede ainda à segunda alteração ao Decreto-Lei n.º 75/2015, de 11 de maio, alterado pelo Decreto-Lei n.º 39/2018, de 11 de junho, que aprova o Regime de Licenciamento Único de Ambiente (LUA)."
+  },
+  "124092008": {
+   "fragment_id": "124092807",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei aplica-se à reutilização de água proveniente de estações de tratamento de águas residuais (ETAR) domésticas, urbanas e industriais, destinada a usos compatíveis com a qualidade da mesma, designadamente de rega, de usos paisagísticos, de usos urbanos e industriais.\n\n2 - O presente decreto-lei aplica-se, ainda, à reutilização de água remanescente proveniente de certos tipos de cultura agrícola, nomeadamente as culturas fora do solo, que, sendo recolhida, seja passível de ser usada na rega de outro tipo de cultura.\n\n3 - Exclui-se do âmbito de aplicação do presente decreto-lei a reutilização de água para usos potáveis, os quais requerem uma qualidade compatível com o consumo humano, definida no Decreto-Lei n.º 306/2007, de 27 de agosto, na sua redação atual, bem como a recirculação ou a reciclagem de água, quando a mesma ocorra em circuito fechado dentro de um ou mais processos.\n\n4 - Os riscos de contágio por legionella, decorrentes da utilização de ApR, são avaliados no âmbito da Lei n.º 52/2018, de 20 de agosto, que estabelece o regime de prevenção e controlo da doença dos legionários."
+  },
+  "124092009": {
+   "fragment_id": "124092808",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente decreto-lei, entende-se por:\n\na) «Águas residuais», as águas resultantes de atividades domésticas, urbanas, industriais ou de serviços, as escorrências superficiais, as águas pluviais de sistemas de drenagem unitários ou pseudo-separativos, ou de qualquer afluência ou infiltração acidental nos sistemas de drenagem de águas residuais, as quais se dividem em quatro categorias:\n\ni) «Águas residuais domésticas», as águas residuais de serviços e de instalações residenciais, essencialmente provenientes do metabolismo humano e de atividades domésticas;\n\nii) «Águas residuais urbanas», as águas residuais domésticas ou a mistura destas com águas residuais industriais ou com águas pluviais;\n\niii) «Águas residuais industriais», as águas residuais provenientes de qualquer tipo de atividade que não são suscetíveis de ser classificadas como águas residuais domésticas;\n\niv) «Águas pluviais contaminadas», águas pluviais que, em contacto com superfícies impermeabilizadas, sejam passíveis de arrastar materiais em suspensão ou outros poluentes e contaminantes e cuja carga implica a necessidade de tratamento prévio à respetiva reutilização ou à rejeição direta para o meio recetor;\n\nb) «Água para reutilização (ApR)», água residual destinada à reutilização e que foi sujeita ao tratamento necessário para alcançar uma qualidade compatível com o uso final pretendido sem deteriorar a qualidade dos recetores;\n\nc) «Água remanescente», água sobrante proveniente de certos tipos de cultura agrícola, nomeadamente culturas fora do solo e que pode ser utilizada para supressão das necessidades hídricas de outras culturas agrícolas;\n\nd) «Avaliação do risco», processo de comparação dos resultados da análise dos critérios de risco, para a saúde ou ambiente, associado a um dado sistema ou situação, com vista à aceitação do mais reduzido valor de risco possível, que engloba a recolha de informação relativa aos perigos, cenários de exposição, caraterização e gestão do risco e pode ser efetuado com recurso a métodos quantitativos, semi-quantitativos ou qualitativos;\n\ne) «Barreira ou medida de prevenção», qualquer meio físico, químico ou biológico que reduza ou previna o risco de ocorrência de danos para a saúde ou para o ambiente;\n\nf) «Barreira equivalente», medida de controlo que produz um resultado equivalente a uma determinada redução microbiológica correspondente à eliminação de perigo determinado ou redução do mesmo até um nível aceitável;\n\ng) «Contaminante», qualquer substância física, química ou biológica presente na água, independentemente de constituir ou não um perigo para a saúde ou ambiente;\n\nh) «Desinfeção», processo de destruição, remoção ou inativação seletiva dos organismos passíveis de causarem doenças até ao nível previamente estabelecido como apropriado para o uso e definido na respetiva licença;\n\ni) «Licença de produção de ApR», licença emitida ao abrigo do presente decreto-lei para produção de ApR para uso próprio ou, nos sistemas centralizados, para cedência a terceiros da ApR;\n\nj) «Licença de utilização de ApR», licença emitida ao abrigo do presente decreto-lei para utilização de ApR produzida por terceiros;\n\nk) «Perigo», contaminantes ou poluentes, bem como a respetiva origem, ou outra situação com potencial para provocar danos na saúde, a curto ou longo prazo, ou no ambiente, em particular nos recursos hídricos;\n\nl) «Poluente», qualquer substância física, química ou biológica presente na água que constitui um perigo para a saúde ou para o ambiente;\n\nm) «Ponto de aplicação», local onde a ApR é aplicada;\n\nn) «Ponto de entrega», local onde um sistema centralizado entrega ApR a um utilizador final;\n\no) «Recetor», as pessoas, os animais ou as componentes ambientais naturais, designadamente os recursos hídricos, o solo, a vegetação, vulneráveis aos efeitos adversos de um dado perigo;\n\np) «Rega sem restrição de acesso», rega de áreas com ApR com a possibilidade de permanência de pessoas no local durante o período de rega;\n\nq) «Rega com restrição de acesso», rega de áreas com ApR durante determinados períodos e sem permanência de pessoas no local durante esses mesmos períodos;\n\nr) «Reutilização de água», a utilização de águas residuais tratadas ou de águas de drenagem de sistemas de rega para benefício de interesses particulares ou da comunidade em geral;\n\ns) «Risco», possibilidade de ocorrência de danos decorrentes de um determinado perigo, num dado período temporal ou sob certas circunstâncias;\n\nt) «Sistemas centralizados», sistemas de tratamento de águas residuais urbanas abrangidos pelo Decreto-Lei n.º 152/97, de 19 de junho, na sua redação atual, geridos por uma única entidade gestora, que podem produzir ApR para uso próprio, bem como para cedência a terceiros dessa ApR;\n\nu) «Sistemas descentralizados», sistemas coletivos ou particulares, geridos por uma entidade coletiva ou particular, que apenas podem produzir ApR para uso próprio;\n\nv) «Sistemas descentralizados em simbiose», sistemas de produção de ApR a partir de água remanescente;\n\nw) «Sistema de distribuição», rede de recolha, drenagem, elevação ou armazenamento de ApR desde o ponto de entrega até ao ponto de aplicação;\n\nx) «Sistema de produção de ApR», sistema de tratamento de águas residuais apto a produzir água com qualidade compatível com o uso final pretendido, que inclui a infraestrutura de drenagem até ao ponto de aplicação, ou, tratando-se de um sistema centralizado, o sistema de tratamento incluindo a infraestrutura de drenagem até ao ponto de entrega, podendo a água ter uma qualidade inferior, desde que, após o ponto de entrega, exista um sistema de tratamento adicional que garanta a compatibilidade com o uso final pretendido;\n\ny) «Usos industriais», utilização de ApR em atividades industriais ou serviços, incluindo os sistemas de arrefecimento e as lavagens de veículos em unidades industriais;\n\nz) «Usos paisagísticos», utilização de ApR para criação ou para a manutenção de planos de água de enquadramento paisagístico ou de suporte de vida aquática, fora do contexto urbano;\n\naa) «Usos próprios», utilização de ApR em atividades afetas ao produtor de ApR;\n\nbb) «Usos urbanos», utilização de ApR, produzidas em sistemas centralizados, em contexto urbano, designadamente para usos recreativos, para enquadramento paisagístico, designadamente fontes ou outros elementos de água, para lavagem de ruas, combate a incêndios, sistemas de arrefecimento, sistemas de enchimento de autoclismos e sistemas de lavagem de veículos;\n\ncc) «Utilizações indiretas de ApR», a utilização de ApR que, de forma indireta, possa afetar os recursos hídricos, como os fenómenos de lixiviação, percolação, escorrência ou a condução através de sistemas de drenagem de águas pluviais, e que não implique o retorno direto ao sistema de tratamento de águas residuais ou ao sistema de produção de ApR."
+  },
+  "124092010": {
+   "fragment_id": "124092809",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade competente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entidade competente\n\n1 - A Agência Portuguesa do Ambiente, I. P. (APA, I. P.), é a entidade competente para a emissão das licenças de produção de ApR e das licenças de utilização de ApR, nos termos previstos no presente decreto-lei.\n\n2 - A APA, I. P., deve disponibilizar anualmente no seu sítio na Internet a informação referente às licenças de produção e de utilização de ApR emitidas.\n\n3 - Sem prejuízo das obrigações de monitorização impostas aos titulares das licenças, compete à APA, I. P., garantir a monitorização das massas de água próximo dos locais de aplicação de ApR, tendo em vista o cumprimento dos objetivos ambientais previstos nos planos de gestão de região hidrográfica."
+  },
+  "124092011": {
+   "fragment_id": "124092810",
+   "type": 1,
+   "heading": "Capítulo II — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Licenciamento"
+  },
+  "124092012": {
+   "fragment_id": "124092811",
+   "type": 8,
+   "heading": "Secção I — Avaliação do risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Avaliação do risco"
+  },
+  "124092013": {
+   "fragment_id": "124092812",
+   "type": 11,
+   "heading": "Artigo 5.º — Avaliação do risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Avaliação do risco\n\n1 - A produção e a utilização de ApR estão sujeitas a uma prévia avaliação do risco, nos termos dos números seguintes.\n\n2 - A avaliação do risco para a produção de ApR em sistemas centralizados que preconizem a cedência de água a terceiros deve ser efetuada considerando, como destino final, o ponto de entrega, sem prejuízo de poder incluir as utilizações finais.\n\n3 - A avaliação do risco para a utilização de ApR proveniente de um sistema centralizado deve ser efetuada desde o ponto de entrega até ao ponto de aplicação das ApR.\n\n4 - A produção de ApR em sistemas centralizados para uso próprio exclusivo pode ser sujeita a um procedimento simplificado de avaliação do risco, a definir pela APA, I. P.\n\n5 - A produção e a utilização de ApR em sistemas descentralizados em simbiose não estão sujeitas ao procedimento de avaliação do risco, exceto nas situações em que as entidades responsáveis pela execução das políticas nas áreas da agricultura, ouvidas nos termos do disposto no artigo 11.º, considerem este procedimento necessário.\n\n6 - A avaliação do risco pode ser efetuada com recurso a métodos qualitativos ou semi-quantitativos, quando não hajam comprovadamente dados suficientes que suportem uma avaliação quantitativa."
+  },
+  "124092014": {
+   "fragment_id": "124092813",
+   "type": 11,
+   "heading": "Artigo 6.º — Procedimento de avaliação do risco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Procedimento de avaliação do risco\n\n1 - Para efeitos de avaliação do risco associada à produção e utilização de ApR, o requerente deve apresentar junto da APA, I. P., documentação que evidencie:\n\na) Identificação dos perigos físicos, químicos e biológicos para os diversos recetores em presença, designadamente as pessoas, os recursos hídricos, o solo, a vegetação ou os animais;\n\nb) Identificação das vias, diretas e indiretas, de exposição entre os perigos e os respetivos recetores e a caraterização dos possíveis cenários de exposição dos recetores, considerando a cenarização a partir das normas mínimas de qualidade, descritas no anexo i ao presente decreto-lei, do qual faz parte integrante, e ainda a variação espacial e temporal do projeto de reutilização;\n\nc) Caraterização do risco através de métodos quantitativos, qualitativos ou semi-quantitativos, com a avaliação do resultado da multiplicação entre a probabilidade de ocorrência dos diferentes cenários de exposição pela severidade dos possíveis danos;\n\nd) Gestão do risco, com identificação de medidas de minimização ou de eliminação, através da aplicação de barreiras físicas, químicas, biológicas ou de outras medidas de prevenção;\n\ne) Proposta de normas de qualidade da ApR a aplicar a cada reutilização, no ponto de entrega e no ponto de aplicação, em resultado da aplicação do disposto nas alíneas anteriores.\n\n2 - A avaliação do risco associada à utilização de ApR produzida por sistemas centralizados deve determinar, face à qualidade da água produzida e disponível no ponto de entrega e às utilizações em causa, os procedimentos a adotar para a manutenção ou a afinação da qualidade da água e o tipo de barreiras a implementar, sendo-lhe aplicável, com as devidas adaptações, o procedimento previsto no número anterior.\n\n3 - Para efeitos dos números anteriores, a APA, I. P., disponibiliza, no seu sítio na Internet, um documento guia para apoio à avaliação do risco.\n\n4 - No caso de utilização de ApR para o uso da rega agrícola e florestal, devem ser ainda implementadas medidas que garantam a higienização e a segurança alimentar, sempre que aplicável, em observância do disposto no Regulamento (CE) n.º 852/2004 do Parlamento e do Conselho, de 29 de abril de 2004, e no Regulamento (CE) n.º 178/2002 do Parlamento e do Conselho, de 28 de janeiro de 2002, respetivamente, bem como o estabelecido no documento guia mencionado no número anterior."
+  },
+  "124092015": {
+   "fragment_id": "124092814",
+   "type": 8,
+   "heading": "Secção II — Licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Licenças"
+  },
+  "124092016": {
+   "fragment_id": "124092815",
+   "type": 11,
+   "heading": "Artigo 7.º — Licença de produção e de utilização de ApR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Licença de produção e de utilização de ApR\n\n1 - A produção e a utilização de ApR estão sujeitas à obtenção prévia de licença, nos termos do presente decreto-lei e do regime do LUA.\n\n2 - Sem prejuízo do disposto no número anterior, não está sujeita à obtenção prévia de licença a utilização de águas residuais tratadas nas instalações da respetiva ETAR que não requeiram a definição de normas de qualidade específicas para o uso em causa ou que não constituam utilizações indiretas de ApR."
+  },
+  "124092017": {
+   "fragment_id": "124092816",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença de produção de ApR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Licença de produção de ApR\n\n1 - Os sistemas centralizados e os sistemas descentralizados estão sujeitos à obtenção de licença de produção de ApR, nos termos do presente decreto-lei.\n\n2 - A licença de produção de ApR atribuída aos sistemas centralizados pode incluir, além da produção e do uso próprio, a cedência a terceiros da ApR.\n\n3 - A licença de produção de ApR atribuída aos sistemas descentralizados inclui a produção e o uso próprio.\n\n4 - Os sistemas descentralizados com usos industriais podem produzir ApR a partir de águas residuais próprias ou recebidas de terceiros.\n\n5 - Os sistemas descentralizados em simbiose apenas podem produzir ApR a partir de águas remanescentes próprias ou recebidas de terceiros.\n\n6 - A licença de produção de ApR deve conter as condições relativas ao fornecimento, os requisitos técnicos e os programas de monitorização, nos termos previstos no anexo vi ao presente decreto-lei, do qual faz parte integrante.\n\n7 - Quando esteja em causa a produção de ApR com níveis de qualidade distintos dos constantes do anexo i ao presente decreto-lei, nos termos do disposto no n.º 2 do artigo 16.º, estes devem obrigatoriamente constar da licença de produção de ApR."
+  },
+  "124092018": {
+   "fragment_id": "124092817",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de cedência de ApR a terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condições de cedência de ApR a terceiros\n\n1 - A cedência de ApR só pode ser efetuada caso a sua utilização por terceiros esteja devidamente licenciada.\n\n2 - A APA, I. P., disponibiliza no seu sítio na Internet informação relativa à lista dos produtores e à respetiva caraterização das ApR produzidas, que deve estar integrada na plataforma de licenciamento SILiAmb - Sistema Integrado de Licenciamento do Ambiente."
+  },
+  "124092019": {
+   "fragment_id": "124092818",
+   "type": 11,
+   "heading": "Artigo 10.º — Licença de utilização de ApR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Licença de utilização de ApR\n\n1 - Podem ser titulares de licença de utilização de ApR os utilizadores finais de ApR produzida por sistemas centralizados.\n\n2 - A licença de utilização de ApR deve conter as condições relativas ao fornecimento, os requisitos técnicos e os programas de monitorização, nos termos previstos no anexo vi ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "124092020": {
+   "fragment_id": "124092819",
+   "type": 11,
+   "heading": "Artigo 11.º — Tramitação dos pedidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Tramitação dos pedidos\n\n1 - Os pedidos de licença de produção de ApR e de licença de utilização de ApR devem ser submetidos juntamente com os respetivos elementos instrutórios, listados no anexo vii ao presente decreto-lei, do qual faz parte integrante, bem como com os elementos instrutórios previstos no LUA.\n\n2 - Os pedidos de licença são submetidos pelo requerente, de forma desmaterializada, diretamente na plataforma - SILiAmb - Sistema Integrado de Licenciamento do Ambiente.\n\n3 - No prazo de 10 dias a contar da data da apresentação do requerimento, a APA, I. P., analisa o pedido para verificar se o mesmo se encontra instruído com os elementos exigidos, podendo solicitar, por uma única vez, a prestação de informações ou elementos complementares, bem como o aditamento ou reformulação do pedido.\n\n4 - A APA, I. P., pode, em alternativa ao disposto no número anterior e no prazo aí previsto, convocar o requerente para a realização de uma conferência instrutória, na qual são abordados os aspetos considerados necessários para a boa decisão do pedido e, quando aplicável, solicitados os elementos instrutórios adicionais.\n\n5 - A APA, I. P., solicita parecer vinculativo ao delegado de saúde regional territorialmente competente e, no caso da rega agrícola ou florestal, solicita igualmente parecer vinculativo à direção regional de agricultura territorialmente competente.\n\n6 - A APA, I. P., promove as consultas referidas no número anterior, bem como as demais que sejam legal e regulamentarmente exigíveis, no prazo de 15 dias a contar da receção do pedido ou da receção dos elementos adicionais referidos nos n.os 3 e 4, conforme aplicável.\n\n7 - Os pareceres referidos no n.º 5 devem ser emitidos no prazo de 30 dias.\n\n8 - A APA, I. P., pode convocar a realização de conferência procedimental, à qual preside, a realizar com os órgãos de competência consultiva, nos termos e para efeitos do disposto no Código do Procedimento Administrativo.\n\n9 - Em caso de decisão final favorável, a APA, I. P., notifica, no prazo de 10 dias, o requerente para prestar a caução prevista no artigo seguinte, a qual deve ser assegurada no prazo máximo de 15 dias, sob pena de caducidade do procedimento.\n\n10 - A licença de produção de ApR ou a licença de utilização de ApR, consoante aplicável, é remetida pela APA, I. P., ao requerente após a prestação da caução prevista no número anterior."
+  },
+  "124092021": {
+   "fragment_id": "124092820",
+   "type": 11,
+   "heading": "Artigo 12.º — Prestação de caução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Prestação de caução\n\n1 - É obrigatória a prestação de uma caução que garanta o pagamento de indemnizações por eventuais danos causados por erros ou omissões de projeto, relativamente à produção e à utilização de ApR, ou pelo incumprimento das disposições legais e regulamentares aplicáveis.\n\n2 - A caução pode ser prestada por depósito em conta de pagamento numa instituição de crédito ou mediante garantia bancária, a favor da APA, I. P.\n\n3 - Se a caução for prestada mediante garantia bancária, o requerente deve apresentar junto da APA, I. P., documento emitido por instituição de crédito que assegure o pagamento imediato da importância devida, até ao limite do valor da caução.\n\n4 - O valor da caução é calculado em função da dimensão do projeto de reutilização, nomeadamente o volume de ApR produzido ou utilizado e dos fatores de risco associados, nos termos do disposto no anexo viii ao presente decreto-lei, do qual faz parte integrante.\n\n5 - A caução é libertada até seis meses após a cessação de vigência da respetiva licença, caso não existam, a essa data, responsabilidades do titular da licença pelas quais o mesmo deva responder."
+  },
+  "124092022": {
+   "fragment_id": "124092821",
+   "type": 11,
+   "heading": "Artigo 13.º — Prazo e renovação das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Prazo e renovação das licenças\n\n1 - A licença de produção de ApR e a licença de utilização de ApR são atribuídas pelo prazo máximo de 10 anos, consoante os resultados da avaliação do risco, e atendendo, nomeadamente, ao período de tempo necessário para a amortização dos investimentos realizados, podendo ser renovadas nos termos do presente artigo.\n\n2 - O prazo da licença de utilização de ApR não pode ser superior ao da licença de produção de ApR que lhe está associada.\n\n3 - A renovação da licença de produção de ApR e da licença de utilização de ApR devem ser requeridas pelo interessado, junto da APA, I. P., no prazo de seis meses antes do respetivo termo, ficando a renovação dependente da manutenção da verificação das condições de atribuição, o que pode depender da realização de nova avaliação do risco, nos termos do disposto nos artigos 5.º e 6.º"
+  },
+  "124092023": {
+   "fragment_id": "124092822",
+   "type": 8,
+   "heading": "Secção III — Vicissitudes das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Vicissitudes das licenças"
+  },
+  "124092024": {
+   "fragment_id": "124092823",
+   "type": 11,
+   "heading": "Artigo 14.º — Transmissão das licenças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transmissão das licenças\n\n1 - As licenças de produção e de utilização de ApR são transmissíveis, nos termos dos números seguintes, desde que se mantenham os requisitos que presidiram à respetiva atribuição, ficando por esse efeito o adquirente sub-rogado em todos os direitos e deveres do transmitente.\n\n2 - As licenças de produção e de utilização de ApR são transmissíveis como parte integrante da respetiva exploração agrícola ou do estabelecimento comercial ou industrial, mediante requerimento dirigido à APA, I. P., com a antecedência mínima de 30 dias em relação à data de produção de efeitos, acompanhado de elementos que comprovem que se mantêm os requisitos necessários à sua manutenção.\n\n3 - O disposto no número anterior é, igualmente, aplicável à transmissão de participações sociais que assegurem, nos termos do Código das Sociedades Comerciais, o domínio de sociedade detentora da licença.\n\n4 - As licenças são, ainda, transmissíveis mediante autorização da APA, I. P., a qual pode ser concedida antecipadamente, caso em que a transmissão da licença só é eficaz após notificação da APA, I. P., com a antecedência mínima de 30 dias em relação à data de produção de efeitos.\n\n5 - As licenças atribuídas a pessoas singulares transmitem-se aos seus herdeiros e legatários, podendo a APA, I. P., declarar a caducidade da licença no prazo de seis meses após a transmissão, se constatar que não subsistem as condições necessárias ao cumprimento da mesma ou que o novo titular não oferece garantias de observância das condições estabelecidas.\n\n6 - A decisão de autorização da transmissão da licença é emitida pela APA, I. P., no prazo de 15 dias a contar da apresentação do respetivo requerimento, sendo averbada à correspondente licença e remetida ao novo titular.\n\n7 - A violação do disposto no n.º 1 determina a nulidade do ato de transmissão da licença, sem prejuízo de outras sanções que ao caso couberem."
+  },
+  "124092025": {
+   "fragment_id": "124092824",
+   "type": 11,
+   "heading": "Artigo 15.º — Revisão, revogação e caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Revisão, revogação e caducidade\n\n1 - As licenças de produção e de utilização de ApR podem ser revistas por iniciativa da APA, I. P., sempre que:\n\na) Se verificar uma alteração das circunstâncias de facto existentes à data da emissão da licença, designadamente devido à alteração das condições de risco para a saúde ou para o ambiente;\n\nb) Se verificar uma atualização das melhores técnicas disponíveis;\n\nc) Ocorrerem alterações substanciais e permanentes na composição qualitativa e quantitativa das águas residuais tratadas afluentes ao sistema de produção, das quais resulte a afetação dos resultados da avaliação do risco prévia à emissão da licença;\n\nd) Seja necessária a sua adequação aos instrumentos de gestão territorial ou aos planos de gestão de bacia hidrográfica;\n\ne) Se verificar um caso de força maior.\n\n2 - Constituem causas de revogação total ou parcial das licenças de produção e de utilização de ApR:\n\na) A não observância de condições gerais, específicas ou de outras condições previstas na licença;\n\nb) O não início da produção ou da utilização no prazo de um ano a contar da data de emissão da licença ou a não produção ou utilização durante dois anos consecutivos;\n\nc) A ocorrência de causas naturais que coloquem em risco grave a segurança de pessoas e bens ou do ambiente;\n\nd) A inviabilidade da sua revisão para os efeitos previstos nas alíneas do número anterior;\n\ne) A falta de prestação ou manutenção da caução prevista no artigo 12.º\n\n3 - Para efeitos do disposto nos números anteriores, a APA, I. P., notifica o titular do projeto de revisão ou revogação parcial da licença, incluindo a alteração do valor da caução, se aplicável, para, em sede de audiência dos interessados e no prazo de 10 dias, que se pronuncie sobre as respetivas condições, dando conhecimento às entidades referidas no artigo 11.º\n\n4 - Findo o prazo previsto no número anterior, a APA, I. P., emite decisão final e, caso aplicável, procede ao respetivo averbamento nos termos previstos no Decreto-Lei n.º 75/2015, de 11 de maio, na sua redação atual, notificando o titular e as entidades referidas no artigo 11.º\n\n5 - Nos casos de revogação total da licença, aplica-se o procedimento previsto nos números anteriores, salvo no que respeita à caução que deve ser libertada nos termos do disposto no n.º 5 do artigo 12.º\n\n6 - As licenças de produção e de utilização de ApR caducam:\n\na) Com o decurso do prazo fixado;\n\nb) Com a extinção da pessoa coletiva que for sua titular;\n\nc) Com a morte da pessoa singular que for sua titular, se a APA, I. P., verificar que não estão reunidas as condições para a transmissão da licença, nos termos do disposto no artigo anterior;\n\nd) Com a declaração de insolvência do titular.\n\n7 - O titular deve solicitar à APA, I. P., a alteração da licença sempre que pretenda a modificação de alguma das suas condições.\n\n8 - Para efeitos do número anterior, o titular submete o pedido de alteração, aplicando-se o procedimento previsto nos artigos 11.º a 13.º, com as devidas adaptações."
+  },
+  "124092026": {
+   "fragment_id": "124092825",
+   "type": 1,
+   "heading": "Capítulo III — Requisitos e condições aplicáveis à produção e utilização de ApR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Requisitos e condições aplicáveis à produção e utilização de ApR"
+  },
+  "124092027": {
+   "fragment_id": "124092826",
+   "type": 11,
+   "heading": "Artigo 16.º — Normas de qualidade da ApR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Normas de qualidade da ApR\n\n1 - As normas de qualidade da água a aplicar a cada reutilização e incluídas na respetiva licença para a produção ou para utilização de ApR são definidas pela APA, I. P., com base na avaliação do risco para a saúde e para o ambiente, e considerando os pareceres das entidades referidas no artigo 11.º, nos termos do disposto no artigo 6.º, tendo por referência as normas previstas no anexo i ao presente decreto-lei, do qual faz parte integrante.\n\n2 - Sem prejuízo do disposto no número anterior, a licença para produção ou para utilização de ApR pode definir normas de qualidade distintas das definidas no anexo i, em termos de valores ou de parâmetros, em função dos resultados do processo de avaliação do risco conjugado com a aplicação de barreiras, barreiras equivalentes ou medidas de prevenção adequadas.\n\n3 - As normas de qualidade da água devem ser cumpridas pelo produtor no ponto de entrega de ApR, de acordo com as condições impostas na licença de produção de ApR, e pelo utilizador, de acordo com as condições impostas na licença de utilização de ApR.\n\n4 - Podem ser determinadas normas de qualidade da água distintas das constantes do anexo i ao presente decreto-lei, desde que exista um sistema de barreiras equivalentes, de acordo com o quadro 1 do anexo ii, ou outras medidas de prevenção adicional, que se traduzam em resultados similares, que garantam na utilização final a qualidade aplicável ao uso pretendido, nos termos do quadro 2 no anexo ii do presente decreto-lei.\n\n5 - A qualidade da ApR no sistema de distribuição, após o ponto de entrega pela entidade produtora de ApR, é da responsabilidade do utilizador final, que deve adotar as medidas que evitem a sua degradação, mantenham a qualidade necessária para o fim ou fins a que se destinam e garantam que não constitui um risco para a saúde e para o ambiente."
+  },
+  "124092028": {
+   "fragment_id": "124092827",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de barreiras ou medidas de prevenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Aplicação de barreiras ou medidas de prevenção\n\nAs barreiras ou medidas de prevenção e o correspondente número de barreiras equivalentes, a adotar pelo utilizador final de ApR, são as que constam do anexo ii ao presente decreto-lei, do qual faz parte integrante, podendo, na respetiva licença, ser determinadas outras que produzam resultados equivalentes."
+  },
+  "124092029": {
+   "fragment_id": "124092828",
+   "type": 11,
+   "heading": "Artigo 18.º — Verificação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Verificação da conformidade\n\nConsidera-se que as ApR estão conformes com os parâmetros respetivos se, para cada um dos parâmetros aplicáveis, individualmente considerados, as amostras revelarem que as águas obedecem à norma de qualidade descrita na respetiva licença de produção ou de utilização de ApR, nos seguintes termos:\n\na) Nenhuma amostra excede o valor paramétrico em mais de 75 %; e\n\nb) O número máximo anual de amostras não conformes não excede os limites descritos no anexo iii ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "124092030": {
+   "fragment_id": "124092829",
+   "type": 11,
+   "heading": "Artigo 19.º — Amostragem e métodos analíticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Amostragem e métodos analíticos\n\n1 - Para efeitos de verificação de conformidade das normas de qualidade e para efeitos de fiscalização ou inspeção, devem ser recolhidas, imediatamente antes do ponto de entrega e no ponto de aplicação de ApR, amostras compostas representativas de um período de 24 horas, cujos intervalos de recolha são, sempre que possível, proporcionais aos volumes de água reutilizada, sendo que a partir de 1000 m3/dia devem ser considerados intervalos máximos de uma hora, sem prejuízo do disposto no presente artigo.\n\n2 - O disposto no número anterior não se aplica aos parâmetros microbiológicos e compostos orgânicos voláteis, para os quais, dada a sua natureza, devem ser recolhidas amostras pontuais.\n\n3 - Nos pontos de aplicação das ApR, sempre que, pela natureza da aplicação, não seja possível a recolha de amostras compostas ou a ApR a aplicar resulte de um armazenamento superior a 24 horas, é admissível a recolha de amostras pontuais.\n\n4 - A verificação da conformidade com as normas de qualidade, para efeitos de fiscalização ou inspeção, pode não ser efetuada de acordo com o disposto no número anterior se, com base na avaliação do risco para a saúde e para o ambiente, resultar, por decisão da APA, I. P., vertida na licença, a imposição de condições distintas.\n\n5 - Os métodos analíticos a utilizar devem dar cumprimento ao disposto no Decreto-Lei n.º 83/2011, de 20 de junho, podendo, em alternativa, ser utilizados métodos analíticos devidamente acreditados, caso se verifique a impossibilidade de demonstração dos critérios definidos no presente decreto-lei.\n\n6 - Sem prejuízo do disposto na licença de produção ou na licença de utilização de ApR, na sequência da avaliação do risco, a amostragem de ApR no ponto de entrega bem como no ponto de aplicação deve ser efetuada com a periodicidade descrita no anexo iv ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "124092031": {
+   "fragment_id": "124092830",
+   "type": 11,
+   "heading": "Artigo 20.º — Monitorização da produção e utilização de ApR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Monitorização da produção e utilização de ApR\n\n1 - É obrigatória, por parte do titular da licença de produção ou de utilização de ApR, a monitorização diária dos volumes produzidos ou utilizados, devendo, para o efeito, instalar um contador ou medidor de caudais sempre que os volumes produzidos ou reutilizados sejam iguais ou superiores a 500 m3/dia, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real.\n\n2 - Compete ao titular da licença de produção de ApR a caracterização qualitativa da ApR produzida, devendo garantir que as caraterísticas descritas na respetiva licença se mantêm até ao ponto de entrega, em caso de cedência a terceiros e no caso de uso próprio, durante a utilização final.\n\n3 - Os parâmetros a monitorizar são os que constam no anexo v ao presente decreto-lei, do qual faz parte integrante, sem prejuízo de outros definidos na licença, em conformidade com a avaliação do risco, nos termos do disposto nos artigos 5.º e 6.º\n\n4 - Compete ao titular da licença de utilização de ApR a monitorização da ApR após o ponto de entrega, devendo garantir que as caraterísticas descritas na respetiva licença se mantêm durante a utilização final.\n\n5 - Em função dos resultados do procedimento de avaliação do risco, a licença de produção de ApR ou a licença de utilização de ApR podem determinar a monitorização de um ou mais recetores, designadamente o solo, a vegetação ou os recursos hídricos, para verificação de não deterioração dos mesmos, em resultado da utilização de ApR."
+  },
+  "124092032": {
+   "fragment_id": "124092831",
+   "type": 11,
+   "heading": "Artigo 21.º — Transporte de ApR ou de água residual destinada à produção de ApR em sistemas descentralizados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transporte de ApR ou de água residual destinada à produção de ApR em sistemas descentralizados\n\n1 - O transporte por via rodoviária de ApR ou de água residual destinada à produção de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose é obrigatoriamente acompanhado por documento de transporte, emitido ao abrigo do Decreto-Lei n.º 147/2003, de 11 de julho, na sua redação atual.\n\n2 - Sempre que o transporte ocorra através de conduta, o produtor de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose fica obrigado a instalar um contador ou medidor de caudais para contabilização da água residual proveniente de terceiros para produção de ApR, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real.\n\n3 - O destinatário de água residual para produção de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose deve remeter à APA, I. P., com a frequência definida na licença, o registo da água residual rececionada, e guardar os documentos de transporte referidos no número anterior, por um prazo máximo de cinco anos, para apresentação às autoridades com competências de inspeção e de fiscalização ao abrigo do presente decreto-lei.\n\n4 - O produtor de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose fica obrigado a instalar um contador ou medidor de caudais para contabilização da água residual proveniente de terceiros para produção de ApR, sempre que o respetivo transporte ocorra através de coletor, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real."
+  },
+  "124092033": {
+   "fragment_id": "124092832",
+   "type": 11,
+   "heading": "Artigo 22.º — Condições anómalas de funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Condições anómalas de funcionamento\n\n1 - Sempre que se verifiquem ou sejam expectáveis alterações da qualidade das ApR produzidas decorrentes de situações anómalas no sistema de produção, nomeadamente avarias, acidentes, anomalias decorrentes de manutenção deficiente, condições meteorológicas desfavoráveis, atos de vandalismo ou outros que alterem as condições normais de um sistema de tratamento de águas residuais, especificadas no respetivo título de utilização para rejeição no meio, emitido ao abrigo da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, o fornecimento de ApR deve ser imediatamente suspenso até à reposição da regularidade do sistema de produção.\n\n2 - As situações referidas no número anterior devem ser comunicadas pelo titular da licença de produção de ApR à APA, I. P., no prazo de 24 h a contar da sua ocorrência."
+  },
+  "124092034": {
+   "fragment_id": "124092833",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime contraordenacional"
+  },
+  "124092035": {
+   "fragment_id": "124092834",
+   "type": 11,
+   "heading": "Artigo 23.º — Inspeção e fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Inspeção e fiscalização\n\n1 - A verificação do cumprimento do disposto no presente decreto-lei cabe, no âmbito das respetivas competências, à Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT), à APA, I. P., às autoridades de saúde e às autoridades policiais.\n\n2 - O disposto no número anterior não prejudica o exercício dos poderes de fiscalização e polícia que competem às demais autoridades públicas."
+  },
+  "124092036": {
+   "fragment_id": "124092835",
+   "type": 11,
+   "heading": "Artigo 24.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Contraordenações\n\n1 - Constitui contraordenação ambiental muito grave, punível nos termos do regime aplicável às contraordenações ambientais, previsto na Lei n.º 50/2006, de 29 de agosto, na sua redação atual (LQCOA), a prática dos seguintes atos:\n\na) A produção e a utilização de ApR sem licença;\n\nb) A não aplicação de barreiras ou medidas de prevenção nos termos previstos no artigo 8.º e de acordo com o especificado na licença;\n\nc) O incumprimento das condições estabelecidas na licença, no que respeita:\n\ni) À promoção da prática em local distinto do licenciado;\n\nii) Ao normativo de produção e ou utilização estabelecido;\n\niii) À implementação do programa de monitorização estabelecido;\n\niv) À implementação do programa de monitorização do meio recetor quando classificado como uma zona protegida nos termos definidos na alínea jjj) do artigo 4.º da Lei n.º 58/2005, de 29 de dezembro;\n\nv) Aos métodos analíticos estabelecidos para caraterização das ApR e ou meio recetor;\n\nvi) Às disposições referentes à manutenção da integridade das barreiras;\n\nvii) Às disposições referentes à restrição excecional da prática.\n\n2 - Constitui contraordenação ambiental grave, punível nos termos da LQCOA, a prática dos seguintes atos:\n\na) A cedência de ApR a utilizadores sem licença;\n\nb) O incumprimento das condições estabelecidas na licença, no que respeita:\n\ni) À comunicação de ocorrências anómalas, no sistema de produção e ou utilização, no prazo previsto;\n\nii) À implementação do programa de monitorização do meio recetor nas situações não previstas no número anterior;\n\niii) Às disposições de reporte do programa de monitorização para sistemas de produção e ou utilização de ApR para rega com qualidade A ou outros usos com classe compatível à qualidade A, em termos microbiológicos;\n\niv) Às disposições de reporte do programa de monitorização do meio recetor quando classificado como uma zona protegida nos termos definidos na alínea jjj) do artigo 4.º da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual;\n\nv) À comunicação de alterações no funcionamento dos sistemas de produção e ou utilização, no prazo previsto;\n\nvi) Às disposições de transmissão ou cedência.\n\n3 - Constitui contraordenação ambiental leve, punível nos termos da LQCOA, o incumprimento das condições estabelecidas na licença, no que respeita:\n\na) Às disposições de reporte do programa de monitorização, nas situações não previstas no número anterior;\n\nb) Às disposições de reporte do programa de monitorização do meio recetor nas situações não previstas no número anterior.\n\n4 - A negligência é punível nos termos do disposto na LQCOA.\n\n5 - A condenação pela prática das infrações muito graves e graves previstas nos n.os 1 e 2 pode ser objeto de publicidade quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável, nos termos do disposto na LQCOA.\n\n6 - O produto das coimas previstas no presente artigo é repartido de acordo com o disposto no artigo 73.º LQCOA."
+  },
+  "124092037": {
+   "fragment_id": "124092836",
+   "type": 11,
+   "heading": "Artigo 25.º — Instrução e decisão dos processos de contraordenação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Instrução e decisão dos processos de contraordenação\n\nCompete à IGAMAOT instruir os processos de contraordenação instaurados no âmbito do presente decreto-lei e decidir da aplicação das correspondentes coimas e sanções acessórias."
+  },
+  "124092038": {
+   "fragment_id": "124092837",
+   "type": 11,
+   "heading": "Artigo 26.º — Sanções acessórias e apreensão cautelar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Sanções acessórias e apreensão cautelar\n\n1 - Sempre que a gravidade da infração o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na LQCOA.\n\n2 - Caso seja determinada como sanção acessória a suspensão de licenças emitidas ao abrigo do presente decreto-lei, o reinício da produção e ou utilização de ApR, após expirado o período de suspensão, obriga a uma nova avaliação das condições de licenciamento conforme definido no presente decreto-lei.\n\n3 - As entidades competentes para a fiscalização e inspeção podem ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da LQCOA."
+  },
+  "124092039": {
+   "fragment_id": "124092838",
+   "type": 11,
+   "heading": "Artigo 27.º — Indicadores de qualidade do serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Indicadores de qualidade do serviço\n\nA Entidade Reguladora dos Serviços de Águas e Resíduos deve, no prazo de 1 ano, definir indicadores que permitam mensurar a salvaguarda dos aspetos ambientais associados aos sistemas centralizados no seu sistema de avaliação da qualidade do serviço prestado pelas entidades gestoras integradas no seu âmbito de aplicação."
+  },
+  "124092040": {
+   "fragment_id": "124092839",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "124092041": {
+   "fragment_id": "124092840",
+   "type": 11,
+   "heading": "Artigo 28.º — Informação ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Informação ao público\n\nNos locais de produção e utilização de ApR deve ser colocada informação e sinalética, nos termos definidos por portaria do membro do Governo responsável pela área do ambiente."
+  },
+  "124092042": {
+   "fragment_id": "124092841",
+   "type": 11,
+   "heading": "Artigo 29.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Disposições transitórias\n\n1 - Enquanto não estiver disponível a possibilidade de submissão dos requerimentos na plataforma SILiAmb - Sistema Integrado de Licenciamento do Ambiente, nos termos previstos no artigo 11.º, bem como nas situações de indisponibilidade temporária da mesma, os procedimentos decorrem com recurso aos suportes informáticos existentes, sem prejuízo da submissão em papel.\n\n2 - Quando o interessado apresentar o requerimento inicial em suporte informático e por meio eletrónico, as subsequentes comunicações entre a APA, I. P., e o interessado, no âmbito do respetivo procedimento, são realizadas por meios eletrónicos.\n\n3 - O guia para apoio à avaliação do risco prevista no n.º 3 do artigo 6.º é disponibilizado pela APA, I. P., no prazo máximo de 60 dias após a data da entrada em vigor do presente decreto-lei."
+  },
+  "124092043": {
+   "fragment_id": "124092842",
+   "type": 11,
+   "heading": "Artigo 30.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo da sua adequação à especificidade regional, nos termos da respetiva autonomia político-administrativa, cabendo a sua execução aos serviços e organismos das respetivas administrações regionais com atribuições e competências no âmbito do presente decreto-lei.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "124092044": {
+   "fragment_id": "124092843",
+   "type": 11,
+   "heading": "Artigo 31.º — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alterações legislativas\n\nAlteração ao Decreto-Lei n.º 75/2015, de 11 de maio\n\n1 - Os artigos 2.º e 3.º do Decreto-Lei n.º 75/2015, de 11 de maio, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nk) [...];\n\nl) Regime jurídico de produção de água para reutilização (ApR) obtida a partir do tratamento de águas residuais, bem como da sua utilização, aprovado pelo Decreto-Lei n.º 119/2019, de 21 de agosto.\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\nArtigo 3.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nk) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) [...];\n\nr) [...];\n\ns) [...];\n\nt) [...];\n\nu) [...];\n\nv) [...];\n\nw) [...];\n\nx) [...];\n\ny) [...];\n\nz) [...];\n\naa) [...];\n\nbb) [...];\n\ncc) 'Licença de produção de ApR' licença emitida de acordo com o Decreto-Lei n.º 119/2019, de 21 de agosto, para produção de ApR para uso próprio ou, nos sistemas centralizados, para cedência a terceiros da ApR;\n\ndd) 'Licença de utilização de ApR' licença emitida de acordo com o Decreto-Lei n.º 119/2019, de 21 de agosto, para utilização de ApR produzida por terceiros.\n\n2 - [...].»"
+  },
+  "124092045": {
+   "fragment_id": "124092844",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nSão revogados os n.os 3 e 4 do artigo 58.º do Decreto-Lei n.º 236/98, de 1 de agosto, na sua redação atual."
+  },
+  "124092046": {
+   "fragment_id": "124092845",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "124092048": {
+   "fragment_id": "124092847",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 16.º)\n\nNormas de qualidade\n\nA) REGA\n\nQuadro 1.a: Normas de qualidade de água para reutilização para rega\n\n(ver documento original)\n\nQuadro 1.b: Normas de qualidade de água para reutilização para rega para proteção das culturas agrícolas, florestais e solos\n\n(ver documento original)\n\nQuadro 2: Descrição das classes de rega - Usos e nível de tratamento adequado em função das várias classes de qualidade da água\n\n(ver documento original)\n\nB) USOS URBANOS\n\nQuadro 3: Normas de qualidade de água para usos urbanos e usos paisagísticos (fora do contexto urbano)\n\n(ver documento original)\n\nQuadro 4: Níveis de tratamento adequados a cada uso urbano\n\n(ver documento original)\n\nC) USOS INDUSTRIAIS\n\nQuadro 5: Normas de qualidade de água para reutilização em uso industrial (proteção para contacto humano)\n\n(ver documento original)"
+  },
+  "124092049": {
+   "fragment_id": "124092848",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 17.º)\n\nAplicação de barreiras ou medidas de prevenção\n\nQuadro 1: Tipo de barreiras e correspondência com o número de barreiras equivalentes\n\n(ver documento original)\n\nQuadro 2: Número mínimo de barreiras aplicáveis por uso previsto\n\n(ver documento original)"
+  },
+  "124092050": {
+   "fragment_id": "124092849",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 18.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 18.º)\n\nVerificação da conformidade\n\nNúmero máximo de amostras que podem ser não conformes\n\n(ver documento original)"
+  },
+  "124092051": {
+   "fragment_id": "124092850",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o artigo 19.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o artigo 19.º)\n\nPeriodicidade de amostragem\n\nPeriodicidade de amostragem em função da classe de qualidade ou uso\n\n(ver documento original)\n\nNota: Para todos os parâmetros que venham a constar na licença, a periodicidade de amostragem deverá ser ajustada em função dos resultados da avaliação do risco."
+  },
+  "124092052": {
+   "fragment_id": "124092851",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o artigo 20.º)\n\nMonitorização\n\nParâmetros a monitorizar nas ApR em função do tipo de usos\n\n(ver documento original)"
+  },
+  "124092053": {
+   "fragment_id": "124092852",
+   "type": 14,
+   "heading": "Anexo VI — (a que se referem os artigos 8.º e 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (a que se referem os artigos 8.º e 10.º)\n\nElementos a constar nas licenças\n\n1 - A licença de produção de ApR é emitida com a seguinte informação:\n\na) A identificação do titular;\n\nb) A localização exata do local de produção com identificação da licença de rejeição de águas residuais associada à origem de água para o sistema de produção;\n\nc) A identificação do(s) uso(s) potencial(ais)s e respetiva localização a que se destina a ApR produzida (em caso de cedência a terceiros) e identificação da(s) finalidade(s) e respetiva localização (em caso de uso próprio);\n\nd) A identificação das barreiras ou medidas de prevenção a aplicar, em caso de uso próprio;\n\ne) A identificação e localização do(s) ponto(s) de entrega de ApR (em caso de cedência a terceiros);\n\nf) Os procedimentos a adotar para a manutenção da qualidade da ApR produzida até ao(s) ponto(s) de entrega (em caso de cedência a terceiros) e a utilizar (em caso de uso próprio);\n\ng) O volume de ApR a produzir e a utilizar para uso próprio, previsto no horizonte de projeto (caudal máximo);\n\nh) A obrigatoriedade de instalação de instrumentos que assegurem a medição do volume de ApR produzido e, se aplicável, da água residual rececionada a partir de terceiros para produção de ApR em sistemas descentralizados com usos industriais ou em sistemas descentralizados em simbiose, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, para volumes superiores a 500 m3/dia, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real;\n\ni) As normas de qualidade a aplicar na produção e/ou utilização de ApR e os respetivos níveis de tratamento requeridos;\n\nj) A definição dos programas de monitorização a aplicar nas atividades de produção e/ou utilização de ApR, incluindo as medições de água residual rececionada a partir de terceiros para produção de ApR em sistemas descentralizados com usos industriais ou em sistemas descentralizados em simbiose, as medições do volume de ApR produzido, utilizado internamente e cedido a terceiros, bem como, e sempre que se justifique, dos recetores afetados;\n\nk) A periodicidade e formato de envio à APA, I. P., dos dados resultantes do programa de monitorização previsto na alínea j);\n\nl) Quaisquer outras condições impostas no procedimento de emissão da licença.\n\n2 - A licença de utilização de ApR é emitida com a seguinte informação:\n\na) A identificação do titular;\n\nb) A identificação da licença de produção de ApR acessória;\n\nc) A identificação da(s) finalidade(s) e respetiva localização a que se destina a ApR produzida;\n\nd) O volume de ApR a utilizar e o previsto no horizonte de projeto (caudal máximo);\n\ne) A identificação das barreiras ou medidas de prevenção a aplicar;\n\nf) A obrigatoriedade de instalação de instrumentos que assegurem a medição do volume de ApR utilizado, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, para volumes superiores a 500 m3/dia, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real;\n\ng) As normas de qualidade a aplicar a cada aplicação de ApR;\n\nh) As medidas a adotar para a manutenção da qualidade da ApR que evitem a sua degradação após o ponto de entrega;\n\ni) Os procedimentos de afinação da ApR de acordo com a(s) finalidade(s) pretendida(s) que assegurem a qualidade necessária para o(s) fim/fins a que se destina(m);\n\nj) A definição do programa de monitorização da ApR a utilizar, incluindo as medições do volume utilizado bem como, e sempre que se justifique, dos recetores afetados;\n\nk) A periodicidade e formato de envio à APA, I. P., dos dados resultantes do programa de monitorização previsto na alínea j);\n\nl) A indicação do valor da caução para recuperação ambiental a prestar nos termos previstos no artigo 17.º do presente decreto-lei;\n\nm) Quaisquer outras condições impostas no procedimento de emissão da licença de produção de ApR associada."
+  },
+  "124092054": {
+   "fragment_id": "124092853",
+   "type": 14,
+   "heading": "Anexo VII — (a que se refere o artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — (a que se refere o artigo 11.º)\n\nElementos instrutórios\n\n1 - Os pedidos de emissão de licença de produção de ApR são instruídos com os seguintes elementos:\n\na) Identificação do produtor e indicação do seu número de identificação fiscal;\n\nb) Identificação da licença de rejeição de águas residuais;\n\nc) Identificação, se aplicável, da origem e volumes de águas residuais provenientes de terceiros para efeitos de produção de ApR em sistemas descentralizados com usos industriais ou em sistemas descentralizados em simbiose;\n\nd) Identificação das finalidades de produção de ApR e respetivos volumes a produzir/utilizar em usos próprios (diários e anuais);\n\ne) Avaliação do risco, realizada nos termos previstos no artigo 5.º do presente decreto-lei;\n\nf) Indicação dos locais de armazenamento e de entrega, com recurso à indicação das coordenadas geográficas;\n\ng) Programa de monitorização;\n\nh) Elementos adicionais quando ocorra uso próprio de ApR:\n\ni) Finalidade da utilização de ApR;\n\nii) Procedimentos para a manutenção ou afinação da qualidade da água, se aplicável;\n\niii) Tipo de barreiras a adotar considerando as utilizações em causa;\n\niv) Indicação exata dos locais de armazenamento, com recurso às coordenadas geográficas, se diferentes das previstas na alínea e);\n\nv) Localização geográfica das parcelas, locais ou equipamentos onde serão aplicadas as ApR, à escala apropriada e em formato digital;\n\nvi) Programa de monitorização no meio recetor, se aplicável.\n\n2 - Os pedidos de emissão de licença de utilização de ApR são instruídos com os seguintes elementos:\n\na) Identificação do utilizador e indicação do seu número de identificação fiscal;\n\nb) Identificação da licença de produção de ApR;\n\nc) Finalidade da utilização de ApR;\n\nd) Avaliação do risco, realizada nos termos do previsto no artigo 6.º do presente decreto-lei;\n\ne) Indicação exata dos locais de armazenamento e de receção, com recurso às coordenadas geográficas;\n\nf) Localização geográfica das parcelas ou locais onde serão aplicadas as ApR, à escala apropriada e em formato digital;\n\ng) Programa de monitorização."
+  },
+  "124092055": {
+   "fragment_id": "124092854",
+   "type": 14,
+   "heading": "Anexo VIII — (a que se refere o artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — (a que se refere o artigo 12.º)\n\n(ver documento original)\n\n112528865"
+  },
+  "207758025": {
+   "fragment_id": "124092805",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "207758040": {
+   "fragment_id": "124092807",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O presente decreto-lei aplica-se à reutilização de água proveniente de estações de tratamento de águas residuais (ETAR) domésticas, urbanas e industriais, destinada a usos compatíveis com a qualidade da mesma, designadamente de rega, de usos paisagísticos, de usos urbanos e industriais.\n\n2 - O presente decreto-lei aplica-se, ainda, à reutilização de água remanescente proveniente de certos tipos de cultura agrícola, nomeadamente as culturas fora do solo, que, sendo recolhida, seja passível de ser usada na rega de outro tipo de cultura.\n\n3 - Exclui-se do âmbito de aplicação do presente decreto-lei:\n\na) A reutilização de água para usos potáveis, os quais requerem uma qualidade compatível com o consumo humano, definida no Decreto-Lei n.º 306/2007, de 27 de agosto, na sua redação atual;\n\nb) A recirculação ou a reciclagem de água, quando a mesma ocorra em circuito fechado dentro de um ou mais processos;\n\nc) A reutilização de água para suporte e manutenção de ecossistemas e de garantia de caudais mínimos na massa de água que viabilizem os usos da massa de água recetora;\n\nd) A reutilização de água em sistemas centralizados, desde que os recetores ambientais sejam os mesmos da descarga de água residual tratada que lhe dá origem;\n\ne) A reutilização para utilização pelo próprio, incluindo:\n\ni) Pela mesma pessoa singular ou coletiva;\n\nii) Pelas entidades incluídas no mesmo grupo, quanto exista influência dominante ou quando uma terceira exerça influência dominante sobre ambas.\n\n4 - Os riscos de contágio por Legionella, decorrentes da utilização de ApR, são avaliados no âmbito da Lei n.º 52/2018, de 20 de agosto, na sua redação atual, que estabelece o regime de prevenção e controlo da doença dos legionários.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758041": {
+   "fragment_id": "124092808",
+   "type": 11,
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos de aplicação do presente decreto-lei, entende-se por:\n\na) «Águas residuais», as águas resultantes de atividades domésticas, urbanas, industriais ou de serviços, as escorrências superficiais, as águas pluviais de sistemas de drenagem unitários ou pseudo-separativos, ou de qualquer afluência ou infiltração acidental nos sistemas de drenagem de águas residuais, as quais se dividem em quatro categorias:\n\ni) «Águas residuais domésticas», as águas residuais de serviços e de instalações residenciais, essencialmente provenientes do metabolismo humano e de atividades domésticas;\n\nii) «Águas residuais urbanas», as águas residuais domésticas ou a mistura destas com águas residuais industriais ou com águas pluviais;\n\niii) «Águas residuais industriais», as águas residuais provenientes de qualquer tipo de atividade que não são suscetíveis de ser classificadas como águas residuais domésticas;\n\niv) «Águas pluviais contaminadas», águas pluviais que, em contacto com superfícies impermeabilizadas, sejam passíveis de arrastar materiais em suspensão ou outros poluentes e contaminantes e cuja carga implica a necessidade de tratamento prévio à respetiva reutilização ou à rejeição direta para o meio recetor;\n\nb) «Água para reutilização (ApR)», água residual destinada à reutilização e que foi sujeita ao tratamento necessário para alcançar uma qualidade compatível com o uso final pretendido sem deteriorar a qualidade dos recetores;\n\nc) «Água remanescente», água sobrante proveniente de certos tipos de cultura agrícola, nomeadamente culturas fora do solo e que pode ser utilizada para supressão das necessidades hídricas de outras culturas agrícolas;\n\nd) «Avaliação do risco», processo de comparação dos resultados da análise dos critérios de risco, para a saúde ou ambiente, associado a um dado sistema ou situação, com vista à aceitação do mais reduzido valor de risco possível, que engloba a recolha de informação relativa aos perigos, cenários de exposição, caraterização e gestão do risco e pode ser efetuado com recurso a métodos quantitativos, semi-quantitativos ou qualitativos;\n\ne) «Barreira ou medida de prevenção», qualquer meio físico, químico ou biológico que reduza ou previna o risco de ocorrência de danos para a saúde ou para o ambiente;\n\nf) «Barreira equivalente», medida de controlo que produz um resultado equivalente a uma determinada redução microbiológica correspondente à eliminação de perigo determinado ou redução do mesmo até um nível aceitável;\n\ng) 'Comunicação prévia com prazo', comunicação efetuada pelo produtor ou utilizador de ApR para produção de ApR em sistemas descentralizados ou utilização de ApR em sistemas centralizados;\n\nh) «Contaminante», qualquer substância física, química ou biológica presente na água, independentemente de constituir ou não um perigo para a saúde ou ambiente;\n\ni) 'Desinfeção', processo de destruição, remoção ou inativação seletiva dos organismos passíveis de causarem doenças até ao nível apropriado e definido na respetiva licença ou resposta a comunicação prévia quando esta tenha lugar;\n\nj) «Licença de produção de ApR», licença emitida ao abrigo do presente decreto-lei para produção de ApR para uso próprio ou, nos sistemas centralizados, para cedência a terceiros da ApR;\n\nk) «Licença de utilização de ApR», licença emitida ao abrigo do presente decreto-lei para utilização de ApR produzida por terceiros;\n\nl) «Perigo», contaminantes ou poluentes, bem como a respetiva origem, ou outra situação com potencial para provocar danos na saúde, a curto ou longo prazo, ou no ambiente, em particular nos recursos hídricos;\n\nm) «Poluente», qualquer substância física, química ou biológica presente na água que constitui um perigo para a saúde ou para o ambiente;\n\nn) «Ponto de aplicação», local onde a ApR é aplicada;\n\no) «Ponto de entrega», local onde um sistema centralizado entrega ApR a um utilizador final;\n\np) «Recetor», as pessoas, os animais ou as componentes ambientais naturais, designadamente os recursos hídricos, o solo, a vegetação, vulneráveis aos efeitos adversos de um dado perigo;\n\nq) «Rega sem restrição de acesso», rega de áreas com ApR com a possibilidade de permanência de pessoas no local durante o período de rega;\n\nr) «Rega com restrição de acesso», rega de áreas com ApR durante determinados períodos e sem permanência de pessoas no local durante esses mesmos períodos;\n\ns) «Reutilização de água», a utilização de águas residuais tratadas ou de águas de drenagem de sistemas de rega para benefício de interesses particulares ou da comunidade em geral;\n\nt) «Risco», possibilidade de ocorrência de danos decorrentes de um determinado perigo, num dado período temporal ou sob certas circunstâncias;\n\nu) «Sistemas centralizados», sistemas de tratamento de águas residuais urbanas abrangidos pelo Decreto-Lei n.º 152/97, de 19 de junho, na sua redação atual, geridos por uma única entidade gestora, que podem produzir ApR para uso próprio, bem como para cedência a terceiros dessa ApR;\n\nv) «Sistemas descentralizados», sistemas coletivos ou particulares, geridos por uma entidade coletiva ou particular, que apenas podem produzir ApR para uso próprio;\n\nw) «Sistemas descentralizados em simbiose», sistemas de produção de ApR a partir de água remanescente;\n\nx) «Sistema de distribuição», rede de recolha, drenagem, elevação ou armazenamento de ApR desde o ponto de entrega até ao ponto de aplicação;\n\ny) «Sistema de produção de ApR», sistema de tratamento de águas residuais apto a produzir água com qualidade compatível com o uso final pretendido, que inclui a infraestrutura de drenagem até ao ponto de aplicação, ou, tratando-se de um sistema centralizado, o sistema de tratamento incluindo a infraestrutura de drenagem até ao ponto de entrega, podendo a água ter uma qualidade inferior, desde que, após o ponto de entrega, exista um sistema de tratamento adicional que garanta a compatibilidade com o uso final pretendido;\n\nz) «Usos industriais», utilização de ApR em atividades industriais ou serviços, incluindo os sistemas de arrefecimento e as lavagens de veículos em unidades industriais;\n\naa) «Usos paisagísticos», utilização de ApR para criação ou para a manutenção de planos de água de enquadramento paisagístico ou de suporte de vida aquática, fora do contexto urbano;\n\nbb) «Usos próprios», utilização de ApR em atividades afetas ao produtor de ApR;\n\ncc) «Usos urbanos», utilização de ApR, produzidas em sistemas centralizados, em contexto urbano, designadamente para usos recreativos, para enquadramento paisagístico, designadamente fontes ou outros elementos de água, para lavagem de ruas, combate a incêndios, sistemas de arrefecimento, sistemas de enchimento de autoclismos e sistemas de lavagem de veículos;\n\ndd) «Utilizações indiretas de ApR», a utilização de ApR que, de forma indireta, possa afetar os recursos hídricos, como os fenómenos de lixiviação, percolação, escorrência ou a condução através de sistemas de drenagem de águas pluviais, e que não implique o retorno direto ao sistema de tratamento de águas residuais ou ao sistema de produção de ApR.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758042": {
+   "fragment_id": "124092809",
+   "type": 11,
+   "heading": "Artigo 4.º — Entidade competente",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 4.º — Entidade competente\n\n1 - A Agência Portuguesa do Ambiente, I. P. (APA, I. P.), é a entidade competente para a emissão das licenças de produção de ApR e das licenças de utilização de ApR e para apreciação das comunicações prévias com prazo apresentadas, nos termos previstos no presente decreto-lei.\n\n2 - A APA, I. P., disponibiliza anualmente no seu sítio na Internet a informação referente às licenças de produção e de utilização de ApR emitidas, bem como às comunicações prévias com prazo admitidas, seja de forma expressa seja por efeito do silêncio.\n\n3 - Sem prejuízo das obrigações de monitorização impostas aos titulares das licenças, compete à APA, I. P., garantir a monitorização das massas de água próximo dos locais de aplicação de ApR, tendo em vista o cumprimento dos objetivos ambientais previstos nos planos de gestão de região hidrográfica.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758026": {
+   "fragment_id": "124092810",
+   "type": 1,
+   "heading": "Capítulo II — Licenciamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Licenciamento"
+  },
+  "207758043": {
+   "fragment_id": "124092815",
+   "type": 11,
+   "heading": "Artigo 7.º — Produção e utilização de água para reutilização",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Produção e utilização de água para reutilização\n\n1 - A produção e a utilização de ApR estão sujeitas a comunicação prévia com prazo ou à obtenção prévia de licença, nos termos do presente decreto-lei e do regime do LUA.\n\n2 - Sem prejuízo do disposto no número anterior, não está sujeita à obtenção prévia de licença a utilização de águas residuais tratadas nas instalações da respetiva ETAR que não requeiram a definição de normas de qualidade específicas para o uso em causa ou que não constituam utilizações indiretas de ApR.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758044": {
+   "fragment_id": "124092816",
+   "type": 11,
+   "heading": "Artigo 8.º — Licença de produção de água para reutilização",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 8.º — Licença de produção de água para reutilização\n\n1 - Sem prejuízo do disposto no artigo anterior, os sistemas centralizados e os sistemas descentralizados abrangidos pelo presente decreto-lei estão sujeitos à obtenção de licença de produção de ApR, nos termos do presente decreto-lei.\n\n2 - (Revogado.)\n\n3 - (Revogado.)\n\n4 - (Revogado.)\n\n5 - (Revogado.)\n\n6 - A licença de produção de ApR deve conter as condições relativas ao fornecimento, os requisitos técnicos e os programas de monitorização, nos termos previstos no anexo vi ao presente decreto-lei, do qual faz parte integrante.\n\n7 - Quando esteja em causa a produção de ApR com níveis de qualidade distintos dos constantes do anexo i ao presente decreto-lei, nos termos do disposto no n.º 2 do artigo 16.º, estes devem obrigatoriamente constar da licença de produção de ApR.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "208510219": {
+   "fragment_id": "124092817",
+   "type": 11,
+   "heading": "Artigo 9.º — Condições de cedência de água para reutilização a terceiros",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7-A/2023 - Diário da República n.º 42/2023, 2º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-a-2023-208013507), produz efeitos a partir de 2023-02-11",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 9.º — Condições de cedência de água para reutilização a terceiros\n\n1 - A cedência de ApR pode ser efetuada:\n\na) Caso a sua utilização por terceiros esteja devidamente licenciada;\n\nb) Nos casos previstos no artigo 13.º-A, após o decurso da comunicação prévia com prazo quando a APA, I. P., não se pronuncie no prazo previsto; ou\n\nc) Nos casos previstos no artigo 13.º-A, caso seja obtida pronúncia positiva da APA, I. P., no prazo de que esta dispõe para responder após comunicação prévia com prazo.\n\n2 - A APA, I. P., disponibiliza no seu sítio na Internet informação relativa à lista dos produtores e à respetiva caraterização das ApR produzidas, que deve estar integrada na plataforma de licenciamento SILiAmb - Sistema Integrado de Licenciamento do Ambiente.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7-A/2023 - Diário da República n.º 42/2023, 2º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-a-2023-208013507), produz efeitos a partir de 2023-02-11\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758046": {
+   "fragment_id": "124092819",
+   "type": 11,
+   "heading": "Artigo 11.º — Tramitação dos pedidos",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 11.º — Tramitação dos pedidos\n\n1 - Os pedidos de licença de produção de ApR e de licença de utilização de ApR devem ser submetidos juntamente com os respetivos elementos instrutórios, listados no anexo vii ao presente decreto-lei, do qual faz parte integrante, bem como com os elementos instrutórios previstos no LUA.\n\n2 - Os pedidos de licença são submetidos pelo requerente, de forma desmaterializada, diretamente na plataforma - SILiAmb - Sistema Integrado de Licenciamento do Ambiente.\n\n3 - No prazo de 10 dias a contar da data da apresentação do requerimento, a APA, I. P., analisa o pedido para verificar se o mesmo se encontra instruído com os elementos exigidos, podendo solicitar, por uma única vez, a prestação de informações ou elementos complementares, bem como o aditamento ou reformulação do pedido.\n\n4 - A APA, I. P., pode, em alternativa ao disposto no número anterior e no prazo aí previsto, convocar o requerente para a realização de uma conferência instrutória, na qual são abordados os aspetos considerados necessários para a boa decisão do pedido e, quando aplicável, solicitados os elementos instrutórios adicionais.\n\n5 - A APA, I. P., solicita parecer vinculativo ao delegado de saúde regional territorialmente competente e, no caso da rega agrícola ou florestal, solicita igualmente parecer vinculativo à direção regional de agricultura territorialmente competente.\n\n6 - A APA, I. P., promove as consultas referidas no número anterior, bem como as demais que sejam legal e regulamentarmente exigíveis, no prazo de três dias a contar da receção do pedido ou da receção dos elementos adicionais referidos nos n.os 3 e 4, conforme aplicável.\n\n7 - Os pareceres referidos no n.º 5 devem ser emitidos no prazo de 10 dias.\n\n8 - A APA, I. P., pode convocar a realização de conferência procedimental, à qual preside, a realizar com os órgãos de competência consultiva, nos termos e para efeitos do disposto no Código do Procedimento Administrativo.\n\n9 - Em caso de decisão final favorável, a APA, I. P., notifica, no prazo de 10 dias, o requerente para prestar a caução prevista no artigo seguinte, a qual deve ser assegurada no prazo máximo de 15 dias, sob pena de caducidade do procedimento.\n\n10 - A licença de produção de ApR ou a licença de utilização de ApR, consoante aplicável, é remetida pela APA, I. P., ao requerente após a prestação da caução prevista no número anterior.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207757998": {
+   "fragment_id": "207760051",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Comunicação prévia com prazo",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 13.º-A — Comunicação prévia com prazo\n\n1 - A utilização de ApR produzida em sistemas de produção centralizados, para os quais tenha sido emitida licença de produção, está sujeita ao regime de comunicação prévia com prazo, nos termos do artigo 13.º-B, nos seguintes casos:\n\na) Lavagem de vias urbanas e arruamentos;\n\nb) Lavagem de viaturas e de equipamentos de recolha de resíduos urbanos, desde que não usados no transporte, recolha e manipulação de produtos ou resíduos perigosos;\n\nc) Combate a incêndios;\n\nd) Uso em autoclismos;\n\ne) Uso como águas para arrefecimento fora de circuito fechado;\n\nf) Produção de energia, nomeadamente hidrogénio;\n\ng) Rega de espaços florestais;\n\nh) Rega de campos de golfe;\n\ni) Rega de jardins.\n\n2 - A produção e a utilização de ApR em sistemas descentralizados estão sujeitas ao regime de comunicação prévia com prazo, nos termos do artigo 13.º-B, desde que os mesmos não recebam águas residuais brutas ou tratadas de terceiros e a ApR produzida se destine ao uso exclusivo nas instalações onde se localiza a produção das mesmas.\n\n3 - O previsto nos números anteriores não prejudica os procedimentos necessários ao cumprimento do Lei n.º 52/2018, de 20 de agosto, na sua redação atual.\n\n> Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207757999": {
+   "fragment_id": "207760052",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Tramitação da comunicação prévia com prazo",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 13.º-B — Tramitação da comunicação prévia com prazo\n\n1 - A comunicação prévia com prazo consiste numa declaração que permite ao interessado iniciar a atividade, caso a APA, I. P., não se pronuncie após o decurso do prazo de 20 dias, contados a partir da data da entrega da comunicação.\n\n2 - As comunicações prévias com prazo previstas no artigo 13.º-A devem ser submetidas juntamente com os respetivos elementos instrutórios, listados no anexo vii-A do presente decreto-lei e do qual faz parte integrante, na plataforma SILiAmb - Sistema Integrado de Licenciamento do Ambiente ou em qualquer outro sistema informático onde tal entrega seja legalmente possível.\n\n3 - A comunicação prévia com prazo é acompanhada de um termo de responsabilidade ambiental e de risco contra terceiros, elaborado de acordo com o anexo ix do presente decreto-lei e do qual faz parte integrante.\n\n4 - A APA, I. P., tem 20 dias para se pronunciar sobre os elementos enviados nos termos dos números anteriores e, caso não haja pronúncia durante este prazo, a utilização de ApR nos casos previstos no artigo 13.º-A pode efetuar-se.\n\n5 - Caso a APA, I. P., se pronuncie desfavoravelmente, dentro do prazo previsto no número anterior, o procedimento é extinto, podendo o interessado apresentar nova comunicação prévia aproveitando todos os elementos instrutórios anteriormente submetidos, no prazo de um ano a contar da notificação da extinção do procedimento.\n\n> Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758000": {
+   "fragment_id": "207760053",
+   "type": 11,
+   "heading": "Artigo 13.º-C — Prazo e renovação das comunicações prévias com prazo",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 13.º-C — Prazo e renovação das comunicações prévias com prazo\n\n1 - A permissão de produção ou utilização de ApR no âmbito do procedimento de comunicação prévia com prazo é válida pelo prazo de 10 anos e renovada, por iguais períodos, automaticamente, salvo se verificada, pela APA, I. P., uma situação de alteração das circunstâncias ou se requerida a não renovação, pelo interessado, junto da APA, I. P.\n\n2 - O prazo da permissão de utilização de ApR decorrente de comunicação prévia com prazo não pode ser superior ao da licença de produção de ApR que lhe está associada.\n\n> Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758027": {
+   "fragment_id": "124092825",
+   "type": 1,
+   "heading": "Capítulo III — Requisitos e condições aplicáveis à produção e utilização de ApR",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Requisitos e condições aplicáveis à produção e utilização de ApR"
+  },
+  "207758047": {
+   "fragment_id": "124092826",
+   "type": 11,
+   "heading": "Artigo 16.º — Normas de qualidade da água para reutilização",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 16.º — Normas de qualidade da água para reutilização\n\n1 - As normas de qualidade da água a aplicar a cada reutilização e incluídas na respetiva licença para a produção ou para utilização de ApR são definidas pela APA, I. P., com base na avaliação do risco para a saúde e para o ambiente, e considerando os pareceres das entidades referidas no artigo 11.º, nos termos do disposto no artigo 6.º, tendo por referência as normas previstas no anexo i ao presente decreto-lei, do qual faz parte integrante.\n\n2 - Sem prejuízo do disposto no número anterior, a licença para produção ou para utilização de ApR pode definir normas de qualidade distintas das definidas no anexo i, em termos de valores ou de parâmetros, em função dos resultados do processo de avaliação do risco conjugado com a aplicação de barreiras, barreiras equivalentes ou medidas de prevenção adequadas.\n\n3 - As normas de qualidade da água a aplicar a cada reutilização sujeita a comunicação prévia com prazo são:\n\na) As previstas no anexo i do presente decreto-lei em caso de ausência de resposta à comunicação prévia com prazo, aplicando-se, em caso de intervalo de valores, o mais elevado; ou\n\nb) As incluídas na comunicação ao operador e que resultam da avaliação do risco para a saúde e para o ambiente, considerando os pareceres das entidades referidas no artigo 12.º, nos termos do disposto no artigo 6.º, tendo por referência as normas previstas no anexo i do presente decreto-lei.\n\n4 - As normas de qualidade da água devem ser cumpridas pelo produtor no ponto de entrega de ApR, de acordo com as condições impostas na licença de produção de ApR, e pelo utilizador, de acordo com as condições impostas na licença de utilização de ApR.\n\n5 - Podem ser determinadas normas de qualidade da água distintas das constantes do anexo i do presente decreto-lei desde que exista um sistema de barreiras equivalentes, de acordo com o quadro 1 do anexo ii do presente decreto-lei e do qual faz parte integrante, ou outras medidas de prevenção adicional, que se traduzam em resultados similares, que garantam na utilização final a qualidade aplicável ao uso pretendido, nos termos do quadro 2 no anexo ii do presente decreto-lei.\n\n6 - A qualidade da ApR no sistema de distribuição, após o ponto de entrega pela entidade produtora de ApR, é da responsabilidade do utilizador final, que deve adotar as medidas que evitem a sua degradação, mantenham a qualidade necessária para o fim ou fins a que se destinam e garantam que não constitui um risco para a saúde e para o ambiente.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758048": {
+   "fragment_id": "124092827",
+   "type": 11,
+   "heading": "Artigo 17.º — Aplicação de barreiras ou medidas de prevenção",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 17.º — Aplicação de barreiras ou medidas de prevenção\n\nAs barreiras ou medidas de prevenção e o correspondente número de barreiras equivalentes, a adotar pelo utilizador final de ApR, são as que constam do anexo ii do presente decreto-lei, podendo, na respetiva licença ou na resposta à comunicação prévia com prazo, ser utilizadas outras que produzam resultados equivalentes.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758049": {
+   "fragment_id": "124092828",
+   "type": 11,
+   "heading": "Artigo 18.º — Verificação da conformidade",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 18.º — Verificação da conformidade\n\nConsidera-se que as ApR estão conformes com os parâmetros respetivos se, para cada um dos parâmetros aplicáveis, individualmente considerados, as amostras revelarem que as águas obedecem à norma de qualidade descrita na respetiva licença de produção ou de utilização de ApR, ou resultantes da resposta expressa ou, em caso de silêncio, após o decurso do prazo da comunicação prévia com prazo, os previstos na alínea a) do n.º 3 do artigo 16.º, nos seguintes termos:\n\na) Nenhuma amostra excede o valor paramétrico em mais de 75 %; e\n\nb) O número máximo anual de amostras não conformes não excede os limites descritos no anexo iii ao presente decreto-lei, do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758050": {
+   "fragment_id": "124092829",
+   "type": 11,
+   "heading": "Artigo 19.º — Amostragem e métodos analíticos",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 19.º — Amostragem e métodos analíticos\n\n1 - Para efeitos de verificação de conformidade das normas de qualidade e para efeitos de fiscalização ou inspeção, devem ser recolhidas, imediatamente antes do ponto de entrega e no ponto de aplicação de ApR, amostras compostas representativas de um período de 24 horas, cujos intervalos de recolha são, sempre que possível, proporcionais aos volumes de água reutilizada, sendo que a partir de 1000 m3/dia devem ser considerados intervalos máximos de uma hora, sem prejuízo do disposto no presente artigo.\n\n2 - O disposto no número anterior não se aplica aos parâmetros microbiológicos e compostos orgânicos voláteis, para os quais, dada a sua natureza, devem ser recolhidas amostras pontuais.\n\n3 - Nos pontos de aplicação das ApR, sempre que, pela natureza da aplicação, não seja possível a recolha de amostras compostas ou a ApR a aplicar resulte de um armazenamento superior a 24 horas, é admissível a recolha de amostras pontuais.\n\n4 - A verificação da conformidade com as normas de qualidade, para efeitos de fiscalização ou inspeção, pode não ser efetuada de acordo com o disposto no número anterior se, com base na avaliação do risco para a saúde e para o ambiente, resultar, por decisão da APA, I. P., a imposição de condições distintas.\n\n5 - Os métodos analíticos a utilizar devem dar cumprimento ao disposto no Decreto-Lei n.º 83/2011, de 20 de junho, podendo, em alternativa, ser utilizados métodos analíticos devidamente acreditados, caso se verifique a impossibilidade de demonstração dos critérios definidos no presente decreto-lei.\n\n6 - Sem prejuízo do disposto na licença de produção ou na licença de utilização de ApR ou do resultante da comunicação prévia com prazo, na sequência da avaliação do risco, a amostragem de ApR no ponto de entrega bem como no ponto de aplicação deve ser efetuada com a periodicidade descrita no anexo iv do presente decreto-lei e do qual faz parte integrante.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758051": {
+   "fragment_id": "124092830",
+   "type": 11,
+   "heading": "Artigo 20.º — Monitorização da produção e utilização de água para reutilização",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 20.º — Monitorização da produção e utilização de água para reutilização\n\n1 - É obrigatória, por parte do titular da licença de produção ou de utilização de ApR, a monitorização diária dos volumes produzidos ou utilizados, devendo, para o efeito, instalar um contador ou medidor de caudais sempre que os volumes produzidos ou reutilizados sejam iguais ou superiores a 500 m3/dia, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real.\n\n2 - Compete ao titular da licença de produção de ApR a caracterização qualitativa da ApR produzida, devendo garantir que as caraterísticas descritas na respetiva licença se mantêm até ao ponto de entrega, em caso de cedência a terceiros e no caso de uso próprio, durante a utilização final.\n\n3 - Nas situações sujeitas a comunicação prévia com prazo para produção de ApR, compete ao promotor da mesma a caracterização qualitativa da ApR produzida, devendo garantir que as características descritas na respetiva comunicação se mantêm durante a produção.\n\n4 - Nas situações sujeitas a comunicação prévia com prazo para utilização de ApR, compete ao promotor da mesma a caracterização qualitativa da ApR utilizada, devendo garantir que as características descritas na respetiva comunicação se mantêm durante a utilização final.\n\n5 - Os parâmetros a monitorizar são os que constam do anexo v do presente decreto-lei e do qual faz parte integrante, sem prejuízo de outros definidos na licença ou no contexto da comunicação prévia com prazo, em conformidade com a avaliação do risco, nos termos do disposto nos artigos 5.º e 6.º.\n\n6 - Compete ao titular da licença de utilização de ApR a monitorização da ApR após o ponto de entrega, devendo garantir que as caraterísticas descritas na respetiva licença se mantêm durante a utilização final.\n\n7 - Em função dos resultados do procedimento de avaliação do risco, a APA, I. P., pode determinar a monitorização de um ou mais recetores, designadamente o solo, a vegetação ou os recursos hídricos, para verificação de não deterioração dos mesmos, em resultado da utilização de ApR na licença de produção de ApR, na licença de utilização de ApR ou no contexto da comunicação prévia com prazo.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758052": {
+   "fragment_id": "124092831",
+   "type": 11,
+   "heading": "Artigo 21.º — Transporte de água para reutilização ou de água residual destinada a produção de água para reutilização em sistemas descentralizados",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 21.º — Transporte de água para reutilização ou de água residual destinada a produção de água para reutilização em sistemas descentralizados\n\n1 - O transporte por via rodoviária de ApR ou de água residual destinada à produção de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose é obrigatoriamente acompanhado por documento de transporte, emitido ao abrigo do Decreto-Lei n.º 147/2003, de 11 de julho, na sua redação atual.\n\n2 - Sempre que o transporte ocorra através de conduta, o produtor de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose fica obrigado a instalar um contador ou medidor de caudais para contabilização da água residual proveniente de terceiros para produção de ApR, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real.\n\n3 - O destinatário de água residual para produção de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose deve remeter à APA, I. P., com a frequência bienal, o registo da água residual rececionada e guardar os documentos de transporte referidos no número anterior, por um prazo máximo de cinco anos, para apresentação às autoridades com competências de inspeção e de fiscalização ao abrigo do presente decreto-lei.\n\n4 - O produtor de ApR em sistemas descentralizados com usos industriais e em sistemas descentralizados em simbiose fica obrigado a instalar um contador ou medidor de caudais para contabilização da água residual proveniente de terceiros para produção de ApR, sempre que o respetivo transporte ocorra através de coletor, incluindo uma unidade eletrónica com ecrã local, para leitura de caudal instantâneo e totalizador, e, caso se revele necessário, dispositivos de registo e transmissão de dados que permitam comunicar à APA, I. P., os dados recolhidos em tempo real.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758053": {
+   "fragment_id": "124092832",
+   "type": 11,
+   "heading": "Artigo 22.º — Condições anómalas de funcionamento",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 22.º — Condições anómalas de funcionamento\n\n1 - Sempre que se verifiquem ou sejam expectáveis alterações da qualidade das ApR produzidas decorrentes de situações anómalas no sistema de produção, nomeadamente avarias, acidentes, anomalias decorrentes de manutenção deficiente, condições meteorológicas desfavoráveis, atos de vandalismo ou outros que alterem as condições normais de um sistema de tratamento de águas residuais, especificadas no respetivo título de utilização para rejeição no meio, emitido ao abrigo da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual, o fornecimento de ApR deve ser imediatamente suspenso até à reposição da regularidade do sistema de produção.\n\n2 - As situações referidas no número anterior devem ser comunicadas pelo produtor de ApR à APA, I. P., no prazo de 24 horas a contar da sua ocorrência.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758028": {
+   "fragment_id": "124092833",
+   "type": 1,
+   "heading": "Capítulo IV — Fiscalização e regime contraordenacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Fiscalização e regime contraordenacional"
+  },
+  "208510220": {
+   "fragment_id": "124092835",
+   "type": 11,
+   "heading": "Artigo 24.º — Contraordenações",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7-A/2023 - Diário da República n.º 42/2023, 2º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-a-2023-208013507), produz efeitos a partir de 2023-02-11",
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 24.º — Contraordenações\n\n1 - Constitui contraordenação ambiental muito grave, punível nos termos do regime aplicável às contraordenações ambientais, previsto na Lei n.º 50/2006, de 29 de agosto, na sua redação atual (LQCOA), a prática dos seguintes atos:\n\na) A produção e a utilização de ApR sem licença ou sem a prestação de comunicação prévia com prazo, nos casos previstos no artigo 13.º-A.\n\nb) A não aplicação de barreiras ou medidas de prevenção nos termos previstos no artigo 8.º e de acordo com o especificado na licença;\n\nc) O incumprimento das condições estabelecidas, no que respeita:\n\ni) À promoção da prática em local distinto do licenciado;\n\nii) Ao normativo de produção e ou utilização estabelecido;\n\niii) À implementação do programa de monitorização estabelecido;\n\niv) À implementação do programa de monitorização do meio recetor quando classificado como uma zona protegida nos termos definidos na alínea jjj) do artigo 4.º da Lei n.º 58/2005, de 29 de dezembro;\n\nv) Aos métodos analíticos estabelecidos para caraterização das ApR e ou meio recetor;\n\nvi) Às disposições referentes à manutenção da integridade das barreiras;\n\nvii) Às disposições referentes à restrição excecional da prática.\n\nviii) Ao termo de responsabilidade ambiental e de risco contra terceiros, referido no n.º 3 do artigo 13.º-B;\n\n2 - Constitui contraordenação ambiental grave, punível nos termos da LQCOA, a prática dos seguintes atos:\n\na) A cedência de ApR a utilizadores sem licença;\n\nb) O incumprimento das condições estabelecidas na licença, no que respeita:\n\ni) À comunicação de ocorrências anómalas, no sistema de produção e ou utilização, no prazo previsto;\n\nii) À implementação do programa de monitorização do meio recetor nas situações não previstas no número anterior;\n\niii) Às disposições de reporte do programa de monitorização para sistemas de produção e ou utilização de ApR para rega com qualidade A ou outros usos com classe compatível à qualidade A, em termos microbiológicos;\n\niv) Às disposições de reporte do programa de monitorização do meio recetor quando classificado como uma zona protegida nos termos definidos na alínea jjj) do artigo 4.º da Lei n.º 58/2005, de 29 de dezembro, na sua redação atual;\n\nv) À comunicação de alterações no funcionamento dos sistemas de produção e ou utilização, no prazo previsto;\n\nvi) Às disposições de transmissão ou cedência.\n\n3 - Constitui contraordenação ambiental leve, punível nos termos da LQCOA, o incumprimento das condições estabelecidas na licença, no que respeita:\n\na) Às disposições de reporte do programa de monitorização, nas situações não previstas no número anterior;\n\nb) Às disposições de reporte do programa de monitorização do meio recetor nas situações não previstas no número anterior.\n\n4 - A negligência é punível nos termos do disposto na LQCOA.\n\n5 - A condenação pela prática das infrações muito graves e graves previstas nos n.os 1 e 2 pode ser objeto de publicidade quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstratamente aplicável, nos termos do disposto na LQCOA.\n\n6 - O produto das coimas previstas no presente artigo é repartido de acordo com o disposto no artigo 73.º LQCOA.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7-A/2023 - Diário da República n.º 42/2023, 2º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-a-2023-208013507), produz efeitos a partir de 2023-02-11\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758055": {
+   "fragment_id": "124092837",
+   "type": 11,
+   "heading": "Artigo 26.º — Sanções acessórias e apreensão cautelar",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 26.º — Sanções acessórias e apreensão cautelar\n\n1 - Sempre que a gravidade da infração o justifique, pode a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na LQCOA.\n\n2 - Caso seja determinada como sanção acessória a suspensão de produção ou de utilização de ApR, o reinício da produção ou utilização de ApR, após decorrido o período de suspensão, obriga a uma avaliação pela APA, I. P., das condições para a produção ou utilização.\n\n3 - As entidades competentes para a fiscalização e inspeção podem ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da LQCOA.\n\n> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758029": {
+   "fragment_id": "124092839",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "207758001": {
+   "fragment_id": "207760054",
+   "type": 11,
+   "heading": "Artigo 28.º-A — Gratuitidade",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 28.º-A — Gratuitidade\n\nO pedido e a emissão das licenças ou procedimentos de comunicação prévia com prazo previstos no presente decreto-lei são gratuitos, sendo proibida a cobrança de qualquer tipo de taxa, designadamente a taxa de recursos hídricos.\n\n> Aditado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758002": {
+   "fragment_id": "124092841",
+   "type": 11,
+   "heading": "Artigo 29.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Disposições transitórias\n\n1 - Enquanto não estiver disponível a possibilidade de submissão dos requerimentos na plataforma SILiAmb - Sistema Integrado de Licenciamento do Ambiente, nos termos previstos no artigo 11.º, bem como nas situações de indisponibilidade temporária da mesma, os procedimentos decorrem com recurso aos suportes informáticos existentes, sem prejuízo da submissão em papel.\n\n2 - Quando o interessado apresentar o requerimento inicial em suporte informático e por meio eletrónico, as subsequentes comunicações entre a APA, I. P., e o interessado, no âmbito do respetivo procedimento, são realizadas por meios eletrónicos.\n\n3 - O guia para apoio à avaliação do risco prevista no n.º 3 do artigo 6.º é disponibilizado pela APA, I. P., no prazo máximo de 60 dias após a data da entrada em vigor do presente decreto-lei."
+  },
+  "207758003": {
+   "fragment_id": "124092842",
+   "type": 11,
+   "heading": "Artigo 30.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Regiões Autónomas\n\n1 - O presente decreto-lei aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo da sua adequação à especificidade regional, nos termos da respetiva autonomia político-administrativa, cabendo a sua execução aos serviços e organismos das respetivas administrações regionais com atribuições e competências no âmbito do presente decreto-lei.\n\n2 - O produto das coimas aplicadas nas Regiões Autónomas constitui receita própria destas."
+  },
+  "207758004": {
+   "fragment_id": "124092843",
+   "type": 11,
+   "heading": "Artigo 31.º — Alterações legislativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alterações legislativas\n\nAlteração ao Decreto-Lei n.º 75/2015, de 11 de maio\n\n1 - Os artigos 2.º e 3.º do Decreto-Lei n.º 75/2015, de 11 de maio, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 2.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nk) [...];\n\nl) Regime jurídico de produção de água para reutilização (ApR) obtida a partir do tratamento de águas residuais, bem como da sua utilização, aprovado pelo Decreto-Lei n.º 119/2019, de 21 de agosto.\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\nArtigo 3.º\n\n[...]\n\n1 - [...]:\n\na) [...];\n\nb) [...];\n\nc) [...];\n\nd) [...];\n\ne) [...];\n\nf) [...];\n\ng) [...];\n\nh) [...];\n\ni) [...];\n\nj) [...];\n\nk) [...];\n\nl) [...];\n\nm) [...];\n\nn) [...];\n\no) [...];\n\np) [...];\n\nq) [...];\n\nr) [...];\n\ns) [...];\n\nt) [...];\n\nu) [...];\n\nv) [...];\n\nw) [...];\n\nx) [...];\n\ny) [...];\n\nz) [...];\n\naa) [...];\n\nbb) [...];\n\ncc) 'Licença de produção de ApR' licença emitida de acordo com o Decreto-Lei n.º 119/2019, de 21 de agosto, para produção de ApR para uso próprio ou, nos sistemas centralizados, para cedência a terceiros da ApR;\n\ndd) 'Licença de utilização de ApR' licença emitida de acordo com o Decreto-Lei n.º 119/2019, de 21 de agosto, para utilização de ApR produzida por terceiros.\n\n2 - [...].»"
+  },
+  "207758005": {
+   "fragment_id": "124092844",
+   "type": 11,
+   "heading": "Artigo 32.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Norma revogatória\n\nSão revogados os n.os 3 e 4 do artigo 58.º do Decreto-Lei n.º 236/98, de 1 de agosto, na sua redação atual."
+  },
+  "207758006": {
+   "fragment_id": "124092845",
+   "type": 11,
+   "heading": "Artigo 33.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "207758030": {
+   "fragment_id": "124092846",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 1 de agosto de 2019. - Augusto Ernesto Santos Silva - João Saldanha de Azevedo Galamba.\n\nPromulgado em 6 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 12 de agosto de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "207758031": {
+   "fragment_id": "124092847",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 16.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 16.º)\n\nNormas de qualidade\n\nA) REGA\n\nQuadro 1.a: Normas de qualidade de água para reutilização para rega\n\n(ver documento original)\n\nQuadro 1.b: Normas de qualidade de água para reutilização para rega para proteção das culturas agrícolas, florestais e solos\n\n(ver documento original)\n\nQuadro 2: Descrição das classes de rega - Usos e nível de tratamento adequado em função das várias classes de qualidade da água\n\n(ver documento original)\n\nB) USOS URBANOS\n\nQuadro 3: Normas de qualidade de água para usos urbanos e usos paisagísticos (fora do contexto urbano)\n\n(ver documento original)\n\nQuadro 4: Níveis de tratamento adequados a cada uso urbano\n\n(ver documento original)\n\nC) USOS INDUSTRIAIS\n\nQuadro 5: Normas de qualidade de água para reutilização em uso industrial (proteção para contacto humano)\n\n(ver documento original)"
+  },
+  "207758032": {
+   "fragment_id": "124092848",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 17.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 17.º)\n\nAplicação de barreiras ou medidas de prevenção\n\nQuadro 1: Tipo de barreiras e correspondência com o número de barreiras equivalentes\n\n(ver documento original)\n\nQuadro 2: Número mínimo de barreiras aplicáveis por uso previsto\n\n(ver documento original)"
+  },
+  "207758033": {
+   "fragment_id": "124092849",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 18.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 18.º)\n\nVerificação da conformidade\n\nNúmero máximo de amostras que podem ser não conformes\n\n(ver documento original)"
+  },
+  "207758034": {
+   "fragment_id": "124092850",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o artigo 19.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o artigo 19.º)\n\nPeriodicidade de amostragem\n\nPeriodicidade de amostragem em função da classe de qualidade ou uso\n\n(ver documento original)\n\nNota: Para todos os parâmetros que venham a constar na licença, a periodicidade de amostragem deverá ser ajustada em função dos resultados da avaliação do risco."
+  },
+  "207758035": {
+   "fragment_id": "124092851",
+   "type": 14,
+   "heading": "Anexo V — (a que se refere o artigo 20.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se refere o artigo 20.º)\n\nMonitorização\n\nParâmetros a monitorizar nas ApR em função do tipo de usos\n\n(ver documento original)"
+  },
+  "207758056": {
+   "fragment_id": "124092852",
+   "type": 14,
+   "heading": "Anexo VI — (a que se referem os artigos 8.º e 10.º)",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "## Anexo VI — (a que se referem os artigos 8.º e 10.º)\n\n1 - A licença de produção de ApR é emitida com a seguinte informação:\n\na) A identificação do titular;\n\nb) A localização do local de produção com identificação da licença de rejeição de águas residuais associada à origem de água para o sistema de produção;\n\nc) A identificação e localização do(s) ponto(s) de entrega de ApR (em caso de cedência a terceiros);\n\nd) A identificação das barreiras ou medidas de prevenção a aplicar;\n\ne) Os procedimentos a adotar para a manutenção da qualidade da ApR produzida;\n\nf) O volume de ApR a produzir e a utilizar para uso próprio, previsto no horizonte de projeto (caudal máximo);\n\ng) As normas de qualidade a aplicar na produção e/ou utilização de ApR e os respetivos níveis de tratamento requeridos;\n\nh) A definição dos programas de monitorização a aplicar nas atividades de produção e/ou utilização de ApR, incluindo as medições de água residual rececionada a partir de terceiros para produção de ApR em sistemas descentralizados com usos industriais ou em sistemas descentralizados em simbiose, as medições do volume de ApR produzido, utilizado internamente e cedido a terceiros, bem como, e sempre que se justifique, dos recetores afetados;\n\ni) A periodicidade e formato de envio à APA, I. P., dos dados resultantes do programa de monitorização previsto na alínea seguinte;\n\nj) Quaisquer outras condições impostas no procedimento de emissão da licença.\n\n2 - A licença de utilização de ApR é emitida com a seguinte informação:\n\na) A identificação do titular;\n\nb) A identificação da licença de produção de ApR acessória;\n\nc) A identificação da(s) finalidade(s) e respetiva localização a que se destina a ApR produzida;\n\nd) O volume de ApR a utilizar e o previsto no horizonte de projeto (caudal máximo);\n\ne) A identificação das barreiras ou medidas de prevenção a aplicar;\n\nf) As normas de qualidade a aplicar a cada aplicação de ApR;\n\ng) As medidas a adotar para a manutenção da qualidade da ApR que evitem a sua degradação;\n\nh) A definição do programa de monitorização da ApR a utilizar, incluindo as medições do volume utilizado, bem como, e sempre que se justifique, dos recetores afetados;\n\ni) A periodicidade e formato de envio à APA, I. P., dos dados resultantes do programa de monitorização previsto na alínea j);\n\nj) Quaisquer outras condições impostas no procedimento de emissão da licença de produção de ApR associada.\n\n> Alterado pelo/a Artigo 19.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758037": {
+   "fragment_id": "124092853",
+   "type": 14,
+   "heading": "Anexo VII — (a que se refere o artigo 11.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — (a que se refere o artigo 11.º)\n\nElementos instrutórios\n\n1 - Os pedidos de emissão de licença de produção de ApR são instruídos com os seguintes elementos:\n\na) Identificação do produtor e indicação do seu número de identificação fiscal;\n\nb) Identificação da licença de rejeição de águas residuais;\n\nc) Identificação, se aplicável, da origem e volumes de águas residuais provenientes de terceiros para efeitos de produção de ApR em sistemas descentralizados com usos industriais ou em sistemas descentralizados em simbiose;\n\nd) Identificação das finalidades de produção de ApR e respetivos volumes a produzir/utilizar em usos próprios (diários e anuais);\n\ne) Avaliação do risco, realizada nos termos previstos no artigo 5.º do presente decreto-lei;\n\nf) Indicação dos locais de armazenamento e de entrega, com recurso à indicação das coordenadas geográficas;\n\ng) Programa de monitorização;\n\nh) Elementos adicionais quando ocorra uso próprio de ApR:\n\ni) Finalidade da utilização de ApR;\n\nii) Procedimentos para a manutenção ou afinação da qualidade da água, se aplicável;\n\niii) Tipo de barreiras a adotar considerando as utilizações em causa;\n\niv) Indicação exata dos locais de armazenamento, com recurso às coordenadas geográficas, se diferentes das previstas na alínea e);\n\nv) Localização geográfica das parcelas, locais ou equipamentos onde serão aplicadas as ApR, à escala apropriada e em formato digital;\n\nvi) Programa de monitorização no meio recetor, se aplicável.\n\n2 - Os pedidos de emissão de licença de utilização de ApR são instruídos com os seguintes elementos:\n\na) Identificação do utilizador e indicação do seu número de identificação fiscal;\n\nb) Identificação da licença de produção de ApR;\n\nc) Finalidade da utilização de ApR;\n\nd) Avaliação do risco, realizada nos termos do previsto no artigo 6.º do presente decreto-lei;\n\ne) Indicação exata dos locais de armazenamento e de receção, com recurso às coordenadas geográficas;\n\nf) Localização geográfica das parcelas ou locais onde serão aplicadas as ApR, à escala apropriada e em formato digital;\n\ng) Programa de monitorização."
+  },
+  "208443262": {
+   "fragment_id": "207760057",
+   "type": 14,
+   "heading": "Anexo VII-A — (a que se refere o n.º 2 do artigo 11.º-A)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 7-A/2023 - Diário da República n.º 42/2023, 2º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-a-2023-208013507), produz efeitos a partir de 2023-02-11",
+    "Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "## Anexo VII-A — (a que se refere o n.º 2 do artigo 11.º-A)\n\nElementos instrutórios da comunicação prévia\n\n1 - As comunicações prévias para as situações previstas no n.º 1 do artigo 13.º -A devem incluir a seguinte informação:\n\na) Identificação do utilizador e indicação do seu número de identificação fiscal;\n\nb) Identificação da licença de produção de água para reutilização (ApR);\n\nc) Finalidade(s) da utilização de ApR e volumes de ApR a utilizar no início e o previsto no horizonte de projeto (caudal máximo);\n\nd) Qualidade de ApR a utilizar e, se aplicável, identificação das barreiras ou medidas de prevenção a aplicar;\n\ne) Indicação do ponto de entrega e armazenamento, se aplicável, com recurso às coordenadas geográficas;\n\nf) Localização geográfica onde são aplicadas as ApR à escala apropriada e em formato digital;\n\ng) Termo de responsabilidade ambiental e de risco;\n\nh) Caução para recuperação ambiental a prestar nos termos previstos no artigo 12.º do presente decreto-lei e nos termos previstos no anexo viii do presente decreto-lei.\n\n2 - As comunicações prévias para as situações previstas no n.º 2 do artigo 13.º-A devem incluir a seguinte informação:\n\na) Identificação do produtor/utilizador e indicação do seu número de identificação fiscal;\n\nb) A identificação da licença de descarga de águas residuais tratadas;\n\nc) A identificação da(s) finalidade(s) da ApR a produzir/utilizar;\n\nd) As normas de qualidade da ApR produzida e, se aplicável, a identificação das barreiras ou medidas de prevenção a aplicar;\n\ne) Indicação dos locais de produção e de armazenamento, com recurso às coordenadas geográficas, bem como as medidas a adotar para a manutenção da qualidade da ApR que evitem a sua degradação, quer no armazenamento quer no ponto de aplicação;\n\nf) Localização geográfica dos locais onde são aplicadas as ApR, à escala apropriada e em formato digital;\n\ng) Caução para recuperação ambiental a prestar nos termos previstos no artigo 12.º do presente decreto-lei e nos termos previsto do anexo viii do presente decreto-lei.\n\n> Retificado pelo/a [Declaração de Retificação n.º 7-A/2023 - Diário da República n.º 42/2023, 2º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/7-a-2023-208013507), produz efeitos a partir de 2023-02-11\n\n> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  },
+  "207758021": {
+   "fragment_id": "124092854",
+   "type": 14,
+   "heading": "Anexo VIII — (a que se refere o artigo 12.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VIII — (a que se refere o artigo 12.º)\n\n(ver documento original)\n\n112528865"
+  },
+  "207758039": {
+   "fragment_id": "207760059",
+   "type": 14,
+   "heading": "Anexo IX — (a que se refere o n.º 3 do artigo 11.º-A)",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "## Anexo IX — (a que se refere o n.º 3 do artigo 11.º-A)\n\nModelo de termo de responsabilidade ambiental e de risco contra terceiros\n\nPara os efeitos previstos no n.º 3 do artigo 11.º-A do Decreto-Lei n.º 119/2019, de 21 de agosto, na sua atual redação, vem a ... (identificação da pessoa singular/coletiva), NIF/NIPC ..., com morada/sede em ..., com o capital social de ... (apenas aplicável a pessoas coletivas), declarar que para a (selecionar a opção aplicável):\n\n... Utilização de ApR para a(s) finalidade(s) ... (identificar finalidades aplicáveis de acordo com os termos do n.º 1 do artigo 10.º-A do Decreto-Lei n.º 119/2019, de 21 de agosto, na sua atual redação), a utilizar em ... proveniente do sistema centralizado de produção detentor da licença de produção n.º ...\n\n... Produção e utilização de ApR para a(s) finalidade(s) ... (identificar finalidades aplicáveis de acordo com os termos do n.º 2 do artigo 10.º-A do Decreto-Lei n.º 119/2019, de 21 de agosto, na sua atual redação), a utilizar em ..., proveniente do sistema descentralizado denominado ..., sito em ...,\n\nse compromete a cumprir na íntegra todos os requisitos dispostos na comunicação prévia com prazo elaborada ao abrigo do artigo 11.º-A do Decreto-Lei n.º 119/2019, de 21 de agosto, na sua atual redação, as demais normas legais aplicáveis de acordo com o estabelecido no Decreto-Lei n.º 119/2019, de 21 de agosto, na sua atual redação, as obrigações decorrentes do cumprimento do Lei n.º 52/2018, de 20 de agosto, que estabelece o regime de prevenção e controlo da doença dos legionários, e (apenas aplicável a utilizações nos termos do n.º 1 do artigo 10.º-A do Decreto-Lei n.º 119/2019, de 21 de agosto, na sua atual redação) as medidas de minimização do risco ou outras condições de gestão do risco aplicáveis à(s) finalidade(s) acima indicada(s) e descritas na avaliação do risco referente ao sistema de produção de água para reutilização (ApR) identificado.\n\nMais se declara que assume toda a responsabilidade civil decorrente de quaisquer danos/prejuízos para a saúde individual de terceiros (saúde humana e/ou saúde animal), para a saúde pública e para o ambiente, em particular para os recursos hídricos, fauna, solos e vegetação, decorrentes de riscos físicos, microbiológicos e/ou químicos associados à utilização de ApR/produção e utilização de ApR (selecionar a opção aplicável) e compromete-se a pagar todas e quaisquer compensações e/ou indemnizações por estes mesmos riscos e/ou danos/prejuízos.\n\nData ...\n\nAssinatura ...\n\n(Nome datilografado ou carimbo.)\n\n> Aditado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 11/2023 - Diário da República n.º 30/2023, Série I de 2023-02-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2023-207272800), em vigor a partir de 2023-03-01"
+  }
+ }
+}

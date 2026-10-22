@@ -1,0 +1,373 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:332442:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-221741574",
+ "dre_path": "/dr/detalhe/decreto-lei/142-1999-332442",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "221741041",
+    "221741042",
+    "221741043",
+    "221741044",
+    "221741045",
+    "221741046",
+    "221741047",
+    "221741048",
+    "221741049",
+    "221741050",
+    "221741051",
+    "221741052",
+    "221741053",
+    "221741054",
+    "221741055",
+    "221741056",
+    "221741057",
+    "221741058",
+    "221741059",
+    "221741060",
+    "221741061"
+   ]
+  },
+  {
+   "date": "2007-05-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520664:por",
+     "title": "Decreto-Lei n.º 185/2007",
+     "published": "2007-05-10",
+     "dre_path": "/dr/detalhe/decreto-lei/185-2007-520664"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 5.º-A",
+    "Adita Artigo 5.º-B",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "221741041",
+    "221741042",
+    "223204198",
+    "221741044",
+    "223204199",
+    "221741046",
+    "221741047",
+    "223204201",
+    "223204202",
+    "221741048",
+    "223204200",
+    "221741050",
+    "221741051",
+    "221741052",
+    "221741053",
+    "221741054",
+    "221741055",
+    "221741056",
+    "221741057",
+    "221741058",
+    "221741059",
+    "221741060",
+    "221741063",
+    "221741062"
+   ]
+  },
+  {
+   "date": "2016-04-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74126124:por",
+     "title": "Decreto-Lei n.º 18/2016",
+     "published": "2016-04-13",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2016-74126124"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "221741041",
+    "221741042",
+    "223204198",
+    "221741044",
+    "223204199",
+    "221741046",
+    "221741047",
+    "223204201",
+    "223204202",
+    "221741048",
+    "223204214",
+    "221741050",
+    "221741051",
+    "221741052",
+    "221741053",
+    "221741054",
+    "221741055",
+    "221741056",
+    "221741057",
+    "221741058",
+    "221741059",
+    "221741060",
+    "221741063",
+    "221741062"
+   ]
+  }
+ ],
+ "fragments": {
+  "221741041": {
+   "fragment_id": "221827575",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 142/99\n\nde 30 de Abril\n\nA Lei n.º 100/97, de 13 de Setembro, estabelece a criação de um fundo, dotado de autonomia financeira e administrativa, no âmbito dos acidentes de trabalho.\n\nO presente diploma visa a criação do referido fundo, designado por Fundo de Acidentes de Trabalho (FAT), que, na sua essência, substitui o Fundo de Actualização de Pensões de Acidentes de Trabalho (FUNDAP), assumindo ainda novas competências que lhe são cometidas pela Lei n.º 100/97.\n\nFace ao anterior fundo, o FAT apresenta um leque de garantias mais alargado, contemplando, para além das actualizações de pensões de acidentes de trabalho e dos subsídios de Natal, o pagamento dos prémios de seguro de acidentes de trabalho de empresas que, estando em processo de recuperação, se encontrem impossibilitadas de o fazer, competindo-lhe, ainda, ressegurar e retroceder os riscos recusados de acidentes de trabalho.\n\nPara prevenir que, em caso algum, os pensionistas de acidentes de trabalho deixem de receber as pensões que lhe são devidas, prevê-se que o FAT garantirá o pagamento das prestações que forem devidas por acidentes de trabalho sempre que, por motivo de incapacidade económica objectivamente caracterizada em processo judicial de falência ou processo equivalente, ou processo de recuperação de empresa, ou por motivo de ausência, desaparecimento ou impossibilidade de identificação, não possam ser pagas pela entidade responsável.\n\nNo exercício desta competência o FAT substitui o Fundo de Garantia e Actualização de Pensões, previsto na base XLV da Lei n.º 2127, de 3 de Agosto de 1965, destinado a assegurar o pagamento das prestações por incapacidade permanente ou morte em caso de acidente de trabalho, da responsabilidade de entidades insolventes.\n\nO FAT, à semelhança do FUNDAP, funcionará junto do Instituto de Seguros de Portugal, a quem competirá a sua gestão técnica e financeira. Será ainda constituída uma comissão de acompanhamento, com a função de analisar e dar parecer sobre os aspectos que, não constituindo actos de gestão corrente, sejam relevantes para o bom desempenho do FAT.\n\nRelativamente ao regime de actualização de pensões, o presente diploma prevê a actualização nos mesmos termos do regime geral da segurança social e ainda um esquema voluntário de actualização de pensões acima do regime geral, assente na possibilidade conferida às empresas de seguros de constituírem fundos autónomos de investimento das provisões matemáticas de acidentes de trabalho.\n\nForam ouvidos o Instituto de Seguros de Portugal, a Associação Portuguesa de Seguradores, a Associação Nacional dos Deficientes Sinistrados no Trabalho, a Confederação Geral dos Trabalhadores Portugueses, a União Geral de Trabalhadores, a Confederação da Indústria Portuguesa, a Confederação do Comércio e Serviços de Portugal e a Confederação de Agricultores de Portugal.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei n.º 100/97, de 13 de Setembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "221741042": {
+   "fragment_id": "221827576",
+   "type": 1,
+   "heading": "Capítulo I — Fundo de Acidentes de Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Fundo de Acidentes de Trabalho"
+  },
+  "221741043": {
+   "fragment_id": "221827577",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação e competências do Fundo de Acidentes de Trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Criação e competências do Fundo de Acidentes de Trabalho\n\n1 - É criado o Fundo de Acidentes de Trabalho, dotado de autonomia administrativa e financeira, adiante designado abreviadamente por FAT, a quem compete:\n\na) Garantir o pagamento das prestações que forem devidas por acidentes de trabalho sempre que, por motivo de incapacidade económica objectivamente caracterizada em processo judicial de falência ou processo equivalente, ou processo de recuperação de empresa, ou por motivo de ausência, desaparecimento ou impossibilidade de identificação, não possam ser pagas pela entidade responsável;\n\nb) Pagar os prémios do seguro de acidentes de trabalho das empresas que, no âmbito de um processo de recuperação, se encontrem impossibilitadas de o fazer;\n\nc) Reembolsar as empresas de seguros dos montantes relativos:\n\ni) Às actualizações das pensões devidas por incapacidade permanente igual ou superior a 30% ou por morte derivadas de acidente de trabalho;\n\nii) Aos duodécimos adicionais criados pelo n.º 1 do artigo 2.º do Decreto-Lei n.º 466/85, de 5 de Novembro;\n\niii) Aos custos adicionais decorrentes das alterações, em consequência da nova redacção dada ao artigo 50.º do Decreto-Lei n.º 360/71, de 21 de Agosto, pelo artigo 1.º do Decreto-Lei n.º 459/79, de 23 de Novembro, de pensões de acidentes de trabalho, por incapacidade permanente igual ou superior a 30% ou por morte, que tenham sido fixadas anteriormente a 31 de Outubro de 1979;\n\nd) Ressegurar e retroceder os riscos recusados.\n\n2 - Relativamente aos duodécimos referidos no número anterior, o FAT só assume as responsabilidades decorrentes de acidentes ocorridos até à data da entrada em vigor do presente diploma.\n\n3 - O FAT não é responsável pela reparação ou substituição de aparelhos quando consequência de acidente, salvo nos casos previstos na alínea a) do n.º 1.\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 173/2014 - Diário da República n.º 50/2014, Série I de 2014-03-12](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/173-2014-571900) declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 82.º, n.º 2, da Lei n.º 98/2009, de 4 de setembro, em articulação com o disposto na subalínea i), alínea c), do n.º 1, do presente artigo, na parte em que impede a atualização de pensões por incapacidades inferiores a 30%, não remíveis obrigatoriamente nos termos do artigo 75.º, n.º 1, da citada Lei n.º 98/2009 por serem superiores a seis vezes a retribuição mínima mensal garantida, em vigor no dia seguinte à data da alta, por violação dos artigos 13.º, n.º 1, e 59.º, n.º 1, alínea f), ambos da Constituição."
+  },
+  "221741044": {
+   "fragment_id": "221827578",
+   "type": 11,
+   "heading": "Artigo 2.º — Funcionamento, acompanhamento e gestão do FAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Funcionamento, acompanhamento e gestão do FAT\n\n1 - O FAT funciona junto do Instituto de Seguros de Portugal, adiante designado por ISP, a quem compete a sua gestão técnica e financeira.\n\n2 - Por portaria do Ministro das Finanças será constituída uma comissão de acompanhamento, presidida por um representante do Ministério das Finanças, e integrando:\n\na) Um representante do Ministério do Trabalho e da Solidariedade;\n\nb) Um representante do Ministério da Justiça;\n\nc) Um representante das associações de sinistrados de acidentes de trabalho;\n\nd) Um representante das associações de empresas de seguros;\n\ne) Um representante das associações representativas das entidades empregadoras;\n\nf) Um representante das associações representativas dos trabalhadores;\n\ng) Duas personalidades de reconhecida competência na área dos acidentes de trabalho.\n\n3 - A comissão referida no número anterior tem por função analisar e dar parecer sobre os aspectos que, não constituindo actos de gestão corrente, sejam relevantes para o bom desempenho do FAT, nomeadamente:\n\na) Analisar e dar parecer sobre as contas do FAT;\n\nb) Dar parecer sobre o financiamento do FAT;\n\nc) Analisar e dar parecer sobre as dúvidas relacionadas com a execução do presente diploma;\n\nd) Analisar e dar parecer sobre as questões que lhe sejam colocadas pelo ISP enquanto gestor do FAT;\n\ne) Propor medidas legislativas ou regulamentares que aumentem a eficácia do sistema de garantia e actualização de pensões de acidentes de trabalho."
+  },
+  "221741045": {
+   "fragment_id": "221827579",
+   "type": 11,
+   "heading": "Artigo 3.º — Financiamento do FAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Financiamento do FAT\n\n1 - Constituem receitas do FAT:\n\na) Uma percentagem a cobrar pelas empresas de seguros aos tomadores de seguros sobre os salários considerados, sempre que sejam processados prémios da modalidade «Acidentes de trabalho»;\n\nb) Uma percentagem a suportar pelas empresas de seguros sobre o valor correspondente ao capital de remição das pensões em pagamento à data de 31 de Dezembro de cada ano;\n\nc) O resultado das aplicações financeiras;\n\nd) Os valores que vierem a ser recuperados nos termos do disposto nos n.os 4 e 5 do artigo 39.º da Lei n.º 100/97, de 13 de Setembro, e do n.º 2 do artigo 13.º do presente diploma;\n\ne) Os valores recebidos decorrentes dos contratos de resseguro e retrocessão dos riscos recusados;\n\nf) O saldo transitado do FUNDAP à data da sua extinção;\n\ng) O produto das coimas que, nos termos da lei, reverterem a seu favor;\n\nh) Outros valores que, nos termos da lei ou por disposição particular, lhe sejam atribuídos.\n\n2 - As percentagens referidas nas alíneas a) e b) do número anterior serão fixadas anualmente, por portaria do Ministro das Finanças, sob proposta do ISP, ouvida a comissão de acompanhamento do FAT."
+  },
+  "221741046": {
+   "fragment_id": "221827580",
+   "type": 11,
+   "heading": "Artigo 4.º — Despesas do FAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Despesas do FAT\n\nConstituem despesas do FAT:\n\na) Os valores despendidos em consequência das competências referidas no n.º 1 do artigo 1.º;\n\nb) As despesas administrativas decorrentes do seu funcionamento;\n\nc) Os valores despendidos por força dos contratos de resseguro e retrocessão dos riscos recusados;\n\nd) Os custos suportados em consequência de aplicações financeiras;\n\ne) As despesas havidas com as recuperações a que se refere a alínea d) do n.º 1 do artigo anterior;\n\nf) Todas as que por lei lhe vierem a ser reconhecidas."
+  },
+  "221741047": {
+   "fragment_id": "221827581",
+   "type": 11,
+   "heading": "Artigo 5.º — Insuficiência financeira do FAT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Insuficiência financeira do FAT\n\nEm caso de comprovada necessidade:\n\na) O Estado poderá assegurar uma dotação correspondente ao montante dos encargos que excedam as receitas previstas do FAT;\n\nb) O FAT poderá recorrer a empréstimos."
+  },
+  "221741048": {
+   "fragment_id": "221827582",
+   "type": 1,
+   "heading": "Capítulo II — Actualização das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Actualização das pensões"
+  },
+  "221741049": {
+   "fragment_id": "221827583",
+   "type": 11,
+   "heading": "Artigo 6.º — Actualização anual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Actualização anual\n\n1 - As pensões de acidentes de trabalho serão anualmente actualizadas nos termos em que o forem as pensões do regime geral da segurança social.\n\n2 - Se os coeficientes de actualização variarem em função do montante da pensão, ao remanescente de pensões parcialmente remidas será aplicado o coeficiente da pensão original.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 107/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2015-67498688) suspende, entre 1 de janeiro de 2015 e 31 de dezembro de 2015, o regime de atualização anual do valor das pensões por incapacidade permanente e por morte resultantes de acidente de trabalho, previsto no presente artigo.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 47/2010 - Diário da República n.º 90/2010, Série I de 2010-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2010-615035) suspende o regime de actualização anual do valor das pensões de acidentes de trabalho, previsto no presente artigo, e estabelece um regime transitório de actualização daquelas pensões para o ano de 2010. Deste modo, as pensões de acidentes de trabalho atribuídas anteriormente a 1 de Janeiro de 2010 são actualizadas para o ano de 2010 em 1,25 %."
+  },
+  "221741050": {
+   "fragment_id": "221827584",
+   "type": 11,
+   "heading": "Artigo 7.º — Caucionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Caucionamento\n\nAs entidades patronais que se encontrem na situação referida no n.º 1 do artigo 61.º do Decreto-Lei n.º 143/99, de 30 de Abril, devem caucionar, nos termos do mesmo diploma, a responsabilidade decorrente da actualização das pensões, salvo se tal responsabilidade se mostrar transferida para uma empresa de seguros."
+  },
+  "221741051": {
+   "fragment_id": "221827585",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de iniciativa\n\n1 - A actualização das pensões será automática e imediata caso a responsabilidade esteja a cargo de empresa de seguros ou do FAT, devendo ser feita a correspondente comunicação ao tribunal do trabalho e competindo ao Ministério Público promover eventuais rectificações.\n\n2 - Se a responsabilidade recair sobre entidades diferentes das referidas no número anterior, deverá o Ministério Público promover oficiosamente a actualização."
+  },
+  "221741052": {
+   "fragment_id": "221827586",
+   "type": 1,
+   "heading": "Capítulo III — Actualização voluntária das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Actualização voluntária das pensões"
+  },
+  "221741053": {
+   "fragment_id": "221827587",
+   "type": 11,
+   "heading": "Artigo 9.º — Investimento autónomo das provisões matemáticas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Investimento autónomo das provisões matemáticas\n\nAs empresas de seguros podem constituir fundos autónomos de investimento dos activos representativos das provisões matemáticas de acidentes de trabalho."
+  },
+  "221741054": {
+   "fragment_id": "221827588",
+   "type": 11,
+   "heading": "Artigo 10.º — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Financiamento\n\nAs empresas de seguros atribuirão aos fundos previstos no artigo anterior, no mínimo, 75% dos rendimentos financeiros que excedam a taxa técnica."
+  },
+  "221741055": {
+   "fragment_id": "221827589",
+   "type": 11,
+   "heading": "Artigo 11.º — Actualização das pensões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Actualização das pensões\n\nDo valor atribuído ao fundo autónomo será parcialmente distribuída uma parte a cada pensionista, na proporção da respectiva pensão, sob a forma de uma renda vitalícia a prémio único."
+  },
+  "221741056": {
+   "fragment_id": "221827590",
+   "type": 11,
+   "heading": "Artigo 12.º — Condições especiais de contribuição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Condições especiais de contribuição\n\n1 - As empresas de seguros que, por força da aplicação do mecanismo previsto neste capítulo, concedam aos seus pensionistas aumentos de pensão iguais ou superiores aos referidos no artigo 6.º ficam nesse ano dispensadas de efectuar a contribuição a que se refere a alínea b) do n.º 1 do artigo 3.º\n\n2 - Se os aumentos de pensões forem inferiores aos referidos no artigo 6.º, será a diferença suportada pelo FAT e a contribuição da empresa de seguros para este fundo reduzida proporcionalmente."
+  },
+  "221741057": {
+   "fragment_id": "221827591",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições diversas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições diversas"
+  },
+  "221741058": {
+   "fragment_id": "221827592",
+   "type": 11,
+   "heading": "Artigo 13.º — Conflito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Conflito\n\n1 - Ocorrendo fundado conflito sobre quem recai o dever de indemnizar, caberá ao FAT satisfazer as prestações devidas ao sinistrado ou beneficiários legais de pensão, sem prejuízo de vir a ser reembolsado após decisão do tribunal competente.\n\n2 - O reembolso inclui, além dos montantes relativos às prestações em dinheiro e em espécie, as despesas administrativas comprovadamente efectuadas com a reparação, tudo acrescido de juros à taxa legal."
+  },
+  "221741059": {
+   "fragment_id": "221827593",
+   "type": 11,
+   "heading": "Artigo 14.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Regulamentação\n\nCompete ao ISP emitir as normas regulamentares necessárias à boa execução do presente diploma."
+  },
+  "221741060": {
+   "fragment_id": "221827594",
+   "type": 11,
+   "heading": "Artigo 15.º — Extinção do FUNDAP e do FGAP",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Extinção do FUNDAP e do FGAP\n\n1 - É extinto o Fundo de Actualização de Pensões de Acidentes de Trabalho (FUNDAP), transitando o respectivo saldo à data da sua extinção para o FAT.\n\n2 - O Fundo de Garantia e Actualização de Pensões (FGAP) será extinto, transitando as respectivas responsabilidades e saldos para o FAT, nos termos e condições a definir por portaria dos Ministros das Finanças e do Trabalho e da Solidariedade."
+  },
+  "221741061": {
+   "fragment_id": "221827595",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no 1.º dia do 6.º mês após a data da sua publicação."
+  },
+  "223204198": {
+   "fragment_id": "221827577",
+   "type": 11,
+   "heading": "Artigo 1.º — Criação e competências do Fundo de Acidentes de Trabalho",
+   "in_force_from": "2007-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+   ],
+   "markdown": "###### Artigo 1.º — Criação e competências do Fundo de Acidentes de Trabalho\n\n1 - É criado o Fundo de Acidentes de Trabalho, dotado de personalidade judiciária e de autonomia administrativa e financeira, adiante designado abreviadamente por FAT, ao qual compete:\n\na) Garantir o pagamento das prestações que forem devidas por acidentes de trabalho sempre que, por motivo de incapacidade económica objectivamente caracterizada em processo judicial de falência ou processo equivalente, ou processo de recuperação de empresa, ou por motivo de ausência, desaparecimento ou impossibilidade de identificação, não possam ser pagas pela entidade responsável;\n\nb) Pagar os prémios do seguro de acidentes de trabalho das empresas que, no âmbito de um processo de recuperação, se encontrem impossibilitadas de o fazer;\n\nc) Reembolsar as empresas de seguros dos montantes relativos:\n\ni) Às actualizações das pensões devidas por incapacidade permanente igual ou superior a 30% ou por morte, bem como às actualizações da prestação suplementar por assistência de terceira pessoa, derivadas de acidentes de trabalho ou de acidentes em serviço;\n\nii) Aos duodécimos adicionais criados pelo n.º 1 do artigo 2.º do Decreto-Lei n.º 466/85, de 5 de Novembro;\n\niii) Aos custos adicionais decorrentes das alterações, em consequência da nova redacção dada ao artigo 50.º do Decreto-Lei n.º 360/71, de 21 de Agosto, pelo artigo 1.º do Decreto-Lei n.º 459/79, de 23 de Novembro, de pensões de acidentes de trabalho, por incapacidade permanente igual ou superior a 30% ou por morte, que tenham sido fixadas anteriormente a 31 de Outubro de 1979;\n\nd) Ressegurar e retroceder os riscos recusados.\n\n2 - Relativamente aos duodécimos referidos no número anterior, o FAT só assume as responsabilidades decorrentes de acidentes ocorridos até à data da entrada em vigor do presente diploma.\n\n3 - O FAT não é responsável pela reparação ou substituição de aparelhos quando consequência de acidente, salvo nos casos previstos na alínea a) do n.º 1.\n\n4 - As prestações referidas na alínea a) do n.º 1 correspondem exclusivamente às previstas no artigo 296.º do Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de Agosto, não contemplando, nomeadamente, indemnizações por danos não patrimoniais.\n\n5 - Verificando-se alguma das situações referidas no n.º 1 do artigo 295.º, e sem prejuízo do n.º 3 do artigo 303.º, todos da Lei n.º 99/2003, de 27 de Agosto, o FAT responde apenas pelas prestações que seriam devidas caso não tivesse havido actuação culposa.\n\n6 - O FAT não garante o pagamento de juros de mora das prestações pecuniárias em atraso devidos pela entidade responsável.\n\n7 - Não se encontram abrangidas na alínea c) do n.º 1 os juros de mora quando relacionados com o atraso no pagamento de pensões, nem as actualizações das pensões transferidas para as empresas de seguros no âmbito da obrigação de caucionamento das pensões pelo empregador.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+  },
+  "223204199": {
+   "fragment_id": "221827579",
+   "type": 11,
+   "heading": "Artigo 3.º — Financiamento do FAT",
+   "in_force_from": "2007-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+   ],
+   "markdown": "###### Artigo 3.º — Financiamento do FAT\n\n1 - Constituem receitas do FAT:\n\na) Uma percentagem a cobrar pelas empresas de seguros aos tomadores de seguros sobre os salários considerados, sempre que sejam processados prémios da modalidade «Acidentes de trabalho»;\n\nb) Uma percentagem a suportar pelas empresas de seguros sobre o valor correspondente ao capital de remição das pensões em pagamento à data de 31 de Dezembro de cada ano, bem como sobre o valor da provisão matemática das prestações suplementares por assistência de terceira pessoa, em pagamento à data de 31 de Dezembro de cada ano;\n\nc) O resultado das aplicações financeiras;\n\nd) Os valores que vierem a ser recuperados nos termos do disposto nos n.os 4 e 5 do artigo 39.º da Lei n.º 100/97, de 13 de Setembro, e do n.º 2 do artigo 13.º do presente diploma;\n\ne) Os valores recebidos decorrentes dos contratos de resseguro e retrocessão dos riscos recusados;\n\nf) O saldo transitado do FUNDAP à data da sua extinção;\n\ng) O produto das coimas que, nos termos da lei, reverterem a seu favor;\n\nh) Outros valores que, nos termos da lei ou por disposição particular, lhe sejam atribuídos.\n\n2 - As percentagens referidas nas alíneas a) e b) do número anterior devem ser fixadas anualmente por portaria do Ministro das Finanças, sob proposta do Instituto de Seguros de Portugal, ouvida a comissão de acompanhamento do FAT, sem o que se deverá continuar a cobrar as percentagens fixadas para o ano anterior.\n\n3 - Para efeitos das alíneas a) e b) do n.º 1, consideram-se abrangidos os salários seguros, os capitais de remição das pensões e as provisões matemáticas das prestações suplementares por assistência de terceira pessoa, relativos a contratos de seguro de acidentes em serviço.\n\n4 - Para efeitos do cálculo das provisões matemáticas das prestações suplementares por assistência de terceira pessoa, consideram-se as bases técnicas e respectivas tabelas práticas de cálculo do capital de remição das pensões de acidentes de trabalho, em vigor a 31 de Dezembro de cada ano.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+  },
+  "223204201": {
+   "fragment_id": "223203730",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Acidentes em serviço",
+   "in_force_from": "2007-05-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+   ],
+   "markdown": "###### Artigo 5.º-A — Acidentes em serviço\n\n1 - No caso dos acidentes em serviço cuja responsabilidade esteja transferida para uma empresa de seguros nos termos do artigo 45.º do Decreto-Lei n.º 503/99, de 30 de Novembro, não havendo beneficiários com direito a pensão por morte, reverte para o FAT uma importância igual ao triplo da retribuição anual auferida pelo sinistrado, salvo se tiver havido remição.\n\n2 - Para efeitos do número anterior, a Caixa Geral de Aposentações comunica, por via electrónica, ao FAT e à empresa de seguros para a qual o risco de acidentes em serviço se encontre transferido, os casos por ela conhecidos de acidentes de que tenha resultado a morte do sinistrado sem que este tenha deixado beneficiários com direito a pensão.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+  },
+  "223204202": {
+   "fragment_id": "223203731",
+   "type": 11,
+   "heading": "Artigo 5.º-B — Sub-rogação e privilégios creditórios",
+   "in_force_from": "2007-05-11",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+   ],
+   "markdown": "###### Artigo 5.º-B — Sub-rogação e privilégios creditórios\n\n1 - O FAT fica sub-rogado nos direitos e privilégios creditórios dos sinistrados e ou beneficiários, na medida dos pagamentos efectuados, bem como das respectivas provisões matemáticas, acrescidos dos juros de mora que se venham a vencer, para ele revertendo os valores obtidos por via da sub-rogação.\n\n2 - Os créditos abrangidos pelo presente decreto-lei gozam das garantias consignadas nos artigos 377.º e seguintes do Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de Agosto.\n\n3 - A provisão matemática referida no n.º 1 é calculada de acordo com as bases técnicas e respectivas tabelas práticas de cálculo do capital de remição das pensões de acidentes de trabalho, em vigor à data da constituição do crédito.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11"
+  },
+  "223204200": {
+   "fragment_id": "221827583",
+   "type": 11,
+   "heading": "Artigo 6.º — Actualização anual",
+   "in_force_from": "2007-05-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Actualização anual\n\n1 - O valor das pensões de acidentes de trabalho é actualizado anualmente com efeitos a 1 de Janeiro de cada ano, tendo em conta os seguintes indicadores de referência:\n\na) O crescimento real do produto interno bruto (PIB), correspondente à média da taxa do crescimento médio anual dos últimos dois anos, terminados no 3.º trimestre do ano anterior àquele a que se reporta a actualização ou no trimestre imediatamente anterior, se aquele não estiver disponível à data de 10 de Dezembro;\n\nb) A variação média dos últimos 12 meses do índice de preços no consumidor (IPC), sem habitação, disponível em 30 de Novembro do ano anterior ao que se reporta a actualização.\n\n2 - A variação anual do PIB é aquela que decorre entre o 4.º trimestre de um ano e o 3.º trimestre do ano seguinte.\n\n3 - A actualização prevista no número anterior é efectuada de acordo com a seguinte regra:\n\na) Se a média do crescimento real do PIB for igual ou superior a 3%, a actualização corresponde ao IPC acrescido de 20% da taxa de crescimento real do PIB;\n\nb) Se a média do crescimento real do PIB for igual ou superior a 2% e inferior a 3%, a actualização corresponde ao IPC acrescido de 20% da taxa de crescimento real do PIB, com limite mínimo de 0,5 pontos percentuais acima do valor do IPC;\n\nc) Se a média do crescimento real do PIB for inferior a 2%, a actualização corresponde ao IPC.\n\n4 - A actualização anual das pensões consta de portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e do trabalho e da solidariedade social.\n\n5 - A taxa de actualização é arredondada até à primeira casa decimal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11, produz efeitos a partir de 2008-01-01"
+  },
+  "221741063": {
+   "fragment_id": "221827595",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), produz efeitos a partir de 1999-09-27"
+   ],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2000\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 382-A/99 - Diário da República n.º 222/1999, 1º Suplemento, Série I-A de 1999-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-a-1999-310612), produz efeitos a partir de 1999-09-27"
+  },
+  "221741062": {
+   "fragment_id": "221827596",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 11 de Março de 1999. - António Manuel de Oliveira Guterres - João Carlos da Costa Ferreira da Silva - José Eduardo Vera Cruz Jardim - Eduardo Luís Barreto Ferro Rodrigues.\n\nPromulgado em 15 de Abril de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 21 de Abril de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "223204214": {
+   "fragment_id": "221827583",
+   "type": 11,
+   "heading": "Artigo 6.º — Actualização anual",
+   "in_force_from": "2016-04-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 98.º do/a [Decreto-Lei n.º 18/2016 - Diário da República n.º 72/2016, Série I de 2016-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2016-74126124), em vigor a partir de 2016-04-14, produz efeitos a partir de 2016-03-31",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11, produz efeitos a partir de 2008-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Actualização anual\n\n1 - O valor das pensões de acidentes de trabalho é actualizado anualmente com efeitos a 1 de Janeiro de cada ano, tendo em conta os seguintes indicadores de referência:\n\na) O crescimento real do produto interno bruto (PIB), correspondente à média da taxa do crescimento médio anual dos últimos dois anos, terminados no 3.º trimestre do ano anterior àquele a que se reporta a actualização ou no trimestre imediatamente anterior, se aquele não estiver disponível à data de 10 de Dezembro;\n\nb) A variação média dos últimos 12 meses do índice de preços no consumidor (IPC), sem habitação, disponível em dezembro do ano anterior ao que reporta a atualização, ou em 30 de novembro, se aquele não estiver disponível à data da assinatura do diploma de atualização.\n\n2 - A variação anual do PIB é aquela que decorre entre o 4.º trimestre de um ano e o 3.º trimestre do ano seguinte.\n\n3 - A actualização prevista no número anterior é efectuada de acordo com a seguinte regra:\n\na) Se a média do crescimento real do PIB for igual ou superior a 3%, a actualização corresponde ao IPC acrescido de 20% da taxa de crescimento real do PIB;\n\nb) Se a média do crescimento real do PIB for igual ou superior a 2% e inferior a 3%, a actualização corresponde ao IPC acrescido de 20% da taxa de crescimento real do PIB, com limite mínimo de 0,5 pontos percentuais acima do valor do IPC;\n\nc) Se a média do crescimento real do PIB for inferior a 2%, a actualização corresponde ao IPC.\n\n4 - A actualização anual das pensões consta de portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e do trabalho e da solidariedade social.\n\n5 - A taxa de actualização é arredondada até à primeira casa decimal.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 107/2015 - Diário da República n.º 115/2015, Série I de 2015-06-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-2015-67498688) suspende, entre 1 de janeiro de 2015 e 31 de dezembro de 2015, o regime de atualização anual do valor das pensões por incapacidade permanente e por morte resultantes de acidente de trabalho, previsto no presente artigo.\n\n> Nota: [Artigo 1.º, Decreto-Lei n.º 47/2010 - Diário da República n.º 90/2010, Série I de 2010-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2010-615035) suspende o regime de actualização anual do valor das pensões de acidentes de trabalho, previsto no presente artigo, e estabelece um regime transitório de actualização daquelas pensões para o ano de 2010. Deste modo, as pensões de acidentes de trabalho atribuídas anteriormente a 1 de Janeiro de 2010 são actualizadas para o ano de 2010 em 1,25 %.\n\n> Alterado pelo/a Artigo 98.º do/a [Decreto-Lei n.º 18/2016 - Diário da República n.º 72/2016, Série I de 2016-04-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2016-74126124), em vigor a partir de 2016-04-14, produz efeitos a partir de 2016-03-31\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 185/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/185-2007-520664), em vigor a partir de 2007-05-11, produz efeitos a partir de 2008-01-01"
+  }
+ }
+}

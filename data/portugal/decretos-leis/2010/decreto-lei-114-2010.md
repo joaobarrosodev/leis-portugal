@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:307874:por
+title: Decreto-Lei n.º 114/2010
+short_title: null
+summary: Simplifica a apresentação de candidaturas a fundos destinados à beneficiação e valorização florestal, modifica o
+  regime de aprovação, alteração ou revisão dos planos regionais de ordenamento florestal e procede à primeira alteração ao
+  Decreto-Lei n.º 16/2009, de 14 de Janeiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 114/2010
+official_date: null
+publication_date: '2010-10-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 206/2010, Série I de 2010-10-22
+  number: '206'
+  series: I
+  supplement: null
+  pages: 4748 - 4749
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/10/20600/0474804749.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre/pt/html
+  oj: null
+  dre: '307874'
+  dre_path: /dr/detalhe/decreto-lei/114-2010-307874
+  internal: pt:dre:307874:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874
+  metadata_url: https://data.dre.pt/eli/dec-lei/114/2010/10/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/114-2010-307874
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-01-21T00:00:00Z'
+integrity:
+  source_sha256: b293cbe0cf16cd820e0f6db21f6178ff3035a147c8b817ae62cf20442732fc9f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-114-307874.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Modernização Administrativa
+- Fundos CE
+- Plano de Gestão Florestal
+- Exploração Florestal
+- Política Florestal
+relationships:
+- type: amended_by
+  target: pt:dre:118051704:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/16/2009/01/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 114/2010
+
+de 22 de Outubro
+
+Os planos regionais de ordenamento florestal (PROF) constituem instrumentos de gestão territorial de natureza sectorial, estabelecendo regionalmente o conjunto de normas que regulam as intervenções em espaços florestais. São estes instrumentos que contêm as normas específicas de intervenção, utilização e exploração dos espaços florestais, as quais têm como objectivo promover e garantir a produção sustentada do conjunto de bens e serviços a eles associados.
+
+O [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de Janeiro, aprovou o regime jurídico dos planos de ordenamento, de gestão e de intervenção de âmbito florestal, determinando, no seu artigo 23.º, que o período máximo de vigência dos PROF é de 25 anos, admitindo-se a sua alteração ou revisão sempre que se verifiquem factos relevantes que o justifiquem.
+
+Estabelece-se o prazo de dois anos para a alteração ou revisão dos PROF, densificando o regime de alteração ou revisão, tendo por objectivo conciliar a dinâmica própria deste instrumento de política sectorial com a ponderação das razões que determinam a modificação das orientações neles vertidas, dada a importância de que se revestem estes planos para o sector florestal nacional.
+
+O presente decreto-lei introduz também a figura do plano de gestão florestal simplificado, que visa a agilização do processo de candidaturas a fundos comunitários, bem como o aumento da área florestal sujeita a planos de gestão.
+
+Foi promovida a audição da Associação Nacional de Municípios Portugueses e da Associação Nacional de Freguesias.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único — Alteração ao [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de Janeiro
+
+Os artigos 11.º, 13.º e 24.º do [Decreto-Lei n.º 16/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/16-2009-397359), de 14 de Janeiro, passam a ter a seguinte redacção:
+
+«Artigo 11.º
+
+Os PROF são aprovados por portaria do membro do Governo responsável pela área das florestas ou, caso integrem áreas classificadas, por portaria dos membros do Governo responsáveis pelas áreas das florestas e do ambiente.
+
+###### Artigo 13.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Para efeitos do disposto na alínea c) do n.º 1, as candidaturas apresentadas para áreas inferiores a 25 ha podem ser instruídas com um PGF simplificado, cujas normas técnicas de elaboração são definidas por regulamento do presidente da AFN, homologado pelo membro do Governo responsável pela área das florestas e publicitado no sítio da Internet da AFN.
+
+###### Artigo 24.º — [...]
+
+1 - Os PROF e os PGF podem ser sujeitos a alteração ou a revisão sempre que se verifiquem factos relevantes que o justifiquem.
+
+2 - A verificação da ocorrência de facto relevante para efeitos de alteração ou revisão dos PROF é determinada por portaria do membro do Governo responsável pela área das florestas ou, caso integre áreas classificadas, por portaria dos membros do Governo responsáveis pelas áreas das florestas e do ambiente, respectivamente, mediante proposta da AFN ou do ICNB.
+
+3 - A alteração ou a revisão dos PROF deve ocorrer no prazo de dois anos após a publicação da portaria referida no número anterior, devendo ser adoptados os procedimentos previstos no presente decreto-lei para a respectiva elaboração, aprovação e publicidade, com as devidas e necessárias adaptações.
+
+4 - A portaria a que se refere o n.º 2 pode determinar a suspensão, total ou parcial, do PROF objecto de alteração ou revisão, estabelecendo o respectivo prazo.
+
+5 - As novas orientações introduzidas por via da alteração ou revisão dos PROF devem ser contempladas em sede da primeira alteração ou revisão dos PGF que ocorra posteriormente àquelas.»
+
+Visto e aprovado em Conselho de Ministros de 9 de Setembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - José Manuel Vieira Conde Rodrigues - António Manuel Soares Serrano - Dulce dos Prazeres Fidalgo Álvaro Pássaro.
+
+**Promulgado em 15 de Outubro de 2010.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 18 de Outubro de 2010.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

@@ -1,0 +1,331 @@
+---
+schema_version: '1.0'
+id: pt:dre:215874580:por
+title: Decreto-Lei n.º 58/2023
+short_title: null
+summary: Altera o regime jurídico aplicável aos sapadores florestais, às equipas e às brigadas de sapadores florestais no
+  continente
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Ambiente e Ação Climática
+official_number: 58/2023
+official_date: null
+publication_date: '2023-07-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/2023, Série I de 2023-07-19
+  number: '139'
+  series: I
+  supplement: null
+  pages: 13 - 16
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/07/13900/0001300016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/58/2023/07/19/p/dre/pt/html
+  oj: null
+  dre: '215874580'
+  dre_path: /dr/detalhe/decreto-lei/58-2023-215874580
+  internal: pt:dre:215874580:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580
+  metadata_url: https://data.dre.pt/eli/dec-lei/58/2023/07/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-02-19T00:00:00Z'
+integrity:
+  source_sha256: daf791af617792f2d970223d394fb40025d2aaceb61e01b1573603ccf91f2f70
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-58-215874580.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Proteção Civil
+- Incêndio
+- Prevenção de Incêndios
+- Catálogo Nacional de Qualificações
+- Formação Profissional
+- Regulamentação de Atos Legislativos
+- Instituto da Conservação da Natureza e das Florestas
+- Serviço Público
+- Exploração Florestal
+- Regime Jurídico
+- Sapador Florestal
+- Autoridade Nacional de Protecção Civil
+- Plano Nacional de Gestão Integrada de Fogos Rurais
+relationships:
+- type: amended_by
+  target: pt:dre:907934880:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/44/2020/07/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2020/07/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/8/2017/01/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/8/2017/01/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+article_structure:
+  article_count: 11
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 58/2023
+
+de 19 de julho
+
+O [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, que estabelece o regime jurídico aplicável à criação e funcionamento das equipas de sapadores florestais no território continental e que regulamenta os apoios à sua atividade, alterado pelo [Decreto-Lei n.º 44/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), de 22 de julho, carece de ajustamentos no sentido de o tornar mais capaz de responder às necessidades de apoio financeiro.
+
+Neste sentido, estabelece-se que o apoio anual ao funcionamento das equipas de sapadores florestais é incrementado para 55 mil euros tendo em conta o aumento abrupto e conjuntural, verificado especialmente desde 2020, dos encargos com os recursos humanos e outros meios, indispensáveis à atividade destas equipas.
+
+Considerando o incremento referido, procede-se ao ajustamento do valor do apoio anual ao funcionamento por equipa de sapadores florestais.
+
+Adicionalmente, o presente decreto-lei reforça a função dos agrupamentos das equipas de sapadores florestais, determinando a existência de uma coordenação efetiva da atividade de cada agrupamento e prevê que o Instituto da Conservação da Natureza e das Florestas, I. P., em diálogo com as entidades titulares, promova uma melhor cobertura das áreas de intervenção adjacentes de equipas de sapadores florestais ao permitir a criação de novas equipas onde seja tecnicamente adequado.
+
+Por outro lado, pretende-se valorizar e reforçar o papel da formação e experiência profissional dos sapadores florestais que integram as equipas beneficiárias de apoio, estabelecendo-se, para tal, uma percentagem superior na contabilização como serviço público.
+
+Por último, procede-se à alteração de disposições do decreto-lei com o intuito de as conformar com o atual quadro legislativo e regulamentar aplicável à gestão integrada de fogos rurais.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela [Lei n.º 33/96](https://diariodarepublica.pt/dr/detalhe/lei/33-1996-406293), de 17 de agosto, na sua redação atual, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à segunda alteração do [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, alterado pelo [Decreto-Lei n.º 44/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), de 22 de julho, que estabelece o regime jurídico aplicável aos sapadores florestais e às equipas de sapadores florestais no território continental português e define os apoios públicos de que estas podem beneficiar.
+
+###### Artigo 2.º — Alteração ao [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro
+
+Os artigos 1.º, 2.º, 4.º 6.º, 8.º, 16.º, 17.º, 18.º e 19.º do [Decreto-Lei n.º 8/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475), de 9 de janeiro, passam a ter a seguinte redação:
+
+«Artigo 1.º
+
+[...]
+
+1 - O presente decreto-lei estabelece o regime jurídico aplicável aos sapadores florestais, às equipas, aos agrupamentos e às brigadas de sapadores florestais, no território continental português, definindo os apoios públicos de que podem beneficiar.
+
+2 - [...]
+
+###### Artigo 2.º — [...]
+
+[...]
+
+a) 'Ações de controlo', as auditorias, inspeções, vistorias e visitas técnicas ou outras ações conducentes à avaliação da atividade das equipas, agrupamentos e brigadas de sapadores florestais e da sua conformidade com a legislação aplicável;
+
+b) [...]
+
+c) [...]
+
+d) 'Área de intervenção', o território definido por equipa, agrupamento ou brigada de sapadores florestais para o exercício prioritário da sua atividade;
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) 'Serviço público', aquele que é prestado pelas equipas, agrupamentos e brigadas de sapadores florestais, no âmbito das suas funções, sob normas e controlo do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), para proteção e defesa da floresta;
+
+m) [...]
+
+n) [...]
+
+o) [...]
+
+###### Artigo 4.º — [...]
+
+1 - A qualificação profissional de sapador florestal é obtida após conclusão com aproveitamento das unidades de competência (UC) e ou unidades de formação de curta duração (UFCD) da qualificação de Sapador Florestal inserida no Catálogo Nacional de Qualificações, que conferem as competências necessárias ao exercício das funções definidas no artigo anterior e ministradas por entidade formadora acreditada e reconhecida pelo ICNF, I. P., que integre a rede de entidades formadoras no âmbito do Sistema Nacional de Qualificações (SNQ) e respeitando o Plano Nacional de Qualificações do Sistema de Gestão Integrada de Fogos Rurais.
+
+2 - [...]
+
+3 - [...]
+
+4 - A conclusão com aproveitamento do total da carga horária relativa a esta qualificação confere as competências necessárias para a obtenção da qualificação profissional de sapador florestal.
+
+5 - [...]
+
+6 - [...]
+
+7 - [...]
+
+8 - O sapador florestal tem até cinco anos após a contratação na entidade titular para concluir a formação que lhe permita obter a qualificação de sapador florestal constante no Catálogo Nacional de Qualificações.
+
+9 - [...]
+
+10 - [...]
+
+###### Artigo 6.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - O protocolo de colaboração referido no número anterior identifica o coordenador, a quem é atribuída a missão de chefiar e representar o agrupamento.
+
+4 - [...]
+
+5 - (Anterior n.º 3.)
+
+6 - (Anterior n.º 5.)
+
+###### Artigo 8.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - O ICNF, I. P., pode autorizar a alteração da área de intervenção de uma equipa de sapadores florestais, mediante pedido da entidade titular da equipa devidamente fundamentado, ou promover, conjuntamente com as entidades titulares, a alteração das áreas de intervenção adjacentes de equipas de sapadores florestais com o objetivo de permitir a criação de novas equipas onde seja tecnicamente adequado melhorar a sua cobertura territorial.
+
+4 - [...]
+
+5 - [...]
+
+6 - [...]
+
+###### Artigo 16.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - [...]
+
+6 - A formação profissional básica relativa à certificação de grau um é contabilizada a 100 % como serviço público.
+
+7 - A formação profissional referente às restantes UC e ou UFCD do Referencial de Competências e/ou de Formação de Sapador Florestal, de caráter obrigatório, é contabilizada a 50 % como serviço público.
+
+8 - Após cinco anos de existência da equipa são integrados em serviço público 50 % dos dias utilizados na formação profissional, relativa ao RFSF, até ao máximo de 15 % da totalidade dos dias de prestação efetiva de serviço público do ano em curso.
+
+9 - [...]
+
+10 - [...]
+
+11 - [...]
+
+12 - [...]
+
+###### Artigo 17.º — [...]
+
+1 - [...]
+
+2 - [...]
+
+3 - Sempre que as equipas de sapadores detetem, ou sejam alertadas, para a existência de um incêndio nascente na sua área de intervenção, compete-lhes dar conhecimento à respetiva estrutura sub-regional de Gestão de Fogos Rurais do ICNF, I. P., e ao respetivo comando sub-regional de emergência e proteção civil da ANEPC e, em articulação com este, desencadear de imediato a primeira intervenção.
+
+4 - As equipas, agrupamentos ou brigadas de sapadores florestais devem ainda prestar apoio a operações de combate, de rescaldo e de vigilância ativa pós-rescaldo, coordenadas pelo ICNF, I. P., sempre que solicitado pela ANEPC.
+
+5 - [...]
+
+6 - [...]
+
+###### Artigo 18.º — [...]
+
+[...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+e) [...]
+
+f) [...]
+
+g) Garantir a necessária flexibilidade de horário de trabalho que o exercício das ações de defesa da floresta contra incêndios exige, nomeadamente durante o período de nível de empenhamento operacional mais elevado, definido na Diretiva Operacional Nacional da ANEPC que estabelece o dispositivo especial de combate a incêndios rurais;
+
+h) Dispor de serviço técnico habilitado, preferencialmente na área da silvicultura, que supervisione a atividade da equipa de sapadores florestais;
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+###### Artigo 19.º — [...]
+
+1 - O Estado concede apoio financeiro para formação profissional, aquisição de equipamento e funcionamento das equipas de sapadores florestais, preferencialmente através do Fundo Ambiental.
+
+2 - [...]
+
+3 - [...]
+
+4 - [...]
+
+5 - O montante do apoio anual ao funcionamento das equipas de sapadores florestais atribuído pelo Estado é definido por despacho do membro do Governo responsável pela área das florestas, que detém a gestão do Fundo Ambiental, tendo como valor máximo anual (euro) 55 000,00.
+
+6 - O montante máximo do apoio anual referido no número anterior pode ser majorado até um valor máximo de (euro) 10 000 por equipa, quando a entidade titular seja uma entidade intermunicipal detentora de brigada ou brigadas de sapadores florestais que prestem exclusivamente serviço público.
+
+7 - [...]»
+
+###### Artigo 3.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 1 de junho de 2023. - Mariana Guimarães Vieira da Silva - Patrícia Alexandra Costa Gaspar - Nuno Miguel Bernardes Coelho Santos Félix - João Miguel Marques da Costa - Ana Manuel Jerónimo Lopes Correia Mendes Godinho - José Duarte Piteira Rica Silvestre Cordeiro - Ana Maria Pereira Abrunhosa Trigueiros de Aragão.
+
+**Promulgado em 12 de julho de 2023.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 12 de julho de 2023.**
+
+Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.

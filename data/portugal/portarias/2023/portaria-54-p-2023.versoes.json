@@ -1,0 +1,205 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:207942910:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-901662463",
+ "dre_path": "/dr/detalhe/portaria/54-p-2023-207942910",
+ "source_lastmod": "2024-12-30",
+ "versions": [
+  {
+   "date": "2023-02-27",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "901662515",
+    "901662516",
+    "901662517",
+    "901662518",
+    "901662519",
+    "901662520",
+    "901662521",
+    "901662522",
+    "901662523",
+    "901662524",
+    "901662525",
+    "901662526",
+    "901662527",
+    "901662528",
+    "901662530"
+   ]
+  },
+  {
+   "date": "2024-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:901536096:por",
+     "title": "Portaria n.º 364/2024/1",
+     "published": "2024-12-30",
+     "dre_path": "/dr/detalhe/portaria/364-2024-901536096"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "901662515",
+    "901662516",
+    "901662517",
+    "901662518",
+    "901662519",
+    "901662520",
+    "901662521",
+    "901662522",
+    "901662523",
+    "901662524",
+    "901662525",
+    "901662526",
+    "901662527",
+    "901662528",
+    "901662529",
+    "901660790"
+   ]
+  }
+ ],
+ "fragments": {
+  "901662515": {
+   "fragment_id": "901662464",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 54-P/2023\n\nde 27 de fevereiro\n\nSumário: Estabelece os princípios e os procedimentos relativos às disposições financeiras constantes dos artigos 101.º e 102.º do Regulamento (EU) 2021/2115 aplicados ao eixo «A - Rendimento e Sustentabilidade» do PEPAC Portugal e as regras de cumulação dos apoios previstos nas portarias relativas às intervenções dos domínios «Sustentabilidade (ecorregime)», «Gestão ambiental e climática» e «Programas de ação em áreas sensíveis».\n\nA reforma da Política Agrícola Comum (PAC) em 2021 estabeleceu um novo quadro regulamentar que introduz alterações nos seus objetivos, instrumentos e mecanismos de avaliação, os quais passam a estar integrados num plano único, a nível nacional, o Plano Estratégico da Política Agrícola Comum (PEPAC).\n\nO PEPAC inclui os dois fundos agrícolas da PAC, o Fundo Europeu Agrícola de Garantia (FEAGA) e o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER) e tem como enquadramento legislativo o Regulamento (UE) 2021/2115, do Parlamento Europeu e do Conselho e Regulamento (UE) n.º 2021/2116, do Parlamento Europeu e do Conselho.\n\nO Plano Estratégico da Política Agrícola Comum de Portugal, «PEPAC Portugal» foi aprovado pela Comissão Europeia, através da Decisão n.º C (2022) 6019, de 31 de agosto de 2022, vigorando no período de 2023-2027.\n\nA título de disposições financeiras, o artigo 101.º do Regulamento (UE) 2021/2115 prevê que os Estados-Membros estabeleçam uma dotação financeira indicativa para cada intervenção e para cada ano, sem, contudo, impedir a utilização dos fundos provenientes dessas dotações financeiras indicativas como fundos para outras intervenções, sem alteração do plano estratégico da PAC e o artigo 102.º prevê um mecanismo de flexibilidade na reafetação de verbas, tendo em vista a maximização na utilização dos fundos.\n\nConsiderando as disposições regulamentares suprarreferidas e o artigo 18.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, que define as regras gerais da flexibilidade financeira aplicadas ao PEPAC Portugal, cumpre fixar um conjunto de princípios e regras de aplicação anual que permitam implementar a flexibilidade prevista nos referidos diplomas.\n\nNeste contexto, relativamente às intervenções no âmbito do eixo «A - Rendimento e Sustentabilidade», é possível fixar montantes unitários máximos e mínimos.\n\nMais se mostra necessário clarificar e divulgar os termos que permitem a cumulação dos apoios no âmbito das portarias relativas às intervenções dos domínios «Sustentabilidade (ecorregime)», «Gestão ambiental e climática» e «Programas de ação em áreas sensíveis».\n\nAssim:\n\nManda o Governo, pela Ministra da Agricultura e da Alimentação, ao abrigo do n.º 2 e da alínea b) do n.º 3, ambos do artigo 3.º do Decreto-Lei n.º 12/2023, de 24 de fevereiro, o seguinte:"
+  },
+  "901662516": {
+   "fragment_id": "901662465",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "901662517": {
+   "fragment_id": "901662466",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece os princípios e os procedimentos relativos às disposições financeiras constantes dos artigos 101.º e 102.º do Regulamento (EU) 2021/2115 aplicados ao eixo «A - Rendimento e Sustentabilidade» do PEPAC Portugal.\n\n2 - A presente portaria estabelece, ainda, as regras de cumulação dos apoios previstos nas portarias relativas às intervenções dos domínios «Sustentabilidade (ecorregime)», «Gestão ambiental e climática» e «Programas de ação em áreas sensíveis»."
+  },
+  "901662518": {
+   "fragment_id": "901662467",
+   "type": 1,
+   "heading": "Capítulo II — Regras financeiras gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Regras financeiras gerais"
+  },
+  "901662519": {
+   "fragment_id": "901662468",
+   "type": 11,
+   "heading": "Artigo 2.º — Princípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Princípios\n\nA aplicação das regras financeiras gerais deve assegurar:\n\na) A contribuição para o cumprimento do Quadro de Desempenho do PEPAC Portugal;\n\nb) A estabilidade das dotações financeiras de cada intervenção previstas no plano financeiro do PEPAC Portugal, devendo ser preservadas sempre que possível;\n\nc) A previsibilidade para os beneficiários, devendo os montantes unitários de cada intervenção ou grupo de pagamento situar-se entre os montantes unitários mínimos e máximos que foram programados para cada intervenção ou grupo de pagamento;\n\nd) A proteção da especificidade nacional relativa ao apoio associado ao rendimento, devendo a dotação financeira situar-se tão próxima quanto possível do limite máximo de acordo com o Regulamento (UE) 2021/2115."
+  },
+  "901662520": {
+   "fragment_id": "901662469",
+   "type": 11,
+   "heading": "Artigo 3.º — Procedimento geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Procedimento geral\n\n1 - O montante unitário de apoio é estimado para cada intervenção, ou grupo de pagamento, atendendo à dotação financeira indicativa programada e às realizações conexas das candidaturas.\n\n2 - O montante unitário de apoio respeita os montantes unitários mínimos e máximos, sendo possível proceder a ajustamentos nas dotações financeiras, quando necessário.\n\n3 - A maximização da execução da dotação atribuída às tipologias relativas à intervenção «Apoio associado» implica, quando necessário, o aumento dos montantes unitários e das dotações financeiras destas tipologias, respeitando os montantes unitários máximos.\n\n4 - O procedimento previsto nos números anteriores não pode prejudicar o disposto nos artigos 96.º a 98.º do Regulamento (UE) 2021/2115.\n\n5 - Os ajustamentos referidos nos n.os 2 a 4 devem manter as relações de grandeza entre os valores dos apoios dos escalões de pagamento, no âmbito de cada grupo de pagamento e, sempre que possível, as relações de grandeza entre valores dos apoios dos grupos de pagamento, no âmbito de cada intervenção.\n\n6 - O referido nos números anteriores não é aplicável à interven"
+  },
+  "901662521": {
+   "fragment_id": "901662470",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento relativo ao «Apoio ao rendimento base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento relativo ao «Apoio ao rendimento base\n\n1 - A despesa estimada da intervenção «Apoio ao rendimento base» é calculada com base na dotação financeira indicativa programada à qual se adicionam, algebricamente, os excedentes ou os défices das outras intervenções face ao programado, estimado nos termos do artigo anterior.\n\n2 - O montante de apoio unitário da intervenção «Apoio ao rendimento base» é estimado da seguinte forma:\n\na) Até 2025, através da multiplicação do valor do direito pelo rácio entre a despesa estimada da intervenção e a dotação financeira programada;\n\nb) A partir de 2026, através do quociente da despesa estimada da intervenção pelo número de realizações conexas declaradas nas candidat"
+  },
+  "901662522": {
+   "fragment_id": "901662471",
+   "type": 11,
+   "heading": "Artigo 5.º — Procedimento excecional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Procedimento excecional\n\nA Autoridade de Gestão Nacional do PEPAC Portugal, sem prejuízo do respeito pelos princípios previstos no artigo 2.º, pode adotar um procedimento distinto do referido nos artigos 3.º e 4.º, a fim de atender a situações específicas e excecionais, designadamente as seguintes:\n\na) Quando a estimativa do montante de apoio unitário médio da intervenção «Apoio ao rendimento base» resulta num pagamento unitário médio situado fora do intervalo dos montantes unitários mínimos e máximos previstos, podendo ser ajustados nas intervenções «Pagamento aos pequenos agricultores» ou «Apoio redistributivo complementar»;\n\nb) Quando os montantes de apoio unitários coloquem em causa as metas dos indicadores de resultado do PEPAC Portugal;\n\nc) Quando se verificam ultrapassagens dos montantes de apoio unitários superiores a"
+  },
+  "901662523": {
+   "fragment_id": "901662472",
+   "type": 1,
+   "heading": "Capítulo III — Regras de cumulação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Regras de cumulação dos apoios"
+  },
+  "901662524": {
+   "fragment_id": "901662473",
+   "type": 11,
+   "heading": "Artigo 6.º — Cumulação dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cumulação dos apoios\n\nSão cumuláveis nos termos constantes do anexo à presente portaria, da qual faz parte integrante, os apoios previstos nas portarias relativas às intervenções dos domínios «Sustentabilidade (ecorregime)»,"
+  },
+  "901662525": {
+   "fragment_id": "901662474",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições da cumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições da cumulação\n\n1 - A cumulação de apoios no âmbito da presente portaria é possível ainda que as intervenções incidam sobre a mesma subparcela ou animal, desde que, no caso das subparcelas, as ocupações culturais sejam compatíveis com as intervenções em causa.\n\n2 - Sempre que, nos termos do anexo à presente portaria, da qual faz parte integrante, possam ser integralmente somados os apoios referidos no artigo anterior, a cumulação considera-se total.\n\n3 - Quando a cumulação dos apoios referidos no artigo anterior implique a redução de um dos apoios cumulados, em conformidade com o estabelecido no anexo à presente portaria, considera-se que a cumulação é par"
+  },
+  "901662526": {
+   "fragment_id": "901663075",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de cumulação em caso de ultrapassagem dos envelopes financeiros indicativos para eixo C1.1 — Compromissos Agroambientais e Clima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições de cumulação em caso de ultrapassagem dos envelopes financeiros indicativos para eixo C1.1 — Compromissos Agroambientais e Clima\n\nA Autoridade de Gestão do PEPAC Continente pode definir as regras de cumulação a aplicar nas intervenções em que se verifique que as candidaturas validadas ultrapassam a respetiva dotação financeira, após consulta e parecer do respetivo comité de acompanham"
+  },
+  "901662527": {
+   "fragment_id": "901663076",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "901662528": {
+   "fragment_id": "901663077",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor e produção de efeitos\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a 1 de janeiro de 2023."
+  },
+  "901662530": {
+   "fragment_id": "901663079",
+   "type": 14,
+   "heading": "Anexo — Cumulações dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Cumulações dos apoios\n\n(a que se referem os artigos 6.º e 7.º)\n\n1) Na intervenção «Agricultura biológica (conversão e manutenção)», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções da «PRODI - culturas agrícolas, «Maneio da pastagem permanente», «Promoção da fertilização orgânica» e «Sementeira direta»;\n\nb) No caso do grupo de pagamento «Arroz», não é permitida a cumulação de apoios com a tipologia «Proteção das aves dos arrozais e de outras zonas húmidas» da intervenção «Proteção de espécies com estatuto - superfície agrícola»;\n\nc) É permitida a cumulação parcial, com redução de apoio nas intervenções «Pastagens biodiversas» e «Uso eficiente da água»;\n\nd) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n2) Na intervenção «Agricultura biológica (conversão e manutenção)», ao nível do animal:\n\na) Não é permitida a cumulação de apoios com a intervenção «Bem-estar animal e uso racional de antimicrobianos»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n3) Na intervenção «PRODI - culturas agrícolas», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Agricultura biológica (conversão e manutenção)»;\n\nb) É permitida a cumulação parcial, com redução de apoio na intervenção «Uso eficiente da água»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n4) Na intervenção «Maneio da pastagem permanente», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Agricultura biológica (conversão e manutenção)», «Pastagens biodiversas» e «Gestão do montado por resultados»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n5) Na intervenção «Promoção da fertilização orgânica», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Agricultura biológica (conversão e manutenção)» e «Gestão do montado por resultados»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n6) Na intervenção «Melhorar a eficiência alimentar animal para redução das emissões de gases com efeitos de estufa», ao nível do animal, quando aplicável, é permitida a cumulação total com restantes intervenções.\n\n7) Na intervenção «Bem-estar animal e uso racional de Antimicrobianos», ao nível do animal:\n\na) Não é permitida a cumulação de apoios com a intervenção «Agricultura biológica (conversão e manutenção)»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n8) Na intervenção «Práticas promotoras de biodiversidade», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Gestão do montado por resultados»;\n\nb) Para efeitos de cumulação de apoios, não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio nas seguintes intervenções e tipologias:\n\ni) «Culturas permanentes e paisagens tradicionais» - tipologia «Douro Vinhateiro»;\n\nii) «Planos Zonais Agroambientais» - tipologia «Apoio Zonal Peneda Gerês - Manutenção de socalcos»;\n\niii) «Gestão Integrada em Zonas Críticas» - tipologia «Manutenção do Mosaico paisagístico do Barroso»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n9) Na intervenção «Sementeira direta», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Agricultura biológica (conversão e manutenção)»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n10) Na intervenção «Enrelvamento», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Mosaico agroflorestal»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n11) Na intervenção «Pastagens biodiversas», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Maneio da pastagem permanente» e «Gestão do montado por resultados»;\n\nb) É permitida a cumulação parcial com a intervenção «Agricultura biológica (conversão e manutenção)», sendo o valor do apoio da intervenção «Pastagens biodiversas», 60 % do valor do apoio sem cumulação;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n12) Na intervenção «Uso eficiente da água», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Planos Zonais Agroambientais», exceto na tipologia «Manutenção dos socalcos na Peneda-Gerês»;\n\nb) É permitida a cumulação parcial com as intervenções «Agricultura biológica (conversão e manutenção)» e «PRODI - culturas agrícolas», sendo o valor do apoio da intervenção «Uso eficiente da água», 40 % do valor do apoio sem cumulação;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n13) Na intervenção «Montados e lameiros», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Mosaico agroflorestal», exceto na tipologia «Montados», «Gestão do montado por resultados» e «Gestão integrada em zonas críticas»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n14) Na intervenção «Culturas permanentes e paisagens tradicionais», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções: «Mosaico agroflorestal» e «Gestão integrada em zonas críticas»;\n\nb) Para efeitos da cumulação de apoios, na intervenção «Práticas promotoras da biodiversidade» não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio na tipologia «Douro Vinhateiro»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n15) Na intervenção «Mosaico agroflorestal», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Enrelvamento», «Culturas permanentes e paisagens tradicionais», «Gestão integrada em zonas críticas» e «Montados e lameiros», exceto na tipologia «Montados»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n16) Na intervenção «Manutenção de raças autóctones», ao nível do animal, quando aplicável, é permitida a cumulação total com restantes intervenções.\n\n17) Na intervenção «Planos Zonais Agroambientais», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Gestão integrada em zonas críticas», «Proteção de espécies com estatuto - superfície agrícola», exceto na tipologia «Águia caçadeira» e «Uso eficiente da água», exceto na tipologia «Manutenção dos socalcos na Peneda-Gerês»;\n\nb) Para efeitos da cumulação de apoios, na intervenção «Práticas promotoras da biodiversidade» não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio na tipologia «Apoio Zonal Peneda Gerês - Manutenção de socalcos»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n18) Na intervenção «Gestão do montando por resultados», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Maneio da pastagem permanente», «Promoção da fertilização orgânica», «Práticas promotoras de biodiversidade», «Pastagens biodiversas» e «Montados e lameiros»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n19) Na intervenção «Gestão integrada em zonas críticas», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Montados e lameiros», «Culturas permanentes e paisagens tradicionais», «Mosaico agroflorestal», «Planos Zonais Agroambientais» e «Proteção de espécies com estatuto - superfície agrícola», exceto na tipologia «Águia caçadeira»;\n\nb) Para efeitos da cumulação de apoios, na intervenção «Práticas promotoras da biodiversidade» não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio na tipologia «Manutenção do mosaico paisagístico do Barroso»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n20) Na intervenção «Proteção de espécies com estatuto - superfície agrícola», ao nível da subparcela:\n\na) No caso da tipologia «Proteção das aves dos arrozais e de outras zonas húmidas» não é permitida a cumulação de apoios com o grupo de pagamento «Arroz» da intervenção «Agricultura biológica (conversão e manutenção)»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n116207358"
+  },
+  "901662529": {
+   "fragment_id": "901663078",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Agricultura e da Alimentação, Maria do Céu de Oliveira Antunes, em 24 de fevereiro de 2023."
+  },
+  "901660790": {
+   "fragment_id": "901663079",
+   "type": 14,
+   "heading": "Anexo — Cumulações dos apoios",
+   "in_force_from": "2024-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 364/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/364-2024-901536096), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+   ],
+   "markdown": "## Anexo — Cumulações dos apoios\n\n(a que se referem os artigos 6.º e 7.º)\n\n1) Na intervenção «Agricultura biológica (conversão e manutenção)», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções da «PRODI - culturas agrícolas, «Maneio da pastagem permanente», «Promoção da fertilização orgânica» e «Sementeira direta»;\n\nb) No caso do grupo de pagamento «Arroz», não é permitida a cumulação de apoios com a tipologia «Proteção das aves dos arrozais e de outras zonas húmidas» da intervenção «Proteção de espécies com estatuto - superfície agrícola»;\n\nc) É permitida a cumulação parcial, com redução de apoio nas intervenções «Pastagens biodiversas» e «Uso eficiente da água»;\n\nd) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n2) (Revogado.)\n\n3) Na intervenção «PRODI - culturas agrícolas», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Agricultura biológica (conversão e manutenção)»;\n\nb) É permitida a cumulação parcial, com redução de apoio na intervenção «Uso eficiente da água»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n4) Na intervenção «Maneio da pastagem permanente», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Agricultura biológica (conversão e manutenção)», «Pastagens biodiversas» e «Gestão do montado por resultados»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n5) Na intervenção «Promoção da fertilização orgânica», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Agricultura biológica (conversão e manutenção)» e «Gestão do montado por resultados»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n6) Na intervenção «Melhorar a eficiência alimentar animal para redução das emissões de gases com efeitos de estufa», ao nível do animal, quando aplicável, é permitida a cumulação total com restantes intervenções.\n\n7) Na intervenção ‘Bem-estar animal e uso racional de antimicrobianos’, ao nível do animal, quando aplicável, é permitida a cumulação total com restantes intervenções.\n\na) (Revogada.)\n\nb (Revogada.)\n\n8) Na intervenção «Práticas promotoras de biodiversidade», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Gestão do montado por resultados»;\n\nb) Para efeitos de cumulação de apoios, não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio nas seguintes intervenções e tipologias:\n\ni) «Culturas permanentes e paisagens tradicionais» - tipologia «Douro Vinhateiro»;\n\nii) «Planos Zonais Agroambientais» - tipologia «Apoio Zonal Peneda Gerês - Manutenção de socalcos»;\n\niii) «Gestão Integrada em Zonas Críticas» - tipologia «Manutenção do Mosaico paisagístico do Barroso»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n9) Na intervenção «Sementeira direta», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Agricultura biológica (conversão e manutenção)»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n10) Na intervenção «Enrelvamento», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Mosaico agroflorestal»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n11) Na intervenção «Pastagens biodiversas», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Maneio da pastagem permanente» e «Gestão do montado por resultados»;\n\nb) É permitida a cumulação parcial com a intervenção «Agricultura biológica (conversão e manutenção)», sendo o valor do apoio da intervenção «Pastagens biodiversas», 60 % do valor do apoio sem cumulação;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n12) Na intervenção «Uso eficiente da água», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Planos Zonais Agroambientais», exceto na tipologia «Manutenção dos socalcos na Peneda-Gerês»;\n\nb) É permitida a cumulação parcial com as intervenções «Agricultura biológica (conversão e manutenção)» e «PRODI - culturas agrícolas», sendo o valor do apoio da intervenção «Uso eficiente da água», 40 % do valor do apoio sem cumulação;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n13) Na intervenção «Montados e lameiros», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com a intervenção «Mosaico agroflorestal», exceto na tipologia «Montados», «Gestão do montado por resultados» e «Gestão integrada em zonas críticas»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n14) Na intervenção «Culturas permanentes e paisagens tradicionais», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções: «Mosaico agroflorestal» e «Gestão integrada em zonas críticas»;\n\nb) Para efeitos da cumulação de apoios, na intervenção «Práticas promotoras da biodiversidade» não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio na tipologia «Douro Vinhateiro»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n15) Na intervenção «Mosaico agroflorestal», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Enrelvamento», «Culturas permanentes e paisagens tradicionais», «Gestão integrada em zonas críticas» e «Montados e lameiros», exceto na tipologia «Montados»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n16) Na intervenção «Manutenção de raças autóctones», ao nível do animal, quando aplicável, é permitida a cumulação total com restantes intervenções.\n\n17) Na intervenção «Planos Zonais Agroambientais», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Gestão integrada em zonas críticas», «Proteção de espécies com estatuto - superfície agrícola», exceto na tipologia «Águia caçadeira» e «Uso eficiente da água», exceto na tipologia «Manutenção dos socalcos na Peneda-Gerês»;\n\nb) Para efeitos da cumulação de apoios, na intervenção «Práticas promotoras da biodiversidade» não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio na tipologia «Apoio Zonal Peneda Gerês - Manutenção de socalcos»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n18) Na intervenção «Gestão do montando por resultados», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Maneio da pastagem permanente», «Promoção da fertilização orgânica», «Práticas promotoras de biodiversidade», «Pastagens biodiversas» e «Montados e lameiros»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n19) Na intervenção «Gestão integrada em zonas críticas», ao nível da subparcela:\n\na) Não é permitida a cumulação de apoios com as intervenções «Montados e lameiros», «Culturas permanentes e paisagens tradicionais», «Mosaico agroflorestal», «Planos Zonais Agroambientais» e «Proteção de espécies com estatuto - superfície agrícola», exceto na tipologia «Águia caçadeira»;\n\nb) Para efeitos da cumulação de apoios, na intervenção «Práticas promotoras da biodiversidade» não são contabilizados os muros de pedra posta que suportam socalcos, quando estes são objeto de apoio na tipologia «Manutenção do mosaico paisagístico do Barroso»;\n\nc) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n20) Na intervenção «Proteção de espécies com estatuto - superfície agrícola», ao nível da subparcela:\n\na) No caso da tipologia «Proteção das aves dos arrozais e de outras zonas húmidas» não é permitida a cumulação de apoios com o grupo de pagamento «Arroz» da intervenção «Agricultura biológica (conversão e manutenção)»;\n\nb) Quando aplicável, é permitida a cumulação total nas restantes intervenções.\n\n21) Na intervenção ‘Apoio às zonas com condicionantes naturais’, ao nível da subparcela, quando aplicável, é permitida a cumulação total com restantes intervenções.\n\n22) Na intervenção ‘Pagamento Rede Natura’, ao nível da subparcela, quando aplicável, é permitida a cumulação total com restantes intervenções.\n\n116207358\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 364/2024/1 - Diário da República n.º 252/2024, Série I de 2024-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/364-2024-901536096), em vigor a partir de 2024-12-31, produz efeitos a partir de 2025-01-01"
+  }
+ }
+}

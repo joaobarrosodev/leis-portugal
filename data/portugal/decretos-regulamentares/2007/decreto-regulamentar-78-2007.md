@@ -1,0 +1,251 @@
+---
+schema_version: '1.0'
+id: pt:dre:636405:por
+title: Decreto Regulamentar n.º 78/2007
+short_title: null
+summary: Aprova a orgânica da Inspecção-Geral dos Serviços de Justiça
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 78/2007
+official_date: null
+publication_date: '2007-07-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 145/2007, Série I de 2007-07-30
+  number: '145'
+  series: I
+  supplement: null
+  pages: 4870 - 4872
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/07/14500/0487004872.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/78/2007/07/30/p/dre/pt/html
+  oj: null
+  dre: '636405'
+  dre_path: /dr/detalhe/decreto-regulamentar/78-2007-636405
+  internal: pt:dre:636405:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-2007-636405
+  metadata_url: https://data.dre.pt/eli/decregul/78/2007/07/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/78-2007-636405
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-07-31T00:00:00Z'
+integrity:
+  source_sha256: c97e1f3c8ca4de8e2e5b2418293ba6b8ebf3e46b63e04b7fac1b569fb4936e1e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-78-636405.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Inspetor Geral
+- Inspecção Geral dos Serviços de Justiça
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Segredo de Justiça
+- Subinspector Geral
+relationships:
+- type: amended_by
+  target: pt:dre:179297:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/101/2001/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/101/2001/03/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/206/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/206/2006/10/27/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 78/2007
+
+de 30 de Julho
+
+No quadro das orientações definidas pelo Programa de Reestruturação da Administração Central do Estado (PRACE) e dos objectivos do Programa do Governo no tocante à modernização administrativa, à melhoria da qualidade dos serviços públicos com ganhos de eficiência, importa concretizar o esforço de racionalização estrutural consagrado no [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, que aprovou a Lei Orgânica do Ministério da Justiça (MJ), avançando na definição dos modelos organizacionais dos serviços que integram a respectiva estrutura.
+
+Neste contexto, importa ter presente que a Inspecção-Geral dos Serviços de Justiça (IGSJ), criada pela anterior Lei Orgânica do MJ, aprovada pelo [Decreto-Lei n.º 146/2000](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2000-320560), de 18 de Julho, como o serviço central de inspecção, fiscalização e auditoria deste Ministério, com uma vocação de controlo estratégico, sistemático e global, tem vindo a funcionar com base no quadro de atribuições e competências definidos na sua Lei Orgânica, aprovada pelo [Decreto-Lei n.º 101/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2001-345149), de 29 de Março.
+
+Sendo uma das linhas orientadoras do PRACE o fortalecimento da função inspectiva e fiscalizadora do Estado, com base no entendimento de que a auditoria e fiscalização permanente da actuação e do desempenho dos diversos serviços da Administração assumem um papel de relevância estratégica para a Governação, o presente decreto regulamentar visa precisamente ampliar e reforçar as áreas de intervenção e atribuições da IGSJ, designadamente no domínio da auditoria técnica, do desempenho e financeira, com vista a intensificar os mecanismos de avaliação e responsabilidade no sistema da justiça.
+
+A reestruturação da orgânica da IGSJ, que ora se aprova, guia-se pelos princípios da eficácia da acção administrativa, da racionalização de meios e da eficiência na afectação de recursos, pelo que o alargamento das funções desta entidade, não se traduz numa ampliação da sua estrutura, assistindo-se, pelo contrário, a uma diminuição significativa dos seus níveis orgânicos intermédios e consequentemente dos seus cargos dirigentes.
+
+Deste modo, reduz-se de três para um o número de subinspectores-gerais e extingue-se a Direcção de Serviços de Organização e Sistemas de Informação (DSOSI), cujas competências se encontravam já parcialmente diminuídas, atenta a missão e atribuições do Instituto para as Tecnologias de Informação da Justiça (ITIJ) e o Núcleo de Apoio Técnico (NAT). As competências residuais daquela Direcção de Serviços, que visam, basicamente, assegurar a articulação da IGSJ com os demais organismos do MJ responsáveis pelos seus sistemas informáticos, de informação e comunicação e pelo desenvolvimento organizacional e de modernização administrativa, integram a agora denominada Direcção de Serviços de Administração, Gestão e Informática (DSAGI).
+
+Tendo ainda como desiderato a eficácia na gestão e afectação de recursos e a melhoria da qualidade do serviço prestado pela IGSJ, determina-se que as acções inspectivas serão executadas e acompanhadas por equipas de projecto temporárias, compostas por inspectores e coordenadas por um destes, criadas por despacho do dirigente do serviço, em função dos objectivos específicos e do período de cada acção, o que permitirá, certamente, uma maior flexibilidade orgânica e um aumento da produtividade na realização destas acções.
+
+Na revisão da orgânica da IGSJ aproveita-se, igualmente, para se introduzirem ajustamentos e rectificações no articulado do diploma, que a experiência de mais de cinco anos de funcionamento deste serviço revelou serem necessários, designadamente, por inexistência de base jurídica adequada para enquadrar determinadas situações. São exemplo disso os normativos respeitantes à sujeição expressa do pessoal de inspecção ao segredo de justiça e à possibilidade desse pessoal ser coadjuvado por peritos técnicos, quando no exercício das suas funções.
+
+A reestruturação operada permitirá, deste modo, a manutenção da qualidade do serviço prestado no exercício futuro das competências da IGSJ, que se revelam agora mais abrangentes, mais exigentes e mais complexas.
+
+Assim:
+
+Ao abrigo do disposto no artigo 30.º do [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, e nos termos da alínea c) do artigo 199.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+A Inspecção-Geral dos Serviços de Justiça, adiante abreviadamente designada por IGSJ, é um serviço central da administração directa do Estado, dotado de autonomia administrativa.
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A IGSJ tem por missão desempenhar as funções de auditoria, inspecção e fiscalização, relativamente a todas as entidades, serviços e organismos, dependentes, ou cuja actividade é tutelada ou regulada pelo Ministério da Justiça, abreviadamente designado MJ.
+
+2 - A IGSJ prossegue as seguintes atribuições:
+
+a) Realizar inspecções, auditorias, sindicâncias, inquéritos, averiguações, peritagens e outras acções inspectivas que lhe sejam ordenadas ou autorizadas, assegurando o acompanhamento das recomendações emitidas;
+
+b) Realizar inspecções com vista a avaliar o cumprimento das missões, das normas legais e regulamentares e das instruções governamentais aplicáveis à actividade dos serviços e entidades;
+
+c) Apreciar queixas, reclamações, denúncias, participações e exposições e realizar acções inspectivas, na sequência de indícios apurados ou de solicitações de outras entidades do Estado que lhe sejam apresentadas por eventuais violações da legalidade ou por suspeitas de irregularidades ou deficiência no funcionamento dos órgãos, serviços ou organismos do MJ;
+
+d) Auditar os sistemas e procedimentos de controlo interno dos serviços e organismos do ministério, no quadro das responsabilidades cometidas ao sistema de controlo interno e participar no Sistema de Controlo Interno da Administração Financeira do Estado;
+
+e) Propor a instauração e instruir processos disciplinares, de inquérito e de averiguações que forem determinados pelo Ministro da Justiça ou que por ele sejam avocados e assegurar a realização de outras acções inspectivas que lhe sejam atribuídas por lei, ou por aquele determinadas;
+
+f) Avaliar a qualidade dos sistemas de informação de gestão, incluindo os indicadores de desempenho, bem como os resultados obtidos em função dos meios disponíveis, propor medidas relativas à organização e ao funcionamento dos órgãos, serviços e organismos do MJ, visando a simplificação de processos, circuitos e comunicações e verificar a realização dos objectivos definidos em programas de modernização administrativa;
+
+g) Apresentar propostas de medidas legislativas ou regulamentares que, na sequência da sua actuação, se afigurem pertinentes, bem como propor a adopção de medidas tendentes a assegurar ou restabelecer a legalidade dos actos praticados por parte dos serviços e organismos do MJ;
+
+h) Participar aos órgãos competentes para a investigação criminal os factos com relevância jurídico-criminal e colaborar com aqueles órgãos na obtenção de provas, sempre que isso for solicitado; e
+
+i) Exercer as demais competências que lhe forem atribuídas por lei ou determinadas superiormente no seu âmbito de actuação.
+
+###### Artigo 3.º — Cargos dirigentes
+
+A IGSJ é dirigida por um inspector-geral, coadjuvado por um subinspector-geral.
+
+###### Artigo 4.º — Inspector-geral
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas, compete ao inspector-geral:
+
+a) Promover a realização das acções superiormente aprovadas, bem como dos controlos cruzados necessários ao cabal desempenho das acções;
+
+b) Representar a IGSJ no conselho coordenador do Sistema de Controlo Interno da Administração Financeira do Estado;
+
+c) Elaborar os planos de actividades da IGSJ e submetê-los a aprovação do Ministro da Justiça;
+
+d) Avaliar a actividade da IGSJ, elaborar os respectivos relatórios e submetê-los a apreciação do Ministro da Justiça;
+
+e) Propor ao Ministro da Justiça a adopção das medidas que tiver por convenientes no âmbito das suas competências de acompanhamento da execução das decisões proferidas pelo Ministro da Justiça nos processos instruídos pela IGSJ;
+
+f) Representar a IGSJ, designadamente em actos e contratos, e assegurar as suas relações com o Ministro da Justiça, com os serviços do MJ e, em geral, com todas as entidades externas.
+
+2 - Ao subinspector-geral compete substituir o inspector-geral nas suas faltas e impedimentos e exercer as competências que por este lhe sejam delegadas ou subdelegadas.
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna dos serviços da IGSJ obedece ao seguinte modelo estrutural misto:
+
+a) Nas áreas de missão, o modelo de estrutura matricial;
+
+b) Na área de suporte, o modelo de estrutura hierarquizada.
+
+###### Artigo 6.º — Receitas
+
+1 - A IGSJ dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A IGSJ dispõe ainda das seguintes receitas próprias:
+
+a) O produto das vendas e publicações;
+
+b) Os montantes provenientes do pagamento dos serviços de inspecção e auditoria ao notariado privado pela IGSJ;
+
+c) O produto das prestações de serviços cuja receita lhe seja atribuída;
+
+d) As transferências do IGFIJ, I. P.;
+
+e) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou título.
+
+3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas da IGSJ durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte.
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da IGSJ as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas
+
+###### Artigo 8.º — Quadro de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo do presente decreto regulamentar, do qual faz parte integrante.
+
+###### Artigo 9.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+
+Aos chefes de equipas multidisciplinares é atribuído, em função da natureza e complexidade das funções, um estatuto remuneratório equiparado a director de serviços ou um acréscimo remuneratório correspondente a 55 pontos indiciários da escala salarial geral, até ao limite do estatuto remuneratório fixado para os chefes de divisão, não podendo o estatuto equiparado a director de serviços ser atribuído a mais de duas chefias de equipa em simultâneo.
+
+###### Artigo 10.º — Segredo de justiça
+
+Para o exercício das suas funções inspectivas, o pessoal ao serviço da IGSJ tem acesso aos necessários processos, estando sujeito às disposições legais relativas ao segredo de justiça, mesmo após a cessação das suas funções.
+
+###### Artigo 11.º — Norma transitória
+
+1 - O pessoal recrutado ao abrigo do [Decreto-Lei n.º 101/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2001-345149), de 29 de Março, mantém as comissões de serviço até 31 de Dezembro de 2008.
+
+2 - O artigo 31.º [Decreto-Lei n.º 101/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2001-345149), de 29 de Março, mantém-se em vigor até 31 de Dezembro de 2008.
+
+###### Artigo 12.º — Norma revogatória
+
+Nos termos do artigo 4.º do [Decreto-Lei n.º 206/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2006-545645), de 27 de Outubro, considera-se revogado na data de entrada em vigor do presente decreto regulamentar o [Decreto-Lei n.º 101/2001](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2001-345149), de 29 de Março.
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de Dezembro de 2006. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa.
+
+**Promulgado em 26 de Junho de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 3 de Julho de 2007.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**
+
+## ANEXO — (mapa a que se refere o artigo 8.º)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2007/07/14500/0487004872.pdf))](https://files.diariodarepublica.pt/1s/2007/07/14500/0487004872.pdf)

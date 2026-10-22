@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:444468:por
+title: Portaria n.º 570/98
+short_title: null
+summary: Anexa à zona de caça associativa criada pela Portaria n.º 538/94, de 8 de Julho, e alterada pela Portaria n.º 968/97,
+  de 15 de Setembro, vários prédios rústicos sitos na freguesia de Abrã, município de Santarém, e nas freguesias de Espinheiro
+  e Malhou, município de Alcanena
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 570/98
+official_date: null
+publication_date: '1998-08-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/1998, Série I-B de 1998-08-20
+  number: '191'
+  series: I
+  supplement: null
+  pages: 4186 - 4186
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/08/191b00/41864186.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/570/1998/08/20/p/dre/pt/html
+  oj: null
+  dre: '444468'
+  dre_path: /dr/detalhe/portaria/570-1998-444468
+  internal: pt:dre:444468:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-1998-444468
+  metadata_url: https://data.dre.pt/eli/port/570/1998/08/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/570-1998-444468
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-08-20T00:00:00Z'
+integrity:
+  source_sha256: c401c295148f0719134b42ebd847ddf95114e80d693dde764910f8f63290dd44
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-570-444468.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Alcanena
+- CAÇA
+- Santarém
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/538/1994/07/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/538/1994/07/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/968/1997/09/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/968/1997/09/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 570/98
+
+de 20 de Agosto
+
+Pela [Portaria n.º 538/94](https://diariodarepublica.pt/dr/detalhe/portaria/538-1994-290653), de 8 de Julho, foi concessionada ao Clube de Caçadores Amienses a zona de caça associativa de Amiais de Baixo, processo n.º 1488-DGF, situada no município de Santarém, com uma área de 644,3750 ha, válida até 8 de Julho de 2006, tendo, por força do Acórdão do Tribunal Constitucional n.º 866/96, de 18 de Dezembro, a sua área sido reduzida para 504,35 ha, através da [Portaria n.º 968/97](https://diariodarepublica.pt/dr/detalhe/portaria/968-1997-649083), de 15 de Setembro.
+
+A concessionária requereu agora a anexação à referida zona de caça de alguns prédios rústicos com uma área de 291,30 ha no município de Santarém e 83,0750 ha no município de Alcanena.
+
+Assim, com fundamento no disposto nos artigos 20.º da [Lei n.º 30/86](https://diariodarepublica.pt/dr/detalhe/lei/30-1986-219134), de 27 de Agosto, e 79.º e 81.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, e ouvidos o Conselho Cinegético Municipal de Santarém e o Conselho Nacional da Caça e de Conservação da Fauna:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, que sejam anexados à zona de caça associativa criada pela [Portaria n.º 538/94](https://diariodarepublica.pt/dr/detalhe/portaria/538-1994-290653), de 8 de Julho, e alterada pela [Portaria n.º 968/97](https://diariodarepublica.pt/dr/detalhe/portaria/968-1997-649083), de 15 de Setembro, vários prédios rústicos sitos na freguesia de Abrã, município de Santarém, e nas freguesias de Espinheiro e Malhou, município de Alcanena, ficando a mesma com uma área de 795,65 ha no município de Santarém e 83,0750 ha no município de Alcanena, perfazendo uma área total de 878,7250 ha, conforme planta anexa à presente portaria e que dela faz parte integrante.
+
+Ministério da Agricultura, do Desenvolvimento Rural e das Pescas.
+
+**Assinada em 31 de Julho de 1998.**
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, Secretário do Estado da Agricultura e do Desenvolvimento Rural.
+
+[(ver planta no documento original)](https://files.diariodarepublica.pt/1s/1998/08/191b00/41864186.pdf)

@@ -1,0 +1,229 @@
+---
+schema_version: '1.0'
+id: pt:dre:574475:por
+title: Portaria n.º 454/81
+short_title: null
+summary: Fixa os critérios e normas regulamentadoras das eleições para directores de escolas normais de educadores de infância
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 454/81
+official_date: null
+publication_date: '1981-06-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/1981, Série I de 1981-06-03
+  number: '127'
+  series: I
+  supplement: null
+  pages: 1268 - 1269
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/06/12700/12681269.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '574475'
+  dre_path: /dr/detalhe/portaria/454-1981-574475
+  internal: pt:dre:574475:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/454-1981-574475
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/454-1981-574475
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-06-03T00:00:00Z'
+integrity:
+  source_sha256: c25f43bbde7c9b6ae87b193da0d387092ceafbdd2d77dfc49349469e061a85b8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-454-574475.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 454/81
+
+de 3 de Junho
+
+Tendo sido aprovado pelo [Decreto-Lei n.º 519-R2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-r2-1979-156833), de 29 de Dezembro, o Estatuto das Escolas Normais de Educadores de Infância, que vigorará até à integração das escolas normais de educadores de infância nas escolas superiores de educação;
+
+Prevendo o artigo 43.º daquele Estatuto a publicação, em portaria do Ministério da Educação, dos critérios e normas regulamentadoras das eleições previstas no mesmo diploma, depois de ouvidos os sindicatos dos professores.
+
+Em conformidade.
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência, o seguinte:
+
+1.º As eleições para directores de escolas normais de educadores de infância, a que se refere o artigo 34.º do Estatuto aprovado pelo [Decreto-Lei n.º 519-R2/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/519-r2-1979-156833), de 29 de Dezembro, serão realizadas de 15 de Maio a 15 de Junho.
+
+2.º As eleições referidas no número anterior serão realizadas em assembleia eleitoral convocada pelo director ou quem as suas vezes fizer e se encontrar em exercício.
+
+3.º As convocatórias para a assembleia referida no número anterior serão afixadas nos lugares habituais com uma antecedência mínima de sete dias.
+
+4.º As mesmas convocatórias mencionarão entre outros elementos considerados úteis:
+
+a) Normas práticas do processo eleitoral;
+
+b) Local de afixação das listas concorrentes;
+
+c) Local e hora de funcionamento da assembleia eleitoral.
+
+5.º Das listas de candidatura constarão obrigatoriamente os seguintes elementos:
+
+a) Nome do candidato, categoria e situação na escola;
+
+b) Declaração de se encontrar a exercer funções docentes a tempo inteiro;
+
+c) Habilitações académicas e respectivo grau de classificação;
+
+d) Disciplina em que desenvolve a sua acção;
+
+e) Tempo de serviço docente anteriormente prestado;
+
+f) Rubrica do candidato como prova de assentimento;
+
+g) Data da elaboração da lista e assinatura dos proponentes.
+
+6.º As listas de candidatura serão obrigatoriamente subscritas por um mínimo de cinco professores.
+
+7.º As listas de candidaturas às eleições serão entregues ao director do estabelecimento de ensino ou quem as suas vezes fizer até quarenta e oito horas antes da hora fixada para a abertura da assembleia eleitoral, o qual conferirá a sua legalidade, as rubricará e mandará afixar nos locais mencionados na convocatória da assembleia eleitoral.
+
+8.º Cada lista candidata à eleição poderá indicar um representante para acompanhar todos os actos relativos à eleição.
+
+9.º No caso de as listas de candidatura apresentadas não serem aceites, por não satisfazerem as condições legais, proceder-se-á de acordo com o disposto no n.º 24.º da presente portaria.
+
+Da mesa da assembleia eleitoral
+
+10.º A assembleia eleitoral será presidida por uma mesa constituída por um presidente e dois secretários, eleitos individualmente.
+
+11.º A eleição a que se refere o número anterior será realizada previamente nas quarenta e oito horas imediatamente anteriores à abertura da assembleia eleitoral de entre e pelos professores em exercício, que para o efeito reunirão.
+
+12.º A composição da mesa eleitoral será tornada pública por edital afixado à porta do local onde se realizará a eleição.
+
+13.º O director-geral de pessoal poderá designar um delegado seu para acompanhar o processo eleitoral, o qual assumirá a presidência da respectiva assembleia.
+
+Do funcionamento da assembleia eleitoral
+
+14.º No dia marcado para a eleição, pelo menos uma hora antes do início do funcionamento da respectiva assembleia eleitoral, o chefe dos serviços administrativos do estabelecimento de ensino ou quem as suas vezes fizer entregará ao presidente da mesa eleitoral:
+
+a) O caderno ou relação nominal dos eleitores;
+
+b) Os boletins de voto;
+
+c) A urna onde irão ser depositados os votos;
+
+d) Impressos e papel necessário à elaboração da acta da assembleia, bem como quaisquer outros documentos considerados úteis.
+
+15.º À hora marcada para o início da assembleia eleitoral, o presidente da mesa verificará a urna perante os restantes elementos da mesa e os eleitores presentes e declarará aberto o escrutínio.
+
+16.º A urna manter-se-á aberta durante quatro horas, menos que antes tenham votado todos os eleitores.
+
+17.º Findo o período a que se refere o número anterior, o presidente da mesa dará por encerrada a votação e, conjuntamente com os secretários, iniciará a contagem de votos entrados na urna e o apuramento dos votos obtidos por cada candidato.
+
+18.º Terminado o apuramento de votos, o resultado será expresso em edital, que se afixará no local determinado na convocatória para a assembleia eleitoral, considerando-se esta encerrada desde a aludida afixação.
+
+19.º No edital com os resultados será anotada a hora de encerramento da assembleia eleitoral.
+
+Das actas da assembleia
+
+20.º De todos os actos praticados ou ocorrências havidas será lavrada acta pelos secretários, a qual, depois de aprovada, será assinada pelos componentes da mesa e pelos representantes das listas que desejarem fazê-lo.
+
+21.º A acta a que se refere o número anterior, bem como outros documentos que existam sobre a eleição, serão entregues de imediato ao director da escola, ou quem as suas vezes fizer, pelo presidente da mesa eleitoral.
+
+Candidato eleito
+
+22.º Considera-se eleito o candidato que tenha obtido mais de 50% dos votos entrados nas urnas e a eleição só será válida se tiverem votado, pelo menos, 60% dos eleitores.
+
+23.º Quando não tiverem sido atingidas aquelas percentagens, repetir-se-á a eleição dentro dos dois dias úteis seguintes ao do encerramento da assembleia eleitoral.
+
+24.º Quando no segundo escrutínio não tiverem sido atingidas aquelas percentagens ou a eleição não for homologada, a escola, ouvido o pessoal docente, reunido para o efeito e indicará à Direcção-Geral do Ensino Básico o nome de três docentes elegíveis, um dos quais, o proposto pela Direcção-Geral do Ensino Básico, será designado director pela Direcção-Geral de Pessoal, tendo em consideração os seguintes parâmetros:
+
+a) Número de votos obtidos por cada um dos professores indicados pelo respectivo estabelecimento de ensino;
+
+b) Sua categoria e classificação profissional;
+
+c) Sua experiência no domínio pedagógico e da gestão escolar.
+
+25.º De acordo com o n.º 3 do artigo 34.º do Estatuto, os directores permanecerão em exercício de funções durante dois anos, qualquer que seja a sua situação.
+
+Das reclamações
+
+26.º Até quarenta e oito horas contadas a partir do encerramento da assembleia eleitoral poderão ser formuladas reclamações sobre o curso do respectivo processo.
+
+27.º As reclamações a que se referem o número anterior serão entregues ao presidente da mesa da assembleia eleitoral, que as informará e entregará ao director da escola ou a quem suas vezes fizer, com o pedido de que sejam apensas ao processo eleitoral e com ele apreciadas.
+
+Do processo eleitoral
+
+28.º De cada eleição será formado um processo eleitoral, de onde constarão dois exemplares de cada um dos seguintes documentos:
+
+a) Convocatória da eleição;
+
+b) Acta da eleição da mesa da assembleia eleitoral;
+
+c) Listas de candidaturas às eleições;
+
+d) Acta da assembleia eleitoral;
+
+e) Edital com os resultados da eleição e hora de encerramento da assembleia eleitoral;
+
+f) Reclamações ou impugnações que porventura surjam ao processo eleitoral;
+
+g) Informações sobre as reclamações ou impugnações a que se refere a alínea anterior.
+
+29.º Do processo eleitoral será enviado um exemplar à Direcção-Geral do Ensino Básico e outro à Direcção-Geral de Pessoal, no prazo de cinco dias úteis contados a partir da data do encerramento da assembleia eleitoral.
+
+30.º A Direcção-Geral do Ensino Básico emitirá parecer sobre o candidato eleito e remetê-lo-á à Direcção-Geral de Pessoal.
+
+Da homologação
+
+31.º Compete ao director-geral de Pessoal verificar a validade das eleições e proceder à respectiva homologação.
+
+Da posse e transmissão de poderes
+
+32.º O director tomará posse na primeira quinzena de Setembro. Depois desta data, a posse deverá realizar-se no prazo máximo de sete dias após a data da recepção da comunicação do despacho de homologação ou designação a que se referem os números anteriores.
+
+33.º A posse será efectuada em reunião de transmissão de poderes, convocada, pelo menos, com quarenta e oito horas de antecedência pelo director cessante ou por quem suas vezes fizer.
+
+34.º Da reunião mencionada no número anterior será lavrada em livro próprio acta, da qual devem constar, além de outros elementos referentes à vida da escola, um resumo da forma como decorreu o mandato cessante, uma descrição da situação financeira, com apresentação do respectivo termo de balanço, devendo ainda referir-se se foram cumpridas as regras da contabilidade pública, se todos os livros se encontravam devidamente escriturados e se o inventário dos bens existentes foi conferido.
+
+35.º Cópia ou fotocópia da referida acta será enviada no prazo de cinco dias à Direcção-Geral do Ensino Básico, à Direcção-Geral de Pessoal, à Direcção-Geral do Equipamento Escolar e ao Instituto de Acção Social Escolar.
+
+Ministério da Educação e Ciência, 25 de Maio de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.

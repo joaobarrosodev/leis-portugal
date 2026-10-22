@@ -1,0 +1,177 @@
+---
+schema_version: '1.0'
+id: pt:dre:421474:por
+title: Decreto-Lei n.º 209/87
+short_title: null
+summary: Prorroga o regime de instalação do Centro Nacional de Pensões e aprova um quadro provisório de pessoal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Trabalho e Segurança Social
+proposing_entity: null
+official_number: 209/87
+official_date: null
+publication_date: '1987-05-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/1987, Série I de 1987-05-19
+  number: '114'
+  series: I
+  supplement: null
+  pages: 2018 - 2024
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '421474'
+  dre_path: /dr/detalhe/decreto-lei/209-1987-421474
+  internal: pt:dre:421474:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1987-421474
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/209-1987-421474
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: 42026187bcd6b3c99baa17ca748e371baf63845c196ec1c19fe8e81c39258230
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-209-421474.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 209/87
+
+de 19 de Maio
+
+O Centro Nacional de Pensões (CNP) foi criado pelo [Decreto Regulamentar n.º 2/81](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/2-1981-390381), de 15 de Janeiro, no seguimento da profunda reestruturação do sector da segurança social, prevista no [Decreto-Lei n.º 549/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/549-1977-276602), de 31 de Dezembro, e concretizada através de sucessivas medidas legislativas, das quais se destacam as que implementaram o funcionamento dos centros regionais de segurança social.
+
+Nele foi integrada a Caixa Nacional de Pensões, instituição da primeira categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, que já desde há longos anos vinha assegurando a prestação dos benefícios diferidos.
+
+Com a publicação da Lei de Bases da Segurança Social - [Lei n.º 28/84](https://diariodarepublica.pt/dr/detalhe/lei/28-1984-382393), de 14 de Agosto -, um novo e muito importante capítulo foi aberto neste sector, designadamente no que à sua estrutura concerne.
+
+De acordo com o n.º 1 do artigo 57.º deste diploma, o CNP foi considerado uma instituição de segurança social de nível nacional, determinando-se, no n.º 2 do mesmo preceito, que as atribuições, competências e organização interna das instituições desta natureza fossem definidas em lei posterior.
+
+Este condicionalismo implicará necessariamente a introdução de profundas alterações, as quais poderiam ser desde já implementadas no âmbito do CNP, numa óptica de regulamentação da aludida lei de bases. Tal solução afigura-se, porém, menos correcta do que a que sustenta dever essa regulamentação fazer-se a nível global, e não mediante modificações pontuais.
+
+Assim, haverá apenas que dar os primeiros passos num caminho que será certamente longo e moroso.
+
+Até ao presente, o CNP tem sido o instituto público competente para não só organizar como igualmente processar todos os benefícios diferidos concedidos pelo sistema de segurança social português.
+
+Tendo presentes as linhas de força próprias da Lei de Bases da Segurança Social, que vão no sentido de consolidar e desenvolver um processo de descentralização, já anteriormente iniciado com a criação e o funcionamento dos centros regionais de segurança social, torna-se, agora, aconselhável alargar tal perspectiva à área dos benefícios diferidos.
+
+As medidas que se irão tomar comprovarão certamente o que a experiência tem vindo a demonstrar como sendo mais vantajoso e eficaz: colocar mais próximo dos utentes os organismos responsáveis pela organização e processamento das prestações.
+
+Nesse sentido, vai iniciar-se em alguns centros regionais de segurança social o processo experimental de descentralização do processamento de pensões do regime geral, até agora a cargo do CNP.
+
+À medida que esta fase experimental o permita, o mesmo processo de descentralização irá sendo gradualmente alargado a outros centros regionais de segurança social.
+
+O CNP continuará, todavia, a ser a instituição responsável pela organização e processamento das prestações diferidas dos regimes especiais, mantendo igualmente as suas atribuições relativas aos fundos de pensões. Uma nova e importante finalidade ser-lhe-á, ainda, cometida, traduzindo-se na prestação de apoio técnico-normativo nesta área, em termos genéricos, ou seja, relativamente aos benefícios diferidos de todos os regimes.
+
+Esta medida assenta fundamentalmente no reconhecimento da larga experiência que o organismo em causa tem vindo a acumular, o que lhe confere a característica de entidade mais adequada ao cabal desempenho de tal actividade.
+
+O circunstancionalismo descrito, aliado à morosidade do processo de regulamentação, bem como à necessidade de garantir a continuidade do funcionamento do CNP, contribuiu para que o Governo entendesse necessário tomar duas medidas.
+
+A primeira consiste na manutenção do regime de instalação do CNP enquanto não estiverem consolidadas as experiências que se irão encetar e elaborada, em termos globais, a regulamentação da Lei de Bases da Segurança Social.
+
+A segunda medida deriva do empenho em garantir a estabilidade de emprego de quantos exercem a sua actividade naquele organismo, bem como em lhes assegurar a concretização do direito a uma normal progressão na carreira.
+
+Por estes motivos, não obstante a manutenção do CNP em regime de instalação, prevê-se desde já a aprovação de um quadro provisório, bem como de uma série de regras mínimas indispensáveis ao provimento dos respectivos lugares.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º É prorrogado o regime de instalação do Centro Nacional de Pensões (CNP) até 31 de Dezembro de 1988.
+
+###### Art. 2.º É aprovado o quadro provisório constante do anexo a este diploma, que dele faz parte integrante.
+
+###### Art. 3.º - 1 - O preenchimento dos lugares do quadro referido no artigo anterior será feito, com dispensa de quaisquer formalidades, salvo anotação pelo Tribunal de Contas e publicação no Diário da República, por despacho ministerial, de entre o pessoal do CNP ou que nele preste serviço a qualquer título.
+
+2 - Nos casos em que tenham ocorrido alterações de categoria após o início do regime de instalação, os provimentos podem fazer-se nas actuais categorias, desde que tenha sido observado o requisito das habilitações literárias legais.
+
+###### Art. 4.º - 1 - O provimento dos lugares do quadro aprovado por este diploma far-se-á a título definitivo e de acordo com as normas em vigor na função pública.
+
+2 - Ao provimento dos lugares de chefe de repartição, chefe de secção e encarregado de serviços gráficos, bem como ao das categorias das carreiras de microfilmagem, será aplicado, respectivamente, o disposto nos artigos 25.º, 26.º, 27.º, 28.º e 29.º do [Decreto-Lei n.º 136/83](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1983-310423), de 21 de Março.
+
+Visto e aprovado em Conselho de Ministros de 12 de Fevereiro de 1987. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - Luís Fernando Mira Amaral.
+
+**Promulgado em 29 de Abril de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 6 de Maio de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+## ANEXO — Quadro provisório do Centro Nacional de Pensões
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+
+Pessoal abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+
+Pessoal afecto ao Instituto de Gestão Financeira da Segurança Social
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+
+Pessoal afecto Instituto de Gestão Financeira da Segurança Social abrangido pela [Portaria n.º 193/79](https://diariodarepublica.pt/dr/detalhe/portaria/193-1979-382621), de 21 de Abril
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf))](https://files.diariodarepublica.pt/1s/1987/05/11400/20182024.pdf)
+
+Conteúdo funcional da categoria de desenhador de construção civil
+
+Compete, fundamentalmente, aos desenhadores de construção civil:
+
+a) Executar, a partir de elementos que lhes sejam fornecidos ou por eles recolhidos, segundo orientações técnicas superiores, as peças desenhadas e escritas até ao pormenor necessário para a sua ordenação e execução da obra, utilizando conhecimentos de materiais, de processos de execução e das práticas de construção;
+
+b) Efectuar cálculos complementares requeridos pela natureza do projecto;
+
+c) Consultar o responsável pelo projecto acerca das modificações que julgarem necessárias ou convenientes.

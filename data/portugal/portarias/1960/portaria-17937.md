@@ -1,0 +1,94 @@
+---
+schema_version: '1.0'
+id: pt:dre:515181:por
+title: Portaria n.º 17937
+short_title: null
+summary: Altera o período da caça à perdiz na próxima época venatória nos concelhos de Lousada e Oliveira de Frades
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Economia - Secretaria de Estado da Agricultura - Direcção-Geral dos Serviços Florestais e Aquícolas - Melhoramentos
+  Florestais
+proposing_entity: null
+official_number: '17937'
+official_date: null
+publication_date: '1960-09-10'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 211/1960, Série I de 1960-09-10
+  number: '211'
+  series: I
+  supplement: null
+  pages: 1946 - 1946
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/09/21100/19461946.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '515181'
+  dre_path: /dr/detalhe/portaria/17937-1960-515181
+  internal: pt:dre:515181:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/17937-1960-515181
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/17937-1960-515181
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-09-10T00:00:00Z'
+integrity:
+  source_sha256: 8f22129c84c7dba6776616ac6892e954d70f7da86de9383a886885cbdb684766
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-17937-515181.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 17937
+
+Atendendo ao que foi proposto pelas Comissões Venatórias Regionais do Norte e Centro, nos termos do n.º 11 acrescentado ao artigo 55.º do [Decreto n.º 23461](https://diariodarepublica.pt/dr/detalhe/decreto/23461-1934-675390), de 17 de Janeiro de 1934, pelo [Decreto n.º 24441](https://diariodarepublica.pt/dr/detalhe/decreto/24441-1934-445169), de 30 de Agosto do mesmo ano:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado da Agricultura, que o período de caça à perdiz na próxima época venatória sofra as alterações abaixo designadas nos seguintes concelhos:
+
+Lousada - abertura retardada para o dia 1 de Dezembro.
+
+Oliveira de Frades - abertura retardada para 15 de Outubro.
+
+Ministério da Economia, 10 de Setembro de 1960. - O Secretário de Estado da Agricultura, Luís Quartin Graça.

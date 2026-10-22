@@ -1,0 +1,916 @@
+---
+schema_version: '1.0'
+id: pt:dre:485058:por
+title: Decreto-Lei n.º 190/98
+short_title: null
+summary: Aprova o Regulamento do Serviço Radioeléctrico das Embarcações
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Equipamento, do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 190/98
+official_date: null
+publication_date: '1998-07-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 157/1998, Série I-A de 1998-07-10
+  number: '157'
+  series: I
+  supplement: null
+  pages: 3141 - 3151
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/07/157a00/31413151.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2007-04-26'
+version_history:
+  file: decreto-lei-190-98.versoes.json
+  count: 3
+  source_lastmod: '2025-07-24'
+  versions:
+  - date: '1998-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1998-08-31'
+    amending: pt:dre:574715:por
+    amending_title: Declaração de Rectificação n.º 13-H/98
+    changes:
+    - Retifica Artigo 5.º
+    - Retifica Artigo 9.º
+    - Retifica Artigo 13.º
+    - Retifica Artigo 14.º
+  - date: '2007-04-26'
+    amending: pt:dre:520263:por
+    amending_title: Decreto-Lei n.º 73/2007
+    changes:
+    - Adita Anexo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 31.º
+    - Altera Artigo 38.º
+    - Altera Artigo 39.º
+    - Altera Artigo 40.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 47.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 52.º
+    - Altera Artigo 53.º
+    - Altera Artigo 54.º
+    - Altera Artigo 55.º
+    - Altera Artigo 56.º
+    - Revoga Capítulo II
+    - Revoga Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 41.º
+    - Revoga Artigo 42.º
+    - Revoga Artigo 45.º
+    - Revoga Anexo I
+    - Revoga Anexo II
+    - Revoga Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/190/1998/p/cons/20070327/pt/html
+  oj: null
+  dre: '485058'
+  dre_path: /dr/detalhe/decreto-lei/190-1998-485058
+  internal: pt:dre:485058:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/190-1998-485058
+  metadata_url: https://data.dre.pt/eli/dec-lei/190/1998/p/cons/20070327/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-116990628
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-116990628
+  retrieved_at: '2026-10-22T13:32:24Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-07-24T00:00:00Z'
+integrity:
+  source_sha256: f88d9c724ee574f53ea24287c7e1c490185ee253f9c6c5654e6756a5708dd7a9
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:32:24Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-190-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Embarcação
+- Sistema de Autoridade Marítima
+- Multa
+- Radiocomunicações
+- Contra-ordenação
+- Controlo de Qualidade
+- Definição de Competências
+- Equipamento Eléctrico
+- Instalações Radioelétricas
+- Fiscalização
+- Licenciamento
+- Regulamento
+- Regulamento do Serviço Radioeléctrico das Embarcações
+- Segurança Marítima
+relationships:
+- type: amended_by
+  target: pt:dre:574715:por
+  label: Retifica Artigo 5.º; Retifica Artigo 9.º; Retifica Artigo 13.º; Retifica Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-h-1998-574715
+  date: '1998-08-31'
+- type: amended_by
+  target: pt:dre:520263:por
+  label: Adita Anexo; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 13.º; Altera
+    Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 31.º; Altera Artigo 38.º; Altera
+    Artigo 39.º; Altera Artigo 40.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo 47.º; Altera Artigo 49.º; Altera
+    Artigo 50.º; Altera Artigo 51.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263
+  date: '2007-03-27'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/122/1991/03/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/122/1991/03/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/144/1995/06/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/144/1995/06/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+article_structure:
+  article_count: 61
+  section_count: 12
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:32:24Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 190/98
+
+Decreto-Lei n.º 190/98
+
+de 10 de Julho
+
+O Regulamento do Serviço Radioeléctrico das Embarcações (RSRE) foi aprovado pelo Decreto n.º 45267, de 24 de Setembro de 1963.
+
+A distância da sua aprovação, no tempo, deixa desde logo a descoberto tanto as múltiplas alterações que entretanto lhe foram sendo introduzidas como a dispersão dos diplomas que foram possibilitando a sua actualização e modernização.
+
+Por outro lado, é de fácil registo o desenvolvimento tecnológico alcançado no sector das comunicações, aí se incluindo os sistemas de radiocomunicações das embarcações, sempre com o objectivo de diminuir os sinistros de mar, em benefício da segurança da navegação e das pessoas embarcadas e da operacionalidade das embarcações.
+
+O regulamento agora aprovado, tendo como objectivo dar resposta aos problemas que se deixaram evidenciados, suporta-se, em termos de moldura legal, num dispositivo jurídico sistematizador de todos os processos e procedimentos respeitantes ou relacionados com equipamentos radioeléctricos de embarcações.
+
+De facto, o novo regulamento prevê regras relativas à aprovação e à certificação dos equipamentos radioeléctricos e outras respeitantes aos processos de instalação, de alteração, de operação e de licenciamento dos equipamentos em questão.
+
+Por outro lado, nele se deixam enunciadas normas de competência a observar pelas entidades a quem é cometida a respectiva execução, adequadas e direccionadas por forma a poder-se responder com rapidez e eficiência às múltiplas solicitações dos armadores nacionais.
+
+Finalmente, importa referir que para além de se fixarem condições que permitem à Administração cobrar receitas relativamente a serviços prestados na execução do regulamento, neste se prevê também um sistema contra-ordenacional equilibrado e sobretudo adequado à diversa natureza dos eventuais incumpridores.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovado o Regulamento do Serviço Radioeléctrico das Embarcações, anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 2.º — Cobrança de taxas
+
+Pelos serviços prestados relativos às vistorias, emissão de licenças e aprovação de equipamentos são devidas taxas, que constituirão receita própria da Direcção-Geral de Portos, Navegação e Transportes Marítimos e cujo montante será fixado por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.
+
+###### Artigo 3.º — Validade dos certificados e das licenças já emitidos
+
+A aplicação do Regulamento aprovado não prejudicará a validade dos certificados de aprovação do equipamento radioeléctrico e das licenças de estação de embarcações emitidas ao abrigo da legislação anterior.
+
+###### Artigo 4.º — Norma revogatória
+
+1 - São revogados o Decreto n.º 45267, de 24 de Setembro de 1963, que aprovou o Regulamento do Serviço Radioeléctrico das Embarcações, e ainda os Decretos n.os 46420, de 5 de Julho de 1965, 48869, de 18 de Fevereiro de 1969, e 218/71, de 24 de Maio, os Decretos-Leis n.os 122/91, de 21 de Março, e 144/95, de 14 de Junho, o artigo 135.º do Decreto-Lei n.º 265/72, de 31 de Julho, e as Portarias n.os 1237/95, de 12 de Outubro, e 24057, de 3 de Maio de 1969.
+
+2 - Mantêm-se em vigor as Portaria n.os 1164/95, de 22 de Setembro, e n.º 1364/95, de 18 de Novembro.
+
+3 - Consideram-se feitas ao Regulamento aprovado as referências que nos diplomas mantidos em vigor diziam respeito ao anterior Regulamento.
+
+###### Artigo 5.º — Entrada em vigor
+
+O presente diploma entra em vigor 30 dias após a data da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de Fevereiro de 1998. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho.
+
+Promulgado em 22 de Maio de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 5 de Junho de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo — Regulamento do Serviço Radioeléctrico das Embarcações
+
+### Capítulo I — Generalidades
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento tem por objecto fixar as regras respeitantes aos processos de instalação, de licenciamento e de utilização do equipamento radioeléctrico das embarcações.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente Regulamento, entende-se por:
+
+a) «Convenção» a Convenção Internacional para a Salvaguarda da Vida Humana no Mar e Emendas, em vigor no ordenamento jurídico português;
+
+b) «Regulamento das Radiocomunicações» o Regulamento das Radiocomunicações previsto no artigo 4.º da Constituição da União Internacional das Telecomunicações;
+
+c) «Estação» um ou vários emissores ou receptores, ou um conjunto de emissores e receptores, incluindo os acessórios necessários para assegurar, num dado local, um serviço de radiocomunicação;
+
+d) «Estação móvel» a estação do serviço móvel destinada a ser utilizada em movimento ou durante paragens em pontos não determinados;
+
+e) «Estação terrestre» a estação do serviço móvel não destinada a ser utilizada em movimento;
+
+f) «Estação costeira» a estação terrestre do serviço móvel marítimo;
+
+g) «Estação terrena costeira» a estação terrena do serviço fixo por satélite ou, em certos casos, do serviço móvel marítimo por satélite, situada num ponto determinado do solo e destinada a assegurar a ligação do serviço móvel marítimo por satélite;
+
+h) «Estação de embarcação» a estação móvel do serviço móvel marítimo colocada a bordo de uma embarcação não permanentemente amarrada e distinta de uma estação de embarcação de sobrevivência;
+
+i) «Estação terrena de embarcação» a estação terrena móvel do serviço móvel marítimo por satélite a bordo de uma embarcação;
+
+j) «Estação de comunicações de bordo» a estação móvel de fraca potência do serviço móvel marítimo destinada às comunicações internas a bordo, às comunicações com as embarcações de sobrevivência, no decurso de exercícios ou de operações de salvamento, às comunicações no seio de um grupo de embarcações rebocadas ou impelidas e às comunicações de instruções relativas à manobra dos cabos e à amarração;
+
+k) «Estação de embarcação de sobrevivência» a estação móvel do serviço móvel marítimo destinada unicamente a permitir o socorro dos náufragos e colocada numa embarcação de sobrevivência ou em qualquer outro equipamento de salvamento;
+
+l) «Estação de radiocomunicações de embarcação» a estação colocada a bordo de uma embarcação, que poderá ser uma estação de embarcação, uma estação terrena de embarcação, uma estação de comunicações de bordo ou uma estação de embarcação de sobrevivência ou ainda um conjunto de algumas destas estações;
+
+m) «Serviço móvel» o serviço de radiocomunicações entre estações móveis e terrestres ou entre estações móveis;
+
+n) «Serviço móvel marítimo» o serviço móvel entre estações costeiras e estações de embarcações, ou entre estações de embarcações ou entre estações de comunicações de bordo associadas, podendo igualmente participar neste serviço as estações de embarcações de sobrevivência e as estações de radiobaliza de localização de sinistros;
+
+o) «Serviço móvel marítimo por satélite» o serviço móvel por satélite no qual as estações terrenas móveis estão situadas a bordo de embarcações, podendo igualmente participar neste serviço as estações de embarcações de sobrevivência e as estações de radiobaliza de localização de sinistros;
+
+p) «Equipamento radioeléctrico de uma embarcação» o conjunto dos equipamentos electrónicos, excluindo os equipamentos meramente receptores, que constitui a estação de radiocomunicações de embarcação e o equipamento de navegação de uma embarcação;
+
+q) «Equipamento de navegação» o equipamento electrónico utilizado a bordo como ajuda à navegação e que contribui para a condução da mesma;
+
+r) «Embarcação ou navio» o engenho ou aparelho aquático utilizado ou susceptível de ser utilizado como meio de transporte na água, incluindo plataformas flutuantes e submersíveis;
+
+s) «Armador» o proprietário, o afretador ou o responsável pela gestão técnica, náutica e comercial de uma embarcação;
+
+t) «Arqueação» a arqueação bruta de uma embarcação, determinada em conformidade com as disposições da Convenção Internacional sobre Arqueação dos Navios, de 1969, para as embarcações a ela sujeitas, ou com as disposições dos diplomas nacionais em vigor;
+
+u) «Número de identidade do serviço móvel marítimo» (maritime mobile service identity), abreviadamente designado por MMSI, a identidade numérica formada por uma série de nove dígitos, de acordo com regras estabelecidas no Regulamento das Radiocomunicações, que é incluída na transmissão rádio para identificação inequívoca das estações de navio;
+
+v) «Correspondência pública» qualquer radiocomunicação que as estações devem aceitar para transmissão, pelo facto de estarem à disposição do público.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 3.º — Âmbito de aplicação
+
+O presente diploma aplica-se:
+
+a) Às embarcações nacionais, com exclusão das embarcações ao serviço das Forças Armadas ou das forças de segurança;
+
+b) Às embarcações estrangeiras, no que respeita à utilização do equipamento radioeléctrico, em águas sob jurisdição nacional, de acordo com o disposto no Regulamento das Radiocomunicações.
+
+###### Artigo 4.º — Equipamento radioeléctrico obrigatório
+
+1 - As embarcações nacionais devem possuir a bordo o equipamento radioeléctrico previsto na Convenção e nos regulamentos nacionais aplicáveis à segurança das embarcações.
+
+2 - Por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território, será fixado o equipamento radioeléctrico para as embarcações nacionais não abrangidas pela Convenção ou pelos regulamentos nacionais aplicáveis à segurança das embarcações e estabelecido o regime de transição a aplicar aos equipamentos radioeléctricos instalados a bordo ao abrigo da legislação anterior.
+
+###### Artigo 5.º — Equipamento radioeléctrico facultativo
+
+1 - Para além do equipamento radioeléctrico obrigatório, as embarcações também podem dispor de equipamento de radiocomunicações que utilize as faixas de frequências do serviço móvel marítimo e do serviço móvel por satélite e de equipamento de navegação que trabalhe em faixas de radiodeterminação, de radionavegação e de radiolocalização.
+
+2 - A bordo das embarcações é ainda permitida a utilização de equipamento portátil do serviço móvel que não seja marítimo, se autorizada pelo comandante ou mestre da embarcação e se não interferir com o funcionamento dos outros equipamentos radioeléctricos.
+
+3 - Nas embarcações podem ainda ser instalados, para fins específicos, nomeadamente experiências científicas, de exploração de novas funcionalidades de comunicações, ou de radiodeterminação, equipamentos trabalhando em serviços distintos do serviço móvel marítimo e do serviço móvel marítimo por satélite.
+
+4 - O Instituto Portuário e dos Transportes Marítimos (IPTM) deve emitir circular informativa das condições de utilização e licenciamento a bordo das embarcações para o equipamento referido no número anterior, após parecer das entidades competentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+> Retificado pelo/a [Declaração de Rectificação n.º 13-H/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-h-1998-574715), em vigor a partir de 1998-08-31
+
+###### Artigo 6.º — Equipamento radioeléctrico para certas áreas de navegação
+
+1 - As embarcações que exerçam actividade em certas áreas de navegação podem ser obrigadas a instalar, temporária ou permanentemente, equipamento radioeléctrico adequado à sua segurança e à da navegação nessas áreas.
+
+2 - A regulamentação da instalação de equipamento radioeléctrico prevista no número anterior será efectuada através da publicação de circular informativa do IPTM.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 7.º — Operação do equipamento radioeléctrico
+
+1 - O equipamento radioeléctrico das embarcações só pode ser operado por pessoas devidamente habilitadas e depois de ter sido emitida a licença de estação de embarcação pelo IPTM.
+
+2 - Nas comunicações estabelecidas entre uma estação de radiocomunicações de embarcação e outras estações devem ser observadas as regras previstas nos regulamentos que disciplinam a utilização do espectro radioeléctrico pelas estações de radiocomunicações do serviço móvel marítimo e do serviço móvel marítimo por satélite.
+
+### Capítulo II — Aprovação e certificação dos equipamentos radioeléctricos
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 8.º — Competência para aprovar e certificar equipamentos
+
+O equipamento radioeléctrico só pode ser instalado ou colocado a bordo das embarcações depois de devidamente aprovado e certificado pela DGPNTM, nos termos dos artigos seguintes.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 9.º — Processo de aprovação
+
+1 - O equipamento radioeléctrico das embarcações é aprovado pela DGPNTM, através da apreciação dos respectivos manuais e de ensaios laboratoriais ou mediante outros meios experimentais destinados a confirmar se o equipamento satisfaz as respectivas especificações técnicas.
+
+2 - No processo de aprovação do equipamento radioeléctrico são tidas em conta as normas e as especificações seguintes:
+
+a) Normas portuguesas publicadas pelo Instituto Português da Qualidade (IPQ);
+
+b) Normas de carácter obrigatório com origem no direito comunitário;
+
+c) Especificações técnicas estabelecidas pela Organização Marítima Internacional (IMO) e pela União Internacional das Telecomunicações (UIT);
+
+d) Normas emanadas do Instituto Europeu de Normalização das Telecomunicações (ETSI), da Comissão Electrotécnica Internacional (CEI) e da Organização Internacional de Normalização (ISO);
+
+e) Especificações técnicas elaboradas pela DGPNTM.
+
+3 - Para efeitos do processo de aprovação é ainda exigido que as inscrições ou os lembretes do equipamento radioeléctrico sejam escritos em português, espanhol, francês ou inglês.
+
+4 - No que se refere ao equipamento radioeléctrico para uso em embarcações de sobrevivência, as instruções de utilização devem ser escritas em português ou na língua comum usada a bordo em caso de aprovação individual.
+
+5 - A DGPNTM publicará, por aviso, na 3.ª série do Diário da República as referências às normas e especificações utilizadas na aprovação do equipamento radioeléctrico.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+> Retificado pelo/a [Declaração de Rectificação n.º 13-H/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-h-1998-574715), em vigor a partir de 1998-08-31
+
+###### Artigo 10.º — Pedido de aprovação
+
+1 - O pedido de aprovação do equipamento radioeléctrico deve ser acompanhado dos manuais completos em português, espanhol, francês ou inglês, contendo as características do equipamento, a sua descrição técnica, os esquemas electrónicos, as instruções de operação, os elementos identificativos dos diversos componentes da aparelhagem e as distâncias de segurança às agulhas magnéticas.
+
+2 - No caso de equipamentos radioeléctricos destinados a ser utilizados em embarcações de sobrevivência, o pedido de aprovação deve ainda ser acompanhado da cópia das instruções de utilização em português ou na língua comum usada a bordo, em caso de aprovação individual.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 11.º — Equipamentos dispensados de aprovação
+
+1 - Consideram-se dispensados de aprovação nacional os equipamentos radioeléctricos já certificados ao abrigo de convenções internacionais a que o Estado Português se tenha vinculado ou de legislação comunitária em vigor nos Estados membros.
+
+2 - Nas situações previstas no número anterior, os armadores devem remeter à DGPNTM:
+
+a) Documentação, emitida pelas administrações estrangeiras, comprovativa de que os equipamentos radioeléctricos foram certificados e satisfazem os requisitos operacionais das embarcações;
+
+b) Os manuais completos dos equipamentos radioeléctricos referidos nos n.os 1 e 2 do artigo anterior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 12.º — Emissão de certificados
+
+1 - Compete à DGPNTM emitir os certificados de aprovação tipo ou individual, cujo modelo consta do anexo I a este Regulamento.
+
+2 - Os certificados de aprovação tipo devem fazer menção das normas e das especificações do equipamento radioeléctrico a que respeitem e terão a validade que resultar das referidas normas e especificações.
+
+3 - Os certificados de aprovação individual são emitidos para os equipamentos radioeléctricos que satisfaçam as especificações técnicas previstas no Regulamento das Radiocomunicações.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+### Capítulo III — Instalação ou colocação a bordo, alteração e desmontagem do equipamento radioeléctrico
+
+###### Artigo 13.º — Processo de autorização
+
+1 - O equipamento radioeléctrico das embarcações pode ser instalado ou utilizado a bordo, desde que cumpra os regimes de colocação no mercado, de colocação em serviço, de avaliação de conformidade e marcação, de acordo com a seguinte legislação:
+
+a) Decreto-Lei n.º 167/99, de 18 de Maio, que estabelece as normas a aplicar aos equipamentos marítimos a fabricar ou a comercializar no território nacional ou a instalar em embarcações nacionais sujeitas a certificação de segurança, por força da Convenção; ou
+
+b) Decreto-Lei n.º 192/2000, de 18 de Agosto, que estabelece o regime de livre circulação, colocação no mercado e colocação em serviço no território nacional dos equipamentos de rádio e equipamentos terminais de telecomunicações, bem como o regime da respectiva avaliação de conformidade e marcação, no caso do equipamento radioeléctrico de embarcações não abrangidas pela Convenção.
+
+2 - Continua a poder ser utilizado a bordo das embarcações de um mesmo armador o equipamento que tenha sido instalado, ao abrigo deste Regulamento e anterior às datas a seguir mencionadas:
+
+a) 1 de Janeiro de 2001, no caso do equipamento radioeléctrico dos navios a que é aplicável o regime referido na alínea a) do número anterior; ou
+
+b) 7 de Abril de 2001, no caso do equipamento radioeléctrico a que é aplicável o regime referido na alínea b) do número anterior.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+> Retificado pelo/a [Declaração de Rectificação n.º 13-H/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-h-1998-574715), em vigor a partir de 1998-08-31
+
+###### Artigo 14.º — Aprovação dos arranjos
+
+1 - Compete ao IPTM, na fase de construção ou de modificação das embarcações, aprovar os seguintes elementos, que devem ser submetidos pelos armadores ou pelos estaleiros:
+
+a) Arranjo de antenas;
+
+b) Arranjo da montagem em projecção vertical e horizontal, das quais constem as unidades dos equipamentos radioeléctricos, fontes de alimentação, baterias, quadros e agulhas magnéticas;
+
+c) Esquema geral da instalação eléctrica das alimentações dos equipamentos a montar e do sistema de carga da bateria da fonte de energia de reserva.
+
+2 - Os elementos referidos no número anterior podem, para embarcações de comprimento entre perpendiculares inferior a 24 m, ser apresentados sob a forma de memória descritiva.
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+> Retificado pelo/a [Declaração de Rectificação n.º 13-H/98 - Diário da República n.º 200/1998, 2º Suplemento, Série I-A de 1998-08-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/13-h-1998-574715), em vigor a partir de 1998-08-31
+
+###### Artigo 15.º — Registo de radiobalizas
+
+1 - A utilização a bordo de radiobalizas de localização de sinistros por satélite está sujeita ao registo prévio no IPTM.
+
+2 - O registo é efectuado através da entrega no IPTM, pelo armador ou pelo vendedor do equipamento, de uma ficha de registo de radiobaliza, cujo modelo é elaborado e divulgado pelo IPTM.
+
+3 - As alterações aos elementos constantes da ficha de registo de radiobaliza são igualmente registadas no IPTM.
+
+4 - O cancelamento do registo de uma radiobaliza deve ser comunicado ao IPTM com informação do destino dado ao equipamento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 16.º — Equipamento radioeléctrico instalado pelo anterior armador
+
+1 - Os armadores que adquiram embarcações com equipamento radioeléctrico já instalado ou alterado, fora dos regimes estabelecidos no artigo 13.º, devem regularizar a situação relativa a esse equipamento no prazo de 30 dias contados a partir da data do registo da embarcação em seu nome.
+
+2 - Para efeitos do disposto no número anterior, ter-se-ão em conta as situações seguintes:
+
+a) Nos casos de mudança de armador de embarcações nacionais, os novos armadores podem utilizar equipamentos com instalação anterior às datas referidas no n.º 2 do artigo 13.º, desde que esse equipamento tenha sido aprovado e instalado nos termos do presente Regulamento;
+
+b) Nos casos de transferência de registo de embarcações estrangeiras para registo nacional, os novos armadores podem utilizar equipamentos com instalação anterior às datas referidas no n.º 2 do artigo 13.º, desde que esse equipamento tenha certificado de aprovação nos termos do presente Regulamento, ou que tenha sido licenciado ou autorizado por alguma das anteriores administrações de bandeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 17.º — Funcionamento do equipamento radioeléctrico
+
+1 - O equipamento radioeléctrico das embarcações deve ser mantido em condições que permitam o seu normal funcionamento.
+
+2 - O equipamento radioeléctrico obrigatório que não satisfaça as condições de normal funcionamento deve ser substituído, reparado ou selado antes de a embarcação iniciar viagem, de modo a não se prejudicar o funcionamento de outros equipamentos e a garantir-se a segurança das embarcações.
+
+3 - O equipamento radioeléctrico deficiente pode ser substituído temporariamente por equipamento equivalente, desde que devidamente aprovado.
+
+4 - O pedido de substituição temporária é requerido ao IPTM e deve indicar o tipo de avaria, o prazo previsível da reparação e as características sinaléticas do equipamento a instalar.
+
+###### Artigo 18.º — Selagem do equipamento radioeléctrico
+
+1 - O equipamento radioeléctrico instalado ou alterado fora dos regimes estabelecidos nos artigos 13.º e 16.º deve ser desactivado e selado pelos inspectores ou pelos delegados do IPTM.
+
+2 - O equipamento radioeléctrico instalado a bordo facultativamente pode ser selado, a pedido dos armadores.
+
+3 - Os selos apostos no equipamento radioeléctrico só podem ser retirados pelos inspectores e delegados do IPTM e pelos comandantes ou mestres das embarcações devidamente autorizados.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 19.º — Equipamento radioeléctrico desactualizado
+
+O equipamento radioeléctrico das embarcações que deixe de satisfazer as normas internacionais ou as especificações estabelecidas na lei nacional deve ser substituído, alterado ou desmontado, por determinação do IPTM, no prazo que for estabelecido.
+
+### Capítulo IV — Estação de radiocomunicações de embarcação
+
+###### Artigo 20.º — Estações obrigatórias a bordo
+
+As embarcações devem possuir a bordo as estações que lhes sejam impostas pela Convenção e pelos regulamentos nacionais aplicáveis à segurança das embarcações.
+
+###### Artigo 21.º — Localização da estação de embarcação e da estação terrena de embarcação
+
+A estação de embarcação e a estação terrena de embarcação devem ser instaladas:
+
+a) Em local próximo do governo da embarcação, de modo a garantir a sua máxima operacionalidade e segurança;
+
+b) Em local ventilado e protegido das temperaturas extremas, da humidade e da água salgada.
+
+###### Artigo 22.º — Protecção contra interferências
+
+1 - No local da estação de embarcação e da estação terrena de embarcação, os circuitos eléctricos, os conversores, os geradores, os motores e a restante aparelhagem eléctrica existente devem ser providos de meios que garantam uma protecção eficaz contra ruídos e contra qualquer influência nefasta para outros equipamentos ou sistemas, de modo a assegurar a compatibilidade electromagnética.
+
+2 - Nas embarcações de madeira ou de fibra de vidro deve haver uma chapa de fundo para a ligação à massa.
+
+###### Artigo 23.º — Alojamento dos operadores
+
+Nas embarcações que disponham de alojamentos, o alojamento do operador designado para operar o equipamento em situação de emergência deve situar-se o mais junto possível da estação de embarcação e da estação terrena de embarcação.
+
+###### Artigo 24.º — Alimentação principal da estação de embarcação e da estação terrena de embarcação
+
+1 - Nas embarcações que disponham de quadro eléctrico principal e de quadro eléctrico de emergência, a estação de embarcação e a estação terrena de embarcação devem ser alimentadas através de uma instalação fixa e directa, sendo automática a comutação entre as duas alimentações e proibida qualquer derivação para alimentar outros circuitos.
+
+2 - A tensão da rede eléctrica de bordo, que alimenta o equipamento radioeléctrico das embarcações, deve ser mantida dentro de 10% do seu valor nominal.
+
+3 - Na estação de embarcação e na estação terrena de embarcação instaladas em embarcações com arqueação superior a 100 ou em embarcações de pesca de comprimento entre perpendiculares igual ou superior a 24 m deve existir um voltímetro fixo que indique, a todo o momento, a tensão da rede de bordo.
+
+4 - O voltímetro fixo existente nas estações pode fazer parte integrante de um dos equipamentos.
+
+###### Artigo 25.º — Fonte de energia de reserva
+
+1 - A estação de embarcação e a estação terrena de embarcação devem ser alimentadas, em caso de falha na alimentação principal, por uma fonte de energia de reserva que satisfaça os requisitos previstos na Convenção e nos regulamentos nacionais aplicáveis à segurança das embarcações.
+
+2 - As embarcações não abrangidas pela Convenção e pelos regulamentos nacionais aplicáveis à segurança das embarcações devem dispor, no mínimo, de uma fonte de energia de reserva com capacidade para seis horas de funcionamento (em recepção, seis horas, em transmissão à potência máxima, três horas, e na posição de espera, três horas), constituída por uma bateria de acumuladores protegida contra curtos-circuitos e inversões de corrente, cujo sistema de carga seja alimentado através do quadro principal de distribuição de energia eléctrica a bordo.
+
+3 - Nas embarcações a navegar, as baterias de acumuladores devem manter-se carregadas e ser levadas diariamente à plena carga.
+
+###### Artigo 26.º — Instalação e identificação da fonte de energia de reserva
+
+1 - As baterias de acumuladores da fonte de energia de reserva, se o tipo de embarcação o permitir, devem ser instaladas na parte superior das embarcações o mais perto possível da estação de embarcação e da estação terrena de embarcação, a um nível não inferior ao do pavimento em que estas se encontrem e devidamente fixadas em caixa forrada com material anticorrosivo adequado pelo menos até à superfície superior dos elementos das baterias.
+
+2 - As caixas das baterias dos acumuladores devem ser providas de abertura na parte superior e de um sistema adequado de ventilação.
+
+3 - Se a embarcação possuir um compartimento exclusivamente reservado a baterias, o mesmo deve ser devidamente ventilado, não podendo nele ser instalada qualquer aparelhagem eléctrica de manobra e de seccionamento, quer independente, quer em quadro eléctrico, a não ser que a aparelhagem seja blindada à prova de explosão, bem visível, indicando «TSF» ou «Rádio».
+
+###### Artigo 27.º — Iluminação dos equipamentos
+
+1 - A estação de embarcação e a estação terrena de embarcação devem ser instaladas em local bem iluminado, através de um sistema fixo de iluminação, que permita a normal operação dos respectivos equipamentos e seja alimentado por uma fonte de energia de reserva, comandado por um interruptor ou por um sistema de comutação, marcados a vermelho.
+
+2 - No local da estação de embarcação e da estação terrena de embarcação deve existir um meio de iluminação portátil em situação de permanente funcionalidade.
+
+###### Artigo 28.º — Antenas
+
+1 - As antenas da estação de embarcação e da estação terrena de embarcação devem ser instaladas de modo a não prejudicar as operações de carga e de descarga da embarcação e a garantir o melhor rendimento dos equipamentos a elas ligados.
+
+2 - As embarcações de arqueação igual ou superior a 300 e com antena principal de fio instalada entre mastros devem ser equipadas com um dispositivo anti-ruptura.
+
+3 - Nas embarcações destinadas a transportar combustíveis inflamáveis ou outras cargas perigosas, as antenas de emissão devem ser colocadas de modo a não se sobreporem aos respectivos tanques.
+
+4 - Nos locais de passagem, as antenas de transmissão e as respectivas baixadas devem ter um comprimento suficiente de blindagem, de modo a garantir a segurança das pessoas embarcadas.
+
+5 - As embarcações de arqueação igual ou superior a 300, com estações de ondas hectométricas (MF) ou de ondas decamétricas (HF), devem possuir um dispositivo de comutação de fácil manobra que permita:
+
+a) Ligar o emissor principal ou outro a qualquer das antenas existentes;
+
+b) Isolar a baixada das antenas;
+
+c) Ligar a baixada das antenas à massa da embarcação.
+
+###### Artigo 29.º — Relógio
+
+Nas embarcações que efectuem viagens internacionais e nas embarcações em que o funcionamento da estação de embarcação ou da estação terrena de embarcação esteja sujeito a períodos de silêncio, deve existir no local dessas embarcações um relógio, de leitura fácil, a partir da posição normal do operador do equipamento das estações, com um diâmetro mínimo de 12,5 cm, indicando as horas, os minutos e os segundos, em tempo universal coordenado (UTC) e com os respectivos períodos de silêncio marcados a vermelho.
+
+###### Artigo 30.º — Protecção contra incêndios
+
+No local da estação de embarcação e da estação terrena de embarcação deve existir um extintor de incêndios portátil, de pó químico seco ou equivalente, em condições de normal funcionamento.
+
+###### Artigo 31.º — Identificação da estação de radiocomunicações de embarcação
+
+1 - Compete ao IPTM consignar, à estação de embarcação e à estação terrena de embarcação, o indicativo de chamada e o MMSI.
+
+2 - O indicativo de chamada e o MMSI devem ser afixados no compartimento da estação de embarcação e da estação terrena de embarcação, de forma a serem bem visíveis da posição de trabalho do operador do equipamento radioeléctrico.
+
+3 - O indicativo de chamada, afixado no local da estação de embarcação e da estação terrena de embarcação, deve ter letras e algarismos de dimensão não inferior a 2 cm de largura por 3 cm de altura.
+
+4 - No local da estação de embarcação e da estação terrena de embarcação deve haver um quadro, de leitura fácil, com o conjunto das identificações consignadas à estação pelo IPTM, aí se incluindo a identificação da estação de embarcação e da estação terrena de embarcação, os números de chamada selectiva e o código da autoridade responsável pela contabilidade das comunicações efectuadas pelas estações da embarcação.
+
+5 - Sempre que seja modificada qualquer identificação de uma estação, o armador é obrigado a efectuar as correspondentes alterações ao equipamento radioeléctrico da embarcação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 32.º — Estado sinalético das estações das embarcações
+
+O IPTM, através do Instituto das Comunicações de Portugal (ICP), manterá informada a UIT do estado sinalético de cada estação de radiocomunicações de embarcação.
+
+###### Artigo 33.º — Entidade responsável pela contabilidade
+
+1 - Por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território, serão aprovadas as condições exigíveis às empresas que pretendam obter o estatuto de entidades responsáveis pela contabilidade das estações de radiocomunicações das embarcações e definido o seu processo de inscrição no IPTM.
+
+2 - O IPTM atribuirá às entidades inscritas os respectivos códigos de identificação.
+
+3 - Os armadores das embarcações cujas estações de radiocomunicação de embarcação estejam habilitadas a comunicar com estações costeiras ou terrenas costeiras estrangeiras são obrigados a celebrar contratos de prestação de serviços com as entidades que detiverem códigos de identificação de autoridades responsáveis pela contabilidade das estações de embarcação.
+
+4 - Os operadores das estações de embarcação só podem utilizar o código de identificação de uma entidade com quem o armador da embarcação tenha celebrado contrato nos termos do número anterior.
+
+###### Artigo 34.º — Quadro com instruções de emergência
+
+1 - No local da estação de embarcação e da estação terrena de embarcação deve existir um quadro, de fácil leitura para o operador de radiocomunicações, com as instruções sumárias de procedimento e de operação do equipamento em situação de emergência.
+
+2 - Nas embarcações que disponham de equipamentos afectos ao sistema de socorro e de segurança marítima (GMDSS) deve existir um guia para a comunicação em situação de emergência, colocado próximo do local do governo da embarcação.
+
+###### Artigo 35.º — Experimentação dos equipamentos de socorro
+
+1 - Os equipamentos radioeléctricos destinados a ser utilizados em caso de emergência devem ser experimentados pelos operadores nomeados para operar o equipamento de emergência, utilizando, se possível, uma antena artificial e potência reduzida, com uma periodicidade que respeite as normas de segurança.
+
+2 - As operações previstas no número anterior devem ser escrituradas no livro de registo do serviço de radiocomunicações, quando este existir, por lei.
+
+###### Artigo 36.º — Diário de serviço de radiocomunicações
+
+1 - As embarcações com estação de embarcação e estação terrena de embarcação devem possuir a bordo o livro de registo diário do serviço de radiocomunicações (diário de serviço de radiocomunicações).
+
+2 - O disposto no presente artigo não de aplica às embarcações registadas na área local e às embarcações de arqueação inferior a 300 registadas na área de navegação costeira nacional.
+
+###### Artigo 37.º — Qualificação dos operadores
+
+1 - A estação de embarcação e a estação terrena de embarcação só podem ser operadas por pessoas habilitadas e devidamente certificadas de acordo com as normas aprovadas por portaria do Ministro do Equipamento, do Planeamento e da Administração do Território.
+
+2 - Nas embarcações que possuam a bordo mais de um operador de radiocomunicações, um deles deve ser nomeado pelo comandante ou mestre da embarcação para operar os equipamentos em situação de emergência, sendo a nomeação registada no diário de serviço de radiocomunicações.
+
+###### Artigo 38.º — Normas para operar a estação de radiocomunicações de embarcação
+
+1 - A estação de radiocomunicações de embarcação deve ser operada de acordo com:
+
+a) As disposições do Regulamento das Radiocomunicações;
+
+b) As disposições aplicáveis à utilização do espectro radioeléctrico do serviço móvel marítimo e móvel marítimo por satélite;
+
+c) As instruções do serviço radioeléctrico e as recomendações destinadas a evitar a transmissão de falsos alertas de socorro a publicar pelo IPTM.
+
+2 - Os comandantes das embarcações ou quem a bordo exerça funções correspondentes são responsáveis pelo cumprimento das normas, instruções e outras disposições legais relativas à operação da estação de radiocomunicações da embarcação.
+
+3 - Os comandantes das embarcações ou quem a bordo exerça funções correspondentes devem tomar as medidas necessárias para que os tripulantes com responsabilidade ou designados para as comunicações de socorro sejam devidamente instruídos acerca do modo de operar todo o equipamento da embarcação que possa transmitir alertas de socorro.
+
+4 - As medidas tomadas ao abrigo do número anterior devem ser registadas no diário do serviço de radiocomunicações.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 39.º — Documentos de serviço
+
+Na estação de radiocomunicações de embarcação, para além da licença de estação da embarcação, do diário de serviço de radiocomunicações e dos certificados de operador de radiocomunicações, devem existir os documentos de serviço que constam de lista a publicar pelo IPTM.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+### Capítulo V — Licenças de estação de embarcação
+
+###### Artigo 40.º — Licença de estação de embarcação e validade
+
+1 - A licença de estação de embarcação é o documento que habilita uma estação de radiocomunicações de embarcação a utilizar o espectro radioeléctrico, nas faixas de frequência nela indicadas, desde que cumpridos os requisitos estabelecidos neste Regulamento e no Regulamento das Radiocomunicações.
+
+2 - A licença de estação é emitida pelo IPTM a pedido dos armadores ou dos seus representantes legais, feito através de formulário, cujo modelo é elaborado e divulgado pelo IPTM.
+
+3 - A licença de estação de embarcação corresponde ao modelo constante do anexo do presente Regulamento, que dele faz parte integrante.
+
+4 - A licença de estação de embarcação tem a validade de cinco anos.
+
+5 - A licença de estação de embarcação deve estar disponível na estação de radiocomunicações da embarcação e integrar o conjunto dos papéis de bordo.
+
+6 - A utilização de um equipamento de radiocomunicações portátil, a bordo de um conjunto de embarcações, que não possuam outros equipamentos, implica a consignação de um único indicativo de chamada.
+
+7 - A licença de estação emitida nos termos do número anterior deve indicar o nome de todas as embarcações em que o equipamento pode ser utilizado.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 41.º — Validade da licença de estação de embarcação
+
+1 - A licença de estação de embarcação tem a seguinte validade:
+
+a) Até um ano, para as embarcações com equipamento radioeléctrico obrigatório não abrangidas pela Convenção e pelos regulamentos de segurança nacionais que incluam a certificação das instalações radioeléctricas e pelas alíneas seguintes do n.º 1 deste artigo;
+
+b) Até três anos, para as embarcações com equipamento radioeléctrico obrigatório constituído unicamente por uma instalação de radiocomunicações de ondas métricas (VHF);
+
+c) Até cinco anos, para as embarcações abrangidas pela Convenção e pelos regulamentos de segurança nacionais que incluam a certificação das instalações radioeléctricas, para as embarcações de recreio e para as embarcações com equipamento radioeléctrico facultativo;
+
+d) Por tempo ilimitado, para as embarcações que não possuam qualquer emissor de radiocomunicações fazendo parte do equipamento radioeléctrico.
+
+2 - A licença de estação de embarcação legalmente emitida por uma administração estrangeira é válida por um período máximo de 180 dias contados a partir da data do registo provisório da embarcação, devendo ser averbada na licença de estação, pela DGPNTM ou pela autoridade consular, o nome e o indicativo de chamada.
+
+3 - A licença de estação referida no número anterior perde validade quando a embarcação seja vistoriada ou dê entrada num porto nacional.
+
+4 - A requerimento do armador, devidamente fundamentado, nomeadamente para efeitos de conclusão de viagem ou de viagem para porto mais acessível à vistoria, o prazo de validade da licença de estação pode ser prorrogado pela DGPNTM até 150 dias contados a partir do fim de validade da licença.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 42.º — Substituição provisória da licença de estação de embarcação
+
+A ficha de autorização radioeléctrica, com despacho favorável do director-geral de Portos, Navegação e Transportes Marítimos, substitui provisoriamente a licença de estação no que se refere aos equipamentos nela mencionados, pelo tempo previsto nas alíneas seguintes:
+
+a) Durante 12 meses após a data do despacho, se dos equipamentos autorizados apenas fizerem parte equipamentos de navegação, excluindo os radares;
+
+b) Durante seis meses a contar da data do despacho, se dos equipamentos autorizados fizer parte qualquer receptor de radiocomunicações, radar, radiotelefone da banda do cidadão ou de VHF;
+
+c) Durante três meses após a data do despacho, se dos equipamentos autorizados fizer parte qualquer emissor de radiocomunicações não referido na alínea anterior.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 43.º — Caducidade da licença de estação de embarcação
+
+A licença de estação de embarcação perde validade desde que se verifique uma das seguintes situações:
+
+a) Mudança de titular;
+
+b) Alteração de categoria de correspondência pública;
+
+c) Alteração de algum dos elementos das identificações da embarcação ou da estação;
+
+d) Alteração da composição da estação.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+### Capítulo VI — Vistorias e inspecções
+
+###### Artigo 44.º — Vistorias e inspecções ao equipamento radioeléctrico
+
+1 - As vistorias ao equipamento radioeléctrico das embarcações têm por objectivo verificar:
+
+a) A correspondência do equipamento instalado com os meios fixados por este Regulamento e legislação complementar para a categoria de embarcação em causa;
+
+b) A correspondência entre a execução ou manutenção dos arranjos e os respectivos termos de aprovação;
+
+c) Os documentos de conformidade e a marcação dos equipamentos;
+
+d) As condições de conservação e de funcionamento de acordo com o Regulamento das Radiocomunicações no que respeita a classes de emissão, frequências e respectivas tolerâncias;
+
+e) A correcta programação das identificações consignadas à estação de radiocomunicações, quer nos equipamentos que a integram, quer nas radiobalizas de localização de sinistros bem como nos equipamentos do sistema de identificação automática;
+
+f) A documentação de bordo prevista neste Regulamento e a validade dos certificados de operador de radiocomunicações.
+
+2 - As vistorias referidas no número anterior integram o conjunto de vistorias que concorrem para a emissão, renovação ou manutenção da certificação de segurança.
+
+3 - Por iniciativa do IPTM, podem ser efectuadas inspecções aos equipamentos radioeléctricos das embarcações.
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 45.º — Pedido de vistoria
+
+1 - As vistorias devem ser requeridas pelos armadores em tempo que permita efectuar os trabalhos e antes de expirarem os prazos de validade das licenças de estação.
+
+2 - As vistorias são efectuadas no local, data e hora acordados pelo armador e a DGPNTM.
+
+3 - Os armadores devem colocar as embarcações em condições adequadas à execução normal dos trabalhos.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 46.º — Condições de vistorias e de inspecção
+
+1 - Os comandantes e os mestres das embarcações não podem impedir os inspectores ou os técnicos credenciados de efectuar vistorias ou inspecções ao equipamento radioeléctrico das embarcações.
+
+2 - As vistorias e as inspecções devem ser efectuadas na presença do operador ou de pessoa habilitada a operar o equipamento radioeléctrico da embarcação.
+
+3 - A não verificação do disposto no número anterior não impedirá a realização da vistoria ou da inspecção, se o inspector ou o técnico credenciado entender que pode efectuá-la em condições de segurança e obtiver acordo do comandante ou do mestre da embarcação.
+
+###### Artigo 47.º — Inspectores
+
+1 - As vistorias ao equipamento radioeléctrico das embarcações são efectuadas por:
+
+a) Inspectores do IPTM; ou
+
+b) Técnicos credenciados de acordo com condições e requisitos de formação que constem de circular a emitir pelo IPTM; ou
+
+c) Técnicos de entidades públicas que actuem no âmbito da certificação da navegabilidade, mediante protocolo a estabelecer com o IPTM.
+
+2 - As inspecções ao equipamento radioeléctrico das embarcações previstas no n.º 3 do artigo 44.º são efectuadas por inspectores do IPTM.
+
+3 - Os inspectores e técnicos previstos nos números anteriores devem exibir a sua identificação, quando solicitada, às autoridades competentes e aos comandantes das embarcações ou a quem exerça funções correspondentes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+### Capítulo VII — Contra-ordenações
+
+###### Artigo 48.º — Regime contra-ordenacional
+
+1 - As infracções às normas previstas no presente Regulamento constituem contra-ordenação punível com coima, nos termos dos artigos seguintes.
+
+2 - A negligência e a tentativa são puníveis.
+
+3 - Ao processo por infracção às disposições do presente Regulamento aplica-se o regime geral das contra-ordenações, constante do Decreto-Lei n.º 433/82, de 27 de Outubro, e suas posteriores alterações.
+
+###### Artigo 49.º — Competência instrutória e decisória
+
+1 - Compete ao IPTM e ao órgão local da autoridade marítima em cujo espaço de jurisdição tenha sido detectado o ilícito ou ao do porto de registo da embarcação proceder à instrução processual dos processos de contra-ordenação por ilícitos tipificados pelo presente diploma.
+
+2 - Compete ao presidente do conselho de administração do IPTM e ao capitão do porto respectivo a aplicação das coimas e bem assim das medidas cautelares e das sanções acessórias aplicadas no âmbito do presente diploma.
+
+3 - O montante das coimas cobradas reverte em:
+
+a) 60% para os cofres do Estado;
+
+b) 15% para a entidade autuante;
+
+c) 25% para a entidade a quem for cometida a instrução e decisão processuais.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 50.º — Fiscalização
+
+Os orgãos locais da autoridade marítima fiscalizam a existência, a bordo, da licença de estação da embarcação e do certificado de operador de radiocomunicações.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 51.º — Das infracções em geral
+
+A violação do disposto no artigo 13.º, no n.º 1 do artigo 16.º, no artigo 21.º, nos n.os 1 e 2 do artigo 22.º, nos n.os 1, 2 e 3 do artigo 24.º, nos n.os 1 e 3 do artigo 25.º, nos n.os 1, 2 e 3 do artigo 26.º, nos n.os 1 e 2 do artigo 27.º, nos n.os 1, 2 e 5 do artigo 28.º, nos artigos 29.º e 30.º, nos n.os 2, 3 e 4 do artigo 31.º, no artigo 34.º, no n.º 2 do artigo 35.º, no n.º 1 do artigo 36.º, no n.º 4 do artigo 38.º, no artigo 39.º e no n.º 5 do artigo 40.º, por armadores, comandantes ou mestres e operadores de radiocomunicações constitui contra-ordenação, punível com coima de (euro) 25 a (euro) 250.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 52.º — Das infracções graves ou muito graves cometidas pelos armadores
+
+1 - Constitui infracção contra-ordenacional grave, punível com coima de (euro) 50 a (euro) 500, aplicável ao armador, a violação do disposto nos artigos 4.º, 6.º, 17.º e 23.º, no n.º 2 do artigo 25.º, nos n.os 3 e 4 do artigo 28.º, no n.º 5 do artigo 31.º, no n.º 3 do artigo 33.º e no n.º 1 do artigo 37.º
+
+2 - Constitui infracção contra-ordenacional muito grave, punível com coima de (euro) 125 a (euro) 1250, aplicável ao armador, a violação do disposto no n.º 1 do artigo 7.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 53.º — Das infracções graves cometidas pelos comandantes ou mestres
+
+Constitui infracção contra-ordenacional grave, punível com coima de (euro) 50 a (euro) 500, aplicável aos comandantes ou mestres das embarcações, a violação do disposto no n.º 3 do artigo 18.º, no n.º 2 do artigo 37.º, no n.º 2 do artigo 38.º e no n.º 1 do artigo 46.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 54.º — Das infracções graves ou muito graves cometidas pelos operadores de radiocomunicações
+
+1 - Constitui infracção contra-ordenacional grave, punível com coima de (euro) 50 a (euro) 500, aplicável aos operadores de radiocomunicações, a violação do disposto no n.º 2 do artigo 7.º, no n.º 4 do artigo 33.º, no n.º 1 do artigo 35.º e nas alíneas a) e b) do n.º 1 do artigo 38.º
+
+2 - Constitui infracção contra-ordenacional muito grave, punível com coima de (euro) 125 a (euro) 1250, aplicável aos operadores de radiocomunicações, a violação do disposto na alínea c) do n.º 1 do artigo 38.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 55.º — Sanções acessórias
+
+1 - Como sanção acessória, poderá ser apreendido e declarado perdido a favor do Estado, ao abrigo da alínea a) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, o equipamento radioeléctrico cuja instalação ou colocação a bordo não tenha sido efectuada nos termos do artigo 13.º
+
+2 - No caso de serem cometidas três ou mais infracções graves ou muito graves previstas nos artigos 52.º e 53.º em cada período de cinco anos, contados a partir do dia da prática da primeira infracção, o IPTM e o capitão do porto respectivo também podem impor como sanção acessória aos operadores de radiocomunicações, nos termos da alínea g) do n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, a suspensão de actividade por um período de 30 dias a um ano.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+###### Artigo 56.º — Comunicação das decisões
+
+1 - Os capitães dos portos devem remeter ao IPTM cópia das decisões finais proferidas em processo contra-ordenacional por violação deste Regulamento.
+
+2 - O IPTM elaborará um registo dos infractores e das coimas que lhes forem aplicadas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+## Anexo — Licença de estação de embarcação
+
+Ship station licence
+
+Licence de station de navire
+
+Licencia de estacion de barco
+
+(ver documento original)
+
+A presente licença habilita a estação de radiocomunicações de embarcação a utilizar o espectro radioeléctrico, nas faixas de frequências indicadas, nos termos previstos no Regulamento do Serviço Radioeléctrico das Embarcações e no Regulamento das Radiocomunicações.
+
+The present licence allows the ship's radiocommunication station to use, in accordance with the Radio National Rules and Radio Regulations, the radio spectrum within the band frequencies indicated below.»
+
+Identificação da embarcação
+
+Vessel identification
+
+(ver documento original)
+
+Titular da licença
+
+Licensee details
+
+(ver documento original)
+
+Identificação da estação
+
+Licence identification
+
+(ver documento original)
+
+Composição da estação
+
+Station's equipment
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+## Anexo I — Certificado de aprovação de equipamento
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+## Anexo II — Ficha de Autorização Radioeléctrica
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26
+
+## Anexo III — Licença de estação de embarcação
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2007 - Diário da República n.º 61/2007, Série I de 2007-03-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2007-520263), em vigor a partir de 2007-04-26

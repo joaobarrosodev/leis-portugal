@@ -1,0 +1,638 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:543026:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-70888932",
+ "dre_path": "/dr/detalhe/decreto-lei/35-2012-543026",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-02-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70876370",
+    "70876371",
+    "70876372",
+    "70876373",
+    "70876374",
+    "70889075",
+    "70889076",
+    "70889077",
+    "70889078",
+    "70889079",
+    "70889080",
+    "70889081",
+    "70889082",
+    "70889083",
+    "70889084",
+    "70889085",
+    "70889086",
+    "70889087",
+    "70889088"
+   ]
+  },
+  {
+   "date": "2014-12-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58940164:por",
+     "title": "Decreto-Lei n.º 173/2014",
+     "published": "2014-11-19",
+     "dre_path": "/dr/detalhe/decreto-lei/173-2014-58940164"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 7.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "70876370",
+    "70876371",
+    "70876372",
+    "70889099",
+    "70889100",
+    "70889075",
+    "70889076",
+    "70889077",
+    "70889102",
+    "70889103",
+    "70889104",
+    "70889105",
+    "70889106",
+    "70889107",
+    "70889108",
+    "70889109",
+    "70889110",
+    "70889111",
+    "70889112",
+    "70889113"
+   ]
+  },
+  {
+   "date": "2015-09-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70361623:por",
+     "title": "Decreto-Lei n.º 206/2015",
+     "published": "2015-09-23",
+     "dre_path": "/dr/detalhe/decreto-lei/206-2015-70361623"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "70876370",
+    "70876371",
+    "70876372",
+    "70889132",
+    "70889100",
+    "70889075",
+    "70889076",
+    "70889077",
+    "70889102",
+    "70889103",
+    "70889104",
+    "70889105",
+    "70889106",
+    "70889107",
+    "70889108",
+    "70889120",
+    "70889126",
+    "70889127",
+    "70889128",
+    "70889129",
+    "70889130",
+    "70889131"
+   ]
+  },
+  {
+   "date": "2018-06-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115487877:por",
+     "title": "Decreto-Lei n.º 38/2018",
+     "published": "2018-06-11",
+     "dre_path": "/dr/detalhe/decreto-lei/38-2018-115487877"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º"
+   ],
+   "fragments": [
+    "70876370",
+    "70876371",
+    "70876372",
+    "115500265",
+    "70889100",
+    "70889075",
+    "70889076",
+    "70889077",
+    "70889102",
+    "70889103",
+    "70889104",
+    "70889105",
+    "70889106",
+    "70889107",
+    "70889108",
+    "70889120",
+    "70889126",
+    "70889127",
+    "70889128",
+    "70889129",
+    "70889130",
+    "70889131"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201414019:por",
+     "title": "Decreto-Lei n.º 61/2022",
+     "published": "2022-09-23",
+     "dre_path": "/dr/detalhe/decreto-lei/61-2022-201414019"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Revoga Artigo 7.º-A"
+   ],
+   "fragments": [
+    "70876370",
+    "70876371",
+    "70876372",
+    "201540307",
+    "201540289",
+    "70889075",
+    "70889076",
+    "70889077",
+    "201540290",
+    "70889103",
+    "70889104",
+    "70889105",
+    "70889106",
+    "70889107",
+    "70889108",
+    "70889120",
+    "70889126",
+    "70889127",
+    "70889128",
+    "70889129",
+    "70889130",
+    "70889131"
+   ]
+  },
+  {
+   "date": "2024-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:887091776:por",
+     "title": "Decreto-Lei n.º 54/2024",
+     "published": "2024-09-06",
+     "dre_path": "/dr/detalhe/decreto-lei/54-2024-887091776"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "70876370",
+    "70876371",
+    "70876372",
+    "201540307",
+    "201540289",
+    "70889075",
+    "70889076",
+    "887190664",
+    "201540290",
+    "70889103",
+    "70889104",
+    "70889105",
+    "70889106",
+    "70889107",
+    "70889108",
+    "70889120",
+    "70889126",
+    "70889127",
+    "70889128",
+    "70889129",
+    "70889130",
+    "70889131"
+   ]
+  }
+ ],
+ "fragments": {
+  "70876370": {
+   "fragment_id": "70888933",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 35/2012\n\nde 15 de fevereiro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos, e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nNeste contexto o Decreto-Lei n.º 124/2011, de 29 de Dezembro, que aprova a nova Lei Orgânica do Ministério da Saúde, veio redefinir as atribuições da Administração Central do Sistema de Saúde, I. P., como entidade da administração indirecta do Estado, não só para continuar a assumir as funções de administração dos recursos do SNS, mas também para acolher as atribuições de coordenação das actividades no Ministério da Saúde para a definição e desenvolvimento de políticas de recursos humanos e de coordenação das áreas de administração geral dos diferentes serviços, bem como de elaboração de todo o orçamento do Ministério da Saúde, absorvendo ainda as competências desenvolvidas pela Unidade de Missão para os Cuidados Continuados Integrados.\n\nDando execução a tais opções, torna-se necessário aprovar o diploma orgânico da Administração Central do Sistema de Saúde, I. P., com o objectivo de dar cumprimento aos compromissos do Governo em matéria de reorganização estrutural e de racionalização de recursos no âmbito da Administração Pública.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de Janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "70876371": {
+   "fragment_id": "70888934",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Administração Central do Sistema de Saúde, I. P., abreviadamente designada por ACSS, I. P., é um instituto público, de regime especial, nos termos da lei, integrado na administração indirecta do Estado, dotado de autonomia administrativa e financeira e de património próprio.\n\n2 - A ACSS, I. P., prossegue as atribuições do Ministério da Saúde sob a superintendência e a tutela do respectivo ministro."
+  },
+  "70876372": {
+   "fragment_id": "70888935",
+   "type": 11,
+   "heading": "Artigo 2.º — Jurisdição territorial e sede",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Jurisdição territorial e sede\n\n1 - A ACSS, I. P., tem jurisdição sobre todo o território continental, sem prejuízo das atribuições de âmbito nacional que lhe sejam atribuídas por diplomas próprios.\n\n2 - A ACSS, I. P., tem sede em Lisboa."
+  },
+  "70876373": {
+   "fragment_id": "70888936",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - A ACSS, I. P., tem por missão assegurar a gestão dos recursos financeiros e humanos do Ministério da Saúde (MS) e do Serviço Nacional de Saúde (SNS), bem como das instalações e equipamentos do SNS, proceder à definição e implementação de políticas, normalização, regulamentação e planeamento em saúde, nas áreas da sua intervenção, em articulação com as Administrações Regionais de Saúde, I. P., no domínio da contratação da prestação de cuidados.\n\n2 - A ACSS, I. P., prossegue as seguintes atribuições:\n\na) Coordenar, monitorizar e controlar as actividades no MS para a gestão dos recursos financeiros afectos ao SNS, designadamente definindo, de acordo com a política estabelecida pelo membro do Governo responsável pela área da saúde, as normas, orientações e modalidades para obtenção dos recursos financeiros necessários, sua distribuição e aplicação, sistema de preços e de contratação da prestação de cuidados, acompanhando, avaliando, controlando e reportando sobre a sua execução, bem como desenvolver e implementar acordos com entidades prestadoras de cuidados de saúde e entidades do sector privado ou social, responsáveis pelo pagamento de prestações de cuidados de saúde;\n\nb) Coordenar as actividades no MS para a definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente definindo normas e orientações relativas a profissões, exercício profissional, regimes de trabalho, negociação colectiva, registo dos profissionais, bases de dados dos recursos humanos, ensino e formação profissional, bem como realizar estudos para caracterização dos recursos humanos, das profissões e exercícios profissionais no sector da saúde;\n\nc) Coordenar as actividades no MS para a gestão da rede de instalações e equipamentos de saúde, designadamente definindo normas, metodologias e requisitos a satisfazer para a melhoria e o desenvolvimento equilibrado no território nacional dessa rede, acompanhando, avaliando e controlando a sua aplicação pelas entidades envolvidas;\n\nd) Prover o SNS com os adequados sistemas de informação e comunicação e mecanismos de racionalização de compras recorrendo para o efeito à entidade pública prestadora de serviços partilhados ao SNS;\n\ne) Coordenar e centralizar a produção de informação e estatísticas dos prestadores de cuidados de saúde, nomeadamente produção, desempenho assistencial, recursos financeiros, humanos e outros;\n\nf) Assegurar a prestação centralizada de actividades comuns nas áreas dos recursos humanos e financeiros para os serviços do MS integrados na administração directa do Estado;\n\ng) Coordenar e acompanhar a gestão da Rede Nacional de Cuidados Continuados Integrados, em articulação com os demais organismos competentes;\n\nh) Assegurar e coordenar a elaboração do orçamento do MS e do SNS, bem como acompanhar e gerir a respectiva execução;\n\ni) Promover a aplicação das medidas de política de organização e de gestão de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MS na respectiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nj) Efectuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do sistema de saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o sistema de saúde.\n\n3 - Para efeitos do disposto na alínea d) do número anterior a ACSS, I. P., contratualiza com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., o respectivo contrato-programa.\n\n4 - À ACSS, I. P., cabe ainda a coordenação e acompanhamento da execução dos contratos de gestão em regime de parceria público-privada, dos contratos-programa com entidades do sector empresarial do Estado e de outros contratos de prestação de cuidados de saúde celebrados com entidades do sector privado e social.\n\n5 - Cabe à ACSS, I. P., a gestão do sistema de acesso e tempos de espera e do sistema de inscritos para cirurgia.\n\n6 - A ACSS, I. P., pode prestar apoio logístico e assegurar o pagamento de despesas relativas a actividades desenvolvidas por grupos de trabalho, comissões técnicas e científicas ou outras entidades na área da saúde cujo objecto não se integre directamente em qualquer dos serviços ou organismos do Ministério da Saúde, nos termos a definir por despacho do membro do Governo responsável pela área da saúde.\n\n7 - No âmbito das suas atribuições, a ACSS, I. P., pode emitir instruções genéricas que vinculam os organismos e serviços do Ministério da Saúde, os serviços e estabelecimentos do SNS, bem como as entidades que integram funcionalmente o SNS, designadamente os estabelecimentos com gestão privada e as entidades com convenção com o SNS.\n\n8 - As entidades integradas no SNS, independentemente da natureza jurídica, incluindo as entidades com contrato ou convenção no âmbito do SNS devem prestar à ACSS, I. P., toda a informação indispensável à prossecução das suas atribuições, nomeadamente a necessária à coordenação, monitorização e controlo das actividades do SNS.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . As alterações ao presente artigo produzem efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023."
+  },
+  "70876374": {
+   "fragment_id": "70888937",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Órgãos\n\nSão órgãos da ACSS, I. P.:\n\na) O conselho directivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . A revogação do n.º 2 do presente artigo produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023."
+  },
+  "70889075": {
+   "fragment_id": "70888938",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho directivo\n\n1 - O conselho directivo é composto por um presidente, um vice-presidente e dois vogais.\n\n2 - Sem prejuízo de outras competências que lhe sejam conferidas por lei ou nele delegadas ou subdelegadas, compete ao conselho directivo:\n\na) Dirigir a actividade da ACSS, I. P., e gerir os seus recursos humanos, materiais e financeiros, tendo em conta os instrumentos de gestão aprovados;\n\nb) Acompanhar e avaliar sistematicamente a actividade desenvolvida, designadamente responsabilizando os diferentes serviços pela utilização dos meios postos à sua disposição e pelos resultados atingidos;\n\nc) Nomear os representantes da ACSS, I. P., em organismos exteriores;\n\nd) Praticar os demais actos necessários à prossecução das atribuições e ao exercício das competências da ACSS, I. P., que não estejam legalmente cometidos a outros órgãos;\n\ne) Propor ao membro do Governo competente a tabela de preços dos serviços a prestar pela ACSS, I. P..\n\n3 - O conselho directivo pode delegar em qualquer dos seus membros as competências que lhe são cometidas."
+  },
+  "70889076": {
+   "fragment_id": "70888939",
+   "type": 11,
+   "heading": "Artigo 6.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Fiscal único\n\nO fiscal único é designado e tem as competências nos termos previstos na lei quadro dos institutos públicos."
+  },
+  "70889077": {
+   "fragment_id": "70888940",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação da ACSS, I. P..\n\n2 - O conselho consultivo da ACSS, I. P., tem a seguinte composição:\n\na) O presidente do conselho directivo da ACSS, I. P., que preside;\n\nb) Os restantes membros do conselho directivo da ACSS, I. P.;\n\nc) O secretário-geral do Ministério da Saúde;\n\nd) O director-geral da Saúde;\n\ne) O presidente do conselho directivo do INFARMED, I. P.;\n\nf) Os presidentes dos conselhos directivos das Administrações Regionais de Saúde, I. P..\n\n3 - O conselho consultivo pode, ainda, integrar especialistas ou personalidades de reconhecido mérito convidados pelo conselho directivo em função das matérias que constituam a ordem de trabalhos das reuniões.\n\n4 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo seu presidente.\n\n5 - A participação nas reuniões do conselho consultivo não é remunerada."
+  },
+  "70889078": {
+   "fragment_id": "70888941",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna da ACSS, I. P., é a prevista nos respectivos estatutos."
+  },
+  "70889079": {
+   "fragment_id": "70888942",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto dos membros do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto dos membros do conselho directivo\n\nAos membros do conselho directivo é aplicável o regime fixado no Estatuto do Gestor Público e, subsidiariamente, o previsto na lei quadro dos institutos públicos."
+  },
+  "70889080": {
+   "fragment_id": "70888943",
+   "type": 11,
+   "heading": "Artigo 10.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Receitas\n\n1 - A ACSS, I. P., dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado, bem como das transferências para o SNS.\n\n2 - A ACSS, I. P., dispõe ainda das seguintes receitas próprias:\n\na) Os rendimentos dos bens próprios ou provenientes da sua actividade;\n\nb) As taxas, emolumentos, multas, coimas ou outras cuja percepção lhe seja concedida por lei, regulamento ou contrato, nas respectivas percentagens legais;\n\nc) Os reembolsos de valores indevidamente pagos e respectivos juros e comissões;\n\nd) As receitas provenientes do registo dos profissionais de saúde;\n\ne) O produto da venda de bens e serviços;\n\nf) As doações, heranças ou legados;\n\ng) Quaisquer outras receitas que por lei, contrato ou qualquer título lhe sejam atribuídas.\n\n3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas da ACSS, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei."
+  },
+  "70889081": {
+   "fragment_id": "70888944",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas\n\nConstituem despesas da ACSS, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, nomeadamente as transferências e pagamentos de serviços prestados para as Administrações Regionais de Saúde, I. P., e serviços e estabelecimentos integrados no SNS ou por ele financiados, bem como os encargos decorrentes da contratação de serviços com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.."
+  },
+  "70889082": {
+   "fragment_id": "70888945",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Património\n\nO património da ACSS, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular."
+  },
+  "70889083": {
+   "fragment_id": "70888946",
+   "type": 11,
+   "heading": "Artigo 13.º — Peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Peritos\n\n1 - A ACSS, I. P., pode recorrer a peritos para as áreas de codificação e auditoria à codificação clínica, sistemas de classificação de doentes e formação de preços, e nomenclaturas, de entre especialistas com qualificações e experiência nas respectivas áreas.\n\n2 - Os peritos são designados por despacho do conselho directivo da ACSS.\n\n3 - A compensação pela prestação de serviços dos peritos que não sejam trabalhadores ou colaboradores da ACSS, I. P., é fixada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde."
+  },
+  "70889084": {
+   "fragment_id": "70888947",
+   "type": 11,
+   "heading": "Artigo 14.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sucessão\n\nA ACSS, I. P., sucede nas atribuições:\n\na) Da Unidade de Missão para os Cuidados Continuados Integrados;\n\nb) Da Secretaria-Geral no domínio orçamental e de planeamento de recursos humanos dos serviços e dos organismos do MS."
+  },
+  "70889085": {
+   "fragment_id": "70888948",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de selecção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios de selecção do pessoal\n\nSão fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da ACSS, I. P.:\n\na) O desempenho de funções na Unidade de Missão para os Cuidados Continuados Integrados;\n\nb) Na secretaria-geral relacionadas com as atribuições transferidas no domínio orçamental e de planeamento de recursos humanos dos serviços e dos organismos do MS."
+  },
+  "70889086": {
+   "fragment_id": "70888949",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposição transitória\n\nO disposto na alínea f) do n.º 2 do artigo 3.º em matéria de prestação centralizada de actividades comuns produz efeitos a partir de 1 de Janeiro de 2013, nos termos da Lei Orgânica do MS."
+  },
+  "70889087": {
+   "fragment_id": "70888950",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 219/2007, de 29 de Maio, alterado pelos Decretos-Leis n.os 234/2008, de 2 de Dezembro, 136/2010, de 27 de Dezembro, e 108/2011, de 17 de Novembro."
+  },
+  "70889088": {
+   "fragment_id": "70888951",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 7 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 3 de Fevereiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Fevereiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "70889099": {
+   "fragment_id": "70888936",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2014-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - A ACSS, I. P., tem por missão assegurar a gestão dos recursos financeiros e humanos do Ministério da Saúde (MS) e do Serviço Nacional de Saúde (SNS), bem como das instalações e equipamentos do SNS, proceder à definição e implementação de políticas, normalização, regulamentação e planeamento em saúde, nas áreas da sua intervenção, em articulação com as Administrações Regionais de Saúde, I. P., no domínio da contratação da prestação de cuidados.\n\n2 - A ACSS, I. P., prossegue as seguintes atribuições:\n\na) Coordenar, monitorizar e controlar as actividades no MS para a gestão dos recursos financeiros afectos ao SNS, designadamente definindo, de acordo com a política estabelecida pelo membro do Governo responsável pela área da saúde, as normas, orientações e modalidades para obtenção dos recursos financeiros necessários, sua distribuição e aplicação, sistema de preços e de contratação da prestação de cuidados, acompanhando, avaliando, controlando e reportando sobre a sua execução, bem como desenvolver e implementar acordos com entidades prestadoras de cuidados de saúde e entidades do sector privado ou social, responsáveis pelo pagamento de prestações de cuidados de saúde;\n\nb) Coordenar as actividades no MS para a definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente definindo normas e orientações relativas a profissões, exercício profissional, regimes de trabalho, negociação colectiva, registo dos profissionais, bases de dados dos recursos humanos, ensino e formação profissional, bem como realizar estudos para caracterização dos recursos humanos, das profissões e exercícios profissionais no sector da saúde;\n\nc) Coordenar as actividades no MS para a gestão da rede de instalações e equipamentos de saúde, designadamente definindo normas, metodologias e requisitos a satisfazer para a melhoria e o desenvolvimento equilibrado no território nacional dessa rede, acompanhando, avaliando e controlando a sua aplicação pelas entidades envolvidas;\n\nd) Prover o SNS com os adequados sistemas de informação e comunicação e mecanismos de racionalização de compras recorrendo para o efeito à entidade pública prestadora de serviços partilhados ao SNS;\n\ne) Coordenar e centralizar a produção de informação e estatísticas dos prestadores de cuidados de saúde, nomeadamente produção, desempenho assistencial, recursos financeiros, humanos e outros;\n\nf) Assegurar a prestação centralizada de actividades comuns nas áreas dos recursos humanos e financeiros para os serviços do MS integrados na administração directa do Estado;\n\ng) Coordenar e acompanhar a gestão da Rede Nacional de Cuidados Continuados Integrados, em articulação com os demais organismos competentes;\n\nh) Assegurar e coordenar a elaboração do orçamento do MS e do SNS, bem como acompanhar e gerir a respectiva execução;\n\ni) Promover a aplicação das medidas de política de organização e de gestão de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MS na respectiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nj) Efectuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do sistema de saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o sistema de saúde;\n\nk) Acompanhar a coordenação e a gestão da Rede Nacional de Cuidados Paliativos, em articulação com os demais organismos competentes;\n\nl) Prosseguir as atribuições conferidas por lei em matéria de terapêuticas não convencionais;\n\nm) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços.\n\n3 - Para efeitos do disposto na alínea d) do número anterior a ACSS, I. P., contratualiza com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., o respectivo contrato-programa.\n\n4 - À ACSS, I. P., cabe ainda a coordenação e acompanhamento da execução dos contratos de gestão em regime de parceria público-privada, dos contratos-programa com entidades do sector empresarial do Estado e de outros contratos de prestação de cuidados de saúde celebrados com entidades do sector privado e social.\n\n5 - Cabe à ACSS, I. P., a gestão do sistema de acesso e tempos de espera e do sistema de inscritos para cirurgia.\n\n6 - A ACSS, I. P., pode prestar apoio logístico e assegurar o pagamento de despesas relativas a actividades desenvolvidas por grupos de trabalho, comissões técnicas e científicas ou outras entidades na área da saúde cujo objecto não se integre directamente em qualquer dos serviços ou organismos do Ministério da Saúde, nos termos a definir por despacho do membro do Governo responsável pela área da saúde.\n\n7 - No âmbito das suas atribuições, a ACSS, I. P., pode emitir instruções genéricas que vinculam os organismos e serviços do Ministério da Saúde, os serviços e estabelecimentos do SNS, bem como as entidades que integram funcionalmente o SNS, designadamente os estabelecimentos com gestão privada e as entidades com convenção com o SNS.\n\n8 - As entidades integradas no SNS, independentemente da natureza jurídica, incluindo as entidades com contrato ou convenção no âmbito do SNS devem prestar à ACSS, I. P., toda a informação indispensável à prossecução das suas atribuições, nomeadamente a necessária à coordenação, monitorização e controlo das actividades do SNS.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "70889100": {
+   "fragment_id": "70888937",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2014-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1- São órgãos da ACSS, I. P.:\n\na) O conselho directivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo.\n\n2 - É ainda órgão da ACSS, I.P., a Comissão Nacional de Cuidados Paliativos.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "70889102": {
+   "fragment_id": "70900485",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Comissão Nacional de Cuidados Paliativos",
+   "in_force_from": "2014-12-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Comissão Nacional de Cuidados Paliativos\n\n1 - A Comissão Nacional de Cuidados Paliativos é nos termos da Lei n.º 52/2012, de 5 de setembro, o órgão responsável pela coordenação nacional da Rede Nacional de Cuidados Paliativos.\n\n2 - A Comissão Nacional de Cuidados Paliativos é composta por cinco elementos, a designar por despacho do membro do Governo responsável pela área da saúde, sob proposta do presidente do conselho diretivo da ACSS, I.P.\n\n3 - O presidente da Comissão Nacional de Cuidados Paliativos, a designar de entre os elementos e nos termos referidos no número anterior, e um outro elemento que a integre, devem ser profissionais de saúde com formação específica e experiência em cuidados paliativos.\n\n4 - O exercício de funções na Comissão Nacional de Cuidados Paliativos não é remunerado.\n\n5 - A Comissão Nacional de Cuidados Paliativos aprova o seu regulamento interno, o qual é homologado pelo conselho diretivo da ACSS, I.P.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "70889103": {
+   "fragment_id": "70888941",
+   "type": 11,
+   "heading": "Artigo 8.º — Organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Organização interna\n\nA organização interna da ACSS, I. P., é a prevista nos respectivos estatutos."
+  },
+  "70889104": {
+   "fragment_id": "70888942",
+   "type": 11,
+   "heading": "Artigo 9.º — Estatuto dos membros do conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Estatuto dos membros do conselho directivo\n\nAos membros do conselho directivo é aplicável o regime fixado no Estatuto do Gestor Público e, subsidiariamente, o previsto na lei quadro dos institutos públicos."
+  },
+  "70889105": {
+   "fragment_id": "70888943",
+   "type": 11,
+   "heading": "Artigo 10.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Receitas\n\n1 - A ACSS, I. P., dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado, bem como das transferências para o SNS.\n\n2 - A ACSS, I. P., dispõe ainda das seguintes receitas próprias:\n\na) Os rendimentos dos bens próprios ou provenientes da sua actividade;\n\nb) As taxas, emolumentos, multas, coimas ou outras cuja percepção lhe seja concedida por lei, regulamento ou contrato, nas respectivas percentagens legais;\n\nc) Os reembolsos de valores indevidamente pagos e respectivos juros e comissões;\n\nd) As receitas provenientes do registo dos profissionais de saúde;\n\ne) O produto da venda de bens e serviços;\n\nf) As doações, heranças ou legados;\n\ng) Quaisquer outras receitas que por lei, contrato ou qualquer título lhe sejam atribuídas.\n\n3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas da ACSS, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos da lei."
+  },
+  "70889106": {
+   "fragment_id": "70888944",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas\n\nConstituem despesas da ACSS, I. P., as que resultem de encargos decorrentes da prossecução das respectivas atribuições, nomeadamente as transferências e pagamentos de serviços prestados para as Administrações Regionais de Saúde, I. P., e serviços e estabelecimentos integrados no SNS ou por ele financiados, bem como os encargos decorrentes da contratação de serviços com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E.."
+  },
+  "70889107": {
+   "fragment_id": "70888945",
+   "type": 11,
+   "heading": "Artigo 12.º — Património",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Património\n\nO património da ACSS, I. P., é constituído pela universalidade dos bens, direitos e obrigações de que é titular."
+  },
+  "70889108": {
+   "fragment_id": "70888946",
+   "type": 11,
+   "heading": "Artigo 13.º — Peritos",
+   "in_force_from": "2014-12-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 13.º — Peritos\n\n1 - A ACSS, I.P., pode recorrer a peritos nas áreas de codificação e auditoria à codificação clínica, sistemas de classificação de doentes e formação de preços e nomenclaturas, especificações técnicas de tecnologias de equipamentos e auditorias de cumprimento de requisitos de funcionamento e organização de instalações de prestação de cuidados de saúde e definição das redes nacionais de especialidades hospitalares e de referenciação, de entre especialistas com qualificações e experiência nas respetivas áreas.\n\n2 - Os peritos são designados por despacho do conselho directivo da ACSS.\n\n3 - A compensação pela prestação de serviços dos peritos que não sejam trabalhadores ou colaboradores da ACSS, I. P., é fixada por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "70889109": {
+   "fragment_id": "70888947",
+   "type": 11,
+   "heading": "Artigo 14.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sucessão\n\nA ACSS, I. P., sucede nas atribuições:\n\na) Da Unidade de Missão para os Cuidados Continuados Integrados;\n\nb) Da Secretaria-Geral no domínio orçamental e de planeamento de recursos humanos dos serviços e dos organismos do MS."
+  },
+  "70889110": {
+   "fragment_id": "70888948",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de selecção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios de selecção do pessoal\n\nSão fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da ACSS, I. P.:\n\na) O desempenho de funções na Unidade de Missão para os Cuidados Continuados Integrados;\n\nb) Na secretaria-geral relacionadas com as atribuições transferidas no domínio orçamental e de planeamento de recursos humanos dos serviços e dos organismos do MS."
+  },
+  "70889111": {
+   "fragment_id": "70888949",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposição transitória\n\nO disposto na alínea f) do n.º 2 do artigo 3.º em matéria de prestação centralizada de actividades comuns produz efeitos a partir de 1 de Janeiro de 2013, nos termos da Lei Orgânica do MS."
+  },
+  "70889112": {
+   "fragment_id": "70888950",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 219/2007, de 29 de Maio, alterado pelos Decretos-Leis n.os 234/2008, de 2 de Dezembro, 136/2010, de 27 de Dezembro, e 108/2011, de 17 de Novembro."
+  },
+  "70889113": {
+   "fragment_id": "70888951",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 7 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 3 de Fevereiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Fevereiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "70889132": {
+   "fragment_id": "70888936",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - A ACSS, I. P., tem por missão assegurar a gestão dos recursos financeiros e humanos do Ministério da Saúde (MS) e do Serviço Nacional de Saúde (SNS), bem como das instalações e equipamentos do SNS, proceder à definição e implementação de políticas, normalização, regulamentação e planeamento em saúde, nas áreas da sua intervenção, em articulação com as Administrações Regionais de Saúde, I. P., no domínio da contratação da prestação de cuidados.\n\n2 - A ACSS, I. P., prossegue as seguintes atribuições:\n\na) Coordenar, monitorizar e controlar as actividades no MS para a gestão dos recursos financeiros afectos ao SNS, designadamente definindo, de acordo com a política estabelecida pelo membro do Governo responsável pela área da saúde, as normas, orientações e modalidades para obtenção dos recursos financeiros necessários, sua distribuição e aplicação, sistema de preços e de contratação da prestação de cuidados, acompanhando, avaliando, controlando e reportando sobre a sua execução, bem como desenvolver e implementar acordos com entidades prestadoras de cuidados de saúde e entidades do sector privado ou social, responsáveis pelo pagamento de prestações de cuidados de saúde;\n\nb) Coordenar as actividades no MS para a definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente definindo normas e orientações relativas a profissões, exercício profissional, regimes de trabalho, negociação colectiva, registo dos profissionais, bases de dados dos recursos humanos, ensino e formação profissional, bem como realizar estudos para caracterização dos recursos humanos, das profissões e exercícios profissionais no sector da saúde;\n\nc) Coordenar as actividades no MS para a gestão da rede de instalações e equipamentos de saúde, designadamente definindo normas, metodologias e requisitos a satisfazer para a melhoria e o desenvolvimento equilibrado no território nacional dessa rede, acompanhando, avaliando e controlando a sua aplicação pelas entidades envolvidas;\n\nd) Prover o SNS com os adequados sistemas de informação e comunicação e mecanismos de racionalização de compras recorrendo para o efeito à entidade pública prestadora de serviços partilhados ao SNS;\n\ne) Coordenar e centralizar a produção de informação e estatísticas dos prestadores de cuidados de saúde, nomeadamente produção, desempenho assistencial, recursos financeiros, humanos e outros;\n\nf) Assegurar a prestação centralizada de actividades comuns nas áreas dos recursos humanos e financeiros para os serviços do MS integrados na administração directa do Estado;\n\ng) Coordenar e acompanhar a gestão da Rede Nacional de Cuidados Continuados Integrados, incluindo a área de saúde mental, em articulação com os demais organismos competentes;\n\nh) Assegurar e coordenar a elaboração do orçamento do MS e do SNS, bem como acompanhar e gerir a respectiva execução;\n\ni) Promover a aplicação das medidas de política de organização e de gestão de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MS na respectiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nj) Efectuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do sistema de saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o sistema de saúde;\n\nk) Acompanhar a coordenação e a gestão da Rede Nacional de Cuidados Paliativos, em articulação com os demais organismos competentes;\n\nl) Prosseguir as atribuições conferidas por lei em matéria de terapêuticas não convencionais;\n\nm) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços;\n\nn) Assegurar e gerir, diretamente ou por intermédio de entidade contratada para o efeito, um centro de conferência de faturas do SNS, de medicamentos, de meios complementares de diagnóstico e terapêutica, e de outras áreas de prestações de saúde;\n\no) Assegurar a harmonização em matéria de tabelas e nomenclaturas do Serviço Nacional de Saúde com os subsistemas públicos de saúde;\n\np) Participar, nos termos da lei, no Colégio de Governo dos Subsistemas Públicos de Saúde;\n\nq) Assegurar o Inventário Nacional dos Profissionais de Saúde.\n\n3 - Para efeitos do disposto na alínea d) do número anterior a ACSS, I. P., contratualiza com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., o respectivo contrato-programa.\n\n4 - À ACSS, I. P., cabe ainda a coordenação e acompanhamento da execução dos contratos de gestão em regime de parceria público-privada, dos contratos-programa com entidades do sector empresarial do Estado e de outros contratos de prestação de cuidados de saúde celebrados com entidades do sector privado e social.\n\n5 - Cabe à ACSS, I. P., a gestão do sistema de acesso e tempos de espera e do sistema de inscritos para cirurgia.\n\n6 - A ACSS, I. P., pode prestar apoio logístico e assegurar o pagamento de despesas relativas a actividades desenvolvidas por grupos de trabalho, comissões técnicas e científicas ou outras entidades na área da saúde cujo objecto não se integre directamente em qualquer dos serviços ou organismos do Ministério da Saúde, nos termos a definir por despacho do membro do Governo responsável pela área da saúde.\n\n7 - No âmbito das suas atribuições, a ACSS, I. P., pode emitir instruções genéricas que vinculam os organismos e serviços do Ministério da Saúde, os serviços e estabelecimentos do SNS, bem como as entidades que integram funcionalmente o SNS, designadamente os estabelecimentos com gestão privada e as entidades com convenção com o SNS.\n\n8 - As entidades integradas no SNS, independentemente da natureza jurídica, incluindo as entidades com contrato ou convenção no âmbito do SNS devem prestar à ACSS, I. P., toda a informação indispensável à prossecução das suas atribuições, nomeadamente a necessária à coordenação, monitorização e controlo das actividades do SNS.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "70889120": {
+   "fragment_id": "70900493",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Instrumentos de gestão de pessoal",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 13.º-A — Instrumentos de gestão de pessoal\n\nPara efeitos do disposto no artigo 22.º-A do Estatuto do Serviço Nacional de Saúde, aprovado pelo Decreto-Lei n.º 11/93, de 15 de janeiro, a ACSS, I. P., é equiparada a serviço ou estabelecimento do Serviço Nacional de Saúde.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24"
+  },
+  "70889126": {
+   "fragment_id": "70900494",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Controlo financeiro",
+   "in_force_from": "2015-09-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24"
+   ],
+   "markdown": "###### Artigo 13.º-B — Controlo financeiro\n\n1 - A Agência de Gestão da Tesouraria e da Dívida Pública - IGCP, E. P. E. (IGCP, E. P. E.), remete, numa base trimestral, informação à ACSS, I. P., sobre os montantes, de disponibilidades e aplicações, aplicados pelos hospitais do SNS, independentemente da respetiva natureza jurídica, e das Administrações Regionais de Saúde, I. P.\n\n2 - A informação solicitada é fornecida pelo IGCP, E. P. E., para o endereço de correio eletrónico a indicar pela ACSS, I. P., para o efeito.\n\n3 - Os colaboradores da ACSS, I. P., que acedam à informação contida na caixa de correio eletrónico referida nos números anteriores ficam sujeitos a dever de sigilo bancário.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24"
+  },
+  "70889127": {
+   "fragment_id": "70888947",
+   "type": 11,
+   "heading": "Artigo 14.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Sucessão\n\nA ACSS, I. P., sucede nas atribuições:\n\na) Da Unidade de Missão para os Cuidados Continuados Integrados;\n\nb) Da Secretaria-Geral no domínio orçamental e de planeamento de recursos humanos dos serviços e dos organismos do MS."
+  },
+  "70889128": {
+   "fragment_id": "70888948",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de selecção do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios de selecção do pessoal\n\nSão fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da ACSS, I. P.:\n\na) O desempenho de funções na Unidade de Missão para os Cuidados Continuados Integrados;\n\nb) Na secretaria-geral relacionadas com as atribuições transferidas no domínio orçamental e de planeamento de recursos humanos dos serviços e dos organismos do MS."
+  },
+  "70889129": {
+   "fragment_id": "70888949",
+   "type": 11,
+   "heading": "Artigo 16.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposição transitória\n\nO disposto na alínea f) do n.º 2 do artigo 3.º em matéria de prestação centralizada de actividades comuns produz efeitos a partir de 1 de Janeiro de 2013, nos termos da Lei Orgânica do MS."
+  },
+  "70889130": {
+   "fragment_id": "70888950",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 219/2007, de 29 de Maio, alterado pelos Decretos-Leis n.os 234/2008, de 2 de Dezembro, 136/2010, de 27 de Dezembro, e 108/2011, de 17 de Novembro."
+  },
+  "70889131": {
+   "fragment_id": "70888951",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 7 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Paulo José de Ribeiro Moita de Macedo.\n\nPromulgado em 3 de Fevereiro de 2012.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 7 de Fevereiro de 2012.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "115500265": {
+   "fragment_id": "70888936",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2018-06-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - A ACSS, I. P., tem por missão assegurar a gestão dos recursos financeiros e humanos do Ministério da Saúde (MS) e do Serviço Nacional de Saúde (SNS), bem como das instalações e equipamentos do SNS, proceder à definição e implementação de políticas, normalização, regulamentação e planeamento em saúde, nas áreas da sua intervenção, em articulação com as Administrações Regionais de Saúde, I. P., no domínio da contratação da prestação de cuidados.\n\n2 - A ACSS, I. P., prossegue as seguintes atribuições:\n\na) Coordenar, monitorizar e controlar as actividades no MS para a gestão dos recursos financeiros afectos ao SNS, designadamente definindo, de acordo com a política estabelecida pelo membro do Governo responsável pela área da saúde, as normas, orientações e modalidades para obtenção dos recursos financeiros necessários, sua distribuição e aplicação, sistema de preços e de contratação da prestação de cuidados, acompanhando, avaliando, controlando e reportando sobre a sua execução, bem como desenvolver e implementar acordos com entidades prestadoras de cuidados de saúde e entidades do sector privado ou social, responsáveis pelo pagamento de prestações de cuidados de saúde;\n\nb) Coordenar as actividades no MS para a definição e desenvolvimento de políticas de recursos humanos na saúde, designadamente definindo normas e orientações relativas a profissões, exercício profissional, regimes de trabalho, negociação colectiva, registo dos profissionais, bases de dados dos recursos humanos, ensino e formação profissional, bem como realizar estudos para caracterização dos recursos humanos, das profissões e exercícios profissionais no sector da saúde;\n\nc) Coordenar as actividades no MS para a gestão da rede de instalações e equipamentos de saúde, designadamente definindo normas, metodologias e requisitos a satisfazer para a melhoria e o desenvolvimento equilibrado no território nacional dessa rede, acompanhando, avaliando e controlando a sua aplicação pelas entidades envolvidas;\n\nd) Prover o SNS com os adequados sistemas de informação e comunicação e mecanismos de racionalização de compras recorrendo para o efeito à entidade pública prestadora de serviços partilhados ao SNS;\n\ne) Coordenar e centralizar a produção de informação e estatísticas dos prestadores de cuidados de saúde, nomeadamente produção, desempenho assistencial, recursos financeiros, humanos e outros;\n\nf) Assegurar a prestação centralizada de actividades comuns nas áreas dos recursos humanos e financeiros para os serviços do MS integrados na administração directa do Estado;\n\ng) Coordenar e acompanhar a gestão da Rede Nacional de Cuidados Continuados Integrados, incluindo a área de saúde mental, em articulação com os demais organismos competentes;\n\nh) Assegurar e coordenar a elaboração do orçamento do MS e do SNS, bem como acompanhar e gerir a respectiva execução;\n\ni) Promover a aplicação das medidas de política de organização e de gestão de recursos humanos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos do MS na respectiva implementação, bem como emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal;\n\nj) Efectuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do sistema de saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o sistema de saúde;\n\nk) Acompanhar a coordenação e a gestão da Rede Nacional de Cuidados Paliativos, em articulação com os demais organismos competentes;\n\nl) Prosseguir as atribuições conferidas por lei em matéria de terapêuticas não convencionais;\n\nm) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços;\n\nn) (Revogada);\n\no) Assegurar a harmonização em matéria de tabelas e nomenclaturas do Serviço Nacional de Saúde com os subsistemas públicos de saúde;\n\np) Participar, nos termos da lei, no Colégio de Governo dos Subsistemas Públicos de Saúde;\n\nq) Assegurar o Inventário Nacional dos Profissionais de Saúde.\n\n3 - Para efeitos do disposto na alínea d) do número anterior a ACSS, I. P., contratualiza com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., o respectivo contrato-programa.\n\n4 - À ACSS, I. P., cabe ainda a coordenação e acompanhamento da execução dos contratos de gestão em regime de parceria público-privada, dos contratos-programa com entidades do sector empresarial do Estado e de outros contratos de prestação de cuidados de saúde celebrados com entidades do sector privado e social.\n\n5 - Cabe à ACSS, I. P., a gestão do sistema de acesso e tempos de espera e do sistema de inscritos para cirurgia.\n\n6 - A ACSS, I. P., pode prestar apoio logístico e assegurar o pagamento de despesas relativas a actividades desenvolvidas por grupos de trabalho, comissões técnicas e científicas ou outras entidades na área da saúde cujo objecto não se integre directamente em qualquer dos serviços ou organismos do Ministério da Saúde, nos termos a definir por despacho do membro do Governo responsável pela área da saúde.\n\n7 - No âmbito das suas atribuições, a ACSS, I. P., pode emitir instruções genéricas que vinculam os organismos e serviços do Ministério da Saúde, os serviços e estabelecimentos do SNS, bem como as entidades que integram funcionalmente o SNS, designadamente os estabelecimentos com gestão privada e as entidades com convenção com o SNS.\n\n8 - As entidades integradas no SNS, independentemente da natureza jurídica, incluindo as entidades com contrato ou convenção no âmbito do SNS devem prestar à ACSS, I. P., toda a informação indispensável à prossecução das suas atribuições, nomeadamente a necessária à coordenação, monitorização e controlo das actividades do SNS.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "201540307": {
+   "fragment_id": "70888936",
+   "type": 11,
+   "heading": "Artigo 3.º — Missão e atribuições",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 3.º — Missão e atribuições\n\n1 - A ACSS, I. P., tem por missão assegurar o planeamento e gestão dos recursos financeiros do MS e do SNS, o planeamento dos recursos humanos e da malha de instalações e equipamentos na área da saúde, bem como a contratação da prestação de cuidados, em articulação com a Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.).\n\n2 - A ACSS, I. P., prossegue as seguintes atribuições:\n\na) Planear e gerir os recursos financeiros do MS e do SNS, designadamente definindo e implementando orientações para a obtenção, afetação e aplicação dos recursos financeiros necessários aos estabelecimentos e serviços do SNS, definindo o sistema de preços e de contratação da prestação de cuidados de saúde e acompanhando e reportando a execução dos recursos financeiros, em articulação com a DE-SNS, I. P.;\n\nb) Planear e desenvolver as políticas de recursos humanos na saúde, designadamente definindo normas e orientações relativas a profissões, exercício profissional, regimes de trabalho, negociação coletiva, registo dos profissionais, bases de dados dos recursos humanos, ensino e formação profissional, bem como realizar estudos para caracterização dos recursos humanos, das profissões e exercícios profissionais no setor da saúde;\n\nc) Planear a malha de instalações e equipamentos de saúde, garantindo o seu desenvolvimento equilibrado no território nacional, e definir as normas e requisitos técnicos a que devem obedecer, em articulação com a DE-SNS, I. P.;\n\nd) Prover o SNS com os adequados sistemas de informação e comunicação e mecanismos de racionalização de compras recorrendo para o efeito à entidade pública prestadora de serviços partilhados ao SNS;\n\ne) Coordenar e centralizar a produção de informação e estatísticas dos prestadores de cuidados de saúde, nomeadamente recursos financeiros e humanos, em articulação com a DE-SNS, I. P.;\n\nf) (Revogada.)\n\ng) (Revogada.)\n\nh) Assegurar e coordenar a elaboração do orçamento do MS e do SNS, bem como acompanhar e gerir a respectiva execução;\n\ni) Promover a aplicação das medidas de política de organização e de recursos humanos definidas para a Administração Pública;\n\nj) Efectuar o controlo da gestão através da avaliação continuada dos indicadores de desempenho e da prática das instituições e serviços do sistema de saúde, bem como desenvolver e implementar modelos de gestão de risco económico-financeiro para o sistema de saúde;\n\nk) (Revogada.)\n\nl) Prosseguir as atribuições conferidas por lei em matéria de terapêuticas não convencionais;\n\nm) Prosseguir as atribuições conferidas por lei em matéria de prestação de cuidados de saúde transfronteiriços;\n\nn) (Revogada);\n\no) Assegurar a harmonização em matéria de tabelas e nomenclaturas do Serviço Nacional de Saúde com os subsistemas públicos de saúde;\n\np) (Revogada.)\n\nq) Assegurar o Inventário Nacional dos Profissionais de Saúde.\n\nr) Celebrar, sob proposta da Direção Executiva do Serviço Nacional de Saúde, I. P. (DE-SNS, I. P.), acordos com entidades prestadoras de cuidados de saúde, entidades do setor privado ou social e com profissionais em regime de trabalho independente, incluindo nas áreas dos cuidados continuados integrados e cuidados paliativos, bem como celebrar e acompanhar os contratos em regime de parceria público-privada;\n\ns) Garantir a elaboração dos planos plurianuais de recursos humanos, financeiros e de investimentos em instalações e equipamentos, em articulação com a DE-SNS, I. P.;\n\nt) Coordenar no âmbito do MS a implementação de medidas na área da sustentabilidade ambiental e eficiência energética.\n\n3 - Para efeitos do disposto na alínea d) do número anterior a ACSS, I. P., contratualiza com a SPMS - Serviços Partilhados do Ministério da Saúde, E. P. E., o respetivo contrato-programa, em articulação com a DE-SNS, I. P.\n\n4 - À ACSS, I. P., cabe ainda a coordenação e acompanhamento da execução dos contratos de gestão em regime de parceria público-privada, dos contratos-programa com entidades do sector empresarial do Estado e de outros contratos de prestação de cuidados de saúde celebrados com entidades do sector privado e social.\n\n5 - (Revogado.)\n\n6 - A ACSS, I. P., pode prestar apoio logístico e assegurar o pagamento de despesas relativas a actividades desenvolvidas por grupos de trabalho, comissões técnicas e científicas ou outras entidades na área da saúde cujo objecto não se integre directamente em qualquer dos serviços ou organismos do Ministério da Saúde, nos termos a definir por despacho do membro do Governo responsável pela área da saúde.\n\n7 - No âmbito das suas atribuições, a ACSS, I. P., pode emitir instruções genéricas que vinculam os organismos e serviços do Ministério da Saúde, os serviços e estabelecimentos do SNS, bem como as entidades que integram funcionalmente o SNS, designadamente os estabelecimentos com gestão privada e as entidades com convenção com o SNS.\n\n8 - As entidades integradas no SNS, independentemente da natureza jurídica, incluindo as entidades com contrato ou convenção no âmbito do SNS devem prestar à ACSS, I. P., toda a informação indispensável à prossecução das suas atribuições, nomeadamente a necessária à coordenação, monitorização e controlo das actividades do SNS.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . As alterações ao presente artigo produzem efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 38/2018 - Diário da República n.º 111/2018, Série I de 2018-06-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2018-115487877), em vigor a partir de 2018-06-12\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 206/2015 - Diário da República n.º 186/2015, Série I de 2015-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2015-70361623), em vigor a partir de 2015-09-24\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "201540289": {
+   "fragment_id": "70888937",
+   "type": 11,
+   "heading": "Artigo 4.º — Órgãos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 4.º — Órgãos\n\n1- São órgãos da ACSS, I. P.:\n\na) O conselho directivo;\n\nb) O fiscal único;\n\nc) O conselho consultivo.\n\n2 - (Revogado).\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . A revogação do n.º 2 do presente artigo produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "201540290": {
+   "fragment_id": "70900485",
+   "type": 11,
+   "heading": "Artigo 7.º-A — Comissão Nacional de Cuidados Paliativos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+   ],
+   "markdown": "###### Artigo 7.º-A — Comissão Nacional de Cuidados Paliativos\n\n1 - A Comissão Nacional de Cuidados Paliativos é nos termos da Lei n.º 52/2012, de 5 de setembro, o órgão responsável pela coordenação nacional da Rede Nacional de Cuidados Paliativos.\n\n2 - A Comissão Nacional de Cuidados Paliativos é composta por cinco elementos, a designar por despacho do membro do Governo responsável pela área da saúde, sob proposta do presidente do conselho diretivo da ACSS, I.P.\n\n3 - O presidente da Comissão Nacional de Cuidados Paliativos, a designar de entre os elementos e nos termos referidos no número anterior, e um outro elemento que a integre, devem ser profissionais de saúde com formação específica e experiência em cuidados paliativos.\n\n4 - O exercício de funções na Comissão Nacional de Cuidados Paliativos não é remunerado.\n\n5 - A Comissão Nacional de Cuidados Paliativos aprova o seu regulamento interno, o qual é homologado pelo conselho diretivo da ACSS, I.P.\n\n> Nota: [Artigo 17.º, Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019) . A revogação do presente artigo produz efeitos com a entrada em vigor da Lei do Orçamento do Estado para 2023.\n\n> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 61/2022 - Diário da República n.º 185/2022, Série I de 2022-09-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/61-2022-201414019), em vigor a partir de 2022-10-01\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 173/2014 - Diário da República n.º 224/2014, Série I de 2014-11-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/173-2014-58940164), em vigor a partir de 2014-12-01"
+  },
+  "887190664": {
+   "fragment_id": "70888940",
+   "type": 11,
+   "heading": "Artigo 7.º — Conselho consultivo",
+   "in_force_from": "2024-10-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+   ],
+   "markdown": "###### Artigo 7.º — Conselho consultivo\n\n1 - O conselho consultivo é o órgão de consulta, apoio e participação na definição das linhas gerais de actuação da ACSS, I. P..\n\n2 - O conselho consultivo da ACSS, I. P., tem a seguinte composição:\n\na) O presidente do conselho directivo da ACSS, I. P., que preside;\n\nb) Os restantes membros do conselho directivo da ACSS, I. P.;\n\nc) O secretário-geral do Ministério da Saúde;\n\nd) O director-geral da Saúde;\n\ne) O presidente do conselho directivo do INFARMED, I. P.;\n\nf) (Revogada.)\n\ng) O diretor executivo da DE-SNS, I. P.\n\n3 - O conselho consultivo pode, ainda, integrar especialistas ou personalidades de reconhecido mérito convidados pelo conselho directivo em função das matérias que constituam a ordem de trabalhos das reuniões.\n\n4 - O conselho consultivo reúne, ordinariamente, duas vezes por ano e, extraordinariamente, sempre que convocado pelo seu presidente.\n\n5 - A participação nas reuniões do conselho consultivo não é remunerada.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01"
+  }
+ }
+}

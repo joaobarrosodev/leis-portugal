@@ -1,0 +1,96 @@
+---
+schema_version: '1.0'
+id: pt:dre:507654:por
+title: Portaria n.º 99/76
+short_title: null
+summary: Manda aplicar as disposições constantes da Portaria n.º 636/75, de 5 de Novembro, ao transporte de mercadorias na
+  Sociedade Estoril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Comércio Interno e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 99/76
+official_date: null
+publication_date: '1976-02-24'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 46/1976, Série I de 1976-02-24
+  number: '46'
+  series: I
+  supplement: null
+  pages: 379 - 379
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/02/04600/03790379.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '507654'
+  dre_path: /dr/detalhe/portaria/99-1976-507654
+  internal: pt:dre:507654:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-1976-507654
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/99-1976-507654
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-02-24T00:00:00Z'
+integrity:
+  source_sha256: 0d956234f8f88bb468271af9f2d0b58b925f05fd1c627123314adfcc3acfe9f7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-99-507654.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 99/76
+
+de 24 de Fevereiro
+
+Considerando a necessidade de uniformizar os preços de transporte de mercadorias e de operações acessórias e bem assim a classificação geral de mercadorias nas duas empresas ferroviárias, Caminhos de Ferro Portugueses e Sociedade Estoril;
+
+Usando da faculdade conferida pelo n.º 2 do artigo 2.º do [Decreto-Lei n.º 329-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/329-a-1974-560231), de 10 de Julho, e pelo artigo 9.º do [Decreto-Lei n.º 80/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/80-1973-684579), de 2 de Março:
+
+Manda o Governo da República Portuguesa, pelos Secretários de Estado do Abastecimento e Preços e dos Transportes e Comunicações, o seguinte:
+
+###### Artigo único. São aplicáveis ao transporte de mercadorias na Sociedade Estoril as disposições constantes da [Portaria n.º 636/75](https://diariodarepublica.pt/dr/detalhe/portaria/636-1975-312793), de 5 de Novembro.
+
+Secretarias de Estado do Abastecimento e Preços e dos Transportes e Comunicações, 13 de Fevereiro de 1976. - O Secretário de Estado do Abastecimento e Preços, Mário Martins Baptista. - O Secretário de Estado dos Transportes e Comunicações, António Machado Rodrigues.

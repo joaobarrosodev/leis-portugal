@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:560268:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-910324587",
+ "dre_path": "/dr/detalhe/decreto-lei/236-2000-560268",
+ "source_lastmod": "2025-03-10",
+ "versions": [
+  {
+   "date": "2000-09-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "910323537",
+    "910323538",
+    "910323539",
+    "910323540",
+    "910323541",
+    "910323542",
+    "910323543",
+    "910323544",
+    "910323545",
+    "910323546",
+    "910323547",
+    "910323548",
+    "910323549"
+   ]
+  }
+ ],
+ "fragments": {
+  "910323537": {
+   "fragment_id": "910324588",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 236/2000\n\nde 26 de Setembro\n\nA Lei n.º 67/98, de 26 de Outubro, que transpôs para a ordem jurídica interna a Directiva n.º 95/46/CE, do Parlamento Europeu e do Conselho, de 24 de Outubro de 1995, estabelece que o tratamento dos dados pessoais deve processar-se de forma transparente e no estrito respeito pela reserva da vida privada, bem como pelos direitos, liberdades e garantias fundamentais do cidadão.\n\nA Inspecção-Geral das Actividades Económicas (IGAE) é, de acordo com a sua Lei Orgânica (Decreto-Lei n.º 269-A/95, de 19 de Outubro), um órgão de polícia criminal, tendo intervenção efectiva na prevenção e repressão de ilícitos de natureza criminal e contra-ordenacional que se verifiquem no âmbito das suas competências.\n\nO recurso às novas tecnologias, nomeadamente à informática, assume um papel vital e preponderante na modernização dos órgãos públicos, quer ao nível administrativo quer ao nível judicial.\n\nDeste modo, urge implementar um sistema de tratamento informatizado de dados pessoais que, de forma eficiente e prática, permita a obtenção de informação actual relativa à actividade da IGAE no plano criminal e contra-ordenacional, nomeadamente a que respeita ao conteúdo dos processos já objecto de decisão ou em curso.\n\nPor outro lado, pretende-se igualmente o controlo de todo o tipo de expediente que circula no seu interior, nomeadamente todos os documentos e ou processos de outra natureza que entram na IGAE, os que esta reenvia para as entidades competentes e aqueles que seguem um circuito meramente interno.\n\nPor fim, e tendo em atenção a existência de um cadastro relativamente a agentes económicos, em cumprimento do disposto no artigo 80.º do Decreto-Lei n.º 28/84, de 20 de Janeiro, cujo teor importa aproveitar, consagra-se igualmente a sua inserção no sistema de tratamento informatizado de dados pessoais cuja criação se regula através do presente diploma.\n\nFoi ouvida a Comissão Nacional de Protecção de Dados.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "910323538": {
+   "fragment_id": "910324589",
+   "type": 11,
+   "heading": "Artigo 1.º — Denominação e finalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Denominação e finalidade\n\n1 - É criada, na IGAE, uma aplicação informática de tratamento de dados pessoais, denominada «GESTIGAE».\n\n2 - A GESTIGAE tem por finalidade organizar e manter actualizada toda a informação necessária ao exercício das atribuições da IGAE, previstas no artigo 3.º do Decreto-Lei n.º 269-A/95, de 19 de Outubro, através do registo das actividades ilícitas detectadas e da sua gestão interna."
+  },
+  "910323539": {
+   "fragment_id": "910324590",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito da GESTIGAE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito da GESTIGAE\n\n1 - A GESTIGAE é uma aplicação informática de tratamento de dados pessoais e dados relativos a bens jurídicos, integrando informação existente na IGAE, no âmbito das atribuições que lhe são cometidas por lei, ou proveniente de outras entidades, sobre:\n\na) Número de processos já objecto de decisão à data da sua criação, aproveitando-se para o efeito os dados existentes no cadastro a que se refere o artigo 80.º do Decreto-Lei n.º 28/84, de 20 de Janeiro;\n\nb) Número de processos em curso na IGAE na mesma data e suas incidências, tais como apreensões efectuadas ou infracções acessórias cometidas pelos agentes económicos;\n\nc) Identificação dos documentos entrados na IGAE, qualquer que seja a sua proveniência;\n\nd) Identificação dos documentos saídos da IGAE, qualquer que seja o seu destinatário;\n\ne) Identificação dos documentos que circulam internamente na IGAE.\n\n2 - A recolha de dados para tratamento informático no âmbito da GESTIGAE limita-se ao estritamente necessário ao exercício das competências legais da IGAE, bem como a permitir o controlo de todos os processos e expediente entrado, em circulação e saído das suas instalações."
+  },
+  "910323540": {
+   "fragment_id": "910324591",
+   "type": 11,
+   "heading": "Artigo 3.º — Dados recolhidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dados recolhidos\n\n1 - Os dados pessoais recolhidos no âmbito da GESTIGAE são:\n\na) O nome, a nacionalidade, a situação profissional, a morada, o telefone, o fax e o endereço do correio electrónico, caso existam, bem como o número dos respectivos documentos de identificação;\n\nb) A identificação dos processos, o tipo de infracção e a descrição sumária dos respectivos termos relevantes, nomeadamente quanto ao seu destino final, sanção acessória eventualmente aplicada e entidade decisora.\n\n2 - Relativamente ao estabelecimento individual de responsabilidade limitada e às pessoas colectivas ou equiparadas são, ainda, recolhidos o nome, a firma ou denominação, o endereço ou sede social, o número de identificação de pessoa colectiva ou número de contribuinte, a natureza da sua actividade e a identificação dos seus representantes."
+  },
+  "910323541": {
+   "fragment_id": "910324592",
+   "type": 11,
+   "heading": "Artigo 4.º — Recolha de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Recolha de dados\n\n1 - Os dados referentes às condenações, crimes e contra-ordenações devem ser exactos, pertinentes, actuais e não exceder a finalidade determinante da sua recolha, devendo ser seleccionados antes do seu registo informático.\n\n2 - Qualquer outra informatização registada, que respeite à gestão interna da IGAE, será actualizada de dois em dois anos.\n\n3 - As diferentes categorias de dados recolhidos devem, na medida do possível, ser diferenciadas em função do grau de exactidão ou de fidedignidade, devendo ser distinguidos os dados factuais dos que comportem uma apreciação sobre os factos.\n\n4 - Os dados pessoais constantes da GESTIGAE são recolhidos a partir de documentos constantes dos processos ou quaisquer outros avulsos que entrem na IGAE.\n\n5 - Os dados pessoais constantes da GESTIGAE podem ainda ser recolhidos a partir de informações recebidas ou conhecidas pela IGAE, no exercício das suas atribuições, e emanarem de outros órgãos de polícia criminal ou serviços públicos, sempre que tal se mostre necessário e exista habilitação legal que lhe permita aceder a dados no âmbito das suas competências."
+  },
+  "910323542": {
+   "fragment_id": "910324593",
+   "type": 11,
+   "heading": "Artigo 5.º — Acesso directo aos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acesso directo aos dados\n\n1 - Os serviços centrais, as direcções regionais e as delegações distritais da IGAE acedem à GESTIGAE via linha de transmissão de dados.\n\n2 - A comunicação de dados por transmissão apenas pode ser efectuada nos termos do n.º 1, não podendo os dados ser transmitidos a terceiros, salvo o disposto no artigo seguinte."
+  },
+  "910323543": {
+   "fragment_id": "910324594",
+   "type": 11,
+   "heading": "Artigo 6.º — Comunicação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comunicação de dados\n\nNo âmbito da cooperação referida no n.º 5 do artigo 4.º do presente diploma, os dados pessoais constantes da GESTIGAE podem ser comunicados a outros órgãos de polícia criminal ou serviços públicos, quando devidamente identificados e no quadro das atribuições do órgão ou serviço requisitante, quando, num caso determinado:\n\na) Exista obrigação ou autorização legal nesse sentido ou autorização expressa da Comissão Nacional de Protecção de Dados;\n\nb) Os dados sejam indispensáveis ao destinatário para o cumprimento das suas competências próprias e desde que a finalidade da recolha ou do tratamento dos dados pelo destinatário não seja incompatível com a finalidade determinante da recolha na origem ou com as obrigações legais da IGAE."
+  },
+  "910323544": {
+   "fragment_id": "910324595",
+   "type": 11,
+   "heading": "Artigo 7.º — Transferência de dados para outros países",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Transferência de dados para outros países\n\nAos casos de transferência de dados pessoais existentes na GESTIGAE para países da União Europeia ou para países terceiros aplica-se o disposto nos artigos 18.º a 20.º da Lei n.º 67/98, de 26 de Outubro, devendo, no entanto e em todos os casos, respeitar os critérios definidos nas alíneas a) e b) do artigo anterior."
+  },
+  "910323545": {
+   "fragment_id": "910324596",
+   "type": 11,
+   "heading": "Artigo 8.º — Conservação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conservação de dados\n\n1 - Os dados pessoais inseridos na GESTIGAE serão conservados apenas durante o período estritamente necessário para os fins a que se destinam.\n\n2 - Sem prejuízo do disposto no número anterior, os dados pessoais inseridos na GESTIGAE são conservados:\n\na) No tocante às actividades ilícitas detectadas, pelo prazo de 6 anos, devendo ser apreciada a necessidade da sua conservação de 2 em 2 anos, a menos que se venham a verificar infundadas as razões que levaram ao seu registo, caso em que serão imediatamente apagados;\n\nb) No tocante à gestão interna da IGAE, pelo prazo de 15 anos, devendo ser apreciada a necessidade da sua manutenção de 5 em 5 anos.\n\n3 - Verificando-se a extinção do procedimento criminal ou contra-ordenacional, a prescrição ou o cumprimento da pena, a amnistia ou existindo sentença absolutória, os dados serão apagados, salvo quando a sua conservação seja justificada para fins investigatórios, pelo prazo máximo de três anos, devendo, nesses casos, ficar igualmente registada a razão que levou à sua manutenção."
+  },
+  "910323546": {
+   "fragment_id": "910324597",
+   "type": 11,
+   "heading": "Artigo 9.º — Direito de acesso, actualização e rectificação de dados pelo respectivo titular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direito de acesso, actualização e rectificação de dados pelo respectivo titular\n\n1 - A qualquer pessoa, devidamente identificada e que assim o solicite, por escrito, ao responsável pela GESTIGAE, é reconhecido o direito de conhecer o conteúdo do registo ou registos dos seus dados pessoais.\n\n2 - No caso de tratamento de dados pessoais relativos à segurança do Estado e à prevenção ou investigação criminal, o direito de acesso é exercido através da Comissão Nacional de Protecção de Dados ou de outra autoridade independente a quem a lei atribua a verificação do cumprimento da legislação de protecção de dados pessoais.\n\n3 - A actualização e a correcção de dados pessoais inexactos, o preenchimento dos que forem omissos e a supressão dos que forem indevidamente registados depende de solicitação nesse sentido, efectuada por escrito, ao responsável da GESTIGAE."
+  },
+  "910323547": {
+   "fragment_id": "910324598",
+   "type": 11,
+   "heading": "Artigo 10.º — Segurança da informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Segurança da informação\n\nPor forma a garantir a segurança da informação constante da GESTIGAE, deve observar-se o seguinte:\n\na) A entrada nas instalações utilizadas para o tratamento de dados pessoais será objecto de controlo, de maneira a impedir o acesso a pessoa não autorizada;\n\nb) Os suportes de dados serão objecto de controlo para prevenir a sua leitura, cópia, alteração ou retirada por qualquer pessoa não autorizada;\n\nc) A inserção de dados será objecto de controlo, a fim de se impedir a introdução bem como qualquer tomada de conhecimento, alteração ou eliminação não autorizada de dados pessoais;\n\nd) Os sistemas de tratamento de dados serão igualmente objecto de controlo, para que não venham a ser utilizados por pessoas não autorizadas, através de instalações de transmissão de dados;\n\ne) O acesso aos dados ficará dependente de controlo, de maneira que apenas pessoas autorizadas a eles possam aceder;\n\nf) A transmissão dos dados será objecto de controlo destinado a garantir que a sua utilização se limite às entidades autorizadas;\n\ng) A introdução de dados pessoais nos sistemas de tratamento será objecto de controlo, de modo que se possa verificar quais os dados introduzidos, o momento dessa introdução e o respectivo autor;\n\nh) O transporte de suportes de dados, assim como a sua transmissão, serão igualmente objecto de controlo para impedir que os dados possam ser lidos, copiados, alterados ou eliminados de forma não autorizada."
+  },
+  "910323548": {
+   "fragment_id": "910324599",
+   "type": 11,
+   "heading": "Artigo 11.º — Entidade responsável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entidade responsável\n\n1 - A entidade responsável pela GESTIGAE, para todos os efeitos legais, é a direcção da Inspecção-Geral das Actividades Económicas.\n\n2 - Cabe ao inspector-geral das Actividades Económicas, por si ou através de pessoa que designar, a responsabilidade de assegurar o direito de informação e de acesso aos dados pelos respectivos titulares e a correcção de inexactidões, bem como de velar para que a consulta ou a comunicação da informação respeite as condições previstas na lei."
+  },
+  "910323549": {
+   "fragment_id": "910324600",
+   "type": 11,
+   "heading": "Artigo 12.º — Sigilo profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sigilo profissional\n\nAquele que, no exercício das suas funções, tome conhecimento de dados pessoais registados na GESTIGAE fica obrigado a sigilo profissional, nos termos do disposto no artigo 17.º da Lei n.º 67/98, de 26 de Outubro."
+  }
+ }
+}

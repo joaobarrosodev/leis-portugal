@@ -1,0 +1,231 @@
+---
+schema_version: '1.0'
+id: pt:dre:122592101:por
+title: Decreto-Lei n.º 81-A/2019
+short_title: null
+summary: Procede à reorganização institucional do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Finanças
+official_number: 81-A/2019
+official_date: null
+publication_date: '2019-06-17'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 114/2019, 1º Suplemento, Série I de 2019-06-17
+  number: '114'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2994-(2) a 2994-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/06/11401/0000200003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-05-15'
+version_history:
+  file: decreto-lei-81-a-2019.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2019-06-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-05-15'
+    amending: pt:dre:163442523:por
+    amending_title: Decreto-Lei n.º 34-B/2021
+    changes:
+    - Altera Artigo 3.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/81-a/2019/p/cons/20210514/pt/html
+  oj: null
+  dre: '122592101'
+  dre_path: /dr/detalhe/decreto-lei/81-a-2019-122592101
+  internal: pt:dre:122592101:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-a-2019-122592101
+  metadata_url: https://data.dre.pt/eli/dec-lei/81-a/2019/p/cons/20210514/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-163442570
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-163442570
+  retrieved_at: '2026-10-22T12:41:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f06bf6693c439d36981926a5625123eea711009689f30ed97b1dcae1f29f1f53
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:41:49Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-81-a-2019.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Ministério da Administração Interna
+- SIRESP
+- Definição de Competências
+- Direção Geral do Tesouro e Finanças
+- Segurança Pública
+- Setor Empresarial do Estado
+- Secretaria Geral
+- Serviço Público
+- Comunicações
+- Setor Público
+- Aquisição de Títulos
+- Transmissão de Títulos
+relationships:
+- type: amended_by
+  target: pt:dre:163442523:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-b-2021-163442523
+  date: '2021-05-14'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/111/2012/05/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/157-a/2017/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/26/2002/02/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/26/2002/02/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/56/2003/04/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/56/2003/04/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/88/1999/08/12/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:41:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 81-A/2019
+
+Decreto-Lei n.º 81-A/2019
+
+de 17 de junho
+
+Estão decorridos cerca de 20 anos desde que, através da Resolução do Conselho de Ministros n.º 88/99, de 12 de agosto, o Governo reconheceu a importância vital de garantir a interoperacionalidade das comunicações de emergência e de segurança por meio da instalação e utilização de uma infraestrutura única que servisse de suporte às radiocomunicações das diversas entidades com atribuições nesses domínios, em detrimento da multiplicidade de redes que então existiam.
+
+Este reconhecimento iniciou o processo de criação do SIRESP, que ganhou corpo com as Resoluções do Conselho de Ministros n.os 26/2002, de 5 de fevereiro, e 56/2003, de 8 de abril, que consolidaram o desígnio da conceção e implementação de um sistema único, nacional, partilhado, baseado numa só infraestrutura, que deveria assegurar a satisfação das necessidades de comunicações das forças e serviços de emergência e de segurança, satisfazendo a intercomunicação e a interoperabilidade entre as diversas forças e serviços e, em caso de emergência, permitir a centralização do comando e da coordenação.
+
+Neste cenário, a organização institucional do SIRESP, após a sua entrada em funcionamento, assentou em dois pilares essenciais: a gestão e manutenção do sistema ficou a cargo de um parceiro privado, ao passo que a direção, controlo e acompanhamento ficaram a cargo de uma unidade de missão especificamente criada para o efeito - a UM-SIRESP - no seio do Direção-Geral de Infraestruturas e Equipamentos - DGIE, do Ministério da Administração Interna.
+
+Assim, 20 anos volvidos sobre o início do processo que conduziu ao desenvolvimento e instalação do SIRESP, importa fazer um balanço sobre a adequação da sua estrutura organizativa e institucional, nomeadamente, sobre se a mesma dá resposta às exigências que atualmente lhe são lançadas pelas forças e serviços de emergência e segurança, eles próprios confrontados com novos desafios no plano dos riscos coletivos naturais e tecnológicos que suscitam a sua intervenção.
+
+A creditar ao SIRESP está a sua demonstrada indispensabilidade para assegurar o funcionamento eficaz dos sistemas de segurança pública e proteção civil, traduzido na prestação diária de comunicações seguras a mais de 120 organismos e 433 Corpos de Bombeiros, e também para contribuir para o sucesso de missões de emergência e socorro em casos de catástrofe ou acidente grave que concitam a intervenção de múltiplos atores institucionais, serviços e meios, assim como a necessidade da sua eficiente coordenação operacional sob um comando único. A imprescindibilidade do funcionamento eficiente deste sistema tem vindo a ser demonstrada ao longo de mais de uma década de funcionamento na atividade diária permanente de organismos essenciais do Estado, na organização e segurança de grandes eventos ou eventos especiais e em missões de emergência e socorro, mas também, em situações em que o seu funcionamento deficiente permitiu identificar insuficiências e falhas tecnológicas e operacionais, algumas delas com consequências graves, e que impõem o seu contínuo melhoramento e adaptação.
+
+No plano da governação institucional, faz hoje sentido que o Estado tenha o domínio integral efetivo sobre a operação de um sistema que anualmente suporta mais de 35 milhões de chamadas a mais de 40.000 utilizadores e que envolve interesses tão essenciais da segurança do Estado e dos cidadãos, cumprindo-se deste modo o disposto na Resolução do Conselho de Ministros n.º 157-A/2017, de 27 de outubro.
+
+Justifica-se, assim, plenamente, uma reforma da estrutura institucional e organizativa do SIRESP, assente na transferência integral das funções relacionadas com a sua gestão, operação, manutenção, modernização e ampliação para a esfera pública e, por consequência, da estrutura empresarial e do estabelecimento em que assenta atualmente o desenvolvimento dessas funções.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei tem por objeto a reorganização institucional do SIRESP - Sistema Integrado das Redes de Emergência e Segurança de Portugal (rede SIRESP), com vista a assegurar, da forma mais eficiente e adequada à tutela do interesse público, a satisfação das necessidades de comunicações das forças e serviços de emergência e de segurança.
+
+###### Artigo 2.º — Responsabilidades do Estado
+
+1 - A gestão, operação, manutenção, modernização e ampliação da rede SIRESP e o respetivo acompanhamento e controlo são tarefas da responsabilidade do Estado, a serem prosseguidas nos termos dos números seguintes.
+
+2 - A coordenação, acompanhamento e fiscalização da gestão e manutenção da rede SIRESP compete à Secretaria-Geral do Ministério da Administração Interna, a quem cabe, igualmente, assegurar o apoio técnico ao utilizador, nomeadamente através da implementação de um centro de contacto que garanta um atendimento permanente e contínuo às entidades utilizadoras para resposta a eventuais dificuldades e solicitações.
+
+3 - A gestão, operação, manutenção, modernização e ampliação da rede SIRESP é da responsabilidade da SIRESP - Gestão de Redes Digitais de Segurança e Emergência, S. A. (SIRESP, S. A.), a quem cabe assegurar o correto funcionamento das redes e equipamentos que integram a rede SIRESP.
+
+4 - Sem prejuízo dos poderes gerais inerentes à função acionista decorrentes do Regime Jurídico do Setor Público Empresarial, cabe ao Governo o poder de intervir sobre as decisões relevantes dos órgãos da SIRESP, S. A., nomeadamente através da aprovação, autorização, revogação, ou suspensão de atos desses órgãos, nos termos a definir nos respetivos Estatutos.
+
+###### Artigo 3.º — Instrumentos de regulação contratual entre o Estado e a SIRESP, S. A.
+
+1 - A gestão, operação e manutenção da rede SIRESP por parte da SIRESP, S. A. é regulada pelo contrato celebrado entre o Estado e a SIRESP, S. A., em 4 de julho de 2006 e alterado em 29 de dezembro de 2015, e pelos demais instrumentos ou atos vigentes, até ao respetivo termo.
+
+2 - (Revogado).
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 34-B/2021 - Diário da República n.º 94/2021, 3º Suplemento, Série I de 2021-05-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-b-2021-163442523), em vigor a partir de 2021-05-15
+
+###### Artigo 4.º — Aquisição de participações sociais da SIRESP, S. A.
+
+1 - São transmitidas para o Estado, através da Direção-Geral do Tesouro e Finanças, as participações sociais dos atuais acionistas privados da sociedade SIRESP, S. A., correspondentes a 33.500 ações ordinárias, tituladas e nominativas com o valor nominal de 32,29 euros cada, representativas de 67 % do respetivo capital social, livres de quaisquer ónus, encargos ou direitos de terceiro, de acordo com as condições estabelecidas em declaração unilateral vinculativa subscrita pelos acionistas privados.
+
+2 - Na transmissão aquisitiva das ações a que se refere o número anterior, o valor de aquisição corresponde ao efetivo património líquido da SIRESP, S. A., à data de 31 de dezembro de 2018, de acordo com as últimas contas auditadas e aprovadas em assembleia geral da sociedade, deduzido de 10 %, em conformidade com a declaração unilateral vinculativa referida no número anterior.
+
+3 - Os créditos que, à data da transmissão, sejam detidos pelos acionistas privados sobre a sociedade SIRESP, S. A., e que tenham a natureza de suprimentos são pelo presente diploma transmitidos para o Estado, pelo respetivo valor nominal, acrescido de juros vencidos até à data da entrada em vigor do presente diploma.
+
+4 - O pagamento dos valores de aquisição referidos nos números anteriores é assegurado através de verbas do Capítulo 60, gerido pela Direção-Geral do Tesouro e Finanças.
+
+5 - O presente decreto-lei constitui título bastante para os atos de registo a que haja lugar.
+
+6 - Após a transmissão de ações referida no n.º 1, o acompanhamento, execução, modificação e fiscalização dos contratos identificados no artigo 3.º fica dispensado do cumprimento do regime do Decreto-Lei n.º 111/2012, de 23 de maio.
+
+###### Artigo 5.º — Regime aplicável à SIRESP, S. A.
+
+Com a transmissão das participações sociais prevista no artigo anterior, a SIRESP, S. A.:
+
+a) Passa a reger-se pelo regime jurídico aplicável às entidades do setor público empresarial com as especificidades previstas no presente decreto-lei e nos seus estatutos;
+
+b) Mantém-se titular da universalidade dos bens, direitos e obrigações legais e das posições contratuais nos contratos que se encontrem a ser executados à data da entrada em vigor do presente diploma, designadamente os contratos de trabalho em que a sociedade seja parte, respeitando-se integralmente os direitos dos trabalhadores;
+
+c) Continua a exercer todas as funções que lhe estejam cometidas por força de lei, de contrato, de outros instrumentos ou atos e dos seus estatutos.
+
+###### Artigo 6.º — Aquisição de bens e serviços
+
+Enquanto elemento essencial para a segurança de pessoas e bens e do próprio Estado, os contratos relativos a aquisição dos bens e serviços necessários, nomeadamente, à conceção, fornecimento, instalação, operação, manutenção, modernização e à ampliação operacional e tecnológica do SIRESP são subsumíveis no âmbito do disposto na alínea i) do n.º 4 do artigo 5.º do Código dos Contratos Públicos.
+
+###### Artigo 7.º — Entrada em vigor e produção de efeitos
+
+1 - O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação, com exceção do n.º 4 do artigo 2.º, que entra em vigor em simultâneo com a transmissão das participações sociais da SIRESP, S. A., para o Estado, nos termos do número seguinte.
+
+2 - A transmissão para o Estado das participações sociais da SIRESP, S. A., e dos créditos que tenham a natureza de suprimentos, nos termos referidos no artigo 4.º, ocorre a 1 de dezembro de 2019.
+
+3 - Após a transmissão prevista no n.º 2, os estatutos da SIRESP, S. A., devem ser alterados em conformidade com o disposto no presente diploma no prazo máximo de 60 dias.
+
+Visto e aprovado em Conselho de Ministros de 13 de junho de 2019. - António Luís Santos da Costa - Álvaro António da Costa Novo - Eduardo Arménio do Nascimento Cabrita.
+
+Promulgado em 16 de junho de 2019.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 17 de junho de 2019.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+112380107

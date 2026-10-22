@@ -1,0 +1,196 @@
+---
+schema_version: '1.0'
+id: pt:dre:627386:por
+title: Portaria n.º 19916
+short_title: null
+summary: Estabelece o regime de duas classes nos caminhos de ferro do continente português e altera algumas disposições da
+  tarifa geral de transportes
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Comunicações - Direcção-Geral de Transportes Terrestres
+proposing_entity: null
+official_number: '19916'
+official_date: null
+publication_date: '1963-06-22'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 146/1963, Série I de 1963-06-22
+  number: '146'
+  series: I
+  supplement: null
+  pages: 767 - 768
+  pdf_url: https://files.diariodarepublica.pt/1s/1963/06/14600/07670768.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '627386'
+  dre_path: /dr/detalhe/portaria/19916-1963-627386
+  internal: pt:dre:627386:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19916-1963-627386
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19916-1963-627386
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1963-06-22T00:00:00Z'
+integrity:
+  source_sha256: 319f96ec87dce2a374b24f2d5f3ad239e94aaeb2b85cfeaa4f6d23139999250b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1963/DRE-1963-19916-627386.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 2
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19916
+
+Desde há anos que se tem vindo a procurar aplicar na exploração dos caminhos de ferro do continente português a política de redução de classes já adoptada e consagrada pela generalidade dos caminhos de ferro europeus, que fazem parte da União Internacional de Caminhos de Ferro (U. I. C.).
+
+Para se alcançar tal objectivo, vão as empresas que exploram caminhos de ferro adaptando gradualmente o seu parque de material circulante às novas classes previstas - 1.ª e 2.ª - e adquirindo os veículos com os indispensáveis requisitos de comodidade exigidos para a classe inferior.
+
+O novo regime de duas classes a estabelecer resulta, pois, da manutenção das características do material circulante da classe superior - designada actual e futuramente por 1.ª classe - e da melhoria, através de uma adaptação gradual, das características do material circulante da classe inferior - actualmente designada por 3.ª classe e futuramente por 2.ª classe.
+
+A adaptação e aquisição referidas estão e irão acarretar às empresas apreciáveis encargos, para os quais, neste momento, haverá que procurar alguma cobertura com vista a não agravar a situação financeira dos caminhos de ferro.
+
+Assim, entende-se fixar o preço da futura 2.ª classe em $32 por passageiro/quilómetro, ou seja com um nível tarifário inferior em 20 por cento ao da actual 2.ª classe, o que equivale, por outro lado, a um aumento de 6,66 por cento em relação ao preço de $30 da actual 3.ª classe.
+
+O preço da 1.ª classe passará de $50 para $54 por passageiro/quilómetro, mantendo-se, porém, um preço especial que se eleva de $46 para $48 por passageiro/quilómetro e cuja aplicação se processará em termos idênticos aos actuais.
+
+São alteradas, paralelamente, algumas disposições da tarifa geral de transportes. Assim, autoriza-se que os arredondamentos das cobranças, presentemente fixados em $10, passem para $50 e, no sentido de disciplinar melhor a ocupação de lugares, aproveita-se a oportunidade para se alterarem algumas regras vigentes sobre a matéria que não satisfazem às realidades do momento actual.
+
+Nestes termos e em conformidade com o artigo 2.º do [Decreto-Lei n.º 27665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27665-1937-419843), de 24 de Abril de 1937, e o § 1.º do artigo 1.º do [Decreto-Lei n.º 37351](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37351-1949-387582), de 24 de Março de 1949:
+
+Manda o Governo da República Portuguesa, pelo Ministro das Comunicações, o seguinte:
+
+1.º É estabelecido o regime de duas classes nos caminhos de ferro do continente português, as quais passarão a designar-se por 1.ª e 2.ª classes.
+
+2.º São modificadas as redacções dos artigos 3.º, 8.º e 17.º do título I - Passageiros da tarifa geral de transportes nas linhas férreas do continente Português abertas ao serviço público, com excepção das de tranvias urbanas, o capítulo IV e os artigos 50.º, 74.º, 129.º, 130.º e 132.º da tarifa geral de transportes em grande e pequena velocidade e, ainda, o artigo 3.º da tarifa de transportes na via fluvial entre as estações de Lisboa e Barreiro, conforme o texto em anexo.
+
+3.º O novo regime e as alterações correspondentes entram em vigor a partir do dia 1 de Julho de 1963.
+
+Ministério das Comunicações, 22 de Junho de 1963. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.
+
+Tarifa geral de transportes
+
+## TÍTULO I — Passageiros
+
+###### ARTIGO 3.º — Preços
+
+1. O preço dos bilhetes corresponde sempre ao percurso total a efectuar, expresso em fracções indivisíveis de um quilómetro, e calcula-se pelas seguintes bases, por passageiro e quilómetro.
+
+1.ª classe (base 1.ª) ... $54
+
+2.ª classe (base 2.ª) ... $32
+
+2. As cobranças a efectuar nos termos do número anterior ficam sujeitas aos seguintes mínimos por passageiro:
+
+1.ª classe ... 3$00
+
+2.ª classe ... 2$00
+
+3. Não podendo oferecer-se a mesma classe em todo o trajecto, o preço da passagem é a soma dos preços correspondentes às classes utilizadas nos percursos respectivos.
+
+4. Se a importância a cobrar por cada bilhete não for múltipla de $50, deve ser arredondada para o múltiplo de $50 imediatamente superior.
+
+###### ARTIGO 8.º — Passageiros conduzidos em maca ou em cadeirinha
+
+Na alínea b) do n.º 5 deste artigo, a referência à 3.ª classe é alterada para 2.ª classe.
+
+###### ARTIGO 17.º — Volumes portáteis e animais vivos acompanhando os passageiros
+
+A redacção da alínea a) do n.º 3 deste artigo é substituída pela seguinte:
+
+a) Cães. - Devem ser apresentados a despacho e pelo seu transporte cobrar-se-á o que corresponder segundo esta tarifa. Nas carruagens de 2.ª classe admite-se que os cães sigam simplesmente açaimados; na 1.ª classe só se aceitam cães de pequena corpulência e desde que se apresentem em taras apropriadas ou sejam conduzidos ao colo, não podendo, seja por que motivo for, ser colocados nas redes, por cima dos bancos.
+
+Tarifa geral para transportes em grande e pequena velocidade
+
+A redacção das disposições que encimam o articulado do capítulo IV é substituída pela seguinte:
+
+### CAPÍTULO IV — Cães
+
+BASE 7.ª
+
+Por cabeça e quilómetro - metade dos preços previstos no n.º 1 do artigo 3.º da tarifa geral de transportes - Título I, Passageiros, para a 2.ª classe (base 2.ª).
+
+Mínimo de distância a taxar - 6 km.
+
+Mínimos de cobrança por cada remessa - os previstos no n.º 2 do artigo 3.º da tarifa geral de transportes - Título I, Passageiros, para a 2.ª classe.
+
+###### ARTIGO 50.º
+
+A referência a 3.ª classe é alterada para 2.ª classe.
+
+###### ARTIGO 74.º
+
+A referência a 3.ª classe é alterada para 2.ª classe.
+
+###### ARTIGO 129.º
+
+A referência a 3.ª classe é alterada para 2.ª classe.
+
+###### ARTIGO 130.º
+
+A referência a 3.ª classe é alterada para 2.ª classe.
+
+###### ARTIGO 132.º
+
+A referência a 3.ª classe é eliminada.
+
+O quadro das bases dos preços da tarifa geral (grande velocidade) é alterado como segue, na parte relativa a passageiros.
+
+Bases dos preços da tarifa geral
+
+Grande velocidade
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1963/06/14600/07670768.pdf))](https://files.diariodarepublica.pt/1s/1963/06/14600/07670768.pdf)
+
+Tarifa de transportes na via fluvial entre as estações de Lisboa e Barreiro
+
+###### ARTIGO 3.º — Ocupação de lugares
+
+Os passageiros munidos de bilhetes que dêem direito a viajar na via fluvial e na via férrea devem ocupar lugar:
+
+À ré, quando portadores de bilhetes válidos para a 1.ª classe na via férrea;
+
+À proa, quando portadores de bilhetes válidos para a 2.ª classe na via férrea.
+
+Ministério das Comunicações, 22 de Junho de 1963. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

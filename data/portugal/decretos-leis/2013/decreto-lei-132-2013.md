@@ -1,0 +1,1046 @@
+---
+schema_version: '1.0'
+id: pt:dre:500036:por
+title: Decreto-Lei n.º 132/2013
+short_title: null
+summary: Estabelece o regime de constituição e funcionamento do Conselho Nacional de Cultura e das suas secções especializadas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 132/2013
+official_date: null
+publication_date: '2013-09-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/2013, Série I de 2013-09-13
+  number: '177'
+  series: I
+  supplement: null
+  pages: 5840 - 5847
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/09/17700/0584005847.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-09-08'
+version_history:
+  file: decreto-lei-132-2013.versoes.json
+  count: 4
+  source_lastmod: '2026-09-11'
+  versions:
+  - date: '2013-09-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-04-25'
+    amending: pt:dre:115172414:por
+    amending_title: Decreto-Lei n.º 25/2018
+    changes:
+    - Altera Artigo 22.º
+  - date: '2023-12-27'
+    amending: pt:dre:835674294:por
+    amending_title: Decreto-Lei n.º 129/2023
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+  - date: '2026-09-08'
+    amending: pt:dre:1167595459:por
+    amending_title: Decreto-Lei n.º 178/2026
+    changes:
+    - Adita Artigo 17.º-A
+    - Adita Artigo 25.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Revoga Artigo 19.º
+    - Revoga Artigo 28.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/132/2013/09/13/p/dre/pt/html
+  oj: null
+  dre: '500036'
+  dre_path: /dr/detalhe/decreto-lei/132-2013-500036
+  internal: pt:dre:500036:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/132-2013-500036
+  metadata_url: https://data.dre.pt/eli/dec-lei/132/2013/09/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-835804846
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2013-835804846
+  retrieved_at: '2026-10-22T13:53:37Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-09-11T00:00:00Z'
+integrity:
+  source_sha256: 0e5c5fbc95a145ad059f0cd0f2bc9e6327b1d1673beae8b871440b882f261568
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:53:37Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-132-2013.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:115172414:por
+  label: Altera Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414
+  date: '2018-04-24'
+- type: amended_by
+  target: pt:dre:835674294:por
+  label: Altera Artigo 17.º; Altera Artigo 20.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294
+  date: '2023-12-26'
+- type: amended_by
+  target: pt:dre:1167595459:por
+  label: Adita Artigo 17.º-A; Adita Artigo 25.º-A; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo
+    6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 17.º; Altera Artigo 18.º;
+    Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º; Altera Artigo 23.º; Altera Artigo 24.º; Altera Artigo 25.º;
+    Altera Artigo 26.º; Altera Artigo 27.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459
+  date: '2026-09-07'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126-a/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/208/2012/09/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/208/2012/09/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/215/2006/10/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/36/2013/03/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/36/2013/03/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/35/2007/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/35/2007/03/29/p/dre
+article_structure:
+  article_count: 32
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:53:37Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 132/2013
+
+Decreto-Lei n.º 132/2013
+
+de 13 de setembro
+
+O Decreto Regulamentar n.º 35/2007, de 29 de março, concretizou a instituição do Conselho Nacional de Cultura (CNC), criado pelo Decreto-Lei n.º 215/2006, de 27 de outubro, como órgão consultivo do então Ministério da Cultura, dispondo de uma estrutura que funciona em plenário e em secções especializadas.
+
+Destas, seis encontram-se previstas no Decreto Regulamentar n.º 35/2007, de 29 de março, e duas foram criadas pelos Despachos n.os 3253/2010 e 3254/2010, ambos de 11 de fevereiro, publicados no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro de 2010.
+
+As secções especializadas do CNC contam com a participação de diversas entidades, serviços ou estruturas da Administração Pública e da sociedade civil, ligadas à área da cultura, que sofreram alterações ou evoluções nos últimos anos.
+
+No caso concreto das entidades da Administração Pública, verifica-se que, no âmbito da fusão de diversos serviços e organismos da administração direta e indireta do Estado da área da cultura, ocorreu a fusão da Direção-Geral do Livro e das Bibliotecas com a Direção-Geral dos Arquivos, que deu origem à Direção-Geral do Livro, dos Arquivos e das Bibliotecas, bem como a fusão do Instituto de Gestão do Património Arquitetónico e Arqueológico, I.P., com o Instituto dos Museus e da Conservação, I.P., que levou à criação da Direção-Geral do Património Cultural.
+
+Acresce a sucessão deste último serviço à Comissão para o Património Cultural Imaterial e a reestruturação do Gabinete de Planeamento, Estratégia, Avaliação e Relações Internacionais, que, associada à extinção da Secretaria-Geral do Ministério da Cultura, deu origem ao Gabinete de Estratégia, Planeamento e Avaliação Culturais.
+
+Tendo estas fusões e reestruturações operado através do Decreto-Lei n.º 126-A/2011, de 29 de dezembro, mostra-se necessário consagrar as alterações ocorridas no regime de constituição e funcionamento do Conselho Nacional de Cultura e das suas secções especializadas.
+
+Aproveita-se para introduzir alterações nas representações nas secções especializadas, tendo em vista a participação de entidades atualmente sem representação, atento o fim consultivo e especializado de cada uma daquelas secções. Neste sentido, revê-se a composição das secções especializadas e alarga-se a representação das Regiões Autónomas dos Açores e da Madeira.
+
+Finalmente, consagram-se no novo regime as secções especializadas das artes e da tauromaquia, até agora constantes dos aludidos Despachos n.os 3253/2010 e 3254/2010.
+
+Foram ouvidos, a título obrigatório, os órgãos de governo próprio das Regiões Autónomas.
+
+Foi ouvida, a título facultativo, a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+O Conselho Nacional de Cultura, abreviadamente designado por CNC, é o órgão consultivo do Governo para a área da cultura.
+
+###### Artigo 2.º — Missão
+
+O CNC tem por missão contribuir para a definição das políticas culturais, bem como emitir pareceres e recomendações sempre que solicitados pelo membro do Governo responsável pela área da cultura ou pelos serviços e organismos desta área.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 3.º — Competências
+
+Compete ao CNC:
+
+a) Apoiar a formulação e acompanhamento da política cultural da responsabilidade do Governo, através da cooperação entre a Administração Pública, personalidades de reconhecido mérito e representantes dos interesses económicos e sociais;
+
+b) Apreciar e emitir, sempre que solicitado pelo membro do Governo responsável pela área da cultura, pareceres e recomendações sobre questões relativas à concretização das políticas, objetivos e medidas que cumpre desenvolver pelos diversos serviços e organismos da área da cultura, no âmbito das respetivas atribuições e competências;
+
+c) Apreciar e emitir parecer sobre quaisquer matérias que lhe sejam submetidas pelo membro do Governo responsável pela área da cultura, bem como pelos presidentes das secções especializadas, neste último caso, desde que as mesmas caibam na esfera de competências das referidas secções.
+
+###### Artigo 4.º — Estrutura e funcionamento do Conselho Nacional da Cultura
+
+1 - O CNC é um órgão colegial que funciona em plenário e em secções especializadas.
+
+2 - As secções especializadas podem funcionar com carácter permanente ou temporário.
+
+3 - O plenário e as secções especializadas funcionam em sessões ordinárias ou extraordinárias.
+
+4 - [Revogado.]
+
+5 - Sem prejuízo das secções especializadas criadas pelo presente decreto-lei, podem, por despacho do membro do Governo responsável pela área da cultura, ser criadas outras secções especializadas.
+
+6 - Sempre que sejam criadas novas secções especializadas, o despacho de criação deve indicar, para além da respetiva área de intervenção, o seu tipo, composição, periodicidade de funcionamento, bem como designar o seu presidente.
+
+7 - No caso de a secção especializada a criar possuir carácter temporário, o despacho referido no número anterior deve ainda mencionar o respetivo período de duração.
+
+8 - Por razões excecionais, devidamente fundamentadas, pode o membro do Governo responsável pela área da cultura, por despacho, determinar que qualquer secção especializada temporária passe a funcionar com carácter de permanência.
+
+9 - A convocatória das reuniões de plenário e das secções especializadas é da responsabilidade do presidente ou de quem legalmente o substitua.
+
+10 - Sem prejuízo do disposto no número anterior, o membro do Governo responsável pela área da cultura pode, por sua iniciativa, convocar qualquer secção especializada.
+
+11 - Os representantes nomeados pelas entidades que integram o plenário e as secções especializadas não podem representar mais do que uma entidade.
+
+12 - O funcionamento do plenário e das secções especializadas obedece às regras previstas no Código do Procedimento Administrativo, no que respeita aos órgãos colegiais e, bem assim, ao disposto no presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 5.º — Competências dos presidentes das secções especializadas
+
+Sem prejuízo das competências que lhes sejam conferidas por lei ou neles delegadas, os presidentes das secções especializadas têm as seguintes competências:
+
+a) Submeter a homologação do membro do Governo responsável pela área da cultura a designação das personalidades de reconhecido mérito a integrar na secção especializada a que presidem;
+
+b) Convocar as reuniões ordinárias ou extraordinárias da secção especializada a que presidem;
+
+c) Presidir às reuniões das secções especializadas ou delegar essa competência num dos titulares de cargos de direção superior de 2.º grau dos serviços ou organismos de que são dirigentes máximos;
+
+d) Submeter a homologação do membro do Governo responsável pela área da cultura o regulamento da secção especializada a que preside, bem como qualquer deliberação dessa secção, desde que, por lei ou por outro ato normativo, a mesma revista carácter vinculativo;
+
+e) Zelar pelo rigoroso cumprimento das regras do Código do Procedimento Administrativo, no que respeita às regras de funcionamento dos órgãos colegiais.
+
+f) Submeter à homologação do membro do Governo responsável pela área da cultura, a cada três anos, a lista de entidades que integram a respetiva secção especializada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 6.º — Duração do mandato
+
+1 - Com exceção do presidente do plenário, dos presidentes das secções especializadas e dos demais membros que exercem os respetivos cargos por inerência, o mandato dos restantes elementos que integram o plenário ou as secções especializadas é de três anos, sem prejuízo da possibilidade de renúncia em qualquer momento.
+
+2 - Sempre que se verifique a cessação do exercício do cargo de direção superior nos serviços e organismos da área da cultura que integram diretamente ou se fazem representar no CNC, tanto no plenário como nas secções especializadas, é designado um novo representante, com a maior brevidade possível, de acordo com as seguintes regras:
+
+a) No caso da vacatura do cargo de direção superior de 1.º grau, o novo representante, que integra o plenário do CNC e preside à respetiva secção especializada permanente, é o seu substituto legal até à designação pelo membro do Governo responsável pela área da cultura do novo titular efetivo do referido cargo;
+
+b) No caso de se tratar de representante legal do presidente da secção especializada designado pelo membro do Governo responsável pela área da cultura, sob proposta do titular do cargo de direção superior cessante, cabe a este membro do Governo designar o novo substituto até à designação do novo titular do respetivo cargo de direção;
+
+c) As personalidades de reconhecido mérito designadas sob proposta do titular do cargo de direção superior cessante mantêm-se em funções até nova designação pelo membro do Governo responsável pela área da cultura, sob proposta do novo titular do cargo de direção superior.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 7.º — Regulamentos
+
+1 - O plenário do CNC e as secções especializadas que o integram elaboram e aprovam os respetivos regulamentos, bem como qualquer alteração aos mesmos, mediante maioria qualificada de dois terços dos membros presentes com direito a voto.
+
+2 - A aprovação e a alteração dos regulamentos do plenário e das secções especializadas são homologadas pelo membro do Governo responsável pela área da cultura.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 8.º — Quórum e deliberações
+
+1 - As sessões do plenário e das secções especializadas deliberam validamente, desde que esteja presente a maioria dos seus membros.
+
+2 - Sem prejuízo do disposto em regulamentos internos, as deliberações do plenário e das secções especializadas são tomadas por maioria simples dos membros votantes, tendo o presidente voto de qualidade em caso de empate.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 9.º — Eficácia das deliberações
+
+1 - As deliberações do plenário e das secções especializadas são eficazes com a aprovação das respetivas atas, nos termos previstos no Código do Procedimento Administrativo.
+
+2 - Nos casos em que, por imperativo legal expresso, as deliberações do CNC tenham de ser objeto de homologação pelo membro do Governo responsável pela área da cultura, as mesmas apenas adquirem eficácia depois da prática do respetivo ato.
+
+3 - Das atas das secções especializadas é sempre enviada cópia ao membro do Governo responsável pela área da cultura.
+
+###### Artigo 10.º — Colaboração
+
+1 - O CNC pode requerer a quaisquer entidades públicas ou privadas os elementos que considerar indispensáveis para a realização das suas tarefas.
+
+2 - Os serviços e organismos da área da cultura têm o dever de colaborar com o CNC, prestando-lhe toda a informação que, no âmbito das suas competências, este órgão lhes solicite.
+
+3 - Os serviços e organismos da Administração Central, Regional e Local do Estado colaboram com o CNC, prestando toda a informação que lhes seja solicitada pelo presidente do plenário ou das secções especializadas.
+
+###### Artigo 11.º — Direitos e garantias
+
+1 - Os membros do CNC são dispensados das suas atividades profissionais, públicas ou privadas, quando se encontrem no exercício efetivo de funções naquele órgão, sem perda de quaisquer direitos ou regalias.
+
+2 - Sempre que, no exercício das suas funções, os membros do CNC tenham necessidade de efetuar deslocações em território nacional que impliquem a ausência do local da sua residência ou do respetivo domicílio necessário, são abonadas ajudas de custo e de transporte, de acordo com as seguintes regras:
+
+a) Os membros do CNC que sejam titulares de cargos de direção superior ou intermédia ou a estes equiparados têm direito ao abono de ajudas de custo e de transporte, nos termos do regime aplicável aos trabalhadores em funções públicas;
+
+b) Os membros do CNC que sejam trabalhadores em funções públicas têm direito ao abono de ajudas de custo e de transporte, em função das respetivas carreira e categoria, nos termos do regime aplicável aos trabalhadores em funções públicas;
+
+c) Os membros do CNC que não detenham vínculo à Administração Pública têm direito ao abono de ajudas de custo e de transporte, nos termos a fixar por despacho dos membros do Governo responsáveis pelas áreas das finanças e da cultura.
+
+###### Artigo 12.º — Apoio logístico e administrativo
+
+1 - O apoio logístico e administrativo ao plenário do CNC ou a qualquer secção especializada, neste caso, desde que convocada pelo membro do Governo responsável pela área da cultura, é assegurado pelo Gabinete de Estratégia, Planeamento e Avaliação Culturais.
+
+2 - Nos restantes casos, o apoio administrativo e logístico às secções especializadas é assegurado pelo serviço ou organismo do qual o presidente da referida secção é dirigente máximo.
+
+###### Artigo 13.º — Despesas de funcionamento
+
+1 - Os encargos financeiros resultantes das despesas de funcionamento, bem como das despesas com deslocações dos membros do CNC, quando funcionar em plenário ou em secções especializadas convocadas pelo membro do Governo responsável pela área da cultura, são suportados pela dotação afeta ao gabinete deste membro do Governo, do orçamento do Gabinete de Estratégia, Planeamento e Avaliação Culturais.
+
+2 - Os encargos financeiros resultantes das despesas de funcionamento, bem como das inerentes às deslocações dos membros do CNC, quando este órgão funcionar em secções especializadas, são suportados pelo orçamento de funcionamento do serviço ou organismo de que o presidente da secção é dirigente máximo.
+
+3 - Excecionam-se do número anterior as despesas com as deslocações dos membros designados pelos Governos das Regiões Autónomas dos Açores e da Madeira que, em face da autonomia política e administrativa dos mesmos, devem ser suportadas pelos orçamentos dos governos regionais representados.
+
+###### Artigo 14.º — Competências do plenário
+
+Compete ao plenário do CNC:
+
+a) Apoiar o membro do Governo responsável pela área da cultura na definição, estratégia e desenvolvimento das políticas culturais para os diversos domínios de intervenção do Governo na área da cultura;
+
+b) Formular propostas e apoiar o membro do Governo responsável pela área da cultura na decisão sobre as políticas de investimento nos diferentes domínios de intervenção do Governo na área da cultura;
+
+c) Formular propostas e apoiar o membro do Governo responsável pela área da cultura na decisão sobre as áreas consideradas prioritárias para cada um dos domínios de intervenção do Governo na área da cultura;
+
+d) Formular propostas e apoiar o membro do Governo responsável pela área da cultura na decisão sobre os tipos e áreas objeto de apoios financeiros por parte do Governo na área da cultura;
+
+e) Apoiar o membro do Governo responsável pela área da cultura na definição e planeamento das ações conjuntas que, por iniciativa própria ou interministerial, envolvam os serviços e organismos da área da cultura, tanto a nível nacional como internacional;
+
+f) Pronunciar-se sobre propostas de contratos-programa, parcerias público-privadas e demais acordos de colaboração ou de cooperação, nos diversos domínios de intervenção do Governo na área da cultura com repercussão de âmbito local e regional, sempre que o membro do Governo responsável pela área da cultura o solicite.
+
+g) Formular propostas de articulação entre os organismos e serviços tutelados pelo membro do Governo responsável pela área da cultura, no quadro das políticas por este definidas;
+
+h) Formular propostas que contribuam para o alinhamento dos planos de atividades e prioridades operacionais dos organismos sob tutela, em coerência com os objetivos de política pública para o setor;
+
+i) Formular propostas de coordenação interinstitucional e de reforço da eficácia da ação pública;
+
+j) Partilhar boas práticas de gestão e identificar constrangimentos comuns de natureza legal, financeira ou organizacional e formular propostas com soluções articuladas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 15.º — Composição do plenário
+
+1 - O plenário do CNC é integrado:
+
+a) Pelo membro do Governo responsável pela área da cultura, que preside;
+
+b) Pelos demais membros do Governo com competências na área da cultura;
+
+c) Pelos vice-presidentes das Comissões de Coordenação e Desenvolvimento Regional, para a área da cultura;
+
+d) Pelos presidentes das secções especializadas;
+
+e) Pelos dirigentes máximos das entidades tuteladas pela área governativa da cultura;
+
+f) Pelo presidente da Academia de Belas-Artes;
+
+g) Pelo presidente do Conselho Académico da Academia Internacional da Cultura Portuguesa;
+
+h) Pelo presidente do Conselho Académico da Academia Portuguesa da História;
+
+i) Pelo presidente do Conselho de Administração da Fundação Arpad Szenes-Vieira da Silva;
+
+j) Pelo presidente do Conselho de Administração da Fundação Casa da Música;
+
+k) Pelo presidente do Conselho de Administração da Fundação Centro Cultural de Belém;
+
+l) Pelo presidente do Conselho Diretivo da Côa Parque - Fundação para a Salvaguarda e Valorização do Vale do Côa;
+
+m) Pelo presidente do Conselho Diretivo da Fundação Museu do Douro;
+
+n) Pelo Conselho de Administração da Fundação de Serralves;
+
+o) Por um representante do Centro Português de Fundações;
+
+p) Por um representante da Associação Nacional de Municípios Portugueses;
+
+q) Por um representante da Associação Nacional de Freguesias;
+
+r) Por um representante do Conselho Nacional de Reitores das Universidades Portuguesas;
+
+s) Por um representante do Conselho Coordenador dos Institutos Superiores Politécnicos;
+
+t) Por um representante do Conselho Nacional do Consumo;
+
+u) Por um representante da Conferência Episcopal Portuguesa;
+
+v) Por até 10 personalidades de reconhecido mérito, representativas das várias áreas da cultura, a designar por despacho do membro do Governo responsável pela área da cultura, a publicar no Diário da República.
+
+2 - O membro do Governo responsável pela área da cultura pode delegar a sua representação em qualquer outro membro do Governo com competências na mesma área, sem faculdade de subdelegação.
+
+3 - O plenário designa, de entre os seus membros, um vice-presidente e um vogal, sendo que este assume as funções de secretário e pode ser coadjuvado por um trabalhador, preferencialmente do quadro do Gabinete de Estratégia, Planeamento e Avaliação Culturais, designado pelo presidente do plenário.
+
+4 - Com exceção dos membros previstos na alínea v) do n.º 1, todos os membros do plenário podem, excecionalmente, fazer-se representar por mandatário especificamente designado para a reunião em que não possam comparecer.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 16.º — Funcionamento do plenário
+
+1 - O plenário reúne em sessões ordinárias, semestralmente, e em sessões extraordinárias, sempre que convocado pelo seu presidente ou substituto legal.
+
+2 - As regras e os procedimentos de funcionamento do plenário do CNC são objeto de regulamento, a aprovar por deliberação deste, em sessão convocada para o efeito.
+
+###### Artigo 17.º — Secções especializadas
+
+1 - São criadas as seguintes secções especializadas permanentes:
+
+a) Secção do livro, dos arquivos e das bibliotecas;
+
+b) [Revogada.]
+
+c) Secção dos museus, da conservação e restauro e do património cultural móvel;
+
+d) Secção do património arquitetónico, arqueológico e imaterial;
+
+e) Secção do cinema e do audiovisual;
+
+f) Secção dos direitos de autor e direitos conexos;
+
+g) Secção das artes;
+
+h) Secção de tauromaquia.
+
+i) Secção do mecenato cultural.
+
+2 - Podem ser criadas as comissões de trabalho que se revelem necessárias para estudar matérias específicas no âmbito das competências das secções especializadas.
+
+3 - Os presidentes das secções especializadas permanentes podem designar um vice-presidente, de entre os restantes membros da secção.
+
+4 - Para as reuniões das secções especializadas podem, por iniciativa do respetivo presidente, ser convidados técnicos especialistas, personalidades ou representantes de entidades cuja participação seja considerada relevante face às matérias objeto da ordem de trabalhos, os quais não têm direito a voto.
+
+5 - Os membros das secções especializadas podem, excecionalmente, fazer-se representar por mandatário especificamente designado para a reunião em que não possam comparecer.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01
+
+###### Artigo 17.º-A — Entidades que integram as secções especializadas
+
+1 - Nos casos em que não estejam expressamente identificadas, as entidades que integram as secções especializadas são escolhidas pelo presidente de cada secção de entre as associações profissionais ou empresariais do setor, quando existam, ou, nos restantes casos, de entre as entidades promotoras.
+
+2 - Havendo mais do que uma associação ou entidade do setor em causa, a entidade é escolhida por comum acordo entre as mesmas, sendo essa decisão transmitida ao presidente da secção, na forma de comunicação conjunta das entidades participantes no acordo.
+
+3 - Não sendo possível o entendimento entre as entidades referidas no número anterior, é escolhida, pelo presidente da secção especializada, a entidade com maior representatividade, aferida, consoante a natureza da entidade, pelo maior número de associados, espectadores, subscritores ou utilizadores, com base na média dos três últimos.
+
+4 - Nos casos em que subsista dúvida quanto à entidade com maior representatividade, cabe ao membro do Governo responsável pela área da cultura determinar, mediante proposta do presidente da secção especializada, qual a entidade que integra a secção.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 18.º — Secção do livro, dos arquivos e das bibliotecas
+
+1 - A secção especializada permanente do livro, dos arquivos e das bibliotecas é integrada:
+
+a) Pelo diretor-geral do Livro, dos Arquivos e das Bibliotecas, que preside;
+
+b) [Revogada.]
+
+c) Pelo diretor-geral da Biblioteca Nacional de Portugal;
+
+d) [Revogada.]
+
+e) Por um representante da Associação Nacional de Municípios Portugueses;
+
+f) Por um representante da Associação Portuguesa de Bibliotecários, Arquivistas, Documentalistas, Profissionais da Informação e Documentação;
+
+g) Por um representante da Sociedade Portuguesa de Autores;
+
+h) Por um representante da Associação Portuguesa de Escritores;
+
+i) Por um representante da Associação Portuguesa de Editores e Livreiros.
+
+j) Pelo presidente do conselho diretivo do EduQA, I. P.;
+
+k) Por um representante da Rede de Livrarias Independentes;
+
+l) Por um representante do Camões - Instituto da Cooperação e da Língua I. P.;
+
+m) Por um representante do Conselho Nacional de Reitores das Universidades Portuguesas;
+
+n) Por um representante do Conselho Coordenador dos Institutos Superiores Politécnicos;
+
+o) Por um representante das bibliotecas da Região Autónoma dos Açores, a designar pelo respetivo Governo Regional;
+
+p) Por um representante das bibliotecas da Região Autónoma da Madeira, a designar pelo respetivo Governo Regional;
+
+q) Por um representante do Gabinete Nacional de Segurança;
+
+r) Por um representante da Agência para a Reforma Tecnológica do Estado, I. P.;
+
+s) Por um representante da Comissão de Acesso aos Documentos Administrativos;
+
+t) Por um representante da Comissão para a Fiscalização do Segredo de Estado;
+
+u) Por um representante da Conferência Episcopal Portuguesa;
+
+v) Pelo diretor da Cinemateca Portuguesa-Museu do Cinema, I. P.
+
+2 - Compete à secção especializada permanente do livro, dos arquivos e das bibliotecas:
+
+a) Favorecer, através do diálogo, a concertação dos diversos segmentos do setor do livro, dos arquivos e das bibliotecas, com o intuito de apresentar propostas que contribuam para o alargamento e consolidação dos hábitos de leitura, para a maior utilização dos espaços e serviços das bibliotecas e para o reforço das políticas arquivísticas;
+
+b) Favorecer a concertação dos diversos segmentos do setor do livro, dos arquivos e das bibliotecas, com o intuito de apresentar propostas que contribuam para o reforço da presença do livro e do autor português no estrangeiro, em particular nos países de língua oficial portuguesa;
+
+c) Apresentar, debater e emitir recomendações e propostas sobre os programas e ações desenvolvidos pelos organismos públicos que intervêm no setor do livro, dos arquivos e das bibliotecas;
+
+d) Apresentar propostas para a reformulação do enquadramento normativo do setor do livro, dos arquivos e das bibliotecas, tendo em vista a sua constante adequação aos interesses e necessidades da população e evolução do setor;
+
+e) Apoiar o membro do Governo responsável pela área da cultura na definição e desenvolvimento das linhas de política pública para os setores do livro, dos arquivos e das bibliotecas;
+
+f) Formular propostas sobre políticas de investimento nos domínios do livro, dos arquivos e das bibliotecas portuguesas, nomeadamente em recursos humanos e tecnológicos;
+
+g) Emitir pareceres sobre a situação das bibliotecas e dos arquivos portugueses;
+
+h) Apresentar propostas e recomendações no domínio da salvaguarda, proteção e valorização do património bibliográfico nacional, enquanto expressão da memória coletiva e da diversidade cultural portuguesa;
+
+i) Promover a definição e articulação de medidas de política pública destinadas à conservação, digitalização e difusão dos acervos patrimoniais existentes nas bibliotecas nacionais, universitárias, públicas e de outras instituições detentoras de fundos bibliográficos de reconhecido valor histórico ou científico;
+
+j) Identificar necessidades e propor mecanismos de cooperação entre bibliotecas patrimoniais, em articulação com os organismos competentes do setor, com vista ao reforço da rede nacional de salvaguarda e acesso ao património bibliográfico;
+
+k) Contribuir para o reconhecimento e a valorização internacional do património bibliográfico português, incluindo a promoção de candidaturas a registos e programas de proteção do património documental a nível europeu e internacional;
+
+l) Estimular a cooperação entre os arquivos dos diversos organismos representados;
+
+m) Promover a cooperação entre arquivos e serviços de informação multimédia, com vista à cooperação internacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 19.º — Secção dos arquivos
+
+1 - A secção especializada permanente dos arquivos é integrada:
+
+a) Pelo diretor-geral do Livro, dos Arquivos e das Bibliotecas, que preside;
+
+b) Por um subdiretor-geral do Livro, dos Arquivos e das Bibliotecas;
+
+c) Por um representante do Gabinete Nacional de Segurança;
+
+d) Por um representante da Agência para a Modernização Administrativa, I.P.;
+
+e) Por um representante da Comissão de Acesso aos Documentos Administrativos;
+
+f) Por um representante da Comissão para a Fiscalização do Segredo de Estado;
+
+g) Por um representante da Conferência Episcopal Portuguesa;
+
+h) Pelo presidente da Associação Portuguesa de Bibliotecários, Arquivistas e Documentalistas.
+
+2 - Compete à secção especializada permanente dos arquivos:
+
+a) Apoiar o membro do Governo responsável pela área da cultura na definição e desenvolvimento das linhas de política cultural para o sector dos arquivos;
+
+b) Emitir pareceres sobre a situação dos arquivos portugueses;
+
+c) Formular propostas sobre políticas de investimento no domínio dos arquivos portugueses, nomeadamente em recursos humanos e tecnológicos;
+
+d) Estimular a cooperação entre os arquivos dos diversos organismos representados;
+
+e) Promover a cooperação entre arquivos e serviços de informação multimédia, com vista à cooperação internacional.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 20.º — Secção dos museus, da conservação e restauro e do património cultural móvel
+
+1 - A secção especializada permanente dos museus, da conservação e restauro e do património cultural móvel é integrada:
+
+a) Pelo presidente do conselho de administração da Museus e Monumentos de Portugal, E. P. E., que preside;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+e) Por um representante do Ministério da Defesa Nacional;
+
+f) Por um representante dos museus da Região Autónoma dos Açores, a designar pelo respetivo Governo Regional;
+
+g) Por um representante dos museus da Região Autónoma da Madeira, a designar pelo respetivo Governo Regional;
+
+h) Por um representante da Associação Nacional de Municípios Portugueses;
+
+i) Por um representante das universidades que ministram cursos de licenciatura, de mestrado, de pós-graduação ou de doutoramento, nas áreas da museologia e da conservação e restauro;
+
+k) Por um representante dos institutos politécnicos que ministrem cursos nas áreas da museologia e da conservação e restauro;
+
+l) Por um representante dos museus que integram a Rede Portuguesa de Museus;
+
+m) Por um representante da Comissão Nacional Portuguesa do Conselho Internacional de Museus;
+
+n) Por um representante da Associação Portuguesa de Museologia;
+
+o) Por um representante da Conferência Episcopal Portuguesa;
+
+p) Por um representante da Associação Profissional de Conservadores Restauradores de Portugal;
+
+q) Pelo presidente do conselho diretivo do Património Cultural, I. P.;
+
+r) Pelo diretor-geral do Livro, dos Arquivos e das Bibliotecas.
+
+2 - Compete à secção especializada permanente dos museus, da conservação e restauro e do património cultural móvel:
+
+a) Prestar apoio ao membro do Governo responsável pela área da cultura, nas questões relativas à definição e ao desenvolvimento das políticas nacionais no âmbito dos museus, da conservação e restauro e do património móvel;
+
+b) Emitir pareceres ou recomendações sobre a realização dos objetivos das políticas museológica, de conservação e restauro e do património móvel, por solicitação do membro do Governo responsável pela área da cultura ou do presidente do conselho de administração da Museus e Monumentos de Portugal, E. P. E.;
+
+c) Pronunciar-se sobre a desafetação de bens culturais do domínio público, nos termos da lei;
+
+d) Pronunciar-se sobre a expropriação de bens culturais móveis, nos termos da lei;
+
+e) Pronunciar-se sobre a atribuição da denominação «museu nacional», nos termos da lei;
+
+f) (Revogada.)
+
+g) (Revogada.)
+
+h) Pronunciar-se sobre medidas destinadas a estimular a adoção de uma ética de rigor e de boas práticas na conservação e restauro de bens culturais móveis e integrados;
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+k) (Revogada.)
+
+l) Emitir parecer sobre a desclassificação como arquivo de interesse nacional e outros registos de inventários museológicos.
+
+m) Pronunciar-se sobre a desafetação de bens culturais do domínio público, nos termos da lei;
+
+n) Pronunciar-se sobre a credenciação de museus localizados em território nacional.
+
+3 - Os demais membros do conselho de administração da Museus e Monumentos de Portugal, E. P. E., têm assento na secção especializada dos museus, da conservação e restauro e do património cultural móvel, sem direito de voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01
+
+###### Artigo 21.º — Secção do património arquitetónico, arqueológico e imaterial
+
+1 - A secção especializada permanente do património arquitetónico, arqueológico e imaterial é integrada:
+
+a) Pelo presidente do conselho diretivo do Património Cultural, I. P., que preside;
+
+b) (Revogada.)
+
+c) Pelos vice-presidentes das Comissões de Coordenação e Desenvolvimento Regional para a área da cultura;
+
+d) Por um representante do Ministério das Finanças;
+
+e) Por um representante do Ministério da Defesa Nacional;
+
+f) [Revogada.]
+
+g) Por um representante da Região Autónoma dos Açores, a designar pelo respetivo Governo Regional;
+
+h) Por um representante da Região Autónoma da Madeira, a designar pelo respetivo Governo Regional;
+
+i) Por um representante da Associação Nacional de Municípios Portugueses;
+
+j) Por um representante da Conferência Episcopal Portuguesa;
+
+k) Por um representante da Comissão Nacional Portuguesa do Conselho Internacional de Monumentos e Sítios.
+
+l) Pelo presidente do conselho de administração da Museus e Monumentos de Portugal, E. P. E;
+
+m) Por um representante da Associação dos Arqueólogos Portugueses;
+
+n) Por um representante da Associação Profissional de Conservadores-Restauradores;
+
+o) Por um representante da Comissão Nacional da UNESCO;
+
+p) Por um representante do Conselho de Reitores das Universidades Portuguesas;
+
+q) Por um representante do Conselho Coordenador dos Institutos Superiores Politécnicos.
+
+2 - Compete à secção especializada permanente do património arquitetónico, arqueológico e imaterial:
+
+a) Prestar apoio ao membro do Governo responsável pela área da cultura nas questões relativas à definição e ao desenvolvimento das políticas nacionais no âmbito do património arquitetónico e arqueológico;
+
+b) (Revogada.)
+
+c) Emitir pareceres sobre quaisquer questões relativas à salvaguarda e valorização do património arquitetónico, arqueológico e imaterial, por solicitação do seu presidente;
+
+d) Emitir pareceres e recomendações sobre as componentes específicas da política de salvaguarda do património cultural imaterial, por solicitação do membro do Governo responsável pela área da cultura ou do presidente do conselho diretivo do Património Cultural, I. P.;
+
+e) Emitir parecer, por solicitação do membro do Governo responsável pela área da cultura ou do presidente do conselho diretivo do Património Cultural, I. P., sobre as candidaturas a apresentar à Lista do Património Mundial e da Humanidade, à Lista Representativa do Património Cultural Imaterial da Humanidade, à Lista do Património Mundial em Perigo e à Lista do Património Cultural que necessita de Salvaguarda Urgente.
+
+3 - Os demais membros do conselho diretivo do Património Cultural, I. P., têm assento na secção especializada do património arquitetónico, arqueológico e imaterial, sem direito de voto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 129/2023 - Diário da República n.º 247/2023, Série I de 2023-12-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-2023-835674294), em vigor a partir de 2023-12-27, produz efeitos a partir de 2024-01-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 46/2013 - Diário da República n.º 211/2013, Série I de 2013-10-31](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2013-504993), produz efeitos a partir de 2013-09-14
+
+###### Artigo 22.º — Secção do cinema e do audiovisual
+
+1 - A secção especializada permanente do cinema e do audiovisual é integrada:
+
+a) Pelo presidente do Instituto do Cinema e do Audiovisual, I. P. (ICA, I. P.), que preside;
+
+b) Pelo diretor da Cinemateca Portuguesa-Museu do Cinema, I.P.;
+
+c) Pelo inspetor-geral das Atividades Culturais;
+
+d) Por um representante da concessionária do serviço público de televisão;
+
+e) Por um representante de cada um dos operadores de televisão que disponibilizam serviços de programas televisivos de acesso não condicionado livre;
+
+f) Por um representante dos operadores de televisão que disponibilizam serviços de programas televisivos de acesso não condicionado com assinatura e de serviços de programas televisivos de acesso condicionado;
+
+g) Por um representante dos operadores de distribuição de televisão;
+
+h) Por um representante dos exibidores;
+
+i) Por um representante dos distribuidores de cinema;
+
+j) Por três representantes dos produtores de cinema, sendo um da área da ficção, um da área de animação e um da área do documentário;
+
+k) Por um representante dos produtores independentes de televisão;
+
+l) Por três representantes dos realizadores de cinema, sendo um da área da ficção, um da área de animação e um da área do documentário;
+
+m) Por um representante da Federação Portuguesa de Cineclubes;
+
+n) Por um representante dos festivais apoiados pelo ICA, I. P.;
+
+o) Por um representante das associações do setor apoiadas pelo ICA, I. P.;
+
+p) Por um representante dos técnicos do cinema e do audiovisual;
+
+q) Por um representante dos argumentistas.
+
+s) Por um representante dos operadores de serviços audiovisuais a pedido;
+
+t) Por um representante de serviços de partilha de vídeos ou outras entidades não representadas nas restantes alíneas deste número e que liquidam e pagam taxa de exibição;
+
+u) Por um representante dos pequenos distribuidores;
+
+v) Por um representante de associações de promoção nacional e internacional do setor ou da cultura e literacia cinematográfica;
+
+w) Por um representante dos técnicos do cinema e do audiovisual;
+
+x) Por um representante de associações de promoção da implementação de medidas de sustentabilidade social, económica e ambiental no setor do cinema e do audiovisual;
+
+y) Por um representante do Instituto do Turismo de Portugal, I. P.;
+
+z) Pelo diretor-geral das Artes.
+
+2 - [Revogado.]
+
+3 - [Revogado.]
+
+4 - [Revogado.]
+
+5 - [Revogado.]
+
+6 - Compete à secção especializada permanente do cinema e do audiovisual:
+
+a) Prestar apoio ao membro do Governo responsável pela área da cultura nas questões relativas à definição, realização e desenvolvimento da política cinematográfica e audiovisual, incluindo a relativa ao património cinematográfico e audiovisual, e à atuação dos serviços e organismos da área do cinema e audiovisual sob direção ou tutela do membro do Governo responsável pela área da cultura, sem prejuízo das atribuições e competências próprias dos organismos e seus órgãos;
+
+b) Participar no procedimento de constituição de listas de membros dos júris dos concursos do ICA, I. P., nos termos do artigo 14.º do Decreto-Lei n.º 25/2018, de 24 de abril;
+
+c) Pronunciar-se sobre o projeto de Plano Estratégico do ICA, I. P., nos termos do n.º 2 do artigo 3.º do Decreto-Lei n.º 25/2018, de 24 de abril;
+
+d) Exercer outras funções consultivas que lhe sejam atribuídas por lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+> Alterado pelo/a Artigo 61.º do/a [Decreto-Lei n.º 25/2018 - Diário da República n.º 80/2018, Série I de 2018-04-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-2018-115172414), em vigor a partir de 2018-04-25
+
+###### Artigo 23.º — Secção dos direitos de autor e direitos conexos
+
+1 - A secção especializada permanente dos direitos de autor e direitos conexos é integrada:
+
+a) Pelo diretor-geral do Gabinete de Estratégia, Planeamento e Avaliação Culturais, que preside;
+
+b) Pelo inspetor-geral das Atividades Culturais;
+
+c) [Revogada.]
+
+d) Por um representante do Instituto Nacional da Propriedade Industrial, I.P.;
+
+e) [Revogada.]
+
+f) Por um representante da Procuradoria-Geral da República;
+
+g) Por um representante de cada uma das entidades de gestão coletiva dos direitos de autor e direitos conexos;
+
+h) Por um representante de cada uma das associações de editores, livreiros, editores de videogramas e fonogramas;
+
+i) Por um representante da Associação Portuguesa de Imprensa;
+
+j) Por um representante dos operadores de distribuição de televisão.
+
+k) Por um representante da entidade da área governativa responsável pela área da comunicação social e dos media;
+
+l) Por um representante dos prestadores de serviços de partilha de conteúdos em linha;
+
+m) Por um representante da Entidade Reguladora para a Comunicação Social;
+
+n) Por um representante do setor da rádio;
+
+o) Por um representante da Autoridade Nacional de Comunicações.
+
+2 - Compete à secção especializada permanente dos direitos de autor e direitos conexos:
+
+a) Apoiar o membro do Governo responsável pela área da cultura na definição da política e da estratégia, bem como na realização de ações e eventos no domínio da defesa e proteção do direito de autor e direitos conexos;
+
+b) Propor iniciativas legislativas ou outras no domínio do direito de autor e direitos conexos;
+
+c) Emitir pareceres sobre ações de vigilância e fiscalização na área da defesa dos direitos de autor e direitos conexos;
+
+d) Emitir pareceres sobre quaisquer questões de direitos de autor e direitos conexos, que sejam suscitadas no decurso de reuniões comunitárias ou internacionais;
+
+e) Propor e recomendar a adoção de medidas visando o aperfeiçoamento, atualização e cumprimento da legislação sobre direito de autor e direitos conexos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 24.º — Secção das artes
+
+1 - A secção especializada permanente das artes é integrada:
+
+a) Pelo diretor-geral das Artes, que preside;
+
+b) Pelo inspetor-geral das Atividades Culturais;
+
+c) Por um representante do Organismo de Produção Artística, E.P.E.;
+
+d) Por um representante do Teatro Nacional D. Maria II, E.P.E.;
+
+e) Por um representante do Teatro Nacional de São João, E.P.E.;
+
+f) Por um representante do Turismo de Portugal, I.P.;
+
+g) Por um representante da área governativa da educação;
+
+h) Por um representante da Associação Nacional de Municípios Portugueses;
+
+i) Por um representante da Fundação de Serralves;
+
+j) Por um representante da Fundação Centro Cultural de Belém;
+
+k) [Revogada.]
+
+l) Por um representante da Ordem dos Arquitetos;
+
+m) [Revogada.]
+
+n) [Revogada.]
+
+o) Por um representante dos galeristas;
+
+p) Por um representante da Direção-Geral do Livro, dos Arquivos e das Bibliotecas;
+
+q) Pelos vice-presidentes das Comissões de Coordenação e Desenvolvimento Regional, I. P., com a área da cultura;
+
+r) Por um representante da Fundação Calouste Gulbenkian;
+
+s) Por um representante da Fundação Casa da Música;
+
+t) Por um representante de uma entidade representativa de músicos, artistas e editores;
+
+u) Por um representante de uma entidade representativa de autores e compositores;
+
+v) Por um representante das artes performativas;
+
+w) Por um representante das artes circenses;
+
+x) Por um representante de entidades representativas de promotores de festivais;
+
+y) Por um representante do Camões - Instituto de Cooperação e da Língua, I. P.;
+
+z) Por um representante de cada uma de duas entidades representativas do setor do design;
+
+aa) Por um representante de cada uma das entidades de gestão coletiva;
+
+bb) Por um representante da área da acessibilidade e inclusão cultural.
+
+2 - Compete à secção especializada permanente das artes:
+
+a) Prestar apoio ao membro do Governo responsável pela área da cultura nas questões relativas à definição e ao desenvolvimento das políticas nacionais no âmbito das artes, performativas e outras, e indústrias criativas;
+
+b) Emitir pareceres e recomendações, por solicitação do membro do Governo responsável pela área da cultura ou do presidente da secção, em matérias da sua competência;
+
+c) Apresentar ao membro do Governo responsável pela área da cultura propostas de metodologias de apoio e políticas de investimento, no âmbito da sua competência.
+
+d) Participar no procedimento de constituição das comissões de apreciação das candidaturas aos apoios financeiros do Estado às artes visuais e performativas, nos termos do artigo 15.º do Decreto-Lei n.º 103/2017, de 24 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 25.º — Secção de tauromaquia
+
+1 - A secção especializada permanente da tauromaquia é integrada:
+
+a) Pelo inspetor-geral das Atividades Culturais, que preside;
+
+b) Pelo diretor-geral de Alimentação e Veterinária ou por um representante por ele designado;
+
+c) Pelo diretor-geral da Saúde ou por um representante por ele designado;
+
+d) Por um representante da Associação Nacional de Municípios Portugueses;
+
+e) Pelo bastonário da Ordem dos Médicos Veterinários ou por um representante por ele designado;
+
+f) Por um representante da Associação Nacional dos Toureiros;
+
+g) Por um representante da Associação Nacional de Grupos de Forcados;
+
+h) Por um representante da Associação Portuguesa de Empresários Tauromáquicos;
+
+i) Por um representante da Associação Portuguesa de Criadores de Touros de Lide;
+
+j) Por um representante da Associação de Médicos Veterinários com Atividade Taurina;
+
+k) Por um representante da Associação Tauromáquica dos Diretores de Corrida;
+
+l) Por um representante da União Internacional das Cidades e Vilas Taurinas;
+
+m) Por um representante de associações ou entidades de defesa ou proteção dos direitos dos animais.
+
+2 - Compete à secção especializada permanente de tauromaquia:
+
+a) Apoiar o membro do Governo responsável pela área da cultura no desenvolvimento das linhas de política cultural para o sector da tauromaquia;
+
+b) Acompanhar e efetuar o balanço da temporada tauromáquica, propondo as medidas necessárias ao seu bom desenvolvimento e à correção de desvios;
+
+c) Apresentar, debater e emitir recomendações que permitam uma constante adequação da atividade tauromáquica às necessidades do sector;
+
+d) Apreciar e debater as propostas legislativas ou regulamentares que lhe sejam submetidas pelo membro do Governo responsável pela área da cultura;
+
+e) Favorecer o diálogo entre todos os agentes ligados ao sector e propor medidas que contribuam para uniformizar práticas e comportamentos que disciplinem e dignifiquem a atividade tauromáquica.
+
+3 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 25.º-A — Secção para o mecenato cultural
+
+1 - A secção especializada permanente para o mecenato cultural é integrada:
+
+a) Pelo diretor-geral do Gabinete de Estratégia, Planeamento e Avaliação Culturais, que preside;
+
+b) Por um representante da Autoridade Tributária e Aduaneira;
+
+c) Por um representante do Centro Português de Fundações;
+
+d) Pelo presidente do conselho de administração da Museus e Monumentos de Portugal, E. P. E.;
+
+e) Pelo presidente do conselho diretivo do Património Cultural, I. P.;
+
+f) Pelos vice-presidentes das Comissões de Coordenação e Desenvolvimento Regional, I. P., para a área da cultura;
+
+g) Pelo presidente do conselho de administração do Organismo de Produção Artística, E. P. E.;
+
+h) Pelo presidente do conselho de administração do Teatro Nacional de São João, E. P. E.;
+
+i) Pelo presidente do conselho de administração do Teatro Nacional D. Maria II, E. P. E.;
+
+j) Pelo presidente do conselho diretivo do ICA, I. P.;
+
+k) Por até cinco personalidades de reconhecido mérito, com experiência relevante na área do mecenato ou do financiamento cultural.
+
+2 - Compete à secção especializada permanente para o mecenato cultural:
+
+a) Emitir pareceres e apresentar recomendações sobre políticas de incentivo ao mecenato cultural, incluindo o regime fiscal aplicável;
+
+b) Acompanhar a execução das políticas públicas e dos regimes legais de mecenato cultural, propondo melhorias e simplificações;
+
+c) Promover o diálogo entre os agentes culturais, os mecenas e as entidades públicas, com vista ao reforço do investimento privado na cultura;
+
+d) Propor medidas que reforcem a transparência, a eficácia e o impacto social do mecenato cultural.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 26.º — Designação de personalidades de reconhecido mérito
+
+O presidente de cada secção especializada pode propor ao membro do Governo responsável pela área da cultura, nos termos da alínea a) do artigo 5.º, a designação de até seis personalidades de reconhecido mérito, tendo em conta a sua experiência profissional ou os seus estudos específicos no respetivo setor, os quais são designados por despacho a publicar no Diário da República.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 27.º — Funcionamento das secções especializadas
+
+1 - As secções especializadas reúnem no primeiro trimestre de cada ano e sempre que convocadas pelo seu presidente ou substituto legal.
+
+2 - Sempre que considere necessário, o membro do Governo responsável pela área da cultura pode convocar e participar nas reuniões das secções especializadas, podendo fazer-se representar por membro do Governo com competências na mesma área.
+
+3 - O membro do Governo responsável pela área da cultura preside às reuniões das secções especializadas em que participa, com o apoio do presidente da respetiva secção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 28.º — Regime transitório
+
+1 - Até à efetiva constituição do plenário do CNC e das secções especializadas, nos termos do n.º 4 do artigo 4.º, mantêm-se em funcionamento o plenário e as secções especializadas constituídas ao abrigo do Decreto Regulamentar n.º 35/2007, de 29 de março, e dos Despachos n.os 3253/2010 e 3254/2010, ambos de 11 de fevereiro, publicados no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro de 2010, bem como os respetivos regulamentos.
+
+2 - No fim do período de suspensão da vigência do Decreto-Lei n.º 208/2012, de 7 de setembro, decretada no artigo 78.º do Decreto-Lei n.º 36/2013, de 11 de março:
+
+a) Passa a integrar a secção especializada permanente do cinema e do audiovisual o administrador único da Cinemateca Portuguesa-Museu do Cinema, E.P.E, em substituição do diretor da Cinemateca Portuguesa-Museu do Cinema, I.P.;
+
+b) Passam a integrar a secção especializada permanente das artes o administrador único da Companhia Nacional de Bailado, E.P.E., e o administrador único do Teatro Nacional de São Carlos, E.P.E, em substituição do representante do Organismo de Produção Artística, E.P.E.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 178/2026 - Diário da República n.º 173/2026, Série I de 2026-09-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2026-1167595459), em vigor a partir de 2026-09-08.
+
+###### Artigo 29.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto Regulamentar n.º 35/2007, de 29 de março;
+
+b) Os Despachos n.os 3253/2010 e 3254/2010, ambos de 11 de fevereiro, publicados no Diário da República, 2.ª série, n.º 36, de 22 de fevereiro de 2010.
+
+###### Artigo 30.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 18 de julho de 2013. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - José Pedro Correia de Aguiar-Branco - Paula Maria von Hafe Teixeira da Cruz - Luís Miguel Poiares Pessoa Maduro - Álvaro Santos Pereira - Maria de Assunção Oliveira Cristas Machado da Graça - Paulo José de Ribeiro Moita de Macedo - Nuno Paulo de Sousa Arrobas Crato.
+
+Promulgado em 5 de setembro de 2013.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 9 de setembro de 2013.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

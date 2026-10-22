@@ -1,0 +1,180 @@
+---
+schema_version: '1.0'
+id: pt:dre:241446:por
+title: Decreto Regulamentar n.º 8/96
+short_title: null
+summary: Prorroga o mandato do presidente nacional e dos membros da direcção nacional da Cruz Vermelha Portuguesa e consagra
+  normas transitórias para a realização da primeira assembleia geral desta instituição
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 8/96
+official_date: null
+publication_date: '1996-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 207/1996, Série I-B de 1996-09-06
+  number: '207'
+  series: I
+  supplement: null
+  pages: 3002 - 3003
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/09/207b00/30023003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/8/1996/09/06/p/dre/pt/html
+  oj: null
+  dre: '241446'
+  dre_path: /dr/detalhe/decreto-regulamentar/8-1996-241446
+  internal: pt:dre:241446:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1996-241446
+  metadata_url: https://data.dre.pt/eli/decregul/8/1996/09/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/8-1996-241446
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-09-06T00:00:00Z'
+integrity:
+  source_sha256: cbe63d37d89050ef63c2e1c9452bcf9ddb082cda97107bc34f4d776f7df91e69
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-8-241446.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Cruz Vermelha Portuguesa
+- Definição de Competências
+- Nomeação
+- Presidente
+- Prorrogação de Prazo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/164/1991/05/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/164/1991/05/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/10/1993/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/10/1993/04/27/p/dre
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 8/96
+
+de 6 de Setembro
+
+Com a publicação do [Decreto-Lei n.º 164/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1991-616783), de 7 de Maio, que estabeleceu o regime jurídico da Cruz Vermelha Portuguesa, definiu-se legalmente o conjunto de regras e princípios que regulam as relações entre o Estado e aquela instituição e determinou-se a elaboração de novos estatutos que espelhassem a realidade actual da Cruz Vermelha Portuguesa na amplitude dos seus objectivos, no seu desenvolvimento estrutural e na sua crescente implantação nacional.
+
+O [Decreto Regulamentar n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1993-665971), de 27 de Abril, que aprovou o Estatuto da Cruz Vermelha Portuguesa, dispunha no seu artigo 2.º, n.º 1, que no prazo de nove meses a contar da sua publicação, e após aprovação pelo conselho supremo, a direcção nacional submeteria a homologação, por portaria do Ministro da Defesa Nacional, o regulamento geral de funcionamento da Cruz Vermelha Portuguesa. O processo de elaboração e aprovação do regulamento geral do funcionamento foi, no entanto, mais longo do que o previsto, tendo este facto impedido que a estrutura orgânica da Cruz Vermelha Portuguesa garantisse a representatividade e a legitimidade democrática dos órgãos da instituição, tal como previsto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 164/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1991-616783), de 7 de Maio.
+
+A entrada em vigor, a muito curto prazo, do regulamento geral de funcionamento da Cruz Vermelha Portuguesa irá permitir finalmente o funcionamento pleno e democrático da estrutura orgânica da instituição tal como estatuariamente previsto. Expirando proximamente os mandatos do presidente nacional e da direcção nacional, considerou-se necessário estipular a prorrogação dos seus mandatos de modo a permitir que estes órgãos venham a ser designados nos precisos termos previstos no Estatuto e no regulamento geral de funcionamento da Cruz Vermelha Portuguesa.
+
+Considerou-se ainda necessário adoptar certas regras transitórias que, por um lado, assegurem o regular funcionamento da instituição até à realização da primeira assembleia geral e que, por outro, permitam uma mais célere realização desta.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 e na alínea a) do n.º 2 do artigo 9.º do [Decreto-Lei n.º 164/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1991-616783), de 7 de Maio, e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Mandato do presidente nacional e da direcção nacional
+
+1 - O mandato do actual presidente nacional é prorrogado pelo período de um ano.
+
+2 - O mandato dos actuais vice-presidentes e secretário-geral e dos vogais da direcção nacional nomeados ao abrigo da alínea b) do n.º 2 do artigo 2.º do [Decreto Regulamentar n.º 10/93](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1993-665971), de 27 de Abril, é prorrogado por igual período.
+
+3 - Em casos devidamente justificados, pode o presidente nacional, ouvido o conselho supremo, proceder à substituição de qualquer dos membros da direcção nacional cujo mandato é prorrogado nos termos do presente artigo.
+
+###### Artigo 2.º — Conselho supremo
+
+Compete ao conselho supremo, constituído nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 164/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/164-1991-616783), de 7 de Maio:
+
+a) Desempenhar, até à primeira assembleia geral, as atribuições cometidas à assembleia geral nas alíneas a), c) e g) do n.º 4 do artigo 16.º do Estatuto;
+
+b) De um modo geral desempenhar, até à eleição pela primeira assembleia geral dos membros do conselho supremo a que se refere a alínea d) do n.º 2 do artigo 20.º do Estatuto, todas as atribuições que estatutariamente são da competência deste órgão;
+
+c) Aprovar o regulamento geral de funcionamento, que deverá ser submetida, no prazo máximo de 30 dias a contar da publicação do presente diploma, a homologação pelo Ministro da Defesa Nacional;
+
+d) Ser ouvido pelo presidente nacional previamente à substituição dos membros da direcção nacional ao abrigo do n.º 3 do artigo anterior.
+
+###### Artigo 3.º — Constituição da primeira assembleia geral
+
+1 - A primeira assembleia geral, que elegerá os vogais para a direcção nacional e para o conselho fiscal e os membros electivos do conselho supremo, é constituída pelos seguintes membros:
+
+a) O presidente nacional, que preside às reuniões e tem voto de qualidade;
+
+b) Os vice-presidentes e o secretário-geral, cada um com direito a um voto;
+
+c) Os presidentes das assembleias das delegações, com direito a um voto cada um;
+
+d) Três vogais por cada delegação, exceptuadas as delegações de Lisboa e do Porto, que terão cinco vogais, cada um com direito a um voto.
+
+2 - Os vogais à primeira assembleia geral serão eleitos pelas assembleias de delegação de entre os sócios efectivos tal como caracterizados no artigo seguinte.
+
+3 - Para os efeitos previstos no n.º 1 serão consideradas as delegações criadas até 31 de Dezembro de 1995.
+
+###### Artigo 4.º — Qualidade transitória de sócio efectivo
+
+1 - Durante o primeiro ano de vigência do regulamento geral de funcionamento da Cruz Vermelha Portuguesa, consideram-se sócios efectivos as pessas singulares ou colectivas que, simultaneamente, satisfaçam as seguintes condições:
+
+a) Tenham sido admitidos como sócios pela direcção nacional ou pelas direcções das delegações ou dos núcleos no âmbito dos poderes delegados por aquela;
+
+b) Paguem pontualmente a quota correspondente à categoria, quando não dispensados desse pagamento.
+
+2 - Compete à direcção nacional a fixação de valores da quota a pagar por cada categoria de sócios da Cruz Vermelha Portuguesa, sendo esta fixação válida até à realização da primeira assembleia geral.
+
+###### Artigo 5.º — Constituição provisória das assembleias de delegação e de núcleo
+
+Nas reuniões das assembleias de delegação e de núcleo que se realizem durante o primeiro ano de vigência do regulamento geral de funcionamento da Cruz Vermelha Portuguesa devem ser admitidos todos os sócios que detenham a categoria de sócio efectivo tal como caracterizado no artigo anterior.
+
+###### Artigo 6.º — Produção de efeitos
+
+O disposto no artigo 1.º do presente diploma produz os seus efeitos a contar da data do termo do mandato do actual presidente nacional da Cruz Vermelha Portuguesa.
+
+Presidência do Conselho de Ministros, 12 de Julho de 1996.
+
+António Manuel de Oliveira Guterres - António Manuel de Carvalho Ferreira Vitorino.
+
+**Promulgado em 14 de Agosto de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 21 de Agosto de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

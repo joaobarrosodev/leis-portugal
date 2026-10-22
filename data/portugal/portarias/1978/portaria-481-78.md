@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:299064:por
+title: Portaria n.º 481/78
+short_title: null
+summary: Visa a constituição da delegação portuguesa no PBEIST - Planning Board for the European Inland Surface Transports,
+  que ficará sob tutela do Ministro dos Transportes e Comunicações
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Estado-Maior-General das Forças Armadas e Ministérios da Defesa Nacional e dos Transportes e Comunicações
+proposing_entity: null
+official_number: 481/78
+official_date: null
+publication_date: '1978-08-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 193/1978, Série I de 1978-08-23
+  number: '193'
+  series: I
+  supplement: null
+  pages: 1701 - 1702
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/08/19300/17011702.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '299064'
+  dre_path: /dr/detalhe/portaria/481-1978-299064
+  internal: pt:dre:299064:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/481-1978-299064
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/481-1978-299064
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-08-23T00:00:00Z'
+integrity:
+  source_sha256: 89a75ff28b6c98909bcc36111831c9e9a795e8beaacc224fc554c65c4f2f2ccd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-481-299064.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 481/78
+
+de 23 de Agosto
+
+A participação de Portugal no PBEIST - Planning Board for the European Inland Surface Transports, organismo civil NATO responsável pelo planeamento do contrôle dos transportes terrestres e fluviais em tempo de guerra e crise declarada, subordinado ao SCEPC, nunca se processou por não existir organismo nacional regulamentado para o efeito.
+
+Por força de compromissos internacionais assumidos, desenha-se uma reestruturação global dos organismos nacionais existentes ou a criar no âmbito do planeamento civil de emergência.
+
+Todavia, a premência da actuação destes organismos não se compadece com as demoras que tal reestruturação necessariamente acarreta, pelo que, até à prevista criação de departamento ministerial adequado, se torna necessário implementar a participação de Portugal no PBEIST, o que implica a promulgação de diploma legal que crie a delegação portuguesa nesse organismo.
+
+Nestes termos:
+
+Mandam o Conselho da Revolução, pelos Chefes do Estado-Maior-General das Forças Armadas, do Estado-Maior da Armada e do Estado-Maior do Exército, e o Governo da República Portuguesa, pelos Ministros da Defesa Nacional e dos Transportes e Comunicações, o seguinte:
+
+1 - É constituída a delegação portuguesa no PBEIST, na dependência do Ministro dos Transportes e Comunicações, sendo, todavia, da competência do Ministro da Defesa Nacional a coordenação da sua actividade com a das demais delegações subordinadas ao SCEPC.
+
+2 - A delegação tem a seguinte constituição:
+
+a) Um chefe de delegação, com a categoria e vencimento de director-geral ou de inspector superior, nomeado em comissão de serviço por períodos de três anos;
+
+b) Um chefe de delegação-adjunto, com a categoria e vencimento de director de serviços ou de chefe de divisão, nomeado em comissão de serviço por períodos de três anos;
+
+c) Um representante do Ministro da Defesa Nacional;
+
+d) Um representante do Chefe do Estado-Maior da Armada;
+
+e) Um representante do Chefe do Estado-Maior do Exército;
+
+f) Um representante da Direcção-Geral de Portos e Administrações Portuárias;
+
+g) Um representante da Direcção-Geral de Transportes Terrestres;
+
+h) Um representante da Junta Autónoma de Estradas;
+
+i) Um representante dos Caminhos de Ferro Portugueses;
+
+j) Um representante da Rodoviária Nacional.
+
+3 - Os elementos que constituem a delegação, exceptuando os representantes do Ministro da Defesa Nacional e dos Chefes do Estado-Maior da Armada e do Estado-Maior do Exército, são designados pelo Ministro dos Transportes e Comunicações.
+
+Os representantes dos Caminhos de Ferro Portugueses e da Rodoviária Nacional são designados após audição e proposta dos representados.
+
+As comissões de serviço indicadas no n.º 2, alíneas a) e b), podem ser dadas por findas, a todo o tempo, pelo Ministro dos Transportes e Comunicações.
+
+4 - A delegação tem como funções:
+
+a) Apreciar os documentos e estudos no âmbito do PBEIST, para o que deve reunir não só periodicamente, mas sempre que necessário;
+
+b) Remeter ao secretariado do PBEIST os elementos por este requeridos, bem como apresentar-lhe propostas;
+
+c) Produzir informações, consultar e recolher elementos dos organismos competentes, elaborar expediente e preparar documentação;
+
+d) Participar nas reuniões plenárias do PBEIST com uma representação nomeada anualmente;
+
+e) Propor a participação portuguesa em grupos de trabalho no PBEIST;
+
+f) Manter as Secretarias de Estado da Marinha Mercante e dos Transportes, o Estado-Maior da Armada e o Estado-Maior do Exército ao corrente dos assuntos do PBEIST que àquelas entidades possam interessar e, bem assim, submeter à sua consideração os problemas pertinentes.
+
+5 - O Ministro dos Transportes e Comunicações pode nomear peritos, a título eventual, para prestarem assistência técnica à delegação e, bem assim, requerê-los ao Chefe do Estado-Maior da Armada e ao Chefe do Estado-Maior do Exército.
+
+A remuneração dos peritos é fixada pelo Ministro dos Transportes e Comunicações.
+
+6 - A delegação dispõe de um secretariado permanente, constituído, pelo menos, por um chefe de secretaria, um arquivista e um dactilógrafo, nomeados pelo Ministro dos Transportes e Comunicações, em comissão de serviço por três anos, renováveis, ou em regime de destacamento, recrutados nos quadros do funcionalismo público.
+
+7 - Os encargos financeiros necessários ao funcionamento da delegação são suportados pelo orçamento do Ministério dos Transportes e Comunicações, cujo titular fixará as remunerações a atribuir aos representantes estranhos ao seu Ministério.
+
+Estado-Maior-General das Forças Armadas e Ministérios da Defesa Nacional e dos Transportes e Comunicações, 2 de Agosto de 1978. - O Chefe do Estado-Maior-General das Forças Armadas, António Ramalho Eanes, general. - O Chefe do Estado-Maior da Armada, Augusto Souto Silva Cruz, almirante. - O Chefe do Estado-Maior do Exército, Pedro Alexandre Gomes Cardoso, general. - O Ministro da Defesa Nacional, Mário Firmino Miguel. - O Ministro dos Transportes e Comunicações, Manuel Branco Ferreira Lima.

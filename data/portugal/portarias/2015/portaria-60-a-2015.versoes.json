@@ -1,0 +1,1087 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66639546:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-75468609",
+ "dre_path": "/dr/detalhe/portaria/60-a-2015-66639546",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75458298"
+   ]
+  },
+  {
+   "date": "2015-08-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70007182:por",
+     "title": "Portaria n.º 242/2015",
+     "published": "2015-08-13",
+     "dre_path": "/dr/detalhe/portaria/242-2015-70007182"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "75458303",
+    "75458334",
+    "75458305",
+    "75458306",
+    "75458307",
+    "75458308",
+    "75458309",
+    "75458310",
+    "75458311",
+    "75458312",
+    "75458313",
+    "75458314",
+    "75458315",
+    "75458335",
+    "75458317",
+    "75458318",
+    "75458319",
+    "75458320",
+    "75458321",
+    "75458322",
+    "75458323"
+   ]
+  },
+  {
+   "date": "2016-05-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74334113:por",
+     "title": "Portaria n.º 122/2016",
+     "published": "2016-05-04",
+     "dre_path": "/dr/detalhe/portaria/122-2016-74334113"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 23.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "75458303",
+    "75458334",
+    "75458305",
+    "75458306",
+    "75458307",
+    "75458336",
+    "75458309",
+    "75458310",
+    "75458311",
+    "75458337",
+    "75458338",
+    "75458314",
+    "75458315",
+    "75458335",
+    "75458317",
+    "75458318",
+    "75458319",
+    "75458320",
+    "75458321",
+    "75458339",
+    "75458323"
+   ]
+  },
+  {
+   "date": "2017-04-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106829420:por",
+     "title": "Portaria n.º 129/2017",
+     "published": "2017-04-05",
+     "dre_path": "/dr/detalhe/portaria/129-2017-106829420"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75500377",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "75458303",
+    "114289548",
+    "75458305",
+    "75458306",
+    "114289554",
+    "114289555",
+    "114289539",
+    "75458310",
+    "114289556",
+    "114289557",
+    "114289551",
+    "75458314",
+    "114289558",
+    "114289559",
+    "75458317",
+    "75458318",
+    "114289540",
+    "75458320",
+    "114289560",
+    "114289561",
+    "75458323",
+    "75458340"
+   ]
+  },
+  {
+   "date": "2018-01-18",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114538725:por",
+     "title": "Portaria n.º 19/2018",
+     "published": "2018-01-17",
+     "dre_path": "/dr/detalhe/portaria/19-2018-114538725"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75500377",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "75458303",
+    "114289548",
+    "75458305",
+    "75458306",
+    "114289554",
+    "114544579",
+    "114544575",
+    "75458310",
+    "114289556",
+    "114544576",
+    "114544577",
+    "75458314",
+    "114544578",
+    "114289559",
+    "75458317",
+    "75458318",
+    "114289540",
+    "75458320",
+    "114289560",
+    "114289561",
+    "75458323",
+    "75458340"
+   ]
+  },
+  {
+   "date": "2018-06-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:115536009:por",
+     "title": "Portaria n.º 175/2018",
+     "published": "2018-06-19",
+     "dre_path": "/dr/detalhe/portaria/175-2018-115536009"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 20.º-A",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75500377",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "75458303",
+    "114289548",
+    "75458305",
+    "75458306",
+    "114289554",
+    "114544579",
+    "114544575",
+    "75458310",
+    "114289556",
+    "115531018",
+    "114544577",
+    "75458314",
+    "114544578",
+    "114289559",
+    "75458317",
+    "75458318",
+    "114289540",
+    "115531012",
+    "115531013",
+    "115531014",
+    "115531015",
+    "115531016",
+    "115531017"
+   ]
+  },
+  {
+   "date": "2019-10-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125603194:por",
+     "title": "Portaria n.º 382/2019",
+     "published": "2019-10-23",
+     "dre_path": "/dr/detalhe/portaria/382-2019-125603194"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 18.º",
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75500377",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "127766541",
+    "114289548",
+    "75458305",
+    "75458306",
+    "114289554",
+    "114544579",
+    "114544575",
+    "75458310",
+    "114289556",
+    "115531018",
+    "114544577",
+    "75458314",
+    "114544578",
+    "114289559",
+    "127766540",
+    "75458318",
+    "114289540",
+    "115531012",
+    "115531013",
+    "115531014",
+    "115531015",
+    "115531016",
+    "115531017"
+   ]
+  },
+  {
+   "date": "2020-05-27",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:134505607:por",
+     "title": "Portaria n.º 127/2020",
+     "published": "2020-05-26",
+     "dre_path": "/dr/detalhe/portaria/127-2020-134505607"
+    }
+   ],
+   "changes": [
+    "Adita Anexo",
+    "Adita Artigo 1.º",
+    "Adita Artigo 2.º",
+    "Adita Artigo 3.º",
+    "Adita Artigo 4.º",
+    "Adita Artigo 5.º",
+    "Adita Artigo 6.º",
+    "Adita Artigo 7.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75500377",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "127766541",
+    "114289548",
+    "75458305",
+    "75458306",
+    "114289554",
+    "114544579",
+    "114544575",
+    "75458310",
+    "114289556",
+    "115531018",
+    "114544577",
+    "75458314",
+    "114544578",
+    "114289559",
+    "127766540",
+    "75458318",
+    "114289540",
+    "115531012",
+    "115531013",
+    "115531014",
+    "115531015",
+    "115531016",
+    "115531017",
+    "184383193",
+    "184383185",
+    "184383186",
+    "184383187",
+    "184383188",
+    "184383189",
+    "184383190",
+    "184383191"
+   ]
+  },
+  {
+   "date": "2020-10-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:146435544:por",
+     "title": "Portaria n.º 255/2020",
+     "published": "2020-10-27",
+     "dre_path": "/dr/detalhe/portaria/255-2020-146435544"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75500377",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "127766541",
+    "114289548",
+    "75458305",
+    "75458306",
+    "114289554",
+    "114544579",
+    "114544575",
+    "75458310",
+    "114289556",
+    "115531018",
+    "114544577",
+    "75458314",
+    "114544578",
+    "114289559",
+    "127766540",
+    "184307240",
+    "114289540",
+    "115531012",
+    "115531013",
+    "115531014",
+    "115531015",
+    "115531016",
+    "115531017",
+    "184383193",
+    "184383185",
+    "184383186",
+    "184383187",
+    "184383188",
+    "184383189",
+    "184383190",
+    "184383191"
+   ]
+  },
+  {
+   "date": "2021-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158146139:por",
+     "title": "Portaria n.º 43/2021",
+     "published": "2021-02-23",
+     "dre_path": "/dr/detalhe/portaria/43-2021-158146139"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "75458298",
+    "75500377",
+    "75458299",
+    "75458300",
+    "75458301",
+    "75458302",
+    "127766541",
+    "114289548",
+    "75458305",
+    "75458306",
+    "114289554",
+    "114544579",
+    "114544575",
+    "75458310",
+    "114289556",
+    "115531018",
+    "114544577",
+    "75458314",
+    "114544578",
+    "114289559",
+    "127766540",
+    "184307240",
+    "114289540",
+    "115531012",
+    "115531013",
+    "115531014",
+    "115531015",
+    "115531016",
+    "115531017",
+    "184383193",
+    "184383185",
+    "184307260",
+    "184383187",
+    "184383188",
+    "184383189",
+    "184383190",
+    "184383191"
+   ]
+  }
+ ],
+ "fragments": {
+  "75458298": {
+   "fragment_id": "75468610",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 60-A/2015\n\nde 2 de março\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, define o modelo de governação dos fundos europeus estruturais e de investimento (FEEI) para o período 2014-2020, designado por Portugal 2020, compreendendo o Fundo Europeu de Desenvolvimento Regional (FEDER), o Fundo Social Europeu (FSE),o Fundo de Coesão (FC), o Fundo Europeu Agrícola de Desenvolvimento Rural (FEADER), o Fundo Europeu dos Assuntos Marítimos e das Pescas (FEAMP) e respetivos programas operacionais e programas de desenvolvimento rural (PDR), bem como a estrutura orgânica relativa ao exercício das competências de apoio, monitorização, gestão, acompanhamento e avaliação, certificação, auditoria e controlo nos termos do Regulamento (UE) n.º 1303/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e consigna, ainda, o regime de transição entre o Quadro de Referência Estratégico Nacional (QREN) e o Portugal 2020.\n\nNos termos da alínea c) do n.º 2 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, compete à Comissão Interministerial de Coordenação (CIC Portugal 2020) apreciar e aprovar a regulamentação específica de aplicação dos fundos da política de coesão, sob proposta das respetivas autoridades de gestão e parecer prévio do órgão de coordenação técnica.\n\nA regulamentação específica do PORTUGAL 2020 foi, à semelhança da programação, desenvolvida por domínio de intervenção temático.\n\nAtendendo a que neste período de programação o Fundo Social Europeu é mobilizado quer pelos programas operacionais temáticos quer pelos programas operacionais regionais, é importante estabelecer normas que garantam tratamento harmonizado das operações.\n\nEste regulamento foi proposto pela Agência para o Desenvolvimento e Coesão, I. P. enquanto órgão de coordenação técnica dos fundos da política de coesão e recebeu os contributos das autoridades de gestão dos programas operacionais regionais e dos programas operacionais temáticos.\n\nO regulamento anexo contou com a participação dos órgãos de governo próprios das regiões autónomas dos Açores e da Madeira e da Associação Nacional de Municípios Portugueses.\n\nForam ouvidos os parceiros sociais.\n\nNos termos do n.º 3 do artigo 10.º do Decreto-Lei n.º 137/2014, de 12 de setembro, as deliberações tomadas pela CIC Portugal 2020, no exercício da aprovação de regulamentação específica são adotadas por portaria.\n\nAssim:\n\nManda o Governo, pelo Ministro Adjunto e do Desenvolvimento Regional, o Ministro da Educação e Ciência e o Ministro da Solidariedade, Emprego e Segurança Social, o seguinte:\n\n1 - Adotar o regulamento que estabelece normas comuns sobre o Fundo Social Europeu, que constitui anexo à presente Portaria.\n\n2 - O Regulamento foi aprovado por deliberação da CIC Portugal 2020, em 25.02.2015.\n\n3 - O Regulamento entra em vigor na data da publicação da presente Portaria."
+  },
+  "75458299": {
+   "fragment_id": "75468612",
+   "type": 14,
+   "heading": "Anexo — Regulamento que estabelece Normas Comuns sobre o Fundo Social Europeu",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Regulamento que estabelece Normas Comuns sobre o Fundo Social Europeu"
+  },
+  "75458300": {
+   "fragment_id": "75468613",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece o regime jurídico específico do Fundo Social Europeu (FSE) aplicável às operações apoiadas por este fundo em matéria de elegibilidade de despesas e custos máximos, bem como regras de funcionamento das respetivas candidaturas, em execução do Decreto-Lei n.º 159/2014, de 27 outubro."
+  },
+  "75458301": {
+   "fragment_id": "75468614",
+   "type": 11,
+   "heading": "Artigo 2.º — Conceitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conceitos\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Consultor», aquele que detém o conhecimento e a experiência técnica necessários à elaboração e implementação de intervenções de aconselhamento visando o desenvolvimento organizacional ou mudanças societais, designadamente no âmbito da formação-ação, bem como os que intervenham como prestadores de serviços de consultoria de projetos promovidos por um beneficiário, independentemente da sua natureza;\n\nb) «Contribuição privada», a parcela do custo total elegível aprovado que é financiada pelas entidades beneficiárias, nos termos e de acordo com a taxa fixada nos regulamentos específicos dos programas operacionais ou determinada no respeito pelas normas aplicáveis em matéria de auxílios de Estado;\n\nc) «Custo elegível», o custo real incorrido, enquadrável no âmbito do artigo 11.º, que respeita os limites máximos previstos no presente regulamento ou na regulamentação específica aplicável a uma operação e reúne as demais condições fixadas na legislação nacional e comunitária aplicável;\n\nd) «Custo total elegível aprovado», parcela do custo elegível aprovada nos termos da legislação nacional e comunitária aplicável, antes da dedução de eventuais receitas e da contribuição privada;\n\ne) «Formador», aquele que, devidamente certificado de acordo com o exigido na legislação nacional aplicável nesta matéria, intervém na realização de uma ação de formação, efetua intervenções teóricas ou práticas para grupos de formandos, prepara, desenvolve e avalia sessões de formação, utilizando técnicas e materiais didáticos adequados aos objetivos da ação, com recurso às suas competências técnico pedagógicas, podendo ser-lhe atribuídas outras designações, nomeadamente professor, monitor, animador ou tutor de formação;\n\nf) «Formador externo», aquele que desempenha as atividades previstas na alínea anterior, não tendo vínculo laboral ao beneficiário;\n\ng) «Formador interno permanente ou eventual», aquele que, tendo vínculo laboral a um beneficiário ou aos seus centros ou estruturas de formação, bem como aqueles que nele exerçam funções de gestão, direção ou equiparadas, ou sejam titulares de cargos nos seus órgãos sociais, desempenhem as funções de formador respetivamente como atividade principal ou com caráter secundário ou ocasional;\n\nh) «Mediador pessoal e social», aquele que, tendo ou não vínculo laboral ao beneficiário, tem por função, designadamente, definir e implementar mecanismos de acompanhamento que contribuam para identificar precocemente situações que possam conduzir ao insucesso e ao abandono, definir planos de ação individualizados, e que, no âmbito dos cursos de Educação e Formação de Adultos, assegura o desenvolvimento do módulo de \"Aprender com Autonomia\" nível básico, e da área de \"Portefólio Reflexivo de Aprendizagens\", nível secundário, ou de outras intervenções específicas no quadro das diferentes modalidades de formação;\n\ni) «Mediador sociocultural», aquele que, tendo ou não vínculo laboral ao beneficiário, tem por função, designadamente, intervir nas ações dirigidas à promoção da integração de imigrantes e minorias étnicas, na perspetiva do reforço do diálogo intercultural e da coesão social, bem como outros que intervenham nas áreas da igualdade e violência de género;\n\nj) «Receitas», recursos gerados no decurso de uma operação cofinanciada, os quais são deduzidos, no todo ou proporcionalmente, ao custo total elegível da operação, consoante esta seja cofinanciada, respetivamente, na íntegra ou parcialmente, e que ocorram durante o período de elegibilidade da despesa, designadamente, o produto de vendas, prestações de serviços, alugueres, matrículas, propinas e inscrições, juros credores, ou outras receitas equivalentes."
+  },
+  "75458302": {
+   "fragment_id": "75468615",
+   "type": 11,
+   "heading": "Artigo 3.º — Duração das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Duração das candidaturas\n\n1 - Uma candidatura pode ser anual ou plurianual, não podendo exceder, neste último caso, a duração máxima de 36 meses.\n\n2 - As candidaturas podem ter um prazo de duração máxima superior ao referido no número anterior, desde que previsto na respetiva regulamentação específica, ou caso façam parte integrante de um projeto de investimento financiado por um dos outros Fundos Europeus Estruturais e de Investimento (FEEI)."
+  },
+  "75458303": {
+   "fragment_id": "75468616",
+   "type": 11,
+   "heading": "Artigo 4.º — Operações de reduzida dimensão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Operações de reduzida dimensão\n\n1 - Para os efeitos do disposto no n.º 8 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e sempre que na regulamentação específica que regule a operação a cofinanciar não se preveja outra modalidade de custos simplificados, as candidaturas relativas a operações cujo financiamento público não exceda os 50.000 euros são apoiadas segundo a modalidade de montante fixo, com recurso a um orçamento prévio, dispensando a apresentação de documentos comprovativos de despesa.\n\n2 - O disposto no número anterior não se aplica às operações executadas exclusivamente com recurso a um procedimento de contratação pública, nem às operações abrangidas por regras de auxílios estatais.\n\n3 - De forma a garantir a equidade de tratamento dos beneficiários, o aviso de abertura da candidatura especifica obrigatoriamente as premissas a observar pela autoridade de gestão na aprovação do orçamento prévio e dos resultados a alcançar, de cuja concretização, devidamente demonstrada, depende o pagamento da operação aprovada."
+  },
+  "75458334": {
+   "fragment_id": "75468617",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de funcionamento das candidaturas integradas de formação",
+   "in_force_from": "2015-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+   ],
+   "markdown": "###### Artigo 5.º — Regime de funcionamento das candidaturas integradas de formação\n\n1 - Os parceiros sociais com assento na Comissão Permanente de Concertação Social, ou outras entidades com assento no Conselho Económico Social, neste caso mediante despacho fundamentado dos membros do Governo que tutelam as áreas do desenvolvimento regional, do emprego e do membro do governo setorialmente relevante, podem submeter uma candidatura integrada de formação (CIF), para apoio de uma operação relativa a um conjunto estruturado de ações de caráter formativo, desde que a operação seja realizada por estes ou por organizações setoriais ou regionais suas associadas, com recurso a estruturas de formação certificadas, sendo fixados, na regulamentação específica que preveja esta modalidade, o regime aplicável a estes beneficiários e ao funcionamento das respetivas operações.\n\n2 - Uma CIF pode ser apresentada a uma ou a mais tipologias de operações, desde que estas se integrem num único eixo de um mesmo programa operacional.\n\n3 - Com a apresentação da CIF, os parceiros sociais e as organizações setoriais ou regionais suas associadas ficam impedidos de apresentar outras candidaturas no mesmo concurso ou convite, ainda que a título individual, às tipologias naquela abrangidas.\n\n4 - O parceiro social que promove e coordena a CIF deve assegurar, sem prejuízo das competências próprias das autoridades de gestão, o apoio técnico pedagógico às entidades suas associadas envolvidas no desenvolvimento da candidatura, bem como o acompanhamento factual, técnico pedagógico e contabilístico das operações que a integram, de forma a garantir a concretização dos resultados fixados.\n\n5 - Para os efeitos do disposto no número anterior, o limite máximo de financiamento a considerar para as atividades cometidas às estruturas de apoio técnico das entidades que promovam CIF não pode exceder 10 % do valor aprovado em candidatura para as ações cofinanciadas em regime de custos reais, ajustado à execução verificada no saldo final.\n\n6 - Na fundamentação das CIF deve ser apresentada informação desagregada por cada uma das entidades que integram a respetiva candidatura, nomeadamente no que respeita à programação física e financeira.\n\n7 - Todas as entidades que integram a candidatura são consideradas beneficiárias, independentemente de se tratar dos parceiros sociais ou das entidades associadas à sua realização, aferindo-se, na parte correspondente às respetivas intervenções nas operações, em relação a todas elas, os impedimentos e condicionamentos previstos no artigo 14.º do Decreto-Lei n.º 159/2014, de 27 de outubro, bem como os critérios de elegibilidade dos beneficiários constantes do seu artigo 13.º e as obrigações dos beneficiários previstas no artigo 24.º do mesmo diploma, ficando igualmente sujeitas a ações de verificação, controlo e auditoria por parte das autoridades de gestão e das autoridades de certificação e controlo no âmbito dos FEEI.\n\n8 - Sem prejuízo do disposto no número anterior, a responsabilidade perante as autoridades de gestão dos programas operacionais e demais órgãos de gestão e controlo dos FEEI incumbe, em exclusivo, ao parceiro social que promove e coordena a candidatura, cabendo-lhe, nessa medida, proceder às reposições por inteiro a que haja lugar, nos termos do artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n9 - O disposto no número anterior não prejudica a eventual responsabilidade que, em caso de reposição, caiba às entidades associadas que deram origem àquela obrigação, perante o parceiro social que promove e coordena a candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+  },
+  "75458305": {
+   "fragment_id": "75468618",
+   "type": 11,
+   "heading": "Artigo 6.º — Candidaturas das organizações da economia social membros do Conselho Nacional para a Economia Social",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Candidaturas das organizações da economia social membros do Conselho Nacional para a Economia Social\n\n1 - As organizações da economia social membros do Conselho Nacional para a Economia Social (CNES), em função da dimensão e representatividade apropriadas, podem apresentar candidaturas que integrem um conjunto estruturado de ações formativas, realizadas por estes ou por organizações setoriais ou regionais suas associadas, com recurso a estruturas de formação certificadas, em termos a definir pelas autoridades de gestão.\n\n2 - Sem prejuízo do regime que ficar previsto na regulamentação específica respetiva, designadamente no que diz respeito aos beneficiários e ao funcionamento das respetivas operações, o disposto no artigo anterior é aplicável, com as necessárias adaptações, às candidaturas a que se refere o n.º 1."
+  },
+  "75458306": {
+   "fragment_id": "75468619",
+   "type": 11,
+   "heading": "Artigo 7.º — Candidaturas em parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Candidaturas em parceria\n\n1 - As candidaturas aos apoios do FSE podem ser realizadas em parceria, no desenvolvimento do n.º 4 do artigo 16.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e nos termos das disposições do presente artigo.\n\n2 - As candidaturas desenvolvidas em parceria consistem no envolvimento concertado de diversas entidades na concretização de um projeto, as quais se assumem como parceiras na prossecução desse objetivo comum, tendo em vista a consolidação de sinergias no desenvolvimento das respetivas ações que integram a operação cofinanciada.\n\n3 - Para efeitos do disposto no número anterior, as entidades parceiras devem ser responsáveis pela execução de ações ou partes de ações diferenciadas que integram a operação cofinanciada.\n\n4 - Das candidaturas desenvolvidas em parceria devem constar, designadamente, os seguintes elementos:\n\na) A Indicação sobre a constituição da parceria, o instrumento de formalização e o modo do seu funcionamento, explicitando o contributo e as obrigações de cada uma das entidades parceiras no contexto do projeto a apoiar;\n\nb) O orçamento afeto a cada uma das entidades parceiras e os mecanismos de articulação adotados entre elas;\n\nc) A indicação da entidade que assume a coordenação da parceria, à qual é atribuída a designação de entidade coordenadora.\n\n5 - À entidade coordenadora prevista na alínea c) do número anterior, cabe a articulação, quer com a autoridade de gestão, quer entre as várias entidades parceiras, competindo-lhe ainda assegurar a transferência dos montantes atribuídos pela autoridade de gestão, no âmbito da parceria e proceder às reposições por inteiro a que haja lugar, sem prejuízo da responsabilidade solidária a que todas as entidades parceiras estão obrigadas.\n\n6 - Todas as entidades que integram a candidatura são consideradas entidades beneficiárias, pelo que a verificação dos impedimentos e condicionamentos previstos no artigo 14.º do Decreto-Lei n.º 159/2014, de 27 de outubro, bem como os critérios de elegibilidade dos beneficiários constantes do seu artigo 13.º e as obrigações dos beneficiários previstas no artigo 24.º do mesmo diploma, são exigíveis, na parte correspondente à respetiva ação ou parte de ação integrantes da operação cofinanciada, relativamente a cada uma das entidades parceiras.\n\n7 - Os regulamentos específicos definem, expressamente, as tipologias de operações que admitem candidaturas desenvolvidas em parceria, podendo condicionar a sua admissibilidade às iniciativas e tipos de entidade que considerem adequadas, podendo ainda fixar regras complementares, designadamente, de natureza procedimental, ao disposto no presente regulamento."
+  },
+  "75458307": {
+   "fragment_id": "75468620",
+   "type": 11,
+   "heading": "Artigo 8.º — Processo técnico da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Processo técnico da operação\n\n1 - As entidades beneficiárias ficam obrigadas a organizar um processo técnico da operação cofinanciada, de onde constem os documentos comprovativos da execução das suas diferentes ações e da consecução dos resultados aprovados, o qual, no caso das operações de carácter formativo, corresponde ao processo pedagógico, podendo os referidos processos ter suporte digital.\n\n2 - Devem constar obrigatoriamente do processo referido no número anterior, todas as peças que compõem os procedimentos de contratação pública relacionados com a operação cofinanciada, incluindo os respetivos contratos celebrados.\n\n3 - O processo técnico da operação deve estar sempre atualizado e disponível.\n\n4 - O processo técnico da operação é estruturado segundo as características próprias da operação, devendo incluir, com as necessárias adaptações, a seguinte documentação:\n\na) Programa da ação e respetivo cronograma;\n\nb) Manuais e textos de apoio, bem como a indicação de outros recursos técnicos ou didáticos utilizados na operação, nomeadamente os meios áudio visuais utilizados;\n\nc) Identificação dos formadores, consultores e mediadores que intervêm na ação, contrato de prestação de serviços, se forem externos, e certificado de competências pedagógicas, para o caso dos formadores;\n\nd) Ficha de inscrição dos formandos, informação sobre o processo de seleção e contratos de formação, no caso de formandos desempregados ou de formandos empregados quando frequentem ofertas promovidas por entidades formadoras, os quais devem conter, nomeadamente, a identificação da ação que o formando vai frequentar, a indicação do local e horário em que se realiza a formação, o montante de bolsas ou outros subsídios de formação a que eventualmente haja lugar e a obrigatoriedade de realização de seguros de acidentes pessoais, bem como a identificação do programa operacional que cofinancia a operação;\n\ne) Sumários ou registos das sessões formativas e relatórios de acompanhamento de estágios, workshops, visitas ou outras atividades, devidamente validadas pelos formadores ou outros técnicos responsáveis pela sua execução;\n\nf) Registo de ausências ou de presença de formandos, formadores, outros técnicos e participantes;\n\ng) Enunciados de provas e testes com os respetivos resultados, relatórios de trabalhos e estágios realizados, assim como pautas ou outros documentos que evidenciem o aproveitamento ou classificação dos formandos;\n\nh) Avaliação do desempenho dos formadores, incluindo a perspetiva dos formandos;\n\ni) Informação sobre as atividades e mecanismos de acompanhamento para a promoção da empregabilidade dos formandos, quando aplicável;\n\nj) Relatórios, atas de reuniões ou outros documentos que evidenciem eventuais atividades de acompanhamento e avaliação da ação e as metodologias e instrumentos utilizados;\n\nk) Outros documentos que permitam demonstrar a evidência fáctica da realização das ações de carácter não exclusivamente formativo;\n\nl) Os elementos que evidenciem os resultados fixados nos termos da decisão de aprovação, incluindo o acompanhamento dos respetivos indicadores;\n\nm) Originais de toda a publicidade e informação produzida para a divulgação das operações;\n\nn) Identificação da equipa técnica afeta à operação com a descrição de funções desenvolvidas no âmbito da entidade e do projeto, com o respetivo registo horário, quando aplicável.\n\n5 - O disposto no número anterior considera-se sob a responsabilidade e o controlo do ministério da tutela quando a formação confira habilitação escolar ou académica e seja ministrada por estabelecimento público ou privado de ensino legalmente reconhecido.\n\n6 - A entidade formadora eventualmente contratada fica obrigada a entregar o processo técnico pedagógico no final da ação à entidade beneficiária que a contratou."
+  },
+  "75458308": {
+   "fragment_id": "75468621",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo contabilístico da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Processo contabilístico da operação\n\n1 - No âmbito das modalidades de apoio previstas no n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as entidades beneficiárias ficam obrigadas a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e método de custeio.\n\n2 - Relativamente às operações realizadas na modalidade de custos reais, prevista na alínea a) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os beneficiários ficam ainda obrigados a:\n\na) Organizar o arquivo de forma a garantir o acesso célere aos originais dos documentos de suporte dos lançamentos;\n\nb) Registar nos documentos originais o número de lançamento na contabilidade e a menção do seu financiamento através do FSE, indicando a designação do programa operacional, o número da candidatura e o correspondente valor imputado e, quando tal registo nos documentos originais não seja possível, apresentar, sempre que solicitado, verbete produzido por software de contabilidade adequado do qual constem as referências às contas movimentadas na contabilidade geral e à chave de imputação utilizada;\n\nc) No caso de custos comuns, identificar, para cada operação, a chave de imputação e os seus pressupostos;\n\nd) Elaborar e submeter à autoridade de gestão a listagem de todas as despesas pagas por rubrica do pedido de reembolso e de pagamento do saldo final, de acordo com o modelo a definir pela autoridade de gestão.\n\n3 - Os beneficiários ficam obrigados a submeter à apreciação e validação por um técnico oficial de contas (TOC) ou revisor oficial de contas (ROC) os pedidos de reembolso e a prestação final de contas, devendo o TOC ou o ROC atestar, no encerramento da operação, a regularidade das operações contabilísticas.\n\n4 - Quando os beneficiários sejam entidades da Administração Pública, a obrigação prevista no número anterior é assumida pelo responsável financeiro designado pela respetiva entidade.\n\n5 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo.\n\n6 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar claramente o respetivo bem ou serviço."
+  },
+  "75458309": {
+   "fragment_id": "75468622",
+   "type": 11,
+   "heading": "Artigo 10.º — Período de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Período de elegibilidade\n\n1 - Sem prejuízo dos períodos de elegibilidade fixados nos n.os 4, 5, 6 e 8 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no caso das operações cofinanciadas pelo FSE, o período de elegibilidade das despesas está compreendido entre os 60 dias úteis anteriores à data da apresentação da candidatura e os 45 dias úteis subsequentes à data de conclusão da operação que constituem a data limite para a apresentação do saldo final, em conformidade com a alínea d) do n.º 7 do artigo 25.º do mesmo diploma.\n\n2 - O período de elegibilidade inicial fixado no número anterior não releva para efeito de elegibilidade de despesas relativamente às candidaturas contratualizadas com os organismos públicos formalmente competentes pela concretização das políticas públicas nacionais ou dos respetivos instrumentos, a que se refere o artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro.\n\n3 - O disposto no número anterior não dispensa os destinatários ou entidades destinatárias das políticas públicas, do cumprimento de prazos que lhes sejam fixados para efeitos de submissão dos apoios decorrentes da legislação nacional de enquadramento que instituem aquelas medidas de política.\n\n4 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão, para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada."
+  },
+  "75458310": {
+   "fragment_id": "75468623",
+   "type": 11,
+   "heading": "Artigo 11.º — Custos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Custos elegíveis\n\n1 - A autoridade de gestão analisa e procede ao apuramento dos custos elegíveis, de acordo com os critérios estabelecidos no número seguinte, as regras de elegibilidade, conformidade e razoabilidade das despesas apresentadas pelos beneficiários, podendo reavaliar o custo aprovado em candidatura, nomeadamente no saldo, em função da razoabilidade dos custos e de indicadores de execução e de resultado, desde que tal não determine um aumento do custo total aprovado.\n\n2 - No regime de custos reais de uma operação, consideram-se custos elegíveis os que cumpram, cumulativamente, os seguintes requisitos:\n\na) Sejam suscetíveis de financiamento nos termos da legislação comunitária e nacional relativa ao FSE, atenta a sua natureza e limites máximos;\n\nb) Sejam efetivamente incorridos e pagos pelos beneficiários para a execução das ações que integram a candidatura aprovada pela autoridade de gestão e para os quais haja relevância contabilística e evidência fáctica dos respetivos bens e serviços;\n\nc) Cumpram com os princípios da economia, eficiência e eficácia e da relação custo/benefício;\n\nd) Sejam incorridos e pagos no período de elegibilidade, conforme definido no artigo 10.º do presente regulamento."
+  },
+  "75458311": {
+   "fragment_id": "75468624",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas elegíveis\n\n1 - Para efeitos de determinação do custo total elegível de uma candidatura, no âmbito de operações de caráter formativo, e de projetos no domínio da inclusão social, são elegíveis os seguintes custos efetivamente incorridos e pagos em regime de custos reais:\n\na) Encargos com formandos, as despesas com bolsas, alimentação, transporte e alojamento bem como outras despesas com formandos, designadamente com acolhimento de dependentes a cargo destes;\n\nb) Encargos com formadores e consultores, as despesas com remunerações e outras despesas de docentes e formadores;\n\nc) Encargos com outro pessoal não docente afeto à operação, as despesas com remunerações de pessoal dirigente, técnicos, pessoal administrativo, mediadores socioculturais e mediadores pessoais e sociais, bem como outro pessoal envolvido nas fases de conceção, preparação, desenvolvimento, gestão, acompanhamento e avaliação da operação;\n\nd) Rendas, alugueres e amortizações, as despesas com o aluguer, ou amortização de equipamentos diretamente relacionados com a operação, e as despesas com a renda ou a amortização das instalações onde a formação decorre, assim como os alugueres ou amortizações das viaturas para o transporte dos formandos e outros participantes da operação, sem prejuízo do disposto no n.º 4 do artigo 16.º;\n\ne) Encargos diretos com a preparação, desenvolvimento, acompanhamento e avaliação das operações, as despesas com a elaboração de diagnósticos de necessidades, divulgação da operação, seleção dos formandos e outros participantes, aquisição, elaboração e reprodução de recursos didáticos, aquisição de livros e de documentação, despesas com materiais pedagógicos, com deslocações realizadas pelo grupo no âmbito da respetiva ação de formação e ainda as decorrentes da aquisição de serviços técnicos especializados relacionados com a avaliação dos projetos e dos seus resultados globais, com exceção das previstas na alínea c);\n\nf) Encargos gerais do projeto, outras despesas necessárias à conceção, desenvolvimento e gestão da operação apoiada, nomeadamente as despesas correntes com energia, água, comunicações, materiais consumíveis e bens não duradouros, as despesas gerais de manutenção de equipamentos e instalações, as despesas com consultas jurídicas e emolumentos notariais e com peritagens técnicas e financeiras.\n\n2 - As despesas com prestações sociais dos beneficiários desempregados, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção, são elegíveis no âmbito de intervenções relacionadas com contratos emprego-inserção."
+  },
+  "75458312": {
+   "fragment_id": "75468625",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos com formandos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Encargos com formandos\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis os seguintes encargos com formandos:\n\na) Bolsas de profissionalização, de montante mensal equivalente a 10 % do Indexante de Apoios Sociais (IAS), quando os formandos integram uma oferta formativa em regime de alternância ou, quando tal não se verifique, durante o período em que frequentam formação em contexto de trabalho ou estágio curricular;\n\nb) Bolsas para material de estudo, fixadas em função do grau de carência económica do formando, correspondente ao valor atribuído pelas respetivas medidas e escalões previstos no âmbito da ação social escolar da responsabilidade do Ministério da Educação e Ciência, a atribuir a jovens que frequentem ações de qualificação inicial de dupla certificação;\n\nc) Bolsas de formação atribuídas a pessoas desempregadas com idade igual ou superior a 23 anos, não se aplicando este limite de idades a jovens que reconhecidamente não estejam em educação, formação ou no emprego (jovens NEET) e que não sejam beneficiários da bolsa prevista na alínea a), bem como no caso de pessoas que se encontrem em risco de exclusão social ou com deficiências ou incapacidades, não podendo em regra o valor máximo mensal elegível dessa bolsa ultrapassar o valor de 35 % do IAS, sendo que este valor pode ascender a 50 % do IAS, quando forem destinatários pessoas com deficiências ou incapacidades;\n\nd) Despesas com prestações sociais dos formandos desempregados, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção quando estes frequentem cursos de educação e formação de adultos, formações modulares certificadas e formações para a inclusão, a tempo inteiro ou com uma duração a fixar na regulamentação específica, quando estas ofertas sejam promovidas pelos centros de formação do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), não cumulativos com a atribuição de bolsa de formação prevista na alínea anterior;\n\ne) Bolsas de estudo e de formação avançada atribuídas a estudantes e bolseiros no âmbito das ofertas promovidas pelas instituições do ensino superior e outras instituições e centros de investigação científica, incluindo apoios concedidos para a realização de doutoramentos e pós-doutoramentos, nas condições e montantes definidos na regulamentação de enquadramento aplicável às ações desta natureza;\n\nf) Encargos com remunerações dos ativos em formação que decorra durante o período normal de trabalho, calculados de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho;\n\ng) Encargos com despesas de transporte dos formandos para frequência das ações de formação, incluindo as componentes de formação em contexto de trabalho ou estágio curricular, em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, quando o mesmo não exista ou não seja possível a sua utilização, um subsídio de transporte, até ao limite máximo mensal de 15 % do indexante dos apoios sociais e desde que o formando não aufira subsídio de alojamento;\n\nh) Encargos com alimentação de formandos a frequentar ofertas de formação inicial de dupla certificação, desenvolvidas em entidades formadoras que ofereçam serviços de refeitório ou bufete escolar, encontram-se dependente da assiduidade, podendo ser atribuídas em espécie ou, quando não exista este serviço, o pagamento ao formando de um valor que não pode ultrapassar o montante previsto na alínea seguinte;\n\ni) Encargos com alimentação de formandos, independentemente da sua situação face ao emprego, em montante igual ao atribuído aos trabalhadores com vínculo de trabalho em funções públicas, nos dias em que a frequência da formação seja igual ou superior a três horas e, no caso dos empregados, desde que a formação decorra fora do período normal de trabalho;\n\nj) Encargos com despesas com o acolhimento de filhos menores, filhos com deficiência e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do IAS, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação;\n\nk) Encargos com seguros de acidentes pessoais, no caso de jovens a frequentar ofertas formativas no contexto do sistema de ensino ou aprendizagem ou de formandos ativos desempregados e formandos inativos, e ainda encargos com seguros de acidentes de trabalho, no caso dos empregados;\n\nl) Subsídio de alojamento, até ao limite máximo mensal de 30 % do indexante dos apoios sociais, quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte coletivo compatível com o horário da formação, podendo ainda ser pagas as viagens em transporte coletivo no início e no fim de cada período de formação.\n\n2 - No sector da pesca e aquicultura, aos profissionais sem vínculo contratual ou quando este seja interrompido para a realização da formação, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n3 - No sector da agricultura, aos agricultores não empresários, à mão de obra agrícola familiar e aos trabalhadores eventuais do sector agrícola, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n4 - O pagamento da bolsa de profissionalização prevista na alínea a) e a bolsa de formação prevista na alínea c), ambas do n.º 1, bem como os encargos com despesas de transporte e alimentação, dependem da assiduidade dos formandos registada na frequência da formação, podendo a autoridade de gestão, apenas nos casos de públicos com dificuldades de inserção, autorizar o seu pagamento sem que essa assiduidade se verifique.\n\n5 - O valor mensal da bolsa de formação prevista na alínea c) do n.º 1 é calculado em função do número de horas de formação frequentadas pelo formando, de acordo com a seguinte fórmula:\n\nVbp = (Nhf x Vb x 12 (meses))/(52 (semanas) x N (horas))\n\nem que:\n\nVbp = valor mensal da bolsa de formação a pagar;\n\nVb = valor da bolsa (35 % ou 50 % do IAS, consoante a situação do formando);\n\nNhf = número de horas de formação frequentadas pelo formando;\n\nN = duração semanal da formação aprovada para a oferta cofinanciada.\n\n6 - Os pagamentos a formandos são realizados mensalmente, por transferência bancária, tendo o formando que ser comprovadamente titular da conta, sem prejuízo do disposto no número seguinte, não sendo permitida, em caso algum, a existência de dívidas a formandos.\n\n7 - No caso de formandos menores de idade, a transferência bancária pode ser efetuada para a conta bancária do encarregado de educação e, em situações específicas devidamente fundamentadas, pode a autoridade de gestão autorizar outra forma de pagamento.\n\n8 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 não pode ultrapassar o valor de 75 % do IAS.\n\n9 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 com os previstos nos n.os 2 e 3, não pode ultrapassar o valor de 100 % do IAS."
+  },
+  "75458313": {
+   "fragment_id": "75468626",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos com formadores e consultores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Encargos com formadores e consultores\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis as despesas com remunerações e outras despesas dos formadores e consultores, nos seguintes termos:\n\na) As despesas imputadas à operação com a remuneração base dos docentes, formadores e consultores internos, permanentes ou eventuais, não pode ultrapassar os limites fixados para formadores externos nos termos do n.º 2 do presente artigo, salvo se as respetivas remunerações se encontrarem fixadas por lei, por instrumento de regulamentação coletiva de trabalho ou por referência a esse instrumento, sendo calculada de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho.\n\nb) Os honorários dos formadores externos e os encargos com estes formadores quando debitados por entidades formadoras no âmbito de um contrato de prestação de serviços com o beneficiário, nos termos do n.º 2 do presente artigo;\n\nc) Despesas com alojamento, alimentação e transporte dos formadores, quando a elas houver lugar, incluindo as ajudas de custo, cujo financiamento obedece às regras e aos montantes fixados para atribuição de idênticas despesas aos trabalhadores que exercem funções públicas com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9.\n\n2 - No que respeita aos encargos com docentes e formadores externos que prestem serviços no âmbito da operação apoiada, o respetivo custo horário máximo, ao qual acresce IVA sempre que este seja devido e não dedutível, é determinado em função de valores padrão e dos níveis de qualificação das ações de formação, nos seguintes termos:\n\na) Para os níveis de qualificação 5 e 6, o valor elegível é de (euro) 30 hora/formador;\n\nb) Para os níveis de qualificação 1 a 4, o valor elegível é de (euro) 20 hora/formador.\n\n3 - A contratação de consultores que desenvolvam atividade no âmbito de uma operação cofinanciada, por mais do que um dia por semana ou uma semana por mês, deve ser feita numa base diária ou mensal, respetivamente, sendo-lhes aplicáveis os correspondentes valores padrão das alíneas b) e c), correspondendo o respetivo custo horário padrão à alínea a), valores a que acresce IVA sempre que este seja devido e não dedutível, nos seguintes termos:\n\na) O valor determinado numa base horária é de (euro) 30;\n\nb) O valor determinado numa base diária é de (euro) 170;\n\nc) O valor determinado numa base mensal é de (euro) 2750.\n\n4 - Para efeitos dos n.os 2 e 3, por valor padrão entende-se o máximo que, em cada candidatura, pode atingir o valor médio hora por formador ou consultor, calculado nos termos da seguinte fórmula:\n\nT1/T2\n\nem que:\n\nT1 - total das remunerações pagas a formadores ou consultores externos numa candidatura;\n\nT2 - total das horas de formação/consultoria ministradas numa candidatura por esses formadores ou consultores externos.\n\n5 - O valor resultante da aplicação do valor padrão nos termos do número anterior, não pode exceder, para cada formador externo ou consultor, mais de 50 % dos valores constantes das alíneas previstas respetivamente nos n.os 2 e 3.\n\n6 - Não pode ser paga aos formadores externos ou aos consultores remuneração inferior a 75 % da remuneração resultante da aplicação das regras previstas nos n.os 2 a 5."
+  },
+  "75458314": {
+   "fragment_id": "75468627",
+   "type": 11,
+   "heading": "Artigo 15.º — Encargos com outro pessoal não docente afeto à operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Encargos com outro pessoal não docente afeto à operação\n\nPara efeitos do disposto no presente regulamento, são elegíveis as despesas com remunerações com outro pessoal não docente afeto à operação, nos seguintes termos:\n\na) O custo horário máximo elegível não pode exceder o custo obtido a partir da remuneração a que este pessoal tenha direito por força da sua relação laboral com a entidade empregadora, calculada nos termos previstos na alínea a) do n.º 1 do artigo 14.º, tendo como limite, para efeitos de elegibilidade, o valor previsto para a remuneração base dos cargos de direção superior de 1.º grau da Administração Pública, cujo valor não integra, para efeitos deste limite, quaisquer valores a título de despesas de representação;\n\nb) São ainda elegíveis as despesas com remunerações relativas a horas de trabalho prestadas fora do período normal de trabalho, nomeadamente a título de trabalho extraordinário, desde que seja observado o regime jurídico para o efeito aplicável, no que respeita à sua autorização e limites de duração e remuneratórios, bem como o limite previsto na alínea anterior;\n\nc) Para efeitos de financiamento, quando se verifique acumulação das funções definidas nesta alínea no âmbito de uma operação ou acumulação de uma mesma função reportada a diferentes operações, destas não pode resultar, no conjunto das respetivas imputações às operações cofinanciadas, um valor elegível superior ao limite definido na alínea a);\n\nd) Os honorários do pessoal não docente externo e os encargos decorrentes da prestação destes serviços por entidades externas, os quais obedecem ao limite previsto na alínea anterior;\n\ne) Despesas com alojamento, alimentação e transporte deste pessoal não docente, quando a elas houver lugar, incluindo as ajudas de custo, cujo financiamento obedece às regras e aos montantes fixados para atribuição de idênticas despesas aos trabalhadores que exercem funções públicas com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9."
+  },
+  "75458315": {
+   "fragment_id": "75468628",
+   "type": 11,
+   "heading": "Artigo 16.º — Custos máximos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Custos máximos elegíveis\n\n1 - Os custos máximos elegíveis das candidaturas em regime de custos reais são aferidos em função do indicador de custo máximo por hora e por formando (C/H/F), o qual é calculado com base no somatório dos encargos com outro pessoal afeto ao projeto, dos encargos com rendas, alugueres e amortizações, dos encargos diretos com a preparação, acompanhamento, desenvolvimento e avaliação e dos encargos gerais do projeto, excluindo os encargos com formandos e com formadores, de acordo com as modalidades de formação apoiadas ao abrigo das tipologias de operações cofinanciadas, aplicando-se-lhes os valores constantes do seguinte quadro:\n\nCursos de aprendizagem - 2,5 euros C/H/F\n\nCursos profissionais - 2,5 euros C/H/F\n\nCursos de especialização tecnológica - 2,5 euros C/H/F\n\nCursos técnicos superiores profissionais - 2,5 euros C/H/F\n\nCursos de educação e formação de jovens - 2,5 euros C/H/F\n\nCursos de ensino artístico especializado - 2,5 euros C/H/F\n\nFormações modulares certificadas - 3 euros C/H/F\n\nCursos de educação e formação de adultos - 2,5 euros C/H/F\n\nFormação para a competitividade e internacionalização das empresas - 2,5 euros C/H/F\n\nFormação Ação - 2,5 euros C/H/F\n\nQualificação dos profissionais da Administração Pública - 2,5 euros C/H/F\n\nCursos vocacionais - 2,5 euros C/H/F\n\nCapacitação para a inclusão - 3,5 euros C/H/F\n\nEnsino recorrente - 2,5 euros C/H/F\n\n2 - Os beneficiários podem gerir com flexibilidade a dotação aprovada para o conjunto dos encargos abrangidos pela aplicação do indicador de custo máximo por hora e por formando referido no número anterior, desde que seja respeitado o custo total aprovado da operação.\n\n3 - Nas operações realizadas na modalidade de custos simplificados, na aceção das alíneas c) a e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, a respetiva modalidade é fixada, por deliberação da CIC Portugal 2020 sob proposta da autoridade de gestão respetiva e parecer prévio da Agência para o Desenvolvimento e Coesão, I. P., em função da sua adequação à metodologia adotada.\n\n4 - Em função da natureza das operações, são elegíveis a aquisição de bens móveis e equipamentos no âmbito das tipologias das operações nas áreas do desenvolvimento e modernização das instituições do mercado de trabalho, do desenvolvimento de estruturas de apoio ao emprego, do reforço da capacitação institucional dos parceiros sociais e da economia social, da bolsa especializada de voluntariado, do apoio a organizações da sociedade civil, dos instrumentos e equipamentos específicos de proteção e acolhimento das vítimas, dos apoios na área da inovação social e do empreendedorismo e nas áreas da qualidade, inovação e inclusão do sistema de educação e formação.\n\n5 - A natureza e os limites máximos de elegibilidade previstos no número anterior constam da regulamentação específica ou dos avisos de abertura de candidaturas.\n\n6 - O disposto nos números anteriores não se aplica aos apoios à inserção no mercado de trabalho e ao emprego, sem prejuízo da elegibilidade destes últimos aos apoios do FSE, designadamente quanto a prestações sociais."
+  },
+  "75458335": {
+   "fragment_id": "75468629",
+   "type": 11,
+   "heading": "Artigo 17.º — Despesas e ações não elegíveis",
+   "in_force_from": "2015-08-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+   ],
+   "markdown": "###### Artigo 17.º — Despesas e ações não elegíveis\n\n1 - Para além das despesas não elegíveis previstas nos números 12 a 14 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, não são ainda apoiadas no âmbito do FSE as despesas decorrentes de:\n\na) Contratos que aumentem o custo de execução do projeto sem que lhe seja acrescentado um valor proporcional a esse custo;\n\nb) Contratos celebrados com fornecedores de bens ou serviços cujo pagamento seja condicionado à aprovação do projeto pela autoridade de gestão;\n\nc) Prémios, multas, coimas, sanções financeiras, juros devedores, despesas de câmbio;\n\nd) Despesas com processos judiciais, salvo as despesas que resultem de processos de contencioso tendentes à recuperação de créditos do FSE;\n\ne) Encargos bancários com empréstimos e garantias, com exceção, neste último caso, das exigidas pela legislação nacional relativa à aplicação do FSE e das tipologias de operações relativas a instrumentos financeiros;\n\nf) Compensações pela caducidade do contrato de trabalho ou indemnizações por cessação do contrato de trabalho de pessoal afeto à operação, bem como as entregas relativas ao Fundo de Compensação do Trabalho;\n\ng) Encargos não obrigatórios com o pessoal afeto à operação;\n\nh) Quaisquer negócios jurídicos celebrados, seja a que título for, com titulares de cargos de órgãos sociais, salvo os decorrentes de contrato de trabalho celebrado previamente à submissão da candidatura do beneficiário;\n\ni) Imputação de despesas com a participação de formandos quando aos contratos de formação com eles celebrados sejam apostas cláusulas de caráter indemnizatório ou penal;\n\nj) Aquisição de bens imóveis;\n\nk) Aquisição de bens móveis que sejam passíveis de amortização, incluindo veículos de transporte de pessoas, salvo o disposto no n.º 4 do artigo anterior.\n\nl) Operações cujo beneficiário não declare a inexistência de salários em atraso.\n\n2 - No âmbito das formações modulares certificadas e da formação para a competitividade e internacionalização das empresas, não são elegíveis ações de formação com duração inferior a 25 horas, ainda que correspondam a uma Unidade de Formação de Curta Duração (UFCD) integrada no Catálogo Nacional de Qualificações, nos termos da Portaria n.º 781/2009, de 23 de julho.\n\n3 - Em função da prioridade da oferta formativa em causa ou da natureza dos públicos, pode ser excecionalmente fixado um limite inferior ao estabelecido no número anterior nos avisos de concurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+  },
+  "75458317": {
+   "fragment_id": "75468630",
+   "type": 11,
+   "heading": "Artigo 18.º — Eficiência e resultados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Eficiência e resultados\n\n1 - Em relação aos cursos de aprendizagem, cursos profissionais, cursos de especialização tecnológica, cursos técnicos superiores profissionais, cursos de educação e formação e adultos e cursos vocacionais do secundário, só são financiadas operações que se proponham atingir no mínimo 50 % de empregabilidade dos formandos nos seis meses seguintes ao fim do curso em causa, o que deve constar dos resultados a contratualizar com os beneficiários.\n\n2 - Para os efeitos previstos neste artigo, a empregabilidade afere-se mediante a verificação do pagamento de contribuições para a Segurança Social ou pelo prosseguimento de estudos.\n\n3 - Por cada ponto percentual (p.p.) abaixo do nível de empregabilidade contratualizado, procede-se a uma redução de meio p.p. sobre a despesa total elegível a pagar no saldo final, num máximo de 10 %.\n\n4 - A penalização referida no número anterior não é aplicável quando os resultados alcançados atinjam 85 % dos resultados contratualizados, ou 75 % quando se trate de operações que decorram em territórios de baixa densidade.\n\n5 - Se o nível de empregabilidade se situar abaixo de 50 %, o curso não pode ser novamente apoiado em operação subsequente do mesmo beneficiário.\n\n6 - Nas situações em que se verifique superação dos resultados contratualizados, é constituída uma reserva de eficiência e desempenho equivalente a um p.p. do valor total elegível da operação por cada p.p. de superação, até ao limite de 10 % dos valores referidos no n.º 1 do artigo 16.º, nos termos a definir por deliberação da CIC Portugal 2020.\n\n7 - A reserva de eficiência e desempenho referida no número anterior pode ser utilizada pelo beneficiário para compensar eventual situação de insucesso de resultados em outras operações ou em reforço de operações subsequentes, no âmbito dos apoios do FSE.\n\n8 - A definição de baixa densidade para efeitos do presente regulamento é adotada por deliberação da CIC Portugal 2020.\n\n9 - Os resultados contratados podem ser objeto de revisão pela autoridade de gestão, mediante pedido do beneficiário, quando sejam invocadas circunstâncias supervenientes, imprevisíveis à data de decisão de aprovação, incontornáveis e não imputáveis ao beneficiário e desde que a operação continue a garantir as condições de seleção do respetivo concurso.\n\n10 - Nas tipologias de operações não referidas no n.º 1 a matéria de reserva de eficiência e resultados é estipulada na regulamentação específica ou em sede de aviso de concurso."
+  },
+  "75458318": {
+   "fragment_id": "75468631",
+   "type": 11,
+   "heading": "Artigo 19.º — Contribuição privada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Contribuição privada\n\n1 - As obrigações em matéria de contribuição privada, nos projetos financiados pelo FSE, são definidas pelos regulamentos específicos dos PO, observando, quando aplicável, as normas em matéria de auxílios de Estado, na aceção do artigo 107.º do Tratado sobre o Funcionamento da União Europeia (TFUE).\n\n2 - Nas operações de caráter formativo, cujos beneficiários são entidades empregadoras, os encargos com remunerações dos ativos empregados em formação durante o período normal de trabalho, calculados de acordo com as regras definidas na alínea f) do n.º 1 do artigo 13.º são elegíveis apenas a título de contribuição privada."
+  },
+  "75458319": {
+   "fragment_id": "75468632",
+   "type": 11,
+   "heading": "Artigo 20.º — Contribuição pública nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Contribuição pública nacional\n\nNas operações de caráter formativo, cujos beneficiários são entidades empregadoras públicas, os encargos com remunerações dos ativos empregados em formação durante o período normal de trabalho, calculados de acordo com as regras definidas na alínea f) do n.º 1 do artigo 13.º, são elegíveis na sua totalidade podendo ser contabilizados a título de contribuição pública nacional, nos termos do n.º 3 do artigo 67.º do Decreto-Lei n.º 137/2014, de 12 de setembro."
+  },
+  "75458320": {
+   "fragment_id": "75468633",
+   "type": 11,
+   "heading": "Artigo 21.º — Processos em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processos em curso\n\nÀs candidaturas aprovadas no âmbito do Quadro de Referência Estratégico Nacional (QREN), aplica-se o regime previsto no despacho normativo n.º 4-A/2008, de 24 de janeiro."
+  },
+  "75458321": {
+   "fragment_id": "75468634",
+   "type": 11,
+   "heading": "Artigo 22.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produção de efeitos\n\nO presente regulamento produz efeitos a partir da data de entrada em vigor do Decreto-Lei n.º 159/2014, de 27 de outubro."
+  },
+  "75458322": {
+   "fragment_id": "75468635",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\n1 - No âmbito do período de programação 2014-2020, podem ser consideradas elegíveis, sem prejuízo do disposto no n.º 4 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as despesas efetivamente realizadas e pagas pelas entidades beneficiárias, antes da aprovação das candidaturas que as integram, desde que tenham ocorrido a partir de 1 de janeiro de 2014, data de início da elegibilidade das despesas suscetíveis de ser financiadas pelos PO apoiados pelo FSE, e no caso da Iniciativa para o Emprego dos Jovens (IEJ), eixo 2 do programa operacional temático inclusão social e emprego, são elegíveis desde 1 de setembro de 2013.\n\n2 - O disposto no número anterior aplica-se às candidaturas apresentadas à autoridade de gestão até 31 de dezembro de 2015 e desde que tal seja definido no aviso de abertura do concurso.\n\n3 - As candidaturas apresentadas até ao limite do prazo estabelecido no número anterior não estão sujeitas ao período inicial de elegibilidade das despesas previsto no n.º 1 do artigo 10.º do presente regulamento.\n\n4 - Aos projetos iniciados antes da entrada em vigor do presente regulamento e dos regulamentos específicos aplicáveis no período de programação 2014-2020, e integrados em candidaturas apresentadas no âmbito do período de programação 2014-2020, desde que apresentadas nos termos do n.º 2, podem aplicar-se, até à sua conclusão, o regime contido nos diplomas aplicáveis no âmbito do período de programação 2007-2013 e condições previstas no n.º 3, desde que não contrariem os regulamentos comunitários e a decisão de aprovação do respetivo PO."
+  },
+  "75458323": {
+   "fragment_id": "75468636",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma final\n\nO disposto no presente regulamento aplica-se, com as necessárias adaptações, aos programas operacionais das regiões autónomas dos Açores e da Madeira, designadamente no que se refere às regras de elegibilidade das despesas, nos termos a definir pelos respetivos governos regionais."
+  },
+  "75458336": {
+   "fragment_id": "75468621",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo contabilístico da operação",
+   "in_force_from": "2016-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 9.º — Processo contabilístico da operação\n\n1 - No âmbito das modalidades de apoio previstas no n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as entidades beneficiárias ficam obrigadas a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e método de custeio.\n\n2 - Relativamente às operações realizadas na modalidade de custos reais, prevista na alínea a) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os beneficiários ficam ainda obrigados a:\n\na) Organizar o arquivo de forma a garantir o acesso célere aos originais dos documentos de suporte dos lançamentos;\n\nb) Registar nos documentos originais o número de lançamento na contabilidade e a menção do seu financiamento através do FSE, indicando a designação do programa operacional, o número da candidatura e o correspondente valor imputado e, quando tal registo nos documentos originais não seja possível, apresentar, sempre que solicitado, verbete produzido por software de contabilidade adequado do qual constem as referências às contas movimentadas na contabilidade geral e à chave de imputação utilizada;\n\nc) No caso de custos comuns, identificar, para cada operação, a chave de imputação e os seus pressupostos;\n\nd) Elaborar e submeter à autoridade de gestão a listagem de todas as despesas pagas por rubrica do pedido de reembolso e de pagamento do saldo final, de acordo com o modelo a definir pela autoridade de gestão.\n\n3 - Os beneficiários ficam obrigados a submeter à apreciação e validação por um técnico oficial de contas (TOC) ou revisor oficial de contas (ROC) os pedidos de reembolso e a prestação final de contas, devendo o TOC ou o ROC atestar, no encerramento da operação, a regularidade das operações contabilísticas.\n\n4 - Quando os beneficiários sejam entidades da Administração Pública, a obrigação prevista no número anterior é assumida pelo responsável financeiro designado pela respetiva entidade;\n\n5 - As entidades públicas sujeitas à apresentação da conta de gerência ao Tribunal de Contas podem, em situações excecionais, devidamente fundamentadas, nomeadamente quando assumam a qualidade de entidades beneficiárias responsáveis pela execução de políticas públicas, a que se refere o artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, ser dispensadas, pela autoridade de gestão, do cumprimento do disposto na alínea b) do n.º 2, desde que respeitados os princípios da não duplicação de apoios comunitários e do registo contabilístico e que não resulte prejudicada a verificação da respetiva despesa.\n\n6 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo;\n\n7 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar claramente o respetivo bem ou serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "75458337": {
+   "fragment_id": "75468625",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos com formandos",
+   "in_force_from": "2016-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 13.º — Encargos com formandos\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis os seguintes encargos com formandos:\n\na) Bolsas de profissionalização, de montante mensal equivalente a 10 % do Indexante de Apoios Sociais (IAS), quando os formandos integram uma oferta formativa em regime de alternância ou, quando tal não se verifique, durante o período em que frequentam formação em contexto de trabalho ou estágio curricular;\n\nb) Bolsas para material de estudo, fixadas em função do grau de carência económica do formando, correspondente ao valor atribuído pelas respetivas medidas e escalões previstos no âmbito da ação social escolar da responsabilidade do Ministério da Educação e Ciência, a atribuir a jovens que frequentem ações de qualificação inicial de dupla certificação;\n\nc) Bolsas de formação atribuídas a pessoas desempregadas com idade igual ou superior a 23 anos, não se aplicando este limite de idades a jovens que reconhecidamente não estejam em educação, formação ou no emprego (jovens NEET) e que não sejam beneficiários da bolsa prevista na alínea a), bem como no caso de pessoas que se encontrem em risco de exclusão social ou com deficiências ou incapacidades, não podendo em regra o valor máximo mensal elegível dessa bolsa ultrapassar o valor de 35 % do IAS, sendo que este valor pode ascender a 50 % do IAS, quando forem destinatários pessoas com deficiências ou incapacidades;\n\nd) Despesas com prestações sociais dos formandos desempregados, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção quando estes frequentem cursos de educação e formação de adultos, formações modulares certificadas e formações para a inclusão, a tempo inteiro ou com uma duração a fixar na regulamentação específica, quando estas ofertas sejam promovidas pelos centros de formação do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), não cumulativos com a atribuição de bolsa de formação prevista na alínea anterior;\n\ne) Bolsas de estudo e de formação avançada atribuídas a estudantes e bolseiros no âmbito das ofertas promovidas pelas instituições do ensino superior e outras instituições e centros de investigação científica, incluindo apoios concedidos para a realização de doutoramentos e pós-doutoramentos, nas condições e montantes definidos na regulamentação de enquadramento aplicável às ações desta natureza;\n\nf) Encargos com remunerações dos ativos em formação que decorra durante o período normal de trabalho, calculados de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho;\n\ng) Encargos com despesas de transporte dos formandos para frequência das ações de formação, incluindo as componentes de formação em contexto de trabalho ou estágio curricular, em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, quando o mesmo não exista ou não seja possível a sua utilização, um subsídio de transporte, até ao limite máximo mensal de 15 % do indexante dos apoios sociais e desde que o formando não aufira subsídio de alojamento;\n\nh) Encargos com alimentação de formandos a frequentar ofertas de formação desenvolvidas em entidades formadoras que ofereçam serviços de refeitório ou bufete escolar, podendo ser atribuídas em espécie ou, quando não exista este serviço, o pagamento ao formando de um valor que não pode ultrapassar o montante previsto na alínea seguinte, exceto nas condições previstas na alínea l), caso em que pode haver lugar ao pagamento desse valor em dobro;\n\ni) Encargos com alimentação de formandos, independentemente da sua situação face ao emprego, em montante igual ao atribuído aos trabalhadores com vínculo de trabalho em funções públicas, nos dias em que a frequência da formação seja igual ou superior a três horas e, no caso dos empregados, desde que a formação decorra fora do período normal de trabalho;\n\nj) Encargos com despesas com o acolhimento de filhos menores, filhos com deficiência e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do IAS, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação;\n\nk) Encargos com seguros de acidentes pessoais, no caso de jovens a frequentar ofertas formativas no contexto do sistema de ensino ou aprendizagem ou de formandos ativos desempregados e formandos inativos, e ainda encargos com seguros de acidentes de trabalho, no caso dos empregados;\n\nl) Subsídio de alojamento, até ao limite máximo mensal de 30 % do indexante dos apoios sociais, quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte coletivo compatível com o horário da formação, podendo ainda ser pagas as viagens em transporte coletivo no início e no fim de cada período de formação.\n\n2 - Os subsídios referidos nas alíneas g) e l) do número anterior podem ser atribuídos em espécie, não podendo o seu montante ultrapassar os limites nelas previstos.\n\n3 - No sector da pesca e aquicultura, aos profissionais sem vínculo contratual ou quando este seja interrompido para a realização da formação, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n4 - No sector da agricultura, aos agricultores não empresários, à mão de obra agrícola familiar e aos trabalhadores eventuais do sector agrícola, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n5 - O pagamento da bolsa de profissionalização prevista na alínea a) e da bolsa de formação prevista na alínea c), ambas do n.º 1, bem como os encargos com despesas de transporte e alimentação, dependem da assiduidade dos formandos registada na frequência da formação.\n\n6 - Para efeitos do disposto no número anterior, só podem ser consideradas as faltas justificadas até um limite máximo de 5 % do número de horas totais do percurso de formação, sem prejuízo de a autoridade de gestão poder autorizar, caso a caso, um limite superior.\n\n7 - O valor mensal da bolsa de formação prevista na alínea c) do n.º 1 é calculado em função do número de horas de formação frequentadas pelo formando, de acordo com a seguinte fórmula:\n\nVbp = (Nhf x Vb x 12 (meses))/(52 (semanas) x 30 horas)\n\nem que:\n\nVbp = valor mensal da bolsa de formação a pagar;\n\nVb = valor da bolsa (35 % ou 50 % do IAS, consoante a situação do formando);\n\nNhf = número mensal de horas de formação frequentadas pelo formando.\n\n8 - Os pagamentos a formandos são realizados mensalmente, por transferência bancária, tendo o formando que ser comprovadamente titular da conta, sem prejuízo do disposto no número seguinte, não sendo permitida, em caso algum, a existência de dívidas a formandos.\n\n9 - No caso de formandos menores de idade, a transferência bancária pode ser efetuada para a conta bancária do encarregado de educação e, em situações específicas devidamente fundamentadas, pode a autoridade de gestão autorizar outra forma de pagamento.\n\n10 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 não pode ultrapassar o valor de 75 % do IAS.\n\n11 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 com os previstos nos n.os 2 e 3, não pode ultrapassar o valor de 100 % do IAS.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "75458338": {
+   "fragment_id": "75468626",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos com formadores e consultores",
+   "in_force_from": "2016-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 14.º — Encargos com formadores e consultores\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis as despesas com remunerações e outras despesas dos formadores e consultores, nos seguintes termos:\n\na) As despesas imputadas à operação com a remuneração base dos docentes, formadores e consultores internos, permanentes ou eventuais, não pode ultrapassar os limites fixados para formadores externos nos termos do n.º 2 do presente artigo, salvo se as respetivas remunerações se encontrarem fixadas por lei, por instrumento de regulamentação coletiva de trabalho ou por referência a esse instrumento, sendo calculada de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho.\n\nb) Os honorários dos formadores externos e os encargos com estes formadores quando debitados por entidades formadoras no âmbito de um contrato de prestação de serviços com o beneficiário, nos termos do n.º 2 do presente artigo;\n\nc) Despesas com alojamento, alimentação e transporte dos formadores, quando a elas houver lugar, incluindo as ajudas de custo, cujo financiamento obedece às regras e aos montantes fixados para atribuição de idênticas despesas aos trabalhadores que exercem funções públicas com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9.\n\n2 - No que respeita aos encargos com docentes e formadores externos que prestem serviços no âmbito da operação apoiada, o respetivo custo horário máximo, ao qual acresce IVA sempre que este seja devido e não dedutível, é determinado em função de valores padrão e dos níveis de qualificação das ações de formação, nos seguintes termos:\n\na) Para os níveis de qualificação 5 e 6, o valor elegível é de (euro) 30 hora/formador;\n\nb) Para os níveis de qualificação 1 a 4, o valor elegível é de (euro) 20 hora/formador.\n\n3 - A contratação de consultores que desenvolvam atividade no âmbito de uma operação cofinanciada, por mais do que um dia por semana ou uma semana por mês, deve ser feita numa base diária ou mensal, respetivamente, sendo-lhes aplicáveis os correspondentes valores padrão das alíneas b) e c), correspondendo o respetivo custo horário padrão à alínea a), valores a que acresce IVA sempre que este seja devido e não dedutível, nos seguintes termos:\n\na) O valor determinado numa base horária é de (euro) 30;\n\nb) O valor determinado numa base diária é de (euro) 170;\n\nc) O valor determinado numa base mensal é de (euro) 2750.\n\n4 - Para efeitos dos n.os 2 e 3, por valor padrão entende-se o máximo que, em cada candidatura, pode atingir o valor médio hora por formador ou consultor, calculado nos termos da seguinte fórmula:\n\nT1/T2\n\nem que:\n\nT1 - total das remunerações pagas a formadores ou consultores externos numa candidatura;\n\nT2 - total das horas de formação/consultoria ministradas numa candidatura por esses formadores ou consultores externos.\n\n5 - O valor resultante da aplicação do valor padrão nos termos do número anterior, não pode exceder, para cada formador externo ou consultor, mais de 50 % dos valores constantes das alíneas previstas respetivamente nos n.os 2 e 3.\n\n6 - Não pode ser paga aos formadores externos ou aos consultores remuneração inferior a 75 % da remuneração resultante da aplicação das regras previstas no n.os 2 a 5, exceto quando a prática desses valores decorra da aplicação das normas da Lei do Orçamento do Estado em contratos de aquisição de serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "75458339": {
+   "fragment_id": "75468635",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": "2016-05-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\n1 - No âmbito do período de programação 2014-2020, podem ser consideradas elegíveis, sem prejuízo do disposto no n.º 4 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as despesas efetivamente realizadas e pagas pelas entidades beneficiárias, antes da aprovação das candidaturas que as integram, desde que tenham ocorrido a partir de 1 de janeiro de 2014, data de início da elegibilidade das despesas suscetíveis de ser financiadas pelos PO apoiados pelo FSE, e no caso da Iniciativa para o Emprego dos Jovens (IEJ), eixo 2 do programa operacional temático inclusão social e emprego, são elegíveis desde 1 de setembro de 2013.\n\n2 - O disposto no número anterior aplica-se às candidaturas apresentadas à autoridade de gestão até 30 de junho de 2016 e desde que tal seja definido no aviso de abertura de concurso.\n\n3 - As candidaturas apresentadas até ao limite do prazo estabelecido no número anterior não estão sujeitas ao período inicial de elegibilidade das despesas previsto no n.º 1 do artigo 10.º do presente regulamento.\n\n4 - Aos projetos iniciados antes da entrada em vigor do presente regulamento e dos regulamentos específicos aplicáveis no período de programação 2014-2020, e integrados em candidaturas apresentadas no âmbito do período de programação 2014-2020, desde que apresentadas nos termos do n.º 2, podem aplicar-se, até à sua conclusão, o regime contido nos diplomas aplicáveis no âmbito do período de programação 2007-2013 e condições previstas no n.º 3, desde que não contrariem os regulamentos comunitários e a decisão de aprovação do respetivo PO.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "75500377": {
+   "fragment_id": "75491431",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro Adjunto e do Desenvolvimento Regional, Luís Miguel Poiares Pessoa Maduro, em 1 de março de 2015. - O Ministro da Educação e Ciência, Nuno Paulo de Sousa Arrobas Crato, em 27 de fevereiro de 2015. - O Ministro da Solidariedade, Emprego e Segurança Social, Luís Pedro Russo da Mota Soares, em 27 de fevereiro de 2015.\n\nAprovado em reunião da Comissão Interministerial de Coordenação do Portugal 2020, em 25 de fevereiro de 2015.\n\nO Secretário de Estado do Desenvolvimento Regional, Manuel Castro Almeida."
+  },
+  "114289548": {
+   "fragment_id": "75468617",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime de funcionamento das candidaturas integradas de formação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+   ],
+   "markdown": "###### Artigo 5.º — Regime de funcionamento das candidaturas integradas de formação\n\n1 - Os parceiros sociais com assento na Comissão Permanente de Concertação Social, ou outras entidades com assento no Conselho Económico Social, neste caso mediante despacho fundamentado dos membros do Governo que tutelam as áreas do desenvolvimento regional, do emprego e do membro do governo setorialmente relevante, podem submeter uma candidatura integrada de formação (CIF), para apoio de uma operação relativa a um conjunto estruturado de ações de caráter formativo, desde que a operação seja realizada por estes ou por organizações setoriais ou regionais suas associadas, com recurso a estruturas de formação certificadas, sendo fixados, na regulamentação específica que preveja esta modalidade, o regime aplicável a estes beneficiários e ao funcionamento das respetivas operações.\n\n2 - Uma CIF pode ser apresentada a uma ou a mais tipologias de operações, desde que estas se integrem num único eixo de um mesmo programa operacional.\n\n3 - Com a apresentação da CIF, os parceiros sociais e as organizações setoriais ou regionais suas associadas ficam impedidos de apresentar outras candidaturas no mesmo concurso ou convite, ainda que a título individual, às tipologias naquela abrangidas.\n\n4 - O parceiro social que promove e coordena a CIF deve assegurar, sem prejuízo das competências próprias das autoridades de gestão, o apoio técnico pedagógico às entidades suas associadas envolvidas no desenvolvimento da candidatura, bem como o acompanhamento factual, técnico pedagógico e contabilístico das operações que a integram, de forma a garantir a concretização dos resultados fixados.\n\n5 - Para os efeitos do disposto no número anterior, o limite máximo de financiamento a considerar para as atividades cometidas às estruturas de apoio técnico das entidades que promovam CIF não pode exceder 10 % do valor aprovado em candidatura para as ações cofinanciadas em regime de custos reais, ajustado à execução verificada no saldo final.\n\n6 - Na fundamentação das CIF deve ser apresentada informação desagregada por cada uma das entidades que integram a respetiva candidatura, nomeadamente no que respeita à programação física e financeira.\n\n7 - Todas as entidades que integram a candidatura são consideradas beneficiárias, independentemente de se tratar dos parceiros sociais ou das entidades associadas à sua realização, aferindo-se, na parte correspondente às respetivas intervenções nas operações, em relação a todas elas, os impedimentos e condicionamentos previstos no artigo 14.º do Decreto-Lei n.º 159/2014, de 27 de outubro, bem como os critérios de elegibilidade dos beneficiários constantes do seu artigo 13.º e as obrigações dos beneficiários previstas no artigo 24.º do mesmo diploma, ficando igualmente sujeitas a ações de verificação, controlo e auditoria por parte das autoridades de gestão e das autoridades de certificação e controlo no âmbito dos FEEI.\n\n8 - Sem prejuízo do disposto no número anterior, a responsabilidade perante as autoridades de gestão dos programas operacionais e demais órgãos de gestão e controlo dos FEEI incumbe, em exclusivo, ao parceiro social que promove e coordena a candidatura, cabendo-lhe, nessa medida, proceder às reposições por inteiro a que haja lugar, nos termos do artigo 26.º do Decreto-Lei n.º 159/2014, de 27 de outubro.\n\n9 - O disposto no número anterior não prejudica a eventual responsabilidade que, em caso de reposição, caiba às entidades associadas que deram origem àquela obrigação, perante o parceiro social que promove e coordena a candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+  },
+  "114289554": {
+   "fragment_id": "75468620",
+   "type": 11,
+   "heading": "Artigo 8.º — Processo técnico da operação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Processo técnico da operação\n\n1 - As entidades beneficiárias ficam obrigadas a organizar um processo técnico da operação cofinanciada, de onde constem os documentos comprovativos da execução das suas diferentes ações e da consecução dos resultados aprovados, o qual, no caso das operações de carácter formativo, corresponde ao processo pedagógico, podendo os referidos processos ter suporte digital.\n\n2 - Devem constar obrigatoriamente do processo referido no número anterior, todas as peças que compõem os procedimentos de contratação pública relacionados com a operação cofinanciada, incluindo os respetivos contratos celebrados.\n\n3 - O processo técnico da operação deve estar sempre atualizado e disponível.\n\n4 - O processo técnico da operação é estruturado segundo as características próprias da operação, devendo incluir, com as necessárias adaptações, a seguinte documentação:\n\na) Programa da ação e respetivo cronograma;\n\nb) Manuais e textos de apoio, bem como a indicação de outros recursos técnicos ou didáticos utilizados na operação, nomeadamente os meios áudio visuais utilizados;\n\nc) Identificação dos formadores, consultores e mediadores que intervêm na ação, contrato de prestação de serviços, se forem externos, e certificado de competências pedagógicas, para o caso dos formadores;\n\nd) Ficha de inscrição dos formandos, informação sobre o processo de seleção e contratos de formação, no caso de formandos desempregados ou de formandos empregados quando frequentem ofertas promovidas por entidades formadoras, os quais devem conter, nomeadamente, a identificação da ação que o formando vai frequentar, a indicação do local e horário em que se realiza a formação, o montante de bolsas ou outros subsídios de formação a que eventualmente haja lugar e a obrigatoriedade de realização de seguros de acidentes pessoais, bem como a identificação do programa operacional que cofinancia a operação;\n\ne) Sumários ou registos das sessões formativas e relatórios de acompanhamento de estágios, workshops, visitas ou outras atividades, devidamente validadas pelos formadores ou outros técnicos responsáveis pela sua execução;\n\nf) Registo de ausências ou de presença de formandos, formadores, outros técnicos e participantes;\n\ng) Enunciados de provas e testes com os respetivos resultados, relatórios de trabalhos e estágios realizados, assim como pautas ou outros documentos que evidenciem o aproveitamento ou classificação dos formandos;\n\nh) Avaliação do desempenho dos formadores, incluindo a perspetiva dos formandos;\n\ni) Informação sobre as atividades e mecanismos de acompanhamento para a promoção da empregabilidade dos formandos, quando aplicável;\n\nj) Relatórios, atas de reuniões ou outros documentos que evidenciem eventuais atividades de acompanhamento e avaliação da ação e as metodologias e instrumentos utilizados;\n\nk) Outros documentos que permitam demonstrar a evidência fáctica da realização das ações de carácter não exclusivamente formativo;\n\nl) Os elementos que evidenciem os resultados fixados nos termos da decisão de aprovação, incluindo o acompanhamento dos respetivos indicadores;\n\nm) Originais de toda a publicidade e informação produzida para a divulgação das operações;\n\nn) Identificação da equipa técnica afeta à operação com a descrição de funções desenvolvidas no âmbito da entidade e do projeto, com o respetivo registo horário, quando aplicável.\n\n5 - O disposto no número anterior considera-se sob a responsabilidade e o controlo do ministério da tutela quando a formação confira habilitação escolar ou académica e seja ministrada por estabelecimento público ou privado de ensino legalmente reconhecido.\n\n6 - A entidade formadora eventualmente contratada fica obrigada a entregar o processo técnico pedagógico no final da ação à entidade beneficiária que a contratou."
+  },
+  "114289555": {
+   "fragment_id": "75468621",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo contabilístico da operação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 9.º — Processo contabilístico da operação\n\n1 - No âmbito das modalidades de apoio previstas no n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as entidades beneficiárias ficam obrigadas a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e método de custeio.\n\n2 - Relativamente às operações realizadas na modalidade de custos reais, prevista na alínea a) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os beneficiários ficam ainda obrigados a:\n\na) Organizar o arquivo de forma a garantir o acesso célere aos originais dos documentos de suporte dos lançamentos;\n\nb) Registar nos documentos originais o número de lançamento na contabilidade e a menção do seu financiamento através do FSE, indicando a designação do programa operacional, o número da candidatura e o correspondente valor imputado e, quando tal registo nos documentos originais não seja possível, apresentar, sempre que solicitado, verbete produzido por software de contabilidade adequado do qual constem as referências às contas movimentadas na contabilidade geral e à chave de imputação utilizada;\n\nc) No caso de custos comuns, identificar, para cada operação, a chave de imputação e os seus pressupostos;\n\nd) Elaborar e submeter à autoridade de gestão a listagem de todas as despesas pagas por rubrica do pedido de reembolso e de pagamento do saldo final, de acordo com o modelo a definir pela autoridade de gestão.\n\n3 - Os beneficiários ficam obrigados a submeter à apreciação e validação por um técnico oficial de contas (TOC) ou revisor oficial de contas (ROC) os pedidos de reembolso e a prestação final de contas, devendo o TOC ou o ROC atestar, no encerramento da operação, a regularidade das operações contabilísticas.\n\n4 - Quando os beneficiários sejam entidades da Administração Pública, a obrigação prevista no número anterior é assumida pelo responsável financeiro designado pela respetiva entidade;\n\n5 - As entidades públicas sujeitas à apresentação da conta de gerência ao Tribunal de Contas podem, em situações excecionais, devidamente fundamentadas, nomeadamente quando assumam a qualidade de entidades beneficiárias responsáveis pela execução de políticas públicas, a que se refere o artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro, ser dispensadas, pela autoridade de gestão, do cumprimento do disposto na alínea b) do n.º 2, desde que respeitados os princípios da não duplicação de apoios comunitários e do registo contabilístico e que não resulte prejudicada a verificação da respetiva despesa.\n\n6 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo;\n\n7 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar claramente o respetivo bem ou serviço.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "114289539": {
+   "fragment_id": "75468622",
+   "type": 11,
+   "heading": "Artigo 10.º — Período de elegibilidade",
+   "in_force_from": "2017-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2017 - Diário da República n.º 68/2017, Série I de 2017-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/129-2017-106829420), em vigor a partir de 2017-04-06"
+   ],
+   "markdown": "###### Artigo 10.º — Período de elegibilidade\n\n1 - Sem prejuízo dos períodos de elegibilidade fixados nos n.os 4, 5, 6 e 8 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no caso das operações cofinanciadas pelo FSE, o período de elegibilidade das despesas está compreendido entre os 60 dias úteis anteriores à data da apresentação da candidatura e os 45 dias úteis subsequentes à data de conclusão da operação que constituem a data limite para a apresentação do saldo final, em conformidade com a alínea d) do n.º 7 do artigo 25.º do mesmo diploma.\n\n2 - O período de elegibilidade inicial fixado no número anterior não releva para efeito de elegibilidade de despesas relativamente às candidaturas contratualizadas com os organismos públicos formalmente competentes pela concretização das políticas públicas nacionais ou dos respetivos instrumentos, a que se refere o artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro.\n\n3 - O disposto no número anterior não dispensa os destinatários ou entidades destinatárias das políticas públicas, do cumprimento de prazos que lhes sejam fixados para efeitos de submissão dos apoios decorrentes da legislação nacional de enquadramento que instituem aquelas medidas de política.\n\n4 - No caso das candidaturas relativas a tipologias de operação abrangidas pelos Pactos para o Desenvolvimento e Coesão Territorial e pelo Desenvolvimento Local de Base Comunitária, o período de elegibilidade das despesas inicia-se à data de assinatura do Pacto ou do contrato para a gestão da Estratégia de Desenvolvimento Local de Base Comunitária.\n\n5 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão, para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2017 - Diário da República n.º 68/2017, Série I de 2017-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/129-2017-106829420), em vigor a partir de 2017-04-06"
+  },
+  "114289556": {
+   "fragment_id": "75468624",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas elegíveis\n\n1 - Para efeitos de determinação do custo total elegível de uma candidatura, no âmbito de operações de caráter formativo, e de projetos no domínio da inclusão social, são elegíveis os seguintes custos efetivamente incorridos e pagos em regime de custos reais:\n\na) Encargos com formandos, as despesas com bolsas, alimentação, transporte e alojamento bem como outras despesas com formandos, designadamente com acolhimento de dependentes a cargo destes;\n\nb) Encargos com formadores e consultores, as despesas com remunerações e outras despesas de docentes e formadores;\n\nc) Encargos com outro pessoal não docente afeto à operação, as despesas com remunerações de pessoal dirigente, técnicos, pessoal administrativo, mediadores socioculturais e mediadores pessoais e sociais, bem como outro pessoal envolvido nas fases de conceção, preparação, desenvolvimento, gestão, acompanhamento e avaliação da operação;\n\nd) Rendas, alugueres e amortizações, as despesas com o aluguer, ou amortização de equipamentos diretamente relacionados com a operação, e as despesas com a renda ou a amortização das instalações onde a formação decorre, assim como os alugueres ou amortizações das viaturas para o transporte dos formandos e outros participantes da operação, sem prejuízo do disposto no n.º 4 do artigo 16.º;\n\ne) Encargos diretos com a preparação, desenvolvimento, acompanhamento e avaliação das operações, as despesas com a elaboração de diagnósticos de necessidades, divulgação da operação, seleção dos formandos e outros participantes, aquisição, elaboração e reprodução de recursos didáticos, aquisição de livros e de documentação, despesas com materiais pedagógicos, com deslocações realizadas pelo grupo no âmbito da respetiva ação de formação e ainda as decorrentes da aquisição de serviços técnicos especializados relacionados com a avaliação dos projetos e dos seus resultados globais, com exceção das previstas na alínea c);\n\nf) Encargos gerais do projeto, outras despesas necessárias à conceção, desenvolvimento e gestão da operação apoiada, nomeadamente as despesas correntes com energia, água, comunicações, materiais consumíveis e bens não duradouros, as despesas gerais de manutenção de equipamentos e instalações, as despesas com consultas jurídicas e emolumentos notariais e com peritagens técnicas e financeiras.\n\n2 - As despesas com prestações sociais dos beneficiários desempregados, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção, são elegíveis no âmbito de intervenções relacionadas com contratos emprego-inserção."
+  },
+  "114289557": {
+   "fragment_id": "75468625",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos com formandos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 13.º — Encargos com formandos\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis os seguintes encargos com formandos:\n\na) Bolsas de profissionalização, de montante mensal equivalente a 10 % do Indexante de Apoios Sociais (IAS), quando os formandos integram uma oferta formativa em regime de alternância ou, quando tal não se verifique, durante o período em que frequentam formação em contexto de trabalho ou estágio curricular;\n\nb) Bolsas para material de estudo, fixadas em função do grau de carência económica do formando, correspondente ao valor atribuído pelas respetivas medidas e escalões previstos no âmbito da ação social escolar da responsabilidade do Ministério da Educação e Ciência, a atribuir a jovens que frequentem ações de qualificação inicial de dupla certificação;\n\nc) Bolsas de formação atribuídas a pessoas desempregadas com idade igual ou superior a 23 anos, não se aplicando este limite de idades a jovens que reconhecidamente não estejam em educação, formação ou no emprego (jovens NEET) e que não sejam beneficiários da bolsa prevista na alínea a), bem como no caso de pessoas que se encontrem em risco de exclusão social ou com deficiências ou incapacidades, não podendo em regra o valor máximo mensal elegível dessa bolsa ultrapassar o valor de 35 % do IAS, sendo que este valor pode ascender a 50 % do IAS, quando forem destinatários pessoas com deficiências ou incapacidades;\n\nd) Despesas com prestações sociais dos formandos desempregados, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção quando estes frequentem cursos de educação e formação de adultos, formações modulares certificadas e formações para a inclusão, a tempo inteiro ou com uma duração a fixar na regulamentação específica, quando estas ofertas sejam promovidas pelos centros de formação do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), não cumulativos com a atribuição de bolsa de formação prevista na alínea anterior;\n\ne) Bolsas de estudo e de formação avançada atribuídas a estudantes e bolseiros no âmbito das ofertas promovidas pelas instituições do ensino superior e outras instituições e centros de investigação científica, incluindo apoios concedidos para a realização de doutoramentos e pós-doutoramentos, nas condições e montantes definidos na regulamentação de enquadramento aplicável às ações desta natureza;\n\nf) Encargos com remunerações dos ativos em formação que decorra durante o período normal de trabalho, calculados de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho;\n\ng) Encargos com despesas de transporte dos formandos para frequência das ações de formação, incluindo as componentes de formação em contexto de trabalho ou estágio curricular, em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, quando o mesmo não exista ou não seja possível a sua utilização, um subsídio de transporte, até ao limite máximo mensal de 15 % do indexante dos apoios sociais e desde que o formando não aufira subsídio de alojamento;\n\nh) Encargos com alimentação de formandos a frequentar ofertas de formação desenvolvidas em entidades formadoras que ofereçam serviços de refeitório ou bufete escolar, podendo ser atribuídas em espécie ou, quando não exista este serviço, o pagamento ao formando de um valor que não pode ultrapassar o montante previsto na alínea seguinte, exceto nas condições previstas na alínea l), caso em que pode haver lugar ao pagamento desse valor em dobro;\n\ni) Encargos com alimentação de formandos, independentemente da sua situação face ao emprego, em montante igual ao atribuído aos trabalhadores com vínculo de trabalho em funções públicas, nos dias em que a frequência da formação seja igual ou superior a três horas e, no caso dos empregados, desde que a formação decorra fora do período normal de trabalho;\n\nj) Encargos com despesas com o acolhimento de filhos menores, filhos com deficiência e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do IAS, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação;\n\nk) Encargos com seguros de acidentes pessoais, no caso de jovens a frequentar ofertas formativas no contexto do sistema de ensino ou aprendizagem ou de formandos ativos desempregados e formandos inativos, e ainda encargos com seguros de acidentes de trabalho, no caso dos empregados;\n\nl) Subsídio de alojamento, até ao limite máximo mensal de 30 % do indexante dos apoios sociais, quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte coletivo compatível com o horário da formação, podendo ainda ser pagas as viagens em transporte coletivo no início e no fim de cada período de formação.\n\n2 - Os subsídios referidos nas alíneas g) e l) do número anterior podem ser atribuídos em espécie, não podendo o seu montante ultrapassar os limites nelas previstos.\n\n3 - No sector da pesca e aquicultura, aos profissionais sem vínculo contratual ou quando este seja interrompido para a realização da formação, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n4 - No sector da agricultura, aos agricultores não empresários, à mão de obra agrícola familiar e aos trabalhadores eventuais do sector agrícola, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n5 - O pagamento da bolsa de profissionalização prevista na alínea a) e da bolsa de formação prevista na alínea c), ambas do n.º 1, bem como os encargos com despesas de transporte e alimentação, dependem da assiduidade dos formandos registada na frequência da formação.\n\n6 - Para efeitos do disposto no número anterior, só podem ser consideradas as faltas justificadas até um limite máximo de 5 % do número de horas totais do percurso de formação, sem prejuízo de a autoridade de gestão poder autorizar, caso a caso, um limite superior.\n\n7 - O valor mensal da bolsa de formação prevista na alínea c) do n.º 1 é calculado em função do número de horas de formação frequentadas pelo formando, de acordo com a seguinte fórmula:\n\nVbp = (Nhf x Vb x 12 (meses))/(52 (semanas) x 30 horas)\n\nem que:\n\nVbp = valor mensal da bolsa de formação a pagar;\n\nVb = valor da bolsa (35 % ou 50 % do IAS, consoante a situação do formando);\n\nNhf = número mensal de horas de formação frequentadas pelo formando.\n\n8 - Os pagamentos a formandos são realizados mensalmente, por transferência bancária, tendo o formando que ser comprovadamente titular da conta, sem prejuízo do disposto no número seguinte, não sendo permitida, em caso algum, a existência de dívidas a formandos.\n\n9 - No caso de formandos menores de idade, a transferência bancária pode ser efetuada para a conta bancária do encarregado de educação e, em situações específicas devidamente fundamentadas, pode a autoridade de gestão autorizar outra forma de pagamento.\n\n10 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 não pode ultrapassar o valor de 75 % do IAS.\n\n11 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 com os previstos nos n.os 2 e 3, não pode ultrapassar o valor de 100 % do IAS.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "114289551": {
+   "fragment_id": "75468626",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos com formadores e consultores",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 14.º — Encargos com formadores e consultores\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis as despesas com remunerações e outras despesas dos formadores e consultores, nos seguintes termos:\n\na) As despesas imputadas à operação com a remuneração base dos docentes, formadores e consultores internos, permanentes ou eventuais, não pode ultrapassar os limites fixados para formadores externos nos termos do n.º 2 do presente artigo, salvo se as respetivas remunerações se encontrarem fixadas por lei, por instrumento de regulamentação coletiva de trabalho ou por referência a esse instrumento, sendo calculada de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho.\n\nb) Os honorários dos formadores externos e os encargos com estes formadores quando debitados por entidades formadoras no âmbito de um contrato de prestação de serviços com o beneficiário, nos termos do n.º 2 do presente artigo;\n\nc) Despesas com alojamento, alimentação e transporte dos formadores, quando a elas houver lugar, incluindo as ajudas de custo, cujo financiamento obedece às regras e aos montantes fixados para atribuição de idênticas despesas aos trabalhadores que exercem funções públicas com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9.\n\n2 - No que respeita aos encargos com docentes e formadores externos que prestem serviços no âmbito da operação apoiada, o respetivo custo horário máximo, ao qual acresce IVA sempre que este seja devido e não dedutível, é determinado em função de valores padrão e dos níveis de qualificação das ações de formação, nos seguintes termos:\n\na) Para os níveis de qualificação 5 e 6, o valor elegível é de (euro) 30 hora/formador;\n\nb) Para os níveis de qualificação 1 a 4, o valor elegível é de (euro) 20 hora/formador.\n\n3 - A contratação de consultores que desenvolvam atividade no âmbito de uma operação cofinanciada, por mais do que um dia por semana ou uma semana por mês, deve ser feita numa base diária ou mensal, respetivamente, sendo-lhes aplicáveis os correspondentes valores padrão das alíneas b) e c), correspondendo o respetivo custo horário padrão à alínea a), valores a que acresce IVA sempre que este seja devido e não dedutível, nos seguintes termos:\n\na) O valor determinado numa base horária é de (euro) 30;\n\nb) O valor determinado numa base diária é de (euro) 170;\n\nc) O valor determinado numa base mensal é de (euro) 2750.\n\n4 - Para efeitos dos n.os 2 e 3, por valor padrão entende-se o máximo que, em cada candidatura, pode atingir o valor médio hora por formador ou consultor, calculado nos termos da seguinte fórmula:\n\nT1/T2\n\nem que:\n\nT1 - total das remunerações pagas a formadores ou consultores externos numa candidatura;\n\nT2 - total das horas de formação/consultoria ministradas numa candidatura por esses formadores ou consultores externos.\n\n5 - O valor resultante da aplicação do valor padrão nos termos do número anterior, não pode exceder, para cada formador externo ou consultor, mais de 50 % dos valores constantes das alíneas previstas respetivamente nos n.os 2 e 3.\n\n6 - Não pode ser paga aos formadores externos ou aos consultores remuneração inferior a 75 % da remuneração resultante da aplicação das regras previstas no n.os 2 a 5, exceto quando a prática desses valores decorra da aplicação das normas da Lei do Orçamento do Estado em contratos de aquisição de serviços.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "114289558": {
+   "fragment_id": "75468628",
+   "type": 11,
+   "heading": "Artigo 16.º — Custos máximos elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Custos máximos elegíveis\n\n1 - Os custos máximos elegíveis das candidaturas em regime de custos reais são aferidos em função do indicador de custo máximo por hora e por formando (C/H/F), o qual é calculado com base no somatório dos encargos com outro pessoal afeto ao projeto, dos encargos com rendas, alugueres e amortizações, dos encargos diretos com a preparação, acompanhamento, desenvolvimento e avaliação e dos encargos gerais do projeto, excluindo os encargos com formandos e com formadores, de acordo com as modalidades de formação apoiadas ao abrigo das tipologias de operações cofinanciadas, aplicando-se-lhes os valores constantes do seguinte quadro:\n\nCursos de aprendizagem - 2,5 euros C/H/F\n\nCursos profissionais - 2,5 euros C/H/F\n\nCursos de especialização tecnológica - 2,5 euros C/H/F\n\nCursos técnicos superiores profissionais - 2,5 euros C/H/F\n\nCursos de educação e formação de jovens - 2,5 euros C/H/F\n\nCursos de ensino artístico especializado - 2,5 euros C/H/F\n\nFormações modulares certificadas - 3 euros C/H/F\n\nCursos de educação e formação de adultos - 2,5 euros C/H/F\n\nFormação para a competitividade e internacionalização das empresas - 2,5 euros C/H/F\n\nFormação Ação - 2,5 euros C/H/F\n\nQualificação dos profissionais da Administração Pública - 2,5 euros C/H/F\n\nCursos vocacionais - 2,5 euros C/H/F\n\nCapacitação para a inclusão - 3,5 euros C/H/F\n\nEnsino recorrente - 2,5 euros C/H/F\n\n2 - Os beneficiários podem gerir com flexibilidade a dotação aprovada para o conjunto dos encargos abrangidos pela aplicação do indicador de custo máximo por hora e por formando referido no número anterior, desde que seja respeitado o custo total aprovado da operação.\n\n3 - Nas operações realizadas na modalidade de custos simplificados, na aceção das alíneas c) a e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, a respetiva modalidade é fixada, por deliberação da CIC Portugal 2020 sob proposta da autoridade de gestão respetiva e parecer prévio da Agência para o Desenvolvimento e Coesão, I. P., em função da sua adequação à metodologia adotada.\n\n4 - Em função da natureza das operações, são elegíveis a aquisição de bens móveis e equipamentos no âmbito das tipologias das operações nas áreas do desenvolvimento e modernização das instituições do mercado de trabalho, do desenvolvimento de estruturas de apoio ao emprego, do reforço da capacitação institucional dos parceiros sociais e da economia social, da bolsa especializada de voluntariado, do apoio a organizações da sociedade civil, dos instrumentos e equipamentos específicos de proteção e acolhimento das vítimas, dos apoios na área da inovação social e do empreendedorismo e nas áreas da qualidade, inovação e inclusão do sistema de educação e formação.\n\n5 - A natureza e os limites máximos de elegibilidade previstos no número anterior constam da regulamentação específica ou dos avisos de abertura de candidaturas.\n\n6 - O disposto nos números anteriores não se aplica aos apoios à inserção no mercado de trabalho e ao emprego, sem prejuízo da elegibilidade destes últimos aos apoios do FSE, designadamente quanto a prestações sociais."
+  },
+  "114289559": {
+   "fragment_id": "75468629",
+   "type": 11,
+   "heading": "Artigo 17.º — Despesas e ações não elegíveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+   ],
+   "markdown": "###### Artigo 17.º — Despesas e ações não elegíveis\n\n1 - Para além das despesas não elegíveis previstas nos números 12 a 14 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, não são ainda apoiadas no âmbito do FSE as despesas decorrentes de:\n\na) Contratos que aumentem o custo de execução do projeto sem que lhe seja acrescentado um valor proporcional a esse custo;\n\nb) Contratos celebrados com fornecedores de bens ou serviços cujo pagamento seja condicionado à aprovação do projeto pela autoridade de gestão;\n\nc) Prémios, multas, coimas, sanções financeiras, juros devedores, despesas de câmbio;\n\nd) Despesas com processos judiciais, salvo as despesas que resultem de processos de contencioso tendentes à recuperação de créditos do FSE;\n\ne) Encargos bancários com empréstimos e garantias, com exceção, neste último caso, das exigidas pela legislação nacional relativa à aplicação do FSE e das tipologias de operações relativas a instrumentos financeiros;\n\nf) Compensações pela caducidade do contrato de trabalho ou indemnizações por cessação do contrato de trabalho de pessoal afeto à operação, bem como as entregas relativas ao Fundo de Compensação do Trabalho;\n\ng) Encargos não obrigatórios com o pessoal afeto à operação;\n\nh) Quaisquer negócios jurídicos celebrados, seja a que título for, com titulares de cargos de órgãos sociais, salvo os decorrentes de contrato de trabalho celebrado previamente à submissão da candidatura do beneficiário;\n\ni) Imputação de despesas com a participação de formandos quando aos contratos de formação com eles celebrados sejam apostas cláusulas de caráter indemnizatório ou penal;\n\nj) Aquisição de bens imóveis;\n\nk) Aquisição de bens móveis que sejam passíveis de amortização, incluindo veículos de transporte de pessoas, salvo o disposto no n.º 4 do artigo anterior.\n\nl) Operações cujo beneficiário não declare a inexistência de salários em atraso.\n\n2 - No âmbito das formações modulares certificadas e da formação para a competitividade e internacionalização das empresas, não são elegíveis ações de formação com duração inferior a 25 horas, ainda que correspondam a uma Unidade de Formação de Curta Duração (UFCD) integrada no Catálogo Nacional de Qualificações, nos termos da Portaria n.º 781/2009, de 23 de julho.\n\n3 - Em função da prioridade da oferta formativa em causa ou da natureza dos públicos, pode ser excecionalmente fixado um limite inferior ao estabelecido no número anterior nos avisos de concurso.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 242/2015 - Diário da República n.º 157/2015, Série I de 2015-08-13](https://diariodarepublica.pt/dr/detalhe/portaria/242-2015-70007182), em vigor a partir de 2015-08-14, produz efeitos a partir de 2015-03-07"
+  },
+  "114289540": {
+   "fragment_id": "75468632",
+   "type": 11,
+   "heading": "Artigo 20.º — Contribuição pública nacional",
+   "in_force_from": "2017-04-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2017 - Diário da República n.º 68/2017, Série I de 2017-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/129-2017-106829420), em vigor a partir de 2017-04-06"
+   ],
+   "markdown": "###### Artigo 20.º — Contribuição pública nacional\n\n1 - Nas operações de caráter formativo, cujos beneficiários sejam as entidades previstas no n.º 3 do artigo 67.º do Decreto-Lei n.º 137/2014, de 12 de setembro, independentemente da qualidade em que intervenham, podem ser imputados os encargos com remunerações dos ativos empregados em formação durante o período normal de trabalho, calculados de acordo com as regras definidas na alínea f) do n.º 1 do artigo 13.º, sendo elegíveis apenas quando contabilizados a título de contribuição pública nacional.\n\n2 - Para os efeitos previstos no número anterior, podem ser equiparadas a entidades da Administração Pública as entidades que, no âmbito da sua atividade, asseguram formação aos trabalhadores da Administração Pública, mediante a emissão de despacho dos membros do Governo responsáveis pelas áreas do desenvolvimento e coesão e pelo setor em que se insere a entidade que fundamentadamente a solicite.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2017 - Diário da República n.º 68/2017, Série I de 2017-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/129-2017-106829420), em vigor a partir de 2017-04-06"
+  },
+  "114289560": {
+   "fragment_id": "75468634",
+   "type": 11,
+   "heading": "Artigo 22.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produção de efeitos\n\nO presente regulamento produz efeitos a partir da data de entrada em vigor do Decreto-Lei n.º 159/2014, de 27 de outubro."
+  },
+  "114289561": {
+   "fragment_id": "75468635",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\n1 - No âmbito do período de programação 2014-2020, podem ser consideradas elegíveis, sem prejuízo do disposto no n.º 4 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as despesas efetivamente realizadas e pagas pelas entidades beneficiárias, antes da aprovação das candidaturas que as integram, desde que tenham ocorrido a partir de 1 de janeiro de 2014, data de início da elegibilidade das despesas suscetíveis de ser financiadas pelos PO apoiados pelo FSE, e no caso da Iniciativa para o Emprego dos Jovens (IEJ), eixo 2 do programa operacional temático inclusão social e emprego, são elegíveis desde 1 de setembro de 2013.\n\n2 - O disposto no número anterior aplica-se às candidaturas apresentadas à autoridade de gestão até 30 de junho de 2016 e desde que tal seja definido no aviso de abertura de concurso.\n\n3 - As candidaturas apresentadas até ao limite do prazo estabelecido no número anterior não estão sujeitas ao período inicial de elegibilidade das despesas previsto no n.º 1 do artigo 10.º do presente regulamento.\n\n4 - Aos projetos iniciados antes da entrada em vigor do presente regulamento e dos regulamentos específicos aplicáveis no período de programação 2014-2020, e integrados em candidaturas apresentadas no âmbito do período de programação 2014-2020, desde que apresentadas nos termos do n.º 2, podem aplicar-se, até à sua conclusão, o regime contido nos diplomas aplicáveis no âmbito do período de programação 2007-2013 e condições previstas no n.º 3, desde que não contrariem os regulamentos comunitários e a decisão de aprovação do respetivo PO.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "75458340": {
+   "fragment_id": "75468652",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "114544579": {
+   "fragment_id": "75468621",
+   "type": 11,
+   "heading": "Artigo 9.º — Processo contabilístico da operação",
+   "in_force_from": "2018-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 9.º — Processo contabilístico da operação\n\n1 - No âmbito das modalidades de apoio previstas no n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as entidades beneficiárias ficam obrigadas a contabilizar os seus custos segundo as normas contabilísticas aplicáveis, respeitando os respetivos princípios e conceitos contabilísticos, critérios de valorimetria e método de custeio.\n\n2 - Relativamente às operações realizadas na modalidade de custos reais, prevista na alínea a) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, os beneficiários ficam ainda obrigados a:\n\na) Organizar o arquivo de forma a garantir o acesso célere aos originais dos documentos de suporte dos lançamentos;\n\nb) (Revogada.)\n\nc) No caso de custos comuns, identificar, para cada operação, a chave de imputação e os seus pressupostos;\n\nd) Elaborar e submeter à autoridade de gestão a listagem de todas as despesas pagas por rubrica do pedido de reembolso e de pagamento do saldo final, de acordo com o modelo a definir pela autoridade de gestão.\n\n3 - Os beneficiários ficam obrigados a submeter à apreciação e validação por um técnico oficial de contas (TOC) ou revisor oficial de contas (ROC) os pedidos de reembolso e a prestação final de contas, devendo o TOC ou o ROC atestar, no encerramento da operação, a regularidade das operações contabilísticas.\n\n4 - Quando os beneficiários sejam entidades da Administração Pública, a obrigação prevista no número anterior é assumida pelo responsável financeiro designado pela respetiva entidade;\n\n5 - (Revogado.)\n\n6 - A aquisição de bens e serviços apenas pode ser justificada através de fatura ou documentos equivalentes fiscalmente aceites, sendo o seu pagamento aferido pelo respetivo recibo;\n\n7 - As faturas, os recibos ou os documentos equivalentes fiscalmente aceites, bem como os documentos de suporte à imputação de custos comuns, devem identificar claramente o respetivo bem ou serviço.\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "114544575": {
+   "fragment_id": "75468622",
+   "type": 11,
+   "heading": "Artigo 10.º — Período de elegibilidade",
+   "in_force_from": "2018-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2017 - Diário da República n.º 68/2017, Série I de 2017-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/129-2017-106829420), em vigor a partir de 2017-04-06"
+   ],
+   "markdown": "###### Artigo 10.º — Período de elegibilidade\n\n1 - Sem prejuízo dos períodos de elegibilidade fixados nos n.os 4, 5, 6 e 8 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, no caso das operações cofinanciadas pelo FSE, o período de elegibilidade das despesas está compreendido entre os 60 dias úteis anteriores à data da apresentação da candidatura e os 45 dias úteis subsequentes à data de conclusão da operação que constituem a data limite para a apresentação do saldo final, em conformidade com a alínea d) do n.º 7 do artigo 25.º do mesmo diploma.\n\n2 - O período de elegibilidade inicial fixado no número anterior não releva para efeito de elegibilidade de despesas relativamente às candidaturas contratualizadas com os organismos públicos formalmente competentes pela concretização das políticas públicas nacionais ou dos respetivos instrumentos, a que se refere o artigo 39.º do Decreto-Lei n.º 137/2014, de 12 de setembro.\n\n3 - O disposto no número anterior não dispensa os destinatários ou entidades destinatárias das políticas públicas, do cumprimento de prazos que lhes sejam fixados para efeitos de submissão dos apoios decorrentes da legislação nacional de enquadramento que instituem aquelas medidas de política.\n\n4 - No caso das candidaturas relativas a tipologias de operação abrangidas pelos Pactos para o Desenvolvimento e Coesão Territorial e pelo Desenvolvimento Local de Base Comunitária, o período de elegibilidade das despesas inicia-se à data de assinatura do Pacto ou do contrato para a gestão da Estratégia de Desenvolvimento Local de Base Comunitária.\n\n5 - O período de elegibilidade inicial fixado no n.º 1, em situações devidamente fundamentadas, a definir em sede de aviso para apresentação de candidaturas, pode ser fixado num período máximo de elegibilidade até 120 dias úteis anteriores à data da sua abertura.\n\n6 - Quando a prorrogação do prazo de entrega do saldo seja autorizada pela autoridade de gestão, para além dos 45 dias úteis subsequentes à data de conclusão da operação, considera-se elegível a despesa realizada e paga até à nova data fixada.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 129/2017 - Diário da República n.º 68/2017, Série I de 2017-04-05](https://diariodarepublica.pt/dr/detalhe/portaria/129-2017-106829420), em vigor a partir de 2017-04-06"
+  },
+  "114544576": {
+   "fragment_id": "75468625",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos com formandos",
+   "in_force_from": "2018-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 13.º — Encargos com formandos\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis os seguintes encargos com formandos:\n\na) Bolsas de profissionalização, de montante mensal equivalente a 10 % do Indexante de Apoios Sociais (IAS), quando os formandos integram uma oferta formativa em regime de alternância ou, quando tal não se verifique, durante o período em que frequentam formação em contexto de trabalho ou estágio curricular;\n\nb) Bolsas para material de estudo, fixadas em função do grau de carência económica do formando, correspondente ao valor atribuído pelas respetivas medidas e escalões previstos no âmbito da ação social escolar da responsabilidade do Ministério da Educação e Ciência, a atribuir a jovens que frequentem ações de qualificação inicial de dupla certificação;\n\nc) Bolsas de formação atribuídas a pessoas desempregadas com idade igual ou superior a 23 anos, não se aplicando este limite de idades a jovens que reconhecidamente não estejam em educação, formação ou no emprego (jovens NEET) e que não sejam beneficiários da bolsa prevista na alínea a), bem como no caso de pessoas que se encontrem em risco de exclusão social ou com deficiências ou incapacidades, não podendo em regra o valor máximo mensal elegível dessa bolsa ultrapassar o valor de 35 % do IAS, sendo que este valor pode ascender a 50 % do IAS, quando forem destinatários pessoas com deficiências ou incapacidades;\n\nd) Despesas com prestações sociais dos formandos desempregados, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção quando estes frequentem cursos de educação e formação de adultos, formações modulares certificadas e formações para a inclusão, a tempo inteiro ou com uma duração a fixar na regulamentação específica, quando estas ofertas sejam promovidas pelos centros de formação do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), não cumulativos com a atribuição de bolsa de formação prevista na alínea anterior;\n\ne) Bolsas de estudo e de formação avançada atribuídas a estudantes e bolseiros no âmbito das ofertas promovidas pelas instituições do ensino superior e outras instituições e centros de investigação científica, incluindo apoios concedidos para a realização de doutoramentos e pós-doutoramentos, nas condições e montantes definidos na regulamentação de enquadramento aplicável às ações desta natureza;\n\nf) Encargos com remunerações dos ativos em formação que decorra durante o período normal de trabalho, calculados de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho;\n\ng) Encargos com despesas de transporte dos formandos para frequência das ações de formação, incluindo as componentes de formação em contexto de trabalho ou estágio curricular, em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, quando o mesmo não exista ou não seja possível a sua utilização, um subsídio de transporte, até ao limite máximo mensal de 15 % do indexante dos apoios sociais e desde que o formando não aufira subsídio de alojamento;\n\nh) Encargos com alimentação de formandos a frequentar ofertas de formação desenvolvidas em entidades formadoras que ofereçam serviços de refeitório ou bufete escolar, podendo ser atribuídas em espécie ou, quando não exista este serviço, o pagamento ao formando de um valor que não pode ultrapassar o montante previsto na alínea seguinte, exceto nas condições previstas na alínea l), caso em que pode haver lugar ao pagamento desse valor em dobro;\n\ni) Encargos com alimentação de formandos, independentemente da sua situação face ao emprego, em montante igual ao atribuído aos trabalhadores com vínculo de trabalho em funções públicas, nos dias em que a frequência da formação seja igual ou superior a três horas e, no caso dos empregados, desde que a formação decorra fora do período normal de trabalho;\n\nj) Encargos com despesas com o acolhimento de filhos menores, filhos com deficiência e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do IAS, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação;\n\nk) Encargos com seguros de acidentes pessoais dos formandos inativos, ativos desempregados ou ativos empregados que frequentem formação por sua iniciativa;\n\nl) Subsídio de alojamento, até ao limite máximo mensal de 30 % do indexante dos apoios sociais, quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte coletivo compatível com o horário da formação, podendo ainda ser pagas as viagens em transporte coletivo no início e no fim de cada período de formação.\n\n2 - Os subsídios referidos nas alíneas g) e l) do número anterior podem ser atribuídos em espécie, não podendo o seu montante ultrapassar os limites nelas previstos.\n\n3 - No sector da pesca e aquicultura, aos profissionais sem vínculo contratual ou quando este seja interrompido para a realização da formação, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n4 - No sector da agricultura, aos agricultores não empresários, à mão de obra agrícola familiar e aos trabalhadores eventuais do sector agrícola, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n5 - O pagamento da bolsa de profissionalização prevista na alínea a) e da bolsa de formação prevista na alínea c), ambas do n.º 1, bem como os encargos com despesas de transporte e alimentação, dependem da assiduidade dos formandos registada na frequência da formação.\n\n6 - Para efeitos do disposto no número anterior, só podem ser consideradas as faltas justificadas até um limite máximo de 5 % do número de horas totais do percurso de formação, sem prejuízo de a autoridade de gestão poder autorizar, caso a caso, um limite superior.\n\n7 - O valor mensal da bolsa de formação prevista na alínea c) do n.º 1 é calculado em função do número de horas de formação frequentadas pelo formando, de acordo com a seguinte fórmula:\n\nVbp = (Nhf x Vb x 12 (meses))/(52 (semanas) x 30 horas)\n\nem que:\n\nVbp = valor mensal da bolsa de formação a pagar;\n\nVb = valor da bolsa (35 % ou 50 % do IAS, consoante a situação do formando);\n\nNhf = número mensal de horas de formação frequentadas pelo formando.\n\n8 - Os pagamentos a formandos são realizados mensalmente, por transferência bancária, tendo o formando que ser comprovadamente titular da conta, sem prejuízo do disposto no número seguinte, não sendo permitida, em caso algum, a existência de dívidas a formandos.\n\n9 - No caso de formandos menores de idade, a transferência bancária pode ser efetuada para a conta bancária do encarregado de educação e, em situações específicas devidamente fundamentadas, pode a autoridade de gestão autorizar outra forma de pagamento.\n\n10 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 não pode ultrapassar o valor de 75 % do IAS.\n\n11 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 com os previstos nos n.os 3 e 4, não pode ultrapassar o valor de 100 % do IAS.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "114544577": {
+   "fragment_id": "75468626",
+   "type": 11,
+   "heading": "Artigo 14.º — Encargos com formadores e consultores",
+   "in_force_from": "2018-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 14.º — Encargos com formadores e consultores\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis as despesas com remunerações e outras despesas dos formadores e consultores, nos seguintes termos:\n\na) As despesas imputadas à operação com a remuneração base dos formadores e consultores internos não pode ultrapassar os limites fixados, respetivamente, para formadores externos nos termos do n.º 2 e para consultores externos, nos termos da alínea a) do n.º 3, salvo se as respetivas remunerações se encontrarem fixadas por lei, por instrumento de regulamentação coletiva de trabalho ou por referência a esse instrumento, sendo calculada de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal, decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho, e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho;\n\nb) Os honorários dos formadores externos e os encargos com estes formadores quando debitados por entidades formadoras no âmbito de um contrato de prestação de serviços com o beneficiário, nos termos do n.º 2;\n\nc) Despesas com alojamento, alimentação e transporte dos formadores e consultores, quando a elas houver lugar, incluindo as ajudas de custo, cujo financiamento obedece às regras e aos montantes fixados para atribuição de idênticas despesas aos trabalhadores que exercem funções públicas com remunerações base que se situam entre os valores dos níveis remuneratórios 18 e 9.\n\n2 - No que respeita aos encargos com formadores externos que prestem serviços no âmbito da operação apoiada, o respetivo valor padrão, ao qual acresce IVA sempre que este seja devido e não dedutível, é determinado em função dos níveis de qualificação das ações de formação, nos seguintes termos:\n\na) Para os níveis de qualificação 5 e 6, o valor padrão é, no máximo, de 30 euros por hora de monitoria;\n\nb) Para os níveis de qualificação 1 a 4, o valor padrão é, no máximo, de 20 euros por hora de monitoria.\n\n3 - Os encargos com consultores externos que desenvolvam atividade no âmbito de uma operação cofinanciada, obedecem aos seguintes requisitos:\n\na) O valor padrão é, no máximo, de 30 euros por hora de consultoria, ao qual acresce IVA sempre que este seja devido e não dedutível;\n\nb) O número de horas de consultoria por consultor não pode ultrapassar 40 horas por semana.\n\nc) (Revogada.)\n\n4 - Para efeitos do n.º 2 e da alínea a) do n.º 3, entende-se por valor padrão o máximo que, em cada operação, pode atingir o valor médio por hora de formação ou de consultoria, calculado nos termos da fórmula a seguir identificada, devendo o cumprimento deste limiar ser verificado quer em candidatura quer em saldo:\n\nT1/T2\n\nem que:\n\nT1 = total das remunerações pagas a formadores ou consultores externos;\n\nT2 = total das horas de formação ou de consultoria ministradas por formadores ou consultores externos.\n\n5 - O valor de cada hora ministrada por formador ou consultor externos não pode exceder em mais de 50 % os valores constantes do n.º 2 e na alínea a) do n.º 3.\n\n6 -  (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "114544578": {
+   "fragment_id": "75468628",
+   "type": 11,
+   "heading": "Artigo 16.º — Custos máximos elegíveis",
+   "in_force_from": "2018-01-18",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18"
+   ],
+   "markdown": "###### Artigo 16.º — Custos máximos elegíveis\n\n1 - Os custos máximos elegíveis das candidaturas em regime de custos reais são aferidos em função do indicador de custo máximo por hora e por formando (C/H/F), o qual é calculado com base no somatório dos encargos com outro pessoal afeto ao projeto, dos encargos com rendas, alugueres e amortizações, dos encargos diretos com a preparação, acompanhamento, desenvolvimento e avaliação e dos encargos gerais do projeto, excluindo os encargos com formandos e com formadores, de acordo com as modalidades de formação apoiadas ao abrigo das tipologias de operações cofinanciadas, aplicando-se-lhes os valores constantes do seguinte quadro:\n\nCursos de aprendizagem - 2,5 euros C/H/F\n\nCursos profissionais - 2,5 euros C/H/F\n\nCursos de especialização tecnológica - 2,5 euros C/H/F\n\nCursos técnicos superiores profissionais - 2,5 euros C/H/F\n\nCursos de educação e formação de jovens - 2,5 euros C/H/F\n\nCursos de ensino artístico especializado - 2,5 euros C/H/F\n\nFormações modulares certificadas - 3 euros C/H/F\n\nCursos de educação e formação de adultos - 2,5 euros C/H/F\n\nFormação para a competitividade e internacionalização das empresas - 2,5 euros C/H/F\n\nFormação Ação - 2,5 euros C/H/F\n\nQualificação dos profissionais da Administração Pública - 2,5 euros C/H/F\n\nCursos vocacionais - 2,5 euros C/H/F\n\nCapacitação para a inclusão - 3,5 euros C/H/F\n\nEnsino recorrente - 2,5 euros C/H/F\n\n2 - Os beneficiários podem gerir com flexibilidade a dotação aprovada para o conjunto dos encargos abrangidos pela aplicação do indicador de custo máximo por hora e por formando referido no número anterior, desde que seja respeitado o custo total aprovado da operação.\n\n3 - Nas operações realizadas na modalidade de custos simplificados, na aceção das alíneas c) a e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, a respetiva modalidade é fixada, por deliberação da CIC Portugal 2020 sob proposta da autoridade de gestão respetiva e parecer prévio da Agência para o Desenvolvimento e Coesão, I. P., em função da sua adequação à metodologia adotada.\n\n4 - Em função da natureza das operações, são elegíveis a aquisição de bens móveis, equipamentos e software no âmbito das tipologias das operações nas áreas do desenvolvimento e modernização das instituições do mercado de trabalho, do desenvolvimento de estruturas de apoio ao emprego, do reforço da capacitação institucional da administração pública, dos parceiros sociais e da economia social, da bolsa especializada de voluntariado, do apoio a organizações da sociedade civil, dos instrumentos e equipamentos específicos de proteção e acolhimento das vítimas, dos apoios na área da inovação social e do empreendedorismo e nas áreas da qualidade, inovação e inclusão do sistema de educação e formação.\n\n5 - A natureza e os limites máximos de elegibilidade previstos no número anterior constam da regulamentação específica ou dos avisos de abertura de candidaturas.\n\n6 - O disposto nos números anteriores não se aplica aos apoios à inserção no mercado de trabalho e ao emprego, sem prejuízo da elegibilidade destes últimos aos apoios do FSE, designadamente quanto a prestações sociais.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18"
+  },
+  "115531018": {
+   "fragment_id": "75468625",
+   "type": 11,
+   "heading": "Artigo 13.º — Encargos com formandos",
+   "in_force_from": "2018-06-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 175/2018 - Diário da República n.º 116/2018, Série I de 2018-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/175-2018-115536009), em vigor a partir de 2018-06-20",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 13.º — Encargos com formandos\n\n1 - Para efeitos do disposto no presente regulamento, são elegíveis os seguintes encargos com formandos:\n\na) Bolsas de profissionalização, de montante mensal equivalente a 10 % do Indexante de Apoios Sociais (IAS), quando os formandos integram uma oferta formativa em regime de alternância ou, quando tal não se verifique, durante o período em que frequentam formação em contexto de trabalho ou estágio curricular;\n\nb) Bolsas para material de estudo, fixadas em função do grau de carência económica do formando, correspondente ao valor atribuído pelas respetivas medidas e escalões previstos no âmbito da ação social escolar da responsabilidade do Ministério da Educação e Ciência, a atribuir a jovens que frequentem ações de qualificação inicial de dupla certificação;\n\nc) Bolsas de formação atribuídas a pessoas desempregadas, ou em risco de desemprego, nos termos definidos em diploma próprio, com idade igual ou superior a 23 anos, não se aplicando este limite de idades a jovens que reconhecidamente não estejam em educação, formação ou no emprego (jovens NEET) e que não sejam beneficiários da bolsa prevista na alínea a), bem como no caso de pessoas que se encontrem em risco de exclusão social ou com deficiências ou incapacidades, não podendo em regra o valor máximo mensal elegível dessa bolsa ultrapassar o valor de 50 % do IAS, sendo que este valor pode ascender a 65 % do IAS, quando forem destinatários pessoas com deficiências ou incapacidades;\n\nd) Despesas com prestações sociais dos formandos desempregados, nomeadamente subsídio de desemprego, subsídio social de desemprego e rendimento social de inserção quando estes frequentem cursos de educação e formação de adultos, formações modulares certificadas e formações para a inclusão, a tempo inteiro ou com uma duração a fixar na regulamentação específica, quando estas ofertas sejam promovidas pelos centros de formação do Instituto do Emprego e Formação Profissional, I. P. (IEFP, I. P.), não cumulativos com a atribuição de bolsa de formação prevista na alínea anterior;\n\ne) Bolsas de estudo e de formação avançada atribuídas a estudantes e bolseiros no âmbito das ofertas promovidas pelas instituições do ensino superior e outras instituições e centros de investigação científica, incluindo apoios concedidos para a realização de doutoramentos e pós-doutoramentos, nas condições e montantes definidos na regulamentação de enquadramento aplicável às ações desta natureza;\n\nf) Encargos com remunerações dos ativos em formação que decorra durante o período normal de trabalho, calculados de acordo com a seguinte fórmula:\n\n(Rbm x m)/(48 (semanas) x n)\n\nem que:\n\nRbm = remuneração base mensal acrescida dos encargos obrigatórios da entidade patronal decorrentes da lei e dos instrumentos de regulamentação coletiva de trabalho e de outras prestações regulares e periódicas documentalmente comprováveis e refletidas na contabilidade da entidade patronal que integrem a remuneração;\n\nm = número de prestações anuais efetivamente pagas a título de remuneração base mensal e de subsídios de férias e de Natal, quando a estes haja lugar;\n\nn = número de horas semanais do período normal de trabalho;\n\ng) Encargos com despesas de transporte dos formandos para frequência das ações de formação, incluindo as componentes de formação em contexto de trabalho ou estágio curricular, em montante equivalente ao custo das viagens realizadas em transporte coletivo ou, quando o mesmo não exista ou não seja possível a sua utilização, um subsídio de transporte, até ao limite máximo mensal de 15 % do indexante dos apoios sociais e desde que o formando não aufira subsídio de alojamento;\n\nh) Encargos com alimentação de formandos a frequentar ofertas de formação desenvolvidas em entidades formadoras que ofereçam serviços de refeitório ou bufete escolar, podendo ser atribuídas em espécie ou, quando não exista este serviço, o pagamento ao formando de um valor que não pode ultrapassar o montante previsto na alínea seguinte, exceto nas condições previstas na alínea l), caso em que pode haver lugar ao pagamento desse valor em dobro;\n\ni) Encargos com alimentação de formandos, independentemente da sua situação face ao emprego, em montante igual ao atribuído aos trabalhadores com vínculo de trabalho em funções públicas, nos dias em que a frequência da formação seja igual ou superior a três horas e, no caso dos empregados, desde que a formação decorra fora do período normal de trabalho;\n\nj) Encargos com despesas com o acolhimento de filhos menores, filhos com deficiência e adultos dependentes a cargo dos formandos, até ao limite máximo mensal de 50 % do IAS, quando os formandos provem necessitar de os confiar a terceiros por motivos de frequência da formação;\n\nk) Encargos com seguros de acidentes pessoais dos formandos inativos, ativos desempregados ou ativos empregados que frequentem formação por sua iniciativa;\n\nl) Subsídio de alojamento, até ao limite máximo mensal de 30 % do indexante dos apoios sociais, quando a localidade onde decorra a formação distar 50 km ou mais da localidade da residência do formando ou quando não existir transporte coletivo compatível com o horário da formação, podendo ainda ser pagas as viagens em transporte coletivo no início e no fim de cada período de formação.\n\n2 - Os subsídios referidos nas alíneas g) e l) do número anterior podem ser atribuídos em espécie, não podendo o seu montante ultrapassar os limites nelas previstos.\n\n3 - No sector da pesca e aquicultura, aos profissionais sem vínculo contratual ou quando este seja interrompido para a realização da formação, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n4 - No sector da agricultura, aos agricultores não empresários, à mão de obra agrícola familiar e aos trabalhadores eventuais do sector agrícola, pode ser atribuído um apoio mensal máximo de montante equivalente a 70 % do IAS, quando estes frequentem ações de formação que lhes sejam especificamente dirigidas, não podendo o formando frequentar a mesma ação mais do que uma vez.\n\n5 - O pagamento da bolsa de profissionalização prevista na alínea a) e da bolsa de formação prevista na alínea c), ambas do n.º 1, bem como os encargos com despesas de transporte e alimentação, dependem da assiduidade dos formandos registada na frequência da formação.\n\n6 - Para efeitos do disposto no número anterior, só podem ser consideradas as faltas justificadas até um limite máximo de 5 % do número de horas totais do percurso de formação, sem prejuízo de a autoridade de gestão poder autorizar, caso a caso, um limite superior.\n\n7 - O valor mensal da bolsa de formação prevista na alínea c) do n.º 1 é calculado em função do número de horas de formação frequentadas pelo formando, de acordo com a seguinte fórmula:\n\nVbp = (Nhf x Vb x 12 (meses))/(52 (semanas) x 30 horas)\n\nem que:\n\nVbp = valor mensal da bolsa de formação a pagar;\n\nVb = valor da bolsa (35 % ou 50 % do IAS, consoante a situação do formando);\n\nNhf = número mensal de horas de formação frequentadas pelo formando.\n\n8 - Os pagamentos a formandos são realizados mensalmente, por transferência bancária, tendo o formando que ser comprovadamente titular da conta, sem prejuízo do disposto no número seguinte, não sendo permitida, em caso algum, a existência de dívidas a formandos.\n\n9 - No caso de formandos menores de idade, a transferência bancária pode ser efetuada para a conta bancária do encarregado de educação e, em situações específicas devidamente fundamentadas, pode a autoridade de gestão autorizar outra forma de pagamento.\n\n10 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 não pode ultrapassar o valor de 75 % do IAS.\n\n11 - O somatório dos apoios previstos nas alíneas g) e i) do n.º 1 com os previstos nos n.os 3 e 4, não pode ultrapassar o valor de 100 % do IAS.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 175/2018 - Diário da República n.º 116/2018, Série I de 2018-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/175-2018-115536009), em vigor a partir de 2018-06-20\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 19/2018 - Diário da República n.º 12/2018, Série I de 2018-01-17](https://diariodarepublica.pt/dr/detalhe/portaria/19-2018-114538725), em vigor a partir de 2018-01-18\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "115531012": {
+   "fragment_id": "115536020",
+   "type": 11,
+   "heading": "Artigo 20.º-A — Fixação de condições diversas e montantes distintos",
+   "in_force_from": "2018-06-20",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 175/2018 - Diário da República n.º 116/2018, Série I de 2018-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/175-2018-115536009), em vigor a partir de 2018-06-20, produz efeitos a partir de 2017-01-01"
+   ],
+   "markdown": "###### Artigo 20.º-A — Fixação de condições diversas e montantes distintos\n\nPodem ser fixadas condições diversas e autorizado o financiamento de montantes distintos dos previstos no presente diploma, por deliberação da CIC, nos seguintes casos:\n\na) Quando a insuficiente procura de algumas formações ou a prioridade a atribuir a alguns setores, regiões ou grupos socioprofissionais justifiquem a diferenciação dos apoios a atribuir aos formandos;\n\nb) Em situação excecionais, quando a formação se desenvolva em territórios atingidos por catástrofes ou calamidades, justificando-se a atribuição de outros apoios a formandos;\n\nc) Quando haja dificuldade em recrutar formadores em áreas de formação muito específicas ou que exijam especiais qualificações, que justifiquem a diferenciação dos encargos a suportar com formadores.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 175/2018 - Diário da República n.º 116/2018, Série I de 2018-06-19](https://diariodarepublica.pt/dr/detalhe/portaria/175-2018-115536009), em vigor a partir de 2018-06-20, produz efeitos a partir de 2017-01-01"
+  },
+  "115531013": {
+   "fragment_id": "75468633",
+   "type": 11,
+   "heading": "Artigo 21.º — Processos em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Processos em curso\n\nÀs candidaturas aprovadas no âmbito do Quadro de Referência Estratégico Nacional (QREN), aplica-se o regime previsto no despacho normativo n.º 4-A/2008, de 24 de janeiro."
+  },
+  "115531014": {
+   "fragment_id": "75468634",
+   "type": 11,
+   "heading": "Artigo 22.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Produção de efeitos\n\nO presente regulamento produz efeitos a partir da data de entrada em vigor do Decreto-Lei n.º 159/2014, de 27 de outubro."
+  },
+  "115531015": {
+   "fragment_id": "75468635",
+   "type": 11,
+   "heading": "Artigo 23.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+   ],
+   "markdown": "###### Artigo 23.º — Norma transitória\n\n1 - No âmbito do período de programação 2014-2020, podem ser consideradas elegíveis, sem prejuízo do disposto no n.º 4 do artigo 15.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as despesas efetivamente realizadas e pagas pelas entidades beneficiárias, antes da aprovação das candidaturas que as integram, desde que tenham ocorrido a partir de 1 de janeiro de 2014, data de início da elegibilidade das despesas suscetíveis de ser financiadas pelos PO apoiados pelo FSE, e no caso da Iniciativa para o Emprego dos Jovens (IEJ), eixo 2 do programa operacional temático inclusão social e emprego, são elegíveis desde 1 de setembro de 2013.\n\n2 - O disposto no número anterior aplica-se às candidaturas apresentadas à autoridade de gestão até 30 de junho de 2016 e desde que tal seja definido no aviso de abertura de concurso.\n\n3 - As candidaturas apresentadas até ao limite do prazo estabelecido no número anterior não estão sujeitas ao período inicial de elegibilidade das despesas previsto no n.º 1 do artigo 10.º do presente regulamento.\n\n4 - Aos projetos iniciados antes da entrada em vigor do presente regulamento e dos regulamentos específicos aplicáveis no período de programação 2014-2020, e integrados em candidaturas apresentadas no âmbito do período de programação 2014-2020, desde que apresentadas nos termos do n.º 2, podem aplicar-se, até à sua conclusão, o regime contido nos diplomas aplicáveis no âmbito do período de programação 2007-2013 e condições previstas no n.º 3, desde que não contrariem os regulamentos comunitários e a decisão de aprovação do respetivo PO.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 122/2016 - Diário da República n.º 86/2016, Série I de 2016-05-04](https://diariodarepublica.pt/dr/detalhe/portaria/122-2016-74334113), em vigor a partir de 2016-05-05"
+  },
+  "115531016": {
+   "fragment_id": "75468636",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma final\n\nO disposto no presente regulamento aplica-se, com as necessárias adaptações, aos programas operacionais das regiões autónomas dos Açores e da Madeira, designadamente no que se refere às regras de elegibilidade das despesas, nos termos a definir pelos respetivos governos regionais."
+  },
+  "115531017": {
+   "fragment_id": "75468652",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "127766541": {
+   "fragment_id": "75468616",
+   "type": 11,
+   "heading": "Artigo 4.º — Operações de reduzida dimensão",
+   "in_force_from": "2019-10-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 382/2019 - Diário da República n.º 204/2019, Série I de 2019-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/382-2019-125603194), em vigor a partir de 2019-10-24"
+   ],
+   "markdown": "###### Artigo 4.º — Operações de reduzida dimensão\n\n1 - Para os efeitos do disposto no n.º 8 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e sempre que na regulamentação específica que regule a operação a cofinanciar não se preveja outra modalidade de custos simplificados, as candidaturas relativas a operações cujo financiamento público não exceda os 50.000 euros são apoiadas segundo a modalidade de montante fixo, com recurso a um orçamento prévio, dispensando a apresentação de documentos comprovativos de despesa.\n\n2 - O disposto no número anterior não se aplica às operações executadas exclusivamente com recurso a um procedimento de contratação pública, nem às operações abrangidas por regras de auxílios estatais.\n\n3 - De forma a garantir a equidade de tratamento dos beneficiários, o aviso de abertura da candidatura especifica obrigatoriamente as premissas a observar pela autoridade de gestão na aprovação do orçamento prévio e dos resultados a alcançar, de cuja concretização, devidamente demonstrada, depende o pagamento da operação aprovada.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 382/2019 - Diário da República n.º 204/2019, Série I de 2019-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/382-2019-125603194), em vigor a partir de 2019-10-24"
+  },
+  "127766540": {
+   "fragment_id": "75468630",
+   "type": 11,
+   "heading": "Artigo 18.º — Eficiência e resultados",
+   "in_force_from": "2019-10-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 382/2019 - Diário da República n.º 204/2019, Série I de 2019-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/382-2019-125603194), em vigor a partir de 2019-10-24"
+   ],
+   "markdown": "###### Artigo 18.º — Eficiência e resultados\n\n1 - Em relação aos cursos de aprendizagem, cursos profissionais, cursos de especialização tecnológica, cursos técnicos superiores profissionais, cursos de educação e formação e adultos e cursos vocacionais do secundário, só são financiadas operações que se proponham atingir no mínimo 50 % de empregabilidade dos formandos nos seis meses seguintes ao fim do curso em causa, o que deve constar dos resultados a contratualizar com os beneficiários.\n\n2 - Para os efeitos previstos neste artigo, a empregabilidade afere-se mediante a verificação do pagamento de contribuições para a Segurança Social, através dos organismos competentes, e o prosseguimento de estudos mediante a verificação junto do organismo com competência delegada para as estatísticas de educação e ciência.\n\n3 - Por cada ponto percentual (p.p.) abaixo do nível de empregabilidade contratualizado, procede-se a uma redução de meio p.p. sobre a despesa total elegível a pagar no saldo final, num máximo de 5 %.\n\n4 - A penalização referida no número anterior não é aplicável quando os resultados alcançados atinjam 80 % dos resultados contratualizados, ou 70 %, quando se tratem de operações que decorram nos territórios de baixa densidade, de acordo com a definição adotada por deliberação da CIC Portugal 2020.\n\n5 - (Revogado.)\n\n6 - Nas situações em que se verifique superação dos resultados contratualizados, a entidade beneficiária tem prioridade em novas candidaturas que podem beneficiar do apoio do FSE para operações da mesma natureza, nos termos fixados nos respetivos avisos de abertura de candidaturas, designadamente em sede de aplicação dos critérios de seleção.\n\n7 - (Revogado.)\n\n8 - (Revogado.)\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 382/2019 - Diário da República n.º 204/2019, Série I de 2019-10-23](https://diariodarepublica.pt/dr/detalhe/portaria/382-2019-125603194), em vigor a partir de 2019-10-24"
+  },
+  "184383193": {
+   "fragment_id": "184356982",
+   "type": 14,
+   "heading": "Anexo — Medidas excecionais e temporárias na resposta à crise de saúde pública COVID-19 através do Fundo Social Europeu (FSE)",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "## Anexo — Medidas excecionais e temporárias na resposta à crise de saúde pública COVID-19 através do Fundo Social Europeu (FSE)\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184383185": {
+   "fragment_id": "184356983",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente anexo estabelece as regras excecionais e temporárias aplicáveis a operações apoiadas pelo FSE, em resposta imediata ao impacto negativo da crise de saúde pública no contexto do surto de COVID-19.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184383186": {
+   "fragment_id": "184356984",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São abrangidas pelas presentes disposições as operações que se encontrem em curso à data de produção de efeitos do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua atual redação, e que ainda não tenham concluído fisicamente as atividades nelas previstas, de acordo com o respetivo cronograma aprovado, e até à cessação desta situação excecional, nos termos legalmente previstos.\n\n2 - São ainda abrangidas as operações fisicamente concluídas que se encontrem no período de verificação das condições associadas aos indicadores de resultado contratualizados.\n\n3 - Para além das operações referidas, são também abrangidas as que estando aprovadas, mas não iniciadas, ou venham a ser aprovadas e para as quais, no contexto da crise de saúde pública, se justifique utilizar limites financeiros mais adequados bem como utilizar a flexibilidade aqui prevista na contratualização de realizações e resultados, conforme definido nos artigos 5.º e 7.º do presente anexo.\n\n4 - O presente regime é aplicável às operações referidas nos números anteriores desde que se demonstre haver um nexo de causalidade entre as condições que obstam à sua normal execução e a crise de saúde pública decorrente do surto COVID-19.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184383187": {
+   "fragment_id": "184356985",
+   "type": 11,
+   "heading": "Artigo 3.º — Despesas elegíveis com cancelamentos ou adiamentos",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 3.º — Despesas elegíveis com cancelamentos ou adiamentos\n\n1 - As elegibilidades previstas no artigo 12.º do Regulamento que estabelece as Normas Comuns sobre o Fundo Social Europeu aprovado em anexo à Portaria n.º 60-A/2015, de 2 de março, na sua atual redação, podem integrar despesas previstas em operações financiadas pelo FSE e comprovadamente suportadas pelos beneficiários em iniciativas, ações ou eventos, nacionais ou internacionais, cancelados ou adiados por razões relacionadas com o COVID-19.\n\n2 - Nas operações adiadas, em que após o adiamento seja previsto um novo agendamento, são também elegíveis as despesas associadas a esta segunda data.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184383188": {
+   "fragment_id": "184356986",
+   "type": 11,
+   "heading": "Artigo 4.º — Manutenção de elegibilidades em operações suspensas",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 4.º — Manutenção de elegibilidades em operações suspensas\n\n1 - Quando haja lugar à suspensão de ações ou atividades enquadradas em operações apoiadas pelo FSE de formação profissional, reabilitação profissional, medidas ativas de emprego ou outras medidas não formativas em curso, e que não seja possível manter essas ações ou atividades, nomeadamente através de formação a distância, mantém-se a elegibilidade, durante o período de suspensão, relativamente aos apoios previstos nas alíneas a), c), j), k) e l) do n.º 1, bem como os apoios previstos no n.º 3 e no n.º 4 do artigo 13.º do Regulamento de Normas Comuns do FSE.\n\n2 - São ainda elegíveis e durante essa suspensão os encargos com alimentação de formandos quando as refeições são fornecidas em espécie, nos termos da alínea h) do n.º 1 do artigo 13.º do regulamento referido no número anterior.\n\n3 - Os apoios referidos nos números anteriores não dependem da assiduidade dos formandos e participantes, ficando derrogados para este efeito os n.os 5 e 6 do artigo 13.º do Regulamento de Normas Comuns do FSE.\n\n4 - O disposto nos n.os 1 e 3 é aplicável, com as necessárias adaptações, às bolsas de estágio e bolsas complementares em medidas ativas de emprego.\n\n5 - Mantém-se a elegibilidade dos custos internos, associados às operações de formação e reabilitação profissional e medidas não formativas, quando imprescindíveis e inadiáveis à continuidade da atividade ou da sua retoma por parte do beneficiário, desde que verificado o nexo de causalidade e imprescindibilidade pela autoridade de gestão, nomeadamente os previstos na alíneas b) e c), apenas para pessoal interno aos beneficiários e observadas as regras e limites para o efeito previstos nos artigos 14.º e 15.º, e nas alíneas d) a f) do n.º 1 do artigo 12.º do Regulamento de Normas Comuns do FSE.\n\n6 - Os montantes referentes ao período de suspensão podem ser financiados nas seguintes modalidades:\n\na) do reembolso dos custos elegíveis incorridos e pagos conforme alínea a) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação;\n\nb) de Taxa Fixa Regulamentar máxima de 40 % sobre os custos diretos com pessoal, ao abrigo do n.º 1 do artigo 68.º-B do Regulamento (EU) n.º 1303/2013, de 17 de dezembro, conforme alínea e) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação;\n\nc) de Montante Fixo com recurso a Orçamento Prévio, ao abrigo da alínea d) do n.º 2 do artigo 7.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação, conjugado com a alínea a-A) do n.º 5 do artigo 67.º do Regulamento (EU) n.º 1303/2013, de 17 de dezembro.\n\n7 - As modalidades previstas nas alíneas b) e c) do número anterior dispensam, nesta circunstância, o procedimento previsto no n.º 3 do artigo 16.º do Regulamento de Normas Comuns do FSE.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184383189": {
+   "fragment_id": "184356987",
+   "type": 11,
+   "heading": "Artigo 5.º — Custos máximos elegíveis",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 5.º — Custos máximos elegíveis\n\nSempre que por motivos associados aos impactos negativos da crise de saúde pública COVID-19 as Autoridades de Gestão podem, mediante decisão fundamentada, definir outros custos máximos elegíveis para as operações, ficando para este efeito derrogado o disposto no n.º 1 do artigo 16.º do Regulamento de Normas Comuns do FSE, bem como aqueles que constem em regulamentação específica dos vários domínios com intervenção do FSE e os que se encontrem fixados em avisos de aberturas de candidaturas.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184383190": {
+   "fragment_id": "184356988",
+   "type": 11,
+   "heading": "Artigo 6.º — Duração máxima das operações",
+   "in_force_from": "2020-05-27",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 6.º — Duração máxima das operações\n\n1 - As operações financiadas pelo FSE podem ser prorrogadas por decisão da Autoridade de Gestão pelo período necessário para dar resposta às situações de força maior decorrentes do surto COVID-19, podendo ser ultrapassados os limites definidos em regulamentação específica ou em aviso de abertura de candidaturas relativamente à duração máxima das operações.\n\n2 - Para o efeito do previsto no número anterior é derrogado o n.º 1 do artigo 3.º do Regulamento de Normas Comuns do FSE, bem como as durações máximas que constem em regulamentação específica dos vários domínios com intervenção do FSE e as que se encontrem fixadas em avisos de aberturas de candidaturas.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184383191": {
+   "fragment_id": "184356989",
+   "type": 11,
+   "heading": "Artigo 7.º — Indicadores de realização e resultado",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 7.º — Indicadores de realização e resultado\n\n1 - Sem prejuízo do previsto no artigo 18.º do Regulamento de Normas Comuns do FSE, a crise de saúde pública COVID-19 considera-se constituir força maior, uma vez que se reconduz a uma situação superveniente à data da aprovação, inultrapassável e não imputável ao beneficiário, conforme previsto no n.º 4 do artigo 6.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação.\n\n2 - O limite relativo à empregabilidade dos formandos previsto no n.º 1 do artigo 18.º no Regulamento de Normas Comuns do FSE pode ser alterado por decisão da Autoridade de Gestão sempre que se verifiquem as circunstâncias referidas no n.º 1.\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  },
+  "184307240": {
+   "fragment_id": "75468631",
+   "type": 11,
+   "heading": "Artigo 19.º — Contribuição privada",
+   "in_force_from": "2020-10-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 255/2020 - Diário da República n.º 209/2020, Série I de 2020-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/255-2020-146435544), em vigor a partir de 2020-10-28"
+   ],
+   "markdown": "###### Artigo 19.º — Contribuição privada\n\n1 - As obrigações em matéria de contribuição privada, nos projetos financiados pelo FSE, são definidas pelos regulamentos específicos dos PO, observando, quando aplicável, as normas em matéria de auxílios de Estado, na aceção do artigo 107.º do Tratado sobre o Funcionamento da União Europeia (TFUE).\n\n2 - Nas operações de caráter formativo, cujos beneficiários são entidades empregadoras, os encargos com remunerações dos ativos empregados em formação durante o período normal de trabalho, calculados de acordo com as regras definidas na alínea f) do n.º 1 do artigo 13.º são elegíveis apenas a título de contribuição privada.\n\n3 - Sem prejuízo do referido no número anterior, nas operações de caráter formativo cujos destinatários sejam trabalhadores de empresas abrangidas pelas regras de auxílios de estado e sempre que os beneficiários intervenham na qualidade de entidades empregadoras ou de outros operadores, ao abrigo do previsto, respetivamente, nas alíneas a) e c) do n.º 2 do artigo 12.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação, são elegíveis e reembolsados os encargos com remunerações dos ativos empregados em formação durante o período normal de trabalho, calculados de acordo com o definido na alínea f) do n.º 1 do artigo 13.º\n\n4 - O disposto no número anterior não é aplicável em situações em que as remunerações dos ativos empregados em formação sejam financiados por outros apoios públicos.\n\n> Nota: [Artigo 3.º, Portaria n.º 255/2020 - Diário da República n.º 209/2020, Série I de 2020-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/255-2020-146435544) A alteração introduzida no presente artigo produz efeitos relativamente a candidaturas apresentadas no âmbito de Avisos para Apresentação de Candidaturas publicados após a sua data de entrada em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 255/2020 - Diário da República n.º 209/2020, Série I de 2020-10-27](https://diariodarepublica.pt/dr/detalhe/portaria/255-2020-146435544), em vigor a partir de 2020-10-28"
+  },
+  "184307260": {
+   "fragment_id": "184356984",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2021-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2021 - Diário da República n.º 37/2021, Série I de 2021-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/43-2021-158146139), em vigor a partir de 2021-02-28, produz efeitos a partir de 2020-03-13",
+    "Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - São abrangidas pelas presentes disposições as operações que se encontrem em curso à data da determinação da suspensão das atividades financiadas pelo FSE, pelas autoridades competentes, decorrente de declaração de estado de emergência, e que ainda não tenham concluído fisicamente as atividades nelas previstas, de acordo com o respetivo cronograma aprovado, e até à cessação dessa situação excecional, nos termos legalmente previstos.\n\n2 - São ainda abrangidas as operações fisicamente concluídas que se encontrem no período de verificação das condições associadas aos indicadores de resultado contratualizados.\n\n3 - Para além das operações referidas, são também abrangidas as que estando aprovadas, mas não iniciadas, ou venham a ser aprovadas e para as quais, no contexto da crise de saúde pública, se justifique utilizar limites financeiros mais adequados bem como utilizar a flexibilidade aqui prevista na contratualização de realizações e resultados, conforme definido nos artigos 5.º e 7.º do presente anexo.\n\n4 - O presente regime é aplicável às operações referidas nos números anteriores desde que se demonstre haver um nexo de causalidade entre as condições que obstam à sua normal execução e a crise de saúde pública decorrente do surto COVID-19.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 43/2021 - Diário da República n.º 37/2021, Série I de 2021-02-23](https://diariodarepublica.pt/dr/detalhe/portaria/43-2021-158146139), em vigor a partir de 2021-02-28, produz efeitos a partir de 2020-03-13\n\n> Aditado pelo/a Artigo 2.º do/a [Portaria n.º 127/2020 - Diário da República n.º 102/2020, Série I de 2020-05-26](https://diariodarepublica.pt/dr/detalhe/portaria/127-2020-134505607), em vigor a partir de 2020-05-27, produz efeitos a partir de 2020-03-13"
+  }
+ }
+}

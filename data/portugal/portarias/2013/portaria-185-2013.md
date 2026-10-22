@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:261126:por
+title: Portaria n.º 185/2013
+short_title: null
+summary: Altera os períodos de interdição à pesca com ganchorra, por motivos biológicos, nas zonas Ocidental Norte, Ocidental
+  Sul e Sul, em 2013
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 185/2013
+official_date: null
+publication_date: '2013-05-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 97/2013, Série I de 2013-05-21
+  number: '97'
+  series: I
+  supplement: null
+  pages: 2995 - 2995
+  pdf_url: https://files.diariodarepublica.pt/1s/2013/05/09700/0299502995.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/185/2013/05/21/p/dre/pt/html
+  oj: null
+  dre: '261126'
+  dre_path: /dr/detalhe/portaria/185-2013-261126
+  internal: pt:dre:261126:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-2013-261126
+  metadata_url: https://data.dre.pt/eli/port/185/2013/05/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/185-2013-261126
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2013-05-21T00:00:00Z'
+integrity:
+  source_sha256: 51b21c6199d072ee67ee0d2f663c90201393dc929e4e879612662004fec731ef
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2013/DRE-2013-185-261126.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Mar Territorial
+- Pesca
+- Recursos do Mar
+- Direção Geral de Recursos Naturais Segurança e Serviços Marítimos
+- Período de Defeso
+- Artes de Pesca
+- Pesca por ARTE de Arrasto
+- Embarcação de Pesca
+- Portos
+- ZONA de Pesca
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/383/1998/11/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/81/2005/04/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/81/2005/04/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/7/2000/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1102-e/2000/11/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1102-e/2000/11/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1423-b/2003/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1423-b/2003/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/419-b/2001/04/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/419-b/2001/04/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/769/2006/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/769/2006/08/07/p/dre
+article_structure:
+  article_count: 3
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 185/2013
+
+de 21 de maio
+
+A [Portaria n.º 1102-E/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1102-e-2000-284922), de 22 de novembro, que aprova o Regulamento da Pesca por Arte de Arrasto, alterada pelas Portarias n.os [419-B/2001](https://diariodarepublica.pt/dr/detalhe/portaria/419-b-2001-468398), de 18 de abril, [1423-B/2003](https://diariodarepublica.pt/dr/detalhe/portaria/1423-b-2003-302512), de 31 de dezembro, [769/2006](https://diariodarepublica.pt/dr/detalhe/portaria/769-2006-538633), de 7 de agosto, 1067/2006, de 28 de setembro, 254/2008, de 7 de abril e 189/2011, de 10 de maio, prevê, no n.º 1 do artigo 21.º, a interdição à pesca com ganchorra em águas oceânicas e interiores marítimas, por motivos biológicos, no período compreendido entre 1 de maio e 15 de junho de cada ano. O mesmo artigo 21.º, prevê, no seu n.º 2, a possibilidade de alteração daquele período, atendendo às informações científicas disponíveis sobre o estado e a evolução dos recursos biológicos ou a fatores de natureza sócio-económica.
+
+Por solicitação das associações representativas da pesca nas diversas zonas, foi analisada a possibilidade de redução do período de defeso para a pesca dos bivalves e de dividir as zonas de pesca designadas por zona Ocidental Norte e zona Ocidental Sul, em duas subzonas, exclusivamente para efeitos de interdição à pesca, estabelecendo períodos de defeso diferenciados, que mereceu o parecer favorável do Instituto Português do Mar e da Atmosfera, I.P., atendendo às mais atuais informações biológicas disponíveis sobre o estado do recurso.
+
+Estas alterações têm em conta a necessidade de assegurar um período contínuo de interdição de pesca para que o defeso produza efeitos ao nível da proteção de recursos na fase de fixação dos juvenis e para evitar constrangimentos em termos de mercado.
+
+Por fim, tendo em vista garantir o controlo das capturas, determina-se também que as embarcações apenas possam navegar nas zonas em que a pesca é autorizada, obrigando-se a descarga nos portos designados dessas zonas.
+
+Assim, ao abrigo do disposto na alínea d) do n.º 2 do artigo 4.º do [Decreto-Lei n.º 278/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193), de 7 de julho, na redação dada pelo [Decreto-Lei n.º 383/98](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), de 27 de novembro, do n.º 3 do artigo 1.º do [Decreto-Lei n.º 81/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/81-2005-547844), de 20 de abril, do artigo 49.º do [Decreto Regulamentar n.º 43/87](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/43-1987-420460), de 17 de julho, na redação dada pelo [Decreto Regulamentar n.º 7/2000](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/7-2000-292958), de 30 de maio, do disposto na alínea d) n.º 1 do artigo 13.º e no n.º 2 do artigo 21.º do Regulamento da Pesca por Arrasto, aprovado pela [Portaria n.º 1102-E/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1102-e-2000-284922), de 22 de novembro, na sua atual redação, no uso das competências delegadas pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, ao abrigo do [Despacho n.º 4704/2013](https://diariodarepublica.pt/dr/detalhe/despacho/4704-2013-2233659), de 28 de março, publicado no Diário da República, 2.ª série, n.º 66, de 4 de abril de 2013, manda o Governo, pelo Secretário de Estado do Mar, o seguinte:
+
+###### Artigo 1.º — Períodos de interdição de pesca
+
+Em 2013, a título excecional, os períodos de interdição à pesca com ganchorra, por motivos biológicos, nas zonas Ocidental Norte, Ocidental Sul e Sul, previstas no artigo 11.º do Regulamento da Pesca por Arte de Arrasto, aprovado pela [Portaria n.º 1102-E/2000](https://diariodarepublica.pt/dr/detalhe/portaria/1102-e-2000-284922), de 22 de novembro, na sua atual redação, são os seguintes:
+
+a) Zona Ocidental Norte:
+
+i) A norte do paralelo que passa pelo limite norte da Capitania de Aveiro (40º 56.0 N) - de 1 de junho a 30 de junho;
+
+ii) A sul do paralelo que passa pelo limite norte da Capitania de Aveiro (40º 56.0 N) - de 7 de maio a 31 de maio.
+
+b) Zona Ocidental Sul:
+
+i) A norte do paralelo que passa pelo Cabo Espichel (38º 24.838 N) - de 1 de junho a 30 de junho;
+
+ii) A sul do paralelo que passa pelo Cabo Espichel (38º 24.838 N) - de 7 de maio a 31 de maio.
+
+c) Zona Sul: toda a zona, de 7 de maio a 31 de maio.
+
+###### Artigo 2.º — Restrições à navegação e descarga
+
+1 - Nas zonas e períodos referidos no artigo anterior é proibida a pesca, o transporte de bivalves e a navegação por parte das embarcações licenciadas para a pesca com ganchorra, exceto em situações extraordinárias relacionadas com a segurança da navegação, a salvaguarda da vida humana no mar ou a deslocação para estaleiros, desde que comunicada previamente à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos.
+
+2 - Durante os períodos referidos no artigo anterior, é obrigatória a descarga nos seguintes portos:
+
+a) Na zona Ocidental Norte:
+
+i) Aveiro ou Figueira da Foz - de 1 de junho a 30 de junho;
+
+ii) Matosinhos - de 7 de maio a 31 de maio.
+
+b) Na zona Ocidental Sul:
+
+i) Portos a norte do paralelo que passa pelo Cabo Espichel (38º 24.838 N) - de 7 de maio a 31 de maio;
+
+ii) Portos a sul do paralelo que passa pelo Cabo Espichel (38º 24.838 N) - de 1 de junho a 30 de junho.
+
+###### Artigo 3.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação e produz efeitos a partir de 1 de maio de 2013.
+
+**O Secretário de Estado do Mar, Manuel Pinto de Abreu, em 7 de maio de 2013.**

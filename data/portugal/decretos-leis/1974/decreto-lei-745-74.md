@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:372637:por
+title: Decreto-Lei n.º 745/74
+short_title: null
+summary: Introduz alterações na redacção do Decreto-Lei n.º 265/73, que aprova a Lei Orgânica do Secretariado da Administração
+  Pública
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 745/74
+official_date: null
+publication_date: '1974-12-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 300/1974, 1º Suplemento, Série I de 1974-12-27
+  number: '300'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1626-(2) a 1626-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/12/30001/00020003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '372637'
+  dre_path: /dr/detalhe/decreto-lei/745-1974-372637
+  internal: pt:dre:372637:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/745-1974-372637
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/745-1974-372637
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-09-19T00:00:00Z'
+integrity:
+  source_sha256: 17dd9131b39b2add73ccb16e3937bb8a064b643705b8ac0791a0a273d0b385fe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-745-372637.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:369823:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 745/74
+
+de 27 de Dezembro
+
+A Lei Orgânica do Secretariado da Administração Pública ([Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio) atribui-lhe a incumbência, muito ampla, de «estudar, propor, coordenar e acompanhar a execução das medidas tendentes a promover sistematicamente o aperfeiçoamento e a modernização da Administração». Porém, tal como aconteceu com os anteriores serviços de reforma administrativa, a falta de uma vontade política efectiva de avançar neste delicado mas imprescindível domínio, bem como a insuficiência de meios postos à disposição do organismo, têm impedido a adopção de uma estratégia adequada e eficaz, bem como a programação e execução de medidas concretas de carácter global.
+
+As medidas previstas no Programa do Movimento das Forças Armadas implicam importantes reformas que conferem à administração pública especial e crescente prioridade política.
+
+Nesta conformidade, a amplitude das acções decorrentes do programa do Governo Provisório exige à administração pública um redobrado esforço para aumentar significativamente a sua capacidade de resposta e o seu poder de execução. Esse programa prevê, aliás, a reestruturação dos serviços e a dignificação da função pública, como bases fundamentais para a reanimação e saneamento da Administração, e a valorização dos seus recursos humanos.
+
+A resolução do Conselho de Ministros de 24 de Junho do corrente ano especifica missões ou áreas de actuação do Secretariado da Administração Pública, que a curto prazo deverão conduzir a medidas legislativas que hão-de fixar as bases de uma nova política de pessoal da função pública, e as regras gerais da organização e gestão dos recursos humanos. Outras acções em curso ou a encetar no organismo em execução, de objectivos que lhe foram assinalados, dizem respeito a problemas de organização e informática.
+
+Por seu turno, o diploma que reajustou os vencimentos do funcionalismo ([Decreto-Lei n.º 372/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/372-1974-475688), de 20 de Agosto) determina expressamente, além de outras medidas, que o Secretariado proceda ao estudo e organização de um registo central de pessoal, com vista à criação de um esquema de diuturnidades a conceder durante o ano de 1975.
+
+Independentemente da reforma do Secretariado, a efectuar no contexto da reestruturação do Ministério da Administração Interna, mostra-se necessário adoptar medidas mínimas e urgentes, consideradas indispensáveis para reforçar os meios estruturais e humanos de actuação do organismo, capazes de lhe permitir, com o apoio de colaborações exteriores, no âmbito da Administração ou fora dela, a conclusão daquelas tarefas e de outras que se inserem no seu apoio permanente aos restantes organismos e serviços públicos.
+
+Deste modo:
+
+Usando da faculdade conferida pelo n.º 1, 3.º, do artigo 16.º da Lei Constitucional n.º 3/74, de 14 de Maio, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Aos artigos 4.º, 17.º e 18.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio, são acrescentados um n.º 6, ao primeiro, e um n.º 4, aos restantes, nos termos seguintes:
+
+###### Art. 4.º ...
+
+...
+
+6. Serão constituídos no Secretariado órgãos de participação na gestão e de representação do pessoal, cuja competência, composição e funcionamento serão definidos por despacho ministerial.
+
+...
+
+###### Art. 17.º ...
+
+...
+
+4. As acções de formação e aperfeiçoamento poderão ser confiadas a entidades nacionais ou estrangeiras, estranhas aos serviços, bem como a funcionários do Secretariado, segundo condições a definir por despacho ministerial.
+
+###### Art. 18.º ...
+
+...
+
+4. Mediante autorização ministerial, poderá também ser requisitado pessoal aos Ministérios e serviços autónomos, nos termos do artigo 7.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de Março de 1966, quando se julgue indispensável para realização de tarefas que requeiram formação e experiência especializadas.
+
+###### Art. 2.º - 1. A estrutura orgânica prevista no n.º 1 do artigo 4.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447), de 29 de Maio, bem como a competência dos órgãos e serviços estabelecida no [Decreto n.º 269/73](https://diariodarepublica.pt/dr/detalhe/decreto/269-1973-422253), de 30 de Maio, poderão ser modificadas ou adaptadas por despacho ministerial.
+
+2. Quando as alterações referidas no número anterior envolvam aumento de encargos, serão objecto de diploma conjunto dos Ministérios da Administração Interna e das Finanças.
+
+###### Art. 3.º As referências feitas ao Presidente do Conselho no [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) e no [Decreto n.º 269/73](https://diariodarepublica.pt/dr/detalhe/decreto/269-1973-422253), respectivamente de 29 e 30 de Maio, entendem-se feitas ao Ministério da Administração Interna.
+
+###### Art. 4.º - 1. Ao quadro do pessoal a que se refere o n.º 1 do artigo 11.º do [Decreto-Lei n.º 265/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1973-422447) são acrescentados os lugares referidos no mapa anexo ao presente diploma.
+
+2. Do quadro anexo ao diploma referido no número anterior são excluídas as alíneas nele referidas.
+
+Visto e aprovado em Conselho de Ministros. - Vasco dos Santos Gonçalves - Manuel da Costa Brás - José da Silva Lopes.
+
+**Promulgado em 26 de Dezembro de 1974.**
+
+**Publique-se.**
+
+**O Presidente da República, FRANCISCO DA COSTA GOMES.**
+
+QUADRO ANEXO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1974/12/30001/00020003.pdf))](https://files.diariodarepublica.pt/1s/1974/12/30001/00020003.pdf)
+
+**O Ministro da Administração Interna, Manuel da Costa Brás.**

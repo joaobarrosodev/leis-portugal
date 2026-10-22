@@ -1,0 +1,198 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:1124493237:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2026-1124599875",
+ "dre_path": "/dr/detalhe/portaria/227-2026-1124493237",
+ "source_lastmod": "2026-08-18",
+ "versions": [
+  {
+   "date": "2026-08-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1154275220:por",
+     "title": "Portaria n.º 321/2026/1",
+     "published": "2026-08-04",
+     "dre_path": "/dr/detalhe/portaria/321-2026-1154275220"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "1124600075",
+    "1124600275",
+    "1124600475",
+    "1124600675",
+    "1124600875",
+    "1124601075",
+    "1124601275",
+    "1154814275",
+    "1154814475",
+    "1124601875",
+    "1124602075",
+    "1124602275",
+    "1124602475",
+    "1124602675",
+    "1124602875",
+    "1154847675",
+    "1124603275",
+    "1124603475"
+   ]
+  }
+ ],
+ "fragments": {
+  "1124600075": {
+   "fragment_id": "1124599975",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": ""
+  },
+  "1124600275": {
+   "fragment_id": "1124600175",
+   "type": 1,
+   "heading": "Capítulo I — DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — DISPOSIÇÕES GERAIS"
+  },
+  "1124600475": {
+   "fragment_id": "1124600375",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece as regras de apoio à compensação pela quebra de rendimentos de produção da atividade pecuária, pela morte de ovinos, no âmbito do surto de língua azul, no período de 1 de junho de 2025 a 16 de janeiro de 2026."
+  },
+  "1124600675": {
+   "fragment_id": "1124600575",
+   "type": 11,
+   "heading": "Artigo 2.º — Dotação orçamental global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Dotação orçamental global\n\nA dotação orçamental afeta aos apoios previstos no artigo anterior é de 500 000 €."
+  },
+  "1124600875": {
+   "fragment_id": "1124600775",
+   "type": 11,
+   "heading": "Artigo 3.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Auxílios de Estado\n\n1 - Os apoios previstos na presente portaria são concedidos nas condições previstas no artigo 26.º do Regulamento (UE) 2022/2472, da Comissão, que declara certas categorias de auxílios no setor agrícola e florestal e nas zonas rurais compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia.\n\n2 - Os candidatos aos apoios previstos na presente portaria não podem ser empresas em dificuldade, nos termos da definição constante do ponto 18 do artigo 2.º do Regulamento (UE) n.º 651/2014, na sua redação atual, aplicável por força do ponto 59 do artigo 2.º do Regulamento (UE) 2022/2472, exceto se se tornaram empresas em dificuldades devido os danos causados por doenças dos animais, nem sobre estes impender um processo de recuperação de auxílios de Estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia"
+  },
+  "1124601075": {
+   "fragment_id": "1124600975",
+   "type": 1,
+   "heading": "Capítulo II — COMPENSAÇÃO PELA QUEBRA DE RENDIMENTOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — COMPENSAÇÃO PELA QUEBRA DE RENDIMENTOS"
+  },
+  "1124601275": {
+   "fragment_id": "1124601175",
+   "type": 11,
+   "heading": "Artigo 4.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Beneficiários\n\nPodem beneficiar do apoio previsto na presente portaria as pessoas singulares ou coletivas, que sejam detentoras de ovinos cujas explorações tenham sido afetados pelo surto «Febre catarral ovina - Língua azul», no período referido no artigo 1.º"
+  },
+  "1154814275": {
+   "fragment_id": "1124601375",
+   "type": 11,
+   "heading": "Artigo 5.º — Critérios de elegibilidade",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/321-2026-1154275220), em vigor a partir de 2026-08-05."
+   ],
+   "markdown": "###### Artigo 5.º — Critérios de elegibilidade\n\n1 - São elegíveis os beneficiários referidos no artigo anterior que:\n\na) Sejam detentores de ovinos registados no Sistema Nacional de Identificação e Registo Animal (SNIRA);\n\nb) Tenham notificado à Direção-Geral de Alimentação e Veterinária (DGAV), até à véspera da publicação da Portaria n.º 227/2026/1, de 20 de maio, as suspeitas de febre catarral ovina ocorridas entre 1 de junho de 2025 e 16 de janeiro de 2026, nos termos do artigo 3.º do Decreto-Lei n.º 146/2002, de 21 de maio;\n\nc) Tenham registado no SNIRA a morte de ovinos ocorrida entre 1 de junho de 2025 e 16 de janeiro de 2026, nas explorações afetadas pelo surto «Febre catarral ovina - Língua azul», no prazo legalmente previsto no n.º 8 do artigo 7.º do Decreto-Lei n.º 142/2006, de 27 de julho, na sua redação atual;\n\nd) Tenham vacinado os ovinos contra os serotipos 3 ou 8 da língua azul, antes da ocorrência do foco, cumprindo o indicado no resumo das características do medicamento (RCM) da vacina utilizada e registado as respetivas ações de vacinação no PISA.Net;\n\ne) Estejam legalmente constituídos, no caso de pessoas coletivas.\n\n2 - Em alternativa ao disposto na alínea d) do número anterior, consideram-se elegíveis os beneficiários que tenham vacinado o efetivo ovino contra os serotipos 3 ou 8 da língua azul, até 30 de novembro de 2025, cumprindo o indicado no RCM da vacina utilizada e registado as respetivas ações de vacinação no PISA.Net.\n\n3 - Para efeitos de aplicação dos números anteriores, a elegibilidade é aferida pela DGAV.\n\n4 - A DGAV publicita a lista de marcas de exploração e os números de identificação fiscal (NIF) elegíveis no respetivo portal, sendo concedido um prazo de 30 dias para apresentação de reclamações.\n\n5 - Findo o prazo previsto no número anterior, a DGAV comunica ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), a lista das marcas de exploração e os NIF elegíveis, para efeitos de abertura de candidaturas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/321-2026-1154275220), em vigor a partir de 2026-08-05."
+  },
+  "1154814475": {
+   "fragment_id": "1124601575",
+   "type": 11,
+   "heading": "Artigo 6.º — Forma e limite do apoio",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/321-2026-1154275220), em vigor a partir de 2026-08-05."
+   ],
+   "markdown": "###### Artigo 6.º — Forma e limite do apoio\n\n1 - O apoio previsto na presente portaria assume a forma de ajuda forfetária não reembolsável, de montante fixo, no valor de 48,00 €, por ovino morto, registado no SNIRA a partir da data de início da suspeita da doença, inclusive, expressa na notificação mencionada na alínea b) do n.º 1 do artigo anterior e até ao dia 16 de janeiro de 2026.\n\n2 - Se o valor global dos pedidos elegíveis ao abrigo da presente portaria ultrapassar a dotação orçamental prevista no artigo 2.º, o montante individual a conceder é objeto de redução proporcional entre os beneficiários.\n\n3 - A soma do apoio concedido ao abrigo da presente portaria e de outros apoios ou de indemnizações de seguro não pode conduzir à sobrecompensação dos prejuízos sofridos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 321/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/321-2026-1154275220), em vigor a partir de 2026-08-05."
+  },
+  "1124601875": {
+   "fragment_id": "1124601775",
+   "type": 1,
+   "heading": "Capítulo III — PROCEDIMENTO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — PROCEDIMENTO"
+  },
+  "1124602075": {
+   "fragment_id": "1124601975",
+   "type": 11,
+   "heading": "Artigo 7.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Candidaturas\n\n1 - A entidade gestora das candidaturas é o IFAP, I. P.\n\n2 - A atribuição do apoio financeiro depende de um pedido, a apresentar pelo beneficiário, após a disponibilização pelo IFAP, I. P., do formulário de candidatura, no prazo que venha a ser definido por este Instituto, e que deve ser instruído com os documentos nele indicados."
+  },
+  "1124602275": {
+   "fragment_id": "1124602175",
+   "type": 11,
+   "heading": "Artigo 8.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Pagamento\n\nO pagamento do apoio extraordinário é efetuado pelo IFAP, I. P., de uma só vez, através de transferência bancária, para o número de identificação bancário (NIB) registado na Base de Dados do IB - Identificação do Beneficiário."
+  },
+  "1124602475": {
+   "fragment_id": "1124602375",
+   "type": 11,
+   "heading": "Artigo 9.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Acompanhamento e controlo\n\n1 - O IFAP, I. P., estabelece as normas técnicas consideradas indispensáveis ao bom funcionamento dos apoios financeiros e procede à publicitação no respetivo portal, em www.ifap.pt.\n\n2 - O IFAP I. P. procede ainda às ações de controlo, administrativo e no local, que se afigurem necessárias ao correto pagamento dos apoios."
+  },
+  "1124602675": {
+   "fragment_id": "1124602575",
+   "type": 11,
+   "heading": "Artigo 10.º — Recuperação de pagamentos indevidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Recuperação de pagamentos indevidos\n\n1 - Em caso de pagamento indevido, o IFAP, I. P., promove a respetiva recuperação, mediante notificação para reembolso voluntário, ou coercivamente, mediante execução fiscal, caso o beneficiário não devolva as ajudas indevidamente recebidas no prazo constante daquela notificação.\n\n2 - Sobre os valores a reembolsar nos termos do número anterior incidem juros legais, calculados pela aplicação da taxa de juro legal ao montante indevido, desde o termo do prazo fixado na notificação para reembolso voluntário das ajudas indevidamente recebidas até ao efetivo e integral reembolso das mesmas."
+  },
+  "1124602875": {
+   "fragment_id": "1124602775",
+   "type": 1,
+   "heading": "Capítulo IV — DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — DISPOSIÇÕES FINAIS"
+  },
+  "1154847675": {
+   "fragment_id": "1124602975",
+   "type": 11,
+   "heading": "Artigo 11.º — Articulação com regimes anteriores",
+   "in_force_from": "2026-08-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 321/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/321-2026-1154275220), em vigor a partir de 2026-08-05."
+   ],
+   "markdown": "###### Artigo 11.º — Articulação com regimes anteriores\n\nNão é admissível a atribuição de apoio, ao abrigo da presente portaria, relativamente a animais, explorações ou prejuízos que tenham sido, ou sejam suscetíveis de ser, objeto de apoio ao abrigo da Portaria n.º 107/2025/1, de 13 de março, ou de qualquer outro regime de natureza análoga, independentemente do momento em que ocorram os respetivos pagamentos.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 321/2026/1 - Diário da República n.º 149/2026, Série I de 2026-08-04](https://diariodarepublica.pt/dr/detalhe/portaria/321-2026-1154275220), em vigor a partir de 2026-08-05."
+  },
+  "1124603275": {
+   "fragment_id": "1124603175",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia útil seguinte ao da sua publicação."
+  },
+  "1124603475": {
+   "fragment_id": "1124603375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro de Estado e das Finanças, Joaquim Miranda Sarmento, em 13 de maio de 2026. - O Ministro da Agricultura e Mar, José Manuel Fernandes, em 14 de maio de 2026."
+  }
+ }
+}

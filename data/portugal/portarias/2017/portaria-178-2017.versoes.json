@@ -1,0 +1,105 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:107094728:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2017-116448957",
+ "dre_path": "/dr/detalhe/portaria/178-2017-107094728",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2017-05-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "116425563",
+    "116425564",
+    "116425565",
+    "116425566",
+    "116425567"
+   ]
+  },
+  {
+   "date": "2018-09-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:116433035:por",
+     "title": "Portaria n.º 267/2018",
+     "published": "2018-09-20",
+     "dre_path": "/dr/detalhe/portaria/267-2018-116433035"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "116425563",
+    "116425564",
+    "116425569",
+    "116425566",
+    "116425567",
+    "116425568"
+   ]
+  }
+ ],
+ "fragments": {
+  "116425563": {
+   "fragment_id": "116448958",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 178/2017\n\nde 30 de maio\n\nA presente portaria vem dar corpo a uma das medidas do Programa Simplex para a área da Justiça, a criação do Balcão Único dos Tribunais Administrativos e Fiscais.\n\nCom a constituição deste Balcão será possível ao cidadão, em qualquer tribunal administrativo de círculo e tribunal tributário, obter informações e certidões sobre qualquer processo desses tribunais. Será possível também entregar peças processuais ou documentos em suporte físico, quando admissível, e consultar processos em qualquer tribunal de círculo e tribunal tributário do país, independentemente de ser ou não o tribunal onde corre o processo.\n\nConsiderando o caráter inovador desta medida e o impacto que a mesma pode ter no funcionamento do sistema e, em particular, na organização e funcionamento das secretarias, especialmente considerando os recursos humanos a elas alocados, prevê-se que o Balcão Único funcione, até ao final do ano de 2017 e a título experimental, apenas no Tribunal Administrativo e Fiscal de Sintra, onde se procederá à monitorização e análise do seu impacto. Após aquela data, e em função das conclusões do período experimental, este modelo de organização da secretaria será estendido a todos os tribunais administrativos e fiscais.\n\nAssim:\n\nAo abrigo do disposto no artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de dezembro, alterado pelos Decretos-Leis n.os 182/2007, de 9 de maio, e 190/2009, de 17 de agosto, manda o Governo, pela Secretária de Estado da Justiça, o seguinte:"
+  },
+  "116425564": {
+   "fragment_id": "116448959",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria cria o Balcão Único dos Tribunais Administrativos e Fiscais."
+  },
+  "116425565": {
+   "fragment_id": "116448960",
+   "type": 11,
+   "heading": "Artigo 2.º — Balcão Único dos Tribunais Administrativos e Fiscais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Balcão Único dos Tribunais Administrativos e Fiscais\n\nNo âmbito da jurisdição administrativa e fiscal a obtenção de informações, o pedido e obtenção de certidões, a entrega de peças processuais ou documentos em suporte físico, quando admissível, e a consulta de processos podem ser efetuados em qualquer tribunal administrativo de círculo ou tribunal tributário, independentemente do tribunal onde corre o processo."
+  },
+  "116425566": {
+   "fragment_id": "116448961",
+   "type": 11,
+   "heading": "Artigo 3.º — Período experimental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Período experimental\n\nAté 31 de dezembro de 2017 o Balcão Único dos Tribunais Administrativos e Fiscais funciona apenas, a título experimental, no Tribunal Administrativo e Fiscal de Sintra."
+  },
+  "116425567": {
+   "fragment_id": "116448962",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 1 de junho de 2017."
+  },
+  "116425569": {
+   "fragment_id": "116448960",
+   "type": 11,
+   "heading": "Artigo 2.º — Balcão Único dos Tribunais Administrativos e Fiscais",
+   "in_force_from": "2018-09-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30"
+   ],
+   "markdown": "###### Artigo 2.º — Balcão Único dos Tribunais Administrativos e Fiscais\n\nNo âmbito da jurisdição administrativa e fiscal a obtenção de informações, o pedido e obtenção de certidões, a entrega de peças processuais ou documentos em suporte físico, quando admissível, e a consulta de processos podem ser efetuados em qualquer tribunal administrativo e fiscal, independentemente do tribunal onde corre o processo.\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 267/2018 - Diário da República n.º 182/2018, Série I de 2018-09-20](https://diariodarepublica.pt/dr/detalhe/portaria/267-2018-116433035), em vigor a partir de 2018-09-30"
+  },
+  "116425568": {
+   "fragment_id": "116448963",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Secretária de Estado da Justiça, Anabela Damásio Caetano Pedroso, em 29 de maio de 2017."
+  }
+ }
+}

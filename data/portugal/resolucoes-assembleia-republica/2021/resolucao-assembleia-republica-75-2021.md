@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:159174079:por
+title: Resolução da Assembleia da República n.º 75/2021
+short_title: null
+summary: Recomenda ao Governo que adote um conjunto de medidas de apoio e valorização dos profissionais do setor da cultura
+  e assegure que estas abrangem todos os trabalhadores das áreas dos espetáculos e eventos
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 75/2021
+official_date: null
+publication_date: '2021-03-10'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 48/2021, Série I de 2021-03-10
+  number: '48'
+  series: I
+  supplement: null
+  pages: 7 - 7
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/03/04800/0000700007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/75/2021/03/10/p/dre/pt/html
+  oj: null
+  dre: '159174079'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/75-2021-159174079
+  internal: pt:dre:159174079:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/75-2021-159174079
+  metadata_url: https://data.dre.pt/eli/resolassrep/75/2021/03/10/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/75-2021-159174079
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-10T00:00:00Z'
+integrity:
+  source_sha256: 096c999f87de88bc714418a1cf166fbbc8d3e319a56885661f8e4bb90a3cac3a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-75-159174079.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Espetáculos e Divertimentos Públicos
+- Operador de Audiovisual
+- Política Cultural
+- Política do Audiovisual
+- Cultura
+- Artes do Espectáculo
+- Recomendação
+- Regime de Apoio
+- Governo
+- Trabalhador
+- Trabalhador Independente
+- Trabalhador por Conta de Outrem
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/10-a/2020/03/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/6-e/2021/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/6-e/2021/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/75-b/2020/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/37-a/2021/02/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/37-a/2021/02/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 75/2021
+
+Recomenda ao Governo que adote um conjunto de medidas de apoio e valorização dos profissionais do setor da cultura e assegure que estas abrangem todos os trabalhadores das áreas dos espetáculos e eventos
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, recomendar ao Governo que:
+
+1 - Até ao final do primeiro semestre de 2021, aprove o estatuto dos profissionais da área da cultura, em cumprimento do disposto no artigo 251.º da [Lei n.º 75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro.
+
+2 - No mesmo prazo, assegure o cumprimento do disposto no artigo 253.º da referida lei, através do rastreio e classificação das atividades profissionais ligadas ao setor das artes, do espetáculo e do audiovisual, bem como do levantamento exaustivo do tecido cultural existente e das necessidades específicas no âmbito nacional, regional, municipal e intermunicipal, apresentando os respetivos resultados à Assembleia da República.
+
+3 - Adote medidas de combate à precariedade laboral no setor das artes, do espetáculo e do audiovisual, nomeadamente garantindo a formação específica da Autoridade para as Condições do Trabalho na área da fiscalização das relações laborais.
+
+4 - Pondere a revisão da [Portaria n.º 37-A/2021](https://diariodarepublica.pt/dr/detalhe/portaria/37-a-2021-157397604), de 15 de fevereiro, por forma a assegurar que o apoio extraordinário aos artistas, autores, técnicos e outros profissionais da cultura abrange todos os trabalhadores das áreas dos espetáculos e dos eventos que são da área da cultura e não estão abrangidos no atual enquadramento por não terem os códigos de atividade económica ou os códigos constantes da tabela de atividades a que se refere o artigo 151.º do Código do IRS que os habilitam para os apoios.
+
+5 - Assegure a desburocratização, simplificação e agilização da concessão do Apoio Extraordinário ao Rendimento dos Trabalhadores Independentes, previsto no n.º 1 do artigo 3.º do [Decreto-Lei n.º 6-E/2021](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-e-2021-154361179), de 15 de janeiro, por remissão para o disposto no artigo 26.º do [Decreto-Lei n.º 10-A/2020](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-a-2020-130243053), de 13 de março, na sua redação atual.
+
+6 - Avalie, em articulação com a GDA - Gestão dos Direitos dos Artistas e os serviços de saúde pública, e complementarmente à ação das autoridades de saúde, a criação de um programa para a realização de testes COVID-19 gratuitos aos profissionais do setor das artes e do espetáculo que estejam a desenvolver atividades e práticas essenciais à sua profissão que sejam impossíveis em regime não presencial, a iniciar aquando da reabertura das atividades culturais.
+
+Aprovada em 18 de fevereiro de 2021.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**

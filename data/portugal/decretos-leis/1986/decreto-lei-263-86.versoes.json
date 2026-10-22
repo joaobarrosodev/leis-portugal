@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220109:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-162529529",
+ "dre_path": "/dr/detalhe/decreto-lei/263-1986-220109",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1986-09-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "162538535",
+    "162538508",
+    "162538509"
+   ]
+  },
+  {
+   "date": "1987-10-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:495344:por",
+     "title": "Decreto-Lei n.º 332/87",
+     "published": "1987-10-01",
+     "dre_path": "/dr/detalhe/decreto-lei/332-1987-495344"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º"
+   ],
+   "fragments": [
+    "162538507",
+    "162538534",
+    "162538509",
+    "162538510"
+   ]
+  },
+  {
+   "date": "2021-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:159993990:por",
+     "title": "Decreto-Lei n.º 23/2021",
+     "published": "2021-03-23",
+     "dre_path": "/dr/detalhe/decreto-lei/23-2021-159993990"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "162538535",
+    "162538536",
+    "162538537",
+    "162538538"
+   ]
+  }
+ ],
+ "fragments": {
+  "162538535": {
+   "fragment_id": "162529530",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-03-28",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 263/86\n\nde 2 de Setembro\n\nAlguns cidadãos estrangeiros habilitados com cursos de enfermagem ministrados em instituições também estrangeiras têm vindo a solicitar a equivalência dos seus cursos aos leccionados em escolas de enfermagem do Ministério da Saúde para efeitos de exercício profissional.\n\nPor outro lado, verifica-se a necessidade de dar satisfação às exigências decorrentes da entrada de Portugal nas Comunidades Europeias em matéria de reconhecimento dos diplomas emitidos pelas respectivas escolas.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162538508": {
+   "fragment_id": "162529531",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n- 1 - Aos nacionais de países membros das Comunidades Europeias titulares de diplomas de cursos de enfermagem ministrados em países membros é dada equiparação automática à habilitação conferida por diplomas emitidos pelas escolas portuguesas, desde que concluídos cursos após a entrada em vigor da Directiva do Conselho das Comunidades <a href=\"eurlex.asp?ano=1977&id=377L0452\" title=\"Link para Directiva da Comunidade Europeia\">77/452/CEE</a>, de 27 de Junho de 1977.\n\n2 - A equiparação deverá ser solicitada mediante requerimento ao Ministro da Saúde, acompanhado de fotocópia autenticada do respectivo diploma.\n\n3 - Depois de verificada a correspondência dos títulos profissionais e entidades emitentes dos diplomas aos indicados nos artigos 1.º e 2.º da directiva mencionada no n.º 1 e de verificado o conhecimento suficiente de língua portuguesa por parte dos interessados, proceder-se-á a registo no verso dos diplomas, conforme o que se encontrar estabelecido para o registo dos diplomas obtidos em escolas estrangeiras por cidadãos portugueses."
+  },
+  "162538509": {
+   "fragment_id": "162529532",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Relativamente a cidadãos estrangeiros que não sejam nacionais de países membros das Comunidades Europeias, sem prejuízo do que for objecto de acordos ou convenções internacionais, poderá ser conferida, por despacho do Ministro da Saúde, equiparação a cursos de enfermagem básica e pós-básica, obtidos também no estrangeiro, desde que se verifiquem os requisitos legalmente estabelecidos para a equiparação concedida a cursos obtidos no estrangeiro por cidadãos portugueses e que os interessados demonstrem ter suficientes conhecimentos da língua portuguesa para o exercício profissional a que os diplomas habilitam.\n\n2 - O processo de equiparação será idêntico ao que se encontra estabelecido para a equiparação de cursos obtidos no estrangeiro por cidadãos portugueses."
+  },
+  "162538507": {
+   "fragment_id": "162529530",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 263/86\n\nde 2 de Setembro\n\nAlguns cidadãos estrangeiros habilitados com cursos de enfermagem ministrados em instituições também estrangeiras têm vindo a solicitar a equivalência dos seus cursos aos leccionados em escolas de enfermagem do Ministério da Saúde para efeitos de exercício profissional.\n\nPor outro lado, verifica-se a necessidade de dar satisfação às exigências decorrentes da entrada de Portugal nas Comunidades Europeias em matéria de reconhecimento dos diplomas emitidos pelas respectivas escolas.\n\nAssim:\n\nO Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "162538534": {
+   "fragment_id": "162529531",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1987-10-06",
+   "changed_by": [
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 332/87 - Diário da República n.º 226/1987, Série I de 1987-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1987-495344), em vigor a partir de 1987-10-06"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - Aos nacionais de países membros das Comunidades Europeias titulares de diplomas de cursos de enfermagem ministrados em países membros é dada equiparação automática à habilitação conferida por diplomas emitidos pelas escolas portuguesas, desde que concluídos cursos após a entrada em vigor da Directiva do Conselho das Comunidades <a href=\"eurlex.asp?ano=1977&id=377L0452\" title=\"Link para Directiva da Comunidade Europeia\">77/452/CEE</a>, de 27 de Junho de 1977.\n\n2 - A equiparação deverá ser solicitada mediante requerimento ao Ministro da Saúde, acompanhado de fotocópia autenticada do respectivo diploma.\n\n3 - Depois de verificada a correspondência dos títulos profissionais e entidades emitentes dos diplomas aos indicados nos artigos 1.º e 2.º da directiva mencionada no n.º 1 e de verificado o conhecimento suficiente de língua portuguesa por parte dos interessados, proceder-se-á a registo no verso dos diplomas, conforme o que se encontrar estabelecido para o registo dos diplomas obtidos em escolas estrangeiras por cidadãos portugueses.\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 332/87 - Diário da República n.º 226/1987, Série I de 1987-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1987-495344), em vigor a partir de 1987-10-06"
+  },
+  "162538510": {
+   "fragment_id": "162529533",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 9 de Agosto de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 1 de Agosto de 1986.\n\nPelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado."
+  },
+  "162538536": {
+   "fragment_id": "162529531",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28",
+    "Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 332/87 - Diário da República n.º 226/1987, Série I de 1987-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1987-495344), em vigor a partir de 1987-10-06"
+   ],
+   "markdown": "###### Artigo 1.º\n\n- 1 - Aos nacionais de países membros das Comunidades Europeias titulares de diplomas de cursos de enfermagem ministrados em países membros é dada equiparação automática à habilitação conferida por diplomas emitidos pelas escolas portuguesas, desde que concluídos cursos após a entrada em vigor da Directiva do Conselho das Comunidades <a href=\"eurlex.asp?ano=1977&id=377L0452\" title=\"Link para Directiva da Comunidade Europeia\">77/452/CEE</a>, de 27 de Junho de 1977.\n\n2 - A equiparação deverá ser solicitada mediante requerimento ao Ministro da Saúde, acompanhado de fotocópia autenticada do respectivo diploma.\n\n3 - Depois de verificada a correspondência dos títulos profissionais e entidades emitentes dos diplomas aos indicados nos artigos 1.º e 2.º da directiva mencionada no n.º 1 e de verificado o conhecimento suficiente de língua portuguesa por parte dos interessados, proceder-se-á a registo no verso dos diplomas, conforme o que se encontrar estabelecido para o registo dos diplomas obtidos em escolas estrangeiras por cidadãos portugueses.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28\n\n> Revogado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 332/87 - Diário da República n.º 226/1987, Série I de 1987-10-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/332-1987-495344), em vigor a partir de 1987-10-06"
+  },
+  "162538537": {
+   "fragment_id": "162529532",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Relativamente a cidadãos estrangeiros que não sejam nacionais de países membros das Comunidades Europeias, sem prejuízo do que for objecto de acordos ou convenções internacionais, poderá ser conferida, por despacho do Ministro da Saúde, equiparação a cursos de enfermagem básica e pós-básica, obtidos também no estrangeiro, desde que se verifiquem os requisitos legalmente estabelecidos para a equiparação concedida a cursos obtidos no estrangeiro por cidadãos portugueses e que os interessados demonstrem ter suficientes conhecimentos da língua portuguesa para o exercício profissional a que os diplomas habilitam.\n\n2 - O processo de equiparação será idêntico ao que se encontra estabelecido para a equiparação de cursos obtidos no estrangeiro por cidadãos portugueses.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  },
+  "162538538": {
+   "fragment_id": "162529533",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-03-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 17 de Julho de 1986. - Aníbal António Cavaco Silva - Maria Leonor Couceiro Pizarro Beleza de Mendonça Tavares.\n\nPromulgado em 9 de Agosto de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 1 de Agosto de 1986.\n\nPelo Primeiro-Ministro, Eurico Silva Teixeira de Melo, Ministro de Estado.\n\n> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28"
+  }
+ }
+}

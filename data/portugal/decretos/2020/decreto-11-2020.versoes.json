@@ -1,0 +1,1268 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:150509308:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto/2020-152012002",
+ "dre_path": "/dr/detalhe/decreto/11-2020-150509308",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-12-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "152011963",
+    "152011964",
+    "152011965",
+    "152011966",
+    "152011967",
+    "152011968",
+    "152011969",
+    "152011970",
+    "152011971",
+    "152011972",
+    "152011973",
+    "152011974",
+    "152012175",
+    "152012176",
+    "152012177",
+    "152012178",
+    "152012179",
+    "152012180",
+    "152012181",
+    "152012182",
+    "152012183",
+    "152012184",
+    "152012185",
+    "152012186",
+    "152012187",
+    "152012188",
+    "152012189",
+    "152012190",
+    "152012191",
+    "152012192",
+    "152012193",
+    "152012194",
+    "152012195",
+    "152012196",
+    "152012197",
+    "152012198",
+    "152012199",
+    "152012200",
+    "152012201",
+    "152012202",
+    "152012203",
+    "152012204",
+    "152012205",
+    "152012206",
+    "152012207",
+    "152012208",
+    "152012209",
+    "152012210",
+    "152012211",
+    "152012212",
+    "152012213",
+    "152012214",
+    "152012215",
+    "152012216",
+    "152012217",
+    "152012218",
+    "152012219",
+    "152012220",
+    "152012221",
+    "152012222",
+    "152012223",
+    "152012224",
+    "152012225",
+    "152012226",
+    "152012227",
+    "152012228",
+    "152012229",
+    "152012230",
+    "152012231",
+    "152012232",
+    "152012233",
+    "152012234",
+    "152012235",
+    "152012236",
+    "152012237",
+    "152012238",
+    "152012240",
+    "152012241",
+    "152012242",
+    "152012243",
+    "152012244"
+   ]
+  },
+  {
+   "date": "2020-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151904698:por",
+     "title": "Decreto n.º 11-A/2020",
+     "published": "2020-12-21",
+     "dre_path": "/dr/detalhe/decreto/11-a-2020-151904698"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 49.º-A",
+    "Adita Artigo 49.º-B",
+    "Altera Artigo 51.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º"
+   ],
+   "fragments": [
+    "152011963",
+    "152011964",
+    "152011965",
+    "152011966",
+    "152011967",
+    "152011968",
+    "152011969",
+    "152011970",
+    "152011971",
+    "152011972",
+    "152011973",
+    "152011974",
+    "152012175",
+    "152012176",
+    "152012177",
+    "152012178",
+    "152012179",
+    "152012180",
+    "152012181",
+    "152012182",
+    "152012183",
+    "152012184",
+    "152012185",
+    "152012186",
+    "152012187",
+    "152012188",
+    "152012189",
+    "152012190",
+    "152012191",
+    "152012192",
+    "152012193",
+    "152012194",
+    "152012195",
+    "152012196",
+    "152012197",
+    "152012198",
+    "152012199",
+    "152012200",
+    "152012201",
+    "152012202",
+    "152012203",
+    "152012204",
+    "152012205",
+    "152012206",
+    "152012207",
+    "152012208",
+    "152012209",
+    "152012210",
+    "152012211",
+    "152012212",
+    "152012213",
+    "152012214",
+    "152012215",
+    "152012216",
+    "152012217",
+    "152012218",
+    "152012219",
+    "152012220",
+    "152012221",
+    "152012222",
+    "152012223",
+    "152012258",
+    "152012246",
+    "152012250",
+    "152012259",
+    "152012252",
+    "152012253",
+    "152012228",
+    "152012229",
+    "152012230",
+    "152012231",
+    "152012232",
+    "152012233",
+    "152012234",
+    "152012235",
+    "152012236",
+    "152012237",
+    "152012238",
+    "152012239",
+    "152012254",
+    "152012255",
+    "152012256",
+    "152012257",
+    "152012244"
+   ]
+  },
+  {
+   "date": "2021-01-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153341303:por",
+     "title": "Decreto n.º 2-A/2021",
+     "published": "2021-01-07",
+     "dre_path": "/dr/detalhe/decreto/2-a-2021-153341303"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 61.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 58.º",
+    "Altera Artigo 62.º",
+    "Altera Anexo I",
+    "Altera Anexo II",
+    "Altera Anexo III",
+    "Altera Anexo IV",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º-A",
+    "Revoga Artigo 49.º-B",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 61.º"
+   ],
+   "fragments": [
+    "152011963",
+    "152011964",
+    "153493582",
+    "153493583",
+    "152011967",
+    "152011968",
+    "152011969",
+    "152011970",
+    "152011971",
+    "152011972",
+    "152011973",
+    "152011974",
+    "152012175",
+    "152012176",
+    "152012177",
+    "152012178",
+    "152012179",
+    "152012180",
+    "152012181",
+    "152012182",
+    "152012183",
+    "152012184",
+    "152012185",
+    "152012186",
+    "152012187",
+    "152012188",
+    "152012189",
+    "152012190",
+    "152012191",
+    "152012192",
+    "152012193",
+    "152012194",
+    "152012195",
+    "152012196",
+    "152012197",
+    "152012198",
+    "152012199",
+    "152012200",
+    "152012201",
+    "152012202",
+    "152012203",
+    "152012204",
+    "152012205",
+    "152012206",
+    "152012207",
+    "152012208",
+    "152012209",
+    "152012210",
+    "152012211",
+    "152012212",
+    "152012213",
+    "152012214",
+    "152012215",
+    "152012216",
+    "153493592",
+    "152012218",
+    "153493593",
+    "153493594",
+    "153493595",
+    "152012222",
+    "153493596",
+    "152012258",
+    "153493597",
+    "153493598",
+    "152012259",
+    "152012252",
+    "153493599",
+    "152012228",
+    "152012229",
+    "152012230",
+    "152012231",
+    "152012232",
+    "152012233",
+    "153493584",
+    "152012235",
+    "152012236",
+    "153493600",
+    "153493586",
+    "153493587",
+    "152012239",
+    "153493588",
+    "153493589",
+    "153493590",
+    "153493591",
+    "152012244"
+   ]
+  }
+ ],
+ "fragments": {
+  "152011963": {
+   "fragment_id": "152012003",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto n.º 11/2020\n\nde 6 de dezembro\n\nSumário: Regulamenta a aplicação do estado de emergência decretado pelo Presidente da República.\n\nAtendendo à evolução da situação epidemiológica, o Presidente da República procedeu, no dia 6 de novembro, à declaração do estado de emergência, com um âmbito limitado, de forma proporcional e adequada à situação epidemiológica. Nos termos em que foi decretado, o estado de emergência veio trazer garantias reforçadas de segurança jurídica para as medidas adotadas - ou a adotar - pelas autoridades competentes para a prevenção e resposta à pandemia da doença COVID-19, em domínios como os da liberdade de deslocação, do controlo do estado de saúde das pessoas, da utilização de meios de prestação de cuidados de saúde do setor privado e social ou cooperativo e da convocação de recursos humanos para reforço da capacidade de rastreio. Neste contexto, o Decreto n.º 8/2020, de 8 de novembro, procedeu à regulamentação do estado de emergência, incidindo sobre os quatro referidos domínios.\n\nA declaração do estado de emergência veio a ser renovada pelo Decreto do Presidente da República n.º 59-A/2020, de 20 de novembro, por um período adicional de 15 dias, tendo sido, subsequentemente, publicado o Decreto n.º 9/2020, de 21 de novembro, que regulamentou a prorrogação do estado de emergência. No âmbito deste decreto, considerou-se que, uma vez que a situação epidemiológica não é uniforme em todo o território nacional, seria importante adequar as medidas em função da situação e heterogeneidade em cada concelho, de forma a graduar a intensidade das medidas aplicáveis consoante o nível de risco. Foram, assim, fixados quatro níveis: moderado, elevado, muito elevado e extremo.\n\nNo passado dia 4 de dezembro, a declaração do estado de emergência foi novamente renovada pelo Decreto do Presidente da República n.º 61-A/2020, de 4 de dezembro, por um período adicional de 15 dias.\n\nNo entanto, considerando a quadra que se aproxima e a circunstância de o estado de emergência terminar no dia 23 de dezembro, torna-se necessário, por motivos de antecipação da comunicação das medidas aplicáveis naquele período, prever, desde já, o período de um mês, que terminará no dia 7 de janeiro de 2021.\n\nDeste modo, o Governo estabelece, desde já, medidas para todo esse período temporal, sem prejuízo da avaliação da situação epidemiológica e da eventual renovação do estado de emergência, garantindo maior previsibilidade e permitindo aos cidadãos tomarem conhecimento das regras, antecipadamente, para este período de final de ano tão importante para todos. Fá-lo, naturalmente, salvaguardando que estas medidas só vigorarão caso o estado de emergência seja renovado (e apenas a partir desse momento) em termos que habilitem tais restrições.\n\nO Governo vem, assim, proceder à execução do estado de emergência decretado pelo Presidente da República, em todo o território nacional continental, no período entre as 00:00 h do dia 9 de dezembro e as 23:59 h do dia 23 de dezembro de 2020, definindo, de igual modo, as regras para a eventual renovação do mesmo.\n\nMantêm-se, no essencial, as regras atualmente vigentes, de forma a assegurar estabilidade às medidas tomadas na quinzena anterior.\n\nNo entanto, sem prejuízo do referido supra a respeito da entrada em vigor destas medidas, ficam desde já definidas regras especiais para o período do Natal e do Ano Novo, para vigorar entre as 00:00 h de 24 de dezembro de 2020 e as 23:59 h de 7 de janeiro de 2021, caso seja renovada a declaração de estado de emergência.\n\nAssim, no que respeita à regra da proibição de circulação na via pública atualmente em vigor nos concelhos de risco elevado, muito elevado e extremo, a mesma não é aplicável no dia 23 de dezembro, no período após as 23:00 h até às 05:00 h do dia seguinte, para quem se encontre em viagem, nem nos dias 24 e 25 de dezembro até às 02:00 h do dia seguinte.\n\nNo dia 26 de dezembro, tal proibição estará em vigor, nos concelhos onde seja aplicável, a partir das 23:00 h. A proibição de circulação não será igualmente aplicável entre as 5:00 h do dia 31 de dezembro de 2020 e as 2:00 h do dia 1 de janeiro de 2021.\n\nO dever geral de recolhimento domiciliário, em vigor nos concelhos de risco elevado, muito elevado e extremo, não é aplicável nos dias 23 a 26 de dezembro de 2020, inclusive, assim como entre as 05:00 h do dia 31 de dezembro de 2020 e as 02:00 h do dia 1 de janeiro de 2021.\n\nEstabelece-se, ainda, horários menos restritivos para o setor da cultura e da restauração, independentemente da sua localização, nos dias 24 e 25 de dezembro.\n\nAdicionalmente, no dia 26 de dezembro, os estabelecimentos de restauração e similares podem funcionar, para efeitos de serviço de refeições no próprio estabelecimento, até às 15:30 h.\n\nNo dia 31 de dezembro, os estabelecimentos de restauração e similares, independentemente da sua localização, podem encerrar até à 01:00 h.\n\nNo dia 1 de janeiro, nos concelhos de risco muito elevado e extremo, os estabelecimentos de restauração e similares só podem funcionar, no que diz respeito ao serviço de refeições no próprio estabelecimento, até às 15:30 h.\n\nDetermina-se, ainda, proibição de circulação entre concelhos no período compreendido entre as 00:00 h do dia 31 de dezembro de 2020 e as 05:00 h do dia 4 de janeiro de 2021, salvo por motivos de saúde, de urgência imperiosa ou outros especificamente previstos.\n\nPor fim, fica proibida a realização de festas ou celebrações públicas ou abertas ao público de cariz não religioso nos dias 31 de dezembro de 2020 e 1 de janeiro de 2021.\n\nAssim:\n\nNos termos da alínea g) do artigo 199.º da Constituição, o Governo decreta:"
+  },
+  "152011964": {
+   "fragment_id": "152012004",
+   "type": 1,
+   "heading": "Capítulo I — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Objeto e âmbito de aplicação"
+  },
+  "152011965": {
+   "fragment_id": "152012005",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto regulamenta a prorrogação do estado de emergência efetuada pelo Decreto do Presidente da República n.º 61-A/2020, de 4 de dezembro, bem como a eventual renovação do mesmo."
+  },
+  "152011966": {
+   "fragment_id": "152012006",
+   "type": 11,
+   "heading": "Artigo 2.º — Aplicação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação territorial\n\n1 - O disposto nos artigos 3.º a 31.º e 44.º a 62.º é aplicável a todo o território nacional continental.\n\n2 - O disposto nos artigos 32.º e 33.º é aplicável apenas aos concelhos considerados pela Direção-Geral da Saúde (DGS) como sendo de risco moderado, os quais são elencados no anexo i do presente decreto e do qual faz parte integrante (concelhos de risco moderado).\n\n3 - O disposto nos artigos 34.º a 38.º é aplicável apenas aos concelhos considerados pela DGS como sendo de risco elevado, os quais são elencados no anexo ii do presente decreto e do qual faz parte integrante (concelhos de risco elevado).\n\n4 - O disposto nos artigos 39.º a 43.º é aplicável apenas aos concelhos considerados pela DGS como sendo de risco muito elevado e extremo, os quais são elencados, respetivamente, nos anexos iii e iv do presente decreto e do qual fazem parte integrante (concelhos de risco muito elevado e concelhos de risco extremo, respetivamente)."
+  },
+  "152011967": {
+   "fragment_id": "152012007",
+   "type": 1,
+   "heading": "Capítulo II — Disposições gerais aplicáveis a todo o território nacional continental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Disposições gerais aplicáveis a todo o território nacional continental"
+  },
+  "152011968": {
+   "fragment_id": "152012008",
+   "type": 8,
+   "heading": "Secção I — Medidas sanitárias e de saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Medidas sanitárias e de saúde pública"
+  },
+  "152011969": {
+   "fragment_id": "152012009",
+   "type": 11,
+   "heading": "Artigo 3.º — Confinamento obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Confinamento obrigatório\n\n1 - Ficam em confinamento obrigatório, em estabelecimento de saúde, no domicílio ou, não sendo aí possível, noutro local definido pelas autoridades competentes:\n\na) Os doentes com COVID-19 e os infetados com SARS-CoV-2;\n\nb) Os cidadãos relativamente a quem a autoridade de saúde ou outros profissionais de saúde tenham determinado a vigilância ativa.\n\n2 - As autoridades de saúde comunicam às forças e serviços de segurança do local de residência a aplicação das medidas de confinamento obrigatório.\n\n3 - De acordo com a avaliação da situação epidemiológica e do risco concreto, da responsabilidade da administração regional de saúde e do departamento de saúde pública territorialmente competentes, os cidadãos sujeitos a confinamento obrigatório podem ser acompanhados para efeitos de provisão de necessidades sociais e de saúde, mediante visita conjunta da proteção civil municipal, dos serviços de ação social municipais, dos serviços de ação social do Instituto da Segurança Social, I. P., ou de outros com as mesmas competências, das autoridades de saúde pública, das unidades de cuidados e das forças de segurança."
+  },
+  "152011970": {
+   "fragment_id": "152012010",
+   "type": 11,
+   "heading": "Artigo 4.º — Uso de máscaras e viseiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Uso de máscaras e viseiras\n\n1 - É obrigatório o uso de máscaras ou viseiras para o acesso ou permanência em locais de trabalho sempre que o distanciamento físico recomendado pelas autoridades de saúde se mostre impraticável.\n\n2 - A obrigação prevista no número anterior não é aplicável aos trabalhadores quando estejam a prestar o seu trabalho em gabinete, sala ou equivalente que não tenha outros ocupantes ou quando sejam utilizadas barreiras físicas impermeáveis de separação e proteção entre trabalhadores.\n\n3 - Às situações previstas no presente artigo é aplicável, com as necessárias adaptações, o disposto no artigo 13.º-B do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual."
+  },
+  "152011971": {
+   "fragment_id": "152012011",
+   "type": 11,
+   "heading": "Artigo 5.º — Controlo de temperatura corporal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlo de temperatura corporal\n\n1 - Podem ser realizadas medições de temperatura corporal por meios não invasivos, no controlo de acesso ao local de trabalho, a serviços ou instituições públicas, a estabelecimentos educativos, de ensino e de formação profissional, a espaços comerciais, culturais ou desportivos, a meios de transporte, a estabelecimentos de saúde, a estabelecimentos prisionais ou a centros educativos, bem como em estruturas residenciais.\n\n2 - Podem igualmente ser sujeitos a medições de temperatura corporal as pessoas a que se refere o artigo seguinte.\n\n3 - O disposto nos números anteriores não prejudica o direito à proteção individual de dados, sendo expressamente proibido o registo da temperatura corporal associado à identidade da pessoa, salvo com expressa autorização da mesma.\n\n4 - As medições podem ser realizadas por trabalhador ao serviço da entidade responsável pelo local ou estabelecimento, sempre através de equipamento adequado a este efeito, que não pode conter qualquer memória ou realizar registos das medições efetuadas, não sendo admissível qualquer contacto físico com a pessoa visada.\n\n5 - O trabalhador referido no número anterior fica sujeito a sigilo profissional.\n\n6 - O acesso aos locais mencionados no n.º 1 pode ser impedido sempre que a pessoa:\n\na) Recuse a medição de temperatura corporal;\n\nb) Apresente um resultado superior à normal temperatura corporal, considerando-se como tal uma temperatura corporal igual ou superior a 38ºC, tal como definida pela DGS.\n\n7 - Nos casos em que o disposto na alínea b) do número anterior determine a impossibilidade de acesso de um trabalhador ao respetivo local de trabalho, considera-se a falta justificada."
+  },
+  "152011972": {
+   "fragment_id": "152012012",
+   "type": 11,
+   "heading": "Artigo 6.º — Realização de testes de diagnóstico de SARS-CoV-2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Realização de testes de diagnóstico de SARS-CoV-2\n\n1 - Podem ser sujeitos à realização de testes de diagnóstico de SARS-CoV-2:\n\na) Os trabalhadores, utentes e visitantes de estabelecimentos de prestação de cuidados de saúde;\n\nb) Os trabalhadores, estudantes e visitantes dos estabelecimentos de educação, de ensino e formação profissional e das instituições de ensino superior;\n\nc) Os trabalhadores, utentes e visitantes de estruturas residenciais para idosos, unidades de cuidados continuados integrados da Rede Nacional de Cuidados Continuados Integrados e de outras respostas dedicadas a pessoas idosas, bem como a crianças, jovens e pessoas com deficiência;\n\nd) No âmbito dos serviços prisionais e dos centros educativos:\n\ni) Os reclusos nos estabelecimentos prisionais e os jovens internados em centros educativos;\n\nii) Quem pretenda visitar as pessoas referidas na alínea anterior;\n\niii) Os trabalhadores do Corpo da Guarda Prisional e os demais trabalhadores da Direção-Geral de Reinserção e Serviços Prisionais (DGRSP), no exercício das suas funções e por causa delas, para efeitos de acesso e permanência no local de trabalho;\n\niv) Os trabalhadores do Corpo da Guarda Prisional, sempre que, no exercício das suas funções e por causa delas, acedam a outros locais ou neles permaneçam a propósito do transporte e guarda de reclusos, designadamente em unidades de saúde e tribunais;\n\nv) Os prestadores de serviços e utentes de instalações afetas à atividade da DGRSP, sempre que nelas pretendam entrar ou permanecer;\n\ne) Quem pretenda entrar ou sair do território nacional continental ou das Regiões Autónomas por via aérea ou marítima;\n\nf) Quem pretenda aceder a locais determinados para este efeito pela DGS.\n\n2 - A realização de testes de diagnóstico de SARS-CoV-2 referidos no número anterior é determinada pelo responsável máximo do respetivo estabelecimento ou serviço, salvo no caso da alínea d), em que o é por despacho do diretor-geral de Reinserção e Serviços Prisionais, nos termos determinados por orientação da DGS.\n\n3 - Nos casos em que o resultado dos testes efetuados ao abrigo dos números anteriores impossibilite o acesso de um trabalhador ao respetivo local de trabalho, considera-se a falta justificada."
+  },
+  "152011973": {
+   "fragment_id": "152012013",
+   "type": 11,
+   "heading": "Artigo 7.º — Suspensão excecional da cessação de contratos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Suspensão excecional da cessação de contratos de trabalho\n\n1 - Durante o período de vigência do estado de emergência suspende-se, temporária e excecionalmente, a possibilidade de fazer cessar os contratos de trabalho de profissionais de saúde vinculados aos serviços e estabelecimentos integrados no Serviço Nacional de Saúde (SNS), independentemente da natureza jurídica do vínculo, quer por iniciativa do empregador, quer por iniciativa do trabalhador, salvo em situações excecionais devidamente fundamentadas e autorizadas pelo órgão dirigente.\n\n2 - O disposto no número anterior aplica-se, ainda, à cessação de contratos individuais de trabalho por revogação ou denúncia e à cessação de contratos de trabalho em funções públicas mediante extinção por acordo, denúncia ou exoneração, a pedido do trabalhador."
+  },
+  "152011974": {
+   "fragment_id": "152012014",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas excecionais no domínio da saúde pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas excecionais no domínio da saúde pública\n\n1 - O membro do Governo responsável pela área da saúde, com faculdade de delegação, determina:\n\na) As medidas de exceção aplicáveis à atividade assistencial realizada pelos serviços e estabelecimentos integrados no SNS;\n\nb) As medidas excecionais de utilização dos serviços e estabelecimentos integrados no SNS com os serviços prestadores de cuidados de saúde dos setores privado e social, em matéria de prestação de cuidados de saúde;\n\nc) A mobilização dos trabalhadores dos serviços e estabelecimentos integrados no SNS que requeiram a cessação por denúncia dos respetivos contratos de trabalho ou contratos de trabalho em funções públicas;\n\nd) As medidas necessárias e a prática dos atos que, no âmbito específico da sua ação, sejam adequados e indispensáveis para garantir as condições de normalidade na produção, transporte, distribuição e abastecimento de bens e serviços essenciais à atividade do setor da saúde.\n\n2 - Sem prejuízo do disposto no número anterior, o membro do Governo responsável pela área da saúde, em articulação com o membro do Governo responsável pela área da economia, com faculdade de delegação, determina as medidas de exceção necessárias, no contexto da situação de emergência causada pela situação epidemiológica do vírus SARS-CoV-2, bem como para o tratamento da doença COVID-19, relativamente a:\n\na) Circuitos do medicamento e dos dispositivos médicos, bem como de outros produtos de saúde, biocidas, soluções desinfetantes, álcool e equipamentos de proteção individual, designadamente no âmbito do fabrico, distribuição, comercialização, importação, aquisição, dispensa e prescrição, tendentes a assegurar e viabilizar o abastecimento, a disponibilidade e o acesso dos produtos necessários às unidades de saúde, aos doentes e demais utentes;\n\nb) Acesso a medicamentos, designadamente os experimentais, utilizados no âmbito da pandemia e da continuidade dos ensaios clínicos.\n\n3 - As determinações referidas nos números anteriores são estabelecidas preferencialmente por acordo ou, na falta deste, unilateralmente mediante justa compensação, nos termos do Decreto-Lei n.º 637/74, de 20 de novembro, na sua redação atual."
+  },
+  "152012175": {
+   "fragment_id": "152012015",
+   "type": 11,
+   "heading": "Artigo 9.º — Reforço da capacidade de rastreio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reforço da capacidade de rastreio\n\n1 - Com vista ao reforço da capacidade de rastreio das autoridades e serviços de saúde pública pode ser determinada a mobilização de recursos humanos, designadamente para realização de inquéritos epidemiológicos, para rastreio de contactos de doentes com COVID-19 e seguimento de pessoas em vigilância ativa.\n\n2 - Para efeitos do disposto no número anterior, a realização de inquéritos epidemiológicos, o rastreio de contactos de doentes com COVID-19 e o seguimento de pessoas em vigilância ativa podem ser realizados por quem não seja profissional de saúde.\n\n3 - Os recursos humanos a que se refere o n.º 1 podem ser trabalhadores de entidades públicas da administração direta e indireta do Estado e das autarquias locais, privadas, do setor social ou cooperativo, independentemente do vínculo profissional ou conteúdo funcional, que se encontrem em isolamento profilático, estejam na situação prevista no artigo 25.º-A do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou que sejam pessoal dos agentes de proteção civil ou docentes com ausência de componente letiva.\n\n4 - Para efeitos dos números anteriores, a afetação de trabalhadores às funções referidas nos números anteriores deve ter em conta a respetiva formação e conteúdo funcional, sendo a mobilização e coordenação de pessoas operacionalizada mediante despacho dos membros do Governo responsáveis pelas áreas da Administração Pública, do trabalho, da solidariedade social, da saúde e da área setorial a que o trabalhador se encontre afeto, quando aplicável.\n\n5 - Durante o período em que se mantenha a mobilização dos trabalhadores e desde que se encontrem garantidas condições de trabalho que especialmente assegurem a proteção da sua saúde, pode ser imposto o exercício de funções em local e horário diferentes dos habituais.\n\n6 - O disposto no número anterior, na parte em que se refere ao local de trabalho, não se aplica aos trabalhadores que se encontrem em isolamento profilático.\n\n7 - Os trabalhadores que sejam mobilizados ao abrigo do disposto no presente artigo mantêm todos os direitos inerentes ao lugar de origem e não podem ser prejudicados no desenvolvimento da sua carreira."
+  },
+  "152012176": {
+   "fragment_id": "152012016",
+   "type": 11,
+   "heading": "Artigo 10.º — Participação das Forças Armadas em inquéritos epidemiológicos e rastreio de contactos de doentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Participação das Forças Armadas em inquéritos epidemiológicos e rastreio de contactos de doentes\n\nAs Forças Armadas participam na realização de inquéritos epidemiológicos e rastreio de contactos de doentes com COVID-19, sendo esta participação coordenada pelo respetivo comando."
+  },
+  "152012177": {
+   "fragment_id": "152012017",
+   "type": 8,
+   "heading": "Secção II — Medidas aplicáveis a atividades, estabelecimentos, serviços, empresas ou equiparados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Medidas aplicáveis a atividades, estabelecimentos, serviços, empresas ou equiparados"
+  },
+  "152012178": {
+   "fragment_id": "152012018",
+   "type": 11,
+   "heading": "Artigo 11.º — Instalações e estabelecimentos encerrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Instalações e estabelecimentos encerrados\n\nSão encerradas as instalações e estabelecimentos referidos no anexo v do presente decreto e do qual faz parte integrante, sem prejuízo do disposto no artigo seguinte."
+  },
+  "152012179": {
+   "fragment_id": "152012019",
+   "type": 11,
+   "heading": "Artigo 12.º — Autorizações ou suspensões em casos especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Autorizações ou suspensões em casos especiais\n\nO membro do Governo responsável pela área da economia pode, mediante despacho:\n\na) Permitir a abertura de algumas instalações ou estabelecimentos referidos no anexo v do presente decreto ou o exercício de outras atividades de comércio a retalho ou de prestação de serviços que venham a revelar-se essenciais com o evoluir da presente conjuntura;\n\nb) Impor o exercício de algumas das atividades de comércio a retalho ou de prestação de serviços, caso se venha a revelar essencial para assegurar o regular abastecimento de bens essenciais à população;\n\nc) Determinar o exercício de comércio a retalho por estabelecimentos de comércio por grosso, caso se venha a revelar essencial para manter a continuidade das cadeias de distribuição de produtos aos consumidores;\n\nd) Limitar ou suspender o exercício de atividades de comércio a retalho ou de prestação de serviços, caso o respetivo exercício se venha a manifestar dispensável ou indesejável no âmbito do combate ao contágio e propagação do vírus."
+  },
+  "152012180": {
+   "fragment_id": "152012020",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições gerais aplicáveis a locais abertos ao público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições gerais aplicáveis a locais abertos ao público\n\n1 - Em todos os locais abertos ao público devem ser observadas as seguintes regras de ocupação, permanência e distanciamento físico:\n\na) A afetação dos espaços acessíveis ao público deve observar regra de ocupação máxima indicativa de 0,05 pessoas por metro quadrado de área, com exceção dos estabelecimentos de prestação de serviços;\n\nb) A adoção de medidas que assegurem uma distância mínima de 2 m entre as pessoas, salvo disposição especial ou orientação da DGS em sentido distinto;\n\nc) A garantia de que as pessoas permanecem dentro do espaço apenas pelo tempo estritamente necessário;\n\nd) A proibição de situações de espera para atendimento no interior dos estabelecimentos de prestação de serviços, devendo os operadores económicos recorrer, preferencialmente, a mecanismos de marcação prévia;\n\ne) A definição, sempre que possível, de circuitos específicos de entrada e saída nos estabelecimentos e instalações, utilizando portas separadas;\n\nf) A observância de outras regras definidas pela DGS;\n\ng) O incentivo à adoção de códigos de conduta aprovados para determinados setores de atividade ou estabelecimentos, desde que não contrariem o disposto no presente decreto.\n\n2 - Para efeitos do disposto na alínea a) do número anterior:\n\na) Entende-se por «área» a área destinada ao público, incluindo as áreas de uso coletivo ou de circulação, à exceção das zonas reservadas a parqueamento de veículos;\n\nb) Os limites previstos de ocupação máxima por pessoa não incluem os funcionários e prestadores de serviços que se encontrem a exercer funções nos espaços em causa.\n\n3 - Os gestores, os gerentes ou os proprietários de espaços e estabelecimentos devem envidar todos os esforços no sentido de:\n\na) Efetuar uma gestão equilibrada dos acessos de público, em cumprimento do disposto nos números anteriores;\n\nb) Monitorizar as recusas de acesso de público, por forma a evitar a concentração de pessoas à entrada dos espaços ou estabelecimentos.\n\n4 - Sem prejuízo do disposto nos números anteriores, os locais abertos ao público devem observar as seguintes regras de higiene:\n\na) A prestação do serviço e o transporte de produtos devem ser efetuados com observância das regras de higiene definidas pela DGS;\n\nb) Os operadores económicos devem promover a limpeza e desinfeção diárias e periódicas dos espaços, equipamentos, objetos e superfícies com os quais haja um contacto intenso;\n\nc) Os operadores económicos devem promover a limpeza e desinfeção, antes e após cada utilização ou interação pelo cliente, dos terminais de pagamento automático (TPA), equipamentos, objetos, superfícies, produtos e utensílios de contacto direto com os clientes;\n\nd) Os operadores económicos devem promover a contenção, tanto quanto possível, pelos trabalhadores ou pelos clientes, do toque em produtos ou equipamentos bem como em artigos não embalados, os quais devem preferencialmente ser manuseados e dispensados pelos trabalhadores;\n\ne) Nos estabelecimentos de comércio a retalho de vestuário e similares deve ser promovido o controlo do acesso aos provadores, salvaguardando-se, quando aplicável, a inativação parcial de alguns destes espaços, por forma a garantir as distâncias mínimas de segurança, e garantindo-se a desinfeção dos mostradores, suportes de vestuário e cabides após cada utilização, bem como a disponibilização de soluções desinfetantes cutâneas para utilização pelos clientes;\n\nf) Em caso de trocas, devoluções ou retoma de produtos usados, os operadores devem, sempre que possível, assegurar a sua limpeza e desinfeção antes de voltarem a ser disponibilizados para venda, a menos que tal não seja possível ou comprometa a qualidade dos produtos;\n\ng) Outras regras definidas em códigos de conduta aprovados para determinados setores de atividade ou estabelecimentos, desde que não contrariem o disposto no presente decreto.\n\n5 - Sem prejuízo do disposto nos números anteriores, os estabelecimentos de comércio a retalho ou de prestação de serviços devem procurar assegurar a disponibilização de soluções desinfetantes cutâneas, para os trabalhadores e clientes, junto de todas as entradas e saídas dos estabelecimentos, assim como no seu interior, em localizações adequadas para desinfeção de acordo com a organização de cada espaço.\n\n6 - Os estabelecimentos de comércio a retalho ou de prestação de serviços devem atender com prioridade os profissionais de saúde, os elementos das forças e serviços de segurança, de proteção e socorro, o pessoal das Forças Armadas e de prestação de serviços de apoio social, sem prejuízo da aplicação do disposto no Decreto-Lei n.º 58/2016, de 29 de agosto, na sua redação atual.\n\n7 - Os estabelecimentos de comércio a retalho ou de prestação de serviços devem informar os clientes, de forma clara e visível, relativamente às regras de ocupação máxima, funcionamento, acesso, prioridade, atendimento, higiene, segurança e outras relevantes aplicáveis a cada estabelecimento.\n\n8 - Os estabelecimentos de comércio a retalho ou de prestação de serviços podem encerrar em determinados períodos do dia para assegurar operações de limpeza e desinfeção dos funcionários, dos produtos ou do espaço."
+  },
+  "152012181": {
+   "fragment_id": "152012021",
+   "type": 11,
+   "heading": "Artigo 14.º — Exceções às regras de suspensão de atividades, encerramento de estabelecimentos e horários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Exceções às regras de suspensão de atividades, encerramento de estabelecimentos e horários\n\nNão se aplicam quaisquer regras fixadas no presente decreto em matéria de suspensão de atividades, de encerramento de estabelecimentos ou de horários de abertura, funcionamento ou encerramento de estabelecimentos, independentemente da sua localização ou área:\n\na) Aos estabelecimentos onde se prestem serviços médicos ou outros serviços de saúde e apoio social, designadamente hospitais, consultórios e clínicas, clínicas dentárias e centros de atendimento médico-veterinário com urgência, bem como aos serviços de suporte integrados nestes locais;\n\nb) Às farmácias;\n\nc) Aos estabelecimentos educativos, de ensino e de formação profissional, creches, centros de atividades ocupacionais e espaços onde funcionem respostas no âmbito da escola a tempo inteiro, onde se incluem atividades de animação e de apoio à família, da componente de apoio à família e de enriquecimento curricular;\n\nd) Aos estabelecimentos turísticos e aos estabelecimentos de alojamento local, bem como aos estabelecimentos que garantam alojamento estudantil;\n\ne) Aos estabelecimentos que prestem atividades funerárias e conexas;\n\nf) Às atividades de prestação de serviços, designadamente áreas de serviço e postos de abastecimento de combustíveis, que integrem autoestradas;\n\ng) Aos postos de abastecimento de combustíveis não abrangidos pela alínea anterior, bem como aos postos de carregamento de veículos elétricos, exclusivamente na parte respeitante à venda ao público de combustíveis e abastecimento ou carregamento de veículos no âmbito das deslocações admitidas em cada território;\n\nh) Aos estabelecimentos de prestação de serviços de aluguer de veículos de mercadorias sem condutor (rent-a-cargo) e de aluguer de veículos de passageiros sem condutor (rent-a-car);\n\ni) Aos estabelecimentos situados no interior de aeroportos situados em território nacional continental, após o controlo de segurança dos passageiros."
+  },
+  "152012182": {
+   "fragment_id": "152012022",
+   "type": 11,
+   "heading": "Artigo 15.º — Horários de abertura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Horários de abertura\n\n1 - Sem prejuízo do disposto no número seguinte e no n.º 3, apenas podem abrir ao público antes das 10:00 h os estabelecimentos que nunca tenham encerrado ao abrigo de anteriores medidas relacionadas com a doença COVID-19, considerando-se como tal, designadamente, os constantes do anexo ii do Decreto n.º 2-C/2020, de 17 de abril.\n\n2 - Excetuam-se do disposto no número anterior os salões de cabeleireiro, barbeiros, institutos de beleza, restaurantes e similares, cafetarias, casas de chá e afins, escolas de condução e centros de inspeção técnica de veículos, bem como as instalações desportivas.\n\n3 - O horário de abertura dos estabelecimentos pode ser fixado pelo presidente da câmara municipal territorialmente competente mediante parecer favorável da autoridade local de saúde e das forças de segurança."
+  },
+  "152012183": {
+   "fragment_id": "152012023",
+   "type": 11,
+   "heading": "Artigo 16.º — Restauração e similares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Restauração e similares\n\n1 - Sem prejuízo das regras especiais mais restritivas que sejam aplicáveis aos estabelecimentos de restauração ou similares em função do concelho onde se localizem, o seu funcionamento apenas é permitido caso se verifiquem as seguintes condições:\n\na) A observância das instruções especificamente elaboradas para o efeito pela DGS;\n\nb) A ocupação, no interior do estabelecimento, seja limitada a 50 % da respetiva capacidade, tal como definida no artigo 133.º do anexo do Decreto-Lei n.º 10/2015, de 16 de janeiro, na sua redação atual, ou, em alternativa, sejam utilizadas barreiras físicas impermeáveis de separação entre os clientes que se encontrem frente a frente e exista um afastamento de 1,5 m entre mesas;\n\nc) A partir das 00:00 h o acesso ao público fique excluído para novas admissões;\n\nd) Encerrem até à 01:00 h;\n\ne) O recurso a mecanismos de marcação prévia, a fim de evitar situações de espera para atendimento nos estabelecimentos, bem como no espaço exterior;\n\nf) Não seja admitida a permanência de grupos superiores a seis pessoas, salvo se pertencerem ao mesmo agregado familiar.\n\n2 - Os horários de funcionamento específicos aplicáveis aos estabelecimentos de restauração ou similares são os que resultam do regime especial que lhes for aplicável em função do concelho onde se localizem, nos termos dos artigos 32.º, 36.º e 41.º, consoante o que for aplicável.\n\n3 - Até às 20:00 h dos dias úteis, nos estabelecimentos de restauração, cafés, pastelarias ou similares que se localizem num raio circundante de 300 m a partir de um estabelecimento de ensino, básico ou secundário, ou de uma instituição de ensino superior, não é admitida a permanência de grupos superiores a quatro pessoas, salvo se pertencerem ao mesmo agregado familiar.\n\n4 - A ocupação ou o serviço em esplanadas apenas é permitido desde que cumprido o disposto nos n.os 3 e 4 do artigo 18.º e respeitadas, com as necessárias adaptações, as orientações da DGS para o setor da restauração.\n\n5 - Nas áreas de consumo de comidas e bebidas (food-courts) dos conjuntos comerciais não é admitida a permanência de grupos superiores a quatro pessoas, salvo se pertencerem ao mesmo agregado familiar, e deve prever-se a organização do espaço por forma a evitar aglomerações de pessoas e a respeitar, com as devidas adaptações, as orientações da DGS para o setor da restauração.\n\n6 - Os estabelecimentos de restauração e similares que pretendam manter a respetiva atividade, total ou parcialmente, para efeitos de confeção destinada a consumo fora do estabelecimento ou entrega no domicílio, diretamente ou através de intermediário, estão dispensados de licença para confeção destinada a consumo fora do estabelecimento ou entrega no domicílio e podem determinar aos seus trabalhadores, desde que com o seu consentimento, a participação nas respetivas atividades, ainda que as mesmas não integrem o objeto dos respetivos contratos de trabalho."
+  },
+  "152012184": {
+   "fragment_id": "152012024",
+   "type": 11,
+   "heading": "Artigo 17.º — Bares e outros estabelecimentos de bebidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Bares e outros estabelecimentos de bebidas\n\n1 - Permanecem encerrados, por via do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, os bares, outros estabelecimentos de bebidas sem espetáculo e os estabelecimentos de bebidas com espaço de dança.\n\n2 - Não obstante o disposto no número anterior e sem prejuízo de regras especiais mais restritivas que sejam aplicáveis em função do concelho onde se localizem, os bares, outros estabelecimentos de bebidas sem espetáculo e os estabelecimentos de bebidas com espaço de dança podem funcionar com sujeição às regras estabelecidas no presente decreto para os cafés ou pastelarias, sem necessidade de alteração da respetiva classificação de atividade económica, desde que:\n\na) Observem as regras e orientações em vigor e as especificamente elaboradas pela DGS para estes estabelecimentos;\n\nb) Os espaços destinados a dança ou similares não sejam utilizados para esse efeito, devendo permanecer inutilizáveis ou, em alternativa, ser ocupados com mesas destinadas aos clientes."
+  },
+  "152012185": {
+   "fragment_id": "152012025",
+   "type": 11,
+   "heading": "Artigo 18.º — Venda e consumo de bebidas alcoólicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Venda e consumo de bebidas alcoólicas\n\n1 - É proibida a venda de bebidas alcoólicas em áreas de serviço ou em postos de abastecimento de combustíveis e, a partir das 20:00 h, nos estabelecimentos de comércio a retalho, incluindo supermercados e hipermercados.\n\n2 - Nas entregas ao domicílio, diretamente ou através de intermediário, bem como na modalidade de venda através da disponibilização de refeições ou produtos embalados à porta do estabelecimento ou ao postigo (take-away), não é possível fornecer bebidas alcoólicas a partir das 20:00 h.\n\n3 - É proibido o consumo de bebidas alcoólicas em espaços ao ar livre de acesso ao público e vias públicas, excetuando-se os espaços exteriores dos estabelecimentos de restauração e bebidas devidamente licenciados para o efeito.\n\n4 - No período após as 20:00 h, a exceção prevista na parte final do número anterior admite apenas o consumo de bebidas alcoólicas no âmbito do serviço de refeições."
+  },
+  "152012186": {
+   "fragment_id": "152012026",
+   "type": 11,
+   "heading": "Artigo 19.º — Veículos particulares com lotação superior a cinco lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Veículos particulares com lotação superior a cinco lugares\n\nOs veículos particulares com lotação superior a cinco lugares apenas podem circular, salvo se todos os ocupantes integrarem o mesmo agregado familiar, com dois terços da sua capacidade, devendo os ocupantes usar máscara ou viseira, com as exceções previstas no artigo 13.º-B do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual."
+  },
+  "152012187": {
+   "fragment_id": "152012027",
+   "type": 11,
+   "heading": "Artigo 20.º — Funerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Funerais\n\n1 - A realização de funerais está condicionada à adoção de medidas organizacionais que garantam a inexistência de aglomerados de pessoas e o controlo das distâncias de segurança, designadamente a fixação de um limite máximo de presenças, a determinar pela autarquia local que exerça os poderes de gestão do respetivo cemitério.\n\n2 - Do limite fixado nos termos do número anterior não pode resultar a impossibilidade da presença no funeral de cônjuge ou unido de facto, ascendentes, descendentes, parentes ou afins."
+  },
+  "152012188": {
+   "fragment_id": "152012028",
+   "type": 11,
+   "heading": "Artigo 21.º — Regras aplicáveis ao tráfego aéreo e aos aeroportos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Regras aplicáveis ao tráfego aéreo e aos aeroportos\n\n1 - Os passageiros de voos com origem em países a definir por despacho dos membros do Governo responsáveis pelas áreas dos negócios estrangeiros, da defesa nacional, da administração interna, da saúde e da aviação civil têm de apresentar, no momento da partida, um comprovativo de realização de teste molecular por RT-PCR para despiste da infeção por SARS-CoV-2 com resultado negativo, realizado nas 72 horas anteriores à hora do embarque, sob pena de lhes ser recusado o embarque na aeronave e a entrada em território nacional.\n\n2 - Os cidadãos nacionais e os cidadãos estrangeiros com residência legal em território nacional, bem como o pessoal diplomático colocado em Portugal que, excecionalmente, não sejam portadores de comprovativo de realização de teste molecular por RT-PCR para despiste da infeção por SARS-CoV-2 com resultado negativo, nos termos do número anterior, à chegada, antes de entrar em território nacional, são encaminhados, pelas autoridades competentes, para a realização do referido teste a expensas próprias.\n\n3 - Os testes laboratoriais referidos no número anterior são efetuados e disponibilizados pela ANA - Aeroportos de Portugal, S. A. (ANA, S. A.), através de profissionais de saúde habilitados para o efeito, podendo este serviço ser subcontratado.\n\n4 - A ANA, S. A., deve efetuar, nos aeroportos internacionais portugueses que gere, o rastreio de temperatura corporal por infravermelhos a todos os passageiros que chegam a território nacional.\n\n5 - Os passageiros a quem, no âmbito do rastreio a que se refere o número anterior, seja detetada uma temperatura corporal igual ou superior a 38ºC, tal como definida pela DGS, devem ser encaminhados imediatamente para um espaço adequado à repetição da medição da temperatura corporal, devendo esses passageiros, se a avaliação da situação o justificar, ser sujeitos a teste molecular por RT-PCR para despiste da infeção por SARS-CoV-2.\n\n6 - O rastreio do controlo da temperatura corporal por infravermelhos e a medição da temperatura corporal são da responsabilidade da ANA, S. A., devendo esta última ser efetuada por profissionais de saúde devidamente habilitados para o efeito, ainda que subcontratados.\n\n7 - Os passageiros a que se refere o n.º 2, bem como aqueles a quem seja detetada uma temperatura corporal igual ou superior a 38ºC e que realizem o teste molecular por RT-PCR para despiste da infeção por SARS-CoV-2, podem abandonar o aeroporto desde que disponibilizem os seus dados de contacto e permaneçam em isolamento e confinamento obrigatórios nos seus locais de destino, nos termos do artigo 3.º, até à receção do resultado do referido teste laboratorial."
+  },
+  "152012189": {
+   "fragment_id": "152012029",
+   "type": 11,
+   "heading": "Artigo 22.º — Serviços públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Serviços públicos\n\n1 - Os serviços públicos mantêm, preferencialmente, o atendimento presencial por marcação, bem como a continuidade e o reforço da prestação dos serviços através dos meios digitais e dos centros de contacto com os cidadãos e as empresas.\n\n2 - Aos serviços abrangidos pelo presente artigo aplica-se o disposto nos n.os 4 e 6 do artigo 13.º\n\n3 - Sem prejuízo do atendimento presencial previamente agendado nos serviços, o atendimento prioritário previsto no Decreto-Lei n.º 58/2016, de 29 de agosto, é realizado sem necessidade de marcação prévia."
+  },
+  "152012190": {
+   "fragment_id": "152012030",
+   "type": 11,
+   "heading": "Artigo 23.º — Medidas no âmbito das estruturas residenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Medidas no âmbito das estruturas residenciais\n\n1 - O dever especial de proteção dos residentes em estruturas residenciais para idosos, unidades de cuidados continuados integrados da Rede Nacional de Cuidados Continuados Integrados e outras respostas dedicadas a pessoas idosas, bem como a crianças, jovens e pessoas com deficiência, face à sua especial vulnerabilidade, envolve:\n\na) Autovigilância de sintomas de doença pelos profissionais afetos a estas unidades e o seu rastreio regular por forma a identificar precocemente casos suspeitos;\n\nb) Realização de testes a todos os residentes caso seja detetado um caso positivo em qualquer contacto;\n\nc) Colocação em prontidão de equipamento de âmbito municipal ou outro, para eventual necessidade de alojamento de pessoas em isolamento profilático ou em situação de infeção confirmada da doença COVID-19 que, face à avaliação clínica, não determine a necessidade de internamento hospitalar;\n\nd) Permissão da realização de visitas a utentes, com observância das regras definidas pela DGS, e avaliação da necessidade de suspensão das mesmas por tempo limitado e de acordo com a situação epidemiológica específica, em articulação com a autoridade de saúde local;\n\ne) Seguimento clínico de doentes COVID-19 cuja situação clínica não exija internamento hospitalar por profissionais de saúde dos agrupamentos de centros de saúde da respetiva área de intervenção em articulação com o hospital da área de referência;\n\nf) Operacionalização de equipas de intervenção rápida, de base distrital, compostas por ajudantes de ação direta, auxiliares de serviços gerais, enfermeiros, psicólogos e médicos com capacidade de ação imediata na contenção e estabilização de surtos da doença COVID-19;\n\ng) Manutenção do acompanhamento pelas equipas multidisciplinares.\n\n2 - Os testes de diagnóstico de SARS-CoV-2 são realizados por um profissional de saúde, sendo os respetivos resultados globalmente comunicados ao responsável da direção técnica da estrutura residencial, ficando este sujeito a sigilo profissional.\n\n3 - Em caso de deteção de casos positivos, a entidade responsável pela análise dos resultados comunica a identificação dos visados diretamente ao responsável da direção técnica da estrutura residencial, o mais brevemente possível, de forma a prevenir contágios.\n\n4 - Para efeitos dos n.os 2 e 3, pode haver lugar ao tratamento de dados pessoais na medida do estritamente indispensável."
+  },
+  "152012191": {
+   "fragment_id": "152012031",
+   "type": 11,
+   "heading": "Artigo 24.º — Feiras e mercados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Feiras e mercados\n\n1 - Sem prejuízo das regras especiais mais restritivas, designadamente em matéria de limitações à realização de feiras ou mercados, que prevaleçam em função do regime especial que lhes for aplicável em razão do concelho onde se realizem, é permitido o funcionamento de feiras e mercados de acordo com as regras fixadas nos números seguintes.\n\n2 - Para cada recinto de feira ou mercado deve existir um plano de contingência para a doença COVID-19, elaborado pela autarquia local competente ou aprovado pela mesma, no caso de feiras e mercados sob exploração de entidades privadas.\n\n3 - O plano de contingência deve ser disponibilizado no sítio do município na Internet.\n\n4 - A reabertura das feiras e mercados deve ser precedida de ações de sensibilização de todos os feirantes e comerciantes, relativas à implementação do plano de contingência e sobre outras medidas de prevenção e práticas de higiene.\n\n5 - O plano de contingência referido nos números anteriores deve, com as necessárias adaptações, respeitar as regras em vigor para os estabelecimentos de comércio a retalho quanto a ocupação, permanência e distanciamento físico, assim como as orientações da DGS, prevendo um conjunto de procedimentos de prevenção e controlo da infeção, designadamente:\n\na) Procedimento operacional sobre as ações a desencadear em caso de doença, sintomas ou contacto com um caso confirmado da doença COVID-19;\n\nb) Implementação da obrigatoriedade do uso de máscara ou viseira por parte dos feirantes e comerciantes e dos clientes;\n\nc) Medidas de distanciamento físico adequado entre lugares de venda, quando possível;\n\nd) Medidas de higiene, nomeadamente a obrigatoriedade de cumprimento de medidas de higienização das mãos e de etiqueta respiratória, bem como a disponibilização obrigatória de soluções desinfetantes cutâneas, nas entradas e saídas dos recintos das feiras e mercados, nas instalações sanitárias, quando existentes, bem como a respetiva disponibilização pelos feirantes e comerciantes, quando possível;\n\ne) Medidas de acesso e circulação relativas, nomeadamente:\n\ni) À gestão dos acessos ao recinto das feiras e dos mercados, de modo a evitar uma concentração excessiva quer no seu interior quer à entrada dos mesmos;\n\nii) Às regras aplicáveis à exposição dos bens, preferencialmente e sempre que possível, mediante a exigência de disponibilização dos mesmos pelos feirantes e comerciantes;\n\niii) Aos procedimentos de desinfeção dos veículos e das mercadorias, ajustados à tipologia dos produtos e à organização da circulação;\n\nf) Plano de limpeza e de higienização dos recintos das feiras e dos mercados;\n\ng) Protocolo para recolha e tratamento dos resíduos.\n\n6 - Sem prejuízo das competências das demais autoridades, as autoridades de fiscalização municipal, a polícia municipal e as entidades responsáveis pela gestão dos recintos das feiras e dos mercados, consoante os casos, podem contribuir para a monitorização do cumprimento dos procedimentos contidos nos planos de contingência."
+  },
+  "152012192": {
+   "fragment_id": "152012032",
+   "type": 11,
+   "heading": "Artigo 25.º — Cuidados pessoais e estética",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Cuidados pessoais e estética\n\n1 - É permitido o funcionamento de:\n\na) Salões de cabeleireiro, barbeiros e institutos de beleza, mediante marcação prévia;\n\nb) Estabelecimentos ou estúdios de tatuagens e bodypiercing, mediante marcação prévia;\n\nc) Atividade de massagens em salões de beleza, em ginásios ou em estabelecimentos similares.\n\n2 - Nestes estabelecimentos devem respeitar-se as orientações definidas pela DGS."
+  },
+  "152012193": {
+   "fragment_id": "152012033",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III\n\nMedidas aplicáveis a eventos, estruturas, estabelecimentos ou outras atividades culturais, desportivas, recreativas ou sociais"
+  },
+  "152012194": {
+   "fragment_id": "152012034",
+   "type": 11,
+   "heading": "Artigo 26.º — Eventos de natureza cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Eventos de natureza cultural\n\n1 - Sem prejuízo das regras especiais mais restritivas, designadamente quanto a limitações à realização de eventos em função do regime especial que lhes seja aplicável em razão do concelho onde se realizem, é permitido o funcionamento das salas de espetáculos, de exibição de filmes cinematográficos e similares, bem como de eventos de natureza cultural realizados ao ar livre, desde que:\n\na) Sejam observadas, com as devidas adaptações, as regras definidas nos n.os 1 a 4 e 6 do artigo 13.º;\n\nb) Nas salas de espetáculo ou salas de exibição de filmes cinematográficos seja reduzida a lotação, sempre que necessário, sendo observadas as seguintes orientações:\n\ni) Os lugares ocupados tenham um lugar de intervalo entre espectadores que não sejam coabitantes, sendo que na fila seguinte os lugares ocupados devem ficar desencontrados;\n\nii) No caso de existência de palco, seja garantida uma distância mínima de, pelo menos, 2 m entre a boca da cena e a primeira fila de espectadores;\n\nc) Nos recintos de espetáculos ao ar livre, a lotação do recinto observe as seguintes orientações:\n\ni) Os lugares estejam previamente identificados, cumprindo um distanciamento físico de 1,5 m entre espectadores;\n\nii) No caso de existência de palco, seja garantida uma distância mínima de, pelo menos, 2 m entre a boca da cena e a primeira fila de espectadores;\n\nd) Os postos de atendimento estejam, preferencialmente, equipados com barreiras de proteção;\n\ne) Seja privilegiada a compra antecipada de ingressos por via eletrónica e os pagamentos por vias sem contacto, através de transações por TPA ou por outros métodos similares;\n\nf) Sempre que aplicável, seja assegurada a manutenção dos sistemas de ventilação, garantindo que o seu funcionamento é efetuado sem ocorrência de recirculação de ar;\n\ng) Se adaptem as cenas e os espetáculos ao vivo, sempre que possível, de forma a minimizar o contacto físico entre os envolvidos e a manter o distanciamento recomendado;\n\nh) Sejam observadas as regras definidas pela DGS.\n\n2 - Nas áreas de consumo de cafetaria, restauração e bebidas destes equipamentos culturais devem respeitar-se as orientações definidas pela DGS para o setor da restauração, não sendo permitido o consumo de alimentos ou bebidas no interior das salas de espetáculo ou de exibição de filmes cinematográficos."
+  },
+  "152012195": {
+   "fragment_id": "152012035",
+   "type": 11,
+   "heading": "Artigo 27.º — Museus, monumentos, palácios, sítios arqueológicos e similares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Museus, monumentos, palácios, sítios arqueológicos e similares\n\n1 - Sem prejuízo das regras especiais mais restritivas em matéria de museus, monumentos, palácios, sítios arqueológicos e similares que prevaleçam em função do regime especial que lhes for aplicável em razão do concelho onde se localizem, é permitido o seu funcionamento, desde que se:\n\na) Observem as normas e as instruções definidas pela DGS referentes ao distanciamento físico, higiene das mãos e superfícies, etiqueta respiratória e as regras previstas no presente decreto;\n\nb) Garanta que cada visitante dispõe de uma área mínima de 20 m2 e de uma distância mínima de 2 m para qualquer outra pessoa que não seja sua coabitante;\n\nc) Assegure, sempre que possível:\n\ni) A criação de um sentido único de visita;\n\nii) A limitação do acesso a visita a espaços exíguos;\n\niii) A eliminação ou, caso não seja possível, a redução do cruzamento de visitantes em zonas de estrangulamento;\n\nd) Minimizem as áreas de concentração dos visitantes com equipamentos interativos, devendo, preferencialmente, ser desativados os equipamentos que necessitem ou convidem à interação dos visitantes;\n\ne) Recorra, preferencialmente, no caso de visitas de grupo, a mecanismos de marcação prévia, a fim de evitar situações de espera para entrar no equipamento cultural, bem como no espaço exterior;\n\nf) Coloquem barreiras nas áreas de bilheteira e atendimento ao público;\n\ng) Privilegie a realização de transações por TPA.\n\n2 - A admissão dos visitantes deve ser realizada de forma livre ou por conjunto de pessoas, dependendo da área do referido equipamento cultural, devendo ser assegurada a regra de ocupação máxima indicativa de 0,05 pessoas por metro quadrado de área.\n\n3 - A ocupação ou o serviço em esplanadas dos equipamentos culturais apenas é permitida desde que sejam respeitadas, com as necessárias adaptações, as orientações da DGS para o setor da restauração.\n\n4 - Nas áreas de consumo de restauração e bebidas dos equipamentos culturais devem respeitar-se as orientações definidas pela DGS para o setor da restauração."
+  },
+  "152012196": {
+   "fragment_id": "152012036",
+   "type": 11,
+   "heading": "Artigo 28.º — Atividades em contexto académico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Atividades em contexto académico\n\nÉ proibida, no âmbito académico do ensino superior, a realização de festejos, bem como de atividades lúdicas ou recreativas."
+  },
+  "152012197": {
+   "fragment_id": "152012037",
+   "type": 11,
+   "heading": "Artigo 29.º — Atividade física e desportiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Atividade física e desportiva\n\n1 - A prática de atividade física e desportiva, em contexto de treino e em contexto competitivo, incluindo a 1.ª Liga de Futebol Profissional, pode ser realizada desde que sem público e no cumprimento das orientações definidas pela DGS.\n\n2 - As instalações desportivas em funcionamento regem-se pelo disposto no n.º 4 do artigo 13.º, com as necessárias adaptações.\n\n3 - Para efeitos do presente decreto, as atividades de treino e competitivas dos atletas de seleções nacionais das modalidades olímpicas e paralímpicas, da 1.ª divisão nacional ou de competição de nível competitivo correspondente de todas as modalidades dos escalões de seniores masculino e feminino, bem como dos campeonatos internacionais, são equiparadas a atividades profissionais."
+  },
+  "152012198": {
+   "fragment_id": "152012038",
+   "type": 11,
+   "heading": "Artigo 30.º — Estabelecimentos de jogos de fortuna ou azar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Estabelecimentos de jogos de fortuna ou azar\n\nSem prejuízo da existência de regras especiais mais restritivas que incidam sobre estabelecimentos de jogos de fortuna ou azar e que prevaleçam em função do regime especial que lhes for aplicável em razão do concelho onde se realizem, é permitido o funcionamento de estabelecimentos de jogos de fortuna ou azar, casinos, bingos ou similares, desde que se:\n\na) Observem as orientações e as instruções definidas especificamente para o efeito pela DGS referentes ao distanciamento físico, higiene das mãos e superfícies, etiqueta respiratória e as regras previstas no presente decreto;\n\nb) Disponha de um protocolo específico de limpeza e higienização das zonas de jogo;\n\nc) Privilegie a realização de transações por TPA;\n\nd) Garanta a não permanência no interior dos estabelecimentos de frequentadores que não pretendam consumir ou jogar."
+  },
+  "152012199": {
+   "fragment_id": "152012039",
+   "type": 11,
+   "heading": "Artigo 31.º — Equipamentos de diversão e similares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Equipamentos de diversão e similares\n\n1 - Sem prejuízo das regras especiais mais restritivas, designadamente quanto a limitações em matéria de equipamentos de diversão e similares que prevaleçam em função do regime especial que lhes for aplicável em razão do concelho onde se realizem, é permitido o funcionamento de equipamentos de diversão e similares, desde que se:\n\na) Observem as orientações e instruções definidas pela DGS, em parecer técnico especificamente elaborado para o efeito;\n\nb) Garanta o funcionamento em local autorizado, nos termos legais, pela autarquia local territorialmente competente;\n\nc) Cumpra o disposto no Decreto-Lei n.º 268/2009, de 29 de setembro, e na demais legislação aplicável.\n\n2 - Os equipamentos de diversão e similares autorizados a funcionar nos termos do número anterior estão sujeitos à fiscalização das entidades competentes nos termos do presente decreto."
+  },
+  "152012200": {
+   "fragment_id": "152012040",
+   "type": 1,
+   "heading": "Capítulo III — Disposições especiais aplicáveis aos concelhos de risco moderado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições especiais aplicáveis aos concelhos de risco moderado"
+  },
+  "152012201": {
+   "fragment_id": "152012041",
+   "type": 11,
+   "heading": "Artigo 32.º — Horários de encerramento em concelhos de risco moderado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Horários de encerramento em concelhos de risco moderado\n\n1 - Os estabelecimentos encerram entre as 20:00 h e as 23:00 h, podendo o horário de encerramento, dentro deste intervalo, ser fixado pelo presidente da câmara municipal territorialmente competente mediante parecer favorável da autoridade local de saúde e das forças de segurança.\n\n2 - A manutenção dos horários de encerramento vigentes à data da entrada em vigor do presente decreto dispensa o despacho previsto no número anterior caso esses horários se enquadrem no intervalo entre as 20:00 h e as 23:00 h.\n\n3 - Excetuam-se do disposto no n.º 1:\n\na) Os estabelecimentos de restauração exclusivamente para efeitos de serviço de refeições no próprio estabelecimento, os quais encerram até à 01:00 h, devendo o acesso ao público ficar excluído para novas admissões às 00:00 h;\n\nb) Os estabelecimentos de restauração e similares, exclusivamente para efeitos de atividade de confeção destinada a consumo fora do estabelecimento através de entrega no domicílio, diretamente ou através de intermediário;\n\nc) Os estabelecimentos de restauração e similares, exclusivamente para efeitos de atividade de confeção destinada a consumo fora do estabelecimento, através da disponibilização de refeições ou produtos embalados à porta do estabelecimento ou ao postigo (take-away), não sendo permitido o acesso ao interior do estabelecimento pelo público e apenas sendo permitida a recolha até à 01:00 h;\n\nd) Os estabelecimentos culturais e as instalações desportivas.\n\n4 - O disposto no presente artigo não prejudica os atos que tenham sido adotados por presidentes de câmaras municipais ao abrigo do n.º 9 do artigo 5.º do regime anexo à Resolução do Conselho de Ministros n.º 55-A/2020, de 31 de julho, na redação dada pelas Resoluções do Conselho de Ministros n.os 63-A/2020, de 14 de agosto, e 68-A/2020, de 28 de agosto, desde que sejam compatíveis com os limites fixados no número anterior."
+  },
+  "152012202": {
+   "fragment_id": "152012042",
+   "type": 11,
+   "heading": "Artigo 33.º — Eventos em concelhos de risco moderado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Eventos em concelhos de risco moderado\n\n1 - Não é permitida a realização de celebrações e de outros eventos que impliquem uma aglomeração de pessoas em número superior a seis pessoas, salvo se pertencerem ao mesmo agregado familiar, sem prejuízo do disposto no número seguinte.\n\n2 - A DGS define as orientações específicas para os seguintes eventos:\n\na) Cerimónias religiosas, incluindo celebrações comunitárias;\n\nb) Eventos de natureza familiar, incluindo casamentos e batizados, não sendo permitida uma aglomeração de pessoas em número superior a 50 pessoas;\n\nc) Eventos de natureza corporativa realizados em espaços adequados para o efeito, designadamente salas de congressos, estabelecimentos turísticos, recintos adequados para a realização de feiras comerciais e espaços ao ar livre.\n\n3 - Excecionam-se do limite previsto na alínea b) do número anterior os casamentos e batizados cujo agendamento tenha sido realizado até às 23:59 h do dia 14 de outubro de 2020, a comprovar por declaração da entidade celebrante.\n\n4 - Na ausência de orientação da DGS, os organizadores dos eventos devem observar, com as necessárias adaptações, o disposto nos n.os 1 a 5 do artigo 13.º, bem como no artigo 16.º quanto aos espaços de restauração nestes envolvidos, devendo os participantes usar máscara ou viseira nos espaços fechados.\n\n5 - Os eventos com público realizados fora de estabelecimentos destinados para o efeito devem ser precedidos de avaliação de risco, pelas autoridades de saúde locais, para determinação da viabilidade e condições da sua realização.\n\n6 - Em situações devidamente justificadas, os membros do Governo responsáveis pelas áreas da administração interna e da saúde podem, conjuntamente, autorizar a realização de outras celebrações ou eventos, definindo os respetivos termos.\n\n7 - Não obstante o disposto nos números anteriores, são permitidos os eventos de natureza cultural, nos termos do artigo 26.º"
+  },
+  "152012203": {
+   "fragment_id": "152012043",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições especiais aplicáveis aos concelhos de risco elevado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições especiais aplicáveis aos concelhos de risco elevado"
+  },
+  "152012204": {
+   "fragment_id": "152012044",
+   "type": 11,
+   "heading": "Artigo 34.º — Proibição de circulação na via pública em concelhos de risco elevado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Proibição de circulação na via pública em concelhos de risco elevado\n\n1 - Diariamente, no período compreendido entre as 23:00 h e as 05:00 h, os cidadãos só podem circular em espaços e vias públicas, ou em espaços e vias privadas equiparadas a vias públicas, nas seguintes situações:\n\na) Deslocações para desempenho de funções profissionais ou equiparadas, conforme atestado por declaração:\n\ni) Emitida pela entidade empregadora ou equiparada;\n\nii) Emitida pelo próprio, no caso dos trabalhadores independentes, empresários em nome individual ou membros de órgão estatutário;\n\niii) De compromisso de honra, no caso de se tratar de trabalhadores do setor agrícola, pecuário e das pescas;\n\nb) Deslocações no exercício das respetivas funções ou por causa delas, sem necessidade de declaração emitida pela entidade empregadora ou equiparada:\n\ni) De profissionais de saúde e outros trabalhadores de instituições de saúde e de apoio social;\n\nii) De agentes de proteção civil, forças e serviços de segurança, militares, militarizados e pessoal civil das Forças Armadas e inspetores da Autoridade de Segurança Alimentar e Económica;\n\niii) De titulares dos órgãos de soberania, dirigentes dos parceiros sociais e dos partidos políticos representados na Assembleia da República e pessoas portadoras de livre-trânsito emitido nos termos legais;\n\niv) De ministros de culto, mediante credenciação pelos órgãos competentes da respetiva igreja ou comunidade religiosa, nos termos do n.º 2 do artigo 15.º da Lei n.º 16/2001, de 22 de junho, na sua redação atual;\n\nv) De pessoal das missões diplomáticas, consulares e das organizações internacionais localizadas em Portugal, desde que relacionadas com o desempenho de funções oficiais;\n\nc) Deslocações por motivos de saúde, designadamente para aquisição de produtos em farmácias ou obtenção de cuidados de saúde e transporte de pessoas a quem devam ser administrados tais cuidados ou dádiva de sangue;\n\nd) Deslocações para acolhimento de emergência de vítimas de violência doméstica ou tráfico de seres humanos, bem como de crianças e jovens em risco, por aplicação de medida decretada por autoridade judicial ou Comissão de Proteção de Crianças e Jovens, em casa de acolhimento residencial ou familiar;\n\ne) Deslocações para assistência de pessoas vulneráveis, pessoas com deficiência, filhos, progenitores, idosos ou dependentes;\n\nf) Deslocações por outras razões familiares imperativas, designadamente o cumprimento de partilha de responsabilidades parentais, conforme determinada por acordo entre os titulares das mesmas ou pelo tribunal competente;\n\ng) Deslocações de médicos veterinários, de detentores de animais para assistência médico-veterinária urgente, de cuidadores de colónias reconhecidas pelos municípios, de voluntários de associações zoófilas com animais a cargo que necessitem de se deslocar aos abrigos de animais e de equipas de resgate de animais para assistência urgente;\n\nh) Deslocações necessárias ao exercício da liberdade de imprensa;\n\ni) Deslocações pedonais de curta duração, para efeitos de fruição de momentos ao ar livre, desacompanhadas ou na companhia de membros do mesmo agregado familiar que coabitem;\n\nj) Deslocações pedonais de curta duração para efeitos de passeio dos animais de companhia;\n\nk) Deslocações de menores e seus acompanhantes para estabelecimentos escolares, creches e atividades de tempos livres, bem como deslocações de estudantes para instituições de ensino superior ou outros estabelecimentos escolares;\n\nl) Por outros motivos de força maior ou necessidade impreterível, desde que se demonstre serem inadiáveis e sejam devidamente justificados;\n\nm) Retorno ao domicílio no âmbito das deslocações admitidas ao abrigo das alíneas anteriores.\n\n2 - Exceto para os efeitos previstos nas alíneas i) e j) do número anterior, é admitida a circulação de veículos particulares na via pública, incluindo o reabastecimento em postos de combustível, no âmbito das situações referidas no número anterior.\n\n3 - As deslocações admitidas nos termos dos números anteriores devem ser efetuadas preferencialmente desacompanhadas e devem respeitar as recomendações e ordens determinadas pelas autoridades de saúde e pelas forças e serviços de segurança, designadamente as respeitantes às distâncias a observar entre as pessoas."
+  },
+  "152012205": {
+   "fragment_id": "152012045",
+   "type": 11,
+   "heading": "Artigo 35.º — Dever geral de recolhimento domiciliário em concelhos de risco elevado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Dever geral de recolhimento domiciliário em concelhos de risco elevado\n\n1 - Diariamente, fora do período compreendido entre as 23:00 h e as 05:00 h, os cidadãos devem abster-se de circular em espaços e vias públicas, bem como em espaços e vias privadas equiparadas a vias públicas, e permanecer no respetivo domicílio, exceto para deslocações autorizadas pelo presente decreto.\n\n2 - Para efeitos do disposto no número anterior, consideram-se deslocações autorizadas aquelas que visam:\n\na) Aquisição de bens e serviços;\n\nb) Deslocação para efeitos de desempenho de atividades profissionais ou equiparadas;\n\nc) Procura de trabalho ou resposta a uma oferta de trabalho;\n\nd) Deslocações por motivos de saúde, designadamente para efeitos de obtenção de cuidados de saúde e transporte de pessoas a quem devam ser administrados tais cuidados ou dádiva de sangue;\n\ne) Deslocações para acolhimento de emergência de vítimas de violência doméstica ou tráfico de seres humanos, bem como de crianças e jovens em risco, por aplicação de medida decretada por autoridade judicial ou Comissão Nacional de Promoção dos Direitos e Proteção das Crianças e Jovens, em casa de acolhimento residencial ou familiar;\n\nf) Deslocações para assistência de pessoas vulneráveis, pessoas com deficiência, filhos, progenitores, idosos ou dependentes;\n\ng) Deslocações de menores e seus acompanhantes para frequência dos estabelecimentos escolares, creches e atividades de tempos livres;\n\nh) Deslocações de pessoas com deficiência para frequência de centros de atividades ocupacionais;\n\ni) Deslocações para acesso a equipamentos culturais;\n\nj) Deslocações de curta duração para efeitos de atividade física;\n\nk) Deslocações para participação em ações de voluntariado social;\n\nl) Deslocações por outras razões familiares imperativas, designadamente o cumprimento de partilha de responsabilidades parentais, conforme determinada por acordo entre os titulares das mesmas ou pelo tribunal competente;\n\nm) Deslocações a estabelecimentos escolares;\n\nn) Deslocações para visitas, quando autorizadas, ou entrega de bens essenciais a pessoas incapacitadas ou privadas de liberdade de circulação;\n\no) Deslocações para participação em atos processuais junto das entidades judiciárias ou em atos da competência de notários, advogados, solicitadores ou oficiais de registo;\n\np) Deslocações de curta duração para efeitos de passeio dos animais de companhia e para alimentação de animais;\n\nq) Deslocações de médicos veterinários, de detentores de animais para assistência médico-veterinária, de cuidadores de colónias reconhecidas pelos municípios, de voluntários de associações zoófilas com animais a cargo que necessitem de se deslocar aos abrigos de animais e serviços veterinários municipais para recolha e assistência de animais;\n\nr) Deslocações por parte de pessoas portadoras de livre-trânsito, emitido nos termos legais, no exercício das respetivas funções ou por causa delas;\n\ns) Deslocações por parte de pessoal das missões diplomáticas, consulares e das organizações internacionais localizadas em Portugal, desde que relacionadas com o desempenho de funções oficiais;\n\nt) Deslocações necessárias ao exercício da liberdade de imprensa;\n\nu) Deslocações para a frequência de formação e realização de provas e exames;\n\nv) Deslocações para visitas a utentes de estruturas residenciais para idosos e para pessoas com deficiência, unidades de cuidados continuados integrados da Rede Nacional de Cuidados Integrados e outras respostas dedicadas a pessoas idosas, bem como para atividades realizadas nos centros de dia;\n\nw) Deslocação a estações e postos de correio, agências bancárias e agências de mediadores de seguros ou seguradoras;\n\nx) Deslocações necessárias para saída de território nacional continental;\n\ny) Deslocações para outras atividades de natureza análoga ou por outros motivos de força maior ou necessidade impreterível, desde que devidamente justificados;\n\nz) Retorno ao domicílio no âmbito das deslocações mencionadas nas alíneas anteriores.\n\n3 - Os veículos particulares podem circular na via pública para realizar as atividades mencionadas no número anterior ou para reabastecimento em postos de combustível no âmbito das deslocações referidas nos números anteriores.\n\n4 - Para os efeitos do presente decreto, a atividade dos atletas de alto rendimento ou que integrem seleções nacionais e seus treinadores, bem como acompanhantes desportivos do desporto adaptado, é equiparada a atividade profissional.\n\n5 - Sem prejuízo do estabelecido nos números anteriores, em todas as deslocações efetuadas devem ser respeitadas as recomendações e ordens determinadas pelas autoridades de saúde e pelas forças e serviços de segurança, designadamente as respeitantes às distâncias a observar entre as pessoas."
+  },
+  "152012206": {
+   "fragment_id": "152012046",
+   "type": 11,
+   "heading": "Artigo 36.º — Horários de encerramento em concelhos de risco elevado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Horários de encerramento em concelhos de risco elevado\n\n1 - Nos concelhos de risco elevado todos os estabelecimentos de comércio a retalho e de prestação de serviços, bem como os que se encontrem em conjuntos comerciais, encerram até às 22:00 h, excetuando-se:\n\na) Os estabelecimentos de restauração, exclusivamente para efeitos de serviço de refeições no próprio estabelecimento, os quais encerram até às 22:30 h;\n\nb) Os estabelecimentos de restauração e similares, exclusivamente para efeitos de atividade de confeção destinada a consumo fora do estabelecimento através de entrega no domicílio, diretamente ou através de intermediário;\n\nc) Os estabelecimentos de restauração e similares, exclusivamente para efeitos de atividade de confeção destinada a consumo fora do estabelecimento, através da disponibilização de refeições ou produtos embalados à porta do estabelecimento ou ao postigo (take-away), não sendo permitido o acesso ao interior do estabelecimento pelo público e apenas sendo permitida a recolha até às 22:30 h;\n\nd) Os equipamentos culturais, os quais devem encerrar até às 22:30 h;\n\ne) As instalações desportivas, quando destinadas à prática desportiva federada, as quais devem encerrar até às 22:30 h.\n\n2 - O horário de encerramento pode ser reduzido pelo presidente da câmara municipal territorialmente competente, mediante parecer favorável da autoridade local de saúde e das forças de segurança."
+  },
+  "152012207": {
+   "fragment_id": "152012047",
+   "type": 11,
+   "heading": "Artigo 37.º — Feiras e mercados em concelhos de risco elevado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Feiras e mercados em concelhos de risco elevado\n\nA realização de feiras e mercados de levante é proibida, salvo em caso de autorização emitida pelo presidente da câmara municipal territorialmente competente, caso estejam verificadas as condições de segurança e sejam observadas as orientações definidas pela DGS."
+  },
+  "152012208": {
+   "fragment_id": "152012048",
+   "type": 11,
+   "heading": "Artigo 38.º — Eventos em concelhos de risco elevado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Eventos em concelhos de risco elevado\n\n1 - Nos concelhos de risco elevado não é permitida a realização de celebrações e de outros eventos que impliquem uma aglomeração de pessoas em número superior a seis pessoas, salvo se pertencerem ao mesmo agregado familiar.\n\n2 - Sem prejuízo da observância das orientações definidas pela DGS, o disposto no número anterior não se aplica:\n\na) A cerimónias religiosas;\n\nb) A espetáculos culturais ou eventos de natureza científica desde que, em ambos as situações, decorram em recintos fixos de espetáculos de natureza artística ou em instituições de ensino superior."
+  },
+  "152012209": {
+   "fragment_id": "152012049",
+   "type": 1,
+   "heading": "Capítulo V — Disposições especiais aplicáveis aos concelhos de risco muito elevado e extremo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições especiais aplicáveis aos concelhos de risco muito elevado e extremo"
+  },
+  "152012210": {
+   "fragment_id": "152012050",
+   "type": 11,
+   "heading": "Artigo 39.º — Proibição de circulação na via pública em concelhos de risco muito elevado e extremo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Proibição de circulação na via pública em concelhos de risco muito elevado e extremo\n\nNos concelhos de risco muito elevado e extremo é aplicável a proibição de circulação em espaços e vias públicas, ou em espaços e vias privadas equiparadas a vias públicas, nos termos previstos no artigo 34.º"
+  },
+  "152012211": {
+   "fragment_id": "152012051",
+   "type": 11,
+   "heading": "Artigo 40.º — Proibição de circulação na via pública aos sábados e domingos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Proibição de circulação na via pública aos sábados e domingos\n\n1 - Aos sábados e domingos, no período compreendido entre as 13:00 h e as 05:00 h, os cidadãos só podem circular em espaços e vias públicas ou em espaços e vias privadas equiparadas a vias públicas para as situações elencadas no artigo 34.º\n\n2 - Para efeitos do número anterior, nos concelhos de risco muito elevado e extremo aplicam-se as exceções previstas no artigo 34.º, sendo também permitidas as deslocações a mercearias e supermercados e a outros estabelecimentos de venda de produtos alimentares e de higiene, para pessoas e animais, que se encontrem em funcionamento nos termos da alínea a) do n.º 2 do artigo 43.º\n\n3 - Nos estabelecimentos em que se proceda à venda de produtos alimentares e de higiene, para pessoas e animais, podem também ser adquiridos outros produtos que aí se encontrem disponíveis."
+  },
+  "152012212": {
+   "fragment_id": "152012052",
+   "type": 11,
+   "heading": "Artigo 41.º — Medidas aplicáveis a concelhos de risco muito elevado e extremo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Medidas aplicáveis a concelhos de risco muito elevado e extremo\n\nNos concelhos de risco muito elevado e extremo aplica-se:\n\na) Em matéria de horários de encerramento, o disposto no artigo 36.º;\n\nb) Em matéria de feiras e mercados de levante, o disposto no artigo 37.º;\n\nc) Em matéria de eventos, o disposto no artigo 38.º"
+  },
+  "152012213": {
+   "fragment_id": "152012053",
+   "type": 11,
+   "heading": "Artigo 42.º — Dever geral de recolhimento domiciliário em concelhos de risco muito elevado e extremo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Dever geral de recolhimento domiciliário em concelhos de risco muito elevado e extremo\n\nDiariamente, fora do período compreendido entre as 23:00 h e as 05:00 h, bem como aos sábados e domingos, no período compreendido entre as 05:00 h e as 13:00 h, os cidadãos devem abster-se de circular em espaços e vias públicas, bem como em espaços e vias privadas equiparadas a vias públicas, e permanecer no respetivo domicílio, exceto para deslocações autorizadas pelo presente decreto, aplicando-se o disposto no artigo 35.º"
+  },
+  "152012214": {
+   "fragment_id": "152012054",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\nAtividades de comércio a retalho e de prestação de serviços ao sábado e ao domingo nos concelhos de risco muito elevado e extremo\n\n1 - Aos sábados e domingos, fora do período compreendido entre as 08:00 h e as 13:00 h, são suspensas as atividades em estabelecimentos de comércio a retalho e de prestação de serviços localizados nos concelhos de risco muito elevado e extremo.\n\n2 - Excetuam-se do disposto no número anterior:\n\na) Os estabelecimentos de venda a retalho de produtos alimentares, bem como naturais ou dietéticos, de saúde e higiene, que disponham de uma área de venda ou prestação de serviços igual ou inferior a 200 m2 com entrada autónoma e independente a partir da via pública;\n\nb) Os estabelecimentos de restauração e similares, independentemente da área de venda ou prestação de serviços, desde que exclusivamente para efeitos de atividade de confeção destinada a consumo fora do estabelecimento através de entrega ao domicílio, diretamente ou através de intermediário;\n\nc) Os estabelecimentos de restauração e similares, exclusivamente para efeitos de atividade de confeção destinada a consumo fora do estabelecimento, para a disponibilização de refeições ou produtos embalados à porta do estabelecimento ou ao postigo (take-away), não sendo permitido o acesso ao interior do estabelecimento pelo público e apenas sendo permitida a recolha até às 22:30 h;\n\nd) Os postos de abastecimento de combustíveis não abrangidos pelo artigo 14.º, exclusivamente para efeitos de venda ao público de combustíveis e abastecimento de veículos e desde que no âmbito das deslocações autorizadas ao abrigo do artigo 34.º, aplicável por força do artigo 39.º\n\n3 - Os estabelecimentos cujo horário de abertura habitual seja anterior às 08:00 h podem continuar a praticar esse horário.\n\n4 - Para efeitos do disposto no número anterior, considera-se horário de abertura habitual aquele que era praticado até à entrada em vigor do Decreto n.º 8/2020, de 8 de novembro.\n\n5 - No caso de estabelecimentos autorizados a funcionar durante 24 horas por dia, ficam os mesmos autorizados a reabrir a partir das 08:00 h."
+  },
+  "152012215": {
+   "fragment_id": "152012055",
+   "type": 1,
+   "heading": "Capítulo VI — Eventual renovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Eventual renovação"
+  },
+  "152012216": {
+   "fragment_id": "152012056",
+   "type": 8,
+   "heading": "Secção I — Disposição geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposição geral"
+  },
+  "152012217": {
+   "fragment_id": "152012057",
+   "type": 11,
+   "heading": "Artigo 44.º — Eventual renovação do estado de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Eventual renovação do estado de emergência\n\nCaso se verifique a renovação do estado de emergência a partir das 00:00 h do dia 24 de dezembro, é prorrogada a vigência do presente decreto, com as alterações constantes do presente capítulo, salvo se a situação epidemiológica impuser uma revisão intercalar a 18 de dezembro."
+  },
+  "152012218": {
+   "fragment_id": "152012058",
+   "type": 8,
+   "heading": "Secção II — Disposições aplicáveis no período do Natal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Disposições aplicáveis no período do Natal"
+  },
+  "152012219": {
+   "fragment_id": "152012059",
+   "type": 11,
+   "heading": "Artigo 45.º — Proibição de circulação nos dias 23 a 26 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Proibição de circulação nos dias 23 a 26 de dezembro\n\n1 - A proibição de circulação na via pública prevista nos artigos 34.º e 39.º:\n\na) Não é aplicável no dia 23 de dezembro de 2020, no período após as 23:00 h e até às 05:00 h do dia seguinte, para as pessoas que se encontrem em viagem;\n\nb) Não é aplicável nos dias 24 e 25 de dezembro de 2020, no período após as 23:00 h e até às 02:00 h do dia seguinte.\n\n2 - No dia 26 de dezembro, a proibição de circulação na via pública aos sábados a que alude o n.º 1 do artigo 40.º, nos concelhos onde o mesmo seja aplicável, inicia-se às 23:00 h."
+  },
+  "152012220": {
+   "fragment_id": "152012060",
+   "type": 11,
+   "heading": "Artigo 46.º — Dever geral de recolhimento domiciliário nos dias 23 a 26 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Dever geral de recolhimento domiciliário nos dias 23 a 26 de dezembro\n\nO dever geral de recolhimento domiciliário previsto nos artigos 35.º e 42.º não é aplicável nos dias 23 a 26 de dezembro de 2020, inclusive."
+  },
+  "152012221": {
+   "fragment_id": "152012061",
+   "type": 11,
+   "heading": "Artigo 47.º — Horários no setor da cultura e no setor da restauração nos dias 24 a 26 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Horários no setor da cultura e no setor da restauração nos dias 24 a 26 de dezembro\n\n1 - Nos dias 24 e 25 de dezembro, os equipamentos culturais e os estabelecimentos de restauração podem funcionar de acordo com o disposto no n.º 3 do artigo 32.º, independentemente da sua localização.\n\n2 - No dia 26 de dezembro de 2020, para efeitos do artigo 43.º, nos concelhos onde o mesmo seja aplicável, os estabelecimentos de restauração e similares podem funcionar, no que diz respeito ao serviço de refeições no próprio estabelecimento, até às 15:30 h."
+  },
+  "152012222": {
+   "fragment_id": "152012062",
+   "type": 8,
+   "heading": "Secção III — Disposições aplicáveis no período do Ano Novo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Disposições aplicáveis no período do Ano Novo"
+  },
+  "152012223": {
+   "fragment_id": "152012063",
+   "type": 11,
+   "heading": "Artigo 48.º — Limitação à circulação entre concelhos entre 31 de dezembro e 4 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Limitação à circulação entre concelhos entre 31 de dezembro e 4 de janeiro\n\nOs cidadãos não podem circular para fora do concelho do domicílio no período compreendido entre as 00:00 h do dia 31 de dezembro de 2020 e as 05:00 h do dia 4 de janeiro de 2021, sem prejuízo das exceções previstas no artigo 11.º do Decreto n.º 9/2020, de 21 de novembro, as quais são aplicáveis, com as necessárias adaptações."
+  },
+  "152012224": {
+   "fragment_id": "152012064",
+   "type": 11,
+   "heading": "Artigo 49.º — Proibição de circulação nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Proibição de circulação nos dias 31 de dezembro e 1 de janeiro\n\nA proibição de circulação na via pública prevista nos artigos 34.º e 39.º não é aplicável entre as 05:00 h do dia 31 de dezembro de 2020 e as 02:00 h do dia 1 de janeiro de 2021."
+  },
+  "152012225": {
+   "fragment_id": "152012065",
+   "type": 11,
+   "heading": "Artigo 50.º — Dever geral de recolhimento domiciliário nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Dever geral de recolhimento domiciliário nos dias 31 de dezembro e 1 de janeiro\n\nO dever geral de recolhimento domiciliário previsto nos artigos 35.º e 42.º não é aplicável entre as 05:00 h do dia 31 de dezembro de 2020 e as 02:00 h do dia 1 de janeiro de 2021."
+  },
+  "152012226": {
+   "fragment_id": "152012066",
+   "type": 11,
+   "heading": "Artigo 51.º — Horários no setor da restauração nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Horários no setor da restauração nos dias 31 de dezembro e 1 de janeiro\n\n1 - No dia 31 de dezembro, os estabelecimentos de restauração e similares podem funcionar de acordo com o disposto nas alíneas a) a c) do n.º 3 do artigo 32.º, independentemente da sua localização.\n\n2 - No dia 1 de janeiro de 2021, nos concelhos de risco muito elevado e extremo, os estabelecimentos de restauração e similares devem encerrar até às 15:30 h o serviço de refeições no próprio estabelecimento."
+  },
+  "152012227": {
+   "fragment_id": "152012067",
+   "type": 11,
+   "heading": "Artigo 52.º — Festas e celebrações nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Festas e celebrações nos dias 31 de dezembro e 1 de janeiro\n\nNos dias 31 de dezembro de 2020 e 1 de janeiro de 2021 é proibida a realização de festas ou celebrações públicas ou abertas ao público de cariz não religioso."
+  },
+  "152012228": {
+   "fragment_id": "152012068",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "152012229": {
+   "fragment_id": "152012069",
+   "type": 11,
+   "heading": "Artigo 53.º — Execução a nível local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Execução a nível local\n\nO Primeiro-Ministro procede à nomeação das autoridades que coordenam a execução da declaração do estado de emergência no território nacional continental, a nível local, nos termos do n.º 4 do artigo 20.º da Lei n.º 44/86, de 30 de setembro, na sua redação atual."
+  },
+  "152012230": {
+   "fragment_id": "152012070",
+   "type": 11,
+   "heading": "Artigo 54.º — Defesa nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Defesa nacional\n\nO membro do Governo responsável pela área da defesa nacional assegura a articulação com as restantes áreas governativas para garantir, quando necessário, o empenhamento de pessoas, meios, bens e serviços da defesa nacional necessários ao cumprimento do disposto no presente decreto."
+  },
+  "152012231": {
+   "fragment_id": "152012071",
+   "type": 11,
+   "heading": "Artigo 55.º — Administração interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Administração interna\n\nO membro do Governo responsável pela área da administração interna, com faculdade de delegação:\n\na) Determina o encerramento da circulação rodoviária e ferroviária, por razões de saúde pública, segurança ou fluidez do tráfego ou a restrição à circulação de determinados tipos de veículos nos casos e durante os períodos referidos nos artigos 34.º, 39.º e 40.º;\n\nb) Coordena uma estrutura de monitorização do estado de emergência, composta por representantes das áreas governativas definidos por despacho do Primeiro-Ministro e de representantes das forças e serviços de segurança e da Autoridade Nacional de Emergência e Proteção Civil, para efeitos de acompanhamento e produção de informação regular sobre a situação, designadamente para efeito do cumprimento do disposto no n.º 1 do artigo 28.º da Lei n.º 44/86, de 30 de setembro, na sua redação atual, sem prejuízo das competências próprias da secretária-geral do Sistema de Segurança Interna e do Gabinete Coordenador de Segurança."
+  },
+  "152012232": {
+   "fragment_id": "152012072",
+   "type": 11,
+   "heading": "Artigo 56.º — Proteção civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Proteção civil\n\nNo âmbito da proteção civil, e sem prejuízo do disposto na Lei n.º 44/86, de 30 de setembro, na sua redação atual:\n\na) São acionadas as estruturas de coordenação política e institucional territorialmente competentes, as quais avaliam, em função da evolução da situação, a eventual ativação dos planos de emergência de proteção civil do respetivo nível territorial;\n\nb) É efetuada a avaliação permanente da situação operacional e a correspondente adequação do estado de alerta especial do Sistema Integrado de Operações de Proteção e Socorro."
+  },
+  "152012233": {
+   "fragment_id": "152012073",
+   "type": 11,
+   "heading": "Artigo 57.º — Regulamentos e atos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Regulamentos e atos de execução\n\n1 - Os regulamentos e atos administrativos de execução do presente decreto são eficazes através de mera notificação ao destinatário, por via eletrónica ou outra, sendo dispensadas as demais formalidades aplicáveis, considerando-se notificados no próprio dia.\n\n2 - Para efeitos do disposto no número anterior, entende-se por realizada a notificação aos destinatários através da publicação dos regulamentos ou atos no site das entidades competentes para a aprovação dos regulamentos ou a prática dos atos."
+  },
+  "152012234": {
+   "fragment_id": "152012074",
+   "type": 11,
+   "heading": "Artigo 58.º — Fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Fiscalização\n\n1 - Compete às forças e serviços de segurança e às polícias municipais fiscalizar o cumprimento do disposto no presente decreto, mediante:\n\na) A sensibilização da comunidade quanto à interdição das deslocações que não sejam justificadas;\n\nb) A recomendação a todos os cidadãos do cumprimento do dever geral de recolhimento domiciliário;\n\nc) O encerramento dos estabelecimentos e a cessação das atividades previstas no anexo v do presente decreto, sem prejuízo do disposto no artigo 12.º;\n\nd) A cominação e a participação por crime de desobediência, nos termos e para os efeitos da alínea b) do n.º 1 do artigo 348.º do Código Penal, bem como do artigo 7.º da Lei n.º 44/86, de 30 de setembro, por violação do disposto nos artigos 11.º, 34.º, 39.º, 40.º, 43.º e 45.º a 52.º do presente decreto, bem como do confinamento obrigatório por quem a ele esteja sujeito nos termos do artigo 3.º;\n\ne) O acompanhamento e seguimento de pessoas em isolamento profilático ou em vigilância ativa;\n\nf) O aconselhamento da não concentração de pessoas na via pública e a dispersão das concentrações superiores a seis pessoas, salvo se pertencerem ao mesmo agregado familiar ou resultarem de exceções previstas no presente decreto.\n\n2 - As juntas de freguesia colaboram no cumprimento do disposto no presente decreto, designadamente no aconselhamento da não concentração de pessoas na via pública, na recomendação a todos os cidadãos do cumprimento da interdição das deslocações que não sejam justificadas, na sensibilização para o dever geral de recolhimento domiciliário e na sinalização, junto das forças e serviços de segurança, bem como da polícia municipal, de estabelecimentos a encerrar.\n\n3 - As forças e serviços de segurança reportam permanentemente ao membro do Governo responsável pela área da administração interna o grau de cumprimento pela população do disposto no presente decreto, com vista a que o Governo possa avaliar a todo o tempo a situação."
+  },
+  "152012235": {
+   "fragment_id": "152012275",
+   "type": 11,
+   "heading": "Artigo 59.º — Dever geral de cooperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º — Dever geral de cooperação\n\nDurante o período de vigência do estado de emergência os cidadãos e demais entidades têm o dever de colaboração, nomeadamente no cumprimento de ordens ou instruções dos órgãos e agentes responsáveis pela segurança, proteção civil e saúde pública, na pronta satisfação de solicitações que justificadamente lhes sejam feitas pelas entidades competentes para a concretização das medidas constantes do presente decreto."
+  },
+  "152012236": {
+   "fragment_id": "152012276",
+   "type": 11,
+   "heading": "Artigo 60.º — Salvaguarda de medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º — Salvaguarda de medidas\n\nO disposto no presente decreto não prejudica a existência e validade de outras medidas que já tenham sido adotadas no âmbito do combate à doença COVID-19, prevalecendo sobre as mesmas quando disponham em sentido contrário."
+  },
+  "152012237": {
+   "fragment_id": "152012277",
+   "type": 11,
+   "heading": "Artigo 61.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º — Disposição transitória\n\nÉ prorrogado até às 05:00 h do dia 9 de dezembro de 2020 o regime de proibição de circulação entre concelhos previsto no artigo 11.º do Decreto n.º 9/2020, de 21 de novembro."
+  },
+  "152012238": {
+   "fragment_id": "152012278",
+   "type": 11,
+   "heading": "Artigo 62.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º — Entrada em vigor e vigência\n\n1 - O presente decreto, com exceção do capítulo vi, vigora entre as 00:00 h do dia 9 de dezembro e as 23:59 h do dia 23 de dezembro de 2020, sem prejuízo do disposto no número seguinte.\n\n2 - Sem prejuízo do disposto na parte final do artigo 44.º, a vigência das normas do presente decreto, incluindo as constantes do capítulo vi, entre as 00:00 h de dia 24 de dezembro de 2020 e as 23:59 h do dia 7 de janeiro de 2021, depende da renovação da declaração do estado de emergência para esse período, habilitando, pelo menos, as mesmas restrições."
+  },
+  "152012240": {
+   "fragment_id": "152012280",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 2.º)\n\nConcelhos de risco moderado\n\n1 - Abrantes.\n\n2 - Albufeira.\n\n3 - Alcoutim.\n\n4 - Aljezur.\n\n5 - Aljustrel.\n\n6 - Almodôvar.\n\n7 - Alpiarça.\n\n8 - Alvaiázere.\n\n9 - Alvito.\n\n10 - Avis.\n\n11 - Batalha.\n\n12 - Beja.\n\n13 - Benavente.\n\n14 - Bombarral.\n\n15 - Borba.\n\n16 - Cadaval.\n\n17 - Caldas da Rainha.\n\n18 - Campo Maior.\n\n19 - Carrazeda de Ansiães.\n\n20 - Castanheira de Pera.\n\n21 - Castro Marim.\n\n22 - Castro Verde.\n\n23 - Constância.\n\n24 - Coruche.\n\n25 - Estremoz.\n\n26 - Ferreira do Alentejo.\n\n27 - Ferreira do Zêzere.\n\n28 - Figueiró dos Vinhos.\n\n29 - Fornos de Algodres.\n\n30 - Góis.\n\n31 - Idanha-a-Nova.\n\n32 - Loulé.\n\n33 - Lourinhã.\n\n34 - Mangualde.\n\n35 - Moimenta da Beira.\n\n36 - Monforte.\n\n37 - Mora.\n\n38 - Moura.\n\n39 - Nazaré.\n\n40 - Óbidos.\n\n41 - Olhão.\n\n42 - Oliveira de Frades.\n\n43 - Ourique.\n\n44 - Paredes de Coura.\n\n45 - Pedrógão Grande.\n\n46 - Ponte de Sor.\n\n47 - Portel.\n\n48 - Porto de Mós.\n\n49 - Proença-a-Nova.\n\n50 - Redondo.\n\n51 - Ribeira de Pena.\n\n52 - Salvaterra de Magos.\n\n53 - Santa Comba Dão.\n\n54 - Santiago do Cacém.\n\n55 - São Brás de Alportel.\n\n56 - São João da Pesqueira.\n\n57 - Sernancelhe.\n\n58 - Sertã.\n\n59 - Silves.\n\n60 - Sousel.\n\n61 - Tábua.\n\n62 - Tabuaço.\n\n63 - Tavira.\n\n64 - Tondela.\n\n65 - Vendas Novas.\n\n66 - Viana do Alentejo.\n\n67 - Vidigueira.\n\n68 - Vila de Rei.\n\n69 - Vila Flor.\n\n70 - Vila Nova da Barquinha.\n\n71 - Vila Real de Santo António.\n\n72 - Vila Velha de Ródão.\n\n73 - Vila Viçosa."
+  },
+  "152012241": {
+   "fragment_id": "152012281",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 2.º)\n\nConcelhos de risco elevado\n\n1 - Alcácer do Sal.\n\n2 - Alcobaça.\n\n3 - Alcochete.\n\n4 - Alenquer.\n\n5 - Almeida.\n\n6 - Almeirim.\n\n7 - Alter do Chão.\n\n8 - Amadora.\n\n9 - Arganil.\n\n10 - Arraiolos.\n\n11 - Arronches.\n\n12 - Arruda dos Vinhos.\n\n13 - Barrancos.\n\n14 - Carregal do Sal.\n\n15 - Cascais.\n\n16 - Castelo de Vide.\n\n17 - Castro Daire.\n\n18 - Celorico da Beira.\n\n19 - Coimbra.\n\n20 - Elvas.\n\n21 - Entroncamento.\n\n22 - Évora.\n\n23 - Faro.\n\n24 - Figueira de Castelo Rodrigo.\n\n25 - Fronteira.\n\n26 - Fundão.\n\n27 - Golegã.\n\n28 - Grândola.\n\n29 - Lagoa.\n\n30 - Lagos.\n\n31 - Leiria.\n\n32 - Lousã.\n\n33 - Mação.\n\n34 - Mafra.\n\n35 - Marinha Grande.\n\n36 - Mealhada.\n\n37 - Mêda.\n\n38 - Melgaço.\n\n39 - Mértola.\n\n40 - Mesão Frio.\n\n41 - Mira.\n\n42 - Mogadouro.\n\n43 - Moita.\n\n44 - Monção.\n\n45 - Monchique.\n\n46 - Montalegre.\n\n47 - Montemor-o-Novo.\n\n48 - Montemor-o-Velho.\n\n49 - Montijo.\n\n50 - Nelas.\n\n51 - Odivelas.\n\n52 - Oeiras.\n\n53 - Oleiros.\n\n54 - Oliveira do Hospital.\n\n55 - Ourém.\n\n56 - Palmela.\n\n57 - Penalva do Castelo.\n\n58 - Penamacor.\n\n59 - Penedono.\n\n60 - Penela.\n\n61 - Peniche.\n\n62 - Peso da Régua.\n\n63 - Pinhel.\n\n64 - Pombal.\n\n65 - Portimão.\n\n66 - Odemira.\n\n67 - Reguengos de Monsaraz.\n\n68 - Resende.\n\n69 - Sabrosa.\n\n70 - Santa Marta de Penaguião.\n\n71 - Santarém.\n\n72 - São Pedro do Sul.\n\n73 - Seixal.\n\n74 - Sesimbra.\n\n75 - Setúbal.\n\n76 - Sever do Vouga.\n\n77 - Sines.\n\n78 - Sintra.\n\n79 - Sobral de Monte Agraço.\n\n80 - Terras de Bouro.\n\n81 - Tomar.\n\n82 - Torres Novas.\n\n83 - Trancoso.\n\n84 - Vagos.\n\n85 - Vila do Bispo.\n\n86 - Vila Franca de Xira.\n\n87 - Vila Nova de Cerveira.\n\n88 - Vila Nova de Foz Côa.\n\n89 - Vila Nova de Poiares.\n\n90 - Vinhais.\n\n91 - Viseu.\n\n92 - Vouzela."
+  },
+  "152012242": {
+   "fragment_id": "152012282",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 4 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o n.º 4 do artigo 2.º)\n\nConcelhos de risco muito elevado\n\n1 - Águeda.\n\n2 - Aguiar da Beira.\n\n3 - Alandroal.\n\n4 - Albergaria-a-Velha.\n\n5 - Alcanena.\n\n6 - Alfândega da Fé.\n\n7 - Alijó.\n\n8 - Almada.\n\n9 - Amarante.\n\n10 - Amares.\n\n11 - Anadia.\n\n12 - Ansião.\n\n13 - Arcos de Valdevez.\n\n14 - Arouca.\n\n15 - Aveiro.\n\n16 - Azambuja.\n\n17 - Baião.\n\n18 - Barreiro.\n\n19 - Boticas.\n\n20 - Bragança.\n\n21 - Caminha.\n\n22 - Cantanhede.\n\n23 - Cartaxo.\n\n24 - Castelo Branco.\n\n25 - Castelo de Paiva.\n\n26 - Celorico de Basto.\n\n27 - Chamusca.\n\n28 - Cinfães.\n\n29 - Condeixa-a-Nova.\n\n30 - Covilhã.\n\n31 - Crato.\n\n32 - Cuba.\n\n33 - Estarreja.\n\n34 - Figueira da Foz.\n\n35 - Gondomar.\n\n36 - Gouveia.\n\n37 - Guarda.\n\n38 - Ílhavo.\n\n39 - Lamego.\n\n40 - Lisboa.\n\n41 - Loures.\n\n42 - Maia.\n\n43 - Manteigas.\n\n44 - Marco de Canaveses.\n\n45 - Matosinhos.\n\n46 - Miranda do Douro.\n\n47 - Mirandela.\n\n48 - Mortágua.\n\n49 - Mourão.\n\n50 - Murça.\n\n51 - Murtosa.\n\n52 - Oliveira de Azeméis.\n\n53 - Oliveira do Bairro.\n\n54 - Ovar.\n\n55 - Pampilhosa da Serra.\n\n56 - Penacova.\n\n57 - Ponte da Barca.\n\n58 - Ponte de Lima.\n\n59 - Porto.\n\n60 - Rio Maior.\n\n61 - Sabugal.\n\n62 - Sardoal.\n\n63 - Sátão.\n\n64 - Seia.\n\n65 - Serpa.\n\n66 - Soure.\n\n67 - Tarouca.\n\n68 - Torre de Moncorvo.\n\n69 - Torres Vedras.\n\n70 - Vale de Cambra.\n\n71 - Valongo.\n\n72 - Viana do Castelo.\n\n73 - Vila Nova de Gaia.\n\n74 - Vila Nova de Paiva.\n\n75 - Vila Pouca de Aguiar.\n\n76 - Vila Real.\n\n77 - Vila Verde.\n\n78 - Vimioso."
+  },
+  "152012243": {
+   "fragment_id": "152012283",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 4 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o n.º 4 do artigo 2.º)\n\nConcelhos de risco extremo\n\n1 - Armamar.\n\n2 - Barcelos.\n\n3 - Belmonte.\n\n4 - Braga.\n\n5 - Cabeceiras de Basto.\n\n6 - Chaves.\n\n7 - Espinho.\n\n8 - Esposende.\n\n9 - Fafe.\n\n10 - Felgueiras.\n\n11 - Freixo de Espada à Cinta.\n\n12 - Gavião.\n\n13 - Guimarães.\n\n14 - Lousada.\n\n15 - Macedo de Cavaleiros.\n\n16 - Marvão.\n\n17 - Miranda do Corvo.\n\n18 - Mondim de Basto.\n\n19 - Nisa.\n\n20 - Paços de Ferreira.\n\n21 - Paredes.\n\n22 - Penafiel.\n\n23 - Portalegre.\n\n24 - Póvoa de Lanhoso.\n\n25 - Póvoa de Varzim.\n\n26 - Santa Maria da Feira.\n\n27 - Santo Tirso.\n\n28 - São João da Madeira.\n\n29 - Trofa.\n\n30 - Valença.\n\n31 - Valpaços.\n\n32 - Vieira do Minho.\n\n33 - Vila do Conde.\n\n34 - Vila Nova de Famalicão.\n\n35 - Vizela."
+  },
+  "152012244": {
+   "fragment_id": "152012284",
+   "type": 14,
+   "heading": "Anexo V — [a que se referem o artigo 11.º, a alínea a) do artigo 12.º e a alínea c) do n.º 1 do artigo 58.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — [a que se referem o artigo 11.º, a alínea a) do artigo 12.º e a alínea c) do n.º 1 do artigo 58.º]\n\n1 - Atividades recreativas, de lazer e diversão:\n\nSalões de dança ou de festa;\n\nParques de diversões e parques recreativos e similares para crianças;\n\nOutros locais ou instalações semelhantes às anteriores, sem prejuízo do disposto no artigo 31.º\n\n2 - Atividades em espaços abertos, espaços e vias públicas, ou espaços e vias privadas equiparadas a vias públicas:\n\nDesfiles e festas populares ou manifestações folclóricas ou outras de qualquer natureza.\n\n3 - Espaços de jogos e apostas:\n\nSalões de jogos e salões recreativos.\n\n4 - Estabelecimentos de bebidas:\n\nEstabelecimentos de bebidas e similares, com ou sem espaços de dança, salvo quanto aos integrados em estabelecimentos turísticos e de alojamento local, para prestação de serviço exclusivamente aos respetivos hóspedes, sem prejuízo do disposto no artigo 17.º\n\n100000280"
+  },
+  "152012258": {
+   "fragment_id": "152012064",
+   "type": 11,
+   "heading": "Artigo 49.º — Proibição de circulação nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "###### Artigo 49.º — Proibição de circulação nos dias 31 de dezembro e 1 de janeiro\n\nA proibição de circulação na via pública prevista nos artigos 34.º e 39.º não é aplicável entre as 05:00 h do dia 31 de dezembro de 2020 e as 02:00 h do dia 1 de janeiro de 2021.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012246": {
+   "fragment_id": "152012285",
+   "type": 11,
+   "heading": "Artigo 49.º-A — Proibição de circulação na via pública nos dias 31 de dezembro e 1 a 3 de janeiro",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "###### Artigo 49.º-A — Proibição de circulação na via pública nos dias 31 de dezembro e 1 a 3 de janeiro\n\n1 - No dia 31 de dezembro de 2020, a partir das 23:00 h e até às 05:00 h de dia 1 de janeiro de 2021, é aplicável em todo o território nacional continental a proibição de circulação em espaços e vias públicas, ou em espaços e vias privadas equiparadas a vias públicas, nos termos previstos no artigo 34.º\n\n2 - Nos dias 1 a 3 de janeiro de 2021, até às 05:00 h do dia seguinte, é aplicável em todo o território nacional continental a proibição de circulação em espaços e vias públicas, ou em espaços e vias privadas equiparadas a vias públicas, nos termos previstos no artigo 40.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012250": {
+   "fragment_id": "152012286",
+   "type": 11,
+   "heading": "Artigo 49.º-B — Atividades de comércio a retalho e de prestação de serviços",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "###### Artigo 49.º-B — Atividades de comércio a retalho e de prestação de serviços\n\nEm todo o território nacional continental, nos dias 1 a 3 de janeiro de 2021, fora do período compreendido entre as 08:00 h e as 13:00 h, são suspensas as atividades de comércio a retalho e de prestação de serviços, sendo aplicável o disposto no artigo 43.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012259": {
+   "fragment_id": "152012065",
+   "type": 11,
+   "heading": "Artigo 50.º — Dever geral de recolhimento domiciliário nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "###### Artigo 50.º — Dever geral de recolhimento domiciliário nos dias 31 de dezembro e 1 de janeiro\n\nO dever geral de recolhimento domiciliário previsto nos artigos 35.º e 42.º não é aplicável entre as 05:00 h do dia 31 de dezembro de 2020 e as 02:00 h do dia 1 de janeiro de 2021.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012252": {
+   "fragment_id": "152012066",
+   "type": 11,
+   "heading": "Artigo 51.º — Horários no setor da restauração no dia 31 de dezembro",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "###### Artigo 51.º — Horários no setor da restauração no dia 31 de dezembro\n\n1 - No dia 31 de dezembro, em todo o território nacional continental, os estabelecimentos de restauração e similares funcionam de acordo com o disposto nas alíneas a) a c) do n.º 1 do artigo 36.º, independentemente da sua localização.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012253": {
+   "fragment_id": "152012067",
+   "type": 11,
+   "heading": "Artigo 52.º — Festas e celebrações nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Festas e celebrações nos dias 31 de dezembro e 1 de janeiro\n\nNos dias 31 de dezembro de 2020 e 1 de janeiro de 2021 é proibida a realização de festas ou celebrações públicas ou abertas ao público de cariz não religioso."
+  },
+  "152012239": {
+   "fragment_id": "152012279",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 4 de dezembro de 2020. - António Luís Santos da Costa.\n\nAssinado em 5 de dezembro de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 5 de dezembro de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "152012254": {
+   "fragment_id": "152012280",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 2.º)\n\nConcelhos de risco moderado\n\n1 - Albufeira\n\n2 - Alcobaça\n\n3 - Alcoutim\n\n4 - Aljezur\n\n5 - Aljustrel\n\n6 - Almeirim\n\n7 - Almodôvar\n\n8 - Alpiarça\n\n9 - Alvaiázere\n\n10 - Alvito\n\n11 - Arcos de Valdevez\n\n12 - Arganil\n\n13 - Arraiolos\n\n14 - Arronches\n\n15 - Avis\n\n16 - Barrancos\n\n17 - Beja\n\n18 - Benavente\n\n19 - Bombarral\n\n20 - Borba\n\n21 - Cadaval\n\n22 - Carrazeda de Ansiães\n\n23 - Castro Marim\n\n24 - Castro Verde\n\n25 - Constância\n\n26 - Coruche\n\n27 - Cuba\n\n28 - Entroncamento\n\n29 - Estremoz\n\n30 - Ferreira do Alentejo\n\n31 - Ferreira do Zêzere\n\n32 - Fornos de Algodres\n\n33 - Fronteira\n\n34 - Góis\n\n35 - Lagoa\n\n36 - Lagos\n\n37 - Mação\n\n38 - Mangualde\n\n39 - Mêda\n\n40 - Melgaço\n\n41 - Monchique\n\n42 - Mora\n\n43 - Moura\n\n44 - Nazaré\n\n45 - Oleiros\n\n46 - Olhão\n\n47 - Oliveira de Frades\n\n48 - Ourique\n\n49 - Pampilhosa da Serra\n\n50 - Paredes de Coura\n\n51 - Pedrógão Grande\n\n52 - Penalva do Castelo\n\n53 - Ponte de Sor\n\n54 - Portel\n\n55 - Proença-a-Nova\n\n56 - Redondo\n\n57 - Santiago do Cacém\n\n58 - São Brás de Alportel\n\n59 - Sardoal\n\n60 - Sertã\n\n61 - Silves\n\n62 - Sines\n\n63 - Sousel\n\n64 - Tábua\n\n65 - Tavira\n\n66 - Tomar\n\n67 - Viana do Alentejo\n\n68 - Vidigueira\n\n69 - Vila de Rei\n\n70 - Vila do Bispo\n\n71 - Vila Nova da Barquinha\n\n72 - Vila Nova de Cerveira\n\n73 - Vila Nova de Foz Côa\n\n74 - Vila Nova de Paiva\n\n75 - Vila Nova de Poiares\n\n76 - Vila Real de Santo António\n\n77 - Vila Viçosa\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012255": {
+   "fragment_id": "152012281",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 2.º)",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 2.º)\n\nConcelhos de risco elevado\n\n1 - Abrantes\n\n2 - Alandroal\n\n3 - Alcácer do Sal\n\n4 - Alcanena\n\n5 - Alcochete\n\n6 - Alijó\n\n7 - Amadora\n\n8 - Arruda dos Vinhos\n\n9 - Aveiro\n\n10 - Batalha\n\n11 - Belmonte\n\n12 - Cabeceiras de Basto\n\n13 - Caldas da Rainha\n\n14 - Campo Maior\n\n15 - Cantanhede\n\n16 - Carregal do Sal\n\n17 - Cartaxo\n\n18 - Cascais\n\n19 - Castanheira de Pera\n\n20 - Castelo de Paiva\n\n21 - Castro Daire\n\n22 - Celorico da Beira\n\n23 - Celorico de Basto\n\n24 - Coimbra\n\n25 - Condeixa-a-Nova\n\n26 - Covilhã\n\n27 - Elvas\n\n28 - Faro\n\n29 - Figueira da Foz\n\n30 - Fundão\n\n31 - Golegã\n\n32 - Gouveia\n\n33 - Leiria\n\n34 - Loulé\n\n35 - Loures\n\n36 - Lourinhã\n\n37 - Lousã\n\n38 - Macedo de Cavaleiros\n\n39 - Mafra\n\n40 - Manteigas\n\n41 - Marinha Grande\n\n42 - Mira\n\n43 - Mirandela\n\n44 - Mogadouro\n\n45 - Moimenta da Beira\n\n46 - Montemor-o-Velho\n\n47 - Nisa\n\n48 - Óbidos\n\n49 - Odemira\n\n50 - Odivelas\n\n51 - Oeiras\n\n52 - Oliveira do Bairro\n\n53 - Ourém\n\n54 - Palmela\n\n55 - Penedono\n\n56 - Penela\n\n57 - Peniche\n\n58 - Pombal\n\n59 - Portimão\n\n60 - Reguengos de Monsaraz\n\n61 - Ribeira de Pena\n\n62 - Rio Maior\n\n63 - Sabrosa\n\n64 - Salvaterra de Magos\n\n65 - Santa Comba Dão\n\n66 - Santarém\n\n67 - São João da Pesqueira\n\n68 - São Pedro do Sul\n\n69 - Sátão\n\n70 - Seixal\n\n71 - Sesimbra\n\n72 - Setúbal\n\n73 - Sever do Vouga\n\n74 - Sintra\n\n75 - Sobral de Monte Agraço\n\n76 - Soure\n\n77 - Tarouca\n\n78 - Tondela\n\n79 - Torres Novas\n\n80 - Torres Vedras\n\n81 - Trancoso\n\n82 - Vagos\n\n83 - Vale de Cambra\n\n84 - Valença\n\n85 - Vendas Novas\n\n86 - Viana do Castelo\n\n87 - Vila Flor\n\n88 - Vila Franca de Xira\n\n89 - Vila Velha de Ródão\n\n90 - Vinhais\n\n91 - Vizela\n\n92 - Vouzela\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012256": {
+   "fragment_id": "152012282",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 4 do artigo 2.º)",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 4 do artigo 2.º)\n\nConcelhos de risco muito elevado\n\n1 - Águeda\n\n2 - Albergaria-a-Velha\n\n3 - Alenquer\n\n4 - Alfândega da Fé\n\n5 - Almada\n\n6 - Almeida\n\n7 - Amarante\n\n8 - Amares\n\n9 - Anadia\n\n10 - Ansião\n\n11 - Arouca\n\n12 - Azambuja\n\n13 - Baião\n\n14 - Barreiro\n\n15 - Boticas\n\n16 - Braga\n\n17 - Caminha\n\n18 - Castelo Branco\n\n19 - Chamusca\n\n20 - Cinfães\n\n21 - Espinho\n\n22 - Estarreja\n\n23 - Évora\n\n24 - Fafe\n\n25 - Felgueiras\n\n26 - Figueira de Castelo Rodrigo\n\n27 - Figueiró dos Vinhos\n\n28 - Freixo de Espada à Cinta\n\n29 - Gondomar\n\n30 - Grândola\n\n31 - Guarda\n\n32 - Idanha-a-Nova\n\n33 - Ílhavo\n\n34 - Lamego\n\n35 - Lisboa\n\n36 - Lousada\n\n37 - Maia\n\n38 - Marco de Canaveses\n\n39 - Matosinhos\n\n40 - Mealhada\n\n41 - Mértola\n\n42 - Mesão Frio\n\n43 - Miranda do Corvo\n\n44 - Miranda do Douro\n\n45 - Moita\n\n46 - Monção\n\n47 - Montalegre\n\n48 - Montemor-o-Novo\n\n49 - Montijo\n\n50 - Murça\n\n51 - Murtosa\n\n52 - Nelas\n\n53 - Oliveira do Hospital\n\n54 - Ovar\n\n55 - Paços de Ferreira\n\n56 - Paredes\n\n57 - Penacova\n\n58 - Penafiel\n\n59 - Peso da Régua\n\n60 - Ponte da Barca\n\n61 - Ponte de Lima\n\n62 - Portalegre\n\n63 - Porto\n\n64 - Porto de Mós\n\n65 - Resende\n\n66 - Sabugal\n\n67 - Santa Maria da Feira\n\n68 - Santo Tirso\n\n69 - São João da Madeira\n\n70 - Seia\n\n71 - Sernancelhe\n\n72 - Serpa\n\n73 - Terras de Bouro\n\n74 - Torre de Moncorvo\n\n75 - Valongo\n\n76 - Vila Nova de Gaia\n\n77 - Vila Real\n\n78 - Vila Verde\n\n79 - Viseu\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "152012257": {
+   "fragment_id": "152012283",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 4 do artigo 2.º)",
+   "in_force_from": "2020-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 4 do artigo 2.º)\n\nConcelhos de risco extremo\n\n1 - Aguiar da Beira\n\n2 - Alter do Chão\n\n3 - Armamar\n\n4 - Barcelos\n\n5 - Bragança\n\n6 - Castelo de Vide\n\n7 - Chaves\n\n8 - Crato\n\n9 - Esposende\n\n10 - Gavião\n\n11 - Guimarães\n\n12 - Marvão\n\n13 - Mondim de Basto\n\n14 - Monforte\n\n15 - Mortágua\n\n16 - Mourão\n\n17 - Oliveira de Azeméis\n\n18 - Penamacor\n\n19 - Pinhel\n\n20 - Póvoa de Lanhoso\n\n21 - Póvoa de Varzim\n\n22 - Santa Marta de Penaguião\n\n23 - Tabuaço\n\n24 - Trofa\n\n25 - Valpaços\n\n26 - Vieira do Minho\n\n27 - Vila do Conde\n\n28 - Vila Nova de Famalicão\n\n29 - Vila Pouca de Aguiar\n\n30 - Vimioso\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "153493582": {
+   "fragment_id": "152012005",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto regulamenta a prorrogação do estado de emergência efetuada pelo Decreto do Presidente da República n.º 6-A/2021, de 6 de janeiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493583": {
+   "fragment_id": "152012006",
+   "type": 11,
+   "heading": "Artigo 2.º — Aplicação territorial",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 2.º — Aplicação territorial\n\n1 - Com exceção do disposto no n.º 2 do artigo 61.º-A, que apenas é aplicável aos concelhos nele referidos, o disposto nos artigos 3.º a 31.º, 53.º a 60.º a 62.º é aplicável a todo o território nacional continental.\n\n2 - O disposto nos artigos 32.º e 33.º é aplicável apenas aos concelhos considerados pela Direção-Geral da Saúde (DGS) como sendo de risco moderado, os quais são elencados no anexo i do presente decreto e do qual faz parte integrante (concelhos de risco moderado).\n\n3 - O disposto nos artigos 34.º a 38.º é aplicável apenas aos concelhos considerados pela DGS como sendo de risco elevado, os quais são elencados no anexo ii do presente decreto e do qual faz parte integrante (concelhos de risco elevado).\n\n4 - O disposto nos artigos 39.º a 43.º é aplicável apenas aos concelhos considerados pela DGS como sendo de risco muito elevado e extremo, os quais são elencados, respetivamente, nos anexos iii e iv do presente decreto e do qual fazem parte integrante (concelhos de risco muito elevado e concelhos de risco extremo, respetivamente).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493592": {
+   "fragment_id": "152012057",
+   "type": 11,
+   "heading": "Artigo 44.º — Eventual renovação do estado de emergência",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 44.º — Eventual renovação do estado de emergência\n\nCaso se verifique a renovação do estado de emergência a partir das 00:00 h do dia 24 de dezembro, é prorrogada a vigência do presente decreto, com as alterações constantes do presente capítulo, salvo se a situação epidemiológica impuser uma revisão intercalar a 18 de dezembro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493593": {
+   "fragment_id": "152012059",
+   "type": 11,
+   "heading": "Artigo 45.º — Proibição de circulação nos dias 23 a 26 de dezembro",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 45.º — Proibição de circulação nos dias 23 a 26 de dezembro\n\n1 - A proibição de circulação na via pública prevista nos artigos 34.º e 39.º:\n\na) Não é aplicável no dia 23 de dezembro de 2020, no período após as 23:00 h e até às 05:00 h do dia seguinte, para as pessoas que se encontrem em viagem;\n\nb) Não é aplicável nos dias 24 e 25 de dezembro de 2020, no período após as 23:00 h e até às 02:00 h do dia seguinte.\n\n2 - No dia 26 de dezembro, a proibição de circulação na via pública aos sábados a que alude o n.º 1 do artigo 40.º, nos concelhos onde o mesmo seja aplicável, inicia-se às 23:00 h.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493594": {
+   "fragment_id": "152012060",
+   "type": 11,
+   "heading": "Artigo 46.º — Dever geral de recolhimento domiciliário nos dias 23 a 26 de dezembro",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 46.º — Dever geral de recolhimento domiciliário nos dias 23 a 26 de dezembro\n\nO dever geral de recolhimento domiciliário previsto nos artigos 35.º e 42.º não é aplicável nos dias 23 a 26 de dezembro de 2020, inclusive.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493595": {
+   "fragment_id": "152012061",
+   "type": 11,
+   "heading": "Artigo 47.º — Horários no setor da cultura e no setor da restauração nos dias 24 a 26 de dezembro",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 47.º — Horários no setor da cultura e no setor da restauração nos dias 24 a 26 de dezembro\n\n1 - Nos dias 24 e 25 de dezembro, os equipamentos culturais e os estabelecimentos de restauração podem funcionar de acordo com o disposto no n.º 3 do artigo 32.º, independentemente da sua localização.\n\n2 - No dia 26 de dezembro de 2020, para efeitos do artigo 43.º, nos concelhos onde o mesmo seja aplicável, os estabelecimentos de restauração e similares podem funcionar, no que diz respeito ao serviço de refeições no próprio estabelecimento, até às 15:30 h.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493596": {
+   "fragment_id": "152012063",
+   "type": 11,
+   "heading": "Artigo 48.º — Limitação à circulação entre concelhos entre 31 de dezembro e 4 de janeiro",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 48.º — Limitação à circulação entre concelhos entre 31 de dezembro e 4 de janeiro\n\nOs cidadãos não podem circular para fora do concelho do domicílio no período compreendido entre as 00:00 h do dia 31 de dezembro de 2020 e as 05:00 h do dia 4 de janeiro de 2021, sem prejuízo das exceções previstas no artigo 11.º do Decreto n.º 9/2020, de 21 de novembro, as quais são aplicáveis, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493597": {
+   "fragment_id": "152012285",
+   "type": 11,
+   "heading": "Artigo 49.º-A — Proibição de circulação na via pública nos dias 31 de dezembro e 1 a 3 de janeiro",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "###### Artigo 49.º-A — Proibição de circulação na via pública nos dias 31 de dezembro e 1 a 3 de janeiro\n\n1 - No dia 31 de dezembro de 2020, a partir das 23:00 h e até às 05:00 h de dia 1 de janeiro de 2021, é aplicável em todo o território nacional continental a proibição de circulação em espaços e vias públicas, ou em espaços e vias privadas equiparadas a vias públicas, nos termos previstos no artigo 34.º\n\n2 - Nos dias 1 a 3 de janeiro de 2021, até às 05:00 h do dia seguinte, é aplicável em todo o território nacional continental a proibição de circulação em espaços e vias públicas, ou em espaços e vias privadas equiparadas a vias públicas, nos termos previstos no artigo 40.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "153493598": {
+   "fragment_id": "152012286",
+   "type": 11,
+   "heading": "Artigo 49.º-B — Atividades de comércio a retalho e de prestação de serviços",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08",
+    "Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "###### Artigo 49.º-B — Atividades de comércio a retalho e de prestação de serviços\n\nEm todo o território nacional continental, nos dias 1 a 3 de janeiro de 2021, fora do período compreendido entre as 08:00 h e as 13:00 h, são suspensas as atividades de comércio a retalho e de prestação de serviços, sendo aplicável o disposto no artigo 43.º\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "153493599": {
+   "fragment_id": "152012067",
+   "type": 11,
+   "heading": "Artigo 52.º — Festas e celebrações nos dias 31 de dezembro e 1 de janeiro",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 52.º — Festas e celebrações nos dias 31 de dezembro e 1 de janeiro\n\nNos dias 31 de dezembro de 2020 e 1 de janeiro de 2021 é proibida a realização de festas ou celebrações públicas ou abertas ao público de cariz não religioso.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493584": {
+   "fragment_id": "152012074",
+   "type": 11,
+   "heading": "Artigo 58.º — Fiscalização",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 58.º — Fiscalização\n\n1 - Compete às forças e serviços de segurança e às polícias municipais fiscalizar o cumprimento do disposto no presente decreto, mediante:\n\na) A sensibilização da comunidade quanto à interdição das deslocações que não sejam justificadas;\n\nb) A recomendação a todos os cidadãos do cumprimento do dever geral de recolhimento domiciliário;\n\nc) O encerramento dos estabelecimentos e a cessação das atividades previstas no anexo v do presente decreto, sem prejuízo do disposto no artigo 12.º;\n\nd) A cominação e a participação por crime de desobediência, nos termos e para os efeitos da alínea b) do n.º 1 do artigo 348.º do Código Penal, bem como do artigo 7.º da Lei n.º 44/86, de 30 de setembro, por violação do disposto nos artigos 11.º, 34.º, 39.º, 40.º e 43.º do presente decreto, bem como do confinamento obrigatório por quem a ele esteja sujeito nos termos do artigo 3.º;\n\ne) O acompanhamento e seguimento de pessoas em isolamento profilático ou em vigilância ativa;\n\nf) O aconselhamento da não concentração de pessoas na via pública e a dispersão das concentrações superiores a seis pessoas, salvo se pertencerem ao mesmo agregado familiar ou resultarem de exceções previstas no presente decreto.\n\n2 - As juntas de freguesia colaboram no cumprimento do disposto no presente decreto, designadamente no aconselhamento da não concentração de pessoas na via pública, na recomendação a todos os cidadãos do cumprimento da interdição das deslocações que não sejam justificadas, na sensibilização para o dever geral de recolhimento domiciliário e na sinalização, junto das forças e serviços de segurança, bem como da polícia municipal, de estabelecimentos a encerrar.\n\n3 - As forças e serviços de segurança reportam permanentemente ao membro do Governo responsável pela área da administração interna o grau de cumprimento pela população do disposto no presente decreto, com vista a que o Governo possa avaliar a todo o tempo a situação.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493600": {
+   "fragment_id": "152012277",
+   "type": 11,
+   "heading": "Artigo 61.º — Disposição transitória",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 61.º — Disposição transitória\n\nÉ prorrogado até às 05:00 h do dia 9 de dezembro de 2020 o regime de proibição de circulação entre concelhos previsto no artigo 11.º do Decreto n.º 9/2020, de 21 de novembro.\n\n> Revogado pelo/a Artigo 5.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493586": {
+   "fragment_id": "153493496",
+   "type": 11,
+   "heading": "Artigo 61.º-A — Disposições especiais aplicáveis nos dias 8 a 11 de janeiro de 2021",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 61.º-A — Disposições especiais aplicáveis nos dias 8 a 11 de janeiro de 2021\n\n1 - Os cidadãos não podem circular para fora do concelho do domicílio no período compreendido entre as 23:00 h do dia 8 de janeiro de 2021 e as 05:00 h do dia 11 de janeiro de 2021, sem prejuízo das exceções previstas no artigo 11.º do Decreto n.º 9/2020, de 21 de novembro, as quais são aplicáveis, com as necessárias adaptações.\n\n2 - No dias 9 e 10 de janeiro de 2021, nos concelhos de risco elevado, é aplicável o disposto nos artigos 40.º, 42.º e 43.º\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493587": {
+   "fragment_id": "152012278",
+   "type": 11,
+   "heading": "Artigo 62.º — Entrada em vigor",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+   ],
+   "markdown": "###### Artigo 62.º — Entrada em vigor\n\n1 - O presente decreto entra em vigor às 00:00 h do dia 8 de janeiro de 2021.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08"
+  },
+  "153493588": {
+   "fragment_id": "152012280",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 2.º)\n\nConcelhos de risco moderado\n\n1 - Alcoutim\n\n2 - Aljezur\n\n3 - Almeida\n\n4 - Arronches\n\n5 - Barrancos\n\n6 - Carrazeda de Ansiães\n\n7 - Castanheira de Pêra\n\n8 - Castelo de Vide\n\n9 - Coruche\n\n10 - Ferreira do Alentejo\n\n11 - Freixo de Espada à Cinta\n\n12 - Lagoa\n\n13 - Manteigas\n\n14 - Monchique\n\n15 - Odemira\n\n16 - Pampilhosa da Serra\n\n17 - Proença-a-Nova\n\n18 - Resende\n\n19 - Santiago do Cacém\n\n20 - Sardoal\n\n21 - Sernancelhe\n\n22 - Sines\n\n23 - Torre de Moncorvo\n\n24 - Vila de Rei\n\n25 - Vila do Bispo\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "153493589": {
+   "fragment_id": "152012281",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 3 do artigo 2.º)",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo II — (a que se refere o n.º 3 do artigo 2.º)\n\nConcelhos de risco elevado\n\n1 - Abrantes\n\n2 - Alenquer\n\n3 - Aljustrel\n\n4 - Almeirim\n\n5 - Aveiro\n\n6 - Azambuja\n\n7 - Baião\n\n8 - Belmonte\n\n9 - Bombarral\n\n10 - Cadaval\n\n11 - Campo Maior\n\n12 - Cartaxo\n\n13 - Castelo de Paiva\n\n14 - Castro Marim\n\n15 - Castro Verde\n\n16 - Chamusca\n\n17 - Cinfães\n\n18 - Covilhã\n\n19 - Espinho\n\n20 - Figueira da Foz\n\n21 - Golegã\n\n22 - Gouveia\n\n23 - Grândola\n\n24 - Lagos\n\n25 - Loulé\n\n26 - Lourinhã\n\n27 - Lousã\n\n28 - Lousada\n\n29 - Maia\n\n30 - Mesão Frio\n\n31 - Mirandela\n\n32 - Monção\n\n33 - Monforte\n\n34 - Montemor-o-Velho\n\n35 - Moura\n\n36 - Nazaré\n\n37 - Oleiros\n\n38 - Olhão\n\n39 - Paços de Ferreira\n\n40 - Paredes\n\n41 - Paredes de Coura\n\n42 - Penafiel\n\n43 - Penedono\n\n44 - Ponte de Lima\n\n45 - Ponte de Sor\n\n46 - Portalegre\n\n47 - Portimão\n\n48 - Sabrosa\n\n49 - Sabugal\n\n50 - Salvaterra de Magos\n\n51 - São Brás de Alportel\n\n52 - São Pedro do Sul\n\n53 - Seia\n\n54 - Serpa\n\n55 - Silves\n\n56 - Sintra\n\n57 - Vagos\n\n58 - Vale de Cambra\n\n59 - Valença\n\n60 - Valpaços\n\n61 - Vila Nova de Cerveira\n\n62 - Vila Nova de Foz Côa\n\n63 - Vila Velha de Ródão\n\n64 - Vila Viçosa\n\n65 - Vinhais\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "153493590": {
+   "fragment_id": "152012282",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o n.º 4 do artigo 2.º)",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo III — (a que se refere o n.º 4 do artigo 2.º)\n\nConcelhos de risco muito elevado\n\n1 - Águeda\n\n2 - Alandroal\n\n3 - Albergaria-a-Velha\n\n4 - Albufeira\n\n5 - Alcanena\n\n6 - Alcobaça\n\n7 - Alfândega da Fé\n\n8 - Alijó\n\n9 - Almada\n\n10 - Almodôvar\n\n11 - Alpiarça\n\n12 - Alter do Chão\n\n13 - Alvaiázere\n\n14 - Alvito\n\n15 - Amadora\n\n16 - Amarante\n\n17 - Amares\n\n18 - Arcos de Valdevez\n\n19 - Arganil\n\n20 - Arouca\n\n21 - Arraiolos\n\n22 - Arruda dos Vinhos\n\n23 - Avis\n\n24 - Barreiro\n\n25 - Batalha\n\n26 - Beja\n\n27 - Benavente\n\n28 - Braga\n\n29 - Bragança\n\n30 - Cabeceiras de Basto\n\n31 - Caldas da Rainha\n\n32 - Caminha\n\n33 - Cantanhede\n\n34 - Carregal do Sal\n\n35 - Cascais\n\n36 - Castelo Branco\n\n37 - Castro Daire\n\n38 - Celorico de Basto\n\n39 - Chaves\n\n40 - Coimbra\n\n41 - Condeixa-a-Nova\n\n42 - Constância\n\n43 - Entroncamento\n\n44 - Estarreja\n\n45 - Estremoz\n\n46 - Évora\n\n47 - Fafe\n\n48 - Faro\n\n49 - Felgueiras\n\n50 - Figueira de Castelo Rodrigo\n\n51 - Fronteira\n\n52 - Fundão\n\n53 - Góis\n\n54 - Gondomar\n\n55 - Guimarães\n\n56 - Ílhavo\n\n57 - Leiria\n\n58 - Lisboa\n\n59 - Loures\n\n60 - Mafra\n\n61 - Marco de Canaveses\n\n62 - Marinha Grande\n\n63 - Marvão\n\n64 - Matosinhos\n\n65 - Mealhada\n\n66 - Melgaço\n\n67 - Mira\n\n68 - Miranda do Corvo\n\n69 - Moita\n\n70 - Mondim de Basto\n\n71 - Montemor-o-Novo\n\n72 - Montijo\n\n73 - Mortágua\n\n74 - Murça\n\n75 - Nelas\n\n76 - Óbidos\n\n77 - Odivelas\n\n78 - Oeiras\n\n79 - Oliveira de Azeméis\n\n80 - Oliveira de Frades\n\n81 - Oliveira do Bairro\n\n82 - Ourém\n\n83 - Ourique\n\n84 - Ovar\n\n85 - Palmela\n\n86 - Pedrógão Grande\n\n87 - Penacova\n\n88 - Penalva do Castelo\n\n89 - Penela\n\n90 - Peniche\n\n91 - Pombal\n\n92 - Porto\n\n93 - Porto de Mós\n\n94 - Redondo\n\n95 - Reguengos de Monsaraz\n\n96 - Ribeira de Pena\n\n97 - Rio Maior\n\n98 - Santa Comba Dão\n\n99 - Santa Maria da Feira\n\n100 - Santa Marta de Penaguião\n\n101 - Santarém\n\n102 - Santo Tirso\n\n103 - São João da Madeira\n\n104 - Sátão\n\n105 - Seixal\n\n106 - Sertã\n\n107 - Sesimbra\n\n108 - Setúbal\n\n109 - Sever do Vouga\n\n110 - Sobral de Monte Agraço\n\n111 - Soure\n\n112 - Sousel\n\n113 - Tarouca\n\n114 - Terras de Bouro\n\n115 - Tomar\n\n116 - Tondela\n\n117 - Torres Vedras\n\n118 - Trofa\n\n119 - Valongo\n\n120 - Viana do Castelo\n\n121 - Vieira do Minho\n\n122 - Vila Flor\n\n123 - Vila Franca de Xira\n\n124 - Vila Nova da Barquinha\n\n125 - Vila Nova de Famalicão\n\n126 - Vila Nova de Gaia\n\n127 - Vila Pouca de Aguiar\n\n128 - Vila Real\n\n129 - Vila Real de Santo António\n\n130 - Viseu\n\n131 - Vizela\n\n132 - Vouzela\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  },
+  "153493591": {
+   "fragment_id": "152012283",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o n.º 4 do artigo 2.º)",
+   "in_force_from": "2021-01-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08",
+    "Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+   ],
+   "markdown": "## Anexo IV — (a que se refere o n.º 4 do artigo 2.º)\n\nConcelhos de risco extremo\n\n1 - Aguiar da Beira\n\n2 - Alcácer do Sal\n\n3 - Alcochete\n\n4 - Anadia\n\n5 - Ansião\n\n6 - Armamar\n\n7 - Barcelos\n\n8 - Borba\n\n9 - Boticas\n\n10 - Celorico da Beira\n\n11 - Crato\n\n12 - Cuba\n\n13 - Elvas\n\n14 - Esposende\n\n15 - Ferreira do Zêzere\n\n16 - Figueiró dos Vinhos\n\n17 - Fornos de Algodres\n\n18 - Gavião\n\n19 - Guarda\n\n20 - Idanha-a-Nova\n\n21 - Lamego\n\n22 - Mação\n\n23 - Macedo de Cavaleiros\n\n24 - Mangualde\n\n25 - Mêda\n\n26 - Mértola\n\n27 - Miranda do Douro\n\n28 - Mogadouro\n\n29 - Moimenta da Beira\n\n30 - Montalegre\n\n31 - Mora\n\n32 - Mourão\n\n33 - Murtosa\n\n34 - Nisa\n\n35 - Oliveira do Hospital\n\n36 - Penamacor\n\n37 - Peso da Régua\n\n38 - Pinhel\n\n39 - Ponte da Barca\n\n40 - Portel\n\n41 - Póvoa de Lanhoso\n\n42 - Póvoa de Varzim\n\n43 - São João da Pesqueira\n\n44 - Tábua\n\n45 - Tabuaço\n\n46 - Tavira\n\n47 - Torres Novas\n\n48 - Trancoso\n\n49 - Vendas Novas\n\n50 - Viana do Alentejo\n\n51 - Vidigueira\n\n52 - Vila do Conde\n\n53 - Vila Nova de Paiva\n\n54 - Vila Nova de Poiares\n\n55 - Vila Verde\n\n56 - Vimioso\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 2-A/2021 - Diário da República n.º 4/2021, 2º Suplemento, Série I de 2021-01-07](https://diariodarepublica.pt/dr/detalhe/decreto/2-a-2021-153341303), em vigor a partir de 2021-01-08\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto n.º 11-A/2020 - Diário da República n.º 246/2020, 2º Suplemento, Série I de 2020-12-21](https://diariodarepublica.pt/dr/detalhe/decreto/11-a-2020-151904698), em vigor a partir de 2020-12-24"
+  }
+ }
+}

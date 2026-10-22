@@ -1,0 +1,382 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:599713:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-117658812",
+ "dre_path": "/dr/detalhe/decreto-lei/1-1987-599713",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1987-01-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "206055583",
+    "117658309",
+    "117658310",
+    "117658311",
+    "117658312",
+    "117658313",
+    "117658314",
+    "117658315",
+    "117658316",
+    "117658317"
+   ]
+  },
+  {
+   "date": "1988-01-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:662751:por",
+     "title": "Lei n.º 2/88",
+     "published": "1988-01-26",
+     "dre_path": "/dr/detalhe/lei/2-1988-662751"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 7.º"
+   ],
+   "fragments": [
+    "117658308",
+    "117658309",
+    "117658310",
+    "117658311",
+    "117658312",
+    "117658313",
+    "117658314",
+    "117658322",
+    "117658316",
+    "117658317",
+    "117658318"
+   ]
+  },
+  {
+   "date": "1996-03-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:477288:por",
+     "title": "Lei n.º 10-B/96",
+     "published": "1996-03-23",
+     "dre_path": "/dr/detalhe/lei/10-b-1996-477288"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "117658308",
+    "117658309",
+    "117658310",
+    "117658311",
+    "117658312",
+    "117658313",
+    "117658323",
+    "117658322",
+    "117658316",
+    "117658317",
+    "117658318"
+   ]
+  },
+  {
+   "date": "2019-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:117537583:por",
+     "title": "Lei n.º 71/2018",
+     "published": "2018-12-31",
+     "dre_path": "/dr/detalhe/lei/71-2018-117537583"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 8.º"
+   ],
+   "fragments": [
+    "117658308",
+    "117658324",
+    "117658310",
+    "117658311",
+    "117658312",
+    "117658313",
+    "117658323",
+    "117658322",
+    "117658325",
+    "117658317",
+    "117658318"
+   ]
+  },
+  {
+   "date": "2023-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:205557192:por",
+     "title": "Lei n.º 24-D/2022",
+     "published": "2022-12-30",
+     "dre_path": "/dr/detalhe/lei/24-d-2022-205557192"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "206055583",
+    "206055584",
+    "206055585",
+    "206055586",
+    "206055587",
+    "206055588",
+    "206055589",
+    "206055590",
+    "206055591",
+    "206055592",
+    "206055593"
+   ]
+  }
+ ],
+ "fragments": {
+  "206055583": {
+   "fragment_id": "117658813",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-01-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 1/87\n\nde 3 de Janeiro\n\nO Decreto-Lei n.º 246/85, de 12 de Julho, veio regulamentar a actividade dos fundos de investimento imobiliário.\n\nO Governo reconhece o importante contributo que este novo tipo de instituições financeiras poderá trazer à formação das poupanças e à sua mobilização para investimentos no sector imobiliário. Acrescem os efeitos positivos que por essa via se induzirão nas indústrias da construção e no mercado de arrendamento de imóveis para habitação e para escritórios.\n\nTorna-se necessário, no sentido de estabelecer condições para criação de fundos de investimento com estas características, definir um quadro fiscal adequado.\n\nO Governo propôs oportunamente e obteve da Assembleia da República a necessária autorização para o efeito.\n\nAssim, ao abrigo da autorização conferida pelo artigo 51.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "117658309": {
+   "fragment_id": "117658814",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nSão isentas de sisa as aquisições de bens imóveis efectuadas para um fundo de investimento imobiliário pela respectiva sociedade gestora."
+  },
+  "117658310": {
+   "fragment_id": "117658815",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nOs rendimentos provenientes de bens imóveis que integrem o património de um fundo de investimento imobiliário estão isentos de contribuição predial nos cinco primeiros anos após a data da respectiva aquisição."
+  },
+  "117658311": {
+   "fragment_id": "117658816",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nSão isentas de imposto de mais-valias as transmissões onerosas de imóveis integrados num fundo de investimento imobiliário, salvo tratando-se de terrenos para construção."
+  },
+  "117658312": {
+   "fragment_id": "117658817",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs rendimentos provenientes dos certificados de participação em fundos de investimento imobiliário ficam isentos dos impostos de capitais e complementar, secção A."
+  },
+  "117658313": {
+   "fragment_id": "117658818",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Para efeitos de imposto complementar, secção A, será deduzida ao rendimento global líquido relativo aos anos de 1986 a 1989, até ao limite de 100000$00, a quantia equivalente a 10% do valor do investimento efectuado na subscrição de certificados de participação em fundos de investimento imobiliário.\n\n2 - A dedução referida no número anterior é efectuada no rendimento respeitante ao ano da subscrição dos certificados, dando apenas direito à mesma o valor do investimento correspondente aos certificados depositados no banco depositário dos valores que integram o património do fundo de investimento que os emitiu.\n\n3 - Se os certificados que tiverem dado lugar à dedução a que se refere o n.º 1 forem resgatados ou transmitidos por acto entre vivos durante o período de três anos a contar da data da respectiva subscrição, o montante que tiver sido deduzido acresce ao rendimento, para efeitos do imposto complementar, do ano em que se tiver verificado o resgate ou a transmissão.\n\n4 - Exceptuam-se do disposto no número anterior os casos de invalidez ou morte das pessoas a quem incumbe a direcção do agregado familiar verificados posteriormente à data da subscrição dos certificados."
+  },
+  "117658314": {
+   "fragment_id": "117658819",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nFicam isentas do imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou dos adoptados, no caso de adopção plena, ou dos seus descendentes, quando aqueles tenham falecido, de certificados de participação em fundos de investimento imobiliário até ao valor de 250000$00 por cada um deles."
+  },
+  "117658315": {
+   "fragment_id": "117658820",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nOs juros dos depósitos bancários efectuados por uma sociedade gestora de um fundo de investimento imobiliário por conta deste estão isentos do imposto de capitais."
+  },
+  "117658316": {
+   "fragment_id": "117658821",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nFicam isentas do imposto do selo a que se referem os artigos 120-A e 141 da respectiva Tabela Geral as operações sobre certificados representativos de unidades de participações emitidos por fundos de investimento imobiliário."
+  },
+  "117658317": {
+   "fragment_id": "117658822",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nO presente diploma produz efeitos desde a data de entrada em vigor da Lei n.º 9/86, de 30 de Abril."
+  },
+  "117658308": {
+   "fragment_id": "117658813",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 1/87\n\nde 3 de Janeiro\n\nO Decreto-Lei n.º 246/85, de 12 de Julho, veio regulamentar a actividade dos fundos de investimento imobiliário.\n\nO Governo reconhece o importante contributo que este novo tipo de instituições financeiras poderá trazer à formação das poupanças e à sua mobilização para investimentos no sector imobiliário. Acrescem os efeitos positivos que por essa via se induzirão nas indústrias da construção e no mercado de arrendamento de imóveis para habitação e para escritórios.\n\nTorna-se necessário, no sentido de estabelecer condições para criação de fundos de investimento com estas características, definir um quadro fiscal adequado.\n\nO Governo propôs oportunamente e obteve da Assembleia da República a necessária autorização para o efeito.\n\nAssim, ao abrigo da autorização conferida pelo artigo 51.º da Lei n.º 9/86, de 30 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "117658322": {
+   "fragment_id": "117658820",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1988-01-31",
+   "changed_by": [
+    "Revogado pelo/a Artigo 49.º do/a [Lei n.º 2/88 - Diário da República n.º 21/1988, 1º Suplemento, Série I de 1988-01-26](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), em vigor a partir de 1988-01-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\nOs juros dos depósitos bancários efectuados por uma sociedade gestora de um fundo de investimento imobiliário por conta deste estão isentos do imposto de capitais.\n\n> Revogado pelo/a Artigo 49.º do/a [Lei n.º 2/88 - Diário da República n.º 21/1988, 1º Suplemento, Série I de 1988-01-26](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), em vigor a partir de 1988-01-31"
+  },
+  "117658318": {
+   "fragment_id": "117658823",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 12 de Dezembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Dezembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "117658323": {
+   "fragment_id": "117658819",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1996-03-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 49.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+   ],
+   "markdown": "###### Artigo 6.º\n\nFicam isentas de imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou dos adoptados, no caso de adopção plena, ou dos seus descendentes, quando aqueles tenham falecido, de unidades de participação em fundos de investimento imobiliário até ao valor de 500000$00 por cada um deles.\n\n> Alterado pelo/a Artigo 49.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+  },
+  "117658324": {
+   "fragment_id": "117658814",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nSão isentas de sisa as aquisições de bens imóveis efectuadas para um fundo de investimento imobiliário pela respectiva sociedade gestora.\n\n> Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "117658325": {
+   "fragment_id": "117658821",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2019-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\nFicam isentas do imposto do selo a que se referem os artigos 120-A e 141 da respectiva Tabela Geral as operações sobre certificados representativos de unidades de participações emitidos por fundos de investimento imobiliário.\n\n> Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "206055584": {
+   "fragment_id": "117658814",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nSão isentas de sisa as aquisições de bens imóveis efectuadas para um fundo de investimento imobiliário pela respectiva sociedade gestora.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "206055585": {
+   "fragment_id": "117658815",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 2.º\n\nOs rendimentos provenientes de bens imóveis que integrem o património de um fundo de investimento imobiliário estão isentos de contribuição predial nos cinco primeiros anos após a data da respectiva aquisição.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "206055586": {
+   "fragment_id": "117658816",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 3.º\n\nSão isentas de imposto de mais-valias as transmissões onerosas de imóveis integrados num fundo de investimento imobiliário, salvo tratando-se de terrenos para construção.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "206055587": {
+   "fragment_id": "117658817",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs rendimentos provenientes dos certificados de participação em fundos de investimento imobiliário ficam isentos dos impostos de capitais e complementar, secção A.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "206055588": {
+   "fragment_id": "117658818",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 5.º\n\n- 1 - Para efeitos de imposto complementar, secção A, será deduzida ao rendimento global líquido relativo aos anos de 1986 a 1989, até ao limite de 100000$00, a quantia equivalente a 10% do valor do investimento efectuado na subscrição de certificados de participação em fundos de investimento imobiliário.\n\n2 - A dedução referida no número anterior é efectuada no rendimento respeitante ao ano da subscrição dos certificados, dando apenas direito à mesma o valor do investimento correspondente aos certificados depositados no banco depositário dos valores que integram o património do fundo de investimento que os emitiu.\n\n3 - Se os certificados que tiverem dado lugar à dedução a que se refere o n.º 1 forem resgatados ou transmitidos por acto entre vivos durante o período de três anos a contar da data da respectiva subscrição, o montante que tiver sido deduzido acresce ao rendimento, para efeitos do imposto complementar, do ano em que se tiver verificado o resgate ou a transmissão.\n\n4 - Exceptuam-se do disposto no número anterior os casos de invalidez ou morte das pessoas a quem incumbe a direcção do agregado familiar verificados posteriormente à data da subscrição dos certificados.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "206055589": {
+   "fragment_id": "117658819",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Alterado pelo/a Artigo 49.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+   ],
+   "markdown": "###### Artigo 6.º\n\nFicam isentas de imposto sobre as sucessões e doações as transmissões por morte a favor do cônjuge sobrevivo e dos filhos ou dos adoptados, no caso de adopção plena, ou dos seus descendentes, quando aqueles tenham falecido, de unidades de participação em fundos de investimento imobiliário até ao valor de 500000$00 por cada um deles.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Alterado pelo/a Artigo 49.º do/a [Lei n.º 10-B/96 - Diário da República n.º 71/1996, 2º Suplemento, Série I-A de 1996-03-23](https://diariodarepublica.pt/dr/detalhe/lei/10-b-1996-477288), em vigor a partir de 1996-03-28"
+  },
+  "206055590": {
+   "fragment_id": "117658820",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Revogado pelo/a Artigo 49.º do/a [Lei n.º 2/88 - Diário da República n.º 21/1988, 1º Suplemento, Série I de 1988-01-26](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), em vigor a partir de 1988-01-31"
+   ],
+   "markdown": "###### Artigo 7.º\n\nOs juros dos depósitos bancários efectuados por uma sociedade gestora de um fundo de investimento imobiliário por conta deste estão isentos do imposto de capitais.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Revogado pelo/a Artigo 49.º do/a [Lei n.º 2/88 - Diário da República n.º 21/1988, 1º Suplemento, Série I de 1988-01-26](https://diariodarepublica.pt/dr/detalhe/lei/2-1988-662751), em vigor a partir de 1988-01-31"
+  },
+  "206055591": {
+   "fragment_id": "117658821",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01",
+    "Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º\n\nFicam isentas do imposto do selo a que se referem os artigos 120-A e 141 da respectiva Tabela Geral as operações sobre certificados representativos de unidades de participações emitidos por fundos de investimento imobiliário.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01\n\n> Revogado pelo/a Artigo 319.º do/a [Lei n.º 71/2018 - Diário da República n.º 251/2018, Série I de 2018-12-31](https://diariodarepublica.pt/dr/detalhe/lei/71-2018-117537583), em vigor a partir de 2019-01-01"
+  },
+  "206055592": {
+   "fragment_id": "117658822",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 9.º\n\nO presente diploma produz efeitos desde a data de entrada em vigor da Lei n.º 9/86, de 30 de Abril.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  },
+  "206055593": {
+   "fragment_id": "117658823",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 20 de Novembro de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe.\n\nPromulgado em 12 de Dezembro de 1986.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 17 de Dezembro de 1986.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 281.º do/a [Lei n.º 24-D/2022 - Diário da República n.º 251/2022, 2º Suplemento, Série I de 2022-12-30](https://diariodarepublica.pt/dr/detalhe/lei/24-d-2022-205557192), em vigor a partir de 2023-01-01"
+  }
+ }
+}

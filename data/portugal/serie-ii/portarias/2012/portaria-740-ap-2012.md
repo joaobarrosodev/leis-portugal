@@ -1,0 +1,111 @@
+---
+schema_version: '1.0'
+id: pt:dre:2213758:por
+title: Portaria n.º 740-AP/2012
+short_title: null
+summary: Classifica como monumento de interesse público o Edifício dos CTT da Figueira da Foz, no Passeio Infante D. Henrique,
+  40, Figueira da Foz, freguesia de São Julião, concelho da Figueira da Foz, distrito de Coimbra, e fixa a zona especial de
+  proteção do mesmo monumento
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Secretário de Estado da Cultura
+proposing_entity: null
+official_number: 740-AP/2012
+official_date: null
+publication_date: '2012-12-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 248/2012, 1º Suplemento, Série II de 2012-12-24
+  number: '248'
+  series: II
+  supplement: 1º Suplemento
+  pages: 40536-(34) a 40536-(34)
+  pdf_url: https://files.diariodarepublica.pt/2s/2012/12/248000001/0003400034.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2213758'
+  dre_path: /dr/detalhe/portaria/740-ap-2012-2213758
+  internal: pt:dre:2213758:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-ap-2012-2213758
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/740-ap-2012-2213758
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-12-24T00:00:00Z'
+integrity:
+  source_sha256: 437a6ee7b6f7d469719bd749df61c1e51ce47322609ca57fee463f9172570e2c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-740-AP-2213758.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 2
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 740-AP/2012
+
+Construída na década de 40 do século XX sob direção de projeto do arquiteto Adelino Nunes, a Estação dos CTT - Correios, Telégrafos e Telefones da Figueira da Foz constitui um dos exemplos paradigmáticos da Arquitetura Modernista edificada em Portugal ao abrigo da política de obras públicas instituída pelo Estado Novo.
+
+Implantado com cuidado enquadramento urbano e estruturado em dois pisos, o imóvel suaviza nas linhas curvas da fachada o ângulo dos dois arruamentos a que serve de cunhal. A horizontalidade da longa fachada, rasgada por duas fiadas de janelas, é compensada pelo corpo à esquerda, vertical e semicilíndrico, ritmado por janelas estreitas colocadas em altura e pelo bloco anexo, onde se insere o relógio, sobre placa de betão que serve de pala ao pequeno balcão do primeiro piso.
+
+A classificação do Edifício dos CTT da Figueira da Foz reflete os seguintes critérios constantes do artigo 17.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro: o caráter matricial do bem; o seu valor estético intrínseco; a sua conceção arquitetónica e urbanística.
+
+A zona especial de proteção (ZEP), que engloba a vizinha Casa do Paço, classificada como imóvel de interesse público pelo [Decreto n.º 47508](https://diariodarepublica.pt/dr/detalhe/decreto/47508-1967-500897), de 24 de janeiro de 1967, tem em consideração a implantação do imóvel e o seu enquadramento, bem como os pontos de vista e a existência de morfologias ou detalhes urbanísticos relevantes direta ou indiretamente relacionados com este. A sua fixação visa salvaguardar o imóvel na sua relação com o restante núcleo edificado e o bom equilíbrio da paisagem urbana envolvente.
+
+Foram cumpridos os procedimentos de audição dos interessados, previstos no artigo 27.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, de acordo com o disposto nos artigos 100.º e seguintes do Código do Procedimento Administrativo.
+
+Assim:
+
+Sob proposta dos serviços competentes, ao abrigo do disposto nos artigos 15.º, 18.º, n.º 1, 28.º, n.º 2, e 43.º da [Lei n.º 107/2001](https://diariodarepublica.pt/dr/detalhe/lei/107-2001-629790), de 8 de setembro, e no uso das competências conferidas pelo n.º 11 do artigo 10.º do [Decreto-Lei n.º 86-A/2011](https://diariodarepublica.pt/dr/detalhe/decreto-lei/86-a-2011-622306), de 12 de julho, manda o Governo, pelo Secretário de Estado da Cultura, o seguinte:
+
+###### Artigo 1º — Classificação
+
+É classificado como monumento de interesse público o Edifício dos CTT da Figueira da Foz, no Passeio Infante D. Henrique, 40, Figueira da Foz, freguesia de São Julião, concelho da Figueira da Foz, distrito de Coimbra, conforme planta de delimitação constante do Anexo à presente portaria e que desta faz parte integrante.
+
+###### Artigo 2.º — Zona especial de proteção
+
+É fixada a zona especial de proteção do monumento referido no artigo anterior, conforme planta de delimitação constante do anexo à presente portaria e que desta faz parte integrante.
+
+12 de dezembro de 2012. - O Secretário de Estado da Cultura, Jorge Barreto Xavier.
+
+## ANEXO — [([ver documento original](https://files.diariodarepublica.pt/2s/2012/12/248000001/0003400034.pdf))](https://files.diariodarepublica.pt/2s/2012/12/248000001/0003400034.pdf)

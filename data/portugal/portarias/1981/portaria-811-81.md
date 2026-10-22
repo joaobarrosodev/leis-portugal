@@ -1,0 +1,235 @@
+---
+schema_version: '1.0'
+id: pt:dre:563271:por
+title: Portaria n.º 811/81
+short_title: null
+summary: Introduz alterações à Portaria n.º 520/81, de 26 de Junho (fixa as condições de acesso ao ensino superior)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Educação e Ciência
+proposing_entity: null
+official_number: 811/81
+official_date: null
+publication_date: '1981-09-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 215/1981, Série I de 1981-09-18
+  number: '215'
+  series: I
+  supplement: null
+  pages: 2487 - 2491
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '563271'
+  dre_path: /dr/detalhe/portaria/811-1981-563271
+  internal: pt:dre:563271:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/811-1981-563271
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/811-1981-563271
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-09-18T00:00:00Z'
+integrity:
+  source_sha256: 4d62ca8213a643099d79c6611c04e6fe82190bc74ee1f2023a8be67c9a76b2ae
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-811-563271.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 811/81
+
+de 18 de Setembro
+
+Ao abrigo do disposto no [Decreto-Lei n.º 397/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/397-1977-285922), de 17 de Setembro, nos artigos 8.º e 10.º do [Decreto-Lei n.º 418/73](https://diariodarepublica.pt/dr/detalhe/decreto-lei/418-1973-419619), de 21 de Agosto, no [Decreto n.º 29992](https://diariodarepublica.pt/dr/detalhe/decreto/29992-1939-186140), de 21 de Outubro de 1939, com a redacção que lhe foi dada pelos Decretos n.os 47700, de 15 de Maio de 1967, e 48220, de 24 de Janeiro de 1968, conjugado com o [Decreto-Lei n.º 70/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/70-1977-141653), de 25 de Fevereiro, e no [Decreto-Lei n.º 240/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-1980-472347), de 19 de Julho:
+
+Manda o Governo da República Portuguesa, pelo Ministro da Educação e Ciência, o seguinte:
+
+1.º Os artigos 5.º, 6.º, 8.º, 9.º, 14.º, 15.º, 18.º, 19.º e 20.º da [Portaria n.º 520/81](https://diariodarepublica.pt/dr/detalhe/portaria/520-1981-578475), de 26 de Junho, passam a ter a seguinte redacção:
+
+5.º
+
+(Curso a que se pode candidatar)
+
+1 - Cada estudante apenas se pode candidatar aos cursos superiores para que disponha de habilitação adequada nos termos deste artigo.
+
+2 - Para os estudantes titulares do 12.º ano de escolaridade (via de ensino) tendo como habilitação precedente o 10.º/11.º anos de escolaridade a candidatura a cada curso superior está condicionada à área do 10.º/11.º anos e ao curso do 12.º de que o estudante é titular, nos termos das colunas 4 e 5 do mapa do anexo II (1.ª e 2.ª partes).
+
+3 - Para os estudantes do 12.º ano de escolaridade (via profissionalizante) tendo como habilitação precedente o 10.º/11.º anos de escolaridade a candidatura a cada curso superior está condicionada à área do 10.º/11.º anos e ao curso do 12.º ano de que o estudante é titular, nos termos das colunas 4 e 7 do mapa da 2.ª parte do anexo II.
+
+4 - Para os estudantes titulares do 12.º ano de escolaridade (via de ensino) tendo como habilitação precedente um curso complementar do ensino secundário a candidatura a cada curso superior está condicionada à aprovação naquele curso nas disciplinas nucleares adequadas e ao curso do 12.º ano de que o estudante é titular, nos termos das colunas 3 e 5 do mapa do anexo II (1.ª e 2.ª partes).
+
+5 - Para os estudantes titulares do 12.º ano de escolaridade (via profissionalizante) tendo como habilitação precedente um curso complementar do ensino secundário a candidatura a cada curso superior está condicionada à aprovação naquele curso nas disciplinas nucleares adequadas e ao curso do 12.º ano de que o estudante é titular, nos termos das colunas 3 e 7 do mapa da 2.ª parte do anexo II.
+
+6 - Para os estudantes titulares do ano propedêutico a candidatura a cada curso superior está condicionada ao elenco ou elencos em que obtiveram aprovação naquele e à aprovação num curso complementar do ensino secundário nas disciplinas nucleares adequadas, nos termos das colunas 3 e 6 do mapa anexo II (1.ª e 2.ª partes).
+
+6.º
+
+(Línguas vivas estrangeiras e línguas clássicas)
+
+1 - Para além da habilitação genericamente definida nos termos do artigo anterior, a candidatura à matrícula e inscrição nos cursos enumerados no anexo III está dependente igualmente da aprovação no ensino secundário nos níveis de línguas vivas estrangeiras e línguas clássicas indicados para cada curso superior.
+
+2 - Serão fixadas por despacho do Ministro da Educação e Ciência as habilitações oficiais que correspondem aos níveis da língua a que se refere o anexo II.
+
+3 - É da competência do Gabinete Coordenador do Ingresso no Ensino Superior (adiante simplesmente designado GCIES), no acto da candidatura, e do estabelecimento de ensino, no acto da matrícula e inscrição, controlar a aplicação do presente artigo.
+
+8.º
+
+(Contingentes)
+
+1 - O número total de vagas para a candidatura regulada pelo presente diploma é distribuído por um contingente geral e por contingentes especiais para os candidatos das Regiões Autónomas dos Açores e da Madeira, de acordo com os seguintes critérios:
+
+a) Contingente especial para a Região Autónoma da Madeira - 3%;
+
+b) Contingente especial para a Região Autónoma dos Açores - 3,5%;
+
+c) Contingente geral - a diferença entre o total de vagas fixado e as vagas afectas a contingentes especiais nos termos das alíneas a) e b) do presente número.
+
+2 - Aos candidatos cuja habilitação de acesso seja um curso da via profissionalizante do 12.º ano será reservado, nos cursos a que têm acesso, um contingente especial de 50% do total das vagas fixadas.
+
+3 - Os valores a que se referem as alíneas a) e b) do n.º 1 e o n.º 2 serão arredondados para o inteiro superior caso a parte decimal seja igual ou maior que 0,5, assumindo pelo menos o valor 1.
+
+9.º
+
+(Candidatos pelos contingentes especiais)
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Os candidatos pelo contingente especial da Região Autónoma da Madeira têm, em cada fase, prioridade absoluta na colocação no Instituto Superior de Artes Plásticas da Madeira, desde que o indiquem nos termos do n.º 7.º
+
+14.º
+
+(Nota de candidatura)
+
+1 - ...
+
+2 - ...
+
+3 - Para os candidatos cuja habilitação precedente da habilitação de acesso sejam 6 ou mais disciplinas do curso complementar do ensino liceal e que não reúnam as condições legais para a passagem do diploma de conclusão do referido curso complementar, para efeitos de acesso ao ensino superior o valor correspondente a C10/11 será igual à média aritmética arredondada (considerando como unidade a parte decimal não inferior a cinco décimas) da classificação de um conjunto de 6 disciplinas do referido curso complementar indicadas pelo candidato de que exista documento comprovativo no seu processo e em que estejam incluídas as disciplinas nucleares a que se referem os n.os 4 a 6 do n.º 5.º, bem como as disciplinas de Português e Filosofia, caso tenham aprovação nas mesmas.
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+15.º
+
+(Regras supletivas para a determinação da nota de candidatura)
+
+1 - O valor de C10/11 dos candidatos cuja habilitação precedente da habilitação de acesso tenha sido obtida por equivalência será a classificação atribuída pela entidade competente para a concessão daquela.
+
+2 - O valor de C12 dos candidatos cuja habilitação de acesso tenha sido obtida por equivalência será a classificação atribuída pela entidade competente para a concessão daquela.
+
+3 - Caso não seja possível determinar o valor de C10/11, nomeadamente no caso de equivalências globais ao 12.º ano de escolaridade, a nota de candidatura será igual a C12.
+
+18.º
+
+(1.ª fase do Concurso)
+
+1 - À 1.ª fase do concurso serão admitidos todos os estudantes que, até ao termo do prazo de inscrição para a mesma, se encontrem nas condições expressas no n.º 2 da presente portaria.
+
+2 - A colocação dos candidatos far-se-á de acordo com a seguinte sequência:
+
+a) Serão colocados os candidatos do contingente especial da via profissionalizante nas respectivas vagas;
+
+b) Serão colocados os candidatos do contingente especial da Região Autónoma dos Açores nas respectivas vagas;
+
+c) Serão colocados os candidatos do contingente especial da Região Autónoma da Madeira nas respectivas vagas;
+
+d) Os candidatos não colocados dos contingentes especiais senão incluídos no contingente geral;
+
+e) As vagas sobrantes dos contingentes a que se referem as alíneas a) e b) do n.º 1 do artigo 8.º serão adicionadas às vagas do contingente geral;
+
+f) Serão colocados os candidatos do contingente geral.
+
+19.º
+
+(2.ª fase do concurso)
+
+1 - À 2.ª fase do concurso serão admitidos todos os estudantes que até ao termo do prazo de inscrição para a mesma se encontrem nas condições expressas no n.º 2 e que não tenham concorrido ou não tenham sido colocados na 1.ª fase.
+
+2 - Na 2.ª fase final do concurso os candidatos dos contingentes especiais a que se referem os pontos 1 e 2 do n.º 9.º, bem como os candidatos do contingente geral, encontram-se reunidos num único contingente, adiante designado por contingente geral.
+
+3 - A colocação dos candidatos far-se-á de acordo com a seguinte sequência:
+
+a) Serão colocados os candidatos do contingente especial da via profissionalizante nas respectivas vagas;
+
+b) Os candidatos não colocados do contingente especial da via profissionalizante serão incluídos no contingente geral;
+
+c) As vagas sobrantes do contingente especial da via profissionalizante serão adicionadas às vagas sobrantes da colocação referida na alínea f) do n.º 1, formando um único contingente;
+
+d) Serão colocados os candidatos do contingente geral.
+
+20.º
+
+(Critérios de ordenação)
+
+1 - ...
+
+2 - ...
+
+3 - Poderão ser estabelecidos, por despacho do Ministro da Educação e Ciência, critérios especiais de preferência regional aos candidatos cuja habilitação de acesso seja a via profissionalizante do 12.º ano.
+
+2 - Ao anexo I da [Portaria n.º 520/81](https://diariodarepublica.pt/dr/detalhe/portaria/520-1981-578475) são acrescidos os seguintes estabelecimentos e cursos do ensino superior:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
+
+3.º Ao anexo II da [Portaria n.º 520/81](https://diariodarepublica.pt/dr/detalhe/portaria/520-1981-578475) são introduzidas as seguintes alterações e acréscimos:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
+
+4.º Ao anexo II da [Portaria n.º 520/81](https://diariodarepublica.pt/dr/detalhe/portaria/520-1981-578475) é igualmente adicionada uma segunda parte referente aos cursos do ensino superior politécnico.
+
+## ANEXO II (2.ª parte) — Habilitação geral de acesso ao ensino superior politécnico
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf))](https://files.diariodarepublica.pt/1s/1981/09/21500/24872491.pdf)
+
+Ministério da Educação e Ciência, 2 de Setembro de 1981. - O Ministro da Educação e Ciência, Vítor Pereira Crespo.

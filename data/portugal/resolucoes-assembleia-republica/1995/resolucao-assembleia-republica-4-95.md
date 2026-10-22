@@ -1,0 +1,189 @@
+---
+schema_version: '1.0'
+id: pt:dre:144981:por
+title: Resolução da Assembleia da República n.º 4/95
+short_title: null
+summary: Aprova o Acordo de Supressão de Vistos entre a República Portuguesa e a República da Eslovénia
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 4/95
+official_date: null
+publication_date: '1995-01-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 18/1995, Série I-A de 1995-01-21
+  number: '18'
+  series: I
+  supplement: null
+  pages: 368 - 369
+  pdf_url: https://files.diariodarepublica.pt/1s/1995/01/018a00/03680369.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/4/1995/01/21/p/dre/pt/html
+  oj: null
+  dre: '144981'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/4-1995-144981
+  internal: pt:dre:144981:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1995-144981
+  metadata_url: https://data.dre.pt/eli/resolassrep/4/1995/01/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/4-1995-144981
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1995-01-21T00:00:00Z'
+integrity:
+  source_sha256: 0509aa0b116a9cda98d20b7ed7142f30adebe94ce6f1d4c30de19573f9d4af2c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1995/DRE-1995-4-144981.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Convenção
+- Portugal
+- Lisboa
+- Admissão de Estrangeiros
+relationships: []
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 4/95
+
+Aprova o Acordo de Supressão de Vistos entre a República Portuguesa e a República da Eslovénia
+
+A Assembleia da República resolve, nos termos dos artigos 164.º, alínea j), e 169.º, n.º 5, da Constituição, aprovar o Acordo de Supressão de Vistos entre a República Portuguesa e a República da Eslovénia, assinado em Lisboa, a 20 de Abril de 1994, cuja versão autêntica em língua francesa e respectiva tradução em língua portuguesa seguem em anexo à presente resolução.
+
+Aprovada em 27 de Outubro de 1994.
+
+**O Presidente da Assembleia da República, António Moreira Barbosa de Melo.**
+
+ACCORD ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE DU PORTUGAL ET LE GOUVERNEMENT DE LA REPUBLIQUE DE SLOVÉNIE SUR LA SUPRESSION DE VISAS.
+
+Le Gouvernement de la République du Portugal et le Gouvernement de la République de Slovénie:
+
+Aux fins de développer des relations bilaterales entre leurs deux pays;
+
+Désireux de faciliter la circulation de leurs ressortissants, dans un esprit de coopération et sur une base de réciprocité;
+
+sont convenus de ce qui suit:
+
+Article 1
+
+Les citoyens de la République de Slovénie titulaires d'un passeport slovène valide pourront entrer dans le territoire de la République du Portugal pour un séjour qui n'excède pas 90 jours, en voyages d'affaires ou de tourisme, ou en voyages de transit, sans avoir besoin de visa.
+
+Article 2
+
+Les citoyens de la République du Portugal titulaires d'un passeport portugais valide pourront entrer dans le territoire de la République de Slovénie pour un séjour qui n'excède pas 90 jours, en voyages d'affaires ou de tourisme, ou en voyages de transit, sans avoir besoin de visa.
+
+Article 3
+
+Le présent Accord n'exempte pas les citoyens de l'un des deux États de l'obligation de respecter les lois et règlements de l'autre État en ce qui a trait à l'entrée, au séjour et à la sortie d'étrangers.
+
+Article 4
+
+Les autorités compétentes de chacun des deux États se réservent le droit de refuser l'entrée ou d'interdire le séjour dans leur territoire respectif aux citoyens de l'autre État qu'elles considérent indésirables.
+
+Article 5
+
+Chacune des deux Parties Contractantes pourra suspendre temporairement l'application du présent Accord, dans sa totalité ou bien en partie, pour des motifs d'ordre public, de sécurité nationale ou de santé publique. Tant la suspension que le terme de l'Accord seront immédiatement notifiés par voie diplomatique à l'autre Partie Contractante.
+
+Article 6
+
+Chacune des deux Parties Contractantes pourra résilier cet Accord avec un délai de préavis de 30 jours.
+
+Article 7
+
+Le présent Accord entrera en vigueur 30 jours après la date à laquelle les deux Parties Contractantes auront notifié que les formalités internes légalement nécessaires à cet effet ont été remplies.
+
+En foi de quoi les représentants des Parties Contractantes, dûment autorisés à cet effet, ont apposé leurs signatures au bas du présent Accord.
+
+Fait à Lisbonne le 20 avril 1994 dans la langue française en doubles exemplaires.
+
+Pour le Gouvernement de la République du Portugal:
+
+José Manuel Durão Barroso.
+
+Pour le Gouvernement de la République de Slovénie:
+
+Lojze Peterle.
+
+ACORDO DE SUPRESSÃO DE VISTOS ENTRE O GOVERNO DA REPÚBLICA PORTUGUESA E O GOVERNO DA REPÚBLICA DA ESLOVÉNIA.
+
+O Governo da República Portuguesa e o Governo da República da Eslovénia, com o objectivo de desenvolver as relações bilaterais entre os dois países e a fim de facilitar a circulação dos respectivos nacionais, em espírito de cooperação e numa base de reciprocidade, concordam em concluir um Acordo nos seguintes termos:
+
+###### Artigo 1.º
+
+Os cidadãos da República da Eslovénia titulares de passaporte esloveno válido poderão entrar em território português para permanência não superior a 90 dias, em viagens de negócios ou turismo, ou em viagens de trânsito, sem necessidade de visto.
+
+###### Artigo 2.º
+
+Os cidadãos da República Portuguesa titulares de passaporte português válido poderão entrar em território da República da Eslovénia para permanência não superior a 90 dias, em viagens de negócios ou turismo, ou em viagens de trânsito, sem necessidade de visto.
+
+###### Artigo 3.º
+
+O presente Acordo não isenta os cidadãos de qualquer dos Estados da obrigação de cumprir as leis e regulamentos do outro Estado em relação à entrada, permanência e saída de estrangeiros.
+
+###### Artigo 4.º
+
+As autoridades competentes de cada um dos Estados conservam o direito de recusar a entrada ou proibir a permanência nos respectivos territórios de cidadãos do outro Estado que considerem indesejáveis.
+
+###### Artigo 5.º
+
+Cada uma das Partes Contratantes poderá suspender temporariamente a aplicação do presente Acordo, no todo ou em parte, por motivos de ordem pública. Tanto a suspensão como o seu termo serão imediatamente notificados por via diplomática à outra Parte Contratante.
+
+###### Artigo 6.º
+
+Cada uma das Partes Contratantes poderá denunciar este Acordo por notificação com pré-aviso de 30 dias.
+
+###### Artigo 7.º
+
+O presente Acordo entrará em vigor 30 dias após a data em que ambas as Partes Contratantes tiverem notificado que se encontram concluídas as formalidades internas legalmente necessárias para o efeito.
+
+Em fé do que os representantes das Partes Contratantes, devidamente autorizados para o efeito, apuseram a sua assinatura no presente Acordo.
+
+Feito em Lisboa em 20 de Abril de 1994, em língua francesa, em dois exemplares.
+
+Pelo Governo da República Portuguesa:
+
+José Manuel Durão Barroso.
+
+Pelo Governo da República da Eslovénia:
+
+Lojze Peterle.

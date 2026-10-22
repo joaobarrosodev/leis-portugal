@@ -1,0 +1,926 @@
+---
+schema_version: '1.0'
+id: pt:dre:614782:por
+title: Decreto-Lei n.º 96/89
+short_title: null
+summary: Cria o Registo Internacional de Navios da Madeira (MAR)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 96/89
+official_date: null
+publication_date: '1989-03-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/1989, Série I de 1989-03-28
+  number: '72'
+  series: I
+  supplement: null
+  pages: 1315 - 1317
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/03/07200/13151317.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-01-19'
+version_history:
+  file: decreto-lei-96-89.versoes.json
+  count: 11
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1989-03-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1993-11-28'
+    amending: pt:dre:674418:por
+    amending_title: Decreto-Lei n.º 393/93
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Revoga Artigo 2.º
+    - Revoga Artigo 10.º
+  - date: '1997-01-14'
+    amending: pt:dre:302094:por
+    amending_title: Decreto-Lei n.º 5/97
+    changes:
+    - Altera Artigo 14.º
+  - date: '1997-02-02'
+    amending: pt:dre:571198:por
+    amending_title: Decreto-Lei n.º 31/97
+    changes:
+    - Altera Artigo 15.º
+  - date: '1999-08-25'
+    amending: pt:dre:434012:por
+    amending_title: Decreto-Lei n.º 331/99
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 15.º
+  - date: '2002-11-13'
+    amending: pt:dre:425480:por
+    amending_title: Decreto-Lei n.º 248/2002
+    changes:
+    - Altera Artigo 20.º
+  - date: '2003-12-28'
+    amending: pt:dre:423922:por
+    amending_title: Decreto-Lei n.º 321/2003
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Revoga Artigo 7.º
+  - date: '2015-03-22'
+    amending: pt:dre:66773611:por
+    amending_title: Lei n.º 23/2015
+    changes:
+    - Altera Artigo 25.º
+  - date: '2015-10-14'
+    amending: pt:dre:70641450:por
+    amending_title: Decreto-Lei n.º 234/2015
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 20.º
+    - Altera Artigo 28.º
+  - date: '2020-09-01'
+    amending: pt:dre:141259622:por
+    amending_title: Lei n.º 56/2020
+    changes:
+    - Adita Artigo 14.º-A
+    - Adita Artigo 14.º-B
+    - Adita Artigo 14.º-C
+    - Adita Artigo 14.º-D
+    - Adita Artigo 14.º-E
+    - Adita Artigo 14.º-F
+    - Adita Artigo 14.º-G
+    - Adita Artigo 14.º-H
+    - Adita Artigo 14.º-I
+    - Adita Artigo 14.º-J
+    - Adita Artigo 14.º-K
+    - Adita Artigo 14.º-L
+    - Adita Artigo 14.º-M
+    - Adita Artigo 14.º-N
+    - Adita Artigo 15.º-A
+    - Adita Artigo 15.º-B
+    - Adita Artigo 15.º-C
+    - Adita Artigo 15.º-D
+    - Adita Artigo 15.º-E
+    - Adita Artigo 23.º-A
+    - Adita Artigo 23.º-B
+    - Adita Artigo 23.º-C
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+  - date: '2022-01-19'
+    amending: pt:dre:177796599:por
+    amending_title: Decreto-Lei n.º 17/2022
+    changes:
+    - Altera Artigo 4.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/96/1989/p/cons/20220118/pt/html
+  oj: null
+  dre: '614782'
+  dre_path: /dr/detalhe/decreto-lei/96-1989-614782
+  internal: pt:dre:614782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/96-1989-614782
+  metadata_url: https://data.dre.pt/eli/dec-lei/96/1989/p/cons/20220118/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-141358087
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1989-141358087
+  retrieved_at: '2026-10-22T12:34:45Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: c14d73141f18f91a5136d37262dd0401a65e8d930bceb0da19a266ba2197fb48
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:34:45Z'
+  notes: 11 versão(ões); histórico completo em decreto-lei-96-89.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Armador
+- Comércio
+- Contra-ordenação
+- Criação de Serviços
+- Definição de Competências
+- Embarcação
+- Madeira.região Autónoma
+- Ministério da Justiça
+- Multa
+- Pessoal do MAR
+- Regime Fiscal
+- Registo Internacional de Navios da Madeira
+- Registo de Navios
+- Transporte Marítimo
+- Zona Franca
+- Zona Tributária Privilegiada
+relationships:
+- type: amended_by
+  target: pt:dre:674418:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º;
+    Altera Artigo 14.º; Altera Artigo 17.º; Altera Artigo 20.º; Revoga Artigo 2.º; Revoga Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418
+  date: '1993-11-23'
+- type: amended_by
+  target: pt:dre:302094:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094
+  date: '1997-01-09'
+- type: amended_by
+  target: pt:dre:571198:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198
+  date: '1997-01-28'
+- type: amended_by
+  target: pt:dre:434012:por
+  label: Altera Artigo 3.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012
+  date: '1999-08-20'
+- type: amended_by
+  target: pt:dre:425480:por
+  label: Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2002-425480
+  date: '2002-11-08'
+- type: amended_by
+  target: pt:dre:423922:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922
+  date: '2003-12-23'
+- type: amended_by
+  target: pt:dre:66773611:por
+  label: Altera Artigo 25.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/23-2015-66773611
+  date: '2015-03-17'
+- type: amended_by
+  target: pt:dre:70641450:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 20.º; Altera Artigo 28.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450
+  date: '2015-10-13'
+- type: amended_by
+  target: pt:dre:141259622:por
+  label: Adita Artigo 14.º-A; Adita Artigo 14.º-B; Adita Artigo 14.º-C; Adita Artigo 14.º-D; Adita Artigo 14.º-E; Adita Artigo
+    14.º-F; Adita Artigo 14.º-G; Adita Artigo 14.º-H; Adita Artigo 14.º-I; Adita Artigo 14.º-J; Adita Artigo 14.º-K; Adita
+    Artigo 14.º-L; Adita Artigo 14.º-M; Adita Artigo 14.º-N; Adita Artigo 15.º-A; Adita Artigo 15.º-B; Adita Artigo 15.º-C;
+    Adita Artigo 15.º-D; Adita Artigo 15.º-E; Adita Artigo 23.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622
+  date: '2020-08-27'
+- type: amended_by
+  target: pt:dre:177796599:por
+  label: Altera Artigo 4.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2022-177796599
+  date: '2022-01-18'
+article_structure:
+  article_count: 52
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:34:45Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 96/89
+
+Decreto-Lei n.º 96/89
+
+de 28 de Março
+
+A competição internacional no sector da marinha de comércio e extremamente forte, tendo conduzido à baixa acentuada e prolongada dos fretes marítimos, facto este que tem originado no sector margens de rentabilidade muito reduzidas.
+
+Dentro deste contexto, todos os factores de custo assumem uma relevância determinante na viabilização da actividade, pelo que se tem assistido, a nível internacional, ao aumento da importância quer das bandeiras de conveniência, quer dos registos especiais, quer ainda de outras soluções para vencer as dificuldades existentes.
+
+Assim, para fazer face à situação da marinha de comércio, diversos Estados europeus criaram já os seus próprios segundos registos, como seja o caso do Reino Unido, da França, da Holanda, da Dinamarca e da Noruega, estando outros países presentemente a estudar soluções semelhantes.
+
+Estes segundos registos criados por aqueles países têm permitido estancar os processos de saída de navios do registo principal para registos de conveniência, assim como atrair alguns novos armadores e navios aos novos registos, oferecendo a estes condições de custos semelhantes às dos registos mais competitivos.
+
+A marinha de comércio, pelo seu carácter verdadeiro e inteiramente internacional, reveste características muito especiais, dado que o essencial da actividade se desenvolve normalmente em águas internacionais ou de países diferentes dos de registo.
+
+É cada vez mais frequente que os navios não tenham mesmo quaisquer contactos com os países de origem, porque a sua inserção em pools de transporte internacional é muitas vezes indispensável para a respectiva rentabilização.
+
+Face à situação de crise internacional do sector, dos níveis de competitividade e rentabilidade e das características especiais da actividade, assim como do recurso, já com alguma expressão no caso português, de armadores nacionais a bandeiras de conveniência, também em Portugal se tornou necessário analisar o interesse da constituição de um segundo registo.
+
+Tendo em conta, por um lado, a conclusão pela vantagem da criação de um registo daquele tipo com vista a ajudar a solucionar os problemas da marinha de comércio nacional e, por outro, a existência de uma zona franca na Região Autónoma da Madeira, foi decidido criar pelo presente diploma o Registo Internacional de Navios da Madeira (MAR).
+
+Pretende-se que este registo figure entre os registos internacionais considerados de qualidade, tanto mais que os navios que o vão utilizar arvorarão a bandeira portuguesa, pelo que se estabelece no presente diploma que todas as convenções internacionais de que o Estado Português seja signatário obrigarão também o Registo Internacional de Navios da Madeira. Ainda com vista a assegurar a qualidade do registo terão de ser garantidos sistemas eficazes de fiscalização dos navios.
+
+Este registo, para além de vir a funcionar como elemento de dinamização da marinha de comércio nacional e factor de estancagem da passagem de navios portugueses para bandeira de conveniência, será também um importante factor de dinamização económica da Região Autónoma da Madeira e do País, quer criando emprego neste sector, em que os Portugueses têm historicamente revelado aptidões especiais, quer permitindo o crescimento de actividades directa e indirectamente relacionadas com o MAR, tanto no campo económico como da educação e da investigação.
+
+Face aos condicionalismos actuais, o presente diploma é uma peça indispensável para que Portugal possa cumprir a sua vocação também como país marítimo, reforçando as nossas actividades nesta área e fortalecendo as nossas potencialidades estratégicas em tudo o que respeita ao MAR.
+
+Foram ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Natureza, atribuições e competências
+
+###### Artigo 1.º
+
+1 - O Registo Internacional de Navios da Madeira, abreviadamente designado por MAR, funciona na dependência dos Ministérios da Justiça e do Mar, incumbindo-lhe, em especial, o registo de todos os actos e contratos referentes aos navios a ele sujeitos e o controlo dos requisitos de segurança exigidos pelas convenções internacionais aplicáveis.
+
+2 - Dependem do Ministério da Justiça os serviços de registo de navios integrados na Conservatória de Registo Comercial privativa da Zona Franca da Madeira.
+
+3 - É da competência do Ministério do Mar a supervisão relativamente à segurança da navegação, à salvaguarda da vida humana no mar, à protecção do meio ambiente marinho e, de um modo geral, o controlo e fiscalização dos aspectos técnicos, referentes aos navios registados no MAR.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 2.º
+
+O MAR tem por fim efectuar o registo de todos os actos e contratos referentes a navios a ele sujeitos.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 3.º — Para a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:
+
+Para a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:
+
+1 - Para a prossecução dos objectivos e atribuições a que refere o artigo 1.º, compete ao MAR:
+
+a) Efectuar o registo de navios de comércio, incluindo os contratos de construção, e das embarcações de recreio;
+
+b) Fiscalizar as condições técnicas dos navios, de acordo com as convenções internacionais vigentes na ordem jurídica portuguesa ou a legislação nacional aplicável aos navios não abrangidos por aquelas;
+
+c) Efectuar inspecções aos navios;
+
+d) Proceder à identificação radioelétrica aos navios;
+
+e) Proceder à atribuição e reserva dos nomes e números de registo dos navios;
+
+f) Emitir os certificados aos navios, incluindo, conforme aplicável, os certificados de responsabilidade civil requeridos pela regulamentação internacional, os Registos Sinóticos Contínuos e as licenças radioelétricas;
+
+g) Emitir, validar e controlar os papéis de bordo;
+
+h) Comunicar, delegar e articular com as organizações reconhecidas que tenham estabelecido com acordos formais de delegação de funções estatutárias com a DGRM intervenções a bordo das embarcações, nomeadamente no que respeita a vistorias e certificação de embarcações não abrangidas pela regulamentação internacional obrigatória;
+
+i) Fixar as lotações mínimas dos navios e emitir os respectivos certificados;
+
+j) Fazer a matrícula das tripulações;
+
+l) Reconhecer os certificados técnicos emitidos por administrações marítimas estrangeiras referentes à actividade das marinhas de comércio e de recreio;
+
+m) Efectuar a inscrição dos factos jurídicos a ele sujeitos e referentes aos navios registados;
+
+n) Realizar os demais actos inerentes às obrigações do registo.
+
+2 - Sempre que os navios registados no MAR sejam utilizados na cabotagem nacional, compete à Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos (DGRM):
+
+a) Realizar as inspecções no início da utilização dos navios na cabotagem nacional tendo em vista a verificação dos requisitos necessários à manutenção da certificação, nos termos das convenções internacionais aplicáveis;
+
+b) Promover as acções de fiscalização relativas aos requisitos de segurança dos navios no que respeita às responsabilidades do Estado de bandeira, nos termos da lei e das convenções internacionais aplicáveis, sempre que se entenda adequado e durante o período de operação naquele tráfego;
+
+c) Exercer as competências referidas nas alíneas i) e l) do número anterior.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 4.º
+
+1 - O MAR tem uma comissão técnica constituída da seguinte forma:
+
+a) Um representante do membro do Governo responsável pela área da segurança marítima, o qual preside;
+
+b) Um representante da Região Antónoma da Madeira;
+
+c) Um representante da Inspecção-Geral de Navios.
+
+2 - Compete à comissão técnica pronunciar-se sobre os actos relativos ao registo dos navios e exercer as demais competências previstas no artigo anterior.
+
+3 - A comissão técnica integra, para todos os efeitos legais, a administração marítima nacional, devendo cooperar e estabelecer parcerias com a DGRM para o desenvolvimento do MAR e o cumprimento dos adequados padrões de qualidade e de segurança marítima.
+
+4 - O capitão do porto assessorará a comissão sempre que esta o solicite.
+
+5 - Para assegurar os padrões de qualidade e segurança marítima a que se refere o n.º 3, bem como o exercício das atribuições e competências previstas no presente decreto-lei, pode ser criado um grupo técnico composto por um mínimo de dois e um máximo de cinco especialistas, consoante as necessidades técnicas requeridas, designados por despacho do membro do Governo Regional da Madeira responsável pelos encargos com o apoio funcional à comissão técnica, sob proposta conjunta da comissão técnica e da DGRM.
+
+6 - Os especialistas a que se refere o número anterior são designados em regime de comissão de serviço pelo período de um ano renovável e são escolhidos de entre licenciados, preferencialmente com vínculo à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas.
+
+7 - Os especialistas a que se refere o n.º 5 são remunerados pelo nível 50 da tabela remuneratória única.
+
+8 - Os termos, condições e modo de funcionamento do grupo técnico são definidos por protocolo a celebrar entre a Região Autónoma da Madeira, a DGRM e a comissão técnica, sem prejuízo do seguinte:
+
+a) Compete aos especialistas assegurar as seguintes tarefas:
+
+i) Apoio na comunicação com as organizações reconhecidas no que respeita aos atos e operações realizados por estas em nome do Estado Português, tal como definidos no n.º 3 do artigo 1.º e no artigo 2.º, nos termos do acordo previsto no n.º 1 do artigo 8.º, do Decreto-Lei n.º 13/2012, de 20 de janeiro, conforme alterado;
+
+ii) Assistir em quaisquer tarefas necessárias ao cumprimento das atribuições cometidas por lei à DGRM, em especial as referidas nas alíneas h) a n) do n.º 2 do artigo 2.º do Decreto-Lei n.º 49-A/2012, de 29 de fevereiro;
+
+b) A comunicação com as organizações reconhecidas e restantes partes envolvidas será realizada através do Balcão Eletrónico do Mar do Sistema Nacional de Embarcações e Marítimos, criado pelo Decreto-Lei n.º 43/2018, de 18 de junho;
+
+c) Para efeitos de residência profissional dos especialistas é fixada a cidade de Lisboa;
+
+d) A coordenação do grupo técnico será assegurada pelo representante da DGRM na comissão técnica e nos termos a definir por protocolo a celebrar entre as duas partes.
+
+e) Em situações devidamente justificadas, sob proposta da DGRM em articulação com a comissão técnica, o número de especialistas que compõem o grupo técnico pode ser aumentado, aplicando-se o disposto nos n.os 5 a 7.
+
+9 - O apoio funcional à comissão técnica e ao grupo técnico, assim como o suporte de todas as despesas por estes realizadas, são assegurados pela Região Autónoma da Madeira.
+
+10 - A comissão técnica articula com a Direcção-Geral de Portos, Navegação e Transportes Marítimos as modalidades de aplicação de normas e procedimentos necessários ao exercício das suas funções.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 17/2022 - Diário da República n.º 12/2022, Série I de 2022-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/17-2022-177796599), em vigor a partir de 2022-01-19
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+> Alterado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+### Capítulo II — Exercício da actividade
+
+###### Artigo 5.º
+
+Para efeitos do disposto no presente diploma, entende-se por:
+
+a) Indústria do transporte marítimo - o exercício da actividade de transportador marítimo, em nome próprio ou alheio, através do recurso a navios próprios ou afretados;
+
+b) Proprietário do navio - o titular do direito de propriedade sobre o navio;
+
+c) Armador - o que explora comercialmente o navio de que é proprietário ou afretador;
+
+d) Operador - o que explora comercialmente o navio em nome alheio;
+
+e) Navio - toda a embarcação de comércio que opere no meio ambiental marítimo, incluindo plataformas fixas ou flutuantes.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 6.º
+
+Os navios registados no MAR arvoram a bandeira portuguesa.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 7.º
+
+- 1 - O MAR pode delegar em sociedades de classificação credenciadas o desempenho de algumas das suas funções e reconhecer os certificados por estas emitidos.
+
+2 - A credenciação das sociedades de classificação será objecto de portaria do Ministro das Obras Públicas, Transportes e Comunicações.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 321/2003 - Diário da República n.º 295/2003, Série I-A de 2003-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/321-2003-423922), em vigor a partir de 2003-12-28
+
+###### Artigo 8.º
+
+1 - As sociedades e suas formas de representação, bem como os estabelecimentos individuais de responsabilidade limitada que prossigam as actividades da indústria de transportes marítimos ou da marinha de recreio na Região Autónoma da Madeira, farão parte da actividade desenvolvida no âmbito institucional da zona franca e como tal integrarão aquela zona para todos os efeitos, desde que o requeiram e sejam devidamente licenciados.
+
+2 - A constituição e funcionamento das entidades referidas no número anterior dependem de autorização do Governo Regional da Madeira, estando sujeitas ao pagamento de uma taxa de instalação e de uma taxa anual de funcionamento, nos termos a definir pelos respetivos órgãos de governo próprio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 9.º
+
+- 1 - As entidades referidas no n.º 1 do artigo anterior regem-se pelas disposições do Código das Sociedades Comerciais e do Decreto-Lei n.º 248/86, de 25 de Agosto, em tudo o que não contrarie o disposto no presente diploma e o regime de registo e de funcionamento das sociedades e demais entidades licenciadas no âmbito institucional da zona franca da Madeira.
+
+2 - As entidades referidas no número anterior não ficarão sujeitas aos requisitos de capital mínimo previstos no Código das Sociedades Comerciais e no Decreto-Lei n.º 248/86, de 25 de Agosto.
+
+###### Artigo 10.º
+
+- 1 - As entidades de nacionalidade estrangeira que pretendam constituir na Região Autónoma da Madeira sociedade ou estabelecimento individual de responsabilidade limitada ou outra forma local de representação cujo objecto consista no exercício da indústria de transporte marítimo não carecem de autorização para efeitos de importação de capital.
+
+2 - A importação de capitais destinada à finalidade prevista no número anterior deve ser comunicada ao Banco de Portugal.
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 11.º
+
+- 1 - As entidades previstas no artigo 8.º não serão obrigadas a ter a sua sede social na Região Autónoma da Madeira.
+
+2 - Nos casos em que a sede social se situe fora da Região Autónoma da Madeira devem aquelas entidades dispor localmente de sucursal, delegação, agência ou qualquer outra forma de representação, dotada de todos os poderes necessários para, perante as autoridades do Estado ou da Região Autónoma da Madeira e perante terceiros, assegurar uma representação plena, com escolha de domicílio particular para o efeito.
+
+3 - Os poderes referidos no número anterior incluirão obrigatoriamente o de receber citações.
+
+###### Artigo 12.º
+
+Os membros da administração, direcção ou gerência das entidades referidas no artigo 8.º não ficarão sujeitos a requisitos de nacionalidade ou residência.
+
+### Capítulo III — Compra, venda e registo de navios
+
+###### Artigo 13.º
+
+A compra e venda de navios registados no MAR não está sujeita a qualquer autorização.
+
+###### Artigo 14.º
+
+1 - A venda de navios pode ser feita por declaração de venda (bill of sale), com reconhecimento da assinatura do vendedor, com menção à qualidade e poderes para o ato, quando aplicável.
+
+2 - A constituição, a modificação ou a extinção da hipoteca ou de direito a ela equivalente devem constar de documento assinado pelo titular do navio, com reconhecimento da assinatura, com menção à qualidade e poderes para o ato, quando aplicável.
+
+3 - A redução voluntária de hipoteca ou extinção por renúncia do credor deve constar de declaração expressa do credor hipotecário, com reconhecimento da assinatura, com menção à qualidade e poderes para o ato, quando aplicável.
+
+4 - As partes podem designar a lei aplicável à hipoteca ou direito equivalente, sem prejuízo da aplicação das normas constantes das convenções internacionais que vinculam internacionalmente o Estado Português.
+
+5 - No caso previsto no número anterior, com o pedido de registo é junta cópia dessa legislação, assinada pelas partes, depois de traduzida, exceto quando o conservador dispense, total ou parcialmente, a tradução ou determine que esta seja feita por perito por ele escolhido.
+
+6 - A escolha das partes deve ser inscrita em conjunto com o próprio registo da hipoteca.
+
+7 - Na falta de estipulação das partes ou na ausência de inscrição da mesma, a hipoteca ou direito equivalente rege-se pela lei portuguesa.
+
+8 - Nos casos previstos no número anterior, o adquirente dos bens hipotecados só pode exercer o direito à expurgação, previsto no artigo 721.º do Código Civil português, desde que o exercício desse direito garanta ao credor hipotecário o pagamento integral de todos os direitos e encargos decorrentes do contrato de hipoteca, não sendo aplicável o disposto na alínea b) do mencionado artigo.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+> Alterado pelo/a [Decreto-Lei n.º 5/97 - Diário da República n.º 7/1997, Série I-A de 1997-01-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/5-1997-302094), em vigor a partir de 1997-01-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 14.º-A
+
+1 - O registo de navios é submetido a tratamento informático.
+
+2 - Os requerimentos e documentos que servem de base principal a atos de registo devem ser arquivados em suporte eletrónico, assim que as condições técnicas o permitirem, nos termos a determinar por despacho do presidente do conselho diretivo do IRN, I. P.
+
+3 - Os requerimentos e documentos a arquivar em suporte eletrónico nos termos do número anterior têm a força probatória dos originais.
+
+4 - Quando ocorra o arquivo eletrónico referido no n.º 2, os documentos que serviram de base ao registo são devolvidos aos interessados.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-B
+
+1 - O pedido de registo pode ser apresentado presencialmente, por via eletrónica ou por correio.
+
+2 - A apresentação de pedido de registo por via eletrónica é regulamentada por portaria do membro do Governo responsável pela área da justiça.
+
+3 - Os documentos apresentados presencialmente são anotados pela ordem de entrega dos pedidos.
+
+4 - Os documentos apresentados pelo correio são anotados com a observação de 'correspondência', no dia da receção e imediatamente após a última apresentação presencial.
+
+5 - Em casos devidamente justificados, os interessados no registo podem solicitar a confirmação e realização de registos, sem subordinação à ordem de anotação no diário, e fora do horário de funcionamento da Conservatória, e aos sábados, domingos e feriados, desde que expressamente indiquem essa necessidade com, pelo menos, 48 horas de antecedência da apresentação do respetivo pedido de registo.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-C
+
+1 - Só podem ser registados os factos constantes de documentos que legalmente os comprovem.
+
+2 - Os documentos escritos em língua estrangeira só podem ser aceites quando traduzidos nos termos da lei ou quando redigidos em formato bilingue, desde que uma das línguas adotadas seja a língua portuguesa, salvo se estiverem redigidos em língua inglesa, francesa ou espanhola e o funcionário competente dominar essa língua.
+
+3 - Pode ser aceite tradução parcial, emitida nos termos da lei, desde que esta contenha a declaração de que a parte não traduzida não releva para efeitos do registo nem contraria a parte traduzida.
+
+4 - Sem prejuízo da apresentação de outros documentos, em caso de impossibilidade de apresentação de cópia do certificado de cancelamento de registo anterior de navio, a Conservatória procede ao registo definitivo com base em declaração escrita emitida pela autoridade de registo cessante, atestando o cancelamento do registo anterior, bem como o nome do último titular inscrito e a inexistência de ónus registados sobre o navio.
+
+5 - O documento referido no número anterior pode ser remetido à Conservatória, pela entidade de registo cessante, através de qualquer meio previsto na lei que permita salvaguardar o princípio da prioridade do registo, nomeadamente através de correio eletrónico.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-D
+
+1 - Os originais ou cópias certificadas dos documentos que titulem os factos sujeitos a registo podem ser entregues em qualquer posto ou secção consular de Portugal no estrangeiro, incluindo os consulados honorários, ficando estes encarregues de os remeter à Conservatória competente dentro do prazo de 15 dias.
+
+2 - No caso previsto no número anterior, deve o posto ou secção consular de Portugal no estrangeiro, ou consulado honorário quando aplicável, notificar a Conservatória competente, até ao momento da apresentação a registo, que está na posse dos originais ou cópias certificadas dos documentos que titulam os factos sujeitos a registo, identificando-os nomeadamente quanto à entidade emitente e respetiva data de emissão.
+
+3 - A notificação a que se refere o número anterior poderá ser efetuada através de qualquer meio previsto na lei que permita salvaguardar o princípio da prioridade do registo, nomeadamente através de correio eletrónico.
+
+4 - A entrega dos originais ou cópias certificadas dos documentos nos termos do presente artigo não prejudica a inscrição do respetivo pedido de registo como definitivo quando tal resulte da decisão de qualificação do mesmo.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-E
+
+1 - Os registos são efetuados no prazo de um dia útil e pela ordem de anotação.
+
+2 - Sem prejuízo do disposto no número anterior, nos casos previstos no n.º 5 do artigo 14.º-B, os registos são confirmados e efetuados, sem subordinação à ordem de anotação no diário, mas sem prejuízo da dependência dos atos relativamente a cada navio, no prazo máximo de uma hora a contar do momento em que são apresentados.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-F
+
+1 - O registo prova-se por meio de certidão, cuja validade é de seis meses, podendo ser revalidada por períodos de igual duração se a sua informação se mantiver atual.
+
+2 - As certidões podem ser disponibilizadas em suporte eletrónico, em termos a definir pela portaria referida no n.º 2 do artigo 14.º-B.
+
+3 - As certidões disponibilizadas nos termos do número anterior fazem prova para todos os efeitos legais e perante qualquer autoridade pública ou entidade privada, nos mesmos termos da correspondente versão em suporte de papel.
+
+4 - Sem prejuízo do referido no n.º 2, por cada processo de registo é disponibilizada, gratuitamente, uma certidão eletrónica pelo período de três meses.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-G
+
+1 - A Conservatória e os interessados estão sujeitos a um dever de colaboração recíproco.
+
+2 - A Conservatória presta a necessária assessoria aos interessados, designadamente na apreciação e análise dos documentos indispensáveis à instrução dos atos de registo.
+
+3 - A colaboração dos interessados com a Conservatória compreende, designadamente, a apresentação de documentos adicionais que esta, no âmbito da apreciação referida no número anterior, lhes solicitar.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-H
+
+São aplicáveis ao registo comercial de navios, com as necessárias adaptações e na medida indispensável ao preenchimento das lacunas da regulamentação própria, as disposições relativas ao registo predial que não sejam contrárias aos princípios informadores do presente diploma.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-I
+
+1 - O contrato de hipoteca pode, em caso de incumprimento, conferir ao credor hipotecário o direito de disposição sobre o navio, desde que sobre ele não incida hipoteca de grau superior, salvo se os respetivos titulares manifestarem, por escrito, o seu assentimento.
+
+2 - O direito de disposição confere ao credor hipotecário os poderes de apreender, fazer navegar e alienar o navio, nos termos previstos no contrato, como se fosse seu proprietário.
+
+3 - Exercido o direito de disposição, o credor é obrigado:
+
+a) A administrar o navio e a sua carga como um proprietário diligente, respondendo pela sua existência e conservação;
+
+b) A prestar contas da sua administração ao proprietário do navio no prazo convencionado;
+
+c) A promover a alienação do navio segundo as regras da boa-fé;
+
+d) A restituir o navio, extinta a obrigação garantida pela hipoteca, caso essa extinção ocorra antes da alienação do navio.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-J
+
+1 - O credor hipotecário notifica o devedor da intenção de proceder à alienação do navio com, pelo menos, 30 dias de antecedência.
+
+2 - A transmissão do direito de propriedade só pode ter lugar, uma vez avaliado o navio, após o vencimento da obrigação, segundo o modo e os critérios estabelecidos no contrato de hipoteca ou, na sua falta, segundo os que sejam definidos por um terceiro independente de acordo com critérios comerciais razoáveis.
+
+3 - A satisfação dos direitos de crédito sobre o navio é realizada de acordo com as normas aplicáveis ao concurso de créditos, sendo os credores hipotecários pagos dos seus créditos pela ordem da prioridade do registo comercial.
+
+4 - Transmitido o direito de propriedade sobre o navio, o credor hipotecário fica obrigado a restituir ao proprietário do navio o montante correspondente à diferença entre o valor apurado nos termos do n.º 2 e o montante da obrigação garantida, depois de satisfeitos os créditos dos credores reclamantes de créditos privilegiados ou com garantia sobre o navio.
+
+5 - A pedido do proprietário do navio ou de qualquer credor, o credor hipotecário deve prestar contas dos pagamentos realizados ao abrigo do número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-K
+
+1 - É lícito às partes convencionarem que a alienação ou oneração do navio hipotecado depende de prévio consentimento do credor hipotecário.
+
+2 - O credor hipotecário a quem seja solicitado consentimento nos termos do número anterior tem o ónus de responder ao devedor hipotecário dentro do prazo máximo convencionado, findo o qual o consentimento se considera prestado.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-L
+
+Na hipoteca constituída e regida pela lei portuguesa, pode o credor hipotecário usufruir dos restantes meios de garantia e de tutela aí previstos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-M
+
+1 - A hipoteca assegura os acessórios do crédito que constem do registo, nomeadamente juros moratórios e remuneratórios, as despesas de constituição e do registo da hipoteca e a cláusula penal contratualmente acordada.
+
+2 - Tratando-se de juros, a hipoteca abrange os relativos ao período da obrigação garantida pela hipoteca.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 14.º-N
+
+O regime previsto nos artigos 14.º-I a 14.º-K não é aplicável às embarcações de recreio registadas ou a registar no MAR, tal como definidas no artigo 2.º, alínea a), do regulamento aplicável às embarcações de recreio registadas ou a registar no Registo Internacional de Navios da Madeira, aprovado em anexo ao Decreto-Lei n.º 192/2003, de 22 de agosto.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 15.º
+
+1 - São objecto de registo no MAR os navios de que sejam proprietários:
+
+a) Entidades licenciadas, a que se refere o artigo 8.º;
+
+b) Entidades não inseridas no âmbito institucional da zona franca da Madeira.
+
+2 - Serão igualmente registáveis no MAR, a título temporário, os navios tomados de fretamento em casco nu pelas entidades referidas no número anterior, desde que devidamente autorizados pelos seus proprietários, pela autoridade competente do país no qual se encontra feito o registo de propriedade e pelo(s) credor(es) hipotecário(s), caso exista(m).
+
+3 - Os navios registados no MAR têm acesso ao transporte de passageiros ou de mercadorias entre os portos do continente (cabotagem continental) e entre os portos do continente e os das Regiões Autónomas dos Açores e da Madeira, entre os portos destas e entre os portos de cada uma daquelas Regiões (cabotagem insular), nos termos da legislação aplicável à cabotagem nacional, desde que os seus proprietários ou afretadores em casco nu sejam:
+
+a) Nacionais de um Estado membro da União Europeia que estejam estabelecidos num Estado membro ao abrigo da legislação desse Estado e que se dediquem a actividades de navegação;
+
+b) Pessoas colectivas que se dediquem a actividades de navegação estabelecidas de acordo com a legislação de um Estado membro e cuja sede principal esteja situada num Estado membro, sendo neste Estado exercido o seu controlo efectivo;
+
+c) Nacionais de um Estado membro estabelecidos fora da Comunidade ou pessoas colectivas estabelecidas fora da comunidade e controladas por nacionais de um Estado membro, desde que os seus navios se encontrem registados num Estado membro e arvorem o respectivo pavilhão, de acordo com a sua legislação.
+
+4 - A Comissão Técnica do MAR deve manter o IMT, I. P., informado dos navios registados no MAR que satisfaçam as condições fixadas para a sua utilização na cabotagem nacional, bem como o início e termo da sua utilização neste tráfego.
+
+5 - Com exceção das embarcações de recreio, os navios registados no MAR só podem operar na área de navegação do tráfego local com autorização da IMT, I. P..
+
+6 - Os navios registados no MAR não poderão beneficiar de quaisquer apoios, os quais são exclusivamente reservados à restante frota sob bandeira nacional.
+
+7 - Os navios de bandeira portuguesa que tenham recebido incentivos ao investimento não poderão transferir o seu registo para o MAR antes de satisfazerem os compromissos assumidos perante o Estado português.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 331/99 - Diário da República n.º 194/1999, Série I-A de 1999-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/331-1999-434012), em vigor a partir de 1999-08-25
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 31/97 - Diário da República n.º 23/1997, Série I-A de 1997-01-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-1997-571198), em vigor a partir de 1997-02-02, produz efeitos a partir de 1997-01-01
+
+###### Artigo 15.º-A
+
+1 - Os navios referidos no artigo anterior podem ser registados a título provisório no MAR, com base em cópias dos documentos relevantes para registo.
+
+2 - Após a data do registo provisório, o requerente dispõe de um prazo de 90 dias para entregar os documentos originais ao MAR junto com o requerimento para o registo definitivo do navio, findo o qual o registo caduca.
+
+3 - O requerente pode solicitar a prorrogação do prazo referido no número anterior por um período de 60 dias, oferecendo ao MAR prova de justo impedimento da entrega tempestiva dos documentos em falta.
+
+4 - Oficiosamente, a comissão técnica do MAR pode prorrogar o prazo do registo provisório referido no n.º 2 por um período máximo de 60 dias, quando tal se justifique.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 15.º-B
+
+O registo temporário a que se refere o artigo 15.º, n.º 2, não confere a nacionalidade portuguesa ao navio, mas confere o direito ao uso da bandeira portuguesa, ficando este sujeito aos requisitos técnicos exigidos aos navios nacionais.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 15.º-C
+
+1 - Efetuado o registo temporário do navio, a Comissão Técnica do MAR emitirá o correspondente certificado, que será de modelo a aprovar em portaria do Ministro do Mar.
+
+2 - Do certificado de registo temporário do navio deve constar, pelo menos:
+
+a) Os elementos de identificação do navio;
+
+b) Os elementos de identificação do proprietário e do afretador a casco nu;
+
+c) O local do registo da propriedade do navio no estrangeiro;
+
+d) O prazo de validade do registo temporário concedido pela autoridade competente do local do registo da propriedade;
+
+e) Declaração expressa de que as questões relacionadas com direitos reais sobre o navio são reguladas pela lei da nacionalidade do navio e são apenas registadas e publicadas pela autoridade competente do país no qual se encontra feito o registo de propriedade, nomeadamente no que se refere a informação atualizada quanto a ónus e encargos que impendam sobre este; e
+
+f) A data de validade do certificado, a qual deverá coincidir com o prazo a que se refere a alínea d).
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 15.º-D
+
+1 - Os registos temporários efetuados ao abrigo do artigo 15.º, n.º 2, são cancelados quando:
+
+a) Caducar a validade do certificado de registo temporário, a menos que este tenha sido prorrogado, nos termos do n.º 2;
+
+b) Ocorrer resolução ou extinção do contrato de fretamento;
+
+c) Ocorrer revogação da autorização do(s) credor(es) hipotecário(s) a que se refere o artigo 15.º, n.º 2, com fundamento em incumprimento das obrigações garantidas pelas hipotecas;
+
+d) For solicitado pela autoridade competente do país no qual se encontra feito o registo de propriedade.
+
+2 - Os certificados de registo temporário podem ser prorrogados mediante a apresentação no MAR das autorizações a que se refere artigo 15.º, n.º 2.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 15.º-E
+
+São aplicáveis ao registo temporário, com as necessárias adaptações e na medida indispensável ao preenchimento das lacunas da regulamentação própria, as disposições do Decreto-Lei n.º 287/83, de 22 de junho, na sua redação atual, que não sejam contrárias aos princípios informadores do presente diploma.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 16.º
+
+Os navios referidos no artigo 15.º bem como os factos referentes às hipotecas com eles relacionados podem ser provisoriamente registados nos consulados de Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+###### Artigo 17.º
+
+1 - As entidades off-shore requerentes do registo farão prova dos requisitos a seguir indicados:
+
+a) Licenciamento na Região Autónoma da Madeira, nos termos do presente diploma e demais legislação aplicável;
+
+b) Título de aquisição do navio;
+
+c) Liquidação das taxas a que se refere o n.º 2 do artigo 8.º
+
+2 - As demais entidades referidas no artigo 8.º farão prova do seguinte:
+
+a) Indicação da firma ou denominação social, domicílio ou sede do requerente, com junção do respectivo contrato de sociedade, em caso de se tratar de pessoa colectiva;
+
+b) Identificação completa, em caso de se tratar de pessoa singular;
+
+c) Título de aquisição do navio.
+
+3 - Nos casos em que se situe fora da Região Autónoma da Madeira o domicílio ou sede das entidades referidas no número anterior que tenham por objecto a indústria de transporte marítimo deverão ser cumpridos os requisitos a que aludem os n.os 2 e 3 do artigo 11.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 18.º
+
+O MAR poderá autorizar o registo temporário no estrangeiro de navios afretados em casco nu.
+
+###### Artigo 19.º
+
+A emissão dos certificados dos navios registados no MAR fica subordinada aos padrões estabelecidos pelas convenções internacionais em vigor na ordem jurídica portuguesa.
+
+### Capítulo IV — Tripulações e lotações
+
+###### Artigo 20.º
+
+1 - Sem prejuízo do disposto nos números seguintes, pelo menos 30 % dos tripulantes dos navios registados no MAR devem ser cidadãos de nacionalidade portuguesa ou nacionais de países europeus ou de países de língua oficial portuguesa.
+
+2 - Em casos especiais devidamente justificados, quando não seja possível o recrutamento de marítimos nacionais dos países referidos no número anterior, o membro do Governo responsável pela área da segurança marítima pode autorizar o embarque de marítimos de outras nacionalidades, para além do limite previsto no número anterior.
+
+3 - O disposto no presente artigo não se aplica às embarcações de recreio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+> Alterado pelo/a [Decreto-Lei n.º 248/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/decreto-lei/248-2002-425480), em vigor a partir de 2002-11-13
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 393/93 - Diário da República n.º 274/1993, Série I-A de 1993-11-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1993-674418), em vigor a partir de 1993-11-28
+
+###### Artigo 21.º
+
+- 1 - Os tripulantes deverão satisfazer as qualificações académicas e técnicas exigidas para o exercício das respectivas funções, em conformidade com as convenções internacionais vigentes na ordem jurídica portuguesa sobre a matéria.
+
+2 - O Regulamento de Inscrição Marítima, Matrícula e Lotações não será aplicável aos navios registados no MAR.
+
+3 - O regime disciplinar será objecto de legislação própria.
+
+###### Artigo 22.º
+
+A contratação e as condições de trabalho das tripulações deverão apenas obedecer ao disposto nas convenções internacionais vigentes na ordem jurídica portuguesa sobre a matéria.
+
+###### Artigo 23.º
+
+Os critérios a que deverá obedecer a fixação de lotações mínimas serão estabelecidos em diploma próprio.
+
+###### Artigo 23.º-A
+
+A comprovação da compensação das agulhas magnéticas nos navios registados no MAR é feita através da existência a bordo de tabelas atualizadas de desvios residuais e informação sobre os compensadores aplicados.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 23.º-B
+
+1 - Os navios registados no MAR devem possuir e manter os livros e diários de bordo requeridos pela legislação nacional e internacional aplicável estando, contudo, dispensados da utilização obrigatória dos modelos de livros e diários de bordo estabelecidos pela legislação nacional, podendo utilizar outros modelos de livros e diários de bordo, desde que incluam todos os elementos relevantes para o seu propósito e cumpram com os requisitos internacionais aplicáveis.
+
+2 - Os livros e diários de bordo podem também tomar a forma de registos informáticos, desde que os respetivos sistemas tenham sido aprovados de acordo com os requisitos internacionais aplicáveis e tenham em consideração as recomendações e linhas de orientação relevantes, nomeadamente no que respeita à integridade e disponibilidade dos registos.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+###### Artigo 23.º-C
+
+1 - Os factos e ocorrências de natureza civil devem ser registados em livro próprio ou em papel avulso, em duplicado, e observar o disposto nos artigos 109.º e seguintes do Código do Registo Civil, aprovado pelo Decreto-Lei n.º 131/95, de 6 de junho.
+
+2 - Estão sujeitos a registo os seguintes factos e ocorrências de natureza civil, sem prejuízo de outros que a lei determine ou que, pela sua relevância, o comandante ache de registar:
+
+a) Nascimentos ocorridos a bordo, nos termos dos artigos 109.º e seguintes do Código do Registo Civil;
+
+b) Declaração de maternidade a bordo, nos termos do artigo 128.º, n.º 1, do Código do Registo Civil;
+
+c) Óbitos ocorridos a bordo, nos termos do artigo 204.º do Código do Registo Civil;
+
+d) Testamentos feitos a bordo de navio, nos termos do artigo 2214.º e seguintes do Código Civil.
+
+> Aditado pelo/a Artigo 3.º do/a [Lei n.º 56/2020 - Diário da República n.º 167/2020, Série I de 2020-08-27](https://diariodarepublica.pt/dr/detalhe/lei/56-2020-141259622), em vigor a partir de 2020-09-01
+
+### Capítulo V — Regime fiscal
+
+###### Artigo 24.º
+
+- 1 - O regime fiscal aplicável às entidades referidas no artigo 8.º é o previsto na legislação relativa à zona franca da Madeira.
+
+2 - O regime referido no número anterior aplica-se também aos navios registados no MAR.
+
+###### Artigo 25.º
+
+1 - Os tripulantes devem estar abrangidos por um regime de proteção social que cubra obrigatoriamente as eventualidades de doença, doença profissional e parentalidade.
+
+2 - A cobertura das eventualidades referidas no número anterior pode ser feita por qualquer regime de proteção social, salvo no caso de tripulantes nacionais ou residentes em território nacional cuja cobertura é obrigatoriamente efetuada pela inscrição no regime geral de segurança social dos trabalhadores por conta de outrem.
+
+3 - No caso de inscrição no regime geral de segurança social dos trabalhadores por conta de outrem, a taxa contributiva é de 2,7 %, cabendo 2,0 % à entidade empregadora e 0,7 % ao trabalhador.
+
+4 - Os tripulantes podem ainda inscrever-se no regime de seguro social voluntário para proteção nas eventualidades de invalidez, velhice e morte.
+
+> Alterado pelo/a Artigo 2.º do/a [Lei n.º 23/2015 - Diário da República n.º 53/2015, Série I de 2015-03-17](https://diariodarepublica.pt/dr/detalhe/lei/23-2015-66773611), em vigor a partir de 2015-03-22
+
+###### Artigo 26.º
+
+Os actos de registo comercial previstos neste diploma encontram-se isentos de quaisquer taxas ou emolumentos.
+
+###### Artigo 27.º
+
+- 1 - Os actos de registo dos navios implicam o pagamento de uma taxa aquando da efectivação do registo e de uma taxa de manutenção anual, destinada a cobrir as despesas com o serviço de registo, cujo produto constitui receita da Região Autónoma da Madeira.
+
+2 - O incumprimento do disposto no número anterior implica o imediato cancelamento do registo.
+
+3 - Pelas restantes prestações de serviços do MAR aos utentes, a que se refere o artigo 3.º, serão devidas taxas, que constituirão receitas da Região Autónoma da Madeira.
+
+4 - O montante das taxas referidas nos números anteriores será fixado pelos respectivos órgãos de governo próprio.
+
+###### Artigo 28.º
+
+1 - A violação do artigo 6.º, do n.º 2 do artigo 8.º, do n.º 2 do artigo 11.º, do n.º 3 do artigo 15.º, do n.º 1 do artigo 20.º, do n.º 1 do artigo 21.º e do artigo 25.º constitui contraordenação punível com coima até (euro) 1 000,00 ou (euro) 15 000,00, conforme se trate de pessoa singular ou coletiva.
+
+2 - A violação do n.º 2 do artigo 8.º e do n.º 3 do artigo 15.º pode determinar também a aplicação, como sanção acessória, da suspensão temporária ou do cancelamento do registo.
+
+3 - A negligência é punível.
+
+4 - O processamento das contra-ordenações e a aplicação das respectivas coimas competem à entidade indicada pelos órgãos de governo próprio da Região, para quem reverterá o produto das coimas aplicadas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 234/2015 - Diário da República n.º 200/2015, Série I de 2015-10-13](https://diariodarepublica.pt/dr/detalhe/decreto-lei/234-2015-70641450), em vigor a partir de 2015-10-14
+
+### Capítulo VI — Disposições transitórias e finais
+
+###### Artigo 29.º
+
+Até à entrada em vigor da legislação complementar a este diploma aplicar-se-á, com as devidas adaptações, a legislação vigente sobre cada uma das matérias a disciplinar.
+
+###### Artigo 30.º
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 19 de Janeiro de 1989. - Aníbal António Cavaco Silva - Lino Dias Miguel - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Joaquim Fernando Nogueira - José Bernardo Veloso Falcão e Cunha.
+
+Promulgado em 11 de Março de 1989.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 16 de Março de 1989.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.

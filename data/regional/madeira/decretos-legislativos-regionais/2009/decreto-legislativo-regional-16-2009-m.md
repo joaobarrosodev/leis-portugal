@@ -1,0 +1,872 @@
+---
+schema_version: '1.0'
+id: pt:dre:491931:por
+title: Decreto Legislativo Regional n.º 16/2009/M
+short_title: null
+summary: Aprova o regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa
+proposing_entity: null
+official_number: 16/2009/M
+official_date: null
+publication_date: '2009-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 124/2009, Série I de 2009-06-30
+  number: '124'
+  series: I
+  supplement: null
+  pages: 4220 - 4227
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/06/12400/0422004227.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-08-04'
+version_history:
+  file: decreto-legislativo-regional-16-2009-m.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-08-21'
+    amending: pt:dre:116108111:por
+    amending_title: Decreto Legislativo Regional n.º 17/2018/M
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 34.º
+  - date: '2021-05-01'
+    amending: pt:dre:159219302:por
+    amending_title: Decreto Legislativo Regional n.º 5/2021/M
+    changes:
+    - Altera Artigo 17.º
+    - Altera Artigo 34.º
+  - date: '2023-08-04'
+    amending: pt:dre:216674064:por
+    amending_title: Decreto Legislativo Regional n.º 39/2023/M
+    changes:
+    - Adita Artigo 9.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 17.º-A
+    - Adita Artigo 18.º-A
+    - Adita Artigo 21.º-A
+    - Adita Artigo 35.º-A
+    - Adita Artigo 35.º-B
+    - Adita Artigo 35.º-C
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 24.º
+    - Altera Artigo 26.º
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Revoga Artigo 14.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 27.º
+    - Revoga Artigo 28.º
+    - Revoga Artigo 29.º
+    - Revoga Artigo 30.º
+    - Revoga Artigo 31.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/16/2009/m/cons/20230803/pt/html
+  oj: null
+  dre: '491931'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/16-2009-491931
+  internal: pt:dre:491931:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/16-2009-491931
+  metadata_url: https://data.dre.pt/eli/declegreg/16/2009/m/cons/20230803/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-116126595
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2009-116126595
+  retrieved_at: '2026-10-22T12:21:10Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: f43d7c2069828d2f4610bf5ce64dac0dc2ea1f7f1835a26ae650245c0769efe5
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:21:10Z'
+  notes: 4 versão(ões); histórico completo em decreto-legislativo-regional-16-2009-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Conselho de Governo
+- Proteção Civil
+- Centro de Coordenação Operacional
+- Comando Regional
+- Governo Regional
+- Coordenador Regional
+- Criação de Serviços
+- Definição de Competências
+- Catástrofe
+- Presidente do Governo Regional
+- Conselho Consultivo
+- Plano de Emergência
+- Madeira.região Autónoma
+- Regime Jurídico
+- Secretário Regional
+- Siops
+- Autarquia Local
+- Situação de Contingência
+- Situação de Alerta
+- Situação de Calamidade
+relationships:
+- type: amended_by
+  target: pt:dre:116108111:por
+  label: Altera Artigo 17.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2018-116108111
+  date: '2018-08-20'
+- type: amended_by
+  target: pt:dre:159219302:por
+  label: Altera Artigo 17.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302
+  date: '2021-03-11'
+- type: amended_by
+  target: pt:dre:216674064:por
+  label: Adita Artigo 9.º-A; Adita Artigo 15.º-A; Adita Artigo 17.º-A; Adita Artigo 18.º-A; Adita Artigo 21.º-A; Adita Artigo
+    35.º-A; Adita Artigo 35.º-B; Adita Artigo 35.º-C; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 11.º; Altera Artigo
+    12.º; Altera Artigo 13.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo
+    24.º; Altera Artigo 26.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064
+  date: '2023-08-03'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/134/2006/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/134/2006/07/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/15/1994/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/15/1994/01/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/44/2002/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/44/2002/03/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/1998/05/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/65/2007/11/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/65/2007/11/12/p/dre
+article_structure:
+  article_count: 46
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:21:10Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 16/2009/M
+
+Decreto Legislativo Regional n.º 16/2009/M
+
+Aprova o regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira
+
+A Lei n.º 27/2006, de 3 de Julho, que aprovou a Lei de Bases da Protecção Civil, regula a actividade desenvolvida pelo Estado, Regiões Autónomas e autarquias locais, pelos cidadãos e por todas as entidades públicas e privadas.
+
+A referida lei define também os princípios aplicáveis às actividades de protecção civil e os deveres gerais e especiais no sentido de haver uma colaboração entre várias entidades na prossecução dos fins da protecção civil.
+
+No mesmo sentido, veio o Decreto-Lei n.º 134/2006, de 25 de Julho, consolidar a doutrina operacional relativa à coordenação das diversas entidades que actuam como agentes de protecção civil, definindo o Sistema Integrado de Operações de Protecção e Socorro, abreviadamente designado por SIOPS-RAM, como um conjunto de estruturas, normas e procedimentos de natureza permanente e conjuntural que asseguram que todos esses agentes actuem, no plano operacional, articuladamente sob um comando único, sem prejuízo da respectiva dependência hierárquica e funcional.
+
+Posteriormente, com a entrada em vigor da Lei n.º 65/2007, de 12 de Novembro, foi definido o enquadramento institucional e operacional da protecção civil no âmbito municipal, estabelecida a organização dos serviços municipais de protecção civil e definidas as competências do comandante operacional municipal.
+
+Tratando-se de matéria cuja aplicação à Região Autónoma da Madeira importa garantir, no âmbito deste diploma, torna-se imperioso que, face às especificidades da RAM, nomeadamente as decorrentes da exiguidade territorial dos seus municípios, sejam introduzidas algumas alterações.
+
+Neste sentido, e por considerar-se que a nível regional, pelas razões atrás expostas, não se justifica a existência de comandantes operacionais municipais, optou-se por facultar, aos municípios que assim o entendam, a possibilidade de criarem a figura do coordenador municipal de protecção civil, com um quadro de atribuições e competências mais consentâneo com as aspirações dos municípios.
+
+Assim, as matérias relativas ao comandante operacional municipal, ao Sistema de Defesa da Floresta contra Incêndios e outros de natureza estritamente orgânica serão objecto de adequação à realidade do sistema regional.
+
+Neste contexto, o n.º 2 do artigo 60.º da Lei de Bases de Protecção Civil dispõe que, nas Regiões Autónomas, os componentes do sistema de protecção civil, a responsabilidade sobre a respectiva política e a estruturação dos serviços de protecção civil constantes daquela lei, bem como as competências dela decorrentes, são definidos por diploma das respectivas Assembleias Legislativas Regionais.
+
+Nesta sequência, importa que, atendendo às particularidades específicas da Região Autónoma da Madeira em matéria de protecção civil, sejam definidas as normas gerais de enquadramento do regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira.
+
+No plano operacional importa ainda definir a coordenação institucional e o comando operacional, relativamente à articulação dos diversos agentes de protecção e socorro, de forma a dar cumprimento ao princípio do comando único.
+
+Foram observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio.
+
+Assim:
+
+A Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos do disposto na alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa, conjugada com a alínea hh) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pelas Leis n.os 130/99, de 21 de Agosto, e 12/2000, de 21 de Junho, e do n.º 2 do artigo 60.º da Lei n.º 27/2006, de 3 de Julho, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma estabelece as normas enquadradoras gerais do regime jurídico do Sistema de Protecção Civil da Região Autónoma da Madeira, no que se refere aos componentes do Sistema de Protecção Civil, responsabilidade sobre a respectiva política e estruturação dos serviços de protecção civil.
+
+2 - O Sistema de Proteção Civil da Região Autónoma da Madeira é instituído em função das necessidades de proteção civil da Região e desenvolve-se em obediência aos princípios estabelecidos pela Lei de Bases de Proteção Civil, pelo Sistema Integrado de Operações de Proteção e Socorro (SIOPS), pela Lei n.º 65/2007, de 12 de novembro, na sua redação atual, pelo Sistema Nacional de Monitorização e Comunicação de Risco, de Alerta Especial e de Aviso à População, instituído pelo Decreto-Lei n.º 2/2019, de 11 de janeiro, e pelo disposto no presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 2.º — Sistema de Protecção Civil da RAM
+
+1 - O Sistema de Protecção Civil da Região Autónoma da Madeira consiste no conjunto articulado de todas as actividades desenvolvidas pelos agentes de protecção civil com a finalidade de prevenir riscos colectivos inerentes a situações de acidente grave ou catástrofe, bem como de atenuar os seus efeitos, proteger e socorrer as pessoas e bens em perigo quando aquelas situações ocorram.
+
+2 - No plano operacional, as acções de protecção civil desenvolvem-se de acordo com o Sistema Integrado de Operações de Protecção e Socorro da Região Autónoma da Madeira.
+
+### Capítulo II — Enquadramento, coordenação, direcção e execução da política de protecção civil
+
+###### Artigo 3.º — Governo Regional
+
+1 - A condução da política de protecção civil é da competência do Governo Regional, que através do respectivo Programa inscreve as principais orientações a adoptar ou a propor naquele domínio.
+
+2 - Ao Conselho de Governo compete:
+
+a) Definir as linhas gerais da política governamental de protecção civil, bem como a sua execução;
+
+b) Programar e assegurar os meios destinados à execução da política de protecção civil;
+
+c) Declarar a situação de calamidade;
+
+d) Adoptar, no caso previsto na alínea anterior, as medidas de carácter excepcional destinadas a repor a normalidade das condições de vida nas zonas atingidas;
+
+e) Deliberar sobre a afectação extraordinária dos meios financeiros indispensáveis à aplicação das medidas previstas na alínea anterior.
+
+f) Ativar, após a declaração da situação de alerta, para a totalidade do território da Região Autónoma da Madeira ou com o âmbito circunscrito a uma parcela desse território e desativar planos de emergência de proteção civil de âmbito regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 4.º — Presidente do Governo Regional
+
+1 - O Presidente do Governo Regional é responsável pela direcção da política de protecção civil, competindo-lhe, designadamente:
+
+a) Coordenar e orientar a acção dos membros do Governo nos assuntos relacionados com a protecção civil;
+
+b) Garantir o cumprimento das competências previstas no artigo anterior.
+
+2 - O Presidente do Governo Regional pode delegar as competências referidas no número anterior no secretário regional que tutela a área da protecção civil.
+
+###### Artigo 5.º — Secretário regional com a tutela da protecção civil
+
+1 - Compete ao secretário regional que tutela a área da protecção civil, no âmbito das competências que lhe forem delegadas pelo Presidente do Governo, desencadear, na iminência ou ocorrência de acidente grave ou catástrofe, as acções de protecção civil de prevenção, socorro, assistência e reabilitação adequadas em cada caso.
+
+2 - No âmbito das competências que lhe forem atribuídas, nos termos do número anterior, o secretário regional que tutela a área da protecção civil é apoiado pela Comissão Regional de Protecção Civil.
+
+### Capítulo III — Alerta, contingência e calamidade
+
+###### Artigo 6.º — Competência para declaração de alerta
+
+1 - Cabe ao presidente da câmara municipal declarar a situação de alerta de âmbito municipal.
+
+2 - Cabe ao secretário regional que tutela a área da protecção civil, sob proposta do presidente do Serviço Regional de Protecção Civil, IP-RAM, adiante designado por SRPC, IP-RAM, declarar a situação de alerta no todo ou em parte do seu âmbito territorial de competência, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos municípios abrangidos.
+
+###### Artigo 7.º — Competência para declaração de contingência
+
+A declaração da situação de contingência cabe ao membro do Governo Regional que tutela a área da protecção civil, sob proposta do presidente do SRPC, IP-RAM, precedida da audição, sempre que possível, dos presidentes das câmaras municipais dos concelhos abrangidos.
+
+###### Artigo 8.º — Competência para a declaração de calamidade
+
+A declaração da situação de calamidade é da competência do Governo Regional e reveste a forma de resolução do Conselho de Governo.
+
+###### Artigo 9.º — Reconhecimento antecipado
+
+1 - A resolução do Conselho de Governo referida no artigo anterior pode ser precedida de despacho do Presidente do Governo Regional reconhecendo a necessidade de declarar a situação de calamidade.
+
+2 - O despacho do Presidente do Governo Regional, referido no número anterior, produz efeitos imediatos.
+
+###### Artigo 9.º-A — Produção de efeitos
+
+1 - Sem prejuízo da necessidade de publicação, os atos que declaram a situação de alerta ou a situação de contingência, o despacho referido no artigo 9.º, bem como a resolução do Conselho do Governo Regional que declara a situação de calamidade, produzem efeitos imediatos.
+
+2 - Nos casos referidos no número anterior, o autor da declaração deve diligenciar pela mais ampla difusão do seu conteúdo, tendo em conta os meios disponíveis, devendo, logo que possível, assegurar a sua divulgação na página na Internet da entidade que a proferiu e/ou do Governo Regional.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+### Capítulo IV — Estrutura de protecção civil
+
+###### Artigo 10.º — Organização
+
+A estrutura de protecção civil, na Região Autónoma da Madeira, organiza-se ao nível regional e municipal.
+
+###### Artigo 11.º — Comissão Regional de Protecção Civil
+
+1 - A Comissão Regional de Protecção Civil, abreviadamente designada por CRPC, é o órgão de coordenação em matéria de protecção civil.
+
+2 - Compete à Comissão:
+
+a) Garantir a concretização das linhas gerais da política governamental de protecção civil em todos os serviços da administração regional;
+
+b) Apreciar as bases gerais da organização e do funcionamento dos organismos e serviços que, directa ou indirectamente, desempenhem funções de protecção civil;
+
+c) Apreciar os acordos ou convenções sobre cooperação internacional, nomeadamente no espaço geográfico da Macaronésia, em matéria de protecção civil;
+
+d) Acompanhar as políticas diretamente ligadas ao sistema de proteção civil que sejam desenvolvidas por agentes públicos;
+
+e) Acionar a elaboração, acompanhar a execução e emitir parecer prévio aos planos de emergência de âmbito regional;
+
+f) Promover a realização de exercícios, simulacros ou treinos operacionais, de âmbito regional, que contribuam para a eficácia de todos os serviços intervenientes em ações de proteção civil;
+
+g) Determinar a constituição de subcomissões, que tenham como objeto o acompanhamento de matérias específicas;
+
+h) Avaliar a situação, após a declaração da situação de alerta, para a totalidade do território da Região Autónoma da Madeira ou com o âmbito circunscrito a uma parcela desse território, tendo em vista o acionamento de planos de emergência de âmbito regional;
+
+i) Propor o acionamento dos planos de emergência de proteção civil de âmbito regional quando tal se justifique;
+
+j) Desencadear as ações previstas nos planos de emergência de proteção civil de âmbito regional e assegurar a conduta das operações de proteção civil deles decorrentes;
+
+k) Possibilitar a mobilização rápida e eficiente das organizações e pessoal indispensáveis e dos meios disponíveis que permitam a conduta coordenada das ações a executar;
+
+l) Avaliar a situação e propor ao Governo Regional que formule pedidos de auxílio externo através dos órgãos competentes;
+
+m) Difundir os comunicados oficiais que se mostrem adequados às situações previstas no presente diploma.
+
+3 - A Comissão assiste o Presidente do Governo e o Governo no exercício das suas competências em matéria de protecção civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 12.º — Composição da Comissão Regional de Protecção Civil
+
+1 - Integram a respectiva Comissão:
+
+a) O secretário regional que tutela a área da protecção civil, que preside;
+
+b) Um representante de cada uma das secretarias regionais;
+
+c) O presidente do SRPC, IP-RAM;
+
+d) (Revogada.)
+
+e) Os responsáveis máximos pelas Forças Armadas, forças e serviços de segurança existentes na Região ou seus representantes;
+
+f) (Revogada.)
+
+g) Um representante da Associação de Municípios da RAM;
+
+h) Um representante da Federação Regional dos Bombeiros;
+
+i) Um representante do Instituto das Florestas e Conservação da Natureza, IP-RAM;
+
+j) Um representante da Delegação Regional da Associação Nacional de Freguesias;
+
+k) Representantes de outras entidades e serviços, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da RAM, contribuir para as acções de protecção civil.
+
+2 - A CRPC é convocada pelo secretário regional que tutela a área da protecção civil na Região ou, na sua ausência ou impedimento, por quem for por ele designado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 13.º — Composição das comissões municipais de protecção civil
+
+Integram a comissão municipal de protecção civil:
+
+a) O Presidente da Câmara Municipal, como responsável municipal da política de protecção civil, que preside;
+
+b) O coordenador municipal de proteção civil;
+
+c) Os comandantes dos corpos de bombeiros existentes no município;
+
+d) O comandante do corpo de bombeiros com responsabilidade de intervenção no município;
+
+e) Um responsável de cada uma das forças de segurança presentes no município;
+
+f) A autoridade de saúde do município;
+
+g) O coordenador dos serviços locais de segurança social do município;
+
+h) Um representante por cada município, para os cuidados de saúde primários, a designar pelo conselho de administração do Serviço de Saúde da Região Autónoma da Madeira, EPERAM;
+
+i) Um representante do Instituto das Florestas e Conservação da Natureza, IP-RAM;
+
+j) Um elemento da Autoridade Marítima Nacional;
+
+k) Um representante das juntas de freguesia a designar pela assembleia municipal;
+
+l) Representantes de outras entidades e serviços, implantados no município, cujas actividades e áreas funcionais possam, de acordo com os riscos existentes e as características da RAM, contribuir para as acções de protecção civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 14.º — Competências das comissões municipais de protecção civil
+
+1 - Para além das competências previstas no n.º 3 do artigo 3.º da Lei n.º 65/2007, de 12 de Novembro, as comissões municipais de protecção civil articulam a sua actividade com a Comissão Regional de Protecção Civil, nomeadamente no que diz respeito ao acompanhamento das políticas de protecção civil desenvolvidas por agentes públicos.
+
+2 - Compete ainda à comissão propor ao presidente da câmara a nomeação do coordenador municipal de protecção civil.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 15.º — Plano municipal de emergência de protecção civil
+
+1 - O plano municipal de emergência de protecção civil é elaborado em conformidade com a legislação de protecção civil em vigor e com as directivas emanadas pela Comissão Nacional de Protecção Civil, nomeadamente:
+
+a) A tipificação dos riscos;
+
+b) As medidas de prevenção a adoptar;
+
+c) A identificação dos meios e recursos mobilizáveis, em situação de acidente grave ou catástrofe;
+
+d) A definição das responsabilidades que incubem aos organismos, serviços e estruturas, públicas ou privadas, com competências no domínio da protecção civil municipal;
+
+e) Os critérios de mobilização e mecanismos de coordenação dos meios e recursos, públicos ou privados utilizáveis;
+
+f) A estrutura operacional que há-de garantir a unidade de direcção e o controlo permanente da situação.
+
+2 - Os planos de emergência estão sujeitos a uma actualização periódica e devem ser objecto de exercícios frequentes com vista a testar a sua operacionalidade.
+
+3 - Os agentes de protecção civil colaboram na elaboração e na execução dos planos de emergência.
+
+4 - O plano municipal de emergência inclui obrigatoriamente uma carta de risco e um plano prévio de intervenção de cada tipo de risco existente no município, decorrendo a escala da carta de risco e o detalhe do plano prévio de intervenção da natureza do fenómeno e devendo ser adequados às suas frequências e magnitude, bem como à gravidade e extensão dos seus efeitos previsíveis.
+
+5 - Para além de um plano municipal de emergência geral, podem ser elaborados planos especiais, sobre riscos especiais, destinados a servir finalidades específicas, tais como os planos de emergência dos estabelecimentos de ensino.
+
+6 - No caso das áreas de risco homogéneas prolongadas pelo território de mais de um município contíguos, podem ser elaborados planos especiais supramunicipais.
+
+7 - Nos municípios em que tal se justifique, podem ser elaborados planos especiais sobre riscos específicos, designadamente relativos a inundações, incêndios de diferente natureza, acidentes biológicos ou químicos, movimentações em massa ou sismos.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 15.º-A — Formação dos trabalhadores dos serviços municipais de proteção civil
+
+1 - Os conteúdos curriculares da formação dos trabalhadores integrados nos serviços municipais de proteção civil (SMPC) constam de portaria dos membros do Governo Regional responsáveis pelas áreas da proteção civil e das autarquias locais, sendo aplicável até à sua publicação o disposto na Portaria n.º 354/2019, de 7 de outubro.
+
+2 - A entidade na RAM autorizada a ministrar a formação a que se refere o presente artigo é o SRPC, IP-RAM, e outras entidades que venham a ser certificadas por este.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 16.º — Participação das Forças Armadas
+
+Sem prejuízo do disposto no estatuído na Lei de Bases de Protecção Civil, o presidente da câmara municipal é competente para solicitar ao presidente do SRPC, IP-RAM, a participação das Forças Armadas em funções de protecção civil na área operacional do seu município.
+
+###### Artigo 17.º — Agentes de protecção civil
+
+1 - São agentes de protecção civil, na RAM, de acordo com as suas atribuições próprias:
+
+a) Os corpos de bombeiros;
+
+b) As forças de segurança;
+
+c) As Forças Armadas;
+
+d) A Autoridade Marítima;
+
+e) Os serviços de saúde e o Serviço de Emergência Médica Regional;
+
+f) O Corpo da Polícia Florestal;
+
+g) Os sapadores florestais;
+
+h) O Corpo de Vigilantes da Natureza.
+
+2 - A Cruz Vermelha Portuguesa - Delegação da Madeira exerce, em cooperação com os agentes mencionados no n.º 1 e de harmonia com o seu estatuto próprio, funções de protecção civil nos domínios da intervenção, apoio, socorro e assistência sanitária e social.
+
+3 - O Corpo Operacional do Sanas Madeira exerce, em cooperação com os agentes mencionados no n.º 1 e de harmonia com o seu estatuto próprio, funções de protecção civil no domínio do socorro a náufragos e buscas subaquáticas.
+
+4 - Impende especial dever de cooperação, com os agentes de protecção civil mencionados no n.º 1 e as entidades mencionadas nos n.os 2 e 3, sobre as seguintes entidades:
+
+a) Associações humanitárias de bombeiros voluntários;
+
+b) Serviços de segurança;
+
+c) Instituto Nacional de Medicina Legal - Gabinete Médico Legal do Funchal;
+
+d) Instituições de segurança social;
+
+e) Instituições com fins de socorro e de solidariedade;
+
+f) Instituições imprescindíveis às operações de proteção e socorro, emergência e assistência, designadamente dos setores das florestas, conservação da natureza, animais, indústria e parques empresariais, energia, transportes, aeroportos, portos e vias de comunicação terrestres, comunicações, comunicação social, recursos hídricos e ambiente, mar e atmosfera;
+
+g) Serviços de segurança e socorro privativos das empresas públicas e privadas, dos portos e aeroportos.
+
+h) Organizações de voluntariado de proteção civil.
+
+5 - As organizações indicadas na alínea h) do número anterior são pessoas coletivas de direito privado, de base voluntária, sem fins lucrativos, legalmente constituídas, cujos fins estatutários visem, exclusivamente, o desenvolvimento de atividades no domínio da proteção civil.
+
+6 - O âmbito, o modo de reconhecimento e as formas de cooperação em atividades de proteção civil das organizações indicadas no número anterior são fixadas por portaria do secretário regional que tutela a área da proteção civil.
+
+7 - As entidades referidas nas alíneas a) a g) do n.º 4 articulam-se operacionalmente nos termos do artigo 18.º do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+> Alterado pelo/a Artigo 36.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 17/2018/M - Diário da República n.º 159/2018, Série I de 2018-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2018-116108111), em vigor a partir de 2018-08-21
+
+###### Artigo 17.º-A — Instituições de investigação técnica e científica
+
+1 - Os serviços e instituições de investigação técnica e científica, públicos ou privados, com competências específicas em domínios com interesse para a prossecução dos objetivos fundamentais da proteção civil, cooperam com os órgãos de direção e coordenação, previstos no presente diploma e com o SRPC, IP-RAM.
+
+2 - A cooperação desenvolve-se nos seguintes domínios:
+
+a) Levantamento, previsão, avaliação e prevenção de riscos coletivos de origem natural, humana ou tecnológica e análises das vulnerabilidades das populações e dos sistemas ambientais a eles expostos;
+
+b) Estudo de formas adequadas de proteção dos edifícios em geral, dos monumentos e de outros bens culturais, de instalações e infraestruturas de serviços e bens essenciais;
+
+c) Investigação no domínio de novos equipamentos e tecnologias adequados à busca, salvamento e prestação de socorro e assistência;
+
+d) Estudo de formas adequadas de proteção dos recursos naturais.
+
+3 - Impende sobre as entidades com competência legalmente reconhecida no âmbito da monitorização e comunicação de riscos o dever de comunicar ao SRPC, IP-RAM, a informação proveniente dos sistemas de vigilância e deteção de riscos de que são detentoras.
+
+4 - Têm especial dever de colaboração, no âmbito da monitorização e comunicação de riscos ao SRPC, IP-RAM, as seguintes entidades técnico-científicas:
+
+a) Instituto Português do Mar e da Atmosfera, I. P. - Observatório Meteorológico do Funchal;
+
+b) Laboratório Regional de Engenharia Civil;
+
+c) Direção Regional de Planeamento, Recursos e Gestão de Obras Públicas;
+
+d) Direção Regional do Ambiente e Alterações Climáticas;
+
+e) Instituto das Florestas e da Conservação da Natureza, IP-RAM;
+
+f) Direção Regional de Saúde;
+
+g) Universidade da Madeira.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+### Capítulo V — Sistema Integrado de Operações de Protecção e Socorro da Região Autónoma da Madeira
+
+#### Secção I — Coordenação institucional
+
+###### Artigo 18.º — Conceito
+
+1 - O Sistema Integrado de Operações de Proteção e Socorro da Região Autónoma da Madeira, abreviadamente designado por SIOPS-RAM, é o conjunto de estruturas, normas e procedimentos que asseguram que todos os agentes de proteção civil e as entidades previstas nas alíneas a) a g) do n.º 4 do artigo 17.º atuam, no plano operacional, articuladamente sob um comando único, sem prejuízo da respetiva dependência hierárquica e funcional.
+
+2 - No âmbito do SIOPS-RAM, o princípio da unidade de comando abrange as vertentes da coordenação institucional e do comando operacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 18.º-A — Espaços sob jurisdição da autoridade marítima nacional
+
+As estruturas e órgãos da autoridade marítima nacional, atentos os riscos e regimes aplicáveis aos espaços sob sua jurisdição, garantem a articulação operacional, nos referidos espaços, com as estruturas previstas no SIOPS-RAM.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 19.º — Centro de Coordenação Operacional Regional
+
+1 - A coordenação institucional é assegurada, a nível regional, pelo Centro de Coordenação Operacional Regional, abreviadamente designado por CCOR e integra representantes das entidades mencionadas no artigo seguinte.
+
+2 - O CCOR é responsável pela gestão da participação operacional de cada força ou serviço nas operações de socorro a desencadear.
+
+###### Artigo 20.º — Constituição do CCOR
+
+Integram o CCOR:
+
+a) O comandante operacional regional do SRPC, IP-RAM, que assegurará a coordenação;
+
+b) (Revogada.)
+
+c) (Revogada.)
+
+d) (Revogada.)
+
+g) Um representante do Serviço de Emergência Médica Regional do SRPC, IP-RAM;
+
+h) Um representante do Instituto Português do Mar e da Atmosfera, I. P.;
+
+i) Um representante do Instituto das Florestas e Conservação da Natureza, IP-RAM;
+
+j) Um representante da Direção Regional de Estradas;
+
+k) Representantes das entidades que sejam necessárias à coordenação das operações em causa.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 21.º — Atribuições do CCOR
+
+1 - São atribuições do CCOR, designadamente:
+
+a) Monitorizar, integrar e avaliar a informação relativa à atividade operacional a nível regional;
+
+b) Assegurar, a nível regional, a ligação operacional e a articulação com as entidades integrantes do SIOPS-RAM e outras estruturas operacionais no âmbito do planeamento, assistência, intervenção e apoio técnico ou científico nas áreas do socorro e emergência;
+
+c) Garantir que as entidades integrantes do CCOR acionam, no âmbito da sua estrutura hierárquica, os meios necessários ao desenvolvimento das operações de proteção e socorro;
+
+d) Informar permanentemente a autoridade política respectiva de todos os factos relevantes que possam gerar problemas ou estrangulamentos no âmbito da resposta operacional;
+
+e) (Revogada.)
+
+f) Difundir comunicados oficiais que se mostrem adequados e emitir avisos de proteção civil;
+
+g) Avaliar a situação e propor à CRPC que formule pedidos de auxílio externo;
+
+h) Assegurar o desencadeamento das acções consequentes às declarações das situações de alerta, de contingência e de calamidade.
+
+2 - O SRPC, IP-RAM garante os recursos humanos, materiais e informativos necessários ao funcionamento do CCOR.
+
+3 - As normas de funcionamento do CCOR são definidas por despacho do secretário regional que tutela a área da proteção civil, precedido de proposta do SRPC, IP-RAM.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 21.º-A — Articulação operacional
+
+Para efeitos do disposto no artigo 15.º da Lei n.º 65/2007, de 12 de novembro, na sua redação atual, na Região Autónoma da Madeira a articulação operacional é efetuada com o comandante operacional regional.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 22.º — Serviços municipais de protecção civil
+
+1 - Os municípios são dotados de um serviço municipal de protecção civil, adiante designado por SMPC, responsável pela prossecução das actividades de protecção civil no âmbito municipal.
+
+2 - Os SMPC são os adequados ao exercício da função de protecção e socorro, variáveis de acordo com a dimensão, as características da população e os riscos existentes no município a que pertençam, podendo incluir os gabinetes técnicos que forem julgados adequados.
+
+3 - O SMPC é dirigido pelo presidente da Câmara Municipal, com a faculdade de delegação no vereador por si designado.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 23.º — Competências dos serviços municipais de protecção civil
+
+As competências dos serviços municipais de protecção civil são as previstas no artigo 10.º da Lei n.º 65/2007, de 12 de Novembro, sem prejuízo das competências do âmbito florestal.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+#### Secção II — Gestão das operações e Comando Regional de Operações de Socorro
+
+###### Artigo 24.º — Organização do sistema de gestão de operações
+
+1 - O sistema de gestão de operações é uma forma de organização operacional que se desenvolve de forma modular e evolutiva, de acordo com a importância e o tipo de ocorrência.
+
+2 - A nomeação para o exercício das funções previstas no sistema de gestão de operações tem em conta a adequação técnica dos nomeados, de acordo com os mecanismos de qualificação e certificação existentes e a capacidade operacional das entidades integrantes do SIOPS-RAM presentes no teatro das operações.
+
+3 - O sistema de gestão de operações é regulamentado por deliberação do conselho diretivo do SRPC, IP-RAM, e homologação do secretário regional que tutela a área da proteção civil.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 25.º — Comando Regional de Operações e Socorro
+
+O Comando Regional de Operações de Socorro, abreviadamente designado por CROS, é o órgão director das operações, destinado a apoiar o responsável das operações na tomada de decisão e articulação dos meios no teatro de operações.
+
+###### Artigo 26.º — Constituição do CROS
+
+1 - O CROS é dirigido pelo comandante operacional regional, coadjuvado por um adjunto de comando.
+
+2 - O quadro de atribuições do comandante operacional regional e da equipa que integra o CROS será definido no âmbito da portaria que regulamentará a organização interna do SRPC, IP-RAM e dos despachos conjuntos que determinarem os respectivos regulamentos internos.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 27.º — Competências do CROS
+
+1 - São competências do CROS, no âmbito do SIOPS-RAM, designadamente:
+
+a) Garantir o funcionamento, operatividade e articulação com todos os agentes de protecção civil integrantes do sistema de protecção e socorro;
+
+b) Assegurar o comando e controlo das situações que pela natureza, gravidade e extensão e meios envolvidos ou a envolver requeiram a sua intervenção;
+
+c) Promover a análise das ocorrências e determinar as acções e os meios adequados à sua gestão;
+
+d) Assegurar a coordenação das operações de socorro;
+
+e) Acompanhar em permanência a situação operacional no domínio das entidades integrantes do SIOPS-RAM;
+
+f) Apoiar técnica e operacionalmente o Governo Regional;
+
+g) Preparar directivas e normas operacionais e difundi-las aos escalões inferiores para planeamento ou execução.
+
+2 - Os responsáveis pelas células reportam directamente ao comandante operacional e exercem as competências e funções que este determinar.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 28.º — Célula de planeamento, operações e informações
+
+Compete à célula de planeamento, operações e informações:
+
+a) Assegurar o funcionamento permanente do CROS, encaminhando os pedidos de apoio formulados e assegurando a ligação entre serviços, estruturas e principais agentes de protecção civil e socorro;
+
+b) Assegurar a monitorização permanente da situação regional e a actualização de toda a informação relativa às ocorrências e ao empenhamento de meios e recursos, garantindo o registo cronológico da evolução das situações, nomeadamente a que decorrer de acidentes graves ou catástrofes;
+
+c) Garantir em articulação com os serviços competentes a divulgação e difusão de oportunos comunicados, avisos às populações e entidades integrantes do CCOR e da CRPC;
+
+d) Elaborar e manter actualizadas as directivas, normas, planos e ordens de operações;
+
+e) Elaborar estudos e propostas de âmbito operacional;
+
+f) Apoiar o comandante operacional regional na preparação de elementos necessários à tomada de decisões.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 29.º — Célula de logística, meios especiais e comunicações
+
+Compete à célula de logística, meios especiais e comunicações:
+
+a) Assegurar o levantamento dos meios e recursos e inventariar as carências, propondo as soluções adequadas para fazer face a acidentes graves ou catástrofes;
+
+b) Supervisionar e assegurar o acondicionamento, o controlo, a manutenção, o funcionamento e o transporte dos equipamentos de reserva estratégica existentes;
+
+c) Organizar as telecomunicações impostas pelas necessárias ligações do CROS e assegurar o seu funcionamento;
+
+d) Mobilizar e articular o empenhamento de meios especiais;
+
+e) Estudar e planear o apoio logístico a nível regional a prestar às vítimas e forças de socorro em situações de emergência;
+
+f) Assegurar a ligação e o apoio a outros meios;
+
+g) Proceder à gestão do parque de veículos atribuídos;
+
+h) Articular com os serviços competentes as matérias relativas à rede de comunicações e rede informática sempre que estas envolvam os comandos de operações e os agentes de protecção civil;
+
+i) Garantir o funcionamento, a operatividade e a articulação com todos os agentes de protecção civil do sistema de protecção e socorro;
+
+j) Apoiar o comandante operacional regional na preparação dos elementos necessários à tomada de decisões.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 30.º — Coordenador municipal de protecção civil
+
+1 - Nos municípios onde tal se venha a justificar, poderá, no âmbito da respectiva estrutura, ser nomeado um coordenador municipal de protecção civil.
+
+2 - O coordenador municipal de protecção civil é nomeado de entre indivíduos, vinculados ou não à Administração Pública, habilitados com licenciatura ou de entre elementos que integrem ou tenham integrado a estrutura de comando de corpos de bombeiros municipais, voluntários ou privativos, que possuam competência técnica, aptidão e, pelo menos, seis anos de experiência profissional e formação adequada ao exercício das respectivas funções.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 31.º — Competências do coordenador municipal de protecção civil
+
+Compete em especial ao coordenador municipal de protecção civil:
+
+a) Acompanhar permanentemente as operações de protecção e socorro que ocorram na área do concelho;
+
+b) Promover, em cooperação com o comandante do corpo de bombeiros com responsabilidade de intervenção no município e dos comandantes dos corpos de bombeiros existentes no município, a elaboração dos planos prévios de intervenção com vista à articulação de meios face a cenários previsíveis;
+
+c) Promover reuniões periódicas de trabalho, com os comandantes dos corpos dos bombeiros com responsabilidade de intervenção no município, nomeadamente sobre matérias referentes à prevenção e à programação de exercícios periódicos e regulares;
+
+d) Dar parecer sobre os equipamentos a adquirir pelo município para fazer face a operações de emergência e de protecção civil;
+
+e) Comparecer no local do sinistro sempre que as circunstâncias o aconselhem;
+
+f) Disponibilizar os meios ao dispor do município e assegurar às corporações de bombeiros e forças de segurança todo o apoio logístico de que venham a necessitar;
+
+g) Promover e coordenar as acções tendentes à reabilitação das áreas atingidas e, particularmente, garantir o realojamento temporário e demais necessidades básicas das populações afectadas.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 32.º — Posto de comando operacional
+
+1 - Sempre que a situação o justifique, será criado, no âmbito do CROS, um posto de comando operacional, destinado a apoiar no local da ocorrência, o responsável pelas operações, na preparação das decisões e na articulação dos meios no teatro de operações.
+
+2 - O posto de comando operacional será constituído por células de planeamento, combate e logística, as quais serão coordenadas pelo responsável pela actividade do posto de comando operacional.
+
+3 - O responsável pela actividade do posto de comando operacional será o comandante das operações de socorro ou o comandante operacional regional, sempre que este estiver presente.
+
+### Capítulo VI — Estado de alerta para o SIOPS-RAM
+
+###### Artigo 33.º — Âmbito e níveis de alerta
+
+Às entidades integrantes do SIOPS-RAM aplica-se o sistema de alerta regional que for definido pelo SRPC, IP-RAM.
+
+### Capítulo VII — Dispositivos de resposta
+
+###### Artigo 34.º — Dispositivo de resposta operacional
+
+1 - O dispositivo de resposta operacional é assegurado pelas corporações de bombeiros da RAM, pela Delegação da Madeira da Cruz Vermelha Portuguesa, pelo Corpo Operacional do Sanas Madeira e pelos agentes de protecção civil identificados no n.º 1 do artigo 17.º que possam ser activados.
+
+2 - O dispositivo especial de combate a incêndios rurais da Região Autónoma da Madeira contará com a intervenção do Corpo da Polícia Florestal, dos sapadores florestais e do Corpo de Vigilantes da Natureza do Instituto das Florestas e Conservação da Natureza, IP-RAM, nos termos da legislação em vigor.
+
+3 - A intervenção dos corpos de bombeiros, da Delegação da Madeira da Cruz Vermelha Portuguesa e do Corpo Operacional do Sanas Madeira, no âmbito do dispositivo de resposta operacional, é regulada por uma directiva operacional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+> Alterado pelo/a Artigo 36.º do/a [Decreto Legislativo Regional n.º 5/2021/M - Diário da República n.º 49/2021, Série I de 2021-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2021-159219302), em vigor a partir de 2021-05-01
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto Legislativo Regional n.º 17/2018/M - Diário da República n.º 159/2018, Série I de 2018-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2018-116108111), em vigor a partir de 2018-08-21
+
+### Capítulo VIII — Articulação
+
+###### Artigo 35.º — Articulação com os serviços de busca e salvamento marítimo e aéreo
+
+1 - As entidades integrantes do SIOPS-RAM informam prontamente o CROS e os serviços de busca e salvamento marítimo e aéreo sobre a ocorrência de qualquer acidente marítimo com navios ou embarcações ou qualquer acidente com aeronaves de que tenham conhecimento.
+
+2 - Os serviços de busca e salvamento marítimo e aéreo coordenam os meios humanos e materiais necessários às operações de busca e salvamento, nos termos das respetivas competências, articulando com o CROS a eventual mobilização dos meios de reforço considerados adequados à gestão das ocorrências.
+
+3 - O CROS coordena o apoio das entidades necessárias à intervenção, em articulação permanente com o Subcentro de Busca e Salvamento Marítimo do Funchal (MRSC Funchal) e com o Centro de Coordenação de Busca e Salvamento Aéreo de Lisboa, bem como com o capitão do porto, como autoridade marítima local, conforme estabelecido no Decreto-Lei n.º 235/2000, de 26 de setembro, no Decreto-Lei n.º 44/2002, de 2 de março, na sua redação atual e no Decreto-Lei n.º 64/2005, de 15 de março.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 35.º-A — Auxílio externo
+
+1 - O pedido de auxílio externo é da competência do Governo Regional, sob proposta da CRPC.
+
+2 - Em caso de concessão de auxílio externo no território da RAM, o SRPC, IP-RAM, deve garantir a receção e o acompanhamento das equipas até ao final das operações, providenciado o apoio logístico necessário.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 35.º-B — Avaliação de risco
+
+1 - A avaliação de risco ao nível da Região Autónoma da Madeira é elaborada e atualizada pelo SRPC, IP-RAM, de três em três anos e sempre que haja alterações importantes, com base nas avaliações de risco de nível municipal e em estudos setoriais de riscos específicos, devendo ser dado conhecimento dos seus conteúdos à Autoridade Nacional de Emergência e Proteção Civil.
+
+2 - Os serviços e instituições de investigação técnica e científica referidos no artigo 17.º-A, e as estruturas e órgãos da autoridade marítima nacional, quanto aos espaços sob o seu domínio, colaboram na sua elaboração e atualização.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 35.º-C — Avaliações de danos
+
+1 - A implementação e desenvolvimento de base de dados com registo de danos associados a acidentes graves e catástrofes ao nível regional, bem como a sua permanente atualização, é da competência do SRPC, IP-RAM, devendo os seus conteúdos ser articulados e transmitidos à Autoridade Nacional de Emergência e Proteção Civil.
+
+2 - Os conteúdos das bases de dados com registo de danos associados a acidentes graves e catástrofes de nível municipal, seguindo os princípios da cooperação e da informação, devem ser articulados e transmitidos ao SRPC, IP-RAM.
+
+3 - Os serviços e instituições de investigação técnica e científica referidos no artigo 17.º-A, e as estruturas e órgãos da autoridade marítima nacional, quanto aos espaços sob o seu domínio, colaboram no desenvolvimento e atualização das bases de dados com registo de danos associados a acidentes graves e catástrofes.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 39/2023/M - Diário da República n.º 150/2023, Série I de 2023-08-03](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/39-2023-216674064), em vigor a partir de 2023-08-04
+
+###### Artigo 36.º — Revogação
+
+São revogadas todas as disposições legais e regulamentares que contrariem o disposto no presente diploma.
+
+###### Artigo 37.º — Regulamentação
+
+O Governo Regional aprovará os diplomas necessários à execução do presente diploma.
+
+###### Artigo 38.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 28 de Maio de 2009.
+
+O Presidente da Assembleia Legislativa, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 23 de Junho de 2009.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

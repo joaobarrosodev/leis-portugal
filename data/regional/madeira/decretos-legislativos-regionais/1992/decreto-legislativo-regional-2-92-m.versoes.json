@@ -1,0 +1,150 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:168234:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/1992-993782323",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/2-1992-168234",
+ "source_lastmod": "2026-01-21",
+ "versions": [
+  {
+   "date": "1992-03-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "993774269",
+    "993774270",
+    "993774271"
+   ]
+  },
+  {
+   "date": "2012-03-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:553469:por",
+     "title": "Decreto Legislativo Regional n.º 1/2012/M",
+     "published": "2012-03-15",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/1-2012-553469"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "993774269",
+    "1014630278",
+    "993774271",
+    "993774272"
+   ]
+  },
+  {
+   "date": "2015-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:72991305:por",
+     "title": "Decreto Legislativo Regional n.º 17/2015/M",
+     "published": "2015-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/17-2015-72991305"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "993774269",
+    "1020029029",
+    "993774271",
+    "993774272"
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993031451:por",
+     "title": "Decreto Legislativo Regional n.º 8/2025/M",
+     "published": "2025-12-30",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/8-2025-993031451"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º"
+   ],
+   "fragments": [
+    "993774269",
+    "1037799032",
+    "993774271",
+    "993774272"
+   ]
+  }
+ ],
+ "fragments": {
+  "993774269": {
+   "fragment_id": "993782324",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 2/92/M\n\nAtribuição do subsídio de 30% sobre a remuneração base dos funcionários e pessoal contratado da Junta de Freguesia de Porto Santo.\n\nAtravés do Decreto-Lei n.º 76//71, de 18 de Março, foi tornada extensiva aos funcionários do quadro da Câmara Municipal de Porto Santo a atribuição de um subsídio de 30% sobre a remuneração auferida, regime estabelecido pelos Decretos-Leis n.os 46798, de 30 de Dezembro de 1965, e 44109, de 21 de Dezembro de 1961.\n\nPela Resolução n.º 222/82, de 15 de Abril, alargou-se o âmbito de aplicação do referido subsídio aos trabalhadores eventuais da Câmara Municipal de Porto Santo.\n\nEste subsídio foi instituído tendo em atenção o isolamento provocado pela situação geográfica dos respectivos locais de trabalho deste pessoal.\n\nConsiderando que tais normativos não contemplam a situação daqueles que exercem funções no âmbito da Junta de Freguesia de Porto Santo, relativamente aos quais se impõem os mesmos pressupostos factuais, visa-se agora, com o presente diploma, corrigir essa situação.\n\nNestes termos, a Assembleia Legislativa Regional da Madeira, ao abrigo do disposto na alínea a) do n.º 1 do artigo 229.º da Constituição, decreta o seguinte:"
+  },
+  "993774270": {
+   "fragment_id": "993782325",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAos funcionários e pessoal contratado da Junta de Freguesia de Porto Santo é atribuído um subsídio de 30% sobre a respectiva remuneração base.\n\n> Nota: [Artigo 74.º, Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451) 1. Durante o ano de 2026, o subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a 980 euros; b) 12,5 % para os trabalhadores com remuneração superior a 980 euros e igual ou inferior a 1090 euros; c) 10 % para os trabalhadores com remuneração superior a 1090 euros e igual ou inferior a 1500 euros; d) 7,5 % para os trabalhadores com remuneração superior a 1500 euros e igual ou inferior a 2030 euros; e) 5 % para os trabalhadores com remuneração superior a 2030 euros e igual ou inferior a 3000 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração pública regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 75.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) 1. O subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a 915 euros; b) 12,5 % para os trabalhadores com remuneração superior a 915 euros e igual ou inferior a 1020 euros; c) 10 % para os trabalhadores com remuneração superior a 1020 euros e igual ou inferior a 1400 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração pública regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 79.º, Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644) 1. O subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a 850 euros; b) 12,5 % para os trabalhadores com remuneração superior a 850 euros e igual ou inferior a 970 euros; c) 10 % para os trabalhadores com remuneração superior a 970 euros e igual ou inferior a 1400 euros; d) 7,5 % para os trabalhadores com remuneração superior a 1400 euros e igual ou inferior a 1900 euros; e) 5 % para os trabalhadores com remuneração superior a 1900 euros e igual ou inferior a 2800 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 31.º, Decreto Regulamentar Regional n.º 8/2023/M - Diário da República n.º 58/2023, Série I de 2023-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2023-210531722) 1. O subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 30 % para os trabalhadores com remuneração igual ou inferior a 800 euros; b) 27,5 % para os trabalhadores com remuneração superior a 800 euros e igual ou inferior a 920 euros; c) 25 % para os trabalhadores com remuneração superior a 920 euros e igual ou inferior a 1400 euros; d) 22,5 % para os trabalhadores com remuneração superior a 1400 euros e igual ou inferior a 1900 euros; e) 20 % para os trabalhadores com remuneração superior a 1900 euros e igual ou inferior a 2800 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 56.º, Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305) 1. A reposição do subsídio de insularidade para a nova percentagem fixada no presente artigo, é determinada em função da remuneração que releva para a atribuição do referido subsídio, nos diplomas que aprovarem o Orçamento da Região Autónoma da Madeira. 2. Durante o ano de 2016 o subsídio é reposto, com referência à remuneração que releva para a sua atribuição, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a (euro) 750; b) 12,5 % para os trabalhadores com remuneração superior a (euro) 750 e igual ou inferior a (euro) 920; c) 10 % para os trabalhadores com remuneração superior a (euro) 920 e igual ou inferior a (euro) 1 400; d) 7,5 % para os trabalhadores com remuneração superior a (euro) 1 400 e igual ou inferior a (euro) 1 900; e) 5 % para os trabalhadores com remuneração superior a (euro) 1 900 e igual ou inferior a (euro) 2 800."
+  },
+  "993774271": {
+   "fragment_id": "993782326",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO subsídio referido no artigo anterior é devido a partir do dia 1 do mês seguinte ao da publicação do presente diploma."
+  },
+  "1014630278": {
+   "fragment_id": "993782325",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2012-03-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nAos trabalhadores em funções públicas da Junta de Freguesia de Porto Santo é atribuído um subsídio de 15 % sobre a respetiva remuneração base.\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "993774272": {
+   "fragment_id": "993782327",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária de 24 de Janeiro de 1992.\n\nO Presidente da Assembleia Legislativa Regional, em exercício, António Gil Inácio da Silva.\n\nAssinado em 14 de Fevereiro de 1992.\n\nO Ministro da República para a Região Autónoma da Madeira, Artur Aurélio Teixeira Rodrigues Consolado."
+  },
+  "1020029029": {
+   "fragment_id": "993782325",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2015-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\nAos trabalhadores em funções públicas da administração regional e local, com vínculo de nomeação ou de contrato, a exercer funções na ilha do Porto Santo, é atribuído um subsídio de insularidade no valor de 30 % da respetiva remuneração base.\n\n> Nota: [Artigo 56.º, Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305) 1. A reposição do subsídio de insularidade para a nova percentagem fixada no presente artigo, é determinada em função da remuneração que releva para a atribuição do referido subsídio, nos diplomas que aprovarem o Orçamento da Região Autónoma da Madeira. 2. Durante o ano de 2016 o subsídio é reposto, com referência à remuneração que releva para a sua atribuição, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a (euro) 750; b) 12,5 % para os trabalhadores com remuneração superior a (euro) 750 e igual ou inferior a (euro) 920; c) 10 % para os trabalhadores com remuneração superior a (euro) 920 e igual ou inferior a (euro) 1 400; d) 7,5 % para os trabalhadores com remuneração superior a (euro) 1 400 e igual ou inferior a (euro) 1 900; e) 5 % para os trabalhadores com remuneração superior a (euro) 1 900 e igual ou inferior a (euro) 2 800.\n\n> Alterado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  },
+  "1037799032": {
+   "fragment_id": "993782325",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2025-12-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 98.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01",
+    "Alterado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31",
+    "Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - Aos trabalhadores em funções públicas da administração regional e local, com vínculo de nomeação ou de contrato, a exercer funções na ilha do Porto Santo, é atribuído um subsídio de insularidade.\n\n2 - O direito ao subsídio referido no número anterior, mantém-se em situação de incapacidade temporária para o trabalho por doença, devidamente certificada por entidade competente.\n\n> Nota: [Artigo 74.º, Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451) 1. Durante o ano de 2026, o subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a 980 euros; b) 12,5 % para os trabalhadores com remuneração superior a 980 euros e igual ou inferior a 1090 euros; c) 10 % para os trabalhadores com remuneração superior a 1090 euros e igual ou inferior a 1500 euros; d) 7,5 % para os trabalhadores com remuneração superior a 1500 euros e igual ou inferior a 2030 euros; e) 5 % para os trabalhadores com remuneração superior a 2030 euros e igual ou inferior a 3000 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração pública regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 75.º, Decreto Legislativo Regional n.º 2/2025/M - Diário da República n.º 125/2025, Série I de 2025-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2025-923290710) 1. O subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a 915 euros; b) 12,5 % para os trabalhadores com remuneração superior a 915 euros e igual ou inferior a 1020 euros; c) 10 % para os trabalhadores com remuneração superior a 1020 euros e igual ou inferior a 1400 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração pública regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 79.º, Decreto Legislativo Regional n.º 6/2024/M - Diário da República n.º 145/2024, Série I de 2024-07-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/6-2024-873755644) 1. O subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a 850 euros; b) 12,5 % para os trabalhadores com remuneração superior a 850 euros e igual ou inferior a 970 euros; c) 10 % para os trabalhadores com remuneração superior a 970 euros e igual ou inferior a 1400 euros; d) 7,5 % para os trabalhadores com remuneração superior a 1400 euros e igual ou inferior a 1900 euros; e) 5 % para os trabalhadores com remuneração superior a 1900 euros e igual ou inferior a 2800 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 31.º, Decreto Regulamentar Regional n.º 8/2023/M - Diário da República n.º 58/2023, Série I de 2023-03-22](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-2023-210531722) 1. O subsídio de insularidade previsto no presente artigo, é atualizado, nos seguintes termos: a) 30 % para os trabalhadores com remuneração igual ou inferior a 800 euros; b) 27,5 % para os trabalhadores com remuneração superior a 800 euros e igual ou inferior a 920 euros; c) 25 % para os trabalhadores com remuneração superior a 920 euros e igual ou inferior a 1400 euros; d) 22,5 % para os trabalhadores com remuneração superior a 1400 euros e igual ou inferior a 1900 euros; e) 20 % para os trabalhadores com remuneração superior a 1900 euros e igual ou inferior a 2800 euros. 2. Esta atualização é aplicável aos trabalhadores que se encontrem a exercer funções correspondentes às carreiras gerais e especiais da administração regional, em regime de mobilidade ou cedência de interesse público.\n\n> Nota: [Artigo 56.º, Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305) 1. A reposição do subsídio de insularidade para a nova percentagem fixada no presente artigo, é determinada em função da remuneração que releva para a atribuição do referido subsídio, nos diplomas que aprovarem o Orçamento da Região Autónoma da Madeira. 2. Durante o ano de 2016 o subsídio é reposto, com referência à remuneração que releva para a sua atribuição, nos seguintes termos: a) 15 % para os trabalhadores com remuneração igual ou inferior a (euro) 750; b) 12,5 % para os trabalhadores com remuneração superior a (euro) 750 e igual ou inferior a (euro) 920; c) 10 % para os trabalhadores com remuneração superior a (euro) 920 e igual ou inferior a (euro) 1 400; d) 7,5 % para os trabalhadores com remuneração superior a (euro) 1 400 e igual ou inferior a (euro) 1 900; e) 5 % para os trabalhadores com remuneração superior a (euro) 1 900 e igual ou inferior a (euro) 2 800.\n\n> Alterado pelo/a Artigo 98.º do/a [Decreto Legislativo Regional n.º 8/2025/M - Diário da República n.º 250/2025, Série I de 2025-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/8-2025-993031451), em vigor a partir de 2025-12-31, produz efeitos a partir de 2026-01-01\n\n> Alterado pelo/a Artigo 56.º do/a [Decreto Legislativo Regional n.º 17/2015/M - Diário da República n.º 254/2015, Série I de 2015-12-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2015-72991305), em vigor a partir de 2015-12-31\n\n> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 1/2012/M - Diário da República n.º 54/2012, Série I de 2012-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/1-2012-553469), em vigor a partir de 2012-03-16, produz efeitos a partir de 2012-02-01"
+  }
+ }
+}

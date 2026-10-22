@@ -1,0 +1,282 @@
+---
+schema_version: '1.0'
+id: pt:dre:617288:por
+title: Portaria n.º 809-D/94
+short_title: null
+summary: Aprova o Regulamento do Programa de Desenvolvimento Florestal
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura
+proposing_entity: null
+official_number: 809-D/94
+official_date: null
+publication_date: '1994-09-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 211/1994, 1º Suplemento, Série I-B de 1994-09-12
+  number: '211'
+  series: I
+  supplement: 1º Suplemento
+  pages: 5388-(21) a 5388-(24)
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/809-d/1994/09/12/p/dre/pt/html
+  oj: null
+  dre: '617288'
+  dre_path: /dr/detalhe/portaria/809-d-1994-617288
+  internal: pt:dre:617288:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288
+  metadata_url: https://data.dre.pt/eli/port/809-d/1994/09/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/809-d-1994-617288
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-03-25T00:00:00Z'
+integrity:
+  source_sha256: a3d51be1dc1bd3dace9cf0e276fedfaee440ff79e93a2ee31c137eefe1fde845
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-809-D-617288.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Arborização
+- Projeto de Investimento
+- Exploração Florestal
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:197727:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/150/1994/05/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/134/1994/03/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/134/1994/03/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/199/1994/04/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/199/1994/04/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/61/1994/08/01/p/dre
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 809-D/94
+
+de 12 de Setembro
+
+A importância económica, ecológica e social do património florestal existente justifica que sejam elaborados instrumentos específicos de ajuda pública capazes de apoiar, de forma continuada, o esforço de investimento requerido para potenciar a multiplicidade de funções que lhe são inerentes.
+
+Portadora de inumeráveis benefícios, a actividade florestal tem, contudo, associados riscos e incertezas susceptíveis de limitar, por vezes drasticamente, o leque de vantagens que lhe são próprias.
+
+Neste sentido foram aprovadas desde 1986 pela Comissão Europeia um conjunto de medidas destinadas a estimular e promover o investimento florestal, as quais configuraram as 1.ª e 2.ª fases do Programa de Acção Florestal.
+
+Para dar continuidade a este esforço e responder a toda a gama de solicitações que persistem dada a complexidade e dimensão do sector florestal primário, entendeu-se que, no quadro do PDR, seria incluída uma componente específica designada por Programa de Desenvolvimento Florestal.
+
+Tendo em conta o [Decreto-Lei n.º 150/94](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-1994-269400), de 25 de Maio, e a [Resolução do Conselho de Ministros n.º 61/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/61-1994-232147), de 1 de Agosto:
+
+Manda o Governo, pelo Ministro da Agricultura, que seja aprovado o Regulamento do Programa de Desenvolvimento Florestal, em anexo ao presente diploma e do qual faz parte integrante.
+
+Ministério da Agricultura.
+
+**Assinada em 9 de Setembro de 1994.**
+
+**O Ministro da Agricultura, António Duarte Silva.**
+
+## Anexo a que se refere a Portaria n.º 809-D/94
+
+Regulamento do Programa de Desenvolvimento Florestal
+
+###### Artigo 1.º O presente Regulamento estabelece o regime de aplicação do Programa de Desenvolvimento Florestal (PDF).
+
+###### Art. 2.º O PDF tem por objectivos, nomeadamente, os seguintes:
+
+a) Promover a rearborização de áreas ardidas, assim como a arborização de áreas de potencial uso florestal;
+
+b) Promover a melhoria da área florestal existente, apoiando, nomeadamente, o desenvolvimento da rede de infra-estruturas florestais;
+
+c) Fomentar a utilização com fins múltiplos da floresta;
+
+d) Promover a produção de materiais de reprodução seleccionados e controlados e apoiar a criação ou a modernização de viveiros florestais.
+
+###### Art. 3.º As áreas arborizadas e beneficiadas ao abrigo da [Portaria n.º 199/94](https://diariodarepublica.pt/dr/detalhe/portaria/199-1994-254239), de 6 de Abril, são excluídas do âmbito de aplicação do presente Regulamento.
+
+###### Art. 4.º - 1 - Podem ser concedidas ajudas a projectos de investimento referentes às seguintes acções:
+
+a) Rearborização de áreas florestais ardidas, ou em que os povoamentos apresentem uma produtividade inferior a 50% da produtividade potencial estimada para as estações que ocupam;
+
+b) Arborização de áreas incultas;
+
+c) Beneficiação de povoamentos florestais:
+
+d) Instalação ou beneficiação de viveiros florestais;
+
+e) Reprodução de plantas por via seminal e vegetativa e selecção e preparação de povoamentos para produção de sementes;
+
+f) Fomento, ordenamento e gestão racional dos recursos cinegéticos;
+
+g) Beneficiação e aproveitamento de recursos aquícolas em águas interiores.
+
+2 - O regime das ajudas a conceder às acções previstas nas alíneas f) e g) do número anterior serão objecto de diploma próprio.
+
+3 - Não são concedidos ajudas à arborização e beneficiação de espécies de crescimento rápido quando se destinem a ser exploradas em rotações de duração igual ou inferior a 16 anos.
+
+4 - A rearborização de áreas ardidas e a recuperação de áreas já ocupadas com espécie do género Eucalyptus apenas são objecto de ajudas quando aquelas sejam consideradas de reduzida ou baixa probabilidade de inadaptação da espécie à estação, nos termos da [Portaria n.º 528/89](https://diariodarepublica.pt/dr/detalhe/portaria/528-1989-619560), de 11 de Julho.
+
+###### Art. 5.º - 1 - Os projectos referentes às acções previstas nas alíneas a) a c) do n.º 1 do artigo anterior podem incluir, a título complementar, os seguintes investimentos:
+
+a) Construção ou beneficiação de rede viária e divisional:
+
+b) Construção de pontos de água e de reservatórios de apoio ao combate a incêndios florestais;
+
+c) Promoção da utilização múltipla da floresta através, designadamente, da instalação de pastagens em regime silvo-pastoril, do fomento apícola, cinegético e aquícola, da instalação de cultura silvestres, tais como as plantas aromáticas e medicinais e os fungos, e de outras actividades que contribuam para o reforço das fuções social, económica e ambiental da floresta.
+
+2 - Quando a construção da rede viária exceder um milhão de escudos por quilómetro deve ser apresentado um projecto específico.
+
+###### Art. 6.º Os beneficiários das ajudas referidas nas alíneas a) e b) do artigo 4.º têm, ainda, direito a uma ajuda destinada à manutenção dos povoamentos instalados, de acordo com o Plano Orientador de Gestão, por um período de cinco anos a contar da retancha.
+
+###### Art. 7.º - 1 - Podem, ainda, ser concedidos à elaboração de estudos de âmbito local na área do ordenamento e planeamento florestal que visem uma aplicação integrada do PDF.
+
+2 - A incidência geográfica dos estudos referidos no número anterior é objecto de despacho do Ministro da Agricultura, competindo ao Instituto Florestal a sua divulgação, bem como a definição dos seus parâmetros técnicos.
+
+3 - Os estudos realizados, depois de aprovados pelo Instituto Florestal e homologados pelo Ministro da Agricultura, condicionam a aplicação do presente Regulamento na área geográfica a que respeitem.
+
+###### Art. 8.º - 1 - Podem beneficiar das ajudas previstas nas alíneas a) a e) do n.º 1 do artigo 4.º, e nos artigos 5.º e 6.º deste Regulamento, as pessoas individuais ou colectivas, de direito público ou privado, bem como, excepto no caso da alínea d), organismos públicos.
+
+2 - Podem beneficiar da ajuda referida no artigo anterior:
+
+a) Organizações de produtores florestais;
+
+b) Associações de desenvolvimento rural;
+
+c) Instituto Florestal;
+
+d) Autarquias locais, desde que em articulação com um dos beneficiários referidos nas alíneas anteriores.
+
+###### Art. 9.º - 1 - Para efeitos do presente diploma, consideram-se agrupamentos de beneficiários aqueles que resultem da associação de, pelo menos, cinco titulares de superfícies florestais contíguas geridas de forma autónoma até ao momento da candidatura, desde que satisfaçam os seguintes requisitos:
+
+a) Se proponham efectuar a gestão conjunta dessas superfícies;
+
+b) Nenhum dos associados seja titular de mais de 75% das superfícies associadas;
+
+c) Indiquem um representante, de entre os membros do agrupamento, que assuma a qualidade de interlocutor do agrupamento junto da unidade de gestão competente.
+
+2 - Consideram-se contíguas as superfícies que não distem entre si mais de 500 m.
+
+3 - Para efeitos da alínea c) do n.º 1 do artigo 4.º, consideram-se agrupamentos de beneficiários os agrupamentos constituídos ao abrigo do Programa de Acção Florestal (PAF) do PEDAP.
+
+###### Art. 10.º Para efeitos de atribuição das ajudas previstas no presente Regulamento, os beneficiários devem comprometer-se, consoante a natureza daquelas, a:
+
+a) Respeitar as práticas silvícolas constantes do Plano Orientador de Gestão, integrante do projecto de investimento;
+
+b) Manter e proteger os povoamentos florestais instalados ou beneficiados, bem como as suas infra-estruturas, por um período mínimo de 10 anos;
+
+c) Assegurar que os investimentos previstos na alínea c) do n.º 1 do artigo 5.º geram benefícios por um período mínimo de cinco anos;
+
+a) Manter em actividade normal os viveiros florestais melhorados, ou instalados, por um período mínimo de cinco anos;
+
+e) Promover, nos povoamentos seleccionados, o conjunto de cuidados adequados à prossecução dos seus fins por um período mínimo de 10 anos.
+
+###### Art. 11.º - 1 - Os projectos de investimento referentes às acções constantes das alíneas a), b) e c) do n.º 1 do artigo 4.º devem incidir sobre uma área mínima contínua definida regionalmente nos termos do anexo I a este Regulamento.
+
+2 - No caso de agrupamentos de beneficiários, os projectos referidos no número anterior não podem incidir sobre uma área superior a 750 ha.
+
+3 - Independentemente do número de projectos apresentados, as ajudas não podem incidir sobre uma área superior a 250 ha por beneficiário.
+
+4 - O disposto nos números anteriores não se aplica às áreas submetidas a regime florestal obrigatório, total ou parcial, à data da publicação do presente diploma.
+
+###### Art. 12.º - 1 - Os níveis das ajudas e os montantes máximos de investimentos elegíveis constam do anexo II a este Regulamento.
+
+2 - As ajudas previstas neste Regulamento revestem a forma de subvenção financeira a fundo perdido.
+
+###### Art. 13.º - 1 - Os projectos de investimento devem ser elaborados e acompanhados tecnicamente por técnicos cujos requisitos são objecto de despacho do Ministro da Agricultura.
+
+2 - As despesas com a elaboração e acompanhamento dos projectos são consideradas para efeitos de atribuição das ajudas, de acordo com os níveis de ajuda e montantes máximos elegíveis constantes do anexo III.
+
+###### Art. 14.º - 1 - A formalização das candidaturas às ajudas previstas neste diploma faz-se, entre 1 de Setembro e 31 de Outubro junto dos serviços centrais e regionais do Instituto Florestal, através do preenchimento de um formulário a distribuir por esses serviços.
+
+2 - O formulário deve ser acompanhado de todos os documentos indicados nas respectivas instruções.
+
+###### Art. 15.º - 1 - As candidaturas apresentadas são objecto de análise e deliberação pela unidade de gestão competente até ao fim do mês de Fevereiro do ano seguinte ao da apresentação das candidaturas.
+
+2 - A análise e deliberação sobre as candidaturas apresentadas compete:
+
+a) À unidade regional de gestão sectorial, no caso das ajudas referidas nas alíneas a) a c) do n.º 1 do artigo 4.º, quando respeitem a investimentos até 50 milhões de escudos;
+
+b) À unidade nacional de gestão sectorial, nos restantes casos.
+
+###### Art. 16.º - 1 - A deliberação sobre as candidaturas apresentadas faz-se tendo em conta os seguintes critérios de prioridade:
+
+a) Ajudas referidas nas alíneas a) a c) do n.º 1 do artigo 4.º:
+
+i) Rearborização de áreas florestais ardidas;
+
+ii) Beneficiação de áreas florestais;
+
+iii) Instalação de povoamentos em áreas de reconhecido potencial produtivo;
+
+iv) Multifuncionalidade, incremento e melhoria dos padrões de biodiversidade;
+
+v) Integração num plano ou programa mais vasto existente à escala regional ou local ou em instrumentos de ordenamento florestal;
+
+b) Ajuda referida na alínea d), do n.º 1 do artigo 4.º: modernização de unidades já existentes;
+
+c) Ajuda referida na alínea e) do n.º 1 do artigo 4.º: projectos que envolvam as espécies referidas nos anexos I e II à [Portaria n.º 134/94](https://diariodarepublica.pt/dr/detalhe/portaria/134-1994-275633), de 4 de Março.
+
+2 - Na aplicação dos critérios previstos na alínea a) do número anterior, em igualdade de circunstâncias, será dada prioridade a candidaturas apresentadas por agrupamentos de beneficiários ou em que tenha sido apresentada candidatura ao PAF que não tenha sido objecto de ajuda.
+
+###### Art. 17.º As ajudas previstas no presente diploma são concedidas ao abrigo de contratos celebrados, entre o IFADAP e os beneficiários, até 30 de Abril do ano seguinte ao da apresentação da candidatura.
+
+###### Art. 18.º Compete ao IFADAP, nos termos do contrato referido no número anterior, proceder ao pagamento das ajudas, podendo haver lugar à concessão de adiantamentos.
+
+## ANEXO I — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)
+
+## ANEXO II — Níveis de ajuda e montantes máximos elegíveis
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)
+
+## ANEXO III — [([ver documento original](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf))](https://files.diariodarepublica.pt/1s/1994/09/211b01/00210024.pdf)

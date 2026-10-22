@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:640662:por
+title: Decreto-Lei n.º 295/2007
+short_title: null
+summary: Define o estatuto dos dirigentes associativos das associações profissionais de militares das Forças Armadas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 295/2007
+official_date: null
+publication_date: '2007-08-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2007, Série I de 2007-08-22
+  number: '161'
+  series: I
+  supplement: null
+  pages: 5580 - 5582
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/08/16100/0558005582.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/295/2007/08/22/p/dre/pt/html
+  oj: null
+  dre: '640662'
+  dre_path: /dr/detalhe/decreto-lei/295-2007-640662
+  internal: pt:dre:640662:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2007-640662
+  metadata_url: https://data.dre.pt/eli/dec-lei/295/2007/08/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-2007-640662
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-08-22T00:00:00Z'
+integrity:
+  source_sha256: c96eec7c5b123ec24308bc3803c682fd6442088f052e9757f238ad45f31ec6d4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-295-640662.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral de Pessoal e Recrutamento Militar
+- Dirigente Associativo
+- Estatuto
+- Incompatibilidades
+- Forças Armadas
+- Associação Profissional
+- Registo Obrigatório
+- Militar
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2001/02/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2001/02/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/3/2001/08/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/4/2001/08/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/4/2001/08/30/p/dre
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 295/2007
+
+de 22 de Agosto
+
+A [Lei Orgânica n.º 3/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2001-631605), de 29 de Agosto, veio conferir aos militares dos quadros permanentes em qualquer situação e aos militares contratados em efectividade de serviço o direito de constituir associações profissionais de representação institucional dos seus associados, com carácter assistencial, deontológico ou sócio-profissional.
+
+A mesma lei prevê que «o exercício de actividades associativas a que se refere a presente lei não pode, em caso algum e por qualquer forma, colidir com os deveres e funções legalmente definidos nem com o cumprimento das missões de serviço».
+
+Ademais, o n.º 1 do mesmo artigo 3.º condiciona a actividade das associações às restrições e condicionalismos previstos nos artigos 31.º a 31.º-F da Lei de Defesa Nacional e das Forças Armadas.
+
+O mencionado artigo 31.º, na redacção que lhe foi dada pela [Lei Orgânica n.º 4/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/4-2001-631839), de 30 de Agosto, dispõe por sua vez que, mesmo no exercício dos respectivos direitos, mormente o de associação, os militares estão sempre sujeitos às obrigações decorrentes do estatuto da condição militar e devem observar uma conduta conforme a ética militar e respeitar a coesão e a disciplina das Forças Armadas.
+
+É que, como esclarece o n.º 4 do artigo 31.º da Lei de Defesa Nacional e das Forças Armadas, ainda que no exercício dos seus direitos - ao que ora interessa, o de associação, nos termos previstos na [Lei n.º 3/2001](https://diariodarepublica.pt/dr/detalhe/lei/3-2001-386237), de 29 de Agosto -, os militares em qualquer situação estão «sujeitos às obrigações decorrentes do estatuto da condição militar e devem observar uma conduta conforme a ética militar e respeitar a coesão e disciplina das Forças Armadas».
+
+O desrespeito de tais obrigações configurará, assim, infracção disciplinar, independentemente da situação em que os militares dos quadros permanentes se encontrem, atento o disposto nas alíneas a) e b) do n.º 1 do artigo 5.º do Regulamento de Disciplina Militar, que inclui, entre outros, os militares na reserva e na reforma, salvo quanto aos deveres que pressupõem a efectividade de serviço nos casos em que não estejam ao serviço.
+
+Tais obrigações e correspondentes consequências pelo seu desrespeito decorrem da livre da aceitação dos ónus correspondentes à condição militar.
+
+Importa, portanto, e ao abrigo do disposto no artigo 4.º da [Lei Orgânica n.º 3/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2001-631605), de 29 de Agosto, concretizar a definição do quadro geral que fica exposto no que respeita à especial situação dos militares que são simultaneamente dirigentes das associações profissionais de militares.
+
+Foram ouvidas as associações profissionais de militares.
+
+Assim:
+
+Ao abrigo do disposto no artigo 4.º da [Lei Orgânica n.º 3/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2001-631605), de 29 de Agosto, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei define o estatuto dos dirigentes associativos das associações profissionais de militares das Forças Armadas.
+
+###### Artigo 2.º — Âmbito subjectivo
+
+1 - Para efeitos do presente decreto-lei, consideram-se dirigentes das associações profissionais de militares os militares dos quadros permanentes, em qualquer situação, ou em regime de contrato, que sejam titulares de órgãos dirigentes das referidas associações profissionais e estejam no exercício efectivo dessas funções.
+
+2 - O presente decreto-lei não se aplica a titulares de quaisquer órgãos não directivos, designadamente às assembleias gerais ou órgãos equivalentes ou a órgãos com funções consultivas, de apoio técnico ou logístico, bem como de delegações ou outros órgãos associativos de carácter regional, local ou sectorial.
+
+###### Artigo 3.º — Princípios gerais
+
+1 - Os militares não podem ser prejudicados ou beneficiados nos seus direitos e regalias em virtude do exercício de cargos de dirigentes das associações profissionais de militares.
+
+2 - A actividade dos dirigentes das associações profissionais de militares desenvolve-se sempre sem prejuízo para o serviço e no cumprimento dos deveres inerentes à sua condição de militares, estando sujeita às restrições e aos condicionalismos previstos na legislação militar, designadamente na Lei de Defesa Nacional e das Forças Armadas, no Estatuto da Condição Militar, na lei que regula o exercício do direito de associação profissional de militares e no Regulamento de Disciplina Militar.
+
+###### Artigo 4.º — Incompatibilidades
+
+A qualidade de dirigente das associações profissionais é incompatível com o exercício dos seguintes cargos ou funções:
+
+a) Chefe do Estado-Maior-General das Forças Armadas;
+
+b) Chefe do Estado-Maior da Armada, do Exército e da Força Aérea;
+
+c) Vice-Chefe do Estado-Maior da Armada, do Exército e da Força Aérea;
+
+d) Comandante-chefe;
+
+e) Comandante ou representante militar junto de quaisquer alianças ou organizações internacionais de que Portugal seja membro, bem como comandante de força naval, brigada ou divisão em cumprimento de missões que se desenrolem no quadro daquelas alianças ou organizações;
+
+f) Comandante naval;
+
+g) Comandante do Comando Operacional do Exército;
+
+h) Comandante do Comando Operacional da Força Aérea;
+
+i) Comandante dos comandos operacionais directamente dependentes do Chefe de Estado-Maior-General das Forças Armadas;
+
+j) Comandante dos órgãos centrais de administração e direcção e da Direcção-Geral da Autoridade Marítima;
+
+l) Comandante das grandes unidades, das unidades independentes e das zonas militares dos Açores e da Madeira;
+
+m) Inspector-geral do Exército e da Força Aérea;
+
+n) Director do Instituto de Estudos Superiores Militares e da Escola de Serviço de Saúde;
+
+o) Comandante da Escola Naval, da Academia Militar e da Academia da Força Aérea;
+
+p) Presidente dos conselhos de classes, das armas e serviços, de especialidades ou grupos de especialidade.
+
+###### Artigo 5.º — Deveres
+
+No exercício de actividades associativas os dirigentes das associações profissionais de militares devem, nomeadamente:
+
+a) Cumprir, no exercício da actividade associativa, os deveres prescritos na lei para todos os militares, nos termos nela previstos;
+
+b) Não prejudicar a coesão, a disciplina e o prestígio da instituição militar;
+
+c) Não exercer qualquer actividade associativa no interior das unidades, estabelecimentos ou órgãos militares sem prévia autorização, e sem prejuízo do disposto na alínea f) do artigo 2.º da [Lei Orgânica n.º 3/2001](https://diariodarepublica.pt/dr/detalhe/lei-organica/3-2001-631605), de 29 de Agosto;
+
+d) Guardar sigilo sobre os factos de que tenham tido conhecimento no desempenho dos seus cargos ou funções, e por causa destes, não os utilizando para fins estranhos ao serviço, ainda que no âmbito das associações, salvo se tiverem autorização para o efeito;
+
+e) Prestar as informações e esclarecimentos, bem como disponibilizar os documentos relevantes que lhes sejam solicitados, no âmbito de aplicação do presente decreto-lei, designadamente para comprovação dos dados a que se referem o n.º 2 do artigo 8.º e o artigo 9.º
+
+###### Artigo 6.º — Direitos especiais
+
+Os dirigentes das associações profissionais de militares que se achem na efectividade de serviço podem beneficiar das dispensas a que se referem os artigos 7.º e 8.º
+
+###### Artigo 7.º — Dispensa para participação em reuniões associativas
+
+1 - Os dirigentes referidos no artigo anterior podem pedir dispensa, até ao limite de 20 dias úteis por ano, no caso dos presidentes dos órgãos de direcção das associações profissionais de militares ou, quando estas não disponham de órgãos colectivos de direcção, dos presidentes das associações, e com o limite de 10 dias úteis, no caso dos demais dirigentes, para participar em reuniões das associações profissionais de militares, suas federações ou outras organizações que prossigam objectivos análogos, no país e no estrangeiro.
+
+2 - O requerimento é feito com antecedência mínima de 10 dias, por escrito, e dirigido ao Chefe do Estado-Maior-General das Forças Armadas ou ao chefe de Estado-Maior do respectivo ramo, conforme a dependência hierárquica do requerente, devendo aquele decidir no prazo de 5 dias após a recepção do pedido.
+
+3 - O requerimento deve ser acompanhado da identificação da entidade promotora, da indicação do local em que se realiza e a respectiva duração.
+
+4 - A dispensa pode ser recusada, cancelada ou interrompida pelo chefe do Estado-Maior competente conforme as necessidades de serviço, designadamente quando o militar se encontrar numa das seguintes situações:
+
+a) Em campanha;
+
+b) Integrado ou nomeado para integrar forças fora dos quartéis ou bases;
+
+c) Embarcado ou nomeado para embarcar em unidades navais ou aéreas;
+
+d) No desempenho de missões temporárias de serviço fora do território nacional;
+
+e) A frequentar, ou nomeado para frequentar cursos, tirocínios, instrução ou estágios.
+
+5 - A dispensa não implica perda de remuneração e conta como tempo de serviço efectivo.
+
+###### Artigo 8.º — Dispensas para participação noutras actividades
+
+1 - Com excepção do serviço de escala, os dirigentes das associações profissionais de militares podem requerer dispensas do serviço interno ou externo nas unidades, nos estabelecimentos e nos órgãos das Forças Armadas, com vista à realização de actividades relacionadas com a respectiva associação.
+
+2 - As dispensas previstas no número anterior estão sujeitas a um limite mensal de horas, não acumuláveis para os meses subsequentes, nos termos seguintes:
+
+a) Associações com um máximo de 100 associados - limite de seis horas;
+
+b) Associações com 100 a 500 associados - limite de doze horas;
+
+c) Associações com 500 a 1000 associados - limite de dezoito horas;
+
+d) Associações com mais de 1000 associados - limite de vinte e quatro horas.
+
+3 - O requerimento é feito com a antecedência mínima de três dias, por escrito, e dirigido ao comandante, director ou chefe da unidade, do estabelecimento ou do órgão em que o interessado presta serviço, que deve decidir no prazo de dois dias, após a recepção do pedido.
+
+4 - É aplicável a estas dispensas o previsto nos n.os 4 e 5 do artigo anterior.
+
+###### Artigo 9.º — Registo
+
+1 - Para efeitos da aplicação do presente decreto-lei, as associações profissionais de militares são registadas obrigatoriamente junto da Direcção-Geral de Pessoal e Recrutamento Militar, devendo fazer prova da identidade dos titulares efectivos e suplentes dos seus órgãos sociais, bem como das respectivas alterações, e, ainda, prova anual do seu número de associados.
+
+2 - A Direcção-Geral de Pessoal e Recrutamento Militar informa o Estado-Maior-General das Forças Armadas e os ramos das Forças Armadas dos dados a que se refere o número anterior.
+
+Visto e aprovado em Conselho de Ministros de 19 de Julho de 2007. - José Sócrates Carvalho Pinto de Sousa - Henrique Nuno Pires Severiano Teixeira.
+
+**Promulgado em 7 de Agosto de 2007.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 9 de Agosto de 2007.**
+
+Pelo Primeiro-Ministro, Fernando Teixeira dos Santos, Ministro de Estado e das Finanças.

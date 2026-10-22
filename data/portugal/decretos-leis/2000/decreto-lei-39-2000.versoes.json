@@ -1,0 +1,766 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:514657:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2000-836205377",
+ "dre_path": "/dr/detalhe/decreto-lei/39-2000-514657",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2000-03-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "836205282",
+    "836205283",
+    "836205284",
+    "836205285",
+    "836205286",
+    "836205287",
+    "836205288",
+    "836205289",
+    "836205290",
+    "836205291",
+    "836205292",
+    "836205293",
+    "836205294",
+    "836205295",
+    "836205296",
+    "836205297",
+    "836205298",
+    "836205299",
+    "836205300",
+    "836205301",
+    "836205302",
+    "836205303",
+    "836205304",
+    "836205305",
+    "836205306",
+    "836205307",
+    "836205308",
+    "836205309",
+    "836205310",
+    "836205311",
+    "836205313",
+    "836205314",
+    "836205315"
+   ]
+  },
+  {
+   "date": "2008-11-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:452928:por",
+     "title": "Decreto-Lei n.º 197/2008",
+     "published": "2008-10-07",
+     "dre_path": "/dr/detalhe/decreto-lei/197-2008-452928"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Capítulo II",
+    "Revoga Capítulo III",
+    "Revoga Capítulo V",
+    "Revoga Anexo II",
+    "Revoga Anexo III",
+    "Revoga Anexo IV"
+   ],
+   "fragments": [
+    "836205282",
+    "836205340",
+    "836205341",
+    "836205342",
+    "836205343",
+    "836205344",
+    "836205345",
+    "836205346",
+    "836205347",
+    "836205348",
+    "836205292",
+    "836205293",
+    "836205336",
+    "836205295",
+    "836205296",
+    "836205297",
+    "836205298",
+    "836205299",
+    "836205300",
+    "836205301",
+    "836205302",
+    "836205303",
+    "836205304",
+    "836205305",
+    "836205349",
+    "836205350",
+    "836205351",
+    "836205352",
+    "836205353",
+    "836205354",
+    "836205312",
+    "836205316",
+    "836205317",
+    "836205326",
+    "836205327",
+    "836205328",
+    "836205329",
+    "836205330",
+    "836205331",
+    "836205332",
+    "836205333",
+    "836205338",
+    "836205335",
+    "836205355",
+    "836205356",
+    "836205357"
+   ]
+  },
+  {
+   "date": "2024-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:836117868:por",
+     "title": "Decreto-Lei n.º 6/2024",
+     "published": "2024-01-05",
+     "dre_path": "/dr/detalhe/decreto-lei/6-2024-836117868"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "836205282",
+    "836205340",
+    "836205341",
+    "836205342",
+    "836205343",
+    "836205344",
+    "836205345",
+    "836205346",
+    "836205347",
+    "836205348",
+    "836205292",
+    "836205358",
+    "836205336",
+    "836205295",
+    "836205296",
+    "836205297",
+    "836205298",
+    "836205299",
+    "836205300",
+    "836205301",
+    "836205302",
+    "836205303",
+    "836205304",
+    "836205305",
+    "836205349",
+    "836205350",
+    "836205351",
+    "836205352",
+    "836205353",
+    "836205354",
+    "836205312",
+    "836205316",
+    "836205317",
+    "836205326",
+    "836205327",
+    "836205328",
+    "836205329",
+    "836205330",
+    "836205331",
+    "836205332",
+    "836205333",
+    "836205338",
+    "836205335",
+    "836205359",
+    "836205356",
+    "836205357"
+   ]
+  }
+ ],
+ "fragments": {
+  "836205282": {
+   "fragment_id": "836205378",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 39/2000\n\nde 17 de Março\n\nCom a 4.ª revisão da lei fundamental do Estado Português, a figura das polícias municipais assumiu dignidade constitucional, após o que o Governo pôde tomar o impulso legislativo necessário à concretização de um objectivo que se havia proposto - a criação efectiva das polícias municipais. Para tal, apresentou à Assembleia da República uma proposta de lei que veio a ser aprovada e publicada com o n.º 140/99, de 28 de Agosto.\n\nA referida Lei n.º 140/99, de 28 de Agosto, que estabelece o regime e forma de criação das polícias municipais, comete ao Governo a fixação do conjunto de normas necessárias à efectiva criação das polícias municipais.\n\nConsiderando que constitui objectivo fulcral do actual governo, na área da segurança, vertido no respectivo Programa, no capítulo V, na alínea B, dar expressão material à criação de polícias municipais, que são o veículo fundamental da territorialização da segurança;\n\nConsiderando que, por outro lado, a criação de polícias municipais se insere, na sequência do que, aliás, se verifica no direito comparado, na actualização dos modelos policiais, tendo em conta as necessidades das actuais sociedades:\n\nCom o presente diploma procede-se à regulamentação da Lei n.º 140/99, de 28 de Agosto.\n\nNesse sentido:\n\nSão fixadas as regras e os procedimentos a observar na criação de serviços de polícia municipal, nomeadamente no que concerne ao conteúdo das deliberações autárquicas a submeter ao Conselho de Ministros, ao número de efectivos, às competências dos serviços e à delimitação geográfica do exercício de competências;\n\nÉ fixado o regime jurídico relativo ao financiamento do serviço de polícia municipal, mediante a transferência de verbas da administração central para os municípios que criem esses serviços através da celebração de contratos-programa;\n\nSão criadas a carreira de técnico superior de polícia municipal e a carreira de polícia municipal, definindo-se, ainda, as regras de recrutamento, de transição de pessoal, assim como das respectivas formações profissionais.\n\nForam observados os procedimentos decorrentes da Lei n.º 23/98, de 26 de Maio, bem como ouvidas as Regiões Autónomas dos Açores e da Madeira e a Associação Nacional de Municípios Portugueses.\n\nAssim, ao abrigo do artigo 20.º da Lei n.º 140/99, de 28 de Agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "836205283": {
+   "fragment_id": "836205379",
+   "type": 1,
+   "heading": "Capítulo I — Do âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do âmbito de aplicação"
+  },
+  "836205284": {
+   "fragment_id": "836205380",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece as regras a observar na deliberação da assembleia municipal que crie, para o respectivo município, o serviço de polícia municipal, bem como os regimes de transferências financeiras e de carreiras de pessoal, com obediência pelo disposto na Lei n.º 140/99, de 28 de Agosto.\n\n2 - A criação das polícias municipais compete à assembleia municipal, sob proposta da câmara municipal, nos termos do disposto no n.º 1 do artigo 10.º da lei referida no número anterior."
+  },
+  "836205285": {
+   "fragment_id": "836205381",
+   "type": 1,
+   "heading": "Capítulo II — Da deliberação da assembleia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da deliberação da assembleia municipal"
+  },
+  "836205286": {
+   "fragment_id": "836205382",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo da deliberação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Conteúdo da deliberação\n\n1 - Na deliberação da assembleia municipal que crie o serviço de polícia municipal são, obrigatoriamente, aprovados:\n\na) O regulamento de organização e funcionamento do serviço;\n\nb) O quadro de pessoal.\n\n2 - A validade do regulamento de organização e funcionamento do serviço e do quadro de pessoal aprovados depende da sua conformidade com as regras previstas na Lei n.º 140/99, de 28 de Agosto, no decreto-lei que regula as condições e o modo de exercício de funções de agente de polícia municipal e no presente diploma."
+  },
+  "836205287": {
+   "fragment_id": "836205383",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo do regulamento de organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Conteúdo do regulamento de organização e funcionamento\n\nDo regulamento de organização e funcionamento de serviço de polícia municipal constará, obrigatoriamente:\n\na) A enumeração taxativa das competências do serviço de polícia municipal a criar, dentro do respectivo quadro legal;\n\nb) A delimitação geográfica da área do território municipal onde serão exercidas as respectivas competências;\n\nc) A determinação do número de efectivos, atendendo aos critérios fixados no artigo 4.º;\n\nd) A fixação do equipamento coercivo a deter pelo serviço, nos termos dos normativos aplicáveis;\n\ne) A definição precisa do local de depósito das armas;\n\nf) A descrição, com recurso a elementos figurativos, dos distintivos heráldicos e gráficos do município para uso nos uniformes e viaturas;\n\ng) A caracterização das instalações de funcionamento do serviço de polícia municipal."
+  },
+  "836205288": {
+   "fragment_id": "836205384",
+   "type": 11,
+   "heading": "Artigo 4.º — Efectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Efectivos\n\n1 - A fixação do número de efectivos de cada polícia municipal dependerá das necessidades do serviço e da proporcionalidade entre o número de agentes e o número de cidadãos eleitores inscritos na área do respectivo município, nos termos do disposto nos n.os 2 e 3 do presente artigo.\n\n2 - Na fixação do número de efectivos de polícia municipal considerar-se-ão, cumulativamente, os seguintes factores:\n\na) A extensão geográfica do município;\n\nb) A área do município sobre que incide o exercício das competências do serviço de polícia municipal, a definir na deliberação da assembleia municipal respectiva;\n\nc) A razão da concentração ou dispersão populacional;\n\nd) As competências efectivamente exercidas, a definir na deliberação da assembleia municipal respectiva;\n\ne) O número de freguesias do município;\n\nf) O número de equipamentos públicos existentes na área do município sobre que incide o exercício das competências do serviço de polícia municipal;\n\ng) A população em idade escolar na área do município sobre que incide o exercício das competências do serviço de polícia municipal;\n\nh) A extensão da rede viária municipal;\n\ni) A delimitação da área urbana do município.\n\n3 - A ponderação dos factores fixados no número anterior não poderá exceder a razão de 3 agentes por 1000 cidadãos eleitores inscritos na área do respectivo município.\n\n4 - Da fixação prevista nos n.os 1 e 2 não pode resultar, relativamente a cada polícia municipal, um número de efectivos inferior a seis."
+  },
+  "836205289": {
+   "fragment_id": "836205385",
+   "type": 11,
+   "heading": "Artigo 5.º — Eficácia da deliberação da assembleia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Eficácia da deliberação da assembleia municipal\n\n1 - Nos termos do disposto no n.º 3 do artigo 10.º da Lei n.º 140/99, de 28 de Agosto, a eficácia da deliberação da assembleia municipal depende de ratificação por resolução do Conselho de Ministros, que se destina a verificar a conformidade da deliberação autárquica com as disposições legais vigentes.\n\n2 - A resolução do Conselho de Ministros será tomada mediante proposta dos membros do Governo que tiverem a seu cargo as áreas da administração interna e das autarquias locais.\n\n3 - Da proposta referida no número anterior constará, obrigatoriamente, o contrato-programa a celebrar entre o Governo e o respectivo município."
+  },
+  "836205290": {
+   "fragment_id": "836205386",
+   "type": 1,
+   "heading": "Capítulo III — Das transferências financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Das transferências financeiras"
+  },
+  "836205291": {
+   "fragment_id": "836205387",
+   "type": 11,
+   "heading": "Artigo 6.º — Transferências financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transferências financeiras\n\n1 - A dotação dos municípios que possuam ou venham a possuir polícia municipal com os meios financeiros necessários ao investimento para o exercício das competências assumidas efectua-se mediante a celebração de contrato-programa.\n\n2 - Os contratos-programa referidos no número anterior, celebrados no âmbito da cooperação técnica e financeira entre a administração central e os municípios, visam a realização de investimentos para a constituição e equipamento de serviços de polícia municipal.\n\n3 - As regras de celebração dos contratos-programa referidos nos números anteriores são fixadas no anexo I do presente diploma, do qual faz parte integrante."
+  },
+  "836205292": {
+   "fragment_id": "836205388",
+   "type": 1,
+   "heading": "Capítulo IV — Das carreiras de pessoal de polícia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Das carreiras de pessoal de polícia municipal"
+  },
+  "836205293": {
+   "fragment_id": "836205389",
+   "type": 11,
+   "heading": "Artigo 7.º — Carreiras de polícia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Carreiras de polícia municipal\n\n1 - São aditadas ao ordenamento de carreiras da administração local a carreira de técnico superior de polícia municipal e a carreira de polícia municipal, com as estruturas e escalas salariais fixadas no mapa I, anexo II, do presente diploma, do qual faz parte integrante.\n\n2 - Os municípios que criem o serviço de polícia municipal podem extinguir a carreira de fiscal municipal."
+  },
+  "836205294": {
+   "fragment_id": "836205390",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conteúdo funcional\n\n1 - O conteúdo funcional da carreira técnica superior de polícia municipal é o constante do mapa II, anexo III, do presente diploma, do qual faz parte integrante.\n\n2 - O conteúdo funcional da carreira de polícia municipal é o constante do mapa III, anexo IV, do presente diploma, do qual faz parte integrante."
+  },
+  "836205295": {
+   "fragment_id": "836205391",
+   "type": 11,
+   "heading": "Artigo 9.º — Carreira técnica superior de polícia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Carreira técnica superior de polícia municipal\n\nO recrutamento para as categorias da carreira técnica superior de polícia municipal obedece às seguintes regras:\n\na) Assessor de polícia municipal principal, de entre assessores de polícia municipal com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom;\n\nb) Assessor de polícia municipal, de entre técnicos superiores de polícia municipal especialistas com, pelo menos, três anos de serviço classificados de Muito bom ou cinco anos classificados de Bom, mediante concurso de provas públicas, que consistirá na apreciação e discussão do currículo profissional do candidato;\n\nc) Técnicos superiores de polícia municipal especialistas e técnicos superiores de polícia municipal principais, de entre, respectivamente, técnicos superiores de polícia municipal principais e técnicos superiores de polícia municipal com, pelo menos, três anos nas respectivas categorias classificados de Bom;\n\nd) Técnico superior de polícia municipal, de entre indivíduos habilitados com licenciatura em área de formação adequada ao conteúdo funcional do lugar a prover, aprovados em estágio com classificação não inferior a Bom (14 valores)."
+  },
+  "836205296": {
+   "fragment_id": "836205392",
+   "type": 11,
+   "heading": "Artigo 10.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Regime de estágio\n\n1 - O estágio para ingresso na carreira técnica superior de polícia municipal rege-se pelo disposto no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, com as necessárias adaptações, no artigo 6.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, aplicável à administração local nos termos do Decreto-Lei n.º 409/91, de 17 de Outubro, e pelo disposto nos números seguintes.\n\n2 - Nos concursos para admissão de estagiários são obrigatoriamente utilizados como métodos de selecção a prova de conhecimentos, o exame psicológico, o exame médico e a entrevista profissional, tendo os três primeiros carácter eliminatório.\n\n3 - O estágio tem a duração de um ano e inclui a frequência, com aproveitamento, do curso de formação profissional, com a duração de cento e vinte horas, para o pessoal técnico superior em regime de estágio na administração autárquica, ministrado pelo Centro de Estudos e Formação Autárquica, e de uma formação complementar específica, de duração não superior cem horas, a realizar pelo Instituto Superior de Ciências Policiais e Segurança Interna.\n\n4 - A não obtenção de aproveitamento na formação a realizar nos termos do número anterior, bem como no final do estágio, implica o regresso do estagiário ao lugar de origem ou a imediata rescisão do contrato, sem direito a qualquer indemnização, consoante se trate de indivíduos providos, ou não, definitivamente.\n\n5 - Os estagiários são remunerados pelo índice 310 da escala salarial do regime geral, sem prejuízo de opção pela remuneração do lugar de origem, no caso de pessoal provido definitivamente.\n\n6 - Findo o estágio, os candidatos são ordenados em função das classificações obtidas e os que se encontrem dentro das vagas serão providos a título definitivo, contando o tempo de estágio para efeitos de promoção e progressão na categoria de ingresso da carreira."
+  },
+  "836205297": {
+   "fragment_id": "836205393",
+   "type": 11,
+   "heading": "Artigo 11.º — Carreira de polícia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Carreira de polícia municipal\n\n1 - O recrutamento para as categorias da carreira de polícia municipal obedece às seguintes regras:\n\na) Graduado-coordenador, de entre agentes graduados principais com classificação de serviço de Bom com, pelo menos, três anos de serviço na categoria e com aprovação em curso de formação complementar na área de polícia municipal;\n\nb) Agente graduado principal e agente graduado, de entre, respectivamente, agentes graduados e agentes municipais de 1.ª classe com, pelo menos, três anos na respectiva categoria classificados de Muito bom ou cinco anos classificados de Bom;\n\nc) Agente municipal de 1.ª classe, de entre agentes de 2.ª classe com, pelo menos, três anos na categoria classificados de Bom;\n\nd) Agente municipal de 2.ª classe, de entre indivíduos habilitados com o 12.º ano de escolaridade ou equivalente aprovados em estágio com classificação não inferior a Bom (14 valores), dando-se preferência, em caso de igualdade de circunstâncias, àqueles ou àquelas que tiverem prestado serviço militar nas Forças Armadas em regime de voluntariado ou contrato pelo período mínimo de um ano.\n\n2 - Só poderá ser criada a categoria de graduado-coordenador quando se verifique a necessidade de coordenar, pelo menos, 10 agentes de polícia municipal."
+  },
+  "836205298": {
+   "fragment_id": "836205394",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime de estágio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime de estágio\n\n1 - O estágio para ingresso na carreira de polícia municipal rege-se pelo disposto no artigo 5.º do Decreto-Lei n.º 265/88, de 28 de Julho, com as necessárias adaptações, no artigo 6.º do Decreto-Lei n.º 427/89, de 7 de Dezembro, aplicável à administração local nos termos do Decreto-Lei n.º 409/91, de 17 de Outubro, e pelo disposto nos números seguintes.\n\n2 - A admissão ao estágio faz-se de entre indivíduos habilitados com o 12.º ano de escolaridade ou equivalente e que reúnam os requisitos gerais e específicos de provimento, de idade inferior a 28 anos à data do encerramento do prazo da candidatura, dando-se preferência, em caso de igualdade de circunstâncias, àqueles ou àquelas que tiverem prestado serviço militar nas Forças Armadas em regime de voluntariado ou contrato pelo período mínimo de um ano.\n\n3 - Nos concursos para admissão de estagiários são obrigatoriamente utilizados como métodos de selecção a prova de conhecimentos, o exame psicológico, o exame médico e a entrevista profissional, tendo os três primeiros carácter eliminatório\n\n4 - O estágio tem a duração de um ano e inclui a frequência, com aproveitamento, de um curso de formação, que conterá obrigatoriamente módulos de natureza administrativa, cívica e profissional específica, com a duração de um semestre, a ministrar conjuntamente pelo Centro de Estudos e Formação Autárquica e pela Escola Prática de Polícia.\n\n5 - Sem prejuízo do disposto no n.º 3, os candidatos que comprovem ter frequentado, com aproveitamento, o curso a que se refere o número anterior são dispensados da sua frequência.\n\n6 - A não obtenção de aproveitamento no curso de formação a realizar, bem como no final do estágio, implica o regresso do estagiário ao lugar de origem ou a imediata rescisão do contrato, sem direito a qualquer indemnização, consoante se trate de indivíduos providos, ou não, definitivamente.\n\n7 - Os estagiários são remunerados pelo índice 165 da escala salarial do regime geral, sem prejuízo do direito de opção pela remuneração do lugar de origem, no caso do pessoal provido definitivamente.\n\n8 - Os indivíduos aprovados em estágio e que se encontrem dentro das vagas serão providos a título definitivo, contando o tempo de estágio para efeitos de promoção e progressão na categoria de ingresso da carreira."
+  },
+  "836205299": {
+   "fragment_id": "836205395",
+   "type": 11,
+   "heading": "Artigo 13.º — Transição de fiscais municipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Transição de fiscais municipais\n\n1 - Nos municípios que criem o serviço de polícia municipal, os fiscais municipais podem transitar para a carreira de polícia municipal, desde que satisfaçam, cumulativamente, as seguintes condições:\n\na) Estejam habilitados com o 12.º ano de escolaridade ou equivalente;\n\nb) Frequentem, com aproveitamento, um curso de formação profissional na área de polícia municipal, com duração não inferior a três meses, ministrado conjuntamente pelo Centro de Estudos e Formação Autárquica e pela Escola Prática de Polícia;\n\nc) Comprovem possuir a robustez física para o exercício das funções previstas na carreira, mediante exame médico de selecção;\n\nd) Obtenham relatório favorável em exame psicológico de selecção.\n\n2 - A transição do pessoal a que se refere o número anterior efectua-se no escalão em que o funcionário se encontra posicionado e de acordo com as seguintes regras:\n\na) Fiscal municipal especialista principal para agente graduado principal;\n\nb) Fiscal municipal especialista para agente graduado;\n\nc) Fiscal municipal de 1.ª classe para agente municipal de 1.ª classe;\n\nd) Fiscal municipal de 2.ª classe para agente municipal de 2.ª classe.\n\n3 - O previsto no número anterior não se aplica aos fiscais municipais principais, que transitarão nos termos dos n.os 4 e 5.\n\n4 - Os funcionários detentores da categoria de fiscal municipal principal transitam para a categoria de agente graduado.\n\n5 - A transição a que se refere o número anterior faz-se com observância do disposto nos n.os 2 e 3 do artigo 18.º do Decreto-Lei n.º 353-A/89, de 16 de Outubro.\n\n6 - Nas situações previstas no n.º 2, o tempo de serviço prestado na anterior categoria da carreira de fiscal municipal conta, para todos os efeitos legais, designadamente, para promoção na carreira de polícia municipal e progressão na categoria para a qual o funcionário venha a transitar."
+  },
+  "836205300": {
+   "fragment_id": "836205396",
+   "type": 11,
+   "heading": "Artigo 14.º — Transição de outro pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transição de outro pessoal\n\n1 - Sem prejuízo do disposto no artigo anterior, podem transitar para a carreira de polícia municipal os funcionários municipais que satisfaçam, cumulativamente, as seguintes condições:\n\na) Estejam habilitados com o 12.º ano de escolaridade ou equivalente;\n\nb) Frequentem, com aproveitamento, um curso de formação profissional na área de polícia municipal, a que se refere o n.º 4 do artigo 12.º;\n\nc) Comprovem possuir a robustez física para o exercício das funções previstas na carreira, mediante exame médico de selecção;\n\nd) Obtenham relatório favorável em exame psicológico de selecção.\n\n2 - Transitam também para a carreira de polícia municipal os funcionários integrados na carreira de polícia administrativa municipal.\n\n3 - Para efeitos de determinação da categoria da carreira de polícia municipal, a relação de natureza remuneratória legalmente fixada estabelece-se entre os índices remuneratórios correspondentes ao escalão 1 da categoria em que o funcionário se encontre e o escalão 1 da categoria da nova carreira.\n\n4 - As transições a que se refere o número anterior efectuam-se para o escalão a que corresponda, na estrutura da categoria, índice remuneratório igual ou, se não houver coincidência, índice superior mais elevado.\n\n5 - Nos casos em que a integração na nova carreira se faça em escalão a que corresponda o mesmo índice remuneratório, o tempo de serviço prestado no escalão de origem releva para progressão na nova categoria.\n\n6 - Nas situações previstas nos números anteriores, o tempo de serviço prestado na anterior categoria conta para efeitos de promoção na carreira de polícia municipal."
+  },
+  "836205301": {
+   "fragment_id": "836205397",
+   "type": 11,
+   "heading": "Artigo 15.º — Formação profissional e exames médico e psicológico de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Formação profissional e exames médico e psicológico de selecção\n\n1 - A duração, o conteúdo curricular, os critérios de avaliação e o regime de frequência dos cursos de formação previstos nos artigos 10.º, n.º 3, 11.º, n.º 1, alínea a), 12.º, n.º 4, e 13.º, n.º 1, alínea b), do presente diploma são fixados por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e das autarquias locais.\n\n2 - A definição do conteúdo e da realização dos exames médico e psicológico de selecção são fixados por portaria conjunta dos membros do Governo responsáveis pelas áreas da administração interna e das autarquias locais."
+  },
+  "836205302": {
+   "fragment_id": "836205398",
+   "type": 11,
+   "heading": "Artigo 16.º — Extinção de lugares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Extinção de lugares\n\n1 - No caso de o município optar pela extinção da carreira de fiscal municipal, são extintos os lugares dos fiscais municipais que transitem para lugares da carreira de polícia municipal.\n\n2 - Os fiscais municipais que não transitem, nos termos do número anterior, para a carreira de polícia municipal mantêm-se nos lugares da carreira de fiscal municipal, os quais se extinguem quando vagarem, da base para o topo."
+  },
+  "836205303": {
+   "fragment_id": "836205399",
+   "type": 11,
+   "heading": "Artigo 17.º — Semana de trabalho e descanso semanal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Semana de trabalho e descanso semanal\n\n1 - A duração semanal de trabalho do pessoal da carreira de polícia municipal é de trinta e cinco horas.\n\n2 - São considerados dias normais de trabalho todos os dias da semana, incluindo sábados, domingos e feriados.\n\n3 - As situações de trabalho extraordinário, de descanso semanal e descanso complementar, bem como a fixação da modalidade de horário, são definidas na programação de serviço a estabelecer mensalmente pelos serviços municipais de polícia, devendo, pelo menos uma vez por mês, fazer coincidir aqueles dias de descanso com o sábado e o domingo.\n\n4 - A programação a que se refere o número anterior pode ser alterada, devendo ser comunicada aos interessados com a antecedência de uma semana, salvo casos excepcionais, em que a referida comunicação poderá ser feita com a antecedência de quarenta e oito horas."
+  },
+  "836205304": {
+   "fragment_id": "836205400",
+   "type": 11,
+   "heading": "Artigo 18.º — Trabalho extraordinário, nocturno, em dias de descanso e em feriados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Trabalho extraordinário, nocturno, em dias de descanso e em feriados\n\n1 - Sempre que o horário diário de trabalho coincida, no todo ou em parte, com o período de trabalho nocturno, a remuneração respectiva é acrescida nos termos do artigo 32.º, n.º 3, do Decreto-Lei n.º 259/98, de 18 de Agosto.\n\n2 - As situações de trabalho extraordinário e a prestação de trabalho em dias de descanso semanal e descanso complementar, programados nos termos do n.º 3 do artigo 17.º do presente diploma, bem como nos dias feriados, são igualmente remuneradas nos termos do diploma referido no número anterior."
+  },
+  "836205305": {
+   "fragment_id": "836205401",
+   "type": 11,
+   "heading": "Artigo 19.º — Destacamento de graduados das forças de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Destacamento de graduados das forças de segurança\n\n1 - Os oficiais e demais graduados das forças de segurança podem desempenhar funções de enquadramento compatíveis nas polícias municipais.\n\n2 - O exercício das funções referidas no número anterior faz-se em regime de destacamento em termos idênticos ao disposto nos n.os 1, 2, 3 e 4 do artigo 27.º do Decreto-Lei n.º 427/89, de 7 de Dezembro.\n\n3 - O destacamento faz-se por solicitação da câmara municipal, devidamente fundamentada e com o acordo do interessado, e depende de autorização do Ministro da Administração Interna, ouvido o responsável máximo da força de segurança respectiva."
+  },
+  "836205306": {
+   "fragment_id": "836205402",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "836205307": {
+   "fragment_id": "836205403",
+   "type": 11,
+   "heading": "Artigo 20.º — Receita do município",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Receita do município\n\nO produto das coimas resultante da actividade do serviço de polícia municipal constitui receita do município, salvo disposição legal em contrário."
+  },
+  "836205308": {
+   "fragment_id": "836205404",
+   "type": 11,
+   "heading": "Artigo 21.º — Recrutamento excepcional para a categoria de graduado-coordenador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Recrutamento excepcional para a categoria de graduado-coordenador\n\n1 - A área de recrutamento para a categoria de graduado-coordenador é alargada, por um período de cinco anos, nos seguintes termos:\n\na) Funcionários do grupo de pessoal técnico-profissional detentores da categoria de técnico profissional especialista principal habilitados com o 12.º ano de escolaridade ou equivalente;\n\nb) Funcionários pertencentes a outros grupos de pessoal, integrados no índice 300 ou superior do regime geral, habilitados com o 12.º ano de escolaridade ou equivalente.\n\n2 - Sem prejuízo do previsto no número anterior, os candidatos à categoria de graduado-coordenador devem satisfazer cumulativamente os seguintes requisitos:\n\na) Frequentem com aproveitamento um curso de formação profissional a regular nos termos do artigo 15.º e da alínea b) do n.º 1 do artigo 13.º;\n\nb) Comprovem possuir robustez física para o exercício das funções previstas na carreira, mediante exame médico de selecção;\n\nc) Obtenham relatório favorável em exame psicológico de selecção."
+  },
+  "836205309": {
+   "fragment_id": "836205405",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime excepcional de transição de pessoal da carreira de fiscal municipal para a carreira de polícia municipal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regime excepcional de transição de pessoal da carreira de fiscal municipal para a carreira de polícia municipal\n\nNo prazo de cinco anos, contados a partir da data da entrada em vigor do presente decreto-lei, o pessoal da carreira de fiscal municipal provido até à data da entrada em vigor da Lei n.º 140/99, de 28 de Agosto, e habilitado com o 9.º ano de escolaridade ou equivalente poderá transitar para a carreira de polícia municipal, nos termos do disposto nos n.os 2, 3, 4, 5 e 6 do artigo 13.º do presente diploma, desde que preencha, cumulativamente, os requisitos constantes nas alíneas b), c) e d) do n.º 1 do mesmo preceito."
+  },
+  "836205310": {
+   "fragment_id": "836205406",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime especial transitório de Lisboa e do Porto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Regime especial transitório de Lisboa e do Porto\n\n1 - Os municípios de Lisboa e do Porto, no prazo máximo estabelecido no artigo 22.º da Lei n.º 140/99, de 28 de Agosto, promovem a aplicação do regime previsto no presente diploma.\n\n2 - O regime especial transitório das polícias municipais de Lisboa e do Porto bem como as condições de eventual integração dos agentes da Polícia de Segurança Pública em funções naqueles municípios são estabelecidos pelo Governo em diploma próprio."
+  },
+  "836205311": {
+   "fragment_id": "836205407",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 20/95, de 18 de Julho."
+  },
+  "836205313": {
+   "fragment_id": "836205409",
+   "type": 14,
+   "heading": "Anexo II — MAPA I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — MAPA I\n\nCarreira técnica superior de polícia municipal\n\n(ver mapa no documento original)\n\nCarreira de polícia municipal\n\n(ver mapa no documento original)\n\n> Nota: [MAPA VIII, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) Revoga o mapa I do presente anexo, na parte referente à carreira de técnico superior de polícia municipal."
+  },
+  "836205314": {
+   "fragment_id": "836205410",
+   "type": 14,
+   "heading": "Anexo III — MAPA II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — MAPA II\n\nConteúdo funcional\n\nAo pessoal da carreira técnica superior de polícia municipal incumbe, genericamente:\n\na) Desempenhar funções de enquadramento técnico relativamente ao pessoal da carreira de polícia municipal;\n\nb) Instruir processos de contra-ordenação e de transgressão da respectiva competência;\n\nc) Participar no serviço municipal de protecção civil;\n\nd) Realizar estudos, conceber e adaptar métodos e processos científico-técnicos, no âmbito das polícias municipais, tendo em vista informar a decisão superior;\n\ne) Propor alterações às normas regulamentares municipais;\n\nf) Colaborar na elaboração de regulamentos municipais;\n\ng) Participar em acções de sensibilização e divulgação de várias matérias, designadamente de prevenção rodoviária e ambiental."
+  },
+  "836205315": {
+   "fragment_id": "836205411",
+   "type": 14,
+   "heading": "Anexo IV — MAPA III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — MAPA III\n\nConteúdo funcional\n\nAo pessoal da carreira de polícia municipal incumbe, genericamente:\n\na) Fiscalizar o cumprimento das normas de estacionamento de veículos e de circulação rodoviária, incluindo a participação dos acidentes de viação, e proceder à regulação do trânsito rodoviário e pedonal na área de jurisdição municipal;\n\nb) Fazer vigilância nos transportes urbanos locais, nos espaços públicos ou abertos ao público, designadamente nas áreas circundantes de escolas, e providenciar pela guarda de edifícios e equipamentos públicos municipais;\n\nc) Executar coercivamente, nos termos da lei, os actos administrativos das autoridades municipais;\n\nd) Deter e entregar imediatamente à autoridade judiciária ou a entidade policial suspeitos de crime punível com pena de prisão em caso de flagrante delito, nos termos da lei processual penal;\n\ne) Denunciar os crimes de que tiver conhecimento no exercício das suas funções, e por causa delas, e praticar os actos cautelares necessários e urgentes para assegurar os meios de prova, nos termos da lei processual penal, até à chegada do órgão de polícia criminal competente;\n\nf) Elaborar autos de notícia e autos de contra-ordenação ou transgressão por infracções às normas regulamentares municipais e às normas de âmbito nacional ou regional cuja competência de aplicação ou fiscalização pertença ao município;\n\ng) Elaborar autos de notícia por acidente de viação quando o facto não constituir crime;\n\nh) Elaborar autos de notícia, com remessa à autoridade competente, por infracções cuja fiscalização não seja da competência do município, nos casos em que a lei o imponha ou permita;\n\ni) Instruir processos de contra-ordenação e de transgressão da respectiva competência;\n\nj) Exercer funções de polícia ambiental;\n\nk) Exercer funções de polícia mortuária;\n\nl) Fiscalizar o cumprimento dos regulamentos municipais e de aplicação das normas legais, designadamente nos domínios do urbanismo, da construção, da defesa e protecção dos recursos cinegéticos, do património cultural, da Natureza e do ambiente;\n\nm) Garantir o cumprimento das leis e dos regulamentos que envolvam competências municipais de fiscalização;\n\nn) Exercer funções de sensibilização e divulgação de várias matérias, designadamente de prevenção rodoviária e ambiental;\n\no) Participar no serviço municipal de protecção civil."
+  },
+  "836205340": {
+   "fragment_id": "836205379",
+   "type": 1,
+   "heading": "Capítulo I — Do âmbito de aplicação",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "### Capítulo I — Do âmbito de aplicação\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205341": {
+   "fragment_id": "836205380",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente diploma estabelece as regras a observar na deliberação da assembleia municipal que crie, para o respectivo município, o serviço de polícia municipal, bem como os regimes de transferências financeiras e de carreiras de pessoal, com obediência pelo disposto na Lei n.º 140/99, de 28 de Agosto.\n\n2 - A criação das polícias municipais compete à assembleia municipal, sob proposta da câmara municipal, nos termos do disposto no n.º 1 do artigo 10.º da lei referida no número anterior.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205342": {
+   "fragment_id": "836205381",
+   "type": 1,
+   "heading": "Capítulo II — Da deliberação da assembleia municipal",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "### Capítulo II — Da deliberação da assembleia municipal\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205343": {
+   "fragment_id": "836205382",
+   "type": 11,
+   "heading": "Artigo 2.º — Conteúdo da deliberação",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 2.º — Conteúdo da deliberação\n\n1 - Na deliberação da assembleia municipal que crie o serviço de polícia municipal são, obrigatoriamente, aprovados:\n\na) O regulamento de organização e funcionamento do serviço;\n\nb) O quadro de pessoal.\n\n2 - A validade do regulamento de organização e funcionamento do serviço e do quadro de pessoal aprovados depende da sua conformidade com as regras previstas na Lei n.º 140/99, de 28 de Agosto, no decreto-lei que regula as condições e o modo de exercício de funções de agente de polícia municipal e no presente diploma.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205344": {
+   "fragment_id": "836205383",
+   "type": 11,
+   "heading": "Artigo 3.º — Conteúdo do regulamento de organização e funcionamento",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 3.º — Conteúdo do regulamento de organização e funcionamento\n\nDo regulamento de organização e funcionamento de serviço de polícia municipal constará, obrigatoriamente:\n\na) A enumeração taxativa das competências do serviço de polícia municipal a criar, dentro do respectivo quadro legal;\n\nb) A delimitação geográfica da área do território municipal onde serão exercidas as respectivas competências;\n\nc) A determinação do número de efectivos, atendendo aos critérios fixados no artigo 4.º;\n\nd) A fixação do equipamento coercivo a deter pelo serviço, nos termos dos normativos aplicáveis;\n\ne) A definição precisa do local de depósito das armas;\n\nf) A descrição, com recurso a elementos figurativos, dos distintivos heráldicos e gráficos do município para uso nos uniformes e viaturas;\n\ng) A caracterização das instalações de funcionamento do serviço de polícia municipal.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205345": {
+   "fragment_id": "836205384",
+   "type": 11,
+   "heading": "Artigo 4.º — Efectivos",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 4.º — Efectivos\n\n1 - A fixação do número de efectivos de cada polícia municipal dependerá das necessidades do serviço e da proporcionalidade entre o número de agentes e o número de cidadãos eleitores inscritos na área do respectivo município, nos termos do disposto nos n.os 2 e 3 do presente artigo.\n\n2 - Na fixação do número de efectivos de polícia municipal considerar-se-ão, cumulativamente, os seguintes factores:\n\na) A extensão geográfica do município;\n\nb) A área do município sobre que incide o exercício das competências do serviço de polícia municipal, a definir na deliberação da assembleia municipal respectiva;\n\nc) A razão da concentração ou dispersão populacional;\n\nd) As competências efectivamente exercidas, a definir na deliberação da assembleia municipal respectiva;\n\ne) O número de freguesias do município;\n\nf) O número de equipamentos públicos existentes na área do município sobre que incide o exercício das competências do serviço de polícia municipal;\n\ng) A população em idade escolar na área do município sobre que incide o exercício das competências do serviço de polícia municipal;\n\nh) A extensão da rede viária municipal;\n\ni) A delimitação da área urbana do município.\n\n3 - A ponderação dos factores fixados no número anterior não poderá exceder a razão de 3 agentes por 1000 cidadãos eleitores inscritos na área do respectivo município.\n\n4 - Da fixação prevista nos n.os 1 e 2 não pode resultar, relativamente a cada polícia municipal, um número de efectivos inferior a seis.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205346": {
+   "fragment_id": "836205385",
+   "type": 11,
+   "heading": "Artigo 5.º — Eficácia da deliberação da assembleia municipal",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 5.º — Eficácia da deliberação da assembleia municipal\n\n1 - Nos termos do disposto no n.º 3 do artigo 10.º da Lei n.º 140/99, de 28 de Agosto, a eficácia da deliberação da assembleia municipal depende de ratificação por resolução do Conselho de Ministros, que se destina a verificar a conformidade da deliberação autárquica com as disposições legais vigentes.\n\n2 - A resolução do Conselho de Ministros será tomada mediante proposta dos membros do Governo que tiverem a seu cargo as áreas da administração interna e das autarquias locais.\n\n3 - Da proposta referida no número anterior constará, obrigatoriamente, o contrato-programa a celebrar entre o Governo e o respectivo município.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205347": {
+   "fragment_id": "836205386",
+   "type": 1,
+   "heading": "Capítulo III — Das transferências financeiras",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "### Capítulo III — Das transferências financeiras\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205348": {
+   "fragment_id": "836205387",
+   "type": 11,
+   "heading": "Artigo 6.º — Transferências financeiras",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 6.º — Transferências financeiras\n\n1 - A dotação dos municípios que possuam ou venham a possuir polícia municipal com os meios financeiros necessários ao investimento para o exercício das competências assumidas efectua-se mediante a celebração de contrato-programa.\n\n2 - Os contratos-programa referidos no número anterior, celebrados no âmbito da cooperação técnica e financeira entre a administração central e os municípios, visam a realização de investimentos para a constituição e equipamento de serviços de polícia municipal.\n\n3 - As regras de celebração dos contratos-programa referidos nos números anteriores são fixadas no anexo I do presente diploma, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205336": {
+   "fragment_id": "836205390",
+   "type": 11,
+   "heading": "Artigo 8.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 8.º — Conteúdo funcional\n\n1 - (Revogado.)\n\n2 - O conteúdo funcional da carreira de polícia municipal é o constante do mapa III, anexo IV, do presente diploma, do qual faz parte integrante.\n\n> Alterado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "836205349": {
+   "fragment_id": "836205402",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205350": {
+   "fragment_id": "836205403",
+   "type": 11,
+   "heading": "Artigo 20.º — Receita do município",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 20.º — Receita do município\n\nO produto das coimas resultante da actividade do serviço de polícia municipal constitui receita do município, salvo disposição legal em contrário.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205351": {
+   "fragment_id": "836205404",
+   "type": 11,
+   "heading": "Artigo 21.º — Recrutamento excepcional para a categoria de graduado-coordenador",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 21.º — Recrutamento excepcional para a categoria de graduado-coordenador\n\n1 - A área de recrutamento para a categoria de graduado-coordenador é alargada, por um período de cinco anos, nos seguintes termos:\n\na) Funcionários do grupo de pessoal técnico-profissional detentores da categoria de técnico profissional especialista principal habilitados com o 12.º ano de escolaridade ou equivalente;\n\nb) Funcionários pertencentes a outros grupos de pessoal, integrados no índice 300 ou superior do regime geral, habilitados com o 12.º ano de escolaridade ou equivalente.\n\n2 - Sem prejuízo do previsto no número anterior, os candidatos à categoria de graduado-coordenador devem satisfazer cumulativamente os seguintes requisitos:\n\na) Frequentem com aproveitamento um curso de formação profissional a regular nos termos do artigo 15.º e da alínea b) do n.º 1 do artigo 13.º;\n\nb) Comprovem possuir robustez física para o exercício das funções previstas na carreira, mediante exame médico de selecção;\n\nc) Obtenham relatório favorável em exame psicológico de selecção.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205352": {
+   "fragment_id": "836205405",
+   "type": 11,
+   "heading": "Artigo 22.º — Regime excepcional de transição de pessoal da carreira de fiscal municipal para a carreira de polícia municipal",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 22.º — Regime excepcional de transição de pessoal da carreira de fiscal municipal para a carreira de polícia municipal\n\nNo prazo de cinco anos, contados a partir da data da entrada em vigor do presente decreto-lei, o pessoal da carreira de fiscal municipal provido até à data da entrada em vigor da Lei n.º 140/99, de 28 de Agosto, e habilitado com o 9.º ano de escolaridade ou equivalente poderá transitar para a carreira de polícia municipal, nos termos do disposto nos n.os 2, 3, 4, 5 e 6 do artigo 13.º do presente diploma, desde que preencha, cumulativamente, os requisitos constantes nas alíneas b), c) e d) do n.º 1 do mesmo preceito.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205353": {
+   "fragment_id": "836205406",
+   "type": 11,
+   "heading": "Artigo 23.º — Regime especial transitório de Lisboa e do Porto",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 23.º — Regime especial transitório de Lisboa e do Porto\n\n1 - Os municípios de Lisboa e do Porto, no prazo máximo estabelecido no artigo 22.º da Lei n.º 140/99, de 28 de Agosto, promovem a aplicação do regime previsto no presente diploma.\n\n2 - O regime especial transitório das polícias municipais de Lisboa e do Porto bem como as condições de eventual integração dos agentes da Polícia de Segurança Pública em funções naqueles municípios são estabelecidos pelo Governo em diploma próprio.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205354": {
+   "fragment_id": "836205407",
+   "type": 11,
+   "heading": "Artigo 24.º — Norma revogatória",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "###### Artigo 24.º — Norma revogatória\n\nÉ revogado o Decreto Regulamentar n.º 20/95, de 18 de Julho.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205312": {
+   "fragment_id": "836205408",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2000. - António Manuel de Oliveira Guterres - Fernando Manuel dos Santos Gomes - Fernando Manuel dos Santos Gomes - Joaquim Augusto Nunes Pina Moura - António Luís Santos Costa - Alberto de Sousa Martins - Maria de Belém Roseira Martins Coelho Henriques de Pina.\n\nPromulgado em 2 de Março de 2000.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Março de 2000.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "836205316": {
+   "fragment_id": "836205412",
+   "type": 14,
+   "heading": "Anexo I — Regras de celebração de contratos-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Regras de celebração de contratos-programa"
+  },
+  "836205317": {
+   "fragment_id": "836205413",
+   "type": 11,
+   "heading": "Artigo 1.º — Condições de admissibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Condições de admissibilidade\n\n1 - Após a deliberação da assembleia municipal a que se refere o artigo 2.º do presente decreto-lei, o respectivo município apresentará ao membro do Governo responsável pela área da administração interna proposta de contrato-programa, nos termos do disposto no n.º 2 do artigo 6.º do mesmo diploma.\n\n2 - A proposta de contrato-programa será objecto de negociação entre o município e a administração central, representada pelos membros do Governo responsáveis pelas áreas da administração interna e das autarquias locais."
+  },
+  "836205326": {
+   "fragment_id": "836205414",
+   "type": 11,
+   "heading": "Artigo 2.º — Elegibilidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Elegibilidades\n\nSão elegíveis, para efeitos de financiamento pela administração central, os seguintes investimentos:\n\na) Construção ou adaptação de edifícios, incluindo a construção de um armeiro privativo, de forma a dotar de instalações próprias os serviços de polícia municipal, nos termos previstos no n.º 2 do artigo 10.º do decreto-lei que regula as condições e o modo de exercício das funções de agente de polícia municipal;\n\nb) Equipamento previsto no artigo 8.º do decreto-lei previsto na alínea a) do presente artigo;\n\nc) Equipamento de comunicações, nos termos previstos no artigo 11.º do decreto-lei previsto nas alíneas anteriores;\n\nd) Viaturas;\n\ne) Equipamento de informática, mobiliário ou outro equipamento de uso específico e de apoio administrativo."
+  },
+  "836205327": {
+   "fragment_id": "836205415",
+   "type": 11,
+   "heading": "Artigo 3.º — Grau de financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Grau de financiamento\n\nNos investimentos para constituição e ou equipamento dos serviços de polícia municipal, a participação financeira da administração central poderá atingir 90% dos respectivos custos totais."
+  },
+  "836205328": {
+   "fragment_id": "836205416",
+   "type": 11,
+   "heading": "Artigo 4.º — Apresentação e apreciação da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação e apreciação da proposta\n\n1 - Compete ao ministério responsável pela área da administração interna apreciar, no prazo de 60 dias, a proposta de contrato-programa.\n\n2 - Compete ao membro do Governo responsável pela área da administração interna submeter, após parecer favorável do membro do Governo responsável pela área das autarquias locais, a decisão a Conselho de Ministros."
+  },
+  "836205329": {
+   "fragment_id": "836205417",
+   "type": 11,
+   "heading": "Artigo 5.º — Conteúdo da proposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conteúdo da proposta\n\nA proposta será acompanhada dos seguintes elementos:\n\n1) Regulamento de organização e funcionamento do serviço de polícia municipal, a que se refere o artigo 3.º do decreto-lei;\n\n2) Discriminação dos factores enunciados no n.º 2 do artigo 4.º do decreto-lei;\n\n3) Relatório de apresentação do projecto que contenha os seguintes aspectos:\n\na) Memória descritiva e justificativa das soluções preconizadas;\n\nb) Objectivos do projecto e quantificação dos resultados, em termos de população servida e especificamente da população estudante;\n\nc) Planta de localização do futuro serviço de polícia municipal;\n\nd) Planta do edifício a construir ou recuperar e respectiva descrição técnica, destacando o armeiro;\n\ne) Cálculo e descrição técnica dos equipamentos a adquirir;\n\nf) Programação física e financeira;\n\ng) Importância do projecto no contexto local/municipal face aos actuais níveis médios de satisfação dos objectivos a atingir;\n\n4) Estudos e projectos técnicos já elaborados e eventuais pareceres sobre os mesmos, emitidos pelas entidades com atribuições nos domínios em causa;\n\n5) Identificação das potenciais entidades contratantes;\n\n6) Titularidade dos bens patrimoniais e dos equipamentos públicos a construir;\n\n7) Estimativa dos volumes anuais do investimento face ao calendário previsto para a execução dos projectos;\n\n8) Proposta de modelo de financiamento, com incidência plurianual."
+  },
+  "836205330": {
+   "fragment_id": "836205418",
+   "type": 11,
+   "heading": "Artigo 6.º — Conteúdo do contrato-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conteúdo do contrato-programa\n\n1 - O contrato-programa é composto por:\n\na) Definição do objecto do contrato;\n\nb) Período de vigência do contrato, com indicação das datas dos respectivos início e termo;\n\nc) Direitos e obrigações das partes contratantes;\n\nd) Definição dos instrumentos financeiros aplicáveis;\n\ne) Quantificação da responsabilidade de financiamento de cada uma das partes;\n\nf) Estrutura de acompanhamento e controlo da execução do contrato;\n\ng) Regime sancionatório no caso de incumprimento por qualquer das partes.\n\n2 - Qualquer alteração ao contrato-programa só poderá ser efectuada mediante acordo expresso de todos os contratantes."
+  },
+  "836205331": {
+   "fragment_id": "836205419",
+   "type": 11,
+   "heading": "Artigo 7.º — Celebração do contrato-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Celebração do contrato-programa\n\n1 - O contrato-programa é celebrado entre o município requerente e os ministérios responsáveis pelas áreas da administração interna e das autarquias locais, após aprovação e dotação pelo Orçamento do Estado dos respectivos investimentos, bem como inclusão no plano de actividades e orçamento dos municípios.\n\n2 - O contrato-programa, bem como qualquer alteração, é publicado na 2.ª série do Diário da República."
+  },
+  "836205332": {
+   "fragment_id": "836205420",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma financeira\n\n1 - Anualmente será inscrita no capítulo 50 (PIDDAC) do ministério responsável pela área da administração interna, em programa específico, a verba a transferir para os municípios cujos processos de criação de serviços de polícia municipal tenham sido objecto de deliberação favorável por resolução do Conselho de Ministros até 30 de Junho do ano anterior.\n\n2 - A verba referida no número anterior destina-se ao financiamento de investimentos objecto do contrato-programa celebrado."
+  },
+  "836205333": {
+   "fragment_id": "836205421",
+   "type": 6,
+   "heading": "Subdivisão 9.º — Coordenação e acompanhamento da execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Subdivisão 9.º — Coordenação e acompanhamento da execução\n\n1 - Compete ao ministério responsável pela área da administração interna o acompanhamento e a elaboração dos relatórios de execução dos contratos-programa.\n\n2 - O procedimento previsto no número anterior será submetido à apreciação dos membros do Governo responsáveis pelas áreas da administração interna e das autarquias locais."
+  },
+  "836205338": {
+   "fragment_id": "836205422",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao contrato-programa",
+   "in_force_from": null,
+   "changed_by": [
+    "Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+   ],
+   "markdown": "###### Artigo 10.º — Alteração ao contrato-programa\n\nOcorrendo desactualização dos calendários de realização, originada pela alteração anormal e imprevisível das circunstâncias que determinam os termos do contrato-programa, ou face a quaisquer outras consequências provenientes daquela alteração, deverá ser a mesma proposta pela parte que, nos termos do contrato, seja responsável pela execução dos investimentos ou das acções que constituem o objecto do contrato.\n\n> Revogado pelo/a MAPA VIII do/a [Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561)"
+  },
+  "836205335": {
+   "fragment_id": "836205423",
+   "type": 11,
+   "heading": "Artigo 11.º — Resolução do contrato-programa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Resolução do contrato-programa\n\n1 - Qualquer dos contraentes poderá resolver o contrato-programa quando ocorra alguma das cláusulas de resolução nele previstas.\n\n2 - Resolvido o contrato-programa, e no caso de nova proposta que inclua a totalidade ou parte dos projectos de investimento já abrangidos pelo contrato-programa resolvido, será elaborado um relatório detalhado das causas que motivaram a sua resolução e responsabilidades de cada uma das partes pelo seu não cumprimento."
+  },
+  "836205355": {
+   "fragment_id": "836205409",
+   "type": 14,
+   "heading": "Anexo II — MAPA I",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "## Anexo II — MAPA I\n\nCarreira técnica superior de polícia municipal\n\n(ver mapa no documento original)\n\nCarreira de polícia municipal\n\n(ver mapa no documento original)\n\n> Nota: [MAPA VIII, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) Revoga o mapa I do presente anexo, na parte referente à carreira de técnico superior de polícia municipal.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205356": {
+   "fragment_id": "836205410",
+   "type": 14,
+   "heading": "Anexo III — MAPA II",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "## Anexo III — MAPA II\n\nConteúdo funcional\n\nAo pessoal da carreira técnica superior de polícia municipal incumbe, genericamente:\n\na) Desempenhar funções de enquadramento técnico relativamente ao pessoal da carreira de polícia municipal;\n\nb) Instruir processos de contra-ordenação e de transgressão da respectiva competência;\n\nc) Participar no serviço municipal de protecção civil;\n\nd) Realizar estudos, conceber e adaptar métodos e processos científico-técnicos, no âmbito das polícias municipais, tendo em vista informar a decisão superior;\n\ne) Propor alterações às normas regulamentares municipais;\n\nf) Colaborar na elaboração de regulamentos municipais;\n\ng) Participar em acções de sensibilização e divulgação de várias matérias, designadamente de prevenção rodoviária e ambiental.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205357": {
+   "fragment_id": "836205411",
+   "type": 14,
+   "heading": "Anexo IV — MAPA III",
+   "in_force_from": "2008-11-12",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "## Anexo IV — MAPA III\n\nConteúdo funcional\n\nAo pessoal da carreira de polícia municipal incumbe, genericamente:\n\na) Fiscalizar o cumprimento das normas de estacionamento de veículos e de circulação rodoviária, incluindo a participação dos acidentes de viação, e proceder à regulação do trânsito rodoviário e pedonal na área de jurisdição municipal;\n\nb) Fazer vigilância nos transportes urbanos locais, nos espaços públicos ou abertos ao público, designadamente nas áreas circundantes de escolas, e providenciar pela guarda de edifícios e equipamentos públicos municipais;\n\nc) Executar coercivamente, nos termos da lei, os actos administrativos das autoridades municipais;\n\nd) Deter e entregar imediatamente à autoridade judiciária ou a entidade policial suspeitos de crime punível com pena de prisão em caso de flagrante delito, nos termos da lei processual penal;\n\ne) Denunciar os crimes de que tiver conhecimento no exercício das suas funções, e por causa delas, e praticar os actos cautelares necessários e urgentes para assegurar os meios de prova, nos termos da lei processual penal, até à chegada do órgão de polícia criminal competente;\n\nf) Elaborar autos de notícia e autos de contra-ordenação ou transgressão por infracções às normas regulamentares municipais e às normas de âmbito nacional ou regional cuja competência de aplicação ou fiscalização pertença ao município;\n\ng) Elaborar autos de notícia por acidente de viação quando o facto não constituir crime;\n\nh) Elaborar autos de notícia, com remessa à autoridade competente, por infracções cuja fiscalização não seja da competência do município, nos casos em que a lei o imponha ou permita;\n\ni) Instruir processos de contra-ordenação e de transgressão da respectiva competência;\n\nj) Exercer funções de polícia ambiental;\n\nk) Exercer funções de polícia mortuária;\n\nl) Fiscalizar o cumprimento dos regulamentos municipais e de aplicação das normas legais, designadamente nos domínios do urbanismo, da construção, da defesa e protecção dos recursos cinegéticos, do património cultural, da Natureza e do ambiente;\n\nm) Garantir o cumprimento das leis e dos regulamentos que envolvam competências municipais de fiscalização;\n\nn) Exercer funções de sensibilização e divulgação de várias matérias, designadamente de prevenção rodoviária e ambiental;\n\no) Participar no serviço municipal de protecção civil.\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  },
+  "836205358": {
+   "fragment_id": "836205389",
+   "type": 11,
+   "heading": "Artigo 7.º — Carreira de polícia municipal",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2024-836117868), em vigor a partir de 2024-01-06, produz efeitos a partir de 2023-01-01"
+   ],
+   "markdown": "###### Artigo 7.º — Carreira de polícia municipal\n\n1 - A carreira de polícia municipal tem as categorias, as posições remuneratórias e os correspondentes níveis remuneratórios da Tabela Remuneratória Única (TRU), publicada em anexo ao Decreto-Lei n.º 84-F/2022, de 16 de dezembro, na sua redação atual, previstos no mapa i, anexo ii, do presente diploma, do qual faz parte integrante.\n\n2 - Os municípios que criem o serviço de polícia municipal podem extinguir a carreira de fiscal municipal.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 6/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2024-836117868), em vigor a partir de 2024-01-06, produz efeitos a partir de 2023-01-01"
+  },
+  "836205359": {
+   "fragment_id": "836205409",
+   "type": 14,
+   "heading": "Anexo II — MAPA I",
+   "in_force_from": "2024-01-06",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 6/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2024-836117868), em vigor a partir de 2024-01-06, produz efeitos a partir de 2023-01-01",
+    "Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+   ],
+   "markdown": "## Anexo II — MAPA I\n\nMAPA I\n\nCarreira de polícia municipal\n\n| Categorias | Posições e níveis remuneratórios |  |  |  |  |\n| --- | --- | --- | --- | --- | --- |\n| 1.ª | 2.ª | 3.ª | 4.ª | 5.ª |  |\n|  |  |  |  |  |  |\n| Graduado-coordenador... | 20 | 21 | 22 | 23 |  |\n| Agente graduado principal... | 16 | 17 | 18 | 19 | 20 |\n| Agente graduado... | 13 | 14 | 15 | 16 | 18 |\n| Agente municipal de 1.ª classe... | 9 | 10 | 11 | 12 | 13 |\n| Agente municipal de 2.ª classe... | 7 | 8 | 9 | 10 | 11 |\n| Estagiário... | 5 |  |  |  |  |\n\n> Nota: [MAPA VIII, Decreto-Lei n.º 121/2008 - Diário da República n.º 133/2008, Série I de 2008-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/121-2008-456561) Revoga o mapa I do presente anexo, na parte referente à carreira de técnico superior de polícia municipal.\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 6/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2024-836117868), em vigor a partir de 2024-01-06, produz efeitos a partir de 2023-01-01\n\n> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 197/2008 - Diário da República n.º 194/2008, Série I de 2008-10-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-2008-452928), em vigor a partir de 2008-11-12"
+  }
+ }
+}

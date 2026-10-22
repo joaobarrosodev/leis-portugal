@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:616459:por
+title: Portaria n.º 3/86
+short_title: null
+summary: Altera a taxa de juro anual para cálculo do valor do reembolso dos certificados de aforro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro
+proposing_entity: null
+official_number: 3/86
+official_date: null
+publication_date: '1986-01-03'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 2/1986, Série I de 1986-01-03
+  number: '2'
+  series: I
+  supplement: null
+  pages: 11 - 11
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/01/00200/00110011.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '616459'
+  dre_path: /dr/detalhe/portaria/3-1986-616459
+  internal: pt:dre:616459:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-1986-616459
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/3-1986-616459
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-01-03T00:00:00Z'
+integrity:
+  source_sha256: d405c459027b4428083abfc7b14b35883d64fc4bcba607189921d27e802d0b7e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-3-616459.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 3/86
+
+de 3 de Janeiro
+
+A [Portaria n.º 552-A/85](https://diariodarepublica.pt/dr/detalhe/portaria/552-a-1985-406338), de 8 de Agosto, determinou as taxas a aplicar aquando da amortização dos certificados de aforro emitidos ao abrigo do [Decreto-Lei n.º 43453](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43453-1960-479931), de 30 de Dezembro de 1960.
+
+Tendo-se verificado uma diminuição nas taxas de juro praticadas no mercado financeiro, torna-se necessário proceder a uma alteração das taxas de juro dos certificados de aforro.
+
+Assim:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro, o seguinte:
+
+1.º O valor do reembolso dos certificados de aforro a emitir ao abrigo das disposições da presente portaria será calculado à taxa anual de 19,5% durante o primeiro ano de vida de cada certificado.
+
+2.º A taxa de juro anual aplicável a partir do fim do primeiro ano de vida de cada certificado será a taxa de referência fixada nos termos do artigo 1.º do [Decreto-Lei n.º 311-A/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-a-1985-393610), de 30 de Julho, que estiver em vigor no início de cada ano de vida desses certificados, abatida do diferencial de 2,5%.
+
+3.º Por cada ano de vida de cada certificado além do primeiro, a taxa a que se refere o número anterior irá sendo acrescida de 0,5% em cada ano, até ao quinto ano.
+
+4.º Aos certificados de aforro emitidos na vigência da [Portaria n.º 552-A/85](https://diariodarepublica.pt/dr/detalhe/portaria/552-a-1985-406338), de 8 de Agosto, que solicitem a amortização a partir de 1 de Março de 1986 aplicar-se-ão as taxas constantes da tabela anexa à [Portaria n.º 101-B/85](https://diariodarepublica.pt/dr/detalhe/portaria/101-b-1985-443752), de 15 de Fevereiro, até completarem 5 anos de vida a partir da data da sua emissão.
+
+5.º A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Secretaria de Estado do Tesouro.
+
+**Assinada em 13 de Dezembro de 1985.**
+
+**O Secretário de Estado Adjunto do Ministro das Finanças e do Tesouro, José Alberto Tavares Moreira.**

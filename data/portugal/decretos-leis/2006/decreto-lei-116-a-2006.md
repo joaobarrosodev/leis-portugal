@@ -1,0 +1,567 @@
+---
+schema_version: '1.0'
+id: pt:dre:548239:por
+title: Decreto-Lei n.º 116-A/2006
+short_title: null
+summary: Procede à criação do Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas e designa
+  a Autoridade Nacional de Segurança como autoridade credenciadora nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 116-A/2006
+official_date: null
+publication_date: '2006-06-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/2006, 2º Suplemento, Série I-A de 2006-06-16
+  number: '115'
+  series: I
+  supplement: 2º Suplemento
+  pages: 4330-(4) a 4330-(8)
+  pdf_url: https://files.diariodarepublica.pt/1s/2006/06/115a02/00040008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-03-11'
+version_history:
+  file: decreto-lei-116-a-2006.versoes.json
+  count: 4
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2006-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-09-14'
+    amending: pt:dre:603950:por
+    amending_title: Decreto-Lei n.º 88/2009
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+  - date: '2012-08-01'
+    amending: pt:dre:179293:por
+    amending_title: Decreto-Lei n.º 161/2012
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Revoga Artigo 9.º
+    - Revoga Artigo 10.º
+    - Revoga Artigo 11.º
+    - Revoga Artigo 12.º
+    - Revoga Artigo 15.º
+  - date: '2021-03-11'
+    amending: pt:dre:156848060:por
+    amending_title: Decreto-Lei n.º 12/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/116-a/2006/p/cons/20210209/pt/html
+  oj: null
+  dre: '548239'
+  dre_path: /dr/detalhe/decreto-lei/116-a-2006-548239
+  internal: pt:dre:548239:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/116-a-2006-548239
+  metadata_url: https://data.dre.pt/eli/dec-lei/116-a/2006/p/cons/20210209/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34533775
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-34533775
+  retrieved_at: '2026-10-22T11:50:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 5594060e2b8b766d22c1384b4ed8223132f71e4342fa487f7f5801d5a22434d1
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:50:17Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-116-a-2006.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Apoio Administrativo
+- Autoridade Nacional de Segurança
+- Certificação Electrónica
+- Entidade Certificadora
+- Conselho Técnico
+- Criação de Serviços
+- Definição de Competências
+- Entidade de Certificação Eletrónica do Estado-Infraestrutura de Chaves Públicas
+- Administração Pública
+- Fundação para a Computação Científica Nacional
+- Secretaria Geral
+- Gabinete Nacional de Segurança
+- Instituto das Comunicações de Portugal
+- Instituto de Informática
+- Segurança da Informação
+- Documento Eletrónico
+- Instituto das Tecnologias de Informação na Justiça
+- Unidade de Coordenação da Modernização Administrativa
+- Governo Electrónico
+- UMIC
+- Ceger
+- Presidência do Conselho de Ministros
+- Assinatura Digital
+- REDE Nacional de Segurança Interna
+- Ministro da Presidência
+- Sistema de Certificação Electrónica do Estado-Infraestrutura de Chaves Públicas
+- Conselho Gestor do Sistema de Certificação Eletrónica do Estado
+relationships:
+- type: amended_by
+  target: pt:dre:603950:por
+  label: Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950
+  date: '2009-04-09'
+- type: amended_by
+  target: pt:dre:179293:por
+  label: Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º; Revoga Artigo 9.º; Revoga Artigo 10.º;
+    Revoga Artigo 11.º; Revoga Artigo 12.º; Revoga Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293
+  date: '2012-07-31'
+- type: amended_by
+  target: pt:dre:156848060:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060
+  date: '2021-02-09'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/103/2001/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/103/2001/03/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/146/2000/07/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/217/1997/08/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/217/1997/08/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/234/2000/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/234/2000/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/290-d/1999/08/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/62/2003/04/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/62/2003/04/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/25/2004/07/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/25/2004/07/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/171/2005/11/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/171/2005/11/03/p/dre
+article_structure:
+  article_count: 18
+  section_count: 6
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:50:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 116-A/2006
+
+Decorrente da implementação em curso de vários programas públicos para a promoção das tecnologias de informação e comunicação e da introdução de novos processos de relacionamento em sociedade, entre cidadãos, empresas, organizações não governamentais e o Estado, com vista ao fortalecimento da sociedade de informação e do governo electrónico (e-government), foi aprovada, através da Resolução do Conselho de Ministros n.º 171/2005, de 3 de Novembro, a criação da Entidade de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas (ECEE-ICP).
+
+Esses programas envolvem, para certos fins específicos, mecanismos de autenticação digital forte de identidades e assinaturas electrónicas que podem ser concretizados mediante a utilização das denominadas infra-estruturas de chaves públicas.
+
+Assim, para assegurar a unidade, a integração e a eficácia dos sistemas de autenticação digital forte nas relações electrónicas de pessoas singulares e colectivas com o Estado e entre entidades públicas é necessário estabelecer um sistema de certificação electrónica do Estado (SCEE).
+
+A arquitectura do SCEE constitui, assim, uma hierarquia de confiança que garante a segurança electrónica do Estado e a autenticação digital forte das transacções electrónicas entre os vários serviços e organismos da Administração Pública e entre o Estado e os cidadãos e as empresas.
+
+O SCEE compreende o Conselho Gestor, que estabelece as políticas e práticas de certificação, e a Entidade de Certificação Electrónica do Estado, que aprova a integração de entidades certificadoras no SCEE e que, enquanto entidade certificadora raiz do Estado, constitui o primeiro nível da cadeia hierárquica de certificação relativamente às várias entidades certificadoras do Estado a esta subordinadas.
+
+O SCEE funciona independentemente de outras infra-estruturas de chaves públicas de natureza privada ou estrangeira, mas deve permitir a interoperabilidade com as infra-estruturas que satisfaçam os requisitos necessários de rigor de autenticação, através dos mecanismos técnicos adequados, e da compatibilidade em termos de políticas de certificação, nomeadamente no âmbito dos países da União Europeia.
+
+A criação do SCEE é efectuada, com as devidas adaptações, em conformidade com toda a legislação nacional e comunitária em vigor, nomeadamente a relativa às regras técnicas e de segurança aplicáveis às entidades certificadoras estabelecidas em Portugal na emissão de certificados qualificados.
+
+O presente decreto-lei comete ainda à Autoridade Nacional de Segurança as funções de autoridade credenciadora, que até agora se encontravam atribuídas ao Instituto das Tecnologias da Informação da Justiça.
+
+A atribuição destas funções à Autoridade Nacional de Segurança justifica-se pela especial aptidão que esta entidade possui para actuar como autoridade credenciadora, bem como pelo facto de se encontrar integrada na Presidência do Conselho de Ministros e garantir forte hierarquia de segurança.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - É criado o Sistema de Certificação Electrónica do Estado - Infra-Estrutura de Chaves Públicas, adiante designado abreviadamente por SCEE, destinado a estabelecer uma estrutura de confiança electrónica, de forma que as entidades certificadoras que lhe estão subordinadas disponibilizem serviços que garantam:
+
+a) A realização de transacções electrónicas seguras;
+
+b) A autenticação forte;
+
+c) Assinaturas electrónicas de transacções ou informações e documentos electrónicos, assegurando a sua autoria, integridade, não repúdio e confidencialidade.
+
+2 - Só podem prestar serviços de certificação electrónica para as entidades públicas estaduais e para os serviços e organismos da Administração Pública ou outras entidades que exerçam funções de certificação no cumprimento de fins públicos daquela as entidades certificadoras do Estado reconhecidas no âmbito do SCEE.
+
+3 - O SCEE pode reconhecer fora do seu âmbito, para efeitos de filiação na entidade certificadora raiz do Estado, outras entidades certificadoras públicas ou privadas que exerçam funções de entidade certificadora nos termos do disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto, e que obedeçam aos requisitos previstos no presente decreto-lei.
+
+4 - As entidades certificadoras públicas e privadas referidas no número anterior não integram o SCEE.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-09-14
+
+###### Artigo 2.º — Estrutura e funcionamento do SCEE
+
+1 - O SCEE compreende:
+
+a) O Conselho Gestor do Sistema de Certificação Electrónica do Estado;
+
+b) A Entidade de Certificação Electrónica do Estado;
+
+c) As entidades certificadoras do Estado.
+
+2 - O funcionamento do SCEE obedece às regras estabelecidas no presente decreto-lei.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+### Capítulo II — Conselho Gestor do SCEE
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 3.º — Composição e funcionamento
+
+1 - O Conselho Gestor do SCEE é o órgão responsável pela gestão global e administração do SCEE.
+
+2 - O Conselho Gestor do SCEE é presidido pelo Primeiro-Ministro e composto por representantes de cada uma das seguintes entidades, designados pelos competentes membros do Governo:
+
+a) Gabinete Nacional de Segurança;
+
+b) Centro de Gestão da Rede Informática do Governo (CEGER);
+
+c) Agência para a Modernização Administrativa, I. P.;
+
+d) Entidade de Serviços Partilhados da Administração Pública, I. P.;
+
+e) ICP - Autoridade Nacional de Comunicações;
+
+f) Um representante de cada entidade certificadora pública integrada no SCEE que não esteja representada por nenhuma das entidades referidas nas alíneas anteriores.
+
+3 - Para efeitos do disposto na alínea f) do número anterior, caso exista mais do que uma entidade certificadora pública no âmbito do mesmo Ministério, pode o respetivo ministro determinar que apenas um representante das mesmas integre o Conselho Gestor do SCEE.
+
+4 - O Primeiro-Ministro pode delegar a presidência do Conselho Gestor do SCEE em qualquer membro do Governo integrado na Presidência do Conselho de Ministros, com faculdade de subdelegação.
+
+5 - O Conselho Gestor do SCEE pode solicitar a colaboração de outras entidades, públicas ou privadas, bem como de personalidades de reconhecido mérito, para a análise de assuntos de natureza técnica especializada, no âmbito das competências que lhe são cometidas pelo presente decreto-lei.
+
+6 - O Conselho Gestor do SCEE reúne, de forma ordinária, duas vezes por ano e, de forma extraordinária, por convocação do seu presidente.
+
+7 - O apoio técnico, logístico e administrativo ao Conselho Gestor do SCEE bem como os encargos inerentes ao seu funcionamento são da responsabilidade da entidade à qual é cometida a função de operação da entidade certificadora raiz do Estado.
+
+8 - Os membros do Conselho Gestor do SCEE não têm direito a auferir suplemento remuneratório pelo desempenho das suas funções, sem prejuízo da possibilidade do percebimento de abonos ou ajudas de custo, nos termos gerais.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-09-14
+
+###### Artigo 4.º — Competências
+
+1 - Compete ao Conselho Gestor do SCEE:
+
+a) Definir, de acordo com a lei e tendo em conta as normas ou especificações internacionalmente reconhecidas, a política de certificação e as práticas de certificação a observar pelas entidades certificadoras que integram o SCEE;
+
+b) Garantir que as declarações de práticas de certificação das várias entidades certificadoras do Estado, bem como da entidade certificadora raiz do Estado, estão em conformidade com a política de certificação do SCEE;
+
+c) Propor os critérios para aprovação das entidades certificadoras que pretendam integrar o SCEE;
+
+d) Aferir a conformidade dos procedimentos seguidos pelas entidades certificadoras do Estado com as políticas e práticas aprovadas, sem prejuízo das competências legalmente cometidas à autoridade credenciadora;
+
+e) Pronunciar-se pela exclusão do SCEE das entidades certificadoras em caso de não conformidade com as políticas e práticas aprovadas, comunicando tal facto à autoridade credenciadora.
+
+2 - Compete, ainda, ao Conselho Gestor do SCEE a promoção das actividades necessárias para o estabelecimento de acordos de interoperabilidade, com base em certificação cruzada, com outras infra-estruturas de chaves públicas, de natureza privada ou pública, nacionais ou internacionais, nomeadamente:
+
+a) Dar indicações à entidade certificadora raiz do Estado para a atribuição e a revogação de certificados emitidos com base em certificação cruzada;
+
+b) Definir os termos e condições para o início, a suspensão ou a finalização dos procedimentos de interoperabilidade com outras infra-estruturas de chaves públicas.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-09-14
+
+### Capítulo III — Entidade de Certificação Electrónica do Estado
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 5.º — Definição e competências
+
+1 - A Entidade de Certificação Electrónica do Estado, enquanto entidade certificadora raiz do Estado, é o serviço certificador de topo da cadeia de certificação do SCEE que executa as políticas de certificados e directrizes aprovadas pelo Conselho Gestor do SCEE.
+
+2 - Compete à Entidade de Certificação Electrónica do Estado admitir a integração das entidades certificadoras que obedeçam aos requisitos estabelecidos no presente decreto-lei, bem como prestar os serviços de certificação às entidades certificadoras, no nível hierárquico imediatamente inferior ao seu na cadeia de certificação, em conformidade com as normas aplicáveis às entidades certificadoras estabelecidas em Portugal na emissão de certificados digitais qualificados.
+
+3 - Para os efeitos previstos no número anterior, a Entidade de Certificação Eletrónica do Estado é credenciada pela autoridade referida no artigo 8.º
+
+4 - A Entidade de Certificação Electrónica do Estado disponibiliza exclusivamente os seguintes serviços de certificação digital:
+
+a) Processo de registo das entidades certificadoras;
+
+b) Geração de certificados, incluindo certificados qualificados, e gestão do seu ciclo de vida;
+
+c) Disseminação dos certificados, das políticas e das práticas de certificação;
+
+d) Gestão de revogações de certificados;
+
+e) Disponibilização do estado e da situação das revogações referidas na alínea anterior.
+
+5 - Compete, ainda, à Entidade de Certificação Electrónica do Estado:
+
+a) Garantir o cumprimento e a implementação enquanto entidade certificadora de todas as regras e todos os procedimentos estabelecidos no documento de políticas de certificação e na declaração de práticas de certificação do SCEE;
+
+b) Implementar as políticas e práticas do Conselho Gestor do SCEE;
+
+c) Gerir toda a infra-estrutura e os recursos que compõem e garantem o funcionamento da entidade certificadora raiz do Estado, nomeadamente o pessoal, os equipamentos e as instalações;
+
+d) Gerir todas as actividades relacionadas com a gestão do ciclo de vida dos certificados por si emitidos para as entidades certificadoras de nível imediatamente inferior ao seu;
+
+e) Garantir que o acesso às suas instalações principal e alternativa é efectuado apenas por pessoal devidamente autorizado e credenciado;
+
+f) Gerir o recrutamento de pessoal tecnicamente habilitado para a realização das tarefas de gestão e operação da entidade certificadora raiz do Estado;
+
+g) Comunicar imediatamente qualquer incidente, nomeadamente anomalias ou falhas de segurança, ao Conselho Gestor do SCEE.
+
+6 - A Entidade de Certificação Electrónica do Estado emite exclusivamente certificados para as entidades certificadoras que lhe estejam subordinadas, não podendo emitir certificados destinados ao público.
+
+7 - Podem filiar-se na Entidade de Certificação Electrónica do Estado as entidades certificadoras do Estado, bem como as entidades certificadoras públicas ou privadas a que alude o n.º 3 do artigo 1.º que obedeçam aos requisitos previstos no n.º 1 do artigo 7.º
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-09-14
+
+###### Artigo 6.º — Direcção e pessoal
+
+1 - A Entidade de Certificação Eletrónica do Estado é dirigida, por inerência, pelo diretor do CEGER.
+
+2 - Desempenham funções na Entidade de Certificação Electrónica do Estado, sem prejuízo do exercício de funções no lugar de origem, os técnicos do CEGER com as seguintes categorias:
+
+a) Um consultor de sistemas, incumbido da articulação entre a Entidade de Certificação Electrónica do Estado e o Conselho Gestor do SCEE e entre aquela e as entidades certificadoras do Estado;
+
+b) Um administrador de sistemas, autorizado a instalar, configurar e manter o sistema, tendo acesso controlado a configurações relacionadas com a segurança;
+
+c) Um operador de sistemas, responsável por operar diariamente os sistemas, autorizado a realizar cópias de segurança e reposição de informação;
+
+d) Um administrador de segurança, responsável pela gestão e implementação das regras e práticas de segurança;
+
+e) Um administrador de registo, responsável pela aprovação da emissão, pela suspensão e pela revogação de certificados;
+
+f) Um auditor de sistemas, autorizado a monitorizar os arquivos de actividade dos sistemas.
+
+3 - Nos termos da legislação em vigor, as funções de administrador de sistemas, de administrador de segurança e de auditor de sistemas devem ser desempenhadas por pessoas diferentes.
+
+4 - Para os efeitos do disposto no n.º 2, o quadro de pessoal do CEGER pode ser alterado por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública e pelo CEGER.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+### Capítulo IV — Entidades certificadoras do Estado
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 7.º — Requisitos
+
+1 - São entidades certificadoras do Estado as entidades que exerçam funções de entidade certificadora nos termos do disposto no Decreto-Lei n.º 290-D/99, de 2 de Agosto, e respectiva regulamentação, e que:
+
+a) Estejam admitidas como entidades certificadoras, nos termos do n.º 2 do artigo 5.º;
+
+b) Actuem em conformidade com as declarações de práticas de certificação e com a política de certificação e práticas aprovadas pelo Conselho Gestor do SCEE.
+
+c) A autoridade credenciadora tenha capacidade de fiscalização directa sobre todos os serviços de certificação electrónica disponibilizados.
+
+2 - (Revogado).
+
+3 - (Revogado).
+
+4 - As entidades certificadoras não podem emitir certificados de nível diverso do imediatamente subsequente ao seu, excepto nos casos de acordos de certificação lateral ou cruzada promovidos e aprovados pelo Conselho Gestor do SCEE.
+
+5 - Os serviços de registo podem ser atribuídos a entidades, individuais ou colectivas, designadas como entidades de registo, com as quais as entidades certificadoras acordam a prestação de serviços de identificação e registo de utilizadores de certificados, bem como a gestão de pedidos de revogação de certificados, nos termos do disposto no n.º 1 do artigo 4.º do Decreto Regulamentar n.º 25/2004, de 15 de Julho.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-09-14
+
+### Capítulo V — Autoridade credenciadora nacional
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 8.º — Autoridade credenciadora
+
+A autoridade credenciadora competente para o registo, credenciação e fiscalização das entidades certificadoras compreendidas no SCEE, bem como das que emitam certificados qualificados no âmbito do regime jurídico dos documentos eletrónicos e da assinatura digital, é a Autoridade Nacional de Segurança.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 88/2009 - Diário da República n.º 70/2009, Série I de 2009-04-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/88-2009-603950), em vigor a partir de 2009-09-14
+
+###### Artigo 9.º — Conselho técnico de credenciação
+
+1 - O conselho técnico de credenciação é um órgão consultivo da autoridade credenciadora, competindo-lhe pronunciar-se sobre todas as questões que a autoridade credenciadora lhe submeta.
+
+2 - O conselho técnico de credenciação pode, ainda, por sua iniciativa, emitir pareceres ou recomendações à autoridade credenciadora.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+###### Artigo 10.º — Composição
+
+O conselho técnico de credenciação é composto:
+
+a) Pela Autoridade Nacional de Segurança, que preside;
+
+b) Por duas personalidades designadas pelo Primeiro-Ministro;
+
+c) Por uma personalidade designada pelo Ministro da Administração Interna;
+
+d) Por uma personalidade designada pelo Ministro da Justiça;
+
+e) Por uma personalidade designada pelo Ministro da Ciência, Tecnologia e Ensino Superior;
+
+f) Por um representante do ICP - ANACOM.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+###### Artigo 11.º — Reuniões
+
+O conselho técnico de credenciação reúne ordinariamente de seis em seis meses e extraordinariamente por iniciativa do seu presidente.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+###### Artigo 12.º — Apoio logístico
+
+O Gabinete Nacional de Segurança assegura o apoio logístico e administrativo ao conselho técnico de credenciação, suportando também os encargos inerentes ao seu funcionamento.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+###### Artigo 13.º — Colaboração com outras entidades
+
+A autoridade credenciadora pode, no exercício das competências que lhe estão cometidas pelo presente decreto-lei, solicitar a outras entidades públicas ou privadas toda a colaboração que julgar necessária.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+### Capítulo VI — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 14.º — Instalação e equipamento da Entidade de Certificação Electrónica do Estado
+
+Para além do previsto no presente decreto-lei, os demais aspectos regulamentares relacionados com a instalação e o equipamento da Entidade de Certificação Electrónica do Estado são regulados por despacho do membro do Governo responsável pelo CEGER.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 15.º — Disposição transitória
+
+No ano de 2006, a Secretaria-Geral da Presidência do Conselho de Ministros transfere para o Gabinete Nacional de Segurança os montantes necessários para o cumprimento do disposto no artigo 12.º do presente decreto-lei.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+> Revogado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 161/2012 - Diário da República n.º 147/2012, Série I de 2012-07-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/161-2012-179293), em vigor a partir de 2012-08-01
+
+###### Artigo 16.º — Alteração ao Decreto-Lei n.º 290-D/99, de 2 de Agosto
+
+O artigo 9.º do Decreto-Lei n.º 290-D/99, com a redacção que lhe foi dada pelo Decreto-Lei n.º 62/2003, de 3 de Abril, passa a ter a seguinte redacção:
+
+«Artigo 9.º
+
+[...]
+
+1 - ...
+
+2 - Sem prejuízo do disposto no número anterior, as entidades certificadoras que emitam certificados qualificados devem proceder ao seu registo junto da autoridade credenciadora, nos termos a fixar por portaria do membro do Governo responsável pela autoridade credenciadora.
+
+3 - A credenciação e o registo estão sujeitos ao pagamento de taxas em função dos custos associados às tarefas administrativas, técnicas, operacionais e de fiscalização correspondentes, nos termos a fixar por despacho conjunto do membro do Governo responsável pela autoridade credenciadora e do Ministro das Finanças, que constituem receita da autoridade credenciadora.»
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 17.º — Aditamento ao Decreto-Lei n.º 290-D/99, de 2 de Agosto
+
+É aditado ao Decreto-Lei n.º 290-D/99, com a redacção que lhe foi dada pelo Decreto-Lei n.º 62/2003, de 3 de Abril, o artigo 40.º-A, com a seguinte redacção:
+
+«Artigo 40.º-A
+
+Credenciação de entidades certificadoras públicas
+
+1 - As disposições constantes dos capítulos III e IV só são aplicáveis à actividade das entidades certificadoras públicas na estrita medida da sua adequação à natureza e às atribuições de tais entidades.
+
+2 - Compete à autoridade credenciadora estabelecer os critérios de adequação da aplicação do disposto no número anterior, para efeitos da emissão de certificados de credenciação a entidades certificadoras públicas a quem tal atribuição esteja legalmente cometida.
+
+3 - Os certificados de credenciação podem ser emitidos, a título provisório, por períodos anuais renováveis até um máximo de três anos, sempre que a autoridade credenciadora considere necessário determinar procedimentos de melhor cumprimento dos requisitos técnicos aplicáveis.»
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+###### Artigo 18.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 234/2000, de 25 de Setembro;
+
+b) A alínea i) do artigo 18.º do Decreto-Lei n.º 146/2000, de 18 de Julho;
+
+c) A alínea j) do artigo 5.º do Decreto-Lei n.º 103/2001, de 29 de Março.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11
+
+Visto e aprovado em Conselho de Ministros de 4 de Maio de 2006. - José Sócrates Carvalho Pinto de Sousa - António Luís Santos Costa - Fernando Teixeira dos Santos - Manuel Pedro Cunha da Silva Pereira - Alberto Bernardes Costa - Mário Lino Soares Correia - José Mariano Rebelo Pires Gago.
+
+Promulgado em 8 de Junho de 2006.
+
+Publique-se.
+
+O Presidente da República, ANÍBAL CAVACO SILVA.
+
+Referendado em 12 de Junho de 2006.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 12/2021 - Diário da República n.º 27/2021, Série I de 2021-02-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2021-156848060), em vigor a partir de 2021-03-11

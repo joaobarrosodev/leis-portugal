@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:1532734:por
+title: Declaração de Rectificação n.º 2055/2010
+short_title: null
+summary: Rectifica o despacho (extracto) n.º 14 908/2010
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Instituto Politécnico de Santarém
+proposing_entity: null
+official_number: 2055/2010
+official_date: null
+publication_date: '2010-10-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 195/2010, Série II de 2010-10-07
+  number: '195'
+  series: II
+  supplement: null
+  pages: 49734 - 49734
+  pdf_url: https://files.diariodarepublica.pt/2s/2010/10/195000000/4973449734.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '1532734'
+  dre_path: /dr/detalhe/declaracao-rectificacao/2055-2010-1532734
+  internal: pt:dre:1532734:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2055-2010-1532734
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/2055-2010-1532734
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-10-07T00:00:00Z'
+integrity:
+  source_sha256: 4e4f21baf99cb9ec947640a04ca9ee0e394ff0db780a1e9546e546ce5bc88670
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2010/DRE-2010-2055-1532734.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 2055/2010
+
+Declaração de rectificação n.º 2055/2010
+
+Por ter sido publicado com inexactidão o despacho (extracto) n.º 14 908/2010, inserido no Diário da República, 2.ª série, n.º 189, de 28 de Setembro de 2010, a p. 48 544, rectifica-se que onde se lê «Por despacho de 17 de Setembro de 2010, do Presidente do Instituto Politécnico de Santarém, foi autorizada a mobilidade interna intercarreiras da Coordenadora Técnica, da Escola Superior Agrária, deste Instituto, Maria da Conceição Silva Neto» deve ler-se «Por despacho de 17 de Setembro de 2010, do presidente do Instituto Politécnico de Santarém, foi autorizada a mobilidade interna intercarreiras da coordenadora técnica, da Escola Superior Agrária, deste Instituto, Maria da Conceição Silva Neto Azevedo».
+
+30 de Setembro de 2010. - O Administrador, Pedro Maria Nogueira Carvalho.

@@ -1,0 +1,125 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:565377:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1990-161626092",
+ "dre_path": "/dr/detalhe/decreto-lei/388-1990-565377",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-12-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "161633175",
+    "161633176",
+    "161633177",
+    "161633178",
+    "161633179",
+    "161633180",
+    "161633181"
+   ]
+  },
+  {
+   "date": "2021-04-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:161518656:por",
+     "title": "Decreto-Lei n.º 27/2021",
+     "published": "2021-04-16",
+     "dre_path": "/dr/detalhe/decreto-lei/27-2021-161518656"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "161633175",
+    "161633176",
+    "161633183",
+    "161633178",
+    "161633179",
+    "161633180",
+    "161633181",
+    "161633182"
+   ]
+  }
+ ],
+ "fragments": {
+  "161633175": {
+   "fragment_id": "161626093",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 388/90\n\nde 10 de Dezembro\n\nDa aprovação da lei da autonomia das universidades e da lei sobre organização e gestão dos estabelecimentos de ensino superior politécnico decorre um substancial acréscimo da responsabilidade pelo exercício de cargos de gestão. A acentuação dessa responsabilidade vem, por seu turno, reafirmar a necessidade de compensar o acréscimo de esforço, de empenhamento e de sacrifício que fatalmente acompanham a assunção de cargos de gestão nas instituições de ensino superior.\n\nTrata-se, em relação aos estabelecimentos de ensino superior universitário, de uma necessidade já reconhecida e que recebeu enquadramento normativo adequado com a aprovação do Decreto-Lei n.º 244/85, de 11 de Julho. Todavia, já no que respeita às instituições de ensino superior politécnico falta esse enquadramento, existindo uma lacuna que ganha, aliás, assinalável realce pela circunstância de existirem neste subsistema de ensino superior escolas com uma dimensão e com uma riqueza de atribuições semelhantes ou superiores às de alguns estabelecimentos universitários.\n\nPor outro lado, as funções de gestão dos estabelecimentos de ensino superior correspondem às particularidades específicas de prestação de trabalho previstas no n.º 1 do artigo 19.º do Decreto-Lei n.º 184/89, de 2 de Junho, sendo que a atribuição de suplementos pelo exercício destes cargos de gestão tem sido sistematicamente prevista nos respectivos estatutos da carreira docente e na demais legislação complementar.\n\nFinalmente, tendo já sido estabelecidas as remunerações base mensais para os cargos de reitor e de vice-reitor, não se justifica agora contemplá-las no regime de suplementos pelo desempenho de cargos de gestão, do mesmo modo que tal não se justifica para os presidentes das comissões instaladoras ou presidentes, que lhes irão suceder, dos institutos superiores politécnicos, para os quais se irá também determinar a respectiva remuneração base mensal.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pelo Decreto-Lei n.º 184/89, de 2 de Junho, e nos termos das alíneas a) e c) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "161633176": {
+   "fragment_id": "161626094",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs titulares dos cargos de gestão das instituições de ensino superior têm, nos termos do presente diploma, direito, pelo exercício desses cargos, a um suplemento remuneratório."
+  },
+  "161633177": {
+   "fragment_id": "161626095",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Os suplementos referidos no artigo anterior serão atribuídos aos titulares dos seguintes cargos:\n\na) Pró-reitor;\n\nb) Presidente de estabelecimento de ensino superior universitário não integrado em universidade;\n\nc) Director, presidente do conselho directivo ou presidente da comissão instaladora de estabelecimento de ensino superior;\n\nd) Dirigente, com funções similares às referidas na alínea anterior, de unidade estrutural equivalente à prevista nessa alínea em instituição de ensino superior não organizada estatutariamente em estabelecimentos;\n\ne) Presidente do conselho científico de instituição ou estabelecimento de ensino superior, bem como de unidade estrutural referida na alínea d);\n\nf) Presidente do conselho pedagógico de instituição ou estabelecimento de ensino superior, bem como de unidade estrutural referida na alínea d);\n\ng) Subdirector e vice-presidente ou vogal do conselho directivo de estabelecimento de ensino superior que, nos termos estatutários, exerça funções equivalentes às de subdirector ou vice-presidente;\n\nh) Vogal de comissão instaladora de estabelecimento de ensino superior;\n\ni) Dirigente de laboratório, instituto, museu, centro ou observatório que esteja previsto nos estatutos de instituição de ensino superior e tenha objectivos, funções e dimensão que o senado ou o conselho geral considere justificar a atribuição de um suplemento pela sua gestão.\n\n2 - Aos titulares dos cargos referidos nas alíneas a), b), c), d) e e) do número anterior é atribuído um suplemento mensal de 28% da remuneração base mensal correspondente ao índice 100 das escalas salariais das carreiras dos docentes universitários, dos docentes do ensino superior politécnico e da carreira de investigação científica, adiante abreviadamente designado por índice 100.\n\n3 - Aos titulares do cargo referido na alínea f) do n.º 1 é atribuído um suplemento mensal de 23% da remuneração base mensal correspondente ao índice 100.\n\n4 - Aos titulares dos cargos referidos nas alíneas g), h) e i) do n.º 1 é atribuído um suplemento mensal de 17% da remuneração base mensal correspondente ao índice 100."
+  },
+  "161633178": {
+   "fragment_id": "161626096",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n- 1 - Os suplementos são devidos desde a data de início das funções até à da sua cessação, sem prejuízo do disposto no artigo 6.º\n\n2 - Os referidos suplementos são considerados para os seguintes efeitos:\n\na) Cálculo dos subsídios de Natal e de férias do pessoal que a eles tiver direito, nos termos legais;\n\nb) Cálculo das pensões de aposentação, nos termos da legislação aplicável."
+  },
+  "161633179": {
+   "fragment_id": "161626097",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs suplementos previstos no artigo 2.º são cumuláveis, desde que não resultem de cargos ocupados por inerência, mas a sua soma não pode, em caso algum, exceder o limite de 40% da remuneração base correspondente ao índice 100."
+  },
+  "161633180": {
+   "fragment_id": "161626098",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs presidentes e vogais das comissões instaladoras de estabelecimentos de ensino superior politécnico que estejam a auferir a remuneração prevista no n.º 2 do artigo 6.º do Decreto-Lei n.º 513-L1/79, de 27 de Dezembro, com a redacção que lhe foi introduzida pelo artigo 1.º do Decreto-Lei n.º 131/80, de 17 de Maio, não beneficiam dos suplementos referidos no artigo 2.º do presente decreto-lei."
+  },
+  "161633181": {
+   "fragment_id": "161626099",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nO regime de suplementos previsto no presente decreto-lei produz os seus efeitos nos seguintes termos:\n\na) Relativamente aos titulares de cargos de gestão de estabelecimentos de ensino superior universitário abrangidos pelo Decreto-Lei n.º 244/85, de 11 de Julho, e pelo Decreto-Lei n.º 384/86, de 15 de Novembro, desde 1 de Outubro de 1989;\n\nb) Relativamente aos titulares dos restantes cargos enunciados no n.º 1 do artigo 2.º, no primeiro dia do mês seguinte ao da publicação do presente decreto-lei."
+  },
+  "161633183": {
+   "fragment_id": "161626095",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2021-04-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+   ],
+   "markdown": "###### Artigo 2.º\n\n- 1 - Os suplementos referidos no artigo anterior serão atribuídos aos titulares dos seguintes cargos:\n\na) Pró-reitor;\n\nb) Presidente de estabelecimento de ensino superior universitário não integrado em universidade;\n\nc) Director, presidente do conselho directivo ou presidente da comissão instaladora de estabelecimento de ensino superior;\n\nd) Dirigente, com funções similares às referidas na alínea anterior, de unidade estrutural equivalente à prevista nessa alínea em instituição de ensino superior não organizada estatutariamente em estabelecimentos;\n\ne) Presidente do conselho científico de instituição ou estabelecimento de ensino superior, bem como de unidade estrutural referida na alínea d);\n\nf) Presidente do conselho pedagógico de instituição ou estabelecimento de ensino superior, bem como de unidade estrutural referida na alínea d);\n\ng) Subdirector e vice-presidente ou vogal do conselho directivo de estabelecimento de ensino superior que, nos termos estatutários, exerça funções equivalentes às de subdirector ou vice-presidente;\n\nh) Vogal de comissão instaladora de estabelecimento de ensino superior;\n\ni) Dirigente de laboratório, instituto, museu, centro ou observatório que esteja previsto nos estatutos de instituição de ensino superior e tenha objectivos, funções e dimensão que o senado ou o conselho geral considere justificar a atribuição de um suplemento pela sua gestão.\n\nj) Dirigentes de instituições de Investigação e Desenvolvimento (I&D), ou outras unidades orgânicas da instituição de ensino superior, ainda que não autónomas, quando previstas nos estatutos da instituição de ensino superior.\n\n2 - Aos titulares dos cargos referidos nas alíneas a), b), c), d) e e) do número anterior é atribuído um suplemento mensal de 28% da remuneração base mensal correspondente ao índice 100 das escalas salariais das carreiras dos docentes universitários, dos docentes do ensino superior politécnico e da carreira de investigação científica, adiante abreviadamente designado por índice 100.\n\n3 - Aos titulares do cargo referido na alínea f) do n.º 1 é atribuído um suplemento mensal de 23% da remuneração base mensal correspondente ao índice 100.\n\n4 - Aos titulares dos cargos referidos nas alíneas g), h) e i) do n.º 1 é atribuído um suplemento mensal de 17% da remuneração base mensal correspondente ao índice 100.\n\n5 - Os titulares dos cargos referidos na alínea j) do n.º 1 têm direito ao suplemento mensal devido pelo exercício das funções a que sejam equiparados por via estatutária.\n\n6 - A remuneração base dos diretores de unidades orgânicas de ensino superior com autonomia de gestão e órgãos próprios que não se encontrem integrados em carreira docente ou de investigação científica da instituição em causa tem por referência a 2.ª posição remuneratória das categorias de professor associado, professor coordenador ou investigador principal, sem habilitação ou agregação.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 27/2021 - Diário da República n.º 74/2021, Série I de 2021-04-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27-2021-161518656), em vigor a partir de 2021-04-17"
+  },
+  "161633182": {
+   "fragment_id": "161626100",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Outubro de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Roberto Artur da Luz Carneiro.\n\nPromulgado em 26 de Novembro de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 28 de Novembro de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,465 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:131338917:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2020-131338930",
+ "dre_path": "/dr/detalhe/lei/7-2020-131338917",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215195327",
+    "131331489",
+    "131331490",
+    "131331491",
+    "131331492",
+    "131331493",
+    "131331494",
+    "131331495",
+    "131331496",
+    "131331497",
+    "131331498",
+    "131331499",
+    "131331500",
+    "131331501"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:132721067:por",
+     "title": "Declaração de Retificação n.º 18/2020",
+     "published": "2020-04-30",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/18-2020-132721067",
+     "date": "2020-04-11"
+    }
+   ]
+  },
+  {
+   "date": "2020-05-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:134762425:por",
+     "title": "Lei n.º 18/2020",
+     "published": "2020-05-29",
+     "dre_path": "/dr/detalhe/lei/18-2020-134762425"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "131331488",
+    "131331489",
+    "131331490",
+    "131331491",
+    "134770837",
+    "131331493",
+    "131331494",
+    "134770838",
+    "131331496",
+    "132813577",
+    "132813578",
+    "131331499",
+    "131331500",
+    "131331501",
+    "131331502"
+   ]
+  },
+  {
+   "date": "2021-11-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:167281002:por",
+     "title": "Decreto-Lei n.º 59/2021",
+     "published": "2021-07-14",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2021-167281002"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "131331488",
+    "131331489",
+    "131331490",
+    "131331491",
+    "134770837",
+    "131331493",
+    "131331494",
+    "134770838",
+    "131331496",
+    "167281094",
+    "132813578",
+    "131331499",
+    "131331500",
+    "131331501",
+    "131331502"
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215195327",
+    "215195328",
+    "215195329",
+    "215195330",
+    "215195331",
+    "215195332",
+    "215195333",
+    "215195334",
+    "215195335",
+    "215195336",
+    "215195337",
+    "215195338",
+    "215195339",
+    "215195340",
+    "215195341"
+   ]
+  }
+ ],
+ "fragments": {
+  "215195327": {
+   "fragment_id": "131338931",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 7/2020\n\nde 10 de abril\n\nSumário: Estabelece regimes excecionais e temporários de resposta à epidemia SARS-CoV-2, e procede à primeira alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março, e à quarta alteração à Lei n.º 27/2007, de 30 de julho.\n\nEstabelece regimes excecionais e temporários de resposta à epidemia SARS-CoV-2, e procede à primeira alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março, e à quarta alteração à Lei n.º 27/2007, de 30 de julho\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "131331489": {
+   "fragment_id": "131338932",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece regimes excecionais e temporários de resposta à epidemia SARS-CoV-2, nas seguintes matérias:\n\na) Definição das regras aplicáveis à atividade letiva das instituições de ensino superior;\n\nb) Definição de limitações de acesso a plataformas de jogos de azar online;\n\nc) Não interrupção de serviços essenciais;\n\nd) Suspensão, em determinadas circunstâncias, da cobrança de comissões nas operações de pagamento através de plataformas digitais dos prestadores de serviços de pagamentos;\n\ne) Equiparação das amas registadas na segurança social às creches, para efeitos de aplicação dos artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual;\n\nf) Admissibilidade de resgate, em determinadas condições, de Planos de Poupança Reforma;\n\ng) Salvaguarda da gratuitidade da Linha SNS 24;\n\nh) Alargamento das obrigações da concessionária do serviço público de televisão, procedendo à quarta alteração à Lei da Televisão e dos Serviços Audiovisuais a Pedido, aprovada pela Lei n.º 27/2007, de 30 de julho;\n\ni) Reagendamento de espetáculos culturais, procedendo à primeira alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março, que estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos não realizados."
+  },
+  "131331490": {
+   "fragment_id": "131338933",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamento de propinas em contexto da COVID-19",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pagamento de propinas em contexto da COVID-19\n\n1 - Deve ser assegurado pelas instituições de ensino superior o ensino à distância enquanto vigorarem as medidas restritivas quanto ao ensino presencial.\n\n2 - No caso de não ser assegurado o ensino à distância, as instituições do ensino superior devem proceder ao reajustamento da propina devida pela frequência no ensino superior.\n\n3 - O disposto no número anterior não prejudica os apoios definidos no âmbito da ação social escolar."
+  },
+  "131331491": {
+   "fragment_id": "131338934",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitações de acesso a plataformas de jogos de azar online",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Limitações de acesso a plataformas de jogos de azar online\n\n1 - São estabelecidas limitações parciais ou totais de acesso a plataformas de jogos de azar online, até ao término do período relativo ao estado de emergência, com vista à proteção dos consumidores, em especial os mais vulneráveis, como menores, jovens adultos ou pessoas com adição ao jogo.\n\n2 - O Governo procede à regulamentação do disposto no presente artigo no prazo de cinco dias a contar da sua entrada em vigor."
+  },
+  "131331492": {
+   "fragment_id": "131338935",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantia de acesso aos serviços essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Garantia de acesso aos serviços essenciais\n\n1 - Durante o estado de emergência e no mês subsequente, não é permitida a suspensão do fornecimento dos seguintes serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia elétrica;\n\nc) Serviço de fornecimento de gás natural;\n\nd) Serviço de comunicações eletrónicas.\n\n2 - A suspensão prevista na alínea d) do número anterior aplica-se quando motivada por situação de desemprego, quebra de rendimentos do agregado familiar igual ou superior a 20 %, ou por infeção por COVID-19.\n\n3 - Durante a vigência da presente lei, os consumidores que se encontrem em situação de desemprego ou com uma quebra de rendimentos do agregado familiar igual ou superior a 20 % face aos rendimentos do mês anterior podem requerer a cessação unilateral de contratos de telecomunicações, sem lugar a compensação ao fornecedor.\n\n4 - No caso de existirem valores em dívida relativos ao fornecimento dos serviços referidos no n.º 1, deve ser elaborado um plano de pagamento.\n\n5 - O plano de pagamento referido no número anterior é definido por acordo entre o fornecedor e o cliente, devendo iniciar-se no segundo mês posterior ao estado de emergência.\n\n> Nota: [Artigo 3.º, Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425) O disposto no n.º 2 do artigo 4.º da Lei n.º 7/2020, de 10 de abril, na redação dada pela presente lei, vigora a partir de 1 de junho de 2020."
+  },
+  "131331493": {
+   "fragment_id": "131338936",
+   "type": 11,
+   "heading": "Artigo 5.º — Impedimento de cobrança de comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Impedimento de cobrança de comissões\n\n1 - Fica suspensa a cobrança de comissões devidas pela utilização e realização de operações de pagamento através de plataformas digitais dos prestadores de serviços de pagamentos, designadamente de homebanking ou de aplicações com instrumento de pagamento baseado em cartão, para as pessoas que estejam em situação de isolamento profilático ou de doença ou que prestem assistência a filhos ou netos, conforme estabelecido no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou que tenham sido colocadas em redução do período normal de trabalho ou em suspensão do contrato de trabalho, em virtude de crise empresarial, em situação de desemprego registado no Instituto do Emprego e Formação Profissional, I. P., bem como para as pessoas que sejam elegíveis para o apoio extraordinário à redução da atividade económica de trabalhador independente, nos termos do artigo 26.º do referido decreto-lei, ou sejam trabalhadoras de entidades cujo estabelecimento ou atividade tenha sido objeto de encerramento determinado durante o período de estado de emergência, nos termos do artigo 9.º do Decreto n.º 2-B/2020, de 2 de abril.\n\n2 - Para beneficiar da suspensão prevista no presente artigo, o beneficiário envia ao prestador de serviços de pagamento um documento comprovativo da respetiva situação no quadro das medidas de contenção da epidemia SARS-CoV-2."
+  },
+  "131331494": {
+   "fragment_id": "131338937",
+   "type": 11,
+   "heading": "Artigo 6.º — Extensão do regime previsto no Decreto-Lei n.º 10-A/2020, de 13 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Extensão do regime previsto no Decreto-Lei n.º 10-A/2020, de 13 de março\n\nPara efeitos de aplicação do apoio previsto nos artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, consideram-se equiparadas às creches as amas registadas na segurança social."
+  },
+  "131331495": {
+   "fragment_id": "131338938",
+   "type": 11,
+   "heading": "Artigo 7.º — Resgate de Plano de Poupança Reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Resgate de Plano de Poupança Reforma\n\n1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho, enquanto vigorar o estado de emergência, o valor dos Planos de Poupança Reforma (PPR) pode ser reembolsado nos termos do n.º 3, até ao limite mensal do indexante dos apoios sociais, pelos participantes desses planos e desde que um dos membros do seu agregado familiar esteja em situação de isolamento profilático ou de doença ou prestem assistência a filhos ou netos, conforme estabelecido no Decreto-Lei n.º 10-A/2020, de 13 de março, ou que tenha sido colocado em redução do período normal de trabalho ou em suspensão do contrato de trabalho, em virtude de crise empresarial, em situação de desemprego registado no Instituto do Emprego e Formação Profissional, I. P., bem como seja elegível para o apoio extraordinário à redução da atividade económica de trabalhador independente, nos termos do artigo 26.º do referido decreto-lei, ou seja trabalhador de entidades cujo estabelecimento ou atividade tenha sido objeto de encerramento determinado durante o período de estado de emergência, nos termos do artigo 9.º do Decreto n.º 2-B/2020, de 2 de abril.\n\n2 - O valor do PPR reembolsado deve corresponder ao valor da unidade de participação à data do requerimento de reembolso.\n\n3 - Para efeitos do presente artigo, não é aplicável o disposto no n.º 4 do artigo 21.º do Estatuto dos Benefícios Fiscais, desde que tenham sido subscritos até 31 de março de 2020."
+  },
+  "131331496": {
+   "fragment_id": "131338939",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração à Lei n.º 27/2007, de 30 de julho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Alteração à Lei n.º 27/2007, de 30 de julho\n\nO artigo 51.º da Lei n.º 27/2007, de 30 de julho, alterada pelas Leis n.os 8/2011, de 11 de abril, 40/2014, de 9 de setembro, e 78/2015, de 29 de julho, passa a ter a seguinte redação:\n\n«Artigo 51.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) Promover a emissão de programas que aconselhem e estimulem os cidadãos para a prática adequada de exercício físico e de uma boa nutrição, no caso de dever coletivo de permanência em residência, por período alargado, devido a declaração de estado de exceção ou por necessidade de isolamento social.»"
+  },
+  "131331497": {
+   "fragment_id": "131338940",
+   "type": 11,
+   "heading": "Artigo 9.º — Linhas telefónicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Linhas telefónicas\n\n1 - As entidades públicas e empresas que prestam serviços públicos estão impossibilitadas de disponibilizar:\n\na) Números especiais de valor acrescentado com o prefixo «7», para contacto telefónico dos consumidores;\n\nb) Apenas números especiais, números nómadas com o prefixo «30», ou números azuis com o prefixo «808», para contacto telefónico dos consumidores.\n\n2 - Todas as entidades públicas e empresas que prestam serviços públicos que disponibilizam linhas telefónicas com números especiais, com os prefixos indicados no número anterior, devem proceder à sua substituição por números telefónicos com o prefixo «2», no prazo máximo de 90 dias, a contar da data de entrada em vigor da presente lei.\n\n3 - São abrangidos pelo presente artigo as entidades que estejam integradas na Administração Pública central, regional ou local, as empresas que prestam serviços públicos essenciais, designadamente de fornecimento de água, energia elétrica, gás natural e gases de petróleo liquefeitos canalizados, comunicações eletrónicas, serviços postais, recolha e tratamento de águas residuais, gestão de resíduos sólidos urbanos e transporte de passageiros e as empresas concessionárias da Administração Pública central, regional ou local.\n\n4 - Tendo em conta a especificidade do serviço prestado pela linha SNS 24, o Ministério da Saúde deve no prazo máximo de 60 dias, a contar da data de entrada em vigor da presente lei, substituir o número do SNS 24 de prefixo «808» por um número especial, assegurando a sua total gratuitidade para os utentes."
+  },
+  "131331498": {
+   "fragment_id": "131338941",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março\n\nO artigo 11.º do Decreto-Lei n.º 10-I/2020, de 26 de março, passa a ter a seguinte redação:\n\n«Artigo 11.º\n\n[...]\n\n1 - As entidades públicas e os organismos de direito público referidos no Código dos Contratos Públicos ou entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos, promotores de espetáculos abrangidos pelo presente decreto-lei, podem aplicar aos contratos celebrados e a celebrar as normas previstas nos artigos 2.º e 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março.\n\n2 - As entidades referidas no n.º 1 que tenham que proceder ao reagendamento dos espetáculos podem contratar bens, serviços ou trabalhos complementares, ao abrigo do disposto nos artigos 438.º e 454.º do Código dos Contratos Públicos (CCP), aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, na sua redação atual, bem como aplicar o regime da revisão de preços, se aplicável.\n\n3 - As entidades referidas no n.º 1 que tenham de cancelar os espetáculos por impossibilidade de reagendamento dos mesmos podem proceder ao pagamento do preço dos compromissos anteriormente assumidos, caso o bem ou serviço tenha sido efetivamente prestado, ou na respetiva proporção, aplicando-se o disposto no artigo 299.º do CCP.\n\n4 - As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 24 meses após a cessação das medidas de proibição ou limitação de realização de espetáculos.\n\n5 - As entidades referidas no n.º 1 devem garantir, nos casos de cancelamento e reagendamentos, a realização dos pagamentos nos prazos contratualmente estipulados ou, o mais tardar, na data que se encontrava inicialmente agendado o espetáculo, no montante mínimo de 50 % do preço contratual, sem prejuízo de eventual alteração do contrato com vista à nova calendarização do espetáculo e pagamentos subsequentes.\n\n6 - As entidades referidas no n.º 1 devem garantir a conclusão dos procedimentos de formação de contratos públicos para os quais já tenha sido emitida a decisão de contratar e envio de convite à apresentação de propostas, nos casos de programação já anunciada, mas ainda não contratualizada, aplicando-se o disposto nos números anteriores após a assinatura do contrato.»"
+  },
+  "131331499": {
+   "fragment_id": "131338942",
+   "type": 11,
+   "heading": "Artigo 11.º — Aditamento ao Decreto-Lei n.º 10-I/2020, de 26 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Aditamento ao Decreto-Lei n.º 10-I/2020, de 26 de março\n\nÉ aditado ao Decreto-Lei n.º 10-I/2020, de 26 de março, o artigo 11.º-A, com a seguinte redação:\n\n«Artigo 11.º-A\n\nIntermediários\n\n1 - Sempre que os pagamentos previstos no artigo anterior sejam efetuados a agentes, produtores e companhias de espetáculo ou a quaisquer outros intermediários, devem estes, no prazo de 10 dias úteis, após receberem o pagamento da entidade contratante referida no n.º 1 do artigo anterior, proceder ao pagamento proporcional e equitativo aos trabalhadores envolvidos nos eventos respetivos, designadamente autores, artistas, técnicos e outros profissionais e empresas que tenham sido contratados para o espetáculo em questão, sem prejuízo da cobrança proporcional de comissões que lhes sejam devidas.\n\n2 - Nos casos de reagendamento, os pagamentos referidos no número anterior são havidos como sinal e princípio de pagamento da prestação a efetuar na data para a qual o espetáculo vier a ser reagendado.»"
+  },
+  "131331500": {
+   "fragment_id": "131338943",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\n1 - O disposto no artigo 4.º da presente lei produz efeitos relativamente a todos os pagamentos de serviços que sejam devidos a partir de dia 20 de março de 2020.\n\n2 - O disposto no artigo 5.º da presente lei vigora até 30 de junho de 2020."
+  },
+  "131331501": {
+   "fragment_id": "131338944",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "131331488": {
+   "fragment_id": "131338931",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 7/2020\n\nde 10 de abril\n\nSumário: Estabelece regimes excecionais e temporários de resposta à epidemia SARS-CoV-2, e procede à primeira alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março, e à quarta alteração à Lei n.º 27/2007, de 30 de julho.\n\nEstabelece regimes excecionais e temporários de resposta à epidemia SARS-CoV-2, e procede à primeira alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março, e à quarta alteração à Lei n.º 27/2007, de 30 de julho\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "134770837": {
+   "fragment_id": "131338935",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantia de acesso aos serviços essenciais",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 4.º — Garantia de acesso aos serviços essenciais\n\n1 - Não é permitida, até 30 de setembro de 2020, a suspensão do fornecimento dos seguintes serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia elétrica;\n\nc) Serviço de fornecimento de gás natural;\n\nd) Serviço de comunicações eletrónicas.\n\n2 - A proibição de suspensão prevista no número anterior aplica-se quando motivada por situação de desemprego, quebra de rendimentos do agregado familiar igual ou superior a 20 %, ou por infeção por COVID-19.\n\n3 - Até 30 de setembro de 2020, os consumidores que se encontrem em situação de desemprego ou com uma quebra de rendimentos do agregado familiar igual ou superior a 20 % face aos rendimentos do mês anterior podem requerer:\n\na) A cessação unilateral de contratos de telecomunicações, sem lugar a compensação ao fornecedor;\n\nb) A suspensão temporária de contratos de telecomunicações, sem penalizações ou cláusulas adicionais para o consumidor, retomando-se a 1 de outubro de 2020.\n\n4 - No caso de existirem valores em dívida relativos ao fornecimento dos serviços referidos no n.º 1, deve ser elaborado um plano de pagamento.\n\n5 - O plano de pagamento referido no número anterior é definido por acordo entre o fornecedor e o cliente, com início a partir do segundo mês posterior ao término do prazo previsto no n.º 3.\n\n6 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar, no prazo de 15 dias, pelos membros do Governo responsáveis pelas áreas das comunicações, do ambiente, da energia e da administração local.\n\n> Nota: [Artigo 3.º, Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425) O disposto no n.º 2 do artigo 4.º da Lei n.º 7/2020, de 10 de abril, na redação dada pela presente lei, vigora a partir de 1 de junho de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+  },
+  "134770838": {
+   "fragment_id": "131338938",
+   "type": 11,
+   "heading": "Artigo 7.º — Resgate de Plano de Poupança Reforma",
+   "in_force_from": "2020-05-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 7.º — Resgate de Plano de Poupança Reforma\n\n1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho, até 30 de setembro de 2020, o valor dos Planos de Poupança Reforma (PPR) pode ser reembolsado nos termos do n.º 3, até ao limite mensal do indexante dos apoios sociais, pelos participantes desses planos e desde que um dos membros do seu agregado familiar esteja em situação de isolamento profilático ou de doença ou prestem assistência a filhos ou netos, conforme estabelecido no Decreto-Lei n.º 10-A/2020, de 13 de março, ou que tenha sido colocado em redução do período normal de trabalho ou em suspensão do contrato de trabalho, em virtude de crise empresarial, em situação de desemprego registado no Instituto do Emprego e Formação Profissional, I. P., bem como seja elegível para o apoio extraordinário à redução da atividade económica de trabalhador independente, nos termos do artigo 26.º do referido decreto-lei, ou seja trabalhador de entidades cujo estabelecimento ou atividade tenha sido objeto de encerramento durante o estado de emergência ou durante a situação de calamidade por imposição legal ou administrativa.\n\n2 - O valor do PPR reembolsado deve corresponder ao valor da unidade de participação à data do requerimento de reembolso.\n\n3 - Para efeitos do presente artigo, não é aplicável o disposto no n.º 4 do artigo 21.º do Estatuto dos Benefícios Fiscais, desde que tenham sido subscritos até 31 de março de 2020.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30"
+  },
+  "132813577": {
+   "fragment_id": "131338940",
+   "type": 11,
+   "heading": "Artigo 9.º — Linhas telefónicas",
+   "in_force_from": "2020-04-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 9.º — Linhas telefónicas\n\n1 - As entidades públicas e empresas que prestam serviços públicos estão impossibilitadas de disponibilizar:\n\na) Números especiais de valor acrescentado com o prefixo «7», para contacto telefónico dos consumidores;\n\nb) Apenas números especiais, números nómadas com o prefixo «30», ou números azuis com o prefixo «808», para contacto telefónico dos consumidores.\n\n2 - Todas as entidades públicas e empresas que prestam serviços públicos que disponibilizam linhas telefónicas com números especiais, com os prefixos «808» e «30», devem proceder à criação de uma alternativa de números telefónicos com o prefixo «2», no prazo máximo de 90 dias, a contar da data de entrada em vigor da presente lei.\n\n3 - São abrangidos pelo presente artigo as entidades que estejam integradas na Administração Pública central, regional ou local, as empresas que prestam serviços públicos essenciais, designadamente de fornecimento de água, energia elétrica, gás natural e gases de petróleo liquefeitos canalizados, comunicações eletrónicas, serviços postais, recolha e tratamento de águas residuais, gestão de resíduos sólidos urbanos e transporte de passageiros e as empresas concessionárias da Administração Pública central, regional ou local.\n\n4 - Tendo em conta a especificidade do serviço prestado pela linha SNS 24, o Ministério da Saúde deve no prazo máximo de 60 dias, a contar da data de entrada em vigor da presente lei, substituir o número do SNS 24 de prefixo «808» por um número especial, assegurando a sua total gratuitidade para os utentes.\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+  },
+  "132813578": {
+   "fragment_id": "131338941",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março",
+   "in_force_from": "2020-04-11",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março\n\nO artigo 11.º do Decreto-Lei n.º 10-I/2020, de 26 de março, passa a ter a seguinte redação:\n\n«Artigo 11.º\n\n[...]\n\n1 - As entidades públicas e os organismos de direito público referidos no Código dos Contratos Públicos ou entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos, promotores de espetáculos abrangidos pelo presente decreto-lei, podem aplicar aos contratos celebrados e a celebrar as normas previstas nos artigos 2.º e 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março.\n\n2- As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 18 meses após a cessação das medidas de proibição ou limitação de realização de espetáculos.\n\n3 - As entidades referidas no n.º 1 que tenham de cancelar os espetáculos por impossibilidade de reagendamento dos mesmos podem proceder ao pagamento do preço dos compromissos anteriormente assumidos, caso o bem ou serviço tenha sido efetivamente prestado, ou na respetiva proporção, aplicando-se o disposto no artigo 299.º do CCP.\n\n4- As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 18 meses após a cessação das medidas de proibição ou limitação de realização de espetáculos.\n\n5 - As entidades referidas no n.º 1 devem garantir, nos casos de cancelamento e reagendamentos, a realização dos pagamentos nos prazos contratualmente estipulados ou, o mais tardar, na data que se encontrava inicialmente agendado o espetáculo, no montante mínimo de 50 % do preço contratual, sem prejuízo de eventual alteração do contrato com vista à nova calendarização do espetáculo e pagamentos subsequentes.\n\n6 - As entidades referidas no n.º 1 devem garantir a conclusão dos procedimentos de formação de contratos públicos para os quais já tenha sido emitida a decisão de contratar e envio de convite à apresentação de propostas, nos casos de programação já anunciada, mas ainda não contratualizada, aplicando-se o disposto nos números anteriores após a assinatura do contrato.»\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+  },
+  "131331502": {
+   "fragment_id": "131338945",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 8 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 9 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 10 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113178217"
+  },
+  "167281094": {
+   "fragment_id": "131338940",
+   "type": 11,
+   "heading": "Artigo 9.º — Linhas telefónicas",
+   "in_force_from": "2021-11-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 59/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2021-167281002), em vigor a partir de 2021-11-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 9.º — Linhas telefónicas\n\n1 - As entidades públicas estão impossibilitadas de disponibilizar:\n\na) Números especiais de valor acrescentado com o prefixo «7», para contacto telefónico dos consumidores;\n\nb) Apenas números especiais, números nómadas com o prefixo «30», ou números azuis com o prefixo «808», para contacto telefónico dos consumidores.\n\n2 - Todas as entidades públicas que disponibilizam linhas telefónicas com números especiais, com os prefixos «808» e «30», devem proceder à criação de uma alternativa de números telefónicos com o prefixo «2», no prazo máximo de 90 dias, a contar da data de entrada em vigor da presente lei.\n\n3 - São abrangidas pelo presente artigo as entidades que estejam integradas na Administração Pública central, regional ou local e as empresas concessionárias da Administração Pública central, regional ou local.\n\n4 - Tendo em conta a especificidade do serviço prestado pela linha SNS 24, o Ministério da Saúde deve no prazo máximo de 60 dias, a contar da data de entrada em vigor da presente lei, substituir o número do SNS 24 de prefixo «808» por um número especial, assegurando a sua total gratuitidade para os utentes.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 59/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2021-167281002), em vigor a partir de 2021-11-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+  },
+  "215195328": {
+   "fragment_id": "131338932",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei estabelece regimes excecionais e temporários de resposta à epidemia SARS-CoV-2, nas seguintes matérias:\n\na) Definição das regras aplicáveis à atividade letiva das instituições de ensino superior;\n\nb) Definição de limitações de acesso a plataformas de jogos de azar online;\n\nc) Não interrupção de serviços essenciais;\n\nd) Suspensão, em determinadas circunstâncias, da cobrança de comissões nas operações de pagamento através de plataformas digitais dos prestadores de serviços de pagamentos;\n\ne) Equiparação das amas registadas na segurança social às creches, para efeitos de aplicação dos artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual;\n\nf) Admissibilidade de resgate, em determinadas condições, de Planos de Poupança Reforma;\n\ng) Salvaguarda da gratuitidade da Linha SNS 24;\n\nh) Alargamento das obrigações da concessionária do serviço público de televisão, procedendo à quarta alteração à Lei da Televisão e dos Serviços Audiovisuais a Pedido, aprovada pela Lei n.º 27/2007, de 30 de julho;\n\ni) Reagendamento de espetáculos culturais, procedendo à primeira alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março, que estabelece medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 no âmbito cultural e artístico, em especial quanto aos espetáculos não realizados.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195329": {
+   "fragment_id": "131338933",
+   "type": 11,
+   "heading": "Artigo 2.º — Pagamento de propinas em contexto da COVID-19",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Pagamento de propinas em contexto da COVID-19\n\n1 - Deve ser assegurado pelas instituições de ensino superior o ensino à distância enquanto vigorarem as medidas restritivas quanto ao ensino presencial.\n\n2 - No caso de não ser assegurado o ensino à distância, as instituições do ensino superior devem proceder ao reajustamento da propina devida pela frequência no ensino superior.\n\n3 - O disposto no número anterior não prejudica os apoios definidos no âmbito da ação social escolar.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195330": {
+   "fragment_id": "131338934",
+   "type": 11,
+   "heading": "Artigo 3.º — Limitações de acesso a plataformas de jogos de azar online",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Limitações de acesso a plataformas de jogos de azar online\n\n1 - São estabelecidas limitações parciais ou totais de acesso a plataformas de jogos de azar online, até ao término do período relativo ao estado de emergência, com vista à proteção dos consumidores, em especial os mais vulneráveis, como menores, jovens adultos ou pessoas com adição ao jogo.\n\n2 - O Governo procede à regulamentação do disposto no presente artigo no prazo de cinco dias a contar da sua entrada em vigor.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195331": {
+   "fragment_id": "131338935",
+   "type": 11,
+   "heading": "Artigo 4.º — Garantia de acesso aos serviços essenciais",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 4.º — Garantia de acesso aos serviços essenciais\n\n1 - Não é permitida, até 30 de setembro de 2020, a suspensão do fornecimento dos seguintes serviços essenciais, previstos no n.º 2 do artigo 1.º da Lei n.º 23/96, de 26 de julho:\n\na) Serviço de fornecimento de água;\n\nb) Serviço de fornecimento de energia elétrica;\n\nc) Serviço de fornecimento de gás natural;\n\nd) Serviço de comunicações eletrónicas.\n\n2 - A proibição de suspensão prevista no número anterior aplica-se quando motivada por situação de desemprego, quebra de rendimentos do agregado familiar igual ou superior a 20 %, ou por infeção por COVID-19.\n\n3 - Até 30 de setembro de 2020, os consumidores que se encontrem em situação de desemprego ou com uma quebra de rendimentos do agregado familiar igual ou superior a 20 % face aos rendimentos do mês anterior podem requerer:\n\na) A cessação unilateral de contratos de telecomunicações, sem lugar a compensação ao fornecedor;\n\nb) A suspensão temporária de contratos de telecomunicações, sem penalizações ou cláusulas adicionais para o consumidor, retomando-se a 1 de outubro de 2020.\n\n4 - No caso de existirem valores em dívida relativos ao fornecimento dos serviços referidos no n.º 1, deve ser elaborado um plano de pagamento.\n\n5 - O plano de pagamento referido no número anterior é definido por acordo entre o fornecedor e o cliente, com início a partir do segundo mês posterior ao término do prazo previsto no n.º 3.\n\n6 - A demonstração da quebra de rendimentos é efetuada nos termos de portaria a aprovar, no prazo de 15 dias, pelos membros do Governo responsáveis pelas áreas das comunicações, do ambiente, da energia e da administração local.\n\n> Nota: [Artigo 3.º, Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425) O disposto no n.º 2 do artigo 4.º da Lei n.º 7/2020, de 10 de abril, na redação dada pela presente lei, vigora a partir de 1 de junho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+  },
+  "215195332": {
+   "fragment_id": "131338936",
+   "type": 11,
+   "heading": "Artigo 5.º — Impedimento de cobrança de comissões",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 5.º — Impedimento de cobrança de comissões\n\n1 - Fica suspensa a cobrança de comissões devidas pela utilização e realização de operações de pagamento através de plataformas digitais dos prestadores de serviços de pagamentos, designadamente de homebanking ou de aplicações com instrumento de pagamento baseado em cartão, para as pessoas que estejam em situação de isolamento profilático ou de doença ou que prestem assistência a filhos ou netos, conforme estabelecido no Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, ou que tenham sido colocadas em redução do período normal de trabalho ou em suspensão do contrato de trabalho, em virtude de crise empresarial, em situação de desemprego registado no Instituto do Emprego e Formação Profissional, I. P., bem como para as pessoas que sejam elegíveis para o apoio extraordinário à redução da atividade económica de trabalhador independente, nos termos do artigo 26.º do referido decreto-lei, ou sejam trabalhadoras de entidades cujo estabelecimento ou atividade tenha sido objeto de encerramento determinado durante o período de estado de emergência, nos termos do artigo 9.º do Decreto n.º 2-B/2020, de 2 de abril.\n\n2 - Para beneficiar da suspensão prevista no presente artigo, o beneficiário envia ao prestador de serviços de pagamento um documento comprovativo da respetiva situação no quadro das medidas de contenção da epidemia SARS-CoV-2.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195333": {
+   "fragment_id": "131338937",
+   "type": 11,
+   "heading": "Artigo 6.º — Extensão do regime previsto no Decreto-Lei n.º 10-A/2020, de 13 de março",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 6.º — Extensão do regime previsto no Decreto-Lei n.º 10-A/2020, de 13 de março\n\nPara efeitos de aplicação do apoio previsto nos artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, consideram-se equiparadas às creches as amas registadas na segurança social.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195334": {
+   "fragment_id": "131338938",
+   "type": 11,
+   "heading": "Artigo 7.º — Resgate de Plano de Poupança Reforma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30"
+   ],
+   "markdown": "###### Artigo 7.º — Resgate de Plano de Poupança Reforma\n\n1 - Sem prejuízo do disposto nos n.os 1 a 4 do artigo 4.º do Decreto-Lei n.º 158/2002, de 2 de julho, até 30 de setembro de 2020, o valor dos Planos de Poupança Reforma (PPR) pode ser reembolsado nos termos do n.º 3, até ao limite mensal do indexante dos apoios sociais, pelos participantes desses planos e desde que um dos membros do seu agregado familiar esteja em situação de isolamento profilático ou de doença ou prestem assistência a filhos ou netos, conforme estabelecido no Decreto-Lei n.º 10-A/2020, de 13 de março, ou que tenha sido colocado em redução do período normal de trabalho ou em suspensão do contrato de trabalho, em virtude de crise empresarial, em situação de desemprego registado no Instituto do Emprego e Formação Profissional, I. P., bem como seja elegível para o apoio extraordinário à redução da atividade económica de trabalhador independente, nos termos do artigo 26.º do referido decreto-lei, ou seja trabalhador de entidades cujo estabelecimento ou atividade tenha sido objeto de encerramento durante o estado de emergência ou durante a situação de calamidade por imposição legal ou administrativa.\n\n2 - O valor do PPR reembolsado deve corresponder ao valor da unidade de participação à data do requerimento de reembolso.\n\n3 - Para efeitos do presente artigo, não é aplicável o disposto no n.º 4 do artigo 21.º do Estatuto dos Benefícios Fiscais, desde que tenham sido subscritos até 31 de março de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 18/2020 - Diário da República n.º 105/2020, Série I de 2020-05-29](https://diariodarepublica.pt/dr/detalhe/lei/18-2020-134762425), em vigor a partir de 2020-05-30"
+  },
+  "215195335": {
+   "fragment_id": "131338939",
+   "type": 11,
+   "heading": "Artigo 8.º — Alteração à Lei n.º 27/2007, de 30 de julho",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 8.º — Alteração à Lei n.º 27/2007, de 30 de julho\n\nO artigo 51.º da Lei n.º 27/2007, de 30 de julho, alterada pelas Leis n.os 8/2011, de 11 de abril, 40/2014, de 9 de setembro, e 78/2015, de 29 de julho, passa a ter a seguinte redação:\n\n«Artigo 51.º\n\n[...]\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) ...\n\ni) ...\n\nj) ...\n\nl) ...\n\nm) ...\n\nn) ...\n\no) Promover a emissão de programas que aconselhem e estimulem os cidadãos para a prática adequada de exercício físico e de uma boa nutrição, no caso de dever coletivo de permanência em residência, por período alargado, devido a declaração de estado de exceção ou por necessidade de isolamento social.»\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195336": {
+   "fragment_id": "131338940",
+   "type": 11,
+   "heading": "Artigo 9.º — Linhas telefónicas",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 59/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2021-167281002), em vigor a partir de 2021-11-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 9.º — Linhas telefónicas\n\n1 - As entidades públicas estão impossibilitadas de disponibilizar:\n\na) Números especiais de valor acrescentado com o prefixo «7», para contacto telefónico dos consumidores;\n\nb) Apenas números especiais, números nómadas com o prefixo «30», ou números azuis com o prefixo «808», para contacto telefónico dos consumidores.\n\n2 - Todas as entidades públicas que disponibilizam linhas telefónicas com números especiais, com os prefixos «808» e «30», devem proceder à criação de uma alternativa de números telefónicos com o prefixo «2», no prazo máximo de 90 dias, a contar da data de entrada em vigor da presente lei.\n\n3 - São abrangidas pelo presente artigo as entidades que estejam integradas na Administração Pública central, regional ou local e as empresas concessionárias da Administração Pública central, regional ou local.\n\n4 - Tendo em conta a especificidade do serviço prestado pela linha SNS 24, o Ministério da Saúde deve no prazo máximo de 60 dias, a contar da data de entrada em vigor da presente lei, substituir o número do SNS 24 de prefixo «808» por um número especial, assegurando a sua total gratuitidade para os utentes.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 59/2021 - Diário da República n.º 135/2021, Série I de 2021-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2021-167281002), em vigor a partir de 2021-11-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+  },
+  "215195337": {
+   "fragment_id": "131338941",
+   "type": 11,
+   "heading": "Artigo 10.º — Alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05",
+    "Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+   ],
+   "markdown": "###### Artigo 10.º — Alteração ao Decreto-Lei n.º 10-I/2020, de 26 de março\n\nO artigo 11.º do Decreto-Lei n.º 10-I/2020, de 26 de março, passa a ter a seguinte redação:\n\n«Artigo 11.º\n\n[...]\n\n1 - As entidades públicas e os organismos de direito público referidos no Código dos Contratos Públicos ou entidades adjudicantes previstas no artigo 2.º do Código dos Contratos Públicos, promotores de espetáculos abrangidos pelo presente decreto-lei, podem aplicar aos contratos celebrados e a celebrar as normas previstas nos artigos 2.º e 4.º do Decreto-Lei n.º 10-A/2020, de 13 de março.\n\n2- As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 18 meses após a cessação das medidas de proibição ou limitação de realização de espetáculos.\n\n3 - As entidades referidas no n.º 1 que tenham de cancelar os espetáculos por impossibilidade de reagendamento dos mesmos podem proceder ao pagamento do preço dos compromissos anteriormente assumidos, caso o bem ou serviço tenha sido efetivamente prestado, ou na respetiva proporção, aplicando-se o disposto no artigo 299.º do CCP.\n\n4- As entidades referidas no n.º 1 podem reagendar os espetáculos de entrada livre até ao prazo de 18 meses após a cessação das medidas de proibição ou limitação de realização de espetáculos.\n\n5 - As entidades referidas no n.º 1 devem garantir, nos casos de cancelamento e reagendamentos, a realização dos pagamentos nos prazos contratualmente estipulados ou, o mais tardar, na data que se encontrava inicialmente agendado o espetáculo, no montante mínimo de 50 % do preço contratual, sem prejuízo de eventual alteração do contrato com vista à nova calendarização do espetáculo e pagamentos subsequentes.\n\n6 - As entidades referidas no n.º 1 devem garantir a conclusão dos procedimentos de formação de contratos públicos para os quais já tenha sido emitida a decisão de contratar e envio de convite à apresentação de propostas, nos casos de programação já anunciada, mas ainda não contratualizada, aplicando-se o disposto nos números anteriores após a assinatura do contrato.»\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05\n\n> Retificado pelo/a [Declaração de Retificação n.º 18/2020 - Diário da República n.º 85/2020, Série I de 2020-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/18-2020-132721067), em vigor a partir de 2020-04-11"
+  },
+  "215195338": {
+   "fragment_id": "131338942",
+   "type": 11,
+   "heading": "Artigo 11.º — Aditamento ao Decreto-Lei n.º 10-I/2020, de 26 de março",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 11.º — Aditamento ao Decreto-Lei n.º 10-I/2020, de 26 de março\n\nÉ aditado ao Decreto-Lei n.º 10-I/2020, de 26 de março, o artigo 11.º-A, com a seguinte redação:\n\n«Artigo 11.º-A\n\nIntermediários\n\n1 - Sempre que os pagamentos previstos no artigo anterior sejam efetuados a agentes, produtores e companhias de espetáculo ou a quaisquer outros intermediários, devem estes, no prazo de 10 dias úteis, após receberem o pagamento da entidade contratante referida no n.º 1 do artigo anterior, proceder ao pagamento proporcional e equitativo aos trabalhadores envolvidos nos eventos respetivos, designadamente autores, artistas, técnicos e outros profissionais e empresas que tenham sido contratados para o espetáculo em questão, sem prejuízo da cobrança proporcional de comissões que lhes sejam devidas.\n\n2 - Nos casos de reagendamento, os pagamentos referidos no número anterior são havidos como sinal e princípio de pagamento da prestação a efetuar na data para a qual o espetáculo vier a ser reagendado.»\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195339": {
+   "fragment_id": "131338943",
+   "type": 11,
+   "heading": "Artigo 12.º — Produção de efeitos",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 12.º — Produção de efeitos\n\n1 - O disposto no artigo 4.º da presente lei produz efeitos relativamente a todos os pagamentos de serviços que sejam devidos a partir de dia 20 de março de 2020.\n\n2 - O disposto no artigo 5.º da presente lei vigora até 30 de junho de 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195340": {
+   "fragment_id": "131338944",
+   "type": 11,
+   "heading": "Artigo 13.º — Entrada em vigor",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 13.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215195341": {
+   "fragment_id": "131338945",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 8 de abril de 2020.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 9 de abril de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 10 de abril de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113178217\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

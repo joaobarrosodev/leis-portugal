@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:448956:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-legislativa-regiao-autonoma-madeira/2008-953219472",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-madeira/13-2008-448956",
+ "source_lastmod": "2025-11-27",
+ "versions": [
+  {
+   "date": "2008-06-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "953218279"
+   ]
+  }
+ ],
+ "fragments": {
+  "953218279": {
+   "fragment_id": "953219473",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia Legislativa da Região Autónoma da Madeira n.º 13/2008/M\n\nAprova a Conta da Região Autónoma da Madeira referente ao ano de 2006\n\nA Assembleia Legislativa Regional da Madeira resolve, nos termos dos artigos 227.º, n.º 1, alínea p), e 232.º, n.º 1, da Constituição da República Portuguesa e, ainda, do artigo 38.º, alínea b), do Estatuto Político-Administrativo da Região Autónoma da Madeira, na redacção dada pela Lei n.º 130/99, de 21 de Agosto, aprovar a Conta da Região Autónoma da Madeira referente ao ano de 2006."
+  }
+ }
+}

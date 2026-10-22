@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:629388:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/resolucao-assembleia-republica/2007-920624695",
+ "dre_path": "/dr/detalhe/resolucao-assembleia-republica/57-2007-629388",
+ "source_lastmod": "2025-06-04",
+ "versions": [
+  {
+   "date": "2007-11-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920636637"
+   ]
+  }
+ ],
+ "fragments": {
+  "920636637": {
+   "fragment_id": "920624696",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Resolução da Assembleia da República n.º 57/2007\n\nOrçamento da Assembleia da República para 2008\n\nA Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, aprovar o seu orçamento para o ano de 2008, anexo à presente resolução."
+  }
+ }
+}

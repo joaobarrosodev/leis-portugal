@@ -1,0 +1,95 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:625183:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-153338032",
+ "dre_path": "/dr/detalhe/portaria/1063-2004-625183",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "153492983"
+   ]
+  },
+  {
+   "date": "2014-03-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:572420:por",
+     "title": "Portaria n.º 58/2014",
+     "published": "2014-03-07",
+     "dre_path": "/dr/detalhe/portaria/58-2014-572420"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "872276561",
+    "153484811"
+   ]
+  },
+  {
+   "date": "2021-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153341280:por",
+     "title": "Portaria n.º 10/2021",
+     "published": "2021-01-08",
+     "dre_path": "/dr/detalhe/portaria/10-2021-153341280"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "153492983",
+    "153492984"
+   ]
+  }
+ ],
+ "fragments": {
+  "153492983": {
+   "fragment_id": "153338033",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2021-01-09",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1063/2004\n\nde 25 de Agosto\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, do Conselho, de 16 de Dezembro, que estabelece requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a ela associadas, refere a existência de pareceres científicos indicando que tais espécies são vulneráveis à exploração e que as possibilidades de pesca devem, em consequência, ser limitadas ou reduzidas a fim de assegurar a sua sustentabilidade.\n\nNeste enquadramento prevê o licenciamento específico para a pesca de unidades populacionais de profundidade, limita o esforço de pesca e fixa obrigações especiais em matéria de registo de capturas, de inspecção e controlo.\n\nO presente diploma tem por objectivo regulamentar, a nível nacional, as disposições do citado regulamento comunitário, definindo os critérios para o licenciamento de embarcações e designando os portos para efeitos de desembarque.\n\nAo abrigo do disposto nas alíneas b) e g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e do n.º 2 do artigo 1.º do Decreto-Lei n.º 304/87, de 4 de Agosto, na redacção dada pelo Decreto-Lei n.º 237/90, de 24 de Julho:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º A pesca dirigida às espécies de profundidade que constam do anexo I do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, de 16 de Dezembro, e nas zonas referidas no artigo 1.º do mesmo regulamento, só pode ser exercida por embarcações que estejam especificamente licenciadas para a pesca de profundidade, nos termos do presente diploma.\n\n2.º Para as frotas do largo e costeira registadas no continente, podem ser licenciadas embarcações até um total de capacidade de 20390 Gt e 31250 kW.\n\n3.º O número máximo de licenças a conceder a embarcações da frota costeira é fixado em 50, podendo este número ser alterado por decisão do director-geral das Pescas e Aquicultura, tendo em conta, entre outros factores, a capacidade de pesca disponível.\n\n4.º Serão licenciadas as embarcações registadas no continente, ou construídas em sua substituição, que, tendo praticado regularmente a pesca dirigida às espécies referidas no n.º 1, se encontrem, por ordem decrescente de prioridade, numa das seguintes situações:\n\na) Num dos anos do período de 1998-2000, tenham apresentado capturas anuais daquelas espécies em quantidades iguais ou superiores a 38 t;\n\nb) Num dos anos do período de 1998-2000, tenham apresentado capturas daquelas espécies em quantidades iguais ou superiores a 10 t;\n\nc) Num dos anos do período de 2001-2003, tenham apresentado capturas anuais daquelas espécies em quantidades iguais ou superiores a 38 t;\n\nd) Num dos anos do período de 2001-2003, tenham apresentado capturas anuais daquelas espécies em quantidades iguais ou superiores a 10 t;\n\ne) Num dos anos do período de 1998-2003, tenham apresentado capturas anuais iguais ou superiores a 1 t, dispondo apenas de autorização para o uso de artes do grupo da pesca à linha.\n\n5.º As embarcações licenciadas ao abrigo:\n\na) Das alíneas a) e c) do número anterior podem exercer esta pescaria durante todo o ano civil;\n\nb) Das alíneas b), d) e e) do número anterior podem exercer esta pescaria, em alternativa:\n\nDurante seis meses, em cada ano civil, constando expressamente tal período da respectiva licença de pesca; ou\n\nDurante todo o ano civil, não podendo, neste caso, a totalidade dos desembarques de todas as espécies de profundidade ultrapassar:\n\nO limite de 30 t, no caso das embarcações licenciadas ao abrigo das alíneas b) e d);\n\nO limite de 20 t, no caso das embarcações licenciadas ao abrigo da alínea e).\n\n6.º As embarcações licenciadas para operar em águas comunitárias sob soberania ou jurisdição de Portugal apenas estão autorizadas a exercer a pesca de espécies de profundidade com palangre de fundo, não podendo, numa mesma maré em que desembarquem espécies de profundidade em quantidades superiores a 100 kg, ter utilizado ou ter a bordo redes de emalhar de um ou de três panos.\n\n7.º As embarcações licenciadas para operar nas subzonas e águas definidas no artigo 1.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, de 16 de Dezembro, estão autorizadas a exercer a pesca com as artes para que estiverem licenciadas, quando em actividade fora das águas referidas no número anterior.\n\n8.º O não cumprimento das limitações previstas no que diz respeito às artes de pesca referidas no número anterior ou dos limites previstos na alínea b) do n.º 4, bem assim do disposto nos artigos 5.º e 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, de 16 de Dezembro, poderá implicar a não renovação da licença para a pesca dirigida a espécies de profundidade.\n\n9.º No continente, o desembarque de espécies de profundidade em quantidade superior a 100 kg só pode ter lugar nos seguintes portos: Viana do Castelo, Póvoa de Varzim, Matosinhos, Aveiro, Figueira da Foz, Nazaré, Peniche, Sesimbra, Setúbal, Sines, Sagres, Portimão, Olhão e Vila Real de Santo António.\n\n10.º Em 2004, os armadores que pretendam licenciar embarcações para a pesca de espécies de profundidade, nos termos do presente diploma, dispõem de 10 dias úteis, contados a partir da data da sua entrada em vigor, para requerer o licenciamento respectivo à Direcção-Geral das Pescas e Aquicultura."
+  },
+  "872276561": {
+   "fragment_id": "153338033",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2014-03-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1157/2010 - Diário da República n.º 215/2010, Série I de 2010-11-05](https://diariodarepublica.pt/dr/detalhe/portaria/1157-2010-309066), produz efeitos a partir de 2010-11-06",
+    "Alterado pelo/a Artigo 7.º do/a [Portaria n.º 58/2014 - Diário da República n.º 47/2014, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/58-2014-572420), em vigor a partir de 2014-03-08"
+   ],
+   "markdown": "Portaria n.º 1063/2004\n\nde 25 de Agosto\n\nO Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, do Conselho, de 16 de Dezembro, que estabelece requisitos específicos em matéria de acesso à pesca de unidades populacionais de profundidade e as condições a ela associadas, refere a existência de pareceres científicos indicando que tais espécies são vulneráveis à exploração e que as possibilidades de pesca devem, em consequência, ser limitadas ou reduzidas a fim de assegurar a sua sustentabilidade.\n\nNeste enquadramento prevê o licenciamento específico para a pesca de unidades populacionais de profundidade, limita o esforço de pesca e fixa obrigações especiais em matéria de registo de capturas, de inspecção e controlo.\n\nO presente diploma tem por objectivo regulamentar, a nível nacional, as disposições do citado regulamento comunitário, definindo os critérios para o licenciamento de embarcações e designando os portos para efeitos de desembarque.\n\nAo abrigo do disposto nas alíneas b) e g) do n.º 2 do artigo 4.º do Decreto-Lei n.º 278/87, de 7 de Julho, na redacção dada pelo Decreto-Lei n.º 383/98, de 27 de Novembro, e do n.º 2 do artigo 1.º do Decreto-Lei n.º 304/87, de 4 de Agosto, na redacção dada pelo Decreto-Lei n.º 237/90, de 24 de Julho:\n\nManda o Governo, pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, o seguinte:\n\n1.º A pesca dirigida às espécies de profundidade que constam do anexo I do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, de 16 de Dezembro, e nas zonas referidas no artigo 1.º do mesmo regulamento, só pode ser exercida por embarcações que estejam especificamente licenciadas para a pesca de profundidade, nos termos do presente diploma.\n\n2.º Para as frotas do largo e costeira registadas no continente, podem ser licenciadas embarcações até um total de capacidade de 20390 Gt e 31250 kW.\n\n3.º O número máximo de licenças a conceder a embarcações da frota costeira é fixado em 50, podendo este número ser alterado por decisão do director-geral das Pescas e Aquicultura, tendo em conta, entre outros factores, a capacidade de pesca disponível.\n\n4.º Serão licenciadas as embarcações registadas no continente, ou construídas em sua substituição, que, tendo praticado regularmente a pesca dirigida às espécies referidas no n.º 1, se encontrem, por ordem decrescente de prioridade, numa das seguintes situações:\n\na) Num dos anos do período de 1998-2000, tenham apresentado capturas anuais daquelas espécies em quantidades iguais ou superiores a 38 t;\n\nb) Num dos anos do período de 1998-2000, tenham apresentado capturas daquelas espécies em quantidades iguais ou superiores a 10 t;\n\nc) Num dos anos do período de 2001-2003, tenham apresentado capturas anuais daquelas espécies em quantidades iguais ou superiores a 38 t;\n\nd) Num dos anos do período de 2001-2003, tenham apresentado capturas anuais daquelas espécies em quantidades iguais ou superiores a 10 t;\n\ne) Num dos anos do período de 1998-2003, tenham apresentado capturas anuais iguais ou superiores a 1 t, dispondo apenas de autorização para o uso de artes do grupo da pesca à linha.\n\n5.º As embarcações licenciadas ao abrigo:\n\na) Das alíneas a) e c) do número anterior podem exercer esta pescaria durante todo o ano civil;\n\nb) Das alíneas b), d) e e) do número anterior podem exercer esta pescaria, em alternativa:\n\nDurante seis meses, em cada ano civil, constando expressamente tal período da respectiva licença de pesca; ou\n\nDurante todo o ano civil, não podendo, neste caso, a totalidade dos desembarques de todas as espécies de profundidade ultrapassar:\n\nO limite de 30 t, no caso das embarcações licenciadas ao abrigo das alíneas b) e d);\n\nO limite de 20 t, no caso das embarcações licenciadas ao abrigo da alínea e).\n\n6.º As embarcações licenciadas para operar em águas comunitárias sob soberania ou jurisdição de Portugal apenas estão autorizadas a exercer a pesca de espécies de profundidade com palangre de fundo, não podendo, numa mesma maré em que desembarquem espécies de profundidade em quantidades superiores a 100 kg, ter utilizado ou ter a bordo redes de emalhar de um ou de três panos.\n\n7.º As embarcações licenciadas para operar nas subzonas e águas definidas no artigo 1.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, de 16 de Dezembro, estão autorizadas a exercer a pesca com as artes para que estiverem licenciadas, quando em actividade fora das águas referidas no número anterior.\n\n8.º O não cumprimento das limitações previstas no que diz respeito às artes de pesca referidas no número anterior ou dos limites previstos na alínea b) do n.º 4, bem assim do disposto nos artigos 5.º e 6.º do Regulamento (CE) n.º <a href=\"eurlex.asp?ano=2002&id=302R2347\" title=\"Link para Regulamento da Comunidade Europeia\">2347/2002</a>, de 16 de Dezembro, poderá implicar a não renovação da licença para a pesca dirigida a espécies de profundidade.\n\n9.º (Revogado)\n\n10.º Em 2004, os armadores que pretendam licenciar embarcações para a pesca de espécies de profundidade, nos termos do presente diploma, dispõem de 10 dias úteis, contados a partir da data da sua entrada em vigor, para requerer o licenciamento respectivo à Direcção-Geral das Pescas e Aquicultura.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1157/2010 - Diário da República n.º 215/2010, Série I de 2010-11-05](https://diariodarepublica.pt/dr/detalhe/portaria/1157-2010-309066), produz efeitos a partir de 2010-11-06\n\n> Alterado pelo/a Artigo 7.º do/a [Portaria n.º 58/2014 - Diário da República n.º 47/2014, Série I de 2014-03-07](https://diariodarepublica.pt/dr/detalhe/portaria/58-2014-572420), em vigor a partir de 2014-03-08"
+  },
+  "153484811": {
+   "fragment_id": "153338034",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Luís Filipe Vieira Frazão Gomes, Secretário de Estado Adjunto e das Pescas, em 12 de Julho de 2004."
+  },
+  "153492984": {
+   "fragment_id": "153338034",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2021-01-09",
+   "changed_by": [
+    "Revogado pelo/a Artigo 9.º do/a [Portaria n.º 10/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/10-2021-153341280), em vigor a partir de 2021-01-09"
+   ],
+   "markdown": "Pelo Ministro da Agricultura, Desenvolvimento Rural e Pescas, Luís Filipe Vieira Frazão Gomes, Secretário de Estado Adjunto e das Pescas, em 12 de Julho de 2004.\n\n> Revogado pelo/a Artigo 9.º do/a [Portaria n.º 10/2021 - Diário da República n.º 5/2021, Série I de 2021-01-08](https://diariodarepublica.pt/dr/detalhe/portaria/10-2021-153341280), em vigor a partir de 2021-01-09"
+  }
+ }
+}

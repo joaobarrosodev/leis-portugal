@@ -1,0 +1,294 @@
+---
+schema_version: '1.0'
+id: pt:dre:487690:por
+title: Decreto Regulamentar n.º 5/91
+short_title: null
+summary: Regula o regime estabelecido no Decreto-Lei n.º 81/91, relativo à melhoria da eficácia das estruturas agrícolas
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 5/91
+official_date: null
+publication_date: '1991-02-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 41/1991, Série I-B de 1991-02-19
+  number: '41'
+  series: I
+  supplement: null
+  pages: 817 - 819
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/02/041b00/08170819.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregul/5/1991/02/19/p/dre/pt/html
+  oj: null
+  dre: '487690'
+  dre_path: /dr/detalhe/decreto-regulamentar/5-1991-487690
+  internal: pt:dre:487690:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1991-487690
+  metadata_url: https://data.dre.pt/eli/decregul/5/1991/02/19/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-1991-487690
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1991-08-09T00:00:00Z'
+integrity:
+  source_sha256: d51ef2a7ccffdd9e648a11e1d785000010f27928459579fc342a57c2605920e6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-5-487690.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Agrupamento de Produtores
+- Financiamento
+- CEE
+- Contabilidade
+- Desenvolvimento Rural
+- Direcção Geral das Florestas
+- Direcção Regional de Agricultura
+- Feoga
+- Apoio ao Investimento
+- Gestão Agrícola
+- Indemnização Compensatória
+- Jovem Agricultor
+- Ministério da Agricultura Pescas e Alimentação
+- Exploração Agrícola
+- Política Agrícola Comum
+- Prédio Rústico
+- Exploração Florestal
+- Agricultor
+- Regulamento CE
+- Região Desfavorecida
+- Agricultura
+- Ifadap
+relationships:
+- type: amended_by
+  target: pt:dre:679850:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31985R0797
+  label: null
+  source: http://data.europa.eu/eli/reg/1985/797/oj
+- type: cites
+  target: celex:31989R3808
+  label: null
+  source: http://data.europa.eu/eli/reg/1989/3808/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/81/1991/02/19/p/dre
+article_structure:
+  article_count: 14
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 5/91
+
+de 19 de Fevereiro
+
+Considerando o Decreto-Lei n.º 81/91, que revogou o Decreto-Lei n.º 79-A/87, de 18 de Fevereiro, em consequência das alterações introduzidas no Regulamento (CEE) n.º [797/85](http://data.europa.eu/eli/reg/1985/797/oj?locale=pt), do Conselho, de 12 de Março, designadamente pelo Regulamento (CEE) n.º [3808/89](http://data.europa.eu/eli/reg/1989/3808/oj?locale=pt), do Conselho, de 12 de Dezembro;
+
+Considerando a necessidade de proceder a alguns ajustamentos ao Decreto Regulamentar n.º 24-B/86, de 30 de Julho, que estabeleceu os mecanismos de decisão e execução do Decreto-Lei n.º 79-A/87, de 18 de Fevereiro, em função não apenas do Decreto-Lei n.º 81/91, mas ainda da experiência adquirida nos três anos de aplicação daquele;
+
+Considerando as atribuições e competências dos serviços do Ministério da Agricultura, Pescas e Alimentação e do Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas;
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 62.º do Decreto-Lei n.º 81/91 e nos termos da alínea c) do artigo 202.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Informações, esclarecimentos e documentação
+
+Compete às direcções regionais de agricultura (DRA), à Direcção-Geral das Florestas (DGF), aos serviços do Instituto Financeiro de Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP) e às instituições de crédito habilitadas para o efeito prestar todos os esclarecimentos, no território continental, aos candidatos às ajudas previstas no Decreto-Lei n.º 81/91 sobre as respectivas condições de acesso, incluindo os documentos necessários à organização do processo de apresentação dos pedidos.
+
+###### Artigo 2.º — Elaboração dos planos de melhoria material, de planos de exploração e de projectos florestais
+
+1 - A elaboração de planos de melhoria material, de planos de exploração e de projectos florestais é da responsabilidade dos próprios candidatos, no que poderão ser apoiados pelas DRA, pelos serviços da DGF, por instituições de crédito ou por quaisquer outras entidades, com excepção do IFADAP.
+
+2 - Os planos de melhoria material a que se refere o n.º 5 do artigo 26.º do Decreto-Lei n.º 81/91 e os projectos florestais previstos na alínea b) do n.º 1 do artigo 40.º do mesmo diploma deverão conter a identificação dos técnicos que os elaboram.
+
+3 - Os autores dos planos e projectos referidos no número anterior são obrigatoriamente técnicos qualificados para o efeito, em termos a definir por despacho do Ministro da Agricultura, Pescas e Alimentação.
+
+###### Artigo 3.º — Condições de acesso
+
+1 - Compete às DRA confirmar:
+
+a) As condições referidas no n.º 1 do artigo 4.º do Decreto-Lei n.º 81/91;
+
+b) A capacidade profissional dos agricultores;
+
+c) A condição de jovem agricultor;
+
+d) A primeira instalação de jovem agricultor;
+
+e) A qualificação profissional dos jovens agricultores;
+
+f) As condições de acesso às ajudas previstas nas secções I a III do título III e no título IV do Decreto-Lei n.º 81/91.
+
+2 - A confirmação das condições referidas no número anterior é efectuada até 20 dias úteis após a apresentação do processo.
+
+3 - A competência a que se refere o n.º 1 poderá ser delegada em outras entidades regionais habilitadas para o efeito, mediante protocolo a estabelecer entre estas e as DRA.
+
+4 - Compete ao IFADAP:
+
+a) Fixar os valores relativos ao cálculo do valor das transacções dos prédios rústicos;
+
+b) Proceder à verificação correctiva do valor das transacções dos prédios rústicos;
+
+c) Fixar o modo de pagamento do subsídio atribuído.
+
+###### Artigo 4.º — Processo de decisão das ajudas aos investimentos agrícolas
+
+1 - Os processos de candidatura às ajudas aos investimentos agrícolas poderão ser entregues, devidamente instruídos com as confirmações das condições de acesso previstas no n.º 1 do artigo anterior, nas DRA, no IFADAP ou nas instituições de crédito habilitadas para o efeito da área em que se localizam as explorações agrícolas.
+
+2 - Com a apresentação das candidaturas devem os interessados entregar uma cópia de todo o processo.
+
+3 - Quando se trate de investimentos turísticos, os candidatos deverão ainda apresentar uma declaração de interesse para o turismo, a emitir pela Direcção-Geral do Turismo.
+
+4 - A recepção dos processos será registada e datada.
+
+5 - As DRA ou as instituições de crédito ficarão com uma cópia dos processos que lhes sejam entregues, devendo remeter o original ao IFADAP no prazo de 5 dias úteis, excepto quando haja recurso a crédito, caso em que a instituição de crédito dispõe de 10 dias úteis para o efeito.
+
+6 - Sempre que a entrega não haja ocorrido nas DRA, o IFADAP deverá enviar-lhes cópia no prazo de 5 dias úteis contados da recepção dos processos.
+
+7 - Sem prejuízo do disposto nos n.os 9, 10 e 12, a decisão relativa aos projectos de investimento de valor inferior ou igual a 60000 ECU é da competência do IFADAP, para o que dispõe de um prazo de 45 dias úteis a contar da data de recepção do processo.
+
+8 - Para efeitos do número anterior e do n.º 12, excluem-se os valores relativos a máquinas e equipamentos mecânicos.
+
+9 - Quando os pedidos referidos nos n.os 7 e 8 visem a realização de investimentos em actividades de carácter inovador, como tal classificadas de acordo com critérios a definir por despacho do Ministro da Agricultura, Pescas e Alimentação, as DRA devem:
+
+a) Comunicar esse facto ao IFADAP no prazo máximo de 10 dias úteis contados da data de entrada dos processos naqueles serviços;
+
+b) Emitir o respectivo parecer técnico, no prazo máximo de 20 dias úteis contados da data referida na alínea anterior, o qual vincula a decisão final do IFADAP.
+
+10 - Nos casos em que considerem que os objectivos expressos nos planos de investimento são manifestamente impossíveis de alcançar no plano técnico ou em que haja indícios de falsos planos de melhoria ou de exploração, deverão as DRA competentes enviar ao IFADAP, no prazo máximo de 20 dias úteis contados da data de recepção dos processos, informação fundamentada sobre os mesmos, a qual vincula o IFADAP na apreciação dos processos em causa.
+
+11 - O IFADAP prestará mensalmente às DRA informação quanto aos projectos aprovados e recusados.
+
+12 - Nos casos em que o investimento seja de montante superior a 60000 ECU, os processos serão analisados simultaneamente pelas DRA e pelo IFADAP, sendo seguidamente submetidos a apreciação e decisão da Comissão de Análise Paritária Regional, abreviadamente designada por Comissão.
+
+13 - A Comissão referida no número anterior é constituída por dois representantes das DRA e por dois representantes do IFADAP e reunirá, sempre que necessário, por forma que não seja ultrapassado o prazo máximo de 90 dias úteis contado a partir da data da recepção da candidatura.
+
+14 - Os membros da Comissão de Análise Paritária efectuarão, pelo menos, uma visita conjunta à exploração a que respeitam os processos que lhe são submetidos.
+
+15 - Em caso de divergência de posições na Comissão, o processo, acompanhado das análises e pareceres dos dois organismos, será submetido à comissão directiva do IFADAP para reapreciação e parecer, sendo a decisão final tomada por despacho do Ministro da Agricultura, Pescas e Alimentação.
+
+###### Artigo 5.º — Processo de decisão das outras medidas de apoio às explorações agrícolas e das medidas específicas para as regiões desfavorecidas
+
+1 - A recepção dos pedidos, a instrução e a decisão dos processos de candidatura às ajudas à contabilidade de gestão, às ajudas aos agrupamentos de produtores, às ajudas aos serviços de gestão, às indemnizações compensatórias, às ajudas à protecção do ambiente e às ajudas aos investimentos colectivos, constituem competência das DRA.
+
+2 - As DRA dispõem de um prazo máximo de 90 dias úteis a contar da data da recepção dos pedidos para procederem à instrução e decisão dos processos de candidatura referidos no número anterior.
+
+3 - Organizados os processos e obtida a decisão ministerial referida no n.º 3 do artigo 34.º, no artigo 36.º, no n.º 4 do artigo 37.º e no n.º 4 do artigo 51.º do Decreto-Lei n.º 81/91, o IFADAP dispõe de um prazo máximo de 15 dias úteis para se pronunciar sobre o respectivo cabimento orçamental e sobre a conformidade processual dos processos abrangidos pela secção I do título III e pelas secções I e II do título IV.
+
+4 - A posição do IFADAP será transmitida simultaneamente às DRA e às entidades candidatas.
+
+###### Artigo 6.º — Ajudas aos investimentos florestais nas explorações agrícolas e ao prémio anual por hectare arborizado
+
+1 - Os processos de candidatura às ajudas aos investimentos florestais e ao prémio anual por hectare arborizado poderão ser entregues, até 31 de Março de cada ano, nas DRA, nas administrações e circunscrições florestais, no IFADAP ou nas instituições de crédito habilitadas para o efeito.
+
+2 - A recepção dos processos será registada e datada.
+
+3 - Quando a entrega dos processos tenha sido efectuada nas DRA, no IFADAP ou em instituições de crédito, estas deverão enviar os processos à DGF no prazo máximo de cinco dias úteis a contar da data de recepção daqueles.
+
+4 - Compete à DGF, até 31 de Maio, emitir um parecer técnico vinculativo sobre os pedidos apresentados e efectuar a selecção dos mesmos em função de critérios a definir por despacho do Ministro da Agricultura, Pescas e Alimentação.
+
+5 - Os pedidos que obtenham parecer técnico favorável da DFG serão enviados ao IFADAP, que decidirá sobre os mesmos até 31 de Julho.
+
+###### Artigo 7.º — Formalização e pagamento das ajudas
+
+1 - A atribuição das ajudas aos beneficiários é feita ao abrigo de contratos celebrados com o IFADAP, dos quais constam as obrigações de cada uma das partes.
+
+2 - Compete ao IFADAP, nos termos dos contratos referidos no número anterior e mediante transferência bancária, proceder ao pagamento dos subsídios.
+
+###### Artigo 8.º — Rescisão
+
+Em caso de incumprimento pelo beneficiário de qualquer das suas obrigações, o IFADAP poderá proceder à rescisão do contrato, nos termos e com as consequências previstas no artigo 53.º do Decreto-Lei n.º 81/91.
+
+###### Artigo 9.º — Acompanhamento e confirmação da execução material dos investimentos
+
+1 - Compete ao IFADAP confirmar a execução material dos investimentos nas explorações agrícolas em conformidade com o plano ou projecto aprovado.
+
+2 - Compete aos serviços regionais do MAPA e da DGF, quanto às ajudas previstas, respectivamente, nos artigos 5.º e 6.º deste diploma, acompanhar a execução material dos investimentos e verificar do cumprimento das obrigações assumidas pelos beneficiários.
+
+3 - Qualquer situação de incumprimento detectada pelos serviços regionais do MAPA ou pela DGF será imediatamente comunicada ao IFADAP para os efeitos daí decorrentes.
+
+###### Artigo 10.º — Centralização dos processos e interlocução com o FEOGA
+
+1 - O IFADAP é o organismo interlocutor do Fundo Europeu de Orientação e Garantia Agrícola, Secção Orientação.
+
+2 - Na qualidade atribuída no número anterior, compete ao IFADAP organizar e centralizar os processos de candidatura às ajudas instituídas e as peças justificativas das despesas efectuadas ao abrigo do Regulamento (CEE) n.º [797/85](http://data.europa.eu/eli/reg/1985/797/oj?locale=pt), de 12 de Março.
+
+###### Artigo 11.º — Remuneração pela prestação de serviços
+
+1 - Pelos serviços prestados no âmbito do presente diploma, o IFADAP receberá uma retribuição, referida ao montante global das ajudas concedidas, fixada percentualmente por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, que igualmente estabelecerá as demais condições daquela retribuição, sendo esta suportada pelos beneficiários num máximo de 50% e o remanescente pelas verbas do Orçamento do Estado destinadas a suportar a contribuição nacional para as ajudas financeiras aos projectos.
+
+2 - Por despacho conjunto dos Ministros das Finanças e da Agricultura, Pescas e Alimentação, as DRA e a DGF poderão ser autorizadas a cobrar uma comissão, a suportar pelos candidatos, pelos serviços prestados no que se refere à elaboração de planos de melhoria material, planos de exploração, projectos florestais e projectos de investimentos colectivos e, ainda, ao acompanhamento e verificação do processo de atribuição das indemnizações compensatórias.
+
+###### Artigo 12.º — Avaliação e ajustamentos
+
+1 - O IFADAP apresentará trimestralmente relatórios ao Ministro da Agricultura, Pescas e Alimentação sobre a execução do disposto no Decreto-Lei n.º 81/91, contendo quadros em que conste, designadamente, o número de processos entrados, analisados, aprovados e não aprovados, bem como o correspondente valor de investimento e de ajuda.
+
+2 - A informação a que se refere o número anterior respeitará a sistematização prevista nas secções constantes dos títulos I a IV do referido decreto-lei e será desagregada por regiões e por zonas agrárias.
+
+3 - As disposições regulamentares instituídas pelo presente diploma serão avaliadas e ajustadas, se necessário, em função da experiência adquirida e com base em relatórios obrigatoriamente elaborados pelos serviços competentes do MAPA e do IFADAP.
+
+4 - Os relatórios referidos no número anterior serão entregues ao Ministro da Agricultura, Pescas e Alimentação 18 meses após a entrada em vigor do presente diploma.
+
+###### Artigo 13.º — Norma revogatória
+
+É revogado o Decreto Regulamentar n.º 24-B/86, de 30 de Julho.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente decreto regulamentar entra em vigor na mesma data do Decreto-Lei n.º 81/91.
+
+Presidência do Conselho de Ministros, 23 de Julho de 1990.
+
+Joaquim Fernando Nogueira - Luís Miguel Couceiro Pizarro Beleza - Arlindo Marques da Cunha.
+
+**Promulgado em 31 de Dezembro de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 7 de Janeiro de 1991.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

@@ -1,0 +1,192 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:138963711:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2020-149070881",
+ "dre_path": "/dr/detalhe/portaria/178-2020-138963711",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-07-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "149070980",
+    "149070981",
+    "149070982",
+    "149070983",
+    "149070984",
+    "149070985",
+    "149070986",
+    "149070987",
+    "149070988",
+    "149070989",
+    "149070990",
+    "149070991",
+    "149070992"
+   ]
+  },
+  {
+   "date": "2020-11-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:153138208:por",
+     "title": "Declaração de Retificação n.º 1/2021",
+     "published": "2021-01-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/1-2021-153138208"
+    },
+    {
+     "id": "pt:dre:148963300:por",
+     "title": "Portaria n.º 269/2020",
+     "published": "2020-11-19",
+     "dre_path": "/dr/detalhe/portaria/269-2020-148963300"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 8.º",
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "149070980",
+    "149070981",
+    "149070982",
+    "149070983",
+    "149070984",
+    "149070985",
+    "149070986",
+    "149070987",
+    "148957606",
+    "149070989",
+    "149070990",
+    "149070991",
+    "149070992",
+    "149070993"
+   ]
+  }
+ ],
+ "fragments": {
+  "149070980": {
+   "fragment_id": "149070882",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 178/2020\n\nde 28 de julho\n\nSumário: Estabelece um sistema de incentivos à adaptação da atividade das respostas sociais ao contexto da doença COVID-19, designado Programa Adaptar Social +.\n\nNo âmbito da prevenção e combate à pandemia por COVID-19, importa reforçar a implementação de um conjunto de regras e condições especiais de segurança na organização e funcionamento das instituições que garantem respostas sociais.\n\nNeste sentido, o Programa de Estabilização Económica e Social (PEES), aprovado pela Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, veio prever medidas para reforço do apoio às respostas sociais, nomeadamente a criação do Programa Adaptar Social +.\n\nAtravés deste Programa é criado um sistema de incentivos destinado a mitigar os custos acrescidos para o restabelecimento das condições de funcionamento das respostas sociais, sendo apoiados, nomeadamente, os custos de aquisição de equipamentos de proteção individual para trabalhadores e utentes, equipamentos de higienização, contratos de desinfeção, os custos com a formação de trabalhadores, reorganização dos locais de trabalho e alterações de layout dos equipamentos das respostas sociais.\n\nForam ouvidas a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e a CONFECOOP - Confederação Portuguesa Cooperativa, bem como as entidades representativas do setor lucrativo.\n\nAssim, ao abrigo da Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, manda o Governo, pela Ministra do Trabalho, Solidariedade e Segurança Social o seguinte:"
+  },
+  "149070981": {
+   "fragment_id": "149070883",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece um sistema de incentivos à adaptação da atividade das respostas sociais ao contexto da doença COVID-19, doravante designado Programa Adaptar Social +.\n\n2 - O Programa Adaptar Social + visa apoiar as instituições particulares de solidariedade social, ou legalmente equiparadas, que detenham cooperação com o Instituto da Segurança Social, I. P. (ISS, I. P.), para o desenvolvimento de respostas sociais, bem como entidades privadas que desenvolvam atividades de apoio social licenciadas, na adaptação dos equipamentos sociais, na alteração dos métodos de organização do trabalho, de relacionamento com os utentes, familiares e outros, às condições que garantam a implementação das medidas preventivas de contágio da COVID-19 face às recomendações das autoridades competentes estabelecidas no contexto da pandemia."
+  },
+  "149070982": {
+   "fragment_id": "149070884",
+   "type": 11,
+   "heading": "Artigo 2.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entidades beneficiárias\n\nSão entidades beneficiárias as instituições particulares de solidariedade social, ou legalmente equiparadas, que detenham cooperação com o ISS, I. P., para o desenvolvimento de respostas sociais, conforme previsto na Portaria n.º 196-A/2015, de 1 de julho, na redação em vigor, e entidades privadas que desenvolvam atividades de apoio social licenciadas, nos termos do Decreto-Lei n.º 64/2007, de 14 de março, na redação em vigor, bem como as entidades representativas daqueles setores, para projetos das suas associadas."
+  },
+  "149070983": {
+   "fragment_id": "149070885",
+   "type": 11,
+   "heading": "Artigo 3.º — Critérios de elegibilidade das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Critérios de elegibilidade das entidades beneficiárias\n\nAs entidades beneficiárias devem cumprir os seguintes critérios de elegibilidade:\n\na) Estar legalmente constituídas em 1 de março de 2020;\n\nb) Dispor de contabilidade organizada e ter a situação regularizada em matéria de obrigações contabilísticas, designadamente a prestação de contas ao ISS, I. P., se e quando aplicável;\n\nc) Ter ou poder assegurar, até à assinatura do termo de aceitação, a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social."
+  },
+  "149070984": {
+   "fragment_id": "149070886",
+   "type": 11,
+   "heading": "Artigo 4.º — Requisitos de elegibilidade dos projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Requisitos de elegibilidade dos projetos\n\nOs projetos, para serem elegíveis, devem cumprir os seguintes requisitos de elegibilidade:\n\na) Ter por objetivo a realização de um investimento de valor em despesa elegível não superior a (euro) 10 000, para a adaptação das respostas e equipamentos sociais ao contexto da doença COVID-19, garantindo a segurança dos trabalhadores, utentes e outros, cumprindo as normas estabelecidas e as recomendações das autoridades competentes;\n\nb) Estar em conformidade com as disposições legais e regulamentares que lhes forem aplicáveis."
+  },
+  "149070985": {
+   "fragment_id": "149070887",
+   "type": 11,
+   "heading": "Artigo 5.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Despesas elegíveis\n\nSão elegíveis, para suprir as necessidades por um período máximo de seis meses, as seguintes despesas realizadas a partir do dia 19 de março de 2020 e com duração máxima de execução até 31 de dezembro de 2020:\n\na) Aquisição de equipamentos de proteção individual para utilização pelos trabalhadores e utentes, nomeadamente máscaras, luvas, viseiras e outros;\n\nb) Aquisição e instalação de equipamentos de higienização, de dispensa automática de desinfetantes, bem como respetivos consumíveis, nomeadamente solução desinfetante;\n\nc) Aquisição e instalação de equipamentos para monitorização de parâmetros vitais que permitam detetar precocemente sintomas de COVID-19, tais como aparelhos de medição de pressão arterial, termómetros e oxímetros;\n\nd) Contratação de serviços de desinfeção das instalações;\n\ne) Reorganização e adaptação de locais e de layout de espaços às orientações e boas práticas do atual contexto, designadamente instalação de portas automáticas, instalação de soluções de iluminação por sensor, instalação de dispensadores por sensor nas casas de banho, criação de áreas de contingência, entre outros;\n\nf) Isolamento físico de espaços, designadamente instalação de divisórias entre equipamentos, células de produção, secretárias, postos ou balcões de atendimento;\n\ng) Aquisição e instalação de outros dispositivos de controlo e distanciamento físico;\n\nh) Custos com a aquisição e colocação de informação e orientação dirigidas aos trabalhadores, aos utentes e ao público, incluindo sinalização vertical e horizontal, no interior e exterior dos espaços;\n\ni) Aquisição de serviços de consultoria especializada para a adaptação das respostas sociais aos novos desafios do contexto subsequente à pandemia da doença COVID-19, nomeadamente para o redesenho do layout das instalações, para a elaboração de planos de contingência e manuais de boas práticas."
+  },
+  "149070986": {
+   "fragment_id": "149070888",
+   "type": 11,
+   "heading": "Artigo 6.º — Formação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Formação profissional\n\nSão igualmente elegíveis as despesas com a realização de ações de formação profissional para os trabalhadores das respostas sociais, no âmbito de projetos apresentados pelas entidades representativas do setor social e solidário e do setor lucrativo."
+  },
+  "149070987": {
+   "fragment_id": "149070889",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas não elegíveis\n\nConstituem despesas não elegíveis:\n\na) Trabalhos enquadrados no âmbito das respostas sociais desenvolvidos pela própria entidade beneficiária, isto é, trabalhos para ela própria;\n\nb) Aquisição de bens em estado de uso;\n\nc) Imposto sobre o valor acrescentado recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário."
+  },
+  "149070988": {
+   "fragment_id": "149070890",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de acesso e financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Procedimento de acesso e financiamento\n\n1 - Os projetos concretizados ao abrigo da presente portaria são apresentados por entidade elegível, junto dos centros distritais do ISS, I. P., onde a entidade tenha a sua sede social, através de formulário próprio e enviado para caixa de correio eletrónico criada para o efeito e disponível no site da segurança social.\n\n2 - As candidaturas são decididas de acordo com os critérios e requisitos de elegibilidade previstos nos artigos 3.º e 4.º, avaliação técnica e parecer, sendo o incentivo apurado com base no mapa síntese do orçamento da intervenção a realizar, apresentado na candidatura.\n\n3 - O ISS, I. P., analisa o pedido e emite decisão no prazo de 10 dias úteis após a data de apresentação da candidatura.\n\n4 - As entidades devem manter atualizada a informação relativa à intervenção realizada e disponibilizar a mesma ao ISS, I. P., para efeitos de acompanhamento e monitorização.\n\n5 - A aceitação da decisão da concessão do incentivo é feita mediante assinatura do termo de aceitação, nos termos a definir nos avisos para apresentação da candidatura.\n\n6 - A decisão de aprovação caduca caso não seja assinado o termo de aceitação no prazo máximo de 30 dias a contar da data da decisão.\n\n7 - O ISS, I. P., pode suspender ou cancelar a receção de candidaturas em função do esgotamento da dotação prevista na Resolução do Conselho de Ministros n.º 41/2020, de 6 de junho, para o Programa Adaptar Social +.\n\n8 - Os apoios são atribuídos sob a forma de subvenção não reembolsável e a taxa de incentivo a atribuir é de 80 % sobre o valor total das despesas elegíveis realizadas."
+  },
+  "149070989": {
+   "fragment_id": "149070891",
+   "type": 11,
+   "heading": "Artigo 9.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Pagamentos\n\n1 - Os pagamentos às entidades beneficiárias são efetuados pelo ISS, I. P., após apresentação dos pedidos junto dos centros distritais e através da caixa de correio eletrónica criada para este efeito no site da segurança social.\n\n2 - Os pagamentos obedecem aos seguintes procedimentos:\n\na) É processado um adiantamento automático inicial após a validação do termo de aceitação, no montante equivalente a 50 % do incentivo aprovado;\n\nb) O pedido de pagamento final deve ser apresentado pela entidade beneficiária no prazo máximo de 60 dias úteis após a data de conclusão do projeto, sendo o montante de incentivo apurado com base em declaração de despesa de realização de investimento elegível subscrita pela entidade e confirmada por contabilista certificado ou revisor oficial de contas.\n\n3 - A realização dos pagamentos está dependente da confirmação pelo ISS, I. P., da situação tributária e contributiva regularizada perante a administração fiscal e a segurança social."
+  },
+  "149070990": {
+   "fragment_id": "149070892",
+   "type": 11,
+   "heading": "Artigo 10.º — Cumulação de apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cumulação de apoios\n\n1 - Ao abrigo do Programa Adaptar Social + apenas é aceite uma candidatura por instituição.\n\n2 - Os apoios concedidos ao abrigo do Programa Adaptar Social + não são cumuláveis com quaisquer outros programas ou auxílios públicos para as mesmas despesas."
+  },
+  "149070991": {
+   "fragment_id": "149070893",
+   "type": 11,
+   "heading": "Artigo 11.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Acompanhamento e controlo\n\n1 - A função de controlo e auditoria visa assegurar que os recursos financeiros são utilizados de acordo com os seus objetivos e fins a que se destinam.\n\n2 - O ISS, I. P., desencadeia, por amostragem, ações adequadas de controlo e de auditoria sobre as intervenções apoiadas.\n\n3 - No termo da intervenção é efetuado o encerramento do processo, com base no acompanhamento da execução dos projetos e respetivos pagamentos, nos termos dos artigos 3.º e 4.º e do n.º 5 do artigo 8.º da presente portaria."
+  },
+  "149070992": {
+   "fragment_id": "149070894",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "148957606": {
+   "fragment_id": "149070890",
+   "type": 11,
+   "heading": "Artigo 8.º — Procedimento de acesso e financiamento",
+   "in_force_from": "2020-11-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 269/2020 - Diário da República n.º 226/2020, Série I de 2020-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/269-2020-148963300), em vigor a partir de 2020-11-20"
+   ],
+   "markdown": "###### Artigo 8.º — Procedimento de acesso e financiamento\n\n1 - Os projetos concretizados ao abrigo da presente portaria são apresentados por entidade elegível, junto dos centros distritais do ISS, I. P., onde a entidade tenha a sua sede social, através de formulário próprio e enviado para caixa de correio eletrónico criada para o efeito e disponível no site da segurança social.\n\n2 - As candidaturas são decididas de acordo com os critérios e requisitos de elegibilidade previstos nos artigos 3.º e 4.º, avaliação técnica e parecer, sendo o incentivo apurado com base no mapa síntese do orçamento da intervenção a realizar, apresentado na candidatura.\n\n3 - O ISS, I. P., analisa o pedido e emite decisão no prazo de 10 dias úteis após a data de apresentação da candidatura.\n\n4 - As entidades devem manter atualizada a informação relativa à intervenção realizada e disponibilizar a mesma ao ISS, I. P., para efeitos de acompanhamento e monitorização.\n\n5 - A aceitação da decisão da concessão do incentivo é feita mediante assinatura do termo de aceitação, nos termos a definir nos avisos para apresentação da candidatura.\n\n6 - A decisão de aprovação caduca caso não seja assinado o termo de aceitação no prazo máximo de 30 dias a contar da data da decisão.\n\n7 - É reforçada a dotação do Programa Adaptar Social +, em 9 milhões de euros, com receitas próprias dos jogos sociais inscritas no orçamento da segurança social e destinadas a apoiar as candidaturas submetidas e validadas pelo ISS, I. P., ao abrigo dos Avisos anexos aos Despachos n.º 7971/2020 e 7927/2020, de 7 de agosto, publicados no Diário da República, 2.ª série, n.º 158, de 14 de agosto de 2020.\n\n8 - Os apoios são atribuídos sob a forma de subvenção não reembolsável e a taxa de incentivo a atribuir é de 80 % sobre o valor total das despesas elegíveis realizadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 269/2020 - Diário da República n.º 226/2020, Série I de 2020-11-19](https://diariodarepublica.pt/dr/detalhe/portaria/269-2020-148963300), em vigor a partir de 2020-11-20"
+  },
+  "149070993": {
+   "fragment_id": "149070895",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra do Trabalho, Solidariedade e Segurança Social, Ana Manuel Jerónimo Lopes Correia Mendes Godinho, em 23 de julho de 2020.\n\n113432354"
+  }
+ }
+}

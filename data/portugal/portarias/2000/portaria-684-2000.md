@@ -1,0 +1,219 @@
+---
+schema_version: '1.0'
+id: pt:dre:581237:por
+title: Portaria n.º 684/2000
+short_title: null
+summary: Define as regras para a constituição e atribuição da reserva nacional (RN) no sector leiteiro - Revoga o n.º 2.º
+  da Portaria n.º 115/96, de 12 de Abril
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 684/2000
+official_date: null
+publication_date: '2000-08-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2000, Série I-B de 2000-08-30
+  number: '200'
+  series: I
+  supplement: null
+  pages: 4446 - 4448
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/08/200b00/44464448.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/684/2000/08/30/p/dre/pt/html
+  oj: null
+  dre: '581237'
+  dre_path: /dr/detalhe/portaria/684-2000-581237
+  internal: pt:dre:581237:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-2000-581237
+  metadata_url: https://data.dre.pt/eli/port/684/2000/08/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/684-2000-581237
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-09-03T00:00:00Z'
+integrity:
+  source_sha256: aa76b741c2f39f079e4d8477f5b3dc797249f1b1bcc3de055222839cd6eb5791
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-684-581237.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Leite
+- Direcção Regional de Agricultura
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Instituto de Alimentação e Mercados Agrícolas
+- Produção Leiteira
+- Madeira.região Autónoma
+- Quota de Produção
+- Açores
+- Sistema Nacional de Identificação e Registo de Bovinos
+relationships:
+- type: amended_by
+  target: pt:dre:630843:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31992R3950
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/3950/oj
+- type: cites
+  target: celex:31999R1255
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1255/oj
+- type: cites
+  target: celex:31999R1256
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1256/oj
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/115/1996/04/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/115/1996/04/12/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 684/2000
+
+de 30 de Agosto
+
+As alterações verificadas na regulamentação comunitária relativa ao sector do leite, nomeadamente com a publicação do Regulamento (CE) n.º [1255/99](http://data.europa.eu/eli/reg/1999/1255/oj?locale=pt), de 17 de Maio, e com o Regulamento (CE) n.º [1256/99](http://data.europa.eu/eli/reg/1999/1256/oj?locale=pt), de 17 de Maio, que altera o Regulamento (CE) n.º [3950/92](http://data.europa.eu/eli/reg/1992/3950/oj?locale=pt), de 28 de Dezembro, exigiram a revisão da legislação nacional complementar sobre o sector, consubstanciada parcialmente na publicação do Decreto-Lei n.º 80/2000, de 9 de Maio.
+
+De acordo com o previsto no referido diploma legal importa dar sequência ao quadro regulador do sector, definindo as regras para a constituição e atribuição da reserva nacional, através da introdução de mecanismos que permitam a sua adequada alimentação por via das quantidades captadas a produtores, nomeadamente aos subutilizadores da sua quantidade de referência individual e da subsequente alocação preferencial das quantidades disponíveis numa perspectiva de optimização da sua utilização pelos produtores mais dinâmicos e de uma distribuição regional equilibrada.
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do disposto no n.º 1 do artigo 13.º do Decreto-Lei n.º 80/2000, de 9 de Maio, o seguinte:
+
+1.º A reserva nacional (RN), considerada quer para entregas quer para vendas directas, é constituída pela quantidade de referência (QR) obtida, nomeadamente, através dos seguintes meios:
+
+a) Cessação da actividade;
+
+b) Transferência da QR entre produtores, nos termos do n.º 2.º da presente portaria;
+
+c) Subutilização da QR, de acordo com o n.º 3 do artigo 13.º do Decreto-Lei n.º 80/2000, de 9 de Maio;
+
+d) Aumento da quantidade global garantida;
+
+e) Expropriação, de acordo com o n.º 3 do artigo 10.º do Decreto-Lei n.º 80/2000, de 9 de Maio.
+
+2.º - 1 - Serão aplicadas as seguintes retenções a favor da RN aquando da transferência de QR:
+
+a) 5% da QR transferida nos casos de transmissão de uma exploração, a título gratuito ou oneroso e ou de uma cessão contratual total ou parcial da mesma;
+
+b) 7,5% da QR transferida nos casos de transferência definitiva de QR sem transmissão de exploração.
+
+2 - As retenções previstas no número anterior não são aplicáveis nos seguintes casos:
+
+a) Transferências por herança;
+
+b) Transferências para descendentes em primeiro grau;
+
+c) Transferências entre cônjuges;
+
+d) Constituição de sociedade em que o produtor detenha pelo menos 50% do capital social.
+
+3.º - 1 - Uma quantidade igual a 50% das contribuições de QR para a RN, referidas no n.º 1.º, originadas numa determinada área geográfica e numa determinada campanha, será preferencialmente atribuída, na campanha seguinte, às candidaturas dos produtores cuja exploração leiteira se situe na área geográfica da DRA onde foi gerada essa contribuição, respeitando-se os critérios de atribuição definidos no n.º 5.º
+
+2 - Nas Regiões Autónomas dos Açores e da Madeira, uma quantidade igual a 50% das QR provenientes dos seus produtores, numa determinada campanha, será distribuída preferencialmente, na campanha seguinte, às candidaturas das respectivas regiões, de acordo com os critérios de atribuição definidos no n.º 5.º, podendo, no entanto, ser utilizados critérios de atribuição regionais.
+
+3 - A QR disponível na RN, após aplicação do disposto nos números anteriores, será distribuída do seguinte modo:
+
+74% para os produtores do continente e da Região Autónoma da Madeira, de acordo com os critérios de atribuição definidos no n.º 5.º;
+
+26% para os produtores da Região Autónoma dos Açores, podendo, neste caso, ser utilizados critérios de atribuição regionais.
+
+4.º Para a campanha de 2000-2001, não se aplicam as disposições do número anterior relativamente à QR disponível na RN proveniente da aplicação de acções de resgate efectuadas na campanha transacta, no continente e na Região Autónoma dos Açores, ao abrigo da alínea a) do artigo 8.º do Regulamento (CEE) n.º [3950/92](http://data.europa.eu/eli/reg/1992/3950/oj?locale=pt), de 28 de Dezembro. Esta QR será distribuída do seguinte modo:
+
+50% da referida QR para os produtores da Região Autónoma dos Açores, a distribuir de acordo com critérios regionais;
+
+50% da referida QR para os produtores do continente, a distribuir de acordo com critérios de atribuição definidos no n.º 5.º, sem prejuízo da aplicação do disposto no n.º 3.º, n.º 1.
+
+5.º - 1 - Sem prejuízo do disposto nos n.os 3.º e 4.º, a atribuição da QR disponível na RN será realizada de acordo com os seguintes critérios:
+
+a) Produtor que tenha produzido pelo menos 95% da sua QR na campanha anterior: 5 pontos;
+
+b) Jovem agricultor: 3 pontos;
+
+c) Produtor com uma QR inferior a 60000 kg e que na situação pós-candidatura se proponha atingir uma QR igual ou superior àquela quantidade: 2 pontos;
+
+d) Exploração pertencente a uma zona desfavorecida: 1 ponto;
+
+e) Produtor que não tenha transferido ou cedido temporariamente parte da sua quota nos últimos quatro anos: 1 ponto;
+
+f) Exploração localizada fora das zonas vulneráveis do ponto de vista ambiental, definidas de acordo com o artigo 4.º do Decreto-Lei n.º 235/97, de 3 de Setembro: 1 ponto.
+
+2 - Para efeitos da ordenação dos candidatos, serão aplicados os critérios previstos no número anterior, de forma cumulativa. Cada candidatura é ponderada de acordo com o somatório de pontos atribuídos. As candidaturas com uma pontuação mais elevada são prioritárias no acesso à quota.
+
+3 - Se, após a aplicação do número anterior, existirem situações de empate, serão prioritárias as candidaturas dos produtores que solicitem menores aumentos de QR.
+
+6.º - 1 - As candidaturas à atribuição de uma QR ao abrigo da RN devem ser formalizadas junto das DRA entre o dia 1 de Abril e o dia 30 de Junho de cada campanha, sendo o prazo para a campanha de 2000-2001 alargado até no dia 20 de Outubro de 2000.
+
+2 - Para efeitos do disposto no número anterior, observar-se-ão os seguintes termos:
+
+a) O INGA fornecerá impresso próprio em que o pedido será elaborado sendo acompanhado do comprovativo de compra por parte do comprador relativamente ao nível de produção que o produtor pretende atingir, para o caso das entregas, e da respectiva licença sanitária, no caso das vendas directas;
+
+b) As DRA remeterão ao INGA, durante o mês de Julho de cada ano, uma listagem das candidaturas recebidas juntamente com os respectivos impressos de candidatura, sendo o prazo para a campanha de 2000-2001 alargado para o dia 10 de Novembro de 2000;
+
+c) O INGA procederá à análise e atribuição de quantidades de referência de acordo com os critérios previstos, até ao final do ano de formalização das candidaturas, informando directamente o interessado, bem como o comprador, no caso das entregas;
+
+d) No âmbito da alínea anterior e para efeitos de emissão de parecer final sobre a candidatura, o INGA poderá exigir ao produtor a apresentação de justificativos relativamente às quantidades solicitadas.
+
+3 - Para efeitos da aplicação do regime previsto no presente diploma, a competência atribuída ao INGA nos números anteriores será exercida, na Região Autónoma dos Açores, pelo Instituto de Alimentação e Mercados Agrícolas (IAMA) e, na Região Autónoma da Madeira, pela Direcção Regional de Agricultura da Madeira (DRAM).
+
+4 - O IAMA e a DRAM remeterão ao INGA, no prazo dos 30 dias seguintes à sua recepção, todas as informações referentes a candidaturas e ou atribuições das QR da RN.
+
+7.º Na campanha correspondente à atribuição de uma QR no âmbito de uma candidatura à RN e nas duas campanhas seguintes a QR atribuída não será considerada para efeitos da aplicação do regime geral das subutilizações descrito no n.º 3 do artigo 13.º do Decreto-Lei n.º 80/2000, de 9 de Maio.
+
+8.º Ficam excluídas do acesso à RN candidaturas em que se verifique alguma das seguintes situações:
+
+a) Candidatos que já tenham beneficiado do resgate da quota leiteira;
+
+b) Produtores que tenham transferido, sem terra, ou cedido temporariamente a totalidade da sua quota nos últimos quatro anos;
+
+c) Produtores que não tenham destino para a totalidade da sua produção, designadamente um comprador no caso das entregas ou instalações para tratamento ou produção de produtos lácteos, devidamente licenciadas, no caso das vendas directas;
+
+d) Produtores que não tenham o seu efectivo inscrito no Sistema Nacional de Identificação e Registo de Bovinos (SNIRB), excepto nas primeiras instalações.
+
+9.º É revogado o n.º 2.º da Portaria n.º 115/96, de 12 de Abril.
+
+10.º O presente diploma entra em vigor a partir da sua data de publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado dos Mercados e da Qualidade Alimentar, em 8 de Agosto de 2000.

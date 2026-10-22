@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:220949220:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2023-1177952875",
+ "dre_path": "/dr/detalhe/aviso-extrato/16163-2023-220949220",
+ "source_lastmod": "2026-10-06",
+ "versions": [
+  {
+   "date": "2023-08-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1177966375"
+   ]
+  }
+ ],
+ "fragments": {
+  "1177966375": {
+   "fragment_id": "1177952975",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Para os devidos efeitos e nos termos do disposto no n.º 4 do artigo 25.º da Portaria n.º 233/2022, de 9 de setembro, torna-se público que, por meu despacho, datado de 1 de agosto de 2023, foi homologada a lista unitária de ordenação final do procedimento concursal comum para constituição de relação jurídica de emprego público, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, tendo em vista o preenchimento de um (1) posto de trabalho, previsto e não ocupado no mapa de pessoal do Município de Alpiarça, da categoria de Assistente Operacional, da carreira geral de Assistente Operacional, Área profissional - Auxiliar Administrativo (Apoio aos Órgãos), aberto pelo Aviso n.º 4696/2023, publicado no Diário da República, 2.ª série, n.º 46, de 6 de março de 2023, na BEP com o código de oferta OE202303/0199 e na página eletrónica do Município de Alpiarça.\n\nInforma-se ainda que a lista unitária de ordenação final devidamente homologada se encontra afixada para consulta dos interessados, em local visível e público do Edifício dos Paços do Concelho, sito na Rua José Relvas, 374, 2090-106 Alpiarça, e disponível na página eletrónica do Município em www.cm-alpiarca.pt"
+  }
+ }
+}

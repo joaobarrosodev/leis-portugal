@@ -1,0 +1,129 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:434865:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-975242620",
+ "dre_path": "/dr/detalhe/portaria/1612-a-2007-434865",
+ "source_lastmod": "2026-10-21",
+ "versions": [
+  {
+   "date": "2008-03-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:247032:por",
+     "title": "Portaria n.º 233/2008",
+     "published": "2008-03-12",
+     "dre_path": "/dr/detalhe/portaria/233-2008-247032"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Anexo II",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "975571175",
+    "975571375",
+    "975571575",
+    "1182877975",
+    "975571975",
+    "1182880375",
+    "975572375",
+    "975572575",
+    "1182880575",
+    "1182880775"
+   ]
+  }
+ ],
+ "fragments": {
+  "975571175": {
+   "fragment_id": "975571075",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Os valores da liberdade e da justiça constituem alicerces fundamentais da União Europeia. Estes valores têm vindo a ser aprofundados, constituem património comum dos Estados membros e fazem parte integrante do processo da construção europeia. A sua realização só é possível num quadro de protecção eficaz da fronteira externa comum, componente essencial do espaço europeu de liberdade, segurança e justiça para todos.\n\nA medalha de mérito Liberdade e Segurança na União Europeia visa atribuir o reconhecimento público a pessoas e instituições que contribuam de forma notória, empenhada e decisiva para a construção e aprofundamento da União Europeia, enquanto espaço de livre circulação dos cidadãos.\n\nPela presente portaria especificam-se as regras de concessão da medalha e aprova-se o modelo exclusivo das suas insígnias.\n\nAssim:\n\nManda o Governo, pelo Ministro da Administração Interna, o seguinte:\n\n1.º É aprovado o Regulamento de Concessão da Medalha de Mérito Liberdade e Segurança na União Europeia constante do anexo i à presente portaria e que dela faz parte integrante.\n\n2.º É aprovado o modelo de insígnias da medalha de mérito Liberdade e Segurança na União Europeia, cuja maqueta gráfica e respectiva descrição consta do anexo ii à presente portaria e que dela faz parte integrante.\n\n3.º É aprovado o modelo de diploma da medalha de mérito Liberdade e Segurança na União Europeia constante do anexo iii à presente portaria e que dela faz parte integrante.\n\n4.º A presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "975571375": {
+   "fragment_id": "975571275",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Administração Interna, Rui Carlos Pereira, em 19 de Novembro de 2007."
+  },
+  "975571575": {
+   "fragment_id": "975571475",
+   "type": 14,
+   "heading": "Anexo I — Regulamento de Concessão da Medalha de Mérito Liberdade e Segurança na União Europeia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Regulamento de Concessão da Medalha de Mérito Liberdade e Segurança na União Europeia"
+  },
+  "1182877975": {
+   "fragment_id": "975571675",
+   "type": 11,
+   "heading": "Artigo 1.º — Medalha de mérito Liberdade e Segurança na União Europeia",
+   "in_force_from": "2008-03-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+   ],
+   "markdown": "###### Artigo 1.º — Medalha de mérito Liberdade e Segurança na União Europeia\n\nA medalha de mérito Liberdade e Segurança na União Europeia, adiante designada simplesmente por medalha, é concedida para distinguir as pessoas, singulares ou colectivas, nacionais ou estrangeiras, que se destacam pelas suas iniciativas e actuações no sentido de contribuir para um espaço de liberdade e segurança na Europa, mediante a realização de actos que:\n\na) Visem a concretização da livre circulação de pessoas em todos os Estados membros;\n\nb) Adoptem metodologias e sistemas inovadores que reforcem a segurança comum nas fronteiras externas;\n\nc) Promovam a cooperação entre e com autoridades no âmbito das políticas europeias comuns de imigração e fronteiras.\n\nd) Desenvolvam ou participem em missões ou acções humanitárias, de paz, de manutenção da ordem pública e de salvaguarda dos direitos humanos em países terceiros, em particular no âmbito da Comunidade de Países de Língua Portuguesa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+  },
+  "975571975": {
+   "fragment_id": "975571875",
+   "type": 11,
+   "heading": "Artigo 2.º — Grau",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Grau\n\nA medalha compreende um grau único."
+  },
+  "1182880375": {
+   "fragment_id": "975572075",
+   "type": 11,
+   "heading": "Artigo 3.º — Concessão",
+   "in_force_from": "2008-03-17",
+   "changed_by": [
+    "Alterado pelo/a Assinatura 1.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+   ],
+   "markdown": "###### Artigo 3.º — Concessão\n\n1 - A medalha é concedida por despacho do Ministro da Administração Interna, por sua iniciativa ou por proposta fundamentada dos dirigentes máximos dos serviços e das forças de segurança no âmbito do Ministério da Administração Interna, com base em processo onde se demonstre que a pessoa agraciada preenche os requisitos para a concessão da medalha.\n\n2 - O processo a que se refere o número anterior é sumário e inclui o projecto de despacho de concessão e respectiva fundamentação, a incluir no diploma a que se refere o artigo seguinte, e é instruído pela Direcção-Geral da Administração Interna.\n\n3 - O despacho de concessão da medalha de mérito Liberdade e Segurança na União Europeia é publicado na 2.ª série do Diário da República.\n\n> Alterado pelo/a Assinatura 1.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+  },
+  "975572375": {
+   "fragment_id": "975572275",
+   "type": 11,
+   "heading": "Artigo 4.º — Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Diploma\n\nAo agraciado é entregue um diploma com a transcrição da fundamentação de concessão e assinado pelo autor do despacho de concessão."
+  },
+  "975572575": {
+   "fragment_id": "975572475",
+   "type": 11,
+   "heading": "Artigo 5.º — Apoio administrativo e registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Apoio administrativo e registo\n\nA Direcção-Geral da Administração Interna assegura os mecanismos e disposições necessários para o cumprimento e execução do disposto nesta portaria, incluindo o registo da concessão da medalha."
+  },
+  "1182880575": {
+   "fragment_id": "975572675",
+   "type": 14,
+   "heading": "Anexo II — Insígnias da medalha de mérito Liberdade e Segurança na União Europeia",
+   "in_force_from": "2008-03-17",
+   "changed_by": [
+    "Alterado pelo/a Assinatura 1.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+   ],
+   "markdown": "## Anexo II — Insígnias da medalha de mérito Liberdade e Segurança na União Europeia\n\nMedalha:\n\nDescrição - medalha circular, de 50 mm de diâmetro e 3 mm de espessura, executada em prata dourada;\n\nAnverso - resultante da combinação de formas sobrepostas em chapa por soldagem que contém gravada a inscrição «Liberdade e Segurança na UE - MAI - Portugal», na camada base circular da medalha;\n\nReverso - lisa, contendo gravado o número de registo, o nome da pessoa distinguida com a sua concessão e a data da sua concessão;\n\nFita com 35 mm de largura.\n\n(ver documento original)\n\nGravata de bandeira (concedida a pessoa colectiva com bandeira ou estandarte):\n\nDescrição - gravata constituída por fita de suspensão de seda nas cores de azul e oiro, com a largura de 100 mm e comprimento de 2 m, com a inscrição «Medalha de mérito Liberdade e Segurança na UE - Ministério da Administração Interna - Portugal».\n\n(ver documento original)\n\nInsígnia para peito (concedida a pessoa individual):\n\nDescrição - medalha de 35 mm de diâmetro pendente de uma fita de seda ondeada nas cores azul e oiro, com a largura de 30 mm e com o comprimento necessário para que seja de 90 mm a distância do topo superior da fita ao bordo inferior da medalha.\n\n(ver documento original)\n\nMiniatura (concedida a pessoa individual):\n\nDescrição - medalha de 12 mm de diâmetro pendente de fita de suspensão igual à da insígnia para o peito, com a largura máxima de 15 mm e com comprimento necessário para que seja de 65 mm a distância do topo superior da fita ao bordo inferior da medalha.\n\n(ver documento original)\n\n> Alterado pelo/a Assinatura 1.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+  },
+  "1182880775": {
+   "fragment_id": "975572875",
+   "type": 14,
+   "heading": "Anexo III — Diploma de concessão da medalha de mérito Liberdade e Segurança na União Europeia",
+   "in_force_from": "2008-03-17",
+   "changed_by": [
+    "Alterado pelo/a Assinatura 1.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+   ],
+   "markdown": "## Anexo III — Diploma de concessão da medalha de mérito Liberdade e Segurança na União Europeia\n\n(ver documento original)\n\n> Alterado pelo/a Assinatura 1.º do/a [Portaria n.º 233/2008 - Diário da República n.º 51/2008, Série I de 2008-03-12](https://diariodarepublica.pt/dr/detalhe/portaria/233-2008-247032), em vigor a partir de 2008-03-17."
+  }
+ }
+}

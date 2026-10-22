@@ -1,0 +1,362 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:230112:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1995-853385927",
+ "dre_path": "/dr/detalhe/decreto-lei/72-1995-230112",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1995-04-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "853385548",
+    "853385549",
+    "853385550",
+    "853385551",
+    "853385552",
+    "853385553",
+    "853385554",
+    "853385555",
+    "853385556"
+   ]
+  },
+  {
+   "date": "2001-11-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:589335:por",
+     "title": "Decreto-Lei n.º 285/2001",
+     "published": "2001-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/285-2001-589335"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "853385548",
+    "853798984",
+    "853798986",
+    "853798987",
+    "853798988",
+    "853798989",
+    "853798990",
+    "853798991",
+    "853798992",
+    "853798993",
+    "853798994"
+   ]
+  },
+  {
+   "date": "2002-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:172278:por",
+     "title": "Decreto-Lei n.º 186/2002",
+     "published": "2002-08-21",
+     "dre_path": "/dr/detalhe/decreto-lei/186-2002-172278"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 4.º"
+   ],
+   "fragments": [
+    "853385548",
+    "853798984",
+    "853798986",
+    "853798987",
+    "853798988",
+    "853526957",
+    "853798990",
+    "853798991",
+    "853798992",
+    "853798993",
+    "853798994"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:589335:por",
+     "title": "Decreto-Lei n.º 285/2001",
+     "published": "2001-11-03",
+     "dre_path": "/dr/detalhe/decreto-lei/285-2001-589335",
+     "date": "2011-11-08"
+    }
+   ]
+  },
+  {
+   "date": "2014-11-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58585556:por",
+     "title": "Decreto-Lei n.º 157/2014",
+     "published": "2014-10-24",
+     "dre_path": "/dr/detalhe/decreto-lei/157-2014-58585556"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "853385548",
+    "853526958",
+    "853798986",
+    "853798987",
+    "853798988",
+    "853526957",
+    "853526959",
+    "853798991",
+    "853798992",
+    "853798993",
+    "853798994"
+   ]
+  },
+  {
+   "date": "2015-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67356344:por",
+     "title": "Decreto-Lei n.º 100/2015",
+     "published": "2015-06-02",
+     "dre_path": "/dr/detalhe/decreto-lei/100-2015-67356344"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "853385548",
+    "853526958",
+    "853798986",
+    "853798987",
+    "853526960",
+    "853526957",
+    "853526961",
+    "853798991",
+    "853798992",
+    "853798993",
+    "853798994"
+   ]
+  }
+ ],
+ "fragments": {
+  "853385548": {
+   "fragment_id": "853385928",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 72/95\n\nde 15 de Abril\n\nO Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, não engloba a regulamentação de vários tipos de instituições de crédito admitidos no direito português, entre os quais as sociedades de locação financeira.\n\nTornou-se, pois, necessária a revisão do regime jurídico aplicável às sociedades de locação financeira, na dupla vertente formal e substancial.\n\nSeguindo esta orientação, o presente diploma elimina do regime jurídico das sociedades de locação financeira todas as matérias já previstas no Regime Geral, regulando só aquelas que relevam da consideração de especificidades das sociedades de locação financeira.\n\nSubstancialmente, vem dar-se satisfação às necessidades do sistema financeiro português, marcado pela internacionalização da nossa economia e pela sua integração no mercado único comunitário.\n\nAssim, elimina-se a segmentação entre sociedades de locação financeira mobiliária e imobiliária. Esta distinção já não corresponde às exigências do sistema financeiro e do mercado e prejudica a capacidade de concorrência das sociedades portuguesas de locação financeira, não só perante as congéneres estrangeiras que possam actuar em Portugal, como perante os próprios bancos nacionais que se podem dedicar a qualquer dessas actividades de locação.\n\nDepois, e embora mantendo estas sociedades, como objecto exclusivo, o exercício da actividade de locação financeira, permitem-se-lhes certas operações acessórias ou complementares. Assim, as sociedades de locação financeira poderão dispor dos bens que lhes hajam sido restituídos, quer por motivo de resolução dos contratos, quer pelo facto de o locatário não ter exercido a sua faculdade de compra.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "853385549": {
+   "fragment_id": "853385929",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - As sociedades de locação financeira são instituições de crédito que têm como objecto exclusivo o exercício da actividade de locação financeira.\n\n2 - As sociedades de locação financeira podem, acessoriamente, alienar, ceder a exploração, locar ou efectuar outros actos de administração sobre bens que lhes hajam sido restituídos, quer por motivo de resolução de um contrato de locação financeira, quer em virtude do não exercício pelo locatário do direito de adquirir a respectiva propriedade."
+  },
+  "853385550": {
+   "fragment_id": "853385930",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\nAs sociedades de locação financeira regem-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras."
+  },
+  "853385551": {
+   "fragment_id": "853385931",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação\n\nA designação de sociedade de locação financeira, sociedade de leasing ou outra que com elas se confunda não pode ser usada por outras entidades que não as previstas no presente diploma."
+  },
+  "853385552": {
+   "fragment_id": "853385932",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\nPara além dos bancos, só as sociedades de locação financeira podem celebrar, de forma habitual, na qualidade de locador, contratos de locação financeira."
+  },
+  "853385553": {
+   "fragment_id": "853385933",
+   "type": 11,
+   "heading": "Artigo 5.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recursos\n\nAs sociedades de locação financeira só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei e sem obediência aos limites fixados no Código das Sociedades Comerciais, bem como de «papel comercial»;\n\nb) Financiamentos concedidos por outras instituições de crédito, nomeadamente no âmbito do mercado interbancário, se a regulamentação aplicável a este mercado o não proibir, bem como por instituições financeiras internacionais;\n\nc) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras."
+  },
+  "853385554": {
+   "fragment_id": "853385934",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações cambiais\n\nAs sociedades de locação financeira podem realizar as operações cambiais necessárias ao exercício das suas actividades."
+  },
+  "853385555": {
+   "fragment_id": "853385935",
+   "type": 11,
+   "heading": "Artigo 7.º — Consórcios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Consórcios\n\nAs entidades habilitadas a exercer a actividade de locação financeira podem constituir consórcios para a realização de operações de locação financeira."
+  },
+  "853385556": {
+   "fragment_id": "853385936",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 103/86, de 19 de Maio."
+  },
+  "853798984": {
+   "fragment_id": "853385929",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2001-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2001-11-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - As sociedades de locação financeira são instituições de crédito que têm por objecto principal o exercício da actividade de locação financeira.\n\n2 - As sociedades de locação financeira podem, como actividade acessória:\n\na) Alienar, ceder a exploração, locar ou efectuar outros actos de administração sobre bens que lhes hajam sido restituídos, quer por motivo de resolução de um contrato de locação financeira, quer em virtude do não exercício pelo locatário do direito de adquirir a respectiva propriedade;\n\nb) Locar bens móveis fora das condições referidas na alínea anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2001-11-08"
+  },
+  "853798986": {
+   "fragment_id": "853818486",
+   "type": 11,
+   "heading": "Artigo 1.º-A — Prestação de serviços por terceiros",
+   "in_force_from": "2011-11-08",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2011-11-08"
+   ],
+   "markdown": "###### Artigo 1.º-A — Prestação de serviços por terceiros\n\nEncontra-se vedada às sociedades de locação financeira a prestação dos serviços complementares da actividade de locação operacional, nomeadamente a manutenção e a assistência técnica dos bens locados, podendo, no entanto, contratar a prestação desses serviços por terceira entidade.\n\n> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2011-11-08"
+  },
+  "853798987": {
+   "fragment_id": "853385930",
+   "type": 11,
+   "heading": "Artigo 2.º — Regime jurídico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Regime jurídico\n\nAs sociedades de locação financeira regem-se pelo disposto no presente diploma e pelas disposições aplicáveis do Regime Geral das Instituições de Crédito e Sociedades Financeiras."
+  },
+  "853798988": {
+   "fragment_id": "853385931",
+   "type": 11,
+   "heading": "Artigo 3.º — Designação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Designação\n\nA designação de sociedade de locação financeira, sociedade de leasing ou outra que com elas se confunda não pode ser usada por outras entidades que não as previstas no presente diploma."
+  },
+  "853798989": {
+   "fragment_id": "853385932",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\nPara além dos bancos, só as sociedades de locação financeira podem celebrar, de forma habitual, na qualidade de locador, contratos de locação financeira."
+  },
+  "853798990": {
+   "fragment_id": "853385933",
+   "type": 11,
+   "heading": "Artigo 5.º — Recursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Recursos\n\nAs sociedades de locação financeira só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei e sem obediência aos limites fixados no Código das Sociedades Comerciais, bem como de «papel comercial»;\n\nb) Financiamentos concedidos por outras instituições de crédito, nomeadamente no âmbito do mercado interbancário, se a regulamentação aplicável a este mercado o não proibir, bem como por instituições financeiras internacionais;\n\nc) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras."
+  },
+  "853798991": {
+   "fragment_id": "853385934",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações cambiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações cambiais\n\nAs sociedades de locação financeira podem realizar as operações cambiais necessárias ao exercício das suas actividades."
+  },
+  "853798992": {
+   "fragment_id": "853385935",
+   "type": 11,
+   "heading": "Artigo 7.º — Consórcios",
+   "in_force_from": "2001-11-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2001-11-08"
+   ],
+   "markdown": "###### Artigo 7.º — Consórcios\n\nAs entidades habilitadas a exercer a actividade de locação financeira podem constituir consórcios para a realização de operações que constituem o seu objecto.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2001-11-08"
+  },
+  "853798993": {
+   "fragment_id": "853385936",
+   "type": 11,
+   "heading": "Artigo 8.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Norma revogatória\n\nÉ revogado o Decreto-Lei n.º 103/86, de 19 de Maio."
+  },
+  "853798994": {
+   "fragment_id": "853385937",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 2 de Fevereiro de 1995. - Aníbal António Cavaco Silva - Eduardo de Almeida Catroga.\n\nPromulgado em 9 de Março de 1995.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 13 de Março de 1995.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "853526957": {
+   "fragment_id": "853385932",
+   "type": 11,
+   "heading": "Artigo 4.º — Exclusividade",
+   "in_force_from": "2002-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+   ],
+   "markdown": "###### Artigo 4.º — Exclusividade\n\nPara além dos bancos, só as sociedades de locação financeira podem celebrar, de forma habitual, na qualidade de locador, contratos de locação financeira.\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 186/2002 - Diário da República n.º 192/2002, Série I-A de 2002-08-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/186-2002-172278), em vigor a partir de 2002-08-22"
+  },
+  "853526958": {
+   "fragment_id": "853385929",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2001-11-08"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - As sociedades de locação financeira são sociedades financeiras que têm por objeto principal o exercício da atividade de locação financeira.\n\n2 - As sociedades de locação financeira podem, como actividade acessória:\n\na) Alienar, ceder a exploração, locar ou efectuar outros actos de administração sobre bens que lhes hajam sido restituídos, quer por motivo de resolução de um contrato de locação financeira, quer em virtude do não exercício pelo locatário do direito de adquirir a respectiva propriedade;\n\nb) Locar bens móveis fora das condições referidas na alínea anterior.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 285/2001 - Diário da República n.º 255/2001, Série I-A de 2001-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-2001-589335), em vigor a partir de 2001-11-08"
+  },
+  "853526959": {
+   "fragment_id": "853385933",
+   "type": 11,
+   "heading": "Artigo 5.º — Recursos",
+   "in_force_from": "2014-11-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 5.º — Recursos\n\nAs sociedades de locação financeira só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, elevando os limites fixados no Código das Sociedades Comerciais até ao quádruplo dos seus capitais próprios, bem como de papel comercial;\n\nb) Financiamentos concedidos por instituições de crédito, nomeadamente no âmbito do mercado interbancário, se a regulamentação aplicável a este mercado o não proibir, bem como por instituições financeiras;\n\nc) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  },
+  "853526960": {
+   "fragment_id": "853385931",
+   "type": 11,
+   "heading": "Artigo 3.º — Forma e verdade da firma",
+   "in_force_from": "2015-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07"
+   ],
+   "markdown": "###### Artigo 3.º — Forma e verdade da firma\n\n1 - As sociedades de locação financeira adotam a forma de sociedade anónima.\n\n2 - A designação de sociedade de locação financeira, sociedade de leasing ou outra que com elas se confunda não pode ser usada por outras entidades que não as previstas no presente diploma.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07"
+  },
+  "853526961": {
+   "fragment_id": "853385933",
+   "type": 11,
+   "heading": "Artigo 5.º — Recursos",
+   "in_force_from": "2015-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07",
+    "Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+   ],
+   "markdown": "###### Artigo 5.º — Recursos\n\n1- As sociedades de locação financeira só podem financiar a sua actividade com fundos próprios e através dos seguintes recursos:\n\na) Emissão de obrigações de qualquer espécie, nas condições previstas na lei, em montante que não exceda o quádruplo dos seus capitais próprios, considerando a soma do preço de subscrição de todas as obrigações emitidas e não amortizadas, bem como emissão de papel comercial;\n\nb) Financiamentos concedidos por instituições de crédito, nomeadamente no âmbito do mercado interbancário, se a regulamentação aplicável a este mercado o não proibir, bem como por instituições financeiras;\n\nc) Financiamentos previstos nas alíneas a) e d) do n.º 2 do artigo 9.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras.\n\n2 - Para efeitos do disposto na alínea a) do número anterior, entende-se por capitais próprios o somatório do capital realizado, deduzidas as ações próprias, com as reservas, os resultados transitados e os ajustamentos em ativos financeiros.\n\n> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 100/2015 - Diário da República n.º 106/2015, Série I de 2015-06-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/100-2015-67356344), em vigor a partir de 2015-06-07\n\n> Alterado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 157/2014 - Diário da República n.º 206/2014, Série I de 2014-10-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/157-2014-58585556), em vigor a partir de 2014-11-23"
+  }
+ }
+}

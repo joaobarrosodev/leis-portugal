@@ -1,0 +1,240 @@
+---
+schema_version: '1.0'
+id: pt:dre:283565:por
+title: Despacho Normativo n.º 148/94
+short_title: null
+summary: Aprova o Regulamento do Estágio para Ingresso nas Carreiras Técnica Superior, Técnica e de Informática do Quadro
+  do Pessoal da Direcção-Geral de Transportes Terrestres
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 148/94
+official_date: null
+publication_date: '1994-03-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 63/1994, Série I-B de 1994-03-16
+  number: '63'
+  series: I
+  supplement: null
+  pages: 1308 - 1309
+  pdf_url: https://files.diariodarepublica.pt/1s/1994/03/063b00/13081309.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/148/1994/03/16/p/dre/pt/html
+  oj: null
+  dre: '283565'
+  dre_path: /dr/detalhe/despacho-normativo/148-1994-283565
+  internal: pt:dre:283565:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/148-1994-283565
+  metadata_url: https://data.dre.pt/eli/despnorm/148/1994/03/16/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/148-1994-283565
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-03-16T00:00:00Z'
+integrity:
+  source_sha256: 8bf89403f9eeea49718c47a566c1ce100b0e4ec58754489b585cc18434b58e11
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1994/DRE-1994-148-283565.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral dos Transportes Terrestres
+- Pessoal de Informática
+- Pessoal Técnico
+- Pessoal Técnico Superior
+- Estágio de Formação
+- Regulamento de Estágio
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/23/1991/01/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/773/1991/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/773/1991/08/07/p/dre
+article_structure:
+  article_count: 16
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 148/94
+
+Ao abrigo dos n.os 9 e 10 do artigo 26.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro, e em observância das regras fixadas no artigo 5.º do [Decreto-Lei n.º 265/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/265-1988-378358), de 28 de Julho, e no artigo 11.º do [Decreto-Lei n.º 23/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-1991-693840), de 11 de Janeiro, determina-se o seguinte:
+
+1 - É aprovado o Regulamento do Estágio para Ingresso nas Carreiras Técnica Superior, Técnica e de Informática do Quadro do Pessoal da Direcção-Geral de Transportes Terrestres, anexo a este despacho e dele fazendo parte integrante.
+
+2 - O presente Regulamento aplica-se aos processos de recrutamento e selecção de pessoal para ingresso nas carreiras referidas no n.º 1 já iniciados à data da sua entrada em vigor.
+
+3 - O Regulamento entra em vigor no dia seguinte ao da sua publicação.
+
+Ministério das Obras Públicas, Transportes e Comunicações, 16 de Fevereiro de 1994. - Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
+
+Regulamento do Estágio para Ingresso nas Carreiras Técnica Superior, Técnica e de Informática do Quadro de Pessoal da Direcção-Geral de Transportes Terrestres.
+
+### CAPÍTULO I — Âmbito de aplicação e objectivos
+
+###### Artigo 1.º — Âmbito de aplicação
+
+O presente Regulamento aplica-se ao estágio para ingresso nas carreiras técnica superior, técnica e de informática do quadro de pessoal da Direcção-Geral de Transportes Terrestres.
+
+###### Artigo 2.º — Objectivos
+
+O estágio tem como objectivos:
+
+a) A preparação e a formação dos estagiários com vista ao desempenho eficaz e competente das funções para que foram recrutados;
+
+b) A avaliação da respectiva capacidade de adaptação.
+
+### CAPÍTULO II — Da realização do estágio
+
+###### Artigo 3.º — Natureza e duração
+
+O estágio tem carácter probatório e duração de 12 meses.
+
+###### Artigo 4.º — Programa de estágio
+
+1 - Os programas dos cursos a leccionar são elaborados por cada uma das unidades orgânicas a que se destina o recrutamento, tomando como referência as funções a desempenhar pelos estagiários, cabendo à Direcção de Serviços de Administração coordenar a respectiva articulação e submetê-los à apreciação do director-geral.
+
+2 - Os programas referidos, uma vez aprovados, serão publicitados por ordem de serviço.
+
+3 - Os estagiários poderão, durante o período de estágio, ser colocados nas várias unidades orgânicas por determinação do director-geral.
+
+###### Artigo 5.º — Orientação do estágio
+
+1 - O estágio decorrerá sob orientação de um dirigente a nomear pelo director-geral.
+
+2 - Ao orientador compete:
+
+a) Definir o plano de estágio e submetê-lo à aprovação do director-geral;
+
+b) Acompanhar o desenvolvimento do estágio, atribuindo ao estagiário, gradativamente, tarefas de maior dificuldade e responsabilidade;
+
+c) Definir as acções de formação complementar necessárias à adaptação e desempenho das respectivas funções;
+
+d) Avaliar o resultado das acções de formação através da sua aplicação no exercício das funções;
+
+e) Atribuir a classificação de serviço relativa ao período de estágio.
+
+###### Artigo 6.º — Plano de estágio
+
+1 - O estágio engloba duas fases:
+
+a) Fase de sensibilização;
+
+b) Fase teórico-prática;
+
+2 - A fase de sensibilização destina-se, essencialmente, a proporcionar aos estagiários uma visão integral e globalizante das atribuições e competências da Direcção-Geral de Transportes Terrestres, bem como de uma visão global dos direitos e deveres dos funcionários da Administração Pública.
+
+3 - A fase teórico-prática destina-se a:
+
+a) Proporcionar ao estagiário uma ideia mais detalhada das atribuições, competências e estrutura do serviço onde é colocado e a sua articulação com os outros serviços;
+
+b) Contribuir para a aquisição de métodos de trabalho e de estudo, com vista ao exercício das respectivas funções;
+
+c) Fornecer formação complementar, quando a natureza das funções a desempenhar o exija;
+
+d) Servir para avaliar a capacidade de adaptação à função.
+
+###### Artigo 7.º — Formação profissional
+
+1 - O serviço onde o estagiário irá desempenhar funções deve facilitar a frequência das acções de formação incluídas no respectivo plano de estágio.
+
+2 - Aos estagiários para ingresso nas carreiras específicas de pessoal de informática serão ministrados cursos de formação directamente relacionados com as funções a exercer, de harmonia com o estabelecido no mapa anexo à [Portaria n.º 773/91](https://diariodarepublica.pt/dr/detalhe/portaria/773-1991-681608), de 7 de Agosto.
+
+### CAPÍTULO III — Da avaliação e classificação final
+
+###### Artigo 8.º — Elementos de avaliação
+
+A avaliação e classificação final terão em atenção o relatório de estágio a apresentar por cada estagiário, a classificação de serviço obtida durante o período de estágio e, sempre que o programa os inclua, os resultados dos cursos de formação profissional sujeitos a classificação.
+
+###### Artigo 9.º — Relatório de estágio
+
+1 - Cada estagiário deverá elaborar um relatório de estágio a apresentar ao júri no prazo de 10 dias úteis contados a partir do termo do estágio.
+
+2 - Os temas que deverão ser objecto do relatório de estágio serão previamente divulgados aos estagiários pelo júri.
+
+###### Artigo 10.º — Classificação de serviço
+
+Os dirigentes dos serviços em que os estagiários hajam sido colocados reunirão com o orientador de estágio para atribuição da classificação de serviço, atentas as regras constantes do Decreto Regulamentar n.º 44-B/83, de 1 de Junho.
+
+###### Artigo 11.º — Cursos de formação profissional
+
+1 - A avaliação das acções de formação resultará da média aritmética, simples ou ponderada, das notas que lhes tenham sido atribuídas.
+
+2 - A classificação deste factor de avaliação será estabelecida numa escala de 0 a 20.
+
+###### Artigo 12.º — Constituição e composição do júri
+
+1 - A avaliação e classificação final competem a um júri designado, para o efeito, pelo director-geral, do qual fará sempre parte o orientador do estágio.
+
+2 - Em matéria de constituição, composição, funcionamento e competência do júri aplicam-se as regras previstas na lei geral sobre concursos na função pública, com as necessárias adaptações.
+
+###### Artigo 13.º — Classificação final
+
+A classificação final traduzir-se-á numa escala de 0 a 20 valores e resultará de uma média, simples ou ponderada, das pontuações obtidas em:
+
+Relatório de estágio;
+
+Classificação de serviço;
+
+Cursos de formação profissional, quando incluídos no plano de estágio.
+
+###### Artigo 14.º — Ordenação final dos estagiários
+
+1 - Os estagiários serão ordenados pelo júri em função da classificação final do estágio, não se considerando aprovados os que tiverem obtido classificação inferior a Bom (14 valores).
+
+2 - Para efeitos do disposto no número anterior, serão arredondadas para 14 valores as classificações finais de estágio iguais ou superiores a 13,5 valores.
+
+3 - Sempre que se verifique igualdade de classificação, compete ao júri estabelecer critérios de desempate.
+
+4 - A lista de classificação final é notificada aos interessados, que, no prazo de 10 dias úteis, podem, mediante requerimento dirigido ao presidente do júri do estágio, pronunciar-se sobre a classificação obtida.
+
+###### Artigo 15.º — Homologação e publicitação da lista de classificação final
+
+1 - No prazo de 10 dias úteis subsequente ao termo do prazo referido no n.º 4 do artigo anterior, o júri de estágio apreciará os requerimentos que porventura lhe tenham sido dirigidos e submeterá ao director-geral, para homologação, a lista de classificação final.
+
+2 - Não havendo requerimentos a apreciar, o júri de estágio, no primeiro dia útil seguinte ao termo do prazo estabelecido no n.º 4 do artigo anterior, submeterá a lista de classificação final ao director-geral para homologação.
+
+3 - A lista de classificação final, depois de homologada, deverá ser publicitada nos termos estabelecidos no artigo 33.º do [Decreto-Lei n.º 498/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/498-1988-401758), de 30 de Dezembro.
+
+###### Artigo 16.º — Reclamações e recursos
+
+Às reclamações e recursos aplicam-se, com as necessárias adaptações, as regras previstas na lei geral sobre concursos de recrutamento e selecção de pessoal na função pública.

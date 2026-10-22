@@ -1,0 +1,1189 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:574127:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1990-34540475",
+ "dre_path": "/dr/detalhe/lei/48-1990-574127",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1990-08-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124445349",
+    "48833875",
+    "48833975",
+    "48834075",
+    "48834175",
+    "48834275",
+    "48834375",
+    "48834475",
+    "48834575",
+    "48834675",
+    "48834775",
+    "48834875",
+    "48834975",
+    "48835075",
+    "48835175",
+    "48835275",
+    "48835375",
+    "48835475",
+    "48835575",
+    "48835675",
+    "48835775",
+    "48835875",
+    "48835975",
+    "48836075",
+    "48836175",
+    "48836275",
+    "48836375",
+    "48836475",
+    "48836575",
+    "48836675",
+    "48836775",
+    "48836875",
+    "48836975",
+    "48837075",
+    "48837175",
+    "48837275",
+    "48837375",
+    "48837475",
+    "48837575",
+    "48837675",
+    "48837775",
+    "48837875",
+    "48837975",
+    "48838075",
+    "48838175",
+    "48838275",
+    "48838375",
+    "48838475",
+    "48838575",
+    "48838675",
+    "48838775"
+   ]
+  },
+  {
+   "date": "2003-01-09",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:425487:por",
+     "title": "Lei n.º 27/2002",
+     "published": "2002-11-08",
+     "dre_path": "/dr/detalhe/lei/27-2002-425487"
+    }
+   ],
+   "changes": [
+    "Altera Base XXXI",
+    "Altera Base XXXIII",
+    "Altera Base XXXVI",
+    "Altera Base XL"
+   ],
+   "fragments": [
+    "48833775",
+    "48833875",
+    "48833975",
+    "48834075",
+    "48834175",
+    "48834275",
+    "48834375",
+    "48834475",
+    "48834575",
+    "48834675",
+    "48834775",
+    "48834875",
+    "48834975",
+    "48835075",
+    "48835175",
+    "48835275",
+    "48835375",
+    "48835475",
+    "48835575",
+    "48835675",
+    "48835775",
+    "48835875",
+    "48835975",
+    "48836075",
+    "48836175",
+    "48836275",
+    "48836375",
+    "48836475",
+    "48836575",
+    "48836675",
+    "48836775",
+    "48836875",
+    "48836975",
+    "48837075",
+    "57467587",
+    "48837275",
+    "57467588",
+    "48837475",
+    "48837575",
+    "57467589",
+    "48837775",
+    "48837875",
+    "48837975",
+    "48838075",
+    "57467590",
+    "48838275",
+    "48838375",
+    "48838475",
+    "48838575",
+    "48838675",
+    "48838775",
+    "48838875"
+   ]
+  },
+  {
+   "date": "2019-11-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124417108:por",
+     "title": "Lei n.º 95/2019",
+     "published": "2019-09-04",
+     "dre_path": "/dr/detalhe/lei/95-2019-124417108"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "124445349",
+    "124445350",
+    "124445351",
+    "124445352",
+    "124445353",
+    "124445354",
+    "124445355",
+    "124445356",
+    "124445357",
+    "124445358",
+    "124445359",
+    "124445360",
+    "124445361",
+    "124445362",
+    "124445363",
+    "124445364",
+    "124445365",
+    "124445366",
+    "124445367",
+    "124445368",
+    "124445369",
+    "124445370",
+    "124445371",
+    "124445372",
+    "124445373",
+    "124445374",
+    "124482675",
+    "124482676",
+    "124482677",
+    "124482678",
+    "124482679",
+    "124482680",
+    "124482681",
+    "124482682",
+    "124482683",
+    "124482684",
+    "124482685",
+    "124482686",
+    "124482687",
+    "124482688",
+    "124482689",
+    "124482690",
+    "124482691",
+    "124482692",
+    "124482693",
+    "124482694",
+    "124482695",
+    "124482696",
+    "124482697",
+    "124482698",
+    "124482699",
+    "124482700"
+   ]
+  }
+ ],
+ "fragments": {
+  "124445349": {
+   "fragment_id": "35160275",
+   "type": 15,
+   "heading": "Diploma — Lei de Bases da Saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea f), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "48833875": {
+   "fragment_id": "35810975",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "48833975": {
+   "fragment_id": "37346775",
+   "type": 2,
+   "heading": "Base I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Princípios gerais\n\n1 - A protecção da saúde constitui um direito dos indivíduos e da comunidade que se efectiva pela responsabilidade conjunta dos cidadãos, da sociedade e do Estado, em liberdade de procura e de prestação de cuidados, nos termos da Constituição e da lei.\n\n2 - O Estado promove e garante o acesso de todos os cidadãos aos cuidados de saúde nos limites dos recursos humanos, técnicos e financeiros disponíveis.\n\n3 - A promoção e a defesa da saúde pública são efectuadas através da actividade do Estado e de outros entes públicos, podendo as organizações da sociedade civil ser associadas àquela actividade.\n\n4 - Os cuidados de saúde são prestados por serviços e estabelecimentos do Estado ou, sob fiscalização deste, por outros entes públicos ou por entidades privadas, sem ou com fins lucrativos."
+  },
+  "48834075": {
+   "fragment_id": "37346875",
+   "type": 2,
+   "heading": "Base II — Política de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Política de saúde\n\n1 - A política de saúde tem âmbito nacional e obedece às directrizes seguintes:\n\na) A promoção da saúde e a prevenção da doença fazem parte das prioridades no planeamento das actividades do Estado;\n\nb) É objectivo fundamental obter a igualdade dos cidadãos no acesso aos cuidados de saúde, seja qual for a sua condição económica e onde quer que vivam, bem como garantir a equidade na distribuição de recursos e na utilização de serviços;\n\nc) São tomadas medidas especiais relativamente a grupos sujeitos a maiores riscos, tais como as crianças, os adolescentes, as grávidas, os idosos, os deficientes, os toxicodependentes e os trabalhadores cuja profissão o justifique;\n\nd) Os serviços de saúde estruturam-se e funcionam de acordo com o interesse dos utentes e articulam-se entre si e ainda com os serviços de segurança e bem-estar social;\n\ne) A gestão dos recursos disponíveis deve ser conduzida por forma a obter deles o maior proveito socialmente útil e a evitar o desperdício e a utilização indevida dos serviços;\n\nf) É apoiado o desenvolvimento do sector privado da saúde e, em particular, as iniciativas das instituições particulares de solidariedade social, em concorrência com o sector público;\n\ng) É promovida a participação dos indivíduos e da comunidade organizada na definição da política de saúde e planeamento e no controlo do funcionamento dos serviços;\n\nh) É incentivada a educação das populações para a saúde, estimulando nos indivíduos e nos grupos sociais a modificação dos comportamentos nocivos à saúde pública ou individual;\n\ni) É estimulada a formação e a investigação para a saúde, devendo procurar-se envolver os serviços, os profissionais e a comunidade.\n\n2 - A política de saúde tem carácter evolutivo, adaptando-se permanentemente às condições da realidade nacional, às suas necessidades e aos seus recursos."
+  },
+  "48834175": {
+   "fragment_id": "37346975",
+   "type": 2,
+   "heading": "Base III — Natureza da legislação sobre saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III — Natureza da legislação sobre saúde\n\nA legislação sobre saúde é de interesse e ordem públicos, pelo que a sua inobservância implica responsabilidade penal, contra-ordenacional, civil e disciplinar, conforme o estabelecido na lei."
+  },
+  "48834275": {
+   "fragment_id": "37347075",
+   "type": 2,
+   "heading": "Base IV — Sistema de saúde e outras entidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV — Sistema de saúde e outras entidades\n\n1 - O sistema de saúde visa a efectivação do direito à protecção da saúde.\n\n2 - Para efectivação do direito à protecção da saúde, o Estado actua através de serviços próprios, celebra acordos com entidades privadas para a prestação de cuidados e apoia e fiscaliza a restante actividade privada na área da saúde.\n\n3 - Os cidadãos e as entidades públicas e privadas devem colaborar na criação de condições que permitam o exercício do direito à protecção da saúde e a adopção de estilos de vida saudáveis."
+  },
+  "48834375": {
+   "fragment_id": "37347175",
+   "type": 2,
+   "heading": "Base V — Direitos e deveres dos cidadãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V — Direitos e deveres dos cidadãos\n\n1 - Os cidadãos são os primeiros responsáveis pela sua própria saúde, individual e colectiva, tendo o dever de a defender e promover.\n\n2 - Os cidadãos têm direito a que os serviços públicos de saúde se constituam e funcionem de acordo com os seus legítimos interesses.\n\n3 - É reconhecida a liberdade de prestação de cuidados de saúde, com as limitações decorrentes da lei, designadamente no que respeita a exigências de qualificação profissional.\n\n4 - A liberdade de prestação de cuidados de saúde abrange a faculdade de se constituírem entidades sem ou com fins lucrativos que visem aquela prestação.\n\n5 - É reconhecida a liberdade de escolha no acesso à rede nacional de prestação de cuidados de saúde, com as limitações decorrentes dos recursos existentes e da organização dos serviços."
+  },
+  "48834475": {
+   "fragment_id": "37347275",
+   "type": 2,
+   "heading": "Base VI — Responsabilidade do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI — Responsabilidade do Estado\n\n1 - O Governo define a política de saúde.\n\n2 - Cabe ao Ministério da Saúde propor a definição da política nacional de saúde, promover e vigiar a respectiva execução e coordenar a sua acção com a dos ministérios que tutelam áreas conexas.\n\n3 - Todos os departamentos, especialmente os que actuam nas áreas específicas da segurança e bem-estar social, da educação, do emprego, do desporto, do ambiente, da economia, do sistema fiscal, da habitação e do urbanismo, devem ser envolvidos na promoção da saúde.\n\n4 - Os serviços centrais do Ministério da Saúde exercem, em relação ao Serviço Nacional de Saúde, funções de regulamentação, orientação, planeamento, avaliação e inspecção."
+  },
+  "48834575": {
+   "fragment_id": "37347375",
+   "type": 2,
+   "heading": "Base VII — Conselho Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VII — Conselho Nacional de Saúde\n\n1 - O Conselho Nacional de Saúde representa os interessados no funcionamento das entidades prestadoras de cuidados de saúde e é um órgão de consulta do Governo.\n\n2 - O Conselho Nacional de Saúde inclui representantes dos utentes, nomeadamente dos subsistemas de saúde, dos seus trabalhadores, dos departamentos governamentais com áreas de actuação conexas e de outras entidades.\n\n3 - Os representantes dos utentes são eleitos pela Assembleia da República.\n\n4 - A composição, a competência e o funcionamento do Conselho Nacional de Saúde constam da lei."
+  },
+  "48834675": {
+   "fragment_id": "37347475",
+   "type": 2,
+   "heading": "Base VIII — Regiões autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VIII — Regiões autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira a política de saúde é definida e executada pelos órgãos do governo próprio, em obediência aos princípios estabelecidos pela Constituição da República e pela presente lei.\n\n2 - A presente lei é aplicável às Regiões Autónomas dos Açores e da Madeira, que devem publicar regulamentação própria em matéria de organização, funcionamento e regionalização dos serviços de saúde."
+  },
+  "48834775": {
+   "fragment_id": "37347575",
+   "type": 2,
+   "heading": "Base IX — Autarquias locais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IX — Autarquias locais\n\nSem prejuízo de eventual transferência de competências, as autarquias locais participam na acção comum a favor da saúde colectiva e dos indivíduos, intervêm na definição das linhas de actuação em que estejam directamente interessadas e contribuem para a sua efectivação dentro das suas atribuições e responsabilidades."
+  },
+  "48834875": {
+   "fragment_id": "37347675",
+   "type": 2,
+   "heading": "Base X — Relações internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base X — Relações internacionais\n\n1 - Tendo em vista a indivisibilidade da saúde na comunidade internacional, o Estado Português reconhece as consequentes interdependências sanitárias a nível mundial e assume as respectivas responsabilidades.\n\n2 - O Estado Português apoia as organizações internacionais de saúde de reconhecido prestígio, designadamente a Organização Mundial de Saúde, coordena a sua política com as grandes orientações dessas organização e garante o cumprimento dos compromissos internacionais livremente assumidos.\n\n3 - Como Estado membro das Comunidades Europeias, Portugal intervém na tomada de decisões em matéria de saúde a nível comunitário, participa nas acções que se desenvolvem a esse nível e assegura as medidas a nível interno decorrentes de tais decisões.\n\n4 - Em particular, Portugal defende o progressivo incremento da acção comunitária visando a melhoria da saúde pública, especialmente nas regiões menos favorecidas e no quadro do reforço da coesão económica e social fixado pelo Acto Único Europeu.\n\n5 - É estimulada a cooperação com outros países, no âmbito da saúde, em particular com os países africanos de língua oficial portuguesa."
+  },
+  "48834975": {
+   "fragment_id": "37347775",
+   "type": 2,
+   "heading": "Base XI — Defesa sanitária das fronteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XI — Defesa sanitária das fronteiras\n\n1 - O Estado Português promove a defesa sanitária das suas fronteiras, com respeito pelas regras gerais emitidas pelos organismos competentes.\n\n2 - Em especial, cabe aos organismos competentes estudar, propor, executar e fiscalizar as medidas necessárias para prevenir a importação ou exportação das doenças submetidas ao Regulamento Sanitário Internacional, enfrentar a ameaça de expansão de doenças transmissíveis e promover todas as operações sanitárias exigidas pela defesa da saúde da comunidade internacional."
+  },
+  "48835075": {
+   "fragment_id": "35811075",
+   "type": 1,
+   "heading": "Capítulo II — Das entidades prestadoras dos cuidados de saúde em geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Das entidades prestadoras dos cuidados de saúde em geral"
+  },
+  "48835175": {
+   "fragment_id": "37347875",
+   "type": 2,
+   "heading": "Base XII — Sistema de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Sistema de saúde\n\n1 - O sistema de saúde é constituído pelo Serviço Nacional de Saúde e por todas as entidades públicas que desenvolvam actividades de promoção, prevenção e tratamento na área da saúde, bem como por todas as entidades privadas e por todos os profissionais livres que acordem com a primeira a prestação de todas ou de algumas daquelas actividades.\n\n2 - O Serviço Nacional de Saúde abrange todas as instituições e serviços oficiais prestadores de cuidados de saúde dependentes do Ministério da Saúde e dispõe de estatuto próprio.\n\n3 - O Ministério da Saúde e as administrações regionais de saúde podem contratar com entidades privadas a prestação de cuidados de saúde aos beneficiários do Serviço Nacional de Saúde sempre que tal se afigure vantajoso, nomeadamente face à consideração do binómio qualidade-custos, e desde que esteja garantido o direito de acesso.\n\n4 - A rede nacional de prestação de cuidados de saúde abrange os estabelecimentos do Serviço Nacional de Saúde e os estabelecimentos privados e os profissionais em regime liberal com quem sejam celebrados contratos nos termos do número anterior.\n\n5 - Tendencialmente, devem ser adoptadas as mesmas regras no pagamento de cuidados e no financiamento de unidades de saúde da rede nacional da prestação de cuidados de saúde.\n\n6 - O controlo de qualidade de toda a prestação de cuidados de saúde está sujeito ao mesmo nível de exigência."
+  },
+  "48835275": {
+   "fragment_id": "37347975",
+   "type": 2,
+   "heading": "Base XIII — Níveis de cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIII — Níveis de cuidados de saúde\n\n1 - O sistema de saúde assenta nos cuidados de saúde primários, que devem situar-se junto das comunidades.\n\n2 - Deve ser promovida a intensa articulação entre os vários níveis de cuidados de saúde, reservando a intervenção dos mais diferenciados para as situações deles carecidas e garantindo permanentemente a circulação recíproca e confidencial da informação clínica relevante sobre os utentes."
+  },
+  "48835375": {
+   "fragment_id": "37348075",
+   "type": 2,
+   "heading": "Base XIV — Estatuto dos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Estatuto dos utentes\n\n1 - Os utentes têm direito a:\n\na) Escolher, no âmbito do sistema de saúde e na medida dos recursos existentes e de acordo com as regras de organização, o serviço e agentes prestadores;\n\nb) Decidir receber ou recusar a prestação de cuidados que lhes é proposta, salvo disposição especial da lei;\n\nc) Ser tratados pelos meios adequados, humanamente e com prontidão, correcção técnica, privacidade e respeito;\n\nd) Ter rigorosamente respeitada a confidencialidade sobre os dados pessoais revelados;\n\ne) Ser informados sobre a sua situação, as alternativas possíveis de tratamento e a evolução provável do seu estado;\n\nf) Receber, se o desejarem, assistência religiosa;\n\ng) Reclamar e fazer queixa sobre a forma como são tratados e, se for caso disso, a receber indemnização por prejuízos sofridos;\n\nh) Constituir entidades que os representem e defendam os seus interesses;\n\ni) Constituir entidades que colaborem com o sistema de saúde, nomeadamente sob a forma de associações para a promoção e defesa da saúde ou de grupos de amigos de estabelecimentos de saúde.\n\n2 - Os utentes devem:\n\na) Respeitar os direitos dos outros utentes;\n\nb) Observar as regras sobre a organização e o funcionamento dos serviços e estabelecimentos;\n\nc) Colaborar com os profissionais de saúde em relação à sua própria situação;\n\nd) Utilizar os serviços de acordo com as regras estabelecidas;\n\ne) Pagar os encargos que derivem da prestação dos cuidados de saúde, quando for caso disso.\n\n3 - Relativamente a menores e incapazes, a lei deve prever as condições em que os seus representantes legais podem exercer os direitos que lhes cabem, designadamente o de recusarem a assistência, com observância dos princípios constitucionalmente definidos."
+  },
+  "48835475": {
+   "fragment_id": "37348175",
+   "type": 2,
+   "heading": "Base XV — Profissionais de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Profissionais de saúde\n\n1 - A lei estabelece os requisitos indispensáveis ao desempenho de funções e os direitos e deveres dos profissionais de saúde, designadamente os de natureza deontológica, tendo em atenção a relevância social da sua actividade.\n\n2 - A política de recursos humanos para a saúde visa satisfazer as necessidades da população, garantir a formação, a segurança e o estímulo dos profissionais, incentivar a dedidação plena, evitando conflitos de interesse entre a actividade pública e a actividade privada, facilitar a mobilidade entre o sector público e o sector privado e procurar uma adequada cobertura no território nacional.\n\n3 - O Ministério da Saúde organiza um registo nacional de todos os profissionais de saúde, com exclusão daqueles cuja inscrição seja obrigatória numa associação profissional de direito público.\n\n4 - A inscrição obrigatória referida no número anterior é da responsabilidade da respectiva associação profissional de direito público e funciona como registo nacional dos profissionais nela inscritos, sendo facultada ao Ministério da Saúde sempre que por este solicitada."
+  },
+  "48835575": {
+   "fragment_id": "37348275",
+   "type": 2,
+   "heading": "Base XVI — Formação do pessoal de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Formação do pessoal de saúde\n\n1 - A formação e o aperfeiçoamento profissional, incluindo a formação permanente, do pessoal de saúde constituem um objectivo fundamental a prosseguir.\n\n2 - O Ministério da Saúde colabora com o Ministério da Educação nas actividades de formação que estiverem a cargo deste, designadamente facultando nos seus serviços campos de ensino prático e de estágios, e prossegue as actividades que lhe estiverem cometidas por lei nesse domínio.\n\n3 - A formação do pessoal deve assegurar uma qualificação técnico-científica tão elevada quanto possível tendo em conta o ramo e o nível do pessoal em causa, despertar nele o sentido da responsabilidade profissional, sem esquecer a preocupação da melhor utilização dos recursos disponíveis, e, em todos os casos, orientar-se no sentido de incutir nos profissionais o respeito pela vida e pelos direitos das pessoas e dos doentes como o primeiro dever que lhes cumpre observar."
+  },
+  "48835675": {
+   "fragment_id": "37348375",
+   "type": 2,
+   "heading": "Base XVII — Investigação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Investigação\n\n1 - É apoiada a investigação com interesse para a saúde, devendo ser estimulada a colaboração neste domínio entre os serviços do Ministério da Saúde e as universidades, a Junta Nacional de Investigação Científica e Tecnológica e outras entidades, públicas ou privadas.\n\n2 - Em particular, deve ser promovida a participação portuguesa em programas de investigação no campo da saúde levados a efeito no âmbito das Comunidades Europeias.\n\n3 - As acções de investigação a apoiar devem sempre observar, como princípio orientador, o de que a vida humana é o valor máximo a promover e a salvaguardar em quaisquer circunstâncias."
+  },
+  "48835775": {
+   "fragment_id": "37348475",
+   "type": 2,
+   "heading": "Base XVIII — Organização do território para o sistema de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVIII — Organização do território para o sistema de saúde\n\n1 - A organização do sistema de saúde baseia-se na divisão do território nacional em regiões de saúde.\n\n2 - As regiões de saúde são dotadas de meios de acção bastantes para satisfazer autonomamente as necessidades correntes de saúde dos seus habitantes, podendo, quando necessário, ser estabelecidos acordos inter-regionais para a utilização de determinados recursos.\n\n3 - As regiões podem ser divididas em sub-regiões de saúde, de acordo com as necessidades das populações e a operacionalidade do sistema.\n\n4 - Cada concelho constitui uma área de saúde, mas podem algumas localidades ser incluídas em áreas diferentes das dos concelhos a que pertençam quando se verifique que tal é indispensável para tornar mais rápida e cómoda a prestação dos cuidados de saúde.\n\n5 - As grandes aglomerações urbanas podem ter organização de saúde própria a estabelecer em lei, tomando em conta as respectivas condições demográficas e sanitárias."
+  },
+  "48835875": {
+   "fragment_id": "37348575",
+   "type": 2,
+   "heading": "Base XIX — Autoridades de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Autoridades de saúde\n\n1 - As autoridades de saúde situam-se a nível nacional, regional e concelhio, para garantir a intervenção oportuna e discricionária do Estado em situações de grave risco para a saúde pública, e estão hierarquicamente dependentes do Ministro da Saúde, através do director-geral competente.\n\n2 - As autoridades de saúde têm funções de vigilância das decisões dos órgãos e serviços executivos do Estado em matéria de saúde pública, podendo suspendê-las quando as considerem prejudiciais.\n\n3 - Cabe ainda especialmente às autoridades de saúde:\n\na) Vigiar o nível sanitário dos aglomerados populacionais, dos serviços, estabelecimentos e locais de utilização pública para defesa da saúde pública;\n\nb) Ordenar a suspensão de actividade ou o encerramento dos serviços, estabelecimentos e locais referidos na alínea anterior, quando funcionem em condições de grave risco para a saúde pública;\n\nc) Desencadear, de acordo com a Constituição e a lei, o internamento ou a prestação compulsiva de cuidados de saúde a indivíduos em situação de prejudicarem a saúde pública;\n\nd) Exercer a vigilância sanitária das fronteiras;\n\ne) Proceder à requisição de serviços, estabelecimentos e profissionais de saúde em casos de epidemias graves e outras situações semelhantes.\n\n4 - As funções de autoridade de saúde são independentes das de natureza operativa dos serviços de saúde e são desempenhadas por médicos, preferencialmente da carreira de saúde pública.\n\n5 - Das decisões das autoridades de saúde há sempre recurso hierárquico e contencioso nos termos da lei."
+  },
+  "48835975": {
+   "fragment_id": "37348675",
+   "type": 2,
+   "heading": "Base XX — Situações de grave emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XX — Situações de grave emergência\n\n1 - Quando ocorram situações de catástrofe ou de outra grave emergência de saúde, o Ministro da Saúde toma as medidas de excepção que forem indispensáveis, coordenando a actuação dos serviços centrais do Ministério com os órgãos do Serviço Nacional de Saúde e os vários escalões das autoridades de saúde.\n\n2 - Sendo necessário, pode o Governo, nas situações referidas no n.º 1, requisitar, pelo tempo absolutamente indispensável, os profissionais e estabelecimentos de saúde em actividade privada."
+  },
+  "48836075": {
+   "fragment_id": "37348775",
+   "type": 2,
+   "heading": "Base XXI — Actividade farmacêutica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXI — Actividade farmacêutica\n\n1 - A actividade farmacêutica abrange a produção, comercialização, importação e exportação de medicamentos e produtos medicamentosos.\n\n2 - A actividade farmacêutica tem legislação especial e fica submetida à disciplina e fiscalização conjuntas dos ministérios competentes, de forma a garantir a defesa e a protecção da saúde, a satisfação das necessidades da população e a racionalização do consumo de medicamentos e produtos medicamentosos.\n\n3 - A disciplina referida no número anterior incide sobre a instalação de equipamentos produtores e os estabelecimentos distribuidores de medicamentos e produtos medicamentosos e o seu funcionamento."
+  },
+  "48836175": {
+   "fragment_id": "37348875",
+   "type": 2,
+   "heading": "Base XXII — Ensaios clínicos de medicamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXII — Ensaios clínicos de medicamentos\n\nOs ensaios clínicos de medicamentos são sempre realizados sob direcção e responsabilidade médica, segundo regras a definir em diploma próprio."
+  },
+  "48836275": {
+   "fragment_id": "37348975",
+   "type": 2,
+   "heading": "Base XXIII — Outras actividades complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIII — Outras actividades complementares\n\n1 - Estão sujeitas a regras próprias e à disciplina e inspecção do Ministério da Saúde, e, sendo caso disso, dos outros ministérios competentes, as actividades que se destinem a facultar meios materiais ou de organização indispensáveis à prestação de cuidados de saúde, mesmo quando desempenhadas pelo sector privado.\n\n2 - Incluem-se, nomeadamente, nas actividades referidas no número anterior a colheita e distribuição de produtos biológicos, a produção e distribuição de bens e produtos alimentares, a produção, a comercialização e a instalação de equipamentos e bens de saúde, o estabelecimento e exploração de seguros de saúde e o transporte de doentes."
+  },
+  "48836375": {
+   "fragment_id": "35811175",
+   "type": 1,
+   "heading": "Capítulo III — Do Serviço Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Do Serviço Nacional de Saúde"
+  },
+  "48836475": {
+   "fragment_id": "37349075",
+   "type": 2,
+   "heading": "Base XXIV — Características",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIV — Características\n\nO Serviço Nacional de Saúde caracteriza-se por:\n\na) Ser universal quanto à população abrangida;\n\nb) Prestar integradamente cuidados globais ou garantir a sua prestação;\n\nc) Ser tendencialmente gratuito para os utentes, tendo em conta as condições económicas e sociais dos cidadãos;\n\nd) Garantir a equidade no acesso dos utentes, com o objectivo de atenuar os efeitos das desigualdades económicas, geográficas e quaisquer outras no acesso aos cuidados;\n\ne) Ter organização regionalizada e gestão descentralizada e participada."
+  },
+  "48836575": {
+   "fragment_id": "37349175",
+   "type": 2,
+   "heading": "Base XXV — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXV — Beneficiários\n\n1 - São beneficiários do Serviço Nacional de saúde todos os cidadãos portugueses.\n\n2 - São igualmente beneficiários do Serviço Nacional de Saúde os cidadãos nacionais de Estados membros das Comunidades Europeias, nos termos das normas comunitárias aplicáveis.\n\n3 - São ainda beneficiários do Serviço Nacional de saúde os cidadãos estrangeiros residentes em Portugal, em condições de reciprocidade, e os cidadãos apátridas residentes em Portugal."
+  },
+  "48836675": {
+   "fragment_id": "37349275",
+   "type": 2,
+   "heading": "Base XXVI — Organização do Serviço Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVI — Organização do Serviço Nacional de Saúde\n\n1 - O Serviço Nacional de Saúde é tutelado pelo Ministro da Saúde e é administrado a nível de cada região de saúde pelo conselho de administração da respectiva administração regional de saúde.\n\n2 - Em cada sub-região existe um coordenador sub-regional de saúde e em cada concelho uma comissão concelhia de saúde."
+  },
+  "48836775": {
+   "fragment_id": "37349375",
+   "type": 2,
+   "heading": "Base XXVII — Administrações regionais de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVII — Administrações regionais de saúde\n\n1 - As administrações regionais de saúde são responsáveis pela saúde das populações da respectiva área geográfica, coordenam a prestação de cuidados de saúde de todos os níveis e adeqúam os recursos disponíveis às necessidades, segundo a política superiormente definida e de acordo com as normas e directivas emitidas pelo Ministério da Saúde.\n\n2 - As administrações regionais de saúde são dirigidas por um conselho de administração, cuja composição é definida por lei.\n\n3 - Cabe em especial ao conselho de administração das administrações regionais de saúde:\n\na) Propor os planos de actividade e o orçamento respectivo, acompanhar a sua execução e deles prestar contas;\n\nb) Orientar, coordenar e acompanhar a gestão do Serviço Nacional de Saúde a nível regional;\n\nc) Representar o Serviço Nacional de Saúde em juízo e fora dele, a nível da região respectiva;\n\nd) Regular a procura entre os estabelecimentos e serviços da região e orientar, coordenar e acompanhar o respectivo funcionamento, sem prejuízo da autonomia de gestão destes consagrada na lei;\n\ne) Contratar com entidades privadas a prestação de cuidados de saúde aos beneficiários do Serviço Nacional de Saúde na respectiva região, sem prejuízo de acordos de âmbito nacional sobre a mesma matéria;\n\nf) Avaliar permanentemente os resultados obtidos;\n\ng) Coordenar o transporte de doentes, incluindo o que esteja a cargo de entidades privadas."
+  },
+  "48836875": {
+   "fragment_id": "37349475",
+   "type": 2,
+   "heading": "Base XXVIII — Coordenador sub-regional de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVIII — Coordenador sub-regional de saúde\n\nAo coordenador sub-regional de saúde cabe coadjuvar a administração regional no exercício das suas funções no âmbito da sub-região e exercer as funções que o conselho de administração da administração regional nele delegar."
+  },
+  "48836975": {
+   "fragment_id": "37349575",
+   "type": 2,
+   "heading": "Base XXIX — Comissões concelhias de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIX — Comissões concelhias de saúde\n\nAs comissões concelhias de saúde são órgãos consultivos das administrações regionais de saúde em relação a cada concelho da respectiva área de actuação."
+  },
+  "48837075": {
+   "fragment_id": "37349675",
+   "type": 2,
+   "heading": "Base XXX — Avaliação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXX — Avaliação permanente\n\n1 - O funcionamento do Serviço Nacional de Saúde está sujeito a avaliação permanente, baseada em informações de natureza estatística, epidemiológica e administrativa.\n\n2 - É igualmente colhida informação sobre a qualidade dos serviços, o seu grau de aceitação pela população utente, o nível de satisfação dos profissionais e a razoabilidade da utilização dos recursos em termos de custos e benefícios.\n\n3 - Esta informação é tratada em sistema completo e integrado que abrange todos os níveis e todos os órgãos e serviços."
+  },
+  "48837175": {
+   "fragment_id": "37349775",
+   "type": 2,
+   "heading": "Base XXXI — Estatuto dos profissionais de saúde do Serviço Nacional de Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXI — Estatuto dos profissionais de saúde do Serviço Nacional de Saúde\n\n1 - Os profissionais de saúde que trabalham no Serviço Nacional de Saúde estão submetidos às regras próprias da Administração Pública e podem constituir-se em corpos especiais.\n\n2 - A lei estabelece, na medida do que seja necessário, as regras próprias sobre o estatuto dos profissionais de saúde, o qual deve ser adequado ao exercício das funções e delimitado pela ética e deontologia profissionais.\n\n3 - Aos profissionais dos quadros do Serviço Nacional de Saúde é permitido, sem prejuízo das normas que regulam o regime de trabalho de dedicação exclusiva, exercer a actividade privada, não podendo dela resultar para o Serviço Nacional de Saúde qualquer responsabilidade pelos encargos resultantes dos cuidados por esta forma prestados aos seus beneficiários.\n\n4 - É assegurada formação permanente aos profissionais de saúde."
+  },
+  "48837275": {
+   "fragment_id": "37349875",
+   "type": 2,
+   "heading": "Base XXXII — Médicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXII — Médicos\n\n1 - Ao pessoal médico cabe no Serviço Nacional de Saúde particular relevo e responsabilidade.\n\n2 - É definido na lei o conceito de acto médico.\n\n3 - O ingresso dos médicos e a sua permanência no Serviço Nacional de Saúde dependem de inscrição na Ordem dos Médicos.\n\n4 - É reconhecida à Ordem dos Médicos a função de definição da deontologia médica, bem como a de participação, em termos a regulamentar, na definição da qualidade técnica mesmo para os actos praticados no âmbito do Serviço Nacional de Saúde, estando-lhe também cometida a fiscalização do exercício livre da actividade médica.\n\n5 - A lei regula com a mesma dignidade as carreiras médicas, independentemente de serem estruturadas de acordo com a diferenciação profissional.\n\n6 - A lei pode prever que os médicos da carreira hospitalar sejam autorizados a assistir, nos hospitais, os seus doentes privados, em termos a regulamentar.\n\n7 - Os serviços e estabelecimentos do Serviço Nacional de Saúde podem contratar para tarefas específicas médicos do sector privado especialmente qualificados."
+  },
+  "48837375": {
+   "fragment_id": "37349975",
+   "type": 2,
+   "heading": "Base XXXIII — Financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIII — Financiamento\n\n1 - O Serviço Nacional de Saúde é financiado pelo Orçamento do Estado.\n\n2 - Os serviços e estabelecimentos do Serviço Nacional de Saúde podem cobrar as seguintes receitas, a inscrever nos seus orçamentos próprios:\n\na) O pagamento de cuidados em quarto particular ou outra modalidade não prevista para a generalidade dos utentes;\n\nb) O pagamento de cuidados por parte de terceiros responsáveis, legal ou contratualmente, nomeadamente subsistemas de saúde ou entidades seguradoras;\n\nc) O pagamento de cuidados prestados a não beneficiários do Serviço Nacional de Saúde quando não há terceiros responsáveis;\n\nd) O pagamento de taxas por serviços prestados ou utilização de instalações ou equipamentos nos termos legalmente previstos;\n\ne) O produto de rendimentos próprios;\n\nf) O produto de benemerências ou doações;\n\ng) O produto da efectivação de responsabilidade dos utentes por infracções às regras da organização e do funcionamento do sistema e por uso doloso dos serviços e do material de saúde."
+  },
+  "48837475": {
+   "fragment_id": "37350075",
+   "type": 2,
+   "heading": "Base XXXIV — Taxas moderadoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIV — Taxas moderadoras\n\n1 - Com o objectivo de completar as medidas reguladoras do uso dos serviços de saúde, podem ser cobradas taxas moderadoras, que constituem também receita do Serviço Nacional de Saúde.\n\n2 - Das taxas referidas no número anterior são isentos os grupos populacionais sujeitos a maiores riscos e os financeiramente mais desfavorecidos, nos termos determinados na lei."
+  },
+  "48837575": {
+   "fragment_id": "37350175",
+   "type": 2,
+   "heading": "Base XXXV — Benefícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXV — Benefícios\n\n1 - A lei pode especificar as prestações garantidas aos beneficiários do Serviço Nacional de Saúde ou excluir do objecto dessas prestações cuidados não justificados pelo estado de saúde.\n\n2 - Só em circunstâncias excepcionais em que seja impossível garantir em Portugal o tratamento nas condições exigíveis de segurança e em que seja possível fazê-lo no estrangeiro, o Serviço Nacional de Saúde suporta as respectivas despesas."
+  },
+  "48837675": {
+   "fragment_id": "37350275",
+   "type": 2,
+   "heading": "Base XXXVI — Gestão dos hospitais e centros de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXVI — Gestão dos hospitais e centros de saúde\n\n1 - A gestão das unidades de saúde deve obedecer, na medida do possível, a regras de gestão empresarial e a lei pode permitir a realização de experiências inovadoras de gestão, submetidas a regras por ela fixadas.\n\n2 - Nos termos a estabelecer em lei, pode ser autorizada a entrega, através de contratos de gestão, de hospitais ou centros de saúde do Serviço Nacional de saúde a outras entidades ou, em regime de convenção, a grupos de médicos."
+  },
+  "48837775": {
+   "fragment_id": "35811275",
+   "type": 1,
+   "heading": "Capítulo IV — Das iniciativas particulares de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Das iniciativas particulares de saúde"
+  },
+  "48837875": {
+   "fragment_id": "37350375",
+   "type": 2,
+   "heading": "Base XXXVII — Apoio ao sector privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXVII — Apoio ao sector privado\n\n1 - O Estado apoia o desenvolvimento do sector privado de prestação de cuidados de saúde, em função das vantagens sociais decorrentes das iniciativas em causa e em concorrência com o sector público.\n\n2 - O apoio pode traduzir-se, nomeadamente, na facilitação da mobilidade do pessoal do Serviço Nacional de saúde que deseje trabalhar no sector privado, na criação de incentivos à criação de unidades privadas e na reserva de quotas de leitos de internamento em cada região de saúde."
+  },
+  "48837975": {
+   "fragment_id": "37350475",
+   "type": 2,
+   "heading": "Base XXXVIII — Instituições particulares de solidariedade social com objectivos de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXVIII — Instituições particulares de solidariedade social com objectivos de saúde\n\n1 - As instituições particulares de solidariedade social com objectivos específicos de saúde intervêm na acção comum a favor da saúde colectiva e dos indivíduos, de acordo com a legislação que lhes é própria e a presente lei.\n\n2 - As instituições particulares de solidariedade social ficam sujeitas, no que respeita às suas actividades de saúde, ao poder orientador e de inspecção dos serviços competentes do Ministério da Saúde, sem prejuízo da independência de gestão estabelecida na Constituição e na sua legislação própria.\n\n3 - Para além do apoio referido no n.º 2 da base XXXVII, os serviços de saúde destas instituições podem ser subsidiados financeiramente e apoiados tecnicamente pelo Estado e pelas autarquias locais."
+  },
+  "48838075": {
+   "fragment_id": "37350575",
+   "type": 2,
+   "heading": "Base XXXIX — Organizações de saúde com fins lucrativos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIX — Organizações de saúde com fins lucrativos\n\n1 - As organizações privadas com objectivos de saúde e fins lucrativos estão sujeitas a licenciamento, regulamentação e vigilância de qualidade por parte do Estado.\n\n2 - A hospitalização privada, em especial, actua em articulação com o Serviço Nacional de Saúde.\n\n3 - Compreendem-se na hospitalização privada não apenas as clínicas ou casas de saúde, gerais ou especializadas, mas ainda os estabelecimentos termais com internamento não pertencentes ao Estado ou às autarquias locais."
+  },
+  "48838175": {
+   "fragment_id": "37350675",
+   "type": 2,
+   "heading": "Base XL — Profissionais de saúde em regime liberal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XL — Profissionais de saúde em regime liberal\n\n1 - Os profissionais de saúde que asseguram cuidados em regime de profissão liberal desempenham função de importância social reconhecida e protegida pela lei.\n\n2 - O exercício de qualquer profissão que implique a prestação de cuidados de saúde em regime liberal é regulamentado e fiscalizado pelo Ministério da Saúde, sem prejuízo das funções cometidas à Ordem dos Médicos e à Ordem dos Farmacêuticos.\n\n3 - O Serviço Nacional de Saúde, os médicos, os farmacêuticos e outros profissionais de saúde em exercício liberal devem prestar-se apoio mútuo.\n\n4 - Os profissionais de saúde em regime liberal devem ser titulares de seguro contra os riscos decorrentes do exercício das suas funções."
+  },
+  "48838275": {
+   "fragment_id": "37350775",
+   "type": 2,
+   "heading": "Base XLI — Convenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLI — Convenções\n\n1 - No quadro estabelecido pelo n.º 3 da base XII, podem ser celebradas convenções com médicos e outros profissionais de saúde ou casas de saúde, clínicas ou hospitais privados, quer a nível de cuidados de saúde primários quer a nível de cuidados diferenciados.\n\n2 - A lei estabelece as condições de celebração de convenções e, em particular, as garantias das entidades convencionadas."
+  },
+  "48838375": {
+   "fragment_id": "37350875",
+   "type": 2,
+   "heading": "Base XLII — Seguros de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLII — Seguros de saúde\n\nA lei fixa incentivos ao estabelecimento de seguros de saúde."
+  },
+  "48838475": {
+   "fragment_id": "35811375",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "48838575": {
+   "fragment_id": "37350975",
+   "type": 2,
+   "heading": "Base XLIII — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLIII — Regulamentação\n\n1 - O Governo deve desenvolver em decretos-leis as bases da presente lei que não sejam imediatamente aplicáveis.\n\n2 - As administrações regionais de saúde devem ser progressivamente implantadas, podendo, numa fase inicial, abranger só parte da zona total ou parte dos serviços prestadores de cuidados."
+  },
+  "48838675": {
+   "fragment_id": "37351075",
+   "type": 2,
+   "heading": "Base XLIV — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLIV — Regime transitório\n\nAs convenções celebradas com profissionais do Serviço Nacional de Saúde mantêm-se transitoriamente, nos termos dos respectivos contratos, em condições e por período que vierem a ser estabelecidos em diploma regulamentar."
+  },
+  "48838775": {
+   "fragment_id": "37351175",
+   "type": 2,
+   "heading": "Base XLV — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLV — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação."
+  },
+  "48833775": {
+   "fragment_id": "35160275",
+   "type": 15,
+   "heading": "Diploma — Lei de Bases da Saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), 168.º, n.º 1, alínea f), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "57467587": {
+   "fragment_id": "37349775",
+   "type": 2,
+   "heading": "Base XXXI — Estatuto dos profissionais de saúde do Serviço NacionaI de Saúde",
+   "in_force_from": "2003-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XXXI — Estatuto dos profissionais de saúde do Serviço NacionaI de Saúde\n\n1 - Os profissionais de saúde que trabalham no Serviço Nacional de Saúde estão submetidos às regras próprias da Administração Pública e podem constituir-se em corpos especiais, sendo alargado o regime laboral aplicável, de futuro, à lei do contrato individual de trabalho e à contratação colectiva de trabalho.\n\n2 - A lei estabelece, na medida do que seja necessário, as regras próprias sobre o estatuto dos profissionais de saúde, o qual deve ser adequado ao exercício das funções e delimitado pela ética e deontologia profissionais.\n\n3 - Aos profissionais dos quadros do Serviço Nacional de Saúde é permitido, sem prejuízo das normas que regulam o regime de trabalho de dedicação exclusiva, exercer a actividade privada, não podendo dela resultar para o Serviço Nacional de Saúde qualquer responsabilidade pelos encargos resultantes dos cuidados por esta forma prestados aos seus beneficiários.\n\n4 - É assegurada formação permanente aos profissionais de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "57467588": {
+   "fragment_id": "37349975",
+   "type": 2,
+   "heading": "Base XXXIII — Financiamento",
+   "in_force_from": "2003-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XXXIII — Financiamento\n\n1 - O Serviço Nacional de Saúde é financiado pelo Orçamento do Estado, através do pagamento dos actos e actividades efectivamente realizados segundo uma tabela de preços que consagra uma classificação dos mesmo actos, técnicas e serviços de saúde.\n\n2 - Os serviços e estabelecimentos do Serviço Nacional de Saúde podem cobrar as seguintes receitas, a inscrever nos seus orçamentos próprios:\n\na) O pagamento de cuidados em quarto particular ou outra modalidade não prevista para a generalidade dos utentes;\n\nb) O pagamento de cuidados por parte de terceiros responsáveis, legal ou contratualmente, nomeadamente subsistemas de saúde ou entidades seguradoras;\n\nc) O pagamento de cuidados prestados a não beneficiários do Serviço Nacional de Saúde quando não há terceiros responsáveis;\n\nd) O pagamento de taxas por serviços prestados ou utilização de instalações ou equipamentos nos termos legalmente previstos;\n\ne) O produto de rendimentos próprios;\n\nf) O produto de benemerências ou doações;\n\ng) O produto da efectivação de responsabilidade dos utentes por infracções às regras da organização e do funcionamento do sistema e por uso doloso dos serviços e do material de saúde.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "57467589": {
+   "fragment_id": "37350275",
+   "type": 2,
+   "heading": "Base XXXVI — Gestão dos hospitais e centros de saúde",
+   "in_force_from": "2003-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XXXVI — Gestão dos hospitais e centros de saúde\n\n1 - A gestão das unidades de saúde deve obedecer, na medida do possível, a regras de gestão empresarial e a lei pode permitir a realização de experiências inovadoras de gestão, submetidas a regras por ela fixadas.\n\n2 - Nos termos a estabelecer em lei, pode ser autorizada a entrega, através de contratos de gestão, de hospitais ou centros de saúde do Serviço Nacional de saúde a outras entidades ou, em regime de convenção, a grupos de médicos.\n\n3 - A lei pode prever a criação de unidades de saúde com a natureza de sociedades anónimas de capitais públicos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "57467590": {
+   "fragment_id": "37350675",
+   "type": 2,
+   "heading": "Base XL — Profissionais de saúde em regime liberal",
+   "in_force_from": "2003-01-09",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XL — Profissionais de saúde em regime liberal\n\n1 - Os profissionais de saúde que asseguram cuidados em regime de profissão liberal desempenham função de importância social reconhecida e protegida pela lei.\n\n2 - O exercício de qualquer profissão que implique a prestação de cuidados de saúde em regime liberal é regulamentado e fiscalizado pelo Ministério da Saúde, sem prejuízo das funções cometidas à Ordem dos Médicos, à Ordem dos Enfermeiros e à Ordem dos Farmacêuticos.\n\n3 - O Serviço Nacional de Saúde, os médicos, os farmacêuticos e outros profissionais de saúde em exercício liberal devem prestar-se apoio mútuo.\n\n4 - Os profissionais de saúde em regime liberal devem ser titulares de seguro contra os riscos decorrentes do exercício das suas funções.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "48838875": {
+   "fragment_id": "35811475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 12 de Julho de 1990.\n\nO Presidente da Assembleia da República, Vítor Pereiro Crespo.\n\nPromulgada em 31 de Julho de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 3 de Agosto de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "124445350": {
+   "fragment_id": "35810975",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445351": {
+   "fragment_id": "37346775",
+   "type": 2,
+   "heading": "Base I — Princípios gerais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base I — Princípios gerais\n\n1 - A protecção da saúde constitui um direito dos indivíduos e da comunidade que se efectiva pela responsabilidade conjunta dos cidadãos, da sociedade e do Estado, em liberdade de procura e de prestação de cuidados, nos termos da Constituição e da lei.\n\n2 - O Estado promove e garante o acesso de todos os cidadãos aos cuidados de saúde nos limites dos recursos humanos, técnicos e financeiros disponíveis.\n\n3 - A promoção e a defesa da saúde pública são efectuadas através da actividade do Estado e de outros entes públicos, podendo as organizações da sociedade civil ser associadas àquela actividade.\n\n4 - Os cuidados de saúde são prestados por serviços e estabelecimentos do Estado ou, sob fiscalização deste, por outros entes públicos ou por entidades privadas, sem ou com fins lucrativos.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445352": {
+   "fragment_id": "37346875",
+   "type": 2,
+   "heading": "Base II — Política de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base II — Política de saúde\n\n1 - A política de saúde tem âmbito nacional e obedece às directrizes seguintes:\n\na) A promoção da saúde e a prevenção da doença fazem parte das prioridades no planeamento das actividades do Estado;\n\nb) É objectivo fundamental obter a igualdade dos cidadãos no acesso aos cuidados de saúde, seja qual for a sua condição económica e onde quer que vivam, bem como garantir a equidade na distribuição de recursos e na utilização de serviços;\n\nc) São tomadas medidas especiais relativamente a grupos sujeitos a maiores riscos, tais como as crianças, os adolescentes, as grávidas, os idosos, os deficientes, os toxicodependentes e os trabalhadores cuja profissão o justifique;\n\nd) Os serviços de saúde estruturam-se e funcionam de acordo com o interesse dos utentes e articulam-se entre si e ainda com os serviços de segurança e bem-estar social;\n\ne) A gestão dos recursos disponíveis deve ser conduzida por forma a obter deles o maior proveito socialmente útil e a evitar o desperdício e a utilização indevida dos serviços;\n\nf) É apoiado o desenvolvimento do sector privado da saúde e, em particular, as iniciativas das instituições particulares de solidariedade social, em concorrência com o sector público;\n\ng) É promovida a participação dos indivíduos e da comunidade organizada na definição da política de saúde e planeamento e no controlo do funcionamento dos serviços;\n\nh) É incentivada a educação das populações para a saúde, estimulando nos indivíduos e nos grupos sociais a modificação dos comportamentos nocivos à saúde pública ou individual;\n\ni) É estimulada a formação e a investigação para a saúde, devendo procurar-se envolver os serviços, os profissionais e a comunidade.\n\n2 - A política de saúde tem carácter evolutivo, adaptando-se permanentemente às condições da realidade nacional, às suas necessidades e aos seus recursos.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445353": {
+   "fragment_id": "37346975",
+   "type": 2,
+   "heading": "Base III — Natureza da legislação sobre saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base III — Natureza da legislação sobre saúde\n\nA legislação sobre saúde é de interesse e ordem públicos, pelo que a sua inobservância implica responsabilidade penal, contra-ordenacional, civil e disciplinar, conforme o estabelecido na lei.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445354": {
+   "fragment_id": "37347075",
+   "type": 2,
+   "heading": "Base IV — Sistema de saúde e outras entidades",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base IV — Sistema de saúde e outras entidades\n\n1 - O sistema de saúde visa a efectivação do direito à protecção da saúde.\n\n2 - Para efectivação do direito à protecção da saúde, o Estado actua através de serviços próprios, celebra acordos com entidades privadas para a prestação de cuidados e apoia e fiscaliza a restante actividade privada na área da saúde.\n\n3 - Os cidadãos e as entidades públicas e privadas devem colaborar na criação de condições que permitam o exercício do direito à protecção da saúde e a adopção de estilos de vida saudáveis.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445355": {
+   "fragment_id": "37347175",
+   "type": 2,
+   "heading": "Base V — Direitos e deveres dos cidadãos",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base V — Direitos e deveres dos cidadãos\n\n1 - Os cidadãos são os primeiros responsáveis pela sua própria saúde, individual e colectiva, tendo o dever de a defender e promover.\n\n2 - Os cidadãos têm direito a que os serviços públicos de saúde se constituam e funcionem de acordo com os seus legítimos interesses.\n\n3 - É reconhecida a liberdade de prestação de cuidados de saúde, com as limitações decorrentes da lei, designadamente no que respeita a exigências de qualificação profissional.\n\n4 - A liberdade de prestação de cuidados de saúde abrange a faculdade de se constituírem entidades sem ou com fins lucrativos que visem aquela prestação.\n\n5 - É reconhecida a liberdade de escolha no acesso à rede nacional de prestação de cuidados de saúde, com as limitações decorrentes dos recursos existentes e da organização dos serviços.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445356": {
+   "fragment_id": "37347275",
+   "type": 2,
+   "heading": "Base VI — Responsabilidade do Estado",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base VI — Responsabilidade do Estado\n\n1 - O Governo define a política de saúde.\n\n2 - Cabe ao Ministério da Saúde propor a definição da política nacional de saúde, promover e vigiar a respectiva execução e coordenar a sua acção com a dos ministérios que tutelam áreas conexas.\n\n3 - Todos os departamentos, especialmente os que actuam nas áreas específicas da segurança e bem-estar social, da educação, do emprego, do desporto, do ambiente, da economia, do sistema fiscal, da habitação e do urbanismo, devem ser envolvidos na promoção da saúde.\n\n4 - Os serviços centrais do Ministério da Saúde exercem, em relação ao Serviço Nacional de Saúde, funções de regulamentação, orientação, planeamento, avaliação e inspecção.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445357": {
+   "fragment_id": "37347375",
+   "type": 2,
+   "heading": "Base VII — Conselho Nacional de Saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base VII — Conselho Nacional de Saúde\n\n1 - O Conselho Nacional de Saúde representa os interessados no funcionamento das entidades prestadoras de cuidados de saúde e é um órgão de consulta do Governo.\n\n2 - O Conselho Nacional de Saúde inclui representantes dos utentes, nomeadamente dos subsistemas de saúde, dos seus trabalhadores, dos departamentos governamentais com áreas de actuação conexas e de outras entidades.\n\n3 - Os representantes dos utentes são eleitos pela Assembleia da República.\n\n4 - A composição, a competência e o funcionamento do Conselho Nacional de Saúde constam da lei.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445358": {
+   "fragment_id": "37347475",
+   "type": 2,
+   "heading": "Base VIII — Regiões autónomas",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base VIII — Regiões autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira a política de saúde é definida e executada pelos órgãos do governo próprio, em obediência aos princípios estabelecidos pela Constituição da República e pela presente lei.\n\n2 - A presente lei é aplicável às Regiões Autónomas dos Açores e da Madeira, que devem publicar regulamentação própria em matéria de organização, funcionamento e regionalização dos serviços de saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445359": {
+   "fragment_id": "37347575",
+   "type": 2,
+   "heading": "Base IX — Autarquias locais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base IX — Autarquias locais\n\nSem prejuízo de eventual transferência de competências, as autarquias locais participam na acção comum a favor da saúde colectiva e dos indivíduos, intervêm na definição das linhas de actuação em que estejam directamente interessadas e contribuem para a sua efectivação dentro das suas atribuições e responsabilidades.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445360": {
+   "fragment_id": "37347675",
+   "type": 2,
+   "heading": "Base X — Relações internacionais",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base X — Relações internacionais\n\n1 - Tendo em vista a indivisibilidade da saúde na comunidade internacional, o Estado Português reconhece as consequentes interdependências sanitárias a nível mundial e assume as respectivas responsabilidades.\n\n2 - O Estado Português apoia as organizações internacionais de saúde de reconhecido prestígio, designadamente a Organização Mundial de Saúde, coordena a sua política com as grandes orientações dessas organização e garante o cumprimento dos compromissos internacionais livremente assumidos.\n\n3 - Como Estado membro das Comunidades Europeias, Portugal intervém na tomada de decisões em matéria de saúde a nível comunitário, participa nas acções que se desenvolvem a esse nível e assegura as medidas a nível interno decorrentes de tais decisões.\n\n4 - Em particular, Portugal defende o progressivo incremento da acção comunitária visando a melhoria da saúde pública, especialmente nas regiões menos favorecidas e no quadro do reforço da coesão económica e social fixado pelo Acto Único Europeu.\n\n5 - É estimulada a cooperação com outros países, no âmbito da saúde, em particular com os países africanos de língua oficial portuguesa.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445361": {
+   "fragment_id": "37347775",
+   "type": 2,
+   "heading": "Base XI — Defesa sanitária das fronteiras",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XI — Defesa sanitária das fronteiras\n\n1 - O Estado Português promove a defesa sanitária das suas fronteiras, com respeito pelas regras gerais emitidas pelos organismos competentes.\n\n2 - Em especial, cabe aos organismos competentes estudar, propor, executar e fiscalizar as medidas necessárias para prevenir a importação ou exportação das doenças submetidas ao Regulamento Sanitário Internacional, enfrentar a ameaça de expansão de doenças transmissíveis e promover todas as operações sanitárias exigidas pela defesa da saúde da comunidade internacional.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445362": {
+   "fragment_id": "35811075",
+   "type": 1,
+   "heading": "Capítulo II — Das entidades prestadoras dos cuidados de saúde em geral",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo II — Das entidades prestadoras dos cuidados de saúde em geral\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445363": {
+   "fragment_id": "37347875",
+   "type": 2,
+   "heading": "Base XII — Sistema de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XII — Sistema de saúde\n\n1 - O sistema de saúde é constituído pelo Serviço Nacional de Saúde e por todas as entidades públicas que desenvolvam actividades de promoção, prevenção e tratamento na área da saúde, bem como por todas as entidades privadas e por todos os profissionais livres que acordem com a primeira a prestação de todas ou de algumas daquelas actividades.\n\n2 - O Serviço Nacional de Saúde abrange todas as instituições e serviços oficiais prestadores de cuidados de saúde dependentes do Ministério da Saúde e dispõe de estatuto próprio.\n\n3 - O Ministério da Saúde e as administrações regionais de saúde podem contratar com entidades privadas a prestação de cuidados de saúde aos beneficiários do Serviço Nacional de Saúde sempre que tal se afigure vantajoso, nomeadamente face à consideração do binómio qualidade-custos, e desde que esteja garantido o direito de acesso.\n\n4 - A rede nacional de prestação de cuidados de saúde abrange os estabelecimentos do Serviço Nacional de Saúde e os estabelecimentos privados e os profissionais em regime liberal com quem sejam celebrados contratos nos termos do número anterior.\n\n5 - Tendencialmente, devem ser adoptadas as mesmas regras no pagamento de cuidados e no financiamento de unidades de saúde da rede nacional da prestação de cuidados de saúde.\n\n6 - O controlo de qualidade de toda a prestação de cuidados de saúde está sujeito ao mesmo nível de exigência.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445364": {
+   "fragment_id": "37347975",
+   "type": 2,
+   "heading": "Base XIII — Níveis de cuidados de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XIII — Níveis de cuidados de saúde\n\n1 - O sistema de saúde assenta nos cuidados de saúde primários, que devem situar-se junto das comunidades.\n\n2 - Deve ser promovida a intensa articulação entre os vários níveis de cuidados de saúde, reservando a intervenção dos mais diferenciados para as situações deles carecidas e garantindo permanentemente a circulação recíproca e confidencial da informação clínica relevante sobre os utentes.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445365": {
+   "fragment_id": "37348075",
+   "type": 2,
+   "heading": "Base XIV — Estatuto dos utentes",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XIV — Estatuto dos utentes\n\n1 - Os utentes têm direito a:\n\na) Escolher, no âmbito do sistema de saúde e na medida dos recursos existentes e de acordo com as regras de organização, o serviço e agentes prestadores;\n\nb) Decidir receber ou recusar a prestação de cuidados que lhes é proposta, salvo disposição especial da lei;\n\nc) Ser tratados pelos meios adequados, humanamente e com prontidão, correcção técnica, privacidade e respeito;\n\nd) Ter rigorosamente respeitada a confidencialidade sobre os dados pessoais revelados;\n\ne) Ser informados sobre a sua situação, as alternativas possíveis de tratamento e a evolução provável do seu estado;\n\nf) Receber, se o desejarem, assistência religiosa;\n\ng) Reclamar e fazer queixa sobre a forma como são tratados e, se for caso disso, a receber indemnização por prejuízos sofridos;\n\nh) Constituir entidades que os representem e defendam os seus interesses;\n\ni) Constituir entidades que colaborem com o sistema de saúde, nomeadamente sob a forma de associações para a promoção e defesa da saúde ou de grupos de amigos de estabelecimentos de saúde.\n\n2 - Os utentes devem:\n\na) Respeitar os direitos dos outros utentes;\n\nb) Observar as regras sobre a organização e o funcionamento dos serviços e estabelecimentos;\n\nc) Colaborar com os profissionais de saúde em relação à sua própria situação;\n\nd) Utilizar os serviços de acordo com as regras estabelecidas;\n\ne) Pagar os encargos que derivem da prestação dos cuidados de saúde, quando for caso disso.\n\n3 - Relativamente a menores e incapazes, a lei deve prever as condições em que os seus representantes legais podem exercer os direitos que lhes cabem, designadamente o de recusarem a assistência, com observância dos princípios constitucionalmente definidos.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445366": {
+   "fragment_id": "37348175",
+   "type": 2,
+   "heading": "Base XV — Profissionais de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XV — Profissionais de saúde\n\n1 - A lei estabelece os requisitos indispensáveis ao desempenho de funções e os direitos e deveres dos profissionais de saúde, designadamente os de natureza deontológica, tendo em atenção a relevância social da sua actividade.\n\n2 - A política de recursos humanos para a saúde visa satisfazer as necessidades da população, garantir a formação, a segurança e o estímulo dos profissionais, incentivar a dedidação plena, evitando conflitos de interesse entre a actividade pública e a actividade privada, facilitar a mobilidade entre o sector público e o sector privado e procurar uma adequada cobertura no território nacional.\n\n3 - O Ministério da Saúde organiza um registo nacional de todos os profissionais de saúde, com exclusão daqueles cuja inscrição seja obrigatória numa associação profissional de direito público.\n\n4 - A inscrição obrigatória referida no número anterior é da responsabilidade da respectiva associação profissional de direito público e funciona como registo nacional dos profissionais nela inscritos, sendo facultada ao Ministério da Saúde sempre que por este solicitada.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445367": {
+   "fragment_id": "37348275",
+   "type": 2,
+   "heading": "Base XVI — Formação do pessoal de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XVI — Formação do pessoal de saúde\n\n1 - A formação e o aperfeiçoamento profissional, incluindo a formação permanente, do pessoal de saúde constituem um objectivo fundamental a prosseguir.\n\n2 - O Ministério da Saúde colabora com o Ministério da Educação nas actividades de formação que estiverem a cargo deste, designadamente facultando nos seus serviços campos de ensino prático e de estágios, e prossegue as actividades que lhe estiverem cometidas por lei nesse domínio.\n\n3 - A formação do pessoal deve assegurar uma qualificação técnico-científica tão elevada quanto possível tendo em conta o ramo e o nível do pessoal em causa, despertar nele o sentido da responsabilidade profissional, sem esquecer a preocupação da melhor utilização dos recursos disponíveis, e, em todos os casos, orientar-se no sentido de incutir nos profissionais o respeito pela vida e pelos direitos das pessoas e dos doentes como o primeiro dever que lhes cumpre observar.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445368": {
+   "fragment_id": "37348375",
+   "type": 2,
+   "heading": "Base XVII — Investigação",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XVII — Investigação\n\n1 - É apoiada a investigação com interesse para a saúde, devendo ser estimulada a colaboração neste domínio entre os serviços do Ministério da Saúde e as universidades, a Junta Nacional de Investigação Científica e Tecnológica e outras entidades, públicas ou privadas.\n\n2 - Em particular, deve ser promovida a participação portuguesa em programas de investigação no campo da saúde levados a efeito no âmbito das Comunidades Europeias.\n\n3 - As acções de investigação a apoiar devem sempre observar, como princípio orientador, o de que a vida humana é o valor máximo a promover e a salvaguardar em quaisquer circunstâncias.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445369": {
+   "fragment_id": "37348475",
+   "type": 2,
+   "heading": "Base XVIII — Organização do território para o sistema de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XVIII — Organização do território para o sistema de saúde\n\n1 - A organização do sistema de saúde baseia-se na divisão do território nacional em regiões de saúde.\n\n2 - As regiões de saúde são dotadas de meios de acção bastantes para satisfazer autonomamente as necessidades correntes de saúde dos seus habitantes, podendo, quando necessário, ser estabelecidos acordos inter-regionais para a utilização de determinados recursos.\n\n3 - As regiões podem ser divididas em sub-regiões de saúde, de acordo com as necessidades das populações e a operacionalidade do sistema.\n\n4 - Cada concelho constitui uma área de saúde, mas podem algumas localidades ser incluídas em áreas diferentes das dos concelhos a que pertençam quando se verifique que tal é indispensável para tornar mais rápida e cómoda a prestação dos cuidados de saúde.\n\n5 - As grandes aglomerações urbanas podem ter organização de saúde própria a estabelecer em lei, tomando em conta as respectivas condições demográficas e sanitárias.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445370": {
+   "fragment_id": "37348575",
+   "type": 2,
+   "heading": "Base XIX — Autoridades de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XIX — Autoridades de saúde\n\n1 - As autoridades de saúde situam-se a nível nacional, regional e concelhio, para garantir a intervenção oportuna e discricionária do Estado em situações de grave risco para a saúde pública, e estão hierarquicamente dependentes do Ministro da Saúde, através do director-geral competente.\n\n2 - As autoridades de saúde têm funções de vigilância das decisões dos órgãos e serviços executivos do Estado em matéria de saúde pública, podendo suspendê-las quando as considerem prejudiciais.\n\n3 - Cabe ainda especialmente às autoridades de saúde:\n\na) Vigiar o nível sanitário dos aglomerados populacionais, dos serviços, estabelecimentos e locais de utilização pública para defesa da saúde pública;\n\nb) Ordenar a suspensão de actividade ou o encerramento dos serviços, estabelecimentos e locais referidos na alínea anterior, quando funcionem em condições de grave risco para a saúde pública;\n\nc) Desencadear, de acordo com a Constituição e a lei, o internamento ou a prestação compulsiva de cuidados de saúde a indivíduos em situação de prejudicarem a saúde pública;\n\nd) Exercer a vigilância sanitária das fronteiras;\n\ne) Proceder à requisição de serviços, estabelecimentos e profissionais de saúde em casos de epidemias graves e outras situações semelhantes.\n\n4 - As funções de autoridade de saúde são independentes das de natureza operativa dos serviços de saúde e são desempenhadas por médicos, preferencialmente da carreira de saúde pública.\n\n5 - Das decisões das autoridades de saúde há sempre recurso hierárquico e contencioso nos termos da lei.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445371": {
+   "fragment_id": "37348675",
+   "type": 2,
+   "heading": "Base XX — Situações de grave emergência",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XX — Situações de grave emergência\n\n1 - Quando ocorram situações de catástrofe ou de outra grave emergência de saúde, o Ministro da Saúde toma as medidas de excepção que forem indispensáveis, coordenando a actuação dos serviços centrais do Ministério com os órgãos do Serviço Nacional de Saúde e os vários escalões das autoridades de saúde.\n\n2 - Sendo necessário, pode o Governo, nas situações referidas no n.º 1, requisitar, pelo tempo absolutamente indispensável, os profissionais e estabelecimentos de saúde em actividade privada.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445372": {
+   "fragment_id": "37348775",
+   "type": 2,
+   "heading": "Base XXI — Actividade farmacêutica",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXI — Actividade farmacêutica\n\n1 - A actividade farmacêutica abrange a produção, comercialização, importação e exportação de medicamentos e produtos medicamentosos.\n\n2 - A actividade farmacêutica tem legislação especial e fica submetida à disciplina e fiscalização conjuntas dos ministérios competentes, de forma a garantir a defesa e a protecção da saúde, a satisfação das necessidades da população e a racionalização do consumo de medicamentos e produtos medicamentosos.\n\n3 - A disciplina referida no número anterior incide sobre a instalação de equipamentos produtores e os estabelecimentos distribuidores de medicamentos e produtos medicamentosos e o seu funcionamento.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445373": {
+   "fragment_id": "37348875",
+   "type": 2,
+   "heading": "Base XXII — Ensaios clínicos de medicamentos",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXII — Ensaios clínicos de medicamentos\n\nOs ensaios clínicos de medicamentos são sempre realizados sob direcção e responsabilidade médica, segundo regras a definir em diploma próprio.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124445374": {
+   "fragment_id": "37348975",
+   "type": 2,
+   "heading": "Base XXIII — Outras actividades complementares",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXIII — Outras actividades complementares\n\n1 - Estão sujeitas a regras próprias e à disciplina e inspecção do Ministério da Saúde, e, sendo caso disso, dos outros ministérios competentes, as actividades que se destinem a facultar meios materiais ou de organização indispensáveis à prestação de cuidados de saúde, mesmo quando desempenhadas pelo sector privado.\n\n2 - Incluem-se, nomeadamente, nas actividades referidas no número anterior a colheita e distribuição de produtos biológicos, a produção e distribuição de bens e produtos alimentares, a produção, a comercialização e a instalação de equipamentos e bens de saúde, o estabelecimento e exploração de seguros de saúde e o transporte de doentes.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482675": {
+   "fragment_id": "35811175",
+   "type": 1,
+   "heading": "Capítulo III — Do Serviço Nacional de Saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo III — Do Serviço Nacional de Saúde\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482676": {
+   "fragment_id": "37349075",
+   "type": 2,
+   "heading": "Base XXIV — Características",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXIV — Características\n\nO Serviço Nacional de Saúde caracteriza-se por:\n\na) Ser universal quanto à população abrangida;\n\nb) Prestar integradamente cuidados globais ou garantir a sua prestação;\n\nc) Ser tendencialmente gratuito para os utentes, tendo em conta as condições económicas e sociais dos cidadãos;\n\nd) Garantir a equidade no acesso dos utentes, com o objectivo de atenuar os efeitos das desigualdades económicas, geográficas e quaisquer outras no acesso aos cuidados;\n\ne) Ter organização regionalizada e gestão descentralizada e participada.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482677": {
+   "fragment_id": "37349175",
+   "type": 2,
+   "heading": "Base XXV — Beneficiários",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXV — Beneficiários\n\n1 - São beneficiários do Serviço Nacional de saúde todos os cidadãos portugueses.\n\n2 - São igualmente beneficiários do Serviço Nacional de Saúde os cidadãos nacionais de Estados membros das Comunidades Europeias, nos termos das normas comunitárias aplicáveis.\n\n3 - São ainda beneficiários do Serviço Nacional de saúde os cidadãos estrangeiros residentes em Portugal, em condições de reciprocidade, e os cidadãos apátridas residentes em Portugal.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482678": {
+   "fragment_id": "37349275",
+   "type": 2,
+   "heading": "Base XXVI — Organização do Serviço Nacional de Saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXVI — Organização do Serviço Nacional de Saúde\n\n1 - O Serviço Nacional de Saúde é tutelado pelo Ministro da Saúde e é administrado a nível de cada região de saúde pelo conselho de administração da respectiva administração regional de saúde.\n\n2 - Em cada sub-região existe um coordenador sub-regional de saúde e em cada concelho uma comissão concelhia de saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482679": {
+   "fragment_id": "37349375",
+   "type": 2,
+   "heading": "Base XXVII — Administrações regionais de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXVII — Administrações regionais de saúde\n\n1 - As administrações regionais de saúde são responsáveis pela saúde das populações da respectiva área geográfica, coordenam a prestação de cuidados de saúde de todos os níveis e adeqúam os recursos disponíveis às necessidades, segundo a política superiormente definida e de acordo com as normas e directivas emitidas pelo Ministério da Saúde.\n\n2 - As administrações regionais de saúde são dirigidas por um conselho de administração, cuja composição é definida por lei.\n\n3 - Cabe em especial ao conselho de administração das administrações regionais de saúde:\n\na) Propor os planos de actividade e o orçamento respectivo, acompanhar a sua execução e deles prestar contas;\n\nb) Orientar, coordenar e acompanhar a gestão do Serviço Nacional de Saúde a nível regional;\n\nc) Representar o Serviço Nacional de Saúde em juízo e fora dele, a nível da região respectiva;\n\nd) Regular a procura entre os estabelecimentos e serviços da região e orientar, coordenar e acompanhar o respectivo funcionamento, sem prejuízo da autonomia de gestão destes consagrada na lei;\n\ne) Contratar com entidades privadas a prestação de cuidados de saúde aos beneficiários do Serviço Nacional de Saúde na respectiva região, sem prejuízo de acordos de âmbito nacional sobre a mesma matéria;\n\nf) Avaliar permanentemente os resultados obtidos;\n\ng) Coordenar o transporte de doentes, incluindo o que esteja a cargo de entidades privadas.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482680": {
+   "fragment_id": "37349475",
+   "type": 2,
+   "heading": "Base XXVIII — Coordenador sub-regional de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXVIII — Coordenador sub-regional de saúde\n\nAo coordenador sub-regional de saúde cabe coadjuvar a administração regional no exercício das suas funções no âmbito da sub-região e exercer as funções que o conselho de administração da administração regional nele delegar.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482681": {
+   "fragment_id": "37349575",
+   "type": 2,
+   "heading": "Base XXIX — Comissões concelhias de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXIX — Comissões concelhias de saúde\n\nAs comissões concelhias de saúde são órgãos consultivos das administrações regionais de saúde em relação a cada concelho da respectiva área de actuação.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482682": {
+   "fragment_id": "37349675",
+   "type": 2,
+   "heading": "Base XXX — Avaliação permanente",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXX — Avaliação permanente\n\n1 - O funcionamento do Serviço Nacional de Saúde está sujeito a avaliação permanente, baseada em informações de natureza estatística, epidemiológica e administrativa.\n\n2 - É igualmente colhida informação sobre a qualidade dos serviços, o seu grau de aceitação pela população utente, o nível de satisfação dos profissionais e a razoabilidade da utilização dos recursos em termos de custos e benefícios.\n\n3 - Esta informação é tratada em sistema completo e integrado que abrange todos os níveis e todos os órgãos e serviços.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482683": {
+   "fragment_id": "37349775",
+   "type": 2,
+   "heading": "Base XXXI — Estatuto dos profissionais de saúde do Serviço NacionaI de Saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XXXI — Estatuto dos profissionais de saúde do Serviço NacionaI de Saúde\n\n1 - Os profissionais de saúde que trabalham no Serviço Nacional de Saúde estão submetidos às regras próprias da Administração Pública e podem constituir-se em corpos especiais, sendo alargado o regime laboral aplicável, de futuro, à lei do contrato individual de trabalho e à contratação colectiva de trabalho.\n\n2 - A lei estabelece, na medida do que seja necessário, as regras próprias sobre o estatuto dos profissionais de saúde, o qual deve ser adequado ao exercício das funções e delimitado pela ética e deontologia profissionais.\n\n3 - Aos profissionais dos quadros do Serviço Nacional de Saúde é permitido, sem prejuízo das normas que regulam o regime de trabalho de dedicação exclusiva, exercer a actividade privada, não podendo dela resultar para o Serviço Nacional de Saúde qualquer responsabilidade pelos encargos resultantes dos cuidados por esta forma prestados aos seus beneficiários.\n\n4 - É assegurada formação permanente aos profissionais de saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "124482684": {
+   "fragment_id": "37349875",
+   "type": 2,
+   "heading": "Base XXXII — Médicos",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXXII — Médicos\n\n1 - Ao pessoal médico cabe no Serviço Nacional de Saúde particular relevo e responsabilidade.\n\n2 - É definido na lei o conceito de acto médico.\n\n3 - O ingresso dos médicos e a sua permanência no Serviço Nacional de Saúde dependem de inscrição na Ordem dos Médicos.\n\n4 - É reconhecida à Ordem dos Médicos a função de definição da deontologia médica, bem como a de participação, em termos a regulamentar, na definição da qualidade técnica mesmo para os actos praticados no âmbito do Serviço Nacional de Saúde, estando-lhe também cometida a fiscalização do exercício livre da actividade médica.\n\n5 - A lei regula com a mesma dignidade as carreiras médicas, independentemente de serem estruturadas de acordo com a diferenciação profissional.\n\n6 - A lei pode prever que os médicos da carreira hospitalar sejam autorizados a assistir, nos hospitais, os seus doentes privados, em termos a regulamentar.\n\n7 - Os serviços e estabelecimentos do Serviço Nacional de Saúde podem contratar para tarefas específicas médicos do sector privado especialmente qualificados.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482685": {
+   "fragment_id": "37349975",
+   "type": 2,
+   "heading": "Base XXXIII — Financiamento",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XXXIII — Financiamento\n\n1 - O Serviço Nacional de Saúde é financiado pelo Orçamento do Estado, através do pagamento dos actos e actividades efectivamente realizados segundo uma tabela de preços que consagra uma classificação dos mesmo actos, técnicas e serviços de saúde.\n\n2 - Os serviços e estabelecimentos do Serviço Nacional de Saúde podem cobrar as seguintes receitas, a inscrever nos seus orçamentos próprios:\n\na) O pagamento de cuidados em quarto particular ou outra modalidade não prevista para a generalidade dos utentes;\n\nb) O pagamento de cuidados por parte de terceiros responsáveis, legal ou contratualmente, nomeadamente subsistemas de saúde ou entidades seguradoras;\n\nc) O pagamento de cuidados prestados a não beneficiários do Serviço Nacional de Saúde quando não há terceiros responsáveis;\n\nd) O pagamento de taxas por serviços prestados ou utilização de instalações ou equipamentos nos termos legalmente previstos;\n\ne) O produto de rendimentos próprios;\n\nf) O produto de benemerências ou doações;\n\ng) O produto da efectivação de responsabilidade dos utentes por infracções às regras da organização e do funcionamento do sistema e por uso doloso dos serviços e do material de saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "124482686": {
+   "fragment_id": "37350075",
+   "type": 2,
+   "heading": "Base XXXIV — Taxas moderadoras",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXXIV — Taxas moderadoras\n\n1 - Com o objectivo de completar as medidas reguladoras do uso dos serviços de saúde, podem ser cobradas taxas moderadoras, que constituem também receita do Serviço Nacional de Saúde.\n\n2 - Das taxas referidas no número anterior são isentos os grupos populacionais sujeitos a maiores riscos e os financeiramente mais desfavorecidos, nos termos determinados na lei.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482687": {
+   "fragment_id": "37350175",
+   "type": 2,
+   "heading": "Base XXXV — Benefícios",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXXV — Benefícios\n\n1 - A lei pode especificar as prestações garantidas aos beneficiários do Serviço Nacional de Saúde ou excluir do objecto dessas prestações cuidados não justificados pelo estado de saúde.\n\n2 - Só em circunstâncias excepcionais em que seja impossível garantir em Portugal o tratamento nas condições exigíveis de segurança e em que seja possível fazê-lo no estrangeiro, o Serviço Nacional de Saúde suporta as respectivas despesas.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482688": {
+   "fragment_id": "37350275",
+   "type": 2,
+   "heading": "Base XXXVI — Gestão dos hospitais e centros de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XXXVI — Gestão dos hospitais e centros de saúde\n\n1 - A gestão das unidades de saúde deve obedecer, na medida do possível, a regras de gestão empresarial e a lei pode permitir a realização de experiências inovadoras de gestão, submetidas a regras por ela fixadas.\n\n2 - Nos termos a estabelecer em lei, pode ser autorizada a entrega, através de contratos de gestão, de hospitais ou centros de saúde do Serviço Nacional de saúde a outras entidades ou, em regime de convenção, a grupos de médicos.\n\n3 - A lei pode prever a criação de unidades de saúde com a natureza de sociedades anónimas de capitais públicos.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "124482689": {
+   "fragment_id": "35811275",
+   "type": 1,
+   "heading": "Capítulo IV — Das iniciativas particulares de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo IV — Das iniciativas particulares de saúde\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482690": {
+   "fragment_id": "37350375",
+   "type": 2,
+   "heading": "Base XXXVII — Apoio ao sector privado",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXXVII — Apoio ao sector privado\n\n1 - O Estado apoia o desenvolvimento do sector privado de prestação de cuidados de saúde, em função das vantagens sociais decorrentes das iniciativas em causa e em concorrência com o sector público.\n\n2 - O apoio pode traduzir-se, nomeadamente, na facilitação da mobilidade do pessoal do Serviço Nacional de saúde que deseje trabalhar no sector privado, na criação de incentivos à criação de unidades privadas e na reserva de quotas de leitos de internamento em cada região de saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482691": {
+   "fragment_id": "37350475",
+   "type": 2,
+   "heading": "Base XXXVIII — Instituições particulares de solidariedade social com objectivos de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXXVIII — Instituições particulares de solidariedade social com objectivos de saúde\n\n1 - As instituições particulares de solidariedade social com objectivos específicos de saúde intervêm na acção comum a favor da saúde colectiva e dos indivíduos, de acordo com a legislação que lhes é própria e a presente lei.\n\n2 - As instituições particulares de solidariedade social ficam sujeitas, no que respeita às suas actividades de saúde, ao poder orientador e de inspecção dos serviços competentes do Ministério da Saúde, sem prejuízo da independência de gestão estabelecida na Constituição e na sua legislação própria.\n\n3 - Para além do apoio referido no n.º 2 da base XXXVII, os serviços de saúde destas instituições podem ser subsidiados financeiramente e apoiados tecnicamente pelo Estado e pelas autarquias locais.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482692": {
+   "fragment_id": "37350575",
+   "type": 2,
+   "heading": "Base XXXIX — Organizações de saúde com fins lucrativos",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XXXIX — Organizações de saúde com fins lucrativos\n\n1 - As organizações privadas com objectivos de saúde e fins lucrativos estão sujeitas a licenciamento, regulamentação e vigilância de qualidade por parte do Estado.\n\n2 - A hospitalização privada, em especial, actua em articulação com o Serviço Nacional de Saúde.\n\n3 - Compreendem-se na hospitalização privada não apenas as clínicas ou casas de saúde, gerais ou especializadas, mas ainda os estabelecimentos termais com internamento não pertencentes ao Estado ou às autarquias locais.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482693": {
+   "fragment_id": "37350675",
+   "type": 2,
+   "heading": "Base XL — Profissionais de saúde em regime liberal",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+   ],
+   "markdown": "###### Base XL — Profissionais de saúde em regime liberal\n\n1 - Os profissionais de saúde que asseguram cuidados em regime de profissão liberal desempenham função de importância social reconhecida e protegida pela lei.\n\n2 - O exercício de qualquer profissão que implique a prestação de cuidados de saúde em regime liberal é regulamentado e fiscalizado pelo Ministério da Saúde, sem prejuízo das funções cometidas à Ordem dos Médicos, à Ordem dos Enfermeiros e à Ordem dos Farmacêuticos.\n\n3 - O Serviço Nacional de Saúde, os médicos, os farmacêuticos e outros profissionais de saúde em exercício liberal devem prestar-se apoio mútuo.\n\n4 - Os profissionais de saúde em regime liberal devem ser titulares de seguro contra os riscos decorrentes do exercício das suas funções.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 27/2002 - Diário da República n.º 258/2002, Série I-A de 2002-11-08](https://diariodarepublica.pt/dr/detalhe/lei/27-2002-425487), em vigor a partir de 2003-01-09"
+  },
+  "124482694": {
+   "fragment_id": "37350775",
+   "type": 2,
+   "heading": "Base XLI — Convenções",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XLI — Convenções\n\n1 - No quadro estabelecido pelo n.º 3 da base XII, podem ser celebradas convenções com médicos e outros profissionais de saúde ou casas de saúde, clínicas ou hospitais privados, quer a nível de cuidados de saúde primários quer a nível de cuidados diferenciados.\n\n2 - A lei estabelece as condições de celebração de convenções e, em particular, as garantias das entidades convencionadas.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482695": {
+   "fragment_id": "37350875",
+   "type": 2,
+   "heading": "Base XLII — Seguros de saúde",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XLII — Seguros de saúde\n\nA lei fixa incentivos ao estabelecimento de seguros de saúde.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482696": {
+   "fragment_id": "35811375",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482697": {
+   "fragment_id": "37350975",
+   "type": 2,
+   "heading": "Base XLIII — Regulamentação",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XLIII — Regulamentação\n\n1 - O Governo deve desenvolver em decretos-leis as bases da presente lei que não sejam imediatamente aplicáveis.\n\n2 - As administrações regionais de saúde devem ser progressivamente implantadas, podendo, numa fase inicial, abranger só parte da zona total ou parte dos serviços prestadores de cuidados.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482698": {
+   "fragment_id": "37351075",
+   "type": 2,
+   "heading": "Base XLIV — Regime transitório",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XLIV — Regime transitório\n\nAs convenções celebradas com profissionais do Serviço Nacional de Saúde mantêm-se transitoriamente, nos termos dos respectivos contratos, em condições e por período que vierem a ser estabelecidos em diploma regulamentar.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482699": {
+   "fragment_id": "37351175",
+   "type": 2,
+   "heading": "Base XLV — Entrada em vigor",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "###### Base XLV — Entrada em vigor\n\nA presente lei entra em vigor 30 dias após a sua publicação.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  },
+  "124482700": {
+   "fragment_id": "35811475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-11-03",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+   ],
+   "markdown": "Aprovada em 12 de Julho de 1990.\n\nO Presidente da Assembleia da República, Vítor Pereiro Crespo.\n\nPromulgada em 31 de Julho de 1990.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 3 de Agosto de 1990.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva.\n\n> Revogado pelo/a Artigo 3.º do/a [Lei n.º 95/2019 - Diário da República n.º 169/2019, Série I de 2019-09-04](https://diariodarepublica.pt/dr/detalhe/lei/95-2019-124417108), em vigor a partir de 2019-11-03"
+  }
+ }
+}

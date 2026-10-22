@@ -1,0 +1,1017 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:124324704:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-124317403",
+ "dre_path": "/dr/detalhe/decreto-lei/132-2019-124324704",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-08-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124317120",
+    "124317121",
+    "124317122",
+    "124317123",
+    "124317124",
+    "124317125",
+    "124317126",
+    "124317127",
+    "124317128",
+    "124317129",
+    "124317130",
+    "124317131",
+    "124317132",
+    "124317133",
+    "124317134",
+    "124317135",
+    "124317136",
+    "124317137",
+    "124317138",
+    "124317139",
+    "124317140",
+    "124317141",
+    "124317142",
+    "124317143",
+    "124317144",
+    "124317145",
+    "124317146",
+    "124317147",
+    "124317148",
+    "124317149",
+    "124317150",
+    "124317151",
+    "124317152",
+    "124317153",
+    "124317154",
+    "124317155",
+    "124317156",
+    "124317157",
+    "124317158",
+    "124317159",
+    "124317160",
+    "124317161",
+    "124317162",
+    "124317163",
+    "124317164",
+    "124317165",
+    "124317166",
+    "124317167",
+    "124317168",
+    "124317169",
+    "124317170",
+    "124317171",
+    "124317172",
+    "124317173",
+    "124317174",
+    "124344775",
+    "124344776",
+    "124344777",
+    "124344778",
+    "124344779",
+    "124344780",
+    "124344781",
+    "124344783",
+    "124344784",
+    "124344785",
+    "124344786",
+    "124344787",
+    "124344788",
+    "124344789"
+   ]
+  },
+  {
+   "date": "2022-08-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:187413389:por",
+     "title": "Decreto-Lei n.º 53/2022",
+     "published": "2022-08-12",
+     "dre_path": "/dr/detalhe/decreto-lei/53-2022-187413389"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 38.º"
+   ],
+   "fragments": [
+    "124317120",
+    "124317121",
+    "124317122",
+    "124317123",
+    "124317124",
+    "124317125",
+    "124317126",
+    "124317127",
+    "124317128",
+    "124317129",
+    "124317130",
+    "124317131",
+    "124317132",
+    "124317133",
+    "124317134",
+    "124317135",
+    "124317136",
+    "124317137",
+    "124317138",
+    "124317139",
+    "124317140",
+    "124317141",
+    "124317142",
+    "124317143",
+    "124317144",
+    "124317145",
+    "124317146",
+    "124317147",
+    "124317148",
+    "124317149",
+    "124317150",
+    "124317151",
+    "124317152",
+    "124317153",
+    "124317154",
+    "124317155",
+    "124317156",
+    "124317157",
+    "124317158",
+    "124317159",
+    "124317160",
+    "124317161",
+    "124317162",
+    "124317163",
+    "124317164",
+    "124317165",
+    "124317166",
+    "124317167",
+    "187584873",
+    "124317169",
+    "124317170",
+    "124317171",
+    "124317172",
+    "124317173",
+    "124317174",
+    "124344775",
+    "124344776",
+    "124344777",
+    "124344778",
+    "124344779",
+    "124344780",
+    "124344781",
+    "124344782",
+    "124344783",
+    "124344784",
+    "124344785",
+    "124344786",
+    "124344787",
+    "124344788",
+    "124344789"
+   ]
+  },
+  {
+   "date": "2024-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:840060195:por",
+     "title": "Decreto-Lei n.º 19/2024",
+     "published": "2024-02-02",
+     "dre_path": "/dr/detalhe/decreto-lei/19-2024-840060195"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 45.º"
+   ],
+   "fragments": [
+    "124317120",
+    "124317121",
+    "124317122",
+    "124317123",
+    "124317124",
+    "124317125",
+    "124317126",
+    "124317127",
+    "124317128",
+    "124317129",
+    "124317130",
+    "124317131",
+    "124317132",
+    "124317133",
+    "124317134",
+    "124317135",
+    "124317136",
+    "124317137",
+    "124317138",
+    "124317139",
+    "124317140",
+    "124317141",
+    "124317142",
+    "124317143",
+    "124317144",
+    "124317145",
+    "124317146",
+    "124317147",
+    "124317148",
+    "124317149",
+    "124317150",
+    "124317151",
+    "124317152",
+    "124317153",
+    "124317154",
+    "124317155",
+    "124317156",
+    "124317157",
+    "124317158",
+    "124317159",
+    "124317160",
+    "124317161",
+    "124317162",
+    "124317163",
+    "124317164",
+    "124317165",
+    "124317166",
+    "124317167",
+    "187584873",
+    "124317169",
+    "124317170",
+    "124317171",
+    "124317172",
+    "124317173",
+    "124317174",
+    "840062506",
+    "124344776",
+    "124344777",
+    "124344778",
+    "124344779",
+    "124344780",
+    "124344781",
+    "124344782",
+    "124344783",
+    "124344784",
+    "124344785",
+    "124344786",
+    "124344787",
+    "124344788",
+    "124344789"
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:913223418:por",
+     "title": "Decreto-Lei n.º 59/2025",
+     "published": "2025-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2025-913223418"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 38.º",
+    "Altera Artigo 39.º",
+    "Altera Artigo 42.º",
+    "Altera Anexo V",
+    "Altera Anexo VI",
+    "Altera Anexo VII"
+   ],
+   "fragments": [
+    "124317120",
+    "124317121",
+    "913450666",
+    "124317123",
+    "124317124",
+    "124317125",
+    "124317126",
+    "124317127",
+    "124317128",
+    "124317129",
+    "124317130",
+    "124317131",
+    "124317132",
+    "124317133",
+    "124317134",
+    "124317135",
+    "124317136",
+    "124317137",
+    "124317138",
+    "124317139",
+    "124317140",
+    "124317141",
+    "124317142",
+    "124317143",
+    "124317144",
+    "124317145",
+    "124317146",
+    "124317147",
+    "124317148",
+    "124317149",
+    "124317150",
+    "124317151",
+    "124317152",
+    "124317153",
+    "124317154",
+    "124317155",
+    "124317156",
+    "124317157",
+    "124317158",
+    "124317159",
+    "124317160",
+    "124317161",
+    "124317162",
+    "124317163",
+    "124317164",
+    "124317165",
+    "124317166",
+    "913450659",
+    "913450660",
+    "913450661",
+    "124317170",
+    "124317171",
+    "913450662",
+    "124317173",
+    "124317174",
+    "840062506",
+    "124344776",
+    "124344777",
+    "124344778",
+    "124344779",
+    "124344780",
+    "124344781",
+    "124344782",
+    "124344783",
+    "124344784",
+    "124344785",
+    "124344786",
+    "913450663",
+    "913450664",
+    "913450665"
+   ]
+  }
+ ],
+ "fragments": {
+  "124317120": {
+   "fragment_id": "124317404",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 132/2019\n\nde 30 de agosto\n\nSumário: Procede à revisão das carreiras especiais da Autoridade Tributária e Aduaneira.\n\nNo quadro da reforma dos regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, a Lei n.º 12-A/2008, de 27 de fevereiro (LVCR), determinou a revisão das carreiras de regime especial e corpos especiais, tendo em vista adequá-las ao novo modelo de carreiras definido por aquele diploma, determinação que se manteve na Lei n.º 35/2014, de 20 de junho, que aprovou em anexo a Lei Geral do Trabalho em Funções Públicas (LTFP).\n\nO Decreto-Lei n.º 117/2011, de 15 de dezembro, procedeu à fusão da Direção-Geral de Impostos (DGCI), da Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e da Direção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA), extinguindo-as e criando a Autoridade Tributária e Aduaneira (AT), cuja orgânica foi aprovada pelo Decreto-Lei n.º 118/2011, de 15 de dezembro, tendo-se, no entanto, mantido inalteradas as diversas carreiras de regime especial do pessoal dessas três direções-gerais.\n\nDecorridos oito anos sobre a criação da AT, importa repensar e reorganizar a estrutura das atuais carreiras de regime especial existentes naquelas direções-gerais, de forma a gerar sinergias essenciais ao bom desempenho da AT, potenciando os níveis de eficiência e eficácia na prossecução dos seus objetivos e no cumprimento da sua missão.\n\nNeste contexto, assume especial importância dotar a AT da capacidade operacional para a ação de inspeção tributária e aduaneira, reforçando a sua eficácia no combate à fraude de elevada complexidade e à economia informal, bem como na prevenção e repressão de práticas de fraude e evasão fiscal e aduaneira, principalmente nos setores e operações consideradas de elevado risco.\n\nA missão da AT e a complexidade das atribuições que lhe estão legalmente cometidas, impõem um elevado grau de especialização dos seus trabalhadores, bem como a sujeição a particulares condições no desempenho das suas funções, justificando a continuação da existência de carreiras especiais, com conteúdos funcionais e sistema remuneratório próprio.\n\nPor outro lado, no quadro do novo paradigma de estrutura das carreiras da Administração Pública trazido pela LVCR e pela LTFP, impõe-se rever a fundo a atual realidade, criando novas carreiras que permitam aumentar a exigência de qualificação para o exercício de funções como trabalhador da AT, em conformidade com o elevado grau de especialização e de conhecimentos e competências que a complexidade técnica do exercício das suas funções exige.\n\nAssim, com respeito pelos princípios gerais constantes da LVCR e da LTFP, nomeadamente de redução do número de carreiras e da simplificação da respetiva estrutura, o presente diploma procede à revisão de dez carreiras de regime especial das extintas DGCI e DGAIEC, que são extintas e dão lugar a duas novas carreiras especiais, de grau de complexidade funcional 3.\n\nAs carreiras especiais agora criadas, com estrutura unicategorial, são definidas pelo âmbito da sua ação e respetivo conteúdo funcional, no quadro da prossecução da missão e atribuições da AT: uma carreira de gestão e inspeção tributária e aduaneira, vocacionada para a administração e cobrança dos impostos, direitos aduaneiros e demais tributos e outras receitas, cuja cobrança seja cometida à AT, e para desenvolver a ação de inspeção interna; e uma segunda carreira, de inspeção e auditoria tributária e aduaneira, direcionada para a ação de inspeção externa e de auditoria tributária e aduaneira, incluindo o controlo da fronteira externa da União Europeia, a fiscalização e controlo de mercadorias e bens e a prevenção e repressão da fraude e evasão fiscais e aduaneiras.\n\nProcede-se, ainda, à uniformização e atualização de vários regimes jurídicos atualmente dispersos por uma multiplicidade de diplomas, que regulavam as carreiras das extintas DGCI e DGAIEC e o estatuto do pessoal nelas integrado.\n\nO presente diploma determina, ainda, ao abrigo do artigo 106.º da LVCR, a manutenção de seis carreiras de regime especial das extintas DGCI e DGAIEC como carreiras subsistentes, tendo em conta o grau de complexidade funcional das mesmas, sem prejuízo da salvaguarda dos direitos dos trabalhadores nelas integrados e da possibilidade de estes virem a integrar as novas carreiras agora criadas.\n\nForam observados os procedimentos decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada pela Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\nAssim:\n\nAo abrigo do disposto no artigo 41.º e na alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, no artigo 84.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, nos artigos 101.º e 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "124317121": {
+   "fragment_id": "124317405",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "124317122": {
+   "fragment_id": "124317406",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o regime da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira da Autoridade Tributária e Aduaneira (AT), bem como das chefias tributárias e aduaneiras.\n\n2 - O presente decreto-lei procede à revisão, por extinção, das carreiras de inspetor tributário, de técnico de administração tributária, de gestor tributário, de técnico economista, de técnico jurista e de tesoureiro de finanças da extinta Direção-Geral dos Impostos (DGCI), e de técnico superior aduaneiro, de técnico superior aduaneiro de laboratório, de técnico verificador aduaneiro e de analista aduaneiro de laboratório da extinta Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), determinando e regulando a transição dos trabalhadores nelas integrados.\n\n3 - O presente decreto-lei determina, ainda, nos termos do artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, a subsistência das seguintes carreiras:\n\na) Investigador tributário economista;\n\nb) Investigador tributário jurista;\n\nc) Técnico de administração tributária adjunto do grupo de Administração Tributária;\n\nd) Verificador auxiliar aduaneiro;\n\ne) Secretário aduaneiro:\n\nf) Analista aduaneiro auxiliar de laboratório.\n\n4 - O disposto nos capítulos III e IV e no n.º 2 do artigo 35.º aplica-se, com as necessárias adaptações, aos trabalhadores da AT integrados nas restantes carreiras, não reguladas no presente decreto-lei."
+  },
+  "124317123": {
+   "fragment_id": "124317407",
+   "type": 11,
+   "heading": "Artigo 2.º — Modalidade do vínculo e estrutura das carreiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modalidade do vínculo e estrutura das carreiras\n\n1 - O exercício de funções na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira é efetuado na modalidade de nomeação, nos termos da Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, e do presente decreto-lei.\n\n2 - As carreiras especiais identificadas no número anterior são unicategoriais, conforme previsto nos anexos I e II ao presente decreto-lei e do qual fazem parte integrante, e de grau de complexidade funcional 3."
+  },
+  "124317124": {
+   "fragment_id": "124317408",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos\n\nA constituição de vínculo de emprego público dos trabalhadores a integrar nas carreiras especiais previstas no presente decreto-lei depende de:\n\na) Observância dos requisitos gerais previstos no artigo 17.º da LTFP;\n\nb) Titularidade do grau de licenciado; e\n\nc) Aprovação em curso de formação específico."
+  },
+  "124317125": {
+   "fragment_id": "124317409",
+   "type": 11,
+   "heading": "Artigo 4.º — Procedimento concursal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Procedimento concursal\n\n1 - A integração na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira faz-se por procedimento concursal.\n\n2 - A tramitação processual, os métodos de seleção indispensáveis ao exercício de funções e à seleção dos candidatos obedecem ao previsto na LTFP.\n\n3 - Caso a caraterização dos postos de trabalho para o exercício de funções nas carreiras a que se refere o n.º 1, constante do mapa de pessoal, assim o preveja, o procedimento concursal pode prever requisitos especiais relativos à área de formação académica e à experiência ou formação profissionais, bem como explicitar os critérios de seleção a que se refere o n.º 4 do artigo 7.º"
+  },
+  "124317126": {
+   "fragment_id": "124317410",
+   "type": 11,
+   "heading": "Artigo 5.º — Determinação do posicionamento remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Determinação do posicionamento remuneratório\n\nO posicionamento remuneratório dos trabalhadores recrutados para a carreira especial de gestão e inspeção tributária e aduaneira e para a carreira especial de inspeção e auditoria tributária e aduaneira, na sequência de aprovação em procedimento concursal, é objeto de negociação, nos termos do artigo 38.º da LTFP, aplicando-se o disposto no n.º 4 do artigo 4.º do Decreto-Lei n.º 170/2009, de 3 de agosto."
+  },
+  "124317127": {
+   "fragment_id": "124317411",
+   "type": 11,
+   "heading": "Artigo 6.º — Curso de formação específico para ingresso nas carreiras especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Curso de formação específico para ingresso nas carreiras especiais\n\n1 - O ingresso na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira depende da frequência e aprovação em curso de formação específico comum, de caráter probatório e com a duração mínima de 12 meses, desenvolvido de acordo com a política de formação da AT, com os seus princípios programáticos e enquadramento organizacional.\n\n2 - A frequência do curso de formação específico tem lugar durante o período experimental.\n\n3 - O curso de formação específico tem a seguinte estrutura:\n\na) Componente teórica e de prática simulada;\n\nb) Componente prática em contexto de trabalho, nos serviços centrais, regionais e locais, com vista à realização de atividades inerentes às funções e competências das respetivas carreiras.\n\n4 - A classificação final do curso de formação específico resulta da média ponderada da classificação obtida em cada componente, sendo para o efeito avaliados:\n\na) Na componente teórica e de prática simulada, o resultado obtido em testes de conhecimentos realizados durante o curso;\n\nb) Na componente prática em contexto de trabalho, o resultado da avaliação referida ao seu interesse e qualidade de desempenho.\n\n5 - O curso de formação específico é regulado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública."
+  },
+  "124317128": {
+   "fragment_id": "124317412",
+   "type": 11,
+   "heading": "Artigo 7.º — Integração nas carreiras especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Integração nas carreiras especiais\n\n1 - O período experimental dos trabalhadores recrutados para as carreiras especiais previstas no presente decreto-lei tem a duração do curso de formação específico previsto no artigo anterior.\n\n2 - Após a aprovação no curso de formação específico, o período experimental é considerado concluído com sucesso.\n\n3 - São excluídos do período experimental para a carreira especial de gestão e inspeção tributária e aduaneira e para a carreira especial de inspeção e auditoria tributária e aduaneira os trabalhadores que obtenham média aritmética inferior a 9,5 valores no conjunto dos testes de conhecimentos, bem como aqueles que obtiverem nota inferior a 9,5 valores na classificação final do curso de formação a que se refere o artigo anterior.\n\n4 - A integração dos trabalhadores aprovados no período experimental para ingresso na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira, para a qual foi aberto o procedimento concursal, é efetuada pela AT, atento o número de postos de trabalho a preencher em cada uma das carreiras e mediante evidência, no âmbito do período experimental, da adequação do seu perfil aos critérios de seleção, publicitados obrigatoriamente no aviso de abertura do procedimento concursal."
+  },
+  "124317129": {
+   "fragment_id": "124317413",
+   "type": 11,
+   "heading": "Artigo 8.º — Dever de permanência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Dever de permanência\n\n1 - Os trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira ficam obrigados ao cumprimento de um período mínimo de cinco anos de permanência na AT após a conclusão do período experimental, sob pena da obrigação de indemnizar a AT, nos termos do artigo 78.º da LTFP.\n\n2 - O disposto no número anterior é igualmente aplicável às situações de abandono ou desistência injustificada durante o período experimental."
+  },
+  "124317130": {
+   "fragment_id": "124317414",
+   "type": 1,
+   "heading": "Capítulo II — Carreiras especiais de gestão e inspeção tributária e aduaneira e de inspeção e auditoria tributária e aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Carreiras especiais de gestão e inspeção tributária e aduaneira e de inspeção e auditoria tributária e aduaneira"
+  },
+  "124317131": {
+   "fragment_id": "124317415",
+   "type": 11,
+   "heading": "Artigo 9.º — Conteúdo funcional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conteúdo funcional\n\nOs trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira desenvolvem as funções inerentes às qualificações e competências da respetiva carreira, no âmbito dos conteúdos funcionais constantes dos anexos III e IV ao presente decreto-lei e do qual fazem parte integrante."
+  },
+  "124317132": {
+   "fragment_id": "124317416",
+   "type": 1,
+   "heading": "Capítulo III — Direitos e deveres",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Direitos e deveres"
+  },
+  "124317133": {
+   "fragment_id": "124317417",
+   "type": 11,
+   "heading": "Artigo 10.º — Identificação profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Identificação profissional\n\n1 - A identificação dos trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira faz-se através de cartão de identificação de modelo a aprovar por portaria do membro do Governo responsável pela área das finanças, que devem exibir, sempre que solicitado, no exercício das suas funções.\n\n2 - A identificação dos trabalhadores a que se refere o número anterior pode ainda ser feita mediante a exibição de crachá, cujo modelo e condições de atribuição são aprovados por portaria do membro do Governo responsável pela área das finanças."
+  },
+  "124317134": {
+   "fragment_id": "124317418",
+   "type": 11,
+   "heading": "Artigo 11.º — Uniformes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Uniformes\n\nOs trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira podem dispor de uniforme, cujo modelo, condições do uso e de atribuição, renovação, e durabilidade, são definidos em portaria do membro do Governo responsável pela área das finanças."
+  },
+  "124317135": {
+   "fragment_id": "124317419",
+   "type": 11,
+   "heading": "Artigo 12.º — Domicílio profissional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Domicílio profissional\n\n1 - Os trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira têm domicílio profissional no local onde exercem as suas funções.\n\n2 - No caso de os trabalhadores exercerem funções em mais de um local, o domicílio profissional é fixado num desses locais, mediante despacho do dirigente máximo do serviço, com o acordo prévio do interessado."
+  },
+  "124317136": {
+   "fragment_id": "124317420",
+   "type": 11,
+   "heading": "Artigo 13.º — Poderes de autoridade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Poderes de autoridade\n\nOs trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira estão, para todos os efeitos legais, permanentemente investidos em funções de caráter aduaneiro e fiscal, e, no exercício da sua atividade, exercem os poderes de autoridade que lhe são atribuídos por lei no âmbito de cada procedimento ou processo específico."
+  },
+  "124317137": {
+   "fragment_id": "124317421",
+   "type": 11,
+   "heading": "Artigo 14.º — Uso e porte de arma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Uso e porte de arma\n\n1 - Os trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira, no ativo e em efetividade de funções na AT, que realizem ações de vigilância, de investigação criminal, de fiscalização, de inspeção ou outras devidamente justificadas, têm direito à detenção, uso e porte de arma das classes B, B1, e E, de acordo com o disposto nos n.os 3, 4, e 7 do artigo 3.º da Lei n.º 5/2006, de 23 de fevereiro, na sua redação atual, para fins de defesa pessoal, com dispensa da respetiva licença de detenção, uso e porte de arma, valendo como tal o respetivo cartão de identificação profissional, sem prejuízo do obrigatório manifesto quando das mesmas sejam proprietários, e observado o disposto no n.º 2.\n\n2 - A demonstração da necessidade de detenção, uso e porte de arma será atestada através de declaração emitida pelo dirigente máximo da AT, mediante confirmação do superior hierárquico imediato do trabalhador de que o mesmo se enquadra no condicionalismo previsto no número anterior.\n\n3 - O direito previsto nos números anteriores está sujeito a um plano de formação e de certificação, constituído por provas teóricas e práticas de tiro, em consonância com o disposto no recurso a arma de fogo em ação policial e cuja formação prática seja ministrada por formadores das forças de segurança ou por formadores da Inspeção Tributária e Aduaneira com formação obtida no seio das forças de segurança e atestada através de declaração emitida pelo dirigente máximo da AT, mediante confirmação do superior hierárquico imediato do trabalhador.\n\n4 - Aos trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira na situação de aposentação, que tenham usufruído do direito previsto no n.º 1, por um período de pelo menos quatro anos, aplicam-se as regras relativas à concessão de licença B, nos termos da Lei n.º 5/2006, de 23 de fevereiro, na sua redação atual.\n\n5 - O direito previsto no n.º 1 é suspenso automaticamente em caso de suspensão do serviço, bem como quando tenha sido aplicada medida judicial de desarmamento ou de interdição do uso de armas ou por motivos de saúde, designadamente quando existam fundados indícios de perturbação psíquica ou mental, clinicamente comprovados."
+  },
+  "124317138": {
+   "fragment_id": "124317422",
+   "type": 11,
+   "heading": "Artigo 15.º — Apoio em processos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apoio em processos\n\n1 - Os trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira que sejam arguidos ou parte em processo contraordenacional ou judicial, por atos cometidos ou ocorridos no exercício e por causa das suas funções, têm direito a ser assistidos por advogado, indicado pelo dirigente máximo, da Direção de Serviços de Consultadoria Jurídica e Contencioso, preferencialmente de entre os respetivos trabalhadores, ouvido o interessado.\n\n2 - Para efeitos da aplicação do número anterior, no âmbito de processo judicial, designadamente processo-crime, os trabalhadores só têm direito a ser assistidos por advogado indicado pelo dirigente máximo se não estiver em curso qualquer processo de natureza disciplinar, em que estejam em causa os mesmos factos que são ou venham a ser visados no processo judicial.\n\n3 - Nos casos a que se refere o n.º 1, o pagamento das custas judiciais será suportado pela AT, tendo o trabalhador direito a transportes e ajudas de custo quando a localização do tribunal ou das entidades judiciais o justifique e as declarações sejam tomadas presencialmente.\n\n4 - Sem prejuízo do disposto no número anterior, as importâncias despendidas ao abrigo do disposto no presente artigo devem ser reembolsadas pelo trabalhador que lhes deu causa, no caso de condenação em qualquer dos processos referidos no n.º 1.\n\n5 - O tempo despendido nas deslocações previstas nos números anteriores é considerado serviço efetivo, para todos os efeitos legais."
+  },
+  "124317139": {
+   "fragment_id": "124317423",
+   "type": 11,
+   "heading": "Artigo 16.º — Colocação em posto de trabalho ou lugar de chefia tributária e aduaneira não ocupado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Colocação em posto de trabalho ou lugar de chefia tributária e aduaneira não ocupado\n\n1 - Os trabalhadores das carreiras especiais de gestão e inspeção tributária e aduaneira e de inspeção e auditoria tributária e aduaneira, bem como os trabalhadores que se encontrem designados como chefias tributárias e aduaneiras, podem ser colocados em posto de trabalho ou lugar de chefia, consoante os casos, em unidade orgânica da AT a que corresponda mapa de pessoal diferente daquela em que se encontrem colocados, mediante requerimento ou por conveniência de serviço, neste último caso, com a anuência do trabalhador sempre que se faça para fora do concelho onde se situa o seu domicílio profissional.\n\n2 - A colocação a que se refere o número anterior depende da existência de posto de trabalho não ocupado da respetiva carreira ou cargo na unidade orgânica de destino, e processa-se nos termos estabelecidos em regulamento a aprovar por despacho do membro do Governo responsável pela área das finanças.\n\n3 - Sem prejuízo do disposto nos números anteriores, os referidos trabalhadores e chefias tributárias e aduaneiras podem ser colocados temporariamente em diferentes postos de trabalho vagos, para o exercício transitório de funções, em unidade orgânica da AT diferente daquela em que se encontrem colocados, a seu pedido ou por conveniência de serviço devidamente fundamentada, neste último caso com a duração máxima de um ano e conferindo o direito a ajudas de custo, nos termos da lei geral."
+  },
+  "124317140": {
+   "fragment_id": "124317424",
+   "type": 11,
+   "heading": "Artigo 17.º — Deveres especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Deveres especiais\n\n1 - Para além da sujeição aos deveres gerais constantes da lei geral inerentes ao exercício de funções públicas e aos deveres especiais decorrentes da legislação tributária e aduaneira, os trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira estão ainda sujeitos aos seguintes deveres especiais:\n\na) Dever de sigilo profissional ou qualquer outro dever de segredo legalmente regulado, guardando sigilo relativamente aos factos, atos e elementos de que tenham conhecimento em virtude do exercício das suas funções, que não se destinem a ser do domínio público;\n\nb) Dever de assegurar todas as garantias de defesa dos cidadãos;\n\nc) Dever de atuar em matéria tributária, aduaneira, fiscal e económica, de forma a garantir a proteção da economia e da livre concorrência e a prossecução dos princípios da justiça tributária e aduaneira;\n\nd) Dever de atuar no sentido da proteção dos interesses financeiros e económicos da União Europeia e dos seus Estados-Membros e no sentido da proteção da segurança internacional, nomeadamente no âmbito do combate ao terrorismo;\n\ne) Dever de cooperar com outras entidades, designadamente policiais, nacionais ou estrangeiras, de forma a prevenir a fraude e evasão fiscais, e garantir a proteção da sociedade, da segurança de pessoas e bens, e a defesa dos interesses económicos, financeiros e de segurança do país e da União Europeia e dos seus estados membros.\n\n2 - Os trabalhadores referidos no número anterior estão também sujeitos ao disposto no Código de Conduta da AT e demais documentos internos."
+  },
+  "124317141": {
+   "fragment_id": "124317425",
+   "type": 11,
+   "heading": "Artigo 18.º — Incompatibilidades específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Incompatibilidades específicas\n\n1 - Para além da sujeição a outras proibições e incompatibilidades consignadas na lei, é ainda vedado aos trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira:\n\na) Desempenhar, ainda que por interposta pessoa, qualquer atividade suscetível de afetar a isenção e o prestígio exigidos no exercício das respetivas funções;\n\nb) Exercer advocacia, consultadoria e procuradoria em assuntos que digam respeito às atribuições e missão da AT ou em assuntos que conflituem com as funções que desempenham, sem prejuízo do disposto no número seguinte;\n\nc) Exercer atividade de Contabilista Certificado ou de Revisor Oficial de Contas;\n\nd) Exercer qualquer ramo de comércio ou indústria, por si ou por interposta pessoa, que, por qualquer forma, seja suscetível de interferir com o âmbito de intervenção da AT, salvo em casos justificados e devidamente autorizados;\n\ne) Arrematar, diretamente ou por interposta pessoa, qualquer objeto ou mercadoria nos leilões ou outra modalidade de venda realizados pela AT.\n\n2 - Os licenciados em Direito que, no âmbito da Direção de Serviços de Consultadoria Jurídica e Contencioso, exerçam funções de consultoria jurídica ou de contencioso administrativo, tributário, aduaneiro ou outros, adquirem a designação de consultor jurídico enquanto se mantiverem no exercício daquelas funções, sendo-lhes vedado o exercício da advocacia em matérias fiscais e aduaneiras, exceto quando ao serviço da AT."
+  },
+  "124317142": {
+   "fragment_id": "124317426",
+   "type": 11,
+   "heading": "Artigo 19.º — Condução de viaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Condução de viaturas\n\nOs trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira estão autorizados a conduzir as viaturas afetas à AT, desde que no exercício efetivo de funções e em observância das regras legais aplicáveis."
+  },
+  "124317143": {
+   "fragment_id": "124317427",
+   "type": 1,
+   "heading": "Capítulo IV — Formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Formação"
+  },
+  "124317144": {
+   "fragment_id": "124317428",
+   "type": 11,
+   "heading": "Artigo 20.º — Política de formação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Política de formação\n\n1 - A AT garante a formação e qualificação dos seus trabalhadores, promovendo a difusão dos valores e da cultura da AT, o desenvolvimento da comunicação interna e externa, a pesquisa constante, a inovação nos métodos de gestão e a multiplicação e aproveitamento de sinergias do conhecimento produzido pelas diversas áreas da AT.\n\n2 - A prossecução do referido no número anterior assenta num modelo aglutinador e difusor do conhecimento na componente tributária e aduaneira, por forma a qualificar os seus trabalhadores com competências específicas e transversais, em ligação estreita com os diferentes parceiros externos, para permitir uma melhor perceção do valor do serviço junto dos diferentes públicos.\n\n3 - Aos trabalhadores da AT é assegurado um sistema de formação permanente que visa assegurar o desenvolvimento das competências profissionais, técnicas, éticas e humanas, bem como de gestão e liderança, consideradas essenciais para a viabilização das estratégias da AT e relacionadas com os cargos e funções que desempenhem ou venham a assumir no âmbito do desenvolvimento das respetivas carreiras.\n\n4 - No âmbito do sistema de formação, são ministradas as seguintes ações:\n\na) Cursos de formação específicos inseridos no período experimental para ingresso nas carreiras especiais;\n\nb) Módulos de formação destinados aos trabalhadores no âmbito da avaliação permanente;\n\nc) Cursos destinados à preparação para o desempenho de chefia tributária e aduaneira;\n\nd) Ações formativas que visem a atualização de conhecimentos, o aperfeiçoamento profissional e a especialização dos trabalhadores."
+  },
+  "124317145": {
+   "fragment_id": "124317429",
+   "type": 11,
+   "heading": "Artigo 21.º — Curso de chefia tributária e aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Curso de chefia tributária e aduaneira\n\nO curso de chefia tributária e aduaneira é regulado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública e reveste a natureza de curso de habilitação, tendo em vista a designação em chefia tributária e aduaneira."
+  },
+  "124317146": {
+   "fragment_id": "124317430",
+   "type": 1,
+   "heading": "Capítulo V — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Avaliação"
+  },
+  "124317147": {
+   "fragment_id": "124317431",
+   "type": 8,
+   "heading": "Secção I — Avaliação do desempenho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Avaliação do desempenho"
+  },
+  "124317148": {
+   "fragment_id": "124317432",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação do desempenho adaptada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação do desempenho adaptada\n\n1 - A avaliação do desempenho dos trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira e das chefias tributárias e aduaneiras é efetuada nos termos da regulamentação que adapta à AT o sistema integrado de gestão e avaliação do desempenho na Administração Pública (SIADAP), aprovado pela Lei n.º 66-B/2007, de 28 de dezembro, na sua redação atual.\n\n2 - A avaliação do desempenho pode integrar, no parâmetro de avaliação «Competências», a classificação obtida na avaliação permanente prevista na secção II."
+  },
+  "124317149": {
+   "fragment_id": "124317433",
+   "type": 8,
+   "heading": "Secção II — Avaliação permanente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Avaliação permanente"
+  },
+  "124317150": {
+   "fragment_id": "124317434",
+   "type": 11,
+   "heading": "Artigo 23.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Âmbito\n\nOs trabalhadores da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira estão sujeitos a avaliação permanente, em alinhamento com a política de formação da AT, os seus princípios programáticos e enquadramento organizacional e que tem como finalidade permitir, designadamente:\n\na) Objetividade na avaliação e realização de diagnósticos sobre as qualificações e competências dos trabalhadores relativamente às funções correspondentes às respetivas carreiras, bem como sobre as suas capacidades para o desempenho de funções com níveis de qualificação mais exigentes, podendo integrar o SIADAP, nos termos do artigo anterior;\n\nb) Planeamento da formação e sua capacitação tendentes à adequação das qualificações e competências dos trabalhadores às exigências das suas funções atuais e das que venham a assumir, designadamente em funções dirigentes ou de chefia tributária ou aduaneira;\n\nc) Certificação das qualificações e competências dos trabalhadores."
+  },
+  "124317151": {
+   "fragment_id": "124317435",
+   "type": 11,
+   "heading": "Artigo 24.º — Conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Conteúdo\n\n1 - A avaliação permanente pressupõe a aferição das competências profissionais relativas às funções que os trabalhadores desempenham e que se encontram estabelecidas em portfolios aprovados pelas áreas funcionais, sendo os respetivos resultados no âmbito do percurso formativo referencial a observar, em conjugação com o sistema de avaliação de desempenho, para efeitos da aplicação do artigo 36.º\n\n2 - A metodologia, procedimentos e resultados relacionados com a avaliação permanente são definidos em despacho dos membros do Governo responsáveis pelas áreas das finanças e da Administração Pública."
+  },
+  "124317152": {
+   "fragment_id": "124317436",
+   "type": 1,
+   "heading": "Capítulo VI — Chefias tributárias e aduaneiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Chefias tributárias e aduaneiras"
+  },
+  "124317153": {
+   "fragment_id": "124317437",
+   "type": 11,
+   "heading": "Artigo 25.º — Identificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Identificação\n\n1 - São chefias tributárias e aduaneiras:\n\na) Chefe de finanças de nível I;\n\nb) Chefe de delegação aduaneira de nível I;\n\nc) Chefe de finanças de nível II;\n\nd) Chefe de delegação aduaneira de nível II;\n\ne) Chefe de finanças adjunto de nível I;\n\nf) Chefe de finanças adjunto de nível II.\n\n2 - Para efeitos do disposto no número anterior, a delegação aduaneira de nível I corresponde à delegação aduaneira, e a delegação aduaneira de nível II corresponde ao posto aduaneiro, nos termos definidos na orgânica da AT."
+  },
+  "124317154": {
+   "fragment_id": "124317438",
+   "type": 11,
+   "heading": "Artigo 26.º — Regime aplicável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Regime aplicável\n\nÀs chefias tributárias e aduaneiras é aplicável o disposto no estatuto do pessoal dirigente dos serviços e organismos da Administração central, regional e local do Estado, aprovado pela Lei n.º 2/2004, de 15 de janeiro, na sua redação atual, com exceção do seu artigo 26.º e com as necessárias adaptações e as especificidades previstas no presente decreto-lei."
+  },
+  "124317155": {
+   "fragment_id": "124317439",
+   "type": 11,
+   "heading": "Artigo 27.º — Recrutamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Recrutamento\n\n1 - O recrutamento para chefe de finanças do serviço de finanças de nível I é feito através de procedimento concursal, nos termos do artigo seguinte, de entre trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira ou na carreira especial de inspeção e auditoria tributária e aduaneira, no mínimo com seis anos nas respetivas carreiras, titulares do curso de chefia tributária e aduaneira.\n\n2 - O recrutamento para chefe de finanças do serviço de finanças de nível II, chefe de finanças adjunto do serviço de finanças do nível I e de chefe de finanças adjunto do serviço de finanças de nível II é feito através de procedimento concursal, nos termos do artigo seguinte, de entre trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira ou na carreira especial de inspeção e auditoria tributária e aduaneira, no mínimo com quatro anos nas respetivas carreiras, e titulares do curso de chefia tributária e aduaneira.\n\n3 - O recrutamento para chefe de delegação aduaneira de nível I é feito através de procedimento concursal, nos termos do artigo seguinte, de entre trabalhadores integrados na carreira especial de inspeção e auditoria tributária e aduaneira, no mínimo com seis anos na carreira, titulares do curso de chefia tributária e aduaneira.\n\n4 - O recrutamento para chefe de delegação de delegação aduaneira de nível II é feito através de procedimento concursal, nos termos do artigo seguinte, de entre trabalhadores integrados na carreira especial de inspeção e auditoria tributária e aduaneira, no mínimo com quatro anos na carreira, titulares do curso de chefia tributária e aduaneira.\n\n5 - O exercício de funções de chefe de finanças ou de chefe de delegação aduaneira integrados no nível I só é permitido aos trabalhadores que tenham desempenhado anteriormente, pelo menos durante três anos, funções de chefia tributária ou aduaneira, respetivamente.\n\n6 - Os trabalhadores que, nos três anos imediatamente anteriores ao da data limite para a apresentação das candidaturas, não tenham desempenhado efetivamente funções na AT, não podem ser designados chefias tributárias e aduaneiras.\n\n7 - Os trabalhadores que, nos cinco anos anteriores ao da data limite para a apresentação das candidaturas, tenham sido punidos com sanção disciplinar efetiva superior à repreensão escrita não podem ser designados chefia tributárias e aduaneiras.\n\n8 - Para efeito de obtenção do requisito previsto no n.º 5, os trabalhadores a que se referem os n.os 1 e 3 podem candidatar-se a chefias tributárias e aduaneiras de nível II, terminando a respetiva comissão de serviço logo que perfaçam três anos de desempenho nas mesmas."
+  },
+  "124317156": {
+   "fragment_id": "124317440",
+   "type": 11,
+   "heading": "Artigo 28.º — Recrutamento e seleção de chefias tributárias e aduaneiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Recrutamento e seleção de chefias tributárias e aduaneiras\n\n1 - O procedimento concursal destinado à designação de chefias tributárias e aduaneiras inicia-se mediante despacho do dirigente máximo do serviço, em que constam as vagas existentes, o prazo para a apresentação das candidaturas e a composição do júri.\n\n2 - O júri é constituído:\n\na) Pelo diretor-geral ou por dirigente superior de 2.º grau ou dirigente intermédio de 1.º grau por ele designado, que preside;\n\nb) Por um diretor de finanças e por um diretor de alfândega.\n\n3 - O disposto no n.º 1 não impede que os interessados sejam designados em substituição para lugares entretanto vagos.\n\n4 - Para efeitos de recrutamento, são aplicados os métodos de seleção de avaliação curricular e entrevista profissional, sendo os candidatos ordenados mediante ponderação do resultado da seguinte fórmula:\n\n(AC*55 %)+(EP*45 %) /100\n\nem que a AC corresponde a:\n\n((Ant*25 %) + (Ad*25 %) + (Fc*35 %) + (AvPerm*15 %))/100\n\n5 - Na fórmula prevista no número anterior:\n\na) «Ant» é a antiguidade nas respetivas carreiras mencionadas nos n.os 1 a 4 do artigo 27.º, consoante o cargo a que se candidatem, expressa em anos completos de serviço, relevando apenas o período máximo de 10 anos;\n\nb) «Ad» é a avaliação do desempenho, expressa pela média da classificação de serviço dos últimos quatro anos;\n\nc) «Fc» é a experiência em funções de chefia tributária e aduaneira nos últimos 10 anos, expressa em anos completos de serviço, relevando apenas o período máximo de 10 anos;\n\nd) «AvPerm» é o fator avaliação permanente, ao qual será atribuído um ponto caso o candidato não tenha integrado ou não tenha obtido aprovação em procedimento de avaliação permanente e cinco pontos caso o candidato tenha integrado, com aprovação, procedimento de avaliação permanente.\n\n6 - Em caso de igualdade de condições decorrentes da aplicação da fórmula prevista no n.º 4, são considerados, sucessivamente, os seguintes critérios de desempate:\n\na) Aprovação no curso de chefia tributária ou situação equiparada;\n\nb) Maior antiguidade na carreira;\n\nc) Maior antiguidade na direção-geral;\n\nd) Candidato com menor idade.\n\n7 - Após a ordenação final do procedimento referido nos números anteriores, os diretores de finanças ou os diretores de alfândega podem pronunciar-se desfavoravelmente sobre a designação de trabalhadores para cargos de chefia tributária ou aduaneira, relativamente aos quais entendam, de forma objetiva e devidamente fundamentada, que não dão garantias de adequado desempenho do cargo ou que põem em causa o prestígio da função, cabendo ao conselho de administração da AT a decisão final."
+  },
+  "124317157": {
+   "fragment_id": "124317441",
+   "type": 11,
+   "heading": "Artigo 29.º — Comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Comissão de serviço\n\n1 - As chefias tributárias e aduaneiras são designadas através de despacho do diretor-geral, em comissão de serviço, pelo período de três anos, considerando-se automaticamente prorrogada por igual período de três anos, caso não seja comunicado aos interessados a sua cessação até 30 dias úteis antes do seu termo, com fundamento num dos motivos referidos no artigo 31.º\n\n2 - O termo da comissão de serviço no fim do período de seis anos no mesmo local implica, obrigatoriamente, a abertura do procedimento concursal a que se refere o artigo anterior, ficando o respetivo titular a assegurar funções em regime de gestão corrente até à designação de novo titular.\n\n3 - Os trabalhadores abrangidos pelo número anterior podem candidatar-se ao procedimento concursal nele referido.\n\n4 - Os trabalhadores designados chefias tributárias e aduaneiras podem iniciar as respetivas funções antes da publicação do despacho de designação no Diário da República, desde que expressamente previsto no referido despacho."
+  },
+  "124317158": {
+   "fragment_id": "124317442",
+   "type": 11,
+   "heading": "Artigo 30.º — Suspensão da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Suspensão da comissão de serviço\n\n1 - A comissão de serviço das chefias tributárias e aduaneiras suspende-se no caso de designação, em regime de substituição, para cargos dirigentes da AT ou para outras funções de chefia tributária e aduaneira.\n\n2 - Nas situações previstas no número anterior, a duração máxima do período de suspensão é de quatro anos."
+  },
+  "124317159": {
+   "fragment_id": "124317443",
+   "type": 11,
+   "heading": "Artigo 31.º — Cessação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Cessação da comissão de serviço\n\n1 - A comissão de serviço das chefias tributárias e aduaneiras cessa:\n\na) Pela designação em comissão de serviço noutro cargo ou função, salvo nos casos em que seja permitida a acumulação de funções;\n\nb) Por mudança de nível dos respetivos serviços;\n\nc) Por extinção ou reorganização dos respetivos serviços, salvo se for expressamente mantida a comissão de serviço de chefia tributária e aduaneira do mesmo nível que lhe suceda;\n\nd) A requerimento do interessado, apresentado nos serviços com a antecedência mínima de 60 dias úteis, e sobre o qual terá de ser emitido parecer pelo diretor de finanças ou diretor de alfândega.\n\n2 - A comissão de serviço pode ser dada por finda, a todo o tempo, por despacho fundamentado do diretor-geral, numa das seguintes situações:\n\na) Não realização, injustificada, dos objetivos fixados e contratualizados no âmbito da avaliação do desempenho da AT;\n\nb) Não comprovação superveniente da capacidade adequada a garantir a observância das orientações superiormente fixadas;\n\nc) Procedimento disciplinar de que resulte a aplicação de sanção superior a repreensão escrita.\n\n3 - A cessação da comissão de serviço com fundamento no disposto nas alíneas a) e b) do número anterior pressupõe a audiência prévia do trabalhador sobre as razões invocadas, independentemente da existência de qualquer processo de natureza disciplinar.\n\n4 - Em caso de cessação da comissão de serviço por qualquer dos motivos indicados no n.º 2, o trabalhador só pode candidatar-se a funções de chefia tributária e aduaneira depois de decorridos cinco anos a contar da data da cessação.\n\n5 - Em caso de alteração do nível dos serviços de finanças e delegações aduaneiras, são observadas as seguintes regras:\n\na) Se a mudança ocorrer para nível superior, os trabalhadores designados chefias desses serviços e delegações asseguram as respetivas funções em regime de gestão corrente até à designação dos novos titulares, com direito à totalidade das remunerações atribuídas ao exercício das funções correspondentes ao novo nível que o serviço de finanças ou delegação aduaneira passa a integrar;\n\nb) Se a mudança ocorrer para nível inferior, os trabalhadores designados chefias desses serviços e delegações asseguram as respetivas funções em regime de gestão corrente até à designação dos novos titulares, com manutenção da totalidade das remunerações que vinham auferindo."
+  },
+  "124317160": {
+   "fragment_id": "124317444",
+   "type": 11,
+   "heading": "Artigo 32.º — Situação dos trabalhadores em caso de cessação da comissão de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Situação dos trabalhadores em caso de cessação da comissão de serviço\n\n1 - Nas situações de cessação da comissão de serviço previstas nos n.os 1 e 2 do artigo anterior, os trabalhadores regressam à carreira de origem, passando a desempenhar funções nos serviços centrais, ou na direção de finanças ou na alfândega de que dependiam enquanto no desempenho de funções de chefia, até serem colocados num dos postos de trabalho dos mapas de pessoal dos serviços, sem prejuízo do disposto no número seguinte.\n\n2 - A seu pedido e mediante despacho favorável do diretor-geral, podem os trabalhadores referidos no número anterior, e durante o período aí estabelecido, ser colocados noutros serviços.\n\n3 - A cessação da comissão de serviço a requerimento dos trabalhadores apenas se efetiva após a colocação dos mesmos em posto de trabalho da carreira de origem, sem prejuízo de, em casos especiais, nomeadamente de doença limitativa das capacidades de chefia ou da proximidade da aposentação, serem adotados os procedimentos referidos nos números anteriores."
+  },
+  "124317161": {
+   "fragment_id": "124317445",
+   "type": 11,
+   "heading": "Artigo 33.º — Designação em substituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Designação em substituição\n\n1 - As chefias tributárias e aduaneiras podem ser exercidas em regime de substituição nos casos de ausência ou impedimento do respetivo titular, quando se preveja que estes condicionalismos persistam por mais de 60 dias, ou em caso de vacatura do lugar, sem prejuízo de, em todos os casos, serem asseguradas as funções correspondentes aos referidos cargos nos termos do artigo seguinte.\n\n2 - A designação em regime de substituição é feita por despacho do diretor-geral, devendo ser observados, sempre que possível, os requisitos legais exigidos para a designação, constituindo fator preferencial que o trabalhador tenha integrado, com aprovação, procedimento de avaliação permanente.\n\n3 - O período de substituição conta, para todos os efeitos legais, como tempo de serviço prestado na carreira de origem ou na função, se nela vier a ser designado.\n\n4 - O limite de seis anos de exercício de funções no mesmo serviço local previsto no n.º 2 do artigo 29.º é aplicável ao regime de substituição, implicando a abertura do procedimento a que se refere o artigo 28.º\n\n5 - A substituição tem início antes da publicação do despacho de designação no Diário da República, desde que expressamente previsto no referido despacho.\n\n6 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídas pelo exercício da função do substituído."
+  },
+  "124317162": {
+   "fragment_id": "124317446",
+   "type": 11,
+   "heading": "Artigo 34.º — Suplência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Suplência\n\n1 - Os titulares das chefias tributárias e aduaneiras designam, em regra, os suplentes nas suas ausências e impedimentos.\n\n2 - Na ausência da designação referida no número anterior, a suplência é feita nos seguintes termos:\n\na) Os chefes de finanças, pelo chefe de finanças adjunto com maior antiguidade no cargo ou, no caso de não haver adjuntos, pelo trabalhador do serviço, integrado em carreiras do grau 3 com maior antiguidade nas mesmas;\n\nb) Os chefes de finanças adjuntos, pelo trabalhador da respetiva secção, integrado em carreiras do grau 3 com maior antiguidade nas mesmas;\n\nc) Os chefes de delegação aduaneira, pelo trabalhador da delegação, integrado em carreiras do grau 3 com maior antiguidade nas mesmas.\n\n3 - Quando, para efeitos do disposto na primeira parte da alínea a) do número anterior, houver mais do que um chefe de finanças adjunto, o suplente é o titular que detiver maior antiguidade no cargo ou, no caso de igualdade, o que tenha maior antiguidade nessas funções nesse serviço de finanças.\n\n4 - Quando, nos termos da segunda parte da alínea a) e da alínea c) do n.º 2, a suplência se efetuar de entre trabalhadores integrados em carreiras do grau 3, em caso de igualdade o suplente é o que for mais antigo, respetivamente, no serviço de finanças ou na delegação aduaneira.\n\n5 - Quando, nos termos da alínea b) do n.º 2, a suplência se efetuar de entre trabalhadores integrados em carreiras do grau 3, em caso de igualdade o suplente é o que for mais antigo na respetiva secção.\n\n6 - Quando não existam trabalhadores integrados em carreiras do grau 3 nos serviços de finanças ou nas delegações aduaneiras, a suplência é assegurada pelos trabalhadores integrados nas carreiras subsistentes, com maior antiguidade nas mesmas e, em caso de igualdade, pelo que for mais antigo no serviço de finanças, secção do serviço de finanças ou delegação aduaneira, consoante o caso."
+  },
+  "124317163": {
+   "fragment_id": "124317447",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições remuneratórias"
+  },
+  "124317164": {
+   "fragment_id": "124317448",
+   "type": 11,
+   "heading": "Artigo 35.º — Remuneração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Remuneração\n\n1 - A identificação do número de posições remuneratórias e dos correspondentes níveis remuneratórios da tabela remuneratória única (TRU) da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira da AT, bem como das chefias tributárias e aduaneiras, constam dos anexos V a VI ao presente decreto-lei e do qual fazem parte integrante.\n\n2 - Os trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira, ou no exercício de cargos de chefia tributária e aduaneira, têm direito ao abono do suplemento remuneratório previsto no artigo 24.º do Decreto-Lei n.º 158/96, de 3 de setembro, regulado pelo Decreto-Lei n.º 335/97, de 2 de dezembro, na redação dada pelo Decreto-Lei n.º 113/2017, de 7 de setembro, nos termos definidos no artigo 13.º do Decreto-Lei n.º 118/2011, de 15 de dezembro, na sua redação atual."
+  },
+  "124317165": {
+   "fragment_id": "124317449",
+   "type": 11,
+   "heading": "Artigo 36.º — Alteração do posicionamento remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Alteração do posicionamento remuneratório\n\nA alteração do posicionamento remuneratório dos trabalhadores integrados na carreira especial de gestão e inspeção tributária e aduaneira e na carreira especial de inspeção e auditoria tributária e aduaneira faz-se nos termos previstos na LTFP."
+  },
+  "124317166": {
+   "fragment_id": "124317450",
+   "type": 1,
+   "heading": "Capítulo VIII — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Disposições finais e transitórias"
+  },
+  "124317167": {
+   "fragment_id": "124317451",
+   "type": 11,
+   "heading": "Artigo 37.º — Extinção de carreiras de regime especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Extinção de carreiras de regime especial\n\n1 - São extintas as seguintes carreiras de regime especial da extinta DGAIEC:\n\na) Técnico superior aduaneiro;\n\nb) Técnico superior aduaneiro de laboratório;\n\nc) Técnico verificador aduaneiro;\n\nd) Analista aduaneiro de laboratório.\n\n2 - São extintas as seguintes carreiras de regime especial da extinta DGCI:\n\na) Gestor tributário;\n\nb) Técnico de administração tributária;\n\nc) Inspetor tributário:\n\nd) Técnico jurista;\n\ne) Técnico economista;\n\nf) Tesoureiro de finanças."
+  },
+  "124317168": {
+   "fragment_id": "124317452",
+   "type": 11,
+   "heading": "Artigo 38.º — Carreiras subsistentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Carreiras subsistentes\n\n1 - As seguintes carreiras de regime especial subsistem, mantendo a sua natureza de carreira especial, nos termos do artigo 41.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, e do artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, para os trabalhadores nelas integrados à data da entrada em vigor do presente decreto-lei, sem prejuízo da possibilidade da sua candidatura a procedimento concursal para a carreira especial de gestão e inspeção tributária e aduaneira e para a carreira especial de inspeção e auditoria tributária e aduaneira, nos termos do disposto no n.º 3:\n\na) Investigador tributário economista;\n\nb) Investigador tributário jurista;\n\nc) Técnico de administração tributária adjunto do Grupo de Administração Tributária;\n\nd) Verificador auxiliar aduaneiro;\n\ne) Secretário aduaneiro:\n\nf) Analista aduaneiro auxiliar de laboratório.\n\n2 - Aos trabalhadores integrados nas carreiras subsistentes previstas no número anterior continuam a ser abonados os suplementos remuneratórios que vêm auferindo, enquanto se mantiverem integrados na respetiva carreira subsistente, nos termos aplicáveis à data de entrada em vigor do presente decreto-lei.\n\n3 - No prazo de 90 dias após a data da entrada em vigor do presente decreto-lei é aberto procedimento concursal para as carreiras especiais de gestão e inspeção tributária e aduaneira e de inspeção e auditoria tributária e aduaneira, nos termos da alínea a) do n.º 2 do artigo 36.º da LTFP, a que se podem candidatar todos os trabalhadores integrados nas carreiras previstas nas alíneas c) a f) do n.º 1, sendo dispensado o requisito de habilitação literária de licenciatura, nos termos do n.º 2 do artigo 34.º LTFP.\n\n4 - Os candidatos referidos nos números anteriores são posicionados nas posições remuneratórias da carreira especial constantes dos anexos V e VI ao presente decreto-lei."
+  },
+  "124317169": {
+   "fragment_id": "124317453",
+   "type": 11,
+   "heading": "Artigo 39.º — Transição para a carreira especial de gestão e inspeção tributária e aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Transição para a carreira especial de gestão e inspeção tributária e aduaneira\n\n1 - Transitam para a carreira especial de gestão e inspeção tributária e aduaneira:\n\na) Os trabalhadores integrados na carreira de regime especial de técnico de administração tributária da extinta DGCI;\n\nb) Os trabalhadores integrados na carreira de regime especial de técnico jurista da extinta DGCI.\n\n2 - Os atuais tesoureiros de finanças de nível I e os tesoureiros de finanças de nível II da extinta DGCI transitam igualmente para a carreira especial de gestão e inspeção tributária e aduaneira.\n\n3 - Os trabalhadores a que se refere o número anterior que, à data da entrada em vigor do presente decreto-lei, se encontram a exercer funções de chefe de finanças adjunto da secção de cobrança dos serviços de finanças mantêm-se no exercício dessas funções, na situação jurídica detida."
+  },
+  "124317170": {
+   "fragment_id": "124317454",
+   "type": 11,
+   "heading": "Artigo 40.º — Transição para a carreira especial de Inspeção e auditoria Tributária e Aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Transição para a carreira especial de Inspeção e auditoria Tributária e Aduaneira\n\nTransitam para a carreira especial de inspeção e auditoria tributária e aduaneira:\n\na) Os trabalhadores integrados na carreira de regime especial de inspeção tributária da extinta DGCI;\n\nb) Os trabalhadores integrados na carreira de regime especial de técnico economista da extinta DGCI;\n\nc) Os trabalhadores integrados na carreira de regime especial de técnico superior aduaneiro da extinta DGAIEC;\n\nd) Os trabalhadores integrados na carreira de regime especial de técnico superior aduaneiro de laboratório da extinta DGAIEC;\n\ne) Os trabalhadores integrados na carreira de regime especial de técnico verificador aduaneiro da extinta DGAIEC;\n\nf) Os trabalhadores integrados na carreira de regime especial de analista aduaneiro de laboratório da extinta DGAIEC."
+  },
+  "124317171": {
+   "fragment_id": "124317455",
+   "type": 11,
+   "heading": "Artigo 41.º — Transição dos gestores tributários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Transição dos gestores tributários\n\nOs gestores tributários da extinta DGCI oriundos das carreiras da administração tributária ou da inspeção tributária transitam, respetivamente, para as carreiras de gestão e inspeção tributária e aduaneira ou de inspeção e auditoria tributária e aduaneira."
+  },
+  "124317172": {
+   "fragment_id": "124317456",
+   "type": 11,
+   "heading": "Artigo 42.º — Transição e reposicionamento remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Transição e reposicionamento remuneratório\n\n1 - A transição para a carreira especial de gestão e inspeção tributária e aduaneira e para a carreira especial de inspeção e auditoria tributária e aduaneira previstas no presente decreto-lei faz-se por lista nominativa nos termos da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual.\n\n2 - Na transição para as novas carreiras unicategoriais, o reposicionamento remuneratório dos trabalhadores obedece ao disposto no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, aplicável por via da alínea b) do artigo 41.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n3 - No que respeita às chefias tributárias e aduaneiras, o reposicionamento remuneratório dos trabalhadores obedece às seguintes regras:\n\na) São posicionados no nível correspondente às funções de chefia tributária e aduaneira a desempenhar, nos termos da tabela constante do anexo VII ao presente decreto-lei e do qual faz parte integrante;\n\nb) As atuais chefias tributárias que, pelo exercício da função, aufiram remuneração superior, mantêm essa remuneração até ao termo das respetivas funções.\n\n4 - O reposicionamento remuneratório dos trabalhadores integrados nas atuais carreiras de técnico jurista e de técnico economista obedece ao disposto no n.º 1, tendo como referência o montante pecuniário que auferem, enquanto em comissão de serviço, no grupo de pessoal de administração tributária."
+  },
+  "124317173": {
+   "fragment_id": "124317457",
+   "type": 11,
+   "heading": "Artigo 43.º — Chefias tributárias e aduaneiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Chefias tributárias e aduaneiras\n\nAos trabalhadores que se encontrem designados em cargos de chefia tributária, de chefe de delegação aduaneira e de coordenador de posto aduaneiro à data de entrada em vigor do presente decreto-lei, são aplicáveis as seguintes regras:\n\na) Os atuais chefes de finanças de nível I e de nível II mantêm as comissões de serviço em postos de trabalhos correspondentes a chefe de finanças do serviço de finanças de nível I e de chefe de finanças do serviço de finanças de nível II, respetivamente, nas unidades orgânicas periféricas locais em que se encontrem colocados à data da entrada em vigor do presente decreto-lei.\n\nb) Os atuais chefes de finanças adjuntos de nível I e de nível II mantêm as comissões de serviço em postos de trabalho correspondentes a chefe de finanças adjunto do serviço de finanças de nível I e chefe de finanças adjunto do serviço de finanças de nível II, respetivamente, nas unidades orgânicas periféricas locais em que se encontrem colocados à data da entrada em vigor do presente decreto-lei;\n\nc) Os atuais chefes de delegação aduaneira e coordenadores de posto aduaneiro consideram-se designados, sem mais formalidades, em postos de trabalho correspondentes a chefe de delegação aduaneira de nível I e chefe de delegação aduaneira de nível II, respetivamente, nas unidades orgânicas periféricas locais em que se encontram colocados à data da entrada em vigor do presente decreto-lei, observando-se o disposto no n.º 2 do artigo 25.º, sem prejuízo do disposto no n.º 3 do artigo 51.º"
+  },
+  "124317174": {
+   "fragment_id": "124317458",
+   "type": 11,
+   "heading": "Artigo 44.º — Extinção de subsídios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Extinção de subsídios\n\n1 - São extintos os seguintes subsídios:\n\na) Subsídios de residência e de deslocação;\n\nb) Subsídios de residência e de isolamento;\n\nc) Subsídio de deslocação.\n\n2 - Os trabalhadores da extinta DGCI que, à data da entrada em vigor do presente decreto-lei, estejam a auferir os abonos a que se refere a alínea a) do número anterior, mantêm a sua perceção nos exatos termos em que os vêm auferindo até que cessem os pressupostos que determinaram a sua atribuição.\n\n3 - Os trabalhadores da extinta DGCI que, à data da entrada em vigor do presente decreto-lei, exerçam efetivamente funções e ocupem, a título definitivo, postos de trabalho em serviços periféricos regionais ou locais da Região Autónoma dos Açores e estejam a auferir os abonos a que se refere a alínea b) do n.º 1, mantêm a sua perceção nos exatos termos em que os vêm auferindo até que cessem os pressupostos que determinaram a sua atribuição.\n\n4 - Os trabalhadores da extinta DGAIEC que, à data da entrada em vigor do presente decreto-lei, se encontrem deslocados temporariamente e que estejam a auferir o abono a que se refere a alínea c) do n.º 1, mantêm a sua perceção nos exatos termos em que o vêm auferindo até que cessem os pressupostos que determinaram a sua atribuição."
+  },
+  "124344775": {
+   "fragment_id": "124317459",
+   "type": 11,
+   "heading": "Artigo 45.º — Disposição transitória em matéria de suplementos remuneratórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Disposição transitória em matéria de suplementos remuneratórios\n\n1 - Os trabalhadores que, à data da entrada em vigor do presente decreto-lei, se encontrem integrados nas carreiras previstas nos Decretos-Leis n.os 557/99, de 17 de dezembro, e 252-A/82, de 28 de junho, continuam a auferir os suplementos remuneratórios a que se referem os artigos 24.º do Decreto-Lei n.º 158/96, de 3 de setembro, e 4.º do Decreto-Lei n.º 274/90, de 7 de setembro, consoante o caso, nas condições em que os vêm auferindo.\n\n2 - O regime jurídico do suplemento previsto no artigo 24.º do Decreto-Lei n.º 158/96, de 3 de setembro, e regulado pelo Decreto-Lei n.º 335/97, de 2 de dezembro, é objeto de revisão, designadamente no que respeita à sua base e forma de cálculo e à periodicidade do respetivo abono, com vista à sua adaptação à estrutura de carreiras e cargos prevista no presente decreto-lei.\n\n3 - Até à revisão a que se refere o número anterior, e para efeitos do disposto na parte final do n.º 1 do artigo 3.º do Decreto-Lei n.º 335/97, de 2 de dezembro, a determinação da base de cálculo faz-se de acordo com as seguintes regras:\n\na) Terceira posição remuneratória para os trabalhadores integrados da terceira à quinta posição remuneratória;\n\nb) Sexta posição remuneratória para os trabalhadores integrados da sexta à oitava posição remuneratória;\n\nc) Nona posição remuneratória para os trabalhadores integrados da nona à décima segunda posição remuneratória.\n\n4 - A aplicação do disposto no número anterior efetua-se sem prejuízo da manutenção da base de cálculo em vigor à data de produção de efeitos do presente decreto-lei, quando superior.\n\n> Nota: [Artigo 7.º, Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195) O disposto no n.º 3 do presente artigo, na redação dada pelo decreto-lei n.º 19/2024, de 2 de fevereiro, produz efeitos quanto aos pagamentos que sejam devidos no ano de 2024 e nos seguintes."
+  },
+  "124344776": {
+   "fragment_id": "124317460",
+   "type": 11,
+   "heading": "Artigo 46.º — Procedimentos pendentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Procedimentos pendentes\n\n1 - Os procedimentos concursais e de mudança de nível cuja abertura se efetuou antes da data de entrada em vigor do presente decreto-lei mantêm-se válidos, sendo os candidatos aprovados integrados nas carreiras e nível/posição remuneratória para as quais transitam os trabalhadores integrados nas carreiras, categorias e escalão/índice a que se candidataram, com observância do disposto no n.º 4 do artigo anterior.\n\n2 - Mantêm-se os períodos experimentais e o tempo decorrido na mobilidade em curso à data de entrada em vigor do presente decreto-lei, no âmbito de procedimentos concursais ou de mobilidades intercarreiras, transitando os trabalhadores que os concluam com sucesso para as correspondentes carreiras resultantes da aplicação das normas de transição, e, com as necessárias adaptações do disposto no número anterior, sem prejuízo da manutenção pelos respetivos trabalhadores dos cargos de chefia tributária.\n\n3 - Os trabalhadores em período experimental mantêm o atual estatuto remuneratório até à conclusão do período experimental.\n\n4 - O disposto no n.º 2 do artigo 8.º aplica-se aos períodos experimentais para ingresso em carreiras da AT que se encontrem a decorrer à data da entrada em vigor do presente decreto-lei."
+  },
+  "124344777": {
+   "fragment_id": "124317461",
+   "type": 11,
+   "heading": "Artigo 47.º — Referências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Referências\n\nTodas as referências constantes de disposições legislativas e regulamentares às carreiras e categorias extintas pelo presente decreto-lei consideram-se feitas para as novas carreiras para as quais os trabalhadores transitam, nos termos dos artigos 39.º a 41.º, continuando a aplicar-se a estes trabalhadores em tudo o que não contrariem o disposto no presente decreto-lei."
+  },
+  "124344778": {
+   "fragment_id": "124317462",
+   "type": 11,
+   "heading": "Artigo 48.º — Legislação complementar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Legislação complementar\n\n1 - A regulamentação prevista no presente decreto-lei deve ser aprovada no prazo de 240 dias a contar da data da sua publicação.\n\n2 - Até à aprovação dos regulamentos referidos no número anterior mantém-se em vigor, com as necessárias adaptações, a regulamentação atualmente aplicável, desde que não contrarie o disposto no presente decreto-lei."
+  },
+  "124344779": {
+   "fragment_id": "124317463",
+   "type": 11,
+   "heading": "Artigo 49.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Direito subsidiário\n\nEm tudo o que não estiver expressamente previsto no presente decreto-lei, é aplicável a LTFP e demais diplomas legais aplicáveis aos trabalhadores com vínculo de emprego público."
+  },
+  "124344780": {
+   "fragment_id": "124317464",
+   "type": 11,
+   "heading": "Artigo 50.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Norma revogatória\n\nSão revogados:\n\na) O artigo 18.º do Decreto-Lei n.º 48405, de 29 de maio de 1968;\n\nb) O artigo 32.º do Decreto-Lei n.º 363/78, de 28 de novembro;\n\nc) O n.º 3 do artigo 45.º, os artigos 55.º, 67.º a 77.º, 90.º e 91.º, 93.º e 94.º, o n.º 2 do artigo 103.º, os artigos 104.º e 105.º, 111.º a 118.º e o n.º 5 do artigo 121.º do Decreto-Lei n.º 252-A/82, de 28 de junho, na sua redação atual;\n\nd) O Decreto-Lei n.º 471/85, de 11 de novembro;\n\ne) Os n.os 1 a 3 do artigo 53.º e os artigos 54.º a 61.º do Decreto-Lei n.º 324/93, de 25 de setembro, na sua redação atual;\n\nf) Os artigos 3.º a 24.º., 28.º, 29.º e 32.º, 37.º a 42.º 45.º, 46.º, 48.º a 50.º, 67.º a 70.º, 72.º a 76.º do Decreto-Lei n.º 557/99, de 17 de dezembro, na sua redação atual;\n\ng) O artigo 2.º do Decreto-Lei n.º 237/2004, de 18 de dezembro;\n\nh) Os artigos 34.º a 39.º do Decreto Regulamentar n.º 54/80, de 30 de setembro, na sua redação atual;\n\ni) A alínea a) do n.º 1 do artigo 105.º do Decreto Regulamentar n.º 42/83, de 20 de maio;\n\nj) Os artigos 2.º e 3.º do Decreto Regulamentar n.º 4/88, de 27 de janeiro;\n\nk) Os n.os 1 a 4 do anexo II da Portaria n.º 531-A/93, de 20 de maio;\n\nl) A Portaria n.º 497/97, de 19 de junho;\n\nm) O n.º 2.º da Portaria n.º 390/98, de 9 de julho."
+  },
+  "124344781": {
+   "fragment_id": "124317465",
+   "type": 11,
+   "heading": "Artigo 51.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Entrada em vigor e produção de efeitos\n\n1 - O presente decreto-lei entra em vigor em 1 de janeiro de 2020, sem prejuízo do disposto nos números seguintes.\n\n2 - O disposto no n.º 1 do artigo 48.º produz efeitos no dia seguinte ao da publicação do presente decreto-lei.\n\n3 - As normas constantes do presente decreto-lei relativas aos chefes de delegação aduaneira de nível I e de nível II só produzem efeitos com a entrada em vigor do diploma que altere a orgânica da AT relativamente ao estatuto dos diretores de alfândega adjuntos."
+  },
+  "124344783": {
+   "fragment_id": "124317467",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 2 do artigo 2.º)\n\nCarreira Especial de Gestão e Inspeção Tributária e Aduaneira\n\n(ver documento original)"
+  },
+  "124344784": {
+   "fragment_id": "124317468",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 2.º)\n\nCarreira especial de Inspeção e Auditoria Tributária e Aduaneira\n\n(ver documento original)"
+  },
+  "124344785": {
+   "fragment_id": "124317469",
+   "type": 14,
+   "heading": "Anexo III — (a que se refere o artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — (a que se refere o artigo 9.º)\n\nConteúdos funcionais da carreira especial de Gestão e Inspeção Tributária e Aduaneira\n\n1 - Aos Gestores tributários e aduaneiros da carreira especial de Gestão e Inspeção Tributária e Aduaneira incumbe, genericamente, assegurar a execução de todos os procedimentos e processos relativos à administração dos impostos, direitos aduaneiros e demais tributos que sejam atribuídos à Autoridade Tributária e Aduaneira (AT), bem como assegurar a execução de todas as tarefas destinadas a cobrar outras receitas cuja competência for atribuída à AT, e desenvolver a ação de inspeção interna, no âmbito da missão e das atribuições da AT.\n\n2 - Compete-lhes, designadamente:\n\na) Assegurar a gestão, liquidação, cobrança e contabilização dos impostos, direitos aduaneiros e demais tributos que lhe sejam atribuídos bem como promover o cumprimento voluntário da obrigação de pagamento e obrigações acessórias;\n\nb) Identificar e proceder ao controlo e inspeção internos de situações de risco e da veracidade doas declarado por contribuintes ou outros intervenientes;\n\nc) Participar na conceptualização e gestão dos sistemas informáticos, nacionais e internacionais, nas áreas aduaneira, fiscal e de prevenção e repressão da fraude;\n\nd) Detetar o incumprimento das obrigações fiscais e assegurar a instauração e execução dos procedimentos sancionatórios;\n\ne) Exercer a ação de justiça tributária e aduaneira e assegurar a representação da Fazenda Pública e da AT junto dos órgãos judiciais e dos tribunais arbitrais tributários;\n\nf) Assegurar a representação do Estado português junto do Tribunal de Justiça da União Europeia, em matéria aduaneira e fiscal;\n\ng) Assegurar a representação do Estado português e da AT, em assuntos da sua especialidade, designadamente, em comités da União Europeia, organizações internacionais, seminários, conferências e grupos de trabalho, bem como junto dos países pertencentes à Comunidade dos Países de Língua Portuguesa;\n\nh) Participar em ações no âmbito da cooperação e a assistência mútua comunitária e internacional na área aduaneira, fiscal e antifraude;\n\ni) Elaborar estudos e pareceres relacionados com a administração dos impostos, dos direitos aduaneiros e de outras imposições, com a luta contra a evasão e fraude fiscal e aduaneira e outras matérias de natureza tributária e aduaneira, de elevado grau de responsabilidade, autonomia e especialização;\n\nj) Proceder à investigação, estudo, conceção e adaptação de métodos e processos de natureza técnica e científica, de âmbito geral ou especializado, em matéria tributária e aduaneira;\n\nk) Praticar os demais atos ou diligências necessários à prossecução das atribuições da AT, ou que por lei, regulamento ou determinação superior lhe sejam cometidos, na área de gestão e inspeção tributária e aduaneira."
+  },
+  "124344786": {
+   "fragment_id": "124317470",
+   "type": 14,
+   "heading": "Anexo IV — (a que se refere o artigo 9.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — (a que se refere o artigo 9.º)\n\nConteúdos funcionais da carreira especial de Inspeção e Auditoria Tributária e Aduaneira\n\n1 - Aos inspetores tributários e aduaneiros da carreira especial e Inspeção e Auditoria Tributária e Aduaneira compete, genericamente, realizar a ação de inspeção e auditoria tributária e aduaneira, incluindo a fiscalização e controlo de mercadorias e bens e a prevenção e repressão da fraude e evasão fiscais e aduaneiras, bem como assegurar a execução de todas as tarefas destinadas à aplicação da regulamentação de fonte internacional e comunitária, no âmbito da missão e atribuições da Autoridade Tributária e Aduaneira (AT).\n\n2 - Compete-lhes, designadamente:\n\na) Assegurar a prática dos atos no âmbito do procedimento de inspeção tributária e aduaneira;\n\nb) Proceder a ações de vigilância, inspeção, fiscalização e auditoria;\n\nc) Desenvolver ações no âmbito da prevenção e repressão de infrações tributárias e aduaneiras, bem como detetar o incumprimento das obrigações tributárias e aduaneiras e assegurar a instauração e execução dos procedimentos sancionatórios, incluindo praticar atos no âmbito do inquérito criminal;\n\nd) Participar na programação e implementação de ações a desenvolver, bem como os meios a afetar, de acordo com as linhas de orientação estabelecidas no Plano Nacional de Atividades da Inspeção Tributária e Aduaneira;\n\ne) Proceder ao controlo da fronteira nacional e da fronteira externa da União Europeia, para fins de proteção e da segurança da sociedade, da saúde pública, da propriedade industrial e intelectual, do meio ambiente e das espécies de fauna e flora ameaçadas de extinção e de combate aos tráficos ilícitos, bem como da cadeia logística do comércio internacional;\n\nf) Desenvolver ações no âmbito da gestão de risco de âmbito comum da União Europeia e de âmbito nacional;\n\ng) Aplicar e executar os procedimentos e medidas previstos nos instrumentos jurídicos, de fonte internacional e da União Europeia, em matéria de Recursos Próprios Tradicionais, União Aduaneira, de política comercial, e de trocas e circulação de mercadorias;\n\nh) Aplicar as medidas de licenciamento do comércio externo, incluindo os regimes restritivos do comércio externo de produtos agrícolas, industriais e estratégicos, bem como os regimes específicos do abastecimento das Regiões Autónomas;\n\ni) Proceder à verificação de mercadorias e aos controlos a posteriori, bem como ao controlo e fiscalização da entrada, saída, circulação e armazenagem de mercadorias sujeitas à ação fiscal e aduaneira;\n\nj) Executar análises laboratoriais e colaborar com laboratórios das autoridades aduaneiras de outros Estados-membros, no âmbito dos procedimentos aduaneiros, do controlo dos produtos sujeitos a impostos especiais sobre o consumo e da prevenção e repressão da fraude fiscal e aduaneira, em geral;\n\nk) Coordenar e operacionalizar a colaboração e prestação de apoio técnico aos Tribunais, Ministério Público, Polícia Judiciária e entidades com funções inspetivas e de fiscalização em matéria tributária e aduaneira;\n\nl) Representar o Estado português e a AT, em assuntos da sua especialidade, designadamente em comités da União Europeia, organizações internacionais, seminários, conferências e grupos de trabalho, bem como junto dos países pertencentes à Comunidade dos Países de Língua Portuguesa;\n\nm) Elaborar estudos e pareceres relacionados com a administração dos impostos, dos direitos aduaneiros e de outras imposições, com a luta contra a evasão e fraude fiscal e aduaneira e outras matérias de natureza tributária e aduaneira, de elevado grau de responsabilidade, autonomia e especialização;\n\nn) Proceder à investigação, estudo, conceção e adaptação de métodos e processos de natureza técnica e científica, de âmbito geral ou especializado, em matéria tributária e aduaneira;\n\no) Praticar os demais atos ou diligências necessários à prossecução das atribuições da AT, ou que por lei, regulamento ou determinação superior lhe sejam cometidos, na área de inspeção e auditoria tributária e aduaneira."
+  },
+  "124344787": {
+   "fragment_id": "124317471",
+   "type": 14,
+   "heading": "Anexo V — (a que se referem o n.º 1 do artigo 35.º e o n.º 4 do artigo 38.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — (a que se referem o n.º 1 do artigo 35.º e o n.º 4 do artigo 38.º)\n\nPosições remuneratórias/Níveis remuneratórios da carreira especial de Gestão e Inspeção Tributária e Aduaneira\n\n(ver documento original)"
+  },
+  "124344788": {
+   "fragment_id": "124317472",
+   "type": 14,
+   "heading": "Anexo VI — (a que se referem o n.º 1 do artigo 35.º e o n.º 4 do artigo 38.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VI — (a que se referem o n.º 1 do artigo 35.º e o n.º 4 do artigo 38.º)\n\nPosições remuneratórias/Níveis remuneratórios da carreira especial de carreira especial de Inspeção e Auditoria Tributária e Aduaneira\n\n(ver documento original)"
+  },
+  "124344789": {
+   "fragment_id": "124317473",
+   "type": 14,
+   "heading": "Anexo VII — [a que se refere a alínea a) do n.º 3 do artigo 42.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo VII — [a que se refere a alínea a) do n.º 3 do artigo 42.º]\n\nPosições remuneratórias/Níveis remuneratórios das chefias tributárias e aduaneiras\n\n(ver documento original)\n\n112544708"
+  },
+  "187584873": {
+   "fragment_id": "124317452",
+   "type": 11,
+   "heading": "Artigo 38.º — Carreiras subsistentes",
+   "in_force_from": "2022-08-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28"
+   ],
+   "markdown": "###### Artigo 38.º — Carreiras subsistentes\n\n1 - As seguintes carreiras de regime especial subsistem, mantendo a sua natureza de carreira especial, nos termos do artigo 41.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, e do artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, para os trabalhadores nelas integrados à data da entrada em vigor do presente decreto-lei, sem prejuízo da possibilidade da sua candidatura a procedimento concursal para a carreira especial de gestão e inspeção tributária e aduaneira e para a carreira especial de inspeção e auditoria tributária e aduaneira, nos termos do disposto no n.º 3:\n\na) Investigador tributário economista;\n\nb) Investigador tributário jurista;\n\nc) Técnico de administração tributária adjunto do Grupo de Administração Tributária;\n\nd) Verificador auxiliar aduaneiro;\n\ne) Secretário aduaneiro:\n\nf) Analista aduaneiro auxiliar de laboratório.\n\n2 - Aos trabalhadores integrados nas carreiras subsistentes previstas no número anterior continuam a ser abonados os suplementos remuneratórios que vêm auferindo, enquanto se mantiverem integrados na respetiva carreira subsistente, nos termos aplicáveis à data de entrada em vigor do presente decreto-lei.\n\n3 - No prazo de 90 dias após a data da entrada em vigor do presente decreto-lei é aberto procedimento concursal para as carreiras especiais de gestão e inspeção tributária e aduaneira e de inspeção e auditoria tributária e aduaneira, nos termos da alínea a) do n.º 2 do artigo 36.º da LTFP, a que se podem candidatar todos os trabalhadores integrados nas carreiras previstas nas alíneas c) a f) do n.º 1, sendo dispensado o requisito de habilitação literária de licenciatura, nos termos do n.º 2 do artigo 34.º LTFP.\n\n4 - Nos procedimentos concursais referidos nos números anteriores considera-se para todos os efeitos, designadamente avaliação do desempenho, que da aprovação resulta o ingresso numa nova carreira, sendo os candidatos posicionados nas tabelas constantes dos anexos v e vi ao presente decreto-lei, nos seguintes termos:\n\na) Na primeira posição remuneratória da carreira, caso a remuneração atualmente auferida seja inferior;\n\nb) Na terceira posição remuneratória da carreira no caso de trabalhadores detentores de licenciatura, caso a remuneração atualmente auferida seja inferior;\n\nc) Em posição remuneratória correspondente à remuneração atualmente auferida, nos restantes casos.\n\n5 - Caso, aquando da abertura do concurso previsto no n.º 3, os trabalhadores estejam integrados ou possam vir a integrar concursos de promoção nas respetivas carreiras subsistentes, devem estes optar pela promoção na respetiva carreira subsistente ou pelo ingresso na nova carreira por via do disposto no presente artigo.\n\n6 - É igualmente aberto procedimento concursal para as carreiras especiais de gestão e inspeção tributária e aduaneira, nos termos da alínea a) do artigo 36.º da LTFP, a que se podem candidatar todos os trabalhadores integrados em procedimentos de mobilidade para as carreiras previstas nas alíneas c) a f) do n.º 1, sendo dispensado o requisito de habilitação literária de licenciatura, nos termos do n.º 2 do artigo 34.º da LTFP.\n\n7 - Para efeitos da determinação da posição remuneratória aos candidatos referidos no número anterior aplicam-se as regras estabelecidas na LTFP em matéria de consolidação da mobilidade.\n\n8 - Aos procedimentos concursais referidos no presente artigo é aplicável o n.º 2 do artigo 36.º da LTFP, não havendo lugar a prova de conhecimentos.\n\n> Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28"
+  },
+  "124344782": {
+   "fragment_id": "124317466",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de julho de 2019. - Augusto Ernesto Santos Silva - Maria de Fátima de Jesus Fonseca.\n\nPromulgado em 2 de agosto de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 6 de agosto de 2019.\n\nPelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros."
+  },
+  "840062506": {
+   "fragment_id": "124317459",
+   "type": 11,
+   "heading": "Artigo 45.º — Disposição transitória em matéria de suplementos remuneratórios",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 45.º — Disposição transitória em matéria de suplementos remuneratórios\n\n1 - Os trabalhadores que, à data da entrada em vigor do presente decreto-lei, se encontrem integrados nas carreiras previstas nos Decretos-Leis n.os 557/99, de 17 de dezembro, e 252-A/82, de 28 de junho, continuam a auferir os suplementos remuneratórios a que se referem os artigos 24.º do Decreto-Lei n.º 158/96, de 3 de setembro, e 4.º do Decreto-Lei n.º 274/90, de 7 de setembro, consoante o caso, nas condições em que os vêm auferindo.\n\n2 - O regime jurídico do suplemento previsto no artigo 24.º do Decreto-Lei n.º 158/96, de 3 de setembro, e regulado pelo Decreto-Lei n.º 335/97, de 2 de dezembro, é objeto de revisão, designadamente no que respeita à sua base e forma de cálculo e à periodicidade do respetivo abono, com vista à sua adaptação à estrutura de carreiras e cargos prevista no presente decreto-lei.\n\n3 - Até à revisão a que se refere o número anterior, e para efeitos do disposto na parte final do n.º 1 do artigo 3.º do Decreto-Lei n.º 335/97, de 2 de dezembro, o pagamento é efetuado mensalmente, através da aplicação das percentagens definidas na Portaria n.º 132/98, de 4 de março, tendo como base de cálculo a remuneração auferida no cargo ou na carreira.\n\n4 - A aplicação do disposto no número anterior efetua-se sem prejuízo da manutenção da base de cálculo em vigor à data de produção de efeitos do presente decreto-lei, quando superior.\n\n> Nota: [Artigo 7.º, Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195) O disposto no n.º 3 do presente artigo, na redação dada pelo decreto-lei n.º 19/2024, de 2 de fevereiro, produz efeitos quanto aos pagamentos que sejam devidos no ano de 2024 e nos seguintes.\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+  },
+  "913450666": {
+   "fragment_id": "124317406",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o regime da carreira especial de gestão e inspeção tributária e aduaneira e da carreira especial de inspeção e auditoria tributária e aduaneira da Autoridade Tributária e Aduaneira (AT), bem como das chefias tributárias e aduaneiras.\n\n2 - O presente decreto-lei procede à revisão, por extinção, das carreiras de inspetor tributário, de técnico de administração tributária, de gestor tributário, de técnico economista, de técnico jurista e de tesoureiro de finanças da extinta Direção-Geral dos Impostos (DGCI), e de técnico superior aduaneiro, de técnico superior aduaneiro de laboratório, de técnico verificador aduaneiro e de analista aduaneiro de laboratório da extinta Direção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC), determinando e regulando a transição dos trabalhadores nelas integrados.\n\n3 - O presente decreto-lei determina, ainda, nos termos do artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, a subsistência das seguintes carreiras:\n\na) [Revogada.]\n\nb) [Revogada.]\n\nc) Técnico de administração tributária adjunto do grupo de Administração Tributária;\n\nd) Verificador auxiliar aduaneiro;\n\ne) Secretário aduaneiro:\n\nf) Analista aduaneiro auxiliar de laboratório.\n\n4 - O disposto nos capítulos III e IV e no n.º 2 do artigo 35.º aplica-se, com as necessárias adaptações, aos trabalhadores da AT integrados nas restantes carreiras, não reguladas no presente decreto-lei.\n\n> Alterado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+  },
+  "913450659": {
+   "fragment_id": "124317451",
+   "type": 11,
+   "heading": "Artigo 37.º — Extinção de carreiras de regime especial",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 37.º — Extinção de carreiras de regime especial\n\n1 - São extintas as seguintes carreiras de regime especial da extinta DGAIEC:\n\na) Técnico superior aduaneiro;\n\nb) Técnico superior aduaneiro de laboratório;\n\nc) Técnico verificador aduaneiro;\n\nd) Analista aduaneiro de laboratório.\n\n2 - São extintas as seguintes carreiras de regime especial da extinta DGCI:\n\na) Gestor tributário;\n\nb) Técnico de administração tributária;\n\nc) Inspetor tributário:\n\nd) Técnico jurista;\n\ne) Técnico economista;\n\nf) Tesoureiro de finanças;\n\ng) Investigador tributário economista;\n\nh) Investigador tributário jurista.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+  },
+  "913450660": {
+   "fragment_id": "124317452",
+   "type": 11,
+   "heading": "Artigo 38.º — Carreiras subsistentes",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01",
+    "Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28"
+   ],
+   "markdown": "###### Artigo 38.º — Carreiras subsistentes\n\n1 - As seguintes carreiras de regime especial subsistem, mantendo a sua natureza de carreira especial, nos termos do artigo 41.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, e do artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, para os trabalhadores nelas integrados à data da entrada em vigor do presente decreto-lei, sem prejuízo da possibilidade da sua candidatura a procedimento concursal para a carreira especial de gestão e inspeção tributária e aduaneira e para a carreira especial de inspeção e auditoria tributária e aduaneira, nos termos do disposto no n.º 3:\n\na) (Revogada.)\n\nb) (Revogada.)\n\nc) Técnico de administração tributária adjunto do Grupo de Administração Tributária;\n\nd) Verificador auxiliar aduaneiro;\n\ne) Secretário aduaneiro:\n\nf) Analista aduaneiro auxiliar de laboratório.\n\n2 - Aos trabalhadores integrados nas carreiras subsistentes previstas no número anterior continuam a ser abonados os suplementos remuneratórios que vêm auferindo, enquanto se mantiverem integrados na respetiva carreira subsistente, nos termos aplicáveis à data de entrada em vigor do presente decreto-lei.\n\n3 - No prazo de 90 dias após a data da entrada em vigor do presente decreto-lei é aberto procedimento concursal para as carreiras especiais de gestão e inspeção tributária e aduaneira e de inspeção e auditoria tributária e aduaneira, nos termos da alínea a) do n.º 2 do artigo 36.º da LTFP, a que se podem candidatar todos os trabalhadores integrados nas carreiras previstas nas alíneas c) a f) do n.º 1, sendo dispensado o requisito de habilitação literária de licenciatura, nos termos do n.º 2 do artigo 34.º LTFP.\n\n4 - Nos procedimentos concursais referidos nos números anteriores considera-se para todos os efeitos, designadamente avaliação do desempenho, que da aprovação resulta o ingresso numa nova carreira, sendo os candidatos posicionados nas tabelas constantes dos anexos v e vi ao presente decreto-lei, nos seguintes termos:\n\na) Na primeira posição remuneratória da carreira, caso a remuneração atualmente auferida seja inferior;\n\nb) Na terceira posição remuneratória da carreira no caso de trabalhadores detentores de licenciatura, caso a remuneração atualmente auferida seja inferior;\n\nc) Em posição remuneratória correspondente à remuneração atualmente auferida, nos restantes casos.\n\n5 - Nos casos em que haja lugar à aplicação da alínea c) do número anterior, os trabalhadores mantêm as menções qualitativas de avaliação e os correspondentes pontos obtidos na posição remuneratória em que se encontrem.\n\n6 - Para os trabalhadores que se encontrem posicionados nos termos da alínea c) do n.º 4, em posição remuneratória automaticamente criada, não pode resultar, em ulterior alteração da posição remuneratória na nova carreira, uma posição à qual corresponda um nível remuneratório de montante pecuniário inferior àquele que lhe seria devido por força da aplicação das regras gerais de reposicionamento remuneratório e do normal desenvolvimento da carreira de origem, vigentes à data da entrada em vigor do presente decreto-lei.\n\n7 - Caso, aquando da abertura do concurso previsto no n.º 3, os trabalhadores estejam integrados ou possam vir a integrar concursos de promoção nas respetivas carreiras subsistentes, devem estes optar pela promoção na respetiva carreira subsistente ou pelo ingresso na nova carreira por via do disposto no presente artigo.\n\n8 - É igualmente aberto procedimento concursal para as carreiras especiais de gestão e inspeção tributária e aduaneira, nos termos da alínea a) do artigo 36.º da LTFP, a que se podem candidatar todos os trabalhadores integrados em procedimentos de mobilidade para as carreiras previstas nas alíneas c) a f) do n.º 1, sendo dispensado o requisito de habilitação literária de licenciatura, nos termos do n.º 2 do artigo 34.º da LTFP.\n\n9 - Para efeitos da determinação da posição remuneratória aos candidatos referidos no número anterior aplicam-se as regras estabelecidas na LTFP em matéria de consolidação da mobilidade.\n\n10 - Aos procedimentos concursais referidos no presente artigo é aplicável o n.º 2 do artigo 36.º da LTFP, não havendo lugar a prova de conhecimentos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01\n\n> Alterado pelo/a Artigo 155.º do/a [Decreto-Lei n.º 53/2022 - Diário da República n.º 156/2022, Série I de 2022-08-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2022-187413389), em vigor a partir de 2022-08-13, produz efeitos a partir de 2022-06-28"
+  },
+  "913450661": {
+   "fragment_id": "124317453",
+   "type": 11,
+   "heading": "Artigo 39.º — Transição para a carreira especial de gestão e inspeção tributária e aduaneira",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 39.º — Transição para a carreira especial de gestão e inspeção tributária e aduaneira\n\n1 - Transitam para a carreira especial de gestão e inspeção tributária e aduaneira:\n\na) Os trabalhadores integrados na carreira de regime especial de técnico de administração tributária da extinta DGCI;\n\nb) Os trabalhadores integrados na carreira de regime especial de técnico jurista da extinta DGCI;\n\nc) Os trabalhadores atualmente integrados na carreira de regime especial de investigador tributário economista da extinta DGCI;\n\nd) Os trabalhadores atualmente integrados na carreira de regime especial de investigador tributário jurista da extinta DGCI.\n\n2 - Os atuais tesoureiros de finanças de nível I e os tesoureiros de finanças de nível II da extinta DGCI transitam igualmente para a carreira especial de gestão e inspeção tributária e aduaneira.\n\n3 - Os trabalhadores a que se refere o número anterior que, à data da entrada em vigor do presente decreto-lei, se encontram a exercer funções de chefe de finanças adjunto da secção de cobrança dos serviços de finanças mantêm-se no exercício dessas funções, na situação jurídica detida.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+  },
+  "913450662": {
+   "fragment_id": "124317456",
+   "type": 11,
+   "heading": "Artigo 42.º — Transição e reposicionamento remuneratório",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "###### Artigo 42.º — Transição e reposicionamento remuneratório\n\n1 - A transição para a carreira especial de gestão e inspeção tributária e aduaneira e para a carreira especial de inspeção e auditoria tributária e aduaneira previstas no presente decreto-lei faz-se por lista nominativa nos termos da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual.\n\n2 - Na transição para as novas carreiras unicategoriais, o reposicionamento remuneratório dos trabalhadores obedece ao disposto no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, na sua redação atual, aplicável por via da alínea b) do artigo 41.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n3 - No que respeita às chefias tributárias e aduaneiras, o reposicionamento remuneratório dos trabalhadores obedece às seguintes regras:\n\na) São posicionados no nível correspondente às funções de chefia tributária e aduaneira a desempenhar, nos termos da tabela constante do anexo VII ao presente decreto-lei e do qual faz parte integrante;\n\nb) As atuais chefias tributárias que, pelo exercício da função, aufiram remuneração superior, mantêm essa remuneração até ao termo das respetivas funções.\n\n4 - O reposicionamento remuneratório dos trabalhadores integrados nas atuais carreiras de técnico jurista e de técnico economista obedece ao disposto no n.º 1, tendo como referência o montante pecuniário que auferem, enquanto em comissão de serviço, no grupo de pessoal de administração tributária.\n\n5 - Aos trabalhadores da AT que transitem ou que venham a ingressar nas carreiras especiais, aplica-se o disposto no artigo 5.º.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+  },
+  "913450663": {
+   "fragment_id": "124317471",
+   "type": 14,
+   "heading": "Anexo V — Posições remuneratórias/Níveis remuneratórios da carreira especial de Gestão e Inspeção Tributária e Aduaneira",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "## Anexo V — Posições remuneratórias/Níveis remuneratórios da carreira especial de Gestão e Inspeção Tributária e Aduaneira\n\n(a que se referem o n.º 1 do artigo 35.º e o n.º 4 do artigo 38.º)\n\n(ver documento original)\n\n> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+  },
+  "913450664": {
+   "fragment_id": "124317472",
+   "type": 14,
+   "heading": "Anexo VI — Posições remuneratórias/Níveis remuneratórios da carreira especial de carreira especial de Inspeção e Auditoria Tributária e Aduaneira",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "## Anexo VI — Posições remuneratórias/Níveis remuneratórios da carreira especial de carreira especial de Inspeção e Auditoria Tributária e Aduaneira\n\n(a que se referem o n.º 1 do artigo 35.º e o n.º 4 do artigo 38.º)\n\n(ver documento original)\n\n> Alterado pelo/a Anexo II do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+  },
+  "913450665": {
+   "fragment_id": "124317473",
+   "type": 14,
+   "heading": "Anexo VII — Posições remuneratórias/Níveis remuneratórios das chefias tributárias e aduaneiras",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+   ],
+   "markdown": "## Anexo VII — Posições remuneratórias/Níveis remuneratórios das chefias tributárias e aduaneiras\n\n[a que se refere a alínea a) do n.º 3 do artigo 42.º]\n\n(ver documento original)\n\n112544708\n\n> Alterado pelo/a Anexo III do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01"
+  }
+ }
+}

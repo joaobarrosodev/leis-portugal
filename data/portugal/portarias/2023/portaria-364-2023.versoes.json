@@ -1,0 +1,136 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:224268558:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-836758133",
+ "dre_path": "/dr/detalhe/portaria/364-2023-224268558",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-11-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "836758229",
+    "836758230",
+    "836758231",
+    "836758232",
+    "836758233",
+    "836758234",
+    "836758235",
+    "836758236",
+    "836758237",
+    "836758238",
+    "836758239",
+    "836758240",
+    "836758241"
+   ]
+  }
+ ],
+ "fragments": {
+  "836758229": {
+   "fragment_id": "836758134",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 364/2023\n\nde 15 de novembro\n\nSumário: Aprova o Regulamento do Controlo Metrológico Legal dos Opacímetros.\n\nO controlo metrológico dos métodos e instrumentos de medição em Portugal obedece ao disposto no regime geral aprovado pelo Decreto-Lei n.º 29/2022, de 7 de abril, bem como às disposições regulamentares gerais previstas no Regulamento Geral do Controlo Metrológico aprovado pela Portaria n.º 211/2022, de 23 de agosto, e, ainda, às disposições constantes das portarias específicas de cada instrumento de medição.\n\nConsiderando a publicação deste regime jurídico, torna-se necessário aprovar a regulamentação específica a que deve obedecer o controlo metrológico dos opacímetros.\n\nAssim:\n\nAo abrigo do disposto na alínea a) do artigo 2.º e no n.º 1 do artigo 25.º do Decreto-Lei n.º 29/2022, de 7 de abril, conjugados com o disposto no n.º 4 do artigo 1.º do Regulamento anexo à Portaria n.º 211/2022, de 23 de agosto, manda o Governo, pelo Secretário de Estado da Economia, o seguinte:"
+  },
+  "836758230": {
+   "fragment_id": "836758135",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado, em anexo à presente portaria e da qual faz parte integrante, o Regulamento do Controlo Metrológico Legal dos Opacímetros."
+  },
+  "836758231": {
+   "fragment_id": "836758136",
+   "type": 11,
+   "heading": "Artigo 2.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Norma revogatória\n\nÉ revogada a Portaria n.º 797/2009, de 1 de setembro."
+  },
+  "836758232": {
+   "fragment_id": "836758137",
+   "type": 11,
+   "heading": "Artigo 3.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "836758233": {
+   "fragment_id": "836758138",
+   "type": 11,
+   "heading": "Artigo 4.º — Indicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Indicação\n\n1 - A indicação dos opacímetros deve ser expressa através do coeficiente de absorção luminosa, representado pelo símbolo k, e na unidade m(elevado a -1).\n\n2 - Os valores de opacidade são percentuais e expressos através do símbolo N.\n\n3 - Quando devidamente expresso o fator de conversão, poderão ser aceites outras unidades equivalentes, tendo por base as unidades do Sistema Internacional de Unidades (SI)."
+  },
+  "836758234": {
+   "fragment_id": "836758139",
+   "type": 11,
+   "heading": "Artigo 5.º — Controlo metrológico legal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Controlo metrológico legal\n\nO controlo metrológico legal dos opacímetros compete ao Instituto Português da Qualidade, I. P. (IPQ, I. P.) e compreende as operações de Aprovação de Modelo, Primeira Verificação, Verificação Periódica e Verificação Extraordinária."
+  },
+  "836758235": {
+   "fragment_id": "836758140",
+   "type": 11,
+   "heading": "Artigo 6.º — Aprovação de modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aprovação de modelo\n\n1 - A aprovação de modelo deve obedecer aos requisitos previstos no artigo 7.º do Decreto-Lei n.º 29/2022, de 7 de abril, e ao artigo 2.º do Regulamento anexo à Portaria n.º 211/2022, de 23 de agosto.\n\n2 - Durante o prazo de validade da Aprovação de Modelo, toda ou qualquer alteração introduzida ao modelo aprovado, por substituição de componentes, por adjunção de dispositivo complementar, alteração de programa informático (software) instalado, ou por modificações que possam influenciar os resultados das medições ou as condições regulamentares de utilização, carece de uma aprovação de modelo complementar.\n\n3 - Os programas informáticos utilizados pelos opacímetros devem garantir a integridade e a confidencialidade dos dados obtidos e apresentados, e devem ainda ser objeto de identificação única e inequívoca."
+  },
+  "836758236": {
+   "fragment_id": "836758141",
+   "type": 11,
+   "heading": "Artigo 7.º — Primeira verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Primeira verificação\n\n1 - A primeira verificação é efetuada antes da colocação do instrumento no mercado, ou após a sua reparação e sempre que ocorra violação do sistema de selagem, dispensando-se a verificação periódica nesse ano, tendo o mesmo prazo de validade.\n\n2 - Os ensaios de primeira verificação são efetuados de acordo com os requisitos metrológicos e técnicos estabelecidas no artigo 3.º do presente Regulamento.\n\n3 - Os valores dos erros máximos admissíveis para a primeira verificação são iguais a (mais ou menos) 2 % de opacidade, N."
+  },
+  "836758237": {
+   "fragment_id": "836758142",
+   "type": 11,
+   "heading": "Artigo 8.º — Verificação periódica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificação periódica\n\n1 - A verificação periódica tem uma periodicidade anual e é válida durante um ano após a sua realização.\n\n2 - Os ensaios da verificação periódica são iguais aos estabelecidos para a primeira verificação.\n\n3 - Os valores dos erros máximos admissíveis na verificação periódica são iguais aos valores dos erros máximos admissíveis estabelecidos para a primeira verificação."
+  },
+  "836758238": {
+   "fragment_id": "836758143",
+   "type": 11,
+   "heading": "Artigo 9.º — Verificação extraordinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Verificação extraordinária\n\n1 - A verificação extraordinária compreende os ensaios da verificação periódica.\n\n2 - Na verificação extraordinária os valores dos erros máximos admissíveis são iguais aos valores dos erros máximos admissíveis estabelecidos para a verificação periódica."
+  },
+  "836758239": {
+   "fragment_id": "836758144",
+   "type": 11,
+   "heading": "Artigo 10.º — Inscrições e marcações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Inscrições e marcações\n\n1 - Os opacímetros devem apresentar, de forma visível e legível, inscrições e marcações de conformidade com os requisitos metrológicos previstos no artigo 3.º do presente Regulamento.\n\n2 - Os opacímetros devem ainda conter o símbolo de aprovação de modelo e outros símbolos ou referências úteis para a sua utilização."
+  },
+  "836758240": {
+   "fragment_id": "836758145",
+   "type": 11,
+   "heading": "Artigo 11.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposição transitória\n\nOs instrumentos em uso poderão permanecer em utilização enquanto estiverem em bom estado de conservação e desde que, durante os ensaios de verificação metrológica, não incorram em erros que excedam os erros máximos admissíveis."
+  },
+  "836758241": {
+   "fragment_id": "836758146",
+   "type": 11,
+   "heading": "Artigo 12.º — Disposição final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposição final\n\nO disposto nos artigos anteriores não impede a comercialização nem a utilização posterior dos opacímetros acompanhados de certificados de avaliação da conformidade emitidos por organismos reconhecidos ao abrigo da legislação da União Europeia aplicável, no âmbito da atividade de metrologia legal, com base em especificações e procedimentos que assegurem uma qualidade metrológica à visada pelo presente Regulamento, sendo a equivalência avaliada pelo IPQ, I. P.\n\n117047417"
+  }
+ }
+}

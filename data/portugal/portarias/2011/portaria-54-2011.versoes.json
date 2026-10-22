@@ -1,0 +1,166 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280184:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2011-70757199",
+ "dre_path": "/dr/detalhe/portaria/54-2011-280184",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-01-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "70755057",
+    "70755058",
+    "70755059",
+    "70755060",
+    "70755061",
+    "70755062",
+    "70755063",
+    "70755064",
+    "70755065"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:70686128:por",
+     "title": "Portaria n.º 358/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/portaria/358-2015-70686128",
+     "date": "2015-07-11"
+    }
+   ]
+  },
+  {
+   "date": "2023-09-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:221064622:por",
+     "title": "Portaria n.º 272/2023",
+     "published": "2023-08-30",
+     "dre_path": "/dr/detalhe/portaria/272-2023-221064622"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "70755057",
+    "70755058",
+    "70755059",
+    "70755060",
+    "70755061",
+    "70755062",
+    "221053298",
+    "221053299",
+    "70755065",
+    "70755066"
+   ]
+  }
+ ],
+ "fragments": {
+  "70755057": {
+   "fragment_id": "70757200",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 54/2011\n\nde 28 de Janeiro\n\nO Decreto-Lei n.º 116/2008, de 4 de Julho, aprovou diversas medidas de simplificação, desmaterialização e desformalização de actos e processos na área do registo predial e de actos notariais conexos, concretizando assim objectivos inscritos no programa SIMPLEX.\n\nEntre as medidas implementadas, destacam-se a instituição de um sistema mais amplo de comunicações entre os diversos serviços da Administração, a criação de condições legais e tecnológicas para que todos os actos de registo predial possam ser promovidos através da Internet e a possibilidade de solicitar e obter electronicamente uma certidão permanente de registo predial.\n\nAos serviços já disponíveis vai somar-se agora o acesso dos cidadãos e empresas a um novo serviço: a informação predial simplificada.\n\nA informação predial simplificada consiste na disponibilização online de uma informação não certificada, permanentemente actualizada, que conterá a descrição do prédio e a identificação do proprietário, permitindo a qualquer cidadão verificar, de forma mais simples e mais barata, se se encontram registadas sobre um determinado prédio hipotecas, penhoras ou quaisquer outros ónus ou encargos.\n\nA informação predial simplificada utilizará uma linguagem simples e intuitiva, facilitando, deste modo, a compreensão da informação que consta do registo predial.\n\nAssim:\n\nManda o Governo, pelo Ministro da Justiça, ao abrigo do artigo 104.º do Código do Registo Predial, o seguinte:"
+  },
+  "70755058": {
+   "fragment_id": "70757201",
+   "type": 11,
+   "heading": "Artigo 1.º — Informação predial simplificada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Informação predial simplificada\n\n1 - Designa-se por informação predial simplificada a disponibilização permanente em suporte electrónico do acesso a informação não certificada, existente sobre prédio descrito, extraída de forma automática da respectiva ficha informatizada.\n\n2 - A informação disponibilizada nos termos do número anterior consiste na indicação de elementos essenciais da descrição, dos titulares do direito de propriedade e de outros direitos restritivos daquele, na simples menção da existência ou não de hipotecas, de penhoras e de quaisquer outros ónus ou encargos ou de outros factos registados, bem como de apresentações pendentes.\n\n3 - O acesso à informação predial simplificada efectua-se mediante a disponibilização de um código de acesso que permite a visualização da informação através da Internet.\n\n4 - A disponibilização do código a que se refere o número anterior não equivale à entrega de uma certidão de registo predial e não dispensa a apresentação desta sempre que a lei a exija."
+  },
+  "70755059": {
+   "fragment_id": "70757202",
+   "type": 11,
+   "heading": "Artigo 2.º — Pedido",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Pedido\n\n1 - O pedido de acesso à informação predial simplificada pode fazer-se:\n\na) Através do sítio na Internet com o endereço www.predialonline.mj.pt, mantido pelo Instituto dos Registos e do Notariado, I. P. (IRN, I. P.);\n\nb) Verbalmente, em qualquer serviço com competência para a prática de actos de registo predial.\n\n2 - A identificação do prédio a que respeita o pedido é feita mediante indicação da freguesia e do concelho a que o mesmo pertence e do número da descrição.\n\n3 - A identificação do requerente da informação faz-se pela indicação do nome ou firma, residência ou sede, e do endereço de correio electrónico.\n\n4 - O pedido de renovação da informação predial simplificada pode ser realizado através da mera indicação do respectivo código de acesso."
+  },
+  "70755060": {
+   "fragment_id": "70757203",
+   "type": 11,
+   "heading": "Artigo 3.º — Funções do sítio na Internet",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Funções do sítio na Internet\n\nO sítio na Internet referido no artigo anterior deve permitir nomeadamente as seguintes funções:\n\na) A identificação do requerente da informação predial simplificada e dos demais elementos necessários ao pedido;\n\nb) O pagamento do serviço por via electrónica;\n\nc) O envio de avisos por correio electrónico aos requerentes da informação predial simplificada."
+  },
+  "70755061": {
+   "fragment_id": "70757204",
+   "type": 11,
+   "heading": "Artigo 4.º — Código de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Código de acesso\n\nApós o pedido da informação predial simplificada, é disponibilizado ao requerente um código que permite a sua visualização no sítio da Internet referido no artigo 2.º, a partir do momento em que seja confirmado o pagamento da taxa devida."
+  },
+  "70755062": {
+   "fragment_id": "70757205",
+   "type": 11,
+   "heading": "Artigo 5.º — Prazo de duração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Prazo de duração\n\n1 - A informação predial simplificada está disponível pelo prazo de um ano, podendo ser renovada por iguais períodos de tempo.\n\n2 - A renovação da informação predial simplificada deve ocorrer até ao limite do prazo de duração."
+  },
+  "70755063": {
+   "fragment_id": "70757206",
+   "type": 11,
+   "heading": "Artigo 6.º — Taxa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Taxa\n\n1 - Pela assinatura do serviço informação predial simplificada é devido, por cada prédio, o pagamento da taxa de (euro) 6.\n\n2 - À taxa prevista no número anterior acresce o montante de (euro) 4 quando o pedido seja efectuado verbalmente num serviço com competência para a prática de actos de registo predial.\n\n3 - A taxa prevista no número anterior constitui receita do Instituto dos Registos e do Notariado, I. P."
+  },
+  "70755064": {
+   "fragment_id": "70757207",
+   "type": 11,
+   "heading": "Artigo 7.º — Protocolos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Protocolos\n\nMediante protocolo com o Instituto dos Registos e do Notariado, I. P., podem ser estabelecidos montantes e formas de pagamento específicos com entidades, públicas ou privadas, cujas atribuições ou competências pressuponham um elevado nível de utilização deste serviço, designadamente as que exercem a sua actividade no âmbito do sector imobiliário."
+  },
+  "70755065": {
+   "fragment_id": "70757208",
+   "type": 11,
+   "heading": "Artigo 8.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Produção de efeitos\n\nA activação do serviço, após implementação das necessárias condições técnicas, tem lugar no prazo máximo de 90 dias após a data da publicação da presente portaria."
+  },
+  "221053298": {
+   "fragment_id": "70757206",
+   "type": 11,
+   "heading": "Artigo 6.º — Taxa",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 272/2023 - Diário da República n.º 168/2023, Série I de 2023-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/272-2023-221064622), em vigor a partir de 2023-09-01",
+    "Alterado pelo/a Artigo 10.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-07-11"
+   ],
+   "markdown": "###### Artigo 6.º — Taxa\n\n1 - Pela assinatura do serviço de informação predial simplificada é devido, por cada prédio, o pagamento da taxa de (euro) 1.\n\n2 - À taxa prevista no número anterior acresce o montante de (euro) 4 quando o pedido seja efectuado verbalmente num serviço com competência para a prática de actos de registo predial.\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 272/2023 - Diário da República n.º 168/2023, Série I de 2023-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/272-2023-221064622), em vigor a partir de 2023-09-01\n\n> Alterado pelo/a Artigo 10.º do/a [Portaria n.º 358/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/portaria/358-2015-70686128), em vigor a partir de 2015-07-11"
+  },
+  "221053299": {
+   "fragment_id": "70757207",
+   "type": 11,
+   "heading": "Artigo 7.º — Protocolos",
+   "in_force_from": "2023-09-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 272/2023 - Diário da República n.º 168/2023, Série I de 2023-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/272-2023-221064622), em vigor a partir de 2023-09-01"
+   ],
+   "markdown": "###### Artigo 7.º — Protocolos\n\n1 - Mediante protocolo com o Instituto dos Registos e do Notariado, I. P., podem ser estabelecidas formas de acesso e de pagamento específicos com entidades, públicas ou privadas, cujas atribuições ou competências pressuponham um elevado nível de utilização deste serviço, designadamente as que exercem a sua atividade no âmbito do setor imobiliário.\n\n2 - Quando as formas de acesso a que se refere o número anterior exijam tratamento informático especial, designadamente de desenvolvimento ou de manutenção de mecanismos de interoperabilidade, à taxa prevista no artigo anterior acresce um montante correspondente ao custo efetivo desse serviço, até ao limite máximo de 50 % do valor previsto no artigo anterior, por prédio.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 272/2023 - Diário da República n.º 168/2023, Série I de 2023-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/272-2023-221064622), em vigor a partir de 2023-09-01"
+  },
+  "70755066": {
+   "fragment_id": "70757209",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Pelo Ministro da Justiça, José Manuel Santos de Magalhães, Secretário de Estado da Justiça e da Modernização Judiciária, em 12 de Janeiro de 2011."
+  }
+ }
+}

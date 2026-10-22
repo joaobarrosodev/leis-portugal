@@ -1,0 +1,236 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:203443:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2006-69913699",
+ "dre_path": "/dr/detalhe/decreto-lei/7-2006-203443",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2006-01-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "69916278",
+    "69916279",
+    "69916280",
+    "69916281",
+    "69916282",
+    "69916283",
+    "69916284",
+    "69916285",
+    "69916286",
+    "69916287",
+    "69916288",
+    "69916289",
+    "69916290",
+    "69916291",
+    "69916292",
+    "69916293",
+    "69916294",
+    "69916295",
+    "69916296"
+   ]
+  },
+  {
+   "date": "2015-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:69905667:por",
+     "title": "Decreto-Lei n.º 137/2015",
+     "published": "2015-07-30",
+     "dre_path": "/dr/detalhe/decreto-lei/137-2015-69905667"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "69916278",
+    "69916279",
+    "69916280",
+    "69916281",
+    "69916300",
+    "69916283",
+    "69916284",
+    "69916285",
+    "69916286",
+    "69916287",
+    "69916288",
+    "69916289",
+    "69916290",
+    "69916291",
+    "69916292",
+    "69916293",
+    "69916294",
+    "69916295",
+    "69916296"
+   ]
+  }
+ ],
+ "fragments": {
+  "69916278": {
+   "fragment_id": "69913700",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 7/2006\n\nde 4 de Janeiro\n\nO regime jurídico da cabotagem nacional encontra-se fixado no Decreto-Lei n.º 194/98, de 10 de Julho, e no Decreto-Lei n.º 331/99, de 20 de Agosto.\n\nA experiência decorrente da liberalização da cabotagem, ocorrida em 1 de Janeiro de 1999, em resultado da aplicação do Regulamento (CEE) n.º <a href=\"eurlex.asp?ano=1992&id=392R3577\" title=\"Link para Regulamento da Comunidade Europeia\">3577/92</a>, do Conselho, de 7 de Dezembro, relativo à aplicação do princípio da livre prestação de serviços aos transportes marítimos internos nos Estados membros (cabotagem marítima), justifica a reformulação do quadro legal vigente, adequando-o claramente aos princípios consagrados na ordem jurídica comunitária, sem prejuízo da manutenção de obrigações de serviço público, expressas num conjunto de regras claras, precisas e não discriminatórias, que os armadores devem cumprir, por forma a assegurar a prestação de serviços de transporte marítimo regular, estável e fiável, exigível pela natureza específica e ultraperiférica dos tráfegos insulares das Regiões Autónomas.\n\nIsto porque o transporte marítimo representa para estas Regiões um vector de vital importância para a sua subsistência, desenvolvimento, fixação e bem-estar das populações, pelo que o livre acesso à prestação destes serviços deve ser efectuado no respeito pelos princípios regulamentares aplicáveis, por forma a garantir que as ilhas dos referidos arquipélagos dos Açores e da Madeira, independentemente da sua dimensão e do tráfego que gerarem, sejam adequada e eficazmente servidas.\n\nPor fim, procede-se à criação de um observatório de informação com o objectivo de permitir à Administração o conhecimento permanente do funcionamento destes tráfegos e a correcção de desvios ou lacunas que eventualmente se verifiquem.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas, assim como a Associação de Armadores da Marinha de Comércio.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "69916279": {
+   "fragment_id": "69913701",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei regula o transporte marítimo de passageiros e de mercadorias na cabotagem nacional."
+  },
+  "69916280": {
+   "fragment_id": "69913702",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do disposto no presente decreto-lei, entende-se por:\n\na) «Cabotagem nacional» o transporte de passageiros e de mercadorias efectuado entre portos nacionais, abrangendo a cabotagem continental e a cabotagem insular;\n\nb) «Cabotagem continental» o transporte marítimo de passageiros e de mercadorias realizado entre os portos do continente;\n\nc) «Cabotagem insular» o transporte marítimo de passageiros e de mercadorias efectuado entre os portos do continente e os portos das Regiões Autónomas, e vice-versa, entre os portos das Regiões Autónomas e entre os portos das ilhas de cada uma das Regiões Autónomas."
+  },
+  "69916281": {
+   "fragment_id": "69913703",
+   "type": 11,
+   "heading": "Artigo 3.º — Transportes na cabotagem continental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transportes na cabotagem continental\n\nO transporte de passageiros e de mercadorias na cabotagem continental é livre para armadores nacionais e comunitários com navios que arvorem pavilhão nacional ou de um Estado membro, desde que os navios preencham os requisitos necessários à sua admissão à cabotagem no Estado membro em que estejam registados."
+  },
+  "69916282": {
+   "fragment_id": "69913704",
+   "type": 11,
+   "heading": "Artigo 4.º — Transportes na cabotagem insular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Transportes na cabotagem insular\n\n1 - O transporte de passageiros e de mercadorias na cabotagem insular é livre para armadores nacionais e comunitários com navios que arvorem pavilhão nacional ou de um Estado membro, desde que os navios preencham todos os requisitos necessários à sua admissão à cabotagem no Estado membro em que estejam registados, sem prejuízo do disposto no artigo 5.º\n\n2 - Aos navios de bandeira portuguesa aplica-se o regime previsto para os navios de registo convencional, designadamente no que respeita à constituição das tripulações, às remunerações mínimas previstas no acordo colectivo de trabalho e ao regime de segurança social e fiscal."
+  },
+  "69916283": {
+   "fragment_id": "69913705",
+   "type": 11,
+   "heading": "Artigo 5.º — Regime especial dos transportes regulares de carga geral ou contentorizada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regime especial dos transportes regulares de carga geral ou contentorizada\n\n1 - Os armadores nacionais e comunitários que efectuem transportes regulares de carga geral ou contentorizada entre o continente e as Regiões Autónomas devem ainda satisfazer, cumulativamente, as seguintes condições:\n\na) Efectuar ligações semanais entre os portos do continente e os de cada uma das Regiões Autónomas em que operem e vice-versa;\n\nb) Cumprir itinerários previamente estabelecidos, respeitantes a portos do continente e de cada uma das Regiões Autónomas;\n\nc) Estabelecer itinerários que garantem uma escala quinzenal em todas as ilhas, com meios adequados;\n\nd) Garantir que o tempo de demora da expedição da carga entre a origem e o destino não ultrapassa sete dias úteis, salvo caso de força maior;\n\ne) Assegurar que a carga contentorizada seja sempre desconsolidada no porto de destino, salvo em casos devidamente justificados;\n\nf) Assegurar a continuidade do serviço pelo período mínimo de dois anos;\n\ng) Praticar, para cada Região Autónoma, o mesmo frete para a mesma mercadoria, independentemente do porto ou da ilha a que se destine;\n\nh) Utilizar navios de que sejam proprietários, locatários ou afretadores em casco nu;\n\ni) Utilizar navios com tripulação exclusivamente constituída por marítimos nacionais ou comunitários, salvo em circunstâncias especiais fundamentadas na insuficiência de marítimos nacionais ou comunitários para completar a tripulação de segurança, situações em que, com excepção do comandante e do imediato, pode ser admitida a utilização de marítimos de terceiros países;\n\nj) Garantir a todos os tripulantes remunerações nunca inferiores às remunerações mínimas publicadas no Boletim do Trabalho e Emprego e a aplicação do regime de segurança social e fiscal vigente no Estado de pavilhão para os seus nacionais.\n\n2 - Sem prejuízo do disposto no número anterior, os armadores nacionais e comunitários podem assegurar a cabotagem insular, através do recurso à subcontratação, desde que obtenham previamente autorização das entidades competentes.\n\n3 - Os armadores interessados em efectuar os transportes a que se refere o presente artigo carecem de autorização do Instituto Portuário dos Transportes Marítimos (IPTM), com vista a verificar se as condições em que pretendem operar estão cm conformidade com as disposições do presente decreto-lei e a garantir que os serviços às diversas ilhas das Regiões Autónomas são prestados de forma não discriminatória e sem perturbações graves de tráfego ou de mercado."
+  },
+  "69916284": {
+   "fragment_id": "69913706",
+   "type": 11,
+   "heading": "Artigo 6.º — Transportes sujeitos a autorização especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Transportes sujeitos a autorização especial\n\n1 - A realização de transportes que não satisfaçam qualquer das condições previstas nos artigos 3.º, 4.º e 5.º carece de autorização especial do IPTM.\n\n2 - O pedido de autorização para a realização de transportes a que se refere o número anterior deve ser fundamentado e acompanhado da seguinte informação:\n\na) Identificação do armador e do carregador/recebedor;\n\nb) Nome, bandeira, porte e arqueação do navio a utilizar;\n\nc) Indicação dos portos de origem e de destino e das datas previstas para o início e fim das viagens;\n\nd) Identificação das mercadorias e das quantidades a transportar, se aplicável;\n\ne) Elementos comprovativos da indisponibilidade de navio com acesso à cabotagem nacional para o transporte em causa, caso o transporte se enquadre nos artigos 3.º e 4.º;\n\nf) Elementos comprovativos de consulta efectuada aos armadores autorizados a efectuar transporte de carga geral ou contentorizada na cabotagem insular, caso o transporte se enquadre no artigo 5.º\n\n3 - As autorizações concedidas devem ser comunicadas ao requerente e às autoridades marítimas e aduaneiras envolvidas para fins de fiscalização, no âmbito das respectivas competências."
+  },
+  "69916285": {
+   "fragment_id": "69913707",
+   "type": 11,
+   "heading": "Artigo 7.º — Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Informação\n\n1 - Cabe ao IPTM recolher toda a informação no âmbito da cabotagem nacional de forma a:\n\na) Acompanhar as condições de realização dos transportes efectuados na cabotagem nacional, verificando o seu ajustamento às disposições do presente decreto-lei;\n\nb) Avaliar o cumprimento das obrigações de serviço público previstas no artigo 5.º e sugerir a aprovação de medidas que, sendo ajustadas às condições de oferta existentes no mercado, se revelem necessárias para assegurar o normal e regular abastecimento de todas as ilhas das Regiões Autónomas;\n\nc) Identificar a existência de situações de perturbação grave do mercado e sugerir as medidas adequadas para a sua correcção;\n\nd) Elaborar relatórios anuais da actividade desenvolvida ou com a periodicidade que as circunstâncias o aconselhem.\n\n2 - Sem prejuízo do disposto no artigo 5.º, compete ao IPTM adoptar as medidas propostas pelo observatório de informação no âmbito das competências que a este são atribuídas pelo artigo 8.º\n\n3 - Tendo em vista o cumprimento dos objectivos definidos no número anterior, os armadores que pratiquem a cabotagem nacional são obrigados a manter o IPTM permanentemente informado das operações de transporte que efectuem, sem prejuízo do direito à confidencialidade ou à reserva de informação inerente à sua gestão comercial."
+  },
+  "69916286": {
+   "fragment_id": "69913708",
+   "type": 11,
+   "heading": "Artigo 8.º — Observatório de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Observatório de informação\n\n1 - Para efeitos de avaliação do previsto nas alíneas a) a c) do n.º 1 do artigo anterior, é criado um observatório de informação, que funciona no âmbito do IPTM, presidido pelo respectivo presidente ou por quem o substitua, com representantes das Regiões Autónomas, a indigitar pelos respectivos órgãos de governo.\n\n2 - Ao observatório de informação compete:\n\na) Avaliar o cumprimento das condições previstas nas alíneas a) a c) do n.º 1 do artigo anterior;\n\nb) Propor as medidas consideradas necessárias, conforme previsto na alínea b) do artigo anterior;\n\nc) Emitir parecer sobre todas as questões que lhe forem colocadas;\n\nd) Elaborar relatórios anuais da actividade desenvolvida ou com a periodicidade que as circunstâncias o aconselhem.\n\n3 - Para efeitos do disposto nas alíneas a) a c) do número anterior, o observatório de informação, através do seu presidente, pode consultar a Associação de Armadores da Marinha de Comércio ou armador sujeito às regras fixadas no artigo 5.º\n\n4 - O observatório de informação reúne ordinariamente uma vez por semestre e extraordinariamente quando convocado pelo seu presidente, por sua iniciativa ou mediante solicitação de um dos representantes das Regiões Autónomas."
+  },
+  "69916287": {
+   "fragment_id": "69913709",
+   "type": 11,
+   "heading": "Artigo 9.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Contra-ordenações\n\n1 - Constitui contra-ordenação, punível com coima, qualquer infracção ao disposto no presente decreto-lei e como tal tipificada nos artigos seguintes.\n\n2 - A negligência e a tentativa são puníveis.\n\n3 - É aplicável às contra-ordenações previstas no presente decreto-lei o regime geral do ilícito de mera ordenação social, aprovado pelo Decreto-Lei n.º 433/82, de 27 de Outubro, com a redacção que lhe foi conferida pelo Decreto-Lei n.º 244/95, de 1 de Setembro, e pela Lei n.º 109/2001, de 24 de Dezembro."
+  },
+  "69916288": {
+   "fragment_id": "69913710",
+   "type": 11,
+   "heading": "Artigo 10.º — Não cumprimento das condições estabelecidas para os transportes regulares de carga geral ou contentorizada na cabotagem insular",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Não cumprimento das condições estabelecidas para os transportes regulares de carga geral ou contentorizada na cabotagem insular\n\n1 - O não cumprimento das condições estabelecidas na prestação de transportes regulares de carga geral ou contentorizada na cabotagem insular, em violação do disposto no n.º 1 do artigo 5.º, é punível com coima de montante mínimo de (euro) 1000 e máximo de (euro) 3740.\n\n2 - O montante máximo referido no número anterior é elevado para (euro) 44500 no caso de infracções praticadas por pessoas colectivas."
+  },
+  "69916289": {
+   "fragment_id": "69913711",
+   "type": 11,
+   "heading": "Artigo 11.º — Realização de transportes de carga geral ou contentorizada na cabotagem insular sem autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Realização de transportes de carga geral ou contentorizada na cabotagem insular sem autorização\n\n1 - O transporte de carga geral ou contentorizada na cabotagem insular sem a necessária autorização prévia, em violação do disposto no n.º 3 do artigo 5.º, é punível com coima de montante mínimo de (euro) 2000 e máximo de (euro) 3740.\n\n2 - O montante máximo referido no número anterior é elevado para (euro) 44500 no caso de infracções praticadas por pessoas colectivas."
+  },
+  "69916290": {
+   "fragment_id": "69913712",
+   "type": 11,
+   "heading": "Artigo 12.º — Transportes efectuados sem autorização especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Transportes efectuados sem autorização especial\n\n1 - O transporte no âmbito da cabotagem nacional sem autorização especial, em violação do disposto no n.º 1 do artigo 6.º, é punível com coima de montante mínimo de (euro) 2000 e máximo de (euro) 3740.\n\n2 - O montante máximo referido no número anterior é elevado para (euro) 44500 no caso de infracções praticadas por pessoas colectivas."
+  },
+  "69916291": {
+   "fragment_id": "69913713",
+   "type": 11,
+   "heading": "Artigo 13.º — Dever de informar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Dever de informar\n\n1 - A violação do dever de informação estabelecido no n.º 3 do artigo 7.º é punível com coima no montante mínimo de (euro) 250 e máximo de (euro) 1250.\n\n2 - O montante máximo referido no número anterior é elevado para (euro) 5000 no caso de infracções praticadas por pessoas colectivas."
+  },
+  "69916292": {
+   "fragment_id": "69913714",
+   "type": 11,
+   "heading": "Artigo 14.º — Competência sancionatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Competência sancionatória\n\n1 - Compete ao IPTM assegurar o cumprimento do disposto no presente decreto-lei, bem como o processamento das contra-ordenações, cabendo ao presidente do IPTM a aplicação das respectivas coimas, sem prejuízo do disposto no artigo 16.º\n\n2 - O montante das coimas aplicadas reverte em 40% para o IPTM e em 60% para o Estado."
+  },
+  "69916293": {
+   "fragment_id": "69913715",
+   "type": 11,
+   "heading": "Artigo 15.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Disposição transitória\n\nOs armadores que, à data da entrada em vigor do presente decreto-lei, já efectuem transportes de carga geral ou contentorizada entre o continente e as Regiões Autónomas e que não preencham os requisitos nele previstos dispõem de um período de 180 dias para adequarem a sua actividade à satisfação desses requisitos."
+  },
+  "69916294": {
+   "fragment_id": "69913716",
+   "type": 11,
+   "heading": "Artigo 16.º — Aplicação do diploma nas Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Aplicação do diploma nas Regiões Autónomas\n\nA aplicação do presente diploma aos transportes efectuados exclusivamente entre portos das ilhas de cada Região Autónoma não prejudica as competências dos órgãos de governo próprio, sendo a sua execução assegurada pelos respectivos Governos Regionais."
+  },
+  "69916295": {
+   "fragment_id": "69913717",
+   "type": 11,
+   "heading": "Artigo 17.º — Disposição revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Disposição revogatória\n\nÉ revogado o Decreto-Lei n.º 194/98, de 10 de Julho, e o artigo 2.º do Decreto-Lei n.º 331/99, de 20 de Agosto."
+  },
+  "69916296": {
+   "fragment_id": "69913718",
+   "type": 11,
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor 30 dias após a sua publicação.\n\nVisto e aprovado em Conselho de Ministros de 24 de Novembro de 2005. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Luís Filipe Marques Amado - Alberto Bernardes Costa - Francisco Carlos da Graça Nunes Correia - Mário Lino Soares Correia.\n\nPromulgado em 19 de Dezembro de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 19 de Dezembro de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "69916300": {
+   "fragment_id": "69913704",
+   "type": 11,
+   "heading": "Artigo 4.º — Transportes na cabotagem insular",
+   "in_force_from": "2015-08-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2015 - Diário da República n.º 147/2015, Série I de 2015-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2015-69905667), em vigor a partir de 2015-08-04"
+   ],
+   "markdown": "###### Artigo 4.º — Transportes na cabotagem insular\n\n1 - O transporte de passageiros e de mercadorias na cabotagem insular é livre para armadores nacionais e comunitários com navios que arvorem pavilhão nacional ou de um Estado membro, desde que os navios preencham todos os requisitos necessários à sua admissão à cabotagem no Estado membro em que estejam registados, sem prejuízo do disposto no artigo 5.º\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 137/2015 - Diário da República n.º 147/2015, Série I de 2015-07-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2015-69905667), em vigor a partir de 2015-08-04"
+  }
+ }
+}

@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:215736:por
+title: Decreto-Lei n.º 47/2003
+short_title: null
+summary: Autoriza a INCM, S. A., a cunhar uma moeda de colecção alusiva ao tema «Náutica», com o valor facial de (euro) 10,
+  integrada na V Série Ibero-Americana
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 47/2003
+official_date: null
+publication_date: '2003-03-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 67/2003, Série I-A de 2003-03-20
+  number: '67'
+  series: I
+  supplement: null
+  pages: 1874 - 1874
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/03/067a00/18741874.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/47/2003/03/20/p/dre/pt/html
+  oj: null
+  dre: '215736'
+  dre_path: /dr/detalhe/decreto-lei/47-2003-215736
+  internal: pt:dre:215736:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2003-215736
+  metadata_url: https://data.dre.pt/eli/dec-lei/47/2003/03/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/47-2003-215736
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2003-03-20T00:00:00Z'
+integrity:
+  source_sha256: f4a869a73be67c7cbcdb730aa145cd30cd16ac759649d9e21c3716f8ce46e899
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2003/DRE-2003-47-215736.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Cunhagem de Moeda
+- Imprensa Nacional-Casa da Moeda
+relationships: []
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 47/2003
+
+de 20 de Março
+
+O continuado interesse pelo coleccionismo numismático e os compromissos internacionais assumidos entre Portugal, Espanha e diversos países do continente americano justificam que se proceda à cunhagem e à comercialização de uma moeda de colecção alusiva ao tema «Náutica», integrada na V Série Ibero-Americana.
+
+Em face da realização da V Série Ibero-Americana subordinada ao tema «Náutica», julga-se da maior importância dar continuidade à participação de Portugal, em conjunto com a Espanha e vários países do continente americano, na emissão desta série internacional alusiva ao tema referido, que visa o aprofundamento das relações entre países com a mesma raiz cultural.
+
+Foram ouvidos o Banco de Portugal e a Imprensa Nacional-Casa da Moeda, S. A.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+A Imprensa Nacional-Casa da Moeda, S. A. (INCM, S. A.) é autorizada a cunhar e comercializar uma moeda de colecção alusiva ao tema «Náutica», integrada na V Série Ibero-Americana.
+
+###### Artigo 2.º — Valor facial
+
+A moeda cunhada ao abrigo do presente diploma tem o valor facial de (euro) 10.
+
+###### Artigo 3.º — Tipos de acabamento
+
+1 - A moeda é cunhada com acabamento normal ou com acabamento especial do tipo «prova numismática (proof)».
+
+2 - As moedas com acabamento normal são produzidas recorrendo a cunhos com tratamento superficial adequado à produção em série e a discos que não sofrem qualquer preparação prévia à cunhagem.
+
+3 - As moedas com acabamento especial do tipo «prova numismática (proof)» são produzidas recorrendo a cunhos foscados e polidos e a discos metálicos especialmente preparados, apresentando o campo espelhado e os relevos matizados.
+
+4 - As moedas com acabamento especial são apresentadas devidamente protegidas em embalagem própria e com certificado de garantia.
+
+###### Artigo 4.º — Limite de emissão
+
+1 - O limite de emissão desta moeda é de (euro) 3700000.
+
+2 - Dentro do limite estabelecido no número anterior, a INCM, S. A., é autorizada a cunhar até 20000 moedas com acabamento «prova numismática (proof)».
+
+###### Artigo 5.º — Especificações técnicas
+
+1 - As moedas com acabamento normal são cunhadas em liga de prata de toque 500/1000, com 40 mm de diâmetro e 27 g de massa, com uma tolerância de mais ou menos 1/100 na massa e no toque, e têm o bordo serrilhado.
+
+2 - As moedas com acabamento «prova numismática (proof)» são cunhadas em prata 925/1000, com 40 mm de diâmetro e 27 g de massa, com uma tolerância de mais ou menos 1/100 na massa e no toque, e têm o bordo serrilhado.
+
+###### Artigo 6.º — Características visuais das moedas
+
+1 - A gravura do anverso apresenta, no centro do campo, as armas nacionais de Portugal circundadas pela legenda «República Portuguesa 10 Euros» entre duas circunferências, orladas pelas armas nacionais dos restantes países participantes nesta série internacional.
+
+2 - A gravura do reverso apresenta a era da moeda, uma caravela redonda vista de proa e um quadrante, cuja linha de mira aponta a estrela de uma constelação, tendo na parte inferior a legenda «Náutica».
+
+###### Artigo 7.º — Curso legal e poder liberatório
+
+As moedas cunhadas ao abrigo do presente diploma têm curso legal e poder liberatório apenas em Portugal, mas ninguém pode ser obrigado a receber num único pagamento mais de 50 destas moedas, excepto o Banco de Portugal, as instituições de crédito e as caixas do Estado.
+
+###### Artigo 8.º — Comercialização
+
+A comercialização das moedas cunhadas ao abrigo do presente diploma legal é feita de acordo com as disposições aplicáveis do [Decreto-Lei n.º 178/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1988-374664), de 19 de Maio, até à publicação do novo regime legal das moedas de colecção.
+
+Visto e aprovado em Conselho de Ministros de 20 de Fevereiro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Nuno Albuquerque Morais Sarmento.
+
+**Promulgado em 11 de Março de 2003.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 12 de Março de 2003.**
+
+**O Primeiro-Ministro, José Manuel Durão Barroso.**

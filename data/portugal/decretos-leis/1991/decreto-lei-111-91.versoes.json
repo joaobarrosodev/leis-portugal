@@ -1,0 +1,304 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:475948:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1991-886163791",
+ "dre_path": "/dr/detalhe/decreto-lei/111-1991-475948",
+ "source_lastmod": "2024-08-29",
+ "versions": [
+  {
+   "date": "1991-03-18",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "885927971",
+    "885927972",
+    "885927973",
+    "885927974",
+    "886206075",
+    "886206076",
+    "886206077",
+    "886206078",
+    "886206079",
+    "886206080",
+    "886206081",
+    "886206082",
+    "886206083",
+    "886206084",
+    "886206085",
+    "886206086"
+   ]
+  },
+  {
+   "date": "1991-04-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:185160:por",
+     "title": "Declaração de Rectificação n.º 64/91",
+     "published": "1991-04-30",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/64-1991-185160"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 12.º"
+   ],
+   "fragments": [
+    "885927971",
+    "885927972",
+    "885927973",
+    "885927974",
+    "886206075",
+    "886206076",
+    "886206077",
+    "886206078",
+    "886206079",
+    "886206080",
+    "886206081",
+    "886206082",
+    "886330478",
+    "886206084",
+    "886206085",
+    "886206086",
+    "886206088"
+   ]
+  },
+  {
+   "date": "2004-08-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:480517:por",
+     "title": "Decreto-Lei n.º 208/2004",
+     "published": "2004-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/208-2004-480517"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 13.º"
+   ],
+   "fragments": [
+    "885927971",
+    "885927972",
+    "885927973",
+    "885927974",
+    "886206075",
+    "886206076",
+    "886206077",
+    "886206078",
+    "886206079",
+    "886330488",
+    "886330489",
+    "886330491",
+    "886330490",
+    "886330492",
+    "886206085",
+    "886206086",
+    "886206088"
+   ]
+  }
+ ],
+ "fragments": {
+  "885927971": {
+   "fragment_id": "886163792",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 111/91\n\nde 18 de Março\n\nA progressiva concorrência no sector do transporte aéreo exige a definição e verificação rigorosas das condições operacionais, incluindo estruturas orgânicas e pessoal qualificado, em que as empresas nacionais de transporte aéreo devem explorar os serviços para que sejam licenciadas.\n\nA satisfação do conjunto de requisitos técnicos que as empresas têm de preencher, de acordo com as normas e práticas internacionais fixadas pela Organização da Aviação Civil Internacional, determinam a emissão do competente certificado de operador pela autoridade aeronáutica civil.\n\nCom o presente diploma pretende-se uniformizar o critério de certificação das empresas de transporte aéreo, independentemente do seu âmbito de actividade, seja de transporte regular, internacional ou interno, bem como da respectiva natureza jurídica, pública ou privada.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "885927972": {
+   "fragment_id": "886163793",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1 - Todas as entidades nacionais que pretendam explorar serviços de transporte aéreo, adiante designadas por operadores, têm de dispor de adequadas estruturas técnicas próprias, de serviços de operações de voo e de engenharia e manutenção de aeronaves e equipamento associado, previamente certificadas pela Direcção-Geral da Aviação Civil (DGAC).\n\n2 - O disposto no presente diploma aplica-se também a todas as empresas de transporte aéreo existentes, independentemente da sua natureza pública ou privada, desde que tenham a sua sede em território nacional.\n\n3 - Excepcionalmente, e mediante requerimento devidamente fundamentado dirigido ao director-geral da Aviação Civil, poderá ser autorizada a contratação, com oficinas de manutenção aprovadas pela DGAC, de certos trabalhos de manutenção de aeronaves que o requerente não possa efectuar com os seus próprios meios.\n\n4 - A certificação referida nos números anteriores é atestada pela emissão de um certificado de operador, nos termos do modelo a aprovar pela portaria prevista no n.º 2 do artigo 5.º\n\n5 - Do certificado de operador constarão:\n\na) O nome e a sede do operador;\n\nb) Os domínios de aplicação;\n\nc) A composição da frota, com indicação explícita das marcas e modelos das aeronaves;\n\nd) O prazo de validade;\n\ne) As especificações técnicas, condições e limitações de operação impostas, as quais constarão de anexos ao certificado, do qual fazem parte integrante."
+  },
+  "885927973": {
+   "fragment_id": "886163794",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA emissão do certificado de operador está condicionada:\n\na) À apresentação pelo operador, e subsequente aprovação pela DGAC, do «Manual de operações» e seus complementos, designadamente os «Manuais de instrução e salvamento», e do «Manual do serviço de manutenção»;\n\nb) À comprovação, perante a DGAC, da capacidade técnica do operador para o cumprimento correcto das normas e procedimentos constantes dos manuais referidos na alínea anterior."
+  },
+  "885927974": {
+   "fragment_id": "886163795",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO certificado de operador não confere quaisquer direitos de tráfego e apenas atesta a capacidade técnica do operador para o exercício dos direitos conferidos em adequado título legal."
+  },
+  "886206075": {
+   "fragment_id": "886163796",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - Pelo certificado de operador é devido o pagamento de uma taxa anual.\n\n2 - As substituições, revalidações e alterações do certificado de operador dão lugar ao pagamento de taxas.\n\n3 - As normas de aplicação e o montante das taxas referidas nos números anteriores são fixados por portaria do Ministro das Obras Públicas, Transportes e Comunicações e as taxas cobradas pela DGAC.\n\n4 - Até à publicação da portaria prevista no número anterior mantêm-se em vigor as portarias publicadas ao abrigo do artigo 22.º do Decreto-Lei n.º 19/82, de 28 de Janeiro, e dos n.os 2 e 3 do artigo 13.º do Decreto-Lei n.º 234/89, de 25 de Julho."
+  },
+  "886206076": {
+   "fragment_id": "886163797",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1 - Os «Manuais de operações e do serviço de manutenção» são elaborados de acordo com o anexo n.º 6 à Convenção sobre Aviação Civil Internacional e demais regulamentos técnicos aplicáveis, onde se descrevem detalhadamente a estrutura orgânica, as instalações, os serviços, os meios materiais e os recursos humanos qualificados de que o candidato a um certificado de operador deve dispor nos seus serviços de operações e de manutenção, bem como as normas e os procedimentos a seguir.\n\n2 - A organização e o modo de funcionamento dos serviços, bem como a organização e o conteúdo dos manuais referidos no número anterior, devem obedecer ao que vier a ser estipulado em regulamento a aprovar por portaria do Ministro das Obras Públicas, Transportes e Comunicações.\n\n3 - As empresas referidas no n.º 2 do artigo 1.º devem adaptar as suas estruturas e o seus «Manuais de operações e de manutenção» no prazo máximo de um ano contado a partir da data da publicação da portaria referida no número anterior, sob pena de lhes ser aplicado o disposto na alínea b) do n.º 1 do artigo 10.º do presente diploma."
+  },
+  "886206077": {
+   "fragment_id": "886163798",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nOs «Manuais de operações e do serviço de manutenção», uma vez aprovados pela DGAC, não podem ser alterados, nem os titulares dos postos de responsabilidade técnica das estruturas orgânicas neles descritas podem ser substituídos, sem autorização prévia da DGAC."
+  },
+  "886206078": {
+   "fragment_id": "886163799",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1 - Os titulares de um certificado de operador são sempre responsáveis perante a DGAC pelo integral cumprimento das disposições contidas nos referidos manuais.\n\n2 - Os titulares de um certificado de operador só podem operar aeronaves de marca e modelo indicados naquele certificado.\n\n3 - O emprego eventual de aeronaves em regime de contrato de aluguer ou fretamento depende de prévia autorização da DGAC, à qual compete fixar as condições e o prazo dessa utilização, por forma a garantir os padrões de controlo e segurança das aeronaves."
+  },
+  "886206079": {
+   "fragment_id": "886163800",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nO titular de um certificado de operador deve requerer à DGAC a sua substituição sempre que haja alteração de qualquer dos elementos constantes do respectivo certificado, incluindo os seus anexos."
+  },
+  "886206080": {
+   "fragment_id": "886163801",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA infracção do disposto nos artigos 1.º, n.º 3, 6.º, 7.º e 8.º constitui contra-ordenação punível com coima de 500000$00 a 750000$00."
+  },
+  "886206081": {
+   "fragment_id": "886163802",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nConstituem contra-ordenações puníveis com coima de 1500000$00 a 3000000$00:\n\na) O não cumprimento de especificações técnicas, condições e limitações de operação impostas no certificado de operador, bem como a operação de qualquer aeronave de marca e modelo não constante daquele certificado;\n\nb) O exercício de operações de transporte aéreo por entidade nacional não titular de um certificado de operador válido."
+  },
+  "886206082": {
+   "fragment_id": "886163803",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA tentativa e a negligência são puníveis"
+  },
+  "886206083": {
+   "fragment_id": "886163804",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1 - Nas contra-ordenações previstas nos artigos anteriores pode ser aplicada, como sanção acessória, a interdição do exercício da actividade de exploração de serviços de transporte aéreo por um período até dois anos.\n\n2 - No caso da contra-ordenação prevista na alínea b) do artigo anterior pode ainda ser determinada, como sanção acessória, a apreensão das aeronaves e do restante equipamento aeronáutico utilizados se o infractor não cessar as operações no prazo máximo de 48 horas após notificação."
+  },
+  "886206084": {
+   "fragment_id": "886163805",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - O processamento das contra-ordenações previstas neste diploma é da competência da DGAC.\n\n2 - A aplicação das sanções previstas neste diploma é da competência do director-geral da Aviação Civil."
+  },
+  "886206085": {
+   "fragment_id": "886163806",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs artigos 5.º, 10.º, 15.º e 22.º do Decreto-Lei n.º 19/82, de 28 de Janeiro, passam a ter a seguinte redacção:\n\nArt. 5.º - 1 - ...\n\na) ...\n\nb) ...\n\n2 - Os requerimentos deverão ser acompanhados dos projectos do «Manual de operações» e seus complementos e do «Manual do serviço de manutenção».\n\n3 - ...\n\nArt. 10.º O titular de uma licença concedida ao abrigo deste decreto-lei deverá dispor no território nacional de adequadas estruturas técnicas próprias, de serviços de operações de voo e de engenharia e manutenção de aeronaves e equipamento associado, previamente certificadas pela Direcção-Geral da Aviação Civil, nos termos da regulamentação em vigor.\n\nArt.º 15.º\n\nO exercício dos direitos conferidos pela licença estará permanente condicionado à posse de um certificado de operador válido.\n\nArt. 22.º - 1 - Pela concessão, alteração, suspensão e prorrogação das licenças previstas neste diploma é devido o pagamento das taxas anuais que forem fixadas em portaria do Ministro das Obras Públicas, Transportes e Comunicações.\n\n2 - ..."
+  },
+  "886206086": {
+   "fragment_id": "886163807",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nOs artigos 4.º, 5.º, 8.º, 13.º, 16.º e 22.º do Decreto-Lei n.º 234/89, de 25 de Julho, passam a ter a seguinte redacção:\n\nArt. 4.º ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ...\n\ng) ...\n\nh) Dispor no território continental nacional de adequadas estruturas técnicas próprias, de serviços de operações de voo e de engenharia e manutenção de aeronaves e equipamento associado, previamente certificadas pela Direcção-Geral da Aviação Civil, nos termos da regulamentação em vigor.\n\nArt. 5.º - 1 - ...\n\n2 - ...\n\n3 - ...\n\na) ...\n\nb) Os projectos do «Manual de operações» e seus complementos e do «Manual do serviço de manutenção».\n\nArt. 8.º O exercício dos direitos conferidos pela licença estará permanentemente condicionado à posse de um certificado de operador válido.\n\nArt. 13.º - 1 - ...\n\n2 - Pela concessão, alteração e prorrogação da licença prevista neste diploma é devido o pagamento de taxas, de montente a fixar, nos termos do número anterior.\n\nArt. 16.º - 1 - ...\n\n2 - É da responsabilidade do titular da licença a permanente e atempada actualização de toda a documentação e informação técnica que serviu de base à emissão da licença.\n\nArt. 22.º - ...\n\na) A realização de actividades de transporte aéreo com violação das condições impostas no título da licença;\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) ..."
+  },
+  "886330478": {
+   "fragment_id": "886163804",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "1991-04-30",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1991-185160), em vigor a partir de 1991-04-30"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - Nas contra-ordenações previstas nos artigos anteriores pode ser aplicada, como sanção acessória, a interdição do exercício da actividade de exploração de serviços de transporte aéreo por um período até dois anos.\n\n2 - No caso da contra-ordenação prevista na alínea b) do artigo 10.º pode ainda ser determinada, como sanção acessória, a apreensão das aeronaves e do restante equipamento aeronáutico utilizados se o infractor não cessar as operações no prazo máximo de 48 horas após notificação.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1991-185160), em vigor a partir de 1991-04-30"
+  },
+  "886206088": {
+   "fragment_id": "886163809",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 7 de Fevereiro de 1991. - Aníbal António Cavaco Silva - Joaquim Martins Ferreira do Amaral.\n\nPromulgado em 4 de Março de 1991.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendado em 6 de Março de 1991.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "886330488": {
+   "fragment_id": "886163801",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 9.º\n\nPara efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações graves:\n\na) A violação do disposto no artigo 6.º;\n\nb) A violação do disposto no artigo 8.º\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "886330489": {
+   "fragment_id": "886163802",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 10.º\n\nPara efeitos de aplicação do regime das contra-ordenações aeronáuticas civis, aprovado pelo Decreto-Lei n.º 10/2004, de 9 de Janeiro, constituem contra-ordenações muito graves:\n\na) A realização de trabalhos de manutenção em oficinas de manutenção não aprovadas ou sem a autorização de contratação com oficinas de manutenção aprovadas pelo INAC;\n\nb) A utilização de aeronaves em regime de contrato de aluguer ou fretamento sem a prévia autorização do INAC ou em violação do prazo e condições dessa autorização;\n\nc) O incumprimento das disposições contidas nos manuais de operações e do serviço de manutenção;\n\nd) O não cumprimento de especificações técnicas, condições e limitações de operação impostas no certificado de operador de trabalho aéreo, bem como a operação de qualquer aeronave de marca e modelo não constante daquele certificado;\n\ne) O exercício de operações de trabalho aéreo por entidade nacional não titular de um certificado de operador de trabalho aéreo válido.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "886330491": {
+   "fragment_id": "886163803",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 11.º\n\nA tentativa e a negligência são puníveis\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  },
+  "886330490": {
+   "fragment_id": "886163804",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24",
+    "Retificado pelo/a [Declaração de Rectificação n.º 64/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1991-185160), em vigor a partir de 1991-04-30"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1 - Nas contra-ordenações previstas nos artigos 9.º e 10.º pode ser aplicada, em simultâneo com a coima, a sanção acessória de interdição do exercício da actividade de exploração de serviços de trabalho aéreo pelo período máximo de dois anos.\n\n2 - No caso da contra-ordenação prevista na alínea e) do artigo 10.º pode ainda ser aplicada, em simultâneo com a coima, a sanção acessória de apreensão das aeronaves e do restante equipamento aeronáutico utilizados se o infractor não cessar as operações no prazo máximo de quarenta e oito horas após a respectiva notificação.\n\n3 - A punição por contra-ordenação pode ser publicitada, nos termos previstos no artigo 13.º do Decreto-Lei n.º 10/2004, de 9 de Janeiro.\n\n> Alterado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24\n\n> Retificado pelo/a [Declaração de Rectificação n.º 64/91 - Diário da República n.º 99/1991, 1º Suplemento, Série I-A de 1991-04-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/64-1991-185160), em vigor a partir de 1991-04-30"
+  },
+  "886330492": {
+   "fragment_id": "886163805",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2004-08-24",
+   "changed_by": [
+    "Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - O processamento das contra-ordenações previstas neste diploma é da competência da DGAC.\n\n2 - A aplicação das sanções previstas neste diploma é da competência do director-geral da Aviação Civil.\n\n> Revogado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 208/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2004-480517), em vigor a partir de 2004-08-24"
+  }
+ }
+}

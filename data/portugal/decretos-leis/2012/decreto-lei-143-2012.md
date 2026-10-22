@@ -1,0 +1,486 @@
+---
+schema_version: '1.0'
+id: pt:dre:179782:por
+title: Decreto-Lei n.º 143/2012
+short_title: null
+summary: Aprova a orgânica do Instituto do Emprego e da Formação Profissional, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia e do Emprego
+proposing_entity: null
+official_number: 143/2012
+official_date: null
+publication_date: '2012-07-11'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 133/2012, Série I de 2012-07-11
+  number: '133'
+  series: I
+  supplement: null
+  pages: 3603 - 3606
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/07/13300/0360303606.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-29'
+version_history:
+  file: decreto-lei-143-2012.versoes.json
+  count: 4
+  source_lastmod: '2026-07-28'
+  versions:
+  - date: '2012-07-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-01'
+    amending: pt:dre:184108564:por
+    amending_title: Decreto-Lei n.º 38/2022
+    changes:
+    - Altera Artigo 3.º
+  - date: '2026-02-21'
+    amending: pt:dre:1051282280:por
+    amending_title: Decreto-Lei n.º 42/2026
+    changes:
+    - Adita Artigo 3.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 10.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Revoga Artigo 16.º
+  - date: '2026-07-29'
+    amending: pt:dre:1152696596:por
+    amending_title: Decreto-Lei n.º 150/2026
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/143/2012/p/cons/20260728/pt/html
+  oj: null
+  dre: '179782'
+  dre_path: /dr/detalhe/decreto-lei/143-2012-179782
+  internal: pt:dre:179782:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/143-2012-179782
+  metadata_url: https://data.dre.pt/eli/dec-lei/143/2012/p/cons/20260728/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-868778861
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-868778861
+  retrieved_at: '2026-10-22T13:47:02Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-28T00:00:00Z'
+integrity:
+  source_sha256: 54e02114f033d8576c798687f5b5bdbd03268f96260478e0f14d3de98cabefaf
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:47:02Z'
+  notes: 4 versão(ões); histórico completo em decreto-lei-143-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Fiscal Único
+- Instituto do Emprego e Formação Profissional
+- Conselho Consultivo Regional
+- Conselho de Administração
+- Definição de Competências
+- Conselho Diretivo
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:184108564:por
+  label: Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564
+  date: '2022-05-30'
+- type: amended_by
+  target: pt:dre:1051282280:por
+  label: Adita Artigo 3.º-A; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Artigo 8.º; Altera Artigo 10.º; Altera Artigo 14.º; Altera Artigo 15.º; Revoga Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280
+  date: '2026-02-16'
+- type: amended_by
+  target: pt:dre:1152696596:por
+  label: Altera Artigo 3.º; Altera Artigo 3.º-A; Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596
+  date: '2026-07-28'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126-c/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/157/2009/07/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/157/2009/07/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/213/2007/05/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/213/2007/05/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+article_structure:
+  article_count: 19
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:47:02Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 143/2012
+
+Decreto-Lei n.º 143/2012
+
+de 11 de julho
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respetivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objetivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objetivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de otimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+Neste contexto, foi aprovada a orgânica do Ministério da Economia e do Emprego (MEE), pelo Decreto-Lei n.º 126-C/2011, de 29 de dezembro, que procede à reestruturação do Instituto do Emprego e da Formação Profissional, I. P. (IEFP, I. P.), serviço da administração indireta do Estado que tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas ativas de emprego, nomeadamente de formação profissional.
+
+Considerando o alcance social da missão do IEFP, I. P., mantém-se a gestão tripartida do seu conselho de administração através da representação dos parceiros sociais com assento efetivo no Conselho Permanente de Concertação Social.
+
+Na organização interna do IEFP, I. P., quer ao nível dos serviços centrais, quer ao nível dos serviços regionais, organizados de forma desconcentrada através das delegações regionais, operam-se transformações significativas a consagrar nos respetivos estatutos que visam racionalizar o emprego de recursos com ganhos de eficiência e eficácia.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 16.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+1 - O Instituto do Emprego e da Formação Profissional, I. P., abreviadamente designado por IEFP, I. P., é um instituto público de regime especial, nos termos da lei, integrado na administração indireta do Estado, dotado de autonomia administrativa, financeira e património próprio.
+
+2 - O IEFP, I. P., prossegue atribuições do Ministério do Trabalho, Solidariedade e Segurança Social, sob superintendência e tutela do respetivo membro do Governo.
+
+3 - A definição das orientações estratégicas e a fixação de objetivos para o IEFP, I. P., bem como o acompanhamento da sua execução são articulados entre os membros do Governo responsáveis pelas áreas do trabalho, solidariedade e segurança social e da economia.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - O IEFP, I. P., é um organismo central com jurisdição em todo o território nacional, sem prejuízo das atribuições e competências das Regiões Autónomas dos Açores e da Madeira.
+
+2 - O IEFP, I. P., tem sede em Lisboa.
+
+3 - O IEFP, I. P., dispõe de serviços desconcentrados, designados delegações regionais, com as seguintes áreas territoriais de atuação:
+
+a) A Delegação Regional do Norte, na área correspondente ao nível ii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS) do Norte;
+
+b) A Delegação Regional do Centro, na área correspondente ao nível ii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS) do Centro;
+
+c) A Delegação Regional de Lisboa e Vale do Tejo, na área correspondente ao nível II da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS) da Grande Lisboa, Oeste e Vale do Tejo e Península de Setúbal;
+
+d) A Delegação Regional do Alentejo, na área correspondente ao nível ii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS) do Alentejo;
+
+e) A Delegação Regional do Algarve, na área correspondente ao nível ii da Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS) do Algarve.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 3.º — Missão
+
+1 - O IEFP, I. P., é o serviço público de emprego nacional e tem por missão promover a criação e a qualidade do emprego e combater o desemprego, através da execução de políticas ativas nas suas áreas de atribuição, bem como, em colaboração com outras entidades, as políticas públicas de formação destinadas ao bom desenvolvimento do voluntariado.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+> Alterado pelo/a Artigo 25.º do/a [Decreto-Lei n.º 38/2022 - Diário da República n.º 104/2022, Série I de 2022-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38-2022-184108564), em vigor a partir de 2022-06-01
+
+###### Artigo 3.º-A — Atribuições
+
+São atribuições do IEFP, I. P.:
+
+a) Promover a organização do mercado de trabalho tendo em vista o ajustamento direto entre a oferta e a procura, desenvolvendo novas estratégias para potenciar a articulação com as entidades empregadoras e capacitando os recursos humanos para uma resposta mais eficaz e eficiente;
+
+b) Promover a informação, a orientação, a qualificação e a reabilitação profissional, com vista à colocação dos trabalhadores no mercado de trabalho e à sua progressão profissional, com reforço da capacidade da resposta do Serviço Público de Emprego às necessidades e expectativas dos desempregados e jovens, no quadro de uma estratégia de modernização administrativa, simplificação e reforço do atendimento e proximidade aos cidadãos;
+
+c) Promover a qualificação escolar e profissional dos jovens, através da oferta de formação de dupla certificação;
+
+d) Promover a qualificação escolar e profissional da população adulta, através da oferta de formação profissional certificada, ajustada aos percursos individuais e relevante para a modernização da economia;
+
+e) Promover a melhoria da produtividade da economia portuguesa mediante a realização, por si ou em colaboração com outras entidades, das ações de formação profissional, nas suas várias modalidades, que se revelem em cada momento as mais adequadas às necessidades das pessoas e de modernização e desenvolvimento do tecido económico, nomeadamente dinamizando a resposta formativa associada às novas tecnologias de informação, potenciando-se o aumento das competências digitais e a promoção da inovação e eficiência das práticas formativas;
+
+f) Incentivar a criação e a manutenção de postos de trabalho, através de medidas adequadas ao contexto económico e às características das entidades empregadoras, mobilizando para esse efeito as políticas ativas de emprego, com uma gestão rigorosa, de modo que estas contribuam efetivamente para a criação de emprego sustentável, através da imposição de maior eficiência na gestão dos recursos e do aumento da capacidade de resposta dos serviços;
+
+g) Incentivar a inserção profissional dos diferentes públicos através de medidas específicas, em particular para aqueles com maior risco de exclusão do mercado de trabalho;
+
+h) Promover a inclusão e reabilitação profissional das pessoas com deficiência, dinamizando respostas específicas de qualificação e de apoio ao emprego, em complemento às respostas gerais, respeitando as melhores práticas internacionais e as recomendações da Comissão Europeia, em articulação com o Instituto para os Direitos das Pessoas com Deficiência, I. P., o Instituto da Segurança Social, I. P., e o Ministério da Saúde ou outros organismos competentes em razão da matéria;
+
+i) Promover o desenvolvimento dos ofícios e das microempresas artesanais, designadamente enquanto fonte de criação de trabalho ao nível local, apoiando a capacitação dos artesãos, o reconhecimento de artesãos e de unidades produtivas artesanais, a certificação das produções artesanais tradicionais e a promoção e comercialização de produtos artesanais;
+
+j) Reconhecimento profissional dos artificies a par com as demais estruturas europeias, incentivando a contínua qualificação e aprimoramento técnico, de modo a preservar e fortalecer o legado cultural e profissional destas atividades, ao mesmo tempo em que procura a sua adaptação às exigências contemporâneas do mercado de trabalho;
+
+k) Assegurar o desenvolvimento das políticas relativas ao mercado social de trabalho, enquanto conjunto de iniciativas destinadas à integração e reintegração socioprofissional de pessoas desempregadas e inativas, em especial as mais afastadas do mercado de trabalho e com maior dificuldade de inserção no mesmo, promovendo a sua empregabilidade, com base em atividades dirigidas a necessidades sociais por satisfazer, incluindo programas de apoio à inserção e medidas de formação profissional que potenciem a melhoria de competências e qualificações relevantes para o processo de ingresso ou reingresso no mercado de trabalho;
+
+l) Promover o conhecimento e a divulgação dos desafios que se colocam no mercado de trabalho através de uma utilização dos recursos produtivos integrada no crescimento e desenvolvimento socioeconómico;
+
+m) Participar na coordenação das atividades de cooperação técnica desenvolvidas com organizações nacionais e internacionais e países estrangeiros nos domínios do trabalho, formação e reabilitação profissionais, sem prejuízo das competências próprias do Ministério dos Negócios Estrangeiros;
+
+n) Colaborar na conceção, elaboração, definição e avaliação da política de trabalho, de que é órgão executor;
+
+o) Realizar ações de acompanhamento, de verificação e de auditoria aos apoios, financeiros ou técnicos, concedidos no âmbito das medidas de emprego e de formação profissional de que seja executor;
+
+p) Assegurar melhores condições de empregabilidade através da promoção de respostas formativas de requalificação e reconversão de ativos ao encontro das necessidades do tecido produtivo;
+
+q) Acompanhar o ritmo da evolução tecnológica e digital, promovendo ativamente a formação profissional orientada para o desenvolvimento de competências verdes e digitais, de modo a viabilizar a reconversão dos trabalhadores;
+
+r) Implementar modelos de gestão eficazes e eficientes na aplicação dos fundos públicos, nacionais e europeus, ao serviço da política ativa de trabalho;
+
+s) Garantir a produção e disponibilização de dados, assegurando que sejam publicados sob licenças abertas, exceto nas situações em que existam limitações legais de acesso à informação, por forma a aumentar a transparência sobre os serviços prestados, facilitando a sua reutilização por outras organizações e pelos respetivos serviços;
+
+t) Planear, gerir, acompanhar e avaliar os centros de gestão direta e participada que integram o Sistema Nacional de Qualificações (SNQ);
+
+u) Gerir, acompanhar, monitorizar e avaliar a rede de Centros Qualifica (CQ) promovidos por centros de gestão direta e participada bem como por outras entidades;
+
+v) Promover a formação no âmbito do voluntariado;
+
+w) Validar, gerir, acompanhar e executar os programas e projetos de promoção do empreendedorismo social, do microcrédito e outros projetos de apoio ao desenvolvimento da economia social, incluindo o Programa de Apoio ao Desenvolvimento da Economia Social (PADES), aprovado pela Resolução do Conselho de Ministros n.º 16/2010, de 4 de março;
+
+x) Assegurar o financiamento e a gestão financeira do Fundo de Microcrédito.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 4.º — Órgãos
+
+São órgãos do IEFP, I. P.:
+
+a) O conselho de administração;
+
+b) O conselho diretivo;
+
+c) O fiscal único;
+
+d) Os conselhos consultivos regionais.
+
+###### Artigo 5.º — Conselho de administração
+
+1 - O conselho de administração tem composição tripartida e é composto por:
+
+a) Oito representantes da Administração Pública;
+
+b) Quatro representantes das confederações sindicais pertencentes à Comissão Permanente de Concertação Social;
+
+c) Quatro representantes das confederações patronais pertencentes à Comissão Permanente de Concertação Social.
+
+2 - A representação referida na alínea a) do número anterior é composta:
+
+a) Pelos membros do conselho diretivo, cabendo ao presidente do conselho diretivo presidir;
+
+b) Por um representante do membro do Governo responsável pela área das finanças e da Administração Pública;
+
+c) Por um representante do membro do Governo responsável pela área da economia;
+
+d) Por um representante do membro do Governo responsável pela área da educação, ciência e inovação;
+
+e) Por um representante do membro do Governo responsável pela área do trabalho, solidariedade e da segurança social.
+
+3 - Os membros do conselho de administração referidos nas alíneas b) e c) do n.º 1 são indicados pelas respetivas confederações com assento efetivo na Comissão Permanente de Concertação Social.
+
+4 - Os membros do conselho de administração, com exceção dos referidos na alínea a) do n.º 2, são designados por despacho dos membros do Governo responsáveis pelas áreas da economia e do trabalho, solidariedade e da segurança social.
+
+5 - Compete ao conselho de administração:
+
+a) Aprovar os planos plurianuais de atividade, tendo em conta a política nacional de emprego e os programas de desenvolvimento regional e sectorial;
+
+b) Aprovar o plano anual de atividades e o orçamento relativos ao ano seguinte;
+
+c) Aprovar o relatório e as contas anuais;
+
+d) Pronunciar-se sobre a definição da estrutura dos serviços, os projetos da sua organização e funcionamento, bem como propor a nomeação dos membros dos conselhos consultivos regionais;
+
+e) Acompanhar a atividade do IEFP, I. P., podendo formular as propostas, as sugestões ou as recomendações que entenda convenientes, e pedir esclarecimentos ao conselho diretivo e ao fiscal único.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 6.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente, por um vice-presidente e por dois vogais.
+
+2 - Sem prejuízo das competências conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao conselho diretivo dirigir e orientar a ação dos órgãos e serviços do IEFP, I. P.
+
+3 - O conselho diretivo pode delegar, com faculdade de subdelegação, em um ou mais dos seus membros e nos dirigentes dos seus serviços, as competências que lhe estejam atribuídas, devendo fixar expressamente os respetivos limites, à exceção, designadamente, da competência prevista na alínea m) do n.º 1 do artigo 7.º da Lei n.º 2/2004, de 15 de junho, na sua redação atual.
+
+4 - O conselho diretivo é designado nos termos do n.º 4 do artigo 19.º da Lei n.º 3/2004, de 15 de janeiro, ouvida a Comissão Permanente de Concertação Social.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 7.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na lei quadro dos institutos públicos.
+
+###### Artigo 8.º — Conselhos consultivos regionais
+
+1 - Os conselhos consultivos regionais são órgãos de consulta em matéria de trabalho e formação, que funcionam junto de cada uma das áreas territoriais definidas no n.º 3 do artigo 2.º
+
+2 - Os conselhos consultivos regionais são compostos por:
+
+a) Delegado regional, que preside;
+
+b) Um representante da comissão de coordenação e desenvolvimento regional respetiva;
+
+c) Um representante de cada comunidade intermunicipal da região;
+
+d) Um representante do Instituto de Educação, Qualidade e Avaliação, I. P.;
+
+e) Um representante de cada confederação sindical pertencente à CPCS;
+
+f) Um representante de cada confederação patronal pertencente à CPCS.
+
+3 - Os membros dos conselhos consultivos regionais são designados por despacho do membro do Governo, mediante proposta do conselho diretivo, após indicação das respetivas entidades, assegurando-se a especificidade de cada região, salvaguardada a expressão equitativa das representações dos grupos sociais previstos nas alíneas b) a f) do número anterior.
+
+4 - Compete ao conselho consultivo regional:
+
+a) Apreciar e emitir parecer sobre o plano anual e plurianual de atividades da delegação regional;
+
+b) Apreciar e emitir parecer sobre orçamentos, relatórios e contas regionais;
+
+c) Acompanhar a atividade da delegação regional, emitindo parecer sobre a estrutura dos seus serviços e podendo formular propostas, sugestões ou recomendações, bem como pedidos de esclarecimento ao delegado regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 9.º — Organização interna
+
+A organização interna do IEFP, I. P., é a prevista nos respetivos Estatutos.
+
+###### Artigo 10.º — Estatuto dos membros do conselho diretivo
+
+Os membros do conselho diretivo são equiparados, para efeitos remuneratórios, a gestores públicos de empresa de grupo B.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 11.º — Receitas
+
+1 - O IEFP, I. P., dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado e no Orçamento da Segurança Social destinadas à política de emprego e formação profissional.
+
+2 - O IEFP, I. P., dispõe ainda das seguintes receitas próprias:
+
+a) Comparticipações e subsídios provenientes de candidaturas aos fundos comunitários;
+
+b) Rendimentos de aplicações financeiras de acordo com o princípio da unidade de tesouraria;
+
+c) Rendimentos provenientes da prestação de serviços, venda de bens e de publicações, no âmbito das suas atribuições;
+
+d) Subsídios, doações, heranças e legados;
+
+e) O produto da alienação ou cedência, a qualquer título, de bens e direitos do seu património, nos termos da lei;
+
+f) Quaisquer outras receitas que lhe sejam atribuídas por lei, contrato ou outro título.
+
+3 - As receitas próprias referidas no número anterior são consignadas à realização de despesas do IEFP, I. P., durante a execução do orçamento do ano a que respeitam, podendo os saldos não utilizados transitar para o ano seguinte, nos termos do decreto-lei de execução orçamental anual.
+
+###### Artigo 12.º — Despesas
+
+Constituem despesas do IEFP, I. P., as que resultem de encargos decorrentes da prossecução das respetivas atribuições.
+
+###### Artigo 13.º — Património
+
+O património do IEFP, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+###### Artigo 14.º — Cargos dirigentes intermédios
+
+1 - São cargos de direção intermédia de 1.º grau do IEFP, I. P., os delegados regionais, os subdelegados regionais, os diretores de departamento, os diretores de unidade, os diretores de centro e os subdiretores de centro.
+
+2 - São cargos de direção intermédia de 2.º grau do IEFP, I. P., os coordenadores de núcleo.
+
+3 - A remuneração base dos cargos de direção intermédia de 1.º e 2.º graus é determinada em percentagem da remuneração base do vogal do conselho diretivo, nas seguintes proporções:
+
+a) Delegado regional - 86 %;
+
+b) Subdelegado regional - 83 %;
+
+c) Diretor de departamento - 83 %;
+
+d) Diretor de unidade - 61 %;
+
+e) Diretor de centro - 61 %;
+
+f) Subdiretor de centro - 58 %;
+
+g) Coordenador de núcleo - 47 %;
+
+h) [Revogada.]
+
+i) [Revogada.]
+
+j) [Revogada.]
+
+k) [Revogada.]
+
+4 - As despesas de representação dos cargos de direção intermédia do IEFP, I. P., são determinadas em percentagem das despesas de representação do vogal do conselho diretivo, nos termos do número anterior.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 150/2026 - Diário da República n.º 144/2026, Série I de 2026-07-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/150-2026-1152696596), em vigor a partir de 2026-07-29.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 15.º — Designação de cargos de dirigentes intermédios
+
+1 - Aos delegados regionais e aos subdelegados regionais aplica-se o procedimento concursal previsto para os cargos de direção superior, nos termos do Estatuto do Pessoal Dirigente.
+
+2 - As competências cometidas ao membro do Governo no âmbito do procedimento concursal referido no número anterior podem ser delegadas no conselho diretivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 16.º — Norma transitória
+
+Durante a vigência do Programa de Assistência Económica e Financeira, da aplicação das regras de fixação de remuneração estabelecidas pelo presente diploma não pode resultar um aumento da remuneração efetivamente paga aos cargos de direção intermédia, designados ou a designar, tendo por referência a remuneração atribuída à data de entrada em vigor do presente decreto-lei, sem prejuízo do eventual exercício da opção pelo vencimento do lugar de origem nas novas designações.
+
+> Revogado pelo/a Artigo 11.º do/a [Decreto-Lei n.º 42/2026 - Diário da República n.º 32/2026, Série I de 2026-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42-2026-1051282280), em vigor a partir de 2026-02-21
+
+###### Artigo 17.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 213/2007, de 29 de maio, com as alterações introduzidas pelo Decreto-Lei n.º 157/2009, de 10 de julho.
+
+###### Artigo 18.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 10 de maio de 2012. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar - Álvaro Santos Pereira - Nuno Paulo de Sousa Arrobas Crato - Luís Pedro Russo da Mota Soares.
+
+Promulgado em 2 de julho de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 5 de julho de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.

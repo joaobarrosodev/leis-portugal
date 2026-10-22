@@ -1,0 +1,170 @@
+---
+schema_version: '1.0'
+id: pt:dre:575136:por
+title: Decreto-Lei n.º 191/90
+short_title: null
+summary: Dá nova redacção aos artigos 11.º 18.º e 35.º do Decreto-Lei n.º 184/88, de 25 de Maio, o qual aprova a orgânica
+  da Inspecção-Geral de Jogos
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 191/90
+official_date: null
+publication_date: '1990-06-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 132/1990, Série I de 1990-06-08
+  number: '132'
+  series: I
+  supplement: null
+  pages: 2501 - 2502
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/06/13200/25012502.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '575136'
+  dre_path: /dr/detalhe/decreto-lei/191-1990-575136
+  internal: pt:dre:575136:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1990-575136
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/191-1990-575136
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: 65f8c63d19ff429e722108ff939f2395f46e10af8d31129a03e9843f0ed424d4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-191-575136.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 191/90
+
+de 8 de Junho
+
+Os encargos com a Inspecção-Geral de Jogos são suportadas integralmente pelas empresas concessionárias das zonas de jogo e pelas receitas provenientes da exploração do jogo do bingo fora dos casinos, destinadas às despesas de fiscalização da mesma modalidade de jogo, conforme estabelece o n.º 1 do artigo 35.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591), de 25 de Maio.
+
+No que concerne à comparticipação das empresas concessionárias das zonas de jogo, indica o n.º 3 do mesmo preceito legal os valores numéricos em função dos quais se estabelece a proporção da quota-parte de cada uma das mesmas concessionárias.
+
+O regime estatuído para as actuais concessões das zonas nas de jogo de Espinho, Estoril e Póvoa de Varzim, que fixou em 50% das receitas brutas dos jogos a contrapartida anual devida pelas correspondentes concessionárias, obrigou a um substancial aumento do número de inspectores em serviço nos respectivos casinos, pelo que se torna indispensável rever em conformidade os valores numéricos estabelecidos no citado preceito legal, por forma a aumentar as comparticipações a satisfazer pelas referidas concessionárias.
+
+Aproveita-se a oportunidade para uniformizar o valor numérico relativo às três concessionárias que ainda não iniciaram a exploração do jogo - Porto Santo, Tróia e Vidago-Pedras Salgadas.
+
+Com vista a conseguir-se maior desburocratização e funcionalidade das equipas de inspecção que actuam junto dos casinos e das salas de jogo do bingo, institui-se a dependência hierárquica dos seus membros do funcionário de mais elevada categoria que for designado por despacho do inspector-geral de Jogos.
+
+Finalmente, e tendo em conta as competências atribuídas às comissões de coordenação regional, substitui-se na Comissão para Apreciação de Projectos de Obras (CAPO), que funciona junto da Inspecção-Geral de Jogos, a representação da Direcção-Geral do Ordenamento do Território pela da comissão de coordenação regional competente.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º Os artigos 11.º, 18.º e 35.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591), de 25 de Maio, passam a ter a seguinte redacção:
+
+###### Artigo 11.º — Comissão para Apreciação de Projectos de Obras
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Comissão de coordenação regional competente em função do território;
+
+d) ...
+
+e) ...
+
+2 - ...
+
+###### Artigo 18.º — Afectação do pessoal e distribuição de tarefas
+
+1 - A distribuição de tarefas e a afectação do pessoal pelos diversos serviços são feitas por despacho do inspector-geral.
+
+2 - O pessoal técnico superior, quando integrado em equipas de inspecção, actua sob a dependência hierárquica do funcionário designado por despacho do inspector-geral de entre os de mais elevada categoria.
+
+###### Artigo 35.º — Compensação o dos encargos com a IGJ
+
+1 - ...
+
+2 - ...
+
+3 - A comparticipação de cada concessionária de zona de jogo no montante achado em conformidade com o número anterior é paga na proporção dos seguintes valores numéricos, por cada casino:
+
+a) Zona de jogo do Estoril - 9;
+
+b) Zonas de jogo de Espinho e da Póvoa de Varzim - 4;
+
+c) Zona de jogo da Figueira da Foz - 1,8;
+
+d) Zonas de jogo do Algarve, Funchal, Porto Santo, Tróia e Vidago-Pedras Salgadas - 0,6.
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+###### Art. 2.º As alterações decorrentes da nova redacção dada ao n.º 3 do artigo 35.º do [Decreto-Lei n.º 184/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/184-1988-374591) produzem efeitos a contar de 1 de Janeiro de 1990.
+
+Visto e aprovado em Conselho de Ministros de 19 de Abril de 1990. - Aníbal António Cavaco Silva - Luís Miguel Couceiro Pizarro Beleza - Luís Francisco Valente de Oliveira - Manuel Pereira - Roberto Artur da Luz Carneiro - António José de Castro Bagão Félix - Joaquim Martins Ferreira do Amaral.
+
+**Promulgado em 24 de Maio de 1990.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 29 de Maio de 1990.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

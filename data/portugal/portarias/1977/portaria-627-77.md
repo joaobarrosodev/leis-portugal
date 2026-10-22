@@ -1,0 +1,92 @@
+---
+schema_version: '1.0'
+id: pt:dre:278676:por
+title: Portaria n.º 627/77
+short_title: null
+summary: Aprova os modelos de impressos a que se referem os artigos 7.º e 15.º do Decreto Regulamentar n.º 50/77, de 11 de
+  Agosto (Regulamento dos Concursos para Atribuição de Habitações Sociais)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Habitação, Urbanismo e Construção - Secretaria de Estado da Habitação e Urbanismo - Fundo de Fomento da Habitação
+proposing_entity: null
+official_number: 627/77
+official_date: null
+publication_date: '1977-09-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 227/1977, Série I de 1977-09-30
+  number: '227'
+  series: I
+  supplement: null
+  pages: 2405 - 2412
+  pdf_url: https://files.diariodarepublica.pt/1s/1977/09/22700/24052412.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '278676'
+  dre_path: /dr/detalhe/portaria/627-1977-278676
+  internal: pt:dre:278676:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/627-1977-278676
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/627-1977-278676
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1977-09-30T00:00:00Z'
+integrity:
+  source_sha256: 7da7523371b83fe767ecc9dea3cb9424bfb4b70a271864cf57101901c99d09b6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1977/DRE-1977-627-278676.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 627/77
+
+de 30 de Setembro
+
+Manda o Governo da República Portuguesa, pelo Ministro da Habitação, Urbanismo e Construção, aprovar os modelos de impressos a que se referem os artigos 7.º e 15.º do [Decreto Regulamentar n.º 50/77](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/50-1977-255250), de 11 de Agosto, para utilização pelos Serviços Municipais de Habitação, no exercício das atribuições que lhes estão cometidas pelo [Decreto-Lei n.º 797/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/797-1976-407338), de 6 de Novembro.
+
+Ministério da Habitação, Urbanismo e Construção, 12 de Agosto de 1977. - O Ministro da Habitação, Urbanismo e Construção, Eduardo Ribeiro Pereira.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1977/09/22700/24052412.pdf))](https://files.diariodarepublica.pt/1s/1977/09/22700/24052412.pdf)

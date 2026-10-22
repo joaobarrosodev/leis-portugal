@@ -1,0 +1,110 @@
+---
+schema_version: '1.0'
+id: pt:dre:152677:por
+title: Decreto-Lei n.º 158/85
+short_title: null
+summary: Revoga a alínea d) do artigo 20.º do Decreto-Lei n.º 42793, de 31 de Dezembro de 1959 (cria os Serviços Sociais da
+  Guarda Nacional Republicana)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Administração Interna
+proposing_entity: null
+official_number: 158/85
+official_date: null
+publication_date: '1985-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 109/1985, Série I de 1985-05-13
+  number: '109'
+  series: I
+  supplement: null
+  pages: 1302 - 1302
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/05/10900/13021302.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '152677'
+  dre_path: /dr/detalhe/decreto-lei/158-1985-152677
+  internal: pt:dre:152677:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1985-152677
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1985-152677
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1985-05-13T00:00:00Z'
+integrity:
+  source_sha256: f762ee2a98ef7b2a0fbdc6e57f4428360b5a9d427705b0e1a1ab76a8e92a2d04
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-158-152677.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 158/85
+
+de 13 de Maio
+
+Considerando que, nos termos da alínea d) do artigo 20.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959, as importâncias que resultarem da aplicação de 5% a incidir sobre o preço das manufacturas do fabrico e conserto do calçado feito nas companhias e esquadrões da Guarda Nacional Republicana constituem receitas a administrar pelos Serviços Sociais da Guarda Nacional Republicana;
+
+Considerando que tais percentagens se têm revelado, ao longo de vários anos, tão diminutas que não compensam toda a burocracia que lhes está adstrita, torna-se necessária a revogação da alínea d) do artigo 20.º do referido [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048).
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Fica revogada a alínea d) do artigo 20.º do [Decreto-Lei n.º 42793](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42793-1959-437048), de 31 de Dezembro de 1959.
+
+###### Art. 2.º O presente diploma produz efeitos desde 1 de Janeiro de 1985.
+
+Visto e aprovado em Conselho de Ministros de 18 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - Eduardo Ribeiro Pereira.
+
+**Promulgado em 27 de Abril de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 30 de Abril de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

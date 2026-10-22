@@ -1,0 +1,245 @@
+---
+schema_version: '1.0'
+id: pt:dre:106955047:por
+title: Lei Orgânica n.º 1/2017
+short_title: null
+summary: Sexta alteração à Lei Orgânica n.º 1/2001, de 14 de agosto (lei que regula a eleição dos titulares dos órgãos das
+  autarquias locais)
+jurisdiction: portugal
+territory: null
+document_type: lei-organica
+document_type_label: Lei Orgânica
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 1/2017
+official_date: null
+publication_date: '2017-05-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 84/2017, Série I de 2017-05-02
+  number: '84'
+  series: I
+  supplement: null
+  pages: 2166 - 2167
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/05/08400/0216602167.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/leiorg/1/2017/05/02/p/dre/pt/html
+  oj: null
+  dre: '106955047'
+  dre_path: /dr/detalhe/lei-organica/1-2017-106955047
+  internal: pt:dre:106955047:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2017-106955047
+  metadata_url: https://data.dre.pt/eli/leiorg/1/2017/05/02/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-2017-106955047
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-06-04T00:00:00Z'
+integrity:
+  source_sha256: 264db17f2bea829517c417ffbe3ba912dc4ba4a50c6b57ed7417f3d485cf9fb9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2017/DRE-2017-1-106955047.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Financiamento
+- Campanha Eleitoral
+- Círculo Eleitoral
+- Comissão Nacional de Eleições
+- Igualdade de Tratamento
+- Eleição Autárquica
+- Eleito Local
+- Fiscalização
+- Lista
+- Sistema Eleitoral
+- Partido Político
+- Prestação de Contas
+- Autarquia Local
+relationships:
+- type: amended_by
+  target: pt:dre:164590039:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/72-a/2015/07/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/72-a/2015/07/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/1/2001/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2001/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/1/2011/11/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/3/2005/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/3/2005/08/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/3/2006/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/3/2006/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/3/2010/12/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/3/2010/12/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/leiorg/5-a/2001/11/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/leiorg/5-a/2001/11/26/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Lei Orgânica n.º 1/2017
+
+de 2 de maio
+
+Sexta alteração à [Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/524039/details/normal?l=1), de 14 de agosto
+
+(lei que regula a eleição dos titulares dos órgãos das autarquias locais)
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a lei orgânica seguinte:
+
+###### Artigo 1.º — Objeto
+
+A presente lei simplifica e clarifica as condições de apresentação de candidaturas por grupos de cidadãos e alarga o âmbito de aplicação da Lei da Paridade, alterando a [Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/524039/details/normal?l=1), de 14 de agosto, que regula a eleição dos titulares dos órgãos das autarquias locais, e a [Lei Orgânica n.º 3/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540469/details/normal?l=1), de 21 de agosto (lei da paridade: estabelece que as listas para a Assembleia da República, para o Parlamento Europeu e para as autarquias locais são compostas de modo a assegurar a representação mínima de 33 % de cada um dos sexos).
+
+###### Artigo 2.º — Alteração à [Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/524039/details/normal?l=1), de 14 de agosto
+
+Os artigos 19.º, 21.º, 23.º, 26.º e 36.º da [Lei Orgânica n.º 1/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/524039/details/normal?l=1), de 14 de agosto, alterada pelas [Leis Orgânicas n.os 5-A/2001](https://diariodarepublica.pt/web/guest/pesquisa/-/search/285516/details/normal?l=1), de 26 de novembro, [3/2005](https://diariodarepublica.pt/web/guest/pesquisa/-/search/245298/details/normal?l=1), de 29 de agosto, [3/2010](https://diariodarepublica.pt/web/guest/pesquisa/-/search/306947/details/normal?l=1), de 15 de dezembro, e [1/2011](https://diariodarepublica.pt/web/guest/pesquisa/-/search/146220/details/normal?l=1), de 30 de novembro, e pela [Lei n.º 72-A/2015](https://diariodarepublica.pt/web/guest/pesquisa/-/search/69866640/details/normal?l=1), de 23 de julho, passam a ter a seguinte redação:
+
+«Artigo 19.º
+
+[...]
+
+1 - As listas de candidatos aos órgãos das autarquias locais são propostas por um número de cidadãos eleitores correspondente a 3 % dos eleitores inscritos no respetivo recenseamento eleitoral.
+
+2 - Os resultados da aplicação da fórmula do número anterior, contudo, são sempre corrigidos por forma a não resultar um número de cidadãos proponentes:
+
+a) Inferior a 50 ou superior a 2000, no caso de candidaturas a órgão da freguesia ou de município com menos de 1000 eleitores; ou
+
+b) Inferior a 250 ou superior a 4000, no caso de candidaturas a órgão dos restantes municípios.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+###### Artigo 21.º — [...]
+
+Na apresentação das listas de candidatos, os partidos políticos são representados pelos órgãos partidários estatutariamente competentes ou por delegados por eles designados, as coligações são representadas por delegados de cada um dos partidos coligados e os grupos de cidadãos são representados pelo primeiro proponente ou pelo mandatário da candidatura.
+
+###### Artigo 23.º — [...]
+
+1 - ...
+
+2 - Para efeitos do disposto no n.º 1, entendem-se por 'elementos de identificação' os seguintes: denominação, sigla e símbolo do partido ou coligação, denominação, sigla e símbolo do grupo de cidadãos e o nome completo, idade, filiação, profissão, naturalidade e residência, bem como o número, a data e o arquivo de identificação do bilhete de identidade dos candidatos e dos mandatários.
+
+3 - ...
+
+4 - A identificação do grupo de cidadãos eleitores deve cumprir os seguintes requisitos:
+
+a) A denominação não pode conter mais de seis palavras, nem basear-se exclusivamente em nome de pessoa singular ou integrar as denominações oficiais dos partidos políticos ou das coligações com existência legal, nem conter expressões diretamente relacionadas com qualquer religião, instituição nacional ou local;
+
+b) O símbolo não pode confundir-se ou ter relação gráfica ou fonética com símbolos institucionais, heráldica ou emblemas nacionais ou locais, com símbolos de partidos políticos ou coligações com existência legal ou de outros grupos de cidadãos eleitores, nem com imagens ou símbolos religiosos.
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+11 - ...
+
+12 - As candidaturas apresentadas por grupos de cidadãos eleitores que não apresentem símbolo, ou cujo símbolo seja julgado definitivamente inadmissível, utilizam em alternativa o numeral romano que lhes for atribuído no sorteio referido no n.º 1 do artigo 30.º
+
+13 - O juiz competente decide sobre a admissibilidade da denominação, sigla e símbolo dos grupos de cidadãos eleitores, aplicando-se o disposto no artigo 26.º
+
+###### Artigo 26.º — [...]
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - As listas de candidatos propostas por cidadãos eleitores podem ser alteradas, por substituição de candidato quando se verifique a morte, desistência ou inelegibilidade dos candidatos que delas constem, não podendo as alterações exceder um terço do número de candidatos efetivos.
+
+5 - As substituições efetuadas nos termos do número anterior não implicam a reapresentação de declaração de propositura.
+
+###### Artigo 36.º — [...]
+
+1 - ...
+
+2 - A desistência deve ser comunicada pelo partido ou coligação proponentes, ou por requerimento subscrito pela maioria dos candidatos ou dos proponentes, no caso de lista apresentada por grupo de cidadãos, ao juiz, o qual, por sua vez, a comunica ao presidente da câmara municipal.
+
+3 - ...»
+
+###### Artigo 3.º — Norma revogatória
+
+É revogado o n.º 4 do artigo 2.º da [Lei Orgânica n.º 3/2006](https://diariodarepublica.pt/web/guest/pesquisa/-/search/540469/details/normal?l=1), de 21 de agosto.
+
+###### Artigo 4.º — Entrada em vigor
+
+1 - A presente lei entra em vigor no dia seguinte ao da sua publicação, sem prejuízo do disposto no número seguinte.
+
+2 - O disposto no artigo 3.º entra em vigor a 1 de janeiro de 2018.
+
+Aprovada em 10 de março de 2017.
+
+**O Presidente da Assembleia da República, Eduardo Ferro Rodrigues.**
+
+**Promulgada em 14 de abril de 2017.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendada em 21 de abril de 2017.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

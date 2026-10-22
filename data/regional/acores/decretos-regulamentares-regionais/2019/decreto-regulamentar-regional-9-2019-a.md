@@ -1,0 +1,308 @@
+---
+schema_version: '1.0'
+id: pt:dre:125069181:por
+title: Decreto Regulamentar Regional n.º 9/2019/A
+short_title: null
+summary: Cria a Central de Serviços Partilhados da Ilha das Flores
+jurisdiction: regional
+territory: acores
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma dos Açores - Presidência do Governo
+proposing_entity: null
+official_number: 9/2019/A
+official_date: null
+publication_date: '2019-10-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 191/2019, Série I de 2019-10-04
+  number: '191'
+  series: I
+  supplement: null
+  pages: 35 - 40
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/10/19100/0003500040.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/9/2019/10/04/a/dre/pt/html
+  oj: null
+  dre: '125069181'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/9-2019-125069181
+  internal: pt:dre:125069181:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2019-125069181
+  metadata_url: https://data.dre.pt/eli/decregulreg/9/2019/10/04/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/9-2019-125069181
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-01-16T00:00:00Z'
+integrity:
+  source_sha256: d026c2b3bb6108b1da19dd9242f273686d824c72882a7151b2e1eea82ff17db7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2019/DRE-2019-9-125069181.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Coordenador
+- Criação de Serviços
+- Definição de Competências
+- Quadro Regional de ILHA
+- Gestão Orçamental
+- ILHA das Flores
+- Gestão de Material
+- Quadro de Pessoal
+- Administração Regional
+- Gestão de Recursos Humanos
+- Açores
+- Transferência de Competências
+- Central de Serviços Partilhados da Ilha das Flores
+relationships:
+- type: amended_by
+  target: pt:dre:206158536:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 12
+  section_count: 5
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 9/2019/A
+
+Cria a Central de Serviços Partilhados da Ilha das Flores
+
+O Programa do XII Governo Regional dos Açores reforça o desígnio de racionalização e eficiência da Administração Regional, através da conceção de um novo modelo de funcionamento dos serviços da Administração Pública Regional Autónoma que se adeque às especificidades e realidades da própria administração regional e das ilhas onde os serviços estão sediados.
+
+Uma das medidas identificadas é a «implementação de centrais de serviços partilhados tendo em conta as especificidades de cada ilha».
+
+Em consonância com este enquadramento programático, o presente diploma constitui-se como um veículo na operacionalização de um novo modelo de organização e gestão dos serviços, já que, atendendo a uma realidade geográfica específica, concentra competências transversais aos vários serviços aí existentes numa só estrutura funcional, abrindo espaço para que estes se concentrem verdadeiramente na sua missão.
+
+Neste sentido, procede-se à criação de uma Central de Serviços Partilhados na Ilha das Flores, de forma a permitir uma gestão centralizada e integrada, relativa aos recursos humanos dos vários serviços da administração regional localizados na ilha das Flores, bem como à organização e uniformização das compras públicas e à aquisição e manutenção de bens e serviços comuns aos serviços dotados de autonomia administrativa, localizados nessa ilha.
+
+A criação desta nova entidade possibilita o apetrechamento da administração regional, aí sediada, de recursos humanos com competências técnicas até agora difíceis de justificar e colmatar, dada a reduzida dimensão dos vários serviços existentes, e permite aproximar os processos de decisão, em matéria de gestão de recursos humanos e materiais, à realidade de ilha, isto sem prejuízo da necessária articulação que deve existir com os responsáveis dos diversos serviços existentes naquela ilha.
+
+Deste modo, nos termos do n.º 6 do artigo 231.º da Constituição da República Portuguesa e da alínea a) do n.º 1 do artigo 89.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o Governo Regional decreta o seguinte:
+
+### CAPÍTULO I — Objeto e natureza
+
+###### Artigo 1.º — Objeto
+
+O presente diploma cria a Central de Serviços Partilhados da Ilha das Flores.
+
+###### Artigo 2.º — Natureza
+
+1 - A Central de Serviços Partilhados da Ilha das Flores, doravante designada por Central de Serviços, é um serviço da administração regional direta, dotado de autonomia administrativa.
+
+2 - A Central de Serviços depende diretamente do membro do Governo Regional com competência em matéria de Administração Pública.
+
+3 - O apoio técnico e a avaliação do funcionamento da Central de Serviços, nos diferentes domínios de gestão, compete à direção regional com competência em matéria de organização e Administração Pública.
+
+### CAPÍTULO II — Competências e coordenação
+
+###### Artigo 3.º — Competências e coordenação
+
+1 - À Central de Serviços compete:
+
+a) Promover e assegurar a gestão centralizada e integrada dos recursos humanos dos vários serviços da administração regional localizados na ilha das Flores;
+
+b) Gerir, de forma centralizada e integrada, a aquisição e manutenção de bens e serviços para os serviços da administração regional dotados de autonomia administrativa localizados na ilha das Flores, integrando, igualmente, a gestão operacional e administrativa de todo o parque automóvel e maquinaria pesada.
+
+2 - Sem prejuízo do disposto no artigo seguinte, a Central de Serviços é dirigida por um coordenador, equiparado para todos os efeitos legais, a diretor de serviços, cargo de direção intermédia de 1.º grau.
+
+3 - O membro do Governo Regional com competência em matéria de Administração Pública pode delegar no coordenador da Central de Serviços competências para a prática de atos de gestão corrente, considerando-se como tal os que respeitem à gestão do pessoal, do equipamento, dos recursos orçamentais e de outros que constituam simples condição de exercício de competências.
+
+###### Artigo 4.º — Competências do coordenador
+
+1 - Compete ao coordenador:
+
+a) Assegurar o cumprimento das diretrizes orientadoras da gestão e funcionamento da Central de Serviços;
+
+b) Proceder à difusão dos objetivos da Central de Serviços e das formas de articulação com os diversos serviços da administração regional localizados na ilha das Flores, desenvolvendo formas de coordenação e comunicação com os mesmos;
+
+c) Transmitir aos serviços da administração regional localizados na ilha das Flores a política definida para a administração regional em matéria de pessoal;
+
+d) Propor, coordenar e apoiar medidas consideradas necessárias em matéria de formação dos recursos humanos dos serviços da administração regional localizados na ilha das Flores, em articulação com estes;
+
+e) Elaborar os planos anuais e plurianuais de atividades;
+
+f) Assegurar, controlar e avaliar a execução dos planos de atividades e a concretização dos objetivos propostos;
+
+g) Elaborar os relatórios de atividades com indicação dos resultados atingidos face aos objetivos definidos, bem como o balanço social;
+
+h) Elaborar o plano de gestão previsional dos recursos humanos;
+
+i) Elaborar os projetos de orçamento de funcionamento e de investimento, tendo em conta a recolha das necessidades dos serviços da administração regional identificados na alínea b) do n.º 1 do artigo 3.º, e os planos de atividades e programas da Central de Serviços aprovados;
+
+j) Executar o orçamento de acordo com uma rigorosa gestão dos recursos disponíveis, propondo as alterações orçamentais consideradas necessárias;
+
+k) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;
+
+l) Autorizar a realização de despesas públicas com obras e aquisição de bens e serviços, em função de necessidades próprias ou dos serviços a que alude a alínea b) do n.º 1 do artigo 3.º, dentro dos limites a que se encontre habilitado pelo membro do Governo Regional com competência em matéria de finanças, e praticar os atos subsequentes, nomeadamente celebrar os contratos de prestação de serviços e acompanhar a sua execução;
+
+m) Celebrar contratos de seguro e de arrendamento, em função de necessidades próprias ou dos serviços a que alude a alínea b) do n.º 1 do artigo 3.º, e autorizar a respetiva atualização, sempre que resulte de imposição legal, tendo em conta os limites a que se encontre habilitado pelo membro do Governo Regional com competência em matéria de finanças, bem como assegurar a instrução dos respetivos processos, em conformidade com as instruções da direção regional com competência em matéria de orçamento e tesouro;
+
+n) Praticar os atos necessários ao normal funcionamento da Central de Serviços no âmbito da gestão dos recursos humanos, financeiros materiais e patrimoniais, tendo em conta os limites previstos nos respetivos regimes legais, sem prejuízo dos poderes de direção, superintendência ou tutela do membro do Governo Regional com competência em matérias de finanças e de Administração Pública, designadamente:
+
+i) Autorizar a abertura de concursos e praticar todos os atos subsequentes, bem como autorizar situações de mobilidade;
+
+ii) Celebrar, renovar e rescindir contratos de pessoal;
+
+iii) Autorizar a prestação de trabalho suplementar e noturno;
+
+iv) Autorizar a atribuição dos abonos e regalias a que os trabalhadores em funções públicas tenham direito, nos termos da lei;
+
+v) Autorizar a inscrição e participação do pessoal em congressos, reuniões, seminários, colóquios, cursos de formação ou outras iniciativas semelhantes que decorram em território regional quando importem custos para o serviço, bem como a inscrição e participação em estágios;
+
+vi) Praticar todos os atos relativos à aposentação do pessoal, salvo no caso de aposentação compulsiva, e, em geral, todos os atos respeitantes ao regime de segurança social, incluindo os referentes a acidentes em serviço;
+
+vii) Autorizar deslocações em serviço dentro do território regional, qualquer que seja o meio de transporte, bem como o processamento dos correspondentes abonos ou despesas com a aquisição de bilhetes ou títulos de transporte e de ajudas de custo, antecipadas ou não;
+
+viii) Qualificar como acidente em serviço os sofridos pelo pessoal e autorizar o processamento das respetivas despesas;
+
+ix) Autorizar o processamento de despesas cujas faturas, por motivo justificado, deem entrada nos serviços para além do prazo regulamentar;
+
+x) Cumprir as obrigações legais definidas para o processo de avaliação dos trabalhadores em funções públicas;
+
+xi) Elaborar o diagnóstico de necessidades de formação do serviço e, com base neste, elaborar o plano de formação, bem como efetuar a avaliação dos efeitos da formação ministrada, ao nível da eficácia do serviço e do impacte do investimento efetuado;
+
+xii) Adotar os horários de trabalho mais adequados ao funcionamento do serviço, observados os condicionalismos legais, bem como estabelecer os instrumentos e práticas que garantam o controlo efetivo da assiduidade;
+
+xiii) Exercer a competência em matéria disciplinar, prevista na lei;
+
+xiv) Garantir a efetiva participação dos trabalhadores em funções públicas na preparação dos planos e relatórios de atividades e proceder à sua divulgação e publicitação;
+
+xv) Superintender na utilização racional das instalações afetas à Central de Serviços, bem como na sua manutenção, conservação e beneficiação;
+
+xvi) Velar pela existência de condições de saúde e segurança no trabalho, garantindo, designadamente, a avaliação e registo atualizado dos fatores de risco, planificação e orçamentação das ações conducentes ao seu efetivo controlo.
+
+o) Propor a adequação de disposições legais ou regulamentares desatualizadas e a racionalização e simplificação de procedimentos;
+
+p) Aprovar o regulamento interno da Central de Serviços;
+
+q) Representar o serviço ou órgão que dirige, assim como estabelecer as ligações externas, ao seu nível, com outros serviços e órgãos da Administração Pública;
+
+r) Celebrar protocolos de colaboração ou de apoio com outras instituições, públicas e privadas, no âmbito das atividades da Central de Serviços, que visem atingir os seus objetivos, mediante aprovação prévia do membro do Governo Regional com competência em matéria de Administração Pública;
+
+s) Propor ao membro do Governo Regional com competência em matéria de Administração Pública a prática dos atos de gestão da Central de Serviços para os quais não tenha competência própria ou delegada, assim como as medidas que considere mais aconselháveis em ordem ao aperfeiçoamento da gestão centralizada dos serviços da administração regional localizados na ilha das Flores, e à otimização dos recursos existentes;
+
+t) Executar as demais tarefas que lhe sejam superiormente determinadas.
+
+2 - Compete, em especial ao coordenador, no âmbito da gestão centralizada:
+
+a) Promover e assegurar a prestação de serviços partilhados e o exercício de funções comuns aos vários serviços da administração regional identificados na alínea b) do n.º 1 do artigo 3.º, designadamente:
+
+i) Assegurar os procedimentos administrativos com as deslocações em serviço do pessoal;
+
+ii) Assegurar a gestão de stocks de bens comuns;
+
+iii) Assegurar a gestão do parque automóvel e maquinaria pesada afetos aos serviços, bem como a sua reparação e manutenção;
+
+iv) Assegurar a gestão das infraestruturas de apoio ao desempenho de funções comuns e à prestação de serviços partilhados aos serviços;
+
+v) Proceder à análise regular dos equipamentos dos serviços;
+
+vi) Pronunciar-se sobre todas as operações relacionadas com bens móveis e imóveis afetos ou a afetar aos serviços, e executar as respetivas operações administrativas, designadamente organizar e manter atualizado o respetivo cadastro, em conformidade com as orientações da direção regional com competência em matéria de orçamento e tesouro.
+
+b) Pronunciar-se, em matéria de gestão de recursos humanos, sobre as propostas de atos a praticar pelos serviços da administração regional localizados na ilha das Flores, atinentes ao recrutamento de pessoal e mobilidade;
+
+c) Registar e atualizar os dados profissionais e pessoais do pessoal dos serviços a que alude a alínea a) do n.º 1 do artigo 3.º, necessários para a gestão dos recursos humanos, designadamente organizando e mantendo atualizado o cadastro do pessoal e procedendo mensalmente ao carregamento na plataforma informática do Sistema Integrado de Gestão de Recursos Humanos da Administração Regional dos Açores (SIGRHARA), das remunerações, abonos, horas extraordinárias, subsídios, ajudas de custo e quaisquer outros encargos relativos a pessoal.
+
+###### Artigo 5.º — Colaboração e articulação
+
+1 - A Central de Serviços presta e recebe colaboração dos serviços da administração regional localizados na ilha das Flores.
+
+2 - No âmbito da colaboração com a Central de Serviços, incumbe aos serviços da administração regional identificados nas alíneas a) e b) do n.º 1 do artigo 3.º, consoante os casos:
+
+a) Articular com a Central de Serviços a planificação das necessidades de recursos humanos, nos moldes e periodicidade que vierem a ser definidos por esta;
+
+b) Submeter a parecer prévio da Central de Serviços as propostas de atos a que alude a alínea b) do n.º 2 do artigo 4.º;
+
+c) Enviar informação de compras à Central de Serviços, nos moldes e na periodicidade que vierem a ser definidos por esta;
+
+d) Comunicar à Central de Serviços, com a devida antecedência, a necessidade de utilização de viatura;
+
+e) Zelar por todo o equipamento que lhe for afeto e proporcionar boas condições de utilização;
+
+f) Autorizar e efetuar a validação das faltas dos recursos humanos que lhe estão afetos, acedendo, via browser, ao SIGRHARA;
+
+3 - A Central de Serviços deve promover a articulação com a direção regional com competência em matéria de organização e Administração Pública, para efeitos de assegurar o exercício das competências a que se refere o artigo 3.º
+
+### CAPÍTULO III — Despesas e gestão orçamental
+
+###### Artigo 6.º — Despesas
+
+Constituem despesas da Central de Serviços os encargos com o seu funcionamento e com a prossecução das suas atribuições e competências.
+
+###### Artigo 7.º — Gestão orçamental
+
+A gestão orçamental da Central de Serviços está sujeita às regras definidas na legislação em vigor.
+
+### CAPÍTULO IV — Pessoal
+
+###### Artigo 8.º — Quadro de pessoal
+
+1 - O pessoal afeto à Central de Serviços consta do Quadro Regional da Ilha das Flores.
+
+2 - O lugar de coordenador é o constante do anexo ao presente diploma, do qual faz parte integrante.
+
+###### Artigo 9.º — Diferenciação do desempenho
+
+Para efeitos de diferenciação do desempenho em sede do sistema integrado de gestão e avaliação do desempenho da administração regional, os trabalhadores da Central de Serviços são considerados na Unidade de Medida a Contabilizar - Serviços diretamente dependentes do membro do Governo Regional com competência em matéria de Administração Pública.
+
+### CAPÍTULO V — Disposições finais e transitórias
+
+###### Artigo 10.º — Concretização dos serviços partilhados
+
+A identificação dos serviços partilhados e ou funções comuns a desenvolver pela Central de Serviços, através das competências constantes do artigo 4.º, depende de concretização mediante despacho do membro do Governo Regional com competência em matéria de Administração Pública.
+
+###### Artigo 11.º — Ciclo de despesa
+
+Cabe à direção regional com competência em matéria de organização e Administração Pública assegurar todos os processos de despesa e respetivos pagamentos efetuados e a efetuar pela Central de Serviços desde a data da sua criação e enquanto esta não tiver dirigente provido e não for dotada de orçamento.
+
+###### Artigo 12.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional, em Ponta Delgada, em 17 de setembro de 2019.
+
+**O Presidente do Governo Regional, Vasco Ilídio Alves Cordeiro.**
+
+**Assinado em Angra do Heroísmo em 27 de setembro de 2019.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.
+
+## ANEXO — Quadro de pessoal a que se refere o n.º 2 do artigo 8.º
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2019/10/19100/0003500040.pdf))](https://files.diariodarepublica.pt/1s/2019/10/19100/0003500040.pdf)

@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:230172:por
+title: Despacho Normativo n.º 10/98
+short_title: null
+summary: Determina que os centros de saúde assegurem o seu funcionamento normal entre as 8 e as 20 horas nos dias úteis, podendo
+  o horário de funcionamento ser alargado até vinte e quatro horas diárias, incluindo sábados, domingos e feriados, em função
+  do interesse público, das necessidades da população ou das características locais da área geográfica abrangida. Revoga o
+  artigo 12.º do Regulamento dos Centros de Saúde, aprovado pelo Despacho Normativo n.º 97/83, de 22 de Abril
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 10/98
+official_date: null
+publication_date: '1998-02-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/1998, Série I-B de 1998-02-05
+  number: '30'
+  series: I
+  supplement: null
+  pages: 478 - 479
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/02/030b00/04780479.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/10/1998/02/05/p/dre/pt/html
+  oj: null
+  dre: '230172'
+  dre_path: /dr/detalhe/despacho-normativo/10-1998-230172
+  internal: pt:dre:230172:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-1998-230172
+  metadata_url: https://data.dre.pt/eli/despnorm/10/1998/02/05/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/10-1998-230172
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1998-02-05T00:00:00Z'
+integrity:
+  source_sha256: c91ac34854e3118775fd55a28dc300722bb411d39c5e1db9b3b4b3d1df2cfebe
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1998/DRE-1998-10-230172.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Regional de Saúde
+- Horário de Funcionamento
+- Centro de Saúde
+- Horário de Trabalho
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/1993/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/335/1993/09/29/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 10/98
+
+O Decrecto-Lei n.º 335/93, de 29 de Setembro, veio atribuir às administrações regionais de saúde competências para coordenar, orientar e avaliar a execução da política de saúde de acordo com as orientações globais e sectoriais do Governo neste domínio.
+
+Concretamente quanto aos centros de saúde, o referido decreto-lei cometeu expressamente às administrações regionais de saúde a responsabilidade de, através dos serviços de âmbito sub-regional, assegurar a respectiva gestão, em conformidade, aliás, com o artigo 6.º do [Decreto-Lei n.º 11/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-1993-586006), de 15 de Janeiro - diploma que aprovou o Estatuto do Serviço Nacional de Saúde -, nos termos do qual os centros de saúde dependem orgânica e funcionalmente das administrações regionais de saúde.
+
+Ora, anteriormente à vigência do [Decreto-Lei n.º 335/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1993-651705), de 29 de Setembro, haviam sido criados ou modificados, por despacho ministerial, múltiplos serviços para atendimento de urgências em cuidados de saúde primários, com designações e índoles diversas, fixando-se-lhes, centralmente, regras e horários de funcionamento, de acordo com o estabelecido no Regulamento dos Centros de Saúde, aprovado pelo [Despacho Normativo n.º 97/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/97-1983-311838), publicado no Diário da República, 1.ª série, de 22 de Abril de 1983.
+
+Reconhecendo a premência de actualização dos princípios por que devem pautar-se a organização e funcionamento dos centros de saúde no âmbito da prestação de cuidados, e especificamente no que respeita ao respectivo período de funcionamento, importa obstar a interpretações limitativas das atribuições, funções e responsabilidades das administrações regionais de saúde que os referidos despachos ministeriais podem originar.
+
+Assim, considerando o disposto nos n.os 2 e 3 do artigo 9.º e no n.º 1 do artigo 10.º do [Decreto-Lei n.º 187/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-1988-374243), de 27 de Maio, determino o seguinte:
+
+1 - Os centros de saúde asseguram o seu funcionamento normal entre as 8 e as 20 horas nos dias úteis, podendo o horário de funcionamento ser alargado até vinte e quatro horas diárias, incluindo aos sábados, domingos e feriados, em função do interesse público, das necessidades da população ou das características locais da área geográfica abrangida.
+
+2 - O horário de funcionamento dos centros de saúde, incluindo o das respectivas extensões, no caso de existirem, deve ser devidamente publicitado, designadamente através de afixação no exterior e no interior das instalações.
+
+3 - Nos termos da alínea d) do n.º 2 do artigo 6.º do [Decreto-Lei n.º 335/93](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1993-651705), de 29 de Setembro, e do n.º 12 do mapa II anexo ao [Decreto-Lei n.º 323/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/323-1989-548210), de 26 de Setembro, compete aos conselhos de administração das administrações regionais de saúde adoptar, em cada serviço, as modalidades de horário de trabalho legalmente previstas, de acordo com as regras estabelecidas nos despachos n.os 17/90 e 18/90, publicados no Diário da República, 2.ª série, respectivamente de 22 de Agosto de 1990 e de 21 de Agosto de 1990.
+
+4 - Compete às administrações regionais de saúde promover modelos de organização e funcionamento dos centros de saúde, por forma a optimizar os recursos disponíveis e fomentar uma maior acessibilidade do cidadão aos cuidados de saúde.
+
+5 - Qualquer inovação organizativa deve ser sempre acompanhada da monitorização dos seus efeitos e ser prontamente reajustada caso se manifeste desadequada em relação à melhoria da resposta pretendida.
+
+6 - Os SAP, CATUS, SADUS, SASUS e demais serviços de natureza idêntica, criados por despachos ministeriais, ficam subordinados às decisões que os conselhos de administração das administrações regionais de saúde venham a tomar sobre a melhor forma de reorganizar este tipo de serviços, em função da maximização da melhoria do estado de saúde dos cidadãos e de acordo com o estabelecido no presente despacho.
+
+7 - É revogado o artigo 12.º do Regulamento dos Centros de Saúde, aprovado pelo [Despacho Normativo n.º 97/83](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/97-1983-311838), publicado no Diário da República, 1.ª série, de 22 de Abril de 1983.
+
+8 - O presente despacho produz efeitos desde a data da sua assinatura.
+
+Ministério da Saúde, 23 de Dezembro de 1997. - A Ministra da Saúde, Maria de Belém Roseira Martins Coelho Henriques de Pina.

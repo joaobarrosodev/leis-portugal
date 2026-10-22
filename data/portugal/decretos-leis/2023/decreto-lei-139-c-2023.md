@@ -1,0 +1,252 @@
+---
+schema_version: '1.0'
+id: pt:dre:835994079:por
+title: Decreto-Lei n.º 139-C/2023
+short_title: null
+summary: Regula a atribuição do suplemento de regime especial de prestação de trabalho na Polícia Judiciária
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Justiça
+official_number: 139-C/2023
+official_date: null
+publication_date: '2023-12-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 250/2023, 4º Suplemento, Série I de 2023-12-29
+  number: '250'
+  series: I
+  supplement: 4º Suplemento
+  pages: 342-(18) a 342-(22)
+  pdf_url: https://files.diariodarepublica.pt/1s/2023/12/25004/0001800022.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/139-c/2023/12/29/p/dre/pt/html
+  oj: null
+  dre: '835994079'
+  dre_path: /dr/detalhe/decreto-lei/139-c-2023-835994079
+  internal: pt:dre:835994079:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-c-2023-835994079
+  metadata_url: https://data.dre.pt/eli/dec-lei/139-c/2023/12/29/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/139-c-2023-835994079
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-12-29T00:00:00Z'
+integrity:
+  source_sha256: bfdad0d7da6b1537cec675e32cf3084ba0e6c05ad280361af9e3ee82a18b435f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2023/DRE-2023-139-C-835994079.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Sistema Retributivo
+- Carreira Profissional
+- Remuneração Acessória
+- Polícia Judiciária
+- Remuneração
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/137/2019/09/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2019/09/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/138/2019/09/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/138/2019/09/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/84-f/2022/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/84-f/2022/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+article_structure:
+  article_count: 11
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 139-C/2023
+
+de 29 de dezembro
+
+O [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, que estabelece o estatuto profissional do pessoal da Polícia Judiciária (PJ), bem como o regime das carreiras especiais de investigação criminal e de apoio à investigação criminal, prevê, no n.º 2 do seu artigo 75.º que, com fundamento no regime especial de prestação de trabalho, nos ónus inerentes ao exercício das funções, bem como ao risco, insalubridade e penosidade que lhes estão associados e que se prolongam no tempo muito para além do exercício das funções, os trabalhadores das carreiras especiais têm direito a um suplemento remuneratório a fixar em diploma próprio.
+
+Entre os elementos que exercem funções de coadjuvação aos trabalhadores da carreira de investigação criminal cumpre destacar e distinguir, de entre os especialistas de polícia científica, os que têm funções de inspeção e identificação judiciária, por serem estes, a par dos elementos da carreira de investigação criminal - e em razão de fazerem parte do núcleo essencial da missão da PJ - os que no exercício das suas funções assumem maior ónus, nomeadamente ao nível do risco, insalubridade e penosidade que lhes estão associados.
+
+Por outro lado, os trabalhadores da PJ integrados nas carreiras subsistentes estão também sujeitos aos especiais ónus e condições de atividade que justificam a perceção do suplemento a que se refere o n.º 2 do artigo 75.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro.
+
+Estas circunstâncias determinam, nos termos do artigo 159.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, a atribuição de suplemento remuneratório devido pelo exercício de funções em postos de trabalho que apresentam condições mais exigentes relativamente a outros postos de trabalho caracterizados por idêntico cargo ou por idênticas carreiras e categorias.
+
+Por sua vez o [Decreto-Lei n.º 137/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), de 13 de setembro, que aprova a nova estrutura organizacional da PJ, no seu artigo 58.º, atribui ao pessoal dirigente, no exercício das suas funções e em razão do especial desgaste físico e psicológico, risco e disponibilidade permanente, um suplemento de risco correspondente a 20 % da remuneração base mensal do respetivo cargo.
+
+Considerando, assim, que a lei reconhece que os trabalhadores das carreiras especiais e subsistentes da PJ, assim como os seus dirigentes, por razões inerentes ao cumprimento da sua missão, exercem a sua atividade em condições que devem ser adequadamente compensadas, procede-se à regulamentação dos requisitos e condições de atribuição dos respetivos suplementos e fixação dos seus montantes.
+
+A atribuição dos suplementos resulta do seu regime especial de trabalho e dos ónus inerentes ao exercício de funções em condições de risco, insalubridade e penosidade, sendo remunerado em conjunto com a respetiva remuneração base mensal e enquanto se mantiverem os ónus e deveres estatutários. Estes suplementos substituem os suplementos de risco atualmente auferidos pelos dirigentes e também pelos trabalhadores integrados nas carreiras especiais e subsistentes.
+
+Foram observados os procedimentos de negociação coletiva decorrentes da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 75.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, e no artigo 159.º da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+### CAPÍTULO I — Disposições gerais
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei define o regime de atribuição do suplemento decorrente do regime especial de prestação de trabalho das carreiras especiais e carreiras subsistentes da Polícia Judiciária (PJ) e dos ónus inerentes ao cumprimento da sua missão, em especial o risco, a insalubridade e a penosidade que lhes estão associados, doravante «suplemento de missão de polícia judiciária».
+
+2 - O presente decreto-lei procede ainda à:
+
+a) Quinta alteração ao [Decreto-Lei n.º 137/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), de 13 de setembro, na sua redação atual, que aprova a nova estrutura organizacional da Polícia Judiciária;
+
+b) Segunda alteração ao [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, alterado pelo [Decreto-Lei n.º 84-F/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-f-2022-204916688), de 16 de dezembro, que estabelece o estatuto profissional do pessoal da Polícia Judiciária, bem como o regime das carreiras especiais de investigação criminal e de apoio à investigação criminal.
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O suplemento de missão de polícia judiciária é abonado aos trabalhadores integrados nas carreiras especiais e carreiras subsistentes da PJ.
+
+### CAPÍTULO II — Suplemento de missão de polícia judiciária
+
+###### Artigo 3.º — Condições de atribuição e graduação do suplemento
+
+1 - O suplemento de missão de polícia judiciária é atribuído aos trabalhadores das carreiras especiais e das carreiras subsistentes da PJ enquanto perdurem as condições específicas de trabalho que determinam a sua atribuição ou quando aqueles trabalhadores permaneçam sujeitos aos especiais ónus e deveres estatutários, incluindo nas situações previstas nos n.os 3 e 4 do artigo 83.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, na sua redação atual.
+
+2 - Para efeitos de graduação do suplemento de missão de polícia judiciária, são consideradas as seguintes condições específicas associadas ao desempenho de funções nas carreiras especiais e nas carreiras subsistentes da PJ:
+
+a) O risco inerente à natureza das funções e em resultado de ações ou fatores externos, que aumentam a probabilidade de ocorrência de lesão física, psíquica ou patrimonial;
+
+b) A insalubridade decorrente das circunstâncias ambientais ou dos meios frequentados no exercício da atividade, potencialmente nocivos ou suscetíveis de degradar o estado de saúde física ou psicológica;
+
+c) A penosidade decorrente das funções ou de fatores ambientais que provocam uma sobrecarga ou desgaste físico ou psíquico;
+
+d) O manuseamento, transporte e armazenamento de substâncias tóxicas ou perigosas, engenhos e armamento;
+
+e) A sujeição até à aposentação ou reforma a um código deontológico próprio e estatuto disciplinar especial, um regime de exclusividade mais exigente, o uso e porte de arma e os deveres profissionais especiais e o dever de adoção de providências urgentes.
+
+3 - O suplemento de missão de polícia judiciária é abonado em 14 meses, sendo o seu quantitativo mensal calculado em função da frequência, duração e intensidade dos ónus e condições específicas inerentes ao exercício das respetivas funções, graduando-se nos termos do artigo seguinte.
+
+4 - O suplemento de missão de polícia judiciária é atualizado anualmente, em função da atualização da remuneração base que lhe serve de referência, e não é acumulável com outros suplementos remuneratórios que visem compensar idênticos ónus ou condições, dentro ou fora da estrutura orgânica da PJ, sem prejuízo de o trabalhador poder optar, a todo o tempo, pelo suplemento de missão de polícia judiciária devido na situação jurídico funcional de origem.
+
+5 - A não acumulação prevista no número anterior abrange o suplemento a que se refere o artigo 58.º do [Decreto-Lei n.º 137/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), de 13 de setembro, na redação conferida pelo presente decreto-lei.
+
+###### Artigo 4.º — Valor mensal do suplemento
+
+O valor mensal do suplemento é determinado por referência à remuneração base mensal estabelecida para o cargo de diretor nacional da PJ, sendo graduado e calculado por aplicação das seguintes percentagens atendendo aos ónus e condições específicas associados às respetivas carreiras e funções:
+
+a) Trabalhadores da carreira especial de investigação criminal, 15 %;
+
+b) Trabalhadores da carreira especial de especialista de polícia científica, com funções de inspeção e identificação judiciária, 13 %;
+
+c) Demais trabalhadores da carreira especial de especialista de polícia científica, 12 %;
+
+d) Trabalhadores da carreira especial de segurança, 10 %;
+
+e) Trabalhadores das carreiras subsistentes, 5 %.
+
+### CAPÍTULO III — Alterações legislativas
+
+###### Artigo 5.º — Alteração ao [Decreto-Lei n.º 137/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), de 13 de setembro
+
+O artigo 58.º do [Decreto-Lei n.º 137/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2019-124680594), de 13 de setembro, na sua redação atual, passa a ter a seguinte redação:
+
+«Artigo 58.º
+
+Suplemento remuneratório do pessoal dirigente
+
+1 - O pessoal dirigente, no exercício das suas funções e em razão do especial desgaste físico e psicológico, risco e disponibilidade permanente, tem direito a um suplemento remuneratório indexado à remuneração base mensal do cargo de diretor nacional da PJ, nos montantes correspondentes às seguintes percentagens:
+
+a) Direção superior de 1.º grau, 30 %;
+
+b) Direção superior de 2.º grau, 23 %;
+
+c) Direção intermédia de 1.º grau, 21 %;
+
+d) Direção intermédia de 2.º grau, 19 %.
+
+2 - O montante do suplemento referido no número anterior é abonado em 14 meses e é atualizado anualmente, em função da atualização da remuneração base que lhe serve de referência.»
+
+###### Artigo 6.º — Alteração ao [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro
+
+O artigo 97.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, passa a ter a seguinte redação:
+
+«Artigo 97.º
+
+[...]
+
+1 - [...]
+
+2 - Aos trabalhadores das carreiras subsistentes é aplicável, com as devidas adaptações, o disposto no artigo 6.º, no n.º 2 do artigo 12.º, nos artigos 17.º, 21.º e 25.º, no n.º 2 do artigo 26.º, nos artigos 28.º, 57.º a 59.º, 63.º, 66.º, 73.º e 75.º, no n.º 7 do artigo 81.º e na alínea b) do n.º 1 do artigo 87.º»
+
+### CAPÍTULO IV — Disposições transitórias e finais
+
+###### Artigo 7.º — Norma interpretativa
+
+Para efeitos do disposto nos n.os 3 e 4 do artigo 98.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, o nível remuneratório a considerar para cálculo do suplemento de risco a que se referem os n.os 3 e 4 do artigo 99.º do [Decreto-Lei n.º 295-A/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/295-a-1990-553435), de 21 de setembro, na sua redação atual, é aquele que corresponde à segunda posição remuneratória da categoria de inspetor da carreira especial de investigação criminal.
+
+###### Artigo 8.º — Norma revogatória
+
+São revogados:
+
+a) Os n.os 3 e 4 do artigo 98.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, a partir da data de produção de efeitos do presente decreto-lei;
+
+b) O n.º 5 do artigo 98.º do [Decreto-Lei n.º 138/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/138-2019-124680595), de 13 de setembro, no que se refere ao suplemento de risco das carreiras subsistentes, a partir da data de produção de efeitos do presente decreto-lei.
+
+###### Artigo 9.º — Salvaguarda de direitos
+
+Da aplicação do presente decreto-lei não pode resultar a atribuição de um valor mensal de suplemento de missão inferior ao valor mensal atualmente auferido pelos trabalhadores da PJ no que se refere ao suplemento de risco.
+
+###### Artigo 10.º — Produção de efeitos
+
+O presente decreto-lei produz efeitos a 1 de janeiro de 2023.
+
+###### Artigo 11.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 29 de novembro de 2023. - António Luís Santos da Costa - Mariana Guimarães Vieira da Silva - Catarina Teresa Rola Sarmento e Castro - Fernando Medina Maciel Almeida Correia.
+
+**Promulgado em 29 de dezembro de 2023.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 29 de dezembro de 2023.**
+
+Pelo Primeiro-Ministro, Mariana Guimarães Vieira da Silva, Ministra da Presidência.

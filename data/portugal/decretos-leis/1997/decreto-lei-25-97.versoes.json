@@ -1,0 +1,66 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:581224:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-944386335",
+ "dre_path": "/dr/detalhe/decreto-lei/25-1997-581224",
+ "source_lastmod": "2025-11-04",
+ "versions": [
+  {
+   "date": "1997-01-23",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "944387381"
+   ]
+  },
+  {
+   "date": "1997-03-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:306909:por",
+     "title": "Declaração de Rectificação n.º 6-A/97",
+     "published": "1997-03-31",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/6-a-1997-306909"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo único"
+   ],
+   "fragments": [
+    "944387381",
+    "944387386",
+    "944387383"
+   ]
+  }
+ ],
+ "fragments": {
+  "944387381": {
+   "fragment_id": "944386336",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 25/97\n\nde 23 de Janeiro\n\nAlterações recentes na legislação relativa à regulamentação do comércio grossista em feiras e mercados, bem como a necessidade de adaptar as normas sobre os documentos de acompanhamento de mercadorias ao regime de circulação dos bens sujeitos a impostos especiais de consumo, determinam algumas alterações ao Decreto-Lei n.º 45/89, de 11 de Fevereiro.\n\nNeste contexto, procede-se à adaptação do regime da circulação de bens, quer à legislação sobre o comércio grossista em feiras e mercados, quer ao regime específico, de origem comunitária, relativo à circulação dos produtos - tabacos, combustíveis, álcool e produtos alcoólicos - sujeitos a impostos especiais de consumo.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "944387386": {
+   "fragment_id": "944386337",
+   "type": 11,
+   "heading": "Artigo único",
+   "in_force_from": "1997-03-31",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 6-A/97 - Diário da República n.º 75/1997, 1º Suplemento, Série I-A de 1997-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-a-1997-306909), em vigor a partir de 1997-03-31"
+   ],
+   "markdown": "###### Artigo único\n\nAs alíneas b) do n.º 2 e f) do n.º 5 do artigo 2.º do Decreto-Lei n.º 45/89, de 11 de Fevereiro, passam a ter a seguinte redacção:\n\n«Artigo 2.º\n\n1 - ...\n\n2 - ...\n\na) ...\n\nb) Os bens expostos para venda em feiras, mercados e outros locais a que se referem os Decretos-Leis n.os 252/86, de 25 de Agosto, e 259/95, de 30 de Setembro.\n\n3 - ...\n\n4 - ...\n\n5 - ...\n\na) ...\n\nb) ...\n\nc) ...\n\nd) ...\n\ne) ...\n\nf) Os produtos sujeitos a impostos especiais de consumo, tal como são definidos na alínea 1) do artigo 2.º do Decreto-Lei n.º 123/94, de 18 de Maio, e nos artigos 2.º do Decreto-Lei n.º 104/93, de 5 Abril, 2.º do Decreto-Lei n.º 117/92, de 22 de Junho, e 2.º do Decreto-Lei n.º 325/93, de 25 de Setembro, que circulem nos termos previstos no Decreto-Lei n.º 52/93, de 26 de Fevereiro, acompanhados dos documentos criados pelos Regulamentos (CEE) n.º 2719/92, da Comissão, de 11 de Setembro, e 3647/92, da Comissão, de 17 de Dezembro.\n\n6 - ...\n\n7 - ...\n\n8 - ...»\n\n> Retificado pelo/a [Declaração de Rectificação n.º 6-A/97 - Diário da República n.º 75/1997, 1º Suplemento, Série I-A de 1997-03-31](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/6-a-1997-306909), em vigor a partir de 1997-03-31"
+  },
+  "944387383": {
+   "fragment_id": "944386338",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Dezembro de 1996. - António Manuel de Oliveira Guterres - António Luciano Pacheco de Sousa Franco.\n\nPromulgado em 31 de Dezembro de 1996.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 31 de Dezembro de 1996.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

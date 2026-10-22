@@ -1,0 +1,156 @@
+---
+schema_version: '1.0'
+id: pt:dre:175553:por
+title: Decreto Legislativo Regional n.º 40/2012/A
+short_title: null
+summary: Aplica à Região Autónoma dos Açores o Decreto-Lei n.º 276/2007, de 31 de julho, relativo ao regime jurídico da atividade
+  de inspeção, auditoria e fiscalização dos serviços da administração direta e indireta do Estado
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 40/2012/A
+official_date: null
+publication_date: '2012-10-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 194/2012, Série I de 2012-10-08
+  number: '194'
+  series: I
+  supplement: null
+  pages: 5565 - 5566
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/10/19400/0556505566.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/40/2012/10/08/a/dre/pt/html
+  oj: null
+  dre: '175553'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/40-2012-175553
+  internal: pt:dre:175553:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-175553
+  metadata_url: https://data.dre.pt/eli/declegreg/40/2012/10/08/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/40-2012-175553
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-10-08T00:00:00Z'
+integrity:
+  source_sha256: ff21d22d9cb0af54c9c218220a84efc424d54faeb181ef36aa83738b1d8f8503
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2012/DRE-2012-40-175553.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Administração Financeira do Estado
+- Sistema de Controlo Interno
+- Auditoria
+- Fiscalização
+- Inspecção Geral
+- Regime Jurídico
+- Segredo Profissional
+- Açores
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/276/2007/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/276/2007/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/32/2012/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/32/2012/02/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/18/2011/06/15/a/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/18/2011/06/15/a/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 40/2012/A
+
+Aplica à Região Autónoma dos Açores o [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, relativo ao regime jurídico da atividade de inspeção, auditoria e fiscalização dos serviços da administração direta e indireta do Estado.
+
+O [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, alterado pelo [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), de 13 de fevereiro, estabelece o regime jurídico da atividade inspetiva, de auditoria e fiscalização, cujo âmbito de aplicação subjetivo se circunscreveu aos serviços da administração pública central.
+
+A atividade inspetiva na Região Autónoma dos Açores é um importante setor no controlo interno e externo dos serviços e organismos públicos e privados.
+
+Até à presente data, os serviços inspetivos da administração pública regional tinham ao seu dispor os poderes atribuídos nos respetivos diplomas orgânicos ou regulamentos internos. Sucede, porém, que tais regulamentos são insuficientes perante as especificidades da atividade administrativa, implicando, tradicionalmente, a prática de atos administrativos de polícia. Refira-se, a título de exemplo, os direitos e deveres de cooperação e colaboração com e entre entidades inspetivas e inspecionadas; a homogeneidade dos procedimentos inspetivos; os princípios gerais de atuação; as garantias no exercício da atividade inspetiva; o regime de incompatibilidades e impedimentos; as áreas territoriais; ou prerrogativas específicas conexas com o âmbito de atuação do serviço inspetivo. Trata-se, pois, de matérias que, pela sua dignidade ou solenidade, reclamam a forma de um decreto legislativo regional.
+
+Acresce que o atual contexto económico-financeiro exige a garantia não só da manutenção, mas do reforço da economia, eficiência e eficácia na gestão dos serviços públicos administrativos, tal como o cumprimento da lei pelas entidades privadas sujeitas aos respetivos serviços inspetivos.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto legislativo regional aplica na Região Autónoma dos Açores o [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, alterado pelo [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), de 13 de fevereiro, relativo ao regime jurídico da atividade de inspeção, auditoria e fiscalização dos serviços da administração direta e indireta do Estado, aos quais tenha sido cometida a missão de assegurar o exercício de funções de controlo, interno ou externo, sem prejuízo do disposto no [Decreto Legislativo Regional n.º 18/2011/A](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/18-2011-670009), de 15 de junho, que aplicou, com as necessárias adaptações, o [Decreto-Lei n.º 170/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), de 3 de agosto.
+
+###### Artigo 2.º — Adaptação de competências
+
+A aplicação na Região Autónoma dos Açores do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, alterado pelo [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), de 13 de fevereiro, faz-se com as seguintes adaptações orgânicas:
+
+a) As referências feitas a membros do Governo consideram-se reportadas aos membros do Governo Regional;
+
+b) A definição das áreas territoriais de inspeção prevista no artigo 22.º do [Decreto-Lei n.º 276/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-2007-636396), de 31 de julho, alterado pelo [Decreto-Lei n.º 32/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2012-543049), de 13 de fevereiro é competência do membro do Governo Regional da tutela, sob proposta do dirigente máximo do serviço inspetivo;
+
+c) As referências orgânicas consideram-se reportadas à Região Autónoma dos Açores, com as devidas adaptações.
+
+###### Artigo 3.º — Âmbito subjetivo
+
+O presente decreto legislativo regional aplica-se a todas as inspeções e serviços da Região Autónoma dos Açores a que sejam cometidas as funções mencionadas no artigo 1.º, nos respetivos diplomas orgânicos.
+
+###### Artigo 4.º — Colaboração com os serviços congéneres
+
+Os serviços de inspeção da Região Autónoma dos Açores podem prestar colaboração aos serviços congéneres das outras administrações, no âmbito material das suas atribuições.
+
+###### Artigo 5.º — Garantias do exercício da atividade inspetiva
+
+A Inspeção Regional de Saúde, no âmbito das suas competências e atribuições, tem o poder de aceder aos documentos e informação existentes nos arquivos clínicos das instituições e serviços, públicos ou privados, que atuem no Serviço Regional de Saúde.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 4 de setembro de 2012.
+
+**O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.**
+
+**Assinado em Angra do Heroísmo em 24 de setembro de 2012.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma dos Açores, Pedro Manuel dos Reis Alves Catarino.

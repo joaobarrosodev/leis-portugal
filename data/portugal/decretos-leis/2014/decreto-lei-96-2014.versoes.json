@@ -1,0 +1,845 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:25345589:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-152850644",
+ "dre_path": "/dr/detalhe/decreto-lei/96-2014-25345589",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-06-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "152944930",
+    "152944931",
+    "152944932",
+    "152944933",
+    "152944934",
+    "152944935",
+    "152944936",
+    "152944937",
+    "152944938",
+    "152944939",
+    "152944940",
+    "152944941",
+    "152944942",
+    "152944944",
+    "152944945",
+    "152944946",
+    "152944947",
+    "152944948",
+    "152944949",
+    "152944950",
+    "152944951",
+    "152944952",
+    "152944953",
+    "152944954",
+    "152944955",
+    "152944956",
+    "152944957",
+    "152944958",
+    "152944959",
+    "152944960",
+    "152944961",
+    "152944962",
+    "152944963",
+    "152944964",
+    "152944965",
+    "152944966",
+    "152944967",
+    "152944968",
+    "152944969",
+    "152944970",
+    "152944971",
+    "152944972",
+    "152944973",
+    "152944974",
+    "153013475",
+    "153013476",
+    "153013477",
+    "153013478",
+    "153013479",
+    "153013480",
+    "153013481",
+    "153013482",
+    "153013483",
+    "153013484",
+    "153013485",
+    "153013486",
+    "153013487",
+    "153013488",
+    "153013489",
+    "153013490",
+    "153013491",
+    "153013492",
+    "153013493",
+    "153013494",
+    "153013495",
+    "153013496",
+    "153013497",
+    "153013498",
+    "153013499",
+    "153013500",
+    "153013501",
+    "153013502",
+    "153013503",
+    "153013504",
+    "153013505",
+    "153013506",
+    "153013507",
+    "153013508",
+    "153013509"
+   ]
+  },
+  {
+   "date": "2021-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:152639825:por",
+     "title": "Lei n.º 75-B/2020",
+     "published": "2020-12-31",
+     "dre_path": "/dr/detalhe/lei/75-b-2020-152639825"
+    }
+   ],
+   "changes": [
+    "Altera Base XXII"
+   ],
+   "fragments": [
+    "152944930",
+    "152944931",
+    "152944932",
+    "152944933",
+    "152944934",
+    "152944935",
+    "152944936",
+    "152944937",
+    "152944938",
+    "152944939",
+    "152944940",
+    "152944941",
+    "152944942",
+    "152944943",
+    "152944944",
+    "152944945",
+    "152944946",
+    "152944947",
+    "152944948",
+    "152944949",
+    "152944950",
+    "152944951",
+    "152944952",
+    "152944953",
+    "152944954",
+    "152944955",
+    "152944956",
+    "152944957",
+    "152944958",
+    "152944959",
+    "152944960",
+    "152944961",
+    "152944962",
+    "152944963",
+    "152944964",
+    "152944965",
+    "152944966",
+    "152944967",
+    "152944968",
+    "152944969",
+    "152944970",
+    "153013510",
+    "152944972",
+    "152944973",
+    "152944974",
+    "153013475",
+    "153013476",
+    "153013477",
+    "153013478",
+    "153013479",
+    "153013480",
+    "153013481",
+    "153013482",
+    "153013483",
+    "153013484",
+    "153013485",
+    "153013486",
+    "153013487",
+    "153013488",
+    "153013489",
+    "153013490",
+    "153013491",
+    "153013492",
+    "153013493",
+    "153013494",
+    "153013495",
+    "153013496",
+    "153013497",
+    "153013498",
+    "153013499",
+    "153013500",
+    "153013501",
+    "153013502",
+    "153013503",
+    "153013504",
+    "153013505",
+    "153013506",
+    "153013507",
+    "153013508",
+    "153013509"
+   ]
+  }
+ ],
+ "fragments": {
+  "152944930": {
+   "fragment_id": "152850645",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 96/2014\n\nde 25 de junho\n\nA reorganização do setor dos resíduos é um dos grandes desafios a que o Governo se propôs, tendo em vista a resolução de problemas ambientais e dos problemas vigentes de sustentabilidade económico-financeira deste setor.\n\nA Lei n.º 35/2013, de 11 de junho, que alterou a Lei n.º 88-A/97, de 25 de julho, que regula o acesso da iniciativa económica privada a determinadas atividades económicas, veio dar o primeiro passo no sentido da pretendida reorganização do setor. Nos termos da alteração introduzida, passou a ser possível que a exploração e gestão de sistemas multimunicipais sejam atribuídas a empresas cujo capital social seja maioritária ou integralmente subscrito por empresas do setor privado, viabilizando-se, assim, a maior participação do setor privado neste setor.\n\nComplementarmente, o Decreto-Lei n.º 92/2013, de 11 de julho, veio dar mais um passo no sentido da implementação da estratégia governamental para os setores da água e saneamento e dos resíduos. No que respeita ao setor da água e saneamento prevê-se a possibilidade de criação, exclusivamente por via legislativa, de sistemas multimunicipais por agregação de sistemas existentes. Já a respeito da reorganização do setor dos resíduos, o Decreto-Lei n.º 92/2013, de 11 de julho, introduziu apenas as modificações necessárias à viabilização, no setor dos resíduos, da alienação do capital social das entidades gestoras de sistemas multimunicipais a privados.\n\nFinalmente, o Governo tomou a decisão de privatização da Empresa Geral do Fomento, S. A. (EGF), sub-holding do grupo Águas de Portugal para o setor dos resíduos, nos termos do Decreto-Lei n.º 45/2014, de 20 de março, que aprova o processo de reprivatização da EGF, e dá assim concretização à medida prevista no respetivo Programa de Governo, de autonomização do setor dos resíduos do Grupo Águas de Portugal, mediante a sua abertura ao setor privado. A alienação do capital social da EGF a entidades privadas tem como consequência a alteração da natureza jurídica das atuais entidades gestoras dos sistemas multimunicipais de tratamento de resíduos, das quais a EGF é acionista maioritária. Com efeito, tais entidades gestoras deixarão, assim, de ser empresas públicas, passando a ser detidas, maioritariamente, por uma empresa privada (a EGF privatizada) e, minoritariamente, pelos municípios utilizadores de cada sistema que não tenham alienado a sua participação social. Esta opção não implica, contudo, qualquer alteração das obrigações contratuais assumidas entre acionistas, nomeadamente em acordos parassociais, os quais se mantêm e não são alterados por efeito do presente decreto-lei.\n\nNeste quadro, o Governo considera imprescindível rever o regime jurídico aplicável à atuação das entidades gestoras de sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos, adaptando-o à nova realidade que surgirá com a concretização da venda da EGF. Efetivamente, o regime jurídico constante do Decreto-Lei n.º 294/94, de 16 de novembro, que aprova também as bases do contrato de concessão da exploração e gestão dos sistemas multimunicipais de tratamento de resíduos urbanos, baseia-se numa matriz de exploração e gestão dos sistemas por empresas públicas, sobre as quais, de resto, o Governo dispõe de poderes de fiscalização, direção, autorização, aprovação e suspensão dos respetivos atos.\n\nAtendendo à existência de entidades gestoras que não são atualmente detidas pela EGF e, bem assim, à possibilidade de virem a ser criados outros sistemas multimunicipais concessionados a entidades de natureza pública, optou-se por manter em vigor o Decreto-Lei n.º 294/94, de 16 de novembro, criando-se paralelamente um regime jurídico novo aplicável apenas aos sistemas multimunicipais geridos por concessionárias com capitais exclusiva ou maioritariamente privados. Por conseguinte, o presente decreto-lei ajusta o regime jurídico aplicável à exploração e gestão destes sistemas multimunicipais à circunstância de serem geridos por entidades privadas, afastando-se determinadas regras que apenas faziam sentido no quadro de sistemas concessionados a empresas públicas e prevendo-se novas regras que pretendem reforçar o controlo pelo Estado concedente sobre a atividade da concessionária privada, em homenagem ao cumprimento dos objetivos de serviço público subjacente à atividade concessionada, maxime a universalidade no acesso, a continuidade, a qualidade e a eficiência de serviço. De destacar é também a previsão da obrigação de a concessionária adequar a sua atividade ao cumprimento das metas fixadas para o setor, em especial constantes do Plano Estratégico para os Resíduos Urbanos (PERSU 2020). Procura-se ainda, em matéria de regime económico-financeiro, salvaguardar a aplicação do regulamento tarifário do serviço de gestão de resíduos urbanos emitido pela entidade reguladora do setor. Finalmente, são adotadas algumas disposições transitórias destinadas a assegurar a aplicação deste novo regime em articulação com o processo de privatização da EGF.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses, a Entidade Reguladora dos Serviços de Águas e Resíduos e a Autoridade da Concorrência.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "152944931": {
+   "fragment_id": "152850646",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei consagra o regime jurídico da concessão da exploração e da gestão, em regime de serviço público, dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos, cuja responsabilidade pela gestão é assegurada pelos municípios, atribuída a entidades de capitais exclusiva ou maioritariamente privados.\n\n2 - A exploração e a gestão referidas no número anterior abrangem a conceção, a construção, a aquisição, a extensão, a reparação, a renovação, a manutenção e a otimização de obras e equipamentos necessários ao exercício daquelas atividades.\n\n3 - São aprovadas as bases da concessão da exploração e gestão, em regime de serviço público, dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos, atribuída a entidades de capitais exclusiva ou maioritariamente privados, constantes do anexo ao presente decreto-lei e que dele fazem parte integrante."
+  },
+  "152944932": {
+   "fragment_id": "152850647",
+   "type": 11,
+   "heading": "Artigo 2.º — Criação de sistemas multimunicipais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Criação de sistemas multimunicipais\n\nA criação de sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos, realizada nos termos do Decreto-Lei n.º 92/2013, de 11 de julho, e do presente decreto-lei, tem por objetivo garantir a universalidade, qualidade, eficiência e continuidade dos serviços públicos de tratamento e de recolha seletiva de resíduos urbanos, bem como o cumprimento de metas ambientais associadas a essas atividades."
+  },
+  "152944933": {
+   "fragment_id": "152850648",
+   "type": 11,
+   "heading": "Artigo 3.º — Serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Serviço público\n\n1 - A exploração e a gestão dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos gerados nas áreas dos municípios utilizadores consubstanciam um serviço público a exercer em regime de exclusividade.\n\n2 - A concessionária deve desempenhar as atividades concessionadas de acordo com as exigências de um regular e eficiente funcionamento do serviço público, adotando os melhores padrões de qualidade disponíveis em cada momento, nos termos das disposições aplicáveis do contrato de concessão, e de acordo com as exigências da entidade reguladora do setor.\n\n3 - A exploração e a gestão dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos visa contribuir para o saneamento público e para o bem-estar das populações, assegurando, nomeadamente:\n\na) O tratamento de resíduos urbanos por forma a contribuir para o cumprimento das metas nacionais em matéria de ambiente;\n\nb) O tratamento de resíduos urbanos de forma a assegurar a continuidade da prestação do serviço, incluindo a manutenção permanente de capacidade de tratamento;\n\nc) A promoção e a implementação das ações necessárias a uma correta política de gestão de resíduos urbanos, nomeadamente no que respeita à sua adequada separação, redução e valorização;\n\nd) A prestação de serviço de acordo com regras e procedimentos certificados que assegurem a minimização dos seus riscos;\n\ne) O controlo dos custos através da racionalidade e eficácia dos meios utilizados nas suas diversas fases.\n\n4 - Salvo em caso de força maior, nos termos previstos nas bases constantes do anexo ao presente decreto-lei, a concessionária, sempre que ocorra a impossibilidade de assegurar a receção e o tratamento dos resíduos urbanos nos termos previstos no contrato, com prejuízo da garantia da continuidade do serviço e do cumprimento da legislação aplicável, dos objetivos de serviço público definidos e dos parâmetros de sanidade e qualidade ambiental exigíveis, deve promover a entrega e o tratamento dos resíduos urbanos noutro sistema de tratamento de resíduos, com capacidade para o efeito e tendo em conta a minimização dos custos associados, até que seja restabelecida a normalidade do funcionamento do sistema por si gerido.\n\n5 - A entidade gestora do sistema de tratamento de resíduos referida no número anterior fica autorizada a receber e a tratar os resíduos gerados no sistema multimunicipal gerido pela concessionária durante o período previsto no número anterior.\n\n6 - Os trabalhadores com relação jurídica de emprego público podem exercer funções na concessionária por acordo de cedência de interesse público, nos termos da Lei n.º 12-A/2008, de 27 de fevereiro."
+  },
+  "152944934": {
+   "fragment_id": "152850649",
+   "type": 11,
+   "heading": "Artigo 4.º — Contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contrato de concessão\n\nA concessão da exploração e da gestão dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos opera-se por contrato administrativo, conforme previsto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro, a celebrar entre o Estado Português, representado pelo membro do Governo responsável pela área do ambiente, e uma entidade de capitais exclusiva ou maioritariamente privados, nos termos das bases constantes do anexo ao presente decreto-lei."
+  },
+  "152944935": {
+   "fragment_id": "152850650",
+   "type": 11,
+   "heading": "Artigo 5.º — Articulação entre a concessionária e os municípios utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Articulação entre a concessionária e os municípios utilizadores\n\n1 - Sem prejuízo da responsabilidade da concessionária em matéria de recolha seletiva nos termos do presente decreto-lei e bases constantes do anexo ao presente decreto-lei, os municípios utilizadores devem articular os seus sistemas de recolha e transporte de resíduos urbanos com o sistema multimunicipal explorado e gerido pela concessionária de modo a assegurar o cumprimento do disposto no número seguinte.\n\n2 - Os municípios são obrigados a entregar à concessionária do sistema multimunicipal do qual são utilizadores todos os resíduos urbanos cuja gestão se encontre sob sua responsabilidade, nos termos da legislação aplicável, gerados nas respetivas áreas e que se incluam no objeto da concessão.\n\n3 - Sem prejuízo da responsabilidade civil a que haja lugar nos termos gerais e da aplicação das sanções contratual ou regulamentarmente previstas, os municípios utilizadores que violem o dever previsto no número anterior devem pagar à concessionária o valor correspondente à aplicação do tarifário em vigor à quantidade de resíduos desviada do sistema multimunicipal gerido pela concessionária, comprovadamente determinada pela entidade reguladora do setor, agravado por uma percentagem a definir por esta no início de cada período regulatório tendo em conta o valor correspondente a outras receitas diretas que a concessionária teria obtido a partir da referida quantidade de resíduos desviada, nomeadamente associadas à redução da produção de energia elétrica ou materiais recicláveis.\n\n4 - A articulação entre os sistemas municipais de recolha e transporte de resíduos urbanos e o sistema multimunicipal é assegurada através de contratos de entrega e receção, celebrados entre a concessionária e cada um dos municípios, os quais preveem a definição de pontos para entrega dos resíduos urbanos a tratar.\n\n5 - A modificação objetiva dos contratos de concessão, designadamente ao nível dos pressupostos económico-financeiros e do respetivo prazo, determina a correspondente adaptação dos contratos de entrega e receção em vigor, designadamente a respetiva extensão por forma a que o respetivo termo coincida com o termo da concessão.\n\n6 - Os resíduos entregues à concessionária por cada utilizador do sistema multimunicipal devem ser registados, podendo ser consideradas as origens e características dos resíduos entregues, desde que tal se encontre previsto nos contratos referidos no n.º 4.\n\n7 - As faturas a emitir pela concessionária relativas aos serviços prestados aos utilizadores do sistema multimunicipal têm uma periodicidade mensal, sendo o prazo de pagamento de 60 dias.\n\n8 - Às dívidas dos utilizadores do sistema multimunicipal em mora é aplicável o regime dos juros comerciais, bem como um prazo de prescrição de dois anos após a emissão das respetivas faturas.\n\n9 - As tarifas a aplicar aos utilizadores produzem efeitos a partir do primeiro dia do exercício económico a que respeitam, independentemente da data da respetiva aprovação.\n\n10 - A necessidade de articulação prevista no n.º 1 cessa quando razões ponderosas de interesse público, reconhecidas por despacho do membro do Governo responsável pela área do ambiente, o justifiquem."
+  },
+  "152944936": {
+   "fragment_id": "152850651",
+   "type": 11,
+   "heading": "Artigo 6.º — Termo do prazo de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Termo do prazo de concessão\n\n1 - No termo da concessão, os bens afetos à concessão que sejam propriedade da concessionária transferem-se, livres de quaisquer ónus ou encargos, nos termos previstos no artigo 10.º do Decreto-Lei n.º 92/2013, de 11 de julho, e nas bases constantes do anexo ao presente decreto-lei, para uma entidade intermunicipal, associação de municípios para a realização de fins especiais, representativa de todos os municípios utilizadores do sistema multimunicipal, ou para o conjunto de todos os municípios utilizadores, mediante o exercício do respetivo direito de opção e o pagamento à concessionária do valor a que esta tenha direito.\n\n2 - Nos casos de não exercício do direito de opção ou de não pagamento à concessionária do montante previsto no número anterior, os bens previstos no número anterior revertem para o Estado, nos termos estabelecidos nas bases constantes do anexo ao presente decreto-lei.\n\n3 - No termo da concessão, transferem-se para a entidade transmissária dos bens a que se referem os números anteriores os direitos e as relações jurídicas referidos no n.º 3 da base XI, nos termos previstos na base LII."
+  },
+  "152944937": {
+   "fragment_id": "152850652",
+   "type": 11,
+   "heading": "Artigo 7.º — Disposições aplicáveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Disposições aplicáveis\n\nAs concessões a que o presente decreto-lei se refere regem-se pelo disposto na Lei n.º 88-A/97, de 25 de julho, alterada pelas Leis n.os 17/2012, de 26 abril, e 35/2013, de 11 de junho, pelas disposições aplicáveis do Decreto-Lei n.º 92/2013, de 11 de julho, pelo presente decreto-lei e demais legislação aplicável à atividade concessionada e pelos respetivos contratos."
+  },
+  "152944938": {
+   "fragment_id": "152850653",
+   "type": 11,
+   "heading": "Artigo 8.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Aplicação no tempo\n\n1 - O presente decreto-lei é aplicável às concessões atribuídas após a respetiva entrada em vigor.\n\n2 - O presente decreto-lei é ainda aplicável às concessões em curso, cujas entidades gestoras passem a ser entidades de capitais exclusiva ou maioritariamente privados na vigência do presente decreto-lei, nos termos do disposto nos artigos seguintes."
+  },
+  "152944939": {
+   "fragment_id": "152850654",
+   "type": 11,
+   "heading": "Artigo 9.º — Adaptação das concessões em curso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Adaptação das concessões em curso\n\n1 - Os contratos de concessão em vigor à data do início de vigência do presente decreto-lei e celebrados com entidades gestoras de sistemas multimunicipais cujo capital social passe a ser detido exclusiva ou maioritariamente por entidades privadas devem, no prazo máximo de 90 dias a contar da data em que a alienação a entidades privadas do capital social das referidas entidades gestoras ou dos respetivos acionistas produza efeitos, ser objeto de modificação contratual, em vista da adaptação do seu conteúdo ao presente decreto-lei e bases constantes do anexo ao presente decreto-lei.\n\n2 - A modificação contratual prevista no número anterior produz efeitos no dia seguinte ao da respetiva outorga.\n\n3 - A modificação contratual prevista no n.º 1 apenas pode ser outorgada após a apresentação pela concessionária de comprovativo da prestação de caução a favor do concedente, no valor correspondente a 5 % do volume de negócios da concessionária no ano anterior ao da outorga da modificação contratual em causa, destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão tal como modificado.\n\n4 - À caução prestada nos termos do número anterior não é aplicável o disposto no n.º 2 da base XXXII, aprovada em anexo ao presente decreto-lei.\n\n5 - As atividades complementares cujo exercício pela concessionária se encontre, à data da produção de efeitos da modificação contratual prevista no n.º 1 expressamente autorizado nos termos da lei e dos respetivos contratos de concessão, mantêm-se autorizadas à concessionária como atividades complementares para efeitos do disposto nas bases constantes do anexo ao presente decreto-lei.\n\n6 - As atividades acessórias cujo exercício pela concessionária se encontre, à data da produção de efeitos da modificação contratual prevista no n.º 1 expressamente autorizado nos termos da lei e dos respetivos contratos de concessão, mantêm-se autorizadas à concessionária como outras atividades por um período de três anos, devendo cessar até ao termo deste prazo.\n\n7 - Para efeitos do disposto no n.º 1 da base L aprovada em anexo ao presente decreto-lei, o prazo contratual a considerar é o período compreendido entre a data da produção de efeitos da modificação contratual prevista no n.º 1 e o último dia da concessão.\n\n8 - Os acordos parassociais celebrados entre os acionistas da concessionária, à data da produção de efeitos da modificação contratual prevista no n.º 1, consideram-se autorizados e vinculativos para efeitos do disposto na base IX, aprovada em anexo ao presente decreto-lei."
+  },
+  "152944940": {
+   "fragment_id": "152850655",
+   "type": 11,
+   "heading": "Artigo 10.º — Adaptação dos contratos em vigor celebrados com os municípios utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Adaptação dos contratos em vigor celebrados com os municípios utilizadores\n\n1 - Os contratos de entrega e receção de resíduos e os contratos de cedência de infraestruturas em vigor nas concessões em curso devem ser modificados por forma a ficarem adaptados às condições do contrato de concessão, tal como modificado nos termos do n.º 1 do artigo anterior.\n\n2 - Enquanto não ocorrer a modificação referida no número anterior, as relações contratuais entre as concessionárias e os utilizadores rege-se pelo disposto nos contratos existentes em tudo o que não contrarie o disposto no contrato de concessão modificado."
+  },
+  "152944941": {
+   "fragment_id": "152850656",
+   "type": 11,
+   "heading": "Artigo 11.º — Regime regulatório transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Regime regulatório transitório\n\n1 - Nos casos em que a data de produção de efeitos da modificação contratual prevista no n.º 1 do artigo 9.º ocorra no ano da publicação do presente decreto-lei ou no ano imediatamente subsequente, as tarifas a aplicar pela concessionária, desde aquela data até ao termo do primeiro ano civil subsequente àquele em que ocorra a publicação do presente decreto-lei, correspondem às tarifas aprovadas para 2014, atualizadas de acordo com o índice de preços no consumidor publicado pela entidade legalmente competente para a sua divulgação, sem prejuízo das tarifas plurianuais que se encontrem em vigor à data de produção de efeitos da modificação contratual prevista no n.º 1 do artigo 9.º\n\n2 - Para efeitos do disposto nas bases constantes do anexo ao presente decreto-lei, o primeiro período regulatório aplicável às concessões a que se refere o número anterior inicia-se no primeiro dia do segundo ano civil subsequente àquele em que ocorra a publicação do presente decreto-lei.\n\n3 - O conjunto de bens e meios afetos aos contratos de concessão, celebrados pelas concessionárias que se encontrem na situação prevista no n.º 1, consideram-se afetos à concessão para efeitos das bases constantes do anexo ao presente decreto-lei e integram a base de ativos relevante para efeitos de apuramento dos proveitos permitidos definidos nas referidas bases, sendo o respetivo valor contabilístico apurado por referência aos custos incorridos com a respetiva aquisição.\n\n4 - Quando seja estimada uma variação anual de tarifas superior a 2 %, aos proveitos anualmente permitidos à concessionária, definidos nos termos das bases constantes do anexo ao presente decreto-lei, pode ser deduzido, se positivo, o montante correspondente ao acréscimo de gastos referente a amortizações acumuladas de investimento contratual por realizar, deduzido do montante de imposto diferido que lhe está associado e do valor contabilístico líquido de amortizações e subsídios do conjunto de bens e ativos que não venham a integrar a base de ativos da concessionária relevante para efeitos de apuramento dos proveitos permitidos nos termos das bases constantes do anexo ao presente decreto-lei.\n\n5 - A dedução do saldo, prevista no número anterior, deve ser realizada na medida do necessário para que a variação anual da tarifa não exceda 2 % e, no caso de o saldo se revelar insuficiente para esse efeito, deve ser deduzida a totalidade do saldo.\n\n6 - O saldo previsto no n.º 4 é apurado com base na informação registada nas últimas demonstrações financeiras da concessionária disponíveis imediatamente antes do início do primeiro período regulatório.\n\n7 - O saldo, previsto no n.º 4, eventualmente existente no termo da concessão é deduzido ao valor a que a concessionária tem direito nos termos do n.º 5 da base LII das bases constantes do anexo ao presente decreto-lei.\n\n8 - Para efeitos do disposto nas bases constantes do anexo ao presente decreto-lei, não são reconhecidos quaisquer desvios de recuperação de gastos, positivos ou negativos, à data de início do primeiro período regulatório."
+  },
+  "152944942": {
+   "fragment_id": "152850657",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "152944944": {
+   "fragment_id": "152850659",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o n.º 3 do artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o n.º 3 do artigo 1.º)\n\nBases da concessão da exploração e gestão dos sistemas multimunicipais de tratamento e recolha seletiva de resíduos urbanos geridos por sociedades de capital total ou maioritariamente privado."
+  },
+  "152944945": {
+   "fragment_id": "152850660",
+   "type": 1,
+   "heading": "Capítulo I — Disposições e princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições e princípios gerais"
+  },
+  "152944946": {
+   "fragment_id": "152850661",
+   "type": 2,
+   "heading": "Base I — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base I — Definições\n\nPara efeitos das presentes bases, os termos abaixo indicados têm os seguintes significados:\n\na) «Aterro», instalação de eliminação de resíduos através da sua deposição acima ou abaixo da superfície natural, tal como definido na alínea c) do n.º 1 do artigo 4.º do Decreto-Lei n.º 183/2009, de 10 de agosto, alterado pelos Decretos-Leis n.os 84/2011, de 20 de junho, e 88/2013, de 9 de setembro, incluindo: (i) as instalações de eliminação internas, considerando-se como tal os aterros onde o produtor de resíduos efetua a sua própria eliminação de resíduos no local de produção e (ii) uma instalação permanente, considerando-se como tal a que tiver uma vida útil superior a um ano, usada para armazenagem temporária;\n\nb) «Atividade principal», atividade relativa à exploração e à gestão de sistema multimunicipal de resíduos urbanos, objeto do contrato de concessão, compreendendo o tratamento de resíduos urbanos resultantes da recolha indiferenciada e a recolha seletiva de resíduos urbanos, incluindo a respetiva triagem;\n\nc) «Atividades complementares», atividades que, não se integrando na atividade principal, utilizam ativos afetos a esta, permitindo otimizar a respetiva rentabilidade;\n\nd) «Concedente», o Estado Português, representado pelo membro do Governo responsável pela área do ambiente;\n\ne) «Concessão», o conjunto de direitos e obrigações atribuído à concessionária por intermédio do contrato de concessão e demais regulamentação aplicável;\n\nf) «Concessionária», a entidade a quem é atribuída a concessão;\n\ng) «Contrato de concessão», o contrato celebrado entre o concedente e a concessionária que tem por objeto as atividades referidas na base II, e todos os aditamentos e alterações que o mesmo vier a sofrer;\n\nh) «Ecocentros», centros de receção dotados de equipamentos de grande capacidade para a deposição seletiva de materiais passíveis de valorização, tais como papel, cartão, embalagens de plástico, vidro, metal e madeira, aparas de jardim, objetos volumosos fora de uso, pequenas quantidades de resíduos urbanos perigosos ou outros materiais que venham a ter viabilidade técnica de valorização;\n\ni) «Ecopontos», conjunto de contentores preparados para a deposição multimaterial de resíduos para reciclagem designadamente papel e cartão, embalagens de vidro, embalagens de plástico e metal, cartão de alimentos líquidos ou outros materiais para valorização;\n\nj) «Outras atividades», todas as atividades que a concessionária esteja autorizada a desenvolver que não estejam integradas nas atividades principais e não sejam reconduzíveis às atividades complementares;\n\nk) «Recolha seletiva», a recolha de resíduos urbanos nos ecopontos, nos ecocentros e noutros pontos específicos de recolha localizados no âmbito geográfico da concessão, incluindo a respetiva triagem e a respetiva entrega às entidades licenciadas para a sua retoma, de forma a manter o fluxo de resíduos separados por papel e cartão, embalagens de vidro e embalagens de plástico, metal, madeira e cartão para líquidos alimentares, com vista a facilitar o respetivo tratamento específico;\n\nl) «Regulamento tarifário», o regulamento, emitido pela entidade reguladora do setor, nos termos da lei;\n\nm) «Resíduos de construção e demolição», o resíduo proveniente de obras de construção, reconstrução, ampliação, alteração, conservação e demolição e da derrocada de edificações, tal como definido na alínea gg) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelos Decretos-Leis n.os 173/2008, de 26 de agosto, 64-A/2008, de 31 de dezembro, 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto;\n\nn) «Resíduos urbanos», os resíduos provenientes de habitações ou que, pela sua natureza ou composição, a estes sejam semelhantes;\n\no) «Resíduos urbanos de grandes produtores», quaisquer resíduos urbanos que, pela sua natureza ou composição, sejam semelhantes aos resíduos produzidos nas habitações, nomeadamente os produzidos por particulares ou provenientes do setor de serviços, de estabelecimentos comerciais, hospitalares e industriais, cuja produção diária seja superior a 1100 litros;\n\np) «Resíduos industriais não perigosos», os resíduos gerados em processos produtivos industriais, bem como os que resultem das atividades de produção e distribuição de eletricidade, gás e água, que não apresentem características de perigosidade;\n\nq) «Utilizadores», os municípios servidos pelo sistema multimunicipal gerido pela concessionária, bem como, sendo o caso, as entidades gestoras dos respetivos sistemas municipais de recolha, transporte e armazenamento de resíduos urbanos."
+  },
+  "152944947": {
+   "fragment_id": "152850662",
+   "type": 2,
+   "heading": "Base II — Objeto do contrato de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base II — Objeto do contrato de concessão\n\n1 - O contrato de concessão tem por objeto a exploração e a gestão de um sistema multimunicipal de tratamento e de recolha seletiva de resíduos urbanos, nos termos estabelecidos nas presentes bases e no contrato.\n\n2 - A atividade objeto da concessão compreende o tratamento dos resíduos urbanos gerados nas áreas dos municípios utilizadores, cuja gestão se encontre sob sua responsabilidade, nos termos da legislação aplicável, e entregues por quem deva proceder à sua recolha, incluindo a sua valorização e a disponibilização de subprodutos.\n\n3 - Para além do disposto do número anterior, a atividade objeto da concessão abrange também a recolha seletiva de resíduos urbanos.\n\n4 - O objeto da concessão compreende:\n\na) A conceção e a construção de todas as instalações necessárias ao tratamento de resíduos urbanos gerados nas áreas dos municípios utilizadores, incluindo, nomeadamente, a construção de centrais de processamento, a construção de aterros e de estações de transferência, respetivos acessos e sua extensão, reparação e renovação de acordo com as exigências técnicas e com os parâmetros de sanidade e qualidade ambiental exigíveis;\n\nb) A aquisição, a manutenção e a renovação de todos os equipamentos e meios de transporte necessários ao tratamento dos resíduos urbanos que deva receber;\n\nc) O fornecimento, a instalação, a gestão, a exploração, a manutenção e a renovação dos equipamentos necessários à recolha seletiva colocados em espaço público e ou privado de utilização pública."
+  },
+  "152944948": {
+   "fragment_id": "152850663",
+   "type": 2,
+   "heading": "Base III — Natureza da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base III — Natureza da concessão\n\n1 - A concessão é de serviço público e é estabelecida em regime de exclusividade relativamente à atividade que integra o seu objeto.\n\n2 - A concessionária do serviço público de exploração e gestão do sistema multimunicipal de tratamento e de recolha seletiva de resíduos urbanos obriga-se a assegurar o regular, contínuo e eficiente tratamento dos resíduos urbanos gerados nas áreas dos municípios utilizadores."
+  },
+  "152944949": {
+   "fragment_id": "152850664",
+   "type": 2,
+   "heading": "Base IV — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IV — Prazo\n\n1 - O contrato de concessão tem uma duração máxima de 50 anos, incluindo eventuais prorrogações, a contar da data da sua celebração, no respeito pelas normas aplicáveis e, em especial, pelo disposto no n.º 1 do artigo 410.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n2 - O termo do contrato de concessão ocorre no último dia do ano civil correspondente ao último ano da concessão, independentemente do dia em que tenha ocorrido o início do respetivo prazo."
+  },
+  "152944950": {
+   "fragment_id": "152850665",
+   "type": 2,
+   "heading": "Base V — Princípios aplicáveis às relações com os utilizadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base V — Princípios aplicáveis às relações com os utilizadores\n\n1 - A articulação entre o sistema multimunicipal concessionado à concessionária e os sistemas municipais geridos por cada um dos utilizadores é assegurada através de contratos de entrega e receção a celebrar entre a concessionária e cada um dos municípios.\n\n2 - A concessionária é obrigada, mediante contrato, a assegurar aos utilizadores o tratamento dos resíduos urbanos gerados nas suas áreas, devendo abster-se de diferenciações que não resultem apenas da aplicação de critérios ou condicionalismos legais ou regulamentares ou, ainda, de diversidade manifesta das condições técnicas de entrega e dos correspondentes custos.\n\n3 - Os utilizadores são obrigados a entregar à concessionária todos os resíduos urbanos gerados nas respetivas áreas e cuja gestão se encontre sob sua responsabilidade, nos termos da legislação aplicável, em observância do direito de exclusivo da concessionária.\n\n4 - Sem prejuízo da responsabilidade civil a que haja lugar nos termos gerais e da aplicação das sanções contratual ou regulamentarmente previstas, os utilizadores que violem o dever previsto no número anterior devem pagar à concessionária o valor correspondente à aplicação do tarifário em vigor à quantidade de resíduos desviada do sistema multimunicipal gerido pela concessionária, comprovadamente determinada pela entidade reguladora do setor, agravado por uma percentagem a definir por esta no início de cada período regulatório tendo em conta o valor correspondente a outras receitas diretas que a concessionária teria obtido a partir da referida quantidade de resíduos desviada, nomeadamente associadas à redução da produção de energia elétrica ou materiais recicláveis.\n\n5 - Os contratos de receção de resíduos especificam as condições particulares de prestação do serviço a cada utilizador, obedecendo às condições de exploração definidas no contrato de concessão.\n\n6 - Quando sejam aprovados os regulamentos de tratamento de resíduos urbanos, os contratos de receção de resíduos já celebrados devem ser compatibilizados com aqueles."
+  },
+  "152944951": {
+   "fragment_id": "152850666",
+   "type": 1,
+   "heading": "Capítulo II — Da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da concessionária"
+  },
+  "152944952": {
+   "fragment_id": "152850667",
+   "type": 2,
+   "heading": "Base VI — Atividade principal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VI — Atividade principal\n\nA concessionária tem por atividade principal, ao longo de todo o período de duração do contrato de concessão, a exploração e a gestão do sistema multimunicipal concessionado."
+  },
+  "152944953": {
+   "fragment_id": "152850668",
+   "type": 2,
+   "heading": "Base VII — Atividades complementares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VII — Atividades complementares\n\n1 - A concessionária pode, nos termos dos números seguintes, exercer atividades complementares da referida na base anterior, desde que para o efeito esteja habilitada, não seja posta em causa a concorrência, a exploração e a gestão de sistemas multimunicipais se mantenha como a sua atividade principal e desde que cada uma daquelas atividades seja objeto de contabilidade analítica própria e autónoma e seja financeiramente autossuficiente.\n\n2 - O exercício das atividades previstas no número anterior depende de autorização do concedente, precedida de pareceres obrigatórios da Autoridade da Concorrência e da Entidade Reguladora dos Serviços de Águas e Resíduos, ponderado o disposto no número anterior e a harmonização das atividades objeto de autorização com os objetivos de serviço público a que a concessionária se encontra vinculada.\n\n3 - Para efeitos do disposto no n.º 1, consideram-se atividades complementares, as atividades que, não se integrando na atividade principal, utilizam ativos afetos a esta, permitindo otimizar a respetiva rentabilidade, conforme definido na base I."
+  },
+  "152944954": {
+   "fragment_id": "152850669",
+   "type": 2,
+   "heading": "Base VIII — Capital social da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base VIII — Capital social da concessionária\n\n1 - Dependem de autorização do concedente, a qual não pode ser infundadamente recusada:\n\na) A redução do capital social da concessionária;\n\nb) O aumento do capital social da concessionária, sempre que deste resulte a alteração dos respetivos acionistas; e\n\nc) A oneração e a transmissão de ações representativas do capital social da concessionária.\n\n2 - Excetua-se do disposto no número anterior a oneração de ações efetuadas em benefício das entidades financiadoras da atividade que integra o objeto da concessão e no âmbito dos contratos de financiamento que venham a ser celebrados pela concessionária para o efeito.\n\n3 - A oneração e a transmissão de ações da concessionária e a redução e o aumento do respetivo capital social efetuados em violação do disposto nas presentes bases ou nos estatutos da concessionária são nulos.\n\n4 - O disposto nos números anteriores não prejudica a necessidade de cumprimento dos requisitos legais aplicáveis em vigor à data da operação em causa, designadamente no domínio da contratação pública."
+  },
+  "152944955": {
+   "fragment_id": "152850670",
+   "type": 2,
+   "heading": "Base IX — Estatutos e acordos entre acionistas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base IX — Estatutos e acordos entre acionistas\n\n1 - Sem prejuízo de outras limitações previstas nas presentes bases e no contrato de concessão, ficam sujeitas a autorização do concedente as deliberações da concessionária relativas à alteração do objeto social e à transformação, fusão, cisão ou dissolução da sociedade.\n\n2 - Os acordos parassociais celebrados entre os acionistas da concessionária, bem como as respetivas alterações, devem ser objeto de autorização do concedente.\n\n3 - As autorizações previstas nos números anteriores não podem ser infundadamente recusadas."
+  },
+  "152944956": {
+   "fragment_id": "152850671",
+   "type": 1,
+   "heading": "Capítulo III — Dos bens e meios afetos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Dos bens e meios afetos à concessão"
+  },
+  "152944957": {
+   "fragment_id": "152850672",
+   "type": 2,
+   "heading": "Base X — Estabelecimento da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base X — Estabelecimento da concessão\n\n1 - Integram o estabelecimento da concessão:\n\na) As infraestruturas relativas ao tratamento e à recolha seletiva de resíduos urbanos, designadamente as estações de transferência, os ecocentros, as centrais de processamento, triagem e valorização e os respetivos acessos, as infraestruturas associadas, os aterros, os ecopontos e os meios de transporte de resíduos;\n\nb) Os equipamentos necessários à operação das infraestruturas e ao acompanhamento e controlo da sua exploração;\n\nc) Todas as obras, máquinas e aparelhagem e respetivos acessórios utilizados para a receção e tratamento dos resíduos e para a manutenção dos equipamentos e gestão do sistema multimunicipal não referidos nas alíneas anteriores;\n\nd) Os equipamentos, máquinas, veículos, aparelhagem e respetivos acessórios utilizados para a recolha seletiva de resíduos urbanos.\n\n2 - As infraestruturas consideram-se integradas na concessão, para todos os efeitos legais, desde a autorização dos respetivos projetos pelo concedente, nos termos da base XXVI."
+  },
+  "152944958": {
+   "fragment_id": "152850673",
+   "type": 2,
+   "heading": "Base XI — Bens e direitos afetos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XI — Bens e direitos afetos à concessão\n\n1 - Consideram-se afetos à concessão, além dos bens que integram o seu estabelecimento, os imóveis adquiridos por via do direito privado ou mediante expropriação para implantação das infraestruturas.\n\n2 - Consideram-se também afetos à concessão os direitos privativos de propriedade intelectual e industrial de que a concessionária seja titular.\n\n3 - Consideram-se ainda afetos à concessão, desde que diretamente relacionados com a atividade concessionada, nos termos da base II, os demais bens e direitos de qualquer natureza e as relações jurídicas que se encontrem em cada momento conexionadas com a continuidade da exploração da concessão, nomeadamente laborais, de empreitada, de locação e de prestação de serviços."
+  },
+  "152944959": {
+   "fragment_id": "152850674",
+   "type": 2,
+   "heading": "Base XII — Propriedade dos bens afetos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XII — Propriedade dos bens afetos à concessão\n\n1 - Enquanto durar a concessão e sem prejuízo do disposto na base seguinte, a concessionária detém a propriedade dos bens afetos à concessão que não pertençam ao Estado e ou aos municípios.\n\n2 - No termo da concessão, os bens a que se refere o número anterior transferem-se de acordo com a base LII."
+  },
+  "152944960": {
+   "fragment_id": "153013375",
+   "type": 2,
+   "heading": "Base XIII — Infraestruturas pertencentes aos municípios ou a associações de municípios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIII — Infraestruturas pertencentes aos municípios ou a associações de municípios\n\n1 - Os aterros ou outras infraestruturas relacionadas com o tratamento ou recolha de resíduos urbanos pertencentes aos utilizadores ou a associações de municípios de que todos ou alguns destes façam parte podem ser pelos mesmos cedidos à concessionária para exploração da concessão.\n\n2 - Os contratos de cedência de infraestruturas a que se refere o número anterior podem ter um prazo de duração correspondente ao da concessão, independentemente da natureza jurídica dos direitos neles transmitidos.\n\n3 - Em qualquer caso, tornando-se desnecessária a utilização pela concessionária das infraestruturas referidas no número anterior estas são devolvidas aos municípios cedentes nas condições inicialmente acordadas.\n\n4 - A concessionária não assume qualquer responsabilidade, seja de que tipo for, relativa ao passivo ambiental, com o sentido previsto na alínea s) do artigo 3.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelos Decretos-Leis n.os 173/2008, de 26 de agosto, 64-A/2008, de 31 de dezembro, 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto, existente à data da produção de efeitos do contrato de concessão, associado a infraestruturas anteriormente geridas por municípios ou associações de municípios, incluindo anteriores locais de deposição que tenham sido objeto de encerramento e selagem pela concessionária."
+  },
+  "152944961": {
+   "fragment_id": "153013376",
+   "type": 2,
+   "heading": "Base XIV — Inventário e relatório técnico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIV — Inventário e relatório técnico\n\n1 - A concessionária deve elaborar e manter atualizado, numa base anual, um inventário dos bens e direitos afetos à concessão.\n\n2 - O inventário previsto no número anterior compreende os seguintes elementos relativos a cada bem:\n\na) A identificação do proprietário, quando diferente da concessionária;\n\nb) A data de entrada em exploração e de afetação à concessão, quando aplicável;\n\nc) O valor contabilístico bruto e líquido e respetiva taxa de amortização, quando aplicável;\n\nd) A menção aos ónus ou encargos que sobre ele recaem, caso existam.\n\n3 - Os bens e direitos que tenham perdido utilidade para a concessão são abatidos ao inventário, devendo esse facto ser comunicado ao concedente e à entidade reguladora do setor.\n\n4 - A concessionária deve enviar ao concedente e à entidade reguladora, em cada período regulatório previsto no regulamento tarifário, um relatório técnico referente à aptidão funcional, segurança, estado de conservação das principais infraestruturas e equipamentos necessários à prestação sustentável dos serviços, que ateste o cumprimento dos planos de manutenção, indique as medidas executadas, bem como as necessárias para resolução dos problemas identificados e evidencie uma adequada capacidade de processamento."
+  },
+  "152944962": {
+   "fragment_id": "153013377",
+   "type": 2,
+   "heading": "Base XV — Manutenção dos bens e meios afetos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XV — Manutenção dos bens e meios afetos à concessão\n\n1 - A concessionária obriga-se a manter em bom estado de funcionamento, conservação e segurança, a expensas suas, os bens e meios afetos à concessão durante o prazo da sua vigência, efetuando para tanto as reparações, renovações e adaptações necessárias ao bom desempenho do serviço público.\n\n2 - Não se tratando de reparações, renovações ou adaptações urgentes, deve a concessionária, sempre que elas impliquem interrupção, diminuição ou condicionamento da atividade objeto da concessão, comunicá-las com antecedência razoável aos utilizadores afetados pelas mesmas."
+  },
+  "152944963": {
+   "fragment_id": "153013378",
+   "type": 2,
+   "heading": "Base XVI — Oneração e transmissão dos bens e direitos afetos à concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVI — Oneração e transmissão dos bens e direitos afetos à concessão\n\n1 - A oneração e a transmissão, por qualquer forma, dos bens e direitos afetos à concessão ficam sujeitas a autorização do concedente, nos termos da base XXII.\n\n2 - A oneração ou transmissão dos bens e direitos afetos à concessão em desrespeito do disposto na presente base acarreta a nulidade dos respetivos atos ou contratos."
+  },
+  "152944964": {
+   "fragment_id": "153013379",
+   "type": 1,
+   "heading": "Capítulo IV — Condições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Condições financeiras"
+  },
+  "152944965": {
+   "fragment_id": "153013380",
+   "type": 2,
+   "heading": "Base XVII — Regime remuneratório e partilha de riscos da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVII — Regime remuneratório e partilha de riscos da concessão\n\n1 - O regime remuneratório da concessão baseia-se no reconhecimento à concessionária dos proveitos permitidos nos termos das presentes bases e do contrato de concessão, a serem refletidos nas tarifas a aplicar aos utilizadores do sistema.\n\n2 - A concessionária é responsável pelos riscos inerentes à concessão nos termos do disposto na legislação aplicável e nas presentes bases, assumindo os respetivos riscos operacionais.\n\n3 - A concessionária é responsável pela obtenção do financiamento necessário ao desenvolvimento do objeto da concessão, por forma a cumprir cabal e atempadamente as obrigações assumidas no contrato de concessão, assumindo os respetivos riscos de investimento e de financiamento."
+  },
+  "152944966": {
+   "fragment_id": "153013381",
+   "type": 2,
+   "heading": "Base XVIII — Proveitos permitidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XVIII — Proveitos permitidos\n\n1 - Os proveitos permitidos anualmente à concessionária, no âmbito da atividade concessionada, são definidos pela entidade reguladora do setor para um horizonte temporal de três a cinco anos, denominado por período regulatório, nos termos estabelecidos no regulamento tarifário.\n\n2 - O modelo regulatório é fixado pela entidade reguladora do setor e assenta, entre outros, nos seguintes pressupostos:\n\na) Elegibilidade dos custos de exploração, para efeitos de determinação dos proveitos permitidos, por referência a um cenário de eficiência produtiva da exploração e gestão do sistema multimunicipal;\n\nb) Remuneração do capital com base no custo médio ponderado, com parâmetros definidos em referência a valores de mercado e ao desempenho de entidades representativas comparáveis;\n\nc) Definição de uma base de ativos, constituída pelos bens afetos à concessão, como incidência da remuneração do capital;\n\nd) Adoção de mecanismos de incentivo à eficiência;\n\ne) Repercussão adequada nos proveitos permitidos das diferenças registadas entre as quantidades estimadas e as quantidades de resíduos urbanos entregues à concessionária.\n\n3 - A definição da base de custos de exploração deve atender ao seu controlo efetivo pela concessionária, às tecnologias e capacidades instaladas, bem como às oscilações da procura.\n\n4 - Qualquer regra definida pela entidade reguladora do setor, para efeitos do disposto no n.º 1, deve ser submetida a audiência prévia da concessionária."
+  },
+  "152944967": {
+   "fragment_id": "153013382",
+   "type": 2,
+   "heading": "Base XIX — Tarifas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XIX — Tarifas\n\n1 - As tarifas a aplicar aos utilizadores devem proporcionar à concessionária os proveitos permitidos nos termos das bases anteriores e correspondem ao resultado da divisão dos proveitos permitidos anualmente à concessionária pelas quantidades estimadas de consumo para esse ano.\n\n2 - As tarifas são aprovadas anualmente pela entidade reguladora do setor durante o ano anterior àquele a que respeitam, no prazo e termos definidos no regulamento tarifário.\n\n3 - As tarifas a aplicar aos utilizadores produzem efeitos a partir do primeiro dia do exercício económico a que respeitam, independentemente da data da sua aprovação.\n\n4 - A entidade reguladora do setor deve, previamente à sua aprovação nos termos do n.º 2, submeter o projeto tarifário a audiência prévia escrita da concessionária e do Conselho Consultivo, nos termos previstos no Código de Procedimento Administrativo em matéria de audiência de interessados."
+  },
+  "152944968": {
+   "fragment_id": "153013383",
+   "type": 2,
+   "heading": "Base XX — Tarifário comum",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XX — Tarifário comum\n\n1 - A concessionária deve aplicar um tarifário comum a todos os utilizadores a quem presta serviços.\n\n2 - A aplicação por uma concessionária de tarifários distintos aos utilizadores carece de justificação por razões ponderosas de ordem técnica ou económica."
+  },
+  "152944969": {
+   "fragment_id": "153013384",
+   "type": 1,
+   "heading": "Capítulo V — Exploração da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Exploração da concessão"
+  },
+  "152944970": {
+   "fragment_id": "153013385",
+   "type": 2,
+   "heading": "Base XXI — Regulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXI — Regulação\n\nA atividade concessionada encontra-se sujeita a regulação por parte da entidade reguladora do setor, nos termos das presentes bases, demais legislação e regulamentação aplicáveis, sem prejuízo das competências legais atribuídas a outras entidades públicas."
+  },
+  "152944971": {
+   "fragment_id": "153013386",
+   "type": 2,
+   "heading": "Base XXII — Poderes do concedente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXII — Poderes do concedente\n\n1 - Sem prejuízo de outros poderes conferidos pelas presentes bases ou pela lei, compete ao concedente:\n\na) A direção e fiscalização do cumprimento das leis, regulamentos aplicáveis e cláusulas do contrato de concessão;\n\nb) A definição de objetivos de serviço público;\n\nc) A aplicação de sanções pecuniárias e contratuais por incumprimento pela concessionária das obrigações contratuais;\n\nd) A resolução do contrato por impossibilidade de cumprimento pela concessionária das obrigações contratuais em casos de força maior;\n\ne) A resolução do contrato com fundamento em grave violação pela concessionária das suas obrigações contratuais;\n\nf) O sequestro da atividade em caso de incumprimento grave, efetivo ou iminente, pela concessionária das obrigações contratuais;\n\ng) A modificação unilateral das condições de exploração da concessão com fundamento em interesse público;\n\nh) O resgate da concessão por interesse público.\n\n2 - Sem prejuízo de outros casos referidos nas presentes bases ou na lei, carecem de autorização do concedente, ouvido, quando exista, o Conselho Consultivo previsto na base XXVII e nos casos aí definidos, os seguintes atos:\n\na) A oneração ou transmissão dos bens imóveis e direitos afetos à concessão;\n\nb) A transmissão de bens da propriedade da concessionária de valor líquido contabilístico superior a (euro) 250 000;\n\nc) A redução e o aumento do capital social da concessionária e a oneração e a transmissão de ações, nos termos previstos no n.º 1 da base VIII;\n\nd) As deliberações da concessionária relativas à alteração do objeto social e à transformação, fusão, cisão ou dissolução da sociedade;\n\ne) O exercício de atividades complementares;\n\nf) A oneração, subconcessão, trespasse ou transmissão, por qualquer forma, no todo ou em parte, da concessão ou realização de qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indireto, idênticos resultados;\n\ng) A concessão de empréstimos pela concessionária, ainda que a título oneroso, a terceiros;\n\nh) O projeto base relativo a investimentos em infraestruturas, nos termos da base XXVI;\n\ni) Outras situações previstas no contrato de concessão.\n\n3 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.\n\n4 - Os atos da concessionária dependentes de autorização do concedente consideram-se autorizados na falta de decisão proferida no prazo de 120 dias a contar da data de apresentação do pedido de autorização, salvo prazo diferente estabelecido nas presentes bases."
+  },
+  "152944972": {
+   "fragment_id": "153013387",
+   "type": 2,
+   "heading": "Base XXIII — Fiscalização e direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIII — Fiscalização e direção\n\n1 - O concedente pode dirigir e fiscalizar o cumprimento das leis e regulamentos aplicáveis e, bem assim, das cláusulas do contrato de concessão, onde quer que a concessionária exerça a sua atividade, podendo, para tanto, exigir-lhe as informações e os documentos que considerar necessários.\n\n2 - O pessoal incumbido da fiscalização, expressamente designado para o efeito e no exercício dessas funções, dispõe de livre acesso a todas as infraestruturas e equipamentos da concessão e a todas as instalações da concessionária, devendo estar obrigatoriamente coberto por seguro a efetuar pela concessionária.\n\n3 - Para efeitos do disposto no n.º 1 e sempre que exista motivo atendível, o concedente pode, nomeadamente:\n\na) Inquirir os representantes legais e quaisquer colaboradores da concessionária, bem como solicitar-lhes os documentos e outros elementos de informação que entenda necessários ou convenientes;\n\nb) Aceder livremente às instalações da concessionária e proceder à busca, exame, tratamento e recolha de cópias e extratos de documentos e outras informações na posse da concessionária que julgue necessários ou convenientes;\n\nc) Emitir ordens, diretivas ou instruções no âmbito dos poderes de direção e fiscalização.\n\n4 - Sem prejuízo do previsto nos números anteriores, a entidade reguladora do setor exerce os poderes de fiscalização sobre a concessão e a atividade da concessionária que lhe sejam atribuídos nos termos da legislação aplicável."
+  },
+  "152944973": {
+   "fragment_id": "153013388",
+   "type": 2,
+   "heading": "Base XXIV — Deveres de informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIV — Deveres de informação\n\nA concessionária envia todos os anos ao concedente e ao Conselho Consultivo previsto na base XXVII, quando exista, até ao termo do primeiro semestre do ano seguinte àquele a que respeita o exercício considerado, os documentos contabilísticos para o efeito indicados no contrato de concessão, os quais devem respeitar a apresentação formal que tiver sido definida e estar certificados por auditor aceite pela entidade reguladora do setor."
+  },
+  "152944974": {
+   "fragment_id": "153013389",
+   "type": 2,
+   "heading": "Base XXV — Objetivos de serviço público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXV — Objetivos de serviço público\n\n1 - Compete ao concedente a definição de objetivos de serviço público a cumprir pela concessionária, em vista de uma gestão eficiente do sistema e da atividade concessionada, da universalidade no acesso e da continuidade e qualidade de serviço, tendo em conta os normativos nacionais e europeus aplicáveis.\n\n2 - Os objetivos referidos no número anterior incidem sobre:\n\na) O cumprimento de metas aplicáveis à gestão de resíduos urbanos, através, nomeadamente, da manutenção da rede de recolha seletiva multimaterial e da triagem de materiais recicláveis para valorização e reutilização, assegurando:\n\ni) A reciclagem de resíduos de embalagem, definida nos termos do Sistema Integrado de Gestão de Resíduos de Embalagem (SIGRE), aprovado pelo Decreto-Lei n.º 366-A/97, de 20 de dezembro;\n\nii) O desvio de resíduos urbanos biodegradáveis de aterro nos termos definidos no Plano Estratégico para os Resíduos Urbanos (PERSU 2020), ou na sua revisão que se encontre em vigor ao longo da vigência da concessão, para cada sistema multimunicipal;\n\niii) A contribuição para reciclagem dos resíduos urbanos tratados em 2020, nos termos do disposto na alínea a) do n.º 6 do artigo 7.º do Decreto-Lei n.º 178/2006, de 5 de setembro, alterado pelos Decretos-Leis n.os 173/2008, de 26 de agosto, 64-A/2008, de 31 de dezembro, 183/2009, de 10 de agosto, 73/2011, de 17 de junho, e 127/2013, de 30 de agosto e do PERSU 2020 para cada sistema multimunicipal.\n\nb) A garantia da continuidade do serviço, em termos de:\n\ni) Número de dias de laboração adequados ao tratamento da totalidade dos resíduos recebidos para tratamento;\n\nii) Número máximo admissível de horas de indisponibilidade de receção de resíduos;\n\niii) Capacidade permanente para receber a totalidade dos resíduos urbanos entregues pelos utilizadores do sistema mediante a disponibilização de capacidade permanente de encaixe em aterro e de capacidade permanente das respetivas instalações e equipamentos associados, móveis e fixos;\n\niv) Garantia, ao longo de toda a vigência da concessão, de operacionalidade plena de todas as infraestruturas e equipamentos (incineradora, tratamento mecânico e tratamento mecânico e biológico, centrais de triagem, estações de transferência e ecocentros) para funcionamento durante determinado período.\n\nc) Modo da prestação do serviço, relativamente a:\n\ni) Recolha seletiva;\n\nii) Campanhas de sensibilização;\n\niii) Garantia de certificação em matéria de qualidade, ambiente e segurança.\n\n3 - A definição dos objetivos previstos na alínea a) do número anterior deve assegurar o cumprimento das metas fixadas pela legislação nacional e europeia, no que respeita ao desvio de resíduos urbanos biodegradáveis de aterro, na preparação para reutilização e reciclagem de materiais, nas retomas de recolha seletiva de embalagens e na diminuição de deposição em aterro.\n\n4 - Para efeitos de cumprimento das metas de preparação para reutilização e das de reciclagem de materiais de embalagem devem, nos termos previstos na lei, ser consideradas conjuntamente as embalagens provenientes da recolha seletiva e as que tenham origem na recuperação de resíduos urbanos indiferenciados e sujeitos a processo de tratamento mecânico.\n\n5 - A quantificação e calendarização dos valores a atingir, relativamente aos objetivos a que se referem os números anteriores, consta de anexo ao contrato de concessão.\n\n6 - Ao longo da vigência do contrato de concessão, o concedente pode definir objetivos de serviço público diferentes dos previstos no n.º 2, bem como rever os valores a atingir e respetiva calendarização a que se refere número anterior.\n\n7 - O exercício dos poderes referidos no número anterior confere à concessionária o direito à reposição do equilíbrio económico-financeiro da concessão, nos termos previstos na base XLVIII.\n\n8 - Compete ao concedente a monitorização do cumprimento pela concessionária dos objetivos de serviço público, bem como a definição da informação que para esse efeito lhe deve ser prestada por aquela.\n\n9 - O incumprimento dos objetivos de serviço público pela concessionária dá lugar à aplicação de sanções pecuniárias, nos termos e com os limites previstos na base XLII.\n\n10 - Salvo em caso de força maior nos termos previstos na base XLI, a concessionária, sempre que ocorra a impossibilidade de assegurar a receção e o tratamento dos resíduos urbanos nos termos previstos no Contrato, com prejuízo da garantia da continuidade do serviço e do cumprimento da legislação aplicável, dos objetivos de serviço público definidos e dos parâmetros de sanidade e qualidade ambiental exigíveis, deve promover a entrega e o tratamento dos resíduos urbanos noutro sistema de tratamento de resíduos, com capacidade para o efeito e tendo em conta a minimização dos custos associados, até que seja restabelecida a normalidade do funcionamento do sistema por si gerido.\n\n11 - Os encargos relativos à entrega e o tratamento dos resíduos urbanos noutro sistema de tratamento de resíduos previstos no número anterior são suportados pela concessionária, sem prejuízo de regime diferente estabelecido legal ou contratualmente.\n\n12 - Nos casos em que a situação prevista no n.º 10 ocorra no sistema multimunicipal gerido por outra entidade gestora, a concessionária fica autorizada a receber e a tratar os resíduos gerados nesse sistema durante o período previsto no n.º 10."
+  },
+  "153013475": {
+   "fragment_id": "153013390",
+   "type": 2,
+   "heading": "Base XXVI — Investimentos da concessionária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVI — Investimentos da concessionária\n\n1 - Antes do início da realização de investimentos em novas infraestruturas de resíduos urbanos incluídas no plano de investimentos aprovado pela entidade reguladora do setor e em requalificação de quaisquer infraestruturas, desde que, em qualquer dos casos, o montante do investimento seja superior a (euro) 1 000 000, a concessionária deve submeter o respetivo projeto base a autorização do concedente.\n\n2 - A concessionária obriga-se a construir as infraestruturas previstas na presente base em conformidade com o projeto base autorizado nos termos do número anterior."
+  },
+  "153013476": {
+   "fragment_id": "153013391",
+   "type": 2,
+   "heading": "Base XXVII — Conselho Consultivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVII — Conselho Consultivo\n\n1 - Nos decretos-lei de criação de cada sistema multimunicipal é criado um Conselho Consultivo, ao qual compete o acompanhamento da atividade geral da concessionária, designadamente dos níveis de serviço praticados e da gestão das infraestruturas afetas à concessão.\n\n2 - O Conselho Consultivo pode, por sua iniciativa ou quando tal lhe seja solicitado pelo concedente, aprovar, por maioria dos membros presentes, pareceres não vinculativos nas matérias da sua competência, designadamente nas seguintes:\n\na) Autorização das atividades complementares nos termos da base VII;\n\nb) Atos que, nos termos das alíneas a), c), e) e f) do n.º 2 da base XXII, carecem de autorização do concedente;\n\nc) Resolução do contrato de concessão na sequência de caso de força maior, nos termos da base XLI;\n\nd) Aplicação de sanções pecuniárias à concessionária, nos termos da base XLII;\n\ne) Sequestro da concessão, nos termos da base XLIII;\n\nf) Modificação unilateral do contrato por interesse público, nos termos da base XLVI;\n\ng) Modificação da concessão por acordo, nos termos da base XLVII;\n\nh) Resolução do contrato com fundamento em incumprimento da concessionária, nos termos da base XLIX;\n\ni) Resgate da concessão, nos termos da base L.\n\n3 - Fazem parte do Conselho Consultivo, por inerência, os presidentes das câmaras municipais dos utilizadores do sistema gerido pela concessionária, bem como os membros do conselho de administração e o fiscal único desta.\n\n4 - O Conselho Consultivo reúne trimestralmente mediante convocatória do presidente do conselho de administração, e extraordinariamente sempre que convocado para o efeito pelo presidente do conselho de administração ou por pelo menos 1/3 dos utilizadores do sistema."
+  },
+  "153013477": {
+   "fragment_id": "153013392",
+   "type": 2,
+   "heading": "Base XXVIII — Regulamentos de tratamento dos resíduos urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXVIII — Regulamentos de tratamento dos resíduos urbanos\n\n1 - Os regulamentos de tratamento dos resíduos urbanos são elaborados pela concessionária e submetidos a parecer não vinculativo dos municípios utilizadores, a emitir no prazo de 60 dias.\n\n2 - Após o parecer referido no número anterior ou findo o prazo para a sua emissão, aqueles regulamentos são submetidos a aprovação da entidade reguladora do setor, a qual se considera concedida se não for expressamente recusada no prazo de 60 dias.\n\n3 - Os procedimentos referidos no número anterior são igualmente aplicáveis às modificações posteriores dos mesmos regulamentos.\n\n4 - Os regulamentos são disponibilizados no sítio na Internet da concessionária."
+  },
+  "153013478": {
+   "fragment_id": "153013393",
+   "type": 2,
+   "heading": "Base XXIX — Responsabilidade civil extracontratual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXIX — Responsabilidade civil extracontratual\n\nA concessionária é responsável, nos termos gerais de direito, por quaisquer prejuízos causados ao concedente ou a terceiros, pela culpa ou pelo risco, no exercício da atividade objeto da concessão, sem prejuízo dos casos de exclusão de responsabilidade previstos nas presentes bases ou na lei."
+  },
+  "153013479": {
+   "fragment_id": "153013394",
+   "type": 2,
+   "heading": "Base XXX — Medição e faturação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXX — Medição e faturação\n\n1 - Os resíduos urbanos a tratar pela concessionária são pesados no ponto de entrega acordado com cada utilizador do sistema multimunicipal, devendo ser registados os valores diários para cada um deles, podendo ser consideradas as origens e características dos resíduos entregues, desde que tal se encontre previsto nos contratos de entrega e receção de resíduos urbanos.\n\n2 - As faturas a emitir pela concessionária têm uma periodicidade mensal, um prazo de pagamento de 60 dias e, se tal tiver sido acordado no contrato de entrega e receção, incluem em anexo os registos mencionados no número anterior referentes ao período a que as mesmas respeitem.\n\n3 - Às dívidas dos utilizadores em mora é aplicável o regime dos juros comerciais bem como um prazo de prescrição de dois anos após a emissão das respetivas faturas.\n\n4 - Sem prejuízo do regime previsto na presente base, os utilizadores podem acordar com a concessionária procedimentos relacionados com a medição e faturação."
+  },
+  "153013480": {
+   "fragment_id": "153013395",
+   "type": 2,
+   "heading": "Base XXXI — Concessão do sistema de recolha de resíduos urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXI — Concessão do sistema de recolha de resíduos urbanos\n\n1 - A concessionária não se pode opor à transmissão da posição contratual de cada um dos municípios utilizadores para uma concessionária do respetivo sistema municipal de recolha e transporte de resíduos urbanos.\n\n2 - Em caso de transmissão da posição contratual de municípios utilizadores, estes respondem subsidiariamente com o cessionário respetivo perante a concessionária."
+  },
+  "153013481": {
+   "fragment_id": "153013396",
+   "type": 2,
+   "heading": "Base XXXII — Caução referente à exploração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXII — Caução referente à exploração\n\n1 - A concessionária deve prestar em benefício do concedente uma caução destinada a garantir o cumprimento de todas as obrigações que para si emergem do contrato de concessão.\n\n2 - O valor da caução prevista no número anterior e o momento em que deve ocorrer a sua prestação são fixados nos decretos-lei de criação dos sistemas multimunicipais.\n\n3 - A caução deve ser prestada por garantia bancária autónoma, incondicional, irrevogável e à primeira solicitação, contratada com instituição autorizada pelo Banco de Portugal, ou mediante depósito em dinheiro, efetuado em Portugal, em qualquer instituição de crédito, à ordem do concedente, devendo ser especificado o fim a que se destina.\n\n4 - A execução total ou parcial da caução obriga a concessionária a proceder à imediata renovação do respetivo valor.\n\n5 - A caução é liberada nos termos previstos na base LIV.\n\n6 - Esta garantia substitui a garantia financeira prevista no artigo 24.º do Decreto-Lei n.º 183/2009, de 10 de agosto, alterado pelos Decretos-Leis n.os 84/2011, de 20 de junho, e 88/2013, de 9 de setembro, a que a concessionária esteja obrigada."
+  },
+  "153013482": {
+   "fragment_id": "153013397",
+   "type": 2,
+   "heading": "Base XXXIII — Seguros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIII — Seguros\n\n1 - A concessionária deve contratar e manter subsequentemente em vigor as apólices de seguro necessárias para a cobertura da totalidade dos riscos da concessão, de acordo com o disposto na legislação aplicável, em observância das práticas vigentes no mercado segurador.\n\n2 - As apólices de seguro a que se refere o número anterior, bem como os montantes que devem ser cobertos pelas mesmas, devem ser aprovadas pelo concedente.\n\n3 - Os seguros referidos nos números anteriores vigoram até à extinção da concessão, obrigando-se a concessionária a manter válidas e atualizadas as respetivas apólices e a exibi-las sempre que o concedente o exija."
+  },
+  "153013483": {
+   "fragment_id": "153013398",
+   "type": 2,
+   "heading": "Base XXXIV — Diagnóstico ambiental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIV — Diagnóstico ambiental\n\nNo termo da concessão, a concessionária deve apresentar ao concedente um diagnóstico ambiental realizado no último ano da concessão relativamente às principais instalações operacionais afetas à concessão, de acordo com as normas internacionais aplicáveis e nos termos estabelecidos no contrato de concessão."
+  },
+  "153013484": {
+   "fragment_id": "153013399",
+   "type": 2,
+   "heading": "Base XXXV — Atualização de valores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXV — Atualização de valores\n\nOs valores monetários previstos no presente capítulo são atualizados nas condições que vierem a ser definidas no contrato de concessão."
+  },
+  "153013485": {
+   "fragment_id": "153013400",
+   "type": 1,
+   "heading": "Capítulo VI — Construção das infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Construção das infraestruturas"
+  },
+  "153013486": {
+   "fragment_id": "153013401",
+   "type": 2,
+   "heading": "Base XXXVI — Utilização do domínio público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXVI — Utilização do domínio público\n\nA concessionária tem o direito de utilizar o domínio público do Estado ou dos municípios utilizadores, para efeitos de implantação e exploração das infraestruturas da concessão, nos termos previstos na legislação aplicável."
+  },
+  "153013487": {
+   "fragment_id": "153013402",
+   "type": 2,
+   "heading": "Base XXXVII — Servidões e expropriações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXVII — Servidões e expropriações\n\nA concessionária pode, atuando em nome do concedente, constituir as servidões e requerer as expropriações necessárias à implantação e exploração das infraestruturas, nos termos da legislação aplicável, correndo por conta da concessionária o pagamento das indemnizações a que houver lugar."
+  },
+  "153013488": {
+   "fragment_id": "153013403",
+   "type": 2,
+   "heading": "Base XXXVIII — Responsabilidade pela conceção, projeto e construção das infraestruturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXVIII — Responsabilidade pela conceção, projeto e construção das infraestruturas\n\n1 - Constitui encargo e é da responsabilidade da concessionária a conceção, o projeto e a construção das instalações e a aquisição dos equipamentos necessários, em cada momento, à exploração da concessão.\n\n2 - A concessionária responde perante o concedente por eventuais defeitos de conceção, de projeto, de construção ou dos equipamentos."
+  },
+  "153013489": {
+   "fragment_id": "153013404",
+   "type": 2,
+   "heading": "Base XXXIX — Aprovação dos projetos de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XXXIX — Aprovação dos projetos de construção\n\n1 - Os projetos de construção das infraestruturas, bem como as respetivas alterações, devem ser elaborados com respeito pela regulamentação vigente e devem ser submetidos a aprovação prévia das entidades competentes.\n\n2 - Sem prejuízo do disposto número anterior os projetos de construção devem ser submetidos a parecer prévio não vinculativo da câmara municipal territorialmente competente, nos termos do n.º 2 do artigo 7.º do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro."
+  },
+  "153013490": {
+   "fragment_id": "153013405",
+   "type": 1,
+   "heading": "Capítulo VII — Incumprimento do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Incumprimento do contrato"
+  },
+  "153013491": {
+   "fragment_id": "153013406",
+   "type": 2,
+   "heading": "Base XL — Responsabilidade da concessionária por incumprimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XL — Responsabilidade da concessionária por incumprimento\n\n1 - A violação pela concessionária de qualquer das obrigações assumidas no contrato de concessão fá-la incorrer em responsabilidade perante o concedente.\n\n2 - Sem prejuízo do disposto nas presentes bases, ao incumprimento do contrato de concessão pela concessionária é aplicável o disposto no Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro."
+  },
+  "153013492": {
+   "fragment_id": "153013407",
+   "type": 2,
+   "heading": "Base XLI — Força maior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLI — Força maior\n\n1 - A responsabilidade da concessionária cessa sempre que ocorra caso de força maior, ficando a seu cargo fazer prova da ocorrência.\n\n2 - Consideram-se unicamente casos de força maior os acontecimentos imprevisíveis e irresistíveis cujos efeitos se produzam independentemente da vontade ou das circunstâncias pessoais da concessionária.\n\n3 - Constituem casos de força maior, os atos de guerra, hostilidades ou invasão, terrorismo, epidemias, radiações atómicas, graves inundações, raios, ciclones, tremores de terra e outros cataclismos naturais que afetem a atividade objeto da concessão, não se considerando as greves como casos de força maior.\n\n4 - A concessionária fica obrigada a comunicar ao concedente e aos utilizadores a ocorrência de qualquer evento qualificável como caso de força maior, bem como a indicar, no mais curto prazo possível, quais as obrigações emergentes do contrato de concessão cujo cumprimento, no seu entender, se encontra impedido ou dificultado por força de tal ocorrência e, bem assim, se for o caso, as medidas que tomou ou pretende tomar para fazer face à situação ocorrida a fim de mitigar o impacte do referido evento e os respetivos custos.\n\n5 - A concessionária deve, em qualquer caso, tomar imediatamente as medidas que sejam necessárias para assegurar a retoma normal das obrigações suspensas, constituindo estrita obrigação da concessionária mitigar, por qualquer meio razoável e apropriado ao seu dispor, os efeitos da verificação de um caso de força maior.\n\n6 - A ocorrência de um caso de força maior tem por efeito exonerar a concessionária da responsabilidade pelo não cumprimento das obrigações emergentes do contrato de concessão que sejam afetadas pela ocorrência do mesmo, na estrita medida em que o respetivo cumprimento pontual e atempado tenha sido efetivamente impedido.\n\n7 - A ocorrência de um caso de força maior confere ainda à concessionária o direito à reposição do equilíbrio financeiro da concessão, nos termos da base XLVIII, na parte que não seja coberta pelo seguro contratado, conforme previsto na base XXXIII.\n\n8 - No caso de impossibilidade de cumprimento do contrato de concessão por causa de força maior ou no caso de a reposição do equilíbrio financeiro da concessão se revelar excessivamente onerosa para o concedente, este pode proceder à sua resolução.\n\n9 - Verificando-se a resolução do contrato de concessão nos termos do número anterior, observa-se, nomeadamente, o seguinte:\n\na) O concedente assume os direitos e obrigações da concessionária emergentes dos contratos de financiamento que esta haja celebrado no âmbito da concessão, exceto os relativos a incumprimentos verificados antes da ocorrência do caso de força maior, e desde que tal assunção pelo concedente seja consentida pelas entidades financiadoras;\n\nb) Quaisquer indemnizações pagáveis à concessionária em resultado de casos de força maior, ao abrigo de seguros, devem ser por aquela entregues ao concedente;\n\nc) O concedente entra na posse de todos os bens afetos à concessão e transferem-se para si os bens afetos à concessão propriedade da concessionária e os direitos e relações jurídicas afetos à concessão, nos termos previstos na base LII;\n\nd) Fica a concessionária responsável pelos efeitos da cessação de quaisquer contratos de que seja parte e cuja continuidade o concedente haja recusado.\n\n10 - A resolução do contrato de concessão é comunicada à concessionária por carta registada com aviso de receção e produz imediatamente os seus efeitos sem necessidade de qualquer outra formalidade, sem prejuízo de a concessionária ficar obrigada a assegurar a transição com o menor prejuízo possível para a continuidade do serviço."
+  },
+  "153013493": {
+   "fragment_id": "153013408",
+   "type": 2,
+   "heading": "Base XLII — Sanções pecuniárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLII — Sanções pecuniárias\n\n1 - Sem prejuízo dos demais direitos e prerrogativas de que o concedente disponha nos termos da lei e das presentes bases, o incumprimento pela concessionária das obrigações assumidas no âmbito do contrato de concessão pode ser sancionado com a aplicação de sanções pecuniárias, por decisão do concedente.\n\n2 - Podem ser aplicadas à concessionária sanções pecuniárias pelo incumprimento do disposto no contrato de concessão a respeito das seguintes matérias:\n\na) Objetivos de serviço público, nos termos do disposto na base XXV;\n\nb) Obtenção de autorização do concedente;\n\nc) Conformidade das infraestruturas construídas com o projeto base aprovado, nos termos da base XXXIX;\n\nd) Deveres de informação previstos na base XXIV;\n\ne) Quaisquer outras obrigações a que a concessionária esteja sujeita.\n\n3 - As sanções a aplicar podem variar entre um valor mínimo de 0,1 % e um valor máximo de 20 % do volume de negócios da concessionária relativo ao exercício do ano anterior ao da aplicação da penalidade, em função da gravidade da infração cometida, dos riscos para a segurança do sistema e para a sanidade pública, dos prejuízos resultantes e do grau de culpa e reincidência do infrator.\n\n4 - A aplicação das sanções pecuniárias referidas no número anterior nunca pode exceder, em cada exercício económico, 20 % do volume de negócios da concessionária.\n\n5 - A aplicação de sanções pecuniárias depende de notificação prévia à concessionária pelo concedente, incluindo, se aplicável, instrução para a reparação do incumprimento.\n\n6 - O não cumprimento ou a não reparação integral, pela concessionária, no prazo fixado na notificação referida no número seguinte, pode também conduzir à aplicação de sanções pecuniárias adicionais.\n\n7 - O prazo de reparação do incumprimento é fixado pelo concedente de acordo com critérios de razoabilidade e tem sempre em atenção a defesa do interesse público e a manutenção em funcionamento da concessão.\n\n8 - A sanção aplicada é comunicada por escrito à concessionária, sendo-lhe aplicável o disposto nos n.os 2 e 3 do artigo 308.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro.\n\n9 - As sanções que não forem pagas voluntariamente até 30 dias após a data da notificação podem ser levantadas da caução prestada pela concessionária.\n\n10 - A aplicação de sanções ou sanções pecuniárias compulsórias não prejudica a aplicação de outras sanções contratuais, nem isenta a concessionária de responsabilidade civil, criminal e contraordenacional, em que incorrer perante o concedente ou terceiros.\n\n11 - As sanções pecuniárias não podem concorrer para a determinação dos proveitos permitidos e tarifas."
+  },
+  "153013494": {
+   "fragment_id": "153013409",
+   "type": 2,
+   "heading": "Base XLIII — Sequestro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLIII — Sequestro\n\n1 - Em caso de incumprimento grave pela concessionária de obrigações contratuais, ou estando o mesmo iminente, o concedente pode, mediante sequestro, tomar a seu cargo o desenvolvimento das atividades concedidas.\n\n2 - O sequestro pode ter lugar, designadamente, sempre que se dê, ou se afigure iminente, uma cessação ou interrupção total ou parcial da exploração do serviço ou se verifiquem graves deficiências na respetiva organização ou funcionamento ou no estado geral das instalações e do equipamento suscetíveis de comprometer a regularidade da exploração.\n\n3 - Verificando-se qualquer facto que possa dar lugar ao sequestro da concessão, observar-se-á, com as devidas adaptações, o processo de sanação do incumprimento previsto nos n.os 7 e 8 da base anterior.\n\n4 - A concessionária está obrigada a proceder à entrega da concessão no prazo que lhe seja fixado pelo concedente quando lhe seja comunicada a decisão de sequestro da concessão.\n\n5 - Verificado o sequestro, a concessionária suporta não apenas os encargos resultantes da manutenção dos serviços, mas também quaisquer despesas extraordinárias necessárias ao restabelecimento da normalidade da exploração que não possam ser cobertas pelos resultados da exploração.\n\n6 - O sequestro mantém-se pelo tempo julgado necessário pelo concedente, com o limite máximo de um ano, sendo a concessionária notificada pelo concedente para retomar, no prazo que para tanto lhe for fixado, a normal exploração do serviço.\n\n7 - Se a concessionária não quiser ou não puder retomar a exploração, o concedente pode declarar a imediata resolução do contrato de concessão.\n\n8 - No caso de a concessionária ter retomado a exploração da concessão e de continuarem a verificar-se graves deficiências no mesmo, pode o concedente ordenar novo sequestro ou determinar a imediata resolução do contrato de concessão.\n\n9 - No caso de o concedente não notificar a concessionária para, dentro do prazo máximo do sequestro previsto no n.º 6, retomar a normal exploração do serviço, pode a concessionária resolver o contrato de concessão, nos termos do disposto no artigo 332.º do Código dos Contratos Públicos, aprovado pelo Decreto-Lei n.º 18/2008, de 29 de janeiro."
+  },
+  "153013495": {
+   "fragment_id": "153013410",
+   "type": 1,
+   "heading": "Capítulo VIII — Modificação da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Modificação da concessão"
+  },
+  "153013496": {
+   "fragment_id": "153013411",
+   "type": 2,
+   "heading": "Base XLIV — Trespasse da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLIV — Trespasse da concessão\n\n1 - A concessionária não pode, sem autorização do concedente, onerar, trespassar ou transmitir, por qualquer forma, no todo ou em parte, a concessão ou realizar qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indireto, idênticos resultados.\n\n2 - O disposto no número anterior não prejudica a necessidade de cumprimento dos requisitos legais aplicáveis à cessão da posição contratual da concessionária no contrato de concessão, em vigor à data da operação em causa, designadamente no domínio da contratação pública.\n\n3 - Os atos praticados ou os contratos celebrados em violação do disposto nos números anteriores são nulos e desprovidos de quaisquer efeitos jurídicos, sem prejuízo de outras sanções aplicáveis.\n\n4 - No caso de trespasse autorizado, consideram-se transmitidos para a trespassária os direitos e obrigações da trespassante, assumindo ainda a trespassária as obrigações e encargos que eventualmente venham a ser-lhe impostos como condição de autorização do trespasse.\n\n5 - A concessionária é responsável pela transferência integral dos seus direitos e obrigações para o trespassário, incluindo as obrigações incertas, ilíquidas ou inexigíveis à data do trespasse, em termos em que não seja afetada ou interrompida a prestação do serviço público concessionado."
+  },
+  "153013497": {
+   "fragment_id": "153013412",
+   "type": 2,
+   "heading": "Base XLV — Subconcessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLV — Subconcessão\n\n1 - A concessionária não pode, salvo havendo autorização do concedente e desde que cumpridos os requisitos legais em vigor à data da subcontratação e relativos a esta, subconceder, no todo ou em parte, a concessão.\n\n2 - O consentimento referido no número anterior, deve, sob pena de nulidade, ser prévio, expresso e inequívoco.\n\n3 - No caso de haver lugar a uma subconcessão devidamente autorizada, a concessionária mantém os direitos e continua sujeita às obrigações emergentes do contrato de concessão."
+  },
+  "153013498": {
+   "fragment_id": "153013413",
+   "type": 2,
+   "heading": "Base XLVI — Modificação unilateral por interesse público",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLVI — Modificação unilateral por interesse público\n\n1 - Com o objetivo de assegurar a permanente adequação da concessão às exigências de política ambiental e à regularidade, eficiência e continuidade do serviço público, o concedente reserva-se o direito de alterar as condições da sua exploração, nos termos da lei e das presentes bases.\n\n2 - Quando, por efeito do disposto no número anterior, se alterarem as condições de exploração, há lugar à reposição do equilíbrio económico-financeiro do contrato, nos termos da base XLVIII."
+  },
+  "153013499": {
+   "fragment_id": "153013414",
+   "type": 2,
+   "heading": "Base XLVII — Modificação da concessão por acordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLVII — Modificação da concessão por acordo\n\nSem prejuízo do disposto na base anterior, o contrato de concessão apenas pode ser alterado por acordo entre concedente e concessionária nos termos gerais."
+  },
+  "153013500": {
+   "fragment_id": "153013415",
+   "type": 2,
+   "heading": "Base XLVIII — Reposição do equilíbrio económico e financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLVIII — Reposição do equilíbrio económico e financeiro\n\n1 - Tendo em atenção a distribuição de riscos estabelecida no contrato de concessão, a concessionária tem direito à reposição do equilíbrio económico e financeiro da concessão nos seguintes casos:\n\na) Modificação unilateral, imposta pelo concedente, das condições de exploração da concessão, nos termos previstos na base XLVI, designadamente a alteração dos objetivos de serviço público, nos termos da Base XXV;\n\nb) Aprovação pelo concedente do despacho previsto no n.º 10 do artigo 5.º do decreto-lei que aprova as presentes bases;\n\nc) Alterações normativas de caráter específico, com exceção das alterações de natureza fiscal e ambiental, que tenham um impacto nas atividades integradas na concessão, designadamente alterações legislativas aplicáveis à atividade concessionada e que não estejam cobertas pelos riscos assumidos pela concessionária;\n\nd) Ocorrência de casos de força maior nos termos da base XLI, exceto se, em resultado dos mesmos, se verificar a resolução do contrato de concessão nos termos do n.º 6 da mesma base;\n\ne) Quando o direito de aceder à reposição do equilíbrio económico e financeiro da concessão é expressamente previsto nas presentes bases e no contrato de concessão.\n\n2 - Nos casos previstos no número anterior, a concessionária apenas tem direito à reposição do equilíbrio económico e financeiro da concessão na medida em que o impacto dos referidos eventos cause um aumento de custos ou perda de receitas da concessionária que exceda 2 % do respetivo volume de negócios no ano económico imediatamente anterior ao da respetiva verificação e que não seja suscetível de consideração no âmbito do regime de determinação dos proveitos reconhecidos à concessionária nos termos previstos na base XVIII.\n\n3 - Sempre que haja lugar à reposição do equilíbrio económico e financeiro da concessão, tal reposição pode ter lugar através de uma das seguintes modalidades:\n\na) Prorrogação do prazo da concessão;\n\nb) Atribuição de compensação direta pelo concedente;\n\nc) Combinação das modalidades anteriores ou qualquer outra forma que seja acordada."
+  },
+  "153013501": {
+   "fragment_id": "153013416",
+   "type": 1,
+   "heading": "Capítulo IX — Extinção da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Extinção da concessão"
+  },
+  "153013502": {
+   "fragment_id": "153013417",
+   "type": 2,
+   "heading": "Base XLIX — Resolução do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base XLIX — Resolução do contrato\n\n1 - O concedente pode resolver o contrato em caso de ocorrência de situações de grave violação, não sanada ou não sanável, das obrigações contratuais assumidas pela concessionária.\n\n2 - Sem prejuízo dos demais casos previstos na lei e no contrato, o concedente pode resolver o contrato, nomeadamente, nos seguintes casos:\n\na) Desvio do objeto da concessão;\n\nb) Interrupção prolongada da exploração por facto imputável à concessionária;\n\nc) Oposição reiterada ao exercício da fiscalização ou repetida desobediência às determinações do concedente ou, ainda, sistemática inobservância das leis e regulamentos aplicáveis à exploração;\n\nd) Recusa em proceder à adequada conservação e reparação das infraestruturas;\n\ne) Cobrança reiterada de valores superiores aos fixados nos contratos de concessão e nos contratos celebrados com os utilizadores;\n\nf) Dissolução ou insolvência da concessionária;\n\ng) Trespasse da concessão ou subconcessão não autorizadas;\n\nh) Alienação não autorizada de participações no capital da concessionária;\n\ni) Oneração de participações no capital da concessionária em inobservância do disposto no contrato de concessão;\n\nj) Aumento ou redução não autorizados, quando aplicável, do capital social da concessionária;\n\nk) Falta de prestação da caução ou de renovação do respetivo valor nos termos e prazos previstos;\n\nl) Recusa ou impossibilidade da concessionária em retomar a concessão nos termos do disposto no n.º 7 da base XLIII ou, quando o tiver feito, continuação das situações que motivaram o sequestro;\n\nm) Incumprimento voluntário de decisões judiciais ou arbitrais transitadas em julgado;\n\nn) Atividade fraudulenta destinada a lesar o interesse público.\n\n3 - Sem prejuízo do disposto no n.º 6 da base XLI, não constituem causas de resolução os factos ocorridos por motivos de força maior e os que o concedente aceite como justificados.\n\n4 - Verificando-se um dos fundamentos de resolução do contrato, o concedente deve notificar a concessionária para, no prazo que razoavelmente lhe seja fixado, cumprir integralmente as suas obrigações e corrigir ou reparar as consequências dos seus atos, exceto quando se trate de uma violação não sanável.\n\n5 - Caso a concessionária não cumpra as suas obrigações ou não corrija ou repare as consequências do incumprimento nos termos determinados pelo concedente, este pode resolver o contrato de concessão.\n\n6 - A resolução do contrato de concessão é comunicada à concessionária por carta registada com aviso de receção e produz imediatamente os seus efeitos sem necessidade de qualquer outra formalidade.\n\n7 - Ocorrendo a resolução prevista na presente base, o concedente entra na posse de todos os bens afetos à concessão e transferem-se para si os bens que sejam propriedade da concessionária, os direitos e relações jurídicas afetos à concessão, nos termos previstos na base LII, sem que a concessionária tenha direito a qualquer indemnização.\n\n8 - O disposto na presente base não prejudica o direito de indemnização do concedente nos termos gerais.\n\n9 - A concessionária pode resolver o contrato de concessão por motivo imputável ao concedente nos termos previstos na legislação aplicável."
+  },
+  "153013503": {
+   "fragment_id": "153013418",
+   "type": 2,
+   "heading": "Base L — Resgate da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base L — Resgate da concessão\n\n1 - O concedente pode resgatar a concessão, assumindo a gestão direta do serviço público concedido, sempre que motivos de interesse público o justifiquem e decorrido que seja pelo menos dois terços do prazo contratual, mediante aviso prévio feito à concessionária, por carta registada com aviso de receção, com, pelo menos, um ano de antecedência relativamente à data de produção de efeitos do resgate.\n\n2 - Na data de produção de efeitos do resgate, o concedente entra na posse de todos os bens afetos à concessão, aplicando-se o regime previsto na base LII.\n\n3 - Pelo resgate o concedente assume automaticamente todos os direitos e obrigações da concessionária e a titularidade de todas as relações jurídicas no âmbito da concessão, incluindo as relativas ao investimento, financiamento e exploração emergentes dos contratos outorgados anteriormente à notificação referida no n.º 1, incluindo todas as obrigações assumidas pela concessionária no âmbito dos contratos de financiamento, desde que tal assunção pelo concedente seja consentida pelas entidades financiadoras.\n\n4 - O concedente não é responsável pelas obrigações que estejam em incumprimento pela concessionária à data do resgate.\n\n5 - As obrigações assumidas pela concessionária após a notificação referida no n.º 1 apenas vinculam o concedente quando este haja autorizado, prévia e expressamente, a sua assunção.\n\n6 - Em caso de resgate, a concessionária tem direito a uma indemnização correspondente ao somatório das seguintes parcelas:\n\na) Produto da média dos resultados líquidos, antes de impostos, relativas às atividades afetas à concessão dos três últimos exercícios económicos anteriores à notificação do resgate, expurgados de proveitos ou custos não recorrentes, pelo número de anos que restem para o termo da concessão;\n\nb) Valor dos ativos fixos afetos à concessão, líquidos de amortizações e subsídios, à data do resgate, determinado com base nas contas do último exercício económico, relevantes para efeitos do reconhecimento à concessionária dos proveitos permitidos previstos na base XVIII, deduzido do passivo que, nos termos do n.º 3, tenha sido transferido para a responsabilidade do concedente reportado à mesma data;\n\nc) Valor dos créditos existentes sobre os utilizadores à data do resgate.\n\n7 - Para efeitos do disposto na alínea c) do número anterior, todos os créditos detidos pela concessionária sobre os utilizadores, na data do resgate, transitam para o concedente.\n\n8 - A indemnização prevista no n.º 6 é determinada por terceira entidade independente, escolhida por acordo entre o concedente e a concessionária.\n\n9 - No prazo de seis meses a contar da determinação do montante de indemnização prevista no número anterior, o concedente deve depositar tal montante à ordem da concessionária, em instituição bancária por esta indicada para o efeito, sem prejuízo do disposto no n.º 2 da base LIII.\n\n10 - O crédito da concessionária previsto no n.º 6 deve ser compensado com as dívidas ao concedente por multas contratuais e a título de indemnizações por prejuízos causados."
+  },
+  "153013504": {
+   "fragment_id": "153013419",
+   "type": 2,
+   "heading": "Base LI — Caducidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base LI — Caducidade\n\nA concessão caduca pelo decurso do respetivo prazo."
+  },
+  "153013505": {
+   "fragment_id": "153013420",
+   "type": 2,
+   "heading": "Base LII — Termo do prazo de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base LII — Termo do prazo de concessão\n\n1 - Sem prejuízo do previsto no artigo 10.º do Decreto-Lei n.º 92/2013, de 11 de julho, no termo da concessão, os bens afetos à concessão que sejam propriedade da concessionária transferem-se, livres de quaisquer ónus ou encargos e em perfeitas condições de operacionalidade, utilização e manutenção, sem qualquer pagamento para além do disposto no n.º 5, para uma entidade intermunicipal ou associação de municípios para a realização de fins especiais, representativa de todos os municípios utilizadores do sistema multimunicipal, ou, para o conjunto desses municípios utilizadores, mediante o exercício do respetivo direito de opção e o pagamento à concessionária do valor a que esta tenha direito, nos termos do n.º 5.\n\n2 - Para efeitos do disposto no número anterior, no prazo de 18 meses antes do termo da concessão, o concedente notifica a entidade intermunicipal ou associação de municípios para a realização de fins especiais ou cada um dos municípios utilizadores, para exercerem o direito de opção, mediante o envio de ofício registado e com aviso de receção expedido no prazo de seis meses a contar da receção da notificação do concedente.\n\n3 - Na notificação referida no número anterior, o concedente comunica também a necessidade de proceder ao pagamento à concessionária do montante global a apurar nos termos do n.º 5.\n\n4 - No caso de não exercício do direito de opção nos termos previstos no n.º 2, ou de falta de pagamento à concessionária, até ao termo da concessão, do montante previsto no n.º 5, os bens previstos no n.º 1 transferem-se para o Estado, devendo, nesse caso, aquele montante ser pago pelo Estado à concessionária no prazo de 90 dias a contar do termo da concessão.\n\n5 - No termo da concessão, a concessionária tem direito ao valor dos ativos fixos líquidos de amortizações e subsídios, que corresponde ao valor da base de ativos regulados, tal como determinado nos termos do regulamento tarifário aplicável, calculado por referência ao último dia da concessão, sem prejuízo do disposto no n.º 2 da base LIII.\n\n6 - No termo da concessão, o Estado ou os municípios, conforme aplicável, entram na posse dos bens da concessionária afetos à concessão, sem dependência de qualquer formalidade que não seja uma vistoria ad perpetuam rei memoriam, para a qual são convocados os representantes da concessionária.\n\n7 - Do auto de vistoria deve constar obrigatoriamente o inventário dos bens e equipamentos afetos à concessão, assim como a descrição do seu estado de conservação e da respetiva aptidão para o desempenho da sua função no sistema.\n\n8 - No termo da concessão, transferem-se para a entidade transmissária dos bens a que se referem os números anteriores os direitos e as relações jurídicas referidos no n.º 3 da base XI suscetíveis de se prolongar para além do termo da concessão, nos termos previstos nos números seguintes.\n\n9 - À exceção das relações jurídicas laborais, a entidade transmissária dos bens a que se refere o número anterior tem o direito de, sem quaisquer custos, recusar a continuidade das relações jurídicas afetas à concessão.\n\n10 - A concessionária deve, durante o penúltimo ano de vigência do contrato, notificar a entidade transmissária para, num prazo de 180 dias, exercer o direito referido no número anterior.\n\n11 - No que respeita às relações jurídicas laborais, a entidade transmissária dos bens aceita o pessoal da concessionária, dentro dos limites do quadro de pessoal existente à data da notificação prevista no número anterior, suportando os custos em que venha a incorrer no caso de pretender cessar os contratos, salvo se tais custos forem considerados injustificados ou desproporcionados pela entidade reguladora do setor, caso em que devem ser suportados pela concessionária."
+  },
+  "153013506": {
+   "fragment_id": "153013421",
+   "type": 2,
+   "heading": "Base LIII — Garantia referente ao termo da concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base LIII — Garantia referente ao termo da concessão\n\n1 - No termo da concessão, independentemente do motivo que lhe der causa, a concessionária deve assegurar adequados níveis de operacionalidade, utilização e manutenção dos bens e meios afetos à concessão.\n\n2 - Como garantia da obrigação prevista no número anterior, é retido 10 % do valor devido à concessionária nos termos do n.º 9 da base L e do n.º 5 da base anterior."
+  },
+  "153013507": {
+   "fragment_id": "153013422",
+   "type": 2,
+   "heading": "Base LIV — Liberação das garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base LIV — Liberação das garantias\n\n1 - A caução prevista na base XXXII é liberada nos seguintes termos:\n\na) 50 % do respetivo valor é liberado, no termo da concessão;\n\nb) O valor remanescente deve ser liberado decorrido um ano sobre o termo da concessão.\n\n2 - A liberação da caução prevista no número anterior efetiva-se mediante comunicação dirigida pelo concedente aos respetivos depositários ou emitentes.\n\n3 - O valor retido a que se refere a base anterior deve ser pago nos termos seguintes:\n\na) 50 %, decorrido um ano após o termo da concessão;\n\nb) 50 %, decorridos dois anos após o termo da concessão."
+  },
+  "153013508": {
+   "fragment_id": "153013423",
+   "type": 1,
+   "heading": "Capítulo X — Contencioso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Contencioso"
+  },
+  "153013509": {
+   "fragment_id": "153013424",
+   "type": 2,
+   "heading": "Base LV — Arbitragem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Base LV — Arbitragem\n\nNos litígios emergentes do contrato de concessão pode o Estado celebrar convenções de arbitragem."
+  },
+  "152944943": {
+   "fragment_id": "152850658",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 8 de maio de 2014. - Pedro Passos Coelho - Maria Luís Casanova Morgado Dias de Albuquerque - Artur Álvaro Laureano Homem da Trindade.\n\nPromulgado em 19 de junho de 2014.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 20 de junho de 2014.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "153013510": {
+   "fragment_id": "153013386",
+   "type": 2,
+   "heading": "Base XXII — Poderes do concedente",
+   "in_force_from": "2021-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 429.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+   ],
+   "markdown": "###### Base XXII — Poderes do concedente\n\n1 - Sem prejuízo de outros poderes conferidos pelas presentes bases ou pela lei, compete ao concedente:\n\na) A direção e fiscalização do cumprimento das leis, regulamentos aplicáveis e cláusulas do contrato de concessão;\n\nb) A definição de objetivos de serviço público;\n\nc) Aprovar o plano de investimentos das concessionárias, ouvidas a autoridade nacional de resíduos e a entidade reguladora do setor;\n\nd) A resolução do contrato por impossibilidade de cumprimento pela concessionária das obrigações contratuais em casos de força maior;\n\ne) A resolução do contrato com fundamento em grave violação pela concessionária das suas obrigações contratuais;\n\nf) O sequestro da atividade em caso de incumprimento grave, efetivo ou iminente, pela concessionária das obrigações contratuais;\n\ng) A modificação unilateral das condições de exploração da concessão com fundamento em interesse público;\n\nh) O resgate da concessão por interesse público.\n\n2 - Sem prejuízo de outros casos referidos nas presentes bases ou na lei, carecem de autorização do concedente, ouvido, quando exista, o Conselho Consultivo previsto na base XXVII e nos casos aí definidos, os seguintes atos:\n\na) A oneração ou transmissão dos bens imóveis e direitos afetos à concessão;\n\nb) A transmissão de bens da propriedade da concessionária de valor líquido contabilístico superior a (euro) 250 000;\n\nc) A redução e o aumento do capital social da concessionária e a oneração e a transmissão de ações, nos termos previstos no n.º 1 da base VIII;\n\nd) As deliberações da concessionária relativas à alteração do objeto social e à transformação, fusão, cisão ou dissolução da sociedade;\n\ne) O exercício de atividades complementares;\n\nf) A oneração, subconcessão, trespasse ou transmissão, por qualquer forma, no todo ou em parte, da concessão ou realização de qualquer negócio jurídico que vise atingir ou tenha por efeito, mesmo que indireto, idênticos resultados;\n\ng) A concessão de empréstimos pela concessionária, ainda que a título oneroso, a terceiros;\n\nh) O projeto base relativo a investimentos em infraestruturas, nos termos da base XXVI;\n\ni) Outras situações previstas no contrato de concessão.\n\n3 - Os poderes do concedente referidos nas presentes bases ou outros relacionados com os sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos que lhe forem conferidos por lei são exercidos pelo membro do Governo responsável pela área do ambiente.\n\n4 - Os atos da concessionária dependentes de autorização do concedente consideram-se autorizados na falta de decisão proferida no prazo de 120 dias a contar da data de apresentação do pedido de autorização, salvo prazo diferente estabelecido nas presentes bases.\n\n> Alterado pelo/a Artigo 429.º do/a [Lei n.º 75-B/2020 - Diário da República n.º 253/2020, 1º Suplemento, Série I de 2020-12-31](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), em vigor a partir de 2021-01-01"
+  }
+ }
+}

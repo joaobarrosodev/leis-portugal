@@ -1,0 +1,731 @@
+---
+schema_version: '1.0'
+id: pt:dre:313416:por
+title: Decreto-Lei n.º 202-B/86
+short_title: null
+summary: Aprova a Lei Orgânica do Instituto Nacional de Habitação (INH)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 202-B/86
+official_date: null
+publication_date: '1986-07-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 166/1986, 1º Suplemento, Série I de 1986-07-22
+  number: '166'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1806-(2) a 1806-(6)
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/07/16601/00020006.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-03-28'
+version_history:
+  file: decreto-lei-202-b-86.versoes.json
+  count: 5
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1986-07-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1988-12-15'
+    amending: pt:dre:356701:por
+    amending_title: Decreto-Lei n.º 460/88
+    changes:
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+  - date: '1991-08-21'
+    amending: pt:dre:674051:por
+    amending_title: Decreto-Lei n.º 305/91
+    changes:
+    - Altera Artigo 16.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+  - date: '2003-02-03'
+    amending: pt:dre:424731:por
+    amending_title: Decreto-Lei n.º 243/2002
+    changes:
+    - Adita Artigo 18.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Revoga Artigo 23.º
+    - Revoga Artigo 26.º
+  - date: '2021-03-28'
+    amending: pt:dre:159993990:por
+    amending_title: Decreto-Lei n.º 23/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/202-b/1986/p/cons/20210323/pt/html
+  oj: null
+  dre: '313416'
+  dre_path: /dr/detalhe/decreto-lei/202-b-1986-313416
+  internal: pt:dre:313416:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-b-1986-313416
+  metadata_url: https://data.dre.pt/eli/dec-lei/202-b/1986/p/cons/20210323/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-161763643
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1986-161763643
+  retrieved_at: '2026-10-22T12:40:59Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4deb78b57729d486d104753af31a267b69824294af9eff25c98ca516b05c0034
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:40:59Z'
+  notes: 5 versão(ões); histórico completo em decreto-lei-202-b-86.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Instituto Nacional de Habitação
+- Orgânica
+relationships:
+- type: amended_by
+  target: pt:dre:356701:por
+  label: Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 12.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 19.º;
+    Altera Artigo 20.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701
+  date: '1988-12-14'
+- type: amended_by
+  target: pt:dre:674051:por
+  label: Altera Artigo 16.º; Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1991-674051
+  date: '1991-08-16'
+- type: amended_by
+  target: pt:dre:424731:por
+  label: Adita Artigo 18.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 8.º; Altera Artigo 9.º;
+    Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º;
+    Altera Artigo 22.º; Revoga Artigo 23.º; Revoga Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731
+  date: '2002-11-05'
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990
+  date: '2021-03-23'
+article_structure:
+  article_count: 28
+  section_count: 8
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:40:59Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 202-B/86
+
+Decreto-Lei n.º 202-B/86
+
+de 22 de Julho
+
+O Instituto Nacional de Habitação (INH), criado pelo Decreto-Lei n.º 177/84, de 25 de Maio, ficou sujeito ao regime de instalação, cabendo à comissão instaladora a missão de propor a estrutura orgânica adequada ao desempenho da sua actividade.
+
+Face ao volume de projectos de habitação social que já se encontravam em condições de ser realizados, a acção do INH começou por se centrar sobretudo na execução e gestão dos empreendimentos pendentes, por forma a desbloquear as situações de maior urgência, antes mesmo de estarem criados os meios de trabalho indispensáveis à sua estruturação definitiva.
+
+Entretanto, a própria dinâmica do sector veio a consubstanciar-se no alargamento da actividade do Instituto, que no final de Abril de 1986 tinha já assinado contratos para a construção de cerca de 8500 fogos, no valor de 19 milhões de contos, o que mostra bem as perspectivas de desenvolvimento do novo organismo e o volume das responsabilidades entretanto assumidas.
+
+Por outro lado, a própria experiência colhida pelo INH durante este período de instalação permitiu definir com maior precisão os parâmetros da sua futura actuação como instituto vocacionado para a administração e financiamento de programas de habitação social que devam ser apoiados pelo Estado.
+
+Consideram-se, deste modo, reunidas as condições para a presente estruturação, definitiva do INH, através da aprovação dos seus estatutos, nos quais se reuniram as normas consideradas adequadas para a concretização dos objectivos para que foi criado.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Natureza e atribuições
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 1.º — (Natureza)
+
+O Instituto Nacional de Habitação, criado pelo Decreto-Lei n.º 177/84, de 25 de Maio, e designado abreviadamente por INH, é um instituto público, com personalidade jurídica, dotado de autonomia administrativa e financeira e património próprio.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 2.º — (Atribuições)
+
+São atribuições do INH assegurar a gestão e a administração habitacional e as intervenções de natureza financeira no sector de habitação da competência do Estado, incumbindo-lhe, em especial:
+
+a)  Preparar o Plano Nacional de Habitação e os planos anuais e plurianuais de investimento no sector;
+
+b) Estudar a situação habitacional com vista à formulação de propostas de medidas de política, legislativas e regulamentares, apoiando o Governo na definição das políticas de arrendamento;
+
+c) Coordenar e preparar as medidas de política financeira do sector e contribuir para o financiamento de programas habitacionais de interesse social, promovidos pelos sectores público, cooperativo e privado, através da concessão de comparticipações a fundo perdido, empréstimos e bonificação de juros;pelos sectores público, cooperativo e privado;
+
+d) Acompanhar a execução das medidas de política e os programas de promoção habitacional, de acordo com os planos e normativos aprovados, e prestar apoio técnico aos promotores antes referidos.
+
+e) Desenvolver acções conducentes à conservação e reabilitação do património habitacional, visando o desenvolvimento do mercado do arrendamento urbano, através da sua intervenção directa ou da participação em sociedades, fundos de investimento imobiliário ou outras formas de associação;
+
+f) Promover, directamente ou em associação com outras entidades, projectos habitacionais de interesse social dirigidos, designadamente, à população jovem;
+
+g) Gerir programas específicos de apoio à população mais carenciada, em especial a população jovem, na obtenção de habitação no mercado de arrendamento;
+
+h) Intervir no mercado de solos, como instrumento da política do Governo, com vista à regulação da oferta de terrenos urbanizados para a construção de habitação;
+
+i) Conceder apoio técnico a autarquias locais e a outras instituições promotoras de habitação social no domínio da gestão e conservação do parque habitacional;
+
+j) Gerir, conservar e alienar o parque habitacional, equipamentos e solos que constituem o seu património, no cumprimento da política definida para a habitação de interesse social.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 3.º — (Competências)
+
+1 - Compete ao INH no domínio da administração habitacional e apoio técnico:
+
+a) A promoção de inquéritos e estudos, por si ou em colaboração com outras entidades, destinados a manter actualizado o conhecimento dos problemas habitacionais;
+
+b) O estudo das soluções e normas técnico-económicas mais adequadas à prossecução da política de habitação, tomando em consideração os tipos de carências existentes, as condições sócio-económicas das populações e o equilíbrio entre conforto, custo e durabilidade das habitações;
+
+c) Avaliar os custos do Estado e do sector público na execução da política geral de habitação;
+
+d) Acompanhar a execução dos projectos habitacionais de interesse social por ele financiados ou subsidiados;
+
+e) Apoiar a investigação no domínio da habitação de interesse social e propor normas e regulamentos relativos aos edifícios habitacionais, em articulação com organismos de investigação;
+
+f) Dinamizar a execução dos planos de habitação promovidos e apoiados pelo sector público;
+
+g) Sem prejuízo das competências atribuídas a outras entidades, verificar a conformidade com os objectivos da habitação de interesse social dos planos de utilização dos terrenos objecto de alienação, nos termos da alínea a) do n.º 3;
+
+h) Promover a recolha, tratamento e difusão da informação técnica no domínio da gestão e conservação dos parques habitacionais;
+
+i) Proceder à certificação legal de projectos e habitações de interesse social, designadamente as de custos controlados ou relacionadas com este conceito;
+
+j) Desenvolver acções formativas e de informação e apoiar tecnicamente os promotores.
+
+2 - Compete ao INH no domínio do financiamento:
+
+a) Conceder empréstimos e comparticipações destinados ao financiamento de programas de interesse social de construção, reconstrução e reabilitação de habitações;
+
+b) Conceder bonificações de juros a pessoas colectivas e particulares e prestar garantias, quando necessário, às instituições de crédito que pratiquem operações de financiamento à construção, reconstrução e reabilitação de habitações;
+
+c) Contrair empréstimos em moeda nacional ou estrangeira, emitir obrigações e realizar outras operações no domínio dos mercados monetário e financeiro directamente relacionadas com a sua actividade;
+
+d) Celebrar contratos de desenvolvimento ou contratos-programas no domínio habitacional;
+
+e) Participar em sociedades, fundos de investimento imobiliário, consórcios ou outras formas de associação que tenham como objecto a promoção habitacional, a construção, reconstrução e reabilitação habitacional ou a urbanização ou ainda a gestão de património habitacional de interesse social;
+
+f) Gerir programas específicos, particularmente no domínio do apoio ao arrendamento, que lhe sejam cometidos;
+
+g) Desempenhar outras funções que lhe sejam atribuídas por lei.
+
+3 - Compete ao INH no domínio da gestão habitacional:
+
+a) Adquirir, urbanizar e alienar, nos termos legais, terrenos para a promoção de habitações de interesse social ou instalações de interesse público;
+
+b) Alienar habitações ou outros edifícios, bem como a propriedade ou o mero direito de superfície de lotes de terreno destinados a habitação de interesse social ou instalações de interesse público;
+
+c) Atribuir as suas habitações em propriedade ou arrendamento, segundo os regimes legalmente fixados;
+
+d) Decidir da utilização dos equipamentos integrados no seu património;
+
+e) Assegurar a conservação do seu património habitacional e respectivos equipamentos;
+
+f) Propor medidas com vista à uniformização da gestão do parque habitacional do Estado;
+
+g) Desempenhar outras funções atribuídas por lei.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 4.º — (Tutela)
+
+1 - Compete conjuntamente ao Ministro das Finanças e ao Ministro das Obras Públicas, Transportes e Comunicações:
+
+a) Autorizar a participação no capital de sociedades ou em fundos de investimento imobiliário e a sua alienação, bem como a intervenção em consórcios ou em outras formas de associação;
+
+b) Aprovar planos de actividade e financeiros, orçamentos anuais, relatórios e contas de gerência;
+
+c) Fixar os limites de competência do conselho directivo para a contracção de encargos de assistência financeira, para a realização de despesas e prestação de garantias e para autorizar a realização de operações financeiras acima dos limites fixados;
+
+d) Criar dependências para além da delegação no Porto.
+
+2 - Compete exclusivamente ao Ministro das Finanças:
+
+a) Dar directivas e instruções genéricas de natureza financeira ao conselho directivo;
+
+b) Autorizar a contracção de empréstimos, em moeda nacional ou estrangeira, bem como a emissão de obrigações ou outros títulos.
+
+3 - Compete exclusivamente ao Ministro das Obras Públicas, Transportes e Comunicações:
+
+a) Dar directivas e instruções genéricas de natureza técnica ao conselho directivo;
+
+b) Acompanhar a execução das medidas de política e os programas de promoção habitacional, de acordo com os planos e normativos aprovados.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 5.º — (Sede)
+
+1 - O INH terá a sua sede em Lisboa e uma delegação no Porto.
+
+2 - Por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações, sob proposta do conselho directivo do INH, poderão vir a ser criadas outras dependências.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 6.º — Órgãos
+
+São órgãos do INH:
+
+a) O conselho directivo;
+
+b) O conselho consultivo;
+
+c) A comissão de fiscalização.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 460/88 - Diário da República n.º 287/1988, Série I de 1988-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), em vigor a partir de 1988-12-15
+
+### Capítulo II — Órgãos e suas competências
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+#### Secção I — Conselho directivo
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 7.º — (Composição)
+
+1 - O conselho directivo é composto por um presidente e dois a quatro vogais, a nomear por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+2 - Um dos vogais será responsável pela delegação do INH no Porto e residirá nesta cidade.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 8.º — (Regime de exercício de funções)
+
+1 - Os membros do conselho directivo exercerão as suas funções por períodos de três anos, renováveis.
+
+2 - Os membros do conselho directivo, quando funcionários e agentes do Estado, de institutos públicos e das autarquias locais, bem como trabalhadores de empresas públicas, exercerão as suas funções em regime de requisição ou comissão de serviço, com a faculdade de optarem pelos vencimentos correspondentes aos lugares de origem ou aos que lhes competirem nos termos do n.º 4.
+
+3 - Os membros do conselho directivo exercem as suas funções em regime de tempo inteiro, sendo que, excepcionalmente, por despacho conjunto do Primeiro-Ministro e dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação, podem ser nomeados vogais com funções não executivas.
+
+4 - Os membros do conselho directivo ficarão sujeitos ao Estatuto do Gestor Público, devendo, para este efeito, o INH ser equiparado a uma empresa do tipo A.
+
+5 - Os ministros da tutela fixarão, por despacho, o regime de exercício de funções dos membros do conselho directivo, na parte em que não lhes seja aplicável o Estatuto referido no número anterior.
+
+6 - Em matéria de segurança social, os membros do conselho directivo, quando em regime de requisição ou de comissão de serviço, nos termos do n.º 2, beneficiarão do sistema de protecção social, incluindo os benefícios de aposentação ou reforma e sobrevivência inerentes ao respectivo quadro de origem.
+
+Os membros que não exerçam funções em regime de requisição ou comissão de serviço ficam sujeitos ao regime de previdência dos trabalhadores independentes, estabelecido pelo Decreto-Lei n.º 8/82, de 18 de Janeiro.
+
+7 - Os membros que não exerçam funções em regime de requisição ou comissão de serviço ficam sujeitos ao regime geral da segurança social.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 460/88 - Diário da República n.º 287/1988, Série I de 1988-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), em vigor a partir de 1988-12-15
+
+###### Artigo 9.º — (Competência)
+
+1 - Compete ao conselho directivo:
+
+a) Assegurar a gestão e o desenvolvimento das actividades do INH, incluindo a aquisição e a alienação de imóveis;
+
+b) Elaborar e submeter à apreciação da tutela os planos de actividade e financeiros plurianuais, os projectos de orçamento anuais e os relatórios de actividade;
+
+c) Elaborar e submeter à apreciação da tutela as contas de gerência anuais;
+
+d) Superintender na execução dos planos, programas e orçamento;
+
+e) Arrecadar as receitas do INH, autorizar a realização de despesas e a contracção de encargos de assistência financeira, dentro da competência fixada pela tutela;
+
+f) Assegurar a fiscalização de empreendimentos financiados, total ou parcialmente, pelo INH;
+
+g) Assinar contratos de desenvolvimento ou contratos-programas, depois de autorizados nos termos da lei;
+
+h) Deliberar sobre a propositura de acções judiciais e conceder autorização para confissão, desistência ou transacção judicial;
+
+i) Aprovar a conta de gerência e dar balanço, mensalmente, às disponibilidades do INH;
+
+j) Elaborar os regulamentos internos necessários ao bom funcionamento dos serviços e deliberar sobre todas as situações relativas ao pessoal, nomeadamente à sua contratação, nomeação, colocação, promoção, transferência e cessação de contrato;
+
+l) Exercer os demais actos da competência do INH nos termos do presente diploma.
+
+2 - O conselho directivo pode delegar o exercício de parte da sua competência em qualquer dos seus membros ou noutro pessoal dirigente do INH.
+
+3 - A delegação e distribuição de pelouros não afectam a colegialidade e a solidariedade dos membros do conselho directivo.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 10.º — (Competência do presidente)
+
+1 - Compete, em especial, ao presidente ou a quem o substituir:
+
+a) Presidir às reuniões dos conselhos directivo e consultivo;
+
+b) Superintender a coordenação e dinamização da actividade do conselho directivo e promover a convocação das respectivas reuniões;
+
+c) Representar o INH em juízo ou fora dele e assinar em seu nome todos os contratos, nomeadamente os de concessão de empréstimos, garantias ou outros financiamentos contratados.
+
+2 - O presidente do conselho directivo poderá delegar noutro membro deste órgão o exercício parcial das suas funções.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 11.º — (Funcionamento)
+
+1 - O conselho directivo reunirá ordinariamente pelo menos uma vez por semana e extraordinariamente sempre que seja convocado pelo presidente, por sua iniciativa ou a pedido de qualquer dos seus membros.
+
+2 - As deliberações do conselho directivo serão tomadas por maioria simples de votos, tendo o presidente, ou quem o substituir, voto de qualidade.
+
+3 - Lavrar-se-á acta de todas as reuniões, subscrita por todos os presentes, sendo admitidas declarações de voto devidamente fundamentadas.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 12.º — (Vinculação)
+
+1 - O INH obriga-se pela assinatura conjunta de dois dos seus membros, ou de um membro e de mandatário ou procurador com poderes especiais para o acto em causa.
+
+2 - Nos actos de mero expediente basta a intervenção de um membro do conselho directivo ou de um mandatário com poderes especiais para o efeito.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 460/88 - Diário da República n.º 287/1988, Série I de 1988-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), em vigor a partir de 1988-12-15
+
+#### Secção II — Conselho consultivo
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 13.º — (Composição)
+
+1 - O INH dispõe de um conselho consultivo, constituído por:
+
+a) O presidente do conselho directivo do INH, que presidirá;
+
+b) Um representante do Ministério das Finanças;
+
+c) Um representante do Ministério das Obras Públicas, Transportes e Comunicações;
+
+d) Por um representante da Associação Nacional de Municípios Portugueses;
+
+e) Um representante das cooperativas de habitação;
+
+f) Um representante do sector da construção civil.
+
+g) Por um representante de cada uma das entidades que detêm títulos de participação.
+
+2 - Os membros do conselho consultivo referidos nas alíneas d), e) e f) serão designados por despacho do Ministro das Obras Públicas, Transportes e Habitação.
+
+3 - Os membros do conselho consultivo referidos na alínea g) são designados por despacho do Ministro das Obras Públicas, Transportes e Habitação, por proposta das entidades cujos interesses representam.
+
+4 - O mandato dos membros nomeados é de três anos, renovável.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 14.º — Competências
+
+O conselho consultivo é um órgão destinado a apreciar e emitir parecer sobre a actividade do INH, nomeadamente sobre:
+
+a) As propostas de planos e programas do INH;
+
+b) As medidas de política no domínio da habitação de interesse social;
+
+c) Os relatórios de actividade.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 15.º — (Funcionamento)
+
+1 - O conselho consultivo reunirá ordinariamente uma vez em cada trimestre, por convocação do seu presidente, e extraordinariamente quando para isso for convocado por iniciativa do presidente ou da maioria dos seus membros.
+
+2 - Lavrar-se-á acta das reuniões, subscrita por todos os presentes.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+### Capítulo III — Fiscalização
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 16.º — Composição e funcionamento
+
+1 - A comissão de fiscalização do INH é composta por três membros, nomeados por despacho do Ministro das Finanças, sendo um presidente e dois vogais, um dos quais será obrigatoriamente um revisor oficial de contas designado pela assembleia comum dos participantes.
+
+2 - A comissão de fiscalização reúne ordinariamente uma vez por mês e extraordinariamente sempre que for convocada por um dos seus membros.
+
+3 - Os membros da comissão de fiscalização têm direito a uma remuneração idêntica à que estiver fixada para as comissões de fiscalização das empresas públicas.
+
+4 - Constituem deveres dos membros da comissão de fiscalização:
+
+a) Exercer uma fiscalização conscienciosa e imparcial;
+
+b) Guardar sigilo dos factos de que tiverem conhecimento em razão das suas funções ou por causa delas.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 305/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1991-674051), em vigor a partir de 1991-08-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 460/88 - Diário da República n.º 287/1988, Série I de 1988-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), em vigor a partir de 1988-12-15
+
+###### Artigo 17.º — Competências da comissão de fiscalização
+
+Compete à comissão de fiscalização:
+
+a) Acompanhar o funcionamento do INH e velar pelo cumprimento das leis e regulamentos aplicáveis;
+
+b) Acompanhar a execução dos planos de actividades e orçamentos anuais e ainda efectuar o controle mensal de execuções dos mesmos;
+
+c) Emitir parecer sobre o orçamento, relatório e contas anuais do INH;
+
+d) Verificar a regularidade dos livros, registos contabilísticos e documentos que lhe servem de suporte, examinar periodicamente a situação financeira e económica do INH e proceder à verificação dos valores patrimoniais;
+
+e) Emitir parecer sobre qualquer assunto que seja submetido à sua apreciação pelo conselho directivo ou pelo conselho consultivo, ou sobre o qual entenda dever pronunciar-se;
+
+f) Informar o conselho directivo das irregularidades que detecte.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 460/88 - Diário da República n.º 287/1988, Série I de 1988-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), em vigor a partir de 1988-12-15
+
+### Capítulo IV — Gestão
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 18.º — Capital
+
+1 - O INH dispõe de um capital inicial (euro) 75503037,68.
+
+2 - Em representação do seu capital, o INH emitiu títulos de participação de valor nominal de (euro) 0,01 cada.
+
+3 - Os títulos de participação no capital do INH são sempre nominativos e apenas podem ser subscritos pela Direcção-Geral do Tesouro, instituições financeiras, públicas ou privadas, ou outras entidades que venham a ser autorizadas por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.
+
+4 - Os títulos de participação são transmissíveis por todas as formas admissíveis em direito entre as entidades referidas no número anterior, mas a transmissão só produzirá efeitos relativamente ao INH e a terceiros desde a data do respectivo averbamento.
+
+5 - A maioria dos títulos de participação do INH devem, a cada momento, estar na posse de entidades públicas.
+
+6 -  O capital do INH pode ser aumentado a qualquer momento mediante a emissão de novos títulos de participação.
+
+7 - As condições de remuneração dos títulos de participação de cada emissão, incluindo a definição da remuneração mínima, serão estabelecidas por despacho do Ministro das Finanças.
+
+8 - Os resultados líquidos apurados anualmente pelo INH, na parte em que excedam, as verbas a atribuir como remuneração dos títulos de participação, serão transferidos para um fundo de reserva, o qual se destina, designadamente, a assegurar a remuneração mínima referida no número anterior.
+
+9 - Outras aplicações do fundo de reserva, para além da estabelecida no número anterior, carecem de autorização mediante despacho do Ministro das Finanças, sob proposta da assembleia comum dos participantes.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 305/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1991-674051), em vigor a partir de 1991-08-21
+
+###### Artigo 18.º-A — Património
+
+Constitui património do INH a universalidade dos bens, direitos e obrigações que lhe estão ou venham a ser atribuídos e os que adquira ou contraia no exercício das suas competências.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Aditado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 19.º — Outras receitas
+
+Constituem receitas do INH:
+
+a) As receitas resultantes da sua actividade;
+
+b) As receitas resultantes da alienação do seu património
+
+c) As receitas resultantes da cobrança de rendas;
+
+d) As receitas resultantes da cobrança de taxas e comissões por serviços prestados;
+
+e) Os recursos obtidos pela contracção de empréstimos internos ou externos, incluindo a emissão de obrigações hipotecárias ou outros títulos, previamente autorizados pelo Ministro das Finanças;
+
+f) O reembolso das bonificações concedidas;
+
+g) As receitas provenientes de acções de formação ou apoio técnico;
+
+h) As dotações atribuídas pelo Orçamento do Estado;
+
+i) As heranças, legados ou doações de que venha a ser beneficiário;
+
+j) Outras receitas que lhe venham a ser atribuídas por lei.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 305/91 - Diário da República n.º 187/1991, Série I-A de 1991-08-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/305-1991-674051), em vigor a partir de 1991-08-21
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 460/88 - Diário da República n.º 287/1988, Série I de 1988-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), em vigor a partir de 1988-12-15
+
+###### Artigo 20.º — (Instrumentos de previsão e controle)
+
+1 - A actividade do INH será disciplinada pelos seguintes instrumentos de previsão e controle:
+
+a) Planos de actividade plurianuais;
+
+b) Planos financeiros plurianuais;
+
+c) Programas anuais de actividade;
+
+d) Orçamentos anuais;
+
+e) Relatórios de actividade anuais;
+
+f) Contas e relatórios financeiros;
+
+g) Contas de gerência anuais.
+
+2 - Os planos plurianuais serão actualizados em cada ano e deverão traduzir a estratégia a seguir a médio prazo, integrando-se no plano de actividades que for definido para o sector.
+
+3 - Os planos financeiros plurianuais deverão discriminar os recursos e as correspondentes utilizações previstas.
+
+4 - O programa anual de actividade deverá concretizar os projectos a realizar no decurso do ano pelos diferentes serviços, definindo prioridades e áreas de actuação.
+
+5 - O orçamento será elaborado com base no programa anual de actividade, sem prejuízo dos desdobramentos internos que se mostrem necessários à conveniente descentralização de responsabilidades e adequado controle de gestão.
+
+6 - O INH procede à contabilização das suas operações com base no Plano Oficial de Contabilidade Pública.
+
+7 - Os actos e contratos realizados pelo INH não estão sujeitos a visto prévio do Tribunal de Contas.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 460/88 - Diário da República n.º 287/1988, Série I de 1988-12-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/460-1988-356701), em vigor a partir de 1988-12-15
+
+### Capítulo V — Pessoal
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 21.º — Quadros de pessoal
+
+1 - O quadro de pessoal do INH é aprovado por despacho conjunto dos Ministros das Finanças e das Obras Públicas, Transportes e Habitação.
+
+2 - O INH dispõe ainda de um quadro transitório de pessoal abrangido pelo regime jurídico da função pública, aprovado por portaria conjunta dos membros do Governo referidos no número anterior, para os funcionários que hajam transitado do IGAPHE ou que sejam colocados nos termos do artigo 6.º do diploma que opera a fusão e que não tenham optado pela celebração de contrato individual de trabalho, cujos lugares serão extintos à medida que vagarem.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 22.º — Estatuto do pessoal
+
+1 - O pessoal do INH rege-se, na generalidade, pelas normas aplicáveis ao contrato individual de trabalho e, na especialidade, pelo disposto em regulamento interno, aprovado pelo conselho directivo e homologado por portaria conjunta dos Ministros das Finanças e das Obras Públicas, Transportes e Comunicações.
+
+2 - No regulamento interno a que se refere o número anterior ter-se-ão em conta as modificações exigidas pela natureza específica do INH e das suas actividades e pelas características da composição do quadro próprio e os condicionalismos da regulamentação colectiva de trabalho do seu ramo de actividade principal.
+
+3 - O pessoal referido no n.º 2 do artigo 21.º rege-se pelo regime jurídico da função pública.
+
+4 - Os funcionários do Estado, de institutos públicos e de autarquias locais, bem como os trabalhadores das empresas públicas, poderão ser chamados a desempenhar funções no INH em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos.
+
+5 - Os trabalhadores dos quadros do INH poderão ser chamados a desempenhar funções no Estado, em institutos públicos ou em autarquias locais, bem como em empresas públicas, em regime de requisição ou de comissão de serviço, com garantia do seu lugar de origem e dos direitos nele adquiridos.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Alterado pelo/a Artigo 14.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+### Capítulo VI — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 23.º — (Representantes da comissão liquidatária do Fundo de Fomento da Habitação)
+
+Enquanto se mantiver em funções a comissão liquidatária do Fundo de Fomento da Habitação no conselho directivo do INH haverá um vogal representante da referida comissão liquidatária, não se lhe aplicando o estipulado no n.º 3 de artigo 8.º enquanto exercer funções naquela comissão.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 24.º — (Cobrança de dívidas)
+
+As certidões passadas pelo INH de que constem as importâncias de rendas, empréstimos ou outras prestações em dívida, bem como os respectivos encargos, têm força de título executivo e a sua cobrança coerciva é da competência dos tribunais tributários.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 25.º — (Titulação dos contratos)
+
+1 - Os actos e contratos realizados pelo INH ou que importem a respectiva ratificação, rectificação, alteração ou revogação podem ser titulados por documento particular ou simples troca de correspondência, independentemente do respectivo valor e natureza.
+
+2 - Quando, porém, se trate de actos ou contratos sujeitos a registo e se não adopte a forma de escritura pública ou de instrumento público avulso, só poderão revestir a forma de documento particular contendo termo de autenticação.
+
+3 - Os documentos particulares e a correspondência trocada com relevância contratual poderão ser selados por estampilha.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+###### Artigo 26.º — (Integração no quadro)
+
+1 - Os funcionários e agentes do Estado, de institutos públicos e de autarquias locais que à data da entrada em vigor do presente diploma estejam a prestar serviço no INH serão integrados no quadro criado nos termos do disposto do artigo 21.º, se assim o requererem, e de acordo com as constantes dos números seguintes.
+
+2 - A integração no quadro do INH implica a opção pelo regime de contrato individual de trabalho nos termos previstos no artigo 22.º e a consequente cessação do vínculo à função pública, sem prejuízo de ser contada, para efeito de antiguidade no INH, a totalidade do tempo de serviço prestado na função pública.
+
+3 - A opção referida no n.º 1 deverá ser comunicada ao conselho directivo no prazo de 30 dias após a publicação do regulamento interno referido no n.º 1 do artigo 22.º
+
+4 - O pessoal que não usar da faculdade prevista n.º 1 deste artigo regressará aos respectivos lugares de origem ou adquirirá a qualidade de excedente, nos termos do Decreto-Lei n.º 43/84, de 3 de Fevereiro.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+> Revogado pelo/a Artigo 16.º do/a [Decreto-Lei n.º 243/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2002-424731), em vigor a partir de 2003-02-03
+
+###### Artigo 27.º — (Legislação revogada)
+
+É revogado o Decreto-Lei n.º 177/84, de 25 de Maio.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28
+
+Visto e aprovado em Conselho de Ministros de 19 de Junho de 1986. - Aníbal António Cavaco Silva - Miguel José Ribeiro Cadilhe - João Maria Leilão de Oliveira Martins.
+
+Promulgado em 21 de Julho de 1986.
+
+Publique-se.
+
+O Presidente da Repúblicas MÁRIO SOARES.
+
+Referendado em 22 de Julho de 1986.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 23/2021 - Diário da República n.º 57/2021, Série I de 2021-03-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23-2021-159993990), em vigor a partir de 2021-03-28

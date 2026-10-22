@@ -1,0 +1,296 @@
+---
+schema_version: '1.0'
+id: pt:dre:514029:por
+title: Portaria n.º 925-B/87
+short_title: null
+summary: Aprova as tarifas de transporte aéreo de passageiros a praticar nos serviços regulares entre o continente e as Regiões
+  Autónomas da Madeira e dos Açores
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo
+proposing_entity: null
+official_number: 925-B/87
+official_date: null
+publication_date: '1987-12-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 279/1987, 2º Suplemento, Série I de 1987-12-04
+  number: '279'
+  series: I
+  supplement: 2º Suplemento
+  pages: 4228-(4) a 4228-(7)
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/12/27902/00040007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '514029'
+  dre_path: /dr/detalhe/portaria/925-b-1987-514029
+  internal: pt:dre:514029:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-b-1987-514029
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/925-b-1987-514029
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1987-12-04T00:00:00Z'
+integrity:
+  source_sha256: c26e128b7249fda8aa34ed00fdfe0467eae03e21c0d8357481c61aa00ae29868
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1987/DRE-1987-925-B-514029.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 925-B/87
+
+de 4 de Dezembro
+
+As ligações aéreas entre o continente e as Regiões Autónomas da Madeira e dos Açores, por serem consideradas um serviço público de carácter social, têm tido tarifas abaixo do custo.
+
+Considerando as alterações tarifárias recentemente verificadas a nível internacional, bem como o agravamento de custos previsto para 1988, torna-se necessário proceder à actualização dos níveis tarifários, nomeadamente da tarifa de classe económica normal, introduzindo simultaneamente duas tarifas promocionais no esquema em vigor entre o continente e a Região Autónoma da Madeira e entre esta e a Região Autónoma dos Açores.
+
+Por outro lado, a adesão de Portugal ao Tratado de Roma implica a adaptação da legislação nacional contrária ao princípio da não discriminação exercida em razão da nacionalidade. Neste sentido, foi decidido tornar extensiva a aplicação da tarifa de residente (anexo I) aos cidadãos dos outros Estados membros da Comunidade Económica Europeia com residência nas regiões autónomas.
+
+Não se incluem na presente portaria as tarifas de 1.ª classe e de classe executiva, de acordo com o preceituado no n.º 1 do artigo 2.º do [Decreto-Lei n.º 276/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1987-419984), de 4 de Julho.
+
+Nestes termos, após consulta prévia aos órgãos de governo próprios da Região Autónoma da Madeira:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo, ao abrigo do disposto no [Decreto-Lei n.º 276/87](https://diariodarepublica.pt/dr/detalhe/decreto-lei/276-1987-419984), de 4 de Julho, e nos termos do [Decreto-Lei n.º 260/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/260-1976-502786), de 8 de Abril, na redacção dada pelos Decretos-Leis n.os [25/79](https://diariodarepublica.pt/dr/detalhe/decreto-lei/25-1979-393621), de 15 de Fevereiro, e [29/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29-1984-659899), de 20 de Janeiro, o seguinte:
+
+1.º São aprovadas as tarifas de transportes aéreo de passageiros a praticar nos serviços regulares das linhas abaixo especificadas:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00040007.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00040007.pdf)
+
+2.º Não são permitidas paragens voluntárias (stopovers) no Funchal ou em Porto Santo, excepto para passageiros de tarifa normal e para grupos de viagens de turismo tipo «tudo incluído» (anexo II).
+
+3.º Estas tarifas são combináveis entre si e com outras tarifas domésticas aprovadas para transporte aéreo regular, desde que os seus termos assim o permitam; de acordo com as regras internacionalmente aceites, são permitidas viagens tipo circular e de ida e volta do tipo open jaw simples.
+
+4.º Não são permitidos quaisquer descontos sobre estas tarifas, excepto os de criança e bebé, nas condições internacionalmente estabelecidas para este tipo de tráfego.
+
+Aos jornalistas profissionais é concedido um desconto de 50% sobre a tarifa aplicável, com direito a reserva, desde que para o efeito apresentem prova actualizada, oficialmente reconhecida, da sua profissão, cuja referência deverá constar do bilhete.
+
+5.º A aplicação das tarifas de excursão só é permitida em viagens de duração compreendida entre 6 dias e 1 mês, excepto no caso de grupos desportivos que se desloquem no exercício da sua actividade, caso em que serão permitidas durações inferiores. Para este efeito, a entidade requerente, de acordo com as normas em vigor, deverá oficializar a condição de grupo ou associação desportiva, a fim de que possa ser ignorada a observância de estada mínima deste tipo de tarifa. O número mínimo de elementos que formam o grupo pode incluir passageiros ligados ao grupo a quem tenha sido aplicada a tarifa de residente (sujeita às suas condições), desde que sejam cumpridas as restantes condições para a formação do grupo. As equipas de arbitragem estão também dispensadas da observância do mínimo de estada da tarifa de excursão quando se deslocam em cumprimento de nomeação para jogos oficiais; cópia do comunicado de nomeação deve ser apensa ao auditor's coupon do bilhete.
+
+7.º São elegíveis para as tarifas de estudante todos aqueles que tenham nacionalidade portuguesa e sejam:
+
+Residentes na Madeira e frequentem um estabelecimento de ensino no continente ou nos Açores;
+
+Residentes no continente ou nos Açores e frequentem um estabelecimento de ensino na Madeira.
+
+8.º A aplicação das tarifas para cidadãos portugueses residentes na Madeira ficará sujeita às condições especificadas no anexo I a esta portaria.
+
+9.º Fica revogada toda a legislação anterior sobre esta matéria.
+
+10.º São aprovadas igualmente as seguintes tarifas para a carga transportada por via aérea nos sectores abaixo especificados (preços expressos por quilograma):
+
+Lisboa-Madeira ou vice-versa:
+
+Mínimo de cobrança ... 569$00
+
+Tarifa normal (menos de 45 kg) ... 79$00
+
+Tarifa de 45 kg ... 58$00
+
+Madeira-Açores ou vice-versa:
+
+Mínimo de cobrança ... 569$00
+
+Tarifa normal (menos de 45 kg) ... 87$00
+
+Tarifa de 45 kg ... 63$00
+
+11.º O esquema tarifário para a carga transportada entre o continente e a Madeira comporta igualmente tarifas especiais, que se encontram especificadas no anexo III a esta portaria, que dela faz parte integrante.
+
+12.º Nas ligações entre o Porto ou Faro e o arquipélago da Madeira deverão ser aplicados os valores tarifários gerais e especiais praticados de e para Lisboa, com o adicional de 6$00 por quilograma.
+
+13.º Esta portaria entra em vigor dez dias após a sua publicação no Diário da República.
+
+Ministérios das Finanças, das Obras Públicas, Transportes e Comunicações e do Comércio e Turismo.
+
+**Assinada em 4 de Dezembro de 1987.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe. - O Ministro das Obras Públicas, Transportes e Comunicações, João Maria Leitão de Oliveira Martins. - O Ministro do Comércio e Turismo, Joaquim Martins Ferreira do Amaral.**
+
+## ANEXO I — Condições de aplicação da tarifa para cidadãos nacionais e equiparados residentes na Madeira
+
+Área de aplicação - da Madeira para Lisboa, Porto e Faro em serviço dos TAP.
+
+Aplicação - tarifas de ida e volta em classe económica para viagens com origem na Madeira.
+
+Período de aplicação - estas tarifas são aplicáveis durante todo o ano.
+
+Validade do bilhete e código de emissão:
+
+Mínimo de estada - não referido.
+
+Máximo de estada - 1 ano.
+
+Código de emissão:
+
+Espaço fare basis - residente
+
+Espaço not transferable - residente, seguido do número fiscal de contribuinte e do respectivo bilhete de identidade ou cédula pessoal.
+
+Venda e publicidade - a venda e publicidade destas tarifas é limitada à respectiva área de origem (v. elegibilidade).
+
+Combinações - só permitidas com tarifas domésticas dos TAP.
+
+Descontos - aplicam-se apenas os habituais descontos de criança e bebé.
+
+Elegibilidade - são elegíveis para esta tarifa todos os cidadãos nacionais e equiparados residentes há, pelo menos, 6 meses na Madeira, para viagens de ida e volta iniciadas neste arquipélago, que à data da emissão e pagamento do bilhete comprovem esta situação (v. documentação).
+
+São considerados equiparados a cidadãos nacionais todos os cidadãos dos Estados membros da Comunidade Económica Europeia.
+
+Documentação:
+
+Na altura da emissão e pagamento do bilhete os passageiros devem preencher e entregar o formulário modelo n.º 2075 e exibir o respectivo cartão de contribuinte e o bilhete de identidade ou cédula pessoal. Se o passageiro ainda não estiver registado como contribuinte deverá exibir na altura da emissão e pagamento do bilhete o documento comprovativo da repartição de finanças e o bilhete de identidade.
+
+No caso dos cidadãos equiparados a nacionais é suficiente a apresentação de outro documento de identificação e a autorização de residência, comprovativa de que lhes foi concedida uma autorização para residir há, pelo menos, seis meses na Madeira.
+
+Os passageiros menores poderão exibir na altura da emissão do bilhete o cartão de contribuinte e o bilhete de identidade de um dos pais.
+
+Os passageiros com menos de 6 meses de residência que se encontrem vinculados por um contrato de trabalho com duração não inferior a 1 ano celebrado com entidade patronal domiciliada na Região deverão exibir na altura da emissão do bilhete um duplicado ou cópia autenticada do mesmo contrato ou documento passado pela entidade patronal comprovativo daquela situação.
+
+Os membros dos governos regionais e os indivíduos requisitados por esses governos para serviço nas regiões autónomas, ainda que não residentes há 6 meses na Região, poderão igualmente beneficiar da tarifa de residente, bastando para tal que o documento oficial de requisição da passagem refira essa situação.
+
+Elementos das Forças Armadas, da Guarda Fiscal e da Polícia de Segurança Pública, quando deslocados em comissão de serviço na Região, são igualmente elegíveis, mediante apresentação de documento devidamente autenticado pela unidade ou comando a que pertençam, comprovando residência há mais de 6 meses.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00040007.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00040007.pdf)
+
+## ANEXO II — Condições de aplicação da tarifa tipo «tudo incluído» para viagens turísticas em grupo
+
+Área de aplicação:
+
+1) De Portugal continental para a Madeira.
+
+2) Entre a Madeira e os Açores.
+
+3) Nos TAP e nos SATA.
+
+Valor tarifário - igual ao valor da tarifa de excursão e aplicável entre os mesmos pontos.
+
+Aplicação - a tarifa é aplicada em viagens de ida e volta ou circulares.
+
+Período de aplicação - todo o ano.
+
+Número mínimo de passageiros - 8.
+
+Nota. - Dois passageiros pagando tarifa de criança contam como um elemento do grupo.
+
+Validade:
+
+Mínima - 6 dias.
+
+Máxima - 1 mês.
+
+Preço mínimo de venda - 1000$00/dia.
+
+Venda e publicidade - limitadas ao território nacional.
+
+Cancelamento e reembolso:
+
+1) Aplicam-se os procedimentos normais. Contudo, não são permitidos reembolsos voluntários que permitam que um grupo inferior ao mínimo estabelecido possa ser transportado a preço inferior ao da tarifa normal aplicável.
+
+2) Se na altura da partida o número de passageiros for inferior ao número requerido, os restantes membros do grupo podem viajar desde que os respectivos talões de voo relativos ao número mínimo de passageiros sejam retidos pelo transportador, sendo, nesse caso, considerados não reembolsáveis.
+
+3) Esta concessão é permitida somente quando os cancelamentos sejam causados por circunstâncias fora do controle do passageiro.
+
+Combinações - são somente permitidas com tarifas normais domésticas.
+
+Descontos - os habituais de criança e bebé.
+
+Stopovers - sem restrições.
+
+Reencaminhamentos - no caso de um passageiro adoecer durante a viagem e não poder prosseguir, aplicam-se os seguintes procedimentos:
+
+1.º O passageiro deverá apresentar certificado médico comprovando a sua incapacidade para viajar;
+
+2.º Quando o passageiro for considerado novamente capaz de viajar, pode reencaminhar-se para a tarifa normal aplicável, de acordo com a sua escolha. Nestas circunstâncias, mesmo que o número dos restantes passageiros seja inferior ao número mínimo, podem continuar viagem.
+
+Viagem em conjunto - todos os passageiros pertencentes ao grupo devem viajar em conjunto durante todo o itinerário tipo «tudo incluído», devidamente identificado e aprovado pela companhia. Se circunstâncias de reencaminhamento involuntário forem causadas pelo transportador de modo a impedir que o grupo seja transportado na sua totalidade, alguns membros do grupo poderão ser transportados nos voos imediatamente antes ou depois daquele para o qual o espaço tinha sido reservado.
+
+## ANEXO III — Condições de aplicação da tarifa especial de ida e volta para estadas prolongadas
+
+Aplicação - viagens de ida e volta em classe económica em serviços TAP e ou ligações TAP-SATA entre pontos em Portugal continental e pontos nos Açores e ou na Madeira.
+
+Validade:
+
+a) Máxima - 9 meses;
+
+b) Mínima - sem restrições.
+
+Rota/encaminhamentos/stopovers - estas tarifas especiais são apenas válidas para encaminhamentos que não contemplem mais de uma ligação no mesmo ponto e em cada sentido. Interrupções voluntárias (stopovers) da viagem são limitadas a duas (uma em cada sentido).
+
+Combinações - só permitidas com tarifas domésticas portuguesas.
+
+Descontos - permitidos apenas os descontos de crianças, bebés e jornalistas.
+
+Publicidade e venda - limitada a Portugal continental, Açores e ou Madeira.
+
+## ANEXO IV — Condições de aplicação da tarifa especial para viagens de ida simples
+
+Aplicação - viagens de ida simples em classe económica em serviços dos TAP e ou ligações TAP-SATA entre pontos em Portugal continental e pontos nos Açores e ou na Madeira.
+
+Validade:
+
+a) Máxima - 6 meses;
+
+b) Mínima - sem restrições
+
+Rota/encaminhamentos stopovers - estas tarifs especiais são apenas válidas para encaminhamentos que não contemplem mais de uma ligação sem interrupção voluntária (stopover) no mesmo ponto. Interrupções voluntárias da viagem (stopovers) não são permitidas.
+
+Combinações - só permitidas com tarifas domésticas portuguesas.
+
+Descontos - permitidos apenas os descontos de crianças, bebés e jornalistas.
+
+Reservas/pagamento/emissão do bilhete - não será permitida a aplicação retroactiva desta tarifa. A validade da tarifa (6 meses) será determinada pela data de emissão do bilhete.
+
+Reembolsos - aplicam-se as regras normais, à excepção dos reembolsos, que só serão permitidos durante o período de validade da tarifa a contar da data da emissão do bilhete.
+
+Publicidade e venda - limitada a Portugal continental, Açores e ou Madeira.
+
+## ANEXO V
+
+Tarifas especiais de carga entre o continente e a Região Autónoma da Madeira e entre a Madeira e os Açores.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1987/12/27902/00040007.pdf))](https://files.diariodarepublica.pt/1s/1987/12/27902/00040007.pdf)

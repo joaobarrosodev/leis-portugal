@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:388448:por
+title: Portaria n.º 243/81
+short_title: null
+summary: Autoriza a Direcção-Geral de Ordenamento e Gestão Florestal a celebrar contrato com a Fundação da Casa de Bragança
+  para o arrendamento de uma parte da Tapada de Cima e parte do prédio rústico denominado «Tapada Real»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Agricultura e Pescas
+proposing_entity: null
+official_number: 243/81
+official_date: null
+publication_date: '1981-03-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/1981, Série I de 1981-03-07
+  number: '55'
+  series: I
+  supplement: null
+  pages: 650 - 650
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/03/05500/06500650.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '388448'
+  dre_path: /dr/detalhe/portaria/243-1981-388448
+  internal: pt:dre:388448:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1981-388448
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1981-388448
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-08-19T00:00:00Z'
+integrity:
+  source_sha256: bad6071c950a582a6f1a4c7e01ade71c23297248fa8e02f050e7fa0cd3d8dc2c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-243-388448.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:380130:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 243/81
+
+de 7 de Março
+
+A Direcção-Geral de Ordenamento e Gestão Florestal tem todo o interesse em arrendar à Fundação da Casa de Bragança para a Tapada de Vila Viçosa, com a área de 267 ha, toda murada, com uma população de gamos de excelente qualidade.
+
+Esta Tapada, com dimensões e cobertos adequados para a criação de gamos, tem as condições necessárias para serem introduzidos veados para selecção de reprodutores.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e do Plano e da Agricultura e Pescas, o seguinte:
+
+É autorizada a Direcção-Geral de Ordenamento e Gestão Florestal a celebrar contrato com a Fundação da Casa de Bragança para o arrendamento de uma parte da Tapada de Cima, situada na freguesia da Conceição, concelho de Vila Viçosa, com a área de 128,70 ha, e parte do prédio rústico denominado «Tapada Real», freguesia e concelho de Borba, com a área aproximada de 138,30 ha ha, pelo prazo de nove anos, renovável por iguais e sucessivos períodos, se isso convier às partes contratantes, e no qual devem ser previstas as seguintes cláusulas:
+
+A renda é no valor de 112000$00, paga no termo de cada ano agrícola, e será revista no fim de seis anos e depois de três em três anos;
+
+Reverterá para o Estado a importância correspondente a 35% da venda de cortiça produzida a partir da entrada em vigor do presente contrato, ficando por conta do Estado o encargo da sua extracção e o tratamento do montado;
+
+Caso a Direcção-Geral de Ordenamento e Gestão Florestal venha a comercializar a caça aos gamos nestas propriedades, deverá reverter para a Fundação 50% do respectivo rendimento.
+
+Ministérios das Finanças e do Plano e da Agricutura e Pescas, 9 de Fevereiro de 1981. - O Ministro das Finanças e do Plano, João António de Morais Leitão. - O Ministro da Agricultura e Pescas, António José Baptista Cardoso e Cunha.

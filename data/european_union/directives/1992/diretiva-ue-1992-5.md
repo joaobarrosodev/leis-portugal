@@ -1,0 +1,1287 @@
+---
+schema_version: '1.0'
+id: eu:celex:31992L0005:por
+title: Directiva 92/5/CEE do Conselho de 10 de Fevereiro de 1992
+short_title: null
+summary: Directiva 92/5/CEE do Conselho de 10 de Fevereiro de 1992 que altera e actualiza a Directiva 77/99/CEE, relativa
+  aos problemas sanitários em matéria de comércio intracomunitário de produtos à base de carne, e que altera a Directiva 64/433/CEE
+jurisdiction: european_union
+territory: null
+document_type: directive
+document_type_label: Diretiva
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1992/5
+official_date: null
+publication_date: '1992-03-02'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 57 de 2.3.1992
+  number: '57'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/5d8d7cc4-ecc2-46f3-92ff-f56aff523b37.0009.02/DOC_1
+entry_into_force_dates:
+- '1992-02-24'
+- '1993-01-01'
+end_of_validity_date: '2005-12-31'
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 31992L0005
+  eli: http://data.europa.eu/eli/dir/1992/5/oj
+  oj: oj:JOL_1992_057_R_0001_008
+  dre: null
+  dre_path: null
+  internal: eu:celex:31992L0005:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31992L0005
+  metadata_url: http://publications.europa.eu/resource/cellar/5d8d7cc4-ecc2-46f3-92ff-f56aff523b37.0009
+  content_url: http://publications.europa.eu/resource/cellar/5d8d7cc4-ecc2-46f3-92ff-f56aff523b37.0009.01/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T02:44:17Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2015-03-31T20:24:09.400+02:00'
+integrity:
+  source_sha256: 3d8050fa429715d96aaa9f1b8d7a2f2df804f6d4439b578559b38b4d6f1da339
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:44:17Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- carne
+- comercialização
+- comércio intra-UE
+- inspeção sanitária
+- produto à base de carne
+relationships:
+- type: amended_by
+  target: celex:11994NN01/05/E
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3dcf43bc-fa29-43dd-a0dd-a78e865f63d4
+  date: '1994-08-29'
+- type: amends
+  target: celex:31964L0433
+  label: null
+  source: http://publications.europa.eu/resource/cellar/759f2d2b-6b09-4d07-ae48-d56a16b166d6
+  date: '1964-07-29'
+- type: amends
+  target: celex:31977L0099
+  label: null
+  source: http://publications.europa.eu/resource/cellar/7c32d7ef-2983-4ed2-84c8-369af82bbef3
+  date: '1977-01-31'
+- type: amends
+  target: celex:31991L0497
+  label: null
+  source: http://publications.europa.eu/resource/cellar/6f70351d-081e-4ca9-8ac9-b1ce535593ce
+  date: '1991-09-24'
+- type: based_on
+  target: celex:11957E043
+  label: null
+  source: http://publications.europa.eu/resource/cellar/5013e763-b28e-492b-827e-9cb15cc00430
+  date: '1957-03-25'
+- type: cited_by
+  target: pt:dre:152551:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:223273:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:475762:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:621160:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:680782:por
+  label: null
+  source: null
+- type: cites
+  target: celex:31989L0662
+  label: null
+  source: http://publications.europa.eu/resource/cellar/0c21eb0f-b405-4c20-8b0b-7e7c3bb1ee16
+- type: cites
+  target: celex:31990L0675
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ccdb62ee-ba44-4d71-a7a1-7b78528ab8ec
+- type: cites
+  target: celex:31991L0496
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3ed86f37-3881-4162-8d8d-48e59de7b01e
+- type: implicitly_repeals
+  target: celex:31988L0658
+  label: null
+  source: http://publications.europa.eu/resource/cellar/1596288b-9da1-4dde-87ad-0eae17730338
+  date: '1988-12-31'
+- type: repealed_by
+  target: celex:32004L0041
+  label: null
+  source: http://publications.europa.eu/resource/cellar/ddf99b57-c682-46c5-a35d-0c7a4c455cf0
+  date: '2010-03-08'
+article_structure:
+  article_count: 25
+  section_count: 12
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:44:17Z'
+  warnings:
+  - 'Versão consolidada 01992L0005-19950101 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
+    do JO.'
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Directiva 92/5/CEE do Conselho de 10 de Fevereiro de 1992
+
+**Directiva 92/5/CEE do Conselho de 10 de Fevereiro de 1992 que altera e actualiza a Directiva 77/99/CEE, relativa aos problemas sanitários em matéria de comércio intracomunitário de produtos à base de carne, e que altera a Directiva 64/433/CEE** *Jornal Oficial nº L 057 de 02/03/1992 p. 0001 - 0026 Edição especial finlandesa: Capítulo 3 Fascículo 41 p. 0046 Edição especial sueca: Capítulo 3 Fascículo 41 p. 0046*
+
+DIRECTIVA 92/5/CEE DO CONSELHO de 10 de Fevereiro de 1992 que altera e actualiza a Directiva 77/99/CEE, relativa aos problemas sanitários em matéria de comércio intracomunitário de produtos à base de carne, e que altera a Directiva 64/433/CEE
+
+O CONSELHO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia e, nomeadamente, o seu artigo 43o.,
+
+Tendo em conta as propostas da Comissão (1),
+
+Tendo em conta o parecer do Parlamento Europeu (2),
+
+Tendo em conta o parecer do Comité Económico e Social (3),
+
+Considerando que as carnes das espécies bovina, suína, ovina e caprina, as carnes de solípedes domésticos, as carnes de aves de capoeira e as carnes de caça, bem como os produtos tratados provenientes destas carnes, fazem parte da lista de produtos do anexo II do Tratado; que a produção e o comércio desses produtos constituem uma fonte de rendimentos importante para parte da população agrícola;
+
+Considerando que, a fim de assegurar o desenvolvimento racional deste sector e aumentar a sua produtividade, devem ser adoptadas, a nível comunitário, disposições de ordem sanitária que regulamentem a sua produção e comercialização;
+
+Considerando que a Comunidade deve adoptar medidas destinadas a estabelecer progressivamente o mercado interno durante um período que termina em 31 de Dezembro de 1992;
+
+Considerando que a Directiva 77/99/CEE (4) fixou as condições sanitárias a respeitar no comércio intracomunitário de produtos à base de carne;
+
+Considerando que a Directiva 89/662/CEE (5) fixou as regras de controlo aplicáveis na perspectiva do mercado interno e, nomeadamente, a supressão dos controlos veterinários nas fronteiras entre Estados-membros;
+
+Considerando que, a fim de ter em conta a supressão dos referidos controlos e o reforço das garantias na origem, já que deixa de ser possível fazer uma distinção entre produtos destinados ao mercado nacional ou ao mercado de outro Estado-membro, convém alargar a toda a produção as exigências da Directiva 77/99/CEE, adaptando-as;
+
+Considerando que essa adaptação deve ter especialmente em vista a uniformização das condições sanitárias aplicáveis à produção, armazenagem e transporte dos produtos à base de carne e dos outros produtos de origem animal destinados ao consumo humano;
+
+Considerando que pareceu oportuno prever um processo de aprovação dos estabelecimentos que satisfazem as condições sanitárias fixadas na presente directiva, bem como um processo de inspecção comunitária para velar pelo cumprimento das condições previstas para essa aprovação;
+
+Considerando que os estabelecimentos de fraca estrutura devem ser aprovados segundo critérios simplificados de estrutura e de infra-estrutura, embora respeitando as regras de higiene previstas na presente directciva;
+
+Considerando que a marcação de salubridade dos produtos à base de carne constitui o meio mais adequado de fornecer às autoridades competentes do local de destino a garantia de que determinada remessa cumpre as disposições da presente directiva; que convém manter o certificado de salubridade para controlar o destino de certos produtos;
+
+Considerando que as regras, princípios e medidas de salvaguarda estabelecidos pela Directiva 90/675/CEE do Conselho, de 10 de Dezembro de 1990, que fixa os princípios relativos à organização dos controlos veterinários dos produtos provenientes de países terceiros introduzidos na Comunidade (6), devem aplicar-se ao caso presente;
+
+Considerando que, no contexto do comércio intracomunitário, as regras estabelecidas pela Directiva 89/662/CEE devem ser igualmente aplicáveis;
+
+Considerando que a Comissão deve ser incumbida da adopção de determinadas medidas de execução da presente directiva; que, com esse objectivo, devem ser adoptados processos que estabeleçam uma cooperação estreita e eficaz entre a Comissão e os Estados-membros no âmbito do Comité veterinário permanente;
+
+Considerando que, devido a dificuldades de abastecimento especiais relacionadas com a situação geográfica da República Helénica, é conveniente prever disposições derrogatórias especiais para este Estado-membro; que é conveniente, pelas mesmas razões, conceder um prazo suplementar às regiões penalizadas por um afastamento geográfico a fim de que estas possam cumprir as exigências da presente directiva;
+
+Considerando que a adopção de regras específicas para os produtos abrangidos pela presente directiva não afecta a adopção de regras para a higiene e a segurança alimentar em geral, em relação às quais a Comissão apresentou uma directiva-quadro;
+
+Considerando que convém, por uma questão de clareza, actualizar a Directiva 77/99/CEE, bem como adaptar a Directiva 64/433/CEE, relativa a problemas sanitários em matéria de comércio intracomunitário de carne fresca (7),
+
+ADOPTOU A PRESENTE DIRECTIVA:
+
+###### Artigo 1o.
+
+A partir de 1 de Janeiro de 1993, o título, os artigos 1o. a 21o. e os anexos da Directiva 77/99/CEE são substituídos pelo texto constante do anexo à presente directiva.
+
+###### Artigo 2o.
+
+A Directiva 91/497/CEE é alterada do seguinte modo:
+
+1. N° título, o termo «codifica» é substituído pelo termo «actualiza» e são aditados os termos «e que altera a Directiva 71/462/CEE».
+
+2. O artigo 1o. passa a ter a seguinte redacção:
+
+«Artigo 1o.
+
+A partir de 1 de Janeiro de 1993, o título e os artigos da Directiva 64/433/CEE são substituídos em conformidade com o anexo à presente directiva.».
+
+3. N° anexo, é suprimida a data de 26 de Junho de 1964 no título da Directiva 64/433/CEE.
+
+4. N° capítulo XII do anexo I à Directiva 64/433/CEE, é aditada a seguinte frase no terceiro parágrafo do ponto 60:
+
+«Pode derrogar-se esta exigência no que se refere às carnes congeladas que se destinem a ser utilizadas no estado em que se encontram como matéria-prima para os produtos referidos na Directiva 77/99/CEE ou na Directiva 88/657/CEE.».
+
+###### Artigo 3o.
+
+Os Estados-membros porão em vigor as disposições legislativas, regulamentares e administrtivas necessárias para dar cumprimento às disposições da presente directiva, o mais tardar até 1 de Janeiro de 1993 excepto no que se refere:
+
+- às regiões que sofrem de afastamento geográfico, reconhecidas nos termos do artigo 17o. da Directiva 90/675/CEE, incluindo, no que se refere ao Reino de Espanha, as ilhas Canárias, e nos termos do artigo 13o. da Directiva 91/496/CEE,
+
+e
+
+- aos estabelecimentos situados nos novos Laender da República Federal da Alemanha que beneficiam de planos de reestruturação,
+
+em relação aos quais deverão dar cumprimento à presente directiva, o mais tardar, até 1 de Janeiro de 1995.
+
+Desse facto informarão imediatamente a Comissão.
+
+Sempre que os Estados-membros aprovarem as referidas disposições, estas deverão incluir uma referência à presente directiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. As modalidades desta referência serão adoptadas pelos Estados-membros.
+
+###### Artigo 4o.
+
+Os Estados-membros são os destinatários da presente directiva.
+
+Feito em Bruxelas, em 10 de Fevereiro de 1992.
+
+Pelo Conselho
+
+O Presidente
+
+Arlindo MARQUES CUNHA
+
+(1) JO no. C 84 de 2. 4. 1990, p. 89; JO no. C 327 de 30. 12. 1989, p. 25; JO no. C 262 de 14. 10. 1981, p. 3; JO no. C 267 de 11. 10. 1982, p. 59; e JO no. C 296 de 15. 11. 1991, p. 8.
+
+(2) JO no. C 240 de 16. 9. 1991, p. 6 e JO no. C 113 de 7. 5. 1990, p. 205.
+
+(3) JO no. C 332 de 31. 12. 1990, p. 94; JO no. C 62 de 2. 3. 1990, p. 25; JO no. C 168 de 10. 7. 1990, p. 8; e JO no. C 124 de 21. 5. 1990, p. 15.
+
+(4) JO no. L 26 de 31. 1. 1977, p. 85. Directiva com a última redacção que lhe foi dada pela Directiva 85/328/CEE (JO no. L 168 de 28. 6. 1985, p. 28).
+
+(5) JO no. L 395 de 30. 12. 1989, p. 13. Directiva com a última redacção que lhe foi dada pela Directiva 90/675/CEE (JO no. L 373 de 31. 12. 1990, p. 1).
+
+(6) JO no. L 373 de 31. 12. 1990, p. 1.
+
+(7) JO no. 121 de 29. 7. 1964, p. 2012/64. Directiva com a última redacção que lhe foi dada pela Directiva 91/497/CEE (JO no. L 268 de 24. 9. 1991, p. 69).
+
+## ANEXO
+
+Directiva do Conselho relativa a problemas sanitários em matéria de produção e colocação no mercado de produtos à base de carne e de determinados outros produtos de origem animal
+
+###### Artigo 1o.
+
+1. A presente directiva estabelece as condições sanitárias aplicáveis à produção e à colocação no mercado de produtos à base de carne e de outros produtos de origem animal, destinados, após tratamento, ao consumo humano ou à preparação de outros géneros alimentícios.
+
+2. A presente directiva não se aplica à preparação e armazenagem de produtos à base de carne e de outros produtos de origem animal destinados ao consumo humano, efectuadas por retalhistas ou em instalações adjacentes aos locais de venda em que essas operações são efectuadas tendo como único objectivo a venda directa ao consumidor.
+
+###### Artigo 2o.
+
+Para efeitos da presente directiva entende-se por:
+
+a) Produtos à base de carne: os produtos fabricados a partir de carne ou com carne que tenha sofrido um tratamento tal que a superfície de corte à vista permita verificar o desaparecimento das características da carne fresca.
+
+N° entanto, não se consideram produtos à base de carne:
+
+i) as carnes que só tenham sido submetidas a um tratamento pelo frio e que continuam sujeitas às regras das directivas referidas na alínea d),
+
+ii) os produtos abrangidos pela Directiva 88/657/CEE do Conselho, de 14 de Dezembro de 1988, que estabelece os requisitos relativos à produção e ao comércio de carne picada, de carne em pedaços de menos de cem gramas e de preparados de carne, e que altera as Directivas 64/433/CEE, 71/118/CEE e 72/462/CEE (¹);
+
+b) Outros produtos de origem animal:
+
+i) extractos de carne,
+
+ii) gorduras animais fundidas, ou seja, gorduras fundidas a partir de carnes, incluindo os respectivos ossos, e destinadas ao consumo humano,
+
+iii) torresmos, ou seja, resíduos proteicos da fusão, após separação parcial das gorduras e da água,
+
+iv) gelatinas,
+
+(¹) JO no. L 382 de 31. 12. 1988, p. 3.
+
+v) farinhas de carne, courato em pó, sangue salgado ou seco, plasma sanguíneo salgado ou seco,
+
+vi) estômagos, bexigas e tripas limpas, salgadas ou secas e/ou aquecidas;
+
+c) Pratos cozinhados à base de carne: produtos à base de carne que correspondam a preparados culinários, cozidos ou pré-cozidos, acondicionados e conservados pelo frio;
+
+d) Carnes: as carnes referidas nos:
+
+- artigo 2o., alínea a), da Directiva 64/433/CEE,
+
+- artigo 2o. da Directiva 71/118/CEE,
+
+- artigo 2o. da Directiva 72/461/CEE,
+
+- artigo 2o. da Directiva 72/462/CEE,
+
+- artigo 2o. da Directiva 88/657/CEE,
+
+- artigo 2o., nos. 1 e 2, da Directiva 91/495/CEE;
+
+e) Matérias-primas: qualquer produto de origem animal utilizado como ingrediente na elaboração dos produtos referidos nas alíneas a) e b) ou que entre na preparação de pratos cozinhados;
+
+f) Tratamento: processo químico ou físico, tal como o aquecimento, a fumagem, a salga, a marinagem, a salga profunda ou a dessecação, destinado a prolongar a conservação das carnes ou dos produtos de origem animal associados ou não a outros géneros alimentícios, ou uma combinação desses diferentes processos;
+
+g) Aquecimento: utilização do calor seco ou húmido;
+
+h) Salga: utilização de sais;
+
+i) Salga profunda: difusão de sais na massa do produto;
+
+j) Cura: tratamento das carnes cruas salgadas, aplicado em condições climáticas susceptíveis de provocar, durante uma redução lenta e gradual da humidade, a evolução de processos de fermentação ou enzimáticos naturais, dos quais resultem, com o tempo, alterações que conferem ao produto características organolépticas típicas e que garantam a conservação e a salubridade em condições normais de temperatura ambiente;
+
+k) Dessecação: redução natural ou artificial da quantidade de água;
+
+l) Lote: quantidade de produto à base de carne abrangida pelo mesmo documento comercial de acompanhamento ou certificado de salubridade;
+
+m) Acondicionamento: operação destinada a proteger os produtos referidos no no. 1 do artigo 1o., através da utilização de um primeiro invólucro ou de um primeiro continente em contacto directo com o produto em causa, bem como este primeiro invólucro ou este primeiro continente;
+
+n) Embalagem: operação que consiste em colocar um ou vários produtos referidos no no. 1 do artigo 1o., acondicionados ou não, num continente, bem como o próprio continente;
+
+o) Recipiente hermeticamente fechado: continente destinado a proteger o conteúdo contra a introdução de microrganismos durante e após o tratamento pelo calor e que é impenetrável ao ar;
+
+p) Estabelecimento: qualquer empresa que fabrique os produtos referidos nas alíneas a), b) e c);
+
+q) Centro de reacondicionamento: instalação ou armazém em que se procede ao reagrupamento e/ou ao reacondicionamento de produtos destinados à colocação no mercado;
+
+r) Colocação no mercado: detenção ou exposição com vista à venda, colocação à venda, venda, entrega ou qualquer outra forma de cessão na Comunidade com excepção da venda a retalho;
+
+s) Autoridade competente: autoridade central de um Estado-membro que é competente para efectuar os controlos veterinários ou qualquer autoridade em que esta tenha delegado a referida competência.
+
+###### Artigo 3o.
+
+A. Cada Estado-membro velará por que, sem prejuízo das condições previstas no artigo 4o., os produtos à base de carne colocados no mercado:
+
+1. Sejam preparados e armazenados num estabelecimento aprovado e controlado:
+
+- quer nos termos do artigo 8o. e que cumpram as exigências da presente directiva, nomeadamente as do anexo A e as dos capítulos I e II do anexo B,
+
+- quer nos termos do artigo 9o. no que se refere aos estabelecimentos que não possuam uma estrutura ou uma capacidade de produção industrial;
+
+2. Sejam preparados a partir de carnes tal como as definidas na alínea d) do artigo 2o., entendendo-se que:
+
+i) as carnes importadas de um país terceiro devem ter sido controladas nos termos da Directiva 90/675/CEE,
+
+ii) as carnes importadas nos termos do artigo 15o. da Directiva 71/118/CEE e do segundo parágrafo do artigo 17o. da Directiva 91/495/CEE só podem ser utilizadas se:
+
+- os produtos obtidos a partir dessas carnes satisfizerem as exigências da presente directiva,
+
+- estes produtos não forem objecto da marcação de salubridade prevista no capítulo VI do anexo B,
+
+- a colocação desses produtos no mercado permanecer sujeita às disposições nacionais do Estado-membro do local de destino.
+
+Não podem ser utilizados na preparação de produtos à base de carne as carnes declaradas impróprias para consumo segundo as exigências dos artigos 5o. e 6o. da Directiva 64/433/CEE, bem como:
+
+a) Os órgãos do aparelho genital de animais fêmeas ou machos, com excepção dos testículos;
+
+b) Os órgãos do aparelho urinário, com excepção dos rins e da bexiga;
+
+c) A cartilagem da laringa, da traqueia e dos brônquios extralobulares;
+
+d) Os olhos e as pálpebras;
+
+e) O canal auditivo externo;
+
+f) Os tecidos córneos;
+
+g) Nas aves de capoeira, a cabeça - com excepção da crista e dos orelhões, dos barbilhões e da carúncula -, o esófago, o papo, os intestinos, os órgãos do aparelho genital;
+
+A lista dos produtos acima referidos pode ser complementada ou restringida de acordo com o processo previsto no artigo 20o.;
+
+3. Sejam preparados em conformidade com as exigências do capítulo III do anexo B e, caso se trate de produtos pasteurizados ou esterilizados em recipientes hermeticamente fechados ou de pratos cozinhados, satisfaçam as exigências, respectivamente, do capítulo VIII ou do capítulo IX do anexo B;
+
+4. Sejam submetidos ao autocontrolo previsto no artigo 7o. e a um controlo da autoridade competente nos termos do capítulo IV do anexo B;
+
+5. Satisfaçam, se necessário, as exigências previstas no no. 2 do artigo 7o.;
+
+6. Quando existir acondicionamento, embalagem ou rotulagem, sejam acondicionados, embalados ou rotulados em conformidade com o capítulo V do anexo B no local ou em centros de reacondicionamento especialmente aprovados para o efeito pela autoridade competente.
+
+Todavia, na pendência de regulamentação comunitária, as disposições da presente directiva aplicáveis no que se refere à menção de denominação de venda dos produtos à base de carne não abrangem os produtos de denominação de origem nem os produtos típicos;
+
+7. Sem prejuízo das exigências previstas em matéria de marcação pela Directiva 80/215/CEE, sejam objecto, sob responsabilidade do concessionário ou do gestor do estabelecimento, de uma marcação através:
+
+- de uma marca de salubridade nacional se a matéria-prima utilizada for comercializada com a referida marca,
+
+- sem prejuízo de eventuais derrogações a especificar segundo o mesmo processo, de uma marca a determinar de acordo com o processo previsto no artigo 20o. se, em conformidade com a legislação comunitária, as carnes utilizadas tiverem de ser reservadas à comercialização a nível local,
+
+- de uma marcação de salubridade nos termos do capítulo VI do anexo B, nos outros casos,
+
+devendo esta marca ser impressa no rótulo ou aposta no produto ou no acondicionamento, ficando assente que a impressão ou reimpressão dos rótulos ou das marcas deverá ser objecto de autorização da autoridade competente;
+
+8. Sejam manipulados, armazenados e transportados nos termos do capítulo VII do anexo B e, se estiverem armazenados num entreposto frigorífico distinto do estabelecimento, que esse entreposto tenha sido aprovado e inspeccionado nos termos do artigo 10o. da Directiva 64/433/CEE;
+
+9. Sejam acompanhados durante o seu transporte:
+
+a) Até 30 de Junho de 1993, para o comércio intracomunitário de produtos à base de carne para além dos referidos no segundo parágrafo da subalínea ii) da alínea b), do certificado de salubridade emitido pela autoridade competente no momento da carga, correspondente na sua apresentação e conteúdo ao modelo constante do anexo D. O referido certificado deverá ser emitido, pelo menos, na língua ou línguas oficiais do local de destino. Deve constar de uma única folha;
+
+b) A partir de 1 de Julho de 1993:
+
+i) de um documento comercial de acompanhamento que deverá:
+
+- incluir, para além das indicações previstas no ponto 4 do capítulo VI do anexo B, o número de código que permita identificar a autoridade competente encarregada do controlo do estabelecimento de origem,
+
+- ser conservado pelo destinatário durante um período mínimo de um ano a fim de poder ser apresentado à autoridade competente, a seu pedido,
+
+- até 31 de Dezembro de 1996, e sempre que se tratar de produtos à base de carne referidos no segundo parágrafo da subalínea ii) que se destinam à República Helénica depois de transitarem pelo território de um país terceiro, ser visado pela autoridade competente do posto de inspecção fronteiriço no qual se processam as formalidades de colocação em trânsito, a fim de atestar que os produtos à base de carne satisfazem as exigências da presente directiva,
+
+ii) de um certificado de salubridade nos termos do anexo D sempre que se tratar de produtos referidos no artigo 1o., obtidos a partir de carnes provenientes de um matadouro situado numa região ou numa zona sujeita a restrição, por razões de polícia sanitária, ou a partir de carnes referidas no artigo 6o. da Directiva 64/433/CEE ou de produtos destinados a outro Estado-membro depois de transitarem por um país terceiro num meio de transporte selado.
+
+Essa obrigação não se aplica aos produtos à base de carne que se encontrem em recipientes hermeticamente fechados e que tenham sido submetidos a um tratamento nos termos previstos no primeiro travessão do ponto B do capítulo VIII do anexo B, se a marca de salubridade lhes for aposta de forma indelével em conformidade com as regras a elaborar de acordo com o processo previsto no artigo 20o.
+
+As modalidades de aplicação da subalínea ii), nomeadamente as relativas à atribuição dos números de código e à elaboração de uma lista ou de várias listas que permitam identificar a autoridade competente, serão adoptadas de acordo com o processo previsto no artigo 20o.
+
+B. Na pendência de eventual regulamentação comunitária aplicável em matéria de ionização, os produtos à base de carne não podem ter sido submetidos a radiações ionizantes.
+
+A presente disposição não afecta as regras nacionais aplicáveis à ionização para fins médicos.
+
+###### Artigo 4o.
+
+Os Estados-membros velarão por que, para além dos requisitos gerais previstos no artigo 3o.:
+
+1. Os produtos à base de carne:
+
+a) Sejam preparados por aquecimento, salga profunda, marinagem ou dessecação, podendo esses processos ser combinados com a fumagem ou a cura, se for caso disso em condições microclimáticas especiais, e sejam associados, em particular, a certos adjuvantes de salga profunda, respeitando o no. 2 do artigo 16o. Os produtos à base de carne podem ser igualmente associados a outros produtos alimentares e condimentos;
+
+b) Sejam obtidos, se for caso disso, a partir de um produto à base de carne ou de um preparado de carne;
+
+2. Até expirarem as derrogações previstas pelas Directivas 71/118/CEE e 91/498/CEE, as salas, utensílios e material utilizados na elaboração de produtos à base de carne, a partir de ou com carnes munidas da marca de salubridade CEE, só podem ser utilizadas para a elaboração de produtos à base de carne a partir de ou com carnes que não possuam a referida marca após autorização da autoridade competente e desde que sejam tomadas todas as precauções a contento da referida autoridade, a fim de evitar a confusão dos produtos à base de carne;
+
+3. Os produtos à base de carne referidos no no. 7, primeiro e segundo travessões, do artigo 3o. não possam ser enviados para o território de outro Estado-membro e a sua comercialização nacional ou local seja rigorosamente controlada.
+
+###### Artigo 5o.
+
+O Conselho, deliberando por maioria qualificada, sob proposta da Comissão, estabelece as normas sanitárias e de higiene a que devem obedecer os pratos cozinhados, com excepção dos pratos cozinhados, à base de carne, obtidos a partir de matérias-primas de origem animal não abrangidas pela presente directiva. Na expectativa desta decisão, os Estados-membros velarão por que os pratos cozinhados em questão, desde que sejam fabricados num estabelecimento definido na alínea p) do artigo 2o., respeitem as regras de higiene previstas no capítulo II do anexo A e por que esses pratos satisfaçam, além disso, as exigências específicas previstas no capítulo IX do anexo B e sejam controlados nos termos do artigo 7o.
+
+###### Artigo 6o.
+
+1. Os Estados-membros velarão por que os outros produtos de origem animal:
+
+- tenham sido obtidos em estabelecimentos que satisfaçam as exigências do artigo 7o. e autorizados e registados nos termos do artigo 11o., que respeitem as normas do anexo A e sejam controlados nos termos do artigo 8o.,
+
+- sejam fabricados de acordo com as condições específicas previstas no anexo C,
+
+- sejam sujeitos aos controlos previstos no capítulo IV do anexo B,
+
+- sejam acompanhados, nos termos do no. 9, alínea b), subalínea i), do artigo 3o., de um documento comercial que especifique a origem dos referidos produtos.
+
+2. De acordo com o processo previsto no artigo 20o. e até 31 de Dezembro de 1992, serão determinadas as condições sanitárias especiais para a preparação das gelatinas destinadas ao consumo humano.
+
+De acordo com o mesmo precesso, e a fim de assegurar a protecção de saúde pública, podem ser fixadas condições suplementares a que devem obedecer os outros produtos de origem animal.
+
+###### Artigo 7o.
+
+1. Os Estados-membros velarão por que o concessionário ou o gestor do estabelecimento ou dos centros de reacondicionamento tome todas as medidas necessárias para que sejam observadas as prescrições da presente directiva em todos os estádios da produção ou do reacondicionamento.
+
+Para o efeito, estes responsáveis devem efectuar autocontrolos constantes baseados nos seguintes princípios:
+
+- identificação dos pontos críticos do seu estabelecimento em função dos processos utilizados,
+
+- estabelecimento e aplicação de métodos de vigilância e de controlo desses pontos críticos,
+
+- colheita de amostras para análise num laboratório aprovado pela autoridade competente, para efeitos de controlo dos métodos de limpeza e de desinfecção e para verificar a observância das normas estabelecidas na presente directiva,
+
+- conservação de um vestígio escrito ou registado das indicações pedidas em conformidade com os travessões anteriores, com vista à sua apresentação à autoridade competente. Os resultados dos vários controlos e testes serão nomeadamente conservados durante um período de, pelo menos, dois anos, excepto para os produtos referidos no no. 2, em relação aos quais este prazo pode ser reduzido para seis meses após a data de conservabilidade mínima do produto,
+
+- garantias em matérias de gestão da marcação de salubridade, nomeadamente, dos rótulos com marca de salubridade,
+
+- se o resultado da análise laboratorial ou qualquer outra informação de que disponham revelar a existência de risco sanitário grave, informação da autoridade competente,
+
+- em caso de riscos imediatos para a saúde humana, retirada do mercado da quantidade de produtos obtidos em condições tecnológicas semelhantes e susceptíveis de apresentar o mesmo risco. Esta quantidade retirada da colocação no mercado deve permanecer sob a vigilância e responsabilidade da autoridade competente até ser destruída, utilizada para fins que não sejam o consumo humano ou, após autorização da referida autoridade, ser tratada de novo adequadamente a fim de garantir que se tornou segura,
+
+- os requisitos previstos no primeiro e segundo travessões deverão ter sido determinados com a autoridade competente, que deve controlar a sua observância com regularidade.
+
+2. N° que respeita aos produtos à base de carne que não possam ser conservados à temperatura ambiente, o concessionário ou o gestor do estabelecimento ou do centro de reacondicionamento deve, para efeitos de controlo, mencionar de forma visível e legível, na embalagem do produto, a temperatura a que o produto deve ser transportado e armazenado, bem como a data de durabilidade mínima ou, no caso de produtos microbiologicamente perecíveis, a data limite de consumo.
+
+3. O concessionário ou o gestor do estabelecimento deve ter à sua disposição ou organizar um programa de formação do pessoal que permita a este último satisfazer as condições de produção higiénica adaptadas à estrutura de produção, excepto se o referido pessoal já dispuser de qualificação suficiente comprovada por diploma. Este programa de formação poderá revestir-se de um carácter específico quando se tratar dos estabelecimentos referidos no artigo 9o.
+
+A autoridade competente responsável pelo estabelecimento deverá estar associada à concepção e execução deste programa.
+
+###### Artigo 8o.
+
+1. Cada Estado-membro elaborará a lista dos estabelecimentos aprovados, com excepção dos referidos no artigo 11o., sendo a cada um deles atribuído um número de aprovação. Essa lista será comunicada aos outros Estados-membros e à Comissão.
+
+Pode ser atribuído um número de aprovação único a:
+
+i) um estabelecimento ou a um centro de reacondicionamento que trate ou reacondicione produtos obtidos a partir de ou com matérias-primas abrangidas por várias das directivas referidas na alínea d) do artigo 2o.,
+
+ii) um estabelecimento situado no mesmo local que um estabelecimento aprovado nos termos de uma das directivas referidas na alínea d) do artigo 2o.
+
+A autoridade competente só aprovará um estabelecimento se tiver a certeza de que o mesmo cumpre as disposições da presente directiva no que se refere à natureza das actividades que exerce. Todavia, desde que um estabelecimento a aprovar a título da presente directiva esteja integrado num estabelecimento aprovado a título das Directivas 64/433/CEE, 71/118/CEE, 91/493/CEE ou 91/495/CEE, as salas, equipamentos e instalações previstas para o pessoal, bem como todas as salas em que não haja risco de contaminação das matérias-primas ou dos produtos não acondicionados, podem ser comuns a estes estabelecimentos.
+
+Sempre que a autoridade competente verificar o não cumprimento evidente das regras de higiene previstas na presente directiva ou um entrave a uma inspecção sanitária adequada:
+
+i) está habilitada a intervir na utilização de equipamentos ou de salas e a tomar qualquer medida necessária, que poderá ir até à redução da cadência de produção ou à suspensão momentânea do processo de produção,
+
+ii) suspenderá temporariamente a aprovação, se for caso disso, para o tipo de produção posto em causa, sempre que estas medidas ou as medidas previstas no no. 1, penúltimo travessão, do artigo 7o. se tiverem revelado insuficientes para resolver a situação.
+
+Se o concessionário ou o gestor do estabelecimento não obviar ao não cumprimento verificado no prazo fixado pela autoridade competente, esta cancelará a aprovação.
+
+A autoridade competente em questão terá nomeadamente que respeitar as conclusões de um eventual controlo efectuado nos termos do artigo 12o.
+
+Os outros Estados-membros e a Comissão serão informados da suspensão ou do cancelamento da aprovação.
+
+2. A inspecção e o controlo dos estabelecimentos serão efectuados pela autoridade competente.
+
+O estabelecimento deverá ficar sob controlo permanente da autoridade competente, sendo ponto assente que a necessidade de uma presença permanente ou periódica da autoridade competente num determinado estabelecimento deverá depender do tamanho do estabelecimento, do tipo de produto fabricado, do sistema de avaliação dos riscos, das garantias oferecidas nos termos do no. 1, segundo parágrafo, quinto e último travessões, do artigo 7o.
+
+A autoridade competente deve ter acesso livre e permanente a todas as partes dos estabelecimentos para se poder certificar de que as disposições da presente directiva são observadas e, em caso de dúvida sobre a origem das carnes, aos documentos comerciais que lhe permitam remontar até o matadouro de origem ou a exploração de origem da matéria-prima.
+
+A autoridade competente deverá efectuar análises regulares dos resultados dos controlos previstos no no. 1 do artigo 7o. Em função dessas análises, pode mandar efectuar análises complementares em todas as fases da produção ou dos produtos.
+
+A natureza destes controlos, a sua frequência bem como os métodos de amostragem e de análises microbiológicas serão fixados de acordo com o processo previsto no artigo 20o.
+
+Os resultados destas análises serão objecto de um relatório cujas conclusões ou recomendações serão levadas ao conhecimento do concessionário ou do gestor do estabelecimento, que procurará obviar às carências verificadas, tendo em vista melhorar a higiene.
+
+3. Em caso de repetido não cumprimento, o controlo deverá ser reforçado e, eventualmente, deverão ser apreendidos os rótulos ou outros suportes com a marca de salubridade.
+
+4. As regras de aplicação do presente artigo serão fixadas de acordo com o processo previsto no artigo 20o.
+
+###### Artigo 9o.
+
+1. Os Estados-membros podem conceder, com vista à sua aprovação, aos estabelecimentos que fabricam produtos à base de carne e que não possuem uma estrutura e uma capacidade de produção industrial, derrogações às exigências do capítulo I do anexo B e às do capítulo I, ponto 2, alínea g), do anexo A, no que se refere às torneiras, e às do ponto 11, a fim de aí substituir os vestiários por armários.
+
+Além disso, podem ser concedidas derrogações ao ponto 3 do capítulo I do anexo A, no que se refere aos compartimentos de armazenagem das matérias-primas e dos produtos acabados. N° entanto, nesse caso, o estabelecimento deverá dispor, pelo menos, de:
+
+i) um compartimento ou dispositivo, eventualmente refrigerado, para a armazenagem das matérias-primas, se essa armazenagem aí for efectuada,
+
+ii) um compartimento ou dispositivo, eventualmente refrigerado, para a armazenagem dos produtos acabados, se tal armazenagem aí for efectuada.
+
+2. Os Estados-membros podem alargar o benefício da derrogação prevista no no. 1 aos estabelecimentos referidos:
+
+- no no. 1 do artigo 4o. da Directiva 64/433/CEE, sempre que estiverem reunidas as exigências previstas no no. 1, segundo parágrafo, do artigo 13o. da referida directiva,
+
+- no no. 2 do artigo 4o. e no no. 1, segundo parágrafo, do artigo 13o. da Directiva 64/433/CEE,
+
+desde que estes fabriquem produtos à base de carne, sendo óbvio que o tratamento dos produtos nesses estabelecimentos deverá obedecer às restantes exigências da presente directiva.
+
+3. As disposições do capítulo VII do anexo B não se aplicam às operações de armazenagem nos estabelecimentos referidos no no. 1 nem às operações de transporte de produtos que não os referidos no no.2 do artigo 7o.
+
+4. Até 1 de Outubro de 1992, os Estados-membros comunicarão à Comissão os critérios que tiverem adoptado para avaliar se um estabelecimento ou uma categoria de estabelecimentos são abrangidos pelo disposto no presente artigo.
+
+Se, após análise desses critérios e na sequência dos controlos efectuados nos termos do artigo 12o., a Comissão considerar que os critérios adoptados podem prejudicar a aplicação uniforme da presente directiva, esses critérios poderão ser alterados ou completados, de acordo com o processo previsto no artigo 20o., pela primeira vez antes de 1 de Janeiro de 1993. De acordo com o mesmo processo, são igualmente fixadas as condições em que as autoridades competentes do Estado-membro fazem uma nova classificação desses estabelecimentos.
+
+5. Com base nas informações recolhidas pela Comissão, nos termos do primeiro parágrafo do no. 4, serão fixados até 1 de Janeiro de 1993 critérios uniformes de aplicação do presente artigo, de acordo com o processo previsto no artigo 20o.
+
+###### Artigo 10o.
+
+Até 1 de Outubro de 1992, os estabelecimentos que beneficiam actualmente de uma aprovação nacional deverão apresentar um pedido à autoridade competente com vista à respectiva classificação a título das disposições do artigo 8o. ou das disposições do artigo 9o.
+
+Enquanto não tiver sido tomada uma decisão pela autoridade competente do Estado-membro e, o mais tardar, até 1 de Janeiro de 1996, todos os produtos provenientes do estabelecimento que não tiver sido objecto de uma classificação deverão continuar a apresentar a marca de salubridade nacional.
+
+Para os estabelecimentos referidos no artigo 8o., a pedido de um Estado-membro acompanhado das justificações adequadas, poderá ser concedido um prazo suplementar que termina a 1 de Janeiro de 1996, nos termos do processo previsto no artigo 20o. no que se refere ao respeito das exigências do ponto 1, alínea a), do capítulo I do anexo B. Os produtos provenientes desse estabelecimento deverão ter a marca de salubridade nacional.
+
+###### Artigo 11o.
+
+1. Em derrogação ao artigo 8o. e na medida em que a produção não se efectuar num estabelecimento aprovado nos termos do artigo 8o., os Estados-membros autorizarão e registarão todos os estabelecimentos que produzam outros produtos de origem animal definidos na alínea b) do artigo 2o., atribuindo a cada um deles um número oficial específico, para fins de inspecção e para poder remontar ao estabelecimento de origem dos produtos em causa.
+
+Todavia, sempre que a produção tiver sido efectuada numa sala contígua a um matadouro, esta aprovação deverá ser alargada à referida sala, em caso de conformidade com as exigências da presente directiva.
+
+2. A inspecção e a fiscalização dos estabelecimentos serão efectuadas pela autoridade competente, que deve ter acesso livre e permanente a todas as partes dos estabelecimentos para se poder certificar de que as disposições da presente directiva são cumpridas.
+
+3. Se essas inspecções revelarem que as disposições da presente directiva não estão a ser respeitadas, a autoridade competente tomará as medidas adequadas, podendo mesmo recorrer às medidas referidas no no. 1, terceiro e quarto parágrafos, do artigo 8o.
+
+4. As análises e testes deverão ser efectuados em conformidade com métodos comprovados e cientificamente reconhecidos, em especial os adoptados em disposições comunitárias ou em normas internacionais.
+
+A Comissão estabelecerá os métodos de referência de acordo com o processo previsto no artigo 20o.
+
+###### Artigo 12o.
+
+1. Na medida em que tal seja necessário à aplicação uniforme da presente directiva, e em colaboração com as autoridades competentes, os peritos da Comissão poderão efectuar controlos no local. Para esse efeito poderão verificar, através do controlo de uma percentagem representativa de estabelecimentos, se as autoridades competentes controlam o cumprimento das disposições da presente directiva pelos estabelecimentos aprovados. A Comissão informará os Estados-membros do resultado dos controlos efectuados.
+
+O Estado-membro em cujo território estiver a ser efectuado um controlo prestará toda a assistência necessária aos peritos no cumprimento da sua missão.
+
+As disposições gerais de aplicação do presente artigo serão adoptadas de acordo com o processo previsto no artigo 20o.
+
+2. Até 1 de Janeiro de 1995, o Conselho voltará a analisar o presente artigo com base num relatório da Comissão, acompanhado de eventuais propostas.
+
+###### Artigo 13o.
+
+1. Em derrogação às condições estabelecidas no artigo 3o., pode ser decidido, em conformidade com o processo previsto no artigo 20o., que algumas disposições da presente directiva se não apliquem aos produtos à base de carne que contenham outros géneros alimentícios e cuja percentagem de carne, de produtos à base de carne ou de preparados de carne seja mínima.
+
+Essas derrogações só podem ter por objecto:
+
+a) As condições de aprovação dos estabelecimentos previstas no capítulo I do anexo A e no capítulo I do anexo B;
+
+b) As condições de inspecção descritas no capítulo IV do anexo B;
+
+c) Os requisitos relativos à marcação prevista no capítulo VI do anexo B e, até 1 de Julho de 1993, o certificado de salubridade previsto no anexo D.
+
+Para a concessão de derrogações tal como previsto no presente artigo, ter-se-á em conta, simultaneamente, a natureza e a composição do produto.
+
+Sem embargo das disposições do presente artigo, os Estados-membros velarão por que todos os produtos à base de carne colocados no mercado sejam sãos e preparados a partir de carnes, de produtos à base de carne ou de produtos referidos na Directiva 88/657/CEE.
+
+2. Enquanto se aguarda uma decisão nos termos do no. 1, a Directiva 83/201/CEE continua a ser aplicável.
+
+###### Artigo 14o.
+
+As disposições previstas na Directiva 89/662/CEE do Conselho, relativa aos controlos veterinários aplicáveis no comércio intracomunitário com vista à realização do mercado interno, são aplicáveis, nomeadamente no que diz respeito à organização e ao seguimento dos controlos efectuados pelo Estado-membro destinatário e às medidas de salvaguarda a aplicar.
+
+###### Artigo 15o.
+
+Se considerar necessário, a Comissão, depois de ter recolhido o parecer dos Estados-membros no Comité veterinário permanente, pode emitir recomendações acompanhadas de directrizes relativas às boas práticas de fabrico, aplicáveis nos diversos estádios da produção e da colocação no mercado dos produtos referidos no artigo 1o.
+
+###### Artigo 16o.
+
+1. Na pendência de regulamentação comunitária relativa às normas sanitárias aplicável aquando do colocação de carnes de caça selvagem no mercado, continuarão a ser aplicáveis as normas nacionais relativas à utilização destas carnes nos estabelecimentos referidos na presente directiva e à colocação no mercado de produtos à base de carne que contenham estas carnes, no respeito das disposições gerais do Tratado.
+
+2. Na pendência da elaboração, no âmbito da legislação comunitária sobre aditivos, da lista de géneros alimentícios aos quais se podem acrescentar aditivos autorizados, assim como do estabelecimento das condições dessa adição e, se necessário, de uma limitação quanto ao objectivo tecnológico da sua utilização, continuarão a ser aplicáveis, no respeito pelas disposições gerais do Tratado, desde que se apliquem indistintamente à produção nacional e ao comércio, as regulamentações nacionais e os convénios bilaterais existentes à data do início da aplicação da Directiva 88/658/CEE que restringem a utilização de aditivos nos produtos abrangidos pela presente directiva.
+
+Até que essa lista seja elaborada, continuarão em vigor as regulamentações nacionais, bem como os convénios bilaterais que regulam a utilização de aditivos nos produtos abrangidos pela presente directiva, no respeito pelas disposições gerais do Tratado e pela regulamentação comunitária em vigor em matéria de aditivos.
+
+###### Artigo 17o.
+
+De acordo com o processo previsto no artigo 20o., poder-se-ão fixar:
+
+- as condições especiais de aprovação de estabelecimentos situados em mercados grossistas e em centros de reacondicionamento,
+
+- as regras de marcação dos produtos provenientes de centros de reacondicionamento, bem como as modalidades de controlo que permitem remontar ao estabelecimento de origem das matérias-primas,
+
+- a pedido de um Estado-membro ou por iniciativa da Comissão, as exigências pertinentes da presente directiva a aplicar a qualquer produto cuja colocação no mercado seja autorizada num Estado-membro e cuja composição ou apresentação possa dar origem a interpretações divergentes conforme os Estados-membros,
+
+- os métodos de controlo da estanqueidade dos recipientes referidos no no. 1, alínea f), do capítulo VIII do anexo B,
+
+- normas microbiológicas, incluindo protocolos de amostragem e métodos de análise, no que se refere aos produtos referidos no no. 2 do artigo 7o.
+
+###### Artigo 18o.
+
+1. Sem prejuízo das disposições específicas da presente directiva, a autoridade competente procederá a todos os controlos que considerar adequados caso suspeite de não cumprimento das disposições da presente directiva ou se houver dúvidas quanto à salubridade dos produtos referidos no artigo 1o.
+
+2. Os Estados-membros tomarão as medidas administrativas ou penais adequadas para sancionar qualquer infracção à presente directiva, designadamente sempre que se verificar que os certificados ou documentos emitidos não correspondem ao verdadeiro estado dos produtos referidos no artigo 1o., que a marcação dos produtos em questão não é conforme com esta regulamentação, que os referidos produtos não foram submetidos aos controlos previstos na presente directiva ou que a utilização inicialmente prevista para os referidos produtos não foi respeitada.
+
+###### Artigo 19o.
+
+Os anexos da presente directiva serão alterados pelo Conselho, deliberando por maioria qualificada sob proposta da Comissão, com vista, nomeadamente, à sua adaptação à evolução tecnológica.
+
+###### Artigo 20o.
+
+1. Caso se faça referência ao processo definido no presente artigo, o Comité veterinário permanente será chamado a pronunciar-se sem delongas pelo seu presidente, quer por iniciativa deste último quer a pedido do representante de um Estado-membro.
+
+2. O representante da Comissão submeterá um projecto de medidas a tomar. O comité formulará o seu parecer sobre este projecto no prazo fixado pelo seu presidente em função da urgência da questão. O comité pronunciar-se-á por maioria de cinquenta e quatro votos, tendo os votos dos Estados-membros a ponderação prevista no no. 2 do artigo 148o. do Tratado. O presidente não tem direito de voto.
+
+3. A Comissão adoptará as medidas e aplicá-las-á imediatamente se estiverem conformes com o parecer do comité. Se não estiverem conformes com o referido parecer, ou na falta do mesmo, a Comissão submeterá ao Conselho imediatamente uma proposta de medidas a tomar. O Conselho adoptará as medidas por maioria qualificada.
+
+Se, expirado o prazo de três meses a contar da data em que a questão lhe tiver sido submetida, o Conselho não tiver adoptado medidas, a Comissão adoptará as medidas propostas e aplicá-las-á imediatamente, salvo se o Conselho se tiver pronunciado por maioria simples contra as referidas medidas.
+
+###### Artigo 21o.
+
+O Conselho, deliberando de acordo com o processo previsto no artigo 43o. do Tratado, tomará, até 1 de Janeiro de 1993, uma decisão relativa à incorporação de amido ou de proteínas de origem animal ou vegetal nos produtos à base de carne, bem como as percentagens máximas a autorizar do ponto de vista tecnológico.
+
+## ANEXO A CONDIÇÕES GERAIS — CAPÍTULO I Condições gerais de aprovação dos estabelecimentos
+
+Os estabelecimentos devem possuir, pelo menos:
+
+1. Locais de trabalho de dimensões suficientes para que as actividades profissionais neles se possam exercer em condições de higiene adequadas. Estes locais de trabalho serão concebidos e dispostos por forma a evitar qualquer contaminação das matérias-primas e dos produtos referidos na presente directiva.
+
+2. Nos locais em que se procede à manipulação, preparação e transformação das matérias-primas e ao fabrico dos produtos referidos na presente directiva:
+
+a) Um chão de material impermeável e resistente, fácil de limpar e de desinfectar e disposto de modo a permitir um escoamento fácil da água, equipado com um dispositivo destinado a evacuar a mesma;
+
+b) Paredes de superfícies lisas e fáceis de limpar, resistentes e impermeáveis, recobertas por um revestimento lavável e de cor clara até a uma altura de pelo menos dois metros ou pelo menos da altura da capacidade de armazenagem nos compartimentos de refrigeração e de armazenagem;
+
+c) Um tecto fácil de limpar;
+
+d) Portas de material inalterável, fáceis de limpar;
+
+e) Ventilação suficiente e, se for necessário, uma boa evacuação do vapor;
+
+f) Luz suficiente, natural ou artificial;
+
+g) Um número suficiente de dispositivos para a limpeza e desinfecção das mãos, dotados de água corrente, fria e quente, ou de água pré-misturada a uma temperatura adequada. Nas salas de trabalho e nos lavabos, as torneiras não devem poder ser accionadas com a mão. Os dispositivos devem ser equipados com produtos de limpeza e de desinfecção e com meios higiénicos de secagem das mãos;
+
+h) Dispositivos para a limpeza dos utensílios, do material e das instalações.
+
+3. Nos compartimentos de armazenagem das matérias-primas e dos produtos referidos na presente directiva, aplicam-se as mesmas condições que as referidas no ponto 2, excepto:
+
+- nos compartimentos de armazenagem refrigerados, nos quais é suficiente um chão fácil de limpar e de desinfectar, disposto de modo a permitir um fácil escoamento da água,
+
+- nos compartimentos de congelação ou de ultracongelação, nos quais é suficiente um chão de material impermeável e imputrescível, fácil de limpar; nesse caso, deve estar disponível uma instalação de potência frigorífica suficiente para assegurar a manutenção das matérias-primas e dos produtos nas condições térmicas previstas na presente directiva.
+
+A utilização de paredes de madeira nos compartimentos referidos no segundo travessão, construídos antes de 1 de Janeiro de 1983, não constitui fundamento para cancelar a aprovação.
+
+A capacidade dos compartimentos de armazenagem deve ser suficiente para assegurar a armazenagem das matérias-primas utilizadas e dos produtos referidos na presente directiva.
+
+4. Equipamentos para a movimentação em condições de higiene e a protecção das matérias-primas e dos produtos acabados não embalados ou acondicionados durante as operações de carga e descarga.
+
+5. Dispositivos adequados de protecção contra os animais indesejáveis, tais como insectos, roedores, pássaros, etc.
+
+6. Dispositivos e utensílios de trabalho, tais como mesas de desmancha, recipientes, correias transportadoras, serras e facas, destinados a entrar em contacto directo com as matérias-primas e os produtos, em materiais resistentes à corrosão, fáceis de limpar e de desinfectar.
+
+7. Recipientes especiais, estanques, de material inalterável, munidos de uma tampa e de um sistema de fecho que impeça a abertura a pessoas não autorizadas, destinados a recolher matérias-primas ou produtos não destinados ao consumo humano ou, caso a sua abundância o exigir ou não forem retirados ou destruídos no final de cada fase de trabalho, um compartimento que feche à chave, para o mesmo efeito. Sempre que essas matérias-primas ou produtos forem evacuados através de condutas, estas devem ser construídas e instaladas de modo a evitar qualquer risco de contaminação das outras matérias-primas ou produtos.
+
+8. Instalações adequadas de limpeza e desinfecção do material e dos utensílios.
+
+9. Um dispositivo de evacuação das águas residuais que obedeça às exigências de higiene.
+
+10. Um equipamento que forneça exclusivamente água potável na acepção da Directiva 80/778/CEE do Conselho, de 15 de Julho de 1980, relativa à qualidade das águas destinadas ao consumo humano (¹). Todavia, a título excepcional, é autorizada a utilização de água não potável para a produção de vapor, o combate aos incêndios ou a refrigeração, desde que as condutas instaladas para o efeito impeçam a utilização dessa água para outros fins e não apresentem qualquer risco, directo ou indirecto, de contaminação do produto. As condutas de água não potável devem ser bem diferenciadas das utilizadas para a água potável.
+
+11. Um número adequado de vestiários com paredes e pavimentos lisos, impermeáveis e laváveis, de lavatórios e de retretes com autoclismo. As retretes não podem comunicar directamente com as salas de trabalho. Os lavatórios devem ser equipados com produtos de limpeza das mãos e com meios higiénicos de secagem das mesmas; as torneiras dos lavatórios não devem poder ser accionadas com a mão.
+
+12. Uma sala suficientemente adaptada, que feche à chave, à disposição exclusiva do serviço de inspecção, se a quantidade de produtos tratados requerer a sua presença regular ou permanente.
+
+13. Um compartimento ou um dispositivo para armazenar detergentes, desinfectantes ou substâncias análogas.
+
+14. Um compartimento ou um armário para armazenar o material de limpeza e de manutenção.
+
+15. Equipamentos adequados para a limpeza e desinfecção dos meios de transporte. Todavia, esses equipamentos não são obrigatórios caso existam disposições que imponham a limpeza e desinfecção dos meios de transporte em instalações oficialmente aprovadas pela autoridade competente.
+
+### CAPÍTULO II Condições gerais de higiene — A. Condições gerais de higiene aplicáveis às salas, aos materiais e aos utensílios
+
+1. O material e os instrumentos utilizados na laboração das matérias-primas e dos produtos, o chão, as paredes, o tecto e as divisórias devem ser mantidos num bom estado de limpeza e de conservação, de modo a não constituírem uma fonte de contaminação das matérias-primas ou dos produtos. A água utilizada para lavar os utensílios deve ter uma temperatura igual ou superior a + 82 oC.
+
+2. Nenhum animal deve penetrar nos estabelecimentos. Deve proceder-se à destruição sistemática dos roedores, insectos e qualquer outro parasita nas salas ou nos materiais. Os raticidas, insecticidas, desinfectantes ou quaisquer outras substâncias potencialmente tóxicas devem ser guardadas em compartimentos ou armários que fechem à chave; a sua utilização não deverá causar risco de contaminação dos produtos.
+
+3. Os locais de trabalho, os utensílios e o material só devem ser utilizados para a elaboração dos produtos para os quais foi concedida a autorização. Todavia, podem ser utilizados para a elaboração, simultânea ou não, de outros produtos alimentares próprios para consumo humano, após autorização da autoridade competente. Esta restrição não se aplica ao material de transporte utilizado nas salas em que não se laborem matérias-primas ou produtos referidos na presente directiva.
+
+(¹) JO no. L 229 de 30. 8. 1980, p. 11.
+
+4. A utilização de água potável, na acepção da Directiva 80/778/CEE, é obrigatória para todas as utilizações. Todavia, a título excepcional, pode autorizar-se a utilização de água não potável para o arrefecimento das máquinas, a produção de vapor ou o combate aos incêndios, desde que as condutas instaladas para o efeito não permitam a utilização dessa água para outros fins e não representem qualquer risco de contaminação das matérias-primas e dos produtos.
+
+5. Os detergentes, desinfectantes e substâncias similares devem ser aprovados pela autoridade competente e utilizados de modo a que o equipamento, o material, as matérias-primas e os produtos não sejam afectados.
+
+Após a utilização dessas substâncias, os equipamentos e os instrumentos de trabalho devem ser perfeitamente enxaguados com água potável. Os produtos de manutenção e de limpeza devem ser armazenados no compartimento previsto no ponto 14 do capítulo I.
+
+6. É proibido espalhar serradura ou qualquer outro material semelhante no chão das salas de trabalho e de armazenagem das matérias-primas e dos produtos referidos na presente directiva.
+
+B. Condições gerais de higiene aplicáveis ao pessoal
+
+1. Exige-se o máximo grau de limpeza por parte do pessoal. Em especial:
+
+a) O pessoal deve vestir roupa de trabalho adequada e limpa e usar uma touca limpa que envolva completamente o cabelo. Isto aplica-se nomeadamente às pessoas que manipulem matérias-primas e produtos sujeitos a contaminação, não embalados;
+
+b) O pessoal afecto à manipulação e preparação das matérias-primas e dos produtos deve lavar as mãos, pelo menos de cada vez que recomece o trabalho e/ou em caso de contaminação; os ferimentos nas mãos devem ser cobertos com um penso estanque;
+
+c) É proibido fumar, cuspir, beber e comer nas salas de trabalho e de armazenagem das matérias-primas e dos produtos.
+
+2. As entidades patronais devem tomar todas as medidas necessárias para afastar da manipulação das matérias-primas e dos produtos as pessoas susceptíveis de os contaminar, até que se demonstre que essas pessoas estão em condições de realizar essas funções sem perigo.
+
+Por ocasião do recrutamento, qualquer pessoa afecta à laboração e à manipulação das matérias-primas e dos produtos é obrigada a comprovar, mediante atestado médico, que nada se opõe à sua colocação. O acompanhamento médico dessa pessoa está subordinado à legislação nacional em vigor no Estado-membro em causa ou, no que diz respeito aos países terceiros, a garantias especiais a estabelecer nos termos do processo previsto no artigo 20o.
+
+## ANEXO B CONDIÇÕES ESPECIAIS PARA OS PRODUTOS À BASE DE CARNE — CAPÍTULO I Condições especiais de aprovação dos estabelecimentos que preparam produtos à base de carne
+
+1. Independentemente das condições gerais previstas no capítulo I do anexo A, os estabelecimentos que procedem ao fabrico, à manipulação e ao acondicionamento dos produtos à base de carne devem dispor, pelo menos, de:
+
+a) Compartimentos adequados, suficientemente amplos, para a armazenagem separada:
+
+i) em regime de frio, das matérias-primas, por um lado,
+
+ii) à temperatura ambiente ou, se necessário, em função da sua natureza, em regime de frio, dos produtos à base de carne, por outro lado,
+
+entendendo-se que as matérias-primas, os produtos à base de carne ou os outros produtos de origem animal não embalados deverão ser armazenados separados das matérias-primas e dos produtos embalados;
+
+b) Uma ou mais salas adequadas, suficientemente amplas para o fabrico e acondicionamento dos produtos à base de carne. As operações de fabrico e acondicionamento podem ser efectuadas na mesma sala desde que estas operações constituam um ciclo único de produção que garanta o cumprimento das exigências da presente directiva e a salubridade das matérias-primas e dos produtos acabados e desde que a concepção e as dimensões da sala de fabrico o permitam;
+
+c) Um compartimento ou um dispositivo para armazenagem de certos ingredientes, tais como os aditivos alimentares;
+
+d) Uma sala para a embalagem, a menos que sejam satisfeitas as condições previstas a esse respeito no no. 3 do capítulo V, e para a expedição;
+
+e) Uma sala para armazenagem dos materiais de acondicionamento e de embalagem;
+
+f) Uma sala para a limpeza dos equipamentos e do material, tais como ganchos e recipientes.
+
+2. De acordo com o tipo de produto em causa, o estabelecimento deve dispor de:
+
+a) Uma sala ou, se não existir qualquer risco de contaminação, um local para a retirada da embalagem;
+
+b) Uma sala ou, se não existir qualquer risco de contaminação, um local para a descongelação das matérias-primas;
+
+c) Um sala para as operações de corte;
+
+d) Uma sala ou uma instalação para a secagem e a cura;
+
+e) Uma sala ou uma instalação para a fumagem;
+
+f) Uma sala para a dessalga, a imersão e qualquer outro tratamento, nomeadamente, das tripas naturais se essas matérias-primas não tiverem sido tratadas no estabelecimento de origem;
+
+g) Uma sala de pré-limpeza das matérias-primas necessárias para a elaboração de produtos à base de carne;
+
+h) Uma sala para a salga profunda que disponha, se necessário, de um dispositivo de climatização para manter a temperatura prevista no ponto 4 do capítulo II;
+
+i) Uma sala de pré-limpeza, se necessário, dos produtos à base de carne destinados a ser cortados em fatias ou cortados e acondicionados;
+
+j) Uma sala que disponha, se necessário, de um dispositivo de climatização para o corte em fatias ou o corte e acondicionamento dos produtos à base de carne destinados a serem colocados pré-embalados no mercado;
+
+k) As salas específicas previstas no anexo C, na medida em que os produtos aí referidos sejam fabricados nos estabelecimentos referidos no presente capítulo;
+
+l) Se estiverem preenchidas as condições previstas na alínea b) do no. 1 pode ser decidido, após acordo da autoridade competente, que algumas dessas operações podem ser efectuadas numa sala comum.
+
+Se não estiverem preenchidas as condições previstas na alínea b) do no. 1, as operações que possam constituir um risco sanitário para certos produtos fabricados simultaneamente e as operações associadas a uma produção excessiva de calor devem ser efectuadas numa sala separada.
+
+CAPÍTULO II Condições especiais de higiene para os estabelecimentos que preparam produtos à base de carne
+
+1. As salas em que são armazenados ou laborados géneros alimentícios, excepto carnes ou produtos à base de carne, susceptíveis de entrar na composição de produtos à base de carne devem ser submetidas às regras gerais previstas na presente directiva.
+
+2. As matérias-primas e os ingredientes que entram na composição de produtos à base de carne, bem como estes produtos e os produtos de origem animal, assim como os recipientes que os contenham, não devem entrar em contacto directo com o chão e devem ser manipulados em condições que não sejam susceptíveis de os contaminar. Deve velar-se por que não haja qualquer contacto entre as matérias-primas e os produtos acabados.
+
+3. É autorizada a utilização de madeira nas salas de fumagem, de salga profunda, de cura, de salmoura, de armazenagem dos produtos à base de carne e na sala de expedição, quando tal for indispensável por razões tecnológicas e desde que não apresente qualquer risco de contaminação desses produtos. A introdução de estrados de madeira é autorizada exclusivamente para o transporte de carnes ou de produtos à base de carne embalados. Além disso, pode-se autorizar a utilização de metais galvanizados na dessecação de presuntos e de salpicões, desde que não estejam nem corroídos nem em contacto com os produtos à base de carne.
+
+4. As temperaturas das salas ou de uma parte das salas em que se procede à laboração das carnes, das carnes picadas utilizadas como matéria-prima, dos produtos à base de carne e dos preparados de carne devem garantir uma produção higiénica; se necessário, essas salas ou partes de salas devem estar munidas de um dispositivo de ar condicionado.
+
+Quando aí estiverem a decorrer as operações de corte ou de salga profunda, as salas de corte e de salga profunda devem ser mantidas a uma temperatura não superior a 12 oC, excepto para os estabelecimentos referidos no artigo 9o.
+
+Todavia, para os outros estabelecimentos, a autoridade competente terá possibilidade de derrogar a esta exigência de temperatura, quando considerar que essa derrogação se justifica para ter em conta a tecnologia de preparação do produto à base de carne.
+
+CAPÍTULO III Exigências relativas às matérias-primas utilizadas na elaboração de produtos à base de carne
+
+1. Para poderem ser utilizadas no fabrico de produtos à base de carne, as carnes devem:
+
+- provir de um estabelecimento aprovado nos termos das directivas referidas na alínea d) do artigo 2o. e ter sido transportadas em condições sanitárias satisfatórias nos termos das referidas directivas,
+
+- ser conservadas nos termos das directivas referidas na alínea d) do artigo 2o. logo que dêem entrada no estabelecimento de transformação e até serem utilizadas.
+
+Todavia, até 31 de Dezembro de 1995, poderão permanecer em estabelecimentos aprovados carnes obtidas em estabelecimentos que beneficiem das derrogações previstas na Directiva 91/498/CEE. Até essa data, as carnes que não preencham as condições fixadas nas directivas referidas na alínea d) do artigo 2o. só poderão permanecer nos estabelecimentos aprovados se aí forem armazenadas em locais separados; devem ser utilizadas noutros locais ou em alturas diferentes das utilizadas para as carnes que satisfazem as referidas condições. Os produtos à base de carne obtidos a partir dessas carnes devem estar munidos da estampilha nacional.
+
+2. As carnes picadas e os preparados de carne, desde que não sejam fabricados na sala de fabrico referida no ponto 1, alínea b), do capítulo I, devem:
+
+- provir de um estabelecimento aprovado nos termos da Directiva 88/657/CEE e ter sido transportados em condições sanitárias satisfatórias no termos da referida directiva,
+
+- se conservados nos termos da Directiva 88/657/CEE logo que dêem entrada no estabelecimento de transformação e até serem utilizados.
+
+3. É autorizada a presença de produtos da pesca que entrem na preparação de produtos à base de carne desde que cumpram as exigências da Directiva 91/493/CEE.
+
+### CAPÍTULO IV Controlo da produção
+
+1. Os estabelecimentos são submetidos a um controlo exercido pela autoridade competente que deve assegurar-se do respeito das exigências da presente directiva e, designadamente:
+
+a) Controlar:
+
+i) o grau de limpeza das salas, das instalações, dos utensílios e da higiene do pessoal,
+
+ii) a eficácia dos controlos efectuados pelo estabelecimento nos termos do artigo 7o., nomeadamente através da análise dos resultados e da colheita de amostras,
+
+iii) a qualidade microbiológica e higiénica dos outros produtos de origem animal,
+
+iv) a eficácia do tratamento dos produtos à base de carne,
+
+v) os recipientes hermeticamente fechados, através de uma amostragem aleatória,
+
+vi) a marcação de salubridade adequada dos produtos à base de carne, bem como a identificação dos produtos declarados impróprios para o consumo humano e o destino que lhes é reservado,
+
+vii) as condições de armazenagem e de transporte;
+
+b) Efectuar todas as colheitas de amostras necessárias às análises laboratoriais;
+
+c) Efectuar qualquer outro controlo que considerar necessário para assegurar o cumprimento das exigências da presente directiva;
+
+d) Certificar-se se um produto à base de carne foi elaborado a partir de carne à qual foram incorporados outros produtos alimentares, aditivos alimentares ou condimentos, submetendo-o a uma inspecção adequada e verificando se satisfaz os critérios de produção estabelecidos pelo produtor e, nomeadamente, se a composição do produto corresponde efectivamente às menções constantes do rótulo, designadamente em caso de utilização da denominação de venda referida no ponto 4 do capítulo V.
+
+2. A autoridade competente deverá ter acesso livre e permanente aos entrepostos frigoríficos e a todas as salas de trabalho para se certificar do cumprimento rigoroso destas disposições.
+
+### CAPÍTULO V Acondicionamento, embalagem e rotulagem
+
+1. O acondicionamento e a embalagem devem ser efectuados nas salas previstas para esse fim e em condições de higiene satisfatórias.
+
+Sem prejuízo da Directiva 89/109/CEE do Conselho, de 21 de Dezembro de 1988, relativa à aproximação das legislações dos Estados-membros respeitantes aos materiais e objectos destinados a entrar em contacto com géneros alimentícios (¹), o acondicionamento e a embalagem devem satisfazer todas as normas de higiene e ser suficientemente sólidos para assegurar uma protecção eficaz dos produtos à base de carne.
+
+(¹) JO no. L 40 de 11. 2. 1989, p. 38.
+
+2. O acondicionamento ou a embalagem não podem voltar a ser utilizados para produtos à base de carne, com excepção de alguns continentes especiais, de barro, de vidro ou de plástico, por exemplo, que podem ser utilizados de novo após uma limpeza e desinfecção eficazes.
+
+3. O fabrico dos produtos à base de carne e as operações de embalagem podem ser efectuadas na mesma sala desde que as embalagens possuam as características enunciadas no no. 2 ou que sejam satisfeitas as seguintes condições:
+
+a) A sala deve ser suficientemente ampla e adaptada de modo a assegurar o carácter higiénico das operações;
+
+b) O acondicionamento e a embalagem são colocados imediatamente após o seu fabrico num invólucro hermético, protegido contra qualquer danificação durante o transporte para o estabelecimento e armazenado em condições higiénicas numa sala destinada a esse fim;
+
+c) As salas de armazenagem dos materiais de embalagem devem estar isentas de pó e de parasitas, sem qualquer ligação atmosférica com salas que contenham substâncias susceptíveis de contaminar as carnes, as carnes picadas, os preparados de carne ou os produtos à base de carne. As embalagens não podem ser armazenadas em contacto com o chão;
+
+d) As embalagens são montadas em condições higiénicas antes de serem introduzidas na sala; pode ser concedida uma derrogação a esta exigência em caso de montagem automática de embalagens, desde que tal não apresente qualquer risco de contaminação para os produtos à base de carne;
+
+e) As embalagens são introduzidas na sala em condições higiénicas e imediatamente utilizadas. Não podem ser manipuladas pelo pessoal encarregado de manipular as carnes, as carnes picadas, os preparados de carne e os produtos à base de carne não acondicionados;
+
+f) Imediatamente após a sua embalagem, os produtos à base de carne devem ser colocados nos compartimentos de armazenagem previstos para o efeito.
+
+4. Para além das exigências da Directiva 79/112/CEE relativa à aproximação das legislações dos Estados-membros respeitantes à rotulagem, apresentação e publicidade dos géneros alimentícios destinados ao consumidor final (¹), devem figurar, de modo visível e legível, no acondicionamento ou no rótulo dos produtos à base de carne as seguintes menções (²):
+
+- na medida em que tal não for claramente indicado na denominação de venda do produto ou na lista de ingredientes, em conformidade com a Directiva 79/112/CEE, a espécie ou espécies a partir da qual ou das quais foram obtidas as carnes,
+
+- uma menção que permita identificar uma quantidade de produtos obtidos em condições tecnológicas semelhantes e susceptíveis de apresentar o mesmo risco,
+
+- para as embalagens não destinadas ao consumidor final, a data de preparação,
+
+- a denominação de venda seguida da referência à norma nacional ou à legislação nacional (³) que a autoriza,
+
+- sempre que a legislação de um Estado-membro autorizar a utilização de proteínas ou de amido, com excepção do que será objecto de uma autorização nos termos do artigo 21o., a menção dessa utilização em relação com a denominação de venda.
+
+### CAPÍTULO VI Marcação de salubridade
+
+1. Os produtos à base de carne devem apresentar uma marcação de salubridade. Esta deve ser efectuada no momento do fabrico ou imediatamente após, no estabelecimento ou no centro de acondicionamento, num local claramente visível e de forma perfeitamente legível, indelével e em caracteres facilmente decifráveis. A marca de salubridade pode ser aposta no próprio produto ou no acondicionamento, caso o produto à base de (¹) JO no. L 33 de 8. 2. 1979, p. 1. Directiva com a última redação que lhe foi dada pela Directiva 89/395/CEE (JO no. L 186 de 30. 6. 1989, p. 17).
+
+(²) Estas menções deverão acompanhar os produtos à base de carne até ao consumidor final, com excepção dos produtos referidos no terceiro travessão.
+
+(³) Os termos «norma nacional» ou «legislação nacional» abrangem:
+
+a) As condições de produção ou de elaboração autorizadas pelo direito nacional;
+
+b) As regras especiais do direito nacional que impõem restrições específicas às condições de produção ou de elaboração para determinados produtos;
+
+c) Todas as denominações de venda que, na ausência de normas nacionais que as restrinjam, sejam admitidas pela legislação de um Estado-membro ou num Estado-membro em que essa denominação esteja consagrada pelo costume.
+
+carne disponha de um acondicionamento individual, ou num rótulo aposto nesse acondicionamento em conformidade com a alínea b) do ponto 4. Todavia, caso um produto à base de carne seja acondicionado e embalado individualmente, é suficiente a aposição da marca de salubridade na embalagem.
+
+2. N° caso de os produtos à base de carne, com uma marca de salubridade em conformidade com o ponto 1, serem em seguida colocados numa embalagem, a marca de salubridade deve ser igualmente aposta nessa embalagem.
+
+3. Em derrogação aos pontos 1 e 2, não é necessária a aposição da marca de salubridade nos produtos à base de carne contidos em unidades de expedição sobre estrados, destinados a sofrer um complemento de transformação ou de acondicionamento num estabelecimento aprovado, desde que:
+
+- a superfície exterior das referidas unidades que contêm os produtos à base de carne apresente uma marca de salubridade aposta em conformidade com a alínea a) do ponto 4,
+
+- o estabelecimento destinatário mantenha um registo separado com indicação das quantidades, tipo e origem dos produtos à base de carne recebidos em conformidade com o presente ponto,
+
+- o local de destino e a utilização prevista dos produtos à base de carne sejam claramente indicados na superfície exterior da grande embalagem, excepto se esta última for transparente.
+
+Todavia, se uma unidade de expedição de produtos acondicionados estiver contida numa embalagem transparente, a marca de salubridade na embalagem não é exigida se a marca de salubridade aposta nos produtos acondicionados for claramente visível através da embalagem.
+
+4. a) A marca de salubridade deve incluir as seguintes indicações, circundadas por uma cinta oval:
+
+i) quer:
+
+- na parte superior, as iniciais do país expedidor, em letras maiúsculas de imprensa, ou seja:
+
+B - DK - D - EL - E - F - IRL - I - L - NL - P - UK, seguidas do número de aprovação do estabelecimento, ou, de acordo com as modalidades a fixar em execução do segundo travessão do artigo 17o., do centro de reacondicionamento eventualmente acompanhado de um número de código que especifique para que tipo de produto o estabelecimento recebeu a aprovação,
+
+- na parte inferior, uma das siglas seguintes: CEE - EOEF - EWG - EOK - EEC - EEG;
+
+ii) quer:
+
+- na parte superior, o nome do país expedidor, em maiúsculas,
+
+- no centro, o número de aprovação do estabelecimento ou, de acordo com as modalidades a fixar em execução do segundo travessão do artigo 17o., do centro de reacondicionamento eventualmente acompanhado de um número de código que especifique para que tipo de produto o estabelecimento recebeu a aprovação,
+
+- na parte inferior, uma das siglas: CEE - EOEF - EWG - EOK - EEC - EEG;
+
+b) A marca de salubridade pode ser aposta, por meio de um carimbo a tinta ou fogo, no produto, no acondicionamento ou na embalagem, ser impressa ou colocada num rótulo. Desde que esteja aposta na embalagem, a estampilha deve ser destruída aquando da abertura da embalagem. A não destruição desta estampilha só pode ser tolerada quando a abertura da embalagem a destruir. N° que respeita aos produtos contidos em recipientes hermeticamente fechados, a estampilha deve ser aposta de modo indelével na tampa ou na lata;
+
+c) A marcação de salubridade pode igualmente consistir na fixação inamovível de uma placa de material resistente que satisfaça todas as exigências de higiene e inclua as indicações referidas na alínea a).
+
+### CAPÍTULO VII Armazenagem e transporte
+
+1. Os produtos à base de carne devem ser armazenados nos compartimentos previstos no no. 1, alínea a), do capítulo I do anexo B.
+
+Todavia, os produtos à base de carne susceptíveis de serem conservados à temperatura ambiente podem ser armazenados em compartimentos de armazenagem construídos com materiais sólidos, fáceis de limpar e desinfectar, aprovados pela autoridade competente.
+
+2. Os produtos à base de carne para os quais são indicadas, em conformidade com o no. 2 do artigo 7o., determinadas temperaturas de armazenagem, devem ser mantidos a essas temperaturas.
+
+3. Os produtos à base de carne devem ser expedidos de modo a serem protegidos durante o transporte contra causas susceptíveis de os contaminar ou danificar. Para esse efeito, é necessário ter em consideração a duração do transporte e os meios de transporte utilizados, bem como as condições meteorológicas.
+
+4. Os meios utilizados para o transporte dos produtos à base de carne devem estar equipados, se os produtos assim o exigirem, de modo a assegurar que os produtos possam ser transportados à temperatura requerida e, nomeadamente, que as temperaturas indicadas nos termos do no. 2 do artigo 7o. não sejam ultrapassadas.
+
+CAPÍTULO VIII Condições especiais para os produtos pasteurizados ou esterilizados contidos em recipientes hermeticamente fechados
+
+A. Para além das condições previstas no anexo A, os estabelecimentos que fabriquem produtos pasteurizados ou esterilizados em recipientes hermeticamente fechados:
+
+1. Devem dispor de:
+
+a) Um dispositivo que permita encaminhar de forma higiénica as latas de conserva para a sala de trabalho;
+
+b) Um dispositivo para a limpeza eficaz das latas de conserva imediatamente antes do seu enchimento;
+
+c) Um dispositivo para a lavagem com água potável, suficientemente quente para eliminar as gorduras dos recipientes depois do fecho hermético e antes da autoclavagem;
+
+d) Um compartimento, um local ou uma instalação apropriada para o arrefecimento e a secagem dos recipientes depois do tratamento pelo calor;
+
+e) Instalações para a incubação de produtos à base de carne contidos em recipientes hermeticamente fechados recolhidos como amostras;
+
+f) Um equipamento adequado para verificar se os recipientes são verdadeiramente estanques e se estão intactos;
+
+2. Devem velar por que:
+
+a) Os recipientes hermeticamente fechados sejam retirados dos aparelhos de aquecimento a uma temperatura suficientemente elevada para assegurar uma rápida evaporação da humidade e não sejam manuseados antes de estarem completamente secos;
+
+b) Os recipientes que apresentem formação de gás sejam submetidos a um exame complementar;
+
+c) Os termómetros do aparelho de aquecimento sejam controlados por meio de termómetros calibrados;
+
+d) Os recipientes sejam:
+
+- rejeitados se estiverem danificados ou mal feitos,
+
+- rejeitados ou limpos, se não o estiverem, e no que se refere às latas de conserva, limpas de modo eficaz, imediatamente antes do enchimento, através dos dispositivos de limpeza referidos na alínea b) do no. 1, não estando autorizada a utilização da água estagnante,
+
+- se necessário, postos a escorrer durante bastante tempo após a limpeza e antes do enchimento,
+
+- se necessário, lavados com água potável, suficientemente quente, se for caso disso, para eliminar as gorduras, após o fecho hermético e antes da autoclavagem, por meio do dispositivo referido na alínea c) do no. 1,
+
+- arrefecidos, após o aquecimento, em água que satisfaça as exigências do quinto travessão do ponto B,
+
+- manipulados, antes e depois do tratamento pelo calor, de modo a evitar qualquer danificação ou contaminação.
+
+B. O concessionário ou o gestor de um estabelecimento que fabrique produtos à base de carne em recipientes hermeticamente fechados deve, além disso, assegurar-se através de um controlo por amostragem de que:
+
+- é aplicado aos produtos à base de carne destinados a serem armazenados à temperatura ambiente um tratamento que permita obter um valor Fc igual ou superior a 3,00, excepto se a mesma estabilidade do produto tiver sido obtida por salga, ou de que é aplicado um tratamento térmico equivalente pelo menos a uma pasteurização cujos parâmetros sejam aprovados pela autoridade competente,
+
+- os recipientes vazios respeitam as normas de produção,
+
+- é efectuado um controlo da produção diária, de acordo com uma periodocidade previamente estabelecida, a fim de garantir a eficácia do fecho. Para esse efeito deve estar disponível um equipamento adequado para examinar as secções perpendiculares das juntas dos recipientes fechados,
+
+- são efectuados os controlos necessários e utilizados, em especial, indicadores de controlo para garantir que os recipientes receberam um tratamento térmico adequado,
+
+- são efectuados os controlos necessários para garantir que a água de arrefecimento contenha um teor residual de cloro após utilização. Todavia, os Estados-membros podem conceder uma derrogação a esta última exigência se a água satisfizer as exigências da Directiva 80/778/CEE,
+
+- são efectuados testes de incubação, de sete dias a 37 oC ou de dez dias a 35 oC, das conservas de produtos à base de carne colocados dentro de um recipiente hermeticamente fechado que tenham sofrido um tratamento pelo calor,
+
+- os produtos pasteurizados em recipientes hermeticamente fechados satisfazem os critérios reconhecidos pela autoridade competente.
+
+C. A autoridade competente pode autorizar a adição de determinadas substâncias à água dos autoclaves, a fim de lutar contra a corrosão das latas de conserva, tornar a água menos dura e desinfectá-la. Será estabelecida uma lista dessas substâncias de acordo com o processo previsto no artigo 20o.
+
+A autoridade competente pode autorizar a utilização de água reciclada para o arrefecimento dos recipientes que tenham sido sujeitos a um tratamento pelo calor. Esta água deve ser depurada e tratada com cloro ou submetida a qualquer outro tratamento aprovado de acordo com o processo previsto no artigo 20o. O objectivo desse tratamento é fazer com que a água reciclada satisfaça as normas previstas na parte E do anexo I da Directiva 80/778/CEE, de modo a que não possa contaminar os produtos e não constitua um risco para a saúde humana.
+
+A água reciclada deve circular em circuito fechado, de modo a não poder ser utilizada para outros fins.
+
+Quando não houver risco de contaminação, o chão pode, contudo, ser limpo no final do período de trabalho com a água utilizada para arrefecer os recipientes ou com a água dos autoclaves.
+
+### CAPÍTULO IX Condições especiais para os pratos cozinhados à base de carne
+
+Para além das condições gerais referidas no anexo A e nos capítulos I, II e III do presente anexo:
+
+1. Os estabelecimentos que fabriquem pratos cozinhados devem dispor de sala separada para a confecção e o acondicionamento dos mesmos; esta sala separada não é exigida sempre que os produtos à base de carne e as carnes sejam manipuladas em alturas diferentes, desde que as salas utilizadas para essas operações sejam limpas e desinfectadas entre a utilização das mesmas para cada tipo de produto.
+
+2. a) O produto à base de carne que entre na composição do prato cozinhado deve, imediatamente após a sua cozedura:
+
+i) ou ser misturado imediatamente aos outros ingredientes; nesse caso o tempo em que a temperatura do produto à base de carne está compreendida entre 10 oC e 63 oC deve ser reduzido ao mínimo,
+
+ii) ou ser refrigerado a uma temperatura igual ou inferior a 10 oC antes de ser misturado com os outros ingredientes;
+
+b) O produto à base de carne e o prato cozinhado devem ser refrigerados a uma temperatura interna igual ou inferior a 10 oC durante um prazo que não exceda duas horas após o fim da cozedura e, o mais rapidamente possível, à temperatura de armazenagem. Todavia, a autoridade competente pode autorizar o establecimento a derrogar ao prazo de duas horas quando um prazo maior se justificar por razões que se prendem com a tecnologia de produção aplicada, desde que esteja garantida a salubridade do produto final;
+
+c) O prato cozinhado deve, se necessário, ser congelado ou ultracongelado imediatamente depois de arrefecido.
+
+3. A rotulagem dos pratos cozinhados deverá ser efectuada em conformidade com a Directiva 79/112/CEE. A lista dos ingredientes deverá, para efeitos da presente directiva, incluir a referência das espécies animais.
+
+Os pratos cozinhados deverão exibir, numa das faces externas do acondicionamento, para além das outras indicações já previstas, a data de fabrico inscrita de forma muito clara.
+
+4. Os resultados dos diversos controlos a efectuar pelo concessionário ou pelo gestor devem ser conservados a fim de serem apresentados à autoridade competente, a seu pedido, durante um período mínimo a fixar pela autoridade competente de acordo com a durabilidade do produto em questão.
+
+ANEXO C NORMAS DE HIGIENE ESPECÍFICAS PARA O FABRICO DE OUTROS PRODUTOS DE ORIGEM ANIMAL
+
+### CAPÍTULO I Condições gerais
+
+Os locais de trabalho só podem ser utilizados no fabrico de produtos que não se destinem ao consumo humano nas seguintes condições:
+
+a) As matérias-primas impróprias para consumo humano devem ser armazenadas numa sala completamente separada ou num local de recepção completamente separado;
+
+b) Estas matérias-primas devem ser laboradas em salas separadas utilizando instalações e equipamentos distintos, excepto se o fabrico se efectuar em instalações completamente fechadas ou com equipamentos utilizados exclusivamente para esse efeito;
+
+c) Os produtos acabados obtidos a partir dessas matérias-primas devem ser armazenados numa sala separada ou em contentores separados e rotulados de forma adequada e não podem destinar-se ao consumo humano.
+
+CAPÍTULO II Condições especiais para as gorduras animais fundidas, os torresmos e os subprodutos da fusão
+
+Para além das condições referidas no anexo A, são aplicadas as seguintes condições:
+
+A. Normas aplicáveis aos estabelecimentos de recolha e de transformação das matérias-primas
+
+1. Os centros encarregados da recolha das matérias-primas e do transporte posterior para os estabelecimentos de transformação devem dispor de um armazém frigorífico para armazenagem das matérias-primas a uma temperatura igual ou inferior a 7 oC, a não ser que as matérias-primas sejam recolhidas e fundidas nos prazos previstos no no. 3, alíneas b) e c), do ponto B.
+
+2. O estabelecimento de transformação deve dispor, pelo menos, de:
+
+a) Um armazém frigorífico, a não ser que as matérias-primas sejam recolhidas e fundidas nos prazos previstos no no. 3, alínea b), do ponto B;
+
+b) Uma sala ou um local destinado à recepção das matérias-primas;
+
+c) Uma instalação que facilite a inspecção visual das matérias-primas;
+
+d) Se necessário, uma instalação de trituração das matérias-primas;
+
+e) Um equipamento para extrair as gorduras das matérias-primas através do calor, da pressão ou de qualquer outro método adequado;
+
+f) Recipientes ou cubas nos quais as gorduras possam ser conservadas no estado líquido;
+
+g) Um aparelho que permita a plastificação ou a cristalização das gorduras, que facilite o acondicionamento e a embalagem, a não ser que o estabelecimento envie para o exterior as gorduras animais fundidas no estado líquido;
+
+h) Uma sala de expedição, a não ser que o estabelecimento só envie as gorduras animais fundidas a granel;
+
+i) Recipientes estanques para a evacuação das matérias-primas impróprias para consumo humano;
+
+j) Se necessário, equipamentos apropriados para a preparação de produtos que consistam em gorduras animais fundidas, misturadas com outros géneros alimentícios e/ou condimentos;
+
+k) Se os torresmos se destinarem ao consumo humano, instalações adequadas que garantam que estes últimos são recolhidos, acondicionados e embalados em boas condições de higiene e armazenados nas condições previstas no no. 9 do ponto B.
+
+B. Normas de higiene suplementares relativas à preparação de gorduras animais fundidas, torresmos e subprodutos
+
+1. As matérias-primas devem provir de animais que, após inspecção ante e post mortem, tenham sido considerados próprios para consumo humano.
+
+2. As matérias-primas devem consistir em tecidos adiposos ou ossos considerados próprios para consumo humano e que contenham a menor quantidade possível de sangue e impurezas. As matérias-primas não devem apresentar sinais de deterioração e devem ser obtidas em boas condições de higiene.
+
+3. a) Para a preparação de gorduras animais fundidas, só podem ser utilizados tecidos adiposos ou ossos recolhidos em matadouros, instalações de desmancha ou estabelecimentos de transformação de carnes. As matérias-primas devem ser transportadas e armazenadas em boas condições de higiene e a uma temperatura interna igual ou inferior a 7 oC até à extracção das gorduras;
+
+b) Em derrogação à alínea a), as matérias-primas podem ser armazenadas e transportadas sem refrigeração, desde que a extracção da gordura se efectue no prazo de doze horas a seguir ao dia da sua obtenção;
+
+c) Em derrogação à alínea a), podem ser utilizadas na preparação de gorduras animais fundidas matérias-primas recolhidas em retalhistas ou em instalações adjacentes aos postos de venda em que a desmancha e a armazenagem de carnes ou de carnes de aves de capoeira se efectuam exclusivamente para abastecimento directo do consumidor final, desde que obedeçam a condições de higiene satisfatórias e estejam devidamente embaladas. Se a recolha for diária, devem ser respeitadas as normas de temperatura previstas nas alíneas a) e b). Se as matérias-primas não forem recolhidas diariamente, deverão ser refrigeradas imediatamente após a sua obtenção.
+
+4. Os veículos e contentores destinados à recolha e ao transporte das matérias-primas devem ter as superfícies internas lisas, fáceis de lavar, de limpar e de desinfectar e os veículos devem ser cobertos adequadamente. Os veículos destinados ao transporte com refrigeração devem ser concebidos de forma a que a temperatura requerida possa ser mantida durante toda a duração do transporte.
+
+5. Antes de se proceder à extracção das gorduras, as matérias-primas serão sujeitas a uma inspecção destinada a detectar a presença de matérias-primas impróprias para consumo humano ou de substâncias estranhas. Se for o caso, estas deverão ser eliminadas.
+
+6. A extracção das gorduras das matérias-primas deve ser efectuada pelo calor, pela pressão ou por outro método adequado, seguindo-se uma separação das gorduras por decantação, centrifugação, filtração ou ouro método adequado. É proibida a utilização de solventes.
+
+7. As gorduras animais fundidas preparadas nos termos dos o.s 1, 2, 3, 5 e 6 podem, para produção de matérias-primas, ser refinadas no mesmo estabelecimento ou noutro estabelecimento com vista a melhorar as suas qualidades físico-químicas, sempre que as gorduras a refinar respeitem as normas referidas no no. 8.
+
+8. As gorduras animais fundidas, consoante o seu tipo, devem satisfazer as normas seguintes:
+
+>POSIÇÃO NUMA TABELA>
+
+9. Os torresmos destinados ao consumo humano devem ser armazenados:
+
+i) Quando obtidos a uma temperatura igual ou inferior a 70 oC, a uma temperatura inferior a 7 oC durante um período que não exceda vinte e quatro horas ou a uma temperatura igual ou inferior a 18 oC;
+
+ii) Quando obtidos a uma temperatura superior a 70 oC e tendo um teor de humidade igual ou superior a 10 % (m/m):
+
+- a uma temperatura inferior a 7 oC durante um período que não exceda quarente o oito horas ou a qualquer relação tempo/temperatura que ofereça uma garantia equivalente,
+
+- a uma temperatura igual ou inferior a 18 oC;
+
+iii) Quando obtidos a uma temperatura superior a 70 oC e tendo um teor de humidade inferior a 10 % (m/m): nenhuma norma específica.
+
+### CAPÍTULO III Condições especiais para os estômagos, bexigas e tripas
+
+Para além das condições referidas no anexo A e nos capítulos I, II e III do anexo B, os estabelecimentos que tratem estômagos, bexigas e tripas devem respeitar as seguintes condições:
+
+1. As salas, instrumentos e utensílios só devem ser utilizados para laborar os produtos em causa; deve existir uma separação nítida entre a zona conspurcada e a zona limpa;
+
+2. É proibida a utilização de madeira; todavia, a utilização de estrados de madeira é autorizada para o transporte de recipientes que contenham os produtos em causa;
+
+3. Deve ser previsto um compartimento para armazenagem de materiais de acondicionamento e de embalagem;
+
+4. O acondicionamento e embalagem devem ser efectuados de forma higiénica numa sala ou num local destinado para esse fim;
+
+5. Os produtos que não possam ser mantidos à temperatura ambiente devem ser armazenados, até serem expedidos, em salas previstas para esse efeito.
+
+Designadamente, os produtos que não estejam salgados ou secos devem ser mantidos a uma temperatura que não ultrapasse 3 oC.
+
+6. As matérias-primas devem ser transportadas desde o matadouro de origem até ao estabelecimento em condições de higiene satisfatórias e, se for necessário, refrigeradas em função do prazo decorrido entre o abate e a recolha das matérias-primas. Os veículos e os contentores destinados ao transporte devem ter as superfícies internas lisas, fáceis de lavar, de limpar e de desinfectar. Os veículos destinados ao transporte com refrigeração devem ser concebidos de modo a que a temperatura requerida possa ser mantida durante toda a duração do transporte.
+
+## ANEXO D — CERTIFICADO DE SALUBRIDADE RELATIVO A PRODUTOS À BASE DE CARNE (¹)
+
+No. (²).
+
+País expedidor:.
+
+Ministério:.
+
+Serviço:.
+
+Referência (²):.
+
+I. Identificação dos produtos à base de carne
+
+Produtos preparados à base de carne de:.
+
+(espécie animal) Natureza dos produtos (³):.
+
+Natureza da embalagem:.
+
+Número de peças ou de unidades de embalagem:.
+
+Temperatura de armazenagem e de transporte (³):.
+
+Prazo de conservação (%):.
+
+Peso líquido:.
+
+II. Proveniência dos produtos à base de carne
+
+Endereço(s) e número(s) de aprovação do(s) estabelecimento(s) de transformação aprovado(s):.
+
+.
+
+.
+
+Se necessário:
+
+Endereço(s) e número(s) de aprovação do(s) entreposto(s) frigorífico(s) aprovado(s).
+
+.
+
+.
+
+.
+
+III. Destino dos produtos à base de carne
+
+Os produtos são expedidos
+
+de:.
+
+(local de expedição)
+
+para:.
+
+(país destinatário)
+
+pelo meio de transporte seguinte (& ):.
+
+Nome e endereço do expedidor:.
+
+.
+
+Nome e endereço do destinatário:.
+
+.
+
+(¹) Na acepção do artigo 2o. da Directiva 77/99/CEE.
+
+(²) Facultativo.
+
+(³) Menção eventual de irradiação ionizante por razões de ordem médica.
+
+(%) A preencher em caso de indicação nos termos do artigo 7o. da Directiva 77/99/CEE.
+
+(& ) Para vagões e camiões indicar o número de matrícula, para aviões o número de voo e para barcos o nome.
+
+IV. Certificado de salubridade
+
+O abaixo assinado certifica que os produtos à base de carne, acima referidos:
+
+a) Foram preparados com carnes frescas ou com produtos à base de carne nas condições específicas previstas na Directiva 77/99/CEE (¹);
+
+b) Foram preparados com carnes de espécies animais para além das referidas na alínea d) do artigo 2o. da Directiva 77/99/CEE (¹);
+
+c) Se destinam à República Helénica (¹).
+
+V. Se necessário:
+
+Em caso de transbordo num estabelecimento aprovado ou num entreposto frigorífico aprovado, a identificação:
+
+a) Do local de transbordo (endereço e número de aprovação):
+
+.
+
+.
+
+.
+
+b) Do meio de transporte (²):
+
+.
+
+.
+
+Feito em
+
+.,
+
+em
+
+.
+
+(local)
+
+(data)
+
+Carimbo
+
+.
+
+(assinatura da autoridade competente)
+
+(nome em maiúsculas)
+
+(¹) Riscar o que não interessa.
+
+(²) Para vagões e camiões indicar o número de matrícula, para aviões o número de voo e para barcos o nome.

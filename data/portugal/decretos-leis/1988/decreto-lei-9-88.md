@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:283366:por
+title: Decreto-Lei n.º 9/88
+short_title: null
+summary: Introduz alterações ao Decreto-Lei n.º 13/86, de 23 de Janeiro (correcção anual das rendas)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 9/88
+official_date: null
+publication_date: '1988-01-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 12/1988, Série I de 1988-01-15
+  number: '12'
+  series: I
+  supplement: null
+  pages: 127 - 128
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/01/01200/01270128.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '283366'
+  dre_path: /dr/detalhe/decreto-lei/9-1988-283366
+  internal: pt:dre:283366:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/9-1988-283366
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: b5cc5b792d6e13d5db7a0bfdcbf65907b83320b75fc370a0938d05478c329739
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-9-283366.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 9/88
+
+de 15 de Janeiro
+
+O n.º 2 do artigo 3.º do [Decreto-Lei n.º 13/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), de 23 de Janeiro, determina que, no caso de correcção extraordinária da renda, a comunicação ao arrendatário do montante da nova renda seja efectuada por meio de carta registada com aviso de recepção, devendo a assinatura do senhorio ser reconhecida por notário.
+
+Sendo tal comunicação um mero acto de administração ordinária e verificando-se uma tendência para a diminuição do número de actos susceptíveis de reconhecimento notarial, entende o Governo dever proceder-se à simplificação dessa comunicação, suprimindo a exigência legal do reconhecimento notarial da assinatura do senhorio.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. O n.º 2 do artigo 3.º do [Decreto-Lei n.º 13/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/13-1986-192247), de 23 de Janeiro, passa a ter a seguinte redacção:
+
+1 - ...
+
+2 - A correcção anual da renda, nos termos do artigo 12.º da referida lei, está sujeita a comunicação, com formalidades idênticas às mencionadas no número anterior.
+
+Visto e aprovado em Conselho de Ministros de 22 de Dezembro de 1987. - Aníbal António Cavaco Silva - Joaquim Fernando Nogueira - João Maria Leitão de Oliveira Martins.
+
+**Promulgado em 31 de Dezembro de 1987.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 31 de Dezembro de 1987.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

@@ -1,0 +1,73 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:132883342:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-132936567",
+ "dre_path": "/dr/detalhe/decreto-lei/19-b-2020-132883342",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-04-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "132936638",
+    "132936639",
+    "132936640",
+    "132936641",
+    "132936642"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:133064188:por",
+     "title": "Declaração de Retificação n.º 18-B/2020",
+     "published": "2020-05-05",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/18-b-2020-133064188",
+     "date": "2020-05-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "132936638": {
+   "fragment_id": "132936568",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 19-B/2020\n\nde 30 de abril\n\nSumário: Altera o regime da organização e funcionamento do XXII Governo Constitucional.\n\nConsiderando a importância e imprescindibilidade de assegurar - sem prejuízo das competências dos presidentes das câmaras municipais, como autoridades municipais da política de proteção civil, nos termos do artigo 35.º da Lei de Bases de Proteção Civil - uma melhor coordenação dos serviços da administração central de nível regional ou distrital e a devida articulação supramunicipal, torna-se importante assegurar a existência de um mecanismo idóneo a esse fim em sede de organização e funcionamento do Governo.\n\nPor outro lado, considerando que as NUTS II são hoje a área territorial consolidada da generalidade destes serviços desconcentrados da administração central e compreendem os serviços que ainda se organizam na base distrital, torna-se esta a área territorial de referência mais aconselhável para assegurar a referida coordenação.\n\nConsiderando igualmente que cumpre aproveitar as sinergias decorrentes das respostas eficientes que foram obtidas nas estruturas existentes e, bem assim, a experiência entretanto adquirida, e de modo a evitar a institucionalização de novas instâncias, cumpre prever no regime de organização e funcionamento do Governo uma estrutura flexível e necessária para a articulação e interlocução entre as estruturas desconcentradas do Estado, autarquias locais e entidades dos setores social.\n\nAssim:\n\nNos termos do n.º 2 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "132936639": {
+   "fragment_id": "132936569",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede à primeira alteração ao Decreto-Lei n.º 169-B/2019, de 3 de dezembro, que aprova o regime da organização e funcionamento do XXII Governo Constitucional."
+  },
+  "132936640": {
+   "fragment_id": "132936570",
+   "type": 11,
+   "heading": "Artigo 2.º — Aditamento ao Decreto-Lei n.º 169-B/2019, de 3 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aditamento ao Decreto-Lei n.º 169-B/2019, de 3 de dezembro\n\nÉ aditado ao Decreto-Lei n.º 169-B/2019, de 3 de dezembro, o artigo 83.º-A, com a seguinte redação:\n\n«Artigo 83.º-A\n\nCoordenação regional\n\nO Primeiro-Ministro procede à nomeação, mediante despacho dos membros do Governo, designadamente em situação de alerta, contingência ou calamidade, estado de sítio ou de emergência, a quem incumbe a coordenação horizontal das entidades, organismos ou serviços de âmbito regional ou distrital da administração direta e indireta do Estado, promovendo a articulação e interlocução de todas as estruturas desconcentradas do Estado, autarquias locais e entidades dos setores social e económico existentes na respetiva NUTS II."
+  },
+  "132936641": {
+   "fragment_id": "132936571",
+   "type": 11,
+   "heading": "Artigo 3.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 3 de maio de 2020."
+  },
+  "132936642": {
+   "fragment_id": "132936572",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

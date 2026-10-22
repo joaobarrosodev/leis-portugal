@@ -1,0 +1,398 @@
+---
+schema_version: '1.0'
+id: pt:dre:399665:por
+title: Decreto-Lei n.º 312/84
+short_title: null
+summary: Define o regime de recrutamento e provimento de pessoal docente nas faculdades de medicina e de ciências médicas
+  e, bem assim, a respectiva articulação entre as instituições hospitalares ou outras dependentes do Ministério da Saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros e Ministérios das Finanças e do Plano, da Educação e da Saúde
+proposing_entity: null
+official_number: 312/84
+official_date: null
+publication_date: '1984-09-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 224/1984, Série I de 1984-09-26
+  number: '224'
+  series: I
+  supplement: null
+  pages: 2956 - 2959
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/09/22400/29562959.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2004-09-19'
+version_history:
+  file: decreto-lei-312-84.versoes.json
+  count: 6
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1984-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1985-07-29'
+    amending: pt:dre:183262:por
+    amending_title: Decreto-Lei n.º 294/85
+    changes:
+    - Adita Artigo 5.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 12.º-B
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 15.º
+  - date: '1989-08-10'
+    amending: pt:dre:618876:por
+    amending_title: Decreto-Lei n.º 246/89
+    changes:
+    - Revoga Artigo 6.º
+    - Revoga Artigo 8.º
+  - date: '1994-12-26'
+    amending: pt:dre:571600:por
+    amending_title: Decreto-Lei n.º 311/94
+    changes:
+    - Altera Artigo 17.º
+  - date: '2003-09-01'
+    amending: pt:dre:654680:por
+    amending_title: Decreto-Lei n.º 188/2003
+    changes:
+    - Revoga Artigo 13.º
+  - date: '2004-09-19'
+    amending: pt:dre:480522:por
+    amending_title: Decreto-Lei n.º 206/2004
+    changes:
+    - Revoga Artigo 1.º
+    - Revoga Artigo 16.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/312/1984/p/cons/20040819/pt/html
+  oj: null
+  dre: '399665'
+  dre_path: /dr/detalhe/decreto-lei/312-1984-399665
+  internal: pt:dre:399665:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/312-1984-399665
+  metadata_url: https://data.dre.pt/eli/dec-lei/312/1984/p/cons/20040819/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-139052236
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1984-139052236
+  retrieved_at: '2026-10-22T12:34:00Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7ee6e50e25a2444e2a167026f5a184c6ed5837f674f1beac2d0691fe36a7ced7
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:34:00Z'
+  notes: 6 versão(ões); histórico completo em decreto-lei-312-84.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ensino Superior
+- Estabelecimento Hospitalar
+- Faculdade de Medicina
+- Formas de Provimento
+- Medicina
+- Pessoal Docente
+- Recrutamento de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:183262:por
+  label: Adita Artigo 5.º-A; Adita Artigo 12.º-A; Adita Artigo 12.º-B; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo
+    9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262
+  date: '1985-07-24'
+- type: amended_by
+  target: pt:dre:618876:por
+  label: Revoga Artigo 6.º; Revoga Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1989-618876
+  date: '1989-08-05'
+- type: amended_by
+  target: pt:dre:571600:por
+  label: Altera Artigo 17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1994-571600
+  date: '1994-12-21'
+- type: amended_by
+  target: pt:dre:654680:por
+  label: Revoga Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2003-654680
+  date: '2003-08-20'
+- type: amended_by
+  target: pt:dre:480522:por
+  label: Revoga Artigo 1.º; Revoga Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522
+  date: '2004-08-19'
+article_structure:
+  article_count: 20
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:34:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 312/84
+
+Decreto-Lei n.º 312/84
+
+de 26 de Setembro
+
+A prestação às populações de cuidados de saúde com a eficiência necessária exige, entre outras condições, que a formação dos médicos seja de alta qualidade. Para que este requisito seja satisfeito é indispensável, nomeadamente, que as escolas de medicina disponham dos recursos imprescindíveis para o efeito. Desses recursos destaca-se a existência de um corpo docente competente, com a devida dimensão e diversificação, e com o regime de trabalho exigível para o cabal cumprimento das múltiplas e complexas tarefas que lhe estão cometidas.
+
+Reconhece o Governo que a formação dos médicos exige cooperação dos Ministérios da Educação e da Saúde, aos quais cabe responsabilidade conjunta, que vai ser regulada em legislação genérica, agora em preparação.
+
+Verifica-se, no entanto, que o regime estabelecido pelo Decreto-Lei n.º 172/81, de 24 de Junho, que surgiu em cumprimento do disposto no artigo 105.º do Decreto-Lei n.º 448/79, de 13 de Novembro, carece de ser aperfeiçoado com urgência, o que não permite aguardar a conclusão dos diplomas em estudo, os quais, pela sua amplitude, exigem reflexão mais demorada.
+
+Efectivamente, embora se tenham colhido resultados positivos da aplicação do diploma, o certo é que também dele resultam situações inconvenientes.
+
+Dos aspectos negativos daquela legislação sobressaiem o de a base de recrutamento de docentes estar fortemente restringida por ter de limitar aos médicos da instituição ou instituições hospitalares em articulação com a respectiva faculdade e o de a satisfação dos requisitos para a contratação de assistentes estagiários implicar que só médicos já de idade menos adequada possam ter acesso a essa categoria, a partir da qual se forma a grande maioria dos professores.
+
+A estes inconvenientes acrescem os resultantes da tabela de vencimentos prevista no Decreto-Lei n.º 310/82, de 3 de Agosto, que, ao proporcionar aos médicos das carreiras da saúde remunerações mais elevadas do que as atribuídas aos médicos da carreira universitária, conduziu à progressiva redução do corpo de docentes de carreira ainda não doutorados, em virtude da sua opção pelas carreiras médicas, nomeadamente a carreira médica hospitalar.
+
+Assinale-se ainda, e por último, que a limitação do artigo 105.º do Estatuto da Carreira Docente Universitária ao ciclo clínico veio demonstrar-se inadequada ao desenvolvimento da formação médica como processo global e sem descontinuidades.
+
+O presente diploma responde a todas as críticas supramencionadas ao abrir possibilidades às faculdades de medicina e de ciências médicas de recrutarem os seus docentes de entre os médicos mais habilitados e em idade mais propícia, ao alargar a todo o curso de Medicina as normas especiais para contratação de pessoal docente, embora com regras diferentes para as situações previstas, e ao garantir igualdade de vencimento a médicos com tarefas similares ou proporcionalidade remunerativa a médicos com responsabilidades diferentes.
+
+O princípio orientador, no que se refere às relações entre as carreiras, foi o de que as provas previstas na carreira docente universitária aferem a competência científico-pedagógica e as provas das carreiras médicas avalizam a competência profissional. Nas áreas de ensino com correspondência nas carreiras médicas é, pois, necessário assegurar aos docentes a possibilidade de participarem nas acções de formação previstas nessas carreiras.
+
+Assim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º
+
+- 1 - O ensino de algumas disciplinas constantes dos planos de estudos aprovados para as faculdades de medicina e de ciências médicas é ministrado em instituições hospitalares ou outros estabelecimentos de saúde, mediante protocolo de colaboração entre as faculdades e essas instituições ou estabelecimentos.
+
+2 - Tais protocolos só terão eficácia depois de homologados por portaria conjunta dos Ministros da Educação e da Saúde, quando as instituições e estabelecimentos signatários façam parte ou sejam subsidiados pelo Serviço Nacional de Saúde.
+
+3 - Dos protocolos referidos neste artigo constará sempre:
+
+a) A indicação das disciplinas cujo ensino será ministrado naquelas instituições ou estabelecimentos;
+
+b) Os departamentos ou serviços nos quais será efectuado o ensino;
+
+c) O regime de relações entre a função docente e a assistencial;
+
+d) A composição e a competência de uma comissão mista e permanente encarregada de assegurar o funcionamento dos protocolos e o seu respeito;
+
+e) A distribuição de encargos financeiros.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), em vigor a partir de 2004-09-19
+
+###### Artigo 2.º
+
+As formas de recrutamento e os regimes de provimento dos docentes e do pessoal especialmente contratado das faculdades de medicina e de ciências médicas são os constantes do Estatuto da Carreira Docente Universitária e do Decreto-Lei n.º 316/83, de 2 de Julho, sem prejuízo do disposto no presente diploma.
+
+###### Artigo 3.º
+
+Para as disciplinas não previstas nos protocolos referidos no artigo 1.º do presente diploma, o recrutamento dos assistentes estagiários e dos assistentes que estejam ao abrigo do disposto na alínea b) do n.º 1 do artigo 12.º do Estatuto da Carreira Docente Universitária depende da conclusão, com aproveitamento, do internato geral.
+
+###### Artigo 4.º
+
+Aos assistentes e assistentes estagiários a que se refere o artigo anterior é assegurado o direito à frequência do internato complementar desde que, simultaneamente:
+
+a) Os interessados tenham obtido colocação em vaga do internato complementar a realizar em instituição ou estabelecimento que, nos termos do artigo 1.º do presente diploma, tiver sido designado para funcionar em articulação com a respectiva faculdade;
+
+b) Essa vaga corresponda a área profissional que, por portaria conjunta dos Ministros da Educação e da Saúde, seja considerada afim da disciplina ou disciplinas para que os interessados tiverem sido contratados como docentes.
+
+###### Artigo 5.º
+
+1 - Para as disciplinas previstas nos protocolos referidos no artigo 1.º do presente diploma, o recrutamento de docentes e de pessoal especialmente contratado fica condicionado:
+
+a) À aprovação nas provas de acesso ao internato complementar, no caso dos assistentes estagiários;
+
+b) À obtenção do grau de assistente hospitalar ou de assistente de saúde pública ou de clínica geral, no caso dos professores auxiliares;
+
+c) À obtenção do grau de chefe de serviço hospitalar, de saúde pública ou de consultor de clínica geral, no caso dos professores associados e dos professores catedráticos.
+
+2 - A avaliação da capacidade científica prevista na alínea a) do n.º 1 do artigo 12.º do Estatuto da Carreira Docente Universitária, para efeitos da passagem a assistentes dos assistentes convidados e dos assistentes estagiários a que se refere a alínea a) do número anterior, é substituída por avaliação, feita pelo professor responsável da disciplina, sobre a actividade do candidato no internato complementar, com base nas informações dadas pelos directores dos serviços onde o internato tenha decorrido, sem prejuízo da obrigatoriedade da prestação da prova de aptidão pedagógica prevista nos artigos 53.º a 60.º do mesmo Estatuto.
+
+3 - O recrutamento dos assistentes ao abrigo do disposto na alínea b) do n.º 1 do artigo 12.º do Estatuto da Carreira Docente Universitária fica, igualmente, condicionada à aprovação nas provas de acesso ao internato complementar.
+
+4 - Aos assistentes e assistentes estagiários referidos nos números anteriores é garantido o direito à frequência do internato complementar, na área profissional correspondente ou afim, ainda que mediante a criação de vagas suplementares na instituição hospitalar ou no estabelecimento de saúde em que for ministrado o ensino da respectiva disciplina.
+
+5 - A rescisão do contrato como assistente ou assistente estagiário, nos termos da lei geral, implicará a cessação automática do direito à frequência do internato complementar sempre que esse direito tenha sido assegurado através de vaga suplementar.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 5.º-A
+
+Para efeitos da aplicação do disposto no n.º 4 do artigo anterior, o recrutamento de assistentes e assistentes estagiários só poderá fazer-se de entre médicos que se encontrem colocados em vaga do internato complementar na área profissional correspondente ou afim.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 6.º
+
+1 - Os assistentes das disciplinas previstas nos protocolos referidos no artigo 1.º deste diploma são contratados por um período de 3 anos, prorrogável tacitamente ano a ano por um máximo de 3 vezes.
+
+2 - O contrato caducará obrigatoriamente no termo da sua duração ou de qualquer das suas prorrogações se até lá o interessado não fizer prova de ter obtido o grau de assistente hospitalar, de saúde pública ou de clínica geral.
+
+3 - Obtido o grau a que se refere o número anterior, o contrato passará ao regime de prorrogação previsto no artigo 26.º do Estatuto da Carreira Docente Universitária, sendo o interessado provido, nos termos da legislação vigente, como assistente da instituição ou estabelecimento em que for ministrado o ensino da respectiva disciplina, ainda que supranumerário, e, neste caso, em lugar a extinguir com a cessação do contrato de docente.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 246/89 - Diário da República n.º 179/1989, Série I de 1989-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1989-618876), em vigor a partir de 1989-08-10
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 7.º
+
+As funções do monitor só poderão ser exercidas:
+
+a) Por alunos dos 2 últimos anos do curso da licenciatura em Medicina;
+
+b) Por licenciados em Medicina quer antes quer após o ingresso no internato geral e, neste último caso, em regime de acumulação com aquele internato e apenas até ao termo do ano lectivo em que se verificar a sua conclusão ou até à primeira possibilidade de ingresso em grau superior nas carreiras médicas.
+
+###### Artigo 8.º
+
+- 1 - É assegurado aos professores auxiliares, bem como aos professores associados e catedráticos das disciplinas previstas nos protocolos referidos no artigo 1.º do presente diploma, nos termos da legislação aplicável, o direito ao provimento, como supranumerários, nas categorias e em lugares de assistente hospitalar, de saúde pública ou de clínica geral e de chefe de serviço hospitalar, de saúde pública ou consultor de clínica geral, respectivamente, sempre que se verifique a inexistência de vagas nos quadros das instituições hospitalares ou dos estabelecimentos de saúde em que os interessados desenvolvam actividades de ensino.
+
+2 - Os lugares de supranumerários previstos no número anterior serão extintos à medida que vagarem, por força de cessação do contrato de docência, no caso dos professores auxiliares, ou de não obtenção de provimento definitivo, no caso dos professores associados e catedráticos.
+
+> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 246/89 - Diário da República n.º 179/1989, Série I de 1989-08-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-1989-618876), em vigor a partir de 1989-08-10
+
+###### Artigo 9.º
+
+- 1 - Os docentes providos em lugares das instituições hospitalares ou dos estabelecimentos de saúde, ainda que na qualidade de supranumerários, ficam obrigados à prestação das funções assistenciais próprias do respectivo cargo na instituição ou estabelecimento correspondente e ao exercício das funções previstas no Estatuto da Carreira Docente Universitária.
+
+2 - As funções a que se refere o número anterior, bem como as de assistente e assistente estagiário previstas no artigo 4.º e no n.º 4 do artigo 5.º, do presente diploma, serão exercidas dentro do tempo de serviço a que os interessados estão obrigados na instituição hospitalar ou no estabelecimento de saúde correspondente, com o mínimo de 36 horas de serviço semanal, e conferem o direito aos seguintes abonos:
+
+a) 100% do vencimento correspondente ao cargo de docente e dos subsídios e outras remunerações acessórias devidos pelo exercício desse cargo, que serão suportados pelas verbas próprias do estabelecimento de ensino respectivo;
+
+b) 30% do vencimento que couber ao cargo próprio da carreira médica em tempo completo, que serão suportados pela instituição hospitalar ou estabelecimento de saúde competente;
+
+c) Durante a frequência do internato complementar, o assistente e o assistente estagiário terão direito a um abono correspondente a 35% do vencimento devido pelo exercício daquela função em regime de tempo completo prolongado, o qual será suportado pela instituição hospitalar ou estabelecimento de saúde correspondente.
+
+3 - Os docentes providos em lugares de assistente hospitalar, de chefe de serviço ou de consultor terão ainda direito ao valor total dos abonos correspondentes às percentagens previstas no quadro I, anexo ao Decreto-Lei n.º 310/82, de 3 de Agosto, sempre que se verifique o exercício dos cargos de direcção ou chefia ou de funções em regime de tempo completo prolongado.
+
+4 - Os abonos a que se referem os números anteriores não prejudicam o regime de dedicação exclusiva previsto no Estatuto da Carreira Docente Universitária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 10.º
+
+1 -  Os médicos que se encontrem a frequentar o internato complementar ou que estejam providos em lugares de assistente das carreiras médicas estão autorizados a acumular funções com as de assistente convidado a tempo parcial, desde que seja da concordância da respectiva instituição hospitalar ou estabelecimento de saúde.
+
+2 - Os docentes contratados nas condições do número anterior terão direito a 40% do vencimento de assistente universitário e são obrigados à prestação de 9 horas de serviço semanal, das quais 6 destinadas a aulas e 3 a atendimento de alunos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 11.º
+
+- 1 - Fora dos casos previstos no artigo anterior, o pessoal das carreiras médicas necessário às actividades docentes poderá ainda ser contratado:
+
+a) Como professor auxiliar convidado, no caso de assistente hospitalar, de saúde pública ou de clínica geral que vá assegurar a regência de uma disciplina ou disciplinas constantes do plano de estudos;
+
+b) Como professor associado convidado, no caso de chefe de serviço hospitalar ou de saúde pública ou de consultor de clínica geral;
+
+c) Como professor catedrático convidado, no caso de director de serviço.
+
+2 - Os contratos serão anuais e prorrogáveis por períodos de igual duração, por um máximo de quatro vezes, podendo, subsequentemente, ser reconduzidos por períodos de 5 anos, nos termos do n.º 2 do artigo 31.º do Estatuto da Carreira Docente Universitária.
+
+3 - As funções dos docentes contratados ao abrigo do disposto nos números anteriores serão exercidas dentro do tempo de serviço a que os interessados estão obrigados na instituição hospitalar ou no estabelecimento de saúde correspondente e conferem o direito, para além das remunerações e acréscimo sobre o vencimento base que lhes couber na respectiva instituição hospitalar ou estabelecimento de saúde, a um suplemento de 30% do vencimento correspondente à categoria para que forem contratados, a abonar pela faculdade, mesmo que se encontrem em regime de dedicação exclusiva.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 12.º-A
+
+Para as disciplinas não previstas nos protocolos referidos no artigo 1.º do Decreto-Lei n.º 312/84, de 26 de Setembro, podem ainda ser contratados como assistentes convidados em regime de tempo integral os licenciados ou diplomados com curso superior equivalente que satisfaçam as condições previstas no artigo 16.º do Estatuto da Carreira Docente Universitária.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 12.º
+
+Independentemente do disposto nos artigos anteriores, poderão também ser contratados como professores convidados e como assistentes convidados em regime de tempo integral os médicos que satisfaçam as condições previstas, respectivamente, no artigo 15.º e nos n.os 1 e 2 do artigo 16.º do Estatuto da Carreira Docente Universitária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 12.º-B
+
+No âmbito de protocolos estabelecidos com o Estado-Maior-General das Forças Armadas poderão também ser contratados os médicos das carreiras militares que satisfaçam as condições previstas nos artigos 15.º e 16.º do Estatuto da Carreira Docente Universitária.
+
+Normas finais e transitórias
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 13.º
+
+- 1 - A direcção dos serviços hospitalares referidos nos protocolos previstos no artigo 1.º caberá ao médico que, exercendo funções no respectivo serviço, possua o grau mais elevado da carreira hospitalar.
+
+2 - Em caso de existir mais de um médico com o grau mais elevado da carreira hospitalar, preferirá aquele que cumulativamente detenha a categoria mais elevada da carreira docente universitária.
+
+3 - Os actuais directores de serviço, a que se refere a alínea h) do n.º 11 do artigo 40.º do Decreto-Lei n.º 310/82, de 3 de Agosto, providos a título definitivo, manter-se-ão no exercício das suas funções nos lugares respectivos.
+
+4 - Nos serviços em que, por força do disposto nos protocolos previstos no artigo 1.º, passar a ser ministrado o ensino de qualquer disciplina das faculdades de medicina e de ciências médicas, as situações de direcção de serviço actualmente existentes serão mantidas até ao termo da sua duração.
+
+5 - As regras definidas nos números anteriores serão aplicáveis nos serviços das instituições hospitalares em que se desenvolvam de forma permanente cursos regulares de formação pós-graduada, autorizados e reconhecidos por despacho conjunto dos Ministros da Educação e da Saúde.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 188/2003 - Diário da República n.º 191/2003, Série I-A de 2003-08-20](https://diariodarepublica.pt/dr/detalhe/decreto-lei/188-2003-654680), em vigor a partir de 2003-09-01
+
+###### Artigo 14.º
+
+Nas acções de formação pós-graduada previstas no n.º 5 do artigo anterior poderão participar professores auxiliares, associados ou catedráticos não vinculados às instituições hospitalares correspondentes, a remunerar por gratificação nos termos da lei geral.
+
+###### Artigo 15.º
+
+- 1 - Os contratos com os monitores que não obedeçam às condições previstas no artigo 7.º do presente diploma não poderão ser prorrogados para além do final do ano lectivo que se seguir ao termo da sua duração.
+
+2 - Não poderão igualmente ser prorrogados, para além do final do ano lectivo que se seguir ao termo da sua duração, os contratos com os docentes convidados que não obedeçam ao regime estabelecido nos artigos 10.º e 11.º
+
+3 - Aos docentes a que se refere o número anterior é permitida a passagem, desde já e a seu pedido, ao regime de contratação previsto nos artigos 10.º, 11.º e 12.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 294/85 - Diário da República n.º 168/1985, Série I de 1985-07-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/294-1985-183262), em vigor a partir de 1985-07-29
+
+###### Artigo 16.º
+
+- 1 - Enquanto não forem homologados os protocolos previstos no artigo 1.º, manter-se-ão em vigor as situações actualmente existentes de articulação entre as faculdades de medicina e de ciências médicas e as instituições hospitalares.
+
+2 - A essas situações são desde já aplicáveis as disposições do presente diploma relativas a pessoal.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 206/2004 - Diário da República n.º 195/2004, Série I-A de 2004-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/206-2004-480522), em vigor a partir de 2004-09-19
+
+###### Artigo 17.º
+
+- 1 - São revogados o Decreto-Lei n.º 172/81, de 24 de Junho, e o n.º 2 do artigo 13.º do Decreto-Lei n.º 481/77, de 15 de Novembro.
+
+2 - Revogado
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 311/94 - Diário da República n.º 293/1994, Série I-A de 1994-12-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/311-1994-571600), em vigor a partir de 1994-12-26
+
+Visto e aprovado em Conselho de Ministros de 30 de Agosto de 1984. - Mário Soares - Carlos Alberto da Mota Pinto - António de Almeida Santos - Ernâni Rodrigues Lopes - Joaquim Germano Pinto Machado Correia da Silva - António Manuel Maldonado Gonelha.
+
+Promulgado em 14 de Setembro de 1984.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+Referendado em 17 de Setembro de 1984.
+
+O Primeiro-Ministro, Mário Soares.

@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:222259:por
+title: Portaria n.º 615/86
+short_title: null
+summary: Sujeita ao regime de preços máximos os adubos compostos ternários 13-13-20 com 2% de magnésio, 12-28-12 e 14-36-10
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio
+proposing_entity: null
+official_number: 615/86
+official_date: null
+publication_date: '1986-10-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 244/1986, Série I de 1986-10-22
+  number: '244'
+  series: I
+  supplement: null
+  pages: 3188 - 3188
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/10/24400/31883188.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '222259'
+  dre_path: /dr/detalhe/portaria/615-1986-222259
+  internal: pt:dre:222259:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-1986-222259
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/615-1986-222259
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-12-04T00:00:00Z'
+integrity:
+  source_sha256: 9430788ae914c67b0711af731e4a875f7886351f490a299623a3d53733013a97
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-615-222259.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:305633:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 615/86
+
+de 22 de Outubro
+
+Ao abrigo do disposto no artigo 1.º do [Decreto-Lei n.º 75-Q/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/75-q-1977-509026), de 28 de Fevereiro:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio, o seguinte:
+
+1.º - 1 - Ficam sujeitos ao regime de preços máximos os adubos compostos ternários 13-13-20 com 2% de magnésio, 12-28-12 e 14-36-10.
+
+2 - Os preços máximos de venda daqueles adubos ao consumidor no continente, bem como as respectivas margens de comercialização globais atribuídas aos revendedores (grossistas e retalhistas) são continente e já incluídas nos preços máximos, constam do quadro seguinte:
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1986/10/24400/31883188.pdf))](https://files.diariodarepublica.pt/1s/1986/10/24400/31883188.pdf)
+
+3 - Os preços máximos fixados referem-se a adubo destinado a consumo no continente e colocado na estação de destino, quando transportado pelo caminho de ferro, ou no depósito do revendedor, quando transportado por camionagem.
+
+4 - Os preços máximos de venda dos adubos aos revendedores nos cais dos portos das Regiões Autónomas dos Açores e da Madeira, quando expedidos do continente, são os que resultam da dedução das margens de comercialização fixadas no n.º 2 aos preços máximos de venda ao consumidor fixados para o continente também no n.º 2.
+
+2.º São aplicáveis aos adubos mencionados no n.º 1 do n.º 1.º as disposições regulamentares susceptíveis da [Portaria n.º 894-D/85](https://diariodarepublica.pt/dr/detalhe/portaria/894-d-1985-249491), de 23 de Novembro.
+
+3.º A presente portaria entra em vigor no dia imediato ao da sua publicação.
+
+Ministérios das Finanças, da Agricultura, Pescas e Alimentação e da Indústria e Comércio.
+
+**Assinada em 8 de Outubro de 1986.**
+
+Pelo Ministro das Finanças, José de Oliveira Costa, Secretário de Estado para os Assuntos Fiscais. - O Ministro da Agricultura, Pescas e Alimentação, Álvaro Roque de Pinho Bissaia Barreto. - Pelo Ministro da Indústria e Comércio, Luís Filipe Sales Caldeira da Silva, Secretário de Estado do Comércio Externo.

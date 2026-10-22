@@ -1,0 +1,208 @@
+---
+schema_version: '1.0'
+id: pt:dre:513410:por
+title: Decreto n.º 43441
+short_title: null
+summary: Transfere verbas dentro dos orçamentos dos Ministérios do Exército e da Economia e abre créditos destinados a reforçar
+  verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério das Finanças - Direcção-Geral da Contabilidade Pública
+proposing_entity: null
+official_number: '43441'
+official_date: null
+publication_date: '1960-12-27'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 299/1960, Série I de 1960-12-27
+  number: '299'
+  series: I
+  supplement: null
+  pages: 2894 - 2895
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/12/29900/28942895.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '513410'
+  dre_path: /dr/detalhe/decreto/43441-1960-513410
+  internal: pt:dre:513410:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/43441-1960-513410
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/43441-1960-513410
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1960-12-27T00:00:00Z'
+integrity:
+  source_sha256: dbab6e9a9206ffb6242f6acb1509e8f0471e991e0f3218cb156c777f05484bd9
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-43441-513410.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 11
+  section_count: 15
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 43441
+
+Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diariodarepublica.pt/dr/detalhe/decreto/16670-1929-624998), de 27 de Março de 1929, no artigo 2.º do [Decreto-Lei n.º 33538](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33538-1944-528224), de 21 de Fevereiro de 1944, no artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, nas alíneas b) e d) do artigo 35.º do referido [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), no artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, mediante propostas aprovadas pelo Ministro das Finanças, nos termos do n.º 1.º do artigo 9.º do [Decreto-Lei n.º 22470](https://diariodarepublica.pt/dr/detalhe/decreto-lei/22470-1933-255227), de 11 de Abril de 1933, e nos do mencionado artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659);
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+
+Ministério do Exército
+
+No capítulo 3.º:
+
+Do artigo 48.º, n.º 1) «Pessoal dos quadros ...» ... - 78623$20
+
+Para o artigo 50.º, n.º 1) «Alimentação» ... +78623$20
+
+Ministério da Economia
+
+No capítulo 23.º, artigo 335.º:
+
+Do n.º 1), alínea a) «Vencimentos e salários ...» ... -190000$00
+
+Do n.º 3), alínea b) «Emparcelamento» ... -1700000$00
+
+Para o n.º 3), alínea a) «Parcelamento» ... +1890000$00
+
+###### Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 7904309$10, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+
+Ministério das Finanças
+
+### Capítulo 9.º «Serviços de contribuições - Direcções de finanças distritais e secções concelhias»:
+
+###### Artigo 129.º, n.º 2) «Impressos, ...» ... 50000$00
+
+###### Artigo 130.º, n.º 1) «Luz, ...», alínea a) «Para lavagem, ...: Na Direcção de Finanças de Lisboa» ... 6500$00
+
+... 56500$00
+
+Ministério do Exército
+
+### Capítulo 1.º «Gabinete do Ministro - Ministro, Subsecretário de Estado e Repartição do Gabinete do Ministro»:
+
+###### Artigo 4.º, n.º 1), alínea c) «Despesas de representação ...» ... 592949$10
+
+### Capítulo 3.º «Serviços de instrução»:
+
+Academia Militar (Lisboa):
+
+###### Artigo 55.º, n.º 3), alínea a) «Alimentação ...» ... 44860$00
+
+Instituto Técnico Militar dos Pupilos do Exército (Lisboa):
+
+###### Artigo 139.º, n.º 1) «Móveis» ... 80000$00
+
+... 717809$10
+
+Ministério da Marinha
+
+### Capítulo 3.º «Superintendência dos Serviços da Armada - Escola Naval»:
+
+###### Artigo 63.º, n.º 1) «Móveis» ... 250000$00
+
+Ministério da Educação Nacional
+
+### Capítulo 2.º «Secretaria-Geral»:
+
+###### Artigo 13.º, n.º 1) «Luz, ...» ... 3000000
+
+Ministério da Economia
+
+Secretaria de Estado da Agricultura
+
+### Capítulo 5.º «Direcção-Geral dos Serviços Pecuários - Serviços centrais»:
+
+###### Artigo 56.º, n.º 7) «Campanhas profilácticas», alínea c) «Combate à peste suína ...» ... 4500000$00
+
+### Capítulo 7.º «Junta de Colonização Interna»:
+
+###### Artigo 157.º, n.º 1) «De imóveis», alínea a) «Prédios rústicos» ... 350000$00
+
+... 4850000$00
+
+Ministério da Saúde e Assistência
+
+### Capítulo 4.º «Serviços de assistência pública - Direcção-Geral da Assistência»:
+
+###### Artigo 63.º, n.º 1) «Subsídios a cofres ...», alínea b) «Assistência à maternidade ...: Comparticipação nos encargos de sustentação do instituto Maternal ...» ... 2000000$00
+
+... 7904309$10
+
+###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+
+Orçamento das receitas do Estado
+
+### Capítulo 4.º, artigo 67.º «Diversas receitas não classificadas» ... ... 492949$10
+
+### Capítulo 5.º, artigo 107.º «Exploração dos bens na posse da Junta de Colonização Interna» ... 350000$00
+
+... 842949$10
+
+Ministério das Finanças
+
+### Capítulo 1.º, artigo 8.º, n.º 1) ... 306500$00
+
+### Capítulo 6 º, artigo 47.º, n.º 1) ... 6500000$00
+
+... 6806500$00
+
+Ministério do Exército
+
+### Capítulo 3.º, artigo 48.º, n.º 1) ... 44860$00
+
+### Capítulo 3.º, artigo 136.º, n.º 1) ... 180000$00
+
+... 224860$00
+
+Ministério da Educação Nacional
+
+### Capítulo 4.º, artigo 733.º, n.º 1), alínea b). ... 30000$00
+
+... 7904309$10
+
+Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), do 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
+
+Paços do Governo da República, 27 de Dezembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Pedro Theotónio Pereira - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo - Henrique de Miranda Vasconcelos Martins de Carvalho.

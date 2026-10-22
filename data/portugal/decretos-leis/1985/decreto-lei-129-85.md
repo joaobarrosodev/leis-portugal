@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:324343:por
+title: Decreto-Lei n.º 129/85
+short_title: null
+summary: Adita ao Decreto-Lei n.º 218/82, de 2 de Junho, o artigo 28.º, dotando as cooperativas de construção e habitação
+  de um tratamento emolumentar especial, no regime de propriedade individual
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Justiça
+proposing_entity: null
+official_number: 129/85
+official_date: null
+publication_date: '1985-04-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 96/1985, Série I de 1985-04-26
+  number: '96'
+  series: I
+  supplement: null
+  pages: 1123 - 1123
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/04/09600/11231123.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '324343'
+  dre_path: /dr/detalhe/decreto-lei/129-1985-324343
+  internal: pt:dre:324343:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1985-324343
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/129-1985-324343
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 28dfbed708936d650e0a29062d2d8814be274134a2cbd11138406bdfd659752d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-129-324343.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 129/85
+
+de 26 de Abril
+
+Considerando que o registo de aquisição dos fogos a favor das cooperativas de construção e habitação, no regime de propriedade individual, tem o carácter de registo prévio ou intermédio que justifica um tratamento emolumentar especial, o Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. É. aditado ao [Decreto-Lei n.º 218/82](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1982-391836), de 2 de Junho, o artigo 28.º, com a seguinte redacção:
+
+###### ARTIGO 28.º
+
+(Registo)
+
+É isento de emolumentos o registo de aquisição de prédios ou fracções autónomas a favor das cooperativas de construção e habitação, no regime de propriedade individual.
+
+Visto e aprovado em Conselho de Ministros de 2 de Abril de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete - António de Almeida Santos - Mário Ferreira Bastos Raposo.
+
+**Promulgado em 15 de Abril de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 16 de Abril de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:692867:por
+title: Resolução n.º 31/80
+short_title: null
+summary: Fixa os preços e condições para a Região Demarcada do Dão
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 31/80
+official_date: null
+publication_date: '1980-02-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 34/1980, Série I de 1980-02-09
+  number: '34'
+  series: I
+  supplement: null
+  pages: 142 - 142
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/02/03400/01420142.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '692867'
+  dre_path: /dr/detalhe/resolucao/31-1980-692867
+  internal: pt:dre:692867:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/31-1980-692867
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/31-1980-692867
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-07-10T00:00:00Z'
+integrity:
+  source_sha256: 4d8d72727d31924f1c250cde43ebe438fa1a50d416686e78e9aaea0c3747e7bd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-31-692867.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:471901:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 31/80
+
+Considerando a elevada produção de vinho na Região Demarcada do Dão na campanha de 1979, torna-se necessária uma intervenção no sentido de retirar parte dessa produção e desse modo permitir-se a formação de preços no mercado compensadores para os produtores.
+
+Além do motivo já assinalado, a intervenção terá também como objectivo a retirada, para queima, dos vinhos de baixa qualidade a fim de se garantir a qualidade dos vinhos desta Região Demarcada.
+
+O Conselho de Ministros, reunido em 29 de Janeiro de 1980, resolveu:
+
+a) Fixar para a Região Demarcada do Dão os preços e condições constantes da tabela em anexo à presente resolução e que dela faz parte integrante, a qual vigorará até 31 de Julho de 1980;
+
+b) Determinar que o Ministério do Comércio e Turismo providencie no sentido de a Federação dos Vinicultores do Dão promover imediatamente uma intervenção de compra aos preços e nas condições da tabela referida na alínea anterior;
+
+c) Criar uma linha de crédito até ao montante de 250000 contos e à taxa bonificada de 12% a ser utilizada pela Federação dos Vinicultores do Dão em condições a definir mediante despacho conjunto dos Ministros das Finanças e do Plano e do Comércio e Turismo, para permitir o cumprimento do disposto nas alíneas anteriores.
+
+Presidência do Conselho de Ministros, 29 de Janeiro de 1980. - O Primeiro-Ministro, Francisco Sá Carneiro.
+
+Tabela para intervenção por compra de vinhos na Região Demarcada do Dão
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/02/03400/01420142.pdf))](https://files.diariodarepublica.pt/1s/1980/02/03400/01420142.pdf)
+
+NOTAS
+
+1 - A acidez volátil será determinada pelo método de Case nave, corrigido do anidrido sulfuroso livre e expresso em gramas de acético por litro.
+
+2 - A partir de 1 de Maio será concedida uma tolerância de 0,1 g na acidez volátil corrigida para os vinhos típicos regionais e vinhos de consumo corrente das 1.ª e 2.ª categorias.
+
+3 - Na categoria de vinhos típicos regionais poderão ser incluí dos vinhos que revelem marcada qualidade e satisfaçam todos os condicionalismos para serem engarrafados com a respectiva de signação de proveniência regional.
+
+4 - Os vinhos típicos regionais e os outros vinhos que venham a ser admitidos nessa categoria nos termos da nota n.º 3 serão valorizados até ao teor alcoólico volumétrico máximo de 13%.

@@ -1,0 +1,841 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:133723684:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2020-151193635",
+ "dre_path": "/dr/detalhe/decreto-lei/20-g-2020-133723684",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2020-05-14",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202132848",
+    "151172973",
+    "151172974",
+    "151290275",
+    "151290276",
+    "151290277",
+    "151290278",
+    "151290279",
+    "151290280",
+    "151290281",
+    "151290282",
+    "151290283",
+    "151290284",
+    "151290285",
+    "151290286",
+    "151290287",
+    "151290288",
+    "151290289",
+    "151290290",
+    "151290291",
+    "151290292",
+    "151290293",
+    "151290294",
+    "151290295",
+    "151290296",
+    "151290297",
+    "151290298",
+    "151290299",
+    "151290300",
+    "151290301",
+    "151290302",
+    "151290303",
+    "151290304",
+    "151290305",
+    "151290306"
+   ]
+  },
+  {
+   "date": "2020-12-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:151064868:por",
+     "title": "Decreto-Lei n.º 103/2020",
+     "published": "2020-12-15",
+     "dre_path": "/dr/detalhe/decreto-lei/103-2020-151064868"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 16.º"
+   ],
+   "fragments": [
+    "151172972",
+    "151172973",
+    "151172974",
+    "151290275",
+    "151290276",
+    "151290308",
+    "151290278",
+    "151290279",
+    "151290280",
+    "151290309",
+    "151290282",
+    "151290283",
+    "151290284",
+    "151290285",
+    "151290286",
+    "151290287",
+    "151290288",
+    "151290289",
+    "151290290",
+    "151290310",
+    "151290292",
+    "151290293",
+    "151290294",
+    "151290295",
+    "151290296",
+    "151290297",
+    "151290298",
+    "151290299",
+    "151290300",
+    "151290301",
+    "151290302",
+    "151290303",
+    "151290304",
+    "151290305",
+    "151290306",
+    "151290307"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202132848",
+    "202132849",
+    "202132850",
+    "202132851",
+    "202132852",
+    "202132853",
+    "202132854",
+    "202132855",
+    "202132856",
+    "202132857",
+    "202132858",
+    "202132859",
+    "202132860",
+    "202132861",
+    "202132862",
+    "202132863",
+    "202132864",
+    "202132865",
+    "202132866",
+    "202132867",
+    "202132868",
+    "202132869",
+    "202132870",
+    "202132871",
+    "202132872",
+    "202132873",
+    "202132874",
+    "202182675",
+    "202182676",
+    "202182677",
+    "202182678",
+    "202182679",
+    "202182680",
+    "202182681",
+    "202182682",
+    "202182683"
+   ]
+  }
+ ],
+ "fragments": {
+  "202132848": {
+   "fragment_id": "151193636",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 20-G/2020\n\nde 14 de maio\n\nSumário: Estabelece um sistema de incentivos à segurança nas micro, pequenas e médias empresas, no contexto da doença COVID-19.\n\nNo âmbito da emergência de saúde pública de âmbito internacional causada pela doença COVID-19, o Governo aprovou o Decreto-Lei n.º 10-A/2020, de 13 de março, no qual foram estabelecidas medidas excecionais relativas àquela situação epidemiológica.\n\nNo período decorrido desde a adoção destas medidas excecionais foi igualmente decretado - e renovado por duas vezes - o estado de emergência em Portugal, bem como a sua regulamentação, no âmbito da qual foram suspensas ou restringidas, por razões de saúde pública, atividades económicas diversas, nomeadamente de natureza comercial e de serviços pessoais.\n\nCom o fim do período de execução do estado de emergência não cessa, contudo, a necessidade de acautelar os impactos na saúde pública da retoma de atividades que por força dos limites estabelecidos à liberdade económica tiveram fortes impactos na sua atividade normal.\n\nNo sentido de definir um processo de transição o Governo, através da Resolução do Conselho de Ministros n.º 33-A/2020, de 30 de abril, procedeu à declaração da situação de calamidade, no âmbito da pandemia da doença COVID-19, definindo um conjunto adicional de medidas, de modo a minorar o risco de contágio e de propagação daquela doença.\n\nEm simultâneo, pela Resolução do Conselho de Ministros n.º 33-C/2020, de 30 de abril, estabeleceu-se uma estratégia de levantamento de medidas de confinamento no âmbito do combate à pandemia da doença COVID-19.\n\nNa verdade, sem descurar a prioridade do combate à pandemia, é fundamental iniciar gradualmente o levantamento das medidas de confinamento com vista a iniciar a fase de recuperação e revitalização da nossa vida em sociedade e da nossa economia.\n\nO levantamento progressivo das restrições impostas ao exercício de atividades económicas são acompanhadas por medidas relativas à necessidade de observância de condições específicas de funcionamento, incluindo regras de lotação, utilização de equipamentos de proteção individual, agendamento e distanciamento físico, as quais acrescem às condições gerais para o levantar de medidas de confinamento, designadamente, a disponibilidade no mercado de máscaras e gel desinfetante, a higienização regular dos espaços, a higiene das mãos e etiqueta respiratória e a prática do dever cívico de recolhimento e de distanciamento físico.\n\nAs empresas necessitam de proceder à adaptação dos seus estabelecimentos, métodos de organização do trabalho e de relacionamento com clientes e fornecedores às novas condições de distanciamento físico no contexto da pandemia COVID-19, garantindo o cumprimento das normas estabelecidas e das recomendações das autoridades competentes.\n\nÉ neste âmbito que o presente decreto-lei cria um sistema de incentivos destinado à adaptação da atividade económica face ao novo contexto criado pela COVID-19, para que o já anunciado plano de desconfinamento ocorra de forma segura e que dê confiança aos cidadãos.\n\nEste sistema vai permitir minorar os custos acrescidos para o restabelecimento rápido das condições de funcionamento das empresas, sendo apoiados, nomeadamente, os custos de aquisição de equipamentos de proteção individual para trabalhadores e utentes, equipamentos de higienização, contratos de desinfeção e os custos com a reorganização dos locais de trabalho e alterações de layout dos estabelecimentos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "151172973": {
+   "fragment_id": "151193637",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "151172974": {
+   "fragment_id": "151193638",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um sistema de incentivos à adaptação da atividade empresarial ao contexto da doença COVID-19, doravante designado Programa ADAPTAR, que visa apoiar as empresas no esforço de adaptação e de investimento nos seus estabelecimentos, ajustando os métodos de organização do trabalho e de relacionamento com clientes e fornecedores às novas condições de contexto da pandemia da doença COVID-19, garantindo o cumprimento das normas estabelecidas e das recomendações das autoridades competentes."
+  },
+  "151290275": {
+   "fragment_id": "151193639",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nO Programa ADAPTAR tem aplicação em todo o território do continente."
+  },
+  "151290276": {
+   "fragment_id": "151193640",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito setorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito setorial\n\nSão elegíveis os projetos inseridos em todas as atividades económicas, com exceção das que integrem:\n\na) O setor da pesca e da aquicultura;\n\nb) O setor da produção agrícola primária e florestas;\n\nc) O setor da transformação e comercialização de produtos agrícolas constantes do anexo i do Tratado de Funcionamento da União Europeia e transformação e comercialização de produtos florestais;\n\nd) Os projetos que incidam nas seguintes atividades previstas na Classificação Portuguesa de Atividades Económicas, revista pelo Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual:\n\ni) Financeiras e de seguros - divisões 64 a 66;\n\nii) Defesa - subclasses 25402 e 30400;\n\niii) Lotarias e outros jogos de aposta - divisão 92."
+  },
+  "151290277": {
+   "fragment_id": "151193641",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Atividade económica da empresa», o código da atividade principal da empresa, de acordo com a classificação portuguesa das atividades económicas, registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas;\n\nb) «Data de conclusão do projeto», a data de emissão da última fatura ou documento equivalente, imputável ao projeto ou à operação, a qual deve ocorrer no máximo até 31 de dezembro de 2020;\n\nc) «Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar e as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica;\n\nd) «Microempresa», empresa que emprega menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros;\n\ne) «Pequenas e médias empresas» ou «PME», empresa que emprega menos de 250 pessoas e cujo volume de negócios anual não excede 50 milhões de euros ou cujo balanço total anual não excede 43 milhões de euros e que detenha a correspondente Certificação Eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual."
+  },
+  "151290278": {
+   "fragment_id": "151193642",
+   "type": 1,
+   "heading": "Capítulo II — Apoios às microempresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoios às microempresas"
+  },
+  "151290279": {
+   "fragment_id": "151193643",
+   "type": 11,
+   "heading": "Artigo 5.º — Microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Microempresas beneficiárias\n\nSão beneficiárias as microempresas de qualquer natureza e sob qualquer forma jurídica, nos termos da definição constante na alínea d) do artigo 4.º"
+  },
+  "151290280": {
+   "fragment_id": "151193644",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das microempresas beneficiárias\n\n1 - No âmbito do presente decreto-lei são exigíveis os seguintes critérios quanto aos beneficiários:\n\na) Estar legalmente constituído a 1 de março de 2020;\n\nb) Dispor de contabilidade organizada nos termos da legislação aplicável;\n\nc) Cumprir as condições necessárias para obter o estatuto de microempresa, nos termos da definição constante na alínea d) do artigo 4.º;\n\nd) Ter ou poder assegurar até à assinatura do termo de aceitação, a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social.\n\n2 - Na apresentação da candidatura, a comprovação das alíneas a) a c) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo promotor sob compromisso de honra, e da alínea d) do número anterior é confirmada através dos procedimentos automáticos do Balcão do Portugal 2020, no sítio na Internet https://balcao.portugal2020.pt."
+  },
+  "151290281": {
+   "fragment_id": "151193645",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade dos projetos das microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade dos projetos das microempresas beneficiárias\n\nOs critérios de elegibilidade dos projetos são os seguintes:\n\na) Ter por objetivo a realização de um investimento de valor em despesa elegível não inferior a (euro) 500 e não superior a (euro) 5000, para a adaptação da atividade da empresa ao contexto da doença COVID-19, garantindo a segurança dos trabalhadores, clientes e relacionamento com os fornecedores, cumprindo as normas estabelecidas e as recomendações das autoridades competentes;\n\nb) Ter uma duração máxima de execução de seis meses a contar da data de notificação da decisão favorável, tendo como data limite 31 de dezembro de 2020;\n\nc) Estar em conformidade com as disposições legais e regulamentares que lhes forem aplicáveis."
+  },
+  "151290282": {
+   "fragment_id": "151193646",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis das microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis das microempresas beneficiárias\n\nSão elegíveis as seguintes despesas realizadas a partir do dia 18 de março de 2020:\n\na) Aquisição de equipamentos de proteção individual necessários para um período máximo de seis meses para utilização pelos trabalhadores e clientes em espaços com atendimento ao público nomeadamente máscaras, luvas, viseiras e outros;\n\nb) Aquisição e instalação de equipamentos de higienização e de dispensa automática de desinfetantes, bem como respetivos consumíveis, para um período máximo de seis meses, nomeadamente solução desinfetante;\n\nc) Contratação de serviços de desinfeção das instalações por um período máximo de seis meses;\n\nd) Aquisição e instalação de dispositivos de pagamento automático, abrangendo os que utilizem tecnologia contactless, incluindo os custos com a contratação do serviço para um período máximo de seis meses;\n\ne) Custos iniciais associados à domiciliação de aplicações, adesão inicial a plataformas eletrónicas, subscrição inicial de aplicações em regimes de «software as a service», criação e publicação inicial de novos conteúdos eletrónicos, bem como a inclusão ou catalogação em diretórios ou motores de busca;\n\nf) Reorganização e adaptação de locais de trabalho e de layout de espaços às orientações e boas práticas do atual contexto, designadamente, instalação de portas automáticas, instalação de soluções de iluminação por sensor, instalação de dispensadores por sensor nas casas de banho, criação de áreas de contingência, entre outros;\n\ng) Isolamento físico de espaços de produção ou de venda ou prestação de serviços, designadamente, instalação de divisórias entre equipamentos, células de produção, secretárias, postos ou balcões de atendimento;\n\nh) Aquisição e instalação de outros dispositivos de controlo e distanciamento físico;\n\ni) Custos com a aquisição e colocação de informação e orientação aos colaboradores e ao público, incluindo sinalização vertical e horizontal, no interior e exterior dos espaços;\n\nj) Despesas com a intervenção de contabilistas certificados ou revisores oficiais de contas, na validação da despesa dos pedidos de pagamento."
+  },
+  "151290283": {
+   "fragment_id": "151193647",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas não elegíveis das microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas não elegíveis das microempresas beneficiárias\n\nConstituem despesas não elegíveis:\n\na) Trabalhos da empresa para ela própria;\n\nb) Aquisição de bens em estado de uso;\n\nc) Imposto sobre o valor acrescentado recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário."
+  },
+  "151290284": {
+   "fragment_id": "151193648",
+   "type": 11,
+   "heading": "Artigo 10.º — Taxa de financiamento e forma de apoio das microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Taxa de financiamento e forma de apoio das microempresas beneficiárias\n\n1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.\n\n2 - A taxa de incentivo a atribuir é de 80 % sobre as despesas elegíveis."
+  },
+  "151290285": {
+   "fragment_id": "151193649",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimentos de análise, seleção e decisão das candidaturas de microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Procedimentos de análise, seleção e decisão das candidaturas de microempresas beneficiárias\n\n1 - As candidaturas são apresentadas no âmbito de aviso para apresentação de candidaturas publicado pela Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização e são submetidas através de formulário eletrónico simplificado disponível no Balcão 2020.\n\n2 - As candidaturas são decididas de acordo com os critérios de elegibilidade previstos nos artigos 6.º e 7.º pelo Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), no caso de projetos de empresas do setor do turismo, e, nos restantes casos, pelo IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), sendo o incentivo apurado com base no mapa síntese do orçamento a realizar apresentado na candidatura.\n\n3 - As decisões sobre as candidaturas são adotadas no prazo de 10 dias úteis após a data de apresentação da candidatura, descontando-se o tempo de resposta aos esclarecimentos solicitados.\n\n4 - Os organismos referidos no n.º 2 devem manter atualizado o sistema de informação, cuja monitorização e gestão global é da responsabilidade da Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização.\n\n5 - A aceitação da decisão da concessão do incentivo é feita mediante a assinatura do termo de aceitação, eletronicamente no Balcão 2020, nos termos a definir nos avisos para apresentação de candidatura.\n\n6 - A decisão de aprovação caduca caso não seja assinado o termo de aceitação no prazo máximo de 15 dias úteis, a contar da data da notificação da decisão.\n\n7 - A Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização pode suspender ou cancelar a receção de candidaturas em função do esgotamento da dotação prevista no aviso para apresentação de candidaturas, através de comunicação a publicar no portal Portugal 2020."
+  },
+  "151290286": {
+   "fragment_id": "151193650",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos às microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamentos às microempresas beneficiárias\n\n1 - Os pagamentos às microempresas beneficiárias são efetuados pelos organismos referidos no n.º 2 do artigo anterior.\n\n2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020.\n\n3 - Os pagamentos obedecem aos seguintes procedimentos:\n\na) É processado um adiantamento automático inicial após a validação do termo de aceitação, no montante equivalente a 50 % do incentivo aprovado;\n\nb) O pedido de pagamento final deve ser apresentado pelo beneficiário no prazo máximo de 30 dias úteis após a data de conclusão do projeto, sendo o montante de incentivo apurado com base em declaração de despesa de realização de investimento elegível subscrita pela empresa e confirmada por contabilista certificado ou revisor oficial de contas.\n\n4 - A realização dos pagamentos está dependente da confirmação da situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, verificada através dos procedimentos automáticos do Balcão do Portugal 2020."
+  },
+  "151290287": {
+   "fragment_id": "151193651",
+   "type": 11,
+   "heading": "Artigo 13.º — Enquadramento europeu de auxílios de Estado a microempresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Enquadramento europeu de auxílios de Estado a microempresas beneficiárias\n\nEste sistema respeita o regime de auxílios de Estado, ao abrigo do Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo aos auxílios de minimis."
+  },
+  "151290288": {
+   "fragment_id": "151193652",
+   "type": 1,
+   "heading": "Capítulo III — Apoios às pequenas e médias empresas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Apoios às pequenas e médias empresas"
+  },
+  "151290289": {
+   "fragment_id": "151193653",
+   "type": 11,
+   "heading": "Artigo 14.º — Pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Pequenas e médias empresas beneficiárias\n\nSão beneficiárias as PME de qualquer natureza e sob qualquer forma jurídica, nos termos da definição constante na alínea e) do artigo 4.º"
+  },
+  "151290290": {
+   "fragment_id": "151193654",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de elegibilidade das pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Critérios de elegibilidade das pequenas e médias empresas beneficiárias\n\n1 - No âmbito do presente decreto-lei são exigíveis os seguintes critérios quanto aos beneficiários:\n\na) Estar legalmente constituído a 1 de março de 2020;\n\nb) Dispor de contabilidade organizada nos termos da legislação aplicável;\n\nc) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nd) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento (FEEI);\n\ne) Para efeitos de comprovação do estatuto de PME, ter a correspondente Certificação Eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, através do sítio na Internet do IAPMEI, I. P.;\n\nf) Não ser uma empresa em dificuldade, de acordo com a definição prevista no artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;\n\ng) Declarar que não se trata de uma empresa sujeita a uma injunção de recuperação, ainda pendente, na sequência de uma decisão anterior da Comissão que declara um auxílio ilegal e incompatível com o mercado interno, conforme previsto na alínea a) do n.º 4 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014.\n\n2 - A verificação do disposto no número anterior é feita no momento da apresentação da candidatura, sempre que possível através de procedimentos automáticos do Balcão do Portugal 2020."
+  },
+  "151290291": {
+   "fragment_id": "151193655",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de elegibilidade dos projetos das pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Critérios de elegibilidade dos projetos das pequenas e médias empresas beneficiárias\n\nOs critérios de elegibilidade dos projetos são os seguintes:\n\na) Ter por objetivo a realização de um investimento de valor em despesa elegível não inferior a (euro) 5000 e não superior a (euro) 40 000, para qualificação de processos, organizações, produtos e serviços das PME, nomeadamente a adaptação dos seus estabelecimentos, métodos de organização do trabalho e de relacionamento com clientes e fornecedores às novas condições do contexto da doença COVID-19, garantindo o cumprindo das normas estabelecidas e das recomendações das autoridades competentes;\n\nb) Não estar iniciado à data de apresentação da candidatura;\n\nc) Ter uma duração máxima de execução de seis meses, a contar da data de notificação da decisão favorável, tendo como data limite 31 de dezembro de 2020;\n\nd) Estar em conformidade com as disposições legais e regulamentares que lhes forem aplicáveis."
+  },
+  "151290292": {
+   "fragment_id": "151193656",
+   "type": 11,
+   "heading": "Artigo 17.º — Prioridades de investimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Prioridades de investimento\n\nO Programa ADAPTAR, na vertente de apoio às PME, é financiado pelos FEEI, no respeito pelas regras definidas no Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, e enquadra-se no objetivo temático 3 e na prioridade de investimento 3.3 dos programas operacionais financiadores, nomeadamente o Programa Operacional Competitividade e Internacionalização, o Programa Operacional Norte 2020, o Programa Operacional Centro 2020, o Programa Operacional Lisboa 2020, o Programa Operacional Alentejo 2020 e o Programa Operacional Algarve 2020."
+  },
+  "151290293": {
+   "fragment_id": "151193657",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas elegíveis das pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas elegíveis das pequenas e médias empresas beneficiárias\n\nSão elegíveis as seguintes despesas:\n\na) Custos com a reorganização e adaptação de locais de trabalho e/ou alterações de layout, que permitam implementar as orientações e boas práticas das autoridades competentes no contexto da doença COVID-19, designadamente medidas de higiene, segurança e distanciamento físico;\n\nb) Aquisição e instalação de equipamentos de higienização e de dispensa automática de desinfetantes;\n\nc) Aquisição e instalação de dispositivos de pagamento automático, incluindo os que utilizem tecnologia contactless;\n\nd) Aquisição e instalação de outros dispositivos de controlo e distanciamento físico;\n\ne) Custos com a aquisição e colocação de informação e orientação aos colaboradores e ao público, incluindo sinalização vertical e horizontal, no interior e exterior dos espaços;\n\nf) Contratação de serviços de desinfeção das instalações, por um período máximo de seis meses;\n\ng) Aquisição de serviços de consultoria especializada para o redesenho do layout das instalações e para a elaboração de planos de contingência empresarial e manuais de boas práticas;\n\nh) Aquisição de serviços de consultoria especializada para a adaptação do modelo de negócio aos novos desafios do contexto subsequente à pandemia da doença COVID-19;\n\ni) Custos iniciais associados à domiciliação de aplicações, adesão inicial a plataformas eletrónicas, subscrição inicial de aplicações em regimes de «software as a service», criação e publicação inicial de novos conteúdos eletrónicos, bem como a inclusão ou catalogação em diretórios ou motores de busca;\n\nj) Despesas com a intervenção de contabilistas certificados ou revisores oficiais de contas, na validação da despesa dos pedidos de pagamento."
+  },
+  "151290294": {
+   "fragment_id": "151193658",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas não elegíveis das pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Despesas não elegíveis das pequenas e médias empresas beneficiárias\n\nConstituem despesas não elegíveis:\n\na) Trabalhos da empresa para ela própria;\n\nb) Aquisição de bens em estado de uso;\n\nc) Imposto sobre o valor acrescentado recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário."
+  },
+  "151290295": {
+   "fragment_id": "151193659",
+   "type": 11,
+   "heading": "Artigo 20.º — Taxa de financiamento e forma de apoio das pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Taxa de financiamento e forma de apoio das pequenas e médias empresas beneficiárias\n\n1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.\n\n2 - A taxa de incentivo a atribuir é de 50 % sobre as despesas elegíveis."
+  },
+  "151290296": {
+   "fragment_id": "151193660",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nProcedimentos de análise, seleção e decisão das candidaturas das pequenas e médias empresas beneficiárias\n\n1 - As candidaturas são apresentadas no âmbito de aviso para apresentação de candidaturas submetidas através de formulário eletrónico simplificado, disponível no Balcão 2020.\n\n2 - O Turismo de Portugal, I. P., no caso de projetos de empresas do setor do turismo, e o IAPMEI, I. P., nos restantes casos, procedem à avaliação técnica das candidaturas e emitem parecer, com base nos critérios de elegibilidade previstos nos artigos 15.º e 16.º e nos critérios de seleção definidos nos avisos para apresentação de candidatura, os quais deverão respeitar os domínios de avaliação previstos pelos programas operacionais financiadores para as prioridades de investimento referidas no artigo 17.º\n\n3 - Os critérios de delimitação de intervenção das Autoridades de Gestão dos programas operacionais financiadores, nomeadamente do Programa Operacional Competitividade e Internacionalização, do Programa Operacional Norte 2020, do Programa Operacional Centro 2020, do Programa Operacional Lisboa 2020, do Programa Operacional Alentejo 2020 e do Programa Operacional Algarve 2020, são definidos nos avisos para apresentação de candidaturas.\n\n4 - A proposta de decisão fundamentada sobre o financiamento a atribuir é proferida pelas Autoridades de Gestão envolvidas no financiamento dos projetos no prazo de 20 dias úteis, a contar da data de apresentação de candidatura, descontando-se o tempo de resposta aos esclarecimentos solicitados.\n\n5 - A aceitação da decisão da concessão do incentivo é feita mediante a assinatura de termo de aceitação, a qual é submetida eletronicamente e autenticada, podendo para esse efeito ser utilizado o Cartão do Cidadão ou Chave Móvel Digital com recurso ao Sistema de Certificação de Atributos Profissionais.\n\n6 - A decisão de aprovação caduca caso não seja assinado o termo de aceitação no prazo máximo de 30 dias úteis, a contar da data da notificação da decisão, salvo motivo justificado, não imputável ao candidato e devidamente aceite pelo respetivo organismo.\n\n7 - As Autoridades de Gestão podem suspender ou cancelar a receção de candidaturas em função do esgotamento da dotação prevista no aviso para apresentação de candidaturas, através de comunicação prévia a publicar no portal Portugal 2020 com uma antecedência mínima de 24 horas em relação à data estabelecida para a suspensão."
+  },
+  "151290297": {
+   "fragment_id": "151193661",
+   "type": 11,
+   "heading": "Artigo 22.º — Pagamentos às pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Pagamentos às pequenas e médias empresas beneficiárias\n\n1 - Os pagamentos aos beneficiários são efetuados pelos organismos referidos no n.º 2 do artigo anterior.\n\n2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020.\n\n3 - Os pagamentos obedecem aos seguintes procedimentos:\n\na) É processado um adiantamento automático inicial após a validação do termo de aceitação, no montante equivalente a 50 % do incentivo aprovado;\n\nb) O pedido de pagamento final deve ser apresentado pelo beneficiário no prazo máximo de 30 dias úteis após a data de conclusão do projeto."
+  },
+  "151290298": {
+   "fragment_id": "151193662",
+   "type": 11,
+   "heading": "Artigo 23.º — Obrigações das pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Obrigações das pequenas e médias empresas beneficiárias\n\nPara além das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação, devem ainda ser cumpridas as condições previstas no artigo 12.º do Regulamento Específico do Domínio da Competitividade e Internacionalização (RECI), aprovado pela Portaria n.º 57-A/2015, de 27 de fevereiro, na sua redação atual."
+  },
+  "151290299": {
+   "fragment_id": "151193663",
+   "type": 11,
+   "heading": "Artigo 24.º — Enquadramento europeu de auxílios de Estado às pequenas e médias empresas beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Enquadramento europeu de auxílios de Estado às pequenas e médias empresas beneficiárias\n\nOs apoios são concedidos ao abrigo do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, relativo aos auxílios à inovação em matéria de processos e organização e aos auxílios em matéria de consultoria a favor das PME."
+  },
+  "151290300": {
+   "fragment_id": "151193664",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições comuns",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições comuns"
+  },
+  "151290301": {
+   "fragment_id": "151193665",
+   "type": 11,
+   "heading": "Artigo 25.º — Acompanhamento e controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Acompanhamento e controlo\n\n1 - A função de controlo e auditoria visa assegurar que os recursos financeiros são utilizados de acordo com os seus objetivos.\n\n2 - No caso dos apoios previstos no capítulo ii, a função de controlo e auditoria é da responsabilidade da Agência para o Desenvolvimento e Coesão, I. P., em articulação com a Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização, o IAPMEI, I. P., e o Turismo de Portugal, I. P., que desencadeiam, por amostragem, ações adequadas de controlo e de auditoria sobre as operações.\n\n3 - No caso dos apoios previstos no capítulo iii, conforme estabelecido nos artigos 36.º e 37.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua redação atual, os Organismos Intermédios designados por contrato de delegação de competências de gestão, para efetuar o acompanhamento da execução dos projetos e respetivos pagamentos, são os referidos no n.º 2 do artigo 21.º do presente decreto-lei, aplicando-se ainda o estabelecido no artigo 16.º do RECI."
+  },
+  "151290302": {
+   "fragment_id": "151193666",
+   "type": 11,
+   "heading": "Artigo 26.º — Cobertura orçamental",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Cobertura orçamental\n\n1 - O presente sistema de apoio é financiado por Fundos Europeus, designadamente do Portugal 2020 e por outras fontes de financiamento nacionais, disponíveis no IAPMEI, I. P., e no Turismo de Portugal, I. P.\n\n2 - Para efeitos do número anterior e para financiamento das microempresas, o IAPMEI, I. P., e o Turismo de Portugal, I. P., podem utilizar verbas com origem em reembolsos de incentivos de quadros comunitários já encerrados, mediante autorização do membro do Governo responsável pela área das finanças."
+  },
+  "151290303": {
+   "fragment_id": "151193667",
+   "type": 11,
+   "heading": "Artigo 27.º — Cumulação de auxílios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Cumulação de auxílios\n\n1 - Ao abrigo do Programa ADAPTAR, apenas é aceite uma candidatura por empresa.\n\n2 - Os apoios concedidos ao abrigo do presente decreto-lei não são cumuláveis com outros auxílios públicos para as mesmas despesas."
+  },
+  "151290304": {
+   "fragment_id": "151193668",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "151290305": {
+   "fragment_id": "151193669",
+   "type": 11,
+   "heading": "Artigo 28.º — Direito subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto no capítulo iii, são aplicáveis as disposições constantes do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, e da secção ii do Regulamento Específico do Domínio da Competitividade e Internacionalização, aprovado em anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, na sua redação atual."
+  },
+  "151290306": {
+   "fragment_id": "151193670",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "151172972": {
+   "fragment_id": "151193636",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 20-G/2020\n\nde 14 de maio\n\nSumário: Estabelece um sistema de incentivos à segurança nas micro, pequenas e médias empresas, no contexto da doença COVID-19.\n\nNo âmbito da emergência de saúde pública de âmbito internacional causada pela doença COVID-19, o Governo aprovou o Decreto-Lei n.º 10-A/2020, de 13 de março, no qual foram estabelecidas medidas excecionais relativas àquela situação epidemiológica.\n\nNo período decorrido desde a adoção destas medidas excecionais foi igualmente decretado - e renovado por duas vezes - o estado de emergência em Portugal, bem como a sua regulamentação, no âmbito da qual foram suspensas ou restringidas, por razões de saúde pública, atividades económicas diversas, nomeadamente de natureza comercial e de serviços pessoais.\n\nCom o fim do período de execução do estado de emergência não cessa, contudo, a necessidade de acautelar os impactos na saúde pública da retoma de atividades que por força dos limites estabelecidos à liberdade económica tiveram fortes impactos na sua atividade normal.\n\nNo sentido de definir um processo de transição o Governo, através da Resolução do Conselho de Ministros n.º 33-A/2020, de 30 de abril, procedeu à declaração da situação de calamidade, no âmbito da pandemia da doença COVID-19, definindo um conjunto adicional de medidas, de modo a minorar o risco de contágio e de propagação daquela doença.\n\nEm simultâneo, pela Resolução do Conselho de Ministros n.º 33-C/2020, de 30 de abril, estabeleceu-se uma estratégia de levantamento de medidas de confinamento no âmbito do combate à pandemia da doença COVID-19.\n\nNa verdade, sem descurar a prioridade do combate à pandemia, é fundamental iniciar gradualmente o levantamento das medidas de confinamento com vista a iniciar a fase de recuperação e revitalização da nossa vida em sociedade e da nossa economia.\n\nO levantamento progressivo das restrições impostas ao exercício de atividades económicas são acompanhadas por medidas relativas à necessidade de observância de condições específicas de funcionamento, incluindo regras de lotação, utilização de equipamentos de proteção individual, agendamento e distanciamento físico, as quais acrescem às condições gerais para o levantar de medidas de confinamento, designadamente, a disponibilidade no mercado de máscaras e gel desinfetante, a higienização regular dos espaços, a higiene das mãos e etiqueta respiratória e a prática do dever cívico de recolhimento e de distanciamento físico.\n\nAs empresas necessitam de proceder à adaptação dos seus estabelecimentos, métodos de organização do trabalho e de relacionamento com clientes e fornecedores às novas condições de distanciamento físico no contexto da pandemia COVID-19, garantindo o cumprimento das normas estabelecidas e das recomendações das autoridades competentes.\n\nÉ neste âmbito que o presente decreto-lei cria um sistema de incentivos destinado à adaptação da atividade económica face ao novo contexto criado pela COVID-19, para que o já anunciado plano de desconfinamento ocorra de forma segura e que dê confiança aos cidadãos.\n\nEste sistema vai permitir minorar os custos acrescidos para o restabelecimento rápido das condições de funcionamento das empresas, sendo apoiados, nomeadamente, os custos de aquisição de equipamentos de proteção individual para trabalhadores e utentes, equipamentos de higienização, contratos de desinfeção e os custos com a reorganização dos locais de trabalho e alterações de layout dos estabelecimentos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "151290308": {
+   "fragment_id": "151193641",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2020-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Atividade económica da empresa», o código da atividade principal da empresa, de acordo com a classificação portuguesa das atividades económicas, registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas;\n\nb) 'Data de conclusão do projeto', a data de emissão da última fatura ou documento equivalente, imputável ao projeto ou à operação, a qual deve ocorrer no máximo até 31 de março de 2021;\n\nc) «Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar e as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica;\n\nd) «Microempresa», empresa que emprega menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros;\n\ne) «Pequenas e médias empresas» ou «PME», empresa que emprega menos de 250 pessoas e cujo volume de negócios anual não excede 50 milhões de euros ou cujo balanço total anual não excede 43 milhões de euros e que detenha a correspondente Certificação Eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+  },
+  "151290309": {
+   "fragment_id": "151193645",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade dos projetos das microempresas beneficiárias",
+   "in_force_from": "2020-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade dos projetos das microempresas beneficiárias\n\nOs critérios de elegibilidade dos projetos são os seguintes:\n\na) Ter por objetivo a realização de um investimento de valor em despesa elegível não inferior a (euro) 500 e não superior a (euro) 5000, para a adaptação da atividade da empresa ao contexto da doença COVID-19, garantindo a segurança dos trabalhadores, clientes e relacionamento com os fornecedores, cumprindo as normas estabelecidas e as recomendações das autoridades competentes;\n\nb) Ter uma duração máxima de execução de nove meses a contar da data de notificação da decisão favorável, tendo como data limite 31 de março de 2021;\n\nc) Estar em conformidade com as disposições legais e regulamentares que lhes forem aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+  },
+  "151290310": {
+   "fragment_id": "151193655",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de elegibilidade dos projetos das pequenas e médias empresas beneficiárias",
+   "in_force_from": "2020-12-16",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+   ],
+   "markdown": "###### Artigo 16.º — Critérios de elegibilidade dos projetos das pequenas e médias empresas beneficiárias\n\nOs critérios de elegibilidade dos projetos são os seguintes:\n\na) Ter por objetivo a realização de um investimento de valor em despesa elegível não inferior a (euro) 5000 e não superior a (euro) 40 000, para qualificação de processos, organizações, produtos e serviços das PME, nomeadamente a adaptação dos seus estabelecimentos, métodos de organização do trabalho e de relacionamento com clientes e fornecedores às novas condições do contexto da doença COVID-19, garantindo o cumprindo das normas estabelecidas e das recomendações das autoridades competentes;\n\nb) Não estar iniciado à data de apresentação da candidatura;\n\nc) Ter uma duração máxima de execução de nove meses, a contar da data de notificação da decisão favorável, tendo como data limite 31 de março de 2021;\n\nd) Estar em conformidade com as disposições legais e regulamentares que lhes forem aplicáveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+  },
+  "151290307": {
+   "fragment_id": "151193671",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de maio de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Ângelo Nelson Rosário de Souza - Ana Maria Pereira Abrunhosa.\n\nPromulgado em 13 de maio de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de maio de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113244556"
+  },
+  "202132849": {
+   "fragment_id": "151193637",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132850": {
+   "fragment_id": "151193638",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei estabelece um sistema de incentivos à adaptação da atividade empresarial ao contexto da doença COVID-19, doravante designado Programa ADAPTAR, que visa apoiar as empresas no esforço de adaptação e de investimento nos seus estabelecimentos, ajustando os métodos de organização do trabalho e de relacionamento com clientes e fornecedores às novas condições de contexto da pandemia da doença COVID-19, garantindo o cumprimento das normas estabelecidas e das recomendações das autoridades competentes.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132851": {
+   "fragment_id": "151193639",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito territorial",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito territorial\n\nO Programa ADAPTAR tem aplicação em todo o território do continente.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132852": {
+   "fragment_id": "151193640",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito setorial",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito setorial\n\nSão elegíveis os projetos inseridos em todas as atividades económicas, com exceção das que integrem:\n\na) O setor da pesca e da aquicultura;\n\nb) O setor da produção agrícola primária e florestas;\n\nc) O setor da transformação e comercialização de produtos agrícolas constantes do anexo i do Tratado de Funcionamento da União Europeia e transformação e comercialização de produtos florestais;\n\nd) Os projetos que incidam nas seguintes atividades previstas na Classificação Portuguesa de Atividades Económicas, revista pelo Decreto-Lei n.º 381/2007, de 14 de novembro, na sua redação atual:\n\ni) Financeiras e de seguros - divisões 64 a 66;\n\nii) Defesa - subclasses 25402 e 30400;\n\niii) Lotarias e outros jogos de aposta - divisão 92.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132853": {
+   "fragment_id": "151193641",
+   "type": 11,
+   "heading": "Artigo 4.º — Definições",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+   ],
+   "markdown": "###### Artigo 4.º — Definições\n\nPara efeitos do presente decreto-lei, entende-se por:\n\na) «Atividade económica da empresa», o código da atividade principal da empresa, de acordo com a classificação portuguesa das atividades económicas, registado na plataforma Sistema de Informação da Classificação Portuguesa de Atividades Económicas;\n\nb) 'Data de conclusão do projeto', a data de emissão da última fatura ou documento equivalente, imputável ao projeto ou à operação, a qual deve ocorrer no máximo até 31 de março de 2021;\n\nc) «Empresa», qualquer entidade que, independentemente da sua forma jurídica, exerce uma atividade económica, através da oferta em concorrência de bens ou serviços no mercado, sendo, nomeadamente, consideradas como tais as entidades que exercem uma atividade artesanal ou outras atividades a título individual ou familiar e as sociedades de pessoas ou as associações que exercem regularmente uma atividade económica;\n\nd) «Microempresa», empresa que emprega menos de 10 pessoas e cujo volume de negócios anual ou balanço total anual não excede 2 milhões de euros;\n\ne) «Pequenas e médias empresas» ou «PME», empresa que emprega menos de 250 pessoas e cujo volume de negócios anual não excede 50 milhões de euros ou cujo balanço total anual não excede 43 milhões de euros e que detenha a correspondente Certificação Eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+  },
+  "202132854": {
+   "fragment_id": "151193642",
+   "type": 1,
+   "heading": "Capítulo II — Apoios às microempresas",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo II — Apoios às microempresas\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132855": {
+   "fragment_id": "151193643",
+   "type": 11,
+   "heading": "Artigo 5.º — Microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Microempresas beneficiárias\n\nSão beneficiárias as microempresas de qualquer natureza e sob qualquer forma jurídica, nos termos da definição constante na alínea d) do artigo 4.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132856": {
+   "fragment_id": "151193644",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de elegibilidade das microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Critérios de elegibilidade das microempresas beneficiárias\n\n1 - No âmbito do presente decreto-lei são exigíveis os seguintes critérios quanto aos beneficiários:\n\na) Estar legalmente constituído a 1 de março de 2020;\n\nb) Dispor de contabilidade organizada nos termos da legislação aplicável;\n\nc) Cumprir as condições necessárias para obter o estatuto de microempresa, nos termos da definição constante na alínea d) do artigo 4.º;\n\nd) Ter ou poder assegurar até à assinatura do termo de aceitação, a situação tributária e contributiva regularizada perante a administração fiscal e a segurança social.\n\n2 - Na apresentação da candidatura, a comprovação das alíneas a) a c) do número anterior faz-se mediante apresentação de declaração de cumprimento, subscrita pelo promotor sob compromisso de honra, e da alínea d) do número anterior é confirmada através dos procedimentos automáticos do Balcão do Portugal 2020, no sítio na Internet https://balcao.portugal2020.pt.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132857": {
+   "fragment_id": "151193645",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de elegibilidade dos projetos das microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de elegibilidade dos projetos das microempresas beneficiárias\n\nOs critérios de elegibilidade dos projetos são os seguintes:\n\na) Ter por objetivo a realização de um investimento de valor em despesa elegível não inferior a (euro) 500 e não superior a (euro) 5000, para a adaptação da atividade da empresa ao contexto da doença COVID-19, garantindo a segurança dos trabalhadores, clientes e relacionamento com os fornecedores, cumprindo as normas estabelecidas e as recomendações das autoridades competentes;\n\nb) Ter uma duração máxima de execução de nove meses a contar da data de notificação da decisão favorável, tendo como data limite 31 de março de 2021;\n\nc) Estar em conformidade com as disposições legais e regulamentares que lhes forem aplicáveis.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+  },
+  "202132858": {
+   "fragment_id": "151193646",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas elegíveis das microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 8.º — Despesas elegíveis das microempresas beneficiárias\n\nSão elegíveis as seguintes despesas realizadas a partir do dia 18 de março de 2020:\n\na) Aquisição de equipamentos de proteção individual necessários para um período máximo de seis meses para utilização pelos trabalhadores e clientes em espaços com atendimento ao público nomeadamente máscaras, luvas, viseiras e outros;\n\nb) Aquisição e instalação de equipamentos de higienização e de dispensa automática de desinfetantes, bem como respetivos consumíveis, para um período máximo de seis meses, nomeadamente solução desinfetante;\n\nc) Contratação de serviços de desinfeção das instalações por um período máximo de seis meses;\n\nd) Aquisição e instalação de dispositivos de pagamento automático, abrangendo os que utilizem tecnologia contactless, incluindo os custos com a contratação do serviço para um período máximo de seis meses;\n\ne) Custos iniciais associados à domiciliação de aplicações, adesão inicial a plataformas eletrónicas, subscrição inicial de aplicações em regimes de «software as a service», criação e publicação inicial de novos conteúdos eletrónicos, bem como a inclusão ou catalogação em diretórios ou motores de busca;\n\nf) Reorganização e adaptação de locais de trabalho e de layout de espaços às orientações e boas práticas do atual contexto, designadamente, instalação de portas automáticas, instalação de soluções de iluminação por sensor, instalação de dispensadores por sensor nas casas de banho, criação de áreas de contingência, entre outros;\n\ng) Isolamento físico de espaços de produção ou de venda ou prestação de serviços, designadamente, instalação de divisórias entre equipamentos, células de produção, secretárias, postos ou balcões de atendimento;\n\nh) Aquisição e instalação de outros dispositivos de controlo e distanciamento físico;\n\ni) Custos com a aquisição e colocação de informação e orientação aos colaboradores e ao público, incluindo sinalização vertical e horizontal, no interior e exterior dos espaços;\n\nj) Despesas com a intervenção de contabilistas certificados ou revisores oficiais de contas, na validação da despesa dos pedidos de pagamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132859": {
+   "fragment_id": "151193647",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas não elegíveis das microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas não elegíveis das microempresas beneficiárias\n\nConstituem despesas não elegíveis:\n\na) Trabalhos da empresa para ela própria;\n\nb) Aquisição de bens em estado de uso;\n\nc) Imposto sobre o valor acrescentado recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132860": {
+   "fragment_id": "151193648",
+   "type": 11,
+   "heading": "Artigo 10.º — Taxa de financiamento e forma de apoio das microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 10.º — Taxa de financiamento e forma de apoio das microempresas beneficiárias\n\n1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.\n\n2 - A taxa de incentivo a atribuir é de 80 % sobre as despesas elegíveis.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132861": {
+   "fragment_id": "151193649",
+   "type": 11,
+   "heading": "Artigo 11.º — Procedimentos de análise, seleção e decisão das candidaturas de microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 11.º — Procedimentos de análise, seleção e decisão das candidaturas de microempresas beneficiárias\n\n1 - As candidaturas são apresentadas no âmbito de aviso para apresentação de candidaturas publicado pela Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização e são submetidas através de formulário eletrónico simplificado disponível no Balcão 2020.\n\n2 - As candidaturas são decididas de acordo com os critérios de elegibilidade previstos nos artigos 6.º e 7.º pelo Instituto do Turismo de Portugal, I. P. (Turismo de Portugal, I. P.), no caso de projetos de empresas do setor do turismo, e, nos restantes casos, pelo IAPMEI - Agência para a Competitividade e Inovação, I. P. (IAPMEI, I. P.), sendo o incentivo apurado com base no mapa síntese do orçamento a realizar apresentado na candidatura.\n\n3 - As decisões sobre as candidaturas são adotadas no prazo de 10 dias úteis após a data de apresentação da candidatura, descontando-se o tempo de resposta aos esclarecimentos solicitados.\n\n4 - Os organismos referidos no n.º 2 devem manter atualizado o sistema de informação, cuja monitorização e gestão global é da responsabilidade da Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização.\n\n5 - A aceitação da decisão da concessão do incentivo é feita mediante a assinatura do termo de aceitação, eletronicamente no Balcão 2020, nos termos a definir nos avisos para apresentação de candidatura.\n\n6 - A decisão de aprovação caduca caso não seja assinado o termo de aceitação no prazo máximo de 15 dias úteis, a contar da data da notificação da decisão.\n\n7 - A Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização pode suspender ou cancelar a receção de candidaturas em função do esgotamento da dotação prevista no aviso para apresentação de candidaturas, através de comunicação a publicar no portal Portugal 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132862": {
+   "fragment_id": "151193650",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamentos às microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 12.º — Pagamentos às microempresas beneficiárias\n\n1 - Os pagamentos às microempresas beneficiárias são efetuados pelos organismos referidos no n.º 2 do artigo anterior.\n\n2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020.\n\n3 - Os pagamentos obedecem aos seguintes procedimentos:\n\na) É processado um adiantamento automático inicial após a validação do termo de aceitação, no montante equivalente a 50 % do incentivo aprovado;\n\nb) O pedido de pagamento final deve ser apresentado pelo beneficiário no prazo máximo de 30 dias úteis após a data de conclusão do projeto, sendo o montante de incentivo apurado com base em declaração de despesa de realização de investimento elegível subscrita pela empresa e confirmada por contabilista certificado ou revisor oficial de contas.\n\n4 - A realização dos pagamentos está dependente da confirmação da situação tributária e contributiva regularizada perante a administração fiscal e a segurança social, verificada através dos procedimentos automáticos do Balcão do Portugal 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132863": {
+   "fragment_id": "151193651",
+   "type": 11,
+   "heading": "Artigo 13.º — Enquadramento europeu de auxílios de Estado a microempresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 13.º — Enquadramento europeu de auxílios de Estado a microempresas beneficiárias\n\nEste sistema respeita o regime de auxílios de Estado, ao abrigo do Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro de 2013, relativo aos auxílios de minimis.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132864": {
+   "fragment_id": "151193652",
+   "type": 1,
+   "heading": "Capítulo III — Apoios às pequenas e médias empresas",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo III — Apoios às pequenas e médias empresas\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132865": {
+   "fragment_id": "151193653",
+   "type": 11,
+   "heading": "Artigo 14.º — Pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 14.º — Pequenas e médias empresas beneficiárias\n\nSão beneficiárias as PME de qualquer natureza e sob qualquer forma jurídica, nos termos da definição constante na alínea e) do artigo 4.º\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132866": {
+   "fragment_id": "151193654",
+   "type": 11,
+   "heading": "Artigo 15.º — Critérios de elegibilidade das pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 15.º — Critérios de elegibilidade das pequenas e médias empresas beneficiárias\n\n1 - No âmbito do presente decreto-lei são exigíveis os seguintes critérios quanto aos beneficiários:\n\na) Estar legalmente constituído a 1 de março de 2020;\n\nb) Dispor de contabilidade organizada nos termos da legislação aplicável;\n\nc) Ter a situação tributária e contributiva regularizada perante, respetivamente, a administração fiscal e a segurança social;\n\nd) Ter a situação regularizada em matéria de reposições, no âmbito dos financiamentos dos Fundos Europeus Estruturais e de Investimento (FEEI);\n\ne) Para efeitos de comprovação do estatuto de PME, ter a correspondente Certificação Eletrónica, prevista no Decreto-Lei n.º 372/2007, de 6 de novembro, na sua redação atual, através do sítio na Internet do IAPMEI, I. P.;\n\nf) Não ser uma empresa em dificuldade, de acordo com a definição prevista no artigo 2.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;\n\ng) Declarar que não se trata de uma empresa sujeita a uma injunção de recuperação, ainda pendente, na sequência de uma decisão anterior da Comissão que declara um auxílio ilegal e incompatível com o mercado interno, conforme previsto na alínea a) do n.º 4 do artigo 1.º do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014.\n\n2 - A verificação do disposto no número anterior é feita no momento da apresentação da candidatura, sempre que possível através de procedimentos automáticos do Balcão do Portugal 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132867": {
+   "fragment_id": "151193655",
+   "type": 11,
+   "heading": "Artigo 16.º — Critérios de elegibilidade dos projetos das pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+   ],
+   "markdown": "###### Artigo 16.º — Critérios de elegibilidade dos projetos das pequenas e médias empresas beneficiárias\n\nOs critérios de elegibilidade dos projetos são os seguintes:\n\na) Ter por objetivo a realização de um investimento de valor em despesa elegível não inferior a (euro) 5000 e não superior a (euro) 40 000, para qualificação de processos, organizações, produtos e serviços das PME, nomeadamente a adaptação dos seus estabelecimentos, métodos de organização do trabalho e de relacionamento com clientes e fornecedores às novas condições do contexto da doença COVID-19, garantindo o cumprindo das normas estabelecidas e das recomendações das autoridades competentes;\n\nb) Não estar iniciado à data de apresentação da candidatura;\n\nc) Ter uma duração máxima de execução de nove meses, a contar da data de notificação da decisão favorável, tendo como data limite 31 de março de 2021;\n\nd) Estar em conformidade com as disposições legais e regulamentares que lhes forem aplicáveis.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 103/2020 - Diário da República n.º 242/2020, Série I de 2020-12-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/103-2020-151064868), em vigor a partir de 2020-12-16"
+  },
+  "202132868": {
+   "fragment_id": "151193656",
+   "type": 11,
+   "heading": "Artigo 17.º — Prioridades de investimento",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 17.º — Prioridades de investimento\n\nO Programa ADAPTAR, na vertente de apoio às PME, é financiado pelos FEEI, no respeito pelas regras definidas no Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, e enquadra-se no objetivo temático 3 e na prioridade de investimento 3.3 dos programas operacionais financiadores, nomeadamente o Programa Operacional Competitividade e Internacionalização, o Programa Operacional Norte 2020, o Programa Operacional Centro 2020, o Programa Operacional Lisboa 2020, o Programa Operacional Alentejo 2020 e o Programa Operacional Algarve 2020.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132869": {
+   "fragment_id": "151193657",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas elegíveis das pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 18.º — Despesas elegíveis das pequenas e médias empresas beneficiárias\n\nSão elegíveis as seguintes despesas:\n\na) Custos com a reorganização e adaptação de locais de trabalho e/ou alterações de layout, que permitam implementar as orientações e boas práticas das autoridades competentes no contexto da doença COVID-19, designadamente medidas de higiene, segurança e distanciamento físico;\n\nb) Aquisição e instalação de equipamentos de higienização e de dispensa automática de desinfetantes;\n\nc) Aquisição e instalação de dispositivos de pagamento automático, incluindo os que utilizem tecnologia contactless;\n\nd) Aquisição e instalação de outros dispositivos de controlo e distanciamento físico;\n\ne) Custos com a aquisição e colocação de informação e orientação aos colaboradores e ao público, incluindo sinalização vertical e horizontal, no interior e exterior dos espaços;\n\nf) Contratação de serviços de desinfeção das instalações, por um período máximo de seis meses;\n\ng) Aquisição de serviços de consultoria especializada para o redesenho do layout das instalações e para a elaboração de planos de contingência empresarial e manuais de boas práticas;\n\nh) Aquisição de serviços de consultoria especializada para a adaptação do modelo de negócio aos novos desafios do contexto subsequente à pandemia da doença COVID-19;\n\ni) Custos iniciais associados à domiciliação de aplicações, adesão inicial a plataformas eletrónicas, subscrição inicial de aplicações em regimes de «software as a service», criação e publicação inicial de novos conteúdos eletrónicos, bem como a inclusão ou catalogação em diretórios ou motores de busca;\n\nj) Despesas com a intervenção de contabilistas certificados ou revisores oficiais de contas, na validação da despesa dos pedidos de pagamento.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132870": {
+   "fragment_id": "151193658",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas não elegíveis das pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 19.º — Despesas não elegíveis das pequenas e médias empresas beneficiárias\n\nConstituem despesas não elegíveis:\n\na) Trabalhos da empresa para ela própria;\n\nb) Aquisição de bens em estado de uso;\n\nc) Imposto sobre o valor acrescentado recuperável, ainda que não tenha sido ou não venha a ser efetivamente recuperado pelo beneficiário.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132871": {
+   "fragment_id": "151193659",
+   "type": 11,
+   "heading": "Artigo 20.º — Taxa de financiamento e forma de apoio das pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 20.º — Taxa de financiamento e forma de apoio das pequenas e médias empresas beneficiárias\n\n1 - Os apoios são atribuídos sob a forma de subvenção não reembolsável.\n\n2 - A taxa de incentivo a atribuir é de 50 % sobre as despesas elegíveis.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132872": {
+   "fragment_id": "151193660",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 21.º\n\nProcedimentos de análise, seleção e decisão das candidaturas das pequenas e médias empresas beneficiárias\n\n1 - As candidaturas são apresentadas no âmbito de aviso para apresentação de candidaturas submetidas através de formulário eletrónico simplificado, disponível no Balcão 2020.\n\n2 - O Turismo de Portugal, I. P., no caso de projetos de empresas do setor do turismo, e o IAPMEI, I. P., nos restantes casos, procedem à avaliação técnica das candidaturas e emitem parecer, com base nos critérios de elegibilidade previstos nos artigos 15.º e 16.º e nos critérios de seleção definidos nos avisos para apresentação de candidatura, os quais deverão respeitar os domínios de avaliação previstos pelos programas operacionais financiadores para as prioridades de investimento referidas no artigo 17.º\n\n3 - Os critérios de delimitação de intervenção das Autoridades de Gestão dos programas operacionais financiadores, nomeadamente do Programa Operacional Competitividade e Internacionalização, do Programa Operacional Norte 2020, do Programa Operacional Centro 2020, do Programa Operacional Lisboa 2020, do Programa Operacional Alentejo 2020 e do Programa Operacional Algarve 2020, são definidos nos avisos para apresentação de candidaturas.\n\n4 - A proposta de decisão fundamentada sobre o financiamento a atribuir é proferida pelas Autoridades de Gestão envolvidas no financiamento dos projetos no prazo de 20 dias úteis, a contar da data de apresentação de candidatura, descontando-se o tempo de resposta aos esclarecimentos solicitados.\n\n5 - A aceitação da decisão da concessão do incentivo é feita mediante a assinatura de termo de aceitação, a qual é submetida eletronicamente e autenticada, podendo para esse efeito ser utilizado o Cartão do Cidadão ou Chave Móvel Digital com recurso ao Sistema de Certificação de Atributos Profissionais.\n\n6 - A decisão de aprovação caduca caso não seja assinado o termo de aceitação no prazo máximo de 30 dias úteis, a contar da data da notificação da decisão, salvo motivo justificado, não imputável ao candidato e devidamente aceite pelo respetivo organismo.\n\n7 - As Autoridades de Gestão podem suspender ou cancelar a receção de candidaturas em função do esgotamento da dotação prevista no aviso para apresentação de candidaturas, através de comunicação prévia a publicar no portal Portugal 2020 com uma antecedência mínima de 24 horas em relação à data estabelecida para a suspensão.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132873": {
+   "fragment_id": "151193661",
+   "type": 11,
+   "heading": "Artigo 22.º — Pagamentos às pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 22.º — Pagamentos às pequenas e médias empresas beneficiárias\n\n1 - Os pagamentos aos beneficiários são efetuados pelos organismos referidos no n.º 2 do artigo anterior.\n\n2 - Os pedidos de pagamento são apresentados pelos beneficiários no Balcão 2020.\n\n3 - Os pagamentos obedecem aos seguintes procedimentos:\n\na) É processado um adiantamento automático inicial após a validação do termo de aceitação, no montante equivalente a 50 % do incentivo aprovado;\n\nb) O pedido de pagamento final deve ser apresentado pelo beneficiário no prazo máximo de 30 dias úteis após a data de conclusão do projeto.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202132874": {
+   "fragment_id": "151193662",
+   "type": 11,
+   "heading": "Artigo 23.º — Obrigações das pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 23.º — Obrigações das pequenas e médias empresas beneficiárias\n\nPara além das obrigações previstas no artigo 24.º do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua atual redação, devem ainda ser cumpridas as condições previstas no artigo 12.º do Regulamento Específico do Domínio da Competitividade e Internacionalização (RECI), aprovado pela Portaria n.º 57-A/2015, de 27 de fevereiro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182675": {
+   "fragment_id": "151193663",
+   "type": 11,
+   "heading": "Artigo 24.º — Enquadramento europeu de auxílios de Estado às pequenas e médias empresas beneficiárias",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 24.º — Enquadramento europeu de auxílios de Estado às pequenas e médias empresas beneficiárias\n\nOs apoios são concedidos ao abrigo do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, na sua redação atual, relativo aos auxílios à inovação em matéria de processos e organização e aos auxílios em matéria de consultoria a favor das PME.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182676": {
+   "fragment_id": "151193664",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições comuns",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo IV — Disposições comuns\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182677": {
+   "fragment_id": "151193665",
+   "type": 11,
+   "heading": "Artigo 25.º — Acompanhamento e controlo",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 25.º — Acompanhamento e controlo\n\n1 - A função de controlo e auditoria visa assegurar que os recursos financeiros são utilizados de acordo com os seus objetivos.\n\n2 - No caso dos apoios previstos no capítulo ii, a função de controlo e auditoria é da responsabilidade da Agência para o Desenvolvimento e Coesão, I. P., em articulação com a Autoridade de Gestão do Programa Operacional Competitividade e Internacionalização, o IAPMEI, I. P., e o Turismo de Portugal, I. P., que desencadeiam, por amostragem, ações adequadas de controlo e de auditoria sobre as operações.\n\n3 - No caso dos apoios previstos no capítulo iii, conforme estabelecido nos artigos 36.º e 37.º do Decreto-Lei n.º 137/2014, de 12 de setembro, na sua redação atual, os Organismos Intermédios designados por contrato de delegação de competências de gestão, para efetuar o acompanhamento da execução dos projetos e respetivos pagamentos, são os referidos no n.º 2 do artigo 21.º do presente decreto-lei, aplicando-se ainda o estabelecido no artigo 16.º do RECI.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182678": {
+   "fragment_id": "151193666",
+   "type": 11,
+   "heading": "Artigo 26.º — Cobertura orçamental",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 26.º — Cobertura orçamental\n\n1 - O presente sistema de apoio é financiado por Fundos Europeus, designadamente do Portugal 2020 e por outras fontes de financiamento nacionais, disponíveis no IAPMEI, I. P., e no Turismo de Portugal, I. P.\n\n2 - Para efeitos do número anterior e para financiamento das microempresas, o IAPMEI, I. P., e o Turismo de Portugal, I. P., podem utilizar verbas com origem em reembolsos de incentivos de quadros comunitários já encerrados, mediante autorização do membro do Governo responsável pela área das finanças.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182679": {
+   "fragment_id": "151193667",
+   "type": 11,
+   "heading": "Artigo 27.º — Cumulação de auxílios",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 27.º — Cumulação de auxílios\n\n1 - Ao abrigo do Programa ADAPTAR, apenas é aceite uma candidatura por empresa.\n\n2 - Os apoios concedidos ao abrigo do presente decreto-lei não são cumuláveis com outros auxílios públicos para as mesmas despesas.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182680": {
+   "fragment_id": "151193668",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "### Capítulo V — Disposições finais\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182681": {
+   "fragment_id": "151193669",
+   "type": 11,
+   "heading": "Artigo 28.º — Direito subsidiário",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 28.º — Direito subsidiário\n\nEm tudo o que não se encontre previsto no capítulo iii, são aplicáveis as disposições constantes do Decreto-Lei n.º 159/2014, de 27 de outubro, na sua redação atual, e da secção ii do Regulamento Específico do Domínio da Competitividade e Internacionalização, aprovado em anexo à Portaria n.º 57-A/2015, de 27 de fevereiro, na sua redação atual.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182682": {
+   "fragment_id": "151193670",
+   "type": 11,
+   "heading": "Artigo 29.º — Entrada em vigor",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 29.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202182683": {
+   "fragment_id": "151193671",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 12 de maio de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Mário José Gomes de Freitas Centeno - Ângelo Nelson Rosário de Souza - Ana Maria Pereira Abrunhosa.\n\nPromulgado em 13 de maio de 2020.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 13 de maio de 2020.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113244556\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

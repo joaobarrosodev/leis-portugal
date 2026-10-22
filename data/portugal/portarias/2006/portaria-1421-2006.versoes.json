@@ -1,0 +1,316 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:552299:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2006-979326415",
+ "dre_path": "/dr/detalhe/portaria/1421-2006-552299",
+ "source_lastmod": "2026-05-06",
+ "versions": [
+  {
+   "date": "2006-12-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "980082875",
+    "980083075",
+    "980083275",
+    "980083475",
+    "980083675",
+    "980083875",
+    "980084075",
+    "980084275",
+    "980084475",
+    "980084675",
+    "980084875",
+    "980085075"
+   ]
+  },
+  {
+   "date": "2017-04-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:106824982:por",
+     "title": "Decreto-Lei n.º 40/2017",
+     "published": "2017-04-04",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2017-106824982"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "980082875",
+    "980083075",
+    "1111246675",
+    "980083475",
+    "980083675",
+    "980083875",
+    "980084075",
+    "980084275",
+    "980084475",
+    "980084675",
+    "980084875",
+    "980085075"
+   ]
+  },
+  {
+   "date": "2026-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1103945171:por",
+     "title": "Portaria n.º 208/2026/1",
+     "published": "2026-05-05",
+     "dre_path": "/dr/detalhe/portaria/208-2026-1103945171"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1121027275",
+    "1121027475",
+    "1121027575",
+    "1121027675",
+    "1121027775",
+    "1121027875",
+    "1121027975",
+    "1121028075",
+    "1121028175",
+    "1121028275",
+    "1121028375",
+    "1121028475"
+   ]
+  }
+ ],
+ "fragments": {
+  "980082875": {
+   "fragment_id": "980082775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Os Regulamentos (CE) n.os 852/2004, 853/2004 e 854/2004, todos do Parlamento Europeu e do Conselho, de 29 de Abril, estabelecem, respectivamente, regras relativas à higiene dos géneros alimentícios, regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal e regras específicas de organização dos controlos oficiais de produtos de origem animal destinados ao consumo humano.\n\nO Decreto-Lei n.º 113/2006, de 12 de Junho, estabelece as normas gerais de aplicação dos citados Regulamentos (CE) n.os 852/2004 e 853/2004 e prevê a publicação de portarias complementares específicas para determinados sectores de produção.\n\nA presente portaria visa, ao abrigo daquele diploma legal, adoptar regras de higiene específicas para a produção e comercialização de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos.\n\nAssim:\n\nManda o Governo, pelos Ministros da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 11.º do Decreto-Lei n.º 113/2006, de 12 de Junho, o seguinte:"
+  },
+  "980083075": {
+   "fragment_id": "980082975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece as regras de produção e comercialização de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos, complementares aos Regulamentos (CE) n.os 852/2004 e 853/2004, ambos do Parlamento Europeu e do Conselho, de 29 de Abril, relativos à higiene dos géneros alimentícios e às regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal, respectivamente, a seguir designados por regulamentos."
+  },
+  "980083275": {
+   "fragment_id": "980083175",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo e aprovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Registo e aprovação\n\n1 - A Direcção-Geral das Pescas e Aquicultura, a seguir designada por DGPA, procede ao registo dos operadores que se dediquem à produção primária de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos.\n\n2 - A DGPA autoriza a instalação e procede ao licenciamento da exploração dos operadores que adquirem moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos não destinados ao consumidor final e que procedem a operações de agrupamento ou de armazenagem de lotes.\n\n3 - A DGPA autoriza a instalação e procede ao licenciamento da exploração dos centros de depuração e expedição de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos, bem como das zonas de afinação, também designadas de transposição, verificados que sejam os requisitos estabelecidos para o efeito no Regulamento (CE) n.º 852/2004 e no anexo III do Regulamento (CE) n.º 853/2004.\n\n4 - O licenciamento da exploração referido nos n.os 2 e 3 depende da atribuição do número de aprovação pela Direcção-Geral de Veterinária, a seguir designada por DGV, o qual é comunicado ao operador pela DGPA.\n\n5 - A tramitação processual do licenciamento a que se referem os números anteriores segue as regras definidas no Decreto Regulamentar n.º 14/2000, de 21 de Setembro.\n\n6 - A DGPA e a DGV mantêm disponível para consulta em página oficial da Internet uma lista actualizada dos operadores registados e aprovados, respectivamente.\n\n7 - A DGV comunica à Comissão Europeia a lista dos estabelecimentos aprovados."
+  },
+  "980083475": {
+   "fragment_id": "980083375",
+   "type": 11,
+   "heading": "Artigo 3.º — Controlo das zonas de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Controlo das zonas de produção\n\n1 - O Instituto Nacional de Investigação Agrária e das Pescas, a seguir designado por INIAP, procede à classificação das zonas de produção.\n\n2 - Por despacho do presidente do INIAP é periodicamente publicada a classificação das zonas de produção.\n\n3 - O INIAP monitoriza as zonas de produção de moluscos bivalves vivos e estabelece os respectivos planos de amostragem.\n\n4 - O INIAP determina, de acordo com os resultados da monitorização efectuada, a interdição de apanha e comercialização de moluscos bivalves vivos e comunica o início e o fim da mesma às entidades competentes e aos operadores.\n\n5 - A amostragem e a análise que integram os controlos realizados pelos operadores nos termos do capítulo II, anexo II, do Regulamento (CE) n.º 854/2004, no que se refere à classificação de zonas de produção, devem cumprir as condições estabelecidas em protocolo celebrado entre os mesmos e o INIAP.\n\n6 - A autoridade marítima, designadamente as capitanias dos portos, procede à afixação do edital, dando notícia do início ou fim da interdição, podendo o INIAP proceder à comunicação directa de tal facto aos operadores por meio expedito adequado, designadamente por telecópia.\n\n7 - Os operadores devem dispor de meio de comunicação sempre disponível para recepção das comunicações do INIAP ou de qualquer outra autoridade competente."
+  },
+  "980083675": {
+   "fragment_id": "980083575",
+   "type": 11,
+   "heading": "Artigo 4.º — Aprovação e venda do documento de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aprovação e venda do documento de registo\n\n1 - O modelo do documento de registo, previsto no n.º 3 do capítulo I da secção VII do anexo III do Regulamento (CE) n.º 853/2004, é aprovado por despacho do director-geral das Pescas e Aquicultura.\n\n2 - O documento de registo é editado em triplicado, com numeração sequencial.\n\n3 - Os livros contendo os documentos de registos são vendidos pela DGPA aos operadores registados nos termos do artigo 2.º do presente diploma.\n\n4 - A DGPA mantém um registo com indicação dos números dos documentos de registo, bem como dos operadores aos quais foram vendidos.\n\n5 - A DGPA pode autorizar o preenchimento em suporte informático do documento de registo, em sistema por si criado para o efeito."
+  },
+  "980083875": {
+   "fragment_id": "980083775",
+   "type": 11,
+   "heading": "Artigo 5.º — Documento de registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Documento de registo\n\n1 - Qualquer movimentação de lotes de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos, entre uma zona de produção, zona de afinação, centro de depuração, expedição, ou estabelecimento de transformação deve ser sempre acompanhada por documento de registo, nos termos constantes do n.º 3, capítulo I, secção VII, do anexo III do Regulamento (CE) n.º 853/2004.\n\n2 - O documento de registo é emitido em triplicado por cada lote de moluscos bivalves, equinodermes, tunicados ou gastrópodes marinhos vivos, destinando-se o original e duplicado ao centro de depuração, centro de expedição, zona de afinação ou estabelecimento de transformação e o triplicado ao produtor.\n\n3 - Os centros de depuração, de expedição, zonas de afinação e estabelecimentos de transformação devem remeter o duplicado do documento de registo à DGPA até ao dia 15 do mês seguinte ao da sua recepção.\n\n4 - Quando os operadores referidos no número anterior estejam localizados fora do território nacional, o duplicado do documento de registo é enviado à DGPA pelo produtor ou pelo último operador que procedeu à venda dos lotes, consoante o caso.\n\n5 - Os centros de depuração e expedição, as zonas de afinação e estabelecimentos de transformação, bem como os produtores, devem conservar o original e o triplicado, respectivamente, do documento de registo durante 12 meses.\n\n6 - O documento de registo substitui a guia de transporte de moluscos bivalves, equinodermes, tunicados ou gastrópodes marinhos vivos que não estão legalmente obrigados à primeira venda em lota, de acordo com o previsto na Portaria n.º 197/2006, de 23 de Fevereiro."
+  },
+  "980084075": {
+   "fragment_id": "980083975",
+   "type": 11,
+   "heading": "Artigo 6.º — Registos nas zonas de afinação, centros de depuração ou expedição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registos nas zonas de afinação, centros de depuração ou expedição\n\n1 - Os centros de depuração ou expedição que laborem moluscos bivalves, equinodermes, tunicados ou gastrópodes marinhos vivos devem manter registos permanentes integrados num processo baseado nos princípios de um sistema de análise dos perigos e controlo de pontos críticos, designado por HACCP.\n\n2 - As zonas de afinação devem manter um registo permanente e sequencial dos lotes de moluscos bivalves vivos nos termos da secção VII do capítulo II do anexo III do Regulamento (CE) n.º 853/2004.\n\n3 - A DGPA pode autorizar o preenchimento em suporte informático dos registos, em sistema criado para o efeito."
+  },
+  "980084275": {
+   "fragment_id": "980084175",
+   "type": 11,
+   "heading": "Artigo 7.º — Margens de tolerância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Margens de tolerância\n\nPor despacho do director-geral das Pescas e Aquicultura são fixadas as margens de tolerância admissíveis entre a quantidade dos moluscos bivalves vivos verificada e a indicada no documento de registo emitido pelo operador."
+  },
+  "980084475": {
+   "fragment_id": "980084375",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlos pelos operadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlos pelos operadores\n\nAs análises relativas aos critérios microbiológicos aplicáveis aos moluscos bivalves vivos nos termos do Regulamento (CE) n.º 2073/2005, da Comissão, de 15 de Novembro, devem ser realizadas em laboratórios reconhecidos pelo INIAP."
+  },
+  "980084675": {
+   "fragment_id": "980084575",
+   "type": 11,
+   "heading": "Artigo 9.º — Venda em lota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Venda em lota\n\nSempre que os moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos sejam objecto de primeira venda em lota, devem os produtores proceder à constituição de lotes de acordo com as características do mercado, devendo cada lote ser acompanhado de documento de registo."
+  },
+  "980084875": {
+   "fragment_id": "980084775",
+   "type": 11,
+   "heading": "Artigo 10.º — Condições gerais da comercialização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Condições gerais da comercialização\n\n1 - Sem prejuízo do disposto no Regulamento (CE) n.º 853/2004, os moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos não destinados ao consumidor final devem encontrar-se acondicionados e fechados, excepto quando sejam entregues pelo produtor primário directamente ao centro de depuração, centro de expedição, estabelecimento de transformação ou zona de afinação.\n\n2 - Os moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos destinados ao consumidor final devem encontrar-se em embalagem fechada por um centro de expedição aprovado.\n\n3 - É proibida a abertura das embalagens até ao fornecimento ao consumidor final ou a estabelecimento de restauração."
+  },
+  "980085075": {
+   "fragment_id": "980084975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 30 de Novembro de 2006.\n\nO Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas."
+  },
+  "1111246675": {
+   "fragment_id": "980083175",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo e aprovação",
+   "in_force_from": "2017-04-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05."
+   ],
+   "markdown": "###### Artigo 2.º — Registo e aprovação\n\n1 - A Direcção-Geral das Pescas e Aquicultura, a seguir designada por DGPA, procede ao registo dos operadores que se dediquem à produção primária de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos.\n\n2 - A DGPA autoriza a instalação e procede ao licenciamento da exploração dos operadores que adquirem moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos não destinados ao consumidor final e que procedem a operações de agrupamento ou de armazenagem de lotes.\n\n3 - A DGPA autoriza a instalação e procede ao licenciamento da exploração dos centros de depuração e expedição de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos, bem como das zonas de afinação, também designadas de transposição, verificados que sejam os requisitos estabelecidos para o efeito no Regulamento (CE) n.º 852/2004 e no anexo III do Regulamento (CE) n.º 853/2004.\n\n4 - A tramitação processual a que se referem os números anteriores segue as regras definidas no Decreto-Lei n.º 40/2017, de 4 de abril.\n\n5 - A tramitação processual do licenciamento a que se referem os números anteriores segue as regras definidas no Decreto Regulamentar n.º 14/2000, de 21 de Setembro.\n\n6 - A DGPA e a DGV mantêm disponível para consulta em página oficial da Internet uma lista actualizada dos operadores registados e aprovados, respectivamente.\n\n7 - A DGV comunica à Comissão Europeia a lista dos estabelecimentos aprovados.\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05."
+  },
+  "1121027275": {
+   "fragment_id": "980082775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "Os Regulamentos (CE) n.os 852/2004, 853/2004 e 854/2004, todos do Parlamento Europeu e do Conselho, de 29 de Abril, estabelecem, respectivamente, regras relativas à higiene dos géneros alimentícios, regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal e regras específicas de organização dos controlos oficiais de produtos de origem animal destinados ao consumo humano.\n\nO Decreto-Lei n.º 113/2006, de 12 de Junho, estabelece as normas gerais de aplicação dos citados Regulamentos (CE) n.os 852/2004 e 853/2004 e prevê a publicação de portarias complementares específicas para determinados sectores de produção.\n\nA presente portaria visa, ao abrigo daquele diploma legal, adoptar regras de higiene específicas para a produção e comercialização de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos.\n\nAssim:\n\nManda o Governo, pelos Ministros da Economia e da Inovação e da Agricultura, do Desenvolvimento Rural e das Pescas, ao abrigo do artigo 11.º do Decreto-Lei n.º 113/2006, de 12 de Junho, o seguinte:\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121027475": {
+   "fragment_id": "980082975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nA presente portaria estabelece as regras de produção e comercialização de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos, complementares aos Regulamentos (CE) n.os 852/2004 e 853/2004, ambos do Parlamento Europeu e do Conselho, de 29 de Abril, relativos à higiene dos géneros alimentícios e às regras específicas de higiene aplicáveis aos géneros alimentícios de origem animal, respectivamente, a seguir designados por regulamentos.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121027575": {
+   "fragment_id": "980083175",
+   "type": 11,
+   "heading": "Artigo 2.º — Registo e aprovação",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01.",
+    "Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05."
+   ],
+   "markdown": "###### Artigo 2.º — Registo e aprovação\n\n1 - A Direcção-Geral das Pescas e Aquicultura, a seguir designada por DGPA, procede ao registo dos operadores que se dediquem à produção primária de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos.\n\n2 - A DGPA autoriza a instalação e procede ao licenciamento da exploração dos operadores que adquirem moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos não destinados ao consumidor final e que procedem a operações de agrupamento ou de armazenagem de lotes.\n\n3 - A DGPA autoriza a instalação e procede ao licenciamento da exploração dos centros de depuração e expedição de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos, bem como das zonas de afinação, também designadas de transposição, verificados que sejam os requisitos estabelecidos para o efeito no Regulamento (CE) n.º 852/2004 e no anexo III do Regulamento (CE) n.º 853/2004.\n\n4 - A tramitação processual a que se referem os números anteriores segue as regras definidas no Decreto-Lei n.º 40/2017, de 4 de abril.\n\n5 - A tramitação processual do licenciamento a que se referem os números anteriores segue as regras definidas no Decreto Regulamentar n.º 14/2000, de 21 de Setembro.\n\n6 - A DGPA e a DGV mantêm disponível para consulta em página oficial da Internet uma lista actualizada dos operadores registados e aprovados, respectivamente.\n\n7 - A DGV comunica à Comissão Europeia a lista dos estabelecimentos aprovados.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01.\n\n> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05."
+  },
+  "1121027675": {
+   "fragment_id": "980083375",
+   "type": 11,
+   "heading": "Artigo 3.º — Controlo das zonas de produção",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 3.º — Controlo das zonas de produção\n\n1 - O Instituto Nacional de Investigação Agrária e das Pescas, a seguir designado por INIAP, procede à classificação das zonas de produção.\n\n2 - Por despacho do presidente do INIAP é periodicamente publicada a classificação das zonas de produção.\n\n3 - O INIAP monitoriza as zonas de produção de moluscos bivalves vivos e estabelece os respectivos planos de amostragem.\n\n4 - O INIAP determina, de acordo com os resultados da monitorização efectuada, a interdição de apanha e comercialização de moluscos bivalves vivos e comunica o início e o fim da mesma às entidades competentes e aos operadores.\n\n5 - A amostragem e a análise que integram os controlos realizados pelos operadores nos termos do capítulo II, anexo II, do Regulamento (CE) n.º 854/2004, no que se refere à classificação de zonas de produção, devem cumprir as condições estabelecidas em protocolo celebrado entre os mesmos e o INIAP.\n\n6 - A autoridade marítima, designadamente as capitanias dos portos, procede à afixação do edital, dando notícia do início ou fim da interdição, podendo o INIAP proceder à comunicação directa de tal facto aos operadores por meio expedito adequado, designadamente por telecópia.\n\n7 - Os operadores devem dispor de meio de comunicação sempre disponível para recepção das comunicações do INIAP ou de qualquer outra autoridade competente.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121027775": {
+   "fragment_id": "980083575",
+   "type": 11,
+   "heading": "Artigo 4.º — Aprovação e venda do documento de registo",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 4.º — Aprovação e venda do documento de registo\n\n1 - O modelo do documento de registo, previsto no n.º 3 do capítulo I da secção VII do anexo III do Regulamento (CE) n.º 853/2004, é aprovado por despacho do director-geral das Pescas e Aquicultura.\n\n2 - O documento de registo é editado em triplicado, com numeração sequencial.\n\n3 - Os livros contendo os documentos de registos são vendidos pela DGPA aos operadores registados nos termos do artigo 2.º do presente diploma.\n\n4 - A DGPA mantém um registo com indicação dos números dos documentos de registo, bem como dos operadores aos quais foram vendidos.\n\n5 - A DGPA pode autorizar o preenchimento em suporte informático do documento de registo, em sistema por si criado para o efeito.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121027875": {
+   "fragment_id": "980083775",
+   "type": 11,
+   "heading": "Artigo 5.º — Documento de registo",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 5.º — Documento de registo\n\n1 - Qualquer movimentação de lotes de moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos, entre uma zona de produção, zona de afinação, centro de depuração, expedição, ou estabelecimento de transformação deve ser sempre acompanhada por documento de registo, nos termos constantes do n.º 3, capítulo I, secção VII, do anexo III do Regulamento (CE) n.º 853/2004.\n\n2 - O documento de registo é emitido em triplicado por cada lote de moluscos bivalves, equinodermes, tunicados ou gastrópodes marinhos vivos, destinando-se o original e duplicado ao centro de depuração, centro de expedição, zona de afinação ou estabelecimento de transformação e o triplicado ao produtor.\n\n3 - Os centros de depuração, de expedição, zonas de afinação e estabelecimentos de transformação devem remeter o duplicado do documento de registo à DGPA até ao dia 15 do mês seguinte ao da sua recepção.\n\n4 - Quando os operadores referidos no número anterior estejam localizados fora do território nacional, o duplicado do documento de registo é enviado à DGPA pelo produtor ou pelo último operador que procedeu à venda dos lotes, consoante o caso.\n\n5 - Os centros de depuração e expedição, as zonas de afinação e estabelecimentos de transformação, bem como os produtores, devem conservar o original e o triplicado, respectivamente, do documento de registo durante 12 meses.\n\n6 - O documento de registo substitui a guia de transporte de moluscos bivalves, equinodermes, tunicados ou gastrópodes marinhos vivos que não estão legalmente obrigados à primeira venda em lota, de acordo com o previsto na Portaria n.º 197/2006, de 23 de Fevereiro.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121027975": {
+   "fragment_id": "980083975",
+   "type": 11,
+   "heading": "Artigo 6.º — Registos nas zonas de afinação, centros de depuração ou expedição",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 6.º — Registos nas zonas de afinação, centros de depuração ou expedição\n\n1 - Os centros de depuração ou expedição que laborem moluscos bivalves, equinodermes, tunicados ou gastrópodes marinhos vivos devem manter registos permanentes integrados num processo baseado nos princípios de um sistema de análise dos perigos e controlo de pontos críticos, designado por HACCP.\n\n2 - As zonas de afinação devem manter um registo permanente e sequencial dos lotes de moluscos bivalves vivos nos termos da secção VII do capítulo II do anexo III do Regulamento (CE) n.º 853/2004.\n\n3 - A DGPA pode autorizar o preenchimento em suporte informático dos registos, em sistema criado para o efeito.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121028075": {
+   "fragment_id": "980084175",
+   "type": 11,
+   "heading": "Artigo 7.º — Margens de tolerância",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 7.º — Margens de tolerância\n\nPor despacho do director-geral das Pescas e Aquicultura são fixadas as margens de tolerância admissíveis entre a quantidade dos moluscos bivalves vivos verificada e a indicada no documento de registo emitido pelo operador.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121028175": {
+   "fragment_id": "980084375",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlos pelos operadores",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 8.º — Controlos pelos operadores\n\nAs análises relativas aos critérios microbiológicos aplicáveis aos moluscos bivalves vivos nos termos do Regulamento (CE) n.º 2073/2005, da Comissão, de 15 de Novembro, devem ser realizadas em laboratórios reconhecidos pelo INIAP.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121028275": {
+   "fragment_id": "980084575",
+   "type": 11,
+   "heading": "Artigo 9.º — Venda em lota",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 9.º — Venda em lota\n\nSempre que os moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos sejam objecto de primeira venda em lota, devem os produtores proceder à constituição de lotes de acordo com as características do mercado, devendo cada lote ser acompanhado de documento de registo.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121028375": {
+   "fragment_id": "980084775",
+   "type": 11,
+   "heading": "Artigo 10.º — Condições gerais da comercialização",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "###### Artigo 10.º — Condições gerais da comercialização\n\n1 - Sem prejuízo do disposto no Regulamento (CE) n.º 853/2004, os moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos não destinados ao consumidor final devem encontrar-se acondicionados e fechados, excepto quando sejam entregues pelo produtor primário directamente ao centro de depuração, centro de expedição, estabelecimento de transformação ou zona de afinação.\n\n2 - Os moluscos bivalves, equinodermes, tunicados e gastrópodes marinhos vivos destinados ao consumidor final devem encontrar-se em embalagem fechada por um centro de expedição aprovado.\n\n3 - É proibida a abertura das embalagens até ao fornecimento ao consumidor final ou a estabelecimento de restauração.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  },
+  "1121028475": {
+   "fragment_id": "980084975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+   ],
+   "markdown": "Em 30 de Novembro de 2006.\n\nO Ministro da Economia e da Inovação, Manuel António Gomes de Almeida de Pinho. - Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Medeiros Vieira, Secretário de Estado Adjunto, da Agricultura e das Pescas.\n\n> Revogado pelo/a Artigo 12.º do/a [Portaria n.º 208/2026/1 - Diário da República n.º 86/2026, Série I de 2026-05-05](https://diariodarepublica.pt/dr/detalhe/portaria/208-2026-1103945171), em vigor a partir de 2026-06-01."
+  }
+ }
+}

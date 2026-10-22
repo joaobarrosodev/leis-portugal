@@ -1,0 +1,485 @@
+---
+schema_version: '1.0'
+id: pt:dre:223253:por
+title: Decreto Legislativo Regional n.º 5/2004/M
+short_title: null
+summary: Adapta à administração regional autónoma da Madeira a Lei n.º 2/2004, de 15 de Janeiro, que estabelece o estatuto
+  do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 5/2004/M
+official_date: null
+publication_date: '2004-04-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 95/2004, Série I-A de 2004-04-22
+  number: '95'
+  series: I
+  supplement: null
+  pages: 2447 - 2448
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/04/095a00/24472448.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2016-07-07'
+version_history:
+  file: decreto-legislativo-regional-5-2004-m.versoes.json
+  count: 3
+  source_lastmod: '2024-08-22'
+  versions:
+  - date: '2004-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2006-07-15'
+    amending: pt:dre:537430:por
+    amending_title: Decreto Legislativo Regional n.º 27/2006/M
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 4.º-A
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 5.º
+  - date: '2016-07-07'
+    amending: pt:dre:74878702:por
+    amending_title: Decreto Legislativo Regional n.º 27/2016/M
+    changes:
+    - Adita Artigo 3.º-B
+    - Adita Artigo 5.º-A
+    - Adita Artigo 5.º-B
+    - Adita Artigo 10.º-A
+    - Adita Artigo 11.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 3.º-A
+    - Altera Artigo 4.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Revoga Artigo 4.º
+    - Revoga Artigo 7.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/5/2004/m/cons/20160824/pt/html
+  oj: null
+  dre: '223253'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/5-2004-223253
+  internal: pt:dre:223253:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/5-2004-223253
+  metadata_url: https://data.dre.pt/eli/declegreg/5/2004/m/cons/20160824/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-885235297
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2004-885235297
+  retrieved_at: '2026-10-22T13:12:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-08-22T00:00:00Z'
+integrity:
+  source_sha256: fff5cf7d3d3a9284f277ebcfd92911777bf0f7149b2d1ea37f0eda87d6c71d25
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:12:42Z'
+  notes: 3 versão(ões); histórico completo em decreto-legislativo-regional-5-2004-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Comissão de Serviço
+- Governo Regional
+- Definição de Competências
+- Diretor Regional
+- Estatuto
+- Madeira.região Autónoma
+- Remuneração
+- Administração Regional
+- Subdirector Regional
+relationships:
+- type: amended_by
+  target: pt:dre:537430:por
+  label: Adita Artigo 3.º-A; Adita Artigo 4.º-A; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430
+  date: '2006-07-14'
+- type: amended_by
+  target: pt:dre:74878702:por
+  label: Adita Artigo 3.º-B; Adita Artigo 5.º-A; Adita Artigo 5.º-B; Adita Artigo 10.º-A; Adita Artigo 11.º-A; Altera Artigo
+    3.º; Altera Artigo 3.º-A; Altera Artigo 4.º-A; Altera Artigo 5.º; Altera Artigo 9.º; Altera Artigo 10.º; Revoga Artigo
+    4.º; Revoga Artigo 7.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702
+  date: '2016-07-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/78/2003/04/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/78/2003/04/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/15/2000/07/08/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/15/2000/07/08/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/49/1999/06/22/p/dre
+article_structure:
+  article_count: 21
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:12:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 5/2004/M
+
+Decreto Legislativo Regional n.º 5/2004/M
+
+Adapta à administração regional autónoma da Madeira a Lei n.º 2/2004, de 15 de Janeiro, que estabelece o estatuto do pessoal dirigente dos serviços e organismos da administração central, regional e local do Estado.
+
+O novo regime que estabelece o estatuto do pessoal dirigente, aplicável à administração central, local e regional do Estado, revogou a Lei n.º 49/99, de 22 de Junho, e, à semelhança dos anteriores diplomas legais que regularam a mesma matéria, deixou a descoberto questões atinentes a particularidades da administração regional autónoma da Madeira que, consubstanciando interesse específico desta, reclamam tratamento legislativo.
+
+Os motivos que ditaram a aprovação do Decreto Legislativo Regional n.º 15/2000/M, de 8 de Julho - que procedeu à adaptação à Região da Lei n.º 49/99, de 22 de Junho -, são aqueles que em grande parte reclamam, face ao novo regime jurídico aprovado a nível nacional, a adaptação a que agora se procede, nomeadamente competências do pessoal dirigente, regras relativas ao seu provimento, bem como adaptações de natureza orgânica, que continuam a impor o devido tratamento legislativo, de acordo com as especificidades existentes neste domínio na administração regional autónoma da Madeira, as quais o próprio legislador reconheceu, ao referir no n.º 3 do artigo 1.º da Lei n.º 2/2004, de 15 de Janeiro, a possibilidade de aprovação de decreto legislativo regional que adapte o citado diploma às especificidades orgânicas do pessoal dirigente desta administração regional autónoma.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, ao abrigo da alínea a) do n.º 1 do artigo 227.º e da alínea o) do artigo 228.º, ambos da Constituição da República Portuguesa, da alínea c) do n.º 1 do artigo 37.º, conjugado com a alínea vv) do artigo 40.º, do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, revisto e alterado pela Lei n.º 130/99, de 21 de Agosto, e alterado pela Lei n.º 12/2000, de 21 de Junho, e do n.º 3 do artigo 1.º da Lei n.º 2/2004, de 15 de Janeiro, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma procede à adaptação, à administração regional autónoma da Madeira, do regime que estabelece o estatuto do pessoal dirigente dos serviços e organismos da administração central, local e regional do Estado, aprovado pela Lei n.º 2/2004, de 15 de Janeiro.
+
+2 - O regime que pelo presente diploma é aprovado aplica-se a todos os serviços da administração regional autónoma da Madeira, incluindo institutos públicos e fundos públicos personalizados cujo pessoal dirigente se encontre sujeito ao regime da função pública.
+
+###### Artigo 2.º — Cargos dirigentes
+
+1 - As referências feitas na Lei n.º 2/2004, de 15 de Janeiro, aos cargos de director-geral e de secretário-geral consideram-se reportadas aos cargos de director regional e de secretário-geral da Presidência do Governo Regional, reportando-se as menções a subdirector-geral ao cargo de subdirector regional, cujas competências acumularão com as que lhes são cometidas pelos estatutos orgânicos dos respectivos serviços.
+
+2 - A referência feita aos órgãos e serviços de apoio à Assembleia da República, constante da alínea a) do n.º 5 do artigo 1.º da Lei n.º 2/2004, de 15 de Janeiro, considera-se feita aos órgãos e serviços de apoio à Assembleia Legislativa da Região Autónoma da Madeira.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2006/M - Diário da República n.º 135/2006, Série I de 2006-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), em vigor a partir de 2006-07-15
+
+###### Artigo 3.º — Competências dos titulares de cargos de direção superior
+
+1 - Os titulares dos cargos de direção superior de 1.º grau possuem as seguintes competências, no âmbito da gestão geral do respetivo serviço:
+
+a) Elaborar os planos anuais e plurianuais de atividades, com identificação dos objetivos a atingir pelos serviços, os quais devem contemplar medidas de desburocratização, qualidade e inovação;
+
+b) Assegurar, controlar e avaliar a execução dos planos de atividades e a concretização dos objetivos propostos;
+
+c) Elaborar os relatórios de atividades com indicação dos resultados atingidos face aos objetivos definidos, bem como o balanço social, nos termos da lei aplicável;
+
+d) Praticar todos os atos necessários ao normal funcionamento dos serviços e órgãos no âmbito da gestão dos recursos humanos, financeiros, materiais e patrimoniais, designadamente os mencionados no anexo i da Lei n.º 2/2004, de 15 de janeiro, cuja última alteração foi operada pela Lei n.º 128/2015, de 3 de setembro, tendo em conta os limites previstos nos respetivos regimes legais, desde que tal competência não se encontre expressamente cometida a outra entidade e sem prejuízo dos poderes de direção, superintendência ou tutela do membro do Governo Regional respetivo;
+
+e) Propor ao membro do Governo Regional competente a prática dos atos de gestão do serviço ou órgão para os quais não tenha competência própria ou delegada, assim como as medidas que considere mais aconselháveis para se atingirem os objetivos e metas consagrados na lei e no Programa do Governo Regional;
+
+f) Garantir a efetiva participação dos trabalhadores em funções públicas na preparação dos planos e relatórios de atividades e proceder à sua divulgação e publicitação;
+
+g) Proceder à difusão interna das missões e objetivos do serviço, das competências das unidades orgânicas e das formas de articulação entre elas, desenvolvendo formas de coordenação e comunicação entre as unidades orgânicas e respetivos trabalhadores em funções públicas;
+
+h) Acompanhar e avaliar sistematicamente a atividade do serviço, responsabilizando os diferentes setores pela utilização dos meios postos à sua disposição e pelos resultados atingidos, nomeadamente em termos de impacto da atividade e da qualidade dos serviços prestados;
+
+i) Elaborar planos de ação que visem o aperfeiçoamento e a qualidade dos serviços, nomeadamente através de cartas de qualidade, definindo metodologias de melhores práticas de gestão e de sistemas de garantia de conformidade face aos objetivos exigidos;
+
+j) Propor a adequação de disposições legais ou regulamentares desatualizadas e a racionalização e simplificação de procedimentos;
+
+k) Representar o serviço ou órgão que dirige, assim como estabelecer as ligações externas, ao seu nível, com outros serviços e órgãos da Administração Pública e com outras entidades congéneres, nacionais, internacionais e estrangeiras;
+
+l) Executar a política do executivo regional;
+
+m) Aplicar e fazer aplicar as políticas aprovadas em programa de Governo Regional para o setor, coadjuvando o membro de Governo Regional titular das respetivas pastas;
+
+n) Propor políticas públicas ao membro do Governo Regional responsável pelo respetivo setor.
+
+2 - No âmbito da gestão dos recursos humanos, compete aos titulares dos cargos de direção superior de 1.º grau, designadamente:
+
+a) Fazer cumprir as obrigações definidas nos termos da lei para o processo de avaliação do mérito dos trabalhadores em funções públicas, garantindo a aplicação uniforme do regime de avaliação no âmbito do respetivo serviço ou órgão;
+
+b) Garantir a elaboração e atualização do diagnóstico de necessidades de formação do serviço ou órgão e, com base neste, a elaboração do respetivo plano de formação, individual ou em grupo, bem como efetuar a avaliação dos efeitos da formação ministrada ao nível da eficácia do serviço e do impacto do investimento efetuado;
+
+c) Adotar os horários de trabalho mais adequados ao funcionamento dos serviços, observados os condicionalismos legais ou regulamentares, bem como estabelecer os instrumentos e práticas que garantam o controlo efetivo da assiduidade;
+
+d) Exercer a competência em matéria disciplinar prevista na lei.
+
+3 - No âmbito da gestão orçamental e realização de despesas, compete aos titulares dos cargos de direção superior de 1.º grau, designadamente:
+
+a) Elaborar os projetos de orçamento de funcionamento e de investimento, tendo em conta os planos de atividades e os programas aprovados;
+
+b) Executar o orçamento de acordo com uma rigorosa gestão dos recursos disponíveis, adotando as medidas necessárias à correção de eventuais desvios ou propondo as que ultrapassem a sua competência;
+
+c) Elaborar e aprovar a conta de gerência, quando seja o caso;
+
+d) Assegurar as condições necessárias ao exercício do controlo financeiro e orçamental pelas entidades legalmente competentes;
+
+e) Autorizar a realização de despesas públicas com obras e aquisição de bens e serviços, dentro dos limites estabelecidos por lei.
+
+4 - No âmbito da gestão de instalações e equipamentos, compete aos titulares dos cargos de direção superior de 1.º grau, designadamente:
+
+a) Superintender na utilização racional das instalações afetas ao respetivo serviço ou órgão, bem como na sua manutenção, conservação e beneficiação;
+
+b) Promover a melhoria de equipamentos que constituam infraestruturas ao atendimento;
+
+c) Velar pela existência de condições de saúde, higiene e segurança no trabalho, garantindo, designadamente, a avaliação e registo atualizado dos fatores de risco, planificação e orçamentação das ações conducentes ao seu efetivo controlo;
+
+d) Gerir de forma eficaz e eficiente a utilização, manutenção e conservação dos equipamentos afetos ao respetivo serviço ou órgão.
+
+5 - As competências dos titulares dos cargos de direção superior de 1.º grau em matéria de gestão de recursos humanos não prejudicam as competências dos dirigentes dos serviços e órgãos responsáveis pela gestão centralizada de recursos humanos de cada secretaria regional.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2006/M - Diário da República n.º 135/2006, Série I de 2006-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), em vigor a partir de 2006-07-15
+
+###### Artigo 3.º-A — Requisitos e condições gerais de recrutamento dos cargos de direcção intermédia
+
+1 - Os titulares dos cargos de direção intermédia são recrutados, por procedimento concursal, nos termos do artigo 4.º-A, de entre trabalhadores em funções públicas contratados ou designados por tempo indeterminado, licenciados, dotados de competência técnica e aptidão para o exercício de funções de direção, coordenação e controlo que reúnam seis ou quatro anos de experiência profissional em funções, cargos, carreiras ou categorias para cujo exercício ou provimento seja exigível uma licenciatura, consoante se trate de cargos de direção intermédia de 1.º ou de 2.º grau, respetivamente.
+
+2 - Sem prejuízo do disposto no n.º 1, a área de recrutamento para os cargos de direção intermédia de unidades orgânicas cujas competências sejam essencialmente asseguradas por pessoal integrado em carreiras ou categorias de grau 3 de complexidade funcional a que corresponda uma atividade específica é alargada a trabalhadores integrados nessas carreiras, titulares de curso superior que não confira grau de licenciatura.
+
+3 - Quando as leis orgânicas expressamente o prevejam, o recrutamento para os cargos de direção intermédia pode também ser feito de entre trabalhadores em funções públicas integrados em carreiras específicas dos respetivos serviços ou organismos, ainda que não possuidores de curso superior.
+
+4 - Nos casos em que o procedimento concursal fique deserto ou em que nenhum dos candidatos reúna condições para ser nomeado, nos termos do n.º 8 do artigo 4.º-A, os titulares dos cargos de direção intermédia podem igualmente ser recrutados, em subsequente procedimento concursal, de entre indivíduos licenciados sem vínculo à Administração Pública que reúnam os requisitos previstos no n.º 1 e desde que tal seja autorizado pelo membro do Governo Regional responsável em matéria de Administração Pública, sob proposta fundamentada do serviço ou organismo interessado.
+
+5 - Nos casos de criação de serviços, o primeiro provimento dos cargos de direção intermédia pode ser feito por escolha, de entre trabalhadores em funções públicas que reúnam os requisitos previstos no n.º 1, em regime de comissão de serviço, por um ano, devendo o procedimento de seleção ser aberto até 120 dias antes do termo da comissão de serviço do nomeado.
+
+6 - Na situação referida no número anterior, a comissão de serviço mantém-se até ao termo do respetivo procedimento concursal.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2006/M - Diário da República n.º 135/2006, Série I de 2006-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), em vigor a partir de 2006-07-15
+
+###### Artigo 3.º-B — Competências dos titulares de cargos de direção intermédia
+
+1 - Compete aos titulares de cargos de direção intermédia de 1.º grau:
+
+a) Definir os objetivos de atuação da unidade orgânica que dirigem, tendo em conta os objetivos gerais estabelecidos;
+
+b) Orientar, controlar e avaliar o desempenho e a eficiência dos serviços dependentes, com vista à execução dos planos de atividades e à prossecução dos resultados obtidos e a alcançar;
+
+c) Garantir a coordenação das atividades e a qualidade técnica da prestação dos serviços na sua dependência;
+
+d) Gerir com rigor e eficiência os recursos humanos, patrimoniais e tecnológicos afetos à sua unidade orgânica, otimizando os meios e adotando medidas que permitam simplificar e acelerar procedimentos e promover a aproximação à sociedade e a outros serviços públicos;
+
+e) Praticar os atos previstos no anexo ii da Lei n.º 2/2004, de 15 de janeiro, com a alteração conferida pela Lei n.º 128/2015, de 3 de setembro.
+
+2 - Compete aos titulares dos cargos de direção intermédia de 2.º grau:
+
+a) Assegurar a qualidade técnica do trabalho produzido na sua unidade orgânica e garantir o cumprimento dos prazos adequados à eficaz prestação do serviço, tendo em conta a satisfação do interesse dos destinatários;
+
+b) Efetuar o acompanhamento profissional no local de trabalho, apoiando e motivando os trabalhadores em funções públicas e proporcionando-lhes os adequados conhecimentos e aptidões profissionais necessários ao exercício das funções do respetivo posto de trabalho, bem como os procedimentos mais adequados ao incremento da qualidade do serviço a prestar;
+
+c) Divulgar junto dos trabalhadores em funções públicas os documentos internos e as normas de procedimento a adotar pelo serviço, bem como debater e esclarecer as ações a desenvolver para cumprimento dos objetivos do serviço, de forma a garantir o empenho e a assunção de responsabilidades por parte dos trabalhadores em funções públicas;
+
+d) Proceder de forma objetiva à avaliação do mérito dos trabalhadores em funções públicas, em função dos resultados individuais e de grupo e à forma como cada um se empenha na prossecução dos objetivos e no espírito de equipa;
+
+e) Identificar as necessidades de formação específica dos trabalhadores em funções públicas da sua unidade orgânica e propor a frequência das ações de formação consideradas adequadas ao suprimento das referidas necessidades, sem prejuízo do direito à autoformação;
+
+f) Proceder ao controlo efetivo da assiduidade, pontualidade e cumprimento do período normal de trabalho por parte dos trabalhadores em funções públicas da sua unidade orgânica;
+
+g) Praticar os atos previstos no anexo ii da Lei n.º 2/2004, de 15 de janeiro, com a alteração conferida pela Lei n.º 128/2015, de 3 de setembro, quando não se encontrem diretamente dependentes dos titulares dos cargos dirigentes referidos no n.º 1.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 4.º — Recrutamento dos cargos de direcção intermédia
+
+1 - O recrutamento para os cargos de direcção intermédia a que se refere o n.º 3 do artigo 20.º da Lei n.º 2/2004, de 15 de Janeiro, pode também ser feito de entre pessoal na situação de aposentado, que tenha pertencido a carreiras específicas dos respectivos serviços ou organismos, ainda que não possuidores de curso superior.
+
+2 - (Revogado.)
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2006/M - Diário da República n.º 135/2006, Série I de 2006-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430)
+
+###### Artigo 4.º-A — Procedimento concursal dos cargos de direção intermédia
+
+1 - O procedimento concursal dos cargos de direção intermédia é publicitado na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, com a indicação, nomeadamente, dos requisitos formais de provimento, do perfil exigido, da composição do júri e dos métodos de seleção aplicáveis, entre os quais pode ser escolhida a entrevista pública.
+
+2 - Após a publicitação no Jornal Oficial da Região Autónoma da Madeira, o procedimento é divulgado na Bolsa de Emprego Público da Região Autónoma da Madeira, abreviadamente designada por BEP-RAM, durante 10 dias, com os elementos indicados no número anterior.
+
+3 - O júri é constituído nos termos gerais aplicáveis aos procedimentos concursais dos trabalhadores em funções públicas, com as especialidades seguintes:
+
+a) O presidente do júri terá de ser um dirigente com cargo de nível e grau superior ao que é objecto do procedimento de selecção;
+
+b) Os vogais não podem ter cargo de nível e grau inferior ao que é objecto do procedimento de selecção, devendo um deles ser, obrigatoriamente, de serviço diferente daquele ao qual o procedimento se destina, cabendo a este vogal substituir o presidente nas suas ausências.
+
+4 - Em sede de apreciação de candidaturas o júri exclui do procedimento de selecção, fundamentadamente, os candidatos que evidenciem não reunir os requisitos e o perfil exigidos.
+
+5 - Havendo apenas um candidato admitido ao procedimento de selecção, o júri pode deliberar, face à respectiva candidatura, pela elaboração da proposta de nomeação no cargo, fundamentada, designadamente, na adequação do perfil do candidato às atribuições e objectivos do serviço.
+
+6 - Havendo várias candidaturas admitidas ao procedimento de selecção ou, no caso de haver uma, se o júri entender não usar a faculdade prevista no número anterior, o procedimento prossegue para aplicação dos métodos de selecção fixados no respectivo aviso.
+
+7 - Após a aplicação dos métodos de selecção, o júri elabora a proposta de decisão, seleccionando, fundamentadamente, o candidato que melhor preenche o perfil exigido e abstém-se de graduar os restantes candidatos.
+
+8 - O júri pode entender que nenhuma das candidaturas preenche os requisitos e o perfil definidos.
+
+9 - Das deliberações do júri cabe recurso, a interpor para o membro do Governo Regional competente, no prazo de oito dias úteis contados da notificação da deliberação.
+
+10 - As deliberações do júri são notificadas aos candidatos por ofício registado, enviado para a morada que indicarem nas respetivas candidaturas, contando-se o prazo de recurso a partir da data do registo, com a dilação de três dias do correio, podendo ser usadas outras formas de notificação legalmente previstas, designadamente, no artigo 112.º do Código do Procedimento Administrativo.
+
+11 - O provimento nos cargos de direcção intermédia produz efeitos à data do despacho de nomeação, salvo se outra data for expressamente fixada.
+
+12 - O despacho de nomeação, devidamente fundamentado, é publicado na 2.ª série do Jornal Oficial da Região Autónoma da Madeira, juntamente com uma nota relativa ao currículo académico e profissional do nomeado.
+
+13 - O procedimento de selecção é urgente e de interesse público, não havendo lugar a audiência de interessados.
+
+14 - Não há efeito suspensivo do recurso administrativo interposto do despacho de nomeação ou de qualquer outro acto praticado no decurso do procedimento.
+
+15 - A propositura de providência cautelar de suspensão da eficácia de um acto administrativo praticado no procedimento não tem por efeito a proibição da execução desse acto.
+
+16 - Em caso de suspensão judicial da eficácia do despacho de nomeação, é aplicável o regime de nomeação em substituição.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2006/M - Diário da República n.º 135/2006, Série I de 2006-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), em vigor a partir de 2006-07-15
+
+###### Artigo 5.º — Provimento
+
+1 - Os cargos de direção superior da administração regional autónoma da Madeira são providos, por livre nomeação, em regime de comissão de serviço, pelo período de três anos, renovável por iguais períodos, de entre indivíduos licenciados no mínimo há 10 ou 8 anos, consoante se trate de cargos de direção superior de 1.º ou de 2.º grau, vinculados ou não à Administração Pública, que possuam competência técnica, aptidão, experiência profissional e formação adequadas ao exercício das respetivas funções, de acordo com o seguinte:
+
+a) O cargo de director regional e o de subdirector regional são providos por despacho conjunto do Presidente do Governo Regional e do membro do Governo Regional competente;
+
+b) O cargo de secretário-geral da Presidência do Governo Regional é provido nos termos estabelecidos na respectiva Lei Orgânica.
+
+2 - O provimento nos cargos referidos no número anterior produz efeitos à data do despacho de nomeação, salvo se outra data for expressamente fixada.
+
+3 - O despacho de nomeação, devidamente fundamentado, é publicado no Jornal Oficial da Região Autónoma da Madeira, juntamente com uma nota relativa ao currículo académico e profissional do nomeado.
+
+4 - Com a designação, os dirigentes superiores assumem os objetivos anuais e plurianuais definidos para o serviço, constantes do Quadro de Avaliação e Responsabilização (QUAR), reapreciado na altura, se necessário, sobre o qual assenta a avaliação do respetivo serviço.
+
+5 - O disposto no artigo 33.º da Lei n.º 49/99, de 22 de Junho, aplica-se a todos os que exerçam as funções de dirigente máximo dos serviços, que se encontrem nessas funções até à data da entrada em vigor do presente diploma e que preencham os correspondentes requisitos até à cessação da respectiva comissão de serviço.
+
+6 - O provimento nos cargos de direção intermédia da administração regional autónoma da Madeira será feito por despacho do membro do Governo Regional competente, em comissão de serviço, pelo período de três anos, renovável por iguais períodos.
+
+7 - A formação a que se refere o artigo 12.º da Lei n.º 2/2004, de 15 de Janeiro, é obrigatória para os dirigentes cuja primeira nomeação em funções de direcção venha a ocorrer a partir da entrada em vigor do presente diploma.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 27/2006/M - Diário da República n.º 135/2006, Série I de 2006-07-14](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2006-537430), em vigor a partir de 2006-07-15
+
+###### Artigo 5.º-A — Cessação e suspensão da comissão de serviço dos dirigentes superiores
+
+1 - Para além das demais situações legalmente previstas, a comissão de serviço dos dirigentes superiores cessa pela mudança de Governo Regional, podendo a mesma vir a ser confirmada no prazo máximo de 45 dias após a posse do membro do Governo Regional competente, e por seu despacho, abrangendo o período de tempo que faltar para o termo do triénio que se encontre a decorrer.
+
+2 - A comissão de serviço dos titulares de cargos de direção superior de 2.º grau suspende-se sempre que estes sejam nomeados para cargos dirigentes cuja comissão de serviço possa cessar pela mudança de Governo Regional, sem prejuízo da aplicação do disposto no artigo 26.º-A da Lei n.º 2/2004, de 15 de janeiro, na redação conferida pela Lei n.º 64/2011, de 22 de dezembro.
+
+3 - O disposto no artigo 26.º da Lei n.º 2/2004, de 15 de janeiro, na redação conferida pela Lei n.º 51/2005, de 30 de agosto, não é aplicável, em qualquer caso, à cessação de comissão de serviço dos dirigentes superiores.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 5.º-B — Designação em regime de substituição
+
+1 - Os cargos dirigentes podem ser exercidos em regime de substituição nos casos de ausência ou impedimento do respetivo titular quando se preveja que estes condicionalismos persistam por mais de 60 dias ou em caso de vacatura do lugar.
+
+2 - A designação em regime de substituição para o exercício de cargos de direção superior e de direção intermédia é feita, respetivamente, nos termos do disposto nos n.os 1 e 6 do artigo 5.º e no n.º 13 do artigo 4.º-A, devendo ser observados todos os requisitos legais exigidos para o provimento do cargo, com exceção do procedimento concursal.
+
+3 - A substituição cessa na data em que o titular retome funções ou passados 90 dias sobre a data da vacatura do lugar, salvo se estiver em curso procedimento tendente à designação de novo titular, caso em que a nomeação em substituição se mantém até ao provimento do respetivo cargo, não podendo, porém, ultrapassar o prazo de 45 dias após a entrega pelo júri da proposta de designação ao respetivo membro do Governo.
+
+4 - A substituição pode ainda cessar, a qualquer momento, por decisão da entidade competente ou a pedido do substituto, logo que deferido.
+
+5 - Os prazos referidos no n.º 3 são interrompidos na data da convocação das eleições para a Assembleia Legislativa da Madeira ou da demissão do Governo Regional, retomando-se com a investidura parlamentar do novo Governo.
+
+6 - O período de substituição conta, para todos os efeitos legais, como tempo de serviço prestado no cargo anteriormente ocupado, bem como no lugar de origem.
+
+7 - O substituto tem direito à totalidade das remunerações e demais abonos e regalias atribuídos pelo exercício do cargo do substituído, independentemente da libertação das respetivas verbas por este, sendo os encargos suportados pelas correspondentes dotações orçamentais.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 6.º — Renovação da comissão de serviço dos cargos de direcção intermédia
+
+Para efeitos de eventual renovação da comissão de serviço dos titulares de cargos de direcção intermédia, os serviços respectivos darão conhecimento ao membro do Governo Regional competente, com a antecedência mínima de 90 dias, do termo da respectiva comissão.
+
+###### Artigo 7.º — Efectivação do direito de acesso na carreira
+
+O acesso na carreira a que se refere o n.º 2 do artigo 29.º da Lei n.º 2/2004, de 15 de Janeiro, efectiva-se, na administração regional autónoma da Madeira, mediante despacho do membro do Governo Regional de que depende o serviço ou organismo de origem, precedido de confirmação dos respectivos pressupostos pelo serviço competente em matéria de recursos humanos do respectivo departamento governamental.
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 8.º — Substituição do secretário-geral da Presidência do Governo Regional
+
+O secretário-geral da Presidência do Governo Regional será substituído, nas suas faltas ou impedimentos, nos termos estabelecidos pelo Presidente do Governo Regional.
+
+###### Artigo 9.º — Opção de remuneração
+
+O pessoal dirigente pode optar pelo vencimento ou remuneração-base da função, cargo ou categoria de origem em que se encontrava à data do provimento, acrescido das despesas de representação a que tiver direito, correspondentes ao respetivo cargo dirigente, não podendo, todavia, exceder, em caso algum, o vencimento-base do Presidente do Governo Regional, sem prejuízo de outro limite legalmente aplicável.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 10.º — Adaptação de competências
+
+As competências atribuídas na Lei n.º 2/2004, de 15 de janeiro, a membros do Governo e ao Conselho de Ministros reportam-se, respetivamente, aos correspondentes membros do Governo Regional com competência nas áreas em causa e ao Conselho do Governo Regional, com exceção das referências constantes dos artigos 12.º e 31.º da dita lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 10.º-A — Formação profissional específica
+
+Os cursos de formação específica de dirigentes podem ser assegurados pelo serviço com competência em matéria de formação profissional dos trabalhadores em funções públicas da administração regional e obedecer às áreas de competência, condições de acesso e demais regulamentação, conforme portaria dos membros do Governo Regional responsáveis pelas áreas das finanças e da Administração Pública, sem prejuízo do previsto nos n.os 2 e 3 do artigo 12.º da Lei n.º 2/2004, de 15 de janeiro, na redação conferida pela Lei n.º 64/2011, de 22 de dezembro.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 11.º — Publicitação
+
+As referências feitas na Lei n.º 2/2004, de 15 de Janeiro, ao Diário da República, consideram-se reportadas ao Jornal Oficial da Região Autónoma da Madeira.
+
+###### Artigo 11.º-A — Prazos
+
+São contados de forma continuada quaisquer prazos respeitantes à comissão de serviço do pessoal dirigente, suas vicissitudes e respetivas formalidades, bem como os que respeitem à designação em regime de substituição.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto Legislativo Regional n.º 27/2016/M - Diário da República n.º 128/2016, Série I de 2016-07-06](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/27-2016-74878702), em vigor a partir de 2016-07-07
+
+###### Artigo 12.º — Prevalência
+
+O presente decreto legislativo regional prevalece sobre quaisquer disposições gerais ou especiais relativas aos diversos serviços e organismos da administração regional autónoma da Madeira.
+
+###### Artigo 13.º — Revogação
+
+É revogado o Decreto Legislativo Regional n.º 15/2000/M, de 8 de Julho.
+
+###### Artigo 14.º — Entrada em vigor
+
+O presente diploma entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 23 de Março de 2004.
+
+O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.
+
+Assinado em 6 de Abril de 2004.
+
+Publique-se.
+
+O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.

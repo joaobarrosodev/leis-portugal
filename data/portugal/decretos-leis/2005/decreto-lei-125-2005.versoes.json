@@ -1,0 +1,126 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:240378:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2005-211058670",
+ "dre_path": "/dr/detalhe/decreto-lei/125-2005-240378",
+ "source_lastmod": "2025-10-16",
+ "versions": [
+  {
+   "date": "2005-08-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "211059187",
+    "211059188",
+    "211059189",
+    "211059190",
+    "211059191",
+    "211059192"
+   ]
+  },
+  {
+   "date": "2007-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520669:por",
+     "title": "Decreto-Lei n.º 187/2007",
+     "published": "2007-05-10",
+     "dre_path": "/dr/detalhe/decreto-lei/187-2007-520669"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º"
+   ],
+   "fragments": [
+    "211059187",
+    "939527172",
+    "939527173",
+    "211059190",
+    "211059191",
+    "211059192",
+    "211059193"
+   ]
+  }
+ ],
+ "fragments": {
+  "211059187": {
+   "fragment_id": "211058671",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 125/2005\n\nde 3 de Agosto\n\nOs indicadores da evolução demográfica mundial no que se refere ao aumento da esperança de vida conduzem, inevitavelmente, ao reconhecimento da existência de um novo contexto social em que é preciso garantir as condições para que se promova o envelhecimento activo da população, fomentando a sua permanência no mercado de trabalho e prolongando a sua carreira contributiva.\n\nA fim de garantir a sustentabilidade do sistema de segurança social, é necessário proceder, periodicamente, à avaliação das medidas relativas à flexibilização, por antecipação da idade da reforma, podendo as mesmas ser ajustadas de acordo com a conjuntura económica e social, tendo em conta os seus efeitos financeiros directos sobre o sistema de segurança social.\n\nImporta, com efeito, garantir que as medidas de flexibilização, por antecipação da idade da reforma, não sejam susceptíveis de promover ou constituir situações deficitárias no sistema de financiamento da segurança social que se vão acumulando ao longo dos anos.\n\nPese embora que o Decreto-Lei n.º 9/99, de 8 de Janeiro, que introduziu no quadro legal as medidas de flexibilização da idade da reforma, tenha previsto a revisão deste regime no terceiro ano posterior à sua entrada em vigor, a mesma nunca foi efectuada.\n\nOs estudos actuariais, entretanto realizados, demonstram que o facto de redução no cálculo da pensão antecipada de reforma actualmente em vigor é insuficiente para assegurar um adequado equilíbrio financeiro destas responsabilidades.\n\nAssim, considerando, por um lado, que a antecipação da idade de acesso à pensão por velhice pressupõe a existência de adequado suporte financeiro para o efeito e, por outro, que as medidas de envelhecimento activo não podem ser dissociadas das medidas de flexibilização da idade da reforma, suspende-se a vigência das normas que prevêem a flexibilização da idade da pensão de velhice por antecipação, devendo proceder-se, até ao final do ano de 2006, aos respectivos estudos actuariais e à avaliação da evolução da conjuntura económica e social e da sustentabilidade da segurança social.\n\nImporta, ainda, proceder à revogação do regime de antecipação da idade de acesso à pensão por velhice a partir dos 58 anos, previsto no Decreto-Lei n.º 84/2003, de 24 de Abril.\n\nCom efeito, esta medida, ao introduzir mais um mecanismo que incentiva a retirada precoce do mercado de trabalho dos beneficiários activos, não está em sintonia com os objectivos constantes do Programa do XVII Governo Constitucional no sentido da promoção do envelhecimento activo e acarreta, igualmente, efeitos negativos sobre a sustentabilidade financeira da segurança social.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido na Lei n.º 32/2002, de 20 de Dezembro, e nos termos das alíneas a) e c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "211059188": {
+   "fragment_id": "211058672",
+   "type": 11,
+   "heading": "Artigo 1.º — Suspensão do regime de flexibilização da idade de pensão por velhice por antecipação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Suspensão do regime de flexibilização da idade de pensão por velhice por antecipação\n\n1 - É suspensa a vigência das normas constantes do n.º 2 do artigo 23.º, do n.º 2 do artigo 26.º e dos n.os 1 a 4 do artigo 38.º-A do Decreto-Lei n.º 329/93, de 25 de Setembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 9/99, de 8 de Janeiro, 437/99, de 29 de Outubro, e 35/2002, de 19 de Fevereiro, que estabelece o regime jurídico de protecção na velhice e invalidez dos beneficiários do regime geral de segurança social.\n\n2 - O disposto do número anterior não prejudica a aplicação das normas relativas ao cálculo da pensão estatutária constantes do artigo 38.º-A do Decreto-Lei n.º 329/93, de 5 de Setembro, quando essa aplicação seja prevista, por remissão, noutros diplomas."
+  },
+  "211059189": {
+   "fragment_id": "211058673",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação do regime de flexibilização da idade da reforma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Avaliação do regime de flexibilização da idade da reforma\n\n1 - Até 31 de Dezembro de 2006, de acordo com os resultados dos estudos actuariais a efectuar, com a evolução do contexto económico e social e da sustentabilidade da segurança social, proceder-se-á à avaliação das normas que estabelecem o regime de flexibilização da idade de acesso à pensão de reforma por antecipação.\n\n2 - O enquadramento jurídico da flexibilização da idade da reforma por antecipação é definido após a conclusão dos estudos referidos no número anterior."
+  },
+  "211059190": {
+   "fragment_id": "211058674",
+   "type": 11,
+   "heading": "Artigo 3.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Norma revogatória\n\nÉ revogado o artigo 13.º do Decreto-Lei n.º 84/2003, de 24 de Abril."
+  },
+  "211059191": {
+   "fragment_id": "211059775",
+   "type": 11,
+   "heading": "Artigo 4.º — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Disposições finais e transitórias\n\n1 - Os requerimentos de flexibilização da idade da reforma formulados ao abrigo do n.º 2 do artigo 23.º do Decreto-Lei n.º 329/93, de 25 de Setembro, e do artigo 13.º do Decreto-Lei n.º 84/2003, de 24 de Abril, que tenham sido apresentados nos serviços de segurança social até à data da entrada em vigor do presente diploma são apreciados ao abrigo da legislação vigente no momento da sua apresentação.\n\n2 - Os trabalhadores desempregados que reúnam as condições cumulativas previstas nas alíneas a) e b) do artigo 13.º do Decreto-Lei n.º 84/2003, de 24 de Abril, e que à data da entrada em vigor do presente diploma tenham requerido ou estejam a receber subsídio de desemprego ou subsídio social de desemprego inicial mantêm o direito à antecipação da idade legal de acesso à pensão de velhice aos 58 anos nos termos previstos no artigo 13.º daquele diploma."
+  },
+  "211059192": {
+   "fragment_id": "211059776",
+   "type": 11,
+   "heading": "Artigo 5.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "939527172": {
+   "fragment_id": "211058672",
+   "type": 11,
+   "heading": "Artigo 1.º — Suspensão do regime de flexibilização da idade de pensão por velhice por antecipação",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 1.º — Suspensão do regime de flexibilização da idade de pensão por velhice por antecipação\n\n1 - É suspensa a vigência das normas constantes do n.º 2 do artigo 23.º, do n.º 2 do artigo 26.º e dos n.os 1 a 4 do artigo 38.º-A do Decreto-Lei n.º 329/93, de 25 de Setembro, com as alterações que lhe foram introduzidas pelos Decretos-Leis n.os 9/99, de 8 de Janeiro, 437/99, de 29 de Outubro, e 35/2002, de 19 de Fevereiro, que estabelece o regime jurídico de protecção na velhice e invalidez dos beneficiários do regime geral de segurança social.\n\n2 - O disposto do número anterior não prejudica a aplicação das normas relativas ao cálculo da pensão estatutária constantes do artigo 38.º-A do Decreto-Lei n.º 329/93, de 5 de Setembro, quando essa aplicação seja prevista, por remissão, noutros diplomas.\n\n> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01"
+  },
+  "939527173": {
+   "fragment_id": "211058673",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação do regime de flexibilização da idade da reforma",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 2.º — Avaliação do regime de flexibilização da idade da reforma\n\n1 - Até 31 de Dezembro de 2006, de acordo com os resultados dos estudos actuariais a efectuar, com a evolução do contexto económico e social e da sustentabilidade da segurança social, proceder-se-á à avaliação das normas que estabelecem o regime de flexibilização da idade de acesso à pensão de reforma por antecipação.\n\n2 - O enquadramento jurídico da flexibilização da idade da reforma por antecipação é definido após a conclusão dos estudos referidos no número anterior.\n\n> Revogado pelo/a Artigo 113.º do/a [Decreto-Lei n.º 187/2007 - Diário da República n.º 90/2007, Série I de 2007-05-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/187-2007-520669), em vigor a partir de 2007-06-01"
+  },
+  "211059193": {
+   "fragment_id": "211059777",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 23 de Junho de 2005. - José Sócrates Carvalho Pinto de Sousa - José António Fonseca Vieira da Silva.\n\nPromulgado em 21 de Julho de 2005.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 22 de Julho de 2005.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  }
+ }
+}

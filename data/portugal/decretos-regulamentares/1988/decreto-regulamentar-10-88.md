@@ -1,0 +1,233 @@
+---
+schema_version: '1.0'
+id: pt:dre:287606:por
+title: Decreto Regulamentar n.º 10/88
+short_title: null
+summary: Aprova a orgânica do Conselho Nacional de Cartografia (CNC)
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 10/88
+official_date: null
+publication_date: '1988-03-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 54/1988, Série I de 1988-03-05
+  number: '54'
+  series: I
+  supplement: null
+  pages: 786 - 788
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/03/05400/07860788.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '287606'
+  dre_path: /dr/detalhe/decreto-regulamentar/10-1988-287606
+  internal: pt:dre:287606:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1988-287606
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/10-1988-287606
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-10-02T00:00:00Z'
+integrity:
+  source_sha256: 2e8adf1876f9b71930a72ef44bca15a2826a6ea790f9a70f6837828344e7be92
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-10-287606.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:548408:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 10/88
+
+de 5 de Março
+
+A adesão de Portugal às Comunidades Europeias tem implícita e reforça a premente necessidade da modernização e desenvolvimento de inúmeras áreas da vida nacional, nomeadamente no âmbito do ordenamento do território, de que se destacam os sectores agrícola, florestal, das infra-estruturas viárias e industriais e ainda o dos equipamentos sociais.
+
+Na base do planeamento e programação dos sectores acima referenciados encontra-se a inerente cartografia, geométrica e temática, com especial relevo para os cadastros da propriedade rústica e urbana, estes últimos de primordial importância para o conhecimento e avaliação da riqueza e potencialidades da Nação.
+
+As permanentes necessidades nacionais nos domínios das cartografias básicas, derivadas e temáticas, com especial incidência para as topocadastrais, e o carácter polivalente das referidas produções cartográficas em relação às inúmeras actividades que devem apoiar obrigam a considerar:
+
+a) A elaboração de programas cartográficos plurianuais integrados, com as correspondentes consignações financeiras nos orçamentos do Estado e ou a beneficiar dos possíveis apoios de fundos comunitários e de outros de origem externa;
+
+b) A tomada das medidas estruturais concomitantes por forma a permitir o melhor aproveitamento e a coordenação das capacidades nacionais da produção e utilização cartográficas, repartidas convenientemente tanto pelo sector estatal como pelo privado;
+
+c) O arquivo, consulta e gestão do património cartográfico nacional, nas suas múltiplas variáveis e a possibilidade de acesso e utilização por parte da Administração e da comunidade científica e técnica, o que implica a existência de um arquivo nacional de dados aerofotográficos e de detecção remota e de um registo central de cartografia.
+
+Com a finalidade de responder às necessidades consideradas no número anterior foi, através do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, criado o Conselho Nacional de Cartografia, na dependência do Ministro do Planeamento e da Administração do Território.
+
+Assim:
+
+O Governo decreta, ao abrigo do artigo 75.º do [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, e nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo 1.º O Conselho Nacional de Cartografia, abreviadamente designado por CNC, criado pelo [Decreto-Lei n.º 130/86](https://diariodarepublica.pt/dr/detalhe/decreto-lei/130-1986-229097), de 7 de Junho, na dependência do Ministro do Planeamento e da Administração do Território, é um órgão de consulta e apoio do Governo para efeitos da definição e da execução das grandes linhas e orientações da política nacional de cartografia.
+
+###### Art. 2.º - 1 - Compete ao CNC:
+
+a) Pronunciar-se obrigatoriamente e apresentar propostas sobre a definição e a execução da política nacional de cartografia, tendo em vista as necessidades de desenvolvimento social, económico, regional e de defesa do País, respeitadas as orientações governamentais sobre a matéria e ainda os pareceres de cada instituição nele representada;
+
+b) Elaborar e apresentar planos e programas cartográficos de dimensão nacional a curto, médio e longo prazos, tendo em vista não apenas os seus aspectos técnicos, mas igualmente as suas envolventes económico-financeiras por forma a:
+
+1) Dar a conveniente realização à política nacional de cartografia aprovada superiormente;
+
+2) Coordenar a programação das pertinentes actividades a nível da administração central, regional, local e do sector privado, tendo em conta as competências definidas para os vários órgãos e entidades em cada domínio específico daquelas actividades;
+
+3) Considerar a mais correcta atribuição, descentralização e orientação das actividades cartográficas e tecnológicas afins a cometer aos vários serviços públicos e à actividade privada, de acordo com as suas capacidades actuais e potenciais, evitando duplicações e procurando a maior rentabilidade económica e social para o País, sem prejuízo dos indispensáveis requisitos de segurança;
+
+c) Apreciar e informar com carácter periódico relatórios sobre a execução dos planos e programas referidos na alínea anterior, tanto os cometidos directamente a departamentos do Estado com os adjudicados ao sector privado da especialidade;
+
+d) Propor e dar parecer sobre medidas legislativas, estruturais e técnico-normativas relativas à cartografia nacional, designadamente no referente a temáticas cartográficas, escalas, séries, normalizações toponímicas e outras, controle de qualidade da produção, termos de adjudicação de propostas, avaliação de custos e ainda das produtividades e da rentabilidade dos sistemas nacionais de cartografia;
+
+e) Dar parecer sobre a aquisição pelos serviços do Estado ou sobre o estabelecimento de facilidades de ordem fiscal ou de crédito para aquisição pelo sector privado de novos equipamentos que, pelo seu elevado custo ou por introduzirem novas tecnologias, possam ter significado no âmbito da cartografia nacional;
+
+f) Cooperar com os departamentos da administração central ou regional intervenientes nas relações com organismos das Comunidades Europeias ou com organizações estrangeiras relativamente a projectos cartográficos ou de detecção remota específicos candidatos ou já beneficiários de financiamentos por fundos daquelas organizações internacionais;
+
+g) Propor medidas tendentes:
+
+1) À introdução, desenvolvimento e aperfeiçoamento de sistemas cartográficos, fotogramétricos e de tecnologias afins, actualizados e acessíveis ao País, designadamente a utilização sistemática das técnicas informáticas de cálculo, digitalização e desenho automáticos;
+
+2) Ao melhor aproveitamento dos recursos disponíveis, de modo que, sem prejuízo da qualidade, sejam utilizados os serviços e sistemas que garantam maior produtividade e rentabilidade, sem afectar, na utilização dos meios militares, a sua missão prioritária;
+
+3) À normalização e simplificação de especificações, critérios e procedimentos técnicos, administrativos e de segurança;
+
+4) À conveniente divulgação, acesso e utilização pública da produção cartográfica nacional, com respeito pelas normas de segurança militar em vigor;
+
+h) Promover o fomento da exportação de serviços cartográficos e afins e das respectivas cooperações internacionais, tanto por parte de órgãos oficiais como privados da especialidade providenciando igualmente no sentido de garantir a qualidade dessas prestações de serviços;
+
+i) Promover, com o apoio de todos os organismos públicos e privados da especialidade e ainda do sector do ensino, o estudo, a investigação e o desenvolvimento nos domínios da cartografia e ainda das técnicas e ciências afins, tendo em vista, designadamente, a criação, manutenção e desenvolvimento de sistemas de informação geográfica;
+
+j) Apoiar e acompanhar a constituição de um registo central de cartografia e de um arquivo nacional de dados aerofotográficos e detecção remota, bem como a actividade do Sistema Nacional de Informação Geográfica;
+
+l) Fomentar a preparação e aperfeiçoamento dos técnicos das várias especialidades cartográficas e afins.
+
+2 - Consideram-se actividades cartográficas os trabalhos e estudos de cartografia geral e temática no seu sentido restrito, cartografia matemática, geodesia, topografia, fotogrametria, cadastro geométrico e as diversas técnicas de apoio pela detecção remota, nomeadamente a fotografia aérea, espacial e terrestre, o aeromagnetismo e a radiometria, bem como a reprodução e o tratamento científico e técnico de todos os dados e documentação ligados a estas disciplinas.
+
+###### Art. 3.º - 1 - O CNC é composto por:
+
+a) Um presidente, nomeado pelo Ministro do Planeamento e da Administração do Território;
+
+b) Três individualidades de reconhecida competência nos domínios em causa, nomeadas pelo Ministro do Planeamento e da Administração do Território;
+
+c) Um representante de cada uma das regiões autónomas, a designar pelos respectivos governos;
+
+d) Um representante de cada comissão de coordenação regional, a designar pelos respectivos presidentes;
+
+e)Representantes, no número indicado, de cada um dos organismos e serviços a seguir mencionados, a designar pelos membros do Governo de que dependem:
+
+Ministério da Defesa Nacional - 4;
+
+Ministério dos Negócios Estrangeiros - 1;
+
+Ministério das Obras Públicas, Transportes e Comunicações - 3;
+
+Centro Nacional de Informação Geográfica - 1;
+
+Instituto Geográfico e Cadastral - 1;
+
+Direcção-Geral dos Recursos Naturais - 1;
+
+Laboratório Nacional de Engenharia Civil - 1;
+
+Centro Nacional de Reconhecimento e Ordenamento Agrário - 1;
+
+Direcção-Geral de Hidráulica e Engenharia Agrícola - 1;
+
+Instituto Nacional de Estatística - 1;
+
+Direcção-Geral das Florestas - 1;
+
+Instituto de Investigação Científica Tropical - 1;
+
+Direcção-Geral do Desenvolvimento Regional - 1;
+
+Direcção-Geral do Ordenamento do Território - 1;
+
+Junta Nacional de Investigação Científica e Tecnológica - 1;
+
+Direcção-Geral de Geologia e Minas - 1;
+
+f) Um professor catedrático de Engenharia Geográfica, a designar pelo Conselho de Reitores;
+
+g) Um representante da Associação de Indústria de Fotogrametria, Cartografia e Topografia;
+
+h) Um representante da Associação Portuguesa de Fotogrametria e Detecção Remota;
+
+i) O presidente da Secção Portuguesa da União Internacional de Astronomia, Geodesia e Geofísica;
+
+j) Um representante da Associação Nacional de Municípios.
+
+2 - O mandato dos membros é de três anos, renováveis.
+
+3 - No caso de a estrutura orgânica do Governo o justificar, podem ainda ser nomeados membros do CNC representantes de outros departamentos governamentais, por despacho conjunto do Ministro do Planeamento e da Administração do Território e do ministro respectivo.
+
+4 - O presidente do CNC poderá convidar a fazerem-se representar nas reuniões do Conselho quaisquer entidades ou personalidades cuja participação seja considerada conveniente.
+
+###### Art. 4.º - 1 - O CNC dispõe de um secretário, que participa nas reuniões do Conselho sem direito a voto, salvo se for membro do CNC.
+
+2 - O secretário do CNC é nomeado por despacho do Ministro do Planeamento e da Administração do Território.
+
+###### Art. 5.º - 1 - O CNC reunirá em plenário, por convocação do seu presidente, pelo menos duas vezes por ano.
+
+2 - As normas referentes ao funcionamento do CNC serão objecto de regimento aprovado pelo Conselho.
+
+###### Art. 6.º - 1 - Até à entrada em funcionamento do Centro Nacional de Informação Geográfica, o apoio é assegurado pela Secretaria-Geral do Ministério do Planeamento e da Administração do Território.
+
+2 - Na prossecução das suas atribuições, o CNC pode solicitar o apoio e a colaboração técnica dos organismos estatais de coordenação, financiamento e execução de cartografia.
+
+Aníbal António Cavaco Silva - Lino Dias Miguel - Vasco Joaquim Rocha Vieira - Eurico Silva Teixeira de Melo - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - João de Deus Rogado Salvador Pinheiro - Álvaro Roque de Pinho Bissaia Barreto - Luís Fernando Mira Amaral - Roberto Artur da Luz Carneiro - João Maria Leitão de Oliveira Martins.
+
+**Promulgado em 18 de Fevereiro de 1988.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 22 de Fevereiro de 1988.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

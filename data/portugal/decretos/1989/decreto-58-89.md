@@ -1,0 +1,176 @@
+---
+schema_version: '1.0'
+id: pt:dre:549816:por
+title: Decreto n.º 58/89
+short_title: null
+summary: Aprova o Protocolo Adicional ao Acordo de Cooperação Científica e Técnica nos Domínios do Ambiente e Recursos Naturais
+  entre a República Portuguesa e a República da Guiné-Bissau
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 58/89
+official_date: null
+publication_date: '1989-11-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 263/1989, Série I de 1989-11-15
+  number: '263'
+  series: I
+  supplement: null
+  pages: 5001 - 5002
+  pdf_url: https://files.diariodarepublica.pt/1s/1989/11/26300/50015002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '549816'
+  dre_path: /dr/detalhe/decreto/58-1989-549816
+  internal: pt:dre:549816:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/58-1989-549816
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/58-1989-549816
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1989-11-15T00:00:00Z'
+integrity:
+  source_sha256: df0ef1566561307cfca1b6f909ce1fc079523d0f2369bfea0a19dcb13089beed
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1989/DRE-1989-58-549816.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 6
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 58/89
+
+de 15 de Novembro
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único. É aprovado o Protocolo Adicional ao Acordo de Cooperação Científica e Técnica nos Domínios do Ambiente e dos Recursos Naturais entre a República Portuguesa e a República da Guiné-Bissau, feito em Bissau a 5 de Março de 1989, cujo texto original segue em anexo ao presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 12 de Outubro de 1989. - Aníbal António Cavaco Silva - José Manuel Nunes Liberato - João de Deus Rogado Salvador Pinheiro.
+
+**Assinado em 31 de Outubro de 1989.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 6 de Novembro de 1989.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**
+
+PROTOCOLO ADICIONAL AO ACORDO DE COOPERAÇÃO CIENTÍFICA E TÉCNICA NOS DOMÍNIOS DO AMBIENTE E DOS RECURSOS NATURAIS ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DA GUINÉ-BISSAU.
+
+A República Portuguesa e a República da Guiné-Bissau, em conformidade com os princípios informadores do Acordo de Cooperação Científica e Técnica celebrado entre os dois países e no desejo de contribuírem para a realização de objectivos de interesse comum, acordam, pelo presente Protocolo, os princípios pelos quais se regerá a cooperação nos domínios do ambiente e dos recursos naturais.
+
+###### Artigo 1.º — Objecto
+
+1 - A República Portuguesa e a República da Guiné-Bissau, adiante designadas Partes, estabelecem, neste Protocolo, formas de cooperação com vista ao aproveitamento das respectivas capacidades na resolução de problemas que se apresentam nos domínios da organização e estruturas funcionais, abastecimento de águas, hidrologia, aproveitamentos hidráulicos, sistemas de esgotos, áreas protegidas, arborização, conservação da Natureza e defesa do consumidor.
+
+2 - São executantes deste Protocolo, pela Parte Portuguesa, os departamentos da área do ambiente e dos recursos naturais do Ministério do Planeamento e da Administração do Território e o Instituto para a Cooperação Económica (ICE) do Ministério dos Negócios Estrangeiros e, pela Parte Guineense, a Secretaria de Estado dos Recursos Naturais (SERN).
+
+###### Artigo 2.º — Acções de cooperação
+
+As acções de cooperação a empreender inserir-se-ão nos domínios referidos no artigo 1.º, sem prejuízo de outras que venham a ser posteriormente definidas pelas Partes, e terão as seguintes finalidades:
+
+a) Execução dos programas de trabalhos técnicos;
+
+b) Formação durante o emprego de técnicos e pessoal não qualificado;
+
+c) Formação técnica e regime de estágio nos departamentos da área do ambiente e dos recursos naturais;
+
+d) Reestruturação dos serviços da SERN nos domínios referidos no artigo 1.º;
+
+e) Troca regular de informações de carácter científico e técnico e sobre reuniões nacionais e internacionais nos domínios do presente Protocolo, ressalvando aquelas resguardadas pelo segredo de Estado em cada uma.
+
+###### Artigo 3.º — Gestão e programação
+
+1 - A gestão deste Protocolo caberá a uma Comissão Coordenadora, com carácter permanente, que se reunirá uma vez por ano, alternadamente em Lisboa e Bissau.
+
+2 - A Comissão Coordenadora integrará um membro de cada instituição, competindo-lhe:
+
+a) Elaborar os programas de trabalho anuais tendo presentes os programas quadros de cooperação plurianuais entre os dois países; aqueles programas de trabalho deverão estar definidos até 30 de Novembro do ano anterior ao da sua execução;
+
+b) Submeter aos órgãos directivos de cada instituição o programa de trabalho anual, suficientemente detalhado e fundamentado, principalmente no que respeita à definição dos recursos humanos, técnicos e financeiros necessários, de modo que possa ser aprovado até 30 de Dezembro seguinte;
+
+c) Velar pelo cumprimento dos programas aprovados e elaborar até 31 de Janeiro de cada ano um relatório sobre as actividades realizadas, com eventuais propostas para a melhoria da cooperação.
+
+###### Artigo 4.º — Encargos e financiamento
+
+O suporte financeiro das acções a desenvolver no âmbito deste Protocolo, constantes dos programas aprovados, será assegurado pela conjugação das disponibilidades de verbas das instituições portuguesas com as possibilidades da SERN e da aplicação de demais verbas de âmbito bilateral ou multilateral, que para o efeito venham a ser consignadas, respeitando-se, porém, os seguintes princípios:
+
+1) Serão suportados pela Parte Portuguesa, através dos departamentos da área do ambiente e dos recursos naturais, os encargos referentes à assistência técnica relativa a qualquer dos domínios referidos no artigo 1.º e à formação e aperfeiçoamento dos quadros da SERN ou outros a acordar entre as Partes, podendo caso a caso ser encarado um financiamento do ICE;
+
+2) A Parte Portuguesa, através do ICE, suportará os encargos com as acções de formação a levar a efeito em Portugal, através da concessão de bolsas, de acordo com os programas de trabalho anuais que venham a ser estabelecidos;
+
+3) São da responsabilidade da Parte Guineense, através da SERN, por trabalhos a conduzir no seu território por pessoal português:
+
+a) A obtenção dos meios de transporte necessários para as deslocações locais;
+
+b) As autorizações para as deslocações no país, sempre que necessárias;
+
+c) A garantia de alojamento compatível com a categoria do pessoal a deslocar nas missões de cooperação;
+
+d) Assistência médica e medicamentosa;
+
+e) Apoio técnico e administrativo para o bom êxito das missões, nomeadamente a cedência do pessoal necessário ao acompanhamento dos trabalhos;
+
+f) O pagamento dos direitos alfandegários e outras taxas relativas à importação temporária dos equipamentos e demais material necessário aos trabalhos a desenvolver;
+
+g) A eventual colaboração de outras entidades oficiais e serviços públicos locais.
+
+###### Artigo 5.º — Duração do Protocolo
+
+O presente Protocolo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica interna de cada uma das Partes e será válido por um período de um ano, automaticamente renovável, podendo ser denunciado por qualquer das Partes mediante comunicação escrita à outra, com uma antecedência mínima de 90 dias relativamente ao termo do período inicial ou da prorrogação.
+
+Feito em Bissau, aos 5 de Março de 1989, em dois exemplares em língua portuguesa, fazendo ambos igualmente fé.
+
+Pela República Portuguesa:
+
+José Manuel Durão Barroso, Secretário de Estado dos Negócios Estrangeiros e da Cooperação.
+
+Pela República da Guiné-Bissau:
+
+(Assinatura ilegível), Secretário de Estado da Presidência dos Assuntos Económicos e Cooperação Internacional.

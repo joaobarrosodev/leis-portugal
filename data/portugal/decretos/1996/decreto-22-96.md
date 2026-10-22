@@ -1,0 +1,207 @@
+---
+schema_version: '1.0'
+id: pt:dre:405313:por
+title: Decreto n.º 22/96
+short_title: null
+summary: Aprova o Protocolo de Cooperação no Domínio Eleitoral entre a República Portuguesa e a República de Cabo Verde
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros
+proposing_entity: null
+official_number: 22/96
+official_date: null
+publication_date: '1996-08-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 186/1996, Série I-A de 1996-08-12
+  number: '186'
+  series: I
+  supplement: null
+  pages: 2484 - 2485
+  pdf_url: https://files.diariodarepublica.pt/1s/1996/08/186a00/24842485.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec/22/1996/08/12/p/dre/pt/html
+  oj: null
+  dre: '405313'
+  dre_path: /dr/detalhe/decreto/22-1996-405313
+  internal: pt:dre:405313:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1996-405313
+  metadata_url: https://data.dre.pt/eli/dec/22/1996/08/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/22-1996-405313
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1996-08-12T00:00:00Z'
+integrity:
+  source_sha256: 74435dd22fe0a888babed8fc424e1f4f37f89d06a3a984af9d4b47ebdadee67e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1996/DRE-1996-22-405313.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Eleição
+- Convenção
+- Portugal
+- Cabo Verde
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 22/96
+
+de 12 de Agosto
+
+Nos termos da alínea c) do n.º 1 do artigo 200.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo único
+
+É aprovado o Protocolo de Cooperação no Domínio Eleitoral entre a República Portuguesa e a República de Cabo Verde, assinado em Lisboa aos 18 de Julho de 1995, cuja versão autêntica, em língua portuguesa, segue em anexo.
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1996. - António Manuel de Oliveira Guterres - Jaime José Matos de Gama - Alberto Bernardes Costa.
+
+**Assinado em 19 de Julho de 1996.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 22 de Julho de 1996.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**
+
+PROTOCOLO DE COOPERAÇÃO NO DOMÍNIO ELEITORAL ENTRE A REPÚBLICA PORTUGUESA E A REPÚBLICA DE CABO VERDE
+
+A República Portuguesa e a República de Cabo Verde, no âmbito das disposições do Acordo Geral da Cooperação entre os dois Estados e com o objectivo de contribuírem para a realização de objectivos comuns, acordam pelo presente Protocolo os princípios gerais que irão regular as acções de cooperação entre os dois países no âmbito eleitoral.
+
+1.º
+
+Objecto
+
+O presente Protocolo visa estabelecer o âmbito e modalidades de cooperação a prosseguir através das unidades orgânicas dos ministérios subscritores competentes em matéria eleitoral: o Secretariado Técnico dos Assuntos para o Processo Eleitoral, pela Parte Portuguesa, e a Direcção-Geral de Administração Local, pela Parte de Cabo Verde.
+
+2.º
+
+Âmbito
+
+As acções de cooperação a realizar inscrever-se-ão nos domínios a seguir enunciados, sem prejuízo de outros que, no futuro, venham pelas Partes a ser reconhecidos de interesse mútuo:
+
+a) Estruturação e aperfeiçoamento das unidades orgânicas, central e local, vocacionadas para a organização, execução e apoio técnico em matéria eleitoral, tendo em vista a sua articulação e a melhoria dos seus métodos de trabalho e funcionamento;
+
+b) Estudo e aperfeiçoamento do sistema e processo de recenseamento eleitoral;
+
+c) Estudo e aperfeiçoamento do sistema e processo eleitoral;
+
+d) Apoio à informatização dos serviços eleitorais;
+
+e) Formação de quadros no domínio eleitoral;
+
+f) Fornecimento de equipamento eleitoral, nos termos a acordar caso a caso.
+
+3.º
+
+Modalidades de actuação
+
+As acções de cooperação a estabelecer nos domínios atrás mencionados desenvolver-se-ão segundo as prioridades definidas nos programas e projectos aprovados em sede de Comissão Mista Permanente de Cooperação Bilateral, designadamente através das seguintes modalidades de actuação:
+
+a) Formação profissional, através de estágios, cursos de formação ou seminários a realizar em Portugal ou, preferencialmente, em Cabo Verde, incluindo o acompanhamento técnico na sua efectivação;
+
+b) Assistência técnica no domínio da elaboração legislativa e da documentação de apoio aos processos eleitorais e de recenseamento e, bem assim, no âmbito informático e logístico;
+
+c) Intercâmbio de informação e de documentação;
+
+d) Prestação de consultoria nas áreas que venham a ser identificadas, definindo-se na oportunidade os termos e condições em que essa consultoria será prestada.
+
+4.º
+
+Disposições financeiras
+
+1 - As acções constantes dos programas estabelecidos nos termos do artigo anterior para execução do presente Protocolo serão financeiramente suportadas pela conjugação das verbas disponíveis pelas Partes e demais dotações para o efeito consignadas.
+
+2 - A Parte Portuguesa, através do Instituto da Cooperação Portuguesa, comparticipará nos encargos com acções de formação a efectuar em Portugal mediante a concessão de bolsas de estudo, as quais serão solicitadas por via diplomática e dentro do contingente geral anualmente colocado à disposição das autoridades de Cabo Verde pela cooperação portuguesa.
+
+3 - Nas acções a realizar em Cabo Verde, serão suportados pela Parte Cabo-Verdiana os seguintes encargos:
+
+a) Obtenção de meios de transporte necessários às deslocações internas;
+
+b) Alojamento compatível com a categoria do pessoal deslocado e respectiva alimentação;
+
+c) Assistência médica e medicamentosa;
+
+d) Apoio técnico e administrativo para o bom êxito das missões, designadamente na cedência do pessoal necessário ao acompanhamento dos trabalhos;
+
+e) Colaboração das entidades e serviços públicos locais.
+
+4 - Os custos das viagens dos técnicos e das missões cabo-verdianas serão suportados pela Parte de Cabo Verde.
+
+5 - Cada uma das Partes suportará os encargos decorrentes da permuta de informação técnica.
+
+5.º
+
+Gestão
+
+1 - A gestão do presente Protocolo competirá a uma comissão coordenadora, com carácter permanente, que integrará um membro do Secretariado Técnico dos Assuntos para o Processo Eleitoral e outro do Instituto da Cooperação Portuguesa, pela Parte Portuguesa, e um membro da Direcção-Geral de Administração Local, pela Parte Cabo-Verdiana, e à qual incumbe:
+
+a) Elaborar os programas de trabalhos anuais;
+
+b) Zelar pelo cumprimento dos programas;
+
+c) Elaborar no final de cada período de vigência um relatório das actividades desenvolvidas, com eventuais propostas de correcções e melhorias a introduzir na acção futura a desenvolver, que deverá estar concluído até 90 dias após o termo de cada período de vigência do Protocolo.
+
+2 - Para efeito do disposto no número anterior, a comissão coordenadora deverá reunir uma vez por ano, alternadamente em Portugal e em Cabo Verde.
+
+3 - O programa de trabalhos incluirá a definição concreta das acções a desenvolver, bem como a definição dos meios financeiros ou outros necessários, sendo submetido à apreciação das entidades governamentais respectivas de modo a estar aprovado até 30 dias antes do termo de cada período de vigência.
+
+4 - No final de cada acção desenvolvida, o seu responsável elaborará um relatório, a apresentar às Partes signatárias no prazo de 15 dias contados da data da sua conclusão.
+
+6.º
+
+Vigência
+
+O presente Protocolo entrará em vigor na data da última notificação do cumprimento das formalidades exigidas pela ordem jurídica de cada uma das Partes Contratantes e terá uma vigência temporal de dois anos, sendo automaticamente prorrogado, podendo, contudo, ser denunciado por qualquer das Partes mediante comunicação escrita à outra com uma antecedência mínima de 180 dias.
+
+Feito em Lisboa, aos 18 de Julho de 1995, em dois originais, em língua portuguesa, ambos fazendo igualmente fé.
+
+Pela República Portuguesa:
+
+Carlos Manuel Sousa Encarnação, Secretário de Estado Adjunto do Ministro da Administração Interna.
+
+Pela República de Cabo Verde:
+
+José Ulisses Correia da Silva, Secretário de Estado das Finanças.

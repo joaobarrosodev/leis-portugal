@@ -1,0 +1,486 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:344231:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2010-184538175",
+ "dre_path": "/dr/detalhe/portaria/854-2010-344231",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2010-09-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "184492911",
+    "184492912",
+    "184492913",
+    "184492914",
+    "184492915",
+    "184492916",
+    "184492917",
+    "184492918",
+    "184492919",
+    "184492920",
+    "184492921",
+    "184492922",
+    "184492923",
+    "184492924",
+    "184492925",
+    "184492926",
+    "184492927",
+    "184492928",
+    "184492929",
+    "184492930",
+    "184492931",
+    "184492932",
+    "184492933",
+    "184492934",
+    "184492935",
+    "184492936"
+   ]
+  },
+  {
+   "date": "2022-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:184507386:por",
+     "title": "Portaria n.º 158/2022",
+     "published": "2022-06-07",
+     "dre_path": "/dr/detalhe/portaria/158-2022-184507386"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 24.º",
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "184492911",
+    "184492912",
+    "184492913",
+    "184492914",
+    "184492915",
+    "184492916",
+    "184492917",
+    "184492937",
+    "184492938",
+    "184492939",
+    "184492945",
+    "184492941",
+    "184492942",
+    "184492946",
+    "184492947",
+    "184492948",
+    "184492919",
+    "184492960",
+    "184492961",
+    "184492922",
+    "184492949",
+    "184492950",
+    "184492925",
+    "184492926",
+    "184492927",
+    "184492928",
+    "184492929",
+    "184492951",
+    "184492952",
+    "184492932",
+    "184492953",
+    "184492934",
+    "184492954",
+    "184492955"
+   ]
+  }
+ ],
+ "fragments": {
+  "184492911": {
+   "fragment_id": "184538176",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 854/2010\n\nde 6 de Setembro\n\nA requerimento do Instituto Politécnico de Lisboa e das suas Escolas Superiores de Educação e de Música de Lisboa;\n\nColhido o parecer favorável da Comissão Nacional de Acesso ao Ensino Superior;\n\nAo abrigo do disposto nos n.os 3 e 4 do artigo 27.º do Decreto-Lei n.º 296-A/98, de 25 de Setembro, alterado pelos Decretos-Leis n.os 99/99, de 30 de Março, 26/2003, de 7 de Fevereiro, 76/2004, de 27 de Março, 158/2004, de 30 de Junho, 147-A/2006, de 31 de Julho, 40/2007, de 20 de Fevereiro, 45/2007, de 23 de Fevereiro, e 90/2008, de 30 de Maio, e rectificado pela Declaração de Rectificação n.º 32-C/2008, de 16 de Junho:\n\nManda o Governo, pelo Ministro da Ciência, Tecnologia e Ensino Superior, o seguinte:"
+  },
+  "184492912": {
+   "fragment_id": "184538177",
+   "type": 11,
+   "heading": "Artigo 1.º — Concurso local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Concurso local\n\nA candidatura à matrícula e inscrição no ciclo de estudos conducente ao grau de licenciado em Música na Comunidade ministrado pelas Escolas Superiores de Educação e de Música do Instituto Politécnico de Lisboa é objecto de concurso local."
+  },
+  "184492913": {
+   "fragment_id": "184538178",
+   "type": 11,
+   "heading": "Artigo 2.º — Aprovação do Regulamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aprovação do Regulamento\n\nÉ aprovado o Regulamento do Concurso Local para a Candidatura à Matrícula e Inscrição no Ciclo de Estudos Conducente ao Grau de Licenciado em Música na Comunidade Ministrado pelas Escolas Superiores de Educação e de Música do Instituto Politécnico de Lisboa, cujo texto se publica em anexo a esta portaria."
+  },
+  "184492914": {
+   "fragment_id": "184538179",
+   "type": 11,
+   "heading": "Artigo 3.º — Texto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Texto\n\nO texto referido no artigo anterior considera-se, para todos os efeitos legais, como fazendo parte integrante da presente portaria."
+  },
+  "184492915": {
+   "fragment_id": "184538180",
+   "type": 11,
+   "heading": "Artigo 4.º — Alterações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alterações\n\nTodas as alterações do Regulamento são nele incorporadas através de nova redacção dos seus artigos ou de aditamento de novos artigos."
+  },
+  "184492916": {
+   "fragment_id": "184538181",
+   "type": 11,
+   "heading": "Artigo 5.º — Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Aplicação\n\nO Regulamento anexo à presente portaria aplica-se a partir da candidatura à matrícula e inscrição no ano lectivo de 2010-2011, inclusive."
+  },
+  "184492917": {
+   "fragment_id": "184538182",
+   "type": 11,
+   "heading": "Artigo 6.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia imediato ao da sua publicação."
+  },
+  "184492918": {
+   "fragment_id": "184538183",
+   "type": 11,
+   "heading": "Artigo 7.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Local e prazo de apresentação da candidatura\n\n1 - O requerimento da candidatura é apresentado na Escola Superior de Educação de Lisboa.\n\n2 - O prazo para entrega do requerimento da candidatura é fixado nos termos do artigo 25.º"
+  },
+  "184492919": {
+   "fragment_id": "184538184",
+   "type": 11,
+   "heading": "Artigo 8.º — Apresentação da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apresentação da candidatura\n\nTem legitimidade para subscrever o requerimento de candidatura:\n\na) O candidato;\n\nb) Um seu procurador bastante;\n\nc) A pessoa que demonstre exercer o poder paternal ou a tutela."
+  },
+  "184492920": {
+   "fragment_id": "184538185",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução do requerimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Instrução do requerimento de candidatura\n\nO requerimento de candidatura é instruído com:\n\na) Requerimento onde são indicados, obrigatoriamente:\n\nNome do requerente;\n\nNúmero de bilhete de identidade ou do cartão de cidadão;\n\nEndereço postal;\n\nHabilitação com que se candidata;\n\nb) Certificado comprovativo da titularidade da habilitação com que se candidata;\n\nc) Certificado comprovativo de que realizou a prova a que se refere a alínea a) do n.º 1 do artigo 2.º, quando tal não conste expressamente do documento a que refere a alínea anterior;\n\nd) Fotocópia simples do bilhete de identidade ou do cartão de cidadão."
+  },
+  "184492921": {
+   "fragment_id": "184538186",
+   "type": 11,
+   "heading": "Artigo 10.º — Indeferimento liminar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos os requerimentos que:\n\na) Não estejam correctamente formulados nos termos do artigo anterior;\n\nb) Sejam apresentados fora de prazo;\n\nc) Não estejam acompanhados da documentação indicada no artigo anterior;\n\nd) Expressamente infrinjam algumas das regras fixadas pelo presente Regulamento.\n\n2 - O indeferimento liminar é da competência do presidente da Escola Superior de Educação de Lisboa."
+  },
+  "184492922": {
+   "fragment_id": "184538187",
+   "type": 11,
+   "heading": "Artigo 11.º — Júri das provas de concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Júri das provas de concurso\n\n1 - A organização das provas de concurso é da competência de um júri designado em conjunto pelos órgãos legal e estatutariamente competentes das Escolas.\n\n2 - Compete ao júri, designadamente:\n\na) Fixar os domínios sobre que incidem as provas;\n\nb) Fixar os conteúdos das provas;\n\nc) Fixar os critérios de avaliação a adoptar em cada uma das provas;\n\nd) Dar execução às provas e proceder à sua apreciação;\n\ne) Proceder às operações de selecção e seriação dos candidatos."
+  },
+  "184492923": {
+   "fragment_id": "184538188",
+   "type": 11,
+   "heading": "Artigo 12.º — Edital",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Edital\n\nNo prazo fixado nos termos do artigo 25.º, o presidente do júri procede à afixação, na Escola Superior de Educação, de edital indicando, designadamente:\n\na) Os domínios sobre que incide a prova específica;\n\nb) Os critérios de avaliação a adoptar nas provas;\n\nc) Os prazos fixados nos termos do artigo 25.º"
+  },
+  "184492924": {
+   "fragment_id": "184538189",
+   "type": 11,
+   "heading": "Artigo 13.º — Selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Selecção\n\nA selecção dos candidatos é realizada com base na prova específica, na qual deve ser obtida uma classificação igual ou superior a 100."
+  },
+  "184492925": {
+   "fragment_id": "184538190",
+   "type": 11,
+   "heading": "Artigo 14.º — Seriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Seriação\n\n1 - A seriação dos candidatos à matrícula e inscrição no ciclo de estudos é realizada com base numa nota de candidatura.\n\n2 - A nota de candidatura é a resultante do cálculo, até às décimas, da seguinte expressão:\n\na) Para os candidatos previstos no n.º 1 do artigo 5.º:\n\n0,9 x Pe + 0,1 x Ha\n\nem que:\n\nPe = classificação final da prova específica;\n\nHa = classificação final da habilitação com que se candidata;\n\nb) Para os candidatos previstos no n.º 2 do artigo 5.º, a nota de candidatura é a classificação da prova específica, no âmbito do concurso local."
+  },
+  "184492926": {
+   "fragment_id": "184538191",
+   "type": 11,
+   "heading": "Artigo 15.º — Colocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Colocação\n\nA colocação dos candidatos nas vagas fixadas é feita por ordem decrescente da lista seriada elaborada nos termos do artigo anterior."
+  },
+  "184492927": {
+   "fragment_id": "184538192",
+   "type": 11,
+   "heading": "Artigo 16.º — Desempate",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Desempate\n\nSempre que dois ou mais candidatos em situação de empate, resultante da aplicação do critério de seriação a que se refere o artigo 14.º, disputem a última vaga, são abertas tantas vagas adicionais quanto as necessárias para os admitir."
+  },
+  "184492928": {
+   "fragment_id": "184538193",
+   "type": 11,
+   "heading": "Artigo 17.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Competência\n\nAs decisões sobre a candidatura a que se refere o presente Regulamento cabem aos órgãos legal e estatutariamente competentes das Escolas."
+  },
+  "184492929": {
+   "fragment_id": "184538194",
+   "type": 11,
+   "heading": "Artigo 18.º — Resultado final",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Resultado final\n\nO resultado final exprime-se através de uma das seguintes situações:\n\na) Colocado;\n\nb) Não colocado;\n\nc) Excluído."
+  },
+  "184492930": {
+   "fragment_id": "184538195",
+   "type": 11,
+   "heading": "Artigo 19.º — Comunicação da decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Comunicação da decisão\n\n1 - O resultado final é tornado público através de aviso afixado nas Escolas no prazo fixado nos termos do artigo 25.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Número do bilhete de identidade ou do cartão de cidadão;\n\nc) Nota de candidatura a que se refere o artigo 14.º e valor das suas componentes;\n\nd) Resultado final.\n\n3 - A menção da situação de Excluído é obrigatoriamente acompanhada da respectiva fundamentação legal."
+  },
+  "184492931": {
+   "fragment_id": "184538196",
+   "type": 11,
+   "heading": "Artigo 20.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao presidente da Escola Superior de Educação de Lisboa.\n\n2 - A reclamação é entregue em mão na Escola Superior de Educação de Lisboa ou enviada pelo correio, em carta registada.\n\n3 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.\n\n4 - As decisões sobre as reclamações que não hajam sido liminarmente rejeitadas, nos termos do número anterior, são notificadas aos reclamantes através de carta registada com aviso de recepção."
+  },
+  "184492932": {
+   "fragment_id": "184538197",
+   "type": 11,
+   "heading": "Artigo 21.º — Matrícula e inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Matrícula e inscrição\n\n1 - Os candidatos colocados têm o direito de proceder à matrícula e inscrição no prazo fixado nos termos do artigo 25.º\n\n2 - A colocação apenas tem efeito para o ano lectivo a que se refere, pelo que o direito à matrícula e inscrição caduca com o seu não exercício dentro do prazo fixado."
+  },
+  "184492933": {
+   "fragment_id": "184538198",
+   "type": 11,
+   "heading": "Artigo 22.º — Segunda fase do concurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Segunda fase do concurso\n\n1 - Quando, decorrido o prazo de matrícula e inscrição, se verifique a existência de vagas sobrantes, os órgãos legal e estatutariamente competentes das Escolas podem decidir, conjuntamente, a realização de uma segunda fase do concurso.\n\n2 - Podem apresentar-se à segunda fase os candidatos que reúnam as condições fixadas no artigo 5.º, inclusive os que já se tenham inscrito na primeira fase mas hajam faltado à prova específica ou nela não hajam obtido a classificação fixada pelo artigo 13.º\n\n3 - À segunda fase aplicam-se as regras fixadas pelo presente Regulamento para a 1.ª fase."
+  },
+  "184492934": {
+   "fragment_id": "184538199",
+   "type": 11,
+   "heading": "Artigo 23.º — Exclusão dos candidatos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Exclusão dos candidatos\n\n1 - Há lugar a exclusão do concurso, a todo o tempo, dos candidatos que:\n\na) Prestem falsas declarações;\n\nb) Actuem no decurso das provas de maneira fraudulenta que implique o desvirtuamento dos objectivos daquelas.\n\n2 - A decisão a que se refere o número anterior é da competência conjunta dos órgãos legal e estatutariamente competentes das Escolas."
+  },
+  "184492935": {
+   "fragment_id": "184538200",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, as Escolas enviam à Direcção-Geral do Ensino Superior uma lista de onde constem todos os candidatos que procederem à mesma, com indicação do nome e número do bilhete de identidade ou do cartão de cidadão."
+  },
+  "184492936": {
+   "fragment_id": "184538201",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Prazos\n\nOs prazos em que devem ser praticados os actos previstos no presente Regulamento são fixados pelo presidente do Instituto Politécnico de Lisboa, devendo ser tornados públicos através de aviso afixado nas Escolas."
+  },
+  "184492937": {
+   "fragment_id": "184538202",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Ciência, Tecnologia e Ensino Superior, José Mariano Rebelo Pires Gago, em 20 de Agosto de 2010."
+  },
+  "184492938": {
+   "fragment_id": "184538203",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CICLO DE ESTUDOS CONDUCENTE AO GRAU DE LICENCIADO EM MÚSICA NA COMUNIDADE MINISTRADO PELAS ESCOLAS SUPERIORES DE EDUCAÇÃO E DE MÚSICA DO INSTITUTO POLITÉCNICO DE LISBOA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO CONCURSO LOCAL PARA A CANDIDATURA À MATRÍCULA E INSCRIÇÃO NO CICLO DE ESTUDOS CONDUCENTE AO GRAU DE LICENCIADO EM MÚSICA NA COMUNIDADE MINISTRADO PELAS ESCOLAS SUPERIORES DE EDUCAÇÃO E DE MÚSICA DO INSTITUTO POLITÉCNICO DE LISBOA"
+  },
+  "184492939": {
+   "fragment_id": "184538204",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto e âmbito\n\nO presente Regulamento disciplina o concurso local para a matrícula e inscrição no ciclo de estudos conducente ao grau de licenciado em Música na Comunidade ministrado pelas Escolas Superiores de Educação e de Música do Instituto Politécnico de Lisboa, adiante designados, respectivamente, Escolas e ciclo de estudos."
+  },
+  "184492945": {
+   "fragment_id": "184538205",
+   "type": 11,
+   "heading": "Artigo 2.º — Avaliação da capacidade para a frequência",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 2.º — Avaliação da capacidade para a frequência\n\n1 - Candidatos do Regime Geral: para os candidatos titulares de curso do ensino secundário ou habilitação legalmente equivalente, a avaliação da capacidade para a frequência do ciclo de estudos é feita através da realização cumulativa das seguintes provas:\n\na) Prova de Biologia e Geologia ou Geografia ou História ou História da Cultura e Artes ou Matemática Aplicada às Ciências Sociais ou Português, mediante realização de exame nacional do ensino secundário, com classificação igual ou superior a 95;\n\nb) Prova específica, no âmbito do concurso local.\n\n2 - Candidatos dos Regimes Especiais, Concursos Especiais, Concurso Especial de Acesso Para Estudantes Internacionais e candidatos a mudança de par instituição/curso: a avaliação da capacidade para a frequência do ciclo de estudos é feita através da realização de prova específica, no âmbito do concurso local.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492941": {
+   "fragment_id": "184538206",
+   "type": 11,
+   "heading": "Artigo 3.º — Prova específica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prova específica\n\n1 - A prova específica destina-se a avaliar as competências técnicas e musicais dos candidatos.\n\n2 - Os domínios concretos sobre que incide a prova específica são divulgados no edital a que se refere o artigo 12.º\n\n3 - O resultado da prova específica traduz-se numa classificação na escala inteira de 0 a 200."
+  },
+  "184492942": {
+   "fragment_id": "184538207",
+   "type": 11,
+   "heading": "Artigo 4.º — Validade das provas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Validade das provas\n\nAs provas são válidas apenas para a candidatura à matrícula e inscrição no ano em que se realizam."
+  },
+  "184492946": {
+   "fragment_id": "184538208",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições para a candidatura",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 5.º — Condições para a candidatura\n\n1 - Podem apresentar-se ao concurso os candidatos que sejam titulares de uma das seguintes habilitações:\n\na) Curso do ensino secundário ou habilitação legalmente equivalente;\n\nb) Curso superior;\n\nc) Curso de especialização tecnológica;\n\nd) Curso técnico superior profissional;\n\ne) Provas especialmente adequadas destinadas a avaliar a capacidade para a frequência do ensino superior dos maiores de 23 anos (Decreto-Lei n.º 64/2006, de 21 de Março), de acordo com o regulamento específico destas provas.\n\n2 - Podem igualmente apresentar-se ao concurso os candidatos que, embora não sendo titulares de uma das habilitações a que se referem as alíneas a) e b) do n.º 1, já hajam estado legalmente matriculados e inscritos em estabelecimento e curso de ensino superior.\n\n3 - Podem apresentar-se ao concurso, a título condicional, os candidatos que, até ao final do ano lectivo anterior àquele a que aquele se reporta, possam vir a obter uma das habilitações a que se refere o n.º 1.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492947": {
+   "fragment_id": "184538209",
+   "type": 11,
+   "heading": "Artigo 6.º — Vagas",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 6.º — Vagas\n\nA matrícula e inscrição no ciclo de estudos está sujeita a limitações quantitativas fixadas anualmente, segundo a legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492948": {
+   "fragment_id": "184538183",
+   "type": 11,
+   "heading": "Artigo 7.º — Local e prazo de apresentação da candidatura",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 7.º — Local e prazo de apresentação da candidatura\n\n1 - O requerimento da candidatura é apresentado na Escola Superior de Educação de Lisboa.\n\n2 - O prazo para entrega do requerimento da candidatura é fixado no edital de abertura do concurso, previsto no artigo 12.º do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492960": {
+   "fragment_id": "184538185",
+   "type": 11,
+   "heading": "Artigo 9.º — Instrução do requerimento de candidatura",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 9.º — Instrução do requerimento de candidatura\n\nO requerimento de candidatura é instruído com:\n\na) Requerimento onde são indicados, obrigatoriamente:\n\nNome do requerente;\n\nNúmero de bilhete de identidade ou do cartão de cidadão;\n\nEndereço postal;\n\nHabilitação com que se candidata;\n\nb) Certificado comprovativo da titularidade da habilitação com que se candidata;\n\nc) Certificado comprovativo de que realizou a prova a que se refere a alínea a) do n.º 1 do artigo 2.º, quando tal não conste expressamente do documento a que refere a alínea anterior;\n\nd) [Revogado.]\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492961": {
+   "fragment_id": "184538186",
+   "type": 11,
+   "heading": "Artigo 10.º — Indeferimento liminar",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 10.º — Indeferimento liminar\n\n1 - São liminarmente indeferidos os requerimentos que:\n\na) Não estejam correctamente formulados nos termos do artigo anterior;\n\nb) Sejam apresentados fora de prazo;\n\nc) Não estejam acompanhados da documentação indicada no artigo anterior;\n\nd) Expressamente infrinjam algumas das regras fixadas pelo presente Regulamento.\n\n2 - [Revogado.]\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492949": {
+   "fragment_id": "184538188",
+   "type": 11,
+   "heading": "Artigo 12.º — Edital",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 12.º — Edital\n\nNo prazo fixado nos termos do artigo 25.º, o presidente do júri procede à afixação, no sítio eletrónico da Escola Superior de Educação de Lisboa, de edital indicando, designadamente:\n\na) Os domínios sobre que incide a prova específica;\n\nb) Os critérios de avaliação a adoptar nas provas;\n\nc) Os prazos fixados nos termos do artigo 25.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492950": {
+   "fragment_id": "184538189",
+   "type": 11,
+   "heading": "Artigo 13.º — Selecção",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 13.º — Selecção\n\nSão selecionados os candidatos com menção de 'apto' na prova específica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492951": {
+   "fragment_id": "184538195",
+   "type": 11,
+   "heading": "Artigo 19.º — Comunicação da decisão",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 19.º — Comunicação da decisão\n\n1 - O resultado final é tornado público através de aviso publicado no sítio eletrónico da Escola Superior de Educação de Lisboa no prazo fixado nos termos do artigo 25.º\n\n2 - Das listas afixadas constam, relativamente a cada candidato que se tenha apresentado a concurso:\n\na) Nome;\n\nb) Nota de candidatura a que se refere o artigo 14.º;\n\nc) Nota de candidatura a que se refere o artigo 14.º e valor das suas componentes;\n\nd) Resultado final.\n\n3 - A menção da situação de Excluído é obrigatoriamente acompanhada da respectiva fundamentação legal.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492952": {
+   "fragment_id": "184538196",
+   "type": 11,
+   "heading": "Artigo 20.º — Reclamações",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 20.º — Reclamações\n\n1 - Do resultado final podem os candidatos apresentar reclamação fundamentada no prazo fixado nos termos do artigo 25.º, mediante exposição dirigida ao presidente da Escola Superior de Educação de Lisboa.\n\n2 - São liminarmente rejeitadas as reclamações não fundamentadas, bem como as que não hajam sido entregues no prazo e no local devidos, nos termos dos números anteriores.\n\n3 - [Revogado.]\n\n4 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492953": {
+   "fragment_id": "184538198",
+   "type": 11,
+   "heading": "Artigo 22.º — Segunda fase do concurso",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 22.º — Segunda fase do concurso\n\n1 - Quando se verifique a disponibilidade de vagas, os órgãos legal e estatutariamente competentes das Escolas podem decidir, conjuntamente, a realização de outras fases do concurso.\n\n2 - Podem apresentar-se à segunda fase os candidatos que reúnam as condições fixadas no artigo 5.º, inclusive os que já se tenham inscrito na primeira fase mas hajam faltado à prova específica ou nela não hajam obtido a classificação fixada pelo artigo 13.º\n\n3 - À segunda fase aplicam-se as regras fixadas pelo presente Regulamento para a 1.ª fase.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492954": {
+   "fragment_id": "184538200",
+   "type": 11,
+   "heading": "Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 24.º — Comunicação à Direcção-Geral do Ensino Superior\n\nFindo o prazo de matrícula e inscrição, as Escolas enviam à Direção-Geral do Ensino Superior uma lista de onde constem todos os candidatos que procederem à mesma, com indicação do nome e número do documento de identificação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  },
+  "184492955": {
+   "fragment_id": "184538201",
+   "type": 11,
+   "heading": "Artigo 25.º — Prazos",
+   "in_force_from": "2022-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+   ],
+   "markdown": "###### Artigo 25.º — Prazos\n\nOs prazos em que devem ser praticados os atos previstos no presente Regulamento são fixados pelo presidente do Instituto Politécnico de Lisboa, devendo ser tornados públicos através de aviso publicado no sítio eletrónico da Escola Superior de Educação de Lisboa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 158/2022 - Diário da República n.º 110/2022, Série I de 2022-06-07](https://diariodarepublica.pt/dr/detalhe/portaria/158-2022-184507386), em vigor a partir de 2022-06-08"
+  }
+ }
+}

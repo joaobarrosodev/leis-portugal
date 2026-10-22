@@ -1,0 +1,138 @@
+---
+schema_version: '1.0'
+id: pt:dre:408328:por
+title: Decreto n.º 10/74
+short_title: null
+summary: Autoriza os Governos das províncias ultramarinas a emitir os empréstimos internos amortizáveis necessários à execução
+  do disposto na parte final do artigo 15.º e na alínea b) do artigo 17.º do Decreto-Lei n.º 576/70, de 24 de Novembro
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério do Ultramar - Direcção-Geral de Fazenda
+proposing_entity: null
+official_number: 10/74
+official_date: null
+publication_date: '1974-01-15'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 12/1974, Série I de 1974-01-15
+  number: '12'
+  series: I
+  supplement: null
+  pages: 43 - 44
+  pdf_url: https://files.diariodarepublica.pt/1s/1974/01/01200/00430044.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '408328'
+  dre_path: /dr/detalhe/decreto/10-1974-408328
+  internal: pt:dre:408328:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1974-408328
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/10-1974-408328
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1974-01-15T00:00:00Z'
+integrity:
+  source_sha256: b0dc053beb8b23bc9c40e0ceb0e79fdd554df53265310ced5ec4675fef12b330
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1974/DRE-1974-10-408328.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 10/74
+
+de 15 de Janeiro
+
+O [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, e o [Decreto n.º 332/72](https://diariodarepublica.pt/dr/detalhe/decreto/332-1972-676610), de 23 de Agosto, tornados extensivos às províncias ultramarinas pelas Portarias n.os [421/72](https://diariodarepublica.pt/dr/detalhe/portaria/421-1972-675842), de 1 de Agosto, e [445/73](https://diariodarepublica.pt/dr/detalhe/portaria/445-1973-421061), de 29 de Junho, estabelecem a modalidade e a forma de pagamento, em prestações, das indemnizações relativas a expropriações por utilidade pública.
+
+Em complemento das providências adoptadas, impõe-se assim a publicação de diploma que autorize a emissão dos empréstimos internos amortizáveis, necessários ao pagamento das indemnizações devidas, e lhes defina a representação.
+
+Nestes termos:
+
+Ouvidos os Governos-Gerais dos Estados de Angola e Moçambique;
+
+Tendo em vista o disposto no § 3.º do artigo 136.º da Constituição, por motivo de urgência;
+
+Usando da faculdade conferida pelo § 1.º do artigo 136.º da Constituição e de acordo com o § 2.º do mesmo artigo, o Governo decreta e eu promulgo, para valer como lei no ultramar, o seguinte:
+
+###### Artigo 1.º - 1. Ficam os Governos das províncias ultramarinas autorizados a emitir os empréstimos internos amortizáveis que se mostrem necessários à execução do disposto na parte final do artigo 15.º e na alínea b) do artigo 17.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, tornado extensivo ao ultramar pela [Portaria n.º 421/72](https://diariodarepublica.pt/dr/detalhe/portaria/421-1972-675842), de 1 de Agosto.
+
+2. Os empréstimos serão representados por certificados de dívida pública nominativos, negociáveis nos termos comuns, e gozando de todos os direitos, isenções e garantias consignados nos artigos 11.º e 12.º do [Decreto n.º 463/72](https://diariodarepublica.pt/dr/detalhe/decreto/463-1972-686247), de 18 de Novembro.
+
+3. O Ministro do Ultramar, por portaria, fixará o montante máximo dos empréstimos, o prazo e as condições em que se fará a emissão e o juro anual a atribuir aos certificados e determinará a emissão da correspondente obrigação geral.
+
+4. O serviço dos empréstimos fica a cargo das direcções e repartições provinciais dos serviços de finanças, que, a requerimento dos interessados, poderão efectuar a integração dos certificados emitidos noutros de maior valor ou proceder ao seu desdobramento.
+
+###### Art. 2.º - 1. A obrigação geral a que se refere o n.º 3 do artigo antecedente será organizada pela direcção ou repartição provincial dos serviços de finanças da respectiva província ultramarina, de harmonia com as disposições do presente diploma e da portaria que determinar a sua emissão.
+
+2. A obrigação geral será assinada pelo Governador da província e visada pelo Tribunal Administrativo, como Tribunal de Contas.
+
+###### Art. 3.º - 1. Os certificados de dívida pública levarão as assinaturas de chancela do Governador da província e do director ou chefe dos serviços provinciais de finanças e serão autenticados por aposição do selo branco dos mesmos serviços.
+
+2. Os certificados serão de montante variável, consoante o valor das prestações em que for dividida a indemnização devida pela expropriação, e deverão ser emitidos no primeiro dia do mês seguinte àquele em que o Estado for notificado para efectuar a sua entrega aos expropriados.
+
+3. A amortização dos certificados far-se-á pelo valor neles inscrito e nas datas que constarem dos respectivos assentamentos, devendo as mesmas coincidir com os dias em que se perfaça cada semestre ou ano contado da data em que ocorreu a correspondente emissão.
+
+4. Os juros serão pagáveis nas datas em que se vencer a amortização, semestral ou anual, das prestações.
+
+###### Art. 4.º - 1. As importâncias correspondentes ao valor dos certificados de dívida pública emitidos serão inscritas nos orçamentos gerais das províncias ultramarinas como receita e despesa extraordinárias, no caso de a iniciativa das expropriações haver pertencido ao Estado.
+
+2. Nos mesmos orçamentos inscrever-se-ão, como despesa ordinária, as verbas necessárias ao pagamento dos encargos advenientes dos empréstimos emitidos.
+
+3. Quando, nos termos da alínea b) do artigo 17.º do [Decreto-Lei n.º 576/70](https://diariodarepublica.pt/dr/detalhe/decreto-lei/576-1970-146730), de 24 de Novembro, as províncias ultramarinas entregarem certificados de dívida pública em substituição do seu aval, deverão inscrever nos seus orçamentos de receita ordinária quantias equivalentes às despesas ordinárias referidas no número antecedente, a receber das autarquias locais ou dos serviços autónomos.
+
+###### Art. 5.º As despesas com a emissão dos títulos de dívida pública referidos no presente diploma, compreendendo as relativas a trabalhos extraordinários que a urgência justificar e forem autorizados, serão pagas por força das competentes dotações orçamentais, inscritas nos orçamentos gerais das províncias ultramarinas para o respectivo ano económico.
+
+###### Art. 6.º Na parte que não contrarie o presente diploma, são tornadas extensivas às províncias ultramarinas as disposições do [Decreto n.º 463/72](https://diariodarepublica.pt/dr/detalhe/decreto/463-1972-686247), de 18 de Novembro.
+
+Marcello Caetano - Baltasar Leite Rebelo de Sousa.
+
+**Promulgado em 7 de Janeiro de 1974.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser publicado nos Boletins Oficiais de todas as províncias ultramarinas. - B. Rebelo de Sousa.

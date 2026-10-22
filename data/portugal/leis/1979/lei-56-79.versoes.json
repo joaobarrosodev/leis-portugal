@@ -1,0 +1,2003 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:369864:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1979-75079849",
+ "dre_path": "/dr/detalhe/lei/56-1979-369864",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1979-09-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "75086625",
+    "75086626",
+    "75086627",
+    "75086628",
+    "75086629",
+    "75086630",
+    "75086631",
+    "75086632",
+    "75086633",
+    "75086634",
+    "75086635",
+    "75086636",
+    "75086637",
+    "75086638",
+    "75086639",
+    "75086640",
+    "75086641",
+    "75086642",
+    "75086643",
+    "75086644",
+    "75086645",
+    "75086646",
+    "75086647",
+    "75086648",
+    "75086649",
+    "75086650",
+    "75086651",
+    "75086652",
+    "75086653",
+    "75086654",
+    "75086655",
+    "75086656",
+    "75086657",
+    "75086658",
+    "75086659",
+    "75086660",
+    "75086661",
+    "75086662",
+    "75086663",
+    "75086664",
+    "75086665",
+    "75086666",
+    "75086667",
+    "75086668",
+    "75086669",
+    "75086670",
+    "75086671",
+    "75086672",
+    "75086673",
+    "75086674",
+    "75088375",
+    "75088376",
+    "75088377",
+    "75088378",
+    "75088379",
+    "75088380",
+    "75088381",
+    "75088382",
+    "75088383",
+    "75088384",
+    "75088385",
+    "75088386",
+    "75088387",
+    "75088388",
+    "75088389",
+    "75088390",
+    "75088391",
+    "75088392",
+    "75088393",
+    "75088394",
+    "75088395",
+    "75088396",
+    "75088397",
+    "75088398",
+    "75088399",
+    "75088400",
+    "75088401",
+    "75088402",
+    "75088403",
+    "75088404",
+    "75088405"
+   ]
+  },
+  {
+   "date": "1982-07-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:384993:por",
+     "title": "Acórdão n.º 39/84",
+     "published": "1984-05-05",
+     "dre_path": "/dr/detalhe/acordao/39-1984-384993"
+    },
+    {
+     "id": "pt:dre:395514:por",
+     "title": "Decreto-Lei n.º 254/82",
+     "published": "1982-06-29",
+     "dre_path": "/dr/detalhe/decreto-lei/254-1982-395514"
+    }
+   ],
+   "changes": [
+    "Repoe em Vigor Capítulo I",
+    "Repoe em Vigor Secção I",
+    "Repoe em Vigor Secção II",
+    "Repoe em Vigor Secção IV",
+    "Repoe em Vigor Capítulo IV",
+    "Repoe em Vigor Título V",
+    "Repoe em Vigor Título VI",
+    "Repoe em Vigor Título VII",
+    "Repoe em Vigor Artigo 55.º",
+    "Repoe em Vigor Artigo 56.º",
+    "Repoe em Vigor Artigo 57.º",
+    "Repoe em Vigor Artigo 58.º",
+    "Repoe em Vigor Artigo 59.º",
+    "Repoe em Vigor Artigo 60.º",
+    "Repoe em Vigor Artigo 61.º",
+    "Repoe em Vigor Artigo 64.º",
+    "Repoe em Vigor Artigo 65.º",
+    "Revoga Artigo 18.º",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Revoga Artigo 55.º",
+    "Revoga Artigo 56.º",
+    "Revoga Artigo 57.º",
+    "Revoga Artigo 58.º",
+    "Revoga Artigo 59.º",
+    "Revoga Artigo 60.º",
+    "Revoga Artigo 61.º",
+    "Revoga Artigo 64.º",
+    "Revoga Artigo 65.º"
+   ],
+   "fragments": [
+    "75086625",
+    "75086626",
+    "75086627",
+    "75086628",
+    "75086629",
+    "75086630",
+    "75086631",
+    "75086632",
+    "75086633",
+    "75086634",
+    "75086635",
+    "75086636",
+    "75086637",
+    "75086638",
+    "75086639",
+    "75086640",
+    "75086641",
+    "75086642",
+    "75086643",
+    "75086644",
+    "75086645",
+    "75086646",
+    "75086647",
+    "75090970",
+    "75090971",
+    "75090972",
+    "75090973",
+    "75090974",
+    "75091175",
+    "75086654",
+    "75086655",
+    "75091176",
+    "75086657",
+    "75091177",
+    "75091178",
+    "75086660",
+    "75091179",
+    "75091180",
+    "75091181",
+    "75091182",
+    "75091183",
+    "75086666",
+    "75091184",
+    "75091185",
+    "75091186",
+    "75091187",
+    "75091188",
+    "75091189",
+    "75091190",
+    "75091191",
+    "75091192",
+    "75091193",
+    "75088377",
+    "75091194",
+    "75091195",
+    "75088380",
+    "75091196",
+    "75091197",
+    "75091198",
+    "75091199",
+    "75091200",
+    "75091201",
+    "75088387",
+    "75091202",
+    "75091203",
+    "75088390",
+    "75091204",
+    "75091205",
+    "75088393",
+    "75091206",
+    "75091207",
+    "75091208",
+    "75091209",
+    "75091210",
+    "75091211",
+    "75091212",
+    "75091213",
+    "75088402",
+    "75088403",
+    "75091215",
+    "75091214",
+    "75088406"
+   ]
+  },
+  {
+   "date": "1993-10-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:668520:por",
+     "title": "Decreto-Lei n.º 361/93",
+     "published": "1993-10-15",
+     "dre_path": "/dr/detalhe/decreto-lei/361-1993-668520"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 36.º"
+   ],
+   "fragments": [
+    "75086625",
+    "75086626",
+    "75086627",
+    "75086628",
+    "75086629",
+    "75086630",
+    "75086631",
+    "75086632",
+    "75086633",
+    "75086634",
+    "75086635",
+    "75086636",
+    "75086637",
+    "75086638",
+    "75086639",
+    "75086640",
+    "75086641",
+    "75086642",
+    "75086643",
+    "75086644",
+    "75086645",
+    "75086646",
+    "941705886",
+    "941705887",
+    "941705888",
+    "941705889",
+    "941705890",
+    "941705891",
+    "941705892",
+    "75086654",
+    "941705893",
+    "941705894",
+    "941705895",
+    "941705896",
+    "941705897",
+    "75086660",
+    "75091179",
+    "75091180",
+    "75091181",
+    "75091182",
+    "75091183",
+    "941705898",
+    "941705899",
+    "941705900",
+    "941705901",
+    "941705902",
+    "943762933",
+    "941705904",
+    "941705905",
+    "941705906",
+    "941705907",
+    "941705908",
+    "941705909",
+    "941705910",
+    "941705911",
+    "941705912",
+    "941705913",
+    "941705914",
+    "941705915",
+    "941705916",
+    "941705917",
+    "941705918",
+    "941705919",
+    "941705920",
+    "941705921",
+    "941705922",
+    "941705923",
+    "941705924",
+    "75088393",
+    "75091206",
+    "941705925",
+    "941705926",
+    "941705927",
+    "941705928",
+    "941705929",
+    "941705930",
+    "941705931",
+    "75088402",
+    "75088403",
+    "941705932",
+    "941705933",
+    "75088406"
+   ]
+  }
+ ],
+ "fragments": {
+  "75086625": {
+   "fragment_id": "75079850",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 56/79\n\nde 15 de Setembro\n\nServiço Nacional de Saúde\n\nA Assembleia da República decreta, nos termos da alínea d) do artigo 164.º e do n.º 2 do artigo 169.º da Constituição, o seguinte:\n\nSERVIÇO NACIONAL DE SAÚDE\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga os arts.18.º a 61.º e arts. 64º e 65º da Lei n.º 56/79, de 15 de setembro, que aprova o Serviço Nacional de Saúde."
+  },
+  "75086626": {
+   "fragment_id": "75079851",
+   "type": 13,
+   "heading": "Título I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título I — Disposições gerais"
+  },
+  "75086627": {
+   "fragment_id": "75079852",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nÉ criado, no âmbito do Ministério dos Assuntos Sociais, o Serviço Nacional de Saúde (SNS), pelo qual o Estado assegura o direito à protecção da saúde, nos termos da Constituição."
+  },
+  "75086628": {
+   "fragment_id": "75079853",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nO SNS é constituído pela rede de órgãos e serviços prevista neste diploma, que, na dependência da Secretaria de Estado da Saúde e actuando de forma articulada e sob direcção unificada, gestão descentralizada e democrática, visa a prestação de cuidados globais de saúde a toda a população."
+  },
+  "75086629": {
+   "fragment_id": "75079854",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1 - Compete ao Governo a definição e coordenação global da política de saúde.\n\n2 - À Administração Central de Saúde, prevista no artigo 24.º deste diploma, incumbe dirigir o SNS e superintender na execução das suas actividades."
+  },
+  "75086630": {
+   "fragment_id": "75079855",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1 - O acesso ao SNS é garantido a todos os cidadãos, independentemente da sua condição económica e social, e reger-se-á por normas regulamentares a estabelecer.\n\n2 - O acesso ao SNS é também garantido aos estrangeiros, em regime de reciprocidade, aos apátridas e aos refugiados políticos que residam ou se encontrem em Portugal."
+  },
+  "75086631": {
+   "fragment_id": "75079856",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAo direito à protecção da saúde assegurado pelo SNS corresponde o dever, que a todos incumbe, de a defender e promover, nos termos da Constituição."
+  },
+  "75086632": {
+   "fragment_id": "75079857",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1 - A garantia consagrada no artigo 4.º compreende o acesso a todas as prestações abrangidas pelo SNS e não sofre restrições, salvo as impostas pelo limite de recursos humanos, técnicos e financeiros disponíveis.\n\n2 - O SNS envolve todos os cuidados integrados de saúde, compreendendo a promoção e vigilância da saúde, a prevenção da doença, o diagnóstico e tratamento dos doentes e a reabilitação médica e social."
+  },
+  "75086633": {
+   "fragment_id": "75079858",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nO acesso ao SNS é gratuito, sem prejuízo do estabelecimento de taxas moderadoras diversificadas tendentes a racionalizar a utilização das prestações."
+  },
+  "75086634": {
+   "fragment_id": "75079859",
+   "type": 13,
+   "heading": "Título II — Dos utentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título II — Dos utentes"
+  },
+  "75086635": {
+   "fragment_id": "75079860",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nÉ reconhecida aos utentes a liberdade de escolha do responsável pela prestação de cuidados de saúde, dentro dos condicionalismos referidos na parte final do n.º 1 do artigo 6.º e das normas de distribuição racional e regionalização dos serviços."
+  },
+  "75086636": {
+   "fragment_id": "75079861",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1 - É garantido aos utentes, nas relações com o SNS, o respeito pela sua dignidade e a preservação da intimidade da sua vida privada.\n\n2 - Igualmente são reconhecidos aos utentes os direitos decorrentes da sua integração no agregado familiar e na comunidade a que pertençam."
+  },
+  "75086637": {
+   "fragment_id": "75079862",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ assegurado aos utentes o direito ao sigilo por parte do pessoal do SNS relativamente aos factos de que tenha conhecimento em razão do exercício das suas funções, salvo intervindo decisão judicial ou justa causa de revelação, nos termos legais."
+  },
+  "75086638": {
+   "fragment_id": "75079863",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nA violação dos direitos garantidos aos utentes faz incorrer o infractor em responsabilidade disciplinar por falta grave, para além da responsabilidade civil ou criminal que ao caso couber."
+  },
+  "75086639": {
+   "fragment_id": "75079864",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nPara além do disposto no artigo anterior, os utentes, sempre que sejam lesados nos seus direitos pelos órgãos ou pessoal do SNS, têm direito a ser indemnizados pelos danos causados, nos termos da lei reguladora da responsabilidade civil extracontratual do Estado no domínio dos actos de gestão pública."
+  },
+  "75086640": {
+   "fragment_id": "75079865",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1 - Os utentes podem ainda apresentar, individual ou colectivamente, petições, sugestões, reclamações ou queixas sempre que se considerem lesados nos seus direitos.\n\n2 - As reclamações, queixas, petições e sugestões devem ser dirigidas à entidade responsável pelo estabelecimento ou serviço a que se refiram, sem prejuízo do direito de reclamação hierárquica, nos termos legais."
+  },
+  "75086641": {
+   "fragment_id": "75079866",
+   "type": 13,
+   "heading": "Título III — Dos cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título III — Dos cuidados de saúde"
+  },
+  "75086642": {
+   "fragment_id": "75079867",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs utentes do SNS têm direito, em termos a regulamentar, às seguintes prestações:\n\na) Cuidados de promoção e vigilância da saúde e de prevenção da doença;\n\nb) Cuidados médicos de clínica geral e de especialidades;\n\nc) Cuidados de enfermagem;\n\nd) Internamento hospitalar;\n\ne) Transporte de doentes quando medicamente indicado;\n\nf) Elementos complementares de diagnóstico e tratamento especializados;\n\ng) Suplementos alimentares dietéticos;\n\nh) Medicamentos e produtos medicamentosos;\n\ni) Próteses, ortóteses e outros aparelhos complementares terapêuticos;\n\nj) Apoio social, em articulação com os serviços de segurança social."
+  },
+  "75086643": {
+   "fragment_id": "75079868",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1 - O acesso às prestações enunciadas no artigo anterior é assegurado, em princípio, pelos estabelecimentos e serviços da rede oficial do SNS.\n\n2 - Enquanto não for possível garantir a totalidade das prestações pela rede oficial, o acesso será assegurado por entidades não integradas no SNS em base contratual, ou, excepcionalmente, mediante reembolso directo dos utentes."
+  },
+  "75086644": {
+   "fragment_id": "75079869",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1 - Os cuidados de saúde enunciados no artigo 14.º compreendem cuidados primários e cuidados diferenciados.\n\n2 - Compreendem-se nos cuidados primários:\n\na) Os destinados à prevenção da doença e promoção da saúde e os cuidados de tipo ambulatório, abrangendo os de clínica geral, materno-infantis e de planeamento familiar, escolares e geriátricos, incluindo os domiciliários;\n\nb) Cuidados de especialidades, abrangendo nomeadamente as áreas da oftalmologia, da estomatologia, da otorrinolaringologia e da saúde mental;\n\nc) Internamentos que não impliquem cuidados diferenciados;\n\nd) Elementos complementares de diagnóstico e terapêutica, incluindo a reabilitação;\n\ne) Cuidados de enfermagem, incluindo os de visitação domiciliária.\n\n3 - Compreendem-se nos cuidados diferenciados o internamento hospitalar e os actos ambulatórios especializados para diagnóstico e terapêutica e reabilitação e ainda as consultas externas de especialidades.\n\n4 - São compreendidos nos cuidados de nível primário e de nível diferenciado os cuidados de urgência na doença e no acidente.\n\n5 - Os serviços prestadores de cuidados de saúde deverão ainda proceder ao registo de dados estatísticos e à análise epidemiológica.\n\n6 - A prestação dos cuidados de urgência na doença e no acidente previstos no n.º 4 entende-se sem prejuízo do direito de regresso em relação às entidades seguradoras ou outras, no caso responsáveis."
+  },
+  "75086645": {
+   "fragment_id": "75079870",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO acesso aos cuidados diferenciados está condicionado a prévia observação e decisão dos serviços de cuidados primários, salvo nos casos de urgência."
+  },
+  "75086646": {
+   "fragment_id": "75079871",
+   "type": 13,
+   "heading": "Título IV — Da organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título IV — Da organização e funcionamento"
+  },
+  "75086647": {
+   "fragment_id": "75079872",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "75086648": {
+   "fragment_id": "75079873",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\n1 - O SNS goza de autonomia administrativa e financeira e estrutura-se numa organização descentralizada e desconcentrada, compreendendo órgãos centrais, regionais e locais e dispondo de serviços prestadores de cuidados primários e serviços prestadores de cuidados diferenciados.\n\n2 - O SNS será apoiado por estabelecimentos e actividades de ensino que visem a formação e aperfeiçoamento de profissionais da saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086649": {
+   "fragment_id": "75079874",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nAos órgãos do SNS compete, no seu conjunto, assegurar a distribuição racional, a hierarquização técnica e o funcionamento coordenado dos serviços, definir a complementaridade de valências e promover a descentralização decisória e a participação dos utentes no planeamento e na gestão dos serviços.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086650": {
+   "fragment_id": "75088275",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAos órgãos centrais cabem, especialmente, as seguintes atribuições:\n\na) Estudo e proposta da política de saúde;\n\nb) Planeamento e avaliação da prestação de serviços e das actividades de saúde;\n\nc) Elaboração de normas de funcionamento de estabelecimentos e serviços;\n\nd) Inspecção técnica e avaliação de resultados;\n\ne) Tomada de decisões necessárias à organização e funcionamento do SNS;\n\nf) Coordenação dos diferentes sectores de actividade;\n\ng) Elaboração de normas sobre a celebração de convénios com entidades não integradas no SNS e a outorga de convénios de âmbito nacional;\n\nh) Participação em actividades interministeriais;\n\ni) Formação e investigação no campo da saúde;\n\nj) Tutela e fiscalização da actividade privada no âmbito do sector da saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086651": {
+   "fragment_id": "75088276",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1 - Aos órgãos regionais cabem, especialmente, as seguintes atribuições:\n\na) Execução da política de saúde;\n\nb) Administração e gestão de serviços, registo de dados e análise epidemiológica;\n\nc) Inspecção;\n\nd) Contrôle do exercício profissional;\n\ne) Planeamento e avaliação da prestação de serviços e das actividades de saúde;\n\nf) Formação e investigação do campo da saúde;\n\ng) Celebração de convénios de âmbito regional com entidades não integradas no SNS, de acordo com as normas elaboradas pelos órgãos centrais.\n\n2 - Poderão constituir-se órgãos de âmbito mais alargado que o dos previstos no número anterior, designadamente para os seguintes efeitos:\n\na) Utilização de serviços comuns;\n\nb) Compatibilização de planos e de programas;\n\nc) Coordenação e supervisão técnica.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086652": {
+   "fragment_id": "75088277",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nAos órgãos locais cabem, especialmente, as seguintes atribuições:\n\na) Administração e gestão de serviços, nos casos em que tal se justifique;\n\nb) Coordenação das unidades prestadoras de cuidados primários;\n\nc) Registo e análise de dados estatísticos.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086653": {
+   "fragment_id": "75088278",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1 - É assegurado aos utentes e aos profissionais da saúde o direito de participação no planeamento e na gestão dos serviços.\n\n2 - O direito consagrado no número anterior exerce-se, a nível central, pela participação no Conselho Nacional de Saúde, previsto no artigo 25.º deste diploma, e, a nível regional e local, pela participação nos conselhos regionais de saúde e nas comissões concelhias de apoio, previstos, respectivamente, nos artigos 39.º e 40.º deste diploma, para além da participação em órgãos de serviços, em termos a regulamentar.\n\n3 - A representação dos utentes nos conselhos regionais de saúde e nas comissões concelhias de apoio, bem como a representação dos profissionais de saúde. será assegurada por membros designados pelas autarquias e pelas organizações sindicais interessadas, em termos a regulamentar.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086654": {
+   "fragment_id": "75088279",
+   "type": 1,
+   "heading": "Capítulo II — Dos órgãos centrais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Dos órgãos centrais"
+  },
+  "75086655": {
+   "fragment_id": "75088280",
+   "type": 8,
+   "heading": "Secção I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I"
+  },
+  "75086656": {
+   "fragment_id": "75088281",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\nSão órgãos centrais do SNS:\n\nI) De natureza consultiva:\n\nO Conselho Nacional de Saúde.\n\nII) De natureza instrumental:\n\na) O Departamento de Ensino e Investigação;\n\nb) O Departamento de Assuntos Farmacêuticos;\n\nc) O Departamento de Estudos e Planeamento;\n\nd) O Departamento de Gestão Financeira;\n\ne) A Inspecção dos Serviços de Saúde.\n\nIII) De natureza executiva:\n\nA Administração Central de Saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086657": {
+   "fragment_id": "75088282",
+   "type": 8,
+   "heading": "Secção II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II"
+  },
+  "75086658": {
+   "fragment_id": "75088283",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1 - O Conselho Nacional de Saúde é um órgão consultivo da Secretaria de Estado da Saúde e visa a unidade de planeamento da política de saúde.\n\n2 - O Conselho Nacional de Saúde tem um presidente designado pela Assembleia da República pelo período da legislatura e os seguintes vogais:\n\na) O presidente da Administração Central de Saúde;\n\nb) O Presidente do Conselho de Segurança Social;\n\nc) Um representante do MEC;\n\nd) Um representante do Ministério das Finanças e do Plano;\n\ne) Um representante de cada região autónoma;\n\nf) Um representante de cada região de saúde;\n\ng) Um representante da Ordem dos Médicos;\n\nh) Um representante dos sindicatos dos enfermeiros;\n\ni) Dois representantes dos restantes profissionais de saúde a designar pelos respectivos sindicatos;\n\nj) Cinco representantes dos utentes do SNS.\n\n3 - Os representantes dos utentes são designados pela Assembleia da República no início e pelo período de cada legislatura.\n\n4 - Os representantes das regiões autónomas são designados pelas respectivas assembleias regionais.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086659": {
+   "fragment_id": "75088284",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\n1 - Ao Conselho Nacional de Saúde compete, especialmente, pronunciar-se sobre a definição e a orientação superior da política de saúde, dar parecer sobre as questões que pelo Ministro dos Assuntos Sociais ou pelo Secretário de Estado da Saúde lhe sejam cometidas e intervir nas actividades de responsabilidade interministerial relacionadas com o sector da saúde.\n\n2 - Para efeitos do disposto na parte final do número anterior, são constituídas, no âmbito do Conselho Nacional de Saúde, comissões interministeriais especializadas, presididas por um representante da Secretaria de Estado da Saúde, e em que participam representantes de outros departamentos ministeriais para intervirem, nomeadamente, nos seguintes domínios:\n\na) Política demográfica;\n\nb) Alimentação e nutrição;\n\nc) Política de habitat, poluição e saneamento de meio;\n\nd) Formação profissional;\n\ne) Saúde ocupacional;\n\nf) Política do medicamento.\n\n3 - Às comissões referidas no número anterior compete propor as medidas necessárias à execução coordenada da política de saúde.\n\n4 - A composição das comissões será fixada em diploma regulamentar.\n\n5 - No Conselho Nacional de Saúde poderão participar técnicos ou entidades de serviços públicos ou privados cuja colaboração seja julgada necessária.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086660": {
+   "fragment_id": "75088285",
+   "type": 8,
+   "heading": "Secção III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III"
+  },
+  "75086661": {
+   "fragment_id": "75088286",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nAo Departamento de Ensino e Investigação compete:\n\na) Promover e coordenar as actividades de ensino e investigação no campo da saúde, da responsabilidade do Ministério dos Assuntos Sociais, e propor as medidas destinadas à articulação e uniformização de objectivos de idênticas actividades dependentes de outros Ministérios;\n\nb) Promover, assegurar e desenvolver a documentação e informação cientifica e técnica.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086662": {
+   "fragment_id": "75088287",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\nAo Departamento de Assuntos Farmacêuticos compete:\n\na) Intervir nas áreas do licenciamento, produção, importação, comercialização, comprovação, informação e consumo de medicamentos, matérias-primas para uso farmacêutico e produtos parafarmacêuticos;\n\nb) Conceder o licenciamento dos estabelecimentos relacionados com a produção e comercialização de medicamentos.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086663": {
+   "fragment_id": "75088288",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\nAo Departamento de Estudos e Planeamento compete:\n\na) Elaborar, acompanhar e avaliar os planos sectoriais de desenvolvimento, incluindo a determinação das necessidades em recursos humanos;\n\nb) Proceder à avaliação global da situação mediante um sistema de informação de saúde;\n\nc) Estudar e propor as medidas convenientes no campo da economia da saúde;\n\nd) Assegurar, em geral e no âmbito do sector, as funções previstas no artigo 12.º da Lei n.º 31/77, de 23 de Maio.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086664": {
+   "fragment_id": "75088289",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\nAo Departamento de Gestão Financeira compete:\n\na) Elaborar o orçamento e a conta do SNS;\n\nb) Acompanhar e avaliar sistematicamente a execução orçamental;\n\nc) Definir e unificar os planos de contas do SNS e controlar a respectiva gestão económico-financeira.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086665": {
+   "fragment_id": "75088290",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nÀ Inspecção dos Serviços de Saúde compete:\n\na) Inspeccionar as actividades dos órgãos e serviços integrados no SNS;\n\nb) Inspeccionar o funcionamento das instituições não oficiais e formas de actividade privada no sector da saúde;\n\nc) Propor medidas correctivas adequadas;\n\nd) Realizar inquéritos, sindicâncias e processos disciplinares que lhe sejam determinados.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086666": {
+   "fragment_id": "75088291",
+   "type": 8,
+   "heading": "Secção IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV"
+  },
+  "75086667": {
+   "fragment_id": "75088292",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nÀ Administração Central de Saúde compete dirigir o SNS segundo a política superiormente definida, coordenar os diferentes sectores de actividade, elaborar normas de funcionamento de estabelecimentos e serviços e de celebração de convénios, outorgar em convénios de âmbito nacional e, em geral, tomar as decisões que não sejam da competência específica do Ministro dos Assuntos Sociais, do Secretário de Estado da Saúde ou de quaisquer outros órgãos.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086668": {
+   "fragment_id": "75088293",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1 - A Administração Central de Saúde compreende os seguintes departamentos, dirigidos por directores:\n\na) O Departamento de Cuidados Primários;\n\nb) O Departamento de Cuidados Diferenciados;\n\nc) O Departamento de Recursos Humanos.\n\n2 - O Departamento de Cuidados Primários actua nas seguintes áreas:\n\na) Cuidados gerais de saúde enunciados nos n.os 2, 4 e 5 do artigo 16.º deste diploma;\n\nb) Contrôle das doenças transmissíveis e das doenças crónico-degenerativas;\n\nc) Saúde ocupacional;\n\nd) Higiene dos alimentos e da nutrição;\n\ne) Higiene do meio ambiente;\n\nf) Educação para a saúde.\n\n3 - O Departamento de Cuidados Diferenciados actua na área dos cuidados hospitalares, curativos e de reabilitação, enunciados nos n.os 3, 4 e 5 do artigo 16.º deste diploma.\n\n4 - O Departamento de Recursos Humanos actua nas seguintes áreas:\n\na) Recrutamento, selecção e formação do pessoal;\n\nb) Gestão das carreiras profissionais;\n\nc) Exercício profissional.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086669": {
+   "fragment_id": "75088294",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\nOs departamento compreendidos na Administração Central de Saúde prosseguem uma gestão participada por objectivos e exercem uma actividade técnico-normativa assente em estudo e avaliação permanentes.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086670": {
+   "fragment_id": "75088295",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nA Administração Central de Saúde é dirigida por um conselho directivo composto pelos directores-gerais dos seus departamentos, que elegem anualmente entre si o presidente.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086671": {
+   "fragment_id": "75088296",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1 - Junto da Administração Central de Saúde funcionam os seguintes gabinetes de apoio dirigidos por directores, equiparados a directores-gerais:\n\na) Gabinete de Instalações e Equipamento;\n\nb) Gabinete de Informática;\n\nc) Gabinete Jurídico;\n\nd) Gabinete de Produtos Biológicos.\n\n2 - O Gabinete de Instalações e Equipamento tem as seguintes atribuições:\n\na) Programação dos estabelecimentos de saúde e fiscalização da respectiva execução;\n\nb) Normalização de instalações e equipamentos de saúde;\n\nc) Segurança das instalações e manutenção dos equipamentos;\n\nd) Estudos de mercado e normalização de equipamentos.\n\n3 - O Gabinete de Informática tem as seguintes atribuições:\n\na) Organização e racionalização administrativa;\n\nb) Coordenação da documentação e informação.\n\n4 - O Gabinete Jurídico tem as seguintes atribuições:\n\na) Elaboração de pareceres jurídicos;\n\nb) Preparação de legislação.\n\n5 - O Gabinete de Produtos Biológicos tem as seguintes atribuições:\n\na) Orientação das actividades relacionadas com o sangue, suas fracções e produtos homólogos, vacinas e soros;\n\nb) Orientação das actividades relacionadas com tecidos e órgãos.\n\n6 - A Administração Central de Saúde é ainda apoiada por uma repartição administrativa.\n\nCAPÍTUTO III\n\nDos órgãos regionais e locais\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086672": {
+   "fragment_id": "75088297",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1 - A área de competência dos órgãos regionais será fixada de acordo com a regionalização do País que vier a ser aprovada.\n\n2 - A área de competência dos órgãos locais será a do concelho.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086673": {
+   "fragment_id": "75088298",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\n1 - São órgãos regionais do SNS as administrações regionais de saúde, directamente dependentes da Administração Central de Saúde, e gozando de autonomia administrativa.\n\n2 - Às administrações regionais de saúde cabem as funções especificadas no artigo 21.º deste diploma.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75086674": {
+   "fragment_id": "75088299",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1 - As administrações regionais de saúde integram os estabelecimentos e serviços de saúde oficiais dependentes do Ministério dos Assuntos Sociais existentes nas respectivas áreas territoriais e coordenam-se com os estabelecimentos e serviços de âmbito supra-regional.\n\n2 - Os estabelecimentos e serviços dependentes de outros departamentos ministeriais, de empresas públicas ou de empresas nacionalizadas, com excepção dos dependentes de departamentos militares, integrar-se-ão nas administrações regionais de saúde à medida que a estrutura do SNS entre em funcionamento nas respectivas regiões.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088375": {
+   "fragment_id": "75088300",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\nAs administrações regionais de saúde são dirigidas por um conselho directivo e compreendem um sector de cuidados primários, um sector de cuidados diferenciados e sectores de apoio técnico e administrativo e dispõem, como órgãos consultivos, de um conselho regional de saúde e de uma comissão técnica.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088376": {
+   "fragment_id": "75088301",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\nSão órgãos locais do SNS as direcções dos centros de saúde concelhios, gozando da competência que lhes for delegada pela respectiva administração regional de saúde e dispondo, como órgãos consultivos, de comissões concelhias de apoio.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088377": {
+   "fragment_id": "75088302",
+   "type": 1,
+   "heading": "Capítulo IV — Dos serviços prestadores dos cuidados de saúde",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Dos serviços prestadores dos cuidados de saúde"
+  },
+  "75088378": {
+   "fragment_id": "75088303",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1 - São serviços prestadores de cuidados primários os centros comunitários de saúde.\n\n2 - São serviços prestadores de cuidados diferenciados os hospitais gerais, os hospitais especializados e outras instituições especializadas.\n\n3 - Os serviços prestadores de cuidados dependem das administrações regionais de saúde, sem prejuízo de autonomia que lhes for fixada por lei.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088379": {
+   "fragment_id": "75088304",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1 - Os serviços prestadores de cuidados primários e os serviços prestadores de cuidados diferenciados estruturam-se e complementam-se de forma articulada quanto ao seu funcionamento.\n\n2 - Nas áreas de especialidades previstas na alínea b) do n.º 2 do artigo 16.º as mesmas equipas asseguram a prestação de cuidados nos serviços referidos no número anterior.\n\n3 - Será sempre assegurada a continuidade e a articulação dos cuidados primários e dos cuidados diferenciados.\n\n4 - Para efeitos dos números anteriores, a coordenação do funcionamento articulado dos cuidados de saúde cabe ao competente órgão regional.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088380": {
+   "fragment_id": "75088305",
+   "type": 13,
+   "heading": "Título V — Do estatuto do pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título V — Do estatuto do pessoal"
+  },
+  "75088381": {
+   "fragment_id": "75088306",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\nO pessoal do SNS desempenha uma relevante função social ao serviço do homem e da comunidade. Tem a qualidade de funcionário público ou de agente, sem prejuízo de poder beneficiar de estatuto especial.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088382": {
+   "fragment_id": "75088307",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1 - Ao pessoal do SNS que tenha a qualidade de funcionário é assegurado o regime de carreira.\n\n2 - O pessoal que tenha a qualidade de agente não pode beneficiar de tratamento mais favorável do que o estabelecido para o pessoal referido no número anterior.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088383": {
+   "fragment_id": "75088308",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\n1 - O regime de serviço do pessoal será estabelecido de acordo com as necessidades de funcionamento dos serviços e dos utentes e com a responsabilidade profissional dos quadros.\n\n2 - O regime de serviço pode ser de tempo completo ou de tempo completo prolongado.\n\n3 - Em qualquer das modalidades previstas no número anterior o regime de serviço será, em princípio, em dedicação exclusiva, com impossibilidade do exercício de quaisquer outras funções públicas ou privadas. O respectivo estatuto regulará as condições de exercício da actividade privada fora do horário de serviço e fixará uma remuneração suplementar para a modalidade de dedicação exclusiva.\n\n4 - Em casos especiais a definir pode ainda autorizar-se o regime de tempo parcial ou o regime de contratação.\n\n5 - Os serviços de funcionamento permanente ou de urgência obedecem a organização e esquema especiais de regime de serviço.\n\n6 - São proibidas as acumulações de lugares no SNS, salvo se se verificar inerência de funções, carência de pessoal devidamente habilitado para o exercício de funções ou complementaridade de actividades.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088384": {
+   "fragment_id": "75088309",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\n1 - A avaliação da capacidade para o ingresso e acesso às várias categorias na carreira compreende as seguintes modalidades:\n\na) Avaliação mediante concurso;\n\nb) Avaliação permanente do exercício e treino em serviço;\n\nc) Avaliação após curso ou estágio de pós-graduação.\n\n2 - As modalidades enunciadas no número anterior podem ser consideradas isoladas ou conjuntamente, de acordo com as características das várias profissões.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088385": {
+   "fragment_id": "75088310",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1 - O grau da carreira é independente do exercício efectivo de funções e do regime de serviço.\n\n2 - O exercício efectivo de funções pressupõe o correspondente grau da carreira.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088386": {
+   "fragment_id": "75088311",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\nAs remunerações do pessoal do SNS são estabelecidas em função do grau na carreira e do regime de prestação de serviço.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088387": {
+   "fragment_id": "75088312",
+   "type": 13,
+   "heading": "Título VI — Do financiamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VI — Do financiamento"
+  },
+  "75088388": {
+   "fragment_id": "75088313",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nIncumbe ao Estado mobilizar os recursos financeiros indispensáveis ao SNS, de modo a assegurar a sua progressiva implantação e realização."
+  },
+  "75088389": {
+   "fragment_id": "75088314",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nO Governo proporá anualmente à Assembleia da República a afectação ao SNS de uma dotação orçamental que tome em conta a evolução do produto nacional bruto."
+  },
+  "75088390": {
+   "fragment_id": "75088315",
+   "type": 13,
+   "heading": "Título VII — Da articulação com o sector privado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VII — Da articulação com o sector privado"
+  },
+  "75088391": {
+   "fragment_id": "75088316",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\nO SNS articula-se com a existência e funcionamento de instituições não oficiais e formas de actividade privada no âmbito do sector da saúde, sujeitas à disciplina e contrôle do Estado, nos termos da Constituição.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088392": {
+   "fragment_id": "75088317",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1 - Podem ser estabelecidos convénios entre o SNS e instituições não oficiais ou entidades privadas, designadamente no campo da hospitalização e dos meios de diagnóstico, nos casos em que a rede de serviços oficial não assegure os cuidados de saúde, mediante normas a estabelecer pela Administração Central de Saúde.\n\n2 - Em casos de necessidade pública, pode o Governo, pelo Ministro dos Assuntos Sociais, proceder à afectação ao SNS do uso de instalações hospitalares ou para-hospitalares devolutas ou manifestamente subaproveitadas e respectivos equipamentos, em termos a regulamentar, ou proceder à expropriação dessas instalações e equipamentos, mediante indemnização.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088393": {
+   "fragment_id": "75088318",
+   "type": 13,
+   "heading": "Título VIII — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Título VIII — Disposições transitórias e finais"
+  },
+  "75088394": {
+   "fragment_id": "75088319",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1 - O exercício do direito e o acesso às prestações, a estrutura interna, a competência, o modo e o regime de funcionamento dos órgãos e serviços, bem como a regulamentação do estatuto do pessoal, constarão de diplomas especiais.\n\n2 - Os diplomas referidos no número anterior estabelecerão ainda as formas e momento da integração dos órgãos e serviços existentes à data da sua publicação, nomeadamente direcções-gerais e serviços médico-sociais, na estrutura agora instituída.\n\n3 - As formas e o prazo de concretização da proibição estabelecida no n.º 6 do artigo 45.º deste diploma serão também objecto de regulamentação especial.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088395": {
+   "fragment_id": "75088320",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\nA actuação do SNS na área da saúde ocupacional prevista na alínea c) do n.º 2 do artigo 33.º deste diploma será objecto de regulamentação especial, que fixará também a responsabilidade das empresas nos encargos decorrentes das actividades de medicina do trabalho nas próprias empresas.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088396": {
+   "fragment_id": "75088321",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\nO SNS articular-se-á com o Serviço Nacional de Ambulâncias e com o Serviço Nacional de Bombeiros nos termos que vierem a ser definidos em portaria conjunta dos Ministros competentes.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088397": {
+   "fragment_id": "75088322",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\n1 - O SNS e os órgãos competentes da segurança social estabelecerão entre si as formas de coordenação de actividades em todos os sectores em que haja interligação de saúde com segurança social.\n\n2 - De acordo com o número anterior, a celebração de convenções internacionais de segurança social que envolvam compromissos no campo da saúde dependerá de parecer prévio da Administração Central de Saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088398": {
+   "fragment_id": "75088323",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\n1 - O SNS entra gradualmente em funcionamento nos termos e nos distritos que forem fixados por resolução do Conselho de Ministros, sob proposta do Ministro dos Assuntos Sociais, dando-se prioridade às zonas mais carenciadas.\n\n2 - Nas restantes zonas deverão promover-se desde já, sob a orientação da Administração Central de Saúde, as acções de planeamento e as medidas indispensáveis à melhoria das estruturas existentes e à sua integração no SNS.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088399": {
+   "fragment_id": "75088324",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\nOs beneficiários de esquemas de protecção na doença privativos de sector de actividades ou de estratos profissionais determinados integrar-se-ão, na parte referente a cuidados de saúde, no esquema de prestações do SNS, à medida que a sua estrutura entre em funcionamento nos respectivos distritos.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088400": {
+   "fragment_id": "75088325",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\nEnquanto não se implantar em todo o País o Serviço Nacional de Saúde, são considerados utentes todos os indivíduos que residam nas sucessivas áreas de implantação, sem prejuízo de, em casos de urgência, se permitir o acesso de residentes noutras áreas.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088401": {
+   "fragment_id": "75088326",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nO regime de carreira previsto no n.º 1 do artigo 44.º será regulado por decreto-lei, sem prejuízo do que vier a ser estabelecido em estatuto da função pública.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088402": {
+   "fragment_id": "75088327",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\nO SNS para os Açores e Madeira será objecto de diploma especial informado pelos princípios constantes das presentes normas e pelos que decorrem da autonomia dessas regiões."
+  },
+  "75088403": {
+   "fragment_id": "75088328",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nO SNS será extensivo ao território de Macau, tendo em conta as condições específicas estabelecidas no seu estatuto próprio."
+  },
+  "75088404": {
+   "fragment_id": "75088329",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\n1 - Até à publicação do decreto-lei previsto no n.º 1 do artigo 37.º, e para a determinação da área territorial abrangida pelos órgãos regionais, o distrito será considerado para todos os efeitos como unidade regional.\n\n2 - Os distritos poderão ser agrupados com vista à utilização comum de serviços e à hierarquização dos serviços prestadores.\n\n3 - Enquanto não forem definidas as regiões de saúde, a representação prevista na alínea f) do n.º 2 do artigo 25.º será assegurada pelas administrações distritais de saúde, que, de entre si, designarão seis elementos, tendo em conta uma equitativa representação geográfica.\n\n4 - Pode constituir-se mais do que uma administração distrital de saúde nos distritos que abranjam grandes centros urbanos, mediante portaria do Secretário de Estado da Saúde, sob proposta da Administração Central de Saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75088405": {
+   "fragment_id": "75088330",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 65.º\n\n1 - O Governo elaborará, no prazo de seis meses a contar da publicação da presente lei, os decretos-leis necessários à sua execução.\n\n2 - No mesmo prazo será elaborado o Formulário Nacional de Medicamentos, tendo em vista a racionalização do consumo e a valorização do sector nacional, público e privado.\n\n3 - A implantação do SNS deverá iniciar-se no prazo de três meses após a entrada em vigor daqueles diplomas.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo."
+  },
+  "75090970": {
+   "fragment_id": "75079873",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 18.º\n\n1 - O SNS goza de autonomia administrativa e financeira e estrutura-se numa organização descentralizada e desconcentrada, compreendendo órgãos centrais, regionais e locais e dispondo de serviços prestadores de cuidados primários e serviços prestadores de cuidados diferenciados.\n\n2 - O SNS será apoiado por estabelecimentos e actividades de ensino que visem a formação e aperfeiçoamento de profissionais da saúde.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75090971": {
+   "fragment_id": "75079874",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 19.º\n\nAos órgãos do SNS compete, no seu conjunto, assegurar a distribuição racional, a hierarquização técnica e o funcionamento coordenado dos serviços, definir a complementaridade de valências e promover a descentralização decisória e a participação dos utentes no planeamento e na gestão dos serviços.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75090972": {
+   "fragment_id": "75088275",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 20.º\n\nAos órgãos centrais cabem, especialmente, as seguintes atribuições:\n\na) Estudo e proposta da política de saúde;\n\nb) Planeamento e avaliação da prestação de serviços e das actividades de saúde;\n\nc) Elaboração de normas de funcionamento de estabelecimentos e serviços;\n\nd) Inspecção técnica e avaliação de resultados;\n\ne) Tomada de decisões necessárias à organização e funcionamento do SNS;\n\nf) Coordenação dos diferentes sectores de actividade;\n\ng) Elaboração de normas sobre a celebração de convénios com entidades não integradas no SNS e a outorga de convénios de âmbito nacional;\n\nh) Participação em actividades interministeriais;\n\ni) Formação e investigação no campo da saúde;\n\nj) Tutela e fiscalização da actividade privada no âmbito do sector da saúde.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75090973": {
+   "fragment_id": "75088276",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 21.º\n\n1 - Aos órgãos regionais cabem, especialmente, as seguintes atribuições:\n\na) Execução da política de saúde;\n\nb) Administração e gestão de serviços, registo de dados e análise epidemiológica;\n\nc) Inspecção;\n\nd) Contrôle do exercício profissional;\n\ne) Planeamento e avaliação da prestação de serviços e das actividades de saúde;\n\nf) Formação e investigação do campo da saúde;\n\ng) Celebração de convénios de âmbito regional com entidades não integradas no SNS, de acordo com as normas elaboradas pelos órgãos centrais.\n\n2 - Poderão constituir-se órgãos de âmbito mais alargado que o dos previstos no número anterior, designadamente para os seguintes efeitos:\n\na) Utilização de serviços comuns;\n\nb) Compatibilização de planos e de programas;\n\nc) Coordenação e supervisão técnica.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75090974": {
+   "fragment_id": "75088277",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 22.º\n\nAos órgãos locais cabem, especialmente, as seguintes atribuições:\n\na) Administração e gestão de serviços, nos casos em que tal se justifique;\n\nb) Coordenação das unidades prestadoras de cuidados primários;\n\nc) Registo e análise de dados estatísticos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091175": {
+   "fragment_id": "75088278",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 23.º\n\n1 - É assegurado aos utentes e aos profissionais da saúde o direito de participação no planeamento e na gestão dos serviços.\n\n2 - O direito consagrado no número anterior exerce-se, a nível central, pela participação no Conselho Nacional de Saúde, previsto no artigo 25.º deste diploma, e, a nível regional e local, pela participação nos conselhos regionais de saúde e nas comissões concelhias de apoio, previstos, respectivamente, nos artigos 39.º e 40.º deste diploma, para além da participação em órgãos de serviços, em termos a regulamentar.\n\n3 - A representação dos utentes nos conselhos regionais de saúde e nas comissões concelhias de apoio, bem como a representação dos profissionais de saúde. será assegurada por membros designados pelas autarquias e pelas organizações sindicais interessadas, em termos a regulamentar.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091176": {
+   "fragment_id": "75088281",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 24.º\n\nSão órgãos centrais do SNS:\n\nI) De natureza consultiva:\n\nO Conselho Nacional de Saúde.\n\nII) De natureza instrumental:\n\na) O Departamento de Ensino e Investigação;\n\nb) O Departamento de Assuntos Farmacêuticos;\n\nc) O Departamento de Estudos e Planeamento;\n\nd) O Departamento de Gestão Financeira;\n\ne) A Inspecção dos Serviços de Saúde.\n\nIII) De natureza executiva:\n\nA Administração Central de Saúde.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091177": {
+   "fragment_id": "75088283",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 25.º\n\n1 - O Conselho Nacional de Saúde é um órgão consultivo da Secretaria de Estado da Saúde e visa a unidade de planeamento da política de saúde.\n\n2 - O Conselho Nacional de Saúde tem um presidente designado pela Assembleia da República pelo período da legislatura e os seguintes vogais:\n\na) O presidente da Administração Central de Saúde;\n\nb) O Presidente do Conselho de Segurança Social;\n\nc) Um representante do MEC;\n\nd) Um representante do Ministério das Finanças e do Plano;\n\ne) Um representante de cada região autónoma;\n\nf) Um representante de cada região de saúde;\n\ng) Um representante da Ordem dos Médicos;\n\nh) Um representante dos sindicatos dos enfermeiros;\n\ni) Dois representantes dos restantes profissionais de saúde a designar pelos respectivos sindicatos;\n\nj) Cinco representantes dos utentes do SNS.\n\n3 - Os representantes dos utentes são designados pela Assembleia da República no início e pelo período de cada legislatura.\n\n4 - Os representantes das regiões autónomas são designados pelas respectivas assembleias regionais.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091178": {
+   "fragment_id": "75088284",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 26.º\n\n1 - Ao Conselho Nacional de Saúde compete, especialmente, pronunciar-se sobre a definição e a orientação superior da política de saúde, dar parecer sobre as questões que pelo Ministro dos Assuntos Sociais ou pelo Secretário de Estado da Saúde lhe sejam cometidas e intervir nas actividades de responsabilidade interministerial relacionadas com o sector da saúde.\n\n2 - Para efeitos do disposto na parte final do número anterior, são constituídas, no âmbito do Conselho Nacional de Saúde, comissões interministeriais especializadas, presididas por um representante da Secretaria de Estado da Saúde, e em que participam representantes de outros departamentos ministeriais para intervirem, nomeadamente, nos seguintes domínios:\n\na) Política demográfica;\n\nb) Alimentação e nutrição;\n\nc) Política de habitat, poluição e saneamento de meio;\n\nd) Formação profissional;\n\ne) Saúde ocupacional;\n\nf) Política do medicamento.\n\n3 - Às comissões referidas no número anterior compete propor as medidas necessárias à execução coordenada da política de saúde.\n\n4 - A composição das comissões será fixada em diploma regulamentar.\n\n5 - No Conselho Nacional de Saúde poderão participar técnicos ou entidades de serviços públicos ou privados cuja colaboração seja julgada necessária.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091179": {
+   "fragment_id": "75088286",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 27.º\n\nAo Departamento de Ensino e Investigação compete:\n\na) Promover e coordenar as actividades de ensino e investigação no campo da saúde, da responsabilidade do Ministério dos Assuntos Sociais, e propor as medidas destinadas à articulação e uniformização de objectivos de idênticas actividades dependentes de outros Ministérios;\n\nb) Promover, assegurar e desenvolver a documentação e informação cientifica e técnica.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091180": {
+   "fragment_id": "75088287",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 28.º\n\nAo Departamento de Assuntos Farmacêuticos compete:\n\na) Intervir nas áreas do licenciamento, produção, importação, comercialização, comprovação, informação e consumo de medicamentos, matérias-primas para uso farmacêutico e produtos parafarmacêuticos;\n\nb) Conceder o licenciamento dos estabelecimentos relacionados com a produção e comercialização de medicamentos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091181": {
+   "fragment_id": "75088288",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 29.º\n\nAo Departamento de Estudos e Planeamento compete:\n\na) Elaborar, acompanhar e avaliar os planos sectoriais de desenvolvimento, incluindo a determinação das necessidades em recursos humanos;\n\nb) Proceder à avaliação global da situação mediante um sistema de informação de saúde;\n\nc) Estudar e propor as medidas convenientes no campo da economia da saúde;\n\nd) Assegurar, em geral e no âmbito do sector, as funções previstas no artigo 12.º da Lei n.º 31/77, de 23 de Maio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091182": {
+   "fragment_id": "75088289",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 30.º\n\nAo Departamento de Gestão Financeira compete:\n\na) Elaborar o orçamento e a conta do SNS;\n\nb) Acompanhar e avaliar sistematicamente a execução orçamental;\n\nc) Definir e unificar os planos de contas do SNS e controlar a respectiva gestão económico-financeira.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091183": {
+   "fragment_id": "75088290",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 31.º\n\nÀ Inspecção dos Serviços de Saúde compete:\n\na) Inspeccionar as actividades dos órgãos e serviços integrados no SNS;\n\nb) Inspeccionar o funcionamento das instituições não oficiais e formas de actividade privada no sector da saúde;\n\nc) Propor medidas correctivas adequadas;\n\nd) Realizar inquéritos, sindicâncias e processos disciplinares que lhe sejam determinados.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091184": {
+   "fragment_id": "75088292",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 32.º\n\nÀ Administração Central de Saúde compete dirigir o SNS segundo a política superiormente definida, coordenar os diferentes sectores de actividade, elaborar normas de funcionamento de estabelecimentos e serviços e de celebração de convénios, outorgar em convénios de âmbito nacional e, em geral, tomar as decisões que não sejam da competência específica do Ministro dos Assuntos Sociais, do Secretário de Estado da Saúde ou de quaisquer outros órgãos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091185": {
+   "fragment_id": "75088293",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 33.º\n\n1 - A Administração Central de Saúde compreende os seguintes departamentos, dirigidos por directores:\n\na) O Departamento de Cuidados Primários;\n\nb) O Departamento de Cuidados Diferenciados;\n\nc) O Departamento de Recursos Humanos.\n\n2 - O Departamento de Cuidados Primários actua nas seguintes áreas:\n\na) Cuidados gerais de saúde enunciados nos n.os 2, 4 e 5 do artigo 16.º deste diploma;\n\nb) Contrôle das doenças transmissíveis e das doenças crónico-degenerativas;\n\nc) Saúde ocupacional;\n\nd) Higiene dos alimentos e da nutrição;\n\ne) Higiene do meio ambiente;\n\nf) Educação para a saúde.\n\n3 - O Departamento de Cuidados Diferenciados actua na área dos cuidados hospitalares, curativos e de reabilitação, enunciados nos n.os 3, 4 e 5 do artigo 16.º deste diploma.\n\n4 - O Departamento de Recursos Humanos actua nas seguintes áreas:\n\na) Recrutamento, selecção e formação do pessoal;\n\nb) Gestão das carreiras profissionais;\n\nc) Exercício profissional.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091186": {
+   "fragment_id": "75088294",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 34.º\n\nOs departamento compreendidos na Administração Central de Saúde prosseguem uma gestão participada por objectivos e exercem uma actividade técnico-normativa assente em estudo e avaliação permanentes.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091187": {
+   "fragment_id": "75088295",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 35.º\n\nA Administração Central de Saúde é dirigida por um conselho directivo composto pelos directores-gerais dos seus departamentos, que elegem anualmente entre si o presidente.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091188": {
+   "fragment_id": "75088296",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 36.º\n\n1 - Junto da Administração Central de Saúde funcionam os seguintes gabinetes de apoio dirigidos por directores, equiparados a directores-gerais:\n\na) Gabinete de Instalações e Equipamento;\n\nb) Gabinete de Informática;\n\nc) Gabinete Jurídico;\n\nd) Gabinete de Produtos Biológicos.\n\n2 - O Gabinete de Instalações e Equipamento tem as seguintes atribuições:\n\na) Programação dos estabelecimentos de saúde e fiscalização da respectiva execução;\n\nb) Normalização de instalações e equipamentos de saúde;\n\nc) Segurança das instalações e manutenção dos equipamentos;\n\nd) Estudos de mercado e normalização de equipamentos.\n\n3 - O Gabinete de Informática tem as seguintes atribuições:\n\na) Organização e racionalização administrativa;\n\nb) Coordenação da documentação e informação.\n\n4 - O Gabinete Jurídico tem as seguintes atribuições:\n\na) Elaboração de pareceres jurídicos;\n\nb) Preparação de legislação.\n\n5 - O Gabinete de Produtos Biológicos tem as seguintes atribuições:\n\na) Orientação das actividades relacionadas com o sangue, suas fracções e produtos homólogos, vacinas e soros;\n\nb) Orientação das actividades relacionadas com tecidos e órgãos.\n\n6 - A Administração Central de Saúde é ainda apoiada por uma repartição administrativa.\n\nCAPÍTUTO III\n\nDos órgãos regionais e locais\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091189": {
+   "fragment_id": "75088297",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 37.º\n\n1 - A área de competência dos órgãos regionais será fixada de acordo com a regionalização do País que vier a ser aprovada.\n\n2 - A área de competência dos órgãos locais será a do concelho.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091190": {
+   "fragment_id": "75088298",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 38.º\n\n1 - São órgãos regionais do SNS as administrações regionais de saúde, directamente dependentes da Administração Central de Saúde, e gozando de autonomia administrativa.\n\n2 - Às administrações regionais de saúde cabem as funções especificadas no artigo 21.º deste diploma.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091191": {
+   "fragment_id": "75088299",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 39.º\n\n1 - As administrações regionais de saúde integram os estabelecimentos e serviços de saúde oficiais dependentes do Ministério dos Assuntos Sociais existentes nas respectivas áreas territoriais e coordenam-se com os estabelecimentos e serviços de âmbito supra-regional.\n\n2 - Os estabelecimentos e serviços dependentes de outros departamentos ministeriais, de empresas públicas ou de empresas nacionalizadas, com excepção dos dependentes de departamentos militares, integrar-se-ão nas administrações regionais de saúde à medida que a estrutura do SNS entre em funcionamento nas respectivas regiões.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091192": {
+   "fragment_id": "75088300",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 40.º\n\nAs administrações regionais de saúde são dirigidas por um conselho directivo e compreendem um sector de cuidados primários, um sector de cuidados diferenciados e sectores de apoio técnico e administrativo e dispõem, como órgãos consultivos, de um conselho regional de saúde e de uma comissão técnica.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091193": {
+   "fragment_id": "75088301",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 41.º\n\nSão órgãos locais do SNS as direcções dos centros de saúde concelhios, gozando da competência que lhes for delegada pela respectiva administração regional de saúde e dispondo, como órgãos consultivos, de comissões concelhias de apoio.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091194": {
+   "fragment_id": "75088303",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 42.º\n\n1 - São serviços prestadores de cuidados primários os centros comunitários de saúde.\n\n2 - São serviços prestadores de cuidados diferenciados os hospitais gerais, os hospitais especializados e outras instituições especializadas.\n\n3 - Os serviços prestadores de cuidados dependem das administrações regionais de saúde, sem prejuízo de autonomia que lhes for fixada por lei.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091195": {
+   "fragment_id": "75088304",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 43.º\n\n1 - Os serviços prestadores de cuidados primários e os serviços prestadores de cuidados diferenciados estruturam-se e complementam-se de forma articulada quanto ao seu funcionamento.\n\n2 - Nas áreas de especialidades previstas na alínea b) do n.º 2 do artigo 16.º as mesmas equipas asseguram a prestação de cuidados nos serviços referidos no número anterior.\n\n3 - Será sempre assegurada a continuidade e a articulação dos cuidados primários e dos cuidados diferenciados.\n\n4 - Para efeitos dos números anteriores, a coordenação do funcionamento articulado dos cuidados de saúde cabe ao competente órgão regional.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091196": {
+   "fragment_id": "75088306",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 44.º\n\nO pessoal do SNS desempenha uma relevante função social ao serviço do homem e da comunidade. Tem a qualidade de funcionário público ou de agente, sem prejuízo de poder beneficiar de estatuto especial.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091197": {
+   "fragment_id": "75088307",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 45.º\n\n1 - Ao pessoal do SNS que tenha a qualidade de funcionário é assegurado o regime de carreira.\n\n2 - O pessoal que tenha a qualidade de agente não pode beneficiar de tratamento mais favorável do que o estabelecido para o pessoal referido no número anterior.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091198": {
+   "fragment_id": "75088308",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 46.º\n\n1 - O regime de serviço do pessoal será estabelecido de acordo com as necessidades de funcionamento dos serviços e dos utentes e com a responsabilidade profissional dos quadros.\n\n2 - O regime de serviço pode ser de tempo completo ou de tempo completo prolongado.\n\n3 - Em qualquer das modalidades previstas no número anterior o regime de serviço será, em princípio, em dedicação exclusiva, com impossibilidade do exercício de quaisquer outras funções públicas ou privadas. O respectivo estatuto regulará as condições de exercício da actividade privada fora do horário de serviço e fixará uma remuneração suplementar para a modalidade de dedicação exclusiva.\n\n4 - Em casos especiais a definir pode ainda autorizar-se o regime de tempo parcial ou o regime de contratação.\n\n5 - Os serviços de funcionamento permanente ou de urgência obedecem a organização e esquema especiais de regime de serviço.\n\n6 - São proibidas as acumulações de lugares no SNS, salvo se se verificar inerência de funções, carência de pessoal devidamente habilitado para o exercício de funções ou complementaridade de actividades.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091199": {
+   "fragment_id": "75088309",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 47.º\n\n1 - A avaliação da capacidade para o ingresso e acesso às várias categorias na carreira compreende as seguintes modalidades:\n\na) Avaliação mediante concurso;\n\nb) Avaliação permanente do exercício e treino em serviço;\n\nc) Avaliação após curso ou estágio de pós-graduação.\n\n2 - As modalidades enunciadas no número anterior podem ser consideradas isoladas ou conjuntamente, de acordo com as características das várias profissões.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091200": {
+   "fragment_id": "75088310",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 48.º\n\n1 - O grau da carreira é independente do exercício efectivo de funções e do regime de serviço.\n\n2 - O exercício efectivo de funções pressupõe o correspondente grau da carreira.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091201": {
+   "fragment_id": "75088311",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 49.º\n\nAs remunerações do pessoal do SNS são estabelecidas em função do grau na carreira e do regime de prestação de serviço.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091202": {
+   "fragment_id": "75088313",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 50.º\n\nIncumbe ao Estado mobilizar os recursos financeiros indispensáveis ao SNS, de modo a assegurar a sua progressiva implantação e realização.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091203": {
+   "fragment_id": "75088314",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 51.º\n\nO Governo proporá anualmente à Assembleia da República a afectação ao SNS de uma dotação orçamental que tome em conta a evolução do produto nacional bruto.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091204": {
+   "fragment_id": "75088316",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 52.º\n\nO SNS articula-se com a existência e funcionamento de instituições não oficiais e formas de actividade privada no âmbito do sector da saúde, sujeitas à disciplina e contrôle do Estado, nos termos da Constituição.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091205": {
+   "fragment_id": "75088317",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 53.º\n\n1 - Podem ser estabelecidos convénios entre o SNS e instituições não oficiais ou entidades privadas, designadamente no campo da hospitalização e dos meios de diagnóstico, nos casos em que a rede de serviços oficial não assegure os cuidados de saúde, mediante normas a estabelecer pela Administração Central de Saúde.\n\n2 - Em casos de necessidade pública, pode o Governo, pelo Ministro dos Assuntos Sociais, proceder à afectação ao SNS do uso de instalações hospitalares ou para-hospitalares devolutas ou manifestamente subaproveitadas e respectivos equipamentos, em termos a regulamentar, ou proceder à expropriação dessas instalações e equipamentos, mediante indemnização.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091206": {
+   "fragment_id": "75088319",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 54.º\n\n1 - O exercício do direito e o acesso às prestações, a estrutura interna, a competência, o modo e o regime de funcionamento dos órgãos e serviços, bem como a regulamentação do estatuto do pessoal, constarão de diplomas especiais.\n\n2 - Os diplomas referidos no número anterior estabelecerão ainda as formas e momento da integração dos órgãos e serviços existentes à data da sua publicação, nomeadamente direcções-gerais e serviços médico-sociais, na estrutura agora instituída.\n\n3 - As formas e o prazo de concretização da proibição estabelecida no n.º 6 do artigo 45.º deste diploma serão também objecto de regulamentação especial.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091207": {
+   "fragment_id": "75088320",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 55.º\n\nA actuação do SNS na área da saúde ocupacional prevista na alínea c) do n.º 2 do artigo 33.º deste diploma será objecto de regulamentação especial, que fixará também a responsabilidade das empresas nos encargos decorrentes das actividades de medicina do trabalho nas próprias empresas.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091208": {
+   "fragment_id": "75088321",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 56.º\n\nO SNS articular-se-á com o Serviço Nacional de Ambulâncias e com o Serviço Nacional de Bombeiros nos termos que vierem a ser definidos em portaria conjunta dos Ministros competentes.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091209": {
+   "fragment_id": "75088322",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 57.º\n\n1 - O SNS e os órgãos competentes da segurança social estabelecerão entre si as formas de coordenação de actividades em todos os sectores em que haja interligação de saúde com segurança social.\n\n2 - De acordo com o número anterior, a celebração de convenções internacionais de segurança social que envolvam compromissos no campo da saúde dependerá de parecer prévio da Administração Central de Saúde.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091210": {
+   "fragment_id": "75088323",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 58.º\n\n1 - O SNS entra gradualmente em funcionamento nos termos e nos distritos que forem fixados por resolução do Conselho de Ministros, sob proposta do Ministro dos Assuntos Sociais, dando-se prioridade às zonas mais carenciadas.\n\n2 - Nas restantes zonas deverão promover-se desde já, sob a orientação da Administração Central de Saúde, as acções de planeamento e as medidas indispensáveis à melhoria das estruturas existentes e à sua integração no SNS.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091211": {
+   "fragment_id": "75088324",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 59.º\n\nOs beneficiários de esquemas de protecção na doença privativos de sector de actividades ou de estratos profissionais determinados integrar-se-ão, na parte referente a cuidados de saúde, no esquema de prestações do SNS, à medida que a sua estrutura entre em funcionamento nos respectivos distritos.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091212": {
+   "fragment_id": "75088325",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 60.º\n\nEnquanto não se implantar em todo o País o Serviço Nacional de Saúde, são considerados utentes todos os indivíduos que residam nas sucessivas áreas de implantação, sem prejuízo de, em casos de urgência, se permitir o acesso de residentes noutras áreas.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091213": {
+   "fragment_id": "75088326",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 61.º\n\nO regime de carreira previsto no n.º 1 do artigo 44.º será regulado por decreto-lei, sem prejuízo do que vier a ser estabelecido em estatuto da função pública.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091215": {
+   "fragment_id": "75088329",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 64.º\n\n1 - Até à publicação do decreto-lei previsto no n.º 1 do artigo 37.º, e para a determinação da área territorial abrangida pelos órgãos regionais, o distrito será considerado para todos os efeitos como unidade regional.\n\n2 - Os distritos poderão ser agrupados com vista à utilização comum de serviços e à hierarquização dos serviços prestadores.\n\n3 - Enquanto não forem definidas as regiões de saúde, a representação prevista na alínea f) do n.º 2 do artigo 25.º será assegurada pelas administrações distritais de saúde, que, de entre si, designarão seis elementos, tendo em conta uma equitativa representação geográfica.\n\n4 - Pode constituir-se mais do que uma administração distrital de saúde nos distritos que abranjam grandes centros urbanos, mediante portaria do Secretário de Estado da Saúde, sob proposta da Administração Central de Saúde.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75091214": {
+   "fragment_id": "75088330",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 65.º\n\n1 - O Governo elaborará, no prazo de seis meses a contar da publicação da presente lei, os decretos-leis necessários à sua execução.\n\n2 - No mesmo prazo será elaborado o Formulário Nacional de Medicamentos, tendo em vista a racionalização do consumo e a valorização do sector nacional, público e privado.\n\n3 - A implantação do SNS deverá iniciar-se no prazo de três meses após a entrada em vigor daqueles diplomas.\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "75088406": {
+   "fragment_id": "75088331",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 28 de Junho de 1979.\n\nO Vice-Presidente, em exercício, António Arnaut.\n\nPromulgado em 21 de Julho de 1979.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES. - O Primeiro-Ministro, Maria de Lourdes Ruivo da Silva Matos Pintasilgo."
+  },
+  "941705886": {
+   "fragment_id": "75079872",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "### Capítulo I — Princípios gerais\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705887": {
+   "fragment_id": "75079873",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 18.º\n\n1 - O SNS goza de autonomia administrativa e financeira e estrutura-se numa organização descentralizada e desconcentrada, compreendendo órgãos centrais, regionais e locais e dispondo de serviços prestadores de cuidados primários e serviços prestadores de cuidados diferenciados.\n\n2 - O SNS será apoiado por estabelecimentos e actividades de ensino que visem a formação e aperfeiçoamento de profissionais da saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705888": {
+   "fragment_id": "75079874",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 19.º\n\nAos órgãos do SNS compete, no seu conjunto, assegurar a distribuição racional, a hierarquização técnica e o funcionamento coordenado dos serviços, definir a complementaridade de valências e promover a descentralização decisória e a participação dos utentes no planeamento e na gestão dos serviços.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705889": {
+   "fragment_id": "75088275",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 20.º\n\nAos órgãos centrais cabem, especialmente, as seguintes atribuições:\n\na) Estudo e proposta da política de saúde;\n\nb) Planeamento e avaliação da prestação de serviços e das actividades de saúde;\n\nc) Elaboração de normas de funcionamento de estabelecimentos e serviços;\n\nd) Inspecção técnica e avaliação de resultados;\n\ne) Tomada de decisões necessárias à organização e funcionamento do SNS;\n\nf) Coordenação dos diferentes sectores de actividade;\n\ng) Elaboração de normas sobre a celebração de convénios com entidades não integradas no SNS e a outorga de convénios de âmbito nacional;\n\nh) Participação em actividades interministeriais;\n\ni) Formação e investigação no campo da saúde;\n\nj) Tutela e fiscalização da actividade privada no âmbito do sector da saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705890": {
+   "fragment_id": "75088276",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 21.º\n\n1 - Aos órgãos regionais cabem, especialmente, as seguintes atribuições:\n\na) Execução da política de saúde;\n\nb) Administração e gestão de serviços, registo de dados e análise epidemiológica;\n\nc) Inspecção;\n\nd) Contrôle do exercício profissional;\n\ne) Planeamento e avaliação da prestação de serviços e das actividades de saúde;\n\nf) Formação e investigação do campo da saúde;\n\ng) Celebração de convénios de âmbito regional com entidades não integradas no SNS, de acordo com as normas elaboradas pelos órgãos centrais.\n\n2 - Poderão constituir-se órgãos de âmbito mais alargado que o dos previstos no número anterior, designadamente para os seguintes efeitos:\n\na) Utilização de serviços comuns;\n\nb) Compatibilização de planos e de programas;\n\nc) Coordenação e supervisão técnica.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705891": {
+   "fragment_id": "75088277",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 22.º\n\nAos órgãos locais cabem, especialmente, as seguintes atribuições:\n\na) Administração e gestão de serviços, nos casos em que tal se justifique;\n\nb) Coordenação das unidades prestadoras de cuidados primários;\n\nc) Registo e análise de dados estatísticos.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705892": {
+   "fragment_id": "75088278",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 23.º\n\n1 - É assegurado aos utentes e aos profissionais da saúde o direito de participação no planeamento e na gestão dos serviços.\n\n2 - O direito consagrado no número anterior exerce-se, a nível central, pela participação no Conselho Nacional de Saúde, previsto no artigo 25.º deste diploma, e, a nível regional e local, pela participação nos conselhos regionais de saúde e nas comissões concelhias de apoio, previstos, respectivamente, nos artigos 39.º e 40.º deste diploma, para além da participação em órgãos de serviços, em termos a regulamentar.\n\n3 - A representação dos utentes nos conselhos regionais de saúde e nas comissões concelhias de apoio, bem como a representação dos profissionais de saúde. será assegurada por membros designados pelas autarquias e pelas organizações sindicais interessadas, em termos a regulamentar.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705893": {
+   "fragment_id": "75088280",
+   "type": 8,
+   "heading": "Secção I",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "#### Secção I\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705894": {
+   "fragment_id": "75088281",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 24.º\n\nSão órgãos centrais do SNS:\n\nI) De natureza consultiva:\n\nO Conselho Nacional de Saúde.\n\nII) De natureza instrumental:\n\na) O Departamento de Ensino e Investigação;\n\nb) O Departamento de Assuntos Farmacêuticos;\n\nc) O Departamento de Estudos e Planeamento;\n\nd) O Departamento de Gestão Financeira;\n\ne) A Inspecção dos Serviços de Saúde.\n\nIII) De natureza executiva:\n\nA Administração Central de Saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705895": {
+   "fragment_id": "75088282",
+   "type": 8,
+   "heading": "Secção II",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "#### Secção II\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705896": {
+   "fragment_id": "75088283",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 25.º\n\n1 - O Conselho Nacional de Saúde é um órgão consultivo da Secretaria de Estado da Saúde e visa a unidade de planeamento da política de saúde.\n\n2 - O Conselho Nacional de Saúde tem um presidente designado pela Assembleia da República pelo período da legislatura e os seguintes vogais:\n\na) O presidente da Administração Central de Saúde;\n\nb) O Presidente do Conselho de Segurança Social;\n\nc) Um representante do MEC;\n\nd) Um representante do Ministério das Finanças e do Plano;\n\ne) Um representante de cada região autónoma;\n\nf) Um representante de cada região de saúde;\n\ng) Um representante da Ordem dos Médicos;\n\nh) Um representante dos sindicatos dos enfermeiros;\n\ni) Dois representantes dos restantes profissionais de saúde a designar pelos respectivos sindicatos;\n\nj) Cinco representantes dos utentes do SNS.\n\n3 - Os representantes dos utentes são designados pela Assembleia da República no início e pelo período de cada legislatura.\n\n4 - Os representantes das regiões autónomas são designados pelas respectivas assembleias regionais.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705897": {
+   "fragment_id": "75088284",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 26.º\n\n1 - Ao Conselho Nacional de Saúde compete, especialmente, pronunciar-se sobre a definição e a orientação superior da política de saúde, dar parecer sobre as questões que pelo Ministro dos Assuntos Sociais ou pelo Secretário de Estado da Saúde lhe sejam cometidas e intervir nas actividades de responsabilidade interministerial relacionadas com o sector da saúde.\n\n2 - Para efeitos do disposto na parte final do número anterior, são constituídas, no âmbito do Conselho Nacional de Saúde, comissões interministeriais especializadas, presididas por um representante da Secretaria de Estado da Saúde, e em que participam representantes de outros departamentos ministeriais para intervirem, nomeadamente, nos seguintes domínios:\n\na) Política demográfica;\n\nb) Alimentação e nutrição;\n\nc) Política de habitat, poluição e saneamento de meio;\n\nd) Formação profissional;\n\ne) Saúde ocupacional;\n\nf) Política do medicamento.\n\n3 - Às comissões referidas no número anterior compete propor as medidas necessárias à execução coordenada da política de saúde.\n\n4 - A composição das comissões será fixada em diploma regulamentar.\n\n5 - No Conselho Nacional de Saúde poderão participar técnicos ou entidades de serviços públicos ou privados cuja colaboração seja julgada necessária.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705898": {
+   "fragment_id": "75088291",
+   "type": 8,
+   "heading": "Secção IV",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "#### Secção IV\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705899": {
+   "fragment_id": "75088292",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 32.º\n\nÀ Administração Central de Saúde compete dirigir o SNS segundo a política superiormente definida, coordenar os diferentes sectores de actividade, elaborar normas de funcionamento de estabelecimentos e serviços e de celebração de convénios, outorgar em convénios de âmbito nacional e, em geral, tomar as decisões que não sejam da competência específica do Ministro dos Assuntos Sociais, do Secretário de Estado da Saúde ou de quaisquer outros órgãos.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705900": {
+   "fragment_id": "75088293",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 33.º\n\n1 - A Administração Central de Saúde compreende os seguintes departamentos, dirigidos por directores:\n\na) O Departamento de Cuidados Primários;\n\nb) O Departamento de Cuidados Diferenciados;\n\nc) O Departamento de Recursos Humanos.\n\n2 - O Departamento de Cuidados Primários actua nas seguintes áreas:\n\na) Cuidados gerais de saúde enunciados nos n.os 2, 4 e 5 do artigo 16.º deste diploma;\n\nb) Contrôle das doenças transmissíveis e das doenças crónico-degenerativas;\n\nc) Saúde ocupacional;\n\nd) Higiene dos alimentos e da nutrição;\n\ne) Higiene do meio ambiente;\n\nf) Educação para a saúde.\n\n3 - O Departamento de Cuidados Diferenciados actua na área dos cuidados hospitalares, curativos e de reabilitação, enunciados nos n.os 3, 4 e 5 do artigo 16.º deste diploma.\n\n4 - O Departamento de Recursos Humanos actua nas seguintes áreas:\n\na) Recrutamento, selecção e formação do pessoal;\n\nb) Gestão das carreiras profissionais;\n\nc) Exercício profissional.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705901": {
+   "fragment_id": "75088294",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 34.º\n\nOs departamento compreendidos na Administração Central de Saúde prosseguem uma gestão participada por objectivos e exercem uma actividade técnico-normativa assente em estudo e avaliação permanentes.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705902": {
+   "fragment_id": "75088295",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 35.º\n\nA Administração Central de Saúde é dirigida por um conselho directivo composto pelos directores-gerais dos seus departamentos, que elegem anualmente entre si o presidente.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "943762933": {
+   "fragment_id": "75088296",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "1993-10-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 361/93 - Diário da República n.º 242/1993, Série I-A de 1993-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1993-668520), em vigor a partir de 1993-10-20",
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 36.º\n\n1 - (Revogado.)\n\n2 - O Gabinete de Instalações e Equipamento tem as seguintes atribuições:\n\na) Programação dos estabelecimentos de saúde e fiscalização da respectiva execução;\n\nb) Normalização de instalações e equipamentos de saúde;\n\nc) Segurança das instalações e manutenção dos equipamentos;\n\nd) Estudos de mercado e normalização de equipamentos.\n\n3 - O Gabinete de Informática tem as seguintes atribuições:\n\na) Organização e racionalização administrativa;\n\nb) Coordenação da documentação e informação.\n\n4 - O Gabinete Jurídico tem as seguintes atribuições:\n\na) Elaboração de pareceres jurídicos;\n\nb) Preparação de legislação.\n\n5 - O Gabinete de Produtos Biológicos tem as seguintes atribuições:\n\na) Orientação das actividades relacionadas com o sangue, suas fracções e produtos homólogos, vacinas e soros;\n\nb) Orientação das actividades relacionadas com tecidos e órgãos.\n\n6 - A Administração Central de Saúde é ainda apoiada por uma repartição administrativa.\n\nCAPÍTUTO III\n\nDos órgãos regionais e locais\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Alterado pelo/a Artigo 22.º do/a [Decreto-Lei n.º 361/93 - Diário da República n.º 242/1993, Série I-A de 1993-10-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/361-1993-668520), em vigor a partir de 1993-10-20\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705904": {
+   "fragment_id": "75088297",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 37.º\n\n1 - A área de competência dos órgãos regionais será fixada de acordo com a regionalização do País que vier a ser aprovada.\n\n2 - A área de competência dos órgãos locais será a do concelho.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705905": {
+   "fragment_id": "75088298",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 38.º\n\n1 - São órgãos regionais do SNS as administrações regionais de saúde, directamente dependentes da Administração Central de Saúde, e gozando de autonomia administrativa.\n\n2 - Às administrações regionais de saúde cabem as funções especificadas no artigo 21.º deste diploma.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705906": {
+   "fragment_id": "75088299",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 39.º\n\n1 - As administrações regionais de saúde integram os estabelecimentos e serviços de saúde oficiais dependentes do Ministério dos Assuntos Sociais existentes nas respectivas áreas territoriais e coordenam-se com os estabelecimentos e serviços de âmbito supra-regional.\n\n2 - Os estabelecimentos e serviços dependentes de outros departamentos ministeriais, de empresas públicas ou de empresas nacionalizadas, com excepção dos dependentes de departamentos militares, integrar-se-ão nas administrações regionais de saúde à medida que a estrutura do SNS entre em funcionamento nas respectivas regiões.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705907": {
+   "fragment_id": "75088300",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 40.º\n\nAs administrações regionais de saúde são dirigidas por um conselho directivo e compreendem um sector de cuidados primários, um sector de cuidados diferenciados e sectores de apoio técnico e administrativo e dispõem, como órgãos consultivos, de um conselho regional de saúde e de uma comissão técnica.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705908": {
+   "fragment_id": "75088301",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 41.º\n\nSão órgãos locais do SNS as direcções dos centros de saúde concelhios, gozando da competência que lhes for delegada pela respectiva administração regional de saúde e dispondo, como órgãos consultivos, de comissões concelhias de apoio.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705909": {
+   "fragment_id": "75088302",
+   "type": 1,
+   "heading": "Capítulo IV — Dos serviços prestadores dos cuidados de saúde",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "### Capítulo IV — Dos serviços prestadores dos cuidados de saúde\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705910": {
+   "fragment_id": "75088303",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 42.º\n\n1 - São serviços prestadores de cuidados primários os centros comunitários de saúde.\n\n2 - São serviços prestadores de cuidados diferenciados os hospitais gerais, os hospitais especializados e outras instituições especializadas.\n\n3 - Os serviços prestadores de cuidados dependem das administrações regionais de saúde, sem prejuízo de autonomia que lhes for fixada por lei.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705911": {
+   "fragment_id": "75088304",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 43.º\n\n1 - Os serviços prestadores de cuidados primários e os serviços prestadores de cuidados diferenciados estruturam-se e complementam-se de forma articulada quanto ao seu funcionamento.\n\n2 - Nas áreas de especialidades previstas na alínea b) do n.º 2 do artigo 16.º as mesmas equipas asseguram a prestação de cuidados nos serviços referidos no número anterior.\n\n3 - Será sempre assegurada a continuidade e a articulação dos cuidados primários e dos cuidados diferenciados.\n\n4 - Para efeitos dos números anteriores, a coordenação do funcionamento articulado dos cuidados de saúde cabe ao competente órgão regional.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705912": {
+   "fragment_id": "75088305",
+   "type": 13,
+   "heading": "Título V — Do estatuto do pessoal",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "## Título V — Do estatuto do pessoal\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705913": {
+   "fragment_id": "75088306",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 44.º\n\nO pessoal do SNS desempenha uma relevante função social ao serviço do homem e da comunidade. Tem a qualidade de funcionário público ou de agente, sem prejuízo de poder beneficiar de estatuto especial.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705914": {
+   "fragment_id": "75088307",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 45.º\n\n1 - Ao pessoal do SNS que tenha a qualidade de funcionário é assegurado o regime de carreira.\n\n2 - O pessoal que tenha a qualidade de agente não pode beneficiar de tratamento mais favorável do que o estabelecido para o pessoal referido no número anterior.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705915": {
+   "fragment_id": "75088308",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 46.º\n\n1 - O regime de serviço do pessoal será estabelecido de acordo com as necessidades de funcionamento dos serviços e dos utentes e com a responsabilidade profissional dos quadros.\n\n2 - O regime de serviço pode ser de tempo completo ou de tempo completo prolongado.\n\n3 - Em qualquer das modalidades previstas no número anterior o regime de serviço será, em princípio, em dedicação exclusiva, com impossibilidade do exercício de quaisquer outras funções públicas ou privadas. O respectivo estatuto regulará as condições de exercício da actividade privada fora do horário de serviço e fixará uma remuneração suplementar para a modalidade de dedicação exclusiva.\n\n4 - Em casos especiais a definir pode ainda autorizar-se o regime de tempo parcial ou o regime de contratação.\n\n5 - Os serviços de funcionamento permanente ou de urgência obedecem a organização e esquema especiais de regime de serviço.\n\n6 - São proibidas as acumulações de lugares no SNS, salvo se se verificar inerência de funções, carência de pessoal devidamente habilitado para o exercício de funções ou complementaridade de actividades.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705916": {
+   "fragment_id": "75088309",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 47.º\n\n1 - A avaliação da capacidade para o ingresso e acesso às várias categorias na carreira compreende as seguintes modalidades:\n\na) Avaliação mediante concurso;\n\nb) Avaliação permanente do exercício e treino em serviço;\n\nc) Avaliação após curso ou estágio de pós-graduação.\n\n2 - As modalidades enunciadas no número anterior podem ser consideradas isoladas ou conjuntamente, de acordo com as características das várias profissões.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705917": {
+   "fragment_id": "75088310",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 48.º\n\n1 - O grau da carreira é independente do exercício efectivo de funções e do regime de serviço.\n\n2 - O exercício efectivo de funções pressupõe o correspondente grau da carreira.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705918": {
+   "fragment_id": "75088311",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 49.º\n\nAs remunerações do pessoal do SNS são estabelecidas em função do grau na carreira e do regime de prestação de serviço.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705919": {
+   "fragment_id": "75088312",
+   "type": 13,
+   "heading": "Título VI — Do financiamento",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "## Título VI — Do financiamento\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705920": {
+   "fragment_id": "75088313",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 50.º\n\nIncumbe ao Estado mobilizar os recursos financeiros indispensáveis ao SNS, de modo a assegurar a sua progressiva implantação e realização.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705921": {
+   "fragment_id": "75088314",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 51.º\n\nO Governo proporá anualmente à Assembleia da República a afectação ao SNS de uma dotação orçamental que tome em conta a evolução do produto nacional bruto.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705922": {
+   "fragment_id": "75088315",
+   "type": 13,
+   "heading": "Título VII — Da articulação com o sector privado",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "## Título VII — Da articulação com o sector privado\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04"
+  },
+  "941705923": {
+   "fragment_id": "75088316",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 52.º\n\nO SNS articula-se com a existência e funcionamento de instituições não oficiais e formas de actividade privada no âmbito do sector da saúde, sujeitas à disciplina e contrôle do Estado, nos termos da Constituição.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705924": {
+   "fragment_id": "75088317",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 53.º\n\n1 - Podem ser estabelecidos convénios entre o SNS e instituições não oficiais ou entidades privadas, designadamente no campo da hospitalização e dos meios de diagnóstico, nos casos em que a rede de serviços oficial não assegure os cuidados de saúde, mediante normas a estabelecer pela Administração Central de Saúde.\n\n2 - Em casos de necessidade pública, pode o Governo, pelo Ministro dos Assuntos Sociais, proceder à afectação ao SNS do uso de instalações hospitalares ou para-hospitalares devolutas ou manifestamente subaproveitadas e respectivos equipamentos, em termos a regulamentar, ou proceder à expropriação dessas instalações e equipamentos, mediante indemnização.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705925": {
+   "fragment_id": "75088320",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 55.º\n\nA actuação do SNS na área da saúde ocupacional prevista na alínea c) do n.º 2 do artigo 33.º deste diploma será objecto de regulamentação especial, que fixará também a responsabilidade das empresas nos encargos decorrentes das actividades de medicina do trabalho nas próprias empresas.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705926": {
+   "fragment_id": "75088321",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 56.º\n\nO SNS articular-se-á com o Serviço Nacional de Ambulâncias e com o Serviço Nacional de Bombeiros nos termos que vierem a ser definidos em portaria conjunta dos Ministros competentes.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705927": {
+   "fragment_id": "75088322",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 57.º\n\n1 - O SNS e os órgãos competentes da segurança social estabelecerão entre si as formas de coordenação de actividades em todos os sectores em que haja interligação de saúde com segurança social.\n\n2 - De acordo com o número anterior, a celebração de convenções internacionais de segurança social que envolvam compromissos no campo da saúde dependerá de parecer prévio da Administração Central de Saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705928": {
+   "fragment_id": "75088323",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 58.º\n\n1 - O SNS entra gradualmente em funcionamento nos termos e nos distritos que forem fixados por resolução do Conselho de Ministros, sob proposta do Ministro dos Assuntos Sociais, dando-se prioridade às zonas mais carenciadas.\n\n2 - Nas restantes zonas deverão promover-se desde já, sob a orientação da Administração Central de Saúde, as acções de planeamento e as medidas indispensáveis à melhoria das estruturas existentes e à sua integração no SNS.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705929": {
+   "fragment_id": "75088324",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 59.º\n\nOs beneficiários de esquemas de protecção na doença privativos de sector de actividades ou de estratos profissionais determinados integrar-se-ão, na parte referente a cuidados de saúde, no esquema de prestações do SNS, à medida que a sua estrutura entre em funcionamento nos respectivos distritos.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705930": {
+   "fragment_id": "75088325",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 60.º\n\nEnquanto não se implantar em todo o País o Serviço Nacional de Saúde, são considerados utentes todos os indivíduos que residam nas sucessivas áreas de implantação, sem prejuízo de, em casos de urgência, se permitir o acesso de residentes noutras áreas.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705931": {
+   "fragment_id": "75088326",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 61.º\n\nO regime de carreira previsto no n.º 1 do artigo 44.º será regulado por decreto-lei, sem prejuízo do que vier a ser estabelecido em estatuto da função pública.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705932": {
+   "fragment_id": "75088329",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 64.º\n\n1 - Até à publicação do decreto-lei previsto no n.º 1 do artigo 37.º, e para a determinação da área territorial abrangida pelos órgãos regionais, o distrito será considerado para todos os efeitos como unidade regional.\n\n2 - Os distritos poderão ser agrupados com vista à utilização comum de serviços e à hierarquização dos serviços prestadores.\n\n3 - Enquanto não forem definidas as regiões de saúde, a representação prevista na alínea f) do n.º 2 do artigo 25.º será assegurada pelas administrações distritais de saúde, que, de entre si, designarão seis elementos, tendo em conta uma equitativa representação geográfica.\n\n4 - Pode constituir-se mais do que uma administração distrital de saúde nos distritos que abranjam grandes centros urbanos, mediante portaria do Secretário de Estado da Saúde, sob proposta da Administração Central de Saúde.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  },
+  "941705933": {
+   "fragment_id": "75088330",
+   "type": 11,
+   "heading": "Artigo 65.º",
+   "in_force_from": "1982-07-04",
+   "changed_by": [
+    "Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04",
+    "Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+   ],
+   "markdown": "###### Artigo 65.º\n\n1 - O Governo elaborará, no prazo de seis meses a contar da publicação da presente lei, os decretos-leis necessários à sua execução.\n\n2 - No mesmo prazo será elaborado o Formulário Nacional de Medicamentos, tendo em vista a racionalização do consumo e a valorização do sector nacional, público e privado.\n\n3 - A implantação do SNS deverá iniciar-se no prazo de três meses após a entrada em vigor daqueles diplomas.\n\n> Nota: [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993) Declara a inconstitucionalidade, com força obrigatória, do art. 17.º do Decreto-Lei n.º 254/82, de 29 deJunho, na parte em que revoga o presente artigo.\n\n> Reposto em Vigor pelo/a [Acórdão n.º 39/84 - Diário da República n.º 104/1984, Série I de 1984-05-05](https://diariodarepublica.pt/dr/detalhe/acordao/39-1984-384993), em vigor a partir de 1982-07-04\n\n> Revogado pelo/a Artigo 17.º do/a [Decreto-Lei n.º 254/82 - Diário da República n.º 147/1982, Série I de 1982-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/254-1982-395514), em vigor a partir de 1982-07-04"
+  }
+ }
+}

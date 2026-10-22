@@ -1,0 +1,205 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:313809:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2001-1004293686",
+ "dre_path": "/dr/detalhe/portaria/476-2001-313809",
+ "source_lastmod": "2026-02-02",
+ "versions": [
+  {
+   "date": "2001-05-10",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1004304775",
+    "1004304975",
+    "1004305375",
+    "1004305575",
+    "1004305775",
+    "1004305975",
+    "1004306175",
+    "1004306375",
+    "1004306575",
+    "1004306775",
+    "1004306975",
+    "1004307175",
+    "1004307375",
+    "1004307575",
+    "1004307775"
+   ]
+  },
+  {
+   "date": "2006-09-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:540047:por",
+     "title": "Portaria n.º 939/2006",
+     "published": "2006-09-08",
+     "dre_path": "/dr/detalhe/portaria/939-2006-540047"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "1004304775",
+    "1004304975",
+    "1004305175",
+    "1004305375",
+    "1004305575",
+    "1004305775",
+    "1004305975",
+    "1004306175",
+    "1004306375",
+    "1004306575",
+    "1004306775",
+    "1004306975",
+    "1029684120",
+    "1004307375",
+    "1004307575",
+    "1004307775"
+   ]
+  }
+ ],
+ "fragments": {
+  "1004304775": {
+   "fragment_id": "1004304675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Programa Operacional Pesca, adiante designado por MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca, no âmbito do eixo «Outras medidas», prevê uma medida para apoio a acções piloto e projectos inovadores.\n\nAs acções piloto e os projectos inovadores constituem um meio privilegiado de divulgar novas práticas e de diversificar as actividades do sector da pesca, pelo que se pretende criar condições para que projectos deste tipo possam surgir e ser apoiados, estimulando a criatividade, a aplicação e aquisição de conhecimentos por parte dos profissionais da Pesca.\n\nO presente diploma regulamenta o acesso das entidades públicas às comparticipações financeiras do instrumento financeiro de orientação da Pesca (IFOP) no âmbito desta medida.\n\nAssim:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, tendo em consideração a Decisão n.º C (2000) 2361, de 1 de Agosto, que aprovou o Programa Operacional Pesca do QCA III, e o Decreto-Lei n.º 224/2000, de 9 de Setembro, que define e regula o quadro legal daquele Programa, o seguinte:\n\n1.º É aprovado o Regulamento de Aplicação da Medida Acções Piloto e Projectos Inovadores, anexo à presente portaria e que dela faz parte integrante.\n\n2.º A presente portaria entra em vigor no dia seguinte à sua publicação."
+  },
+  "1004304975": {
+   "fragment_id": "1004304875",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 18 de Abril de 2001."
+  },
+  "1004305375": {
+   "fragment_id": "1004305275",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece as condições de atribuição de comparticipações financeiras ao abrigo da medida «Acções Piloto e Projectos Inovadores», nos termos do Regulamento (CE) n.º 2792/99, do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca."
+  },
+  "1004305575": {
+   "fragment_id": "1004305475",
+   "type": 11,
+   "heading": "Artigo 2.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Objectivos\n\nO presente Regulamento tem por objectivo apoiar os projectos que visem:\n\na) Aumentar o conhecimento técnico-científico dos recursos haliêuticos na ZEE nacional, por forma a permitir uma exploração mais racional da actividade;\n\nb) Promover o desenvolvimento de tecnologias inovadoras na produção de espécies;\n\nc) Promover a adaptação do sector às realidades ambientais e concorrenciais;\n\nd) Criar condições para a experimentação de tecnologias inovadoras, promovendo a aquisição e a divulgação de conhecimentos técnicos e ou económicos sobre as tecnologias testadas."
+  },
+  "1004305775": {
+   "fragment_id": "1004305675",
+   "type": 11,
+   "heading": "Artigo 3.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Promotores\n\nPodem apresentar candidaturas, no âmbito do presente Regulamento, quaisquer entidades públicas."
+  },
+  "1004305975": {
+   "fragment_id": "1004305875",
+   "type": 11,
+   "heading": "Artigo 4.º — Tipos de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Tipos de projectos\n\nNo âmbito do presente Regulamento são enquadráveis as seguintes acções inovadoras:\n\na) Estudos e projectos piloto;\n\nb) Projectos de experimentação e demonstração de métodos, técnicas ou estruturas inovadoras;\n\nc) Acções de formação;\n\nd) Construção ou adaptação de navios para investigação haliêutica ou para formação;\n\ne) Promoção da igualdade face ao emprego entre os homens e mulheres que trabalham no sector."
+  },
+  "1004306175": {
+   "fragment_id": "1004306075",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições de acesso\n\n1 - Os promotores devem reunir as seguintes condições gerais de acesso:\n\na) Demonstrar a existência de capacidade financeira necessária à execução do projecto;\n\nb) Ter a situação regularizada perante a administração fiscal, a segurança social e as entidades pagadoras de qualquer apoio público.\n\n2 - Os projectos devem reunir, nos casos aplicáveis, as seguintes condições específicas de acesso:\n\na) Comprovar terem sido solicitadas as autorizações e ou licenças necessárias à sua execução;\n\nb) Dispor de projecto técnico aprovado nos termos legais;\n\nc) Prever o acompanhamento científico adequado à sua natureza;\n\nd) Garantir uma adequada divulgação dos seus resultados;\n\ne) Demonstrar o cumprimento das disposições legais em matéria de ambiente;\n\nf) Não se encontrarem concluídos à data de apresentação da candidatura.\n\n3 - A aprovação da candidatura apenas poderá ter lugar após a apresentação das autorizações e ou licenças previstas na alínea a) do n.º 2 e da demonstração do cumprimento das disposições legais em matéria de concursos públicos, quando aplicáveis."
+  },
+  "1004306375": {
+   "fragment_id": "1004306275",
+   "type": 11,
+   "heading": "Artigo 6.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Critérios de selecção\n\n1 - Serão seleccionadas para comparticipação financeira as candidaturas que contribuam para o desenvolvimento sustentado do sector da pesca e relativamente às quais se verifique pelo menos um dos seguintes critérios de selecção:\n\na) Prossecução de um melhor conhecimento dos recursos e de tecnologias inovadoras no sector da pesca;\n\nb) Contribuição para um melhor conhecimento, sensibilização ou minimização dos impactes ambientais;\n\nc) Promoção de sistemas de melhoramento e de controlo da qualidade e da rastreabilidade;\n\nd) Introdução de dinâmicas de inovação nas comunidades piscatórias tradicionais.\n\n2 - Serão consideradas prioritárias as candidaturas apresentadas por organismos do sector da pesca, com atribuições e competências em matéria de formação ou de investigação.\n\n3 - As candidaturas seleccionadas nos termos dos números anteriores serão ordenadas em dois grupos, tendo em vista a dotação financeira respectiva:\n\na) Projectos localizados na Região de Lisboa e Vale do Tejo;\n\nb) Projectos localizados nas restantes regiões do continente."
+  },
+  "1004306575": {
+   "fragment_id": "1004306475",
+   "type": 11,
+   "heading": "Artigo 7.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Despesas elegíveis\n\nPara efeitos de comparticipação financeira, são elegíveis as seguintes despesas:\n\na) Construção, aquisição ou adaptação de navios de investigação ou de formação e respectivos equipamentos;\n\nb) Construção, aquisição ou adaptação de edifícios, instalações e outras estruturas;\n\nc) Aquisição de equipamentos, incluindo os informáticos;\n\nd) Meios de transporte sob temperatura dirigida, aprovados e certificados nos termos do Acordo Internacional de Transportes de Produtos Perecíveis sob Temperatura Dirigida (ATP), até um limite máximo de 20% das despesas elegíveis;\n\ne) Estudos e projectos técnicos;\n\nf) Despesas de exploração decorrentes directamente da actividade prevista no projecto;\n\ng) Despesas com a divulgação dos resultados dos projectos;\n\nh) Despesas com formandos, formadores, pessoal de apoio, de preparação, execução e avaliação indispensáveis às acções de formação;\n\ni) Custos gerais de investimento e imprevistos."
+  },
+  "1004306775": {
+   "fragment_id": "1004306675",
+   "type": 11,
+   "heading": "Artigo 8.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Despesas não elegíveis\n\nNão são elegíveis, para efeitos de comparticipação financeira, as seguintes despesas:\n\na) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário;\n\nb) Encargos financeiros e administrativos;\n\nc) Despesas de funcionamento do promotor;\n\nd) Aquisição de veículos automóveis, à excepção dos previstos na alínea d) do artigo 7.º;\n\ne) Aquisição de equipamentos em estado de uso;\n\nf) Aquisição de instalações, equipamentos ou outras despesas dispensáveis à execução do projecto;\n\ng) Despesas pagas antes de 22 de Dezembro de 1999."
+  },
+  "1004306975": {
+   "fragment_id": "1004306875",
+   "type": 11,
+   "heading": "Artigo 9.º — Natureza e montante das comparticipações financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Natureza e montante das comparticipações financeiras\n\nAs comparticipações financeiras são atribuídas sob a forma de subsídio a fundo perdido, a suportar pelo IFOP até 75% das despesas elegíveis, sendo a comparticipação nacional suportada pelo promotor."
+  },
+  "1004307175": {
+   "fragment_id": "1004307075",
+   "type": 11,
+   "heading": "Artigo 10.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Candidaturas\n\n1 - As candidaturas ao presente Regulamento são apresentadas na sede ou direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas, podem ser solicitados através da DGPA ou do IFADAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 15 dias, se outro não for fixado.\n\n4 - O fecho das candidaturas ocorrerá em 30 de Junho de 2006, se data anterior não for determinada pelo gestor."
+  },
+  "1004307375": {
+   "fragment_id": "1004307275",
+   "type": 11,
+   "heading": "Artigo 11.º — Apreciação e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apreciação e decisão\n\n1 - A apreciação das candidaturas compete à DGPA.\n\n2 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação ou subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n3 - As candidaturas são decididas no prazo máximo de 120 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos."
+  },
+  "1004307575": {
+   "fragment_id": "1004307475",
+   "type": 11,
+   "heading": "Artigo 12.º — Atribuição dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Atribuição dos apoios\n\n1 - A concessão dos apoios é formalizada por protocolo entre o promotor e o IFADAP, cuja assinatura deve ser efectuada no prazo de 30 dias após a recepção da comunicação da concessão da comparticipação financeira.\n\n2 - O pagamento da comparticipação financeira é feito pelo IFADAP, após a verificação de que o promotor tem a situação contributiva regularizada perante a administração fiscal e a segurança social.\n\n3 - Os pagamentos são efectuados após apresentação pelo promotor dos documentos comprovativos do pagamento das despesas, em conformidade com os formulários próprios.\n\n4 - A comparticipação financeira será paga proporcionalmente à realização do investimento elegível e nas demais condições constantes no protocolo, devendo o montante da primeira e última prestação representar, pelo menos, 25% e 20%, respectivamente, daquela comparticipação, salvo o disposto no número seguinte.\n\n5 - Poderão ser estabelecidos no protocolo mecanismos de adiantamento da comparticipação financeira."
+  },
+  "1004307775": {
+   "fragment_id": "1004307675",
+   "type": 11,
+   "heading": "Artigo 13.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Obrigações dos promotores\n\nSem prejuízo das obrigações previstas no artigo 8.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, constituem obrigações dos promotores:\n\na) Cumprir as normas de publicitação do co-financiamento do investimento no local da realização do projecto a partir da data de assinatura do protocolo de atribuição dos apoios;\n\nb) Iniciar a execução do projecto no prazo máximo de 180 dias a contar da data de assinatura do protocolo e completar essa execução no prazo máximo nele fixado;\n\nc) Aplicar integralmente a comparticipação financeira na realização do projecto de investimento aprovado, com vista à execução dos seus objectivos;\n\nd) Manter integralmente os requisitos da atribuição da comparticipação financeira, designadamente os constantes do projecto, não alterando nem modificando o mesmo sem prévia autorização do gestor;\n\ne) Fornecer todos os elementos que forem solicitados pela DGPA, pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos;\n\nf) Não alienar ou ceder a qualquer título, sem autorização prévia do gestor, as estruturas ou equipamentos que beneficiaram de comparticipação financeira ao abrigo do presente Regulamento, num prazo de 10 e 6 anos, respectivamente, a contar da data da sua aquisição e zelar pela manutenção dos objectivos do projecto;\n\ng) Apresentar ao IFADAP, no prazo de um ano a contar da conclusão material do investimento, um relatório devidamente fundamentado sobre a execução material e financeira do projecto;\n\nh) Apresentar ao gestor relatórios anuais relativos ao acompanhamento científico dos projectos piloto durante o período fixado no despacho previsto no n.º 2 do artigo 11.º;\n\ni) Contabilizar os apoios recebidos nos termos da legislação aplicável;\n\nj) Garantir a igualdade de oportunidades entre homens e mulheres."
+  },
+  "1004305175": {
+   "fragment_id": "1004305075",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DE APLICAÇÃO ACÇÕES PILOTO E PROJECTOS INOVADORES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DE APLICAÇÃO ACÇÕES PILOTO E PROJECTOS INOVADORES"
+  },
+  "1029684120": {
+   "fragment_id": "1004307075",
+   "type": 11,
+   "heading": "Artigo 10.º — Candidaturas",
+   "in_force_from": "2006-09-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 939/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/939-2006-540047), em vigor a partir de 2006-09-13, produz efeitos a partir de 2006-07-01"
+   ],
+   "markdown": "###### Artigo 10.º — Candidaturas\n\n1 - As candidaturas ao presente Regulamento são apresentadas na sede ou direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento dos formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas, podem ser solicitados através da DGPA ou do IFADAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 15 dias, se outro não for fixado.\n\n4 - O fecho das candidaturas ocorre em 30 de Setembro de 2006.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 939/2006 - Diário da República n.º 174/2006, Série I de 2006-09-08](https://diariodarepublica.pt/dr/detalhe/portaria/939-2006-540047), em vigor a partir de 2006-09-13, produz efeitos a partir de 2006-07-01"
+  }
+ }
+}

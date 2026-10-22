@@ -1,0 +1,385 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:280945:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-936542274",
+ "dre_path": "/dr/detalhe/decreto-lei/16-2011-280945",
+ "source_lastmod": "2025-09-25",
+ "versions": [
+  {
+   "date": "2011-01-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "936542364",
+    "936542365",
+    "936542366",
+    "936542367",
+    "936542368",
+    "936542369",
+    "936542370",
+    "936542371",
+    "936542372",
+    "936542373",
+    "936542374",
+    "936543875",
+    "936543876",
+    "936543877",
+    "936543878",
+    "936543879",
+    "936543881",
+    "936543882"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:70686134:por",
+     "title": "Decreto-Lei n.º 240/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/decreto-lei/240-2015-70686134",
+     "date": "2011-10-29"
+    }
+   ]
+  },
+  {
+   "date": "2015-10-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:70686134:por",
+     "title": "Decreto-Lei n.º 240/2015",
+     "published": "2015-10-14",
+     "dre_path": "/dr/detalhe/decreto-lei/240-2015-70686134"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 6.º",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º"
+   ],
+   "fragments": [
+    "936542364",
+    "936543884",
+    "936543885",
+    "936543886",
+    "936543887",
+    "936542369",
+    "936543888",
+    "936543889",
+    "936543890",
+    "936542373",
+    "936542374",
+    "936543891",
+    "936543892",
+    "936543893",
+    "936543894",
+    "936543895",
+    "936543880",
+    "936543896",
+    "936543897"
+   ]
+  }
+ ],
+ "fragments": {
+  "936542364": {
+   "fragment_id": "936543775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 16/2011\n\nde 25 de Janeiro\n\nO presente decreto-lei define o regime legal da cedência dos estabelecimentos integrados do Instituto da Segurança Social, I. P., situados no distrito de Lisboa, à Santa Casa da Misericórdia de Lisboa.\n\nA definição de um regime legal da cedência dos estabelecimentos integrados do Instituto da Segurança Social, I. P., tais como casas de repouso, centros de apoio social, centros comunitários, lares e centros infantis, surge no âmbito de implementação de um novo quadro de gestão destes estabelecimentos, introduzido pelo Orçamento do Estado para 2011.\n\nA cedência dos estabelecimentos integrados do Instituto da Segurança Social, I. P., à Santa Casa da Misericórdia de Lisboa prossegue ainda o objectivo do XVIII Governo Constitucional no sentido de dar continuidade à aposta na qualidade e acessibilidade dos serviços às populações, apoiando e viabilizando novos caminhos quanto ao desenvolvimento da rede de equipamentos sociais em parceria público-social.\n\nAssim, por um lado, o presente decreto-lei prevê a cedência temporária dos referidos estabelecimentos localizados no distrito de Lisboa, por um prazo de três anos, à Santa Casa da Misericórdia de Lisboa. Esta instituição assegurará, assim, a gestão das respostas sociais prestadas por aqueles estabelecimentos.\n\nO período de cedência dos estabelecimentos pode ser sucessivamente renovado por iguais períodos, sem prejuízo de poder ser convertida em transmissão definitiva.\n\nPor outro lado, o presente decreto-lei estabelece quais as disposições que devem constar do contrato de gestão a celebrar entre o Instituto da Segurança Social, I. P., e a Santa Casa da Misericórdia de Lisboa e esclarece qual o estatuto jurídico-funcional dos trabalhadores que se encontrem a exercer funções nos estabelecimentos abrangidos pela cedência temporária.\n\nA opção por esta parceria estratégica assenta num modelo de gestão que aproveita a experiência vasta da Santa Casa da Misericórdia de Lisboa na gestão de equipamentos e respostas sociais e os recursos humanos e estabelecimentos já existentes que integram o património do Instituto da Segurança Social, I. P.\n\nA cedência dos estabelecimentos integrados do Instituto da Segurança Social, I. P., à Santa Casa da Misericórdia de Lisboa traz vantagens para os cidadãos e para as entidades envolvidas. Desta forma, permite-se uma melhor coordenação de entidades públicas e sociais para o desenvolvimento da rede de equipamentos sociais. Por um lado, reforça-se o papel da Santa Casa da Misericórdia de Lisboa como instituição liderante e actuante na prossecução de objectivos sociais. Por outro lado, reforça-se a função do Instituto da Segurança Social, I. P., no sistema de segurança social, enquanto organismo especialmente criado e vocacionado para a gestão das prestações e das contribuições desse sistema e igualmente responsável pelo reconhecimento dos direitos e cumprimento das obrigações decorrentes dos regimes de segurança social e exercício da acção social. Permite-se, assim, uma adequação mais eficiente das competências de cada entidade aos recursos de que dispõem.\n\nAcresce que o novo modelo de gestão dos estabelecimentos em causa contribui para um aproveitamento da capacidade e de todas as potencialidades dos equipamentos sociais em causa para receber mais utentes.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "936542365": {
+   "fragment_id": "936543776",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei define o regime legal da cedência de estabelecimentos integrados do Instituto da Segurança Social, I. P. (ISS, I. P.), à Santa Casa da Misericórdia de Lisboa (SCML), nos termos do previsto no artigo 66.º do Orçamento do Estado para 2011, aprovado pela Lei n.º 55-A/2010, de 31 de Dezembro."
+  },
+  "936542366": {
+   "fragment_id": "936543777",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nOs estabelecimentos integrados do ISS, I. P., sob a sua gestão directa, a que se refere o n.º 3 do artigo 4.º dos Estatutos do ISS, I. P., aprovados pela Portaria n.º 638/2007, de 30 de Maio, alterada pela Portaria n.º 1460-A/2009, de 31 de Dezembro, situados na área geográfica de intervenção do Centro Distrital de Lisboa do ISS, I. P., identificados no anexo i ao presente decreto-lei, do qual faz parte integrante, são cedidos à SCML, a quem é confiada a gestão dos respectivos equipamentos e das suas respostas sociais."
+  },
+  "936542367": {
+   "fragment_id": "936543778",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazo\n\n1 - A cedência dos estabelecimentos é de natureza temporária, por um prazo de três anos, com início em 1 de Janeiro de 2011.\n\n2 - Nos termos do contrato de gestão a celebrar entre o ISS, I. P., e a SCML, o período de cedência referido no número anterior pode ser sucessivamente renovado, por iguais períodos, mediante acordo expresso das entidades outorgantes, efectuado 90 dias antes do seu termo inicial ou renovado.\n\n3 - Sem prejuízo do disposto nos números anteriores, a cedência temporária pode ser convertida em transmissão definitiva, por proposta conjunta das entidades outorgantes, efectuada 90 dias antes do seu termo inicial ou renovado e sujeita a autorização dos membros do Governo que exerçam a tutela sobre o ISS, I. P., e a SCML.\n\n4 - O regime de cedência previsto no presente decreto-lei pode ser aplicado, mediante despacho do membro do governo responsável pela área da segurança social, a outros estabelecimentos integrados do ISS, I. P., situados no distrito de Lisboa, que durante o período da cedência regressem, por qualquer motivo, à gestão directa do ISS, I. P."
+  },
+  "936542368": {
+   "fragment_id": "936543779",
+   "type": 11,
+   "heading": "Artigo 4.º — Contrato de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Contrato de gestão\n\n1 - Os procedimentos e demais condições da cedência são regulados em contrato de gestão a celebrar entre o ISS, I. P., e a SCML, com observância das disposições previstas no presente decreto-lei, homologado pelos membros do Governo da respectiva tutela, o qual contém cláusulas obrigatórias relativas:\n\na) À identificação dos estabelecimentos integrados do ISS, I. P., a ceder à SCML;\n\nb) Às valências e respostas sociais prestadas pelos estabelecimentos;\n\nc) À lotação dos equipamentos e número de utentes efectivamente abrangidos;\n\nd) À situação patrimonial dos equipamentos sociais abrangidos;\n\ne) À identificação nominativa dos trabalhadores a exercer funções nos estabelecimentos, bem como aos seus vínculos jurídico-funcional, respectivas carreiras, categorias e remunerações;\n\nf) À situação quanto a projectos, procedimentos concursais e empreitadas em curso e responsabilidade quanto à assunção das mesmas;\n\ng) Ao inventário dos bens móveis e outro material existente nos equipamentos confiados à gestão da SCML;\n\nh) Ao início, duração e regime de renovação e conversão da cedência dos estabelecimentos;\n\ni) Aos critérios de comparticipação financeira dos utentes e famílias.\n\n2 - O contrato de gestão referido no número anterior é celebrado no prazo de 60 dias após a entrada em vigor do presente decreto-lei."
+  },
+  "936542369": {
+   "fragment_id": "936543780",
+   "type": 11,
+   "heading": "Artigo 5.º — Gestão de recursos humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Gestão de recursos humanos\n\n1 - Os trabalhadores que se encontrem a exercer funções nos estabelecimentos abrangidos pelo presente decreto-lei, mantêm o seu estatuto jurídico-funcional de origem, designadamente em matéria de vínculo, regime de protecção social, carreiras e tempo de serviço.\n\n2 - A SCML passa a exercer as competências relativas à gestão desses trabalhadores, nomeadamente as respeitantes a matérias de avaliação do desempenho, poder disciplinar, gestão das carreiras e remunerações.\n\n3 - A competência disciplinar integra o poder para instaurar os respectivos procedimentos e aplicar as penas disciplinares, com excepção da pena disciplinar prevista na alínea d) do n.º 1 do artigo 9.º do Estatuto Disciplinar, aprovado pela Lei n.º 58/2008, de 9 de Setembro, cuja aplicação é da competência do conselho directivo do ISS, I. P., sob proposta da mesa da SCML.\n\n4 - Sem prejuízo do disposto no número seguinte, os trabalhadores mantêm o direito à mobilidade geral, à mobilidade especial e à licença extraordinária, nos termos da lei.\n\n5 - Os trabalhadores devem, no período da cedência, estar afectos a qualquer um dos estabelecimentos cedidos, salvo quando manifestem o seu acordo com diferente afectação ou quando, fundamentadamente, a mesma se revele indispensável.\n\n6 - Após a entrada em vigor do presente decreto-lei, mantêm-se as situações de mobilidade interna existentes nos estabelecimentos cedidos, observando-se, na parte aplicável, o regime previsto no artigo 59.º e seguintes da Lei n.º 12-A/2008, de 27 de Fevereiro."
+  },
+  "936542370": {
+   "fragment_id": "936543781",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissões de serviço",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comissões de serviço\n\n1 - As comissões de serviço em curso dos directores dos estabelecimentos mantêm-se até ao final do respectivo prazo.\n\n2 - Os directores de estabelecimento que se encontrem em regime de substituição mantêm-se nesse regime por um prazo máximo de 180 dias após a data da entrada em vigor do presente decreto-lei."
+  },
+  "936542371": {
+   "fragment_id": "936543782",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio domiciliário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Apoio domiciliário\n\nO apoio domiciliário prestado pelos estabelecimentos continua a ser fornecido pela SCML, que sucede, nas mesmas condições e no período da cedência, ao ISS, I. P., nos contratos com as ajudantes familiares que se encontram a prestar aqueles serviços, nos termos do regime estabelecido no Decreto-Lei n.º 141/89, de 28 de Abril."
+  },
+  "936542372": {
+   "fragment_id": "936543783",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de acolhimento de emergência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sistema de acolhimento de emergência\n\n1 - Nos estabelecimentos abrangidos pela presente cedência que integram, ou que se venham a integrar, no sistema de acolhimento de emergência, o ISS, I. P., mantém a competência para a gestão global e integrada das vagas existentes.\n\n2 - Os estabelecimentos referidos no número anterior seguem a política nacional de enquadramento e desenvolvimento definido para o sistema geral de protecção de crianças e jovens."
+  },
+  "936542373": {
+   "fragment_id": "936543784",
+   "type": 11,
+   "heading": "Artigo 9.º — Património e sucessão de posições contratuais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Património e sucessão de posições contratuais\n\n1 - A SCML sucede ao ISS, I. P., no período da cedência, na titularidade dos contratos de arrendamento existentes, sendo os imóveis afectos à SCML, independentemente de quaisquer formalidades.\n\n2 - A SCML sucede igualmente ao ISS, I. P., nas posições jurídicas detidas por este Instituto, referentes à utilização de instalações dos equipamentos sociais que se encontrem a funcionar em imóveis do Estado ou de autarquias locais.\n\n3 - A SCML, durante o período da cedência, usufrui da cedência gratuita de utilização dos imóveis que sejam da propriedade do ISS, I. P.\n\n4 - A SCML sucede também em todas as posições contratuais detidas pelo ISS, I. P., nomeadamente nos contratos de fornecimento de água, gás, electricidade e comunicações ou celebrados com empresas de higiene, segurança, assistência técnica e de alimentação, nas mesmas condições acordadas, referentes aos equipamentos sociais em causa.\n\n5 - A SCML sucede ao ISS, I. P., nos protocolos, acordos e demais instrumentos contratuais que estão em vigor e celebrados com entidades ou organismos públicos, com incidência nos estabelecimentos cedidos.\n\n6 - O presente decreto-lei serve, para todos os efeitos legais, de título bastante para as sucessões mencionadas nos números anteriores, competindo à SCML assumir os encargos e demais obrigações contratuais previstas no presente artigo."
+  },
+  "936542374": {
+   "fragment_id": "936543785",
+   "type": 11,
+   "heading": "Artigo 10.º — Obras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Obras\n\n1 - O ISS, I. P., é responsável pela manutenção de todos os procedimentos para a formação de contratos e empreitadas em curso, bem como pelos respectivos encargos.\n\n2 - A SCML é responsável pelos encargos com as obras de conservação ou manutenção que se revelem necessárias ao normal funcionamento dos equipamentos sociais, salvo aquelas que sejam da responsabilidade dos senhorios, carecendo as obras de prévia autorização da entidade proprietária do imóvel."
+  },
+  "936543875": {
+   "fragment_id": "936543786",
+   "type": 11,
+   "heading": "Artigo 11.º — Conversão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conversão\n\n1 - No caso de se operar a conversão da cedência temporária em transmissão definitiva, a que se refere o n.º 3 do artigo 3.º, os trabalhadores transitam para um mapa de pessoal residual da SCML, ao qual é aplicável o regime jurídico dos trabalhadores que exercem funções públicas, mantendo os trabalhadores o seu estatuto jurídico-funcional, designadamente em matéria de vínculo, regime de protecção social, carreiras, tempo de serviço e remunerações.\n\n2 - A transição é feita mediante lista nominativa aprovada pelo membro do Governo responsável pelo trabalho e solidariedade social, a publicar na 2.ª série do Diário da República.\n\n3 - Os trabalhadores referidos no n.º 1 podem optar pelo regime de contrato individual de trabalho, no prazo de 60 dias a contar da data da publicação a que se refere o número anterior, sendo esse direito exercido mediante declaração escrita, individual e irrevogável, dirigida ao provedor da SCML.\n\n4 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à Administração Pública, produzindo efeitos com a publicação na 2.ª série do Diário da República.\n\n5 - Em caso de conversão, a afectação à SCML da titularidade nos contratos e posições jurídicas, a que se referem os n.os 1 e 2 do artigo 9.º, mantém-se nos termos neles previstos.\n\n6 - Em caso de conversão, os imóveis da propriedade do ISS, I. P., onde funcionem os estabelecimentos cedidos são transmitidos à SCML, a título gratuito, por efeito do presente decreto-lei e sem dependência de qualquer outra formalidade.\n\n7 - Em caso de conversão, o património de natureza mobiliário, com ou sem registo, afecto aos estabelecimentos cedidos, constante do inventário a que se refere a alínea g) do n.º 1 do artigo 4.º, é transmitido à SCML, por efeito do presente decreto-lei e sem dependência de qualquer outra formalidade."
+  },
+  "936543876": {
+   "fragment_id": "936543787",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração à Portaria n.º 638/2007, de 30 de Maio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Alteração à Portaria n.º 638/2007, de 30 de Maio\n\nO anexo n.º 1 da Portaria n.º 638/2007, de 30 de Maio, alterada pela Portaria n.º 1460-A/2009, de 31 de Dezembro, passa a ter a redacção constante do anexo ii ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "936543877": {
+   "fragment_id": "936543788",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\n1 - No período compreendido entre 1 de Janeiro de 2011 e a data da celebração do contrato de gestão referido no artigo 4.º, o ISS, I. P., suporta, a título de adiantamento, como operação orçamental, todos os encargos decorrentes do normal funcionamento dos estabelecimentos integrados, incluindo as remunerações dos trabalhadores abrangidos.\n\n2 - Compete à SCML proceder à transferência para o ISS, I. P., no prazo de 60 dias após a celebração do contrato de gestão, das verbas correspondentes aos compromissos financeiros assumidos pelo ISS, I. P., nos termos do número anterior.\n\n3 - No período compreendido entre 1 de Janeiro de 2011 e a data da celebração do contrato de gestão, a receita cobrada é registada pelo ISS, I. P., como operação orçamental.\n\n4 - No prazo de 60 dias após a celebração do contrato de gestão, o ISS, I. P, transfere para a SCML as verbas correspondentes à receita cobrada, nos termos do número anterior."
+  },
+  "936543878": {
+   "fragment_id": "936543789",
+   "type": 11,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de Janeiro de 2011."
+  },
+  "936543879": {
+   "fragment_id": "936543790",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "936543881": {
+   "fragment_id": "936543792",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 2.º)\n\nCasa da Alameda.\n\nCasa da Boavista.\n\nCasa da Fonte.\n\nCasa das Marés.\n\nCasa de Repouso de Cascais.\n\nCasa do Lago - Centro de Acolhimento de Emergência.\n\nCentro Comunitário de Telheiras.\n\nInstituto da Sagrada Família da Madorna - Centro de Acolhimento Temporário Francisca Lindoso.\n\nCentro de Apoio Social de Lisboa.\n\nCentro de Dia do Engenheiro Álvaro de Sousa.\n\nCentro de Reabilitação de Paralisia Cerebral Calouste Gulbenkian.\n\nCentro de Reabilitação Nossa Senhora dos Anjos.\n\nCentro Infantil «O Roseiral».\n\nCentro Infantil da Parede.\n\nCentro Infantil de Odivelas.\n\nCentro Infantil de Santos-o-Novo.\n\nCentro Infantil Manuel da Maia.\n\nCentro Infantil Visconde Valmor.\n\nCentro Residencial Arco-Íris.\n\nInstituto Médico Pedagógico e Centro Residencial Condessa de Rilvas.\n\nLar Branco Rodrigues.\n\nLar da Luz.\n\nLar de Odivelas.\n\nLar de Santa Clara.\n\nRecolhimentos da Capital."
+  },
+  "936543882": {
+   "fragment_id": "936543793",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II\n\n(a que se refere o artigo 12.º)\n\nANEXO N.º 1\n\n(n.º 3 do artigo 4.º dos Estatutos)\n\nEstabelecimentos integrados sob gestão directa\n\n(ver documento original)\n\n(n.º 4 do artigo 4.º dos Estatutos)\n\nEstabelecimentos integrados sob gestão indirecta\n\n(ver documento original)"
+  },
+  "936543884": {
+   "fragment_id": "936543776",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente decreto-lei define o regime legal da cedência de estabelecimentos integrados do Instituto da Segurança Social, I. P. (ISS, I. P.), à Santa Casa da Misericórdia de Lisboa (SCML), nos termos do previsto no artigo 66.º do Orçamento do Estado para 2011, aprovado pela Lei n.º 55-A/2010, de 31 de Dezembro.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543885": {
+   "fragment_id": "936543777",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nOs estabelecimentos integrados do ISS, I. P., sob a sua gestão directa, a que se refere o n.º 3 do artigo 4.º dos Estatutos do ISS, I. P., aprovados pela Portaria n.º 638/2007, de 30 de Maio, alterada pela Portaria n.º 1460-A/2009, de 31 de Dezembro, situados na área geográfica de intervenção do Centro Distrital de Lisboa do ISS, I. P., identificados no anexo i ao presente decreto-lei, do qual faz parte integrante, são cedidos à SCML, a quem é confiada a gestão dos respectivos equipamentos e das suas respostas sociais.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543886": {
+   "fragment_id": "936543778",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazo",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 3.º — Prazo\n\n1 - A cedência dos estabelecimentos é de natureza temporária, por um prazo de três anos, com início em 1 de Janeiro de 2011.\n\n2 - Nos termos do contrato de gestão a celebrar entre o ISS, I. P., e a SCML, o período de cedência referido no número anterior pode ser sucessivamente renovado, por iguais períodos, mediante acordo expresso das entidades outorgantes, efectuado 90 dias antes do seu termo inicial ou renovado.\n\n3 - Sem prejuízo do disposto nos números anteriores, a cedência temporária pode ser convertida em transmissão definitiva, por proposta conjunta das entidades outorgantes, efectuada 90 dias antes do seu termo inicial ou renovado e sujeita a autorização dos membros do Governo que exerçam a tutela sobre o ISS, I. P., e a SCML.\n\n4 - O regime de cedência previsto no presente decreto-lei pode ser aplicado, mediante despacho do membro do governo responsável pela área da segurança social, a outros estabelecimentos integrados do ISS, I. P., situados no distrito de Lisboa, que durante o período da cedência regressem, por qualquer motivo, à gestão directa do ISS, I. P.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543887": {
+   "fragment_id": "936543779",
+   "type": 11,
+   "heading": "Artigo 4.º — Contrato de gestão",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 4.º — Contrato de gestão\n\n1 - Os procedimentos e demais condições da cedência são regulados em contrato de gestão a celebrar entre o ISS, I. P., e a SCML, com observância das disposições previstas no presente decreto-lei, homologado pelos membros do Governo da respectiva tutela, o qual contém cláusulas obrigatórias relativas:\n\na) À identificação dos estabelecimentos integrados do ISS, I. P., a ceder à SCML;\n\nb) Às valências e respostas sociais prestadas pelos estabelecimentos;\n\nc) À lotação dos equipamentos e número de utentes efectivamente abrangidos;\n\nd) À situação patrimonial dos equipamentos sociais abrangidos;\n\ne) À identificação nominativa dos trabalhadores a exercer funções nos estabelecimentos, bem como aos seus vínculos jurídico-funcional, respectivas carreiras, categorias e remunerações;\n\nf) À situação quanto a projectos, procedimentos concursais e empreitadas em curso e responsabilidade quanto à assunção das mesmas;\n\ng) Ao inventário dos bens móveis e outro material existente nos equipamentos confiados à gestão da SCML;\n\nh) Ao início, duração e regime de renovação e conversão da cedência dos estabelecimentos;\n\ni) Aos critérios de comparticipação financeira dos utentes e famílias.\n\n2 - O contrato de gestão referido no número anterior é celebrado no prazo de 60 dias após a entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543888": {
+   "fragment_id": "936543781",
+   "type": 11,
+   "heading": "Artigo 6.º — Comissões de serviço",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 6.º — Comissões de serviço\n\n1 - As comissões de serviço em curso dos directores dos estabelecimentos mantêm-se até ao final do respectivo prazo.\n\n2 - Os directores de estabelecimento que se encontrem em regime de substituição mantêm-se nesse regime por um prazo máximo de 180 dias após a data da entrada em vigor do presente decreto-lei.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543889": {
+   "fragment_id": "936543782",
+   "type": 11,
+   "heading": "Artigo 7.º — Apoio domiciliário",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 7.º — Apoio domiciliário\n\nO apoio domiciliário prestado pelos estabelecimentos continua a ser fornecido pela SCML, que sucede, nas mesmas condições e no período da cedência, ao ISS, I. P., nos contratos com as ajudantes familiares que se encontram a prestar aqueles serviços, nos termos do regime estabelecido no Decreto-Lei n.º 141/89, de 28 de Abril.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543890": {
+   "fragment_id": "936543783",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de acolhimento de emergência",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de acolhimento de emergência\n\n1 - Nos estabelecimentos abrangidos pela presente cedência que integram, ou que se venham a integrar, no sistema de acolhimento de emergência, o ISS, I. P., mantém a competência para a gestão global e integrada das vagas existentes.\n\n2 - Os estabelecimentos referidos no número anterior seguem a política nacional de enquadramento e desenvolvimento definido para o sistema geral de protecção de crianças e jovens.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543891": {
+   "fragment_id": "936543786",
+   "type": 11,
+   "heading": "Artigo 11.º — Conversão",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 11.º — Conversão\n\n1 - No caso de se operar a conversão da cedência temporária em transmissão definitiva, a que se refere o n.º 3 do artigo 3.º, os trabalhadores transitam para um mapa de pessoal residual da SCML, ao qual é aplicável o regime jurídico dos trabalhadores que exercem funções públicas, mantendo os trabalhadores o seu estatuto jurídico-funcional, designadamente em matéria de vínculo, regime de protecção social, carreiras, tempo de serviço e remunerações.\n\n2 - A transição é feita mediante lista nominativa aprovada pelo membro do Governo responsável pelo trabalho e solidariedade social, a publicar na 2.ª série do Diário da República.\n\n3 - Os trabalhadores referidos no n.º 1 podem optar pelo regime de contrato individual de trabalho, no prazo de 60 dias a contar da data da publicação a que se refere o número anterior, sendo esse direito exercido mediante declaração escrita, individual e irrevogável, dirigida ao provedor da SCML.\n\n4 - A celebração do contrato individual de trabalho implica a exoneração do lugar de origem e a cessação do vínculo à Administração Pública, produzindo efeitos com a publicação na 2.ª série do Diário da República.\n\n5 - Em caso de conversão, a afectação à SCML da titularidade nos contratos e posições jurídicas, a que se referem os n.os 1 e 2 do artigo 9.º, mantém-se nos termos neles previstos.\n\n6 - Em caso de conversão, os imóveis da propriedade do ISS, I. P., onde funcionem os estabelecimentos cedidos são transmitidos à SCML, a título gratuito, por efeito do presente decreto-lei e sem dependência de qualquer outra formalidade.\n\n7 - Em caso de conversão, o património de natureza mobiliário, com ou sem registo, afecto aos estabelecimentos cedidos, constante do inventário a que se refere a alínea g) do n.º 1 do artigo 4.º, é transmitido à SCML, por efeito do presente decreto-lei e sem dependência de qualquer outra formalidade.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543892": {
+   "fragment_id": "936543787",
+   "type": 11,
+   "heading": "Artigo 12.º — Alteração à Portaria n.º 638/2007, de 30 de Maio",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 12.º — Alteração à Portaria n.º 638/2007, de 30 de Maio\n\nO anexo n.º 1 da Portaria n.º 638/2007, de 30 de Maio, alterada pela Portaria n.º 1460-A/2009, de 31 de Dezembro, passa a ter a redacção constante do anexo ii ao presente decreto-lei, do qual faz parte integrante.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543893": {
+   "fragment_id": "936543788",
+   "type": 11,
+   "heading": "Artigo 13.º — Disposições transitórias",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 13.º — Disposições transitórias\n\n1 - No período compreendido entre 1 de Janeiro de 2011 e a data da celebração do contrato de gestão referido no artigo 4.º, o ISS, I. P., suporta, a título de adiantamento, como operação orçamental, todos os encargos decorrentes do normal funcionamento dos estabelecimentos integrados, incluindo as remunerações dos trabalhadores abrangidos.\n\n2 - Compete à SCML proceder à transferência para o ISS, I. P., no prazo de 60 dias após a celebração do contrato de gestão, das verbas correspondentes aos compromissos financeiros assumidos pelo ISS, I. P., nos termos do número anterior.\n\n3 - No período compreendido entre 1 de Janeiro de 2011 e a data da celebração do contrato de gestão, a receita cobrada é registada pelo ISS, I. P., como operação orçamental.\n\n4 - No prazo de 60 dias após a celebração do contrato de gestão, o ISS, I. P, transfere para a SCML as verbas correspondentes à receita cobrada, nos termos do número anterior.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543894": {
+   "fragment_id": "936543789",
+   "type": 11,
+   "heading": "Artigo 14.º — Produção de efeitos",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 14.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de Janeiro de 2011.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543895": {
+   "fragment_id": "936543790",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": "2015-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+   ],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2015-10-29"
+  },
+  "936543880": {
+   "fragment_id": "936543791",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 25 de Novembro de 2010. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Maria Helena dos Santos André.\n\nPromulgado em 6 de Janeiro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 11 de Janeiro de 2011.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa."
+  },
+  "936543896": {
+   "fragment_id": "936543792",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 2.º)",
+   "in_force_from": "2011-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2011-10-29"
+   ],
+   "markdown": "## Anexo I — (a que se refere o artigo 2.º)\n\nCasa da Alameda.\n\nCasa da Boavista.\n\nCasa da Fonte.\n\nCasa das Marés.\n\nCasa de Repouso de Cascais.\n\nCasa do Lago - Centro de Acolhimento de Emergência.\n\nCentro Comunitário de Telheiras.\n\nInstituto da Sagrada Família da Madorna - Centro de Acolhimento Temporário Francisca Lindoso.\n\nCentro de Apoio Social de Lisboa.\n\nCentro de Dia do Engenheiro Álvaro de Sousa.\n\nCentro de Reabilitação de Paralisia Cerebral Calouste Gulbenkian.\n\nCentro de Reabilitação Nossa Senhora dos Anjos.\n\nCentro Infantil «O Roseiral».\n\nCentro Infantil da Parede.\n\nCentro Infantil de Odivelas.\n\nCentro Infantil de Santos-o-Novo.\n\nCentro Infantil Manuel da Maia.\n\nCentro Infantil Visconde Valmor.\n\nCentro Residencial Arco-Íris.\n\nInstituto Médico Pedagógico e Centro Residencial Condessa de Rilvas.\n\nLar Branco Rodrigues.\n\nLar da Luz.\n\nLar de Odivelas.\n\nLar de Santa Clara.\n\nRecolhimentos da Capital.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2011-10-29"
+  },
+  "936543897": {
+   "fragment_id": "936543793",
+   "type": 14,
+   "heading": "Anexo II",
+   "in_force_from": "2011-10-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2011-10-29"
+   ],
+   "markdown": "## Anexo II\n\n(a que se refere o artigo 12.º)\n\nANEXO N.º 1\n\n(n.º 3 do artigo 4.º dos Estatutos)\n\nEstabelecimentos integrados sob gestão directa\n\n(ver documento original)\n\n(n.º 4 do artigo 4.º dos Estatutos)\n\nEstabelecimentos integrados sob gestão indirecta\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto-Lei n.º 240/2015 - Diário da República n.º 201/2015, Série I de 2015-10-14](https://diariodarepublica.pt/dr/detalhe/decreto-lei/240-2015-70686134), em vigor a partir de 2011-10-29"
+  }
+ }
+}

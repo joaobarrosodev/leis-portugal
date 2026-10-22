@@ -1,0 +1,89 @@
+---
+schema_version: '1.0'
+id: pt:dre:482094:por
+title: Despacho Normativo n.º 47-A/82
+short_title: null
+summary: De delegação do Primeiro-Ministro no Secretário de Estado da Presidência do Conselho de Ministros, Dr. Marcelo Nuno
+  Duarte Rebelo de Sousa, da competência delegada no Secretário de Estado do Turismo, Dr. Luís Fernando Cardoso Nandim de
+  Carvalho, durante a ausência deste no estrangeiro
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Presidência do Conselho de Ministros - Gabinete do Primeiro-Ministro
+proposing_entity: null
+official_number: 47-A/82
+official_date: null
+publication_date: '1982-04-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 88/1982, 1º Suplemento, Série I de 1982-04-16
+  number: '88'
+  series: I
+  supplement: 1º Suplemento
+  pages: 906-(1) a 906-(1)
+  pdf_url: https://files.diariodarepublica.pt/1s/1982/04/08801/00010001.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '482094'
+  dre_path: /dr/detalhe/despacho-normativo/47-a-1982-482094
+  internal: pt:dre:482094:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-a-1982-482094
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/47-a-1982-482094
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1982-04-16T00:00:00Z'
+integrity:
+  source_sha256: b55b14c8d041db7904b89f2635e08e45e61a27be1d9510f7fb23c934e22d6ca4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1982/DRE-1982-47-A-482094.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 47-A/82
+
+Nos termos do artigo 19.º do [Decreto-Lei n.º 290/81](https://diariodarepublica.pt/dr/detalhe/decreto-lei/290-1981-561817), de 14 de Outubro, que aprova a orgânica do VIII Governo Constitucional, delego no Secretário de Estado da Presidência do Conselho de Ministros, Dr. Marcelo Nuno Duarte Rebelo de Sousa, a competência delegada no Secretário de Estado do Turismo, Dr. Luís Fernando Cardoso Nandim de Carvalho, pelo [Despacho Normativo n.º 309/81](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/309-1981-562253), de 20 de Outubro, durante a ausência deste no estrangeiro.
+
+Presidência do Conselho de Ministros, 16 de Abril de 1982. - O Primeiro-Ministro, Francisco José Pereira Pinto Balsemão.

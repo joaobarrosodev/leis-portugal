@@ -1,0 +1,217 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:218356:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2004-863399970",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/16-2004-218356",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-12-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "863396304",
+    "863396305",
+    "863396306",
+    "863396307",
+    "863396308",
+    "863396309",
+    "863396310",
+    "863396311",
+    "863396312",
+    "863396313",
+    "863396314",
+    "863396315",
+    "863396316",
+    "863396317",
+    "863396318",
+    "863396319",
+    "863396320",
+    "863396321",
+    "863396322",
+    "863396323",
+    "863396324",
+    "863396325"
+   ]
+  }
+ ],
+ "fragments": {
+  "863396304": {
+   "fragment_id": "863399971",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Regulamentar Regional n.º 16/2004/M\n\nOrganização e funcionamento do Governo Regional da Madeira\n\nO Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de Junho, na redacção e numeração da Lei n.º 130/99, de 21 de Agosto, comete, através dos artigos 56.º, n.º 3, e 69.º, alínea c), ao Governo Regional a competência para aprovar a sua organização e funcionamento, objectivo prosseguido por via deste diploma.\n\nAssim, nos termos dos artigos 227.º, n.º 1, alínea d), e 231.º, n.º 6, da Constituição da República Portuguesa e dos artigos 56.º, n.º 3, 69.º, alíneas c) e d), e 70.º, n.º 1, do Estatuto Político-Administrativo da Região Autónoma da Madeira, o Governo Regional da Madeira decreta o seguinte:"
+  },
+  "863396305": {
+   "fragment_id": "863399972",
+   "type": 1,
+   "heading": "Capítulo I — Do Governo Regional da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Do Governo Regional da Madeira"
+  },
+  "863396306": {
+   "fragment_id": "863399973",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura do Governo Regional da Madeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura do Governo Regional da Madeira\n\nA estrutura do Governo Regional da Madeira é a seguinte:\n\na) Presidência do Governo;\n\nb) Vice-Presidência do Governo;\n\nc) Secretaria Regional dos Recursos Humanos;\n\nd) Secretaria Regional do Turismo e Cultura;\n\ne) Secretaria Regional do Equipamento Social e Transportes;\n\nf) Secretaria Regional dos Assuntos Sociais;\n\ng) Secretaria Regional de Educação;\n\nh) Secretaria Regional do Plano e Finanças;\n\ni) Secretaria Regional do Ambiente e dos Recursos Naturais."
+  },
+  "863396307": {
+   "fragment_id": "863399974",
+   "type": 1,
+   "heading": "Capítulo II — Da Vice-Presidência e Secretarias Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Da Vice-Presidência e Secretarias Regionais\n\nSECÇÃO ÚNICA\n\nAtribuições"
+  },
+  "863396308": {
+   "fragment_id": "863401375",
+   "type": 11,
+   "heading": "Artigo 2.º — Vice-Presidência do Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Vice-Presidência do Governo\n\n1 - À Vice-Presidência do Governo são cometidas as atribuições referentes aos sectores seguintes:\n\na) Administração Pública;\n\nb) Administração da justiça;\n\nc) Assuntos parlamentares;\n\nd) Assuntos europeus;\n\ne) Comércio;\n\nf) Desenvolvimento regional;\n\ng) Economia;\n\nh) Energia;\n\ni) Indústria.\n\n2 - A Vice-Presidência do Governo Regional exerce a tutela sobre:\n\na) Empresa de Electricidade da Madeira, S. A.;\n\nb) Sociedade de Desenvolvimento do Porto Santo, S. A.;\n\nc) Sociedade de Desenvolvimento da Ponta do Oeste, S. A.;\n\nd) Sociedade de Desenvolvimento do Norte da Madeira, S. A.;\n\ne) Sociedade Metropolitana de Desenvolvimento, S. A.;\n\nf) Madeira Parques Empresariais, Sociedade Gestora, S. A.;\n\ng) Instituto de Desenvolvimento Empresarial da Madeira, S. A.;\n\nh) Agência Regional de Energia e Ambiente;\n\ni) Centro de Empresas e Inovação da Madeira, Lda.;\n\nj) Gabinete de Gestão da Loja do Cidadão da Madeira."
+  },
+  "863396309": {
+   "fragment_id": "863401376",
+   "type": 11,
+   "heading": "Artigo 3.º — Secretaria Regional dos Recursos Humanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Secretaria Regional dos Recursos Humanos\n\n1 - À Secretaria Regional dos Recursos Humanos são cometidas as atribuições referentes aos sectores seguintes:\n\na) Trabalho;\n\nb) Emprego;\n\nc) Juventude;\n\nd) Comunidades madeirenses;\n\ne) Defesa do consumidor;\n\nf) Comunicação social.\n\n2 - A Secretaria Regional dos Recursos Humanos exerce a tutela sobre:\n\na) Conselho Económico e Social;\n\nb) Jornal da Madeira;\n\nc) Instituto Regional de Emprego."
+  },
+  "863396310": {
+   "fragment_id": "863401377",
+   "type": 11,
+   "heading": "Artigo 4.º — Secretaria Regional do Turismo e Cultura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Secretaria Regional do Turismo e Cultura\n\nÀ Secretaria Regional do Turismo e Cultura são cometidas as atribuições referentes aos sectores seguintes:\n\na) Turismo;\n\nb) Cultura."
+  },
+  "863396311": {
+   "fragment_id": "863401378",
+   "type": 11,
+   "heading": "Artigo 5.º — Secretaria Regional do Equipamento Social e Transportes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Secretaria Regional do Equipamento Social e Transportes\n\n1 - À Secretaria Regional do Equipamento Social e Transportes são cometidas as atribuições referentes aos sectores seguintes:\n\na) Edifícios e equipamentos públicos;\n\nb) Estradas;\n\nc) Urbanismo;\n\nd) Litoral;\n\ne) Portos;\n\nf) Aeroportos;\n\ng) Transportes terrestres;\n\nh) Ordenamento do território.\n\n2 - A Secretaria Regional do Equipamento Social e Transportes exerce a tutela sobre:\n\na) Laboratório Regional de Engenharia Civil;\n\nb) Horários do Funchal, S. A.;\n\nc) Cimentos Madeira, Lda.;\n\nd) Vialitoral, S. A.;\n\ne) Aeroportos e Navegação Aérea da Madeira, S. A.;\n\nf) Administração de Portos da Região Autónoma da Madeira, S. A.;\n\ng) Via Expresso, S. A."
+  },
+  "863396312": {
+   "fragment_id": "863401379",
+   "type": 11,
+   "heading": "Artigo 6.º — Secretaria Regional dos Assuntos Sociais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Secretaria Regional dos Assuntos Sociais\n\n1 - À Secretaria Regional dos Assuntos Sociais são cometidas as atribuições referentes aos sectores seguintes:\n\na) Saúde;\n\nb) Segurança social;\n\nc) Protecção civil.\n\n2 - A Secretaria Regional dos Assuntos Sociais exerce a tutela sobre:\n\na) Centro de Segurança Social da Madeira;\n\nb) Serviço Regional de Saúde, Entidade Pública Empresarial."
+  },
+  "863396313": {
+   "fragment_id": "863401380",
+   "type": 11,
+   "heading": "Artigo 7.º — Secretaria Regional de Educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Secretaria Regional de Educação\n\n1 - À Secretaria Regional de Educação são cometidas as atribuições referentes aos sectores seguintes:\n\na) Educação;\n\nb) Desporto;\n\nc) Formação profissional;\n\nd) Educação especial;\n\ne) Novas tecnologias e comunicações.\n\n2 - A Secretaria Regional de Educação exerce a tutela sobre:\n\na) Pólo Científico e Tecnológico da Madeira, Madeira Tecnopolo, S. A.;\n\nb) Instituto do Desporto da Região Autónoma da Madeira."
+  },
+  "863396314": {
+   "fragment_id": "863401381",
+   "type": 11,
+   "heading": "Artigo 8.º — Secretaria Regional do Plano e Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Secretaria Regional do Plano e Finanças\n\n1 - À Secretaria Regional do Plano e Finanças são cometidas as atribuições referentes aos sectores seguintes:\n\na) Plano;\n\nb) Finanças;\n\nc) Orçamento;\n\nd) Património;\n\ne) Estatística;\n\nf) Inspecção de finanças;\n\ng) Informática da Administração Pública;\n\nh) Centro Internacional de Negócios da Madeira;\n\ni) Fundos comunitários;\n\nj) Habitação.\n\n2 - A Secretaria Regional do Plano e Finanças exerce a tutela sobre:\n\na) Sociedade de Desenvolvimento da Madeira, S. A.;\n\nb) IHM - Investimentos Habitacionais da Madeira, E. P. E."
+  },
+  "863396315": {
+   "fragment_id": "863401382",
+   "type": 11,
+   "heading": "Artigo 9.º — Secretaria Regional do Ambiente e dos Recursos Naturais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Secretaria Regional do Ambiente e dos Recursos Naturais\n\n1 - À Secretaria Regional do Ambiente e dos Recursos Naturais são cometidas as atribuições referentes aos sectores seguintes:\n\na) Ambiente;\n\nb) Água;\n\nc) Saneamento básico;\n\nd) Florestas;\n\ne) Pescas;\n\nf) Agro-pecuária;\n\ng) Artesanato.\n\n2 - A Secretaria Regional do Ambiente e dos Recursos Naturais exerce a tutela sobre:\n\na) Instituto do Vinho da Madeira;\n\nb) Parque Natural da Madeira;\n\nc) Instituto do Bordado, Tapeçaria e Artesanato da Madeira;\n\nd) IGA - Investimentos e Gestão de Água, S. A.;\n\ne) Valor Ambiente - Gestão e Administração de Resíduos da Madeira, S. A."
+  },
+  "863396316": {
+   "fragment_id": "863401383",
+   "type": 1,
+   "heading": "Capítulo III — Gabinetes dos membros do Governo Regional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Gabinetes dos membros do Governo Regional"
+  },
+  "863396317": {
+   "fragment_id": "863401384",
+   "type": 11,
+   "heading": "Artigo 10.º — Composição dos gabinetes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Composição dos gabinetes\n\n1 - Os gabinetes dos membros do Governo Regional são compostos pelo chefe de gabinete, adjuntos de gabinete e secretários pessoais.\n\n2 - O Gabinete do Presidente do Governo Regional é composto por um máximo de três adjuntos e cinco secretários pessoais, o do vice-presidente do Governo composto por um máximo de três adjuntos e três secretários pessoais e os dos secretários regionais compostos por um máximo de dois adjuntos e dois secretários pessoais.\n\n3 - O regime, composição e orgânica dos gabinetes referidos no n.º 1 deste artigo regem-se pela legislação específica regional e, subsidiariamente, pelo disposto no Decreto-Lei n.º 262/88, de 23 de Julho."
+  },
+  "863396318": {
+   "fragment_id": "863401385",
+   "type": 11,
+   "heading": "Artigo 11.º — Conselheiros técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conselheiros técnicos\n\n1 - Para a prossecução de assuntos interdepartamentais, poderão ser nomeados conselheiros técnicos, que farão parte integrante dos gabinetes dos membros do Governo Regional, os quais serão, para todos os efeitos, equiparados a adjuntos.\n\n2 - Os conselheiros técnicos serão nomeados e exonerados livremente por resolução do Conselho do Governo Regional e mediante proposta do membro do Governo Regional responsável pelo sector."
+  },
+  "863396319": {
+   "fragment_id": "863401386",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais e transitórias\n\nTÍTULO ÚNICO\n\nNormas transitórias"
+  },
+  "863396320": {
+   "fragment_id": "863401387",
+   "type": 11,
+   "heading": "Artigo 12.º — Reestruturações orgânicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reestruturações orgânicas\n\n1 - Nos termos da alínea c) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, a Vice-Presidência do Governo e as secretarias regionais procederão às reestruturações orgânicas decorrentes do presente diploma.\n\n2 - No prazo de 30 dias a contar da data de entrada em vigor do presente diploma, devem ser submetidas ao Conselho do Governo Regional as propostas de decreto regulamentar regional que consagrem para os departamentos governamentais referidos no número anterior, organismos ou serviços as alterações que se revelem necessárias e decorram do presente diploma."
+  },
+  "863396321": {
+   "fragment_id": "863401388",
+   "type": 11,
+   "heading": "Artigo 13.º — Norma remissiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Norma remissiva\n\n1 - As referências feitas em diplomas legais anteriores ao presente diploma consideram-se para todos os efeitos como reportadas à Vice-Presidência ou secretarias regionais que, pelo presente diploma, passem a deter a tutela do sector.\n\n2 - As atribuições e competências relativas aos sectores que, mediante o presente diploma, transitam para a Vice-Presidência ou secretarias regionais consideram-se cometidas automaticamente a estas últimas."
+  },
+  "863396322": {
+   "fragment_id": "863401389",
+   "type": 11,
+   "heading": "Artigo 14.º — Transferência de serviços, de competências e de tutelas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Transferência de serviços, de competências e de tutelas\n\n1 - Todos os serviços que são transferidos ou integrados noutros departamentos do Governo Regional mantêm a mesma natureza jurídica, modificando-se apenas, conforme os casos, o superior hierárquico ou o órgão de tutela, sem prejuízo do que nesta matéria as respectivas leis orgânicas vierem a dispor.\n\n2 - As competências, os direitos e as obrigações de que eram titulares os departamentos, organismos ou serviços são automaticamente transferidos para os correspondentes novos departamentos, organismos ou serviços que os substituem, sem dependência de quaisquer formalidades.\n\n3 - Exceptuam-se do número anterior os processos pendentes.\n\n4 - A superintendência e a tutela da administração pública regional indirecta das empresas do sector público regional e das sociedades participadas ou a elas equiparadas serão exercidas pelo membro do Governo Regional que tenha a seu cargo o sector em que se integram."
+  },
+  "863396323": {
+   "fragment_id": "863401390",
+   "type": 11,
+   "heading": "Artigo 15.º — Transferência de pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Transferência de pessoal\n\nAs alterações na organização e funcionamento do Governo Regional são acompanhadas pela correspondente transferência do pessoal sem dependência de quaisquer formalidades e sem prejuízo dos respectivos direitos consagrados na lei."
+  },
+  "863396324": {
+   "fragment_id": "863401391",
+   "type": 11,
+   "heading": "Artigo 16.º — Encargos orçamentais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Encargos orçamentais\n\n1 - Até à aprovação do Orçamento da Região Autónoma da Madeira para 2005 mantém-se a expressão orçamental da organização e funcionamento do Governo Regional, aprovada pelo Decreto Legislativo Regional n.º 30-A/2003/M, de 31 de Dezembro.\n\n2 - Todos os actos do Governo Regional relacionados com a aplicação do presente diploma, que envolvam aumento de despesas ou diminuição de receitas, são obrigatoriamente aprovados pelo Secretário Regional do Plano e Finanças."
+  },
+  "863396325": {
+   "fragment_id": "863401392",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  }
+ }
+}

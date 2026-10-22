@@ -1,0 +1,150 @@
+---
+schema_version: '1.0'
+id: pt:dre:233111:por
+title: Decreto Legislativo Regional n.º 13/2003/A
+short_title: null
+summary: Aplica à Região Autónoma dos Açores o Decreto-Lei n.º 521/99, de 10 de Dezembro (regime das instalações de gás combustível
+  em imóveis)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 13/2003/A
+official_date: null
+publication_date: '2003-03-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 73/2003, Série I-A de 2003-03-27
+  number: '73'
+  series: I
+  supplement: null
+  pages: 2021 - 2021
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/03/073a00/20212021.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/13/2003/03/27/a/dre/pt/html
+  oj: null
+  dre: '233111'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/13-2003-233111
+  internal: pt:dre:233111:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2003-233111
+  metadata_url: https://data.dre.pt/eli/declegreg/13/2003/03/27/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/13-2003-233111
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2009-10-13T00:00:00Z'
+integrity:
+  source_sha256: 79df4a7da97fa5f6b7eae7c4afc9661192ff1b85c3af293ba455dabd25cf6865
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2003/DRE-2003-13-233111.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Multa
+- Instalação de GÁS
+- Combustível
+- Fiscalização
+- Licenciamento
+- Regime Jurídico
+- Açores
+- Prédio Urbano
+relationships:
+- type: amended_by
+  target: pt:dre:491735:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/521/1999/12/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/521/1999/12/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/362/2000/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/362/2000/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/625/2000/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/625/2000/08/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/690/2001/07/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/690/2001/07/10/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 13/2003/A
+
+Aplica à Região Autónoma dos Açores o [Decreto-Lei n.º 521/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1999-632393), de 10 de Dezembro (regime das instalações de gás combustível em imóveis).
+
+O [Decreto-Lei n.º 521/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1999-632393), de 10 de Dezembro, de aplicação restrita ao território continental, procedeu à revisão do regime respeitante às instalações de gás combustível em imóveis constante do [Decreto-Lei n.º 262/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/262-1989-619287), de 17 de Agosto.
+
+Essa revisão traduziu-se em significativas melhorias no que, designadamente, e como decorre do respectivo preâmbulo, respeita às medidas de segurança e ao processo de licenciamento de tais instalações, bem como à relevância dada às entidades inspectivas.
+
+Com a presente proposta de decreto legislativo regional visa-se, pois, aplicar à Região o regime do [Decreto-Lei n.º 521/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1999-632393), de 10 de Dezembro, com as alterações ditadas por uma diferente realidade administrativa e pela circunstância de não se prever a introdução de gás natural nos Açores.
+
+Assim, a Assembleia Legislativa Regional dos Açores, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República e da alínea c) do n.º 1 do artigo 31.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O regime previsto no [Decreto-Lei n.º 521/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1999-632393), de 10 de Dezembro, aplica-se à Região Autónoma dos Açores, com excepção das disposições relativas ao emprego de gás natural.
+
+###### Artigo 2.º — Adaptação de competências
+
+As referências feitas à Direcção Regional do Ministério da Economia no [Decreto-Lei n.º 521/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/521-1999-632393), de 10 de Dezembro, reportam-se, na Região, à direcção regional com competência em matéria de energia.
+
+###### Artigo 3.º — Regulamentação
+
+1 - A regulamentação necessária à execução do presente diploma é publicada no prazo de 30 dias.
+
+2 - Até à entrada em vigor da regulamentação a que se refere o número anterior aplica-se à Região o disposto nas Portarias n.os [362/2000](https://diariodarepublica.pt/dr/detalhe/portaria/362-2000-303609), de 20 de Junho, [625/2000](https://diariodarepublica.pt/dr/detalhe/portaria/625-2000-324174), de 22 de Agosto, e [690/2001](https://diariodarepublica.pt/dr/detalhe/portaria/690-2001-348550), de 10 de Julho, reportando-se as referências nelas feitas à Direcção-Geral da Energia e às direcções regionais do Ministério da Economia e à direcção regional com competência em matéria de energia.
+
+###### Artigo 4.º — Destino das coimas
+
+O produto das coimas aplicadas por força do presente diploma constitui receita do Fundo Regional de Apoio às Actividades Económicas.
+
+Aprovado pela Assembleia Legislativa Regional, na Horta, em 19 de Fevereiro de 2003.
+
+**O Presidente da Assembleia Legislativa Regional, Fernando Manuel Machado Menezes.**
+
+**Assinado em Angra do Heroísmo em 6 de Março de 2003.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Alberto Manuel de Sequeira Leal Sampaio da Nóvoa.**

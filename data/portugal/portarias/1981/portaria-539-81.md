@@ -1,0 +1,119 @@
+---
+schema_version: '1.0'
+id: pt:dre:578675:por
+title: Portaria n.º 539/81
+short_title: null
+summary: Actualiza o regime de administração de cantinas instaladas nos navios e em outras unidades e serviços da Armada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Conselho da Revolução - Estado-Maior da Armada
+proposing_entity: null
+official_number: 539/81
+official_date: null
+publication_date: '1981-06-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 147/1981, Série I de 1981-06-30
+  number: '147'
+  series: I
+  supplement: null
+  pages: 1535 - 1536
+  pdf_url: https://files.diariodarepublica.pt/1s/1981/06/14700/15351536.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '578675'
+  dre_path: /dr/detalhe/portaria/539-1981-578675
+  internal: pt:dre:578675:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/539-1981-578675
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/539-1981-578675
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-06-30T00:00:00Z'
+integrity:
+  source_sha256: afb3123ba8c1cfde07ae039df07f5eaca8fa6d0be6d7aed7a474d8cc33500167
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1981/DRE-1981-539-578675.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 539/81
+
+de 30 de Junho
+
+Reconhecendo-se a necessidade de actualizar o regime de administração de cantinas instaladas nos navios e em outras unidades e serviços da Armada, que tem vindo a ser regulado pelo disposto na [Portaria n.º 24335](https://diariodarepublica.pt/dr/detalhe/portaria/24335-1969-215910), de 6 de Outubro de 1969:
+
+Manda o Conselho da Revolução, pelo Chefe do Estado-Maior da Armada, o seguinte:
+
+1.º Nas unidades navais e nas demais unidades e serviços da Armada podem ser criadas cantinas destinadas a proporcionar ao pessoal da respectiva guarnição a aquisição, em condições vantajosas, de artigos de reconhecida utilidade ou de uso corrente. Quando expressamente autorizado, podem as cantinas dispor de instalações apropriadas à venda para consumo directo de bebidas, designadamente de refrigerantes.
+
+2.º Nos navios com lotação normal igual ou superior a trinta homens, a instalação da cantina não carece de autorização prévia. Em todos os outros casos torna-se necessária autorização do Chefe do Estado-Maior da Armada, com base em proposta fundamentada emitida pela unidade ou serviço interessado, informada pelo Estado-Maior da Armada e instruída com pareceres da Direcção do Serviço do Pessoal (5.ª Repartição) e da Direcção do Planeamento Administrativo (1.ª Repartição) acerca dos aspectos relativos à sua utilidade e à sua viabilidade económica, respectivamente.
+
+3.º As cantinas das unidades e serviços funcionam integradas nos respectivos serviços de abastecimento, dos quais, nos termos da Ordenança do Serviço Naval, constituem uma secção.
+
+4.º A instalação de qualquer cantina ou, nos casos em que se torna necessária autorização prévia, a obtenção desta autorização é comunicada de imediato às Superintendências dos Serviços do Pessoal, do Material e Financeiros.
+
+5.º Quando se verifique a extinção de uma cantina, depois de realizado o activo e satisfeito o passivo, o remanescente, se o houver, reverte para o Fundo de Reserva das Cantinas da Armada, abreviadamente designado por Fundo de Cantinas da Armada. Para este mesmo Fundo reverterão igualmente as contribuições que forem fixadas, por despacho do Chefe do Estado-Maior da Armada, relativamente aos lucros líquidos apurados em determinadas cantinas ou secções de venda que sejam especialmente incumbidas de efectuar fornecimentos a outras cantinas ou mesmo de substituí-las. Poderão, ainda, reverter para o Fundo, quando daquela mesma forma esteja determinado, outras importâncias que, pela sua natureza, não devam igualmente constituir, a qualquer título, receita do Estado.
+
+6.º A escrituração do Fundo de Cantinas da Armada está a cargo do conselho administrativo da Administração Central da Marinha. A gestão do respectivo saldo incumbe à Direcção do Planeamento Administrativo, a qual se pronunciará necessariamente nos processos que respeitem à sua utilização e, bem assim, acerca das medidas que visem acautelá-lo da erosão inflacionária.
+
+7.º A utilização de importâncias provenientes do Fundo de Cantinas da Armada carece sempre de autorização prévia do Chefe do Estado-Maior da Armada e poderá ter lugar nos casos seguintes:
+
+a) Cobertura dos prejuízos apurados na liquidação de uma cantina, por sua extinção ou por abate da unidade a que respeita, quando esses prejuízos não sejam imputáveis à respectiva administração;
+
+b) Financiamento, em casos especiais, para a constituição do capital de cantinas recém-criadas, mediante empréstimos total ou parcialmente reembolsáveis;
+
+c) Auxílio a cantinas em dificuldades económicas ou financeiras decorrentes de circunstâncias anormais, essencialmente relacionadas com condições específicas da unidade ou serviço a que pertençam, e não imputáveis a actos da respectiva gestão;
+
+d) Complemento da actuação das cantinas no que respeita ao bem-estar dos respectivos utentes, nomeadamente no âmbito cultural, mediante proposta da Direcção do Serviço do Pessoal (5.ª Repartição) e parecer da Direcção do Planeamento Administrativo (1.ª Repartição).
+
+8.º A administração das cantinas compete ao chefe do serviço de abastecimento em que se integram e será exercida em conformidade com o estabelecido no Regulamento Geral das Cantinas da Armada, com a orientação superior do respectivo comandante e com a colaboração que, nesta matéria, esteja prevista nas atribuições das comissões de bem-estar.
+
+9.º O Regulamento Geral das Cantinas da Armada é aprovado por despacho do Chefe do Estado-Maior da Armada, cumprindo à Direcção do Planeamento Administrativo propor, sempre que necessário, as alterações que lhe devam ser introduzidas com vista à sua oportuna actualização.
+
+10.º A presente portaria entra em vigor em 1 de Julho de 1981 e revoga a [Portaria n.º 24335](https://diariodarepublica.pt/dr/detalhe/portaria/24335-1969-215910), de 6 de Outubro de 1969.
+
+Estado-Maior da Armada, 22 de Junho de 1981. - O Chefe do Estado-Maior da Armada, António Egídio de Sousa Leitão, almirante.

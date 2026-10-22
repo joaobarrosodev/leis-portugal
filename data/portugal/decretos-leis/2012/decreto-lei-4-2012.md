@@ -1,0 +1,445 @@
+---
+schema_version: '1.0'
+id: pt:dre:544577:por
+title: Decreto-Lei n.º 4/2012
+short_title: null
+summary: Aprova a orgânica da Secretaria-Geral da Presidência do Conselho de Ministros
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 4/2012
+official_date: null
+publication_date: '2012-01-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 11/2012, Série I de 2012-01-16
+  number: '11'
+  series: I
+  supplement: null
+  pages: 177 - 180
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/01/01100/0017700180.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-04-01'
+version_history:
+  file: decreto-lei-4-2012.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2012-01-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-03-26'
+    amending: pt:dre:259425:por
+    amending_title: Decreto-Lei n.º 41/2013
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Anexo
+  - date: '2015-02-07'
+    amending: pt:dre:66443112:por
+    amending_title: Decreto-Lei n.º 24/2015
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Anexo
+  - date: '2018-01-02'
+    amending: pt:dre:114311302:por
+    amending_title: Decreto-Lei n.º 149/2017
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+  - date: '2018-02-17'
+    amending: pt:dre:114706489:por
+    amending_title: Decreto-Lei n.º 12/2018
+    changes:
+    - Altera Artigo 5.º
+  - date: '2020-04-01'
+    amending: pt:dre:130893436:por
+    amending_title: Lei n.º 2/2020
+    changes:
+    - Adita Artigo 10.º-A
+  - date: '2021-04-01'
+    amending: pt:dre:159432383:por
+    amending_title: Decreto-Lei n.º 20/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/4/2012/p/cons/20210315/pt/html
+  oj: null
+  dre: '544577'
+  dre_path: /dr/detalhe/decreto-lei/4-2012-544577
+  internal: pt:dre:544577:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/4-2012-544577
+  metadata_url: https://data.dre.pt/eli/dec-lei/4/2012/p/cons/20210315/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-106646733
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2012-106646733
+  retrieved_at: '2026-10-22T12:10:49Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: b575ea7aff2db8be98d8e9fe85b5b96ada4777bea4ee872ea06ba7f2832d85be
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:10:49Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-4-2012.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Secretário Geral Adjunto
+- Apoio Administrativo
+- Apoio Técnico
+- Auditoria
+- Cejur
+- Pessoal Dirigente
+- Gestão Financeira
+- Definição de Competências
+- Digesto
+- Documentação
+- Secretaria Geral
+- Ministério da Cultura
+- Primeiro-ministro
+- Integração de Serviços
+- Orgânica
+- PCM-Entidades
+- Presidência do Conselho de Ministros
+- Quadro de Pessoal
+- Receita
+- Relações Públicas
+- Secretário Geral
+- Gestão de Recursos Humanos
+- Estatuto Remuneratório
+relationships:
+- type: amended_by
+  target: pt:dre:259425:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2013-259425
+  date: '2013-03-21'
+- type: amended_by
+  target: pt:dre:66443112:por
+  label: Altera Artigo 2.º; Altera Artigo 5.º; Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112
+  date: '2015-02-06'
+- type: amended_by
+  target: pt:dre:114311302:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2017-114311302
+  date: '2017-12-06'
+- type: amended_by
+  target: pt:dre:114706489:por
+  label: Altera Artigo 5.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2018-114706489
+  date: '2018-02-16'
+- type: amended_by
+  target: pt:dre:130893436:por
+  label: Adita Artigo 10.º-A
+  source: https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436
+  date: '2020-03-31'
+- type: amended_by
+  target: pt:dre:159432383:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383
+  date: '2021-03-15'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/161/2007/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/161/2007/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/89/2007/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/89/2007/03/29/p/dre
+article_structure:
+  article_count: 14
+  section_count: 1
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:10:49Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 4/2012
+
+Decreto-Lei n.º 4/2012
+
+de 16 de janeiro
+
+No âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.
+
+Trata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.
+
+Importava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.
+
+No contexto do PREMAC ficou determinado que as leis orgânicas dos ministérios devem traduzir organizações que reflictam o resultado de um primeiro exercício de supressão de estruturas e de níveis hierárquicos, com base na avaliação das atribuições da Administração Central do Estado.
+
+Neste quadro, a Secretaria-Geral do Ministério da Cultura fundiu-se com a Secretaria-Geral da Presidência do Conselho de Ministros (PCM) e este serviço passou a assumir atribuições antes prosseguidas pelo Centro Jurídico (CEJUR).
+
+Dessa fusão, que exclui as atribuições da Secretaria-Geral do Ministério da Cultura nos domínios do apoio jurídico-contencioso e da gestão administrativa e financeira do Fundo de Fomento Cultural, que foram integradas no Gabinete de Estratégia, Planeamento e Avaliação Culturais (GEPAC), resultou uma significativa redução dos cargos dirigentes, ainda que tenha sido necessário criar um segundo secretário-geral-adjunto, de modo a assegurar uma melhor gestão do pessoal e do património provenientes do referido serviço do extinto Ministério da Cultura.
+
+Para a Secretaria-Geral da Presidência do Conselho de Ministros transitaram também as atribuições do CEJUR nos domínios da gestão do DIGESTO - Sistema Integrado de Tratamento e da Informação Jurídica, da administração da PCMLEX e da publicação dos diplomas do Governo, tendo sido recuperado o modelo que desde sempre tem atribuído àquela Secretaria-Geral intervenção nestas matérias e concebido o CEJUR como um serviço de exclusivo apoio jurídico ao Conselho de Ministros, ao Primeiro-Ministro e aos restantes membros de Governo integrados na PCM.
+
+Finalmente, extingue-se o conselho técnico consultivo do DIGESTO, porque este órgão nunca chegou a funcionar nem foram definidas a sua composição e competências, passando o secretário-geral a deter competência para a promoção da conexão do DIGESTO com outras bases de dados de informação jurídica.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Decreto-Lei n.º 251-A/2015 - Diário da República n.º 246/2015, 1º Suplemento, Série I de 2015-12-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-a-2015-72909765) Determinado que a direção da Secretaria Geral da Presidência do Conselho de Ministros seja exercida pela Ministra da Presidência e da Modernização Administrativa.
+
+###### Artigo 1.º — Natureza
+
+1 - A Secretaria-Geral da Presidência do Conselho de Ministros (PCM), abreviadamente designada por SG, é um serviço central da administração directa do Estado dotado de autonomia administrativa.
+
+2 - A SG depende do Primeiro-Ministro ou do membro do Governo em quem aquele delegar.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+###### Artigo 2.º — Missão e atribuições
+
+1 - A SG tem por missão assegurar e coordenar o apoio jurídico, informativo, técnico e administrativo à PCM, bem como as funções de inspecção e auditoria, através da apreciação da legalidade e regularidade dos actos praticados pelos serviços e organismos da PCM, ou sob tutela dos membros do Governo integrados na PCM, bem como avaliar a sua gestão e os seus resultados, através do controlo de auditoria técnica, de desempenho e financeiro, com excepção dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.
+
+2 - Cabe ainda à SG prestar apoio aos Conselho de Ministros, Primeiro-Ministro, ministros e demais membros do Governo integrados na PCM, no apoio à conceção e avaliação das políticas públicas na área da comunicação social e da sociedade de informação.
+
+3 - A SG prossegue as seguintes atribuições:
+
+a) Prestar ao Conselho de Ministros, Primeiro-Ministro, ministros e aos demais membros do Governo integrados na PCM a assistência técnica, jurídica e administrativa que lhe seja solicitada, assegurando ainda todo o apoio informativo, técnico, administrativo e documental às entidades e serviços integrados na PCM cuja orgânica não contemple estruturas de prestação desse apoio;
+
+b) Gerir os contratos de prestação de serviços de suporte não integrados em entidades públicas prestadoras de serviços partilhados, bem como centralizar o expediente relativo às aquisições de bens e serviços para a PCM, no quadro do funcionamento do sistema de compras públicas, assegurando as funções de unidade ministerial de compras;
+
+c) Instruir e informar os processos administrativos que devam ser submetidos a Conselho de Ministros, ou a despacho do Primeiro-Ministro, dos ministros e dos demais membros do Governo integrados na PCM, cuja tramitação não esteja cometida a outro serviço ou organismo, designadamente no que respeita ao reconhecimento de utilidade pública e de fundações;
+
+d) Assegurar o apoio ao processo legislativo do Governo, na medida em que tal lhe seja solicitado;
+
+e) Administrar, conservar e zelar pela segurança dos imóveis afectos à PCM e à residência oficial do Primeiro-Ministro, e respectivos recheio e equipamentos, sem prejuízo das atribuições cometidas aos serviços e organismos responsáveis pela administração do património cultural imóvel e instalações museológicas;
+
+f) Recolher e centralizar a informação a prestar ao Ministério das Finanças respeitante a todo o património imobiliário da PCM, excluindo a referente ao património cultural imóvel, no âmbito das suas funções de unidade de gestão patrimonial;
+
+g) Promover boas práticas de gestão de documentos nos serviços e organismos da PCM e proceder à recolha, tratamento, conservação e comunicação dos arquivos que deixem de ser de uso corrente por parte dos organismos produtores;
+
+h) Gerir a documentação e informação técnicas, assegurando o funcionamento de centros de documentação e arquivos dos gabinetes dos membros do Governo integrados na PCM e da SG;
+
+i) Assegurar as actividades de comunicação e relações públicas da PCM e dos serviços e organismos nela integrados, designadamente difundir a agenda pública do Conselho de Ministros, do Primeiro-Ministro e dos membros do Governo e proceder à distribuição de comunicados e notas à comunicação social;
+
+j) Promover a aplicação das medidas de política de gestão de recursos definidas para a Administração Pública, coordenando e apoiando os serviços e organismos da PCM na respectiva implementação;
+
+k) Emitir pareceres em matéria de organização, recursos humanos e criação ou alteração de mapas de pessoal no âmbito da PCM;
+
+l) Praticar os actos de administração relativos ao pessoal em situação de mobilidade especial que lhe seja afecto e assegurar a articulação com a entidade gestora da mobilidade, nos termos legais;
+
+m) Estudar, programar e coordenar a aplicação de medidas tendentes a promover, de forma permanente e sistemática, a inovação, a modernização e a política de qualidade, no âmbito da PCM, e assegurar a articulação com os organismos com competências interministeriais nestas áreas;
+
+n) Assegurar a elaboração do orçamento de funcionamento e do orçamento de investimento da PCM, bem como acompanhar a respectiva execução;
+
+o) Assegurar o pagamento, por conta da rubrica adequada do respectivo orçamento, dos subsídios atribuídos a entidades públicas ou privadas por despacho do Primeiro-Ministro ou do membro do Governo em quem este delegar;
+
+p) (Revogada).
+
+q) Promover a publicação dos diplomas do Governo, garantindo o registo, preparação, envio e controlo da publicação dos diplomas no Diário da República;
+
+r) Realizar acções de inspecção e auditoria aos serviços e organismos integrados na PCM ou sujeitos à tutela e superintendência dos membros do Governo integrados na PCM, com excepção dos serviços e organismos dependentes ou sob tutela e superintendência do membro do Governo responsável pela área da cultura.
+
+s) Proceder à elaboração de estudos e propostas legislativas e regulamentares, nas esferas nacional e internacional, na área da comunicação social e da sociedade de informação e prestar a necessária assessoria;
+
+t) Proceder à recolha de informação relevante com vista à definição e ou aperfeiçoamento das políticas públicas na área da comunicação social e da sociedade de informação;
+
+u) Assegurar a administração global das instalações do Palácio Foz.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 149/2017 - Diário da República n.º 234/2017, Série I de 2017-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2017-114311302), em vigor a partir de 2018-01-02
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07
+
+###### Artigo 3.º — Órgãos
+
+A SG é dirigida por um secretário-geral, coadjuvado por um secretário-geral-adjunto, cargos de direção superior de 1.º e 2.º graus, respetivamente.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2013-259425), em vigor a partir de 2013-03-26
+
+###### Artigo 4.º — Secretário-geral
+
+1 - Sem prejuízo das competências que lhe forem conferidas por lei ou que nele sejam delegadas ou subdelegadas, compete ao secretário-geral:
+
+a) Exercer, de harmonia com a lei e as orientações do membro do Governo de que dependa, a representação da SG;
+
+b) Coordenar os sistemas de informação e comunicação da SG;
+
+c) Exercer as funções de oficial público nos actos e contratos em que participem como outorgantes os membros do Governo integrados na PCM;
+
+d) Coordenar o relacionamento institucional com outras entidades congéneres, nacionais ou estrangeiras, de acordo com as instruções fixadas pelo membro do Governo competente;
+
+e) (Revogada);
+
+f) (Revogada);
+
+g) Assegurar a publicação dos diplomas do Governo, garantindo o registo, a preparação, o envio, o controlo e o acompanhamento da sua publicação no Diário da República, de acordo com as orientações do membro do Governo responsável pelo processo legislativo;
+
+h) Promover, nos termos da lei e de acordo com as orientações do membro do Governo responsável pelo processo legislativo, as retificações para correção de erros materiais provenientes de divergências entre o texto original e o texto impresso dos diplomas publicados no Diário da República;
+
+i) Assegurar o arquivamento dos originais de diplomas legislativos e regulamentares do Governo que sejam enviados para publicação no Diário da República.
+
+2 - O secretário-geral tem direito a uma quantia mensal para despesas de representação de montante igual à fixada para o cargo de secretário-geral da Presidência da República.
+
+3 - O secretário-geral-adjunto exerce as competências que lhes sejam delegadas ou subdelegadas pelo secretário-geral, competindo substituí-lo nas suas faltas e impedimentos.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 149/2017 - Diário da República n.º 234/2017, Série I de 2017-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2017-114311302), em vigor a partir de 2018-01-02
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2013-259425), em vigor a partir de 2013-03-26
+
+###### Artigo 5.º — Tipo de organização interna
+
+A organização interna da SG obedece ao seguinte modelo estrutural misto:
+
+a) Nas áreas relativas à gestão de recursos humanos, financeiros e patrimoniais, à auditoria e inspeção, aos assuntos jurídicos, à documentação e arquivos, às relações públicas e ao apoio ao Conselho de Ministros, ao planeamento e avaliação, à publicação dos diplomas do Governo e à comunicação social e sociedade de informação, o modelo de estrutura hierarquizada;
+
+b) Nas demais áreas, o modelo de estrutura matricial.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+> Alterado pelo/a Artigo 21.º do/a [Decreto-Lei n.º 12/2018 - Diário da República n.º 34/2018, Série I de 2018-02-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2018-114706489), em vigor a partir de 2018-02-17
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 149/2017 - Diário da República n.º 234/2017, Série I de 2017-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2017-114311302), em vigor a partir de 2018-01-02
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 41/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2013-259425), em vigor a partir de 2013-03-26
+
+###### Artigo 6.º — Receitas
+
+1 - A SG dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.
+
+2 - A SG dispõe ainda das seguintes receitas próprias:
+
+a) As quantias cobradas pela prestação de serviços no âmbito das suas atribuições;
+
+b) O produto de venda de publicações e de trabalhos por si editados;
+
+c) Os subsídios, subvenções e comparticipações de entidades públicas e privadas;
+
+d) Quaisquer receitas que por lei, contrato ou outro título lhe sejam atribuídas.
+
+3 - As quantias cobradas pela SG são fixadas e periodicamente actualizadas por despacho do membro do Governo de que aquela depende e do membro do Governo responsável pela área das finanças, tendo em atenção os meios humanos e materiais mobilizados em cada caso, podendo ainda ser tidos em conta os custos indirectos de funcionamento.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+###### Artigo 7.º — Despesas
+
+Constituem despesas da SG as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+###### Artigo 8.º — Mapa de cargos de direcção
+
+Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+###### Artigo 9.º — Critérios de selecção de pessoal
+
+São fixados os seguintes critérios gerais e abstractos de selecção do pessoal necessário à prossecução das atribuições da SG:
+
+a) O desempenho de funções na Secretaria-Geral do Ministério da Cultura, com excepção das áreas de apoio jurídico-contencioso e de gestão administrativa e financeira do Fundo de Fomento Cultural;
+
+b) (Revogada).
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+> Alterado pelo/a Artigo 28.º do/a [Decreto-Lei n.º 149/2017 - Diário da República n.º 234/2017, Série I de 2017-12-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-2017-114311302), em vigor a partir de 2018-01-02
+
+###### Artigo 10.º — Estatuto remuneratório dos chefes de equipas multidisciplinares
+
+Aos chefes de equipas multidisciplinares é atribuído um estatuto remuneratório equiparado a chefe de divisão.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+###### Artigo 10.º-A — Regime especial
+
+Ao pessoal da secretaria-geral que exerce funções permanentes na residência oficial do Primeiro-Ministro é aplicável o regime especial de prestação de trabalho previsto no artigo 37.º da Lei n.º 77/88, de 1 de julho.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+> Aditado pelo/a Artigo 419.º do/a [Lei n.º 2/2020 - Diário da República n.º 64/2020, Série I de 2020-03-31](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), em vigor a partir de 2020-04-01
+
+###### Artigo 11.º — Sucessão
+
+A SG sucede nas atribuições da Secretaria-Geral do Ministério da Cultura, com excepção das atribuições nos domínios do apoio jurídico-contencioso e da gestão administrativa e financeira do Fundo de Fomento Cultural, bem como nas atribuições do CEJUR nos domínios da gestão do DIGESTO, da administração da PCMLEX e da publicação dos diplomas do Governo.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+###### Artigo 12.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto-Lei n.º 89/2007, de 29 de Março;
+
+b) O Decreto-Lei n.º 161/2007, de 3 de Maio.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+###### Artigo 13.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+Visto e aprovado em Conselho de Ministros de 7 de Dezembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.
+
+Promulgado em 10 de Janeiro de 2012.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 12 de Janeiro de 2012.
+
+O Primeiro-Ministro, Pedro Passos Coelho.
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+## Anexo — (a que se refere o artigo 8.º)
+
+Mapa de pessoal dirigente
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 15.º do/a [Decreto-Lei n.º 20/2021 - Diário da República n.º 51/2021, Série I de 2021-03-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/20-2021-159432383), em vigor a partir de 2021-04-01
+
+> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 24/2015 - Diário da República n.º 26/2015, Série I de 2015-02-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), em vigor a partir de 2015-02-07
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 41/2013 - Diário da República n.º 57/2013, Série I de 2013-03-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41-2013-259425), em vigor a partir de 2013-03-26

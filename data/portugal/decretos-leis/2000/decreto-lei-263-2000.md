@@ -1,0 +1,206 @@
+---
+schema_version: '1.0'
+id: pt:dre:532859:por
+title: Decreto-Lei n.º 263/2000
+short_title: null
+summary: Transpõe para o ordenamento jurídico interno a Directiva n.º 98/32/CE, do Parlamento Europeu e do Conselho, de 22
+  de Junho, que altera, especialmente em relação aos créditos hipotecários, a Directiva n.º 89/647/CEE, do Conselho, relativa
+  a um rácio de solvabilidade das instituições de crédito
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 263/2000
+official_date: null
+publication_date: '2000-10-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 241/2000, Série I-A de 2000-10-18
+  number: '241'
+  series: I
+  supplement: null
+  pages: 5818 - 5820
+  pdf_url: https://files.diariodarepublica.pt/1s/2000/10/241a00/58185820.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/263/2000/10/18/p/dre/pt/html
+  oj: null
+  dre: '532859'
+  dre_path: /dr/detalhe/decreto-lei/263-2000-532859
+  internal: pt:dre:532859:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2000-532859
+  metadata_url: https://data.dre.pt/eli/dec-lei/263/2000/10/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/263-2000-532859
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2000-10-18T00:00:00Z'
+integrity:
+  source_sha256: 34f019fd8d76ea8f98557c8df6463192c612d2ba237645446c4da188bec17fa8
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2000/DRE-2000-263-532859.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Garantia
+- Instituição de Crédito
+- Definição de Competências
+- Banco de Portugal
+- Locação Financeira
+- Mercado Imobiliário
+- Crédito Bancário
+- Ratio de Solvabilidade
+relationships:
+- type: cites
+  target: celex:31989L0647
+  label: null
+  source: http://data.europa.eu/eli/dir/1989/647/oj
+- type: cites
+  target: celex:31993L0022
+  label: null
+  source: http://data.europa.eu/eli/dir/1993/22/oj
+- type: cites
+  target: celex:31998L0032
+  label: null
+  source: http://data.europa.eu/eli/dir/1998/32/oj
+article_structure:
+  article_count: 9
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 263/2000
+
+de 18 de Outubro
+
+A Directiva n.º [98/32/CE](https://data.europa.eu/eli/dir/1998/32/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Junho, alterou, especialmente em relação aos créditos hipotecários, a Directiva n.º [89/647/CEE](https://data.europa.eu/eli/dir/1989/647/oj?locale=pt), do Conselho, relativa ao rácio de solvabilidade das instituições de crédito, pelo que se mostra necessária a respectiva transposição para a ordem jurídica interna.
+
+Nos termos do artigo 99.º do Regime Geral das Instituições de Crédito e Sociedades Financeiras, aprovado pelo Decreto-Lei n.º 298/92, de 31 de Dezembro, compete ao Banco de Portugal definir, por aviso, as relações prudenciais que as instituições sujeitas à sua supervisão devem respeitar.
+
+A matéria contemplada na referida directiva encontra-se actualmente regulada por aviso do Banco de Portugal.
+
+No entanto, as exigências constitucionais em matéria de transposição de directivas comunitárias passaram a impor a adopção de um acto de natureza legislativa.
+
+Foi ouvido o Banco de Portugal.
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente diploma transpõe para a ordem jurídica interna a Directiva n.º [98/32/CE](https://data.europa.eu/eli/dir/1998/32/oj?locale=pt), do Parlamento Europeu e do Conselho, de 22 de Junho, que altera, especialmente em relação aos créditos hipotecários, a Directiva n.º [89/647/CEE](https://data.europa.eu/eli/dir/1989/647/oj?locale=pt), do Conselho, relativa a um rácio de solvabilidade das instituições de crédito.
+
+###### Artigo 2.º — Títulos garantidos por créditos hipotecários
+
+1 - Aos títulos garantidos por créditos hipotecários, que possam ser equiparados aos empréstimos referidos na alínea c) do n.º 2 da parte I do Anexo ao Aviso do Banco de Portugal n.º 1/93, publicado no Diário da República, 2.ª série, de 8 de Junho de 1993, pode ser atribuído um coeficiente de ponderação de 50%, desde que, tendo em conta o quadro jurídico vigente, os referidos títulos e os referidos empréstimos possam ser considerados equivalentes quanto ao risco de crédito.
+
+2 - No conceito «títulos garantidos por créditos hipotecários» podem ser abrangidos os instrumentos na acepção da secção B, alíneas a) e b), do n.º 1 do anexo da Directiva n.º [93/22/CEE](https://data.europa.eu/eli/dir/1993/22/oj?locale=pt), do Conselho, de 10 de Maio, relativa aos serviços de investimento no domínio dos valores mobiliários.
+
+3 - A atribuição do coeficiente de ponderação previsto no n.º 1 depende da verificação das seguintes condições:
+
+a) Os títulos devem ser integral e directamente garantidos por um conjunto de créditos hipotecários de natureza idêntica aos referidos no n.º 1;
+
+b) No momento da criação dos títulos, os créditos hipotecários não podem encontrar-se em mora ou feridos de invalidade ou ineficácia;
+
+c) Os investidores dos títulos devem ser beneficiários das hipotecas.
+
+###### Artigo 3.º — Hipotecas sobre imóveis polivalentes
+
+1 - Nas condições indicadas nos números seguintes, pode ser atribuído um coeficiente de ponderação de 50%, até 31 de Dezembro de 2006, aos empréstimos integralmente garantidos por hipotecas sobre imóveis polivalentes destinados a escritórios ou comércio, situados no território de Estados membros da União Europeia que permitam o mesmo coeficiente de ponderação reduzido.
+
+2 - A faculdade prevista no número anterior depende da verificação do seguinte:
+
+a) O coeficiente de ponderação reduzido aplica-se apenas à parte do empréstimo que não exceda um dos seguintes limites:
+
+i) 50% do valor comercial do imóvel nas condições indicadas na alínea b);
+
+ii) O mais baixo do seguintes valores: 50% do valor comercial do imóvel ou 60% do valor do empréstimo hipotecário, nas condições indicadas na alínea c);
+
+b) Para efeitos da alternativa prevista na subalínea i) da alínea a):
+
+i) O valor comercial do imóvel deve ser avaliado por dois avaliadores independentes;
+
+ii) O empréstimo deve ter por base o valor mais baixo das duas avaliações;
+
+iii) O imóvel deve ser reavaliado anualmente, salvo nos empréstimos que não excedam 1 milhão de euros e 5% dos fundos próprios da instituição de crédito, casos em que o imóvel deve ser reavaliado pelo menos de três em três anos;
+
+c) O disposto na subalínea ii) da alínea a) depende da existência de critérios rigorosos de avaliação do valor dos empréstimos hipotecários, definidos em disposições legais ou regulamentares, tendo em conta que:
+
+i) O «valor do empréstimo hipotecário» é o valor do bem imóvel resultante de avaliação prudente, com vista à possibilidade de futura comercialização do imóvel, tendo em conta os seus elementos duradouros, as condições normais e locais de mercado, a utilização actual e as utilizações alternativas adequadas do imóvel, excluindo elementos especulativos;
+
+ii) O valor do empréstimo deve ser documentado de forma transparente e clara;
+
+iii) O valor do empréstimo hipotecário deve ser reavaliado pelo menos de três em três anos ou sempre que o mercado registe uma descida superior a 10%, tendo em conta as hipóteses consideradas para a evolução do mercado em causa.
+
+3 - Entende-se por valor comercial do imóvel o valor de uma venda hipotética, dirigida ao público, à data da avaliação, em condições normais de mercado, tendo em conta a natureza e características do imóvel em causa.
+
+4 - Em qualquer dos casos, os imóveis devem estar ocupados ou arrendados.
+
+###### Artigo 4.º — Coeficiente de ponderação reduzido
+
+Sem prejuízo do disposto no artigo 3.º, é permitida, nas condições definidas no mesmo artigo, a aplicação de um coeficiente de ponderação de 50% aos empréstimos em causa, contratados com residentes em Estados membros que permitam a atribuição a tais empréstimos de um coeficiente de ponderação reduzido.
+
+###### Artigo 5.º — Empréstimos até 21 de Julho de 2000
+
+É permitida a aplicação de um coeficiente de ponderação de 50% aos empréstimos concedidos até 21 de Julho de 2000, desde que cumpridas as condições previstas no artigo 3.º, podendo os imóveis ser avaliados, de acordo com os critérios de avaliação estabelecidos no mesmo preceito, até 21 de Julho de 2003.
+
+###### Artigo 6.º — Empréstimos até 31 de Dezembro de 2006
+
+Aos empréstimos previstos no presente diploma concedidos antes de 31 de Dezembro de 2006 poderá continuar a ser aplicado o coeficiente de ponderação de 50% até ao respectivo vencimento.
+
+###### Artigo 7.º — Empréstimos caucionados
+
+Até 1 de Dezembro de 2006, poderá ser aplicado um coeficiente de ponderação de 50% a empréstimos caucionados, na parte que esteja totalmente garantida, por acções de empresas finlandesas de construção de habitações que actuem de acordo com a lei finlandesa da construção de habitações de 1991 ou com a legislação posterior equivalente, desde que estejam preenchidas as condições estabelecidas no artigo 3.º
+
+###### Artigo 8.º — Locação financeira imobiliária
+
+Poderá aplicar-se um coeficiente de ponderação de 50% às operações de locação financeira imobiliária celebradas antes de 31 de Dezembro de 2006 que incidam sobre bens destinados a uso profissional e que obedeçam às condições indicadas no n.º 5 do artigo 11.º da Directiva n.º [89/647/CEE](https://data.europa.eu/eli/dir/1989/647/oj?locale=pt), do Conselho.
+
+###### Artigo 9.º — Regulamentação
+
+O Banco de Portugal fica autorizado a modificar a regulamentação do rácio de solvabilidade de acordo com o presente diploma.
+
+Visto e aprovado em Conselho de Ministros de 31 de Agosto de 2000. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes Pina Moura.
+
+**Promulgado em 28 de Setembro de 2000.**
+
+**Publique-se.**
+
+**O Presidente da República, JORGE SAMPAIO.**
+
+**Referendado em 4 de Outubro de 2000.**
+
+**O Primeiro-Ministro, António Manuel de Oliveira Guterres.**

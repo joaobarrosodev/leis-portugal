@@ -1,0 +1,1056 @@
+---
+schema_version: '1.0'
+id: pt:dre:444694:por
+title: Decreto-Lei n.º 264/98
+short_title: null
+summary: Transpõe para a ordem jurídica as Directivas n.os 94/60/CE, 96/55/CE, 97/10/CE e 97/16/CE, que estabeleceram limitações
+  à comercialização e utilização de determinadas substâncias perigosas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Economia
+proposing_entity: null
+official_number: 264/98
+official_date: null
+publication_date: '1998-08-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 190/1998, Série I-A de 1998-08-19
+  number: '190'
+  series: I
+  supplement: null
+  pages: 4097 - 4101
+  pdf_url: https://files.diariodarepublica.pt/1s/1998/08/190a00/40974101.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2009-04-03'
+version_history:
+  file: decreto-lei-264-98.versoes.json
+  count: 12
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1998-08-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1999-11-04'
+    amending: pt:dre:694176:por
+    amending_title: Decreto-Lei n.º 446/99
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2000-10-18'
+    amending: pt:dre:532459:por
+    amending_title: Decreto-Lei n.º 256/2000
+    changes:
+    - Adita Anexo III
+    - Altera Artigo 4.º
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2002-11-06'
+    amending: pt:dre:424729:por
+    amending_title: Decreto-Lei n.º 238/2002
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Anexo I
+  - date: '2003-09-16'
+    amending: pt:dre:503818:por
+    amending_title: Decreto-Lei n.º 208/2003
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2004-05-29'
+    amending: pt:dre:252837:por
+    amending_title: Decreto-Lei n.º 123/2004
+    changes:
+    - Altera Anexo III
+  - date: '2005-03-19'
+    amending: pt:dre:573912:por
+    amending_title: Decreto-Lei n.º 72/2005; Decreto-Lei n.º 73/2005
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2005-06-24'
+    amending: pt:dre:226187:por
+    amending_title: Decreto-Lei n.º 101/2005
+    changes:
+    - Adita Anexo
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2005-09-23'
+    amending: pt:dre:147997:por
+    amending_title: Decreto-Lei n.º 162/2005
+    changes:
+    - Altera Anexo I
+  - date: '2005-12-28'
+    amending: pt:dre:463435:por
+    amending_title: Decreto-Lei n.º 222/2005
+    changes:
+    - Altera Anexo I
+  - date: '2007-06-22'
+    amending: pt:dre:639316:por
+    amending_title: Decreto-Lei n.º 243/2007
+    changes:
+    - Altera Anexo I
+    - Altera Anexo II
+  - date: '2009-04-03'
+    amending: pt:dre:249563:por
+    amending_title: Decreto-Lei n.º 76/2008
+    changes:
+    - Altera Anexo I
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/264/1998/p/cons/20080428/pt/html
+  oj: null
+  dre: '444694'
+  dre_path: /dr/detalhe/decreto-lei/264-1998-444694
+  internal: pt:dre:444694:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1998-444694
+  metadata_url: https://data.dre.pt/eli/dec-lei/264/1998/p/cons/20080428/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-206847004
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1998-206847004
+  retrieved_at: '2026-10-22T12:55:17Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d4acabb54cd8f383a16984120e13890a023c5394edb212c81d6603a4c5e5ee50
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:55:17Z'
+  notes: 12 versão(ões); histórico completo em decreto-lei-264-98.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Multa
+- Direcção Geral da Indústria
+- Saúde Pública
+- Etiquetagem
+- Fiscalização
+- Inspecção Geral das Alfândegas e dos Impostos Especiais sobre o Consumo
+- Embalagem
+- Proteção do Ambiente
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:694176:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176
+  date: '1999-11-03'
+- type: amended_by
+  target: pt:dre:532459:por
+  label: Adita Anexo III; Altera Artigo 4.º; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459
+  date: '2000-10-17'
+- type: amended_by
+  target: pt:dre:424729:por
+  label: Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2002-424729
+  date: '2002-11-05'
+- type: amended_by
+  target: pt:dre:503818:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2003-503818
+  date: '2003-09-15'
+- type: amended_by
+  target: pt:dre:252837:por
+  label: Altera Anexo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2004-252837
+  date: '2004-05-24'
+- type: amended_by
+  target: pt:dre:573911:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2005-573911
+  date: '2005-03-18'
+- type: amended_by
+  target: pt:dre:573912:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2005-573912
+  date: '2005-03-18'
+- type: amended_by
+  target: pt:dre:226187:por
+  label: Adita Anexo; Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2005-226187
+  date: '2005-06-23'
+- type: amended_by
+  target: pt:dre:147997:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2005-147997
+  date: '2005-09-22'
+- type: amended_by
+  target: pt:dre:463435:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2005-463435
+  date: '2005-12-27'
+- type: amended_by
+  target: pt:dre:639316:por
+  label: Altera Anexo I; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2007-639316
+  date: '2007-06-21'
+- type: amended_by
+  target: pt:dre:249563:por
+  label: Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2008-249563
+  date: '2008-04-28'
+- type: cites
+  target: celex:31976L0769
+  label: null
+  source: http://data.europa.eu/eli/dir/1976/769/oj
+- type: cites
+  target: celex:31994L0060
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/60/oj
+- type: cites
+  target: celex:31996L0055
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/55/oj
+- type: cites
+  target: celex:31997L0010
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/10/oj
+- type: cites
+  target: celex:31997L0016
+  label: null
+  source: http://data.europa.eu/eli/dir/1997/16/oj
+- type: cites
+  target: celex:32003L0053
+  label: null
+  source: null
+- type: cites
+  target: celex:32004R0648
+  label: null
+  source: null
+article_structure:
+  article_count: 7
+  section_count: 4
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:55:17Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 264/98
+
+Decreto-Lei n.º 264/98
+
+de 19 de Agosto
+
+O presente diploma estabelece limitações à comercialização e utilização de substâncias e preparações perigosas, em cumprimento do disposto nas Directivas n.os <a href="eurlex.asp?ano=1994&id=394L0060" title="Link para Directiva da Comunidade Europeia">94/60/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Dezembro, <a href="eurlex.asp?ano=1996&id=396L0055" title="Link para Directiva da Comunidade Europeia">96/55/CE</a>, da Comissão, de 4 de Setembro, <a href="eurlex.asp?ano=1997&id=397L0010" title="Link para Directiva da Comunidade Europeia">97/10/CE</a>, da Comissão, de 26 de Fevereiro, e <a href="eurlex.asp?ano=1997&id=397L0016" title="Link para Directiva da Comunidade Europeia">97/16/CE</a>, do Parlamento Europeu e do Conselho, de 10 de Abril, publicadas no quadro da Directiva <a href="eurlex.asp?ano=1976&id=376L0769" title="Link para Directiva da Comunidade Europeia">76/769/CEE</a>, em consequência do progresso científico e técnico entretanto alcançado.
+
+Assegura-se, assim, o duplo objectivo de garantir a livre circulação de mercadorias, sem prejuízo da salvaguarda da saúde humana e do ambiente.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+O presente diploma transpõe para a ordem jurídica interna as Directivas n.os 97/56/CE, do Parlamento Europeu e do Conselho, de 20 de Outubro, e 97/64/CE, da Comissão, de 10 de Novembro, relativas à limitação de colocação no mercado e de utilização das substâncias perigosas, bem como das preparações e produtos que as contenham.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176), em vigor a partir de 1999-11-04
+
+###### Artigo 2.º — Substâncias e preparações perigosas
+
+1 - São substâncias perigosas para efeitos do artigo 1.º as constantes do anexo II ao presente diploma, que dele faz parte integrante.
+
+2 - As substâncias constantes do anexo a que se refere o número anterior, bem como as preparações que as contenham, estão sujeitas na sua colocação no mercado e na sua utilização às condições constantes do anexo I ao presente diploma, que dele faz parte integrante.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176), em vigor a partir de 1999-11-04
+
+###### Artigo 3.º — Fiscalização
+
+1 - A fiscalização do cumprimento do disposto no presente diploma compete à Inspecção-Geral das Actividades Económicas e à Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+2 - As entidades fiscalizadoras, uma vez levantado o auto de notícia da infracção, nos termos das disposições legais aplicáveis, procederão à instrução do respectivo processo e envio à entidade competente para aplicação das coimas.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 238/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2002-424729), em vigor a partir de 2002-11-06
+
+###### Artigo 4.º — Contra-ordenações
+
+1 - A colocação no mercado e a utilização das substâncias constantes do anexo II, bem como das preparações e produtos que as contenham em violação das condições definidas no anexo I, constituem contra-ordenação punível com coima de (euro) 500 a (euro) 2500.
+
+2 - Se o infractor for uma pessoa colectiva, a coima aplicável pode elevar-se, em caso de dolo, até ao montante máximo de (euro) 30000.
+
+3 - A negligência e a tentativa são puníveis, sendo, nesse caso, reduzidos a metade os montantes das coimas fixadas nos números anteriores.
+
+4 - Podem ser aplicadas as seguintes sanções acessórias, nos termos da lei geral:
+
+a) Perda a favor do Estado das substâncias, preparações, produtos ou objectos utilizados, produzidos ou adquiridos durante ou em consequência da prática da infracção;
+
+b) Perda do direito a subsídios ou de benefícios de qualquer natureza atribuídos pela Administração Pública e relativos ao estabelecimento em que se verifique a infracção;
+
+c) Suspensão de autorizações, licenças e alvarás.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 238/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2002-424729), em vigor a partir de 2002-11-06
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 256/2000 - Diário da República n.º 240/2000, Série I-A de 2000-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), em vigor a partir de 2000-10-18
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176), em vigor a partir de 1999-11-04
+
+###### Artigo 5.º — Aplicação das coimas
+
+1 - A aplicação das coimas e sanções acessórias previstas no artigo anterior compete à Comissão de Aplicação de Coimas em Matéria Económica e Publicidade (CACMEP).
+
+2 - O produto das coimas aplicadas reverte para as seguintes entidades:
+
+a) 30% para a entidade que procedeu à instrução do processo;
+
+b) 60% para o Estado;
+
+c) 10% para a Direcção-Geral da Indústria.
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 238/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2002-424729), em vigor a partir de 2002-11-06
+
+###### Artigo 6.º — Entidade que superintende na aplicação do diploma
+
+Compete à Direcção-Geral da Indústria propor todas as medidas que julgue convenientes para a boa aplicação do diploma, ficando também a seu cargo a ligação com a Comissão e os Estados membros da União Europeia.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176), em vigor a partir de 1999-11-04
+
+###### Artigo 7.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 26 de Maio de 1998. - António Manuel de Oliveira Guterres - Joaquim Augusto Nunes de Pina Moura - Maria de Belém Roseira Martins Coelho Henriques de Pina - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 24 de Julho de 1998.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 6 de Agosto de 1998.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+## Anexo I
+
+Limitações à colocação no mercado e utilização das substâncias indicadas no anexo II, bem como das preparações que as contenham, nas condições a seguir definidas:
+
+1 - Substâncias cancerígenas, mutagénicas e tóxicas para a reprodução
+
+1.1 - As substâncias constantes do anexo I do Regulamento para a Notificação de Substâncias Químicas e para a Classificação, Embalagem e Rotulagem de Substâncias Perigosas, aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 330-A/98, de 2 de Novembro, e classificadas como:
+
+a) «Cancerígenas da categoria 1 ou 2» e no mínimo rotuladas como «tóxico (T)» com a frase de risco R 45: «Pode causar cancro» ou R 49: «Pode causar cancro por inalação» e retomadas no n.º 1 do anexo II ao presente diploma;
+
+b) «Mutagénicas da categoria 1 ou 2» e rotuladas com a frase de risco R 46: «Pode causar alterações genéticas hereditárias» e retomadas no n.º 2 do anexo II ao presente diploma;
+
+c) «Tóxicas para a reprodução das categorias 1 e 2» e rotuladas com a frase de risco R 60: «Pode comprometer a fertilidade» e ou R 61: «Risco durante a gravidez com efeitos adversos na descendência» e retomadas no n.º 3 do anexo II ao presente diploma;
+
+não podem ser admitidas nas substâncias e preparações colocadas no mercado e destinadas a ser vendidas ao público em geral em concentração individual igual ou superior:
+
+Quer à estabelecida no anexo I do regulamento aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 330-A/98, de 2 de Novembro;
+
+Quer à estabelecida no n.º 6 do anexo I do Regulamento para a Classificação, Embalagem e Rotulagem de Preparações Perigosas, aprovado pela Portaria n.º 1152/97, de 12 de Novembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 189/99, de 2 de Junho, caso não conste nenhum limite de concentração do anexo I do regulamento aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com a redacção que lhe foi dada pelo Decreto-Lei n.º 330-A/98, de 2 de Novembro.
+
+1.2 - Sem prejuízo da aplicação de outras disposições relativas à classificação, embalagem e rotulagem das substâncias e preparações perigosas, a embalagem das referidas substâncias e preparações deve conter a menção seguinte, de forma legível e indelével: «Reservado aos utilizadores profissionais.»
+
+1.3 - O disposto nos números anteriores não é aplicável:
+
+Aos medicamentos para uso humano ou veterinário;
+
+Aos produtos cosméticos;
+
+Aos produtos derivados dos óleos minerais destinados a serem utilizados como combustíveis ou carburantes em instalações de combustão móveis ou fixas;
+
+Aos combustíveis vendidos em sistema fechado (por exemplo, botijas de gás liquefeito);
+
+Às tintas para pintura artística.
+
+2 - Creosoto:
+
+2.1 - É proibida a utilização no tratamento da madeira das substâncias constantes no n.º 4 do anexo II, bem como das preparações que as incorporem, desde que contenham:
+
+a) Benzo-a-pireno numa concentração superior a 0,005% em massa; e
+
+b) Fenóis extraíveis com água numa concentração superior a 3% em massa.
+
+2.2 - É proibida a comercialização da madeira tratada com as substâncias e preparações referidas no número anterior, exceptuando-se as situações previstas nos números seguintes.
+
+2.3 - Sem prejuízo do estabelecido no n.º 2.1, as substâncias e preparações ali referidas podem ser utilizadas no tratamento da madeira em instalações industriais ou por profissionais para novo tratamento in situ caso contenham:
+
+a) Benzo-a-pireno numa concentração inferior a 0,005% em massa; e
+
+b) Fenóis extraíveis com água numa concentração inferior a 3% em massa.
+
+2.4 - As substâncias e preparações referidas no número anterior só podem ser comercializadas em embalagens de capacidade igual ou superior a 20 l e não podem ser vendidas ao público em geral.
+
+2.5 - Sem prejuízo da aplicação de outras disposições relativas à classificação, embalagem e rotulagem de substâncias e preparações perigosas, as embalagens das substâncias e preparações referidas no n.º 2.3 devem conter, de forma legível e indelével, a expressão: 'Para utilização exclusiva em instalações industriais ou tratamento por profissionais.'
+
+2.6 - Para a madeira tratada segundo os processos definidos no n.º 2.3 e colocada no mercado pela primeira vez ou tratada de novo in situ apenas é autorizada a sua utilização profissional e industrial, nomeadamente nos caminhos de ferro, no transporte de energia eléctrica e telecomunicações, em vedações, para fins agrícolas (por exemplo, tutores de árvores), em instalações portuárias e em vias fluviais.
+
+2.7 - O disposto no n.º 2.2 não se aplica à madeira antiga tratada e comercializada em segunda mão para reutilização.
+
+2.8 - No entanto, a madeira tratada, colocada pela primeira vez no mercado ou comercializada em segunda mão, não pode ser utilizada:
+
+No interior de edifícios, seja qual for a sua finalidade;
+
+Em brinquedos;
+
+Em áreas de recreio;
+
+Em parques, jardins e outros lugares públicos de recreação e lazer onde haja risco de contacto frequente com a pele;
+
+No fabrico de mobiliário de jardim, por exemplo, mesas de piquenique;
+
+No fabrico e em qualquer reprocessamento de:
+
+Recipientes destinados a culturas;
+
+Embalagens que possam entrar em contacto com produtos em bruto, intermédios e ou acabados destinados à alimentação humana e ou animal;
+
+Outros materiais susceptíveis de contaminar os produtos supramencionados.
+
+3 - Solventes clorados:
+
+3.1 - É proibida a colocação no mercado para venda ao público em geral e ou para aplicações de que resulte a sua difusão, nomeadamente a limpeza de superfícies e de tecidos, das substâncias constantes no n.º 5 do anexo II e das preparações que as contenham, em concentrações iguais ou superiores a 0,1% em massa.
+
+3.2 - Sem prejuízo da aplicação de outras disposições relativas à classificação, embalagem e rotulagem de substâncias e preparações perigosas, as embalagens das substâncias referidas no número anterior e das preparações que as contenham em concentrações iguais ou superiores a 0,1% devem conter a seguinte menção, de forma legível e indelével: «Utilização reservada a instalações industriais.»
+
+3.3 - As disposições constantes dos números anteriores não se aplicam aos seguintes produtos:
+
+a) Medicamentos para uso humano ou veterinário;
+
+b) Cosméticos.
+
+4 - Hexacloroetano:
+
+4.1 - É proibida a utilização do hexacloroetano (HCE), constante no n.º 6 do anexo II, na produção ou na transformação de metais não ferrosos.
+
+4.2 - Eliminado.
+
+5 - Substâncias ou preparações líquidas perigosas usadas em objectos decorativos, máscaras e partidas e jogos.
+
+5.1 - As substâncias ou preparações constantes no n.º 7 do anexo II:
+
+a) Não são admitidas em:
+
+Objectos decorativos destinados à produção de efeitos de luz ou de cor obtidos por meio de fases diferentes, por exemplo em candeeiros decorativos e cinzeiros;
+
+Máscaras e partidas;
+
+Jogos para um ou mais participantes ou quaisquer objectos destinados a ser utilizados como tais, mesmo com aspectos decorativos;
+
+b) Sem prejuízo das limitações referidas no n.º 5.1, alínea a), as substâncias e preparações que:
+
+Apresentem um risco por aspiração e sejam rotuladas com a frase R 65;
+
+Possam ser utilizadas como combustível em lamparinas decorativas; e
+
+Sejam colocadas no mercado em embalagens com uma capacidade igual ou inferior a 15 l;
+
+não podem conter corantes, perfumes ou ambos, a menos que tal seja exigido por motivos fiscais.
+
+5.2 - Sem prejuízo da aplicação de outras disposições relativas à classificação, embalagem e rotulagem de substâncias e preparações perigosas, a embalagem das substâncias e preparações mencionadas no n.º 5.1, alínea b), deve conter, quando estas se destinam a ser utilizadas em lamparinas, a seguinte menção, inscrita de forma legível e indelével: «Manter as lamparinas que contêm este líquido fora do alcance das crianças.
+
+- Níquel e seus compostos:
+
+6.1 - É proibida a utilização de níquel e seus compostos, constantes do n.º 8 do anexo II, em:
+
+6.1.1 - Todos os conjuntos de hastes inseridas em orelhas furadas e noutras partes perfuradas do corpo humano, a não ser que a taxa de libertação de níquel desses conjuntos seja inferior a 0,2 (mi)g/cm2/semana (limite de migração);
+
+6.1.2 - Produtos destinados a entrar em contacto directo e prolongado com a pele, do tipo dos que se seguem:
+
+Brincos;
+
+Colares, pulseiras e fios, argolas de tornozelo e anéis;
+
+Caixas de relógio de pulso, correias e fivelas de relógio;
+
+Botões de mola, fivelas, rebites, fechos de correr e peças metálicas, quando utilizados no vestuário;
+
+se a taxa de libertação de níquel das partes destes produtos em contacto directo e prolongado com a pele for superior a 0,5 (mi)g/cm2/semana;
+
+6.1.3 - Produtos do tipo dos especificados no n.º 6.1.2 com um revestimento que não seja de níquel, a menos que esse revestimento seja suficiente para garantir que a taxa de libertação de níquel das partes desses produtos em contacto directo e prolongado com a pele não exceda 0,5 (mi)g/cm2/semana, durante um período mínimo de dois anos de utilização normal do produto.
+
+6.2 - Os produtos referidos nos n.os 6.1.1, 6.1.2 e 6.1.3 só podem ser colocados no mercado se preencherem os requisitos estabelecidos nesses números.
+
+6.3 - Os métodos de ensaio utilizados para testar a conformidade dos produtos referidos nos n.os 6.1.1, 6.1.2 e 6.1.3 com os requisitos neles estabelecidos constam do anexo III.
+
+7 - Compostos organoestânicos:
+
+7.1 - É proibida a colocação no mercado das substâncias, constantes do n.º 9 do anexo II, para utilização quer como substâncias biocidas quer como componentes de produtos biocidas em tintas antivegetativas em que não estejam quimicamente ligados aos restantes componentes.
+
+7.2 - É proibida a utilização das substâncias, constantes do n.º 9 do anexo II, como substâncias biocidas ou componentes de produtos biocidas com o objectivo de impedir a proliferação de microrganismos, plantas ou animais em:
+
+a) Cascos de:
+
+Embarcações cujo comprimento de fora a fora, tal como definido pela norma ISO 8666, seja inferior a 25 m;
+
+Embarcações de qualquer comprimento utilizadas predominantemente em vias navegáveis interiores e lagos;
+
+b) Gaiolas, flutuadores, redes e outros dispositivos ou equipamentos utilizados em piscicultura e conquicultura;
+
+c) Quaisquer dispositivos ou equipamentos total ou parcialmente submersos.
+
+7.3 - É proibida a utilização de compostos organoestânicos em substâncias e componentes para preparações destinadas a serem utilizadas no tratamento de águas industriais.
+
+7.4 - Exceptua-se do disposto no n.º 7.2 a venda a utilizadores profissionais em embalagens com capacidade superior ou igual a 20 l, que devem conter as seguintes menções, de forma legível e indelével:
+
+'Não utilizar em embarcações com comprimento de fora a fora inferior a 25 m, em embarcações de qualquer comprimento utilizadas predominantemente em vias navegáveis interiores e lagos, ou em quaisquer dispositivos ou equipamentos utilizados em piscicultura e conquicultura.
+
+Reservado aos utilizadores profissionais.'
+
+sem prejuízo da aplicação de outras disposições relativas à classificação, embalagem e rotulagem de substâncias e preparações perigosas.
+
+8 - Pentaclorofenol, seus sais e ésteres:
+
+8.1 - É proibida a colocação no mercado e a utilização das substâncias, constantes do n.º 10 do anexo II, e das preparações que as contenham, cuja concentração ponderal em pentaclorofenol, seus sais e ésteres seja igual ou superior a 0,1%.
+
+8.2 - Por derrogação, até 31 de Dezembro de 2008, não se aplica o disposto no n.º 8.1 às substâncias e preparações destinadas a serem utilizadas em instalações industriais que não permitam a emissão e ou a descarga de pentaclorofenol (PCP) em quantidade superior à estabelecida pela legislação em vigor e com os fins seguintes:
+
+a) Tratamento de madeira;
+
+b) Impregnação de fibras e têxteis pesados, não destinados, em caso algum, à confecção de vestuário ou à utilização em mobiliário, decorativo.
+
+8.3 - Sem prejuízo do disposto no n.º 8.2, a madeira tratada não pode ser utilizada:
+
+a) No interior de edifícios;
+
+b) No fabrico e reparação de:
+
+i) Recipientes para culturas;
+
+ii) Embalagens que possam entrar em contacto com matérias-primas, produtos intermédios ou produtos acabados destinados à alimentação humana e ou animal;
+
+iii) Outros materiais que possam contaminar os produtos referidos em i) e ii).
+
+8.4 - Mediante autorização a conceder pela Direcção-Geral da Indústria, os produtos a que se reporta o n.º 8.1 podem ser utilizados no tratamento curativo da madeira e alvenaria atacadas por fungos xilófagos (nomeadamente serpula lacrymans), quando realizado in situ, por profissionais especializados, nos seguintes casos:
+
+a) Em edifícios classificados ou em vias de classificação;
+
+b) Noutros edifícios, em casos de urgência.
+
+8.5 - O pentaclorofenol, utilizado isoladamente ou como componente de preparações no âmbito das excepções mencionadas nos n.os 8.2 e 8.4, deve possuir um teor total de hexaclorodibenzoparadioxina (HCDD) inferior a duas partes por milhão (ppm).
+
+8.6 - As substâncias e preparações referidas no n.º 8.5 só podem ser comercializadas em embalagens com capacidade igual ou superior a 20 l e não podem ser vendidas ao público em geral.
+
+8.7 - Sem prejuízo da aplicação de outras disposições relativas à classificação, embalagem e rotulagem de substâncias e preparações perigosas, as embalagens das substâncias e preparações referidas no n.º 8.6 devem conter, de forma legível e indelével, a expressão:
+
+'Reservado aos utilizadores industriais e profissionais.'
+
+9 - Parafinas cloradas de cadeia curta:
+
+9.1 - É proibida a colocação no mercado das substâncias constantes do n.º 11 do anexo II para utilização quer como substâncias quer como componentes de outras substâncias ou preparações em concentrações superiores a 1%:
+
+9.1.1 - No trabalho de metais;
+
+9.1.2 - Para engorduramento do couro.
+
+10 - Corantes azóicos:
+
+10.1 - Os corantes azóicos que, por clivagem redutora de um ou mais grupos azóicos, possam libertar uma ou mais das aminas aromáticas constantes do n.º 12 do anexo II, em concentrações detectáveis, isto é, superiores a 30 ppm, nos artefactos acabados ou nas suas partes tingidas, conforme os métodos de ensaio constantes do anexo ao presente diploma, não podem ser utilizados em artigos têxteis e de couro susceptíveis de entrarem em contacto directo e prolongado com a pele humana ou a cavidade oral, tais como:
+
+Vestuário, roupa de cama, toalhas, elementos postiços para o cabelo, perucas, chapéus, fraldas e outros artigos sanitários, sacos-camas;
+
+Calçado, luvas, pulseiras de relógio, sacos de mão, bolsas, porta-moedas, carteiras, pastas, estofos para cadeiras, bolsas para usar ao pescoço;
+
+Brinquedos de tecido têxtil ou de couro e brinquedos que incluam peças de vestuário de tecido têxtil ou de couro;
+
+Fios e tecidos para utilização pelo consumidor final.
+
+10.2 - Os artigos têxteis ou de couro referidos no n.º 10.1 só podem ser colocados no mercado se satisfizerem os requisitos estabelecidos nesse número.
+
+10.3 - Por derrogação, até 1 de Janeiro de 2005, não se aplica o disposto no n.º 10.2 a artigos têxteis fabricados a partir de fibras recicladas se as aminas forem libertadas pelos resíduos de tingimentos anteriores das mesmas fibras e se as aminas enumeradas forem libertadas em concentrações inferiores a 70 ppm.
+
+10.4 - Os corantes azóicos listados no n.º 12 do anexo II não podem ser colocados no mercado ou utilizados, enquanto substâncias ou componentes de preparações em concentrações superiores a 0,1% em massa, para tingir artigos têxteis ou artigos de couro.
+
+10.5 - A lista dos métodos de ensaio é a constante do seguinte quadro:
+
+Métodos de ensaio
+
+(ver quadro no documento original)
+
+11 - Compostos de arsénio:
+
+11.1 - É proibida a colocação no mercado e a utilização de compostos de arsénio constantes do n.º 13 do anexo II como substâncias ou componentes de preparações destinadas a ser utilizadas para impedir a proliferação de microrganismos, plantas ou animais em:
+
+Cascos de embarcações;
+
+Gaiolas, flutuadores, redes e qualquer outro dispositivo ou equipamento utilizado em piscicultura ou conquilicultura;
+
+Qualquer dispositivo ou equipamento total ou parcialmente imerso.
+
+11.2 - É proibida a colocação no mercado e a utilização como substâncias ou componentes de preparações destinadas a ser utilizadas no tratamento de águas industriais, independentemente do seu uso.
+
+11.3 - É proibida a utilização para a conservação da madeira. Além disso, a madeira tratada deste modo não pode ser colocada no mercado.
+
+11.4 - Por derrogação, esta disposição não é aplicável a:
+
+a) Substâncias e preparações utilizadas no tratamento da madeira que só podem ser utilizadas em instalações industriais, utilizando vácuo ou pressão para impregnar a madeira, quando se trate de soluções de compostos inorgânicos do tipo C de cobre, crómio ou arsénio (CCA) e se estiverem autorizadas em conformidade com o disposto no Decreto-Lei n.º 121/2002, de 3 de Maio, referente à colocação no mercado dos produtos biocidas. A madeira tratada desta forma não pode ser colocada no mercado antes de estar completa a fixação do produto de conservação;
+
+b) Madeira tratada com soluções de cobre, crómio ou arsénio em instalações industriais em conformidade com a alínea a) e que pode ser colocada no mercado para utilização profissional e industrial, se a integridade estrutural da madeira for exigida para a segurança humana ou de animais e se for improvável o contacto com o público em geral através da pele, durante a sua vida útil:
+
+Como madeira para estruturas de edifícios públicos e agrícolas, edifícios de escritórios e instalações industriais;
+
+Em pontes e na construção de pontes;
+
+Como madeira de construção em áreas de água doce e águas salobras, por exemplo em paredões e pontes;
+
+Como barreiras acústicas;
+
+No controlo de avalanches;
+
+Nas barreiras de segurança que delimitam auto-estradas;
+
+Como postes de cercas para gado feitas em madeira de coníferas, descascada e arredondada;
+
+Em estruturas de retenção de terras;
+
+Como postes de transporte de energia eléctrica e de telecomunicações;
+
+Como travessas para vias de metropolitano;
+
+c) Sem prejuízo da aplicação de outras normas comunitárias relativas à classificação, embalagem e rotulagem de substâncias e preparações perigosas, toda a madeira tratada colocada no mercado deverá apresentar um rótulo com a menção 'Exclusivamente para uso profissional e instalação industrial, contém arsénio'. Além disso, toda a madeira colocada no mercado em embalagens deverá apresentar também um rótulo com a menção: 'Para manusear esta madeira, é necessário usar luvas. Usar máscara antipó e protecção para os olhos para cortar ou efectuar outro tipo de trabalho nesta madeira. Os seus desperdícios deverão ser tratados como resíduos perigosos por uma empresa devidamente autorizada';
+
+d) A madeira tratada mencionada na alínea a) não pode ser usada:
+
+Em construções residenciais ou domésticas, seja qual for a sua finalidade;
+
+Em qualquer aplicação em que exista um risco de contacto repetido com a pele;
+
+Em águas marinhas;
+
+Para fins agrícolas que não sejam postes de cercas para gado e os fins de uso estrutural de acordo com a alínea b);
+
+Em qualquer aplicação em que a madeira tratada possa entrar em contacto com produtos intermédios ou acabados destinados ao consumo humano e ou animal.
+
+11.5 - A madeira tratada com compostos de arsénio que estava em uso antes de 30 de Setembro de 2007 ou que foi colocada no mercado em conformidade com as regras do presente diploma pode permanecer no lugar e continuar a ser usada até que atinja o fim da sua vida útil.
+
+11.6 - A madeira tratada com soluções CCA do tipo C que estava em uso na Comunidade antes de 30 de Setembro de 2007 ou que foi colocada no mercado em conformidade com as regras do presente diploma:
+
+Pode ser utilizada ou reutilizada nas condições referentes à sua utilização constantes das alíneas b), c) e d) do n.º 11.4;
+
+Pode ser colocada no mercado de segunda mão nas condições referentes à sua utilização constantes das alíneas b), c) e d) do n.º 11.4.
+
+11.7 - A madeira tratada com outros tipos de soluções CCA que estava em uso na Comunidade antes de 30 de Setembro de 2007:
+
+Pode ser utilizada ou reutilizada nas condições referentes à sua utilização constantes das alíneas b), c) e d) do n.º 11.4;
+
+Pode ser colocada no mercado de segunda mão nas condições referentes à sua utilização constantes das alíneas b), c) e d) do n.º 11.4.
+
+12 - Éter difenílico, derivado pentabromado C(índice 12)H(índice 5)Br(índice 5)O:
+
+12.1 - É proibida a colocação no mercado da substância constante do n.º 14 do anexo II para utilização quer como substância quer como componente de outras substâncias ou preparações em concentrações superiores a 0,1% em massa.
+
+12.2 - Os artigos, ou partes ignífugas dos mesmos, que contenham esta substância em concentrações superiores a 0,1% em massa não podem ser colocados no mercado.
+
+12.3 - Por suspensão de vigência, os n.os 12.1 e 12.2 não são aplicáveis a sistemas de evacuação de emergência de aeronaves até 31 de Março de 2006.
+
+13 - Éter difenílico, derivado octabromado C(índice 12)H(índice 2)Br(índice 8)O:
+
+13.1 - É proibida a colocação no mercado da substância constante do n.º 15 do anexo II para utilização quer como substância quer como componente de outras substâncias ou preparações em concentrações superiores a 0,1% em massa.
+
+13.2 - Os artigos, ou partes ignífugas dos mesmos, que contenham esta substância em concentrações superiores a 0,1% em massa não podem ser colocados no mercado.
+
+14 - Nonilfenol C(índice 6)H(índice 4)(OH)C(índice 9)H(índice 19) e etoxilado de nonilfenol (C(índice 2)H(índice 4)O)(índice n)C(índice 15)H(índice 24)O:
+
+14.1 - É proibida a colocação no mercado das substâncias constantes do n.º 16 do anexo II para utilização como substâncias ou como componentes de preparações em concentrações superiores a 0,1% em massa para os seguintes efeitos:
+
+a) Limpeza industrial e institucional, excepto:
+
+Sistemas fechados controlados de limpeza a seco nos quais o líquido de lavagem é reciclado ou incinerado;
+
+Sistemas de limpeza com tratamento especial nos quais o líquido de lavagem é reciclado ou incinerado;
+
+b) Limpeza doméstica;
+
+c) Tratamento de têxteis e de couros, excepto:
+
+Tratamento sem descarga para as águas residuais;
+
+Sistemas com tratamento especial nos quais a água de tratamento é pré-tratada para remover completamente os resíduos orgânicos antes do tratamento biológico das águas residuais (desengorduramento de pele de ovelha);
+
+d) Emulsionante em produtos de imersão das tetinas agrícolas;
+
+e) Trabalho de metais, excepto utilizações em sistemas fechados controlados nos quais o líquido de lavagem é reciclado ou incinerado;
+
+f) Fabricação de pasta e de papel;
+
+g) Produtos cosméticos;
+
+h) Outros produtos de higiene pessoal, excepto espermicidas;
+
+i) Formulante nos pesticidas e biocidas.
+
+14.2 - As autorizações em vigor relativas a pesticidas ou produtos biocidas que contenham etoxilados de nonilfenol como formulante e que tenham sido concedidas antes da entrada em vigor do presente diploma não são, até à data da respectiva caducidade, por ele afectadas.
+
+15 - Cimento:
+
+15.1 - É proibida a colocação no mercado e a utilização de cimento, constante do n.º 17 do anexo II, ou preparações que contenham cimento se contiverem, quando hidratadas, mais de 0,0002% de crómio VI solúvel do peso seco total do cimento.
+
+15.2 - Se forem utilizados agentes redutores, e sem prejuízo da legislação relativa à classificação, embalagem e rotulagem de substâncias e preparações perigosas, as embalagens de cimento ou de preparações que contenham cimento deverão conter, de forma legível e indelével, informação relativa à data da embalagem, às condições de armazenamento e ao período de armazenamento, apropriada à manutenção da actividade do agente redutor e à manutenção do conteúdo de crómio VI solúvel abaixo do limite fixado no n.º 15.1.
+
+15.3 - A título derrogatório, o disposto nos n.os 15.1 e 15.2 não se aplica à colocação no mercado nem à utilização em processos controlados, fechados e totalmente automatizados em que o cimento e as preparações que contenham cimento sejam tratados exclusivamente por máquinas e em que não haja possibilidade de contacto com a pele.
+
+15.4 - Os métodos de ensaio necessários à aplicação do disposto nos n.os 15.1 e 15.2 serão publicados após aprovação dos mesmos pela Comissão, de acordo com o disposto no artigo 2.º da Directiva n.º 2003/53/CE, de 18 de Junho.
+
+16 - Amianto:
+
+16.1 - É proibida a colocação no mercado e a utilização das substâncias constantes do n.º 18 do anexo II e dos produtos que as contenham adicionadas intencionalmente.
+
+16.2 - A utilização de produtos que contenham fibras de amianto referidas no n.º 16.1 e que já se encontrem instaladas e ou em serviço antes da data de entrada em vigor do presente diploma continua a ser autorizada até à data da sua destruição ou fim de vida útil.
+
+16.3 - Por derrogação, no que se refere ao crisótilo, o disposto no n.º 16.1 não se aplica aos diafragmas destinados a instalações de electrólise já existentes até que estes atinjam o fim da sua vida útil ou até que passem a estar disponíveis substitutos adequados que não contenham amianto, consoante a data que for anterior.
+
+16.4 - Sem prejuízo da aplicação de outras disposições relativas à classificação, embalagem ou rotulagem de substâncias e preparações perigosas, só será autorizada a colocação no mercado e a utilização do crisótilo e dos produtos que o contenham se eles ou a sua embalagem ostentarem um rótulo com as disposições do anexo III do presente diploma, do qual faz parte integrante.
+
+17 - Tolueno:
+
+17.1 - É proibida a colocação no mercado e a utilização de tolueno, constante do n.º 19 do anexo II, como substância ou componente de preparações numa concentração igual ou superior a 0,1% em massa, em produtos adesivos e tintas para pulverização, destinados à venda ao público em geral.
+
+18 - Triclorobenzeno:
+
+18.1 - É proibida a colocação no mercado e a utilização de triclorobenzeno, constante do n.º 20 do anexo II, como substância ou componente de preparações numa concentração igual ou superior a 0,1% em massa, para qualquer utilização, salvo:
+
+a) Como produto intermédio de síntese, ou
+
+b) Como solvente de processo em aplicações químicas fechadas para reacções de cloração, ou
+
+c) Na produção de 1,3,5-trinitro-2,4,6-triaminobenzeno (TATB).
+
+19 - Hidrocarbonetos aromáticos policíclicos (HAP):
+
+19.1 - É proibida a colocação no mercado dos óleos de diluição que contenham as substâncias constantes do n.º 21 do anexo II e a sua utilização no fabrico de pneumáticos ou partes de pneumáticos se contiverem:
+
+a) Mais de 1 mg/kg de BaP, ou
+
+b) Mais de 10 mg/kg da soma de todos os HAP indicados.
+
+Estes limites são considerados observados, caso a massa do extracto de aromáticos policíclicos (APC) seja inferior a 3%, em conformidade com a norma IP346:1998 do Instituto do Petróleo (Determinação dos APC nos óleos de base para lubrificação não usados e em amostras de petróleo sem asfalteno - método do índice refractivo de extracção de sulfóxido de dimetilo), desde que a conformidade com os valores-limite de BaP e dos HAP indicados, bem como a correlação dos valores medidos com o extracto de APC, sejam controlados pelo fabricante ou pelo importador de seis em seis meses ou após cada alteração operacional importante, consoante o que ocorrer primeiro.
+
+19.2 - Além disso, os pneumáticos e as bandas de rodagem para recauchutagem fabricadas após 1 de Janeiro de 2010 não podem ser colocados no mercado se contiverem óleos de diluição que excedam os limites indicados no n.º 19.1.
+
+Consideram-se observados esses limites, caso os componentes de borracha vulcanizada não ultrapassem o limite de 0,35% Hbay, tal como medidos e calculados pela norma ISO 21461 (Borracha vulcanizada - Determinação da aromaticidade do óleo nos componentes de borracha vulcanizada).
+
+19.3 - Por derrogação, o n.º 19.2 não se aplica aos pneumáticos recauchutados, caso as suas bandas de rodagem não contenham óleos de diluição que ultrapassem os limites indicados no n.º 19.1.
+
+20 - Ftalato de di(2-etil-hexilo) (DEHP), ftalato de dibutilo (DBP) e ftalato de benzilbutilo (BBP):
+
+20.1 - É proibida a utilização dos ftalatos constantes do n.º 22 do anexo II, como substâncias ou componentes de preparações, em concentrações superiores a 0,1% em massa de material plastificado, em brinquedos e artigos de puericultura.
+
+20.2 - É proibida a colocação no mercado de brinquedos e artigos de puericultura que contenham estes ftalatos numa concentração superior ao limite referido em 20.1.
+
+21 - Ftalato de di-isononilo (DINP), ftalato de di-isodecilo (DIDP) e ftalato de di-n-octilo (DNOP):
+
+21.1 - É proibida a utilização dos ftalatos constantes do n.º 23 do anexo II, como substâncias ou componentes de preparações, em concentrações superiores a 0,1% em massa de material plastificado, em brinquedos e artigos de puericultura que as crianças possam pôr na boca.
+
+21.2 - É proibida a colocação no mercado de brinquedos e artigos de puericultura que contenham estes ftalatos numa concentração superior ao limite referido em 21.1.
+
+22 - Perfluoroctanossulfonatos (PFOS):
+
+22.1 - É proibida a colocação no mercado e a utilização de perfluoroctanossulfonatos (PFOS), constantes do n.º 24 do anexo II, como substâncias ou componentes de preparações numa concentração igual ou superior a 0,005% em massa.
+
+22.2 - É proibida a colocação no mercado em produtos semiacabados ou artigos, ou partes de artigos, se a concentração de PFOS for igual ou superior a 0,1% em massa calculada com base na massa de partes estruturais ou microestruturais distintas que contenham PFOS ou, no caso dos têxteis ou de outros materiais revestidos, se a quantidade de PFOS for igual ou superior a 1 (mi)g/m2 do material revestido.
+
+22.3 - Por derrogação, os n.os 22.1 e 22.2 não são aplicáveis aos seguintes produtos ou substâncias e preparações necessárias à sua produção:
+
+a) Revestimentos fotorresistentes ou anti-reflexo, em processos de fotolitografia;
+
+b) Revestimentos fotográficos aplicados em filmes, papéis ou chapas de impressão;
+
+c) Eliminadores de névoa em cromagem rígida não decorativa (crómio VI) e agentes molhantes para utilização em sistemas controlados de electrodeposição em que a quantidade de PFOS libertada para o ambiente é minimizada mediante a aplicação integral das melhores técnicas disponíveis desenvolvidas no âmbito do Decreto-Lei n.º 194/2000, de 21 de Agosto, relativo à prevenção e controlo integrados da poluição;
+
+d) Fluidos hidráulicos para a aviação.
+
+22.4 - Por derrogação ao n.º 22.1, as espumas contra incêndios colocadas no mercado antes de 27 de Dezembro de 2006 podem ser utilizadas até 27 de Junho de 2011.
+
+22.5 - Os n.os 22.1 e 22.2 aplicam-se sem prejuízo do Regulamento (CE) n.º 648/2004, do Parlamento Europeu e do Conselho, de 31 de Março, relativo aos detergentes.
+
+23 - Mercúrio:
+
+23.1 - É proibida a colocação no mercado:
+
+a) Em termómetros para medir a temperatura corporal;
+
+b) Em outros instrumentos de medição destinados à venda ao grande público (exemplo: manómetros, barómetros, esfigmomanómetros, termómetros não destinados a medir a temperatura corporal).
+
+23.2 - Por derrogação, o n.º 23.1 não é aplicável:
+
+a) Aos instrumentos de medição com mais de 50 anos em 3 de Outubro de 2007;
+
+b) Aos barómetros [excepto aos barómetros referidos na alínea a) deste número] até 3 de Outubro de 2009.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 76/2008 - Diário da República n.º 82/2008, Série I de 2008-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2008-249563), em vigor a partir de 2009-04-03
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 243/2007 - Diário da República n.º 118/2007, Série I de 2007-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2007-639316), em vigor a partir de 2007-06-22
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2007 - Diário da República n.º 13/2007, Série I de 2007-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2007-522805)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 222/2005 - Diário da República n.º 247/2005, Série I-A de 2005-12-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/222-2005-463435), em vigor a partir de 2005-12-28
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 162/2005 - Diário da República n.º 183/2005, Série I-A de 2005-09-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2005-147997), em vigor a partir de 2005-09-23
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2005-226187), em vigor a partir de 2005-06-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 73/2005 - Diário da República n.º 55/2005, Série I-A de 2005-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2005-573911), em vigor a partir de 2005-03-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2005 - Diário da República n.º 55/2005, Série I-A de 2005-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2005-573912), em vigor a partir de 2005-03-19
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 123/2004 - Diário da República n.º 121/2004, Série I-A de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2004-252837), produz efeitos a partir de 2004-08-15
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 208/2003 - Diário da República n.º 213/2003, Série I-A de 2003-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2003-503818), em vigor a partir de 2003-09-16
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 238/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2002-424729), em vigor a partir de 2002-11-06, produz efeitos a partir de 2003-06-30
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 256/2000 - Diário da República n.º 240/2000, Série I-A de 2000-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), em vigor a partir de 2000-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176), em vigor a partir de 1999-11-04
+
+## Anexo II
+
+Preâmbulo
+
+Explicação dos títulos das colunas
+
+Nome da substância - o nome da substância é idêntico ao utilizado no anexo I do Regulamento para a Notificação de Substâncias Químicas e para a Classificação, Embalagem e Rotulagem de Substâncias Perigosas, aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com as sucessivas alterações que lhe foram introduzidas. Sempre que possível, as substâncias perigosas são identificadas pelas designações EINECS (Inventário Europeu das Substâncias Químicas Existentes no Mercado) ou ELINCS (Lista Europeia das Substâncias Químicas Notificadas), respectivas. No caso das substâncias que não figuram no EINECS nem na ELINCS, utiliza-se uma designação química reconhecida internacionalmente (ISO ou IUPAC, por exemplo). Em alguns casos, é ainda incluído um nome vulgar.
+
+Número de índice - o número de índice é o código de identificação atribuído à substância no anexo I do Regulamento para a Notificação de Substâncias Químicas e para a Classificação, Embalagem e Rotulagem de Substâncias Perigosas, aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com as sucessivas alterações que lhe foram introduzidas. As substâncias são enumeradas com base neste número.
+
+Número CE - trata-se de um código de identificação atribuído à substância no EINECS. Começa no n.º 200-001-8. No que respeita às novas substâncias notificadas no quadro do Regulamento para a Notificação de Substâncias Químicas e para a Classificação, Embalagem e Rotulagem de Substâncias Perigosas, aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com as sucessivas alterações que lhe foram introduzidas, foi-lhes atribuído um código de identificação, publicado na ELINCS. O código em questão começa no n.º 400-010-9.
+
+Número CAS - o número CAS (Chemical Abstracts Service) foi definido para facilitar a identificação das substâncias.
+
+Notas - o texto completo das notas figura no preâmbulo do anexo I do Regulamento para a Notificação de Substâncias Químicas e para a Classificação, Embalagem e Rotulagem de Substâncias Perigosas, aprovado pela Portaria n.º 732-A/96, de 11 de Dezembro, com as sucessivas alterações que lhe foram introduzidas.
+
+1 - Substâncias cancerígenas
+
+Categoria 1
+
+(ver quadro no documento original)
+
+2 - Substâncias mutagénicas
+
+Categoria 2
+
+(ver quadro no documento original)
+
+3 - Substâncias tóxicas para a reprodução
+
+Categoria 1
+
+(ver quadro no documento original)
+
+Categoria 2
+
+(ver quadro no documento original)
+
+4 - Creosoto
+
+(ver quadro no documento original)
+
+5 - Solventes clorados
+
+(ver quadro no documento original)
+
+6 - Hexacloroetano
+
+(ver quadro no documento original)
+
+7 - Substâncias ou preparações líquidas perigosas usadas em objectos decorativos, máscaras, partidas e jogos
+
+(ver quadro no documento original)
+
+8 - Níquel e seus compostos
+
+(ver quadro no documento original)
+
+9 - Compostos organoestânicos
+
+(ver quadro no documento original)
+
+10 - Pentaclorofenol, seus sais e ésteres
+
+(ver quadro no documento original)
+
+11 - Parafinas cloradas de cadeia curta
+
+(ver tabela no documento original)
+
+12 - Corantes azóicos
+
+Lista de aminas aromáticas:
+
+(ver tabela no documento original)
+
+Lista de corantes azóicos:
+
+(ver tabela no documento original)
+
+13 - Compostos de arsénio
+
+(ver tabela no documento original)
+
+16 - Nonilfenol e etoxilados de nonilfenol
+
+(ver quadro no documento original)
+
+17 - Cimento
+
+(ver quadro no documento original)
+
+18 - Amianto:
+
+(ver tabela no documento original)
+
+19 - Tolueno:
+
+(ver documento original)
+
+20 - Triclorobenzeno:
+
+(ver documento original)
+
+21 - Hidrocarbonetos aromáticos policíclicos (HAP):
+
+(ver documento original)
+
+22 - Ftalato de di(2-etil-hexilo) (DEHP), ftalato de dibutilo (DBP) e ftalato de benzilbutilo (BBP) (ou outros n.os CAS e EINECS que incluam estas substâncias):
+
+(ver documento original)
+
+23 - Ftalato de di-isononilo (DINP), ftalato de di-isodecilo (DIDP) e ftalato de di-n-octilo (DNOP) (ou outros n.os CAS e EINECS que incluam estas substâncias):
+
+(ver documento original)
+
+24 - Perfluoroctanossulfonatos (PFOS):
+
+(ver documento original)
+
+25 - Mercúrio:
+
+(ver documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 76/2008 - Diário da República n.º 82/2008, Série I de 2008-04-28](https://diariodarepublica.pt/dr/detalhe/decreto-lei/76-2008-249563), produz efeitos a partir de 2009-04-03
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 243/2007 - Diário da República n.º 118/2007, Série I de 2007-06-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/243-2007-639316), em vigor a partir de 2007-06-22
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2007 - Diário da República n.º 13/2007, Série I de 2007-01-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2007-522805), produz efeitos a partir de 2007-08-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2005-226187), em vigor a partir de 2005-06-24
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 72/2005 - Diário da República n.º 55/2005, Série I-A de 2005-03-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/72-2005-573912), em vigor a partir de 2005-03-19
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2004 - Diário da República n.º 121/2004, Série I-A de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2004-252837), produz efeitos a partir de 2004-12-25
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 208/2003 - Diário da República n.º 213/2003, Série I-A de 2003-09-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/208-2003-503818), em vigor a partir de 2003-09-16
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 238/2002 - Diário da República n.º 255/2002, Série I-A de 2002-11-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/238-2002-424729), em vigor a partir de 2022-11-06, produz efeitos a partir de 2003-01-18
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 256/2000 - Diário da República n.º 240/2000, Série I-A de 2000-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), em vigor a partir de 2000-10-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 446/99 - Diário da República n.º 256/1999, Série I-A de 1999-11-03](https://diariodarepublica.pt/dr/detalhe/decreto-lei/446-1999-694176), em vigor a partir de 1999-11-04
+
+## Anexo III
+
+Métodos de ensaio utilizados para testar a conformidade dos produtos referidos nos n.os 6.1, 6.2 e 6.3 do anexo I* com os requisitos nele estabelecidos
+
+(ver quadro no documento original)
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 123/2004 - Diário da República n.º 121/2004, Série I-A de 2004-05-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/123-2004-252837), em vigor a partir de 2004-05-29
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 256/2000 - Diário da República n.º 240/2000, Série I-A de 2000-10-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-2000-532459), em vigor a partir de 2000-10-18
+
+## Anexo
+
+1 - O rótulo referido no n.º 16.4 do anexo I, conforme ao modelo abaixo indicado, deve ter as seguintes características:
+
+a) Dimensões mínimas:
+
+Altura (H) - 5 cm; e
+
+Largura - 2,5 cm;
+
+b) Apresentação:
+
+A parte superior (h1 = 40% H) deve ter a letra «a» impressa em cor branca sobre fundo preto;
+
+A parte inferior (h2 = 60% H) deve ter as frases tipos bem legíveis, impressas em cor preta e ou branca sobre fundo vermelho.
+
+2 - Quando a rotulagem é feita por impressão directa sobre o produto, é suficiente o uso de uma única cor contrastante com a cor de fundo do respectivo produto.
+
+3 - O rótulo é colocado de acordo com as seguintes regras:
+
+a) Em cada uma das mais pequenas unidades comercializadas;
+
+b) Se um produto é formado por vários elementos à base de crisótilo, é suficiente que somente estes contenham rótulo;
+
+c) Pode ser dispensada a rotulagem de um elemento quando este apresenta dimensões demasiado reduzidas ou acondicionamento inapropriado.
+
+4 - O rótulo das embalagens dos produtos que contenham crisótilo tem de estar de acordo com o anexo II ao presente diploma e conter obrigatoriamente, de modo legível e indelével, as seguintes indicações:
+
+a) O símbolo e a indicação de perigo;
+
+b) Os conselhos de segurança escolhidos de acordo com o n.º 9;
+
+c) Quando se imponham informações complementares de segurança, estas não devem atenuar ou contradizer as indicações referidas nas alíneas a) e b).
+
+5 - A rotulagem prevista no n.º 4 é efectuada por um dos seguintes modos:
+
+a) Por um rótulo solidamente fixado na embalagem;
+
+b) Por um rótulo móvel, mas firmemente atado à embalagem;
+
+c) Por impressão directa sobre a embalagem.
+
+6 - Os produtos que contenham crisótilo envolvidos somente por uma embalagem plástica ou similar são considerados como produtos embalados e devem ser rotulados conforme o disposto no n.º 5.
+
+7 - Quando os produtos possam ser separados das embalagens e colocados no mercado não embalados, cada uma das unidades mais pequenas é acompanhada de qualquer forma de informação que contenha um rótulo de acordo com o n.º 4.
+
+8 - A rotulagem dos produtos que contenham crisótilo e que não se apresentem embalados deve ser efectuada de acordo com as indicações referidas no n.º 4, através de um dos seguintes modos:
+
+a) Por um rótulo fixado solidamente sobre o produto que contém crisótilo;
+
+b) Por um rótulo móvel atado solidamente ao produto;
+
+c) Por impressão directa sobre o produto;
+
+d) Quando nenhum dos processos de rotulagem descritos nas alíneas anteriores possa ser correctamente aplicado, devido, nomeadamente, às dimensões reduzidas do produto ou a outras dificuldades de natureza técnica, a rotulagem deve ser efectuada através de qualquer forma de informação que contenha um rótulo de acordo com o n.º 4.
+
+9 - Sem prejuízo do disposto na legislação existente sobre segurança e higiene nos locais de trabalho, o rótulo dos produtos que possam ainda ser transformados ou trabalhados deve conter, além das indicações referidas no n.º 4, os conselhos de segurança adequados, nomeadamente:
+
+a) Trabalhar, se possível, no exterior ou em local bem arejado;
+
+b) Utilizar de preferência ferramentas manuais ou ferramentas de velocidade reduzida, equipadas, se necessário, de um dispositivo apropriado de aspiração de poeiras;
+
+c) Equipar ferramentas de grande velocidade com um dispositivo de aspiração de poeiras;
+
+d) Se possível, molhar o produto antes de o cortar ou de o brocar;
+
+e) Molhar as poeiras, colocá-las num recipiente bem fechado e eliminá-las em condições de segurança.
+
+(ver modelo no documento original)
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 101/2005 - Diário da República n.º 119/2005, Série I-A de 2005-06-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/101-2005-226187), em vigor a partir de 2005-06-24

@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:227215:por
+title: Portaria n.º 243/86
+short_title: null
+summary: Determina as taxas a cobrar pela fixação das lotações das embarcações referidas no n.º 1 do artigo 1.º do Decreto-Lei
+  n.º 457/85, de 30 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e das Obras Públicas, Transportes e Comunicações - Secretarias de Estado do Orçamento e dos Transportes
+  e Comunicações
+proposing_entity: null
+official_number: 243/86
+official_date: null
+publication_date: '1986-05-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 118/1986, Série I de 1986-05-23
+  number: '118'
+  series: I
+  supplement: null
+  pages: 1250 - 1250
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/05/11800/12501250.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '227215'
+  dre_path: /dr/detalhe/portaria/243-1986-227215
+  internal: pt:dre:227215:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1986-227215
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/243-1986-227215
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1986-05-23T00:00:00Z'
+integrity:
+  source_sha256: 7af63fbf661f2f5d6358155e99f60b836c26d69a2137157ed6b6ddffb7ed38ce
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-243-227215.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 243/86
+
+de 23 de Maio
+
+Ao abrigo dos artigos 10.º e 11.º do [Decreto-Lei n.º 457/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1985-171371), de 30 de Outubro, manda o Governo da República Portuguesa, pelos Secretários de Estado do Orçamento e dos Transportes e Comunicações, o seguinte:
+
+1.º As taxas a cobrar pela fixação das lotações das embarcações referidas no n.º 1 do artigo 1.º do [Decreto-Lei n.º 457/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1985-171371), de 30 de Outubro, são as seguintes:
+
+a) Por cada vistoria - 5000$00, acrescidos da importância correspondente a ajudas de custo e despesas de transporte;
+
+b) Pela emissão de um certificado provisório - 2500$00;
+
+c) Pela emissão de um certificado definitivo - 2500$00;
+
+d) Pela autorização de embarque de um tripulante extralotação - 1500$00;
+
+e) Pela licença de embarque para desempenho de actividades técnicas - 1500$00;
+
+f) Pela autorização de viagem com lotação inferior à definitiva - 2500$00;
+
+g) Pela substituição e emissão de 2.as vias de certificados - 500$00.
+
+2.º A cada membro da comissão técnica referida no artigo 4.º do [Decreto-Lei n.º 457/85](https://diariodarepublica.pt/dr/detalhe/decreto-lei/457-1985-171371), de 30 de Outubro, será atribuída, por cada vistoria efectuada, uma gratificação de 1250$00.
+
+Secretarias de Estado do Orçamento e dos Transportes e Comunicações.
+
+**Assinada em 30 de Abril de 1986.**
+
+**O Secretário de Estado do Orçamento, Rui Carlos Alvarez Carp. - O Secretário de Estado dos Transportes e Comunicações, Gonçalo Manuel Bourbon Sequeira Braga.**

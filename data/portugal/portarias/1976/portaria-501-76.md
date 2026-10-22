@@ -1,0 +1,97 @@
+---
+schema_version: '1.0'
+id: pt:dre:429859:por
+title: Portaria n.º 501/76
+short_title: null
+summary: Autoriza a Empresa Pública das Águas de Lisboa (EPAL) a contrair um empréstimo no Banco Nacional Ultramarino
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e das Obras Públicas
+proposing_entity: null
+official_number: 501/76
+official_date: null
+publication_date: '1976-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 185/1976, Série I de 1976-08-09
+  number: '185'
+  series: I
+  supplement: null
+  pages: 1971 - 1971
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/08/18500/19711971.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '429859'
+  dre_path: /dr/detalhe/portaria/501-1976-429859
+  internal: pt:dre:429859:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/501-1976-429859
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/501-1976-429859
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1976-08-09T00:00:00Z'
+integrity:
+  source_sha256: 506d849275e2acd146af04ceff2177e858090fe1a1934871824419f495ce6e78
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-501-429859.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 501/76
+
+de 9 de Agosto
+
+A Empresa Pública das Águas de Lisboa (EPAL) solicitou autorização para obter um empréstimo intercalar de 50000000$00 no Banco Nacional Ultramarino, destinado à cobertura das necessidades imediatas de financiamento no seu programa de investimentos em curso: execução das obras de abastecimento de água à cidade de Lisboa e zona suburbana e de trajecto dos canais adutores.
+
+Verificada a utilidade pública destes investimentos, de acordo com os planos previamente aprovados, e a imperativa necessidade de assegurar a sua continuidade, o Governo autoriza, por este diploma, a realização do solicitado empréstimo.
+
+Nestes termos:
+
+Manda o Governo da República Portuguesa, pelos Ministros das Finanças e das Obras Públicas, nos termos do artigo 11.º do [Decreto-Lei n.º 553-A/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/553-a-1974-547005), de 30 de Outubro, atendendo ao que foi solicitado pela Empresa Pública das Águas de Lisboa (EPAL), autorizar a referida empresa a contrair no Banco Nacional Ultramarino um empréstimo intercalar de 50000000$00, à taxa anual de 8,25%, pelo prazo de seis meses, que será utilizado por livrança e a liquidar no seu vencimento, podendo, todavia, a mesma ser renovada por períodos sucessivos de seis meses, mediante acordo estabelecido entre a EPAL e o Banco Nacional Ultramarino.
+
+A Empresa Pública das Águas de Lisboa (EPAL) fica ainda autorizada a consignar, a favor do Banco Nacional Ultramarino, as receitas com que o Estado subsidia aquela empresa por metro cúbico de água consumida, de acordo com a resolução do Conselho de Ministros de 16 de Março de 1976.
+
+Ministérios das Finanças e das Obras Públicas, 26 de Julho de 1976. - Pelo Ministro das Finanças, José Dias dos Santos Pais, Subsecretário de Estado Adjunto. - O Ministro das Obras Públicas, Álvaro Augusto Veiga de Oliveira.

@@ -1,0 +1,860 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:145591:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2011-107596758",
+ "dre_path": "/dr/detalhe/decreto-lei/118-2011-145591",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2011-12-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "107609644",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "107609650",
+    "107609651",
+    "107609652",
+    "107609653",
+    "107609654",
+    "107609655",
+    "107609656",
+    "107609657",
+    "107609658",
+    "107609660"
+   ]
+  },
+  {
+   "date": "2012-07-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:179786:por",
+     "title": "Decreto-Lei n.º 142/2012",
+     "published": "2012-07-11",
+     "dre_path": "/dr/detalhe/decreto-lei/142-2012-179786"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "107609644",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "107614278",
+    "107609651",
+    "107609652",
+    "107609653",
+    "107609654",
+    "107609655",
+    "107609656",
+    "107609657",
+    "107609658",
+    "107609659",
+    "107609660"
+   ]
+  },
+  {
+   "date": "2013-01-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:256471:por",
+     "title": "Decreto-Lei n.º 6/2013",
+     "published": "2013-01-17",
+     "dre_path": "/dr/detalhe/decreto-lei/6-2013-256471"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "107609644",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "107614278",
+    "107609651",
+    "107609652",
+    "107609653",
+    "107609654",
+    "107609655",
+    "107614279",
+    "107609657",
+    "107609658",
+    "107609659",
+    "107609660"
+   ]
+  },
+  {
+   "date": "2014-04-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25344752:por",
+     "title": "Decreto-Lei n.º 51/2014",
+     "published": "2014-04-02",
+     "dre_path": "/dr/detalhe/decreto-lei/51-2014-25344752"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 9.º-A"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "107609644",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "107614278",
+    "107609651",
+    "107614280",
+    "107614281",
+    "107614282",
+    "107614283",
+    "107614284",
+    "107614285",
+    "107614286",
+    "107614287",
+    "107614288",
+    "107614289"
+   ]
+  },
+  {
+   "date": "2015-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:66016527:por",
+     "title": "Lei n.º 82-B/2014",
+     "published": "2014-12-31",
+     "dre_path": "/dr/detalhe/lei/82-b-2014-66016527"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "107609644",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "107614278",
+    "107609651",
+    "107614280",
+    "107614290",
+    "107614291",
+    "107614283",
+    "107614284",
+    "107614285",
+    "107614286",
+    "107614287",
+    "107614288",
+    "107614292"
+   ]
+  },
+  {
+   "date": "2017-07-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107596683:por",
+     "title": "Decreto-Lei n.º 78/2017",
+     "published": "2017-06-30",
+     "dre_path": "/dr/detalhe/decreto-lei/78-2017-107596683"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "107609644",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "107614278",
+    "107609651",
+    "107614280",
+    "107614290",
+    "107614291",
+    "107614283",
+    "107614284",
+    "107614285",
+    "107614286",
+    "107614287",
+    "107614288",
+    "107614293"
+   ]
+  },
+  {
+   "date": "2017-11-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108028571:por",
+     "title": "Lei n.º 89/2017",
+     "published": "2017-08-21",
+     "dre_path": "/dr/detalhe/lei/89-2017-108028571"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "108042215",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "107614278",
+    "107609651",
+    "107614280",
+    "107614290",
+    "107614291",
+    "107614283",
+    "107614284",
+    "107614285",
+    "107614286",
+    "107614287",
+    "107614288",
+    "107614293"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:158368130:por",
+     "title": "Lei n.º 7/2021",
+     "published": "2021-02-26",
+     "dre_path": "/dr/detalhe/lei/7-2021-158368130"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 8.º"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "108042215",
+    "107609645",
+    "107609646",
+    "107609647",
+    "107609648",
+    "107609649",
+    "158479426",
+    "107609651",
+    "107614280",
+    "107614290",
+    "107614291",
+    "107614283",
+    "107614284",
+    "107614285",
+    "107614286",
+    "107614287",
+    "107614288",
+    "107614293"
+   ]
+  },
+  {
+   "date": "2024-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:840060195:por",
+     "title": "Decreto-Lei n.º 19/2024",
+     "published": "2024-02-02",
+     "dre_path": "/dr/detalhe/decreto-lei/19-2024-840060195"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Adita Artigo 13.º-B",
+    "Altera Artigo 2.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 14.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "840062488",
+    "107609645",
+    "107609646",
+    "840062489",
+    "107609648",
+    "107609649",
+    "158479426",
+    "107609651",
+    "107614280",
+    "840062490",
+    "107614291",
+    "107614283",
+    "107614284",
+    "840062493",
+    "840062499",
+    "840062500",
+    "840062501",
+    "840062502",
+    "840062503",
+    "840062505"
+   ]
+  },
+  {
+   "date": "2024-06-08",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:868245178:por",
+     "title": "Decreto-Lei n.º 40/2024",
+     "published": "2024-06-07",
+     "dre_path": "/dr/detalhe/decreto-lei/40-2024-868245178"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º-A"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "840062488",
+    "107609645",
+    "107609646",
+    "840062489",
+    "107609648",
+    "107609649",
+    "158479426",
+    "107609651",
+    "107614280",
+    "840062490",
+    "107614291",
+    "107614283",
+    "107614284",
+    "868172428",
+    "840062499",
+    "840062500",
+    "840062501",
+    "840062502",
+    "840062503",
+    "840062505"
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:913223418:por",
+     "title": "Decreto-Lei n.º 59/2025",
+     "published": "2025-04-01",
+     "dre_path": "/dr/detalhe/decreto-lei/59-2025-913223418"
+    }
+   ],
+   "changes": [
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "107609642",
+    "107609643",
+    "840062488",
+    "107609645",
+    "107609646",
+    "840062489",
+    "107609648",
+    "107609649",
+    "158479426",
+    "107609651",
+    "107614280",
+    "840062490",
+    "107614291",
+    "107614283",
+    "107614284",
+    "868172428",
+    "840062499",
+    "840062500",
+    "840062501",
+    "840062502",
+    "840062503",
+    "913617829"
+   ]
+  }
+ ],
+ "fragments": {
+  "107609642": {
+   "fragment_id": "107596759",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 118/2011\n\nde 15 de Dezembro\n\nNo âmbito do Compromisso Eficiência, o XIX Governo Constitucional determinou as linhas gerais do Plano de Redução e Melhoria da Administração Central (PREMAC), afirmando que o primeiro e mais importante impulso do Plano deveria, desde logo, ser dado no processo de preparação das leis orgânicas dos ministérios e dos respectivos serviços.\n\nTrata-se de algo absolutamente estruturante, por um lado, para o início de uma nova fase da reforma da Administração Pública, no sentido de a tornar eficiente e racional na utilização dos recursos públicos e, por outro, para o cumprimento dos objectivos de redução da despesa pública a que o país está vinculado. Com efeito, mais do que nunca, a concretização simultânea dos objectivos de racionalização das estruturas do Estado e de melhor utilização dos seus recursos humanos é crucial no processo de modernização e de optimização do funcionamento da Administração Pública.\n\nImportava decididamente repensar e reorganizar a estrutura do Estado, no sentido de lhe dar uma maior coerência e capacidade de resposta no desempenho das funções que deverá assegurar, eliminando redundâncias e reduzindo substancialmente os seus custos de funcionamento.\n\nAtravés deste diploma é aprovada a estrutura orgânica da Autoridade Tributária e Aduaneira, que resulta da fusão da Direcção-Geral dos Impostos, da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo e da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros.\n\nCom a criação desta Autoridade, renova-se a missão e objectivos da administração tributária e aduaneira, assegura-se uma maior coordenação na execução das políticas fiscais e garante-se uma mais eficiente alocação e utilização dos recursos existentes, num quadro de preservação das competências especializadas que constituem a mais-valia das organizações centenárias objecto do processo de fusão.\n\nAo nível orçamental, a criação da Autoridade Tributária e Aduaneira permitirá uma redução de custos mediante a simplificação da estrutura de gestão central, o reforço do investimento em sistemas de informação e a racionalização da estrutura de serviços regionais e locais, adaptando-o ao novo paradigma de relacionamento entre a administração tributária e aduaneira, os contribuintes e os operadores económicos.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "107609643": {
+   "fragment_id": "107596760",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\n1 - A Autoridade Tributária e Aduaneira, abreviadamente designada por AT, é um serviço da administração directa do Estado dotado de autonomia administrativa.\n\n2 - A AT dispõe ainda de unidades orgânicas desconcentradas de âmbito regional, designadas por direcções de finanças e alfândegas, e de âmbito local, designadas por serviços de finanças, delegações e postos aduaneiros."
+  },
+  "107609644": {
+   "fragment_id": "107596761",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A AT tem por missão administrar os impostos, direitos aduaneiros e demais tributos que lhe sejam atribuídos, bem como exercer o controlo da fronteira externa da União Europeia e do território aduaneiro nacional, para fins fiscais, económicos e de protecção da sociedade, de acordo com as políticas definidas pelo Governo e o Direito da União Europeia.\n\n2 - A AT prossegue as seguintes atribuições:\n\na) Assegurar a liquidação e cobrança dos impostos sobre o rendimento, sobre o património e sobre o consumo, dos direitos aduaneiros e demais tributos que lhe incumbe administrar, bem como arrecadar e cobrar outras receitas do Estado ou de pessoas colectivas de direito público;\n\nb) Exercer a acção de inspecção tributária e aduaneira, garantir a aplicação das normas a que se encontram sujeitas as mercadorias introduzidas no território da União Europeia e efectuar os controlos relativos à entrada, saída e circulação das mercadorias no território nacional, prevenindo, investigando e combatendo a fraude e evasão fiscais e aduaneiras e os tráficos ilícitos, no âmbito das suas atribuições;\n\nc) Exercer a acção de justiça tributária e assegurar a representação da Fazenda Pública junto dos órgãos judiciais;\n\nd) Assegurar a negociação técnica e executar os acordos e convenções internacionais em matéria tributária e aduaneira, cooperar com organismos europeus e internacionais e outras administrações tributárias e aduaneiras, e participar nos trabalhos de organismos europeus e internacionais especializados no seu domínio de actividade;\n\ne) Promover a correcta aplicação da legislação e das decisões administrativas relacionadas com as suas atribuições e propor as medidas de carácter normativo, técnico e organizacional que se revelem adequadas;\n\nf) Desenvolver e gerir as infra-estruturas, equipamentos e tecnologias de informação necessários à prossecução das suas atribuições e à prestação de apoio, esclarecimento e serviços de qualidade aos contribuintes;\n\ng) Realizar e promover a investigação técnica e científica no domínio tributário e aduaneiro, tendo em vista o aperfeiçoamento das medidas legais e administrativas, a qualificação permanente dos recursos humanos, bem como o necessário apoio ao Governo na definição da política fiscal e aduaneira;\n\nh) Informar os contribuintes e os operadores económicos sobre as respectivas obrigações fiscais e aduaneiras e apoiá-los no cumprimento das mesmas;\n\ni) Assegurar o licenciamento do comércio externo dos produtos tipificados em legislação especial e gerir os regimes restritivos do respectivo comércio externo."
+  },
+  "107609645": {
+   "fragment_id": "107596762",
+   "type": 11,
+   "heading": "Artigo 3.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Órgãos\n\n1 - A AT é dirigida por um director-geral, coadjuvado por 12 subdirectores-gerais, cargos de direcção superior de 1.º e 2.º graus, respectivamente.\n\n2 - As direcções de finanças e as alfândegas são dirigidas, respectivamente, por directores de finanças e directores de alfândegas, cargos de direcção intermédia de 1.º grau.\n\n3 - É ainda órgão da AT o Conselho de Administração da Autoridade Tributária e Aduaneira."
+  },
+  "107609646": {
+   "fragment_id": "107596763",
+   "type": 11,
+   "heading": "Artigo 4.º — Director-Geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Director-Geral\n\n1 - Sem prejuízo das competências que lhe forem conferidas por lei ou nele delegadas ou subdelegadas, compete ao director-geral:\n\na) Promover a execução da legislação tributária e aduaneira e da política do Governo nessas matérias;\n\nb) Propor a criação e a alteração das leis e regulamentos necessários à eficácia e eficiência do sistema fiscal;\n\nc) Colaborar na elaboração de políticas públicas em matéria fiscal e aduaneira;\n\nd) Zelar pelos interesses da Fazenda Pública, no respeito pelos direitos e garantias dos contribuintes e dos operadores económicos;\n\ne) Exercer a função de representação da AT junto das organizações nacionais e internacionais na área tributária e aduaneira;\n\nf) Dirigir e controlar os serviços da AT e superintender na gestão dos respectivos recursos.\n\n2 - Os subdirectores-gerais da AT exercem as competências que lhe sejam delegadas ou subdelegadas pelo director-geral, devendo este identificar a quem compete substituí-lo nas suas faltas e impedimentos."
+  },
+  "107609647": {
+   "fragment_id": "107596764",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho de Administração da Autoridade Tributária e Aduaneira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Conselho de Administração da Autoridade Tributária e Aduaneira\n\n1 - O Conselho de Administração da Autoridade Tributária e Aduaneira, abreviadamente designado por CAAT, é constituído pelo director-geral, que preside, pelos subdirectores-gerais, pelo director do Centro de Estudos Fiscais e Aduaneiros, pelo director da Unidade dos Grandes Contribuintes e pelos directores de finanças de Lisboa e do Porto, e possui competências decisórias e consultivas.\n\n2 - O director-geral designa dois dos subdirectores-gerais para o coadjuvar no exercício de funções de coordenação do CAAT.\n\n3 - São competências decisórias do CAAT:\n\na) Aprovar os regulamentos internos da AT, incluindo o seu próprio regimento;\n\nb) Aprovar os projectos do quadro de avaliação e responsabilização, do plano e do relatório de actividades;\n\nc) Aprovar a proposta de orçamento;\n\nd) Aprovar o projecto de plano anual de formação profissional;\n\ne) Aprovar o projecto de balanço social;\n\nf) Aprovar a priorização dos projectos estratégicos nas áreas dos sistemas de informação e decisões na área tecnológica;\n\ng) Avaliar o progresso dos principais projectos de sistemas de informação e decisões na área tecnológica, aprovando acções correctivas em caso de desvio face aos objectivos estabelecidos;\n\nh) Aprovar a política de segurança da AT.\n\n4 - No âmbito das competências consultivas, cabe ao CAAT emitir parecer nas seguintes matérias:\n\na) Criação, modificação ou extinção de serviços e fixação dos respectivos níveis, quando for caso disso;\n\nb) Gestão do pessoal, nomeadamente quanto aos critérios de afectação, mobilidade e fixação dos postos de trabalho;\n\nc) Designação do pessoal de chefia tributária ou de chefia aduaneira;\n\nd) Alterações ao regime do pessoal;\n\ne) Identificação das necessidades de informação dos contribuintes e operadores económicos nas suas relações com a AT e tratamento do resultado da audição das suas sugestões relativamente aos serviços prestados pela AT;\n\nf) Metodologias e acções que permitam melhorar a relação com os contribuintes e operadores económicos e que possibilitem a racionalização e simplificação dos procedimentos administrativos.\n\n5 - Compete ainda ao CAAT acompanhar a execução do plano de actividades e do orçamento, bem como pronunciar-se sobre quaisquer assuntos, a pedido do membro do Governo responsável pela área das finanças ou do director-geral.\n\n6 - O CAAT constituirá um comité de utilizadores, a designar de entre os seus membros, para a análise e priorização de projectos nas áreas das tecnologias e dos sistemas de informação.\n\n7 - As regras de funcionamento do comité e eventuais subcomités de utilizadores constam do regulamento interno do CAAT.\n\n8 - As competências do CAAT são indelegáveis.\n\n9 - Após a entrada em vigor do presente diploma, as referências ao Conselho de Administração Fiscal (CAF) consideram-se como feitas ao CAAT."
+  },
+  "107609648": {
+   "fragment_id": "107596765",
+   "type": 11,
+   "heading": "Artigo 6.º — Tipo de organização interna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Tipo de organização interna\n\nA organização interna dos serviços da AT obedece ao seguinte modelo estrutural misto:\n\na) O modelo de estrutura hierarquizada em todas as áreas de actividade prosseguidas pela AT, sem prejuízo do disposto na alínea seguinte;\n\nb) O modelo de estrutura matricial nas áreas de actividade específicas das tecnologias e dos sistemas de informação."
+  },
+  "107609649": {
+   "fragment_id": "107596766",
+   "type": 11,
+   "heading": "Artigo 7.º — Princípios e instrumentos de gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Princípios e instrumentos de gestão\n\n1 - A AT rege-se pelos seguintes princípios:\n\na) O princípio da legalidade, que implica que a prossecução das suas atribuições deve pautar-se pela rigorosa observância das disposições legais e no respeito pelas garantias dos contribuintes;\n\nb) O princípio da flexibilidade organizativa, que visa optimizar permanentemente a adequação das unidades de trabalho aos objectivos a prosseguir em cada momento, através de normativos regulamentares e de decisões administrativas;\n\nc) O princípio da desburocratização, que visa racionalizar os procedimentos administrativos relativos ao cumprimento das obrigações tributárias, através, designadamente, da redução e simplificação dos suportes da informação a fornecer pelos contribuintes e da maior comodidade destes nos contactos com os serviços, quer pela difusão de unidades de atendimento e apoio, quer pela intensificação da utilização de meios electrónicos de comunicação;\n\nd) O princípio da desconcentração administrativa, que visa cometer, tendencialmente, aos serviços periféricos as tarefas operativas e aos serviços centrais as tarefas de concepção, planeamento, regulamentação, avaliação e controlo e, bem assim, as tarefas operativas que não possam ser desenvolvidas a outro nível sem diminuição de qualidade ou não o devam ser em razão de ganhos de eficiência significativos alcançados através de meios tecnológicos;\n\ne) O princípio da valorização dos recursos humanos, que visa aumentar a motivação e a participação activa dos trabalhadores, através, designadamente, da sua formação e qualificação permanente, de formas de organização do trabalho que lhes permitam pôr à prova a sua capacidade e criatividade, de mobilidade profissional e de adequados planos de carreira baseados no mérito;\n\nf) O princípio da coordenação interadministrativa, que visa a coordenação institucional da AT com outras entidades, bem como com as administrações tributárias e aduaneiras de outros Estados.\n\n2 - Para a concretização dos princípios enunciados no número anterior e sem prejuízo de outros instrumentos previstos na lei ou que venham a ser adoptados, a AT utiliza os seguintes instrumentos de gestão, avaliação e controlo:\n\na) Plano estratégico plurianual;\n\nb) Plano de actividades;\n\nc) Orçamento;\n\nd) Relatório de actividades;\n\ne) Plano de formação profissional;\n\nf) Balanço social."
+  },
+  "107609650": {
+   "fragment_id": "107596767",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - A AT dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A AT dispõe ainda das seguintes receitas próprias:\n\na) A participação constituída por uma percentagem das cobranças efectuadas pela AT a favor de outros organismos do Estado, da segurança social e da administração autónoma;\n\nb) O produto da venda de bens e serviços prestados a terceiros, incluindo a comissão de liquidação e cobrança de receitas de outras entidades;\n\nc) As importâncias provenientes do fornecimento de bens e serviços informáticos nas áreas das suas atribuições;\n\nd) O montante dos emolumentos e coimas cobradas nos respectivos serviços, das custas cobradas nos processos fiscais e aduaneiros, bem como de uma percentagem das receitas resultantes de acções de inspecção e de outras correcções nos valores declarados pelos contribuintes;\n\ne) O montante dos reembolsos dos salários e demais abonos dos membros das comissões de avaliações que sejam da iniciativa dos contribuintes;\n\nf) O produto da venda de impressos e publicações;\n\ng) O reembolso dos encargos com a publicidade realizada no âmbito da cobrança coerciva;\n\nh) O produto dos reembolsos das despesas com papel, fotocópias e correio, efectuadas no interesse dos contribuintes, bem como o produto do fornecimento de cadernetas prediais;\n\ni) O montante da taxa devida pela realização de segundas avaliações de prédios urbanos, quando suportadas pelos contribuintes, bem como da taxa prevista no n.º 3 do artigo 76.º do Código do IMI;\n\nj) O reembolso de despesas suportadas com a realização de primeiras e segundas avaliações de prédios rústicos e urbanos, não referidas no número anterior;\n\nl) O produto da percentagem definida na lei relativamente ao IMI cobrado nos anos em que se proceder à avaliação geral dos prédios urbanos ou rústicos;\n\nm) O montante da taxa devida pela prestação urgente de informações vinculativas;\n\nn) O produto da venda de bens não duradouros;\n\no) As receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As percentagens a que se refere o n.º 2 são definidas por despacho do membro do Governo responsável pela área das finanças.\n\n4 - As receitas a que se refere o n.º 2 são aplicadas na aquisição de bens de investimento, aquisição de serviços e na afectação a que se refere o artigo 51.º do Decreto-Lei n.º 557/99, de 17 de Dezembro, na redacção dada pelo artigo 1.º do Decreto-Lei n.º 212/2008, de 7 de Novembro.\n\n5 - O saldo das receitas próprias da AT transita para o ano seguinte."
+  },
+  "107609651": {
+   "fragment_id": "107596768",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas\n\nConstituem despesas da AT as que resultem de encargos decorrentes da prossecução das atribuições que lhe estão cometidas."
+  },
+  "107609652": {
+   "fragment_id": "107596769",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direcção\n\n1 - Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - Os cargos de director do Centro de Estudos Fiscais e Aduaneiros, de director da Unidade dos Grandes Contribuintes e dos directores de finanças de Lisboa e do Porto são cargos de direcção superior de 2.º grau.\n\n3 - Os cargos de director de serviços, director de finanças, director de finanças adjunto e director de alfândega são cargos de direcção intermédia de 1.º grau."
+  },
+  "107609653": {
+   "fragment_id": "107596770",
+   "type": 11,
+   "heading": "Artigo 11.º — Chefes de equipa multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Chefes de equipa multidisciplinares\n\nNos termos da lei, aos chefes de equipas multidisciplinares nas áreas das tecnologias e dos sistemas de informação é atribuído um estatuto remuneratório correspondente ao cargo de director de serviços ou de chefe de divisão, em função da natureza e complexidade de funções, não podendo o estatuto equiparado a director de serviços ser atribuído a mais de oito chefes de equipa."
+  },
+  "107609654": {
+   "fragment_id": "107596771",
+   "type": 11,
+   "heading": "Artigo 12.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sucessão\n\n1 - A AT sucede nas atribuições da Direcção-Geral dos Impostos (DGCI), da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA).\n\n2 - Após a entrada em vigor do presente diploma:\n\na) As referências feitas em quaisquer leis ou documentos à DGCI, à DGAIEC e à DGITA, consideram-se como feitas à AT;\n\nb) A AT sucede à DGCI, à DGAIEC e à DGITA, nomeadamente em tudo o que na lei vigente disser respeito a estas Direcções-Gerais, nos contratos vigentes e em todos os procedimentos e processos, designadamente, graciosos e judiciais, seja qual for a sua natureza, sem necessidade de observância de quaisquer outras formalidades."
+  },
+  "107609655": {
+   "fragment_id": "107596772",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal da AT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pessoal da AT\n\n1 - Nos termos legalmente previstos, são fixados como critérios gerais e abstractos de selecção de pessoal necessário à prossecução das atribuições da AT o desempenho de funções na DGCI, na DGAIEC e na DGITA.\n\n2 - O pessoal mencionado no número anterior é reafecto à AT nos termos da lei, sem alteração do respectivo regime de pessoal, carreiras e estatuto remuneratório, incluindo os respectivos suplementos.\n\n3 - O pessoal da AT admitido em data posterior a 1 de Janeiro de 2012 tem direito a receber o suplemento devido ao pessoal reafecto à AT que desempenhava funções na DGCI, nos termos da lei aplicável."
+  },
+  "107609656": {
+   "fragment_id": "107596773",
+   "type": 11,
+   "heading": "Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados\n\n1 - A estrutura e competência territorial dos serviços desconcentrados da AT são definidas por portaria do membro do Governo responsável pela área das finanças.\n\n2 - Até à redefinição e efectiva produção de efeitos da estrutura dos serviços desconcentrados a que se refere o número anterior, mantém-se a dotação de 21 lugares de directores de finanças e a dotação de 20 lugares de directores de finanças adjuntos."
+  },
+  "107609657": {
+   "fragment_id": "107596774",
+   "type": 11,
+   "heading": "Artigo 15.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Efeitos revogatórios\n\n1 - Na data da entrada em vigor do presente diploma, consideram-se revogados os Decretos-Leis n.os 81/2007, e 82/2007, ambos de 29 de Março, e o Decreto Regulamentar n.º 24/2007, de 29 de Março.\n\n2 - Mantém-se em vigor o disposto no n.º 5 do artigo 6.º do Decreto-Lei n.º 366/99, de 18 de Setembro, na redacção dada pelo Decreto-Lei n.º 262/2002, de 25 de Novembro, e os n.º 1 e o n.º 2 do artigo 23.º do Decreto-Lei n.º 366/99, de 18 de Setembro, na redacção dada pelo Decreto-Lei n.º 237/2004, de 18 de Dezembro.\n\n3 - Mantém-se em vigor o disposto na alínea a) do artigo 12.º do Decreto-Lei n.º 82/2007, de 29 de Março, e no artigo 29.º do anexo III à Portaria n.º 1067/2004, de 26 de Agosto."
+  },
+  "107609658": {
+   "fragment_id": "107614075",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2012."
+  },
+  "107609660": {
+   "fragment_id": "107614077",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 10.º)\n\n(ver documento original)"
+  },
+  "107614278": {
+   "fragment_id": "107596767",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": "2012-07-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2012 - Diário da República n.º 133/2012, Série I de 2012-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2012-179786), em vigor a partir de 2012-07-12, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - A AT dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A AT dispõe ainda das seguintes receitas próprias:\n\na) A participação constituída por uma percentagem das cobranças efectuadas pela AT a favor de outros organismos do Estado, da segurança social e da administração autónoma;\n\nb) O produto da venda de bens e serviços prestados a terceiros, incluindo a comissão de liquidação e cobrança de receitas de outras entidades;\n\nc) As importâncias provenientes do fornecimento de bens e serviços informáticos nas áreas das suas atribuições;\n\nd) O montante dos emolumentos e coimas cobradas nos respectivos serviços, das custas cobradas nos processos fiscais e aduaneiros, bem como de uma percentagem das receitas resultantes de acções de inspecção e de outras correcções nos valores declarados pelos contribuintes;\n\ne) O montante dos reembolsos dos salários e demais abonos dos membros das comissões de avaliações que sejam da iniciativa dos contribuintes;\n\nf) O produto da venda de impressos e publicações;\n\ng) O reembolso dos encargos com a publicidade realizada no âmbito da cobrança coerciva;\n\nh) O produto dos reembolsos das despesas com papel, fotocópias e correio, efectuadas no interesse dos contribuintes, bem como o produto do fornecimento de cadernetas prediais;\n\ni) O montante da taxa devida pela realização de segundas avaliações de prédios urbanos, quando suportadas pelos contribuintes, bem como da taxa prevista no n.º 3 do artigo 76.º do Código do IMI;\n\nj) O reembolso de despesas suportadas com a realização de primeiras e segundas avaliações de prédios rústicos e urbanos, não referidas no número anterior;\n\nl) O produto da percentagem definida na lei relativamente ao IMI cobrado nos anos em que se proceder à avaliação geral dos prédios urbanos ou rústicos;\n\nm) O montante da taxa devida pela prestação urgente de informações vinculativas;\n\nn) O produto da venda de bens não duradouros;\n\no) As receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As percentagens a que se refere o n.º 2 são definidas por despacho do membro do Governo responsável pela área das finanças.\n\n4 - As receitas a que se refere o n.º 2 são aplicadas na aquisição de bens de investimento, na aquisição de serviços, na afetação a que se refere o artigo 51.º do Decreto-Lei n.º 557/99, de 17 de dezembro, alterado pelo Decreto-Lei n.º 212/2008, de 7 de novembro, na afetação a que se refere o artigo 4.º do Decreto-Lei n.º 274/90, de 7 de setembro, e, ainda, em outras despesas de funcionamento.\n\n5 - As receitas provenientes de coimas cobradas em processos de contraordenação fiscal ou aduaneira podem ser atribuídas a entidades que legalmente tenham competência instrutória neste tipo de processos, nos termos de despacho do membro do Governo responsável pela área das finanças ou de protocolo celebrado entre a AT e essas entidades.\n\n6 - O saldo das receitas próprias da AT não utilizadas durante a execução do orçamento do ano a que respeitam pode transitar para o ano seguinte nos termos da legislação em vigor.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2012 - Diário da República n.º 133/2012, Série I de 2012-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2012-179786), em vigor a partir de 2012-07-12, produz efeitos a partir de 2012-01-01"
+  },
+  "107609659": {
+   "fragment_id": "107614076",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.\n\nPromulgado em 13 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "107614279": {
+   "fragment_id": "107596773",
+   "type": 11,
+   "heading": "Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados",
+   "in_force_from": "2013-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-22, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados\n\n1 - A estrutura e competência territorial ou específica dos serviços desconcentrados da AT são definidas por portaria do membro do Governo responsável pela área das finanças.\n\n2 - Até à redefinição e efectiva produção de efeitos da estrutura dos serviços desconcentrados a que se refere o número anterior, mantém-se a dotação de 21 lugares de directores de finanças e a dotação de 20 lugares de directores de finanças adjuntos.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-22, produz efeitos a partir de 2012-01-01"
+  },
+  "107614280": {
+   "fragment_id": "107614099",
+   "type": 11,
+   "heading": "Artigo 9.º-A — Despesas com a atividade inspetiva",
+   "in_force_from": "2014-04-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2014 - Diário da República n.º 65/2014, Série I de 2014-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2014-25344752), em vigor a partir de 2014-04-03, produz efeitos a partir de 2014-01-01"
+   ],
+   "markdown": "###### Artigo 9.º-A — Despesas com a atividade inspetiva\n\n1 - A AT pode, no âmbito da sua ação inspetiva e nos termos do presente artigo, realizar despesas sem identificação do adquirente, nos casos em que o conhecimento do circunstancialismo da realização da despesa possa comprometer a eficácia e a segurança das atividades de inspeção tributária.\n\n2 - As regras de realização das despesas previstas no presente artigo são fixadas por despacho do membro do Governo responsável pela área das finanças.\n\n> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 51/2014 - Diário da República n.º 65/2014, Série I de 2014-04-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/51-2014-25344752), em vigor a partir de 2014-04-03, produz efeitos a partir de 2014-01-01"
+  },
+  "107614281": {
+   "fragment_id": "107596769",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direcção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direcção\n\n1 - Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - Os cargos de director do Centro de Estudos Fiscais e Aduaneiros, de director da Unidade dos Grandes Contribuintes e dos directores de finanças de Lisboa e do Porto são cargos de direcção superior de 2.º grau.\n\n3 - Os cargos de director de serviços, director de finanças, director de finanças adjunto e director de alfândega são cargos de direcção intermédia de 1.º grau."
+  },
+  "107614282": {
+   "fragment_id": "107596770",
+   "type": 11,
+   "heading": "Artigo 11.º — Chefes de equipa multidisciplinares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Chefes de equipa multidisciplinares\n\nNos termos da lei, aos chefes de equipas multidisciplinares nas áreas das tecnologias e dos sistemas de informação é atribuído um estatuto remuneratório correspondente ao cargo de director de serviços ou de chefe de divisão, em função da natureza e complexidade de funções, não podendo o estatuto equiparado a director de serviços ser atribuído a mais de oito chefes de equipa."
+  },
+  "107614283": {
+   "fragment_id": "107596771",
+   "type": 11,
+   "heading": "Artigo 12.º — Sucessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sucessão\n\n1 - A AT sucede nas atribuições da Direcção-Geral dos Impostos (DGCI), da Direcção-Geral das Alfândegas e dos Impostos Especiais sobre o Consumo (DGAIEC) e da Direcção-Geral de Informática e Apoio aos Serviços Tributários e Aduaneiros (DGITA).\n\n2 - Após a entrada em vigor do presente diploma:\n\na) As referências feitas em quaisquer leis ou documentos à DGCI, à DGAIEC e à DGITA, consideram-se como feitas à AT;\n\nb) A AT sucede à DGCI, à DGAIEC e à DGITA, nomeadamente em tudo o que na lei vigente disser respeito a estas Direcções-Gerais, nos contratos vigentes e em todos os procedimentos e processos, designadamente, graciosos e judiciais, seja qual for a sua natureza, sem necessidade de observância de quaisquer outras formalidades."
+  },
+  "107614284": {
+   "fragment_id": "107596772",
+   "type": 11,
+   "heading": "Artigo 13.º — Pessoal da AT",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Pessoal da AT\n\n1 - Nos termos legalmente previstos, são fixados como critérios gerais e abstractos de selecção de pessoal necessário à prossecução das atribuições da AT o desempenho de funções na DGCI, na DGAIEC e na DGITA.\n\n2 - O pessoal mencionado no número anterior é reafecto à AT nos termos da lei, sem alteração do respectivo regime de pessoal, carreiras e estatuto remuneratório, incluindo os respectivos suplementos.\n\n3 - O pessoal da AT admitido em data posterior a 1 de Janeiro de 2012 tem direito a receber o suplemento devido ao pessoal reafecto à AT que desempenhava funções na DGCI, nos termos da lei aplicável."
+  },
+  "107614285": {
+   "fragment_id": "107596773",
+   "type": 11,
+   "heading": "Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-22, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados\n\n1 - A estrutura e competência territorial ou específica dos serviços desconcentrados da AT são definidas por portaria do membro do Governo responsável pela área das finanças.\n\n2 - Até à redefinição e efectiva produção de efeitos da estrutura dos serviços desconcentrados a que se refere o número anterior, mantém-se a dotação de 21 lugares de directores de finanças e a dotação de 20 lugares de directores de finanças adjuntos.\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-22, produz efeitos a partir de 2012-01-01"
+  },
+  "107614286": {
+   "fragment_id": "107596774",
+   "type": 11,
+   "heading": "Artigo 15.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Efeitos revogatórios\n\n1 - Na data da entrada em vigor do presente diploma, consideram-se revogados os Decretos-Leis n.os 81/2007, e 82/2007, ambos de 29 de Março, e o Decreto Regulamentar n.º 24/2007, de 29 de Março.\n\n2 - Mantém-se em vigor o disposto no n.º 5 do artigo 6.º do Decreto-Lei n.º 366/99, de 18 de Setembro, na redacção dada pelo Decreto-Lei n.º 262/2002, de 25 de Novembro, e os n.º 1 e o n.º 2 do artigo 23.º do Decreto-Lei n.º 366/99, de 18 de Setembro, na redacção dada pelo Decreto-Lei n.º 237/2004, de 18 de Dezembro.\n\n3 - Mantém-se em vigor o disposto na alínea a) do artigo 12.º do Decreto-Lei n.º 82/2007, de 29 de Março, e no artigo 29.º do anexo III à Portaria n.º 1067/2004, de 26 de Agosto."
+  },
+  "107614287": {
+   "fragment_id": "107614075",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2012."
+  },
+  "107614288": {
+   "fragment_id": "107614076",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.\n\nPromulgado em 13 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "107614289": {
+   "fragment_id": "107614077",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 10.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 10.º)\n\n(ver documento original)"
+  },
+  "107614290": {
+   "fragment_id": "107596769",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direcção",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 230.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direcção\n\n1 - Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - Os cargos de director do Centro de Estudos Fiscais e Aduaneiros, de director da Unidade dos Grandes Contribuintes e dos directores de finanças de Lisboa e do Porto são cargos de direcção superior de 2.º grau.\n\n3 - Os cargos de diretor de serviços, diretor adjunto da Unidade de Grandes Contribuintes, diretor de finanças, diretor de finanças adjunto e diretor de alfândega são cargos de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 230.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "107614291": {
+   "fragment_id": "107596770",
+   "type": 11,
+   "heading": "Artigo 11.º — Chefes de equipa multidisciplinares",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 230.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 11.º — Chefes de equipa multidisciplinares\n\nNos termos da lei, aos chefes de equipas multidisciplinares nas áreas das tecnologias e dos sistemas de informação é atribuído um estatuto remuneratório correspondente ao cargo de diretor de serviços ou de chefe de divisão, em função da natureza e complexidade de funções, não podendo o estatuto equiparado a diretor de serviços ser atribuído a mais de nove chefes de equipa.\n\n> Alterado pelo/a Artigo 230.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "107614292": {
+   "fragment_id": "107614077",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 10.º)",
+   "in_force_from": "2015-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 10.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "107614293": {
+   "fragment_id": "107614077",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 10.º)",
+   "in_force_from": "2017-07-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2017-107596683), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 10.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2017-107596683), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "108042215": {
+   "fragment_id": "107596761",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2017-11-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 17.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A AT tem por missão administrar os impostos, direitos aduaneiros e demais tributos que lhe sejam atribuídos, bem como exercer o controlo da fronteira externa da União Europeia e do território aduaneiro nacional, para fins fiscais, económicos e de protecção da sociedade, de acordo com as políticas definidas pelo Governo e o Direito da União Europeia.\n\n2 - A AT prossegue as seguintes atribuições:\n\na) Assegurar a liquidação e cobrança dos impostos sobre o rendimento, sobre o património e sobre o consumo, dos direitos aduaneiros e demais tributos que lhe incumbe administrar, bem como arrecadar e cobrar outras receitas do Estado ou de pessoas colectivas de direito público;\n\nb) Exercer a acção de inspecção tributária e aduaneira, garantir a aplicação das normas a que se encontram sujeitas as mercadorias introduzidas no território da União Europeia e efectuar os controlos relativos à entrada, saída e circulação das mercadorias no território nacional, prevenindo, investigando e combatendo a fraude e evasão fiscais e aduaneiras e os tráficos ilícitos, no âmbito das suas atribuições;\n\nc) Exercer a acção de justiça tributária e assegurar a representação da Fazenda Pública junto dos órgãos judiciais;\n\nd) Assegurar a negociação técnica e executar os acordos e convenções internacionais em matéria tributária e aduaneira, cooperar com organismos europeus e internacionais e outras administrações tributárias e aduaneiras, e participar nos trabalhos de organismos europeus e internacionais especializados no seu domínio de actividade;\n\ne) Promover a correcta aplicação da legislação e das decisões administrativas relacionadas com as suas atribuições e propor as medidas de carácter normativo, técnico e organizacional que se revelem adequadas;\n\nf) Desenvolver e gerir as infra-estruturas, equipamentos e tecnologias de informação necessários à prossecução das suas atribuições e à prestação de apoio, esclarecimento e serviços de qualidade aos contribuintes;\n\ng) Realizar e promover a investigação técnica e científica no domínio tributário e aduaneiro, tendo em vista o aperfeiçoamento das medidas legais e administrativas, a qualificação permanente dos recursos humanos, bem como o necessário apoio ao Governo na definição da política fiscal e aduaneira;\n\nh) Informar os contribuintes e os operadores económicos sobre as respectivas obrigações fiscais e aduaneiras e apoiá-los no cumprimento das mesmas;\n\ni) Assegurar o licenciamento do comércio externo dos produtos tipificados em legislação especial e gerir os regimes restritivos do respectivo comércio externo.\n\nj) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.\n\n> Alterado pelo/a Artigo 17.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  },
+  "158479426": {
+   "fragment_id": "107596767",
+   "type": 11,
+   "heading": "Artigo 8.º — Receitas",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 11.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2022-01-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2012 - Diário da República n.º 133/2012, Série I de 2012-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2012-179786), em vigor a partir de 2012-07-12, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Receitas\n\n1 - A AT dispõe das receitas provenientes de dotações que lhe forem atribuídas no Orçamento do Estado.\n\n2 - A AT dispõe ainda das seguintes receitas próprias:\n\na) A participação constituída por uma percentagem das cobranças efectuadas pela AT a favor de outros organismos do Estado, da segurança social e da administração autónoma;\n\nb) O produto da venda de bens e serviços prestados a terceiros, incluindo a comissão de liquidação e cobrança de receitas de outras entidades;\n\nc) As importâncias provenientes do fornecimento de bens e serviços informáticos nas áreas das suas atribuições;\n\nd) O montante dos emolumentos e coimas cobradas nos respetivos serviços, exceto na parte em que sejam afetas a outras entidades, das custas cobradas nos processos fiscais e aduaneiros, bem como de uma percentagem das receitas resultantes de ações de inspeção e de outras correções nos valores declarados pelos contribuintes;\n\ne) O montante dos reembolsos dos salários e demais abonos dos membros das comissões de avaliações que sejam da iniciativa dos contribuintes;\n\nf) O produto da venda de impressos e publicações;\n\ng) O reembolso dos encargos com a publicidade realizada no âmbito da cobrança coerciva;\n\nh) O produto dos reembolsos das despesas com papel, fotocópias e correio, efectuadas no interesse dos contribuintes, bem como o produto do fornecimento de cadernetas prediais;\n\ni) O montante da taxa devida pela realização de segundas avaliações de prédios urbanos, quando suportadas pelos contribuintes, bem como da taxa prevista no n.º 3 do artigo 76.º do Código do IMI;\n\nj) O reembolso de despesas suportadas com a realização de primeiras e segundas avaliações de prédios rústicos e urbanos, não referidas no número anterior;\n\nl) O produto da percentagem definida na lei relativamente ao IMI cobrado nos anos em que se proceder à avaliação geral dos prédios urbanos ou rústicos;\n\nm) O montante da taxa devida pela prestação urgente de informações vinculativas;\n\nn) O produto da venda de bens não duradouros;\n\no) As receitas que por lei, contrato ou outro título lhe sejam atribuídas.\n\n3 - As percentagens a que se refere o n.º 2 são definidas por despacho do membro do Governo responsável pela área das finanças.\n\n4 - As receitas a que se refere o n.º 2 são aplicadas na aquisição de bens de investimento, na aquisição de serviços, na afetação a que se refere o artigo 51.º do Decreto-Lei n.º 557/99, de 17 de dezembro, alterado pelo Decreto-Lei n.º 212/2008, de 7 de novembro, na afetação a que se refere o artigo 4.º do Decreto-Lei n.º 274/90, de 7 de setembro, e, ainda, em outras despesas de funcionamento.\n\n5 - As receitas provenientes de coimas cobradas em processos de contraordenação fiscal ou aduaneira podem ser atribuídas a entidades que legalmente tenham competência instrutória neste tipo de processos, nos termos de despacho do membro do Governo responsável pela área das finanças ou de protocolo celebrado entre a AT e essas entidades.\n\n6 - O saldo das receitas próprias da AT não utilizadas durante a execução do orçamento do ano a que respeitam pode transitar para o ano seguinte nos termos da legislação em vigor.\n\n7 - Sem prejuízo do disposto no n.º 5, a importância das coimas cobradas nos processos de contraordenação cujo auto é levantado pela Guarda Nacional Republicana (GNR) é dividida e distribuída nos seguintes termos:\n\na) 50 % para a Autoridade Tributária e Aduaneira;\n\nb) 50 % para a Unidade de Ação Fiscal da Guarda Nacional Republicana, sendo a percentagem da parte a distribuir pelo autuante, a calcular sobre a parte da Unidade de Ação Fiscal, fixada por despacho do membro do Governo responsável pela área da administração interna, competindo à GNR a sua distribuição aos autuantes.»\n\n> Alterado pelo/a Artigo 11.º do/a [Lei n.º 7/2021 - Diário da República n.º 40/2021, Série I de 2021-02-26](https://diariodarepublica.pt/dr/detalhe/lei/7-2021-158368130), em vigor a partir de 2022-01-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 142/2012 - Diário da República n.º 133/2012, Série I de 2012-07-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/142-2012-179786), em vigor a partir de 2012-07-12, produz efeitos a partir de 2012-01-01"
+  },
+  "840062488": {
+   "fragment_id": "107596761",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão e atribuições",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 17.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+   ],
+   "markdown": "###### Artigo 2.º — Missão e atribuições\n\n1 - A AT tem por missão administrar os impostos, direitos aduaneiros e demais tributos que lhe sejam atribuídos, bem como exercer o controlo da fronteira externa da União Europeia e do território aduaneiro nacional, para fins fiscais, económicos e de protecção da sociedade, de acordo com as políticas definidas pelo Governo e o Direito da União Europeia.\n\n2 - A AT prossegue as seguintes atribuições:\n\na) Assegurar a liquidação e cobrança dos impostos sobre o rendimento, sobre o património e sobre o consumo, dos direitos aduaneiros e demais tributos que lhe incumbe administrar, bem como arrecadar e cobrar outras receitas do Estado ou de pessoas colectivas de direito público;\n\nb) Exercer a acção de inspecção tributária e aduaneira, garantir a aplicação das normas a que se encontram sujeitas as mercadorias introduzidas no território da União Europeia e efectuar os controlos relativos à entrada, saída e circulação das mercadorias no território nacional, prevenindo, investigando e combatendo a fraude e evasão fiscais e aduaneiras e os tráficos ilícitos, no âmbito das suas atribuições;\n\nc) Exercer a acção de justiça tributária e assegurar a representação da Fazenda Pública junto dos órgãos judiciais;\n\nd) Assegurar a negociação técnica e executar os acordos e convenções internacionais em matéria tributária e aduaneira, cooperar com organismos europeus e internacionais e outras administrações tributárias e aduaneiras, e participar nos trabalhos de organismos europeus e internacionais especializados no seu domínio de actividade;\n\ne) Promover a correcta aplicação da legislação e das decisões administrativas relacionadas com as suas atribuições e propor as medidas de carácter normativo, técnico e organizacional que se revelem adequadas;\n\nf) Desenvolver e gerir as infra-estruturas, equipamentos e tecnologias de informação necessários à prossecução das suas atribuições e à prestação de apoio, esclarecimento e serviços de qualidade aos contribuintes;\n\ng) Realizar e promover a investigação técnica e científica no domínio tributário e aduaneiro, tendo em vista o aperfeiçoamento das medidas legais e administrativas, a qualificação permanente dos recursos humanos, bem como o necessário apoio ao Governo na definição da política fiscal e aduaneira;\n\nh) Informar os contribuintes e os operadores económicos sobre as respectivas obrigações fiscais e aduaneiras e apoiá-los no cumprimento das mesmas;\n\ni) Assegurar o licenciamento do comércio externo dos produtos tipificados em legislação especial e gerir os regimes restritivos do respectivo comércio externo.\n\nj) Colaborar com as autoridades competentes na definição e na execução das políticas de prevenção e combate ao branqueamento de capitais e ao financiamento do terrorismo, bem como assegurar a disponibilização de informação sobre a identificação das pessoas singulares que detêm a propriedade e o controlo de pessoas coletivas e de centros de interesses coletivos sem personalidade jurídica, nos termos previstos na lei.\n\nk) Acompanhar a evolução e participar na elaboração de estimativas e previsões da receita fiscal;\n\nl) Preparar o relatório previsto no n.º 1 do artigo 15.º-A do Estatuto dos Benefícios Fiscais, aprovado pelo Decreto-Lei n.º 215/89, de 1 de julho, na sua redação atual, e avaliar os benefícios fiscais, designadamente nos domínios orçamental, social e económico;\n\nm) Emitir pareceres e realizar estudos, por iniciativa própria ou mediante solicitação do membro do Governo responsável pela área das finanças, no âmbito das suas funções, para definição e estruturação das políticas públicas em matérias tributária e aduaneira;\n\nn) Realizar, promover e difundir a investigação técnica e científica no domínio tributário e aduaneiro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 17.º do/a [Lei n.º 89/2017 - Diário da República n.º 160/2017, Série I de 2017-08-21](https://diariodarepublica.pt/dr/detalhe/lei/89-2017-108028571), em vigor a partir de 2017-11-19"
+  },
+  "840062489": {
+   "fragment_id": "107596764",
+   "type": 11,
+   "heading": "Artigo 5.º — Conselho de Administração da Autoridade Tributária e Aduaneira",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 5.º — Conselho de Administração da Autoridade Tributária e Aduaneira\n\n1 - O conselho de administração da Autoridade Tributária e Aduaneira, abreviadamente designado por CAAT, é constituído pelo diretor-geral, que preside, pelos subdiretores-gerais, pelo diretor do Centro de Estudos Fiscais e Aduaneiros, pelo diretor da Unidade dos Grandes Contribuintes, pelo diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras e pelos diretores de finanças de Lisboa e do Porto, e possui competências decisórias e consultivas.\n\n2 - O director-geral designa dois dos subdirectores-gerais para o coadjuvar no exercício de funções de coordenação do CAAT.\n\n3 - São competências decisórias do CAAT:\n\na) Aprovar os regulamentos internos da AT, incluindo o seu próprio regimento;\n\nb) Aprovar os projectos do quadro de avaliação e responsabilização, do plano e do relatório de actividades;\n\nc) Aprovar a proposta de orçamento;\n\nd) Aprovar o projecto de plano anual de formação profissional;\n\ne) Aprovar o projecto de balanço social;\n\nf) Aprovar a priorização dos projectos estratégicos nas áreas dos sistemas de informação e decisões na área tecnológica;\n\ng) Avaliar o progresso dos principais projectos de sistemas de informação e decisões na área tecnológica, aprovando acções correctivas em caso de desvio face aos objectivos estabelecidos;\n\nh) Aprovar a política de segurança da AT.\n\n4 - No âmbito das competências consultivas, cabe ao CAAT emitir parecer nas seguintes matérias:\n\na) Criação, modificação ou extinção de serviços e fixação dos respectivos níveis, quando for caso disso;\n\nb) Gestão do pessoal, nomeadamente quanto aos critérios de afectação, mobilidade e fixação dos postos de trabalho;\n\nc) Designação do pessoal de chefia tributária ou de chefia aduaneira;\n\nd) Alterações ao regime do pessoal;\n\ne) Identificação das necessidades de informação dos contribuintes e operadores económicos nas suas relações com a AT e tratamento do resultado da audição das suas sugestões relativamente aos serviços prestados pela AT;\n\nf) Metodologias e acções que permitam melhorar a relação com os contribuintes e operadores económicos e que possibilitem a racionalização e simplificação dos procedimentos administrativos.\n\n5 - Compete ainda ao CAAT acompanhar a execução do plano de actividades e do orçamento, bem como pronunciar-se sobre quaisquer assuntos, a pedido do membro do Governo responsável pela área das finanças ou do director-geral.\n\n6 - O CAAT constituirá um comité de utilizadores, a designar de entre os seus membros, para a análise e priorização de projectos nas áreas das tecnologias e dos sistemas de informação.\n\n7 - As regras de funcionamento do comité e eventuais subcomités de utilizadores constam do regulamento interno do CAAT.\n\n8 - As competências do CAAT são indelegáveis.\n\n9 - Após a entrada em vigor do presente diploma, as referências ao Conselho de Administração Fiscal (CAF) consideram-se como feitas ao CAAT.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+  },
+  "840062490": {
+   "fragment_id": "107596769",
+   "type": 11,
+   "heading": "Artigo 10.º — Mapa de cargos de direcção",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 230.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "###### Artigo 10.º — Mapa de cargos de direcção\n\n1 - Os lugares de direcção superior de 1.º e 2.º graus e de direcção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.\n\n2 - Os cargos de diretor do Centro de Estudos Fiscais e Aduaneiros, de diretor da Unidade dos Grandes Contribuintes, de diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras e dos diretores de finanças de Lisboa e do Porto são cargos de direção superior de 2.º grau.\n\n3 - Os cargos de diretor de serviços, diretor-adjunto da Unidade de Grandes Contribuintes, diretor-adjunto da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras, diretor de finanças e diretor de alfândega são cargos de direção intermédia de 1.º grau.\n\n4 - Os cargos de diretor de finanças adjunto e de diretor de alfândega adjunto são cargos de direção intermédia de 1.º ou de 2.º grau, a designar por despacho do diretor-geral da AT, sujeitos respetivamente aos limites constantes do mapa previsto no n.º 1 ou da portaria prevista no artigo 14.º\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 230.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "840062493": {
+   "fragment_id": "840060235",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 13.º-A — Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras\n\n1 - A Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras, abreviadamente designada por U-TAX, assegura a avaliação das políticas tributárias e aduaneiras e, em especial, a avaliação dos benefícios fiscais no âmbito do sistema fiscal português, contribuindo para a transparência da avaliação da despesa fiscal.\n\n2 - À U-TAX, no âmbito das suas atribuições, compete:\n\na) Acompanhar e avaliar sistematicamente os benefícios fiscais novos e existentes, no quadro da avaliação de impacto das políticas tributárias e aduaneiras;\n\nb) Preparar, em articulação com outras unidades orgânicas da AT, o relatório previsto no n.º 1 do artigo 15.º-A do Estatuto dos Benefícios Fiscais;\n\nc) Contribuir para a preparação de atos jurídicos no domínio da fiscalidade, com base na avaliação efetuada, em colaboração com outras entidades relevantes, como o CEF;\n\nd) Realizar estudos de análise económica no domínio da fiscalidade e de avaliação do impacto orçamental de medidas de natureza fiscal;\n\ne) Assegurar, em articulação com outras unidades orgânicas da AT, a elaboração de estimativas e previsões da receita fiscal, bem como o acompanhamento da evolução das receitas cobradas pela AT;\n\nf) Exercer as demais competências que lhe sejam acometidas por portaria do membro do Governo responsável pela área das finanças, nos termos dos n.os 4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual.\n\n3 - No exercício das competências previstas no número anterior, a U-TAX colabora com outras entidades públicas e privadas relevantes, como instituições académicas e de investigação.\n\n4 - A U-TAX goza de autonomia técnica e profissional na respetiva elaboração de estudos e pareceres, atuando nesse âmbito na dependência funcional do membro do Governo responsável pela área das finanças.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+  },
+  "840062499": {
+   "fragment_id": "840060236",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Consultores especializados",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 13.º-B — Consultores especializados\n\n1 - No quadro das funções de estudo e avaliação das políticas tributárias e aduaneiras na U-TAX, podem ser designados e exonerados por despacho do membro do Governo responsável pela área das finanças, sob proposta do respetivo diretor, em regime de comissão de serviço, pelo período máximo de três anos, renovável por iguais períodos, até cinco consultores de primeiro nível, até cinco consultores de segundo nível e até dois consultores de terceiro nível, vinculados ou não à Administração Pública.\n\n2 - Os consultores exercem funções em regime de isenção de horário de trabalho e são remunerados pelos níveis 57, 45 e 27 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante, respetivamente, se trate de consultores de primeiro, segundo e terceiro níveis.\n\n3 - Os consultores devem formar um conjunto multidisciplinar formado por licenciados que possuam conhecimentos técnicos, aptidão, experiência profissional e formação adequados ao exercício das competências da U-TAX.\n\n4 - O despacho de designação dos consultores é publicado no Diário da República, juntamente com uma nota relativa ao currículo académico e profissional do designado.\n\n5 - Aos consultores são aplicáveis os regimes legais em matéria de impedimentos, de incompatibilidades, de exclusividade e de suplementos previstos para os funcionários da AT.\n\n6 - Após o termo das suas funções, os consultores ficam impedidos, pelo período de três anos, de desempenhar, direta ou indiretamente, qualquer função ou serviço a entidades privadas de ajuda, assistência ou aconselhamento na conceção, comercialização, organização ou disponibilização de vantagem fiscal através de mecanismos abrangidos pela Lei n.º 26/2020, de 21 de julho.\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+  },
+  "840062500": {
+   "fragment_id": "107596773",
+   "type": 11,
+   "heading": "Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-22, produz efeitos a partir de 2012-01-01"
+   ],
+   "markdown": "###### Artigo 14.º — Estrutura e competência territorial dos serviços desconcentrados\n\n1 - A estrutura e competência territorial ou específica dos serviços desconcentrados da AT são definidas por portaria do membro do Governo responsável pela área das finanças.\n\n2 - Até à redefinição e efetiva produção de efeitos da estrutura dos serviços desconcentrados a nível nacional a que se refere o número anterior, mantém-se a dotação máxima de 92 cargos de direção intermédia de 1.º grau.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 7.º do/a [Decreto-Lei n.º 6/2013 - Diário da República n.º 12/2013, Série I de 2013-01-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/6-2013-256471), em vigor a partir de 2013-01-22, produz efeitos a partir de 2012-01-01"
+  },
+  "840062501": {
+   "fragment_id": "107596774",
+   "type": 11,
+   "heading": "Artigo 15.º — Efeitos revogatórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Efeitos revogatórios\n\n1 - Na data da entrada em vigor do presente diploma, consideram-se revogados os Decretos-Leis n.os 81/2007, e 82/2007, ambos de 29 de Março, e o Decreto Regulamentar n.º 24/2007, de 29 de Março.\n\n2 - Mantém-se em vigor o disposto no n.º 5 do artigo 6.º do Decreto-Lei n.º 366/99, de 18 de Setembro, na redacção dada pelo Decreto-Lei n.º 262/2002, de 25 de Novembro, e os n.º 1 e o n.º 2 do artigo 23.º do Decreto-Lei n.º 366/99, de 18 de Setembro, na redacção dada pelo Decreto-Lei n.º 237/2004, de 18 de Dezembro.\n\n3 - Mantém-se em vigor o disposto na alínea a) do artigo 12.º do Decreto-Lei n.º 82/2007, de 29 de Março, e no artigo 29.º do anexo III à Portaria n.º 1067/2004, de 26 de Agosto."
+  },
+  "840062502": {
+   "fragment_id": "107614075",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia 1 de Janeiro de 2012."
+  },
+  "840062503": {
+   "fragment_id": "107614076",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de Novembro de 2011. - Pedro Passos Coelho - Vítor Louçã Rabaça Gaspar.\n\nPromulgado em 13 de Dezembro de 2011.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 14 de Dezembro de 2011.\n\nO Primeiro-Ministro, Pedro Passos Coelho."
+  },
+  "840062505": {
+   "fragment_id": "107614077",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 10.º)",
+   "in_force_from": "2024-02-03",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2017-107596683), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 10.º)\n\n(mapa a que se refere o artigo 10.º)\n\n| Qualificação | Grau | Designação do cargo | Número<br>de lugares |  |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n| Direção superior... | 1.º | Diretor-geral... | 1 |  |\n|  | 2.º | Subdiretor-geral... | 12 |  |\n|  | 2.º | Diretor do Centro de Estudos Fiscais e Aduaneiros... | 1 |  |\n|  | 2.º | Diretor da Unidade de Grandes Contribuintes... | 1 |  |\n|  | 2.º | Diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras. | 1 |  |\n|  | 2.º | Diretor de Finanças de Lisboa... | 1 |  |\n|  | 2.º | Diretor de Finanças do Porto... | 1 |  |\n| Direção intermédia... | 1.º | Diretor de serviços/diretor de finanças/diretor de alfândega/diretor-adjunto da Unidade de Grandes Contribuintes/diretor-adjunto da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras/diretor de finanças adjunto/diretor de alfândega adjunto. | 81 |  |\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2017-107596683), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  },
+  "868172428": {
+   "fragment_id": "840060235",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras",
+   "in_force_from": "2024-06-08",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2024 - Diário da República n.º 110/2024, Série I de 2024-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2024-868245178), em vigor a partir de 2024-06-08",
+    "Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+   ],
+   "markdown": "###### Artigo 13.º-A — Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras\n\n1 - A Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras, abreviadamente designada por U-TAX, assegura a avaliação das políticas tributárias e aduaneiras e, em especial, a avaliação dos benefícios fiscais no âmbito do sistema fiscal português, contribuindo para a transparência da avaliação da despesa fiscal.\n\n2 - À U-TAX, no âmbito das suas atribuições, compete:\n\na) Acompanhar e avaliar sistematicamente os benefícios fiscais novos e existentes, no quadro da avaliação de impacto das políticas tributárias e aduaneiras;\n\nb) Preparar, em articulação com outras unidades orgânicas da AT, o relatório previsto no n.º 1 do artigo 15.º-A do Estatuto dos Benefícios Fiscais;\n\nc) Contribuir para a preparação de atos jurídicos no domínio da fiscalidade, com base na avaliação efetuada, em colaboração com outras entidades relevantes, como o CEF;\n\nd) Realizar estudos de análise económica no domínio da fiscalidade e de avaliação do impacto orçamental de medidas de natureza fiscal;\n\ne) Assegurar, em articulação com outras unidades orgânicas da AT, a elaboração de estimativas e previsões da receita fiscal, bem como o acompanhamento da evolução das receitas cobradas pela AT;\n\nf) Exercer as demais competências que lhe sejam acometidas por portaria do membro do Governo responsável pela área das finanças, nos termos dos n.os 4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, na sua redação atual.\n\ng) Assegurar a qualidade dos dados utilizados na sua avaliação das políticas tributárias e aduaneiras.\n\n3 - No exercício das competências previstas no número anterior, a U-TAX:\n\na) Pode aceder e utilizar a informação administrativa ao dispor da AT, incluindo informação individualizada, bem como a obtida pela AT ao abrigo de protocolos celebrados com o Instituto Nacional de Estatística, I. P., e outras entidades públicas relevantes;\n\nb) Colabora com instituições académicas e de investigação e outras entidades públicas ou privadas relevantes.\n\n4 - A U-TAX goza de autonomia técnica e profissional na respetiva elaboração de estudos e pareceres, atuando nesse âmbito na dependência funcional do membro do Governo responsável pela área das finanças.\n\n5 - A AT divulga, através do portal das finanças, as avaliações dos benefícios fiscais previstas na alínea a) do n.º 2.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 40/2024 - Diário da República n.º 110/2024, Série I de 2024-06-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2024-868245178), em vigor a partir de 2024-06-08\n\n> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03"
+  },
+  "913617829": {
+   "fragment_id": "107614077",
+   "type": 14,
+   "heading": "Anexo — (mapa a que se refere o artigo 10.º)",
+   "in_force_from": "2025-04-02",
+   "changed_by": [
+    "Alterado pelo/a Anexo IV do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01",
+    "Alterado pelo/a Anexo do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2017-107596683), em vigor a partir de 2017-07-01",
+    "Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+   ],
+   "markdown": "## Anexo — (mapa a que se refere o artigo 10.º)\n\n| Qualificação | Grau | Designação do cargo | Número<br>de lugares |  |\n| --- | --- | --- | --- | --- |\n|  |  |  |  |  |\n| Direção superior... | 1.º | Diretor-geral... | 1 |  |\n|  | 2.º | Subdiretor-geral... | 12 |  |\n|  | 2.º | Diretor do Centro de Estudos Fiscais e Aduaneiros... | 1 |  |\n|  | 2.º | Diretor da Unidade de Grandes Contribuintes... | 1 |  |\n|  | 2.º | Diretor da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras. | 1 |  |\n|  | 2.º | Diretor de Finanças de Lisboa... | 1 |  |\n|  | 2.º | Diretor de Finanças do Porto... | 1 |  |\n| Direção intermédia... | 1.º | Diretor de serviços/diretor de finanças/diretor de alfândega/diretor-adjunto da Unidade de Grandes Contribuintes/diretor-adjunto da Unidade Técnica de Avaliação de Políticas Tributárias e Aduaneiras/diretor de finanças adjunto/diretor de alfândega adjunto. | 96 |  |\n\n> Alterado pelo/a Anexo IV do/a [Decreto-Lei n.º 59/2025 - Diário da República n.º 64/2025, Série I de 2025-04-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/59-2025-913223418), em vigor a partir de 2025-04-02, produz efeitos a partir de 2025-04-01\n\n> Alterado pelo/a Anexo do/a [Decreto-Lei n.º 19/2024 - Diário da República n.º 24/2024, Série I de 2024-02-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/19-2024-840060195), em vigor a partir de 2024-02-03\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 78/2017 - Diário da República n.º 125/2017, Série I de 2017-06-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/78-2017-107596683), em vigor a partir de 2017-07-01\n\n> Alterado pelo/a Artigo 231.º do/a [Lei n.º 82-B/2014 - Diário da República n.º 252/2014, 1º Suplemento, Série I de 2014-12-31](https://diariodarepublica.pt/dr/detalhe/lei/82-b-2014-66016527), em vigor a partir de 2015-01-01"
+  }
+ }
+}

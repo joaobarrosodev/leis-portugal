@@ -1,0 +1,302 @@
+---
+schema_version: '1.0'
+id: pt:dre:256217:por
+title: Portaria n.º 561/93
+short_title: null
+summary: Aprova a composição e o regulamento do conselho responsável pelas actividades de formação (CRAF) do Laboratório Nacional
+  de Engenharia Civil (LNEC)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 561/93
+official_date: null
+publication_date: '1993-06-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/1993, Série I-B de 1993-06-01
+  number: '127'
+  series: I
+  supplement: null
+  pages: 2956 - 2958
+  pdf_url: https://files.diariodarepublica.pt/1s/1993/06/127b00/29562958.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/561/1993/06/01/p/dre/pt/html
+  oj: null
+  dre: '256217'
+  dre_path: /dr/detalhe/portaria/561-1993-256217
+  internal: pt:dre:256217:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/561-1993-256217
+  metadata_url: https://data.dre.pt/eli/port/561/1993/06/01/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/561-1993-256217
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1993-06-01T00:00:00Z'
+integrity:
+  source_sha256: eeb9679672a56bdc5143a4e6ca1f67cb652065e05d8fe29d0584d3ce82f30c0e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-561-256217.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Investigador
+- Formação Profissional
+- CRAF
+- Definição de Competências
+- Laboratório Nacional de Engenharia Civil
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/219/1992/10/15/p/dre
+article_structure:
+  article_count: 13
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 561/93
+
+de 1 de Junho
+
+Em cumprimento do disposto no artigo 30.º e nos termos do n.º 2 do artigo 4.º, ambos do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), de 15 de Outubro:
+
+Manda o Governo, pelos Ministros do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações, aprovar a composição e o regulamento do conselho responsável pelas actividades de formação (CRAF) do Laboratório Nacional de Engenharia Civil, que se publicam em anexo à presente portaria e que dela fazem parte integrante.
+
+Ministérios do Planeamento e da Administração do Território e das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 28 de Abril de 1993.**
+
+**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira. - O Ministro das Obras Públicas, Transportes e Comunicações, Joaquim Martins Ferreira do Amaral.**
+
+Composição e regulamentação do conselho responsável pelas actividades de formação do Laboratório Nacional de Engenharia Civil
+
+###### Artigo 1.º — Composição
+
+1 - O conselho responsável pelas actividades de formação (CRAF) do Laboratório Nacional de Engenharia Civil (LNEC), que funciona como conselho científico da instituição, é composto pelo director do Laboratório, pelos subdirectores que sejam investigadores ou professores universitários e por todos os investigadores-coordenadores, investigadores principais e investigadores auxiliares do quadro do LNEC.
+
+2 - Podem ainda ser convidados a participar, sem direito a voto, pessoas ou entidades cuja presença e colaboração sejam consideradas necessárias para mais correcta apreciação dos assuntos a tratar.
+
+###### Artigo 2.º — Competências
+
+1 - Para além das competências previstas no n.º 5 do artigo 4.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), de 15 de Outubro, compete ainda ao CRAF, nomeadamente:
+
+a) Definir as áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º, do n.º 2 do artigo 11.º e da alínea c) do n.º 6 do artigo 17.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), bem como dos candidatos a investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;
+
+b) Apreciar os currículos dos candidatos aos concursos de provas públicas para a categoria de investigador auxiliar, de acordo com a alínea b) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+c) Propor ao director do LNEC a designação dos investigadores ou professores que apreciarem os relatórios dos investigadores candidatos a nomeação definitiva, nos termos dos n.os 2 e 4 do artigo 14.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+d) Aprovar os programas de formação dos assistentes de investigação e dos estagiários de investigação, com o parecer favorável dos orientadores.
+
+2 - Compete, igualmente, ao CRAF elaborar proposta de condições complementares para efeitos de progressão na carreira de investigação, nos termos do n.º 2 do artigo 15.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629).
+
+###### Artigo 3.º — Funcionamento
+
+1 - O CRAF funciona em plenário, em comissão coordenadora e em comissões científicas departamentais (CCD).
+
+2 - O director do LNEC preside ao plenário e à comissão coordenadora, podendo delegar a presidência da comissão coordenadora num investigador-coordenador.
+
+3 - As CCD são constituídas em departamentos ou centros.
+
+4 - O plenário do CRAF reúne ordinariamente uma vez por ano e extraordinariamente por iniciativa do presidente, a solicitação da comissão coordenadora ou a requerimento, devidamente justificado, subscrito por qualquer das CCD.
+
+5 - A comissão coordenadora reúne ordinariamente de três em três meses e extraordinariamente por iniciativa do presidente ou a requerimento, devidamente justificado, de pelo menos um terço dos seus membros.
+
+6 - As CCD reúnem ordinariamente uma vez por ano e extraordinariamente sempre que convocadas pelo respectivo presidente, por iniciativa deste ou a pedido, devidamente justificado, de pelo menos um terço dos seus membros.
+
+7 - As normas de funcionamento interno do CRAF constam de regimento interno a aprovar pelo próprio conselho.
+
+###### Artigo 4.º — Constituição do plenário
+
+O plenário do CRAF do LNEC é constituído por todos os seus membros, nos termos do artigo 1.º deste regulamento.
+
+###### Artigo 5.º — Constituição da comissão coordenadora
+
+1 - A comissão coordenadora do CRAF terá a seguinte constituição:
+
+a) O director do LNEC, ou um investigador-coordenador em quem ele delegue a presidência;
+
+b) Os subdirectores, desde que investigadores ou professores universitários;
+
+c) O responsável por cada um dos departamentos e centros onde existe uma CCD, ou um investigador seu delegado em caso de impedimento;
+
+d) Um investigador de cada um dos departamentos e centros referidos na alínea anterior, eleito pelos investigadores do respectivo departamento ou centro;
+
+e) Um investigador do conjunto de investigadores do LNEC não pertencentes a qualquer dos departamentos ou centros referidos na alínea c), eleito por esse conjunto;
+
+f) Dois investigadores eleitos pelo conjunto de investigadores do LNEC.
+
+2 - As eleições referidas nas alíneas d), e) e f) do número anterior serão realizadas por voto secreto, segundo regulamento eleitoral a aprovar pelo plenário do CRAF, que deverá obedecer às seguintes disposições:
+
+a) Não são elegíveis os investigadores já abrangidos pelas alíneas a), b) e c) do número anterior;
+
+b) São eleitos membros efectivos e membros suplentes em igual número;
+
+c) São apurados como membros suplentes os investigadores-coordenadores mais votados, no caso de os membros efectivos não serem investigadores-coordenadores.
+
+3 - O mandato dos membros eleitos é de três anos, sendo permitida a reeleição.
+
+###### Artigo 6.º — Constituição das CCD
+
+São membros das CCD:
+
+a) O chefe do departamento ou centro respectivo, que presidirá;
+
+b) Todos os investigadores do respectivo departamento ou centro.
+
+###### Artigo 7.º — Reuniões
+
+1 - As reuniões do plenário do CRAF devem ser convocadas pelo presidente, com a antecedência mínima de oito dias.
+
+2 - As reuniões da comissão coordenadora devem ser convocadas pelo respectivo presidente, com a antecedência mínima de quarenta e oito horas.
+
+3 - As reuniões das CCD devem ser convocadas pelos respectivos presidentes, com a antecedência mínima de quarenta e oito horas.
+
+4 - As reuniões do plenário e da comissão coordenadora só podem funcionar desde que esteja presente a maioria dos seus membros.
+
+5 - Em todas as reuniões do CRAF, as deliberações são tomadas por maioria de votos dos membros presentes, tendo o seu presidente voto de qualidade, em caso de empate.
+
+6 - Só têm direito a voto nas deliberações respeitantes a investigadores de cada categoria os membros do CRAF que detenham categoria superior à daqueles, salvo no caso dos investigadores-coordenadores, em que votam os de igual categoria ou equivalente.
+
+7 - Das reuniões do CRAF são elaboradas actas, sendo as do plenário e da comissão coordenadora redigidas pelo secretário, nos termos do n.º 7 do artigo 3.º, e as das CCD por um dos membros previamente designado pelo respectivo presidente.
+
+8 - As actas, depois de aprovadas, são assinadas pelo presidente e pelo secretário.
+
+###### Artigo 8.º — Competência do plenário
+
+1 - Compete ao plenário do CRAF:
+
+a) Elaborar e aprovar o seu regimento interno e o regulamento eleitoral, a que se refere o artigo 5.º, n.º 2;
+
+b) Definir as orientações gerais no âmbito das competências referidas no artigo 2.º, nomeadamente a definição das áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar;
+
+c) Propor acordos ou convénios com universidades com vista a permitir que as provas de acesso à categoria de investigador auxiliar possam dar lugar à obtenção do grau de doutor, nos termos do n.º 7 do artigo 17.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+d) Superintender às actividades de formação pós-graduada que se efectuem no LNEC;
+
+e) Estabelecer critérios para a obtenção do grau de especialista do LNEC.
+
+2 - O plenário pode delegar na comissão coordenadora algumas das competências previstas no número anterior.
+
+3 - O plenário funciona ainda como instância de recurso das decisões da comissão coordenadora, nos termos da lei geral.
+
+###### Artigo 9.º — Competências da comissão coordenadora
+
+Incumbe à comissão coordenadora do CRAF:
+
+a) Designar os orientadores dos assistentes e estagiários de investigação propostos pelas CCD;
+
+b) Propor ao director do LNEC a composição dos júris dos concursos abertos nos termos do artigo 20.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+c) Aprovar os programas de formação dos assistentes e estagiários de investigação, propostos pelas CCD;
+
+d) Confirmar o cumprimento do programa de formação dos assistentes de investigação para efeitos do n.º 6 do artigo 17.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+e) Confirmar o cumprimento dos programas de formação dos assistentes e estagiários de investigação para efeitos dos n.os 1 e 2 do artigo 12.º e do n.º 1 do artigo 11.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+f) Definir a prova complementar de acesso à categoria de investigador auxiliar;
+
+g) Aprovar as áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar, nos termos dos artigos 6.º e 7.º, n.º 2 do artigo 11.º e da alínea c) do n.º 6 do artigo 17.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), bem como dos candidatos à categoria de investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;
+
+h) Reconhecer o mérito científico dos currículos dos candidatos a investigador auxiliar, nos termos da alínea b) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+i) Emitir parecer sobre os relatórios de actividades dos investigadores, em regime de dedicação exclusiva;
+
+j) Propor ao director do LNEC a designação dos investigadores ou professores para apreciarem os relatórios dos investigadores candidatos a nomeações definitiva, nos termos dos n.os 2 e 4 do artigo 14.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+l) Sancionar as deliberações tomadas pelas CCD;
+
+m) Elaborar e aprovar o seu regulamento interno e o das CCD.
+
+###### Artigo 10.º — Competências das CCD
+
+1 - São competências das CCD:
+
+a) Propor à comissão coordenadora a designação dos orientadores dos assistentes e estagiários de investigação do respectivo departamento ou centro, ouvidos os interessados e os responsáveis pelos projectos em que aqueles se integram;
+
+b) Propor as áreas científicas adequadas para acesso às categorias de assistente de investigação e investigador auxiliar do respectivo departamento ou centro, nos termos dos artigos 6.º e 7.º, do n.º 2 do artigo 11.º e da alínea c) do n.º 6 do artigo 17.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629), bem como dos candidatos à categoria de investigador principal, nos termos da alínea c) do n.º 1 do artigo 10.º do mesmo diploma;
+
+c) Emitir parecer, nos casos em que lhe for solicitado pela comissão coordenadora, sobre os currículos dos candidatos aos concursos de provas públicas para a categoria de investigador auxiliar, nas áreas científicas integradas no respectivo departamento ou centro, de acordo com a alínea b) do n.º 1 do artigo 10.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+d) Propor os programas de formação dos assistentes e estagiários de investigação do respectivo departamento ou centro e acompanhar o seu desenvolvimento;
+
+e) Pronunciar-se acerca do cumprimento dos programas de formação dos assistentes de investigação, para efeitos da alínea d) do artigo 9.º;
+
+f) Pronunciar-se quanto ao cumprimento do programa de formação dos assistentes e estagiários de investigação, para efeitos da alínea e) do artigo 9.º
+
+###### Artigo 11.º — Actividades de formação
+
+1 - Os programas de formação dos assistentes e estagiários de investigação integram-se nas actividades de formação dos respectivos serviços.
+
+2 - Os programas de formação dos assistentes e estagiários de investigação têm como principal objectivo formar investigadores altamente qualificados nas áreas de actividade do LNEC, em articulação com a política científica e tecnológica nacional.
+
+###### Artigo 12.º — Programas de formação dos assistentes de investigação
+
+1 - Os programas de formação dos assistentes de investigação a aprovar pelo CRAF, ouvidos os orientadores, integram as seguintes actividades:
+
+a) Participação em projectos de investigação e desenvolvimento em curso nas unidades científicas do LNEC, sob orientação de investigadores ou docentes universitários, nos termos do n.º 2 do artigo 3.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+b) Frequência de estágios, cursos, seminários e colóquios, no âmbito das respectivas áreas científicas, realizados no LNEC ou ao abrigo de acordos celebrados entre o LNEC e outros organismos de investigação ou instituições universitárias;
+
+c) Realização de trabalho de investigação científica em determinada especialidade, sob a orientação do respectivo orientador, conducente à elaboração de uma dissertação original para apresentação e discussão nas provas de acesso à categoria de investigador auxiliar;
+
+d) Colaboração, no âmbito da respectiva área científica, na formação dos estagiários de investigação ao nível da aprendizagem da metodologia e técnicas auxiliares de investigação, bem como na formação de pessoal técnico, científico e docente, assim como em acções de formação realizadas localmente por investigadores do LNEC;
+
+e) Colaboração e participação nos estágios internos, no âmbito da respectiva área científica.
+
+2 - Os programas referidos no número anterior poderão ainda incluir frequência de cursos de pós-graduação e colaboração no ensino e na investigação universitários, bem como outras actividades devidamente aprovadas e autorizadas.
+
+###### Artigo 13.º — Programas de formação dos estagiários de investigação
+
+1 - Os programas de formação dos estagiários de investigação, a aprovar pelo CRAF, ouvidos os respectivos orientadores, integram obrigatoriamente as seguintes actividades:
+
+a) Execução de tarefas introdutórias à actividade de investigação científica e desenvolvimento, integradas em projectos científicos, sob orientação de um investigador ou professor universitário, nos termos do n.º 1 do artigo 3.º do [Decreto-Lei n.º 219/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/219-1992-226629);
+
+b) Aprendizagem da metodologia de investigação científica e de desenvolvimento e das técnicas auxiliares de investigação;
+
+c) Frequência de estágios de formação e cursos de aperfeiçoamento, bem como participação em seminários e outras reuniões científicas, ao abrigo de acordos celebrados entre o LNEC e outros organismos de investigação ou instituições universitárias;
+
+d) Colaboração e participação nos estágios internos previstos no LNEC, no âmbito da respectiva área científica;
+
+e) Elaboração de um relatório circunstanciado das actividades realizadas no período de aprendizagem, sobre o qual se pronuncia o respectivo orientador, e que é apresentado pela discussão pública nas respectivas provas de acesso à categoria de assistente de investigação;
+
+f) Elaboração de um trabalho síntese sobre um tema à sua escolha relacionado com a actividade desenvolvida, e que é discutido nas respectivas provas de acesso à categoria de assistente de investigação.
+
+2 - Os estagiários de investigação podem ainda frequentar cursos de pós-graduação e colaborar no ensino e na investigação universitários, bem como prosseguir outras actividades devidamente autorizadas.

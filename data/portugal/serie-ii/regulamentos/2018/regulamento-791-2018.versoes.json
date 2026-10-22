@@ -1,0 +1,127 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:117111932:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/regulamento/2018-117170976",
+ "dre_path": "/dr/detalhe/regulamento/791-2018-117111932",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-11-26",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "117317675",
+    "117317676",
+    "117317677",
+    "117317678",
+    "117317679",
+    "117317680",
+    "117317681",
+    "117317682",
+    "117317683",
+    "117317684",
+    "117317685"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:117279707:por",
+     "title": "Declaração de Retificação n.º 906-A/2018 - 2.ª Série",
+     "published": "2018-12-07",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/906-a-2018-117279707",
+     "date": "2018-11-27"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "117317675": {
+   "fragment_id": "117170977",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Regulamento n.º 791/2018\n\nA Assembleia Geral da Ordem dos Advogados reunida em 15 de outubro de 2018, ao abrigo do disposto nas alíneas d) e e), do n.º 2, do artigo 33.º e do n.º 1, do artigo 180.º do Estatuto da Ordem dos Advogados (EOA), aprovado pela Lei n.º 145/2015, de 9 de setembro, deliberou aprovar o Regulamento das Quotas dos Advogados, proposto pelo Conselho Geral nos termos do disposto na alínea l, do n.º 1, do artigo 46.º do EOA, com a seguinte redação:\n\nRegulamento das Quotas dos Advogados"
+  },
+  "117317676": {
+   "fragment_id": "117170978",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nOs advogados com inscrição em vigor são obrigados a contribuir para a Ordem dos Advogados com uma quota mensal, nos termos previstos no Estatuto e no presente Regulamento e respetivo anexo."
+  },
+  "117317677": {
+   "fragment_id": "117170979",
+   "type": 11,
+   "heading": "Artigo 2.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Competência\n\nCompete à Ordem dos Advogados, através do Conselho Geral, proceder à liquidação e cobrança das quotas mensais."
+  },
+  "117317678": {
+   "fragment_id": "117170980",
+   "type": 11,
+   "heading": "Artigo 3.º — Prazos de pagamento da Quota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Prazos de pagamento da Quota\n\n1 - A quota mensal tem de ser paga pontualmente até ao último dia do mês a que respeita, sendo enviado, para esse efeito, aviso/recibo de pagamento da quota mensal aos advogados.\n\n2 - As quotas mensais podem ser pagas anual e antecipadamente, até ao dia 31 de dezembro do ano anterior ao que se reportam, beneficiando os advogados de uma redução de 17,77 (8)% sobre o valor total anual das quotas.\n\n3 - As quotas mensais podem também ser pagas de forma semestral e antecipada, até ao dia 31 de dezembro do ano anterior ao que se reportam, no caso do primeiro semestre e até ao dia 30 de junho do próprio ano, no caso do pagamento antecipado do segundo semestre.\n\n4 - Os advogados que efetuem o pagamento semestral antecipado das quotas beneficiam de uma redução de 7,77 (8)% na quota semestral."
+  },
+  "117317679": {
+   "fragment_id": "117170981",
+   "type": 11,
+   "heading": "Artigo 4.º — Avisos para pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Avisos para pagamento\n\n1 - O aviso/recibo de pagamento a que se reporta o artigo anterior será enviado, em alternativa, para o domicílio profissional do advogado, para o endereço eletrónico atribuído pela Ordem dos Advogados ou para o endereço eletrónico relativamente ao qual a Ordem dos Advogados emitiu certificado digital.\n\n2 - Em caso de não pagamento dentro dos prazos devidos é emitido novo aviso para pagamento no prazo de 15 dias.\n\n3 - A partir do novo aviso para pagamento a que se reporta o número anterior serão devidos juros de mora.\n\n4 - Considera-se efetuada a notificação de advogado cujo aviso/recibo de pagamento foi remetido, alternativamente, para o respetivo domicílio profissional, para o endereço eletrónico atribuído pela Ordem dos Advogados ou para o endereço eletrónico relativamente ao qual a Ordem dos Advogados emitiu certificado digital."
+  },
+  "117317680": {
+   "fragment_id": "117170982",
+   "type": 11,
+   "heading": "Artigo 5.º — Formas de pagamento das Quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Formas de pagamento das Quotas\n\nSem prejuízo de outras formas de pagamento autorizadas pelo Conselho Geral, o pagamento da quota pode ser efetuado:\n\na) Em numerário, cheque ou multibanco, na sede da Ordem dos Advogados;\n\nb) Por cheque, remetido via postal, para a sede da Ordem dos Advogados;\n\nc) Nos CTT ou em qualquer ATM multibanco."
+  },
+  "117317681": {
+   "fragment_id": "117170983",
+   "type": 11,
+   "heading": "Artigo 6.º — Falta de pagamento das Quotas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Falta de pagamento das Quotas\n\n1 - O não pagamento das quotas, por prazo superior a 12 meses, deve ser comunicado ao conselho competente, para efeitos de instauração de processo disciplinar ao advogado devedor.\n\n2 - O incumprimento pelo advogado do dever de pagar quotas pode dar lugar à aplicação de sanção disciplinar de suspensão, quando se apure que é culposo e se prolongue por período superior a 12 meses.\n\n3 - O pagamento voluntário das quotas em dívida extingue o procedimento disciplinar ou a sanção, consoante tenha lugar na pendência do processo disciplinar ou após a decisão final.\n\n4 - A certidão de dívida de quotas emitida pelo Conselho Geral constitui título executivo."
+  },
+  "117317682": {
+   "fragment_id": "117170984",
+   "type": 11,
+   "heading": "Artigo 7.º — Restituição de Quota",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Restituição de Quota\n\n1 - A expulsão, suspensão ou cancelamento da inscrição na Ordem dos Advogados, que abranja meses compreendidos no pagamento anual ou semestral antecipado, nos termos dos números 2, 3 e 4 do artigo 3.º, dará lugar à restituição do valor das quotas pagas nos referidos meses.\n\n2 - Nas situações mencionadas no número anterior, o semestre ou ano em causa deixará de beneficiar da redução de quotas a que se referem os números 2 e 4 do artigo 3.º"
+  },
+  "117317683": {
+   "fragment_id": "117170985",
+   "type": 11,
+   "heading": "Artigo 8.º — Contagem dos prazos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Contagem dos prazos\n\nÀ contagem dos prazos previstos no presente Regulamento são aplicáveis as regras do Código do Procedimento Administrativo."
+  },
+  "117317684": {
+   "fragment_id": "117170986",
+   "type": 11,
+   "heading": "Artigo 9.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Entrada em vigor\n\n1 - O presente Regulamento entra em vigor no dia seguinte ao da sua publicação.\n\n2 - A partir da data referida no número anterior, consideram-se revogadas todas as disposições e normas anteriores que contrariem ou não se coadunem com o presente Regulamento."
+  },
+  "117317685": {
+   "fragment_id": "117170987",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 1.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 1.º)\n\nValor das quotas\n\n(ver documento original)\n\n7 de novembro de 2018. - O Presidente da Assembleia Geral e Presidente do Conselho. Geral, Guilherme Figueiredo.\n\n311799663"
+  }
+ }
+}

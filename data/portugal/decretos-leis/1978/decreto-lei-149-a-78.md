@@ -1,0 +1,842 @@
+---
+schema_version: '1.0'
+id: pt:dre:391636:por
+title: Decreto-Lei n.º 149-A/78
+short_title: null
+summary: Aprova o regime tabaqueiro
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Inspecção-Geral de Finanças
+proposing_entity: null
+official_number: 149-A/78
+official_date: null
+publication_date: '1978-06-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 138/1978, 1º Suplemento, Série I de 1978-06-19
+  number: '138'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1078-(1) a 1078-(10)
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/06/13801/00010010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '1987-01-05'
+version_history:
+  file: decreto-lei-149-a-78.versoes.json
+  count: 7
+  source_lastmod: '2025-07-30'
+  versions:
+  - date: '1978-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1978-06-29'
+    amending: pt:dre:298386:por
+    amending_title: Declaração
+    changes:
+    - Retifica MAPA N.º 8
+  - date: '1979-08-13'
+    amending: pt:dre:483097:por
+    amending_title: Decreto-Lei n.º 285-A/79
+    changes:
+    - Altera MAPA N.º 1
+    - Altera MAPA N.º 2
+    - Altera MAPA N.º 3
+  - date: '1981-05-04'
+    amending: pt:dre:394736:por
+    amending_title: Decreto-Lei n.º 93/81
+    changes:
+    - Altera Artigo 15.º
+  - date: '1983-05-23'
+    amending: pt:dre:451253:por
+    amending_title: Decreto-Lei n.º 196/83
+    changes:
+    - Revoga Artigo 8.º
+  - date: '1984-01-29'
+    amending: pt:dre:660883:por
+    amending_title: Decreto-Lei n.º 34/84
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+    - Altera Artigo 21.º
+    - Altera Artigo 29.º
+    - Altera Artigo 30.º
+    - Altera Artigo 35.º
+    - Altera Artigo 36.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 51.º
+    - Altera MAPA N.º 1
+    - Altera MAPA N.º 2
+    - Altera MAPA N.º 3
+    - Revoga Artigo 22.º
+  - date: '1987-01-05'
+    amending: pt:dre:627236:por
+    amending_title: Decreto-Lei n.º 444/86
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/149-a/1978/p/cons/19861231/pt/html
+  oj: null
+  dre: '391636'
+  dre_path: /dr/detalhe/decreto-lei/149-a-1978-391636
+  internal: pt:dre:391636:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/149-a-1978-391636
+  metadata_url: https://data.dre.pt/eli/dec-lei/149-a/1978/p/cons/19861231/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1978-925801335
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1978-925801335
+  retrieved_at: '2026-10-22T13:32:34Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-07-30T00:00:00Z'
+integrity:
+  source_sha256: 15097e0e8c22941ec4b85626442e4b5ee5b6b00ad1870dcd252e6e4ae5b6af06
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:32:34Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-149-a-78.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Açores
+- Comércio
+- Contribuições e Impostos
+- Crime
+- Código da Contribuição Industrial
+- Definição de Competências
+- Direcção Geral das Alfândegas
+- Embalagem
+- Etiquetagem
+- Exportação
+- Fabrico Industrial
+- Importação
+- Imposto Especial sobre o Consumo de Tabaco
+- Inspeção Geral de Finanças
+- Madeira.região Autónoma
+- Multa
+- Pagamento
+- Pauta dos Direitos de Importação
+- Preço
+- Preço de Venda
+- Regime Jurídico
+- Tabaco
+relationships:
+- type: amended_by
+  target: pt:dre:298386:por
+  label: Retifica MAPA N.º 8
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao/1978-298386
+  date: '1978-06-29'
+- type: amended_by
+  target: pt:dre:483097:por
+  label: Altera MAPA N.º 1; Altera MAPA N.º 2; Altera MAPA N.º 3
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-1979-483097
+  date: '1979-08-11'
+- type: amended_by
+  target: pt:dre:394736:por
+  label: Altera Artigo 15.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1981-394736
+  date: '1981-04-29'
+- type: amended_by
+  target: pt:dre:451253:por
+  label: Revoga Artigo 8.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1983-451253
+  date: '1983-05-18'
+- type: amended_by
+  target: pt:dre:660883:por
+  label: Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 13.º; Altera Artigo 18.º; Altera Artigo 21.º;
+    Altera Artigo 29.º; Altera Artigo 30.º; Altera Artigo 35.º; Altera Artigo 36.º; Altera Artigo 46.º; Altera Artigo 47.º;
+    Altera Artigo 51.º; Altera MAPA N.º 1; Altera MAPA N.º 2; Altera MAPA N.º 3; Revoga Artigo 22.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883
+  date: '1984-01-24'
+- type: amended_by
+  target: pt:dre:627236:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236
+  date: '1986-12-31'
+article_structure:
+  article_count: 53
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:32:34Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 149-A/78
+
+Decreto-Lei n.º 149-A/78
+
+de 19 de Junho
+
+A nacionalização da parte mais significativa das empresas que exploravam a indústria do tabaco no continente e nas regiões autónomas e a posterior criação da empresa pública Tabaqueira - Empresa Industrial de Tabacos, E. P., tornou imperiosa a revisão do regime do tabaco.
+
+A necessidade de tal revisão já se vinha fazendo sentir em virtude da existência de diferentes regimes tabaqueiros para o continente e cada uma das regiões autónomas, o que implicava uma profunda diversidade do número e natureza dos impostos e taxas sobre o tabaco. Esta diversidade era extensiva ao próprio regime aduaneiro.
+
+Como consequência desta distorção fiscal e apenas porque a tributação era mais leve nas regiões autónomas, verificou-se nos últimos anos certa concorrência do tabaco manufacturado insular, principalmente dos Açores, no mercado continental. Desta situação, prejudicial ao Estado, beneficiaram largamente alguns intermediários.
+
+Nestas condições, e tendo essencialmente em vista a harmonização do regime tributário tabaqueiro, é criado um imposto único sobre o tabaco manufacturado, extinguindo-se toda a série de impostos e taxas antes existentes, ao mesmo tempo que são abolidos os injustificados direitos de importação ainda existentes sobre aquele produto quando em circulação no território nacional, igualando-se ainda as taxas dos direitos que incidem sobre o tabaco estrangeiro importado no continente ou nas regiões autónomas.
+
+Tendo, porém, em atenção os naturais inconvenientes de uma súbita igualização de taxas de imposto único, prevê-se a possibilidade de aproximação gradual entre as cargas fiscais do tabaco produzido e consumido nas regiões autónomas e no continente, mediante um regime transitório de taxas mais favoráveis para aquelas regiões.
+
+Aproveita-se ainda para, dentro da política de austeridade que vem sendo prosseguida, elevar a carga fiscal sobre o tabaco manufacturado e introduzir mecanismos de prevenção da fraude fiscal.
+
+De notar ainda, entre outras de menor relevo, a preocupação de estabelecer um sistema mais flexível de comercialização do tabaco, possibilitando, quando se justifique, a alteração das condições comerciais praticadas no mercado quando se proceder a fixação de novos preços.
+
+Aquando da elaboração do presente diploma foram ouvidos os órgãos de governo das regiões autónomas, nos termos do n.º 2 do artigo 231.º da Constituição.
+
+Usando da autorização conferida pela Lei n.º 20/78, de 26 de Abril, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Do imposto de consumo sobre o tabaco
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 1.º
+
+O tabaco manufacturado destinado ao consumo no continente e regiões autónomas, quer de fabrico nacional, quer estrangeiro, fica sujeito a um imposto único designado imposto de consumo sobre o tabaco.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 2.º
+
+1 - São abolidos todos os outros impostos que incidem sobre o tabaco manufacturado.
+
+2 - O número anterior não é aplicável aos direitos de importação.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 3.º
+
+O imposto de consumo incide:
+
+a) Sobre o tabaco nacional saído das áreas fiscalizadas referidas no artigo 10.º e destinado ao consumo no mesmo território em que foi manufacturado;
+
+b) Sobre o tabaco nacional manufacturado em território diferente do de consumo e sobre o tabaco manufacturado estrangeiro, quando importados ou submetidos a arrematação ou venda com dispensa de hasta pública.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 4.º
+
+Ficam sujeitos a imposto:
+
+a) O fabricante do tabaco, no caso da alínea a) do artigo anterior;
+
+b) O importador, arrematante ou comprador, nos casos abrangidos pela alínea b) do mesmo artigo.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 5.º
+
+1 - Fica isento do imposto de consumo:
+
+a) O tabaco manufacturado nacional exportado para o estrangeiro, qualquer que seja a forma do seu acondicionamento;
+
+b) O tabaco manufacturado nacional destinado a consumo de bordo das embarcações e aeronaves nacionais, fora do espaço fiscal português, nos termos e limites fixados no artigo 15.º;
+
+c) O tabaco manufacturado nacional destinado às lojas francas nos termos da legislação especial;
+
+d) O tabaco manufacturado transportado por passageiros vindos do exterior ou enviado em pequenas remessas sem carácter comercial, sujeito ao condicionalismo previsto nos Decretos-Leis n.os 463/80, de 11 de Outubro, e 16/81, de 16 de Janeiro, e diplomas que os venham a alterar, para efeitos de franquia de direitos;
+
+e) O tabaco referido no n.º 5 do artigo 13.º
+
+2 - O Ministro das Finanças e do Plano poderá isentar do imposto de consumo pequenos donativos dos fabricantes a instituições de assistência.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 6.º
+
+1 - O imposto de consumo sobre cigarros é composto por dois impostos parcelares, designados por imposto específico e imposto ad valorem.
+
+2 - A incidência dos impostos específico e ad valorem, bem como o montante do primeiro e a taxa do segundo, constam do mapa n.º 1 anexo ao presente diploma e que dele faz parte integrante.
+
+3 - O imposto de consumo sobre charutos e cigarrilhas, tabaco picado para enrolar e para cachimbo, rapé e tabaco de mascar reveste a forma de imposto ad valorem, cujas taxas constam do mapa n.º 2 anexo.
+
+4 - Aos tabacos manufacturados nas Regiões Autónomas dos Açores e da Madeira, quando consumidos nas respectivas regiões de fabrico, é excepcional e transitoriamente aplicável o sistema fiscal vigente para os mesmos à data da entrada em vigor do presente diploma, sem prejuízo da possibilidade do aumento de taxas, por despacho do Ministro das Finanças e do Plano, até ao nível correspondente ao fixado para o tabaco manufacturado no continente.
+
+5 - No mapa n.º 3 anexo estabelecem-se os impostos de consumo aplicáveis, a título excepcional e provisório por um período de dois anos, às marcas de cigarros de fabrico nacional aí indicadas.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 7.º
+
+1 - A liquidação do imposto de consumo devido pelo fabricante é feita com referência ao último dia de cada mês relativamente às quantidades sobre as quais incidiu o imposto de consumo no decurso desse mês.
+
+2 - O produto do imposto liquidado nos termos do número anterior deve dar entrada por meio de guia nos cofres do Estado até ao último dia do mês seguinte àquele a que disser respeito.
+
+3 - O imposto de consumo sobre o tabaco manufacturado sujeito a despacho de importação, ou arrematado ou vendido com dispensa de hasta pública, será liquidado e cobrado pelas alfândegas do território de consumo no acto daquele despacho ou no do pagamento do valor da venda, conforme o caso, sem prejuízo do disposto no n.º 5 do artigo 30.º
+
+4 - Para efeitos do número anterior, o tabaco nacional proveniente de território diferente do de consumo será submetido a despacho aduaneiro.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 8.º
+
+1 - O Ministro das Finanças e do Plano pode autorizar a venda com dispensa de hasta pública prevista no Regulamento das Alfândegas e no Contencioso Aduaneiro às empresas tabaqueiras que o requeiram, relativamente ao tabaco manufacturado susceptível de ser sujeito a hasta pública.
+
+2 - Ao produto da venda do tabaco referido no número anterior, quando apreendido por infracção fiscal, será dado o mesmo destino que o Contencioso Aduaneiro estabelece para o produto da arrematação.
+
+3 - O despacho que autorizar a venda fixará o respectivo preço e determinará o destino do tabaco, o qual poderá ser para consumo público ou recuperação nas fábricas.
+
+4 - Quando o tabaco for destinado a consumo público, o preço a fixar não poderá ser inferior à importância dos respectivos direitos e demais imposições.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 196/83 - Diário da República n.º 114/1983, Série I de 1983-05-18](https://diariodarepublica.pt/dr/detalhe/decreto-lei/196-1983-451253), em vigor a partir de 1983-05-23
+
+###### Artigo 9.º
+
+1 - A administração do imposto de consumo sobre o tabaco compete, no continente, à Inspecção-Geral de Finanças, quanto ao tabaco saído das áreas fiscalizadas, e à Direcção-Geral das Alfândegas, quando a incidência se verificar no momento da importação, arrematação ou venda com dispensa de hasta pública.
+
+2 - Nas regiões autónomas, compete à Direcção-Geral das Alfândegas a administração do imposto de consumo sobre o tabaco.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 10.º
+
+1 - A indústria do tabaco só pode ser exercida em áreas fiscalizadas, considerando-se como tais os recintos das fábricas destinadas à produção do tabaco, as quais estão sujeitas a fiscalização permanente do Estado.
+
+2 - O regime das áreas fiscalizadas pode ser alargado, por despacho do Ministro das Finanças e do Plano, a armazéns existentes fora do recinto das fábricas.
+
+3 - A fiscalização a que se refere o n.º 1 é da competência da Inspecção-Geral de Finanças, no continente, e da Direcção-Geral das Alfândegas, nas regiões autónomas.
+
+4 - As empresas tabaqueiras obrigam-se a fornecer e a manter as instalações necessárias aos serviços fiscalizadores.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 11.º
+
+1 - Estão sujeitos à fiscalização as pessoas e coisas, à saída das áreas fiscalizadas, bem como, à entrada, o tabaco em folha referido no artigo 27.º e o tabaco manufacturado a que aludem os artigos 8.º, n.º 3, e 13.º, n.º 2, deste diploma                                                      2 - Os serviços fiscalizadores podem estabelecer normas internas que regulamentem o disposto no número anterior.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 12.º
+
+1 - O tabaco manufacturado isento de imposto de consumo ou destinado a consumo em território nacional diferente do de fabrico sairá das áreas fiscalizadas acompanhado de guia passada pelo serviço fiscalizador e será fiscalizado até à sua exportação.
+
+2 - Para efeitos do número anterior o tabaco destinado a consumo noutro território nacional será submetido a despacho aduaneiro.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 13.º
+
+1 - O serviço fiscalizador pode autorizar a saída, por tempo determinado, de tabaco em folha e manufacturado das áreas fiscalizadas para exposições, ensaios e beneficiação.
+
+2 - O mesmo serviço pode autorizar a entrada nas áreas fiscalizadas de tabaco manufacturado destinado a beneficiação ou recuperação.
+
+3 - Quando o tabaco referido no número anterior tiver sido onerado com imposto de consumo, será o mesmo anulado por abatimento ao imposto de consumo liquidado no mês seguinte ao da entrada do tabaco na área fiscalizada.
+
+4 - O tabaco em folha e manufacturado em circulação entre áreas fiscalizadas do mesmo território será acompanhado por guia passada pelo serviço fiscalizador e será fiscalizado até ao local do destino.
+
+5 - O serviço fiscalizador pode ainda autorizar:
+
+a) Para efeitos de ensaios de mercado, no País ou no estrangeiro, a saída das áreas fiscalizadas de amostras de embalagens de cigarros especimen (em branco) ou de outros tabacos de origem nacional;
+
+b) A importação, para o mesmo efeito, de amostras análogas manufacturadas no estrangeiro.
+
+6 - Ao disposto no número anterior é aplicável o regime fiscal e aduaneiro correspondente, previsto neste diploma, bem como o disposto no Decreto-Lei n.º 462/80, de 11 de Outubro.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 14.º
+
+1 - As saídas do tabaco manufacturado das áreas fiscalizadas processar-se-ão com base em nota discriminada do tabaco a sair, subscrita por um responsável da empresa tabaqueira respectiva.
+
+2 - As empresas tabaqueiras são obrigadas a enviar ao serviço fiscalizador até ao dia 10 de cada mês, a relação de tabaco saído no mês anterior para consumo no respectivo território, bem como o montante do correspondente imposto de consumo.
+
+3 - As empresas tabaqueiras são igualmente obrigadas a enviar ao serviço fiscalizador, no prazo referido no número anterior, a relação do tabaco manufacturado saído com os seguintes destinos:
+
+a) Para consumo noutro território nacional;
+
+b) Para consumo de bordo;
+
+c) Para exportação;
+
+d) Para as lojas francas.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 15.º
+
+1 - O tabaco fornecido em regime de consumo de bordo será conservado em compartimento selado pela autoridade aduaneira nos termos da legislação própria.
+
+2 - O Ministro das Finanças e do Plano pode dispensar, em casos especiais devidamente justificados, a selagem do compartimento referido no número anterior.
+
+3 - Os fornecimentos do tabaco para consumo de bordo de embarcações são limitados a dois maços de tabaco por pessoa e dia de viagem.
+
+4 - A violação das condições fixadas nos n.os 1 e 3 pode determinar a suspensão dos fornecimentos aos infractores entre três meses e dois anos, aplicável pelo Ministro das Finanças e do Plano, sem prejuízo de outras sanções previstas na lei.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo único do/a [Decreto-Lei n.º 93/81 - Diário da República n.º 98/1981, Série I de 1981-04-29](https://diariodarepublica.pt/dr/detalhe/decreto-lei/93-1981-394736), em vigor a partir de 1981-05-04
+
+###### Artigo 16.º
+
+O imposto de consumo, quando devido pela saída do tabaco referido no artigo 38.º, será liquidado na proporção do número de unidades contidas na embalagem miniatura relativamente ao que corresponde ou corresponderia à embalagem normal da respectiva marca.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 17.º
+
+O serviço fiscalizador pode dar instruções aos responsáveis pelo pagamento do imposto de consumo com vista a dar maior eficácia à fiscalização e administração do referido imposto.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 18.º
+
+1 - As despesas com a fiscalização exercida pela Inspecção-Geral de Finanças, incluindo as remunerações e subsídios de pessoal, serão suportadas pelo fabricante.
+
+2 - O montante das despesas a que se refere o número anterior será fixado anualmente pelo Ministro das Finanças e do Plano e será pago até ao fim do 1.º trimestre do ano a que respeita, devendo a diferença, se após aquela fixação ocorrerem alterações nos encargos com a fiscalização que agravem aquele montante, ser apurada até 15 de Dezembro do mesmo ano, para pagamento nesse mês.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 19.º
+
+A alínea a) do artigo 15.º do Código da Contribuição Industrial passa a ter a seguinte redacção:                                               ...
+
+a) Imposto de consumo sobre o tabaco.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 20.º
+
+1 - Ficam sujeitos ao imposto de consumo e aos direitos de importação e demais imposições aplicáveis ao tabaco manufacturado os produtos que substituam o tabaco na satisfação do hábito de fumar.
+
+2 - Dos números anteriores excluem-se os estupefacientes, os quais estão sujeitos a legislação especial.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+### Capítulo II — Regime aduaneiro
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 21.º
+
+1 - A importação de tabaco estrangeiro, quer em folha, quer manufacturado, bem como a de outros produtos utilizados no seu fabrico, fica sujeita às taxas e ao regime pautal em vigor à data em que for numerado o correspondente bilhete de despacho.
+
+2 - A entrada de tabaco de origem nacional, quer em folha, quer manufacturado, é isenta de qualquer direito de importação.
+
+3 - O tabaco estrangeiro, quer em folha, quer manufacturado, importado nas regiões autónomas fica submetido aos mesmos direitos de importação aplicáveis no continente.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 22.º
+
+As posições 24.01 e 24.02 da Pauta dos Direitos de Importação passam a ter a seguinte redacção:                                               (ver documento original)
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 23.º
+
+O tabaco em folha importado será tributado pelo peso líquido legal, calculado nos termos das Instruções Preliminares da Pauta dos Direitos de Importação, deixando de ser obrigatória a sua determinação por tara oficial.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 24.º
+
+1 - A importação de produtos para fabrico de tabaco incluindo amostras, designadamente o tabaco em folha, e outras espécies vegetais, extractos ou molhos de tabaco, destinados a complementar, perfumar ou apaladar os tabacos, papel de fumar em carretéis, fita para pontas, varetas filtro, bem como os maquinismos próprios para aquela indústria, só podem ser importados e despachados pelas empresas legalmente autorizadas a explorar a respectiva indústria, bem como por entidades para este efeito mandatadas pelas mesmas empresas.
+
+2 - As espécies vegetais referidas no número anterior devem ser despachadas com a declaração prévia da sua aplicação, pagando direitos de importação como o tabaco em folha.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 25.º
+
+1 - Podem importar amostras de tabaco em folha, mediante o pagamento dos direitos de importação, os representantes das casas fornecedoras acreditados por estas, desde que o peso bruto da remessa, descrito nos documentos de carga num único volume, não seja superior a 10 kg.
+
+2 - As amostras importadas devem ser entregues às empresas tabaqueiras no prazo de oito dias ou, se estas as recusarem, ser reexportadas em igual prazo.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 26.º
+
+As empresas tabaqueiras podem recolher as matérias-primas e acessórios que lhes sejam destinados em armazéns alfandegados regulados por legislação própria.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 27.º
+
+A autoridade aduaneira comunicará ao serviço fiscalizador situado junto das fábricas de tabaco a quantidade de tabaco em folha despachado para manipulação na respectiva fábrica.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 28.º
+
+1 - O pagamento dos direitos de importação devidos pelo tabaco em folha pode ser feito por meio de letras a três meses de prazo, sem juro, a favor da Fazenda Nacional, sacadas pelo tesoureiro da alfândega e aceites pela empresa tabaqueira importadora do tabaco, quando esta empresa tenha prestado fiança permanente que cubra o valor das letras emitidas, abonada por um banco, como fiador aceite pela alfândega respectiva.
+
+2 - A fiança referida no número anterior não será exigida quando o aceitante das letras for uma empresa pública.
+
+3 - Estas letras são remetidas pela alfândega ao Banco de Portugal como Caixa Geral do Tesouro.
+
+4 - É concedida a reforma das letras referidas no número anterior por prazo não superior a três meses, mediante o pagamento de juros à taxa básica de desconto do Banco de Portugal.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 29.º
+
+1 - Serão restituídos os direitos de importação correspondentes aos tabacos em folha de origem estrangeira incorporados na composição do tabaco manufacturado nacional, mesmo que não acondicionado para venda ao público, que seja exportado para o estrangeiro ou destinado a consumo de bordo ou lojas francas.
+
+2 - A restituição dos direitos de importação das ramas incorporadas processar-se-á na base do peso do tabaco exportado, deduzindo-se uma percentagem a fixar anualmente, na qual será considerada a incorporação de rama de origem nacional.
+
+3 - O critério do cálculo do peso, bem como a percentagem anual referida no número anterior, serão fixados por despacho do Ministro das Finanças e do Plano.
+
+4 - A restituição dos direitos referidos nos números anteriores efectuar-se-á por encontro em futuras importações de tabaco em folha.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 30.º
+
+1 - Os invólucros de venda ao público de tabaco manufacturado no estrangeiro ou em território nacional diferente do de consumo conterão obrigatoriamente, aposta na origem, de modo a não permitir a sua reutilização, uma estampilha especial, impressa na Imprensa Nacional-Casa da Moeda, contendo o respectivo preço de venda ao público, fornecida aos produtores ou importadores pelas autoridades aduaneiras.
+
+2 - O tabaco manufacturado referido no número anterior não poderá ser desalfandegado ou entregue ao arrematante sem que se mostre selado de origem.
+
+3 - O director-geral das Alfândegas determinará quais as estâncias aduaneiras competentes para o processamento dos despachos de importação do tabaco manufacturado.
+
+4 - Os modelos de requisição e estampilha a utilizar estão sujeitos a aprovação do director-geral das Alfândegas.
+
+5 - Compete à entidade referida no número anterior fixar as formalidades a observar no fornecimento de estampilhas e seu registo, bem como a forma e o prazo de garantia do imposto de consumo correspondente ao tabaco a importar e determinar a conversão em receita do Estado da garantia prestada quando tiver sido excedido o respectivo prazo.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 31.º
+
+É proibida a reexportação de tabaco manufacturado no estrangeiro para consumo de bordo de embarcações e aeronaves nacionais.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+### Capítulo III — Regime de exploração
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 32.º
+
+1 - A exploração da indústria do tabaco é vedada à iniciativa privada.                                                                       2 - É igualmente vedada à iniciativa privada a industrialização de outros produtos que substituam o tabaco na satisfação do hábito de fumar.
+
+3 - Enquanto se mantiverem as condições prevalecentes nas regiões autónomas poderão as empresas privadas já existentes concorrer transitoriamente com o sector público na exploração da indústria do tabaco.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 33.º
+
+1 - São considerados actos próprios da indústria do tabaco a envolumação de tabaco manufacturado, sendo proibida a sua prática fora dos recintos das fábricas tabaqueiras.
+
+2 - Pode ser autorizado, em condições a fixar por despacho do Ministro das Finanças e do Plano, o encapamento de cigarrilhas e charutos fora das áreas fiscalizadas, em regime de tarefa domiciliária.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+### Capítulo IV — Comercialização
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 34.º
+
+As empresas tabaqueiras podem exercer o comércio de tabaco de acordo com os seus estatutos.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 35.º
+
+1 - O tabaco manufacturado no continente e nas regiões autónomas deve conter, em local bem visível dos respectivos invólucros, pacotes ou volumes, o nome da empresa fabricante, a marca, o preço de venda ao público no território nacional de consumo e o número de unidades ou o peso líquido, no caso dos picados, do rapé e do tabaco de mascar, sem prejuízo de outras obrigações impostas por lei especial.
+
+2 - Tratando-se do invólucro, o preço de venda ao público poderá figurar em selo aposto pelo fabricante, de modo a não permitir a sua reutilização.
+
+3 - Nos invólucros, pacotes ou volumes destinados a consumo de bordo, a exportação ou às lojas francas, a indicação do preço de venda ao público será substituída pela designação «exportação», a qual, no caso dos invólucros, constará do respectivo corpo.
+
+4 - É proibida no continente e nas regiões autónomas a venda do tabaco referido no número anterior.
+
+5 - É igualmente proibida a venda em qualquer território nacional de tabaco ali produzido e destinado a consumo noutro território nacional, salvo se não houver diferença nos preços de venda ao público.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 36.º
+
+1 - O preço de venda ao público, por marcas de tabaco de fabrico nacional, será fixado por despacho conjunto dos Ministros das Finanças e do Plano e da Indústria e Tecnologia, ouvida a indústria respectiva.
+
+2 - Do despacho referido no número anterior constarão igualmente, por cada produto, as suas características e bem assim, sob proposta da indústria respectiva, as condições de comercialização a estabelecer para os respectivos intervenientes.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 37.º
+
+As características de apresentação das marcas, designadamente dos dizeres que constem dos invólucros, pacotes ou volumes, dependem de prévia aprovação dos serviços referidos no n.º 3 do artigo 10.º
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 38.º
+
+1 - O Ministro das Finanças e do Plano pode autorizar o fabrico, em quantidades limitadas, de embalagens miniatura de marcas já existentes ou a criar, com vista à promoção de vendas.
+
+2 - Nas embalagens referidas no número anterior, a indicação do preço de venda ao público será substituída pela designação «oferta» ou «exportação», consoante os casos.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+### Capítulo V — Disposições finais
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 39.º
+
+A falta de pagamento no prazo legal do imposto de consumo sobre o tabaco saído das áreas fiscalizadas, bem como das despesas referidas no artigo 18.º, implica a sujeição a juros de mora e relaxe nos termos constantes do Código do Processo das Contribuições e Impostos e demais legislação aplicável.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 40.º
+
+São aplicáveis ao regime tabaqueiro as sanções previstas na legislação sobre o contencioso fiscal aduaneiro, sem prejuízo das expressamente consignadas no presente diploma.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 41.º
+
+Considera-se contrabando a produção, fora das áreas fiscalizadas, de tabaco manufacturado ou de outros produtos que substituam o tabaco na satisfação do hábito de fumar, bem como a respectiva venda ou consumo.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 42.º
+
+O levantamento de dificuldades pelas empresas tabaqueiras ou seus representantes à fiscalização do regime tabaqueiro, designadamente à execução do n.º 4 do artigo 10.º, constitui transgressão punível com multa de 100000$00 a 2000000$00.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 43.º
+
+A infracção ao disposto no n.º 2 do artigo 14.º constitui transgressão punível com multa de 5000$00 a 20000$00.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 44.º
+
+A infracção ao disposto no n.º 2 do artigo 25.º constitui transgressão punível com multa de 5000$00 a 50000$00.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 45.º
+
+A infracção ao disposto nos n.os 1 e 2 do artigo 30.º considera-se delito de contrabando.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 46.º
+
+A venda de tabaco fabricado com infracção do artigo 35.º, n.os 1, 2 e 3, constitui transgressão punível com multa de 50000$00 a 1000000$00.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 47.º
+
+As infracções ao disposto nos n.os 4 e 5 do artigo 35.º consideram-se delito de contrabando.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 48.º
+
+As infracções ao disposto nos artigos 37.º e 38.º, n.º 2, constituem transgressões puníveis com multa de 50000$00 a 1000000$00.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 49.º
+
+Sem prejuízo do procedimento criminal e disciplinar aplicáveis, a subtracção do tabaco ou a simples tentativa de subtracção à fiscalização à saída das áreas fiscalizadas constituem transgressão punível com multa igual ao décuplo do imposto de consumo devido.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 50.º
+
+Com excepção do disposto no artigo 39.º, a instrução e julgamento dos processos instaurados por infracções ao presente diploma e aos que o alterem, completem ou regulamentem incumbem às autoridades e tribunais competentes.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 51.º
+
+Relativamente a assuntos respeitantes a qualquer das regiões autónomas, recairão nos correspondentes Secretários Regionais as competências atribuídas ao Ministro das Finanças e do Plano, ou a este e ao Ministro da Indústria e Tecnologia, no n.º 2 do artigo 5.º, n.º 4 do artigo 6.º, n.º 1 do artigo 8.º, n.º 2 do artigo 10.º, n.º 3 do artigo 15.º, n.º 3 do artigo 29.º - quanto à percentagem anual referida neste número -, n.º 7 do artigo 30.º, n.º 2 do artigo 33.º, n.º 1 do artigo 36.º e n.º 1 do artigo 38.º
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+###### Artigo 52.º
+
+São revogados os diplomas anteriores sobre o regime tabaqueiro, sem prejuízo do disposto nos artigos 63.º e 64.º das Instruções Preliminares da Pauta dos Direitos de Importação.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+###### Artigo 53.º
+
+As dúvidas sobre a interpretação deste decreto-lei serão resolvidas por despacho do Ministro das Finanças e do Plano, ouvidos os Secretários Regionais competentes, quando estejam em causa matérias que respeitem às regiões autónomas.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+Visto e aprovado em Conselho de Ministros. - Mário Soares - Vítor Manuel Ribeiro Constâncio.
+
+Promulgado em 13 de Junho de 1978.
+
+Publique-se.
+
+O Presidente da República, ANTÓNIO RAMALHO EANES.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+## Anexo MAPA N.º 1 — Imposto de consumo sobre os cigarros de fabrico nacional e importados
+
+1 - O imposto específico é constante para todos os tipos de cigarros e fixado em valor absoluto por milheiro de cigarros.
+
+2 - O imposto ad valorem resulta da aplicação de uma percentagem constante aos preços de venda ao público de todos os tipos de cigarros, tomando-se como base de incidência, quanto ao tabaco importado, o preço de venda ao público declarado pelo importador.
+
+3 - O montante do imposto específico e a taxa do imposto ad valorem são os constantes do quadro seguinte:
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Mapa do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+> Alterado pelo/a MAPA N.º 1 do/a [Decreto-Lei n.º 285-A/79 - Diário da República n.º 185/1979, 1º Suplemento, Série I de 1979-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-1979-483097), em vigor a partir de 1979-08-13
+
+## MAPA N.º 2 — Taxa de imposto de consumo - Tabaco picado
+
+O imposto de consumo sobre charutos, cigarrilhas, tabaco picado para enrolar e para cachimbo, rapé e tabaco de mascar reveste a forma ad valorem, resultando da aplicação ao respectivo preço de venda ao público das taxas seguintes:
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Mapa do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+> Alterado pelo/a MAPA N.º 2 do/a [Decreto-Lei n.º 285-A/79 - Diário da República n.º 185/1979, 1º Suplemento, Série I de 1979-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-1979-483097), em vigor a partir de 1979-08-13
+
+## MAPA N.º 3 — Taxas de imposto de consumo - Charutos e cigarrilhas
+
+O imposto de consumo aplicável a título excepcional e provisório a marcas de fabrico nacional é o seguinte:
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Alterado pelo/a Mapa do/a [Decreto-Lei n.º 34/84 - Diário da República n.º 20/1984, Série I de 1984-01-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34-1984-660883), em vigor a partir de 1984-01-29
+
+> Alterado pelo/a MAPA N.º 3 do/a [Decreto-Lei n.º 285-A/79 - Diário da República n.º 185/1979, 1º Suplemento, Série I de 1979-08-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-a-1979-483097), em vigor a partir de 1979-08-13
+
+## MAPA N.º 4 — Taxas de imposto de consumo - Rapé
+
+Peso por unidade de venda
+
+(ver documento original)
+
+Embalagens com mais de 1 kg, 17$00 por cada quilograma ou fracção.
+
+Notas explicativas
+
+Considera-se «rapé», «simonte» ou «cefálico» o tabaco transformado em pó, com ou sem adicionamento de pó inerte, aromatizado ou não, e destinado a inspiração nasal.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+## MAPA N.º 5 — Taxas de imposto de consumo - Cigarros (Açores)
+
+Embalagens com mais de cinquenta cigarros: por cada grupo de cinquenta cigarros ou fracção aplica-se a taxa correspondente às equivalentes embalagens de cinquenta cigarros.
+
+Nota. - São aplicáveis ao presente mapa as notas explicativas constantes do mapa n.º 1.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+## MAPA N.º 6 — Taxa de imposto de consumo - Tabaco picado (Açores)
+
+(Por unidade de venda)
+
+(ver documento original)
+
+Nas embalagens com mais de 70 g, no excedente a este peso aplica-se por cada 30 g ou fracção a taxa correspondente à equivalente embalagem de 30 g.
+
+Nota. - São aplicáveis ao presente mapa as notas explicativas constantes do mapa n.º 2.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+## MAPA N.º 7 — Taxas de imposto de consumo - Charutos e cigarrilhas (Açores)
+
+(ver documento original)
+
+Nota. - São aplicáveis ao presente mapa as notas explicativas constantes do mapa n.º 3.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+## MAPA N.º 8 — Taxas de imposto de consumo - Cigarros (Madeira)
+
+(ver documento original)
+
+Nota. - São aplicáveis ao presente mapa as notas explicativas constantes do mapa n.º 1.
+
+> Nota: [Declaração - Diário da República n.º 147/1978, Série I de 1978-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-298386) No mapa, onde se lê: «Escalões de comprimento (em milímetros) mais de 5 até 90», deve ler-se: «Escalões de comprimento (em milímetros) mais de 85 até 90». Antes da nota ao mapa, que refere" São aplicáveis ao presente mapa as notas explicativas constantes do mapa n.º 1.", deve ler-se "Embalagens com mais de cinquenta cigarros: por cada grupo de cinquenta cigarros ou fracção aplica-se a taxa correspondente às equivalentes embalagens de cinquenta cigarros."
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+> Retificado pelo/a [Declaração - Diário da República n.º 147/1978, Série I de 1978-06-29](https://diariodarepublica.pt/dr/detalhe/declaracao/1978-298386), em vigor a partir de 1978-06-29
+
+## MAPA N.º 9 — Taxas de imposto de consumo - Tabaco picado (Madeira)
+
+(Por unidade de venda)
+
+(ver documento original)
+
+Nas embalagens com mais de 70 g, no excedente a este peso aplica-se por cada 30 g ou fracção a taxa correspondente à equivalente embalagem de 30 g.
+
+Nota. - São aplicáveis ao presente mapa as notas explicativas constantes do mapa n.º 2.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05
+
+O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio.
+
+> Revogado pelo/a Artigo 70.º do/a [Decreto-Lei n.º 444/86 - Diário da República n.º 300/1986, 13º Suplemento, Série I de 1986-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/444-1986-627236), em vigor a partir de 1987-01-05

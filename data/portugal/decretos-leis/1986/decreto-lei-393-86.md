@@ -1,0 +1,114 @@
+---
+schema_version: '1.0'
+id: pt:dre:221491:por
+title: Decreto-Lei n.º 393/86
+short_title: null
+summary: Corrige as datas das promoções dos oficiais engenheiros das armas de engenharia e transmissões que iniciaram o respectivo
+  curso na Academia Militar em 1970 e terminaram em 1977
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 393/86
+official_date: null
+publication_date: '1986-11-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 271/1986, Série I de 1986-11-24
+  number: '271'
+  series: I
+  supplement: null
+  pages: 3532 - 3533
+  pdf_url: https://files.diariodarepublica.pt/1s/1986/11/27100/35323533.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '221491'
+  dre_path: /dr/detalhe/decreto-lei/393-1986-221491
+  internal: pt:dre:221491:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1986-221491
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/393-1986-221491
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-03-23T00:00:00Z'
+integrity:
+  source_sha256: 3677fdebc865cf32cfa3f512e27e185a11770ca3fc961900194f640b03dbc49a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1986/DRE-1986-393-221491.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:159993990:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 393/86
+
+de 24 de Novembro
+
+Considerando que o [Decreto-Lei n.º 47693](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47693-1967-313230), de 12 de Maio de 1967, veio conferir a mesma antiguidade na promoção a tenente aos oficiais dos diferentes cursos, independentemente da sua duração, ingressados na Academia Militar num mesmo ano;
+
+Considerando que o [Decreto-Lei n.º 633/74](https://diariodarepublica.pt/dr/detalhe/decreto-lei/633-1974-466045), de 20 de Novembro, ao suspender até 31 de Dezembro desse ano as condições de promoção previstas no artigo 74.º do [Decreto-Lei n.º 176/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-1971-644278), de 30 de Abril, veio permitir a promoção a tenente, desde 20 de Novembro de 1974, dos oficiais das armas de infantaria, artilharia, cavalaria e Serviço de Administração Militar que iniciaram os respectivos cursos na Academia Militar em 1970, omitindo os oficiais alunos dos cursos de Engenharia ingressados na Academia Militar no mesmo ano;
+
+Considerando que por tal motivo aqueles oficiais engenheiros, a quem veio a ser atribuída a antiguidade na promoção a tenente de 1 de Agosto de 1975, vieram a ficar desfasados cerca de oito meses na promoção em relação aos oficiais dos restantes cursos iniciados na Academia Militar em 1970;
+
+Considerando que foi criada uma situação de injustiça para com os oficiais de engenharia e transmissões atingidos por tal omissão e cujas consequências se têm vindo a projectar ao longo de toda a sua carreira militar e a que há que pôr fim:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo único. Aos oficiais engenheiros das armas de engenharia e transmissões que iniciaram o respectivo curso na Academia Militar em 1970 e terminaram em 1977 é corrigida a data da sua promoção a tenente para 20 de Novembro de 1974 e a data da promoção a capitão para 20 de Novembro de 1977.
+
+Visto e aprovado em Conselho de Ministros de 23 de Outubro de 1986. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida.
+
+**Promulgado em 7 de Novembro de 1986.**
+
+**Publique-se.**
+
+**O Presidente da República, MÁRIO SOARES.**
+
+**Referendado em 12 de Novembro de 1986.**
+
+**O Primeiro-Ministro, Aníbal António Cavaco Silva.**

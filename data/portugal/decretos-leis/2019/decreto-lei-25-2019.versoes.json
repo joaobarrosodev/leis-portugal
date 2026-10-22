@@ -1,0 +1,233 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:119386283:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2019-119401075",
+ "dre_path": "/dr/detalhe/decreto-lei/25-2019-119386283",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2019-02-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "119401175",
+    "119401176",
+    "119401177",
+    "119401178",
+    "119401179",
+    "119401180",
+    "119401181",
+    "119401182",
+    "119401184",
+    "119401185"
+   ]
+  },
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:164798789:por",
+     "title": "Lei n.º 34/2021",
+     "published": "2021-06-08",
+     "dre_path": "/dr/detalhe/lei/34-2021-164798789"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 4.º-A",
+    "Adita Artigo 5.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "119401175",
+    "119401176",
+    "119401177",
+    "164826085",
+    "164826086",
+    "164826088",
+    "164826089",
+    "164826095",
+    "164826096",
+    "164826097",
+    "164826098",
+    "164826099",
+    "164826100"
+   ]
+  }
+ ],
+ "fragments": {
+  "119401175": {
+   "fragment_id": "119401076",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 25/2019\n\nde 11 de fevereiro\n\nO Decreto-Lei n.º 111/2017, de 31 de agosto, veio estabelecer o regime legal da carreira especial de técnico superior das áreas de diagnóstico e terapêutica e os respetivos requisitos de habilitação profissional.\n\nEmbora, nos termos do n.º 1 do artigo 20.º do mencionado diploma, tenha sido extinta a carreira de técnico de diagnóstico e terapêutica, criada nos termos do Decreto-Lei n.º 564/99, de 21 de dezembro, a transição dos trabalhadores integrados na anterior carreira para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica faz-se, como expressamente resulta do n.º 2 do mesmo dispositivo legal, nos termos a definir no diploma que venha a estabelecer o regime remuneratório aplicável a esta última carreira.\n\nAssim, em cumprimento do disposto no artigo 18.º e no n.º 2 do artigo 20.º, ambos do Decreto-Lei n.º 111/2017, de 31 de agosto, e em conformidade com os princípios e regras consagrados na Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, o presente decreto-lei estabelece, por categoria, o número de posições remuneratórias da carreira especial de técnico superior das áreas de diagnóstico e terapêutica, bem como identifica os correspondentes níveis remuneratórios e, ainda, as regras de transição dos trabalhadores integrados na carreira anteriormente prevista no Decreto-Lei n.º 564/99, de 21 de dezembro, para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica.\n\nForam observados os procedimentos previstos na Lei Geral do Trabalho em Funções Públicas, na sua redação atual.\n\nAssim:\n\nNos termos do artigo 18.º do Decreto-Lei n.º 111/2017, de 31 de agosto, e da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "119401176": {
+   "fragment_id": "119401077",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - O presente decreto-lei estabelece o número de posições remuneratórias das categorias da carreira especial de técnico superior das áreas de diagnóstico e terapêutica e identifica os respetivos níveis da tabela remuneratória única.\n\n2 - O presente decreto-lei define ainda as regras de transição dos trabalhadores integrados na carreira de técnico de diagnóstico e terapêutica, prevista no Decreto-Lei n.º 564/99, de 21 de dezembro, para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica."
+  },
+  "119401177": {
+   "fragment_id": "119401078",
+   "type": 11,
+   "heading": "Artigo 2.º — Posições remuneratórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Posições remuneratórias\n\n1 - O número de posições remuneratórias das categorias da carreira especial de técnico superior das áreas de diagnóstico e terapêutica, aprovada pelo Decreto-Lei n.º 111/2017, de 31 de agosto, bem como a identificação dos correspondentes níveis remuneratórios da tabela remuneratória única, constam do anexo i ao presente decreto-lei, do qual faz parte integrante.\n\n2 - Na categoria de técnico superior das áreas de diagnóstico e terapêutica são criadas as posições remuneratórias complementares a que correspondem os níveis remuneratórios constantes do anexo ii ao presente decreto-lei, do qual faz parte integrante.\n\n3 - As posições remuneratórias complementares previstas no número anterior são consideradas para efeitos de aplicação do disposto no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, mantido em vigor pela alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n4 - Todos os trabalhadores que transitem para a categoria de técnico superior da área de diagnóstico e terapêutica e constem da lista nominativa referida no artigo 109.º da Lei n.º 12-A/2008, de 27 de fevereiro, mantido em vigor pela alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual, podem vir a ser posicionados, verificados os requisitos legais, nas posições remuneratórias complementares.\n\n5 - A alteração da posição remuneratória na categoria efetua-se nos termos previstos nos artigos 156.º e seguintes da Lei Geral do Trabalho em Funções Públicas, na sua redação atual."
+  },
+  "119401178": {
+   "fragment_id": "119401079",
+   "type": 11,
+   "heading": "Artigo 3.º — Transição dos trabalhadores integrados na carreira prevista no Decreto-Lei n.º 564/99, de 21 de dezembro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Transição dos trabalhadores integrados na carreira prevista no Decreto-Lei n.º 564/99, de 21 de dezembro\n\n1 - Os trabalhadores integrados na carreira de técnico de diagnóstico e terapêutica prevista no Decreto-Lei n.º 564/99, de 21 de dezembro, transitam para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica, aprovada pelo Decreto-Lei n.º 111/2017, de 31 de agosto, nos termos seguintes:\n\na) Transitam para a categoria de técnico superior das áreas de diagnóstico e terapêutica especialista os trabalhadores que sejam titulares da categoria de técnico especialista de 1.ª classe;\n\nb) Transitam para a categoria de técnico superior das áreas de diagnóstico e terapêutica os restantes trabalhadores.\n\n2 - O tempo de serviço a considerar para efeitos de recrutamento para integração na categoria superior será contado nos seguintes termos:\n\na) Para efeitos de recrutamento para a categoria de técnico superior das áreas de diagnóstico e terapêutica especialista principal, releva o tempo de serviço prestado na categoria de técnico especialista de 1.ª classe;\n\nb) Para efeitos de recrutamento para a categoria de técnico superior das áreas de diagnóstico e terapêutica especialista, releva o tempo de serviço prestado nas categorias de técnico de 2.ª classe, técnico de 1.ª classe, técnico principal e técnico especialista."
+  },
+  "119401179": {
+   "fragment_id": "119401080",
+   "type": 11,
+   "heading": "Artigo 4.º — Reposicionamento remuneratório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Reposicionamento remuneratório\n\n1 - Sem prejuízo do disposto no número seguinte, na transição para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica, como resulta do n.º 3 do artigo 20.º do Decreto-Lei n.º 111/2017, de 31 de maio, os trabalhadores são reposicionados de acordo com o regime estabelecido no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, mantido em vigor pela alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho, na sua redação atual.\n\n2 - Nos casos em que a remuneração base a que os técnicos de diagnóstico e terapêutica atualmente têm direito seja inferior ao montante pecuniário correspondente ao nível remuneratório da primeira posição da categoria para que, nos termos previstos no artigo anterior, devam transitar, o pagamento dos acréscimos remuneratórios a que o trabalhador tenha direito é faseado nos seguintes termos:\n\na) Entre 1 de janeiro e 30 de junho de 2019, 50 %;\n\nb) Entre 1 de julho e 31 de agosto de 2019, 75 %;\n\nc) A partir de 1 de setembro de 2019, 100 %."
+  },
+  "119401180": {
+   "fragment_id": "119401081",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Disposição transitória\n\n1 - Enquanto não se encontrar concluído o reposicionamento de todos os técnicos de diagnóstico e terapêutica, nos termos previstos no n.º 2 do artigo anterior, a entidade empregadora pública apenas pode propor aos candidatos aprovados em procedimentos concursais para o recrutamento de trabalhadores necessários à ocupação de postos de trabalho para qualquer uma das categorias em que a carreira especial de técnico superior das áreas de diagnóstico e terapêutica se desenvolve, a remuneração mais baixa que, no correspondente período de faseamento, seja aplicável.\n\n2 - Nas situações previstas no número anterior, o trabalhador recrutado passa a estar sujeito, sendo o caso, às regras de faseamento previstas no n.º 2 do artigo anterior.\n\n3 - Durante o ano de 2019 é desenvolvido um levantamento de necessidades, tendo em vista a abertura de procedimentos concursais, neste mesmo ano, para preenchimento de postos de trabalho nas categorias de técnico superior das áreas de diagnóstico e terapêutica especialista e de técnico superior das áreas de diagnóstico e terapêutica especialista principal da carreira especial de técnico superior das áreas de diagnóstico e terapêutica."
+  },
+  "119401181": {
+   "fragment_id": "119401082",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 111/2017, de 31 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 111/2017, de 31 de agosto\n\nO artigo 15.º do Decreto-Lei n.º 111/2017, de 31 de agosto, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - Para efeitos dos números anteriores, são utilizados os seguintes métodos de seleção no procedimento concursal:\n\na) Avaliação curricular;\n\nb) Prova pública de discussão curricular;\n\nc) Prova pública de discussão de monografia.»"
+  },
+  "119401182": {
+   "fragment_id": "119401083",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "119401184": {
+   "fragment_id": "119401085",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nCarreira especial de técnico superior das áreas de diagnóstico e terapêutica\n\n(ver documento original)"
+  },
+  "119401185": {
+   "fragment_id": "119401086",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 2.º)\n\nPosições remuneratórias complementares\n\n(ver documento original)\n\n112044281"
+  },
+  "164826085": {
+   "fragment_id": "119401079",
+   "type": 11,
+   "heading": "Artigo 3.º — Transição dos trabalhadores integrados na carreira prevista no Decreto-Lei n.º 564/99, de 21 de dezembro",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Transição dos trabalhadores integrados na carreira prevista no Decreto-Lei n.º 564/99, de 21 de dezembro\n\nTransição dos trabalhadores integrados na carreira prevista no Decreto-Lei n.º 564/99, de 21 de dezembro\n\n1 - Os trabalhadores integrados na carreira de técnico de diagnóstico e terapêutica prevista no Decreto-Lei n.º 564/99, de 21 de dezembro, transitam para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica, aprovada pelo Decreto-Lei n.º 111/2017, de 31 de agosto, nos termos seguintes:\n\na) Transitam para a categoria de técnico superior das áreas de diagnóstico e terapêutica especialista principal os trabalhadores que sejam titulares da categoria de técnico especialista de 1.ª classe;\n\nb) Transitam para a categoria de técnico superior das áreas de diagnóstico e terapêutica especialista os trabalhadores que sejam titulares da categoria de técnico especialista;\n\nc) Transitam para a categoria de técnico superior das áreas de diagnóstico e terapêutica os trabalhadores que sejam titulares da categoria de técnico principal, técnico de 1.ª classe e técnico de 2.ª classe.\n\n2 - O tempo de serviço a considerar para efeitos de recrutamento para integração na categoria superior será contado nos seguintes termos:\n\na) Para efeitos de recrutamento para a categoria de técnico superior das áreas de diagnóstico e terapêutica especialista principal, releva o tempo de serviço prestado pelos trabalhadores que sejam titulares da categoria de técnico especialista;\n\nb) Para efeitos de recrutamento para a categoria de técnico superior das áreas de diagnóstico e terapêutica especialista, releva o tempo de serviço prestado nas categorias de técnico principal, de técnico de 1.ª classe e de técnico de 2.ª classe.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+  },
+  "164826086": {
+   "fragment_id": "119401080",
+   "type": 11,
+   "heading": "Artigo 4.º — Reposicionamento remuneratório",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 4.º — Reposicionamento remuneratório\n\n1 - Sem prejuízo do disposto nos números seguintes, na transição para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica, resultante do n.º 3 do artigo 20.º do Decreto-Lei n.º 111/2017, de 31 de agosto, os trabalhadores são reposicionados de acordo com o regime estabelecido no artigo 104.º da Lei n.º 12-A/2008, de 27 de fevereiro, mantido em vigor pela alínea c) do n.º 1 do artigo 42.º da Lei n.º 35/2014, de 20 de junho.\n\n2 - Nos casos em que a remuneração base a que os técnicos de diagnóstico e terapêutica atualmente têm direito seja inferior ao montante pecuniário correspondente ao nível remuneratório da primeira posição da categoria para que, nos termos previstos no artigo anterior, devam transitar, o pagamento dos acréscimos remuneratórios a que o trabalhador tenha direito é faseado nos seguintes termos:\n\na) Entre 1 de janeiro e 30 de junho de 2019, 50 %;\n\nb) Entre 1 de julho e 31 de agosto de 2019, 75 %;\n\nc) A partir de 1 de setembro de 2019, 100 %.\n\n3 - Na transição para a carreira especial de técnico superior das áreas de diagnóstico e terapêutica, os trabalhadores são reposicionados no nível remuneratório cujo montante pecuniário seja idêntico ao montante pecuniário correspondente à remuneração base a que tinham direito a 31 de dezembro de 2017.\n\n4 - A transição para a nova carreira prevista nos números anteriores não equivale a alteração da posição remuneratória obrigatória, mantendo todos os trabalhadores a totalidade dos pontos obtidos na pretérita carreira de técnico de diagnóstico e terapêutica, por forma a que o reposicionamento remuneratório decorrente dos Orçamentos do Estado para 2018 e 2019 possa ocorrer na carreira de técnico superior de diagnóstico e terapêutica, nos termos do artigo seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+  },
+  "164826088": {
+   "fragment_id": "164798815",
+   "type": 11,
+   "heading": "Artigo 4.º-A — Reposicionamento remuneratório decorrente da Lei n.º 114/2017, de 29 de dezembro",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 4.º-A — Reposicionamento remuneratório decorrente da Lei n.º 114/2017, de 29 de dezembro\n\n1 - As valorizações remuneratórias previstas no artigo 18.º e seguintes da Lei n.º 114/2017, de 29 de dezembro, e no artigo 16.º da Lei n.º 71/2018, de 31 de dezembro, Orçamento do Estado para 2018 e 2019, respetivamente, devem ocorrer na nova carreira especial de técnico superior das áreas de diagnóstico e terapêutica, sem efeitos retroativos de natureza pecuniária.\n\n2 - Para efeito das valorizações remuneratórias referidas no número anterior, devem ser contabilizados os pontos correspondentes ao tempo de serviço e à avaliação de desempenho da pretérita carreira de técnico de diagnóstico e terapêutica.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+  },
+  "164826089": {
+   "fragment_id": "119401081",
+   "type": 11,
+   "heading": "Artigo 5.º — Disposição transitória",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º — Disposição transitória\n\n1 - Enquanto não se encontrar concluído o reposicionamento de todos os técnicos de diagnóstico e terapêutica, nos termos previstos no n.º 2 do artigo anterior, a entidade empregadora pública apenas pode propor aos candidatos aprovados em procedimentos concursais para o recrutamento de trabalhadores necessários à ocupação de postos de trabalho para qualquer uma das categorias em que a carreira especial de técnico superior das áreas de diagnóstico e terapêutica se desenvolve, a remuneração mais baixa que, no correspondente período de faseamento, seja aplicável.\n\n2 - Nas situações previstas no número anterior, o trabalhador recrutado passa a estar sujeito, sendo o caso, às regras de faseamento previstas no n.º 2 do artigo anterior.\n\n3 - Durante o ano de 2022 é desenvolvido um levantamento de necessidades, tendo em vista a abertura de procedimentos concursais, neste mesmo ano, para preenchimento de postos de trabalho nas categorias de técnico superior das áreas de diagnóstico e terapêutica especialista e especialista principal da carreira especial de técnico superior das áreas de diagnóstico e terapêutica.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+  },
+  "164826095": {
+   "fragment_id": "164798816",
+   "type": 11,
+   "heading": "Artigo 5.º-A — Âmbito de aplicação",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "###### Artigo 5.º-A — Âmbito de aplicação\n\nO presente regime aplica-se, com as necessárias adaptações, a todos os trabalhadores que estejam integrados na carreira especial de técnico superior das áreas de diagnóstico e terapêutica, independentemente do vínculo contratual.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 34/2021 - Diário da República n.º 110/2021, Série I de 2021-06-08](https://diariodarepublica.pt/dr/detalhe/lei/34-2021-164798789), em vigor a partir de 2022-01-01"
+  },
+  "164826096": {
+   "fragment_id": "119401082",
+   "type": 11,
+   "heading": "Artigo 6.º — Alteração ao Decreto-Lei n.º 111/2017, de 31 de agosto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Alteração ao Decreto-Lei n.º 111/2017, de 31 de agosto\n\nO artigo 15.º do Decreto-Lei n.º 111/2017, de 31 de agosto, passa a ter a seguinte redação:\n\n«Artigo 15.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - Para efeitos dos números anteriores, são utilizados os seguintes métodos de seleção no procedimento concursal:\n\na) Avaliação curricular;\n\nb) Prova pública de discussão curricular;\n\nc) Prova pública de discussão de monografia.»"
+  },
+  "164826097": {
+   "fragment_id": "119401083",
+   "type": 11,
+   "heading": "Artigo 7.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "164826098": {
+   "fragment_id": "119401084",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de janeiro de 2019. - António Luís Santos da Costa - Maria de Fátima de Jesus Fonseca - Marta Alexandra Fartura Braga Temido de Almeida Simões.\n\nPromulgado em 3 de fevereiro de 2019.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 5 de fevereiro de 2019.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "164826099": {
+   "fragment_id": "119401085",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o n.º 1 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o n.º 1 do artigo 2.º)\n\nCarreira especial de técnico superior das áreas de diagnóstico e terapêutica\n\n(ver documento original)"
+  },
+  "164826100": {
+   "fragment_id": "119401086",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o n.º 2 do artigo 2.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o n.º 2 do artigo 2.º)\n\nPosições remuneratórias complementares\n\n(ver documento original)\n\n112044281"
+  }
+ }
+}

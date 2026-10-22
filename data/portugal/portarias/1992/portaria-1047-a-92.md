@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:391824:por
+title: Portaria n.º 1047-A/92
+short_title: null
+summary: Prorroga o período de inscrição do benefício fiscal ao gasóleo agrícola
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Agricultura
+proposing_entity: null
+official_number: 1047-A/92
+official_date: null
+publication_date: '1992-11-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 259/1992, 3º Suplemento, Série I-B de 1992-11-09
+  number: '259'
+  series: I
+  supplement: 3º Suplemento
+  pages: 5176-(16) a 5176-(16)
+  pdf_url: https://files.diariodarepublica.pt/1s/1992/11/259b03/00160016.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/1047-a/1992/11/09/p/dre/pt/html
+  oj: null
+  dre: '391824'
+  dre_path: /dr/detalhe/portaria/1047-a-1992-391824
+  internal: pt:dre:391824:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1047-a-1992-391824
+  metadata_url: https://data.dre.pt/eli/port/1047-a/1992/11/09/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1047-a-1992-391824
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1992-11-09T00:00:00Z'
+integrity:
+  source_sha256: d30e2aa6f2a854d277726897214666ba16ed01758b71b417623858788c57d7c7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1992/DRE-1992-1047-A-391824.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Imposto de Compensação
+- Contribuições e Impostos
+- Prorrogação de Prazo
+- Equipamento Agrícola
+- Benefícios Fiscais
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/261-a/1991/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/261-a/1991/07/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/376/1991/10/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/376/1991/10/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/987/1992/10/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/987/1992/10/20/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1047-A/92
+
+de 9 de Novembro
+
+A [Portaria n.º 987/92](https://diariodarepublica.pt/dr/detalhe/portaria/987-1992-220734), de 20 de Outubro, que prevê o regime aplicável em 1993 do benefício fiscal ao gasóleo agrícola, estabelece no seu n.º 6.º o respectivo período de inscrição, o qual importa prorrogar.
+
+Assim, ao abrigo do disposto no n.º 14 do artigo 7.º do [Decreto-Lei n.º 261-A/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/261-a-1991-416073), de 25 de Julho, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 376/91](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1991-288233), de 9 de Outubro:
+
+Manda o Governo, pelos Ministros das Finanças e da Agricultura, que o n.º 6.º da [Portaria n.º 987/92](https://diariodarepublica.pt/dr/detalhe/portaria/987-1992-220734), de 20 de Outubro, passe a ter a seguinte redacção:
+
+6.º O período de inscrição decorrerá até 16 de Novembro do ano em curso.
+
+Ministérios das Finanças e da Agricultura.
+
+**Assinada em 5 de Novembro de 1992.**
+
+Pelo Ministro das Finanças, Maria Manuela Dias Ferreira Leite, Secretária de Estado Adjunta e do Orçamento. - Pelo Ministro da Agricultura, Álvaro dos Santos Amaro, Secretário de Estado da Agricultura.

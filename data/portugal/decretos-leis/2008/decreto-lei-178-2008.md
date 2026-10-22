@@ -1,0 +1,288 @@
+---
+schema_version: '1.0'
+id: pt:dre:453537:por
+title: Decreto-Lei n.º 178/2008
+short_title: null
+summary: Define os critérios de aplicação e montantes de taxas a cobrar nos termos do Regulamento (CE) n.º 882/2004, do Parlamento
+  Europeu e do Conselho, de 29 de Abril, relativo à inspecção sanitária dos produtos de origem animal e revoga os Decretos-Leis
+  n.os 433/89, de 16 de Dezembro, e 208/99, de 11 de Julho
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 178/2008
+official_date: null
+publication_date: '2008-08-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 164/2008, Série I de 2008-08-26
+  number: '164'
+  series: I
+  supplement: null
+  pages: 5992 - 5995
+  pdf_url: https://files.diariodarepublica.pt/1s/2008/08/16400/0599205995.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/178/2008/08/26/p/dre/pt/html
+  oj: null
+  dre: '453537'
+  dre_path: /dr/detalhe/decreto-lei/178-2008-453537
+  internal: pt:dre:453537:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2008-453537
+  metadata_url: https://data.dre.pt/eli/dec-lei/178/2008/08/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2008-453537
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2026-05-21T00:00:00Z'
+integrity:
+  source_sha256: 84409f444b541808aa5dc7d4410717d5c3e24aaa6245ecba3ad2fed9846f03d7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2008/DRE-2008-178-453537.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Produção Animal
+- Contra-ordenação
+- Direção Geral de Veterinária
+- Definição de Competências
+- Controlo Sanitário
+- Fiscalização
+- ASAE
+- Madeira.região Autónoma
+- Açores
+- Taxa
+- Produto Animal
+relationships:
+- type: amended_by
+  target: pt:dre:1125313602:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31985L0073
+  label: null
+  source: http://data.europa.eu/eli/dir/1985/73/oj
+- type: cites
+  target: celex:31996L0043
+  label: null
+  source: http://data.europa.eu/eli/dir/1996/43/oj
+- type: cites
+  target: celex:31998D0728
+  label: null
+  source: http://data.europa.eu/eli/dec/1998/728/oj
+- type: cites
+  target: celex:32002R1774
+  label: null
+  source: http://data.europa.eu/eli/reg/2002/1774/oj
+- type: cites
+  target: celex:32003R0183
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/183/oj
+- type: cites
+  target: celex:32004R0853
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/853/oj
+- type: cites
+  target: celex:32004R0882
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/882/oj
+article_structure:
+  article_count: 15
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 178/2008
+
+de 26 de Agosto
+
+O Regulamento (CE) n.º [882/2004](https://data.europa.eu/eli/reg/2004/882/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, determina que os Estados membros devem assegurar a cobrança de uma taxa às actividades de produção, preparação e transformação de produtos de origem animal e alimentos para animais;
+
+Essa taxa destina-se a suportar financeiramente os actos de verificação e inspecção hígio-sanitária, tendo como referenciais os salários e as despesas relativas ao pessoal, incluindo instalações, instrumentos, equipamento, formação, deslocações e despesas conexas e ainda despesas com colheita e envio de amostras e análises laboratoriais.
+
+O mesmo Regulamento (CE) n.º [882/2004](https://data.europa.eu/eli/reg/2004/882/oj?locale=pt), revoga a Directiva n.º [85/73/CEE](https://data.europa.eu/eli/dir/1985/73/oj?locale=pt), do Conselho, de 29 de Janeiro, relativa ao financiamento das inspecções e controlos sanitários devendo os Estados membros rever as disposições internas que resultavam da adopção da citada Directiva.
+
+É ainda revogada. pelo citado Regulamento, a Decisão n.º [98/728/CE](https://data.europa.eu/eli/dec/1998/728/oj?locale=pt), do Conselho, de 14 de Dezembro, relativa a um sistema comunitário de taxas no sector da alimentação animal.
+
+Assim, concomitantemente com o estabelecimento das normas de cobrança de taxas de acordo com os critérios do Regulamento (CE) n.º [882/2004](https://data.europa.eu/eli/reg/2004/882/oj?locale=pt), há que revogar o Decreto-Lei n.º 208/99, de 11 de Junho, que transpôs o ordenamento jurídico nacional a Directiva n.º [96/43/CE](https://data.europa.eu/eli/dir/1996/43/oj?locale=pt), do Conselho, de 26 de Junho, que havia alterado e codificado a Directiva n.º [85/73/CEE](https://data.europa.eu/eli/dir/1985/73/oj?locale=pt), do Conselho, de 29 de Janeiro.
+
+Foram ouvidos os órgãos de governo próprio das regiões autónomas.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Âmbito
+
+1 - O presente decreto-lei define os critérios de aplicação e montantes de taxas a cobrar nos termos do Regulamento (CE) n.º [882/2004](https://data.europa.eu/eli/reg/2004/882/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, relativo aos controlos oficiais realizados para assegurar a verificação do cumprimento da legislação relativa aos alimentos para animais e aos géneros alimentícios e das normas relativas à saúde e ao bem estar dos animais, adiante designado por Regulamento, no que se refere aos estabelecimentos aprovados no âmbito do Regulamento (CE) n.º [853/2004](https://data.europa.eu/eli/reg/2004/853/oj?locale=pt), do Parlamento Europeu e do Conselho, de 29 de Abril, aos estabelecimentos de subprodutos abrangidos pelo Regulamento (CE) n.º [1774/2002](https://data.europa.eu/eli/reg/2002/1774/oj?locale=pt), do Parlamento Europeu e do Conselho, de 3 de Outubro, e aos estabelecimentos do sector da alimentação animal abrangidos pelo Regulamento (CE) n.º [183/2003](https://data.europa.eu/eli/reg/2003/183/oj?locale=pt), do Parlamento Europeu e do Conselho, de 12 de Janeiro.
+
+2 - As taxas estabelecidas no presente decreto-lei não são aplicáveis aos actos realizados para efeitos de aprovação dos estabelecimentos pela Direcção-Geral de Veterinária, adiante designada por DGV, para os quais esteja prevista uma taxa específica na legislação que regula o respectivo processo de licenciamento.
+
+###### Artigo 2.º — Gestão das taxas
+
+1 - Compete à DGV a coordenação e a execução das acções de verificação e inspecção a desenvolver para a execução do presente decreto-lei.
+
+2 - O produto das taxas previstos no presente decreto-lei constitui receita própria da DGV, à qual compete a respectiva gestão.
+
+3 - A DGV pode reafectar, total ou parcialmente, o montante das taxas a entidades públicas nas quais seja delegada a execução de actos de verificação e inspecção no âmbito do presente decreto-lei.
+
+###### Artigo 3.º — Fixação do montante das taxas
+
+1 - Os estabelecimentos ou operadores cujas actividades se encontram previstas nos anexos iv e v do Regulamento são obrigados ao pagamento do montante da taxa estabelecido nos mesmos anexos.
+
+2 - Os estabelecimentos ou operadores cujas actividades não se encontram previstas nos anexos iv e v do Regulamento devem pagar o montante da taxa fixado por portaria do membro do Governo responsável pelas áreas da agricultura, do desenvolvimento rural e das pescas.
+
+3 - Caso num estabelecimento seja praticada mais do que uma actividade, é considerada para efeito de cobrança de uma taxa única a actividade a que nos termos do presente decreto-lei corresponda a taxa de montante mais elevado.
+
+4 - A taxa a cobrar pelos actos realizados para efeitos de aprovação dos estabelecimentos pela DGV, para os quais não esteja prevista uma taxa específica na legislação que regula o respectivo processo de licenciamento, é fixada por portaria do membro do Governo responsável pelas áreas da agricultura, do desenvolvimento rural e das pescas.
+
+5 - Os laboratórios que prestam apoio aos estabelecimentos abrangidos pelo presente decreto-lei, designadamente no âmbito do autocontrolo, são obrigados ao pagamento do montante da taxa fixado por portaria do membro do Governo responsável pelas áreas da agricultura, do desenvolvimento rural e das pescas.
+
+###### Artigo 4.º — Pagamento das taxas
+
+1 - Os agentes económicos obrigados ao pagamento de taxas nos termos do presente decreto-lei devem depositar os montantes devidos nos termos e condições estabelecidos em portaria do membro do Governo responsável pelas áreas da agricultura, do desenvolvimento rural e das pescas.
+
+2 - Cumulativamente com a obrigação prevista no número anterior e nas mesmas condições, os agentes económicos, designadamente aqueles cujas actividades sejam abrangidos pelos anexos iv ou v do Regulamento, devem enviar os documentos comprovativos dos quantitativos de produtos movimentados.
+
+###### Artigo 5.º — Abrangência da taxa
+
+1 - Os montantes das taxas fixados nos termos do artigo 3.º compreendem o pagamento de:
+
+a) Actos de verificação e inspecção hígio-sanitária aos estabelecimentos;
+
+b) Inspecção hígio-sanitária oficial dos produtos de origem animal, nos casos em que a mesma é obrigatória;
+
+c) Actos de verificação e inspecção hígio-sanitária que decorram do normal funcionamento do estabelecimento, designadamente a certificação hígio-sanitária de produtos de origem animal;
+
+d) Colheita de amostras para análise laboratorial no âmbito de programas oficiais;
+
+e) Controlos relativos à protecção dos animais no abate e occisão no âmbito do Decreto-Lei n.º 28/96, de 2 de Abril, relativo à protecção dos animais no abate e ou occisão.
+
+2 - As taxas fixadas nos termos do artigo 3.º não incluem actos inspectivos suplementares, designadamente os que decorram de verificações, colheita de amostras, análises ou outras medidas necessárias para verificar a dimensão de um problema específico, para determinação de verificação do cumprimento da legislação aplicável, designadamente em caso de incapacidade de demonstração pelo responsável pelo estabelecimento de factos de demonstração obrigatória.
+
+3 - O montante a pagar pelos operadores económicos sujeitos aos actos inspectivos suplementares referidos no número anterior é fixado por portaria do membro do Governo responsável pelas áreas da agricultura, do desenvolvimento rural e das pescas.
+
+4 - Os custos dos actos inspectivos a que se refere o n.º 2 do presente artigo não são imputados ao responsável pelo estabelecimento caso seja provada a ausência de dolo ou negligência deste.
+
+###### Artigo 6.º — Majoração das taxas
+
+A taxa de inspecção sanitária pode ser majorada ou reduzida nos termos e condições estabelecidas em portaria do membro do Governo responsável pelas áreas da agricultura, do desenvolvimento rural e das pescas.
+
+###### Artigo 7.º — Actualização das taxas
+
+1 - As taxas são actualizadas anualmente, na percentagem da taxa de inflação, com exclusão da habitação, publicada pelo Instituto Nacional de Estatística, verificada no ano anterior.
+
+2 - A primeira actualização das taxas tem lugar em Janeiro de 2010.
+
+###### Artigo 8.º — Não pagamento e cobrança coerciva das taxas
+
+1 - O não pagamento das taxas no prazo estabelecido nos termos do artigo 4.º constitui o devedor em mora, sendo devidos juros legais desde a data do vencimento da taxa.
+
+2 - A cobrança coerciva das taxas em dívida é efectuada nos termos previstos na lei, através do processo de execução fiscal.
+
+3 - O processo referido no número anterior tem por base certidão emitida pela DGV, com valor de título executivo, de acordo com o disposto no artigo 163.º do Código do Procedimento e do Processo Tributário.
+
+###### Artigo 9.º — Fiscalização
+
+Compete à DGV e à Autoridade de Segurança Alimentar e Económica, no âmbito das respectivas competências, a fiscalização do cumprimento das normas do Regulamento, bem como do presente decreto-lei, sem prejuízo das competências atribuídas por lei a outras entidades.
+
+###### Artigo 10.º — Contra-ordenações
+
+1 - Constitui contra-ordenação punível com coima no montante mínimo de (euro) 250 ou (euro) 500 e máximo de (euro) 3740 ou (euro) 44 890, consoante o agente seja pessoa singular ou colectiva, a violação das normas do Regulamento, bem como do presente decreto-lei, designadamente:
+
+a) A não comunicação à DGV das informações pertinentes, designadamente dos documentos comprovativos dos quantitativos de produtos movimentados e dos documentos comprovativos que atestem os depósitos das taxas pagas;
+
+b) A comunicação à DGV das informações referidas na alínea anterior depois de ultrapassados os prazos estabelecidos para o efeito no presente decreto-lei;
+
+c) O não pagamento do montante das taxas devidas nos termos do presente decreto-lei;
+
+d) O pagamento do montante das taxas devidas depois de ultrapassados os prazos estabelecidos para o efeito no presente decreto-lei;
+
+e) O impedimento ou criação de obstáculos aos controlos e inspecções a realizar.
+
+2 - A tentativa e a negligência são puníveis.
+
+###### Artigo 11.º — Sanções acessórias
+
+Consoante a gravidade da contra-ordenação e a culpa do agente, podem ser aplicadas, simultaneamente com a coima, as seguintes sanções acessórias:
+
+a) Perda de bens a favor do Estado;
+
+b) Interdição do exercício de uma profissão ou actividade cujo exercício dependa de título público ou de autorização ou homologação de autoridade pública;
+
+c) Privação do direito a subsídio ou benefício outorgado por entidades ou serviços públicos;
+
+d) Privação do direito de participar em feiras ou mercados;
+
+e) Encerramento do estabelecimento cujo funcionamento esteja sujeito a autorização ou licença de autoridade administrativa;
+
+f) Suspensão de autorizações, licenças e alvarás.
+
+###### Artigo 12.º — Instrução e decisão
+
+1 - A aplicação das coimas e sanções acessórias compete ao director-geral de Veterinária.
+
+2 - A entidade que levantar o auto de notícia remete o mesmo, para instrução do competente processo, às unidades orgânicas desconcentradas da DGV da área da prática da infracção.
+
+###### Artigo 13.º — Afectação do produto das coimas
+
+O produto das coimas é distribuído da seguinte forma:
+
+a) 10 % para a entidade que levantou o auto;
+
+b) 30 % para a DGV;
+
+c) 60 % para os cofres do Estado.
+
+###### Artigo 14.º — Regiões autónomas
+
+A execução administrativa do presente decreto-lei nas Regiões Autónomas dos Açores e da Madeira, cabe aos serviços competentes das respectivas administrações regionais, sem prejuízo das competências atribuída à DGV, na qualidade de autoridade sanitária veterinária nacional.
+
+###### Artigo 15.º — Norma revogatória
+
+São revogados os Decretos-Leis n.os 433/89, de 16 de Dezembro, e 208/99, de 11 de Julho.
+
+Visto e aprovado em Conselho de Ministros de 29 de Maio de 2008. - José Sócrates Carvalho Pinto de Sousa - João Titterington Gomes Cravinho - Emanuel Augusto dos Santos - Manuel António Gomes de Almeida de Pinho - Jaime de Jesus Lopes Silva.
+
+**Promulgado em 30 de Julho de 2008.**
+
+**Publique-se.**
+
+**O Presidente da República, Aníbal Cavaco Silva.**
+
+**Referendado em 1 de Agosto de 2008.**
+
+**O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.**

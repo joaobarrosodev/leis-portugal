@@ -1,0 +1,743 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:667920:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-106391303",
+ "dre_path": "/dr/detalhe/decreto-lei/389-1999-667920",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-09-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "862977584",
+    "106391206",
+    "106391207",
+    "106391208",
+    "106391209",
+    "106391210",
+    "106391211",
+    "106391212",
+    "106391213",
+    "106391214",
+    "106391215",
+    "106391216",
+    "106391217",
+    "106391218",
+    "106391219",
+    "106391220",
+    "106391221",
+    "106391222",
+    "106391223",
+    "106391224",
+    "106391225",
+    "106391226",
+    "106391227",
+    "106391228",
+    "106391229",
+    "106391230",
+    "106391231",
+    "106391232",
+    "106391233",
+    "106391234",
+    "106391235"
+   ]
+  },
+  {
+   "date": "2005-10-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:595121:por",
+     "title": "Decreto-Lei n.º 176/2005",
+     "published": "2005-10-25",
+     "dre_path": "/dr/detalhe/decreto-lei/176-2005-595121"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "106391205",
+    "106391206",
+    "106391207",
+    "106391208",
+    "106391209",
+    "862975999",
+    "106391211",
+    "106391212",
+    "106391213",
+    "106391214",
+    "106391215",
+    "106391216",
+    "106391217",
+    "106391218",
+    "106391219",
+    "106391220",
+    "106391221",
+    "106391222",
+    "106391223",
+    "106391224",
+    "106391225",
+    "106391226",
+    "106391227",
+    "106391228",
+    "106391229",
+    "106391230",
+    "106391231",
+    "106391232",
+    "106391233",
+    "106391234",
+    "106391235",
+    "106391236"
+   ]
+  },
+  {
+   "date": "2017-05-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107047290:por",
+     "title": "Decreto-Lei n.º 48/2017",
+     "published": "2017-05-22",
+     "dre_path": "/dr/detalhe/decreto-lei/48-2017-107047290"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "862976000",
+    "862976001",
+    "862976002",
+    "862976003",
+    "862976004",
+    "862976005",
+    "862976006",
+    "862976007",
+    "862976008",
+    "862976009",
+    "862976010",
+    "862976011",
+    "862976012",
+    "862976013",
+    "862976014",
+    "862976015",
+    "862976016",
+    "862976017",
+    "862976018",
+    "862976019",
+    "862976020",
+    "862976021",
+    "862976022",
+    "862976023",
+    "862976024",
+    "862976025",
+    "862976026",
+    "862976027",
+    "862976028",
+    "862976029",
+    "862976030",
+    "862976031"
+   ]
+  }
+ ],
+ "fragments": {
+  "862977584": {
+   "fragment_id": "106391304",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 389/99\n\nde 30 de Setembro\n\nO voluntariado é uma actividade inerente ao exercício de cidadania que se traduz numa relação solidária para com o próximo, participando, de forma livre e organizada, na solução dos problemas que afectam a sociedade em geral.\n\nReconhecendo que o trabalho voluntário representa hoje um dos instrumentos básicos de participação da sociedade civil nos mais diversos domínios de actividade, a Lei n.º 71/98, de 3 de Novembro, estabeleceu as bases do enquadramento jurídico do voluntariado.\n\nProcurando ir ao encontro das necessidades sentidas pelos voluntários e pelas diversas entidades que enquadram a sua acção, a lei do voluntariado delimitou com precisão o conceito de voluntariado, definiu os princípios enquadradores do trabalho voluntário e contemplou um conjunto de medidas consubstanciadas em direitos e deveres dos voluntários e das organizações promotoras no âmbito de um compromisso livremente assumido de dar cumprimento a um programa de voluntariado.\n\nTendo em conta a liberdade que caracteriza e define o voluntariado, a regulamentação da citada lei, nos termos do seu artigo 11.º, cinge-se às condições necessárias à sua integral e efectiva aplicação e às condições de efectivação dos direitos consignados no n.º 1 do seu artigo 7.º, designadamente nas alíneas f), g) e j).\n\nPartindo destas premissas, designadamente no que respeita à garantia da liberdade inerente ao voluntariado e do exercício de cidadania expresso numa participação solidária, a presente regulamentação, no desenvolvimento da Lei n.º 71/98, contempla também instrumentos operativos que permitam efectivar direitos dos voluntários e promover e consolidar um voluntariado sólido, qualificado e reconhecido socialmente.\n\nNeste contexto, são, assim, objecto de regulamentação as condições de efectivação dos direitos consignados no n.º 1 do artigo 7.º, bem como outras medidas que, de harmonia com o disposto no seu artigo 11.º, se mostram necessárias à sua integral e efectiva aplicação.\n\nÉ, designadamente, o caso de se contemplar a criação do Conselho Nacional para a Promoção do Voluntariado, cuja composição será definida por resolução do Conselho de Ministros, o mesmo acontecendo ao organismo que prestará o apoio necessário ao seu funcionamento e execução das deliberações.\n\nEsta entidade, para além de operacionalizar diversas acções relacionadas com a efectivação dos direitos dos voluntários, designadamente no que respeita à cobertura de responsabilidade civil das organizações promotoras, em caso de acidente ou doença contraída no exercício do trabalho voluntário e à emissão e controlo do cartão de identificação do voluntário, terá como objectivos fundamentais:\n\nDesenvolver as acções indispensáveis ao efectivo conhecimento e caracterização do universo dos voluntários;\n\nApoiar as organizações promotoras e dinamizar acções de formação, bem como outros programas que contribuam para uma melhor qualidade e eficácia do trabalho voluntário, e desenvolver todo um conjunto de medidas que, situadas numa lógica de promoção e divulgação do voluntariado, concorram, de forma sistemática, para a sua valorização e para sensibilizar a sociedade em geral para a importância da acção voluntária como instrumento de solidariedade e desenvolvimento.\n\nNesta base, o presente diploma procede à regulamentação da Lei n.º 71/98, de 3 de Novembro, criando as condições que permitam promover e apoiar o voluntariado tendo em conta a relevância da sua acção na construção de uma sociedade mais solidária e preocupada com os seus membros.\n\nAssim:\n\nEm cumprimento do previsto no artigo 11.º da Lei n.º 17/98, de 3 de Novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Nota: [Artigo 27.º, Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290) A revogação do presente diploma produz efeitos a 23-05-2017 com exceção do capítulo VI que produz efeitos à data da entrada em vigor."
+  },
+  "106391206": {
+   "fragment_id": "106391305",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "106391207": {
+   "fragment_id": "106391306",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nO presente diploma regulamenta a Lei n.º 71/98, de 3 de Novembro, que estabeleceu as bases do enquadramento jurídico do voluntariado."
+  },
+  "106391208": {
+   "fragment_id": "106391307",
+   "type": 11,
+   "heading": "Artigo 2.º — Organizações promotoras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Organizações promotoras\n\n1 - Reúnem condições para integrar voluntários e coordenar o exercício da sua actividade as pessoas colectivas que desenvolvam actividades nos domínios a que se refere o n.º 3 do artigo 4.º da Lei n.º 71/98, de 3 de Novembro, e que se integrem numa das seguintes categorias:\n\na) Pessoas colectivas de direito público de âmbito nacional, regional ou local;\n\nb) Pessoas colectivas de utilidade pública administrativa;\n\nc) Pessoas colectivas de utilidade pública, incluindo as instituições particulares de solidariedade social.\n\n2 - Podem ainda reunir condições para integrar voluntários e coordenar o exercício da sua actividade organizações não incluídas no número anterior, desde que o ministério da respectiva tutela considere com interesse as suas actividades e efectivo e relevante o seu funcionamento."
+  },
+  "106391209": {
+   "fragment_id": "106391308",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão do cartão de identificação do voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Emissão do cartão de identificação do voluntário\n\n1 - A emissão do cartão de identificação de voluntário é efectuada mediante requerimento da organização promotora dirigido à entidade responsável pela sua emissão.\n\n2 - Do requerimento deverão constar os seguintes elementos:\n\na) Referência à celebração do programa do voluntariado a que se refere o artigo 9.º da Lei n.º 71/98, de 3 de Novembro;\n\nb) Nome e residência do voluntário, bem como duas fotografias tipo passe;\n\nc) Identificação da área de actividade do voluntário, nos termos do n.º 3 do artigo 4.º da Lei n.º 71/98, de 3 de Novembro.\n\n3 - A suspensão ou a cessação da colaboração do voluntário determina a obrigatoriedade da devolução do cartão de identificação do voluntário à organização promotora.\n\n4 - No caso da cessação da colaboração do voluntário a organização promotora deverá dar conhecimento do facto e devolver o cartão de identificação do voluntário à entidade responsável pela sua emissão."
+  },
+  "106391210": {
+   "fragment_id": "106391309",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de identificação de voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Cartão de identificação de voluntário\n\n1 - O cartão de identificação de voluntário deve obedecer às dimensões de 8,5 cm x 6,5 cm e conter obrigatoriamente elementos respeitantes à identificação do voluntário, da organização promotora e da área de actividade do voluntário.\n\n2 - Do cartão deve ainda constar a identificação da entidade responsável pela sua emissão, bem como a data em que foi emitido.\n\n3 - O cartão de identificação de voluntário é emitido segundo modelo a aprovar por portaria do Ministro do Trabalho e da Solidariedade."
+  },
+  "106391211": {
+   "fragment_id": "106391310",
+   "type": 11,
+   "heading": "Artigo 5.º — Acreditação e certificação do trabalho voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Acreditação e certificação do trabalho voluntário\n\nA acreditação e certificação do trabalho voluntário efectua-se mediante certificado emitido pela organização promotora no âmbito da qual o voluntário desenvolve o seu trabalho, onde, para além da identificação do voluntário, deve constar, designadamente, o domínio da respectiva actividade, o local onde foi exercida, bem como o seu início e duração."
+  },
+  "106391212": {
+   "fragment_id": "106391311",
+   "type": 1,
+   "heading": "Capítulo II — Enquadramento no regime do seguro social voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Enquadramento no regime do seguro social voluntário"
+  },
+  "106391213": {
+   "fragment_id": "106391312",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Requisitos\n\nPode beneficiar do regime do seguro social voluntário a que se refere a alínea c) do n.º 1 do artigo 7.º da Lei n.º 71/98, de 3 de Novembro, o voluntário que preencha, cumulativamente, os seguintes requisitos:\n\na) Tenha mais de 18 anos;\n\nb) Esteja integrado num programa de voluntariado, nos termos do artigo 9.º da Lei n.º 71/98, de 3 de Novembro;\n\nc) Não esteja abrangido por regime obrigatório de protecção social pelo exercício simultâneo de actividade profissional, nomeadamente auferindo prestações de desemprego;\n\nd) Não seja pensionista da segurança social ou de qualquer outro regime de protecção social."
+  },
+  "106391214": {
+   "fragment_id": "106391313",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Requerimento\n\n1 - O enquadramento no regime do seguro social voluntário depende da manifestação de vontade do interessado, mediante a apresentação de requerimento no centro regional de segurança social cujo âmbito territorial abranja a área de actividade da respectiva organização promotora, instruído com os seguintes documentos:\n\na) Bilhete de identidade, cédula pessoal, certidão de nascimento ou outro documento de identificação;\n\nb) Declaração emitida pela organização promotora comprovativa de que o voluntário se insere num programa de voluntariado;\n\nc) Declaração do interessado de que preenche os requisitos constantes das alíneas c) e d) do n.º 1 do artigo 6.º;\n\nd) Certificação médica de aptidão para o trabalho efectuada pelo sistema de verificação de incapacidades, através do médico relator.\n\n2 - O interessado deve comunicar ao centro regional de segurança social todas as alterações da sua situação susceptíveis de influenciar o enquadramento no regime do seguro social voluntário."
+  },
+  "106391215": {
+   "fragment_id": "106391314",
+   "type": 11,
+   "heading": "Artigo 8.º — Cessação do enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Cessação do enquadramento\n\n1 - A cessação do trabalho voluntário determina a cessação do enquadramento no regime do seguro social voluntário, devendo a organização promotora comunicar tal facto ao centro regional competente, até ao final do mês seguinte àquele em que se verificou a respectiva cessação.\n\n2 - Verifica-se ainda a cessação do enquadramento no regime quando o beneficiário deixar de preencher algum dos requisitos constantes do artigo 6.º\n\n3 - A cessação do enquadramento produz efeitos a partir da data do facto determinante da mesma."
+  },
+  "106391216": {
+   "fragment_id": "106391315",
+   "type": 11,
+   "heading": "Artigo 9.º — Reinício do enquadramento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reinício do enquadramento\n\nO enquadramento pode ser retomado, a requerimento do voluntário, desde que os requisitos sejam de novo comprovados."
+  },
+  "106391217": {
+   "fragment_id": "106391316",
+   "type": 11,
+   "heading": "Artigo 10.º — Esquema de prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Esquema de prestações\n\n1 - O voluntário abrangido pelo seguro social voluntário, nos termos do presente diploma, tem direito às prestações nas eventualidades de invalidez, velhice, morte e doença profissional.\n\n2 - A cobertura do risco de doenças profissionais é assegurada pelo Centro Nacional de Protecção contra os Riscos Profissionais.\n\n3 - Para efeitos do disposto no número anterior, a actividade prestada como voluntário considera-se equiparada a actividade profissional."
+  },
+  "106391218": {
+   "fragment_id": "106391317",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigação contributiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Obrigação contributiva\n\n1 - As contribuições para a segurança social são determinadas pela aplicação das taxas contributivas, para as respectivas eventualidades, nos termos do disposto nos artigos 39.º e 40.º do Decreto-Lei n.º 40/89, de 12 de Fevereiro, à remuneração mínima nacional garantida à generalidade dos trabalhadores.\n\n2 - O pagamento das contribuições referidas nos números anteriores é efectuado pela organização promotora que integra o voluntário."
+  },
+  "106391219": {
+   "fragment_id": "106391318",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime subsidiário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regime subsidiário\n\nEm tudo o que não se encontre especificamente regulado no presente capítulo aplicam-se as disposições em vigor para o seguro social voluntário constantes do Decreto-Lei n.º 40/89, de 1 de Fevereiro."
+  },
+  "106391220": {
+   "fragment_id": "106391319",
+   "type": 1,
+   "heading": "Capítulo III — Voluntário empregado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Voluntário empregado"
+  },
+  "106391221": {
+   "fragment_id": "106391320",
+   "type": 11,
+   "heading": "Artigo 13.º — Convocação do voluntário empregado, durante o período de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Convocação do voluntário empregado, durante o período de trabalho\n\n1 - O voluntário empregado pode ser convocado pela organização promotora, para prestar a sua actividade durante o tempo de trabalho, nos seguintes casos:\n\na) Por motivo de cumprimento de missões urgentes que envolvam o recurso a determinados meios humanos que não se encontrem disponíveis em número suficiente ou com a preparação adequada para esse efeito;\n\nb) Em situação de emergência, calamidade pública, acidentes de origem climatérica ou humana que pela sua dimensão ou gravidade justifiquem a mobilização dos meios existentes afectos às áreas responsáveis pelo controlo da situação e reposição da normalidade ou em casos de força maior devidamente justificados;\n\nc) Em situações especiais inadiáveis em que a participação do voluntário seja considerada imprescindível para a prossecução dos objectivos do programa de voluntariado.\n\n2 - Para efeitos do disposto na alínea c) do número anterior o voluntário dispõe de um crédito de quarenta horas anuais."
+  },
+  "106391222": {
+   "fragment_id": "106391321",
+   "type": 11,
+   "heading": "Artigo 14.º — Termos da convocatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Termos da convocatória\n\nAs faltas ao trabalho pelos motivos referidos no artigo anterior devem ser precedidas de convocação escrita da organização promotora, da qual conste a natureza da actividade a desempenhar e o motivo que a justifique, podendo, em caso de reconhecida urgência, ser feita por outro meio, designadamente por telefone, devendo ser confirmada por escrito no dia útil imediato."
+  },
+  "106391223": {
+   "fragment_id": "106391322",
+   "type": 11,
+   "heading": "Artigo 15.º — Efeitos das faltas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Efeitos das faltas\n\nAs faltas ao trabalho do voluntário empregado, devidamente convocado, consideram-se justificadas, sem perda de retribuição ou quaisquer outros direitos e regalias, nos termos do n.º 2 do artigo 7.º da Lei n.º 71/98, mediante a apresentação da convocatória e do documento comprovativo do cumprimento da missão para que foi convocado, passado pela organização promotora."
+  },
+  "106391224": {
+   "fragment_id": "106391323",
+   "type": 1,
+   "heading": "Capítulo IV — Acidente ou doença contraída no exercício do trabalho voluntário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Acidente ou doença contraída no exercício do trabalho voluntário"
+  },
+  "106391225": {
+   "fragment_id": "106391324",
+   "type": 11,
+   "heading": "Artigo 16.º — Seguro obrigatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Seguro obrigatório\n\n1 - A protecção do voluntário em caso de acidente ou doença sofridos ou contraídos por causa directa e especificamente imputável ao exercício do trabalho voluntário é garantida pela organização promotora, mediante seguro a efectuar com as entidades legalmente autorizadas para a sua realização.\n\n2 - O seguro obrigatório compreende uma indemnização e um subsídio diário a atribuir, respectivamente, nos casos de morte e invalidez permanente e de incapacidade temporária."
+  },
+  "106391226": {
+   "fragment_id": "106391325",
+   "type": 11,
+   "heading": "Artigo 17.º — Apólice de seguro de grupo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Apólice de seguro de grupo\n\nPara a realização do seguro obrigatório será contratada apólice de seguro de grupo."
+  },
+  "106391227": {
+   "fragment_id": "106391326",
+   "type": 1,
+   "heading": "Capítulo V — Programa de voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Programa de voluntariado"
+  },
+  "106391228": {
+   "fragment_id": "106391327",
+   "type": 11,
+   "heading": "Artigo 18.º — Programa de voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Programa de voluntariado\n\n1 - Na elaboração do programa de voluntariado a que se refere o artigo 9.º da Lei n.º 71/98 deverão ser tidas em conta as especificidades de cada sector de actividade em que se exerce o voluntariado.\n\n2 - A especificidade de cada sector de actividade poderá justificar a elaboração de um modelo de programa a aprovar pelo ministro da tutela."
+  },
+  "106391229": {
+   "fragment_id": "106391328",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas derivadas do cumprimento do programa de voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Despesas derivadas do cumprimento do programa de voluntariado\n\n1 - O voluntário, sem prejuízo da realização de despesas inadiáveis e reembolsáveis nos termos da alínea j) do artigo 7.º da Lei n.º 71/98, não pode ser onerado com despesas que resultem exclusivamente do exercício regular do trabalho voluntário nos termos acordados no respectivo programa.\n\n2 - Sempre que a utilização de transportes públicos pelo voluntário seja derivada exclusivamente do cumprimento do programa de voluntariado, a organização promotora diligenciará no sentido de ser facultado ao voluntário o título ou meio adequado de transporte."
+  },
+  "106391230": {
+   "fragment_id": "106391329",
+   "type": 1,
+   "heading": "Capítulo VI — Conselho Nacional para a Promoção do Voluntariado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Conselho Nacional para a Promoção do Voluntariado"
+  },
+  "106391231": {
+   "fragment_id": "106391330",
+   "type": 11,
+   "heading": "Artigo 20.º — Constituição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Constituição\n\n1 - Com o fim de desenvolver e qualificar o voluntariado é criado o Conselho Nacional para a Promoção do Voluntariado.\n\n2 - Por resolução do Conselho de Ministros serão definidas a composição do Conselho Nacional para a Promoção do Voluntariado, assim como o organismo que lhe prestará o apoio necessário ao seu funcionamento e execução das suas deliberações."
+  },
+  "106391232": {
+   "fragment_id": "106391331",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competências\n\nCompete ao Conselho Nacional para a Promoção do Voluntariado desenvolver as acções indispensáveis à promoção, coordenação e qualificação do voluntariado, nomeadamente:\n\na) Desenvolver as acções adequadas ao conhecimento e caracterização do universo dos voluntários;\n\nb) Emitir o cartão de identificação do voluntário nos termos estabelecidos no artigo 3.º;\n\nc) Promover as acções inerentes à contratação de uma apólice de seguro de grupo entre as organizações promotoras e as entidades seguradoras tendo em vista a cobertura da responsabilidade civil nos termos referidos nos artigos 16.º e seguintes;\n\nd) Providenciar junto das empresas transportadoras, sempre que se justifique, a celebração de acordos para utilização de transportes públicos pelos voluntários, considerando o disposto no n.º 2 do artigo 19.º;\n\ne) Dinamizar, com as organizações promotoras, acções de formação, bem como outros programas que contribuam para uma melhor qualidade e eficácia do trabalho voluntário;\n\nf) Conceder apoio técnico às organizações promotoras mediante a disponibilização de informação com interesse para o exercício do voluntariado;\n\ng) Promover e divulgar o voluntariado como forma de participação social e de solidariedade entre os cidadãos, através dos meios adequados, incluindo os meios de comunicação social;\n\nh) Sensibilizar a sociedade em geral para a importância do voluntariado como forma de exercício do direito de cidadania, promovendo a realização de debates, conferências e iniciativas afins;\n\ni) Promover a realização de estudos sociológicos, designadamente em colaboração com as universidades, sobre a atitude, predisposição e motivação dos cidadãos para a realização do trabalho voluntário;\n\nj) Sensibilizar as empresas para, em termos curriculares, valorizarem a experiência adquirida em acções de voluntariado, especialmente dos jovens à procura de emprego;\n\nl) Acompanhar a aplicação do presente diploma e propor as medidas que se revelem adequadas ao seu aperfeiçoamento e desenvolvimento."
+  },
+  "106391233": {
+   "fragment_id": "106391332",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Disposições finais"
+  },
+  "106391234": {
+   "fragment_id": "106391333",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Avaliação\n\nNo prazo de um ano após a entrada em vigor do presente diploma será feita a avaliação dos mecanismos no mesmo estabelecidos para operacionalização e promoção do trabalho voluntário, nomeadamente o desenvolvido pelos titulares dos órgãos sociais das organizações promotoras, tendo em vista a introdução das alterações que se mostrem necessárias."
+  },
+  "106391235": {
+   "fragment_id": "106391334",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor um mês após a data da sua publicação."
+  },
+  "106391205": {
+   "fragment_id": "106391304",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 389/99\n\nde 30 de Setembro\n\nO voluntariado é uma actividade inerente ao exercício de cidadania que se traduz numa relação solidária para com o próximo, participando, de forma livre e organizada, na solução dos problemas que afectam a sociedade em geral.\n\nReconhecendo que o trabalho voluntário representa hoje um dos instrumentos básicos de participação da sociedade civil nos mais diversos domínios de actividade, a Lei n.º 71/98, de 3 de Novembro, estabeleceu as bases do enquadramento jurídico do voluntariado.\n\nProcurando ir ao encontro das necessidades sentidas pelos voluntários e pelas diversas entidades que enquadram a sua acção, a lei do voluntariado delimitou com precisão o conceito de voluntariado, definiu os princípios enquadradores do trabalho voluntário e contemplou um conjunto de medidas consubstanciadas em direitos e deveres dos voluntários e das organizações promotoras no âmbito de um compromisso livremente assumido de dar cumprimento a um programa de voluntariado.\n\nTendo em conta a liberdade que caracteriza e define o voluntariado, a regulamentação da citada lei, nos termos do seu artigo 11.º, cinge-se às condições necessárias à sua integral e efectiva aplicação e às condições de efectivação dos direitos consignados no n.º 1 do seu artigo 7.º, designadamente nas alíneas f), g) e j).\n\nPartindo destas premissas, designadamente no que respeita à garantia da liberdade inerente ao voluntariado e do exercício de cidadania expresso numa participação solidária, a presente regulamentação, no desenvolvimento da Lei n.º 71/98, contempla também instrumentos operativos que permitam efectivar direitos dos voluntários e promover e consolidar um voluntariado sólido, qualificado e reconhecido socialmente.\n\nNeste contexto, são, assim, objecto de regulamentação as condições de efectivação dos direitos consignados no n.º 1 do artigo 7.º, bem como outras medidas que, de harmonia com o disposto no seu artigo 11.º, se mostram necessárias à sua integral e efectiva aplicação.\n\nÉ, designadamente, o caso de se contemplar a criação do Conselho Nacional para a Promoção do Voluntariado, cuja composição será definida por resolução do Conselho de Ministros, o mesmo acontecendo ao organismo que prestará o apoio necessário ao seu funcionamento e execução das deliberações.\n\nEsta entidade, para além de operacionalizar diversas acções relacionadas com a efectivação dos direitos dos voluntários, designadamente no que respeita à cobertura de responsabilidade civil das organizações promotoras, em caso de acidente ou doença contraída no exercício do trabalho voluntário e à emissão e controlo do cartão de identificação do voluntário, terá como objectivos fundamentais:\n\nDesenvolver as acções indispensáveis ao efectivo conhecimento e caracterização do universo dos voluntários;\n\nApoiar as organizações promotoras e dinamizar acções de formação, bem como outros programas que contribuam para uma melhor qualidade e eficácia do trabalho voluntário, e desenvolver todo um conjunto de medidas que, situadas numa lógica de promoção e divulgação do voluntariado, concorram, de forma sistemática, para a sua valorização e para sensibilizar a sociedade em geral para a importância da acção voluntária como instrumento de solidariedade e desenvolvimento.\n\nNesta base, o presente diploma procede à regulamentação da Lei n.º 71/98, de 3 de Novembro, criando as condições que permitam promover e apoiar o voluntariado tendo em conta a relevância da sua acção na construção de uma sociedade mais solidária e preocupada com os seus membros.\n\nAssim:\n\nEm cumprimento do previsto no artigo 11.º da Lei n.º 17/98, de 3 de Novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "862975999": {
+   "fragment_id": "106391309",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de identificação de voluntário",
+   "in_force_from": "2005-10-30",
+   "changed_by": [
+    "Alterado pelo/a [Decreto-Lei n.º 176/2005 - Diário da República n.º 205/2005, Série I-A de 2005-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2005-595121), em vigor a partir de 2005-10-30"
+   ],
+   "markdown": "###### Artigo 4.º — Cartão de identificação de voluntário\n\n1 - O cartão de identificação de voluntário deve obedecer às dimensões que vierem a ser aprovadas por portaria, nos termos do n.º 3, e conter obrigatoriamente elementos respeitantes à identificação do voluntário e da organização promotora.\n\n2 - Do cartão deve ainda constar a identificação da entidade responsável pela sua emissão, bem como a data em que foi emitido.\n\n3 - O cartão de identificação de voluntário é emitido segundo modelo a aprovar por portaria do Ministro do Trabalho e da Solidariedade.\n\n> Alterado pelo/a [Decreto-Lei n.º 176/2005 - Diário da República n.º 205/2005, Série I-A de 2005-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2005-595121), em vigor a partir de 2005-10-30"
+  },
+  "106391236": {
+   "fragment_id": "106391335",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Francisco Ventura Ramos - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 17 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  },
+  "862976000": {
+   "fragment_id": "106391304",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "Decreto-Lei n.º 389/99\n\nde 30 de Setembro\n\nO voluntariado é uma actividade inerente ao exercício de cidadania que se traduz numa relação solidária para com o próximo, participando, de forma livre e organizada, na solução dos problemas que afectam a sociedade em geral.\n\nReconhecendo que o trabalho voluntário representa hoje um dos instrumentos básicos de participação da sociedade civil nos mais diversos domínios de actividade, a Lei n.º 71/98, de 3 de Novembro, estabeleceu as bases do enquadramento jurídico do voluntariado.\n\nProcurando ir ao encontro das necessidades sentidas pelos voluntários e pelas diversas entidades que enquadram a sua acção, a lei do voluntariado delimitou com precisão o conceito de voluntariado, definiu os princípios enquadradores do trabalho voluntário e contemplou um conjunto de medidas consubstanciadas em direitos e deveres dos voluntários e das organizações promotoras no âmbito de um compromisso livremente assumido de dar cumprimento a um programa de voluntariado.\n\nTendo em conta a liberdade que caracteriza e define o voluntariado, a regulamentação da citada lei, nos termos do seu artigo 11.º, cinge-se às condições necessárias à sua integral e efectiva aplicação e às condições de efectivação dos direitos consignados no n.º 1 do seu artigo 7.º, designadamente nas alíneas f), g) e j).\n\nPartindo destas premissas, designadamente no que respeita à garantia da liberdade inerente ao voluntariado e do exercício de cidadania expresso numa participação solidária, a presente regulamentação, no desenvolvimento da Lei n.º 71/98, contempla também instrumentos operativos que permitam efectivar direitos dos voluntários e promover e consolidar um voluntariado sólido, qualificado e reconhecido socialmente.\n\nNeste contexto, são, assim, objecto de regulamentação as condições de efectivação dos direitos consignados no n.º 1 do artigo 7.º, bem como outras medidas que, de harmonia com o disposto no seu artigo 11.º, se mostram necessárias à sua integral e efectiva aplicação.\n\nÉ, designadamente, o caso de se contemplar a criação do Conselho Nacional para a Promoção do Voluntariado, cuja composição será definida por resolução do Conselho de Ministros, o mesmo acontecendo ao organismo que prestará o apoio necessário ao seu funcionamento e execução das deliberações.\n\nEsta entidade, para além de operacionalizar diversas acções relacionadas com a efectivação dos direitos dos voluntários, designadamente no que respeita à cobertura de responsabilidade civil das organizações promotoras, em caso de acidente ou doença contraída no exercício do trabalho voluntário e à emissão e controlo do cartão de identificação do voluntário, terá como objectivos fundamentais:\n\nDesenvolver as acções indispensáveis ao efectivo conhecimento e caracterização do universo dos voluntários;\n\nApoiar as organizações promotoras e dinamizar acções de formação, bem como outros programas que contribuam para uma melhor qualidade e eficácia do trabalho voluntário, e desenvolver todo um conjunto de medidas que, situadas numa lógica de promoção e divulgação do voluntariado, concorram, de forma sistemática, para a sua valorização e para sensibilizar a sociedade em geral para a importância da acção voluntária como instrumento de solidariedade e desenvolvimento.\n\nNesta base, o presente diploma procede à regulamentação da Lei n.º 71/98, de 3 de Novembro, criando as condições que permitam promover e apoiar o voluntariado tendo em conta a relevância da sua acção na construção de uma sociedade mais solidária e preocupada com os seus membros.\n\nAssim:\n\nEm cumprimento do previsto no artigo 11.º da Lei n.º 17/98, de 3 de Novembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:\n\n> Nota: [Artigo 27.º, Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290) A revogação do presente diploma produz efeitos a 23-05-2017 com exceção do capítulo VI que produz efeitos à data da entrada em vigor.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976001": {
+   "fragment_id": "106391305",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976002": {
+   "fragment_id": "106391306",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivos",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 1.º — Objectivos\n\nO presente diploma regulamenta a Lei n.º 71/98, de 3 de Novembro, que estabeleceu as bases do enquadramento jurídico do voluntariado.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976003": {
+   "fragment_id": "106391307",
+   "type": 11,
+   "heading": "Artigo 2.º — Organizações promotoras",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 2.º — Organizações promotoras\n\n1 - Reúnem condições para integrar voluntários e coordenar o exercício da sua actividade as pessoas colectivas que desenvolvam actividades nos domínios a que se refere o n.º 3 do artigo 4.º da Lei n.º 71/98, de 3 de Novembro, e que se integrem numa das seguintes categorias:\n\na) Pessoas colectivas de direito público de âmbito nacional, regional ou local;\n\nb) Pessoas colectivas de utilidade pública administrativa;\n\nc) Pessoas colectivas de utilidade pública, incluindo as instituições particulares de solidariedade social.\n\n2 - Podem ainda reunir condições para integrar voluntários e coordenar o exercício da sua actividade organizações não incluídas no número anterior, desde que o ministério da respectiva tutela considere com interesse as suas actividades e efectivo e relevante o seu funcionamento.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976004": {
+   "fragment_id": "106391308",
+   "type": 11,
+   "heading": "Artigo 3.º — Emissão do cartão de identificação do voluntário",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 3.º — Emissão do cartão de identificação do voluntário\n\n1 - A emissão do cartão de identificação de voluntário é efectuada mediante requerimento da organização promotora dirigido à entidade responsável pela sua emissão.\n\n2 - Do requerimento deverão constar os seguintes elementos:\n\na) Referência à celebração do programa do voluntariado a que se refere o artigo 9.º da Lei n.º 71/98, de 3 de Novembro;\n\nb) Nome e residência do voluntário, bem como duas fotografias tipo passe;\n\nc) Identificação da área de actividade do voluntário, nos termos do n.º 3 do artigo 4.º da Lei n.º 71/98, de 3 de Novembro.\n\n3 - A suspensão ou a cessação da colaboração do voluntário determina a obrigatoriedade da devolução do cartão de identificação do voluntário à organização promotora.\n\n4 - No caso da cessação da colaboração do voluntário a organização promotora deverá dar conhecimento do facto e devolver o cartão de identificação do voluntário à entidade responsável pela sua emissão.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976005": {
+   "fragment_id": "106391309",
+   "type": 11,
+   "heading": "Artigo 4.º — Cartão de identificação de voluntário",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23",
+    "Alterado pelo/a [Decreto-Lei n.º 176/2005 - Diário da República n.º 205/2005, Série I-A de 2005-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2005-595121), em vigor a partir de 2005-10-30"
+   ],
+   "markdown": "###### Artigo 4.º — Cartão de identificação de voluntário\n\n1 - O cartão de identificação de voluntário deve obedecer às dimensões que vierem a ser aprovadas por portaria, nos termos do n.º 3, e conter obrigatoriamente elementos respeitantes à identificação do voluntário e da organização promotora.\n\n2 - Do cartão deve ainda constar a identificação da entidade responsável pela sua emissão, bem como a data em que foi emitido.\n\n3 - O cartão de identificação de voluntário é emitido segundo modelo a aprovar por portaria do Ministro do Trabalho e da Solidariedade.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23\n\n> Alterado pelo/a [Decreto-Lei n.º 176/2005 - Diário da República n.º 205/2005, Série I-A de 2005-10-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/176-2005-595121), em vigor a partir de 2005-10-30"
+  },
+  "862976006": {
+   "fragment_id": "106391310",
+   "type": 11,
+   "heading": "Artigo 5.º — Acreditação e certificação do trabalho voluntário",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 5.º — Acreditação e certificação do trabalho voluntário\n\nA acreditação e certificação do trabalho voluntário efectua-se mediante certificado emitido pela organização promotora no âmbito da qual o voluntário desenvolve o seu trabalho, onde, para além da identificação do voluntário, deve constar, designadamente, o domínio da respectiva actividade, o local onde foi exercida, bem como o seu início e duração.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976007": {
+   "fragment_id": "106391311",
+   "type": 1,
+   "heading": "Capítulo II — Enquadramento no regime do seguro social voluntário",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "### Capítulo II — Enquadramento no regime do seguro social voluntário\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976008": {
+   "fragment_id": "106391312",
+   "type": 11,
+   "heading": "Artigo 6.º — Requisitos",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 6.º — Requisitos\n\nPode beneficiar do regime do seguro social voluntário a que se refere a alínea c) do n.º 1 do artigo 7.º da Lei n.º 71/98, de 3 de Novembro, o voluntário que preencha, cumulativamente, os seguintes requisitos:\n\na) Tenha mais de 18 anos;\n\nb) Esteja integrado num programa de voluntariado, nos termos do artigo 9.º da Lei n.º 71/98, de 3 de Novembro;\n\nc) Não esteja abrangido por regime obrigatório de protecção social pelo exercício simultâneo de actividade profissional, nomeadamente auferindo prestações de desemprego;\n\nd) Não seja pensionista da segurança social ou de qualquer outro regime de protecção social.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976009": {
+   "fragment_id": "106391313",
+   "type": 11,
+   "heading": "Artigo 7.º — Requerimento",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 7.º — Requerimento\n\n1 - O enquadramento no regime do seguro social voluntário depende da manifestação de vontade do interessado, mediante a apresentação de requerimento no centro regional de segurança social cujo âmbito territorial abranja a área de actividade da respectiva organização promotora, instruído com os seguintes documentos:\n\na) Bilhete de identidade, cédula pessoal, certidão de nascimento ou outro documento de identificação;\n\nb) Declaração emitida pela organização promotora comprovativa de que o voluntário se insere num programa de voluntariado;\n\nc) Declaração do interessado de que preenche os requisitos constantes das alíneas c) e d) do n.º 1 do artigo 6.º;\n\nd) Certificação médica de aptidão para o trabalho efectuada pelo sistema de verificação de incapacidades, através do médico relator.\n\n2 - O interessado deve comunicar ao centro regional de segurança social todas as alterações da sua situação susceptíveis de influenciar o enquadramento no regime do seguro social voluntário.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976010": {
+   "fragment_id": "106391314",
+   "type": 11,
+   "heading": "Artigo 8.º — Cessação do enquadramento",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 8.º — Cessação do enquadramento\n\n1 - A cessação do trabalho voluntário determina a cessação do enquadramento no regime do seguro social voluntário, devendo a organização promotora comunicar tal facto ao centro regional competente, até ao final do mês seguinte àquele em que se verificou a respectiva cessação.\n\n2 - Verifica-se ainda a cessação do enquadramento no regime quando o beneficiário deixar de preencher algum dos requisitos constantes do artigo 6.º\n\n3 - A cessação do enquadramento produz efeitos a partir da data do facto determinante da mesma.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976011": {
+   "fragment_id": "106391315",
+   "type": 11,
+   "heading": "Artigo 9.º — Reinício do enquadramento",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 9.º — Reinício do enquadramento\n\nO enquadramento pode ser retomado, a requerimento do voluntário, desde que os requisitos sejam de novo comprovados.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976012": {
+   "fragment_id": "106391316",
+   "type": 11,
+   "heading": "Artigo 10.º — Esquema de prestações",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 10.º — Esquema de prestações\n\n1 - O voluntário abrangido pelo seguro social voluntário, nos termos do presente diploma, tem direito às prestações nas eventualidades de invalidez, velhice, morte e doença profissional.\n\n2 - A cobertura do risco de doenças profissionais é assegurada pelo Centro Nacional de Protecção contra os Riscos Profissionais.\n\n3 - Para efeitos do disposto no número anterior, a actividade prestada como voluntário considera-se equiparada a actividade profissional.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976013": {
+   "fragment_id": "106391317",
+   "type": 11,
+   "heading": "Artigo 11.º — Obrigação contributiva",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 11.º — Obrigação contributiva\n\n1 - As contribuições para a segurança social são determinadas pela aplicação das taxas contributivas, para as respectivas eventualidades, nos termos do disposto nos artigos 39.º e 40.º do Decreto-Lei n.º 40/89, de 12 de Fevereiro, à remuneração mínima nacional garantida à generalidade dos trabalhadores.\n\n2 - O pagamento das contribuições referidas nos números anteriores é efectuado pela organização promotora que integra o voluntário.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976014": {
+   "fragment_id": "106391318",
+   "type": 11,
+   "heading": "Artigo 12.º — Regime subsidiário",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 12.º — Regime subsidiário\n\nEm tudo o que não se encontre especificamente regulado no presente capítulo aplicam-se as disposições em vigor para o seguro social voluntário constantes do Decreto-Lei n.º 40/89, de 1 de Fevereiro.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976015": {
+   "fragment_id": "106391319",
+   "type": 1,
+   "heading": "Capítulo III — Voluntário empregado",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "### Capítulo III — Voluntário empregado\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976016": {
+   "fragment_id": "106391320",
+   "type": 11,
+   "heading": "Artigo 13.º — Convocação do voluntário empregado, durante o período de trabalho",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 13.º — Convocação do voluntário empregado, durante o período de trabalho\n\n1 - O voluntário empregado pode ser convocado pela organização promotora, para prestar a sua actividade durante o tempo de trabalho, nos seguintes casos:\n\na) Por motivo de cumprimento de missões urgentes que envolvam o recurso a determinados meios humanos que não se encontrem disponíveis em número suficiente ou com a preparação adequada para esse efeito;\n\nb) Em situação de emergência, calamidade pública, acidentes de origem climatérica ou humana que pela sua dimensão ou gravidade justifiquem a mobilização dos meios existentes afectos às áreas responsáveis pelo controlo da situação e reposição da normalidade ou em casos de força maior devidamente justificados;\n\nc) Em situações especiais inadiáveis em que a participação do voluntário seja considerada imprescindível para a prossecução dos objectivos do programa de voluntariado.\n\n2 - Para efeitos do disposto na alínea c) do número anterior o voluntário dispõe de um crédito de quarenta horas anuais.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976017": {
+   "fragment_id": "106391321",
+   "type": 11,
+   "heading": "Artigo 14.º — Termos da convocatória",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 14.º — Termos da convocatória\n\nAs faltas ao trabalho pelos motivos referidos no artigo anterior devem ser precedidas de convocação escrita da organização promotora, da qual conste a natureza da actividade a desempenhar e o motivo que a justifique, podendo, em caso de reconhecida urgência, ser feita por outro meio, designadamente por telefone, devendo ser confirmada por escrito no dia útil imediato.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976018": {
+   "fragment_id": "106391322",
+   "type": 11,
+   "heading": "Artigo 15.º — Efeitos das faltas",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 15.º — Efeitos das faltas\n\nAs faltas ao trabalho do voluntário empregado, devidamente convocado, consideram-se justificadas, sem perda de retribuição ou quaisquer outros direitos e regalias, nos termos do n.º 2 do artigo 7.º da Lei n.º 71/98, mediante a apresentação da convocatória e do documento comprovativo do cumprimento da missão para que foi convocado, passado pela organização promotora.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976019": {
+   "fragment_id": "106391323",
+   "type": 1,
+   "heading": "Capítulo IV — Acidente ou doença contraída no exercício do trabalho voluntário",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "### Capítulo IV — Acidente ou doença contraída no exercício do trabalho voluntário\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976020": {
+   "fragment_id": "106391324",
+   "type": 11,
+   "heading": "Artigo 16.º — Seguro obrigatório",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 16.º — Seguro obrigatório\n\n1 - A protecção do voluntário em caso de acidente ou doença sofridos ou contraídos por causa directa e especificamente imputável ao exercício do trabalho voluntário é garantida pela organização promotora, mediante seguro a efectuar com as entidades legalmente autorizadas para a sua realização.\n\n2 - O seguro obrigatório compreende uma indemnização e um subsídio diário a atribuir, respectivamente, nos casos de morte e invalidez permanente e de incapacidade temporária.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976021": {
+   "fragment_id": "106391325",
+   "type": 11,
+   "heading": "Artigo 17.º — Apólice de seguro de grupo",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 17.º — Apólice de seguro de grupo\n\nPara a realização do seguro obrigatório será contratada apólice de seguro de grupo.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976022": {
+   "fragment_id": "106391326",
+   "type": 1,
+   "heading": "Capítulo V — Programa de voluntariado",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "### Capítulo V — Programa de voluntariado\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976023": {
+   "fragment_id": "106391327",
+   "type": 11,
+   "heading": "Artigo 18.º — Programa de voluntariado",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 18.º — Programa de voluntariado\n\n1 - Na elaboração do programa de voluntariado a que se refere o artigo 9.º da Lei n.º 71/98 deverão ser tidas em conta as especificidades de cada sector de actividade em que se exerce o voluntariado.\n\n2 - A especificidade de cada sector de actividade poderá justificar a elaboração de um modelo de programa a aprovar pelo ministro da tutela.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976024": {
+   "fragment_id": "106391328",
+   "type": 11,
+   "heading": "Artigo 19.º — Despesas derivadas do cumprimento do programa de voluntariado",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 19.º — Despesas derivadas do cumprimento do programa de voluntariado\n\n1 - O voluntário, sem prejuízo da realização de despesas inadiáveis e reembolsáveis nos termos da alínea j) do artigo 7.º da Lei n.º 71/98, não pode ser onerado com despesas que resultem exclusivamente do exercício regular do trabalho voluntário nos termos acordados no respectivo programa.\n\n2 - Sempre que a utilização de transportes públicos pelo voluntário seja derivada exclusivamente do cumprimento do programa de voluntariado, a organização promotora diligenciará no sentido de ser facultado ao voluntário o título ou meio adequado de transporte.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976025": {
+   "fragment_id": "106391329",
+   "type": 1,
+   "heading": "Capítulo VI — Conselho Nacional para a Promoção do Voluntariado",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "### Capítulo VI — Conselho Nacional para a Promoção do Voluntariado\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976026": {
+   "fragment_id": "106391330",
+   "type": 11,
+   "heading": "Artigo 20.º — Constituição",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 20.º — Constituição\n\n1 - Com o fim de desenvolver e qualificar o voluntariado é criado o Conselho Nacional para a Promoção do Voluntariado.\n\n2 - Por resolução do Conselho de Ministros serão definidas a composição do Conselho Nacional para a Promoção do Voluntariado, assim como o organismo que lhe prestará o apoio necessário ao seu funcionamento e execução das suas deliberações.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976027": {
+   "fragment_id": "106391331",
+   "type": 11,
+   "heading": "Artigo 21.º — Competências",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 21.º — Competências\n\nCompete ao Conselho Nacional para a Promoção do Voluntariado desenvolver as acções indispensáveis à promoção, coordenação e qualificação do voluntariado, nomeadamente:\n\na) Desenvolver as acções adequadas ao conhecimento e caracterização do universo dos voluntários;\n\nb) Emitir o cartão de identificação do voluntário nos termos estabelecidos no artigo 3.º;\n\nc) Promover as acções inerentes à contratação de uma apólice de seguro de grupo entre as organizações promotoras e as entidades seguradoras tendo em vista a cobertura da responsabilidade civil nos termos referidos nos artigos 16.º e seguintes;\n\nd) Providenciar junto das empresas transportadoras, sempre que se justifique, a celebração de acordos para utilização de transportes públicos pelos voluntários, considerando o disposto no n.º 2 do artigo 19.º;\n\ne) Dinamizar, com as organizações promotoras, acções de formação, bem como outros programas que contribuam para uma melhor qualidade e eficácia do trabalho voluntário;\n\nf) Conceder apoio técnico às organizações promotoras mediante a disponibilização de informação com interesse para o exercício do voluntariado;\n\ng) Promover e divulgar o voluntariado como forma de participação social e de solidariedade entre os cidadãos, através dos meios adequados, incluindo os meios de comunicação social;\n\nh) Sensibilizar a sociedade em geral para a importância do voluntariado como forma de exercício do direito de cidadania, promovendo a realização de debates, conferências e iniciativas afins;\n\ni) Promover a realização de estudos sociológicos, designadamente em colaboração com as universidades, sobre a atitude, predisposição e motivação dos cidadãos para a realização do trabalho voluntário;\n\nj) Sensibilizar as empresas para, em termos curriculares, valorizarem a experiência adquirida em acções de voluntariado, especialmente dos jovens à procura de emprego;\n\nl) Acompanhar a aplicação do presente diploma e propor as medidas que se revelem adequadas ao seu aperfeiçoamento e desenvolvimento.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976028": {
+   "fragment_id": "106391332",
+   "type": 1,
+   "heading": "Capítulo VII — Disposições finais",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "### Capítulo VII — Disposições finais\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976029": {
+   "fragment_id": "106391333",
+   "type": 11,
+   "heading": "Artigo 22.º — Avaliação",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 22.º — Avaliação\n\nNo prazo de um ano após a entrada em vigor do presente diploma será feita a avaliação dos mecanismos no mesmo estabelecidos para operacionalização e promoção do trabalho voluntário, nomeadamente o desenvolvido pelos titulares dos órgãos sociais das organizações promotoras, tendo em vista a introdução das alterações que se mostrem necessárias.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976030": {
+   "fragment_id": "106391334",
+   "type": 11,
+   "heading": "Artigo 23.º — Entrada em vigor",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "###### Artigo 23.º — Entrada em vigor\n\nO presente diploma entra em vigor um mês após a data da sua publicação.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  },
+  "862976031": {
+   "fragment_id": "106391335",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-05-23",
+   "changed_by": [
+    "Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 22 de Julho de 1999. - Jaime José Matos da Gama - Guilherme d'Oliveira Martins - Francisco Ventura Ramos - Eduardo Luís Barreto Ferro Rodrigues - José Sócrates Carvalho Pinto de Sousa.\n\nPromulgado em 17 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 20 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres.\n\n> Revogado pelo/a Artigo 26.º do/a [Decreto-Lei n.º 48/2017 - Diário da República n.º 98/2017, Série I de 2017-05-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2017-107047290), em vigor a partir de 2017-05-23"
+  }
+ }
+}

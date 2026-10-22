@@ -1,0 +1,160 @@
+---
+schema_version: '1.0'
+id: pt:dre:644318:por
+title: Portaria n.º 422-B/88
+short_title: null
+summary: Estabelece a soma do capital social, das reservas constituídas e dos resultados transitados das sociedades gestoras
+  de fundos de investimento, abertos e fechados, mobiliários ou imobiliários
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 422-B/88
+official_date: null
+publication_date: '1988-07-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 152/1988, 1º Suplemento, Série I de 1988-07-04
+  number: '152'
+  series: I
+  supplement: 1º Suplemento
+  pages: 2732-(24) a 2732-(26)
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/07/15201/00240026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '644318'
+  dre_path: /dr/detalhe/portaria/422-b-1988-644318
+  internal: pt:dre:644318:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-b-1988-644318
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/422-b-1988-644318
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-11-02T00:00:00Z'
+integrity:
+  source_sha256: fb2b77d09f97283f1fe39e7995db7897fa25fdcfed5ca4a53cc7b22c46b72690
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-422-B-644318.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:621311:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 422-B/88
+
+de 4 de Julho
+
+O [Decreto-Lei n.º 229-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-c-1988-644323), de 4 de Julho, reformula a legislação anterior relativa aos fundos de investimento mobiliários e imobiliários abertos, com as adaptações decorrentes da evolução entretanto verificada no mercado de capitais, e regula a criação de fundos fechados daquelas mesmas modalidades.
+
+Importa, por isso, reunir num só diploma, adaptado ao novo quadro legal, os aspectos contidos nas Portarias n.os [41/86](https://diariodarepublica.pt/dr/detalhe/portaria/41-1986-194659), [395/87](https://diariodarepublica.pt/dr/detalhe/portaria/395-1987-421043) e [131/88](https://diariodarepublica.pt/dr/detalhe/portaria/131-1988-286727), de 31 de Janeiro, 11 de Maio e 27 de Fevereiro, respectivamente, sobre os fundos mobiliários abertos, bem como a regulamentação dos fundos imobiliários, considerando igualmente, para uns e para outros, a nova modalidade de fundos fechados.
+
+Em regulamentação do disposto nos artigos 6.º, n.º 4, 12.º e 16.º, n.º 2, do [Decreto-Lei n.º 229-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-c-1988-644323), de 4 de Julho, e ouvido o Banco de Portugal:
+
+Manda o Governo, pelo Ministro das Finanças, o seguinte:
+
+1.º A soma do capital social, das reservas constituídas e dos resultados transitados das sociedades gestoras de fundos de investimento, abertos e fechados, mobiliários ou imobiliários, não deve ser inferior ao valor resultante da aplicação das percentagens seguintes à soma dos valores líquidos globais dos fundos que administrem:
+
+a) Até 15 milhões de contos - 1%;
+
+b) No excedente a 15 milhões de contos - 0,5%.
+
+2.º - 1 - O património dos fundos de investimento mobiliário, abertos ou fechados, só pode ser constituído por numerário, depósitos bancários, títulos de dívida pública, acções, direitos de subscrição, obrigações, títulos de participação, certificados de participação de outros fundos de investimento e aplicações nos mercados interbancários.
+
+2 - Tratando-se de fundos de investimento mobiliário abertos, deverá ser observado o seguinte:
+
+a) Um mínimo de 6% do valor líquido global do fundo será constituído por numerário, depósitos bancários, bilhetes do Tesouro ou aplicações nos mercados interbancários;
+
+b) Um mínimo de 75% do património dos fundos deverá ser constituído por títulos cotados, oficialmente ou não, em bolsa de valores, ou por títulos negociáveis de dívida pública, incluindo bilhetes do Tesouro, devendo aqueles títulos de dívida pública representar, pelo menos, 25% daquele património;
+
+c) Os valores mobiliários não admitidos à cotação em bolsa de valores não podem exceder 10% do valor líquido global do fundo, salvo tratando-se de títulos de dívida pública;
+
+d) Os títulos emitidos por uma só entidade, com excepção dos títulos de dívida pública, não representação mais de 10% do valor nominal dos títulos por ela emitidos, nem mais de 10% do valor líquido global do fundo.
+
+3 - Se os valores mobiliários referidos na alínea c) do n.º 2 não vierem a ser admitidos à cotação oficial numa bolsa de valores nos dois anos seguintes ao da sua publicação ou aquisição, devem ser alienados, não podendo tais valores ou outros da mesma natureza, que a respectiva entidade tenha emitido ou venha a emitir, ser incluídos no património do fundo enquanto não forem admitidos à referida cotação.
+
+4 - As percentagens estabelecidas nas alíneas b), c) e d) do n.º 2 reportam-se ao momento de aquisição ou subscrição e devem ser permanentemente respeitadas, salvo nos casos previstos do número seguinte.
+
+5 - Sempre que as percentagens referidas nas alíneas b), c) e d) do n.º 2 sejam ultrapassadas por virtude do exercício dos direitos de subscrição ou de opção, ou como resultado da atribuição de títulos por incorporação de reservas em capital social, ou ainda em consequência de fusão de sociedades, a política de investimentos deve ser ajustada de modo que venham a ser respeitadas aquelas percentagens dentro dos seguintes prazos:
+
+a) Dois anos, no caso de títulos recebidos em consequência da fusão de sociedades;
+
+b) Um ano, nos restantes casos.
+
+6 - O disposto nas alíneas c) e d) do n.º 2 e nos n.os 3, 4 e 5 aplica-se aos fundos de investimento mobiliário fechados.
+
+3.º - 1 - O património dos fundos de investimento imobiliário, abertos ou fechados, só pode ser constituído por valores imobiliários, numerário, depósitos bancários, títulos de dívida pública, certificados de participação noutros fundos de investimento e aplicação nos mercados interbancários.
+
+2 - Tratando-se de fundos de investimento imobiliário abertos, observar-se-á o seguinte:
+
+a) Um mínimo de 6% do valor líquido global do fundo será constituído por numerário, depósitos bancários, bilhetes do Tesouro e aplicações nos mercados interbancários;
+
+b) Os valores imobiliários não podem representar menos de 75% do valor líquido global do fundo;
+
+c) Até 10% do seu valor líquido global, o património do fundo poderá ser constituído por terrenos destinados à execução de programas de construção, devendo, porém, ser alienados caso aqueles programas não tenham início no prazo de dois anos contados a partir da data da respectiva aquisição;
+
+d) As participações no capital de sociedades previstas na alínea b) do n.º 1 do artigo 3.º do [Decreto-Lei n.º 229-C/88](https://diariodarepublica.pt/dr/detalhe/decreto-lei/229-c-1988-644323), de 4 de Julho, não podem representar mais de 25% do valor líquido global do fundo;
+
+e) Não podem ser aplicados num único empreendimento mais de 20% do valor líquido global do fundo.
+
+3 - Os requisitos estabelecidos no número anterior devem ser permanentemente respeitados, salvo nos casos previstos nos números seguintes.
+
+4 - As percentagens referidas nas alíneas b) a e) do n.º 2 devem ser respeitadas a partir do início do terceiro exercício do fundo, devendo ser regularizadas no prazo máximo de um ano as situações de desconformidade resultantes da alteração dos valores venais dos bens ou do exercício do direito de reembolso pelos participantes dos fundos abertos.
+
+5 - O disposto nas alíneas b), c) e e) do n.º 2 e nos n.os 3 e 4 aplica-se aos fundos de investimento imobiliário fechados.
+
+4.º - 1 - Nos termos das normas em vigor, as unidades de participação dos fundos de investimento fechados poderão ser objecto de cotação oficial em bolsa de valores.
+
+2 - As entidades gestoras dos fundos de investimento referidos no número anterior requererão a admissão à cotação em bolsa de valores nacional das unidades de participação respectivas imediatamente após a integral colocação do capital a investir, fixado no acto de constituição dos referidos fundos.
+
+5.º São revogadas as Portarias n.os [41/86](https://diariodarepublica.pt/dr/detalhe/portaria/41-1986-194659), [395/87](https://diariodarepublica.pt/dr/detalhe/portaria/395-1987-421043) e [131/88](https://diariodarepublica.pt/dr/detalhe/portaria/131-1988-286727), respectivamente de 31 de Janeiro, 11 de Maio e 27 de Fevereiro.
+
+Ministério das Finanças.
+
+**Assinada em 30 de Junho de 1988.**
+
+**O Ministro das Finanças, Miguel José Ribeiro Cadilhe.**

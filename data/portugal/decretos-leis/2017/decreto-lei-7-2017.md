@@ -1,0 +1,533 @@
+---
+schema_version: '1.0'
+id: pt:dre:105726273:por
+title: Decreto-Lei n.º 7/2017
+short_title: null
+summary: Cria o Instituto de Proteção e Assistência na Doença, I. P.
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Saúde
+proposing_entity: null
+official_number: 7/2017
+official_date: null
+publication_date: '2017-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2017, Série I de 2017-01-09
+  number: '6'
+  series: I
+  supplement: null
+  pages: 328 - 332
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00600/0032800332.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-05-16'
+version_history:
+  file: decreto-lei-7-2017.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-05-16'
+    amending: pt:dre:115312061:por
+    amending_title: Decreto-Lei n.º 33/2018
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 18.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/7/2017/p/cons/20180515/pt/html
+  oj: null
+  dre: '105726273'
+  dre_path: /dr/detalhe/decreto-lei/7-2017-105726273
+  internal: pt:dre:105726273:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/7-2017-105726273
+  metadata_url: https://data.dre.pt/eli/dec-lei/7/2017/p/cons/20180515/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-115203900
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-115203900
+  retrieved_at: '2026-10-22T12:18:41Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: a296364f33a3511bf7e6c88da3720c2f52e3ee6d5399c7325faeeb2e23d028c0
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:18:41Z'
+  notes: 2 versão(ões); histórico completo em decreto-lei-7-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ADSE
+- Fiscal Único
+- Pessoal Dirigente
+- Conselho Geral
+- Criação de Serviços
+- Definição de Competências
+- Conselho Diretivo
+- Instituto Público
+- Orgânica
+- Quadro de Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:115312061:por
+  label: Altera Artigo 8.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061
+  date: '2018-05-15'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2011/12/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/126/2014/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/126/2014/08/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2014/08/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/152/2015/08/07/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/152/2015/08/07/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/173/2014/11/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/173/2014/11/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregul/44/2012/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/decregul/44/2012/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/3/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/122/2013/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/122/2013/03/27/p/dre
+article_structure:
+  article_count: 27
+  section_count: 3
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:18:41Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 7/2017
+
+Decreto-Lei n.º 7/2017
+
+de 9 de janeiro
+
+O Decreto Regulamentar n.º 44/2012, de 20 de junho, criou a Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas (ADSE), com vista a assegurar a proteção aos seus beneficiários nos domínios da promoção da saúde, da prevenção da doença, do tratamento e da reabilitação.
+
+Com o intuito de reforçar a articulação da ADSE com o Serviço Nacional de Saúde, o Decreto-Lei n.º 152/2015, de 7 de agosto, determinou a passagem da dependência e dos poderes de hierarquia da ADSE do Ministério das Finanças para o Ministério da Saúde.
+
+Face à natureza institucional e ao objeto que prossegue julga-se, no entanto, conveniente que a ADSE passe a ter tutela conjunta dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+Analisada a capacidade da ADSE tendo em vista a respetiva sustentabilidade, a estabilidade do seu modelo de governação, a representatividade dos seus associados e a autonomia para assegurar uma gestão técnica profissional e eficiente, atendendo ao número de titulares e beneficiários da ADSE, à utilidade pública que é reconhecida à ADSE pelos serviços que presta no âmbito da proteção social dos trabalhadores das administrações públicas, a necessidade de promover a confiança dos associados bem como de assegurar a continuidade das suas atividades, julga-se oportuna e mais adequada a alteração da natureza jurídica da ADSE, o que se concretiza através do presente Decreto-Lei, atribuindo-lhe a natureza de instituto público de regime especial. O Instituto de Proteção e Assistência na Doença, I. P. (ADSE, I. P.), de gestão participada, substitui e sucede, assim, à Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas.
+
+A criação da ADSE, I. P., vai, também, ao encontro das recomendações do Tribunal de Contas, tendo em conta que a missão e os objetivos da ADSE não se confundem com o exercício de funções que competem ao Estado, considerando necessária a alteração do regime jurídico que regula o esquema de benefícios da ADSE e a responsabilidade financeira da mesma por cuidados prestados aos seus quotizados, atribuindo-lhe um regime jurídico de autonomia administrativa e financeira, e de participação dos quotizados na sua governação, ao nível das decisões estratégicas e de controlo financeiro.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 9.º e no artigo 47.º da Lei n.º 3/2004, de 15 de janeiro, e nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Natureza
+
+O Instituto de Proteção e Assistência na Doença, I. P., abreviadamente designado por ADSE, I. P., é um instituto público de regime especial e de gestão participada, nos termos da lei e do presente Decreto-Lei, integrado na administração indireta do Estado, dotado de autonomia administrativa e financeira e património próprio.
+
+###### Artigo 2.º — Jurisdição territorial e sede
+
+1 - A ADSE, I. P., é um organismo central com jurisdição sobre todo o território nacional.
+
+2 - A ADSE, I. P., tem sede em Lisboa, podendo ter delegações ou outras formas de representação no território nacional, sempre que adequado à prossecução das respetivas atribuições.
+
+###### Artigo 3.º — Missão e atribuições
+
+1 - A ADSE, I. P., tem por missão assegurar a proteção aos seus beneficiários nos domínios da promoção da saúde, prevenção da doença, tratamento e reabilitação.
+
+2 - A ADSE, I. P., prossegue as seguintes atribuições:
+
+a) Organizar, implementar, gerir e controlar o sistema de benefícios de saúde dos seus beneficiários;
+
+b) Celebrar os acordos, convenções, contratos e protocolos que interessem ao desempenho da sua missão e acompanhar o cumprimento dos mesmos;
+
+c) Administrar as receitas no respeito pelo princípio da boa administração;
+
+d) Desenvolver e implementar mecanismos de controlo inerentes à atribuição de benefícios;
+
+e) Aplicar aos beneficiários as sanções previstas na lei quando se detetem infrações às normas e regulamentos da ADSE, I. P.;
+
+f) Proceder à gestão dos benefícios a aplicar no domínio da proteção social dos seus beneficiários;
+
+g) Desenvolver e implementar mecanismos de combate à fraude.
+
+###### Artigo 4.º — Capacidade
+
+A capacidade jurídica da ADSE, I. P., abrange a prática de todos os atos jurídicos, o gozo de todos os direitos e a sujeição a todas as obrigações necessárias à prossecução das suas atribuições.
+
+###### Artigo 5.º — Regime jurídico
+
+A ADSE, I. P., rege-se pelo presente Decreto-Lei, pela lei-quadro dos institutos públicos e demais legislação aplicável às pessoas coletivas públicas, em geral, e aos institutos públicos, em especial, bem como pelos seus estatutos e regulamento interno.
+
+###### Artigo 6.º — Princípios de gestão
+
+1 - A ADSE, I. P., pauta a sua atuação pelos seguintes princípios, sem prejuízo do disposto na lei-quadro dos institutos públicos:
+
+a) Exercício da sua atividade de acordo com elevados padrões de qualidade;
+
+b) Garantia de eficiência económica na gestão;
+
+c) Gestão por objetivos devidamente determinados e quantificados e avaliação periódica dos resultados;
+
+d) Princípio da transparência:
+
+i) A sua contabilidade é organizada nos termos da lei, permitindo identificar claramente todos os fluxos financeiros, operacionais e económicos;
+
+ii) As contas patrimoniais espelham de forma adequada as responsabilidades e os níveis de sustentabilidade financeira dos planos de benefícios de saúde e de proteção social;
+
+e) Princípio da sustentabilidade:
+
+i) O plano de benefícios, o valor dos descontos e das contribuições a cargo dos beneficiários são determinados em função da sustentabilidade presente e futura dos planos de benefícios geridos pela ADSE, I. P.;
+
+ii) A gestão dos riscos obedece a uma gestão financeira prudente suportada em avaliações e estudos atuariais e financeiros, de acordo com as boas práticas nacionais e internacionais.
+
+f) Princípio da eficiência: A gestão das despesas com a prestação dos cuidados de saúde tem em vista a obtenção do máximo de benefícios para os beneficiários, respeitando o princípio da sustentabilidade.
+
+g) Princípio da equidade: A gestão assegura uma repartição equitativa dos custos com os planos de benefícios de saúde.
+
+h) Princípio da gestão participada: Através da participação dos beneficiários na sua governação, ao nível das decisões estratégicas e de controlo financeiro
+
+i) A ADSE, I. P., rege-se pelo princípio da autossustentabilidade, devendo adequar o plano de benefícios às suas receitas.
+
+###### Artigo 7.º — Superintendência
+
+Compete ao membro do Governo responsável pela área da saúde:
+
+a) Aprovar os objetivos e estratégias da ADSE, I. P.;
+
+b) Emitir orientações, recomendações e diretivas para prossecução das atribuições da ADSE, I. P.;
+
+c) Solicitar toda a informação necessária à avaliação do desempenho da ADSE, I. P.
+
+###### Artigo 8.º — Tutela
+
+1 - Compete ao membro do Governo responsável pela área da saúde:
+
+a) Determinar auditorias e inspeções ao funcionamento da ADSE, I. P., de acordo com a legislação aplicável;
+
+b) Praticar outros atos que, nos termos da lei, careçam de autorização prévia ou aprovação tutelar.
+
+2 - Compete aos membros do Governo responsáveis pelas áreas das finanças e da saúde:
+
+a) Aprovar o plano de atividades e o orçamento;
+
+b) Aprovar os documentos de prestação de contas;
+
+c) Autorizar a aceitação de doações, heranças ou legados;
+
+d) Autorizar a participação da ADSE, I. P., em entidades de direito privado com ou sem fins lucrativos, bem como a aquisição de participações nessas entidades;
+
+e) Autorizar a aquisição e venda de imóveis, bem como a sua oneração;
+
+f) Autorizar os demais atos previstos na lei ou nos estatutos.
+
+g) Autorizar previamente as alterações aos cuidados de saúde comparticipáveis pela ADSE, I. P., em regime livre, sempre que das mesmas resulte aumento do valor, por ato a reembolsar, sob proposta do Conselho Diretivo e parecer do Conselho Geral e de Supervisão nos termos do n.º 4 do artigo 14.º do presente diploma.
+
+3 - Os estatutos da ADSE, I. P., são aprovados por portaria dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.
+
+> Alterado pelo/a Artigo 165.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 9.º — Órgãos
+
+São órgãos da ADSE, I. P.:
+
+a) O conselho diretivo;
+
+b) O Fiscal único;
+
+c) O conselho geral e de supervisão.
+
+###### Artigo 10.º — Conselho diretivo
+
+1 - O conselho diretivo é composto por um presidente e por dois vogais.
+
+2 - Um dos vogais é indicado pelos membros do conselho geral e de supervisão previstos nas alíneas c), d) e e) do n.º 2 do artigo 14.º
+
+3 - Após aceitação da indicação referida no número anterior, a designação dos membros do conselho diretivo é feita através de Resolução do Conselho de Ministros.
+
+4 - O mandato dos membros do conselho diretivo tem a duração de três anos, renováveis duas vezes por igual período.
+
+###### Artigo 11.º — Competências do conselho diretivo
+
+Sem prejuízo das competências que lhe forem conferidas por lei, ou nele forem delegadas ou subdelegadas, compete ao conselho diretivo:
+
+a) Submeter à aprovação dos membros do Governo responsáveis pelas áreas das finanças e da saúde, acompanhados dos pareceres do Conselho Geral e de Supervisão:
+
+i) Os planos plurianuais de atividade;
+
+ii) Os planos de sustentabilidade;
+
+iii) O plano de atividades e o orçamento;
+
+iv) O relatório de atividades e as contas anuais;
+
+b) Dirigir e acompanhar a atividade e o desempenho da ADSE, I. P., apresentando ao conselho geral e de supervisão as propostas que sejam pertinentes, designadamente os objetivos estratégicos refletidos nos planos plurianuais;
+
+c) Submeter a parecer do conselho geral e de supervisão propostas sobre a gestão do património, a aceitação de donativos, heranças ou legados;
+
+d) Submeter a parecer do conselho geral e de supervisão os valores a cobrar aos beneficiários pelos serviços prestados pela ADSE, I. P.
+
+###### Artigo 12.º — Estatuto dos membros do conselho diretivo
+
+Aos membros do conselho diretivo é aplicável o regime fixado no Estatuto do Gestor Público e, subsidiariamente, o previsto na lei-quadro dos institutos públicos.
+
+###### Artigo 13.º — Fiscal único
+
+O fiscal único é designado e tem as competências previstas na lei-quadro dos institutos públicos.
+
+###### Artigo 14.º — Conselho geral e de supervisão
+
+1 - O conselho geral e de supervisão é o órgão de acompanhamento, controlo, consulta e participação na definição das linhas gerais de atuação da ADSE, I. P.
+
+2 - O conselho geral e de supervisão é composto pelos seguintes elementos:
+
+a) Três elementos indicados pelo membro do Governo responsável pela área das finanças;
+
+b) Três elementos indicados pelo membro do Governo responsável pela área da saúde;
+
+c) Quatro representantes eleitos por sufrágio universal e direto dos beneficiários titulares da ADSE, I. P.;
+
+d) Três representantes indicados pelas organizações sindicais mais representativas dos trabalhadores das administrações públicas;
+
+e) Dois membros indicados pelas associações dos reformados e aposentados da administração pública;
+
+f) Um elemento indicado pela Associação Nacional de Municípios Portugueses;
+
+g) Um elemento indicado pela Associação Nacional de Freguesias.
+
+3 - O presidente do conselho geral e de supervisão é eleito de entre os seus membros na primeira reunião.
+
+4 - Para além das competências previstas no artigo 31.º da lei-quadro dos institutos públicos, compete ainda ao conselho geral e de supervisão:
+
+a) Emitir parecer prévio sobre:
+
+i) Os objetivos estratégicos da ADSE, I. P.;
+
+ii) Os planos de atividades e o orçamento;
+
+iii) Os planos de sustentabilidade, incluindo as medidas apresentadas pelo conselho diretivo visando assegurar a sustentabilidade da ADSE, I. P.;
+
+iv) O relatório de atividades e as contas anuais;
+
+b) Supervisionar a atividade do conselho diretivo, tendo direito para o efeito de exigir a disponibilização da informação necessária por aquele conselho;
+
+c) Emitir parecer sobre as matérias e atribuições da ADSE, I. P., bem como sobre quaisquer outros regulamentos, nomeadamente:
+
+i) Propostas do conselho diretivo relativas à gestão do património da ADSE, I. P.;
+
+ii) Propostas do conselho diretivo sobre a participação na criação de entidades de direito privado com ou sem fins lucrativos, bem como sobre a aquisição de participações em tais entidades.
+
+5 - O prazo para a emissão dos pareceres referidos no presente artigo é de 30 dias a contar da receção dos documentos ressalvadas as situações de urgência imperiosa.
+
+6 - Decorrido o prazo previsto no número anterior sem serem emitidos os pareceres considera-se a formalidade cumprida.
+
+7 - Podem participar nas reuniões, sem direito a voto, além dos membros do conselho diretivo, quaisquer pessoas ou entidades cuja presença seja considerada necessária para esclarecimento dos assuntos em apreciação, por convocação do presidente do conselho geral e de supervisão.
+
+8 - Compete, ainda, aos membros do conselho geral e de supervisão referidos nas alíneas c), d) e e) do n.º 2, indicar o membro do conselho diretivo, nos termos do disposto no artigo 10.º
+
+9 - O processo para eleição dos membros referidos na alínea c) do n.º 2 é fixado por portaria do membro do Governo responsável pela área da saúde.
+
+10 - O mandato dos membros do conselho geral e de supervisão tem a duração de três anos e pode ser renovado uma única vez.
+
+###### Artigo 15.º — Organização interna
+
+A organização interna da ADSE, I. P., é a prevista nos respetivos estatutos e no regulamento interno.
+
+###### Artigo 16.º — Gestão financeira e patrimonial
+
+1 - A ADSE, I. P., dispõe de autonomia quanto à gestão financeira e patrimonial, traduzida nas competências do conselho diretivo para elaborar o plano plurianual, o orçamento anual e assegurar a respetiva execução, gerir o património, arrecadar e gerir as receitas, bem como autorizar a realização das despesas necessárias ao seu funcionamento e ainda proceder à rentabilização das suas receitas, reservas e saldos.
+
+2 - O conselho diretivo procede à elaboração de um plano plurianual de sustentabilidade da ADSE, I. P., nas vertentes económico-financeira e orçamental, tendo em conta as suas necessidades de curto e longo prazo, sujeito a revisão anual, incluindo uma avaliação de necessidades de verbas a afetar à reserva de sustentabilidade, a submeter à aprovação a conferir por despacho dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+3 - O despacho a que se refere o número anterior fixa anualmente o montante a inscrever a título de saldo, bem como a verba a afetar à reserva.
+
+4 - A prestação de serviços pela ADSE, I. P., ao Estado é remunerada, nomeadamente a realização de juntas médicas por doença natural, de juntas médicas por acidentes em serviço ou a verificação domiciliária da doença.
+
+5 - O valor da remuneração referida no número anterior é fixado por portaria dos membros do Governo responsáveis pelas áreas das finanças e da saúde.
+
+6 - A ADSE, I. P., não pode recorrer ao crédito, salvo em circunstâncias excecionais mediante autorização dos membros do Governo responsáveis pelas áreas das finanças e da saúde e sob parecer favorável do fiscal único.
+
+7 - As certidões de dívida emitidas pela ADSE, I. P, qualquer que seja a natureza da dívida ou da entidade devedora, têm força de título executivo, nos termos dos artigos 162.º e 163.º do Código de Procedimento e de Processo Tributário, sendo a sua cobrança coerciva efetuada através do processo de execução fiscal.
+
+8 - A cobrança coerciva de créditos prevista no número anterior é promovida pela Autoridade Tributária e Aduaneira, nos termos a definir por protocolo.
+
+9 - As certidões de dívida emitidas pela ADSE, I. P., constituem ainda título bastante para efeitos do procedimento de retenção nas transferências do Orçamento do Estado para as diversas entidades das administrações públicas.
+
+###### Artigo 17.º — Receitas
+
+Constituem receitas da ADSE, I. P.:
+
+a) Os descontos dos beneficiários titulares do sistema de saúde ADSE;
+
+b) As contribuições ou descontos dos beneficiários familiares do sistema de saúde ADSE;
+
+c) As receitas decorrentes de prestações de serviços realizadas pela ADSE, I. P.;
+
+d) O produto das taxas, encargos ou copagamentos que cobre pela prestação de serviços;
+
+e) O produto da alienação de bens próprios e da constituição de direitos sobre eles;
+
+f) Os juros ou outros rendimentos decorrentes de aplicações financeiras;
+
+g) Quaisquer outras receitas, rendimentos ou valores que provenham da sua atividade ou que por lei ou contrato lhe venham a pertencer ou a ser atribuídos, bem como quaisquer doações, subsídios ou outras formas de apoio financeiro.
+
+###### Artigo 18.º — Despesas
+
+1 - Constituem despesas da ADSE, I. P., as realizadas no âmbito da prossecução das atribuições e competências que lhe estão cometidas e respeitem a encargos decorrentes da sua atividade.
+
+2 - O conselho diretivo da ADSE, I. P., propõe aos membros de Governo responsáveis pela tutela, após parecer do conselho geral e de supervisão, um limite para efeito de pagamento de cuidados de saúde abrangidos por acordos celebrados ou a celebrar pela ADSE, I. P., em regime convencionado, relativo ao preço dos medicamentos, ao preço das próteses e ao preço global por procedimento cirúrgico.
+
+3 - Caso não seja fixado o limite previsto no número anterior, devem ser supletivamente aplicados os seguintes limites máximos:
+
+a) Preço de Venda ao Público (P.V.P.) ou o Preço de Venda Hospitalar (P.V.H.) acrescido de 40 %, no caso dos medicamentos;
+
+b) Margem de comercialização dos dispositivos médicos (DM), próteses intraoperatórias e dispositivos para osteossíntese que não exceda os seguintes valores, calculados sobre o preço de aquisição do respetivo dispositivo médico:
+
+i) Preço DM inferior a 5 00(euro) - margem máxima de 25 %;
+
+ii) Preço DM igual ou superior a 5 00(euro) e inferior a 2 500(euro) - margem máxima de 20 %;
+
+iii) Preço DM igual ou superior a 2 500(euro) e inferior a 5 000(euro) - margem máxima de 15 %;
+
+iv) Preço DM igual ou superior a 5 000(euro) e inferior a 7 500(euro) - margem máxima de 10 %;
+
+v) Preço DM igual ou superior a 7 500(euro) e inferior a 10 000(euro) - margem máxima de 7,5 %;
+
+vi) Preço DM igual ou superior a 10 000(euro) - margem máxima de 5 %;
+
+c) Preço médio de todos os valores faturados à ADSE, I. P., nos últimos três anos económicos, tendo por referência o preço global por cada tipo de procedimento cirúrgico, no caso de procedimentos cirúrgicos.
+
+4 - Para efeitos do limite máximo estabelecido na alínea a) do número anterior é considerado o mais baixo destes preços.
+
+5 - Os limites estabelecidos na alínea b) do n.º 3 têm por base o preço de aquisição e as margens comerciais dos DM, podendo a ADSE, I. P., a qualquer momento, solicitar a disponibilização dos elementos de prova.
+
+6 - Para efeitos do disposto na alínea b) do n.º 3, nas próteses intraoperatórias não se consideram as lentes intraoculares.
+
+7 - O limite definido na alínea c) do n.º 3 apenas é válido caso o número de procedimentos cirúrgicos faturados à ADSE, I. P., no período referido seja superior a 30.
+
+> Alterado pelo/a Artigo 165.º do/a [Decreto-Lei n.º 33/2018 - Diário da República n.º 93/2018, Série I de 2018-05-15](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33-2018-115312061), em vigor a partir de 2018-05-16
+
+###### Artigo 19.º — Património
+
+O património da ADSE, I. P., é constituído pela universalidade de bens, direitos e obrigações de que seja titular.
+
+###### Artigo 20.º — Preparação do plano plurianual
+
+1 - No âmbito da preparação do plano plurianual de atividades, a ADSE, I. P., submete anualmente a consulta pública as principais orientações estratégicas para o triénio, acompanhadas do estudo de sustentabilidade.
+
+2 - A ADSE, I. P., disponibiliza na página eletrónica os elementos previstos no número anterior, decorrendo a consulta por prazo não inferior a 20 dias úteis.
+
+3 - Findo o prazo da consulta, a ADSE, I. P., elabora o respetivo relatório e disponibiliza-o na sua página eletrónica juntamente com os contributos recebidos.
+
+###### Artigo 21.º — Sucessão
+
+1 - A ADSE, I. P., sucede nas atribuições da Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas.
+
+2 - As posições jurídicas detidas pela Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas transmitem-se para a ADSE, I. P., nelas se incluindo a universalidade de bens e direitos, o ativo e passivo, o património físico e jurídico e as posições em contratos em vigor, incluindo os relativos aos seus trabalhadores, constituindo o presente Decreto-Lei título bastante para todos os efeitos legais.
+
+3 - As referências à Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas, designadamente noutros diplomas legais ou regulamentares, consideram-se feitas à ADSE, I. P.
+
+###### Artigo 22.º
+
+Norma transitória de atribuições e competências em matéria de controlo e fiscalização de situações de doença
+
+A ADSE, I. P., continua a prosseguir as atribuições e competências da Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas em matéria de controlo e fiscalização de situações de doença até que se concluam os procedimentos legais e regulamentares necessários para que possam ser prosseguidas por outro serviço ou organismo da Administração Pública.
+
+###### Artigo 23.º — Norma transitória
+
+1 - Até à conclusão do processo de indicação e eleição dos membros do conselho geral e de supervisão, bem como do processo de designação dos membros do conselho diretivo, mantêm-se em vigor os artigos 4.º a 10.º do Decreto Regulamentar n.º 44/2012, de 20 de junho, alterado pelo Decreto-Lei n.º 152/2015, de 7 de agosto.
+
+2 - Até à aprovação da nova estrutura e regulamento de funcionamento mantém-se em vigor a Portaria n.º 122/2013, de 27 de março, e regulamentação complementar, mantendo-se ainda em vigor as comissões de serviço do pessoal dirigente da ADSE, I. P., até à tomada de posse de novos dirigentes, bem como o mapa de pessoal.
+
+3 - O processo eleitoral dos representantes dos beneficiários titulares da ADSE, I. P., é desencadeado no prazo de 10 dias úteis a contar da data da publicação da portaria a que se refere o n.º 9 do artigo 14.º
+
+4 - Os processos referidos nos números anteriores devem estar concluídos no prazo máximo de 180 dias a contar da data da entrada em vigor do presente Decreto-Lei.
+
+5 - Os encargos decorrentes do funcionamento da ADSE, I. P., são suportados pelo orçamento da Direção-Geral de Proteção Social aos Trabalhadores em Funções Públicas até à reafetação dos recursos financeiros ao orçamento da ADSE, I. P.
+
+###### Artigo 24.º — Disposições finais
+
+A ADSE, I. P., elabora a proposta de regulamento do regime de benefícios do sistema de saúde ADSE e submete-a aos membros do Governo responsáveis pelas áreas das finanças e da saúde, no prazo de 180 dias após a entrada em vigor do presente Decreto-Lei.
+
+###### Artigo 25.º — Alteração dos anexos I e II ao Decreto-Lei n.º 124/2011, de 29 de dezembro
+
+Os anexos I e II ao Decreto-Lei n.º 124/2011, de 29 de dezembro, alterado pelos Decretos-Leis n.os 126/2014, de 22 de agosto, 127/2014, de 22 de agosto, 173/2014, de 29 de novembro, e 152/2015, de 7 de agosto, passam a ter a redação constante do anexo ao presente Decreto-Lei, do qual faz parte integrante.
+
+###### Artigo 26.º — Norma revogatória
+
+Sem prejuízo do disposto nos n.os 1 e 2 do artigo 23.º, é revogado o Decreto Regulamentar n.º 44/2012, de 20 de junho, alterado pelo Decreto-Lei n.º 152/2015, de 7 de agosto.
+
+###### Artigo 27.º — Produção de efeitos
+
+O presente Decreto-Lei produz efeitos a 1 de janeiro de 2017.
+
+Visto e aprovado em Conselho de Ministros de 15 de dezembro de 2016. - Augusto Ernesto Santos Silva - Mário José Gomes de Freitas Centeno -Adalberto Campos Fernandes.
+
+Promulgado em 28 de dezembro de 2016.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 3 de janeiro de 2017.
+
+O Primeiro-Ministro, António Luís Santos da Costa.
+
+## Anexo
+
+(a que se refere o artigo 25.º)
+
+## Anexo I — (a que se refere o artigo 22.º)
+
+Cargos de direção superior da administração direta
+
+(ver documento original)
+
+## Anexo II — (a que se refere o artigo 22.º)
+
+Dirigentes de organismos da administração indireta
+
+(ver documento original)

@@ -1,0 +1,372 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:74788779:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2016-118484596",
+ "dre_path": "/dr/detalhe/lei/19-2016-74788779",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-06-24",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "118463130",
+    "118463131",
+    "118463132",
+    "118463133",
+    "118463134",
+    "118463135",
+    "118463136",
+    "118463137",
+    "118463138",
+    "118463139",
+    "118463140",
+    "118463141",
+    "118463142",
+    "118463143",
+    "118463144",
+    "118463145",
+    "118463146",
+    "118463147",
+    "118463148",
+    "118463149",
+    "118463150",
+    "118463151"
+   ]
+  },
+  {
+   "date": "2019-01-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:118484590:por",
+     "title": "Decreto-Lei n.º 18/2019",
+     "published": "2019-01-25",
+     "dre_path": "/dr/detalhe/decreto-lei/18-2019-118484590"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "118463130",
+    "118463131",
+    "118463132",
+    "118463133",
+    "118463134",
+    "118463158",
+    "118463136",
+    "118463137",
+    "118463138",
+    "118463139",
+    "118463159",
+    "118463160",
+    "118463142",
+    "118463143",
+    "118463144",
+    "118463145",
+    "118463146",
+    "118463147",
+    "118463148",
+    "118463149",
+    "118463150",
+    "118463151",
+    "118463152"
+   ]
+  },
+  {
+   "date": "2020-07-17",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138054853:por",
+     "title": "Decreto-Lei n.º 39/2020",
+     "published": "2020-07-16",
+     "dre_path": "/dr/detalhe/decreto-lei/39-2020-138054853"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º"
+   ],
+   "fragments": [
+    "118463130",
+    "118463131",
+    "118463132",
+    "118463133",
+    "118463134",
+    "138059326",
+    "118463136",
+    "118463137",
+    "118463138",
+    "118463139",
+    "138059327",
+    "138059328",
+    "118463142",
+    "118463143",
+    "118463144",
+    "118463145",
+    "118463146",
+    "118463147",
+    "118463148",
+    "118463149",
+    "118463150",
+    "118463151",
+    "118463152"
+   ]
+  }
+ ],
+ "fragments": {
+  "118463130": {
+   "fragment_id": "118484597",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 19/2016\n\nde 24 de junho\n\nRegime aplicável ao património da Casa do Douro\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "118463131": {
+   "fragment_id": "118484598",
+   "type": 8,
+   "heading": "Secção I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Disposições gerais"
+  },
+  "118463132": {
+   "fragment_id": "118484599",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente lei aprova o regime jurídico aplicável ao património da Casa do Douro, nos termos do n.º 1 do artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro, doravante designada Casa do Douro.\n\n2 - A presente lei estabelece ainda o regime destinado ao saneamento financeiro aplicável ao património referido no número anterior, prevendo um processo de regularização extraordinário, bem como os termos da regularização da situação dos trabalhadores com contrato individual de trabalho."
+  },
+  "118463133": {
+   "fragment_id": "118484600",
+   "type": 11,
+   "heading": "Artigo 2.º — Património da Casa do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Património da Casa do Douro\n\n1 - Para efeitos da presente lei, entende-se por «património da Casa do Douro» todos os bens, direitos e obrigações de conteúdo económico da Casa do Douro, cujos estatutos foram aprovados pelo Decreto-Lei n.º 277/2003, de 6 de novembro, na sua redação atual, existentes à data da entrada em vigor da presente lei.\n\n2 - O património da Casa do Douro constitui um património autónomo a ser administrado nos termos da presente lei."
+  },
+  "118463134": {
+   "fragment_id": "118484601",
+   "type": 8,
+   "heading": "Secção II — Processo de regularização extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Processo de regularização extraordinário"
+  },
+  "118463135": {
+   "fragment_id": "118484602",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de regularização extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Processo de regularização extraordinário\n\n1 - O património da Casa do Douro é objeto de um processo de regularização extraordinário previsto na presente lei.\n\n2 - O processo de regularização extraordinário destinado ao saneamento financeiro do património da Casa do Douro, com as garantias previstas na presente lei, respeita os interesses dos viticultores da Região Demarcada do Douro e respetiva história e assegura a boa administração do referido património.\n\n3 - O processo de regularização extraordinário decorre entre a data de entrada em vigor da presente lei e o dia 31 de dezembro de 2018."
+  },
+  "118463136": {
+   "fragment_id": "118484603",
+   "type": 11,
+   "heading": "Artigo 4.º — Condução do processo de regularização extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Condução do processo de regularização extraordinário\n\n1 - A administração e a gestão do património da Casa do Douro durante o processo de regularização extraordinário são asseguradas por uma comissão administrativa composta por um presidente e dois vogais, designados por despacho dos membros do Governo competentes nas áreas da agricultura e das finanças, preferentemente com ligação e conhecimento da Região Demarcada do Douro.\n\n2 - O despacho de designação referido no número anterior fixa a remuneração dos membros da comissão administrativa, equiparando o presidente a cargo de direção intermédia de primeiro grau."
+  },
+  "118463137": {
+   "fragment_id": "118484604",
+   "type": 11,
+   "heading": "Artigo 5.º — Competências e obrigações da comissão administrativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Competências e obrigações da comissão administrativa\n\n1 - Compete à comissão administrativa prevista no artigo anterior:\n\na) Assegurar a administração do património da Casa do Douro;\n\nb) Inventariar o património da Casa do Douro, compreendendo todos os direitos e obrigações de conteúdo económico, designadamente identificando todos os bens, móveis e imóveis, depósitos bancários, ativos financeiros e quaisquer créditos sobre terceiros da titularidade da Casa do Douro;\n\nc) A guarda de toda a documentação comercial, contabilística e fiscal da Casa do Douro, bem como de todos os bens da titularidade da Casa do Douro, promovendo todos os atos necessários à sua conservação;\n\nd) Proceder à gestão dos bens móveis e imóveis e à gestão dos ativos necessários ao pagamento das dívidas e das despesas de funcionamento corrente, bem como à cobrança de quaisquer créditos da titularidade da Casa do Douro;\n\ne) Propor um plano de pagamentos e a prestação de garantias patrimoniais das obrigações da Casa do Douro, vencidas e vincendas;\n\nf) Promover a recuperação de todos os bens da titularidade da Casa do Douro que se encontram na posse ou detenção de terceiros, com exclusão daqueles que se encontram penhorados em processos executivos, bem como arrolados ou arrestados em processos judiciais;\n\ng) Apresentar um relatório semestral das suas atividades à tutela e ao fiscal único, bem como os demais instrumentos de prestações de contas;\n\nh) Exercer as demais competências previstas na presente lei.\n\n2 - No prazo de 90 dias contados a partir da respetiva designação, a comissão administrativa apresenta para homologação aos membros do Governo responsáveis pelas áreas da agricultura e das finanças o relatório com a identificação de todos os bens, dos respetivos ónus, dos créditos, dos credores e devedores, nos termos da alínea b) do número anterior, acompanhado de um relatório de auditoria, efetuada por entidade independente, à situação patrimonial da Casa do Douro.\n\n3 - A comissão administrativa reconhece e gradua os créditos e procede ao respetivo pagamento de acordo com a natureza comum ou privilegiada dos mesmos e de acordo com a preferência no pagamento sobre o produto da alienação dos bens sobre que recaia o respetivo privilégio ou garantia.\n\n4 - A comissão administrativa dispõe de legitimidade processual para quaisquer causas judiciais em que se discutam ou venham a discutir direitos sobre bens que integram o património da Casa do Douro, e fica habilitada para prosseguir os processos judiciais em que a Casa do Douro figure como parte."
+  },
+  "118463138": {
+   "fragment_id": "118484605",
+   "type": 11,
+   "heading": "Artigo 6.º — Conservação e alienação dos vinhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Conservação e alienação dos vinhos\n\n1 - A conservação dos vinhos da Casa do Douro é assegurada pela comissão administrativa, mediante protocolo a celebrar com o Instituto dos Vinhos do Douro e do Porto, I. P. (IVDP, I. P.).\n\n2 - No caso dos vinhos da Casa do Douro, a venda ou dação para pagamento ou cumprimento é antecedida de autorização do membro do Governo responsável pela área da agricultura, podendo essa autorização ter conteúdo genérico, definido por despacho do mesmo membro do Governo, contendo os termos admitidos para a alienação desses vinhos."
+  },
+  "118463139": {
+   "fragment_id": "118484606",
+   "type": 11,
+   "heading": "Artigo 7.º — Recuperação de créditos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Recuperação de créditos\n\n1 - No âmbito da recuperação de créditos e outros ativos financeiros no processo de regularização extraordinário, ficam remitidos os juros vencidos de créditos detidos por entidades públicas sobre a Casa do Douro, com exceção dos detidos pela Segurança Social.\n\n2 - Da data de entrada em vigor da presente lei até à finalização do processo de regularização extraordinário, os juros vincendos de créditos detidos por entidades públicas sobre a Casa do Douro têm como limite máximo as taxas de rendibilidade de obrigações do Tesouro a 10 anos, com exceção dos detidos pela Segurança Social.\n\n3 - As entidades públicas que detenham créditos em dívida sobre a Casa do Douro ficam autorizadas, de forma individual ou agrupada, a:\n\na) Celebrar acordos de pagamento em prestações com o limite máximo de 30 anos, com prestação de garantias reais e antecipação de pagamento em caso de alienação dos bens e direitos que constituam garantia no valor da respetiva alienação;\n\nb) Aceitar, como dação em cumprimento, bens imóveis, bens móveis, valores mobiliários e outros ativos financeiros.\n\n4 - Compete ao credor público, enquanto entidade detentora do crédito, optar por um ou mais instrumentos de recuperação de créditos previstos no número anterior, com vista à regularização das dívidas da Casa do Douro.\n\n5 - O disposto no presente artigo prevalece sobre qualquer legislação especial."
+  },
+  "118463140": {
+   "fragment_id": "118484607",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlo do processo de regularização extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlo do processo de regularização extraordinário\n\nA comissão administrativa elabora e apresenta ao Governo, até ao dia 31 de janeiro de 2018, a prestação de contas relativa ao ano de 2017."
+  },
+  "118463141": {
+   "fragment_id": "118484608",
+   "type": 11,
+   "heading": "Artigo 9.º — Conclusão do processo de regularização extraordinário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Conclusão do processo de regularização extraordinário\n\n1 - A comissão administrativa elabora, 30 dias após o termo do processo de regularização extraordinário, um relatório de onde constam:\n\na) A prestação de contas relativa ao ano de 2018;\n\nb) O inventário de todos os direitos e obrigações da Casa do Douro a 31 de dezembro de 2018;\n\nc) Os planos e acordos de pagamento relativos ao passivo da Casa do Douro.\n\n2 - O relatório referido no número anterior é remetido ao fiscal único para apreciação, emissão de parecer e certificação legal de contas, que é concluída até 28 de fevereiro de 2019.\n\n3 - A 1 de março de 2019, o património, os direitos e obrigações da Casa do Douro, nos termos em que se encontrarem, são transferidos para uma entidade a definir, a qual deve destinar esse património ao apoio e promoção de investimentos na lavoura duriense, garantindo que o edifício sede da Casa do Douro mantém as funções que detinha até à publicação do Decreto-Lei n.º 152/2014, de 15 de outubro."
+  },
+  "118463142": {
+   "fragment_id": "118484609",
+   "type": 8,
+   "heading": "Secção III — Dos trabalhadores da Casa do Douro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Dos trabalhadores da Casa do Douro"
+  },
+  "118463143": {
+   "fragment_id": "118484610",
+   "type": 11,
+   "heading": "Artigo 10.º — Recurso aos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Recurso aos trabalhadores\n\nNo exercício das suas competências para regularização das dívidas da Casa do Douro, e designadamente no âmbito da obrigação de guarda e conservação dos vinhos prevista no n.º 1 do artigo 6.º, deve a comissão administrativa, na medida em que se afigurar necessário, recorrer preferencialmente aos trabalhadores da Casa do Douro."
+  },
+  "118463144": {
+   "fragment_id": "118484611",
+   "type": 11,
+   "heading": "Artigo 11.º — Direitos dos trabalhadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Direitos dos trabalhadores\n\n1 - Sem prejuízo dos demais créditos laborais a que tenham direito, os trabalhadores da Casa do Douro com contrato individual de trabalho que, em virtude do regime previsto no Decreto-Lei n.º 152/2014, de 15 de outubro, tenham cessado o seu vínculo laboral, têm direito:\n\na) Aos créditos laborais constituídos a 31 de dezembro de 2014, nos termos da lei geral;\n\nb) A um crédito laboral correspondente ao valor total das retribuições, incluindo todos os subsídios e retribuição de férias, desde o momento da entrada em vigor do Decreto-Lei n.º 152/2014, de 15 de outubro, até à entrada em vigor da presente lei, deduzido de montantes eventualmente pagos;\n\nc) A subsídio de desemprego, devendo, para o efeito, apresentar o competente requerimento, no prazo de 90 dias, caso ainda não o tenham feito, junto dos serviços competentes da Segurança Social.\n\n2 - As compensações devidas aos trabalhadores gozam de privilégio mobiliário e imobiliário geral no produto da venda dos bens para regularização das dívidas da Casa do Douro e são pagas com caráter prioritário.\n\n3 - O prazo de prescrição dos créditos previstos no n.º 1 e todos os demais que sejam devidos aos trabalhadores da Casa do Douro com contrato individual de trabalho começa a contar a partir da data de entrada em vigor da presente lei."
+  },
+  "118463145": {
+   "fragment_id": "118484612",
+   "type": 8,
+   "heading": "Secção IV — Fiscalização e tutela",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Fiscalização e tutela"
+  },
+  "118463146": {
+   "fragment_id": "118484613",
+   "type": 11,
+   "heading": "Artigo 12.º — Fiscal único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Fiscal único\n\n1 - A fiscalização da administração do património da Casa do Douro, durante o processo de regularização extraordinário, é assegurada por um fiscal único, que é obrigatoriamente um revisor oficial de contas.\n\n2 - Ao fiscal único compete:\n\na) Apreciar e emitir parecer sobre os documentos de prestação de contas da comissão administrativa;\n\nb) Apreciar e emitir parecer sobre o inventário do património da Casa do Douro;\n\nc) Apreciar e emitir parecer sobre as propostas de atos de disposição relativamente ao património da Casa do Douro.\n\n3 - O fiscal único é designado por despacho do membro do Governo competente na área das finanças."
+  },
+  "118463147": {
+   "fragment_id": "118484614",
+   "type": 11,
+   "heading": "Artigo 13.º — Acompanhamento pelo Governo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Acompanhamento pelo Governo\n\nAlém dos demais atos previstos na presente lei, compete conjuntamente ao Ministro da Finanças e ao Ministro da Agricultura, Florestas e Desenvolvimento Rural, durante o processo de regularização extraordinário, exercer o poder de tutela e superintendência sobre a administração do património da Casa do Douro, designadamente solicitando informações relativas à situação e atividades da comissão administrativa, e ordenar inspeções e inquéritos ao seu funcionamento."
+  },
+  "118463148": {
+   "fragment_id": "118484615",
+   "type": 8,
+   "heading": "Secção V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Disposições finais"
+  },
+  "118463149": {
+   "fragment_id": "118484616",
+   "type": 11,
+   "heading": "Artigo 14.º — Satisfação de encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Satisfação de encargos\n\nNa medida do estritamente necessário, o Estado, através da Direção-Geral do Tesouro e Finanças, pode adiantar o montante destinado à satisfação de encargos com a regularização das dívidas, e com a remuneração da comissão administrativa, por recurso a dotação do capítulo 60 do Ministério das Finanças, que deve ser reembolsado logo que a referida regularização de dívidas o permita, com prioridade absoluta sobre quaisquer outros créditos, seja qual for a sua natureza ou as garantias de que gozem."
+  },
+  "118463150": {
+   "fragment_id": "118484617",
+   "type": 11,
+   "heading": "Artigo 15.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Norma revogatória\n\nÉ revogado o n.º 4 do artigo 17.º do Decreto-Lei n.º 152/2014, de 15 de outubro."
+  },
+  "118463151": {
+   "fragment_id": "118484618",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "118463158": {
+   "fragment_id": "118484602",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de regularização extraordinário",
+   "in_force_from": "2019-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Processo de regularização extraordinário\n\n1 - O património da Casa do Douro é objeto de um processo de regularização extraordinário previsto na presente lei.\n\n2 - O processo de regularização extraordinário destinado ao saneamento financeiro do património da Casa do Douro, com as garantias previstas na presente lei, respeita os interesses dos viticultores da Região Demarcada do Douro e respetiva história e assegura a boa administração do referido património.\n\n3 - O processo de regularização extraordinário decorre entre a data de entrada em vigor da presente lei e o dia 30 de junho de 2019.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+  },
+  "118463159": {
+   "fragment_id": "118484607",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlo do processo de regularização extraordinário",
+   "in_force_from": "2019-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Controlo do processo de regularização extraordinário\n\nA comissão administrativa elabora e apresenta ao Governo, até ao dia 31 de janeiro de 2018, a prestação de contas relativas ao ano de 2017 e até ao dia 31 de março de 2019, a prestação de contas relativa ao ano de 2018.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+  },
+  "118463160": {
+   "fragment_id": "118484608",
+   "type": 11,
+   "heading": "Artigo 9.º — Conclusão do processo de regularização extraordinário",
+   "in_force_from": "2019-01-30",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Conclusão do processo de regularização extraordinário\n\n1 - A comissão administrativa elabora, 30 dias após o termo do processo de regularização extraordinário, um relatório de onde constam:\n\na) A prestação de contas relativa ao primeiro semestre de 2019;\n\nb) O inventário de todos os direitos e obrigações da Casa do Douro a 30 de junho de 2019;\n\nc) Os planos e acordos de pagamento relativos ao passivo da Casa do Douro.\n\n2 - O relatório referido no número anterior é remetido ao fiscal único para apreciação, emissão de parecer e certificação legal de contas, que é concluída até 31 de agosto de 2019.\n\n3 - A 1 de setembro de 2019, o património, os direitos e obrigações da Casa do Douro, nos termos em que se encontrarem, são transferidos para uma entidade a definir, a qual deve destinar esse património ao apoio e promoção de investimentos na lavoura duriense, garantindo que o edifício sede da Casa do Douro mantém as funções que detinha até à publicação do Decreto-Lei n.º 152/2014, de 15 de outubro.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+  },
+  "118463152": {
+   "fragment_id": "118484619",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 6 de maio de 2016.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 7 de junho de 2016.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 9 de junho de 2016.\n\nO Primeiro-Ministro, António Luís Santos da Costa."
+  },
+  "138059326": {
+   "fragment_id": "118484602",
+   "type": 11,
+   "heading": "Artigo 3.º — Processo de regularização extraordinário",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853), em vigor a partir de 2020-07-17, produz efeitos a partir de 2019-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 3.º — Processo de regularização extraordinário\n\n1 - O património da Casa do Douro é objeto de um processo de regularização extraordinário previsto na presente lei.\n\n2 - O processo de regularização extraordinário destinado ao saneamento financeiro do património da Casa do Douro, com as garantias previstas na presente lei, respeita os interesses dos viticultores da Região Demarcada do Douro e respetiva história e assegura a boa administração do referido património.\n\n3 - O processo de regularização extraordinário decorre entre a data de entrada em vigor da presente lei e a efetiva conclusão do referido processo.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853), em vigor a partir de 2020-07-17, produz efeitos a partir de 2019-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+  },
+  "138059327": {
+   "fragment_id": "118484607",
+   "type": 11,
+   "heading": "Artigo 8.º — Controlo do processo de regularização extraordinário",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853), em vigor a partir de 2020-07-17, produz efeitos a partir de 2019-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 8.º — Controlo do processo de regularização extraordinário\n\nA comissão administrativa elabora e apresenta ao Governo, até ao dia 31 de março de cada ano, a prestação de contas relativa ao ano civil anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853), em vigor a partir de 2020-07-17, produz efeitos a partir de 2019-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+  },
+  "138059328": {
+   "fragment_id": "118484608",
+   "type": 11,
+   "heading": "Artigo 9.º — Conclusão do processo de regularização extraordinário",
+   "in_force_from": "2020-07-17",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853), em vigor a partir de 2020-07-17, produz efeitos a partir de 2019-07-01",
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+   ],
+   "markdown": "###### Artigo 9.º — Conclusão do processo de regularização extraordinário\n\n1 - A comissão administrativa elabora, 30 dias após o termo do processo de regularização extraordinário, um relatório de onde constam:\n\na) A prestação de contas relativa ao período que decorra até à data do termo do processo de regularização extraordinário;\n\nb) O inventário de todos os direitos e obrigações da Casa do Douro existentes à data do termo do processo de regularização extraordinário;\n\nc) Os planos e acordos de pagamento relativos ao passivo da Casa do Douro.\n\n2 - O relatório referido no número anterior é remetido ao fiscal único para apreciação, emissão de parecer e certificação legal de contas, devendo os mesmos estar concluídos no prazo de 30 dias a contar da data de receção do relatório da comissão administrativa.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 39/2020 - Diário da República n.º 137/2020, Série I de 2020-07-16](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39-2020-138054853), em vigor a partir de 2020-07-17, produz efeitos a partir de 2019-07-01\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 18/2019 - Diário da República n.º 18/2019, Série I de 2019-01-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2019-118484590), em vigor a partir de 2019-01-30, produz efeitos a partir de 2019-01-01"
+  }
+ }
+}

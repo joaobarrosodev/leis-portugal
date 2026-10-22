@@ -1,0 +1,250 @@
+---
+schema_version: '1.0'
+id: pt:dre:278740:por
+title: Portaria n.º 111/2011
+short_title: null
+summary: Primeira alteração à Portaria n.º 1499/2004, de 28 de Dezembro, que aprova o programa de formação do ano comum no
+  âmbito do internato médico
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 111/2011
+official_date: null
+publication_date: '2011-03-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 55/2011, Série I de 2011-03-18
+  number: '55'
+  series: I
+  supplement: null
+  pages: 1549 - 1550
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/03/05500/0154901550.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: partially_in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/111/2011/03/18/p/dre/pt/html
+  oj: null
+  dre: '278740'
+  dre_path: /dr/detalhe/portaria/111-2011-278740
+  internal: pt:dre:278740:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-2011-278740
+  metadata_url: https://data.dre.pt/eli/port/111/2011/03/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/111-2011-278740
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-09-21T00:00:00Z'
+integrity:
+  source_sha256: 6027601d2d48990149c7ed0bbcdce2737b1d64f9bd1d8fc78958c5937a636b54
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-111-278740.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Médico
+- Carreira Médica
+- Formação Profissional
+- Ensino Médico
+- Saúde Pública
+- Férias
+- Internato Médico
+- Programa de Formação
+- Horário de Trabalho
+- Avaliação do Pessoal
+relationships:
+- type: amended_by
+  target: pt:dre:116460405:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/11/2005/01/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/203/2004/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/203/2004/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/45/2009/02/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/45/2009/02/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/60/2007/03/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/60/2007/03/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1499/2004/12/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1499/2004/12/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/183/2006/02/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/183/2006/02/22/p/dre
+article_structure:
+  article_count: 7
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 111/2011
+
+de 18 de Março
+
+Considerando que o programa de formação do ano comum foi aprovado pela [Portaria n.º 1499/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1499-2004-348921), de 28 de Dezembro;
+
+Atendendo a que o Regulamento do Internato Médico estabelece a obrigatoriedade de revisão quinquenal dos programas de formação:
+
+Assim:
+
+Sob proposta da Ordem dos Médicos e ouvido o Conselho Nacional do Internato Médico;
+
+Ao abrigo e nos termos do disposto no n.º 3 do artigo 3.º e nos n.os 1 e 2 do artigo 10.º do [Decreto-Lei n.º 203/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2004-480703), de 18 de Agosto, alterado pelos Decretos-Leis n.os [11/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/11-2005-457003), de 6 de Janeiro, [60/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/60-2007-518466), de 13 de Março, e [45/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45-2009-602072), de 13 de Fevereiro, bem como no artigo 25.º do Regulamento do Internato Médico, aprovado pela [Portaria n.º 183/2006](https://diariodarepublica.pt/dr/detalhe/portaria/183-2006-676200), de 22 de Fevereiro:
+
+Manda o Governo, pela Ministra da Saúde, o seguinte:
+
+###### Artigo 1.º — Alteração à [Portaria n.º 1499/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1499-2004-348921), de 28 de Dezembro
+
+Os artigos 3.º, 4.º, 5.º, 8.º, 15.º e 16.º da [Portaria n.º 1499/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1499-2004-348921), de 28 de Dezembro, passam a ter a seguinte redacção:
+
+«Artigo 3.º
+
+Estrutura do ano comum
+
+1 - ...
+
+a) ...
+
+b) ...
+
+c) Formação opcional;
+
+d) ...
+
+e) ...
+
+2 - ...
+
+###### Artigo 4.º — Duração dos blocos formativos
+
+...
+
+a) ...
+
+b) ...
+
+c) Formação opcional, um mês, incluindo doze horas semanais em serviço de urgência;
+
+d) ...
+
+e) ...
+
+###### Artigo 5.º — Locais de formação
+
+1 - ...
+
+2 - ...
+
+3 - Formação opcional:
+
+a) Formação em serviço nacional de área médica ou cirúrgica previamente escolhida;
+
+b) Serviço de urgência integrado em equipa de urgência geral, ou similar, da instituição onde frequenta o estágio.
+
+4 - ...
+
+5 - ...
+
+6 - Ao longo da formação em cuidados urgentes hospitalares, o médico interno deve frequentar quatro períodos de doze horas integrado em equipa de urgência de obstetrícia.
+
+6.1 - Esta formação cumpre os seguintes objectivos:
+
+a) Adquirir noções básicas de emergência obstétrica e identificação de casos urgentes em obstetrícia;
+
+b) Participar na execução de partos;
+
+c) Adquirir treino na interpretação de exames complementares de diagnóstico.
+
+###### Artigo 8.º — Formação opcional
+
+1 - A formação opcional tem como objectivos gerais de desempenho e conhecimento o contacto com área médica ou cirúrgica do interesse do médico interno e o aprofundamento de conceitos técnicos relacionados com a mesma.
+
+2 - É constituída por um único estágio, podendo este ser o prolongamento de qualquer um dos outros blocos formativos do ano comum.
+
+3 - Compete à direcção de internato da instituição hospitalar de colocação do médico interno garantir, eventualmente em articulação com outras instituições formativas e dentro das suas possibilidades, o local da formação opcional.
+
+4 - A formação opcional não pode constituir encargo acrescido para a instituição de colocação ou de destino do médico interno.
+
+###### Artigo 15.º — Responsável de estágio
+
+1 - ...
+
+2 - Durante a formação em cuidados urgentes dos blocos formativos de medicina interna, pediatria e cirurgia geral o médico interno deverá, preferencialmente, integrar a equipa do responsável de estágio nomeado.
+
+3 - ...
+
+4 - ...
+
+5 - ...
+
+6 - ...
+
+7 - ...
+
+8 - ...
+
+9 - ...
+
+10 - ...
+
+###### Artigo 16.º — Regime de trabalho
+
+1 - ...
+
+2 - ...
+
+3 - ...
+
+4 - Com a excepção do bloco de formação opcional, ao médico interno que tenha de frequentar parte do programa de formação noutro serviço ou estabelecimento situado a mais de 50 km do hospital de colocação e onde não possa usar residência própria é atribuído um subsídio mensal de deslocação correspondente a 10 % do valor do índice 100 da escala salarial da carreira médica.»
+
+###### Artigo 2.º — Entrada em vigor
+
+1 - A presente portaria produz efeitos desde o dia 1 de Fevereiro de 2011, aplicando-se aos médicos internos que iniciaram o ano comum a partir do dia 3 de Janeiro de 2011.
+
+2 - Os médicos internos que à data da entrada em vigor da presente portaria já tenham completado ou iniciado a frequência do bloco em obstetrícia previsto na alínea c) do n.º 1 do artigo 3.º da [Portaria n.º 1499/2004](https://diariodarepublica.pt/dr/detalhe/portaria/1499-2004-348921) ficam dispensados da frequência da formação opcional prevista no artigo 3.º da presente portaria.
+
+3 - A entrada em vigor da presente portaria não deve, sob algum pretexto, prolongar a formação total legalmente determinada para o ano comum.
+
+**A Ministra da Saúde, Ana Maria Teodoro Jorge, em 17 de Março de 2011.**

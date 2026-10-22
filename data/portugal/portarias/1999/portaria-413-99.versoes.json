@@ -1,0 +1,396 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:311201:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/1999-124599281",
+ "dre_path": "/dr/detalhe/portaria/413-1999-311201",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1999-06-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "124599380",
+    "124599381",
+    "124599382",
+    "124599383",
+    "124599384",
+    "124599385",
+    "124599386",
+    "124599387",
+    "124599388",
+    "124599389",
+    "124599390",
+    "124599391",
+    "124599392",
+    "124599393",
+    "124599394",
+    "124599395",
+    "124599396",
+    "124599397",
+    "124599398",
+    "124599399",
+    "124599400",
+    "124599401",
+    "124599402",
+    "124599403",
+    "124599404",
+    "124599405",
+    "124599406",
+    "124599407",
+    "124599408",
+    "124599409",
+    "124599410",
+    "124599411",
+    "124599412",
+    "124599413",
+    "124599414"
+   ]
+  },
+  {
+   "date": "2019-09-10",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:124573263:por",
+     "title": "Portaria n.º 298-A/2019",
+     "published": "2019-09-09",
+     "dre_path": "/dr/detalhe/portaria/298-a-2019-124573263"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 25.º"
+   ],
+   "fragments": [
+    "124599380",
+    "124599381",
+    "124599382",
+    "124599383",
+    "124599384",
+    "124599385",
+    "124599386",
+    "124599387",
+    "124599388",
+    "124599389",
+    "124599390",
+    "124599391",
+    "124599392",
+    "124599393",
+    "124599394",
+    "124599395",
+    "124599396",
+    "124599397",
+    "124599398",
+    "124599399",
+    "124599400",
+    "124599401",
+    "124599402",
+    "124599403",
+    "124599404",
+    "124588359",
+    "124599406",
+    "124599407",
+    "124599408",
+    "124599409",
+    "124599410",
+    "124599411",
+    "124599412",
+    "124599413",
+    "124599414"
+   ]
+  }
+ ],
+ "fragments": {
+  "124599380": {
+   "fragment_id": "124599282",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 413/99\n\nde 8 de Junho\n\nO Decreto-Lei n.º 35/90, de 25 de Janeiro, definiu um conjunto de modalidades de acção social escolar susceptíveis de apoiar o percurso dos alunos ao longo da sua escolaridade, de entre as quais se destaca o seguro escolar destinado a garantir a cobertura financeira na assistência a alunos sinistrados. A evolução verificada no sistema educativo aconselha a que se proceda à revisão do regulamento até agora existente, alargando às crianças que frequentam os jardins-de-infância e aos alunos dos ensinos básico e secundário, incluindo os ensinos profissional, artístico e recorrente, as acções de prevenção e protecção em caso de acidente escolar.\n\nAs inovações ou aperfeiçoamentos mais relevantes do novo regulamento do seguro escolar compreendem o pagamento de eventual indemnização por danos morais, a alteração no cálculo dos montantes das indemnizações tendo por referência o salário mínimo nacional, a indemnização devida a sinistrado menor de idade, depositada a prazo, sem prejudicar a possibilidade de o encarregado de educação levantar até 5% do capital, por ano, ao invés da mera movimentação dos juros creditados. Igualmente, o cálculo do prémio do seguro escolar passa a fazer-se por referência ao salário mínimo nacional. O seguro escolar garante, ainda, os prejuízos causados a terceiros pelo aluno, desde que sujeito ao poder de autoridade do órgão de gestão do estabelecimento de educação ou ensino ou que resulte de acidente em trajecto cuja responsabilidade lhe seja total ou parcialmente imputável.\n\nA cobertura do seguro escolar passa a ser mais abrangente, uma vez que os motivos de exclusão são claramente diminuídos, aumentando, ainda, os montantes a atribuir por indemnização.\n\nFoi ouvida a Confederação Nacional das Associações de Pais.\n\nAssim, ao abrigo do artigo 17.º do Decreto-Lei n.º 35/90, de 25 de Janeiro:\n\nManda o Governo, pelos Ministros das Finanças, da Educação e da Saúde, o seguinte:\n\n1.º A presente portaria aprova o Regulamento do Seguro Escolar, que é publicado em anexo.\n\n2.º O Regulamento do Seguro Escolar entra em vigor a partir do ano escolar de 1999-2000.\n\nEm 20 de Maio de 1999.\n\nPelo Ministro das Finanças, Fernando Teixeira dos Santos, Secretário de Estado do Tesouro e das Finanças. - Pelo Ministro da Educação, Guilherme d'Oliveira Martins, Secretário de Estado da Administração Educativa. - Pela Ministra da Saúde, Francisco Ventura Ramos, Secretário de Estado da Saúde.\n\nREGULAMENTO DO SEGURO ESCOLAR\n\nI - Noção e âmbito"
+  },
+  "124599381": {
+   "fragment_id": "124599283",
+   "type": 11,
+   "heading": "Artigo 1.º — Seguro escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Seguro escolar\n\n1 - O seguro escolar constitui um sistema de protecção destinado a garantir a cobertura dos danos resultantes do acidente escolar.\n\n2 - A prevenção do acidente escolar e o seguro escolar constituem modalidades de apoio e complemento educativo que, através das direcções regionais de educação, são prestados aos alunos, complementarmente aos apoios assegurados pelo sistema nacional de saúde."
+  },
+  "124599382": {
+   "fragment_id": "124599284",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\n1 - O seguro escolar abrange:\n\na) As crianças matriculadas e a frequentar os jardins-de-infância da rede pública e os alunos dos ensinos básico e secundário, incluindo os ensinos profissional e artístico, os alunos dos estabelecimentos de ensino particular e cooperativo em regime de contrato de associação, e ainda, os que frequentam cursos de ensino recorrente e de educação extra-escolar realizados por iniciativa ou em colaboração com o Ministério da Educação;\n\nb) As crianças abrangidas pela educação pré-escolar e os alunos do 1.º ciclo do ensino básico que frequentem actividades de animação sócio-educativa, organizadas pelas associações de pais ou pelas autarquias, em estabelecimentos de educação e ensino;\n\nc) Os alunos dos ensinos básico e secundário que frequentam estágios ou desenvolvam experiências de formação em contexto de trabalho, que constituam o prolongamento temporal e curricular necessário à certificação;\n\nd) Os alunos que participem em actividades do desporto escolar;\n\ne) As crianças e os jovens inscritos em actividades ou programas de ocupação de tempos livres, organizados pelos estabelecimentos de educação ou ensino e desenvolvidos em período de férias.\n\n2 - O seguro escolar abrange ainda os alunos que se desloquem ao estrangeiro, integrados em visitas de estudo, projectos de intercâmbio e competições desportivas no âmbito do desporto escolar, quanto aos danos não cobertos pelo seguro de assistência em viagem a que se refere o artigo 34.º, desde que a deslocação seja previamente comunicada à direcção regional de educação respectiva, para efeitos de autorização, com a antecedência mínima de 30 dias.\n\nII - Do acidente escolar"
+  },
+  "124599383": {
+   "fragment_id": "124599285",
+   "type": 11,
+   "heading": "Artigo 3.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Noção\n\n1 - Considera-se acidente escolar, para efeitos do presente Regulamento, o evento ocorrido no local e tempo de actividade escolar que provoque ao aluno lesão, doença ou morte.\n\n2 - Considera-se ainda abrangido pelo presente Regulamento:\n\na) O acidente que resulte de actividade desenvolvida com o consentimento ou sob a responsabilidade dos órgãos de gestão do estabelecimento de educação ou ensino;\n\nb) O acidente em trajecto nos termos dos artigos 21.º e seguintes do presente Regulamento."
+  },
+  "124599384": {
+   "fragment_id": "124599286",
+   "type": 11,
+   "heading": "Artigo 4.º — Prevenção do acidente escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Prevenção do acidente escolar\n\n1 - A prevenção do acidente escolar traduz-se:\n\na) Em acções de informação e formação dirigidas aos alunos e ao pessoal docente e não docente, destinadas a prevenir ou a reduzir os riscos de acidente escolar;\n\nb) Em programas da iniciativa das direcções regionais de educação ou dos organismos centrais do Ministério da Educação que contemplem, designadamente, o estudo comparado dos meios utilizados por outras instituições congéneres, nacionais ou estrangeiras.\n\n2 - As acções referidas na alínea a) do número anterior são da iniciativa dos estabelecimentos de educação e ensino, em colaboração com serviços e instituições locais com vista ao reforço da articulação entre a escola e o meio em que se insere.\n\n3 - Para a concretização da política de prevenção do acidente escolar, as direcções regionais de educação e os estabelecimentos de educação e ensino podem celebrar acordos de colaboração, entre outros, com a Cruz Vermelha Portuguesa, o Instituto Nacional de Emergência Médica, o Serviço Nacional de Protecção Civil, a Liga dos Bombeiros Portugueses, a Prevenção Rodoviária Portuguesa e as associações humanitárias de bombeiros voluntários.\n\nIII - Do seguro escolar"
+  },
+  "124599385": {
+   "fragment_id": "124599287",
+   "type": 11,
+   "heading": "Artigo 5.º — Garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Garantias\n\nO seguro escolar garante a cobertura financeira da assistência a prestar ao aluno sinistrado por aquele abrangido, complementarmente aos apoios assegurados pelos sistemas, subsistemas e seguros de protecção social e de saúde de que este seja beneficiário, nos termos dos artigos seguintes."
+  },
+  "124599386": {
+   "fragment_id": "124599288",
+   "type": 11,
+   "heading": "Artigo 6.º — Prestações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Prestações\n\nO seguro escolar garante ao aluno sinistrado a realização das seguintes prestações:\n\na) Assistência médica e medicamentosa;\n\nb) Transporte, alojamento e alimentação indispensáveis para garantir essa assistência."
+  },
+  "124599387": {
+   "fragment_id": "124599289",
+   "type": 11,
+   "heading": "Artigo 7.º — Assistência médica e medicamentosa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Assistência médica e medicamentosa\n\n1 - A assistência médica e medicamentosa abrange:\n\na) Assistência médica, geral e especializada, incluindo os meios complementares de diagnóstico e cirurgia;\n\nb) Meios auxiliares de locomoção, de uso transitório, que serão obtidos, em regime de aluguer, sempre que este seja um meio mais económico que a respectiva aquisição;\n\nc) Meios, incluindo aparelhos de ortopedia e meios auxiliares de visão, receitados por médicos da especialidade, que se tornem necessários em consequência do acidente.\n\n2 - A assistência médica é prestada ao sinistrado pelas instituições hospitalares públicas.\n\n3 - A assistência médica pode ainda ser prestada ao sinistrado por instituições hospitalares privadas ou por médicos particulares abrangidos por sistema, subsistema ou seguro de saúde de que aquele seja beneficiário.\n\n4 - Em caso de internamento do sinistrado, este só poderá efectuar-se em regime de quarto comum ou de enfermaria, nas instituições hospitalares públicas ou privadas, desde que abrangidas por sistema ou subsistema de que aquele seja beneficiário.\n\n5 - Sempre que do acidente resulte dano ou inutilização dos meios auxiliares de locomoção ou das próteses que o sinistrado já utilizasse, as reparações necessárias ou a sua substituição serão asseguradas pelo seguro escolar.\n\n6 - As instituições integradas no Serviço Nacional de Saúde facturam as despesas resultantes da prestação de cuidados de saúde aos segurados, desde que estes sejam beneficiários de um subsistema público ou privado.\n\n7 - No caso de os segurados não serem beneficiários de qualquer subsistema e na qualidade de beneficiários do Serviço Nacional de Saúde, as instituições referidas no número anterior nada poderão facturar pela prestação de cuidados de saúde."
+  },
+  "124599388": {
+   "fragment_id": "124599290",
+   "type": 11,
+   "heading": "Artigo 8.º — Hospedagem, alojamento e alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Hospedagem, alojamento e alimentação\n\n1 - O sinistrado tem direito a hospedagem, alojamento e alimentação quando, por determinação médica ou da direcção regional de educação, tenha de se deslocar para fora da área da sua residência.\n\n2 - O direito a hospedagem, alojamento e alimentação necessários à assistência ao sinistrado no próprio dia do acidente inclui o acompanhante quando aquele for menor de idade.\n\n3 - O direito conferido ao acompanhante no número anterior é extensivo, nas mesmas condições:\n\na) À deslocação necessária ao tratamento ambulatório;\n\nb) Ao cumprimento das formalidades ou instruções determinadas pelos serviços competentes.\n\n4 - As prestações referidas nos números anteriores não abrangem o pagamento de serviços extraordinários e só serão asseguradas em estabelecimentos hoteleiros cuja classificação não exceda as 3 estrelas."
+  },
+  "124599389": {
+   "fragment_id": "124599291",
+   "type": 11,
+   "heading": "Artigo 9.º — Transporte",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Transporte\n\n1 - O transporte do sinistrado no momento do acidente será o mais adequado à gravidade da lesão.\n\n2 - Os transportes que o sinistrado deve utilizar são os colectivos, salvo não os havendo ou se outros forem mais indicados à situação em concreto e determinados pelo médico assistente, através de declaração expressa.\n\n3 - As despesas de transporte terão sempre que ser justificadas por documento comprovativo da sua realização.\n\n4 - No caso de o transporte se fazer em viatura particular, cujo recurso foi devidamente justificado, haverá lugar ao pagamento de uma verba correspondente ao número de quilómetros percorridos, ao preço unitário que estiver fixado na portaria que estabelece o subsídio de viagem em transporte em veículo adstrito a carreira de serviço público para os funcionários públicos.\n\n5 - Para efeitos do disposto no número anterior, será apresentado recibo de que conste:\n\na) A matrícula do veículo;\n\nb) O número de quilómetros percorridos;\n\nc) A data e a finalidade do transporte, devidamente titulado por documento hospitalar de que conste a data da consulta ou dos tratamentos."
+  },
+  "124599390": {
+   "fragment_id": "124599292",
+   "type": 11,
+   "heading": "Artigo 10.º — Indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Indemnização\n\nA garantia do seguro escolar compreende, ainda, o pagamento de:\n\na) Indemnização por incapacidade temporária, desde que se trate de aluno que exerça actividade profissional remunerada e cujo montante será o do prejuízo efectivamente sofrido devidamente comprovado;\n\nb) Indemnização por incapacidade permanente;\n\nc) Indemnização por danos morais."
+  },
+  "124599391": {
+   "fragment_id": "124599293",
+   "type": 11,
+   "heading": "Artigo 11.º — Cálculo da indemnização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Cálculo da indemnização\n\n1 - A indemnização a que o sinistrado, vítima de incapacidade permanente, tem direito é calculada em função do grau de incapacidade que lhe seja atribuído.\n\n2 - O montante é determinado com base no coeficiente de incapacidade, fixando-se o valor 100 em 300 vezes o salário mínimo nacional, em vigor à data do acidente.\n\n3 - O coeficiente de incapacidade é fixado por junta médica, de acordo com a Tabela Nacional de Incapacidades, publicada em anexo à lei dos acidentes de trabalho e doenças profissionais, em vigor à data do acidente.\n\n4 - Pode, a requerimento do sinistrado e por decisão fundamentada do director regional de educação, ser atribuído, a título de indemnização por danos morais, montante no valor de 30% da indemnização calculada nos termos do n.º 1 do presente artigo."
+  },
+  "124599392": {
+   "fragment_id": "124599294",
+   "type": 11,
+   "heading": "Artigo 12.º — Pagamento de indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Pagamento de indemnizações\n\n1 - Quando o sinistrado seja menor de idade, a indemnização é depositada em conta a prazo, a favor do sinistrado, na Caixa Geral de Depósitos, depois de conferida quitação à respectiva direcção regional de educação.\n\n2 - Quando o sinistrado seja maior de idade, a indemnização é depositada em conta à ordem.\n\n3 - Nos casos previstos no n.º 1 podem ser autorizados, por despacho do director regional de educação, levantamentos anuais, pelo encarregado de educação, dos montantes necessários a garantir o bem-estar do aluno, até ao máximo de 5% da verba depositada."
+  },
+  "124599393": {
+   "fragment_id": "124599295",
+   "type": 11,
+   "heading": "Artigo 13.º — Outras garantias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Outras garantias\n\n1 - O seguro escolar garante a deslocação do cadáver e o pagamento das despesas de funeral.\n\n2 - O seguro escolar garante ainda os prejuízos causados a terceiros pelo aluno desde que sujeito ao poder de autoridade do órgão de administração e gestão do estabelecimento de educação ou ensino ou que resulte de acidente em trajecto em que a responsabilidade lhe seja directamente imputável.\n\nIV - Da junta médica"
+  },
+  "124599394": {
+   "fragment_id": "124599296",
+   "type": 11,
+   "heading": "Artigo 14.º — Convocação de junta médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Convocação de junta médica\n\n1 - A junta médica reúne por iniciativa da direcção regional de educação, a requerimento do sinistrado, ou do seu representante legal.\n\n2 - O sinistrado é submetido a junta médica sempre que se presuma a existência de incapacidade temporária ou permanente ou a situação clínica assim o exija.\n\n3 - O sinistrado abrangido pelo regime do trabalhador-estudante será obrigatoriamente submetido a junta médica sempre que se presuma a incapacidade temporária."
+  },
+  "124599395": {
+   "fragment_id": "124599297",
+   "type": 11,
+   "heading": "Artigo 15.º — Constituição de junta médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Constituição de junta médica\n\n1 - A junta médica é constituída, no mínimo, por três médicos, sendo dois pertencentes, obrigatoriamente, à saúde escolar, podendo o terceiro ser o médico assistente do sinistrado, sempre que este o requeira.\n\n2 - Quando a situação clínica o exija, a junta médica pode ser constituída por um ou mais especialistas, desde que mantenha um número ímpar de membros."
+  },
+  "124599396": {
+   "fragment_id": "124599298",
+   "type": 11,
+   "heading": "Artigo 16.º — Junta médica de recurso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Junta médica de recurso\n\n1 - No caso de o sinistrado ou de o seu representante legal não concordar com o resultado da junta médica, pode requerer a constituição de uma junta médica de recurso.\n\n2 - O prazo para entrega da reclamação é de 30 dias contados da notificação ao interessado do resultado da junta médica.\n\n3 - Da junta médica de recurso não podem fazer parte os médicos que constituíram a junta médica de cuja decisão se recorre, com excepção do médico assistente do sinistrado.\n\n4 - A constituição da junta médica de recurso obriga o sinistrado a depositar, a favor da direcção regional de educação, uma caução correspondente ao valor dos respectivos encargos e que será perdida caso o recurso não venha a obter provimento."
+  },
+  "124599397": {
+   "fragment_id": "124599299",
+   "type": 11,
+   "heading": "Artigo 17.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Encargos\n\nAs direcções regionais de educação não suportam os encargos decorrentes da presença do médico assistente do sinistrado na junta médica de recurso, salvo quando o resultado seja favorável ao sinistrado."
+  },
+  "124599398": {
+   "fragment_id": "124599300",
+   "type": 11,
+   "heading": "Artigo 18.º — Despesas de deslocação, alojamento e alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Despesas de deslocação, alojamento e alimentação\n\n1 - As despesas de deslocação, alojamento e alimentação do sinistrado para efeitos de junta médica são suportadas pelo seguro escolar.\n\n2 - No caso de o sinistrado ser menor de idade ou porque a situação assim o exige, pode ser acompanhado por pessoa por si indicada, sendo as despesas previstas no número anterior suportadas pelo seguro escolar.\n\n3 - Às despesas referidas nos números anteriores aplica-se o disposto nos artigos 8.º e 9.º, com as necessárias adaptações."
+  },
+  "124599399": {
+   "fragment_id": "124599301",
+   "type": 11,
+   "heading": "Artigo 19.º — Não comparência à junta médica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Não comparência à junta médica\n\n1 - Se o sinistrado não puder comparecer à junta médica, deve dar conhecimento do facto à direcção regional de educação, com a antecedência mínima de cinco dias úteis, justificando a respectiva falta.\n\n2 - Na ausência de comunicação ou da justificação atendível, fica o sinistrado responsável pelos encargos correspondentes, salvo quando se trate de caso de força maior, devidamente comprovado, ou se o facto que determinou a falta não pudesse ser conhecido em momento anterior."
+  },
+  "124599400": {
+   "fragment_id": "124599302",
+   "type": 11,
+   "heading": "Artigo 20.º — Nova convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Nova convocação\n\n1 - Se o sinistrado, nos termos do artigo anterior, não comparecer, será convocado para nova junta médica no prazo de 60 dias.\n\n2 - A falta injustificada a duas juntas médicas determina a exclusão da cobertura do seguro escolar e obriga à devolução dos montantes entretanto percebidos.\n\nV - Acidente em trajecto"
+  },
+  "124599401": {
+   "fragment_id": "124599303",
+   "type": 11,
+   "heading": "Artigo 21.º — Noção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Noção\n\n1 - Considera-se equiparado a acidente escolar o evento externo e fortuito que ocorra no percurso habitual entre a residência e o estabelecimento de educação ou ensino, ou vice-versa, desde que no período de tempo imediatamente anterior ao início da actividade escolar ou imediatamente posterior ao seu termo, dentro do limite de tempo considerado necessário para percorrer a distância do local da saída ao local do acidente.\n\n2 - Só se considera abrangido pelo número anterior o aluno menor de idade não acompanhado por adulto que, nos termos da lei, esteja obrigado à sua vigilância."
+  },
+  "124599402": {
+   "fragment_id": "124599304",
+   "type": 11,
+   "heading": "Artigo 22.º — Atropelamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Atropelamento\n\n1 - Em caso de atropelamento, só se considera acidente escolar quando, cumulativamente:\n\na) A responsabilidade seja imputável ao aluno sinistrado, no todo ou em parte, pelas autoridades competentes;\n\nb) Ocorra no percurso normal para e do local de actividade escolar à residência habitual, em período imediatamente anterior ao início da actividade ou imediatamente ulterior ao seu termo, dentro do período de tempo considerado necessário para ser percorrido a pé;\n\nc) Seja participado às autoridades policiais e judiciais competentes, no prazo de 15 dias, ainda que aparentemente tenha sido ocasionado pelo aluno ou por terceiros cuja identificação não tenha sido possível determinar no momento do acidente;\n\nd) O aluno sinistrado seja menor de idade e não esteja acompanhado por um adulto que, nos termos da lei, esteja obrigado à sua vigilância, salvo se este for docente ou funcionário do estabelecimento de educação ou ensino.\n\n2 - Por despacho fundamentado do director regional de educação e considerando as conclusões quanto à ocorrência das autoridades policiais ou judiciais, designadamente quanto à impossibilidade de localização ou identificação do responsável pelo atropelamento, pode o aluno sinistrado, cumpridos os demais requisitos do número anterior, ficar abrangido pelo seguro escolar.\n\n3 - O processo de inquérito a instaurar na sequência de atropelamento constará do modelo publicado em anexo.\n\nVI - Do processo de inquérito"
+  },
+  "124599403": {
+   "fragment_id": "124599305",
+   "type": 11,
+   "heading": "Artigo 23.º — Processo de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Processo de inquérito\n\n1 - Qualquer agente educativo que tome conhecimento de um acidente escolar fica obrigado a comunicar o invento ao órgão de gestão e administração do respectivo estabelecimento de educação ou ensino.\n\n2 - O órgão de gestão e administração do estabelecimento de educação ou ensino a que pertence o sinistrado deve, obrigatoriamente, abrir um processo de inquérito ao acidente ou, no caso das situações previstas no n.º 4, comunicar a ocorrência à direcção regional de educação respectiva, pela via mais expedita.\n\n3 - O processo de inquérito referido no número anterior constará de modelo publicado em anexo.\n\n4 - Se do acidente resultar a morte do aluno ou se presumir a existência de incapacidade permanente, a competência referida no n.º 2 pertence à respectiva direcção regional de educação."
+  },
+  "124599404": {
+   "fragment_id": "124599306",
+   "type": 11,
+   "heading": "Artigo 24.º — Decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Decisão\n\n1 - Sem prejuízo do disposto no diploma que define o regime de autonomia, administração e gestão dos estabelecimentos de educação ou ensino, compete aos órgãos de gestão das escolas do 2.º e 3.º ciclo dos ensinos básico e secundário, com base no disposto no presente regulamento, decidir sobre a qualificação do evento como acidente escolar.\n\n2 - Compete à direcção regional de educação respectiva decidir sobre a qualificação do evento como acidente escolar nos casos não abrangidos pelo número anterior e, ainda, nas situações seguintes:\n\na) Casos de morte ou em que se presume a invalidez permanente do aluno sinistrado;\n\nb) Atropelamento;\n\nc) Situações de recurso a instituições hospitalares, médicos privados ou sem acordo com o sistema nacional de saúde.\n\n3 - Da decisão é sempre notificado o legal representante do aluno ou o aluno se maior, com a faculdade de recorrer:\n\na) Das decisões do n.º 1 para o respectivo director regional de educação;\n\nb) Das decisões referidas no n.º 2 para o Ministério da Educação.\n\nVII - Exclusões"
+  },
+  "124599405": {
+   "fragment_id": "124599307",
+   "type": 11,
+   "heading": "Artigo 25.º — Exclusão de garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Exclusão de garantia\n\nExcluem-se do conceito de acidente escolar e, consequentemente, da cobertura do respectivo seguro:\n\na) A doença de que o aluno é portador, sua profilaxia e tratamento, salvo a primeira deslocação à unidade de saúde;\n\nb) O acidente que ocorra nas instalações escolares quando estas estejam encerradas ou tenham sido cedidas para actividades cuja organização não seja da responsabilidade dos órgãos directivos dos estabelecimentos de educação ou ensino;\n\nc) O acidente que resultar de força maior, considerando-se, para este efeito, os cataclismos e outras manifestações da natureza;\n\nd) O acidente ocorrido no decurso de tumulto ou de desordem;\n\ne) As ocorrências que resultem de actos danosos cuja responsabilidade, nos termos legais, seja atribuída a entidade extra-escolar;\n\nf) Os acidentes que ocorram em trajecto com veículos ou velocípedes com ou sem motor, que transportem o aluno ou sejam por este conduzidos;\n\ng) Os acidentes com veículos afectos aos transportes escolares."
+  },
+  "124599406": {
+   "fragment_id": "124599308",
+   "type": 11,
+   "heading": "Artigo 26.º — Exclusão de direitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Exclusão de direitos\n\n1 - Ficam excluídos dos direitos e garantias do seguro escolar os sinistrados que por si ou por intermédio do respectivo encarregado de educação:\n\na) Assumam conduta prejudicial ao seu estado clínico, designadamente os que abandonem os serviços hospitalares em que estejam internados ou em tratamento médico ambulatório, sem alta autorizada, não se apresentem às consultas e tratamentos determinados pelo médico assistente, quando em tratamento ambulatório, ou o interrompam sem justificação aceitável;\n\nb) Não observem as condições e as disposições do presente Regulamento ou não obedeçam às instruções da direcção regional de educação;\n\nc) Tomem iniciativas à margem das instruções contidas neste Regulamento, sem prévia concordância da direcção regional de educação;\n\nd) Não aceitem a indemnização atribuída no prazo de 30 dias após a notificação, salvo se tiver sido requerida a constituição da junta médica de recurso.\n\n2 - Ficam excluídas do âmbito do seguro escolar as despesas realizadas ou assumidas pelos sinistrados ou pelos seus representantes legais em claro desrespeito pelo presente Regulamento e, designadamente:\n\na) As que não resultem de acidentes de actividade escolar participado pelo estabelecimento de educação ou ensino, nos termos do presente Regulamento;\n\nb) As que não se encontram devidamente justificadas.\n\nVIII - Inscrição e prémio"
+  },
+  "124599407": {
+   "fragment_id": "124599309",
+   "type": 11,
+   "heading": "Artigo 27.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Inscrição\n\nÉ obrigatória a inscrição no seguro escolar para os alunos matriculados em estabelecimento de educação ou ensino público não superior."
+  },
+  "124599408": {
+   "fragment_id": "124599310",
+   "type": 11,
+   "heading": "Artigo 28.º — Prémio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Prémio\n\n1 - Os alunos abrangidos pelo presente Regulamento pagam, no acto da respectiva matrícula, o prémio do seguro escolar.\n\n2 - O prémio do seguro escolar é fixado em 1% do valor do salário mínimo nacional, arredondado, por defeito, à dezena de escudos.\n\n3 - Os recursos financeiros resultantes do encaixe de prémios de seguro escolar constituem receita das direcções regionais de educação, nos termos da Portaria n.º 727/93, de 12 de Agosto.\n\n4 - Estão isentos do pagamento do prémio de seguro os alunos a frequentar a educação pré-escolar, a escolaridade obrigatória e os alunos deficientes.\n\n5 - O não pagamento do prémio no momento da matrícula determina o seu pagamento em dobro.\n\n6 - Aos alunos que não tenham procedido ao pagamento do prémio do seguro escolar não serão entregues quaisquer certidões ou diplomas, nem publicadas as respectivas classificações até à respectiva regularização.\n\nIX - Direitos e deveres do sinistrado"
+  },
+  "124599409": {
+   "fragment_id": "124599311",
+   "type": 11,
+   "heading": "Artigo 29.º — Direitos dos sinistrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Direitos dos sinistrados\n\nO sinistrado tem direito às prestações e indemnizações previstas no presente Regulamento."
+  },
+  "124599410": {
+   "fragment_id": "124599312",
+   "type": 11,
+   "heading": "Artigo 30.º — Deveres dos sinistrados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Deveres dos sinistrados\n\nOs sinistrados e os seus representantes legais obrigam-se a:\n\na) Utilizar a assistência nos termos definidos no presente Regulamento, munidos do cartão do sistema ou subsistema de que sejam beneficiários;\n\nb) Não efectuar pagamentos que considerem da responsabilidade do sistema ou subsistema de que sejam beneficiários, sem conhecimento das autoridades escolares;\n\nc) Não tomar qualquer iniciativa sem se assegurarem, através do estabelecimento de educação ou ensino, que o sinistro se enquadra no âmbito do presente Regulamento;\n\nd) Apresentar no sistema ou subsistema de saúde os originais dos documentos de despesa para efeitos de comparticipação;\n\ne) Apresentar no estabelecimento de ensino toda a documentação comprovativa dos encargos assumidos ou das despesas efectuadas, quando tenham direito ao respectivo reembolso;\n\nf) Prestar todos os esclarecimentos que lhes sejam solicitados por responsáveis do estabelecimento de ensino ou pela direcção regional de educação;\n\ng) Submeter-se aos exames médicos que sejam decididos pela direcção regional de educação;\n\nh) Dar quitação de todas as importâncias que lhe sejam entregues para reembolso de despesas que hajam efectuado ou da indemnização atribuída;\n\ni) Participar, em tempo útil, o acidente escolar.\n\nX - Direito de regresso"
+  },
+  "124599411": {
+   "fragment_id": "124599313",
+   "type": 11,
+   "heading": "Artigo 31.º — Direito de regresso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Direito de regresso\n\n1 - Sempre que por decisão judicial seja imputada a responsabilidade do sinistro a terceiro, a direcção regional de educação exercerá sobre aquele o direito de regresso, relativamente aos encargos que suportou nos termos do presente Regulamento.\n\n2 - Independentemente do disposto no número anterior, a direcção regional de educação exercerá o direito de regresso, nos termos da lei, sempre que a responsabilidade pela ocorrência do acidente seja imputável a terceiro.\n\nXI - Organização dos órgãos de administração e gestão dos estabelecimentos de ensino"
+  },
+  "124599412": {
+   "fragment_id": "124599314",
+   "type": 11,
+   "heading": "Artigo 32.º — Obrigações dos órgãos de direcção e gestão da escola",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Obrigações dos órgãos de direcção e gestão da escola\n\n1 - Devem os órgãos de gestão dos estabelecimentos de educação ou ensino:\n\na) Aplicar o presente Regulamento, cabendo-lhes a primeira análise da ocorrência e a respectiva decisão, considerando-a incluída ou excluída das garantias do seguro escolar;\n\nb) Relativamente a cada aluno, obter, no acto da matrícula, todos os elementos referentes ao sistema ou subsistema de saúde de que seja beneficiário, que farão parte integrante do respectivo processo.\n\n2 - No caso de se tratar de ocorrência enquadrada na definição de acidente escolar, nos termos deste Regulamento, a direcção do estabelecimento de educação ou ensino está obrigada a:\n\na) Providenciar pela condução do sinistrado à entidade hospitalar que prestará assistência, comunicando tal facto ao encarregado de educação;\n\nb) Elaborar o inquérito do acidente e recolher todos os elementos complementares indispensáveis ao seu preenchimento, o qual deverá ser esclarecedor das condições em que se verificou a ocorrência;\n\nc) Esclarecer, se for caso disso, o encarregado de educação do teor do presente Regulamento;\n\nd) Acompanhar, na medida do possível, a forma como decorre o tratamento e a evolução clínica do sinistrado, bem como os encargos que vão sendo assumidos;\n\ne) Verificar se a documentação que se pretende entregar se considera, ou não, em condições de ser aceite;\n\nf) Zelar pela celeridade das comunicações e reembolsos aos sinistrados ou aos seus representantes legais;\n\ng) Manter afixado um exemplar do Regulamento do Seguro Escolar ou, em alternativa, afixar de forma bem visível, em zona de acesso público, a informação do local e do horário onde o mesmo pode ser consultado, bem como indicação da entidade ou entidades escolares que poderão prestar esclarecimentos sobre o assunto."
+  },
+  "124599413": {
+   "fragment_id": "124599315",
+   "type": 11,
+   "heading": "Artigo 33.º — Organização do seguro escolar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Organização do seguro escolar\n\n1 - Os órgãos de gestão e administração dos estabelecimentos de educação ou ensino devem manter organizada a aplicação do seguro escolar, designadamente:\n\na) Constituindo o arquivo dos processos individuais, por número de ordem de ocorrência dos acidentes;\n\nb) Elaborando a lista nominal de sinistrados por ano lectivo;\n\nc) Preenchendo e enviando, trimestralmente, às direcções regionais de educação os mapas estatísticos e financeiros dos acidentes ocorridos.\n\n2 - Deverá estar disponível para consulta a documentação seguinte:\n\na) Instruções do seguro escolar;\n\nb) Circulares emitidas relativas ao seguro escolar;\n\nc) Normas de prevenção do acidente e de segurança;\n\nd) Cópias de avisos, recomendações e proibições que estejam afixadas."
+  },
+  "124599414": {
+   "fragment_id": "124599316",
+   "type": 11,
+   "heading": "Artigo 34.º — Viagens ao estrangeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Viagens ao estrangeiro\n\n1 - Todas as iniciativas organizadas no âmbito do estabelecimento de educação ou ensino que compreendem uma deslocação fora do território nacional determinam a obrigatoriedade de celebração de um contrato de seguro de assistência em viagem.\n\n2 - O seguro referido no número anterior terá de abranger todos os alunos envolvidos na iniciativa quanto a:\n\na) Despesas de internamento e de assistência médica;\n\nb) Repatriamento do cadáver e despesas de funeral;\n\nc) Despesas de deslocação, alojamento e alimentação do encarregado de educação ou alguém indicado por este, para acompanhamento do aluno sinistrado.\n\n(ver modelos no documento original)"
+  },
+  "124588359": {
+   "fragment_id": "124599307",
+   "type": 11,
+   "heading": "Artigo 25.º — Exclusão de garantia",
+   "in_force_from": "2019-09-10",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 298-A/2019 - Diário da República n.º 172/2019, 1º Suplemento, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/298-a-2019-124573263), em vigor a partir de 2019-09-10"
+   ],
+   "markdown": "###### Artigo 25.º — Exclusão de garantia\n\nExcluem-se do conceito de acidente escolar e, consequentemente, da cobertura do respectivo seguro:\n\na) A doença de que o aluno é portador, sua profilaxia e tratamento, salvo a primeira deslocação à unidade de saúde;\n\nb) O acidente que ocorra nas instalações escolares quando estas estejam encerradas ou tenham sido cedidas para actividades cuja organização não seja da responsabilidade dos órgãos directivos dos estabelecimentos de educação ou ensino;\n\nc) O acidente que resultar de força maior, considerando-se, para este efeito, os cataclismos e outras manifestações da natureza;\n\nd) O acidente ocorrido no decurso de tumulto ou de desordem;\n\ne) As ocorrências que resultem de actos danosos cuja responsabilidade, nos termos legais, seja atribuída a entidade extra-escolar;\n\nf) Os acidentes que ocorram em trajeto com veículos ou velocípedes com motor, que transportem o aluno ou sejam por este conduzidos;\n\ng) Os acidentes com veículos afectos aos transportes escolares.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 298-A/2019 - Diário da República n.º 172/2019, 1º Suplemento, Série I de 2019-09-09](https://diariodarepublica.pt/dr/detalhe/portaria/298-a-2019-124573263), em vigor a partir de 2019-09-10"
+  }
+ }
+}

@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:74612745:por
+title: Resolução n.º 14/2016
+short_title: null
+summary: Nomeia o presidente e um vogal executivo do conselho de administração do Hospital Professor Doutor Fernando Fonseca,
+  E. P. E.
+jurisdiction: portugal
+territory: null
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Presidência do Conselho de Ministros - Conselho de Ministros
+proposing_entity: null
+official_number: 14/2016
+official_date: null
+publication_date: '2016-06-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 108/2016, Série II de 2016-06-06
+  number: '108'
+  series: II
+  supplement: null
+  pages: 17781 - 17782
+  pdf_url: https://files.diariodarepublica.pt/2s/2016/06/108000000/1778117782.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '74612745'
+  dre_path: /dr/detalhe/resolucao/14-2016-74612745
+  internal: pt:dre:74612745:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-2016-74612745
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/14-2016-74612745
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2016-06-06T00:00:00Z'
+integrity:
+  source_sha256: 322ecb3cb866d57534273ff8bdd7651f47218e1ab332815e0c5c99c93ee0aacf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2016/DRE-2016-14-74612745.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 14/2016
+
+Nos termos do disposto nos artigos 6.º e 13.º dos Estatutos constantes do anexo ii do [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado pelo [Decreto-Lei n.º 183/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), de 31 de agosto, aplicável ao Hospital Professor Doutor Fernando Fonseca, E. P. E., por força do artigo 2.º do [Decreto-Lei n.º 203/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/203-2008-452762), de 10 de outubro, conjugados com o artigo 21.º do [Decreto-Lei n.º 133/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2013-500215), de 3 de outubro, alterado pela [Lei n.º 75-A/2014](https://diariodarepublica.pt/dr/detalhe/lei/75-a-2014-57701290), de 30 de setembro, e com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, resulta que os membros do conselho de administração do Hospital Professor Doutor Fernando Fonseca, E. P. E., são nomeados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável até ao máximo de três renovações consecutivas.
+
+Atendendo a que o atual presidente do conselho de administração, licenciado Luís Manuel Abrantes Marques, renunciou ao cargo e que o Governo pretender nomear como presidente o atual vogal executivo, licenciado Francisco João Velez Roxo, torna-se necessário proceder à nomeação de novos titulares para completar o mandato do conselho de administração do Hospital Professor Doutor Fernando Fonseca, E. P. E., que termina em 31 de dezembro de 2016.
+
+A remuneração dos membros do conselho de administração desta entidade pública empresarial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, alterada pelas Resoluções do Conselho de Ministros n.os [97/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2012-191077), de 21 de novembro, [45/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/45-2013-498125), de 19 de julho, e [48/2013](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/48-2013-498720), de 29 de julho.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre a nomeação constante da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 6.º e 13.º dos Estatutos constantes do anexo ii do [Decreto-Lei n.º 233/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/233-2005-469067), de 29 de dezembro, alterado e republicado pelo [Decreto-Lei n.º 12/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-2015-66325236), de 26 de janeiro, e alterado pelo [Decreto-Lei n.º 183/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-2015-70139963), de 31 de agosto, dos n.os 2 e 3 do artigo 13.º e da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, alterado e republicado pelo [Decreto-Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2012-544415), de 18 de janeiro, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Nomear, sob proposta dos Ministros das Finanças e da Saúde, Francisco João Velez Roxo e Maria de Fátima Campos de Sena e Silva, respetivamente, para os cargos de presidente e vogal executiva do conselho de administração do Hospital Professor Doutor Fernando Fonseca, E. P. E., cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciados nas respetivas notas curriculares, que constam do anexo à presente resolução e da qual fazem parte integrante.
+
+2 - Autorizar os nomeados Francisco João Velez Roxo e Maria de Fátima Campos de Sena e Silva a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+3 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
+
+5 de maio de 2016. - O Primeiro-Ministro, António Luís Santos da Costa.
+
+## ANEXO — Notas curriculares
+
+Francisco João Velez Roxo nasceu em Alter do Chão em 10 de agosto de 1952.
+
+Fez os estudos básicos e secundários no Externato Diogo Mendes de Vasconcelos, em Alter do Chão, e os exames dos 1.º, 2.º e 3.º ciclos liceais no Liceu Nacional de Portalegre (1960-1971). Licenciou-se em Organização e Gestão de Empresas depois de obter o bacharelato em Economia no ISEG e obteve o grau de mestre em Comunicação Multimédia na UT Lisboa (1972-1988). Candidato com Estudos de Doutoramento no IEP da UCP Lisboa (2008-2010). Complementou a formação universitária desde 1977, com a obtenção de Diplomas de Pós-Graduação em Engenharia Industrial (AliRati-Suécia) e do International Teachers Program (HEC/London Business School). Obteve certificados de cursos de Estratégia e Marketing de média e curta duração em várias Business Schools: INSEAD (França), IMEDE (Suíça), HEC (França), Columbia University (EUA) e Harvard Business School (EUA) e IESE/AESE. Participou em dezenas de conferências e colóquios como participante e interventor na área de Gestão de Serviços em especial na Gestão de Serviços de Saúde, tanto a nível nacional como internacional. Apresentou comunicações em Congressos de Estratégia, Marketing, Gestão da Saúde e tecnologias da informação, e escreveu artigos técnicos e divulgação científica para revistas portuguesas especializadas em temas de General Management.
+
+Tem repartido, desde 1977, a sua atividade profissional entre o trabalho como técnico superior e quadro com funções de gestão na Administração Pública (FFH), empresas públicas (CTT, IPE, ANCP, CHL), empresas privadas (Alterfato, Iberconsult, Tendencias Lda., Lusitanofonia UP, SSF, Easyphone, Altitude Software, Vertente Capital, SIBS, UNICRE, ANCP, CHL, ULSLA), e a docência no ensino universitário (ISCTE, ISEG, ISGB, ISEL, IPL, UCP), com consultoria e formação profissional para quadros médios e superiores. Na UCP/Católica Lisbon, onde é professor auxiliar convidado; é atualmente coordenador dos cursos de Executivos na área da Gestão em Saúde.
+
+Como profissional em gestão da saúde exerceu desde 2011 e, sucessivamente, como vogal executivo atividades de gestor no SNS no CH Leiria (2011-2014), ULS Litoral Alentejano (2015-2016) e vogal executivo no HF Fonseca (2016-...).
+
+Maria de Fátima Campos de Sena e Silva, nascida em 08.10.1961, em Lisboa. Administradora hospitalar de 3.ª classe, do quadro do Centro Hospitalar de Lisboa Ocidental, E. P. E.
+
+Habilitações académicas e profissionais: Graduada em Administração Hospitalar - ENSP (1994); Leadership in Healthcare Delivery - Nova SBE (2015); Curso de Gestão Estratégica - INA (2007); Curso de Alta Direção para a Administração Pública (CADAP) - INA (2005); Seminário Avançado de Gestão e Investimento Serviços de Saúde - AESE (2000); Curso de Gestão de Unidades de Saúde - UCP (1997); Especialização em Saúde Infantil e Pediátrica - ESEMFR (1988); Licenciatura em Enfermagem - ESECGL (1985).
+
+HOPE - Programa Europeu de Intercâmbio Profissionais de Saúde no Hospital Universitário e Politécnico de La Fe, Valência, Espanha (2014).
+
+A contratualização nos serviços de saúde ACSS/APDH (2013); New Frontiers for Hospital Management, Porto Business School, UP (2013); Gestão Estratégica INA (2007); Liderança e Gestão de Equipas IPOLFG (2004); Equipas de Qualidade IPOLFG (2003); Auditor Interno de Qualidade na Administração Pública IPOLFG (2003); Reflexão e Planeamento Estratégico IPOLFG (2002); Técnicas de Engenharia Industrial Aplicada a Hospitais IPOLFG (2001); Formação de Formadores, HCC (1999); Organização do Trabalho e Gestão de Tempo, HFF (1998); Produtividade, Qualidade e Eficiência no Hospital, HFF (1998); Gestão e Liderança nos Serviços de Saúde, HFF (1995); O Essencial no Incremento de Qualidade em Saúde, ENSP (1995).
+
+Experiência profissional em administração hospitalar: 2014 a 2016: Vogal do conselho de administração do Instituto de Oftalmologia Dr. Gama Pinto; de 2013 a 2014 - administradora hospitalar no Centro Hospitalar de Lisboa Ocidental; de 2010 a 2013 - vogal do conselho de administração do Centro Hospitalar de Lisboa Norte; de 2006 a 2010 - Administração Regional de Saúde de Lisboa e Vale do Tejo; de 2008 a 2010 - coordenadora da equipa de projeto «Parcerias Público Privadas» da ARSLVT para o acompanhamento dos novos hospitais de Lisboa: Todos-os-Santos, IPO Lisboa, Loures, Seixal, Cascais e Vila Franca de Xira; de 2006 a 2008 - assessora do conselho de administração da ARSLVT e colaboradora da Agência de Contratualização dos Serviços de Saúde da ARSLVT; de 1999 a 2006 - administradora hospitalar no Instituto Português de Oncologia de Lisboa de Francisco Gentil (IPOLFG); de 1998 a 1999 - administradora hospitalar no Hospital Curry Cabral; de 1994 a 1998 - administradora hospitalar no Hospital Dr. Fernando Fonseca (Amadora-Sintra).
+
+Outra atividade profissional: membro da Comissão Científica do Prémio Boas Práticas em Saúde (2013 e 2014); membro da Comissão Nacional para a Redução da Taxa de Cesarianas (2013); formadora em Gestão Hospitalar, no curso de Engenharia Biomédica (IST) e no curso de Medicina (FML); coordenadora do Grupo de Trabalho para a definição do programa funcional do Hospital do Seixal (2009); coordenadora do Grupo de Trabalho para a definição do perfil e dimensionamento do Hospital do Seixal (2008); integrou o Grupo de Trabalho para a construção do manual de elaboração de planos funcionais de hospitais de alta resolução (2006); membro do Grupo de Trabalho referente à gestão de informação no âmbito da acreditação do Instituto pela Joint Commission International (IPOLFG 2005); coordenadora do Grupo de Trabalho para a implementação do PACS (Arquitetura de Comunicação e Arquivo de Imagens Digitais) (IPOLFG 2005).

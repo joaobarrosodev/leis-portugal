@@ -1,0 +1,385 @@
+---
+schema_version: '1.0'
+id: eu:celex:31991R1911:por
+title: Regulamento (CEE) nº 1911/91 do Conselho, de 26 de Junho de 1991
+short_title: null
+summary: Regulamento (CEE) nº 1911/91 do Conselho, de 26 de Junho de 1991, relativo à aplicação do direito comunitário às
+  ilhas Canárias
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento
+issuing_authority:
+- Conselho da União Europeia
+proposing_entity: null
+official_number: 1991/1911
+official_date: null
+publication_date: '1991-06-29'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L 171 de 29.6.1991
+  number: '171'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/55cec094-c2bb-4f9b-b6ae-0a5666856105.0011.02/DOC_1
+entry_into_force_dates:
+- '1991-07-01'
+- '1992-01-01'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada (EUR-Lex), sem valor jurídico
+  language: por
+  consolidation_date: '2001-01-01'
+identifiers:
+  celex: 31991R1911
+  eli: http://data.europa.eu/eli/reg/1991/1911/oj
+  oj: oj:JOL_1991_171_R_0001_005
+  dre: null
+  dre_path: null
+  internal: eu:celex:31991R1911:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A31991R1911
+  metadata_url: http://publications.europa.eu/resource/cellar/55cec094-c2bb-4f9b-b6ae-0a5666856105.0011
+  content_url: http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1
+  consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A01991R1911-20010101
+  retrieved_at: '2026-10-22T02:37:37Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2014-11-24T09:05:50.913+01:00'
+integrity:
+  source_sha256: 8ba66905e18973eb9ae7dcb44b91790dd9cda33b463e3c133a3b12512dd33397
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T02:37:37Z'
+  notes: Texto consolidado 01991R1911-20010101.
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- aplicação do direito da UE
+- ilhas Canárias
+- integração europeia
+- mercado único
+- período de transição (UE)
+- território aduaneiro (UE)
+relationships:
+- type: amended_by
+  target: celex:31992R0284
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3840a552-2012-4a40-831a-d55332e38700
+  date: '1992-02-07'
+- type: amended_by
+  target: celex:31999R2674
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d2bc48ee-9ef4-4a9f-93a4-ea5cf51b1d3a
+  date: '1999-12-22'
+- type: amended_by
+  target: celex:32001R1105
+  label: null
+  source: http://publications.europa.eu/resource/cellar/91342849-7997-48f0-9bf7-ac054c4065a1
+  date: '2001-06-08'
+- type: based_on
+  target: celex:11985I025
+  label: null
+  source: http://publications.europa.eu/resource/cellar/9c296e11-08b6-437d-9b9b-6b2536df3bcb
+  date: '1985-06-12'
+- type: cited_by
+  target: pt:dre:138787:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:186294:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:198920:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:209603:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:224387:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:234099:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:293690:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:293691:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:332428:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:335711:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:389821:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:448082:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:522192:por
+  label: null
+  source: null
+- type: cited_by
+  target: pt:dre:641452:por
+  label: null
+  source: null
+- type: cites
+  target: celex:11985I379
+  label: null
+  source: http://publications.europa.eu/resource/cellar/feb183af-f89c-49df-a640-5cac68875a44
+- type: cites
+  target: celex:31972L0464
+  label: null
+  source: http://publications.europa.eu/resource/cellar/3b1f70cc-ad30-4358-a529-07f253ca22a3
+- type: cites
+  target: celex:31977L0388
+  label: null
+  source: http://publications.europa.eu/resource/cellar/dd3ab2e8-a943-4256-a490-7952ca228bfe
+- type: cites
+  target: celex:31979L0032
+  label: null
+  source: http://publications.europa.eu/resource/cellar/74b4e633-34b1-46a8-a124-ea77a1d2faab
+- type: corrected_by
+  target: celex:31991R1911R(01)
+  label: null
+  source: http://publications.europa.eu/resource/cellar/27741772-46eb-40d8-8f69-dc884794de0f
+  date: '1991-08-09'
+article_structure:
+  article_count: 11
+  section_count: 1
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T02:37:37Z'
+  warnings:
+  - Não foi detetado o título principal no XHTML.
+  errors: []
+---
+
+# Regulamento (CEE) nº 1911/91 do Conselho, de 26 de Junho de 1991
+
+1991R1911 — PT — 01.01.2001 — 003.001
+
+Este documento constitui um instrumento de documentação e não vincula as instituições
+
+[►B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1911:PT:NOT) [REGULAMENTO (CEE) N.o 1911/91 DO CONSELHO de 26 de Junho de 1991 relativo à aplicação do direito comunitário às ilhas Canárias](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1911:PT:NOT) (JO L 171, 29.6.1991, p.1)
+
+Alterado por:
+
+|  |  | Jornal Oficial |  |  |
+| --- | --- | --- | --- | --- |
+| No | page | date |  |  |
+| [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R0284:PT:NOT) | [Regulamento (CEE) n.o 284/92 do Conselho de 3 de Fevereiro de 1992](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R0284:PT:NOT) | L 31 | 6 | 7.2.1992 |
+| [►M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R2674:PT:NOT) | [Regulamento (CE) n.o 2674/1999 do Conselho de 13 de Dezembro de 1999](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R2674:PT:NOT) | L 326 | 3 | 18.12.1999 |
+| [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001R1105:PT:NOT) | [Regulamento (CE) n.o 1105/2001 do Conselho de 30 de Maio de 2001](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001R1105:PT:NOT) | L 151 | 1 | 7.6.2001 |
+
+[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1911:PT:NOT)
+
+REGULAMENTO (CEE) N.o 1911/91 DO CONSELHO
+
+de 26 de Junho de 1991
+
+relativo à aplicação do direito comunitário às ilhas Canárias
+
+O CONSELHO DAS COMUNIDADES EUROPEIAS,
+
+Tendo em conta o Tratado que institui a Comunidade Económica Europeia,
+
+Tendo em conta o Acto de Adesão de Espanha e de Portugal e, nomeadamente, o n.o 4, primeiro parágrafo, do seu artigo 25.o,
+
+Tendo em conta a proposta alterada da Comissão ([1](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#E0001)),
+
+Tendo em conta o parecer do Parlamento Europeu ([2](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#E0002)),
+
+Tendo em conta o parecer do Comité Económico e Social ([3](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#E0003)),
+
+Considerando que, por força do artigo 25.o do Acto de Adesão, os Tratados, bem como os actos das instituições das Comunidades Europeias, se aplicam nas ilhas Canárias sem prejuízo das derrogações previstas nesse artigo, no artigo 155.o e no Protocolo n.o 2 do citado Acto;
+
+Considerando que este regime exclui as ilhas Canárias, nomeadamente, do território aduaneiro da Comunidade, da política comercial comum e das políticas comuns agrícola e da pesca; que a experiência tem todavia revelado que o desenvolvimento das ilhas Canárias seria melhor assegurado através de uma completa integração nas políticas comuns e no processo de realização do mercado interno; que é consequentemente necessário alterar o regime previsto pelo Acto de Adesão e integrar as ilhas Canárias no território aduaneiro da Comunidade;
+
+Considerando que, por força do n.o 4, primeiro parágrafo, do artigo 25.o do Acto de Adesão, incumbe ao Conselho, deliberando por unanimidade a pedido da Espanha, sob proposta da Comissão e após consulta do Parlamento Europeu, deliberar sobre a inclusão das ilhas Canárias no território aduaneiro da Comunidade e definir as medidas adequadas para tornar extensiva às ilhas Canárias as disposições do direito comunitário em vigor; que a Espanha formulou, em 7 de Março de 1990, um pedido neste sentido, nos termos do referido artigo;
+
+Considerando que a integração das ilhas Canárias em todas as políticas comuns requer um processo progressivo durante um período transitório adequado e sem prejuízo de medidas especiais destinadas a ter em conta condicionalismos específicos resultantes do afastamento e da insularidade das Canárias, bem como do seu regime económico e fiscal histórico; que essas medidas devem ser objecto de um programa de opções específicas para fazer face ao afastamento e à insularidade das ilhas Canárias a adoptar nos termos do presente regulamento;
+
+Considerando que a aplicação da política agrícola comum às ilhas Canárias permitirá, nomeadamente, a livre circulação dos produtos nas condições aplicáveis à Espanha peninsular (fim do período transitório em 31 de Dezembro de 1995) com excepção dos mecanismos complementares aplicáveis às trocas no que se refere ao abastecimento das ilhas Canárias; que, neste âmbito, será assegurada a livre circulação dos produtos entre as Canárias e o resto da Espanha; que a aplicação integral da política agrícola comum está condicionada à entrada em vigor de um regime específico de abastecimento; que a aplicação desta política deve, além disso, ser acompanhada de medidas específicas relativas à produção agrícola das ilhas Canárias; que será consequentemente necessário manter as disposições do Acto de Adesão relativas à aplicação da política agrícola comum nas ilhas Canárias até à entrada em vigor desse regime de abastecimento, com excepção das que regulam o acesso dos produtos originários das ilhas Canárias aos outros locais da Comunidade; que, no que se refere à banana, as disposições do Protocolo n.o 2 do Acto de Adesão, relativas a este produto, devem continuar a ser aplicáveis;
+
+Considerando que é conveniente aplicar a política comum da pesca às ilhas Canárias a partir da entrada em vigor do presente regulamento e nos termos aplicáveis à Espanha peninsular (fim do período transitório em 31 de Dezembro de 1995) sem prejuízo de medidas especiais a determinar no âmbito da legislação existente;
+
+Considerando que o reconhecimento histórico do factor insular canário se concretizou através da aplicação de sucessivos regimes económicos e fiscais de excepção destinados a compensar as desvantagens relacionadas com o isolamento geográfico do arquipélago;
+
+Considerando que, neste contexto, o reforço da integração das ilhas Canárias na Comunidade não é incompatível com a manutenção de uma fiscalidade indirecta específica às ilhas Canárias e, nomeadamente, com a manutenção da exclusão das ilhas Canárias do âmbito de aplicação territorial do regime comum do imposto sobre o valor acrescentado (IVA), nos termos do artigo 26.o em conjugação com o anexo I, capítulo V, ponto 2, do Acto de Adesão, que altera o n.o 2 do artigo 3.o da Sexta Directiva 77/388/CEE ([4](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#E0004)), bem como a manutenção da exclusão das ilhas Canárias do âmbito de aplicação territorial das directivas relativas aos tabacos manufacturados, nos termos do artigo 26.o em conjugação com o anexo I, capítulo V, pontos 3 e 4, do Acto de Adesão;
+
+Considerando que a Comunidade regista favoravelmente os objectivos prosseguidos pela reforma iniciada pela Espanha quanto aos aspectos fiscais do regime económico e fiscal canário; que esta reforma prevê a instauração progressiva de uma fiscalidade indirecta moderna, instrumento de desenvolvimento económico e social e de financiamento dos orçamentos locais que estabelece as condições de uma completa integração na Comunidade no final de um período transitório que não pode exceder dez anos;
+
+Considerando que é, assim, conveniente autorizar, o mais tardar até 31 de Dezembro de 2000, em duas etapas de 5 anos, segundo um processo dinâmico relacionado com a entrada progressiva das ilhas Canárias na união aduaneira, certas isenções, totais ou parciais, a favor das produções locais no que se refere à aplicação do novo imposto denominado «arbitrio sobre la producción y sobre las importaciones (APIM)» desde que tais isenções contribuam para a promoção das actividades locais; que, todavia, a aplicação deste imposto deve ser suspensa para os produtos abrangidos pela política agrícola comum, até à aplicação dessa política, partindo-se do princípio de que, quando tais produtos são importados de países terceiros, as disposições em vigor nas ilhas Canárias para as trocas com esses países, devem ser mantidas até à mesma data;
+
+Considerando que ao desmantelamento desse imposto deve corresponder a adopção progressiva da Pauta Aduaneira Comum a partir da entrada em vigor do presente regulamento e segundo o mesmo período transitório, a fim de assegurar a completa integração das ilhas Canárias na união aduaneira em 31 de Dezembro de 2000; que todavia, no que se refere aos produtos abrangidos pela política agrícola comum, a aplicação da Pauta Aduaneira Comum e dos outros direitos de importação está condicionada pela entrada em vigor das medidas específicas relativas ao abastecimento das Canárias em produtos agrícolas essenciais; que, de qualquer forma, a aplicação progressiva da Pauta Aduaneira Comum nas ilhas Canárias pode ser acompanhada, se for caso disso, de medidas pautais específicas ou de medidas de derrogação da política comercial comum relativamente a determinados produtos sensíveis; que podem ser igualmente adoptadas medidas deste tipo no que respeita ao regime aplicável às zonas francas;
+
+Considerando que o imposto designado «arbitrio insular — tarifa especial» aplicável aos produtos originários de outros locais da Comunidade nos termos do n.o 3 do artigo 6.o do Protocolo n.o 2 do Acto de Adesão, não será prorrogado para além de 31 de Dezembro de 1992 salvo aplicação, caso por caso, o mais tardar até 31 de Dezembro de 2000, a decidir pelo Conselho; que a aplicação deste imposto aos produtos importados de países terceiros para as ilhas Canárias deve ser progressivamente reduzida a partir de 1 de Janeiro de 1996, por forma a permitir a sua abolição em 31 de Dezembro de 2000, sem prejuízo das obrigações decorrentes dos acordos existentes;
+
+Considerando que convém prever a possibilidade de aplicação das medidas de salvaguarda até, o mais tardar, 31 de Dezembro de 1999,
+
+ADOPTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º
+
+As disposições dos Tratados bem como os actos das instituições das Comunidades Europeias relativamente aos quais o Acto de Adesão prevê derrogações, aplicam-se, no que respeita às ilhas Canárias, nos termos do presente regulamento.
+
+###### Artigo 2.º
+
+1. A partir da entrada em vigor do regime referido no n.o 2, a política agrícola comum aplica-se às ilhas Canárias nas condições em vigor para a Espanha peninsular. Todavia:
+
+— os mecanismos complementares aplicáveis às trocas previstas no Acto de Adesão não se aplicam à entrada nas ilhas Canárias dos produtos em causa,
+
+— a regulamentação em vigor para a Espanha peninsular aplica-se à expedição dos produtos originários das ilhas Canárias para os outros locais da Comunidade, a partir da entrada em vigor do presente regulamento.
+
+2. A aplicação da política agrícola comum será acompanhada de um regime específico de abastecimento.
+
+3. A aplicação da política agrícola comum deverá ter em conta as especificidades das produções canárias.
+
+###### Artigo 3.º
+
+A política comum da pesca aplica-se às ilhas Canárias nas condições em vigor para a Espanha peninsular a partir da entrada em vigor do presente regulamento. A aplicação da política comum da pesca será acompanhada de medidas específicas destinadas a ter em conta, se for caso disso, as especificidades das produções das ilhas Canárias.
+
+###### Artigo 4.º
+
+1. Nos termos do artigo 26.o em conjugação com o anexo I, capítulo V, ponto 2, do Acto de Adesão, que altera o n.o 2 do artigo 3.o da Sexta Directiva 77/388/CEE, o território das ilhas Canárias permanece fora do âmbito de aplicação do regime comum do IVA.
+
+2. Nos termos do artigo 26.o em conjugação com o anexo I, capítulo V, pontos 3 e 4, do Acto de Adesão, a Espanha tem a faculdade de não aplicar, nas ilhas Canárias, as disposições das Directivas 72/464/CEE ([5](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#E0005)) e 79/32/CEE ([6](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#E0006)).
+
+###### Artigo 5.º
+
+1. Durante um período transitório, que não pode ultrapassar o dia [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001R1105:PT:NOT) 31 de Dezembro de 2001 ◄, as autoridades espanholas podem aplicar um imposto denominado «arbitrio sobre la producción y sobre las importaciones (APIM)» a todos os produtos introduzidos e obtidos nas ilhas Canárias. Todavia, no que se refere aos produtos abrangidos pela política agrícola comum, tal faculdade só pode ser aplicada a partir da entrada em vigor do regime específico de abastecimento referido no n.o 2 do artigo 2.o
+
+2. Até 31 de Dezembro de 1995, os valores do imposto serão fixados nos termos do disposto no n.o 3. A partir de 1 de Janeiro de 1996, esses valores serão reduzidos à razão de 20 % ao ano por forma a permitir a supressão da imposição nos prazos previstos no n.o 1.
+
+[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R2674:PT:NOT)
+
+Em derrogação do disposto no parágrafo anterior, a redução das taxas é suspensa de 30 de Dezembro de 1999 a 30 de Junho de 2000 relativamente aos produtos dos sectores enumerados no anexo do presente regulamento.
+
+[▼B](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31991R1911:PT:NOT)
+
+3. Os valores aplicáveis podem ser modulados segundo as categorias de produtos, entre 0,1 % e 5 %, podendo todavia ir até 15 % para os tabacos manufacturados (códigos NC 2402 10 00 e 2402 20 00); não podem, em caso algum, sofrer um aumento superior a 15 % da taxa inicial. A modulação destes valores não pode, em caso algum, ser susceptível de introduzir discriminações nos produtos provenientes da Comunidade.
+
+4. No âmbito do período transitório referido no n.o 1, tendo em conta a situação específica das ilhas Canárias e na perspectiva da sua completa integração na união aduaneira, podem ser autorizadas isenções parciais ou totais do imposto a favor das produções locais, segundo as necessidades económicas, até 31 de Dezembro de 1995. Estas isenções devem inserir-se na estratégia de desenvolvimento económico e social das ilhas Canárias, tendo em conta o respectivo quadro comunitário de apoio, e devem contribuir para a promoção das actividades locais, sem, no entanto, serem susceptíveis de alterar as condições das trocas de forma contrária ao interesse comum.
+
+5. Os regimes de isenções aprovados pelas autoridades competentes nos termos do n.o 4 serão notificados à Comissão que disso informará os Estados-membros e tomará posição num prazo de dois meses para avaliar da sua conformidade com os objectivos definidos no número anterior. Se a Comissão não se pronunciar dentro desse prazo o regime é considerado aprovado.
+
+6. Durante o ano de 1995, a Comissão, após consulta das autoridades espanholas, analisará a incidência das medidas adoptadas sobre a economia das ilhas Canárias e sobre as perspectivas da sua integração no território aduaneiro comunitário. Com base nessa análise, as autoridades espanholas podem ser autorizadas, segundo os critérios previstos no n.o 4 e segundo o procedimento previsto no n.o 5, a manter total ou parcialmente, o mais tardar até [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001R1105:PT:NOT) 31 de Dezembro de 2001 ◄, as isenções em vigor.
+
+###### Artigo 6.º
+
+1. Durante um período transitório que não pode ultrapassar o dia [►M3](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:32001R1105:PT:NOT) 31 de Dezembro de 2001 ◄, a Pauta Aduaneira Comum (PAC) será progressivamente introduzida segundo o seguinte calendário:
+
+— até 31 de Dezembro de 1992, as taxas dos direitos aplicáveis serão equivalentes a 30 % das taxas da PAC; a partir de 1 de Janeiro de 1993, essas taxas corresponderão a 35 % da PAC e elevar-se-ão seguidamente a 40 % da PAC a partir de 1 de Janeiro de 1994 e a 50 % da PAC a partir de 1 de Janeiro de 1995,
+
+— a partir de 1 de Janeiro de 1996, as taxas serão aumentadas à razão de 10 % ao ano a fim de alcançar, no final do período transitório, a aplicação integral da PAC nas ilhas Canárias.
+
+2. Todavia, a aplicação da PAC e dos outros direitos de importação aplicáveis no âmbito da política agrícola comum é suspensa até à entrada em vigor do regime específico de abastecimento referido no n.o 2 do artigo 2.o
+
+3. A aplicação da PAC às ilhas Canárias será efectuada sem prejuízo das medidas pautais específicas ou das medidas de derrogação da política comercial comum aplicáveis, se necessário, a determinados produtos sensíveis. Podem igualmente ser adoptadas medidas aduaneiras no que respeita ao regime aplicável às zonas francas.
+
+4. O imposto denominado «arbitrio insular» — tarifa especial» das ilhas Canárias aplica-se aos produtos enviados dos outros locais da Comunidade nas condições fixadas no n.o 3 do artigo 6.o do Protocolo n.o 2 do Acto de Adesão não podendo ser prorrogado para além de 31 de Dezembro de 1992. Todavia, o Conselho poderá autorizar, caso a caso, a pedido de Espanha e segundo o processo acima referido, a aplicação deste imposto a determinados produtos sensíveis até 31 de Dezembro de 2000, o mais tardar. Sem prejuízo das obrigações decorrentes de acordos existentes, a aplicação deste imposto aos produtos importados originários de países terceiros deve ser progressivamente reduzida a partir de 1 de Janeiro de 1996 por forma a permitir a sua abolição em 31 de Dezembro de 2000.
+
+5. Sempre que se verificar que a aplicação do n.o 1 provoca desvios de tráfego, a Comissão pode decidir que seja cobrada a diferença dos direitos de importação, no que se refere às mercadorias introduzidas em livre prática nas ilhas Canárias, aquando da sua introdução nos outros locais do território aduaneiro da Comunidade.
+
+###### Artigo 7.º
+
+A política comercial comum aplica-se às ilhas Canárias nas condições fixadas para a Espanha no Acto de Adesão, sem prejuízo das medidas específicas referidas no n.o 2 do artigo 2.o, no n.o 3 do artigo 6.o e no n.o 3 do artigo 10.o do presente regulamento.
+
+###### Artigo 8.º
+
+A Comissão adoptará as medidas adequadas para evitar qualquer movimento especulativo ou desvio de tráfego no seguimento da alteração do regime de trocas aplicável às ilhas Canárias.
+
+###### Artigo 9.º
+
+O Conselho, sob proposta da Comissão e após consulta ao Parlamento Europeu e ao Comité Económico e Social, adoptará um programa de opções específicas para fazer face ao afastamento e à insularidade das ilhas Canárias. Este programa incluirá, nomeadamente, as medidas específicas referidas nos n.os 2 e 3 do artigo 2.o, no artigo 3.o e no n.o 3 do artigo 6.o do presente regulamento. A aplicação deste programa pluri-sectorial de acção, que incluirá medidas regulamentares e compromissos financeiros relacionados com a tomada em consideração, na aplicação das políticas comuns, dos condicionalismos específicos das ilhas Canárias, será executado antes de 31 de Dezembro de 1992 mediante a adopção, pelo Conselho ou pela Comissão, consoante os casos, dos actos jurídicos necessários, nos termos do Tratado.
+
+###### Artigo 10.º
+
+1. O presente regulamento entra em vigor em 1 de Julho de 1991.
+
+2. As disposições do presente regulamento relativas à aplicação da política agrícola comum são aplicáveis a partir da entrada em vigor do regime específico de abastecimento previsto no n.o 2 do artigo 2.o Este regime entrará em vigor o mais tardar em [►M1](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31992R0284:PT:NOT) 1 de Julho de 1992 ◄. Todavia, o disposto no Protocolo n.o 2 do Acto de Adesão relativamente ao acesso dos produtos originários das ilhas Canárias ao resto da Comunidade expira no momento da entrada em vigor do presente regulamento, sem prejuízo do disposto no n.o 3 infra.
+
+3. As disposições do Protocolo n.o 2 do Acto de Adesão relativas à banana continuam aplicáveis.
+
+###### Artigo 11.º
+
+As medidas de salvaguarda previstas no artigo 379.o do Acto de Adesão aplicam-se, no caso de se produzirem as contingências previstas no mesmo, aos sectores afectados pelo novo regime de integração das Canárias na Comunidade e unicamente até 31 de Dezembro de 1999.
+
+O presente regulamento é obrigatório em todos os seus elementos e directamente aplicável em todos os Estados-Membros.
+
+[▼M2](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:31999R2674:PT:NOT)
+
+## ANEXO — Lista dos produtos referidos no segundo parágrafo do n.o 2 do artigo 5.o de acordo com a classificação da nomenclatura da pauta aduaneira comum (PAC)
+
+Alimentos diversos:
+
+0403 10, 0407 00 90, 0701 90, 0702, 0703, 0803, 0901 21, 0901 90 90, 1101, 1601, 1602, 1704 90 71, 1806 (excepto 1806 20 95), 1901 90 99, 1902, 1904 10 10, 1905 10 00, 1905 20, 1905 30, 1905 40, 1905 90, 2002 10 90, 2002 90 91, 2007 91 10, 2007 99 39, 2008 99 61, 2008 99 68, 2101, 2103, 2105, 2106 90 98, 2309.
+
+Tabacos:
+
+2402 10 00, 2402 20.
+
+Química:
+
+2804 30 00, 2804 40 00, 2851 00 30, 3208, 3209, 3213, 3401, 3402 (excepto 3402 11 00, 3402 12 00 e 3402 13 00), 3809 91 00.
+
+Papel:
+
+4808, 4818 10, 4818 20, 4818 30, 4818 40, 4819, 4821, 4823 59 10, 4909, 4910, 4911, 5601 22 10, 5601 22 99.
+
+Têxteis:
+
+6112 31, 6112 41, 6213, 6302, 6303.
+
+Indústrias metalúrgicas I:
+
+7308, 7309 00 (excepto 7309 00 90), 7317, 7325, 7604, 7608, 7610, 9406 00 31.
+
+Outros produtos manufacturados:
+
+3923 10 00, 3923 21 00, 3923 30 10, 3924 10 00, 4012 10, 4418, 4601, 4602, 6802, 7010, 8544 59 10, 9401, 9403, 9404.
+
+([1](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#src.E0001)) JO n.o C 67 de 15. 3. 1991, p. 8.
+
+([2](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#src.E0002)) JO n.o C 158 de 17. 6. 1991.
+
+([3](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#src.E0003)) Parecer emitido em 30 de Maio de 1991 (ainda não publicado no Jornal Oficial).
+
+([4](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#src.E0004)) JO n.o L 145 de 13. 6. 1977, p. 1.
+
+([5](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#src.E0005)) JO n.o L 303 de 31. 12. 1972, p. 1.
+
+([6](http://publications.europa.eu/resource/cellar/81624c11-69fc-4470-ba11-a29830318783.0022.02/DOC_1#src.E0006)) JO n.o L 10 de 16. 1. 1979, p. 8.

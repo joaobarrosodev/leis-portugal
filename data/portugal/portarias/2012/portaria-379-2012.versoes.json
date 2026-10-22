@@ -1,0 +1,325 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:190873:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-72851397",
+ "dre_path": "/dr/detalhe/portaria/379-2012-190873",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2012-11-21",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "72836296",
+    "72836297",
+    "72836298",
+    "72836299",
+    "72836300",
+    "72836301",
+    "72836302",
+    "72836303",
+    "72836304",
+    "72836305",
+    "72836306",
+    "72836307",
+    "72836308",
+    "72836309",
+    "72836310",
+    "72836311",
+    "72836312",
+    "72836313",
+    "72836314",
+    "72836315"
+   ]
+  },
+  {
+   "date": "2014-08-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:56152686:por",
+     "title": "Portaria n.º 159/2014",
+     "published": "2014-08-19",
+     "dre_path": "/dr/detalhe/portaria/159-2014-56152686"
+    }
+   ],
+   "changes": [
+    "Altera Anexo II"
+   ],
+   "fragments": [
+    "72836296",
+    "72836297",
+    "72836298",
+    "72836299",
+    "72836300",
+    "72836301",
+    "72836302",
+    "72836303",
+    "72836304",
+    "72836305",
+    "72836306",
+    "72836307",
+    "72836308",
+    "72836309",
+    "72836310",
+    "72836311",
+    "72836312",
+    "72836313",
+    "72836316",
+    "72836314",
+    "72836330"
+   ]
+  },
+  {
+   "date": "2015-08-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:67323532:por",
+     "title": "Portaria n.º 154/2015",
+     "published": "2015-05-27",
+     "dre_path": "/dr/detalhe/portaria/154-2015-67323532"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "72836296",
+    "72836297",
+    "72836298",
+    "72836299",
+    "72836300",
+    "72836301",
+    "72836302",
+    "72836331",
+    "72836332",
+    "72836305",
+    "72836306",
+    "72836307",
+    "72836308",
+    "72836333",
+    "72836310",
+    "72836311",
+    "72836312",
+    "72836313",
+    "72836316",
+    "72836314",
+    "72836330"
+   ]
+  }
+ ],
+ "fragments": {
+  "72836296": {
+   "fragment_id": "72851398",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 379/2012\n\nde 21 de novembro\n\nA Portaria n.º 112/93, de 30 de janeiro, com as alterações introduzidas pelas Portarias n.os 1202/97, de 28 de novembro, e 394/2001, de 16 de abril, conferiu aos vinhos de mesa produzidos na região do Minho a possibilidade de usarem a menção «Vinho Regional», seguida da indicação geográfica (IG) «Minho», reconhecendo a qualidade dos vinhos aí produzidos.\n\nPosteriormente, o Decreto-Lei n.º 212/2004, de 23 de agosto, procedeu à reorganização institucional do sector vitivinícola, disciplinou o reconhecimento e a proteção das denominações de origem (DO) e indicações geográficas (IG), bem como o seu controlo, certificação e utilização.\n\nContudo, e tendo presente a importância e o valor económico gerado pelos produtos vitivinícolas desta região, torna-se necessário rever aquela legislação que não regulamenta aspetos específicos de produção e comércio de produtos com direito a IG, previstos no artigo 6.º do Decreto-Lei n.º 212/2004, designadamente a possibilidade de incluir outros produtos do sector vitivinícola que podem contribuir para o aumento do valor económico gerado pelos produtos delas provenientes, mantendo a qualidade e as práticas tradicionais que caracterizam os vinhos e produtos vitivinícolas da região. Neste sentido, identificam-se de modo sistematizado os municípios e as castas aptas à produção dos produtos vitivinícolas com direito ao uso da IG «Minho».\n\nA simplificação da legislação e a melhoria da comunicação aos agricultores constitui uma prioridade na ação do Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território. Assim, tendo em conta a extensão das alterações introduzidas e a sistematização agora adotada optou-se por revogar as Portarias n.os 112/93, de 30 de janeiro, 1202/97, de 28 de novembro, e 394/2001, de 16 de abril, e aprovar uma única portaria definindo as normas técnicas para a produção dos produtos vitivinícolas da IG «Minho».\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do disposto no n.º 1 do artigo 4.º e no artigo 6.º do Decreto-Lei n.º 212/2004, de 23 de agosto, e no uso das competências delegadas através do despacho n.º 12412/2011, de 20 de setembro, o seguinte:"
+  },
+  "72836297": {
+   "fragment_id": "72851399",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria define o regime para a produção e comércio dos vinhos e demais produtos vitivinícolas da indicação geográfica (IG) «Minho»."
+  },
+  "72836298": {
+   "fragment_id": "72851400",
+   "type": 11,
+   "heading": "Artigo 2.º — Indicação geográfica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Indicação geográfica\n\nA IG «Minho» reconhecida pode ser usada para identificação dos produtos vitivinícolas que satisfaçam os requisitos estabelecidos na presente portaria e demais legislação aplicável e que se integrem numa das seguintes categorias de produtos:\n\na) Vinho, branco, tinto e rosado, designado «Vinho Regional Minho»;\n\nb) Vinho licoroso, branco, tinto e rosado;\n\nc) Vinho espumante, branco, tinto e rosado;\n\nd) Vinho espumante de qualidade, branco, tinto e rosado;\n\ne) Vinho frisante, branco, tinto e rosado;\n\nf) Vinho frisante gaseificado, branco, tinto e rosado;\n\ng) Aguardente vínica e bagaceira;\n\nh) Vinagre de vinho, branco, tinto e rosado."
+  },
+  "72836299": {
+   "fragment_id": "72851401",
+   "type": 11,
+   "heading": "Artigo 3.º — Delimitação da área de produção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Delimitação da área de produção\n\n1 - A área geográfica de produção da IG «Minho» corresponde à área prevista no anexo i à presente portaria, da qual faz parte integrante, e abrange:\n\na) Todos os municípios dos distritos de Braga e de Viana do Castelo;\n\nb) Do distrito de Aveiro, os municípios de Arouca, Castelo de Paiva e Vale de Cambra e a freguesia de Ossela, do município de Oliveira de Azeméis;\n\nc) Do distrito do Porto, os municípios de Amarante, Baião, Felgueiras, Gondomar, Lousada, Maia, Marco de Canaveses, Matosinhos, Paços de Ferreira, Paredes, Penafiel, Póvoa de Varzim, Santo Tirso, Trofa, Valongo e Vila do Conde;\n\nd) Do distrito de Vila Real, os municípios de Mondim de Basto e Ribeira de Pena;\n\ne) Do distrito de Viseu, os municípios de Cinfães e Resende, com exceção da freguesia de Barrô.\n\n2 - Os produtos com direito à IG «Minho» devem ser obtidos exclusivamente a partir de uvas provenientes da área de produção e cuja vinificação ocorra na referida área."
+  },
+  "72836300": {
+   "fragment_id": "72851402",
+   "type": 11,
+   "heading": "Artigo 4.º — Solos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Solos\n\nAs vinhas destinadas à produção dos produtos com direito à IG «Minho» devem estar, ou ser instaladas, nos seguintes tipos de solos e com exposição adaptada à produção destes vinhos:\n\na) Solos litólicos húmicos provenientes de rochas eruptivas (granitos);\n\nb) Solos metamórficos (xistos e gneisses) ou em depósitos areno-pelíticos;\n\nc) Solos regossolos no litoral da região;\n\nd) Solos litossolos quando na sua fronteira interior."
+  },
+  "72836301": {
+   "fragment_id": "72851403",
+   "type": 11,
+   "heading": "Artigo 5.º — Castas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Castas\n\nAs castas a utilizar na elaboração dos vinhos e produtos vitivinícolas com direito à IG «Minho» são as constantes do anexo ii à presente portaria, da qual faz parte integrante."
+  },
+  "72836302": {
+   "fragment_id": "72851404",
+   "type": 11,
+   "heading": "Artigo 6.º — Práticas culturais e inscrição das vinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Práticas culturais e inscrição das vinhas\n\n1 - As práticas culturais utilizadas nas vinhas que se destinam à produção de vinhos e produtos vitivinícolas com direito à IG «Minho» devem ser as tradicionais ou as recomendadas pela entidade certificadora, tendo em vista a obtenção de produtos de qualidade.\n\n2 - As parcelas de vinha aprovadas como aptas à produção dos produtos vitivinícolas com direito à IG «Minho», bem como a identificação do titular e do explorador das mesmas, devem ser inscritas, a pedido dos viticultores, na entidade certificadora, que verifica se as mesmas satisfazem os necessários requisitos e procede ao respetivo cadastro.\n\n3 - Sempre que se verifique alteração na titularidade ou na constituição das vinhas inscritas e aprovadas deve este facto ser comunicado à entidade certificadora, pelos respetivos viticultores, sem o que as uvas daquelas vinhas não podem ser utilizadas na elaboração de vinhos e produtos vitivinícolas com direito à IG «Minho»."
+  },
+  "72836303": {
+   "fragment_id": "72851405",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimento por hectare",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Rendimento por hectare\n\nO rendimento máximo por hectare das vinhas destinadas à produção dos vinhos e produtos vitivinícolas com direito à IG «Minho» é fixado em 20 000 kg."
+  },
+  "72836304": {
+   "fragment_id": "72851406",
+   "type": 11,
+   "heading": "Artigo 8.º — Vinificação e práticas enológicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Vinificação e práticas enológicas\n\n1 - A elaboração dos vinhos e produtos vitivinícolas com IG «Minho» devem seguir os métodos e práticas de vinificação tradicionais, bem como os legalmente autorizados.\n\n2 - As práticas enológicas autorizadas para os produtos com direito à IG «Minho» são as definidas na legislação aplicável sobre matéria.\n\n3 - O rendimento em mosto que resulta da separação dos bagaços não pode ser superior a 75 l por 100 kg de uvas.\n\n4 - A entidade certificadora pode, mediante pedido do agente económico nela inscrito, autorizar as operações de dessulfitação e de fermentação de mostos amuados em instalações sitas na área de proximidade da área geográfica de produção da IG «Minho», devendo o agente económico suportar o custo das ações de controlo obrigatório dos trânsitos a efetuar e ser o engarrafador dos produtos em causa.\n\n5 - O título alcoométrico volúmico natural mínimo dos mostos destinados à elaboração de produtos com direito à IG «Minho» deve ser de 7 % vol., salvo no caso dos vinhos licorosos em que deve ser de 12 % vol."
+  },
+  "72836305": {
+   "fragment_id": "72851407",
+   "type": 11,
+   "heading": "Artigo 9.º — Destilação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destilação\n\nA destilação dos bagaços destinados a aguardente bagaceira com direito à IG «Minho» não deve ser efetuada para além do mês de janeiro imediato à colheita das uvas."
+  },
+  "72836306": {
+   "fragment_id": "72851408",
+   "type": 11,
+   "heading": "Artigo 10.º — Características dos produtos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Características dos produtos\n\n1 - Os vinhos com direito à IG «Minho» devem apresentar as seguintes características:\n\na) Título alcoométrico volúmico adquirido mínimo de 8,5 % vol.;\n\nb) Acidez fixa, expressa em ácido tartárico, igual ou superior a 4,5 g/l.\n\n2 - Os vinhos licorosos com direito à IG «Minho» devem apresentar acidez fixa, expressa em ácido tartárico, igual ou superior a 4,5 g/l.\n\n3 - Os vinhos espumantes e os vinhos espumantes de qualidade com direito à IG «Minho» devem apresentar as seguintes características:\n\na) Relativamente ao vinho base, satisfazer as exigências previstas para os vinhos com direito à IG «Minho»;\n\nb) Título alcoométrico volúmico adquirido igual ou superior a 10 % vol.;\n\nc) Acidez fixa, expressa em ácido tartárico, igual ou superior a 4,5 g/l.\n\n4 - Os vinhos frisantes e os vinhos frisantes gaseificados com direito à IG «Minho» devem apresentar acidez fixa, expressa em ácido tartárico, igual ou superior a 4,5 g/l.\n\n5 - As aguardentes vínicas com direito à IG «Minho» devem ter um título alcoométrico volúmico igual ou superior a 37,5 % vol. e as aguardentes bagaceiras com direito à IG «Minho» devem ter um título alcoométrico volúmico igual ou superior a 40 % vol.\n\n6 - Os vinagres com direito à IG «Minho» devem ser obtidos a partir de vinhos aptos a obter a IG «Minho» e obedecer às normas nacionais e comunitárias em vigor.\n\n7 - Os restantes parâmetros analíticos e organolépticos devem apresentar os requisitos estabelecidos para os respetivos produtos nas disposições legais em vigor e os definidos em regulamento interno da entidade certificadora.\n\n8 - A aprovação dos vinhos e produtos vitivinícolas com direito a IG «Minho» depende do cumprimento do disposto nos números anteriores a confirmar mediante realização de análises físico-química e organoléptica."
+  },
+  "72836307": {
+   "fragment_id": "72851409",
+   "type": 11,
+   "heading": "Artigo 11.º — Inscrição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Inscrição\n\nSem prejuízo de outras disposições legais aplicáveis, todas as pessoas, singulares ou coletivas, que se dediquem à produção e comercialização dos produtos vitivinícolas com direito à IG «Minho», excluída a distribuição e a venda a retalho dos produtos engarrafados, estão obrigadas a efetuar a sua inscrição, bem como das respetivas instalações, na entidade certificadora em registo apropriado para o efeito."
+  },
+  "72836308": {
+   "fragment_id": "72851410",
+   "type": 11,
+   "heading": "Artigo 12.º — Instalações de vinificação, destilação, armazenagem e pré-embalagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Instalações de vinificação, destilação, armazenagem e pré-embalagem\n\n1 - As instalações de vinificação, destilação, armazenagem, fabrico e pré-embalagem são submetidas a prévia aprovação da entidade certificadora, que para tal procede a vistorias periódicas.\n\n2 - Os vinhos com direito à IG «Minho» devem ser elaborados dentro da respetiva área de produção, em adegas que observem as disposições legais aplicáveis e se encontrem inscritas na entidade certificadora.\n\n3 - As instalações de vinificação são exclusivas dos produtos vitivinícolas oriundos da área geográfica de produção, devendo estar localizadas dentro da respetiva região.\n\n4 - As instalações de destilação da aguardente vínica e da aguardente bagaceira com direito à IG «Minho» devem estar localizadas dentro da respetiva área de produção devendo o equipamento e os processos utilizados na destilação ser os mais adequados à obtenção de produtos destinados a produzir aguardentes vínicas e bagaceiras.\n\n5 - As instalações de fabrico e preparação do vinagre com direito à IG «Minho» devem estar localizadas dentro da respetiva região ou nos concelhos do Porto e Vila Nova de Gaia.\n\n6 - No caso das instalações de armazenagem a granel e pré-embalagem estarem localizadas fora da área de produção da IG «Minho», os custos inerentes ao controlo e fiscalização dos respetivos produtos devem ser suportados pelo agente económico em causa."
+  },
+  "72836309": {
+   "fragment_id": "72851411",
+   "type": 11,
+   "heading": "Artigo 13.º — Engarrafamento e rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Engarrafamento e rotulagem\n\n1 - A rotulagem a utilizar deve respeitar as normas legais aplicáveis e as definidas em regulamento interno da entidade certificadora, a quem são previamente apresentados para aprovação.\n\n2 - Os vinhos que, após a certificação e engarrafamento, possam apresentar depósito, só podem ser comercializados se na rotulagem for utilizada a expressão «Sujeito a depósito» ou menção equivalente."
+  },
+  "72836310": {
+   "fragment_id": "72851412",
+   "type": 11,
+   "heading": "Artigo 14.º — Circulação, comercialização e documentação de acompanhamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Circulação, comercialização e documentação de acompanhamento\n\n1 - Os produtos aptos à IG «Minho» só podem ser comercializados e postos em circulação a granel desde que acompanhados da necessária documentação oficial, onde conste essa mesma aptidão e sejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade certificadora.\n\n2 - Sem prejuízo do estabelecido na legislação em vigor, os produtos com direito à IG «Minho» só podem ser postos em circulação e comercializados desde que nos respetivos recipientes e ou na documentação oficial necessária figure a IG atestada pela entidade certificadora e sejam cumpridas as restantes exigências estabelecidas legalmente ou pela entidade certificadora."
+  },
+  "72836311": {
+   "fragment_id": "72851413",
+   "type": 11,
+   "heading": "Artigo 15.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Controlo\n\n1 - Cabe à Comissão de Viticultura da Região dos Vinhos Verdes (CVRVV) efetuar o controlo da produção e comércio e a certificação dos vinhos e produtos vitivinícolas com direito à IG «Minho», nos termos do n.º 1 da Portaria n.º 297/2008, de 17 de abril, emitindo e autenticando a respetiva documentação.\n\n2 - Compete à CVRVV, nos termos do disposto no artigo 12.º do Decreto-Lei n.º 212/2004, de 23 de agosto:\n\na) Assegurar um controlo eficaz das existências de produtos vitivinícolas de cada um dos agentes económicos da sua área de atuação, nomeadamente em sistema de contas correntes, rececionando e utilizando para o efeito as declarações de existências, de colheitas e de produção, os documentos de acompanhamento e os registos vitivinícolas;\n\nb) Demandar judicialmente ou participar dos autores das infrações à disciplina da IG «Minho» e demais infrações económicas ou tributárias, podendo proceder à selagem dos produtos ou à apreensão de documentos e outros objetos que constituam resultado ou instrumento de prática de infrações detetadas;\n\nc) Aplicar as sanções de natureza disciplinar previstas nos respetivos estatutos ou no manual de procedimentos;\n\nd) Exercer, relativamente aos agentes económicos nela inscritos, o controlo da produção, circulação e comércio das uvas e dos produtos do sector vitivinícola que se encontrem ou se destinem à sua área geográfica de atuação, podendo para o efeito realizar vistorias e colher amostras nas instalações de vinificação, destilação, armazenagem, engarrafamento, distribuição, venda por grosso ou a retalho, e ainda no vasilhame de transporte, e solicitar-lhes toda a documentação e informações necessárias para verificar o cumprimento das regras específicas do sector vitivinícola.\n\n3 - Nos termos do disposto no n.º 3 do artigo 12.º do Decreto-Lei n.º 212/2004, de 23 de agosto, a CVRVV pode ainda exercer as funções referidas na alínea d) do número anterior relativamente a outros agentes económicos não inscritos na entidade certificadora, desde que em conjugação ou por delegação das autoridades competentes neste domínio, podendo, neste caso, levantar autos de todas as irregularidades ou infrações detetadas."
+  },
+  "72836312": {
+   "fragment_id": "72851414",
+   "type": 11,
+   "heading": "Artigo 16.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "72836313": {
+   "fragment_id": "72851415",
+   "type": 11,
+   "heading": "Artigo 17.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 112/93, de 30 de janeiro;\n\nb) A Portaria n.º 1202/97, de 28 de novembro;\n\nc) A Portaria n.º 394/2001, de 16 de abril, na parte em vigor."
+  },
+  "72836314": {
+   "fragment_id": "72851416",
+   "type": 14,
+   "heading": "Anexo I — (a que se refere o artigo 3.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — (a que se refere o artigo 3.º)\n\nIndicação geográfica «Minho»\n\n(ver documento original)\n\nRepresentação cartográfica da área geográfica de produção da indicação geográfica «Minho»\n\n(ver documento original)"
+  },
+  "72836315": {
+   "fragment_id": "72851417",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 5.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — (a que se refere o artigo 5.º)\n\nCastas a utilizar na elaboração dos produtos com direito à indicação geográfica «Minho»\n\n(ver documento original)"
+  },
+  "72836316": {
+   "fragment_id": "72851418",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 7 de novembro de 2012."
+  },
+  "72836330": {
+   "fragment_id": "72851417",
+   "type": 14,
+   "heading": "Anexo II — (a que se refere o artigo 5.º)",
+   "in_force_from": "2014-08-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159/2014 - Diário da República n.º 158/2014, Série I de 2014-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/159-2014-56152686), em vigor a partir de 2014-08-20"
+   ],
+   "markdown": "## Anexo II — (a que se refere o artigo 5.º)\n\n(ver documento original)\n\n> Alterado pelo/a Artigo 3.º do/a [Portaria n.º 159/2014 - Diário da República n.º 158/2014, Série I de 2014-08-19](https://diariodarepublica.pt/dr/detalhe/portaria/159-2014-56152686), em vigor a partir de 2014-08-20"
+  },
+  "72836331": {
+   "fragment_id": "72851405",
+   "type": 11,
+   "heading": "Artigo 7.º — Rendimento por hectare",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/154-2015-67323532), em vigor a partir de 2015-08-01"
+   ],
+   "markdown": "###### Artigo 7.º — Rendimento por hectare\n\n1- O rendimento máximo por hectare das vinhas destinadas à produção dos vinhos e produtos vitivinícolas com direito à IG «Minho» é fixado em 20 000 kg.\n\n2 - O rendimento máximo por hectare das vinhas da casta Alvarinho é fixado em 10.666 kg, exceto nos casos em que essas vinhas cumpram requisitos de produtividade e qualidade, a definir pelo conselho geral da Comissão de Viticultura da Região dos Vinhos Verdes (CVRVV), cujo rendimento máximo por hectare é fixado em 13.500 kg.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/154-2015-67323532), em vigor a partir de 2015-08-01"
+  },
+  "72836332": {
+   "fragment_id": "72851406",
+   "type": 11,
+   "heading": "Artigo 8.º — Vinificação e práticas enológicas",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/154-2015-67323532), em vigor a partir de 2015-08-01"
+   ],
+   "markdown": "###### Artigo 8.º — Vinificação e práticas enológicas\n\n1 - A elaboração dos vinhos e produtos vitivinícolas com IG «Minho» devem seguir os métodos e práticas de vinificação tradicionais, bem como os legalmente autorizados.\n\n2 - As práticas enológicas autorizadas para os produtos com direito à IG «Minho» são as definidas na legislação aplicável sobre matéria.\n\n3 - O rendimento em mosto que resulta da separação dos bagaços não pode ser superior a 75 l por 100 kg de uvas, exceto para os mostos destinados à produção dos vinhos com direito à utilização na rotulagem da casta Alvarinho, cujo rendimento máximo é fixado em 65 l por 100 kg de uvas.\n\n4 - A entidade certificadora pode, mediante pedido do agente económico nela inscrito, autorizar as operações de dessulfitação e de fermentação de mostos amuados em instalações sitas na área de proximidade da área geográfica de produção da IG «Minho», devendo o agente económico suportar o custo das ações de controlo obrigatório dos trânsitos a efetuar e ser o engarrafador dos produtos em causa.\n\n5 - O título alcoométrico volúmico natural mínimo dos mostos destinados à elaboração de produtos com direito à IG «Minho» deve ser de 7 % vol., salvo no caso dos vinhos licorosos em que deve ser de 12 % vol.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/154-2015-67323532), em vigor a partir de 2015-08-01"
+  },
+  "72836333": {
+   "fragment_id": "72851411",
+   "type": 11,
+   "heading": "Artigo 13.º — Engarrafamento e rotulagem",
+   "in_force_from": "2015-08-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/154-2015-67323532), em vigor a partir de 2015-08-01"
+   ],
+   "markdown": "###### Artigo 13.º — Engarrafamento e rotulagem\n\n1 - A rotulagem a utilizar deve respeitar as normas legais aplicáveis e as definidas em regulamento interno da entidade certificadora, a quem são previamente apresentados para aprovação.\n\n2 - Para a indicação na rotulagem apenas da casta Alvarinho, o produto deve ser obtido exclusivamente a partir desta casta.\n\n3 - A casta Alvarinho quando indicada na rotulagem conjuntamente com outras castas, deve representar uma percentagem igual ou superior a 30 % no produto obtido.\n\n4 - Os vinhos que, após a certificação e engarrafamento, possam apresentar depósito, só podem ser comercializados se na rotulagem for utilizada a expressão «Sujeito a depósito» ou menção equivalente.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 154/2015 - Diário da República n.º 102/2015, Série I de 2015-05-27](https://diariodarepublica.pt/dr/detalhe/portaria/154-2015-67323532), em vigor a partir de 2015-08-01"
+  }
+ }
+}

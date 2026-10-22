@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:329791:por
+title: Despacho Normativo n.º 229/78
+short_title: null
+summary: Estabelece normas no domínio das comparticipações a conceder aos beneficiários da assistência sanitária instituída
+  pelo Decreto-Lei n.º 357/77, de 31 de Agosto
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Administração Interna
+proposing_entity: null
+official_number: 229/78
+official_date: null
+publication_date: '1978-09-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 213/1978, Série I de 1978-09-15
+  number: '213'
+  series: I
+  supplement: null
+  pages: 1931 - 1933
+  pdf_url: https://files.diariodarepublica.pt/1s/1978/09/21300/19311933.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '329791'
+  dre_path: /dr/detalhe/despacho-normativo/229-1978-329791
+  internal: pt:dre:329791:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/229-1978-329791
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/229-1978-329791
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1978-09-15T00:00:00Z'
+integrity:
+  source_sha256: 806e8f91bd8b7f3bc21d7921f6cf8104ed73f01f61791907eb69c7f2a404f644
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1978/DRE-1978-229-329791.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 229/78
+
+De harmonia com o disposto nos n.os 17 e 28 da [Portaria n.º 555/78](https://diariodarepublica.pt/dr/detalhe/portaria/555-1978-329794), de 15 de Setembro, estabelecem-se as seguintes normas no domínio das comparticipações a conceder aos beneficiários da assistência sanitária instituída pelo [Decreto-Lei n.º 357/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/357-1977-286529), de 31 de Agosto:
+
+1 - Consultas e visitas domiciliárias, de clínica geral e de especialidade:
+
+1.1 - Consultas gratuitas:
+
+a) Quando realizadas nos órgãos dos serviços de saúde das corporações;
+
+b) Quando realizadas nos hospitais militares, civis e nos centros de saúde com os quais haja acordo;
+
+c) Mediante comparticipação do Estado a 100% nas localidades onde não existirem órgãos das corporações ou entidades com as quais se tenha estabelecido acordo.
+
+1.2 - Consultas em regime de livre escolha:
+
+Comparticipação do Estado de 75% sobre o preço da consulta até ao limite de 300$00.
+
+13 - Visitas domiciliárias gratuitas:
+
+a) Nas localidades onde o Serviço de Saúde da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública tenham montado o sistema de visitas domiciliárias;
+
+b) Mediante comparticipação do Estado a 100% nas restantes localidades.
+
+1.4 - Visitas domiciliárias em regime de livre escolha:
+
+Comparticipação do Estado de 75% sobre o preço de visita até aos limites de 300$00.
+
+1.5 - A faculdade de poder utilizar o regime de livre escolha será regulamentada pelo serviço de saúde de cada corporação com vista ao aproveitamento das estruturas existentes.
+
+2 - Meios auxiliares de diagnóstico:
+
+2.1 - Gratuitos:
+
+a) Quando obtidos nos órgãos da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública;
+
+b) Quando obtidos nos hospitais militares e civis e outras entidades com as quais haja acordo;
+
+c) No caso de os exames requisitados não poderem ser feitos nos estabelecimentos indicados nas alíneas a) e b) deste número, poderão os mesmos ser realizados por outros estabelecimentos particulares, correndo o encargo por conta do Estado.
+
+2.2 - Em regime de livre escolha:
+
+Comparticipação do Estado até aos valores fixados na tabela I.
+
+3 - Meios de terapêutica:
+
+3.1 - Gratuitos:
+
+a) Quando obtidos nos órgãos da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública;
+
+b) Quando obtidos nos hospitais militares e civis e outras entidades com as quais haja acordo.
+
+3.2 - Em regime de livre escolha:
+
+Comparticipação do Estado até aos valores fixados nas tabelas II e III.
+
+4 - Internamentos:
+
+4.1 - Para oficiais, comissários e chefes, sargentos e praças, graduados e guardas e civis:
+
+a) Gratuitos:
+
+Nos órgãos da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública;
+
+Nos hospitais militares e civis e outras entidades com as quais haja acordo;
+
+Em estabelecimentos no estrangeiro, em casos excepcionais de reconhecida impossibilidade ou dificuldade de tratamento no País, mediante prévia autorização do Ministro das Finanças e do Plano ou Ministro da Administração Interna, sob proposta dos respectivos comandantes-gerais;
+
+b) Em regime de livre escolha:
+
+Nos hospitais civis e outras entidades com as quais não haja acordo, até aos valores fixados na tabela III.
+
+4.2 - Para familiares:
+
+a) Gratuitos:
+
+Nos órgãos da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública;
+
+Nos hospitais militares, civis e outras entidades com as quais haja acordo.
+
+b) Mediante comparticipação:
+
+Nas casas de saúde militares e nos pavilhões da família militar - 80% das respectivas tabelas;
+
+Nos hospitais civis e estabelecimentos, oficiais ou particulares, em regime de livre escolha, até aos valores fixados na tabela III;
+
+Em estabelecimentos no estrangeiro, em casos excepcionais de reconhecida impossibilidade ou dificuldade de tratamento no País, mediante prévia autorização do Ministério das Finanças e do Plano ou Ministério da Administração Interna, sob proposta dos respectivos comandantes-gerais.
+
+5 - Instrumentos de prótese:
+
+5.1 - Próteses e tratamentos estomatológicos, prótese óptica, ortopédica e outras:
+
+a) Gratuitas:
+
+Quando obtidas nos órgãos da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública;
+
+Quando obtidas nos hospitais militares ou estabelecimentos civis com os quais haja acordo;
+
+b) Em regime de livre escolha:
+
+Comparticipação do Estado até aos valores fixados na tabela IV.
+
+5.2 - Armações para óculos e lentes de contacto:
+
+Comparticipação, em regime de livre escolha, até ao valor fixado na tabela IV.
+
+5.3 - Lentes para óculos:
+
+Gratuitas.
+
+6 - Assistência materno-infantil:
+
+6.1 - Assistência pré-natal: como em 1, 2, 3 e 4.
+
+6.2 - Assistência no parto e a prematuros: como em 4.
+
+6.3 - Vacinação e profilaxia:
+
+a) Gratuitas quando nos órgãos da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública e nos centros profilácticos;
+
+b) Mediante comparticipação, nos moldes fixados para assistência medicamentosa, quando em estabelecimentos alheios aos órgãos indicados na alínea anterior.
+
+6.4 - Alimentação artificial:
+
+a) Mediante comparticipação nas mesmas condições dos medicamentos, até à idade de oito meses, de acordo com a tabela V;
+
+b) Quando devidamente fundamentado pelo médico assistente, poderá este benefício ser excepcionalmente dilatado para além da idade indicada.
+
+7 - Enfermagem:
+
+7.1 - Gratuita:
+
+a) Nos órgãos da Guarda Nacional Republicana, Guarda Fiscal e Polícia de Segurança Pública;
+
+b) Nos hospitais militares e civis, centros de saúde e outras entidades com as quais haja acordo.
+
+7.2 - Em regime de livre escolha:
+
+Comparticipação do Estado até aos valores fixados na tabela VI.
+
+8 - Medicamentos:
+
+8.1 - Para oficiais, comissários, chefes, sargentos e praças, graduados e guardas e funcionários civis:
+
+Mediante comparticipação de 75% quando adquiridos em qualquer farmácia com acordo ou em farmácia da corporação.
+
+8.2 - Para familiares:
+
+Mediante comparticipação de 75%.
+
+Ministérios das Finanças e do Plano e da Administração Interna, 29 de Agosto de 1978. - O Ministro das Finanças e do Plano, Vítor Manuel Ribeiro Constâncio. - O Ministro da Administração Interna, Jaime José Matos da Gama.

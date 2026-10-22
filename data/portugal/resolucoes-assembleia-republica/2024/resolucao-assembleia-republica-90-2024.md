@@ -1,0 +1,121 @@
+---
+schema_version: '1.0'
+id: pt:dre:892125864:por
+title: Resolução da Assembleia da República n.º 90/2024
+short_title: null
+summary: Apreciação do Relatório do Governo sobre «Portugal na União Europeia, 2023».
+jurisdiction: portugal
+territory: null
+document_type: resolucao-assembleia-republica
+document_type_label: Resolução da Assembleia da República
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 90/2024
+official_date: null
+publication_date: '2024-10-22'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 205/2024, Série I de 2024-10-22
+  number: '205'
+  series: I
+  supplement: null
+  pages: 2 - 2
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/10/20500/0000200002.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolassrep/90/2024/10/22/p/dre/pt/html
+  oj: null
+  dre: '892125864'
+  dre_path: /dr/detalhe/resolucao-assembleia-republica/90-2024-892125864
+  internal: pt:dre:892125864:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2024-892125864
+  metadata_url: https://data.dre.pt/eli/resolassrep/90/2024/10/22/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-republica/90-2024-892125864
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2024-10-22T00:00:00Z'
+integrity:
+  source_sha256: 6a35d5b8efc2695b5877ad6326f0ad293e249c3168c142b38cf28a7253e4f983
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-90-892125864.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- União Europeia
+- Assembleia da República
+- Política Comunitária
+- Política Governamental
+- Relatório
+- Governo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/21/2012/05/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/21/2012/05/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/43/2006/08/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/43/2006/08/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/44/2023/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/44/2023/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/64/2020/11/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/64/2020/11/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2018/03/02/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia da República n.º 90/2024
+
+Apreciação do Relatório do Governo sobre "Portugal na União Europeia, 2023"
+
+A Assembleia da República resolve, nos termos do n.º 5 do artigo 166.º da Constituição, no âmbito da apreciação da participação de Portugal no processo de construção da União Europeia, durante o ano de 2023, o seguinte:
+
+1 - Exprimir um juízo favorável sobre o conteúdo geral do Relatório do Governo, nos termos do n.º 4 do artigo 5.º da [Lei n.º 43/2006](https://diariodarepublica.pt/dr/detalhe/lei/43-2006-540659), de 25 de agosto, "Acompanhamento, apreciação e pronúncia pela Assembleia da República no âmbito do processo de construção da União Europeia", com as alterações introduzidas pelas Leis n.<sup>os</sup>[21/2012](https://diariodarepublica.pt/dr/detalhe/lei/21-2012-551986), de 17 de maio, [8/2018](https://diariodarepublica.pt/dr/detalhe/lei/8-2018-114796179), de 2 de maio, [64/2020](https://diariodarepublica.pt/dr/detalhe/lei/64-2020-147096350), de 2 de novembro, e [44/2023](https://diariodarepublica.pt/dr/detalhe/lei/44-2023-219915286), de 14 de agosto, no âmbito do processo de consulta e troca de informações entre o Governo e a Assembleia da República.
+
+2 - Sublinhar que a apreciação deste Relatório traduz o empenho e o consenso existentes entre as principais forças políticas representadas na Assembleia da República, quanto à integração e à participação de Portugal na União Europeia, sem prejuízo das divergências quanto às prioridades e orientações seguidas neste processo.
+
+Aprovada em 4 de outubro de 2024.
+
+**O Presidente da Assembleia da República, José Pedro Aguiar Branco.**

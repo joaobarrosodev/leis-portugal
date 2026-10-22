@@ -1,0 +1,806 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:626806:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1993-122151049",
+ "dre_path": "/dr/detalhe/lei/5-1993-626806",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-03-01",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "122156055",
+    "122156056",
+    "122156057",
+    "122156058",
+    "122156059",
+    "122156060",
+    "122156061",
+    "122156062",
+    "122156063",
+    "122156064",
+    "122156065",
+    "122156066",
+    "122156067",
+    "122156068",
+    "122156069",
+    "122156070",
+    "122156071",
+    "122156072",
+    "122156073",
+    "122156074",
+    "122159375",
+    "122159376",
+    "122159377"
+   ]
+  },
+  {
+   "date": "1997-12-15",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:404748:por",
+     "title": "Lei n.º 126/97",
+     "published": "1997-12-10",
+     "dre_path": "/dr/detalhe/lei/126-1997-404748"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º"
+   ],
+   "fragments": [
+    "122156055",
+    "122156056",
+    "122156057",
+    "122156058",
+    "122156059",
+    "122159441",
+    "122156061",
+    "122156062",
+    "122156063",
+    "122156064",
+    "122156065",
+    "122159442",
+    "122156067",
+    "122159443",
+    "122156069",
+    "122159444",
+    "122156071",
+    "122156072",
+    "122156073",
+    "122156074",
+    "122159375",
+    "122159376",
+    "122159377",
+    "122159378"
+   ]
+  },
+  {
+   "date": "2007-04-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:520192:por",
+     "title": "Lei n.º 15/2007",
+     "published": "2007-04-03",
+     "dre_path": "/dr/detalhe/lei/15-2007-520192"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º",
+    "Altera Artigo 21.º"
+   ],
+   "fragments": [
+    "122156055",
+    "122159458",
+    "122159445",
+    "122159459",
+    "122159446",
+    "122159460",
+    "122159447",
+    "122159461",
+    "122159448",
+    "122159462",
+    "122159449",
+    "122159450",
+    "122159451",
+    "122159452",
+    "122159463",
+    "122159453",
+    "122159454",
+    "122159464",
+    "122159465",
+    "122159455",
+    "122159456",
+    "122159457",
+    "122159466",
+    "122159378"
+   ]
+  },
+  {
+   "date": "2024-06-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:868097434:por",
+     "title": "Lei n.º 30/2024",
+     "published": "2024-06-06",
+     "dre_path": "/dr/detalhe/lei/30-2024-868097434"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "122156055",
+    "122159458",
+    "122159445",
+    "122159459",
+    "122159467",
+    "122159460",
+    "868026399",
+    "122159461",
+    "122159469",
+    "122159462",
+    "122159470",
+    "122159471",
+    "122159451",
+    "122159472",
+    "122159677",
+    "122159688",
+    "122159689",
+    "122159690",
+    "122159691",
+    "122159692",
+    "122159693",
+    "122159694",
+    "122159695",
+    "122159696",
+    "122159697",
+    "122159698"
+   ]
+  }
+ ],
+ "fragments": {
+  "122156055": {
+   "fragment_id": "122151050",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Lei n.º 5/93\n\nde 1 de Março\n\nRegime Jurídico dos Inquéritos Parlamentares\n\nA Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:\n\n> Nota: [Artigo 5.º, Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045) A presente lei entra em vigor no primeiro dia da próxima legislatura."
+  },
+  "122156056": {
+   "fragment_id": "122151051",
+   "type": 11,
+   "heading": "Artigo 1.º — Funções e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Funções e objecto\n\n1 - Os inquéritos parlamentares têm por função vigiar pelo cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração.\n\n2 - Os inquéritos parlamentares podem ter por objecto qualquer matéria de interesse público relevante para o exercício das atribuições da Assembleia da República.\n\n3 - Os inquéritos parlamentares serão realizados através de comissões eventuais da Assembleia especialmente constituídas para cada caso, nos termos do Regimento."
+  },
+  "122156057": {
+   "fragment_id": "122151052",
+   "type": 11,
+   "heading": "Artigo 2.º — Iniciativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Iniciativa\n\n1 - Os inquéritos parlamentares são efectuados:\n\na) Mediante deliberação expressa do Plenário tomada até ao 15.º dia posterior à publicação do respectivo projecto ou proposta de resolução no Diário da Assembleia da República ou à sua distribuição em folhas avulsas;\n\nb) A requerimento de um quinto dos Deputados em efectividade de funções até ao limite de um por Deputado e por sessão legislativa.\n\n2 - A iniciativa dos inquéritos previstos na alínea a) do n.º 1 compete:\n\na) Aos grupos parlamentares e Deputados de partidos não constituídos em grupo parlamentar;\n\nb) Às comissões;\n\nc) A um décimo do número de Deputados, pelo menos;\n\nd) Ao Governo, através do Primeiro-Ministro."
+  },
+  "122156058": {
+   "fragment_id": "122151053",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos formais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos formais\n\n1 - Os projectos ou propostas de resolução tendentes à realização de um inquérito indicarão o seu objecto e os seus fundamentos, sob pena de rejeição liminar pelo Presidente.\n\n2 - Da não admissão de um projecto ou proposta de resolução apresentado nos termos da presente lei cabe sempre recurso para o Plenário, nos termos do Regimento."
+  },
+  "122156059": {
+   "fragment_id": "122151054",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição obrigatória da comissão de inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Constituição obrigatória da comissão de inquérito\n\n1 - As comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º são obrigatoriamente constituídas.\n\n2 - O referido requerimento, dirigido ao Presidente da Assembleia da República, deve indicar o seu objecto e fundamentos.\n\n3 - O Presidente verificará a existência formal das condições previstas no número anterior e o número e identidade dos Deputados subscritores, notificando de imediato o primeiro subscritor para suprir a falta ou faltas correspondentes, caso se verifique alguma omissão ou erro no cumprimento daquelas formalidades.\n\n4 - Recebido o requerimento ou verificado o suprimento referido no número anterior, o Presidente toma as providências necessárias para definir a composição da comissão de inquérito até ao 8.º dia posterior à publicação do requerimento no Diário da Assembleia da República.\n\n5 - Dentro do prazo referido no número anterior, o Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares, agendará um debate sobre a matéria do inquérito, desde que solicitado pelos requerentes da constituição da comissão ou por um grupo parlamentar."
+  },
+  "122156060": {
+   "fragment_id": "122151055",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação ao Procurador-Geral da República",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Informação ao Procurador-Geral da República\n\n1 - O Presidente da Assembleia da República comunicará ao Procurador-Geral da República o conteúdo da resolução ou a parte dispositiva do requerimento que determine a realização de um inquérito.\n\n2 - O Procurador-Geral da República informará a Assembleia da República se sobre o mesmo objecto se encontra em curso algum processo criminal com despacho de pronúncia transitado em julgado, suspendendo-se neste caso o processo de inquérito parlamentar até ao trânsito em julgado da correspondente sentença judicial."
+  },
+  "122156061": {
+   "fragment_id": "122151056",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento da comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Funcionamento da comissão\n\n1 - Compete ao Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares, fixar o número de membros da comissão, dar-lhes posse, determinar o prazo da realização do inquérito previsto na alínea b) do artigo 2.º e do previsto na alínea a) da mesma disposição, quando a respectiva resolução o não tenha feito, e autorizar a sua prorrogação até ao limite máximo de tempo referido no artigo 11.º\n\n2 - Os membros da comissão tomam posse perante o Presidente da Assembleia da República até ao 15.º dia posterior à publicação no Diário da Assembleia da República da resolução ou do requerimento que determine a realização do inquérito.\n\n3 - A comissão inicia os seus trabalhos imediatamente após a posse conferida pelo Presidente da Assembleia da República, logo que preenchida uma das seguintes condições:\n\na) Estar indicada mais de metade dos membros da comissão, representando no mínimo dois grupos parlamentares, um dos quais deve ser obrigatoriamente de partido sem representação no Governo;\n\nb) Não estar indicada a maioria do número de Deputados da comissão, desde que apenas falte a indicação dos Deputados pertencentes a um grupo parlamentar."
+  },
+  "122156062": {
+   "fragment_id": "122151057",
+   "type": 11,
+   "heading": "Artigo 7.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Publicação\n\nA resolução e a parte dispositiva do requerimento previsto na alínea b) do n.º 1 do artigo 2.º que determinarem a realização de um inquérito serão publicadas no Diário da República."
+  },
+  "122156063": {
+   "fragment_id": "122151058",
+   "type": 11,
+   "heading": "Artigo 8.º — Repetição de objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Repetição de objecto\n\nDurante o período de cada sessão legislativa não é permitida a constituição de novas comissões de inquérito que tenham o mesmo objecto que dera lugar à constituição de outra comissão que está em exercício de funções ou que as tenha terminado no período referido, salvo se surgirem factos novos."
+  },
+  "122156064": {
+   "fragment_id": "122151059",
+   "type": 11,
+   "heading": "Artigo 9.º — Reuniões das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões das comissões\n\n1 - As reuniões das comissões podem ter lugar em qualquer dia da semana e durante as férias, sem dependência de autorização prévia do Plenário.\n\n2 - O presidente da comissão dará conhecimento prévio ao Presidente da Assembleia, em tempo útil, para que tome as providência necessárias à realização das reuniões previstas no número anterior."
+  },
+  "122156065": {
+   "fragment_id": "122151060",
+   "type": 11,
+   "heading": "Artigo 10.º — Constituição do grupo de trabalho e designação de relatores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Constituição do grupo de trabalho e designação de relatores\n\n1 - A comissão pode orientar-se por um questionário indicativo formulado inicialmente.\n\n2 - As comissões de inquérito devem designar relator ou relatores numa das cinco primeiras reuniões e podem deliberar sobre criação de um grupo de trabalho constituído por quatro Deputados representantes dos quatro maiores grupos parlamentares.\n\n3 - O relator será um dos referidos representantes.\n\n4 - O grupo de trabalho será presidido pelo presidente da comissão ou por quem este designar.\n\n5 - O trabalho produzido pelo referido grupo é instrumental e acessório da comissão."
+  },
+  "122156066": {
+   "fragment_id": "122151061",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração do inquérito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Duração do inquérito\n\n1 - O tempo máximo para a realização de um inquérito é de 180 dias, findo o qual a comissão se extingue, sem prejuízo do disposto no número seguinte.\n\n2 - A requerimento fundamentado da comissão, o Plenário pode conceder ainda um prazo adicional de 30 dias, apenas para efeito da elaboração, discussão e votação do relatório final e, eventualmente, de projecto de resolução.\n\n3 - Quando a comissão não tiver aprovado um relatório conclusivo das investigações efectuadas, o presidente da comissão enviará ao Presidente da Assembleia da República uma informação relatando as diligências realizadas e as razões da inconclusividade dos trabalhos."
+  },
+  "122156067": {
+   "fragment_id": "122151062",
+   "type": 11,
+   "heading": "Artigo 12.º — Dos Deputados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Dos Deputados\n\n1 - Os Deputados membros da comissão de inquérito só podem ser substituídos em virtude de perda ou suspensão do mandato ou em caso de escusa justificada.\n\n2 - As faltas dos membros da comissão às reuniões são comunicadas ao Presidente da Assembleia da República, com a informação de terem sido ou não justificadas.\n\n3 - O Presidente da Assembleia anunciará no Plenário seguinte as faltas injustificadas.\n\n4 - O Deputado que violar o dever de sigilo em relação aos trabalhos da comissão de inquérito ou faltar sem justificação a mais de quatro reuniões perde a qualidade de membro da comissão.\n\n5 - No caso de haver violação de sigilo, a comissão de inquérito deve promover uma investigação sumária e deliberar, por maioria qualificada de dois terços, sobre a sua verificação e a identidade do seu autor.\n\n6 - O Presidente da Assembleia da República deverá ser informado do conteúdo da deliberação prevista no número anterior, quando dela resulte o reconhecimento da existência da respectiva violação e a identidade do seu autor, para declarar a perda, por parte deste, da qualidade de membro da respectiva comissão e dar conta desta sua decisão ao Plenário."
+  },
+  "122156068": {
+   "fragment_id": "122151063",
+   "type": 11,
+   "heading": "Artigo 13.º — Poderes das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Poderes das comissões\n\n1 - As comissões parlamentares de inquérito gozam de todos os poderes de investigação das autoridades judiciárias.\n\n2 - As comissões têm direito à coadjuvação dos órgãos de polícia criminal e de autoridades administrativas nos mesmos termos que os tribunais.\n\n3 - A comissão de inquérito ou a sua mesa, quando aquela não esteja reunida, pode, a requerimento fundamentado dos seus membros, solicitar por escrito aos órgãos do Governo e da Administração ou a entidades privadas as informações e documentos que julguem úteis à realização do inquérito.\n\n4 - A prestação das informações e dos documentos referidos no número anterior tem prioridade sobre quaisquer outros serviços e deverá ser satisfeita no prazo de 10 dias, sob pena das sanções previstas no artigo 19.º, salvo justificação ponderosa dos requeridos que aconselhe a comissão a prorrogar aquele prazo ou a cancelar a diligência.\n\n5 - O pedido referido no n.º 3 deverá indicar esta lei e transcrever o n.º 4 deste artigo e o n.º 1 do artigo 19.º\n\n6 - No decorrer do inquérito só será admitida a recusa de fornecimento de documentos ou da prestação de depoimentos com o fundamento em segredo de Estado ou em segredo de justiça, nos termos da legislação respectiva."
+  },
+  "122156069": {
+   "fragment_id": "122151064",
+   "type": 11,
+   "heading": "Artigo 14.º — Local de funcionamento e modo de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Local de funcionamento e modo de actuação\n\n1 - As comissões parlamentares de inquérito funcionam na sede da Assembleia da República, podendo, contudo, funcionar ou efectuar diligências, sempre que necessário, em qualquer ponto do território nacional.\n\n2 - As reuniões, diligências e inquirições realizadas serão sempre gravadas, salvo se, por motivo fundado, a comissão deliberar noutro sentido.\n\n3 - Quando não se verifique a gravação prevista no número anterior, as diligências realizadas e os depoimentos ou declarações obtidos constarão de acta especialmente elaborada para traduzir, pormenorizadamente, aquelas diligências e ser-lhe-ão anexos os depoimentos e declarações referidos, depois de assinados pelos seus autores."
+  },
+  "122156070": {
+   "fragment_id": "122151065",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade dos trabalhos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Publicidade dos trabalhos\n\n1 - As reuniões e diligências efectuadas pelas comissões de inquérito são públicas nos casos previstos no n.º 2 e quando a comissão assim o deliberar.\n\n2 - São públicas:\n\na) As reuniões iniciais de tomada de posse, eleição da mesa, aprovação do regulamento e definição de objectivos, designadamente através da elaboração do questionário;\n\nb) A reunião final de votação e declarações de voto em relação ao relatório e, eventualmente, ao projecto de resolução;\n\nc) As reuniões relativamente às quais os depoentes manifestem interesse na sua publicidade, desde que a comissão reconheça que aquela não prejudicará os objectivos do inquérito e a eficácia dos seus trabalhos.\n\n3 - Só o presidente da comissão, ouvida esta, pode prestar declarações públicas relativas à matéria reservada do inquérito.\n\n4 - As actas das comissões, assim como todos os documentos na sua posse, podem ser consultados após a aprovação do relatório final, nas seguintes condições:\n\na) Não revelem matéria sujeita a segredo de Estado, a segredo de justiça ou sujeita a sigilo por razões da reserva de intimidade das pessoas;\n\nb) Não ponham em perigo o segredo das fontes de informação constantes do inquérito, a menos que haja autorização dos interessados.\n\n5 - A transcrição dos depoimentos prestados perante as comissões de inquérito só pode ser consultada ou publicada com autorização dos seus autores e do Plenário."
+  },
+  "122156071": {
+   "fragment_id": "122151066",
+   "type": 11,
+   "heading": "Artigo 16.º — Convocação de pessoas e contratação de peritos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Convocação de pessoas e contratação de peritos\n\n1 - As comissões parlamentares de inquérito podem convocar qualquer cidadão para depor sobre factos relativos ao inquérito.\n\n2 - As convocações serão assinadas pelo presidente da comissão ou, a solicitação deste, pelo Presidente da Assembleia da República e deverão conter as indicações seguintes:\n\na) O objecto do inquérito;\n\nb) O local, o dia e a hora do depoimento;\n\nc) As sanções previstas no artigo 19.º da presente lei.\n\n3 - A convocação será feita para qualquer ponto do território, sob qualquer das formas previstas no Código de Processo Penal, devendo, no caso de funcionários e agentes do Estado ou de outras entidades públicas, ser efectuada através do respectivo superior hierárquico.\n\n4 - As comissões podem requisitar e contratar especialistas para as coadjuvar nos seus trabalhos mediante autorização prévia do Presidente da Assembleia da República."
+  },
+  "122156072": {
+   "fragment_id": "122151067",
+   "type": 11,
+   "heading": "Artigo 17.º — Depoimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Depoimentos\n\n1 - A falta de comparência ou a recusa de depoimento perante a comissão parlamentar de inquérito só se terão por justificadas nos termos gerais da lei processual penal.\n\n2 - A obrigação de comparecer perante a comissão tem precedência sobre qualquer acto ou diligência oficial.\n\n3 - Não é admitida, em caso algum, a recusa de comparência de funcionários, de agentes do Estado e de outras entidades públicas, podendo, contudo, estes requerer a alteração da data da convocação, por imperiosa necessidade de serviço, contanto que assim não fique frustrada a realização do inquérito.\n\n4 - A forma dos depoimentos rege-se pelas normas aplicáveis do Código de Processo Penal sobre prova testemunhal."
+  },
+  "122156073": {
+   "fragment_id": "122151068",
+   "type": 11,
+   "heading": "Artigo 18.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encargos\n\n1 - Ninguém pode ser prejudicado no seu trabalho ou emprego por virtude da obrigação de depor perante a comissão parlamentar de inquérito, considerando-se justificadas todas as faltas de comparência resultantes do respectivo cumprimento.\n\n2 - As despesas de deslocação, bem como a eventual indemnização que, a pedido do convocado, for fixada pelo presidente da comissão, serão pagas por conta do orçamento da Assembleia da República."
+  },
+  "122156074": {
+   "fragment_id": "122151069",
+   "type": 11,
+   "heading": "Artigo 19.º — Sanções criminais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Sanções criminais\n\n1 - Fora dos casos previstos no artigo 17.º, a falta de comparência, a recusa de depoimento ou o não cumprimento de ordens legítimas de uma comissão parlamentar de inquérito no exercício das suas funções constituem crime de desobediência qualificada, para os efeitos previstos no Código Penal.\n\n2 - Verificado qualquer dos factos previstos no número anterior, o presidente da comissão, ouvida esta, comunicá-lo-á ao Presidente da Assembleia, com os elementos indispensáveis à instrução do processo, para efeito de participação à Procuradoria-Geral da República."
+  },
+  "122159375": {
+   "fragment_id": "122151070",
+   "type": 11,
+   "heading": "Artigo 20.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Relatório\n\n1 - O relatório final referirá, obrigatoriamente:\n\na) O questionário, se o houver;\n\nb) As diligências efectuadas pela comissão;\n\nc) As conclusões do inquérito e os respectivos fundamentos;\n\nd) O sentido de voto de cada membro da comissão, assim como as declarações de voto escritas.\n\n2 - A comissão poderá propor ao Plenário ou à Comissão Permanente a elaboração de relatórios separados, se entender que o objecto do inquérito é susceptível de investigação parcelar, devendo os respectivos relatórios ser tidos em consideração no relatório final.\n\n3 - O relatório será publicado no Diário da Assembleia da República."
+  },
+  "122159376": {
+   "fragment_id": "122151071",
+   "type": 11,
+   "heading": "Artigo 21.º — Debate e resolução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Debate e resolução\n\n1 - Até 30 dias após a publicação do relatório o Presidente da Assembleia da República inclui a sua apreciação na ordem do dia.\n\n2 - Juntamente com o relatório, a comissão parlamentar de inquérito pode apresentar um projecto de resolução.\n\n3 - Apresentado ao Plenário o relatório, será aberto um debate.\n\n4 - O debate é introduzido por uma breve exposição do presidente da comissão e do relator ou relatores designados e será regulado nos termos do Regimento.\n\n5 - O Plenário pode deliberar sobre a publicação integral ou parcial das actas da comissão.\n\n6 - Juntamente com o relatório, o Plenário aprecia os projectos de resolução que lhe sejam apresentados.\n\n7 - O relatório não será objecto de votação no Plenário."
+  },
+  "122159377": {
+   "fragment_id": "122151072",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a Lei n.º 43/77, de 18 de Junho."
+  },
+  "122159441": {
+   "fragment_id": "122151055",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação ao Procurador-Geral da República",
+   "in_force_from": "1997-12-15",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 5.º — Informação ao Procurador-Geral da República\n\n1 - O Presidente da Assembleia da República comunicará ao Procurador-Geral da República o conteúdo da resolução ou a parte dispositiva do requerimento que determine a realização de um inquérito.\n\n2 - O Procurador-Geral da República informará a Assembleia da República se com base nos mesmos factos se encontra em curso algum processo criminal e em que fase.\n\n3 - Caso exista processo criminal em curso, caberá à Assembleia deliberar sobre a eventual suspensão do processo de inquérito parlamentar até ao trânsito em julgado da correspondente sentença judicial.\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159442": {
+   "fragment_id": "122151061",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração do inquérito",
+   "in_force_from": "1997-12-15",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 11.º — Duração do inquérito\n\n1 - O tempo máximo para a realização de um inquérito é de 180 dias, findo o qual a comissão se extingue, sem prejuízo do disposto no número seguinte.\n\n2 - A requerimento fundamentado da comissão, o Plenário pode conceder ainda um prazo adicional de 90 dias.\n\n3 - Quando a comissão não tiver aprovado um relatório conclusivo das investigações efectuadas, o presidente da comissão enviará ao Presidente da Assembleia da República uma informação relatando as diligências realizadas e as razões da inconclusividade dos trabalhos.\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159443": {
+   "fragment_id": "122151063",
+   "type": 11,
+   "heading": "Artigo 13.º — Poderes das comissões",
+   "in_force_from": "1997-12-15",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 13.º — Poderes das comissões\n\n1 - As comissões parlamentares de inquérito gozam de todos os poderes de investigação das autoridades judiciais.\n\n2 - As comissões têm direito à coadjuvação das autoridades judiciárias, dos órgãos da polícia criminal e das autoridades administrativas, nos mesmos termos que os tribunais.\n\n3 - As comissões podem, a requerimento fundamentado dos seus membros, solicitar por escrito ao Governo, às autoridades judiciárias, aos órgãos da Administração ou a entidades privadas as informações e documentos que julguem úteis à realização do inquérito.\n\n4 - A prestação das informações e dos documentos referidos no número anterior tem prioridade sobre quaisquer outros serviços e deverá ser satisfeita no prazo de 10 dias, sob pena das sanções previstas no artigo 19.º, salvo justificação ponderosa dos requeridos que aconselhe a comissão a prorrogar aquele prazo ou a cancelar a diligência.\n\n5 - O pedido referido no n.º 3 deverá indicar esta lei e transcrever o n.º 4 deste artigo e o n.º 1 do artigo 19.º\n\n6 - No decorrer do inquérito, a recusa de apresentação de documentos ou de prestação de depoimento só se terá por justificada nos termos da lei processual penal.\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159444": {
+   "fragment_id": "122151065",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade dos trabalhos",
+   "in_force_from": "1997-12-15",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 15.º — Publicidade dos trabalhos\n\n1 - As reuniões e diligências efectuadas pelas comissões parlamentares de inquérito são em regra públicas, salvo se a comissão assim o não entender, em deliberação devidamente fundamentada.\n\n2 - As actas das comissões, assim como todos os documentos na sua posse, podem ser consultados após a aprovação do relatório final, nas seguintes condições:\n\na) Não revelem matéria sujeita a segredo de Estado, a segredo de justiça ou a sigilo por razões da reserva de intimidade das pessoas;\n\nb) Não ponham em perigo o segredo das fontes de informação constantes do inquérito, a menos que haja autorização dos interessados.\n\n3 - A transcrição dos depoimentos prestados perante as comissões de inquérito só pode ser consultada ou publicada com autorização dos seus autores e do Plenário.\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159378": {
+   "fragment_id": "122151073",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 5 de Janeiro de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em Setúbal em 5 de Fevereiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 13 de Fevereiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  },
+  "122159458": {
+   "fragment_id": "122151051",
+   "type": 11,
+   "heading": "Artigo 1.º — Funções e objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Funções e objecto\n\n1 - Os inquéritos parlamentares têm por função vigiar pelo cumprimento da Constituição e das leis e apreciar os actos do Governo e da Administração.\n\n2 - Os inquéritos parlamentares podem ter por objecto qualquer matéria de interesse público relevante para o exercício das atribuições da Assembleia da República.\n\n3 - Os inquéritos parlamentares são realizados através de comissões eventuais da Assembleia especialmente constituídas para cada caso, nos termos do Regimento."
+  },
+  "122159445": {
+   "fragment_id": "122151052",
+   "type": 11,
+   "heading": "Artigo 2.º — Iniciativa",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 2.º — Iniciativa\n\n1 - Os inquéritos parlamentares são efectuados:\n\na) Mediante deliberação expressa do Plenário tomada até ao 15.º dia posterior à publicação do respectivo projecto no Diário da Assembleia da República ou à sua distribuição em folhas avulsas;\n\nb) A requerimento de um quinto dos deputados em efectividade de funções até ao limite de um por deputado e por sessão legislativa.\n\n2 - A iniciativa dos inquéritos previstos na alínea a) do n.º 1 compete:\n\na) Aos grupos parlamentares e deputados de partidos não constituídos em grupo parlamentar;\n\nb) Às comissões;\n\nc) Aos deputados.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159459": {
+   "fragment_id": "122151053",
+   "type": 11,
+   "heading": "Artigo 3.º — Requisitos formais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos formais\n\n1 - Os projectos tendentes à realização de um inquérito indicam o seu objecto e os seus fundamentos, sob pena de rejeição liminar pelo Presidente.\n\n2 - Da não admissão de um projecto apresentado nos termos da presente lei cabe sempre recurso para o Plenário, nos termos do Regimento."
+  },
+  "122159446": {
+   "fragment_id": "122151054",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição obrigatória da comissão de inquérito",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 4.º — Constituição obrigatória da comissão de inquérito\n\n1 - As comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º são obrigatoriamente constituídas.\n\n2 - O referido requerimento, dirigido ao Presidente da Assembleia da República, deve indicar o seu objecto e fundamentos.\n\n3 - O Presidente verifica a existência formal das condições previstas no número anterior e o número e identidade dos deputados subscritores, notificando de imediato o primeiro subscritor para suprir a falta ou faltas correspondentes, caso se verifique alguma omissão ou erro no cumprimento destas formalidades ou caso a indicação do objecto e fundamentos do requerimento infrinja a Constituição ou os princípios nela consignados.\n\n4 - Recebido o requerimento ou verificado o suprimento referido no número anterior, o Presidente toma as providências necessárias para definir a composição da comissão de inquérito até ao 8.º dia posterior à publicação do requerimento no Diário da Assembleia da República.\n\n5 - Dentro do prazo referido no número anterior, o Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares, agenda um debate sobre a matéria do inquérito, desde que solicitado pelos requerentes da constituição da comissão ou por um grupo parlamentar.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159460": {
+   "fragment_id": "122151055",
+   "type": 11,
+   "heading": "Artigo 5.º — Informação ao Procurador-Geral da República",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 5.º — Informação ao Procurador-Geral da República\n\n1 - O Presidente da Assembleia da República comunica ao Procurador-Geral da República o conteúdo da resolução ou a parte dispositiva do requerimento que determine a realização de um inquérito.\n\n2 - O Procurador-Geral da República informa a Assembleia da República se com base nos mesmos factos se encontra em curso algum processo criminal e em que fase.\n\n3 - Caso exista processo criminal em curso, cabe à Assembleia deliberar sobre a eventual suspensão do processo de inquérito parlamentar até ao trânsito em julgado da correspondente sentença judicial.\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159447": {
+   "fragment_id": "122151056",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento da comissão",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 6.º — Funcionamento da comissão\n\n1 - Compete ao Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares, fixar o número de membros da comissão, observado o limite previsto no número seguinte, dar-lhes posse e determinar o prazo da realização do inquérito previsto na alínea b) do n.º 1 do artigo 2.º e do previsto na alínea a) da mesma disposição, quando a respectiva resolução o não tenha feito.\n\n2 - A fixação do número de membros da comissão deve observar o limite máximo de 17 deputados, com respeito pelo princípio da representatividade previsto no n.º 1 do artigo 31.º do Regimento.\n\n3 - Os membros da comissão podem ser substituídos por deputados suplentes, cuja fixação deve observar o limite máximo de dois suplentes para cada um dos dois grupos parlamentares com maior representatividade e de um suplente para cada um dos restantes grupos parlamentares.\n\n4 - A substituição prevista no número anterior vigora pelo período correspondente a cada reunião em que ocorrer, nela participando os membros suplentes como membros de pleno direito e podendo assistir às restantes reuniões sem direito ao uso da palavra e sem direito de voto.\n\n5 - Os membros da comissão tomam posse perante o Presidente da Assembleia da República até ao 15.º dia posterior à publicação no Diário da Assembleia da República da resolução ou do requerimento que determine a realização do inquérito.\n\n6 - É condição para a tomada de posse de membro da comissão, incluindo membros suplentes, a declaração formal de inexistência de conflito de interesses em relação ao objecto do inquérito.\n\n7 - A comissão inicia os seus trabalhos imediatamente após a posse conferida pelo Presidente da Assembleia da República, logo que preenchida uma das seguintes condições:\n\na) Estar indicada mais de metade dos membros da comissão, representando no mínimo dois grupos parlamentares, um dos quais deve ser obrigatoriamente de partido sem representação no Governo;\n\nb) Não estar indicada a maioria do número de deputados da comissão, desde que apenas falte a indicação dos deputados pertencentes a um grupo parlamentar.\n\n8 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o presidente da comissão é obrigatoriamente designado de entre os representantes na comissão dos grupos parlamentares a que pertencem os requerentes do inquérito, se tal designação não resultar já da repartição prevista no n.º 6 do artigo 178.º da Constituição.\n\n9 - Cabendo a presidência, nos termos do n.º 6 do artigo 178.º da Constituição, a grupo parlamentar não requerente do inquérito, a presidência de comissão parlamentar a constituir subsequentemente na legislatura em curso é atribuída a este, desde que não se trate de comissão de inquérito requerida ao abrigo da alínea b) do n.º 1 do artigo 2.º\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159461": {
+   "fragment_id": "122151057",
+   "type": 11,
+   "heading": "Artigo 7.º — Publicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Publicação\n\nA resolução e a parte dispositiva do requerimento previsto na alínea b) do n.º 1 do artigo 2.º que determinarem a realização de um inquérito são publicadas no Diário da República."
+  },
+  "122159448": {
+   "fragment_id": "122151058",
+   "type": 11,
+   "heading": "Artigo 8.º — Do objecto das comissões de inquérito",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 8.º — Do objecto das comissões de inquérito\n\n1 - Os inquéritos parlamentares apenas podem ter por objecto actos do Governo ou da Administração ocorridos em legislaturas anteriores à que estiver em curso quando se reportarem a matérias ainda em apreciação, factos novos ou factos de conhecimento superveniente.\n\n2 - Durante o período de cada sessão legislativa não é permitida a constituição de novas comissões de inquérito que tenham o mesmo objecto que dera lugar à constituição de outra comissão que está em exercício de funções ou que as tenha terminado no período referido, salvo se surgirem factos novos.\n\n3 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o objecto definido pelos requerentes não é susceptível de alteração por deliberação da comissão.\n\n4 - A comissão pode orientar-se por um questionário indicativo formulado inicialmente.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159462": {
+   "fragment_id": "122151059",
+   "type": 11,
+   "heading": "Artigo 9.º — Reuniões das comissões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reuniões das comissões\n\n1 - As reuniões das comissões podem ter lugar em qualquer dia da semana e durante as férias, sem dependência de autorização prévia do Plenário.\n\n2 - O presidente da comissão dá conhecimento prévio ao Presidente da Assembleia, em tempo útil, para que tome as providências necessárias à realização das reuniões previstas no número anterior."
+  },
+  "122159449": {
+   "fragment_id": "122151060",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação de relator e constituição de grupo de trabalho",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 10.º — Designação de relator e constituição de grupo de trabalho\n\n1 - As comissões de inquérito devem designar relator numa das cinco primeiras reuniões e podem deliberar sobre a criação de um grupo de trabalho constituído por deputados representantes de todos os grupos parlamentares.\n\n2 - O relator é um dos referidos representantes.\n\n3 - O grupo de trabalho é presidido pelo presidente da comissão ou por quem este designar.\n\n4 - O trabalho produzido pelo referido grupo é instrumental e acessório do trabalho da comissão.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159450": {
+   "fragment_id": "122151061",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração do inquérito",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 11.º — Duração do inquérito\n\n1 - O tempo máximo para a realização de um inquérito é de 180 dias, findo o qual a comissão se extingue, sem prejuízo do disposto nos números seguintes.\n\n2 - A requerimento fundamentado da comissão, o Plenário pode conceder ainda um prazo adicional de 90 dias.\n\n3 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o prazo adicional referido no número anterior é de concessão obrigatória, desde que requerido pelos deputados dos grupos parlamentares a que pertencem os requerentes da constituição da comissão.\n\n4 - Quando a comissão não tiver aprovado um relatório conclusivo das investigações efectuadas, o presidente da comissão envia ao Presidente da Assembleia da República uma informação relatando as diligências realizadas e as razões da inconclusividade dos trabalhos.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159451": {
+   "fragment_id": "122151062",
+   "type": 11,
+   "heading": "Artigo 12.º — Dos deputados",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 12.º — Dos deputados\n\n1 - Os deputados membros da comissão de inquérito só podem ser substituídos em virtude de perda ou suspensão do mandato ou em caso de escusa justificada, sem prejuízo do disposto no n.º 3 do artigo 6.º\n\n2 - As faltas dos membros da comissão às reuniões são comunicadas ao Presidente da Assembleia da República, com a informação de terem sido ou não justificadas.\n\n3 - O Presidente da Assembleia anuncia no Plenário seguinte as faltas injustificadas.\n\n4 - O deputado que violar o dever de sigilo em relação aos trabalhos da comissão de inquérito ou faltar sem justificação a mais de quatro reuniões perde a qualidade de membro da comissão.\n\n5 - No caso de haver violação de sigilo, a comissão de inquérito deve promover uma investigação sumária e deliberar, por maioria qualificada de dois terços, sobre a sua verificação e a identidade do seu autor.\n\n6 - O Presidente da Assembleia da República deve ser informado do conteúdo da deliberação prevista no número anterior, quando dela resulte o reconhecimento da existência da respectiva violação e a identidade do seu autor, para declarar a perda, por parte deste, da qualidade de membro da respectiva comissão e dar conta desta sua decisão ao Plenário.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159452": {
+   "fragment_id": "122151063",
+   "type": 11,
+   "heading": "Artigo 13.º — Poderes das comissões",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 13.º — Poderes das comissões\n\n1 - As comissões parlamentares de inquérito gozam dos poderes de investigação das autoridades judiciais que a estas não estejam constitucionalmente reservados.\n\n2 - As comissões têm direito à coadjuvação das autoridades judiciárias, dos órgãos da polícia criminal e das autoridades administrativas, nos mesmos termos que os tribunais.\n\n3 - As comissões podem, a requerimento fundamentado dos seus membros, solicitar por escrito ao Governo, às autoridades judiciárias, aos órgãos da Administração ou a entidades privadas as informações e documentos que julguem úteis à realização do inquérito.\n\n4 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, as diligências instrutórias referidas no número anterior que sejam consideradas indispensáveis à boa realização do inquérito pelos deputados que as proponham são de realização obrigatória, não estando a sua efectivação sujeita a deliberação da comissão.\n\n5 - A prestação das informações e dos documentos referidos no n.º 3 tem prioridade sobre quaisquer outros serviços e deve ser satisfeita no prazo de 10 dias, sob pena de o seu autor incorrer na prática do crime referido no artigo 19.º, salvo justificação ponderosa dos requeridos que aconselhe a comissão a prorrogar aquele prazo ou a cancelar a diligência.\n\n6 - O pedido referido no n.º 3 deve indicar esta lei e transcrever o n.º 5 deste artigo e o n.º 1 do artigo 19.º\n\n7 - No decorrer do inquérito, a recusa de apresentação de documentos ou de prestação de depoimento só se terá por justificada nos termos da lei processual penal.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159463": {
+   "fragment_id": "122151064",
+   "type": 11,
+   "heading": "Artigo 14.º — Local de funcionamento e modo de actuação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Local de funcionamento e modo de actuação\n\n1 - As comissões parlamentares de inquérito funcionam na sede da Assembleia da República, podendo, contudo, funcionar ou efectuar diligências, sempre que necessário, em qualquer ponto do território nacional.\n\n2 - As reuniões, diligências e inquirições realizadas são sempre gravadas, salvo se, por motivo fundado, a comissão deliberar noutro sentido.\n\n3 - Quando não se verifique a gravação prevista no número anterior, as diligências realizadas e os depoimentos ou declarações obtidos constam de acta especialmente elaborada para traduzir, pormenorizadamente, aquelas diligências e ser-lhe-ão anexos os depoimentos e declarações referidos, depois de assinados pelos seus autores."
+  },
+  "122159453": {
+   "fragment_id": "122151065",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade dos trabalhos",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 15.º — Publicidade dos trabalhos\n\n1 - As reuniões e diligências efectuadas pelas comissões parlamentares de inquérito são em regra públicas, salvo se a comissão, em deliberação tomada em reunião pública e devidamente fundamentada num dos seguintes motivos, assim o não entender:\n\na) As reuniões e diligências tiverem por objecto matéria sujeita a segredo de Estado, a segredo de justiça ou a sigilo por razões de reserva da intimidade das pessoas;\n\nb) Os depoentes se opuserem à publicidade da reunião, com fundamento na salvaguarda de direitos fundamentais;\n\nc) As reuniões e diligências colocarem em perigo o segredo das fontes de informação, salvo autorização dos interessados.\n\n2 - As actas das comissões, assim como todos os documentos na sua posse, podem ser consultados após a aprovação do relatório final, salvo se corresponderem a reuniões ou diligências não públicas nos termos do número anterior.\n\n3 - A transcrição dos depoimentos prestados perante as comissões de inquérito em reuniões não públicas só pode ser consultada ou publicada com autorização dos seus autores.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159454": {
+   "fragment_id": "122151066",
+   "type": 11,
+   "heading": "Artigo 16.º — Convocação de pessoas e contratação de peritos",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 16.º — Convocação de pessoas e contratação de peritos\n\n1 - As comissões parlamentares de inquérito podem convocar qualquer cidadão para depor sobre factos relativos ao inquérito.\n\n2 - Gozam da prerrogativa de depor por escrito, se o preferirem, o Presidente da República, os ex-presidentes da República, o Presidente da Assembleia da República, os ex-presidentes da Assembleia da República, o Primeiro-Ministro e os ex-primeiros-ministros, que remetem à comissão, no prazo de 10 dias a contar da data da notificação dos factos sobre que deve recair o depoimento, declaração, sob compromisso de honra, relatando o que sabem sobre os factos indicados.\n\n3 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, as diligências instrutórias referidas nos números anteriores que sejam consideradas indispensáveis ao inquérito pelos deputados que as proponham são de realização obrigatória até ao limite máximo de 15 depoimentos requeridos pelos deputados dos grupos parlamentares minoritários no seu conjunto, em função da sua representatividade ou por acordo entre eles, e até ao limite máximo de 8 depoimentos requeridos pelos deputados do grupo parlamentar maioritário no seu conjunto, ficando os demais depoimentos sujeitos a deliberação da comissão.\n\n4 - As convocações são assinadas pelo presidente da comissão ou, a solicitação deste, pelo Presidente da Assembleia da República e devem conter as indicações seguintes, sem prejuízo do disposto no n.º 2:\n\na) O objecto do inquérito;\n\nb) O local, o dia e a hora do depoimento;\n\nc) As sanções aplicáveis ao crime previsto no artigo 19.º da presente lei.\n\n5 - A convocação é feita para qualquer ponto do território, sob qualquer das formas previstas no Código de Processo Penal, devendo, no caso de funcionários e agentes do Estado ou de outras entidades públicas, ser efectuada através do respectivo superior hierárquico.\n\n6 - As diligências previstas no n.º 1 podem ser requeridas até 15 dias antes do termo do prazo fixado para a apresentação do relatório.\n\n7 - As comissões podem requisitar e contratar especialistas para as coadjuvar nos seus trabalhos mediante autorização prévia do Presidente da Assembleia da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159464": {
+   "fragment_id": "122151067",
+   "type": 11,
+   "heading": "Artigo 17.º — Depoimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Depoimentos\n\n1 - A falta de comparência ou a recusa de depoimento perante a comissão parlamentar de inquérito só se tem por justificada nos termos gerais da lei processual penal.\n\n2 - A obrigação de comparecer perante a comissão tem precedência sobre qualquer acto ou diligência oficial.\n\n3 - Não é admitida, em caso algum, a recusa de comparência de funcionários, de agentes do Estado e de outras entidades públicas, podendo, contudo, estes requerer a alteração da data da convocação, por imperiosa necessidade de serviço, contanto que assim não fique frustrada a realização do inquérito.\n\n4 - A forma dos depoimentos rege-se pelas normas aplicáveis do Código de Processo Penal sobre prova testemunhal."
+  },
+  "122159465": {
+   "fragment_id": "122151068",
+   "type": 11,
+   "heading": "Artigo 18.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encargos\n\n1 - Ninguém pode ser prejudicado no seu trabalho ou emprego por virtude da obrigação de depor perante a comissão parlamentar de inquérito, considerando-se justificadas todas as faltas de comparência resultantes do respectivo cumprimento.\n\n2 - As despesas de deslocação, bem como a eventual indemnização que, a pedido do convocado, for fixada pelo presidente da comissão, são pagas por conta do orçamento da Assembleia da República."
+  },
+  "122159455": {
+   "fragment_id": "122151069",
+   "type": 11,
+   "heading": "Artigo 19.º — Desobediência qualificada",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 19.º — Desobediência qualificada\n\n1 - Fora dos casos previstos no artigo 17.º, a falta de comparência, a recusa de depoimento ou o não cumprimento de ordens legítimas de uma comissão parlamentar de inquérito no exercício das suas funções constituem crime de desobediência qualificada, para os efeitos previstos no Código Penal.\n\n2 - Verificado qualquer dos factos previstos no número anterior, o presidente da comissão, ouvida esta, comunicá-lo-á ao Presidente da Assembleia, com os elementos indispensáveis à instrução do processo, para efeito de participação à Procuradoria-Geral da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159456": {
+   "fragment_id": "122151070",
+   "type": 11,
+   "heading": "Artigo 20.º — Relatório",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 20.º — Relatório\n\n1 - O relatório final refere, obrigatoriamente:\n\na) O questionário, se o houver;\n\nb) As diligências efectuadas pela comissão;\n\nc) As conclusões do inquérito e os respectivos fundamentos;\n\nd) O sentido de voto de cada membro da comissão, assim como as declarações de voto escritas.\n\n2 - A comissão pode propor ao Plenário ou à comissão permanente a elaboração de relatórios separados, se entender que o objecto do inquérito é susceptível de investigação parcelar, devendo os respectivos relatórios ser tidos em consideração no relatório final.\n\n3 - O relatório e as declarações de voto são publicados no Diário da Assembleia da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159457": {
+   "fragment_id": "122151071",
+   "type": 11,
+   "heading": "Artigo 21.º — Debate e resolução",
+   "in_force_from": "2007-04-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 21.º — Debate e resolução\n\n1 - Até 30 dias após a publicação do relatório e das declarações de voto, o Presidente da Assembleia da República inclui a sua apreciação na ordem do dia.\n\n2 - Juntamente com o relatório, a comissão parlamentar de inquérito pode apresentar um projecto de resolução.\n\n3 - Apresentado ao Plenário o relatório, é aberto um debate.\n\n4 - O debate é introduzido por uma breve exposição do presidente da comissão e do relator designado e obedece a uma grelha de tempo própria fixada pelo Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares.\n\n5 - Sem prejuízo dos tempos globais de discussão, cada grupo parlamentar dispõe de três minutos para a apresentação das suas declarações de voto.\n\n6 - O Plenário pode deliberar sobre a publicação integral ou parcial das actas da comissão, observado o disposto no artigo 15.º\n\n7 - Juntamente com o relatório, o Plenário aprecia os projectos de resolução que lhe sejam apresentados.\n\n8 - O relatório não é objecto de votação no Plenário.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159466": {
+   "fragment_id": "122151072",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a Lei n.º 43/77, de 18 de Junho."
+  },
+  "122159467": {
+   "fragment_id": "122151054",
+   "type": 11,
+   "heading": "Artigo 4.º — Constituição obrigatória da comissão de inquérito",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 4.º — Constituição obrigatória da comissão de inquérito\n\n1 - As comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º são obrigatoriamente constituídas.\n\n2 - O referido requerimento, dirigido ao Presidente da Assembleia da República, deve indicar o seu objeto e fundamentos e, se tal for o entendimento dos seus subscritores, a lista preliminar dos cidadãos a convocar para a prestação de depoimentos e das eventuais diligências a efetuar, não sendo suscetível de apreciação ou recusa, salvo com os fundamentos previstos no número seguinte.\n\n3 - O Presidente verifica a existência formal das condições previstas no número anterior e o número e identidade dos deputados subscritores, notificando de imediato o primeiro subscritor para suprir a falta ou faltas correspondentes, caso se verifique alguma omissão ou erro no cumprimento destas formalidades ou caso a indicação do objecto e fundamentos do requerimento infrinja a Constituição ou os princípios nela consignados.\n\n4 - Recebido o requerimento ou verificado o suprimento referido no número anterior, o Presidente toma as providências necessárias para definir a composição da comissão de inquérito até ao 8.º dia posterior à publicação do requerimento no Diário da Assembleia da República.\n\n5 - Dentro do prazo referido no número anterior, o Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares, agenda um debate sobre a matéria do inquérito, desde que solicitado pelos requerentes da constituição da comissão ou por um grupo parlamentar.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "868026399": {
+   "fragment_id": "122151056",
+   "type": 11,
+   "heading": "Artigo 6.º — Funcionamento da comissão",
+   "in_force_from": "2024-06-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2024 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/lei/30-2024-868097434), em vigor a partir de 2024-06-07",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 6.º — Funcionamento da comissão\n\n1 - Compete ao Presidente da Assembleia da República, ouvida a Conferência dos Representantes dos Grupos Parlamentares, fixar o número de membros da comissão, observado o limite previsto no número seguinte, dar-lhes posse e determinar o prazo da realização do inquérito previsto na alínea b) do n.º 1 do artigo 2.º e do previsto na alínea a) da mesma disposição, quando a respectiva resolução o não tenha feito.\n\n2 - A composição da comissão deve ser proporcional à representatividade dos grupos parlamentares, devendo o número de membros e a sua distribuição pelos diversos grupos parlamentares ser fixados por deliberação da Assembleia da República, sob proposta do seu Presidente, ouvida a Conferência de Líderes, a qual deve mencionar, no caso de serem os requerentes do inquérito, os Deputados únicos representantes de um partido que integram a comissão.\n\n3 - Os membros da comissão podem ser substituídos por deputados suplentes, cuja fixação deve observar o limite máximo de dois suplentes para cada um dos dois grupos parlamentares com maior representatividade e de um suplente para cada um dos restantes grupos parlamentares.\n\n4 - A substituição prevista no número anterior vigora pelo período correspondente a cada reunião em que ocorrer, nela participando os membros suplentes como membros de pleno direito e podendo assistir às restantes reuniões sem direito ao uso da palavra e sem direito de voto.\n\n5 - Os membros da comissão tomam posse perante o Presidente da Assembleia da República até ao 15.º dia posterior à publicação no Diário da Assembleia da República da resolução ou do requerimento que determine a realização do inquérito.\n\n6 - É condição para a tomada de posse de membro da comissão, incluindo membros suplentes, declaração formal de inexistência de conflito de interesses em relação ao objeto do inquérito, bem como de compromisso de isenção no apuramento dos factos sujeitos a inquérito.\n\n7 - A comissão inicia os seus trabalhos imediatamente após a posse conferida pelo Presidente da Assembleia da República, logo que preenchida uma das seguintes condições:\n\na) Estar indicada mais de metade dos membros da comissão, representando no mínimo dois grupos parlamentares, um dos quais deve ser obrigatoriamente de partido sem representação no Governo;\n\nb) Não estar indicada a maioria do número de deputados da comissão, desde que apenas falte a indicação dos deputados pertencentes a um grupo parlamentar.\n\n8 - Nas comissões parlamentares de inquérito constituídas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o presidente da comissão é obrigatoriamente designado de entre os representantes na comissão dos grupos parlamentares a que pertencem os requerentes do inquérito, se tal designação não resultar já da repartição prevista no n.º 6 do artigo 178.º da Constituição.\n\n9 - Cabendo a presidência, nos termos do n.º 6 do artigo 178.º da Constituição, a grupo parlamentar não requerente do inquérito, a presidência de comissão parlamentar a constituir subsequentemente na legislatura em curso é atribuída a este, desde que não se trate de comissão de inquérito constituída ao abrigo da alínea b) do n.º 1 do artigo 2.º\n\n10 - As deliberações da comissão que constem da ordem de trabalhos são tomadas por maioria dos votos individualmente expressos por cada Deputado.\n\n11 - Compete ao presidente representar a comissão, garantir o seu regular funcionamento e zelar pela realização dos direitos e cumprimento dos deveres de todos os intervenientes.\n\n12 - O regulamento da comissão deve assegurar, para cada audição, a possibilidade de intervenção de todos os seus membros.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 30/2024 - Diário da República n.º 109/2024, Série I de 2024-06-06](https://diariodarepublica.pt/dr/detalhe/lei/30-2024-868097434), em vigor a partir de 2024-06-07\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159469": {
+   "fragment_id": "122151058",
+   "type": 11,
+   "heading": "Artigo 8.º — Do objecto das comissões de inquérito",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 8.º — Do objecto das comissões de inquérito\n\n1 - Os inquéritos parlamentares apenas podem ter por objecto actos do Governo ou da Administração ocorridos em legislaturas anteriores à que estiver em curso quando se reportarem a matérias ainda em apreciação, factos novos ou factos de conhecimento superveniente.\n\n2 - Durante o período de cada sessão legislativa não é permitida a constituição de novas comissões de inquérito que tenham o mesmo objecto que dera lugar à constituição de outra comissão que está em exercício de funções ou que as tenha terminado no período referido, salvo se surgirem factos novos.\n\n3 - Nas comissões parlamentares de inquérito constituídas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o objeto definido pelos requerentes não é suscetível de alteração por deliberação da comissão e apenas por esta pode ser clarificado com o assentimento dos requerentes.\n\n4 - A comissão pode orientar-se por um questionário indicativo formulado inicialmente.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159470": {
+   "fragment_id": "122151060",
+   "type": 11,
+   "heading": "Artigo 10.º — Designação de relator",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 10.º — Designação de relator\n\n1 - As comissões de inquérito devem designar relator numa das cinco primeiras reuniões.\n\n2 - O relator pode ser constituído na modalidade de relator singular ou de coletivo de relatores integrando três Deputados, de acordo com a opção escolhida pela comissão.\n\n3 - O coletivo de relatores constitui-se com a designação inicial de dois deles, um dos quais necessariamente de grupo parlamentar de partido não representado no Governo.\n\n4 - Tendo havido opção pelo coletivo de relatores, o terceiro relator é escolhido pelos dois relatores designados nos termos do número anterior, de entre os membros da comissão, a quem compete a redação do relatório e a representação do coletivo de relatores na apresentação do relatório final em Plenário.\n\n5 - Na impossibilidade de designação, por consenso, do terceiro relator, este é designado pela comissão.\n\n6 - Nas comissões de inquérito constituídas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o relator é designado pelos membros da comissão indicados pelos requerentes do inquérito.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159471": {
+   "fragment_id": "122151061",
+   "type": 11,
+   "heading": "Artigo 11.º — Duração do inquérito",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 11.º — Duração do inquérito\n\n1 - O tempo máximo para a realização de um inquérito é de 180 dias, findo o qual a comissão se extingue, sem prejuízo do disposto nos números seguintes.\n\n2 - A requerimento fundamentado da comissão, o Plenário pode conceder ainda um prazo adicional de 90 dias.\n\n3 - Nas comissões parlamentares de inquérito requeridas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o prazo adicional referido no número anterior é de concessão obrigatória, desde que requerido pelos deputados dos grupos parlamentares a que pertencem os requerentes da constituição da comissão.\n\n3 - Nas comissões parlamentares de inquérito constituídas ao abrigo da alínea b) do n.º 1 do artigo 2.º, o prazo adicional referido no número anterior é de concessão obrigatória, desde que requerido pelos Deputados dos grupos parlamentares a que pertencem os requerentes da constituição da comissão.\n\n4 - No caso de a comissão deduzir incidente para a quebra de segredo invocado na recusa de prestação de depoimento, de prestação de informações ou de apresentação de documentos, os prazos referidos nos números anteriores são suspensos até ao trânsito em julgado da correspondente decisão judicial ou até à desistência da instância, sem prejuízo da continuidade dos trabalhos da comissão que esta entenda deverem prosseguir.\n\n5 - Nas comissões parlamentares de inquérito constituídas ao abrigo da alínea b) do n.º 1 do artigo 2.º, a desistência da instância depende do consentimento dos requerentes.\n\n6 - Quando a comissão não tiver aprovado um relatório conclusivo das investigações efectuadas, o presidente da comissão envia ao Presidente da Assembleia da República uma informação relatando as diligências realizadas e as razões da inconclusividade dos trabalhos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159472": {
+   "fragment_id": "122151063",
+   "type": 11,
+   "heading": "Artigo 13.º — Poderes das comissões",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 13.º — Poderes das comissões\n\n1 - As comissões parlamentares de inquérito gozam dos poderes de investigação das autoridades judiciais que a estas não estejam constitucionalmente reservados.\n\n2 - As comissões têm direito à coadjuvação das autoridades judiciárias, dos órgãos da polícia criminal e das autoridades administrativas, nos mesmos termos que os tribunais.\n\n3 - As comissões podem, a requerimento fundamentado dos seus membros, solicitar por escrito ao Governo, às autoridades judiciárias, aos órgãos e serviços da Administração, demais entidades públicas, incluindo as entidades reguladoras independentes, ou a entidades privadas as informações e documentos que julguem úteis à realização do inquérito.\n\n4 - Nas comissões parlamentares de inquérito constituídas ao abrigo da alínea b) do n.º 1 do artigo 2.º, as diligências instrutórias referidas no número anterior, solicitadas pelos Deputados requerentes do inquérito, são de realização obrigatória, não estando a sua efetivação sujeita a deliberação da comissão.\n\n5 - A prestação das informações e dos documentos referidos no n.º 3 tem prioridade sobre quaisquer outros serviços e deve ser satisfeita no prazo de 10 dias, sob pena de o seu autor incorrer na prática do crime referido no artigo 19.º, salvo justificação ponderosa dos requeridos que aconselhe a comissão a prorrogar aquele prazo ou a cancelar a diligência.\n\n6 - O pedido referido no n.º 3 deve indicar esta lei e transcrever o n.º 5 deste artigo e o n.º 1 do artigo 19.º\n\n7 - No decurso do inquérito, a recusa de prestação de depoimento, de prestação de informações ou de apresentação de documentos só se terá por justificada nos termos da lei processual penal e da presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159677": {
+   "fragment_id": "122159539",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Incidente para a quebra de segredo",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)"
+   ],
+   "markdown": "###### Artigo 13.º-A — Incidente para a quebra de segredo\n\n1 - Compete às secções criminais do Supremo Tribunal de Justiça julgar, por decisão definitiva e irrecorrível, o incidente para a quebra de segredo.\n\n2 - O incidente para a quebra de segredo tem natureza urgente.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)"
+  },
+  "122159688": {
+   "fragment_id": "122159540",
+   "type": 11,
+   "heading": "Artigo 13.º-B — Acesso a documentos confidenciais",
+   "in_force_from": null,
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)"
+   ],
+   "markdown": "###### Artigo 13.º-B — Acesso a documentos confidenciais\n\n1 - Os documentos que venham classificados como confidenciais ou sigilosos, nos termos legais, são disponibilizados à consulta dos Deputados para cumprimento das suas funções, devendo ser adotadas pela comissão as medidas adequadas a garantir que não possam ser objeto de reprodução ou publicação.\n\n2 - O disposto no número anterior não prejudica a utilização da informação recolhida no decurso do inquérito, nem a sua utilização na fundamentação do relatório final, por referência expressa à documentação na posse da comissão, com salvaguarda da proteção das informações não suscetíveis de divulgação, se for o caso, nos termos do regime jurídico aplicável.\n\n> Aditado pelo/a Artigo 3.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)"
+  },
+  "122159689": {
+   "fragment_id": "122151064",
+   "type": 11,
+   "heading": "Artigo 14.º — Local de funcionamento e modo de actuação",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)"
+   ],
+   "markdown": "###### Artigo 14.º — Local de funcionamento e modo de actuação\n\n1 - As comissões parlamentares de inquérito funcionam na sede da Assembleia da República, podendo, contudo, funcionar ou efectuar diligências, sempre que necessário, em qualquer ponto do território nacional.\n\n2 - As reuniões, diligências e inquirições realizadas são sempre gravadas, salvo se, por motivo fundado, a comissão deliberar noutro sentido.\n\n3 - Quando não se verifique a gravação prevista no número anterior, as diligências realizadas e os depoimentos ou declarações obtidos constam de ata especialmente elaborada para traduzir, pormenorizadamente, aquelas diligências, sendo anexados os depoimentos e declarações referidos, depois de assinados pelos seus autores, em envelope devidamente lacrado.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)"
+  },
+  "122159690": {
+   "fragment_id": "122151065",
+   "type": 11,
+   "heading": "Artigo 15.º — Publicidade dos trabalhos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04",
+    "Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+   ],
+   "markdown": "###### Artigo 15.º — Publicidade dos trabalhos\n\n1 - As reuniões e diligências efectuadas pelas comissões parlamentares de inquérito são em regra públicas, salvo se a comissão, em deliberação tomada em reunião pública e devidamente fundamentada num dos seguintes motivos, assim o não entender:\n\na) As reuniões e diligências tiverem por objecto matéria sujeita a segredo de Estado, a segredo de justiça ou a sigilo por razões de reserva da intimidade das pessoas;\n\nb) Os depoentes se opuserem à publicidade da reunião, com fundamento na salvaguarda de direitos fundamentais;\n\nc) As reuniões e diligências colocarem em perigo o segredo das fontes de informação, salvo autorização dos interessados.\n\n2 - As actas das comissões, assim como todos os documentos na sua posse, podem ser consultados após a aprovação do relatório final, salvo se corresponderem a reuniões ou diligências não públicas nos termos do número anterior.\n\n3 - A transcrição dos depoimentos prestados perante as comissões de inquérito em reuniões não públicas só pode ser consultada ou publicada com autorização dos seus autores.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04\n\n> Alterado pelo/a [Lei n.º 126/97 - Diário da República n.º 284/1997, Série I-A de 1997-12-10](https://diariodarepublica.pt/dr/detalhe/lei/126-1997-404748), em vigor a partir de 1997-12-15"
+  },
+  "122159691": {
+   "fragment_id": "122151066",
+   "type": 11,
+   "heading": "Artigo 16.º — Convocação de pessoas e contratação de peritos",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 16.º — Convocação de pessoas e contratação de peritos\n\n1 - As comissões parlamentares de inquérito podem convocar qualquer cidadão para depor sobre factos relativos ao inquérito, sem prejuízo do disposto nos números seguintes.\n\n2 - O Presidente da República, bem como os ex-Presidentes da República por factos de que tiveram conhecimento durante o exercício das suas funções e por causa delas, têm a faculdade, querendo, de depor perante uma comissão parlamentar de inquérito, gozando nesse caso, se o preferirem, da prerrogativa de o fazer por escrito.\n\n3 - Gozam, também, da prerrogativa de depor por escrito, se o preferirem, o Presidente da Assembleia da República, os ex-Presidentes da Assembleia da República, o Primeiro-Ministro e os ex-Primeiros-Ministros, que remetem à comissão, no prazo de 10 dias a contar da data da notificação dos factos sobre que deve recair o depoimento, declaração, sob compromisso de honra, relatando o que sabem sobre os factos indicados.\n\n4 - Nas comissões parlamentares de inquérito constituídas ao abrigo da alínea b) do n.º 1 do artigo 2.º, as diligências instrutórias referidas nos números anteriores requeridas pelos Deputados que as proponham são de realização obrigatória até ao limite máximo de 15 depoimentos, cabendo aos requerentes a faculdade de determinar a data da sua realização, e até ao limite máximo de 8 depoimentos requeridos pelos Deputados restantes, ficando os demais depoimentos sujeitos a deliberação da comissão.\n\n5 - As convocações são assinadas pelo presidente da comissão ou, a solicitação deste, pelo Presidente da Assembleia da República e devem conter as indicações seguintes, sem prejuízo do disposto nos n.os 2 e 3:\n\na) O objecto do inquérito;\n\nb) O local, o dia e a hora do depoimento;\n\nc) As sanções aplicáveis ao crime previsto no artigo 19.º da presente lei.\n\n6 - A convocação é feita para qualquer ponto do território, sob qualquer das formas previstas no Código de Processo Penal, devendo, no caso de funcionários e agentes do Estado ou de outras entidades públicas, ser efectuada através do respectivo superior hierárquico.\n\n7 - As diligências previstas no n.º 1 podem ser requeridas até 15 dias antes do termo do prazo fixado para a apresentação do relatório.\n\n8 - As comissões podem requisitar e contratar especialistas para as coadjuvar nos seus trabalhos mediante autorização prévia do Presidente da Assembleia da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159692": {
+   "fragment_id": "122151067",
+   "type": 11,
+   "heading": "Artigo 17.º — Depoimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Depoimentos\n\n1 - A falta de comparência ou a recusa de depoimento perante a comissão parlamentar de inquérito só se tem por justificada nos termos gerais da lei processual penal.\n\n2 - A obrigação de comparecer perante a comissão tem precedência sobre qualquer acto ou diligência oficial.\n\n3 - Não é admitida, em caso algum, a recusa de comparência de funcionários, de agentes do Estado e de outras entidades públicas, podendo, contudo, estes requerer a alteração da data da convocação, por imperiosa necessidade de serviço, contanto que assim não fique frustrada a realização do inquérito.\n\n4 - A forma dos depoimentos rege-se pelas normas aplicáveis do Código de Processo Penal sobre prova testemunhal."
+  },
+  "122159693": {
+   "fragment_id": "122151068",
+   "type": 11,
+   "heading": "Artigo 18.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Encargos\n\n1 - Ninguém pode ser prejudicado no seu trabalho ou emprego por virtude da obrigação de depor perante a comissão parlamentar de inquérito, considerando-se justificadas todas as faltas de comparência resultantes do respectivo cumprimento.\n\n2 - As despesas de deslocação, bem como a eventual indemnização que, a pedido do convocado, for fixada pelo presidente da comissão, são pagas por conta do orçamento da Assembleia da República."
+  },
+  "122159694": {
+   "fragment_id": "122151069",
+   "type": 11,
+   "heading": "Artigo 19.º — Desobediência qualificada",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 19.º — Desobediência qualificada\n\n1 - Fora dos casos previstos no artigo 17.º, a falta de comparência, a recusa de depoimento ou o não cumprimento de ordens legítimas de uma comissão parlamentar de inquérito no exercício das suas funções constituem crime de desobediência qualificada, para os efeitos previstos no Código Penal.\n\n2 - Verificado qualquer dos factos previstos no número anterior, o presidente da comissão, ouvida esta, comunicá-lo-á ao Presidente da Assembleia, com os elementos indispensáveis à instrução do processo, para efeito de participação à Procuradoria-Geral da República.\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159695": {
+   "fragment_id": "122151070",
+   "type": 11,
+   "heading": "Artigo 20.º — Relatório",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 20.º — Relatório\n\n1 - O relatório final refere, obrigatoriamente:\n\na) O objeto do inquérito;\n\nb) O questionário, se o houver;\n\nc) Uma nota técnica elencando sumariamente as diligências efetuadas pela comissão;\n\nd) As conclusões do inquérito, aprovadas com base no projeto de relatório ou nas propostas alternativas apresentadas, contendo cada uma delas o respetivo fundamento sucintamente formulado;\n\ne) As eventuais recomendações;\n\nf) O sentido de voto de cada membro da comissão, assim como as declarações de voto entregues por escrito;\n\ng) As propostas que não tenham sido incorporadas na sua versão final, com a indicação dos seus proponentes.\n\n2 - Em caso de coletivo de relatores, é elaborado um único relatório final, o qual deve integrar, em anexo, os conteúdos por estes apresentados que não tenham merecido consenso nem tenham sido objeto de consideração nas conclusões finais, sem prejuízo da faculdade de cada relator juntar declaração de voto ao relatório final.\n\n3 - As conclusões referidas na alínea d) do n.º 1, bem como as eventuais recomendações referidas na alínea e) do mesmo número, se o relatório as contiver, são numeradas e votadas individualmente e em separado.\n\n4 - Face ao conteúdo final do relatório, apurado de acordo com a votação referida no número anterior, cabe ao relator confirmar ou renunciar a essa condição.\n\n5 - Em caso de renúncia do relator, a comissão pode indicar um substituto para efeitos de apresentação do relatório em Plenário.\n\n6 - O relatório e as declarações de voto são publicados no Diário da Assembleia da República.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159696": {
+   "fragment_id": "122151071",
+   "type": 11,
+   "heading": "Artigo 21.º — Debate e resolução",
+   "in_force_from": null,
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)",
+    "Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+   ],
+   "markdown": "###### Artigo 21.º — Debate e resolução\n\n1 - Até 30 dias após a publicação do relatório e das declarações de voto, o Presidente da Assembleia da República inclui a sua apreciação na ordem do dia.\n\n2 - Juntamente com o relatório, a comissão parlamentar de inquérito pode apresentar um projecto de resolução.\n\n3 - Apresentado ao Plenário o relatório, é aberto um debate.\n\n4 - O debate é introduzido por uma breve exposição do presidente da comissão e do relator ou do representante do coletivo de relatores designados e obedece a uma grelha de tempo própria fixada pelo Presidente da Assembleia da República, ouvida a Conferência de Líderes.\n\n5 - Sem prejuízo dos tempos globais de discussão, cada grupo parlamentar dispõe de três minutos para a apresentação das suas declarações de voto.\n\n6 - O Plenário pode deliberar sobre a publicação integral ou parcial das actas da comissão, observado o disposto no artigo 15.º\n\n7 - Juntamente com o relatório, o Plenário aprecia os projectos de resolução que lhe sejam apresentados.\n\n8 - O relatório não é objecto de votação no Plenário.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 29/2019 - Diário da República n.º 79/2019, Série I de 2019-04-23](https://diariodarepublica.pt/dr/detalhe/lei/29-2019-122151045)\n\n> Alterado pelo/a Artigo 1.º do/a [Lei n.º 15/2007 - Diário da República n.º 66/2007, Série I de 2007-04-03](https://diariodarepublica.pt/dr/detalhe/lei/15-2007-520192), em vigor a partir de 2007-04-04"
+  },
+  "122159697": {
+   "fragment_id": "122151072",
+   "type": 11,
+   "heading": "Artigo 22.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Norma revogatória\n\nÉ revogada a Lei n.º 43/77, de 18 de Junho."
+  },
+  "122159698": {
+   "fragment_id": "122151073",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 5 de Janeiro de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em Setúbal em 5 de Fevereiro de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 13 de Fevereiro de 1993.\n\nO Primeiro-Ministro, Aníbal António Cavaco Silva."
+  }
+ }
+}

@@ -1,0 +1,185 @@
+---
+schema_version: '1.0'
+id: pt:dre:124500727:por
+title: Resolução do Conselho de Ministros n.º 153/2019
+short_title: null
+summary: Autoriza o conselho diretivo do Instituto de Informática, I. P., a realizar a despesa com a reformulação do Sistema
+  de Informação Financeiro e respetiva implementação do Sistema de Normalização Contabilística para as Administrações Públicas,
+  no âmbito da segurança social
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 153/2019
+official_date: null
+publication_date: '2019-09-06'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 171/2019, Série I de 2019-09-06
+  number: '171'
+  series: I
+  supplement: null
+  pages: 84 - 85
+  pdf_url: https://files.diariodarepublica.pt/1s/2019/09/17100/0008400085.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/153/2019/09/06/p/dre/pt/html
+  oj: null
+  dre: '124500727'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/153-2019-124500727
+  internal: pt:dre:124500727:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-2019-124500727
+  metadata_url: https://data.dre.pt/eli/resolconsmin/153/2019/09/06/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/153-2019-124500727
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-09-06T00:00:00Z'
+integrity:
+  source_sha256: 5e614be72fb1636e14f236abc222cb966b851b6b5ad38d9a14bda182a64512dc
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2019/DRE-2019-153-124500727.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Conselho de Ministros
+- Sistema de Normalização Contabilística Público
+- Delegação de Competências
+- Despesas Públicas
+- TIC
+- Instituto de Informática
+- Orçamento da Segurança Social
+- Segurança Social
+- Sistema de Informação Contabilistico
+- Contabilidade Pública
+- Governo XXI
+- Ministro do Trabalho Solidariedade e Segurança Social
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/127/2012/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/167-c/2013/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/167-c/2013/12/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2008/01/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/192/2015/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/192/2015/09/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/197/1999/06/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/84/2012/03/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/84/2012/03/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/151/2015/09/11/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/151/2015/09/11/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2007/01/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/8/2012/02/21/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 153/2019
+
+O n.º 1 do artigo 93.º da [Lei n.º 4/2007](https://diariodarepublica.pt/dr/detalhe/lei/4-2007-522781), de 16 de janeiro, na sua redação atual, prevê a existência do orçamento da segurança social, como parte integrante do Orçamento do Estado, cabendo ao Instituto de Gestão Financeira da Segurança Social, I. P. (IGFSS, I. P.), a gestão financeira unificada dos recursos económicos consignados no orçamento da segurança social, assegurando a verificação, o acompanhamento, a avaliação e informação, nos domínios orçamental, económico e patrimonial, das atividades dos organismos que integram o sistema de segurança social, nos termos do n.º 1 e do n.º 6 do artigo 3.º do [Decreto-Lei n.º 84/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2012-553884), de 30 de março, na sua redação atual.
+
+Neste contexto, foi criado em 2002 o Sistema de Informação Financeiro (SIF) da segurança social, que adotou o plano de contas sectorial para a segurança social, permitindo a prestação de contas consolidadas dos diversos organismos do perímetro da segurança social.
+
+O atual SIF, com mais de 15 anos, sofreu ao longo dos últimos anos muitas adaptações para assegurar um conjunto de atividades específicas do setor da segurança social, nomeadamente alterações orçamentais, abastecimentos financeiros das entidades do perímetro de consolidação, processos de aquisição de bens e serviços, processos de obras e empreitadas, alterações de tesouraria, património e consolidação patrimonial, bem como para permitir a integração de informação com as várias entidades com que se articula, designadamente a Autoridade Tributária e Aduaneira, a Direção-Geral do Orçamento e o Tribunal de Contas. Corresponde a um sistema que suporta vários organismos do Ministério do Trabalho, Solidariedade e Segurança Social (MTSSS), onde se destacam, em termos de números de utilizadores e atividades, o Instituto de Informática, I. P., o IGFSS, I. P., o Instituto da Segurança Social, I. P., o Instituto da Segurança Social da Madeira, IP-RAM, e o Instituto da Segurança Social dos Açores, I. P. R. A., sendo constituído por mais de 175 processos e 1201 subprocessos, gerando anualmente cerca de 14 milhões de documentos.
+
+A reforma da contabilidade pública e do processo orçamental, assente na [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, na sua redação atual, assim como a adoção do Sistema de Normalização Contabilística para as Administrações Públicas (SNC-AP), aprovado pelo [Decreto-Lei n.º 192/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/192-2015-70262478), de 11 de agosto, na sua redação atual, gera profundas alterações em relação à forma como está estruturado o atual SIF, contemplando os subsistemas de contabilidade orçamental, contabilidade financeira e contabilidade de gestão.
+
+Considerando a magnitude deste processo de adaptação do SIF e os desafios que se colocam no âmbito da reforma da contabilidade e das contas públicas, bem como os impactos significativos no modelo de gestão de informação financeira no subsetor da segurança social, nomeadamente ao nível da integração da informação das entidades que o compõem, é fundamental que a transição para o novo referencial contabilístico ocorra de forma adequada.
+
+Em termos tecnológicos, e em consequência dos desenvolvimentos específicos para o setor da Segurança Social, é imperioso atualizar a plataforma atual que se encontra obsoleta, uma vez que não teve qualquer modificação relevante nos últimos anos.
+
+Com vista à definição e desenho do novo SIF e das adaptações necessárias ao SNC-AP, foi constituído um grupo de trabalho, com representantes de todas as instituições do sistema da Segurança Social, para implementação do SNC-AP no subsetor da segurança social, coordenado pelo IGFSS, I. P., uma vez que, de acordo com a alínea e) do n.º 2 do artigo 3.º do mencionado [Decreto-Lei n.º 84/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2012-553884), de 30 de março, na sua redação atual, constitui atribuição deste organismo a definição dos princípios, conceitos e procedimentos contabilísticos a adotar no sistema de segurança social, através da elaboração do plano de contas do setor e assegurar o seu cumprimento.
+
+O II, I. P., que, nos termos da alínea c) do n.º 2 do artigo 20.º do [Decreto-Lei n.º 167-C/2013](https://diariodarepublica.pt/dr/detalhe/decreto-lei/167-c-2013-164425), de 31 de dezembro, na sua redação atual, assegura a construção, gestão e operação de sistemas e infraestruturas do MTSSS, deve executar o processo tecnológico que se adeque às conclusões do grupo de trabalho.
+
+A implementação do SNC-AP e a reformulação do sistema de informação financeira da segurança social são críticas.
+
+Considerando a complexidade, criticidade e dimensão dos processos suportados pelo sistema de informação da segurança social, na sua vertente financeira, é imprescindível promover a aquisição dos serviços de desenvolvimento aplicacional necessários, bem como das infraestruturas, designadamente na modalidade de compra, locação, ou outra conveniente em função da eficácia, eficiência e economia da despesa.
+
+Pelo exposto, a presente resolução autoriza a despesa relativa à aquisição de bens e serviços que se revelam imprescindíveis e inadiáveis para assegurar a reformulação do SIF da segurança social, sem a qual não é possível cumprir o disposto na [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro, na sua redação atual, nem adotar o SNC-AP.
+
+Assim:
+
+Nos termos da alínea e) do n.º 1 do artigo 17.º e do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, do n.º 1 do artigo 36.º, do artigo 38.º, do n.º 2 do artigo 40.º, do artigo 73.º, do n.º 1 do artigo 98.º e do artigo 109.º do Código dos Contratos Públicos, aprovado em anexo ao [Decreto-Lei n.º 18/2008](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2008-248178), de 29 de janeiro, na sua redação atual, da alínea a) do n.º 1 do artigo 6.º da [Lei n.º 8/2012](https://diariodarepublica.pt/dr/detalhe/lei/8-2012-542996), de 21 de fevereiro, na sua redação atual, do n.º 1 do artigo 11.º do [Decreto-Lei n.º 127/2012](https://diariodarepublica.pt/dr/detalhe/decreto-lei/127-2012-178845), de 21 de junho, na sua redação atual, e da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Autorizar o conselho diretivo do Instituto de Informática, I. P. (II, I. P.), a realizar a despesa relativa à aquisição dos serviços de conceção, desenvolvimento, acreditação das aplicações, aquisição de infraestruturas tecnológicas e serviços de suporte à exploração, com vista à reformulação do Sistema de Informação Financeiro e respetiva implementação do Sistema de Normalização Contabilística para as Administrações Públicas no âmbito da segurança social, até ao montante máximo global de (euro) 5 319 108,00, ao qual acresce IVA à taxa legal em vigor.
+
+2 - Determinar que os encargos resultantes do disposto no número anterior não podem exceder, em cada ano económico, os seguintes montantes, aos quais acresce IVA à taxa legal em vigor:
+
+a) 2019 - (euro) 371 222,44;
+
+b) 2020 - (euro) 2 365 368,67;
+
+c) 2021 - (euro) 1 369 656,89;
+
+d) 2022 - (euro) 1 047 204,00;
+
+e) 2023 - (euro) 165 656,00.
+
+3 - Estabelecer que o montante fixado no número anterior para cada ano económico pode ser acrescido do saldo apurado no ano que o antecede.
+
+4 - Estabelecer que os encargos financeiros decorrentes da presente resolução são suportados por verbas adequadas, inscritas e a inscrever no orçamento do II, I. P., para os anos de 2019, 2020, 2021, 2022 e 2023, consignados no orçamento da segurança social, nas rubricas D.07.01.08 - Software Informático e D.02.02.05.01 - Locação de material informático - Hardware Informático.
+
+5 - Delegar, com faculdade de subdelegação, no membro do Governo responsável pela área do trabalho, solidariedade e segurança social a competência para a prática de todos os atos a realizar no âmbito da presente resolução.
+
+6 - Determinar que a presente resolução produz efeitos a partir da data da sua aprovação.
+
+Presidência do Conselho de Ministros, 22 de agosto de 2019. - O Primeiro-Ministro, António Luís Santos da Costa.

@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:639167:por
+title: Portaria n.º 730/2007
+short_title: null
+summary: Renova, por um período de seis anos, a zona de caça municipal de Moure, englobando vários prédios rústicos sitos
+  nas freguesias de Freiriz, Atiães, Escariz (São Mamede), Escariz (São Martinho), Moure, Carreiras (São Miguel), Carreiras
+  (São Tiago), Nevogilde e Travassos, município de Vila Verde (processo n.º 2557-DGRF)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 730/2007
+official_date: null
+publication_date: '2007-06-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 115/2007, Série I de 2007-06-18
+  number: '115'
+  series: I
+  supplement: null
+  pages: 3878 - 3878
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/06/11500/38783878.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/730/2007/06/18/p/dre/pt/html
+  oj: null
+  dre: '639167'
+  dre_path: /dr/detalhe/portaria/730-2007-639167
+  internal: pt:dre:639167:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/730-2007-639167
+  metadata_url: https://data.dre.pt/eli/port/730/2007/06/18/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/730-2007-639167
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2007-06-18T00:00:00Z'
+integrity:
+  source_sha256: 0c085568d5a311cb429a57166ecbb9ece7d7d29c66e260063f1b683b926575d5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-730-639167.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- VILA Verde
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/201/2005/11/24/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/202/2004/08/18/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/478/2004/05/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/478/2004/05/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/849-m/2001/07/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/849-m/2001/07/25/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 730/2007
+
+de 18 de Junho
+
+Pela [Portaria n.º 849-M/2001](https://diariodarepublica.pt/dr/detalhe/portaria/849-m-2001-328807), de 25 de Julho, alterada pela [Portaria n.º 478/2004](https://diariodarepublica.pt/dr/detalhe/portaria/478-2004-302112), de 4 de Maio, foi criada a zona de caça municipal de Moure (processo n.º 2557-DGRF), situada nos municípios de Vila Verde e Ponte de Lima, válida até 25 de Julho de 2007, e transferida a sua gestão para a Associação de Caçadores e Pescadores de Moure.
+
+Entretanto, a entidade titular veio requerer a sua renovação, tendo em simultâneo solicitado a correcção da área primitivamente concessionada de 2804 ha para 2172 ha, por exclusão das áreas sociais (terrenos não cinegéticos).
+
+Cumpridos os preceitos legais, com fundamento no disposto no artigo 21.º, em conjugação com o estipulado na alínea a) do artigo 18.º, do [Decreto-Lei n.º 202/2004](https://diariodarepublica.pt/dr/detalhe/decreto-lei/202-2004-480704), de 18 de Agosto, com as alterações introduzidas pelo [Decreto-Lei n.º 201/2005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/201-2005-481498), de 24 de Novembro, ouvido o Conselho Cinegético Municipal:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:
+
+1.º Pela presente portaria esta zona de caça é renovada por um período de seis anos, englobando os terrenos cinegéticos cujos limites constam da planta anexa à presente portaria e que dela faz parte integrante sitos nas freguesias Freiriz, Atiães, Escariz (São Mamede), Escariz (São Martinho), Moure, Carreiras (São Miguel), Carreiras (São Tiago), Nevogilde e Travassos, município de Vila Verde, com a área de 1988 ha, e que exprime uma redução da área concessionada de 184 ha.
+
+2.º A presente portaria produz efeitos a partir do dia 26 de Julho de 2007.
+
+**O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Jaime de Jesus Lopes Silva, em 29 de Maio de 2007.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2007/06/11500/38783878.pdf))](https://files.diariodarepublica.pt/1s/2007/06/11500/38783878.pdf)

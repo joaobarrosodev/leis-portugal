@@ -1,0 +1,284 @@
+---
+schema_version: '1.0'
+id: pt:dre:563606:por
+title: Portaria n.º 1220/90
+short_title: null
+summary: Estabelece as regras para a obtenção da capacidade profissional e os critérios para avaliação da capacidade financeira,
+  no acesso e exercício da actividade de transportes públicos ocasionais de mercadorias
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Obras Públicas, Transportes e Comunicações
+proposing_entity: null
+official_number: 1220/90
+official_date: null
+publication_date: '1990-12-19'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 291/1990, Série I de 1990-12-19
+  number: '291'
+  series: I
+  supplement: null
+  pages: 5168 - 5169
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/12/29100/51685169.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '563606'
+  dre_path: /dr/detalhe/portaria/1220-1990-563606
+  internal: pt:dre:563606:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/1220-1990-563606
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/1220-1990-563606
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1994-03-11T00:00:00Z'
+integrity:
+  source_sha256: b9a154adb0a10cd3c5e9ecda1cff499fdaeef1e2331b236e2ef52a107498d0b1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-1220-563606.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:276666:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 1220/90
+
+de 19 de Dezembro
+
+Tendo em vista obviar aos inconvenientes decorrentes da dispersão legislativa, estabelecem-se, com a presente portaria, as regras para a obtenção da capacidade profissional e os critérios para avaliação da capacidade financeira, no acesso e exercício da actividade de transportes públicos ocasionais de mercadorias.
+
+Com as soluções ora consagradas procede-se à transposição da Directiva n.º [89/438/CEE](http://data.europa.eu/eli/dir/1989/438/oj?locale=pt) para o quadro jurídico interno.
+
+Tendo o Decreto-Lei n.º 366/90, de 24 de Novembro, instituído a dualidade de vias para a obtenão de capacidade profissional - experiência e exame -, é oportuno introduzir algumas alterações ao regime dos exames, com realce para o alargamento da prova escrita a todos os grupos de matérias e abolição das provas orais.
+
+Assim, nos termos e ao abrigo do disposto no n.º 1 do artigo 5.º e do artigo 6.º do Decreto-Lei n.º 366/90, de 24 de Novembro:
+
+Manda o Governo, pelo Ministro das Obras Públicas, Transportes e Comunicações, o seguinte:
+
+1.º A capacidade profissional para o exercício da profissão de transportador público ocasional de mercadorias será atestada por certificado emitido pela Direcção-Geral de Transportes Terrestres.
+
+2.º O certificado referido no número anterior será emitido aos candidatos que:
+
+a) Obtenham aprovação em cada um dos grupos de matérias constantes da lista anexa, em exame a realizar nas condições fixadas no anexo I do presente diploma; ou
+
+b) Comprovem, curricularmente, uma experiência prática de pelo menos cinco anos numa empresa de transportes como directores, administradores ou gerentes; ou
+
+c) Tenham obtido capacidade profissional para o transporte internacional de mercadorias.
+
+3.º As pessoas diplomadas com cursos superiores que impliquem bom conhecimento de algum dos grupos de matérias constantes do anexo II serão dispensadas do exame referente a esse ou esses grupos, desde que apresentem certificado do respectivo curso comprovativo da aprovação naquelas matérias.
+
+4.º São reconhecidos como prova de capacidade profissional os certificados emitidos pelos restantes países membros da Comunidade para o exercício da profissão de transportador rodoviário de mercadorias, desde que devidamente atestados pelas autoridades competentes do respectivo Estado membro.
+
+5.º São requisitos mínimos de capacidade financeira, para efeitos de início de actividade de transportes públicos ocasionais de mercadorias, os seguintes:
+
+1) As pessoas colectivas deverão dispor de capital social mínimo de 2 ou 10 milhões de escudos, respectivamente se pretenderem dedicar-se à actividade no interior de uma área de transportes ou em todo o território nacional;
+
+2) Tratando-se de pessoas singulares, deverão possuir um património equivalente aos montantes de capital social exigido às pessoas colectivas, consoante o espaço territorial onde pretendam exercer a actividade.
+
+6.º Durante o exercício da actividade transportadora, as empresas devem dispor ainda de capitais próprios de montante igual ou superior a 600000$00 por cada veículo licenciado ou 30000$00 por tonelada de peso bruto.
+
+7.º A comprovação do disposto no n.º 5.º deverá ser feita por:
+
+1) Certidão do registo comercial donde conste o respectivo capital social, no caso de pessoas colectivas; ou
+
+2) Garantia bancária, no caso de pessoas singulares.
+
+8.º A comprovação do disposto no n.º 6.º será feita:
+
+1) No caso de pessoas colectivas ou pessoas singulares com escrita organizada, por meio do balanço apresentado na repartição de finanças competente para efeitos do imposto sobre o rendimento das pessoas colectivas (IRC) ou do imposto sobre o rendimento das pessoas singulares (IRS) ou, em alternativa, por garantia bancária;
+
+2) No caso de pessoas singulares sem escrita organizada, mediante garantia bancária de valor equivalente ao estabelecido para cada veículo ou tonelada de peso bruto.
+
+9.º As pessoas colectivas já licenciadas para o exercício da actividade de transportes públicos ocasionais de mercadorias à data da entrada em vigor da presente portaria deverão preencher o mínimo de capital social fixado no n.º 1 do n.º 5.º no prazo de dois anos.
+
+Ministério das Obras Públicas, Transportes e Comunicações.
+
+**Assinada em 6 de Dezembro de 1990.**
+
+Pelo Ministro das Obras Públicas, Transportes e Comunicações, Jorge Manuel Mendes Antas, Secretário de Estado dos Transportes.
+
+## ANEXO I — Regulamento de Exame para Obtenção de Capacidade Profissional
+
+1.º Só podem submeter-se a exame as pessoas que obedeçam às seguintes condições:
+
+a) Sejam maiores e possuam a escolaridade mínima obrigatória;
+
+b) Procedam ao pagamento, na Tesouraria da Direcção-Geral de Transportes Terrestres, da respectiva inscrição, no montante de 10000$00.
+
+2.º O júri de exame para avaliação de conhecimento dos grupos de matérias constantes da lista anexa será constituído por um presidente e quatro vogais escolhidos em razão da sua competência de entre pessoal dos quadros dos organismos do Ministério das Obras Públicas, Transportes e Comunicações com atribuições em matéria de transportes terrestres ou circulação rodoviária e nomeados por despacho do director-geral de Transportes Terrestres, ouvido o director-geral de Viação.
+
+3.º As decisões do júri serão tomadas por maioria, tendo o presidente voto de qualidade.
+
+4.º O presidente do júri, em caso de impedimento, designará o seu substituto entre os restantes membros.
+
+5.º A Direcção-Geral de Transportes Terrestres realizará exames, obrigatoriamente, pelo menos três vezes por ano, nos meses de Janeiro, Maio e Outubro, com base em inscrições realizadas nos meses imediatamente anteriores.
+
+6.º Os exames serão constituídos por provas escritas, que poderão revestir a forma de perguntas de escolha múltipla.
+
+7.º A classificação final do examinado será expressa pelas designações Aprovado ou Reprovado.
+
+A aprovação depende da obtenção de pelo menos 50% de respostas certas em cada um dos grupos de matérias.
+
+8.º Os resultados finais dos exames constarão de listas que serão afixadas na Direcção-Geral de Transportes Terrestres.
+
+9.º As pessoas que tenham sido reprovadas poderão requerer ao presidente do júri a revisão de provas nos oito dias úteis imediatos à afixação das listas.
+
+10.º A revisão de provas será feita pelo respectivo júri nos oito dias úteis a contar da data do pedido de revisão.
+
+11.º Os candidatos que tenham reprovado só poderão inscrever-se para novo exame decorridos, no mínimo, seis meses a contar da data da afixação das listas a que se refere o n.º 9.º
+
+12.º Só serão admitidos à realização das provas os candidatos que:
+
+a) Se identifiquem através de bilhete de identidade ou passaporte actualizados;
+
+b) Se apresentem à hora marcada.
+
+## ANEXO II — Lista das matérias objecto de exame
+
+1 - Direito:
+
+1.1 - Direito civil e comercial:
+
+Os contratos em geral;
+
+O contrato de transporte de mercadorias;
+
+A responsabilidade civil do transportador;
+
+O estatuto do transportador em nome individual;
+
+As sociedades de transporte de mercadorias;
+
+1.2 - Legislação laboral:
+
+Noções básicas da regulamentação do trabalho;
+
+Noções gerais de segurança social;
+
+Gestão de pessoal e política social da empresa;
+
+1.3 - Direito fiscal:
+
+Principais impostos incidentes sobre a actividade empresarial;
+
+Os impostos específicos do sector de transportes.
+
+2 - Gestão comercial e financeira da empresa:
+
+2.1 - Os custos:
+
+O cálculo de custos. As técnicas utilizáveis e de uso mais corrente;
+
+Noções de centro de custos;
+
+A relação custos/tarifas;
+
+2.2 - Noções gerais sobre contabilidade;
+
+2.3 - Gestão comercial:
+
+Os principais documentos comerciais;
+
+Técnica comercial da empresa;
+
+A clientela;
+
+Os preços;
+
+2.4 - Gestão financeira:
+
+Análise do balanço e da conta de resultados;
+
+Noções básicas de gestão de tesouraria;
+
+Política de investimentos;
+
+Modos de financiamento da exploração;
+
+Relacionamento com o sistema bancário.
+
+3 - Regulamentação da actividade transportadora:
+
+O acesso à profissão;
+
+O acesso ao mercado e sua organização.
+
+4 - Normas técnicas e de exploração dos veículos:
+
+4.1 - Normas técnicas e formalidades:
+
+Pesos e dimensões dos veículos;
+
+Classificação dos veículos automóveis;
+
+Registo, matrícula e inspecção;
+
+4.2 - Normas de exploração:
+
+Escolha de um veículo;
+
+Dimensionamento e adaptação da frota;
+
+Conservação e manutenção dos veículos e princípios aplicáveis em matéria de protecção do ambiente;
+
+Transporte de produtos alimentares perecíveis.
+
+5 - Segurança rodoviária:
+
+Regras gerais de circulação;
+
+Manobras perigosas e respectivas sanções;
+
+Condução sob o efeito do álcool: suas implicações legais;
+
+Segurança na estrada;
+
+Prevenção dos acidentes. Procedimentos em caso de acidente rodoviário;
+
+Seguro de responsabilidade civil automóvel;
+
+Transporte de mercadorias perigosas.

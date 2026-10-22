@@ -1,0 +1,194 @@
+---
+schema_version: '1.0'
+id: pt:dre:477112:por
+title: Declaração de Rectificação n.º 47/91
+short_title: null
+summary: De ter sido rectificada a Portaria n.º 11/91, do Ministério da Defesa Nacional, que aprova o Regulamento da Academia
+  da Força Aérea (AFA), publicada no Diário da República, 1.ª série, n.º 3, de 4 de Janeiro de 1991
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Presidência do Conselho de Ministros - Secretaria-Geral
+proposing_entity: null
+official_number: 47/91
+official_date: null
+publication_date: '1991-03-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 74/1991, 2º Suplemento, Série I-B de 1991-03-30
+  number: '74'
+  series: I
+  supplement: 2º Suplemento
+  pages: 1622-(9) a 1622-(10)
+  pdf_url: https://files.diariodarepublica.pt/1s/1991/03/074b02/00090010.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declrectif/47/1991/03/30/p/dre/pt/html
+  oj: null
+  dre: '477112'
+  dre_path: /dr/detalhe/declaracao-rectificacao/47-1991-477112
+  internal: pt:dre:477112:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-1991-477112
+  metadata_url: https://data.dre.pt/eli/declrectif/47/1991/03/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/47-1991-477112
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-01-31T00:00:00Z'
+integrity:
+  source_sha256: b3918ad6f30b560ce8402f2b1d856c7556f38d1b3c4e0de56eaf74dc47363704
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1991/DRE-1991-47-477112.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Academia da Força Aérea
+- Força Aérea
+- Forças Armadas
+- Regulamento
+relationships:
+- type: amended_by
+  target: pt:dre:570726:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/11/1991/01/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/11/1991/01/04/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Rectificação n.º 47/91
+
+Segundo comunicação do Ministério da Defesa Nacional, a [Portaria n.º 11/91](https://diariodarepublica.pt/dr/detalhe/portaria/11-1991-662483), publicada no Diário da República, 1.ª série, n.º 3, de 4 de Janeiro de 1991, cujo original se encontra arquivado nesta Secretaria-Geral, saiu com as seguintes inexactidões, que assim se rectificam:
+
+No n.º 2 do artigo 11.º, onde se lê «do artigo anterior.» deve ler-se «do número anterior.».
+
+No artigo 38.º, onde se lê «complementares de informação.» deve ler-se «complementares de formação.».
+
+Na alínea r) do n.º 2 do artigo 47.º, onde se lê «por este Regulamento, assim como a do RDM.» deve ler-se «por este Regulamento.».
+
+No n.º 1 do artigo 50.º, onde se lê «O CAL é comandado» deve ler-se «O GAL é comandado».
+
+Na alínea a) do n.º 2 do artigo 50.º, onde se lê «o comandante do GAL» deve ler-se «o comandante do CAL».
+
+Na alínea f) do n.º 2 do artigo 50.º, onde se lê «Passar revista aos grupos de alunos» deve ler-se «Passar revista ao grupo de alunos».
+
+Na alínea e) do n.º 3 do artigo 52.º, onde se lê «informando-as, nos termos estabelecidos;» deve ler-se «informando-as nos termos estabelecidos;».
+
+No n.º 1 do artigo 53.º, onde se lê «no início de cada ano lectivo» deve ler-se «no início de cada ano lectivo,».
+
+Na alínea b) do artigo 56.º, onde se lê «e a actualização dos programas normais,» deve ler-se «e a actualização dos programas, normas,».
+
+No artigo 66.º, onde se lê «Art. 66.º - 1 - O chefe do DAA» deve ler-se «Art. 66.º O chefe do DAA».
+
+No n.º 3 do artigo 72.º, onde se lê «desempenho de funções do GACE,» deve ler-se «desempenho de funções no GACE,».
+
+No artigo 77.º, onde se lê «O GAP é constituído por:» deve ler-se «O GAP é composto por:».
+
+No n.º 2 do artigo 80.º, onde se lê «As esquadras do CAP articulam-se» deve ler-se «As esquadras do GAP articulam-se».
+
+Na alínea b) do n.º 1 do artigo 82.º, onde se lê «no âmbito de cada uma das armas e serviços do exército;» deve ler-se «no âmbito de cada uma das armas e serviços da Força Aérea;».
+
+No artigo 102.º, onde se lê «1 - O corpo docente é constituído [...] e a instrução na AFA, com:» deve ler-se «O corpo docente é constituído [...] e a instrução na AFA, como:».
+
+No n.º 1 do artigo 105.º, onde se lê «nos termos do artigo 103.º e em regime [...] no n.º 2 do artigo 110.º e no n.º 3 do artigo 113.º» deve ler-se «nos termos do n.º 2 do artigo 106.º e em regime [...] no n.º 3 do artigo 109.º e no n.º 2 do artigo 107.º».
+
+No n.º 1 do artigo 108.º, onde se lê «referidas no n.º 4 do artigo 117.º» deve ler-se «referidas no n.º 4 do artigo 106.º».
+
+No n.º 1 do artigo 110.º, onde se lê «o exercício das funções a desempenhar,» deve ler-se «o exercício das funções a desempenhar».
+
+No n.º 5 do artigo 115.º, onde se lê «por conveniênica urgente de serviço.» deve ler-se «por conveniência urgente de serviço.».
+
+Na alínea a) do artigo 116.º, onde se lê «Denúncia por qualquer» deve ler-se «Denúncia, por qualquer».
+
+Na alínea b) do artigo 116.º, onde se lê «Rescisão por parte do contratado,» deve ler-se «Rescisão, por parte do contratado,».
+
+Na alínea c) do artigo 116.º, onde se lê «Rescisão por parte do comandante,» deve ler-se «Rescisão, por parte do comandante,».
+
+No n.º 2 do artigo 126.º, onde se lê «esta comissão dirige,» deve ler-se «Esta comissão dirige,».
+
+No n.º 4 do artigo 131.º, onde se lê: «decrescente do númeo de curso,» deve ler-se «decrescente do número de curso,».
+
+No n.º 8 do artigo 131.º, onde se lê «a aspirante a oficial» deve ler-se «a aspirante a oficial,».
+
+Na alínea a) do artigo 137.º, onde se lê «forças armadas portuguesas;» deve ler-se «Forças Armadas Portuguesas;».
+
+Na alínea c) do artigo 140.º, onde se lê «Abono e suplementos,» deve ler-se «Abonos e suplementos,».
+
+No n.º 1 do artigo 144.º, onde se lê «ramos das forças armadas» deve ler-se «ramos das Forças Armadas».
+
+No n.º 2 do artigo 151.º, onde se lê «publicada na Ordem da Força Aérea» deve ler-se «publicada na Ordem à Força Aérea».
+
+Na alínea d) do artigo 162.º, onde se lê «e comandantes da esquadra» deve ler-se «e comandantes das esquadras».
+
+Na alínea f) do artigo 162.º, onde se lê «coronel ou tenente-coronel, major» deve ler-se «coronel ou tenente-coronel, ou major».
+
+No artigo 164.º, onde se lê «aprovado pelo EMFA,» deve ler-se «aprovado pelo CEMFA,».
+
+No n.º 1 do artigo 169.º, onde se lê «e regressam à situação que tinham no momento da admissão à AFA.» deve ler-se «e regressam à situação anterior nos moldes previstos no EAFA.».
+
+No n.º 3 do artigo 169.º, onde se lê «sujeitos ao comprimento das obrigações militares [...] para efeitos de comprimento do serviço efectivo normal,» deve ler-se «sujeitos ao cumprimento das obrigações militares [...] para efeitos de cumprimento do serviço efectivo normal,».
+
+No n.º 1 do artigo 174.º, onde se lê «aberto a civis e a militares, em serviço» deve ler-se «aberto a civis e a militares em serviço».
+
+Na alínea c) do n.º 2 do artigo 174.º, onde se lê «ter idade não superior» deve ler-se «Ter idade não superior».
+
+No n.º 1.1 do anexo B, onde se lê «no artigo 117.º deste Regulamento:» deve ler-se «no artigo 106.º deste Regulamento:».
+
+No n.º 3.1 do anexo B, onde se lê «nas ordens de serviço do» deve ler-se «nas Ordens de Serviço do».
+
+Na alínea b) do n.º 4 do anexo B, onde se lê «função de professor, assistente ou exercício da função de professor, assistente ou instrutor.» deve ler-se «função de professor, assistente ou instrutor da disciplina ou grupo de disciplinas postas a concurso, respectivamente de acordo com o disposto nos artigos 17.º,».
+
+No n.º 8.1 do anexo B, onde se lê «abertura do concurso,» deve ler-se «abertura de concurso».
+
+No n.º 8.2 do anexo B, onde se lê «por pate» deve ler-se «por parte».
+
+No n.º 10.3 do anexo B, onde se lê «As decisões dop júri» deve ler-se «As decisões do júri».
+
+No n.º 10.7 do anexo B, onde se lê «e nas ordens de serviço» deve ler-se «e nas Ordens de Serviço».
+
+No n.º 13 do anexo B deve ser eliminado o conteúdo do n.º 13.2 e ser considerado sob este número o teor do n.º 13.3.
+
+No n.º 14 do anexo B deve ser acrescentado um n.º 14.10, com a seguinte redacção:
+
+Da decisão referida no número anterior é dado conhecimento imediato aos candidatos.
+
+Na alínea h) do n.º 2 do anexo C, onde se lê «g) e h)» deve ler-se «f) e g)».
+
+Secretaria-Geral da Presidência do Conselho de Ministros, 18 de Março de 1991. - O Secretário-Geral, França Martins.

@@ -1,0 +1,452 @@
+---
+schema_version: '1.0'
+id: pt:dre:179483:por
+title: Portaria n.º 913-I/2003
+short_title: null
+summary: Consagra o novo sistema de taxas de supervisão do mercado de valores mobiliários
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 913-I/2003
+official_date: null
+publication_date: '2003-08-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 200/2003, 4º Suplemento, Série I-B de 2003-08-30
+  number: '200'
+  series: I
+  supplement: 4º Suplemento
+  pages: 5752-(80) a 5752-(81)
+  pdf_url: https://files.diariodarepublica.pt/1s/2003/08/200b04/00800081.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2022-02-01'
+version_history:
+  file: portaria-913-i-2003.versoes.json
+  count: 5
+  source_lastmod: '2025-01-29'
+  versions:
+  - date: '2003-08-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-10-01'
+    amending: pt:dre:1652974:por
+    amending_title: Portaria n.º 1018/2004 (2.ª série) - 2.ª Série
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2005-09-01'
+    amending: pt:dre:245168:por
+    amending_title: Portaria n.º 712/2005
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2017-01-01'
+    amending: pt:dre:105658693:por
+    amending_title: Portaria n.º 342-B/2016
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Artigo 4.º-A
+    - Adita Artigo 5.º-A
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Adita Artigo 6.º-C
+    - Adita Artigo 6.º-D
+    - Adita Artigo 6.º-E
+    - Adita Artigo 6.º-F
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+  - date: '2022-02-01'
+    amending: pt:dre:178394354:por
+    amending_title: Portaria n.º 60/2022
+    changes:
+    - Altera Artigo 3.º
+    - Altera Artigo 6.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/913-i/2003/p/cons/20220131/pt/html
+  oj: null
+  dre: '179483'
+  dre_path: /dr/detalhe/portaria/913-i-2003-179483
+  internal: pt:dre:179483:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/913-i-2003-179483
+  metadata_url: https://data.dre.pt/eli/port/913-i/2003/p/cons/20220131/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-178391330
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-178391330
+  retrieved_at: '2026-10-22T13:22:31Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2025-01-29T00:00:00Z'
+integrity:
+  source_sha256: 80eda3ee4768bf08508b24ca40279d59579940adf84abb1a516497e7da5ec132
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:22:31Z'
+  notes: 5 versão(ões); histórico completo em portaria-913-i-2003.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Valores Mobiliários
+- Estatuto
+- Mercado de Capitais
+- Mercado de Valores
+- Operações de Bolsa
+- CMVM
+- TAXA de Realização de Operações
+relationships:
+- type: amended_by
+  target: pt:dre:1652974:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/1018-2004-1652974
+  date: '2004-09-17'
+- type: amended_by
+  target: pt:dre:245168:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/712-2005-245168
+  date: '2005-08-25'
+- type: amended_by
+  target: pt:dre:105658693:por
+  label: Adita Artigo 3.º-A; Adita Artigo 4.º-A; Adita Artigo 5.º-A; Adita Artigo 6.º-A; Adita Artigo 6.º-B; Adita Artigo
+    6.º-C; Adita Artigo 6.º-D; Adita Artigo 6.º-E; Adita Artigo 6.º-F; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo
+    3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693
+  date: '2016-12-29'
+- type: amended_by
+  target: pt:dre:178394354:por
+  label: Altera Artigo 3.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/portaria/60-2022-178394354
+  date: '2022-01-31'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/183/2003/08/19/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/183/2003/08/19/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/473/1999/11/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/473/1999/11/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1303/2001/11/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1303/2001/11/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/323/2002/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/323/2002/03/27/p/dre
+article_structure:
+  article_count: 18
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:22:31Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 913-I/2003
+
+Portaria n.º 913-I/2003
+
+de 30 de Agosto
+
+Na sequência do Decreto-Lei n.º 183/2003, de 19 de Agosto, que alterou o Estatuto da Comissão do Mercado de Valores Mobiliários (CMVM), aprovado pelo Decreto-Lei n.º 473/99, de 8 de Novembro, a presente portaria consagra o novo sistema de taxas de supervisão do mercado de valores mobiliários.
+
+Tendo em vista, nomeadamente, tornar o novo sistema de taxas de supervisão mais conforme aos princípios do «utilizador-pagador» e da equidade, são eliminadas as taxas sobre as operações realizadas em bolsa, noutros mercados regulamentados e fora deles e criadas taxas de supervisão contínua: (i) dos mercados e dos sistemas centralizados, de compensação e de liquidação de valores mobiliários e das respectivas entidades gestoras, (ii) dos mercados não regulamentados e das respectivas entidades gestoras e (iii) dos intermediários financeiros.
+
+As taxas de supervisão contínua dos mercados regulamentados, dos sistemas centralizados, de compensação e liquidação de valores mobiliários e das respectivas entidades gestoras são taxas fixas. A taxa devida pelas entidades gestoras de mercados não regulamentados incide apenas sobre o montante das respectivas comissões provenientes das operações realizadas nesses mercados sobre acções admitidas aos mercados de bolsa ou outros mercados regulamentados. Por seu turno, a taxa sobre as instituições de crédito, sociedades financeiras de corretagem ou sociedades corretoras é calculada com base no montante correspondente aos valores mobiliários registados ou depositados em contas abertas nessas instituições, ficando, no entanto, a respectiva colecta sujeita a um limite mínimo e a um valor máximo.
+
+Por sua vez, as taxas de supervisão contínua das instituições de investimento colectivo, da comercialização de participações em instituições de investimento colectivo estrangeiras e da gestão individual de carteiras mantêm-se, no essencial, inalteradas, procedendo-se apenas a ligeiras modificações pontuais e à actualização de alguns dos seus valores. Sublinhe-se, no entanto, que passam a estar isentos da respectiva taxa de supervisão contínua, durante o semestre subsequente à data de início da respectiva colocação à subscrição, os fundos abertos de tesouraria, do mercado monetário e de investimento mobiliário.
+
+Nestes termos, a estrutura de taxas estabelecida pela presente portaria, tendo como base uniforme o carácter contínuo dos serviços de supervisão da CMVM, incidindo sobre os destinatários directos desses serviços e deixando de onerar as transacções, constituirá, certamente, um contributo significativo para a dinamização do mercado de valores mobiliários nacional.
+
+Foram ouvidas a Associação Portuguesa de Bancos, a Associação Portuguesa de Sociedades Corretoras e Financeiras de Corretagem, a Associação Portuguesa das Sociedades Gestoras de Patrimónios e de Fundos de Investimento, a Euronext Lisbon - Sociedade Gestora de Mercados Regulamentados, S. A., e a OPEX - Sociedade Gestora de Mercado de Valores Mobiliários não Regulamentado, S. A.
+
+Assim, ao abrigo do disposto nas alíneas c) e d) do n.º 2 e no n.º 3 do artigo 25.º-A do Estatuto da CMVM, aprovado pelo Decreto-Lei n.º 473/99, de 8 de Novembro, e sob proposta da CMVM:
+
+Manda o Governo, pela Ministra de Estado e das Finanças, o seguinte:
+
+###### Artigo 1.º — Serviços de supervisão contínua de plataformas de negociação e de prestadores de serviços de comunicação de dados de negociação
+
+É devida à CMVM, por cada entidade que gira uma plataforma de negociação, um mercado regulamentado, um sistema de negociação multilateral ou organizado ou que preste serviços de comunicação de dados de negociação, uma taxa mensal, pela sua supervisão contínua e do mercado ou sistema por si gerido, no valor de:
+
+a) 0,002 % do volume negociado no mês anterior, não podendo a coleta ser inferior a (euro) 1 500 nem superior a (euro) 40 000, quando se trate de plataforma de negociação de mercado regulamentado, sistema de negociação multilateral ou organizado;
+
+b) (euro) 1 500, quando de trate de sistema de publicação autorizado;
+
+c) (euro) 3 000, quando de trate de sistema de reporte autorizado;
+
+d) (euro) 5 000, quando de trate de sistema de prestação de informação consolidada.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a [Portaria n.º 712/2005 - Diário da República n.º 163/2005, Série I-B de 2005-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/712-2005-245168), em vigor a partir de 2005-09-01
+
+> Alterado pelo/a [Portaria n.º 1018/2004 (2.ª série) - Diário da República n.º 220/2004, Série II de 2004-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/1018-2004-1652974), em vigor a partir de 2004-10-01
+
+###### Artigo 2.º — Serviços de supervisão contínua de sistemas centralizados de valores mobiliários, sistemas de liquidação, câmaras de compensação e contrapartes centrais
+
+1 - É devida à CMVM, por cada entidade que gira um sistema centralizado de valores mobiliários ou um sistema de liquidação, uma taxa mensal, pela sua supervisão contínua e do sistema por si gerido, no valor de:
+
+a) 0,00019 % do montante liquidado no mês anterior, não podendo a coleta ser inferior a (euro) 1 500 nem superior a (euro) 7 500, quando se trate de sistema de liquidação;
+
+b) 0,000019 % do montante das emissões que se encontram integradas no sistema no último dia de cada mês:
+
+i) Valorizadas com base na última cotação de fecho disponível, e
+
+ii) No caso das emissões representativas de dívida e valores não cotados, valorizadas tendo por base o valor nominal, não podendo a coleta ser inferior a (euro) 45 000 nem superior a (euro) 60 000, quando se trate de sistema centralizado de valores mobiliários.
+
+2 - É devida à CMVM, por cada entidade que atue em Portugal como contraparte central, mesmo que não autorizada em Portugal, uma taxa mensal, pela sua supervisão contínua e dos serviços por si prestados, no valor de 0,00025 % do volume por si compensado no mês anterior, não podendo a coleta ser inferior a (euro) 1 500 nem superior a (euro) 13 000.
+
+3 - É devida à CMVM, por cada entidade que atue em Portugal como câmara de compensação, mesmo que não registada em Portugal, uma taxa mensal, pela sua supervisão contínua e dos serviços por si prestados, no valor de 0,000025 % do volume por si compensado no mês anterior, não podendo a coleta ser inferior a (euro) 1 500 nem superior a (euro) 13 000.
+
+4 - A entidade que gira mais do que um dos sistemas identificados no n.º 1 ou que, simultaneamente, gira um sistema e atue como câmara de compensação ou contraparte central nos termos dos n.os 2 e 3, fica apenas sujeita ao pagamento da taxa mais elevada entre as previstas nos números anteriores.
+
+5 - O disposto na alínea b) do n.º 1 não se aplica aos sistemas centralizados de unidades de participação geridos pelos depositários.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a [Portaria n.º 712/2005 - Diário da República n.º 163/2005, Série I-B de 2005-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/712-2005-245168), em vigor a partir de 2005-09-01
+
+> Alterado pelo/a [Portaria n.º 1018/2004 (2.ª série) - Diário da República n.º 220/2004, Série II de 2004-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/1018-2004-1652974), em vigor a partir de 2004-10-01
+
+###### Artigo 3.º — Serviços de supervisão contínua de intermediários financeiros
+
+1 - É devida à CMVM, por cada intermediário financeiro habilitado a prestar o serviço de registo e depósito de instrumentos financeiros, uma taxa mensal, pela sua supervisão contínua, que incide sobre o montante correspondente aos valores mobiliários registados ou depositados em contas abertas junto do mesmo no último dia de cada mês, calculada de acordo com a seguinte fórmula, não podendo a coleta ser superior a (euro) 37 500 nem inferior a (euro) 750:
+
+Montante total da coleta = f(x) = N/[1 + A x b (elevado a - (1 + x) (elevado a c))]
+
+em que:
+
+A = 49;
+
+N = 37 500;
+
+b = 1,0000011;
+
+c = 0,6975;
+
+x = montante correspondente aos valores mobiliários registados ou depositados em contas abertas no último dia de cada mês.
+
+2 - A taxa prevista no número anterior é igualmente devida, pelo montante mínimo nele fixado, por cada intermediário financeiro que:
+
+a) Não esteja habilitado a prestar o serviço de registo e depósito de instrumentos financeiros; ou
+
+b) Esteja habilitado a prestar o serviço de registo e depósito de instrumentos financeiros mas não tenha valores mobiliários registados ou depositados em contas abertas junto de si.
+
+3 - As taxas previstas nos números anteriores são ainda devidas por cada intermediário financeiro estrangeiro que atue através de sucursal estabelecida em território nacional.
+
+4 - O disposto nos n.os 2 e 3 não se aplica aos intermediários financeiros que:
+
+a) Apenas estejam habilitados a exercer uma ou mais das seguintes atividades de investimento, em exclusivo ou em conjunto com a atividade de receção e transmissão de ordens, por conta de outrem, relativas a um ou mais instrumentos financeiros:
+
+i) Gestão de sistemas de negociação multilaterais;
+
+ii) Gestão de sistemas de negociação organizados;
+
+iii) Gestão de carteiras por conta de outrem;
+
+iv) Consultoria para investimento; e
+
+b) Não estejam habilitados a prestar qualquer serviço auxiliar de investimento, exceto os serviços previstos nas alíneas c), d) e g) do artigo 291.º do Código dos Valores Mobiliários.
+
+5 - As taxas previstas no presente artigo são devidas pelos intermediários financeiros a elas sujeitos a partir:
+
+a) Do final do terceiro mês posterior ao da data da concessão da autorização ou do registo para o exercício da atividade;
+
+b) Do momento em que se encontrem habilitados a exercer a atividade quando a autorização ou registo resulte da conversão ou qualquer outra forma de aproveitamento de anteriores atos permissivos do exercício da atividade por entidades preexistentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 60/2022 - Diário da República n.º 21/2022, Série I de 2022-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/60-2022-178394354), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+> Alterado pelo/a [Portaria n.º 712/2005 - Diário da República n.º 163/2005, Série I-B de 2005-08-25](https://diariodarepublica.pt/dr/detalhe/portaria/712-2005-245168), em vigor a partir de 2005-09-01
+
+> Alterado pelo/a [Portaria n.º 1018/2004 (2.ª série) - Diário da República n.º 220/2004, Série II de 2004-09-17](https://diariodarepublica.pt/dr/detalhe/portaria/1018-2004-1652974), em vigor a partir de 2004-10-01
+
+###### Artigo 3.º-A — Serviços de supervisão contínua da atividade de comercialização de bens ou serviços afetos ao investimento em bens corpóreos
+
+É devida à CMVM, por cada sociedade que comercialize em Portugal, com caráter profissional, bens ou serviços afetos ao investimento em bens corpóreos, uma taxa semestral, pela sua supervisão contínua, no valor de (euro) 750.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 4.º — Serviços de supervisão contínua de organismos de investimento coletivo
+
+1 - É devida à CMVM, por cada entidade que gira organismo de investimento coletivo (OIC) em valores mobiliários, uma taxa mensal, pela supervisão contínua dos OIC em valores mobiliários por si geridos, no valor de 0,012(por mil), que incide sobre o valor líquido global, no último dia de cada mês, de cada um dos OIC geridos pela mesma, não podendo a coleta ser inferior a (euro) 100 nem superior a (euro) 12 500.
+
+2 - É devida à CMVM, por cada entidade que gira organismo de investimento alternativo (OIA), uma taxa mensal, pela supervisão contínua dos OIA por si geridos, no valor de 0,026(por mil), que incide sobre o valor líquido global, no último dia de cada mês, de cada um dos OIA geridos pela mesma, não podendo a coleta ser inferior a (euro) 200 nem superior a (euro) 20 000.
+
+3 - É devida à CMVM, por cada entidade que gira OIC do mercado monetário ou do mercado monetário de curto prazo, uma taxa mensal, pela supervisão contínua dos OIC do mercado monetário ou do mercado monetário de curto prazo por si geridos, no valor de 0,0067(por mil), que incide sobre o valor líquido global, no último dia de cada mês, de cada um dos OIC geridos pela mesma, não podendo a coleta ser inferior a (euro) 100 nem superior a (euro) 12 500.
+
+4 - É devida à CMVM, por cada entidade que gira fundos de titularização de créditos, uma taxa semestral, pela supervisão contínua das instituições de investimento coletivo por si geridas, no valor de 0,0402(por mil), que incide sobre o valor líquido global, no último dia de cada semestre, de cada um dos fundos de titularização de créditos geridos pela mesma, não podendo a coleta ser inferior a (euro) 600 nem superior a (euro) 60 000.
+
+5 - É devida à CMVM, por cada entidade que gira organismo de investimento de capital de risco, empreendedorismo social ou investimento alternativo especializado, uma taxa semestral, pela supervisão contínua dos OIC por si geridos, no valor de 0,072(por mil), que incide sobre o valor líquido global, no último dia de cada semestre, de cada um dos OIC geridos pela mesma, não podendo a coleta ser inferior a (euro) 600 nem superior a (euro) 60 000.
+
+6 - Nos casos em que não haja apuramento do valor líquido global correspondente ao último dia do período de referência, a taxa a que se refere o número anterior incide sobre o mais recente valor líquido global apurado antes daquela data.
+
+7 - Para efeitos do presente artigo, a referência a OIC deve considerar-se feita aos respetivos compartimentos autónomos, quando existam.
+
+8 - As taxas previstas no presente artigo são ainda devidas pelas entidades gestoras de países terceiros autorizadas em Portugal quanto aos OIC constituídos e geridos em Portugal.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 4.º-A — Serviços de supervisão contínua de sociedades de titularização de créditos, capital de risco e empreendedorismo social
+
+1 - É devida à CMVM uma taxa semestral, pela supervisão contínua das respetivas entidades, no valor de:
+
+a) 0,0402(por mil), pelas sociedades de titularização de créditos, que incide sobre o montante emitido e não amortizado de obrigações titularizadas correspondente ao do último dia de cada semestre, não podendo a coleta ser inferior a (euro) 600 nem superior a (euro) 60 000;
+
+b) 0,072(por mil), pelas sociedades de capital de risco, que incide sobre o valor das participações de capital de risco detidas correspondente ao do último dia de cada semestre, não podendo a coleta ser inferior a (euro) 600 nem superior a (euro) 60 000;
+
+c) 0,072(por mil), pelas sociedades de empreendedorismo social, que incide sobre o valor das participações em empreendedorismo social detidas, correspondente ao do último dia de cada semestre, não podendo a coleta ser inferior a (euro) 600 nem superior a (euro) 60 000.
+
+2 - As sociedades de capital de risco que não possuam participações de capital de risco e as sociedades de empreendedorismo social que não possuam participações em empreendedorismo social ficam sujeitas ao pagamento do valor mínimo fixado, respetivamente, nas alíneas b) e c) do número anterior.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 5.º — Serviços de supervisão contínua da comercialização de participações de OIC estrangeiro e de unidades de participação de fundos de pensões abertos de adesão individual
+
+1 - É devida à CMVM, por cada entidade comercializadora em Portugal, uma taxa mensal, pela supervisão contínua da comercialização de cada OIC domiciliado fora do território nacional, no valor de (euro) 125.
+
+2 - É devida à CMVM, por cada entidade comercializadora de unidades de participação de fundos de pensões abertos de adesão individual, uma taxa semestral, pela supervisão contínua da comercialização por si realizada, no valor de (euro) 600.
+
+3 - Para efeitos do número anterior, considera-se entidade comercializadora a entidade responsável pela gestão do fundo, a instituição de crédito e a sociedade financeira que atue como mediador.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 5.º-A — Serviços de supervisão contínua da atividade dos peritos avaliadores de imóveis
+
+1 - É devida à CMVM, por cada perito avaliador de imóveis registado na CMVM, pessoa coletiva ou singular, uma taxa anual, pela supervisão contínua dos serviços por si prestados, no valor de:
+
+a) (euro) 600, quando o valor total das avaliações imobiliárias realizadas no ano anterior seja superior a (euro) 20 000 000;
+
+b) (euro) 300, quando o valor total das avaliações imobiliárias realizadas no ano anterior seja igual ou inferior a (euro) 20 000 000.
+
+2 - Para efeitos do disposto no número anterior, quando o perito avaliador de imóveis for pessoa singular, não são consideradas no cômputo do valor total as avaliações imobiliárias realizadas em nome e por conta de perito avaliador de imóveis que seja pessoa coletiva.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 6.º — Serviços de supervisão contínua da gestão individual de carteiras
+
+1 - É devida à CMVM, por cada entidade habilitada a prestar o serviço de gestão individual de carteiras, que incluam instrumentos financeiros, por conta de outrem, uma taxa mensal, pela sua supervisão contínua, no valor de 0,01(por mil), que incide sobre o valor total administrado no último dia de cada mês, não podendo a coleta ser inferior a (euro) 250 nem superior a (euro) 25 000.
+
+2 - A taxa prevista no presente artigo é devida pelas entidades a elas sujeitas a partir:
+
+a) Do final do terceiro mês posterior ao da data da concessão da autorização ou do registo para o exercício da atividade de gestão individual de carteiras por conta de outrem;
+
+b) Do momento em que se encontrem habilitadas a exercer a atividade quando a autorização ou registo resulte da conversão ou qualquer outra forma de aproveitamento de anteriores atos permissivos do exercício da atividade por entidades preexistentes.
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 60/2022 - Diário da República n.º 21/2022, Série I de 2022-01-31](https://diariodarepublica.pt/dr/detalhe/portaria/60-2022-178394354), em vigor a partir de 2022-02-01
+
+> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 6.º-A — Serviços de supervisão contínua da atividade de consultoria para investimento
+
+É devida à CMVM, por cada entidade que exerça atividade de consultoria para investimento, pessoa coletiva ou singular, para atuação em nome próprio ou de terceiros, uma taxa anual, pela supervisão contínua dos serviços por si prestados, no valor de (euro) 100, por consultor registado ou averbado.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 6.º-B — Serviços de supervisão contínua da informação prestada por emitentes ao mercado
+
+1 - É devida à CMVM, por cada emitente de valores mobiliários admitidos à negociação em mercado regulamentado, uma taxa trimestral, pela supervisão contínua da prestação de informação ao mercado, no valor de:
+
+a) (euro) 1 500, quando se trate de emitente de valores mobiliários representativos de capital com capitalização bolsista igual ou inferior a (euro) 500 000 000;
+
+b) (euro) 3 000, quando se trate de emitente de valores mobiliários representativos de capital com capitalização bolsista superior a (euro) 500 000 000 e igual ou inferior a (euro) 1000 000 000;
+
+c) (euro) 5 000, quando se trate de emitente de valores mobiliários representativos de capital com capitalização bolsista superior a (euro) 1 000 000 000;
+
+d) (euro) 750, quando se trate de emitente de valores mobiliários representativos de dívida com capitalização bolsista igual ou inferior a (euro) 100 000 000;
+
+e) (euro) 1 500, quando se trate de emitente de valores mobiliários representativos de dívida com capitalização bolsista superior a (euro) 100 000 000 e igual ou inferior a (euro) 1000 000 000;
+
+f) (euro) 2 500, quando se trate de emitente de valores mobiliários representativos de dívida com capitalização bolsista superior a (euro) 1 000 000 000;
+
+g) (euro) 1 500, quando se trate de emitente de outros valores mobiliários.
+
+2 - É devida à CMVM, por cada emitente de valores mobiliários admitidos à negociação em sistema de negociação multilateral ou organizada, uma taxa trimestral, pela supervisão contínua da prestação de informação ao mercado, no valor de (euro) 250.
+
+3 - É devida à CMVM, por cada emitente de valores mobiliários que tenha escolhido a CMVM como autoridade competente e que não tenha valores mobiliários admitidos à negociação em mercado regulamentado situado ou a funcionar em Portugal, uma taxa trimestral, pela supervisão contínua da prestação de informação ao mercado, no valor de (euro) 500.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 6.º-C — Serviços de supervisão contínua da informação prestada por contrapartes não financeiras em contratos de derivados OTC
+
+É devida à CMVM, por cada contraparte não financeira em contratos de derivados OTC, uma taxa semestral, pela supervisão contínua da prestação de informação, no valor de (euro) 250 ou (euro) 1 000, consoante a posição detida em contratos de derivados OTC, durante o semestre anterior, se situe abaixo ou acima do limiar de compensação, respetivamente.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 6.º-D — Serviços de supervisão contínua da atividade de gestão de plataformas de financiamento colaborativo
+
+É devida à CMVM, por cada entidade gestora de plataforma de financiamento colaborativo sujeita à supervisão da CMVM, uma taxa semestral, pela supervisão contínua da atividade por si exercida, no valor de (euro) 500 por cada plataforma de financiamento colaborativo.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 6.º-E — Serviços de supervisão contínua da atividade de comercialização de produtos financeiros complexos
+
+1 - É devida à CMVM, por cada entidade comercializadora de produtos financeiros complexos, independentemente da subscrição efetiva de produtos, uma taxa mensal, pela supervisão contínua da atividade por si exercida, no valor de:
+
+a) (euro) 250, quando a entidade mantenha entre 1 e 10 produtos financeiros complexos não amortizados;
+
+b) (euro) 500, quando a entidade mantenha entre 11 e 50 produtos financeiros complexos não amortizados;
+
+c) (euro) 1 000, quando a entidade mantenha mais do que 50 produtos financeiros complexos não amortizados.
+
+2 - Para efeitos do número anterior, no caso de produtos financeiros complexos que sejam contratos de seguro ou operações ligados a fundos de investimento, considera-se entidade comercializadora a empresa de seguros, a instituição de crédito e a sociedade financeira que atue como mediador de seguros.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 6.º-F — Serviços de supervisão contínua da atividade de analistas financeiros
+
+É devida à CMVM, por cada pessoa que produza ou divulgue recomendações de investimento, uma taxa anual, pela supervisão contínua da atividade por si exercida, no valor de (euro) 100.
+
+> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 342-B/2016 - Diário da República n.º 249/2016, 2º Suplemento, Série I de 2016-12-29](https://diariodarepublica.pt/dr/detalhe/portaria/342-b-2016-105658693), em vigor a partir de 2017-01-01
+
+###### Artigo 7.º — Liquidação e pagamento
+
+As regras e prazos de liquidação e pagamento das taxas previstas na presente portaria são estabelecidas por regulamento da CMVM.
+
+###### Artigo 8.º — Entrada em vigor
+
+A presente portaria entra em vigor em 1 de Setembro de 2003.
+
+###### Artigo 9.º — Disposição transitória
+
+1 - O produto das taxas sobre operações em mercados regulamentados e fora de mercado regulamentado que tenham sido liquidadas, nos termos dos artigos 1.º e 3.º da Portaria n.º 1303/2001, de 22 de Novembro, até ao final do mês de Agosto de 2003, são entregues à CMVM, pelas entidades referidas no artigo 4.º da mesma portaria, até ao dia 10 de Setembro de 2003.
+
+2 - As taxas a que se referem os artigos 2.º, 6.º, 7.º e 7.º-A da Portaria n.º 1303/2001, de 22 de Novembro, com as alterações introduzidas pela Portaria n.º 323/2002, de 27 de Março, respeitantes ao mês de Agosto de 2003, são pagas à CMVM, pelos respectivos devedores, até ao dia 10 de Setembro de 2003.
+
+3 - É suspensa, até ao dia 31 de Dezembro de 2003, a vigência do disposto no n.º 2.º da presente portaria, ficando, até essa data, as entidades gestoras de sistemas centralizados e de sistemas de compensação e de liquidação de valores mobiliários obrigadas ao pagamento de uma taxa mensal à CMVM no valor de 15% sobre as comissões por elas cobradas nessa qualidade, cuja liquidação e pagamento são efectuados até ao dia 10 do mês seguinte àquele a que respeitam.
+
+A Ministra de Estado e das Finanças, Maria Manuela Dias Ferreira Leite, em 29 de Agosto de 2003.

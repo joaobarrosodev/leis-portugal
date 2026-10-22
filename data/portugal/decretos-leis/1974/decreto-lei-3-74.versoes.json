@@ -1,0 +1,701 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:303114:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1974-34469075",
+ "dre_path": "/dr/detalhe/decreto-lei/3-1974-303114",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1974-01-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "51716975",
+    "51303975",
+    "51304075",
+    "51304175",
+    "51304275",
+    "51304375",
+    "51304475",
+    "51304575",
+    "51304675",
+    "51304775",
+    "51304875",
+    "51304975",
+    "51305075",
+    "51305175",
+    "51305275",
+    "51305375",
+    "51305475",
+    "51305575",
+    "51305675",
+    "51305775",
+    "51305875",
+    "51305975",
+    "51306075",
+    "51306175",
+    "51306275",
+    "51306375",
+    "51306475",
+    "51306575"
+   ]
+  },
+  {
+   "date": "1979-09-23",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:369838:por",
+     "title": "Lei n.º 61/79",
+     "published": "1979-09-18",
+     "dre_path": "/dr/detalhe/lei/61-1979-369838"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 19.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51704675",
+    "51303975",
+    "51304075",
+    "51304175",
+    "51304275",
+    "51304375",
+    "51304475",
+    "51304575",
+    "51304675",
+    "51304775",
+    "51304875",
+    "51304975",
+    "51305075",
+    "51305175",
+    "51305275",
+    "51305375",
+    "51305475",
+    "51305575",
+    "51305675",
+    "51704775",
+    "51305875",
+    "51305975",
+    "51306075",
+    "51306175",
+    "51306275",
+    "51306375",
+    "51306475",
+    "51306575",
+    "51306675"
+   ]
+  },
+  {
+   "date": "1984-05-21",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:661498:por",
+     "title": "Decreto-Lei n.º 58/84",
+     "published": "1984-02-21",
+     "dre_path": "/dr/detalhe/decreto-lei/58-1984-661498"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 22.º",
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 19.º"
+   ],
+   "fragments": [
+    "51706075",
+    "51303975",
+    "51706775",
+    "51707075",
+    "51707475",
+    "51707675",
+    "51707875",
+    "51304575",
+    "51304675",
+    "51708275",
+    "51304875",
+    "51304975",
+    "51305075",
+    "51708475",
+    "51305275",
+    "51305375",
+    "51305475",
+    "51708575",
+    "51305675",
+    "51706575",
+    "51305875",
+    "51305975",
+    "51708675",
+    "51306175",
+    "51306275",
+    "51306375",
+    "51306475",
+    "51306575",
+    "51306675"
+   ]
+  },
+  {
+   "date": "1993-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:437210:por",
+     "title": "Decreto-Lei n.º 117/92",
+     "published": "1992-06-22",
+     "dre_path": "/dr/detalhe/decreto-lei/117-1992-437210"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51709075",
+    "51303975",
+    "51706775",
+    "51707075",
+    "51707475",
+    "51707675",
+    "51707875",
+    "51304575",
+    "51304675",
+    "51708275",
+    "51304875",
+    "51304975",
+    "51305075",
+    "51708475",
+    "51305275",
+    "51305375",
+    "51305475",
+    "51708575",
+    "51305675",
+    "51706575",
+    "51305875",
+    "51305975",
+    "51708675",
+    "51306175",
+    "51306275",
+    "51306375",
+    "51306475",
+    "51306575",
+    "51306675"
+   ]
+  },
+  {
+   "date": "1999-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:421633:por",
+     "title": "Decreto-Lei n.º 376/97",
+     "published": "1997-12-24",
+     "dre_path": "/dr/detalhe/decreto-lei/376-1997-421633"
+    }
+   ],
+   "changes": [
+    "Entrada Vigor Diploma",
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "51714075",
+    "51303975",
+    "51706775",
+    "51707075",
+    "51707475",
+    "51707675",
+    "51714175",
+    "51304575",
+    "51304675",
+    "51708275",
+    "51304875",
+    "51304975",
+    "51305075",
+    "51708475",
+    "51305275",
+    "51305375",
+    "51305475",
+    "51708575",
+    "51305675",
+    "51706575",
+    "51305875",
+    "51305975",
+    "51708675",
+    "51306175",
+    "51306275",
+    "51306375",
+    "51306475",
+    "51306575",
+    "51306675"
+   ]
+  },
+  {
+   "date": "2000-01-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:321573:por",
+     "title": "Decreto-Lei n.º 178/99",
+     "published": "1999-05-21",
+     "dre_path": "/dr/detalhe/decreto-lei/178-1999-321573"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Entrada Vigor Diploma"
+   ],
+   "fragments": [
+    "51716975",
+    "51303975",
+    "51706775",
+    "51718375",
+    "51707475",
+    "51707675",
+    "51714175",
+    "51304575",
+    "51304675",
+    "51708275",
+    "51304875",
+    "51304975",
+    "51305075",
+    "51708475",
+    "51305275",
+    "51305375",
+    "51305475",
+    "51708575",
+    "51305675",
+    "51706575",
+    "51305875",
+    "51305975",
+    "51708675",
+    "51306175",
+    "51306275",
+    "51306375",
+    "51306475",
+    "51306575",
+    "51306675"
+   ]
+  }
+ ],
+ "fragments": {
+  "51716975": {
+   "fragment_id": "35088875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2000-01-12",
+   "changed_by": [],
+   "markdown": "1. No propósito de assegurar a necessária disciplina no importante sector das bebidas espirituosas, em relação ao qual apenas existiam escassas e dispersas disposições legais, impõe-se estabelecer, num diploma de base, os princípios fundamentais por que se devem reger o fabrico, preparação, armazenagem e comercialização de tais produtos, cujo consumo, aliás, tem aumentado notoriamente nos últimos anos.\n\n2. Em ligação com o fabrico e preparação destes produtos e pela interdependência dos sectores, incluíram-se igualmente no mesmo diploma disposições consideradas também fundamentais em relação a operações de fermentação e de destilação em geral.\n\n3. Constitui ainda razão premente para este diploma o facto de alguns produtos resultantes de operações de fermentação ou destilação, sem uma disciplina apropriada, poderem concorrer para a fraude de outros produtos cuja genuinidade importa assegurar por todos os meios.\n\n4. Assim, estabeleceu-se, a par de um regime repressivo dentro da orientação já definida pelo recente Decreto-Lei n.º 340/73, de 6 de Julho, um regime preventivo, através do qual se espera obter uma efectiva melhoria nas condições de produção e comercialização das bebidas abrangidas por este diploma.\n\n5. Houve também que considerar as implicações decorrentes da Convenção que criou a Associação Europeia do Comércio Livre (E. F. T. A.), a qual abrange certas bebidas espirituosas, relativamente às quais importa assegurar igualdade de tratamento entre as de produção nacional e as importadas.\n\nEm consequência, instituiu-se, para todo o conjunto das bebidas espirituosas, um regime tributário particular, que não só estabelece idêntico tratamento para as bebidas nacionais importadas, como permite caminhar no sentido da melhoria das condições técnicas e económicas da indústria de tais bebidas, por forma a esta poder enfrentar a concorrência estrangeira.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "51303975": {
+   "fragment_id": "36157375",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. O fabrico, preparação, armazenagem e comercialização das bebidas espirituosas, bem como a destilação de quaisquer substâncias que não seja objecto de regulamentação especial, regem-se pelo disposto no presente diploma.\n\n2. É também abrangida pelo presente diploma a fermentação de quaisquer substâncias que não seja objecto de regulamentação especial, bem como a armazenagem e comercialização dos produtos obtidos.\n\n3. Consideram-se bebidas espirituosas as caracterizadas essencialmente pela presença de álcool proveniente da destilação de produtos resultantes da fermentação alcoólica de matérias vegetais e que satisfaçam as condições legalmente estabelecidas."
+  },
+  "51304075": {
+   "fragment_id": "36157475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A fermentação alcoólica a partir de matérias-primas vegetais não directamente fermentescíveis e a destilação dos produtos alcoólicos resultantes poderão ser efectuadas com destino ao fabrico de bebidas espirituosas, mas apenas quando o sejam isoladamente em relação a cada produto e as referidas bebidas e seu fabrico se encontrem legalmente definidos.\n\n2. Fora dos casos a que se refere o número anterior, a fermentação alcoólica a partir de matérias vegetais não directamente fermentescíveis e a destilação dos produtos alcoólicos resultantes, isoladamente em relação a cada produto, em mistura entre si ou com vinhos, água-pé, bagaços ou quaisquer outros produtos susceptíveis de produzir aguardente ou álcool, só poderão ser efectuadas com destino a álcool industrial, por intermédio da Administração-Geral do Açúcar e do Álcool (A. G. A.), em regime de contas-correntes, quer quanto às matérias-primas utilizadas, quer quanto aos produtos obtidos.\n\n3. As borras de vinho em caso algum poderão ser utilizadas em operações de fermentação ou de destilação."
+  },
+  "51304175": {
+   "fragment_id": "36157575",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As actividades a que se referem os n.os 1 e 2 do artigo 1.º deste diploma só poderão ser exercidas por entidades e em instalações apropriadas que constem de registos especiais a cargo da Junta Nacional do Vinho (J. N. V.) ou da A. G. A., conforme se trate, respectivamente, de produtos vínicos e das bebidas fermentadas a que se refere o n.º 2 do artigo 1.º ou de bebidas espirituosas e outros produtos destilados não vínicos.\n\n2. Em portaria conjunta dos Secretários de Estado do Comércio e da Indústria serão estabelecidos os requisitos a que devem obedecer as entidades e as instalações, para efeitos do registo a que se refere o número anterior.\n\n3. Sem prejuízo da observância dos requisitos que vierem a ser fixados nos termos do número antecedente, deverá ser desde já efectuado, a pedido dos interessados, o registo provisório das entidades e instalações cuja actividade é abrangida por este decreto-lei, para o que os mesmos apresentarão documento comprovativo da vistoria e aprovação das instalações realizadas há menos de seis meses pela Direcção-Geral da Qualidade e Segurança Industriais ou documento comprovativo de que a mesma já foi requerida, quando haja lugar a essa vistoria.\n\n4. O pedido referido no número anterior deverá ser apresentado no prazo de sessenta dias a partir da publicação do presente diploma, sem o que não poderá continuar a ser exercida a respectiva actividade."
+  },
+  "51304275": {
+   "fragment_id": "36157675",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nConforme o fim a que se destinem os aparelhos ou instalações de destilação, a J. N. V. e a A. G. A., por decisão própria ou conjunta, poderão fixar os períodos de funcionamento dos mesmos e proceder à sua selagem fora desses períodos."
+  },
+  "51304375": {
+   "fragment_id": "36157775",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. O fabrico e laboração de bebidas espirituosas de origem não vínica, bem como a fermentação de substâncias diferentes da uva, não podem realizar-se nas mesmas instalações em que se fabriquem ou laborem produtos vínicos, nem por entidades que se dediquem ao fabrico ou ao comércio armazenista destes produtos.\n\n2. As bebidas aperitivas e medicinais preparadas com base no vinho e em que seja também empregado álcool estão sujeitas ao mesmo regime das bebidas espirituosas de origem não vínica, para o efeito estabelecido no número anterior."
+  },
+  "51304475": {
+   "fragment_id": "36157875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. As bebidas espirituosas e as bebidas fermentadas a que se refere o presente diploma só poderão ser vendidas ou expostas para venda no mercado interno quando acondicionadas em recipientes fechados de capacidade não superior a 1 l, devidamente rotulados e selados pela J. N. V. ou pela A. G. A., em conformidade com o disposto na parte final do n.º 1 do artigo 3.º deste diploma.\n\n2. O acondicionamento e a rotulagem a que se refere o número anterior deverão, no tocante às bebidas nacionais, ser efectuados pelos respectivos fabricantes ou preparadores.\n\n3. Em casos especiais e mediante prévia autorização da J. N. V. ou da A. G. A., conforme os casos, poderão ser utilizados recipientes de capacidade até 2 l.\n\n4. Os rótulos dos recipientes a que se refere este artigo deverão conter obrigatoriamente a designação do produto e respectivo volume, a sua graduação alcoólica, a indicação da entidade engarrafadora e, para as bebidas de origem estrangeira, a indicação do importador ou do distribuidor.\n\n5. Para as bebidas de origem nacional são obrigatórios o registo das respectivas marcas na Repartição da Propriedade Industrial e a aprovação dos diversos elementos da rotulagem pela J. N. V. ou pela A. G. A., conforme os casos."
+  },
+  "51304575": {
+   "fragment_id": "36157975",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O engarrafamento das bebidas espirituosas e das bebidas fermentadas abrangidas por este decreto-lei só poderá ser efectuado após a sua análise e prova pela J. N. V. ou pela A. G. A., conforme os casos, sem o que não será feita a selagem dos recipientes.\n\n2. Excepcionalmente, poderá ser autorizado o engarrafamento mediante aprovação prévia de amostras-padrão e fiscalização periódica dos produtos armazenados."
+  },
+  "51304675": {
+   "fragment_id": "36158075",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As bebidas estrangeiras, quando importadas em recipientes com a capacidade referida no artigo 6.º deste diploma, com graduação alcoólica e demais características próprias para consumo, a comprovar, quando for julgado conveniente, por análise, e que satisfaçam os outros requisitos estabelecidos no presente diploma, poderão desde logo ser seladas, em ligação com os serviços das alfândegas, pela J. N. V. ou pela A. G. A., conforme os casos.\n\n2. As bebidas espirituosas estrangeiras, quando importadas com graduação alcoólica superior à estabelecida legalmente para consumo, ou em recipientes que não satisfaçam os requisitos para tal venda, só poderão sair das alfândegas sob fiscalização, com destino a armazéns determinados, devendo as operações de diluição e engarrafamento ser efectuadas também sob fiscalização, conforme os casos, da J. N. V. ou da A. G. A., que só assim procederão à respectiva selagem."
+  },
+  "51304775": {
+   "fragment_id": "36158175",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAs instalações em que sejam fabricadas, preparadas ou engarrafadas as bebidas a que se refere este diploma, bem como aquelas em que sejam armazenadas as mesmas bebidas, álcool ou aguardentes de qualquer natureza, não contidos em recipientes selados, ficarão subordinadas a um registo de entradas, de saídas e das existências das matérias-primas utilizadas e dos produtos obtidos, na directa dependência e sob fiscalização da J. N. V. ou da A. G. A., conforme os casos."
+  },
+  "51304875": {
+   "fragment_id": "36158275",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA Direcção-Geral da Qualidade e Segurança Industriais deverá comunicar à J. N. V. e à A. G. A. os resultados das vistorias que efectuar relativamente às entidades e instalações abrangidas pelo disposto neste decreto-lei."
+  },
+  "51304975": {
+   "fragment_id": "36158375",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. Através dos selos a apor nos recipientes em que são vendidas no mercado interno as bebidas espirituosas, quer de origem estrangeira, quer de origem nacional, serão cobradas pelas entidades a que incumbe a selagem as seguintes taxas:\n\n(ver documento original)\n\n2. As taxas a que se refere o número anterior serão reduzidas a metade sempre que o preço de venda ao retalhista, sem o imposto de transacção, seja inferior a 50$00, 25$00, 12$50, 6$25 e 3$15, respectivamente para os recipientes de mais de 1 l a 2 l, de 0,6 l a 1 l, de menos de 0,6 l a 0,3 l, de menos de 0,3 l a 0,15 l e de menos de 0,15 l.\n\n3. As taxas a que se faz referência nos números anteriores serão facturadas em separado do preço dos produtos e ficam excluídas da incidência do imposto de transacções."
+  },
+  "51305075": {
+   "fragment_id": "36158475",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Do produto das taxas cobradas, a importância de 1$00 por recipiente de 0,6 l a 1 l, ou a proporcional para recipientes de outras capacidades, será arrecadada, conforme os casos, pela J. N. V. ou pela A. G. A.\n\n2. Da importância restante, constituirá receita do Estado:\n\na) A importância relativa aos produtos importados;\n\nb) A percentagem de 10% relativa aos produtos nacionais.\n\n3. O remanescente servirá para a constituição de fundos de compensação, a utilizar nos termos que vierem a ser aprovados em despacho dos Ministros das Finanças e da Economia, com vista à melhoria das condições técnicas e económicas da indústria de bebidas espirituosas."
+  },
+  "51305175": {
+   "fragment_id": "36158575",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os modelos dos selos a apor nos recipientes das bebidas abrangidas por este diploma e quaisquer instruções necessárias para a sua aplicação constarão de portaria do Secretário de Estado do Comércio.\n\n2. Através dos selos a que se refere o número anterior, a J. N. V. cobrará, relativamente às bebidas fermentadas, as taxas e outras imposições idênticas às que incidem sobre os produtos vínicos para cuja selagem seja necessária verificação."
+  },
+  "51305275": {
+   "fragment_id": "36158675",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nDa lista anexa ao Decreto-Lei n.º 86/70, de 7 de Março, são retirados os produtos abrangidos pelos artigos 22.09.05, 22.09.06, 22.09.07 e 22.09.08, os quais são introduzidos na lista anexa ao Decreto-Lei n.º 47958, de 25 de Setembro de 1967."
+  },
+  "51305375": {
+   "fragment_id": "36158775",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. O disposto no artigo 1.º do Decreto-Lei n.º 43717, de 30 de Maio de 1961, não é aplicável aos produtos abrangidos pelas posições pautais 22.03, 22.06 e 22.09.\n\n2. Os produtos a que se refere o número anterior, quando importados dos países membros da E. F. T. A., ficam isentos da taxa anualmente fixada para o Fundo de Socorro Social."
+  },
+  "51305475": {
+   "fragment_id": "36158875",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs produtos à venda no retalhista à data da publicação do presente diploma serão gratuitamente selados pelos organismos competentes, para o que os interessados deverão, relativamente a essa data, indicar, à J. N. V. ou à A. G. A., conforme os casos, no prazo de trinta dias, a contar da mesma data, o número de recipientes em seu poder."
+  },
+  "51305575": {
+   "fragment_id": "36158975",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. Nos estabelecimentos em que as bebidas abrangidas por este diploma sejam servidas ao público a copo ou noutras fracções, é obrigatória a existência de um ou mais recipientes intactos do mesmo produto e da mesma marca, sem o que as respectivas empresas ficarão responsáveis por eventuais infracções relativas aos produtos contidos em recipientes abertos.\n\n2. Os produtos contidos nos recipientes abertos têm de corresponder aos dos respectivos recipientes fechados, sendo as empresas referidas no número anterior responsáveis pela falta de correspondência."
+  },
+  "51305675": {
+   "fragment_id": "36159075",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs entidades que exerçam as actividades abrangidas por este decreto-lei ficam sujeitas à acção disciplinar da J. N. V. ou da A. G. A., conforme os casos, nos termos da parte final do n.º 1 do artigo 3.º, para efeitos do disposto no artigo 48.º do Decreto-Lei n.º 41204, de 24 de Julho de 1957."
+  },
+  "51305775": {
+   "fragment_id": "36159175",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nIndependentemente da punição disciplinar que ao caso couber, se outra pena mais elevada não for aplicável nos termos da lei geral ou especial, as infracções do presente decreto-lei são punidas pela forma prescrita nas alíneas seguintes:\n\na) Nos termos do artigo 17.º do Decreto-Lei n.º 41204, as infracções do disposto no artigo 2.º;\n\nb) Nos termos do artigo 3.º do Decreto-Lei n.º 340/73, de 6 de Julho, o exercício das actividades a que se referem os n.os 1 e 2 do artigo 1.º fora das condições prescritas nos artigos 3.º, 4.º e 5.º;\n\nc) Com a pena de multa de 10000$00 a 60000$00, as infracções do disposto nos artigos 6.º, 7.º, 8.º e 9.º, acrescendo a importância correspondente às taxas devidas quando, relativamente a essas infracções, se verificar também a falta de selagem dos recipientes;\n\nd) Com a pena de muita de 1000$00 a 10000$00 e a perda do produto, as infracções do disposto no artigo 17.º"
+  },
+  "51305875": {
+   "fragment_id": "36159275",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nAs disposições do Decreto-Lei n.º 41204 serão aplicáveis à instrução preparatória e julgamento das infracções a que se refere este diploma, bem como à graduação da responsabilidade dos seus agentes e ao destino das multas e dos produtos apreendidos."
+  },
+  "51305975": {
+   "fragment_id": "36159375",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. Sem prejuízo da competência genérica atribuída à Inspecção-Geral dos Produtos Agrícolas e Industriais e à Inspecção-Geral das Actividades Económicas, a fiscalização do disposto no presente diploma incumbe especialmente à J. N. V. ou à A. G. A., conforme os casos, nos termos do disposto na parte final do n.º 1 do artigo 3.º deste diploma.\n\n2. A J. N. V. e a A. G. A. têm competência para levantar autos de notícia relativamente às infracções do disposto neste decreto-lei, bem como os Grémios dos Armazenistas de Vinhos e do Comércio de Exportação de Vinhos e outros organismos vitivinícolas quanto às infracções de que tomem conhecimento no exercício da sua actividade.\n\n3. Os autos levantados pelos organismos referidos na parte final do número anterior deverão ser remetidos à J. N. V. e à A. G. A., conforme os casos, para o devido seguimento."
+  },
+  "51306075": {
+   "fragment_id": "36159475",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. A competência atribuída neste diploma à J. N. V. e à A. G. A. para assegurar o cumprimento das normas nele contidas poderá ser exercida isoladamente por cada uma destas entidades, conforme os casos, nos termos do n.º 1 do artigo 3.º, por delegação mútua ou em conjunto, quando tal se mostre conveniente.\n\n2. Na áreas das regiões vinícolas demarcadas, a J. N. V. poderá acordar com os respectivos organismos vitivinícolas a forma de realizar as funções que lhe competem directamente, nos termos deste diploma, bem como as que lhe tenham sido delegadas pela A. G. A., de acordo com o disposto no número anterior."
+  },
+  "51306175": {
+   "fragment_id": "36159575",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\nA J. N. V. e a A. G. A., em colaboração com a Inspecção-Geral dos Produtos Agrícolas e Industriais e outros departamentos do Estado ligados à matéria, procederão à revisão das actuais definições e características das bebidas abrangidas por este diploma, no sentido da sua actualização e adaptação aos moldes internacionais."
+  },
+  "51306275": {
+   "fragment_id": "36159675",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. Enquanto o Grémio dos Armazenistas de Vinhos e o Grémio do Comércio de Exportação de Vinhos subsistirem com a estrutura actual, os fabricantes, preparadores, armazenistas, importadores e exportadores das bebidas a que se refere o presente diploma terão de estar inscritos naqueles Grémios, respectivamente como armazenistas sócios ou registados e como exportadores, nas condições prescritas nos seus diplomas orgânicos.\n\n2. Da importância de 1$00 arrecadada pela J. N. V. ou pela A. G. A., nos termos do n.º 1 do artigo 12.º, estas entidades entregarão aos Grémios dos Armazenistas de Vinhos e do Comércio de Exportação de Vinhos o correspondente às taxas que constituem receita destes organismos, nos termos legais em vigor."
+  },
+  "51306375": {
+   "fragment_id": "36159775",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\nA J. N. V. e a A. G. A., conforme os casos, expedirão as instruções necessárias à execução do presente diploma."
+  },
+  "51306475": {
+   "fragment_id": "36159875",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAs dúvidas que se suscitarem na interpretação e execução deste diploma serão resolvidas por despacho do Ministro da Economia ou do Secretário de Estado do Comércio, a publicar, ou não, no Diário do Governo, conforme a matéria a que respeite."
+  },
+  "51306575": {
+   "fragment_id": "36159975",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\nO presente decreto-lei entrará em vigor no prazo de trinta dias, a contar da sua publicação no Diário do Governo."
+  },
+  "51704675": {
+   "fragment_id": "35088875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1979-09-23",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+   ],
+   "markdown": "1. No propósito de assegurar a necessária disciplina no importante sector das bebidas espirituosas, em relação ao qual apenas existiam escassas e dispersas disposições legais, impõe-se estabelecer, num diploma de base, os princípios fundamentais por que se devem reger o fabrico, preparação, armazenagem e comercialização de tais produtos, cujo consumo, aliás, tem aumentado notoriamente nos últimos anos.\n\n2. Em ligação com o fabrico e preparação destes produtos e pela interdependência dos sectores, incluíram-se igualmente no mesmo diploma disposições consideradas também fundamentais em relação a operações de fermentação e de destilação em geral.\n\n3. Constitui ainda razão premente para este diploma o facto de alguns produtos resultantes de operações de fermentação ou destilação, sem uma disciplina apropriada, poderem concorrer para a fraude de outros produtos cuja genuinidade importa assegurar por todos os meios.\n\n4. Assim, estabeleceu-se, a par de um regime repressivo dentro da orientação já definida pelo recente Decreto-Lei n.º 340/73, de 6 de Julho, um regime preventivo, através do qual se espera obter uma efectiva melhoria nas condições de produção e comercialização das bebidas abrangidas por este diploma.\n\n5. Houve também que considerar as implicações decorrentes da Convenção que criou a Associação Europeia do Comércio Livre (E. F. T. A.), a qual abrange certas bebidas espirituosas, relativamente às quais importa assegurar igualdade de tratamento entre as de produção nacional e as importadas.\n\nEm consequência, instituiu-se, para todo o conjunto das bebidas espirituosas, um regime tributário particular, que não só estabelece idêntico tratamento para as bebidas nacionais importadas, como permite caminhar no sentido da melhoria das condições técnicas e económicas da indústria de tais bebidas, por forma a esta poder enfrentar a concorrência estrangeira.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\n> Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+  },
+  "51704775": {
+   "fragment_id": "36159175",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1979-09-23",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+   ],
+   "markdown": "###### Artigo 19.º\n\nIndependentemente da punição disciplinar que ao caso couber, se outra pena mais elevada não for aplicável nos termos da lei geral ou especial, as infracções do presente decreto-lei são punidas pela forma prescrita nas alíneas seguintes:\n\na) (Revogada).\n\nb) Nos termos do artigo 3.º do Decreto-Lei n.º 340/73, de 6 de Julho, o exercício das actividades a que se referem os n.os 1 e 2 do artigo 1.º fora das condições prescritas nos artigos 3.º, 4.º e 5.º;\n\nc) Com a pena de multa de 10000$00 a 60000$00, as infracções do disposto nos artigos 6.º, 7.º, 8.º e 9.º, acrescendo a importância correspondente às taxas devidas quando, relativamente a essas infracções, se verificar também a falta de selagem dos recipientes;\n\nd) Com a pena de muita de 1000$00 a 10000$00 e a perda do produto, as infracções do disposto no artigo 17.º\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+  },
+  "51306675": {
+   "fragment_id": "36160075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Manuel Artur Cotta Agostinho Dias.\n\nPromulgado em 31 de Dezembro de 1973.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "51706075": {
+   "fragment_id": "35088875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21",
+    "Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+   ],
+   "markdown": "1. No propósito de assegurar a necessária disciplina no importante sector das bebidas espirituosas, em relação ao qual apenas existiam escassas e dispersas disposições legais, impõe-se estabelecer, num diploma de base, os princípios fundamentais por que se devem reger o fabrico, preparação, armazenagem e comercialização de tais produtos, cujo consumo, aliás, tem aumentado notoriamente nos últimos anos.\n\n2. Em ligação com o fabrico e preparação destes produtos e pela interdependência dos sectores, incluíram-se igualmente no mesmo diploma disposições consideradas também fundamentais em relação a operações de fermentação e de destilação em geral.\n\n3. Constitui ainda razão premente para este diploma o facto de alguns produtos resultantes de operações de fermentação ou destilação, sem uma disciplina apropriada, poderem concorrer para a fraude de outros produtos cuja genuinidade importa assegurar por todos os meios.\n\n4. Assim, estabeleceu-se, a par de um regime repressivo dentro da orientação já definida pelo recente Decreto-Lei n.º 340/73, de 6 de Julho, um regime preventivo, através do qual se espera obter uma efectiva melhoria nas condições de produção e comercialização das bebidas abrangidas por este diploma.\n\n5. Houve também que considerar as implicações decorrentes da Convenção que criou a Associação Europeia do Comércio Livre (E. F. T. A.), a qual abrange certas bebidas espirituosas, relativamente às quais importa assegurar igualdade de tratamento entre as de produção nacional e as importadas.\n\nEm consequência, instituiu-se, para todo o conjunto das bebidas espirituosas, um regime tributário particular, que não só estabelece idêntico tratamento para as bebidas nacionais importadas, como permite caminhar no sentido da melhoria das condições técnicas e económicas da indústria de tais bebidas, por forma a esta poder enfrentar a concorrência estrangeira.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21\n\n> Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+  },
+  "51706775": {
+   "fragment_id": "36157475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. A fermentação alcoólica a partir de matérias-primas vegetais não directamente fermentescíveis e a destilação dos produtos alcoólicos resultantes poderão ser efectuadas com destino ao fabrico de bebidas espirituosas, mas apenas quando o sejam isoladamente em relação a cada produto e as referidas bebidas e seu fabrico se encontrem legalmente definidos.\n\n2. Fora dos casos a que se refere o número anterior, a fermentação alcoólica a partir de matérias vegetais não directamente fermentescíveis e a destilação dos produtos alcoólicos resultantes, isoladamente em relação a cada produto, em mistura entre si ou com vinhos, água-pé, bagaços ou quaisquer outros produtos susceptíveis de produzir aguardente ou álcool, só poderão ser efectuadas com destino a álcool industrial, por intermédio da Administração-Geral do Açúcar e do Álcool (A. G. A.), em regime de contas-correntes, quer quanto às matérias-primas utilizadas, quer quanto aos produtos obtidos.\n\n3 - As borras de vinho em caso algum poderão ser utilizadas em operações de fermentação, podendo, no entanto, ser destiladas, mas unicamente para obtenção de álcool vínico ou de álcool para fins industriais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51707075": {
+   "fragment_id": "36157575",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - As actividades a que se referem os n.os 1 e 2 do artigo 1.º deste diploma, com excepção da comercialização a retalho, só poderão ser exercidas por entidades e em instalações devidamente autorizadas que constem de registos especiais a cargo dos organismos vinícolas com acção nas áreas de localização das instalações, ou da AGA, conforme se trate, respectivamente, de produtos vínicos ou não vínicos.\n\n2. Em portaria conjunta dos Secretários de Estado do Comércio e da Indústria serão estabelecidos os requisitos a que devem obedecer as entidades e as instalações, para efeitos do registo a que se refere o número anterior.\n\n3. Sem prejuízo da observância dos requisitos que vierem a ser fixados nos termos do número antecedente, deverá ser desde já efectuado, a pedido dos interessados, o registo provisório das entidades e instalações cuja actividade é abrangida por este decreto-lei, para o que os mesmos apresentarão documento comprovativo da vistoria e aprovação das instalações realizadas há menos de seis meses pela Direcção-Geral da Qualidade e Segurança Industriais ou documento comprovativo de que a mesma já foi requerida, quando haja lugar a essa vistoria.\n\n4. O pedido referido no número anterior deverá ser apresentado no prazo de sessenta dias a partir da publicação do presente diploma, sem o que não poderá continuar a ser exercida a respectiva actividade.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51707475": {
+   "fragment_id": "36157675",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 4.º\n\nOs aparelhos de destilação só poderão funcionar nos períodos previamente fixados, a pedido dos interessados, pelos organismos vinícolas ou pela AGA, conforme os casos, podendo estas entidades promover a sua selagem fora desses períodos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51707675": {
+   "fragment_id": "36157775",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - A produção e preparação de bebidas espirituosas de origem não vínica, bem como a fermentação de substâncias diferentes da uva, não podem realizar-se nas mesmas instalações em que se produzam ou laborem produtos vínicos, igualmente não podendo existir produtos não vínicos nas instalações em que se produzam ou laborem produtos vínicos, e vice-versa.\n\n2 - Tratando-se, porém, de destilarias agrícolas destinadas exclusivamente à laboração de produtos da respectiva exploração ou de associações de agricultores, poderão os respectivos aparelhos ou instalações de destilação ser utilizados na laboração de produtos vínicos e não vínicos, desde que em períodos distintos e sem prejuízo do disposto no artigo anterior.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51707875": {
+   "fragment_id": "36157875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1. As bebidas espirituosas e as bebidas fermentadas a que se refere o presente diploma só poderão ser vendidas ou expostas para venda no mercado interno quando acondicionadas em recipientes fechados de capacidade não superior a 1 l, devidamente rotulados e selados pela J. N. V. ou pela A. G. A., em conformidade com o disposto na parte final do n.º 1 do artigo 3.º deste diploma.\n\n2. O acondicionamento e a rotulagem a que se refere o número anterior deverão, no tocante às bebidas nacionais, ser efectuados pelos respectivos fabricantes ou preparadores.\n\n3. Em casos especiais e mediante prévia autorização da J. N. V. ou da A. G. A., conforme os casos, poderão ser utilizados recipientes de capacidade até 2 l.\n\n4. Os rótulos dos recipientes a que se refere este artigo deverão conter obrigatoriamente a designação do produto e respectivo volume, a sua graduação alcoólica, a indicação da entidade engarrafadora e, para as bebidas de origem estrangeira, a indicação do importador ou do distribuidor.\n\n5 - Para as bebidas de origem nacional constituem condições prévias da sua comercialização a aprovação dos diversos elementos da rotulagem pelos organismos vinícolas ou pela AGA, conforme os casos, e a prova documental de que a respectiva marca está devidamente registada no Instituto Nacional da Propriedade Industrial ou, enquanto sobre ela não houver decisão registável definitiva, de que foi requerido o seu registo.\n\n6 - No caso particular de venda da chamada «ginjinha» (com frutos e sem frutos), poderá a AGA, a solicitação dos interessados, autorizar essa venda segundo processo diferente do exigido nos números anteriores deste artigo, que, salvaguardando o exercício da sua acção de controle, determinará caso a caso, desde que tal se justifique por motivos de interesse turístico e de tradição dos estabelecimentos visados.\n\n7 - As bebidas abrangidas pelo presente diploma que não se destinem a ser vendidas ou expostas para venda ao público, designadamente as que constituam apenas matéria-prima necessária para outras indústrias, as aguardentes agrícolas produzidas em cooperativas e por estas entregues aos respectivos sócios para comprovado consumo próprio e as vendas para o estrangeiro, embora não estejam sujeitas à obrigatoriedade do engarrafamento e da selagem, não poderão transitar sem que sejam acompanhadas de guias de trânsito donde conste obrigatoriamente o seu destino, a emitir pelos organismos vinícolas ou pela AGA, conforme os casos.\n\n8 - Quando se trate de aguardentes agrícolas produzidas por cooperativas e por elas entregues aos respectivos sócios para consumo próprio, o documento de aquisição poderá funcionar como guia de trânsito, desde que contenha menção adequada do destino do produto.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51708275": {
+   "fragment_id": "36158175",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1 - Nas instalações em que sejam produzidas ou engarrafadas as bebidas a que se refere este diploma, bem como naquelas em que sejam armazenadas as mesmas bebidas, álcool ou aguardentes de qualquer natureza, não contidas em recipientes selados, deverão existir registos de entradas e saídas e de existências das matérias-primas utilizadas e dos produtos obtidos, sujeitos ao controle e verificação directa dos organismos vinícolas ou da AGA, conforme os casos, que, para o efeito, poderão ainda consultar toda a documentação relativa ao seu movimento.\n\n2 - Sem prejuízo da pena que ao caso couber, a falta da verificação prevista no número anterior por motivo imputável à entidade verificanda acarretará também o não fornecimento do álcool eventualmente necessário ao exercício da actividade prosseguida nessas instalações.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51708475": {
+   "fragment_id": "36158575",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1 - Os selos a apor nos recipientes em que são vendidas as bebidas abrangidas por este diploma, quer de origem estrangeira quer de origem nacional, serão fornecidos pelos organismos vinícolas ou pela AGA, conforme os casos.\n\n2 - Os valores e modelos dos selos e quaisquer instruções necesárias para a sua aplicação constarão de portarias dos Secretários de Estado da Alimentação e do Comércio Interno.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51708575": {
+   "fragment_id": "36158975",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 17.º\n\nNos estabelecimentos em que as mesmas bebidas sejam servidas ao público, a copo ou noutras fracções, os produtos contidos nos recipientes abertos têm de corresponder aos dos respectivos recipientes intactos do mesmo produto e da mesma marca existentes no estabelecimento ou, na falta destes, às correspondentes amostras padrão, presumindo-se responsáveis pela falta de correspondência os titulares desses estabelecimentos.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51706575": {
+   "fragment_id": "36159175",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21",
+    "Alterado pelo/a Artigo 4.º do/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+   ],
+   "markdown": "###### Artigo 19.º\n\nIndependentemente da punição disciplinar que ao caso couber, se outra pena mais elevada não for aplicável nos termos da lei geral ou especial, as infracções do presente decreto-lei são punidas pela forma prescrita nas alíneas seguintes:\n\na) (Revogada).\n\nb) Nos termos do artigo 3.º do Decreto-Lei n.º 340/73, de 6 de Julho, o exercício das actividades a que se referem os n.os 1 e 2 do artigo 1.º fora das condições prescritas nos artigos 3.º, 4.º e 5.º;\n\nc) Com a pena de multa de 10000$00 a 60000$00, as infracções do disposto nos artigos 6.º, 7.º, 8.º e 9.º, acrescendo a importância correspondente às taxas devidas quando, relativamente a essas infracções, se verificar também a falta de selagem dos recipientes;\n\nd) Com a pena de muita de 1000$00 a 10000$00 e a perda do produto, as infracções do disposto no artigo 17.º\n\n> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21\n\n> Alterado pelo/a Artigo 4.º do/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+  },
+  "51708675": {
+   "fragment_id": "36159475",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "1984-05-21",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 22.º\n\nA competência atribuída neste diploma aos organismos vinícolas e à AGA para assegurar o cumprimento das normas nele contidas poderá ser exercida isoladamente por cada uma destas entidades, conforme os casos, nos termos do n.º 1 do artigo 3.º, por delegação mútua ou em conjunto, quando tal se mostre conveniente.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51709075": {
+   "fragment_id": "35088875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1993-01-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117/92 - Diário da República n.º 141/1992, Suplemento n.º 1, Série I-A de 1992-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1992-437210), em vigor a partir de 1993-01-01",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21",
+    "Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+   ],
+   "markdown": "1. No propósito de assegurar a necessária disciplina no importante sector das bebidas espirituosas, em relação ao qual apenas existiam escassas e dispersas disposições legais, impõe-se estabelecer, num diploma de base, os princípios fundamentais por que se devem reger o fabrico, preparação, armazenagem e comercialização de tais produtos, cujo consumo, aliás, tem aumentado notoriamente nos últimos anos.\n\n2. Em ligação com o fabrico e preparação destes produtos e pela interdependência dos sectores, incluíram-se igualmente no mesmo diploma disposições consideradas também fundamentais em relação a operações de fermentação e de destilação em geral.\n\n3. Constitui ainda razão premente para este diploma o facto de alguns produtos resultantes de operações de fermentação ou destilação, sem uma disciplina apropriada, poderem concorrer para a fraude de outros produtos cuja genuinidade importa assegurar por todos os meios.\n\n4. Assim, estabeleceu-se, a par de um regime repressivo dentro da orientação já definida pelo recente Decreto-Lei n.º 340/73, de 6 de Julho, um regime preventivo, através do qual se espera obter uma efectiva melhoria nas condições de produção e comercialização das bebidas abrangidas por este diploma.\n\n5. Houve também que considerar as implicações decorrentes da Convenção que criou a Associação Europeia do Comércio Livre (E. F. T. A.), a qual abrange certas bebidas espirituosas, relativamente às quais importa assegurar igualdade de tratamento entre as de produção nacional e as importadas.\n\nEm consequência, instituiu-se, para todo o conjunto das bebidas espirituosas, um regime tributário particular, que não só estabelece idêntico tratamento para as bebidas nacionais importadas, como permite caminhar no sentido da melhoria das condições técnicas e económicas da indústria de tais bebidas, por forma a esta poder enfrentar a concorrência estrangeira.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117/92 - Diário da República n.º 141/1992, Suplemento n.º 1, Série I-A de 1992-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1992-437210), em vigor a partir de 1993-01-01\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21\n\n> Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23"
+  },
+  "51714075": {
+   "fragment_id": "35088875",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1999-02-28",
+   "changed_by": [
+    "Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23",
+    "Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21",
+    "Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117/92 - Diário da República n.º 141/1992, Suplemento n.º 1, Série I-A de 1992-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1992-437210), em vigor a partir de 1993-01-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 376/97 - Diário da República n.º 296/1997, Série I-A de 1997-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1997-421633), em vigor a partir de 1999-02-28"
+   ],
+   "markdown": "1. No propósito de assegurar a necessária disciplina no importante sector das bebidas espirituosas, em relação ao qual apenas existiam escassas e dispersas disposições legais, impõe-se estabelecer, num diploma de base, os princípios fundamentais por que se devem reger o fabrico, preparação, armazenagem e comercialização de tais produtos, cujo consumo, aliás, tem aumentado notoriamente nos últimos anos.\n\n2. Em ligação com o fabrico e preparação destes produtos e pela interdependência dos sectores, incluíram-se igualmente no mesmo diploma disposições consideradas também fundamentais em relação a operações de fermentação e de destilação em geral.\n\n3. Constitui ainda razão premente para este diploma o facto de alguns produtos resultantes de operações de fermentação ou destilação, sem uma disciplina apropriada, poderem concorrer para a fraude de outros produtos cuja genuinidade importa assegurar por todos os meios.\n\n4. Assim, estabeleceu-se, a par de um regime repressivo dentro da orientação já definida pelo recente Decreto-Lei n.º 340/73, de 6 de Julho, um regime preventivo, através do qual se espera obter uma efectiva melhoria nas condições de produção e comercialização das bebidas abrangidas por este diploma.\n\n5. Houve também que considerar as implicações decorrentes da Convenção que criou a Associação Europeia do Comércio Livre (E. F. T. A.), a qual abrange certas bebidas espirituosas, relativamente às quais importa assegurar igualdade de tratamento entre as de produção nacional e as importadas.\n\nEm consequência, instituiu-se, para todo o conjunto das bebidas espirituosas, um regime tributário particular, que não só estabelece idêntico tratamento para as bebidas nacionais importadas, como permite caminhar no sentido da melhoria das condições técnicas e económicas da indústria de tais bebidas, por forma a esta poder enfrentar a concorrência estrangeira.\n\nNestes termos:\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:\n\n> Alterado pelo/a [Lei n.º 61/79 - Diário da República n.º 216/1979, Série I de 1979-09-18](https://diariodarepublica.pt/dr/detalhe/lei/61-1979-369838), em vigor a partir de 1979-09-23\n\n> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21\n\n> Alterado pelo/a Artigo 27.º do/a [Decreto-Lei n.º 117/92 - Diário da República n.º 141/1992, Suplemento n.º 1, Série I-A de 1992-06-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/117-1992-437210), em vigor a partir de 1993-01-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 376/97 - Diário da República n.º 296/1997, Série I-A de 1997-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1997-421633), em vigor a partir de 1999-02-28"
+  },
+  "51714175": {
+   "fragment_id": "36157875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "1999-02-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 376/97 - Diário da República n.º 296/1997, Série I-A de 1997-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1997-421633), em vigor a partir de 1999-02-28",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1. As bebidas espirituosas e as bebidas fermentadas a que se refere o presente diploma só poderão ser vendidas ou expostas para venda no mercado interno quando acondicionadas em recipientes fechados de capacidade não superior a 1 l, devidamente rotulados e selados pela J. N. V. ou pela A. G. A., em conformidade com o disposto na parte final do n.º 1 do artigo 3.º deste diploma.\n\n2. O acondicionamento e a rotulagem a que se refere o número anterior deverão, no tocante às bebidas nacionais, ser efectuados pelos respectivos fabricantes ou preparadores.\n\n3. Em casos especiais e mediante prévia autorização da J. N. V. ou da A. G. A., conforme os casos, poderão ser utilizados recipientes de capacidade até 2 l.\n\n4. Os rótulos dos recipientes a que se refere este artigo deverão conter obrigatoriamente a designação do produto e respectivo volume, a sua graduação alcoólica, a indicação da entidade engarrafadora e, para as bebidas de origem estrangeira, a indicação do importador ou do distribuidor.\n\n5 - Para as bebidas de origem nacional constituem condições prévias da sua comercialização a aprovação dos diversos elementos da rotulagem pelos organismos vinícolas ou pela AGA, conforme os casos, e a prova documental de que a respectiva marca está devidamente registada no Instituto Nacional da Propriedade Industrial ou, enquanto sobre ela não houver decisão registável definitiva, de que foi requerido o seu registo.\n\n6 - No caso particular de venda da chamada «ginjinha» (com frutos e sem frutos), poderá a AGA, a solicitação dos interessados, autorizar essa venda segundo processo diferente do exigido nos números anteriores deste artigo, que, salvaguardando o exercício da sua acção de controle, determinará caso a caso, desde que tal se justifique por motivos de interesse turístico e de tradição dos estabelecimentos visados.\n\n7 - As bebidas abrangidas pelo presente diploma que não se destinem a ser vendidas ou expostas para venda ao público, designadamente as que constituam apenas matéria-prima necessária para outras indústrias, as aguardentes agrícolas produzidas em cooperativas e por estas entregues aos respectivos sócios para comprovado consumo próprio e as vendas para o estrangeiro, embora não estejam sujeitas à obrigatoriedade do engarrafamento e da selagem, não poderão transitar sem que sejam acompanhadas de guias de trânsito donde conste obrigatoriamente o seu destino, a emitir pelos organismos vinícolas ou pela AGA, conforme os casos.\n\n8 - Quando se trate de aguardentes agrícolas produzidas por cooperativas e por elas entregues aos respectivos sócios para consumo próprio, o documento de aquisição poderá funcionar como guia de trânsito, desde que contenha menção adequada do destino do produto.\n\n> Revogado pelo/a Artigo 8.º do/a [Decreto-Lei n.º 376/97 - Diário da República n.º 296/1997, Série I-A de 1997-12-24](https://diariodarepublica.pt/dr/detalhe/decreto-lei/376-1997-421633), em vigor a partir de 1999-02-28\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  },
+  "51718375": {
+   "fragment_id": "36157575",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2000-01-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 178/99 - Diário da República n.º 118/1999, Série I-A de 1999-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1999-321573), em vigor a partir de 2000-01-12",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1 - (Revogado).\n\n2. Em portaria conjunta dos Secretários de Estado do Comércio e da Indústria serão estabelecidos os requisitos a que devem obedecer as entidades e as instalações, para efeitos do registo a que se refere o número anterior.\n\n3. Sem prejuízo da observância dos requisitos que vierem a ser fixados nos termos do número antecedente, deverá ser desde já efectuado, a pedido dos interessados, o registo provisório das entidades e instalações cuja actividade é abrangida por este decreto-lei, para o que os mesmos apresentarão documento comprovativo da vistoria e aprovação das instalações realizadas há menos de seis meses pela Direcção-Geral da Qualidade e Segurança Industriais ou documento comprovativo de que a mesma já foi requerida, quando haja lugar a essa vistoria.\n\n4. O pedido referido no número anterior deverá ser apresentado no prazo de sessenta dias a partir da publicação do presente diploma, sem o que não poderá continuar a ser exercida a respectiva actividade.\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 178/99 - Diário da República n.º 118/1999, Série I-A de 1999-05-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-1999-321573), em vigor a partir de 2000-01-12\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 58/84 - Diário da República n.º 44/1984, Série I de 1984-02-21](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-1984-661498), em vigor a partir de 1984-05-21"
+  }
+ }
+}

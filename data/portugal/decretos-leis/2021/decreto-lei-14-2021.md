@@ -1,0 +1,321 @@
+---
+schema_version: '1.0'
+id: pt:dre:157236756:por
+title: Decreto-Lei n.º 14/2021
+short_title: null
+summary: Altera o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: Administração Interna
+official_number: 14/2021
+official_date: null
+publication_date: '2021-02-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 30/2021, Série I de 2021-02-12
+  number: '30'
+  series: I
+  supplement: null
+  pages: 21 - 24
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/02/03000/0002100024.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/14/2021/02/12/p/dre/pt/html
+  oj: null
+  dre: '157236756'
+  dre_path: /dr/detalhe/decreto-lei/14-2021-157236756
+  internal: pt:dre:157236756:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2021-157236756
+  metadata_url: https://data.dre.pt/eli/dec-lei/14/2021/02/12/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/14-2021-157236756
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-08-25T00:00:00Z'
+integrity:
+  source_sha256: 5616e9830ce2b02110b2dea0dbfe8e8fe244cd6cd36d7eaa10a3dcc49cf31d9b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-14-157236756.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acolhimento Familiar
+- Autorização Legislativa
+- Financiamento
+- Carreira de Investigação Científica
+- Cidadão Estrangeiro
+- Portugal
+- Madeira.região Autónoma
+- Regime Jurídico
+- Açores
+- Prédio Urbano
+relationships:
+- type: amended_by
+  target: pt:dre:200268064:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/102/2017/08/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/102/2017/08/28/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/2/2020/03/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/23/2007/07/04/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/26/2018/07/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/26/2018/07/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/28/2019/03/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/28/2019/03/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/29/2012/08/09/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/29/2012/08/09/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/56/2015/06/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/56/2015/06/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/59/2017/07/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/59/2017/07/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/63/2015/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/63/2015/06/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/208/2017/07/13/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 14/2021
+
+de 12 de fevereiro
+
+O XXII Governo Constitucional, consciente da necessidade de incorporar o desígnio de coesão territorial, de forma transversal, nas diversas políticas públicas especialmente dirigidas à correção das assimetrias regionais, conferindo prioridade aos territórios mais vulneráveis, inscreveu no seu programa o compromisso de rever o regime de autorização de residência para investimento, de modo a que este regime possa ser dirigido preferencialmente aos territórios do interior, ao investimento na criação de emprego e à requalificação urbana e do património cultural.
+
+Igualmente, no que diz respeito à política de habitação, é compromisso do Governo promover o equilíbrio e a qualidade dos territórios, seja em regiões metropolitanas, urbanas ou rurais, garantindo o acesso a condições habitacionais dignas para todos, enquanto fator poderoso de coesão socioterritorial e de promoção da qualidade de vida e de um desenvolvimento sustentável e equilibrado do País.
+
+A política de habitação é, pois, uma política chave para o acesso ao bem-estar e para o dinamismo e equilíbrio demográfico.
+
+Assim, no cumprimento do seu programa, o Governo submeteu à Assembleia da República uma proposta de autorização legislativa com vista à revisão daquele regime.
+
+Nessa sequência, a [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, na sua redação atual, que aprova o Orçamento do Estado para 2020, veio autorizar o Governo a rever este regime, definindo que o sentido e a extensão dessa autorização consiste em favorecer a promoção do investimento nos territórios do interior, bem como o investimento na requalificação urbana, no património cultural, nas atividades de alto valor ambiental ou social, no investimento produtivo e na criação de emprego restringindo ao território das comunidades intermunicipais do interior e das Regiões Autónomas dos Açores e da Madeira os investimentos previstos nas subalíneas iii) e iv) da alínea d) do n.º 1 do artigo 3.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, e aumentando o valor mínimo dos investimentos e do número de postos de trabalho a criar, nos termos da alínea d) do n.º 1 do artigo 3.º da mesma lei.
+
+Assim:
+
+No uso da autorização legislativa concedida pelo artigo 187.º da [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, na sua redação atual, e nos termos da alínea b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+O presente decreto-lei procede à oitava alteração à [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, alterada pelas Leis n.os [29/2012](https://diariodarepublica.pt/dr/detalhe/lei/29-2012-175291), de 9 de agosto, [56/2015](https://diariodarepublica.pt/dr/detalhe/lei/56-2015-67541737), de 23 de junho, [63/2015](https://diariodarepublica.pt/dr/detalhe/lei/63-2015-67637970), de 30 de junho, [59/2017](https://diariodarepublica.pt/dr/detalhe/lei/59-2017-107781373), de 31 de julho, [102/2017](https://diariodarepublica.pt/dr/detalhe/lei/102-2017-108063583), de 28 de agosto, [26/2018](https://diariodarepublica.pt/dr/detalhe/lei/26-2018-115643971), de 5 de julho, e [28/2019](https://diariodarepublica.pt/dr/detalhe/lei/28-2019-121712771), de 29 de março, que aprova o regime jurídico de entrada, permanência, saída e afastamento de estrangeiros do território nacional.
+
+###### Artigo 2.º — Alteração à [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho
+
+Os artigos 3.º e 90.º-A da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, passam a ter a seguinte redação:
+
+«Artigo 3.º
+
+[...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) [...]
+
+i) Transferência de capitais no montante igual ou superior a 1,5 milhões de euros;
+
+ii) [...]
+
+iii) [...]
+
+iv) [...]
+
+v) Transferência de capitais no montante igual ou superior a (euro) 500 000, que seja aplicado em atividades de investigação desenvolvidas por instituições públicas ou privadas de investigação científica, integradas no sistema científico e tecnológico nacional;
+
+vi) [...]
+
+vii) Transferência de capitais no montante igual ou superior a (euro) 500 000, destinados à aquisição de unidades de participação em fundos de investimento ou fundos de capitais de risco vocacionados para a capitalização de empresas, que sejam constituídos ao abrigo da legislação portuguesa, cuja maturidade, no momento do investimento, seja de, pelo menos, cinco anos e, pelo menos, 60 % do valor dos investimentos seja concretizado em sociedades comerciais sediadas em território nacional;
+
+viii) Transferência de capitais no montante igual ou superior a (euro) 500 000, destinados à constituição de uma sociedade comercial com sede em território nacional, conjugada com a criação de cinco postos de trabalho permanentes, ou para reforço de capital social de uma sociedade comercial com sede em território nacional, já constituída, com a criação ou manutenção de postos de trabalho, com um mínimo de cinco permanentes, e por um período mínimo de três anos;
+
+e) [...]
+
+f) [...]
+
+g) [...]
+
+h) [...]
+
+i) [...]
+
+j) [...]
+
+k) [...]
+
+l) [...]
+
+m) [...]
+
+n) [...]
+
+o) [...]
+
+p) [...]
+
+q) [...]
+
+r) [...]
+
+s) [...]
+
+t) [...]
+
+u) [...]
+
+v) [...]
+
+w) [...]
+
+x) [...]
+
+y) [...]
+
+z) [...]
+
+aa) [...]
+
+bb) [...]
+
+cc) [...]
+
+dd) [...]
+
+ee) [...]
+
+ff) [...]
+
+gg) [...]
+
+hh) [...]
+
+ii) [...]
+
+jj) [...]
+
+kk) [...]
+
+ll) [...]
+
+mm) [...]
+
+nn) [...]
+
+oo) [...]
+
+pp) [...]
+
+qq) [...]
+
+rr) [...]
+
+ss) [...]
+
+tt) [...]
+
+uu) [...]
+
+2 - [...]
+
+3 - [...]
+
+4 - Os imóveis adquiridos nos termos previstos nas subalíneas iii) e iv) da alínea d) do n.º 1 que se destinem a habitação, apenas permitem o acesso ao presente regime caso se situem nas Regiões Autónomas dos Açores e da Madeira ou nos territórios do interior, identificados no anexo à [Portaria n.º 208/2017](https://diariodarepublica.pt/dr/detalhe/portaria/208-2017-107684448), de 13 de julho.
+
+###### Artigo 90.º-A — [...]
+
+1 - [...]
+
+a) [...]
+
+b) [...]
+
+c) [...]
+
+d) Preencham os requisitos estabelecidos na alínea d) do n.º 1 do artigo 3.º
+
+2 - [...]
+
+3 - [...]»
+
+###### Artigo 3.º — Aplicação no tempo
+
+1 - O disposto na [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, com a redação dada pelo presente decreto-lei, é aplicável a todos os pedidos de autorização de residência para investimento requeridos após a data de entrada em vigor do presente decreto-lei.
+
+2 - O disposto na [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, com a redação dada pelo presente decreto-lei, não prejudica a possibilidade de renovação das autorizações de residência ou da concessão ou renovação de autorizações de residência para reagrupamento familiar previstas no artigo 98.º da [Lei n.º 23/2007](https://diariodarepublica.pt/dr/detalhe/lei/23-2007-635814), de 4 de julho, na sua redação atual, quando a autorização de residência para investimento tenha sido concedida ao abrigo do regime legal aplicável até à data de entrada em vigor do presente decreto-lei.
+
+###### Artigo 4.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor a 1 de janeiro de 2022.
+
+Visto e aprovado em Conselho de Ministros de 22 de dezembro de 2020. - António Luís Santos da Costa - Pedro Gramaxo de Carvalho Siza Vieira - Eurico Jorge Nogueira Leite Brilhante Dias - João Rodrigo Reis Carvalho Leão - Antero Luís - Pedro Nuno de Oliveira Santos.
+
+**Promulgado em 5 de fevereiro de 2021.**
+
+**Publique-se.**
+
+**O Presidente da República, Marcelo Rebelo de Sousa.**
+
+**Referendado em 9 de fevereiro de 2021.**
+
+**O Primeiro-Ministro, António Luís Santos da Costa.**

@@ -1,0 +1,98 @@
+---
+schema_version: '1.0'
+id: pt:dre:240643:por
+title: Portaria n.º 580-A/75
+short_title: null
+summary: Manda lançar em circulação uma emissão extraordinária de selos, comemorativa do XXVI Congresso da IAF
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério dos Transportes e Comunicações - Secretaria de Estado dos Transportes e Comunicações - Correios e Telecomunicações
+  de Portugal
+proposing_entity: null
+official_number: 580-A/75
+official_date: null
+publication_date: '1975-09-26'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 223/1975, 2º Suplemento, Série I de 1975-09-26
+  number: '223'
+  series: I
+  supplement: 2º Suplemento
+  pages: 1494-(3) a 1494-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1975/09/22302/00030003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '240643'
+  dre_path: /dr/detalhe/portaria/580-a-1975-240643
+  internal: pt:dre:240643:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-a-1975-240643
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/580-a-1975-240643
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1975-09-26T00:00:00Z'
+integrity:
+  source_sha256: c9599195e75133443345d521f50829ac1991052d178a9193d34f97be6434120b
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1975/DRE-1975-580-A-240643.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 580-A/75
+
+de 26 de Setembro
+
+Manda o Governo da República Portuguesa, pelo Ministro dos Transportes e Comunicações, que, ao abrigo das disposições do artigo 27.º do [Decreto-Lei n.º 42417](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42417-1959-431626), de 27 de Julho de 1959, seja lançada em circulação, cumulativamente com as que estão em vigor, uma emissão extraordinária de selos, comemorativa do XXVI Congresso da IAF, com as dimensões de 34,5 mm x 30 mm e 69 mm x 31,6 mm, denteado 13,5, nas taxas, motivos e quantidades seguintes:
+
+2$00 - O homem e a conquista do espaço ... 10000000
+
+4$50 - Encontro Apolo-Soyuz, ao largo da costa portuguesa ... 1000000
+
+5$30 - Pioneiros da Astronáutica - Goddard (EUA), H. Oberth (Alemanha), Esnault-Pelterie (França) e Tsiolkovky (URSS) ... 1000000
+
+10$00 - O primeiro satélite artificial(1957), nave Vostok do primeiro astronauta, Gagarine (1961), o primeiro passeio no espaço (1965) e a primeira alunagem (1969) ... 500000
+
+Ministério dos Transportes e Comunicações, 25 de Setembro de 1975. - O Ministro dos Transportes e Comunicações, Walter Ruivo Pinto Gomes Rosa.

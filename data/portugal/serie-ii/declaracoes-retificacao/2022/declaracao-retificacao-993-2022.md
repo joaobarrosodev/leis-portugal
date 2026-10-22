@@ -1,0 +1,104 @@
+---
+schema_version: '1.0'
+id: pt:dre:203943473:por
+title: Declaração de Retificação n.º 993/2022
+short_title: null
+summary: Retifica o Aviso (extrato) n.º 20444/2022, publicado no Diário da República, 2.ª série, n.º 207, de 26 de outubro
+  de 2022
+jurisdiction: portugal
+territory: null
+document_type: declaracao-retificacao
+document_type_label: Declaração de Retificação
+issuing_authority:
+- Cultura - Direção-Geral do Livro, dos Arquivos e das Bibliotecas
+proposing_entity: null
+official_number: 993/2022
+official_date: null
+publication_date: '2022-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 229/2022, Série II de 2022-11-28
+  number: '229'
+  series: II
+  supplement: null
+  pages: 49 - 49
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/11/229000000/0004900049.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '203943473'
+  dre_path: /dr/detalhe/declaracao-retificacao/993-2022-203943473
+  internal: pt:dre:203943473:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/993-2022-203943473
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/993-2022-203943473
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-11-28T00:00:00Z'
+integrity:
+  source_sha256: 7c58f86a90957afc43cf38c0d97e90b5490f4586d58d9f18ce474486df77d8eb
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-993-203943473.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Declaração de Retificação n.º 993/2022
+
+Por ter sido publicado com inexatidão, retifica-se o aviso de abertura do procedimento concursal comum para o preenchimento de dois postos de trabalho da carreira geral de assistente operacional do mapa de pessoal da Direção-Geral do Livro, dos Arquivos e das Bibliotecas, na modalidade de contrato de trabalho em funções públicas por tempo indeterminado, para exercer funções no Arquivo Distrital de Aveiro, publicado na 2.ª série do Diário da República n.º 207, de 26 de outubro de 2022 [[Aviso (extrato) n.º 20444/2022](https://diariodarepublica.pt/dr/detalhe/aviso-extrato/20444-2022-202677637)]:
+
+1 - Onde se lê:
+
+«Nos termos do disposto no artigo 33.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, e no artigo 11.º da [Portaria n.º 125-A/2019](https://diariodarepublica.pt/dr/detalhe/portaria/125-a-2019-122202602), de 30 de abril»
+
+deve ler-se:
+
+«Nos termos do disposto no artigo 33.º da Lei Geral do Trabalho em Funções Públicas, aprovada pela [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, e no artigo 11.º da Portaria n.º 233/2022, de 9 de setembro»
+
+2 - Onde se lê:
+
+«Caracterização do posto de trabalho a ocupar: O posto de trabalho caracteriza-se pelo exercício de funções na carreira geral de assistente técnico»
+
+deve ler-se:
+
+«Caracterização do posto de trabalho a ocupar: O posto de trabalho caracteriza-se pelo exercício de funções na carreira geral de assistente operacional»
+
+27 de outubro de 2022. - O Subdiretor-Geral, José Maria Sande e Castro Salgado.

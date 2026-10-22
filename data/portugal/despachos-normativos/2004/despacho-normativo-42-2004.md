@@ -1,0 +1,290 @@
+---
+schema_version: '1.0'
+id: pt:dre:561979:por
+title: Despacho Normativo n.º 42/2004
+short_title: null
+summary: Estabelece o método de cálculo do montante de referência e do número de direitos a atribuir aos agricultores que
+  se candidatem à reserva nacional no âmbito do regime de pagamento único
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Agricultura, Pescas e Florestas
+proposing_entity: null
+official_number: 42/2004
+official_date: null
+publication_date: '2004-10-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 252/2004, Série I-B de 2004-10-26
+  number: '252'
+  series: I
+  supplement: null
+  pages: 6410 - 6413
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/10/252b00/64106413.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/despnorm/42/2004/10/26/p/dre/pt/html
+  oj: null
+  dre: '561979'
+  dre_path: /dr/detalhe/despacho-normativo/42-2004-561979
+  internal: pt:dre:561979:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-2004-561979
+  metadata_url: https://data.dre.pt/eli/despnorm/42/2004/10/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/42-2004-561979
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2010-02-03T00:00:00Z'
+integrity:
+  source_sha256: 18097d2776751629c8fc2964fe98df7db97efbfbfeeff9b1bd97ce91eccb2d17
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2004/DRE-2004-42-561979.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Pagamento
+- Instituto Nacional de Intervenção e Garantia Agrícola
+- Jovem Agricultor
+- Exploração Agrícola
+- Política Agrícola Comum
+- Agricultor
+- Produção Agrícola
+- Regulamento CE
+- Agricultura
+- Sistema Integrado de Gestão e Controlo
+relationships:
+- type: amended_by
+  target: pt:dre:617116:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: celex:31992R2078
+  label: null
+  source: http://data.europa.eu/eli/reg/1992/2078/oj
+- type: cites
+  target: celex:31999R1257
+  label: null
+  source: http://data.europa.eu/eli/reg/1999/1257/oj
+- type: cites
+  target: celex:32003R1782
+  label: null
+  source: http://data.europa.eu/eli/reg/2003/1782/oj
+- type: cites
+  target: celex:32004R0795
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/795/oj
+- type: cites
+  target: celex:32004R0796
+  label: null
+  source: http://data.europa.eu/eli/reg/2004/796/oj
+article_structure:
+  article_count: 11
+  section_count: 4
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 42/2004
+
+A reforma da Política Agrícola Comum de 2003 consubstanciada no Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, com normas de execução estabelecidas nos Regulamentos (CE) n.os [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt) e [796/2004](http://data.europa.eu/eli/reg/2004/796/oj?locale=pt), ambos da Comissão, de 21 de Abril, tem no regime do pagamento único um dos seus principais instrumentos, sendo necessário definir, a nível nacional, um quadro normativo complementar.
+
+Neste contexto, foi já publicado o Despacho Normativo n.º 32/2004, de 20 de Julho, que determinou as modalidades de implementação do regime do pagamento único em Portugal, tendo ainda sido publicada a Portaria n.º 1202/2004, de 17 de Setembro, que estabelece as regras nacionais complementares relativas ao primeiro ano de aplicação do regime de pagamento único, procurando assegurar a viabilidade das explorações agrícolas e dos sectores de produção, salvaguardando o rendimento dos agricultores e imprimindo a flexibilidade possível para potenciar a reconversão da agricultura nacional e a sua orientação para o mercado.
+
+Contudo, importa ainda estabelecer o método de cálculo do montante de referência e do número de direitos a atribuir aos agricultores candidatos à reserva nacional, bem como fixar os critérios de rectificação do montante de referência e do número de direitos a atribuir aos agricultores que tenham assumido compromissos agro-ambientais ao abrigo do Regulamento (CE) n.º [2078/92](http://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Julho, e do Regulamento (CE) n.º [1257/99](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, de 17 de Maio.
+
+Os critérios de acesso à reserva nacional e respectivos cálculos do montante de referência, à excepção de disposição específica para os jovens agricultores, circunscrevem-se às situações obrigatórias de satisfação impostas pela regulamentação comunitária, de modo a não gerar reduções imprevistas no valor dos direitos.
+
+Determinar o referido método de cálculo e os critérios de rectificação das situações atrás enunciadas constitui, pois, um instrumento necessário à operacionalização do regime de pagamento único, no plano nacional.
+
+Assim, ao abrigo do disposto no Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, de 29 de Setembro, e no Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt), da Comissão, de 21 de Abril, determino o seguinte:
+
+### CAPÍTULO I — Disposição inicial
+
+###### Artigo 1.º
+
+1 - O presente despacho estabelece o método de cálculo do montante de referência e do número de direitos a atribuir aos agricultores que se candidatem à reserva nacional no âmbito do regime de pagamento único, conforme o disposto no n.º 2 do n.º 11.º da Portaria n.º 1202/2004, de 17 de Setembro.
+
+2 - O presente despacho estabelece ainda, no âmbito do regime de pagamento único, os critérios de rectificação do montante de referência e do número de direitos a atribuir aos agricultores cuja produção foi reduzida durante o período de referência, devido a compromissos agro-ambientais, assumidos nos termos dos Regulamentos (CEE) n.º [2078/92](http://data.europa.eu/eli/reg/1992/2078/oj?locale=pt), do Conselho, de 30 de Julho, e (CE) n.º [1257/99](http://data.europa.eu/eli/reg/1999/1257/oj?locale=pt), do Conselho, de 17 de Maio, em conformidade com o disposto no n.º 5 do n.º 10.º da Portaria n.º 1202/2004, de 17 de Setembro.
+
+### CAPÍTULO II — Rectificações
+
+###### Artigo 2.º
+
+1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas na alínea b) do n.º 3 do n.º 10.º da Portaria n.º 1202/2004 e sempre que se verifique uma das seguintes circunstâncias:
+
+a) Tenham estado sujeitos a compromisso agro-ambiental durante os anos dos triénios de 1997 a 1999 e de 2000 a 2002;
+
+b) Não tenham estado sujeitos a compromisso agro-ambiental durante um ou mais anos do triénio de 2000 a 2002;
+
+c) Tendo estado sujeitos a compromisso agro-ambiental no decurso do triénio de 2000 a 2002, não estiveram durante um ou mais anos do triénio de 1997 a 1999.
+
+2 - Para os agricultores referidos na alínea a) do n.º 1 do presente artigo é calculada a média trienal dos hectares afectados pelo compromisso, no período de referência, respeitantes às áreas que durante aquele período foram ocupadas com grão de bico ou ervilhaca destinadas a consumo da fauna bravia e que, por esse motivo, não puderam ser colhidas, sendo multiplicada por (euro) 181/ha.
+
+3 - Para os agricultores referidos nas alíneas b) e c) do n.º 1 do presente artigo é calculada a média das áreas determinadas nos anos não sujeitos a compromissos, consoante o triénio e as ocupações culturais, sendo multiplicada pelos valores constantes do anexo ao presente diploma.
+
+4 - Ao valor obtido por aplicação do n.º 3 é deduzido o montante de referência do agricultor.
+
+5 - O valor obtido através da aplicação dos n.os 2 ou 4 é acrescido ao montante de referência do agricultor, não sendo relevantes os valores negativos.
+
+6 - O valor dos direitos a atribuir é igual ao quociente entre o valor obtido através da aplicação do n.º 5 do presente artigo e o número de hectares de referência do agricultor, sendo o número de direitos a atribuir igual ao número de hectares de referência do agricultor.
+
+7 - O disposto no presente artigo é aplicável sem prejuízo do previsto no primeiro parágrafo do n.º 5 do artigo 40.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, e nos artigos 16.º e 18.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt).
+
+###### Artigo 3.º
+
+1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas na alínea c) do n.º 3 do n.º 10.º da Portaria n.º 1202/2004 e sempre que se verifique uma das seguintes circunstâncias:
+
+a) Tenham estado sujeitos a compromisso agro-ambiental durante os anos dos triénios de 1997 a 1999 e de 2000 a 2002;
+
+b) Não tenham estado sujeitos a compromisso agro-ambiental durante um ou mais anos do triénio de 1997 a 1999.
+
+2 - Para os agricultores referidos na alínea a) do n.º 1 do presente artigo é calculado, para o ano anterior à adesão ao respectivo compromisso, um montante para os sectores bovino, ovino e caprino, multiplicando, para cada um dos regimes de prémios aplicáveis à data, o número médio de animais determinados nesse ano pelos valores constantes do anexo ao presente diploma.
+
+3 - Para os agricultores referidos na alínea b) do n.º 1 do presente artigo é calculado um montante para os sectores bovino, ovino e caprino, multiplicando, para cada um dos regimes de prémios aplicáveis à data, o número médio de animais determinados nos anos em causa pelos valores constantes do anexo ao presente diploma.
+
+4 - Aos valores obtidos através da aplicação do n.º 2 ou do n.º 3 são deduzidos, respectivamente, os montantes de referência do agricultor para os sectores bovino, ovino e caprino.
+
+5 - O valor obtido pela aplicação do número anterior acresce ao montante de referência do agricultor, não sendo relevantes os valores negativos.
+
+6 - O valor dos direitos a atribuir é igual ao quociente entre o valor obtido através da aplicação do número anterior e o número de hectares de referência do agricultor, sendo o número de direitos a atribuir igual ao número de hectares de referência do agricultor.
+
+7 - O disposto no presente artigo é aplicável sem prejuízo do previsto no primeiro parágrafo do n.º 5 do artigo 40.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), do Conselho, e nos artigos 16.º e 18.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt).
+
+###### Artigo 4.º
+
+Aos agricultores que estejam sujeitos a novos compromissos assumidos ao abrigo de medidas agro-ambientais com repercussões ao nível de limitações da produção idênticas às dos compromissos já terminados não é aplicável o disposto nos artigos 2.º e 3.º
+
+### CAPÍTULO III — Direitos provenientes da reserva nacional
+
+###### Artigo 5.º
+
+1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas nos n.os 1, 3, 4, 5 e 8 do n.º 12.º da Portaria n.º 1202/2004.
+
+2 - O cálculo do montante de referência dos agricultores mencionados no número anterior é efectuado através da multiplicação por (euro) 120 do número de hectares elegíveis ao regime de pagamento único detidos pelo agricultor, que respeitem as condições previstas nos referidos números do artigo 12.º, sendo aplicável uma majoração de 15% nos casos a seguir enunciados:
+
+a) Jovens agricultores;
+
+b) Explorações nas quais mais de 50% da superfície agrícola se situe em regiões de montanha, tal como definidas na Portaria n.º 377/88, de 11 de Julho.
+
+3 - O valor obtido através da aplicação do número anterior não pode ultrapassar os (euro) 4000 por agricultor.
+
+4 - O valor dos direitos a atribuir é igual ao quociente entre o valor obtido através da aplicação dos n.os 2 e 3 e o número de hectares referido no n.º 2 do presente artigo.
+
+5 - O número de direitos a atribuir é igual ao número de hectares referido no n.º 2 do presente artigo.
+
+6 - No caso dos agricultores referidos no n.º 8 do n.º 12.º da Portaria n.º 1202/2004, o número de hectares mencionados no n.º 2 do presente artigo não inclui as áreas destinadas a culturas não elegíveis ao regime de pagamento único, descritas no projecto de investimento.
+
+7 - O disposto no presente artigo é aplicável sem prejuízo do previsto nos artigos 6.º e 18.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt).
+
+###### Artigo 6.º
+
+1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas no n.º 6 do n.º 12.º da Portaria n.º 1202/2004.
+
+2 - O cálculo do montante de referência dos agricultores mencionados no número anterior é efectuado da seguinte forma:
+
+a) É calculada, por regime de prémios, a diferença entre o número de direitos utilizados no 1.º e ou 2.º anos após a sua atribuição, consoante façam parte do período de referência, e o número de direitos utilizados no 3.º ano;
+
+b) O número obtido, após a aplicação da alínea anterior, é dividido pelo número de anos do período de referência considerado para o agricultor em causa, de acordo com o n.º 2 do artigo 37.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt);
+
+c) O número obtido através da aplicação da alínea anterior é multiplicado pelo valor do pagamento por extensificação ou pelo valor do prémio por ovelha e por cabra e pelos respectivos prémios complementares, conforme o caso, sendo os valores destes os constantes do anexo ao presente diploma;
+
+d) Os valores obtidos através da aplicação da alínea c) são acrescidos ao montante de referência do agricultor.
+
+3 - O valor dos direitos a atribuir é igual ao quociente entre o valor obtido através da aplicação da alínea d) do número anterior e o número de hectares de referência do agricultor, sendo o número de direitos a atribuir igual ao número de hectares de referência do agricultor.
+
+4 - O disposto no presente artigo é aplicável sem prejuízo do previsto nos artigos 6.º e 18.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt).
+
+###### Artigo 7.º
+
+1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas no n.º 2 do n.º 12.º da Portaria n.º 1202/2004 cujos projectos de investimento tenham sido concluídos até 31 de Janeiro de 2004.
+
+2 - O cálculo do montante de referência dos agricultores mencionados no número anterior é efectuado da seguinte forma:
+
+a) É calculado um valor, com base no pedido de ajudas efectuado pelo agricultor em 2004, relativo aos regimes de apoio referidos no anexo VI do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt), segundo os critérios constantes do anexo VII do mesmo regulamento;
+
+b) Ao montante obtido através da aplicação da alínea anterior é deduzido o montante de referência do agricultor;
+
+c) O montante obtido através da aplicação da alínea anterior é acrescido ao montante de referência do agricultor, não sendo relevantes os valores negativos.
+
+3 - O valor dos direitos a atribuir é igual ao quociente entre o valor obtido através da aplicação da alínea anterior e o número de hectares elegíveis ao regime de pagamento único detido pelo agricultor.
+
+4 - O número de direitos a atribuir é igual ao número de hectares elegíveis ao regime de pagamento único detido pelo agricultor.
+
+5 - O número de hectares elegíveis ao regime de pagamento único detidos pelo agricultor referidos nos números anteriores não pode ser inferior ao número de hectares elegíveis constantes do projecto de investimento.
+
+6 - Os valores a utilizar para o cálculo referido no n.º 2 do presente artigo são os definidos no anexo ao presente diploma, relativamente às áreas e animais estabelecidos, após os controlos efectuados pelo Instituto Nacional de Intervenção e Garantia Agrícola (INGA), no âmbito do Sistema Integrado de Gestão e Controlo (SIGC).
+
+7 - O disposto no presente artigo é aplicável sem prejuízo do previsto nos artigos 6.º e 18.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt).
+
+###### Artigo 8.º
+
+1 - O disposto no presente artigo é aplicável aos agricultores que se encontram nas condições previstas no n.º 2 do n.º 12.º da Portaria n.º 1202/2004 cujos projectos de investimento tenham sido concluídos após 31 de Janeiro de 2004.
+
+2 - O cálculo do montante de referência dos agricultores mencionados no número anterior é efectuado da seguinte forma:
+
+a) O número de hectares onde foram instalados regadios, no âmbito do projecto de investimento de expansão ou instalação de regadios, é multiplicado por (euro) 235;
+
+b) O número de animais existentes após a conclusão do projecto de investimento deduzido do número existente na situação anterior ao projecto é multiplicado por (euro) 100, (euro) 210 ou (euro) 14, consoante diga respeito a vacas aleitantes, bovinos machos ou pequenos ruminantes;
+
+c) O número de hectares adquiridos, no âmbito do projecto de investimento de compra ou de arrendamento por seis ou mais anos, de terras de sequeiro elegíveis para efeitos de regime de pagamento único é multiplicado por (euro) 120;
+
+d) Os valores obtidos através da aplicação das alíneas anteriores são acrescidos ao montante de referência.
+
+3 - O valor dos direitos a atribuir é igual ao quociente entre o valor obtido através da aplicação da alínea d) do n.º 2 do presente artigo e o número de hectares elegíveis ao regime de pagamento único detido pelo agricultor.
+
+4 - O número de direitos a atribuir é igual ao número de hectares elegíveis ao regime de pagamento único detido pelo agricultor.
+
+5 - O número de hectares elegíveis ao regime de pagamento único detido pelo agricultor referido no n.º 3 do presente artigo não pode ser inferior ao número de hectares elegíveis constantes do projecto de investimento.
+
+6 - O disposto no presente artigo é aplicável sem prejuízo do previsto nos artigos 6.º e 18.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt).
+
+###### Artigo 9.º
+
+Sem prejuízo do disposto nos artigos 6.º e 18.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt), o montante de referência e o número de direitos a atribuir aos agricultores que se encontrem nas condições previstas no n.º 7 do n.º 12.º da Portaria n.º 1202/2004 são estabelecidos de acordo com o teor da decisão judicial ou administrativa.
+
+### CAPÍTULO IV — Disposições finais
+
+###### Artigo 10.º
+
+Conforme o disposto no n.º 3 do artigo 6.º do Regulamento (CE) n.º [795/2004](http://data.europa.eu/eli/reg/2004/795/oj?locale=pt) e para efeitos de aplicação dos artigos 6.º, 7.º e 8.º do presente diploma, o valor unitário dos direitos a atribuir a agricultores a quem tenham sido atribuídos direitos provisórios não pode ser superior a (euro) 200.
+
+###### Artigo 11.º
+
+Para efeitos de aplicação do presente diploma, não são considerados as áreas e os montantes relativos à retirada de terras obrigatória calculados em conformidade com o disposto no artigo 53.º do Regulamento (CE) n.º [1782/2003](http://data.europa.eu/eli/reg/2003/1782/oj?locale=pt).
+
+Ministério da Agricultura, Pescas e Florestas, 6 de Outubro de 2004. - O Ministro da Agricultura, Pescas e Florestas, Carlos Henrique da Costa Neves.
+
+## ANEXO — [(ver tabela no documento original)](https://files.diariodarepublica.pt/1s/2004/10/252b00/64106413.pdf)

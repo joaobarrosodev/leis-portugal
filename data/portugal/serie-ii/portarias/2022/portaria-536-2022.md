@@ -1,0 +1,126 @@
+---
+schema_version: '1.0'
+id: pt:dre:184546183:por
+title: Portaria n.º 536/2022
+short_title: null
+summary: Autoriza o Fundo Ambiental a efetuar a repartição dos encargos plurianuais relativos ao protocolo com a Agência Portuguesa
+  do Ambiente, I. P., para assegurar o «Programa de Monitorização da Faixa Costeira de Portugal Continental - COSMO 2.0»
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ambiente e Ação Climática - Gabinete do Ministro
+proposing_entity: null
+official_number: 536/2022
+official_date: null
+publication_date: '2022-06-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2022, Série II de 2022-06-08
+  number: '111'
+  series: II
+  supplement: null
+  pages: 114 - 115
+  pdf_url: https://files.diariodarepublica.pt/2s/2022/06/111000000/0011400115.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '184546183'
+  dre_path: /dr/detalhe/portaria/536-2022-184546183
+  internal: pt:dre:184546183:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2022-184546183
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/536-2022-184546183
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2022-06-08T00:00:00Z'
+integrity:
+  source_sha256: 49024d5768093e75c191565eb8398849dfb3b717d63786b913386e7e7d2a2e7c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2022/DRE-2022-536-184546183.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 536/2022
+
+Considerando que a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), pela [Portaria n.º 51/2022](https://diariodarepublica.pt/dr/detalhe/portaria/51-2022-177730301), de 4 de janeiro, publicada no Diário da República, 2.ª série, n.º 11, de 17 de janeiro de 2022, foi autorizada a efetuar a repartição de encargos relativos ao contrato de aquisição de serviços para a implementação do «Programa de Monitorização da Faixa Costeira de Portugal Continental - COSMO 2.0» pelo montante de (euro) 2 045 000,00 (dois milhões e quarenta e cinco mil euros), valor com IVA incluído, por se tratar de um apoio financeiro, para o período de 2022 a 2024.
+
+Considerando que em virtude das vicissitudes provocadas pela pandemia COVID-19, o procedimento concursal ainda se encontra em preparação, e de que a aquisição de serviços em causa tem um prazo de execução de 36 meses, torna-se necessário proceder ao reescalonamento temporal do encargo plurianual autorizado pela [Portaria n.º 51/2022](https://diariodarepublica.pt/dr/detalhe/portaria/51-2022-177730301), de 4 de janeiro, de forma a adaptá-lo à execução prevista para o contrato, transferindo a sua vigência para o período de 2023 a 2025.
+
+Nos termos dos n.os 9 e 10 do artigo 46.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho (DLEO 2019), a reprogramação de encargos plurianuais previamente autorizados ao abrigo do n.º 1 do artigo 22.º do [Decreto-Lei n.º 197/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/197-1999-311259), de 8 de junho, na sua redação atual, carece apenas da autorização do membro do Governo responsável pela área setorial, traduzida no alargamento do período temporal da despesa referente a contrato a executar, desde que não seja ultrapassado o prazo de execução do contrato abrangido pela autorização anterior e o valor total da despesa autorizada.
+
+Para além do exposto anteriormente, verificou-se que em 2021 não foram pagos montantes com contratos de aquisição de serviços com idêntico objeto, pelo que é necessário solicitar a autorização prévia do membro do Governo responsável pela respetiva área setorial, nos termos do n.º 3 do artigo 64.º da LOE 2020.
+
+Assim, manda o Governo, pelo Ministro do Ambiente e da Ação Climática, no âmbito das competências próprias e de acordo com o n.º 3 do artigo 64.º da [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, que aprovou o Orçamento de Estado de 2020 (LOE 2020), por remissão do n.º 1 do artigo 69.º da [Lei n.º 75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, que aprovou o Orçamento de Estado de 2021 (adiante LOE 2021), conjugado com o disposto no [Decreto-Lei n.º 32/2022](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2022-183159328), de 9 de maio, e com os n.os 9 e 10 do artigo 46.º do [Decreto-Lei n.º 84/2019](https://diariodarepublica.pt/dr/detalhe/decreto-lei/84-2019-122747583), de 28 de junho, o seguinte:
+
+1 - Fica o Fundo Ambiental autorizado a efetuar a repartição de encargos plurianuais relativos ao protocolo com a APA, I. P., para assegurar o «Programa de Monitorização da Faixa Costeira de Portugal Continental - COSMO 2.0» no triénio de 2023 a 2025.
+
+2 - Os encargos decorrentes do protocolo são financiados pelo Fundo Ambiental, a título de apoio financeiro, que procede à sua transferência para a APA, I. P., entidade responsável pela sua execução.
+
+3 - Os encargos para o Fundo Ambiental, no montante total de (euro) 2 045 000 (dois milhões e quarenta e cinco mil euros), valor ao qual não acresce IVA por se tratar de um apoio financeiro, não podem exceder, em cada ano económico, os seguintes montantes:
+
+a) 2023: (euro) 1 000 000 (um milhão de euros);
+
+b) 2024: (euro) 545 000 (quinhentos e quarenta e cinco mil euros);
+
+c) 2025: (euro) 500 000 (quinhentos mil euros).
+
+4 - Fica a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), autorizada a reprogramar temporalmente os encargos plurianuais decorrentes da aquisição de serviços para a realização do «Programa de Monitorização da Faixa Costeira de Portugal Continental - COSMO 2.0», até ao montante global de (euro) 2 045 000 (dois milhões e quarenta e cinco mil euros), valor que inclui IVA à taxa legal em vigor.
+
+5 - Os encargos orçamentais decorrentes da execução do contrato acima referido são repartidos até aos seguintes valores que incluem IVA à taxa legal em vigor, não podendo exceder, em cada ano económico, os seguintes montantes:
+
+a) 2023: (euro) 1 000 000 (um milhão de euros);
+
+b) 2024: (euro) 545 000 (quinhentos e quarenta e cinco mil euros);
+
+c) 2025: (euro) 500 000 (quinhentos mil euros).
+
+6 - O montante fixado para cada ano económico pode ser acrescido do saldo apurado no ano que antecede.
+
+7 - Os encargos emergentes da presente portaria serão satisfeitos por verbas inscritas ou a inscrever nos orçamentos do Fundo Ambiental e da APA, I. P.
+
+8 - Fica a Agência Portuguesa do Ambiente, I. P. (APA, I. P.), autorizada a celebrar contrato de aquisição de serviços com objeto diferente de contrato vigente em 2021, nos termos do n.º 3 do artigo 64.º da [Lei n.º 2/2020](https://diariodarepublica.pt/dr/detalhe/lei/2-2020-130893436), de 31 de março, mantido em vigor pela [Lei n.º 75-B/2020](https://diariodarepublica.pt/dr/detalhe/lei/75-b-2020-152639825), de 31 de dezembro, conjugado com a alínea a) do n.º 1 do artigo 58.º da Lei de Enquadramento Orçamental, aprovada em anexo à [Lei n.º 151/2015](https://diariodarepublica.pt/dr/detalhe/lei/151-2015-70262477), de 11 de setembro.
+
+9 - A presente portaria entra em vigor no dia seguinte da sua publicação.
+
+1 de junho de 2022. - O Ministro do Ambiente e da Ação Climática, José Duarte Piteira Rica Silvestre Cordeiro.

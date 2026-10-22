@@ -1,0 +1,116 @@
+---
+schema_version: '1.0'
+id: pt:dre:321713:por
+title: Portaria n.º 330/99
+short_title: null
+summary: Fixa a percentagem referida no n.º 3 do artigo 24.º do Decreto-Lei n.º 158/96, de 3 de Setembro, com a redacção que
+  lhe foi dada pelo Decreto-Lei n.º 107/97, de 8 de Maio
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças
+proposing_entity: null
+official_number: 330/99
+official_date: null
+publication_date: '1999-05-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/1999, Série I-B de 1999-05-13
+  number: '111'
+  series: I
+  supplement: null
+  pages: 2559 - 2559
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/05/111b00/25592559.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/330/1999/05/13/p/dre/pt/html
+  oj: null
+  dre: '321713'
+  dre_path: /dr/detalhe/portaria/330-1999-321713
+  internal: pt:dre:321713:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-1999-321713
+  metadata_url: https://data.dre.pt/eli/port/330/1999/05/13/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/330-1999-321713
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-05-13T00:00:00Z'
+integrity:
+  source_sha256: 04d270fd1cff7af972a631de157c9d7915a5b241481241c2c20df09e35e9e351
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-330-321713.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Direcção Geral dos Impostos
+- Ministério das Finanças
+- Contribuições e Impostos
+- Fundo de Estabilização Tributário
+- Receita Fiscal
+- Cobrança de Dívidas
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/107/1997/05/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/107/1997/05/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/158/1996/09/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/335/1997/12/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/335/1997/12/02/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 330/99
+
+de 13 de Maio
+
+A percentagem a que se refere o n.º 3 do artigo 24.º do [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), de 3 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), de 8 de Maio, deve ser fixada anualmente por portaria do Ministro das Finanças, após a avaliação da execução dos objectivos definidos no plano de actividades.
+
+No âmbito da sua actividade, recai sobre a Direcção-Geral dos Impostos a responsabilidade da arrecadação de cerca de 80% da receita fiscal.
+
+É tarefa que tem vindo a cumprir com inegável eficiência não só pelo facto de terem sido ultrapassadas as metas de execução orçamental mas também porque a qualidade dos serviços prestados aos contribuintes tem vindo a evidenciar melhorias significativas com a introdução de novas tecnologias, simplificação das obrigações declarativas e de pagamento, melhoria da qualidade do atendimento, etc.
+
+Nestes termos, e ao abrigo do disposto no n.º 3 do artigo 24.º do [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), de 3 de Setembro, na redacção que lhe foi dada pelo [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), de 8 de Maio, e no n.º 2 do artigo 3.º do [Decreto-Lei n.º 335/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/335-1997-406321), de 2 de Dezembro:
+
+Manda o Governo, pelo Ministro das Finanças, que a percentagem referida no n.º 3 do artigo 24.º do [Decreto-Lei n.º 158/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/158-1996-241227), de 3 de Setembro, com a redacção que lhe foi dada pelo [Decreto-Lei n.º 107/97](https://diariodarepublica.pt/dr/detalhe/decreto-lei/107-1997-383444), de 8 de Maio, é fixada em 5% do montante constante da declaração do director-geral dos Impostos de 1 de Fevereiro relativamente ao ano de 1998.
+
+**O Ministro das Finanças, António Luciano Pacheco de Sousa Franco, em 15 de Abril de 1999.**

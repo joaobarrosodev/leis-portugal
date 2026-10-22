@@ -1,0 +1,109 @@
+---
+schema_version: '1.0'
+id: pt:dre:400812:por
+title: Decreto Legislativo Regional n.º 34/84/A
+short_title: null
+summary: Aplica à Região Autónoma dos Açores o Decreto-Lei n.º 98/84, que aprova o novo regime das finanças locais
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Regional
+proposing_entity: null
+official_number: 34/84/A
+official_date: null
+publication_date: '1984-11-13'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 263/1984, Série I de 1984-11-13
+  number: '263'
+  series: I
+  supplement: null
+  pages: 3451 - 3451
+  pdf_url: https://files.diariodarepublica.pt/1s/1984/11/26300/34513451.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '400812'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/34-1984-400812
+  internal: pt:dre:400812:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1984-400812
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/34-1984-400812
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-11-13T00:00:00Z'
+integrity:
+  source_sha256: 1f3d7f4ba48d92fef6532d7d1e0afca4014cc27c32da983a0f1874ce0693c257
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/1984/DRE-1984-34-400812.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 34/84/A
+
+Aplicação à Região do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), que aprova o novo regime das finanças locais
+
+A entrada em vigor da nova lei das finanças locais - [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março -, que revogou a [Lei n.º 1/79](https://diariodarepublica.pt/dr/detalhe/lei/1-1979-476532), de 2 de Janeiro, vem exigir a sua aplicação às regiões autónomas por decreto das respectivas assembleias regionais.
+
+Portanto, e se bem que não se definam desde já no presente diploma os indicadores para distribuição das verbas pelos municípios da Região, interessa estender de imediato o novo regime das finanças locais às câmaras municipais dos Açores.
+
+Assim, a Assembleia Regional dos Açores decreta, nos termos da alínea b) do artigo 229.º da Constituição, o seguinte:
+
+###### Artigo 1.º O regime do [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, aplica-se à Região Autónoma dos Açores com as adaptações constantes dos artigos seguintes.
+
+###### Art. 2.º As referências feitas, bem como as competências atribuídas pelo [Decreto-Lei n.º 98/84](https://diariodarepublica.pt/dr/detalhe/decreto-lei/98-1984-661712), de 29 de Março, ao Governo da República ou aos seus departamentos serão exercidas e consideram-se reportadas, na Região, ao Governo Regional e aos respectivos departamentos.
+
+###### Art. 3.º - 1 - O Governo Regional poderá aprovar esquemas de cooperação técnica e financeira com as autarquias locais para prossecução de políticas e programas de desenvolvimento regional, de incentivo ao associativismo autárquico, de actuações consideradas de carácter supramunicipal, designadamente investimentos no sector do saneamento básico, bem como para a implementação de políticas globais ou sectores inovatórios ou que impliquem reconversão estrutural de sectores sociais e económicos.
+
+2 - As bases das políticas referidas no número anterior serão previamente definidas por decreto da Assembleia Regional e os correspondentes programas de investimento constarão do plano regional.
+
+Aprovado pela Assembleia Regional dos Açores em 12 de Setembro de 1984.
+
+**O Presidente da Assembleia Regional, Álvaro Monjardino.**
+
+**Assinado em Angra do Heroísmo em 19 de Outubro de 1984.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma dos Açores, Tomás George Conceição Silva.**

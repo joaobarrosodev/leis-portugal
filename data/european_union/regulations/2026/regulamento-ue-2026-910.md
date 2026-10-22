@@ -1,0 +1,316 @@
+---
+schema_version: '1.0'
+id: eu:celex:32026R0910:por
+title: Regulamento Delegado (UE) 2026/910 da Comissão, de 24 de abril de 2026
+short_title: null
+summary: Regulamento Delegado (UE) 2026/910 da Comissão, de 24 de abril de 2026, que completa o Regulamento (UE) 2024/3005
+  do Parlamento Europeu e do Conselho no que diz respeito às taxas cobradas pela Autoridade Europeia dos Valores Mobiliários
+  e dos Mercados aos prestadores de serviços de notação ASG
+jurisdiction: european_union
+territory: null
+document_type: regulation
+document_type_label: Regulamento Delegado
+issuing_authority:
+- Comissão Europeia
+- FISMA
+proposing_entity: null
+official_number: 2026/910
+official_date: null
+publication_date: '2026-07-30'
+publication:
+  gazette: Jornal Oficial da União Europeia
+  reference: JO L, 2026/910, 30.7.2026
+  number: '910'
+  series: L
+  supplement: null
+  pages: null
+  pdf_url: http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.01/DOC_1
+entry_into_force_dates:
+- '2026-07-31'
+end_of_validity_date: '9999-12-31'
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto original publicado no Jornal Oficial
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: 32026R0910
+  eli: http://data.europa.eu/eli/reg_del/2026/910/oj
+  oj: oj:L_202600910
+  dre: null
+  dre_path: null
+  internal: eu:celex:32026R0910:por
+source:
+  id: eurlex-cellar
+  name: EUR-Lex / CELLAR
+  official_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32026R0910
+  metadata_url: http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020
+  content_url: http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1
+  consolidated_url: null
+  retrieved_at: '2026-10-22T03:55:05Z'
+  retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
+  source_modified_at: '2026-07-30T03:01:19.063+02:00'
+integrity:
+  source_sha256: f3a7b1d2437819c9af3d5573c001da7983b2d5cd571110994b6c0f305af26f3e
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal EUR-Lex/CELLAR
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect eurlex
+  generated_at: '2026-10-22T03:55:05Z'
+  notes: null
+reuse:
+  status: permitted_with_conditions
+  attribution: União Europeia, EUR-Lex / Publicações da União Europeia
+  reference: https://eur-lex.europa.eu/content/legal-notice/legal-notice.html
+  notes: Verificar o aviso jurídico aplicável; só o texto publicado no Jornal Oficial faz fé (as consolidações são instrumentos
+    de documentação).
+subjects:
+- Autoridade Europeia dos Valores Mobiliários e dos Mercados
+- comunicação de dados
+- financiamento sustentável
+- mercado de capitais
+- mercado único
+- pagamento
+- processo administrativo
+- regulamentação do investimento
+- regulamentação financeira
+- supervisão financeira
+relationships:
+- type: based_on
+  target: celex:32024R3005
+  label: null
+  source: http://publications.europa.eu/resource/cellar/cfb94521-b829-11ef-91ed-01aa75ed71a1
+  date: '2024-12-12'
+- type: cites
+  target: celex:32010R1095
+  label: null
+  source: http://publications.europa.eu/resource/cellar/d6206116-a910-4ffa-b6cd-f14b1b503568
+- type: cites
+  target: celex:32013L0034
+  label: null
+  source: http://publications.europa.eu/resource/cellar/aef88894-e08d-11e2-9165-01aa75ed71a1
+- type: cites
+  target: celex:32019R0715
+  label: null
+  source: http://publications.europa.eu/resource/cellar/eb2b6df1-72f0-11e9-9f05-01aa75ed71a1
+- type: cites
+  target: celex:32024R2509
+  label: null
+  source: http://publications.europa.eu/resource/cellar/fb2caf66-7ba3-11ef-bbbe-01aa75ed71a1
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+derived_material:
+  machine_generated: true
+  notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
+validation:
+  status: validated
+  checked_at: '2026-10-22T03:55:05Z'
+  warnings: []
+  errors: []
+---
+
+# REGULAMENTO DELEGADO (UE) 2026/910 DA COMISSÃO
+
+de 24 de abril de 2026
+
+que completa o Regulamento (UE) 2024/3005 do Parlamento Europeu e do Conselho no que diz respeito às taxas cobradas pela Autoridade Europeia dos Valores Mobiliários e dos Mercados aos prestadores de serviços de notação ASG
+
+(Texto relevante para efeitos do EEE)
+
+A COMISSÃO EUROPEIA,
+
+Tendo em conta o Tratado sobre o Funcionamento da União Europeia,
+
+Tendo em conta o Regulamento (UE) 2024/3005 do Parlamento Europeu e do Conselho, de 27 de novembro de 2024, relativo à transparência e integridade das atividades de notação ambiental, social e de governação (ASG), e que altera os Regulamentos (UE) 2019/2088 e (UE) 2023/2859 [([^1])](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202600910PT.000101-E0001), nomeadamente o artigo 42.º, n.º 2, segundo parágrafo,
+
+Considerando o seguinte:
+
+(1) Em conformidade com o artigo 42.º, n.º 1, do Regulamento (UE) 2024/3005, a Autoridade Europeia dos Valores Mobiliários (ESMA) deve cobrar taxas proporcionais aos prestadores de serviços de notação ASG para cobrir na íntegra as despesas suportadas pela ESMA com a supervisão dos prestadores de serviços de notação ASG e com o reembolso dos custos em que as autoridades competentes possam incorrer no exercício das suas competências nos termos do referido regulamento, nomeadamente na sequência da delegação de poderes ao abrigo do artigo 43.º do mesmo regulamento.
+
+(2) A fim de cobrir integralmente as despesas suportadas pela ESMA com a supervisão dos prestadores de serviços de notação ASG, cabe à ESMA determinar as taxas de supervisão anuais com base na estimativa anual de todos os custos diretos necessários para as funções de supervisão desempenhadas pela ESMA e numa repartição adequada das despesas gerais fixas e variáveis da ESMA.
+
+(3) Para assegurar uma afetação justa e clara das taxas que, ao mesmo tempo, reflita os encargos administrativos reais por entidade supervisionada, a ESMA deve calcular as taxas de supervisão tendo por base o volume de negócios dos prestadores de serviços de notação ASG, uma vez que o custo da supervisão dos prestadores de serviços de notação ASG maiores é mais elevado do que para os de menor dimensão.
+
+(4) A fim de permitir à ESMA dispor em tempo útil dos dados auditados relativos ao volume de negócios para a estimativa das taxas que lhe são devidas pelos prestadores de serviços de notação ASG, o ano de referência das contas auditadas para a determinação do volume de negócios aplicável deve ser o penúltimo exercício antes daquele relativamente ao qual a ESMA cobra taxas ao prestador de serviços de notação ASG.
+
+(5) Para facilitar o cálculo das taxas pela ESMA, os prestadores de serviços de notação ASG devem apresentar as suas contas auditadas à ESMA dentro de um determinado prazo.
+
+(6) O volume de negócios aplicável dos prestadores de serviços de notação ASG é calculado em euros. Por conseguinte, é necessário especificar um mecanismo para a conversão em euros das receitas geradas noutras moedas. A ESMA deve calcular as sanções a aplicar em caso de atraso de pagamento em conformidade com as disposições relativas aos juros de mora estabelecidas no artigo 99.º do Regulamento (UE, Euratom) 2024/2509 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202600910PT.000101-E0002).
+
+(7) A fim de proporcionar segurança orçamental tanto à ESMA como aos prestadores de serviços de notação ASG em causa, importa cobrar uma taxa de supervisão anual aos prestadores de serviços de notação ASG estabelecidos tanto dentro como fora da União. As taxas de supervisão anuais não devem tornar-se um encargo para os pequenos prestadores de serviços de notação ASG e para os novos operadores no mercado de notação ASG. Por conseguinte, é necessário que a taxa de supervisão anual seja proporcional e adequada à dimensão e ao âmbito da supervisão dos prestadores de serviços de notação ASG. Em conformidade com o artigo 5.º do Regulamento (UE) 2024/3005, foi introduzido um regime temporário para facilitar a entrada no mercado de pequenos prestadores de serviços de notação ASG e apoiar o desenvolvimento dos pequenos prestadores de serviços de notação ASG que já operam na União. Durante a vigência desse regime temporário, a ESMA deve cobrar aos pequenos prestadores de serviços de notação ASG uma taxa de supervisão anual proporcional ao seu volume de negócios aplicável. Uma vez que o artigo 5.º do Regulamento (UE) 2024/3005 não exige que os pequenos prestadores de serviços de notação ASG sejam sujeitos ao mesmo grau de supervisão das restantes entidades, e dado o objetivo de facilitar o acesso dos pequenos prestadores de serviços de notação ASG ao mercado, é necessário introduzir um limite máximo para as taxas, expresso em percentagem do volume de negócios aplicável.
+
+(8) Em conformidade com o Regulamento Delegado (UE) 2019/715 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202600910PT.000101-E0003), as taxas cobradas aos prestadores de serviços de notação ASG devem ser fixadas a um nível que cubra o custo total dos serviços prestados pela ESMA e que evite tanto a criação de um défice como a acumulação de um excedente significativo. Em caso de resultados orçamentais significativamente positivos ou negativos recorrentes, o nível das taxas pode ser revisto.
+
+(9) A fim de simplificar numa maior medida a gestão das taxas cobradas e assegurar que a ESMA dispõe dos fundos necessários para a realização das suas atividades de supervisão planeadas, as taxas de supervisão anuais devem ser pagas numa única prestação durante os primeiros três meses do ano civil relativamente ao qual são devidas. As taxas de supervisão anuais não podem ser reembolsadas.
+
+(10) A ESMA deve cobrar uma taxa de autorização aos prestadores de serviços de notação ASG estabelecidos na União, a fim de refletir os custos do tratamento do pedido de autorização. A complexidade de um pedido de autorização e os custos associados à sua avaliação aumentam caso um prestador de serviços de notação ASG tencione validar notações ASG ou tencione recorrer à subcontratação. Por conseguinte, é necessário que a taxa de autorização seja acrescida de uma taxa relacionada com a validação ou subcontratação em conformidade. Os custos de tratamento dependem ainda, em grande medida, da dimensão dos prestadores de serviços de notação ASG. Por conseguinte, um prestador de serviços de notação ASG deve ficar sujeito a uma taxa de autorização fixa reduzida caso deixe de ser classificado como pequeno prestador de serviços de notação ASG ou três anos após o seu registo, consoante o que ocorrer primeiro.
+
+(11) Os prestadores de serviços de notação ASG estabelecidos fora da União que apresentem um pedido de registo ao abrigo do regime de equivalência nos termos do artigo 10.º do Regulamento (UE) 2024/3005 devem pagar uma taxa de registo cujo montante reflita o esforço estimado da ESMA para tratar esses pedidos de registo. Uma vez que o registo ao abrigo do regime de equivalência é um processo mais simples do que a autorização e que os prestadores de serviços de notação ASG estabelecidos fora da União já estão sujeitos à autorização e supervisão fora da União, a taxa de registo deve ser muito inferior à taxa de autorização. Os prestadores de serviços de notação ASG estabelecidos fora da União que apresentem um pedido de reconhecimento nos termos do artigo 12.º do Regulamento (UE) 2024/3005 devem pagar taxas que cubram o seu reconhecimento e os custos da sua supervisão anual. A este respeito, as despesas suportadas pela ESMA referem-se ao reconhecimento desses prestadores de serviços de notação ASG estabelecidos fora da União, que segue um procedimento semelhante ao aplicável à autorização dos prestadores de serviços de notação ASG estabelecidos na União, e às despesas suportadas pela ESMA com a supervisão dos prestadores de serviços de notação ASG reconhecidos.
+
+(12) Aos pequenos prestadores de serviços de notação ASG que notifiquem a ESMA para obter o registo em conformidade com o artigo 5.º do Regulamento (UE) 2024/3005 deve ser cobrada uma taxa de registo fixa. Os pequenos prestadores de serviços de notação ASG registados que podem ser classificados como microprestadores de serviços de notação ASG, de acordo com o artigo 3.º, n.º 1, da Diretiva 2013/34/UE do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202600910PT.000101-E0004), devem ficar isentos do pagamento de taxas de supervisão anuais durante todo o período em que beneficiem do regime temporário.
+
+(13) Tendo em conta eventuais desenvolvimentos futuros, os montantes das taxas de autorização, reconhecimento e registo podem ser revistos e atualizados conforme necessário.
+
+(14) As autoridades competentes incorrem em custos no exercício das competências que lhes são delegadas pela ESMA e na prestação de assistência à ESMA nos outros casos especificados no Regulamento (UE) 2024/3005. As taxas a cobrar pela ESMA aos prestadores de serviços de notação ASG devem cobrir também essas despesas. Para evitar que as autoridades nacionais competentes incorram em prejuízo ou realizem ganhos com o exercício de competências delegadas ou a assistência à ESMA, esta deve apenas reembolsar os custos efetivamente suportados por essas autoridades,
+
+ADOTOU O PRESENTE REGULAMENTO:
+
+###### Artigo 1.º — Recuperação na íntegra dos custos de supervisão
+
+As taxas cobradas aos prestadores de serviços de notação ASG devem cobrir todos os custos relacionados com:
+
+a) A supervisão dos prestadores de serviços de notação ASG pela ESMA nos termos do Regulamento (UE) 2024/3005, incluindo os custos decorrentes da autorização, registo e reconhecimento dos prestadores de serviços de notação ASG;
+
+b) O reembolso das autoridades competentes nas quais a ESMA tenha delegado competências nos termos do artigo 43.º do Regulamento (UE) 2024/3005;
+
+c) O reembolso das autoridades competentes que tenham prestado assistência à ESMA nos termos do artigo 33.º, n.º 4, e do artigo 34.º, n.º 5, do Regulamento (UE) 2024/3005.
+
+###### Artigo 2.º — Volume de negócios aplicável
+
+1. Para efeitos do cálculo das taxas de supervisão anuais a que se refere o artigo 4.º e das taxas de registo e de supervisão aplicáveis aos pequenos prestadores de serviços de notação ASG a que se refere o artigo 8.º, o volume de negócios aplicável a um determinado exercício (n) deve corresponder às receitas de um prestador de serviços de notação ASG ou do grupo de prestadores de serviços de notação ASG a que pertence geradas pelas atividades de notação ASG tal como publicadas nas respetivas contas auditadas ou nas contas certificadas por auditores externos do exercício n-2.
+
+2. Se o prestador de serviços de notação ASG não tiver operado durante todo o exercício (n-2), a ESMA deve estimar as receitas aplicáveis por extrapolação desse montante para todo o exercício.
+
+3. Caso não estejam disponíveis contas auditadas do exercício (n-2) para um determinado prestador de serviços de notação ASG, a ESMA deve utilizar as contas auditadas desse prestador de serviços de notação ASG relativas ao exercício (n-1).
+
+4. Os prestadores de serviços de notação ASG devem fornecer anualmente à ESMA as contas auditadas a que se refere o n.º 1. Os prestadores de serviços de notação ASG devem apresentar essas contas à ESMA por via eletrónica até 30 de setembro de cada exercício (n-1).
+
+5. Se as receitas referidas no n.º 1 forem comunicadas noutra moeda que não o euro, a ESMA deve proceder à respetiva conversão em euros, utilizando a respetiva taxa de câmbio média aplicável ao período durante o qual essas receitas foram registadas. Para o efeito, a ESMA deve utilizar a taxa de câmbio de referência do euro publicada pelo Banco Central Europeu.
+
+###### Artigo 3.º — Tipos de taxa e condições gerais de pagamento
+
+1. A ESMA deve cobrar aos prestadores de serviços de notação ASG estabelecidos na União que apresentem um pedido de autorização nos termos do artigo 6.º do Regulamento (UE) 2024/3005 os seguintes tipos de taxas:
+
+a) As taxas de supervisão anuais previstas no artigo 4.º;
+
+b) As taxas de autorização previstas no artigo 5.º.
+
+2. A ESMA deve cobrar aos prestadores de serviços de notação ASG estabelecidos fora da União que apresentem um pedido de reconhecimento nos termos do artigo 12.º do Regulamento (UE) 2024/3005 os seguintes tipos de taxas:
+
+a) As taxas de supervisão anuais previstas no artigo 4.º;
+
+b) As taxas de reconhecimento previstas no artigo 7.º.
+
+3. A ESMA deve cobrar aos prestadores de serviços de notação ASG estabelecidos fora da União que apresentem um pedido de registo ao abrigo do regime de equivalência nos termos do artigo 10.º do Regulamento (UE) 2024/3005 os seguintes tipos de taxas:
+
+a) As taxas de supervisão anuais fixas previstas no artigo 4.º;
+
+b) As taxas de registo previstas no artigo 6.º.
+
+4. A ESMA deve cobrar aos pequenos prestadores de serviços de notação ASG a que se refere o artigo 5.º, n.º 1, do Regulamento (UE) 2024/3005 taxas de supervisão anuais e taxas de registo proporcionadas, em conformidade com o artigo 8.º do presente regulamento.
+
+5. As taxas devem ser pagas em euros. As taxas são devidas de acordo com o estabelecido nos artigos 4.º, 5.°, 6.° e 7.°.
+
+6. Os eventuais atrasos de pagamento dão lugar a juros de mora como previsto no artigo 99.º do Regulamento (UE, Euratom) 2024/2509.
+
+###### Artigo 4.º — Taxa de supervisão anual
+
+1. A ESMA deve cobrar uma taxa de supervisão anual aos prestadores de serviços de notação ASG registados ou autorizados estabelecidos na União e ao prestador de serviços de notação ASG reconhecidos estabelecidos fora da União.
+
+2. A ESMA deve cobrar uma taxa de supervisão anual fixa de 6 000 EUR aos prestadores de serviços de notação ASG registados estabelecidos fora da União que operem na União ao abrigo do regime de equivalência nos termos do artigo 10.º do Regulamento (UE) 2024/3005.
+
+3. A ESMA deve calcular o custo total de supervisão anual e a taxa de supervisão anual para um determinado exercício financeiro de um prestador de serviços de notação ASG registado ou autorizado na União ou de um prestador de serviços de notação ASG reconhecido estabelecido fora da União do seguinte modo:
+
+a) A base para o cálculo do custo total anual de supervisão para um determinado exercício (n) é a estimativa das despesas relacionadas com a supervisão dos prestadores de serviços de notação ASG, tal como incluídas no orçamento da ESMA para esse exercício, estabelecida e aprovada em conformidade com o artigo 63.º do Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntr5-L_202600910PT.000101-E0005);
+
+b) O montante pertinente para o cálculo da taxa de supervisão anual relativa a um determinado exercício (n) é o montante total estimado das despesas a que se refere a alínea a) reduzido das taxas de supervisão anuais a que se refere o n.º 2 do presente artigo;
+
+c) Um prestador de serviços de notação ASG registado ou autorizado ou um prestador de serviços de notação ASG reconhecido a que se refere o n.º 1 deve pagar, a título de taxa de supervisão anual, uma parte do montante pertinente que corresponde ao rácio entre o volume de negócios aplicável do prestador de serviços de notação ASG registado ou autorizado ou reconhecido e o volume de negócios aplicável total de todos os prestadores de serviços de notação ASG registados, autorizados e reconhecidos obrigados a pagar uma taxa de supervisão anual nos termos do n.º 1.
+
+4. A taxa de supervisão anual deve ser paga numa única prestação, o mais tardar até ao final de março do ano a que diz respeito.
+
+A ESMA deve enviar notas de débito aos prestadores de serviços de notação ASG em causa, especificando o montante da taxa de supervisão anual, pelo menos 30 dias de calendário antes do dia em que as taxas anuais devem ser pagas.
+
+A taxa de supervisão anual não pode ser reembolsada.
+
+5. Em derrogação do n.º 3, um prestador de serviços de notação ASG registado, autorizado ou reconhecido que seja obrigado a pagar uma taxa de supervisão anual nos termos do n.º 1 deve pagar, no ano do seu registo, autorização ou reconhecimento, uma taxa de supervisão inicial calculada do seguinte modo:
+
+*taxa a pagar no primeiro ano pelo prestador de serviços de notação ASG autorizado, registado ou reconhecido = taxa de registo * coeficiente*
+
+| *Coeficiente =* | *número de dias de calendário a contar da data da autorização, do registo ou do reconhecimento até 31 de dezembro do exercício (n)* |
+| --- | --- |
+| *número de dias de calendário no exercício (n)* |  |
+
+No entanto, um prestador de serviços de notação ASG autorizado, reconhecido ou registado durante o mês de dezembro não paga a taxa de supervisão do primeiro ano.
+
+###### Artigo 5.º — Taxa de autorização
+
+1. O montante da taxa de autorização a pagar por cada prestador de serviços de notação ASG estabelecido na União que apresente um pedido de autorização deve ser proporcional à complexidade do pedido.
+
+2. Os prestadores de serviços de notação ASG estabelecidos na União pagam uma taxa de autorização fixa de 40 000 EUR.
+
+No entanto, os pequenos prestadores de serviços de notação ASG, incluindo os classificados como microprestadores de serviços de notação ASG, que optem por ser abrangidos pelo âmbito de aplicação do Regulamento (UE) 2024/3005 em conformidade com o artigo 5.º, n.º 4, do mesmo regulamento, ou que, após a conclusão do regime temporário, tenham a obrigação de solicitar uma autorização, pagam uma taxa de autorização fixa de 20 000 EUR.
+
+3. Os prestadores de serviços de notação ASG estabelecidos na União que, no momento da apresentação do pedido de autorização, solicitem a validação de notações ASG ou o recurso à subcontratação devem pagar 5 000 EUR adicionais por cada pedido.
+
+4. Um prestador de serviços de notação ASG estabelecido na União e já autorizado em conformidade com o artigo 8.º do Regulamento (UE) 2024/3005 que apresente um pedido de validação de notações ASG ou de recurso à subcontratação deve pagar uma taxa de 5 000 EUR por cada pedido.
+
+5. A taxa de autorização é devida no momento em que o prestador de serviços de notação ASG estabelecido na União apresenta o pedido de autorização e deve ser paga, na íntegra, no prazo de 30 dias de calendário a contar da data de emissão da nota de débito pela ESMA.
+
+6. A ESMA não pode reembolsar uma taxa de autorização paga se um prestador de serviços de notação ASG retirar o seu pedido de autorização antes de a ESMA ter adotado a decisão fundamentada de autorização ou de recusa da autorização.
+
+###### Artigo 6.º — Taxa de registo dos prestadores de serviços de notação ASG estabelecidos fora da União
+
+1. Os prestadores de serviços de notação ASG estabelecidos fora da União que apresentem um pedido de registo ao abrigo do regime de equivalência nos termos do artigo 10.º do Regulamento (UE) 2024/3005 devem pagar uma taxa de registo fixa de 10 000 EUR.
+
+2. A taxa de registo é devida no momento em que o prestador de serviços de notação ASG estabelecido fora da União apresenta o pedido de registo e deve ser paga, na íntegra, no prazo de 30 dias de calendário a contar da data de emissão da nota de débito pela ESMA.
+
+3. A ESMA não reembolsa uma taxa de registo paga caso um prestador de serviços de notação ASG estabelecido fora da União retire o seu pedido de registo antes de a ESMA ter confirmado a exaustividade das informações fornecidas pelo prestador de serviços de notação ASG estabelecido fora da União.
+
+###### Artigo 7.º — Taxa de reconhecimento dos prestadores de serviços de notação ASG estabelecidos fora da União
+
+1. Os prestadores de serviços de notação ASG estabelecidos fora da União que apresentem um pedido de reconhecimento nos termos do artigo 12.º do Regulamento (UE) 2024/3005 devem pagar uma taxa de reconhecimento fixa de 40 000 EUR.
+
+2. A taxa de reconhecimento é devida no momento em que o prestador de serviços de notação ASG estabelecido fora da União apresenta o pedido de reconhecimento e deve ser paga, na íntegra, no prazo de 30 dias de calendário a contar da data de emissão da nota de débito pela ESMA.
+
+3. A ESMA não pode reembolsar uma taxa de reconhecimento paga se um prestador de serviços de notação ASG estabelecido fora da União retirar o seu pedido de reconhecimento antes de a ESMA ter adotado a decisão fundamentada de conceder ou recusar o reconhecimento.
+
+###### Artigo 8.º — Taxas de registo e taxas de supervisão anuais aplicáveis aos pequenos prestadores de serviços de notação ASG
+
+1. A ESMA deve cobrar uma taxa de registo fixa de 2 000 EUR aos pequenos prestadores de serviços de notação ASG estabelecidos na União que notifiquem a ESMA para obter o registo nos termos do artigo 5.º do Regulamento (UE) 2024/3005.
+
+2. Em derrogação do artigo 4.º, a ESMA deve cobrar aos pequenos prestadores de serviços de notação ASG registados, ao longo de todo o período em que beneficiem do regime temporário aplicável aos pequenos prestadores de serviços de notação ASG nos termos do artigo 5.º do Regulamento (UE) 2024/3005, taxas de supervisão anuais proporcionais ao seu volume de negócios aplicável, que não podem representar mais de 2 % desse volume de negócios aplicável. Os pequenos prestadores de serviços de notação ASG registados que podem ser classificados como microprestadores de serviços de notação ASG, de acordo com o artigo 3.º, n.º 1, da Diretiva 2013/34/UE, devem ficar isentos do pagamento de taxas de supervisão anuais durante todo o período em que beneficiem do regime temporário.
+
+3. Caso um pequeno prestador de serviços de notação ASG opte por ser abrangido pelo âmbito de aplicação do Regulamento (UE) 2024/3005, em conformidade com o artigo 5.º, n.º 4, desse regulamento, esse pequeno prestador de serviços de notação ASG deve pagar a taxa de autorização em conformidade com o artigo 5.º do presente regulamento.
+
+4. Após o fim do regime temporário aplicável aos pequenos prestadores de serviços de notação ASG, em conformidade com o artigo 5.º, n.º 3, do Regulamento (UE) 2024/3005, e da subsequente obrigação de apresentar um pedido de autorização no prazo de seis meses para continuar a operar na União, durante os dois anos seguintes a essa data, esses prestadores de serviços de notação ASG devem continuar a pagar taxas de supervisão proporcionadas que não representem mais de 2 % do seu volume de negócios aplicável. A partir do terceiro ano após a receção da autorização, devem começar a pagar taxas de supervisão proporcionadas calculadas nos termos do artigo 4.º do presente regulamento.
+
+###### Artigo 9.º — Reembolso das autoridades nacionais competentes
+
+1. Só a ESMA pode cobrar taxas aos prestadores de serviços de notação ASG pela sua autorização, reconhecimento, registo e supervisão. As autoridades competentes não podem cobrar taxas aos prestadores de serviços de notação ASG, incluindo nos casos em que essas autoridades exerçam competências delegadas em nome da ESMA nos termos do artigo 43.º do Regulamento (UE) 2024/3005.
+
+2. A ESMA deve reembolsar às autoridades competentes as despesas efetivas em que estas tenham incorrido no exercício de competências delegadas nos termos do artigo 43.º do Regulamento (UE) 2024/3005 ou na prestação de assistência à ESMA nos termos do artigo 33.º, n.º 4, ou do artigo 34.º, n.º 5, do mesmo regulamento. As despesas a reembolsar devem incluir todos os custos fixos e variáveis relacionados com o exercício das competências delegadas ou a prestação de assistência à ESMA.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.
+
+O presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.
+
+Feito em Bruxelas, em 24 de abril de 2026.
+
+***Pela Comissão***
+
+***A Presidente***
+
+**Ursula VON DER LEYEN**
+
+---
+
+## Notas
+
+> [(^1^)](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202600910PT.000101-E0001) [JO L, 2024/3005, 12.12.2024, ELI: http://data.europa.eu/eli/reg/2024/3005/oj](https://data.europa.eu/eli/reg/2024/3005/oj).
+
+> [(^2^)](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202600910PT.000101-E0002) Regulamento (UE, Euratom) 2024/2509 do Parlamento Europeu e do Conselho, de 23 de setembro de 2024, relativo às regras financeiras aplicáveis ao orçamento geral da União ([JO L, 2024/2509, 26.9.2024, ELI: http://data.europa.eu/eli/reg/2024/2509/oj](https://data.europa.eu/eli/reg/2024/2509/oj)).
+
+> [(^3^)](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202600910PT.000101-E0003) Regulamento Delegado (UE) 2019/715 da Comissão, de 18 de dezembro de 2018, que institui o regulamento financeiro-quadro dos organismos criados ao abrigo do TFUE e do Tratado Euratom e referidos no artigo 70.º do Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho ([JO L 122 de 10.5.2019, p. 1](http://publications.europa.eu/resource/oj/JOL_2019_122_R_TOC), ELI: [http://data.europa.eu/eli/reg_del/2019/715/oj](http://data.europa.eu/eli/reg_del/2019/715/oj)).
+
+> [(^4^)](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202600910PT.000101-E0004) Diretiva 2013/34/UE do Parlamento Europeu e do Conselho, de 26 de junho de 2013, relativa às demonstrações financeiras anuais, às demonstrações financeiras consolidadas e aos relatórios conexos de certas formas de empresas, que altera a Diretiva 2006/43/CE do Parlamento Europeu e do Conselho e revoga as Diretivas 78/660/CEE e 83/349/CEE do Conselho ([JO L 182 de 29.6.2013, p. 19](http://publications.europa.eu/resource/oj/JOL_2013_182_R_TOC), ELI: [http://data.europa.eu/eli/dir/2013/34/oj](http://data.europa.eu/eli/dir/2013/34/oj)).
+
+> [(^5^)](http://publications.europa.eu/resource/cellar/1bdd6e42-8baf-11f1-9262-01aa75ed71a1.0020.03/DOC_1#ntc5-L_202600910PT.000101-E0005) Regulamento (UE) n.º 1095/2010 do Parlamento Europeu e do Conselho, de 24 de novembro de 2010, que cria uma Autoridade Europeia de Supervisão (Autoridade Europeia dos Valores Mobiliários e dos Mercados), altera a Decisão n.º 716/2009/CE e revoga a Decisão 2009/77/CE da Comissão ([JO L 331 de 15.12.2010, p. 84](http://publications.europa.eu/resource/oj/JOL_2010_331_R_TOC), ELI: [http://data.europa.eu/eli/reg/2010/1095/oj](http://data.europa.eu/eli/reg/2010/1095/oj)).

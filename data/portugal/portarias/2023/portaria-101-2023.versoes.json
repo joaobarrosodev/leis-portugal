@@ -1,0 +1,826 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:211580658:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2023-229976085",
+ "dre_path": "/dr/detalhe/portaria/101-2023-211580658",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2023-04-11",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "229975910",
+    "229975911",
+    "229975912",
+    "229975913",
+    "229975914",
+    "229975915",
+    "229975916",
+    "229975917",
+    "229975918",
+    "229975919",
+    "229975920",
+    "229975921",
+    "229975922",
+    "229975923",
+    "229975924",
+    "229975925",
+    "229975926",
+    "229975927",
+    "229975928",
+    "229975929",
+    "229975930"
+   ]
+  },
+  {
+   "date": "2023-12-13",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:229915933:por",
+     "title": "Portaria n.º 429/2023",
+     "published": "2023-12-12",
+     "dre_path": "/dr/detalhe/portaria/429-2023-229915933"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "229975910",
+    "229975911",
+    "229975912",
+    "229975931",
+    "229975932",
+    "229975933",
+    "229975934",
+    "229975935",
+    "229975914",
+    "229975936",
+    "229975937",
+    "229975938",
+    "229975918",
+    "229975939",
+    "229975920",
+    "351301175",
+    "229975941",
+    "229975942",
+    "229975943",
+    "229975925",
+    "229975926",
+    "229975944",
+    "229975928",
+    "229975945",
+    "229975946"
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:906727861:por",
+     "title": "Portaria n.º 34/2025/1",
+     "published": "2025-02-10",
+     "dre_path": "/dr/detalhe/portaria/34-2025-906727861"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 20.º"
+   ],
+   "fragments": [
+    "229975910",
+    "229975911",
+    "229975912",
+    "229975931",
+    "229975932",
+    "229975933",
+    "906850388",
+    "906850389",
+    "229975914",
+    "906850390",
+    "906850391",
+    "906850392",
+    "906850393",
+    "906850394",
+    "229975920",
+    "906850395",
+    "906850396",
+    "906850397",
+    "906850398",
+    "229975925",
+    "229975926",
+    "906850399",
+    "906850400",
+    "906850401",
+    "906850402"
+   ]
+  },
+  {
+   "date": "2026-01-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:993782275:por",
+     "title": "Portaria n.º 4/2026/1",
+     "published": "2026-01-05",
+     "dre_path": "/dr/detalhe/portaria/4-2026-993782275"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 14.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º"
+   ],
+   "fragments": [
+    "229975910",
+    "229975911",
+    "229975912",
+    "229975931",
+    "229975932",
+    "229975933",
+    "906850388",
+    "998506170",
+    "229975914",
+    "906850390",
+    "998506171",
+    "906850392",
+    "998506172",
+    "906850394",
+    "229975920",
+    "998506173",
+    "998506174",
+    "906850397",
+    "1182959775",
+    "1182959975",
+    "1182979775",
+    "1182979875",
+    "1182979975",
+    "1182980075",
+    "1182980175",
+    "1182980275"
+   ]
+  }
+ ],
+ "fragments": {
+  "229975910": {
+   "fragment_id": "229976086",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 101/2023\n\nde 11 de abril\n\nSumário: Aprova o Regulamento Específico do Sistema de Incentivos Portugal Events.\n\nA Estratégia Turismo 2027, aprovada pela Resolução do Conselho de Ministros n.º 134/2017, de 27 de setembro, prevê um conjunto de eixos e linhas estratégicas de atuação que incluem a projeção de Portugal enquanto destino de eventos de âmbito internacional, reconhecidos como ativos qualificadores da oferta de valor dos territórios pelo seu contributo para a dinamização sustentável das economias locais e para a desconcentração e mitigação da sazonalidade da procura turística.\n\nEm alinhamento com esse quadro de referência estratégico, e com o propósito de potenciar a competitividade do destino Portugal por via da aposta no reforço da sua notoriedade internacional, a Resolução do Conselho de Ministros n.º 76/2021, de 16 de junho, veio incluir, num dos seus pilares de atuação, o objetivo de captação de eventos internacionais, inscrevendo, entre as suas ações prioritárias, a criação do Programa Portugal Events.\n\nEm face de um enquadramento internacional cada vez mais competitivo e global, que obriga, pelos inúmeros desafios e oportunidades que comporta, à prossecução de estratégias ativas de promoção da imagem externa de Portugal, pretende-se com o presente regulamento robustecer o atual contexto de captação de eventos de projeção internacional, de modo a gerar maiores níveis de atratividade, potenciar a escala da internacionalização e garantir vantagens competitivas e efeitos multiplicadores suscetíveis de concorrer para o desenvolvimento económico e para a valorização e coesão territorial.\n\nPretende-se, do mesmo modo, assegurar um quadro mais favorável para a realização de eventos que, podendo não ter projeção internacional, ainda assim contribuam para dinamizar as economias locais, em particular nos territórios de baixa densidade, deste modo contribuindo para a coesão económica e social do território.\n\nÉ, pois, com estes objetivos que se aprova o sistema de incentivos Portugal Events, com a missão de dinamizar as economias locais, assim como de reforçar a visibilidade e a notoriedade de Portugal e das suas regiões à escala global, valorizando os seus ativos e recursos, nomeadamente os que são capazes de acentuar as diferenças competitivas das regiões e do País.\n\nO Decreto-Lei n.º 6/2015, de 8 de janeiro, que procede à aprovação do enquadramento nacional dos sistemas de incentivos às empresas, define as condições e as regras a observar na criação de sistemas de incentivos aplicáveis às empresas no território do continente, regulando ainda as especificidades dos sistemas de incentivos às empresas.\n\nO Regulamento, aprovado em anexo à presente portaria, respeita as normas do Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014, que declara certas categorias de auxílio compatíveis com o mercado interno, em aplicação dos artigos 107.º e 108.º do Tratado, o «Regulamento Geral de Isenção por Categoria» (RGIC), na sua atual redação, bem como o Regulamento (UE) n.º 1407/2013 de 18 de dezembro de 2013, relativo à aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia aos auxílios de minimis, na sua redação atual (Regulamento de minimis).\n\nNeste contexto, o Regulamento que cria o sistema de incentivos Portugal Events abrange como domínio de intervenção, de entre os previstos no artigo 8.º do Decreto-Lei n.º 6/2015, de 8 de janeiro, o da inovação e competitividade empresarial.\n\nFoi ouvida a Comissão Técnica dos Sistemas de Incentivos, a que se refere o Decreto-Lei n.º 6/2015, de 8 de janeiro, a qual emitiu parecer favorável.\n\nAssim, nos termos do n.º 1 do artigo 6.º do Decreto-Lei n.º 6/2015, de 8 de janeiro, manda o Governo, pelo Secretário de Estado do Turismo, Comércio e Serviços, no uso de competência delegada pelo Despacho n.º 14724-B/2022, de 21 de dezembro, do Ministro da Economia e do Mar, publicado no Diário da República, 2.ª série, n.º 248, 2.º suplemento, de 27 de dezembro de 2022, o seguinte:"
+  },
+  "229975911": {
+   "fragment_id": "229976087",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nÉ aprovado o Regulamento Específico do Sistema de Incentivos Portugal Events, em anexo à presente portaria e que dela faz parte integr"
+  },
+  "229975912": {
+   "fragment_id": "229976088",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "229975913": {
+   "fragment_id": "229976089",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Dotação\n\n1 - A dotação disponível para financiamento das operações ao abrigo do presente Programa, assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P., é de (euro) 10 000 000 (dez milhões de euros), repartidos, em partes iguais, pelos eventos de 2023 e de 2024.\n\n2 - A dotação orçamental referida no número anterior é igualmente repartida em função das tipologias de eventos a que se refere o n.º 1 do artigo 6.º, da seguinte forma:\n\na) Eventos a que se refere a alínea a): (euro) 8 500 000 (oito milhões e quinhentos mil euros);\n\nb) Eventos a que se refere a alínea b): (euro) 1 500 000 (um milhão e quinhentos mil euros).\n\n3 - As dotações previstas no número anterior podem ser alteradas por despacho do membro do Governo com tutela sobre o setor do turismo, em função das necessidades que se vierem a registar no decurso da execução do Programa."
+  },
+  "229975914": {
+   "fragment_id": "229976090",
+   "type": 11,
+   "heading": "Artigo 4.º — Âmbito territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Âmbito territorial\n\nO sistema de incentivos Portugal Events é aplicável a todo o território nacional."
+  },
+  "229975915": {
+   "fragment_id": "229976091",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Entidades beneficiárias\n\n1 - São entidades beneficiárias do sistema de incentivos Portugal Events, as seguintes:\n\na) As empresas de qualquer dimensão, detentoras dos direitos de organização dos eventos ou que tenham como atividade principal a sua organização;\n\nb) Os Convention Bureaux, Associações e as Agências Regionais de Promoção Turística reconhecidas pela Confederação do Turismo de Portugal.\n\n2 - As empresas com sede no estrangeiro que reúnam as caraterísticas definidas na alínea a) do número anterior, são entidades beneficiárias do sistema de incentivos Portugal Events, desde que tenham em Portugal a devida representação."
+  },
+  "229975916": {
+   "fragment_id": "229976092",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações enquadráveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Operações enquadráveis\n\n1 - São enquadráveis no sistema de incentivos Portugal Events as operações de organização e realização dos seguintes tipos de eventos:\n\na) Eventos associados ao desenvolvimento de produtos turísticos estratégicos, que sejam, pela sua escala, catalisadores da atração de turistas, contribuam para a dinamização das economias locais e sejam capazes de projetar a imagem de Portugal ou da região onde se realizam;\n\nb) Eventos associativos ou corporativos não consolidados no calendário de eventos dos territórios onde se realizam.\n\n2 - Não são enquadráveis operações de organização e realização de eventos que correspondam a patrocínios individuais ou que não estejam direcionados para os mercados externos prioritários definidos na Estratégia Turismo 2027 e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P."
+  },
+  "229975917": {
+   "fragment_id": "229976093",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de elegibilidade das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Condições de elegibilidade das entidades beneficiárias\n\n1 - As entidades beneficiárias devem cumprir as seguintes condições de elegibilidade:\n\na) Estarem legalmente constituídas;\n\nb) Possuírem ou assegurarem os recursos físicos, humanos, materiais e financeiros necessários à organização e realização do evento;\n\nc) Terem uma situação tributária e contributiva regularizada perante a administração fiscal, a segurança social e o Turismo de Portugal, I. P.;\n\nd) Disporem de contabilidade organizada nos termos da legislação aplicável;\n\ne) No caso de empresas, possuírem uma situação líquida positiva à data de 31 de dezembro de 2019 ou, não possuindo, demonstrarem que a possuem à data da candidatura, mediante apresentação de balanço intercalado certificado pelo respetivo contabilista certificado;\n\nf) Não se enquadrarem no conceito de empresa em dificuldade nos termos da definição que consta do n.º 18 do artigo 2.º do Regulamento Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;\n\ng) Não terem sido objeto de aplicação, nos dois anos anteriores à data da candidatura, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal;\n\nh) Não terem sido condenadas nos dois anos anteriores à data da candidatura, por sentença transitada em julgado, por despedimento ilegal de grávidas, puérperas ou lactantes.\n\n2 - Com exceção da condição prevista na alínea c) do número anterior, que pode ser verificada até à data da assinatura do Termo de Aceitação, as demais condições de elegibilidade são aferidas à data da candidatura."
+  },
+  "229975918": {
+   "fragment_id": "229976094",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de elegibilidade das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições de elegibilidade das operações\n\n1 - As operações de organização e realização dos eventos devem cumprir as seguintes condições de elegibilidade:\n\na) Estarem em conformidade com as disposições legais e regulamentares aplicáveis;\n\nb) Terem data de início dos respetivos trabalhos após a data da candidatura;\n\nc) Assegurarem as melhores práticas de sustentabilidade nas suas dimensões económica, ambiental e social, nomeadamente através da inclusão de ações e iniciativas que, numa perspetiva de criação de valor, visem a gestão de resíduos, a eliminação de plásticos de uso único, a gestão da água, a utilização de fontes de energia de baixo consumo, a proteção e o respeito pela biodiversidade e a prática de princípios de economia circular, e promovam a paridade de género entre palestrantes ou oradores, se aplicável, a contratação de fornecedores locais, e o impacte positivo na comunidade local;\n\nd) Observarem as melhores práticas de acessibilidade, sobretudo para pessoas com mobilidade condicionada;\n\ne) Garantirem a adoção de medidas que proporcionem uma experiência fluida, nomeadamente no que respeita a pagamentos virtuais, reservas online, bilhética e informação digital.\n\n2 - Sem prejuízo do cumprimento das condições de elegibilidade enunciadas no número anterior, as operações enquadráveis na alínea a) do n.º 1 do artigo 6.º devem:\n\na) Estar alinhadas com a visão, prioridades e metas da Estratégia Turismo 2027, nomeadamente no que se refere ao contributo para os objetivos de coesão territorial, sustentabilidade e crescimento em valor, bem como com a estratégia de promoção do País e dos destinos regionais;\n\nb) Corresponder a um investimento total mínimo de (euro) 100 000;\n\nc) Terem uma relevância mínima de Médio, apurada de acordo com o artigo 11.º;\n\nd) Demonstrar serem financeiramente sustentáveis, atentos os respetivos custos e receitas, patrocínios, outros apoios financeiros e parcerias previstas;\n\ne) Privilegiar modelos de inovação precursores de tendências;\n\nf) Assegurar uma adequada exposição mediática, em função da dimensão do evento, devendo, para o efeito, ser apresentado o respetivo plano de comunicação, que inclua o detalhe quanto aos meios de comunicação social e digitais assegurados.\n\n3 - Sem prejuízo do cumprimento das condições de elegibilidade enunciadas no n.º 1 do presente artigo, as operações enquadráveis na alínea b) do n.º 1 do artigo 6.º devem evidenciar o potencial em gerar, pelo menos, o número de dormidas correspondente ao limite mínimo de dormidas previsto na matriz descrita no n.º 4 do artigo 11.º"
+  },
+  "229975919": {
+   "fragment_id": "229976095",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis\n\n1 - No caso dos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a operação e adequadas às necessidades da mesma:\n\na) Aluguer de espaços para a realização do evento e respetivo programa social;\n\nb) Aluguer de equipamento audiovisual;\n\nc) Despesas com deslocações;\n\nd) Contratação de serviços diretamente associados à realização dos eventos, tais como alojamento ou fornecimento de refeições;\n\ne) Construção ou montagem de estruturas associadas à realização dos eventos, incluindo no domínio das acessibilidades;\n\nf) Serviços de organização e gestão do evento, quando contratadas em Portugal;\n\ng) Material de divulgação e campanha de comunicação.\n\n2 - Para além das despesas referidas no número anterior, são, ainda, despesas elegíveis as incorridas com o plano de comunicação nacional e internacional do evento, nomeadamente as seguintes:\n\na) Campanhas de comunicação e suportes de comunicação nacional e internacional;\n\nb) Presença em meios de comunicação;\n\nc) Deslocações de jornalistas ou meios de comunicação internacional, incluindo as despesas de alojamento e alimentação;\n\nd) Ativações de marca ou ações promocionais sobre o evento no estrangeiro;\n\ne) Produção de conteúdos de promoção do evento;\n\nf) Material de divulgação, incluindo meios digitais como websites ou apps.\n\n3 - No caso dos festivais de música localizados fora dos territórios de baixa densidade, são apenas elegíveis os custos a que se refere o número anterior.\n\n4 - Os apoios financeiros aos eventos corporativos e associativos, a que se refere a alínea b) do n.º 1 do artigo 6.º, são apurados em função do número de dormidas geradas, a que acrescem as respetivas majorações, nos termos do n.º 5 do artigo 11.º"
+  },
+  "229975920": {
+   "fragment_id": "229976096",
+   "type": 11,
+   "heading": "Artigo 10.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Despesas não elegíveis\n\nConstituem despesas não elegíveis:\n\na) Os custos normais de funcionamento do beneficiário, não previstos no investimento contratualizado, bem como custos de manutenção e substituição, e custos relacionados com atividades de tipo periódico ou contínuo;\n\nb) Os pagamentos em numerário, exceto nas situações em que se revele ser este o meio de pagamento mais frequente, em função da natureza das despesas, e desde que num quantitativo unitário inferior a (euro) 250 (duzentos e cinquenta euros)."
+  },
+  "229975921": {
+   "fragment_id": "229976097",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Apoio financeiro\n\n1 - O apoio financeiro é de natureza não reembolsável e não é cumulável com outros apoios no âmbito do mesmo ou dos demais instrumentos de apoio financeiro do Turismo de Portugal, I. P., sendo atribuído a um único evento e não podendo ser utilizado para a realização de edições posteriores.\n\n2 - O apoio financeiro a conceder aos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º, com o limite máximo de (euro) 250 000 (duzentos e cinquenta mil euros), é fixado nos seguintes termos, em função do respetivo grau de relevância do evento:\n\na) Grau de relevância Médio: 10 %;\n\nb) Grau de relevância Elevado: 30 %;\n\nc) Grau de relevância Muito Elevado: 50 %.\n\n3 - Ao apoio financeiro enunciado no número anterior acresce uma majoração de 25 % se o evento se realizar em Território de Baixa Densidade.\n\n4 - A atribuição de apoio financeiro aos eventos enquadráveis na alínea b) do n.º 1 do artigo 6.º tem por base a aplicação da seguinte matriz e respeita, no caso de candidatura apresentada por entidade referida na alínea b) do n.º 1 do artigo 5.º ou que desta obtenha parecer favorável nos termos do n.º 3 do artigo 14.º, a proporção de 75 % a suportar pelo Turismo de Portugal, I. P., e de 25 % a suportar por essa entidade:\n\n(ver documento original)\n\n5 - Ao apoio financeiro apurado nos termos do número anterior acrescem as seguintes majorações, a suportar pelo Turismo de Portugal, I. P.:\n\na) 25 %, se o evento for realizado durante o período de inverno IATA;\n\nb) 25 %, se o evento for realizado em Territórios de Baixa Densidade.\n\n6 - O membro do Governo com a tutela do setor do turismo pode, em casos excecionais devidamente justificados, autorizar que o apoio financeiro exceda os limites máximos previstos no presente artigo, desde que respeitados os limites dos enquadramentos a que se refere o artigo 20.º"
+  },
+  "229975922": {
+   "fragment_id": "229976098",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de avaliação das operações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Critérios de avaliação das operações\n\n1 - As operações enquadráveis na alínea a) do n.º 1 do artigo 6.º são avaliadas em função dos seguintes critérios:\n\na) Relevância para a projeção da imagem de Portugal ou da região, ponderada a dimensão e o posicionamento do evento, assim como o contributo do mesmo para a promoção da imagem de Portugal (ou da região onde se realiza) enquanto destino turístico sustentável;\n\nb) Exposição mediática em meios de comunicação social, ponderados os meios de comunicação social assegurados para a cobertura do evento, bem como a qualidade da exposição a alcançar pelo evento;\n\nc) Dinamização das economias locais, ponderada pelo valor e impacto gerado nas economias locais, em particular nos territórios de baixa densidade, incluindo o contributo do evento para o aumento da estada média e das receitas por via da atração de públicos específicos ou da melhoria da experiência turística;\n\nd) Inovação e sustentabilidade, ponderada pelo grau de novidade do evento, pela diferenciação que demonstra, assim como pelo grau de soluções e iniciativas associadas à sustentabilidade económica, ambiental e social que apresenta.\n\n2 - Os critérios referidos nos números anteriores são classificados com as pontuações de 1 a 5, em função do grau de preenchimento de cada um, sendo que os graus de relevância de cada evento são determinados da seguinte forma:\n\na) Grau de relevância Médio: pontuação global entre 12 e 14;\n\nb) Grau de relevância Elevado: pontuação global entre 15 e 17;\n\nc) Grau de relevância Muito Elevado: pontuação global entre 18 e 20."
+  },
+  "229975923": {
+   "fragment_id": "229976099",
+   "type": 11,
+   "heading": "Artigo 13.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Candidaturas\n\n1 - Sem prejuízo do disposto no número seguinte, as candidaturas são apresentadas a todo o tempo, através de formulário próprio disponível na página eletrónica do Turismo de Portugal, I. P., e instruídas com os seguintes elementos:\n\na) Memória descritiva do evento;\n\nb) Orçamento detalhado e perspetivas de receitas a gerar e de patrocínios e outros apoios financeiros a obter;\n\nc) Estimativa de impacto económico para a região, no que se refere às operações enquadradas na alínea a) do n.º 1 do artigo 6.º;\n\nd) Estimativa do número de dormidas em empreendimentos turísticos e/ou estabelecimentos de alojamento local, no que se refere às operações enquadradas na alínea b) do n.º 1 do artigo 6.º;\n\ne) Plano de comunicação detalhando os custos por rubrica e os objetivos/indicadores a alcançar.\n\n2 - Em relação aos eventos para 2024, a que se refere a alínea a) do n.º 1 do artigo 6.º, as candidaturas são apresentadas a partir do dia 1 de setembro de 2023."
+  },
+  "229975924": {
+   "fragment_id": "229976100",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - O Turismo de Portugal, I. P., analisa as candidaturas no prazo de 30 dias consecutivos a contar da data da apresentação de cada candidatura.\n\n2 - Sempre que necessário, o Turismo de Portugal, I. P., pode solicitar esclarecimentos complementares, a prestar no prazo máximo de 10 dias úteis contados da data da notificação do respetivo pedido, decorrido o qual a ausência de resposta da entidade beneficiária significa a desistência da candidatura.\n\n3 - No que respeita às candidaturas apresentadas por empresas organizadoras de eventos enquadráveis na alínea b) do n.º 1 do artigo 6.º, o Turismo de Portugal, I. P., solicita o parecer do respetivo Convention Bureau ou da respetiva Agência Regional de Promoção Turística.\n\n4 - A decisão final sobre a concessão do apoio financeiro compete ao Turismo de Portugal, I. P., exceto nos casos previstos no n.º 6 do artigo 11.º"
+  },
+  "229975925": {
+   "fragment_id": "229976101",
+   "type": 11,
+   "heading": "Artigo 15.º — Formalização do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Formalização do apoio\n\n1 - A atribuição do apoio financeiro é formalizada mediante Termo de Aceitação a subscrever pela entidade beneficiária, de acordo com modelo aprovado pelo Turismo de Portugal, I. P., o qual fixa o custo do investimento associado à realização do evento, o incentivo aprovado e os calendários de execução, bem como as obrigações da entidade beneficiária, as penalizações em caso de incumprimento e a redução ou revogação do apoio.\n\n2 - A não aceitação do respetivo Termo de Aceitação por razões imputáveis ao beneficiário, no prazo de 20 dias úteis contado da data da notificação da atribuição do apoio financeiro, determina a caducidade do direito ao mesmo."
+  },
+  "229975926": {
+   "fragment_id": "229976102",
+   "type": 11,
+   "heading": "Artigo 16.º — Resolução do Termo de Aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Resolução do Termo de Aceitação\n\n1 - A decisão de concessão do apoio financeiro pode ser revogada e o respetivo Termo de Aceitação anulado unilateralmente pelo Turismo de Portugal, I. P., se verificado, por facto imputável à entidade beneficiária, o incumprimento de qualquer obrigação dele resultante ou dos pressupostos da atribuição do apoio.\n\n2 - A revogação da decisão de concessão do apoio financeiro e a anulação do Termo de Aceitação implicam a devolução do apoio financeiro recebido pelo beneficiário no prazo de 60 dias úteis contado da data da respetiva notificação, acrescido dos juros calculados à taxa Euribor a seis meses, acrescida de um spread de três pontos percentuais, contabilizados desde a data do recebimento do apoio."
+  },
+  "229975927": {
+   "fragment_id": "229976103",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - O pagamento do apoio financeiro é concretizado da seguinte forma:\n\na) Libertação de 50 % com a assinatura do Termo de Aceitação;\n\nb) Libertação de uma parcela adicional de 25 % com a justificação da realização das despesas que justificam a libertação prevista na alínea anterior, se solicitada pela entidade beneficiária;\n\nc) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P. da conclusão física e financeira da operação, nos termos previstos nos n.os 1 e 2 do artigo 19.º\n\n2 - O apoio financeiro a conceder às operações enquadradas na alínea a) do n.º 1 do artigo 6.º é reduzido, no encerramento do processo, pelo valor correspondente a 10 % da receita líquida positiva gerada, até ao máximo de 50 % do montante atribuído.\n\n3 - Para efeitos do disposto no número anterior, entende-se por receita líquida positiva a diferença entre o custo total do evento e a soma das receitas obtidas, designadamente de bilheteira ou de outras fontes, como direitos de transmissão de imagem e patrocínio e outros apoios financeiros.\n\n4 - Caso se verifique, no encerramento dos processos referentes às operações enquadradas na alínea b) do n.º 1 do artigo 6.º, que o número de dormidas registado foi superior ou inferior ao estimado na candidatura, será revisto o valor do apoio financeiro, de acordo com os seguintes critérios:\n\na) Se o número de dormidas registado for superior ao estimado, o correspondente acréscimo do valor do apoio é apurado automaticamente no encerramento do processo;\n\nb) Se o número de dormidas registado for:\n\ni) Inferior a 90 % do estimado e superior ao limite mínimo de dormidas, há lugar ao correspondente ajustamento do apoio por aplicação da matriz descrita no n.º 4 do artigo 11.º;\n\nii) Inferior ao limite mínimo de dormidas, há lugar à resolução do Termo de Aceitação, nos termos do artigo 16.º\n\n5 - A devolução de montantes já pagos por força da revisão a que se refere a alínea b) do número anterior ocorre no prazo máximo de 60 dias úteis a contar da data da notificação para o efeito."
+  },
+  "229975928": {
+   "fragment_id": "229976104",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações específicas das entidades beneficiárias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Obrigações específicas das entidades beneficiárias\n\nAs entidades beneficiárias devem cumprir as seguintes obrigações em matéria de acompanhamento e divulgação dos apoios aprovados:\n\na) Permitir o acesso aos locais de realização dos eventos e àqueles onde se encontrem os elementos e documentos necessários, nomeadamente os de despesa, para o acompanhamento e controlo da sua utilização, em conformidade com o projeto e com as normas nacionais e europeias aplicáveis, nas suas componentes material, financeira e contabilística;\n\nb) Publicitar os apoios concedidos nos termos da respetiva regulamentação específica."
+  },
+  "229975929": {
+   "fragment_id": "229976105",
+   "type": 11,
+   "heading": "Artigo 19.º — Acompanhamento, controlo e auditoria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Acompanhamento, controlo e auditoria\n\n1 - Sem prejuízo de outros mecanismos que vierem a ser adotados, o acompanhamento da execução das operações é efetuado de acordo com os seguintes procedimentos:\n\na) A verificação financeira tem por base a declaração de despesa de investimento, certificada por um revisor oficial de contas ou por um contabilista certificado ou, no caso de entidade pública, pelo responsável financeiro, na qual deve ser confirmado o valor total do evento, a realização e o pagamento das despesas elegíveis, bem como a discriminação do montante das receitas e patrocínios e de outros apoios financeiros;\n\nb) A verificação física tem por base a realização de visitas aos locais de realização dos eventos, pelo Turismo de Portugal, I. P., bem como a confirmação do cumprimento das regras de publicitação do apoio definidas no Termo de Aceitação.\n\n2 - O acompanhamento da execução das operações enquadradas na alínea a) do n.º 1 do artigo 6.º baseia-se, ainda, na análise do relatório final de execução, a apresentar pelo beneficiário em sede de encerramento do processo, o qual deve detalhar o impacto económico, social e ambiental do evento face aos objetivos e indicadores definidos na candidatura, assim como conter evidências da realização dos eventos.\n\n3 - Compete ao Turismo de Portugal, I. P., desenvolver e implementar um processo de controlo e de auditoria adequado aos apoios financeiros a conceder no âmbito do Portugal Events, nomeadamente através de uma amostragem, que assegure que os recursos financeiros alocados a esta medida são utilizados de acordo com os seus objetivos."
+  },
+  "229975930": {
+   "fragment_id": "229976106",
+   "type": 11,
+   "heading": "Artigo 20.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Enquadramento europeu de auxílios de Estado\n\n1 - Para os eventos integrados na alínea a) do n.º 1 do artigo 6.º que revistam natureza cultural, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014.\n\n2 - Para os eventos a que se refere a alínea b) do n.º 1 do artigo 5.º, assim como para os eventos a que se refere a alínea a) desse mesmo número que não revistam natureza cultural, é aplicável o regime de auxílios de minimis previsto no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro.\n\n116350955"
+  },
+  "229975931": {
+   "fragment_id": "229976107",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado do Turismo, Comércio e Serviços, Nuno Jorge Cardona Fazenda de Almeida, em 5 de abril de 2023."
+  },
+  "229975932": {
+   "fragment_id": "229976108",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO ESPECÍFICO DO SISTEMA DE INCENTIVOS PORTUGAL EVENTS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO ESPECÍFICO DO SISTEMA DE INCENTIVOS PORTUGAL EVENTS\n\n(a que se refere o artigo 1.º)"
+  },
+  "229975933": {
+   "fragment_id": "229976109",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento cria e regulamenta o sistema de incentivos Portugal Events, que se destina a promover a captação e realização de eventos que, pelo seu posicionamento, notoriedade, contributo para a criação de dinâmicas territoriais, diversificação da experiência turística e dispersão turística no espaço e no tempo, potenciem a dinamização das economias locais, particularmente nos territórios de baixa densidade, ou favoreçam a projeção internacional de Portugal e das suas regiões."
+  },
+  "229975934": {
+   "fragment_id": "229976110",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) «Eventos associativos», os eventos promovidos com o objetivo de apresentar e debater temáticas incluídas no foro de atuação de agregados de entidades privadas ou públicas, correspondendo a congressos, conferências, seminários, colóquios, simpósios, palestras e similares;\n\nb) «Eventos corporativos», os eventos promovidos por empresas com o objetivo de efetuar comunicações e reuniões de trabalho ou apresentar produtos ou serviços, de caráter interno ou externo, correspondendo a assembleias gerais, convenções, jornadas, cursos, workshops, ações de motivação de equipa e similares;\n\nc) «Eventos de natureza cultural», os eventos que, enquadrados na alínea a) do n.º 1 do artigo 6.º, promovam o conhecimento, a ciência, a história, os costumes, as experiências, as tradições, as crenças, as manifestações artísticas, intelectuais ou musicais, ou outras caraterísticas que sejam suscetíveis de distinguir uma sociedade, um grupo social ou um território;\n\nd) «Territórios de baixa densidade», as áreas territoriais identificadas no anexo iii da Resolução do Conselho de Ministros n.º 72/2016, de 24 de novembro;\n\ne) «Produtos Turísticos Estratégicos», os produtos turísticos considerados estratégicos na «Estratégia Turismo 2027», aprovada pela Resolução de Conselho de Ministros n.º 134/2017, de 27 de setembro, e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.;\n\nf) «Data início dos trabalhos», data a que se refere o n.º 23 do artigo 2.º, sobre a definição de início dos trabalhos, e artigo 6.º, sobre o efeito de incentivo, do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014."
+  },
+  "229975935": {
+   "fragment_id": "229976089",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 3.º — Dotação\n\n1 - A dotação disponível para financiamento das operações ao abrigo do presente Programa, assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P., é de (euro) 10 000 000 (dez milhões de euros), repartidos, em partes iguais, pelas candidaturas objeto de decisão de aprovação em 2023 e 2024.\n\n2 - A dotação orçamental referida no número anterior é igualmente repartida em função das tipologias de eventos a que se refere o n.º 1 do artigo 6.º, da seguinte forma:\n\na) Eventos a que se refere a alínea a): (euro) 8 500 000 (oito milhões e quinhentos mil euros);\n\nb) Eventos a que se refere a alínea b): (euro) 1 500 000 (um milhão e quinhentos mil euros).\n\n3 - As dotações previstas no número anterior podem ser alteradas por despacho do membro do Governo com tutela sobre o setor do turismo, em função das necessidades que se vierem a registar no decurso da execução do Programa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975936": {
+   "fragment_id": "229976091",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades beneficiárias",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 5.º — Entidades beneficiárias\n\n1 - São entidades beneficiárias do sistema de incentivos Portugal Events, as seguintes:\n\na) As empresas de qualquer dimensão, detentoras dos direitos de organização dos eventos ou que tenham como atividade principal a sua organização;\n\nb) Convention Bureaux, Associações, Fundações, Instituições de Ensino Superior, assim como as Agências Regionais de Promoção Turística reconhecidas pela Confederação do Turismo de Portugal.\n\n2 - As empresas com sede no estrangeiro que reúnam as caraterísticas definidas na alínea a) do número anterior, são entidades beneficiárias do sistema de incentivos Portugal Events, desde que, no que respeita às empresas promotoras de eventos a que se refere o n.º 2 do artigo 20.º, tenham em Portugal a devida representação nomeadamente por via de sucursal ou outra tipologia de representação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975937": {
+   "fragment_id": "229976092",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações enquadráveis",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 6.º — Operações enquadráveis\n\n1 - São enquadráveis no sistema de incentivos Portugal Events as operações de organização e realização dos seguintes tipos de eventos:\n\na) Eventos associados ao desenvolvimento de produtos turísticos estratégicos, que sejam, pela sua escala, catalisadores da atração de turistas, contribuam para a dinamização das economias locais e sejam capazes de projetar a imagem de Portugal ou da região onde se realizam;\n\nb) Eventos associativos ou corporativos.\n\n2 - Não são enquadráveis operações de organização e realização de eventos que correspondam a patrocínios individuais ou que não estejam direcionados para os mercados externos prioritários definidos na Estratégia Turismo 2027 e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975938": {
+   "fragment_id": "229976093",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de elegibilidade das entidades beneficiárias",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 7.º — Condições de elegibilidade das entidades beneficiárias\n\n1 - As entidades beneficiárias devem cumprir as seguintes condições de elegibilidade:\n\na) Estarem legalmente constituídas;\n\nb) Possuírem ou assegurarem os recursos físicos, humanos, materiais e financeiros necessários à organização e realização do evento;\n\nc) Terem uma situação tributária e contributiva regularizada perante a administração fiscal, a segurança social e o Turismo de Portugal, I. P.;\n\nd) Disporem de contabilidade organizada nos termos da legislação aplicável;\n\ne) No caso de empresas, possuírem uma situação líquida positiva à data de 31 de dezembro de 2019 ou, não possuindo, demonstrarem que a possuem à data da candidatura, mediante apresentação de balanço intercalado certificado pelo respetivo contabilista certificado;\n\nf) Não se enquadrarem no conceito de empresa em dificuldade nos termos da definição que consta do n.º 18 do artigo 2.º do Regulamento Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;\n\ng) Não terem sido objeto de aplicação, nos dois anos anteriores à data da candidatura, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal;\n\nh) Não terem sido condenadas nos dois anos anteriores à data da candidatura, por sentença transitada em julgado, por despedimento ilegal de grávidas, puérperas ou lactantes.\n\ni) Não se encontrarem impedidas de acesso aos apoios financeiros com a natureza que decorre do presente diploma.\n\n2 - Com exceção da condição prevista na alínea c) do número anterior, que pode ser verificada até à data da assinatura do Termo de Aceitação, as demais condições de elegibilidade são aferidas à data da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975939": {
+   "fragment_id": "229976095",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis\n\n1 - No caso dos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a operação e adequadas às necessidades da mesma:\n\na) Aluguer de espaços para a realização do evento e respetivo programa social;\n\nb) Aluguer de equipamento audiovisual;\n\nc) Despesas com deslocações;\n\nd) Contratação de serviços diretamente associados à realização dos eventos, tais como alojamento ou fornecimento de refeições;\n\ne) Construção ou montagem de estruturas associadas à realização dos eventos, incluindo no domínio das acessibilidades;\n\nf) Serviços de organização e gestão do evento, quando contratadas em Portugal;\n\ng) Material de divulgação e campanha de comunicação.\n\n2 - Para além das despesas referidas no número anterior, são, ainda, despesas elegíveis as incorridas com o plano de comunicação nacional e internacional do evento, nomeadamente as seguintes:\n\na) Campanhas de comunicação e suportes de comunicação nacional e internacional;\n\nb) Presença em meios de comunicação;\n\nc) Deslocações de jornalistas ou meios de comunicação internacional, incluindo as despesas de alojamento e alimentação;\n\nd) Ativações de marca ou ações promocionais sobre o evento no estrangeiro;\n\ne) Produção de conteúdos de promoção do evento;\n\nf) Material de divulgação, incluindo meios digitais como websites ou apps.\n\n3 - No caso dos festivais de música localizados fora dos territórios de baixa densidade, são apenas elegíveis os custos a que se refere o número anterior.\n\n4 - Os apoios financeiros aos eventos associativos e corporativos, são apurados em função do número de dormidas geradas, a que acrescem as respetivas majorações, nos termos do n.º 5 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "351301175": {
+   "fragment_id": "229976097",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio financeiro",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio financeiro\n\n1 - O apoio financeiro é de natureza não reembolsável e não é cumulável com outros apoios no âmbito deste diploma, sendo atribuído a um único evento e não podendo ser utilizado para a realização de edições posteriores.\n2 - O apoio financeiro a conceder aos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º, com o limite máximo de (euro) 250 000 (duzentos e cinquenta mil euros), é determinado em função do respetivo grau de relevância do evento, apurado nos termos do n.º 2 do artigo 12.º, e mediante a aplicação da respetiva taxa ao montante total de investimento elegível apurado:\na) Grau de relevância 1: 10 %;\nb) Grau de relevância 2: 20 %;\nc) Grau de relevância 3: 30 %;\nd) Grau de relevância 4: 40 %;\ne) Grau de relevância 5: 50 %.\n3 - Ao valor de apoio financeiro, mesmo que no limite máximo, apurado nos termos do número anterior, acresce uma majoração de 25 % se o evento se realizar em território de baixa densidade.\n4 - A atribuição de apoio financeiro aos eventos enquadráveis na alínea b) do n.º 1 do artigo 6.º, tem por base a aplicação da seguinte matriz:\n\nEscalões de apoio financeiro por número de dormidas\n\n| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200<br>a 1799 | De 1800<br>a 2699 | De 2700<br>a 3599 | De 3600<br>a 5399 | De 5400<br>a 7199 | Igual ou superior<br>a 7200 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n| 5 000 (euro) | 6 500 (euro) | 10 000 (euro) | 15 000 (euro) | 17 500 (euro) | 22 500 (euro) | 27 500 (euro) | 32 500 (euro) | 50 000 (euro) |\n\n5 - Sem prejuízo do disposto no número seguinte, o apoio financeiro a atribuir, em cada escalão da matriz acima, é suportado em 75 % pelo Turismo de Portugal, I. P., e em 25 % pelo Convention Bureau ou pela Agência Regional de Promoção Turística, nos termos do n.º 3 do artigo 14.º\n\n6 - Nos casos em que o Convention Bureau ou a Agência Regional de Promoção Turística não acompanham o apoio financeiro, ou cujas candidaturas tenham sido submetidas por estas entidades, o montante a atribuir em cada escalão apurado será de 75 % a suportar apenas pelo Turismo de Portugal, I. P.\n\n7 - Ao apoio financeiro apurado nos termos do número anterior acrescem as seguintes majorações, a suportar pelo Turismo de Portugal, I. P.:\na) 25 %, se o evento for realizado durante o período de inverno IATA;\nb) 25 %, se o evento for realizado em Territórios de Baixa Densidade.\n\n8 - No caso dos apoios a que se refere o n.º 2, o membro do Governo com a tutela do sector do turismo pode, em casos excecionais devidamente justificados, e relativamente aos eventos que atinjam os graus de relevância 4 ou 5 autorizar que o apoio financeiro exceda os limites máximos aí previstos, desde que respeitados os limites dos enquadramentos a que se refere o n.º 1 do artigo 20.º e ficando limitados a um máximo de (euro) 500 000 (quinhentos mil euros) por evento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975941": {
+   "fragment_id": "229976098",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de avaliação das operações",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 12.º — Critérios de avaliação das operações\n\n1 - As operações enquadráveis na alínea a) do n.º 1 do artigo 6.º são avaliadas em função dos seguintes critérios:\n\na) Relevância para a projeção da imagem de Portugal ou da região, ponderada a dimensão e o posicionamento do evento, assim como o contributo do mesmo para a promoção da imagem de Portugal (ou da região onde se realiza) enquanto destino turístico sustentável;\n\nb) Exposição mediática em meios de comunicação social, ponderados os meios de comunicação social assegurados para a cobertura do evento, bem como a qualidade da exposição a alcançar pelo evento;\n\nc) Dinamização das economias locais, ponderada pelo valor e impacto gerado nas economias locais, em particular nos territórios de baixa densidade, incluindo o contributo do evento para o aumento da estada média e das receitas por via da atração de públicos específicos ou da melhoria da experiência turística;\n\nd) Inovação e sustentabilidade, ponderada pelo grau de novidade do evento, pela diferenciação que demonstra, assim como pelo grau de soluções e iniciativas associadas à sustentabilidade económica, ambiental e social que apresenta.\n\n2 - Os critérios referidos nas alíneas do número anterior são classificados com as pontuações de 1 a 5, em função do grau de cumprimento de cada um, sendo que os graus de relevância de cada evento correspondem às seguintes pontuações:\n\na) Grau de relevância 1: pontuação global entre 11 e 12;\n\nb) Grau de relevância 2: pontuação global entre 13 e 14;\n\nc) Grau de relevância 3: pontuação global entre 15 e 16;\n\nd) Grau de relevância 4: pontuação global entre 17 e 18;\n\ne) Grau de relevância 5: pontuação global de 19 e 20.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975942": {
+   "fragment_id": "229976099",
+   "type": 11,
+   "heading": "Artigo 13.º — Candidaturas",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 13.º — Candidaturas\n\n1 - Sem prejuízo do disposto no número seguinte, as candidaturas são apresentadas a todo o tempo, através de formulário próprio disponível na página eletrónica do Turismo de Portugal, I. P., e instruídas com os seguintes elementos:\n\na) Memória descritiva do evento;\n\nb) Orçamento detalhado e perspetivas de receitas a gerar e de patrocínios e outros apoios financeiros a obter;\n\nc) Estimativa de impacto económico para a região, no que se refere às operações enquadradas na alínea a) do n.º 1 do artigo 6.º;\n\nd) Estimativa do número de dormidas em empreendimentos turísticos e/ou estabelecimentos de alojamento local, no que se refere às operações enquadradas na alínea b) do n.º 1 do artigo 6.º;\n\ne) Plano de comunicação no que se refere às operações enquadradas na alínea a) do n.º 1 do artigo 6.º\n\n2 - Em relação aos eventos para 2024, a que se refere a alínea a) do n.º 1 do artigo 6.º, as candidaturas são apresentadas a partir do dia 1 de setembro de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975943": {
+   "fragment_id": "229976100",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - O Turismo de Portugal, I. P., analisa as candidaturas no prazo de 30 dias consecutivos a contar da data da apresentação de cada candidatura.\n\n2 - Sempre que necessário, o Turismo de Portugal, I. P., pode solicitar esclarecimentos complementares, a prestar no prazo máximo de 10 dias úteis contados da data da notificação do respetivo pedido, decorrido o qual a ausência de resposta da entidade beneficiária significa a desistência da candidatura.\n\n3 - No que respeita às candidaturas apresentadas no âmbito da alínea b) do n.º 1 do artigo 6.º, o Turismo de Portugal, I. P., solicita o parecer do respetivo Convention Bureau ou da respetiva Agência Regional de Promoção Turística, exceto quando as candidaturas sejam apresentadas por estas entidades.\n\n4 - A decisão final sobre a concessão do apoio financeiro compete ao Turismo de Portugal, I. P., exceto nos casos previstos no n.º 8 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975944": {
+   "fragment_id": "229976103",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - O pagamento do apoio financeiro é concretizado da seguinte forma:\n\n1.1 - Para os projetos enquadrados na alínea a) do n.º 1 do artigo 6.º:\n\na) Libertação de 50 % com a assinatura do Termo de Aceitação;\n\nb) Libertação de uma parcela adicional de 25 % com a justificação da realização das despesas que justificam a libertação prevista na alínea anterior, se solicitada pela entidade beneficiária;\n\nc) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P. da conclusão física e financeira da operação, nos termos previstos nos n.os 1 e 2 do artigo 19.º\n\n1.2 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º:\n\na) Libertação de 50 % com a assinatura do Termo de Aceitação;\n\nb) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação e apresentação de todos os elementos comprovativos do cumprimento da matriz referida no n.º 4 do artigo 11.º\n\n2 - O apoio financeiro a conceder às operações enquadradas na alínea a) do n.º 1 do artigo 6.º é reduzido, no encerramento do processo, pelo valor correspondente a 10 % da receita líquida positiva gerada, até ao máximo de 50 % do montante atribuído.\n\n3 - Para efeitos do disposto no número anterior, entende-se por receita líquida positiva a diferença entre o custo total do evento e a soma das receitas obtidas, designadamente de bilheteira ou de outras fontes, como direitos de transmissão de imagem e patrocínio e outros apoios financeiros.\n\n4 - Caso se verifique, no encerramento dos processos referentes às operações enquadradas na alínea b) do n.º 1 do artigo 6.º, que o número de dormidas registado foi superior ou inferior ao estimado na candidatura, será revisto o valor do apoio financeiro, condicionado a disponibilidade orçamental, de acordo com os seguintes critérios:\n\na) Se o número de dormidas registado for superior ao estimado, o correspondente acréscimo do valor do apoio é apurado automaticamente no encerramento do processo;\n\nb) Se o número de dormidas registado for:\n\ni) Inferior a 90 % do estimado e superior ao limite mínimo de dormidas, há lugar ao correspondente ajustamento do apoio por aplicação da matriz descrita no n.º 4 do artigo 11.º;\n\nii) Inferior ao limite mínimo de dormidas, há lugar à resolução do Termo de Aceitação, nos termos do artigo 16.º\n\n5 - A devolução de montantes já pagos por força da revisão a que se refere a alínea b) do número anterior ocorre no prazo máximo de 60 dias úteis a contar da data da notificação para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975945": {
+   "fragment_id": "229976105",
+   "type": 11,
+   "heading": "Artigo 19.º — Acompanhamento, controlo e auditoria",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 19.º — Acompanhamento, controlo e auditoria\n\n1 - Sem prejuízo de outros mecanismos que vierem a ser adotados, o acompanhamento da execução das operações é efetuado de acordo com os seguintes procedimentos:\n\na) A verificação financeira tem por base a declaração de despesa de investimento, certificada por um revisor oficial de contas ou por um contabilista certificado ou, no caso de entidade pública, pelo responsável financeiro, na qual deve ser confirmado o valor total do evento, a realização e o pagamento das despesas elegíveis, bem como a discriminação do montante das receitas e patrocínios e de outros apoios financeiros;\n\nb) A verificação física tem por base a realização de visitas aos locais de realização dos eventos, pelo Turismo de Portugal, I. P., bem como a confirmação do cumprimento das regras de publicitação do apoio definidas no Termo de Aceitação.\n\n2 - O acompanhamento da execução das operações enquadradas na alínea a) do n.º 1 do artigo 6.º baseia-se, ainda, na análise do relatório final de execução, a apresentar pelo beneficiário em sede de encerramento do processo, o qual deve detalhar o impacto económico, social e ambiental do evento face aos objetivos e indicadores definidos na candidatura, assim como conter evidências da realização dos eventos.\n\n3 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º, para além dos elementos referidos no n.º 1 do presente artigo, deverão ainda apresentar o respetivo relatório final do evento, incluindo em anexo o relatório referente às dormidas que determinaram o respetivo escalão do financiamento, nos termos devidamente previstos no Termo de Aceitação.\n\n4 - Compete ao Turismo de Portugal, I. P., desenvolver e implementar um processo de controlo e de auditoria adequado aos apoios financeiros a conceder no âmbito do Portugal Events, nomeadamente através de uma amostragem, que assegure que os recursos financeiros alocados a esta medida são utilizados de acordo com os seus objetivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "229975946": {
+   "fragment_id": "229976106",
+   "type": 11,
+   "heading": "Artigo 20.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": "2023-12-13",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 20.º — Enquadramento europeu de auxílios de Estado\n\n1 - Para os eventos integrados na alínea a) do n.º 1 do artigo 6.º que revistam natureza cultural, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014.\n\n2 - Para os eventos a que se refere a alínea b) do n.º 1 do artigo 6.º, assim como para os eventos a que se refere a alínea a) desse mesmo número que não revistam natureza cultural, é aplicável o regime de auxílios de minimis previsto no Regulamento (UE) n.º 1407/2013, da Comissão, de 18 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850388": {
+   "fragment_id": "229976110",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos da presente portaria, entende-se por:\n\na) «Eventos associativos», os eventos promovidos com o objetivo de apresentar e debater temáticas incluídas no foro de atuação de agregados de entidades privadas ou públicas, correspondendo a congressos, conferências, seminários, colóquios, simpósios, palestras e similares;\n\nb) «Eventos corporativos», os eventos promovidos por empresas com o objetivo de efetuar comunicações e reuniões de trabalho ou apresentar produtos ou serviços, de caráter interno ou externo, correspondendo a assembleias gerais, convenções, jornadas, cursos, workshops, ações de motivação de equipa e similares;\n\nc) «Eventos de natureza cultural», os eventos que, enquadrados nas alíneas a) ou c) do n.º 1 do artigo 6.º, promovam o conhecimento, a ciência, a história, os costumes, as experiências, as tradições, as crenças, as indústrias criativas, o cinema, o audiovisual, demais manifestações artísticas, intelectuais ou musicais, ou outras caraterísticas que sejam suscetíveis de distinguir uma sociedade, um grupo social ou um território;\n\nd) «Territórios de baixa densidade», as áreas territoriais identificadas no anexo iii da Resolução do Conselho de Ministros n.º 72/2016, de 24 de novembro, atualizada pela alteração introduzida pela deliberação n.º 20/2018 da CIC Portugal 2020, de 12 de setembro, que aprovou a inclusão na lista de Municípios classificados como Municípios de baixa densidade, a União das Freguesias da Raiva, Pedorido e Paraíso que fazem parte integrante do Município de Castelo de Paiva;\n\ne) «Produtos Turísticos Estratégicos», os produtos turísticos considerados estratégicos no referencial estratégico nacional em vigor para o turismo e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.;\n\nf) «Data início dos trabalhos», data a que se refere o n.º 23 do artigo 2.º, sobre a definição de início dos trabalhos, e artigo 6.º, sobre o efeito de incentivo, do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;\n\ng) «Convention Bureaux», as associações de direito privado, que têm especificamente por objeto a promoção, dinamização e captação de congressos e eventos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+  },
+  "906850389": {
+   "fragment_id": "229976089",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 3.º — Dotação\n\n1 - A dotação disponível para financiamento das operações ao abrigo do presente programa, assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P., é de € 30 000 000 (trinta milhões de euros), repartidos da seguinte forma, em função do ano objeto da decisão de aprovação:\n\na) 2023: € 5 000 000 (cinco milhões de euros);\n\nb) 2024: € 9 000 000 (nove milhões de euros);\n\nc) 2025 e 2026: € 16 000 000 (dezasseis milhões de euros).\n\n2 - A dotação orçamental referida no número anterior é igualmente repartida em função das tipologias de eventos a que se refere o n.º 1 do artigo 6.º, da seguinte forma:\n\na) Eventos a que se refere a alínea a): € 21 400 000 (vinte e um milhões e quatrocentos mil euros);\n\nb) Eventos a que se refere a alínea b): € 3 000 000 (três milhões de euros);\n\nc) Planos de eventos a que se refere a alínea c): € 2 800 000 (dois milhões e oitocentos mil euros) em cada um dos anos de 2025 e de 2026.\n\n3 - As dotações previstas no número anterior podem ser alteradas por despacho do membro do Governo com tutela sobre o setor do turismo, em função das necessidades que se vierem a registar no decurso da execução do Programa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850390": {
+   "fragment_id": "229976091",
+   "type": 11,
+   "heading": "Artigo 5.º — Entidades beneficiárias",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 5.º — Entidades beneficiárias\n\n1 - São entidades beneficiárias do sistema de incentivos Portugal Events, as seguintes:\n\na) As empresas de qualquer dimensão, detentoras dos direitos de organização dos eventos ou que tenham como atividade principal a sua organização;\n\nb) Entidades públicas, incluindo aquelas em cuja gestão as entidades da administração central do Estado, regional e local tenham posição dominante, Convention Bureaux, Associações, Fundações, Instituições de Ensino Superior, assim como as Agências Regionais de Promoção Turística reconhecidas pela Confederação do Turismo de Portugal.\n\n2 - As empresas com sede no estrangeiro que reúnam as caraterísticas definidas na alínea a) do número anterior, são entidades beneficiárias do sistema de incentivos Portugal Events, desde que, no que respeita às empresas promotoras de eventos a que se refere o n.º 2 do artigo 20.º, tenham em Portugal a devida representação nomeadamente por via de sucursal ou outra tipologia de representação.\n\n3 - É conferida às entidades regionais de turismo e secretarias regionais de turismo a faculdade de apresentarem ao Portugal Events candidaturas que traduzam um plano anual de eventos de natureza local ou regional, em nome e em representação de entidades que revistam a natureza de entidades beneficiárias nos termos do presente artigo, que serão as beneficiárias finais do apoio, e que preencham as condições e critérios de avaliação definidos no presente Regulamento.\n\n4 - Na preparação da candidatura a que se refere o número anterior, devem as entidades regionais de turismo e as secretarias regionais de turismo assegurar a ampla publicidade e transparência do processo, garantindo a coerência dos respetivos planos de eventos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850391": {
+   "fragment_id": "229976092",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações enquadráveis",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 6.º — Operações enquadráveis\n\n1 - São enquadráveis no sistema de incentivos Portugal Events as operações de organização e realização dos seguintes tipos de eventos:\n\na) Eventos associados ao desenvolvimento de produtos turísticos estratégicos, que sejam, pela sua escala, catalisadores da atração de turistas, e sejam capazes de projetar a imagem de Portugal;\n\nb) Eventos associativos ou corporativos;\n\nc) Eventos de natureza local ou regional, que sejam capazes de dinamizar as economias locais, potenciar a atração de turistas e de contribuir para a projeção da imagem da região onde se realizam.\n\n2 - Não são enquadráveis operações de organização e realização de eventos que correspondam a patrocínios individuais ou que não estejam direcionados para os mercados prioritários definidos no referencial estratégico nacional em vigor para o turismo e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850392": {
+   "fragment_id": "229976093",
+   "type": 11,
+   "heading": "Artigo 7.º — Condições de elegibilidade das entidades beneficiárias",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 7.º — Condições de elegibilidade das entidades beneficiárias\n\n1 - As entidades beneficiárias devem cumprir as seguintes condições de elegibilidade:\n\na) Estarem legalmente constituídas;\n\nb) Possuírem ou assegurarem os recursos físicos, humanos, materiais e financeiros necessários à organização e realização do evento;\n\nc) Terem uma situação regularizada perante a administração fiscal, a segurança social, o Turismo de Portugal, I. P., e os fundos europeus no âmbito do PT 2020 e PT 2030;\n\nd) Disporem de contabilidade organizada nos termos da legislação aplicável;\n\ne) No caso de empresas, possuírem uma situação líquida no ano anterior à data da candidatura ou, não possuindo, demonstrarem que a possuem à data da candidatura, mediante apresentação de balanço intercalar certificado pelo respetivo contabilista certificado;\n\nf) Não se enquadrarem no conceito de empresa em dificuldade nos termos da definição que consta do n.º 18 do artigo 2.º do Regulamento Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014;\n\ng) Não terem sido objeto de aplicação, nos dois anos anteriores à data da candidatura, de sanção administrativa ou judicial pela utilização ao seu serviço de mão-de-obra legalmente sujeita ao pagamento de impostos e contribuições para a segurança social, não declarada nos termos das normas que imponham essa obrigação, em Portugal;\n\nh) Não terem sido condenadas nos dois anos anteriores à data da candidatura, por sentença transitada em julgado, por despedimento ilegal de grávidas, puérperas ou lactantes;\n\ni) Não se encontrarem impedidas de acesso aos apoios financeiros com a natureza que decorre do presente diploma;\n\nj) No que se refere aos eventos enquadrados na alínea b) do n.º 1 do artigo 6.º, nos casos em que a entidade beneficiária não seja a entidade organizadora do evento, deve aquela apresentar declaração de representação assinada pela entidade organizadora do evento.\n\n2 - Com exceção da condição prevista na alínea c) do número anterior, que pode ser verificada até à data da assinatura do Termo de Aceitação, as demais condições de elegibilidade são aferidas à data da candidatura.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850393": {
+   "fragment_id": "229976094",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de elegibilidade das operações",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+   ],
+   "markdown": "###### Artigo 8.º — Condições de elegibilidade das operações\n\n1 - As operações de organização e realização dos eventos devem cumprir as seguintes condições de elegibilidade:\n\na) Estarem em conformidade com as disposições legais e regulamentares aplicáveis;\n\nb) Terem data de início dos respetivos trabalhos após a data da candidatura, a qual, salvo justificação atendível como tal considerada pelo Turismo de Portugal, I. P., deve ser apresentada até 60 dias antes da data de início do evento;\n\nc) Assegurarem as melhores práticas de sustentabilidade nas suas dimensões económica, ambiental e social, nomeadamente através da inclusão de ações e iniciativas que, numa perspetiva de criação de valor, visem a gestão de resíduos, a eliminação de plásticos de uso único, a gestão da água, a utilização de fontes de energia de baixo consumo, a proteção e o respeito pela biodiversidade e a prática de princípios de economia circular, e promovam a paridade de género entre palestrantes ou oradores, se aplicável, a contratação de fornecedores locais, e o impacte positivo na comunidade local;\n\nd) Observarem as melhores práticas de acessibilidade, sobretudo para pessoas com mobilidade condicionada;\n\ne) Garantirem a adoção de medidas que proporcionem uma experiência fluida, nomeadamente no que respeita a pagamentos virtuais, reservas online, bilhética e informação digital.\n\n2 - Sem prejuízo do cumprimento das condições de elegibilidade enunciadas no número anterior, as operações enquadráveis na alínea a) do n.º 1 do artigo 6.º devem:\n\na) Estar alinhada com a visão, prioridades e metas do referencial estratégico nacional em vigor para o turismo, nomeadamente no que se refere ao contributo para os objetivos de coesão territorial, sustentabilidade e crescimento;\n\nb) Corresponder a um investimento total mínimo de € 500 000 (quinhentos mil euros);\n\nc) Terem um grau de relevância mínima de 1, apurado de acordo com o artigo 11.º do presente Regulamento;\n\nd) Demonstrar serem financeiramente sustentáveis, atentos os respetivos custos e receitas, patrocínios, outros apoios financeiros e parcerias previstas;\n\ne) No que se refere a eventos com mais do que três edições ou que já tenham sido apoiados em edições anteriores, deve ser claramente explicitado o grau de inovação face às edições anteriores do evento;\n\nf) Assegurar uma adequada exposição mediática, em função da dimensão do evento, devendo, para o efeito, ser apresentado o respetivo plano de comunicação, que inclua o detalhe quanto aos meios de comunicação social e digitais assegurados.\n\n3 - Sem prejuízo do cumprimento das condições de elegibilidade enunciadas no n.º 1 do presente artigo, as operações enquadráveis na alínea b) do n.º 1 do artigo 6.º devem evidenciar o potencial em gerar, pelo menos, o número de dormidas correspondente ao limite mínimo de dormidas previsto na matriz descrita no n.º 4 do artigo 11.º\n\n4 - No caso dos eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, para além das condições de elegibilidade referidas no n.º 1 do presente artigo, é ainda condição de elegibilidade encontrarem-se os mesmos integrados num dos planos anuais de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+  },
+  "906850394": {
+   "fragment_id": "229976095",
+   "type": 11,
+   "heading": "Artigo 9.º — Despesas elegíveis",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 9.º — Despesas elegíveis\n\n1 - No caso dos eventos a que se referem as alíneas a) e c) do n.º 1 do artigo 6.º, são elegíveis as seguintes despesas, desde que diretamente relacionadas com a operação e adequadas às necessidades da mesma:\n\na) Aluguer de espaços para a realização do evento e respetivo programa social;\n\nb) Aluguer de equipamento audiovisual;\n\nc) Despesas com deslocações;\n\nd) Contratação de serviços diretamente associados à realização dos eventos, tais como alojamento ou fornecimento de refeições;\n\ne) Construção ou montagem de estruturas associadas à realização dos eventos, incluindo no domínio das acessibilidades;\n\nf) Serviços de organização e gestão do evento, quando contratadas em Portugal;\n\ng) Material de divulgação e campanha de comunicação.\n\n2 - Para além das despesas referidas no número anterior, são, ainda, despesas elegíveis as incorridas com o plano de comunicação nacional e internacional do evento, nomeadamente as seguintes:\n\na) Campanhas de comunicação e suportes de comunicação nacional e internacional;\n\nb) Presença em meios de comunicação;\n\nc) Deslocações de jornalistas ou meios de comunicação internacional, incluindo as despesas de alojamento e alimentação;\n\nd) Ativações de marca ou ações promocionais sobre o evento no estrangeiro;\n\ne) Produção de conteúdos de promoção do evento;\n\nf) Material de divulgação, incluindo meios digitais como websites ou apps.\n\n3 - No caso dos festivais de música localizados fora dos territórios de baixa densidade, são apenas elegíveis os custos a que se refere o número anterior.\n\n4 - Os apoios financeiros aos eventos associativos e corporativos, são apurados em função do número de dormidas geradas, a que acrescem as respetivas majorações, nos termos do n.º 5 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850395": {
+   "fragment_id": "229976097",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio financeiro",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio financeiro\n\n1 - O apoio financeiro é de natureza não reembolsável e não é cumulável com outros apoios no âmbito deste diploma, sendo atribuído a um único evento e não podendo ser utilizado para a realização de edições posteriores.\n2 - O apoio financeiro a conceder aos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º, com o limite máximo de (euro) 250 000 (duzentos e cinquenta mil euros), é determinado em função do respetivo grau de relevância do evento, apurado nos termos do n.º 2 do artigo 12.º, e mediante a aplicação da respetiva taxa ao montante total de investimento elegível apurado:\na) Grau de relevância 1: 10 %;\nb) Grau de relevância 2: 20 %;\nc) Grau de relevância 3: 30 %;\nd) Grau de relevância 4: 40 %;\ne) Grau de relevância 5: 50 %.\n3 - Ao valor de apoio financeiro, mesmo que no limite máximo, apurado nos termos do número anterior, acresce uma majoração de 25 %, se 75 % do investimento associado ao evento se realizar em território de baixa densidade.\n4 - A atribuição de apoio financeiro aos eventos enquadráveis na alínea b) do n.º 1 do artigo 6.º, tem por base a aplicação da seguinte matriz:\n\nEscalões de apoio financeiro por número de dormidas\n\n| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200<br>a 1799 | De 1800<br>a 2699 | De 2700<br>a 3599 | De 3600<br>a 5399 | De 5400<br>a 7199 | Igual ou superior<br>a 7200 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n| 5 000 (euro) | 6 500 (euro) | 10 000 (euro) | 15 000 (euro) | 17 500 (euro) | 22 500 (euro) | 27 500 (euro) | 32 500 (euro) | 50 000 (euro) |\n\n5 - Sem prejuízo do disposto no número seguinte, o apoio financeiro a atribuir, em cada escalão da matriz constante do número anterior, é suportado em 75 % pelo Turismo de Portugal, I. P., cabendo ao respetivo Convention Bureau ou Agência Regional de Promoção Turística a decisão quanto à atribuição do apoio em relação aos restantes 25 %.\n6 - Nos casos em que o Convention Bureau ou a Agência Regional de Promoção Turística não acompanhe o apoio financeiro do Turismo de Portugal, I. P., a que se refere o número anterior, ou nos casos em que as candidaturas sejam submetidas por aquelas entidades, o montante a atribuir em cada escalão apurado será de 75 % a suportar apenas pelo Turismo de Portugal, I. P.\n\n7 - Ao apoio financeiro apurado nos termos do número anterior acrescem as seguintes majorações, a suportar pelo Turismo de Portugal, I. P.:\na) 25 %, se o evento for realizado durante o período de inverno IATA;\nb) 25 %, se o evento for realizado em Territórios de Baixa Densidade.\n\n8 - O membro do Governo com a tutela do setor do turismo pode, em casos excecionais devidamente justificados, autorizar que o apoio financeiro exceda os limites máximos previstos no presente artigo, desde que respeitados os limites dos enquadramentos a que se refere o artigo 20.º\n9 - No caso das candidaturas promovidas pelas entidades a que se refere o n.º 4 do artigo 8.º do presente Regulamento, o apoio a conceder ao conjunto de eventos que compõem cada plano anual de eventos, no limite máximo de € 400 000 (quatrocentos mil euros) por cada uma daquelas entidades, corresponde à aplicação de uma taxa de comparticipação única de 30 % sobre as respetivas despesas elegíveis.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850396": {
+   "fragment_id": "229976098",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de avaliação das operações",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 12.º — Critérios de avaliação das operações\n\n1 - As operações enquadráveis na alínea a) do n.º 1 do artigo 6.º são avaliadas em função dos seguintes critérios:\n\na) Relevância para a projeção da imagem de Portugal ou da região, ponderada a dimensão e o posicionamento do evento, assim como o contributo do mesmo para a promoção da imagem de Portugal (ou da região onde se realiza) enquanto destino turístico sustentável;\n\nb) Exposição mediática em meios de comunicação social, ponderados os meios de comunicação social assegurados para a cobertura do evento, bem como a qualidade da exposição a alcançar pelo evento;\n\nc) Dinamização das economias locais, ponderada pelo valor e impacto gerado nas economias locais, em particular nos territórios de baixa densidade, incluindo o contributo do evento para o aumento da estada média e das receitas por via da atração de públicos específicos ou da melhoria da experiência turística, sendo que, no caso dos planos de eventos a que se refere a alínea c) do n.º 1 do artigo 6.º, é ainda ponderado o grau de dispersão dos eventos pela região e ao longo do ano;\n\nd) Inovação e sustentabilidade, ponderada pelo grau de novidade do evento, pela diferenciação que demonstra, assim como pelo grau de soluções e iniciativas associadas à sustentabilidade económica, ambiental e social que apresenta.\n\n2 - Os critérios referidos nas alíneas do número anterior são classificados com as pontuações de 1 a 5, em função do grau de cumprimento de cada um, sendo que os graus de relevância de cada evento correspondem às seguintes pontuações:\n\na) Grau de relevância 1: pontuação global entre 11 e 12;\n\nb) Grau de relevância 2: pontuação global entre 13 e 14;\n\nc) Grau de relevância 3: pontuação global entre 15 e 16;\n\nd) Grau de relevância 4: pontuação global entre 17 e 18;\n\ne) Grau de relevância 5: pontuação global de 19 e 20.\n\n3 - No caso dos planos anuais de eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, os mesmo são avaliados em função dos critérios definidos no n.º 1 do presente artigo, sendo elegíveis os planos que demonstrem preencher todos os critérios aí definidos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850397": {
+   "fragment_id": "229976099",
+   "type": 11,
+   "heading": "Artigo 13.º — Candidaturas",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 13.º — Candidaturas\n\n1 - Sem prejuízo do disposto no número seguinte, as candidaturas são apresentadas a todo o tempo, através de formulário próprio disponível na página eletrónica do Turismo de Portugal, I. P., e instruídas com os seguintes elementos:\n\na) Memória descritiva do evento ou, sendo o caso, dos eventos que compõem o plano anual a que se refere o n.º 3 do artigo 5.º;\n\nb) Orçamento detalhado e perspetivas de receitas a gerar e de patrocínios e outros apoios financeiros a obter, no caso das operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º;\n\nc) Estimativa de impacto económico para a região, no que se refere às operações enquadradas na alínea a) do n.º 1 do artigo 6.º;\n\nd) Estimativa do número de dormidas em empreendimentos turísticos e/ou estabelecimentos de alojamento local, no que se refere às operações enquadradas na alínea b) do n.º 1 do artigo 6.º;\n\ne) Plano de comunicação no que se refere às operações enquadradas na alínea a) do n.º 1 do artigo 6.º\n\n2 - Salvo em situações devidamente justificadas e aceites pelo Turismo de Portugal, I. P., as candidaturas são apresentadas a partir do dia 1 de setembro do ano anterior à realização do evento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850398": {
+   "fragment_id": "229976100",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - O Turismo de Portugal, I. P., analisa as candidaturas no prazo de 30 dias consecutivos a contar da data da apresentação de cada candidatura.\n\n2 - Sempre que necessário, o Turismo de Portugal, I. P., pode solicitar esclarecimentos complementares, a prestar no prazo máximo de 10 dias úteis contados da data da notificação do respetivo pedido, decorrido o qual a ausência de resposta da entidade beneficiária significa a desistência da candidatura.\n\n3 - No que respeita às candidaturas apresentadas no âmbito da alínea b) do n.º 1 do artigo 6.º, o Turismo de Portugal, I. P., solicita ao respetivo Convention Bureau ou Agência Regional de Promoção Turística informação quanto à assunção por estas entidades do compromisso de financiamento dos 25 % do apoio a que se refere o n.º 5 do artigo 11.º\n\n4 - Findo o prazo concedido para a prestação da informação a que se refere o número anterior, sem que a mesma seja prestada, o Turismo de Portugal, I. P. procede ao cálculo do valor do incentivo, no caso de elegibilidade da candidatura, de acordo com o disposto no n.º 6 do artigo 11.º do presente Regulamento.\n\n5 - Das decisões tomadas pelo Turismo de Portugal, I. P., em relação a cada uma das candidaturas apresentadas, o Turismo de Portugal, I. P., dá conhecimento às entidades regionais de turismo territorialmente competentes.\n\n6 - A decisão final sobre a concessão do apoio financeiro compete ao Turismo de Portugal, I. P., exceto nos casos previstos no n.º 8 do artigo 11.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850399": {
+   "fragment_id": "229976103",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - O pagamento do apoio financeiro é concretizado da seguinte forma:\n\n1.1 - Para os eventos e planos de eventos enquadrados nas alíneas a) e c) do n.º 1 do artigo 6.º:\n\na) Libertação de 50 % com a assinatura do Termo de Aceitação;\n\nb) Libertação de uma parcela adicional de 25 % com a justificação da realização das despesas que justificam a libertação prevista na alínea anterior, se solicitada pela entidade beneficiária;\n\nc) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P. da conclusão física e financeira da operação, nos termos previstos nos n.os 1 e 2 do artigo 19.º\n\n1.2 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º:\n\na) Libertação de 50 % com a assinatura do Termo de Aceitação;\n\nb) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação e apresentação de todos os elementos comprovativos do cumprimento da matriz referida no n.º 4 do artigo 11.º\n\n2 - O apoio financeiro a conceder às operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º é reduzido, no encerramento do processo, pelo valor correspondente a 10 % da receita líquida positiva gerada, até ao máximo de 50 % do montante atribuído.\n\n3 - Para efeitos do disposto no número anterior, entende-se por receita líquida positiva a diferença entre o custo total do evento e a soma das receitas obtidas, designadamente de bilheteira ou de outras fontes, como direitos de transmissão de imagem e patrocínio e outros apoios financeiros.\n\n4 - Caso se verifique, no encerramento dos processos referentes às operações enquadradas na alínea b) do n.º 1 do artigo 6.º, que o número de dormidas registado foi superior ou inferior ao estimado na candidatura, será revisto o valor do apoio financeiro, condicionado a disponibilidade orçamental, de acordo com os seguintes critérios:\n\na) Se o número de dormidas registado for superior ao estimado, o correspondente acréscimo do valor do apoio é apurado automaticamente no encerramento do processo;\n\nb) Se o número de dormidas registado for:\n\ni) Inferior a 90 % do estimado e superior ao limite mínimo de dormidas, há lugar ao correspondente ajustamento do apoio por aplicação da matriz descrita no n.º 4 do artigo 11.º;\n\nii) Inferior ao limite mínimo de dormidas, há lugar à resolução do Termo de Aceitação, nos termos do artigo 16.º\n\n5 - A devolução de montantes já pagos por força da revisão a que se refere a alínea b) do número anterior ocorre no prazo máximo de 60 dias úteis a contar da data da notificação para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850400": {
+   "fragment_id": "229976104",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações específicas das entidades beneficiárias",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+   ],
+   "markdown": "###### Artigo 18.º — Obrigações específicas das entidades beneficiárias\n\nAs entidades beneficiárias devem cumprir as seguintes obrigações em matéria de acompanhamento e divulgação dos apoios aprovados:\n\na) Permitir o acesso do Turismo Portugal I. P., ou das entidades devidamente mandatadas pelo Turismo de Portugal I. P., para o efeito, aos locais de realização dos eventos e àqueles onde se encontrem os elementos e documentos necessários, nomeadamente os de despesa, para o acompanhamento e controlo da sua utilização, em conformidade com o projeto e com as normas nacionais e europeias aplicáveis, nas suas componentes material, financeira e contabilística;\n\nb) Publicitar os apoios concedidos nos termos da respetiva regulamentação específica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+  },
+  "906850401": {
+   "fragment_id": "229976105",
+   "type": 11,
+   "heading": "Artigo 19.º — Acompanhamento, controlo e auditoria",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 19.º — Acompanhamento, controlo e auditoria\n\n1 - Sem prejuízo de outros mecanismos que vierem a ser adotados, o acompanhamento da execução das operações é efetuado de acordo com os seguintes procedimentos:\n\na) A verificação financeira tem por base a declaração de despesa de investimento, certificada por um revisor oficial de contas ou por um contabilista certificado ou, no caso de entidade pública, pelo responsável financeiro, na qual deve ser confirmado o valor total do evento, a realização e o pagamento das despesas elegíveis, bem como a discriminação do montante das receitas e patrocínios e de outros apoios financeiros;\n\nb) A verificação física tem por base a realização de visitas aos locais de realização dos eventos, pelo Turismo de Portugal, I. P., bem como a confirmação do cumprimento das regras de publicitação do apoio definidas no Termo de Aceitação.\n\n2 - O acompanhamento da execução das operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º baseia-se, ainda, na análise do relatório final de execução, a apresentar pelo beneficiário em sede de encerramento do processo, o qual deve detalhar o impacto económico, social e ambiental do evento face aos objetivos e indicadores definidos na candidatura, assim como conter evidências da realização dos eventos.\n\n3 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º, para além dos elementos referidos no n.º 1 do presente artigo, deverão ainda apresentar o respetivo relatório final do evento, incluindo em anexo o relatório referente às dormidas que determinaram o respetivo escalão do financiamento, nos termos devidamente previstos no Termo de Aceitação.\n\n4 - Compete ao Turismo de Portugal, I. P., desenvolver e implementar um processo de controlo e de auditoria adequado aos apoios financeiros a conceder no âmbito do Portugal Events, nomeadamente através de uma amostragem, que assegure que os recursos financeiros alocados a esta medida são utilizados de acordo com os seus objetivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "906850402": {
+   "fragment_id": "229976106",
+   "type": 11,
+   "heading": "Artigo 20.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 20.º — Enquadramento europeu de auxílios de Estado\n\n1 - Para os eventos integrados nas alíneas a) e c) do n.º 1 do artigo 6.º que revistam natureza cultural como tal definida na alínea c) do artigo 2.º, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014.\n\n2 - Para os eventos a que se refere a alínea b) do n.º 1 do artigo 6.º, assim como para os eventos a que se referem as alíneas a) e c) desse mesmo número que não revistam natureza cultural, é aplicável o regime de auxílios de minimis previsto no Regulamento (UE) 2023/2831, da Comissão, de 13 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "998506170": {
+   "fragment_id": "229976089",
+   "type": 11,
+   "heading": "Artigo 3.º — Dotação",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 3.º — Dotação\n\n1 - A dotação disponível para financiamento das operações ao abrigo do presente programa, assegurada exclusivamente por receitas próprias do Turismo de Portugal, I. P., é de € 75 000 000,00 (setenta e cinco milhões de euros), repartidos da seguinte forma, em função das tipologias de eventos a que se refere o n.º 1 do artigo 6.º do presente Regulamento:\n\na) Eventos a que se refere a alínea a): € 55 950 000,00 (cinquenta e cinco milhões, novecentos e cinquenta mil euros), dos quais € 31 500 000,00 (trinta e um milhões, quinhentos mil euros) a alocar aos anos de 2026 a 2028, repartidos em partes iguais pelos três anos;\n\nb) Eventos a que se refere a alínea b): € 5 750 000,00 (cinco milhões, setecentos e cinquenta mil euros), dos quais € 3 000 000,00 (três milhões de euros) a alocar aos anos de 2026 a 2028, repartidos em partes iguais pelos três anos;\n\nc) Eventos a que se refere a alínea c): € 13 300 000,00 (treze milhões e trezentos mil euros), dos quais € 10 500 000,00 (dez milhões e quinhentos mil euros) a alocar aos anos de 2026 e 2028 repartidos em partes iguais pelos três anos.\n\n2 - [Revogado.]\n\n3 - As dotações previstas no número anterior podem ser alteradas por despacho do membro do Governo com tutela sobre o setor do turismo, em função das necessidades que se vierem a registar no decurso da execução do Programa.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "998506171": {
+   "fragment_id": "229976092",
+   "type": 11,
+   "heading": "Artigo 6.º — Operações enquadráveis",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 6.º — Operações enquadráveis\n\n1 - São enquadráveis no sistema de incentivos Portugal Events as operações de organização e realização dos seguintes tipos de eventos:\n\na) Eventos associados ao desenvolvimento de produtos turísticos estratégicos, que sejam, pela sua escala, catalisadores da atração de turistas, e sejam capazes de projetar a imagem de Portugal;\n\nb) Eventos associativos ou corporativos;\n\nc) Eventos de natureza local ou regional, que sejam capazes de dinamizar as economias locais, potenciar a atração de turistas e de contribuir para a projeção da imagem da região onde se realizam, desde que integrados num plano anual de eventos, nos termos previstos no n.º 3 do artigo 5.º e no n.º 4 do artigo 8.º, ambos do presente Regulamento.\n\n2 - Não são enquadráveis operações de organização e realização de eventos que correspondam a patrocínios individuais ou que não estejam direcionados para os mercados prioritários definidos no referencial estratégico nacional em vigor para o turismo e refletidos no Plano de Marketing Anual para a promoção turística do Turismo de Portugal, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "998506172": {
+   "fragment_id": "229976094",
+   "type": 11,
+   "heading": "Artigo 8.º — Condições de elegibilidade das operações",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+   ],
+   "markdown": "###### Artigo 8.º — Condições de elegibilidade das operações\n\n1 - As operações de organização e realização dos eventos devem cumprir as seguintes condições de elegibilidade:\n\na) Estarem em conformidade com as disposições legais e regulamentares aplicáveis;\n\nb) Terem data de início dos respetivos trabalhos após a data da apresentação da candidatura, a qual, salvo motivo devidamente fundamentado, deve ser apresentada até 30 dias consecutivos anteriores à data de início do evento, ou, no caso dos eventos enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, após a data do pedido de enquadramento no plano anual de eventos apresentado junto da entidade regional de turismo ou secretaria regional de turismo territorialmente competente;\n\nc) Assegurarem as melhores práticas de sustentabilidade nas suas dimensões económica, ambiental e social, nomeadamente através da inclusão de ações e iniciativas que, numa perspetiva de criação de valor, visem a gestão de resíduos, a eliminação de plásticos de uso único, a gestão da água, a utilização de fontes de energia de baixo consumo, a proteção e o respeito pela biodiversidade e a prática de princípios de economia circular, e promovam a paridade de género entre palestrantes ou oradores, se aplicável, a contratação de fornecedores locais, e o impacte positivo na comunidade local;\n\nd) Observarem as melhores práticas de acessibilidade, sobretudo para pessoas com mobilidade condicionada;\n\ne) Garantirem a adoção de medidas que proporcionem uma experiência fluida, nomeadamente no que respeita a pagamentos virtuais, reservas online, bilhética e informação digital.\n\n2 - Sem prejuízo do cumprimento das condições de elegibilidade enunciadas no número anterior, as operações enquadráveis na alínea a) do n.º 1 do artigo 6.º devem:\n\na) Estar alinhada com a visão, prioridades e metas do referencial estratégico nacional em vigor para o turismo, nomeadamente no que se refere ao contributo para os objetivos de coesão territorial, sustentabilidade e crescimento;\n\nb) Corresponder a um investimento total mínimo de € 500 000,00 (quinhentos mil euros), condição que, para além de ser aferida à data da apresentação da candidatura, deve ser confirmada após a realização do evento através do mapa de despesas de investimento a que se refere a alínea a) do n.º 1 do artigo 19.º do presente Regulamento;\n\nc) Terem um grau de relevância mínima de 1, apurado de acordo com o artigo 11.º do presente Regulamento;\n\nd) Demonstrar serem financeiramente sustentáveis, atentos os respetivos custos e receitas, patrocínios, outros apoios financeiros e parcerias previstas;\n\ne) No que se refere a eventos com mais do que três edições ou que já tenham sido apoiados em edições anteriores, deve ser claramente explicitado o grau de inovação face às edições anteriores do evento;\n\nf) Assegurar uma adequada exposição mediática, em função da dimensão do evento, devendo, para o efeito, ser apresentado o respetivo plano de comunicação, que inclua o detalhe quanto aos meios de comunicação social e digitais assegurados.\n\n3 - Sem prejuízo do cumprimento das condições de elegibilidade enunciadas no n.º 1 do presente artigo, as operações enquadráveis na alínea b) do n.º 1 do artigo 6.º devem evidenciar o potencial em gerar, pelo menos, o número de dormidas correspondente ao limite mínimo de dormidas previsto na matriz descrita no n.º 4 do artigo 11.º\n\n4 - No caso dos eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, para além das condições de elegibilidade referidas no n.º 1 do presente artigo, é ainda condição de elegibilidade encontrarem-se os mesmos integrados num dos planos anuais de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+  },
+  "998506173": {
+   "fragment_id": "229976097",
+   "type": 11,
+   "heading": "Artigo 11.º — Apoio financeiro",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 11.º — Apoio financeiro\n\n1 - O apoio financeiro é de natureza não reembolsável e não é cumulável com quaisquer outros apoios concedidos pelo Turismo de Portugal, I. P., sendo atribuído a um único evento e não podendo ser utilizado para a realização de edições posteriores do evento apoiado.\n2 - O apoio financeiro a conceder aos eventos a que se refere a alínea a) do n.º 1 do artigo 6.º do presente Regulamento, com o limite máximo de € 300 000,00 (trezentos mil euros), é determinado em função do grau de relevância do evento, apurado nos termos do n.º 2 do artigo 12.º do presente Regulamento, e mediante a aplicação da respetiva taxa ao montante total de investimento elegível apurado:\na) Grau de relevância 1: 10 %;\nb) Grau de relevância 2: 20 %;\nc) Grau de relevância 3: 30 %;\nd) Grau de relevância 4: 40 %;\ne) Grau de relevância 5: 50 %.\n3 - Ao valor de apoio financeiro, mesmo que no limite máximo, apurado nos termos do número anterior, acresce uma majoração de 25 %, se 75 % do investimento associado ao evento se realizar em território de baixa densidade.\n4 - A atribuição de apoio financeiro aos eventos enquadráveis na alínea b) do n.º 1 do artigo 6.º, tem por base a aplicação da seguinte matriz:\n\nEscalões de apoio financeiro por número de dormidas\n\n| De 50 a 299 | De 300 a 599 | De 600 a 1199 | De 1200<br>a 1799 | De 1800<br>a 2699 | De 2700<br>a 3599 | De 3600<br>a 5399 | De 5400<br>a 7199 | Igual ou superior<br>a 7200 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n|  |  |  |  |  |  |  |  |  |\n| 5 000 (euro) | 6 500 (euro) | 10 000 (euro) | 15 000 (euro) | 17 500 (euro) | 22 500 (euro) | 27 500 (euro) | 32 500 (euro) | 50 000 (euro) |\n\n5 - Sem prejuízo do disposto no número seguinte, o apoio financeiro a atribuir, em cada escalão da matriz constante do número anterior, é suportado em 75 % pelo Turismo de Portugal, I. P., cabendo ao respetivo Convention Bureau ou Agência Regional de Promoção Turística a decisão quanto à atribuição do apoio em relação aos restantes 25 %.6 - Nos casos em que o Convention Bureau ou a Agência Regional de Promoção Turística não acompanhe o apoio financeiro do Turismo de Portugal, I. P., a que se refere o número anterior, ou nos casos em que as candidaturas sejam submetidas por aquelas entidades, o montante a atribuir em cada escalão apurado será de 75 % a suportar apenas pelo Turismo de Portugal, I. P.\n\n7 - Ao apoio financeiro apurado nos termos do número anterior acrescem as seguintes majorações, a suportar pelo Turismo de Portugal, I. P.:\na) 25 %, se o evento for realizado durante o período de inverno IATA;\nb) 25 %, se o evento for realizado em Territórios de Baixa Densidade.\n\n8 - O membro do Governo com a tutela do setor do turismo pode, em casos excecionais devidamente justificados, autorizar que o apoio financeiro exceda as taxas de comparticipação e os limites previstos no presente artigo, desde que respeitados os limites dos enquadramentos a que se refere o artigo 20.º do presente Regulamento.\n9 - No caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, o apoio a conceder aos eventos que integram cada plano anual de eventos, no limite máximo de € 500 000,00 (quinhentos mil euros) por cada uma das entidades regionais de turismo ou secretarias regionais de turismo, corresponde à aplicação da taxa de comparticipação que, nos termos do n.º 2 do presente artigo e dos n.os1 e 2 do artigo seguinte, resultar da análise dos critérios de avaliação das operações e respetivo grau de relevância.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "998506174": {
+   "fragment_id": "229976098",
+   "type": 11,
+   "heading": "Artigo 12.º — Critérios de avaliação das operações",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 12.º — Critérios de avaliação das operações\n\n1 - As operações enquadráveis nas alíneas a) e c) do n.º 1 do artigo 6.º são avaliadas em função dos seguintes critérios:\n\na) Relevância para a projeção da imagem de Portugal ou da região, ponderada a dimensão e o posicionamento do evento, assim como o contributo do mesmo para a promoção da imagem de Portugal (ou da região onde se realiza) enquanto destino turístico sustentável;\n\nb) Exposição mediática em meios de comunicação social, ponderados os meios de comunicação social assegurados para a cobertura do evento, bem como a qualidade da exposição a alcançar pelo evento, de acordo com o estabelecido no plano de comunicação previsto na alínea f) do n.º 2 do artigo 8.º do presente Regulamento;\n\nc) Dinamização das economias locais, ponderada pelo valor e impacto gerado nas economias locais, em particular nos territórios de baixa densidade, incluindo o contributo do evento para o aumento da estada média e das receitas por via da atração de públicos específicos ou da melhoria da experiência turística, sendo que, no caso dos planos de eventos a que se refere a alínea c) do n.º 1 do artigo 6.º, é ainda ponderado o grau de dispersão dos eventos pela região e ao longo do ano;\n\nd) Inovação e sustentabilidade, ponderada pelo grau de novidade do evento, pela diferenciação que demonstra, assim como pelo grau de soluções e iniciativas associadas à sustentabilidade económica, ambiental e social que apresenta.\n\n2 - Os critérios referidos nas alíneas do número anterior são classificados com as pontuações de 1 a 5, em função do grau de cumprimento de cada um, sendo que os graus de relevância de cada evento correspondem às seguintes pontuações:\n\na) Grau de relevância 1: pontuação global entre 11 e 12;\n\nb) Grau de relevância 2: pontuação global entre 13 e 14;\n\nc) Grau de relevância 3: pontuação global entre 15 e 16;\n\nd) Grau de relevância 4: pontuação global entre 17 e 18;\n\ne) Grau de relevância 5: pontuação global de 19 e 20.\n\n3 - [Revogado.]\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "1182959775": {
+   "fragment_id": "1182959675",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Pedidos de enquadramento no plano anual de eventos",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06."
+   ],
+   "markdown": "###### Artigo 13.º-A — Pedidos de enquadramento no plano anual de eventos\n\n1 - No que respeita aos eventos enquadráveis na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, os pedidos de enquadramento no plano anual de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento são apresentados pelas entidades beneficiárias à entidade regional de turismo ou à secretaria regional de turismo territorialmente competente.\n\n2 - Com os pedidos de enquadramento a que se refere o número anterior, as entidades beneficiárias devem apresentar os elementos elencados no n.º 1 do artigo anterior.\n\n3 - Para efeitos dos números anteriores, as entidades regionais de turismo e as secretarias regionais de turismo procedem à abertura de concursos e à respetiva publicitação nas suas páginas institucionais na Internet.\n\n4 - Os pedidos de enquadramento no plano anual de eventos são analisados à luz dos critérios de enquadramento referidos na alínea c) do n.º 1 do artigo 6.º do presente Regulamento, e, sendo o caso, selecionados pelas entidades regionais de turismo e pelas secretarias regionais de turismo territorialmente competentes através da aplicação dos critérios de avaliação das operações e respetivos graus de relevância definidos no artigo 12.º do presente Regulamento\n\n5 - As entidades regionais de turismo e as secretarias regionais de turismo devem facultar às entidades beneficiárias o direito de se pronunciarem em sede de audiência prévia, nos termos e para os efeitos do artigo 121.º do Código do Procedimento Administrativo, em caso de não aceitação do pedido de enquadramento no plano anual de eventos apresentado.\n\n6 - Após a seleção dos projetos que vão integrar o plano anual de eventos, as entidades regionais de turismo e as secretarias regionais de turismo apresentam as respetivas candidaturas ao presente sistema de incentivos, junto do Turismo de Portugal, I. P., nos termos do artigo anterior.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06."
+  },
+  "1182959975": {
+   "fragment_id": "229976100",
+   "type": 11,
+   "heading": "Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 14.º — Procedimentos de análise, seleção e decisão das candidaturas\n\n1 - O Turismo de Portugal, I. P., analisa as candidaturas no prazo de 30 dias consecutivos a contar da data da apresentação de cada candidatura.\n\n2 - Sempre que necessário, o Turismo de Portugal, I. P., pode solicitar esclarecimentos complementares às entidades beneficiárias, ou às entidades regionais de turismo e secretarias regionais de turismo, no caso das operações enquadráveis na alínea c) do n.º 1 do artigo 6.ºdo presente Regulamento, a prestar no prazo máximo de 10 dias úteis contados da data da notificação do respetivo pedido, decorrido o qual a ausência de resposta determina a caducidade da candidatura.\n\n3 - No que respeita às candidaturas apresentadas no âmbito da alínea b) do n.º 1 do artigo 6.º, o Turismo de Portugal, I. P., solicita ao respetivo Convention Bureau ou Agência Regional de Promoção Turística informação quanto à assunção por estas entidades do compromisso de financiamento dos 25 % do apoio a que se refere o n.º 5 do artigo 11.º\n\n4 - Findo o prazo concedido para a prestação da informação a que se refere o número anterior, sem que a mesma seja prestada, o Turismo de Portugal, I. P. procede ao cálculo do valor do incentivo, no caso de elegibilidade da candidatura, de acordo com o disposto no n.º 6 do artigo 11.º do presente Regulamento.\n\n5 - Das decisões tomadas pelo Turismo de Portugal, I. P., em relação a cada uma das candidaturas apresentadas, o Turismo de Portugal, I. P., dá conhecimento às entidades regionais de turismo ou secretarias regionais de turismo territorialmente competentes.\n\n6 - A decisão final sobre a concessão do apoio financeiro compete ao Turismo de Portugal, I. P., exceto nos casos previstos no n.º 8 do artigo 11.º\n\n7 - No que se refere aos eventos incluídos no plano anual de eventos a que se refere o n.º 3 do artigo 5.º do presente Regulamento, a análise referida no n.º 1 do presente artigo integra a avaliação efetuada pelas entidades regionais de turismo ou secretarias regionais de turismo no que diz respeito aos critérios de avaliação das operações e aos graus de relevância previstos no artigo 12.º do presente Regulamento.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "1182979775": {
+   "fragment_id": "229976101",
+   "type": 11,
+   "heading": "Artigo 15.º — Formalização do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Formalização do apoio\n\n1 - A atribuição do apoio financeiro é formalizada mediante Termo de Aceitação a subscrever pela entidade beneficiária, de acordo com modelo aprovado pelo Turismo de Portugal, I. P., o qual fixa o custo do investimento associado à realização do evento, o incentivo aprovado e os calendários de execução, bem como as obrigações da entidade beneficiária, as penalizações em caso de incumprimento e a redução ou revogação do apoio.\n\n2 - A não aceitação do respetivo Termo de Aceitação por razões imputáveis ao beneficiário, no prazo de 20 dias úteis contado da data da notificação da atribuição do apoio financeiro, determina a caducidade do direito ao mesmo."
+  },
+  "1182979875": {
+   "fragment_id": "229976102",
+   "type": 11,
+   "heading": "Artigo 16.º — Resolução do Termo de Aceitação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Resolução do Termo de Aceitação\n\n1 - A decisão de concessão do apoio financeiro pode ser revogada e o respetivo Termo de Aceitação anulado unilateralmente pelo Turismo de Portugal, I. P., se verificado, por facto imputável à entidade beneficiária, o incumprimento de qualquer obrigação dele resultante ou dos pressupostos da atribuição do apoio.\n\n2 - A revogação da decisão de concessão do apoio financeiro e a anulação do Termo de Aceitação implicam a devolução do apoio financeiro recebido pelo beneficiário no prazo de 60 dias úteis contado da data da respetiva notificação, acrescido dos juros calculados à taxa Euribor a seis meses, acrescida de um spread de três pontos percentuais, contabilizados desde a data do recebimento do apoio."
+  },
+  "1182979975": {
+   "fragment_id": "229976103",
+   "type": 11,
+   "heading": "Artigo 17.º — Pagamentos",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 17.º — Pagamentos\n\n1 - O pagamento do apoio financeiro é concretizado da seguinte forma:\n\n1.1 - Para os eventos e planos de eventos, incluindo para os eventos aí integrados, enquadrados nas alíneas a) e c) do n.º 1 do artigo 6.º do presente Regulamento:\n\na) Libertação de 50 % com a assinatura do Termo de Aceitação;\n\nb) Libertação de uma parcela adicional de 25 % com a justificação da realização das despesas que justificam a libertação prevista na alínea anterior, se solicitada pela entidade beneficiária;\n\nc) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P. da conclusão física e financeira da operação, nos termos previstos nos n.os 1 e 2 do artigo 19.º\n\n1.2 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º:\n\na) Libertação de 50 % com a assinatura do Termo de Aceitação;\n\nb) Libertação do valor remanescente após a verificação, pelo Turismo de Portugal, I. P., da conclusão física e financeira da operação e apresentação de todos os elementos comprovativos do cumprimento da matriz referida no n.º 4 do artigo 11.º\n\n2 - O apoio financeiro a conceder às operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º é reduzido, no encerramento do processo, pelo valor correspondente a 10 % da receita líquida positiva gerada, até ao máximo de 50 % do montante atribuído.\n\n3 - Para efeitos do disposto no número anterior, entende-se por receita líquida positiva a diferença entre o custo total do evento e a soma das receitas obtidas, designadamente de bilheteira ou de outras fontes, como direitos de transmissão de imagem e patrocínio e outros apoios financeiros.\n\n4 - Caso se verifique, no encerramento dos processos referentes às operações enquadradas na alínea b) do n.º 1 do artigo 6.º, que o número de dormidas registado foi superior ou inferior ao estimado na candidatura, será revisto o valor do apoio financeiro, condicionado a disponibilidade orçamental, de acordo com os seguintes critérios:\n\na) Se o número de dormidas registado for superior ao estimado, o correspondente acréscimo do valor do apoio é apurado automaticamente no encerramento do processo;\n\nb) Se o número de dormidas registado for:\n\ni) Inferior a 90 % do estimado e superior ao limite mínimo de dormidas, há lugar ao correspondente ajustamento do apoio por aplicação da matriz descrita no n.º 4 do artigo 11.º;\n\nii) Inferior ao limite mínimo de dormidas, há lugar à resolução do Termo de Aceitação, nos termos do artigo 16.º\n\n5 - A devolução de montantes já pagos por força da revisão a que se refere a alínea b) do número anterior ocorre no prazo máximo de 60 dias úteis a contar da data da notificação para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "1182980075": {
+   "fragment_id": "229976104",
+   "type": 11,
+   "heading": "Artigo 18.º — Obrigações específicas das entidades beneficiárias",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+   ],
+   "markdown": "###### Artigo 18.º — Obrigações específicas das entidades beneficiárias\n\nAs entidades beneficiárias devem cumprir as seguintes obrigações em matéria de acompanhamento e divulgação dos apoios aprovados:\n\na) Permitir o acesso do Turismo Portugal I. P., e, no caso dos eventos a que se refere a alínea c) do n.º 1 do artigo 6.º do presente Regulamento, às entidades regionais de turismo e secretarias regionais de turismo territorialmente competentes, aos locais de realização dos eventos e àqueles onde se encontrem os elementos e documentos necessários, nomeadamente os de despesa, para o acompanhamento e controlo da sua utilização, em conformidade com o projeto e com as normas nacionais e europeias aplicáveis, nas suas componentes material, financeira e contabilística;\n\nb) Publicitar os apoios concedidos nos termos da respetiva regulamentação específica.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11"
+  },
+  "1182980175": {
+   "fragment_id": "229976105",
+   "type": 11,
+   "heading": "Artigo 19.º — Acompanhamento, controlo e auditoria",
+   "in_force_from": "2026-01-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 19.º — Acompanhamento, controlo e auditoria\n\n1 - Sem prejuízo de outros mecanismos que vierem a ser adotados, o acompanhamento da execução das operações é efetuado de acordo com os seguintes procedimentos:\n\na) A verificação financeira tem por base o mapa de despesas de investimento devidamente preenchido e certificado por um revisor oficial de contas ou por um contabilista certificado ou, no caso de entidade pública, pelo responsável financeiro, no qual deve constar o custo total do evento, a discriminação das despesas elegíveis realizadas e pagas, bem como a discriminação das receitas, patrocínios e outros apoios financeiros obtidos;\n\nb) A verificação física tem por base a realização de visitas aos locais de realização dos eventos, pelo Turismo de Portugal, I. P., bem como a confirmação do cumprimento das regras de publicitação do apoio definidas no Termo de Aceitação.\n\n2 - O acompanhamento da execução das operações enquadradas nas alíneas a) e c) do n.º 1 do artigo 6.º do presente Regulamento baseia-se, ainda, na análise do relatório final de execução, a apresentar pelo beneficiário em sede de encerramento do processo, o qual deve detalhar o impacto económico, social e ambiental do evento face aos objetivos e indicadores definidos na candidatura, assim como conter evidências da realização dos eventos e do cumprimento das regras de publicitação do apoio concedido.\n\n3 - Para os projetos enquadrados na alínea b) do n.º 1 do artigo 6.º, para além dos elementos referidos no n.º 1 do presente artigo, deverão ainda apresentar o respetivo relatório final do evento, incluindo em anexo o relatório referente às dormidas que determinaram o respetivo escalão do financiamento, nos termos devidamente previstos no Termo de Aceitação.\n\n4 - Compete ao Turismo de Portugal, I. P., desenvolver e implementar um processo de controlo e de auditoria adequado aos apoios financeiros a conceder no âmbito do Portugal Events, nomeadamente através de uma amostragem, que assegure que os recursos financeiros alocados a esta medida são utilizados de acordo com os seus objetivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 4/2026/1 - Diário da República n.º 2/2026, Série I de 2026-01-05](https://diariodarepublica.pt/dr/detalhe/portaria/4-2026-993782275), em vigor a partir de 2026-01-06\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  },
+  "1182980275": {
+   "fragment_id": "229976106",
+   "type": 11,
+   "heading": "Artigo 20.º — Enquadramento europeu de auxílios de Estado",
+   "in_force_from": "2025-02-11",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+   ],
+   "markdown": "###### Artigo 20.º — Enquadramento europeu de auxílios de Estado\n\n1 - Para os eventos integrados nas alíneas a) e c) do n.º 1 do artigo 6.º que revistam natureza cultural como tal definida na alínea c) do artigo 2.º, a presente portaria respeita o regime de auxílios de Estado previsto para a categoria «Auxílios à cultura e conservação do património», estabelecido no artigo 53.º do Regime Geral de Isenção por Categoria (RGIC), aprovado pelo Regulamento (UE) n.º 651/2014, da Comissão, de 16 de junho de 2014.\n\n2 - Para os eventos a que se refere a alínea b) do n.º 1 do artigo 6.º, assim como para os eventos a que se referem as alíneas a) e c) desse mesmo número que não revistam natureza cultural, é aplicável o regime de auxílios de minimis previsto no Regulamento (UE) 2023/2831, da Comissão, de 13 de dezembro.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 34/2025/1 - Diário da República n.º 28/2025, Série I de 2025-02-10](https://diariodarepublica.pt/dr/detalhe/portaria/34-2025-906727861), em vigor a partir de 2025-02-11\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 429/2023 - Diário da República n.º 238/2023, Série I de 2023-12-12](https://diariodarepublica.pt/dr/detalhe/portaria/429-2023-229915933), em vigor a partir de 2023-12-13"
+  }
+ }
+}

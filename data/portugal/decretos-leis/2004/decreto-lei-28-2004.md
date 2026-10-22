@@ -1,0 +1,755 @@
+---
+schema_version: '1.0'
+id: pt:dre:592342:por
+title: Decreto-Lei n.º 28/2004
+short_title: null
+summary: Estabelece o novo regime jurídico de protecção social na eventualidade doença, no âmbito do subsistema previdencial
+  de segurança social
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Segurança Social e do Trabalho
+proposing_entity: null
+official_number: 28/2004
+official_date: null
+publication_date: '2004-02-04'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 29/2004, Série I-A de 2004-02-04
+  number: '29'
+  series: I
+  supplement: null
+  pages: 596 - 604
+  pdf_url: https://files.diariodarepublica.pt/1s/2004/02/029a00/05960604.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-03-01'
+version_history:
+  file: decreto-lei-28-2004.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2004-02-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2004-04-01'
+    amending: pt:dre:209646:por
+    amending_title: Declaração de Rectificação n.º 29/2004
+    changes:
+    - Retifica Artigo 17.º
+    - Retifica Artigo 18.º
+    - Retifica Artigo 21.º
+    - Retifica Artigo 24.º
+  - date: '2005-09-01'
+    amending: pt:dre:245281:por
+    amending_title: Decreto-Lei n.º 146/2005
+    changes:
+    - Altera Artigo 12.º
+    - Altera Artigo 16.º
+    - Altera Artigo 21.º
+    - Altera Artigo 33.º
+    - Altera Artigo 36.º
+    - Revoga Artigo 17.º
+  - date: '2009-11-01'
+    amending: pt:dre:483168:por
+    amending_title: Decreto-Lei n.º 302/2009
+    changes:
+    - Altera Artigo 21.º
+  - date: '2012-07-01'
+    amending: pt:dre:178491:por
+    amending_title: Decreto-Lei n.º 133/2012
+    changes:
+    - Altera Artigo 9.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+  - date: '2023-07-06'
+    amending: pt:dre:215210816:por
+    amending_title: Decreto-Lei n.º 53/2023
+    changes:
+    - Altera Artigo 21.º
+  - date: '2024-03-01'
+    amending: pt:dre:836117864:por
+    amending_title: Decreto-Lei n.º 2/2024
+    changes:
+    - Altera Artigo 14.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/28/2004/p/cons/20240105/pt/html
+  oj: null
+  dre: '592342'
+  dre_path: /dr/detalhe/decreto-lei/28-2004-592342
+  internal: pt:dre:592342:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/28-2004-592342
+  metadata_url: https://data.dre.pt/eli/dec-lei/28/2004/p/cons/20240105/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34545075
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2004-34545075
+  retrieved_at: '2026-10-22T11:51:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: d5e8504dd835e5191d01fdc18daf843335cc20c6a9a72fb847c475e7b925dbce
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:51:09Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-28-2004.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acreditação
+- Acumulação de Prestações Sociais
+- Comissão de Acompanhamento
+- Instituto de Solidariedade e Segurança Social
+- Serviço de Saúde
+- Contribuições da Segurança Social
+- Serviço Nacional de Saúde
+- Centro Distrital de Solidariedade e Segurança Social
+- Prazo de Garantia
+- Prestação Compensatoria
+- Prestações da Segurança Social
+- Protecção na Doença
+- Proteção Social
+- Regime Geral da Segurança Social
+- Regime Jurídico
+- Doença
+- Incapacidade Temporária
+- Segurança Social
+- Subsídio de Doença
+- Verificação da Doença
+relationships:
+- type: amended_by
+  target: pt:dre:209646:por
+  label: Retifica Artigo 17.º; Retifica Artigo 18.º; Retifica Artigo 21.º; Retifica Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2004-209646
+  date: '2004-03-23'
+- type: amended_by
+  target: pt:dre:245281:por
+  label: Altera Artigo 12.º; Altera Artigo 16.º; Altera Artigo 21.º; Altera Artigo 33.º; Altera Artigo 36.º; Revoga Artigo
+    17.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281
+  date: '2005-08-26'
+- type: amended_by
+  target: pt:dre:483168:por
+  label: Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-2009-483168
+  date: '2009-10-22'
+- type: amended_by
+  target: pt:dre:178491:por
+  label: Altera Artigo 9.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491
+  date: '2012-06-27'
+- type: amended_by
+  target: pt:dre:115620691:por
+  label: Altera Artigo 9.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691
+  date: '2018-07-02'
+- type: amended_by
+  target: pt:dre:215210816:por
+  label: Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2023-215210816
+  date: '2023-07-05'
+- type: amended_by
+  target: pt:dre:836117864:por
+  label: Altera Artigo 14.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2024-836117864
+  date: '2024-01-05'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/133-b/1997/05/30/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/165/1999/05/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/165/1999/05/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/328/1993/09/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/328/1993/09/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/360/1997/12/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/360/1997/12/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/16/1999/03/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/16/1999/03/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/32/2002/12/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/36/1999/05/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/36/1999/05/26/p/dre
+article_structure:
+  article_count: 52
+  section_count: 14
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:51:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 28/2004
+
+A Lei n.º 32/2002, de 20 de Dezembro, que aprovou as bases da segurança social, visa erigir um sistema de segurança social moderno e adequado, assente numa cultura de partilha de riscos sociais e de co-responsabilização. Nesse sentido, constata-se que o regime jurídico de protecção social na eventualidade doença, consubstanciado no Decreto-Lei n.º 132/88, de 20 de Abril, com a redacção que lhe foi dada pelos Decretos-Leis n.os 287/90, de 19 de Setembro, e 165/99, de 13 de Maio, encontra-se desfasado desse novo contexto, não obstante as alterações pontuais que tem vindo a sofrer ao longo da sua vigência.
+
+A natureza avulsa das medidas introduzidas no referido regime, bem como as alterações legislativas subsequentes, não se revelou suficientemente adequada ao acompanhamento desejável da evolução social, antes pelo contrário, originou uma certa opacidade e incoerência no sistema, gerando iniquidades no seio do mesmo, que urge presentemente corrigir.
+
+Impõe-se, assim, a revisão do regime jurídico de protecção social na eventualidade doença, adaptando-o à nova realidade social, no quadro dos princípios da lei de bases da segurança social, clarificando normas e conceitos, inibindo a verificação de situações indevidas, pugnando por um aperfeiçoamento formal e material do conteúdo da prestação, bem como pelo incremento da articulação entre as diversas áreas envolvidas.
+
+Num outro plano, as normas ora criadas visam prevenir e reforçar os mecanismos efectivos de combate à fraude na obtenção do subsídio de doença, tendo em conta os reflexos significativos de tais práticas na sustentabilidade financeira do sistema público de segurança social.
+
+Na realidade, os montantes envolvidos na efectivação da protecção social na doença pelo subsistema previdencial provêm das contribuições sobre os salários ou sobre os rendimentos de trabalho, quer da responsabilidade dos empregadores quer dos próprios trabalhadores, pelo que se impõe um rigor acrescido no acesso à protecção desta eventualidade que garanta sempre os direitos legalmente reconhecidos ao mesmo tempo que previne as práticas abusivas, socialmente censuráveis e que jamais beneficiam os legítimos titulares.
+
+O presente diploma procede ainda à integração global das normas de protecção na eventualidade doença dos beneficiários do regime geral dos trabalhadores por conta de outrem, dos trabalhadores independentes e do regime de inscrição facultativa, superando os inconvenientes da actual dispersão legislativa. Desta forma o Governo reforça a justiça social, assegura a coerência do sistema e preserva a unidade jurídica do ordenamento, concretizando uma uniformização das normas aplicáveis aos beneficiários do regime dos independentes e do seguro social voluntário no domínio da escolha e do registo das remunerações convencionais.
+
+No âmbito do índice de profissionalidade, o presente diploma procede à flexibilização para 60 dias, em vez dos actuais 30, do período que medeia entre a ocorrência de incapacidades por doença, com recurso ao registo de remunerações por equivalência, dado que irão ser beneficiadas as situações de doenças crónicas e prolongadas.
+
+A prestação concretizada no âmbito da protecção social na eventualidade doença visa compensar a perda de remuneração de trabalho do beneficiário e pressupõe a conexão deste com o sistema de segurança social e uma ligação mínima ao subsistema previdencial, cuja natureza contributiva que lhe é inerente não pode ser descurada, e por isso determinou a fixação de um novo período de 20 dias de trabalho efectivo.
+
+É propósito expresso e assumido do XV Governo Constitucional proceder a uma diferenciação do regime do subsídio de doença, privilegiando a protecção social das doenças graves e longas e moralizando a atribuição de baixas de curta duração. Nesse sentido, foram fixadas novas percentagens de cálculo da prestação em obediência a critérios de duração da incapacidade temporária por doença, introduzindo melhorias significativas no nível de protecção das doenças de longa duração.
+
+Tendo presente que a prestação conferida traduz uma compensação da perda de remuneração de trabalho, o regime instituído pelo presente diploma visa não só compensar essa perda mas também atenuar as consequências dessa adversidade, promovendo a adequação da protecção social na eventualidade doença em função da presumida gravidade e duração da doença do beneficiário, bem como da composição da respectiva família.
+
+O regime de certificação havia sido objecto de aperfeiçoamento durante os últimos anos e por isso mantém-se, não obstante a coerência e compatibilidade que é necessário desenvolver numa perspectiva integradora e global deste aspecto concreto do regime, assim como também é um imperativo de modernidade fomentar o recurso a mecanismos de transferência electrónica de dados entre as áreas da saúde e da segurança social, a fim de agilizar o processo de atribuição do subsídio de doença.
+
+A articulação entre os empregadores e os serviços do sistema de segurança social constitui um avanço relevante no fomento da cultura de co-responsabilização que caracteriza o actual sistema de segurança social e consubstancia um contributo decisivo para a prevenção e para o controlo das situações abusivas, concorrendo para uma melhor protecção aos trabalhadores com efectiva incapacidade por doença.
+
+Considerando as alterações introduzidas pelo presente diploma, bem como as inovações operacionais que as mesmas comportam, e tendo em conta a natureza substitutiva, compensatória, e por isso essencial, desta prestação para os beneficiários e para as suas famílias, é criada uma comissão de acompanhamento da aplicação do regime de protecção na doença, no sentido de promover a melhoria da eficácia das respostas sociais.
+
+O presente diploma foi objecto de discussão pública mediante publicação no Boletim de Trabalho e do Emprego, nos termos das Leis n.os 16/99 e 36/99, de 26 de Maio, e foram ouvidos os parceiros sociais no âmbito da Comissão Permanente de Concertação Social, do Conselho Económico e Social.
+
+Assim:
+
+No desenvolvimento da Lei n.º 32/2002, de 20 de Dezembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:
+
+### Capítulo I — Natureza, objectivo e âmbito
+
+###### Artigo 1.º — Natureza e objectivo
+
+1 - O presente diploma define o regime jurídico de protecção social na eventualidade doença no âmbito do subsistema previdencial.
+
+2 - A protecção na eventualidade doença realiza-se mediante a atribuição de prestações destinadas a compensar a perda de remuneração presumida, em consequência de incapacidade temporária para o trabalho.
+
+###### Artigo 2.º — Caracterização da eventualidade
+
+Para efeitos deste diploma é considerada doença toda a situação mórbida, evolutiva, não decorrente de causa profissional ou de acto da responsabilidade de terceiro pelo qual seja devida indemnização, que determine incapacidade temporária para o trabalho.
+
+###### Artigo 3.º — Âmbito pessoal
+
+1 - A protecção social regulada no presente diploma abrange os beneficiários do subsistema previdencial integrados no regime geral de segurança social dos trabalhadores por conta de outrem e dos trabalhadores independentes, desde que o respectivo esquema de protecção integre a eventualidade doença.
+
+2 - A protecção social na doença abrange ainda os trabalhadores marítimos e os vigias nacionais que exercem actividade em barcos de empresas estrangeiras e se encontrem enquadrados no regime do seguro social voluntário.
+
+###### Artigo 4.º — Âmbito material
+
+1 - A protecção na eventualidade doença é efectivada mediante a atribuição de subsídio de doença.
+
+2 - A protecção na doença integra, também, a atribuição de prestações pecuniárias compensatórias de subsídios de férias, de Natal ou outros de natureza análoga.
+
+3 - As prestações referidas no número anterior não integram o âmbito da protecção na doença dos trabalhadores independentes.
+
+###### Artigo 5.º — Titularidade do direito
+
+O direito às prestações é reconhecido aos beneficiários que, à data do início da incapacidade temporária para o trabalho, reúnam as respectivas condições de atribuição.
+
+###### Artigo 6.º — Exclusão do direito ao subsídio
+
+Não há lugar à atribuição de subsídio de doença aos beneficiários que se encontrem nas seguintes situações:
+
+a) A receber quantias pagas periodicamente pelos empregadores sem contraprestação de trabalho, designadamente pré-reforma;
+
+b) A receber prestações de desemprego;
+
+c) A receber pensões de invalidez e velhice de quaisquer regimes de protecção social, salvo o disposto no n.º 2 do artigo 27.º;
+
+d) Reclusos em estabelecimento prisional, sem prejuízo da manutenção do subsídio em curso à data da detenção.
+
+###### Artigo 7.º — Concessão provisória do subsídio
+
+1 - Nas situações de incapacidade temporária para o trabalho decorrentes de acidente de trabalho ou de acto da responsabilidade de terceiro, pelo qual seja devida indemnização, há lugar à concessão provisória de subsídio de doença enquanto não se encontrar reconhecida a responsabilidade de quem deva pagar aquelas indemnizações.
+
+2 - A concessão provisória do subsídio de doença cessa logo que se verifique o reconhecimento judicial da obrigação de indemnizar ou o pagamento voluntário da indemnização, sem prejuízo do disposto no artigo 31.º
+
+3 - Sempre que seja judicialmente reconhecida a obrigação de indemnizar, as instituições de segurança social têm direito ao reembolso dos valores correspondentes à concessão provisória do subsídio de doença até ao limite do valor da indemnização.
+
+4 - Nas situações de incapacidade temporária para o trabalho dos trabalhadores independentes decorrentes de acidente de trabalho, a concessão provisória do subsídio de doença depende da existência de seguro válido de acidentes de trabalho.
+
+### Capítulo II — Condições de atribuição das prestações
+
+#### Secção I — Subsídio de doença
+
+###### Artigo 8.º — Disposição geral
+
+A atribuição do subsídio de doença depende da verificação do prazo de garantia, do índice de profissionalidade e da certificação da incapacidade temporária para o trabalho, nos termos previstos no presente diploma.
+
+###### Artigo 9.º — Prazo de garantia
+
+1 - A atribuição do subsídio de doença depende de os beneficiários, à data do início da incapacidade temporária para o trabalho, terem cumprido um prazo de garantia de seis meses civis, seguidos ou interpolados, com registo de remunerações.
+
+2 - Para efeitos do número anterior releva, se necessário, o mês em que ocorre o evento desde que no mesmo se verifique registo de remunerações.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01
+
+###### Artigo 10.º — Contagem do prazo de garantia
+
+Nos casos de ausência de registo de remunerações durante seis meses consecutivos ou nas situações em que tenham sido esgotados os períodos máximos de concessão do subsídio de doença, a contagem do prazo de garantia tem início a partir da data em que ocorra um novo registo de remunerações.
+
+###### Artigo 11.º — Totalização de períodos contributivos
+
+Para efeitos de cumprimento do prazo de garantia para atribuição do subsídio de doença são considerados, desde que não se sobreponham, os períodos de registo de remunerações em quaisquer regimes obrigatórios de protecção social que assegurem prestações pecuniárias de protecção na eventualidade, incluindo o da função pública.
+
+###### Artigo 12.º — Índice de profissionalidade
+
+1 - A atribuição do subsídio de doença depende de os beneficiários terem cumprido um índice de profissionalidade de 12 dias com registo de remunerações por trabalho efectivamente prestado no decurso dos quatro meses imediatamente anteriores ao mês que antecede o da data do início da incapacidade temporária para o trabalho.
+
+2 - A atribuição do subsídio de doença aos trabalhadores independentes e aos trabalhadores marítimos não depende do cumprimento de índice de profissionalidade.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281), em vigor a partir de 2005-09-01
+
+###### Artigo 13.º — Relevância do registo de remunerações por equivalência
+
+1 - Para efeitos de cumprimento do índice de profissionalidade são equiparados ao registo de remunerações por trabalho efectivamente prestado os registos de remunerações por equivalência verificados no período relevante para a sua formação, nas seguintes situações:
+
+a) Sempre que ocorrer uma nova situação de incapacidade temporária nos 60 dias imediatos ao da cessação da anterior incapacidade;
+
+b) Por prestação de serviço militar obrigatório ou de serviço cívico substitutivo;
+
+c) Por atribuição de subsídios no âmbito da protecção na maternidade.
+
+2 - Para efeitos de aplicação do disposto na alínea a) do número anterior, consideram-se também as situações em que a incapacidade decorra de acto da responsabilidade de terceiro, de acidente de trabalho e de doença profissional.
+
+###### Artigo 14.º — Certificação da incapacidade temporária para o trabalho
+
+1 - A certificação da incapacidade temporária para o trabalho é efetuada pelos serviços competentes, através de documento emitido pelos respetivos médicos.
+
+2 - Para efeitos do disposto no número anterior são considerados serviços competentes as entidades prestadoras de cuidados de saúde públicas, privadas e sociais, designadamente cuidados de saúde primários, serviços de prevenção e tratamento da toxicodependência, e cuidados de saúde hospitalares, incluindo serviços de urgência.
+
+3 - A certificação da incapacidade temporária para o trabalho é efetuada através de transmissão eletrónica.
+
+4 - A incapacidade temporária para o trabalho pode igualmente ser autodeclarada por compromisso de honra, através de serviço digital do Serviço Nacional de Saúde ou de serviço digital dos serviços regionais de saúde das regiões autónomas, não podendo, contudo, exceder os três dias consecutivos, até ao limite de duas vezes por ano.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 2/2024 - Diário da República n.º 4/2024, Série I de 2024-01-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/2-2024-836117864), em vigor a partir de 2024-03-01
+
+#### Secção II — Prestações compensatórias
+
+###### Artigo 15.º — Prestação compensatória de subsídios de férias e de Natal
+
+A atribuição da prestação compensatória dos subsídios de férias, de Natal ou de outros de natureza análoga depende, cumulativamente, de:
+
+a) Os beneficiários não terem direito, em consequência de doença subsidiada, ao pagamento daqueles subsídios, no todo ou em parte, pelo respetivo empregador, por força do disposto em instrumento de regulamentação coletiva de trabalho ou noutra fonte de direito laboral;
+
+b) O respectivo empregador não ter pago os subsídios, por força do disposto em instrumento de regulamentação colectiva de trabalho ou noutra fonte de direito laboral.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01
+
+### Capítulo III — Montantes das prestações
+
+###### Artigo 16.º — Montante do subsídio de doença
+
+1 - O montante diário do subsídio de doença é calculado pela aplicação à remuneração de referência de uma percentagem variável em função da duração do período de incapacidade para o trabalho ou da natureza da doença.
+
+2 - As percentagens a que se refere o número anterior são as seguintes:
+
+a) 55 % para o cálculo do subsídio referente a período de incapacidade temporária de duração inferior ou igual a 30 dias;
+
+b) 60 % para o cálculo do subsídio referente a período de incapacidade temporária de duração superior a 30 e inferior ou igual a 90 dias;
+
+c) 70 % para o cálculo do subsídio referente a período de incapacidade temporária de duração superior a 90 e inferior ou igual a 365 dias;
+
+d) 75 % para o cálculo do subsídio referente a período de incapacidade temporária superior a 365 dias.
+
+3 - O montante diário do subsídio de doença nas situações de incapacidade para o trabalho decorrente de tuberculose é calculado pela aplicação das percentagens de 80% ou 100%, consoante o agregado familiar do beneficiário integre até dois ou mais familiares a seu cargo.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281), em vigor a partir de 2005-09-01
+
+###### Artigo 17.º — Majoração do subsídio de doença
+
+1 - Para efeitos de cálculo do subsídio de doença, as percentagens fixadas nas alíneas a) e b) do n.º 2 do artigo anterior são acrescidas de 5 % relativamente aos beneficiários em que se verifique uma das seguintes situações:
+
+a) A remuneração de referência seja igual ou inferior a (euro) 500;
+
+b) O agregado familiar integre três ou mais descendentes com idades até 16 anos, ou até 24 anos se receberem abono de família para crianças e jovens;
+
+c) O agregado familiar integre descendentes que beneficiem da bonificação por deficiência do abono de família para crianças e jovens, nos termos do Decreto-Lei n.º 133-B/97, de 30 de maio.
+
+2 - O montante diário do subsídio de doença calculado sobre uma remuneração de referência superior a (euro) 500, em aplicação do disposto nas alíneas a) e b) do n.º 2 do artigo 16.º, não pode ser inferior ao valor do subsídio de doença resultante da aplicação da majoração prevista no número anterior a uma remuneração de referência de (euro) 500.
+
+3 - Para efeitos do presente diploma, as majorações previstas no n.º 1 não são cumuláveis.
+
+4 - O valor monetário referido na alínea a) do n.º 1 e no n.º 2 será atualizado anualmente em função da atualização do indexante dos apoios sociais.
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01
+
+> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 146/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281), em vigor a partir de 2005-09-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 29/2004 - Diário da República n.º 70/2004, Série I-A de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2004-209646), em vigor a partir de 2004-04-01
+
+###### Artigo 18.º — Remuneração de referência
+
+1 - A remuneração de referência a considerar é definida por R/180, em que R representa o total das remunerações registadas nos primeiros seis meses civis que precedem o 2.º mês anterior ao mês em que teve início a incapacidade temporária para o trabalho.
+
+2 - Em caso de totalização de períodos contributivos, se os beneficiários, no período de referência indicado no número anterior, não apresentarem seis meses com registo de remunerações, a remuneração de referência é definida por R/(30 x n), em que R representa o total das remunerações registadas desde o início do período de referência até ao dia que antecede a incapacidade temporária para o trabalho e n o número de meses a que as mesmas se reportam.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+5 - Na determinação do total de remunerações registadas não são consideradas as importâncias relativas aos subsídios de férias, de Natal ou outros de natureza análoga.
+
+> Nota: [Artigo 7.º, Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003) A revogação dos n.ºs 3 e 4 do presente artigo é feita nos termos do artigo 7.º da Lei 28/2011 de 16 de junho
+
+> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 133/2012 - Diário da República n.º 123/2012, Série I de 2012-06-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/133-2012-178491), em vigor a partir de 2012-07-01
+
+> Alterado pelo/a Artigo 5.º do/a [Lei n.º 28/2011 - Diário da República n.º 115/2011, Série I de 2011-06-16](https://diariodarepublica.pt/dr/detalhe/lei/28-2011-670003)
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 29/2004 - Diário da República n.º 70/2004, Série I-A de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2004-209646), em vigor a partir de 2004-04-01
+
+###### Artigo 19.º — Limites ao montante do subsídio
+
+1 - O montante diário do subsídio de doença não pode ser inferior a 30% do valor diário da retribuição mínima mensal estabelecida para o sector de actividade do beneficiário, sem prejuízo do disposto no n.º 3.
+
+2 - Nos casos em que a remuneração de referência do beneficiário seja inferior ao valor mínimo estabelecido no número anterior o montante diário do subsídio de doença é igual ao montante diário daquela remuneração, sem prejuízo do disposto no número seguinte.
+
+3 - O montante diário do subsídio de doença não pode ser superior ao valor líquido da remuneração de referência que lhe serviu de base de cálculo.
+
+4 - O valor líquido da remuneração de referência referido no número anterior obtém-se pela dedução, ao valor ilíquido da remuneração, da taxa contributiva que seria imputável ao beneficiário e da taxa de retenção do imposto sobre rendimento das pessoas singulares (IRS).
+
+5 - Nas situações de acumulação previstas no n.º 1 do artigo 27.º, o montante do subsídio de doença é igual à diferença entre o valor que lhe corresponde e o valor das indemnizações por acidente de trabalho ou doença profissional.
+
+###### Artigo 20.º — Montante da prestação compensatória
+
+O montante da prestação compensatória a conceder ao abrigo do artigo 15.º do presente diploma corresponde a 60% da importância que o beneficiário deixa de receber do respectivo empregador.
+
+### Capítulo IV — Duração, acumulação e coordenação das prestações
+
+#### Secção I — Início e duração
+
+###### Artigo 21.º — Início do pagamento
+
+1 - O início do pagamento do subsídio de doença dos trabalhadores por conta de outrem está sujeito a um período de espera de três dias, sendo devido a partir do 4.º dia de incapacidade temporária para o trabalho.
+
+2 - Relativamente aos beneficiários do regime de inscrição facultativa, o início do pagamento do subsídio de doença está sujeito a um período de espera de 30 dias, sendo devido a partir do 31.º dia de incapacidade temporária para o trabalho.
+
+3 - O início do pagamento do subsídio de doença dos trabalhadores independentes está sujeito a um período de espera de 10 dias, sendo devido a partir do 11.º dia de incapacidade temporária para o trabalho.
+
+4 - Para efeitos do disposto no n.º 1 não é considerado o dia do início da incapacidade, se o mesmo tiver sido remunerado.
+
+5 - Nas situações em que o certificado de incapacidade temporária não seja remetido às instituições gestoras no prazo previsto no n.º 1 do artigo 34.º, o subsídio de doença é devido a partir da data em que seja remetido aquele certificado, sem prejuízo da aplicação dos períodos de espera previstos neste artigo.
+
+6 - Não existe período de espera nas situações de incapacidade temporária para o trabalho decorrentes de:
+
+a) Internamento hospitalar ou de cirurgia de ambulatório, verificados em estabelecimentos hospitalares do Serviço Nacional de Saúde ou particulares com autorização legal de funcionamento pelo Ministério da Saúde;
+
+b) Tuberculose;
+
+c) Doença com início no decurso do período de atribuição do subsídio parental que ultrapasse o termo deste período.
+
+7 - Nas situações de incapacidade temporária para o trabalho imediatamente subsequentes a uma situação de doença do trabalhador, declarada nos termos do n.º 5 do artigo 254.º do Código do Trabalho, é deduzido ao período de espera previsto no n.º 1 o número de dias constante da declaração emitida pelos serviços digitais do Serviço Nacional de Saúde, ou do serviço digital dos serviços regionais de saúde das Regiões Autónomas.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 53/2023 - Diário da República n.º 129/2023, Série I de 2023-07-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2023-215210816), em vigor a partir de 2023-07-06, produz efeitos a partir de 2023-05-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 302/2009 - Diário da República n.º 205/2009, Série I de 2009-10-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/302-2009-483168), em vigor a partir de 2009-11-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281), em vigor a partir de 2005-09-01
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 29/2004 - Diário da República n.º 70/2004, Série I-A de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2004-209646), em vigor a partir de 2004-04-01
+
+###### Artigo 22.º — Registo de equivalências
+
+1 - Os períodos de concessão do subsídio de doença e de concessão provisória deste subsídio nos termos do artigo 7.º do presente diploma dão lugar ao registo de remunerações por equivalência à entrada de contribuições.
+
+2 - Os períodos de espera estabelecidos no artigo anterior dão lugar ao registo de remunerações por equivalência, salvo nas situações respeitantes aos trabalhadores independentes.
+
+###### Artigo 23.º — Período de concessão
+
+1 - O subsídio de doença é concedido pelos períodos máximos de 1095 dias e de 365 dias, consoante se trate, respectivamente, de trabalhadores por conta de outrem ou de trabalhadores independentes.
+
+2 - Para efeitos de contagem do período máximo de concessão do subsídio, consideram-se as situações de incapacidade que ocorram nos 60 dias imediatos à data da cessação da incapacidade anterior.
+
+3 - A atribuição dos subsídios de maternidade, paternidade e por adopção não interrompe, mas suspende, a contagem dos períodos máximos previstos no n.º 1.
+
+4 - A concessão do subsídio de doença por incapacidade decorrente de tuberculose não se encontra sujeita aos limites temporais estabelecidos no n.º 1, mantendo-se a concessão do subsídio enquanto se verificar a incapacidade.
+
+###### Artigo 24.º — Cessação
+
+1 - O direito ao subsídio de doença cessa quando for atingido o termo do período constante do certificado de incapacidade temporária para o trabalho ou, durante o referido período, desde que:
+
+a) Tenha sido declarada pelos serviços competentes do Ministério da Saúde a não subsistência da incapacidade temporária para o trabalho;
+
+b) O beneficiário tenha retomado o exercício de actividade profissional por se considerar apto;
+
+c) O beneficiário tenha exercido actividade profissional, independentemente da prova de não existência de remuneração.
+
+2 - O direito ao subsídio de doença cessa ainda quando:
+
+a) O beneficiário não tiver apresentado justificação atendível da ausência da residência, sem autorização médica expressa;
+
+b) O beneficiário não tiver apresentado justificação atendível para a falta a exame médico para que tenha sido convocado;
+
+c) Tiver sido declarada a não subsistência da incapacidade temporária para o trabalho pela comissão de reavaliação;
+
+d) Não tiver sido requerida a intervenção da comissão de reavaliação ou a mesma não tiver sido admitida nos termos do artigo 37.º do Decreto-Lei n.º 360/97, de 17 de Dezembro.
+
+3 - O prazo para apresentação da justificação previsto nas alíneas a) e b) do número anterior é de cinco dias úteis, após a data de recepção da comunicação de suspensão do pagamento do subsídio ou da data marcada para o exame médico, respectivamente.
+
+> Rectificado pelo/a [Declaração de Rectificação n.º 29/2004 - Diário da República n.º 70/2004, Série I-A de 2004-03-23](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/29-2004-209646), em vigor a partir de 2004-04-01
+
+#### Secção II — Coordenação entre a protecção na doença e na invalidez
+
+###### Artigo 25.º — Atribuição de pensão provisória de invalidez
+
+A manutenção da situação de incapacidade para o trabalho confere direito à atribuição de uma pensão provisória de invalidez ainda que não tenha sido cumprido o prazo de garantia legalmente estabelecido para o efeito, nos termos definidos em diploma próprio.
+
+#### Secção III — Acumulação de prestações
+
+###### Artigo 26.º — Disposição geral
+
+1 - O subsídio de doença não é acumulável com outras prestações compensatórias da perda da remuneração de trabalho, concedidas no âmbito do subsistema previdencial ou de outros regimes de protecção social, sem prejuízo do disposto no artigo seguinte.
+
+2 - O subsídio de doença não é acumulável com prestações concedidas no âmbito do subsistema de solidariedade, excepto com o rendimento social de inserção, em que se observa o disposto no regime jurídico que regulamenta esta prestação.
+
+###### Artigo 27.º — Acumulação com prestações de natureza indemnizatória
+
+1 - O subsídio de doença é acumulável com indemnizações por incapacidade temporária resultantes de doença profissional e de acidente de trabalho, desde que o valor destas indemnizações seja inferior ao montante do subsídio, nos termos previstos no n.º 5 do artigo 19.º
+
+2 - O subsídio de doença é acumulável com pensões concedidas no âmbito da protecção por acidente de trabalho e doença profissional e com outras pensões a que seja reconhecida natureza indemnizatória.
+
+### Capítulo V — Deveres
+
+###### Artigo 28.º — Deveres dos beneficiários
+
+1 - Constituem deveres dos beneficiários abrangidos pelo regime de protecção na doença:
+
+a) Comparecer aos exames médicos para que forem convocados nos termos deste diploma e no âmbito da legislação que regula o sistema de verificação de incapacidades;
+
+b) Não se ausentar do seu domicílio durante o período de incapacidade fixado, salvo em caso de tratamento ou em caso de autorização médica expressa no documento de certificação de incapacidade temporária para o trabalho nos períodos entre as 11 e as 15 e entre as 18 e as 21 horas.
+
+2 - Os beneficiários devem, ainda, comunicar à instituição de segurança social:
+
+a) O recebimento de quantias pagas, periodicamente, sem contraprestação de trabalho, designadamente pré-reforma;
+
+b) A titularidade de pensões ou de outras prestações compensatórias da perda de remuneração de trabalho, respectivos montantes, bem como o regime de protecção social pelo qual lhe são atribuídas;
+
+c) A identificação de eventuais responsáveis e o montante da indemnização recebida, em caso de haver acordo, sempre que a incapacidade resulte de acidente de trabalho ou de acto de terceiro pelo qual seja devida indemnização;
+
+d) O exercício de actividade profissional, independentemente de prova da inexistência de remuneração;
+
+e) A mudança de residência;
+
+f) A reclusão em estabelecimento prisional;
+
+g) Qualquer outra situação susceptível de impossibilitar o reconhecimento do direito às prestações ou determinar a sua cessação.
+
+###### Artigo 29.º — Prazo de comunicação
+
+A comunicação dos factos a que se refere o artigo anterior deve ser feita, por declaração do próprio ou de quem o represente, no prazo de cinco dias úteis a contar da data do início da situação de incapacidade temporária ou da ocorrência do facto, no caso de este se verificar subsequentemente.
+
+###### Artigo 30.º — Incumprimento de deveres
+
+O incumprimento dos deveres dos beneficiários determina os efeitos previstos no presente diploma, sem prejuízo das sanções contra-ordenacionais fixadas em lei especial.
+
+###### Artigo 31.º — Celebração de acordos
+
+1 - Nos casos em que o pedido de reembolso do valor dos subsídios de doença, concedidos provisoriamente ao abrigo do artigo 7.º do presente diploma, não tiver sido judicialmente formulado pela instituição de segurança social, nenhuma transacção pode ser celebrada com o beneficiário titular do direito à indemnização, nem lhe pode ser efectuado qualquer pagamento com a mesma finalidade, sem que se encontre certificado, pela mesma instituição, se houve concessão provisória de subsídio de doença e qual o respectivo montante.
+
+2 - Nas situações em que tenha sido celebrado acordo, o responsável pela indemnização deve:
+
+a) Comunicar à instituição da segurança social o valor total da indemnização devida;
+
+b) Reter e entregar directamente à instituição o valor correspondente aos subsídios de doença pagos, até ao limite do montante da indemnização devida.
+
+3 - Em caso de incumprimento do disposto nos números anteriores, o terceiro responsável pela indemnização responde solidariamente com o beneficiário pelo reembolso do valor dos subsídios de doença provisoriamente concedidos.
+
+### Capítulo VI — Gestão, administração e certificação da incapacidade
+
+#### Secção I — Gestão e organização dos processos
+
+###### Artigo 32.º — Entidades competentes
+
+A gestão das prestações reguladas neste diploma compete ao Instituto de Solidariedade e Segurança Social, através dos centros distritais de solidariedade e segurança social, às caixas de actividade ou de empresa subsistentes e às entidades competentes das administrações regionais autónomas, no âmbito das respectivas competências.
+
+###### Artigo 33.º — Requerimento
+
+1 - A atribuição de subsídio de doença não depende da apresentação de requerimento pelo beneficiário.
+
+2 - A atribuição da prestação compensatória do não pagamento de subsídios de férias, de Natal ou outros de natureza análoga, prevista no n.º 2 do artigo 4.º do presente diploma, depende de requerimento.
+
+3 - O requerimento referido no número anterior deve ser apresentado nas instituições gestoras das prestações no prazo de seis meses contados a partir de 1 de Janeiro do ano subsequente àquele em que os subsídios eram devidos, salvo no caso de cessação do contrato de trabalho, situação em que o prazo se inicia a contar da data dessa cessação.
+
+4 - O requerimento deve ser instruído com uma declaração da entidade empregadora, na qual conste a indicação dos quantitativos não pagos e a referência à norma contratual justificativa do não pagamento.
+
+5 - Nas situações de falecimento do beneficiário que, reunindo as condições legais substantivas para a atribuição da prestação compensatória, não a requereu em vida, os familiares com direito ao subsídio por morte podem requerê-la no prazo estabelecido para a apresentação do respectivo requerimento.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281), em vigor a partir de 2005-09-01
+
+###### Artigo 34.º — Remessa do certificado de incapacidade temporária
+
+1 - Os documentos médicos de certificação da incapacidade temporária para o trabalho por doença referidos no artigo 14.º são remetidos, pelos beneficiários, às instituições gestoras das prestações, no prazo de cinco dias úteis a contar da data da respectiva emissão, enquanto não for concretizada a transmissão electrónica de dados respeitantes àquela certificação.
+
+2 - Nas situações em que o certificado de incapacidade temporária não seja recebido nas instituições gestoras no prazo referido no número anterior, aplica-se o disposto no n.º 5 do artigo 21.º, salvo justificação atendível devidamente fundamentada.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+###### Artigo 35.º — Prova da incapacidade temporária em situações especiais
+
+1 - Nas situações em que a doença ocorra a bordo de embarcações, a certificação da incapacidade é sempre feita com intervenção médica, ainda que não presencial, cabendo ao empregador a responsabilidade pela remessa do documento médico às instituições gestoras.
+
+2 - Fora do território nacional, os documentos que certifiquem as situações de incapacidade temporária para o trabalho são emitidos pelos médicos dos beneficiários no Estado respectivo e autenticados pelos serviços consulares portugueses, sem prejuízo do disposto em instrumento internacional a que Portugal se encontre vinculado.
+
+###### Artigo 36.º — Confirmação da subsistência da incapacidade
+
+1 - A incapacidade temporária para o trabalho determinante do direito ao subsídio de doença pode ser objecto de confirmação oficiosa da sua subsistência, através da intervenção do sistema de verificação de incapacidades, nos termos constantes de diploma próprio.
+
+2 - A reavaliação das situações objecto das deliberações das comissões de verificação de incapacidades que determinaram a não subsistência da incapacidade temporária para o trabalho é regulada nos termos do presente decreto-lei e do diploma que define o sistema de verificação de incapacidades.
+
+3 - Sem prejuízo do disposto no n.º 1, serão, no mínimo, verificadas as situações de incapacidade temporária que se prolonguem por mais de 30 dias, nos seguintes termos:
+
+a) 50% das situações no ano de 2006;
+
+b) 75% das situações no ano de 2007;
+
+c) A totalidade das situações a partir de 2008.
+
+4 - No âmbito do regime dos trabalhadores independentes, são verificadas as situações de incapacidade temporária que se prolonguem por mais de 20 dias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 146/2005 - Diário da República n.º 164/2005, Série I-A de 2005-08-26](https://diariodarepublica.pt/dr/detalhe/decreto-lei/146-2005-245281), em vigor a partir de 2005-09-01
+
+###### Artigo 37.º — Verificação da incapacidade permanente
+
+Nas situações de incapacidade temporária que atinjam 365 dias, as instituições podem promover, oficiosamente, a verificação da eventual incapacidade permanente do beneficiário, desde que à data se encontre preenchido o prazo de garantia legalmente estabelecido para a atribuição da pensão de invalidez.
+
+###### Artigo 38.º — Verificação da incapacidade por iniciativa dos empregadores
+
+As iniciativas dos empregadores para requererem a verificação das incapacidades temporária e permanente dos respectivos trabalhadores são objecto de regulamentação específica.
+
+#### Secção II — Pagamento das prestações
+
+###### Artigo 39.º — Disposição geral
+
+As prestações por doença previstas neste diploma são pagas aos beneficiários ou aos seus representantes legais.
+
+###### Artigo 40.º — Condição especial de pagamento
+
+1 - O pagamento das prestações aos trabalhadores independentes e aos beneficiários do regime de inscrição facultativa depende de se encontrar regularizada a respetiva situação contributiva nas condições previstas nos artigos 217.º e 219.º do Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social, aprovado pela Lei n.º 110/2009, de 16 de setembro, na sua redação atual.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 53/2018 - Diário da República n.º 125/2018, Série I de 2018-07-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/53-2018-115620691), em vigor a partir de 2018-07-01
+
+###### Artigo 41.º — Suspensão do pagamento
+
+O pagamento do subsídio de doença é suspenso nas seguintes situações:
+
+a) Durante o período de concessão dos subsídios de maternidade, de paternidade e por adopção;
+
+b) Nos casos em que, sem autorização médica expressa, o beneficiário se ausente da sua residência, sem prejuízo da observância do período obrigatório de permanência na mesma;
+
+c) Em caso de falta a exame médico para que o beneficiário tenha sido convocado, nos termos da lei;
+
+d) Quando for declarada a não subsistência da incapacidade temporária para o trabalho pela comissão de verificação de incapacidades.
+
+###### Artigo 42.º — Comunicação da atribuição das prestações
+
+As instituições gestoras devem comunicar as decisões sobre a atribuição das prestações de acordo com o disposto no Código do Procedimento Administrativo.
+
+###### Artigo 43.º — Prescrição
+
+O direito ao subsídio de doença prescreve a favor das instituições gestoras devedoras no prazo de cinco anos após a data em que a prestação é posta a pagamento com conhecimento do credor.
+
+### Capítulo VII — Disposições finais
+
+###### Artigo 44.º — Cooperação interministerial
+
+Os Ministérios da Saúde e da Segurança Social e do Trabalho devem conceber e desenvolver formas de colaboração, tendo em vista o controlo das situações de incapacidade temporária para o trabalho, bem como a eficiência dos serviços a prestar aos beneficiários.
+
+###### Artigo 45.º — Comissão de acompanhamento
+
+1 - É criada uma comissão de acompanhamento, de âmbito nacional, com a participação de representantes dos organismos das áreas da saúde e da segurança social, à qual compete acompanhar e avaliar a execução dos procedimentos adoptados pelas instituições intervenientes no processo de certificação das incapacidades temporárias para o trabalho e apresentar propostas de aperfeiçoamento da legislação aplicável.
+
+2 - A composição da comissão de acompanhamento e as respectivas condições de funcionamento são definidas por despacho conjunto dos Ministros da Saúde e da Segurança Social e do Trabalho.
+
+###### Artigo 46.º — Cooperação e acções de prevenção
+
+As instituições de segurança social colaboram ainda com outros serviços oficiais, designadamente nas áreas do trabalho e da educação, tendo em vista a adopção de medidas adequadas à prevenção das doenças e à criação de condições que permitam uma reparação eficaz e em tempo útil dos danos decorrentes desta eventualidade.
+
+###### Artigo 47.º — Doenças crónicas
+
+A regulamentação das doenças crónicas ou de outras cuja natureza determine especificidades no âmbito da protecção da eventualidade doença constará de portaria conjunta dos Ministros da Saúde e da Segurança Social e do Trabalho, a aprovar no prazo máximo de 180 dias.
+
+###### Artigo 48.º — Disposições especiais
+
+Mantêm-se em vigor as disposições especiais de protecção na incapacidade temporária para o trabalho por doença para determinados grupos sócio-profissionais, constantes de diplomas próprios.
+
+###### Artigo 49.º — Regulamentação
+
+Os procedimentos considerados necessários à execução do disposto no presente diploma são aprovados por portaria conjunta dos Ministros da Saúde e da Segurança Social e do Trabalho.
+
+###### Artigo 50.º — Remissão
+
+Todas as referências legais às normas do Decreto-Lei n.º 132/88, de 20 de Abril, nas redacções dadas pelos Decretos-Leis n.os 287/90, de 19 de Setembro, e 165/99, de 13 de Maio, consideram-se feitas às normas correspondentes do presente diploma.
+
+###### Artigo 51.º — Norma revogatória
+
+1 - É revogado o Decreto-Lei n.º 132/88, de 20 de Abril, nas redacções dadas pelos Decretos-Leis n.os 287/90, de 19 de Setembro, e 165/99, de 13 de Maio, bem como toda a legislação complementar que contrarie o presente diploma.
+
+2 - São derrogadas as disposições dos Decretos-Leis n.os 328/93, de 25 de Setembro, e 40/89, de 1 de Fevereiro, relativamente às normas que disponham sobre a mesma matéria no âmbito do presente diploma.
+
+###### Artigo 52.º — Entrada em vigor
+
+1 - O presente diploma entra em vigor no dia 1 de Abril de 2004 e é aplicável às situações de incapacidade temporária para o trabalho iniciadas a partir da data de início da sua vigência.
+
+2 - O disposto nos n.os 3 e 4 do artigo 19.º entra em vigor em 1 de Janeiro de 2005.
+
+Visto e aprovado em Conselho de Ministros de 27 de Novembro de 2003. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - Luís Filipe Pereira - António José de Castro Bagão Félix.
+
+Promulgado em 23 de Janeiro de 2004.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 27 de Janeiro de 2004.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.

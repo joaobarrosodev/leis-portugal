@@ -1,0 +1,327 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:75195059:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2016-107780441",
+ "dre_path": "/dr/detalhe/portaria/227-2016-75195059",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-08-25",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "107780358"
+   ]
+  },
+  {
+   "date": "2017-07-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:107761912:por",
+     "title": "Portaria n.º 232/2017",
+     "published": "2017-07-27",
+     "dre_path": "/dr/detalhe/portaria/232-2017-107761912"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 14.º"
+   ],
+   "fragments": [
+    "107780358",
+    "107780359",
+    "107780696",
+    "107780697",
+    "107780698",
+    "107780699",
+    "107780700",
+    "107780701",
+    "107780702",
+    "107780703",
+    "107780704",
+    "107780705",
+    "107780706",
+    "107780707",
+    "107780708",
+    "107780709",
+    "107780715",
+    "107780711",
+    "107780712",
+    "107780713",
+    "107780714"
+   ]
+  },
+  {
+   "date": "2025-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:924488402:por",
+     "title": "Portaria n.º 264-B/2025/1",
+     "published": "2025-07-10",
+     "dre_path": "/dr/detalhe/portaria/264-b-2025-924488402"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "107780358",
+    "924366515",
+    "924366516",
+    "107780359",
+    "107780696",
+    "107780697",
+    "924366552",
+    "107780699",
+    "107780700",
+    "107780701",
+    "924366553",
+    "107780703",
+    "924366554",
+    "107780705",
+    "107780706",
+    "924366555",
+    "107780708",
+    "107780709",
+    "107780715",
+    "107780711",
+    "107780712",
+    "107780713",
+    "107780714"
+   ]
+  }
+ ],
+ "fragments": {
+  "107780358": {
+   "fragment_id": "107780442",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 227/2016\n\nde 25 de agosto\n\nPreâmbulo\n\nNa sequência da atribuição, à Santa Casa da Misericórdia de Lisboa, do direito de organizar e explorar o novo jogo social do Estado, sob sorteio de números, denominado «Totosorteio», torna-se necessário proceder à respetiva regulamentação.\n\nA presente Portaria estabelece as regras de exploração do «Totosorteio», que se caracteriza por atribuir prémios em dinheiro, de valor predeterminado, com base no sorteio de códigos alfanuméricos sorteados de entre o universo de códigos atribuídos a todas as apostas no jogo principal, a que se encontra associado.\n\nNo início da respetiva exploração, o «Totosorteio» é explorado em simultâneo com o jogo Euromilhões, implicando a participação neste último a participação no «Totosorteio».\n\nAssim:\n\nAo abrigo do n.º 1 do artigo 2.º do Decreto-Lei n.º 84/85, de 28 de março, do n.º 3 do artigo 2.º do Decreto-Lei n.º 43/2016, de 16 de agosto, e dos artigos 2.º e 27.º, n.º 3, alínea i) dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovado pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro, alterado pelo Decreto-Lei n.º 114/2011, de 30 de novembro, e pelo Decreto-Lei n.º 67/2015, de 29 de abril:\n\nManda o Governo, pelo Ministro do Trabalho, Solidariedade e Segurança Social o seguinte:"
+  },
+  "107780359": {
+   "fragment_id": "107780443",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro do Trabalho, Solidariedade e Segurança Social, José António Fonseca Vieira da Silva, em 22 de agosto de 2016."
+  },
+  "107780696": {
+   "fragment_id": "107781164",
+   "type": 14,
+   "heading": "Anexo — REGULAMENTO DO «TOTOSORTEIO»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — REGULAMENTO DO «TOTOSORTEIO»\n\n(a que se refere o artigo 1.º)"
+  },
+  "107780697": {
+   "fragment_id": "107781165",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\n1 - O presente regulamento estabelece as normas de participação e de realização do «Totosorteio», definido como o jogo social do Estado no qual os apostadores se habilitam a um ou mais prémios, de valor predeterminado, pela participação num sorteio de números, ou de números e letras, em que o universo de números ou números e letras objeto do sorteio coincide com o total de apostas registadas e não anuladas para cada sorteio, organizado, nos termos da lei, pelo departamento de jogos da Santa Casa da Misericórdia de Lisboa, adiante designado abreviadamente por departamento de jogos.\n\n2 - A participação no «Totosorteio» obriga à participação simultânea no jogo EUROMILHÕES, adiante designado por jogo principal, nos termos constantes no presente regulamento e no Regulamento do EUROMILHÕES, aprovado pela Portaria n.º 1267/2004, de 1 de outubro."
+  },
+  "107780698": {
+   "fragment_id": "107781166",
+   "type": 11,
+   "heading": "Artigo 2.º — Modo de participação nos sorteios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Modo de participação nos sorteios\n\n1 - O «Totosorteio» é organizado e explorado em simultâneo com o jogo EUROMILHÕES.\n\n2 - O «Totosorteio» tem um sorteio semanal, designado normal, realizado nos termos do artigo 11.º, que ocorre em dia, hora e local fixados pelo departamento de jogos, com a devida publicitação.\n\n3 - Em substituição do sorteio normal, o «Totosorteio» também pode ter sorteios designados especiais, nos quais são atribuídos prémios adicionais, a anunciar publicamente, pelo departamento de jogos, previamente à data do início da aceitação das apostas para os respetivos sorteios.\n\n4 - Em cada sorteio participam todas as apostas do «Totosorteio» registadas em simultâneo com as do jogo principal na semana em que se realiza o sorteio do «Totosorteio».\n\n5 - A cada aposta simples realizada no jogo principal corresponde uma aposta no «Totosorteio», nos termos do presente regulamento.\n\n6 - Por cada aposta múltipla realizada no jogo principal são atribuídas tantas apostas para o «Totosorteio» quantas as apostas simples incluídas no sistema de apostas múltiplas do jogo principal.\n\n7 - Cada aposta no «Totosorteio» corresponde à atribuição de um código único gerado automaticamente pelo sistema informático central do departamento de jogos.\n\n8 - A data de cada sorteio é a do dia em que o mesmo se realiza, tendo lugar às sextas-feiras.\n\n9 - Para efeitos do número anterior, a primeira semana do ano é aquela que contiver a primeira sexta-feira desse ano.\n\n10 - Para efeitos do presente regulamento, considera-se que a semana se inicia ao sábado e termina à sexta-feira."
+  },
+  "107780699": {
+   "fragment_id": "107781167",
+   "type": 11,
+   "heading": "Artigo 3.º — Condições gerais de participação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Condições gerais de participação\n\n1 - A participação no «Totosorteio» é obrigatória e simultânea com as apostas efetuadas no jogo principal e inicia-se com o registo e validação pelo sistema central do departamento de jogos, das apostas realizadas no jogo principal e o pagamento do respetivo preço, bem como das realizadas no «Totosorteio» e o pagamento do respetivo preço, nos termos da lei e do presente regulamento.\n\n2 - Esta participação pressupõe o integral conhecimento, adesão e plena aceitação das normas constantes do presente regulamento.\n\n3 - A participação no «Totosorteio» só se torna efetiva quando estiverem reunidas todas as condições regulamentares de validade das apostas para participação no «Totosorteio» e no jogo principal.\n\n4 - Para participar no «Totosorteio» apenas podem ser utilizados suportes autorizados pelo departamento de jogos, nos termos do presente regulamento, sem prejuízo do disposto no Decreto-Lei n.º 282/2003, de 8 de novembro."
+  },
+  "107780700": {
+   "fragment_id": "107781168",
+   "type": 11,
+   "heading": "Artigo 4.º — Preço da aposta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Preço da aposta\n\nO preço de cada aposta no «Totosorteio» é de (euro) 0,30, sem prejuízo do pagamento do preço da aposta no jogo principal, nos termos do disposto no regulamento do referido jogo."
+  },
+  "107780701": {
+   "fragment_id": "107781169",
+   "type": 11,
+   "heading": "Artigo 5.º — Registo e validação das apostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Registo e validação das apostas\n\n1 - O sistema de registo e validação de apostas é informático.\n\n2 - O sistema referido no número anterior apenas pode operar nos mediadores dos jogos sociais do Estado, através dos terminais de jogo ou da plataforma de acesso multicanal, sem prejuízo da possibilidade de disponibilização direta pelo departamento de jogos."
+  },
+  "107780702": {
+   "fragment_id": "107781170",
+   "type": 11,
+   "heading": "Artigo 6.º — Distribuição das receitas para prémios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Distribuição das receitas para prémios\n\n1 - Da receita de cada sorteio do «Totosorteio», constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 65 %, conforme previsto nos n.os 1 e 2 do artigo 5.º do Decreto-Lei n.º 43/2016, de 16 de agosto.\n\n2 - Da importância destinada a prémios, calculada nos termos do número anterior, é pago, em cada sorteio normal, um prémio no valor unitário de (euro) 1.000.000,00.\n\n3 - A quantidade de prémios e/ou o respetivo valor unitário podem ser diferentes do previsto no número anterior, nos sorteios especiais, de acordo com o respetivo plano de prémios, publicitado pelo departamento de jogos, previamente à data de aceitação de apostas para o correspondente sorteio.\n\n4 - Tem direito ao(s) prémio(s) referido(s) nos números 2 e 3, a(s) aposta(s) que for(em) sorteada(s), nos termos do artigo 11.º"
+  },
+  "107780703": {
+   "fragment_id": "107781171",
+   "type": 11,
+   "heading": "Artigo 7.º — Mediadores dos jogos sociais do Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Mediadores dos jogos sociais do Estado\n\n1 - Os mediadores dos jogos sociais do Estado são representantes dos apostadores junto do departamento de jogos e agem exclusivamente nessa qualidade, não representando em caso algum o departamento de jogos junto dos apostadores.\n\n2 - Os erros ou omissões cometidos pelos mediadores dos jogos sociais do Estado no exercício das suas funções não são imputáveis ao departamento de jogos.\n\n3 - O mediador é responsável perante o departamento de jogos pelo pagamento do preço de todas as apostas registadas através dos terminais de jogo que lhe estão atribuídos, nos termos do n.º 2 do artigo 5.º, e que não tenham sido anuladas, nos termos do regulamento que rege a respetiva atividade."
+  },
+  "107780704": {
+   "fragment_id": "107781172",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de registo e validação informático",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático processa-se:\n\na) Mediante apresentação dos bilhetes emitidos pelo departamento de jogos nos quais se tenham inscrito os prognósticos para o jogo principal;\n\nb) Mediante solicitação, ao mediador dos jogos sociais do Estado, da geração de prognósticos aleatórios para o jogo principal, na modalidade denominada «aposta automática»;\n\nc) Mediante solicitação ao mediador dos jogos sociais do Estado para digitar manualmente as apostas no jogo principal;\n\nd) Mediante a utilização do cartão de jogador nos outros canais da plataforma de acesso multicanal do departamento de jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, nos termos do Decreto-Lei n.º 282/2003, de 8 de novembro.\n\n2 - As apostas só participam no respetivo sorteio do jogo «Totosorteio» após o registo e validação no sistema central dos dados apresentados nos termos do número anterior.\n\n3 - Após o registo e validação das apostas no jogo principal, no sistema informático central do departamento de jogos, o terminal de jogo emite um recibo autónomo para o «Totosorteio», no qual constam os seguintes dados:\n\na) Nome do jogo;\n\nb) Número e data do sorteio;\n\nc) Códigos correspondentes a cada aposta;\n\nd) Quantidade de apostas;\n\ne) Preço das apostas;\n\nf) Números de controlo;\n\ng) Dia e hora em que é efetuado o registo e validação no sistema central;\n\nh) Número de série específico;\n\ni) Nome e número do concurso do jogo principal.\n\n4 - Para todos os efeitos legais, o recibo referido no n.º 3 é identificado pelos números de controlo que nele figuram.\n\n5 - O jogador efetua o pagamento da importância correspondente às apostas registadas e validadas informaticamente para participarem no jogo principal e no «Totosorteio» antes de o mediador dos jogos sociais do Estado lhe entregar os respetivos recibos emitidos pelo terminal, não podendo o mediador entregar os recibos ao jogador antes de receber o pagamento correspondente.\n\n6 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas efetuadas, as mesmas são anuladas pelo mediador, através da reintrodução dos recibos no terminal de jogos, que imprimirá na frente a palavra «anulado» ou «cancelado», o valor das apostas, a data e a hora, sendo os mesmos enviados ao departamento de jogos, pelo mediador dos jogos sociais do Estado, não podendo, em caso algum, ser entregues ao jogador.\n\n7 - A anulação das apostas no jogo principal implica a anulação dos códigos atribuídos para participar no «Totosorteio» e das apostas realizadas no jogo principal, uma vez que a participação no «Totosorteio» está sempre dependente da participação no jogo principal.\n\n8 - A anulação das apostas do «Totosorteio» só é possível através da anulação das apostas do jogo principal.\n\n9 - As apostas no jogo principal, e consequentemente no «Totosorteio», podem ser anuladas no terminal de jogos onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o mesmo, conforme o que ocorrer primeiro.\n\n10 - O sistema central anula igualmente as apostas registadas e validadas através do sistema de registo e validação informático, quando se verificar que as mesmas foram efetuadas com violação do disposto no n.º 3 do artigo 3.º, tendo o jogador direito à devolução do preço das apostas pagas e não sendo, em caso algum, os recibos anulados entregues ao apostador.\n\n11 - O recibo emitido pelo terminal de jogo é o único título válido para solicitar o pagamento do(s) prémio(s) e constitui a única prova de participação no sorteio para o qual apostas foram realizadas através do referido terminal.\n\n12 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal do departamento de jogos, nomeadamente o sítio da Internet www.jogossantascasa.pt, o cartão de jogador com o qual foi efetuada a aposta é o único documento válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos sorteios.\n\n13 - A participação nos sorteios mediante registo e validação informáticos só é válida quando, reunidos os demais pressupostos legais, ocorram cumulativamente os seguintes factos:\n\na) As apostas no jogo principal e as apostas no «Totosorteio» tenham sido registadas validamente e não tenham sido anuladas nos suportes informáticos do sistema central, de acordo com os requisitos e procedimentos estabelecidos no presente regulamento;\n\nb) A cópia de segurança dos suportes referidos na alínea anterior se encontre em poder do júri dos concursos e arquivada, sob sua custódia, antes do início do sorteio semanal do «Totosorteio».\n\n14 - Para todos os efeitos, entendem-se como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, em que se encontre registada a informação respeitante à identificação de todas as apostas participantes em cada sorteio.\n\n15 - O departamento de jogos poderá autorizar outros meios e suportes para o registo de apostas, nomeadamente telefone fixo e móvel, internet, televisão ou outro.\n\n16 - Relativamente às apostas efetuadas através da plataforma de acesso multicanal, as únicas provas de participação nos sorteios são os registos informáticos do sistema central do departamento de jogos e as respetivas cópias de segurança.\n\n17 - Os únicos títulos válidos para solicitação do pagamento dos prémios são exclusivamente os referidos nos números anteriores.\n\n18 - Se as apostas não puderem, por qualquer motivo, participar no sorteio do «Totosorteio», os apostadores apenas têm direito à devolução dos montantes que tiverem pago."
+  },
+  "107780705": {
+   "fragment_id": "107781173",
+   "type": 11,
+   "heading": "Artigo 9.º — Cartão de jogador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cartão de jogador\n\n1 - Para efetuar os pagamentos e receber os prémios do «Totosorteio», através do sistema de registo e validação informático, podem os jogadores utilizar um cartão de jogador emitido pelo departamento de jogos.\n\n2 - O cartão de jogador, identificado pelo respetivo número e código de segurança, está associado a uma conta bancária à ordem, possibilitando o pagamento antecipado de jogo, que consiste no seu carregamento até determinado montante para utilização na participação dos jogos sociais do Estado, sendo recarregável e permitindo creditar, até determinado montante, o valor dos prémios, dos mesmos jogos, a que tenha direito.\n\n3 - Os montantes referidos no número anterior, bem como as respetivas regras de utilização, são definidos pelo departamento de jogos nas condições gerais de utilização do cartão de jogador, as quais são divulgadas publicamente, através dos mediadores dos jogos sociais do Estado, dos órgãos de comunicação social de âmbito nacional, pela internet e por quaisquer outros meios julgados adequados, e constam da documentação necessariamente entregue ao jogador no momento da aquisição do cartão."
+  },
+  "107780706": {
+   "fragment_id": "107781174",
+   "type": 11,
+   "heading": "Artigo 10.º — Júri dos concursos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Júri dos concursos\n\n1 - Ao júri dos concursos, com a constituição fixada no artigo 30.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro, compete:\n\na) A receção e guarda em segurança da cópia dos registos dos códigos atribuídos ao «Totosorteio», nos termos do artigo 8.º, n.º 13, alínea b);\n\nb) Superintender os atos do sorteio, assegurando o integral cumprimento da lei e do presente regulamento;\n\nc) A comprovação do direito a prémio, nos termos do artigo 12.º, a qual tem lugar através da leitura da cópia de segurança a que se refere a alínea a).\n\n2 - Das operações previstas na alínea a) do número anterior é lavrado auto e das operações previstas nas alíneas b) e c) do número anterior é lavrada ata."
+  },
+  "107780707": {
+   "fragment_id": "107781275",
+   "type": 11,
+   "heading": "Artigo 11.º — Realização do sorteio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Realização do sorteio\n\n1 - Os sorteios do «Totosorteio» realizam-se uma vez por semana, normalmente à sexta-feira, através de aplicação informática, que extrai, de forma aleatória, um ou mais códigos, de acordo com o respetivo plano de prémios.\n\n2 - Em cada sorteio normal é extraído um único código.\n\n3 - Sem prejuízo do número anterior, em cada sorteio especial podem ser extraídos prémios adicionais em quantidade e montante a anunciar publicamente, pelo departamento de jogos, previamente à data do início da aceitação das apostas para os respetivos sorteios, nos termos do n.º 3 do artigo 2.º\n\n4 - Em caso de interrupção do sorteio por motivo de avaria ou de força maior, o mesmo será retomado logo que possível, mantendo-se válidos os códigos que já haviam sido validamente extraídos."
+  },
+  "107780708": {
+   "fragment_id": "107781276",
+   "type": 11,
+   "heading": "Artigo 12.º — Escrutínio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Escrutínio\n\n1 - O escrutínio é o conjunto de operações pelas quais se procede ao apuramento do direito aos prémios.\n\n2 - Concluídos os atos do sorteio, tem início o escrutínio de todas as apostas que validamente participaram no mesmo, para determinar o direito a prémio, por coincidência entre o(s) código(s) sorteados e o(s) código(s) que consta(m) das apostas válidas para cada sorteio."
+  },
+  "107780709": {
+   "fragment_id": "107781277",
+   "type": 11,
+   "heading": "Artigo 13.º — Divulgação das apostas premiadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Divulgação das apostas premiadas\n\n1 - O(s) código(s) premiado(s) em cada sorteio, bem como o valor do(s) correspondente(s) prémio(s) é(são) divulgado(s) publicamente pelo departamento de jogos.\n\n2 - Os prémios com os quais foram contempladas as apostas premiadas são divulgados pelo seu valor ilíquido."
+  },
+  "107780715": {
+   "fragment_id": "107781278",
+   "type": 11,
+   "heading": "Artigo 14.º — Pagamento de prémios",
+   "in_force_from": "2017-07-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 8.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28, produz efeitos a partir de 2017-08-04"
+   ],
+   "markdown": "###### Artigo 14.º — Pagamento de prémios\n\n1 - Os prémios de valor inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do departamento de jogos da Santa Casa da Misericórdia de Lisboa.\n\n2 - Os prémios de valor igual ou superior a (euro) 5.000 são pagos junto do departamento de jogos da Santa Casa da Misericórdia de Lisboa.\n\n3 - O pagamento dos prémios é efetuado obedecendo aos seguintes trâmites:\n\na) Por solicitação do jogador, o mediador dos jogos sociais do Estado procede à leitura, através do terminal, do recibo emitido informaticamente, o qual compara os códigos de registo e segurança com os constantes do sistema central, sendo apresentado no visor uma mensagem indicando o valor do prémio ou com a indicação para o jogador se deslocar ao departamento de jogos da Santa Casa da Misericórdia de Lisboa;\n\nb) No caso de o recibo apresentar um prémio igual ou inferior a (euro) 150, após confirmação por parte do jogador premiado de que pretende receber o seu prémio, é impressa pelo terminal na frente do recibo a palavra «pago», valor do prémio, data e hora, e o mediador ou o departamento de jogos procedem ao pagamento do prémio;\n\nc) No caso de o recibo apresentar um prémio de valor superior a (euro) 150 e inferior a (euro) 2.000, o pagamento é efetuado através de transferência para a conta bancária indicada pelo portador do título premiado;\n\nd) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos junto de qualquer mediador dos jogos sociais do Estado ou do Departamento de Jogos, mediante transferência para a conta bancária indicada pelo portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\ne) Os prémios de valor superior a (euro) 5.000 são pagos junto do Departamento de Jogos da Santa Casa da Misericórdia de Lisboa, mediante transferência para a conta bancária do portador do título premiado, após a recolha e verificação da respetiva identificação, nos termos da legislação que regula as medidas de natureza preventiva e repressiva de combate ao branqueamento de vantagens de proveniência ilícita e de financiamento do terrorismo;\n\nf) A efetivação do pagamento fica sempre registada no sistema central e dá origem à emissão de um talão de pagamento, que é entregue ao apostador;\n\ng) Quando o recibo emitido pelo terminal de jogo não é lido num terminal, pode o jogador enviar o mesmo para o departamento de jogos, que comprova a sua autenticidade e, caso se verifique que o recibo incorpora o direito a prémio, emite outro documento que permita o respetivo pagamento.\n\n4 - O pagamento dos prémios de apostas registadas no sistema de registo e validação informático inicia-se no dia imediatamente seguinte ao da realização do sorteio, para os prémios de montante inferior a (euro) 5.000.\n\n5 - Os prémios iguais ou superiores a (euro) 5.000 são pagos após o prazo das reclamações a que se refere o artigo seguinte.\n\n6 - O pagamento das apostas registadas através de outros canais da plataforma de acesso multicanal do departamento de jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, são pagos da seguinte forma e de acordo com as condições de utilização do cartão do jogador:\n\na) Os prémios de valor igual ou inferior a (euro) 150 são transferidos automaticamente para o cartão do jogador;\n\nb) Os prémios de valor superior a (euro) 150 e inferior a (euro) 2.000 são pagos por transferência para a conta bancária associada ao cartão de jogador;\n\nc) Os prémios de valor igual ou superior a (euro) 2.000 e inferior a (euro) 5.000 são pagos mediante transferência para a conta bancária associada ao cartão de jogador, após o preenchimento de um formulário eletrónico e recorrendo a um dos seguintes meios:\n\ni) Comprovação mediante original em suporte eletrónico, através da leitura do cartão de cidadão por via de dispositivo apropriado com ligação à Internet e aos serviços de autentificação da Agência para a Modernização Administrativa, I. P. (AMA, I. P.);\n\nii) Envio para o Departamento de Jogos de certidão ou cópia certificada de originais dos documentos de identificação em suporte físico;\n\niii) Identificação presencial junto do Departamento de Jogos;\n\nd) Os prémios de valor igual ou superior a (euro) 5.000 são pagos através de transferência para a conta bancária do titular do cartão de jogador, após o preenchimento de um formulário eletrónico e a identificação pessoal do titular do cartão de jogador junto do Departamento de Jogos.\n\n7 - Os prémios atribuídos a incapazes só podem ser pagos aos seus legais representantes.\n\n8 - O direito a prémios caduca decorridos 90 dias sobre a data do respetivo concurso.\n\n9 - O jogador é exclusivamente responsável pela correta e atempada realização dos atos necessários ao recebimento do prémio, responsabilizando-se o departamento de jogos pelo pagamento dos prémios antes do decurso do prazo de caducidade, sem prejuízo do disposto nos artigos 15.º e 16.º\n\n> Alterado pelo/a Artigo 8.º do/a [Portaria n.º 232/2017 - Diário da República n.º 144/2017, Série I de 2017-07-27](https://diariodarepublica.pt/dr/detalhe/portaria/232-2017-107761912), em vigor a partir de 2017-07-28, produz efeitos a partir de 2017-08-04"
+  },
+  "107780711": {
+   "fragment_id": "107781279",
+   "type": 11,
+   "heading": "Artigo 15.º — Reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Reclamações\n\n1 - Todo o possuidor de um recibo emitido pelo sistema de registo e validação informático do departamento de jogos que, tendo apresentado o mesmo para pagamento num mediador dos jogos sociais do Estado, seja informado de que não tem direito a prémio, de que o prémio já foi pago ou de que existe algum outro motivo que impeça o seu pagamento tem o direito de reclamar.\n\n2 - As reclamações podem ser apresentadas por escrito, em formulário próprio, a entregar no departamento de jogos.\n\n3 - As reclamações podem também ser apresentadas por carta, telegrama, e-mail, telecópia ou fax, desde que sejam indicados, pelo menos, os seguintes elementos:\n\na) Nome completo e morada do reclamante;\n\nb) Número e data do sorteio;\n\nc) Número do terminal de jogos que registou a aposta;\n\nd) Números de impressão e de registo do bilhete ou números de controlo;\n\ne) Motivo da reclamação.\n\n4 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal, as normas dos números anteriores são aplicadas com as devidas adaptações, de acordo com as respetivas regras de utilização.\n\n5 - O prazo para apresentação de reclamação conta-se a partir da data da realização do respetivo sorteio e é de 12 dias para os prémios de valor igual ou superior a (euro) 5.000 e de 60 dias para os outros, salvo no caso de acumulação com prémios de valor superior a (euro) 5.000, em que o prazo é de 12 dias.\n\n6 - O prazo é de caducidade, não sendo considerada qualquer reclamação que entre no departamento de jogos fora do prazo."
+  },
+  "107780712": {
+   "fragment_id": "107781280",
+   "type": 11,
+   "heading": "Artigo 16.º — Júri de reclamações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Júri de reclamações\n\n1 - As reclamações são julgadas por um júri constituído nos termos do artigo 35.º dos Estatutos da Santa Casa da Misericórdia de Lisboa, aprovados pelo artigo 1.º do Decreto-Lei n.º 235/2008, de 3 de dezembro.\n\n2 - Deste júri não pode fazer parte quem tenha tido intervenção na decisão reclamada.\n\n3 - As deliberações do júri de reclamações podem ser impugnadas judicialmente no tribunal da jurisdição administrativa com sede na área de Lisboa."
+  },
+  "107780713": {
+   "fragment_id": "107781281",
+   "type": 11,
+   "heading": "Artigo 17.º — Fraudes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Fraudes\n\nA prática de atos fraudulentos com vista ao recebimento de prémios, nomeadamente a falsificação dos recibos emitidos através do terminal no sistema de registo e validação informático, é objeto de participação para efeitos de procedimentos criminal, nos termos da lei."
+  },
+  "107780714": {
+   "fragment_id": "107781282",
+   "type": 11,
+   "heading": "Artigo 18.º — Casos omissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Casos omissos\n\nOs casos omissos e os duvidosos são resolvidos pelo administrador executivo do departamento de jogos, exceto em matéria de atribuição de prémios, em que é competente o júri de reclamações."
+  },
+  "924366515": {
+   "fragment_id": "924488407",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado o regulamento do «Totosorteio», que se publica em anexo ao presente diploma, dele fazendo parte integrante."
+  },
+  "924366516": {
+   "fragment_id": "924488408",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nO presente diploma produz efeitos a partir da data do início da admissão de apostas, pelo departamento de jogos da Santa Casa da Misericórdia de Lisboa, para o primeiro sorteio do «Totosorteio»."
+  },
+  "924366552": {
+   "fragment_id": "107781166",
+   "type": 11,
+   "heading": "Artigo 2.º — Modo de participação nos sorteios",
+   "in_force_from": "2025-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+   ],
+   "markdown": "###### Artigo 2.º — Modo de participação nos sorteios\n\n1 - O «Totosorteio» é organizado e explorado em simultâneo com o jogo EUROMILHÕES.\n\n2 - O «Totosorteio» tem um sorteio mensal, designado normal, realizado nos termos do artigo 11.º, que ocorre em dia, hora e local fixados pelo departamento de jogos, com a devida publicitação.\n\n3 - O «Totosorteio» também pode ter sorteios designados especiais, nos quais são atribuídos prémios adicionais, a anunciar publicamente, pelo departamento de jogos, previamente à data do início da aceitação das apostas para os respetivos sorteios.\n\n4 - Em cada sorteio participam todas as apostas do «Totosorteio» registadas em simultâneo com as do jogo principal entre o dia imediatamente seguinte àquele em que se realiza o sorteio mensal anterior e o dia em que se realiza o sorteio mensal seguinte.\n\n5 - A cada aposta simples realizada no jogo principal corresponde uma aposta no «Totosorteio», nos termos do presente regulamento.\n\n6 - Por cada aposta múltipla realizada no jogo principal são atribuídas tantas apostas para o «Totosorteio» quantas as apostas simples incluídas no sistema de apostas múltiplas do jogo principal.\n\n7 - Cada aposta no «Totosorteio» corresponde à atribuição de um código único gerado automaticamente pelo sistema informático central do departamento de jogos.\n\n8 - A data de cada sorteio é a do dia em que o mesmo se realiza, tendo lugar na última sexta-feira de cada mês.\n\n9 - (Revogado.)\n\n10 - (Revogado.)\n\n> Nota: [Artigo 5.º, Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402) As alterações introduzidas no presente artigo aplicam-se às apostas registadas para participarem nos sorteios que se realizem a partir do dia 29 de agosto de 2025.\n\n> Nota: [Artigo 3.º, Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402) Para efeitos do disposto no n.º 4 do presente artigo, participam no sorteio do «Totosorteio» do dia 29 de agosto de 2025 todas as apostas registadas em simultâneo com as apostas do jogo principal Euromilhões entre o dia 26 de julho de 2025 e o dia 29 de agosto de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+  },
+  "924366553": {
+   "fragment_id": "107781170",
+   "type": 11,
+   "heading": "Artigo 6.º — Distribuição das receitas para prémios",
+   "in_force_from": "2025-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+   ],
+   "markdown": "###### Artigo 6.º — Distribuição das receitas para prémios\n\n1 - Da receita de cada sorteio do «Totosorteio», constituída pelo montante total das apostas admitidas e das apostas anuladas sem direito a restituição, é destinada a prémios a importância correspondente a 50 %, conforme previsto nos n.os 1 e 2 do artigo 5.º do Decreto-Lei n.º 43/2016, de 16 de agosto.\n\n2 - Da importância destinada a prémios, calculada nos termos do número anterior, é pago, em cada sorteio normal, um prémio no valor unitário de (euro) 1.000.000,00.\n\n3 - A quantidade de prémios e/ou o respetivo valor unitário podem ser diferentes do previsto no número anterior, nos sorteios especiais, de acordo com o respetivo plano de prémios, publicitado pelo departamento de jogos, previamente à data de aceitação de apostas para o correspondente sorteio.\n\n4 - Tem direito ao(s) prémio(s) referido(s) nos números 2 e 3, a(s) aposta(s) que for(em) sorteada(s), nos termos do artigo 11.º\n\n> Nota: [Artigo 5.º, Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402) As alterações introduzidas no presente artigo aplicam-se às apostas registadas para participarem nos sorteios que se realizem a partir do dia 29 de agosto de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+  },
+  "924366554": {
+   "fragment_id": "107781172",
+   "type": 11,
+   "heading": "Artigo 8.º — Sistema de registo e validação informático",
+   "in_force_from": "2025-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+   ],
+   "markdown": "###### Artigo 8.º — Sistema de registo e validação informático\n\n1 - O registo de apostas no sistema de registo e validação informático processa-se:\n\na) Mediante apresentação dos bilhetes emitidos pelo departamento de jogos nos quais se tenham inscrito os prognósticos para o jogo principal;\n\nb) Mediante solicitação, ao mediador dos jogos sociais do Estado, da geração de prognósticos aleatórios para o jogo principal, na modalidade denominada «aposta automática»;\n\nc) Mediante solicitação ao mediador dos jogos sociais do Estado para digitar manualmente as apostas no jogo principal;\n\nd) Mediante a utilização do cartão de jogador nos outros canais da plataforma de acesso multicanal do departamento de jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, nos termos do Decreto-Lei n.º 282/2003, de 8 de novembro.\n\n2 - As apostas só participam no respetivo sorteio do jogo «Totosorteio» após o registo e validação no sistema central dos dados apresentados nos termos do número anterior.\n\n3 - Após o registo e validação das apostas no jogo principal, no sistema informático central do departamento de jogos, o terminal de jogo emite um recibo autónomo para o «Totosorteio», no qual constam os seguintes dados:\n\na) Nome do jogo;\n\nb) Número e data do sorteio;\n\nc) Códigos correspondentes a cada aposta;\n\nd) Quantidade de apostas;\n\ne) Preço das apostas;\n\nf) Números de controlo;\n\ng) Dia e hora em que é efetuado o registo e validação no sistema central;\n\nh) Número de série específico;\n\ni) Nome e número do concurso do jogo principal.\n\n4 - Para todos os efeitos legais, o recibo referido no n.º 3 é identificado pelos números de controlo que nele figuram.\n\n5 - O jogador efetua o pagamento da importância correspondente às apostas registadas e validadas informaticamente para participarem no jogo principal e no «Totosorteio» antes de o mediador dos jogos sociais do Estado lhe entregar os respetivos recibos emitidos pelo terminal, não podendo o mediador entregar os recibos ao jogador antes de receber o pagamento correspondente.\n\n6 - Quando, por qualquer motivo, o jogador não pague imediatamente as apostas efetuadas, as mesmas são anuladas pelo mediador, através da reintrodução dos recibos no terminal de jogos, que imprimirá na frente a palavra «anulado» ou «cancelado», o valor das apostas, a data e a hora, sendo os mesmos enviados ao departamento de jogos, pelo mediador dos jogos sociais do Estado, não podendo, em caso algum, ser entregues ao jogador.\n\n7 - A anulação das apostas no jogo principal implica a anulação dos códigos atribuídos para participar no «Totosorteio» e das apostas realizadas no jogo principal, uma vez que a participação no «Totosorteio» está sempre dependente da participação no jogo principal.\n\n8 - A anulação das apostas do «Totosorteio» só é possível através da anulação das apostas do jogo principal.\n\n9 - As apostas no jogo principal, e consequentemente no «Totosorteio», podem ser anuladas no terminal de jogos onde foram registadas nos vinte minutos posteriores ao registo ou até à hora de encerramento da aceitação de apostas para o mesmo, conforme o que ocorrer primeiro.\n\n10 - O sistema central anula igualmente as apostas registadas e validadas através do sistema de registo e validação informático, quando se verificar que as mesmas foram efetuadas com violação do disposto no n.º 3 do artigo 3.º, tendo o jogador direito à devolução do preço das apostas pagas e não sendo, em caso algum, os recibos anulados entregues ao apostador.\n\n11 - O recibo emitido pelo terminal de jogo é o único título válido para solicitar o pagamento do(s) prémio(s) e constitui a única prova de participação no sorteio para o qual apostas foram realizadas através do referido terminal.\n\n12 - Para as apostas realizadas através de outros canais da plataforma de acesso multicanal do departamento de jogos, nomeadamente o sítio da Internet www.jogossantacasa.pt, o cartão de jogador com o qual foi efetuada a aposta é o único documento válido para solicitar o pagamento dos prémios e constitui a única prova de participação nos sorteios.\n\n13 - A participação nos sorteios mediante registo e validação informáticos só é válida quando, reunidos os demais pressupostos legais, ocorram cumulativamente os seguintes factos:\n\na) As apostas no jogo principal e as apostas no «Totosorteio» tenham sido registadas validamente e não tenham sido anuladas nos suportes informáticos do sistema central, de acordo com os requisitos e procedimentos estabelecidos no presente regulamento;\n\nb) A cópia de segurança dos suportes referidos na alínea anterior se encontre em poder do júri dos concursos e arquivada, sob sua custódia, antes do início do respetivo sorteio do «Totosorteio».\n\n14 - Para todos os efeitos, entendem-se como cópia de segurança dos registos existentes no sistema central os suportes informáticos obtidos a partir daquele, em que se encontre registada a informação respeitante à identificação de todas as apostas participantes em cada sorteio.\n\n15 - O departamento de jogos poderá autorizar outros meios e suportes para o registo de apostas, nomeadamente telefone fixo e móvel, internet, televisão ou outro.\n\n16 - Relativamente às apostas efetuadas através da plataforma de acesso multicanal, as únicas provas de participação nos sorteios são os registos informáticos do sistema central do departamento de jogos e as respetivas cópias de segurança.\n\n17 - Os únicos títulos válidos para solicitação do pagamento dos prémios são exclusivamente os referidos nos números anteriores.\n\n18 - Se as apostas não puderem, por qualquer motivo, participar no sorteio do «Totosorteio», os apostadores apenas têm direito à devolução dos montantes que tiverem pago.\n\n> Nota: [Artigo 5.º, Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402) As alterações introduzidas no presente artigo aplicam-se às apostas registadas para participarem nos sorteios que se realizem a partir do dia 29 de agosto de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+  },
+  "924366555": {
+   "fragment_id": "107781275",
+   "type": 11,
+   "heading": "Artigo 11.º — Realização do sorteio",
+   "in_force_from": "2025-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+   ],
+   "markdown": "###### Artigo 11.º — Realização do sorteio\n\n1 - Os sorteios do «Totosorteio» realizam-se uma vez por mês, normalmente na última sexta-feira de cada mês, através de aplicação informática, que extrai, de forma aleatória, um ou mais códigos, de acordo com o respetivo plano de prémios.\n\n2 - Em cada sorteio normal é extraído um único código.\n\n3 - Sem prejuízo do número anterior, em cada sorteio especial podem ser extraídos prémios adicionais em quantidade e montante a anunciar publicamente, pelo departamento de jogos, previamente à data do início da aceitação das apostas para os respetivos sorteios, nos termos do n.º 3 do artigo 2.º\n\n4 - Em caso de interrupção do sorteio por motivo de avaria ou de força maior, o mesmo será retomado logo que possível, mantendo-se válido(s) o(s) código(s) que já havia(m) sido validamente extraído(s).\n\n> Nota: [Artigo 5.º, Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402) As alterações introduzidas no presente artigo aplicam-se às apostas registadas para participarem nos sorteios que se realizem a partir do dia 29 de agosto de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 264-B/2025/1 - Diário da República n.º 131/2025, Suplemento, Série I de 2025-07-10](https://diariodarepublica.pt/dr/detalhe/portaria/264-b-2025-924488402), em vigor a partir de 2025-07-26"
+  }
+ }
+}

@@ -1,0 +1,192 @@
+---
+schema_version: '1.0'
+id: pt:dre:884941426:por
+title: Resolução do Conselho de Ministros n.º 105/2024
+short_title: null
+summary: Cria a Estrutura de Missão para a Comunicação Social.
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 105/2024
+official_date: null
+publication_date: '2024-08-21'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 161/2024, Série I de 2024-08-21
+  number: '161'
+  series: I
+  supplement: null
+  pages: 2 - 4
+  pdf_url: https://files.diariodarepublica.pt/1s/2024/08/16100/0000200004.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre/pt/html
+  oj: null
+  dre: '884941426'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/105-2024-884941426
+  internal: pt:dre:884941426:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2024-884941426
+  metadata_url: https://data.dre.pt/eli/resolconsmin/105/2024/08/21/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/105-2024-884941426
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2025-03-26T00:00:00Z'
+integrity:
+  source_sha256: ed0b388d9eb3eb26a942503fa9854c679c39a86fd53aff27e96e413f22486b8c
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2024/DRE-2024-105-884941426.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Comunicação Social
+- Criação de Serviços
+- Secretaria Geral
+- Mandato
+- Presidência do Conselho de Ministros
+- Transferência de Competências
+- Plano Nacional para a Literacia Mediática
+- Campus XXI
+- '#PortugalMediaLab'
+relationships:
+- type: amended_by
+  target: pt:dre:912444913:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/24/2015/02/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/24/2015/02/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/43-b/2024/07/02/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/35/2014/06/20/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/142/2023/11/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/142/2023/11/17/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 105/2024
+
+O setor da comunicação social e do audiovisual - setor dos media - enfrenta enormes desafios decorrentes da alucinante evolução tecnológica a que temos assistido nas últimas décadas. A imposição do digital trouxe consigo uma inevitável mudança nos hábitos de consumo de informação e, consequentemente, novos obstáculos a modelos de negócio tradicionais associados aos órgãos de comunicação social.
+
+Reconhecendo a importância deste setor para uma sociedade livre e democrática e ciente da complexa realidade atual, o Programa do Governo estabelece a intenção de criar um plano de ação para os media, envolvendo o setor dos media tradicionais e digitais, a academia e a sociedade civil. Aí se prevê a adoção de medidas fiscais, alterações ao quadro regulamentar, o reforço da eficácia de regulação, a salvaguarda do serviço público de media, nomeadamente do serviço público de informação, medidas de encorajamento aos media regionais e locais, mecanismos de combate à desinformação e o reforço da literacia mediática.
+
+Tendo em conta estas premissas, o Governo assumiu a opção política de contribuir para ajudar a inverter uma perigosa tendência de desvalorização social e cívica da função do jornalista e da informação rigorosa, livre, plural e credível. O crescente fenómeno de difusão massiva de notícias falsas, designadamente através de plataformas digitais, de desinformação e de manipulação dos factos, cada vez mais simples e acessível, por exemplo, através de ferramentas de inteligência artificial de fácil acesso, exige uma resposta mais eficaz tendo em vista a defesa da democracia e de liberdade.
+
+Neste contexto, torna-se necessário e urgente que o Governo disponha de uma estrutura que, recorrendo às capacidades de recursos humanos e outras, já existentes no âmbito da atual Secretaria-Geral da Presidência do Conselho de Ministros, possa ser um suporte para a execução das políticas públicas para o setor da comunicação social, designadamente no período em que o Governo executará o seu Plano de Ação para os Media.
+
+Finalmente, um dos objetivos cometidos à estrutura de missão agora criada é a elaboração de um novo plano nacional para a literacia mediática, a aprovar pelo Conselho de Ministros, revendo os planos elaborados na sequência da [Resolução do Conselho de Ministros n.º 142/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2023-224427490), de 17 de novembro, que é revogada.
+
+Deste modo, promove-se um envolvimento mais abrangente das diversas áreas governativas com o objetivo de contribuir para reforço da participação ativa e informada dos cidadãos no complexo ambiente mediático das sociedades atuais.
+
+Assim:
+
+Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar a Estrutura de Missão para a Comunicação Social, doravante designada por #PortugalMediaLab, com a missão de assegurar a coordenação da execução e a monitorização das políticas públicas no domínio da comunicação social, designadamente apoiando a conceção e a concretização do Plano de Ação para os Media, a aprovar pelo Conselho de Ministros.
+
+2 - Determinar que a #PortugalMediaLab funciona na dependência do Ministro dos Assuntos Parlamentares, com faculdade de delegação no Secretário de Estado Adjunto e dos Assuntos Parlamentares.
+
+3 - Estabelecer como objetivos da #PortugalMediaLab:
+
+a) O apoio técnico no domínio das políticas públicas de comunicação social;
+
+b) A coordenação da atuação das entidades públicas relevantes para a prossecução das políticas públicas de comunicação social, em articulação com as entidades privadas com intervenção nesta área;
+
+c) A representação externa, ao nível técnico, no domínio das políticas públicas de comunicação social, designadamente em comités, grupos de trabalho, grupos de peritos e organizações internacionais de que Portugal é parte, em articulação com os serviços competentes do Ministério dos Negócios Estrangeiros;
+
+d) A coordenação, a execução e a monitorização das medidas do Plano de Ação para os Media;
+
+e) A elaboração do Plano Nacional para a Literacia Mediática, a aprovar pelo Conselho de Ministros.
+
+4 - Estipular que a #PortugalMediaLab pode estabelecer parcerias com entidades públicas e privadas, desde que enquadradas na respetiva missão e objetivos.
+
+5 - Estabelecer que a #PortugalMediaLab, no âmbito da concretização legislativa da Reforma da Administração Pública, prevista no [Decreto-Lei n.º 43-B/2024](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43-b-2024-870757938), de 2 de julho, sucederá nas atribuições, competências, posições jurídicas e recursos, de que é titular a Secretaria-Geral da Presidência do Conselho de Ministros, no domínio das políticas públicas de comunicação social, nomeadamente:
+
+a) As previstas no n.º 2 do artigo 12.º do [Decreto-Lei n.º 24/2015](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24-2015-66443112), de 6 de fevereiro;
+
+b) As relativas ao Centro Protocolar de Formação Profissional para Jornalistas, ao Observatório da Comunicação Social, bem como ao apoio à Comissão da Carteira Profissional de Jornalista;
+
+c) As referentes ao Conselho Consultivo da Entidade Reguladora para a Comunicação Social, ao Conselho Consultivo da Comissão Nacional da UNESCO, bem como outros conselhos, comissões e afins;
+
+d) As previstas na [Resolução do Conselho de Ministros n.º 142/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2023-224427490), de 17 de novembro.
+
+6 - Estabelecer que a #PortugalMediaLab é dirigida por um diretor com estatuto, para todos os efeitos, de dirigente superior de 1.º grau, designado por despacho do Ministro dos Assuntos Parlamentares.
+
+7 - Prever que o diretor exerce as suas funções em comissão de serviço, nos termos do n.º 5 do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, na sua redação atual, sendo equiparado, para efeitos remuneratórios, a dirigente superior de 1.º grau.
+
+8 - Estabelecer que, para a concretização do Plano de Ação para os Media e do Plano Nacional de Literacia Mediática, o diretor exerce as competências que lhe forem delegadas ou subdelegadas, designadamente para efeitos de autorização de despesas.
+
+9 - Determinar que, sem prejuízo da afetação à #PortugalMediaLab dos trabalhadores da Secretaria-Geral da Presidência do Conselho de Ministros, atualmente afetos à prossecução de atribuições e atividades no domínio das políticas públicas de comunicação social, através do diploma próprio referido no n.º 5, para a operacionalização da sua missão, a #PortugalMediaLab pode recrutar até ao máximo de cinco trabalhadores, cujo exercício de funções pode efetuar-se ao abrigo dos seguintes regimes, nos termos da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à [Lei n.º 35/2014](https://diariodarepublica.pt/dr/detalhe/lei/35-2014-25676932), de 20 de junho, na sua redação atual, e demais legislação aplicável:
+
+a) Mobilidade;
+
+b) Contrato de trabalho a termo resolutivo certo ou incerto;
+
+c) Cedência de interesse público.
+
+10 - Estabelecer que a remuneração dos técnicos referidos na alínea b) do número anterior é fixada entre os níveis 30 e 55 da tabela remuneratória única dos trabalhadores que exercem funções públicas, consoante a respetiva experiência profissional e conhecimentos técnicos.
+
+11 - Prever que o exercício de funções no âmbito da #PortugalMediaLab não conduz à constituição de vínculos de emprego público por tempo indeterminado, nem implica o preenchimento de postos de trabalho dos mapas de pessoal de qualquer serviço ou organismo da Administração Pública, e caduca automática e necessariamente na data de extinção da #PortugalMediaLab.
+
+12 - Determinar que os elementos da #PortugalMediaLab têm direito a ajudas de custo e de deslocação, nos termos previstos nas disposições legais em vigor para os trabalhadores em funções públicas, sempre que se desloquem em missão de serviço público.
+
+13 - Estabelecer que a #PortugalMediaLab funciona no "Campus XXI" e que os encargos orçamentais e o apoio logístico e administrativo decorrentes da sua criação e funcionamento são suportados pela Secretaria-Geral da Presidência do Conselho de Ministros, que, para o efeito, é dotada de recursos financeiros provenientes de verbas do Orçamento do Estado, de transferências de receitas próprias de outras entidades e de fundos europeus, através de dotação própria atribuída à #PortugalMediaLab.
+
+14 - Determinar que o diretor apresenta, anualmente, um relatório da atividade desenvolvida e dos resultados alcançados e um relatório no fim do seu mandato.
+
+15 - Prever que o mandato da #PortugalMediaLab termina a 30 de abril de 2029.
+
+16 - Determinar a revogação da [Resolução do Conselho de Ministros n.º 142/2023](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/142-2023-224427490), de 17 de novembro.
+
+17 - Estabelecer que a presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+Presidência do Conselho de Ministros, 8 de agosto de 2024. - O Primeiro-Ministro, Luís Montenegro.

@@ -1,0 +1,1055 @@
+---
+schema_version: '1.0'
+id: pt:dre:447916:por
+title: Decreto-Lei n.º 267/2002
+short_title: null
+summary: Estabelece os procedimentos e define as competências para efeitos de licenciamento e fiscalização de instalações
+  de armazenamento de produtos de petróleo e instalações de postos de abastecimento de combustíveis
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Cidades, Ordenamento do Território e Ambiente
+proposing_entity: null
+official_number: 267/2002
+official_date: null
+publication_date: '2002-11-26'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 273/2002, Série I-A de 2002-11-26
+  number: '273'
+  series: I
+  supplement: null
+  pages: 7400 - 7406
+  pdf_url: https://files.diariodarepublica.pt/1s/2002/11/273a00/74007406.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-10-03'
+version_history:
+  file: decreto-lei-267-2002.versoes.json
+  count: 7
+  source_lastmod: '2026-10-08'
+  versions:
+  - date: '2002-11-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2008-01-14'
+    amending: pt:dre:628828:por
+    amending_title: Decreto-Lei n.º 389/2007
+    changes:
+    - Adita Anexo III
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 26.º
+    - Altera Artigo 30.º
+    - Altera Artigo 34.º
+    - Altera Anexo II
+  - date: '2008-03-01'
+    amending: pt:dre:247714:por
+    amending_title: Decreto-Lei n.º 31/2008
+    changes:
+    - Altera Artigo 14.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 26.º
+  - date: '2008-11-05'
+    amending: pt:dre:452935:por
+    amending_title: Decreto-Lei n.º 195/2008
+    changes:
+    - Adita Artigo 17.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 23.º
+  - date: '2012-11-08'
+    amending: pt:dre:175787:por
+    amending_title: Decreto-Lei n.º 217/2012
+    changes:
+    - Adita Artigo 16.º-A
+    - Altera Artigo 5.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 18.º
+    - Altera Artigo 20.º
+    - Altera Artigo 30.º
+    - Altera Anexo III
+  - date: '2015-03-18'
+    amending: pt:dre:66528824:por
+    amending_title: Lei n.º 15/2015
+    changes:
+    - Altera Artigo 13.º
+    - Altera Artigo 18.º
+  - date: '2026-10-03'
+    amending: pt:dre:1176760741:por
+    amending_title: Decreto-Lei n.º 198/2026
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 22.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 30.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Revoga Artigo 34.º
+    - Revoga Anexo III
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/267/2002/11/26/p/dre/pt/html
+  oj: null
+  dre: '447916'
+  dre_path: /dr/detalhe/decreto-lei/267-2002-447916
+  internal: pt:dre:447916:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/267-2002-447916
+  metadata_url: https://data.dre.pt/eli/dec-lei/267/2002/11/26/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-173155556
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2002-173155556
+  retrieved_at: '2026-10-22T14:01:09Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-10-08T00:00:00Z'
+integrity:
+  source_sha256: 7f2f1a0044e28af792552e9afe649668614b7886ccd2ec7753536ea380e60208
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T14:01:09Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-267-2002.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:628828:por
+  label: Adita Anexo III; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera
+    Artigo 6.º; Altera Artigo 7.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera
+    Artigo 26.º; Altera Artigo 30.º; Altera Artigo 34.º; Altera Anexo II
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828
+  date: '2007-11-30'
+- type: amended_by
+  target: pt:dre:247714:por
+  label: Altera Artigo 14.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo 26.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714
+  date: '2008-02-25'
+- type: amended_by
+  target: pt:dre:452935:por
+  label: Adita Artigo 17.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º; Altera Artigo 14.º;
+    Altera Artigo 15.º; Altera Artigo 23.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935
+  date: '2008-10-06'
+- type: amended_by
+  target: pt:dre:175787:por
+  label: Adita Artigo 16.º-A; Altera Artigo 5.º; Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo
+    13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 18.º; Altera Artigo 20.º; Altera Artigo 30.º; Altera Anexo
+    III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787
+  date: '2012-10-09'
+- type: amended_by
+  target: pt:dre:66528824:por
+  label: Altera Artigo 13.º; Altera Artigo 18.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824
+  date: '2015-02-16'
+- type: amended_by
+  target: pt:dre:1176760741:por
+  label: Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5; Altera Artigo 6.º; Altera Artigo 7.º; Altera
+    Artigo 8.º; Altera Artigo 11.º; Altera Artigo 12; Altera Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo
+    16.º; Altera Artigo 19.º; Altera Artigo 22.º; Altera Artigo 25.º; Altera Artigo 26.º; Altera Artigo 27.º; Altera Artigo
+    28.º; Altera Artigo 30.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741
+  date: '2026-10-02'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/164/2001/05/23/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/164/2001/05/23/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/244/1995/09/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/69/2000/05/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/69/2000/05/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/159/1999/09/14/p/dre
+article_structure:
+  article_count: 39
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T14:01:09Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 267/2002
+
+Decreto-Lei n.º 267/2002
+
+de 26 de Novembro
+
+A Lei n.º 159/99, de 14 de Setembro, prevê a transferência para os municípios de competências, que têm vindo a ser exercidas pelo Ministério da Economia, em matéria de licenciamento e fiscalização de instalações de armazenamento e de instalações de abastecimento de combustíveis líquidos e gasosos derivados do petróleo, normalmente designadas por postos de abastecimento de combustíveis.
+
+A aludida Lei n.º 159/99, além das competências que fixa relativamente aos postos de abastecimento não localizados na rede viária regional e nacional, confere competências municipais ao licenciamento de instalações de armazenamento de combustíveis, independentemente da localização. No entanto, no que concerne a determinadas instalações de armazenamento de combustíveis, caracterizadas pela capacidade, natureza e risco dos produtos armazenados, pelas operações nelas efectuadas, ou ainda pelo interesse estratégico que assumam para o País, o respectivo licenciamento mantém-se na esfera de competências da administração central, no âmbito dos organismos tutelados pelo Ministério da Economia.
+
+O presente diploma permite proceder à reformulação dos procedimentos atinentes aos licenciamentos em questão, dado que o seu enquadramento legislativo radica, em larga medida, na já distante Lei n.º 1947, de 12 de Fevereiro de 1937, regulamentada pelo Decreto n.º 29034, de 1 de Outubro de 1938, exigindo-se, naturalmente, que as regras aplicáveis sejam adequadas ao actual estado de desenvolvimento técnico e económico do sector.
+
+No intuito de salvaguardar a eficiência e avançar para a desejável desburocratização do procedimento administrativo, é assegurada flexibilidade aos requisitos e mecanismos de licenciamento, em função das características técnicas das instalações, remetendo para portaria o regulamento das respectivas matérias. Prevê-se, sempre que necessário, a consulta prévia a entidades relevantes para a conveniente instrução do processo, procurando acautelar-se a segurança de pessoas e bens e o respeito por interesses legalmente protegidos.
+
+A protecção de pessoas e bens que os regulamentos técnicos visam salvaguardar, passa a ter expressão, também, ao nível de responsabilidade civil das entidades que projectam, constroem ou exploram as instalações contempladas neste diploma, as quais deverão ser titulares de apólices de seguro que cubram responsabilidades inerentes às respectivas actividades em montante a definir pela entidade licenciadora.
+
+Os procedimentos previstos no processo de licenciamento são complementados com a realização periódica de inspecções que devem verificar a conformidade das instalações com o respectivo projecto anterior em que foi aprovado.
+
+Finalmente, o presente diploma promove a criação, no âmbito da Direcção-Geral da Energia, de uma base de dados, cujos elementos podem ser disponibilizados à entidade responsável pelo planeamento de emergência do sector energético, para implementação de instrumentos de apoio à gestão de crises de abastecimento de produtos petrolíferos.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Ao abrigo da alínea c) do n.º 1 do artigo 198.º da Constituição, e no desenvolvimento do regime estabelecido na alínea b) do n.º 2 do artigo 17.º da Lei n.º 159/99, de 14 de Setembro, o Governo decreta o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma estabelece os procedimentos e define as competências para efeitos de licenciamento e fiscalização de:
+
+a) Instalações de armazenamento de produtos do petróleo;
+
+b) Instalações de abastecimento de combustíveis líquidos e gasosos derivados do petróleo, adiante designadas por postos de abastecimento de combustíveis.
+
+c) Redes e ramais de distribuição ligadas a reservatórios de gases de petróleo liquefeito sujeitos ao regime estabelecido no Decreto-Lei n.º 125/97, de 23 de Maio.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 2.º — Âmbito
+
+1 - São abrangidas pelo presente diploma as instalações referidas no artigo anterior afectas aos seguintes produtos derivados do petróleo:
+
+a) Gases de petróleo liquefeitos e outros gases derivados do petróleo;
+
+b) Combustíveis líquidos;
+
+c) Combustíveis sólidos (coque de petróleo);
+
+d) Outros produtos derivados do petróleo.
+
+2 - São ainda abrangidas pelo presente decreto-lei as instalações de armazenagem de produtos de origem biológica ou de síntese que sejam substituintes dos produtos referidos no número anterior.
+
+3 - Excluem-se do disposto no presente decreto-lei as seguintes instalações:
+
+a) Armazenagem integrada em instalações para tratamento industrial de petróleo bruto, seus derivados e resíduos;
+
+b) Armazenagem de gás natural;
+
+c) Armazenagem de gases de origem renovável e de baixo teor de carbono, conforme definidos no Decreto-Lei n.º 62/2020, de 28 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 3.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) «Acidente»: qualquer acontecimento imprevisto ocorrido na instalação de combustíveis, que resulte em risco iminente ou efetivo de lesão corporal, morte, danos a bens e ao meio ambiente, incluindo derrames de combustível numa quantidade igual ou superior a 50 l (líquidos) ou 50 kg (gases);
+
+b) «Combustíveis líquidos»: gasolinas de aviação e gasolinas auto, petróleos de iluminação e carburantes, jet-fuel, gasóleos e fuelóleos;
+
+c) «Combustíveis sólidos derivados do petróleo»: o coque de petróleo e produtos similares;
+
+d) «Entidade exploradora»: a entidade que, sendo ou não proprietária das instalações de armazenagem e das redes e ramais de distribuição de gás, procede à exploração técnica das mesmas, como definido no Decreto-Lei n.º 125/97, de 23 de maio, habilitada para o exercício da atividade nos termos da Lei n.º 15/2015, de 16 de fevereiro;
+
+e) «Entidade licenciadora e fiscalizadora»: a entidade da administração central ou local competente para a coordenação do procedimento de licenciamento ou de controlo prévio e para a fiscalização do cumprimento do presente decreto-lei e dos regulamentos relativos às instalações por ele abrangidas;
+
+f) «Gases de petróleo liquefeitos (GPL)»: o butano e propano comerciais, classificados como misturas A, AO e C, de acordo com a regulamentação do transporte terrestre, rodoviário e ferroviário de mercadorias perigosas, aprovada pelo Decreto-Lei n.º 41-A/2010, de 29 de abril;
+
+g) «Instalações de abastecimento de combustíveis»: (expressão equivalente a «postos de abastecimento de combustíveis») a instalação destinada ao abastecimento de combustíveis, para consumo próprio, público ou cooperativo de veículos rodoviários, correspondendo-lhe a área do local onde se inserem as unidades de abastecimento, os respetivos reservatórios e as zonas perigosas, bem como os edifícios, caso existam, e as vias necessárias à circulação dos veículos rodoviários a abastecer; por extensão, incluem-se nesta definição as instalações semelhantes destinadas ao abastecimento de embarcações ou aeronaves;
+
+h) «Instalações de armazenamento de combustíveis»: os locais, incluindo o conjunto dos reservatórios e respetivos equipamentos auxiliares, destinados a conter produtos derivados do petróleo;
+
+i) «Licença de exploração»: o título concedido ao requerente no termo do procedimento de licenciamento que habilita o funcionamento dos postos de abastecimento, ou das instalações de armazenamento contempladas neste decreto-lei e não abrangidas pelo Decreto-Lei n.º 125/97, de 23 de maio, assumindo as formas de alvará de autorização de utilização ou licença de exploração, consoante sejam concedidos pela câmara municipal ou pela administração central, respetivamente;
+
+j) «Licenciamento»: o conjunto de procedimentos e diligências necessário à tomada de decisão sobre um pedido de instalação para armazenamento ou para abastecimento de combustíveis, centralizado pela entidade licenciadora, e com a participação do requerente e de todas as entidades que, em virtude de competências próprias ou da natureza do projeto, devam ser consultadas;
+
+k) «Manipulação em instalações de armazenamento»: qualquer operação a que sejam sujeitos os produtos armazenados, com exceção do abastecimento da própria instalação e do seu fornecimento a equipamentos consumidores;
+
+l) «Outros derivados do petróleo»: os óleos e massas lubrificantes, parafinas, asfaltos, solventes aromáticos e alifáticos e os resíduos de alta viscosidade;
+
+m) «Outros gases derivados do petróleo»: o butileno, butadieno, propileno e etileno;
+
+n) «Parque de armazenamento de garrafas de GPL»: a área destinada ao armazenamento de garrafas de GPL com a finalidade de constituir reservas para fins comerciais, não estando incluídas nesta definição as áreas integradas em instalações onde se efetue o enchimento dessas garrafas com gases de petróleo liquefeitos;
+
+o) «Posto de garrafas»: o conjunto de garrafas interligadas entre si e equipamentos acessórios destinados a alimentar uma rede, um ramal de distribuição ou uma instalação de gás, como definido na Portaria n.º 460/2001, de 8 de maio;
+
+p) «Posto de reservatórios»: o reservatório ou conjunto de reservatórios de GPL, equipamentos e acessórios, destinados a alimentar uma rede ou um ramal de distribuição, como definido na Portaria n.º 460/2001, de 8 de maio;
+
+q) «Produtos do petróleo»: os produtos gasosos, liquefeitos, líquidos ou sólidos derivados do petróleo bruto ou de outros hidrocarbonetos de origem fóssil;
+
+r) «Produtos substituintes de produtos do petróleo»: os biocombustíveis, nomeadamente biodiesel e bioetanol, e outros produtos usados como combustível ou carburante, diretamente ou em mistura com produtos derivados do petróleo;
+
+s) «Rede de distribuição de GPL»: o sistema constituído por tubagens, válvulas e acessórios, alimentado por garrafas ou reservatórios de GPL, para alimentação dos ramais de abastecimento de instalações com gás da terceira família, como definido no Decreto-Lei n.º 125/97, de 23 de maio;
+
+t) «Requerente»: o proprietário da instalação, ou quem legitimamente o represente nas relações com os organismos competentes, no âmbito do presente decreto-lei;
+
+u) «Titular da licença de exploração»: a entidade a quem é concedida a licença de exploração, a qual não coincide necessariamente com o titular da licença de comercialização prevista no Decreto-Lei n.º 31/2006, de 15 de fevereiro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14.
+
+### Capítulo II — Licenciamento
+
+###### Artigo 4.º — Requisitos para o licenciamento
+
+1 - A construção, exploração, aumento de capacidade, renovação de licença e outras alterações que, de qualquer forma, afetem as condições de segurança da instalação ficam sujeitas a licenciamento nos termos do presente decreto-lei.
+
+2 - Sem prejuízo do disposto no artigo 5.º, os elementos a fornecer pelo requerente e os requisitos e condições técnicas a observar para a instalação, construção, reconstrução, ampliação, alteração, conservação e exploração da instalação são definidos na Portaria n.º 1188/2003, de 10 de outubro.
+
+3 - A estrutura dos procedimentos de licenciamento é a adequada à complexidade e perigosidade das instalações envolvidas.
+
+4 - As instalações objeto de um procedimento de licenciamento simplificado ou não sujeitas a licenciamento são as constantes do anexo ii do presente decreto-lei e do qual faz parte integrante.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 5 — Licenciamento municipal
+
+1 - É da competência das câmaras municipais:
+
+a) O licenciamento de instalações de armazenamento de produtos de petróleo;
+
+b) O licenciamento de postos de abastecimento de combustíveis não localizados nas redes viárias regional e nacional.
+
+c) A autorização para a execução e entrada em funcionamento das redes de distribuição, objecto do Decreto-Lei n.º 125/97, de 23 de Maio, quando associadas a reservatórios de GPL com capacidade global inferior a 50 m3.
+
+2 - Os procedimentos administrativos de controlo prévio de instalação, construção, reconstrução, ampliação, alteração, conservação e exploração das instalações de armazenamento e dos postos de abastecimento de combustíveis seguem o procedimento aplicável à respetiva operação urbanística nos termos dos n.os 1 a 4 do artigo 4.º do regime jurídico da urbanização e da edificação.
+
+3 - Além da conformidade da operação urbanística com instrumentos de gestão territorial e outras normas legais e regulamentares vigentes, no âmbito do procedimento de controlo prévio é verificada a conformidade das instalações a que se refere o n.º 1 com os requisitos definidos na portaria referida no n.º 2 do artigo anterior e a existência dos seguros de responsabilidade civil referidos nos artigos 13.º e 14.º, sem prejuízo da aplicação das normas não procedimentais previstas no presente decreto-lei e da possibilidade de colaboração das entidades referidas no n.º 4 do artigo 7.º
+
+4 - Constitui título bastante de exploração das instalações a que se refere o n.º 1 o título de utilização aplicável nos termos do regime jurídico da urbanização e da edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de dezembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 6.º — Licenciamento pela administração central
+
+1 - Excetua-se do disposto na alínea a) do n.º 1 do artigo anterior o licenciamento das instalações de armazenamento de combustíveis identificadas no anexo i ao presente decreto-lei e do qual faz parte integrante, sendo competente a Direção-Geral de Energia e Geologia (DGEG) para o respetivo licenciamento.
+
+2 - [Revogado.]
+
+3 - [Revogado.]
+
+4 - O procedimento administrativo previsto no n.º 1 segue a tramitação prevista nos artigos 7.º a 14.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 7.º — Procedimento de licenciamento
+
+1 - O requerente apresenta o pedido de licenciamento à entidade competente, a quem incumbe a instrução do respetivo procedimento.
+
+2 - A instrução do procedimento de licenciamento pode incluir a consulta a outras entidades nos termos do artigo 9.º, bem como a realização de vistorias.
+
+3 - A instrução do procedimento conclui-se com a concessão da licença de exploração da instalação.
+
+4 - As entidades inspetoras de combustíveis (EIC) e as entidades inspetoras de gás (EIG), cujos requisitos de acesso e exercício da atividade foram estabelecidos pela Lei n.º 15/2015, de 16 de fevereiro, podem colaborar com a entidade licenciadora competente nos termos do presente decreto-lei no que diz respeito à apreciação de projetos e às inspeções nele previstas, nos termos de legislação complementar ou, na sua falta, mediante protocolo ou contrato com as entidades licenciadoras competentes, que defina a sua atuação e procedimento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 8.º — Pedido de licenciamento
+
+1 - O pedido de licenciamento deve conter os elementos exigidos pela portaria prevista no n.º 2 do artigo 4.º
+
+2 - Sem prejuízo do disposto no n.º 2 do artigo 10.º, a entidade licenciadora, no prazo máximo de 10 dias, verifica a conformidade do pedido com o disposto do número anterior, recusando o recebimento do pedido se este não estiver acompanhado de todos os elementos instrutórios cuja junção é obrigatória.
+
+3 - A entidade licenciadora pode solicitar ao requerente informação suplementar, até ao quinto dia do prazo fixado no número anterior, suspendendo-se a instrução do respectivo procedimento pelo prazo que fixar para o efeito.
+
+4 - O não cumprimento pelo requerente do disposto no número anterior implica a apreciação do pedido sem recurso a essa informação complementar, com ressalva das situações previstas no n.º 3 do artigo 119.º do Código do Procedimento Administrativo (CPA).
+
+5 - Com o pedido de licenciamento é devida a taxa correspondente à apreciação do projeto e da vistoria inicial referidas nas alíneas a) e d) do n.º 1 do artigo 22.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+###### Artigo 9.º — Entidades consultadas
+
+1 - São consultadas as entidades cujo parecer seja legalmente exigido.
+
+2 - Até ao termo do prazo fixado no n.º 2 do artigo anterior, a entidade licenciadora envia o pedido às entidades a consultar, para emissão de parecer.
+
+3 - O interessado pode solicitar à entidade licenciadora, previamente à apresentação do pedido de licenciamento, a indicação das entidades que, nos termos da lei, devam emitir parecer relativamente ao pedido a apresentar, sendo-lhe tal notificado no prazo de 10 dias.
+
+4 - O interessado pode solicitar previamente os pareceres legalmente exigidos junto das entidades competentes, entregando-os com o requerimento de pedido de licenciamento, caso em que não há lugar a nova consulta desde que até à data da apresentação de tal pedido não haja decorrido mais de um ano desde a emissão dos pareceres ou desde que, caso tenha sido esgotado este prazo, não se tenham verificado alterações dos pressupostos de facto ou de direito em que os mesmos se basearam.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+###### Artigo 10.º — Prazos para parecer
+
+1 - Cada uma das entidades consultadas emite o seu parecer no prazo máximo de 20 dias, não prorrogável, salvo o disposto nos números seguintes.
+
+2 - Se as entidades consultadas verificarem que subsistem omissões ou irregularidades nos elementos instrutórios cuja junção é obrigatória, podem solicitar à entidade licenciadora que o requerente seja convidado a suprir as omissões ou irregularidades, desde que tal solicitação seja recebida pela entidade licenciadora até ao décimo dia do prazo fixado no número anterior.
+
+3 - A entidade licenciadora responde ao pedido e, caso considere necessário, solicita ao requerente, no prazo de três dias, a junção dos esclarecimentos e as informações pretendidas, considerando-se suspenso o prazo de apreciação do projecto até que os elementos solicitados sejam fornecidos à entidade consultada.
+
+4 - A falta de emissão de parecer dentro do prazo referido no n.º 1 é considerada como parecer favorável.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+###### Artigo 11.º — Pareceres condicionantes
+
+1 - O licenciamento de instalações sujeitas a avaliação de impacte ambiental, nos termos do Decreto-Lei n.º 151-B/2013, de 31 de outubro, só pode ter seguimento após conclusão do procedimento aí previsto.
+
+2 - O prazo estabelecido no n.º 2 do artigo 8.º apenas começa a correr após notificação da declaração de impacte ambiental favorável ou condicionalmente favorável, ou após o decurso do prazo necessário para a produção de deferimento tácito nos termos previstos no n.º 1 do artigo 19.º do Decreto-Lei n.º 151-B/2013, de 31 de outubro.
+
+3 - Nas instalações de armazenamento abrangidas pelo regime de prevenção de acidentes graves que envolvam substâncias perigosas, o requerente deve apresentar, juntamente com o pedido de licenciamento, prova do cumprimento das disposições previstas no Decreto-Lei n.º 150/2015, de 5 de agosto.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+###### Artigo 12 — Vistorias
+
+1 - As vistorias têm em vista o cumprimento dos regulamentos aplicáveis e, em geral, a garantia da segurança de pessoas e bens, e são efetuadas pela entidade licenciadora ou por uma comissão por ela constituída para o efeito, nos termos estabelecidos na Portaria n.º 1188/2003, de 10 de outubro, sendo lavrado auto das respetivas conclusões.
+
+2 - Nos casos aplicáveis, a comissão de vistorias é convocada pela entidade licenciadora com a antecedência mínima de 10 dias sobre a data da realização da vistoria.
+
+3 - A vistoria inicial destina-se a avaliar o local, podendo ser impostas condições e prazos julgados convenientes para a construção e exploração das instalações.
+
+4 - A convocatória para a vistoria inicial deve ser emitida até 10 dias após a recepção dos pareceres das entidades consultadas.
+
+5 - A vistoria final destina-se a averiguar se a instalação reúne condições para a concessão da licença de exploração, para o que deve ser verificada a concordância com o projecto e o cumprimento das condições e das prescrições legalmente exigidas.
+
+6 - A vistoria final é requerida pelo requerente, após execução da instalação e dentro do prazo que lhe tenha sido fixado para a respetiva conclusão.
+
+7 - Caso se verifiquem deficiências na instalação, é concedido prazo para a respetiva correção, e marcada, se necessário, nova vistoria.
+
+8 - A falta de comparência do representante de entidades regularmente convocadas não impede a realização da vistoria.
+
+9 - Pode ser efetuada vistoria, mesmo quando não exigida pela Portaria n.º 1188/2003, de 10 de outubro, caso a entidade licenciadora a considere necessária, tendo em atenção o local, a natureza e a dimensão da instalação.
+
+10 - (Revogado.)
+
+11 - Os prazos previstos nos n.os 2 e 4 podem ser reduzidos mediante concordância de todas as entidades convocadas.
+
+12 - O documento para pagamento da taxa devida pela vistoria prevista no n.º 5 é emitido no prazo de 10 dias a contar da data em que é requerida a vistoria, sendo esta convocada no prazo de 20 dias a contar do pagamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 13.º — Aprovação do projecto
+
+1 - No prazo de 15 dias após a realização da vistoria inicial, a entidade licenciadora profere uma decisão devidamente fundamentada de aprovação, imposição de alterações ou rejeição do projeto, disso notificando o requerente.
+
+2 - A aprovação do projeto pode incluir condições, designadamente condições fixadas em vistoria inicial ou constantes dos pareceres solicitados, e pode fixar um prazo para a finalização da obra.
+
+3 - No caso de serem impostas alterações, o requerente procede à modificação do projecto no prazo que lhe seja concedido, submetendo-o de novo à entidade licenciadora, a qual emite nova decisão no prazo de 10 dias, nos mesmos termos do n.º 1.
+
+4 - Um exemplar autenticado do projecto aprovado é remetido ao requerente.
+
+5 - Sempre que alguma das condições propostas pelas entidades consultadas, que não configure parecer vinculativo, não for acolhida na decisão, tal facto deve ser comunicado pela entidade licenciadora a essa entidade, de forma fundamentada.
+
+6 - Caso a vistoria inicial não seja convocada no prazo de 40 dias após a receção do pedido de licenciamento, ou não haja decisão relativa ao projeto no prazo referido no n.º 1, o requerente pode recorrer aos tribunais administrativos a fim de obter a condenação da entidade licenciadora à prática de ato devido.
+
+7 - (Revogado.)
+
+8 - No caso de não execução da obra no prazo fixado nos termos do n.º 2, a decisão de aprovação do projeto caduca, sem prejuízo de eventual prorrogação do referido prazo pela entidade licenciadora, na sequência de pedido fundamentado apresentado antes do respetivo termo pelo interessado.
+
+9 - O pedido de prorrogação do prazo, referido no número anterior, está sujeito ao pagamento de uma taxa.
+
+10 - A declaração de caducidade prevista no n.º 8 é precedida de audiência do interessado, nos termos dos artigos 121.º e seguintes do CPA.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 63.º do/a [Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), em vigor a partir de 2015-03-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 14.º — Licença de exploração
+
+1 - A licença de exploração é concedida após verificação da conformidade da instalação com o projecto aprovado e do cumprimento das condições que tenham sido fixadas, no prazo de 10 dias após a realização da vistoria final ou da realização das correcções que lhe tenham sido impostas.
+
+2 - Em casos justificados, pode ser concedida uma licença de exploração a título provisório.
+
+3 - As licenças referidas no número anterior têm um prazo não superior a um ano, podendo ser prorrogadas, uma ou mais vezes, por igual prazo, em situações devidamente justificadas.
+
+4 - O requerente comprova, previamente à emissão da licença, mesmo no caso referido no n.º 2, que dispõe de seguro de responsabilidade civil destinado a cobrir os riscos associados à respetiva atividade, em montante a definir pela entidade licenciadora.
+
+5 - Previamente à emissão da licença de exploração, deve ser designado o técnico responsável pela exploração e deve este apresentar o termo de responsabilidade previsto na Lei n.º 15/2015, de 16 de fevereiro.
+
+6 - No caso de o técnico responsável pela exploração cessar a responsabilidade que assumiu nos termos do número anterior, ou no seu impedimento ou morte, o titular da licença de exploração comunica à entidade licenciadora, no prazo máximo de 15 dias, o novo responsável pela exploração e entrega o respetivo termo de responsabilidade.
+
+7 - O disposto nos n.os 5 e 6 não se aplica às instalações identificadas no anexo ii do presente decreto-lei.
+
+8 - O silêncio da entidade licenciadora vale como deferimento tácito após o decurso do prazo previsto no n.º 1 do presente artigo ou, caso a vistoria final não seja convocada ou caso o documento para pagamento da respetiva taxa não seja emitido nos prazos referidos no n.º 12 do artigo 12.º, após 10 dias a contar do termo do prazo aplicável.
+
+9 - O deferimento tácito referido no número anterior apenas produz efeitos com o cumprimento, pelo requerente, das obrigações constantes dos n.ºs 4 e 5.
+
+10 - A formação de deferimento tácito nos termos previstos no n.º 8 não impede a realização da vistoria final pela entidade licenciadora, nas situações em que essa vistoria não tenha sido previamente realizada, com vista à verificação da conformidade da instalação com o projeto aprovado.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714), em vigor a partir de 2008-03-01
+
+###### Artigo 15.º — Validade e renovação da licença de exploração
+
+1 - Sem prejuízo do disposto nos números seguintes, as licenças de exploração das instalações a que o presente decreto-lei respeita não caducam com o decurso do tempo.
+
+2 - Nas situações em que se mostre haver condicionantes urbanísticas e de ordenamento do território que justifiquem a limitação no tempo, em determinada zona, da presença de instalações abrangidas pelo presente decreto-lei, as licenças de exploração estão sujeitas ao prazo de caducidade resultante dessas condicionantes, cujo teor é comunicado ao requerente com a decisão de aprovação do projeto.
+
+3 - Nas situações em que, no decurso do prazo de caducidade a que se refere o número anterior, as condicionantes se alterem de modo a permitir a manutenção da instalação para além desse prazo, a entidade competente para a aplicação das condicionantes comunica-o, no prazo de 30 dias, à entidade licenciadora, a qual determina a sua prorrogação.
+
+4 - Caso as condicionantes cessem durante o prazo de caducidade, a entidade competente para a sua aplicação comunica-o, no prazo de 30 dias, à entidade licenciadora, a qual determina que a licença de exploração deixa de estar sujeita a um prazo.
+
+5 - As licenças de exploração das instalações cujo terreno de implantação pertença ao domínio público caducam imediata e automaticamente com a cessação de efeitos, por qualquer causa, dos correspondentes títulos de utilização privativa dos bens do domínio público, cuja cópia deve ser entregue à entidade licenciadora juntamente com os demais elementos exigidos na portaria a que se refere o n.º 2 do artigo 4.º
+
+6 - Para além das situações previstas nos termos gerais da lei, a entidade licenciadora pode revogar as licenças de exploração quando sejam falsos os dados ou as informações que integram ou acompanham o pedido de licenciamento, quando deixem de verificar-se os factos que justificaram a sua emissão ou quando o respetivo titular viole gravemente normas legais ou regulamentares aplicáveis.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 16.º — Alteração e cessação da exploração
+
+1 - O titular da licença de exploração da instalação de armazenamento ou de um posto de abastecimento de combustíveis solicita, no prazo de 30 dias, à entidade licenciadora, em pedido devidamente documentado, o respetivo averbamento na licença da ocorrência de:
+
+a) Mudança de produto afeto aos reservatórios ou compartimentos;
+
+b) (Revogado.)
+
+c) Suspensão de atividade por prazo superior a um ano;
+
+d) Redução da capacidade de armazenagem, na sequência da desativação de um reservatório ou compartimento ou da suspensão da sua utilização.
+
+2 - No caso de transmissão da propriedade ou de locação da instalação, o novo titular requer à entidade licenciadora, no prazo de 30 dias a partir da data de celebração do negócio jurídico, o correspondente averbamento na licença de exploração, anexando a respetiva documentação de suporte, incluindo o comprovativo do seguro previsto no n.º 4 do artigo 14.º e do termo de responsabilidade do técnico responsável pela exploração, quando aplicável.
+
+3 - No caso de redes e ramais de distribuição de GPL e armazenamentos associados, o regime de transmissão de propriedade e exploração das instalações segue o estabelecido no Decreto-Lei n.º 125/97, de 23 de maio.
+
+4 - Em caso de cessação de exploração da instalação, a comunicação é acompanhada do pedido de cancelamento da licença, bem como de documentação que evidencie o cumprimento do disposto no artigo 21.º
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 16.º-A — Tramitação desmaterializada
+
+1 - São realizados através do balcão único eletrónico dos serviços referido no artigo 6.º do Decreto-Lei n.º 92/2010, de 26 de julho, todos os pedidos, comunicações e notificações ou, em geral, todas as declarações entre os interessados e as autoridades competentes nos procedimentos previstos nos artigos anteriores, à exceção dos procedimentos administrativos tramitados no sistema informático previsto no artigo 8.º-A do regime jurídico da urbanização e da edificação e dos procedimentos previstos no artigo 27.º
+
+2 - Quando, por indisponibilidade das plataformas eletrónicas, não for possível o cumprimento em tempo útil do disposto no número anterior, pode ser utilizado qualquer outro meio legalmente admissível.
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+### Capítulo III — Segurança técnica das instalações
+
+###### Artigo 17.º-A — Armazenagem e abastecimento de gasóleo de aquecimento em áreas afectas a postos de abastecimento de combustíveis
+
+1 - É permitida a implantação de unidades de abastecimento de gasóleo de aquecimento em área afecta a um posto de abastecimento de combustíveis, desde que se verifiquem as seguintes condições:
+
+a) As unidades de abastecimento do gasóleo de aquecimento estejam separadas das ilhas das unidades de abastecimento dos combustíveis rodoviários;
+
+b) As unidades de abastecimento do gasóleo de aquecimento estejam identificadas com a designação 'Gasóleo de aquecimento' em preto, caixa alta, com 5 cm de altura e centrada;
+
+c) As unidades de abastecimento do gasóleo de aquecimento disponham de uma inscrição com as dimensões mínimas de 30 cm x 20 cm, bem legível, com os dizeres 'Proibido o uso como carburante nos termos da legislação em vigor'.
+
+2 - A implantação, construção e exploração dos reservatórios e unidades de abastecimento de gasóleo de aquecimento a que respeita o n.º 1 obedecem, com as devidas adaptações, ao disposto para o gasóleo rodoviário no Regulamento aprovado pela Portaria n.º 131/2002, de 9 de Fevereiro, incluindo o regime sancionatório previsto no Decreto-Lei n.º 302/2001, de 23 de Novembro.
+
+3 - Nas unidades de abastecimento a que respeita o n.º 1 só é autorizado o enchimento de reservatórios conformes com o Regulamento do Transporte de Matérias Perigosas por Estrada e que obedeçam aos seguintes limites:
+
+a) Embalagens cuja capacidade que não exceda 450 l;
+
+b) Grandes recipientes para granel (GRG) e cisternas cuja capacidade não exceda 1000 l.
+
+4 - As embalagens e os GRG devem ser fechados em conformidade com as instruções do fabricante e manter-se fechados até entrega ao destinatário final, não podendo ser utilizados para efectuar distribuição fraccionada.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+###### Artigo 17.º — Regulamentação técnica
+
+As regras técnicas relativas à construção e exploração das instalações de armazenamento e postos de abastecimento referidos no artigo 1.º obedecem à regulamentação e legislação específicas aplicáveis.
+
+###### Artigo 18.º — Técnicos responsáveis
+
+1 - O regime de acesso e exercício da atividade dos técnicos habilitados para a assinatura dos projetos apresentados a licenciamento, bem como para assumir a responsabilidade técnica pela exploração das instalações, consta de lei.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+4 - (Revogado.)
+
+> Alterado pelo/a Artigo 60.º do/a [Lei n.º 15/2015 - Diário da República n.º 32/2015, Série I de 2015-02-16](https://diariodarepublica.pt/dr/detalhe/lei/15-2015-66528824), em vigor a partir de 2015-03-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714), em vigor a partir de 2008-03-01
+
+###### Artigo 19.º — Inspecções periódicas
+
+1 - As instalações de armazenamento de derivados do petróleo e os postos de abastecimento são objecto de inspecção periódica, quinquenal, destinada a verificar a conformidade da instalação com as condições aprovadas no âmbito do licenciamento.
+
+2 - Verificando-se a conformidade da instalação, é emitido pela entidade inspetora certificado que é apresentado à entidade licenciadora.
+
+3 - Caso se verifique deficiência na instalação, a entidade inspetora pode conceder prazo para a sua correção, informando do facto a entidade licenciadora.
+
+4 - Os certificados são válidos por um prazo de cinco anos, renovável, devendo o pedido de renovação ser apresentado até 30 dias antes do seu termo.
+
+5 - Para efeitos do presente artigo, consideram-se habilitadas para a realização das inspeções periódicas as EIC autorizadas pela DGEG.
+
+6 - As EIC podem colaborar com as entidades licenciadoras, nas modalidades que forem entre elas acordadas, em actividades relacionadas com a apreciação de projectos, vistorias e inspecções das instalações.
+
+7 - As EIC estão sujeitas a incompatibilidades, segredo profissional, prestação de informação às entidades competentes, manutenção de arquivo de documentação da actividade e de seguro de responsabilidade civil, devendo estas obrigações constar do respectivo estatuto.
+
+8 - No caso das instalações abrangidas pelo anexo i ao presente decreto-lei, a realização das inspeções periódicas é da responsabilidade da DGEG, sendo nesse caso denominada vistoria periódica.
+
+9 - Nas instalações das Classes A1, A2 e A3, previstas no anexo ii ao presente decreto-lei, as inspeções periódicas também podem ser realizadas pelas respetivas entidades licenciadoras, no caso de não ser possível a sua realização pelas entidades referidas no n.º 5.
+
+10 - A não apresentação do certificado de inspeção válido referido nos números anteriores constitui motivo para o encerramento temporário da instalação, até à apresentação do mesmo.
+
+11 - O disposto neste artigo não prejudica a realização de outros procedimentos previstos em legislação específica.
+
+12 - O disposto no presente artigo não é aplicável às instalações das Classes B1 e B2, previstas no anexo ii ao presente decreto-lei, por não se encontrarem sujeitas a licenciamento.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714), em vigor a partir de 2008-03-01
+
+###### Artigo 20.º — Medidas cautelares
+
+1 - Sem prejuízo do disposto na lei sobre responsabilidade por danos ambientais, sempre que seja detetada uma situação de perigo grave para a saúde, a segurança de pessoas e bens, a higiene e a segurança dos locais de trabalho e o ambiente, a entidade licenciadora e as demais entidades fiscalizadoras, por si ou em colaboração, devem tomar imediatamente as providências que em cada caso se justifiquem para prevenir ou eliminar a situação de perigo, podendo vir a ser determinado:
+
+a) O encerramento preventivo da instalação, no todo ou em parte, por selagem, por um prazo máximo de seis meses;
+
+b) A retirada ou a apreensão dos produtos.
+
+2 - A cessação das medidas cautelares previstas no número anterior será determinada, a requerimento do interessado, após vistoria à instalação da qual se demonstre terem cessado as circunstâncias que lhe deram causa, sem prejuízo, em caso de contra-ordenação, do prosseguimento do respectivo processo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+###### Artigo 21.º — Medidas em caso de cessação de actividade
+
+1 - Em caso de cessação da actividade, os locais serão repostos em condições que garantam a segurança das pessoas e do ambiente, podendo ser determinada a retirada dos equipamentos.
+
+2 - As operações correspondentes são a expensas do titular da licença.
+
+### Capítulo IV — Taxas
+
+###### Artigo 22.º — Taxas de licenciamento e de vistorias
+
+1 - É devido o pagamento de taxas pelos seguintes actos:
+
+a) Apreciação dos pedidos de aprovação dos projectos de construção e de alteração;
+
+b) Prorrogação do prazo de execução dos projetos de construção e de alteração;
+
+c) Emissão de licenças de exploração a título provisório e sua prorrogação;
+
+d) Vistorias relativas ao procedimento de licenciamento;
+
+e) Vistorias a realizar para apreciação de recursos hierárquicos, quando se trate de licenciamentos previstos no artigo 6.º;
+
+f) Vistorias para verificação do cumprimento das medidas impostas nas decisões proferidas sobre reclamações;
+
+g) Vistorias periódicas;
+
+h) Repetição da vistoria para verificação das condições impostas;
+
+i) Averbamentos;
+
+j) Segundas vias de documentos.
+
+2 - Os montantes das taxas previstas no número anterior são definidos em regulamento municipal ou em portaria dos membros do Governo responsáveis pelas áreas das finanças e da energia, consoante a entidade licenciadora seja o município ou a DGEG, respetivamente.
+
+3 - As despesas realizadas com as colheitas de amostras, ensaios laboratoriais ou quaisquer outras avaliações necessárias à apreciação das condições de exploração de uma instalação de armazenamento ou postos de abastecimento constituem encargos da entidade que as tenha promovido, salvo se se verificar a inobservância das prescrições técnicas obrigatórias, caso em que os encargos são suportados pelo titular da licença de exploração.
+
+4 - Os atos referidos no n.º 1 são efetuados após liquidação da respetiva taxa.
+
+5 - [Revogado.]
+
+6 - [Revogado.]
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714), em vigor a partir de 2008-03-01
+
+###### Artigo 23.º — Forma e pagamento das taxas
+
+1 - As taxas e os quantitativos correspondentes a despesas feitas pelos serviços que constituam encargo do detentor da licença são pagas no prazo de 30 dias na forma e local a indicar pela entidade licenciadora, mediante guias a emitir por esta, devendo ser devolvido documento comprovativo do pagamento das mesmas.
+
+2 - É obrigatória a disponibilização pelas entidades licenciadoras de mecanismos que permitam o pagamento das taxas através de terminal Multibanco, de sistema de homebanking na Internet ou de meio equivalente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 195/2008 - Diário da República n.º 193/2008, Série I de 2008-10-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/195-2008-452935), em vigor a partir de 2008-11-05
+
+###### Artigo 24.º — Cobrança coerciva das taxas
+
+A cobrança coerciva das dívidas provenientes da falta de pagamento das taxas far-se-á pelo processo de execução fiscal, servindo de título executivo a certidão passada pela entidade que prestar os serviços.
+
+### Capítulo V — Fiscalização e contra-ordenações
+
+###### Artigo 25.º — Fiscalização
+
+1 - As instalações abrangidas pelo presente decreto-lei são sujeitas a fiscalização pelas câmaras municipais ou pela DGEG, segundo, respetivamente, as competências previstas nos artigos 5.º e 6.º
+
+2 - A fiscalização prevista no número anterior exerce-se no âmbito do licenciamento e no âmbito da regulamentação técnica das instalações e não prejudica as competências atribuídas por lei a outras entidades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+###### Artigo 26.º — Contra-ordenações
+
+1 - Constitui contra-ordenação punível com coima de (euro) 250 a (euro) 3740 no caso de pessoas singulares, e de (euro) 3740 a (euro) 44890 no caso de pessoas colectivas:
+
+a) A instalação, alteração, exploração, suspensão da exploração ou encerramento de instalações de armazenamento ou de postos de abastecimento com desrespeito pelas disposições deste diploma;
+
+b) O impedimento ou obstrução, pelo titular da licença ou por quem actue sob as suas ordens, de acções de fiscalização efectuadas nos termos deste diploma.
+
+c) O não cumprimento da obrigação de informação prevista no n.º 1 do artigo 30.º
+
+d) A realização de inspeções por entidades que não se encontram nas condições previstas nos n.os 5, 8 e 9 do artigo 19.º;
+
+e) O não cumprimento das obrigações previstas no n.º 7 do artigo 19.º
+
+2 - A negligência e a tentativa são puníveis.
+
+3 - Em função da gravidade da infracção e da culpa do infractor, podem ser aplicadas as sanções acessórias previstas no n.º 1 do artigo 21.º do Decreto-Lei n.º 433/82, de 27 de Outubro, na redacção que lhe foi conferida pelo Decreto-Lei n.º 244/95, de 14 de Setembro.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a [Decreto-Lei n.º 31/2008 - Diário da República n.º 39/2008, Série I de 2008-02-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31-2008-247714), em vigor a partir de 2008-03-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 27.º — Instrução do processo e aplicação das coimas
+
+As entidades licenciadoras e fiscalizadoras procedem à instrução dos correspondentes processos de contraordenação, cabendo ao presidente da câmara municipal, ou ao diretor-geral da DGEG, a competência para a aplicação das coimas e das sanções acessórias.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+###### Artigo 28.º — Distribuição do produto das coimas
+
+1 - No caso das coimas aplicadas pelo presidente da câmara municipal, a totalidade da receita daí resultante reverte para o município.
+
+2 - No caso das coimas aplicadas pelo diretor-geral da DGEG, o produto das coimas constitui receita:
+
+a) Em 60% do Estado;
+
+b) [Revogada.]
+
+c) Em 40 % da DGEG.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+###### Artigo 29.º — Regime sancionatório no âmbito da regulamentação técnica
+
+1 - A instrução de processos de contra-ordenação e a distribuição do produto das coimas respeitantes à fiscalização dos normativos técnicos aplicáveis à construção e exploração das instalações mencionadas no artigo 1.º subordinam-se às disposições dos artigos 27.º e 28.º
+
+2 - A tipificação das contra-ordenações e o montante das coimas referidas no número anterior são estabelecidos na legislação específica aplicável.
+
+### Capítulo VI — Matérias sujeitas a informação
+
+###### Artigo 30.º — Registo de acidentes
+
+1 - Sem prejuízo do disposto na lei sobre responsabilidade por danos ambientais, os acidentes ocorridos em instalações abrangidas pelo artigo 1.º são obrigatoriamente comunicados, no prazo de 24 horas, pelo titular da licença de exploração da instalação à entidade licenciadora, que deve proceder ao respetivo inquérito e manter o registo correspondente.
+
+2 - O registo previsto no número anterior deve ser comunicado semestralmente à DGEG.
+
+3 - A entidade licenciadora deve de imediato informar a Inspeção-Geral da Agricultura, do Mar, do Ambiente e do Ordenamento do Território (IGAMAOT) de todas as ocorrências de acidente, nomeadamente a emissão de substâncias, incêndios ou explosões, resultantes de desenvolvimentos súbitos e imprevistos ocorridos numa instalação abrangida pelo presente diploma que tenha conhecimento por força do disposto no n.º 1.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 31.º — Base de dados de postos de abastecimento
+
+As entidades licenciadoras dos postos de abastecimento prestam informação, com periodicidade semestral, à DGEG sobre os postos de abastecimento licenciados, ou cujas licenças caducaram, com indicação da respetiva localização, proprietário, capacidade e produtos armazenados.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+### Capítulo VII — Recursos e reclamações
+
+###### Artigo 32.º — Recurso hierárquico
+
+O recurso hierárquico necessário das decisões proferidas pela DGEG, ao abrigo do presente decreto-lei, quando seja a entidade licenciadora competente, tem efeito suspensivo, podendo, no entanto, a entidade para quem se recorre atribuir-lhe efeito meramente devolutivo, quando considere que a não execução imediata dessas decisões pode causar grave prejuízo ao interesse público.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+###### Artigo 33.º — Reclamações de terceiros
+
+1 - A todo o tempo podem terceiros, devidamente identificados, apresentar reclamação fundamentada relativa à laboração de qualquer instalação de armazenamento ou posto de abastecimento, junto da entidade licenciadora, ou da entidade a quem caiba a salvaguarda dos direitos ou interesses em causa, que a transmitirá à entidade licenciadora, no prazo de 10 dias, acompanhada de parecer.
+
+2 - No caso de a reclamação ser dirigida à entidade licenciadora, esta poderá consultar as entidades a quem cabe a salvaguarda dos direitos ou interesses em causa, devendo estas comunicar o seu parecer no prazo máximo de 30 dias.
+
+3 - A decisão será proferida pela entidade licenciadora no prazo máximo de 30 dias após a recepção desses pareceres, dela devendo ser dado conhecimento ao titular da licença, ao reclamante e às entidades consultadas.
+
+4 - O cumprimento das condições que sejam impostas nessa decisão será verificado mediante vistoria.
+
+### Capítulo VIII — Disposições transitórias, revogatórias e finais
+
+###### Artigo 34.º — Regime transitório
+
+1 - Ao licenciamento das instalações de armazenamento e postos de abastecimento cujos processos tenham sido iniciados anteriormente à data da entrada em vigor do presente diploma aplica-se o regime em vigor à data da entrada do pedido de licenciamento.
+
+2 - À renovação das autorizações de exploração das instalações existentes e das referidas no número anterior aplicam-se as disposições do presente diploma.
+
+3 - A competência para autorizar a construção e emitir alvarás para as instalações referidas n.º 1 é do director regional da economia territorialmente competente.
+
+4 - Às instalações de armazenamento referidas no anexo iii do presente diploma, cujos processos tenham sido iniciados anteriormente à data de entrada em vigor do presente decreto-lei, pode aplicar-se o regime agora previsto.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14
+
+###### Artigo 35.º — Aplicação às Regiões Autónomas
+
+A aplicação do presente diploma às Regiões Autónomas dos Açores e da Madeira faz-se sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio e das adaptações que lhe venham a ser introduzidas por diploma regional das respectivas assembleias legislativas regionais.
+
+###### Artigo 36.º — Norma revogatória
+
+Sem prejuízo do disposto no n.º 3 do artigo 18.º, são revogadas, com a entrada em vigor da portaria prevista no artigo 4.º, as disposições relativas ao licenciamento das instalações abrangidas por este diploma, nomeadamente:
+
+a) A base VIII da Lei n.º 1947, de 12 de Fevereiro de 1937;
+
+b) Os artigos 15.º, 56.º a 62.º e 64.º a 68.º do Decreto n.º 29034, de 1 de Outubro de 1938.
+
+###### Artigo 37.º — Entrada em vigor
+
+O presente diploma entra em vigor a 10 de Janeiro de 2003.
+
+Visto e aprovado em Conselho de Ministros de 12 de Setembro de 2002. - José Manuel Durão Barroso - Maria Manuela Dias Ferreira Leite - António Jorge de Figueiredo Lopes - Carlos Manuel Tavares da Silva - Isaltino Afonso de Morais.
+
+Promulgado em 13 de Novembro de 2002.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 14 de Novembro de 2002.
+
+O Primeiro-Ministro, José Manuel Durão Barroso.
+
+## Anexo I — Instalações cujo licenciamento é competência da Direção-Geral de Energia e Geologia
+
+(a que se referem o n.º 1 do artigo 6.º e o n.º 8 do artigo 19.º)
+
+a) Instalações de armazenamento de derivados de petróleo localizadas ou ligadas a terminais portuários, ou que sejam definidas de interesse estratégico para o regular abastecimento do País por despacho fundamentado do membro do Governo responsável pela área da energia;
+
+b) Armazenamento de gases de petróleo liquefeito, ou de outros gases derivados do petróleo, com capacidade igual ou superior a 50 m³, com exclusão dos parques de armazenamento de garrafas de gases de petróleo liquefeitos (GPL);
+
+c) Armazenamento de combustíveis líquidos com capacidade igual ou superior a 200 m³;
+
+d) Armazenamento de outros produtos derivados do petróleo com capacidade superior a 500 m³;
+
+e) Armazenamento de combustíveis líquidos, gasosos e outros derivados do petróleo em instalações onde se efetuam manipulações ou enchimentos de embalagens e de cisternas, tais como definidas na regulamentação do transporte de mercadorias perigosas por estrada;
+
+f) Armazenamento de combustíveis sólidos derivados do petróleo com capacidade superior a 500 t;
+
+g) Postos de abastecimento de combustíveis para consumo público localizados nas redes viárias regional e nacional, ou com acesso direto a partir delas, bem como nas estradas desclassificadas sob jurisdição da Infraestruturas de Portugal, S. A., e ainda nos portos e aeroportos;
+
+h) Redes e ramais de distribuição de gás, objeto do Decreto-Lei n.º 125/97, de 23 de maio, quando associadas a reservatórios de GPL cujo licenciamento é da competência da Direção-Geral de Energia e Geologia.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), com efeitos a partir de 2026-10-03.
+
+## Anexo II — Instalações com licenciamento simplificado ou não sujeitas a licenciamento
+
+(a que se referem o n.º 4 do artigo 4.º, o n.º 7 do artigo 14.º e os n.ºs 9 e 12 do artigo 19.º)
+
+A - Instalações sujeitas a licenciamento simplificado
+
+Ficam sujeitas a licenciamento simplificado as instalações das seguintes classes, que não incluem instalações onde se efetue o enchimento de embalagens ou de cisternas:
+
+Classe A1
+
+a) Instalações de armazenamento de gases de petróleo liquefeitos (GPL), gasolinas e outros produtos com ponto de inflamação inferior a 38ºC, com capacidade igual ou superior a 4,500 m³ e inferior a 22,200 m³;
+
+b) Instalações de armazenamento de combustíveis líquidos com capacidade igual ou superior a 50 m³ e inferior a 100 m³;
+
+c) Instalações de armazenamento de outros produtos de petróleo com capacidade igual ou superior a 50 m³ e inferior a 100 m³;
+
+d) Postos de abastecimento de combustíveis para consumo próprio e cooperativo com capacidade igual ou superior a 10 m³.
+
+Classe A2
+
+a) Instalações de armazenamento de GPL, gasolinas e outros produtos com ponto de inflamação inferior a 38ºC, com capacidade igual ou superior a 22,200 m³ e inferior a 50 m³;
+
+b) Instalações de armazenamento de combustíveis líquidos com capacidade igual ou superior a 100 m³ e inferior a 200 m³;
+
+c) Instalações de armazenamento de outros produtos de petróleo com capacidade igual ou superior a 100 m³ e inferior a 200 m³.
+
+Classe A3 - Parques e postos de garrafas de GPL com capacidade superior a 0,520 m³.
+
+B - Instalações não sujeitas a licenciamento
+
+Classe B1 - Sem prejuízo da aplicação dos regulamentos de segurança em vigor, não ficam sujeitas a licenciamento as seguintes instalações:
+
+a) Parques de garrafas e postos de garrafas GPL com capacidade inferior ou igual a 0,520 m³;
+
+b) Parques de garrafas de GPL com capacidade não superior a 1,560 m³, localizados em postos de abastecimento de combustíveis nos termos previstos no artigo 18.º do Regulamento de Segurança relativo à construção, exploração e manutenção das instalações dos parques de garrafas de GPL, aprovado pela Portaria n.º 451/2001, de 5 de maio;
+
+c) Postos de reservatórios de GPL, instalações de armazenamento de gasolinas e outros produtos com ponto de inflamação inferior a 38ºC, com capacidade inferior a 1,500 m³;
+
+d) Instalações de armazenamento de combustíveis líquidos e outros produtos de petróleo com capacidade inferior a 5 m³, com exceção da gasolina e outros produtos com ponto de inflamação inferior a 38ºC.
+
+Classe B2 - embora não sujeitas a licenciamento, ficam, no entanto, obrigadas ao cumprimento do previsto no artigo 21.º da Portaria n.º 1188/2003, de 10 de outubro, as seguintes instalações:
+
+a) Instalações de armazenamento de GPL, gasolinas e outros produtos com ponto de inflamação inferior a 38ºC, com capacidade igual ou superior a 1,500 m³ e inferior a 4,500 m³;
+
+b) Instalações de armazenamento de outros combustíveis líquidos com capacidade global igual ou superior a 5 m³ e inferior a 50 m³;
+
+c) Instalações de outros produtos de petróleo com capacidade igual ou superior a 5 m³ e inferior a 50 m³;
+
+d) Postos de abastecimento de combustíveis para consumo próprio e cooperativo com capacidade inferior a 10 m³.
+
+> Alterado pelo/a Anexo I do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), com efeitos a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14.
+
+## Anexo III — Instalações com licenciamento simplificado ou não sujeitas a licenciamento
+
+A - Instalações sujeitas a licenciamento simplificado
+
+Ficam sujeitas a licenciamento simplificado as instalações das seguintes classes, que não incluem instalações onde se efectue o enchimento de taras ou de veículos-cisterna:
+
+Classe A1:
+
+a) Instalações de armazenamento de GPL, gasolinas e outros produtos com ponto de inflamação inferior a 38ºC com capacidade igual ou superior a 4,500 m3 e inferior a 22,200 m3;
+
+b) Instalações de armazenamento de combustíveis líquidos com capacidade igual ou superior a 50 m3 e inferior a 100 m3;
+
+c) Instalações de armazenamento de outros produtos de petróleo com capacidade igual ou superior a 50 m3 e inferior a 100 m3;
+
+d) Postos de abastecimento de combustíveis para consumo próprio e cooperativo com capacidade igual ou superior a 10 m3;
+
+Classe A2:
+
+a) Instalações de armazenamento de GPL, gasolinas e outros produtos com ponto de inflamação inferior a 38ºC, com capacidade igual ou superior a 22,200 m3 e inferior a 50 m3;
+
+b) Instalações de armazenamento de combustíveis líquidos com capacidade igual ou superior a 100 m3 e inferior a 200 m3;
+
+c) Instalações de armazenamento de outros produtos de petróleo com capacidade igual ou superior a 100 m3 e inferior a 200 m3;
+
+Classe A3 - parques e postos de garrafas de gases de petróleo liquefeitos (GPL) com capacidade igual ou superior a 0,520 m3.
+
+B - Instalações não sujeitas a licenciamento
+
+Classe B1 - sem prejuízo da aplicação dos regulamentos de segurança em vigor, não ficam sujeitas a licenciamento as seguintes instalações:
+
+a) Parques de garrafas e postos de garrafas de gases de petróleo liquefeitos (GPL) com capacidade inferior a 0,520 m3;
+
+b) Instalações de armazenamento de GPL, gasolinas e outros produtos com ponto de inflamação inferior a 38ºC, com capacidade inferior a 1,500 m3;
+
+c) Instalações de armazenamento de combustíveis líquidos e outros produtos de petróleo com capacidade inferior a 5 m3, com excepção da gasolina e outros produtos com ponto de inflamação inferior a 38ºC.
+
+Classe B2 - embora não sujeitas a licenciamento, ficam, no entanto, obrigadas ao cumprimento do previsto no artigo 21.º da Portaria n.º 1188/2003, de 10 de Outubro, alterada pela Portaria n.º 1515/2007, de 30 de Novembro, as seguintes instalações:
+
+a) Instalações de armazenamento de GPL, gasolinas e outros produtos com ponto de inflamação inferior a 38ºC com capacidade igual ou superior a 1,500 m3 e inferior a 4,500 m3;
+
+b) Instalações de armazenamento de outros combustíveis líquidos com capacidade global igual ou superior a 5 m3 e inferior a 50 m3;
+
+c) Instalações de outros produtos de petróleo com capacidade igual ou superior a 5 m3 e inferior a 50 m3;
+
+d) Postos de abastecimento de combustíveis para consumo próprio e cooperativo com capacidade inferior a 10 m3.
+
+> Revogado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 198/2026 - Diário da República n.º 192/2026, Série I de 2026-10-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/198-2026-1176760741), em vigor a partir de 2026-10-03.
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 217/2012 - Diário da República n.º 195/2012, Série I de 2012-10-09](https://diariodarepublica.pt/dr/detalhe/decreto-lei/217-2012-175787), em vigor a partir de 2012-11-08
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 389/2007 - Diário da República n.º 231/2007, Série I de 2007-11-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/389-2007-628828), em vigor a partir de 2008-01-14

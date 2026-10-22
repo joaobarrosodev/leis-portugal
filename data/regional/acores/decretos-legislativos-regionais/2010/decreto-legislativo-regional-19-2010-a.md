@@ -1,0 +1,1076 @@
+---
+schema_version: '1.0'
+id: pt:dre:332688:por
+title: Decreto Legislativo Regional n.º 19/2010/A
+short_title: null
+summary: Regulamenta a elaboração e disponibilização de relatórios e informação pública sobre o estado do ambiente, regula
+  o apoio às organizações não governamentais de ambiente e altera a composição e normas de funcionamento do Conselho Regional
+  do Ambiente e do Desenvolvimento Sustentável (CRADS)
+jurisdiction: regional
+territory: acores
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 19/2010/A
+official_date: null
+publication_date: '2010-05-25'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 101/2010, Série I de 2010-05-25
+  number: '101'
+  series: I
+  supplement: null
+  pages: 1781 - 1793
+  pdf_url: https://files.diariodarepublica.pt/1s/2010/05/10100/0178101793.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-05-31'
+version_history:
+  file: decreto-legislativo-regional-19-2010-a.versoes.json
+  count: 2
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2010-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-05-31'
+    amending: pt:dre:122446608:por
+    amending_title: Decreto Legislativo Regional n.º 12/2019/A
+    changes:
+    - Adita Artigo 40.º-A
+    - Altera Artigo 34.º
+    - Altera Artigo 35.º
+    - Altera Artigo 39.º
+    - Altera Artigo 41.º
+    - Altera Artigo 42.º
+    - Altera Artigo 43.º
+    - Altera Artigo 44.º
+    - Altera Artigo 45.º
+    - Altera Artigo 46.º
+    - Altera Artigo 47.º
+    - Altera Artigo 48.º
+    - Altera Artigo 49.º
+    - Altera Artigo 50.º
+    - Altera Artigo 51.º
+    - Altera Artigo 54.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/19/2010/a/cons/20190530/pt/html
+  oj: null
+  dre: '332688'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/19-2010-332688
+  internal: pt:dre:332688:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2010-332688
+  metadata_url: https://data.dre.pt/eli/declegreg/19/2010/a/cons/20190530/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-122454595
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2010-122454595
+  retrieved_at: '2026-10-22T12:26:25Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 4cc9a791d34e38cfd71f397d0fdded4c809c0a39f3d54ba6518759174781ba09
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:26:25Z'
+  notes: 2 versão(ões); histórico completo em decreto-legislativo-regional-19-2010-a.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Acesso à Informação
+- Gestão de Resíduos
+- Financiamento
+- Centro de Interpretação Ambiental
+- Comissão de Análise
+- Ordenamento do Território
+- Conselho Regional da ÁGUA
+- Recursos Hídricos
+- Definição de Competências
+- Comissão
+- Gestão dos Recursos
+- Comissão para a Implementação do Mercado Regional de Resíduos
+- Grupo de Trabalho
+- Direito à Informação
+- Comissão Regional de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens
+- Ecoteca
+- REDE Regional de Ecotecas e Centros de Interpretação Ambiental
+- Orgânica
+- Diversidade Biológica
+- Política do Ambiente
+- Presidente
+- Regime de Apoio
+- Organização não Governamental do Ambiente
+- Gratificação
+- Alteração Climática
+- Secretário Geral
+- Açores
+- Transferência de Competências
+- Vogal
+relationships:
+- type: amended_by
+  target: pt:dre:122446608:por
+  label: Adita Artigo 40.º-A; Altera Artigo 34.º; Altera Artigo 35.º; Altera Artigo 39.º; Altera Artigo 41.º; Altera Artigo
+    42.º; Altera Artigo 43.º; Altera Artigo 44.º; Altera Artigo 45.º; Altera Artigo 46.º; Altera Artigo 47.º; Altera Artigo
+    48.º; Altera Artigo 49.º; Altera Artigo 50.º; Altera Artigo 51.º; Altera Artigo 54.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608
+  date: '2019-05-30'
+- type: cites
+  target: celex:32003L0035
+  label: null
+  source: http://data.europa.eu/eli/dir/2003/35/oj
+article_structure:
+  article_count: 57
+  section_count: 9
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:26:25Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 19/2010/A
+
+Decreto Legislativo Regional n.º 19/2010/A
+
+Regulamenta a elaboração e disponibilização de relatórios e informação pública sobre o estado do ambiente, regula o apoio às organizações não governamentais de ambiente e altera a composição e normas de funcionamento do Conselho Regional do Ambiente e do Desenvolvimento Sustentável (CRADS).
+
+A Convenção sobre Acesso à Informação, Participação do Público no Processo de Tomada de Decisão e Acesso à Justiça em Matéria de Ambiente, assinada em Aarhus, na Dinamarca, em 25 de Junho de 1998, conhecida por Convenção de Aarhus, foi adoptada pela Comunidade Europeia e pelos seus Estados membros em Junho de 1998. Em Portugal, a Convenção de Aahrus foi aprovada para ratificação pela Resolução da Assembleia da República n.º 11/2003, de 25 de Fevereiro, e ratificada pelo Decreto do Presidente da República n.º 9/2003, da mesma data.
+
+A Convenção de Aarhus baseia-se na ideia de que a melhoria do acesso do público à informação e à justiça, assim como uma maior participação deste na tomada de decisões em matéria de ambiente, têm como consequência uma melhor aplicação do direito ambiental e comporta três pilares: (1) o acesso do público à informação no domínio do ambiente; (2) o direito de participação do público nos procedimentos ambientais, matéria que foi objecto da Directiva n.º <a href="eurlex.asp?ano=2003&id=303L0035" title="Link para Directiva da Comunidade Europeia">2003/35/CE</a>, do Parlamento Europeu e do Conselho, de 26 de Maio; e, finalmente, (3) o acesso do público à justiça em matéria ambiental.
+
+Com aquele instrumento jurídico pretendeu-se garantir ao público, seja ele uma ou mais pessoas singulares ou colectivas ou associações, agrupamentos ou organizações formadas por essas pessoas, nomeadamente as organizações não governamentais de ambiente, o direito de acesso às informações sobre o ambiente que estejam na posse das instituições e organismos públicos. Tal implica colocar a informação sobre o ambiente à disposição do público, o que no actual estádio de desenvolvimento tecnológico pode ser melhor conseguido através da sua disponibilização em bases de dados electrónicas e facilmente acessíveis.
+
+Nesse contexto, e sem prejuízo da legislação em vigor sobre acesso à justiça e sobre a participação do público na elaboração de certos planos e programas relativos ao ambiente, o presente diploma regula a disponibilização pela administração regional autónoma dos Açores de informação referente ao estado do ambiente e do ordenamento do território, bem como as obrigações daí advenientes.
+
+Reconhecendo que o fomento da participação do público em matérias de ambiente passa pelo apoio, sem prejuízo da sua independência e liberdade de actuação, às associações não governamentais de ambiente para que estas possam assumir o papel de advocacia ambiental que legalmente lhes compete e colaborar com os órgãos da administração pública nas componentes da informação, sensibilização, educação e formação ambientais. É nesse contexto que pelo presente diploma se regula a cooperação técnica e financeira entre a administração regional autónoma e as organizações não governamentais que pretendam exercer acção em matéria de ambiente.
+
+Por outro lado, o processo de participação do público é enriquecido pelo funcionamento de um órgão consultivo da administração regional autónoma especificamente destinado ao debate das matérias de ambiente, assente essencialmente na participação das organizações não governamentais e de outras entidades independentes. Pelo presente diploma dá-se execução ao objectivo político de reforçar as funções do Conselho Regional do Ambiente e do Desenvolvimento Sustentável (CRADS), que passa a incluir representantes de todos os principais sectores interessados da sociedade, fortalecendo a sua independência e permitindo-lhe desempenhar um papel ainda mais importante na elaboração de estratégias de desenvolvimento sustentável e no acompanhamento e controlo da sua aplicação. Abre-se também a possibilidade de transformar aquele órgão num fórum de partilha das boas práticas ambientais, capaz de manter um diálogo aberto e profícuo entre as organizações que o compõem, permitindo a sua participação na rede dos Conselhos Consultivos Europeus para o Ambiente e Desenvolvimento Sustentável (EEAC).
+
+A experiência de funcionamento dos diversos órgãos consultivos e de participação pública em matéria de políticas de ambiente aconselha a que, face à transversalidade das questões ambientais, se crie um órgão único consultivo competente em todas as áreas do ambiente, do ordenamento do território e do desenvolvimento sustentável.
+
+Assumindo que o Conselho Regional do Ambiente e do Desenvolvimento Sustentável, enquanto fórum de reflexão destinado à formulação das políticas de ambiente e desenvolvimento sustentável, deve ter as suas competências reforçadas e a sua composição alargada, pelo presente diploma procede-se à integração naquele conselho das competências que estavam atribuídas ao Conselho Regional da Água (CRA), cuja estrutura e composição foram definidos pelo Decreto Legislativo Regional n.º 37/2002/A, de 28 de Novembro, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 11/2005/A, de 14 de Junho, à Comissão Regional de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens (CRAGERE), criada pelo Decreto Legislativo Regional n.º 15/99/A, de 29 de Abril, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 24/2001/A, de 29 de Novembro, e à Comissão para a Implementação do Mercado Regional de Resíduos (CIMRR), criada pelo Decreto Legislativo Regional n.º 40/2008/A, de 25 de Agosto.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores, nos termos das disposições conjugadas dos artigos 227.º, n.º 1, alínea a), e 112.º, n.º 4, da Constituição da República Portuguesa e dos artigos 37.º, n.os 1 e 2, e 57.º, n.os 1 e 2, alíneas n) e o), do Estatuto Político-Administrativo da Região Autónoma dos Açores, decreta o seguinte:
+
+### Capítulo I — Normas gerais
+
+###### Artigo 1.º — Objecto
+
+1 - O presente diploma regula a elaboração e disponibilização dos relatórios sobre o estado do ambiente e do ordenamento do território necessários à garantia do direito de participação pública em matéria de política de ambiente e o apoio à actividade das organizações não governamentais que se dediquem à promoção da participação pública em matéria de ambiente e à realização de acções de informação, sensibilização, educação e formação ambientais.
+
+2 - O presente diploma procede ainda à alteração da composição e normas de funcionamento do Conselho Regional do Ambiente e do Desenvolvimento Sustentável, adiante designado por CRADS, alargando a sua composição e competências.
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente diploma entendem-se por:
+
+a) «Autoridades públicas» qualquer entidade a nível nacional, regional ou local e as pessoas físicas ou jurídicas desempenhando funções ou responsabilidades na administração pública de acordo com a legislação nacional e regional, incluindo tarefas específicas, actividades ou serviços relacionados com o ambiente, e ainda qualquer outra pessoa física ou jurídica com responsabilidade ou funções na Administração Pública, ou desempenhando serviços na Administração Pública, em matéria de ambiente, sob o controlo de um órgão ou pessoa que desempenhe aquelas funções;
+
+b) «Convenção de Aahrus» a Convenção sobre Acesso à Informação, Participação do Público no Processo de Tomada de Decisão e Acesso à Justiça em Matéria de Ambiente, assinada em Aarhus, na Dinamarca, em 25 de Junho de 1998, aprovada para ratificação pela Resolução da Assembleia da República n.º 11/2003, de 25 de Fevereiro, e ratificada pelo Decreto do Presidente da República n.º 9/2003, da mesma data;
+
+c) «Informação em matéria de ambiente» qualquer informação disponível sob forma escrita, visual, oral, electrónica ou de qualquer outra forma sobre:
+
+i) O estado dos elementos do ambiente, tais como o ar e a atmosfera, a água, o solo, a terra, a paisagem e os sítios naturais, a diversidade biológica e as suas componentes, incluindo, genericamente, organismos modificados e a interacção entre estes elementos;
+
+ii) Factores, tais como substâncias, energia, ruído e radiação, e actividades ou medidas, incluindo medidas administrativas, acordos, políticas, legislação, planos e programas em matéria de ambiente que afectem ou possam afectar os elementos do ambiente, o custo-benefício e outros pressupostos e análises económicas utilizados no processo de tomada de decisão em matéria de ambiente;
+
+iii) O estado da saúde e da segurança das pessoas, as condições de vida humana, os sítios culturais e estruturas construídas, tanto quanto sejam ou possam ser afectados pelo estado dos elementos do ambiente ou, através desses elementos, pelos factores, actividades ou medidas acima mencionados;
+
+d) «Público» uma ou mais pessoas físicas ou jurídicas e as suas associações, organizações ou grupos;
+
+e) «Público interessado» o público afectado ou que possa ser afectado, ou que tenha interesse no processo de tomada de decisão incluindo, para os fins desta definição, as organizações não governamentais que promovam a protecção do ambiente e preencham os requisitos definidos na legislação nacional e regional aplicável.
+
+### Capítulo II — Disponibilização de informação sobre o ambiente
+
+###### Artigo 3.º — Relatórios sobre o estado do ambiente
+
+1 - Cabe ao departamento da administração regional autónoma competente em matéria de ambiente elaborar os relatórios e demais documentos necessários à garantia do direito de participação pública em matéria de ambiente e de ordenamento do território e a servir de base, no que se refere à Região Autónoma dos Açores, ao cumprimento das obrigações de comunicação contidas no artigo 49.º da Lei n.º 11/87, de 7 de Abril, que define as bases da política de ambiente.
+
+2 - O Governo Regional apresenta à Assembleia Legislativa, de três em três anos, um relatório sobre o estado do ambiente, nele se incluindo as matérias referentes ao estado do ordenamento do território nos Açores.
+
+3 - O relatório a que se refere o número anterior deve conter, pelo menos, informação sobre as seguintes matérias:
+
+a) Enquadramento geral da situação ambiental, incluindo a situação demográfica e sócio-económica;
+
+b) Situação climática e cenários e impactes das alterações climáticas;
+
+c) Estado do oceano, qualidade das águas costeiras e de transição e situação dos recursos haliêuticos e dos fundos oceânicos;
+
+d) Disponibilidade e utilização dos recursos hídricos, qualidade e estado das massas de água doce;
+
+e) Uso dos solos e estado do sistema de ordenamento do território e de conservação da paisagem;
+
+f) Situação do sistema de áreas protegidas e da conservação da biodiversidade e da geodiversidade, incluindo o estado de conservação das espécies endémicas e a evolução das espécies invasoras;
+
+g) Qualidade do ar e principais fontes de poluição atmosférica e de poluição sonora;
+
+h) Incidências ambientais da produção e utilização de energia, intensidade energética e impacte ambiental do sector energético;
+
+i) Incidências ambientais do funcionamento dos sistemas de transportes;
+
+j) Gestão de resíduos e sua incidência ambiental;
+
+k) Riscos naturais e antropogénicos;
+
+l) Promoção e educação ambiental;
+
+m) Legislação ambiental e evolução institucional;
+
+n) Investimentos em matéria ambiental das administrações central, regional e local nos Açores.
+
+###### Artigo 4.º — Disponibilização de informação sobre o estado do ambiente
+
+1 - O departamento da administração regional competente em matéria de ambiente mantém no portal do Governo Regional na Internet a informação pública produzida em matéria ambiental, incluindo os relatórios e documentos a que se refere o artigo anterior.
+
+2 - A informação referida no número anterior inclui ainda uma base de dados de imagem e multimédia sobre o ambiente nos Açores, facilmente acessível e cujo conteúdo pode ser livremente reproduzido e utilizado para qualquer fim lícito, incluindo a republicação.
+
+3 - A informação a que se refere o n.º 1 inclui ainda a compilação de todos os instrumentos de ordenamento do território eficazes e informação sobre o estado do ordenamento do território.
+
+###### Artigo 5.º — Acesso à informação em matéria de ambiente
+
+1 - Sem prejuízo do disposto na lei quanto ao acesso a documentos administrativos, o acesso à informação em matéria de ambiente que se encontre na posse dos organismos da administração regional autónoma e da administração local dos Açores rege-se pelos princípios constantes da Convenção de Aahrus.
+
+2 - As autoridades públicas da administração regional autónoma e local em resposta a solicitação de informação em matéria de ambiente disponibilizam essa informação ao público, incluindo, quando solicitado, cópias da documentação actualizada contendo e abrangendo tal informação.
+
+3 - O disposto no número anterior não exige a prova de ter um interesse na questão e deve ser fornecida na forma requerida excepto se for razoável para a autoridade pública disponibilizar a informação de forma diferente, justificando nesse caso esta forma de disponibilização, ou se a informação já tiver sido divulgada de outra forma.
+
+4 - A informação em matéria de ambiente é facultada logo que possível e o mais tardar 30 dias após o pedido ter sido apresentado, excepto se o volume e a complexidade da informação justificarem um alargamento deste prazo até 60 dias após a solicitação, sendo o interessado informado do prolongamento do prazo e das razões que o fundamentam.
+
+5 - Um pedido de informação em matéria de ambiente apenas pode ser recusado quando:
+
+a) A autoridade pública a quem foi solicitado não detiver essa informação ou o pedido carecer de razoabilidade ou tiver sido formulado de modo demasiado vago;
+
+b) A sua divulgação prejudicar a confidencialidade dos procedimentos das autoridades públicas, quando esta confidencialidade se encontre prevista na legislação aplicável, nomeadamente se interferir com o curso da justiça ou a capacidade da autoridade pública conduzir uma investigação de natureza criminal ou disciplinar;
+
+c) O pedido envolver matéria inacabada ou comunicações internas de autoridades públicas em que tal isenção está contemplada na legislação ou na prática habitual, tendo em atenção o interesse que a divulgação dessa informação possa ter para o público;
+
+d) O seu conhecimento público prejudicar as relações internacionais, a defesa nacional ou a segurança pública;
+
+e) A divulgação prejudicar os direitos de propriedade intelectual ou a confidencialidade de informações industriais ou comerciais que visem proteger um interesse económico legítimo, excepto no que respeita às informações sobre emissões que sejam relevantes para a protecção do ambiente;
+
+f) Comprometa a confidencialidade de dados ou registos pessoais que se refiram a pessoa física quando esta pessoa não tiver autorizado a sua divulgação pública ou os interesses de terceiros que forneceram a informação solicitada sem que estes se possam encontrar ou se encontrem juridicamente obrigados a fazê-lo, e quando estes não permitam a sua divulgação;
+
+g) Possa colocar em risco valores do ambiente a que se refere a informação, nomeadamente quando inclua informação que possa ser utilizada para a apropriação indevida de um recurso ou a localização de espécies raras.
+
+6 - Os fundamentos para recusa constantes do número anterior são sempre interpretados tendo em consideração o interesse do público servido pela sua divulgação, não podendo ser invocados se a informação solicitada se relacionar directamente com emissões para o ambiente.
+
+7 - Quando uma autoridade pública não possuir a informação solicitada em matéria de ambiente deve, o mais rapidamente possível, transferir o pedido para a autoridade pública apropriada e disso informar o interessado.
+
+### Capítulo III — Apoio às organizações não governamentais de ambiente
+
+#### Secção I — Conceitos
+
+###### Artigo 6.º — Organizações não governamentais de ambiente
+
+1 - Nos termos do artigo 2.º da Lei n.º 35/98, de 18 de Julho, entende-se por organização não governamental de ambiente (ONGA) uma associação dotada de personalidade jurídica e constituída nos termos da lei geral que não prossiga fins lucrativos, para si ou para os seus associados, e vise, exclusivamente, a defesa e valorização do ambiente ou do património natural e construído, bem como a conservação da natureza.
+
+2 - Podem ser equiparadas a organizações não governamentais de ambiente outras associações, nomeadamente sócio-profissionais, culturais e científicas, que não prossigam fins partidários, sindicais ou lucrativos, para si ou para os seus associados e tenham como área de intervenção principal o ambiente, o património natural e construído ou a conservação da natureza.
+
+3 - São ainda consideradas organizações não governamentais de ambiente as associações dotadas de personalidade jurídica e constituídas nos termos da lei geral que não tenham fins lucrativos e resultem do agrupamento de várias organizações não governamentais de ambiente ou destas com equiparadas.
+
+###### Artigo 7.º — Defesa e valorização do ambiente
+
+Para efeitos do presente diploma, os conceitos de defesa e valorização do ambiente, património natural e construído e conservação da natureza são os constantes da Constituição da República Portuguesa e da Lei de Bases do Ambiente.
+
+#### Secção II — Registo regional de organizações não governamentais de ambiente
+
+###### Artigo 8.º — Registo regional
+
+1 - Na dependência do departamento da administração regional competente em matéria de ambiente funciona um registo regional de organizações não governamentais de ambiente.
+
+2 - São admitidas ao registo as organizações que satisfazendo o disposto no artigo 6.º do presente diploma tenham sede na Região Autónoma dos Açores e agreguem pelo menos 50 associados.
+
+3 - Podem ainda ser admitidas a registo as delegações, núcleos e outras formas de representação de associações de carácter nacional e internacional que demonstrem ter pelo menos 100 associados residentes nos Açores.
+
+4 - Para efeitos de inscrição, o número de associados das organizações não governamentais de ambiente que resultem do agrupamento de associações é calculado pelo somatório do número de associados das organizações não governamentais de ambiente ou equiparadas que as integram, relevando apenas as associações que visem exclusivamente a defesa e valorização do ambiente, do património natural e construído ou a conservação da natureza.
+
+5 - O conteúdo do registo é público, sendo disponibilizado no portal do Governo Regional na Internet.
+
+###### Artigo 9.º — Inscrição no registo
+
+1 - O requerimento para inscrição no registo é dirigido ao membro do Governo Regional competente em matéria de ambiente, instruído com os seguintes documentos:
+
+a) Cópia do acto de constituição e dos estatutos actualizados;
+
+b) Cópia do instrumento pelo qual foi publicado o extracto do acto de constituição e a alteração aos estatutos;
+
+c) Cópia do cartão de identificação de pessoa colectiva;
+
+d) Declaração de número de associados;
+
+e) Declaração do valor das quotas dos associados;
+
+f) Plano de actividades;
+
+g) Relatório de actividades e relatório de contas;
+
+h) Indicação da área geográfica de actuação;
+
+i) Cópia da acta da assembleia geral relativa à eleição dos membros dos órgãos sociais e sua identificação.
+
+2 - Para a correcta apreciação do pedido de inscrição, podem ser solicitados à associação elementos adicionais considerados importantes para a decisão.
+
+3 - Após audiência dos interessados, nos termos do Código do Procedimento Administrativo, é emitida decisão final, da qual devem constar os respectivos fundamentos de facto e de direito.
+
+4 - Os actos de admissão a registo e respectiva suspensão e cancelamento são publicados no Jornal Oficial por despacho do membro do Governo Regional competente em matéria de ambiente.
+
+5 - As organizações não governamentais de ambiente e equiparadas têm direito a obter declaração comprovativa da sua inscrição no registo.
+
+###### Artigo 10.º — Direitos decorrentes da inscrição no registo
+
+1 - As organizações não governamentais de ambiente e equiparadas, inscritas no registo regional, gozam dos direitos estabelecidos no presente diploma, nomeadamente o direito ao apoio técnico e financeiro por parte da administração regional autónoma e o de participação na definição das políticas regionais de ambiente.
+
+2 - Os dirigentes e os membros das organizações não governamentais de ambiente designados para exercer funções de representação no âmbito do funcionamento de órgãos consultivos dependentes da administração regional autónoma gozam dos direitos consagrados no artigo 8.º da Lei n.º 35/98, de 18 de Julho.
+
+###### Artigo 11.º — Deveres decorrentes da inscrição no registo
+
+1 - As organizações não governamentais de ambiente e equiparadas obrigam-se a enviar ao departamento da administração regional autónoma competente em matéria de ambiente, até 30 dias úteis após a sua verificação, as alterações aos seguintes elementos:
+
+a) Extracto da acta da assembleia geral relativa à eleição dos órgãos sociais, identificação dos seus titulares e respectivo termo de posse;
+
+b) Extracto da acta da assembleia geral relativa à alteração dos estatutos;
+
+c) Cópia do instrumento pelo qual foi publicado o extracto da alteração dos estatutos;
+
+d) Alteração do valor da quotização dos seus associados;
+
+e) Alteração da sede.
+
+2 - As organizações não governamentais de ambiente e equiparadas estão ainda obrigadas a enviar até 30 de Abril de cada ano:
+
+a) Os planos de actividades, relatório de actividades e relatório de contas aprovados pelos órgãos estatutários competentes;
+
+b) A declaração do número de associados em 31 de Dezembro do ano anterior.
+
+3 - As organizações não governamentais de ambiente e equiparadas obrigam-se ainda a aceitar as auditorias que lhes sejam determinadas nos termos do presente diploma e a apresentar, quando recebam apoio técnico ou financeiro da administração regional autónoma, os respectivos relatórios finais de execução e os comprovativos das despesas suportadas.
+
+###### Artigo 12.º — Modificação e suspensão do registo
+
+1 - O departamento da administração regional competente em matéria de ambiente promove a modificação do registo, oficiosamente ou a requerimento da entidade, sempre que as características de uma associação registada se alterem.
+
+2 - No processo de modificação oficiosa do registo é obrigatória a audiência prévia da entidade interessada.
+
+3 - A inscrição no registo é suspensa a requerimento da entidade interessada ou por decisão fundamentada do membro do Governo Regional competente em matéria de ambiente, proferida na sequência de uma auditoria.
+
+4 - A inscrição é, ainda, suspensa por decisão do membro do Governo Regional competente em matéria de ambiente quando a entidade, depois de devidamente notificada, não envie a documentação relativa ao registo e ao apoio financeiro que está legalmente obrigada a apresentar, excepto quando tal facto não lhe seja imputável.
+
+5 - A suspensão da inscrição da organização não governamental de ambiente ou equiparada determina, enquanto durar, a impossibilidade de participação nos órgãos em que tenha assento e de candidatura ao apoio técnico e financeiro previstos no presente diploma.
+
+6 - À modificação e suspensão do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido no artigo 9.º do presente diploma.
+
+###### Artigo 13.º — Anulação do registo
+
+1 - A inscrição no registo é anulada a requerimento da entidade interessada ou por decisão fundamentada do membro do Governo Regional competente em matéria de ambiente, proferida na sequência de uma auditoria.
+
+2 - A inscrição é, ainda, anulada quando se verifique a suspensão de inscrição de uma entidade por prazo superior a dois anos.
+
+3 - À anulação do registo aplica-se, com as necessárias adaptações, o procedimento estabelecido no artigo 9.º do presente diploma.
+
+###### Artigo 14.º — Auditorias
+
+1 - Cabe ao departamento da administração regional autónoma competente em matéria de ambiente fiscalizar o cumprimento da Lei n.º 35/98, de 18 de Julho, e do estabelecido pelo presente diploma através da realização de auditorias regulares ou extraordinárias às organizações não governamentais de ambiente e equiparadas inscritas no registo.
+
+2 - As auditorias têm por objectivo a verificação dos elementos fornecidos para efeitos de registo ou no quadro do apoio técnico e financeiro, designadamente:
+
+a) Plano de actividades, relatório de actividades e relatório de contas;
+
+b) Quotizações;
+
+c) Actas de eleição dos corpos sociais.
+
+3 - Das auditorias pode resultar, nos termos dos artigos 12.º e 13.º do presente diploma, a suspensão ou a anulação da inscrição no registo.
+
+4 - As auditorias às organizações não governamentais de ambiente e equiparadas realizam-se na respectiva sede social e são efectuadas por uma comissão nomeada pelo membro do Governo Regional competente em matéria de ambiente.
+
+5 - A comissão é constituída por trabalhadores que exercem funções públicas do departamento atrás referido e, quando necessário, por peritos externos.
+
+6 - As auditorias extraordinárias são desencadeadas por despacho do membro do Governo Regional competente em matéria de ambiente quando a entidade não apresente, no prazo fixado, os relatórios relativos à execução de acções financiadas pela administração regional autónoma ou existam fortes indícios de que a entidade:
+
+a) Não preenche os requisitos exigidos para a manutenção da sua inscrição no registo;
+
+b) Não desenvolve qualquer actividade há mais de 12 meses;
+
+c) Não realiza assembleias gerais há mais de 18 meses;
+
+d) Cometeu qualquer irregularidade na aplicação de apoio concedido pela administração regional autónoma.
+
+#### Secção III — Apoio técnico-financeiro às ONGA
+
+###### Artigo 15.º — Apoio técnico e financeiro
+
+1 - A administração regional autónoma, através do departamento governamental competente em matéria de ambiente, mantém um regime de apoio técnico e financeiro às organizações não governamentais de ambiente que nesse âmbito desenvolvam actividades consideradas de relevante interesse público.
+
+2 - Os apoios a conceder visam assegurar acções no âmbito da promoção da participação pública e da defesa do consumidor em matéria de ambiente e da informação, sensibilização, educação e formação ambientais.
+
+3 - Os apoios podem ainda visar a gestão de estruturas integradas na rede regional de ecotecas e centros de interpretação ambiental.
+
+###### Artigo 16.º — Condições de acesso dos requerentes
+
+1 - Constituem condições de acesso dos requerentes:
+
+a) Estarem inscritos no registo regional a que se refere o artigo 8.º do presente diploma;
+
+b) Encontrarem-se os seus órgãos sociais regularmente constituídos;
+
+c) Terem a sua situação contributiva regularizada perante o Estado e a segurança social, bem como perante a entidade que atribui o subsídio;
+
+d) Disporem, ou comprometerem-se a dispor, das autorizações e licenciamentos necessários;
+
+e) Demonstrarem idoneidade, designadamente no que respeita à existência de condições para a prossecução das actividades ou acções propostas;
+
+f) Estar demonstrada a adequação dos projectos a apoiar às necessidades de informação, sensibilização, educação e formação ambientais, de acordo com as prioridades definidas pelo Governo Regional e estarem asseguradas as condições para o desenvolvimento das actividades ou acções a desenvolver;
+
+g) Os seus dirigentes com funções directivas não se encontrarem em situação de incumprimento ou não desempenharem funções como membros efectivos no órgão de direcção de entidades que estejam em incumprimento, na sequência de apoios concedidos ao abrigo de outros sistemas de apoio financeiro público.
+
+2 - O disposto na alínea g) do número anterior só não é aplicável quando for feita prova documental escrita de que o interessado, enquanto titular e no desempenho de funções de direcção em entidades ou se encontrem em incumprimento na sequência de apoios concedidos ao abrigo de outros sistemas de apoio financeiro público, se manifestou expressamente contra a situação de incumprimento em causa.
+
+###### Artigo 17.º — Âmbito e modalidades de apoio
+
+1 - Os apoios previstos no presente diploma destinam-se a comparticipar encargos com:
+
+a) Acções e eventos a realizar nos Açores cujo interesse seja reconhecido pelo departamento do Governo Regional com competência em matéria de ambiente;
+
+b) Acções e eventos com interesse relevante para a promoção e divulgação dos valores ambientais;
+
+c) Participação em eventos a realizar fora dos Açores que tenham relevância para a promoção dos valores ambientais na Região;
+
+d) Aquisição, remodelação, beneficiação, ampliação ou construção de infra-estruturas destinadas a actividades da associação.
+
+2 - Os apoios podem revestir as seguintes modalidades:
+
+a) Contratos de cooperação técnica e financeira;
+
+b) Contratos de financiamento;
+
+c) Protocolos;
+
+d) Subsídios.
+
+###### Artigo 18.º — Contratos de cooperação técnica e financeira
+
+1 - Os contratos de cooperação técnica e financeira visam a execução de projectos específicos ou de programas de actividades previstos no plano de acções do Governo Regional para o ambiente que possam, desta forma, ser executados com maior eficiência e apoio especializado.
+
+2 - A cooperação técnica a que alude o número anterior pode envolver o financiamento da aquisição do equipamento necessário à execução dos projectos ou programas.
+
+3 - A cooperação técnica e financeira para a aquisição, remodelação, beneficiação, ampliação ou construção de infra-estruturas, sedes e outras instalações não pode ultrapassar 50 % do investimento comparticipado.
+
+4 - Os contratos acima referidos podem ser celebrados conjuntamente com diversas entidades, no caso de o objecto do contrato lhes ser comum, não lhes sendo nesse caso aplicado o limite estabelecido no número anterior.
+
+###### Artigo 19.º — Contrato de financiamento
+
+1 - Os contratos de financiamento destinam-se a apoiar projectos específicos ou programas de actividades apresentados por organizações não governamentais de ambiente que se revistam de relevante interesse público em matéria de ambiente.
+
+2 - Os contratos de financiamento não englobam despesas com aquisição, construção ou arrendamento de instalações nem as de aluguer de equipamento que não se destinem exclusivamente ao desenvolvimento do projecto apoiado.
+
+###### Artigo 20.º — Protocolos
+
+1 - Os protocolos são objecto de negociação entre o departamento do Governo Regional com competência em matéria de ambiente e os parceiros considerados estratégicos no desenvolvimento de actividades que se enquadrem nos objectivos previstos no presente diploma, devendo em cada caso definir-se as obrigações recíprocas.
+
+2 - Os protocolos têm obrigatoriamente de conter os objectivos da acção ou acções a desenvolver, as obrigações das partes e a identificação dos recursos financeiros e materiais a alocar por cada contratante.
+
+###### Artigo 21.º — Subsídios
+
+1 - Os subsídios destinam-se a apoiar actividades temporárias e isoladas que sejam consideradas de interesse para o ambiente face aos objectivos que visam.
+
+2 - As entidades que tenham celebrado alguns dos contratos previstos nos artigos anteriores podem candidatar-se aos subsídios referidos no número anterior, sempre que promovam actividades não englobadas nos contratos mencionados.
+
+###### Artigo 22.º — Pedido de apoio
+
+1 - O pedido de apoio é efectuado em formulário próprio a disponibilizar no portal do Governo Regional na Internet.
+
+2 - O pedido de apoio deve ser acompanhado de descrição da actividade a apoiar e do respectivo orçamento discriminado.
+
+3 - No caso das candidaturas a apoios para remodelação, beneficiação, ampliação ou construção de infra-estruturas destinadas a actividades das associações, antes do primeiro pagamento, o processo deverá ser instruído com o respectivo projecto de arquitectura, cópia do alvará municipal de licença de obras, certidão da deliberação municipal que aprovou o projecto ou documento comprovativo da isenção de licenciamento municipal.
+
+4 - O departamento governamental com competência em matéria de ambiente pode solicitar aos requerentes, sempre que considere necessário, informações detalhadas e documentos adicionais.
+
+5 - A apresentação dos pedidos de apoio pode ser efectuada em qualquer data, ficando, no entanto, a decisão de atribuição do respectivo apoio dependente das disponibilidades financeiras orçamentadas para efeito no ano económico em causa.
+
+###### Artigo 23.º — Indeferimento dos pedidos de apoio
+
+1 - Os pedidos de apoio são liminarmente indeferidos quando:
+
+a) Os requerentes não reúnam as condições de acesso previstas no artigo 16.º do presente diploma;
+
+b) O pedido não se enquadre no âmbito ou modalidades fixadas no artigo 17.º do presente diploma.
+
+2 - Os pedidos de apoio são, ainda, indeferidos quando os requerentes não respondam adequadamente, no prazo de 10 dias úteis, às solicitações referidas no n.º 4 do artigo anterior.
+
+###### Artigo 24.º — Comissão de apreciação
+
+1 - A apreciação dos pedidos de apoio é efectuada por uma comissão a constituir por despacho do membro do Governo Regional com competência em matéria de ambiente.
+
+2 - A comissão é composta por cinco elementos efectivos e dois suplentes.
+
+3 - A comissão elabora um relatório de apreciação dos pedidos nos meses de Abril e de Setembro relativamente às candidaturas apresentadas até ao último dia útil dos meses de Março e Agosto, respectivamente.
+
+4 - O relatório referido no número anterior é submetido ao membro do Governo Regional com competência em matéria de ambiente.
+
+5 - A comissão de apreciação das candidaturas efectua uma análise qualitativa dos pedidos, pronunciando-se pela sua aptidão ou não, sem proceder a uma avaliação relativa entre as várias candidaturas.
+
+###### Artigo 25.º — Concessão de apoio
+
+1 - O membro do Governo Regional com competência em matéria de ambiente decide no prazo de 15 dias seguidos, a contar da data da conclusão do relatório elaborado pela comissão de apreciação, sobre a viabilidade do apoio e o montante a atribuir.
+
+2 - A concessão dos apoios, considerando a relevância e o domínio que abrangem, poderá ser comparticipada por mais de um departamento governamental, competindo ao departamento governamental com competência em matéria de ambiente promover a necessária articulação.
+
+3 - No caso do apoio ser concedido na totalidade, poderá ser cedido, sob a forma de adiantamento, até 80 % do montante total atribuído à acção, evento ou investimento.
+
+4 - O valor remanescente do apoio é concedido quando os promotores apresentarem, no prazo máximo de 30 dias úteis, contados a partir da conclusão da acção, evento ou iniciativa:
+
+a) Facturas e recibos ou outros documentos justificativos das despesas suportadas para a sua realização;
+
+b) Relatório circunstanciado sobre a sua execução e resultados, considerando os objectivos previamente assumidos.
+
+5 - As acções ou eventos devem ser realizados no prazo de 12 meses contados a partir da data da assinatura do contrato, salvo se deste resultar outro prazo.
+
+6 - A concessão dos apoios só produz efeitos após a sua publicação no Jornal Oficial.
+
+###### Artigo 26.º — Revisão do apoio
+
+O montante dos apoios concedidos pode ser revisto por decisão do membro do Governo Regional com competência em matéria de ambiente, caso ocorra uma alteração superveniente e imprevista das circunstâncias que estiveram subjacentes à celebração do contrato ou protocolo.
+
+###### Artigo 27.º — Obrigações dos beneficiários
+
+1 - Os requerentes ficam sujeitos às seguintes obrigações:
+
+a) Executar as acções, eventos ou iniciativas nos moldes e prazos previstos na candidatura;
+
+b) Cumprir as obrigações legais, designadamente as fiscais;
+
+c) Fornecer, nos prazos estabelecidos, todas as informações, documentos ou outros elementos que lhes sejam solicitados ao abrigo do disposto no presente diploma;
+
+d) Prestar as contrapartidas no âmbito da actividade desenvolvida que forem estabelecidas no documento formalizador da concessão dos apoios.
+
+2 - As contrapartidas previstas na alínea d) do número anterior podem consistir nomeadamente na:
+
+a) Cedência de instalações;
+
+b) Disponibilização de ingressos;
+
+c) Realização de acções educativas ou outras destinadas à promoção ambiental;
+
+d) Doação de obras produzidas ou publicadas.
+
+###### Artigo 28.º — Acompanhamento e controlo
+
+1 - Compete ao departamento do Governo Regional com competência em matéria de ambiente efectuar o controlo da aplicação dos apoios.
+
+2 - O departamento do Governo Regional com competência em matéria de ambiente pode, sempre que o julgue oportuno, promover auditorias junto das entidades beneficiárias, realizadas nos termos do artigo 14.º do presente diploma, obrigando-se estas a facultar toda a informação e apoio que lhes vier a ser solicitado.
+
+3 - Em caso de incumprimento das obrigações dos promotores, há lugar à restituição do apoio já liquidado, nos termos aplicados às dívidas ao Estado.
+
+4 - Os juros contam-se a partir da data de pagamento do apoio até à data do despacho em que o membro do Governo Regional com competência em matéria de ambiente reconhecer o incumprimento.
+
+###### Artigo 29.º — Responsabilidade pessoal e solidária
+
+No quadro da aplicação do presente diploma, os membros de associações e comissões sem personalidade jurídica respondem pessoal e solidariamente perante a Região Autónoma dos Açores, nomeadamente para efeitos do disposto no n.º 3 do artigo 28.º do presente diploma.
+
+###### Artigo 30.º — Apoio a outras instituições
+
+Exclusivamente para efeitos do presente regime de apoio às organizações não governamentais de ambiente, podem ser a elas equiparadas em direitos e obrigações dele resultantes:
+
+a) As unidades orgânicas do sistema educativo regional para a celebração de protocolos visando a realização de acções de educação e formação ambiental dirigidas directamente aos seus alunos;
+
+b) Entidades de natureza particular e não lucrativa para celebração de protocolos visando a gestão de ecotecas e centros de interpretação ambiental;
+
+c) Associações humanitárias de bombeiros voluntários, para celebração de protocolos visando a vigilância e segurança de áreas protegidas;
+
+d) Entidades de natureza particular e não lucrativa e pessoas singulares, para efeitos de concessão de subsídios visando a produção ou edição de materiais de promoção ambiental destinadas à distribuição pela rede regional de ecotecas e centros de interpretação ambiental.
+
+### Capítulo IV — Ecotecas e centros de interpretação ambiental
+
+###### Artigo 31.º — Ecotecas
+
+1 - As ecotecas são espaços didácticos e pedagógicos para a promoção, sensibilização, formação e informação sobre o ambiente e o desenvolvimento sustentável do território.
+
+2 - Às ecotecas compete nomeadamente:
+
+a) Promover sessões temáticas sobre questões ambientais, ordenamento do território e o uso racional das energias;
+
+b) Elaborar e editar materiais de promoção e educação ambiental adequados aos públicos que serve e às características ambientais e sociais da sua área de influência;
+
+c) Divulgar e promover itinerários ambientais;
+
+d) Divulgar e promover visitas de estudos a locais de relevância ambiental e de bons exemplos de ordenamento do território;
+
+e) Disponibilizar um espaço de acesso acompanhado e orientado à Internet sobre questões ambientais e energias renováveis;
+
+f) Proporcionar nas respectivas sedes actividades laboratoriais, oficinas de trabalho e jogos pedagógicos de temática ambiental;
+
+g) Apoiar as acções de carácter ambiental promovidas pelo sistema educativo sempre que para isso forem solicitadas;
+
+h) Divulgar e dinamizar a comemoração de dias relacionados com o ambiente, com o uso sustentável do território e com as energias renováveis e alternativas.
+
+3 - As ecotecas exercem a sua acção junto da população em geral, mas devem procurar manter estreita colaboração com as associações não governamentais de defesa do ambiente e as unidades orgânicas do sistema educativo, de todos os níveis e modalidades, existentes na sua área de influência.
+
+4 - As ecotecas podem ser operadas directamente pelos serviços dependentes do departamento da administração regional autónoma competente em matéria de ambiente ou funcionar mediante protocolo a estabelecer, nos termos do artigo 20.º do presente diploma, entre a administração regional autónoma e organizações não governamentais de ambiente ou outras entidades de natureza particular e não lucrativa.
+
+###### Artigo 32.º — Centros de interpretação ambiental
+
+1 - Os centros de interpretação ambiental são estruturas destinadas a promover o conhecimento e a conservação de áreas protegidas, paisagens, habitats, geossítios, espécies notáveis ou outros elementos de interesse ambiental.
+
+2 - Cabe aos centros de interpretação ambiental produzir e manter exposições e disponibilizar informação especializada sobre os valores ambientais a que se encontrem associados e promover e regular a visitação nas áreas onde esses valores tenham particular expressão.
+
+3 - Os centros de interpretação podem ainda produzir e editar obras e realizar eventos culturais e científicos tendo como tema os valores ambientais a que se encontrem associados.
+
+4 - Os centros de interpretação ambiental funcionam integrados nas estruturas dos parques naturais de ilha, podendo a sua gestão ser objecto de protocolo, nos termos do artigo 20.º do presente diploma, entre a administração regional autónoma e organizações não governamentais de ambiente ou outras entidades de natureza particular e não lucrativa.
+
+###### Artigo 33.º — Rede regional de ecotecas e centros de interpretação ambiental
+
+1 - As ecotecas e centros de interpretação ambiental que funcionem na dependência directa da administração regional autónoma ou que sejam objecto de protocolo nos termos do artigo 20.º do presente diploma operam de forma coordenada formando uma rede regional de ecotecas e centros de interpretação ambiental.
+
+2 - A rede regional de ecotecas e centros de interpretação ambiental visa a optimização do funcionamento das estruturas nela integradas através da partilha de materiais, a criação de uma linha comum de comunicação e imagem e a realização de eventos coordenados por forma a maximizar o seu impacte junto dos públicos alvo.
+
+3 - A coordenação do funcionamento da rede regional de ecotecas e centros de interpretação ambiental cabe ao departamento da administração regional autónoma competente em matéria de ambiente.
+
+### Capítulo V — Conselho Regional do Ambiente e do Desenvolvimento Sustentável
+
+###### Artigo 34.º — Natureza e âmbito
+
+O Conselho Regional do Ambiente e do Desenvolvimento Sustentável, abreviadamente designado por CRADS, é um órgão consultivo do departamento da administração regional autónoma competente em matéria de ambiente, constituído com o objetivo de contribuir para a garantia do direito de participação pública em matérias relativas às políticas públicas de ambiente e sustentabilidade, e de assegurar o diálogo e cooperação com entidades e organizações da sociedade civil com interesse nos domínios ambiental e do desenvolvimento sustentável, na procura de consensos relativos a essas políticas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 35.º — Competências gerais
+
+1 - Ao CRADS compete a emissão de pareceres e recomendações relativas à formulação das linhas gerais de ação da administração regional autónoma nos domínios ambiental e do desenvolvimento sustentável, nomeadamente em matéria de conservação da natureza e da biodiversidade, do ordenamento do território, da gestão dos recursos hídricos, de política de resíduos, das estratégias de mitigação e adaptação às alterações climáticas, e das políticas energética e de mobilidade sustentável.
+
+2 - No exercício das suas competências cabe genericamente ao CRADS:
+
+a) Aconselhar as instâncias governamentais competentes em matéria de ambiente, assistindo-as na elaboração das estratégias de desenvolvimento sustentável e publicando relatórios sobre determinadas políticas;
+
+b) Acompanhar e controlar os progressos na aplicação das estratégias de desenvolvimento sustentável ou na consecução de objectivos específicos e chamar a atenção para eventuais lacunas;
+
+c) Promover o diálogo e a consulta da sociedade civil, associando representantes da sociedade civil aos seus trabalhos, e encorajando o diálogo entre eles e entre eles e o Governo;
+
+d) Comunicar sobre o desenvolvimento sustentável, participando em eventos públicos e publicando informações sobre o desenvolvimento sustentável;
+
+e) Participar na definição e acompanhamento das políticas ambientais referentes ao espaço marítimo adjacente ao arquipélago dos Açores;
+
+f) Participar na definição e acompanhamento das políticas agrícola, florestal e de desenvolvimento rural.
+
+3 - Compete ainda ao CRADS:
+
+a) Emitir parecer sobre a componente referente aos Açores incluída nos documentos sobre o estado do ambiente previstos no artigo 49.º da Lei n.º 11/87, de 7 de Abril, alterada pela Lei n.º 13/2002, de 31 de Dezembro, Lei de Bases do Ambiente;
+
+b) Emitir parecer sobre os relatórios a que se refere o artigo 3.º do presente diploma e sobre outros que por lei ou regulamento o departamento da administração regional autónoma competente em matéria de ambiente deva elaborar;
+
+c) Emitir os pareceres em matéria da sua competência que lhe sejam especificamente solicitados pelo Governo Regional;
+
+d) Aprovar o seu plano anual de atividades e o correspondente relatório anual;
+
+e) Aprovar as normas reguladoras do seu funcionamento interno que considere necessárias.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 36.º — Conservação da natureza e da biodiversidade
+
+Compete, em especial, ao CRADS, em matéria de conservação da natureza e biodiversidade:
+
+a) Emitir parecer sobre a criação, reclassificação e extinção de áreas protegidas;
+
+b) Emitir parecer sobre os planos de ordenamento e de gestão de áreas protegidas;
+
+c) Emitir parecer sobre as medidas legislativas e os planos de gestão com incidência em matéria de espécies exóticas e de manutenção da biodiversidade;
+
+d) Emitir parecer sobre o estado de conservação da natureza e da biodiversidade;
+
+e) Emitir parecer sobre medidas de conservação da geodiversidade e da paisagem.
+
+###### Artigo 37.º — Ordenamento do território
+
+Compete, em especial, ao CRADS, em matéria de ordenamento do território e urbanismo:
+
+a) Emitir parecer sobre medidas legislativas em matéria de ordenamento do território, urbanismo e paisagem;
+
+b) Emitir parecer sobre a estratégia de gestão integrada das zonas costeiras;
+
+c) Emitir parecer sobre questões relacionadas com a prevenção de riscos naturais;
+
+d) Emitir parecer sobre questões de gestão da Reserva Ecológica Regional e Reserva Agrícola Regional.
+
+###### Artigo 38.º — Gestão dos recursos hídricos
+
+Compete, em especial, ao CRADS, em matéria de recursos hídricos:
+
+a) Emitir parecer sobre todas as questões relacionadas com os recursos hídricos e com a gestão da água;
+
+b) Informar os planos e projectos de interesse geral que, significativamente, condicionem o planeamento dos recursos hídricos, incluindo a disponibilização, utilização, conservação, tratamento e economia da água, bem como as alterações substantivas do quadro normativo e institucional;
+
+c) Acompanhar e avaliar a execução do Plano Regional da Água (PRA) e informar sobre eventuais propostas de alteração;
+
+d) Propor linhas de estudo e investigação para o desenvolvimento tecnológico no domínio da água, nomeadamente no que se refere à disponibilização, utilização, conservação, recuperação, tratamento integral e economia da água;
+
+e) Propor as acções que entenda necessárias para a elaboração e implementação dos planos e projectos referidos nas alíneas anteriores;
+
+f) Exercer na Região Autónoma dos Açores as competências que estão atribuídas aos conselhos da região hidrográfica pela Lei n.º 58/2005, de 29 de Dezembro, que aprova a Lei da Água.
+
+###### Artigo 39.º — Gestão de resíduos
+
+Compete, em especial, ao CRADS, no sector dos resíduos:
+
+a) Acompanhar e avaliar a implementação e execução do Plano Estratégico de Prevenção e Gestão de Resíduos dos Açores (PEPGRA) e informar sobre eventuais propostas de alteração;
+
+b) Emitir parecer sobre um relatório de progresso trienal, de divulgação pública, que avalia a evolução e o cumprimento dos objetivos, a execução dos programas e o cumprimento das metas projetados no PEPGRA, particularmente através do quadro de indicadores de avaliação indexados aos programas;
+
+c) Propor medidas nos domínios da redução da produção de resíduos e da gestão de embalagens e resíduos de embalagens.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 40.º — Alterações climáticas
+
+Compete, em especial, ao CRADS, em matéria de alterações climáticas:
+
+a) Emitir parecer sobre a estratégia regional para as alterações climáticas e as suas alterações;
+
+b) Acompanhar a realização das medidas, programas e acções que vierem a ser adoptadas pelo Governo Regional;
+
+c) Emitir parecer sobre questões relacionadas com as políticas regionais para as alterações climáticas;
+
+d) Propor linhas de estudo e investigação para o desenvolvimento tecnológico e científico no domínio do combate às alterações climáticas.
+
+###### Artigo 40.º-A — Energia
+
+Compete, em especial, ao CRADS, em matéria de energia:
+
+a) Emitir parecer sobre a estratégia regional para a energia e acompanhar a realização das medidas, programas e ações que vierem a ser adotadas pelo Governo Regional;
+
+b) Emitir parecer sobre questões relacionadas com as políticas regionais para a energia e mobilidade sustentável;
+
+c) Propor linhas de estudo e investigação para o desenvolvimento tecnológico e científico nos domínios da energia e da mobilidade sustentável.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 41.º — Composição do CRADS
+
+1 - O CRADS é composto pelo membro do Governo Regional com competência em matéria de ambiente, que preside, e pelos seguintes membros:
+
+a) Um representante da Associação de Municípios da Região Autónoma dos Açores;
+
+b) Um representante do Departamento Marítimo dos Açores;
+
+c) Um representante da Polícia de Segurança Pública;
+
+d) Um representante da Guarda Nacional Republicana;
+
+e) O dirigente máximo da Inspeção Regional do Ambiente;
+
+f) O dirigente máximo da Entidade Reguladora dos Serviços de Águas e Resíduos dos Açores;
+
+g) O representante da Região Autónoma dos Açores no Conselho Nacional do Ambiente e do Desenvolvimento Sustentável;
+
+h) Um representante da Universidade dos Açores;
+
+i) Um representante da Federação Agrícola dos Açores;
+
+j) Um representante da Federação das Pescas dos Açores;
+
+k) Um representante das associações do setor florestal com sede na Região Autónoma dos Açores;
+
+l) Um representante da Câmara do Comércio e Indústria dos Açores;
+
+m) Um representante de cada uma das organizações inscritas no registo regional das organizações não governamentais de ambiente;
+
+n) Um representante de cada uma das associações de consumidores com sede na Região Autónoma dos Açores;
+
+o) Um representante da delegação regional dos Açores da Associação Nacional das Freguesias;
+
+p) Um representante das escolas que mantenham programas de educação ambiental reconhecidos pelo departamento regional competente em matéria de ambiente, eleito pelo Conselho Coordenador do Sistema Educativo de entre os presidentes dos conselhos executivos dessas escolas;
+
+q) Um representante de cada uma das organizações com representatividade na Região Autónoma dos Açores reconhecidas pela World Association of Girl Guides and Girl Scouts e pela World Organization of the Scout Movement;
+
+r) Até três representantes de outras entidades, designadas por despacho do membro do Governo Regional competente em matéria de ambiente, ouvido o CRADS.
+
+2 - Participam, ainda, no CRADS, sem direito a voto, os dirigentes máximos dos serviços da administração regional autónoma com competência nas áreas referidas nos artigos 35.º a 40.º-A do presente diploma.
+
+3 - Por iniciativa do presidente ou por proposta da maioria dos membros do CRADS, podem ser convidados para participar nas reuniões do conselho representantes de entidades públicas ou privadas ou outras personalidades, cuja presença seja considerada útil, atendendo à agenda da reunião.
+
+4 - Os convidados a que se refere o número anterior participam nas reuniões do CRADS, sem direito a voto, e em número que, em cada reunião, não pode ser superior a cinco.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 42.º — Mandato
+
+1 - Os membros do CRADS são designados por um período de dois anos, renovável.
+
+2 - Os membros do CRADS assumem funções com a confirmação, pelo secretário-geral, da respetiva designação e tomam posse na reunião imediatamente seguinte.
+
+3 - O mandato de membro do CRADS prorroga-se até à designação de novo representante e por um período máximo de seis meses.
+
+4 - Os membros do CRADS cessam as suas funções por renúncia, caducidade ou perda de mandato.
+
+5 - A renúncia ao mandato é efectuada através de declaração escrita dirigida ao presidente do CRADS e produz efeitos imediatos.
+
+6 - Perdem o mandato os membros do CRADS que cessem a representação da entidade pela qual foram nomeados ou faltem, sem justificação, a três reuniões, ordinárias ou extraordinárias.
+
+7 - A declaração de caducidade ou perda de mandato é feita pelo presidente, verificados qualquer dos factos que lhe dê origem, sendo notificada ao membro e à entidade representada.
+
+8 - (Revogado.)
+
+9 - Das decisões do presidente quanto aos mandatos cabe recurso, a interpor para o plenário, por escrito e no prazo de quinze dias a contar da data da notificação.
+
+10 - O recurso é dirigido ao presidente e apreciado pelo plenário na primeira reunião subsequente à data da sua receção.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 43.º — Presidente
+
+1 - Compete ao presidente do CRADS:
+
+a) Representar o Conselho;
+
+b) Dar posse aos membros;
+
+c) Estabelecer a agenda, convocar e presidir às reuniões do CRADS;
+
+d) Apresentar a proposta de plano anual de actividades, acompanhado da correspondente estimativa orçamental;
+
+e) Apresentar a proposta de relatório de actividades;
+
+f) Orientar as acções do Conselho e solicitar ao plenário parecer sobre matérias da competência do CRADS;
+
+g) Remeter ao Conselho, por sua iniciativa ou a solicitação do departamento governamental competente, os planos e projectos relacionados com matérias ambientais;
+
+h) Constituir grupos de trabalho e determinar o respetivo mandato e prazos para a elaboração da tarefa, designando os respetivos relatores coordenadores, de entre os membros do CRADS;
+
+i) (Revogada.)
+
+j) (Revogada.)
+
+k) Convidar a participar nas reuniões do Conselho ou dos grupos de trabalho, sem direito a voto, quaisquer entidades públicas ou privadas ou outras personalidades cuja presença seja considerada útil;
+
+l) Informar regularmente o Conselho do seguimento dado às deliberações e recomendações do plenário e das actividades desenvolvidas pelos grupos de trabalho;
+
+m) Determinar a elaboração de estudos especializados complementares, de apoio ao âmbito da actividade do Conselho, confiando a sua realização a entidades públicas ou privadas, dando disso informação ao plenário;
+
+n) Nomear, mediante despacho, o secretário-geral do CRADS;
+
+o) Exercer quaisquer outros poderes que lhe sejam atribuídos por lei.
+
+2 - Nas suas ausências e impedimentos, o presidente é substituído pelo dirigente máximo do serviço da administração regional autónoma competente em matéria de ambiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 44.º — Membros e convidados
+
+1 - Compete aos membros do CRADS:
+
+a) Participar nas reuniões;
+
+b) Apreciar, formular propostas e suscitar esclarecimentos sobre os assuntos presentes para apreciação;
+
+c) (Revogada.)
+
+d) Votar as deliberações do plenário, traduzindo o respectivo voto a posição da entidade por si representada se nessa qualidade tiverem sido nomeados;
+
+e) Participar nos grupos de trabalho para os quais forem designados;
+
+f) Requerer a inclusão de assuntos na agenda das reuniões ou a convocação de reuniões extraordinárias, nos termos do disposto no presente diploma.
+
+2 - Os membros do CRADS, no exercício das suas funções, designadamente para a participação em reuniões plenárias e grupos de trabalho a que pertençam, são dispensados das suas atividades profissionais, mediante aviso antecipado às respetivas entidades empregadoras.
+
+3 - As despesas decorrentes da participação dos membros do CRADS são suportadas pelas entidades nele representadas.
+
+4 - As personalidades convidadas, quando não exerçam funções públicas na administração regional autónoma dos Açores, têm direito ao pagamento de despesas de transporte e alojamento, nos termos fixados para os trabalhadores que exercem funções públicas e que aufiram remunerações superiores ao nível 18.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 45.º — Participação dos cidadãos
+
+1 - Os cidadãos podem participar na atividade do CRADS mediante a apresentação de comunicações ao Plenário ou através do respetivo sítio na Internet.
+
+2 - A apresentação de comunicações ao Plenário pode ser solicitada através de requerimento dirigido ao presidente, no qual se indique o objeto e os fundamentos da pretensão, acompanhado da documentação a distribuir pelos membros do CRADS.
+
+3 - Os requerimentos que sejam deferidos pelo presidente são agendados por ordem de entrada e em número nunca superior a dois por cada reunião, notificando-se o requerente da data, hora e local onde deve comparecer, a fim de participar na reunião.
+
+4 - A comunicação referida nos n.os 1 e 2 do presente artigo tem a duração máxima de trinta minutos, seguindo-se igual período de debate.
+
+5 - Os cidadãos podem, ainda, indicar os assuntos que pretendem ver abordados nas reuniões do CRADS ou efetuar comentários e propostas relativamente aos pontos da agenda da reunião, através de formulários disponibilizados no respetivo sítio na Internet.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 46.º — Secretário-geral
+
+1 - O secretário-geral é nomeado pelo presidente, ouvido o plenário do CRADS.
+
+2 - Compete ao secretário-geral:
+
+a) Organizar as reuniões e coordenar as atividades do CRADS entre as reuniões plenárias;
+
+b) Assegurar o envio das convocatórias e agendas das reuniões, bem como dos documentos que devam ser conhecidos ou sobre os quais seja solicitado parecer;
+
+c) Lavrar as atas das reuniões e submetê-las à apreciação dos membros do CRADS;
+
+d) Diligenciar no sentido do eficaz cumprimento das deliberações do plenário;
+
+e) Acompanhar e orientar as actividades dos grupos de trabalho e dos serviços de apoio;
+
+f) Levar ao conhecimento e submeter à aprovação do presidente as medidas que dela careçam;
+
+g) Propor medidas que repute importantes para o prosseguimento das atividades do CRADS;
+
+h) Elaborar, até ao final do mês de janeiro de cada ano, as propostas de relatório de atividades do ano anterior e do plano de atividades para o ano presente;
+
+i) Acompanhar o desenvolvimento e a atualização do sítio na Internet do CRADS.
+
+3 - As funções de secretário-geral são exercidas, em regime de acumulação, por um trabalhador que exerça funções públicas no departamento do Governo Regional com competência em matéria de ambiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 47.º — Funcionamento
+
+1 - O CRADS reúne ordinariamente duas vezes por ano e extraordinariamente sempre que convocado pelo seu presidente, por sua iniciativa ou por solicitação de, pelo menos, um terço dos seus membros.
+
+2 - A convocatória deve ser enviada com a antecedência mínima de quinze dias para as reuniões ordinárias e de oito dias para as reuniões extraordinárias e pode ser feita por qualquer meio de comunicação que assegure o seu efetivo conhecimento e divulgação em tempo útil, devendo conter o dia, hora e local da reunião.
+
+3 - A agenda de cada reunião é estabelecida pelo presidente e enviada com a antecedência mínima de oito dias para as reuniões ordinárias e de quatro dias para as reuniões extraordinárias, acompanhada dos documentos a analisar, e simultaneamente disponibilizada no sítio do CRADS na Internet, para os efeitos previstos no n.º 5 do artigo 45.º
+
+4 - (Revogado.)
+
+5 - Os membros do CRADS, no mínimo de cinco, podem propor ao presidente a inclusão na agenda da reunião de assuntos que reputem de interesse para apreciação, devendo a proposta de agendamento ser remetida ao secretário-geral, acompanhada da respetiva documentação, até dois dias antes dos prazos estabelecidos no número anterior.
+
+6 - (Revogado.)
+
+7 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 48.º — Quórum e deliberações
+
+1 - O Conselho só poderá deliberar, em primeira convocatória, desde que estejam presentes, no mínimo, metade dos seus membros com direito a voto.
+
+2 - Não sendo possível o funcionamento, por falta de quórum, à hora marcada para o início da sessão, o plenário funcionará meia hora depois, com qualquer número de membros, apenas podendo deliberar desde que estejam presentes, pelo menos, um terço dos membros em efetividade de funções.
+
+3 - Só podem ser objeto de deliberação os assuntos incluídos na ordem de trabalhos da reunião, salvo se, tratando-se de reunião ordinária, pelo menos dois terços dos membros reconhecerem a urgência de deliberação imediata sobre outros assuntos.
+
+4 - As deliberações do CRADS são preferencialmente tomadas por consenso e, sempre que tal não se revele possível, por maioria dos membros em efetividade de funções, tendo o presidente voto de qualidade.
+
+5 - Os membros do CRADS podem efetuar declaração de voto, imediatamente após a votação que a origine, ou declarem que a farão por escrito, entregando-a até ao final da respetiva reunião.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 49.º — Actas
+
+1 - De cada reunião do CRADS é lavrada uma ata, contendo um resumo do que nela tiver ocorrido, indicando, designadamente, a data e o local da reunião, os membros presentes e as justificações dos ausentes, os assuntos apreciados, as conclusões e as deliberações tomadas, incluindo o resultado das respetivas votações e, caso existam, as declarações de voto.
+
+2 - (Revogado.)
+
+3 - A ata é submetida à apreciação dos membros do CRADS e votada na reunião seguinte, sendo assinada, após aprovação, pelo presidente e pelo secretário-geral.
+
+4 - Sempre que se mostre necessário, pode ser aprovada, na reunião a que disser respeito, uma minuta da ata, contendo a menção das deliberações tomadas e a forma e o resultado das respetivas votações.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 50.º — Grupos de trabalho
+
+1 - O plenário pode, por proposta do presidente, criar grupos de trabalho, tendo por objeto a elaboração de pareceres, relatórios, estudos ou informações destinados a apoiar a ação e objetivos do CRADS, definindo as respetivas atribuições, duração e modo de funcionamento.
+
+2 - Os grupos de trabalho, incluindo o relator-coordenador, são constituídos por membros do CRADS designados pelo presidente, ouvido o plenário, podendo incluir personalidades convidadas, cuja participação seja considerada útil, em função do respetivo objeto.
+
+3 - (Revogado.)
+
+4 - Compete ao relator-coordenador:
+
+a) Organizar e orientar as atividades do grupo e presidir às respetivas reuniões;
+
+b) (Revogada.)
+
+c) Assegurar o cumprimento dos prazos para as tarefas atribuídas, elaborar o respetivo relatório e apresentar os resultados ao plenário;
+
+d) Informar, sempre que solicitado pelo presidente, sobre a evolução das actividades do grupo.
+
+5 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 51.º — Apoio logístico e administrativo
+
+O apoio logístico e administrativo para o funcionamento do CRADS é assegurado pelos serviços do departamento do Governo Regional com competência em matéria de ambiente.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 52.º — Normas supletivas
+
+Ao funcionamento do CRADS aplicam-se supletivamente as regras relativas aos órgãos colegiais previstas no Código do Procedimento Administrativo.
+
+### Capítulo VI — Normas finais e transitórias
+
+###### Artigo 53.º — Aplicação de legislação
+
+Na aplicação da Lei n.º 35/98, de 18 de Julho, as funções cometidas ao Instituto de Promoção Ambiental são exercidas na Região Autónoma dos Açores pelo departamento da administração regional autónoma competente em matéria de ambiente.
+
+###### Artigo 54.º — Normas transitórias
+
+1 - As referências feitas em diplomas legais ao Conselho Regional do Ambiente, à Comissão Regional de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens, à Comissão para a Implementação do Mercado Regional de Resíduos ou ao Conselho Regional para o Ambiente e Desenvolvimento do Território consideram-se reportadas ao Conselho Regional do Ambiente e do Desenvolvimento Sustentável.
+
+2 - (Revogado.)
+
+3 - (Revogado.)
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto Legislativo Regional n.º 12/2019/A - Diário da República n.º 104/2019, Série I de 2019-05-30](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/12-2019-122446608), em vigor a partir de 2019-05-31
+
+###### Artigo 55.º — Norma revogatória
+
+São revogados:
+
+a) O Decreto Legislativo Regional n.º 37/2002/A, de 28 de Novembro;
+
+b) O Decreto Legislativo Regional n.º 11/2005/A, de 14 de Junho;
+
+c) A Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 10/2007/A, de 18 de Junho;
+
+d) O Decreto Regulamentar Regional n.º 11/99/A, de 26 de Junho;
+
+e) O Decreto Regulamentar Regional n.º 20/99/A, de 21 de Dezembro;
+
+f) O Decreto Regulamentar Regional n.º 9/2001/A, de 10 de Agosto;
+
+g) O Decreto Regulamentar Regional n.º 5/2003/A, de 10 de Fevereiro;
+
+h) A Portaria n.º 31/2003, de 8 de Maio;
+
+i) A Portaria n.º 28/2005, de 14 de Abril;
+
+j) O artigo 4.º do Decreto Legislativo Regional n.º 15/99/A, de 29 de Abril, com as alterações introduzidas pelo Decreto Legislativo Regional n.º 24/2001/A, de 29 de Novembro;
+
+k) Os artigos 22.º e 23.º do Decreto Legislativo Regional n.º 40/2008/A, de 25 de Agosto.
+
+###### Artigo 56.º — Entrada em vigor
+
+O presente decreto legislativo regional entra em vigor no 1.º dia do mês imediato ao da sua publicação.
+
+Aprovado pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 21 de Abril de 2010.
+
+O Presidente da Assembleia Legislativa, Francisco Manuel Coelho Lopes Cabral.
+
+Assinado em Angra do Heroísmo em 6 de Maio de 2010.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma dos Açores, José António Mesquita.

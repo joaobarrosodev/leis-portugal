@@ -1,0 +1,1568 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:630414:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/1993-34558875",
+ "dre_path": "/dr/detalhe/lei/68-1993-630414",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "1993-09-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "108014220",
+    "48997475",
+    "48997575",
+    "48997675",
+    "48997775",
+    "48997875",
+    "48997975",
+    "48998075",
+    "48998175",
+    "48998275",
+    "48998375",
+    "48998475",
+    "48998575",
+    "48998675",
+    "48998775",
+    "48998875",
+    "48998975",
+    "48999075",
+    "48999175",
+    "48999275",
+    "48999375",
+    "48999475",
+    "48999575",
+    "48999675",
+    "48999775",
+    "48999875",
+    "48999975",
+    "49000075",
+    "49000175",
+    "49000275",
+    "49000375",
+    "49000475",
+    "49000575",
+    "49000675",
+    "49000775",
+    "49000875",
+    "49000975",
+    "49001075",
+    "49001175",
+    "49001275",
+    "49001375",
+    "49001475",
+    "49001575",
+    "49001675",
+    "49001775",
+    "49001875",
+    "49001975",
+    "49002075",
+    "49002175",
+    "49002275",
+    "49002375",
+    "49002475"
+   ]
+  },
+  {
+   "date": "1997-08-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:144794:por",
+     "title": "Lei n.º 89/97",
+     "published": "1997-07-30",
+     "dre_path": "/dr/detalhe/lei/89-1997-144794"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 30.º",
+    "Altera Artigo 39.º"
+   ],
+   "fragments": [
+    "48997375",
+    "48997475",
+    "48997575",
+    "48997675",
+    "48997775",
+    "48997875",
+    "48997975",
+    "48998075",
+    "48998175",
+    "48998275",
+    "48998375",
+    "48998475",
+    "48998575",
+    "48998675",
+    "48998775",
+    "48998875",
+    "48998975",
+    "48999075",
+    "48999175",
+    "48999275",
+    "48999375",
+    "48999475",
+    "48999575",
+    "48999675",
+    "48999775",
+    "48999875",
+    "48999975",
+    "49000075",
+    "49000175",
+    "49000275",
+    "49000375",
+    "49000475",
+    "49000575",
+    "49000675",
+    "49000775",
+    "49000875",
+    "49000975",
+    "49001075",
+    "58928320",
+    "49001275",
+    "49001375",
+    "49001475",
+    "49001575",
+    "49001675",
+    "49001775",
+    "49001875",
+    "49001975",
+    "49002075",
+    "58928323",
+    "49002275",
+    "49002375",
+    "49002475",
+    "49002575"
+   ]
+  },
+  {
+   "date": "2014-10-02",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:58644003:por",
+     "title": "Declaração de Retificação n.º 46/2014",
+     "published": "2014-10-29",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/46-2014-58644003"
+    },
+    {
+     "id": "pt:dre:56388820:por",
+     "title": "Lei n.º 72/2014",
+     "published": "2014-09-02",
+     "dre_path": "/dr/detalhe/lei/72-2014-56388820"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 1.º",
+    "Retifica Artigo 31.º",
+    "Retifica Artigo 41.º",
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 17.º",
+    "Altera Artigo 18.º",
+    "Altera Artigo 19.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 22.º",
+    "Altera Artigo 26.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 28.º",
+    "Altera Artigo 29.º",
+    "Altera Artigo 30.º",
+    "Altera Artigo 31.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 35.º",
+    "Altera Artigo 37.º",
+    "Altera Artigo 41.º"
+   ],
+   "fragments": [
+    "48997375",
+    "48997475",
+    "58928619",
+    "58928627",
+    "58928630",
+    "58928639",
+    "48997975",
+    "58928646",
+    "58928648",
+    "48998275",
+    "48998375",
+    "48998475",
+    "58928649",
+    "48998675",
+    "48998775",
+    "58928650",
+    "58928651",
+    "48999075",
+    "48999175",
+    "48999275",
+    "58929792",
+    "48999475",
+    "58929793",
+    "58929794",
+    "58929796",
+    "48999875",
+    "48999975",
+    "58929797",
+    "58929798",
+    "49000275",
+    "49000375",
+    "49000475",
+    "49000575",
+    "49000675",
+    "58929799",
+    "58929800",
+    "58929801",
+    "58929802",
+    "58929803",
+    "58929804",
+    "49001375",
+    "58929805",
+    "49001575",
+    "49001675",
+    "58929806",
+    "49001875",
+    "58929807",
+    "49002075",
+    "58928323",
+    "49002275",
+    "58929808",
+    "49002475",
+    "49002575"
+   ]
+  },
+  {
+   "date": "2017-08-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:108010871:por",
+     "title": "Lei n.º 75/2017",
+     "published": "2017-08-17",
+     "dre_path": "/dr/detalhe/lei/75-2017-108010871"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "108014220",
+    "108014221",
+    "108014222",
+    "108014223",
+    "108014224",
+    "108014225",
+    "108014226",
+    "108014227",
+    "108014228",
+    "108014229",
+    "108014230",
+    "108014231",
+    "108014232",
+    "108014233",
+    "108014234",
+    "108014235",
+    "108014236",
+    "108014237",
+    "108014238",
+    "108014239",
+    "108014240",
+    "108014241",
+    "108014242",
+    "108014243",
+    "108014244",
+    "108014245",
+    "108014246",
+    "108014247",
+    "108014248",
+    "108014249",
+    "108014250",
+    "108014251",
+    "108014252",
+    "108014253",
+    "108014254",
+    "108014255",
+    "108014256",
+    "108014257",
+    "108014258",
+    "108014259",
+    "108014260",
+    "108014261",
+    "108014262",
+    "108014263",
+    "108014264",
+    "108014265",
+    "108014266",
+    "108014267",
+    "108014268",
+    "108014269",
+    "108014270",
+    "108014271",
+    "108014272"
+   ]
+  }
+ ],
+ "fragments": {
+  "108014220": {
+   "fragment_id": "35178675",
+   "type": 15,
+   "heading": "Diploma — Lei dos Baldios",
+   "in_force_from": "2017-08-22",
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "48997475": {
+   "fragment_id": "35841475",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "48997575": {
+   "fragment_id": "37386875",
+   "type": 11,
+   "heading": "Artigo 1.º — Noções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Noções\n\n1 - São baldios os terrenos possuídos e geridos por comunidades locais.\n\n2 - Para os efeitos da presente lei, comunidade local é o universo dos compartes.\n\n3 - São compartes os moradores de uma ou mais freguesias ou parte delas que, segundo os usos e costumes, têm direito ao uso e fruição do baldio."
+  },
+  "48997675": {
+   "fragment_id": "37386975",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - As disposições da presente lei são aplicáveis aos terrenos baldios, mesmo quando constituídos por áreas descontínuas, nomeadamente aos que se encontrem nas seguintes condições:\n\na) Terrenos considerados baldios e como tais comunitariamente possuídos e geridos por moradores de uma ou mais freguesias, ou parte delas, mesmo que ocasionalmente não estejam a ser objecto, no todo ou em parte, de aproveitamento por esses moradores, ou careçam de órgãos de gestão regularmente constituídos;\n\nb) Terrenos passíveis de uso e fruição por comunidade local, os quais, tendo anteriormente sido usados e fruídos como baldios, foram submetidos ao regime florestal ou de reserva não aproveitada, ao abrigo do Decreto-Lei n.º 27207, de 16 de Novembro de 1936, e da Lei n.º 2069, de 24 de Abril de 1954, e ainda não devolvidos ao abrigo do Decreto-Lei n.º 39/76, de 19 de Janeiro;\n\nc) Terrenos baldios objecto de apossamento por particulares, ainda que transmitidos posteriormente, aos quais são aplicáveis as disposições do Decreto-Lei n.º 40/76, de 1 de Janeiro;\n\nd) Terrenos passíveis de uso e fruição por comunidade local que tenham sido licitamente adquiridos por uma tal comunidade e afectados ao logradouro comum da mesma.\n\n2 - O disposto na presente lei aplica-se, com as necessárias adaptações, e em termos a regulamentar, a equipamentos comunitários, designadamente eiras, fornos, moinhos e azenhas, usados, fruídos e geridos por comunidade local."
+  },
+  "48997775": {
+   "fragment_id": "37387075",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidades",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Finalidades\n\nOs baldios constituem, em regra, logradouro comum, designadamente para efeitos de apascentação de gados, de recolha de lenhas ou de matos, de culturas e outras fruições, nomeadamente de natureza agrícola, silvícola, silvo-pastoril ou apícola."
+  },
+  "48997875": {
+   "fragment_id": "37387175",
+   "type": 11,
+   "heading": "Artigo 4.º — Apropriação ou apossamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apropriação ou apossamento\n\n1 - Os actos ou negócios jurídicos de apropriação ou apossamento, tendo por objecto terrenos baldios, bem como da sua posterior transmissão, são nulos, nos termos gerais de direito, excepto nos casos expressamente previstos na presente lei.\n\n2 - A declaração de nulidade pode ser requerida pelo Ministério Público, por representante da administração central, da administração regional ou local da área do baldio, pelos órgãos de gestão deste ou por qualquer comparte.\n\n3 - As entidades referidas no número anterior têm também legitimidade para requerer a restituição da posse do baldio, no todo ou em parte, a favor da respectiva comunidade ou da entidade que legitimamente o explore."
+  },
+  "48997975": {
+   "fragment_id": "35841575",
+   "type": 1,
+   "heading": "Capítulo II — Uso e fruição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Uso e fruição"
+  },
+  "48998075": {
+   "fragment_id": "37387275",
+   "type": 11,
+   "heading": "Artigo 5.º — Regra geral",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regra geral\n\n1 - O uso e fruição dos baldios efectiva-se de acordo com as deliberações dos órgãos competentes dos compartes ou, na sua falta, de acordo com os usos e costumes, sem prejuízo do disposto nos artigos seguintes.\n\n2 - Aos compartes é assegurada a igualdade de gozo e exercício dos direitos de uso e fruição do respectivo baldio."
+  },
+  "48998175": {
+   "fragment_id": "37387375",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Plano de utilização\n\n1 - O uso e fruição dos baldios obedece, salvo costume ou deliberação em contrário dos compartes, nomeadamente no caso de baldios de pequena dimensão, a planos de utilização aprovados e actualizados nos termos da presente lei.\n\n2 - Os planos de utilização devem ser elaborados em estreita cooperação com as entidades administrativas que superintendem no ordenamento do território e na defesa do ambiente, às quais essa cooperação é cometida como dever juridicamente vinculante, nos termos da lei."
+  },
+  "48998275": {
+   "fragment_id": "37387475",
+   "type": 11,
+   "heading": "Artigo 7.º — Objectivos e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Objectivos e âmbito\n\n1 - Constituem objectivos dos planos de utilização a programação da utilização racional dos recursos efectivos e potenciais do baldio com sujeição a critérios de coordenação e valia sócio-económica e ambiental, a nível local, regional e nacional.\n\n2 - Os planos de utilização podem dizer respeito apenas a um baldio ou a grupos de baldios, próximos ou afins, susceptíveis de constituir unidades de ordenamento, nomeadamente por exigência da dimensão requerida por objectivos de uso múltiplo ou integrado, por infra-estruturas só justificadas a nível superior ao de um só baldio ou por economias de escala na aquisição e utilização de equipamento.\n\n3 - No caso previsto no número anterior o regime de gestão sofre as adaptações necessárias, nomeadamente por recurso à figura da gestão conjunta."
+  },
+  "48998375": {
+   "fragment_id": "37387575",
+   "type": 11,
+   "heading": "Artigo 8.º — Planos-tipo de utilização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Planos-tipo de utilização\n\n1 - Os serviços competentes da Administração Pública, sem prejuízo do dever de cooperação previsto no n.º 2 do artigo 6.º, elaborarão projectos de planos-tipo de utilização adequados a situações específicas, em termos a regulamentar.\n\n2 - Na elaboração dos planos-tipo previstos no número anterior tem-se em consideração os conhecimentos técnicos dos serviços e a experiência dos órgãos representativos dos compartes."
+  },
+  "48998475": {
+   "fragment_id": "37387675",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação com serviços públicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Cooperação com serviços públicos\n\nSempre que a execução dos planos de utilização implique ou aconselhe formas continuadas de cooperação entre serviços públicos especializados e comunidades locais, devem os mesmos planos contemplar as regras disciplinadoras dessa cooperação."
+  },
+  "48998575": {
+   "fragment_id": "37387775",
+   "type": 11,
+   "heading": "Artigo 10.º — Cessão da exploração de baldios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cessão da exploração de baldios\n\n1 - Os baldios podem ser objecto, no todo ou em parte, de cessão de exploração, nomeadamente para efeitos de povoamento ou exploração florestal, salvo nas partes do baldio com aptidão para aproveitamento agrícola.\n\n2 - Pode ainda a assembleia de compartes deliberar a cessão da exploração de partes limitadas do respectivo baldio, para fins de exploração agrícola, aos respectivos compartes, sem prejuízo do princípio da igualdade de tratamento dos propostos cessionários.\n\n3 - A cessão da exploração deve efectivar-se, tanto quanto possível, sem prejuízo da tradicional utilização do baldio pelos compartes, e tendo em conta o seu previsível impacte ambiental.\n\n4 - A cessão de exploração, nos termos dos números anteriores, pode efectivar-se por períodos até 20 anos, sucessivamente prorrogáveis por períodos até igual tempo."
+  },
+  "48998675": {
+   "fragment_id": "35841675",
+   "type": 1,
+   "heading": "Capítulo III — Organização e funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Organização e funcionamento"
+  },
+  "48998775": {
+   "fragment_id": "37387875",
+   "type": 8,
+   "heading": "Secção I — Gestão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Gestão"
+  },
+  "48998875": {
+   "fragment_id": "39004375",
+   "type": 11,
+   "heading": "Artigo 11.º — Administração dos baldios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Administração dos baldios\n\n1 - Os baldios são administrados, por direito próprio, pelos respectivos compartes, nos termos dos usos e costumes aplicáveis ou, na falta deles, através de órgão ou órgãos democraticamente eleitos.\n\n2 - As comunidades locais organizam-se, para o exercício dos actos de representação, disposição, gestão e fiscalização relativos aos correspondentes baldios, através de uma assembleia de compartes, um conselho directivo e uma comissão de fiscalização.\n\n3 - Os membros da mesa da assembleia de compartes, bem como do conselho directivo e da comissão de fiscalização, são eleitos por períodos de dois anos, renováveis, e mantêm-se em exercício de funções enquanto não forem substituídos."
+  },
+  "48998975": {
+   "fragment_id": "39004475",
+   "type": 11,
+   "heading": "Artigo 12.º — Reuniões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Reuniões\n\n1 - Salvo nos casos especialmente previstos na lei, os órgãos das comunidades locais reúnem validamente com a presença da maioria dos seus membros e deliberam validamente por maioria simples dos membros presentes, tendo o respectivo presidente voto de qualidade.\n\n2 - Às reuniões dos órgãos podem assistir oficiosamente e sem direito a voto representantes dos órgãos autárquicos em cuja área territorial o baldio se situe ou, quando se trate de baldio em cuja exploração florestal superintenda a Direcção-Geral das Florestas, um representante desta com direito a expor os pontos de vista dos respectivos órgãos, nomeadamente sobre matérias de interesse geral da respectiva população local constantes da ordem de trabalhos."
+  },
+  "48999075": {
+   "fragment_id": "39004575",
+   "type": 11,
+   "heading": "Artigo 13.º — Actas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Actas\n\n1 - Das reuniões dos órgãos das comunidades locais são elaboradas actas, que, depois de lidas e aprovadas, são assinadas pela respectiva mesa, no que se refere à assembleia de compartes, e pelos respectivos membros, quanto aos restantes órgãos.\n\n2 - Em caso de urgência devidamente justificada, os órgãos podem delegar a aprovação da acta.\n\n3 - Só a acta pode certificar validamente as discussões havidas, as deliberações tomadas e o mais que nas reuniões tiver ocorrido.\n\n4 - As actas referidas nos números anteriores podem ser livremente consultadas por quem nisso tiver interesse."
+  },
+  "48999175": {
+   "fragment_id": "37387975",
+   "type": 8,
+   "heading": "Secção II — Assembleia de compartes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Assembleia de compartes"
+  },
+  "48999275": {
+   "fragment_id": "39004675",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Composição\n\nA assembleia de compartes é constituída por todos os compartes."
+  },
+  "48999375": {
+   "fragment_id": "39004775",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - Compete à assembleia de compartes:\n\na) Eleger a respectiva mesa;\n\nb) Eleger e destituir, em caso de responsabilidade apurada com todas as garantias de defesa, os membros do conselho directivo e os membros da comissão de fiscalização;\n\nc) Deliberar sobre as actualizações do recenseamento dos compartes;\n\nd) Regulamentar e disciplinar o exercício pelos compartes do uso e fruição do baldio, sob proposta do conselho directivo;\n\ne) Discutir e aprovar o plano de utilização dos recursos do baldio e respectivas actualizações, sob proposta do conselho directivo;\n\nf) Deliberar sobre o recurso ao crédito e fixar o limite até ao qual o conselho directivo pode obtê-lo sem necessidade da sua autorização;\n\ng) Estabelecer os condicionamentos que tiver por necessários à comercialização, pelo conselho directivo, dos frutos e produtos do baldio;\n\nh) Discutir e votar, eventualmente com alterações, o relatório e as contas de cada exercício propostos pelo conselho directivo;\n\ni) Discutir e votar, com direito à sua modificação, a aplicação das receitas propostas pelo conselho directivo;\n\nj) Deliberar sobre a alienação ou a cessão de exploração de direitos sobre baldios, nos termos do disposto na presente lei;\n\nl) Deliberar sobre a delegação de poderes de administração prevista nos artigos 22.º e 23.º;\n\nm) Fiscalizar em última instância a actividade do conselho directivo e das entidades em que tiverem sido delegados poderes de administração, e endereçar a um e a outras directivas sobre matérias da sua competência, sem prejuízo da competência própria da comissão de fiscalização;\n\nn) Deliberar sobre a matéria dos recursos para si interpostos dos actos do conselho directivo;\n\no) Ratificar o recurso a juízo pelo conselho directivo, bem como a respectiva representação judicial, para defesa de direitos ou legítimos interesses da comunidade relativos ao correspondente baldio, nomeadamente para defesa dos respectivos domínios, posse e fruição contra actos de ocupação, demarcação e aproveitamento ilegais ou contrários aos usos e costumes por que o baldio se rege;\n\np) Deliberar sobre a extinção do correspondente baldio, nos termos da presente lei, ouvido o conselho directivo;\n\nq) Deliberar sobre todos os demais assuntos do interesse da comunidade relativos ao correspondente baldio que não sejam da competência própria do conselho directivo;\n\nr) Exercer as demais competências decorrentes da lei, uso e costume ou contrato.\n\n2 - A eficácia das deliberações da assembleia de compartes relativas às alíneas j), l) e p) do número anterior depende da sua votação por maioria qualificada de dois terços dos membros presentes.\n\n3 - Quando não exista conselho directivo, a assembleia de compartes assume a plenitude da representação e gestão do baldio, regulamentando a forma de suprimento das competências daquele."
+  },
+  "48999475": {
+   "fragment_id": "39004875",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição da mesa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Composição da mesa\n\n1 - A mesa da assembleia de compartes é constituída por um presidente, um vice-presidente e dois secretários, eleitos pela assembleia, de entre os seus membros, pelo sistema de lista completa.\n\n2 - O presidente representa a assembleia de compartes, preside às reuniões e dirige os trabalhos."
+  },
+  "48999575": {
+   "fragment_id": "39004975",
+   "type": 11,
+   "heading": "Artigo 17.º — Periodicidade das assembleias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Periodicidade das assembleias\n\nA assembleia de compartes reúne ordinariamente uma vez por ano, até 31 de Março, para apreciação, sempre que seja caso disso, das matérias a que se referem as alíneas a), b), c), h) e i) do n.º 1 do artigo 15.º e extraordinariamente sempre que seja convocada."
+  },
+  "48999675": {
+   "fragment_id": "39005075",
+   "type": 11,
+   "heading": "Artigo 18.º — Convocação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Convocação\n\n1 - A assembleia de compartes é convocada nos termos consuetudinariamente estabelecidos e, na falta de uso e costume, por editais afixados nos locais do estilo, e eventual publicação no órgão de imprensa local ou regional mais lido na área do respectivo baldio ou pela rádio local mais ouvida.\n\n2 - As reuniões da assembleia de compartes são convocadas pelo presidente da respectiva mesa, por iniciativa própria, a solicitação do conselho directivo ou da comissão de fiscalização, ou ainda de 5% do número dos respectivos compartes.\n\n3 - Se, para o efeito solicitado, o presidente não efectuar a convocação dentro do prazo de 15 dias a contar da recepção do respectivo pedido, podem os solicitantes fazer directamente a convocação.\n\n4 - O aviso convocatório deve em qualquer caso mencionar o dia, a hora, o local da reunião e a respectiva ordem de trabalhos e ser tornado público com a antecedência mínima de oito dias.\n\n5 - A assembleia de compartes pode delegar no conselho directivo, com sujeição a ulterior ratificação, a resolução de assuntos constantes da ordem de trabalhos que não impliquem o julgamento ou a fiscalização de actos deste órgão ou a aprovação de propostas que dele tenham promanado, por razões de urgência e falta de tempo para sobre os mesmos eficazmente se debruçar."
+  },
+  "48999775": {
+   "fragment_id": "39005175",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Funcionamento\n\n1 - A assembleia de compartes reúne validamente no dia e a hora marcados no aviso convocatório, desde que se mostre verificada a presença da maioria dos respectivos compartes.\n\n2 - Uma hora após a marcada no aviso convocatório a assembleia de compartes reúne validamente desde que se mostre verificada a presença de um quinto dos respectivos compartes.\n\n3 - Caso não se verifique o quórum de funcionamento previsto no número precedente, o presidente da mesa convocará de imediato uma nova reunião para um dos 5 a 14 dias seguintes, a qual funcionará com qualquer número de compartes presentes."
+  },
+  "48999875": {
+   "fragment_id": "37388075",
+   "type": 8,
+   "heading": "Secção III — Conselho directivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Conselho directivo"
+  },
+  "48999975": {
+   "fragment_id": "39005275",
+   "type": 11,
+   "heading": "Artigo 20.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Composição\n\n1 - O conselho directivo é composto por três, cinco ou sete membros eleitos pela assembleia de compartes de entre os seus membros pelo sistema de lista completa.\n\n2 - O conselho directivo elege um presidente e um vice-presidente.\n\n3 - O presidente representa o conselho directivo, preside às reuniões e dirige os trabalhos, sendo substituído nas suas faltas e impedimentos pelo vice-presidente.\n\n4 - Os vogais secretariam e elaboram as actas.\n\n5 - Podem ser eleitos vogais suplentes que substituam os efectivos em caso de vacatura do lugar e nas suas faltas e impedimentos, os quais são convocados pelo presidente e pela ordem da sua menção na lista."
+  },
+  "49000075": {
+   "fragment_id": "39005375",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Competência\n\nCompete ao conselho directivo:\n\na) Dar cumprimento e execução às deliberações da assembleia de compartes que disso careçam;\n\nb) Propor à assembleia de compartes a actualização do recenseamento dos compartes;\n\nc) Propor à assembleia de compartes os instrumentos de regulamentação e disciplina do exercício pelos compartes do uso e fruição do baldio e respectivas alterações;\n\nd) Propor à assembleia de compartes os planos de utilização dos recursos do baldio e respectivas actualizações;\n\ne) Aprovar e submeter à assembleia de compartes o relatório, as contas e a proposta de aplicação das receitas de cada exercício;\n\nf) Propor à assembleia de compartes ou emitir parecer sobre propostas de alienação ou a cessão de exploração de direitos sobre baldios, nos termos da presente lei;\n\ng) Propor à assembleia de compartes ou emitir parecer sobre propostas de delegação de poderes de administração, nos termos da presente lei;\n\nh) Recorrer a juízo e constituir mandatário para defesa de direitos ou interesses legítimos da comunidade relativos ao correspondente baldio e submeter estes actos a ratificação da assembleia de compartes;\n\ni) Representar o universo dos compartes nas relações com entidades públicas e privadas, sem prejuízo do disposto no n.º 2 do artigo 16.º;\n\nj) Exercer em geral todos os actos de administração ou co-administração do baldio, no respeito da lei, dos usos e costumes e dos regulamentos aplicáveis;\n\nl) Zelar pelo cumprimento dos regulamentos e dos planos de utilização dos recursos do baldio;\n\nm) Zelar pela defesa dos valores ecológicos no espaço do baldio;\n\nn) Propor ao presidente da mesa da assembleia de compartes a convocação desta;\n\no) Exercer as demais competências decorrentes da lei, uso, costume, regulamento ou convenção."
+  },
+  "49000175": {
+   "fragment_id": "39005475",
+   "type": 11,
+   "heading": "Artigo 22.º — Poderes de delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Poderes de delegação\n\n1 - Os poderes de administração dos compartes podem por estes ser delegados nos termos da presente lei em relação à totalidade ou parte da área do baldio, ou de uma ou mais das respectivas modalidades de aproveitamento, na junta de freguesia em cuja área o baldio se localize, ou no serviço da Administração Pública que superintenda na modalidade ou modalidades de aproveitamento a que a delegação se reporte.\n\n2 - No caso de a área do baldio cuja administração é delegada se situar nos limites territoriais de mais de uma freguesia, pode a delegação ser deferida a uma só ou conjuntamente a todas as respectivas juntas de freguesia, que neste caso se obrigarão solidariamente em face dos compartes.\n\n3 - Quando o número de freguesias previstas no número anterior se mostre elevado, ou seja difícil a cooperação entre elas, ou ainda quando o baldio assuma relevância ao nível do respectivo concelho, pode a delegação referida nos números anteriores ser deferida à respectiva câmara municipal.\n\n4 - No acto de delegação serão formalizados os respectivos termos e condições, nomeadamente os direitos e os deveres inerentes ao exercício dos poderes delegados.\n\n5 - A delegação de poderes prevista nos números antecedentes far-se-á sempre sem prejuízo da sua revogação a todo o tempo, bem como das responsabilidades contratuais que em cada caso couberem, nos termos gerais de direito."
+  },
+  "49000275": {
+   "fragment_id": "39005575",
+   "type": 11,
+   "heading": "Artigo 23.º — Delegação com reserva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Delegação com reserva\n\n1 - Os compartes podem efectivar as delegações de poderes previstas no artigo antecedente com reserva de co-exercício pelos compartes, directamente ou através dos respectivos órgãos de gestão, dos poderes efectivamente delegados.\n\n2 - O regime de co-gestão decorrente do previsto no número antecedente será objecto de acordo, caso a caso, com respeito pelo princípio da liberdade contratual."
+  },
+  "49000375": {
+   "fragment_id": "37388175",
+   "type": 8,
+   "heading": "Secção IV — Comissão de fiscalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Comissão de fiscalização"
+  },
+  "49000475": {
+   "fragment_id": "39005675",
+   "type": 11,
+   "heading": "Artigo 24.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Composição\n\n1 - A comissão de fiscalização é constituída por cinco elementos, eleitos pela assembleia de compartes, de entre os seus membros, de preferência com conhecimentos de contabilidade.\n\n2 - Os membros da comissão de fiscalização elegerão um presidente e um secretário de entre todos eles."
+  },
+  "49000575": {
+   "fragment_id": "39005775",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Competência\n\nCompete à comissão de fiscalização:\n\na) Tomar conhecimento da contabilidade do baldio, dar parecer sobre as contas e verificar a regularidade dos documentos de receita e despesa;\n\nb) Fiscalizar o cumprimento dos planos de utilização do baldio e a regularidade da cobrança e aplicação das receitas e da justificação das despesas;\n\nc) Comunicar às entidades competentes as ocorrências de violação da lei e de incumprimento de contratos tendo o baldio por objecto;\n\nd) Zelar pelo respeito das regras de protecção do ambiente."
+  },
+  "49000675": {
+   "fragment_id": "35841775",
+   "type": 1,
+   "heading": "Capítulo IV — Extinção dos baldios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Extinção dos baldios"
+  },
+  "49000775": {
+   "fragment_id": "37388275",
+   "type": 11,
+   "heading": "Artigo 26.º — Causas da sua extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Causas da sua extinção\n\nExtinguem-se os baldios, no todo ou em parte, da respectiva área territorial:\n\na) Cuja extinção tiver sido declarada por unanimidade dos compartes em reunião da respectiva assembleia com a presença do mínimo de dois terços dos respectivos membros;\n\nb) Que tenham sido, ou na parte em que o tenham sido, objecto de expropriação ou alienação voluntária, nos termos da presente lei."
+  },
+  "49000875": {
+   "fragment_id": "37388375",
+   "type": 11,
+   "heading": "Artigo 27.º — Utilização precária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Utilização precária\n\n1 - Após três anos de ostensivo abandono do uso e fruição de um baldio, judicialmente declarado, a junta ou juntas de freguesia em cuja área o mesmo se localize podem utilizá-lo directamente, sem alteração significativa da sua normal composição, ou ceder a terceiros a sua exploração precária por períodos não superiores a dois anos, renováveis, se e enquanto não tiverem sido notificados pelo competente órgão de gestão do baldio de que os compartes desejam voltar à sua normal fruição.\n\n2 - No caso previsto na parte final do número anterior, há lugar à prestação de contas pela junta ou juntas em causa, com entrega aos compartes do valor da cessão de exploração ou da receita líquida apurada, deduzida de 50% a título compensatório, no caso de utilização directa pelas referidas juntas."
+  },
+  "49000975": {
+   "fragment_id": "37388475",
+   "type": 11,
+   "heading": "Artigo 28.º — Consequências da extinção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Consequências da extinção\n\nDa extinção, total ou parcial, de um baldio decorre:\n\na) Nos casos da alínea a) do artigo 26.º e do n.º 6 do artigo 29.º, a sua integração no domínio privado da freguesia ou freguesias em cuja área territorial se situe o terreno baldio abrangido pela extinção;\n\nb) No caso da alínea b) do artigo 26.º, a transferência dos direitos abrangidos pela expropriação ou alienação para a titularidade da entidade expropriante ou em qualquer caso beneficiária da expropriação, ou da entidade adquirente."
+  },
+  "49001075": {
+   "fragment_id": "37388575",
+   "type": 11,
+   "heading": "Artigo 29.º — Expropriação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Expropriação\n\n1 - Os baldios podem, no todo ou em parte, ser objecto de expropriação por motivo de utilidade pública ou por abandono injustificado.\n\n2 - A expropriação por utilidade pública será precedida de uma proposta de aquisição em que se especifiquem as razões de utilidade pública invocadas, bem como o preço e outras compensações oferecidas, devendo a assembleia de compartes pronunciar-se no prazo de 60 dias.\n\n3 - Em caso de acordo das partes, a transmissão far-se-á nos termos gerais de direito.\n\n4 - A expropriação deve limitar-se ao estritamente necessário, no momento em que tiver lugar, para a realização do objectivo que a justifica, com direito de reversão dos bens remanescentes ou que não tiverem sido objecto da utilização especificada no acto de expropriação.\n\n5 - A indemnização devida pela expropriação é calculada nos termos da lei que rege especificamente a matéria mas, na sua fixação, tomar-se-á também em conta não só o grau de utilização efectiva do baldio como as vantagens propiciadas à comunidade local pela afectação do terreno aos fins da expropriação.\n\n6 - A expropriação por abandono injustificado, como tal judicialmente declarado, pode ter lugar a pedido de junta ou juntas de freguesia em cuja área o baldio se situe, quando este tenha deixado de ser objecto de actos significativos de domínio, posse, gestão e fruição durante um período não inferior a 10 anos."
+  },
+  "49001175": {
+   "fragment_id": "37388675",
+   "type": 11,
+   "heading": "Artigo 30.º — Constituição de servidões",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Constituição de servidões\n\nPodem constituir-se servidões sobre parcelas de baldios, nos termos gerais de direito, nomeadamente por razões de interesse público."
+  },
+  "49001275": {
+   "fragment_id": "37388775",
+   "type": 11,
+   "heading": "Artigo 31.º — Alienação por razões de interesse local",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Alienação por razões de interesse local\n\n1 - A assembleia de compartes pode deliberar a alienação a título oneroso, mediante concurso público, tendo por base o preço do mercado, de áreas limitadas de terrenos baldios:\n\na) Quando os baldios confrontem com o limite da área de povoação e a alienação seja necessária à expansão da respectiva área urbana;\n\nb) Quando a alienação se destine à instalação de unidades industriais, de infra-estruturas e outros empreendimentos de interesse colectivo, nomeadamente para a comunidade local.\n\n2 - As parcelas sobre que incidam os direitos a alienar não poderão ter área superior à estritamente necessária ao fim a que se destinam e, quando afectadas a objectivos de expansão habitacional, não poderão exceder 1500 m por cada nova habitação a construir;\n\n3 - Não poderá proceder-se ao acto de transmissão da propriedade sem que a autarquia competente para o efeito dê o seu acordo à instalação dos empreendimentos ou à construção de habitações no local previsto.\n\n4 - A alienação de partes de baldios para instalação de equipamentos sociais sem fins lucrativos pode efectivar-se a título gratuito e sem os condicionalismos previstos nos números anteriores, desde que tal seja deliberado pela assembleia de compartes, por maioria de dois terços.\n\n5 - Na situação referida no número anterior não é permitida a sua posterior alienação a terceiros, a não ser que se processe a título gratuito e para os mesmos fins."
+  },
+  "49001375": {
+   "fragment_id": "35841875",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "49001475": {
+   "fragment_id": "37388875",
+   "type": 11,
+   "heading": "Artigo 32.º — Regra de jurisdição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Regra de jurisdição\n\n1 - É da competência dos tribunais comuns territorialmente competentes conhecer dos litígios que directa ou indirectamente tenham por objecto terrenos baldios, nomeadamente os referentes ao domínio, delimitação, utilização, ocupação ou apropriação, contratos de cessão, deliberações dos seus órgãos ou omissões do cumprimento do disposto na lei.\n\n2 - São isentos de preparos e custas judiciais os órgãos e membros das comunidades locais titulares de direitos sobre baldios, incluindo as entidades em que tiverem sido delegados os respectivos poderes de administração."
+  },
+  "49001575": {
+   "fragment_id": "37388975",
+   "type": 11,
+   "heading": "Artigo 33.º — Recenseamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Recenseamento\n\n1 - O recenseamento dos compartes identifica e regista os moradores da comunidade local com direitos sobre o baldio.\n\n2 - Os recenseamentos provisórios previstos no n.º 2 do artigo 22.º do Decreto-Lei n.º 39/76, de 19 de Janeiro, ou os recenseamentos tidos por definitivos, correspondentes ou não àqueles recenseamentos, ainda que validados apenas por práticas consuetudinárias inequívocas, são reconhecidos como válidos até à sua substituição ou actualização, nos termos da presente lei.\n\n3 - Em caso de inexistência de recenseamento dos compartes de determinado baldio, a iniciativa da sua elaboração compete à assembleia de compartes, quando para o efeito convocada ou, em caso de inexistência ou não convocação daquela assembleia, ou da sua inércia dentro do prazo de seis meses a contar da entrada em vigor da presente lei, a sua elaboração compete a grupos de 10 membros da comunidade local usualmente reconhecidos como compartes, os quais deverão cooperar entre si no caso de se vir a constituir mais de um.\n\n4 - Decorrido um ano a partir da entrada em vigor da presente lei sem que tenha ocorrido qualquer das iniciativas previstas no número anterior, a obrigação legal de efectuar o recenseamento é automaticamente transferida para a junta de freguesia em cuja área territorial se localize a totalidade ou a maior parte do baldio, para cumprimento no prazo de seis meses.\n\n5 - A junta de freguesia referida no número anterior tem, em qualquer caso, o dever de cooperar com as entidades promotoras referidas no n.º 1, sob pena de, recusando-se a cooperar ou a cumprir a obrigação prevista no número anterior, passar a carecer de legitimidade para nela ser ou continuar delegada a administração do respectivo baldio, durante um período de 10 anos a contar do termo do semestre referido no número anterior.\n\n6 - Em caso de renitente inexistência de recenseamento dos compartes, por inércia de todas as entidades referidas nos números 3 e 4 e até ao suprimento efectivo dessa falta, aplicam-se as regras consuetudinárias, quando inequivocamente existam e, na falta delas, supre a falta do recenseamento dos compartes o recenseamento eleitoral dos residentes na comunidade local a que o baldio pertence, com as adaptações e correcções aprovadas nas reuniões da assembleia de compartes convocadas com base nele.\n\n7 - A convocação prevista na parte final do número anterior compete ao conselho directivo, quando exista, ou, na sua falta, a grupos de 10 membros da comunidade local usualmente reconhecidos como compartes, constituídos em comissão ad hoc."
+  },
+  "49001675": {
+   "fragment_id": "37389075",
+   "type": 11,
+   "heading": "Artigo 34.º — Devolução não efectuada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Devolução não efectuada\n\n1 - Os baldios que, por força do disposto no artigo 3.º do Decreto-Lei n.º 39/76, de 19 de Janeiro, foram legalmente devolvidos ao uso, fruição e administração dos respectivos compartes, e que ainda o não tenham sido de facto, sê-lo-ão logo que, constituída a respectiva assembleia de compartes, esta tome a iniciativa de promover que a devolução de facto se efective.\n\n2 - Os aspectos da devolução não regulados na presente lei e nos respectivos diplomas regulamentares serão, na falta de acordo, dirimidos por recurso ao tribunal comum, nos termos do artigo 32.º"
+  },
+  "49001775": {
+   "fragment_id": "37389175",
+   "type": 11,
+   "heading": "Artigo 35.º — Arrendamentos e cessões de exploração transitórios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Arrendamentos e cessões de exploração transitórios\n\n1 - Os arrendamentos e as cessões de exploração de baldios, nomeadamente para efeitos de aproveitamento florestal, em curso à data da entrada em vigor da presente lei, que tenham sido objecto de ajuste com órgão representativo da respectiva comunidade local, ou de disposição legal, continuarão nos termos ajustados ou prescritos até ao termo fixado ou convencionado, em qualquer caso não superior ao limite temporal fixado no n.º 4 do artigo 10.º\n\n2 - Os arrendamentos e as cessões de exploração que careçam da regularidade formal referida no número anterior serão objecto de renegociação com o órgão representativo da respectiva comunidade local para o efeito competente, sob pena de caducidade no termo do terceiro ano posterior ao do início da entrada em vigor da presente lei.\n\n3 - No caso previsto na parte final do número anterior, haverá lugar à aplicação do disposto nos números 2 e 3 do artigo 36.º, com as necessárias adaptações."
+  },
+  "49001875": {
+   "fragment_id": "37389275",
+   "type": 11,
+   "heading": "Artigo 36.º — Administração transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Administração transitória\n\n1 - A administração de baldios que, no todo ou em parte, tenha sido transferida de facto para qualquer entidade administrativa, nomeadamente para uma ou mais juntas de freguesia, e que nessa situação se mantenha à data da entrada em vigor da presente lei, considera-se delegada nestas entidades com os correspondentes poderes e deveres e com os inerentes direitos, por força da presente lei, e nessa situação se mantém, com as adaptações decorrentes do que nesta lei se dispõe, até que a delegação seja expressamente confirmada ou revogada nos novos moldes agora prescritos.\n\n2 - Finda a administração referida no número anterior, haverá lugar a prestação de contas, nos termos gerais, pela entidade gestora.\n\n3 - As receitas líquidas apuradas serão distribuídas nos termos eventualmente previstos no acto de transferência ou em partes iguais pela entidade gestora e pela comunidade dos compartes."
+  },
+  "49001975": {
+   "fragment_id": "37389375",
+   "type": 11,
+   "heading": "Artigo 37.º — Administração em regime de associação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Administração em regime de associação\n\n1 - Os baldios que à data da entrada em vigor da presente lei estejam a ser administrados em regime de associação entre os compartes e o Estado, previsto na alínea b) do artigo 9.º do Decreto-Lei n.º 39/76, de 19 de Janeiro, continuarão a ser administrados de acordo com esse regime até que ocorra um dos seguintes factos:\n\na) O termo do prazo convencionado para a sua duração;\n\nb) A comunicação pela assembleia de compartes ao Estado, na pessoa ou entidade que para o efeito o represente, de que deve considerar findo aquele regime a partir de prazo não inferior ao máximo, sem renovações, previsto no n.º 4 do artigo 10.º, contado da notificação.\n\n2 - Findo o regime de associação a que se refere o número anterior, poderá o mesmo ser substituído por delegação de poderes nos termos dos artigos 22.º e 23.º\n\n3 - Quando o regime de associação referido no n.º 1 não chegar ao termo dos prazos ali previstos, as partes regularão por acordo, ou, na falta dele, por recurso a juízo, as compensações que no caso couberem."
+  },
+  "49002075": {
+   "fragment_id": "37389475",
+   "type": 11,
+   "heading": "Artigo 38.º — Prescrição das receitas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Prescrição das receitas\n\n1 - O direito das comunidades locais às receitas provenientes do aproveitamento dos baldios em regime florestal, nos termos do Decreto-Lei n.º 39/76, de 19 de Janeiro, depositadas pelos serviços competentes da administração central, e ainda não recebidas por nenhum órgão da administração do baldio, prescreve no prazo de três anos a contar da entrada em vigor da presente lei, desde que se mostre cumprido o disposto no subsequente n.º 2.\n\n2 - Até 90 dias a contar da entrada em vigor da presente lei, os serviços da Administração comunicarão à junta ou juntas de freguesia os montantes referidos no número anterior, identificando a entidade depositária e os respectivos depósitos, após o que as juntas de freguesia afixarão um aviso, nos locais do costume, durante o prazo que decorrer até à prescrição, comunicando aos compartes que têm ao seu dispor e podem exigir, nesse prazo, os montantes em causa, e promoverão a publicação do mesmo em jornal local ou, na falta deste, no jornal mais lido na localidade.\n\n3 - No caso de os montantes em causa terem sido depositados pelos competentes serviços da Administração em qualquer banco à ordem das comunidades locais com direito ao seu recebimento, a instituição bancária respectiva deverá fazer a sua entrega ao órgão representativo da comunidade, dentro do prazo de 90 dias a contar da entrada em vigor da presente lei.\n\n4 - No caso previsto no n.º 1, os serviços da Administração em cuja posse se encontrarem os montantes farão entrega dos mesmos, no prazo previsto no número anterior, à junta ou juntas de freguesia da área do baldio, para os efeitos do disposto no número seguinte.\n\n5 - As juntas de freguesia referidas no número anterior elaborarão, no prazo de 90 dias a contar do respectivo recebimento, um plano de utilização dos montantes recebidos, a submeter à aprovação da assembleia de compartes ou, no caso de esta não existir ou não funcionar, à da respectiva assembleia ou assembleias de freguesia, no qual proporão a afectação dos mesmos montantes a empreendimentos e melhoramentos na área correspondente ao respectivo baldio, ou na área territorial da respectiva comunidade."
+  },
+  "49002175": {
+   "fragment_id": "37389575",
+   "type": 11,
+   "heading": "Artigo 39.º — Construções irregulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Construções irregulares\n\n1 - Os terrenos baldios nos quais, até à data da publicação da presente lei, tenham sido efectuadas construções de carácter duradouro, destinadas a habitação ou a fins de exploração económica ou utilização social, desde que se trate de situações relativamente às quais se verifique, no essencial, o condicionalismo previsto no artigo 31.º, podem ser objecto de alienação pela assembleia de compartes, por deliberação da maioria de dois terços dos seus membros presentes, com dispensa de concurso público, através de fixação de preço por negociação directa, cumprindo-se no mais o disposto naquele artigo.\n\n2 - Quando não se verifiquem os condicionalismos previstos no número anterior e no artigo 31.º, os proprietários das referidas construções podem adquirir a propriedade da parcela do terreno baldio estritamente necessária ao fim da construção de que se trate, por recurso à acessão industrial imobiliária nos termos gerais de direito, sob pena de, não tomando essa iniciativa no prazo de dois anos a contar da entrada em vigor da presente lei, poderem as respectivas comunidades locais adquirir a todo o tempo as benfeitorias necessárias e úteis incorporadas no terreno, avaliadas por acordo ou, na falta dele, por avaliação judicial."
+  },
+  "49002275": {
+   "fragment_id": "37389675",
+   "type": 11,
+   "heading": "Artigo 40.º — Mandato dos actuais órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Mandato dos actuais órgãos\n\nOs actuais membros da mesa da assembleia de compartes e do conselho directivo completam o tempo de duração dos mandatos em curso nos termos do Decreto-Lei n.º 39/76, de 19 de Janeiro, sem prejuízo da aplicação imediata das disposições da presente lei, designadamente quanto à constituição da comissão de fiscalização."
+  },
+  "49002375": {
+   "fragment_id": "37389775",
+   "type": 11,
+   "heading": "Artigo 41.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Regulamentação\n\nSem prejuízo da entrada em vigor das normas da presente lei que possam ser directamente aplicáveis, o Conselho de Ministros procederá à regulamentação necessária à sua boa execução, no prazo de 90 dias a contar da entrada em vigor da presente lei."
+  },
+  "49002475": {
+   "fragment_id": "37389875",
+   "type": 11,
+   "heading": "Artigo 42.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Norma revogatória\n\nSão revogadas todas as normas legais aplicáveis a baldios, nomeadamente os Decretos-Leis números 39/76 e 40/76, de 19 de Janeiro."
+  },
+  "48997375": {
+   "fragment_id": "35178675",
+   "type": 15,
+   "heading": "Diploma — Lei dos Baldios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Assembleia da República decreta, nos termos dos artigos 164.º, alínea d), e 169.º, n.º 3, da Constituição, o seguinte:"
+  },
+  "58928320": {
+   "fragment_id": "37388675",
+   "type": 11,
+   "heading": "Artigo 30.º — Constituição de servidões",
+   "in_force_from": "1997-08-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+   ],
+   "markdown": "###### Artigo 30.º — Constituição de servidões\n\nPodem constituir-se servidões sobre terrenos baldios, nos termos gerais de direito.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+  },
+  "58928323": {
+   "fragment_id": "37389575",
+   "type": 11,
+   "heading": "Artigo 39.º — Construções irregulares",
+   "in_force_from": "1997-08-04",
+   "changed_by": [
+    "Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+   ],
+   "markdown": "###### Artigo 39.º — Construções irregulares\n\n1 - Os terrenos baldios nos quais, até à data da publicação da presente lei, tenham sido efectuadas construções de carácter duradouro, destinadas a habitação ou a fins de exploração económica ou utilização social, desde que se trate de situações relativamente às quais se verifique, no essencial, o condicionalismo previsto no artigo 31.º, podem ser objecto de alienação pela assembleia de compartes, por deliberação da maioria de dois terços dos seus membros presentes, com dispensa de concurso público, através de fixação de preço por negociação directa, cumprindo-se no mais o disposto naquele artigo.\n\n2 - Quando não se verifiquem os condicionalismos previstos no número anterior e no artigo 31.º, os proprietários das referidas construções podem adquirir a parcela de terreno de que se trate por recurso à acessão industrial imobiliária, presumindo-se, até prova em contrário, a boa fé de quem construiu e podendo o autor da incorporação adquirir a propriedade do terreno, nos termos do disposto no artigo 1340.º, n.º 1, do Código Civil, ainda que o valor deste seja maior do que o valor acrescentado, sob pena de, não tomando essa iniciativa no prazo de um ano a contar da entrada em vigor da presente lei, poderem as respectivas comunidades locais adquirir a todo o tempo as benfeitorias necessárias e úteis incorporadas no terreno avaliadas por acordo ou, na falta dele, por decisão judicial.\n\n3 - Quando à data da publicação do presente diploma existam, implantadas em terreno baldio, obras destinadas à condução de águas que não tenham origem nele, em proveito da agricultura ou indústria, ou para gastos domésticos, podem os autores dessas obras adquirir o direito à respectiva servidão de aqueduto, mediante indemnização correspondente ao valor do prejuízo que da constituição da servidão resulte para o baldio.\n\n4 - Na falta de acordo quanto ao valor da indemnização prevista no n.º 3 deste artigo, será ele determinado judicialmente.\n\n5 - As comunidades locais têm, a todo o tempo, o direito de ser também indemnizadas do prejuízo que venha a resultar da infiltração ou erupção das águas ou da deterioração das obras feitas para a sua condução.\n\n6 - Se a água do aqueduto não for toda necessária ao seu proprietário e a assembleia de compartes do baldio deliberar ter parte no excedente, poderá essa parte ser concedida à respectiva comunidade local, mediante prévia indemnização e pagando ela, além disso, a quota proporcional à despesa feita com a sua condução até ao ponto donde pretende derivá-la.\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+  },
+  "49002575": {
+   "fragment_id": "35841975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovada em 29 de Junho de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 28 de Julho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 3 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência."
+  },
+  "58928619": {
+   "fragment_id": "37386875",
+   "type": 11,
+   "heading": "Artigo 1.º — Noções",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 1.º — Noções\n\n1 - São baldios os terrenos possuídos e geridos por comunidades locais.\n\n2 - Para os efeitos da presente lei, comunidade local é o universo dos compartes.\n\n3 - São compartes todos os cidadãos eleitores, inscritos e residentes nas comunidades locais onde se situam os respetivos terrenos baldios ou que aí desenvolvem uma atividade agroflorestal ou silvopastoril.\n\n4 - São ainda compartes os menores emancipados que sejam residentes nas comunidades locais onde se situam os respetivos terrenos baldios.\n\n5 - Os compartes usufruem os baldios conforme os usos e costumes locais e gerem de forma sustentada, nos termos da lei, os aproveitamentos dos recursos dos respetivos espaços rurais, de acordo com as deliberações tomadas em assembleia de compartes.\n\n6 - O baldio segue o regime do património autónomo no que respeita à personalidade judiciária e tributária, respondendo pelas infrações praticadas em matéria de contraordenações nos mesmos termos que as pessoas coletivas irregularmente constituídas, com as devidas adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928627": {
+   "fragment_id": "37386975",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - As disposições da presente lei são aplicáveis aos terrenos baldios, mesmo quando constituídos por áreas descontínuas, nomeadamente aos que se encontrem nas seguintes condições:\n\na) Terrenos considerados baldios e como tais possuídos e geridos por comunidades locais, mesmo que ocasionalmente não estejam a ser objeto, no todo ou em parte, de aproveitamento pelos compartes, ou careçam de órgãos de gestão regularmente constituídos;\n\nb) Terrenos passíveis de uso e fruição por comunidade local, os quais, tendo anteriormente sido usados e fruídos como baldios, foram submetidos ao regime florestal ou de reserva não aproveitada, ao abrigo do Decreto-Lei n.º 27207, de 16 de Novembro de 1936, e da Lei n.º 2069, de 24 de Abril de 1954, e ainda não devolvidos ao abrigo do Decreto-Lei n.º 39/76, de 19 de Janeiro;\n\nc) Terrenos baldios objecto de apossamento por particulares, ainda que transmitidos posteriormente, aos quais são aplicáveis as disposições do Decreto-Lei n.º 40/76, de 1 de Janeiro;\n\nd) Terrenos passíveis de uso e fruição por comunidade local que tenham sido licitamente adquiridos por uma tal comunidade e afectados ao logradouro comum da mesma.\n\n2 - O disposto na presente lei aplica-se, com as necessárias adaptações, e em termos a regulamentar, a equipamentos comunitários, designadamente eiras, fornos, moinhos e azenhas, usados, fruídos e geridos por comunidade local.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928630": {
+   "fragment_id": "37387075",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidades",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 3.º — Finalidades\n\nOs baldios constituem, em regra, logradouro comum, designadamente para efeitos de apascentação de gados, de recolha de lenhas ou de matos, de culturas e de outros aproveitamentos dos recursos dos respetivos espaços rurais.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928639": {
+   "fragment_id": "37387175",
+   "type": 11,
+   "heading": "Artigo 4.º — Apropriação ou apossamento",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 4.º — Apropriação ou apossamento\n\n1 - Os actos ou negócios jurídicos de apropriação ou apossamento, tendo por objecto terrenos baldios, bem como da sua posterior transmissão, são nulos, nos termos gerais de direito, excepto nos casos expressamente previstos na presente lei.\n\n2 - A declaração de nulidade pode ser requerida:\n\na) Pelos órgãos do baldio ou por qualquer dos compartes;\n\nb) Pelo Ministério Público;\n\nc) Pela entidade na qual os compartes tenham delegado poderes de administração do baldio nos termos dos artigos 22.º e 23.º;\n\nd) Pelos arrendatários e cessionários do baldio, nos termos do artigo 10.º\n\n3 - As entidades referidas no número anterior têm também legitimidade para requerer a restituição da posse do baldio, no todo ou em parte, a favor da respectiva comunidade ou da entidade que legitimamente o explore.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928646": {
+   "fragment_id": "37387275",
+   "type": 11,
+   "heading": "Artigo 5.º — Regra geral",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 5.º — Regra geral\n\n1 - O uso, a fruição e a administração dos baldios efetivam-se de acordo com os usos e costumes locais e as deliberações dos órgãos competentes das comunidades locais, sem prejuízo do disposto nos artigos seguintes.\n\n2 - Aos compartes é assegurada a igualdade de gozo e exercício dos direitos de uso e fruição do respectivo baldio.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928648": {
+   "fragment_id": "37387375",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de utilização",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 6.º — Plano de utilização\n\n1 - O uso, a fruição e a administração dos baldios obedecem a planos de utilização aprovados em reunião da assembleia de compartes.\n\n2 - O conteúdo e as normas de elaboração, de aprovação, de execução e de revisão dos planos de utilização obedecem ao disposto no Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelo Decreto-Lei n.º 114/2010, de 22 de outubro, com as necessárias adaptações.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928649": {
+   "fragment_id": "37387775",
+   "type": 11,
+   "heading": "Artigo 10.º — Arrendamento e cessão de exploração",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 10.º — Arrendamento e cessão de exploração\n\n1 - Os baldios podem ser objeto, no todo ou em parte, de arrendamento ou de cessão de exploração, com vista ao aproveitamento dos recursos dos respetivos espaços rurais, no respeito pelo disposto na lei e nos programas e planos territoriais aplicáveis.\n\n2 - Pode ainda a assembleia de compartes deliberar a cessão da exploração de partes limitadas do respectivo baldio, para fins de exploração agrícola, aos respectivos compartes, sem prejuízo do princípio da igualdade de tratamento dos propostos cessionários.\n\n3 - A exploração dos baldios mediante arrendamento ou cessão deve efetivar-se de forma sustentada, sem prejuízo da tradicional utilização do baldio pelos compartes, de acordo com os usos e costumes locais.\n\n4 - O arrendamento e a cessão de exploração de baldios têm lugar nas formas e nos termos previstos na lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928650": {
+   "fragment_id": "39004375",
+   "type": 11,
+   "heading": "Artigo 11.º — Administração dos baldios",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 11.º — Administração dos baldios\n\n1 - Os baldios são administrados, por direito próprio, pelos respetivos compartes, nos termos dos usos e costumes locais, através de órgãos democraticamente eleitos.\n\n2 - As comunidades locais organizam-se, para o exercício dos actos de representação, disposição, gestão e fiscalização relativos aos correspondentes baldios, através de uma assembleia de compartes, um conselho directivo e uma comissão de fiscalização.\n\n3 - Os membros da mesa da assembleia de compartes, bem como do conselho diretivo e da comissão de fiscalização, são eleitos pelo período de quatro anos, renováveis, e mantêm-se em exercício de funções até à sua substituição.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58928651": {
+   "fragment_id": "39004475",
+   "type": 11,
+   "heading": "Artigo 12.º — Reuniões",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 12.º — Reuniões\n\n1 - Salvo nos casos especialmente previstos na lei, os órgãos das comunidades locais reúnem validamente com a presença da maioria dos seus membros e deliberam validamente por maioria simples dos membros presentes, tendo o respectivo presidente voto de qualidade.\n\n2 - Podem participar nas reuniões da assembleia de compartes, sem direito a voto nas respetivas deliberações, representantes da junta ou das juntas de freguesia em cuja área territorial o baldio se situe e, quando se trate de baldio sob administração do Estado, um representante do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), tendo em vista esclarecer as questões relativas à atividade desenvolvida nos domínios florestal, da conservação da natureza e da biodiversidade.\n\n3 - Às reuniões da assembleia de compartes podem ainda assistir, como convidadas e sem direito a voto nas respetivas deliberações, pessoas ou entidades que exerçam na área do baldio atividades relacionadas com os assuntos constantes da ordem de trabalhos, podendo estes expor os respetivos pontos de vista.\n\n4 - Independentemente do disposto no n.º 2, o ICNF, I. P., pode fazer-se representar nas reuniões da assembleia de compartes de cuja ordem de trabalhos constem intervenções na área do baldio, quando integrada no sistema nacional de áreas classificadas, procedendo aos esclarecimentos julgados convenientes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929792": {
+   "fragment_id": "39004775",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - Compete à assembleia de compartes:\n\na) Eleger a respectiva mesa;\n\nb) Eleger e destituir, em caso de responsabilidade apurada com todas as garantias de defesa, os membros do conselho directivo e os membros da comissão de fiscalização;\n\nc) (Revogada).\n\nd) Regulamentar e disciplinar o exercício pelos compartes do uso e fruição do baldio, sob proposta do conselho directivo;\n\ne) Discutir, aprovar e modificar o plano de utilização do baldio e as respetivas atualizações, sob proposta do conselho diretivo;\n\nf) Deliberar sobre o recurso ao crédito e fixar o limite até ao qual o conselho directivo pode obtê-lo sem necessidade da sua autorização;\n\ng) Estabelecer os condicionamentos que tiver por necessários à comercialização, pelo conselho directivo, dos frutos e produtos do baldio;\n\nh) Discutir, alterar e votar anualmente o plano de atividades, o relatório e as contas de cada exercício, sob proposta do conselho diretivo;\n\ni) Discutir, alterar e deliberar sobre a aplicação de receitas proposta pelo conselho diretivo, observado o disposto no artigo 11.º-A;\n\nj) Deliberar sobre a alienação, o arrendamento ou a cessão de exploração de direitos sobre baldios, nos termos do disposto na presente lei;\n\nl) Deliberar sobre a delegação de poderes de administração prevista nos artigos 22.º e 23.º;\n\nm) Fiscalizar a atividade do conselho diretivo e, no âmbito da delegação a que se referem os artigos 22.º e 23.º, das entidades em que tiverem sido delegados poderes de administração, bem como emitir diretivas a ambos sobre matérias da sua competência, sem prejuízo da competência própria da comissão de fiscalização;\n\nn) Deliberar sobre a matéria dos recursos para si interpostos dos actos do conselho directivo;\n\no) Ratificar o recurso a juízo pelo conselho directivo, bem como a respectiva representação judicial, para defesa de direitos ou legítimos interesses da comunidade relativos ao correspondente baldio, nomeadamente para defesa dos respectivos domínios, posse e fruição contra actos de ocupação, demarcação e aproveitamento ilegais ou contrários aos usos e costumes por que o baldio se rege;\n\np) Deliberar sobre a extinção do correspondente baldio, nos termos da presente lei, ouvido o conselho directivo;\n\nq) Deliberar sobre todos os demais assuntos do interesse da comunidade relativos ao correspondente baldio que não sejam da competência própria do conselho directivo;\n\nr) Exercer as demais competências decorrentes da lei, uso e costume ou contrato.\n\ns) Deliberar sobre a disponibilização de terrenos do baldio na bolsa de terras criada pela Lei n.º 62/2012, de 10 de dezembro.\n\n2 - A eficácia das deliberações da assembleia de compartes relativas às matérias previstas nas alíneas e), j), l), p) e s) do número anterior depende da sua aprovação por maioria qualificada de dois terços dos membros presentes.\n\n3 - Quando não exista conselho diretivo ou comissão de fiscalização, a assembleia de compartes assume a gestão e representação do baldio e exerce as demais competências que estejam atribuídas àqueles órgãos nos termos da presente lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929793": {
+   "fragment_id": "39004975",
+   "type": 11,
+   "heading": "Artigo 17.º — Periodicidade das assembleias",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 17.º — Periodicidade das assembleias\n\n1 - A assembleia de compartes reúne ordinariamente duas vezes por ano e, extraordinariamente, sempre que for convocada.\n\n2 - As reuniões ordinárias da assembleia de compartes devem ter lugar até 31 de março, para apreciação e votação das matérias referidas nas alíneas a), b) e i) do n.º 1 do artigo 15.º, quando aplicável, bem como para aprovação do relatório e das contas do exercício anterior, e até 31 de dezembro, para aprovação e deliberação do plano de atividades para o ano seguinte.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929794": {
+   "fragment_id": "39005075",
+   "type": 11,
+   "heading": "Artigo 18.º — Convocação",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 18.º — Convocação\n\n1 - A assembleia de compartes é convocada mediante editais afixados nos locais do estilo e por qualquer outro meio de publicitação de larga difusão local ou nacional.\n\n2 - As reuniões da assembleia de compartes são convocadas pelo presidente da respectiva mesa, por iniciativa própria, a solicitação do conselho directivo ou da comissão de fiscalização, ou ainda de 5% do número dos respectivos compartes.\n\n3 - Se, para o efeito solicitado, o presidente não efectuar a convocação dentro do prazo de 15 dias a contar da recepção do respectivo pedido, podem os solicitantes fazer directamente a convocação.\n\n4 - O aviso convocatório deve em qualquer caso mencionar o dia, a hora, o local da reunião e a respectiva ordem de trabalhos e ser tornado público com a antecedência mínima de oito dias.\n\n5 - A assembleia de compartes pode delegar no conselho directivo, com sujeição a ulterior ratificação, a resolução de assuntos constantes da ordem de trabalhos que não impliquem o julgamento ou a fiscalização de actos deste órgão ou a aprovação de propostas que dele tenham promanado, por razões de urgência e falta de tempo para sobre os mesmos eficazmente se debruçar.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929796": {
+   "fragment_id": "39005175",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionamento",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 19.º — Funcionamento\n\n1 - A assembleia de compartes reúne validamente no dia e a hora marcados no aviso convocatório, desde que se mostre verificada a presença da maioria dos respectivos compartes.\n\n2 - Decorridos trinta minutos sobre a hora designada no aviso convocatório, a assembleia de compartes reúne validamente, desde que se encontrem presentes:\n\na) 30 % dos respetivos compartes ou o mínimo de 100 compartes, quando se trate de deliberações que devam ser tomadas por maioria qualificada de dois terços dos compartes presentes;\n\nb) 10 % dos respetivos compartes ou o mínimo de 50 compartes, nos restantes casos.\n\n3 - Caso não se verifique o quórum de funcionamento previsto no número precedente, o presidente da mesa convocará de imediato uma nova reunião para um dos 5 a 14 dias seguintes, a qual funcionará com qualquer número de compartes presentes.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929797": {
+   "fragment_id": "39005375",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 21.º — Competência\n\nCompete ao conselho directivo:\n\na) Dar cumprimento e execução às deliberações da assembleia de compartes que disso careçam;\n\nb) (Revogada).\n\nc) Propor à assembleia de compartes os instrumentos de regulamentação e disciplina do exercício pelos compartes do uso e fruição do baldio e respectivas alterações;\n\nd) Propor à assembleia de compartes os planos de utilização dos recursos do baldio e respectivas actualizações;\n\ne) Elaborar e submeter anualmente à aprovação da assembleia de compartes o plano de atividades, o relatório e as contas de cada exercício, bem como a proposta de aplicação das receitas, observado quanto a esta o disposto no artigo 11.º-A;\n\nf) Propor à assembleia de compartes ou emitir parecer sobre propostas de alienação, de arrendamento e de cessão de exploração de direitos sobre baldios, bem como de disponibilização de terrenos do baldio na bolsa de terras criada pela Lei n.º 62/2012, de 10 de dezembro;\n\ng) Propor à assembleia de compartes ou emitir parecer sobre propostas de delegação de poderes de administração, nos termos da presente lei;\n\nh) Recorrer a juízo e constituir mandatário para defesa de direitos ou interesses legítimos da comunidade relativos ao correspondente baldio e submeter estes actos a ratificação da assembleia de compartes;\n\ni) Representar o universo dos compartes nas relações com entidades públicas e privadas, sem prejuízo do disposto no n.º 2 do artigo 16.º;\n\nj) Exercer em geral todos os actos de administração ou co-administração do baldio, no respeito da lei, dos usos e costumes e dos regulamentos aplicáveis;\n\nl) Zelar pelo cumprimento dos regulamentos e dos planos de utilização dos recursos do baldio;\n\nm) Zelar pela defesa dos valores ecológicos e pelo cumprimento das regras legais e regulamentares relativas à proteção da floresta contra incêndios no espaço do baldio;\n\nn) Propor ao presidente da mesa da assembleia de compartes a convocação desta;\n\no) Promover a inscrição dos terrenos baldios na matriz e as necessárias atualizações desta;\n\np) Exercer as demais competências decorrentes da lei, uso, costume, regulamento ou convenção.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929798": {
+   "fragment_id": "39005475",
+   "type": 11,
+   "heading": "Artigo 22.º — Poderes de delegação",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 22.º — Poderes de delegação\n\n1 - Os compartes podem delegar poderes de administração dos baldios, em relação à totalidade ou a parte da sua área, em junta de freguesia ou na câmara municipal da situação do baldio, bem como em serviço ou organismo da administração direta ou indireta do Estado competente para a modalidade ou modalidades de aproveitamento a que a delegação se reporte.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n4 - No acto de delegação serão formalizados os respectivos termos e condições, nomeadamente os direitos e os deveres inerentes ao exercício dos poderes delegados.\n\n5 - A delegação de poderes prevista nos números antecedentes far-se-á sempre sem prejuízo da sua revogação a todo o tempo, bem como das responsabilidades contratuais que em cada caso couberem, nos termos gerais de direito.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929799": {
+   "fragment_id": "37388275",
+   "type": 11,
+   "heading": "Artigo 26.º — Causas de extinção dos baldios",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 26.º — Causas de extinção dos baldios\n\nExtinguem-se os baldios, no todo ou em parte da respetiva área territorial:\n\na) Cuja extinção tiver sido declarada por unanimidade dos compartes em reunião da respectiva assembleia com a presença do mínimo de dois terços dos respectivos membros;\n\nb) Que tenham sido, ou na parte em que o tenham sido, objecto de expropriação ou alienação voluntária, nos termos da presente lei.\n\nc) Quando, por período igual ou superior a 15 anos, não forem usados, fruídos ou administrados, nomeadamente para fins agrícolas, florestais, silvopastoris ou para outros aproveitamentos dos recursos dos respetivos espaços rurais, de acordo com os usos e costumes locais e as deliberações dos órgãos representativos dos compartes, nos termos a regulamentar por decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929800": {
+   "fragment_id": "37388375",
+   "type": 11,
+   "heading": "Artigo 27.º — Utilização precária",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 27.º — Utilização precária\n\n1 - Decorridos três anos sem que os baldios estejam a ser usados, fruídos ou administrados nos termos da alínea c) do artigo anterior, a junta ou as juntas de freguesia em cuja área se localizem podem utilizá-los diretamente, disponibilizá-los na bolsa de terras ou ceder a terceiros a sua exploração precária, mantendo-se estas situações enquanto os compartes não deliberarem regressar ao uso e normal fruição dos baldios.\n\n2 - O início da utilização dos baldios a que se refere o número anterior é publicitado nas formas previstas no n.º 1 do artigo 18.º, com a antecedência mínima de 30 dias.\n\n3 - Durante o período em que os baldios estão a ser utilizados diretamente pela junta ou juntas de freguesia ou são explorados a título precário por terceiros, e sem prejuízo do disposto no número seguinte, há lugar à prestação de contas, com entrega aos compartes do valor da cedência ou da receita líquida de exploração apurada, deduzida de 50 % a título compensatório, no caso de utilização direta dos baldios pelas referidas juntas.\n\n4 - Os contratos celebrados por junta ou juntas de freguesia a que se referem os números anteriores caducam no termo do prazo respetivo ou quando os compartes regressem ao normal uso e fruição dos terrenos, salvo se eles mantiverem interesse na sua manutenção, caso em que os compartes sucedem na posição contratual da junta ou juntas de freguesia.\n\n5 - A utilização dos baldios pela junta ou juntas de freguesia, nas condições e formas previstas no n.º 1, não suspende o prazo de 15 anos previsto na alínea c) do artigo anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929801": {
+   "fragment_id": "37388475",
+   "type": 11,
+   "heading": "Artigo 28.º — Consequências da extinção",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 28.º — Consequências da extinção\n\nDa extinção, total ou parcial, de um baldio decorre:\n\na) Nos casos das alíneas a) e c) do artigo 26.º, a sua integração no domínio privado da freguesia ou das freguesias em cujas áreas territoriais se situe o terreno baldio abrangido pela extinção;\n\nb) No caso da alínea b) do artigo 26.º, a transferência dos direitos abrangidos pela expropriação ou alienação para a titularidade da entidade expropriante ou em qualquer caso beneficiária da expropriação, ou da entidade adquirente.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929802": {
+   "fragment_id": "37388575",
+   "type": 11,
+   "heading": "Artigo 29.º — Expropriação",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 29.º — Expropriação\n\n1 - Os baldios podem, no todo ou em parte, ser objeto de expropriação por motivo de utilidade pública.\n\n2 - À expropriação a que se refere o número anterior aplica-se o disposto no Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de setembro, com as especialidades previstas nos números seguintes.\n\n3 - Não pode ser requerida a declaração de utilidade pública sem que, previamente, a entidade interessada diligencie no sentido de adquirir o baldio por via de direito privado.\n\n4 - A assembleia de compartes dispõe do prazo de 60 dias para se pronunciar sobre a proposta de aquisição.\n\n5 - No cálculo da indemnização deve ser tomado em consideração não só o grau de utilização efetiva do baldio, como as vantagens propiciadas à comunidade local pela afetação do terreno aos fins da expropriação, não podendo, no entanto, daí resultar um valor inferior ao decorrente da aplicação do princípio da justa indemnização devida por expropriação.\n\n6 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929803": {
+   "fragment_id": "37388675",
+   "type": 11,
+   "heading": "Artigo 30.º — Ónus",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+   ],
+   "markdown": "###### Artigo 30.º — Ónus\n\n1 - Os terrenos baldios não são suscetíveis de penhora, nem podem ser objeto de penhor, hipoteca ou outros ónus, sem prejuízo da constituição de servidões, nos termos gerais de direito, e do disposto no número seguinte.\n\n2 - Os terrenos baldios estão sujeitos às restrições de utilidade pública previstas na lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+  },
+  "58929804": {
+   "fragment_id": "37388775",
+   "type": 11,
+   "heading": "Artigo 31.º — Alienação por razões de interesse local",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 31.º — Alienação por razões de interesse local\n\n1 - A assembleia de compartes pode deliberar a alienação a título oneroso, mediante concurso público, tendo por base o preço do mercado, de áreas limitadas de terrenos baldios:\n\na) Quando os baldios confrontem com o limite da área de povoação e a alienação seja necessária à expansão do respetivo perímetro urbano;\n\nb) Quando a alienação se destine à instalação de unidades industriais, de infra-estruturas e outros empreendimentos de interesse colectivo, nomeadamente para a comunidade local.\n\n2 - As parcelas sobre que incidam os direitos a alienar não podem ter área superior à estritamente necessária ao fim a que se destinam e, quando afetadas a objetivos de expansão urbana, não podem exceder 1500 m por cada nova habitação a construir.\n\n3 - Para efeito do disposto no presente artigo, a propriedade de áreas de terrenos baldios não pode ser transmitida sem que a câmara municipal competente para o licenciamento dos empreendimentos ou das edificações emita informação prévia sobre a viabilidade da pretensão, nos termos do disposto no regime jurídico do urbanismo e da edificação.\n\n4 - A alienação de partes de baldios para instalação de equipamentos sociais, culturais, desportivos ou outros equipamentos coletivos sem fins comerciais ou industriais pode ter lugar a título gratuito, por deliberação da assembleia de compartes, nos termos da alínea j) do n.º 1 e do n.º 2 do artigo 15.º\n\n5 - Na situação referida no número anterior não é permitida a sua posterior alienação a terceiros, a não ser que se processe a título gratuito e para os mesmos fins.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929805": {
+   "fragment_id": "37388875",
+   "type": 11,
+   "heading": "Artigo 32.º — Regra de jurisdição",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 32.º — Regra de jurisdição\n\n1 - Cabe aos tribunais comuns territorialmente competentes conhecer dos litígios que, direta ou indiretamente, tenham por objeto terrenos baldios, designadamente os referentes ao domínio, à delimitação, à utilização, à ocupação ou apropriação e a contratos de arrendamento, de alienação e de cessão de exploração, bem como das deliberações, de ações ou de omissões dos seus órgãos contrárias à lei.\n\n2 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929806": {
+   "fragment_id": "37389175",
+   "type": 11,
+   "heading": "Artigo 35.º — Arrendamentos e cessões de exploração transitórios",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 35.º — Arrendamentos e cessões de exploração transitórios\n\n1 - Os arrendamentos e as cessões de exploração de baldios, nomeadamente para efeitos de aproveitamento dos respetivos espaços rurais e dos seus recursos, em curso à data da entrada em vigor da presente lei, que tenham sido objeto de acordo com órgão representativo da respetiva comunidade local ou de disposição legal, continuam nos termos ajustados ou prescritos até ao termo fixado ou convencionado, sendo renováveis nos termos previstos na lei.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929807": {
+   "fragment_id": "37389375",
+   "type": 11,
+   "heading": "Artigo 37.º — Administração em regime de associação",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 37.º — Administração em regime de associação\n\n1 - Os baldios que à data da entrada em vigor da presente lei estejam a ser administrados em regime de associação entre os compartes e o Estado, previsto na alínea b) do artigo 9.º do Decreto-Lei n.º 39/76, de 19 de Janeiro, continuarão a ser administrados de acordo com esse regime até que ocorra um dos seguintes factos:\n\na) O termo do prazo convencionado para a sua duração;\n\nb) A comunicação pela assembleia de compartes ao Estado, na pessoa ou entidade que para o efeito o represente, de que deve considerar findo aquele regime.\n\n2 - Findo o regime de associação a que se refere o número anterior, poderá o mesmo ser substituído por delegação de poderes nos termos dos artigos 22.º e 23.º\n\n3 - Quando o regime de associação referido no n.º 1 chegar ao termo, a entidade que administra o baldio tem direito a ser compensada pelos compartes das benfeitorias e investimentos realizados, nos termos a regulamentar por decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "58929808": {
+   "fragment_id": "37389775",
+   "type": 11,
+   "heading": "Artigo 41.º — Regulamentação",
+   "in_force_from": "2014-10-02",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 41.º — Regulamentação\n\nA regulamentação necessária à boa execução da presente lei reveste a forma de decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014221": {
+   "fragment_id": "35841475",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "### Capítulo I — Disposições gerais\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014222": {
+   "fragment_id": "37386875",
+   "type": 11,
+   "heading": "Artigo 1.º — Noções",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Rectificado pelo/a [Declaração de Retificação n.º 46/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2014-58644003), em vigor a partir de 2014-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 1.º — Noções\n\n1 - São baldios os terrenos possuídos e geridos por comunidades locais.\n\n2 - Para os efeitos da presente lei, comunidade local é o universo dos compartes.\n\n3 - São compartes todos os cidadãos eleitores, inscritos e residentes nas comunidades locais onde se situam os respetivos terrenos baldios ou que aí desenvolvem uma atividade agroflorestal ou silvopastoril.\n\n4 - São ainda compartes os menores emancipados que sejam residentes nas comunidades locais onde se situam os respetivos terrenos baldios.\n\n5 - Os compartes usufruem os baldios conforme os usos e costumes locais e gerem de forma sustentada, nos termos da lei, os aproveitamentos dos recursos dos respetivos espaços rurais, de acordo com as deliberações tomadas em assembleia de compartes.\n\n6 - O baldio segue o regime do património autónomo no que respeita à personalidade judiciária e tributária, respondendo pelas infrações praticadas em matéria de contraordenações nos mesmos termos que as pessoas coletivas irregularmente constituídas, com as devidas adaptações.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Rectificado pelo/a [Declaração de Retificação n.º 46/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2014-58644003), em vigor a partir de 2014-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014223": {
+   "fragment_id": "37386975",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1 - As disposições da presente lei são aplicáveis aos terrenos baldios, mesmo quando constituídos por áreas descontínuas, nomeadamente aos que se encontrem nas seguintes condições:\n\na) Terrenos considerados baldios e como tais possuídos e geridos por comunidades locais, mesmo que ocasionalmente não estejam a ser objeto, no todo ou em parte, de aproveitamento pelos compartes, ou careçam de órgãos de gestão regularmente constituídos;\n\nb) Terrenos passíveis de uso e fruição por comunidade local, os quais, tendo anteriormente sido usados e fruídos como baldios, foram submetidos ao regime florestal ou de reserva não aproveitada, ao abrigo do Decreto-Lei n.º 27207, de 16 de Novembro de 1936, e da Lei n.º 2069, de 24 de Abril de 1954, e ainda não devolvidos ao abrigo do Decreto-Lei n.º 39/76, de 19 de Janeiro;\n\nc) Terrenos baldios objecto de apossamento por particulares, ainda que transmitidos posteriormente, aos quais são aplicáveis as disposições do Decreto-Lei n.º 40/76, de 1 de Janeiro;\n\nd) Terrenos passíveis de uso e fruição por comunidade local que tenham sido licitamente adquiridos por uma tal comunidade e afectados ao logradouro comum da mesma.\n\n2 - O disposto na presente lei aplica-se, com as necessárias adaptações, e em termos a regulamentar, a equipamentos comunitários, designadamente eiras, fornos, moinhos e azenhas, usados, fruídos e geridos por comunidade local.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014224": {
+   "fragment_id": "37387075",
+   "type": 11,
+   "heading": "Artigo 3.º — Finalidades",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 3.º — Finalidades\n\nOs baldios constituem, em regra, logradouro comum, designadamente para efeitos de apascentação de gados, de recolha de lenhas ou de matos, de culturas e de outros aproveitamentos dos recursos dos respetivos espaços rurais.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014225": {
+   "fragment_id": "37387175",
+   "type": 11,
+   "heading": "Artigo 4.º — Apropriação ou apossamento",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 4.º — Apropriação ou apossamento\n\n1 - Os actos ou negócios jurídicos de apropriação ou apossamento, tendo por objecto terrenos baldios, bem como da sua posterior transmissão, são nulos, nos termos gerais de direito, excepto nos casos expressamente previstos na presente lei.\n\n2 - A declaração de nulidade pode ser requerida:\n\na) Pelos órgãos do baldio ou por qualquer dos compartes;\n\nb) Pelo Ministério Público;\n\nc) Pela entidade na qual os compartes tenham delegado poderes de administração do baldio nos termos dos artigos 22.º e 23.º;\n\nd) Pelos arrendatários e cessionários do baldio, nos termos do artigo 10.º\n\n3 - As entidades referidas no número anterior têm também legitimidade para requerer a restituição da posse do baldio, no todo ou em parte, a favor da respectiva comunidade ou da entidade que legitimamente o explore.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014226": {
+   "fragment_id": "35841575",
+   "type": 1,
+   "heading": "Capítulo II — Uso e fruição",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "### Capítulo II — Uso e fruição\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014227": {
+   "fragment_id": "37387275",
+   "type": 11,
+   "heading": "Artigo 5.º — Regra geral",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 5.º — Regra geral\n\n1 - O uso, a fruição e a administração dos baldios efetivam-se de acordo com os usos e costumes locais e as deliberações dos órgãos competentes das comunidades locais, sem prejuízo do disposto nos artigos seguintes.\n\n2 - Aos compartes é assegurada a igualdade de gozo e exercício dos direitos de uso e fruição do respectivo baldio.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014228": {
+   "fragment_id": "37387375",
+   "type": 11,
+   "heading": "Artigo 6.º — Plano de utilização",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 6.º — Plano de utilização\n\n1 - O uso, a fruição e a administração dos baldios obedecem a planos de utilização aprovados em reunião da assembleia de compartes.\n\n2 - O conteúdo e as normas de elaboração, de aprovação, de execução e de revisão dos planos de utilização obedecem ao disposto no Decreto-Lei n.º 16/2009, de 14 de janeiro, alterado pelo Decreto-Lei n.º 114/2010, de 22 de outubro, com as necessárias adaptações.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014229": {
+   "fragment_id": "37387475",
+   "type": 11,
+   "heading": "Artigo 7.º — Objectivos e âmbito",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 7.º — Objectivos e âmbito\n\n1 - Constituem objectivos dos planos de utilização a programação da utilização racional dos recursos efectivos e potenciais do baldio com sujeição a critérios de coordenação e valia sócio-económica e ambiental, a nível local, regional e nacional.\n\n2 - Os planos de utilização podem dizer respeito apenas a um baldio ou a grupos de baldios, próximos ou afins, susceptíveis de constituir unidades de ordenamento, nomeadamente por exigência da dimensão requerida por objectivos de uso múltiplo ou integrado, por infra-estruturas só justificadas a nível superior ao de um só baldio ou por economias de escala na aquisição e utilização de equipamento.\n\n3 - No caso previsto no número anterior o regime de gestão sofre as adaptações necessárias, nomeadamente por recurso à figura da gestão conjunta.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014230": {
+   "fragment_id": "37387575",
+   "type": 11,
+   "heading": "Artigo 8.º — Planos-tipo de utilização",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 8.º — Planos-tipo de utilização\n\n1 - Os serviços competentes da Administração Pública, sem prejuízo do dever de cooperação previsto no n.º 2 do artigo 6.º, elaborarão projectos de planos-tipo de utilização adequados a situações específicas, em termos a regulamentar.\n\n2 - Na elaboração dos planos-tipo previstos no número anterior tem-se em consideração os conhecimentos técnicos dos serviços e a experiência dos órgãos representativos dos compartes.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014231": {
+   "fragment_id": "37387675",
+   "type": 11,
+   "heading": "Artigo 9.º — Cooperação com serviços públicos",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 9.º — Cooperação com serviços públicos\n\nSempre que a execução dos planos de utilização implique ou aconselhe formas continuadas de cooperação entre serviços públicos especializados e comunidades locais, devem os mesmos planos contemplar as regras disciplinadoras dessa cooperação.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014232": {
+   "fragment_id": "37387775",
+   "type": 11,
+   "heading": "Artigo 10.º — Arrendamento e cessão de exploração",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 10.º — Arrendamento e cessão de exploração\n\n1 - Os baldios podem ser objeto, no todo ou em parte, de arrendamento ou de cessão de exploração, com vista ao aproveitamento dos recursos dos respetivos espaços rurais, no respeito pelo disposto na lei e nos programas e planos territoriais aplicáveis.\n\n2 - Pode ainda a assembleia de compartes deliberar a cessão da exploração de partes limitadas do respectivo baldio, para fins de exploração agrícola, aos respectivos compartes, sem prejuízo do princípio da igualdade de tratamento dos propostos cessionários.\n\n3 - A exploração dos baldios mediante arrendamento ou cessão deve efetivar-se de forma sustentada, sem prejuízo da tradicional utilização do baldio pelos compartes, de acordo com os usos e costumes locais.\n\n4 - O arrendamento e a cessão de exploração de baldios têm lugar nas formas e nos termos previstos na lei.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014233": {
+   "fragment_id": "35841675",
+   "type": 1,
+   "heading": "Capítulo III — Organização e funcionamento",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "### Capítulo III — Organização e funcionamento\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014234": {
+   "fragment_id": "37387875",
+   "type": 8,
+   "heading": "Secção I — Gestão",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "#### Secção I — Gestão\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014235": {
+   "fragment_id": "39004375",
+   "type": 11,
+   "heading": "Artigo 11.º — Administração dos baldios",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 11.º — Administração dos baldios\n\n1 - Os baldios são administrados, por direito próprio, pelos respetivos compartes, nos termos dos usos e costumes locais, através de órgãos democraticamente eleitos.\n\n2 - As comunidades locais organizam-se, para o exercício dos actos de representação, disposição, gestão e fiscalização relativos aos correspondentes baldios, através de uma assembleia de compartes, um conselho directivo e uma comissão de fiscalização.\n\n3 - Os membros da mesa da assembleia de compartes, bem como do conselho diretivo e da comissão de fiscalização, são eleitos pelo período de quatro anos, renováveis, e mantêm-se em exercício de funções até à sua substituição.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014236": {
+   "fragment_id": "39004475",
+   "type": 11,
+   "heading": "Artigo 12.º — Reuniões",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 12.º — Reuniões\n\n1 - Salvo nos casos especialmente previstos na lei, os órgãos das comunidades locais reúnem validamente com a presença da maioria dos seus membros e deliberam validamente por maioria simples dos membros presentes, tendo o respectivo presidente voto de qualidade.\n\n2 - Podem participar nas reuniões da assembleia de compartes, sem direito a voto nas respetivas deliberações, representantes da junta ou das juntas de freguesia em cuja área territorial o baldio se situe e, quando se trate de baldio sob administração do Estado, um representante do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), tendo em vista esclarecer as questões relativas à atividade desenvolvida nos domínios florestal, da conservação da natureza e da biodiversidade.\n\n3 - Às reuniões da assembleia de compartes podem ainda assistir, como convidadas e sem direito a voto nas respetivas deliberações, pessoas ou entidades que exerçam na área do baldio atividades relacionadas com os assuntos constantes da ordem de trabalhos, podendo estes expor os respetivos pontos de vista.\n\n4 - Independentemente do disposto no n.º 2, o ICNF, I. P., pode fazer-se representar nas reuniões da assembleia de compartes de cuja ordem de trabalhos constem intervenções na área do baldio, quando integrada no sistema nacional de áreas classificadas, procedendo aos esclarecimentos julgados convenientes.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014237": {
+   "fragment_id": "39004575",
+   "type": 11,
+   "heading": "Artigo 13.º — Actas",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 13.º — Actas\n\n1 - Das reuniões dos órgãos das comunidades locais são elaboradas actas, que, depois de lidas e aprovadas, são assinadas pela respectiva mesa, no que se refere à assembleia de compartes, e pelos respectivos membros, quanto aos restantes órgãos.\n\n2 - Em caso de urgência devidamente justificada, os órgãos podem delegar a aprovação da acta.\n\n3 - Só a acta pode certificar validamente as discussões havidas, as deliberações tomadas e o mais que nas reuniões tiver ocorrido.\n\n4 - As actas referidas nos números anteriores podem ser livremente consultadas por quem nisso tiver interesse.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014238": {
+   "fragment_id": "37387975",
+   "type": 8,
+   "heading": "Secção II — Assembleia de compartes",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "#### Secção II — Assembleia de compartes\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014239": {
+   "fragment_id": "39004675",
+   "type": 11,
+   "heading": "Artigo 14.º — Composição",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 14.º — Composição\n\nA assembleia de compartes é constituída por todos os compartes.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014240": {
+   "fragment_id": "39004775",
+   "type": 11,
+   "heading": "Artigo 15.º — Competência",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 15.º — Competência\n\n1 - Compete à assembleia de compartes:\n\na) Eleger a respectiva mesa;\n\nb) Eleger e destituir, em caso de responsabilidade apurada com todas as garantias de defesa, os membros do conselho directivo e os membros da comissão de fiscalização;\n\nc) (Revogada).\n\nd) Regulamentar e disciplinar o exercício pelos compartes do uso e fruição do baldio, sob proposta do conselho directivo;\n\ne) Discutir, aprovar e modificar o plano de utilização do baldio e as respetivas atualizações, sob proposta do conselho diretivo;\n\nf) Deliberar sobre o recurso ao crédito e fixar o limite até ao qual o conselho directivo pode obtê-lo sem necessidade da sua autorização;\n\ng) Estabelecer os condicionamentos que tiver por necessários à comercialização, pelo conselho directivo, dos frutos e produtos do baldio;\n\nh) Discutir, alterar e votar anualmente o plano de atividades, o relatório e as contas de cada exercício, sob proposta do conselho diretivo;\n\ni) Discutir, alterar e deliberar sobre a aplicação de receitas proposta pelo conselho diretivo, observado o disposto no artigo 11.º-A;\n\nj) Deliberar sobre a alienação, o arrendamento ou a cessão de exploração de direitos sobre baldios, nos termos do disposto na presente lei;\n\nl) Deliberar sobre a delegação de poderes de administração prevista nos artigos 22.º e 23.º;\n\nm) Fiscalizar a atividade do conselho diretivo e, no âmbito da delegação a que se referem os artigos 22.º e 23.º, das entidades em que tiverem sido delegados poderes de administração, bem como emitir diretivas a ambos sobre matérias da sua competência, sem prejuízo da competência própria da comissão de fiscalização;\n\nn) Deliberar sobre a matéria dos recursos para si interpostos dos actos do conselho directivo;\n\no) Ratificar o recurso a juízo pelo conselho directivo, bem como a respectiva representação judicial, para defesa de direitos ou legítimos interesses da comunidade relativos ao correspondente baldio, nomeadamente para defesa dos respectivos domínios, posse e fruição contra actos de ocupação, demarcação e aproveitamento ilegais ou contrários aos usos e costumes por que o baldio se rege;\n\np) Deliberar sobre a extinção do correspondente baldio, nos termos da presente lei, ouvido o conselho directivo;\n\nq) Deliberar sobre todos os demais assuntos do interesse da comunidade relativos ao correspondente baldio que não sejam da competência própria do conselho directivo;\n\nr) Exercer as demais competências decorrentes da lei, uso e costume ou contrato.\n\ns) Deliberar sobre a disponibilização de terrenos do baldio na bolsa de terras criada pela Lei n.º 62/2012, de 10 de dezembro.\n\n2 - A eficácia das deliberações da assembleia de compartes relativas às matérias previstas nas alíneas e), j), l), p) e s) do número anterior depende da sua aprovação por maioria qualificada de dois terços dos membros presentes.\n\n3 - Quando não exista conselho diretivo ou comissão de fiscalização, a assembleia de compartes assume a gestão e representação do baldio e exerce as demais competências que estejam atribuídas àqueles órgãos nos termos da presente lei.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014241": {
+   "fragment_id": "39004875",
+   "type": 11,
+   "heading": "Artigo 16.º — Composição da mesa",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 16.º — Composição da mesa\n\n1 - A mesa da assembleia de compartes é constituída por um presidente, um vice-presidente e dois secretários, eleitos pela assembleia, de entre os seus membros, pelo sistema de lista completa.\n\n2 - O presidente representa a assembleia de compartes, preside às reuniões e dirige os trabalhos.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014242": {
+   "fragment_id": "39004975",
+   "type": 11,
+   "heading": "Artigo 17.º — Periodicidade das assembleias",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 17.º — Periodicidade das assembleias\n\n1 - A assembleia de compartes reúne ordinariamente duas vezes por ano e, extraordinariamente, sempre que for convocada.\n\n2 - As reuniões ordinárias da assembleia de compartes devem ter lugar até 31 de março, para apreciação e votação das matérias referidas nas alíneas a), b) e i) do n.º 1 do artigo 15.º, quando aplicável, bem como para aprovação do relatório e das contas do exercício anterior, e até 31 de dezembro, para aprovação e deliberação do plano de atividades para o ano seguinte.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014243": {
+   "fragment_id": "39005075",
+   "type": 11,
+   "heading": "Artigo 18.º — Convocação",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 18.º — Convocação\n\n1 - A assembleia de compartes é convocada mediante editais afixados nos locais do estilo e por qualquer outro meio de publicitação de larga difusão local ou nacional.\n\n2 - As reuniões da assembleia de compartes são convocadas pelo presidente da respectiva mesa, por iniciativa própria, a solicitação do conselho directivo ou da comissão de fiscalização, ou ainda de 5% do número dos respectivos compartes.\n\n3 - Se, para o efeito solicitado, o presidente não efectuar a convocação dentro do prazo de 15 dias a contar da recepção do respectivo pedido, podem os solicitantes fazer directamente a convocação.\n\n4 - O aviso convocatório deve em qualquer caso mencionar o dia, a hora, o local da reunião e a respectiva ordem de trabalhos e ser tornado público com a antecedência mínima de oito dias.\n\n5 - A assembleia de compartes pode delegar no conselho directivo, com sujeição a ulterior ratificação, a resolução de assuntos constantes da ordem de trabalhos que não impliquem o julgamento ou a fiscalização de actos deste órgão ou a aprovação de propostas que dele tenham promanado, por razões de urgência e falta de tempo para sobre os mesmos eficazmente se debruçar.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014244": {
+   "fragment_id": "39005175",
+   "type": 11,
+   "heading": "Artigo 19.º — Funcionamento",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 19.º — Funcionamento\n\n1 - A assembleia de compartes reúne validamente no dia e a hora marcados no aviso convocatório, desde que se mostre verificada a presença da maioria dos respectivos compartes.\n\n2 - Decorridos trinta minutos sobre a hora designada no aviso convocatório, a assembleia de compartes reúne validamente, desde que se encontrem presentes:\n\na) 30 % dos respetivos compartes ou o mínimo de 100 compartes, quando se trate de deliberações que devam ser tomadas por maioria qualificada de dois terços dos compartes presentes;\n\nb) 10 % dos respetivos compartes ou o mínimo de 50 compartes, nos restantes casos.\n\n3 - Caso não se verifique o quórum de funcionamento previsto no número precedente, o presidente da mesa convocará de imediato uma nova reunião para um dos 5 a 14 dias seguintes, a qual funcionará com qualquer número de compartes presentes.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014245": {
+   "fragment_id": "37388075",
+   "type": 8,
+   "heading": "Secção III — Conselho directivo",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "#### Secção III — Conselho directivo\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014246": {
+   "fragment_id": "39005275",
+   "type": 11,
+   "heading": "Artigo 20.º — Composição",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 20.º — Composição\n\n1 - O conselho directivo é composto por três, cinco ou sete membros eleitos pela assembleia de compartes de entre os seus membros pelo sistema de lista completa.\n\n2 - O conselho directivo elege um presidente e um vice-presidente.\n\n3 - O presidente representa o conselho directivo, preside às reuniões e dirige os trabalhos, sendo substituído nas suas faltas e impedimentos pelo vice-presidente.\n\n4 - Os vogais secretariam e elaboram as actas.\n\n5 - Podem ser eleitos vogais suplentes que substituam os efectivos em caso de vacatura do lugar e nas suas faltas e impedimentos, os quais são convocados pelo presidente e pela ordem da sua menção na lista.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014247": {
+   "fragment_id": "39005375",
+   "type": 11,
+   "heading": "Artigo 21.º — Competência",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 21.º — Competência\n\nCompete ao conselho directivo:\n\na) Dar cumprimento e execução às deliberações da assembleia de compartes que disso careçam;\n\nb) (Revogada).\n\nc) Propor à assembleia de compartes os instrumentos de regulamentação e disciplina do exercício pelos compartes do uso e fruição do baldio e respectivas alterações;\n\nd) Propor à assembleia de compartes os planos de utilização dos recursos do baldio e respectivas actualizações;\n\ne) Elaborar e submeter anualmente à aprovação da assembleia de compartes o plano de atividades, o relatório e as contas de cada exercício, bem como a proposta de aplicação das receitas, observado quanto a esta o disposto no artigo 11.º-A;\n\nf) Propor à assembleia de compartes ou emitir parecer sobre propostas de alienação, de arrendamento e de cessão de exploração de direitos sobre baldios, bem como de disponibilização de terrenos do baldio na bolsa de terras criada pela Lei n.º 62/2012, de 10 de dezembro;\n\ng) Propor à assembleia de compartes ou emitir parecer sobre propostas de delegação de poderes de administração, nos termos da presente lei;\n\nh) Recorrer a juízo e constituir mandatário para defesa de direitos ou interesses legítimos da comunidade relativos ao correspondente baldio e submeter estes actos a ratificação da assembleia de compartes;\n\ni) Representar o universo dos compartes nas relações com entidades públicas e privadas, sem prejuízo do disposto no n.º 2 do artigo 16.º;\n\nj) Exercer em geral todos os actos de administração ou co-administração do baldio, no respeito da lei, dos usos e costumes e dos regulamentos aplicáveis;\n\nl) Zelar pelo cumprimento dos regulamentos e dos planos de utilização dos recursos do baldio;\n\nm) Zelar pela defesa dos valores ecológicos e pelo cumprimento das regras legais e regulamentares relativas à proteção da floresta contra incêndios no espaço do baldio;\n\nn) Propor ao presidente da mesa da assembleia de compartes a convocação desta;\n\no) Promover a inscrição dos terrenos baldios na matriz e as necessárias atualizações desta;\n\np) Exercer as demais competências decorrentes da lei, uso, costume, regulamento ou convenção.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014248": {
+   "fragment_id": "39005475",
+   "type": 11,
+   "heading": "Artigo 22.º — Poderes de delegação",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 22.º — Poderes de delegação\n\n1 - Os compartes podem delegar poderes de administração dos baldios, em relação à totalidade ou a parte da sua área, em junta de freguesia ou na câmara municipal da situação do baldio, bem como em serviço ou organismo da administração direta ou indireta do Estado competente para a modalidade ou modalidades de aproveitamento a que a delegação se reporte.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n4 - No acto de delegação serão formalizados os respectivos termos e condições, nomeadamente os direitos e os deveres inerentes ao exercício dos poderes delegados.\n\n5 - A delegação de poderes prevista nos números antecedentes far-se-á sempre sem prejuízo da sua revogação a todo o tempo, bem como das responsabilidades contratuais que em cada caso couberem, nos termos gerais de direito.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014249": {
+   "fragment_id": "39005575",
+   "type": 11,
+   "heading": "Artigo 23.º — Delegação com reserva",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 23.º — Delegação com reserva\n\n1 - Os compartes podem efectivar as delegações de poderes previstas no artigo antecedente com reserva de co-exercício pelos compartes, directamente ou através dos respectivos órgãos de gestão, dos poderes efectivamente delegados.\n\n2 - O regime de co-gestão decorrente do previsto no número antecedente será objecto de acordo, caso a caso, com respeito pelo princípio da liberdade contratual.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014250": {
+   "fragment_id": "37388175",
+   "type": 8,
+   "heading": "Secção IV — Comissão de fiscalização",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "#### Secção IV — Comissão de fiscalização\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014251": {
+   "fragment_id": "39005675",
+   "type": 11,
+   "heading": "Artigo 24.º — Composição",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 24.º — Composição\n\n1 - A comissão de fiscalização é constituída por cinco elementos, eleitos pela assembleia de compartes, de entre os seus membros, de preferência com conhecimentos de contabilidade.\n\n2 - Os membros da comissão de fiscalização elegerão um presidente e um secretário de entre todos eles.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014252": {
+   "fragment_id": "39005775",
+   "type": 11,
+   "heading": "Artigo 25.º — Competência",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 25.º — Competência\n\nCompete à comissão de fiscalização:\n\na) Tomar conhecimento da contabilidade do baldio, dar parecer sobre as contas e verificar a regularidade dos documentos de receita e despesa;\n\nb) Fiscalizar o cumprimento dos planos de utilização do baldio e a regularidade da cobrança e aplicação das receitas e da justificação das despesas;\n\nc) Comunicar às entidades competentes as ocorrências de violação da lei e de incumprimento de contratos tendo o baldio por objecto;\n\nd) Zelar pelo respeito das regras de protecção do ambiente.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014253": {
+   "fragment_id": "35841775",
+   "type": 1,
+   "heading": "Capítulo IV — Extinção dos baldios",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "### Capítulo IV — Extinção dos baldios\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014254": {
+   "fragment_id": "37388275",
+   "type": 11,
+   "heading": "Artigo 26.º — Causas de extinção dos baldios",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 26.º — Causas de extinção dos baldios\n\nExtinguem-se os baldios, no todo ou em parte da respetiva área territorial:\n\na) Cuja extinção tiver sido declarada por unanimidade dos compartes em reunião da respectiva assembleia com a presença do mínimo de dois terços dos respectivos membros;\n\nb) Que tenham sido, ou na parte em que o tenham sido, objecto de expropriação ou alienação voluntária, nos termos da presente lei.\n\nc) Quando, por período igual ou superior a 15 anos, não forem usados, fruídos ou administrados, nomeadamente para fins agrícolas, florestais, silvopastoris ou para outros aproveitamentos dos recursos dos respetivos espaços rurais, de acordo com os usos e costumes locais e as deliberações dos órgãos representativos dos compartes, nos termos a regulamentar por decreto-lei.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014255": {
+   "fragment_id": "37388375",
+   "type": 11,
+   "heading": "Artigo 27.º — Utilização precária",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 27.º — Utilização precária\n\n1 - Decorridos três anos sem que os baldios estejam a ser usados, fruídos ou administrados nos termos da alínea c) do artigo anterior, a junta ou as juntas de freguesia em cuja área se localizem podem utilizá-los diretamente, disponibilizá-los na bolsa de terras ou ceder a terceiros a sua exploração precária, mantendo-se estas situações enquanto os compartes não deliberarem regressar ao uso e normal fruição dos baldios.\n\n2 - O início da utilização dos baldios a que se refere o número anterior é publicitado nas formas previstas no n.º 1 do artigo 18.º, com a antecedência mínima de 30 dias.\n\n3 - Durante o período em que os baldios estão a ser utilizados diretamente pela junta ou juntas de freguesia ou são explorados a título precário por terceiros, e sem prejuízo do disposto no número seguinte, há lugar à prestação de contas, com entrega aos compartes do valor da cedência ou da receita líquida de exploração apurada, deduzida de 50 % a título compensatório, no caso de utilização direta dos baldios pelas referidas juntas.\n\n4 - Os contratos celebrados por junta ou juntas de freguesia a que se referem os números anteriores caducam no termo do prazo respetivo ou quando os compartes regressem ao normal uso e fruição dos terrenos, salvo se eles mantiverem interesse na sua manutenção, caso em que os compartes sucedem na posição contratual da junta ou juntas de freguesia.\n\n5 - A utilização dos baldios pela junta ou juntas de freguesia, nas condições e formas previstas no n.º 1, não suspende o prazo de 15 anos previsto na alínea c) do artigo anterior.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014256": {
+   "fragment_id": "37388475",
+   "type": 11,
+   "heading": "Artigo 28.º — Consequências da extinção",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 28.º — Consequências da extinção\n\nDa extinção, total ou parcial, de um baldio decorre:\n\na) Nos casos das alíneas a) e c) do artigo 26.º, a sua integração no domínio privado da freguesia ou das freguesias em cujas áreas territoriais se situe o terreno baldio abrangido pela extinção;\n\nb) No caso da alínea b) do artigo 26.º, a transferência dos direitos abrangidos pela expropriação ou alienação para a titularidade da entidade expropriante ou em qualquer caso beneficiária da expropriação, ou da entidade adquirente.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014257": {
+   "fragment_id": "37388575",
+   "type": 11,
+   "heading": "Artigo 29.º — Expropriação",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 29.º — Expropriação\n\n1 - Os baldios podem, no todo ou em parte, ser objeto de expropriação por motivo de utilidade pública.\n\n2 - À expropriação a que se refere o número anterior aplica-se o disposto no Código das Expropriações, aprovado pela Lei n.º 168/99, de 18 de setembro, com as especialidades previstas nos números seguintes.\n\n3 - Não pode ser requerida a declaração de utilidade pública sem que, previamente, a entidade interessada diligencie no sentido de adquirir o baldio por via de direito privado.\n\n4 - A assembleia de compartes dispõe do prazo de 60 dias para se pronunciar sobre a proposta de aquisição.\n\n5 - No cálculo da indemnização deve ser tomado em consideração não só o grau de utilização efetiva do baldio, como as vantagens propiciadas à comunidade local pela afetação do terreno aos fins da expropriação, não podendo, no entanto, daí resultar um valor inferior ao decorrente da aplicação do princípio da justa indemnização devida por expropriação.\n\n6 - (Revogado).\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014258": {
+   "fragment_id": "37388675",
+   "type": 11,
+   "heading": "Artigo 30.º — Ónus",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+   ],
+   "markdown": "###### Artigo 30.º — Ónus\n\n1 - Os terrenos baldios não são suscetíveis de penhora, nem podem ser objeto de penhor, hipoteca ou outros ónus, sem prejuízo da constituição de servidões, nos termos gerais de direito, e do disposto no número seguinte.\n\n2 - Os terrenos baldios estão sujeitos às restrições de utilidade pública previstas na lei.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+  },
+  "108014259": {
+   "fragment_id": "37388775",
+   "type": 11,
+   "heading": "Artigo 31.º — Alienação por razões de interesse local",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Rectificado pelo/a [Declaração de Retificação n.º 46/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2014-58644003), em vigor a partir de 2014-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 31.º — Alienação por razões de interesse local\n\n1 - A assembleia de compartes pode deliberar a alienação a título oneroso, mediante concurso público, tendo por base o preço do mercado, de áreas limitadas de terrenos baldios:\n\na) Quando os baldios confrontem com o limite da área de povoação e a alienação seja necessária à expansão do respetivo perímetro urbano;\n\nb) Quando a alienação se destine à instalação de unidades industriais, de infra-estruturas e outros empreendimentos de interesse colectivo, nomeadamente para a comunidade local.\n\n2 - As parcelas sobre que incidam os direitos a alienar não podem ter área superior à estritamente necessária ao fim que se destinam e, quando afetadas a objetivos de expansão urbana, não podem exceder 1500 m2 por cada nova habitação a construir..\n\n3 - Para efeito do disposto no presente artigo, a propriedade de áreas de terrenos baldios não pode ser transmitida sem que a câmara municipal competente para o licenciamento dos empreendimentos ou das edificações emita informação prévia sobre a viabilidade da pretensão, nos termos do disposto no regime jurídico do urbanismo e da edificação.\n\n4 - A alienação de partes de baldios para instalação de equipamentos sociais, culturais, desportivos ou outros equipamentos coletivos sem fins comerciais ou industriais pode ter lugar a título gratuito, por deliberação da assembleia de compartes, nos termos da alínea j) do n.º 1 e do n.º 2 do artigo 15.º\n\n5 - Na situação referida no número anterior não é permitida a sua posterior alienação a terceiros, a não ser que se processe a título gratuito e para os mesmos fins.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Rectificado pelo/a [Declaração de Retificação n.º 46/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2014-58644003), em vigor a partir de 2014-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014260": {
+   "fragment_id": "35841875",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014261": {
+   "fragment_id": "37388875",
+   "type": 11,
+   "heading": "Artigo 32.º — Regra de jurisdição",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 32.º — Regra de jurisdição\n\n1 - Cabe aos tribunais comuns territorialmente competentes conhecer dos litígios que, direta ou indiretamente, tenham por objeto terrenos baldios, designadamente os referentes ao domínio, à delimitação, à utilização, à ocupação ou apropriação e a contratos de arrendamento, de alienação e de cessão de exploração, bem como das deliberações, de ações ou de omissões dos seus órgãos contrárias à lei.\n\n2 - (Revogado).\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014262": {
+   "fragment_id": "37388975",
+   "type": 11,
+   "heading": "Artigo 33.º — Recenseamento",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 33.º — Recenseamento\n\n1 - O recenseamento dos compartes identifica e regista os moradores da comunidade local com direitos sobre o baldio.\n\n2 - Os recenseamentos provisórios previstos no n.º 2 do artigo 22.º do Decreto-Lei n.º 39/76, de 19 de Janeiro, ou os recenseamentos tidos por definitivos, correspondentes ou não àqueles recenseamentos, ainda que validados apenas por práticas consuetudinárias inequívocas, são reconhecidos como válidos até à sua substituição ou actualização, nos termos da presente lei.\n\n3 - Em caso de inexistência de recenseamento dos compartes de determinado baldio, a iniciativa da sua elaboração compete à assembleia de compartes, quando para o efeito convocada ou, em caso de inexistência ou não convocação daquela assembleia, ou da sua inércia dentro do prazo de seis meses a contar da entrada em vigor da presente lei, a sua elaboração compete a grupos de 10 membros da comunidade local usualmente reconhecidos como compartes, os quais deverão cooperar entre si no caso de se vir a constituir mais de um.\n\n4 - Decorrido um ano a partir da entrada em vigor da presente lei sem que tenha ocorrido qualquer das iniciativas previstas no número anterior, a obrigação legal de efectuar o recenseamento é automaticamente transferida para a junta de freguesia em cuja área territorial se localize a totalidade ou a maior parte do baldio, para cumprimento no prazo de seis meses.\n\n5 - A junta de freguesia referida no número anterior tem, em qualquer caso, o dever de cooperar com as entidades promotoras referidas no n.º 1, sob pena de, recusando-se a cooperar ou a cumprir a obrigação prevista no número anterior, passar a carecer de legitimidade para nela ser ou continuar delegada a administração do respectivo baldio, durante um período de 10 anos a contar do termo do semestre referido no número anterior.\n\n6 - Em caso de renitente inexistência de recenseamento dos compartes, por inércia de todas as entidades referidas nos números 3 e 4 e até ao suprimento efectivo dessa falta, aplicam-se as regras consuetudinárias, quando inequivocamente existam e, na falta delas, supre a falta do recenseamento dos compartes o recenseamento eleitoral dos residentes na comunidade local a que o baldio pertence, com as adaptações e correcções aprovadas nas reuniões da assembleia de compartes convocadas com base nele.\n\n7 - A convocação prevista na parte final do número anterior compete ao conselho directivo, quando exista, ou, na sua falta, a grupos de 10 membros da comunidade local usualmente reconhecidos como compartes, constituídos em comissão ad hoc.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014263": {
+   "fragment_id": "37389075",
+   "type": 11,
+   "heading": "Artigo 34.º — Devolução não efectuada",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 34.º — Devolução não efectuada\n\n1 - Os baldios que, por força do disposto no artigo 3.º do Decreto-Lei n.º 39/76, de 19 de Janeiro, foram legalmente devolvidos ao uso, fruição e administração dos respectivos compartes, e que ainda o não tenham sido de facto, sê-lo-ão logo que, constituída a respectiva assembleia de compartes, esta tome a iniciativa de promover que a devolução de facto se efective.\n\n2 - Os aspectos da devolução não regulados na presente lei e nos respectivos diplomas regulamentares serão, na falta de acordo, dirimidos por recurso ao tribunal comum, nos termos do artigo 32.º\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014264": {
+   "fragment_id": "37389175",
+   "type": 11,
+   "heading": "Artigo 35.º — Arrendamentos e cessões de exploração transitórios",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 35.º — Arrendamentos e cessões de exploração transitórios\n\n1 - Os arrendamentos e as cessões de exploração de baldios, nomeadamente para efeitos de aproveitamento dos respetivos espaços rurais e dos seus recursos, em curso à data da entrada em vigor da presente lei, que tenham sido objeto de acordo com órgão representativo da respetiva comunidade local ou de disposição legal, continuam nos termos ajustados ou prescritos até ao termo fixado ou convencionado, sendo renováveis nos termos previstos na lei.\n\n2 - (Revogado).\n\n3 - (Revogado).\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014265": {
+   "fragment_id": "37389275",
+   "type": 11,
+   "heading": "Artigo 36.º — Administração transitória",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 36.º — Administração transitória\n\n1 - A administração de baldios que, no todo ou em parte, tenha sido transferida de facto para qualquer entidade administrativa, nomeadamente para uma ou mais juntas de freguesia, e que nessa situação se mantenha à data da entrada em vigor da presente lei, considera-se delegada nestas entidades com os correspondentes poderes e deveres e com os inerentes direitos, por força da presente lei, e nessa situação se mantém, com as adaptações decorrentes do que nesta lei se dispõe, até que a delegação seja expressamente confirmada ou revogada nos novos moldes agora prescritos.\n\n2 - Finda a administração referida no número anterior, haverá lugar a prestação de contas, nos termos gerais, pela entidade gestora.\n\n3 - As receitas líquidas apuradas serão distribuídas nos termos eventualmente previstos no acto de transferência ou em partes iguais pela entidade gestora e pela comunidade dos compartes.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014266": {
+   "fragment_id": "37389375",
+   "type": 11,
+   "heading": "Artigo 37.º — Administração em regime de associação",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 37.º — Administração em regime de associação\n\n1 - Os baldios que à data da entrada em vigor da presente lei estejam a ser administrados em regime de associação entre os compartes e o Estado, previsto na alínea b) do artigo 9.º do Decreto-Lei n.º 39/76, de 19 de Janeiro, continuarão a ser administrados de acordo com esse regime até que ocorra um dos seguintes factos:\n\na) O termo do prazo convencionado para a sua duração;\n\nb) A comunicação pela assembleia de compartes ao Estado, na pessoa ou entidade que para o efeito o represente, de que deve considerar findo aquele regime.\n\n2 - Findo o regime de associação a que se refere o número anterior, poderá o mesmo ser substituído por delegação de poderes nos termos dos artigos 22.º e 23.º\n\n3 - Quando o regime de associação referido no n.º 1 chegar ao termo, a entidade que administra o baldio tem direito a ser compensada pelos compartes das benfeitorias e investimentos realizados, nos termos a regulamentar por decreto-lei.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014267": {
+   "fragment_id": "37389475",
+   "type": 11,
+   "heading": "Artigo 38.º — Prescrição das receitas",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 38.º — Prescrição das receitas\n\n1 - O direito das comunidades locais às receitas provenientes do aproveitamento dos baldios em regime florestal, nos termos do Decreto-Lei n.º 39/76, de 19 de Janeiro, depositadas pelos serviços competentes da administração central, e ainda não recebidas por nenhum órgão da administração do baldio, prescreve no prazo de três anos a contar da entrada em vigor da presente lei, desde que se mostre cumprido o disposto no subsequente n.º 2.\n\n2 - Até 90 dias a contar da entrada em vigor da presente lei, os serviços da Administração comunicarão à junta ou juntas de freguesia os montantes referidos no número anterior, identificando a entidade depositária e os respectivos depósitos, após o que as juntas de freguesia afixarão um aviso, nos locais do costume, durante o prazo que decorrer até à prescrição, comunicando aos compartes que têm ao seu dispor e podem exigir, nesse prazo, os montantes em causa, e promoverão a publicação do mesmo em jornal local ou, na falta deste, no jornal mais lido na localidade.\n\n3 - No caso de os montantes em causa terem sido depositados pelos competentes serviços da Administração em qualquer banco à ordem das comunidades locais com direito ao seu recebimento, a instituição bancária respectiva deverá fazer a sua entrega ao órgão representativo da comunidade, dentro do prazo de 90 dias a contar da entrada em vigor da presente lei.\n\n4 - No caso previsto no n.º 1, os serviços da Administração em cuja posse se encontrarem os montantes farão entrega dos mesmos, no prazo previsto no número anterior, à junta ou juntas de freguesia da área do baldio, para os efeitos do disposto no número seguinte.\n\n5 - As juntas de freguesia referidas no número anterior elaborarão, no prazo de 90 dias a contar do respectivo recebimento, um plano de utilização dos montantes recebidos, a submeter à aprovação da assembleia de compartes ou, no caso de esta não existir ou não funcionar, à da respectiva assembleia ou assembleias de freguesia, no qual proporão a afectação dos mesmos montantes a empreendimentos e melhoramentos na área correspondente ao respectivo baldio, ou na área territorial da respectiva comunidade.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014268": {
+   "fragment_id": "37389575",
+   "type": 11,
+   "heading": "Artigo 39.º — Construções irregulares",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+   ],
+   "markdown": "###### Artigo 39.º — Construções irregulares\n\n1 - Os terrenos baldios nos quais, até à data da publicação da presente lei, tenham sido efectuadas construções de carácter duradouro, destinadas a habitação ou a fins de exploração económica ou utilização social, desde que se trate de situações relativamente às quais se verifique, no essencial, o condicionalismo previsto no artigo 31.º, podem ser objecto de alienação pela assembleia de compartes, por deliberação da maioria de dois terços dos seus membros presentes, com dispensa de concurso público, através de fixação de preço por negociação directa, cumprindo-se no mais o disposto naquele artigo.\n\n2 - Quando não se verifiquem os condicionalismos previstos no número anterior e no artigo 31.º, os proprietários das referidas construções podem adquirir a parcela de terreno de que se trate por recurso à acessão industrial imobiliária, presumindo-se, até prova em contrário, a boa fé de quem construiu e podendo o autor da incorporação adquirir a propriedade do terreno, nos termos do disposto no artigo 1340.º, n.º 1, do Código Civil, ainda que o valor deste seja maior do que o valor acrescentado, sob pena de, não tomando essa iniciativa no prazo de um ano a contar da entrada em vigor da presente lei, poderem as respectivas comunidades locais adquirir a todo o tempo as benfeitorias necessárias e úteis incorporadas no terreno avaliadas por acordo ou, na falta dele, por decisão judicial.\n\n3 - Quando à data da publicação do presente diploma existam, implantadas em terreno baldio, obras destinadas à condução de águas que não tenham origem nele, em proveito da agricultura ou indústria, ou para gastos domésticos, podem os autores dessas obras adquirir o direito à respectiva servidão de aqueduto, mediante indemnização correspondente ao valor do prejuízo que da constituição da servidão resulte para o baldio.\n\n4 - Na falta de acordo quanto ao valor da indemnização prevista no n.º 3 deste artigo, será ele determinado judicialmente.\n\n5 - As comunidades locais têm, a todo o tempo, o direito de ser também indemnizadas do prejuízo que venha a resultar da infiltração ou erupção das águas ou da deterioração das obras feitas para a sua condução.\n\n6 - Se a água do aqueduto não for toda necessária ao seu proprietário e a assembleia de compartes do baldio deliberar ter parte no excedente, poderá essa parte ser concedida à respectiva comunidade local, mediante prévia indemnização e pagando ela, além disso, a quota proporcional à despesa feita com a sua condução até ao ponto donde pretende derivá-la.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Alterado pelo/a Artigo único do/a [Lei n.º 89/97 - Diário da República n.º 174/1997, Série I-A de 1997-07-30](https://diariodarepublica.pt/dr/detalhe/lei/89-1997-144794), em vigor a partir de 1997-08-04"
+  },
+  "108014269": {
+   "fragment_id": "37389675",
+   "type": 11,
+   "heading": "Artigo 40.º — Mandato dos actuais órgãos",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 40.º — Mandato dos actuais órgãos\n\nOs actuais membros da mesa da assembleia de compartes e do conselho directivo completam o tempo de duração dos mandatos em curso nos termos do Decreto-Lei n.º 39/76, de 19 de Janeiro, sem prejuízo da aplicação imediata das disposições da presente lei, designadamente quanto à constituição da comissão de fiscalização.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014270": {
+   "fragment_id": "37389775",
+   "type": 11,
+   "heading": "Artigo 41.º — Regulamentação",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22",
+    "Rectificado pelo/a [Declaração de Retificação n.º 46/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2014-58644003), em vigor a partir de 2014-10-02",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+   ],
+   "markdown": "###### Artigo 41.º — Regulamentação\n\nA regulamentação necessária à boa execução da presente lei reveste a forma de decreto-lei.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22\n\n> Rectificado pelo/a [Declaração de Retificação n.º 46/2014 - Diário da República n.º 209/2014, Série I de 2014-10-29](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/46-2014-58644003), em vigor a partir de 2014-10-02\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 72/2014 - Diário da República n.º 168/2014, Série I de 2014-09-02](https://diariodarepublica.pt/dr/detalhe/lei/72-2014-56388820), em vigor a partir de 2014-10-02"
+  },
+  "108014271": {
+   "fragment_id": "37389875",
+   "type": 11,
+   "heading": "Artigo 42.º — Norma revogatória",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "###### Artigo 42.º — Norma revogatória\n\nSão revogadas todas as normas legais aplicáveis a baldios, nomeadamente os Decretos-Leis números 39/76 e 40/76, de 19 de Janeiro.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  },
+  "108014272": {
+   "fragment_id": "35841975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2017-08-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+   ],
+   "markdown": "Aprovada em 29 de Junho de 1993.\n\nO Presidente da Assembleia da República, António Moreira Barbosa de Melo.\n\nPromulgada em 28 de Julho de 1993.\n\nPublique-se.\n\nO Presidente da República, MÁRIO SOARES.\n\nReferendada em 3 de Agosto de 1993.\n\nPelo Primeiro-Ministro, Joaquim Fernando Nogueira, Ministro da Presidência.\n\n> Revogado pelo/a Artigo 58.º do/a [Lei n.º 75/2017 - Diário da República n.º 158/2017, Série I de 2017-08-17](https://diariodarepublica.pt/dr/detalhe/lei/75-2017-108010871), em vigor a partir de 2017-08-22"
+  }
+ }
+}

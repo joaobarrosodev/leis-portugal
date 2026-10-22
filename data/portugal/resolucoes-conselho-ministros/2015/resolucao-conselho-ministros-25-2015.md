@@ -1,0 +1,146 @@
+---
+schema_version: '1.0'
+id: pt:dre:67085603:por
+title: Resolução do Conselho de Ministros n.º 25/2015
+short_title: null
+summary: Aprova a Estrutura de Missão para a Igualdade de Género para apoiar a Comissão para a Cidadania e a Igualdade de
+  Género no exercício das competências de gestão no âmbito do Portugal 2020, sucedendo ao Secretariado Técnico para a Igualdade
+  criado no Quadro de Referência Estratégica Nacional
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 25/2015
+official_date: null
+publication_date: '2015-04-27'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 81/2015, Série I de 2015-04-27
+  number: '81'
+  series: I
+  supplement: null
+  pages: 2110 - 2111
+  pdf_url: https://files.diariodarepublica.pt/1s/2015/04/08100/0211002111.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/25/2015/04/27/p/dre/pt/html
+  oj: null
+  dre: '67085603'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/25-2015-67085603
+  internal: pt:dre:67085603:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2015-67085603
+  metadata_url: https://data.dre.pt/eli/resolconsmin/25/2015/04/27/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/25-2015-67085603
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2023-12-22T00:00:00Z'
+integrity:
+  source_sha256: 2f508a4c172d42ef3d65d1dac6944c412416dd5441d07f4e29eda99c9eea8b14
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2015/DRE-2015-25-67085603.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ajuda Comunitária
+- Financiamento
+- Pessoal Dirigente
+- Igualdade de Tratamento
+- Criação de Serviços
+- Definição de Competências
+- Fundos CE
+- Comissão para a Cidadania e a Igualdade de Género
+- Tráfico de Pessoas
+relationships:
+- type: amended_by
+  target: pt:dre:812826253:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/137/2014/09/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 25/2015
+
+Na sequência do Acordo de Parceria celebrado entre o Estado Português e a Comissão Europeia, foi aprovado o modelo de governação dos novos fundos europeus estruturais e de investimento do Portugal 2020, tendo a Comissão Interministerial de Coordenação homologado, nos termos do disposto na alínea g) do n.º 2 do artigo 10.º do [Decreto-Lei n.º 137/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378), de 12 de setembro, a lista de organismos intermédios dos fundos da política de coesão.
+
+Neste contexto, as autoridades de gestão dos programas operacionais Inclusão Social e Emprego, Regional de Lisboa e Regional do Algarve, em aplicação do disposto no n.º 2 do artigo 37.º do [Decreto-Lei n.º 137/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378), de 12 de setembro, delegam na Comissão para a Cidadania e a Igualdade de Género, sob sua supervisão, a responsabilidade de assegurar o exercício de relevantes funções de gestão, favorecendo assim a execução das políticas públicas nas áreas da cidadania, da promoção da igualdade de género e do combate à violência doméstica e de género e ao tráfico de seres humanos.
+
+No âmbito do anterior Quadro de Referência Estratégica Nacional (QREN), foi constituído o Secretariado Técnico para a Igualdade como estrutura técnica de apoio à Comissão para a Cidadania e a Igualdade de Género no exercício das competências de gestão então delegadas pelo Programa Operacional Potencial Humano.
+
+O Secretariado Técnico para a Igualdade extingue-se no fim do período de vigência daquele contrato de delegação de competências celebrado no âmbito do QREN, acrescido do período para o encerramento de contas e apresentação do relatório final.
+
+Estando já aprovados os calendários de abertura dos concursos a financiamento no âmbito do Portugal 2020 e mantendo-se o Secretariado Técnico para a Igualdade, até à sua extinção, nos termos acima referidos, apenas adstrito à prossecução das competências no âmbito do QREN, mostra-se necessário criar uma estrutura que possa apoiar a Comissão para a Cidadania e a Igualdade de Género no exercício das competências de gestão delegadas pela autoridade de gestão do Programa Operacional Inclusão Social e Emprego do Portugal 2020, nas tipologias de operações abrangidas pelo contrato de delegação de competências e no exercício das demais funções de gestão no mesmo previstas.
+
+Pretende-se que a nova estrutura, ainda que dotada de um número mais reduzido de elementos face ao número de elementos do Secretariado Técnico para a Igualdade, possa assegurar os níveis de eficácia e de eficiência que se pretendem atingir com a delegação de competências na Comissão para a Cidadania e a Igualdade de Género para a gestão dos fundos do Portugal 2020.
+
+Assim:
+
+Nos termos do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro, e das alíneas d) e g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Criar a Estrutura de Missão para a Igualdade de Género com a missão e objetivo de apoiar a Comissão para a Cidadania e a Igualdade de Género no exercício das competências de gestão no âmbito do Portugal 2020 delegadas pelas autoridades de gestão dos programas operacionais Inclusão Social e Emprego, Regional de Lisboa e Regional do Algarve, ao abrigo do artigo 37.º do [Decreto-Lei n.º 137/2014](https://diariodarepublica.pt/dr/detalhe/decreto-lei/137-2014-56747378), de 12 de setembro, nas tipologias de operações previstas no contrato de delegação de competências, bem como no exercício de todas as funções de gestão do mesmo constantes.
+
+2 - Determinar que a Estrutura de Missão para a Igualdade de Género integra um máximo de 12 elementos, incluindo um/uma chefe de equipa, um/uma coordenadora, técnicos/as superiores em número não superior a oito, e assistentes técnicos/as em número não superior a dois.
+
+3 - Determinar que o/a chefe de equipa é nomeado/a pelos membros do Governo responsáveis pelas áreas das finanças, da igualdade de género e do desenvolvimento regional.
+
+4 - Determinar que o/a coordenador/a é nomeado/a pelo membro do Governo responsável pela área da igualdade de género, aplicando-se ao recrutamento do restante pessoal o disposto nos n.os 4 e 5 do artigo 28.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de janeiro.
+
+5 - Determinar que o/a chefe de equipa e o/a coordenador/a são equiparados/as, para efeitos remuneratórios, respetivamente, a cargo de direção superior de 2.º grau e a diretor de serviços.
+
+6 - Estabelecer que os técnicos/as superiores e assistentes técnicos/as que compõem a estrutura de missão exercem as competências técnicas que lhes sejam cometidas pelo/a chefe de equipa.
+
+7 - Incumbir a Comissão para a Cidadania e a Igualdade de Género de assegurar os meios de apoio logístico e administrativo necessários ao cumprimento da missão da Estrutura de Missão para a Igualdade de Género.
+
+8 - Estabelecer que as despesas inerentes ao funcionamento e às atividades da Estrutura de Missão para a Igualdade de Género, que sejam consideradas elegíveis, são asseguradas pelo eixo de assistência técnica dos programas operacionais Inclusão Social e Emprego, Regional de Lisboa e Regional do Algarve do Portugal 2020, sendo as restantes despesas asseguradas pela Comissão para a Cidadania e a Igualdade de Género.
+
+9 - Determinar que a Estrutura de Missão para a Igualdade de Género funciona nas instalações da Comissão para a Cidadania e a Igualdade de Género.
+
+10 - Estabelecer que o prazo de duração da estrutura de missão coincide com o período de vigência do Portugal 2020, incluindo o período necessário ao encerramento definitivo de contas, à apresentação do relatório final e ao integral cumprimento das obrigações decorrentes dos compromissos assumidos no cumprimento da sua missão.
+
+11 - Determinar que a presente resolução produz efeitos a partir da data da sua publicação.
+
+Presidência do Conselho de Ministros, 16 de abril de 2015. - O Primeiro-Ministro, Pedro Passos Coelho.

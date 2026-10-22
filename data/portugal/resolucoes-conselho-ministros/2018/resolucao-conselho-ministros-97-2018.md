@@ -1,0 +1,227 @@
+---
+schema_version: '1.0'
+id: pt:dre:115740681:por
+title: Resolução do Conselho de Ministros n.º 97/2018
+short_title: null
+summary: Designa os membros do conselho diretivo do Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 97/2018
+official_date: null
+publication_date: '2018-07-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 139/2018, Série I de 2018-07-20
+  number: '139'
+  series: I
+  supplement: null
+  pages: 3665 - 3666
+  pdf_url: https://files.diariodarepublica.pt/1s/2018/07/13900/0366503666.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/97/2018/07/20/p/dre/pt/html
+  oj: null
+  dre: '115740681'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/97-2018-115740681
+  internal: pt:dre:115740681:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2018-115740681
+  metadata_url: https://data.dre.pt/eli/resolconsmin/97/2018/07/20/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/97-2018-115740681
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2018-07-20T00:00:00Z'
+integrity:
+  source_sha256: d837836b4436036ec72ba0e479bae65c43cb5dcf7fc46a6d95621d656c281fb5
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2018/DRE-2018-97-115740681.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Centro de Medicina de Reabilitação da Região Centro-rovisco PAIS
+- Enfermeiro-director
+- Conselho Diretivo
+- Nomeação
+- Presidente
+- Vogal
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/18/2017/02/10/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/18/2017/02/10/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/71/2007/03/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/18/2012/02/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/36/2012/03/26/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 97/2018
+
+Nos termos do disposto nos artigos 5.º e 12.º dos Estatutos dos Hospitais do Setor Público Administrativo, constantes do anexo IV ao [Decreto-Lei n.º 18/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), de 10 de fevereiro, conjugados com o n.º 2 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, resulta que os membros do conselho diretivo do Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais, são designados por resolução do Conselho de Ministros, sob proposta dos membros do Governo responsáveis pelas áreas das finanças e da saúde, para um mandato de três anos, renovável uma única vez.
+
+Atendendo a que os atuais membros do conselho de administração do Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais, cessaram o respetivo mandato a 31 de dezembro de 2016, torna-se necessário proceder à designação dos membros do conselho diretivo, para um mandato de três anos.
+
+A remuneração dos membros do conselho diretivo deste instituto público de regime especial obedece ao disposto no n.º 5 da [Resolução do Conselho de Ministros n.º 18/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/18-2012-542993), de 21 de fevereiro, e à classificação atribuída pela [Resolução do Conselho de Ministros n.º 36/2012](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/36-2012-553924), de 26 de março, na sua redação atual.
+
+Foi ouvida, nos termos do n.º 3 do artigo 13.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, a Comissão de Recrutamento e Seleção para a Administração Pública, que se pronunciou favoravelmente sobre as designações constantes da presente resolução.
+
+Assim:
+
+Nos termos dos artigos 5.º e 12.º dos Estatutos dos Hospitais do Setor Público Administrativo, constantes do anexo IV ao [Decreto-Lei n.º 18/2017](https://diariodarepublica.pt/dr/detalhe/decreto-lei/18-2017-106434234), de 10 de fevereiro, dos n.os 2 e 3 do artigo 13.º, da alínea c) do n.º 3 do artigo 20.º do [Decreto-Lei n.º 71/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2007-520259), de 27 de março, na sua redação atual, e da alínea d) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Designar, sob proposta dos Ministros das Finanças e da Saúde, para exercer funções no conselho diretivo do Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais, os seguintes membros, cuja idoneidade, experiência e competências profissionais para o desempenho dos cargos são evidenciadas nas respetivas notas curriculares, que constam do anexo à presente resolução, dela fazendo parte integrante:
+
+a) Margarida Sizenando Pais Ribeiro da Cunha para o cargo de presidente do conselho diretivo com funções de diretora clínica;
+
+b) António João Teixeira Paredes para o cargo de vogal executivo;
+
+c) Luis Filipe Picoa Pratas para o cargo de vogal executivo com funções de enfermeiro diretor.
+
+2 - Autorizar os designados Margarida Sizenando Pais Ribeiro da Cunha e Luis Filipe Picoa Pratas, a exercer a atividade de docência em estabelecimentos de ensino superior público ou de interesse público.
+
+3 - Determinar que a presente resolução produz efeitos no dia seguinte ao da sua aprovação.
+
+Presidência do Conselho de Ministros, 12 de julho de 2018. - Pelo Primeiro-Ministro, Maria Manuel de Lemos Leitão Marques, Ministra da Presidência e da Modernização Administrativa.
+
+## ANEXO — Notas curriculares
+
+Margarida Sizenando Pais Ribeiro da Cunha, nascida a 16.06.1954.
+
+Licenciatura em Medicina pela Faculdade de Medicina da Universidade do Porto.
+
+Curso Conducente ao Mestrado de Medicina Desportiva - Faculdade de Medicina do Porto.
+
+Especialidade em Medicina Física e de Reabilitação.
+
+Curso de Pós-Graduação em Gestão de Unidades de Saúde - Universidade Católica Lisboa.
+
+Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais - Tocha - Assistente Hospitalar.
+
+Hospital dos Lusíadas - Lisboa - Diretora de Serviço.
+
+Centro de Medicina de Reabilitação do Sul - S. Brás de Alportel - Diretora Clínica.
+
+Centro de Medicina de Reabilitação do Sul - Vogal Executiva do Conselho de Administração.
+
+Centro Hospitalar Vila Nova de Gaia Espinho - Assistente Hospitalar - MFR.
+
+Administração Regional de Saúde do Norte - Assessora para o Centro de Reabilitação do Norte.
+
+Centro de Medicina de Reabilitação da Região Centro - Rovisco Pais - Diretora de Serviço.
+
+Instituto Português de Oncologia de Coimbra - Assistente Hospitalar - MFR.
+
+Centro Hospitalar de Coimbra - Hospital dos Covões - Assistente Hospitalar - MFR.
+
+Atividade docente como convidada:
+
+Curso de Pós-graduação em Geriatria da Faculdade de Medicina da Universidade do Porto;
+
+Curso de Mestrado em Gestão e Avaliação de Tecnologias em Saúde da Escola Superior de Tecnologia da Saúde, Lisboa;
+
+Curso de Mestrado em Arquitectura Hospitalaria - CEU - Universidade San Pablo Madrid.
+
+António João Teixeira Paredes, Data de Nascimento: 4 de junho de 1964, Naturalidade: Buarcos, Figueira da Foz, Estado Civil: Casado.
+
+Habilitações Académicas e Profissionais:
+
+Licenciatura em Ciências Sociais pelo Instituto Superior Bissaya Barreto, Coimbra;
+
+Pós-Graduação em Gestão do Conhecimento e Inteligência Competitiva pelo Instituto Superior de Contabilidade e Administração - Coimbra Business School;
+
+Curso de Gestão em Qualidade pela AEDL;
+
+Pós-Graduando em Gestão e Direção dos Serviços de Saúde - Porto Business School;
+
+Atividade Profissional:
+
+Gestor da Formação na AIRC - Certificada pela DGERT;
+
+Chefe de Gabinete da Presidência da Câmara Municipal de Vila Nova de Poiares;
+
+Vogal Executivo do Conselho de Administração do Hospital Dr. Francisco Zagalo - Ovar;
+
+Assessor do Secretário de Estado da Saúde;
+
+Subdiretor Regional do Centro do IPJ - Instituto Português da Juventude;
+
+Delegado Regional de Coimbra do IPJ - Instituto Português da Juventude;
+
+Adjunto do Delegado Regional de Coimbra do IPJ - Instituto Português da Juventude.
+
+Gestor de Projetos no âmbito dos Programas Comunitários na área da Formação Profissional;
+
+Outros Cargos que exerceu e ou exerce:
+
+Fundador e Presidente da Direção da Associação Goltz de Carvalho (IPSS);
+
+Fundador e dirigente da Associação Mais e Melhor Saúde, Figueira da Foz;
+
+Membro Fundador da Rede Interinstitucional de Apoio a Vítimas de Violência Doméstica;
+
+Formador e palestrante, com várias comunicações em congressos, seminários, entre outros;
+
+Membro de diversos grupos de trabalho na área das ciências sociais; desenvolvimento de estudos epidemiológicos; execução de projetos no âmbito dos programas do Fundo Social Europeu; responsável pela criação de centros comunitários para grupos sociais de risco.
+
+Luis Filipe Picoa Pratas, Data de nascimento: 23-07-1965, Nacionalidade: Portuguesa, Estado Civil: casado.
+
+Habilitações Académicas e Profissionais:
+
+Licenciado em Enfermagem; Pós-graduação em técnicas analíticas em psicologia cognitiva; Curso de Pós-licenciatura de especialização em enfermagem de reabilitação, Pós-graduação em reabilitação cardíaca, Pós-graduação em gestão hospitalar e serviços de saúde.
+
+Experiência Profissional:
+
+Nos CHUC: 1996-2002 - Cirurgia Cardiotorácica, 2002-2006 - Cirurgia Máxilo-Facial 2006-2009 - Ortopedia B (ombro e mão), 2009-2016 - Medicina Física e Reabilitação, enfermeiro especialista de reabilitação e dinamizador padrões de qualidade dos cuidados de enfermagem. 2016-2018 - Unidade de Cuidados Intensivos Coronários, enfermeiro responsável pela equipe de 3 enfermeiros especialistas em reabilitação na cardiologia A/B, elaborou 2 projetos, implementação de cuidados de enfermagem de reabilitação ao doente cardíaco e reabilitação cardíaca fase 1. 1998-2002 - Hospital Nossa Senhora da Guia - Enfermeiro coordenador com funções de chefia. 2010-2016 - Saniforma Lda., - Sócio Gerente e Enfermeiro Diretor.
+
+Escola Superior de Enfermagem de Coimbra 2012-2015 Professor Adjunto Convidado - Disciplina de Reabilitação em cuidados intensivos (Reabilitação Cardíaca). Tutor de vários alunos de licenciatura e de especialidade em reabilitação. Mérito da monografia «O Idoso na Sociedade Atual», faz parte do espólio da biblioteca da ESEnfC.
+
+Outros elementos:
+
+Fez várias publicações em revistas de caráter científico, foi preletor em vários congressos, apresentou vários posters na área de reabilitação classificados com distinções de honra. Mais de 1700 horas de formação lecionadas, envolvido em vários projetos institucionais.

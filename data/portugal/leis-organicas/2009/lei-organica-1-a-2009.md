@@ -1,0 +1,880 @@
+---
+schema_version: '1.0'
+id: pt:dre:345291:por
+title: Lei Orgânica n.º 1-A/2009
+short_title: null
+summary: Aprova a Lei Orgânica de Bases da Organização das Forças Armadas
+jurisdiction: portugal
+territory: null
+document_type: lei-organica
+document_type_label: Lei Orgânica
+issuing_authority:
+- Assembleia da República
+proposing_entity: null
+official_number: 1-A/2009
+official_date: null
+publication_date: '2009-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 129/2009, 1º Suplemento, Série I de 2009-07-07
+  number: '129'
+  series: I
+  supplement: 1º Suplemento
+  pages: 4344-(2) a 4344-(9)
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/07/12901/0000200009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2021-08-10'
+version_history:
+  file: lei-organica-1-a-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-09-02'
+    amending: pt:dre:56384929:por
+    amending_title: Lei Orgânica n.º 6/2014
+    changes:
+    - Adita Artigo 5.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 20.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 24.º
+    - Altera Artigo 25.º
+    - Altera Artigo 26.º
+  - date: '2021-08-10'
+    amending: pt:dre:169256653:por
+    amending_title: Lei Orgânica n.º 2/2021
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/leiorg/1-a/2009/p/cons/20210809/pt/html
+  oj: null
+  dre: '345291'
+  dre_path: /dr/detalhe/lei-organica/1-a-2009-345291
+  internal: pt:dre:345291:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/lei-organica/1-a-2009-345291
+  metadata_url: https://data.dre.pt/eli/leiorg/1-a/2009/p/cons/20210809/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/lei-organica/2009-72981157
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/lei-organica/2009-72981157
+  retrieved_at: '2026-10-22T12:04:52Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 2151afeb900a9ed89f67ba9bab4ffc24189da6a02ba7d556e1f757dfd7f0eef3
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:04:52Z'
+  notes: 3 versão(ões); histórico completo em lei-organica-1-a-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Chefe do Estado Maior da Armada
+- Chefe do Estado Maior da Força Aérea
+- Chefe do Estado Maior General das Forças Armadas
+- Exército
+- Conselho de Chefes de Estado Maior
+- Força Aérea
+- Definição de Competências
+- Marinha
+- Instituto de Estudos Superiores Militares
+- Chefe do Estado Maior do Exército
+- Lei de Bases
+- Forças Armadas
+- Orgânica
+- Estado Maior General das Forças Armadas
+relationships:
+- type: amended_by
+  target: pt:dre:56384929:por
+  label: Adita Artigo 5.º-A; Altera Artigo 1.º; Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º;
+    Altera Artigo 9.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º; Altera Artigo 20.º; Altera Artigo 21.º; Altera Artigo 22.º;
+    Altera Artigo 23.º; Altera Artigo 24.º
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929
+  date: '2014-09-01'
+- type: amended_by
+  target: pt:dre:169256653:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653
+  date: '2021-08-09'
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/111/1991/08/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/18/1995/07/13/p/dre
+article_structure:
+  article_count: 30
+  section_count: 11
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:04:52Z'
+  warnings: []
+  errors: []
+---
+
+# Lei Orgânica n.º 1-A/2009
+
+Lei Orgânica n.º 1-A/2009
+
+de 7 de Julho
+
+Aprova a Lei Orgânica de Bases da Organização das Forças Armadas
+
+A Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, a Lei Orgânica seguinte:
+
+### Capítulo I — Princípios gerais
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 1.º — Forças Armadas
+
+1 - As Forças Armadas Portuguesas são um pilar essencial da defesa nacional e constituem a estrutura do Estado que tem como missão fundamental garantir a defesa militar da República.
+
+2 - As Forças Armadas obedecem aos órgãos de soberania competentes, nos termos da Constituição e da lei, e integram-se na administração directa do Estado, através do Ministério da Defesa Nacional.
+
+3 - Os órgãos do Estado directamente responsáveis pela defesa nacional e pelas Forças Armadas são os seguintes:
+
+a) Presidente da República;
+
+b) Assembleia da República;
+
+c) Governo;
+
+d) Conselho Superior de Defesa Nacional;
+
+e) (Revogada).
+
+4 - O Ministro da Defesa Nacional é politicamente responsável pela elaboração e execução da componente militar da política de defesa nacional, pela administração das Forças Armadas e resultados do seu emprego.
+
+5 - Além dos órgãos referidos nos números anteriores, são diretamente responsáveis pelas Forças Armadas e pela componente militar da defesa nacional:
+
+a) (Revogada);
+
+b) Chefe do Estado-Maior-General das Forças Armadas;
+
+c) Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.
+
+6 - Constituem ainda órgãos de consulta em matéria de defesa nacional o Conselho Superior Militar e o Conselho de Chefes de Estado-Maior.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 2.º — Funcionamento das Forças Armadas
+
+1 - A defesa militar da República, garantida pelo Estado, é assegurada em exclusivo pelas Forças Armadas.
+
+2 - O funcionamento das Forças Armadas é orientado para a sua permanente preparação, tendo em vista a sua actuação para fazer face a qualquer tipo de agressão ou ameaça externa.
+
+3 - A actuação das Forças Armadas desenvolve-se no respeito pela Constituição e pela lei, em execução da política de defesa nacional definida e do conceito estratégico de defesa nacional aprovado, e por forma a corresponder às normas e orientações estabelecidas nos seguintes documentos estruturantes:
+
+a) Conceito estratégico militar;
+
+b) Missões das Forças Armadas;
+
+c) Sistema de forças;
+
+d) Dispositivo de forças.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 3.º — Conceito estratégico militar
+
+1 - O conceito estratégico militar, decorrente do conceito estratégico de defesa nacional aprovado, define as grandes linhas conceptuais de actuação das Forças Armadas e as orientações gerais para a sua preparação, emprego e sustentação.
+
+2 - O conceito estratégico militar é elaborado pelo Conselho de Chefes de Estado-Maior, aprovado pelo Ministro da Defesa Nacional e confirmado pelo Conselho Superior de Defesa Nacional.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 4.º — Missões das Forças Armadas
+
+1 - Nos termos da Constituição e da lei, incumbe às Forças Armadas:
+
+a) Desempenhar todas as missões militares necessárias para garantir a soberania, a independência nacional e a integridade territorial do Estado;
+
+b) Participar nas missões militares internacionais necessárias para assegurar os compromissos internacionais do Estado no âmbito militar, incluindo missões humanitárias e de paz assumidas pelas organizações internacionais de que Portugal faça parte;
+
+c) Executar missões no exterior do território nacional, num quadro autónomo ou multinacional, destinadas a garantir a salvaguarda da vida e dos interesses dos portugueses;
+
+d) Executar as acções de cooperação técnico-militar, no quadro das políticas nacionais de cooperação;
+
+e) Cooperar com as forças e serviços de segurança tendo em vista o cumprimento conjugado das respectivas missões no combate a agressões ou ameaças transnacionais;
+
+f) Colaborar em missões de protecção civil e em tarefas relacionadas com a satisfação das necessidades básicas e a melhoria da qualidade de vida das populações.
+
+2 - As Forças Armadas podem ser empregues, nos termos da Constituição e da lei, quando se verifique o estado de sítio ou de emergência.
+
+3 - As missões específicas das Forças Armadas decorrentes das missões enunciadas nos números anteriores são aprovadas pelo Conselho Superior de Defesa Nacional, sob proposta do Ministro da Defesa Nacional, elaborada com base em projecto do Conselho de Chefes de Estado-Maior.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 5.º — Sistema de forças e dispositivo de forças
+
+1 - O sistema de forças define o conjunto de capacidades que devem existir para o cumprimento das missões das Forças Armadas, identificando os tipos e quantitativos de forças e meios, tendo em conta a sua adequada complementaridade operacional.
+
+2 - O sistema de forças é constituído por:
+
+a) Uma componente operacional, englobando o conjunto de forças e meios relacionados entre si numa perspectiva de emprego operacional integrado;
+
+b) Uma componente fixa, englobando o conjunto de comandos, unidades, estabelecimentos, órgãos e serviços essenciais à organização e apoio geral das Forças Armadas e seus ramos.
+
+3 - O sistema de forças deve, nos prazos admitidos nos planos gerais de defesa ou nos planos de contingência, dispor de capacidade para atingir os níveis de forças ou meios neles considerados.
+
+4 - O sistema de forças é aprovado pelo Conselho Superior de Defesa Nacional, sob proposta do Ministro da Defesa Nacional, elaborada com base em projecto do Conselho de Chefes de Estado-Maior.
+
+5 - O dispositivo de forças estabelece a relação entre os comandos operacionais, forças, unidades e meios da componente operacional do sistema de forças com as infraestruturas ou elementos da componente fixa do sistema de forças que lhes dão suporte.
+
+6 - O dispositivo de forças é aprovado pelo Ministro da Defesa Nacional, com base em proposta do Conselho de Chefes de Estado-Maior.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 5.º-A — Efetivos militares
+
+Os efetivos das Forças Armadas, em todas as situações, são fixados anualmente, por decreto-lei, ouvido o Conselho de Chefes de Estado-Maior, nos termos da lei.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Aditado pelo/a Artigo 3.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 6.º — Princípios gerais de organização
+
+1 - A organização das Forças Armadas tem como objectivos essenciais o aprontamento eficiente e o emprego operacional eficaz das forças no cumprimento das missões atribuídas.
+
+2 - A organização das Forças Armadas rege-se por princípios de eficácia e racionalização, devendo, designadamente, garantir:
+
+a) A optimização da relação entre a componente operacional do sistema de Forças e a sua componente fixa;
+
+b) A complementaridade entre o Estado-Maior-General das Forças Armadas e os ramos, evitando duplicações desnecessárias e criando órgãos conjuntos, inter-ramos ou de apoio a mais de um ramo sempre que razões objetivas o aconselhem;
+
+c) A correcta utilização do potencial humano, militar ou civil, promovendo o pleno e adequado aproveitamento dos quadros permanentes e assegurando uma correcta proporção e articulação entre as diversas formas de prestação de serviço efectivo.
+
+d) No âmbito das atribuições afetas ao Ministério da Defesa Nacional, a disponibilização de recursos humanos e materiais necessários ao desempenho das competências de órgãos ou serviços regulados por legislação própria, nomeadamente a Autoridade Marítima Nacional e a Autoridade Aeronáutica Nacional.
+
+3 - No respeito pela sua missão fundamental, a organização das Forças Armadas deve permitir que a transição para o estado de guerra se processe com o mínimo de alterações possível.
+
+4 - A organização das Forças Armadas baseia-se numa estrutura vertical e hierarquizada, cujos órgãos se relacionam através dos seguintes níveis de autoridade:
+
+a) Hierárquica;
+
+b) Funcional;
+
+c) Técnica;
+
+d) De coordenação.
+
+5 - Para efeitos do disposto no número anterior:
+
+a) A autoridade hierárquica é a linha de comando que estabelece a dependência de um órgão ou serviço na estrutura das Forças Armadas em relação aos órgãos militares de comando das Forças Armadas;
+
+b) A autoridade funcional é o tipo de autoridade conferido a um órgão para superintender processos, no âmbito das respetivas áreas ou atividades específicas, sem que tal inclua competência disciplinar;
+
+c) A autoridade técnica é o tipo de autoridade que permite a um titular fixar e difundir normas de natureza especializada, sem que tal inclua competência disciplinar;
+
+d) A autoridade de coordenação é o tipo de autoridade conferida aos órgãos subordinados, a qualquer nível, para consultar ou coordenar diretamente uma ação com um comando ou entidades, dentro ou fora da respetiva linha de comando, sem que tal inclua competência disciplinar.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 7.º — Estrutura das Forças Armadas
+
+1 - A estrutura das Forças Armadas compreende:
+
+a) O Estado-Maior-General das Forças Armadas;
+
+b) Os três ramos das Forças Armadas, Marinha, Exército e Força Aérea;
+
+d) Os órgãos militares de conselho.
+
+2 - Os órgãos militares de comando das Forças Armadas são o Chefe do Estado-Maior-General das Forças Armadas e os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+### Capítulo II — Organização das Forças Armadas
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+#### Secção I — Estado-Maior-General das Forças Armadas
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 8.º — Estado-Maior-General das Forças Armadas
+
+1 - O Estado-Maior-General das Forças Armadas, abreviadamente designado por EMGFA, tem por missão geral planear, dirigir e controlar o emprego das Forças Armadas no cumprimento das missões e tarefas operacionais que a estas incumbem.
+
+2 - O EMGFA tem ainda como missão garantir as condições para o funcionamento do ensino superior militar e da saúde militar, nos termos da lei.
+
+3 - O EMGFA constitui-se como o quartel-general das Forças Armadas, compreendendo o conjunto das estruturas e capacidades adequadas para apoiar o Chefe do Estado-Maior-General das Forças Armadas no exercício das suas competências.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 9.º — Organização do Estado-Maior-General das Forças Armadas
+
+1 - O EMGFA é chefiado pelo Chefe do Estado-Maior-General das Forças Armadas e compreende:
+
+a) O comando conjunto para as operações militares;
+
+b) Os comandos dos Açores e da Madeira;
+
+c) Os órgãos de direção e de estado-maior;
+
+d) O órgão de informações e de segurança militares;
+
+e) A Direção de Saúde Militar;
+
+f) Os órgãos de apoio geral.
+
+2 - No âmbito do EMGFA inserem-se ainda na dependência direta do Chefe do Estado-Maior-General das Forças Armadas, regulados por legislação própria:
+
+a) O Instituto Universitário Militar;
+
+b) As missões militares no estrangeiro.
+
+3 - O comando conjunto para as operações militares assegura o exercício do comando operacional das forças e meios da componente operacional do sistema de forças, pelo Chefe do Estado-Maior-General das Forças Armadas, em todo o tipo de situações e para as missões das Forças Armadas, com exceção das reguladas por legislação própria e atribuídas aos ramos, bem como a ligação com as forças e serviços de segurança e outros organismos do Estado relacionados com a segurança e defesa e a proteção civil, no âmbito das suas atribuições.
+
+4 - Os comandos dos Açores e da Madeira destinam-se a assegurar o planeamento, o treino operacional conjunto e o emprego operacional das forças e meios que lhes forem atribuídos.
+
+5 - Os órgãos de direção e de estado-maior, de natureza conjunta, asseguram o planeamento de nível estratégico militar e o apoio à decisão do Chefe do Estado-Maior-General das Forças Armadas.
+
+6 - O órgão de informações e de segurança militares assegura a produção de informações necessárias ao cumprimento das missões das Forças Armadas e à garantia da segurança militar.
+
+7 - A Direção de Saúde Militar assegura o apoio ao Chefe do Estado-Maior-General das Forças Armadas no âmbito da saúde militar, bem como a direção e execução da assistência hospitalar prestada pelos órgãos de saúde militar, designadamente pelo Hospital das Forças Armadas.
+
+8 - (Revogado).
+
+9 - (Revogado).
+
+10 - Os órgãos de apoio geral asseguram o apoio logístico, administrativo e financeiro necessários ao funcionamento do EMGFA.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+#### Secção II — Chefe do Estado-Maior-General das Forças Armadas
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 10.º — Chefe do Estado-Maior-General das Forças Armadas
+
+1 - O Chefe do Estado-Maior-General das Forças Armadas é o principal conselheiro militar do Ministro da Defesa Nacional e o chefe de mais elevada autoridade na hierarquia das Forças Armadas.
+
+2 - O Chefe do Estado-Maior-General das Forças Armadas é responsável pelo planeamento e implementação da estratégia militar operacional, tendo na sua dependência hierárquica os Chefes de Estado-Maior dos ramos para as questões que envolvam a prontidão, o emprego e a sustentação das forças e meios da componente operacional do sistema de forças e respondendo em permanência perante o Governo, através do Ministro da Defesa Nacional, pela capacidade de resposta militar das Forças Armadas.
+
+3 - Em situação não decorrente do estado de guerra, o Chefe do Estado-Maior-General das Forças Armadas, como comandante operacional das Forças Armadas, é o responsável pelo emprego de todas as forças e meios da componente operacional do sistema de forças para cumprimento das missões de natureza operacional, nos planos externo e interno, sem prejuízo do disposto no n.º 3 do artigo 16.º.
+
+4 - No contexto do referido no número anterior, o Chefe do Estado-Maior-General das Forças Armadas tem o comando operacional sobre as forças e meios que se constituam na sua dependência, tendo como subordinados diretos, para esse efeito, os respetivos comandantes.
+
+5 - A sustentação das forças e meios referidos no número anterior compete aos ramos das Forças Armadas, dependendo os respetivos Chefes de Estado-Maior do Chefe do Estado-Maior-General das Forças Armadas, para este efeito.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 11.º — Competências do Chefe do Estado-Maior-General das Forças Armadas
+
+1 - Compete ao Chefe do Estado-Maior-General das Forças Armadas:
+
+a) Planear, dirigir e controlar a execução da estratégia da defesa militar, superiormente aprovada, assegurando a articulação entre os níveis político-estratégico e estratégico-operacional, em estreita ligação com os Chefes de Estado-Maior dos ramos;
+
+b) Assegurar o comando das operações militares aos níveis estratégico e operacional;
+
+c) Presidir ao Conselho de Chefes de Estado-Maior, dispondo de voto de qualidade;
+
+d) Desenvolver a prospectiva estratégica militar, nomeadamente no âmbito dos processos de transformação;
+
+e) Certificar as forças conjuntas e avaliar o estado de prontidão, a disponibilidade, a eficácia e a capacidade de sustentação de combate de forças, bem como promover a adopção de medidas correctivas tidas por necessárias;
+
+f) No âmbito do planeamento de forças, avaliar a situação militar, emitir a directiva de planeamento de forças, avaliar a adequabilidade militar das propostas de força, elaborar o projecto de propostas de forças nacionais, proceder à respectiva análise de risco e elaborar o projecto de objectivos de força nacionais;
+
+g) No âmbito da programação militar:
+
+i) Elaborar, sob a directiva de planeamento do Ministro da Defesa Nacional, os anteprojectos de propostas de lei de programação militar e de lei de programação de infra-estruturas militares, respeitante ao EMGFA;
+
+ii) Acompanhar a execução da lei de programação militar, sem prejuízo das competências específicas de outros órgãos e serviços do Ministério da Defesa Nacional;
+
+h) Gerir, em coordenação com os ramos, os sistemas de comando, controlo, comunicações e informação militares, incluindo a respetiva segurança e definição dos requisitos operacionais e técnicos, em observância da política integradora estabelecida para a área dos sistemas de informação e tecnologias de informação e comunicação no universo da defesa nacional;
+
+i) Assegurar o serviço de comunicações e sistemas de informação e o funcionamento do centro de ciberdefesa;
+
+j) Dirigir o órgão de informações e de segurança militares de natureza estratégico-militar e operacional, em proveito do planeamento e conduta das missões cometidas às Forças Armadas e das ações necessárias à garantia da segurança militar, em articulação com os Chefes de Estado-Maior dos ramos, designadamente nos aspetos relativos à definição da arquitetura de dados geoespaciais, à uniformização da respetiva doutrina e procedimentos e à formação de recursos humanos;
+
+k) Dirigir, no âmbito das suas competências e sob orientação do Ministro da Defesa Nacional, a participação das Forças Armadas no plano externo, designadamente nas relações com organismos militares internacionais ou de outros países, e outras atividades de natureza militar, nos planos bilateral e multilateral, incluindo a participação dos ramos das Forças Armadas em ações conjuntas de cooperação técnico-militar em compromissos decorrentes dos respetivos programas-quadro coordenados pela Direção-Geral de Política de Defesa Nacional;
+
+l) Dirigir a acção dos representantes militares em representações diplomáticas no estrangeiro, sem prejuízo da sua dependência funcional da Direcção-Geral de Política de Defesa Nacional;
+
+m) Planear e dirigir o treino operacional conjunto e formular orientações para o treino a seguir nos exercícios combinados;
+
+n) Dirigir a conceção e os processos de aprovação, ratificação e implementação da doutrina militar conjunta e combinada, em articulação com os Chefes de Estado-Maior dos ramos;
+
+o) Dirigir o ensino superior militar, em coordenação com os Chefes de Estado-Maior dos ramos e o Comandante-Geral da Guarda Nacional Republicana, no sentido de promover a doutrina e a formação militar dos oficiais das Forças Armadas e da Guarda Nacional Republicana;
+
+p) Dirigir a assistência hospitalar prestada pelos órgãos do serviço de saúde militar, designadamente pelo Hospital das Forças Armadas, em observância das políticas de saúde no âmbito militar aprovadas pelo Ministro da Defesa Nacional;
+
+q) Dirigir as unidades, estabelecimentos e órgãos colocados na sua dependência, designadamente praticar os atos de gestão relativamente ao pessoal militar e civil que integra aqueles órgãos, sem prejuízo da competência dos Chefes de Estado-Maior dos ramos a que o pessoal militar pertence;
+
+r) Exercer as atribuições que lhe cabem no âmbito da justiça militar e administrar a disciplina nas unidades, estabelecimentos e órgãos de si dependentes;
+
+s) Submeter ao Ministro da Defesa Nacional os assuntos de carácter geral, específicos dos órgãos colocados na sua dependência;
+
+t) Propor o estabelecimento de restrições ao exercício do direito de propriedade, relativamente a zonas confinantes com organizações ou instalações militares na sua dependência ou de interesse para a Defesa Nacional;
+
+u) Estudar e planear a preparação da passagem das Forças Armadas para o estado de guerra, nomeadamente quanto à mobilização e requisição militares, e a forma de participação das componentes não militares da defesa nacional no apoio às operações militares, em articulação com os serviços competentes do Ministério da Defesa Nacional;
+
+v) Dirigir as operações abrangidas pela alínea anterior em estado de guerra, nos casos e nos termos da legislação aplicável;
+
+x) Exercer, em estado de guerra ou de excepção, o comando operacional das forças de segurança quando, nos termos da lei, aquelas sejam colocadas na sua dependência.
+
+2 - Compete ainda ao Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior:
+
+a) Elaborar os planos de emprego de forças, de acordo com as directivas do Governo, e efectuar a coordenação internacional necessária aos empenhamentos no quadro multinacional;
+
+b) Elaborar e submeter à aprovação do Ministro da Defesa Nacional os planos de defesa militar e os planos de contingência;
+
+c) Propor ao Ministro da Defesa Nacional o emprego das Forças Armadas na satisfação de compromissos internacionais, designadamente as opções de resposta militar;
+
+d) Assegurar, com o Secretário-Geral do Sistema de Segurança Interna, a articulação operacional relativa à cooperação entre as Forças Armadas e as forças e os serviços de segurança para os efeitos previstos na alínea e) do n.º 1 do artigo 4.º;
+
+e) Definir as condições do emprego de forças e meios da componente operacional do sistema de forças no cumprimento das missões e tarefas referidas nas alíneas e) e f) do n.º 1 do artigo 4.º;
+
+f) Propor a constituição e extinção de forças conjuntas;
+
+g) Dar parecer sobre os projetos de orçamento anual e quadro orçamental plurianual da defesa nacional, nos aspetos que tenham incidência sobre a capacidade operacional das forças;
+
+h) Propor ao Ministro da Defesa Nacional medidas e ações visando a gestão sustentada e sustentável dos recursos afetos às Forças Armadas no seu conjunto;
+
+i) Propor ao Ministro da Defesa Nacional a nomeação e a exoneração dos comandantes dos comandos operacionais e dos comandantes, diretores ou chefes dos órgãos referidos nas alíneas a), b) e d) do n.º 1 e na alínea a) do n.º 2 do artigo 9.º;
+
+j) Propor ao Governo, através do Ministro da Defesa Nacional, as nomeações e exonerações que são formuladas por sua iniciativa, designadamente dos comandantes ou representantes militares junto das organizações internacionais de que Portugal faça parte, e dos oficiais generais, comandantes de força naval, terrestre ou aérea, para o cumprimento de missões internacionais;
+
+k) Propor ao Ministro da Defesa Nacional os níveis de prontidão e de sustentação das forças;
+
+l) Aprovar e ratificar a doutrina militar conjunta e combinada.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 12.º — Nomeação do Chefe do Estado-Maior-General das Forças Armadas
+
+1 - O Chefe do Estado-Maior-General das Forças Armadas é nomeado e exonerado pelo Presidente da República, sob proposta do Governo, a qual deve ser precedida da audição, através do Ministro da Defesa Nacional, do Conselho de Chefes de Estado-Maior.
+
+2 - Sempre que possível deve o Governo iniciar o processo de nomeação do Chefe do Estado-Maior-General das Forças Armadas pelo menos um mês antes da vacatura do cargo, por forma a permitir neste momento a substituição imediata do respectivo titular.
+
+3 - Se o Presidente da República discordar do nome proposto, o Governo apresentar-lhe-á nova proposta.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 13.º — Substituição do Chefe do Estado-Maior-General das Forças Armadas
+
+O Chefe do Estado-Maior-General das Forças Armadas é substituído, na sua ausência ou impedimento, pelo Chefe do Estado-Maior do ramo em funções há mais tempo.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+#### Secção III — Ramos das Forças Armadas
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 14.º — Ramos das Forças Armadas
+
+Os ramos das Forças Armadas - Marinha, Exército e Força Aérea - têm por missão principal participar, de forma integrada, na defesa militar da República, nos termos do disposto na Constituição e na lei, sendo fundamentalmente vocacionados para a geração, preparação e sustentação das forças da componente operacional do Sistema de Forças Nacional, assegurando também o cumprimento das missões particulares aprovadas, de missões reguladas por legislação própria e de outras missões de natureza operacional que sejam atribuídas aos ramos.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 15.º — Organização dos ramos das Forças Armadas
+
+1 - Para cumprimento das respectivas missões, os ramos são comandados pelo respectivo Chefe do Estado-Maior e compreendem:
+
+a) O Estado-Maior;
+
+b) Os órgãos centrais de administração e direcção;
+
+c) O comando de componente;
+
+d) Os órgãos de conselho;
+
+e) Os órgãos de inspecção;
+
+f) Os órgãos de base;
+
+g) Os elementos da componente operacional do sistema de forças.
+
+2 - Os Estados-Maiores constituem os órgãos de planeamento e apoio à decisão dos respetivos Chefes de Estado-Maior e podem assumir funções de direção, controlo, conselho ou inspeção.
+
+3 - Os órgãos centrais de administração e direção têm carácter funcional e visam assegurar a direção e execução de áreas ou atividades específicas essenciais, designadamente na gestão de recursos humanos, materiais, financeiros, de informação e de infraestruturas.
+
+4 - Os comandos de componente - naval, terrestre e aérea - destinam-se a apoiar o exercício do comando por parte dos Chefes de Estado-Maior dos ramos, tendo em vista:
+
+a) A preparação, o aprontamento e a sustentação das forças e meios da respetiva componente operacional do sistema de forças e, ainda, o cumprimento das missões reguladas por legislação própria e outras missões que lhes sejam atribuídas, mantendo o Chefe do Estado-Maior-General das Forças Armadas permanentemente informado das forças e meios empenhados e do desenvolvimento e resultados das respetivas operações;
+
+b) A administração e direcção das unidades e órgãos da componente fixa colocados na sua directa dependência.
+
+5 - Para efeitos de apoio ao exercício do comando por parte do Chefe do Estado-Maior-General das Forças Armadas, os comandos de componente mencionados no número anterior são colocados na sua dependência direta, pelo Chefe do Estado-Maior do ramo respetivo, de acordo com as modalidades de comando e controlo aplicáveis a situações específicas de emprego operacional de forças e meios, a definir caso a caso.
+
+6 - Os órgãos de conselho destinam-se a apoiar a decisão do Chefe do Estado-Maior do ramo em assuntos especiais e importantes na preparação, disciplina e administração do ramo.
+
+7 - Os órgãos de inspecção destinam-se a apoiar o exercício da função de controlo e avaliação pelo Chefe do Estado-Maior.
+
+8 - São órgãos de base os que visam a formação, a sustentação e o apoio geral do ramo.
+
+9 - Os elementos da componente operacional do sistema de forças são as forças e meios do ramo destinados ao cumprimento das missões de natureza operacional.
+
+10 - Integram ainda a orgânica dos ramos, na Marinha, o Instituto Hidrográfico e o Serviço de Busca e Salvamento Marítimo, e, na Força Aérea, o Serviço de Busca e Salvamento Aéreo.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+#### Secção IV — Chefes de Estado-Maior dos ramos
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 6.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929)
+
+###### Artigo 16.º — Chefes de Estado-Maior dos ramos
+
+1 - Os Chefes do Estado-Maior da Armada, do Exército e da Força Aérea comandam os respetivos ramos e são os chefes militares de mais elevada autoridade na sua hierarquia, sendo os principais conselheiros do Ministro da Defesa Nacional e do Chefe do Estado-Maior-General das Forças Armadas em todos os assuntos específicos do seu ramo.
+
+2 - No quadro das missões cometidas às Forças Armadas, em situação não decorrente do estado de guerra, os Chefes de Estado-Maior dos ramos integram a estrutura de comando operacional das Forças Armadas, como comandantes subordinados do Chefe do Estado-Maior-General das Forças Armadas para as questões que envolvam a prontidão, o emprego e a sustentação das forças e meios da componente operacional do sistema de forças.
+
+3 - Os Chefes de Estado-Maior dos ramos são ainda responsáveis pelo cumprimento das missões reguladas por legislação própria e das missões de natureza operacional que lhes sejam atribuídas pelo Chefe do Estado-Maior-General das Forças Armadas.
+
+4 - Os Chefes de Estado-Maior dos ramos relacionam-se diretamente com o Chefe do Estado-Maior-General das Forças Armadas, para além do referido no n.º 2, nos aspetos relacionados com as informações e segurança militares, o ensino superior militar, a saúde militar e outras áreas de atividade conjunta ou integrada.
+
+5 - Os Chefes de Estado-Maior dos ramos relacionam-se diretamente com o Ministro da Defesa Nacional nos aspetos relacionados com a gestão corrente de recursos do respetivo ramo, bem como com o funcionamento dos órgãos, serviços ou sistemas regulados por legislação própria.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 17.º — Competências dos Chefes de Estado-Maior dos ramos
+
+1 - Compete aos Chefes do Estado-Maior de cada ramo, sem prejuízo do disposto no artigo 11.º:
+
+a) Dirigir, coordenar e administrar o respectivo ramo;
+
+b) Assegurar a geração, a preparação, o aprontamento e a sustentação das forças e meios do respectivo ramo;
+
+c) Certificar as forças do respectivo ramo;
+
+d) Exercer o comando das forças e meios que integram a componente operacional do sistema de forças pertencentes ao seu ramo, sempre que não estejam empenhados em missões da responsabilidade direta do Chefe do Estado-Maior-General das Forças Armadas;
+
+e) Manter o Chefe do Estado-Maior-General das Forças Armadas permanentemente informado sobre a prontidão e o empenhamento de forças e meios da componente operacional do sistema de forças;
+
+f) Definir a doutrina operacional específica do ramo adequada à doutrina militar conjunta estabelecida;
+
+g) Nomear e exonerar os oficiais para funções de comando, direcção e chefia no âmbito do respectivo ramo, sem prejuízo do que sobre a matéria dispõe a Lei de Defesa Nacional;
+
+h) Assegurar a condução das actividades de cooperação técnico-militar nos projectos em que sejam constituídos como entidades primariamente responsáveis, conforme respectivos programas quadro coordenados pela Direcção-Geral de Política de Defesa Nacional;
+
+i) Planear e executar, de acordo com as orientações estabelecidas, as actividades de treino operacional combinado de carácter bilateral.
+
+2 - Compete ainda aos Chefes de Estado-Maior dos ramos:
+
+a) Formular e propor a estratégia estrutural do respectivo ramo, a sua transformação e a estratégia genética associada aos sistemas de armas necessários ao seu reequipamento, em ciclo com as directivas ministeriais;
+
+b) Apresentar ao Chefe do Estado-Maior-General das Forças Armadas as posições e as propostas do respectivo ramo relativamente aos assuntos da competência daquele órgão militar de comando;
+
+c) No âmbito do planeamento de forças e da programação militar de equipamento e infra-estruturas, efectuar as análises e elaborar as propostas relativas ao respectivo ramo;
+
+d) Decidir e assinar as promoções dos oficiais do respectivo ramo até ao posto de coronel ou capitão-de-mar-e-guerra;
+
+e) Propor ao Conselho de Chefes de Estado-Maior, nos termos da lei, a promoção a oficial general e de oficiais generais do seu ramo;
+
+f) Exercer as atribuições que lhe cabem no âmbito da justiça militar e administrar a disciplina no respectivo ramo;
+
+g) Propor o estabelecimento de restrições ao exercício do direito de propriedade, relativamente a zonas confinantes com organizações ou instalações do respectivo ramo ou de interesse para a defesa nacional;
+
+h) Submeter ao Ministro da Defesa Nacional os assuntos específicos do ramo respetivo não relacionados com as competências próprias do Chefe do Estado-Maior-General das Forças Armadas.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 18.º — Nomeação dos Chefes de Estado-Maior dos ramos
+
+1 - Os Chefes de Estado-Maior dos ramos são nomeados e exonerados pelo Presidente da República, sob proposta do Governo, a qual deve ser precedida da audição, através do Ministro da Defesa Nacional, do Chefe do Estado-Maior-General das Forças Armadas.
+
+2 - O Chefe do Estado-Maior-General das Forças Armadas pronuncia-se, nos termos do número anterior, após audição do Conselho Superior do respectivo ramo.
+
+3 - Sempre que possível, deve o Governo iniciar o processo de nomeação dos Chefes de Estado-Maior dos ramos pelo menos um mês antes da vacatura do cargo, por forma a permitir neste momento a substituição imediata do respetivo titular.
+
+4 - Se o Presidente da República discordar do nome proposto, o Governo apresentar-lhe-á nova proposta.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+#### Secção V — Órgãos militares de conselho
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 19.º — Conselho de Chefes de Estado-Maior
+
+1 - O Conselho de Chefes de Estado-Maior é o principal órgão militar de carácter coordenador e tem competências administrativas estabelecidas na lei, constituindo também o órgão de consulta do Chefe do Estado-Maior-General das Forças Armadas sobre as matérias relativas às Forças Armadas no âmbito das suas competências.
+
+2 - São membros do Conselho de Chefes de Estado-Maior o Chefe do Estado-Maior-General das Forças Armadas, que preside e dispõe de voto de qualidade, e os Chefes de Estado-Maior dos ramos, sem prejuízo de outras entidades militares poderem ser convidadas a participar nas suas reuniões, sem direito a voto.
+
+3 - Compete ao Conselho de Chefes de Estado-Maior deliberar sobre:
+
+a) A elaboração do conceito estratégico militar;
+
+b) A elaboração dos projetos de definição das missões específicas das Forças Armadas, do sistema de forças e do dispositivo de forças;
+
+c) Os planos e relatórios de actividades de informações e segurança militares nas Forças Armadas;
+
+d) Os anteprojectos das propostas de lei de programação militar e de lei de programação de infra-estruturas militares;
+
+e) Os critérios para o funcionamento do ensino superior militar integrado, no sentido de promover a doutrina e a formação militar conjunta dos oficiais das Forças Armadas;
+
+f) Os critérios para o funcionamento da saúde militar;
+
+g) A promoção a oficial general e de oficiais generais;
+
+h) A proposta de nomeação de juízes militares, nos termos da lei;
+
+i) O seu regimento.
+
+4 - Compete ao Conselho de Chefes de Estado-Maior dar parecer sobre:
+
+a) As propostas de definição do conceito estratégico de defesa nacional;
+
+b) O projecto de propostas de forças nacionais;
+
+c) A doutrina militar conjunta e conjunta/combinada;
+
+d) As opções de resposta militar no âmbito da avaliação estratégica para o emprego de forças;
+
+e) Os actos da competência do Chefe do Estado-Maior-General das Forças Armadas que careçam do seu parecer prévio;
+
+f) A nomeação do Comandante-Geral da Guarda Nacional Republicana, se a mesma recair em oficial general das Forças Armadas;
+
+g) Quaisquer assuntos que sejam submetidos à sua apreciação pelo Ministro da Defesa Nacional, bem como sobre outros que o Chefe do Estado-Maior-General das Forças Armadas entenda submeter-lhe por iniciativa própria ou a solicitação dos Chefes de Estado-Maior dos ramos.
+
+5 - Compete ao Conselho de Chefes de Estado-Maior definir as orientações relativas à gestão dos recursos afetos às Forças Armadas no seu conjunto, designadamente elaborar a parte referente às Forças Armadas do anteprojeto da proposta de lei do orçamento da defesa nacional, a remeter ao Ministro da Defesa Nacional.
+
+6 - A execução e a eventual difusão das deliberações do Conselho de Chefes de Estado-Maior competem ao Chefe do Estado-Maior-General das Forças Armadas.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 20.º — Conselhos superiores dos ramos e órgãos semelhantes
+
+1 - Em cada um dos ramos das Forças Armadas existe um conselho superior do ramo, presidido pelo respectivo Chefe do Estado-Maior.
+
+2 - Outros órgãos de conselho dos ramos, designadamente os conselhos de classes na Marinha, os conselhos de armas e de serviços no Exército e os conselhos de especialidade na Força Aérea, são definidos em lei especial.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+#### Secção VI — Disposições comuns
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 21.º — Disposições comuns
+
+1 - Dos atos do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes de Estado-Maior dos ramos não cabe recurso hierárquico.
+
+2 - Nos processos jurisdicionais que tenham por objeto a ação ou omissão de órgãos das Forças Armadas em matérias de disciplina e de administração de pessoal, a parte demandada é o Estado-Maior-General das Forças Armadas ou o respetivo ramo, conforme os casos, sendo representados em juízo por advogado ou por licenciado em direito com funções de apoio jurídico, constituído ou designado pelo respetivo Chefe de Estado-Maior.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+### Capítulo III — As Forças Armadas em estado de guerra
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 22.º — As Forças Armadas em estado de guerra
+
+1 - Em estado de guerra, as Forças Armadas têm uma função predominante na defesa nacional e o País empenha todos os recursos necessários no apoio às acções militares e sua execução.
+
+2 - Declarada a guerra, o Chefe do Estado-Maior-General das Forças Armadas assume o comando completo das Forças Armadas, e é responsável perante o Presidente da República e o Governo pela preparação e condução das operações.
+
+3 - Em estado de guerra, podem ser constituídos comandos-chefes, na dependência do Chefe do Estado-Maior-General das Forças Armadas, com o objetivo de permitir a conduta de operações militares, dispondo os respetivos comandantes-chefes das competências, forças e meios que lhes forem outorgados por carta de comando.
+
+4 - Em estado de guerra, o Chefe do Estado-Maior-General das Forças Armadas exerce, sob a autoridade do Presidente da República e do Governo, o comando completo das Forças Armadas:
+
+a) Diretamente ou através dos comandantes-chefes para o comando operacional, tendo como comandantes adjuntos os Chefes de Estado-Maior dos ramos;
+
+b) Através dos Chefes de Estado-Maior dos ramos para os aspetos administrativo-logísticos.
+
+5 - Os Chefes de Estado-Maior dos ramos respondem pela execução das diretivas superiores e garantem a atuação das respetivas forças perante o Chefe do Estado-Maior-General das Forças Armadas, dependendo deste em todos os aspetos.
+
+6 - O Conselho de Chefes de Estado-Maior assiste, em permanência, o Chefe do Estado-Maior-General das Forças Armadas na condução das operações militares e na elaboração das propostas de nomeação dos comandantes dos teatros e zonas de operações.
+
+7 - Compete ao Chefe do Estado-Maior-General das Forças Armadas apresentar ao Ministro da Defesa Nacional, para decisão do Conselho Superior de Defesa Nacional, os projectos de definição dos teatros e zonas de operações, bem como as propostas de nomeação ou exoneração dos respectivos comandantes e das suas cartas de comando.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+### Capítulo IV — Nomeações e promoções
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 23.º — Regras comuns quanto à nomeação dos Chefes de Estado-Maior
+
+1 - O Chefe do Estado-Maior-General das Forças Armadas e os Chefes de Estado-Maior dos ramos são nomeados, de entre almirantes, vice-almirantes, generais ou tenentes-generais, na situação de ativo, por um período de três anos, prorrogável por dois anos, sem prejuízo da faculdade de exoneração a todo o tempo e da exoneração por limite de idade.
+
+2 - Na prorrogação dos mandatos do Chefe do Estado-Maior-General das Forças Armadas e dos Chefes de Estado-Maior dos ramos devem ser cumpridas todas as formalidades legais previstas para efeitos de nomeação, com exceção das audições previstas nos n.os 1 e 2 do artigo 18.º.
+
+3 - Aos militares propostos para os cargos de Chefe do Estado-Maior-General das Forças Armadas e de Chefes de Estado-Maior dos ramos, a que corresponda o posto de almirante ou general de quatro estrelas, é, desde a data da proposta do Governo, suspenso o limite de idade de passagem à reserva, prolongando-se a suspensão, relativamente ao nomeado, até ao termo do respetivo mandato.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 24.º — Nomeações
+
+1 - As nomeações de oficiais para cargos de comando nas Forças Armadas, bem como as correspondentes exonerações, efectuam-se por decisão do Chefe do Estado-Maior do respectivo ramo, sem prejuízo do disposto nos números seguintes.
+
+2 - Compete ao Presidente da República, sob proposta do Governo, formulada após iniciativa do Chefe do Estado-Maior-General das Forças Armadas e aprovada pelo Conselho Superior de Defesa Nacional, nomear e exonerar os comandantes-chefes.
+
+3 - Compete ao Ministro da Defesa Nacional nomear e exonerar, sob proposta do Chefe do Estado-Maior do respetivo ramo, os titulares dos cargos seguintes:
+
+a) Vice-chefes de Estado-Maior dos ramos;
+
+b) Comandantes dos comandos de componente, naval, terrestre e aérea;
+
+c) (Revogada).
+
+4 - Compete ao Ministro da Defesa Nacional, sob proposta do Chefe do Estado-Maior-General das Forças Armadas, ouvido o Conselho de Chefes de Estado-Maior, nomear e exonerar os titulares dos cargos seguintes da estrutura do EMGFA:
+
+a) Chefe do Estado-Maior do Comando Conjunto para as Operações Militares;
+
+b) Comandantes dos comandos dos Açores e da Madeira;
+
+c) Chefe do órgão de informações e de segurança militares;
+
+d) Diretor do Instituto Universitário Militar;
+
+e) Diretor de Saúde Militar.
+
+5 - As nomeações e exonerações referidas nas alíneas a) dos n.os 3 e 4 devem ser confirmadas pelo Presidente da República, sem o que não produzem quaisquer efeitos.
+
+6 - Aos militares propostos para os cargos militares em organizações internacionais de que Portugal faça parte a que corresponda o posto de almirante ou general é, desde a data da proposta do Governo, suspenso o limite de idade de passagem à reserva, prolongando-se a suspensão, relativamente ao nomeado, até ao termo do respetivo mandato.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 25.º — Promoções
+
+1 - As promoções a oficial general, bem como as promoções de oficiais generais, de qualquer ramo das Forças Armadas efetuam-se mediante deliberação nesse sentido do Conselho de Chefes de Estado-Maior, precedida de proposta do respetivo Chefe do Estado-Maior, ouvido o conselho superior do ramo.
+
+2 - As promoções referidas no número anterior são sujeitas a aprovação pelo Ministro da Defesa Nacional e a confirmação pelo Presidente da República, sem o que não produzem quaisquer efeitos.
+
+3 - As promoções até ao posto de coronel ou capitão-de-mar-e-guerra efetuam-se exclusivamente no âmbito das Forças Armadas, ouvidos os órgãos de conselho dos ramos previstos no n.º 2 do artigo 20.º.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+### Capítulo V — Disposições finais
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 26.º — Articulação operacional entre as Forças Armadas e as forças e serviços de segurança
+
+1 - As Forças Armadas e as forças e os serviços de segurança cooperam tendo em vista o cumprimento conjugado das suas missões para os efeitos previstos na alínea e) do n.º 1 do artigo 4.º
+
+2 - Para assegurar a cooperação prevista no número anterior, são estabelecidos os procedimentos que garantam a interoperabilidade de equipamentos e sistemas, bem como a utilização de meios.
+
+3 - Compete ao Chefe do Estado-Maior-General das Forças Armadas e ao Secretário-Geral do Sistema de Segurança Interna assegurar entre si a implementação das medidas de coordenação, para os efeitos previstos nos números anteriores, sem prejuízo do disposto na Lei de Segurança Interna.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+> Alterado pelo/a Artigo 2.º do/a [Lei Orgânica n.º 6/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01](https://diariodarepublica.pt/dr/detalhe/lei-organica/6-2014-56384929), em vigor a partir de 2014-09-02
+
+###### Artigo 27.º — Desenvolvimento
+
+As bases gerais da presente lei, nomeadamente no que respeita à organização do Estado-Maior-General das Forças Armadas e dos ramos, são desenvolvidas mediante decretos-leis.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 28.º — Norma revogatória
+
+É revogada a Lei n.º 111/91, de 29 de Agosto, alterada pela Lei n.º 18/95, de 13 de Julho.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+###### Artigo 29.º — Entrada em vigor
+
+A presente lei entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10
+
+Aprovada em 29 de Maio de 2009.
+
+O Presidente da Assembleia da República, Jaime Gama.
+
+Promulgada em 3 de Julho de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendada em 6 de Julho de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.
+
+> Revogado pelo/a Artigo 4.º do/a [Lei Orgânica n.º 2/2021 - Diário da República n.º 153/2021, Série I de 2021-08-09](https://diariodarepublica.pt/dr/detalhe/lei-organica/2-2021-169256653), em vigor a partir de 2021-08-10

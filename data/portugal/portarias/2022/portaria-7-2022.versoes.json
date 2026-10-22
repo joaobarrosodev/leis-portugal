@@ -1,0 +1,326 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:177088817:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2022-177088832",
+ "dre_path": "/dr/detalhe/portaria/7-2022-177088817",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2022-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178264071:por",
+     "title": "Declaração de Retificação n.º 4/2022",
+     "published": "2022-01-28",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/4-2022-178264071"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º",
+    "Retifica Anexo"
+   ],
+   "fragments": [
+    "177089135",
+    "177089136",
+    "177089137",
+    "177089138",
+    "177089139",
+    "177089140",
+    "177089141",
+    "177089142",
+    "177089143",
+    "177089144",
+    "177089145",
+    "177089146",
+    "177089147",
+    "177089148"
+   ],
+   "acts_without_text_change": []
+  },
+  {
+   "date": "2022-08-31",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:200360559:por",
+     "title": "Portaria n.º 216/2022",
+     "published": "2022-08-30",
+     "dre_path": "/dr/detalhe/portaria/216-2022-200360559"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º"
+   ],
+   "fragments": [
+    "177089135",
+    "177089136",
+    "177089137",
+    "177089138",
+    "178364439",
+    "177089140",
+    "177089141",
+    "177089142",
+    "177089143",
+    "177089144",
+    "200361484",
+    "177089146",
+    "200361485",
+    "178364440"
+   ]
+  },
+  {
+   "date": "2023-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:207987300:por",
+     "title": "Portaria n.º 54-R/2023",
+     "published": "2023-02-28",
+     "dre_path": "/dr/detalhe/portaria/54-r-2023-207987300"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 12.º",
+    "Altera Anexo"
+   ],
+   "fragments": [
+    "177089135",
+    "177089136",
+    "177089137",
+    "177089138",
+    "208126992",
+    "177089140",
+    "177089141",
+    "208126993",
+    "177089143",
+    "177089144",
+    "208126994",
+    "177089146",
+    "208126995",
+    "208126996",
+    "216713259"
+   ]
+  }
+ ],
+ "fragments": {
+  "177089135": {
+   "fragment_id": "177088833",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 7/2022\n\nde 4 de janeiro\n\nSumário: Regulamenta as condições de publicidade dos horários de trabalho e a forma de registo dos respetivos tempos de trabalho.\n\nA Portaria n.º 983/2007, de 27 de agosto, regulamenta as condições de publicidade dos horários de trabalho do pessoal afeto à exploração de veículos automóveis propriedade de empresas de transportes ou privativos de outras entidades sujeitas às disposições do Código do Trabalho, nos termos previstos no n.º 3 do artigo 179.º do então Código do Trabalho, aprovado pela Lei n.º 99/2003, de 27 de agosto.\n\nA referida Portaria estabelece ainda a forma do registo a que se refere o n.º 2 do artigo 4.º do Decreto-Lei n.º 237/2007, de 19 de junho, que regula determinados aspetos da organização do tempo de trabalho dos trabalhadores móveis em atividades de transporte rodoviário efetuadas em território nacional e abrangidas pelo Regulamento (CE) n.º 561/2006, do Parlamento Europeu e do Conselho, de 15 de março, relativo à harmonização de determinadas disposições em matéria social no domínio dos transportes rodoviários ou pelo Acordo Europeu Relativo ao Trabalho das Tripulações dos Veículos que Efetuam Transportes Internacionais Rodoviários (AETR), aprovado para ratificação pelo Decreto n.º 324/73, de 30 de junho.\n\nApesar de o regime do Código do Trabalho, aprovado pela Lei n.º 7/2009, de 12 de fevereiro, na sua redação atual, ter mantido praticamente inalteradas as condições de publicidade dos horários de trabalho do pessoal afeto à exploração de veículos automóveis, importa proceder à atualização da regulamentação do n.º 4 do artigo 216.º do Código do Trabalho.\n\nPor outro lado, o Decreto-Lei n.º 117/2012, de 5 de junho, que regula a organização dos tempos de trabalho de condutores independentes em atividades de transporte rodoviário, transpondo para a ordem jurídica interna a Diretiva 2002/15/CE do Parlamento Europeu e do Conselho, de 11 de março de 2002, relativa à organização do tempo de trabalho das pessoas que exercem atividades móveis de transporte rodoviário, na parte relativa a condutores independentes, determina no n.º 1 do artigo 7.º que o condutor independente não sujeito ao aparelho de controlo previsto no Regulamento (CEE) n.º 3821/85, de 20 de dezembro de 1985, alterado pelo Regulamento (CE) n.º 561/2006, do Parlamento Europeu e do Conselho, de 15 de março de 2006, ou previsto no AETR, deve registar os tempos de trabalho e os intervalos de descanso, passando a presente portaria a estabelecer a forma deste registo nos termos do n.º 2 do mesmo artigo.\n\nAcresce que a Lei n.º 45/2018, de 10 de agosto, veio estabelecer o regime jurídico da atividade de transporte individual e remunerado de passageiros em veículos descaracterizados a partir de plataforma eletrónica, aplicando ao motorista afeto a esta atividade e que esteja vinculado por contrato de trabalho e ao motorista independente, o regime de organização do tempo de trabalho previsto nos referidos Decretos-Leis n.os 237/2007, de 19 de junho, e 117/2012, de 5 de junho, respetivamente.\n\nNeste contexto, com a presente portaria consolidam-se num único instrumento as exigências regulamentares referenciadas, clarificaram-se os conteúdos e os momentos em que há publicitação do horário de trabalho e em que se procede ao registo dos tempos de trabalho, disponibiliza-se um leque de opções ao empregador na escolha dos suportes que mais se adaptem ao seu modelo de negócio e à sua frota, acolhendo-se a possibilidade de uso de suportes digitais, eliminando-se, assim, a existência do livrete individual de controlo físico e o inerente requisito administrativo da autenticação pela Autoridade para as Condições do Trabalho, e revogando-se a Portaria n.º 983/2007, de 27 de agosto.\n\nForam ouvidos os parceiros sociais com assento na Comissão Permanente de Concertação Social, a Associação Nacional de Transportadores Rodoviários de Pesados de Passageiros, a Associação Rodoviária de Transportadores Pesados de Passageiros, a Associação Nacional dos Transportadores Rodoviários em Automóveis Ligeiros, a Federação Portuguesa do Táxi, a Associação Nacional Táxis Unidos de Portugal, a Associação Empresarial de Operadores TVDE, a Associação Nacional de Transportadores Públicos Rodoviários de Mercadorias e a Associação Nacional de Transportes Públicos.\n\nAssim, nos termos do n.º 4 do artigo 216.º do Código do Trabalho, do n.º 2 do artigo 4.º do Decreto-Lei n.º 237/2007, de 19 de junho, e do n.º 2 do artigo 7.º do Decreto-Lei n.º 117/2012, de 5 de junho, manda o Governo, pelo Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, no uso da competência delegada pelo Despacho n.º 892/2020, de 14 de janeiro, publicado no Diário da República, 2.ª série, n.º 15, de 22 de janeiro de 2020, pelo Secretário de Estado da Mobilidade, no uso da competência delegada pelo Despacho n.º 12149-A/2019, de 17 de dezembro, publicado no Diário da República, 2.ª série, n.º 243, de 18 de dezembro de 2019, alterado e republicado pelo Despacho n.º 11561/2020, de 15 de novembro, publicado no Diário da República, 2.ª série, n.º 228, de 23 de novembro de 2020, e pelo Secretário de Estado das Infraestruturas, no uso da competência delegada pelo Despacho n.º 11146/2020, de 2 de novembro, publicado no Diário da República, 2.ª série, n.º 221, de 12 de novembro de 2020, o seguinte:"
+  },
+  "177089136": {
+   "fragment_id": "177088834",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - A presente portaria regulamenta as condições de publicidade dos horários de trabalho e a forma de registo dos respetivos tempos de trabalho relativamente a:\n\na) Trabalhador afeto à exploração de veículo automóvel, nos termos do disposto no n.º 4 do artigo 216.º do Código do Trabalho;\n\nb) Trabalhador móvel em atividade de transporte rodoviário não sujeito ao aparelho de controlo previsto nos Regulamentos da União Europeia aplicáveis ou no Acordo Europeu Relativo ao Trabalho das Tripulações dos Veículos que efetuam Transportes Internacionais Rodoviários (AETR), nos termos do disposto no artigo 4.º do Decreto-Lei n.º 237/2007 de 19 de junho;\n\nc) Condutor independente em atividade móvel de transporte rodoviário não sujeito ao aparelho de controlo previsto nos Regulamentos da União Europeia aplicáveis ou no AETR, nos termos do disposto no artigo 7.º do Decreto-Lei n.º 117/2012, de 5 de junho;\n\n2 - A regulamentação referida no número anterior é aplicável, nos termos previstos no n.º 12 do artigo 10.º da Lei n.º 45/2018, de 8 de agosto, ao motorista afeto à atividade de transporte em veículo descaracterizado a partir de plataforma eletrónica (TVDE)."
+  },
+  "177089137": {
+   "fragment_id": "177088835",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\n1 - Sem prejuízo do disposto no número seguinte, para efeitos da presente portaria são aplicáveis as definições constantes do Decreto-Lei n.º 237/2007, de 19 de junho, e do Decreto-Lei n.º 117/2012, de 5 de junho.\n\n2 - Para efeitos do disposto na alínea a) do n.º 1 do artigo anterior, entende-se por «trabalhador afeto à exploração de veículo automóvel», o condutor de veículos pesados de mercadorias ou de passageiros não abrangidos pela regulamentação da União Europeia e/ou de veículos ligeiros de passageiros, mercadorias ou mistos, cuja atividade não possa ser desenvolvida sem recurso à utilização de veículo automóvel."
+  },
+  "177089138": {
+   "fragment_id": "177088836",
+   "type": 11,
+   "heading": "Artigo 3.º — Horários de trabalho fixos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Horários de trabalho fixos\n\n1 - A publicidade dos horários de trabalho dos trabalhadores sujeitos a horário de trabalho fixo é feita através de mapa de horário de trabalho, incluindo os turnos e escalas de serviço quando aplicável, elaborado com as referências constantes do artigo 215.º do Código do Trabalho, o qual deve estar disponível em local acessível nas instalações da empresa ou estabelecimento e no veículo.\n\n2 - Em substituição dos meios referidos no número anterior, o empregador pode optar pela instalação e utilização dos instrumentos de publicitação referidos no artigo seguinte."
+  },
+  "177089139": {
+   "fragment_id": "177088837",
+   "type": 11,
+   "heading": "Artigo 4.º — Horários de trabalho móveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Horários de trabalho móveis\n\n1 - A publicidade dos horários de trabalho, tempos de condução, intervalos de descanso e descansos diários e semanais dos trabalhadores que estejam sujeitos a horários de trabalho móveis é feita através de uma das seguintes formas:\n\na) Aparelho de controlo, também designado por tacógrafo, e o respetivo registo tacográfico;\n\nb) Sistema informático devidamente homologado, no âmbito do Sistema Português da Qualidade, com os requisitos enunciados no anexo à presente portaria;\n\nc) Acordo de isenção de horário de trabalho, no caso de trabalhadores em regime de isenção de horário de trabalho, celebrado nos termos previstos no Código do Trabalho, com um exemplar a manter disponível no veículo;\n\nd) Nos termos previstos no AETR, no caso de operações de transporte realizadas em território nacional ao abrigo do referido Acordo.\n\n2 - Os suportes referidos nas alíneas a) e b) do número anterior devem reunir características de integralidade, autenticidade e inviolabilidade."
+  },
+  "177089140": {
+   "fragment_id": "177088838",
+   "type": 11,
+   "heading": "Artigo 5.º — Deveres do empregador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Deveres do empregador\n\n1 - Cabe ao empregador a escolha do modo e forma de publicitação dos horários de trabalho.\n\n2 - No caso de o empregador optar pela instalação e utilização de aparelho de controlo, também designado por tacógrafo, o empregador deve:\n\na) Organizar e manter um registo dos veículos em relação aos quais se verifique a referida opção que reúna caraterísticas de integralidade, autenticidade e inviolabilidade;\n\nb) Assegurar a instalação e utilização do aparelho de controlo, nos termos previstos na respetiva legislação aplicável;\n\nc) Examinar com uma periodicidade mínima quinzenal ou, em caso de impedimento, logo que possível, os registos constantes do aparelho de controlo.\n\n3 - No caso de o empregador optar pela instalação e utilização de sistema informático, o empregador deve:\n\na) Organizar e manter um registo dos veículos em relação aos quais se verifique a referida opção que reúna caraterísticas de integralidade, autenticidade e inviolabilidade;\n\nb) Assegurar a instalação e utilização do sistema informático de acordo com as instruções do fabricante;\n\nc) Dar instruções e a formação necessária ao trabalhador sobre o uso do sistema informático;\n\nd) Respeitar a legislação relativa à recolha e proteção de dados pessoais e demais informação sensível, a que tenha acesso no âmbito da respetiva atividade;\n\ne) Examinar com uma periodicidade mínima quinzenal ou, em caso de impedimento, logo que possível, os registos constantes do sistema informático;\n\nf) Não fazer recair sobre o trabalhador qualquer ónus financeiro relacionado com o software ou o hardware necessários à sua operação."
+  },
+  "177089141": {
+   "fragment_id": "177088839",
+   "type": 11,
+   "heading": "Artigo 6.º — Deveres do trabalhador",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Deveres do trabalhador\n\n1 - Nos casos em que a publicidade dos horários de trabalho seja feita por recurso a aparelho de controlo, também designado por tacógrafo, o trabalhador deve assegurar a sua utilização nos termos previstos na respetiva legislação aplicável.\n\n2 - Sempre que a publicidade dos horários de trabalho seja feita por recurso a sistema informático o trabalhador deve:\n\na) Utilizar o sistema informático fornecido pelo empregador, de acordo com as instruções transmitidas;\n\nb) Registar diariamente os dados requeridos de acordo com as instruções constantes do mesmo;\n\nc) Apresentar relatórios semanais ao empregador;\n\nd) Apresentar ao empregador e às autoridades com competência fiscalizadora os dados registados nos termos por eles determinados.\n\n3 - O trabalhador deve informar o empregador sobre os períodos de trabalho prestados a qualquer outro empregador, nos termos previstos na alínea b) do n.º 4 do artigo 6.º do Decreto-Lei n.º 237/2007, de 19 de junho, ou como condutor independente."
+  },
+  "177089142": {
+   "fragment_id": "177088840",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo de tempos de trabalho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Registo de tempos de trabalho\n\n1 - O empregador recolhe e procede ao tratamento dos dados constantes dos suportes de publicitação dos horários de trabalho referidos nos artigos 3.º e 4.º e elabora o registo dos tempos de trabalho prestado pelos seus trabalhadores, incluindo os que estão isentos de horário de trabalho.\n\n2 - O registo dos tempos de trabalho deve conter:\n\na) As horas de início e de termo do tempo de trabalho, os tempos de condução, os intervalos de descanso e os descansos diários e semanais;\n\nb) Os tempos de disponibilidade em que o trabalhador não está obrigado a permanecer no local de trabalho e se mantém adstrito à realização da atividade em caso de necessidade;\n\nc) Os tempos de disponibilidade em que o trabalhador, conduzindo em equipa, passa ao lado do condutor ou num beliche durante a marcha do veículo;\n\nd) Os períodos de trabalho prestado pelos seus trabalhadores a qualquer outro empregador ou como condutores independentes.\n\n3 - Sempre que a condução automóvel seja acessória da atividade principal do trabalhador ou não constitua a maioria do tempo de afetação, é dispensada a diferenciação do seu registo no âmbito do registo do tempo de trabalho prestado.\n\n4 - O registo dos tempos de trabalho prestado pode ser feito em suporte informático e deve reunir caraterísticas de integralidade, autenticidade e inviolabilidade e ser visado pelos trabalhadores com uma periodicidade quinzenal.\n\n5 - O empregador deve entregar ao trabalhador, a pedido deste, cópia dos registos referidos nos números anteriores no prazo de oito dias úteis."
+  },
+  "177089143": {
+   "fragment_id": "177088841",
+   "type": 11,
+   "heading": "Artigo 8.º — Conservação de dados e registos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Conservação de dados e registos\n\nOs dados e registos previstos na presente portaria devem ser mantidos e conservados durante cinco anos após o termo do período a que se referem e colocados à disposição das entidades com competência fiscalizadora sempre que estas o solicitem."
+  },
+  "177089144": {
+   "fragment_id": "177088842",
+   "type": 11,
+   "heading": "Artigo 9.º — Condutor independente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Condutor independente\n\nO disposto nos artigos 5.º a 8.º é aplicável, com as necessárias adaptações, ao condutor independente."
+  },
+  "177089145": {
+   "fragment_id": "177088843",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Até 31 de agosto de 2022, o empregador pode optar por efetuar a publicidade dos horários de trabalho por recurso a qualquer uma das modalidades previstas no n.º 1 do artigo 3.º e nas alíneas a), c) e d) do artigo 4.º ou pela utilização do livrete individual de controlo previsto na Portaria n.º 983/2007, de 27 de agosto, sendo dispensada a autenticação.\n\n2 - Para efeitos do número anterior, e sem prejuízo do artigo seguinte, a Portaria n.º 983/2007, de 27 de agosto, com exceção do n.º 2 do seu artigo 2.º e do artigo 4.º, mantém-se em vigor, com as necessárias adaptações, até àquela data."
+  },
+  "177089146": {
+   "fragment_id": "177088844",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 983/2007, de 27 de agosto;\n\nb) A Portaria n.º 19462, de 27 de outubro de 1962."
+  },
+  "177089147": {
+   "fragment_id": "177088845",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia 1 de janeiro de 2022.\n\n2 - Sem prejuízo do número anterior, a alínea b) do n.º 1 do artigo 4.º, o n.º 3 do artigo 5.º e o n.º 2 do artigo 6.º produzem efeitos a partir de 1 de setembro de 2022.\n\nEm 30 de dezembro de 2021.\n\nO Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, Miguel Filipe Pardal Cabrita. - O Secretário de Estado da Mobilidade, Eduardo Nuno Rodrigues e Pinheiro. - O Secretário de Estado das Infraestruturas, Jorge Moreno Delgado."
+  },
+  "177089148": {
+   "fragment_id": "177088846",
+   "type": 14,
+   "heading": "Anexo — [a que se refere a alínea b) do n.º 1 do artigo 4.º]",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — [a que se refere a alínea b) do n.º 1 do artigo 4.º]\n\nRequisitos do sistema informático para publicidade dos horários de trabalho\n\nCaraterísticas gerais\n\nO sistema informático sobre a publicidade dos horários de trabalho tem por função registar, memorizar, exibir, imprimir e transmitir (ou dar saída a) os dados relativos às atividades do condutor ou do demais pessoal afeto a essa atividade.\n\nEste sistema deve assegurar as seguintes funções:\n\nMedição do tempo;\n\nControlo das atividades do condutor;\n\nControlo da situação de condução e entradas efetuadas manualmente pelo condutor: (i) introdução do lugar de início e/ou final do período diário de trabalho (ii) introdução manual das atividades do condutor ou do demais pessoal afeto (iii) introdução de condições especiais;\n\nGestão das relações com a empresa e/ou dador de trabalho;\n\nVigilância das atividades de controlo;\n\nDeteção de incidentes e/ou falhas;\n\nRegisto e memorização de dados na memória;\n\nLeitura de dados memorizados na memória;\n\nVisualização de dados;\n\nDisponibilização para impressão de dados;\n\nAvisos ou alertas;\n\nDescarregamento de dados para meios externos;\n\nTransmissão (saída) de dados para dispositivos externos adicionais.\n\nIdentificações\n\nO sistema de informação deve conter ou registar as seguintes identificações e informações:\n\nDo produtor do sistema informático, da entidade que o homologou, endereços, data de homologação e colocação no mercado;\n\nDo empregador ou do dador de trabalho: nome completo, domicílio ou sede, número de telefone, endereço eletrónico, estabelecimento a que o trabalhador utilizador do sistema informático está afeto;\n\nDo trabalhador utilizador: nome completo, data de nascimento, categoria profissional, data do início da prestação do trabalho; domicílio, endereço eletrónico se o houver;\n\nO número de matrícula do(s) veículo(s) utilizado(s) durante o dia.\n\nSegurança\n\nO sistema informático inclui disposições de segurança que visam proteger a memória contra acesso e manipulação não autorizados dos dados, bem como detetar tentativas nesse sentido, proteger a integridade e a autenticidade dos dados intercambiados com o sensor de movimentos e verificar a integridade e a autenticidade dos dados registados e descarregados. O descarregamento não deve alterar ou apagar dados memorizados.\n\nOs dados registados devem manter a sua integridade por um período de cinco anos.\n\nO sistema disponibiliza informação sobre as caraterísticas do seu desempenho e condições de uso.\n\nInstruções\n\nO sistema deve incluir instruções para a sua utilização, para publicitação dos diferentes grupos de tempos referenciados pela legislação aplicável por parte do motorista na sua atividade de condução de veículos automóveis ou do demais pessoal afeto, bem como por parte do empregador e/ou dador de trabalho.\n\nDevem ser previstas disposições e instruções para o preenchimento de casos de incidentes e/ou falhas e de ausências ao trabalho e respetivo motivo, designadamente férias e faltas.\n\nO sistema deve prevenir o condutor quando detetar algum incidente e/ou alguma falha ou omissão na introdução de dados.\n\nOs sinais de aviso ou alerta devem ser visuais. Complementarmente, podem ser também emitidos sinais sonoros.\n\nA causa do alerta deve ser visualizada no aparelho de controlo e manter-se visível até o utilizador acusar a sua emissão premindo uma tecla ou comando específico.\n\nConceitos\n\nOs conceitos de referência para o sistema informático, designadamente o local de trabalho, a semana, os tempos de condução, de trabalho, de repouso e de disponibilidade, são os referidos na presente portaria e demais legislação por ela regulamentada.\n\nRegisto de tempos e outros registos\n\nO sistema informático deve ser construído de tal forma que o tempo de condução seja sempre registado automaticamente.\n\nO registo separado dos outros períodos de tempo, bem como o registo do início e fim do dia de trabalho é feito mediante ativação do condutor.\n\nO número de matrícula do(s) veículo(s) utilizado(s) durante o dia, bem como a quilometragem constante do conta-quilómetros, no início e no fim do dia de trabalho, são também alvo de registo.\n\nO registo diário deve ser preenchido pelo trabalhador em relação a todos os dias em que trabalhou como pessoal viajante.\n\nDeve ser previsto um campo para registo de observações, designadamente incidentes e/ou falhas, ausências ao trabalho e respetivo motivo (férias, faltas ou outras) e, sendo caso disso, o nome do segundo condutor. Este espaço pode também ser utilizado para justificar o eventual incumprimento de alguma prescrição ou retificar indicação que figure noutro espaço.\n\nAs anotações a inserir pelo condutor ou do pessoal viajante devem ser feitas no fim de cada período diário a que respeitem, com exceção do registo do número de matrícula da viatura e do início do dia de trabalho.\n\nO descanso entre dias de trabalho e/ou entre semanas de trabalho é registado automaticamente após as anotações anteriormente referidas.\n\nSímbolos\n\nOs símbolos a utilizar devem permitir distinguir claramente a natureza dos diferentes grupos de tempo e têm os seguintes significados:\n\n(ver documento original)\n\nA natureza dos diferentes grupos de tempo é representada em diagrama diário que permita a sua legibilidade e facilidade de interpretação.\n\nAs características das diversas representações do diagrama, as suas posições relativas e os símbolos referidos devem permitir distinguir claramente a natureza dos diferentes grupos de tempo.\n\nRelatórios\n\nO sistema informático disponibiliza relatórios diários com a discriminação dos diferentes grupos de tempos e o número de matrícula do(s) veículo(s) utilizado(s) durante o dia e a quilometragem percorrida.\n\nSemanalmente o sistema deve concluir relatórios semanais com a discriminação desagregada dos diferentes grupos de tempo empregues durante a semana, a matrícula do(s) veículo(s) utilizado(s) e a quilometragem percorrida e remetê-los, automaticamente, para o empregador e ou dador de trabalho.\n\nO relatório semanal é emitido no fim de qualquer semana em que tenha havido pelo menos um registo diário.\n\nAcessibilidade\n\nOs dados diários registados e os respetivos relatórios devem estar permanentemente acessíveis para o empregador ou dador de trabalho e para as autoridades de fiscalização.\n\nO sistema deve permitir a descarga de dados para dispositivos externos do empregador ou do dador de trabalho.\n\nAs entidades de fiscalização devem poder aceder de forma imediata aos registos de tempos de trabalho efetuados pelo trabalhador, bem como a todos os demais elementos registados.\n\nA descarga e recolha de dados e respetivos ficheiros para as autoridades de fiscalização pode ser providenciada para endereço eletrónico indicado pelo agente de controlo.\n\nAntes de iniciar o descarregamento de dados, o sistema atualiza os dados memorizados.\n\nAs solicitações ou observações das autoridades de fiscalização, conteúdo, data, hora e local, podem ser registadas no sistema.\n\n114863463"
+  },
+  "178364439": {
+   "fragment_id": "177088837",
+   "type": 11,
+   "heading": "Artigo 4.º — Horários de trabalho móveis",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01, produz efeitos a partir de 2022-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Horários de trabalho móveis\n\n1 - A publicidade dos horários de trabalho, tempos de condução, intervalos de descanso e descansos diários e semanais dos trabalhadores que estejam sujeitos a horários de trabalho móveis é feita através de uma das seguintes formas:\n\na) Aparelho de controlo, também designado por tacógrafo, e o respetivo registo tacográfico;\n\nb) Sistema informático devidamente certificado por entidade acreditada pelo Instituto Português de Acreditação (IPAC), ou por organismo de acreditação signatário do acordo de reconhecimento mútuo relevante da European Cooperation for Accreditation (EA) ou do International Accreditation Forum (IAF), com os requisitos enunciados no anexo à presente portaria;\n\nc) Acordo de isenção de horário de trabalho, no caso de trabalhadores em regime de isenção de horário de trabalho, celebrado nos termos previstos no Código do Trabalho, com um exemplar a manter disponível no veículo;\n\nd) Nos termos previstos no AETR, no caso de operações de transporte realizadas em território nacional ao abrigo do referido Acordo.\n\n2 - Os suportes referidos nas alíneas a) e b) do número anterior devem reunir características de integralidade, autenticidade e inviolabilidade.\n\n> Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01, produz efeitos a partir de 2022-09-01"
+  },
+  "200361484": {
+   "fragment_id": "177088843",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": "2022-08-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+   ],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Até 28 de fevereiro de 2023, o empregador pode optar por efetuar a publicidade dos horários de trabalho por recurso a qualquer uma das modalidades previstas no n.º 1 do artigo 3.º e nas alíneas a), c) e d) do artigo 4.º ou pela utilização do livrete individual de controlo previsto na Portaria n.º 983/2007, de 27 de agosto, sendo dispensada a autenticação.\n\n2 - Para efeitos do número anterior, e sem prejuízo do artigo seguinte, a Portaria n.º 983/2007, de 27 de agosto, com exceção do n.º 2 do seu artigo 2.º e do artigo 4.º, mantém-se em vigor, com as necessárias adaptações, até àquela data.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+  },
+  "200361485": {
+   "fragment_id": "177088845",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2022-08-31",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia 1 de janeiro de 2022.\n\n2 - Sem prejuízo do número anterior, a alínea b) do n.º 1 do artigo 4.º, o n.º 3 do artigo 5.º e o n.º 2 do artigo 6.º produzem efeitos a partir de 1 de março de 2023.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+  },
+  "178364440": {
+   "fragment_id": "177088846",
+   "type": 14,
+   "heading": "Anexo — Requisitos do sistema informático para publicidade dos horários de trabalho",
+   "in_force_from": "2022-01-01",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "## Anexo — Requisitos do sistema informático para publicidade dos horários de trabalho\n\n[a que se refere a alínea b) do n.º 1 do artigo 4.º]\n\nCaraterísticas gerais\n\nO sistema informático sobre a publicidade dos horários de trabalho tem por função registar, memorizar, exibir, imprimir e transmitir (ou dar saída a) os dados relativos às atividades do condutor ou do demais pessoal afeto a essa atividade.\n\nEste sistema deve assegurar as seguintes funções:\n\nMedição do tempo;\n\nControlo das atividades do condutor;\n\nControlo da situação de condução e entradas efetuadas manualmente pelo condutor: (i) introdução do lugar de início e/ou final do período diário de trabalho (ii) introdução manual das atividades do condutor ou do demais pessoal afeto (iii) introdução de condições especiais;\n\nGestão das relações com a empresa e/ou dador de trabalho;\n\nVigilância das atividades de controlo;\n\nDeteção de incidentes e/ou falhas;\n\nRegisto e memorização de dados na memória;\n\nLeitura de dados memorizados na memória;\n\nVisualização de dados;\n\nDisponibilização para impressão de dados;\n\nAvisos ou alertas;\n\nDescarregamento de dados para meios externos;\n\nTransmissão (saída) de dados para dispositivos externos adicionais.\n\nIdentificações\n\nO sistema de informação deve conter ou registar as seguintes identificações e informações:\n\nDo produtor do sistema informático, da entidade que o certificou, endereços, data de certificação e colocação no mercado;\n\nDo empregador ou do dador de trabalho: nome completo, domicílio ou sede, número de telefone, endereço eletrónico, estabelecimento a que o trabalhador utilizador do sistema informático está afeto;\n\nDo trabalhador utilizador: nome completo, data de nascimento, categoria profissional, data do início da prestação do trabalho; domicílio, endereço eletrónico se o houver;\n\nO número de matrícula do(s) veículo(s) utilizado(s) durante o dia.\n\nSegurança\n\nO sistema informático inclui disposições de segurança que visam proteger a memória contra acesso e manipulação não autorizados dos dados, bem como detetar tentativas nesse sentido, proteger a integridade e a autenticidade dos dados intercambiados com o sensor de movimentos e verificar a integridade e a autenticidade dos dados registados e descarregados. O descarregamento não deve alterar ou apagar dados memorizados.\n\nOs dados registados devem manter a sua integridade por um período de cinco anos.\n\nO sistema disponibiliza informação sobre as caraterísticas do seu desempenho e condições de uso.\n\nInstruções\n\nO sistema deve incluir instruções para a sua utilização, para publicitação dos diferentes grupos de tempos referenciados pela legislação aplicável por parte do motorista na sua atividade de condução de veículos automóveis ou do demais pessoal afeto, bem como por parte do empregador e/ou dador de trabalho.\n\nDevem ser previstas disposições e instruções para o preenchimento de casos de incidentes e/ou falhas e de ausências ao trabalho e respetivo motivo, designadamente férias e faltas.\n\nO sistema deve prevenir o condutor quando detetar algum incidente e/ou alguma falha ou omissão na introdução de dados.\n\nOs sinais de aviso ou alerta devem ser visuais. Complementarmente, podem ser também emitidos sinais sonoros.\n\nA causa do alerta deve ser visualizada no aparelho de controlo e manter-se visível até o utilizador acusar a sua emissão premindo uma tecla ou comando específico.\n\nConceitos\n\nOs conceitos de referência para o sistema informático, designadamente o local de trabalho, a semana, os tempos de condução, de trabalho, de repouso e de disponibilidade, são os referidos na presente portaria e demais legislação por ela regulamentada.\n\nRegisto de tempos e outros registos\n\nO sistema informático deve ser construído de tal forma que o tempo de condução seja sempre registado automaticamente.\n\nO registo separado dos outros períodos de tempo, bem como o registo do início e fim do dia de trabalho é feito mediante ativação do condutor.\n\nO número de matrícula do(s) veículo(s) utilizado(s) durante o dia, bem como a quilometragem constante do conta-quilómetros, no início e no fim do dia de trabalho, são também alvo de registo.\n\nO registo diário deve ser preenchido pelo trabalhador em relação a todos os dias em que trabalhou como pessoal viajante.\n\nDeve ser previsto um campo para registo de observações, designadamente incidentes e/ou falhas, ausências ao trabalho e respetivo motivo (férias, faltas ou outras) e, sendo caso disso, o nome do segundo condutor. Este espaço pode também ser utilizado para justificar o eventual incumprimento de alguma prescrição ou retificar indicação que figure noutro espaço.\n\nAs anotações a inserir pelo condutor ou do pessoal viajante devem ser feitas no fim de cada período diário a que respeitem, com exceção do registo do número de matrícula da viatura e do início do dia de trabalho.\n\nO descanso entre dias de trabalho e/ou entre semanas de trabalho é registado automaticamente após as anotações anteriormente referidas.\n\nSímbolos\n\nOs símbolos a utilizar devem permitir distinguir claramente a natureza dos diferentes grupos de tempo e têm os seguintes significados:\n\n(ver documento original)\n\nA natureza dos diferentes grupos de tempo é representada em diagrama diário que permita a sua legibilidade e facilidade de interpretação.\n\nAs características das diversas representações do diagrama, as suas posições relativas e os símbolos referidos devem permitir distinguir claramente a natureza dos diferentes grupos de tempo.\n\nRelatórios\n\nO sistema informático disponibiliza relatórios diários com a discriminação dos diferentes grupos de tempos e o número de matrícula do(s) veículo(s) utilizado(s) durante o dia e a quilometragem percorrida.\n\nSemanalmente o sistema deve concluir relatórios semanais com a discriminação desagregada dos diferentes grupos de tempo empregues durante a semana, a matrícula do(s) veículo(s) utilizado(s) e a quilometragem percorrida e remetê-los, automaticamente, para o empregador e ou dador de trabalho.\n\nO relatório semanal é emitido no fim de qualquer semana em que tenha havido pelo menos um registo diário.\n\nAcessibilidade\n\nOs dados diários registados e os respetivos relatórios devem estar permanentemente acessíveis para o empregador ou dador de trabalho e para as autoridades de fiscalização.\n\nO sistema deve permitir a descarga de dados para dispositivos externos do empregador ou do dador de trabalho.\n\nAs entidades de fiscalização devem poder aceder de forma imediata aos registos de tempos de trabalho efetuados pelo trabalhador, bem como a todos os demais elementos registados.\n\nA descarga e recolha de dados e respetivos ficheiros para as autoridades de fiscalização pode ser providenciada para endereço eletrónico indicado pelo agente de controlo.\n\nAntes de iniciar o descarregamento de dados, o sistema atualiza os dados memorizados.\n\nAs solicitações ou observações das autoridades de fiscalização, conteúdo, data, hora e local, podem ser registadas no sistema.\n\n114863463\n\n> Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01"
+  },
+  "208126992": {
+   "fragment_id": "177088837",
+   "type": 11,
+   "heading": "Artigo 4.º — Horários de trabalho móveis",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01, produz efeitos a partir de 2022-09-01"
+   ],
+   "markdown": "###### Artigo 4.º — Horários de trabalho móveis\n\n1 - A publicidade dos horários de trabalho, tempos de condução, intervalos de descanso e descansos diários e semanais dos trabalhadores que estejam sujeitos a horários de trabalho móveis é feita através de uma das seguintes formas:\n\na) Aparelho de controlo, também designado por tacógrafo, e o respetivo registo tacográfico;\n\nb) Sistema ou aplicação informáticos, com os requisitos enunciados no anexo à presente portaria;\n\nc) Acordo de isenção de horário de trabalho, no caso de trabalhadores em regime de isenção de horário de trabalho, celebrado nos termos previstos no Código do Trabalho, com um exemplar a manter disponível no veículo;\n\nd) Nos termos previstos no AETR, no caso de operações de transporte realizadas em território nacional ao abrigo do referido Acordo.\n\n2 - Os suportes referidos nas alíneas a) e b) do número anterior devem reunir características de integralidade, autenticidade e inviolabilidade.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01, produz efeitos a partir de 2022-09-01"
+  },
+  "208126993": {
+   "fragment_id": "177088840",
+   "type": 11,
+   "heading": "Artigo 7.º — Registo de tempos de trabalho",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01"
+   ],
+   "markdown": "###### Artigo 7.º — Registo de tempos de trabalho\n\n1 - O empregador recolhe e procede ao tratamento dos dados constantes dos suportes de publicitação dos horários de trabalho referidos nos artigos 3.º e 4.º e elabora o registo dos tempos de trabalho prestado pelos seus trabalhadores, incluindo os que estão isentos de horário de trabalho.\n\n2 - O registo dos tempos de trabalho deve conter:\n\na) As horas de início e de termo do tempo de trabalho, os tempos de condução, os intervalos de descanso e os descansos diários e semanais;\n\nb) Os tempos de disponibilidade em que o trabalhador não está obrigado a permanecer no local de trabalho e se mantém adstrito à realização da atividade em caso de necessidade;\n\nc) Os tempos de disponibilidade em que o trabalhador, conduzindo em equipa, passa ao lado do condutor ou num beliche durante a marcha do veículo;\n\nd) Os períodos de trabalho prestado pelos seus trabalhadores a qualquer outro empregador ou como condutores independentes.\n\n3 - Sempre que a condução automóvel seja acessória da atividade principal do trabalhador ou não constitua a maioria do tempo de afetação, é dispensada a diferenciação do seu registo no âmbito do registo do tempo de trabalho prestado.\n\n4 - O registo dos tempos de trabalho prestado pode ser feito em suporte informático e deve reunir caraterísticas de integralidade, autenticidade e inviolabilidade e ser visado pelos trabalhadores com uma periodicidade quinzenal.\n\n5 - O empregador deve entregar ao trabalhador, a pedido deste, cópia dos registos referidos nos números anteriores no prazo de oito dias úteis.\n\n6 - Ficam excecionados da obrigação de efetuar os registos previstos no n.º 1 do presente artigo, os empregadores que publicitem os horários de trabalho, nas formas previstas, nas alíneas a) e b) do n.º 1 do artigo 4.º da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01"
+  },
+  "208126994": {
+   "fragment_id": "177088843",
+   "type": 11,
+   "heading": "Artigo 10.º — Norma transitória",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+   ],
+   "markdown": "###### Artigo 10.º — Norma transitória\n\n1 - Até 90 dias após entrada em vigor da presente portaria, o empregador pode optar por efetuar a publicidade dos horários de trabalho por recurso a qualquer uma das modalidades previstas no n.º 1 do artigo 3.º e nas alíneas a), c) e d) do artigo 4.º ou pela utilização do livrete individual de controlo previsto na Portaria n.º 983/2007, de 27 de agosto, sendo dispensada a autenticação.\n\n2 - Para efeitos do número anterior, e sem prejuízo do artigo seguinte, a Portaria n.º 983/2007, de 27 de agosto, com exceção do n.º 2 do seu artigo 2.º e do artigo 4.º, mantém-se em vigor, com as necessárias adaptações, até àquela data.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+  },
+  "208126995": {
+   "fragment_id": "177088845",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor e produção de efeitos",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+   ],
+   "markdown": "###### Artigo 12.º — Entrada em vigor e produção de efeitos\n\n1 - A presente portaria entra em vigor no dia 1 de janeiro de 2022.\n\n2 - Sem prejuízo do número anterior, a alínea b) do n.º 1 do artigo 4.º, o n.º 3 do artigo 5.º, o n.º 2 do artigo 6.º e o n.º 6 do artigo 7.º produzem efeitos 90 dias após a entrada em vigor da presente portaria.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 216/2022 - Diário da República n.º 167/2022, Série I de 2022-08-30](https://diariodarepublica.pt/dr/detalhe/portaria/216-2022-200360559), em vigor a partir de 2022-08-31"
+  },
+  "208126996": {
+   "fragment_id": "208124522",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Em 30 de dezembro de 2021.\n\nO Secretário de Estado Adjunto, do Trabalho e da Formação Profissional, Miguel Filipe Pardal Cabrita. - O Secretário de Estado da Mobilidade, Eduardo Nuno Rodrigues e Pinheiro. - O Secretário de Estado das Infraestruturas, Jorge Moreno Delgado."
+  },
+  "216713259": {
+   "fragment_id": "177088846",
+   "type": 14,
+   "heading": "Anexo — Requisitos do sistema informático para publicidade dos horários de trabalho",
+   "in_force_from": "2023-03-01",
+   "changed_by": [
+    "Alterado pelo/a Anexo do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01",
+    "Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01"
+   ],
+   "markdown": "## Anexo — Requisitos do sistema informático para publicidade dos horários de trabalho\n\n[a que se refere a alínea b) do n.º 1 do artigo 4.º]\n\nCaraterísticas gerais\n\nO sistema informático sobre a publicidade dos horários de trabalho tem por função registar, memorizar, exibir, imprimir e transmitir (ou dar saída a) os dados relativos às atividades do condutor ou do demais pessoal afeto a essa atividade.\n\nEste sistema deve assegurar as seguintes funções:\n\nMedição do tempo;\n\nControlo das atividades do condutor:\n\ni) Lugar de início e/ou final do período diário de trabalho;\n\nii) Atividades do condutor ou do demais pessoal afeto:\n\nO sistema de informação deve conter ou registar as seguintes identificações e informações:\n\ni) Do produtor do sistema ou aplicação informáticos;\n\nii) Do empregador ou do dador de trabalho: nome completo, domicílio ou sede, número de telefone, endereço eletrónico, estabelecimento a que o trabalhador utilizador do sistema informático está afeto;\n\niii) Do trabalhador utilizador: nome completo, data de nascimento, categoria profissional, data do início da prestação do trabalho; domicílio, endereço eletrónico se o houver;\n\niv) O número de matrícula do(s) veículo(s) utilizado(s) durante o dia.\n\nOs dados registados devem manter a sua integridade por um período de cinco anos.\n\nAcessibilidade\n\nOs dados diários registados e os respetivos relatórios devem estar permanentemente acessíveis para o empregador ou dador de trabalho e para as autoridades de fiscalização. O sistema deve permitir a descarga de dados para dispositivos externos do empregador ou do dador de trabalho.\n\nAs entidades de fiscalização devem poder aceder de forma imediata aos registos de tempos de trabalho efetuados pelo trabalhador, bem como a todos os demais elementos registados. A descarga e recolha de dados e respetivos ficheiros para as autoridades de fiscalização pode ser providenciada para endereço eletrónico indicado pelo agente de controlo.\n\n116215993\n\n> Alterado pelo/a Anexo do/a [Portaria n.º 54-R/2023 - Diário da República n.º 42/2023, 1º Suplemento, Série I de 2023-02-28](https://diariodarepublica.pt/dr/detalhe/portaria/54-r-2023-207987300), em vigor a partir de 2023-03-01\n\n> Retificado pelo/a [Declaração de Retificação n.º 4/2022 - Diário da República n.º 20/2022, Série I de 2022-01-28](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/4-2022-178264071), em vigor a partir de 2022-01-01"
+  }
+ }
+}

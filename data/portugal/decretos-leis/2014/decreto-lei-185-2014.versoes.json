@@ -1,0 +1,550 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:65983262:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2014-178122546",
+ "dre_path": "/dr/detalhe/decreto-lei/185-2014-65983262",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2014-12-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "178122637",
+    "178122638",
+    "178122639",
+    "178122640",
+    "178122641",
+    "178122642",
+    "178122643",
+    "178122644",
+    "178122645",
+    "178122646",
+    "178122647",
+    "178122648",
+    "178122649",
+    "178122650",
+    "178122651",
+    "178122652",
+    "178122653",
+    "178122654",
+    "178122655",
+    "178122656",
+    "178122657",
+    "178122658",
+    "178122659",
+    "178122660",
+    "178122661",
+    "178122662",
+    "178122663",
+    "178122664",
+    "178122665",
+    "178122666",
+    "178122667",
+    "178122668",
+    "178122669",
+    "178122670",
+    "178122671",
+    "178122672",
+    "178122673",
+    "178122674",
+    "178122775",
+    "178122776",
+    "178122777",
+    "178122778",
+    "178122779",
+    "178122780",
+    "178122781",
+    "178122782",
+    "178122783",
+    "178122784",
+    "178122785",
+    "178122786",
+    "178122787",
+    "178122788",
+    "178122789",
+    "178122790",
+    "178122791",
+    "178122792",
+    "178122793",
+    "178122794",
+    "178122796"
+   ]
+  }
+ ],
+ "fragments": {
+  "178122637": {
+   "fragment_id": "178122547",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 185/2014\n\nde 29 de dezembro\n\nO Programa do XIX Governo Constitucional estabeleceu um conjunto de opções e medidas estruturantes para a defesa nacional que determinou a necessidade de rever o Conceito Estratégico de Defesa Nacional aprovado pela Resolução do Conselho de Ministros n.º 6/2003, de 20 de janeiro, bem como a organização da estrutura superior da defesa nacional e das Forças Armadas.\n\nO novo Conceito Estratégico de Defesa Nacional, aprovado pela Resolução do Conselho de Ministros n.º 19/2013, de 5 de abril, estabeleceu como linhas de ação prioritárias, no âmbito do vetor estratégico relativo ao exercício da soberania nacional, a neutralização de ameaças e riscos à segurança nacional, a adaptação e racionalização de estruturas e a rentabilização de meios e capacidades, reconhecendo que as exigências das respostas ao atual quadro de ameaças e riscos tornam indispensável que se tenha em conta a necessária capacidade de crescimento do sistema de forças, quando necessário, por convocação ou mobilização.\n\nTendo por referência essas linhas de ação, foi concebido o modelo da Reforma «Defesa 2020», aprovada pela Resolução do Conselho de Ministros n.º 26/2013, de 11 de abril, contendo as orientações para o ciclo de planeamento estratégico de defesa e para a reorganização da macroestrutura da defesa nacional e das Forças Armadas, que consubstanciam uma maior integração de estruturas de comando e direção e de órgãos e serviços administrativos e logísticos, como reflexo de uma orientação que privilegie a atuação conjunta.\n\nO novo enquadramento normativo da estrutura superior das Forças Armadas, constante da Lei da Defesa Nacional, aprovada pela Lei Orgânica n.º 1-B/2009, de 7 de julho, alterada pela Lei Orgânica n.º 5/2014, de 29 de agosto, e da Lei Orgânica de Bases da Organização das Forças Armadas, aprovada pela Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada pela Lei Orgânica n.º 6/2014, de 1 de setembro, estabelece a nova estrutura da defesa nacional e das Forças Armadas e define a aplicação de novos processos e métodos, bem como de novos conceitos de emprego e funcionamento das Forças Armadas.\n\nÉ neste contexto, de reforma dos diplomas estruturantes da defesa nacional e das Forças Armadas, que importa efetivar a presente reorganização da estrutura orgânica da Marinha, designadamente com os objetivos e orientações definidas para a execução da reorganização da estrutura superior da defesa nacional e das Forças Armadas.\n\nAssim, o presente decreto-lei, dando corpo a estas orientações, incorpora importantes alterações relativamente aos órgãos regulados por legislação própria, clarificando o enquadramento da Autoridade Marítima Nacional, consagrando a responsabilidade do ramo, no âmbito das suas atribuições, quanto à disponibilização de recursos humanos e materiais necessários ao desempenho das competências daqueles órgãos.\n\nNo âmbito da reforma, importa assim refletir na orgânica da Marinha o modelo de desenvolvimento baseado numa lógica funcional de integração e complementaridade de capacidades necessárias ao cumprimento das suas missões. Para tal, a Marinha edifica e mantém um conjunto de capacidades destinadas ao desenvolvimento das atividades de natureza militar que podem, e devem, ser empregues no desenvolvimento das atividades não-militares, garantindo, no estrito cumprimento da lei, uma utilização eficaz dos meios com base no princípio da racionalidade económica, com benefício para o País.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido pela Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada pela Lei Orgânica n.º 6/2014, de 1 de setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "178122638": {
+   "fragment_id": "178122548",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "178122639": {
+   "fragment_id": "178122549",
+   "type": 11,
+   "heading": "Artigo 1.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Natureza\n\nA Marinha é um ramo das Forças Armadas, dotado de autonomia administrativa, que se integra na administração direta do Estado, através do Ministério da Defesa Nacional."
+  },
+  "178122640": {
+   "fragment_id": "178122550",
+   "type": 11,
+   "heading": "Artigo 2.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Missão\n\n1 - A Marinha tem por missão principal participar, de forma integrada, na defesa militar da República, nos termos da Constituição e da lei, sendo fundamentalmente vocacionada para a geração, preparação e sustentação de forças e meios da componente operacional do sistema de forças.\n\n2 - Incumbe ainda à Marinha, nos termos da Constituição e da lei:\n\na) Participar nas missões militares internacionais necessárias para assegurar os compromissos internacionais do Estado no âmbito militar, incluindo missões humanitárias e de paz assumidas pelas organizações internacionais de que Portugal faça parte;\n\nb) Participar nas missões no exterior do território nacional, num quadro autónomo ou multinacional, destinadas a garantir a salvaguarda da vida e dos interesses dos portugueses;\n\nc) Executar as ações de cooperação técnico-militar nos projetos em que seja constituída como entidade primariamente responsável, conforme os respetivos programas quadro;\n\nd) Participar na cooperação das Forças Armadas com as forças e serviços de segurança, nos termos previstos no artigo 26.º da Lei Orgânica n.º 1-A/2009, de 7 de julho, alterada pela Lei Orgânica n.º 6/2014, de 1 de setembro;\n\ne) Colaborar em missões de proteção civil e em tarefas relacionadas com a satisfação das necessidades básicas e a melhoria da qualidade de vida das populações;\n\nf) Cumprir as missões de natureza operacional que lhe sejam atribuídas pelo Chefe do Estado-Maior-General das Forças Armadas (CEMGFA).\n\ng) Disponibilizar recursos humanos e materiais necessários ao desempenho das competências de órgãos e serviços da Autoridade Marítima Nacional (AMN).\n\n3 - Compete ainda à Marinha assegurar o cumprimento das missões reguladas por legislação própria, designadamente:\n\na) Exercer a autoridade do Estado nas zonas marítimas sob soberania ou jurisdição nacional e no alto mar, garantindo o cumprimento da lei no âmbito das respetivas competências;\n\nb) Assegurar o funcionamento do Serviço de Busca e Salvamento Marítimo (SBSM);\n\nc) Realizar operações e atividades no domínio das ciências e técnicas do mar.\n\n4 - A Marinha executa atividades no domínio da cultura."
+  },
+  "178122641": {
+   "fragment_id": "178122551",
+   "type": 11,
+   "heading": "Artigo 3.º — Integração no sistema de forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Integração no sistema de forças\n\n1 - A Marinha é parte integrante do sistema de forças.\n\n2 - Nas componentes do sistema de forças inserem-se:\n\na) Na componente operacional, os comandos, as forças, os meios e as unidades operacionais;\n\nb) Na componente fixa, o conjunto dos comandos, unidades, estabelecimentos, órgãos e serviços essenciais à organização e apoio geral da Marinha."
+  },
+  "178122642": {
+   "fragment_id": "178122552",
+   "type": 11,
+   "heading": "Artigo 4.º — Princípios gerais da organização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Princípios gerais da organização\n\n1 - A organização da Marinha rege-se pelos princípios de eficácia e racionalização, garantindo:\n\na) A otimização da relação entre a componente operacional e a componente fixa do sistema de forças;\n\nb) A complementaridade com o Estado-Maior-General das Forças Armadas (EMGFA) e com os outros ramos;\n\nc) A correta utilização do potencial humano, militar, militarizado ou civil, promovendo o pleno e adequado aproveitamento dos quadros permanentes e assegurando uma correta proporção e articulação entre as diversas formas de prestação de serviço efetivo.\n\n2 - No respeito pela sua missão principal, a organização da Marinha permite que a transição para o estado de guerra se processe com o mínimo de alterações possível.\n\n3 - A Marinha organiza-se numa estrutura vertical e hierarquizada e os respetivos órgãos relacionam-se através dos seguintes níveis de autoridade:\n\na) Hierárquica;\n\nb) Funcional;\n\nc) Técnica;\n\nd) De coordenação.\n\n4 - Para efeitos do disposto no número anterior:\n\na) A autoridade hierárquica é a linha de comando que estabelece a dependência de um órgão ou serviço na estrutura da Marinha em relação aos órgãos militares de comando;\n\nb) A autoridade funcional é o tipo de autoridade conferida a um órgão para superintender processos, no âmbito das respetivas áreas ou atividades específicas, sem que tal inclua competência disciplinar;\n\nc) A autoridade técnica é o tipo de autoridade que permite a um titular fixar e difundir normas de natureza especializada, sem que tal inclua competência disciplinar;\n\nd) A autoridade de coordenação é o tipo de autoridade conferida aos órgãos subordinados, a qualquer nível, para consultar ou coordenar diretamente uma ação com um comando ou entidades, dentro ou fora da respetiva linha de comando, sem que tal inclua competência disciplinar."
+  },
+  "178122643": {
+   "fragment_id": "178122553",
+   "type": 11,
+   "heading": "Artigo 5.º — Administração financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Administração financeira\n\n1 - A administração financeira da Marinha rege-se pelos instrumentos legais e regulamentares aplicáveis aos serviços da administração direta do Estado, dotados de autonomia administrativa.\n\n2 - A Marinha, através dos seus órgãos, dispõe das receitas provenientes de dotações que lhe sejam atribuídas no Orçamento do Estado.\n\n3 - Constituem ainda receitas próprias da Marinha:\n\na) As provenientes de prestações de serviços ou cedência de bens a entidades públicas ou privadas, sem prejuízo dos regimes de afetação de receita legalmente previstos;\n\nb) Os saldos anuais das receitas consignadas, nos termos do decreto-lei de execução orçamental;\n\nc) As indemnizações devidas, nos termos da lei;\n\nd) As receitas provenientes da participação em projetos de investigação e desenvolvimento nacionais ou internacionais;\n\ne) Outras receitas que lhe estejam ou venham a estar atribuídas por lei, contrato ou outro título.\n\n4 - Constituem despesas da Marinha as que resultem de encargos suportados pelos seus órgãos, decorrentes da prossecução das atribuições que lhe estão cometidas.\n\n5 - Compete ao Chefe do Estado-Maior da Armada (CEMA) a administração financeira e patrimonial da Marinha, que compreende os processos de decisão e todas as ações de planeamento, obtenção, organização, afetação e controlo da aplicação dos recursos financeiros públicos e outros ativos do Estado, afetos à execução das missões da Marinha.\n\n6 - Ao CEMA compete ainda autorizar despesas e celebrar contratos em nome do Estado, com a aquisição de bens ou serviços e empreitadas de obras públicas, de acordo com as competências que são conferidas por lei aos órgãos máximos dos serviços com autonomia administrativa."
+  },
+  "178122644": {
+   "fragment_id": "178122554",
+   "type": 1,
+   "heading": "Capítulo II — Organização geral da Marinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Organização geral da Marinha\n\nArtigo 6.º\n\nEstrutura orgânica\n\nA Marinha é comandada pelo CEMA e, para o cumprimento da respetiva missão, compreende:\n\na) O Estado-Maior da Armada (EMA);\n\nb) Os órgãos centrais de administração e direção;\n\nc) O comando de componente naval, designado por Comando Naval (CN);\n\nd) Os órgãos de conselho;\n\ne) O órgão de inspeção, designado por Inspeção-Geral da Marinha (IGM);\n\nf) Os órgãos de base;\n\ng) Os elementos da componente operacional do sistema de forças;\n\nh) Os órgãos e serviços regulados por legislação própria.\n\nArtigo 7.º\n\nCargos de comando, direção ou chefia\n\nO quantitativo dos cargos de comando, direção ou chefia desempenhados por oficiais generais no ativo, na estrutura da Marinha, constam do mapa anexo ao presente decreto-lei, do qual faz parte integrante."
+  },
+  "178122645": {
+   "fragment_id": "178122555",
+   "type": 8,
+   "heading": "Secção I — Chefe do Estado-Maior da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção I — Chefe do Estado-Maior da Armada"
+  },
+  "178122646": {
+   "fragment_id": "178122556",
+   "type": 11,
+   "heading": "Artigo 8.º — Competência do Chefe do Estado-Maior da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Competência do Chefe do Estado-Maior da Armada\n\n1 - O CEMA é o comandante da Marinha.\n\n2 - O CEMA é o principal conselheiro do Ministro da Defesa Nacional e do CEMGFA em todos os assuntos específicos da Marinha, tem a competência fixada na lei e participa, por inerência do cargo, nos órgãos de conselho nela previstos.\n\n3 - No quadro das missões cometidas às Forças Armadas, em situações não decorrentes do estado de guerra, o CEMA integra a estrutura de comando operacional das Forças Armadas, como comandante subordinado do CEMGFA, para as questões que envolvam a prontidão, o emprego e a sustentação das forças e meios da componente operacional do sistema de forças.\n\n4 - O CEMA é ainda responsável pelo cumprimento das missões reguladas por legislação própria e das missões de natureza operacional que sejam atribuídas pelo CEMGFA.\n\n5 - O CEMA relaciona-se diretamente com o CEMGFA, para além do referido no n.º 3, nos aspetos respeitantes às informações e segurança militares, ensino superior militar, saúde militar e outras áreas de atividade conjunta ou integrada.\n\n6 - O CEMA relaciona-se diretamente com o Ministro da Defesa Nacional, nos aspetos respeitantes à gestão corrente de recursos do respetivo ramo, bem como ao funcionamento dos órgãos, serviços ou sistemas regulados por legislação própria.\n\n7 - O CEMA pode delegar nos titulares de órgãos que lhe estão diretamente subordinados a competência para a prática de atos relativos às áreas que lhes são funcionalmente atribuídas, bem como autorizar a subdelegação da mesma.\n\n8 - Dos atos do CEMA não cabe recurso hierárquico.\n\n9 - Compete ao CEMA definir a organização interna das unidades, estabelecimentos e órgãos da Marinha.\n\n10 - O CEMA define as orientações relativas à disponibilização de recursos humanos e materiais aos órgãos e serviços da AMN.\n\n11 - O CEMA é, por inerência, a AMN e, nesta qualidade funcional, depende do Ministro da Defesa Nacional.\n\n12 - O CEMA, enquanto AMN, submete à aprovação do Ministro da Defesa Nacional as propostas de acumulação dos cargos de Comandante Naval/Comandante das Operações Marítimas e de Comandante de Zona Marítima/Chefe de Departamento Marítimo, no âmbito da AMN."
+  },
+  "178122647": {
+   "fragment_id": "178122557",
+   "type": 11,
+   "heading": "Artigo 9.º — Gabinete do Chefe do Estado-Maior da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Gabinete do Chefe do Estado-Maior da Armada\n\n1 - O Gabinete do CEMA é o órgão de apoio direto e pessoal ao CEMA e à AMN.\n\n2 - O chefe do Gabinete do CEMA é um contra-almirante, na dependência direta do CEMA."
+  },
+  "178122648": {
+   "fragment_id": "178122558",
+   "type": 11,
+   "heading": "Artigo 10.º — Vice-Chefe do Estado-Maior da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Vice-Chefe do Estado-Maior da Armada\n\n1 - O Vice-Chefe do Estado-Maior da Armada (VCEMA) é o 2.º comandante da Marinha.\n\n2 - O VCEMA é um vice-almirante, hierarquicamente superior a todos os oficiais do seu posto, na Marinha.\n\n3 - Compete ao VCEMA:\n\na) Exercer as competências que lhe sejam delegadas pelo CEMA e outras decorrentes do disposto no presente decreto-lei;\n\nb) Substituir o CEMA nas suas ausências ou impedimentos e exercer as funções de CEMA interino, e por inerência de AMN, por vacatura do cargo."
+  },
+  "178122649": {
+   "fragment_id": "178122559",
+   "type": 8,
+   "heading": "Secção II — Estado-Maior da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção II — Estado-Maior da Armada"
+  },
+  "178122650": {
+   "fragment_id": "178122560",
+   "type": 11,
+   "heading": "Artigo 11.º — Caraterização e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Caraterização e composição\n\n1 - O EMA constitui o órgão de estudo, conceção e planeamento das atividades da Marinha, para apoio à decisão do CEMA.\n\n2 - O EMA é dirigido pelo VCEMA, coadjuvado pelo Subchefe do Estado-Maior da Armada (SCEMA), que é um contra-almirante.\n\n3 - O EMA compreende:\n\na) O SCEMA;\n\nb) As divisões;\n\nc) O Gabinete de Coordenação Interna;\n\nd) A estrutura de apoio."
+  },
+  "178122651": {
+   "fragment_id": "178122561",
+   "type": 8,
+   "heading": "Secção III — Órgãos centrais de administração e direção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção III — Órgãos centrais de administração e direção"
+  },
+  "178122652": {
+   "fragment_id": "178122562",
+   "type": 11,
+   "heading": "Artigo 12.º — Caraterização e composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Caraterização e composição\n\n1 - Os órgãos centrais de administração e direção têm caráter funcional e visam assegurar a direção e execução de áreas ou atividades específicas essenciais, designadamente, na gestão de recursos humanos, materiais, financeiros, de informação e de infraestruturas.\n\n2 - São órgãos centrais de administração e direção da Marinha:\n\na) A Superintendência do Pessoal (SP);\n\nb) A Superintendência do Material (SM);\n\nc) A Superintendência das Finanças (SF);\n\nd) A Superintendência das Tecnologias da Informação (STI)."
+  },
+  "178122653": {
+   "fragment_id": "178122563",
+   "type": 11,
+   "heading": "Artigo 13.º — Superintendência do Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Superintendência do Pessoal\n\n1 - A SP tem por missão assegurar as atividades da Marinha no domínio da administração dos recursos humanos, da formação e da saúde, sem prejuízo da competência específica de outras entidades.\n\n2 - O Superintendente do Pessoal é um vice-almirante, na direta dependência do CEMA.\n\n3 - O Superintendente do Pessoal dispõe de autoridade funcional e técnica sobre todos os órgãos da Marinha no domínio da administração dos recursos humanos.\n\n4 - A SP compreende:\n\na) O Superintendente;\n\nb) A Direção de Formação;\n\nc) A Direção de Pessoal;\n\nd) A Direção de Saúde;\n\ne) A Chefia de Assistência Religiosa;\n\nf) A Direção de Apoio Social;\n\ng) A Direção Jurídica.\n\n5 - Na SP funcionam os conselhos de classes e a Junta de Saúde Naval, regulados por legislação própria.\n\n6 - Os diretores dos órgãos referidos nas alíneas b) a d) do n.º 4 são comodoros."
+  },
+  "178122654": {
+   "fragment_id": "178122564",
+   "type": 11,
+   "heading": "Artigo 14.º — Superintendência do Material",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Superintendência do Material\n\n1 - A SM tem por missão assegurar as atividades da Marinha no domínio da administração dos recursos do material, sem prejuízo da competência específica de outras entidades.\n\n2 - O Superintendente do Material é um vice-almirante, na direta dependência do CEMA.\n\n3 - O Superintendente do Material dispõe de autoridade funcional e técnica sobre todos os órgãos da Marinha no domínio dos recursos do material.\n\n4 - A SM compreende:\n\na) O Superintendente;\n\nb) A Direção de Abastecimento;\n\nc) A Direção de Infraestruturas;\n\nd) A Direção de Navios;\n\ne) A Direção de Transportes.\n\n5 - O Diretor de Navios é um contra-almirante e os diretores dos órgãos referidos nas alíneas b) e c) do n.º 4 são comodoros."
+  },
+  "178122655": {
+   "fragment_id": "178122565",
+   "type": 11,
+   "heading": "Artigo 15.º — Superintendência das Finanças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Superintendência das Finanças\n\n1 - A SF tem por missão assegurar as atividades da Marinha no domínio da administração dos recursos financeiros, sem prejuízo da competência específica de outras entidades.\n\n2 - O Superintendente das Finanças é um contra-almirante, na direta dependência do CEMA.\n\n3 - O Superintendente das Finanças dispõe de autoridade funcional e técnica sobre todos os órgãos da Marinha no domínio dos recursos financeiros.\n\n4 - A SF compreende:\n\na) O Superintendente;\n\nb) A Direção de Administração Financeira;\n\nc) A Direção de Contabilidade e Operações Financeiras;\n\nd) A Direção de Auditoria e Controlo Financeiro."
+  },
+  "178122656": {
+   "fragment_id": "178122566",
+   "type": 11,
+   "heading": "Artigo 16.º — Superintendência das Tecnologias da Informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Superintendência das Tecnologias da Informação\n\n1 - A STI tem por missão assegurar as atividades da Marinha no domínio da administração dos recursos informacionais, sem prejuízo da competência específica de outras entidades.\n\n2 - O Superintendente das Tecnologias da Informação é um comodoro, na direta dependência do CEMA.\n\n3 - O Superintendente das Tecnologias da Informação dispõe de autoridade funcional e técnica sobre todos os órgãos da Marinha no domínio dos recursos informacionais, compreendendo a análise, gestão e arquivo da informação, e os sistemas, infraestruturas de suporte e tecnologias da informação e de comunicações, sem prejuízo da autoridade funcional do Superintendente do Material no âmbito das unidades navais.\n\n4 - A STI compreende:\n\na) O Superintendente;\n\nb) O Centro de Documentação, Informação e Arquivo Central da Marinha;\n\nc) A Direção de Análise e Gestão da Informação;\n\nd) A Direção de Tecnologias de Informação e Comunicações (DITIC)."
+  },
+  "178122657": {
+   "fragment_id": "178122567",
+   "type": 8,
+   "heading": "Secção IV — Comando de componente naval",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IV — Comando de componente naval"
+  },
+  "178122658": {
+   "fragment_id": "178122568",
+   "type": 11,
+   "heading": "Artigo 17.º — Comando Naval",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Comando Naval\n\n1 - O CN tem por missão apoiar o exercício do comando por parte do CEMA, tendo em vista:\n\na) A preparação, o aprontamento e a sustentação das forças e meios da componente operacional do sistema de forças;\n\nb) O cumprimento das missões reguladas por legislação própria e de outras missões que sejam atribuídas à Marinha, mantendo o CEMGFA permanentemente informado das forças e meios empenhados e do desenvolvimento e resultados das respetivas operações;\n\nc) A análise, a experimentação, o desenvolvimento e a atualização das instruções, padrões e procedimentos táticos e operativos;\n\nd) O exercício das funções de autoridade de controlo operacional de submarinos e de coordenador das áreas nacionais de exercício de submarinos.\n\n2 - O Comandante Naval é um vice-almirante, na direta dependência do CEMA.\n\n3 - O Comandante Naval pode acumular com a função de Comandante das Operações Marítimas, no âmbito da AMN, nos termos do n.º 12 do artigo 8.º\n\n4 - No âmbito das missões reguladas por legislação própria, compete ao CN apoiar o exercício do comando por parte do CEMA, designadamente:\n\na) Garantir, no seu âmbito, a fiscalização nos espaços marítimos sob soberania ou jurisdição nacional, tendo em vista o exercício da autoridade do Estado através da adoção das medidas e ações necessárias, nos termos da lei e do Direito Internacional;\n\nb) Assegurar o funcionamento dos centros de coordenação de busca e salvamento marítimo, coordenar as ações relativas a acidentes ocorridos com navios ou embarcações e disponibilizar unidades operacionais para busca e salvamento, nos termos da legislação aplicável;\n\nc) Exercer o comando de nível operacional das forças e unidades operacionais envolvidas em operações e atividades no domínio das ciências e técnicas do mar;\n\nd) Garantir a cooperação e aconselhamento naval da navegação, sem prejuízo da competência da Autoridade Nacional de Controlo de Tráfego Marítimo, dos órgãos e serviços da AMN e de outras entidades com competências neste domínio.\n\n5 - Para efeitos de apoio ao exercício do comando por parte do CEMGFA, o CN é colocado, pelo CEMA, na dependência direta do CEMGFA, de acordo com as modalidades de comando e controlo aplicáveis a situações específicas de emprego operacional de forças e meios, a definir caso a caso.\n\n6 - O CN compreende:\n\na) O Comandante Naval;\n\nb) O 2.º Comandante Naval;\n\nc) O Estado-Maior;\n\nd) Os órgãos de apoio.\n\n7 - O 2.º Comandante Naval é um contra-almirante, na direta dependência do Comandante Naval."
+  },
+  "178122659": {
+   "fragment_id": "178122569",
+   "type": 11,
+   "heading": "Artigo 18.º — Comandos de zona marítima",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Comandos de zona marítima\n\n1 - Os comandos de zona marítima têm por missão apoiar o exercício do comando por parte do Comandante Naval.\n\n2 - Compete aos comandos de zona marítima, designadamente:\n\na) Assegurar, nos espaços marítimos, a execução das atividades a que se referem as alíneas a) e d) do n.º 4 do artigo anterior;\n\nb) Assegurar o funcionamento dos centros de coordenação de busca e salvamento marítimo existentes no seu âmbito, coordenar as ações relativas a acidentes ocorridos com navios ou embarcações e disponibilizar unidades operacionais para busca e salvamento, nos termos da legislação aplicável;\n\nc) Assegurar a articulação, a nível regional, com as outras autoridades públicas que intervêm, em razão da matéria, no espaço marítimo sob soberania ou jurisdição nacional, tendo em vista garantir a atuação cooperativa entre as forças e unidades operacionais, e os meios dessas autoridades públicas.\n\n3 - São comandos de zona marítima:\n\na) O Comando da Zona Marítima dos Açores;\n\nb) O Comando da Zona Marítima da Madeira;\n\nc) O Comando da Zona Marítima do Norte;\n\nd) O Comando da Zona Marítima do Centro;\n\ne) O Comando da Zona Marítima do Sul.\n\n4 - Os comandantes de zona marítima podem acumular com as funções de Chefe de Departamento Marítimo, na estrutura da AMN, nos termos do n.º 12 do artigo 8.º\n\n5 - Os comandantes das zonas marítimas asseguram, ao seu nível e nos termos da lei, a ligação com as forças e serviços de segurança e proteção civil, em coordenação com o CN e com os comandos operacionais das áreas em que se inserem.\n\n6 - Os comandantes de zona marítima têm os postos de comodoro, nos Açores, e de capitão-de-mar-e-guerra, nas restantes zonas marítimas, e estão na direta dependência do Comandante Naval."
+  },
+  "178122660": {
+   "fragment_id": "178122570",
+   "type": 8,
+   "heading": "Secção V — Órgãos de conselho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção V — Órgãos de conselho"
+  },
+  "178122661": {
+   "fragment_id": "178122571",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições genéricas\n\n1 - Os órgãos de conselho destinam-se a apoiar as decisões do CEMA em assuntos especiais e importantes na preparação, disciplina e administração da Marinha.\n\n2 - São órgãos de conselho do CEMA:\n\na) O Conselho do Almirantado (CA);\n\nb) O Conselho Superior de Disciplina da Armada (CSDA);\n\nc) A Junta Médica de Revisão da Armada (JMRA)."
+  },
+  "178122662": {
+   "fragment_id": "178122572",
+   "type": 11,
+   "heading": "Artigo 20.º — Conselho do Almirantado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Conselho do Almirantado\n\n1 - O CA, que corresponde ao Conselho Superior da Marinha, é o órgão máximo de consulta do CEMA.\n\n2 - O CA é composto pelo CEMA, que preside, e por todos os vice-almirantes no ativo.\n\n3 - O funcionamento do CA é estabelecido por decreto regulamentar."
+  },
+  "178122663": {
+   "fragment_id": "178122573",
+   "type": 11,
+   "heading": "Artigo 21.º — Conselho Superior de Disciplina da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Conselho Superior de Disciplina da Armada\n\n1 - O CSDA é o órgão consultivo e de apoio do CEMA em matéria disciplinar.\n\n2 - A composição, o funcionamento e as atribuições do CSDA constam do Regulamento de Disciplina Militar."
+  },
+  "178122664": {
+   "fragment_id": "178122574",
+   "type": 11,
+   "heading": "Artigo 22.º — Junta Médica de Revisão da Armada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Junta Médica de Revisão da Armada\n\n1 - A JMRA tem por missão estudar e dar parecer sobre os recursos relativos às decisões das entidades competentes, baseadas em pareceres formulados por outras juntas médicas da Armada.\n\n2 - O presidente da JMRA é um oficial general, na situação de reserva."
+  },
+  "178122665": {
+   "fragment_id": "178122675",
+   "type": 8,
+   "heading": "Secção VI — Órgão de inspeção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VI — Órgão de inspeção"
+  },
+  "178122666": {
+   "fragment_id": "178122676",
+   "type": 11,
+   "heading": "Artigo 23.º — Inspeção-Geral da Marinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Inspeção-Geral da Marinha\n\n1 - A IGM tem por missão apoiar o CEMA no exercício da função de controlo e avaliação, sem prejuízo da atividade de outros órgãos, no mesmo âmbito.\n\n2 - O Inspetor-Geral da Marinha é um oficial general, na situação de reserva, na direta dependência do CEMA.\n\n3 - O Inspetor-Geral da Marinha dispõe de autoridade técnica sobre todos os órgãos da Marinha no domínio da inspeção.\n\n4 - A IGM compreende:\n\na) O Inspetor-Geral;\n\nb) Os departamentos de inspeção e de auditoria."
+  },
+  "178122667": {
+   "fragment_id": "178122677",
+   "type": 8,
+   "heading": "Secção VII — Órgãos de base",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VII — Órgãos de base"
+  },
+  "178122668": {
+   "fragment_id": "178122678",
+   "type": 11,
+   "heading": "Artigo 24.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Disposições genéricas\n\n1 - Os órgãos de base têm por missão a formação, a sustentação e o apoio geral da Marinha.\n\n2 - Os órgãos de base da Marinha compreendem:\n\na) As bases;\n\nb) A Escola Naval (EN);\n\nc) As escolas e centros de formação do Sistema de Formação Profissional da Marinha (SFPM);\n\nd) As esquadrilhas e os agrupamentos de unidades operacionais;\n\ne) Os órgãos de execução de serviços;\n\nf) Os órgãos de natureza cultural."
+  },
+  "178122669": {
+   "fragment_id": "178122679",
+   "type": 11,
+   "heading": "Artigo 25.º — Bases",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Bases\n\n1 - As bases têm por missão assegurar atividades relacionadas com o apoio logístico às forças e unidades operacionais, bem como a outras unidades e organismos situados na sua área ou por si apoiados, e com a manutenção e segurança das instalações.\n\n2 - São bases da Marinha:\n\na) A Base Naval de Lisboa (BNL);\n\nb) A Unidade de Apoio às Instalações Centrais de Marinha (UAICM).\n\n3 - O Comandante da BNL é um capitão-de-mar-e-guerra, na direta dependência do Comandante Naval.\n\n4 - O Comandante da UAICM é um capitão-de-mar-e-guerra, na direta dependência do VCEMA."
+  },
+  "178122670": {
+   "fragment_id": "178122680",
+   "type": 11,
+   "heading": "Artigo 26.º — Escola Naval",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Escola Naval\n\n1 - A EN é um estabelecimento de ensino superior público universitário militar, regulado por legislação própria.\n\n2 - A EN tem por missão formar os oficiais da Marinha, habilitando-os ao exercício das funções que estatutariamente lhes são cometidas, conferir as competências adequadas ao cumprimento das missões da Marinha e promover o desenvolvimento individual para o exercício das funções de comando, direção e chefia.\n\n3 - O Centro de Investigação Naval funciona na direta dependência do Comandante da EN.\n\n4 - O Comandante da EN é um contra-almirante, na direta dependência do CEMA."
+  },
+  "178122671": {
+   "fragment_id": "178122681",
+   "type": 11,
+   "heading": "Artigo 27.º — Escolas e centros de formação do Sistema de Formação Profissional da Marinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Escolas e centros de formação do Sistema de Formação Profissional da Marinha\n\n1 - As escolas e os centros de formação do SFPM têm por missão principal assegurar a formação técnico-profissional dos militares da Marinha, nomeadamente a formação inicial e contínua.\n\n2 - São escolas e centros de formação do SFPM:\n\na) A Escola de Fuzileiros (EF);\n\nb) A Escola de Hidrografia e Oceanografia;\n\nc) A Escola de Mergulhadores;\n\nd) A Escola de Tecnologias Navais;\n\ne) O Centro Integrado de Treino e Avaliação Naval (CITAN);\n\nf) Os centros de instrução.\n\n3 - O CITAN depende diretamente do 2.º Comandante Naval."
+  },
+  "178122672": {
+   "fragment_id": "178122682",
+   "type": 11,
+   "heading": "Artigo 28.º — Esquadrilhas e agrupamentos de unidades operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Esquadrilhas e agrupamentos de unidades operacionais\n\n1 - As esquadrilhas e os agrupamentos de unidades operacionais têm por missão:\n\na) Aprontar e apoiar logística e administrativamente as forças e unidades operacionais que lhe estejam atribuídas;\n\nb) Assegurar a gestão das qualificações operacionais das forças e unidades operacionais que lhe estejam atribuídas.\n\n2 - As esquadrilhas e os agrupamentos de unidades operacionais dependem diretamente do 2.º Comandante Naval.\n\n3 - As esquadrilhas e os agrupamentos de unidades operacionais são criados e extintos por despacho do CEMA."
+  },
+  "178122673": {
+   "fragment_id": "178122683",
+   "type": 11,
+   "heading": "Artigo 29.º — Órgãos de execução de serviços",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Órgãos de execução de serviços\n\n1 - Os órgãos de execução de serviços têm por missão executar tarefas específicas de apoio geral da Marinha.\n\n2 - São órgãos de execução de serviços:\n\na) O Centro de Medicina Subaquática e Hiperbárica;\n\nb) O Centro de Medicina Naval (CMN);\n\nc) Os laboratórios e depósitos;\n\nd) A Base Hidrográfica;\n\ne) Outros órgãos que realizam atividades de apoio global à gestão e atividades de apoio logístico, nomeadamente os pontos de apoio naval."
+  },
+  "178122674": {
+   "fragment_id": "178122684",
+   "type": 11,
+   "heading": "Artigo 30.º — Órgãos de natureza cultural",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Órgãos de natureza cultural\n\n1 - Os órgãos de natureza cultural têm por missão realizar atividades de apoio geral da Marinha no domínio do património cultural, histórico e artístico.\n\n2 - São órgãos de natureza cultural:\n\na) A Academia de Marinha (AM);\n\nb) O Aquário Vasco da Gama;\n\nc) A Banda da Armada;\n\nd) A Biblioteca Central de Marinha;\n\ne) O Museu de Marinha;\n\nf) O Planetário Calouste Gulbenkian;\n\ng) A Revista da Armada.\n\n3 - A Comissão Cultural de Marinha (CCM) tem por missão apoiar a representação institucional e a comunicação estratégica da Marinha, divulgar e garantir a preservação da sua memória histórica e contribuir para o desenvolvimento científico e cultural nacional, no âmbito do mar e das ciências náuticas, competindo-lhe dirigir as atividades dos órgãos de natureza cultural referidos nas alíneas b) a g) do n.º 2.\n\n4 - O Diretor da CCM é um oficial general na situação de reserva, na direta dependência do CEMA.\n\n5 - Os diretores dos órgãos de natureza cultural referidos nas alíneas b) a g) do n.º 2 encontram-se na direta dependência do diretor da CCM.\n\n6 - A AM tem autonomia científica e funciona na direta dependência do CEMA, incumbindo-lhe promover e desenvolver os estudos e divulgar os conhecimentos relacionados com a história, as ciências, as letras e as artes e tudo o mais que diga respeito ao mar e às atividades marítimas."
+  },
+  "178122775": {
+   "fragment_id": "178122685",
+   "type": 8,
+   "heading": "Secção VIII — Elementos da componente operacional do sistema de forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção VIII — Elementos da componente operacional do sistema de forças"
+  },
+  "178122776": {
+   "fragment_id": "178122686",
+   "type": 11,
+   "heading": "Artigo 31.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Disposições genéricas\n\n1 - Os elementos da componente operacional do sistema de forças são as forças e os meios da Marinha destinados ao cumprimento das missões de natureza operacional.\n\n2 - Constituem elementos da componente operacional do sistema de forças, as seguintes forças e meios da Marinha:\n\na) O Comando do Corpo de Fuzileiros (CCF);\n\nb) As forças;\n\nc) Os meios e as unidades operacionais;\n\nd) Os centros da componente operacional do sistema de forças."
+  },
+  "178122777": {
+   "fragment_id": "178122687",
+   "type": 11,
+   "heading": "Artigo 32.º — Comando do Corpo de Fuzileiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Comando do Corpo de Fuzileiros\n\n1 - O CCF tem por missão, relativamente às forças e unidades de fuzileiros e a outras que lhe sejam atribuídas:\n\na) Aprontar e apoiar logística e administrativamente;\n\nb) Conduzir o treino e a avaliação;\n\nc) Assegurar a gestão das qualificações operacionais.\n\n2 - O Comandante do Corpo de Fuzileiros é um comodoro, na direta dependência do Comandante Naval.\n\n3 - Compete ao CCF o emprego das forças e unidades de fuzileiros e de outras que lhe sejam atribuídas para:\n\na) Assegurar a execução das atividades operacionais no âmbito da defesa local dos portos e outras instalações, do serviço de polícia naval e da representação da Marinha de natureza protocolar;\n\nb) Cooperar na execução de ações de intervenção em plataformas fixas, navios e embarcações nos espaços marítimos sob soberania ou jurisdição nacional, visando a segurança de passageiros, tripulantes e navios, contra atos ilícitos de natureza criminosa.\n\n4 - Encontram-se na direta dependência do Comandante do Corpo de Fuzileiros as seguintes unidades:\n\na) A EF;\n\nb) A Base de Fuzileiros (BF);\n\nc) As forças e unidades de fuzileiros atribuídas.\n\n5 - O CCF, a EF, a BF e as forças e unidades de fuzileiros constituem o Corpo de Fuzileiros."
+  },
+  "178122778": {
+   "fragment_id": "178122688",
+   "type": 11,
+   "heading": "Artigo 33.º — Forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Forças\n\n1 - As forças são constituídas por um comandante, um estado-maior e por unidades operacionais prontas, agrupadas sob as ordens do mesmo comandante.\n\n2 - As forças são:\n\na) As forças navais;\n\nb) As forças de fuzileiros.\n\n3 - As forças navais são forças essencialmente constituídas por unidades navais, podendo integrar, na sua composição, unidades operacionais de outra natureza.\n\n4 - As forças de fuzileiros são forças essencialmente constituídas por unidades de fuzileiros, podendo integrar, na sua composição, unidades operacionais de outra natureza.\n\n5 - Encontra-se estabelecida em permanência uma força tarefa, com o respetivo comandante e estado-maior e com unidades operacionais atribuídas, que podem variar consoante a missão, constituindo a Força Naval Portuguesa."
+  },
+  "178122779": {
+   "fragment_id": "178122689",
+   "type": 11,
+   "heading": "Artigo 34.º — Unidades operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Unidades operacionais\n\n1 - As unidades operacionais executam missões, tarefas e ações operacionais no quadro das missões das Forças Armadas.\n\n2 - As unidades operacionais são, designadamente:\n\na) As unidades navais;\n\nb) As unidades de fuzileiros;\n\nc) As unidades de mergulhadores.\n\n3 - As unidades navais são os navios guarnecidos por militares da Marinha, pertencentes ao efetivo dos navios de guerra, que se destinam a assegurar, no mar, a execução das missões atribuídas.\n\n4 - As unidades de fuzileiros são essencialmente constituídas por militares da classe de fuzileiros e destinam-se a executar as missões, tarefas e ações que lhes sejam atribuídas, estando especialmente vocacionadas para as operações, designadamente as anfíbias.\n\n5 - As unidades de mergulhadores são essencialmente constituídas por militares habilitados com cursos de formação ou de especialização em mergulhador e destinam-se a realizar missões, tarefas e ações em imersão, em apoio de operações, bem como a inativação de engenhos explosivos e a realização de trabalhos submarinos, designadamente, no âmbito da busca e salvamento marítimo, da salvação marítima e de operações de caráter humanitário."
+  },
+  "178122780": {
+   "fragment_id": "178122690",
+   "type": 11,
+   "heading": "Artigo 35.º — Centros da componente operacional do sistema de forças",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Centros da componente operacional do sistema de forças\n\n1 - Os centros da componente operacional do sistema de forças encontram-se na dependência do Comandante Naval e são:\n\na) Os centros e postos de comando;\n\nb) Os centros de apoio às operações.\n\n2 - Os centros e postos de comando têm por missão apoiar o exercício do comando e controlo das forças e unidades e assegurar a coordenação com entidades exteriores à Marinha.\n\n3 - São centros e postos de comando o Centro de Operações Marítimas, os postos de comando das zonas marítimas e os postos de comando projetáveis das forças e unidades operacionais.\n\n4 - Os centros de apoio às operações têm por missão assegurar as comunicações entre os comandos e as forças e unidades em operações, e apoiar a gestão da informação e do conhecimento, no âmbito da superioridade de informação e de decisão.\n\n5 - São centros de apoio às operações o Centro de Comunicações, de Dados e de Cifra da Marinha (CCDCM), o Centro de Comunicações dos Açores, os postos rádio dos comandos de zona marítima e o Centro de Gestão e Análise de Dados Operacionais.\n\n6 - Os centros referidos no número anterior estão na dependência funcional e técnica do Superintendente das Tecnologias da Informação, nos termos do n.º 3 do artigo 16.º, sendo apoiados localmente e em permanência por serviços técnicos da DITIC."
+  },
+  "178122781": {
+   "fragment_id": "178122691",
+   "type": 8,
+   "heading": "Secção IX — Órgãos regulados por legislação própria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção IX — Órgãos regulados por legislação própria"
+  },
+  "178122782": {
+   "fragment_id": "178122692",
+   "type": 11,
+   "heading": "Artigo 36.º — Disposições genéricas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Disposições genéricas\n\nA Marinha compreende os seguintes órgãos, regulados por legislação própria:\n\na) O Instituto Hidrográfico (IH);\n\nb) O SBSM."
+  },
+  "178122783": {
+   "fragment_id": "178122693",
+   "type": 11,
+   "heading": "Artigo 37.º — Instituto Hidrográfico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Instituto Hidrográfico\n\n1 - O IH tem por missão assegurar as atividades de investigação e desenvolvimento tecnológico relacionadas com as ciências e as técnicas do mar, tendo em vista a sua aplicação prioritária em operações militares navais, designadamente, nas áreas da hidrografia, da cartografia hidrográfica, da segurança da navegação, da oceanografia e da defesa do meio marinho.\n\n2 - O Diretor-Geral do IH é um contra-almirante, na direta dependência do CEMA.\n\n3 - O Diretor-Geral do IH dispõe de autoridade técnica sobre todos os órgãos da Marinha nos domínios dos levantamentos hidrográficos e da cartografia hidrográfica e, no âmbito da sua competência, da segurança da navegação, dos métodos e material de navegação, da oceanografia física, da geologia marinha e da oceanografia química.\n\n4 - A estrutura orgânica, as atribuições, as competências e o regime administrativo e financeiro do IH são estabelecidos por diploma próprio."
+  },
+  "178122784": {
+   "fragment_id": "178122694",
+   "type": 11,
+   "heading": "Artigo 38.º — Serviço de Busca e Salvamento Marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Serviço de Busca e Salvamento Marítimo\n\n1 - O SBSM é o serviço responsável pelas ações de busca e salvamento relativas a acidentes ocorridos com navios ou embarcações.\n\n2 - As atribuições, as competências, a organização e o funcionamento dos órgãos do SBSM constam de legislação própria.\n\n3 - O CEMA dirige o SBSM."
+  },
+  "178122785": {
+   "fragment_id": "178122695",
+   "type": 8,
+   "heading": "Secção X — Comissão de Direito Marítimo Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Secção X — Comissão de Direito Marítimo Internacional"
+  },
+  "178122786": {
+   "fragment_id": "178122696",
+   "type": 11,
+   "heading": "Artigo 39.º — Comissão de Direito Marítimo Internacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Comissão de Direito Marítimo Internacional\n\n1 - A Comissão de Direito Marítimo Internacional (CDMI) funciona na dependência direta do CEMA e tem por missão estudar e emitir parecer sobre questões relativas ao direito marítimo internacional, ao direito do mar e ao direito comercial marítimo.\n\n2 - O presidente da CDMI é um jurista de reconhecido mérito e o vice-presidente é um oficial general da Marinha, ambos nomeados por despacho do Ministro da Defesa Nacional, sob proposta do CEMA.\n\n3 - A CDMI integra:\n\na) Três personalidades de reconhecido mérito, nas áreas científicas em causa, nomeadas por despacho do membro do Governo responsável pela área da defesa nacional, sob proposta do CEMA;\n\nb) Dois representantes da Marinha, nomeados pelo CEMA.\n\n4 - A CDMI pode ainda integrar, a convite do presidente, personalidades de reconhecido mérito na área em que estivem a ser desenvolvidos estudos ou pareceres pela CDMI."
+  },
+  "178122787": {
+   "fragment_id": "178122697",
+   "type": 1,
+   "heading": "Capítulo III — Disposições complementares e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Disposições complementares e transitórias"
+  },
+  "178122788": {
+   "fragment_id": "178122698",
+   "type": 11,
+   "heading": "Artigo 40.º — Símbolos e datas festivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Símbolos e datas festivas\n\n1 - A Marinha tem brasão de armas, bandeiras heráldicas, divisa e hino.\n\n2 - O uso dos símbolos heráldicos da Marinha, das suas unidades, estabelecimentos e demais órgãos é estabelecido através de regulamento.\n\n3 - A Marinha, as suas unidades, estabelecimentos e demais órgãos têm um dia festivo para a consagração da respetiva memória histórica, definido por despacho do CEMA."
+  },
+  "178122789": {
+   "fragment_id": "178122699",
+   "type": 11,
+   "heading": "Artigo 41.º — Criação, extinção e reestruturação de unidades, estabelecimentos e órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Criação, extinção e reestruturação de unidades, estabelecimentos e órgãos\n\n1 - É criado o Centro de Investigação Naval.\n\n2 - São extintos:\n\na) O Gabinete do VCEMA;\n\nb) O Centro Naval de Ensino à Distância.\n\n3 - São extintos, sendo objeto de fusão:\n\na) A Flotilha, sendo as suas atribuições integradas no CN;\n\nb) O Centro de Comunicações da Madeira, sendo as suas atribuições integradas no CCDCM;\n\nc) Os órgãos e serviços da AMN, enquanto estrutura da Marinha, sendo as suas atribuições integradas na AMN.\n\n4 - É objeto de reestruturação o CMN.\n\n5 - Compete ao CEMA determinar, por despacho, quais as chefias que procedem às operações e decisões necessárias à reorganização de serviços, podendo essa competência ser delegada."
+  },
+  "178122790": {
+   "fragment_id": "178122700",
+   "type": 11,
+   "heading": "Artigo 42.º — Referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Referências legais\n\nAs referências legais feitas às unidades, estabelecimentos e órgãos objeto de extinção, fusão e reestruturação, mencionados no artigo anterior, consideram-se feitas às unidades, estabelecimentos e órgãos que passam a integrar as respetivas atribuições."
+  },
+  "178122791": {
+   "fragment_id": "178122701",
+   "type": 11,
+   "heading": "Artigo 43.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Regulamentação\n\nAs atribuições, competências e organização da estrutura interna da Marinha são estabelecidas por decreto regulamentar, a aprovar no prazo de 120 dias, a contar da data da entrada em vigor do presente decreto-lei."
+  },
+  "178122792": {
+   "fragment_id": "178122702",
+   "type": 11,
+   "heading": "Artigo 44.º — Normas transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Normas transitórias\n\n1 - Enquanto não forem publicados os diplomas legais previstos no presente decreto-lei, mantêm-se em vigor os diplomas que disciplinam as correspondentes matérias.\n\n2 - Até à criação do posto de comodoro, nos termos do Estatuto dos Militares das Forças Armadas, os cargos que, nos termos do presente decreto-lei, devam ser exercidos por militares com aquele posto são exercidos por militares com o posto de contra-almirante.\n\n3 - Os cargos que, com a entrada em vigor do presente decreto-lei e do novo Estatuto dos Militares das Forças Armadas, devam ser exercidos por militares com o posto de comodoro, podem continuar a ser ocupados por contra-almirantes que transitaram para a situação de supranumerário por força das extinções, fusões e reestruturações previstas no artigo 41.º\n\n4 - Até à entrada em vigor do diploma que define a estrutura, a organização, o funcionamento e as competências do Instituto Universitário Militar, mantém-se em vigor o modelo de governação comum aprovado pela Portaria n.º 60/2014, de 13 de janeiro, publicada no Diário da República, 2.ª série, n.º 18, de 27 de janeiro, bem como as disposições aplicáveis à EN."
+  },
+  "178122793": {
+   "fragment_id": "178122703",
+   "type": 11,
+   "heading": "Artigo 45.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 233/2009, de 15 de setembro;\n\nb) Todas as disposições que contrariem o disposto no presente decreto-lei."
+  },
+  "178122794": {
+   "fragment_id": "178122704",
+   "type": 11,
+   "heading": "Artigo 46.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Entrada em vigor\n\nO presente decreto-lei entra em vigor no dia 1 de janeiro de 2015."
+  },
+  "178122796": {
+   "fragment_id": "178122706",
+   "type": 14,
+   "heading": "Anexo — (a que se refere o artigo 7.º)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — (a que se refere o artigo 7.º)\n\nQuantitativo de cargos de comando, direção ou chefia de oficial general\n\n(ver documento original)"
+  }
+ }
+}

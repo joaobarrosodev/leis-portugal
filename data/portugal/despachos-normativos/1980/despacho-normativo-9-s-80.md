@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:508661:por
+title: Despacho Normativo n.º 9-S/80
+short_title: null
+summary: Determina que sejam adoptadas desde já as providências transitórias tendentes a acautelarem os interesses dos candidatos
+  ao asilo do refugiado que se encontrem em Portugal ou futuramente demandem o nosso país com esse objectivo
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério da Administração Interna - Serviço de Estrangeiros
+proposing_entity: null
+official_number: 9-S/80
+official_date: null
+publication_date: '1980-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 7/1980, 3º Suplemento, Série I de 1980-01-09
+  number: '7'
+  series: I
+  supplement: 3º Suplemento
+  pages: 26-(42) a 26-(43)
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/01/00703/00420043.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '508661'
+  dre_path: /dr/detalhe/despacho-normativo/9-s-1980-508661
+  internal: pt:dre:508661:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-s-1980-508661
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/9-s-1980-508661
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-01-09T00:00:00Z'
+integrity:
+  source_sha256: f63407be26dc4efe4e900dfcf554ddec5fb292ed3cf81eb4a0d383830eaf20fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-9-S-508661.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 9-S/80
+
+Considerando que a Constituição da República Portuguesa, no artigo 22.º, garante o direito de asilo e estatuto do refugiado, remetendo a sua regulamentação para a lei ordinária;
+
+Atendendo a que Portugal aderiu à Convenção de Genebra Relativa ao Estatuto dos Refugiados de 1951 e ao Protocolo Adicional, de 31 de Janeiro de 1967, não tendo sido regulamentada até à presente data;
+
+Ponderados todos os inconvenientes derivados da inexistência em Portugal de uma lei reguladora, quer da Convenção de Genebra de 1951, quer do direito de asilo e estatuto do refugiado, apesar de o Governo ter aprovado e remetido à Assembleia da República uma proposta de lei sobre a matéria:
+
+Determino que sejam adoptadas desde já as seguintes providências transitórias tendentes a acautelarem os interesses dos candidatos ao asilo que se encontrem em Portugal ou futuramente demandem o nosso país com esse objectivo:
+
+1.º Os estrangeiros e apátridas que pretendam beneficiar de asilo em Portugal devem formular um pedido por escrito, em duplicado, redigido em língua portuguesa e apresentado no Serviço de Estrangeiros do Ministério da Administração Interna.
+
+2.º A petição deverá conter os seguintes elementos:
+
+a) Identificação do interessado;
+
+b) Identificação do cônjuge e seu agregado familiar;
+
+c) Relato das circunstâncias ou factos que justifiquem o pedido;
+
+d) Indicação dos elementos de prova reputados necessários.
+
+3.º Recebida a petição, o Serviço de Estrangeiros ouvirá o peticionário em auto de declarações, a fim de confirmar o pedido de asilo, bem como prestar outros esclarecimentos reputados necessários.
+
+4.º O pedido é, em seguida, apreciado com base na Convenção de Genebra Relativa ao Estatuto dos Refugiados, competindo ao director do Serviço de Estrangeiros decidir.
+
+5.º Proferida a decisão, e caso seja favorável, será emitida a favor do requerente uma credencial, que lhe confere os direitos de residir em território nacional e obter trabalho, devendo ser remetida uma cópia ao representante, em Lisboa, do Alto-Comissariado das Nações Unidas para os Refugiados.
+
+6.º Caso a decisão seja desfavorável, poderá o interessado formular outro pedido, desde que apresente novos elementos, tendo em vista a sua reapreciação, ou interpor recurso hierárquico.
+
+7.º Será ainda emitido a favor do candidato a refugiado um bilhete de identidade para cidadão estrangeiro, nos termos do artigo 22.º do [Decreto-Lei n.º 64/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/64-1976-506818), de 24 de Janeiro, e o passaporte para estrangeiro previsto no artigo 32.º do Decreto-Lei n.º 46748, de 15 de Dezembro de 1965.
+
+8.º O bilhete de identidade para cidadão estrangeiro é emitido pelo Centro de Identificação Civil e Criminal, mediante visto do Serviço de Estrangeiros, nos termos da alínea c) do artigo 6.º do [Decreto-Lei n.º 494-A/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/494-a-1976-476517), de 23 de Junho, e o passaporte para estrangeiro é emitido pelo Serviço de Estrangeiros a requerimento do interessado.
+
+9.º Quando houver fundamento para se ordenar a expulsão, o candidato a refugiado não poderá ser expulso para país onde possa ser perseguido por razões políticas, aliás de harmonia com o artigo 4.º do [Decreto-Lei n.º 582/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/582-1976-430816), de 22 de Julho.
+
+Ministério da Administração Interna, 21 de Dezembro de 1979. - O Ministro Adjunto para a Administração Interna, Manuel da Costa Brás.

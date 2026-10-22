@@ -1,0 +1,159 @@
+---
+schema_version: '1.0'
+id: pt:dre:154466:por
+title: Decreto-Lei n.º 663/70
+short_title: null
+summary: Autoriza o Ministro das Finanças a celebrar com o Banco de Portugal um contrato nos termos constantes das bases anexas
+  ao presente diploma - Dá nova redacção a vários artigos do Decreto-Lei n.º 42946, que regula a emissão e a circulação das
+  promissórias de fomento nacional, títulos de obrigações criados pelo artigo 31.º do Decreto-Lei n.º 41403
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério das Finanças - Secretaria de Estado do Tesouro - Direcção-Geral da Fazenda Pública
+proposing_entity: null
+official_number: 663/70
+official_date: null
+publication_date: '1970-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 301/1970, Série I de 1970-12-31
+  number: '301'
+  series: I
+  supplement: null
+  pages: 1997 - 1998
+  pdf_url: https://files.diariodarepublica.pt/1s/1970/12/30100/19971998.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '154466'
+  dre_path: /dr/detalhe/decreto-lei/663-1970-154466
+  internal: pt:dre:154466:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1970-154466
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/663-1970-154466
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1970-12-31T00:00:00Z'
+integrity:
+  source_sha256: 1e89a40c974103b23fe34aa0f6c76db4ba244b8b1f114565eb9260916c01fa5a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1970/DRE-1970-663-154466.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 663/70
+
+de 31 de Dezembro
+
+1. No artigo 5.º do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960, estabelece-se que a importância total das promissórias de fomento nacional em circulação não poderá exceder o limite que for acordado, para determinado período, entre o Estado, representado pelo Ministro das Finanças, e o Banco de Portugal.
+
+Em consequência, no contrato concluído entre o Estado e o Banco em 15 de Maio de 1968, cujas bases foram aprovadas pelo [Decreto-Lei n.º 48375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48375-1968-271858), de 9 do mesmo mês e ano, convencionou-se que a dita importância total das promissórias em circulação não poderia, durante o período compreendido entre 31 de Dezembro de 1967 e 31 de Dezembro de 1970, exceder 4,1 milhões de contos.
+
+Estando o referido período prestes a terminar, torna-se necessário que, em conformidade com o previsto no § 2.º da cláusula 1.ª do contrato de 26 de Outubro de 1960, seja estabelecido, por acordo entre o Estado e o Banco, e para novo período também a determinar, o limite da importância total das promissórias de fomento nacional em circulação.
+
+Além disso, a fim de que as promissórias emitidas durante este novo período possam ser incluídas entre as disponibilidades de caixa dos bancos comerciais, importa igualmente definir por acordo as condições em que o Banco de Portugal mantém a obrigação de aquisição de tais promissórias, à semelhança do regime estabelecido nos contratos anteriores.
+
+2. A experiência de aplicação das várias disposições do referido [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447) mostrou a vantagem do reajustamento de algumas das suas normas a situações não inicialmente previstas, por forma a conferir-lhe uma maior elasticidade, designadamente no que respeita às formas de aplicação do capital emitido e à utilização dos excedentes acumulados na «Conta de compensação de juros de créditos», a que se refere o artigo 22.º do mesmo diploma.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º É autorizado o Ministério das Finanças a celebrar com o Banco de Portugal um contrato nos termos constantes das bases anexas a este decreto-lei e que dele são parte integrante.
+
+###### Art. 2.º Os artigos 17.º, 18.º e § único, 19.º, 20.º, 21.º, 22.º e § único do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960, passam a ter a seguinte redacção:
+
+###### Art. 17.º O produto da emissão de promissórias de fomento nacional poderá ser objecto, no todo ou em parte, de empréstimos ou suprimentos a conceder pelo Estado a bancos de investimento e institutos públicos, para ser por eles utilizado de harmonia com as aplicações indicadas nos respectivos planos de emissão.
+
+###### Art. 18.º Os empréstimos e suprimentos mencionados no artigo anterior, cujas condições gerais ficam sujeitas a aprovação por despacho do Ministro das Finanças, publicado no Diário do Governo, serão titulados por via de escritura assinada pelo director-geral da Fazenda Pública e pelos legais representantes das entidades interessadas nas operações.
+
+§ único. Dos despachos de aprovação deverão constar, além das importâncias dos empréstimos ou suprimentos, as condições de juro e de reembolso, as garantias e a indicação expressa das aplicações reprodutivas a que se destinam os capitais mutuados, bem como as condições de juro ou outras a que os interessados devam obedecer na utilização dos mesmos capitais.
+
+###### Art. 19.º As entidades referidas no artigo 17.º não poderão empregar para fins diferentes dos acordados os capitais recebidos nos termos dos artigos precedentes, sob pena de os respectivos empréstimos e suprimentos se considerarem desde logo vencidos, sem prejuízo de outras sanções legais ou contratuais aplicáveis.
+
+###### Art. 20.º As entidades referidas no artigo 17.º deverão escriturar nos seus livros e levar aos respectivos balanços os empréstimos ou suprimentos recebidos do Estado, pelo valor do respectivo capital em dívida e sob a designação «Empréstimos e suprimentos do Estado Português - Conta aplicação de promissórias de fomento nacional», indicando nos mesmos balanços, por categorias, as operações resultantes da aplicação dos capitais dos referidos empréstimos e suprimentos.
+
+###### Art. 21.º As Direcções-Gerais da Fazenda Pública e da Contabilidade Pública tomarão as providências necessárias para se abrir na escrita do Estado uma conta especial sob a designação «Empréstimos e suprimentos em aplicação do produto da emissão de promissórias de fomento nacional», na qual serão escrituradas todas as operações referidas nos artigos 17.º e 18.º do presente decreto-lei.
+
+§ único. Esta conta especial poderá ser desdobrada por forma a considerarem-se em separado os movimentos de cada uma das aplicações previstas para o produto da emissão das promissórias de fomento nacional.
+
+###### Art. 22.º Os juros dos empréstimos e suprimentos concedidos pelo Estado nos termos previstos no presente diploma, tal como os de outras operações de crédito que venham a efectuar-se em aplicação do produto da emissão de promissórias de fomento nacional, serão escriturados em «Operações de tesouraria», numa conta sob a designação «Conta de compensação de juros de créditos», pela qual serão pagos os juros das promissórias em circulação.
+
+§ 1.º Os excedentes que venham a acumular-se na conta referida no corpo do presente artigo poderão ser utilizados pelo Ministro das Finanças para:
+
+a) Compensar encargos, de juros ou comissões, relativos a empréstimos obtidos, garantidos ou concedidos pelo Estado, desde que essa compensação seja justificada pela natureza e pelo superior interesse económico das aplicações respectivas;
+
+b) Compensar encargos, de juros ou comissões, relativos a empréstimos aplicados em empreendimentos reconhecidos de superior interesse económico nacional, pelo Conselho de Ministros para os Assuntos Económicos;
+
+c) Aplicações reprodutivas previstas em planos aprovados em Conselho de Ministros, nos termos e condições do presente decreto-lei;
+
+d) Financiamento de despesas de fomento a realizar através do Orçamento Geral do Estado.
+
+§ 2.º Para os efeitos do parágrafo anterior, serão tomadas pelas Direcções-Gerais da Fazenda Pública e da Contabilidade Pública as providências necessárias para a abertura, na escrita do Estado, de uma conta de operações de tesouraria, sob a designação «Aplicação de disponibilidades apuradas na conta de compensação de juros de créditos», com as subcontas que permitam a individualização das aplicações previstas nas alíneas a) a d) do mesmo parágrafo à medida que forem sendo determinadas pelo Secretário de Estado do Tesouro.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.
+
+**Promulgado em 29 de Dezembro de 1970.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**
+
+Para ser presente à Assembleia Nacional.
+
+Bases do contrato entre o Estado e o Banco de Portugal, a que se refere o Decreto-Lei n.º 663/70, desta data
+
+BASE I
+
+Em conformidade com o previsto no § 2.º do artigo 31.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459), de 27 de Novembro de 1957, e no artigo 5.º do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), de 27 de Abril de 1960, e ainda com o estipulado no § 2.º da cláusula 1.ª do contrato de 26 de Outubro de 1960, a importância total das promissórias de fomento nacional em circulação não poderá, durante o período que decorre desde 31 de Dezembro de 1970 até ao dia 31 de Dezembro de 1973, exceder 4,6 milhões de contos.
+
+§ único. Consideram-se em circulação todas as promissórias averbadas, incluindo as que o forem à Fazenda Nacional.
+
+BASE II
+
+O Banco obriga-se a adquirir as promissórias de fomento nacional emitidas, quer durante o período referido no corpo da cláusula 1.ª do contrato de 24 de Novembro de 1965, bem como no da cláusula 1.ª do contrato de 15 de Maio de 1968, quer ainda durante o período estabelecido na base I do presente contrato, que para aquele fim lhe forem oferecidas pelas instituições de crédito indicadas no artigo 2.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
+
+§ único. A obrigação de aquisição pelo Banco de Portugal limitar-se-á às promissórias que tenham sido emitidas com o seu prévio acordo, de conformidade com o previsto no artigo 11.º do [Decreto-Lei n.º 42946](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42946-1960-281447), e a totalidade das promissórias adquiridas pelo Banco nunca poderá exceder a importância global fixada na base I do presente contrato.
+
+**O Ministro das Finanças, João Augusto Dias Rosas.**

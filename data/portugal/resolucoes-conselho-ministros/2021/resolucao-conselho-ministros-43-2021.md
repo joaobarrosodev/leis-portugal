@@ -1,0 +1,165 @@
+---
+schema_version: '1.0'
+id: pt:dre:161386481:por
+title: Resolução do Conselho de Ministros n.º 43/2021
+short_title: null
+summary: Prevê a redefinição das atribuições do Serviço de Estrangeiros e Fronteiras
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 43/2021
+official_date: null
+publication_date: '2021-04-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 72/2021, Série I de 2021-04-14
+  number: '72'
+  series: I
+  supplement: null
+  pages: 8 - 9
+  pdf_url: https://files.diariodarepublica.pt/1s/2021/04/07200/0000800009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/43/2021/04/14/p/dre/pt/html
+  oj: null
+  dre: '161386481'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/43-2021-161386481
+  internal: pt:dre:161386481:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-2021-161386481
+  metadata_url: https://data.dre.pt/eli/resolconsmin/43/2021/04/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/43-2021-161386481
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-04-14T00:00:00Z'
+integrity:
+  source_sha256: d1f6591947675142f4b2506bc562e79da20bf86509da489bebb8e43f07f5d9f4
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2021/DRE-2021-43-161386481.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- PSP
+- Reestruturação de Serviços
+- Instituto dos Registos e do Notariado
+- Criação de Serviços
+- Definição de Competências
+- Base de Dados
+- Integração de Trabalhadores
+- GNR
+- Serviço de Estrangeiros e Fronteiras
+- REDE Nacional de Segurança Interna
+- Transferência de Competências
+- Serviço de Estrangeiros e Asilo
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/200/2006/10/25/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27/2008/06/30/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2008/06/30/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 43/2021
+
+A segurança constitui um pilar fundamental do Estado de direito democrático e um garante da liberdade dos cidadãos, porque ninguém pode ser verdadeiramente livre se não se sentir seguro. Acresce que, um país seguro contribui também para uma sociedade mais tolerante, livre e democrática. Portugal tem sido reconhecido nos últimos anos como um dos três países mais seguros do mundo. Ora, num mundo assolado por ameaças globais cada vez mais diversificadas, complexas e sofisticadas, importa criar condições para que esse nosso estatuto de país seguro - por si próprio, um fator de competitividade internacional -, possa sair consolidado e reforçado.
+
+O Serviço de Estrangeiros e Fronteiras (SEF) é um serviço de segurança integrado na área governativa da administração interna que, no quadro da política de segurança interna, tem por missão assegurar o controlo das pessoas nas fronteiras, dos estrangeiros em território nacional, a prevenção e o combate à criminalidade relacionada com a imigração ilegal e tráfico de seres humanos, gerir os documentos de viagem e de identificação de estrangeiros e proceder à instrução dos processos de pedidos no âmbito da [Lei n.º 27/2008](https://diariodarepublica.pt/dr/detalhe/lei/27-2008-456263), de 30 de junho, na sua redação atual, na salvaguarda da segurança interna e dos direitos e liberdades individuais no contexto global da realidade migratória.
+
+Enquanto órgão de polícia criminal, o SEF atua no processo, nos termos da lei processual penal, sob a direção e em dependência funcional da autoridade judiciária competente, realizando as ações determinadas e os atos por esta delegados.
+
+Compete ainda ao SEF promover, coordenar e executar as medidas e ações relacionadas com estas atividades e com os movimentos migratórios e, a nível internacional, assegurar, por determinação do Governo, a representação do Estado Português nas instâncias preparatórias da União Europeia, bem como em organizações ou eventos internacionais relativos à sua área de atuação.
+
+O Programa do Governo prevê a clara separação orgânica entre as funções policiais e administrativas do SEF. Relativamente às funções policiais - nomeadamente, o controlo das fronteiras aérea, terrestre e marítima e a investigação criminal, designadamente relacionada com o tráfico de seres humanos e auxílio à imigração ilegal -, tal implica uma redefinição do quadro do seu exercício entre os quatro órgãos de polícia criminal que atuam nesta área: a Guarda Nacional Republicana, a Polícia de Segurança Pública, o SEF e a Polícia Judiciária. Na área administrativa - nomeadamente a de autorizações de residência, renovações de autorizações de residência e em matéria de asilo -, cumpre reforçar a dimensão de intervenção humanista que esta separação de áreas favorecerá, uma vez que Portugal adotou uma política ativa de considerar positiva a vinda de imigrantes para o País.
+
+Por outro lado, o tráfico de pessoas está entre os fenómenos criminais de crescente complexidade que reclamam respostas atualizadas e mais eficazes. A prevenção e a repressão destes fenómenos impõem um reforço dos instrumentos de cooperação internacional e, bem assim, uma coordenação cada vez mais eficaz das forças e serviços de segurança.
+
+A imigração foi e é um contributo útil para a sustentabilidade demográfica e o desenvolvimento económico do nosso país.
+
+Importa, pois, respeitar a dignidade de quem procura o nosso país para viver e fruir das oportunidades oferecidas, assegurando um exercício adequado e proporcional dos poderes de autoridade por parte do Estado.
+
+Assim, e sem prejuízo de uma atuação determinada no combate às redes de tráfico humano ou na prevenção do terrorismo, há que reconfigurar a forma como os serviços públicos lidam com o fenómeno da imigração, adotando uma abordagem mais humanista e menos burocrática, em consonância com o objetivo de atração regular e ordenada de mão-de-obra para o desempenho de funções em diferentes setores de atividade.
+
+Para este efeito, e tal como estabelecido no Programa do XXII Governo Constitucional, o Governo vem agora estabelecer as traves mestras de uma separação orgânica muito clara entre as funções policiais e as funções administrativas de autorização e documentação de imigrantes.
+
+Assim:
+
+Nos termos da alínea g) do artigo 199.º da Constituição, o Conselho de Ministros resolve:
+
+1 - Aprovar as orientações de política legislativa para a concretização da reestruturação do Serviço de Estrangeiros e Fronteiras (SEF), em execução do estabelecido no Programa do XXII Governo Constitucional.
+
+2 - Determinar a criação do Serviço de Estrangeiros e Asilo (SEA), que sucede ao SEF, enquanto serviço central, que integra a administração direta do Estado, organizado hierarquicamente na dependência do membro do Governo responsável pela área da administração interna, com autonomia administrativa.
+
+3 - Estabelecer que, no quadro da política de segurança interna, o SEA deve ter atribuições de natureza técnico-administrativa na concretização de políticas em matéria migratória, como sejam as áreas documental, de gestão de bases de dados, de relacionamento e cooperação com outras instituições e de representação externa, designadamente no âmbito do Espaço Schengen e com as agências europeias de fronteiras e de asilo.
+
+4 - Determinar que devem transitar do SEF para a Guarda Nacional Republicana as seguintes atribuições de natureza policial:
+
+a) Vigiar, fiscalizar e controlar as fronteiras marítima e terrestre;
+
+b) Agir no âmbito de processos de afastamento coercivo e à expulsão judicial de cidadãos estrangeiros, nas áreas da sua jurisdição;
+
+c) Assegurar a realização de controlos móveis e de operações conjuntas com forças e serviços de segurança nacionais e congéneres espanhóis.
+
+5 - Estabelecer que devem transitar do SEF para a Polícia de Segurança Pública as seguintes atribuições de natureza policial:
+
+a) Vigiar, fiscalizar e controlar as fronteiras aeroportuárias e terminais de cruzeiros;
+
+b) Agir no âmbito de processos de afastamento coercivo e de expulsão judicial de cidadãos estrangeiros, nas áreas da sua jurisdição.
+
+6 - Determinar que a investigação dos crimes de auxílio à imigração ilegal, associação de auxílio à imigração ilegal, tráfico de pessoas e de outros com estes conexos deve passar a ser competência reservada da Polícia Judiciária.
+
+7 - Determinar que deve transitar do SEF para o Instituto dos Registos e Notariado, I. P. (IRN, I. P.), a competência para emitir passaportes e renovar as autorizações de residência, garantindo-se mecanismos de célere tramitação e simplificação do procedimento, incluindo o acesso pelo IRN, I. P., às bases de dados necessárias para o efeito, previstas no n.º 12.
+
+8 - Estabelecer que deve ficar salvaguardado o direito à carreira dos trabalhadores do SEF, designadamente dos trabalhadores integrados na carreira de investigação e fiscalização.
+
+9 - Prever a manutenção do regime atual de passagem à disponibilidade dos trabalhadores da carreira de investigação e fiscalização, com 55 ou mais anos de idade.
+
+10 - Aprovar, até ao final do 1.º semestre de 2021, as regras sobre os mecanismos de transição de mapas de pessoal ou exercício de funções noutros organismos, das pessoas do mapa de pessoal do SEF, nos termos do [Decreto-Lei n.º 200/2006](https://diariodarepublica.pt/dr/detalhe/decreto-lei/200-2006-545779), de 25 de outubro.
+
+11 - Determinar que as regras que estabeleçam e delimitem a possibilidade de os trabalhadores do SEF manifestarem a opção de transição para os mapas de pessoal dos órgãos ou serviços públicos que recebam competências no âmbito da reestruturação do SEF, a que se refere o número anterior, devem estabelecer o limite temporal aplicável à referida opção, o qual não pode ser posterior a 31 de dezembro de 2021.
+
+12 - Determinar que a gestão integrada das bases de dados, atualmente da responsabilidade do SEF, transite para o SEA, em articulação com a Rede Nacional de Segurança Interna, sendo garantido o acesso a todas as entidades legalmente habilitadas para tal.
+
+13 - Determinar que a presente resolução entra em vigor no dia seguinte ao da sua aprovação.
+
+Presidência do Conselho de Ministros, 8 de abril de 2021. - O Primeiro-Ministro, António Luís Santos da Costa.

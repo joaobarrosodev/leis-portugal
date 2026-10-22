@@ -1,0 +1,131 @@
+---
+schema_version: '1.0'
+id: pt:dre:381351:por
+title: Decreto-Lei n.º 264/79
+short_title: null
+summary: Estabelece normas quanto à definição e constituição de refúgios ornitológicos e áreas ornitológicas a recuperar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Habitação e Obras Públicas - Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente
+proposing_entity: null
+official_number: 264/79
+official_date: null
+publication_date: '1979-08-01'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 176/1979, Série I de 1979-08-01
+  number: '176'
+  series: I
+  supplement: null
+  pages: 1770 - 1770
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/08/17600/17701770.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '381351'
+  dre_path: /dr/detalhe/decreto-lei/264-1979-381351
+  internal: pt:dre:381351:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1979-381351
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/264-1979-381351
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2008-07-24T00:00:00Z'
+integrity:
+  source_sha256: f1d9d1bfcd3606f904cf718e56dac870142e4a7b9a2e50b4d9c16c9201a2520a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-264-381351.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:454502:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 264/79
+
+de 1 de Agosto
+
+Já alguma legislação vigora em Portugal com o objectivo de preservar valores naturais, nomeadamente florísticos, faunísticos, geológicos e paisagísticos, salientando-se neste aspecto o [Decreto-Lei n.º 613/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/613-1976-430785), de 27 de Julho, o qual dá competência à Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente para propor ao Conselho de Ministros a definição e constituição de parques nacionais ou naturais, reservas naturais, paisagísticas ou de recreio, objectos, conjuntos, sítios e lugares classificados, bem como áreas que especialmente garantam o equilíbrio biológico da paisagem regional.
+
+A protecção e defesa das aves foi contemplada na referida legislação apenas parcialmente e com carácter genérico, havendo, porém, alguns aspectos fundamentais para a vida das aves sobre os quais deverão incidir medidas específicas de protecção e de defesa.
+
+Nestes termos:
+
+O Governo decreta, ao abrigo da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º Compete à Secretaria de Estado do Ordenamento Físico, Recursos Hídricos e Ambiente, ouvidos os diversos departamentos ministeriais, propor ao Conselho de Ministros a definição e constituição de:
+
+a) Refúgios ornitológicos;
+
+b) Áreas ornitológicas a recuperar.
+
+###### Art. 2.º - 1 - Define-se por refúgio ornitológico uma área onde existem boas condições de nidificação, criação ou migração de uma ou mais espécies de aves e se procura, com essa finalidade, acautelar determinados conjuntos naturais bem definidos.
+
+2 - Por área ornitológica a recuperar entende-se uma área outrora com boas condições de nidificação, criação ou migração de aves, considerada de muito interesse nesse aspecto em relação a uma ou mais espécies de aves, para cuja recuperação se exige a promulgação de medidas especiais.
+
+###### Art. 3.º - 1 - A criação de refúgios ornitológicos e de áreas ornitológicas a recuperar efectua-se por proposta do proprietário de áreas aptas para esses fins ou do Serviço Nacional de Parques, Reservas e Património Paisagístico e depende de prévio acordo entre ambos.
+
+2 - A gestão daquelas áreas caberá ao proprietário do local onde forem definidas, mas depende da observância dos regulamentos outorgados pelo SNPRPP, tendo em conta os condicionalismos locais.
+
+3 - O SNPRPP poderá tomar a iniciativa de melhoramentos nos refúgios ou áreas, como, por exemplo, a aquisição e colocação de ninhos, comedouros, poisos, criação de observatórios e outros equipamentos através de comparticipação, caso se justifique.
+
+###### Art. 4.º - 1 - Nos refúgios ornitológicos e nas áreas ornitológicas a recuperar poderão efectuar-se actividades agrícolas, florestais ou outras compatíveis com a fase de vida das aves.
+
+2 - Deverá, no entanto, assegurar-se a manutenção ou a melhoria do tipo e densidade do coberto vegetal, propício à vida das aves.
+
+3 - Naquelas áreas é absolutamente proibido caçar e destruir aves e ninhos.
+
+4 - Poderão ser ainda considerados aspectos de estudo e didácticos.
+
+###### Art. 5.º Cessa a classificação de refúgio ornitológico ou de área ornitológica a recuperar por deixarem de existir as condições necessárias que justificaram a sua criação ou por acordo com o proprietário da respectiva área.
+
+Carlos Alberto da Mota Pinto - João Orlindo Almeida Pina.
+
+**Promulgado em 16 de Julho de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

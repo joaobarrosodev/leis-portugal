@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:176293:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2012-946777188",
+ "dre_path": "/dr/detalhe/portaria/282-2012-176293",
+ "source_lastmod": "2025-11-17",
+ "versions": [
+  {
+   "date": "2012-09-17",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "946777275",
+    "946777276",
+    "946777277",
+    "946777278",
+    "946777279",
+    "946777280",
+    "946777281",
+    "946777282",
+    "946777283",
+    "946777284",
+    "946777285",
+    "946777286",
+    "946777287"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:946529340:por",
+     "title": "Portaria n.º 399/2025/1",
+     "published": "2025-11-17",
+     "dre_path": "/dr/detalhe/portaria/399-2025-946529340",
+     "date": "2025-07-01"
+    }
+   ]
+  }
+ ],
+ "fragments": {
+  "946777275": {
+   "fragment_id": "946777190",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 282/2012\n\nde 17 de setembro\n\nO Decreto Regulamentar n.º 31/2012, de 13 de março, definiu a missão, as atribuições e o tipo de organização interna da Direção-Geral de Alimentação e Veterinária (DGAV).\n\nImporta agora, no desenvolvimento daquele decreto regulamentar, determinar a estrutura nuclear e estabelecer o número máximo de unidades orgânicas flexíveis do serviço e as competências das respetivas unidades orgânicas nucleares.\n\nAssim:\n\nAo abrigo do disposto nos n.os 4 e 5 do artigo 21.º da Lei n.º 4/2004, de 15 de janeiro, manda o Governo, pelos Ministros de Estado e das Finanças e da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o seguinte:\n\n> Nota: [Artigo 4.º, Portaria n.º 399/2025/1 - Diário da República n.º 222/2025, Série I de 2025-11-17](https://diariodarepublica.pt/dr/detalhe/portaria/399-2025-946529340) O pessoal dirigente em exercício de funções à data da entrada em vigor da presente portaria mantém-se até à designação de novos titulares."
+  },
+  "946777276": {
+   "fragment_id": "946777191",
+   "type": 11,
+   "heading": "Artigo 1.º — Estrutura nuclear da Direção-Geral de Alimentação e Veterinária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Estrutura nuclear da Direção-Geral de Alimentação e Veterinária\n\n1 - A Direção-Geral de Alimentação e Veterinária estrutura-se nas seguintes unidades orgânicas nucleares:\n\na) Direção de Serviços de Gestão e Administração;\n\nb) Direção de Serviços de Estratégia, Comunicação e Internacionalização;\n\nc) Direção de Serviços de Proteção Animal;\n\nd) Direção de Serviços de Sanidade Vegetal;\n\ne) Direção de Serviços de Nutrição e Alimentação;\n\nf) Direção de Serviços de Segurança Alimentar;\n\ng) Direção de Serviços de Meios de Defesa Sanitária.\n\n2 - Integram ainda a estrutura nuclear as seguintes unidades orgânicas desconcentradas:\n\na) Direção de Serviços de Alimentação e Veterinária da Região do Norte;\n\nb) Direção de Serviços de Alimentação e Veterinária da Região do Centro;\n\nc) Direção de Serviços de Alimentação e Veterinária da Região de Lisboa e Vale do Tejo;\n\nd) Direção de Serviços de Alimentação e Veterinária da Região do Alentejo;\n\ne) Direção de Serviços de Alimentação e Veterinária da Região do Algarve.\n\n3 - As unidades orgânicas referidas nos números anteriores são dirigidas por diretores de serviço, cargos de direção intermédia de 1.º grau."
+  },
+  "946777277": {
+   "fragment_id": "946777192",
+   "type": 11,
+   "heading": "Artigo 2.º — Direção de Serviços de Gestão e Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Direção de Serviços de Gestão e Administração\n\nÀ Direção de Serviços de Gestão e Administração, abreviadamente designada por DSGA, compete:\n\na) Preparar as propostas de orçamento da DGAV e assegurar a gestão dos recursos financeiros bem como o controlo orçamental;\n\nb) Elaborar a conta anual de gerência, bem como o relatório anual sobre a gestão efetuada;\n\nc) Elaborar e acompanhar a execução anual do orçamento do Programa de Investimento e Despesas de Desenvolvimento da Administração Central (PIDDAC);\n\nd) Gerir os recursos humanos da DGAV, incluindo a elaboração do balanço social e a coordenação da avaliação de desempenho;\n\ne) Programar, coordenar e executar o plano de formação da DGAV, incluindo os estágios profissionais especializados e realizar ações de formação dirigidas a outras entidades;\n\nf) Assegurar as tarefas inerentes à gestão documental, incluindo a receção, classificação, expedição e arquivo do expediente, bem como uma adequada circulação de documentos pelas diversas unidades orgânicas da DGAV;\n\ng) Elaborar e executar os processos de aquisição de bens e serviços, gerir o aprovisionamento de stocks e promover a sua distribuição pelas diversas unidades orgânicas, bem como manter atualizado o inventário da DGAV;\n\nh) Zelar pela conservação dos edifícios e outras instalações, bem como assegurar a gestão e manutenção do parque de viaturas;\n\ni) Assegurar o funcionamento dos serviços de limpeza e segurança;\n\nj) Planear, coordenar e executar os trabalhos de conceção e implementação de sistemas de informação, definindo as normas para o desenvolvimento das aplicações, bem como administrar os sistemas e bases de dados assegurando a coerência e fiabilidade dos dados;\n\nk) Gerir a infraestrutura informática e de comunicações de voz e dados, definindo e aplicando mecanismos de segurança, confidencialidade e integridade da informação disponibilizada em rede;\n\nl) Administrar os sistemas e bases de dados centrais, bem como a componente nacional do sistema TRACES (Trade Control and Expert System)."
+  },
+  "946777278": {
+   "fragment_id": "946777193",
+   "type": 11,
+   "heading": "Artigo 3.º — Direção de Serviços de Estratégia, Comunicação e Internacionalização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Direção de Serviços de Estratégia, Comunicação e Internacionalização\n\nÀ Direção de Serviços de Estratégia, Comunicação e Internacionalização, abreviadamente designada por DSECI, compete:\n\na) Propor as orientações para a definição dos objetivos estratégicos da DGAV, bem como o planeamento das medidas adequadas para os implementar;\n\nb) Preparar e coordenar o Plano Nacional de Controlo Oficial Plurianual Integrado e das Missões do Serviço Alimentar e Veterinário da União Europeia (FVO);\n\nc) Atribuir o número e manter atualizadas as listas de operador/recetor de trocas intracomunitárias da cadeia alimentar, do comércio de animais e dos produtos animais;\n\nd) Coordenar o Sistema de Alerta Rápido (RASFF);\n\ne) Acompanhar as auditorias externas nas matérias da competência da DGAV;\n\nf) Acompanhar o desenvolvimento das políticas da União Europeia relacionadas com as áreas de competência da DGAV e coordenar a emissão de pareceres e respostas às solicitações externas;\n\ng) Coordenar as ações no âmbito da DGAV respeitantes à apresentação de dossiers conducentes à negociação de acordos com países terceiros;\n\nh) Coordenar o sistema de certificação de animais, produtos de origem animal, produtos animais e subprodutos;\n\ni) Definir, coordenar e avaliar o funcionamento dos PIF e as medidas de gestão de risco das atividades relacionadas com a importação, exportação de produtos e subprodutos de origem animal, bem como nas trocas intracomunitárias, tendo em vista a proteção da sanidade animal e a salvaguarda da saúde pública;\n\nj) Efetuar ações de acompanhamento e formular propostas e recomendações relativas ao controlo de Programas Nacionais e Comunitários, incluindo a coordenação e a gestão do Programa Medidas Veterinárias;\n\nk) Assegurar a coordenação da elaboração dos instrumentos de planeamento, gestão e avaliação da DGAV;\n\nl) Gerir a imagem da DGAV e assegurar a recolha, produção e disponibilização de conteúdos informativos;\n\nm) Conceber, estruturar e organizar um sistema de informação estatística que suporte o reconhecimento da DGAV como fonte oficial de dados junto do Instituto Nacional de Estatística (INE);\n\nn) Gerir a informação e documentação, bem como o acervo bibliográfico da DGAV."
+  },
+  "946777279": {
+   "fragment_id": "946777194",
+   "type": 11,
+   "heading": "Artigo 4.º — Direção de Serviços de Proteção Animal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Direção de Serviços de Proteção Animal\n\nÀ Direção de Serviços de Proteção Animal, abreviadamente designada por DSPA, compete:\n\na) Regulamentar e coordenar as medidas de saúde e proteção animal;\n\nb) Elaborar, coordenar e acompanhar os programas de vigilância, controlo e erradicação de doenças animais, as campanhas sanitárias, os planos de alerta, bem como os sistemas de informação que os suportam;\n\nc) Elaborar e coordenar os Planos de Controlo de Saúde e Proteção Animal;\n\nd) Promover análises epidemiológicas e o tratamento de informação nosológica das doenças animais e a sua notificação, nacional, comunitária e internacional;\n\ne) Coordenar o funcionamento do sistema de recolha de cadáveres de ruminantes;\n\nf) Assegurar o controlo higio-sanitário na movimentação dos animais, na utilização dos meios de transporte, nos locais de concentração, de apresentação ou de exposição, bem como o controlo sanitário dos centros de inseminação artificial e das equipas de transferência de embriões;\n\ng) Assegurar a emissão de pareceres relativos aos alojamentos e manutenção de animais, nomeadamente, nas explorações, nos centros de agrupamento, nas unidades destinadas a experimentação animal e em parques zoológicos, em conformidade com as disposições regulamentares nacionais e internacionais relativas à saúde e proteção e animal;\n\nh) Registar e emitir licenças, alvarás ou outras autorizações de funcionamento nomeadamente relativas a alojamentos de animais de companhia, de animais destinados a fins experimentais, centros de atendimento médico veterinário (CAMV), instalações de limpeza e desinfeção de veículos utilizados no transporte de animais vivos, bem como dos transportadores;\n\ni) Articular com outras instituições e serviços as ações relativas à deteção, tratamento ou prevenção e luta contra doenças emergentes zoonóticas e epizoóticas;\n\nj) Coordenar o funcionamento do Sistema Nacional de Informação e Registo Animal (SNIRA) e do Sistema de Identificação de Canídeos e Felídeos (SICAFE);\n\nk) Definir as normas técnicas de identificação e circulação animal;\n\nl) Conceber e coordenar a emissão da documentação de identificação e circulação animal;\n\nm) Definir as regras para o registo das atividades pecuá-rias e seus efetivos e manter atualizados os mesmos."
+  },
+  "946777280": {
+   "fragment_id": "946777195",
+   "type": 11,
+   "heading": "Artigo 5.º — Direção de Serviços de Sanidade Vegetal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Direção de Serviços de Sanidade Vegetal\n\nÀ Direção de Serviços de Sanidade Vegetal, abreviadamente designada por DSSV, compete:\n\na) Regulamentar, coordenar e implementar as medidas fitossanitárias destinadas a evitar a introdução, dispersão e estabelecimento de organismos prejudiciais aos vegetais e produtos vegetais considerados de quarentena no território nacional e comunitário e assegurar a aplicação de legislação fitossanitária;\n\nb) Coordenar e assegurar as atividades de inspeção fitossanitária, proceder ao registo dos operadores económicos, propor a designação de inspetores fitossanitários das áreas agrícola e florestal e implementar os procedimentos necessários à emissão dos passaportes e dos certificados fitossanitários;\n\nc) Assegurar a deteção e identificação de pragas e patogéneos dos vegetais e produtos vegetais no âmbito da inspeção fitossanitária e a execução das análises e ensaios de sementes;\n\nd) Apoiar o funcionamento dos postos de inspeção fitossanitária fronteiriços, tendo em vista a importação e exportação de mercadorias de natureza vegetal;\n\ne) Regulamentar, coordenar e implementar as atividades técnicas relativas à execução dos esquemas de controlo e certificação de sementes e de outros materiais de multiplicação de plantas de espécies agrícolas, de hortícolas, de videira, de fruteiras e de ornamentais destinadas à comercialização e proceder ao licenciamento das respetivas entidades envolvidas;\n\nf) Assegurar a articulação com os Catálogos Comunitários de variedades de espécies hortícolas, agrícolas, de videira e de fruteiras, e com a Lista de Variedades Admitidas à Certificação da OCDE, promover a realização de ensaios e a inscrição de variedades a admitir à certificação e proceder à apreciação e atribuição do direito de obtentor de variedades vegetais;\n\ng) Gerir o Núcleo de Ensaios e de Controlo do Escaroupim (NECE);\n\nh) Regulamentar, coordenar, acompanhar e prestar o apoio necessário ao cultivo de variedades vegetais geneticamente modificadas no país e assegurar as respetivas atividades de controlo;\n\ni) Assegurar a articulação, no âmbito das suas competências, com as direções regionais de agricultura e pescas, bem como outras entidades nacionais."
+  },
+  "946777281": {
+   "fragment_id": "946777196",
+   "type": 11,
+   "heading": "Artigo 6.º — Direção de Serviços de Nutrição e Alimentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Direção de Serviços de Nutrição e Alimentação\n\nÀ Direção de Serviços de Nutrição e Alimentação, abreviadamente designada por DSNA, compete:\n\na) Acompanhar e propor as medidas de política relativas à qualidade e segurança alimentar, aos materiais em contacto com géneros alimentícios e as respetivas matérias-primas, ingredientes e aditivos;\n\nb) Coordenar e executar e avaliar as medidas e ações desenvolvidas no âmbito da certificação e controlo da qualidade, genuinidade, não contaminação radioativa e conformidade dos géneros alimentícios e dos materiais e embalagens destinados a contactar com os géneros alimentícios;\n\nc) Assegurar a regulamentação e implementação das políticas comunitárias aplicáveis às matérias-primas, ingredientes alimentares, aditivos alimentares, aromas e enzimas alimentares, contaminantes agrícolas, industriais e ambientais, rotulagem geral, rotulagem nutricional, rotulagens específicas de caráter obrigatório, alegações nutricionais e de saúde, à adição de vitaminas e sais minerais e de outras substâncias aos géneros alimentícios, suplementos alimentares, organismos geneticamente modificados destinados à alimentação humana e animal, novos alimentos e novos ingredientes alimentares e aos materiais em contacto com géneros alimentícios;\n\nd) Promover a elaboração da regulamentação nacional na área alimentar, nomeadamente sobre características/normas de comercialização, processos de fabrico e rotulagem dos géneros alimentícios;\n\ne) Coordenar e executar a implementação das políticas nacionais e comunitárias aplicáveis às bebidas espirituosas de origem não vínica, nomeadamente na área da rotulagem e identificação dos operadores-distribuidores embaladores;\n\nf) Regulamentar e verificar as atividades de produção, de introdução no mercado e de utilização dos alimentos para animais."
+  },
+  "946777282": {
+   "fragment_id": "946777197",
+   "type": 11,
+   "heading": "Artigo 7.º — Direção de Serviços de Segurança Alimentar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Direção de Serviços de Segurança Alimentar\n\nÀ Direção de Serviços de Segurança Alimentar, abreviadamente designada por DSSA, compete:\n\na) Participar na definição, aplicação e avaliação das políticas de saúde pública;\n\nb) Definir e coordenar a estratégia na gestão de risco com vista à promoção da segurança dos produtos, em todas as fases da cadeia que envolvem a manipulação de géneros alimentícios e subprodutos, desde a produção primária ao consumidor;\n\nc) Definir e coordenar a execução das normas de funcionamento dos controlos oficiais e da inspeção higio-sanitária;\n\nd) Coordenar os procedimentos na aprovação de estabelecimentos que laboram produtos e subprodutos alimentares;\n\ne) Validar as propostas de atribuição, suspensão ou cancelamento dos números de aprovação (número de controlo veterinário), e das atividades que lhes estão subjacentes, a estabelecimentos de produtos e subprodutos de origem animal, bem como a sua divulgação oficial;\n\nf) Conceber o Plano Nacional de Pesquisa de Resíduos, coordenar e avaliar a sua execução;\n\ng) Definir, coordenar e cooperar com outras instituições na implementação dos sistemas de monitorização dos perigos biológicos e químicos dos géneros alimentícios;\n\nh) Assegurar, em articulação com outros organismos, a coordenação dos controlos oficiais aos estabelecimentos, aos géneros alimentícios e subprodutos;\n\ni) Definir, coordenar e avaliar as medidas de gestão de risco, tendo em vista a proteção da sanidade animal e vegetal bem como a salvaguarda da saúde pública;\n\nj) Emitir pareceres científicos e técnicos e recomendações, nomeadamente em matérias relacionadas com a segurança alimentar e com a gestão dos subprodutos."
+  },
+  "946777283": {
+   "fragment_id": "946777198",
+   "type": 11,
+   "heading": "Artigo 8.º — Direção de Serviços de Meios de Defesa Sanitária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Direção de Serviços de Meios de Defesa Sanitária\n\nÀ Direção de Serviços de Meios de Defesa Sanitária, abreviadamente designada por DSMDS, compete:\n\na) Avaliar a qualidade, a segurança e a eficácia dos medicamentos, dos produtos e dos biocidas de uso veterinário, propondo ao diretor-geral a concessão de autorização de introdução no mercado, suas alterações e renovações;\n\nb) Propor a concessão de autorização do fabrico, importação, exportação, distribuição, comercialização, utilização especial e ensaios de medicamentos veterinários;\n\nc) Definir e assegurar o cumprimento das normas a que devem obedecer o fabrico, a autorização de venda, a importação, a exportação, a comercialização e a publicidade de produtos de uso veterinário;\n\nd) Assegurar o cumprimento das normas e procedimentos a que deve obedecer a colocação no mercado de produtos biocidas de uso veterinário e participação no procedimento para criação a nível comunitário de uma lista positiva de substâncias ativas que podem ser utilizadas naqueles produtos;\n\ne) Definir e assegurar o cumprimento das condições de fabrico, colocação no mercado e utilização de alimentos medicamentosos para animais;\n\nf) Regulamentar a aquisição, detenção, posse e utilização de medicamentos veterinários, designadamente no que respeita à proibição da utilização de certas substâncias em produção animal e definir o Plano Nacional de Controlo de Utilização de Medicamentos destinados a animais de produção;\n\ng) Manter em funcionamento o Sistema Nacional de Farmacovigilância Veterinária;\n\nh) Colaborar na elaboração do Plano Nacional de Controlo de Resíduos;\n\ni) Assegurar a coordenação e implementação das atividades no âmbito da autorização da colocação no mercado de produtos fitofarmacêuticos e de produtos biocidas preservadores de madeira, assim como outras medidas necessárias à regulação dos referidos setores;\n\nj) Promover, autorizar e acompanhar as atividades de experimentação necessárias ao estudo das características dos produtos fitofarmacêuticos nas áreas do comportamento biológico, da exposição do aplicador, das técnicas de aplicação e do impacte nos ecossistemas, tendo em vista a definição de boas práticas agrícolas e apoio à autorização de produtos fitofarmacêuticos e biocidas preservadores de madeira;\n\nk) Promover e coordenar as atividades relativas ao controlo da qualidade dos produtos fitofarmacêuticos e de produtos biocidas preservadores da madeira;\n\nl) Promover a conceção e coordenar a execução dos programas nacionais e comunitários de controlo de resíduos de pesticidas em produtos alimentares de origem vegetal;\n\nm) Assegurar a avaliação do risco para o consumidor dos produtos agrícolas tratados com produtos fitofarmacêuticos;\n\nn) Garantir, no âmbito das autorizações de produtos fitofarmacêuticos concedidas a nível nacional, o respeito dos limites máximos de resíduos estabelecidos a nível comunitário, bem como propor o estabelecimento ou alteração de limites máximos de resíduos, quando relevante para as práticas agrícolas nacionais;\n\no) Coordenar e promover a implementação da legislação nacional e comunitária relativa ao uso sustentável de produtos fitofarmacêuticos, e os respetivos planos de ação nacionais;\n\np) Promover e coordenar as atividades técnicas inerentes à implementação dos modos de proteção ambientalmente sustentáveis, nomeadamente da proteção integrada das culturas;\n\nq) Coordenar e garantir o funcionamento das atividades técnicas do Serviço Nacional dos Avisos Agrícolas (SNAA), promovendo a utilização de métodos de previsão atualizados;\n\nr) Promover e colaborar em atividades de suporte ao estabelecimento de meios de luta e validação de modelos de previsão e evolução de organismos prejudiciais aos vegetais e produtos vegetais;\n\ns) Assegurar a articulação, no âmbito das suas competências, com as direções regionais de agricultura e pescas, bem como outras entidades nacionais."
+  },
+  "946777284": {
+   "fragment_id": "946777199",
+   "type": 11,
+   "heading": "Artigo 9.º — Direções de Serviços de Alimentação e Veterinária Regionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Direções de Serviços de Alimentação e Veterinária Regionais\n\nÀs Direções de Serviços de Alimentação e Veterinária Regionais, abreviadamente designadas por DSAVR, compete, no âmbito das respetivas áreas geográficas, assegurar a execução das ações, planos e programas definidos pelos serviços centrais da DGAV."
+  },
+  "946777285": {
+   "fragment_id": "946777200",
+   "type": 11,
+   "heading": "Artigo 10.º — Unidades orgânicas flexíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Unidades orgânicas flexíveis\n\nO número máximo de unidades flexíveis da DGAV é fixado em 38."
+  },
+  "946777286": {
+   "fragment_id": "946777201",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nSão revogadas as Portarias n.os 129-F/2007, de 28 de fevereiro, e 1341/2007, de 11 de outubro."
+  },
+  "946777287": {
+   "fragment_id": "946777202",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação."
+  }
+ }
+}

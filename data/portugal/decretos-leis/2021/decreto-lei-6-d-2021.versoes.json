@@ -1,0 +1,229 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:154202311:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2021-154328475",
+ "dre_path": "/dr/detalhe/decreto-lei/6-d-2021-154202311",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-01-15",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "202172470",
+    "154229136",
+    "154229137",
+    "154229138",
+    "154229139",
+    "154229140",
+    "154229141"
+   ]
+  },
+  {
+   "date": "2021-12-24",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176492316:por",
+     "title": "Decreto-Lei n.º 119-B/2021",
+     "published": "2021-12-23",
+     "dre_path": "/dr/detalhe/decreto-lei/119-b-2021-176492316"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º"
+   ],
+   "fragments": [
+    "154229135",
+    "154229136",
+    "202172469",
+    "154229138",
+    "154229139",
+    "154229140",
+    "154229141",
+    "154229142"
+   ]
+  },
+  {
+   "date": "2022-10-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:201773286:por",
+     "title": "Decreto-Lei n.º 66-A/2022",
+     "published": "2022-09-30",
+     "dre_path": "/dr/detalhe/decreto-lei/66-a-2022-201773286"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "202172470",
+    "202172471",
+    "202172472",
+    "202172473",
+    "202172474",
+    "202180375",
+    "202180376",
+    "202180377"
+   ]
+  }
+ ],
+ "fragments": {
+  "202172470": {
+   "fragment_id": "154328476",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2022-10-01",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 6-D/2021\n\nde 15 de janeiro\n\nSumário: Prorroga o prazo dos regimes excecionais de medidas aplicáveis às autarquias locais no âmbito da pandemia da doença COVID-19.\n\nCom o agravamento da situação epidemiológica e a consequente declaração do estado de emergência pelo Decreto do Presidente da República n.º 51-U/2020, de 6 de novembro, entretanto renovado, o qual condicionou direitos à liberdade e de deslocação e, bem assim, de iniciativa privada, social e cooperativa. Neste contexto, a intervenção de proximidade prestada pelas autarquias locais consolida-se como indispensável no apoio aos munícipes e às entidades que constituem o suporte da economia local e contribuem para a estrutura social dos municípios, como seja o pequeno comércio local, designadamente os estabelecimentos na área da restauração.\n\nO indispensável contributo das autarquias no combate à pandemia e as consequências desta justificaram a aprovação, por iniciativa do Governo, de um conjunto de medidas excecionais através das Leis n.os 1-A/2020, de 19 de março, 4-B/2020, de 6 de abril, 6/2020, de 10 de abril, e respetivas alterações, bem como do Decreto-Lei n.º 10-A/2020, de 13 de março, nas suas sucessivas redações.\n\nEntendendo que se mantém a atualidade destes regimes excecionais, e dispondo o Governo de uma autorização legislativa para os prorrogar até 31 de dezembro de 2021, nos termos do artigo 131.º da Lei n.º 75-B/2020, de 31 de dezembro, que aprova o Orçamento do Estado para 2021, propõe-se agora assegurar os efeitos de um conjunto de medidas que permitem a agilização de procedimentos de caráter administrativo, bem como a simplificação do regime financeiro das autarquias locais e das entidades intermunicipais para que logrem assegurar a resposta à pandemia.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 131.º da Lei n.º 75-B/2020, de 31 de dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "154229136": {
+   "fragment_id": "154328477",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À prorrogação de alguns artigos da Lei n.º 1-A/2020, de 19 de março, que estabelece medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARS-CoV-2 e da doença COVID-19;\n\nb) À terceira alteração à Lei n.º 4-B/2020, de 6 de abril, que estabelece um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal e de endividamento das autarquias locais, no âmbito da pandemia da doença COVID-19;\n\nc) À terceira alteração à Lei n.º 6/2020, de 10 de abril, que estabelece um regime excecional para promover a capacidade de resposta das autarquias locais no âmbito da pandemia da doença COVID-19;\n\nd) À vigésima sexta alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo coronavírus - COVID-19."
+  },
+  "154229137": {
+   "fragment_id": "154328478",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação da Lei n.º 1-A/2020, de 19 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Prorrogação da Lei n.º 1-A/2020, de 19 de março\n\nO disposto nos artigos 3.º-B, 4.º e 6.º da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, é prorrogado, na parte aplicável às autarquias locais e às entidades intermunicipais, nos seguintes termos:\n\na) O artigo 3.º-B é aplicável em 2021;\n\nb) A permissão prevista no n.º 1 do artigo 4.º é aplicável até 30 de junho de 2021;\n\nc) Os n.os 1 e 2 do artigo 6.º são aplicáveis até 31 de dezembro de 2021."
+  },
+  "154229138": {
+   "fragment_id": "154328479",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração à Lei n.º 4-B/2020, de 6 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Alteração à Lei n.º 4-B/2020, de 6 de abril\n\nOs artigos 3.º-B, 3.º-C e 10.º da Lei n.º 4-B/2020, de 6 de abril, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 3.º-B\n\n[...]\n\n1 - É facultada aos municípios uma moratória, até 31 de dezembro de 2021, das prestações do capital a realizar em 2020 e em 2021, nos termos do n.º 1 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, conjugado com o n.º 5 do mesmo artigo.\n\n2 - Ao reembolso do empréstimo garantido pelo Estado, por via da Direção-Geral do Tesouro e Finanças, nos termos do n.º 2 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, é aplicada uma moratória até 31 de dezembro de 2021, nas prestações a vencer em 2021.\n\n3 - ...\n\nArtigo 3.º-C\n\n[...]\n\n1 - É facultada aos municípios com empréstimos de assistência financeira a decorrer, nos termos dos artigos 45.º e 46.º da Lei n.º 53/2014, de 25 de agosto, a possibilidade de beneficiarem de uma moratória, até 31 de dezembro de 2021, da amortização do capital vencido e vincendo em 2020 e 2021.\n\n2 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - ...\n\n2 - O disposto nos artigos 2.º, 3.º, 4.º e 5.º vigora até 31 de dezembro de 2021.»"
+  },
+  "154229139": {
+   "fragment_id": "154328480",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 6/2020, de 10 de abril",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 6/2020, de 10 de abril\n\nO artigo 10.º da Lei n.º 6/2020, de 10 de abril, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - O disposto nos artigos 3.º, 7.º-A a 7.º-E e no n.º 2 do artigo 6.º vigora até 30 de junho de 2021.\n\n3 - O disposto nos artigos 2.º, 4.º a 7.º, 7.º-F e 8.º e no n.º 1 do artigo 6.º vigora até 31 de dezembro de 2021.»"
+  },
+  "154229140": {
+   "fragment_id": "154328481",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março\n\nO artigo 37.º-A do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 37.º-A\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O disposto no artigo 35.º-U vigora até 31 de dezembro de 2021.»"
+  },
+  "154229141": {
+   "fragment_id": "154328482",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de janeiro de 2021."
+  },
+  "154229135": {
+   "fragment_id": "154328476",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 6-D/2021\n\nde 15 de janeiro\n\nSumário: Prorroga o prazo dos regimes excecionais de medidas aplicáveis às autarquias locais no âmbito da pandemia da doença COVID-19.\n\nCom o agravamento da situação epidemiológica e a consequente declaração do estado de emergência pelo Decreto do Presidente da República n.º 51-U/2020, de 6 de novembro, entretanto renovado, o qual condicionou direitos à liberdade e de deslocação e, bem assim, de iniciativa privada, social e cooperativa. Neste contexto, a intervenção de proximidade prestada pelas autarquias locais consolida-se como indispensável no apoio aos munícipes e às entidades que constituem o suporte da economia local e contribuem para a estrutura social dos municípios, como seja o pequeno comércio local, designadamente os estabelecimentos na área da restauração.\n\nO indispensável contributo das autarquias no combate à pandemia e as consequências desta justificaram a aprovação, por iniciativa do Governo, de um conjunto de medidas excecionais através das Leis n.os 1-A/2020, de 19 de março, 4-B/2020, de 6 de abril, 6/2020, de 10 de abril, e respetivas alterações, bem como do Decreto-Lei n.º 10-A/2020, de 13 de março, nas suas sucessivas redações.\n\nEntendendo que se mantém a atualidade destes regimes excecionais, e dispondo o Governo de uma autorização legislativa para os prorrogar até 31 de dezembro de 2021, nos termos do artigo 131.º da Lei n.º 75-B/2020, de 31 de dezembro, que aprova o Orçamento do Estado para 2021, propõe-se agora assegurar os efeitos de um conjunto de medidas que permitem a agilização de procedimentos de caráter administrativo, bem como a simplificação do regime financeiro das autarquias locais e das entidades intermunicipais para que logrem assegurar a resposta à pandemia.\n\nForam ouvidas a Associação Nacional de Municípios Portugueses e a Associação Nacional de Freguesias.\n\nAssim:\n\nNo uso da autorização legislativa concedida pelo artigo 131.º da Lei n.º 75-B/2020, de 31 de dezembro, e nos termos das alíneas a) e b) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "202172469": {
+   "fragment_id": "154328478",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação da Lei n.º 1-A/2020, de 19 de março",
+   "in_force_from": "2021-12-24",
+   "changed_by": [
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 2.º — Prorrogação da Lei n.º 1-A/2020, de 19 de março\n\nO disposto nos artigos 3.º-B, 4.º e 6.º da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, é prorrogado, na parte aplicável às autarquias locais e às entidades intermunicipais, nos seguintes termos:\n\na) O artigo 3.º-B é aplicável em 2021;\n\nb) A permissão prevista no n.º 1 do artigo 4.º é aplicável até 30 de junho de 2021;\n\nc) (Revogada.)\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+  },
+  "154229142": {
+   "fragment_id": "154328483",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão.\n\nPromulgado em 14 de janeiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 14 de janeiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113890483"
+  },
+  "202172471": {
+   "fragment_id": "154328477",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente decreto-lei procede:\n\na) À prorrogação de alguns artigos da Lei n.º 1-A/2020, de 19 de março, que estabelece medidas excecionais e temporárias de resposta à situação epidemiológica provocada pelo coronavírus SARS-CoV-2 e da doença COVID-19;\n\nb) À terceira alteração à Lei n.º 4-B/2020, de 6 de abril, que estabelece um regime excecional de cumprimento das medidas previstas nos Programas de Ajustamento Municipal e de endividamento das autarquias locais, no âmbito da pandemia da doença COVID-19;\n\nc) À terceira alteração à Lei n.º 6/2020, de 10 de abril, que estabelece um regime excecional para promover a capacidade de resposta das autarquias locais no âmbito da pandemia da doença COVID-19;\n\nd) À vigésima sexta alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo coronavírus - COVID-19.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172472": {
+   "fragment_id": "154328478",
+   "type": 11,
+   "heading": "Artigo 2.º — Prorrogação da Lei n.º 1-A/2020, de 19 de março",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01",
+    "Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+   ],
+   "markdown": "###### Artigo 2.º — Prorrogação da Lei n.º 1-A/2020, de 19 de março\n\nO disposto nos artigos 3.º-B, 4.º e 6.º da Lei n.º 1-A/2020, de 19 de março, na sua redação atual, é prorrogado, na parte aplicável às autarquias locais e às entidades intermunicipais, nos seguintes termos:\n\na) O artigo 3.º-B é aplicável em 2021;\n\nb) A permissão prevista no n.º 1 do artigo 4.º é aplicável até 30 de junho de 2021;\n\nc) (Revogada.)\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01\n\n> Alterado pelo/a Artigo 9.º do/a [Decreto-Lei n.º 119-B/2021 - Diário da República n.º 247/2021, 1º Suplemento, Série I de 2021-12-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/119-b-2021-176492316), em vigor a partir de 2021-12-24"
+  },
+  "202172473": {
+   "fragment_id": "154328479",
+   "type": 11,
+   "heading": "Artigo 3.º — Alteração à Lei n.º 4-B/2020, de 6 de abril",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 3.º — Alteração à Lei n.º 4-B/2020, de 6 de abril\n\nOs artigos 3.º-B, 3.º-C e 10.º da Lei n.º 4-B/2020, de 6 de abril, na sua redação atual, passam a ter a seguinte redação:\n\n«Artigo 3.º-B\n\n[...]\n\n1 - É facultada aos municípios uma moratória, até 31 de dezembro de 2021, das prestações do capital a realizar em 2020 e em 2021, nos termos do n.º 1 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, conjugado com o n.º 5 do mesmo artigo.\n\n2 - Ao reembolso do empréstimo garantido pelo Estado, por via da Direção-Geral do Tesouro e Finanças, nos termos do n.º 2 do artigo 19.º da Lei n.º 53/2014, de 25 de agosto, é aplicada uma moratória até 31 de dezembro de 2021, nas prestações a vencer em 2021.\n\n3 - ...\n\nArtigo 3.º-C\n\n[...]\n\n1 - É facultada aos municípios com empréstimos de assistência financeira a decorrer, nos termos dos artigos 45.º e 46.º da Lei n.º 53/2014, de 25 de agosto, a possibilidade de beneficiarem de uma moratória, até 31 de dezembro de 2021, da amortização do capital vencido e vincendo em 2020 e 2021.\n\n2 - ...\n\nArtigo 10.º\n\n[...]\n\n1 - ...\n\n2 - O disposto nos artigos 2.º, 3.º, 4.º e 5.º vigora até 31 de dezembro de 2021.»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202172474": {
+   "fragment_id": "154328480",
+   "type": 11,
+   "heading": "Artigo 4.º — Alteração à Lei n.º 6/2020, de 10 de abril",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 4.º — Alteração à Lei n.º 6/2020, de 10 de abril\n\nO artigo 10.º da Lei n.º 6/2020, de 10 de abril, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 10.º\n\n[...]\n\n1 - ...\n\n2 - O disposto nos artigos 3.º, 7.º-A a 7.º-E e no n.º 2 do artigo 6.º vigora até 30 de junho de 2021.\n\n3 - O disposto nos artigos 2.º, 4.º a 7.º, 7.º-F e 8.º e no n.º 1 do artigo 6.º vigora até 31 de dezembro de 2021.»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202180375": {
+   "fragment_id": "154328481",
+   "type": 11,
+   "heading": "Artigo 5.º — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 5.º — Alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março\n\nO artigo 37.º-A do Decreto-Lei n.º 10-A/2020, de 13 de março, na sua redação atual, passa a ter a seguinte redação:\n\n«Artigo 37.º-A\n\n[...]\n\n1 - ...\n\n2 - ...\n\n3 - O disposto no artigo 35.º-U vigora até 31 de dezembro de 2021.»\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202180376": {
+   "fragment_id": "154328482",
+   "type": 11,
+   "heading": "Artigo 6.º — Produção de efeitos",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "###### Artigo 6.º — Produção de efeitos\n\nO presente decreto-lei produz efeitos a 1 de janeiro de 2021.\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  },
+  "202180377": {
+   "fragment_id": "154328483",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2022-10-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 13 de janeiro de 2021. - António Luís Santos da Costa - João Rodrigo Reis Carvalho Leão - Alexandra Ludomila Ribeiro Fernandes Leitão.\n\nPromulgado em 14 de janeiro de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 14 de janeiro de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n113890483\n\n> Revogado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 66-A/2022 - Diário da República n.º 190/2022, 1º Suplemento, Série I de 2022-09-30](https://diariodarepublica.pt/dr/detalhe/decreto-lei/66-a-2022-201773286), em vigor a partir de 2022-10-01"
+  }
+ }
+}

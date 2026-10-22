@@ -1,0 +1,219 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:261772:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2004-137924836",
+ "dre_path": "/dr/detalhe/portaria/586-2004-261772",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2004-06-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "137938082"
+   ]
+  },
+  {
+   "date": "2009-01-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:439866:por",
+     "title": "Decreto-Lei n.º 220/2008",
+     "published": "2008-11-12",
+     "dre_path": "/dr/detalhe/decreto-lei/220-2008-439866"
+    }
+   ],
+   "changes": [
+    "Revoga Artigo 6.º"
+   ],
+   "fragments": [
+    "137938082",
+    "137938083",
+    "137938084",
+    "137938085",
+    "137938086",
+    "137938087",
+    "137938102",
+    "137938089",
+    "137938090",
+    "137938091",
+    "137938092",
+    "137938093",
+    "137938094",
+    "137938095",
+    "137938096",
+    "137938097",
+    "137938098",
+    "137938099",
+    "137938100",
+    "137938101"
+   ]
+  }
+ ],
+ "fragments": {
+  "137938082": {
+   "fragment_id": "137924837",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 586/2004\n\nde 2 de Junho\n\nO Decreto-Lei n.º 304/2003, de 9 de Dezembro, que estabelece o regime jurídico de acesso e de exercício da actividade de promoção e organização de campos de férias, determina no n.º 1 do seu artigo 14.º que as instalações destinadas ao alojamento e pernoita dos participantes em campos de férias, bem como aquelas que sejam especialmente destinadas à realização das respectivas actividades, estão sujeitas a licenciamento e à observância dos requisitos constantes de portaria conjunta a emitir pelos membros do Governo responsáveis pelas áreas da juventude, da defesa do consumidor e da habitação e obras públicas.\n\nAssim:\n\nAo abrigo do disposto no n.º 1 do artigo 14.º do Decreto-Lei n.º 304/2003, de 9 de Dezembro:\n\nManda o Governo, pelo Ministro Adjunto do Primeiro-Ministro e pelo Ministro das Obras Públicas, Transportes e Habitação, o seguinte:\n\nEm 26 de Março de 2004. - O Ministro Adjunto do Primeiro-Ministro, José Luís Fazenda Arnaut Duarte. - O Ministro das Obras Públicas, Transportes e Habitação, António Pedro de Nobre Carmona Rodrigues.\n\n> Nota: [Artigo 26.º, Decreto-Lei n.º 32/2011 - Diário da República n.º 46/2011, Série I de 2011-03-07](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32-2011-279423) Até à publicação da portarias prevista no n.º 2 do artigo 11.º, mantém-se em vigor a Portaria n.º 586/2004, de 2 de Junho."
+  },
+  "137938083": {
+   "fragment_id": "137924838",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nOs edifícios destinados a permitir o alojamento e pernoita de participantes de campos de férias carecem de licença ou autorização de utilização e devem obedecer aos requisitos constantes dos números seguintes."
+  },
+  "137938084": {
+   "fragment_id": "137924839",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA licença ou a autorização de utilização referida no número anterior obedece aos requisitos estabelecidos no Regime Jurídico da Urbanização e Edificação, aprovado pelo Decreto-Lei n.º 555/99, de 16 de Dezembro, com as alterações introduzidas pelo Decreto-Lei n.º 177/2001, de 4 de Junho, e pela Lei n.º 15/2002, de 22 de Fevereiro."
+  },
+  "137938085": {
+   "fragment_id": "137924840",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nAs instalações licenciadas para outros fins, desde que cumpram com os requisitos constantes dos números seguintes, podem, também, ser utilizadas para a realização de campos de férias."
+  },
+  "137938086": {
+   "fragment_id": "137924841",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nA concepção, dimensionamento e equipamentos de edifícios destinados a alojamento e pernoita dos participantes de campos de férias devem ser de forma a permitir uma boa ocupação e funcionamento, tendo em conta o número e características dos utentes a quem se destinam."
+  },
+  "137938087": {
+   "fragment_id": "137924842",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nAs instalações devem estar equipadas com um sistema eficaz e seguro de arejamento e equilíbrio térmico, respeitando o disposto no Regime Jurídico da Urbanização e Edificação, no Regulamento Geral das Edificações Urbanas e no Regulamento das Características de Comportamento Térmico dos Edifícios."
+  },
+  "137938102": {
+   "fragment_id": "137924843",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2009-01-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 220/2008 - Diário da República n.º 220/2008, Série I de 2008-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2008-439866), em vigor a partir de 2009-01-01"
+   ],
+   "markdown": "###### Artigo 6.º\n\nAs instalações deverão respeitar as medidas de segurança contra risco de incêndio, aplicáveis no Regulamento das Condições Técnicas e de Segurança dos Recintos de Espectáculos e Divertimentos Públicos, a que respeita o Decreto Regulamentar n.º 34/95, de 16 de Dezembro, no que lhes for aplicável.\n\n> Revogado pelo/a Artigo 36.º do/a [Decreto-Lei n.º 220/2008 - Diário da República n.º 220/2008, Série I de 2008-11-12](https://diariodarepublica.pt/dr/detalhe/decreto-lei/220-2008-439866), em vigor a partir de 2009-01-01"
+  },
+  "137938089": {
+   "fragment_id": "137924844",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nAs instalações deverão possuir os seguintes compartimentos e espaços:\n\na) Sala de entrada/recepção, para atendimento e informações;\n\nb) Gabinete do coordenador;\n\nc) Sala de estar/convívio;\n\nd) Sala de refeições;\n\ne) Instalações sanitárias para participantes;\n\nf) Instalações sanitárias para pessoal;\n\ng) Quartos para utentes;\n\nh) Quartos para pessoal;\n\ni) Cozinha, copa e despensa;\n\nj) Arrecadação."
+  },
+  "137938090": {
+   "fragment_id": "137924845",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nA recepção e o gabinete do coordenador devem situar-se, sempre que possível, próximo da entrada principal das instalações."
+  },
+  "137938091": {
+   "fragment_id": "137924846",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nA sala de estar deve ser ampla e arejada e deve permitir que os participantes aí desenvolvam actividades de carácter educativo, cultural ou recreativo."
+  },
+  "137938092": {
+   "fragment_id": "137924847",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nA sala de refeições:\n\na) Pode ser polivalente para, quando necessário, ser utilizada para aí serem desenvolvidas actividades de carácter educativo, cultural ou recreativo;\n\nb) Deve dispor de um número suficiente de lugares sentados para os participantes, devendo ser previstos 0,75 m2, por lugar sentado;\n\nc) Deve comunicar com a cozinha;\n\nd) Deve ter um lavatório nas suas imediações."
+  },
+  "137938093": {
+   "fragment_id": "137924848",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nAs instalações sanitárias devem obedecer aos seguintes requisitos:\n\na) Serem separadas, por sexos;\n\nb) Situarem-se próximas dos quartos;\n\nc) Possuírem chuveiros na proporção de um para cada 10 utentes, que possam vir a utilizá-los, simultaneamente, com água quente e fria;\n\nd) Possuírem lavatórios na mesma proporção da referida na alínea anterior;\n\ne) Possuírem retretes na proporção mínima de um para cada 15 utilizadores do sexo feminino, de um para cada 25 utilizadores do sexo masculino e urinóis de um para cada 25 utilizadores;\n\nf) Possuírem paredes, pavimentos e tectos das instalações sanitárias revestidos de materiais resistentes, impermeáveis e de fácil limpeza."
+  },
+  "137938094": {
+   "fragment_id": "137924849",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs quartos dos participantes deverão obedecer aos seguintes requisitos:\n\na) Serem divididos por sexos e equipados com camas individuais ou beliches e armários que permitam o uso individual;\n\nb) Possuírem mobiliário de material resistente, adaptado à idade dos participantes, de fácil manutenção e sem arestas vivas, rebarbas ou superfícies rugosas, lascas, pregos, parafusos ou qualquer outro material pontiagudo, susceptível de causar ferimento;\n\nc) Terem uma capacidade máxima de 12 ou 8 crianças, consoante tenham até ou mais de 12 anos, respectivamente, estipulada tendo em consideração que a área por participantes deve ter, no mínimo:\n\ni) Para crianças até aos 12 anos - 2,50 m2;\n\nii) Para jovens com mais de 12 anos - 3,50 m2."
+  },
+  "137938095": {
+   "fragment_id": "137924850",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nOs quartos para o pessoal devem situar-se junto dos quartos dos participantes e disporem de instalações sanitárias próprias."
+  },
+  "137938096": {
+   "fragment_id": "137924851",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nAs cozinhas (zonas destinadas à confecção e preparação de refeições), as copas (zonas destinadas à lavagem de louças e de utensílios) e as copas limpas (zonas destinadas ao empratamento e distribuição do serviço) devem:\n\na) Dispor de arejamento e iluminação naturais suficientes ou, quando tal não for possível, de ventilação e iluminação artificiais adequadas à sua capacidade;\n\nb) Dispor de aparelhos que permitam a contínua renovação do ar e a extracção de fumos e cheiros;\n\nc) Possuir uma conduta de evacuação de fumos e cheiros, construída em material incombustível, e conduzir directamente ao exterior, de acordo com os regulamentos em vigor;\n\nd) Possuir balcões, mesas, bancadas e prateleiras das cozinhas com material liso, lavável e impermeável;\n\ne) Possuir paredes com lambril de material resistente, liso e lavável, devendo a sua ligação com o pavimento ou com outras paredes ter a forma arredondada, sendo que o pavimento, as paredes e o tecto das cozinhas, copas e zonas de serviço de comunicação com as salas de refeições devem ser revestidos de materiais resistentes, impermeáveis e de fácil limpeza;\n\nf) Possuir instalações frigoríficas de acordo com a capacidade da sala de refeições, as características e condições locais de abastecimento e estando suficientemente afastadas das máquinas e equipamentos que produzam calor;\n\ng) Possuir uma despensa destinada ao armazenamento de alimentos, que deve estar situada junto à cozinha."
+  },
+  "137938097": {
+   "fragment_id": "137924852",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nA arrecadação destina-se à guarda de material diverso, nomeadamente de produtos de higiene e limpeza."
+  },
+  "137938098": {
+   "fragment_id": "137924853",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nOs acampamentos (alojamentos efectuados em tendas de campismo ou similares, instalados em parques de campismo ou qualquer outro local ao ar livre) devem cumprir os seguintes requisitos:\n\na) Não ser instalados junto de locais que possam apresentar riscos para a saúde e segurança das crianças e jovens, nomeadamente:\n\ni) Sob linhas aéreas de transporte de energia, nem nas respectivas faixas de protecção;\n\nii) Insalubres ou onde se produzam substâncias tóxicas e perigosas que, pela sua natureza, possam pôr em causa a integridade física ou psíquica das crianças e jovens;\n\niii) Em terrenos situados em leitos ou caudais secos de rios, susceptíveis de poderem ser inundados;\n\niv) Junto a áreas pantanosas, encostas perigosas e pedreiras.\n\nb) Possuir:\n\ni) Um espaço coberto que seja afecto, em exclusivo, à preparação das refeições;\n\nii) Um espaço coberto que funcione como zona de refeições e que possa ser usado como local de reuniões, ou abrigo, em caso de necessidade;\n\niii) Um espaço próprio para a higiene pessoal que deverá possuir, no mínimo, uma retrete ou latrina para cada 25 pessoas ou fracção e um duche para cada 25 pessoas ou fracção;\n\niv) Uma reserva de água potável adequada ao número total de participantes;\n\nv) Um estojo de primeiros socorros."
+  },
+  "137938099": {
+   "fragment_id": "137924854",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nA instalação dos acampamentos carece de uma licença prévia a obter junto da respectiva câmara municipal, nos termos da legislação em vigor."
+  },
+  "137938100": {
+   "fragment_id": "137924857",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nAs instalações a utilizar em actividades no âmbito de campos de férias não residenciais ou abertos devem estar devidamente licenciadas pelas entidades competentes."
+  },
+  "137938101": {
+   "fragment_id": "137924858",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nO presente diploma entra em vigor no dia imediatamente seguinte ao da sua publicação."
+  }
+ }
+}

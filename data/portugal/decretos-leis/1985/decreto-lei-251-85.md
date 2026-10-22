@@ -1,0 +1,115 @@
+---
+schema_version: '1.0'
+id: pt:dre:183427:por
+title: Decreto-Lei n.º 251/85
+short_title: null
+summary: Revoga o Decreto n.º 49/80, de 22 de Julho, que aprovou e pôs em execução, a título experimental, a II parte do Regulamento
+  Geral do Serviço do Exército, e o Decreto-Lei n.º 518/80, de 5 de Novembro, que pôs a mesma II parte em execução a título
+  definitivo
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Defesa Nacional
+proposing_entity: null
+official_number: 251/85
+official_date: null
+publication_date: '1985-07-15'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 160/1985, Série I de 1985-07-15
+  number: '160'
+  series: I
+  supplement: null
+  pages: 2025 - 2026
+  pdf_url: https://files.diariodarepublica.pt/1s/1985/07/16000/20252026.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '183427'
+  dre_path: /dr/detalhe/decreto-lei/251-1985-183427
+  internal: pt:dre:183427:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1985-183427
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/251-1985-183427
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2019-04-15T00:00:00Z'
+integrity:
+  source_sha256: 69a464514f461ebcb253cb91d02b8b5c3f7c998aee52fca922c1d9c70ba99221
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1985/DRE-1985-251-183427.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:122091532:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 251/85
+
+de 15 de Julho
+
+Considerando que o Regulamento Geral do Serviço do Exército engloba, tal como foi inicialmente concebido, um conjunto de 9 partes, correspondentes a outras tantas matérias, algumas das quais entretanto foram ou virão a ser autónomos objecto de diplomas autónomos e outras se encontram prejudicadas por força da entrada em vigor da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro (Lei da Defesa Nacional e das Forças Armadas);
+
+Considerando que a II parte daquele Regulamento - que trata da matéria referente ao serviço interno das unidades e de guarnição foi aprovada, a título definitivo, pelo [Decreto-Lei n.º 518/80](https://diariodarepublica.pt/dr/detalhe/decreto-lei/518-1980-457576), de 5 de Novembro;
+
+Considerando ainda que, face à nova realidade jurídica resultante da Lei de Defesa Nacional e das Forças Armadas, a mesma matéria se encontra abrangida pela competência administrativa própria do Chefe do Estado-Maior do Exército, nos termos do artigo 57.º, n.º 2, alíneas a) e c), da referida lei:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+###### Artigo 1.º São revogados o [Decreto n.º 49/80](https://diariodarepublica.pt/dr/detalhe/decreto/49-1980-472530), de 22 de Julho, que aprovou o pôs em execução, a título experimental, a II parte do Regulamento Geral do Serviço do Exército, e o Decreto-Lei n.º n.º 518/80, de 5 de Novembro, que pôs a mesma II parte em execução a título definitivo.
+
+###### Art. 2.º A organização do serviço interno das unidades do Exército será regulada no âmbito da competência administrativa do Chefe do Estado-Maior do Exército, prevista no artigo 57.º, n.º 2, alíneas a) e c), da [Lei n.º 29/82](https://diariodarepublica.pt/dr/detalhe/lei/29-1982-379327), de 11 de Dezembro.
+
+Visto e aprovado em Conselho de Ministros de 27 de Junho de 1985. - Mário Soares - Rui Manuel Parente Chancerelle de Machete.
+
+**Promulgado em 5 de Julho de 1985.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+**Referendado em 8 de Julho de 1985.**
+
+**O Primeiro-Ministro, Mário Soares.**

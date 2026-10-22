@@ -1,0 +1,238 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:494182:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar/2009-34518875",
+ "dre_path": "/dr/detalhe/decreto-regulamentar/9-2009-494182",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2009-05-29",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "125007218",
+    "48995275",
+    "48995375",
+    "48995475",
+    "48995575",
+    "48995675",
+    "48995775",
+    "48995875",
+    "48995975"
+   ],
+   "acts_without_text_change": [
+    {
+     "id": "pt:dre:492751:por",
+     "title": "Declaração de Rectificação n.º 53/2009",
+     "published": "2009-07-28",
+     "dre_path": "/dr/detalhe/declaracao-rectificacao/53-2009-492751",
+     "date": "2009-05-30"
+    }
+   ]
+  },
+  {
+   "date": "2019-09-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125009062:por",
+     "title": "Decreto Regulamentar n.º 5/2019",
+     "published": "2019-09-27",
+     "dre_path": "/dr/detalhe/decreto-regulamentar/5-2019-125009062"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "125007218",
+    "125007219",
+    "125007220",
+    "125007221",
+    "125007222",
+    "125007223",
+    "125007224",
+    "125007225",
+    "125007226",
+    "125007227",
+    "125007228"
+   ]
+  }
+ ],
+ "fragments": {
+  "125007218": {
+   "fragment_id": "35138675",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2019-09-28",
+   "changed_by": [],
+   "markdown": "O regime jurídico dos instrumentos de gestão territorial, aprovado pelo Decreto-Lei n.º 380/99, de 22 de Setembro, prevê que os conceitos técnicos nos domínios do ordenamento do território e do urbanismo a utilizar nos instrumentos de gestão territorial sejam estabelecidos por decreto regulamentar.\n\nA avaliação dos instrumentos de gestão territorial em vigor revela igualmente a necessidade de regulamentação do regime jurídico dos instrumentos de gestão territorial neste aspecto. Pretende-se, assim, através do presente decreto regulamentar, evitar a actual dispersão e imprecisão de conceitos utilizados por instrumentos de gestão territorial, nomeadamente o recurso a expressões que não são objecto de definição, a utilização do mesmo conceito com diferentes significados ou do mesmo instituto jurídico com diferentes designações, bem como a utilização de conceitos indeterminados ou incorrectos. Esta situação acarreta consequências negativas para a gestão do território, nomeadamente no que se refere à aplicação objectiva e rigorosa da disciplina dos planos, à verificação da conformidade e compatibilidade entre instrumentos de planeamento territorial, à coordenação das intervenções públicas nos vários âmbitos e, ainda, à avaliação dos instrumentos de gestão territorial e dos seus efeitos.\n\nUrge, pois, fixar os conceitos técnicos nos domínios do ordenamento do território e do urbanismo a utilizar nos instrumentos de gestão territorial, contribuindo para uma maior eficácia e eficiência na gestão do território, credibilizando o sistema de planeamento e assegurando que os resultados das práticas de gestão territorial respondem aos objectivos traçados pelo sistema de gestão territorial.\n\nForam ouvidos os órgãos de governo próprio das Regiões Autónomas e a Associação Nacional de Municípios Portugueses.\n\nAssim:\n\nNos termos da alínea c) do artigo 199.º da Constituição e ao abrigo do disposto na alínea c) do n.º 2 do artigo 155.º do Decreto-Lei n.º 380/99, de 22 de Setembro, o Governo decreta o seguinte:"
+  },
+  "48995275": {
+   "fragment_id": "35840375",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente decreto regulamentar fixa os conceitos técnicos nos domínios do ordenamento do território e do urbanismo a utilizar pelos instrumentos de gestão territorial."
+  },
+  "48995375": {
+   "fragment_id": "35840475",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição dos conceitos técnicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definição dos conceitos técnicos\n\n1 - Os conceitos técnicos, respectivas definições e abreviaturas constam do anexo ao presente decreto regulamentar, que dele faz parte integrante.\n\n2 - A utilização dos conceitos técnicos fixados no presente decreto regulamentar dispensa a respectiva definição nos instrumentos de gestão territorial."
+  },
+  "48995475": {
+   "fragment_id": "35840575",
+   "type": 11,
+   "heading": "Artigo 3.º — Vinculação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Vinculação\n\n1 - Os conceitos técnicos fixados nos termos do presente decreto regulamentar são de utilização obrigatória nos instrumentos de gestão territorial, não sendo admissíveis outros conceitos, designações, definições ou abreviaturas para o mesmo conteúdo e finalidade.\n\n2 - Nos casos em que se revele necessário o recurso a conceitos técnicos não abrangidos pelo presente decreto regulamentar, devem ser utilizados os conceitos técnicos definidos na legislação aplicável e, na ausência destes, os conceitos técnicos constantes de documentos oficiais de natureza normativa produzidos pelas entidades nacionais legalmente competentes em razão da matéria em causa."
+  },
+  "48995575": {
+   "fragment_id": "35840675",
+   "type": 11,
+   "heading": "Artigo 4.º — Acesso à informação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Acesso à informação\n\nO conteúdo integral dos conceitos fixados pelo presente decreto regulamentar é disponibilizado, em suporte informático apropriado, através do sistema nacional de informação territorial."
+  },
+  "48995675": {
+   "fragment_id": "35840775",
+   "type": 11,
+   "heading": "Artigo 5.º — Actualização e revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Actualização e revisão\n\nA Direcção-Geral de Ordenamento do Território e Desenvolvimento Urbano é a entidade competente para:\n\na) Acompanhar e avaliar regularmente a aplicação dos conceitos técnicos estabelecidos nos termos do presente decreto regulamentar;\n\nb) Promover e disponibilizar os trabalhos técnicos conducentes à revisão e actualização dos conceitos técnicos, sempre que os mesmos se mostrem desactualizados."
+  },
+  "48995775": {
+   "fragment_id": "35840875",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime transitório",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Regime transitório\n\n1 - O presente decreto regulamentar aplica-se aos procedimentos já iniciados à data da sua entrada em vigor.\n\n2 - Excepcionam-se do disposto no número anterior:\n\na) Os procedimentos relativos aos planos directores municipais relativamente aos quais a comissão de acompanhamento tenha já emitido o respectivo parecer final;\n\nb) Os procedimentos relativos aos planos de urbanização e planos de pormenor cujas propostas tenham sido apresentadas, à data da entrada em vigor do presente decreto regulamentar, à comissão de coordenação e desenvolvimento regional territorialmente competente para efeitos de realização de conferência de serviços."
+  },
+  "48995875": {
+   "fragment_id": "35840975",
+   "type": 11,
+   "heading": "Artigo 7.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regiões Autónomas\n\nO presente decreto regulamentar aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução às respectivas administrações autónomas regionais, sem prejuízo das atribuições das entidades de âmbito nacional."
+  },
+  "48995975": {
+   "fragment_id": "35841075",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "125007219": {
+   "fragment_id": "35840375",
+   "type": 11,
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nO presente decreto regulamentar fixa os conceitos técnicos nos domínios do ordenamento do território e do urbanismo a utilizar pelos instrumentos de gestão territorial.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007220": {
+   "fragment_id": "35840475",
+   "type": 11,
+   "heading": "Artigo 2.º — Definição dos conceitos técnicos",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 2.º — Definição dos conceitos técnicos\n\n1 - Os conceitos técnicos, respectivas definições e abreviaturas constam do anexo ao presente decreto regulamentar, que dele faz parte integrante.\n\n2 - A utilização dos conceitos técnicos fixados no presente decreto regulamentar dispensa a respectiva definição nos instrumentos de gestão territorial.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007221": {
+   "fragment_id": "35840575",
+   "type": 11,
+   "heading": "Artigo 3.º — Vinculação",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 3.º — Vinculação\n\n1 - Os conceitos técnicos fixados nos termos do presente decreto regulamentar são de utilização obrigatória nos instrumentos de gestão territorial, não sendo admissíveis outros conceitos, designações, definições ou abreviaturas para o mesmo conteúdo e finalidade.\n\n2 - Nos casos em que se revele necessário o recurso a conceitos técnicos não abrangidos pelo presente decreto regulamentar, devem ser utilizados os conceitos técnicos definidos na legislação aplicável e, na ausência destes, os conceitos técnicos constantes de documentos oficiais de natureza normativa produzidos pelas entidades nacionais legalmente competentes em razão da matéria em causa.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007222": {
+   "fragment_id": "35840675",
+   "type": 11,
+   "heading": "Artigo 4.º — Acesso à informação",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 4.º — Acesso à informação\n\nO conteúdo integral dos conceitos fixados pelo presente decreto regulamentar é disponibilizado, em suporte informático apropriado, através do sistema nacional de informação territorial.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007223": {
+   "fragment_id": "35840775",
+   "type": 11,
+   "heading": "Artigo 5.º — Actualização e revisão",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 5.º — Actualização e revisão\n\nA Direcção-Geral de Ordenamento do Território e Desenvolvimento Urbano é a entidade competente para:\n\na) Acompanhar e avaliar regularmente a aplicação dos conceitos técnicos estabelecidos nos termos do presente decreto regulamentar;\n\nb) Promover e disponibilizar os trabalhos técnicos conducentes à revisão e actualização dos conceitos técnicos, sempre que os mesmos se mostrem desactualizados.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007224": {
+   "fragment_id": "35840875",
+   "type": 11,
+   "heading": "Artigo 6.º — Regime transitório",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 6.º — Regime transitório\n\n1 - O presente decreto regulamentar aplica-se aos procedimentos já iniciados à data da sua entrada em vigor.\n\n2 - Excepcionam-se do disposto no número anterior:\n\na) Os procedimentos relativos aos planos directores municipais relativamente aos quais a comissão de acompanhamento tenha já emitido o respectivo parecer final;\n\nb) Os procedimentos relativos aos planos de urbanização e planos de pormenor cujas propostas tenham sido apresentadas, à data da entrada em vigor do presente decreto regulamentar, à comissão de coordenação e desenvolvimento regional territorialmente competente para efeitos de realização de conferência de serviços.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007225": {
+   "fragment_id": "35840975",
+   "type": 11,
+   "heading": "Artigo 7.º — Regiões Autónomas",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 7.º — Regiões Autónomas\n\nO presente decreto regulamentar aplica-se às Regiões Autónomas dos Açores e da Madeira, com as devidas adaptações, nos termos da respectiva autonomia político-administrativa, cabendo a sua execução às respectivas administrações autónomas regionais, sem prejuízo das atribuições das entidades de âmbito nacional.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007226": {
+   "fragment_id": "35841075",
+   "type": 11,
+   "heading": "Artigo 8.º — Entrada em vigor",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "###### Artigo 8.º — Entrada em vigor\n\nO presente decreto regulamentar entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007227": {
+   "fragment_id": "35841175",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+   ],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 19 de Março de 2009. - José Sócrates Carvalho Pinto de Sousa - Francisco Carlos da Graça Nunes Correia - Jaime de Jesus Lopes Silva - Mário Lino Soares Correia.\n\nPromulgado em 21 de Maio de 2009.\n\nPublique-se.\n\nO Presidente da República, Aníbal Cavaco Silva.\n\nReferendado em 25 de Maio de 2009.\n\nO Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28"
+  },
+  "125007228": {
+   "fragment_id": "35841275",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2019-09-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28",
+    "Rectificado pelo/a [Declaração de Rectificação n.º 53/2009 - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/53-2009-492751), em vigor a partir de 2009-05-30"
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Revogado pelo/a Artigo 6.º do/a [Decreto Regulamentar n.º 5/2019 - Diário da República n.º 186/2019, Série I de 2019-09-27](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/5-2019-125009062), em vigor a partir de 2019-09-28\n\n> Rectificado pelo/a [Declaração de Rectificação n.º 53/2009 - Diário da República n.º 144/2009, Série I de 2009-07-28](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/53-2009-492751), em vigor a partir de 2009-05-30"
+  }
+ }
+}

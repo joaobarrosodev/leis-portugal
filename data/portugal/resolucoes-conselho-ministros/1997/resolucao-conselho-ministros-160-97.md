@@ -1,0 +1,122 @@
+---
+schema_version: '1.0'
+id: pt:dre:659767:por
+title: Resolução do Conselho de Ministros n.º 160/97
+short_title: null
+summary: Altera a planta de ordenamento do Plano Director Municipal de Tondela, ratificado pela Resolução do Conselho de Ministros
+  n.º 99/94, de 6 de Outubro
+jurisdiction: portugal
+territory: null
+document_type: resolucao-conselho-ministros
+document_type_label: Resolução do Conselho de Ministros
+issuing_authority:
+- Presidência do Conselho de Ministros
+proposing_entity: null
+official_number: 160/97
+official_date: null
+publication_date: '1997-09-24'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 221/1997, Série I-B de 1997-09-24
+  number: '221'
+  series: I
+  supplement: null
+  pages: 5242 - 5243
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/09/221b00/52425243.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolconsmin/160/1997/09/24/p/dre/pt/html
+  oj: null
+  dre: '659767'
+  dre_path: /dr/detalhe/resolucao-conselho-ministros/160-1997-659767
+  internal: pt:dre:659767:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-1997-659767
+  metadata_url: https://data.dre.pt/eli/resolconsmin/160/1997/09/24/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/160-1997-659767
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1997-09-24T00:00:00Z'
+integrity:
+  source_sha256: 7494dab01b695821696558d38e1556b4f57c6a989bea040a50bfbdf68af9072d
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-160-659767.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Ordenamento do Território
+- Plano Director Municipal
+- Proteção do Ambiente
+- Política de Solos
+- Plano de Urbanização
+- Tondela
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/211/1992/10/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/193/1996/12/16/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/193/1996/12/16/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/resolconsmin/99/1994/10/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/resolconsmin/99/1994/10/06/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução do Conselho de Ministros n.º 160/97
+
+A Assembleia Municipal de Tondela aprovou, em 30 de Junho de 1994, o seu Plano Director Municipal.
+
+O Plano Director Municipal de Tondela foi ratificado pela [Resolução do Conselho de Ministros n.º 99/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/99-1994-620278), de 15 de Setembro, publicada no Diário da República, 1.ª série-B, de 6 de Outubro, alterada pela [Resolução do Conselho de Ministros n.º 193/96](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/193-1996-197507), de 14 de Novembro, publicada no Diário da República, 1.ª série-B, de 16 de Dezembro.
+
+Por lapso, a Câmara Municipal enviou para ratificação uma planta de ordenamento que não corresponde à aprovada pela deliberação da Assembleia Municipal acima referida.
+
+Importa agora ratificar o elemento gráfico em questão, verificada que foi a sua conformidade com as disposições legais e regulamentares em vigor.
+
+Considerando o disposto no n.º 3 do artigo 3.º do [Decreto-Lei n.º 69/90](https://diariodarepublica.pt/dr/detalhe/decreto-lei/69-1990-332412), de 2 de Março, alterado pelo [Decreto-Lei n.º 211/92](https://diariodarepublica.pt/dr/detalhe/decreto-lei/211-1992-228186), de 8 de Outubro;
+
+Assim:
+
+Nos termos da alínea g) do artigo 202.º da Constituição, o Conselho de Ministros resolveu:
+
+Ratificar a alteração à planta de ordenamento do Plano Director Municipal de Tondela, ratificado pela [Resolução do Conselho de Ministros n.º 99/94](https://diariodarepublica.pt/dr/detalhe/resolucao-conselho-ministros/99-1994-620278), de 15 de Setembro, a qual se publica em anexo.
+
+Presidência do Conselho de Ministros, 21 de Agosto de 1997. - O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1997/09/221b00/52425243.pdf))](https://files.diariodarepublica.pt/1s/1997/09/221b00/52425243.pdf)

@@ -1,0 +1,152 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:638730:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-977814841",
+ "dre_path": "/dr/detalhe/portaria/640-2007-638730",
+ "source_lastmod": "2026-05-13",
+ "versions": [
+  {
+   "date": "2026-05-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1120914631:por",
+     "title": "Portaria n.º 220/2026/1",
+     "published": "2026-05-13",
+     "dre_path": "/dr/detalhe/portaria/220-2026-1120914631"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1122156475",
+    "1122156675",
+    "1122156775",
+    "1122156875",
+    "1122156975",
+    "1122157075",
+    "1122157175",
+    "1122157275",
+    "1122157375",
+    "1122157475",
+    "1122157575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1122156475": {
+   "fragment_id": "978007775",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "O Decreto-Lei n.º 216/2007, de 29 de Maio, definiu a missão e as atribuições do Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P. Importa agora, no desenvolvimento daquele decreto-lei, determinar a sua organização interna.\n\nAssim:\n\nAo abrigo do artigo 12.º da Lei n.º 3/2004, de 15 de Janeiro:\n\nManda o Governo, pelos Ministros de Estado e das Finanças e do Trabalho e da Solidariedade Social, o seguinte:\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122156675": {
+   "fragment_id": "978007975",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nSão aprovados, em anexo à presente portaria e da qual fazem parte integrante, os Estatutos do Instituto de Gestão de Fundos de Capitalização da Segurança Social, I. P., abreviadamente designado por IGFCSS, I. P.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122156775": {
+   "fragment_id": "978008175",
+   "type": 11,
+   "heading": "Artigo 2.º — Entrada em vigor",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "###### Artigo 2.º — Entrada em vigor\n\nA presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122156875": {
+   "fragment_id": "978008375",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 24 de Maio de 2007. - O Ministro do Trabalho e da Solidariedade Social, José António Fonseca Vieira da Silva, em 25 de Maio de 2007.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122156975": {
+   "fragment_id": "978008575",
+   "type": 14,
+   "heading": "Anexo — ESTATUTOS DO INSTITUTO DE GESTÃO DE FUNDOS DE CAPITALIZAÇÃO DA SEGURANÇA SOCIAL, I. P.",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "## Anexo — ESTATUTOS DO INSTITUTO DE GESTÃO DE FUNDOS DE CAPITALIZAÇÃO DA SEGURANÇA SOCIAL, I. P.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122157075": {
+   "fragment_id": "978008775",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nOs presentes Estatutos estabelecem a estrutura organizativa e as atribuições dos serviços do IGFCSS, I. P.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122157175": {
+   "fragment_id": "978008975",
+   "type": 11,
+   "heading": "Artigo 2.º — Vinculação",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "###### Artigo 2.º — Vinculação\n\n1 - O IGFCSS, I. P., obriga-se pela assinatura:\n\na) De dois membros do conselho directivo;\n\nb) De quem em concreto dispuser de poderes delegados;\n\nc) De procuradores, quanto aos actos ou categorias de actos definidos nas procurações.\n\n2 - Para actos de mero expediente é suficiente a assinatura de qualquer membro do conselho directivo.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122157275": {
+   "fragment_id": "978009175",
+   "type": 11,
+   "heading": "Artigo 3.º — Estrutura",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1329-D/2010 - Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1329-d-2010-617134), com efeitos a partir de 2010-01-01."
+   ],
+   "markdown": "###### Artigo 3.º — Estrutura\n\n1 - O IGFCSS, I. P., dispõe dos seguintes departamentos:\n\na) Direcção de Investimento;\n\nb) Direcção de Estudos, Planeamento e Controlo;\n\nc) Direcção de Apoio à Gestão.\n\n2 - Os departamentos referidos nas alíneas a) e b) do número anterior são dirigidos por directores de gestão de fundos e o referido na alínea c) por um director de administração de fundos.\n\n3 - Os directores de gestão de fundos e o director de administração de fundos são cargos de direcção intermédia de 1.º grau e de 2.º grau, respectivamente, sendo equiparados, para efeitos remuneratórios, a cargos de direcção superior de 1.º grau.\n\n4 - Às remunerações base dos directores de gestão de fundos acrescem despesas de representação no valor de 40 % da remuneração base e à remuneração base do director de administração de fundos acrescem despesas de representação no valor de 25 % da remuneração base.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1329-D/2010 - Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1329-d-2010-617134), com efeitos a partir de 2010-01-01."
+  },
+  "1122157375": {
+   "fragment_id": "978009375",
+   "type": 11,
+   "heading": "Artigo 4.º — Direcção de Investimento",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+   ],
+   "markdown": "###### Artigo 4.º — Direcção de Investimento\n\nA Direcção de Investimento assegura a concretização de investimentos nos mercados de capitais e imobiliário, competindo-lhe:\n\na) Acompanhamento dos mercados;\n\nb) Selecção e negociação de produtos financeiros tendentes à concretização de investimentos;\n\nc) Negociação de planos de rendas periódicas;\n\nd) Relacionamento com fornecedores de serviços de intermediação de produtos financeiros.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14."
+  },
+  "1122157475": {
+   "fragment_id": "978009575",
+   "type": 11,
+   "heading": "Artigo 5.º — Direcção de Estudos, Planeamento e Controlo",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1329-D/2010 - Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1329-d-2010-617134), com efeitos a partir de 2010-01-01."
+   ],
+   "markdown": "###### Artigo 5.º — Direcção de Estudos, Planeamento e Controlo\n\nA Direcção de Estudos, Planeamento e Controlo assegura o planeamento estratégico e o controlo da actividade do IGFCSS, I. P., e dos fundos sob gestão, competindo-lhe:\n\na) Apoio às decisões estratégicas, seja no domínio das actividades do IGFCSS, I. P., ou no domínio da gestão de activos das carteiras dos Fundos;\n\nb) Acompanhamento da conjuntura macroeconómica;\n\nc) Controlo do valor e risco do património de cada Fundo;\n\nd) Registo e liquidação das operações sobre produtos financeiros;\n\ne) Selecção e controlo de entidades financeiras especializadas subcontratadas para a gestão de partes das carteiras de fundos sob gestão do IGFCSS, I. P.;\n\nf) Produção de informação de apoio à gestão do IGFCSS, I. P., e dos Fundos;\n\ng) Gestão do sistema de indicadores de desempenho do IGFCSS, I. P.;\n\nh) Relacionamento com fornecedores de serviços financeiros.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1329-D/2010 - Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1329-d-2010-617134), com efeitos a partir de 2010-01-01."
+  },
+  "1122157575": {
+   "fragment_id": "978009775",
+   "type": 11,
+   "heading": "Artigo 6.º — Direcção de Apoio à Gestão",
+   "in_force_from": "2026-05-14",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14.",
+    "Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1329-D/2010 - Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1329-d-2010-617134), com efeitos a partir de 2010-01-01."
+   ],
+   "markdown": "###### Artigo 6.º — Direcção de Apoio à Gestão\n\nA Direcção de Apoio à Gestão assegura a gestão corrente do IGFCSS, I. P., e a coordenação do regime público de capitalização, competindo-lhe:\n\na) Gestão do funcionamento do IGFCSS, I. P., nas vertentes administrativa, financeira, patrimonial e recursos humanos;\n\nb) Gestão documental, do economato e do arquivo;\n\nc) Apoio jurídico;\n\nd) Relacionamento com os fornecedores de bens e serviços destinados ao funcionamento corrente do IGFCSS, I. P.;\n\ne) Apoio ao desenvolvimento e à utilização de aplicações informáticas de suporte à actividade do IGFCSS, I. P.;\n\nf) Administração das bases de dados e das aplicações existentes, gerindo os acessos, assegurando a sua operacionalidade e colaborando na sua elaboração;\n\ng) Apoio técnico aos utilizadores da rede e equipamentos informáticos;\n\nh) Gestão do Sistema de Gestão da Qualidade do IGFCSS, I. P., imprimindo neste uma exigência de benchmarking e melhoria contínua dos seus processos;\n\ni) Coordenação de todos os processos do regime público de capitalização;\n\nj) Comunicação e informação sobre os Fundos geridos pelo Instituto, em especial, aos subscritores do Fundo do regime público de capitalização;\n\nl) Imagem e promoção do IGFCSS, I. P., do regime público de capitalização e de outros serviços oferecidos pelo Instituto;\n\nm) Suporte de informação técnica aos organismos do sistema de segurança social em matérias relacionadas com a gestão em regime de capitalização e, em particular, com o regime público de capitalização;\n\nn) Produção de informação contabilística da actividade do IGFCSS, I. P., e dos Fundos sob gestão.\n\n> Revogado pelo/a Artigo 2.º do/a [Portaria n.º 220/2026/1 - Diário da República n.º 92/2026, Série I de 2026-05-13](https://diariodarepublica.pt/dr/detalhe/portaria/220-2026-1120914631), em vigor a partir de 2026-05-14.\n\n> Alterado pelo/a Artigo 1.º do/a [Portaria n.º 1329-D/2010 - Diário da República n.º 252/2010, 1º Suplemento, Série I de 2010-12-30](https://diariodarepublica.pt/dr/detalhe/portaria/1329-d-2010-617134), com efeitos a partir de 2010-01-01."
+  }
+ }
+}

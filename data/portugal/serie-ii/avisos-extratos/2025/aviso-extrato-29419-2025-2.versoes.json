@@ -1,0 +1,28 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:957611800:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso-extrato/2025-992618958",
+ "dre_path": "/dr/detalhe/aviso-extrato/29419-2025-957611800",
+ "source_lastmod": "2025-12-30",
+ "versions": [
+  {
+   "date": "2025-11-28",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "992402757"
+   ]
+  }
+ ],
+ "fragments": {
+  "992402757": {
+   "fragment_id": "992618959",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aviso (extrato)  n.º 29419/2025/2\n\nNo cumprimento do disposto no artigo 4.º da Lei n.º 35/2014, de 20 de junho, torna-se público que os trabalhadores abaixo identificados, concluíram, com sucesso, o período experimental de função, na categoria de técnico superior, da carreira de técnico superior, após procedimento concursal com vista à constituição de reservas de recrutamento, aberto pelo Aviso (extrato) n.º 12679/2024/2, publicado na 2.ª série do Diário da República n.º 118, de 20 de junho - Referência DRH/TS/04/2024:\n\nAna Isabel Finuras Pinto\n\nAna Sofia Silva Santos\n\nAndreia Vanessa Dias Verdingola\n\nCarla Gabriela Correia\n\nCatarina Lourenço Pereira Lopes\n\nCecília Fernanda Almeida Barreto Marques\n\nDina Isabel Vitorino Fadista\n\nElsa Maria Costa Curto Carvalho Pereira\n\nJorciley Quaresma Sousa Neto\n\nMaria Margarida Reis Martins Duarte\n\nMarina Dores Miguel\n\nMiguel Ângelo Montes Borges Silva\n\nMónica Alexandra Silva Vaz Tristão Ramos\n\nPaula Cristina Freire Gloria\n\nPriscila Prates Dias Gomes Figueira\n\nTelma Alexandra Graça Revez"
+  }
+ }
+}

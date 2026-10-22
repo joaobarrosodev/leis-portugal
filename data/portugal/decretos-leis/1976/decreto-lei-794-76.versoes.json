@@ -1,0 +1,2124 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:409292:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1976-34491375",
+ "dre_path": "/dr/detalhe/decreto-lei/794-1976-409292",
+ "source_lastmod": "2025-06-18",
+ "versions": [
+  {
+   "date": "1976-11-05",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "48138875",
+    "48138975",
+    "48139075",
+    "48139175",
+    "48139275",
+    "48139375",
+    "48139475",
+    "48139575",
+    "48139675",
+    "48139775",
+    "48139875",
+    "48139975",
+    "48140075",
+    "48140175",
+    "48140275",
+    "48140375",
+    "48140475",
+    "48140575",
+    "48140675",
+    "48140775",
+    "48140875",
+    "48140975",
+    "48141075",
+    "48141175",
+    "48141275",
+    "48141375",
+    "48141475",
+    "48141575",
+    "48141675",
+    "48141775",
+    "48141875",
+    "48141975",
+    "48142075",
+    "48142175",
+    "48142275",
+    "48142375",
+    "48142475",
+    "48142575",
+    "48142675",
+    "48142775",
+    "48142875",
+    "48142975",
+    "48143075",
+    "48143175",
+    "48143275",
+    "48143375",
+    "48143475",
+    "48143575",
+    "48143675",
+    "48143775",
+    "48143875",
+    "48143975",
+    "48144075",
+    "48144175",
+    "48144275",
+    "48144375",
+    "48144475",
+    "48144575",
+    "48144675",
+    "48144775",
+    "48144875",
+    "48144975",
+    "48145075",
+    "48145175",
+    "48145275",
+    "48145375",
+    "48145475",
+    "48145575",
+    "48145675",
+    "48145775",
+    "48145875",
+    "48145975",
+    "48146075",
+    "48146175",
+    "48146275",
+    "48146375",
+    "48146475",
+    "48146575",
+    "48146675",
+    "48146775"
+   ]
+  },
+  {
+   "date": "1977-01-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:138342:por",
+     "title": "Rectificação",
+     "published": "1977-01-28",
+     "dre_path": "/dr/detalhe/rectificacao/1977-138342"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 59.º"
+   ],
+   "fragments": [
+    "48138875",
+    "48138975",
+    "48139075",
+    "48139175",
+    "48139275",
+    "48139375",
+    "48139475",
+    "48139575",
+    "48139675",
+    "48139775",
+    "48139875",
+    "48139975",
+    "48140075",
+    "48140175",
+    "48140275",
+    "48140375",
+    "48140475",
+    "48140575",
+    "48140675",
+    "48140775",
+    "48140875",
+    "48140975",
+    "48141075",
+    "48141175",
+    "48141275",
+    "48141375",
+    "48141475",
+    "48141575",
+    "48141675",
+    "48141775",
+    "48141875",
+    "48141975",
+    "48142075",
+    "48142175",
+    "48142275",
+    "48142375",
+    "48142475",
+    "48142575",
+    "48142675",
+    "48142775",
+    "48142875",
+    "48142975",
+    "48143075",
+    "48143175",
+    "48143275",
+    "48143375",
+    "48143475",
+    "48143575",
+    "48143675",
+    "48143775",
+    "48143875",
+    "48143975",
+    "48144075",
+    "48144175",
+    "48144275",
+    "48144375",
+    "48144475",
+    "48144575",
+    "48144675",
+    "48144775",
+    "48144875",
+    "48144975",
+    "48145075",
+    "48145175",
+    "48145275",
+    "48145375",
+    "48145475",
+    "48145575",
+    "48145675",
+    "48145775",
+    "48145875",
+    "48145975",
+    "48146075",
+    "48146175",
+    "921943106",
+    "48146375",
+    "48146475",
+    "48146575",
+    "48146675",
+    "48146775",
+    "48146875"
+   ]
+  },
+  {
+   "date": "1980-08-20",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:471105:por",
+     "title": "Decreto-Lei n.º 313/80",
+     "published": "1980-08-19",
+     "dre_path": "/dr/detalhe/decreto-lei/313-1980-471105"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 5.º"
+   ],
+   "fragments": [
+    "48138875",
+    "48138975",
+    "48139075",
+    "48139175",
+    "48139275",
+    "48139375",
+    "923033140",
+    "48139575",
+    "48139675",
+    "48139775",
+    "48139875",
+    "48139975",
+    "48140075",
+    "48140175",
+    "48140275",
+    "48140375",
+    "48140475",
+    "48140575",
+    "48140675",
+    "48140775",
+    "48140875",
+    "48140975",
+    "48141075",
+    "48141175",
+    "48141275",
+    "48141375",
+    "48141475",
+    "48141575",
+    "48141675",
+    "48141775",
+    "48141875",
+    "48141975",
+    "48142075",
+    "48142175",
+    "48142275",
+    "48142375",
+    "48142475",
+    "48142575",
+    "48142675",
+    "48142775",
+    "48142875",
+    "48142975",
+    "48143075",
+    "48143175",
+    "48143275",
+    "48143375",
+    "48143475",
+    "48143575",
+    "48143675",
+    "48143775",
+    "48143875",
+    "48143975",
+    "48144075",
+    "48144175",
+    "48144275",
+    "48144375",
+    "48144475",
+    "48144575",
+    "48144675",
+    "48144775",
+    "48144875",
+    "48144975",
+    "48145075",
+    "48145175",
+    "48145275",
+    "48145375",
+    "48145475",
+    "48145575",
+    "48145675",
+    "48145775",
+    "48145875",
+    "48145975",
+    "48146075",
+    "48146175",
+    "921943106",
+    "48146375",
+    "48146475",
+    "48146575",
+    "48146675",
+    "48146775",
+    "48146875"
+   ]
+  },
+  {
+   "date": "1985-03-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:389826:por",
+     "title": "Decreto-Lei n.º 400/84",
+     "published": "1984-12-31",
+     "dre_path": "/dr/detalhe/decreto-lei/400-1984-389826"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo VIII",
+    "Revoga Artigo 32.º",
+    "Revoga Artigo 33.º",
+    "Revoga Artigo 34.º",
+    "Revoga Artigo 35.º"
+   ],
+   "fragments": [
+    "48138875",
+    "48138975",
+    "48139075",
+    "48139175",
+    "48139275",
+    "48139375",
+    "923033140",
+    "48139575",
+    "48139675",
+    "48139775",
+    "48139875",
+    "48139975",
+    "48140075",
+    "48140175",
+    "48140275",
+    "48140375",
+    "48140475",
+    "48140575",
+    "48140675",
+    "48140775",
+    "48140875",
+    "48140975",
+    "48141075",
+    "48141175",
+    "48141275",
+    "48141375",
+    "48141475",
+    "48141575",
+    "48141675",
+    "48141775",
+    "48141875",
+    "48141975",
+    "48142075",
+    "48142175",
+    "48142275",
+    "48142375",
+    "48142475",
+    "48142575",
+    "48142675",
+    "923289406",
+    "923289411",
+    "923289412",
+    "923289413",
+    "923289414",
+    "48143275",
+    "48143375",
+    "48143475",
+    "48143575",
+    "48143675",
+    "48143775",
+    "48143875",
+    "48143975",
+    "48144075",
+    "48144175",
+    "48144275",
+    "48144375",
+    "48144475",
+    "48144575",
+    "48144675",
+    "48144775",
+    "48144875",
+    "48144975",
+    "48145075",
+    "48145175",
+    "48145275",
+    "48145375",
+    "48145475",
+    "48145575",
+    "48145675",
+    "48145775",
+    "48145875",
+    "48145975",
+    "48146075",
+    "48146175",
+    "921943106",
+    "48146375",
+    "48146475",
+    "48146575",
+    "48146675",
+    "48146775",
+    "48146875"
+   ]
+  },
+  {
+   "date": "2009-12-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:483155:por",
+     "title": "Decreto-Lei n.º 307/2009",
+     "published": "2009-10-23",
+     "dre_path": "/dr/detalhe/decreto-lei/307-2009-483155"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo XI",
+    "Revoga Artigo 41.º",
+    "Revoga Artigo 42.º",
+    "Revoga Artigo 43.º",
+    "Revoga Artigo 44.º",
+    "Revoga Artigo 45.º",
+    "Revoga Artigo 46.º"
+   ],
+   "fragments": [
+    "48138875",
+    "48138975",
+    "48139075",
+    "48139175",
+    "48139275",
+    "48139375",
+    "923033140",
+    "48139575",
+    "48139675",
+    "48139775",
+    "48139875",
+    "48139975",
+    "48140075",
+    "48140175",
+    "48140275",
+    "48140375",
+    "48140475",
+    "48140575",
+    "48140675",
+    "48140775",
+    "48140875",
+    "48140975",
+    "48141075",
+    "48141175",
+    "48141275",
+    "48141375",
+    "48141475",
+    "48141575",
+    "48141675",
+    "48141775",
+    "48141875",
+    "48141975",
+    "48142075",
+    "48142175",
+    "48142275",
+    "48142375",
+    "48142475",
+    "48142575",
+    "48142675",
+    "923289406",
+    "923289411",
+    "923289412",
+    "923289413",
+    "923289414",
+    "48143275",
+    "48143375",
+    "48143475",
+    "48143575",
+    "48143675",
+    "48143775",
+    "48143875",
+    "924226785",
+    "924226792",
+    "924226793",
+    "924226794",
+    "924226795",
+    "924226796",
+    "924226797",
+    "48144675",
+    "48144775",
+    "48144875",
+    "48144975",
+    "48145075",
+    "48145175",
+    "48145275",
+    "48145375",
+    "48145475",
+    "48145575",
+    "48145675",
+    "48145775",
+    "48145875",
+    "48145975",
+    "48146075",
+    "48146175",
+    "921943106",
+    "48146375",
+    "48146475",
+    "48146575",
+    "48146675",
+    "48146775",
+    "48146875"
+   ]
+  },
+  {
+   "date": "2014-06-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:25345938:por",
+     "title": "Lei n.º 31/2014",
+     "published": "2014-05-30",
+     "dre_path": "/dr/detalhe/lei/31-2014-25345938"
+    }
+   ],
+   "changes": [
+    "Revoga Capítulo I",
+    "Revoga Artigo 1.º",
+    "Revoga Artigo 2.º",
+    "Revoga Artigo 3.º",
+    "Revoga Artigo 4.º",
+    "Revoga Artigo 5.º",
+    "Revoga Capítulo II",
+    "Revoga Artigo 7.º",
+    "Revoga Artigo 8.º",
+    "Revoga Artigo 9.º",
+    "Revoga Artigo 10.º",
+    "Revoga Artigo 11.º",
+    "Revoga Artigo 12.º",
+    "Revoga Artigo 13.º",
+    "Revoga Capítulo III",
+    "Revoga Artigo 14.º",
+    "Revoga Artigo 15.º",
+    "Revoga Artigo 16.º",
+    "Revoga Artigo 17.º",
+    "Revoga Artigo 18.º",
+    "Revoga Capítulo IV",
+    "Revoga Artigo 19.º",
+    "Revoga Artigo 20.º",
+    "Revoga Artigo 21.º",
+    "Revoga Capítulo V",
+    "Revoga Artigo 22.º",
+    "Revoga Artigo 23.º",
+    "Revoga Artigo 24.º",
+    "Revoga Artigo 25.º",
+    "Revoga Artigo 26.º",
+    "Revoga Capítulo VI",
+    "Revoga Artigo 27.º",
+    "Revoga Artigo 28.º",
+    "Revoga Capítulo VII",
+    "Revoga Artigo 29.º",
+    "Revoga Artigo 30.º",
+    "Revoga Artigo 31.º",
+    "Revoga Capítulo IX",
+    "Revoga Artigo 36.º",
+    "Revoga Artigo 37.º",
+    "Revoga Artigo 38.º",
+    "Revoga Capítulo X",
+    "Revoga Artigo 39.º",
+    "Revoga Artigo 40.º",
+    "Revoga Capítulo XII",
+    "Revoga Artigo 47.º",
+    "Revoga Artigo 48.º",
+    "Revoga Artigo 49.º",
+    "Revoga Artigo 50.º",
+    "Revoga Artigo 51.º",
+    "Revoga Capítulo XIII",
+    "Revoga Artigo 52.º",
+    "Revoga Artigo 53.º",
+    "Revoga Artigo 54.º",
+    "Revoga Artigo 55.º",
+    "Revoga Capítulo XIV",
+    "Revoga Artigo 56.º",
+    "Revoga Artigo 57.º",
+    "Revoga Artigo 58.º",
+    "Revoga Capítulo XV",
+    "Revoga Artigo 59.º",
+    "Revoga Artigo 60.º",
+    "Revoga Artigo 61.º",
+    "Revoga Artigo 62.º",
+    "Revoga Artigo 63.º",
+    "Revoga Artigo 64.º"
+   ],
+   "fragments": [
+    "48138875",
+    "924670977",
+    "924670984",
+    "924670985",
+    "924670986",
+    "924670987",
+    "924670988",
+    "924670983",
+    "924670989",
+    "924670997",
+    "924670998",
+    "924670999",
+    "924671000",
+    "924671001",
+    "924671002",
+    "924671003",
+    "924671004",
+    "924671010",
+    "924671011",
+    "924671012",
+    "924671013",
+    "924671014",
+    "924671015",
+    "924671019",
+    "924671020",
+    "924671021",
+    "924671022",
+    "924671028",
+    "924671029",
+    "924671030",
+    "924671031",
+    "924671032",
+    "924671033",
+    "924671036",
+    "924671037",
+    "924671038",
+    "924671042",
+    "924671043",
+    "924671044",
+    "923289406",
+    "923289411",
+    "923289412",
+    "923289413",
+    "923289414",
+    "924671045",
+    "924671049",
+    "924671050",
+    "924671051",
+    "924671052",
+    "924671055",
+    "924671056",
+    "924226785",
+    "924226792",
+    "924226793",
+    "924226794",
+    "924226795",
+    "924226796",
+    "924226797",
+    "924671057",
+    "924671063",
+    "924671064",
+    "924671065",
+    "924671066",
+    "924671067",
+    "924671068",
+    "924671073",
+    "924671074",
+    "924671175",
+    "924671176",
+    "924671177",
+    "924671181",
+    "924671182",
+    "924671183",
+    "924671184",
+    "924671191",
+    "924671192",
+    "924671193",
+    "924671194",
+    "924671195",
+    "924671196",
+    "48146875"
+   ]
+  }
+ ],
+ "fragments": {
+  "48138875": {
+   "fragment_id": "35111175",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A nova Lei dos Solos destina-se a substituir, integralmente, o Decreto-Lei n.º 576/70, de 24 de Novembro, na parte em que se definem os princípios e normas fundamentais sobre a política de solos, e concentra e sistematiza dispositivos dispersos por leis avulsas, sem prejuízo de algumas inovações que foram julgadas oportunas.\n\nHouve a preocupação de dotar a Administração de instrumentos eficazes para, por um lado, evitar a especulação imobiliária e, por outro lado, permitir a rápida solução do problema habitacional, na sequência dos novos dispositivos constitucionais. Foram retomados alguns princípios de conteúdo social que já haviam sido considerados necessários anteriormente a 25 de Abril de 1974, mas que não chegaram a ser postos em prática, por colidirem com o jogo de interesses então predominante.\n\nNestes termos:\n\nUsando da autorização conferida pela Lei n.º 4/76, de 10 de Setembro, o Governo decreta, nos termos da alínea b) do n.º 1 do artigo 201.º da Constituição, o seguinte:"
+  },
+  "48138975": {
+   "fragment_id": "35713175",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "48139075": {
+   "fragment_id": "37191375",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA alteração do uso ou da ocupação dos solos para fins urbanísticos, incluindo os industriais, carece de prévia aprovação da Administração Pública. Esta aprovação visa o adequado ordenamento do território para um equilibrado desenvolvimento sócio-económico das suas diversas regiões e inclui o contrôle e superintendência dos empreendimentos da iniciativa privada."
+  },
+  "48139175": {
+   "fragment_id": "37191475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Sempre que for julgado necessário pela Administração, podem por esta ser apropriados solos destinados a:\n\na) Criação dos aglomerados urbanos;\n\nb) Expansão ou desenvolvimento de aglomerados urbanos com mais de 25000 habitantes;\n\nc) Criação e ampliação de parques industriais;\n\nd) Criação e ampliação de espaços Verdes urbanos de protecção e recreio;\n\ne) Recuperação de áreas degradadas, quer resultantes do depósito de desperdícios, quer da exploração de inertes.\n\n2. Pode ser mandado aplicar, por decreto, o regime do n.º 1 à expansão ou desenvolvimento de outros aglomerados urbanos, quando assim for deliberado pelos órgãos locais competentes ou quando o Governo o considere conveniente, nomeadamente para a execução de empreendimentos integrados em planos de âmbito nacional ou regional."
+  },
+  "48139275": {
+   "fragment_id": "37191575",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As realizações previstas no artigo anterior são planeadas, decididas e concretizadas pela Administração, através dos órgãos centrais e locais.\n\n2. A Administração pode, porém, recorrer à colaboração de outras entidades, nomeadamente de particulares:\n\na) Confiando-lhes a elaboração de planos, projectos ou estudos ou a execução de obras;\n\nb) Cedendo-lhes terrenos ou direitos sobre eles para a execução de empreendimentos compreendidos em planos por ela aprovados;\n\nc) confiando-lhes a realização, sem encargos para a Administração ou com a sua participação, de obras de urbanização projectadas para terrenos já adquiridos e a construção, para venda ou arrendamento, dos edifícios a erigir na área."
+  },
+  "48139375": {
+   "fragment_id": "37191675",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. A Administração procederá à aquisição das áreas necessárias, para os fins previstos no artigo 2.º, pelos meios que se tornem mais adequados, designadamente por expropriação ou pelo exercício do direito de preferência.\n\n2. Quando, para a apropriação do solo, for necessário, a Administração pode expropriar, desde logo, toda a área necessária à execução de um plano ou empreendimento ou promover, sucessivamente, a expropriação de zonas daquela área."
+  },
+  "48139475": {
+   "fragment_id": "37191775",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. Os terrenos já pertencentes à Administração ou por ela adquiridos para os fins previstos no artigo 2.º ou para operações de renovação urbana não podem ser alienados, salvo a pessoas colectivas de direito público e empresas públicas, devendo apenas ser cedido o direito à utilização, mediante a constituição do direito de superfície, dos terrenos destinados a empreendimentos cuja realização não venha a ser efectuada pela Administração.\n\n2. Poderá, em casos especiais, ser autorizada a cedência dos terrenos, em propriedade plena, quando se destinem à construção de habitações sociais no sector cooperativo."
+  },
+  "48139575": {
+   "fragment_id": "37191875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\n1. Na execução de qualquer plano de expansão, desenvolvimento ou renovação urbanas, ou de criação de novos aglomerados, serão sempre fixados os números ou percentagens dos fogos a construir, sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda, além dos destinados a habitação social.\n\n2. As características técnicas e os valores máximos do custo de construção, das rendas ou dos valores de venda da habitação social serão fixados, segundo as circunstâncias, mediante portaria do Ministro da Habitação, Urbanismo e Construção."
+  },
+  "48139675": {
+   "fragment_id": "35713275",
+   "type": 1,
+   "heading": "Capítulo II — Medidas preventivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Medidas preventivas"
+  },
+  "48139775": {
+   "fragment_id": "37191975",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O Governo poderá estabelecer, por decreto, que uma área, ou parte dela, que se presuma vir a ser abrangida por um plano de urbanização ou projecto de empreendimento público de outra natureza, seja sujeita a medidas preventivas, destinadas a evitar alteração das circunstâncias e condições existentes que possa comprometer a execução do plano ou empreendimento ou torná-la mais difícil ou onerosa.\n\n2. As medidas preventivas podem ter por objecto áreas para as quais exista plano de urbanização que, pela sua desactualização ou inadequação, careça de ser substituído ou alterado.\n\n3. No caso referido no número anterior, o plano fica suspenso, total ou parcialmente, consoante a área abrangida pelas medidas e as providências nelas estabelecidas.\n\n4. O recurso às medidas preventivas deve ser limitado aos casos em que, fundadamente, se receie que os prejuízos resultantes da possível alteração das circunstâncias locais sejam socialmente mais relevantes do que os inerentes à adopção das medidas."
+  },
+  "48139875": {
+   "fragment_id": "37192075",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. As medidas preventivas previstas no artigo anterior podem consistir na proibição ou na sujeição a prévia autorização, eventualmente condicionada, dos actos ou actividades seguintes:\n\na) Criação de novos núcleos populacionais;\n\nb) Construção, reconstrução ou ampliação de edifícios ou outras instalações;\n\nc) Instalação de explorações ou ampliação das já existentes;\n\nd) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\ne) Derrube de árvores em maciço, com qualquer área ou com área superior à fixada;\n\nf) Destruição do solo vivo e do coberto vegetal.\n\n2. As medidas preventivas abrangerão apenas os actos com interesse para os objectivos a atingir, podendo, dentro dos tipos genéricos previstos no número anterior, limitar-se a certas espécies de actos ou actividades.\n\n3. O Governo, ao estabelecer as medidas preventivas, definirá as entidades competentes para as autorizações ou outros condicionamentos exigidos pela sua aplicação, bem como para a fiscalização da sua observância e para as determinações da demolição a que se refere o artigo 12.º"
+  },
+  "48139975": {
+   "fragment_id": "37192175",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. O prazo de vigência das medidas preventivas será fixado no diploma que as estabelecer, até dois anos, sem prejuízo, porém, da respectiva prorrogação, quando tal se mostre necessário, por prazo não superior a um ano.\n\n2. As medidas preventivas cessam quando:\n\na) Forem revogadas;\n\nb) Decorrer o prazo fixado para a sua vigência;\n\nc) For aprovado e se tornar executório o plano de urbanização ou o projecto de empreendimento público que motivou a sua aplicação."
+  },
+  "48140075": {
+   "fragment_id": "37192275",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\n1. As medidas preventivas podem ser substituídas por normas de carácter provisório, logo que o adiantamento do estudo do plano de urbanização permita defini-las.\n\n2. As normas a que se refere o número anterior carecem de aprovação pelas entidades competentes para aprovar o plano e são obrigatórias nos termos deste."
+  },
+  "48140175": {
+   "fragment_id": "37192375",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\n1. A imposição das medidas preventivas, a que se refere o presente capítulo, não confere direito a qualquer indemnização."
+  },
+  "48140275": {
+   "fragment_id": "37192475",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\n1. Sem prejuízo do disposto no Decreto-Lei n.º 275/76, de 13 de Abril, as obras e os trabalhos efectuados com inobservância das medidas preventivas estabelecidas podem ser embargados e demolidos à custa dos proprietários e sem direito a qualquer indemnização.\n\n2. Os aterros e escavações efectuados nas mesmas condições implicam o dever de reposição da configuração do terreno e de recuperação do coberto vegetal, pelo proprietário, segundo projecto aprovado pela Administração, no prazo estabelecido, podendo esta substituir-se àquele se os trabalhos não forem antecipadamente concluídos."
+  },
+  "48140375": {
+   "fragment_id": "37192575",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\n1. Os municípios deverão dar publicidade ao início e ao termo das medidas preventivas, por editais afixados nos Paços do Concelho, nas sedes das juntas de freguesia a que respeitem as áreas abrangidas e por meio de aviso publicado no jornal diário mais lido na região.\n\n2. Para esse efeito, as entidades que tenham promovido a adopção das medidas ou os actos de que resulte o termo destas deverão dar conhecimento dos mesmos aos municípios das áreas abrangidas."
+  },
+  "48140475": {
+   "fragment_id": "35713375",
+   "type": 1,
+   "heading": "Capítulo III — Zona de defesa e «contrôle» urbanos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Zona de defesa e «contrôle» urbanos"
+  },
+  "48140575": {
+   "fragment_id": "37192675",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\n1. Serão constituídas zonas de defesa e contrôle urbanos, destinadas a evitar ou controlar as actividades nos solos circundantes dos aglomerados, ou neles incluídos, e as alterações no uso dos mesmos que possam ser inconvenientes para os interesses colectivos da respectiva população e para o adequado funcionamento do sistema urbano, nos diversos aspectos que careçam de tutela, incluindo o equilíbrio biofísico, bem como a preservar as características e condições necessárias ao desenvolvimento do aglomerado.\n\n2. Será delimitada, por decreto, uma zona de defesa e contrôle urbanos, relativamente:\n\na) A cada sede do distrito;\n\nb) A cada aglomerado urbano com mais de 25000 habitantes;\n\nc) A qualquer outro aglomerado urbana para o qual se considere conveniente a criação dessa zona.\n\n3. A zona de defesa e contrôle urbanos poderá ser estabelecida para uma área que abranja um conjunto de aglomerados, sempre que tal se mostre conveniente para o ordenado desenvolvimento da região."
+  },
+  "48140675": {
+   "fragment_id": "37192775",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\n1. A zona de defesa e contrôle urbanos terá a extensão que se mostre adequada em cada caso, para a satisfação dos fins a que se destina, devendo, porém, ser suficientemente ampla para permitir o contrôle eficaz das actividades inconvenientes aos interesses da colectividade e satisfazer, a longo prazo, as necessidades de expansão do aglomerado.\n\n2. Os limites da zona de defesa e contrôle urbanos, quando não possam coincidir, no todo ou em parte, com as circunscrições administrativas, deverão ser definidos de forma a permitir uma segura identificação, pela referência, sempre que possível, a elementos físicos facilmente identificáveis, designadamente caminhos públicos e linhas de água."
+  },
+  "48140775": {
+   "fragment_id": "37192875",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\n1. Em cada zona de defesa e contrôle urbanos vigorará o regime de proibições, autorizações e outros condicionamentos que forem estabelecidos dentro do quadro previsto nos n.os 1 e 2 do artigo 8.º\n\n2. O regime da zona de defesa e contrôle urbanos poderá ser definido diversificadamente, para áreas ou sectores distintos dentro da zona, em função das necessidades específicas relativas a cada uma dessas áreas ou sectores."
+  },
+  "48140875": {
+   "fragment_id": "37192975",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\nÉ aplicável o disposto no n.º 3 do artigo 8.º e nos artigos 11.º, 12.º e 13.º, respectivamente, quanto definição do regime da zona de defesa e contrôle urbanos, inexistência de direito a indemnização pela sujeição a esse regime, inobservância do mesmo e publicidade do estabelecimento e modificação da zona ou do seu regime."
+  },
+  "48140975": {
+   "fragment_id": "37193075",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nDeverão ser estabelecidas zonas de defesa e contrôle para as parques industriais, às quais será aplicável, com as devidas adaptações e tendo em vista as necessidades específicas desses parques, o disposto nos artigos 14.º a 17.º"
+  },
+  "48141075": {
+   "fragment_id": "35713475",
+   "type": 1,
+   "heading": "Capítulo IV — Constituição do direito de superfície",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Constituição do direito de superfície"
+  },
+  "48141175": {
+   "fragment_id": "37193175",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\n1. O direito de superfície, a que se refere o artigo 5.º, será constituído por prazo não inferior a cinquenta anos, a estabelecer em função das características dos edifícios a erigir, do período necessário para a amortização do capital a investir neles e da sua adequada remuneração.\n\n2. No caso de cedência de direito de superfície a cooperativas previstas no artigo 4.º do Decreto n.º 182/72, de 30 de Maio, ou para construção de habitação própria, ainda que em regime de propriedade horizontal, a prazo mínimo será de setenta anos.\n\n3. O prazo do direito de superfície será fixado no acto de constituição, e pode ser prorrogado pelos períodos que forem convencionados, salvo nos casos em que o superficiário expressamente renuncie à prorrogação.\n\n4. Na falta de convenção sobre o período de prorrogação, entende-se que ela se opera por um período igual a metade do prazo inicial, salvo nos casos em que a Administração findo o prazo, necessitar do terreno para obras de renovação urbana ou outro fim de interesse público."
+  },
+  "48141275": {
+   "fragment_id": "37193275",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\n1. Na constituição do direito de superfície serão sempre fixados prazos para o início e a conclusão das construções a erigir e serão adoptadas as providências que se mostrem adequadas para evitar especulação na alienação do direito.\n\n2. Para os fins do disposto na última parte do número anterior poderá convencionar-se, designadamente, a proibição da alienação do direito durante certo prazo e a sujeição da mesma a autorização da Administração.\n\n3. A Administração gozará sempre do direito de preferência em primeiro grau, na alienação do direito por acto inter vivos e na adjudicação em liquidação e partilha de sociedade, sendo esse direito de preferência exercido de harmonia com as normas regulamentares estabelecidas para o efeito.\n\n4. São anuláveis os actos praticados sem que haja sido facultado o exercício do direito do preferência."
+  },
+  "48141375": {
+   "fragment_id": "37193375",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\n1. O direito do superfície pode ser cedido contra o pagamento de uma quantia determinada ou do prestações periódicas.\n\n2. No caso em que o preço for pago em prestações periódicas, será a mesmo revisto, salvo estipulação em contrário, sempre que se verifique alteração das condições de aproveitamento do terreno, por modificação das normas regulamentares do plano de ocupação do solo.\n\n3. Os superficiários, terão direito a indemnização pela extinção do direito de superfície, quando assim for convencionado no título do constituição."
+  },
+  "48141475": {
+   "fragment_id": "35713575",
+   "type": 1,
+   "heading": "Capítulo V — Associação da Administração com os proprietários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Associação da Administração com os proprietários"
+  },
+  "48141575": {
+   "fragment_id": "37193475",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\n1. Salvo a disposto no n.º 1 do artigo 2.º, a Administração poderá assegurar a disponibilidade das áreas a utilizar em operações do expansão, desenvolvimento ou renovação urbana ou de criação de novos aglomerados, mediante associação com os respectivos proprietários e titulares de direitos, ónus e encargos, sabre elas incidentes.\n\n2. Nos aglomerados urbanos para as quais exista plano de urbanização aprovado, as associações só poderão destinar-se a operações integradas na respectiva execução."
+  },
+  "48141675": {
+   "fragment_id": "37193575",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º\n\n1. A efectivação da associação depende de acordo da Administração com as proprietários e titulares referidos no n.º 1 do artigo anterior.\n\n2. A associação poderá efectivar-se, porém, sem o acordo do todos os interessados, desde que:\n\na) A área dos imóveis, cujos proprietários ou outros interessados recusem o seu acordo, constitua uma fracção inferior a um terço do conjunto da área;\n\nb) A associação tenha interesse público.\n\n3. No caso previsto no número anterior, os imóveis cujos proprietários ou outros interessados não queiram fazer parte da associação serão expropriados e integrados na participação da Administração.\n\n4. Na falta de acordo entre a Administração e os restantes associados sobre o valor dos imóveis e direitos, será o mesmo determinado nos termos aplicáveis do processo de expropriação por utilidade pública."
+  },
+  "48141775": {
+   "fragment_id": "37193675",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º\n\n1. A participação da Administração será constituída, salvo o que for convencionado sobre a matéria, pelo valor dos imóveis que a mesma possuir na área e pelo capital que investir nas infra-estruturas urbanísticas necessárias.\n\n2. As participações dos restantes associados serão constituídas, salvo também o que for convencionado, pelo valor dos respectivos imóveis e direitos a eles inerentes.\n\n3. O acto constitutivo da associação constará de auto lavrado por notário ou pelo chefe de secretaria da câmara municipal em cuja área se situem os terrenos a urbanizar ou a maior extensão da respectiva área, dele devendo constar o acordo a que se tiver chegado sobre a matéria dos artigos anteriores e a assinatura de todos os interessados."
+  },
+  "48141875": {
+   "fragment_id": "37193775",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º\n\n1. A associação terá como finalidade a realização dos trabalhos de urbanização projectados para a área, o loteamento respectivo e, ainda, a partilha entre os associados, na proporção das suas participações, do produto da cedência dos lotes constituídos ou desses mesmos lotes.\n\n2. A cedência dos lotes pode ser feita em propriedade plena ou em direito de superfície.\n\n3. O simples facto da constituição da associação conferirá à Administração o direito de realizar os trabalhos projectados para a área abrangida, o respectivo loteamento, a cedência ou partilha entre os associados e as demais operações necessárias à ultimação do objecto da associação.\n\n4. Só as operações finais resultantes da partilha entre os associados ou cedência a estes ou a terceiros dos lotes constituídos serão objecto das operações de registo que se mostrem necessárias, nos termos da lei geral ou nos que vierem expressamente regulamentados."
+  },
+  "48141975": {
+   "fragment_id": "37193875",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º\n\nAs restantes normas sobre constituição e funcionamento da associação, a que se reporta o presente diploma, serão objecto de regulamento."
+  },
+  "48142075": {
+   "fragment_id": "35713675",
+   "type": 1,
+   "heading": "Capítulo VI — Direito de preferência da Administração na alienação de terrenos a edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Direito de preferência da Administração na alienação de terrenos a edifícios"
+  },
+  "48142175": {
+   "fragment_id": "37193975",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º\n\n1. Poderá ser concedido à Administração, por decreto, o direito de preferência nas transmissões por título oneroso, entre particulares, de terrenos ou, edifícios situados nas áreas necessárias para a expansão, desenvolvimento ou renovação de aglomerados urbanos, ou para a execução de qualquer outro empreendimento de interesse público, em obediência ao respectivo plano e nas condições a definir em decreto regulamentar.\n\n2. O direito de preferência pode ser conferido, relativamente aos prédios existentes, na totalidade ou em parte da área abrangida por medidas preventivas ou pelo estabelecimento, de uma zona de defesa e contrôle urbanos."
+  },
+  "48142275": {
+   "fragment_id": "37194075",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º\n\n1. O direito de preferência a que se refere o artigo anterior pode ser exercido com a declaração de não aceitação do preço convencionado.\n\n2. Neste caso, a transmissão para o preferente será feita pelo preço que vier a ser fixado, mediante os termos aplicáveis do processo de expropriação por utilidade pública, se o transmitente não concordar, por sua vez, com o oferecido pelo preferente."
+  },
+  "48142375": {
+   "fragment_id": "35713775",
+   "type": 1,
+   "heading": "Capítulo VII — Cedência de direitos sobre terrenos pela Administração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VII — Cedência de direitos sobre terrenos pela Administração"
+  },
+  "48142475": {
+   "fragment_id": "37194175",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º\n\n1. A Administração cederá, mediante acordo directo com os respectivos promotores ou interessados, o direito de superfície sobre terrenos destinados:\n\na) A edifícios ou instalações de interesse público;\n\nb) A empreendimentos relativos a habitação social;\n\nc) A edifícios para habitação própria, ainda que em regime de propriedade horizontal.\n\n2. Será cedido, por concurso, o direito de superfície sobre terrenos destinados a edifícios cujos fogos fiquem sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda.\n\n3. O direito de superfície sobre terrenos destinados aos restantes empreendimentos será cedido mediante hasta pública.\n\n4. A distribuição, pelos diversos interessados, dos terrenos destinados a edifícios compreendidos nas alíneas b) e c) do n.º 1 e no n.º 2 será objecto, de regulamento."
+  },
+  "48142575": {
+   "fragment_id": "37194275",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º\n\n1. Os direitos sobre terrenos, destinados aos fins previstos nos n.os 1 e 2 do artigo anterior, devem ser cedidos por preços que, no conjunto, não sejam lucrativos para a Administração, atendendo aos custos de aquisição, acrescidos dos custos dos estudos e da realização dos trabalhos de urbanização e dos inerentes encargos, calculados em relação a toda a zona.\n\n2. Os preços de cedência dos direitos sobre os mesmos terrenos podem, contudo, variar, relativamente, entre si, em função das finalidades e dos objectivos específicos dos respectivos empreendimentos."
+  },
+  "48142675": {
+   "fragment_id": "37194375",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º\n\nSerão sujeitos a aprovação ministerial os programas de distribuição de lotes de terrenos relativos a planos ou projectos que revistam interesse geral ou regional, bem como as bases ou condições gerais a observar na cedência dos lotes por acordo directo."
+  },
+  "48142775": {
+   "fragment_id": "35713875",
+   "type": 1,
+   "heading": "Capítulo VIII — Operações de loteamento por particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VIII — Operações de loteamento por particulares"
+  },
+  "48142875": {
+   "fragment_id": "37194475",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º\n\nAs operações de loteamento urbano podem não ser autorizadas, ainda que correspondam a empreendimentos previstos em plano de urbanização aprovado, desde que a sua imediata ou próxima realização seja inconveniente para a programação adequada da execução daquele plano ou planos de interesse geral, ou para o desenvolvimento ordenado da região."
+  },
+  "48142975": {
+   "fragment_id": "37194575",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º\n\n1. Compete ao Secretário de Estado da Habitação e Urbanismo:\n\na) Fixar, mediante portaria, as áreas ou os casos relativamente aos quais deverão ser submetidos à sua aprovação os pedidos de licença de loteamento, para impedir aqueles cuja imediata ou próxima realização seja inconveniente para o desenvolvimento ordenado da região;\n\nb) Aprovar os pedidos de licença de loteamento sujeitos à sua resolução, nos termos da alínea anterior.\n\n2. A competência conferida na alínea b) do número anterior poderá ser delegada nos órgãos mais adequados, consoante as circunstâncias.\n\n3. As câmaras municipais deverão submeter à resolução do Secretário de Estado da Habitação e Urbanismo, ou do órgão em que este tenha delegado a respectiva competência, os pedidos de licença de loteamento, sempre que receiem que se verifiquem os efeitos previstos na alínea a) do n.º 1.\n\n4. Os pedidos de licença de loteamento submetidos à resolução do Secretário de Estado da Habitação e Urbanismo, ou de Órgão delegado, não estão sujeitos a deferimento tácito."
+  },
+  "48143075": {
+   "fragment_id": "37194675",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º\n\n1. Das deliberações das câmaras municipais que indefiram pedidos de licença de loteamento, com o fundamento de a sua imediata ou próxima realização ser inconveniente para a adequada execução do plano de urbanização, cabe recurso para o Secretário de Estado da Habitação e Urbanismo.\n\n2. Ao recurso a que se refere o número anterior é aplicável o disposto nos n.os 2 a 4 do artigo 8.º do Decreto-Lei n.º 289/73, de 6 de Junho."
+  },
+  "48143175": {
+   "fragment_id": "37194775",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º\n\nNa concessão de licenças de loteamento podem ser impostas, além de outras condições que se mostrem convenientes:\n\na) A observância, para todos ou parte dos fogos a construir nos lotes, de valores máximos para as rendas ou preços de venda a praticar;\n\nb) A programação da construção dos fogos permitidos;\n\nc) A cedência à Administração de determinadas áreas destinadas a equipamentos de interesse colectivo."
+  },
+  "48143275": {
+   "fragment_id": "35713975",
+   "type": 1,
+   "heading": "Capítulo IX — Restrições à demolição de edifícios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IX — Restrições à demolição de edifícios"
+  },
+  "48143375": {
+   "fragment_id": "37194875",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º\n\n1. A demolição de edifícios destinados a habitação, quando não integrada em operações de renovação urbana planeadas pela Administração ou por esta determinada, fica sujeita às restrições prescritas nos artigos seguintes.\n\n2. Legislação especial regulará a defesa de edifícios ou zonas de interesse histórico, cultural ou artístico."
+  },
+  "48143475": {
+   "fragment_id": "37194975",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º\n\n1. Nas sedes de distrito, nos aglomerados urbanos com mais de 25000 habitantes e naqueles para os quais assim seja deliberado pelos órgãos competentes, a demolição só pode ser autorizada quando os edifícios careçam dos requisitos de habitabilidade indispensáveis - designadamente falta de condições de solidez, segurança ou salubridade - e não se mostre aconselhável, sob o aspecto técnico ou económico, a respectiva beneficiação ou reparação.\n\n2. Nos aglomerados urbanos não incluídos no número anterior, a demolição pode ser autorizada por qualquer motivo socialmente justificado.\n\n3. Quando a demolição se destinar à substituição de um ou mais edifícios, para aumentar o número dos respectivos fogos, poderá ser autorizada, mediante despacho do Secretário de Estado da Habitação e Urbanismo, o qual poderá delegar a respectiva competência.\n\n4. Mediante portaria do Secretário de Estado da Habitação e Urbanismo, poderá ser mandado aplicar o regime definido no n.º 2 aos aglomerados urbanos referidos no n.º 1 deste artigo."
+  },
+  "48143575": {
+   "fragment_id": "37195075",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º\n\nAs deliberações sobre pedidos de demolição serão precedidas de vistoria para a verificação dos fundamentos invocados, quando revistam natureza técnica."
+  },
+  "48143675": {
+   "fragment_id": "35714075",
+   "type": 1,
+   "heading": "Capítulo X — Restrições à utilização de edifícios para actividades comerciais ou industriais e profissões liberais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo X — Restrições à utilização de edifícios para actividades comerciais ou industriais e profissões liberais"
+  },
+  "48143775": {
+   "fragment_id": "37195175",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º\n\n1. Nos aglomerados urbanos em que tal se mostre necessário para o conveniente ordenamento urbanístico, podem ser delimitadas zonas em que fique proibida a nova utilização de edifícios ou de partes destes para o exercício de actividades industriais ou comerciais ou de profissões liberais, ou limitada essa utilização a certos tipos das mesmas actividades.\n\n2. Para os efeitos do disposto no número anterior, considera-se nova utilização para os fins nele referidos:\n\na) A utilização de locais em prédios que ainda não tenham tido qualquer ocupação, embora resultem da reconstrução de outros;\n\nb) A utilização de locais anteriormente usados para outros fins, designadamente para habitação;\n\nc) A utilização resultante de cessão de posição contratual, em arrendamento, para qualquer dos mencionados fins, quando não integrada em traspasse.\n\n3. O disposto no n.º 1 não abrange os edifícios, ou partes deles, que, pelas suas características, não sejam adequados para habitação."
+  },
+  "48143875": {
+   "fragment_id": "37195275",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º\n\n1. A providência contemplada no artigo anterior será adoptada mediante portaria do Secretário de Estado da Habitação e Urbanismo, sob proposta da câmara municipal do concelho ou dos órgãos ou serviços de planeamento.\n\n2. A câmara municipal será sempre ouvida quando a proposta não for por ela formulada."
+  },
+  "48143975": {
+   "fragment_id": "35714175",
+   "type": 1,
+   "heading": "Capítulo XI — Áreas críticas de recuperação e reconversão urbanística",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XI — Áreas críticas de recuperação e reconversão urbanística"
+  },
+  "48144075": {
+   "fragment_id": "37195375",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º\n\n1. Poderão ser declaradas áreas críticas de recuperação e reconversão urbanística aquelas em que a falta ou insuficiência de infra-estruturas urbanísticas, de equipamento social, de áreas livres e espaços verdes, ou as deficiências dos edifícios existentes, no que se refere a condições de solidez, segurança ou salubridade, atinjam uma gravidade tal que só a intervenção da Administração, através de providências expeditas, permita obviar, eficazmente, aos inconvenientes e perigos inerentes às mencionadas situações.\n\n2. A delimitação das áreas a que se refere o número anterior será feita por decreto.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro."
+  },
+  "48144175": {
+   "fragment_id": "37195475",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º\n\n1. A delimitação de uma área crítica de recuperação e reconversão urbanística implica, como efeito directo e imediato:\n\na) A declaração de utilidade pública da expropriação urgente, com autorização de investidura na posse administrativa, segundo o processo correspondente, dos imóveis nela existentes de que a Administração necessite para a execução dos trabalhos a realizar para a recuperação ou reconversão da área;\n\nb) A faculdade de a Administração tomar posse administrativa de quaisquer imóveis situados na área, como meio destinado:\n\nI) À ocupação temporária de terrenos, com vista à instalação transitória de infra-estruturas ou equipamento social ou à realização de outros trabalhos necessários;\n\nII) À demolição de edifícios que revista carácter urgente, em virtude de perigo para os respectivos ocupantes ou para o público, por carência de condições de solidez, segurança ou salubridade, que não possa ser evitado por meio de beneficiação ou reparação economicamente justificável;\n\nIII) À realização de obras de beneficiação ou reparação de edifícios que, por idênticas carências, revistam também carácter urgente, em virtude de os prédios não oferecerem condições de habitabilidade.\n\n2. A ocupação temporária de terrenos prevista no n.º I da alínea b) do número anterior será precedida de vistoria ad perpetuam rei memoriam, efectuada nos termos prescritos para a posse administrativa nas expropriações urgentes por utilidade pública.\n\n3. A necessidade de demolição de edifícios ou de obras de beneficiação ou reparação dos mesmos será verificada através de vistoria.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro."
+  },
+  "48144275": {
+   "fragment_id": "37195575",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º\n\n1. A posse administrativa, nos casos da alínea b) do n.º 1 do artigo anterior, será notificada aos proprietários dos imóveis a que respeita, por meio de ofício registado com aviso de recepção, no qual se lhes dará conhecimento da deliberação, dos fundamentos e da finalidade da diligência.\n\n2. A notificação será feita por edital, afixado nos Paços do Concelho durante quinze dias, e publicada em dois números de um dos jornais mais lidos da área da situação do prédio:\n\na) Quando se desconheça a identidade ou a residência do proprietário;\n\nb) Quando este não seja encontrado na sua residência habitual.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro."
+  },
+  "48144375": {
+   "fragment_id": "37195675",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º\n\n1. Os interessados poderão reclamar da deliberação, no prazo de quinze dias, a contar do recebimento do ofício de notificação ou do termo do período de afixação do edital ou da última publicação do jornal, se for posterior.\n\n2. Nos casos de posse administrativa para demolição, reparação ou beneficiação de edifícios, os interessados, dentro do prazo estipulado no número anterior, poderão requerer a fixação de prazos para o início e conclusão dos trabalhos, assumindo a responsabilidade de os efectuar.\n\n3. A Administração procederá aos trabalhos de demolição, de beneficiação ou reparação de edifícios, por conta dos respectivos proprietários:\n\na) Se estes não apresentarem reclamação contra a diligência ou a mesma for indeferida;\n\nb) Se os interessados não iniciarem os trabalhos ou não os concluírem nos prazos para esse efeito fixados a seu pedido.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro."
+  },
+  "48144475": {
+   "fragment_id": "37195775",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º\n\n1. A ocupação temporária de terrenos, nos termos do n.º I da alínea b) do n.º 1 do artigo 42.º, confere direito a indemnização pelos danos causados.\n\n2. Se a ocupação do terreno se prolongar para além de cinco anos, o proprietário tem o direito de exigir que a Administração proceda à respectiva expropriação.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro."
+  },
+  "48144575": {
+   "fragment_id": "37195875",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º\n\nA Administração poderá proceder ao despejo administrativo dos prédios a demolir, bem como ao despejo temporário daqueles que careçam de obras cuja realização não possa ser feita sem a desocupação.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro."
+  },
+  "48144675": {
+   "fragment_id": "35714275",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições diversas sobre expropriações e obrigatoriedade de construção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XII — Disposições diversas sobre expropriações e obrigatoriedade de construção"
+  },
+  "48144775": {
+   "fragment_id": "37195975",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º\n\nNos casos de abertura, alargamento ou regularização de ruas, praças, jardins e outros lugares públicos, embora fora dos casos em que a Administração deva apropriar-se de toda a área a urbanizar nos termos do n.º 1 do artigo 2.º, poderá a mesma expropriar uma faixa adjacente, contínua, com profundidade não superior a 50 m, destinada a edificações e suas dependências."
+  },
+  "48144875": {
+   "fragment_id": "37196075",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º\n\n1. Podem ser expropriados por utilidade pública:\n\na) Os prédios rústicos que, após as obras que justifiquem o seu aproveitamento urbano, não sejam assim aproveitados, sem motivo legítimo, no prazo de dezoito meses, a contar da notificação que, para esse fim, seja feita ao respectivo proprietário;\n\nb) Os terrenos próprios para construção adjacentes a vias públicas de aglomerados urbanos, quando os proprietários, notificados para os aproveitarem em edificações, o não fizerem, sem motivo legítimo, no prazo de dezoito meses, a contar da notificação;\n\nc) Os prédios urbanos que devam ser reconstruídos ou remodelados, em razão das suas pequenas dimensões, posição fora do alinhamento ou más condições de higiene ou estética, quando o proprietário não der cumprimento, sem motivo legítimo, no prazo de dezoito meses, à notificação que, para esse fim, lhe for feita.\n\n2. Em todos os casos previstos no número antecedente, o Estado procurará, através de esquemas preferenciais de crédito, apoiar financeiramente os respectivos proprietários.\n\n3. Os prazos a que se referem as alíneas do número anterior respeitam ao início das obras nelas previstas e podem ser prorrogados por motivo justificado.\n\n4. Na concessão de licença para as mesmas obras, será fixado prazo para a respectiva conclusão, em função das circunstâncias, prazo esse também prorrogável por motivo justificado.\n\n5. Se as obras não forem concluídas dentro do prazo para tal concedido, proceder-se-á à expropriação por utilidade pública."
+  },
+  "48144975": {
+   "fragment_id": "37196175",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º\n\n1. Quando as circunstâncias previstas na alínea c) do n.º 1 do artigo anterior se verificarem em relação a um conjunto de prédios de diversos proprietários, poderá a câmara municipal definir um esquema de reestruturação desse conjunto, fixando um prazo, não inferior a cento e vinte dias, para os proprietários acordarem na realização da obra segundo esse esquema e no direito de propriedade sobre o edifício ou edifícios que vierem a substituir os existentes.\n\n2. Proceder-se-á à expropriação:\n\na) Se os proprietários não apresentarem na câmara municipal, dentro do prazo fixado, documento comprovativo do acordo;\n\nb) Se os mesmos não derem início às obras ou não as concluírem nos prazos para tal fixados."
+  },
+  "48145075": {
+   "fragment_id": "37196275",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º\n\nNos casos previstos nos dois artigos que antecedem, os municípios poderão acordar com os proprietários, nas condições que se mostrem adequadas, adquirir-lhes a propriedade dos terrenos, ficando aqueles com o direito de superfície."
+  },
+  "48145175": {
+   "fragment_id": "37196375",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º\n\nNos casos da alínea c) do n.º 1 do artigo 48.º e do artigo 49.º, a notificação ou a fixação do prazo para acordo entre os proprietários seguir-se-á, logo que necessário, à desocupação dos prédios por via administrativa, sem prejuízo das indemnizações devidas aos arrendatários que, como os demais encargos, serão da conta dos proprietárias que devam proceder à reconstrução ou remodelação dos prédios, sem prejuízo da possibilidade de realojamento contemplada no capítulo seguinte."
+  },
+  "48145275": {
+   "fragment_id": "35714375",
+   "type": 1,
+   "heading": "Capítulo XIII — Realojamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIII — Realojamento"
+  },
+  "48145375": {
+   "fragment_id": "37196475",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º\n\n1. A Administração não pode desalojar os moradores das casas de habitação que tenham de ser demolidas ou desocupadas, embora temporariamente, para a realização de qualquer empreendimento ou execução de qualquer actividade ou trabalho, sem que tenha, providenciado, quando tal se mostre necessário, pelo realojamento dos mesmos.\n\n2. No realojamento, a Administração deverá ter especialmente em conta as condições sócio-económicos dos moradores, de modo a conceder particular protecção aos agregados familiares de modestos recursos."
+  },
+  "48145475": {
+   "fragment_id": "37196575",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º\n\n1. O realojamento poderá ter lugar através de casas desmontáveis, quando esse meio seja o mais aconselhável ou quando não haja possibilidade de recurso a outro processo, designadamente o arrendamento, num prazo máximo fixado de molde a não ser afectado o normal andamento das obras.\n\n2. Para a instalação de casas desmontáveis a que se refere o número anterior, poderá a Administração, por decisão da entidade a que incumba o realojamento, utilizar, temporariamente, quaisquer terrenos que se mostrem necessários e adequados para o efeito.\n\n3. A utilização referida no número anterior será precedida da posse administrativa, segundo os termos previstos para esta fase no processo de expropriação por utilidade pública."
+  },
+  "48145575": {
+   "fragment_id": "37196675",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º\n\n1. A utilização temporária prevista no artigo anterior confere direito a indemnização pelos danos causados.\n\n2. Na falta de acordo sobre o montante da indemnização, será a mesma fixada de acordo com as regras processuais da expropriação por utilidade pública.\n\n3. Se a utilização temporária se prolongar por prazo superior a cinco anos, os interessados têm o direito de exigir que a Administração proceda à expropriação por utilidade pública da área utilizada."
+  },
+  "48145675": {
+   "fragment_id": "37196775",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º\n\n1. Quando se verifique expropriação em benefício da entidade concessionária de serviço público, deverá a Administração construir as habitações necessárias ao realojamento dos moradores das casas objecto da expropriação, suportando o expropriante os encargos respectivos, conforme estiver estabelecido no contrato de concessão.\n\n2. Na falta de estipulação em contrário, a construção incumbirá às câmaras municipais, com o apoio financeiro do Estado, se necessário.\n\n3. No instrumento da concessão poderá estabelecer-se a obrigação de o concessionário proceder à construção das habitações necessárias, num prazo máximo, fixado de molde a não ser afectado o normal andamento das obras."
+  },
+  "48145775": {
+   "fragment_id": "35714475",
+   "type": 1,
+   "heading": "Capítulo XIV — Fundo municipal de urbanização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XIV — Fundo municipal de urbanização"
+  },
+  "48145875": {
+   "fragment_id": "37196875",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º\n\n1. Nos municípios que se localizem em sede de distrito e em todos aqueles cujas sedes ou outros aglomerados tenham mais de 10000 habitantes será constituído um fundo autónomo destinado à satisfação dos encargos com o estudo e realização de projectos relativos a operações e trabalhos de urbanização, construção e reconstrução de habitações a cargo da autarquia.\n\n2. A constituição do fundo autónomo a que se refere o número anterior pode ter lugar noutros municípios, por iniciativa do respectivo corpo administrativo ou determinação do Governo."
+  },
+  "48145975": {
+   "fragment_id": "37196975",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º\n\nSerão afectadas ao fundo as seguintes receitas:\n\na) Subsídios e empréstimos concedidos pelo Estado e quaisquer outras entidades;\n\nb) O produto da alienação dos terrenos adquiridos para operações de urbanização ou da cedência de direitos sobre os mesmos;\n\nc) O produto da alienação de edifícios construídos pela autarquia para execução de empreendimentos habitacionais;\n\nd) As rendas dos edifícios construídos pela autarquia nas condições referidas na alínea anterior e que por ela não sejam alienados;\n\ne) A parte, destinada ao município, da mais-valia cobrada pelas construções feitas na área do concelho;\n\nf) Quaisquer outras receitas que lhe sejam atribuídas."
+  },
+  "48146075": {
+   "fragment_id": "37197075",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º\n\nO fundo suporta os encargos relativos:\n\na) À aquisição de imóveis destinados às operações de urbanização, abrangendo a renovação urbana;\n\nb) À realização de trabalhos, incluindo os respeitantes a infra-estruturas, equipamento social e espaços verdes, a cargo da autarquia;\n\nc) À construção de habitações, compreendidas em planos ou programas nacionais, ou da iniciativa municipal, e à conservação das que se mantenham na propriedade da autarquia;\n\nd) Aos estudos e projectos necessários às actividades e realizações previstas nas alíneas anteriores;\n\ne) À amortização dos empréstimos contraídos para os mesmos fins e ao pagamento dos respectivos encargos."
+  },
+  "48146175": {
+   "fragment_id": "35714575",
+   "type": 1,
+   "heading": "Capítulo XV — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo XV — Disposições finais e transitórias"
+  },
+  "48146275": {
+   "fragment_id": "37197175",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 59.º\n\n1. O disposto no n.º 1 do artigo 2.º não prejudica a validade das licenças referidas no artigo 1.º do Decreto-Lei n.º 289/73, de 6 de Junho, em vigor à data do início da vigência deste diploma, nem as urbanizações aprovadas por acto administrativo, expresso ou tácito, e com infra-estruturas em execução com licença camarária.\n\n2. Também este diploma não prejudica a possibilidade de confirmação das licenças suspensas ao abrigo do Decreto-Lei n.º 511/75, de 20 de Setembro.\n\n3. Para os efeitos da parte final dos n.os 1 e 3 do artigo 30.º, observar-se-á o estabelecido nos artigos 9.º e 10.º do Decreto n.º 182/72, de 30 de Maio."
+  },
+  "48146375": {
+   "fragment_id": "37197275",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 60.º\n\n1. Enquanto não for estabelecida regulamentação para os efeitos do n.º 4 do artigo 29.º, observar-se-á o disposto nos artigos 4.º e seguintes do Decreto n.º 182/72, com as necessárias adaptações e as alterações constantes dos números seguintes.\n\n2. Os n.os 2.º e 3.º do artigo 4.º daquele diploma invertem entre si as respectivas posições.\n\n3. É aditado a esse artigo um n.º 7.º, com a seguinte redacção:\n\n7.º Promotores que construam casas cujos fogos fiquem sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda.\n\n4. No caso de construção de moradias, o n.º 4.º do aludido artigo 4.º refere-se aos que pretendam construir casas para habitação própria, sendo, então, dada preferência, relativamente aos lotes resultantes de terrenos adquiridos por expropriação, aos respectivos expropriados.\n\n5. Para os efeitos do número anterior, se o terreno do lote pertencia a mais de um proprietário, a preferência cabe ao expropriado que era proprietário do terreno confinante com a via pública. Se houver mais de um nessas condições, a preferência cabe, sucessivamente, aos proprietários dos terrenos expropriados que tiverem maior linha de frente com a via pública.\n\n6. A competência a que se refere o artigo 15.º do Decreto n.º 182/72 pode ser delegada nas câmaras municipais, sempre que se trate de empreendimentos em cuja execução ou condução os municípios participem."
+  },
+  "48146475": {
+   "fragment_id": "37197375",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 61.º\n\nO disposto nos artigos 53.º e 54.º é aplicável aos planos de realojamento de emergência, necessários à instalação de vítimas de cataclismos e grupos de desalojados ou emigrantes."
+  },
+  "48146575": {
+   "fragment_id": "37197475",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 62.º\n\n1. Para efeitos deste diploma, entende-se por aglomerado urbano o núcleo de edificações autorizadas e respectiva área envolvente, possuindo vias públicas pavimentadas e que seja servido por rede de abastecimento domiciliário de água e de drenagem de esgoto, sendo o seu perímetro definido pelos pontos distanciados 50 m das vias públicas onde terminam aquelas infra-estruturas urbanísticas.\n\n2. Para efeitos deste diploma, entende-se por zona diferenciada do aglomerado urbano o conjunto de edificações autorizadas e terrenos contíguos marginados por vias públicas urbanas pavimentadas que não disponham de todas as infra-estruturas urbanísticas do aglomerado."
+  },
+  "48146675": {
+   "fragment_id": "37197575",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 63.º\n\nO disposto no presente diploma não prejudica a vigência do Decreto-Lei n.º 8/73, de 8 de Janeiro, e do Decreto-Lei n.º 273-C/75, de 3 de Junho."
+  },
+  "48146775": {
+   "fragment_id": "37197675",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 64.º\n\nSão revogados os artigos 1.º a 12.º e 19.º a 56.º do Decreto-Lei n.º 576/70, de 24 de Novembro, e os artigos 2.º a 4.º do Decreto-Lei n.º 445/74, de 12 de Setembro."
+  },
+  "921943106": {
+   "fragment_id": "37197175",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": "1977-01-28",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário da República n.º 23/1977, Série I de 1977-01-28](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-138342), em vigor a partir de 1977-01-28"
+   ],
+   "markdown": "###### Artigo 59.º\n\n1. O disposto no n.º 1 do artigo 2.º não prejudica a validade das licenças referidas no artigo 1.º do Decreto-Lei n.º 289/73, de 6 de Junho, em vigor à data do início da vigência deste diploma, nem as urbanizações aprovadas por acto administrativo, expresso ou tácito, e com infra-estruturas em execução com licença camarária.\n\n2. Também este diploma não prejudica a possibilidade de confirmação das licenças suspensas ao abrigo do Decreto-Lei n.º 511/75, de 20 de Setembro.\n\n3. Para os efeitos da parte final dos n.ºs 1 e 3 do artigo 20.º, observar-se-á o estabelecido nos artigos 9.º e 10.º do Decreto n.º 182/72, de 30 de Maio.\n\n> Retificado pelo/a [Rectificação - Diário da República n.º 23/1977, Série I de 1977-01-28](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-138342), em vigor a partir de 1977-01-28"
+  },
+  "48146875": {
+   "fragment_id": "35714675",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Mário Soares - Eduardo Ribeiro Pereira.\n\nPromulgado em 22 de Outubro de 1976.\n\nPublique-se.\n\nO Presidente da República, ANTÓNIO RAMALHO EANES."
+  },
+  "923033140": {
+   "fragment_id": "37191775",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "1980-08-20",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/80 - Diário da República n.º 190/1980, Série I de 1980-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1980-471105), em vigor a partir de 1980-08-20"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Nos terrenos já pertencentes à Administração ou que por ela venham a ser adquiridos, desde que destinados aos fins previstos no artigo 2.º ou a operações de renovação urbana, sempre que a realização dos correspondentes empreendimentos não venha a ser efectuada pela Administração, só poderá ser cedido o direito à utilização mediante a constituição do direito de superfície, salvo se as transmissões forem feitas a pessoas colectivas de direito público ou a empresas públicas.\n\n2 - Poderá ainda ser autorizada a cedência dos terrenos, em propriedade plena, a entidades de direito privado, desde que aqueles se integrem em áreas abrangidas por planos de urbanização legalmente aprovados.\n\n3 - A cedência dos terrenos, em propriedade plena, referida no número anterior efectuar-se-á por acordo directo ou por concurso, nos termos dos n.os 1 e 2 do artigo 29.º para a cedência em direito de superfície.\n\n4 - Para efeitos do número anterior, na escritura de transmissão será sempre fixado um prazo máximo para início das construções a erigir, o qual não poderá ser ultrapassado, salvo casos de força maior ou outras circunstâncias estranhas aos interessados, sob pena da reversão dos terrenos à titularidade da Administração e à perda, por parte do anterior proprietário, de 30% das quantias entregues a título de pagamento.\n\n5 - Quando o terreno pertencer ao Estado, seus organismos autónomos e institutos públicos, a decisão a que se refere o n.º 2 cabe ao Ministro da Habitação e Obras Públicas.\n\n6 - Quando o terreno pertencer a uma autarquia local, cabe à respectiva Assembleia Municipal a deliberação a que se refere o n.º 2.\n\n7 - Nas regiões autónomas, a competência atribuída no n.º 5 ao Ministro da Habitação e Obras Públicas cabe aos órgãos de governo próprio da região.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/80 - Diário da República n.º 190/1980, Série I de 1980-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1980-471105), em vigor a partir de 1980-08-20"
+  },
+  "923289406": {
+   "fragment_id": "35713875",
+   "type": 1,
+   "heading": "Capítulo VIII — Operações de loteamento por particulares",
+   "in_force_from": "1985-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+   ],
+   "markdown": "### Capítulo VIII — Operações de loteamento por particulares\n\n> Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+  },
+  "923289411": {
+   "fragment_id": "37194475",
+   "type": 11,
+   "heading": "Artigo 32.º",
+   "in_force_from": "1985-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+   ],
+   "markdown": "###### Artigo 32.º\n\nAs operações de loteamento urbano podem não ser autorizadas, ainda que correspondam a empreendimentos previstos em plano de urbanização aprovado, desde que a sua imediata ou próxima realização seja inconveniente para a programação adequada da execução daquele plano ou planos de interesse geral, ou para o desenvolvimento ordenado da região.\n\n> Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+  },
+  "923289412": {
+   "fragment_id": "37194575",
+   "type": 11,
+   "heading": "Artigo 33.º",
+   "in_force_from": "1985-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+   ],
+   "markdown": "###### Artigo 33.º\n\n1. Compete ao Secretário de Estado da Habitação e Urbanismo:\n\na) Fixar, mediante portaria, as áreas ou os casos relativamente aos quais deverão ser submetidos à sua aprovação os pedidos de licença de loteamento, para impedir aqueles cuja imediata ou próxima realização seja inconveniente para o desenvolvimento ordenado da região;\n\nb) Aprovar os pedidos de licença de loteamento sujeitos à sua resolução, nos termos da alínea anterior.\n\n2. A competência conferida na alínea b) do número anterior poderá ser delegada nos órgãos mais adequados, consoante as circunstâncias.\n\n3. As câmaras municipais deverão submeter à resolução do Secretário de Estado da Habitação e Urbanismo, ou do órgão em que este tenha delegado a respectiva competência, os pedidos de licença de loteamento, sempre que receiem que se verifiquem os efeitos previstos na alínea a) do n.º 1.\n\n4. Os pedidos de licença de loteamento submetidos à resolução do Secretário de Estado da Habitação e Urbanismo, ou de Órgão delegado, não estão sujeitos a deferimento tácito.\n\n> Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+  },
+  "923289413": {
+   "fragment_id": "37194675",
+   "type": 11,
+   "heading": "Artigo 34.º",
+   "in_force_from": "1985-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+   ],
+   "markdown": "###### Artigo 34.º\n\n1. Das deliberações das câmaras municipais que indefiram pedidos de licença de loteamento, com o fundamento de a sua imediata ou próxima realização ser inconveniente para a adequada execução do plano de urbanização, cabe recurso para o Secretário de Estado da Habitação e Urbanismo.\n\n2. Ao recurso a que se refere o número anterior é aplicável o disposto nos n.os 2 a 4 do artigo 8.º do Decreto-Lei n.º 289/73, de 6 de Junho.\n\n> Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+  },
+  "923289414": {
+   "fragment_id": "37194775",
+   "type": 11,
+   "heading": "Artigo 35.º",
+   "in_force_from": "1985-03-01",
+   "changed_by": [
+    "Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+   ],
+   "markdown": "###### Artigo 35.º\n\nNa concessão de licenças de loteamento podem ser impostas, além de outras condições que se mostrem convenientes:\n\na) A observância, para todos ou parte dos fogos a construir nos lotes, de valores máximos para as rendas ou preços de venda a praticar;\n\nb) A programação da construção dos fogos permitidos;\n\nc) A cedência à Administração de determinadas áreas destinadas a equipamentos de interesse colectivo.\n\n> Revogado pelo/a Artigo 84.º do/a [Decreto-Lei n.º 400/84 - Diário da República n.º 301/1984, Série I de 1984-12-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/400-1984-389826), em vigor a partir de 1985-03-01"
+  },
+  "924226785": {
+   "fragment_id": "35714175",
+   "type": 1,
+   "heading": "Capítulo XI — Áreas críticas de recuperação e reconversão urbanística",
+   "in_force_from": "2009-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+   ],
+   "markdown": "### Capítulo XI — Áreas críticas de recuperação e reconversão urbanística\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+  },
+  "924226792": {
+   "fragment_id": "37195375",
+   "type": 11,
+   "heading": "Artigo 41.º",
+   "in_force_from": "2009-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+   ],
+   "markdown": "###### Artigo 41.º\n\n1. Poderão ser declaradas áreas críticas de recuperação e reconversão urbanística aquelas em que a falta ou insuficiência de infra-estruturas urbanísticas, de equipamento social, de áreas livres e espaços verdes, ou as deficiências dos edifícios existentes, no que se refere a condições de solidez, segurança ou salubridade, atinjam uma gravidade tal que só a intervenção da Administração, através de providências expeditas, permita obviar, eficazmente, aos inconvenientes e perigos inerentes às mencionadas situações.\n\n2. A delimitação das áreas a que se refere o número anterior será feita por decreto.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+  },
+  "924226793": {
+   "fragment_id": "37195475",
+   "type": 11,
+   "heading": "Artigo 42.º",
+   "in_force_from": "2009-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+   ],
+   "markdown": "###### Artigo 42.º\n\n1. A delimitação de uma área crítica de recuperação e reconversão urbanística implica, como efeito directo e imediato:\n\na) A declaração de utilidade pública da expropriação urgente, com autorização de investidura na posse administrativa, segundo o processo correspondente, dos imóveis nela existentes de que a Administração necessite para a execução dos trabalhos a realizar para a recuperação ou reconversão da área;\n\nb) A faculdade de a Administração tomar posse administrativa de quaisquer imóveis situados na área, como meio destinado:\n\nI) À ocupação temporária de terrenos, com vista à instalação transitória de infra-estruturas ou equipamento social ou à realização de outros trabalhos necessários;\n\nII) À demolição de edifícios que revista carácter urgente, em virtude de perigo para os respectivos ocupantes ou para o público, por carência de condições de solidez, segurança ou salubridade, que não possa ser evitado por meio de beneficiação ou reparação economicamente justificável;\n\nIII) À realização de obras de beneficiação ou reparação de edifícios que, por idênticas carências, revistam também carácter urgente, em virtude de os prédios não oferecerem condições de habitabilidade.\n\n2. A ocupação temporária de terrenos prevista no n.º I da alínea b) do número anterior será precedida de vistoria ad perpetuam rei memoriam, efectuada nos termos prescritos para a posse administrativa nas expropriações urgentes por utilidade pública.\n\n3. A necessidade de demolição de edifícios ou de obras de beneficiação ou reparação dos mesmos será verificada através de vistoria.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+  },
+  "924226794": {
+   "fragment_id": "37195575",
+   "type": 11,
+   "heading": "Artigo 43.º",
+   "in_force_from": "2009-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+   ],
+   "markdown": "###### Artigo 43.º\n\n1. A posse administrativa, nos casos da alínea b) do n.º 1 do artigo anterior, será notificada aos proprietários dos imóveis a que respeita, por meio de ofício registado com aviso de recepção, no qual se lhes dará conhecimento da deliberação, dos fundamentos e da finalidade da diligência.\n\n2. A notificação será feita por edital, afixado nos Paços do Concelho durante quinze dias, e publicada em dois números de um dos jornais mais lidos da área da situação do prédio:\n\na) Quando se desconheça a identidade ou a residência do proprietário;\n\nb) Quando este não seja encontrado na sua residência habitual.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+  },
+  "924226795": {
+   "fragment_id": "37195675",
+   "type": 11,
+   "heading": "Artigo 44.º",
+   "in_force_from": "2009-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+   ],
+   "markdown": "###### Artigo 44.º\n\n1. Os interessados poderão reclamar da deliberação, no prazo de quinze dias, a contar do recebimento do ofício de notificação ou do termo do período de afixação do edital ou da última publicação do jornal, se for posterior.\n\n2. Nos casos de posse administrativa para demolição, reparação ou beneficiação de edifícios, os interessados, dentro do prazo estipulado no número anterior, poderão requerer a fixação de prazos para o início e conclusão dos trabalhos, assumindo a responsabilidade de os efectuar.\n\n3. A Administração procederá aos trabalhos de demolição, de beneficiação ou reparação de edifícios, por conta dos respectivos proprietários:\n\na) Se estes não apresentarem reclamação contra a diligência ou a mesma for indeferida;\n\nb) Se os interessados não iniciarem os trabalhos ou não os concluírem nos prazos para esse efeito fixados a seu pedido.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+  },
+  "924226796": {
+   "fragment_id": "37195775",
+   "type": 11,
+   "heading": "Artigo 45.º",
+   "in_force_from": "2009-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+   ],
+   "markdown": "###### Artigo 45.º\n\n1. A ocupação temporária de terrenos, nos termos do n.º I da alínea b) do n.º 1 do artigo 42.º, confere direito a indemnização pelos danos causados.\n\n2. Se a ocupação do terreno se prolongar para além de cinco anos, o proprietário tem o direito de exigir que a Administração proceda à respectiva expropriação.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+  },
+  "924226797": {
+   "fragment_id": "37195875",
+   "type": 11,
+   "heading": "Artigo 46.º",
+   "in_force_from": "2009-12-22",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+   ],
+   "markdown": "###### Artigo 46.º\n\nA Administração poderá proceder ao despejo administrativo dos prédios a demolir, bem como ao despejo temporário daqueles que careçam de obras cuja realização não possa ser feita sem a desocupação.\n\n> Nota: [Artigo 83.º, Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155) O disposto no presente artigo continua a aplicar-se até à conversão das áreas críticas de recuperação e reconversão urbanística, criadas ao abrigo do presente diploma, ou até à caducidade dos respetivos decretos de classificação, nos termos do artigo 78.º do Decreto-Lei n.º 307/2009, de 23 de outubro.\n\n> Revogado pelo/a Artigo 83.º do/a [Decreto-Lei n.º 307/2009 - Diário da República n.º 206/2009, Série I de 2009-10-23](https://diariodarepublica.pt/dr/detalhe/decreto-lei/307-2009-483155), em vigor a partir de 2009-12-22"
+  },
+  "924670977": {
+   "fragment_id": "35713175",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo I — Princípios gerais\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670984": {
+   "fragment_id": "37191375",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 1.º\n\nA alteração do uso ou da ocupação dos solos para fins urbanísticos, incluindo os industriais, carece de prévia aprovação da Administração Pública. Esta aprovação visa o adequado ordenamento do território para um equilibrado desenvolvimento sócio-económico das suas diversas regiões e inclui o contrôle e superintendência dos empreendimentos da iniciativa privada.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670985": {
+   "fragment_id": "37191475",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1. Sempre que for julgado necessário pela Administração, podem por esta ser apropriados solos destinados a:\n\na) Criação dos aglomerados urbanos;\n\nb) Expansão ou desenvolvimento de aglomerados urbanos com mais de 25000 habitantes;\n\nc) Criação e ampliação de parques industriais;\n\nd) Criação e ampliação de espaços Verdes urbanos de protecção e recreio;\n\ne) Recuperação de áreas degradadas, quer resultantes do depósito de desperdícios, quer da exploração de inertes.\n\n2. Pode ser mandado aplicar, por decreto, o regime do n.º 1 à expansão ou desenvolvimento de outros aglomerados urbanos, quando assim for deliberado pelos órgãos locais competentes ou quando o Governo o considere conveniente, nomeadamente para a execução de empreendimentos integrados em planos de âmbito nacional ou regional.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670986": {
+   "fragment_id": "37191575",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 3.º\n\n1. As realizações previstas no artigo anterior são planeadas, decididas e concretizadas pela Administração, através dos órgãos centrais e locais.\n\n2. A Administração pode, porém, recorrer à colaboração de outras entidades, nomeadamente de particulares:\n\na) Confiando-lhes a elaboração de planos, projectos ou estudos ou a execução de obras;\n\nb) Cedendo-lhes terrenos ou direitos sobre eles para a execução de empreendimentos compreendidos em planos por ela aprovados;\n\nc) confiando-lhes a realização, sem encargos para a Administração ou com a sua participação, de obras de urbanização projectadas para terrenos já adquiridos e a construção, para venda ou arrendamento, dos edifícios a erigir na área.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670987": {
+   "fragment_id": "37191675",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. A Administração procederá à aquisição das áreas necessárias, para os fins previstos no artigo 2.º, pelos meios que se tornem mais adequados, designadamente por expropriação ou pelo exercício do direito de preferência.\n\n2. Quando, para a apropriação do solo, for necessário, a Administração pode expropriar, desde logo, toda a área necessária à execução de um plano ou empreendimento ou promover, sucessivamente, a expropriação de zonas daquela área.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670988": {
+   "fragment_id": "37191775",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29",
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/80 - Diário da República n.º 190/1980, Série I de 1980-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1980-471105), em vigor a partir de 1980-08-20"
+   ],
+   "markdown": "###### Artigo 5.º\n\n1 - Nos terrenos já pertencentes à Administração ou que por ela venham a ser adquiridos, desde que destinados aos fins previstos no artigo 2.º ou a operações de renovação urbana, sempre que a realização dos correspondentes empreendimentos não venha a ser efectuada pela Administração, só poderá ser cedido o direito à utilização mediante a constituição do direito de superfície, salvo se as transmissões forem feitas a pessoas colectivas de direito público ou a empresas públicas.\n\n2 - Poderá ainda ser autorizada a cedência dos terrenos, em propriedade plena, a entidades de direito privado, desde que aqueles se integrem em áreas abrangidas por planos de urbanização legalmente aprovados.\n\n3 - A cedência dos terrenos, em propriedade plena, referida no número anterior efectuar-se-á por acordo directo ou por concurso, nos termos dos n.os 1 e 2 do artigo 29.º para a cedência em direito de superfície.\n\n4 - Para efeitos do número anterior, na escritura de transmissão será sempre fixado um prazo máximo para início das construções a erigir, o qual não poderá ser ultrapassado, salvo casos de força maior ou outras circunstâncias estranhas aos interessados, sob pena da reversão dos terrenos à titularidade da Administração e à perda, por parte do anterior proprietário, de 30% das quantias entregues a título de pagamento.\n\n5 - Quando o terreno pertencer ao Estado, seus organismos autónomos e institutos públicos, a decisão a que se refere o n.º 2 cabe ao Ministro da Habitação e Obras Públicas.\n\n6 - Quando o terreno pertencer a uma autarquia local, cabe à respectiva Assembleia Municipal a deliberação a que se refere o n.º 2.\n\n7 - Nas regiões autónomas, a competência atribuída no n.º 5 ao Ministro da Habitação e Obras Públicas cabe aos órgãos de governo próprio da região.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 313/80 - Diário da República n.º 190/1980, Série I de 1980-08-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/313-1980-471105), em vigor a partir de 1980-08-20"
+  },
+  "924670983": {
+   "fragment_id": "37191875",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 6.º\n\n1. Na execução de qualquer plano de expansão, desenvolvimento ou renovação urbanas, ou de criação de novos aglomerados, serão sempre fixados os números ou percentagens dos fogos a construir, sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda, além dos destinados a habitação social.\n\n2. As características técnicas e os valores máximos do custo de construção, das rendas ou dos valores de venda da habitação social serão fixados, segundo as circunstâncias, mediante portaria do Ministro da Habitação, Urbanismo e Construção.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670989": {
+   "fragment_id": "35713275",
+   "type": 1,
+   "heading": "Capítulo II — Medidas preventivas",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo II — Medidas preventivas\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670997": {
+   "fragment_id": "37191975",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1. O Governo poderá estabelecer, por decreto, que uma área, ou parte dela, que se presuma vir a ser abrangida por um plano de urbanização ou projecto de empreendimento público de outra natureza, seja sujeita a medidas preventivas, destinadas a evitar alteração das circunstâncias e condições existentes que possa comprometer a execução do plano ou empreendimento ou torná-la mais difícil ou onerosa.\n\n2. As medidas preventivas podem ter por objecto áreas para as quais exista plano de urbanização que, pela sua desactualização ou inadequação, careça de ser substituído ou alterado.\n\n3. No caso referido no número anterior, o plano fica suspenso, total ou parcialmente, consoante a área abrangida pelas medidas e as providências nelas estabelecidas.\n\n4. O recurso às medidas preventivas deve ser limitado aos casos em que, fundadamente, se receie que os prejuízos resultantes da possível alteração das circunstâncias locais sejam socialmente mais relevantes do que os inerentes à adopção das medidas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670998": {
+   "fragment_id": "37192075",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 8.º\n\n1. As medidas preventivas previstas no artigo anterior podem consistir na proibição ou na sujeição a prévia autorização, eventualmente condicionada, dos actos ou actividades seguintes:\n\na) Criação de novos núcleos populacionais;\n\nb) Construção, reconstrução ou ampliação de edifícios ou outras instalações;\n\nc) Instalação de explorações ou ampliação das já existentes;\n\nd) Alterações importantes, por meio de aterros ou escavações, à configuração geral do terreno;\n\ne) Derrube de árvores em maciço, com qualquer área ou com área superior à fixada;\n\nf) Destruição do solo vivo e do coberto vegetal.\n\n2. As medidas preventivas abrangerão apenas os actos com interesse para os objectivos a atingir, podendo, dentro dos tipos genéricos previstos no número anterior, limitar-se a certas espécies de actos ou actividades.\n\n3. O Governo, ao estabelecer as medidas preventivas, definirá as entidades competentes para as autorizações ou outros condicionamentos exigidos pela sua aplicação, bem como para a fiscalização da sua observância e para as determinações da demolição a que se refere o artigo 12.º\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924670999": {
+   "fragment_id": "37192175",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 9.º\n\n1. O prazo de vigência das medidas preventivas será fixado no diploma que as estabelecer, até dois anos, sem prejuízo, porém, da respectiva prorrogação, quando tal se mostre necessário, por prazo não superior a um ano.\n\n2. As medidas preventivas cessam quando:\n\na) Forem revogadas;\n\nb) Decorrer o prazo fixado para a sua vigência;\n\nc) For aprovado e se tornar executório o plano de urbanização ou o projecto de empreendimento público que motivou a sua aplicação.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671000": {
+   "fragment_id": "37192275",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 10.º\n\n1. As medidas preventivas podem ser substituídas por normas de carácter provisório, logo que o adiantamento do estudo do plano de urbanização permita defini-las.\n\n2. As normas a que se refere o número anterior carecem de aprovação pelas entidades competentes para aprovar o plano e são obrigatórias nos termos deste.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671001": {
+   "fragment_id": "37192375",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 11.º\n\n1. A imposição das medidas preventivas, a que se refere o presente capítulo, não confere direito a qualquer indemnização.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671002": {
+   "fragment_id": "37192475",
+   "type": 11,
+   "heading": "Artigo 12.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 12.º\n\n1. Sem prejuízo do disposto no Decreto-Lei n.º 275/76, de 13 de Abril, as obras e os trabalhos efectuados com inobservância das medidas preventivas estabelecidas podem ser embargados e demolidos à custa dos proprietários e sem direito a qualquer indemnização.\n\n2. Os aterros e escavações efectuados nas mesmas condições implicam o dever de reposição da configuração do terreno e de recuperação do coberto vegetal, pelo proprietário, segundo projecto aprovado pela Administração, no prazo estabelecido, podendo esta substituir-se àquele se os trabalhos não forem antecipadamente concluídos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671003": {
+   "fragment_id": "37192575",
+   "type": 11,
+   "heading": "Artigo 13.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 13.º\n\n1. Os municípios deverão dar publicidade ao início e ao termo das medidas preventivas, por editais afixados nos Paços do Concelho, nas sedes das juntas de freguesia a que respeitem as áreas abrangidas e por meio de aviso publicado no jornal diário mais lido na região.\n\n2. Para esse efeito, as entidades que tenham promovido a adopção das medidas ou os actos de que resulte o termo destas deverão dar conhecimento dos mesmos aos municípios das áreas abrangidas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671004": {
+   "fragment_id": "35713375",
+   "type": 1,
+   "heading": "Capítulo III — Zona de defesa e «contrôle» urbanos",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo III — Zona de defesa e «contrôle» urbanos\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671010": {
+   "fragment_id": "37192675",
+   "type": 11,
+   "heading": "Artigo 14.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 14.º\n\n1. Serão constituídas zonas de defesa e contrôle urbanos, destinadas a evitar ou controlar as actividades nos solos circundantes dos aglomerados, ou neles incluídos, e as alterações no uso dos mesmos que possam ser inconvenientes para os interesses colectivos da respectiva população e para o adequado funcionamento do sistema urbano, nos diversos aspectos que careçam de tutela, incluindo o equilíbrio biofísico, bem como a preservar as características e condições necessárias ao desenvolvimento do aglomerado.\n\n2. Será delimitada, por decreto, uma zona de defesa e contrôle urbanos, relativamente:\n\na) A cada sede do distrito;\n\nb) A cada aglomerado urbano com mais de 25000 habitantes;\n\nc) A qualquer outro aglomerado urbana para o qual se considere conveniente a criação dessa zona.\n\n3. A zona de defesa e contrôle urbanos poderá ser estabelecida para uma área que abranja um conjunto de aglomerados, sempre que tal se mostre conveniente para o ordenado desenvolvimento da região.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671011": {
+   "fragment_id": "37192775",
+   "type": 11,
+   "heading": "Artigo 15.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 15.º\n\n1. A zona de defesa e contrôle urbanos terá a extensão que se mostre adequada em cada caso, para a satisfação dos fins a que se destina, devendo, porém, ser suficientemente ampla para permitir o contrôle eficaz das actividades inconvenientes aos interesses da colectividade e satisfazer, a longo prazo, as necessidades de expansão do aglomerado.\n\n2. Os limites da zona de defesa e contrôle urbanos, quando não possam coincidir, no todo ou em parte, com as circunscrições administrativas, deverão ser definidos de forma a permitir uma segura identificação, pela referência, sempre que possível, a elementos físicos facilmente identificáveis, designadamente caminhos públicos e linhas de água.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671012": {
+   "fragment_id": "37192875",
+   "type": 11,
+   "heading": "Artigo 16.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 16.º\n\n1. Em cada zona de defesa e contrôle urbanos vigorará o regime de proibições, autorizações e outros condicionamentos que forem estabelecidos dentro do quadro previsto nos n.os 1 e 2 do artigo 8.º\n\n2. O regime da zona de defesa e contrôle urbanos poderá ser definido diversificadamente, para áreas ou sectores distintos dentro da zona, em função das necessidades específicas relativas a cada uma dessas áreas ou sectores.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671013": {
+   "fragment_id": "37192975",
+   "type": 11,
+   "heading": "Artigo 17.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 17.º\n\nÉ aplicável o disposto no n.º 3 do artigo 8.º e nos artigos 11.º, 12.º e 13.º, respectivamente, quanto definição do regime da zona de defesa e contrôle urbanos, inexistência de direito a indemnização pela sujeição a esse regime, inobservância do mesmo e publicidade do estabelecimento e modificação da zona ou do seu regime.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671014": {
+   "fragment_id": "37193075",
+   "type": 11,
+   "heading": "Artigo 18.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 18.º\n\nDeverão ser estabelecidas zonas de defesa e contrôle para as parques industriais, às quais será aplicável, com as devidas adaptações e tendo em vista as necessidades específicas desses parques, o disposto nos artigos 14.º a 17.º\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671015": {
+   "fragment_id": "35713475",
+   "type": 1,
+   "heading": "Capítulo IV — Constituição do direito de superfície",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo IV — Constituição do direito de superfície\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671019": {
+   "fragment_id": "37193175",
+   "type": 11,
+   "heading": "Artigo 19.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 19.º\n\n1. O direito de superfície, a que se refere o artigo 5.º, será constituído por prazo não inferior a cinquenta anos, a estabelecer em função das características dos edifícios a erigir, do período necessário para a amortização do capital a investir neles e da sua adequada remuneração.\n\n2. No caso de cedência de direito de superfície a cooperativas previstas no artigo 4.º do Decreto n.º 182/72, de 30 de Maio, ou para construção de habitação própria, ainda que em regime de propriedade horizontal, a prazo mínimo será de setenta anos.\n\n3. O prazo do direito de superfície será fixado no acto de constituição, e pode ser prorrogado pelos períodos que forem convencionados, salvo nos casos em que o superficiário expressamente renuncie à prorrogação.\n\n4. Na falta de convenção sobre o período de prorrogação, entende-se que ela se opera por um período igual a metade do prazo inicial, salvo nos casos em que a Administração findo o prazo, necessitar do terreno para obras de renovação urbana ou outro fim de interesse público.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671020": {
+   "fragment_id": "37193275",
+   "type": 11,
+   "heading": "Artigo 20.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 20.º\n\n1. Na constituição do direito de superfície serão sempre fixados prazos para o início e a conclusão das construções a erigir e serão adoptadas as providências que se mostrem adequadas para evitar especulação na alienação do direito.\n\n2. Para os fins do disposto na última parte do número anterior poderá convencionar-se, designadamente, a proibição da alienação do direito durante certo prazo e a sujeição da mesma a autorização da Administração.\n\n3. A Administração gozará sempre do direito de preferência em primeiro grau, na alienação do direito por acto inter vivos e na adjudicação em liquidação e partilha de sociedade, sendo esse direito de preferência exercido de harmonia com as normas regulamentares estabelecidas para o efeito.\n\n4. São anuláveis os actos praticados sem que haja sido facultado o exercício do direito do preferência.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671021": {
+   "fragment_id": "37193375",
+   "type": 11,
+   "heading": "Artigo 21.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 21.º\n\n1. O direito do superfície pode ser cedido contra o pagamento de uma quantia determinada ou do prestações periódicas.\n\n2. No caso em que o preço for pago em prestações periódicas, será a mesmo revisto, salvo estipulação em contrário, sempre que se verifique alteração das condições de aproveitamento do terreno, por modificação das normas regulamentares do plano de ocupação do solo.\n\n3. Os superficiários, terão direito a indemnização pela extinção do direito de superfície, quando assim for convencionado no título do constituição.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671022": {
+   "fragment_id": "35713575",
+   "type": 1,
+   "heading": "Capítulo V — Associação da Administração com os proprietários",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo V — Associação da Administração com os proprietários\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671028": {
+   "fragment_id": "37193475",
+   "type": 11,
+   "heading": "Artigo 22.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 22.º\n\n1. Salvo a disposto no n.º 1 do artigo 2.º, a Administração poderá assegurar a disponibilidade das áreas a utilizar em operações do expansão, desenvolvimento ou renovação urbana ou de criação de novos aglomerados, mediante associação com os respectivos proprietários e titulares de direitos, ónus e encargos, sabre elas incidentes.\n\n2. Nos aglomerados urbanos para as quais exista plano de urbanização aprovado, as associações só poderão destinar-se a operações integradas na respectiva execução.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671029": {
+   "fragment_id": "37193575",
+   "type": 11,
+   "heading": "Artigo 23.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 23.º\n\n1. A efectivação da associação depende de acordo da Administração com as proprietários e titulares referidos no n.º 1 do artigo anterior.\n\n2. A associação poderá efectivar-se, porém, sem o acordo do todos os interessados, desde que:\n\na) A área dos imóveis, cujos proprietários ou outros interessados recusem o seu acordo, constitua uma fracção inferior a um terço do conjunto da área;\n\nb) A associação tenha interesse público.\n\n3. No caso previsto no número anterior, os imóveis cujos proprietários ou outros interessados não queiram fazer parte da associação serão expropriados e integrados na participação da Administração.\n\n4. Na falta de acordo entre a Administração e os restantes associados sobre o valor dos imóveis e direitos, será o mesmo determinado nos termos aplicáveis do processo de expropriação por utilidade pública.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671030": {
+   "fragment_id": "37193675",
+   "type": 11,
+   "heading": "Artigo 24.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 24.º\n\n1. A participação da Administração será constituída, salvo o que for convencionado sobre a matéria, pelo valor dos imóveis que a mesma possuir na área e pelo capital que investir nas infra-estruturas urbanísticas necessárias.\n\n2. As participações dos restantes associados serão constituídas, salvo também o que for convencionado, pelo valor dos respectivos imóveis e direitos a eles inerentes.\n\n3. O acto constitutivo da associação constará de auto lavrado por notário ou pelo chefe de secretaria da câmara municipal em cuja área se situem os terrenos a urbanizar ou a maior extensão da respectiva área, dele devendo constar o acordo a que se tiver chegado sobre a matéria dos artigos anteriores e a assinatura de todos os interessados.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671031": {
+   "fragment_id": "37193775",
+   "type": 11,
+   "heading": "Artigo 25.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 25.º\n\n1. A associação terá como finalidade a realização dos trabalhos de urbanização projectados para a área, o loteamento respectivo e, ainda, a partilha entre os associados, na proporção das suas participações, do produto da cedência dos lotes constituídos ou desses mesmos lotes.\n\n2. A cedência dos lotes pode ser feita em propriedade plena ou em direito de superfície.\n\n3. O simples facto da constituição da associação conferirá à Administração o direito de realizar os trabalhos projectados para a área abrangida, o respectivo loteamento, a cedência ou partilha entre os associados e as demais operações necessárias à ultimação do objecto da associação.\n\n4. Só as operações finais resultantes da partilha entre os associados ou cedência a estes ou a terceiros dos lotes constituídos serão objecto das operações de registo que se mostrem necessárias, nos termos da lei geral ou nos que vierem expressamente regulamentados.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671032": {
+   "fragment_id": "37193875",
+   "type": 11,
+   "heading": "Artigo 26.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 26.º\n\nAs restantes normas sobre constituição e funcionamento da associação, a que se reporta o presente diploma, serão objecto de regulamento.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671033": {
+   "fragment_id": "35713675",
+   "type": 1,
+   "heading": "Capítulo VI — Direito de preferência da Administração na alienação de terrenos a edifícios",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo VI — Direito de preferência da Administração na alienação de terrenos a edifícios\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671036": {
+   "fragment_id": "37193975",
+   "type": 11,
+   "heading": "Artigo 27.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 27.º\n\n1. Poderá ser concedido à Administração, por decreto, o direito de preferência nas transmissões por título oneroso, entre particulares, de terrenos ou, edifícios situados nas áreas necessárias para a expansão, desenvolvimento ou renovação de aglomerados urbanos, ou para a execução de qualquer outro empreendimento de interesse público, em obediência ao respectivo plano e nas condições a definir em decreto regulamentar.\n\n2. O direito de preferência pode ser conferido, relativamente aos prédios existentes, na totalidade ou em parte da área abrangida por medidas preventivas ou pelo estabelecimento, de uma zona de defesa e contrôle urbanos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671037": {
+   "fragment_id": "37194075",
+   "type": 11,
+   "heading": "Artigo 28.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 28.º\n\n1. O direito de preferência a que se refere o artigo anterior pode ser exercido com a declaração de não aceitação do preço convencionado.\n\n2. Neste caso, a transmissão para o preferente será feita pelo preço que vier a ser fixado, mediante os termos aplicáveis do processo de expropriação por utilidade pública, se o transmitente não concordar, por sua vez, com o oferecido pelo preferente.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671038": {
+   "fragment_id": "35713775",
+   "type": 1,
+   "heading": "Capítulo VII — Cedência de direitos sobre terrenos pela Administração",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo VII — Cedência de direitos sobre terrenos pela Administração\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671042": {
+   "fragment_id": "37194175",
+   "type": 11,
+   "heading": "Artigo 29.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 29.º\n\n1. A Administração cederá, mediante acordo directo com os respectivos promotores ou interessados, o direito de superfície sobre terrenos destinados:\n\na) A edifícios ou instalações de interesse público;\n\nb) A empreendimentos relativos a habitação social;\n\nc) A edifícios para habitação própria, ainda que em regime de propriedade horizontal.\n\n2. Será cedido, por concurso, o direito de superfície sobre terrenos destinados a edifícios cujos fogos fiquem sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda.\n\n3. O direito de superfície sobre terrenos destinados aos restantes empreendimentos será cedido mediante hasta pública.\n\n4. A distribuição, pelos diversos interessados, dos terrenos destinados a edifícios compreendidos nas alíneas b) e c) do n.º 1 e no n.º 2 será objecto, de regulamento.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671043": {
+   "fragment_id": "37194275",
+   "type": 11,
+   "heading": "Artigo 30.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 30.º\n\n1. Os direitos sobre terrenos, destinados aos fins previstos nos n.os 1 e 2 do artigo anterior, devem ser cedidos por preços que, no conjunto, não sejam lucrativos para a Administração, atendendo aos custos de aquisição, acrescidos dos custos dos estudos e da realização dos trabalhos de urbanização e dos inerentes encargos, calculados em relação a toda a zona.\n\n2. Os preços de cedência dos direitos sobre os mesmos terrenos podem, contudo, variar, relativamente, entre si, em função das finalidades e dos objectivos específicos dos respectivos empreendimentos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671044": {
+   "fragment_id": "37194375",
+   "type": 11,
+   "heading": "Artigo 31.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 31.º\n\nSerão sujeitos a aprovação ministerial os programas de distribuição de lotes de terrenos relativos a planos ou projectos que revistam interesse geral ou regional, bem como as bases ou condições gerais a observar na cedência dos lotes por acordo directo.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671045": {
+   "fragment_id": "35713975",
+   "type": 1,
+   "heading": "Capítulo IX — Restrições à demolição de edifícios",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo IX — Restrições à demolição de edifícios\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671049": {
+   "fragment_id": "37194875",
+   "type": 11,
+   "heading": "Artigo 36.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 36.º\n\n1. A demolição de edifícios destinados a habitação, quando não integrada em operações de renovação urbana planeadas pela Administração ou por esta determinada, fica sujeita às restrições prescritas nos artigos seguintes.\n\n2. Legislação especial regulará a defesa de edifícios ou zonas de interesse histórico, cultural ou artístico.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671050": {
+   "fragment_id": "37194975",
+   "type": 11,
+   "heading": "Artigo 37.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 37.º\n\n1. Nas sedes de distrito, nos aglomerados urbanos com mais de 25000 habitantes e naqueles para os quais assim seja deliberado pelos órgãos competentes, a demolição só pode ser autorizada quando os edifícios careçam dos requisitos de habitabilidade indispensáveis - designadamente falta de condições de solidez, segurança ou salubridade - e não se mostre aconselhável, sob o aspecto técnico ou económico, a respectiva beneficiação ou reparação.\n\n2. Nos aglomerados urbanos não incluídos no número anterior, a demolição pode ser autorizada por qualquer motivo socialmente justificado.\n\n3. Quando a demolição se destinar à substituição de um ou mais edifícios, para aumentar o número dos respectivos fogos, poderá ser autorizada, mediante despacho do Secretário de Estado da Habitação e Urbanismo, o qual poderá delegar a respectiva competência.\n\n4. Mediante portaria do Secretário de Estado da Habitação e Urbanismo, poderá ser mandado aplicar o regime definido no n.º 2 aos aglomerados urbanos referidos no n.º 1 deste artigo.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671051": {
+   "fragment_id": "37195075",
+   "type": 11,
+   "heading": "Artigo 38.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 38.º\n\nAs deliberações sobre pedidos de demolição serão precedidas de vistoria para a verificação dos fundamentos invocados, quando revistam natureza técnica.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671052": {
+   "fragment_id": "35714075",
+   "type": 1,
+   "heading": "Capítulo X — Restrições à utilização de edifícios para actividades comerciais ou industriais e profissões liberais",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo X — Restrições à utilização de edifícios para actividades comerciais ou industriais e profissões liberais\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671055": {
+   "fragment_id": "37195175",
+   "type": 11,
+   "heading": "Artigo 39.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 39.º\n\n1. Nos aglomerados urbanos em que tal se mostre necessário para o conveniente ordenamento urbanístico, podem ser delimitadas zonas em que fique proibida a nova utilização de edifícios ou de partes destes para o exercício de actividades industriais ou comerciais ou de profissões liberais, ou limitada essa utilização a certos tipos das mesmas actividades.\n\n2. Para os efeitos do disposto no número anterior, considera-se nova utilização para os fins nele referidos:\n\na) A utilização de locais em prédios que ainda não tenham tido qualquer ocupação, embora resultem da reconstrução de outros;\n\nb) A utilização de locais anteriormente usados para outros fins, designadamente para habitação;\n\nc) A utilização resultante de cessão de posição contratual, em arrendamento, para qualquer dos mencionados fins, quando não integrada em traspasse.\n\n3. O disposto no n.º 1 não abrange os edifícios, ou partes deles, que, pelas suas características, não sejam adequados para habitação.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671056": {
+   "fragment_id": "37195275",
+   "type": 11,
+   "heading": "Artigo 40.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 40.º\n\n1. A providência contemplada no artigo anterior será adoptada mediante portaria do Secretário de Estado da Habitação e Urbanismo, sob proposta da câmara municipal do concelho ou dos órgãos ou serviços de planeamento.\n\n2. A câmara municipal será sempre ouvida quando a proposta não for por ela formulada.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671057": {
+   "fragment_id": "35714275",
+   "type": 1,
+   "heading": "Capítulo XII — Disposições diversas sobre expropriações e obrigatoriedade de construção",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo XII — Disposições diversas sobre expropriações e obrigatoriedade de construção\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671063": {
+   "fragment_id": "37195975",
+   "type": 11,
+   "heading": "Artigo 47.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 47.º\n\nNos casos de abertura, alargamento ou regularização de ruas, praças, jardins e outros lugares públicos, embora fora dos casos em que a Administração deva apropriar-se de toda a área a urbanizar nos termos do n.º 1 do artigo 2.º, poderá a mesma expropriar uma faixa adjacente, contínua, com profundidade não superior a 50 m, destinada a edificações e suas dependências.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671064": {
+   "fragment_id": "37196075",
+   "type": 11,
+   "heading": "Artigo 48.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 48.º\n\n1. Podem ser expropriados por utilidade pública:\n\na) Os prédios rústicos que, após as obras que justifiquem o seu aproveitamento urbano, não sejam assim aproveitados, sem motivo legítimo, no prazo de dezoito meses, a contar da notificação que, para esse fim, seja feita ao respectivo proprietário;\n\nb) Os terrenos próprios para construção adjacentes a vias públicas de aglomerados urbanos, quando os proprietários, notificados para os aproveitarem em edificações, o não fizerem, sem motivo legítimo, no prazo de dezoito meses, a contar da notificação;\n\nc) Os prédios urbanos que devam ser reconstruídos ou remodelados, em razão das suas pequenas dimensões, posição fora do alinhamento ou más condições de higiene ou estética, quando o proprietário não der cumprimento, sem motivo legítimo, no prazo de dezoito meses, à notificação que, para esse fim, lhe for feita.\n\n2. Em todos os casos previstos no número antecedente, o Estado procurará, através de esquemas preferenciais de crédito, apoiar financeiramente os respectivos proprietários.\n\n3. Os prazos a que se referem as alíneas do número anterior respeitam ao início das obras nelas previstas e podem ser prorrogados por motivo justificado.\n\n4. Na concessão de licença para as mesmas obras, será fixado prazo para a respectiva conclusão, em função das circunstâncias, prazo esse também prorrogável por motivo justificado.\n\n5. Se as obras não forem concluídas dentro do prazo para tal concedido, proceder-se-á à expropriação por utilidade pública.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671065": {
+   "fragment_id": "37196175",
+   "type": 11,
+   "heading": "Artigo 49.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 49.º\n\n1. Quando as circunstâncias previstas na alínea c) do n.º 1 do artigo anterior se verificarem em relação a um conjunto de prédios de diversos proprietários, poderá a câmara municipal definir um esquema de reestruturação desse conjunto, fixando um prazo, não inferior a cento e vinte dias, para os proprietários acordarem na realização da obra segundo esse esquema e no direito de propriedade sobre o edifício ou edifícios que vierem a substituir os existentes.\n\n2. Proceder-se-á à expropriação:\n\na) Se os proprietários não apresentarem na câmara municipal, dentro do prazo fixado, documento comprovativo do acordo;\n\nb) Se os mesmos não derem início às obras ou não as concluírem nos prazos para tal fixados.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671066": {
+   "fragment_id": "37196275",
+   "type": 11,
+   "heading": "Artigo 50.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 50.º\n\nNos casos previstos nos dois artigos que antecedem, os municípios poderão acordar com os proprietários, nas condições que se mostrem adequadas, adquirir-lhes a propriedade dos terrenos, ficando aqueles com o direito de superfície.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671067": {
+   "fragment_id": "37196375",
+   "type": 11,
+   "heading": "Artigo 51.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 51.º\n\nNos casos da alínea c) do n.º 1 do artigo 48.º e do artigo 49.º, a notificação ou a fixação do prazo para acordo entre os proprietários seguir-se-á, logo que necessário, à desocupação dos prédios por via administrativa, sem prejuízo das indemnizações devidas aos arrendatários que, como os demais encargos, serão da conta dos proprietárias que devam proceder à reconstrução ou remodelação dos prédios, sem prejuízo da possibilidade de realojamento contemplada no capítulo seguinte.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671068": {
+   "fragment_id": "35714375",
+   "type": 1,
+   "heading": "Capítulo XIII — Realojamento",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo XIII — Realojamento\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671073": {
+   "fragment_id": "37196475",
+   "type": 11,
+   "heading": "Artigo 52.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 52.º\n\n1. A Administração não pode desalojar os moradores das casas de habitação que tenham de ser demolidas ou desocupadas, embora temporariamente, para a realização de qualquer empreendimento ou execução de qualquer actividade ou trabalho, sem que tenha, providenciado, quando tal se mostre necessário, pelo realojamento dos mesmos.\n\n2. No realojamento, a Administração deverá ter especialmente em conta as condições sócio-económicos dos moradores, de modo a conceder particular protecção aos agregados familiares de modestos recursos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671074": {
+   "fragment_id": "37196575",
+   "type": 11,
+   "heading": "Artigo 53.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 53.º\n\n1. O realojamento poderá ter lugar através de casas desmontáveis, quando esse meio seja o mais aconselhável ou quando não haja possibilidade de recurso a outro processo, designadamente o arrendamento, num prazo máximo fixado de molde a não ser afectado o normal andamento das obras.\n\n2. Para a instalação de casas desmontáveis a que se refere o número anterior, poderá a Administração, por decisão da entidade a que incumba o realojamento, utilizar, temporariamente, quaisquer terrenos que se mostrem necessários e adequados para o efeito.\n\n3. A utilização referida no número anterior será precedida da posse administrativa, segundo os termos previstos para esta fase no processo de expropriação por utilidade pública.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671175": {
+   "fragment_id": "37196675",
+   "type": 11,
+   "heading": "Artigo 54.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 54.º\n\n1. A utilização temporária prevista no artigo anterior confere direito a indemnização pelos danos causados.\n\n2. Na falta de acordo sobre o montante da indemnização, será a mesma fixada de acordo com as regras processuais da expropriação por utilidade pública.\n\n3. Se a utilização temporária se prolongar por prazo superior a cinco anos, os interessados têm o direito de exigir que a Administração proceda à expropriação por utilidade pública da área utilizada.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671176": {
+   "fragment_id": "37196775",
+   "type": 11,
+   "heading": "Artigo 55.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 55.º\n\n1. Quando se verifique expropriação em benefício da entidade concessionária de serviço público, deverá a Administração construir as habitações necessárias ao realojamento dos moradores das casas objecto da expropriação, suportando o expropriante os encargos respectivos, conforme estiver estabelecido no contrato de concessão.\n\n2. Na falta de estipulação em contrário, a construção incumbirá às câmaras municipais, com o apoio financeiro do Estado, se necessário.\n\n3. No instrumento da concessão poderá estabelecer-se a obrigação de o concessionário proceder à construção das habitações necessárias, num prazo máximo, fixado de molde a não ser afectado o normal andamento das obras.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671177": {
+   "fragment_id": "35714475",
+   "type": 1,
+   "heading": "Capítulo XIV — Fundo municipal de urbanização",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo XIV — Fundo municipal de urbanização\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671181": {
+   "fragment_id": "37196875",
+   "type": 11,
+   "heading": "Artigo 56.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 56.º\n\n1. Nos municípios que se localizem em sede de distrito e em todos aqueles cujas sedes ou outros aglomerados tenham mais de 10000 habitantes será constituído um fundo autónomo destinado à satisfação dos encargos com o estudo e realização de projectos relativos a operações e trabalhos de urbanização, construção e reconstrução de habitações a cargo da autarquia.\n\n2. A constituição do fundo autónomo a que se refere o número anterior pode ter lugar noutros municípios, por iniciativa do respectivo corpo administrativo ou determinação do Governo.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671182": {
+   "fragment_id": "37196975",
+   "type": 11,
+   "heading": "Artigo 57.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 57.º\n\nSerão afectadas ao fundo as seguintes receitas:\n\na) Subsídios e empréstimos concedidos pelo Estado e quaisquer outras entidades;\n\nb) O produto da alienação dos terrenos adquiridos para operações de urbanização ou da cedência de direitos sobre os mesmos;\n\nc) O produto da alienação de edifícios construídos pela autarquia para execução de empreendimentos habitacionais;\n\nd) As rendas dos edifícios construídos pela autarquia nas condições referidas na alínea anterior e que por ela não sejam alienados;\n\ne) A parte, destinada ao município, da mais-valia cobrada pelas construções feitas na área do concelho;\n\nf) Quaisquer outras receitas que lhe sejam atribuídas.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671183": {
+   "fragment_id": "37197075",
+   "type": 11,
+   "heading": "Artigo 58.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 58.º\n\nO fundo suporta os encargos relativos:\n\na) À aquisição de imóveis destinados às operações de urbanização, abrangendo a renovação urbana;\n\nb) À realização de trabalhos, incluindo os respeitantes a infra-estruturas, equipamento social e espaços verdes, a cargo da autarquia;\n\nc) À construção de habitações, compreendidas em planos ou programas nacionais, ou da iniciativa municipal, e à conservação das que se mantenham na propriedade da autarquia;\n\nd) Aos estudos e projectos necessários às actividades e realizações previstas nas alíneas anteriores;\n\ne) À amortização dos empréstimos contraídos para os mesmos fins e ao pagamento dos respectivos encargos.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671184": {
+   "fragment_id": "35714575",
+   "type": 1,
+   "heading": "Capítulo XV — Disposições finais e transitórias",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "### Capítulo XV — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671191": {
+   "fragment_id": "37197175",
+   "type": 11,
+   "heading": "Artigo 59.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29",
+    "Retificado pelo/a [Rectificação - Diário da República n.º 23/1977, Série I de 1977-01-28](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-138342), em vigor a partir de 1977-01-28"
+   ],
+   "markdown": "###### Artigo 59.º\n\n1. O disposto no n.º 1 do artigo 2.º não prejudica a validade das licenças referidas no artigo 1.º do Decreto-Lei n.º 289/73, de 6 de Junho, em vigor à data do início da vigência deste diploma, nem as urbanizações aprovadas por acto administrativo, expresso ou tácito, e com infra-estruturas em execução com licença camarária.\n\n2. Também este diploma não prejudica a possibilidade de confirmação das licenças suspensas ao abrigo do Decreto-Lei n.º 511/75, de 20 de Setembro.\n\n3. Para os efeitos da parte final dos n.ºs 1 e 3 do artigo 20.º, observar-se-á o estabelecido nos artigos 9.º e 10.º do Decreto n.º 182/72, de 30 de Maio.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29\n\n> Retificado pelo/a [Rectificação - Diário da República n.º 23/1977, Série I de 1977-01-28](https://diariodarepublica.pt/dr/detalhe/rectificacao/1977-138342), em vigor a partir de 1977-01-28"
+  },
+  "924671192": {
+   "fragment_id": "37197275",
+   "type": 11,
+   "heading": "Artigo 60.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 60.º\n\n1. Enquanto não for estabelecida regulamentação para os efeitos do n.º 4 do artigo 29.º, observar-se-á o disposto nos artigos 4.º e seguintes do Decreto n.º 182/72, com as necessárias adaptações e as alterações constantes dos números seguintes.\n\n2. Os n.os 2.º e 3.º do artigo 4.º daquele diploma invertem entre si as respectivas posições.\n\n3. É aditado a esse artigo um n.º 7.º, com a seguinte redacção:\n\n7.º Promotores que construam casas cujos fogos fiquem sujeitos a fixação ou contrôle dos valores das rendas ou dos preços de venda.\n\n4. No caso de construção de moradias, o n.º 4.º do aludido artigo 4.º refere-se aos que pretendam construir casas para habitação própria, sendo, então, dada preferência, relativamente aos lotes resultantes de terrenos adquiridos por expropriação, aos respectivos expropriados.\n\n5. Para os efeitos do número anterior, se o terreno do lote pertencia a mais de um proprietário, a preferência cabe ao expropriado que era proprietário do terreno confinante com a via pública. Se houver mais de um nessas condições, a preferência cabe, sucessivamente, aos proprietários dos terrenos expropriados que tiverem maior linha de frente com a via pública.\n\n6. A competência a que se refere o artigo 15.º do Decreto n.º 182/72 pode ser delegada nas câmaras municipais, sempre que se trate de empreendimentos em cuja execução ou condução os municípios participem.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671193": {
+   "fragment_id": "37197375",
+   "type": 11,
+   "heading": "Artigo 61.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 61.º\n\nO disposto nos artigos 53.º e 54.º é aplicável aos planos de realojamento de emergência, necessários à instalação de vítimas de cataclismos e grupos de desalojados ou emigrantes.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671194": {
+   "fragment_id": "37197475",
+   "type": 11,
+   "heading": "Artigo 62.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 62.º\n\n1. Para efeitos deste diploma, entende-se por aglomerado urbano o núcleo de edificações autorizadas e respectiva área envolvente, possuindo vias públicas pavimentadas e que seja servido por rede de abastecimento domiciliário de água e de drenagem de esgoto, sendo o seu perímetro definido pelos pontos distanciados 50 m das vias públicas onde terminam aquelas infra-estruturas urbanísticas.\n\n2. Para efeitos deste diploma, entende-se por zona diferenciada do aglomerado urbano o conjunto de edificações autorizadas e terrenos contíguos marginados por vias públicas urbanas pavimentadas que não disponham de todas as infra-estruturas urbanísticas do aglomerado.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671195": {
+   "fragment_id": "37197575",
+   "type": 11,
+   "heading": "Artigo 63.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 63.º\n\nO disposto no presente diploma não prejudica a vigência do Decreto-Lei n.º 8/73, de 8 de Janeiro, e do Decreto-Lei n.º 273-C/75, de 3 de Junho.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  },
+  "924671196": {
+   "fragment_id": "37197675",
+   "type": 11,
+   "heading": "Artigo 64.º",
+   "in_force_from": "2014-06-29",
+   "changed_by": [
+    "Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+   ],
+   "markdown": "###### Artigo 64.º\n\nSão revogados os artigos 1.º a 12.º e 19.º a 56.º do Decreto-Lei n.º 576/70, de 24 de Novembro, e os artigos 2.º a 4.º do Decreto-Lei n.º 445/74, de 12 de Setembro.\n\n> Revogado pelo/a Artigo 83.º do/a [Lei n.º 31/2014 - Diário da República n.º 104/2014, Série I de 2014-05-30](https://diariodarepublica.pt/dr/detalhe/lei/31-2014-25345938), em vigor a partir de 2014-06-29"
+  }
+ }
+}

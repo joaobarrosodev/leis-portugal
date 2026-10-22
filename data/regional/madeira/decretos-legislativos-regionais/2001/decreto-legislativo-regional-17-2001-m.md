@@ -1,0 +1,183 @@
+---
+schema_version: '1.0'
+id: pt:dre:350099:por
+title: Decreto Legislativo Regional n.º 17/2001/M
+short_title: null
+summary: Estabelece o regime de criação de arquivos intermédios a implementar nos serviços dependentes dos órgãos de governo
+  da Região Autónoma da Madeira e organismos sob a sua tutela
+jurisdiction: regional
+territory: madeira
+document_type: decreto-legislativo-regional
+document_type_label: Decreto Legislativo Regional
+issuing_authority:
+- Região Autónoma da Madeira - Assembleia Legislativa Regional
+proposing_entity: null
+official_number: 17/2001/M
+official_date: null
+publication_date: '2001-06-29'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 149/2001, Série I-A de 2001-06-29
+  number: '149'
+  series: I
+  supplement: null
+  pages: 3885 - 3887
+  pdf_url: https://files.diariodarepublica.pt/1s/2001/06/149a00/38853887.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/declegreg/17/2001/06/29/m/dre/pt/html
+  oj: null
+  dre: '350099'
+  dre_path: /dr/detalhe/decreto-legislativo-regional/17-2001-350099
+  internal: pt:dre:350099:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2001-350099
+  metadata_url: https://data.dre.pt/eli/declegreg/17/2001/06/29/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2001-350099
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2005-02-10T00:00:00Z'
+integrity:
+  source_sha256: f705d60b48c43739f295c5d55435c4cac03501878fc1635ae38d186099d9a7af
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2001/DRE-2001-17-350099.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Arquivo
+- Arquivo Regional da Madeira
+- Conservação de Documentos
+- Definição de Competências
+- Documentação Classificada
+- Património Cultural
+- Madeira.região Autónoma
+relationships:
+- type: amended_by
+  target: pt:dre:618114:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/26/1999/08/27/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/26/1999/08/27/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/9/1998/05/22/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/9/1998/05/22/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 4
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Legislativo Regional n.º 17/2001/M
+
+Estabelece o regime de criação de arquivos intermédios a implementar nos serviços dependentes dos órgãos de governo da Região Autónoma da Madeira e organismos sob a sua tutela.
+
+A gestão de documentos é actualmente uma preocupação não só da comunidade arquivística mas também da Administração Pública. Preocupações ditadas essencialmente por um crescimento exponencial dos arquivos e consequente acumulação de documentos e sobrelotação daqueles, pela produção de documentos em novos suportes, pela tomada de consciência, por parte da Administração, da importância dos mesmos enquanto recurso para a eficácia administrativa e ainda, por parte do cidadão, que cada vez mais requer o exercício do seu direito à informação.
+
+Na Região Autónoma da Madeira, o entendimento da importância da gestão de documentos determinou a publicação do [Decreto Legislativo Regional n.º 26/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1999-533784), de 27 de Agosto, que regulamenta a gestão de documentos na posse dos serviços dos órgãos de governo da Região Autónoma da Madeira e organismos sob sua tutela, e visa sobretudo controlar a produção documental em acumulação permanente, definindo os critérios de avaliação e selecção dos mesmos, de acordo com os quais se estabelecerão prazos de conservação, formas de eliminação, bem como a indicação dos documentos a conservar permanentemente. Por outro lado, o [Decreto Legislativo Regional n.º 9/98/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/9-1998-524042), de 22 de Maio, constituiu o Arquivo Regional da Madeira como o órgão de gestão dos arquivos da Região.
+
+Não obstante a legislação regional já aprovada, para implantar com eficácia práticas de gestão de documentos junto das administrações produtoras, há que criar estruturas orgânicas na Administração Pública Regional, preocupação bem expressa numa Recomendação sobre Gestão de Documentos do Conselho Superior de Arquivos (documento n.º 2/1999) onde se recomenda «a promoção nos organismos da Administração Pública, ao nível da Direcção-Geral ou equivalente, de sistemas de gestão integrada de arquivo [...] sujeitos a uma coordenação única e organicamente considerada», bem como «a afectação de recursos humanos especializados à área da gestão de documentos nos organismos da Administração Pública, nomeadamente no que respeita à criação/preenchimento de lugares do quadro nas carreiras de técnico superior de arquivos e de técnico-adjunto de arquivos».
+
+Note-se que os regulamentos de gestão de documentos, a elaborar nos termos do [Decreto Legislativo Regional n.º 26/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1999-533784), de 27 de Agosto, acima mencionado, se revestem de uma importância crucial, pois gerem o ciclo de vida daqueles; contudo, para serem correctamente aplicados e realmente eficazes, estes instrumentos de gestão pressupõem, primeiro, que seja assumido pelos arquivos correntes que deverão reter a documentação pelo tempo estabelecido na tabela e depois enviá-la para o arquivo intermédio; numa segunda fase, pressupõem a existência de um arquivo intermédio organizado, capaz de gerir aquelas transferências e as transferências para o arquivo definitivo ou histórico da Região - o Arquivo Regional da Madeira -, bem como proceder às necessárias eliminações. A existência de um arquivo central ou intermédio permitirá indubitavelmente rentabilizar os espaços e optimizar os serviços, garantindo ainda a boa conservação dos documentos e a sua correcta avaliação, promovendo, em última instância, a eficiência e eficácia dos serviços públicos.
+
+A matéria em causa, respeitando à organização de serviços da administração regional autónoma da Madeira, reveste-se de indubitável interesse específico, aliás, como tal considerado pela alínea n) do artigo 228.º da Constituição da República Portuguesa e pela alínea qq) do artigo 40.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto.
+
+Assim:
+
+A Assembleia Legislativa Regional da Madeira decreta, nos termos da alínea a) do n.º 1 do artigo 227.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, revisto pela [Lei n.º 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de Agosto, o seguinte:
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estabelece o regime de criação de arquivos intermédios a implementar nos serviços que compõem os órgãos de governo da Região Autónoma da Madeira.
+
+2 - O regime que pelo presente diploma é aprovado aplica-se a todos os serviços referidos no número anterior, incluindo institutos públicos e fundos públicos personalizados.
+
+###### Artigo 2.º — Criação de arquivos intermédios
+
+1 - Em todos os serviços abrangidos pelo âmbito de aplicação do presente diploma será criado um arquivo central ou intermédio que coordenará os arquivos correntes ou administrativos de todos os organismos dependentes.
+
+2 - O arquivo central ou intermédio é o órgão de ligação dos serviços e organismos da administração regional autónoma com o arquivo definitivo da Região, o Arquivo Regional da Madeira, com vista à remessa da documentação considerada de conservação permanente e à implementação de projectos e orientações técnicas de gestão de documentos emanadas pelo referido Arquivo Regional da Madeira.
+
+3 - O arquivo central ou intermédio dependerá directamente do respectivo membro do Governo Regional e será, em termos funcionais, equivalente a uma divisão ou direcção de serviços.
+
+4 - Em casos excepcionais, fundamentados na dimensão ou especificidade dos serviços, poderão designadamente ser constituídos arquivos intermédios integrados em direcções regionais ou equivalente.
+
+5 - Os institutos públicos e demais organismos dotados de autonomia constituirão o seu próprio serviço de arquivo intermédio.
+
+6 - Aos arquivos intermédios constituídos ao abrigo dos n.os 4 e 5 do presente artigo não se aplica o disposto na primeira parte do n.º 3 deste mesmo artigo.
+
+###### Artigo 3.º — Funções dos responsáveis dos arquivos centrais ou intermédios
+
+Aos responsáveis dos arquivos centrais ou intermédios compete designadamente:
+
+a) Integrar ou coordenar as equipas de avaliação e selecção de documentos a que se refere o [Decreto Legislativo Regional n.º 26/99/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/26-1999-533784), de 27 de Agosto;
+
+b) Produzir e implementar nos serviços outros instrumentos de gestão de documentos, designadamente planos de classificação de arquivos correntes e manuais de procedimentos, bem como normalizar e racionalizar a produção e utilização de documentos e formulários, racionalizar os circuitos documentais e, ainda, estabelecer as tipologias documentais e os planos de transferência de documentos;
+
+c) Formar e prestar apoio técnico ao pessoal dos serviços sobre a aplicação do sistema geral de gestão de documentos da instituição;
+
+d) Recolher a documentação semi-activa da qual ainda não tenham decorrido os prazos de conservação administrativa;
+
+e) Elaborar os instrumentos de controlo da documentação depositada no seu arquivo, de modo a permitir o respectivo controlo e identificação;
+
+f) Garantir as condições de conservação da documentação depositada no seu arquivo;
+
+g) Gerir a consulta e o empréstimo da documentação depositada no seu arquivo;
+
+h) Aplicar as portarias de gestão de documentos, procedendo às eliminações determinadas e remetendo para o arquivo definitivo a documentação de conservação permanente;
+
+i) Colaborar com o órgão de gestão dos arquivos da Região Autónoma da Madeira na elaboração e implementação de orientações técnicas e instrumentos de gestão de documentos, designadamente planos de classificação comuns para a administração pública regional, relativos às funções de gestão ou funções meio, e de planos de classificação específicos para cada organismo no que toca às funções específicas ou de fim;
+
+j) Colaborar com o órgão de gestão dos arquivos da Região Autónoma da Madeira na concepção e implantação de um sistema informático de gestão de documentos para a generalidade da administração regional autónoma, que contemple todo o ciclo de vida do documento, desde a entrada, classificação, circulação, despacho, descrição, arquivo, transferências, selecção e eliminação.
+
+###### Artigo 4.º — Condições profissionais dos responsáveis e funcionários dos arquivos administrativos
+
+1 - Os responsáveis dos arquivos centrais ou intermédios de cada departamento governamental devem ser arquivistas habilitados com o curso de especialização em Ciências Documentais - opção Arquivo.
+
+2 - A assessorá-los deverão ter, para além de outro pessoal considerado necessário, técnicos profissionais de arquivo.
+
+Aprovado em sessão plenária da Assembleia Legislativa Regional da Madeira em 24 de Maio de 2001.
+
+**O Presidente da Assembleia Legislativa Regional, José Miguel Jardim d'Olival Mendonça.**
+
+**Assinado em 15 de Junho de 2001.**
+
+**Publique-se.**
+
+**O Ministro da República para a Região Autónoma da Madeira, Antero Alves Monteiro Diniz.**

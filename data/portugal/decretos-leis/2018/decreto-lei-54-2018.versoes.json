@@ -1,0 +1,826 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:115652961:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2018-115654476",
+ "dre_path": "/dr/detalhe/decreto-lei/54-2018-115652961",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2018-07-06",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "115625169",
+    "115625170",
+    "115625171",
+    "115625172",
+    "115625173",
+    "115625174",
+    "115654675",
+    "115654676",
+    "115654677",
+    "115654678",
+    "115654679",
+    "115654680",
+    "115654681",
+    "115654682",
+    "115654683",
+    "115654684",
+    "115654685",
+    "115654686",
+    "115654687",
+    "115654688",
+    "115654689",
+    "115654690",
+    "115654691",
+    "115654692",
+    "115654693",
+    "115654694",
+    "115654695",
+    "115654696",
+    "115654697",
+    "115654698",
+    "115654699",
+    "115654700",
+    "115654701",
+    "115654702",
+    "115654703",
+    "115654704",
+    "115654705",
+    "115654706",
+    "115654707",
+    "115654708",
+    "115654709",
+    "115654710",
+    "115654711",
+    "115654712",
+    "115654713",
+    "115654714",
+    "115654715",
+    "115654716"
+   ]
+  },
+  {
+   "date": "2019-09-14",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:125047267:por",
+     "title": "Declaração de Retificação n.º 47/2019",
+     "published": "2019-10-03",
+     "dre_path": "/dr/detalhe/declaracao-retificacao/47-2019-125047267"
+    },
+    {
+     "id": "pt:dre:124680588:por",
+     "title": "Lei n.º 116/2019",
+     "published": "2019-09-13",
+     "dre_path": "/dr/detalhe/lei/116-2019-124680588"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 28.º",
+    "Retifica Artigo 33.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 21.º",
+    "Altera Artigo 25.º",
+    "Altera Artigo 27.º",
+    "Altera Artigo 32.º",
+    "Altera Artigo 33.º",
+    "Altera Artigo 36.º",
+    "Altera Artigo 37.º"
+   ],
+   "fragments": [
+    "115625169",
+    "115625170",
+    "115625171",
+    "124705645",
+    "124705646",
+    "124705647",
+    "124705648",
+    "115654676",
+    "115654677",
+    "124705649",
+    "124705650",
+    "124705651",
+    "124705652",
+    "115654682",
+    "124705653",
+    "124705654",
+    "124705655",
+    "115654686",
+    "115654687",
+    "115654688",
+    "115654689",
+    "115654690",
+    "115654691",
+    "115654692",
+    "840370705",
+    "124705656",
+    "115654695",
+    "115654696",
+    "115654697",
+    "124705657",
+    "115654699",
+    "115654700",
+    "124705658",
+    "115654702",
+    "115654703",
+    "115654704",
+    "115654705",
+    "115654706",
+    "124705659",
+    "124705660",
+    "115654709",
+    "115654710",
+    "124705661",
+    "124705662",
+    "115654713",
+    "115654714",
+    "115654715",
+    "115654716",
+    "115654717"
+   ]
+  },
+  {
+   "date": "2023-07-26",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:216154388:por",
+     "title": "Decreto-Lei n.º 62/2023",
+     "published": "2023-07-25",
+     "dre_path": "/dr/detalhe/decreto-lei/62-2023-216154388"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 28.º"
+   ],
+   "fragments": [
+    "115625169",
+    "115625170",
+    "115625171",
+    "124705645",
+    "124705646",
+    "124705647",
+    "124705648",
+    "115654676",
+    "115654677",
+    "124705649",
+    "124705650",
+    "124705651",
+    "124705652",
+    "115654682",
+    "124705653",
+    "124705654",
+    "124705655",
+    "115654686",
+    "115654687",
+    "115654688",
+    "115654689",
+    "115654690",
+    "115654691",
+    "115654692",
+    "840370705",
+    "124705656",
+    "115654695",
+    "115654696",
+    "115654697",
+    "124705657",
+    "115654699",
+    "115654700",
+    "124705658",
+    "216185548",
+    "115654703",
+    "115654704",
+    "115654705",
+    "115654706",
+    "124705659",
+    "125049323",
+    "115654709",
+    "115654710",
+    "124705661",
+    "124705662",
+    "115654713",
+    "115654714",
+    "115654715",
+    "115654716",
+    "115654717"
+   ]
+  }
+ ],
+ "fragments": {
+  "115625169": {
+   "fragment_id": "115654477",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 54/2018\n\nde 6 de julho\n\nO Programa do XXI Governo Constitucional estabelece como uma das prioridades da ação governativa a aposta numa escola inclusiva onde todos e cada um dos alunos, independentemente da sua situação pessoal e social, encontram respostas que lhes possibilitam a aquisição de um nível de educação e formação facilitadoras da sua plena inclusão social. Esta prioridade política vem concretizar o direito de cada aluno a uma educação inclusiva que responda às suas potencialidades, expectativas e necessidades no âmbito de um projeto educativo comum e plural que proporcione a todos a participação e o sentido de pertença em efetivas condições de equidade, contribuindo assim, decisivamente, para maiores níveis de coesão social.\n\nO compromisso com a educação inclusiva, de acordo com a definição da UNESCO (2009), enquanto processo que visa responder à diversidade de necessidades dos alunos, através do aumento da participação de todos na aprendizagem e na vida da comunidade escolar, foi reiterado por Portugal com a ratificação da Convenção sobre os Direitos das Pessoas com Deficiência e o seu protocolo opcional, adotada na Assembleia Geral das Nações Unidas, em Nova Iorque, no dia 13 de dezembro de 2006, aprovada pela Resolução da Assembleia da República n.º 56/2009, de 30 de julho, ratificada pelo Decreto do Presidente da República n.º 71/2009, de 30 de julho, e reafirmada na «Declaração de Lisboa sobre Equidade Educativa», em julho de 2015. Este compromisso visa ainda dar cumprimento aos objetivos do desenvolvimento sustentável da Agenda 2030 da ONU.\n\nNo centro da atividade da escola estão o currículo e as aprendizagens dos alunos. Neste pressuposto, o presente decreto-lei tem como eixo central de orientação a necessidade de cada escola reconhecer a mais-valia da diversidade dos seus alunos, encontrando formas de lidar com essa diferença, adequando os processos de ensino às características e condições individuais de cada aluno, mobilizando os meios de que dispõe para que todos aprendam e participem na vida da comunidade educativa. Isto implica uma aposta decisiva na autonomia das escolas e dos seus profissionais, designadamente através do reforço da intervenção dos docentes de educação especial, enquanto parte ativa das equipas educativas na definição de estratégias e no acompanhamento da diversificação curricular. Consciente das competências profissionais existentes nas escolas portuguesas, o Governo pretende agora criar condições para que estas possam elevar os padrões de qualidade das diferentes ofertas de educação e formação. Mesmo nos casos em que se identificam maiores dificuldades de participação no currículo, cabe a cada escola definir o processo no qual identifica as barreiras à aprendizagem com que o aluno se confronta, apostando na diversidade de estratégias para as ultrapassar, de modo a assegurar que cada aluno tenha acesso ao currículo e às aprendizagens, levando todos e cada um ao limite das suas potencialidades.\n\nAs opções metodológicas subjacentes ao presente decreto-lei assentam no desenho universal para a aprendizagem e na abordagem multinível no acesso ao currículo. Esta abordagem baseia-se em modelos curriculares flexíveis, no acompanhamento e monitorização sistemáticas da eficácia do contínuo das intervenções implementadas, no diálogo dos docentes com os pais ou encarregados de educação e na opção por medidas de apoio à aprendizagem, organizadas em diferentes níveis de intervenção, de acordo com as respostas educativas necessárias para cada aluno adquirir uma base comum de competências, valorizando as suas potencialidades e interesses.\n\nAfasta-se a conceção de que é necessário categorizar para intervir. Procura-se garantir que o Perfil dos Alunos à Saída da Escolaridade Obrigatória seja atingido por todos, ainda que através de percursos diferenciados, os quais permitem a cada um progredir no currículo com vista ao seu sucesso educativo. O presente decreto-lei consagra, assim, uma abordagem integrada e contínua do percurso escolar de cada aluno garantindo uma educação de qualidade ao longo da escolaridade obrigatória.\n\nPara a visão integrada e contínua da abordagem educativa que agora se advoga contribui decisivamente um processo de avaliação de apoio à aprendizagem - que considera aspetos académicos, comportamentais, sociais e emocionais do aluno, mas também fatores ambientais -, uma vez que desse processo resulta toda a sequencialização e dinâmica da intervenção.\n\nRedefinem-se, a partir de uma visão holística, as atribuições das equipas multidisciplinares na condução do processo de identificação das medidas de suporte à aprendizagem e à inclusão, em função das características de cada aluno, no acompanhamento e na monitorização da eficácia da aplicação dessas mesmas medidas, reforçando o envolvimento dos docentes, dos técnicos, dos pais ou encarregados de educação e do próprio aluno.\n\nIntroduzem-se alterações na forma como a escola e as estruturas de apoio se encontram organizadas, para a identificação das medidas de suporte à aprendizagem e à inclusão ao longo da escolaridade obrigatória.\n\nReconfigura-se o modelo de Unidade Especializada num modelo de Centro de Apoio à Aprendizagem, que aglutina o primeiro, transformando-se num espaço dinâmico, plural e agregador dos recursos humanos e materiais, mobilizando para a inclusão os saberes e competências existentes na escola, valorizando, assim, os saberes e as experiências de todos.\n\nReforça-se o papel dos pais ou encarregados de educação, conferindo-lhes um conjunto de direitos e deveres conducentes ao seu envolvimento em todo o processo educativo dos seus educandos.\n\nReconhecendo-se o indelével contributo do Decreto-Lei n.º 3/2008, de 7 de janeiro, alterado pela Lei n.º 21/2008, de 12 de maio, através do trabalho realizado pelas escolas e da reflexão que ao longo do tempo propiciou a professores, investigadores e peritos, o presente decreto-lei decorre do Grupo de Trabalho, criado pelo Despacho n.º 7617/2016, publicado no Diário da República, 2.ª série, de 8 de junho, que, ouvindo múltiplos atores, procedeu a um levantamento de problemas e, concomitantemente, procurou as melhores soluções do ponto de vista da educação, da saúde e da inclusão social.\n\nO anteprojeto de decreto-lei foi submetido a consulta pública entre julho e final de setembro de 2017, com ampla participação de interessados, em que se incluem estabelecimentos de ensino públicos e privados, associações de professores, profissionais da comunidade educativa, ordens profissionais, associações de pais e encarregados de educação, representantes de pessoas com deficiências e incapacidades, federações, associações sindicais e particulares em geral.\n\nForam ouvidos o Conselho Nacional de Educação, o Conselho das Escolas, a Associação dos Estabelecimentos de Ensino Particular e Cooperativo, a Confederação Cooperativa Portuguesa, a Confederação Nacional das Instituições de Solidariedade, a União das Misericórdias Portuguesas, a União das Mutualidades Portuguesas e os órgãos de governo próprio das Regiões Autónomas.\n\nAssim:\n\nNo desenvolvimento do regime jurídico estabelecido na Lei de Bases do Sistema Educativo, aprovada pela Lei n.º 46/86, de 14 de outubro, na sua redação atual, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:"
+  },
+  "115625170": {
+   "fragment_id": "115654478",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "115625171": {
+   "fragment_id": "115654479",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito\n\n1 - O presente decreto-lei estabelece os princípios e as normas que garantem a inclusão, enquanto processo que visa responder à diversidade das necessidades e potencialidades de todos e de cada um dos alunos, através do aumento da participação nos processos de aprendizagem e na vida da comunidade educativa.\n\n2 - O presente decreto-lei identifica as medidas de suporte à aprendizagem e à inclusão, as áreas curriculares específicas, bem como os recursos específicos a mobilizar para responder às necessidades educativas de todas e de cada uma das crianças e jovens ao longo do seu percurso escolar, nas diferentes ofertas de educação e formação.\n\n3 - O presente decreto-lei aplica-se aos agrupamentos de escolas e escolas não agrupadas, às escolas profissionais e aos estabelecimentos da educação pré-escolar e do ensino básico e secundário das redes privada, cooperativa e solidária, adiante designados por escolas."
+  },
+  "115625172": {
+   "fragment_id": "115654480",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei entende-se por:\n\na) «Acomodações curriculares», as medidas de gestão curricular que permitem o acesso ao currículo e às atividades de aprendizagem na sala de aula através da diversificação e da combinação adequada de vários métodos e estratégias de ensino, da utilização de diferentes modalidades e instrumentos de avaliação, da adaptação de materiais e recursos educativos e da remoção de barreiras na organização do espaço e do equipamento, planeadas para responder aos diferentes estilos de aprendizagem de cada aluno, promovendo o sucesso educativo;\n\nb) «Adaptações curriculares não significativas», as medidas de gestão curricular que não comprometem as aprendizagens previstas nos documentos curriculares, podendo incluir adaptações ao nível dos objetivos e dos conteúdos, através da alteração na sua priorização ou sequenciação, ou na introdução de objetivos específicos de nível intermédio que permitam atingir os objetivos globais e as aprendizagens essenciais, de modo a desenvolver as competências previstas no Perfil dos Alunos à Saída da Escolaridade Obrigatória;\n\nc) «Adaptações curriculares significativas», as medidas de gestão curricular que têm impacto nas aprendizagens previstas nos documentos curriculares, requerendo a introdução de outras aprendizagens substitutivas e estabelecendo objetivos globais ao nível dos conhecimentos a adquirir e das competências a desenvolver, de modo a potenciar a autonomia, o desenvolvimento pessoal e o relacionamento interpessoal;\n\nd) «Áreas curriculares específicas», as que contemplam o treino de visão, o sistema braille, a orientação e a mobilidade, as tecnologias específicas de informação e comunicação e as atividades da vida diária;\n\ne) «Barreiras à aprendizagem», as circunstâncias de natureza física, sensorial, cognitiva, socioemocional, organizacional ou logística resultantes da interação criança ou aluno e ambiente que constituem obstáculos à aprendizagem;\n\nf) «Equipa de saúde escolar», a equipa de profissionais de saúde dos agrupamentos de centros de saúde ou das unidades locais de saúde (ACES/ULS), que, perante a referenciação de crianças ou jovens com necessidades de saúde especiais, articula com as equipas de medicina geral e familiar e outros serviços de saúde, a família e a escola, com as quais elabora um plano de saúde individual, apoiando a sua implementação, monitorização e eventual revisão;\n\ng) «Intervenção precoce na infância», o conjunto de medidas de apoio integrado, centrado na criança e na família, incluindo ações de natureza preventiva e reabilitativa, designadamente no âmbito da educação, da saúde e da ação social;\n\nh) «Necessidades de saúde especiais» (NSE), as necessidades que resultam dos problemas de saúde física e mental que tenham impacto na funcionalidade, produzam limitações acentuadas em qualquer órgão ou sistema, impliquem irregularidade na frequência escolar e possam comprometer o processo de aprendizagem;\n\ni) «Plano individual de transição», o plano concebido, três anos antes da idade limite da escolaridade obrigatória, para cada jovem que frequenta a escolaridade com adaptações significativas, desenhado de acordo com os interesses, competências e expectativas do aluno e da sua família, com vista a facilitar a transição para a vida pós-escolar e que complementa o programa educativo individual;\n\nj) «Plano de saúde individual», o plano concebido pela equipa de saúde escolar, no âmbito do Programa Nacional de Saúde Escolar, para cada criança ou jovem com NSE, que integra os resultados da avaliação das condições de saúde na funcionalidade e identifica as medidas de saúde a implementar, visando melhorar o processo de aprendizagem;\n\nk) «Programa educativo individual», o programa concebido para cada aluno resultante de uma planificação centrada na sua pessoa, em que se identificam as medidas de suporte à aprendizagem que promovem o acesso e a participação em contextos inclusivos."
+  },
+  "115625173": {
+   "fragment_id": "115654481",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nSão princípios orientadores da educação inclusiva:\n\na) Educabilidade universal, a assunção de que todas as crianças e alunos têm capacidade de aprendizagem e de desenvolvimento educativo;\n\nb) Equidade, a garantia de que todas as crianças e alunos têm acesso aos apoios necessários de modo a concretizar o seu potencial de aprendizagem e desenvolvimento;\n\nc) Inclusão, o direito de todas as crianças e alunos ao acesso e participação, de modo pleno e efetivo, aos mesmos contextos educativos;\n\nd) Personalização, o planeamento educativo centrado no aluno, de modo que as medidas sejam decididas casuisticamente de acordo com as suas necessidades, potencialidades, interesses e preferências, através de uma abordagem multinível;\n\ne) Flexibilidade, a gestão flexível do currículo, dos espaços e dos tempos escolares, de modo que a ação educativa nos seus métodos, tempos, instrumentos e atividades possa responder às singularidades de cada um;\n\nf) Autodeterminação, o respeito pela autonomia pessoal, tomando em consideração não apenas as necessidades do aluno mas também os seus interesses e preferências, a expressão da sua identidade cultural e linguística, criando oportunidades para o exercício do direito de participação na tomada de decisões;\n\ng) Envolvimento parental, o direito dos pais ou encarregados de educação à participação e à informação relativamente a todos os aspetos do processo educativo do seu educando;\n\nh) Interferência mínima, a intervenção técnica e educativa deve ser desenvolvida exclusivamente pelas entidades e instituições cuja ação se revele necessária à efetiva promoção do desenvolvimento pessoal e educativo das crianças ou alunos e no respeito pela sua vida privada e familiar."
+  },
+  "115625174": {
+   "fragment_id": "115654482",
+   "type": 11,
+   "heading": "Artigo 4.º — Participação dos pais ou encarregados de educação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Participação dos pais ou encarregados de educação\n\n1 - Os pais ou encarregados de educação, no âmbito do exercício dos poderes e deveres que lhes foram conferidos nos termos da Constituição e da lei, têm o direito e o dever de participar e cooperar ativamente em tudo o que se relacione com a educação do seu filho ou educando, bem como a aceder a toda a informação constante no processo individual do aluno, designadamente no que diz respeito às medidas de suporte à aprendizagem e à inclusão.\n\n2 - Nos termos do disposto no número anterior, os pais ou encarregados de educação têm direito a:\n\na) Participar nas reuniões da equipa multidisciplinar;\n\nb) Participar na elaboração e na avaliação do programa educativo individual;\n\nc) Solicitar a revisão do programa educativo individual;\n\nd) Consultar o processo individual do seu filho ou educando;\n\ne) Ter acesso a informação adequada e clara relativa ao seu filho ou educando.\n\n3 - Quando, comprovadamente, os pais ou encarregados de educação não exerçam os seus poderes de participação cabe à escola desencadear as medidas apropriadas em função das necessidades educativas identificadas."
+  },
+  "115654675": {
+   "fragment_id": "115654483",
+   "type": 11,
+   "heading": "Artigo 5.º — Linhas de atuação para a inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Linhas de atuação para a inclusão\n\n1 - As escolas devem incluir nos seus documentos orientadores as linhas de atuação para a criação de uma cultura de escola onde todos encontrem oportunidades para aprender e as condições para se realizarem plenamente, respondendo às necessidades de cada aluno, valorizando a diversidade e promovendo a equidade e a não discriminação no acesso ao currículo e na progressão ao longo da escolaridade obrigatória.\n\n2 - As linhas de atuação para a inclusão vinculam toda a escola a um processo de mudança cultural, organizacional e operacional baseado num modelo de intervenção multinível que reconhece e assume as transformações na gestão do currículo, nas práticas educativas e na sua monitorização.\n\n3 - As linhas de atuação para a inclusão devem integrar um contínuo de medidas universais, seletivas e adicionais que respondam à diversidade das necessidades de todos e de cada um dos alunos.\n\n4 - As escolas devem, ainda, definir indicadores destinados a avaliar a eficácia das medidas referidas no número anterior."
+  },
+  "115654676": {
+   "fragment_id": "115654484",
+   "type": 1,
+   "heading": "Capítulo II — Medidas de suporte à aprendizagem e à inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Medidas de suporte à aprendizagem e à inclusão"
+  },
+  "115654677": {
+   "fragment_id": "115654485",
+   "type": 11,
+   "heading": "Artigo 6.º — Objetivos das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objetivos das medidas\n\n1 - As medidas de suporte à aprendizagem e à inclusão têm como finalidade a adequação às necessidades e potencialidades de cada aluno e a garantia das condições da sua realização plena, promovendo a equidade e a igualdade de oportunidades no acesso ao currículo, na frequência e na progressão ao longo da escolaridade obrigatória.\n\n2 - Estas medidas são desenvolvidas tendo em conta os recursos e os serviços de apoio ao funcionamento da escola, os quais devem ser convocados pelos profissionais da escola, numa lógica de trabalho colaborativo e de corresponsabilização com os docentes de educação especial, em função das especificidades dos alunos.\n\n3 - A implementação das medidas ocorre em todas as modalidades e percursos de educação e de formação, de modo a garantir que todos os alunos têm igualdade de oportunidades no acesso e na frequência das diferentes ofertas educativas e formativas."
+  },
+  "115654678": {
+   "fragment_id": "115654486",
+   "type": 11,
+   "heading": "Artigo 7.º — Níveis das medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Níveis das medidas\n\n1 - As medidas de suporte à aprendizagem e à inclusão são organizadas em três níveis de intervenção: universais, seletivas e adicionais.\n\n2 - As medidas de diferente nível são mobilizadas, ao longo do percurso escolar do aluno, em função das suas necessidades educativas.\n\n3 - A definição de medidas a implementar é efetuada com base em evidências decorrentes da monitorização, da avaliação sistemáticas e da eficácia das medidas na resposta às necessidades de cada criança ou aluno.\n\n4 - A definição das medidas a que se refere o n.º 1 é realizada pelos docentes, ouvidos os pais ou encarregados de educação e outros técnicos que intervêm diretamente com o aluno, podendo ser adotadas em simultâneo medidas de diferentes níveis."
+  },
+  "115654679": {
+   "fragment_id": "115654487",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas universais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas universais\n\n1 - As medidas universais correspondem às respostas educativas que a escola tem disponíveis para todos os alunos com objetivo de promover a participação e a melhoria das aprendizagens.\n\n2 - Consideram-se medidas universais, entre outras:\n\na) A diferenciação pedagógica;\n\nb) As acomodações curriculares;\n\nc) O enriquecimento curricular;\n\nd) A promoção do comportamento pró-social;\n\ne) A intervenção com foco académico ou comportamental em pequenos grupos.\n\n3 - As medidas universais são mobilizadas para todos os alunos, incluindo os que necessitam de medidas seletivas ou adicionais, tendo em vista, designadamente, a promoção do desenvolvimento pessoal, interpessoal e de intervenção social."
+  },
+  "115654680": {
+   "fragment_id": "115654488",
+   "type": 11,
+   "heading": "Artigo 9.º — Medidas seletivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Medidas seletivas\n\n1 - As medidas seletivas visam colmatar as necessidades de suporte à aprendizagem não supridas pela aplicação de medidas universais.\n\n2 - Consideram-se medidas seletivas:\n\na) Os percursos curriculares diferenciados;\n\nb) As adaptações curriculares não significativas;\n\nc) O apoio psicopedagógico;\n\nd) A antecipação e o reforço das aprendizagens;\n\ne) O apoio tutorial.\n\n3 - A monitorização e avaliação da eficácia da aplicação das medidas seletivas é realizada pelos responsáveis da sua implementação, de acordo com o definido no relatório técnico-pedagógico.\n\n4 - As medidas seletivas são operacionalizadas com os recursos materiais e humanos disponíveis na escola.\n\n5 - Quando a operacionalização das medidas a que se referem os números anteriores implique a utilização de recursos adicionais, o diretor da escola deve requerer, fundamentadamente, tais recursos ao serviço competente do Ministério da Educação."
+  },
+  "115654681": {
+   "fragment_id": "115654489",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Medidas adicionais\n\n1 - As medidas adicionais visam colmatar dificuldades acentuadas e persistentes ao nível da comunicação, interação, cognição ou aprendizagem que exigem recursos especializados de apoio à aprendizagem e à inclusão.\n\n2 - A mobilização das medidas adicionais depende da demonstração da insuficiência das medidas universais e seletivas previstas nos níveis de intervenção a que se referem os artigos 8.º e 9.º\n\n3 - A fundamentação da insuficiência, referida no número anterior, deve ser baseada em evidências e constar do relatório técnico-pedagógico.\n\n4 - Consideram-se medidas adicionais:\n\na) A frequência do ano de escolaridade por disciplinas;\n\nb) As adaptações curriculares significativas;\n\nc) O plano individual de transição;\n\nd) O desenvolvimento de metodologias e estratégias de ensino estruturado;\n\ne) O desenvolvimento de competências de autonomia pessoal e social.\n\n5 - A aplicação das medidas adicionais que requerem a intervenção de recursos especializados deve convocar a intervenção do docente de educação especial enquanto dinamizador, articulador e especialista em diferenciação dos meios e materiais de aprendizagem, sendo, preferencialmente, implementadas em contexto de sala de aula.\n\n6 - A monitorização e avaliação da eficácia da aplicação das medidas adicionais é realizada pelos responsáveis da sua implementação, de acordo com o definido no relatório técnico-pedagógico.\n\n7 - As medidas adicionais são operacionalizadas com os recursos materiais e humanos disponíveis na escola, privilegiando-se o contexto de sala de aula.\n\n8 - Quando a operacionalização das medidas previstas no n.º 4 implique a necessidade de mobilização de recursos adicionais, o diretor da escola deve requerer, fundamentadamente, tais recursos ao serviço competente do Ministério da Educação."
+  },
+  "115654682": {
+   "fragment_id": "115654490",
+   "type": 1,
+   "heading": "Capítulo III — Recursos específicos de apoio à aprendizagem e à inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Recursos específicos de apoio à aprendizagem e à inclusão"
+  },
+  "115654683": {
+   "fragment_id": "115654491",
+   "type": 11,
+   "heading": "Artigo 11.º — Identificação dos recursos específicos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Identificação dos recursos específicos\n\n1 - São recursos humanos específicos de apoio à aprendizagem e à inclusão:\n\na) Os docentes de educação especial;\n\nb) Os técnicos especializados;\n\nc) Os assistentes operacionais, preferencialmente com formação específica.\n\n2 - São recursos organizacionais específicos de apoio à aprendizagem e à inclusão:\n\na) A equipa multidisciplinar de apoio à educação inclusiva;\n\nb) O centro de apoio à aprendizagem;\n\nc) As escolas de referência no domínio da visão;\n\nd) As escolas de referência para a educação bilingue;\n\ne) As escolas de referência para a intervenção precoce na infância;\n\nf) Os centros de recursos de tecnologias de informação e comunicação para a educação especial.\n\n3 - São recursos específicos existentes na comunidade a mobilizar para apoio à aprendizagem e à inclusão:\n\na) As equipas locais de intervenção precoce;\n\nb) As equipas de saúde escolar dos ACES/ULS;\n\nc) As comissões de proteção de crianças e jovens;\n\nd) Os centros de recursos para a inclusão;\n\ne) As instituições da comunidade, nomeadamente os serviços de atendimento e acompanhamento social do sistema de solidariedade e segurança social, os serviços do emprego e formação profissional e os serviços da administração local;\n\nf) Os estabelecimentos de educação especial com acordo de cooperação com o Ministério da Educação.\n\n4 - O docente de educação especial, no âmbito da sua especialidade, apoia, de modo colaborativo e numa lógica de corresponsabilização, os demais docentes do aluno na definição de estratégias de diferenciação pedagógica, no reforço das aprendizagens e na identificação de múltiplos meios de motivação, representação e expressão.\n\n5 - Para cumprir os objetivos da inclusão, cooperam, de forma complementar e sempre que necessário, os recursos da comunidade, nomeadamente da educação, da formação profissional, do emprego, da segurança social, da saúde e da cultura."
+  },
+  "115654684": {
+   "fragment_id": "115654492",
+   "type": 11,
+   "heading": "Artigo 12.º — Equipa multidisciplinar de apoio à educação inclusiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Equipa multidisciplinar de apoio à educação inclusiva\n\n1 - Em cada escola é constituída uma equipa multidisciplinar de apoio à educação inclusiva.\n\n2 - A equipa multidisciplinar é composta por elementos permanentes e por elementos variáveis.\n\n3 - São elementos permanentes da equipa multidisciplinar:\n\na) Um dos docentes que coadjuva o diretor;\n\nb) Um docente de educação especial;\n\nc) Três membros do conselho pedagógico com funções de coordenação pedagógica de diferentes níveis de educação e ensino;\n\nd) Um psicólogo.\n\n4 - São elementos variáveis da equipa multidisciplinar o docente titular de grupo/turma ou o diretor de turma do aluno, consoante o caso, outros docentes do aluno, técnicos do centro de recurso para a inclusão (CRI) e outros técnicos que intervêm com o aluno.\n\n5 - Cabe ao diretor designar:\n\na) Os elementos permanentes;\n\nb) O coordenador, ouvidos os elementos permanentes da equipa multidisciplinar;\n\nc) O local de funcionamento.\n\n6 - Cabe ao coordenador da equipa multidisciplinar:\n\na) Identificar os elementos variáveis referidos no n.º 4;\n\nb) Convocar os membros da equipa para as reuniões;\n\nc) Dirigir os trabalhos;\n\nd) Adotar os procedimentos necessários de modo a garantir a participação dos pais ou encarregados de educação nos termos do artigo 4.º, consensualizando respostas para as questões que se coloquem.\n\n7 - Nos estabelecimentos de educação e ensino em que, por via da sua tipologia ou organização, não exista algum dos elementos da equipa multidisciplinar previstos nos n.os 3 e 4, cabe ao diretor definir o respetivo substituto.\n\n8 - Compete à equipa multidisciplinar:\n\na) Sensibilizar a comunidade educativa para a educação inclusiva;\n\nb) Propor as medidas de suporte à aprendizagem a mobilizar;\n\nc) Acompanhar e monitorizar a aplicação de medidas de suporte à aprendizagem;\n\nd) Prestar aconselhamento aos docentes na implementação de práticas pedagógicas inclusivas;\n\ne) Elaborar o relatório técnico-pedagógico previsto no artigo 21.º e, se aplicável, o programa educativo individual e o plano individual de transição previstos, respetivamente, nos artigos 24.º e 25.º;\n\nf) Acompanhar o funcionamento do centro de apoio à aprendizagem.\n\n9 - O trabalho a desenvolver no âmbito da equipa multidisciplinar, designadamente a mobilização de medidas de suporte à aprendizagem bem como a elaboração do relatório técnico-pedagógico e do programa educativo individual, quando efetuado por docentes, integra a componente não letiva do seu horário de trabalho."
+  },
+  "115654685": {
+   "fragment_id": "115654493",
+   "type": 11,
+   "heading": "Artigo 13.º — Centro de apoio à aprendizagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Centro de apoio à aprendizagem\n\n1 - O centro de apoio à aprendizagem é uma estrutura de apoio agregadora dos recursos humanos e materiais, dos saberes e competências da escola.\n\n2 - O centro de apoio à aprendizagem, em colaboração com os demais serviços e estruturas da escola, tem como objetivos gerais:\n\na) Apoiar a inclusão das crianças e jovens no grupo/turma e nas rotinas e atividades da escola, designadamente através da diversificação de estratégias de acesso ao currículo;\n\nb) Promover e apoiar o acesso à formação, ao ensino superior e à integração na vida pós-escolar;\n\nc) Promover e apoiar o acesso ao lazer, à participação social e à vida autónoma.\n\n3 - A ação educativa promovida pelo centro de apoio à aprendizagem é subsidiária da ação desenvolvida na turma do aluno, convocando a intervenção de todos os agentes educativos, nomeadamente o docente de educação especial.\n\n4 - O centro de apoio à aprendizagem, enquanto recurso organizacional, insere-se no contínuo de respostas educativas disponibilizadas pela escola.\n\n5 - Para os alunos a frequentar a escolaridade obrigatória, cujas medidas adicionais de suporte à aprendizagem sejam as previstas nas alíneas b), d) e e) do n.º 4 do artigo 10.º, é garantida, no centro de apoio à aprendizagem, uma resposta que complemente o trabalho desenvolvido em sala de aula ou noutros contextos educativos, com vista à sua inclusão.\n\n6 - Constituem objetivos específicos do centro de apoio à aprendizagem:\n\na) Promover a qualidade da participação dos alunos nas atividades da turma a que pertencem e nos demais contextos de aprendizagem;\n\nb) Apoiar os docentes do grupo ou turma a que os alunos pertencem;\n\nc) Apoiar a criação de recursos de aprendizagem e instrumentos de avaliação para as diversas componentes do currículo;\n\nd) Desenvolver metodologias de intervenção interdisciplinares que facilitem os processos de aprendizagem, de autonomia e de adaptação ao contexto escolar;\n\ne) Promover a criação de ambientes estruturados, ricos em comunicação e interação, fomentadores da aprendizagem;\n\nf) Apoiar a organização do processo de transição para a vida pós-escolar.\n\n7 - Compete ao diretor da escola definir o espaço de funcionamento do centro de apoio à aprendizagem numa lógica de rentabilização dos recursos existentes na escola."
+  },
+  "115654686": {
+   "fragment_id": "115654494",
+   "type": 11,
+   "heading": "Artigo 14.º — Escolas de referência no domínio da visão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Escolas de referência no domínio da visão\n\n1 - As escolas de referência no domínio da visão constituem uma resposta educativa especializada nas seguintes áreas:\n\na) Literacia braille contemplando a aplicação de todas as grafias específicas;\n\nb) Orientação e mobilidade;\n\nc) Produtos de apoio para acesso ao currículo;\n\nd) Atividades da vida diária e competências sociais.\n\n2 - As escolas de referência no domínio da visão integram docentes com formação especializada em educação especial na área da visão e possuem equipamentos e materiais específicos que garantem a acessibilidade à informação e ao currículo.\n\n3 - Compete aos docentes com formação especializada em educação especial na área da visão:\n\na) Promover o desenvolvimento de competências emergentes da leitura e escrita em braille, na educação pré-escolar;\n\nb) Lecionar a área curricular de literacia braille contemplando a aplicação de todas as grafias específicas, no ensino básico e secundário;\n\nc) Assegurar a avaliação da visão funcional tendo por objetivo a definição de estratégias e materiais adequados;\n\nd) Promover o desenvolvimento de competências nas áreas a que se referem as alíneas b), c) e d) do n.º 1;\n\ne) Assegurar o apoio aos docentes e a sua articulação com os pais ou encarregados de educação.\n\n4 - Compete às escolas a que se referem os números anteriores a organização de respostas educativas diferenciadas, de acordo com níveis de educação e ensino e as características dos alunos, nomeadamente através do acesso ao currículo e à participação nas atividades da escola, promovendo a sua inclusão."
+  },
+  "115654687": {
+   "fragment_id": "115654495",
+   "type": 11,
+   "heading": "Artigo 15.º — Escolas de referência para a educação bilingue",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Escolas de referência para a educação bilingue\n\n1 - As escolas de referência para a educação e ensino bilingue constituem uma resposta educativa especializada com o objetivo de implementar o modelo de educação bilingue, enquanto garante do acesso ao currículo nacional comum, assegurando, nomeadamente:\n\na) O desenvolvimento da língua gestual portuguesa (LGP) como primeira língua (L1);\n\nb) O desenvolvimento da língua portuguesa escrita como segunda língua (L2);\n\nc) A criação de espaços de reflexão e formação, incluindo na área da LGP, numa perspetiva de trabalho colaborativo entre os diferentes profissionais, as famílias e a comunidade educativa em geral.\n\n2 - As escolas de referência para a educação bilingue integram docentes com formação especializada em educação especial na área da surdez, docentes de LGP, intérpretes de LGP e terapeutas da fala.\n\n3 - As escolas de referência para a educação bilingue possuem equipamentos e materiais específicos que garantem o acesso à informação e ao currículo, designadamente equipamentos e materiais de suporte visual às aprendizagens.\n\n4 - Compete às escolas a que se referem os números anteriores a organização de respostas educativas diferenciadas, de acordo com os níveis de educação e ensino e as características dos alunos, nomeadamente através do acesso ao currículo, à participação nas atividades da escola e ao desenvolvimento de ambientes bilingues, promovendo a sua inclusão."
+  },
+  "115654688": {
+   "fragment_id": "115654496",
+   "type": 11,
+   "heading": "Artigo 16.º — Escolas de referência para a intervenção precoce na infância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Escolas de referência para a intervenção precoce na infância\n\n1 - No âmbito da intervenção precoce na infância é definida uma rede de escolas de referência.\n\n2 - As escolas de referência devem assegurar a articulação do trabalho com as equipas locais a funcionar no âmbito do Sistema Nacional de Intervenção Precoce na Infância, criado pelo Decreto-Lei n.º 281/2009, de 6 de outubro.\n\n3 - As escolas de referência dispõem de recursos humanos que permitem, em parceria com os serviços de saúde e de segurança social, estabelecer mecanismos que garantem a universalidade na cobertura da intervenção precoce, a construção de planos individuais tão precocemente quanto possível, bem como a melhoria dos processos de transição."
+  },
+  "115654689": {
+   "fragment_id": "115654497",
+   "type": 11,
+   "heading": "Artigo 17.º — Centros de recursos de tecnologias de informação e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Centros de recursos de tecnologias de informação e comunicação\n\n1 - Os centros de recursos de tecnologias de informação e comunicação (CRTIC) constituem a rede nacional de centros prescritores de produtos de apoio do Ministério da Educação, no âmbito do Sistema de Atribuição de Produtos de Apoio, nos termos estabelecidos no artigo 7.º do Decreto-Lei n.º 93/2009, de 16 de abril, alterado pelo Decreto-Lei n.º 42/2011, de 23 de março.\n\n2 - Os CRTIC procedem à avaliação das necessidades dos alunos, a pedido das escolas, para efeitos da atribuição de produtos de apoio de acesso ao currículo.\n\n3 - O acesso aos produtos de apoio constitui um direito dos alunos garantido pela Rede Nacional de CRTIC."
+  },
+  "115654690": {
+   "fragment_id": "115654498",
+   "type": 11,
+   "heading": "Artigo 18.º — Centros de recursos para a inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Centros de recursos para a inclusão\n\n1 - Os CRI são serviços especializados existentes na comunidade, acreditados pelo Ministério da Educação, que apoiam e intensificam a capacidade da escola na promoção do sucesso educativo de todos os alunos.\n\n2 - Constituiu objetivo dos CRI apoiar a inclusão das crianças e alunos com necessidade de mobilização de medidas adicionais de suporte à aprendizagem e à inclusão, através da facilitação do acesso ao ensino, à formação, ao trabalho, ao lazer, à participação social e à vida autónoma, promovendo o máximo potencial de cada aluno, em parceria com as estruturas da comunidade.\n\n3 - Os CRI atuam numa lógica de trabalho de parceria pedagógica e de desenvolvimento com as escolas, prestando serviços especializados como facilitadores da implementação de políticas e de práticas de educação inclusiva."
+  },
+  "115654691": {
+   "fragment_id": "115654499",
+   "type": 11,
+   "heading": "Artigo 19.º — Cooperação e parceria",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Cooperação e parceria\n\n1 - As escolas podem desenvolver parcerias entre si, com as autarquias e com outras instituições da comunidade que permitam potenciar sinergias, competências e recursos locais, promovendo a articulação das respostas.\n\n2 - Estas parcerias visam, designadamente, os seguintes fins:\n\na) A implementação das medidas de suporte à aprendizagem e à inclusão;\n\nb) O desenvolvimento do programa educativo individual e do plano individual de transição;\n\nc) A promoção da vida independente;\n\nd) O apoio à equipa multidisciplinar;\n\ne) A promoção de ações de capacitação parental;\n\nf) O desenvolvimento de atividades de enriquecimento curricular;\n\ng) A orientação vocacional;\n\nh) O acesso ao ensino superior;\n\ni) A integração em programas de formação profissional;\n\nj) O apoio no domínio das condições de acessibilidade;\n\nk) Outras ações que se mostrem necessárias para a implementação das medidas de apoio à aprendizagem e à inclusão previstas no presente decreto-lei.\n\n3 - As parcerias a que se referem os números anteriores são efetuadas mediante a celebração de protocolos de cooperação."
+  },
+  "115654692": {
+   "fragment_id": "115654500",
+   "type": 1,
+   "heading": "Capítulo IV — Determinação da necessidade de medidas de suporte à aprendizagem e à inclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Determinação da necessidade de medidas de suporte à aprendizagem e à inclusão"
+  },
+  "115654693": {
+   "fragment_id": "115654501",
+   "type": 11,
+   "heading": "Artigo 20.º — Processo de identificação da necessidade de medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processo de identificação da necessidade de medidas\n\n1 - A identificação da necessidade de medidas de suporte à aprendizagem e à inclusão deve ocorrer o mais precocemente possível e efetua-se por iniciativa dos pais ou encarregados de educação, dos serviços de intervenção precoce, dos docentes ou de outros técnicos ou serviços que intervêm com a criança ou aluno.\n\n2 - A identificação é apresentada ao diretor da escola, com a explicitação das razões que levam à necessidade de medidas de suporte à aprendizagem e à inclusão, acompanhada da documentação considerada relevante.\n\n3 - A documentação a que se refere o número anterior pode integrar um parecer médico, nos casos de problemas de saúde física ou mental, enquadrado nas necessidades de saúde especiais (NSE).\n\n4 - Apresentada a identificação de necessidades nos termos dos números anteriores, compete ao diretor da escola, no prazo de três dias úteis, a contar do dia útil seguinte ao da respetiva apresentação, solicitar à equipa multidisciplinar da escola a elaboração de um relatório técnico-pedagógico nos termos do artigo seguinte.\n\n5 - Nas situações em que a equipa multidisciplinar conclui que apenas devem ser mobilizadas medidas universais de suporte à aprendizagem e à inclusão, devolve o processo ao diretor, no prazo de 10 dias úteis, a contar do dia útil seguinte ao da respetiva deliberação, com essa indicação.\n\n6 - Nos casos previstos no número anterior, o diretor devolve o processo ao professor titular de turma ou ao diretor de turma, consoante o caso, para comunicação da decisão aos pais ou encarregados de educação.\n\n7 - Ao processo de identificação de necessidades de medidas de suporte à aprendizagem e à inclusão quando realizado por docente é aplicável o disposto no n.º 9 do artigo 12.º"
+  },
+  "115654694": {
+   "fragment_id": "115654502",
+   "type": 11,
+   "heading": "Artigo 21.º — Relatório técnico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Relatório técnico-pedagógico\n\n1 - O relatório técnico-pedagógico é o documento que fundamenta a mobilização de medidas seletivas e ou adicionais de suporte à aprendizagem e à inclusão.\n\n2 - O relatório técnico-pedagógico contém:\n\na) A identificação dos fatores que facilitam e que dificultam o progresso e o desenvolvimento das aprendizagens do aluno, nomeadamente fatores da escola, do contexto e individuais do aluno;\n\nb) As medidas de suporte à aprendizagem e à inclusão a mobilizar;\n\nc) O modo de operacionalização de cada medida, incluindo objetivos, metas e indicadores de resultados;\n\nd) Os responsáveis pela implementação das medidas de suporte à aprendizagem e à inclusão;\n\ne) Os procedimentos de avaliação da eficácia de cada medida e, quando existente, do programa educativo individual;\n\nf) A articulação com os recursos específicos de apoio à inclusão definidos no artigo 11.º\n\n3 - A equipa multidisciplinar deve ouvir os pais ou encarregados de educação durante a elaboração do relatório técnico-pedagógico.\n\n4 - Sempre que necessário, a equipa multidisciplinar pode solicitar a colaboração de pessoa ou entidade que possa contribuir para o melhor conhecimento do aluno, nomeadamente a equipa de saúde escolar dos ACES/ULS, com o objetivo de construir uma abordagem participada, integrada e eficaz.\n\n5 - Quando o relatório técnico-pedagógico propõe a implementação plurianual de medidas deve definir momentos intercalares de avaliação da sua eficácia.\n\n6 - Sempre que sejam propostas adaptações curriculares significativas, o relatório técnico-pedagógico é acompanhado de um programa educativo individual que dele faz parte integrante.\n\n7 - O relatório deve ficar concluído no prazo máximo de 30 dias úteis após a apresentação ao diretor da necessidade de medidas de suporte à aprendizagem e à inclusão, nos termos do n.º 2 do artigo 20.º\n\n8 - O relatório técnico-pedagógico é parte integrante do processo individual do aluno, sem prejuízo da confidencialidade a que está sujeito nos termos da lei.\n\n9 - A implementação das medidas previstas no relatório técnico-pedagógico depende da concordância dos pais ou encarregados de educação.\n\n10 - O coordenador da implementação das medidas propostas no relatório técnico-pedagógico é o educador de infância, o professor titular de turma ou o diretor de turma, consoante o caso."
+  },
+  "115654695": {
+   "fragment_id": "115654503",
+   "type": 11,
+   "heading": "Artigo 22.º — Aprovação do relatório técnico-pedagógico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Aprovação do relatório técnico-pedagógico\n\n1 - O relatório técnico-pedagógico é submetido à aprovação dos pais ou encarregados de educação do aluno, a efetivar no prazo de cinco dias úteis após a sua conclusão.\n\n2 - Para os efeitos estabelecidos no número anterior, os pais ou encarregados de educação e, sempre que possível, o próprio aluno datam e assinam o relatório técnico-pedagógico.\n\n3 - No caso de o relatório técnico-pedagógico não merecer a concordância dos pais ou encarregados de educação, devem estes fazer constar, em anexo ao relatório, os fundamentos da sua discordância.\n\n4 - Obtida a concordância dos pais ou encarregados de educação, o relatório técnico-pedagógico e, quando aplicável, o programa educativo individual são submetidos a homologação do diretor, ouvido o conselho pedagógico.\n\n5 - O diretor dispõe do prazo de 10 dias úteis para homologar o relatório técnico-pedagógico e, quando aplicável, o programa educativo individual e proceder à mobilização das medidas de suporte à aprendizagem e à inclusão neles previstas.\n\n6 - O relatório técnico-pedagógico e, quando aplicável, o programa educativo individual devem ser revistos atempadamente de modo a garantir que no início de cada ano letivo as medidas são imediatamente mobilizadas."
+  },
+  "115654696": {
+   "fragment_id": "115654504",
+   "type": 11,
+   "heading": "Artigo 23.º — Identificação da necessidade de frequência de áreas curriculares específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Identificação da necessidade de frequência de áreas curriculares específicas\n\n1 - A identificação da necessidade de frequência de áreas curriculares específicas deve ocorrer o mais precocemente possível.\n\n2 - A identificação realiza-se por iniciativa dos pais ou encarregados de educação, dos serviços de intervenção precoce, dos docentes ou de outros técnicos ou serviços que intervêm com a criança ou aluno.\n\n3 - A proposta com a identificação a que se refere o n.º 1 é apresentada ao diretor competindo-lhe criar as condições necessárias à oferta da área curricular específica."
+  },
+  "115654697": {
+   "fragment_id": "115654505",
+   "type": 11,
+   "heading": "Artigo 24.º — Programa educativo individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Programa educativo individual\n\n1 - O programa educativo individual, a que se refere o n.º 6 do artigo 22.º, contém a identificação e a operacionalização das adaptações curriculares significativas e integra as competências e as aprendizagens a desenvolver pelos alunos, a identificação das estratégias de ensino e das adaptações a efetuar no processo de avaliação.\n\n2 - O programa educativo individual integra ainda outras medidas de suporte à inclusão, a definir pela equipa multidisciplinar.\n\n3 - O programa educativo individual deve conter os seguintes elementos:\n\na) O total de horas letivas do aluno, de acordo com o respetivo nível de educação ou de ensino;\n\nb) Os produtos de apoio, sempre que sejam adequados e necessários para o acesso e participação no currículo;\n\nc) Estratégias para a transição entre ciclos e níveis de educação e ensino, quando aplicável.\n\n4 - Sem prejuízo da avaliação a realizar por cada docente, o programa educativo individual é monitorizado e avaliado nos termos previsto no relatório técnico-pedagógico.\n\n5 - O programa educativo individual e o plano individual de intervenção precoce são complementares, devendo ser garantida a necessária coerência, articulação e comunicação entre ambos.\n\n6 - O programa educativo individual e o plano de saúde individual são complementares no caso de crianças com necessidades de saúde especiais, devendo ser garantida a necessária coerência, articulação e comunicação entre ambos."
+  },
+  "115654698": {
+   "fragment_id": "115654506",
+   "type": 11,
+   "heading": "Artigo 25.º — Plano individual de transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Plano individual de transição\n\n1 - Sempre que o aluno tenha um programa educativo individual deve este ser complementado por um plano individual de transição destinado a promover a transição para a vida pós-escolar e, sempre que possível, para o exercício de uma atividade profissional.\n\n2 - O plano individual de transição deve orientar-se pelos princípios da educabilidade universal, da equidade, da inclusão, da flexibilidade e da autodeterminação.\n\n3 - A implementação do plano individual de transição inicia-se três anos antes da idade limite da escolaridade obrigatória.\n\n4 - O plano individual de transição deve ser datado e assinado por todos os profissionais que participam na sua elaboração, pelos pais ou encarregados de educação e, sempre que possível, pelo próprio aluno."
+  },
+  "115654699": {
+   "fragment_id": "115654507",
+   "type": 11,
+   "heading": "Artigo 26.º — Confidencialidade e proteção dos dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Confidencialidade e proteção dos dados\n\nToda a informação resultante da intervenção técnica e educativa, designadamente o relatório técnico-pedagógico, deve constar do processo individual do aluno e está sujeita aos limites constitucionais e legais, designadamente ao disposto na legislação sobre proteção de dados pessoais, no que diz respeito ao acesso e tratamento desses dados e sigilo profissional."
+  },
+  "115654700": {
+   "fragment_id": "115654508",
+   "type": 1,
+   "heading": "Capítulo V — Matrícula, avaliação de aprendizagens, progressão e certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Matrícula, avaliação de aprendizagens, progressão e certificação"
+  },
+  "115654701": {
+   "fragment_id": "115654509",
+   "type": 11,
+   "heading": "Artigo 27.º — Matrícula",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Matrícula\n\n1 - A equipa multidisciplinar pode propor ao diretor da escola, com a concordância dos pais ou encarregados de educação, o ingresso antecipado ou o adiamento da matrícula, nos termos do disposto no artigo 8.º do Decreto-Lei n.º 176/2012, de 2 de agosto.\n\n2 - Têm prioridade na matrícula ou renovação de matrícula nas escolas de referência, no domínio da visão e para a educação bilingue, os alunos que necessitam destes recursos organizacionais.\n\n3 - Os alunos com programa educativo individual têm prioridade na matrícula ou renovação de matrícula na escola de preferência dos pais ou encarregados de educação."
+  },
+  "115654702": {
+   "fragment_id": "115654510",
+   "type": 11,
+   "heading": "Artigo 28.º — Adaptações ao processo de avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Adaptações ao processo de avaliação\n\n1 - As escolas devem assegurar a todos os alunos o direito à participação no processo de avaliação.\n\n2 - Constituem adaptações ao processo de avaliação:\n\na) A diversificação dos instrumentos de recolha de informação, tais como, inquéritos, entrevistas, registos vídeo ou áudio;\n\nb) Os enunciados em formatos acessíveis, nomeadamente braille, tabelas e mapas em relevo, daisy, digital;\n\nc) A interpretação em LGP;\n\nd) A utilização de produtos de apoio;\n\ne) O tempo suplementar para realização da prova;\n\nf) A transcrição das respostas;\n\ng) A leitura de enunciados;\n\nh) A utilização de sala separada;\n\ni) As pausas vigiadas;\n\nj) O código de identificação de cores nos enunciados.\n\n3 - As adaptações ao processo de avaliação interna são da competência da escola, sem prejuízo da obrigatoriedade de publicitar os resultados dessa avaliação nos momentos definidos pela escola para todos os alunos.\n\n4 - No ensino básico, as adaptações ao processo de avaliação externa são da competência da escola, devendo ser fundamentadas, constar do processo do aluno e ser comunicadas ao Júri Nacional de Exames.\n\n5 - No ensino secundário, é da competência da escola decidir fundamentadamente e comunicar ao Júri Nacional de Exames as seguintes adaptações ao processo de avaliação externa:\n\na) A utilização de produtos de apoio;\n\nb) A saída da sala durante a realização da prova/exame;\n\nc) A adaptação do espaço ou do material;\n\nd) A presença de intérprete de língua gestual portuguesa;\n\ne) A consulta de dicionário de língua portuguesa;\n\nf) A realização de provas adaptadas.\n\n6 - No ensino secundário, a escola pode requerer autorização ao Júri Nacional de Exames para realizar as seguintes adaptações ao processo de avaliação externa:\n\na) A realização de exame de português língua segunda (PL2);\n\nb) O acompanhamento por um docente;\n\nc) A utilização de instrumentos de apoio à aplicação de critérios de classificação de provas, para alunos com dislexia, conforme previsto no Regulamento das provas de avaliação externa;\n\nd) A utilização de tempo suplementar.\n\n7 - As adaptações ao processo de avaliação externa devem constar do processo do aluno."
+  },
+  "115654703": {
+   "fragment_id": "115654511",
+   "type": 11,
+   "heading": "Artigo 29.º — Progressão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Progressão\n\n1 - A progressão dos alunos abrangidos por medidas universais e seletivas de suporte à aprendizagem e à inclusão realiza-se nos termos definidos na lei.\n\n2 - A progressão dos alunos abrangidos por medidas adicionais de suporte à aprendizagem e à inclusão realiza-se nos termos definidos no relatório técnico-pedagógico e no programa educativo individual."
+  },
+  "115654704": {
+   "fragment_id": "115654512",
+   "type": 11,
+   "heading": "Artigo 30.º — Certificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Certificação\n\n1 - No final do seu percurso escolar, todos os alunos têm direito à emissão de certificado e diploma de conclusão da escolaridade obrigatória e sempre que aplicável com a identificação do nível de qualificação de acordo com o Quadro Nacional de Qualificações e do nível que lhe corresponde no Quadro Europeu de Qualificações.\n\n2 - No caso dos alunos que seguiram o percurso escolar com adaptações curriculares significativas, do certificado deve constar o ciclo ou nível de ensino concluído e a informação curricular relevante do programa educativo individual, bem como as áreas e as experiências desenvolvidas ao longo da implementação do plano individual de transição.\n\n3 - O modelo de certificado previsto nos números anteriores é regulamentado por portaria dos membros do Governo responsáveis pela área da educação e, sempre que aplicável, pela área da formação profissional."
+  },
+  "115654705": {
+   "fragment_id": "115654513",
+   "type": 1,
+   "heading": "Capítulo VI — Disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo VI — Disposições transitórias e finais"
+  },
+  "115654706": {
+   "fragment_id": "115654514",
+   "type": 11,
+   "heading": "Artigo 31.º — Regime de transição para alunos com a extinta medida currículo específico individual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Regime de transição para alunos com a extinta medida currículo específico individual\n\n1 - O aluno que à data da entrada em vigor do presente decreto-lei se encontre abrangido pela medida currículo específico individual, prevista na alínea e) do artigo 16.º e no artigo 21.º do Decreto-Lei n.º 3/2008, de 7 de janeiro, alterado pela Lei n.º 21/2008, de 12 de maio, deve ter o seu programa educativo individual reavaliado pela equipa multidisciplinar para identificar a necessidade de medidas de suporte à aprendizagem e à inclusão e para elaborar o relatório técnico-pedagógico previsto no artigo 21.º do presente decreto-lei.\n\n2 - Sempre que o relatório técnico-pedagógico contemple a realização de adaptações curriculares significativas deve ser elaborado um programa educativo individual, de acordo com o disposto no artigo 24.º\n\n3 - A avaliação e a certificação das aprendizagens dos alunos que se encontram abrangidos pela medida currículo específico individual, à data da entrada em vigor do presente decreto-lei, obedecem ao regime de avaliação das aprendizagens dos alunos dos ensinos básico e secundário, com as adaptações constantes do programa educativo individual de acordo com o disposto no artigo 24.º\n\n4 - Aos alunos que completem a idade limite da escolaridade obrigatória nos três anos subsequentes à data da entrada em vigor do presente decreto-lei é elaborado um plano individual de transição, de acordo com o disposto no artigo 25.º\n\n5 - As medidas de suporte à aprendizagem e à inclusão que integram o programa educativo individual do aluno são equacionadas no contexto das respostas educativas oferecidas pela escola que frequentam.\n\n6 - O relatório técnico-pedagógico e o programa educativo individual referidos nos n.os 1 e 2 devem ser elaborados em momento anterior ao início do ano letivo a que se reporta a produção de efeitos do presente decreto-lei."
+  },
+  "115654707": {
+   "fragment_id": "115654515",
+   "type": 11,
+   "heading": "Artigo 32.º — Manual de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Manual de apoio\n\n1 - Sem prejuízo das competências gerais previstas na lei, compete à Direção-Geral da Educação, em colaboração com a Direção-Geral da Saúde e o Instituto Nacional para a Reabilitação, I. P., a criação e a atualização de um manual de apoio à prática inclusiva dirigido às escolas e seus profissionais, aos pais ou encarregados de educação e outros envolvidos na educação inclusiva.\n\n2 - O manual de apoio à prática inclusiva é elaborado e disponibilizado no prazo de 30 dias após a entrada em vigor do presente decreto-lei."
+  },
+  "115654708": {
+   "fragment_id": "115654516",
+   "type": 11,
+   "heading": "Artigo 33.º — Acompanhamento, monitorização e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Acompanhamento, monitorização e avaliação\n\n1 - O acompanhamento da aplicação do presente decreto-lei é assegurado a nível nacional por uma equipa, que integra elementos dos serviços com atribuições nesta matéria, a designar pelos respetivos membros do Governo, podendo ainda integrar representantes dos Governos das Regiões Autónomas dos Açores e da Madeira.\n\n2 - As escolas devem incluir nos seus relatórios de autoavaliação as conclusões da monitorização da implementação das medidas curriculares, dos recursos e estruturas de suporte à educação inclusiva.\n\n3 - Sem prejuízo das competências gerais previstas na lei e no respeito pela autonomia de cada escola, cabe à Inspeção-Geral da Educação e Ciência acompanhar e avaliar especificamente as práticas inclusivas de cada escola, designadamente a monitorização e verificação da regularidade na constituição de turmas e na adequação do número de alunos às necessidades reais, bem como no modo como a escola se organiza e gere o currículo, com vista a fomentar a eficácia das medidas de suporte à aprendizagem, garantindo uma educação inclusiva para todos.\n\n4 - A avaliação prevista no número anterior é objeto de um relatório de meta-análise a ser apresentado anualmente ao membro do Governo responsável pela área da educação.\n\n5 - A cada cinco anos, o membro do Governo da área da educação promove uma avaliação da aplicação do presente decreto-lei com vista à melhoria contínua da educação inclusiva.\n\n6 - Sem prejuízo do disposto no número anterior, o Ministério da Educação promove a avaliação da implementação do presente decreto-lei no prazo de dois anos após a sua entrada em vigor."
+  },
+  "115654709": {
+   "fragment_id": "115654517",
+   "type": 11,
+   "heading": "Artigo 34.º — Criação e extinção de escolas de referência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Criação e extinção de escolas de referência\n\nA criação e extinção de escolas de referência é da competência do membro do Governo responsável pela área da educação, sob proposta dos serviços competentes do Ministério da Educação."
+  },
+  "115654710": {
+   "fragment_id": "115654518",
+   "type": 11,
+   "heading": "Artigo 35.º — Constituição das equipas multidisciplinares de apoio à educação inclusiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Constituição das equipas multidisciplinares de apoio à educação inclusiva\n\nAs equipas multidisciplinares de apoio à educação inclusiva entram em funcionamento no prazo de 30 dias a contar da data da entrada em vigor do presente decreto-lei."
+  },
+  "115654711": {
+   "fragment_id": "115654519",
+   "type": 11,
+   "heading": "Artigo 36.º — Acolhimento de valências",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Acolhimento de valências\n\n1 - Os centros de apoio à aprendizagem acolhem as valências existentes no terreno, nomeadamente as unidades especializadas.\n\n2 - Os alunos apoiados pelos centros referidos no número anterior têm prioridade na renovação de matrícula, independentemente da sua área de residência."
+  },
+  "115654712": {
+   "fragment_id": "115654520",
+   "type": 11,
+   "heading": "Artigo 37.º — Regulamentação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Regulamentação\n\n1 - As condições de acesso, de frequência e o financiamento dos estabelecimentos de educação especial são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação.\n\n2 - Até à publicação da regulamentação referida no número anterior, mantêm-se em vigor a Portaria n.º 1102/97 e a Portaria n.º 1103/97, ambas de 3 de novembro."
+  },
+  "115654713": {
+   "fragment_id": "115654521",
+   "type": 11,
+   "heading": "Artigo 38.º — Remissões e referências legais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Remissões e referências legais\n\n1 - Todas as remissões feitas para o Decreto-Lei n.º 3/2008, de 7 de janeiro, alterado pela Lei n.º 21/2008, de 12 de maio, consideram-se feitas para o presente decreto-lei.\n\n2 - As referências constantes do presente decreto-lei aos órgãos de direção, administração e gestão dos estabelecimentos do ensino público, bem como às estruturas de coordenação e supervisão pedagógica, consideram-se feitas para os órgãos e estruturas com competência equivalente em cada estabelecimento de ensino particular e cooperativo."
+  },
+  "115654714": {
+   "fragment_id": "115654522",
+   "type": 11,
+   "heading": "Artigo 39.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Regiões Autónomas\n\nA aplicação do presente decreto-lei às Regiões Autónomas dos Açores e da Madeira faz-se sem prejuízo das competências dos órgãos de Governo próprio em matéria de educação."
+  },
+  "115654715": {
+   "fragment_id": "115654523",
+   "type": 11,
+   "heading": "Artigo 40.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Norma revogatória\n\nSão revogados:\n\na) O Decreto-Lei n.º 3/2008, de 7 de janeiro, alterado pela Lei n.º 21/2008, de 12 de maio;\n\nb) A Portaria n.º 201-C/2015, de 10 de julho."
+  },
+  "115654716": {
+   "fragment_id": "115654524",
+   "type": 11,
+   "heading": "Artigo 41.º — Produção de efeitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Produção de efeitos\n\n1 - O presente decreto-lei produz efeitos a partir do ano escolar 2018-2019.\n\n2 - Sem prejuízo do disposto no número anterior, e do regime previsto no artigo 31.º, devem as escolas proceder à sua aplicação na preparação do ano letivo 2018-2019."
+  },
+  "124705645": {
+   "fragment_id": "115654480",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente decreto-lei entende-se por:\n\na) «Acomodações curriculares», as medidas de gestão curricular que permitem o acesso ao currículo e às atividades de aprendizagem na sala de aula através da diversificação e da combinação adequada de vários métodos e estratégias de ensino, da utilização de diferentes modalidades e instrumentos de avaliação, da adaptação de materiais e recursos educativos e da remoção de barreiras na organização do espaço e do equipamento, planeadas para responder aos diferentes estilos de aprendizagem de cada aluno, promovendo o sucesso educativo;\n\nb) 'Adaptações curriculares não significativas', as medidas de gestão curricular que não comprometem as aprendizagens previstas nos documentos curriculares, podendo incluir adaptações ao nível dos objetivos e dos conteúdos, através da alteração na sua priorização ou sequenciação, ou na introdução de objetivos específicos que permitam atingir os objetivos globais e as aprendizagens essenciais;\n\nc) «Adaptações curriculares significativas», as medidas de gestão curricular que têm impacto nas aprendizagens previstas nos documentos curriculares, requerendo a introdução de outras aprendizagens substitutivas e estabelecendo objetivos globais ao nível dos conhecimentos a adquirir e das competências a desenvolver, de modo a potenciar a autonomia, o desenvolvimento pessoal e o relacionamento interpessoal;\n\nd) «Áreas curriculares específicas», as que contemplam o treino de visão, o sistema braille, a orientação e a mobilidade, as tecnologias específicas de informação e comunicação e as atividades da vida diária;\n\ne) «Barreiras à aprendizagem», as circunstâncias de natureza física, sensorial, cognitiva, socioemocional, organizacional ou logística resultantes da interação criança ou aluno e ambiente que constituem obstáculos à aprendizagem;\n\nf) «Equipa de saúde escolar», a equipa de profissionais de saúde dos agrupamentos de centros de saúde ou das unidades locais de saúde (ACES/ULS), que, perante a referenciação de crianças ou jovens com necessidades de saúde especiais, articula com as equipas de medicina geral e familiar e outros serviços de saúde, a família e a escola, com as quais elabora um plano de saúde individual, apoiando a sua implementação, monitorização e eventual revisão;\n\ng) «Intervenção precoce na infância», o conjunto de medidas de apoio integrado, centrado na criança e na família, incluindo ações de natureza preventiva e reabilitativa, designadamente no âmbito da educação, da saúde e da ação social;\n\nh) «Necessidades de saúde especiais» (NSE), as necessidades que resultam dos problemas de saúde física e mental que tenham impacto na funcionalidade, produzam limitações acentuadas em qualquer órgão ou sistema, impliquem irregularidade na frequência escolar e possam comprometer o processo de aprendizagem;\n\ni) «Plano individual de transição», o plano concebido, três anos antes da idade limite da escolaridade obrigatória, para cada jovem que frequenta a escolaridade com adaptações significativas, desenhado de acordo com os interesses, competências e expectativas do aluno e da sua família, com vista a facilitar a transição para a vida pós-escolar e que complementa o programa educativo individual;\n\nj) «Plano de saúde individual», o plano concebido pela equipa de saúde escolar, no âmbito do Programa Nacional de Saúde Escolar, para cada criança ou jovem com NSE, que integra os resultados da avaliação das condições de saúde na funcionalidade e identifica as medidas de saúde a implementar, visando melhorar o processo de aprendizagem;\n\nk) «Programa educativo individual», o programa concebido para cada aluno resultante de uma planificação centrada na sua pessoa, em que se identificam as medidas de suporte à aprendizagem que promovem o acesso e a participação em contextos inclusivos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705646": {
+   "fragment_id": "115654481",
+   "type": 11,
+   "heading": "Artigo 3.º — Princípios orientadores",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 3.º — Princípios orientadores\n\nSão princípios orientadores da educação inclusiva:\n\na) Educabilidade universal, a assunção de que todas as crianças e alunos têm capacidade de aprendizagem e de desenvolvimento educativo;\n\nb) Equidade, a garantia de que todas as crianças e alunos têm acesso aos apoios necessários de modo a concretizar o seu potencial de aprendizagem e desenvolvimento;\n\nc) Inclusão, o direito de todas as crianças e alunos ao acesso e participação, de modo pleno e efetivo, aos mesmos contextos educativos;\n\nd) Personalização, o planeamento educativo centrado no aluno, de modo que as medidas sejam decididas casuisticamente de acordo com as suas necessidades, potencialidades, interesses e preferências, através de uma abordagem multinível;\n\ne) Flexibilidade, a gestão flexível do currículo, dos espaços e dos tempos escolares, de modo que a ação educativa nos seus métodos, tempos, instrumentos e atividades possa responder às especificidades de cada um;\n\nf) Autodeterminação, o respeito pela autonomia pessoal, tomando em consideração não apenas as necessidades do aluno mas também os seus interesses e preferências, a expressão da sua identidade cultural e linguística, criando oportunidades para o exercício do direito de participação na tomada de decisões;\n\ng) Envolvimento parental, o direito dos pais ou encarregados de educação à participação e à informação relativamente a todos os aspetos do processo educativo do seu educando;\n\nh) Interferência mínima, a intervenção técnica e educativa deve ser desenvolvida exclusivamente pelas entidades e instituições cuja ação se revele necessária à efetiva promoção do desenvolvimento pessoal e educativo das crianças ou alunos e no respeito pela sua vida privada e familiar.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705647": {
+   "fragment_id": "115654482",
+   "type": 11,
+   "heading": "Artigo 4.º — Participação dos pais ou encarregados de educação",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 4.º — Participação dos pais ou encarregados de educação\n\n1 - Os pais ou encarregados de educação, no âmbito do exercício dos poderes e deveres que lhes foram conferidos nos termos da Constituição e da lei, têm o direito e o dever de participar e cooperar ativamente em tudo o que se relacione com a educação do seu filho ou educando, bem como a aceder a toda a informação constante no processo individual do aluno, designadamente no que diz respeito às medidas de suporte à aprendizagem e à inclusão.\n\n2 - Nos termos do disposto no número anterior, os pais ou encarregados de educação têm direito a:\n\na) Participar na equipa multidisciplinar de apoio à educação inclusiva, na qualidade de elemento variável;\n\nb) Participar na elaboração e na avaliação do relatório técnico-pedagógico, do programa educativo individual e do plano individual de transição, quando estes se apliquem;\n\nc) Solicitar a revisão do relatório técnico-pedagógico, do programa educativo individual e do plano individual de transição, quando estes se apliquem;\n\nd) Consultar o processo individual do seu filho ou educando;\n\ne) Ter acesso a informação adequada e clara relativa ao seu filho ou educando.\n\n3 - Quando, comprovadamente, os pais ou encarregados de educação não exerçam os seus poderes de participação cabe à escola desencadear as medidas apropriadas em função das necessidades educativas identificadas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705648": {
+   "fragment_id": "115654483",
+   "type": 11,
+   "heading": "Artigo 5.º — Linhas de atuação para a inclusão",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 5.º — Linhas de atuação para a inclusão\n\n1 - As escolas devem incluir nos seus documentos orientadores as linhas de atuação para a criação de uma cultura de escola onde todos encontrem oportunidades para aprender e as condições para se realizarem plenamente, respondendo às necessidades de cada aluno, valorizando a diversidade e promovendo a equidade e a não discriminação no acesso ao currículo e na progressão ao longo da escolaridade obrigatória.\n\n2 - As linhas de atuação para a inclusão vinculam toda a escola a um processo de mudança cultural, organizacional e operacional baseado num modelo de intervenção multinível que reconhece e assume as transformações na gestão do currículo, nas práticas educativas e na sua monitorização.\n\n3 - As linhas de atuação para a inclusão devem integrar um contínuo de medidas universais, seletivas e adicionais que respondam à diversidade das necessidades de todos e de cada um dos alunos.\n\n4 - As escolas devem, ainda, através das equipas multidisciplinares, definir indicadores destinados a avaliar a eficácia das medidas referidas no número anterior.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705649": {
+   "fragment_id": "115654486",
+   "type": 11,
+   "heading": "Artigo 7.º — Níveis das medidas",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 7.º — Níveis das medidas\n\n1 - As medidas de suporte à aprendizagem e à inclusão são organizadas em três níveis de intervenção: universais, seletivas e adicionais.\n\n2 - As medidas de diferente nível são mobilizadas, ao longo do percurso escolar do aluno, em função das suas necessidades educativas.\n\n3 - A definição de medidas a implementar é efetuada com base em evidências decorrentes da monitorização, da avaliação sistemáticas e da eficácia das medidas na resposta às necessidades de cada criança ou aluno.\n\n4 - A definição das medidas a que se refere o n.º 1 é realizada pelos docentes, ouvidos os pais ou encarregados de educação e outros técnicos que intervêm diretamente com o aluno, podendo ser adotadas em simultâneo medidas de diferentes níveis.\n\n5 - As medidas previstas nos artigos seguintes não prejudicam a consideração de outras que, entretanto, possam ser enquadradas.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705650": {
+   "fragment_id": "115654487",
+   "type": 11,
+   "heading": "Artigo 8.º — Medidas universais",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 8.º — Medidas universais\n\n1 - As medidas universais correspondem às respostas educativas que a escola tem disponíveis para todos os alunos com objetivo de promover a participação e a melhoria das aprendizagens.\n\n2 - Consideram-se medidas universais, entre outras:\n\na) A diferenciação pedagógica;\n\nb) As acomodações curriculares;\n\nc) O enriquecimento curricular;\n\nd) A promoção do comportamento pró-social;\n\ne) A intervenção com foco académico ou comportamental em pequenos grupos.\n\n3 - As medidas universais, incluindo o apoio tutorial preventivo e temporário, são mobilizadas para todos os alunos, incluindo os que necessitam de medidas seletivas ou adicionais, tendo em vista, designadamente, a promoção do desenvolvimento pessoal, interpessoal e de intervenção social.\n\n4 - A aplicação das medidas universais é realizada pelo docente titular do grupo/turma e, sempre que necessário, em parceria com o docente de educação especial, enquanto dinamizador, articulador e especialista em diferenciação dos meios e materiais de aprendizagem e de avaliação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705651": {
+   "fragment_id": "115654488",
+   "type": 11,
+   "heading": "Artigo 9.º — Medidas seletivas",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 9.º — Medidas seletivas\n\n1 - As medidas seletivas visam colmatar as necessidades de suporte à aprendizagem não supridas pela aplicação de medidas universais.\n\n2 - Consideram-se medidas seletivas:\n\na) Os percursos curriculares diferenciados;\n\nb) As adaptações curriculares não significativas;\n\nc) O apoio psicopedagógico;\n\nd) A antecipação e o reforço das aprendizagens;\n\ne) O apoio tutorial.\n\n3 - A monitorização e avaliação da eficácia da aplicação das medidas seletivas é realizada pela equipa multidisciplinar de apoio à educação inclusiva, de acordo com o definido no relatório técnico-pedagógico.\n\n4 - As medidas seletivas são operacionalizadas com os recursos materiais e humanos disponíveis na escola.\n\n5 - Quando a operacionalização das medidas a que se referem os números anteriores implique a utilização de recursos adicionais, o diretor da escola deve requerer, fundamentadamente, tais recursos ao serviço competente do Ministério da Educação.\n\n6 - A aplicação das medidas seletivas é realizada pelo docente titular do grupo/turma e, sempre que necessário, em parceria com o docente de educação especial, enquanto dinamizador, articulador e especialista em diferenciação dos meios e materiais de aprendizagem e de avaliação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705652": {
+   "fragment_id": "115654489",
+   "type": 11,
+   "heading": "Artigo 10.º — Medidas adicionais",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 10.º — Medidas adicionais\n\n1 - As medidas adicionais visam colmatar dificuldades acentuadas e persistentes ao nível da comunicação, interação, cognição ou aprendizagem que exigem recursos especializados de apoio à aprendizagem e à inclusão.\n\n2 - A mobilização das medidas adicionais depende da demonstração da insuficiência das medidas universais e seletivas previstas nos níveis de intervenção a que se referem os artigos 8.º e 9.º\n\n3 - A fundamentação da insuficiência, referida no número anterior, deve ser baseada em evidências e constar do relatório técnico-pedagógico.\n\n4 - Consideram-se medidas adicionais:\n\na) A frequência do ano de escolaridade por disciplinas;\n\nb) As adaptações curriculares significativas;\n\nc) O plano individual de transição;\n\nd) O desenvolvimento de metodologias e estratégias de ensino estruturado;\n\ne) O desenvolvimento de competências de autonomia pessoal e social.\n\n5 - A aplicação das medidas adicionais que requerem a intervenção de recursos especializados deve convocar a intervenção do docente de educação especial enquanto dinamizador, articulador e especialista em diferenciação dos meios e materiais de aprendizagem, sendo, preferencialmente, implementadas em contexto de sala de aula.\n\n6 - A monitorização e avaliação da eficácia da aplicação das medidas adicionais é realizada pela equipa multidisciplinar de apoio à educação inclusiva, de acordo com o definido no relatório técnico-pedagógico.\n\n7 - As medidas adicionais são operacionalizadas com os recursos materiais e humanos disponíveis na escola, privilegiando-se o contexto de sala de aula, sem prejuízo do disposto no número seguinte.\n\n8 - Quando a operacionalização das medidas previstas no n.º 4 implique a necessidade de mobilização de recursos adicionais, estes devem ser garantidos pelo Ministério da Educação, após pedido fundamentado do diretor da escola.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705653": {
+   "fragment_id": "115654491",
+   "type": 11,
+   "heading": "Artigo 11.º — Identificação dos recursos específicos",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 11.º — Identificação dos recursos específicos\n\n1 - São recursos humanos específicos de apoio à aprendizagem e à inclusão:\n\na) Os docentes de educação especial;\n\nb) Os técnicos especializados;\n\nc) Os assistentes operacionais, preferencialmente com formação específica.\n\n2 - São recursos organizacionais específicos de apoio à aprendizagem e à inclusão:\n\na) A equipa multidisciplinar de apoio à educação inclusiva;\n\nb) O centro de apoio à aprendizagem;\n\nc) As escolas de referência no domínio da visão;\n\nd) As escolas de referência para a educação bilingue;\n\ne) As escolas de referência para a intervenção precoce na infância;\n\nf) Os centros de recursos de tecnologias de informação e comunicação para a educação especial.\n\n3 - São recursos específicos existentes na comunidade a mobilizar para apoio à aprendizagem e à inclusão:\n\na) As equipas locais de intervenção precoce;\n\nb) As equipas de saúde escolar dos ACES/ULS;\n\nc) As comissões de proteção de crianças e jovens;\n\nd) Os centros de recursos para a inclusão;\n\ne) As instituições da comunidade, nomeadamente os serviços de atendimento e acompanhamento social do sistema de solidariedade e segurança social, os serviços do emprego e formação profissional e os serviços da administração local;\n\nf) Os estabelecimentos de educação especial com acordo de cooperação com o Ministério da Educação.\n\n4 - O docente de educação especial, no âmbito da sua especialidade, apoia, de modo colaborativo e numa lógica de corresponsabilização, os demais docentes do aluno na definição de estratégias de diferenciação pedagógica, no reforço das aprendizagens e na identificação de múltiplos meios de motivação, representação e expressão.\n\n5 - Para cumprir os objetivos da inclusão, cooperam, de forma complementar e sempre que necessário, os recursos da comunidade, nomeadamente da educação, da formação profissional, do emprego, da segurança social, da saúde e da cultura.\n\n6 - Compete ao Governo garantir os meios necessários para habilitar todos os trabalhadores com a formação específica gratuita de apoio à aprendizagem e à inclusão.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705654": {
+   "fragment_id": "115654492",
+   "type": 11,
+   "heading": "Artigo 12.º — Equipa multidisciplinar de apoio à educação inclusiva",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 12.º — Equipa multidisciplinar de apoio à educação inclusiva\n\n1 - Em cada escola é constituída uma equipa multidisciplinar de apoio à educação inclusiva.\n\n2 - A equipa multidisciplinar é composta por elementos permanentes e por elementos variáveis.\n\n3 - São elementos permanentes da equipa multidisciplinar:\n\na) Um dos docentes que coadjuva o diretor;\n\nb) Um docente de educação especial;\n\nc) Três membros do conselho pedagógico com funções de coordenação pedagógica de diferentes níveis de educação e ensino;\n\nd) Um psicólogo.\n\n4 - Os elementos elencados no número anterior podem ser reforçados de acordo com as necessidades de cada escola.\n\n5 - São elementos variáveis da equipa multidisciplinar o docente titular de grupo/turma ou o diretor de turma do aluno, o coordenador de estabelecimento, consoante o caso, outros docentes do aluno, assistentes operacionais, assistentes sociais, outros técnicos que intervêm com o aluno e os pais ou encarregados de educação.\n\n6 - Cabe ao diretor designar:\n\na) Os elementos permanentes;\n\nb) O coordenador, ouvidos os elementos permanentes da equipa multidisciplinar;\n\nc) O local de funcionamento.\n\n7 - Cabe ao coordenador da equipa multidisciplinar:\n\na) Identificar os elementos variáveis referidos no n.º 4;\n\nb) Convocar os membros da equipa para as reuniões;\n\nc) Dirigir os trabalhos;\n\nd) Adotar os procedimentos necessários de modo a garantir a participação dos pais ou encarregados de educação nos termos do artigo 4.º, consensualizando respostas para as questões que se coloquem.\n\n8 - Nos estabelecimentos de educação e ensino em que, por via da sua tipologia ou organização, não exista algum dos elementos da equipa multidisciplinar previstos nos n.os 3 e 5, cabe ao diretor definir o respetivo substituto.\n\n9 - Compete à equipa multidisciplinar:\n\na) Sensibilizar a comunidade educativa para a educação inclusiva;\n\nb) Propor as medidas de suporte à aprendizagem a mobilizar;\n\nc) Acompanhar, monitorizar e avaliar a aplicação de medidas de suporte à aprendizagem e à inclusão;\n\nd) Prestar aconselhamento aos docentes na implementação de práticas pedagógicas inclusivas;\n\ne) Elaborar o relatório técnico-pedagógico previsto no artigo 21.º e, se aplicável, o programa educativo individual e o plano individual de transição previstos, respetivamente, nos artigos 24.º e 25.º;\n\nf) Acompanhar o funcionamento do centro de apoio à aprendizagem.\n\n10 - O trabalho a desenvolver no âmbito da equipa multidisciplinar, designadamente a mobilização de medidas de suporte à aprendizagem bem como a elaboração do relatório técnico-pedagógico e do programa educativo individual, quando efetuado por docentes, integra a componente não letiva do seu horário de trabalho.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705655": {
+   "fragment_id": "115654493",
+   "type": 11,
+   "heading": "Artigo 13.º — Centro de apoio à aprendizagem",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 13.º — Centro de apoio à aprendizagem\n\n1 - O centro de apoio à aprendizagem é uma estrutura de apoio agregadora dos recursos humanos e materiais, dos saberes e competências da escola.\n\n2 - O centro de apoio à aprendizagem, em colaboração com os demais serviços e estruturas da escola, tem como objetivos gerais:\n\na) Apoiar a inclusão das crianças e jovens no grupo/turma e nas rotinas e atividades da escola, designadamente através da diversificação de estratégias de acesso ao currículo;\n\nb) Promover e apoiar o acesso à formação, ao ensino superior e à integração na vida pós-escolar;\n\nc) Promover e apoiar o acesso ao lazer, à participação social e à vida autónoma.\n\n3 - A ação educativa promovida pelo centro de apoio à aprendizagem é subsidiária da ação desenvolvida na turma do aluno, convocando a intervenção de todos os agentes educativos, nomeadamente o docente de educação especial.\n\n4 - O centro de apoio à aprendizagem, enquanto recurso organizacional, insere-se no contínuo de respostas educativas disponibilizadas pela escola.\n\n5 - Para os alunos a frequentar a escolaridade obrigatória, cujas medidas adicionais de suporte à aprendizagem sejam as previstas nas alíneas b), d) e e) do n.º 4 do artigo 10.º, é garantida, no centro de apoio à aprendizagem, uma resposta que complemente o trabalho desenvolvido em sala de aula ou noutros contextos educativos, com vista à sua inclusão.\n\n6 - Constituem objetivos específicos do centro de apoio à aprendizagem:\n\na) Promover a qualidade da participação dos alunos nas atividades da turma a que pertencem e nos demais contextos de aprendizagem;\n\nb) Apoiar os docentes do grupo ou turma a que os alunos pertencem;\n\nc) Apoiar a criação de recursos de aprendizagem e instrumentos de avaliação para as diversas componentes do currículo;\n\nd) Desenvolver metodologias de intervenção interdisciplinares que facilitem os processos de aprendizagem, de autonomia e de adaptação ao contexto escolar;\n\ne) Promover a criação de ambientes estruturados, ricos em comunicação e interação, fomentadores da aprendizagem;\n\nf) Apoiar a organização do processo de transição para a vida pós-escolar.\n\n7 - Compete ao diretor da escola definir os espaços de funcionamento do centro de apoio à aprendizagem numa lógica de rentabilização dos recursos existentes na escola.\n\n8 - A escola estabelece, em sede de regulamento interno, quanto ao centro de apoio à aprendizagem e às suas funções e abrangência, entre outros, os seguintes aspetos:\n\na) A sua constituição e coordenação;\n\nb) Os locais e horário de funcionamento;\n\nc) Os recursos humanos e materiais existentes;\n\nd) As formas de concretização dos objetivos específicos de acordo com os n.os 2 e 6;\n\ne) As formas de articulação com os recursos humanos e materiais, dos saberes e competências da escola, designadamente no que respeita ao apoio e à avaliação das aprendizagens.\n\n9 - Para efeitos do disposto no número anterior, pode ser elaborado um regimento próprio, do qual constem as formas de medição do impacto do centro de apoio à aprendizagem na inclusão e aprendizagem de todos os alunos.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "840370705": {
+   "fragment_id": "115654501",
+   "type": 11,
+   "heading": "Artigo 20.º — Processo de identificação da necessidade de medidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Processo de identificação da necessidade de medidas\n\n1 - A identificação da necessidade de medidas de suporte à aprendizagem e à inclusão deve ocorrer o mais precocemente possível e efetua-se por iniciativa dos pais ou encarregados de educação, dos serviços de intervenção precoce, dos docentes ou de outros técnicos ou serviços que intervêm com a criança ou aluno.\n\n2 - A identificação é apresentada ao diretor da escola, com a explicitação das razões que levam à necessidade de medidas de suporte à aprendizagem e à inclusão, acompanhada da documentação considerada relevante.\n\n3 - A documentação a que se refere o número anterior pode integrar um parecer médico, nos casos de problemas de saúde física ou mental, enquadrado nas necessidades de saúde especiais (NSE).\n\n4 - Apresentada a identificação de necessidades nos termos dos números anteriores, compete ao diretor da escola, no prazo de três dias úteis, a contar do dia útil seguinte ao da respetiva apresentação, solicitar à equipa multidisciplinar da escola a elaboração de um relatório técnico-pedagógico nos termos do artigo seguinte.\n\n5 - Nas situações em que a equipa multidisciplinar conclui que apenas devem ser mobilizadas medidas universais de suporte à aprendizagem e à inclusão, devolve o processo ao diretor, no prazo de 10 dias úteis, a contar do dia útil seguinte ao da respetiva deliberação, com essa indicação.\n\n6 - Nos casos previstos no número anterior, o diretor devolve o processo ao professor titular de turma ou ao diretor de turma, consoante o caso, para comunicação da decisão aos pais ou encarregados de educação.\n\n7 - Ao processo de identificação de necessidades de medidas de suporte à aprendizagem e à inclusão quando realizado por docente é aplicável o disposto no n.º 10 do artigo 12.º"
+  },
+  "124705656": {
+   "fragment_id": "115654502",
+   "type": 11,
+   "heading": "Artigo 21.º — Relatório técnico-pedagógico",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 21.º — Relatório técnico-pedagógico\n\n1 - O relatório técnico-pedagógico é o documento que fundamenta a mobilização de medidas seletivas e ou adicionais de suporte à aprendizagem e à inclusão, e acompanha a criança ou o aluno em caso de mudança de escola.\n\n2 - O relatório técnico-pedagógico contém:\n\na) A identificação dos fatores que facilitam e que dificultam o progresso e o desenvolvimento das aprendizagens do aluno, nomeadamente fatores da escola, do contexto e individuais do aluno;\n\nb) As medidas de suporte à aprendizagem e à inclusão a mobilizar;\n\nc) O modo de operacionalização de cada medida, incluindo objetivos, metas e indicadores de resultados;\n\nd) Os responsáveis pela implementação das medidas de suporte à aprendizagem e à inclusão;\n\ne) Os procedimentos de avaliação da eficácia de cada medida e, quando existente, do programa educativo individual;\n\nf) A articulação com os recursos específicos de apoio à inclusão definidos no artigo 11.º\n\n3 - A equipa multidisciplinar deve ouvir os pais ou encarregados de educação durante a elaboração do relatório técnico-pedagógico.\n\n4 - Sempre que necessário, a equipa multidisciplinar pode solicitar a colaboração de pessoa ou entidade que possa contribuir para o melhor conhecimento do aluno, nomeadamente a equipa de saúde escolar dos ACES/ULS, com o objetivo de construir uma abordagem participada, integrada e eficaz.\n\n5 - Quando o relatório técnico-pedagógico propõe a implementação plurianual de medidas deve definir momentos intercalares de avaliação da sua eficácia.\n\n6 - Sempre que sejam propostas adaptações curriculares significativas, o relatório técnico-pedagógico é acompanhado de um programa educativo individual que dele faz parte integrante.\n\n7 - O relatório deve ficar concluído no prazo máximo de 30 dias úteis após a apresentação ao diretor da necessidade de medidas de suporte à aprendizagem e à inclusão, nos termos do n.º 2 do artigo 20.º\n\n8 - O relatório técnico-pedagógico é parte integrante do processo individual do aluno, sem prejuízo da confidencialidade a que está sujeito nos termos da lei.\n\n9 - A implementação das medidas previstas no relatório técnico-pedagógico depende da concordância dos pais ou encarregados de educação.\n\n10 - O coordenador da implementação das medidas propostas no relatório técnico-pedagógico é o educador de infância, o professor titular de turma ou o diretor de turma, consoante o caso.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705657": {
+   "fragment_id": "115654506",
+   "type": 11,
+   "heading": "Artigo 25.º — Plano individual de transição",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 25.º — Plano individual de transição\n\n1 - Sempre que o aluno tenha um programa educativo individual deve este ser complementado por um plano individual de transição destinado a promover a transição para a vida pós-escolar, e sempre que possível para o exercício de uma atividade profissional ou possibilitando o prosseguimento de estudos além da escolaridade obrigatória.\n\n2 - O plano individual de transição deve orientar-se pelos princípios da educabilidade universal, da equidade, da inclusão, da flexibilidade e da autodeterminação.\n\n3 - A implementação do plano individual de transição inicia-se três anos antes da idade limite da escolaridade obrigatória.\n\n4 - O plano individual de transição deve ser datado e assinado por todos os profissionais que participam na sua elaboração, pelos pais ou encarregados de educação e, sempre que possível, pelo próprio aluno.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705658": {
+   "fragment_id": "115654509",
+   "type": 11,
+   "heading": "Artigo 27.º — Matrícula",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 27.º — Matrícula\n\n1 - A equipa multidisciplinar pode propor ao diretor da escola, com a concordância dos pais ou encarregados de educação, o ingresso antecipado ou o adiamento da matrícula, nos termos do disposto no artigo 8.º do Decreto-Lei n.º 176/2012, de 2 de agosto.\n\n2 - Têm prioridade na matrícula ou renovação de matrícula nas escolas de referência, no domínio da visão e para a educação bilingue, os alunos que necessitam destes recursos organizacionais.\n\n3 - Os alunos com programa educativo individual têm prioridade na matrícula ou renovação de matrícula na escola de preferência dos pais ou encarregados de educação.\n\n4 - Os alunos apoiados pelos centros de apoio de aprendizagem têm prioridade na renovação de matrícula, independentemente da sua área de residência.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705659": {
+   "fragment_id": "115654515",
+   "type": 11,
+   "heading": "Artigo 32.º — Manual de apoio",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 32.º — Manual de apoio\n\n1 - Sem prejuízo das competências gerais previstas na lei, compete à Direção-Geral da Educação, em colaboração com a Direção-Geral da Saúde e o Instituto Nacional para a Reabilitação, I. P., a criação e a atualização de um manual de apoio à prática inclusiva dirigido às escolas e seus profissionais, aos pais ou encarregados de educação e outros envolvidos na educação inclusiva.\n\n2 - O manual de apoio à prática inclusiva é elaborado e disponibilizado no prazo de 30 dias após a entrada em vigor do presente decreto-lei.\n\n3 - O manual de apoio a que se refere o número anterior deve ser um documento passível de atualizações que resultem da inclusão de novo conhecimento em fundação da experiência da aplicação do disposto no presente decreto-lei.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705660": {
+   "fragment_id": "115654516",
+   "type": 11,
+   "heading": "Artigo 33.º — Acompanhamento, monitorização e avaliação",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 33.º — Acompanhamento, monitorização e avaliação\n\n1 - O acompanhamento da aplicação do presente decreto-lei é assegurado a nível nacional por uma equipa, que integra elementos dos serviços com atribuições nesta matéria, a designar pelos respetivos membros do Governo, podendo ainda integrar representantes dos Governos das Regiões Autónomas dos Açores e da Madeira.\n\n2 - As escolas devem incluir nos seus relatórios de autoavaliação as conclusões da monitorização da implementação das medidas curriculares, dos recursos e estruturas de suporte à educação inclusiva.\n\n3 - Cabe igualmente à Inspeção-Geral da Educação e Ciência avaliar as condições físicas e todos os recursos de que as escolas dispõem para a aplicação deste decreto-lei, designadamente para dar cumprimento ao disposto nos artigos 9.º e 10.º\n\n4 - A avaliação prevista no n.º 3 é objeto de um relatório de meta-análise a ser apresentado anualmente ao membro do Governo responsável pela área da educação.\n\n5 - A cada cinco anos, o membro do Governo da área da educação promove uma avaliação da aplicação do presente decreto-lei com vista à melhoria contínua da educação inclusiva.\n\n6 - Sem prejuízo do disposto no número anterior, o Ministério da Educação promove a avaliação da implementação do presente decreto-lei no prazo de dois anos após a sua entrada em vigor, tornando públicos os seus resultados.\n\n7 - O Governo publica, no prazo de 90 dias, uma portaria que defina, ainda que de forma não exaustiva, os indicadores estatísticos que servem de base à caracterização e avaliação das medidas e resultados da política de inclusão na educação.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705661": {
+   "fragment_id": "115654519",
+   "type": 11,
+   "heading": "Artigo 36.º — Acolhimento de valências",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 36.º — Acolhimento de valências\n\n1 - Os centros de apoio à aprendizagem acolhem as valências existentes no terreno, nomeadamente as unidades especializadas.\n\n2 - Os alunos apoiados pelos centros referidos no número anterior têm prioridade na renovação de matrícula, independentemente da sua área de residência.\n\n3 - Da aplicação do presente decreto-lei não pode resultar perda de direitos e de apoios a todas as crianças e alunos, salvaguardando sempre os seus superiores interesses.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "124705662": {
+   "fragment_id": "115654520",
+   "type": 11,
+   "heading": "Artigo 37.º — Regulamentação",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 37.º — Regulamentação\n\n1 - As condições de acesso, de frequência e o financiamento dos estabelecimentos de educação especial são definidos por portaria dos membros do Governo responsáveis pelas áreas das finanças e da educação, a publicar no prazo de 30 dias.\n\n2 - Até à publicação da regulamentação referida no número anterior, mantém-se em vigor a legislação aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  },
+  "115654717": {
+   "fragment_id": "115654525",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros de 24 de maio de 2018. - António Luís Santos da Costa - António Manuel Veiga dos Santos Mendonça Mendes - Tiago Brandão Rodrigues.\n\nPromulgado em 22 de junho de 2018.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendado em 28 de junho de 2018.\n\nPelo Primeiro-Ministro, Augusto Ernesto Santos Silva, Ministro dos Negócios Estrangeiros.\n\n111467546"
+  },
+  "216185548": {
+   "fragment_id": "115654510",
+   "type": 11,
+   "heading": "Artigo 28.º — Adaptações ao processo de avaliação",
+   "in_force_from": "2023-07-26",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2023 - Diário da República n.º 143/2023, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), em vigor a partir de 2023-07-26",
+    "Retificado pelo/a [Declaração de Retificação n.º 47/2019 - Diário da República n.º 190/2019, Série I de 2019-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-2019-125047267), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 28.º — Adaptações ao processo de avaliação\n\n1 - As escolas devem assegurar a todos os alunos o direito à participação no processo de avaliação.\n\n2 - Constituem adaptações ao processo de avaliação:\n\na) A diversificação dos instrumentos de recolha de informação, tais como, inquéritos, entrevistas, registos vídeo ou áudio;\n\nb) Os enunciados em formatos acessíveis, nomeadamente braille, tabelas e mapas em relevo, daisy, digital;\n\nc) A interpretação em LGP;\n\nd) A utilização de produtos de apoio;\n\ne) O tempo suplementar para realização da prova;\n\nf) A transcrição das respostas;\n\ng) A leitura de enunciados;\n\nh) A utilização de sala separada;\n\ni) As pausas vigiadas;\n\nj) O código de identificação de cores nos enunciados.\n\n3 - As adaptações ao processo de avaliação interna são da competência da escola, sem prejuízo da obrigatoriedade de publicitar os resultados dessa avaliação nos momentos definidos pela escola para todos os alunos.\n\n4 - No ensino básico, as adaptações ao processo de avaliação externa são da competência da escola, devendo ser fundamentadas, constar do processo do aluno e ser comunicadas ao Júri Nacional de Exames.\n\n5 - No ensino secundário, é da competência da escola decidir fundamentadamente e comunicar ao Júri Nacional de Exames as seguintes adaptações ao processo de avaliação externa:\n\na) A utilização de produtos de apoio;\n\nb) A saída da sala durante a realização da prova/exame;\n\nc) A adaptação do espaço ou do material;\n\nd) A transcrição das respostas;\n\ne) A leitura de enunciados;\n\nf) A presença de intérprete de língua gestual portuguesa;\n\ng) A consulta de dicionário de língua portuguesa;\n\nh) A realização de provas adaptadas.\n\n6 - No ensino secundário, a escola pode requerer autorização ao Júri Nacional de Exames para realizar as seguintes adaptações ao processo de avaliação externa:\n\na) A realização de exame de português língua segunda (PL2);\n\nb) O acompanhamento por um docente;\n\nc) A utilização de instrumentos de apoio à aplicação de critérios de classificação de provas para alunos com dislexia ou perturbação específica da linguagem, conforme previsto no Regulamento das provas de avaliação externa;\n\nd) A utilização de tempo suplementar.\n\n7 - As adaptações ao processo de avaliação externa devem constar do processo do aluno.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 62/2023 - Diário da República n.º 143/2023, Série I de 2023-07-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/62-2023-216154388), em vigor a partir de 2023-07-26\n\n> Retificado pelo/a [Declaração de Retificação n.º 47/2019 - Diário da República n.º 190/2019, Série I de 2019-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-2019-125047267), em vigor a partir de 2019-09-14"
+  },
+  "125049323": {
+   "fragment_id": "115654516",
+   "type": 11,
+   "heading": "Artigo 33.º — Acompanhamento, monitorização e avaliação",
+   "in_force_from": "2019-09-14",
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Retificação n.º 47/2019 - Diário da República n.º 190/2019, Série I de 2019-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-2019-125047267), em vigor a partir de 2019-09-14",
+    "Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+   ],
+   "markdown": "###### Artigo 33.º — Acompanhamento, monitorização e avaliação\n\n1 - O acompanhamento da aplicação do presente decreto-lei é assegurado a nível nacional por uma equipa, que integra elementos dos serviços com atribuições nesta matéria, a designar pelos respetivos membros do Governo, podendo ainda integrar representantes dos Governos das Regiões Autónomas dos Açores e da Madeira.\n\n2 - As escolas devem incluir nos seus relatórios de autoavaliação as conclusões da monitorização da implementação das medidas curriculares, dos recursos e estruturas de suporte à educação inclusiva.\n\n3 - Cabe igualmente à Inspeção-Geral da Educação e Ciência avaliar as condições físicas e todos os recursos de que as escolas dispõem para a aplicação deste decreto-lei, designadamente para dar cumprimento ao disposto nos artigos 9.º e 10.º\n\n4 - Cabe igualmente à Inspeção-Geral da Educação e Ciência avaliar as condições físicas e todos os recursos de que as escolas dispõem para a aplicação deste decreto-lei, designadamente para dar cumprimento ao disposto nos artigos 9.º e 10.º\n\n5 - A avaliação prevista no n.º 3 é objeto de um relatório de meta-análise a ser apresentado anualmente ao membro do Governo responsável pela área da educação.\n\n6 - A cada cinco anos, o membro do Governo da área da educação promove uma avaliação da aplicação do presente decreto-lei com vista à melhoria contínua da educação inclusiva.\n\n7 - Sem prejuízo do disposto no número anterior, o Ministério da Educação promove a avaliação da implementação do presente decreto-lei no prazo de dois anos após a sua entrada em vigor, tornando públicos os seus resultados.\n\n8 - O Governo publica, no prazo de 90 dias, uma portaria que defina, ainda que de forma não exaustiva, os indicadores estatísticos que servem de base à caracterização e avaliação das medidas e resultados da política de inclusão na educação.\n\n> Retificado pelo/a [Declaração de Retificação n.º 47/2019 - Diário da República n.º 190/2019, Série I de 2019-10-03](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/47-2019-125047267), em vigor a partir de 2019-09-14\n\n> Alterado pelo/a Artigo 2.º do/a [Lei n.º 116/2019 - Diário da República n.º 176/2019, Série I de 2019-09-13](https://diariodarepublica.pt/dr/detalhe/lei/116-2019-124680588), em vigor a partir de 2019-09-14"
+  }
+ }
+}

@@ -1,0 +1,107 @@
+---
+schema_version: '1.0'
+id: pt:dre:2881197:por
+title: Resolução n.º 1/2001/M (2.ª série)
+short_title: null
+summary: null
+jurisdiction: regional
+territory: madeira
+document_type: resolucao
+document_type_label: Resolução
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 1/2001/M (2.ª série)
+official_date: null
+publication_date: '2001-04-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 93/2001, Série II de 2001-04-20
+  number: '93'
+  series: II
+  supplement: null
+  pages: 7008 - 7008
+  pdf_url: https://files.diariodarepublica.pt/2s/2001/04/093000000/0700807008.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '2881197'
+  dre_path: /dr/detalhe/resolucao/1-2001-2881197
+  internal: pt:dre:2881197:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2001-2881197
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao/1-2001-2881197
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-04-20T00:00:00Z'
+integrity:
+  source_sha256: 25aa7c5bee377871dd1fe4dac5fd871beab2e527e8043eb472e440b8f5713cdd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2001/DRE-2001-1-2881197.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução n.º 1/2001/M (2.ª série)
+
+Resolução n.º 1/2001/M (2.ª série). - Considerando que no plano de investimentos da IGA - Investimentos e Gestão da Água, S. A. - concessionária do Sistema Regional de Gestão e Abastecimento de Água da Região Autónoma da Madeira -, se enquadra a execução da ampliação da estação elevatória de esgotos da Praia, localizada no sítio do Vale do Touro, uma infra-estrutura fundamental para o funcionamento do sistema de águas residuais da ilha de Porto Santo;
+
+Considerando que a ampliação daquela unidade visa acudir ao crescente volume de águas residuais que afluem ao citado Sistema, em particular durante o período do Verão, pelo que urge dar início às pertinentes obras;
+
+Considerando que a execução da ampliação da estação elevatória só pode ser executada em local adjacente à actual estação face à sua posição estratégica relativamente ao traçado da rede de águas residuais, o que implica a execução da obra na parcela de terreno com a área de 500 m2, assinalada na planta cadastral anexa, a destacar do prédio rústico inscrito na matriz sob o artigo 213 da secção AH da freguesia e concelho de Porto Santo, com o valor patrimonial de 7191$00, prédio inscrito na Conservatória do Registo Predial de Porto Santo sob o n.º 03075/190695, confrontante, na parte considerada, do norte com os proprietários, do sul com a praia, do leste com Ernesto Meneses e do oeste com Luís Pinto Canedo Morais, imóvel cuja titularidade e posse é de Maria Irene Germano Ferreira de Vasconcelos e Freitas, casada com Luís Alfredo Vasconcelos e Freitas, de Manuel Ferreira e de Joel Casimiro Ferreira, casado com Maria Sílvia Brazão Ferreira;
+
+Considerando que os primeiros contactos estabelecidos com os proprietários revelaram uma enorme disparidade de preços e a existência de um processo judicial atinente ao citado prédio rústico, que não permite, neste momento, a aquisição, pela via do direito privado, da parcela de terreno acima identificada;
+
+Considerando que a expropriação da parcela de terreno tem manifesta urgência porque o respectivo local de execução situa-se precisamente junto à praia da ilha de Porto Santo, frequentada por milhares de pessoas durante o Verão, e a ampliação da estação elevatória visa impedir que essas águas poluam a praia, evitando-se desse modo graves atentados à saúde pública;
+
+Considerando que a concessão da Região Autónoma da Madeira à IGA inclui a drenagem e destino supramunicipal das águas residuais urbanas da ilha de Porto Santo e que a base XVII da citada concessão, constante do anexo II ao Decreto Legislativo Regional n.º 28-C/99/M, de 23 de Dezembro, dispõe que a "concessionária poderá constituir as servidões e requerer as expropriações necessárias à implantação e exploração das infra-estruturas a afectar à prossecução do serviço público objecto da concessão" e que "as expropriações resultam da aprovação dos respectivos projectos pela concedente ou de declaração de utilidade pública, simultânea ou subsequente, nos termos da lei aplicável, sendo de conta da concessionária as indemnizações a que haja lugar";
+
+Considerando que a IGA solicitou à Secretaria Regional do Ambiente e dos Recursos Naturais a expropriação, com carácter de urgência, da parcela de terreno assinalada na planta anexa, por a mesma ser necessária ao início dos trabalhos de ampliação da citada estação elevatória:
+
+O Conselho do Governo resolve o seguinte:
+
+1 - Usando das competências atribuídas pelo n.º 1 do artigo 90.º do Código das Expropriações, aprovado em anexo à [Lei n.º 168/99](https://diariodarepublica.pt/dr/detalhe/lei/168-1999-569885), de 18 de Setembro, e nos termos e ao abrigo dos artigos 11.º a 15.º do citado Código, fica declarada de utilidade pública, com carácter de urgência, a expropriação da parcela de terreno assinalada na planta anexa com a área de 500 m2 e suas benfeitorias e todos os direitos a ela inerentes e ou relativos (servidões e serventias, colonias, arrendamentos, acessões, regalias, águas, pertences e acessórios, prejuízos emergentes da cessação de actividades e todos e quaisquer outros sem reserva alguma), por a mesma ser necessária à execução da obra pública de ampliação da estação elevatória de esgotos da Praia, na ilha de Porto Santo, a executar pela IGA, correndo o respectivo processo de expropriação pela citada concessionária, que, para o efeito, é designada entidade expropriante.
+
+2 - Simultaneamente e em consequência, fica a IGA autorizada a tomar a posse administrativa da referida parcela de terreno, nos termos dos artigos 19.º e seguintes do citado Código das Expropriações, por se considerar essa posse indispensável ao início no mês de Abril de 2001 dos trabalhos destinados à sua execução.
+
+16 de Fevereiro de 2001. - O Presidente do Governo Regional, Alberto João Cardoso Gonçalves Jardim.
+
+[([ver documento original](https://files.diariodarepublica.pt/2s/2001/04/093000000/0700807008.pdf))](https://files.diariodarepublica.pt/2s/2001/04/093000000/0700807008.pdf)

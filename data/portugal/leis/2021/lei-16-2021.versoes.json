@@ -1,0 +1,137 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:160994172:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/lei/2021-161014490",
+ "dre_path": "/dr/detalhe/lei/16-2021-160994172",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2021-04-07",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "215799380",
+    "160772437",
+    "160772438",
+    "160772439",
+    "160772440"
+   ]
+  },
+  {
+   "date": "2023-07-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:215097639:por",
+     "title": "Lei n.º 31/2023",
+     "published": "2023-07-04",
+     "dre_path": "/dr/detalhe/lei/31-2023-215097639"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "215799380",
+    "215799381",
+    "215799382",
+    "215799383",
+    "215799384",
+    "215799385"
+   ]
+  }
+ ],
+ "fragments": {
+  "215799380": {
+   "fragment_id": "161014491",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2023-07-05",
+   "changed_by": [],
+   "markdown": "Lei n.º 16/2021\n\nde 7 de abril\n\nSumário: Alteração, por apreciação parlamentar, ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro, que estabelece um conjunto de medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais.\n\nAlteração, por apreciação parlamentar, ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro, que estabelece um conjunto de medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais\n\nA Assembleia da República decreta, nos termos da alínea c) do artigo 161.º da Constituição, o seguinte:"
+  },
+  "160772437": {
+   "fragment_id": "161014492",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à segunda alteração, por apreciação parlamentar, ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro, que estabelece um conjunto de medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais, alterado pelo Decreto-Lei n.º 14-B/2021, de 22 de fevereiro."
+  },
+  "160772438": {
+   "fragment_id": "161014493",
+   "type": 11,
+   "heading": "Artigo 2.º — Alterações ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro\n\nOs artigos 1.º, 3.º e 4.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) À vigésima nona alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19;\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\nArtigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - O regime em vigor tem as seguintes adaptações:\n\na) Nas famílias monoparentais com filho ou dependente a cargo, menor de 12 anos, o progenitor pode optar pelo regime de teletrabalho ou pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho;\n\nb) Nas famílias com pelo menos um filho ou dependente a cargo, menor de 12 anos, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho;\n\nc) Nas famílias com filhos ou dependentes com deficiência ou doença crónica, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\nArtigo 4.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Sem prejuízo do apoio previsto no n.º 4 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, os agrupamentos de escolas e escolas não agrupadas da rede pública de ensino tomam as medidas necessárias para a prestação de apoios alimentares a todos os alunos beneficiários do escalão C da ação social escolar e aos alunos que, não sendo beneficiários dos apoios alimentares no âmbito da ação social escolar, necessitem desse apoio.»\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) Declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 2.º da Lei n.º 16/2021, de 7 de abril, na parte em que altera o n.º 2 do artigo 3.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro."
+  },
+  "160772439": {
+   "fragment_id": "161014494",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro\n\nSão aditados ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro, os artigos 3.º-A, 4.º-A, 4.º-B e 4.º-C, com a seguinte redação:\n\n«Artigo 3.º-A\n\nAcolhimento de filhos ou dependentes a cargo de pessoal docente\n\nO pessoal docente, cuja atividade letiva seja desenvolvida em tempo real e que permita a interação online, pode recorrer aos estabelecimentos de ensino, creches, creches familiares ou amas, previstos na Portaria n.º 25-A/2021, de 29 de janeiro, exclusivamente para efeitos de acolhimento de filhos ou outros dependentes a cargo.\n\nArtigo 4.º-A\n\nProibição de anulação de matrícula ou cobrança de juros ou penalidades por falta ou atraso no pagamento das mensalidades\n\n1 - Não é permitido às instituições responsáveis por equipamentos de apoio à infância, educação ou ensino anular a matrícula nem cobrar juros ou qualquer outra penalidade por falta ou atraso no pagamento de mensalidade quando os utentes demonstrem existir quebra do seu rendimento mensal.\n\n2 - Para os efeitos previstos no número anterior, a prova do rendimento pode ser feita por qualquer meio legalmente admissível, nomeadamente pelo registo de remunerações junto da Segurança Social.\n\nArtigo 4.º-B\n\nPlano de pagamento\n\n1 - Nas situações em que se constituam dívidas relativas a mensalidades devidas após a determinação das medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 é elaborado um plano de pagamento.\n\n2 - O plano de pagamento referido no número anterior é definido entre a instituição e os utentes, podendo iniciar-se no segundo mês posterior ao da cessação das medidas referidas no número anterior, a requerimento do utente.\n\n3 - Salvo acordo expresso do utente em sentido diferente, as prestações previstas no plano de pagamento não podem exceder o montante mensal de 1/12 do valor em dívida.\n\nArtigo 4.º-C\n\nAlteração ao Decreto-Lei n.º 10-A/2020, de 13 de março\n\nOs artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, passam a ter a seguinte redação:\n\n'Artigo 23.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Salvo o disposto no n.º 9, sobre o apoio incide a quotização do trabalhador e 50 % da contribuição social da entidade empregadora, devendo o mesmo ser objeto de declaração de remunerações autónoma.\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)\n\n10 - (Anterior n.º 8.)\n\n11 - (Anterior n.º 9.)\n\nArtigo 24.º\n\n[...]\n\n1 - [...].\n\n2 - O valor do apoio é correspondente à totalidade da base de incidência contributiva mensualizada referente ao primeiro trimestre de 2020.\n\n3 - O apoio a que se refere os números anteriores tem por limite mínimo 1 Indexante de Apoios Sociais (IAS) e máximo de 3 IAS, não podendo, em qualquer caso, exceder o montante da remuneração registada como base de incidência contributiva.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)'»\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) Não declara a inconstitucionalidade da norma contida no artigo 3.º da Lei n.º 16/2021, de 17 de abril, na parte em que adita o artigo 4.º-C ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro (estabelece medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais), e, através deste, altera os n.os 7 e 8 do artigo 23.º e os n.os 7 e 8 do artigo 24.º, ambos do Decreto-Lei n.º 10-A/2020, de 13 de março; declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 3.º da Lei n.º 16/2021, de 7 de abril, na parte em que adita o artigo 4.º-C ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro e, através deste, altera os n.os 2 e 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março."
+  },
+  "160772440": {
+   "fragment_id": "161014495",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "215799381": {
+   "fragment_id": "161014492",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente lei procede à segunda alteração, por apreciação parlamentar, ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro, que estabelece um conjunto de medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais, alterado pelo Decreto-Lei n.º 14-B/2021, de 22 de fevereiro.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215799382": {
+   "fragment_id": "161014493",
+   "type": 11,
+   "heading": "Artigo 2.º — Alterações ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 2.º — Alterações ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro\n\nOs artigos 1.º, 3.º e 4.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro, passam a ter a seguinte redação:\n\n«Artigo 1.º\n\n[...]\n\n[...]:\n\na) [...];\n\nb) À vigésima nona alteração ao Decreto-Lei n.º 10-A/2020, de 13 de março, que estabelece medidas excecionais e temporárias relativas à situação epidemiológica do novo Coronavírus - COVID-19;\n\nc) [Anterior alínea b).]\n\nd) [Anterior alínea c).]\n\nArtigo 3.º\n\n[...]\n\n1 - [...].\n\n2 - O regime em vigor tem as seguintes adaptações:\n\na) Nas famílias monoparentais com filho ou dependente a cargo, menor de 12 anos, o progenitor pode optar pelo regime de teletrabalho ou pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho;\n\nb) Nas famílias com pelo menos um filho ou dependente a cargo, menor de 12 anos, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho;\n\nc) Nas famílias com filhos ou dependentes com deficiência ou doença crónica, um dos progenitores pode optar pelo apoio excecional à família, ainda que existam outras formas de prestação da atividade, nomeadamente por teletrabalho e mesmo que o outro progenitor esteja em teletrabalho.\n\n3 - [...].\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - [...].\n\nArtigo 4.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - Sem prejuízo do apoio previsto no n.º 4 do artigo 9.º do Decreto-Lei n.º 10-A/2020, de 13 de março, os agrupamentos de escolas e escolas não agrupadas da rede pública de ensino tomam as medidas necessárias para a prestação de apoios alimentares a todos os alunos beneficiários do escalão C da ação social escolar e aos alunos que, não sendo beneficiários dos apoios alimentares no âmbito da ação social escolar, necessitem desse apoio.»\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) Declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 2.º da Lei n.º 16/2021, de 7 de abril, na parte em que altera o n.º 2 do artigo 3.º do Decreto-Lei n.º 8-B/2021, de 22 de janeiro.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215799383": {
+   "fragment_id": "161014494",
+   "type": 11,
+   "heading": "Artigo 3.º — Aditamento ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 3.º — Aditamento ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro\n\nSão aditados ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro, os artigos 3.º-A, 4.º-A, 4.º-B e 4.º-C, com a seguinte redação:\n\n«Artigo 3.º-A\n\nAcolhimento de filhos ou dependentes a cargo de pessoal docente\n\nO pessoal docente, cuja atividade letiva seja desenvolvida em tempo real e que permita a interação online, pode recorrer aos estabelecimentos de ensino, creches, creches familiares ou amas, previstos na Portaria n.º 25-A/2021, de 29 de janeiro, exclusivamente para efeitos de acolhimento de filhos ou outros dependentes a cargo.\n\nArtigo 4.º-A\n\nProibição de anulação de matrícula ou cobrança de juros ou penalidades por falta ou atraso no pagamento das mensalidades\n\n1 - Não é permitido às instituições responsáveis por equipamentos de apoio à infância, educação ou ensino anular a matrícula nem cobrar juros ou qualquer outra penalidade por falta ou atraso no pagamento de mensalidade quando os utentes demonstrem existir quebra do seu rendimento mensal.\n\n2 - Para os efeitos previstos no número anterior, a prova do rendimento pode ser feita por qualquer meio legalmente admissível, nomeadamente pelo registo de remunerações junto da Segurança Social.\n\nArtigo 4.º-B\n\nPlano de pagamento\n\n1 - Nas situações em que se constituam dívidas relativas a mensalidades devidas após a determinação das medidas excecionais e temporárias de resposta à pandemia da doença COVID-19 é elaborado um plano de pagamento.\n\n2 - O plano de pagamento referido no número anterior é definido entre a instituição e os utentes, podendo iniciar-se no segundo mês posterior ao da cessação das medidas referidas no número anterior, a requerimento do utente.\n\n3 - Salvo acordo expresso do utente em sentido diferente, as prestações previstas no plano de pagamento não podem exceder o montante mensal de 1/12 do valor em dívida.\n\nArtigo 4.º-C\n\nAlteração ao Decreto-Lei n.º 10-A/2020, de 13 de março\n\nOs artigos 23.º e 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março, passam a ter a seguinte redação:\n\n'Artigo 23.º\n\n[...]\n\n1 - [...].\n\n2 - [...].\n\n3 - [...].\n\n4 - [...].\n\n5 - Salvo o disposto no n.º 9, sobre o apoio incide a quotização do trabalhador e 50 % da contribuição social da entidade empregadora, devendo o mesmo ser objeto de declaração de remunerações autónoma.\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)\n\n10 - (Anterior n.º 8.)\n\n11 - (Anterior n.º 9.)\n\nArtigo 24.º\n\n[...]\n\n1 - [...].\n\n2 - O valor do apoio é correspondente à totalidade da base de incidência contributiva mensualizada referente ao primeiro trimestre de 2020.\n\n3 - O apoio a que se refere os números anteriores tem por limite mínimo 1 Indexante de Apoios Sociais (IAS) e máximo de 3 IAS, não podendo, em qualquer caso, exceder o montante da remuneração registada como base de incidência contributiva.\n\n4 - [...].\n\n5 - [...].\n\n6 - [...].\n\n7 - O previsto no número anterior não impede o direito à partilha do apoio, se os progenitores o pretenderem.\n\n8 - Se um dos progenitores desempenhar a sua atividade noutra forma, nomeadamente por teletrabalho, o outro progenitor mantém o direito ao apoio.\n\n9 - (Anterior n.º 7.)'»\n\n> Nota: [Acórdão do Tribunal Constitucional n.º 545/2021 - Diário da República n.º 181/2021, Série I de 2021-09-16](https://diariodarepublica.pt/dr/detalhe/acordao-tribunal-constitucional/545-2021-171441502) Não declara a inconstitucionalidade da norma contida no artigo 3.º da Lei n.º 16/2021, de 17 de abril, na parte em que adita o artigo 4.º-C ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro (estabelece medidas de apoio no âmbito da suspensão das atividades letivas e não letivas presenciais), e, através deste, altera os n.os 7 e 8 do artigo 23.º e os n.os 7 e 8 do artigo 24.º, ambos do Decreto-Lei n.º 10-A/2020, de 13 de março; declara a inconstitucionalidade, com força obrigatória geral, da norma contida no artigo 3.º da Lei n.º 16/2021, de 7 de abril, na parte em que adita o artigo 4.º-C ao Decreto-Lei n.º 8-B/2021, de 22 de janeiro e, através deste, altera os n.os 2 e 3 do artigo 24.º do Decreto-Lei n.º 10-A/2020, de 13 de março.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215799384": {
+   "fragment_id": "161014495",
+   "type": 11,
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente lei entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  },
+  "215799385": {
+   "fragment_id": "161014496",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2023-07-05",
+   "changed_by": [
+    "Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+   ],
+   "markdown": "Aprovada em 3 de março de 2021.\n\nO Presidente da Assembleia da República, Eduardo Ferro Rodrigues.\n\nPromulgada em 28 de março de 2021.\n\nPublique-se.\n\nO Presidente da República, Marcelo Rebelo de Sousa.\n\nReferendada em 31 de março de 2021.\n\nO Primeiro-Ministro, António Luís Santos da Costa.\n\n114122466\n\n> Revogado pelo/a Artigo 2.º do/a [Lei n.º 31/2023 - Diário da República n.º 128/2023, Série I de 2023-07-04](https://diariodarepublica.pt/dr/detalhe/lei/31-2023-215097639), em vigor a partir de 2023-07-05"
+  }
+ }
+}

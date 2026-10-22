@@ -1,0 +1,454 @@
+---
+schema_version: '1.0'
+id: pt:dre:603229:por
+title: Decreto-Lei n.º 82/2009
+short_title: null
+summary: Estabelece o regime jurídico da designação, competência e funcionamento das entidades que exercem o poder de autoridades
+  de saúde
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Saúde
+proposing_entity: null
+official_number: 82/2009
+official_date: null
+publication_date: '2009-04-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 65/2009, Série I de 2009-04-02
+  number: '65'
+  series: I
+  supplement: null
+  pages: 2062 - 2065
+  pdf_url: https://files.diariodarepublica.pt/1s/2009/04/06500/0206202065.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2024-10-01'
+version_history:
+  file: decreto-lei-82-2009.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2009-04-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-10-09'
+    amending: pt:dre:484172:por
+    amending_title: Declaração de Retificação n.º 51/2013; Decreto-Lei n.º 135/2013
+    changes:
+    - Retifica Artigo 4.º
+    - Adita Artigo 16.º-A
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+  - date: '2024-10-01'
+    amending: pt:dre:887091776:por
+    amending_title: Decreto-Lei n.º 54/2024
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/82/2009/p/cons/20241218/pt/html
+  oj: null
+  dre: '603229'
+  dre_path: /dr/detalhe/decreto-lei/82-2009-603229
+  internal: pt:dre:603229:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/82-2009-603229
+  metadata_url: https://data.dre.pt/eli/dec-lei/82/2009/p/cons/20241218/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-120060664
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2009-120060664
+  retrieved_at: '2026-10-22T12:24:48Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 144eb1ef5cf674697057d3bb675cbd28ecf58566a5c1b363bb75173428325485
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:24:48Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-82-2009.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Adjunto
+- Autoridade Sanitária
+- Direção Geral da Saúde
+- Conselho de Autoridades de Saúde
+- Criação de Serviços
+- Definição de Competências
+- Delegado de Saúde
+- Administração Regional de Saúde
+- Autoridade de Saúde Nacional
+- Saúde Pública
+- Política de Saúde
+- Centro de Saúde
+- Regime Jurídico
+- Remuneração
+relationships:
+- type: amended_by
+  target: pt:dre:500190:por
+  label: Retifica Artigo 4.º; Adita Artigo 16.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo
+    7.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190
+  date: '2013-10-04'
+- type: amended_by
+  target: pt:dre:484172:por
+  label: Retifica Artigo 4.º; Adita Artigo 16.º-A; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo
+    7.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/51-2013-484172
+  date: '2013-12-03'
+- type: amended_by
+  target: pt:dre:887091776:por
+  label: Altera Artigo 4.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776
+  date: '2024-09-06'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/336/1993/09/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+article_structure:
+  article_count: 20
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:24:48Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 82/2009
+
+Decreto-Lei n.º 82/2009
+
+de 2 de Abril
+
+No âmbito dos princípios consagrados na base xix da Lei n.º 48/90, de 24 de Agosto, foi publicado o Decreto-Lei n.º 336/93, de 29 de Setembro, que visou estabelecer as regras de designação, competência e funcionamento das entidades que exercem o poder de autoridade de saúde.
+
+A experiência adquirida durante a vigência do referido decreto-lei, bem como as recentes alterações legislativas que modificaram a organização e o funcionamento dos serviços de saúde, nomeadamente o novo estatuto jurídico das administrações regionais de saúde (ARS) e a progressiva extinção das suas sub-regiões, por via da criação dos agrupamentos de centros de saúde (ACES), impõem a oportunidade de proceder à alteração do regime das autoridades de saúde.
+
+Efectivamente, a evolução das preocupações no âmbito da saúde pública obriga a adaptar o exercício do poder de autoridade de saúde no sentido de reforçar os meios de controlo efectivo dos factores de risco, dotando-o de maior funcionalidade.
+
+No novo regime ora instituído, as autoridades de saúde encontram-se sediadas nas estruturas já existentes dos serviços de saúde pública, que lhes prestam todo o apoio necessário ao exercício das suas funções, competindo-lhes organizar tais serviços, de modo a assegurar o exercício efectivo das funções de autoridade ou dos actos materiais que se lhe encontrem subjacentes.
+
+A implantação territorial das autoridades de saúde corresponde às áreas geográficas e administrativas a nível nacional, regional e municipal, conforme a Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS), o que, ao nível municipal, obrigou a uma actualização da terminologia que tem vindo a ser utilizada relativamente aos concelhos e delegados de saúde concelhios. Em conformidade, possibilitou-se que as autoridades de saúde assim implantadas alargassem o seu âmbito geodemográfico de competências de acordo com a nova figura dos ACES e respectivos rácios populacionais.
+
+A correspondência entre ACES e autoridades de saúde ao nível das respectivas áreas de intervenção não prejudica, mas antes reforça, a concertação entre os vários municípios com vista à melhoria do planeamento e da implementação dos programas de saúde pública.
+
+Nos termos da base xx da lei supracitada, os vários escalões das autoridades de saúde deverão contribuir para uma actuação coordenada, sempre que as circunstâncias o justifiquem, pelo que os níveis geodemográficos supracitados reflectem essa repartição de acções, numa relação hierárquica no âmbito das competências técnicas, permitindo instâncias sucessivas de recurso.
+
+O presente decreto-lei introduz, ainda, a protecção jurídica a todas as entidades que exercem o poder de autoridade de saúde, de forma a salvaguardar uma eficaz intervenção centrada na protecção da saúde pública, nos termos da legislação em vigor.
+
+Em síntese, o presente decreto-lei destina-se a actualizar as condições do exercício do poder de autoridade de saúde, funcionando de forma integrada em todo o território nacional e em articulação com os serviços de saúde pública existentes, implementando a partilha de informação, de conhecimentos e recursos, com vista à decisão fundamentada no exercício dos poderes conferidos, incorporando novos conceitos de saúde pública em conformidade com o preconizado pela Organização Mundial de Saúde e pela Comissão da União Europeia.
+
+Finalmente, procede-se à criação de um órgão consultivo e de apoio da autoridade de saúde nacional, designado Conselho de Autoridades de Saúde.
+
+Foram ouvidos os órgãos de governo próprio das Regiões Autónomas.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses, bem como as organizações sindicais e representativas dos trabalhadores das entidades afectadas pela presente reorganização de serviços.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela base xix da Lei n.º 48/90, de 24 de Agosto, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objecto
+
+O presente decreto-lei estabelece as regras de designação, competência e funcionamento das entidades que exercem o poder de autoridade de saúde.
+
+###### Artigo 2.º — Definição
+
+1 - Para efeitos do presente decreto-lei, entende-se por autoridade de saúde a entidade à qual compete a decisão de intervenção do Estado na defesa da saúde pública, na prevenção da doença e na promoção e protecção da saúde, bem como no controlo dos factores de risco e das situações susceptíveis de causarem ou acentuarem prejuízos graves à saúde dos cidadãos ou dos aglomerados populacionais.
+
+2 - A autoridade de saúde detém os poderes necessários ao exercício das competências referidas no número anterior na sua área geodemográfica de intervenção, bem como os poderes relativos à vigilância de saúde no âmbito territorial nacional que derivem da circulação de pessoas e bens no tráfego e comércio internacionais.
+
+###### Artigo 3.º — Autoridades de saúde
+
+1 - As autoridades de saúde exercem poderes no âmbito territorial correspondente às áreas geográficas e administrativas de nível nacional, regional e local, definidas conforme a Nomenclatura de Unidades Territoriais para Fins Estatísticos (NUTS) em vigor, funcionando em sistema de rede integrada de informação.
+
+2 - As autoridades de saúde dependem hierarquicamente do membro do Governo responsável pela área da saúde, através do director-geral da Saúde.
+
+3 - A autoridade de saúde de âmbito nacional é o director-geral da Saúde.
+
+4 - As autoridades de saúde de âmbito regional são denominadas delegados de saúde regionais e delegados de saúde regionais adjuntos.
+
+5 - As autoridades de saúde de âmbito local são denominadas delegados de saúde coordenadores e delegados de saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2013 - Diário da República n.º 192/2013, Série I de 2013-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190), em vigor a partir de 2013-10-09
+
+###### Artigo 4.º — Designação
+
+1 - Os delegados de saúde regionais são designados, em comissão de serviço, por despacho do membro do Governo responsável pela área da saúde, sob proposta do diretor-geral da Saúde.
+
+2 - O delegado de saúde regional exerce, por inerência à comissão de serviço para que foi designado, as funções de diretor da delegação regional de saúde respetiva, nos termos de legislação própria.
+
+3 - Os delegados de saúde regionais-adjuntos são designados, em comissão de serviço, por despacho do membro do Governo responsável pela área da saúde, sob proposta do diretor-geral da Saúde, ouvido o delegado de saúde regional.
+
+4 - Os delegados de saúde regionais e os delegados de saúde regionais adjuntos são designados, por escolha, de entre médicos de saúde pública com o grau de consultor.
+
+5 - Os delegados de saúde-coordenadores são designados, em comissão de serviço, pelo diretor-geral da Saúde, ouvido o conselho de administração da ULS a que se encontram afetos e mediante o parecer favorável do respetivo delegado de saúde regional.
+
+6 - O delegado de saúde-coordenador exerce, por inerência à comissão de serviço para que foi designado, as funções de coordenador da unidade de saúde pública da ULS respetiva, nos termos de legislação própria.
+
+7 - Os delegados de saúde são designados, em comissão de serviço, pelo diretor-geral da Saúde, ouvido o conselho de administração da ULS a que se encontram afetos, e após pareceres favoráveis do respetivo delegado de saúde-coordenador e do delegado de saúde regional.
+
+8 - Os delegados de saúde coordenadores e os delegados de saúde são designados de entre médicos com grau de especialista de saúde pública ou, não sendo possível, a título transitório e apenas enquanto não forem colocados médicos da especialidade de saúde pública na unidade de saúde pública, de entre médicos com grau de especialista em áreas relevantes para a saúde pública.
+
+9 - É aplicável à comissão de serviço o regime constante da Lei Geral do Trabalho em Funções Públicas, aprovada em anexo à Lei n.º 35/2014, de 20 de junho, na sua redação atual, com as especificidades previstas nos números seguintes.
+
+10 - O conselho de administração da ULS territorialmente competente deve promover a renovação da comissão de serviço das autoridades de saúde locais, de acordo com o referido nos n.os 1, 3, 5 e 7, no prazo de 90 dias antes do seu termo.
+
+11 - No caso de não renovação nos termos do número anterior, o exercício das funções em regime de gestão corrente não pode exceder o prazo de 90 dias contados a partir da cessação da respectiva comissão de serviço.
+
+12 - Na situação prevista na última parte do número anterior, as funções de delegado de saúde regional e de delegado de saúde coordenador são asseguradas em regime de substituição, respetivamente nos termos do n.º 5 do artigo 7.º e do n.º 7 do artigo 8.º, até à designação de novo titular nos termos do presente decreto-lei.
+
+13 - Mediante despacho do diretor-geral da Saúde, sob proposta fundamentada do delegado de saúde regional e ouvidos os conselhos de administração das ULS intervenientes, pode ser autorizado aos delegados de saúde-coordenadores e delegados de saúde o exercício de funções de autoridade de saúde em área geográfica diferente daquela para que estão designados, desde que a intervenção se situe na circunscrição territorial da respetiva região de saúde, haja concordância do interessado e sem prejuízo do disposto em legislação especial sobre a matéria.
+
+14 - A autorização dada nos termos do disposto no número anterior tem caráter excecional e temporário, e é concedida por períodos até um ano, que podem ser renovados até um máximo de três anos.
+
+15 - A proposta do delegado de saúde regional a que se refere o n.º 13 deve especificar os motivos que justificam o pedido e o respetivo prazo de duração daquele exercício de funções.
+
+16 - Nas situações em que da aplicação do disposto no n.º 13 resulte para os delegados de saúde coordenadores e delegados de saúde a acumulação de funções com o exercício de funções de autoridade de saúde em área geográfica diferente daquela para que estão designados, não há lugar à acumulação de remunerações.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+> Retificado pelo/a [Declaração de Retificação n.º 51/2013 - Diário da República n.º 234/2013, Série I de 2013-12-03](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/51-2013-484172), em vigor a partir de 2013-10-09
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2013 - Diário da República n.º 192/2013, Série I de 2013-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190), em vigor a partir de 2013-10-09
+
+###### Artigo 5.º — Atribuições e competências
+
+1 - As autoridades de saúde asseguram a intervenção oportuna e discricionária do Estado em situações de grave risco para a saúde pública, competindo-lhes, ainda, a vigilância das decisões dos órgãos e serviços operativos do Estado em matéria de saúde pública.
+
+2 - Para efeitos do disposto no número anterior, as autoridades de saúde podem utilizar todos os meios necessários, proporcionais e limitados aos riscos identificados que considerem prejudiciais à saúde dos cidadãos ou dos aglomerados populacionais envolvidos.
+
+3 - Às autoridades de saúde compete, em especial, de acordo com o nível hierárquico técnico e com a área geográfica e administrativa de responsabilidade:
+
+a) Vigiar o nível sanitário dos aglomerados populacionais, dos serviços, estabelecimentos e locais de utilização pública e determinar as medidas correctivas necessárias à defesa da saúde pública;
+
+b) Ordenar a interrupção ou suspensão de actividades ou serviços, bem como o encerramento dos estabelecimentos e locais referidos na alínea anterior onde tais actividades se desenvolvam em condições de grave risco para a saúde pública;
+
+c) Desencadear, de acordo com a Constituição e a lei, o internamento ou a prestação compulsiva de cuidados de saúde a indivíduos em situação de prejudicarem a saúde pública;
+
+d) Exercer a vigilância sanitária no território nacional de ocorrências que derivem do tráfego e comércio internacionais;
+
+e) Proceder à requisição de serviços, estabelecimentos e profissionais de saúde em caso de epidemias graves e outras situações semelhantes.
+
+4 - Quando ocorram situações de emergência grave em saúde pública, em especial situações de calamidade ou catástrofe, o membro do Governo responsável pela área da saúde toma as medidas necessárias de excepção que forem indispensáveis, coordenando a actuação dos serviços centrais do Ministério com as instituições e serviços do Serviço Nacional de Saúde e as autoridades de saúde de nível nacional, regional e municipal.
+
+###### Artigo 6.º — Autoridade de saúde nacional
+
+1 - Enquanto autoridade de saúde nacional, compete ao director-geral da Saúde:
+
+a) Supervisionar a atividade das autoridades de saúde em todas as áreas de competência, incluindo o cumprimento do Regulamento Sanitário Internacional;
+
+b) Coordenar o funcionamento global da rede de autoridades de saúde;
+
+c) Exercer a coordenação nacional de vigilância epidemiológica, nos termos de legislação própria;
+
+d) Exercer em situações de grave emergência em saúde pública, designadamente em casos de epidemias graves, mediante declaração pública do membro do Governo responsável pela área da saúde, as competências de requisição de serviços, estabelecimentos e profissionais de saúde.
+
+2 - O director-geral da Saúde enquanto autoridade de saúde nacional é substituído nos seus impedimentos por um subdirector-geral por ele designado, com a especialidade de saúde pública, ou por um delegado regional de saúde expressamente por ele designado para o efeito.
+
+3 - O apoio técnico e logístico à autoridade de saúde nacional é prestado pela Direção-Geral da Saúde.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2013 - Diário da República n.º 192/2013, Série I de 2013-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190), em vigor a partir de 2013-10-09
+
+###### Artigo 7.º — Autoridades de saúde de âmbito regional
+
+1 - As autoridades de saúde de âmbito regional, também designadas por delegados de saúde regionais, estão sediadas nas delegações regionais de saúde da Direção-Geral da Saúde (DGS).
+
+2 - À autoridade de saúde de âmbito regional compete:
+
+a) Coordenar e supervisionar o exercício de competências de autoridade de saúde na respectiva região;
+
+b) Fazer cumprir as normas que tenham por objeto a defesa da saúde pública, requerendo, quando necessário, o apoio das autoridades administrativas e policiais;
+
+c) Exercer a coordenação regional da vigilância epidemiológica, nos termos da legislação aplicável;
+
+d) Levantar autos relativos às infracções e instruir os respectivos processos, solicitando, quando necessário, o concurso das autoridades administrativas e policiais, para o bom desempenho das suas funções;
+
+e) Exercer os demais poderes que lhe sejam atribuídos por lei ou que lhe hajam sido superiormente delegados ou subdelegados pela autoridade de saúde nacional;
+
+f) Prestar a colaboração que lhe seja solicitada pelas ULS dentro da sua competência;
+
+g) Fazer cumprir as normas do Regulamento Sanitário Internacional.
+
+3 - A autoridade de saúde regional é coadjuvada por um delegado de saúde regional-adjunto, conforme proposta fundamentada a apresentar pelo delegado de saúde regional ao diretor-geral da Saúde.
+
+4 - Os delegados de saúde regionais adjuntos exercem as competências que lhe forem delegadas pelo delegado de saúde regional.
+
+5 - A autoridade de saúde regional é substituída nas suas ausências e impedimentos pelo delegado de saúde regional adjunto que aquela autoridade designar ou, não sendo possível, por um delegado de saúde coordenador por ele designado, mediante comunicação prévia à autoridade de saúde nacional.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2013 - Diário da República n.º 192/2013, Série I de 2013-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190), em vigor a partir de 2013-10-09
+
+###### Artigo 8.º — Autoridade de saúde a nível local
+
+1 - A autoridade de saúde de nível local, também designada por delegado de saúde-coordenador, está sediada na unidade de saúde pública das ULS e exerce as suas competências no âmbito geográfico territorialmente competente.
+
+2 - Para cada unidade local de saúde é designado um delegado de saúde-coordenador e um ou mais delegados de saúde, nos termos do número seguinte.
+
+3 - Em cada ULS o delegado de saúde-coordenador é coadjuvado por delegados de saúde, segundo um rácio de um delegado de saúde por cada 75 mil habitantes residentes na área de intervenção.
+
+4 - Nos municípios com mais de uma ULS, é designado pelo delegado regional de saúde o delegado de saúde que se articula com as instituições externas ao Serviço Nacional de Saúde, para efeitos de normalização e de aplicação de procedimentos de âmbito municipal.
+
+5 - À autoridade de saúde de nível local compete, na sua área de influência:
+
+a) Coordenar e supervisionar o exercício de autoridade de saúde no respectivo âmbito geodemográfico;
+
+b) Fazer cumprir as normas que tenham por objeto a defesa da saúde pública, requerendo, quando necessário, o apoio das autoridades administrativas e policiais;
+
+c) Exercer a coordenação a nível local da vigilância e investigação epidemiológica, nos termos da legislação aplicável;
+
+d) Levantar autos relativos às infracções e instruir os respectivos processos, solicitando, quando necessário, o concurso das autoridades administrativas e policiais, para o bom desempenho das suas funções;
+
+e) Exercer os demais poderes que lhe sejam atribuídos por lei ou que lhe hajam sido superiormente delegados ou subdelegados pela autoridade de saúde regional;
+
+f) Colaborar, dentro da sua área de competência, com as unidades de saúde do seu âmbito geodemográfico;
+
+g) Colaborar, dentro da sua área de competência, com os municípios do seu âmbito geográfico, em actividades conjuntas, definidas em legislação específica.
+
+h) Fazer cumprir as normas do Regulamento Sanitário Internacional.
+
+6 - A autoridade de saúde local é coadjuvada, no mínimo por um delegado de saúde, a quem compete, na sua área de influência, prosseguir as competências previstas nas alíneas b), e), f), g) e h) do número anterior.
+
+7 - A autoridade de saúde local é substituída nas suas ausências e impedimentos pelo delegado de saúde por ele designado, mediante comunicação prévia à autoridade de saúde regional.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2013 - Diário da República n.º 192/2013, Série I de 2013-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190), em vigor a partir de 2013-10-09
+
+###### Artigo 9.º — Funções da autoridade de saúde
+
+1 - As funções inerentes ao exercício do poder de autoridade de saúde são exercidas com autonomia técnica e são independentes das de natureza operativa dos serviços de saúde.
+
+2 - As autoridades de saúde, no exercício do seu poder e competências, dispõem de apoio, a nível técnico, jurídico, de recursos humanos e logístico, que é assegurado pela DGS, a nível nacional e regional, bem como pelas ULS das respetivas áreas de intervenção.
+
+3 - As autoridades de saúde podem, no âmbito territorial competente, delegar nos profissionais que integram os respectivos serviços de saúde pública, de acordo com as áreas específicas de intervenção, a execução de actos materiais compreendidos no exercício das suas competências, desde que observados os requisitos de qualificação profissional necessários ao exercício das mesmas.
+
+> Alterado pelo/a Artigo 18.º do/a [Decreto-Lei n.º 54/2024 - Diário da República n.º 173/2024, Série I de 2024-09-06](https://diariodarepublica.pt/dr/detalhe/decreto-lei/54-2024-887091776), em vigor a partir de 2024-10-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 135/2013 - Diário da República n.º 192/2013, Série I de 2013-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190), em vigor a partir de 2013-10-09
+
+###### Artigo 10.º — Remuneração
+
+Os médicos no exercício efectivo de funções de autoridade de saúde que impliquem a obrigatoriedade de apresentação ao serviço sempre que solicitados têm direito a um suplemento remuneratório, cujo montante pecuniário e condições de pagamento são fixados por portaria conjunta dos membros do Governo responsáveis pelas áreas das finanças, da Administração Pública e da saúde.
+
+###### Artigo 11.º — Conselho de Autoridades de Saúde
+
+1 - É criado o Conselho de Autoridades de Saúde, adiante designado por Conselho, com natureza consultiva e de apoio à autoridade de saúde nacional, com a seguinte composição:
+
+a) O director-geral da Saúde, que preside;
+
+b) Os directores regionais de saúde das Regiões Autónomas;
+
+c) Os delegados de saúde regionais;
+
+d) Um delegado de saúde a designar pelos respectivos pares em cada região;
+
+e) Três personalidades de reconhecido mérito da saúde pública nomeados pelo director-geral da Saúde.
+
+2 - Ao Conselho compete:
+
+a) Emitir pareceres em matérias que lhe sejam solicitadas;
+
+b) Propor medidas normativas adequadas ao bom funcionamento da rede de autoridades de saúde;
+
+c) Propor a realização de estudos para harmonização de procedimentos das autoridades de saúde, com o objectivo de garantir soluções adequadas ao funcionamento integrado e coerente da rede;
+
+d) Pronunciar-se, a pedido dos membros do Governo ou de qualquer membro do Conselho, sobre aspectos de ética, sociais e legais, designadamente sobre publicitação, divulgação e disseminação de informações relacionadas com a saúde pública.
+
+3 - O Conselho reúne ordinariamente três vezes por ano e, extraordinariamente, sempre que seja convocado pelo presidente.
+
+4 - Os termos de organização e funcionamento do Conselho de Autoridades de Saúde constam de regulamento interno a aprovar na primeira reunião após a sua constituição.
+
+5 - O exercício das funções referidas nos números anteriores não é remunerado.
+
+###### Artigo 12.º — Dever de colaboração das instituições públicas e privadas
+
+1 - É reconhecido às autoridades de saúde o direito de acesso à informação necessária ao exercício das suas funções, relevante para a salvaguarda da saúde pública, devendo as instituições públicas e privadas fornecer os dados por aquelas considerados essenciais.
+
+2 - É, ainda, reconhecido às autoridades de saúde o direito de acesso a serviços, instituições ou locais abertos ao público, no exercício das suas funções.
+
+###### Artigo 13.º — Recurso hierárquico
+
+1 - Dos actos praticados pelos delegados de saúde regionais e seus adjuntos e pelos delegados de saúde e seus adjuntos no exercício do poder de autoridade cabe recurso hierárquico para a autoridade de saúde nacional.
+
+2 - A tramitação do processo gracioso referido no número anterior rege-se pelo disposto no Código de Procedimento Administrativo.
+
+###### Artigo 14.º — Apoio jurídico e patrocínio judiciário
+
+Os titulares dos poderes de autoridade de saúde que sejam arguidos ou parte em processo administrativo ou judicial, por acto cometido ou ocorrido no exercício e por causa das suas funções, têm direito a assistência jurídica, nas modalidades de apoio jurídico e patrocínio judiciário, a assegurar pela Direcção-Geral da Saúde.
+
+###### Artigo 15.º — Remissão
+
+As referências à autoridade sanitária, à autoridade regional de saúde e seus adjuntos e às autoridades concelhias de saúde e seus adjuntos constantes de outros decretos-leis consideram-se feitas às autoridades de saúde criadas nos termos do presente decreto-lei.
+
+###### Artigo 16.º — Sanções
+
+A desobediência a ordem ou a mandado legítimos, regularmente comunicados e emanados da autoridade de saúde, é punida nos termos da lei penal.
+
+###### Artigo 16.º-A — Regiões Autónomas
+
+O presente decreto-lei é aplicável no território nacional, sem prejuízo da salvaguarda das competências dos órgãos de governo próprio das Regiões Autónomas.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 135/2013 - Diário da República n.º 192/2013, Série I de 2013-10-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/135-2013-500190), em vigor a partir de 2013-10-09
+
+###### Artigo 17.º — Disposição transitória
+
+As autoridades de saúde nomeadas ao abrigo do Decreto-Lei n.º 336/93, de 29 de Setembro, mantêm-se no exercício das suas funções até que se proceda às novas designações, nos termos do artigo 4.º
+
+###### Artigo 18.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 336/93, de 29 de Setembro.
+
+###### Artigo 19.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor 90 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 21 de Janeiro de 2009. - José Sócrates Carvalho Pinto de Sousa - Fernando Teixeira dos Santos - Alberto Bernardes Costa - Manuel António Gomes de Almeida de Pinho - Francisco Ventura Ramos.
+
+Promulgado em 23 de Março de 2009.
+
+Publique-se.
+
+O Presidente da República, Aníbal Cavaco Silva.
+
+Referendado em 26 de Março de 2009.
+
+O Primeiro-Ministro, José Sócrates Carvalho Pinto de Sousa.

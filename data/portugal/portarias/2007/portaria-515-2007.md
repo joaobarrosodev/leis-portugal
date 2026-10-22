@@ -1,0 +1,253 @@
+---
+schema_version: '1.0'
+id: pt:dre:521193:por
+title: Portaria n.º 515/2007
+short_title: null
+summary: Estabelece a estrutura nuclear da Direcção-Geral da Administração da Justiça e as competências das respectivas unidades
+  orgânicas
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Justiça
+proposing_entity: null
+official_number: 515/2007
+official_date: null
+publication_date: '2007-04-30'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 83/2007, Série I de 2007-04-30
+  number: '83'
+  series: I
+  supplement: null
+  pages: 2820 - 2822
+  pdf_url: https://files.diariodarepublica.pt/1s/2007/04/08300/28202822.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/515/2007/04/30/p/dre/pt/html
+  oj: null
+  dre: '521193'
+  dre_path: /dr/detalhe/portaria/515-2007-521193
+  internal: pt:dre:521193:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/515-2007-521193
+  metadata_url: https://data.dre.pt/eli/port/515/2007/04/30/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/515-2007-521193
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-11-29T00:00:00Z'
+integrity:
+  source_sha256: d99eeb030f99b63066773b64518ef8542f2fd82ede95c3e4a1440241b1a47c02
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2007/DRE-2007-515-521193.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Definição de Competências
+- Orgânica
+- Direcção Geral da Administração da Justiça
+relationships:
+- type: amended_by
+  target: pt:dre:190611:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/124/2007/04/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/124/2007/04/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/343/1999/08/26/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/4/2004/01/15/p/dre
+article_structure:
+  article_count: 8
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 515/2007
+
+de 30 de Abril
+
+O [Decreto-Lei n.º 124/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/124-2007-521001), de 27 de Abril, definiu a missão, atribuições e tipo de organização interna da Direcção-Geral da Administração da Justiça. Importa agora, no desenvolvimento daquele decreto-lei, determinar a estrutura nuclear dos serviços e as competências das respectivas unidades orgânicas.
+
+Assim:
+
+Ao abrigo do n.º 4 do artigo 21.º da [Lei n.º 4/2004](https://diariodarepublica.pt/dr/detalhe/lei/4-2004-603475), de 15 de Janeiro:
+
+Manda o Governo, pelos Ministros de Estado e das Finanças e da Justiça, o seguinte:
+
+###### Artigo 1.º — Estrutura nuclear da Direcção-Geral da Administração da Justiça
+
+A Direcção-Geral da Administração da Justiça, abreviadamente designada por DGAJ, estrutura-se nas seguintes unidades orgânicas nucleares:
+
+a) Direcção de Serviços de Administração Judicial;
+
+b) Direcção de Serviços de Identificação Criminal;
+
+c) Direcção de Serviços de Gestão Financeira;
+
+d) Direcção de Serviços de Recursos Humanos;
+
+e) Direcção de Serviços de Sistemas de Informação, Infra-Estruturas e Equipamentos;
+
+f) Centro de Formação de Funcionários de Justiça.
+
+###### Artigo 2.º — Direcção de Serviços de Administração Judicial
+
+À Direcção de Serviços de Administração Judicial, abreviadamente designada por DSAJ, compete:
+
+a) Participar na concepção e execução das medidas de organização e modernização dos tribunais;
+
+b) Monitorizar a actividade dos tribunais;
+
+c) Acompanhar o movimento processual dos tribunais com vista, nomeadamente, à elaboração de propostas de criação e extinção de tribunais e juízos e de racionalização dos recursos humanos;
+
+d) Prestar apoio técnico à actividade das secretarias nas matérias que não sejam da competência das restantes direcções de serviços;
+
+e) Colaborar com a Direcção-Geral de Política de Justiça na recolha, tratamento e difusão dos elementos de informação, nomeadamente de natureza estatística, relativos aos tribunais;
+
+f) Prestar apoio jurídico no âmbito das atribuições da DGAJ e do normal desenvolvimento das respectivas actividades;
+
+g) Garantir o suporte técnico à organização e funcionamento dos arquivos dos tribunais;
+
+h) Assegurar a execução do expediente relativo às cartas rogatórias e a outros actos que apresentem conexão com ordenamentos jurídicos estrangeiros, nos termos dos respectivos tratados e convenções.
+
+###### Artigo 3.º — Direcção de Serviços de Identificação Criminal
+
+À Direcção de Serviços de Identificação Criminal, abreviadamente designada por DSIC, compete:
+
+a) Assegurar a recolha, o tratamento e a conservação dos extractos de decisões judiciais, de comunicações de factos e de outros elementos transmitidos pelos tribunais, sujeitos a inscrição no registo criminal, no registo de contumazes e no registo de medidas tutelares educativas, promovendo a identificação dos titulares da informação registada;
+
+b) Assegurar a concretização das formas de acesso à informação previstas na lei;
+
+c) Exercer as competências que a legislação reguladora da identificação criminal lhe comete.
+
+###### Artigo 4.º — Direcção de Serviços de Gestão Financeira
+
+À Direcção de Serviços de Gestão Financeira, abreviadamente designada por DSGF, compete:
+
+a) Gerir os orçamentos da responsabilidade da DGAJ;
+
+b) Coordenar a elaboração, a execução e proceder à avaliação da gestão orçamental, financeira e contabilística dos tribunais sem autonomia administrativa;
+
+c) Elaborar os documentos de gestão previsional e de prestação de contas;
+
+d) Arrecadar receitas;
+
+e) Assegurar a realização dos procedimentos de aquisição de bens e serviços;
+
+f) Colaborar com os administradores dos tribunais e os secretários de justiça na aquisição de bens e serviços;
+
+g) Colaborar com os serviços da DGAJ, com os administradores dos tribunais e com os secretários de justiça no planeamento dos seus projectos e actividades e respectiva orçamentação e no estabelecimento de medidas de controlo interno.
+
+###### Artigo 5.º — Direcção de Serviços de Recursos Humanos
+
+À Direcção de Serviços de Recursos Humanos, abreviadamente designada por DSRH, compete:
+
+a) Programar e executar as acções relativas à gestão e administração dos funcionários de justiça e do pessoal da DGAJ;
+
+b) Realizar estudos de gestão previsional de pessoal;
+
+c) Coligir e organizar a informação relativa aos recursos humanos, visando a sua gestão optimizada;
+
+d) Assegurar a realização das acções de recrutamento e selecção de pessoal;
+
+e) Processar as remunerações dos funcionários de justiça e do pessoal da DGAJ;
+
+f) Realizar os concursos de recrutamento e selecção dos administradores dos tribunais;
+
+g) Realizar os concursos de recrutamento e selecção dos peritos avaliadores e providenciar pela publicação anual das respectivas listas.
+
+###### Artigo 6.º — Direcção de Serviços de Sistemas de Informação, Infra-Estruturas e Equipamentos
+
+À Direcção de Serviços de Sistemas de Informação, Infra-Estruturas e Equipamentos, abreviadamente designada por DSSIIEE, compete:
+
+a) Assegurar, nomeadamente em colaboração com o Instituto das Tecnologias de Informação na Justiça, I. P., a implementação, funcionamento, desenvolvimento e evolução dos sistemas de informação e de comunicação;
+
+b) Programar as necessidades de instalações dos tribunais e colaborar com o Instituto de Gestão Financeira e de Infra-Estruturas da Justiça, I. P., no planeamento e na execução de obras de construção, remodelação ou conservação;
+
+c) Promover e desenvolver as acções necessárias à racionalização dos recursos materiais afectos aos tribunais;
+
+d) Assegurar o fornecimento e a manutenção dos equipamentos dos tribunais, em articulação com o Instituto das Tecnologias de Informação na Justiça, I. P., e com a estrutura do Ministério da Justiça responsável por aquisições;
+
+e) Assegurar a concepção de sistemas integrados de segurança;
+
+f) Colaborar na realização dos procedimentos de aquisição de bens e serviços;
+
+g) Colaborar com os administradores dos tribunais e os secretários de justiça na conservação de instalações e equipamentos;
+
+h) Assegurar a gestão e conservação do património e das instalações da DGAJ;
+
+i) Assegurar a gestão da frota automóvel da DGAJ;
+
+j) Assegurar os serviços de duplicação e encadernação e gerir o parque gráfico;
+
+l) Promover a execução e a gestão dos impressos de modelo exclusivo da DGAJ.
+
+###### Artigo 7.º — Centro de Formação de Funcionários de Justiça
+
+1 - Ao Centro de Formação de Funcionários de Justiça, abreviadamente designado CFFJ, compete:
+
+a) Programar e executar as acções de formação dos funcionários de justiça;
+
+b) Programar e executar igualmente as acções de formação do pessoal da DGAJ;
+
+c) Elaborar o plano e o relatório anuais de formação;
+
+d) Propor a nomeação dos formadores-coordenadores bem como a designação dos demais formadores;
+
+e) Propor os programas das provas para ingresso e acesso;
+
+f) Organizar as acções de formação dos candidatos a oficial de justiça admitidos ao curso de habilitação a que se refere o artigo 8.º do Estatuto dos Funcionários de Justiça (EFJ), aprovado pelo [Decreto-Lei n.º 343/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/343-1999-428653), de 26 de Agosto;
+
+g) Colaborar com os serviços do Ministério da Educação e com os estabelecimentos de ensino que ministram o curso a que se refere o n.º 2 do artigo 7.º do EFJ, no planeamento da formação técnica e tecnológica do referido curso;
+
+h) Prestar informações e emitir pareceres de natureza técnico-processual;
+
+i) Elaborar e difundir manuais, textos de apoio e outros documentos de suporte à formação profissional dos oficiais de justiça;
+
+j) Organizar acções de formação, estágios e visitas de estudo decorrentes de acordos de cooperação celebrados com outros países.
+
+2 - O CFFJ é dirigido por um director, cargo de direcção intermédia de 1.º grau.
+
+###### Artigo 8.º — Entrada em vigor
+
+A presente portaria entra em vigor no 1.º dia do mês seguinte ao da sua publicação.
+
+**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos, em 24 de Abril de 2007. - O Ministro da Justiça, Alberto Bernardes Costa, em 26 de Abril de 2007.**

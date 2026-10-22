@@ -1,0 +1,234 @@
+---
+schema_version: '1.0'
+id: pt:dre:462618:por
+title: Decreto n.º 107/80
+short_title: null
+summary: Aprova o Acordo Comercial e de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo
+  da República Argentina
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministério dos Negócios Estrangeiros - Direcção-Geral dos Negócios Económicos
+proposing_entity: null
+official_number: 107/80
+official_date: null
+publication_date: '1980-10-16'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 240/1980, Série I de 1980-10-16
+  number: '240'
+  series: I
+  supplement: null
+  pages: 3418 - 3421
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/10/24000/34183421.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '462618'
+  dre_path: /dr/detalhe/decreto/107-1980-462618
+  internal: pt:dre:462618:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/107-1980-462618
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/107-1980-462618
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1980-10-16T00:00:00Z'
+integrity:
+  source_sha256: 9a46a68e3106f587a2c9835d890e0f487503f1343d2c4794be5b7c9a7ab0edc1
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-107-462618.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 107/80
+
+de 16 de Outubro
+
+O Governo decreta, nos termos da alínea c) do artigo 200.º da Constituição, o seguinte:
+
+###### Artigo único. É aprovado o Acordo Comercial e de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República Argentina, assinado em Buenos Aires a 22 de Abril de 1980, cujos textos nas línguas portuguesa e castelhana acompanham o presente decreto.
+
+Visto e aprovado em Conselho de Ministros de 9 de Julho de 1980. - Francisco Sá Carneiro - Diogo Pinto de Feitas do Amaral.
+
+**Assinado em 1 de Outubro de 1980.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Acordo Comercial e de Cooperação Económica e Técnica entre o Governo da República Portuguesa e o Governo da República Argentina.
+
+O Governo da República Portuguesa e o Governo da República Argentina, a seguir designados por Partes Contratantes:
+
+Animados pelo desejo de intensificar as relações de amizade existentes entre ambos os países, e
+
+Considerando de interesse comum promover e diversificar as relações comerciais e a cooperação económica e técnica numa base de igualdade e de benefício mútuo,
+
+acordaram no seguinte:
+
+###### ARTIGO 1.º
+
+Ambas as Partes Contratantes desenvolverão todos os esforços, de conformidade com as leis e regulamentos em vigor nos países respectivos e com os seus compromissos internacionais, para intensificar as trocas comerciais e a cooperação económica e técnica entre os dois países.
+
+###### ARTIGO 2.º
+
+As Partes Contratantes ater-se-ão, no que se refere a todos os produtos procedentes da área da outra Parte Contratante, às disposições do Acordo Geral sobre Tarifas e Comércio (GATT), particularmente ao princípio da cláusula da nação mais favorecida.
+
+###### ARTIGO 3.º
+
+As disposições do artigo 2.º não se aplicam às vantagens:
+
+a) Concedidas ou que poderão ser concedidas no futuro por uma Parte Contratante a um terceiro país, com o objectivo de facilitar o tráfego fronteiriço com os países limítrofes;
+
+b) Resultantes de uniões aduaneiras ou de zonas de trocas livres concluídas ou que poderão ser concluídas no futuro por uma das Partes Contratantes e ou de acordos regionais e sub-regionais de integração económica em que qualquer das Partes participe ou venha a participar.
+
+###### ARTIGO 4.º
+
+Com vista a encorajar o desenvolvimento das relações económicas e comerciais entre os dois países, as Partes Contratantes concederão, reciprocamente, as facilidades necessárias à organização ou participação em feiras e exposições no quadro das suas leis e regulamentos respectivos.
+
+###### ARTIGO 5.º
+
+Em conformidade com as leis e regulamentos em vigor em cada um dos dois países, serão isentos de direitos aduaneiros, aquando da sua entrada no território aduaneiro de uma das Partes Contratantes, os seguintes artigos provenientes do território da outra Parte:
+
+1) Amostras comerciais gratuitas;
+
+2) Catálogos, listas de preços, prospectos e outros materiais de informação;
+
+3) Artigos e materiais destinados às feiras e exposições, com a condição de serem reexportados.
+
+###### ARTIGO 6.º
+
+A fim de facilitar a concretização dos objectivos enunciados no presente Acordo, as Partes Contratantes acordam em que organismos ou empresas dos dois países poderão negociar acordos a longo prazo sobre mercadorias que apresentem um interesse particular para os dois países.
+
+###### ARTIGO 7.º
+
+As Partes Contratantes, reconhecendo o interesse de chegar a um melhor conhecimento recíproco das suas previsões a médio e longo prazo, fomentarão as trocas de informações e os contactos técnicos entre os organismos competentes dos dois países para favorecer o desenvolvimento da cooperação.
+
+###### ARTIGO 8.º
+
+As Partes Contratantes, dentro das suas possibilidades e em conformidade com as suas respectivas legislações vigentes, promoverão a realização de projectos de cooperação económica e técnica naqueles sectores da economia que ofereçam possibilidades mais favoráveis, particularmente nos seguintes:
+
+Agricultura e agro-indústria;
+
+Pesca, indústria de processamento e outras conexas com a pesca;
+
+Florestal;
+
+Exploração e aproveitamento de recursos minerais;
+
+Maquinaria para o sector agro-pecuário;
+
+Indústria de celulose e papel;
+
+Indústria farmacêutica;
+
+Indústria química e petroquímica;
+
+Recursos hídricos e seus aproveitamentos;
+
+Engenharia civil (estudos, projectos e construção);
+
+Máquinas-ferramentas e outros bens de equipamento;
+
+Telecomunicações;
+
+Transportes (infra-estruturas e material rolante);
+
+Construção e reparação naval;
+
+Construção de estaleiros navais e de instalações portuárias.
+
+###### ARTIGO 9.º
+
+A cooperação a que se refere o presente Acordo compreenderá em especial:
+
+a) Estudo e execução conjunta de projectos de desenvolvimento em sectores de interesse recíproco;
+
+b) Constituição conjunta de sociedades para a produção e/ou comercialização;
+
+c) Intercâmbio de tecnologia, informação técnica, cessão de patentes e licenças;
+
+d) Intercâmbio e formação de técnicos e especialistas ligados aos programa concretos de cooperação.
+
+###### ARTIGO 10.º
+
+As Partes Contratantes acordam em que os pagamentos resultantes das operações realizadas no quadro do presente Acordo sejam efectuados em divisas livremente convertíveis e em conformidade com a regulamentação em vigor em cada país.
+
+###### ARTIGO 11.º
+
+A fim de coordenar as acções a desenvolver entre os dois países, assim como examinar os problemas que possam apresentar-se durante a aplicação do presente Acordo, é criada uma comissão mista composta por representantes dos dois Governos, com eventual assistência de peritos e representantes do sector privado. a comissão mista reunir-se-á, alternadamente em Buenos Aires e em Lisboa, em princípio uma vez por ano, assim como todas as vezes que os Governos o julgarem necessário e oportuno.
+
+A comissão mista procederá, sem que o presente enunciado seja taxativo ou limitativo, a:
+
+a) Examinar a evolução de execução do presente Acordo;
+
+b) Individualizar os sectores de interesse comum, nos quais seja possível concretizar formas de cooperação;
+
+c) Examinar os projectos e iniciativas conducentes a implementar formas de cooperação;
+
+d) Propor aos respectivos Governos a adopção de medidas que considerem mais adequadas para facilitar a aplicação do presente Acordo.
+
+Nos casos de especial urgência, ou sempre que as Partes Contratantes o considerem oportuno, poderão os projectos e as iniciativas a realizar no quadro da cooperação recíproca ser apresentados pelos dois Governos através dos canais diplomáticos.
+
+###### ARTIGO 12.º
+
+Em caso de expiração do presente Acordo, as suas disposições aplicar-se-ão a todas as obrigações ainda não cumpridas e aos contratos concluídos durante o seu período de validade mas que não tenham sido inteiramente executados.
+
+###### ARTIGO 13.º
+
+O presente Acordo aplicar-se-á provisoriamente a partir da data da sua assinatura e entrará em vigor após troca pelas Partes dos respectivos instrumentos da ratificação.
+
+Terá uma duração de cinco anos desde a sua entrada em vigor e será prorrogado automaticamente por paríodos sucessivos de um ano, se nenhuma das Partes Contratantes o denunciar por escrito seis meses antes da sua expiração.
+
+Feito em Buenos Aires no dia 22 do mês de Abril de 1980, em dois exemplares originais, um em língua portuguesa e outro em língua espanhola, ambos os textos fazendo igualmente fé.
+
+Pelo Governo da República Portuguesa:
+
+(Assinatura ilegível.)
+
+Pelo Governo da República Argentina:
+
+(Assinatura ilegível.)
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1980/10/24000/34183421.pdf))](https://files.diariodarepublica.pt/1s/1980/10/24000/34183421.pdf)

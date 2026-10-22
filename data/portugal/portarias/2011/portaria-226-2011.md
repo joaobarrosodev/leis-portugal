@@ -1,0 +1,310 @@
+---
+schema_version: '1.0'
+id: pt:dre:670039:por
+title: Portaria n.º 226/2011
+short_title: null
+summary: Aprova o Regulamento do Curso de Formação Específico para a Integração de Trabalhadores na Carreira Especial de Inspecção
+  Aplicável à Inspecção-Geral da Defesa Nacional
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministérios das Finanças e da Administração Pública e da Defesa Nacional
+proposing_entity: null
+official_number: 226/2011
+official_date: null
+publication_date: '2011-06-08'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 111/2011, Série I de 2011-06-08
+  number: '111'
+  series: I
+  supplement: null
+  pages: 3064 - 3066
+  pdf_url: https://files.diariodarepublica.pt/1s/2011/06/11100/0306403066.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/226/2011/06/08/p/dre/pt/html
+  oj: null
+  dre: '670039'
+  dre_path: /dr/detalhe/portaria/226-2011-670039
+  internal: pt:dre:670039:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2011-670039
+  metadata_url: https://data.dre.pt/eli/port/226/2011/06/08/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/226-2011-670039
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2011-06-08T00:00:00Z'
+integrity:
+  source_sha256: 882a08c3d39bc68d644f28130f1e8719a0e73a7fd0626cf192fa48b1a900b128
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2011/DRE-2011-226-670039.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Curso de Formação
+- Inspeção Geral da Defesa Nacional
+- Integração de Trabalhadores
+- Regulamento
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/170/2009/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12-a/2008/02/27/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/83-a/2009/01/22/p/dre
+article_structure:
+  article_count: 10
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 226/2011
+
+de 8 de Junho
+
+O [Decreto-Lei n.º 170/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), de 3 de Agosto, em execução do disposto nos novos regimes de vinculação, de carreiras e de remunerações dos trabalhadores que exercem funções públicas, previstos na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, veio estabelecer o regime da carreira especial de inspecção, aplicável aos serviços de inspecção previstos no seu artigo 2.º
+
+Este decreto-lei procede à transição dos trabalhadores integrados nos corpos e carreiras de regime especial das inspecções-gerais, definindo postos de trabalho com modalidade de vínculo e estrutura de carreira próprias, bem como conteúdo e deveres funcionais mais específicos para o exercício da função inspectiva.
+
+Nos termos do disposto nos n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 170/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), de 3 de Agosto, foi estabelecido que a integração de trabalhadores na carreira especial de inspecção depende da aprovação em curso de formação específico, de duração não inferior a seis meses, que deve ter lugar durante o período experimental, e cuja regulamentação deve ser efectua-da por portaria dos membros do Governo responsáveis pela área da Administração Pública e pelo serviço de inspecção.
+
+Considerando que o regime da carreira especial de inspecção se aplica à Inspecção-Geral da Defesa Nacional, serviço que tem por missão assegurar o acompanhamento e avaliação permanentes da execução das políticas na área da defesa, apreciar a legalidade e regularidade dos actos praticados pelas Forças Armadas, serviços e organismos do Ministério da Defesa Nacional e avaliar a gestão e os seus resultados, importa proceder à regulamentação do curso de formação específico para ingresso naquela carreira, a vigorar naquele serviço de inspecção.
+
+Neste contexto, foi tido em consideração, designadamente, o nível de especialização técnica e as características de relacionamento interpessoal indispensáveis ao exercício de funções naquele serviço.
+
+Assim:
+
+Ao abrigo do disposto no n.º 2 do artigo 5.º do [Decreto-Lei n.º 170/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), de 3 de Agosto, manda o Governo, pelos Ministros de Estado e das Finanças e da Defesa Nacional, o seguinte:
+
+###### Artigo 1.º — Objecto
+
+É aprovado, em anexo à presente portaria e da qual faz parte integrante, o Regulamento do Curso de Formação Específico para Integração de Trabalhadores na Carreira Especial de Inspecção Aplicável à Inspecção-Geral da Defesa Nacional.
+
+###### Artigo 2.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Em 5 de Maio de 2011.
+
+**O Ministro de Estado e das Finanças, Fernando Teixeira dos Santos. - O Ministro da Defesa Nacional, Augusto Ernesto Santos Silva.**
+
+REGULAMENTO DO CURSO DE FORMAÇÃO ESPECÍFICO PARA INTEGRAÇÃO DE TRABALHADORES NA CARREIRA ESPECIAL DE INSPECÇÃO APLICÁVEL À INSPECÇÃO-GERAL DA DEFESA NACIONAL.
+
+###### Artigo 1.º — Objecto
+
+O presente Regulamento estabelece os termos da organização, duração, conteúdo e avaliação do curso de formação específico para integração na carreira especial de inspecção, a que se refere o artigo 5.º do [Decreto-Lei n.º 170/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), de 3 de Agosto, aplicável à Inspecção-Geral da Defesa Nacional (IGDN).
+
+###### Artigo 2.º — Âmbito de aplicação
+
+O Regulamento é aplicável aos trabalhadores nomeados na sequência de procedimento concursal para a ocupação de postos de trabalho previstos no mapa de pessoal da IGDN, caracterizados pela integração na carreira especial de inspecção, nos termos do disposto no n.º 2 do artigo 4.º do [Decreto-Lei n.º 170/2009](https://diariodarepublica.pt/dr/detalhe/decreto-lei/170-2009-493034), de 3 de Agosto.
+
+###### Artigo 3.º — Duração e fases do curso
+
+O curso de formação específico tem a duração de seis meses e compreende as seguintes fases:
+
+a) Formação teórica, com a duração de dois meses;
+
+b) Formação em contexto de trabalho, com a duração de quatro meses.
+
+###### Artigo 4.º — Formação teórica
+
+1 - A formação teórica destina-se a:
+
+a) Proporcionar o conhecimento da actividade de controlo desenvolvida pela IGDN e dos direitos e deveres dos trabalhadores da carreira de inspecção;
+
+b) Transmitir um enquadramento teórico das metodologias, procedimentos e técnicas de actuação adoptados pela IGDN;
+
+c) Difundir as regras e boas práticas instituídas e evidenciar o processo de comunicação em auditoria.
+
+2 - A formação teórica abrange, designadamente, o conjunto de conteúdos constante do quadro anexo ao presente Regulamento.
+
+3 - A formação teórica conclui-se com a realização de uma prova de conhecimentos cuja avaliação se traduz numa escala de 0 a 20 valores, considerando-se a valoração até às centésimas.
+
+4 - O resultado da avaliação é comunicado ao trabalhador pelo júri.
+
+###### Artigo 5.º — Formação em contexto de trabalho
+
+1 - A formação em contexto de trabalho visa desenvolver e avaliar as capacidades do trabalhador para o desempenho das funções correspondentes ao posto de trabalho que vai ocupar.
+
+2 - A formação a que se refere o número anterior realiza-se através da participação do trabalhador nas várias fases das acções de controlo e auditoria desenvolvidas pela IGDN.
+
+3 - A participação do trabalhador deve ocorrer mediante a sua integração numa equipa multidisciplinar e implica a supervisão do exercício das tarefas que lhe forem adstritas por um coordenador ou inspector da IGDN, em especial quando envolva a realização de trabalho de campo junto dos órgãos, serviços ou entidades objecto da acção.
+
+###### Artigo 6.º — Avaliação da formação em contexto de trabalho
+
+1 - Decorrido o período de formação em contexto de trabalho, procede-se à avaliação dos conhecimentos e competências adquiridos pelo trabalhador nesta fase do curso de formação.
+
+2 - À avaliação a que se refere o número anterior é aplicável, com as necessárias adaptações, o regime vigente para a avaliação das competências dos demais inspectores da IGDN, sem prejuízo do disposto nos números seguintes.
+
+3 - Os critérios, os factores de apreciação e ponderação e a fórmula classificativa a utilizar para efeitos da avaliação a que se referem os números anteriores são aprovados por despacho do inspector-geral, a publicitar na intranet da IGDN até ao início do período experimental a que respeita o respectivo curso de formação específico.
+
+4 - A formação em contexto de trabalho é avaliada numa escala de 0 a 20 valores, considerando-se a valoração até às centésimas.
+
+5 - O resultado da avaliação da formação em contexto de trabalho é comunicado ao trabalhador pelo júri.
+
+###### Artigo 7.º — Avaliação e ordenação final
+
+1 - A avaliação final traduz-se na média aritmética ponderada da classificação obtida na formação teórica a que se refere o n.º 3 do artigo 4.º, com uma ponderação de 30 %, e da classificação obtida na formação em contexto de trabalho a que se refere o artigo 6.º, com uma ponderação de 70 %.
+
+2 - A avaliação final é expressa numa escala de 0 a 20 valores, considerando-se a valoração até às centésimas, sendo os trabalhadores ordenados em lista final de acordo com essa escala classificativa.
+
+3 - A ordenação dos trabalhadores que se encontrem em situação de igualdade de avaliação final é efectuada de forma decrescente:
+
+a) Segundo a classificação obtida na formação em contexto de trabalho a que se refere o artigo 6.º;
+
+b) Subsistindo a igualdade, pela classificação obtida na formação teórica a que se refere o artigo 4.º
+
+4 - A lista com a classificação e ordenação finais é notificada aos trabalhadores, no prazo de oito dias, para efeitos de audiência prévia.
+
+5 - No prazo de cinco dias após a audição dos interessados, a lista final é submetida à homologação do inspector-geral.
+
+6 - A lista homologada é publicitada na intranet da IGDN e notificada aos respectivos trabalhadores.
+
+7 - São considerados aprovados os trabalhadores que obtenham avaliação final igual ou superior a 9,5 valores.
+
+###### Artigo 8.º — Júri e orientador do curso
+
+1 - O acompanhamento do desenvolvimento do curso de formação específico, designadamente assegurando a articulação e coordenação dos vários intervenientes no mesmo, bem como a avaliação dos trabalhadores abrangidos, compete a um júri designado para o efeito.
+
+2 - Compete ao júri a que se refere o número anterior a elaboração do plano e a calendarização do curso, incluindo a proposta de metodologia de avaliação a que se referem os n.os 2 e 3 do artigo 6.º, e respectiva submissão à aprovação do inspector-geral.
+
+3 - A constituição, composição, funcionamento e competência do júri obedecem, com as devidas adaptações, ao disposto na [Lei n.º 12-A/2008](https://diariodarepublica.pt/dr/detalhe/lei/12-a-2008-468663), de 27 de Fevereiro, e na [Portaria n.º 83-A/2009](https://diariodarepublica.pt/dr/detalhe/portaria/83-a-2009-624401), de 22 de Janeiro.
+
+4 - Por despacho do inspector-geral, é designado um dos membros do júri para exercer as funções de orientador de curso, ao qual incumbe, designadamente, assegurar a prestação do apoio técnico que se afigurar necessário aos trabalhadores, sem prejuízo da orientação hierárquico-funcional existente no concreto contexto de trabalho em que decorra a formação.
+
+5 - O exercício das funções de membro do júri ou de orientador de curso não confere o direito a remuneração ou qualquer outro tipo de compensação financeira.
+
+QUADRO ANEXO
+
+(a que se refere o n.º 2 do artigo 4.º)
+
+Formação teórica
+
+1 - A IGDN no controlo da administração financeira do Estado:
+
+1.1 - Estrutura organizacional e funcionamento;
+
+1.2 - Missão e competências legais;
+
+1.3 - Caracterização da intervenção da IGDN;
+
+1.4 - Tipologia de produtos de auditoria e controlo;
+
+1.5 - O sistema de controlo interno;
+
+1.6 - As responsabilidades no âmbito do controlo externo.
+
+2 - Normas e sistemas para o exercício da profissão de auditor:
+
+2.1 - Normas internacionais de auditoria (INTOSAI, IIA, IFAC e ISACA);
+
+2.2 - O Instituto Português de Auditores Internos;
+
+2.3 - Qualidade no controlo: pessoas, processos e produtos;
+
+2.4 - Normas e boas práticas de controlo;
+
+2.5 - Sistemas de gestão da actividade e de resultados do controlo da IGDN;
+
+2.6 - Tipologia de ilegalidades, erros e irregularidades;
+
+2.7 - Apuramento de responsabilidades na administração financeira do Estado.
+
+3 - Ética, deontologia e atitude profissional do auditor:
+
+3.1 - Ética e deontologia na Administração Pública;
+
+3.2 - Ética e deontologia em auditoria e controlo;
+
+3.3 - Perfil do inspector/auditor público;
+
+3.4 - Valores de referência.
+
+4 - Técnicas e procedimentos de auditoria:
+
+4.1 - Papéis de trabalho;
+
+4.2 - Programas de controlo em auditoria;
+
+4.3 - Softwares específicos para auditoria;
+
+4.4 - Selecção de amostras.
+
+5 - O processo da comunicação em auditoria:
+
+5.1 - Relacionamento auditor/auditado;
+
+5.2 - Conceitos adoptados;
+
+5.3 - Entrevistas/contactos a realizar;
+
+5.4 - Relatórios de auditoria;
+
+5.5 - Acções de acompanhamento.
+
+6 - Controlo da gestão de recursos públicos:
+
+6.1 - Acompanhamento e avaliação da execução das políticas na área da defesa;
+
+6.2 - Conformidade legal da actividade administrativa;
+
+6.3 - Avaliação da gestão e dos seus resultados;
+
+6.4 - Gestão de riscos e fraude;
+
+6.5 - Princípios, regras e responsabilidades na gestão pública de recursos humanos, financeiros e patrimoniais;
+
+6.6 - Contratação pública de bens e serviços.
+
+7 - Legislação:
+
+7.1 - Auditoria;
+
+7.2 - Administração em matérias classificadas;
+
+7.3 - Regime de administração financeira do Estado;
+
+7.4 - Contratação pública;
+
+7.5 - Leis de programação militar e das infra-estruturas militares, e outra específica do sector da defesa nacional;
+
+7.6 - Outra relevante para o sector público.

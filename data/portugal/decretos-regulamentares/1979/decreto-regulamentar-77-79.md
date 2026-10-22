@@ -1,0 +1,103 @@
+---
+schema_version: '1.0'
+id: pt:dre:231288:por
+title: Decreto Regulamentar n.º 77/79
+short_title: null
+summary: Dá nova redacção ao § 2.º do artigo 154.º do Regulamento de Transportes em Automóveis
+jurisdiction: portugal
+territory: null
+document_type: decreto-regulamentar
+document_type_label: Decreto Regulamentar
+issuing_authority:
+- Ministério dos Transportes e Comunicações
+proposing_entity: null
+official_number: 77/79
+official_date: null
+publication_date: '1979-12-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 300/1979, 4º Suplemento, Série I de 1979-12-31
+  number: '300'
+  series: I
+  supplement: 4º Suplemento
+  pages: 3478-(84) a 3478-(84)
+  pdf_url: https://files.diariodarepublica.pt/1s/1979/12/30004/00840084.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '231288'
+  dre_path: /dr/detalhe/decreto-regulamentar/77-1979-231288
+  internal: pt:dre:231288:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/77-1979-231288
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar/77-1979-231288
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1979-12-31T00:00:00Z'
+integrity:
+  source_sha256: 638b9c153eb6e49dd049c5192e6530dfeea5a117e69bfe13e12f15b486f9f6b6
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1979/DRE-1979-77-231288.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar n.º 77/79
+
+de 31 de Dezembro
+
+O § 2.º do artigo 14.º do Regulamento de Transportes em Automóveis, com a redacção dada pelo [Decreto n.º 898/76](https://diariodarepublica.pt/dr/detalhe/decreto/898-1976-416575), de 30 de Dezembro, ao caracterizar o bilhete de assinatura mensal para um número ilimitado de viagens proíbe a sua utilização ao domingo ou qualquer outro dia fixo à escolha do utente.
+
+Considerando que esta disposição, lesiva do interesse dos utentes, contraria também a prática generalizada entre os operadores de transportes, aliás de acordo com a orientação que ressalta das Portarias n.os [169/78](https://diariodarepublica.pt/dr/detalhe/portaria/169-1978-219556), de 29 de Março, e [525/79](https://diariodarepublica.pt/dr/detalhe/portaria/525-1979-403329), de 29 de Setembro, que introduziram as últimas revisões tarifárias, importa eliminar a referida restrição à utilização da assinatura mensal, o que é feito através do presente diploma.
+
+O Governo decreta, nos termos da alínea c) do artigo 202.º da Constituição, o seguinte:
+
+###### Artigo único. O § 2.º do artigo 154.º do Regulamento de Transportes em Automóveis passa a ter a seguinte redacção:
+
+Os bilhetes de assinatura serão mensais, válidos para todos os dias, para um número ilimitado de viagens e referidos a um dado percurso da rede de um concessionário.
+
+Maria de Lourdes Ruivo da Silva Matos Pintasilgo - Frederico Alberto Monteiro da Silva.
+
+**Promulgado em 31 de Dezembro de 1979.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**

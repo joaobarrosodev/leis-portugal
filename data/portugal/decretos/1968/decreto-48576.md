@@ -1,0 +1,120 @@
+---
+schema_version: '1.0'
+id: pt:dre:264907:por
+title: Decreto n.º 48576
+short_title: null
+summary: Regula a execução do disposto nos artigos 1.º e 3.º do Decreto n.º 47575, bem como da Portaria n.º 22606 (transacções
+  de máquinas-ferramentas destinadas ao trabalho de metais)
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Ministérios das Finanças e da Economia - Secretaria de Estado da Indústria
+proposing_entity: null
+official_number: '48576'
+official_date: null
+publication_date: '1968-09-13'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 217/1968, Série I de 1968-09-13
+  number: '217'
+  series: I
+  supplement: null
+  pages: 1448 - 1448
+  pdf_url: https://files.diariodarepublica.pt/1s/1968/09/21700/14481448.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '264907'
+  dre_path: /dr/detalhe/decreto/48576-1968-264907
+  internal: pt:dre:264907:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/48576-1968-264907
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48576-1968-264907
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1968-09-13T00:00:00Z'
+integrity:
+  source_sha256: f9d91956cc4343afdcbda242359a696883da63fc018ff77ec6153f9de0d7d019
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1968/DRE-1968-48576-264907.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 48576
+
+Com vista à defesa da indústria metalomecânica, para evitar que o seu equipamento se faça com máquinas que não satisfaçam aos requisitos da técnica moderna, foi tornada obrigatória, pelo [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, a recepção e verificação de qualidade de máquinas-ferramentas para o trabalho de metais. E pelas Portarias n.os 22604 e 22606, respectivamente de 31 de Março e 1 de Abril de 1967, foram fixadas as normas de recepção a adoptar para cumprimento do determinado naquele decreto, enquanto não existirem normas portuguesas adequadas à nossa conjuntura industrial, mediante a especificação dos diversos tipos de máquinas-ferramentas sujeitas à disciplina do mesmo diploma, mas apenas quando destinadas ao trabalho de metais.
+
+Também o decreto acima referido considera a indústria de máquinas-ferramentas em reorganização por um período de cinco anos.
+
+Convém, pois, regulamentar a execução do disposto nos artigos 1.º e 3.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), bem como da [Portaria n.º 22606](https://diariodarepublica.pt/dr/detalhe/portaria/22606-1967-509216), com o fim de se conseguir o rigoroso cumprimento das normas estabelecidas.
+
+Nesta conformidade:
+
+Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
+
+###### Artigo 1.º As transacções de máquinas-ferramentas destinadas ao trabalho de metais, fabricadas no continente e ilhas adjacentes e sujeitas à obrigatoriedade de recepção e verificação de qualidade, nos termos do artigo 1.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, e da [Portaria n.º 22606](https://diariodarepublica.pt/dr/detalhe/portaria/22606-1967-509216), de 1 de Abril do mesmo ano, serão documentadas com os respectivos certificados de recepção passados pelo Centro de Normalização, os quais deverão ficar em poder do adquirente.
+
+###### Art. 2.º Os certificados de recepção respeitantes às máquinas-ferramentas indicadas no artigo anterior, posteriormente transaccionadas, deverão acompanhar as respectivas facturas ou documentos equivalentes.
+
+§ único. As facturas ou documentos equivalentes deverão conter, além de outros elementos legalmente exigíveis, a especificação dos tipos de máquinas e das competentes normas de recepção e, bem assim, o número e data dos certificados de recepção respectivos.
+
+###### Art. 3.º Todas as máquinas-ferramentas fabricadas no continente e ilhas adjacentes, quer sejam ou não passíveis de verificação de qualidade, deverão ter a marca do fabricante e o número de fabrico, de acordo com as regras previstas nos critérios a que se referem os §§ 1.º e 2.º do artigo 3.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967.
+
+###### Art. 4.º As infracções, ao disposto nos artigos 1.º, 2.º e 3.º do presente diploma são puníveis nos termos e com a multa prevista no n.º 4 do artigo 35.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965.
+
+###### Art. 5.º Independentemente da aplicação das penas previstas no artigo anterior, serão seladas as máquinas-ferramentas indicadas no artigo 1.º, que se encontrem instaladas e em condições de laborar, desde que os seus proprietários não estejam munidos dos respectivos certificados de recepção emitidos pelo Centro de Normalização.
+
+§ único. A selagem das máquinas será feita pela Direcção-Geral dos Serviços Industriais, depois de decorrido um prazo, não inferior a quinze dias, a notificar à empresa proprietária da máquina.
+
+###### Art. 6.º Para efeito da concessão dos benefícios legais previstos no artigo 3.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, caberá ao departamento competente do Ministério das Finanças o recebimento dos processos a instruir, os quais deverão, de acordo com o § 1.º do citado artigo, ser remetidos à Direcção-Geral dos Serviços Industriais.
+
+###### Art. 7.º A fiscalização do cumprimento das obrigações impostas por este diploma compete não só às entidades referidas no artigo 33.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, mas ainda aos serviços dependentes da Direcção-Geral das Contribuições e Impostos.
+
+§ 1.º A fiscalização a que se refere o corpo deste artigo só respeita às máquinas fabricadas ou importadas depóis da entrada em vigor do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, e das portarias que fixem as normas de recepção a adoptar para cada tipo de máquina.
+
+§ 2.º Para as máquinas fabricadas ou importadas anteriormente à entrada em vigor do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, e das portarias que fixem as normas de recepção a adoptar para cada tipo de máquina serão apresentadas à Direcção-Geral das Contribuições e Impostos relações de máquinas em existência.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 13 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.

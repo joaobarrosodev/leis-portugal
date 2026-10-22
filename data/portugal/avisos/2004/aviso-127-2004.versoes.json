@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:529403:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2004-1141779775",
+ "dre_path": "/dr/detalhe/aviso/127-2004-529403",
+ "source_lastmod": "2026-07-24",
+ "versions": [
+  {
+   "date": "2004-07-13",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1151711875",
+    "1141780175"
+   ]
+  }
+ ],
+ "fragments": {
+  "1151711875": {
+   "fragment_id": "1141779875",
+   "type": 15,
+   "heading": "Ato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que o Secretariado-Geral do Conselho da União Europeia informou, por nota de 4 de Junho de 2004, que o Reino da Bélgica depositou, em 5 de Maio de 2004, os instrumentos de ratificação do Primeiro Protocolo Relativo à Interpretação pelo Tribunal de Justiça das Comunidades Europeias da Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, e do Segundo Protocolo Que Atribui ao Tribunal de Justiça das Comunidades Europeias Determinadas Competências em Matéria de Interpretação da Convenção sobre a Lei Aplicável às Obrigações Contratuais, aberta à assinatura em Roma em 19 de Junho de 1980, assinados em Bruxelas em 19 de Dezembro de 1988.\n\nNos termos dos artigos 6.º e 3.º, respectivamente, o Primeiro Protocolo e o Segundo Protocolo estão em vigor em 1 de Agosto de 2004 nos seguintes Estados: Áustria, Bélgica, Alemanha, Dinamarca, Espanha, França, Reino Unido, Grécia, Itália, Irlanda (só o Segundo Protocolo), Luxemburgo, Países Baixos, Portugal, Suécia e Finlândia.\n\nPortugal é parte nestes Protocolos, aprovados, para ratificação, pela Resolução da Assembleia da República n.º 3/94 e ratificada pelo Decreto do Presidente da República n.º 1/94, ambos publicados no Diário da República, 1.ª série-A, n.º 28, de 3 de Fevereiro de 1994, tendo depositado o instrumento de ratificação em 30 de Junho de 1994."
+  },
+  "1141780175": {
+   "fragment_id": "1141780075",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Comunitários, 21 de Junho de 2004. - O Director do Serviço dos Assuntos Jurídicos, Luís Inez Fernandes."
+  }
+ }
+}

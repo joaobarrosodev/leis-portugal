@@ -1,0 +1,716 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:622096:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2000-168035819",
+ "dre_path": "/dr/detalhe/portaria/1079-2000-622096",
+ "source_lastmod": "2025-06-09",
+ "versions": [
+  {
+   "date": "2000-11-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "168040689",
+    "168040690",
+    "168040691",
+    "168040692",
+    "168040693",
+    "168040694",
+    "168040695",
+    "168040696",
+    "168040697",
+    "168040698",
+    "168040699",
+    "168040700",
+    "168040701",
+    "168040702",
+    "168040703",
+    "168040704",
+    "168040705",
+    "168040706",
+    "168040707",
+    "168040708",
+    "168040709",
+    "168040710",
+    "168040711",
+    "168040712",
+    "168040713"
+   ]
+  },
+  {
+   "date": "2001-02-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:163805:por",
+     "title": "Portaria n.º 56-D/2001",
+     "published": "2001-01-29",
+     "dre_path": "/dr/detalhe/portaria/56-d-2001-163805"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 1.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 19.º",
+    "Altera Anexo III"
+   ],
+   "fragments": [
+    "168040689",
+    "921142005",
+    "921142004",
+    "921194597",
+    "168040691",
+    "921142008",
+    "168040693",
+    "168040694",
+    "921194598",
+    "921194613",
+    "168040697",
+    "168040698",
+    "168040699",
+    "168040700",
+    "168040701",
+    "921194599",
+    "921194601",
+    "921194602",
+    "921194603",
+    "921194604",
+    "921194605",
+    "921194606",
+    "921194614",
+    "921194608",
+    "921194609",
+    "921194610",
+    "921194611",
+    "921194612"
+   ]
+  },
+  {
+   "date": "2003-02-16",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:197551:por",
+     "title": "Portaria n.º 158/2003",
+     "published": "2003-02-15",
+     "dre_path": "/dr/detalhe/portaria/158-2003-197551"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 11.º",
+    "Altera Artigo 12.º",
+    "Altera Artigo 13.º",
+    "Altera Artigo 15.º",
+    "Altera Artigo 16.º",
+    "Altera Anexo I"
+   ],
+   "fragments": [
+    "168040689",
+    "921142005",
+    "921142004",
+    "921194597",
+    "168040691",
+    "921194634",
+    "168040693",
+    "168040694",
+    "921194635",
+    "921194613",
+    "168040697",
+    "168040698",
+    "168040699",
+    "921194636",
+    "921194637",
+    "921194638",
+    "921194601",
+    "921194602",
+    "921194639",
+    "921194640",
+    "921194605",
+    "921194606",
+    "921194614",
+    "921194641",
+    "921194609",
+    "921194610",
+    "921194611",
+    "921194612"
+   ]
+  },
+  {
+   "date": "2006-04-29",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:661552:por",
+     "title": "Portaria n.º 393/2006",
+     "published": "2006-04-24",
+     "dre_path": "/dr/detalhe/portaria/393-2006-661552"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "168040689",
+    "921142005",
+    "921142004",
+    "921194597",
+    "168040691",
+    "921194634",
+    "168040693",
+    "168040694",
+    "921194635",
+    "921194613",
+    "168040697",
+    "168040698",
+    "168040699",
+    "921194636",
+    "921194637",
+    "921194664",
+    "921194601",
+    "921194602",
+    "921194639",
+    "921194640",
+    "921194605",
+    "921194606",
+    "921194614",
+    "921194641",
+    "921194609",
+    "921194610",
+    "921194611",
+    "921194612"
+   ]
+  },
+  {
+   "date": "2013-08-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:498528:por",
+     "title": "Portaria n.º 244/2013",
+     "published": "2013-08-02",
+     "dre_path": "/dr/detalhe/portaria/244-2013-498528"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 13.º"
+   ],
+   "fragments": [
+    "168040689",
+    "921142005",
+    "921142004",
+    "921194597",
+    "168040691",
+    "921194634",
+    "168040693",
+    "168040694",
+    "921194635",
+    "921194613",
+    "168040697",
+    "168040698",
+    "168040699",
+    "921194636",
+    "921194637",
+    "921239138",
+    "921194601",
+    "921194602",
+    "921194639",
+    "921194640",
+    "921194605",
+    "921194606",
+    "921194614",
+    "921194641",
+    "921194609",
+    "921194610",
+    "921194611",
+    "921194612"
+   ]
+  }
+ ],
+ "fragments": {
+  "168040689": {
+   "fragment_id": "168035820",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1079/2000\n\nde 8 de Novembro\n\nO Decreto-Lei n.º 224/2000, de 9 de Setembro, que estabelece a regulamentação do Programa Operacional Pesca, designado por MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca, do Quadro Comunitário de Apoio para 2000-2006 (QCA III), estipula, no seu artigo 2.º, que os domínios através dos quais se desenvolve sejam objecto de portaria.\n\nAssim, ao abrigo do disposto no artigo 2.º do Decreto-Lei n.º 224/2000, de 9 de Setembro:\n\nManda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, o seguinte:\n\n1.º É aprovado o Regulamento do Regime de Apoio à Transformação e Comercialização dos Produtos da Pesca e da Aquicultura, no âmbito do MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca, que faz parte integrante da presente portaria.\n\n2.º A presente portaria entra em vigor no dia seguinte à sua publicação."
+  },
+  "168040690": {
+   "fragment_id": "168035821",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de apoio à transformação e comercialização dos produtos da pesca e da aquicultura, previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca."
+  },
+  "168040691": {
+   "fragment_id": "168035822",
+   "type": 11,
+   "heading": "Artigo 2.º — Âmbito e objectivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito e objectivos\n\nO regime de apoio à transformação e comercialização dos produtos da pesca e da aquicultura tem como âmbito e objectivos:\n\na) Reforçar e fortalecer o tecido económico, a competitividade e a capacidade concorrencial das unidades de transformação e comercialização de produtos da pesca e da aquicultura;\n\nb) Aumentar o valor acrescentado dos produtos da pesca e da aquicultura;\n\nc) Adequar os estabelecimentos de transformação e comercialização de produtos da pesca e da aquicultura à regulamentação vigente, nomeadamente em matéria ambiental;\n\nd) Contribuir para o efeito económico duradouro do melhoramento estrutural visado, evitando os efeitos perversos, nomeadamente o risco de criação de capacidades de produção excedentária."
+  },
+  "168040692": {
+   "fragment_id": "168035823",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos de projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Tipos de projectos\n\nNo âmbito do presente regime são enquadráveis os projectos que visem:\n\na) A construção de unidades industriais de transformação de pescado e de entrepostos frigoríficos;\n\nb) A melhoria das unidades industriais de transformação de pescado existentes de forma a cumprirem as condições em vigor, ao nível higiossanitário, técnico-funcional e ambiental;\n\nc) A construção e modernização das unidades de preparação, acondicionamento e embalagem de pescado fresco, garantindo-se as condições higiossanitárias e de conservação de pescado;\n\nd) A introdução de sistemas, equipamentos e processos nas unidades industriais de transformação de pescado que promovam melhorias em termos energéticos, ambientais, logísticos e de gestão;\n\ne) A introdução de tecnologias novas ou inovadoras nas unidades industriais de transformação de pescado que permitam a melhoria da produtividade, da racionalidade de processos e da qualidade;\n\nf) O desenvolvimento e a implementação de sistemas de garantia da qualidade de empresas de acordo com as normas da série NP EN ISO 9000;\n\ng) A instalação e modernização de unidades de tratamento de subprodutos e desperdícios das actividades da fileira da pesca e de sistemas que respeitem as condições e as regras ambientais;\n\nh) A construção e modernização de unidades industriais de pré-cozinhados e de fumagem à base de produtos provenientes da pesca e da aquicultura;\n\ni) O aumento da capacidade de movimentação e distribuição dos produtos da pesca por meio de transportes frigoríficos, com aprovação nos termos do Acordo Internacional de Transportes de Produtos Perecíveis sob Temperatura Dirigida (ATP), sempre que integrados em projectos de desenvolvimento da actividade industrial;\n\nj) A introdução de meios de movimentação internos, sempre que integrados em projectos de desenvolvimento da actividade industrial;\n\nl) A instalação de sistemas e equipamentos de tratamento de resíduos de apoio às unidades industriais de transformação de pescado;\n\nm) A adução e tratamento de água para garantir a sua salubridade;\n\nn) A demonstração de aplicações práticas e experimentais, de técnicas e tecnologias inovadoras, ao nível do produto e do processo produtivo."
+  },
+  "168040693": {
+   "fragment_id": "168035824",
+   "type": 11,
+   "heading": "Artigo 4.º — Promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Promotores\n\nPodem apresentar candidaturas ao presente regime as pessoas individuais ou colectivas, privadas, que estejam legalmente constituídas à data de apresentação da candidatura e cujo objecto social se enquadre nas actividades do sector da pesca."
+  },
+  "168040694": {
+   "fragment_id": "168035825",
+   "type": 11,
+   "heading": "Artigo 5.º — Condições gerais de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condições gerais de acesso\n\nSão condições gerais de acesso para candidatura ao presente regime:\n\na) Demonstrar capacidade técnica e de gestão que garanta a adequada concretização dos investimentos;\n\nb) Demonstrar a existência de situação financeira equilibrada que garanta a concretização do projecto, nos termos do anexo I;\n\nc) Dispor de contabilidade actualizada nos termos da legislação aplicável;\n\nd) Ter a situação regularizada face à administração fiscal, à segurança social e às entidades pagadoras de qualquer apoio público."
+  },
+  "168040695": {
+   "fragment_id": "168035826",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de acesso",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Condições específicas de acesso\n\nSão condições específicas de acesso para candidatura ao presente regime:\n\na) O estabelecimento objecto do projecto ter número de controlo veterinário, excepto o caso de novos estabelecimentos, os quais devem possuir, à data de apresentação da candidatura, autorização de instalação;\n\nb) As alterações em estabelecimentos com número de controlo veterinário que impliquem autorização, de acordo com a legislação em vigor, devem estar, à data de apresentação da candidatura, devidamente autorizadas;\n\nc) Ter o investimento um valor global superior a (euro) 100000;\n\nd) A execução do projecto não ter sido iniciada antes da apresentação da candidatura, à excepção dos estudos previstos nas alíneas o) e r) do artigo 11.º desde que realizados até seis meses antes da apresentação da candidatura."
+  },
+  "168040696": {
+   "fragment_id": "168035827",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de selecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Critérios de selecção\n\n1 - Para efeitos de concessão de apoio financeiro, as candidaturas são seleccionadas e ordenadas em função do valor da avaliação final (AF), resultante da aplicação da seguinte fórmula:\n\nAF = 0,3 AE + 0,3 AT + 0,4 AS\n\n2 - O cálculo da AF resulta da ponderação das seguintes valências:\n\nAE - apreciação económica e financeira;\n\nAT - apreciação técnica;\n\nAS - avaliação sectorial.\n\n3 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos em qualquer das valências.\n\n4 - A apreciação económica e financeira não é exigível no caso dos projectos previstos nas alíneas f), m) e n) do artigo 3.º nem dos que tenham por objecto exclusivo uma componente ambiental ou higiossanitária, caso em que a AF será resultante da seguinte fórmula:\n\nAF = 0,4 AT + 0,6 AS"
+  },
+  "168040697": {
+   "fragment_id": "168035828",
+   "type": 11,
+   "heading": "Artigo 8.º — Apreciação técnica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Apreciação técnica\n\n1 - Os projectos enquadráveis com parecer técnico favorável são avaliados com uma pontuação de base de 50 pontos, a que podem acrescer as majorações previstas no anexo II, até ao máximo de 50 pontos.\n\n2 - Os projectos com parecer técnico desfavorável são pontuados com 0 pontos."
+  },
+  "168040698": {
+   "fragment_id": "168035829",
+   "type": 11,
+   "heading": "Artigo 9.º — Apreciação económica e financeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Apreciação económica e financeira\n\nOs projectos enquadráveis são avaliados com uma pontuação variável, de 0 a 100 pontos, nos termos previstos no anexo III."
+  },
+  "168040699": {
+   "fragment_id": "168035830",
+   "type": 11,
+   "heading": "Artigo 10.º — Avaliação sectorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Avaliação sectorial\n\n1 - Os parâmetros para efeito de avaliação sectorial são estabelecidos no anexo IV.\n\n2 - A avaliação sectorial é calculada pelo somatório dos parâmetros, até ao valor máximo de 100 pontos."
+  },
+  "168040700": {
+   "fragment_id": "168035831",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Despesas elegíveis\n\n1 - Para efeitos de concessão de apoio financeiro, são elegíveis as seguintes despesas:\n\na) Construção, aquisição e modernização ou adaptação de edifícios e instalações directamente relacionados com a actividade prevista a desenvolver no projecto;\n\nb) Vedação e preparação de terrenos;\n\nc) Equipamentos e sistemas necessários ao processo de transformação e comercialização de produtos da pesca e da aquicultura;\n\nd) Meios de transporte sob temperatura dirigida, aprovados e certificados de acordo com o ATP, até um limite máximo de 20% das despesas elegíveis;\n\ne) Equipamentos e meios de movimentação interna;\n\nf) Instalações e equipamentos sociais de que o promotor seja obrigado a dispor por determinação da lei;\n\ng) Meios informáticos e respectivos programas, bem como equipamento telemático relacionado com a actividade a desenvolver;\n\nh) Sistemas e equipamentos de controlo de qualidade;\n\ni) Investimentos em inovações tecnológicas, nomeadamente a automatização a realizar em equipamentos já existentes na unidade;\n\nj) Equipamentos e trabalhos relativos à captação e tratamento de água para o processo produtivo;\n\nl) Equipamentos de sinalização, segurança, detecção e combate a incêndios;\n\nm) Sistemas e equipamentos não directamente produtivos relacionados com o projecto e destinados à valorização da componente energética;\n\nn) Sistemas e equipamentos destinados ao tratamento de efluentes, bem como outras operações de protecção ambiental;\n\no) Auditorias de diagnóstico e de acompanhamento dirigidas para a implementação de sistemas de garantia de qualidade;\n\np) Investigação e formação directamente relacionadas com o objectivo do projecto;\n\nq) Realização de seminários ou colóquios destinados a divulgar os resultados dos projectos de demonstração;\n\nr) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técnico-económicos e de impacte ambiental e os custos associados às garantias exigidas no âmbito da execução do projecto, até ao limite máximo de 12% das despesas elegíveis.\n\n2 - Tratando-se de um projecto de investimento que envolva a mudança de localização de uma unidade existente, ao montante do investimento elegível da nova unidade, independentemente de nesta virem também a ser desenvolvidas outras actividades, será deduzido o montante resultante da soma do valor líquido, real ou presumido, da unidade abandonada com o valor das indemnizações eventualmente recebidas, depois de deduzido o valor, real ou presumido, do terreno onde a nova unidade vai ser implantada; contudo, se o investimento em causa for justificado por imperativos legais ou se o PDM estipular para o local utilização diferente da actividade a abandonar e desde que o investimento não implique um aumento de capacidade instalada, não será feita qualquer dedução relativamente às despesas elegíveis. Caso se verifique esse aumento, a dedução às despesas elegíveis deverá ser feita na proporção directa desse aumento de capacidade instalada, não podendo nunca essa dedução ser superior à que resultaria se a mudança não fosse efectuada por imperativos legais ou por imposição do PDM. Em nenhuma situação o investimento elegível corrigido poderá ser superior ao investimento elegível da nova unidade."
+  },
+  "168040701": {
+   "fragment_id": "168035832",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas não elegíveis",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Despesas não elegíveis\n\nNão são elegíveis, para efeitos de concessão de apoio, as seguintes despesas:\n\na) Compra de terrenos para construção e respectivas despesas;\n\nb) Em instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os correspondentes contratos estipularem uma opção de compra e esta estiver realizada e paga à data da apresentação do pedido de pagamento do saldo dos apoios;\n\nc) Obras provisórias não directamente ligadas à execução do projecto;\n\nd) Aquisição de sistemas, equipamentos e materiais em segunda mão;\n\ne) Trabalhos e equipamentos de embelezamento e de manutenção, nomeadamente arranjo de espaços verdes, instalação de campos desportivos, adequação de espaços para espectáculos, instalação de bares, aquisição de vídeos e televisões, instalação de imagens de marca e de equipamentos de recreio;\n\nf) Aquisição de quaisquer veículos e de equipamentos sem certificado ATP;\n\ng) Aquisição de telemóveis, material de escritório e mobiliário;\n\nh) Despesas de funcionamento;\n\ni) Materiais consumíveis;\n\nj) Bens cuja amortização, permitida pela legislação fiscal, é igual ou inferior a um ano;\n\nl) Aquisição de equipamentos dispensáveis à exequibilidade do projecto;\n\nm) Investimentos relacionados com o comércio retalhista;\n\nn) Investimentos relativos aos produtos da pesca e da aquicultura destinados a ser utilizados e transformados para fins diferentes do consumo humano, excepto se se tratar de investimentos destinados exclusivamente ao tratamento, transformação e comercialização de subprodutos ou desperdícios de produtos da pesca e da aquicultura;\n\no) Encargos financeiros, com excepção dos previstos na alínea r) do artigo 11.º, e administrativos e constituição de fundos de maneio;\n\np) Investimentos não comprovados documentalmente;\n\nq) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário."
+  },
+  "168040702": {
+   "fragment_id": "168035833",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e montantes dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Natureza e montantes dos apoios\n\n1 - A natureza e o montante dos apoios dependem do tipo de projecto.\n\n1.1 - Projectos tipo 1 - pequenos projectos com investimento elegível igual ou inferior a (euro) 600000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 35%;\n\nb) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nc) Para os projectos que criem postos de trabalho em número igual ou superior a quatro, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\ne) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nf) Os apoios previstos nas alíneas anteriores revestem a forma de subsídio a fundo perdido.\n\n1.2 - Projectos tipo 2 - projectos com investimento elegível superior a (euro) 600000 e igual ou inferior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 60% e de subsídio reembolsável na proporção fixa de 40%;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a seis, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\nc4) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%.\n\n1.3 - Projectos tipo 3 - projectos com investimento elegível superior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 40% e de subsídio reembolsável na proporção fixa de 60%;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a 10, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) O limite máximo do subsídio a fundo perdido é de (euro) 1750000 e o do total das ajudas é de (euro) 3500000.\n\n2 - A comparticipação financeira do Estado Português e do IFOP, por efeito de acumulação das diferentes majorações atribuídas a cada projecto, não pode ser superior a 50%, excepto no caso de projectos apresentados por pequenas e médias empresas (PME), como tal caracterizadas no anexo V, em que esta taxa é acrescida em 10% do investimento elegível sob a forma de subsídio reembolsável.\n\n3 - O subsídio reembolsável assume a forma de empréstimo à taxa 0, sendo amortizado no prazo máximo de cinco anos, nele se incluindo o período máximo de dois anos de carência.\n\n> Nota: [Artigo 8.º, Portaria n.º 244/2013 - Diário da República n.º 148/2013, Série I de 2013-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/244-2013-498528) A alteração ao presente artigo aplica-se aos montantes ainda não reembolsados ou cobrados, relativos a investimentos em situação regular.\n\n> Nota: [2.º, Portaria n.º 393/2006 - Diário da República n.º 80/2006, Série I-B de 2006-04-24](https://diariodarepublica.pt/dr/detalhe/portaria/393-2006-661552) A alteração ao n.º 3 do presente artigo aplica-se às operações já aprovadas cujo período de reembolso não esteja ainda a decorrer. Para operações cujo período de reembolso já esteja em curso, o prazo de reembolso inicialmente fixado é acrescido de um ano."
+  },
+  "168040703": {
+   "fragment_id": "168035834",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Candidaturas\n\n1 - As candidaturas ao presente regime são apresentadas na sede ou direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento de formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas podem ser solicitados através da DGPA ou do IFADAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 15 dias, se outro não for fixado.\n\n4 - A ausência de resposta do promotor equivale a desistência da candidatura a que se refere, excepto se o interessado demonstrar, no prazo previsto no número anterior, que aquela não lhe é imputável."
+  },
+  "168040704": {
+   "fragment_id": "168035835",
+   "type": 11,
+   "heading": "Artigo 15.º — Apreciação e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apreciação e decisão\n\n1 - A apreciação técnica e a avaliação sectorial dos projectos candidatos compete à DGPA.\n\n2 - A apreciação económica e financeira dos projectos candidatos compete ao IFADAP.\n\n3 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação ou subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n4 - As candidaturas são decididas no prazo máximo de 120 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos."
+  },
+  "168040705": {
+   "fragment_id": "168035836",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuição dos apoios\n\n1 - A concessão dos apoios previstos neste regime é formalizada por contrato a celebrar entre o promotor e o IFADAP, no prazo de 30 dias após a recepção da comunicação da concessão do apoio.\n\n2 - A não celebração do contrato no prazo referido no número anterior determina a perda do direito ao apoio, salvo se o promotor comprovar que aquela não lhe é imputável nos 15 dias subsequentes.\n\n3 - O pagamento do apoio é feito pelo IFADAP, após a verificação de que o promotor tem a situação contributiva regularizada perante a administração fiscal e a segurança social.\n\n4 - Os pagamentos são efectuados após apresentação pelo beneficiário dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.\n\n5 - A primeira prestação dos apoios só será paga após a realização de 25% do investimento elegível.\n\n6 - O apoio será pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 20% desse apoio, percentagem que apenas será paga, no caso de novas construções, após comprovação da parte do promotor de que possui número de controlo veterinário.\n\n7 - O subsídio reembolsável será libertado após o pagamento do subsídio a fundo perdido.\n\n8 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento do apoio mediante a constituição de garantias a favor do IFADAP."
+  },
+  "168040706": {
+   "fragment_id": "168035837",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações dos promotores\n\nSem prejuízo das obrigações previstas no artigo 8.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, constituem obrigações dos promotores:\n\na) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação dos projectos;\n\nb) Publicitar o co-financiamento do investimento no local da realização do projecto a partir da data de assinatura do respectivo contrato de atribuição dos apoios;\n\nc) Iniciar a execução do projecto no prazo máximo de 180 dias a contar da data da outorga do contrato referido no artigo anterior e completar essa execução no prazo máximo de dois anos a contar daquela data;\n\nd) Aplicar integralmente os apoios na realização do projecto de investimento, com vista à execução dos objectivos da atribuição dos apoios;\n\ne) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;\n\nf) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando nem modificando o mesmo sem prévia autorização do gestor;\n\ng) Constituir um seguro pelo montante mínimo correspondente ao valor dos apoios concedidos sempre que esteja em causa a construção de edifícios ou instalações e a aquisição de equipamento, por um período de 10 e 6 anos após a conclusão dos trabalhos;\n\nh) Fornecer todos os elementos que sejam solicitados pela DGPA, pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos;\n\ni) Não alienar sem autorização prévia do gestor os equipamentos ou as instalações que beneficiaram de apoio financeiro ao abrigo do presente regime num prazo de 6 ou 10 anos, respectivamente, a contar da data da sua aquisição ou do fim dos trabalhos e zelar pela manutenção dos objectivos do projecto;\n\nj) Apresentar ao IFADAP, no prazo de um ano a contar da conclusão material do investimento, um relatório devidamente fundamentado sobre a execução material e financeira do projecto e respectivos resultados;\n\nl) Nos investimentos com apoios reembolsáveis, enviar ao IFADAP, até 30 de Junho de cada ano, e enquanto não for efectuado o reembolso integral do apoio atribuído sob a forma de subsídio reembolsável, cópia dos modelos fiscais e seus anexos, entregues à administração fiscal, relativos ao ano precedente;\n\nm) Contabilizar os apoios recebidos nos termos da legislação aplicável."
+  },
+  "168040707": {
+   "fragment_id": "168035838",
+   "type": 11,
+   "heading": "Artigo 18.º — Alterações aos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alterações aos projectos\n\n1 - Podem ser propostas alterações aos projectos aprovados desde que se trate de alterações técnicas que não modifiquem a concepção estrutural e económica do projecto inicial.\n\n2 - A proposta de alterações deverá identificar, de forma rigorosa, as rubricas que se pretendem alterar, através de peças escritas e desenhadas, e ser acompanhada dos respectivos orçamentos discriminados.\n\n3 - As alterações previstas no n.º 1 carecem de aprovação prévia do gestor."
+  },
+  "168040708": {
+   "fragment_id": "168035839",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições transitórias\n\nNo caso das candidaturas a que se refere o n.º 1 do artigo 17.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, considera-se, para efeito de data de início dos trabalhos, a data de apresentação da candidatura aos programas PROPESCA de 1994-1999 ou à Iniciativa Comunitária Pesca, desde que reformuladas no prazo previsto naquela disposição."
+  },
+  "168040709": {
+   "fragment_id": "168035840",
+   "type": 14,
+   "heading": "Anexo I — Demonstração de situação financeira equilibrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Demonstração de situação financeira equilibrada\n\n(a que se refere o artigo 5.º)\n\n1 - Para efeitos do disposto na alínea b) do artigo 5.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré e pós-projecto seja igual ou superior a 20%. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data da apresentação das candidaturas.\n\n2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = (CP/AL) x 100\n\nem que:\n\nCP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato;\n\nAL - activo líquido da empresa.\n\n3 - Relativamente aos promotores que à data de apresentação das candidaturas não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20% do custo total do investimento.\n\n4 - Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo, para o efeito, apresentar os respectivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas."
+  },
+  "168040710": {
+   "fragment_id": "168035841",
+   "type": 14,
+   "heading": "Anexo II — Apreciação técnica (AT)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo II — Apreciação técnica (AT)\n\n(a que se refere o artigo 8.º)\n\nMajorações tendo em conta a especificidade e fundamentação do projecto\n\n(ver quadro no documento original)\n\n> Nota: [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205) No presente anexo, onde se lê «higiossanitárias» deve ler-se «hígio-sanitárias»."
+  },
+  "168040711": {
+   "fragment_id": "168035842",
+   "type": 14,
+   "heading": "Anexo III — Apreciação económica e financeira (AE)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo III — Apreciação económica e financeira (AE)\n\n(a que se refere o artigo 9.º)\n\nAE - taxa interna de rendibilidade (TIR) do projecto de investimento.\n\nA TIR será pontuada de acordo com a seguinte tabela:\n\n(ver tabela no documento original)\n\nem que REFI é a taxa de refinanciamento do Banco Central Europeu em vigor no 1.º dia útil de cada trimestre civil correspondente à apresentação ou reformulação da candidatura."
+  },
+  "168040712": {
+   "fragment_id": "168035843",
+   "type": 14,
+   "heading": "Anexo IV — Avaliação sectorial (AS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Avaliação sectorial (AS)\n\n(a que se refere o artigo 10.º)\n\n(ver quadro no documento original)"
+  },
+  "168040713": {
+   "fragment_id": "168035844",
+   "type": 14,
+   "heading": "Anexo V — Definição de pequenas e médias empresas (PME)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Definição de pequenas e médias empresas (PME)\n\n(a que se refere o artigo 13.º)\n\n1 - Entende-se por «pequenas e médias empresas», seguidamente designadas «PME», as empresas que cumulativamente:\n\na) Tenham menos de 250 trabalhadores;\n\nb) Tenham um volume de negócios anual que não exceda (euro) 40000000 ou um balanço total anual que não exceda (euro) 27000000; e\n\nc) Cumpram o critério de independência definido no n.º 2.\n\n2 - «Empresas independentes» são empresas que não são propriedade em 25% ou mais do capital ou dos direitos de voto de uma empresa ou, conjuntamente, de várias empresas que não se enquadram na definição de PME. Este limiar pode ser excedido nos dois casos seguintes:\n\nSe a empresa for propriedade de sociedades públicas de investimento, sociedades de capital de risco ou investidores institucionais, desde que estes últimos não exerçam, a título individual ou conjuntamente, qualquer controlo sobre a empresa;\n\nSe o capital se encontrar disperso de maneira que não seja possível determinar quem o detém e se a empresa declarar que pode legitimamente presumir que não é propriedade em 25% ou mais de uma empresa ou, conjuntamente, de várias empresas que não se enquadrem na definição de PME.\n\n3 - Assim, quando do cálculo dos limiares referidos no n.º 1, é necessário adicionar os valores respeitantes à empresa promotora e a todas as empresas em que detém, directa ou indirectamente, 25% ou mais do capital ou dos direitos de voto.\n\n4 - Nos casos em que, na data do encerramento do balanço, uma empresa superar ou ficar aquém do limiar de trabalhadores ou dos limites financeiros máximos especificados, esse facto deve apenas ter como consequência a aquisição ou a perda do estatuto de PME se o fenómeno se repetir durante dois exercícios consecutivos.\n\n5 - O número de trabalhadores corresponde ao número de unidades de trabalho anual (UTA), ou seja, o número de trabalhadores a tempo completo durante um ano. Os trabalhadores a tempo parcial ou sazonais são fracções de UTA.\n\nO ano de referência a considerar é o do último exercício contabilístico encerrado.\n\n6 - Os limiares considerados para o volume de negócios ou para o balanço total são os do último exercício encerrado de 12 meses. Em caso de empresas recém-criadas, cujo balanço e contas ainda não tenham sido aprovados, os limiares a aplicar devem basear-se numa estimativa de boa fé, efectuada no decurso do exercício."
+  },
+  "921142005": {
+   "fragment_id": "921021415",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Luís Manuel Capoulas Santos, em 20 de Outubro de 2000."
+  },
+  "921142004": {
+   "fragment_id": "921021414",
+   "type": 14,
+   "heading": "REGULAMENTO DO REGIME DE APOIO À TRANSFORMAÇÃO E COMERCIALIZAÇÃO DOS PRODUTOS DA PESCA E DA AQUICULTURA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## REGULAMENTO DO REGIME DE APOIO À TRANSFORMAÇÃO E COMERCIALIZAÇÃO DOS PRODUTOS DA PESCA E DA AQUICULTURA"
+  },
+  "921194597": {
+   "fragment_id": "168035821",
+   "type": 11,
+   "heading": "Artigo 1.º — Objecto",
+   "in_force_from": "2001-02-03",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 1.º — Objecto\n\nO presente Regulamento estabelece o regime de apoio à transformação e comercialização dos produtos da pesca e da aquicultura, nos termos do Regulamento (CE) n.º 2792/99, do Conselho, de 17 de Dezembro, e do previsto no Decreto-Lei n.º 224/2000, de 9 de Setembro, que cria o MARE - Programa para o Desenvolvimento Sustentável do Sector da Pesca.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921142008": {
+   "fragment_id": "168035823",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos de projectos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+   ],
+   "markdown": "###### Artigo 3.º — Tipos de projectos\n\nNo âmbito do presente regime são enquadráveis os projectos que visem:\n\na) A construção de unidades industriais de transformação de pescado e de entrepostos frigoríficos;\n\nb) A melhoria das unidades industriais de transformação de pescado existentes de forma a cumprirem as condições em vigor, ao nível hígio-sanitário, técnico-funcional e ambiental;\n\nc) A construção e modernização das unidades de preparação, acondicionamento e embalagem de pescado fresco, garantindo-se as condições hígio-sanitárias e de conservação de pescado;\n\nd) A introdução de sistemas, equipamentos e processos nas unidades industriais de transformação de pescado que promovam melhorias em termos energéticos, ambientais, logísticos e de gestão;\n\ne) A introdução de tecnologias novas ou inovadoras nas unidades industriais de transformação de pescado que permitam a melhoria da produtividade, da racionalidade de processos e da qualidade;\n\nf) O desenvolvimento e a implementação de sistemas de garantia da qualidade de empresas de acordo com as normas da série NP EN ISO 9000;\n\ng) A instalação e modernização de unidades de tratamento de subprodutos e desperdícios das actividades da fileira da pesca e de sistemas que respeitem as condições e as regras ambientais;\n\nh) A construção e modernização de unidades industriais de pré-cozinhados e de fumagem à base de produtos provenientes da pesca e da aquicultura;\n\ni) O aumento da capacidade de movimentação e distribuição dos produtos da pesca por meio de transportes frigoríficos, com aprovação nos termos do Acordo Internacional de Transportes de Produtos Perecíveis sob Temperatura Dirigida (ATP), sempre que integrados em projectos de desenvolvimento da actividade industrial;\n\nj) A introdução de meios de movimentação internos, sempre que integrados em projectos de desenvolvimento da actividade industrial;\n\nl) A instalação de sistemas e equipamentos de tratamento de resíduos de apoio às unidades industriais de transformação de pescado;\n\nm) A adução e tratamento de água para garantir a sua salubridade;\n\nn) A demonstração de aplicações práticas e experimentais, de técnicas e tecnologias inovadoras, ao nível do produto e do processo produtivo.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+  },
+  "921194598": {
+   "fragment_id": "168035826",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de acesso",
+   "in_force_from": "2001-02-03",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de acesso\n\nSão condições específicas de acesso para candidatura ao presente regime:\n\na) O estabelecimento objecto do projecto ter número de controlo veterinário, excepto o caso de novos estabelecimentos, os quais devem possuir, à data de apresentação da candidatura, autorização de instalação;\n\nb) As alterações em estabelecimentos com número de controlo veterinário que impliquem autorização, de acordo com a legislação em vigor, devem estar, à data de apresentação da candidatura, devidamente autorizadas;\n\nc) Ter o investimento um valor global superior a (euro) 100000;\n\nd) A execução do projecto não ter sido iniciada antes da apresentação da candidatura, à excepção das auditorias e dos estudos previstos nas alíneas o) e r), respectivamente, do artigo 11.º, desde que realizados até seis meses antes da apresentação da candidatura.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921194613": {
+   "fragment_id": "168035827",
+   "type": 11,
+   "heading": "Artigo 7.º — Critérios de selecção",
+   "in_force_from": "2001-02-03",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+   ],
+   "markdown": "###### Artigo 7.º — Critérios de selecção\n\n1 - Para efeitos de concessão de apoio financeiro, as candidaturas são seleccionadas e ordenadas em função do valor da avaliação final (AF), resultante da aplicação da seguinte fórmula:\n\nAF = 0,3 AE + 0,3 AT + 0,4 AS\n\n2 - O cálculo da AF resulta da ponderação das seguintes valências:\n\nAE - apreciação económica e financeira;\n\nAT - apreciação técnica;\n\nAS - avaliação sectorial.\n\n3 - São excluídas as candidaturas que não obtenham, no mínimo, 50 pontos em qualquer das valências.\n\n4 - A apreciação económica e financeira não é exigível no caso dos projectos previstos nas alíneas f), m) e n) do artigo 3.º nem dos que tenham por objecto exclusivo uma componente ambiental ou hígio-sanitária, caso em que a AF será resultante da seguinte fórmula:\n\nAF = 0,4 AT + 0,6 AS\n\n5 - As candidaturas seleccionadas nos termos dos números anteriores serão ordenadas em dois grupos, tendo em vista a dotação financeira respectiva:\n\na) Projectos localizados na Região de Lisboa e Vale do Tejo;\n\nb) Projectos localizados nas restantes regiões do continente.\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+  },
+  "921194599": {
+   "fragment_id": "168035833",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e montantes dos apoios",
+   "in_force_from": "2001-02-03",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 13.º — Natureza e montantes dos apoios\n\n1 - A natureza e o montante dos apoios dependem do tipo de projecto.\n\n1.1 - Projectos tipo 1 - pequenos projectos com investimento elegível igual ou inferior a (euro) 600000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 35%;\n\nb) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nc) Para os projectos que criem postos de trabalho em número igual ou superior a quatro, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\ne) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nf) Os apoios previstos nas alíneas anteriores revestem a forma de subsídio a fundo perdido.\n\n1.2 - Projectos tipo 2 - projectos com investimento elegível superior a (euro) 600000 e igual ou inferior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 60% e de subsídio reembolsável na proporção de 40%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a seis, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\nc4) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%.\n\n1.3 - Projectos tipo 3 - projectos com investimento elegível superior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 40% e de subsídio reembolsável na proporção de 60%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a 10, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) O limite máximo do subsídio a fundo perdido é de (euro) 1820000 e o do total das ajudas é de (euro) 3500000.\n\n2 - A comparticipação financeira do Estado Português e do IFOP, por efeito de acumulação das diferentes majorações atribuídas a cada projecto, não pode ser superior a 50%, excepto no caso de projectos apresentados por pequenas e médias empresas (PME), como tal caracterizadas no anexo V, em que esta taxa é acrescida em 10% do investimento elegível sob a forma de subsídio reembolsável.\n\n3 - O subsídio reembolsável assume a forma de empréstimo à taxa 0, sendo amortizado no prazo máximo de cinco anos, nele se incluindo o período máximo de dois anos de carência.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921194601": {
+   "fragment_id": "921237379",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Instalações colectivas",
+   "in_force_from": "2001-02-03",
+   "changed_by": [
+    "Aditado pelo/a 2.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 13.º-A — Instalações colectivas\n\nAos projectos que respeitem a instalações colectivas que reduzam substancial e comprovadamente os efeitos no ambiente não se aplica o disposto no artigo anterior, sendo que:\n\na) O Estado Português comparticipa nos montantes de investimento elegível até 35% e o IFOP até 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido.\n\n> Aditado pelo/a 2.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921194602": {
+   "fragment_id": "168035834",
+   "type": 11,
+   "heading": "Artigo 14.º — Candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Candidaturas\n\n1 - As candidaturas ao presente regime são apresentadas na sede ou direcções regionais da Direcção-Geral das Pescas e Aquicultura (DGPA) ou nos serviços regionais do Instituto de Financiamento e Apoio ao Desenvolvimento da Agricultura e Pescas (IFADAP).\n\n2 - Os processos de candidatura são apresentados em triplicado, mediante o preenchimento de formulários próprios, devendo ser obrigatoriamente acompanhados dos documentos referidos nos anexos a esses formulários.\n\n3 - Após a recepção das candidaturas podem ser solicitados através da DGPA ou do IFADAP quaisquer esclarecimentos ou documentos que se entendam necessários, devendo o promotor responder no prazo máximo de 15 dias, se outro não for fixado.\n\n4 - A ausência de resposta do promotor equivale a desistência da candidatura a que se refere, excepto se o interessado demonstrar, no prazo previsto no número anterior, que aquela não lhe é imputável."
+  },
+  "921194603": {
+   "fragment_id": "168035835",
+   "type": 11,
+   "heading": "Artigo 15.º — Apreciação e decisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Apreciação e decisão\n\n1 - A apreciação técnica e a avaliação sectorial dos projectos candidatos compete à DGPA.\n\n2 - A apreciação económica e financeira dos projectos candidatos compete ao IFADAP.\n\n3 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação ou subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n4 - As candidaturas são decididas no prazo máximo de 120 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos."
+  },
+  "921194604": {
+   "fragment_id": "168035836",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição dos apoios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Atribuição dos apoios\n\n1 - A concessão dos apoios previstos neste regime é formalizada por contrato a celebrar entre o promotor e o IFADAP, no prazo de 30 dias após a recepção da comunicação da concessão do apoio.\n\n2 - A não celebração do contrato no prazo referido no número anterior determina a perda do direito ao apoio, salvo se o promotor comprovar que aquela não lhe é imputável nos 15 dias subsequentes.\n\n3 - O pagamento do apoio é feito pelo IFADAP, após a verificação de que o promotor tem a situação contributiva regularizada perante a administração fiscal e a segurança social.\n\n4 - Os pagamentos são efectuados após apresentação pelo beneficiário dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.\n\n5 - A primeira prestação dos apoios só será paga após a realização de 25% do investimento elegível.\n\n6 - O apoio será pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 20% desse apoio, percentagem que apenas será paga, no caso de novas construções, após comprovação da parte do promotor de que possui número de controlo veterinário.\n\n7 - O subsídio reembolsável será libertado após o pagamento do subsídio a fundo perdido.\n\n8 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento do apoio mediante a constituição de garantias a favor do IFADAP."
+  },
+  "921194605": {
+   "fragment_id": "168035837",
+   "type": 11,
+   "heading": "Artigo 17.º — Obrigações dos promotores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Obrigações dos promotores\n\nSem prejuízo das obrigações previstas no artigo 8.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, constituem obrigações dos promotores:\n\na) Constituir garantias nas condições que vierem a ser definidas na decisão de aprovação dos projectos;\n\nb) Publicitar o co-financiamento do investimento no local da realização do projecto a partir da data de assinatura do respectivo contrato de atribuição dos apoios;\n\nc) Iniciar a execução do projecto no prazo máximo de 180 dias a contar da data da outorga do contrato referido no artigo anterior e completar essa execução no prazo máximo de dois anos a contar daquela data;\n\nd) Aplicar integralmente os apoios na realização do projecto de investimento, com vista à execução dos objectivos da atribuição dos apoios;\n\ne) Assegurar as demais componentes do financiamento, cumprindo, pontualmente, as obrigações para o efeito contraídas perante terceiros, sempre de forma a não perturbar a cabal realização dos objectivos dos apoios;\n\nf) Manter integralmente os requisitos da atribuição dos apoios, designadamente os constantes do projecto, não alterando nem modificando o mesmo sem prévia autorização do gestor;\n\ng) Constituir um seguro pelo montante mínimo correspondente ao valor dos apoios concedidos sempre que esteja em causa a construção de edifícios ou instalações e a aquisição de equipamento, por um período de 10 e 6 anos após a conclusão dos trabalhos;\n\nh) Fornecer todos os elementos que sejam solicitados pela DGPA, pelo IFADAP ou por entidade por estes mandatada para fiscalização, acompanhamento e avaliação do resultado dos projectos;\n\ni) Não alienar sem autorização prévia do gestor os equipamentos ou as instalações que beneficiaram de apoio financeiro ao abrigo do presente regime num prazo de 6 ou 10 anos, respectivamente, a contar da data da sua aquisição ou do fim dos trabalhos e zelar pela manutenção dos objectivos do projecto;\n\nj) Apresentar ao IFADAP, no prazo de um ano a contar da conclusão material do investimento, um relatório devidamente fundamentado sobre a execução material e financeira do projecto e respectivos resultados;\n\nl) Nos investimentos com apoios reembolsáveis, enviar ao IFADAP, até 30 de Junho de cada ano, e enquanto não for efectuado o reembolso integral do apoio atribuído sob a forma de subsídio reembolsável, cópia dos modelos fiscais e seus anexos, entregues à administração fiscal, relativos ao ano precedente;\n\nm) Contabilizar os apoios recebidos nos termos da legislação aplicável."
+  },
+  "921194606": {
+   "fragment_id": "168035838",
+   "type": 11,
+   "heading": "Artigo 18.º — Alterações aos projectos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Alterações aos projectos\n\n1 - Podem ser propostas alterações aos projectos aprovados desde que se trate de alterações técnicas que não modifiquem a concepção estrutural e económica do projecto inicial.\n\n2 - A proposta de alterações deverá identificar, de forma rigorosa, as rubricas que se pretendem alterar, através de peças escritas e desenhadas, e ser acompanhada dos respectivos orçamentos discriminados.\n\n3 - As alterações previstas no n.º 1 carecem de aprovação prévia do gestor."
+  },
+  "921194614": {
+   "fragment_id": "168035839",
+   "type": 11,
+   "heading": "Artigo 19.º — Disposições transitórias",
+   "in_force_from": "2001-02-03",
+   "changed_by": [
+    "Alterado pelo/a 2.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 19.º — Disposições transitórias\n\n1 - No caso das candidaturas a que se refere o n.º 1 do artigo 17.º do Decreto-Lei n.º 224/2000, de 9 de Setembro, considera-se, para efeito de data de início dos trabalhos, a data de apresentação da candidatura aos programas PROPESCA de 1994-1999 ou à Iniciativa Comunitária Pesca, desde que reformuladas no prazo previsto naquela disposição.\n\n2 - Quando estejam em causa projectos apresentados no âmbito do II Quadro Comunitário de Apoio, a autorização de instalação, bem como a autorização para alterações em estabelecimentos com número de controlo veterinário previstas nas alíneas a) e b), respectivamente, do artigo 6.º, podem ser substituídas pelo comprovativo de que aquelas já foram solicitadas à entidade competente.\n\n3 - A decisão de aprovação das candidaturas a que se refere o número anterior apenas poderá ser proferida após a apresentação das autorizações previstas nas alíneas a) e b) do artigo 6.º\n\n> Alterado pelo/a 2.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921194608": {
+   "fragment_id": "168035840",
+   "type": 14,
+   "heading": "Anexo I — Demonstração de situação financeira equilibrada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo I — Demonstração de situação financeira equilibrada\n\n(a que se refere o artigo 5.º)\n\n1 - Para efeitos do disposto na alínea b) do artigo 5.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré e pós-projecto seja igual ou superior a 20%. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data da apresentação das candidaturas.\n\n2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = (CP/AL) x 100\n\nem que:\n\nCP - capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato;\n\nAL - activo líquido da empresa.\n\n3 - Relativamente aos promotores que à data de apresentação das candidaturas não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20% do custo total do investimento.\n\n4 - Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo, para o efeito, apresentar os respectivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas."
+  },
+  "921194609": {
+   "fragment_id": "168035841",
+   "type": 14,
+   "heading": "Anexo II — Apreciação técnica (AT)",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+   ],
+   "markdown": "## Anexo II — Apreciação técnica (AT)\n\n(a que se refere o artigo 8.º)\n\nMajorações tendo em conta a especificidade e fundamentação do projecto\n\n(ver quadro no documento original)\n\n> Nota: [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205) No presente anexo, onde se lê «higiossanitárias» deve ler-se «hígio-sanitárias».\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+  },
+  "921194610": {
+   "fragment_id": "168035842",
+   "type": 14,
+   "heading": "Anexo III — Apreciação económica e financeira (AE)",
+   "in_force_from": "2001-02-03",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "## Anexo III — Apreciação económica e financeira (AE)\n\n(a que se refere o artigo 9.º)\n\nAE = taxa interna de rendibilidade (TIR) do projecto de investimento.\n\nA TIR será pontuada de acordo com a seguinte tabela:\n\n(ver tabela no documento original)\n\nem que REFI é a taxa de refinanciamento do Banco Central Europeu em vigor no 1.º dia útil de cada trimestre civil correspondente à apresentação ou reformulação da candidatura.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921194611": {
+   "fragment_id": "168035843",
+   "type": 14,
+   "heading": "Anexo IV — Avaliação sectorial (AS)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo IV — Avaliação sectorial (AS)\n\n(a que se refere o artigo 10.º)\n\n(ver quadro no documento original)"
+  },
+  "921194612": {
+   "fragment_id": "168035844",
+   "type": 14,
+   "heading": "Anexo V — Definição de pequenas e médias empresas (PME)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo V — Definição de pequenas e médias empresas (PME)\n\n(a que se refere o artigo 13.º)\n\n1 - Entende-se por «pequenas e médias empresas», seguidamente designadas «PME», as empresas que cumulativamente:\n\na) Tenham menos de 250 trabalhadores;\n\nb) Tenham um volume de negócios anual que não exceda (euro) 40000000 ou um balanço total anual que não exceda (euro) 27000000; e\n\nc) Cumpram o critério de independência definido no n.º 2.\n\n2 - «Empresas independentes» são empresas que não são propriedade em 25% ou mais do capital ou dos direitos de voto de uma empresa ou, conjuntamente, de várias empresas que não se enquadram na definição de PME. Este limiar pode ser excedido nos dois casos seguintes:\n\nSe a empresa for propriedade de sociedades públicas de investimento, sociedades de capital de risco ou investidores institucionais, desde que estes últimos não exerçam, a título individual ou conjuntamente, qualquer controlo sobre a empresa;\n\nSe o capital se encontrar disperso de maneira que não seja possível determinar quem o detém e se a empresa declarar que pode legitimamente presumir que não é propriedade em 25% ou mais de uma empresa ou, conjuntamente, de várias empresas que não se enquadrem na definição de PME.\n\n3 - Assim, quando do cálculo dos limiares referidos no n.º 1, é necessário adicionar os valores respeitantes à empresa promotora e a todas as empresas em que detém, directa ou indirectamente, 25% ou mais do capital ou dos direitos de voto.\n\n4 - Nos casos em que, na data do encerramento do balanço, uma empresa superar ou ficar aquém do limiar de trabalhadores ou dos limites financeiros máximos especificados, esse facto deve apenas ter como consequência a aquisição ou a perda do estatuto de PME se o fenómeno se repetir durante dois exercícios consecutivos.\n\n5 - O número de trabalhadores corresponde ao número de unidades de trabalho anual (UTA), ou seja, o número de trabalhadores a tempo completo durante um ano. Os trabalhadores a tempo parcial ou sazonais são fracções de UTA.\n\nO ano de referência a considerar é o do último exercício contabilístico encerrado.\n\n6 - Os limiares considerados para o volume de negócios ou para o balanço total são os do último exercício encerrado de 12 meses. Em caso de empresas recém-criadas, cujo balanço e contas ainda não tenham sido aprovados, os limiares a aplicar devem basear-se numa estimativa de boa fé, efectuada no decurso do exercício."
+  },
+  "921194634": {
+   "fragment_id": "168035823",
+   "type": 11,
+   "heading": "Artigo 3.º — Tipos de projectos",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16",
+    "Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+   ],
+   "markdown": "###### Artigo 3.º — Tipos de projectos\n\nNo âmbito do presente regime são enquadráveis os projectos que visem:\n\na) A construção de unidades industriais de transformação de pescado e de entrepostos frigoríficos;\n\nb) A melhoria das unidades industriais de transformação de pescado e dos entrepostos frigoríficos existentes de forma a cumprirem as condições em vigor ao nível hígio-sanitário, técnico-funcional e ambiental;\n\nc) A construção e modernização das unidades de preparação, acondicionamento e embalagem de pescado fresco, garantindo-se as condições hígio-sanitárias e de conservação de pescado;\n\nd) A introdução de sistemas, equipamentos e processos nas unidades industriais de transformação de pescado que promovam melhorias em termos energéticos, ambientais, logísticos e de gestão;\n\ne) A introdução de tecnologias novas ou inovadoras nas unidades industriais de transformação de pescado que permitam a melhoria da produtividade, da racionalidade de processos e da qualidade;\n\nf) O desenvolvimento e a implementação de sistemas de garantia da qualidade de empresas de acordo com as normas da série NP EN ISO 9000;\n\ng) A instalação e modernização de unidades de tratamento de subprodutos e desperdícios das actividades da fileira da pesca e de sistemas que respeitem as condições e as regras ambientais;\n\nh) A construção e modernização de unidades industriais de pré-cozinhados e de fumagem à base de produtos provenientes da pesca e da aquicultura;\n\ni) O aumento da capacidade de movimentação e distribuição dos produtos da pesca por meio de transportes frigoríficos, com aprovação nos termos do Acordo Internacional de Transportes de Produtos Perecíveis sob Temperatura Dirigida (ATP), sempre que integrados em projectos de desenvolvimento da actividade industrial;\n\nj) A introdução de meios de movimentação internos, sempre que integrados em projectos de desenvolvimento da actividade industrial;\n\nl) A instalação de sistemas e equipamentos de tratamento de resíduos de apoio às unidades industriais de transformação de pescado;\n\nm) A adução e tratamento de água para garantir a sua salubridade;\n\nn) A demonstração de aplicações práticas e experimentais, de técnicas e tecnologias inovadoras, ao nível do produto e do processo produtivo.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16\n\n> Retificado pelo/a [Declaração de Rectificação n.º 16-I/2000 - Diário da República n.º 277/2000, 4º Suplemento, Série I-B de 2000-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/16-i-2000-515205), produz efeitos a partir de 2000-11-09"
+  },
+  "921194635": {
+   "fragment_id": "168035826",
+   "type": 11,
+   "heading": "Artigo 6.º — Condições específicas de acesso",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 6.º — Condições específicas de acesso\n\nSão condições específicas de acesso para candidatura ao presente regime:\n\na) O estabelecimento objecto do projecto ter número de controlo veterinário, excepto o caso de novos estabelecimentos, os quais devem possuir, à data de apresentação da candidatura, autorização de instalação;\n\nb) As alterações em estabelecimentos com número de controlo veterinário que impliquem autorização, de acordo com a legislação em vigor, devem estar, à data de apresentação da candidatura, devidamente autorizadas;\n\nc) Ter o investimento um valor global superior a (euro) 100000;\n\nd) A execução do projecto não ter sido iniciada antes da apresentação da candidatura, à excepção da construção de novas unidades que não se encontrem concluídas, das auditorias e dos estudos previstos nas alíneas o) e r), respectivamente, do artigo 11.º, desde que iniciados até 180 dias antes da data da apresentação da candidatura.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921194636": {
+   "fragment_id": "168035831",
+   "type": 11,
+   "heading": "Artigo 11.º — Despesas elegíveis",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+   ],
+   "markdown": "###### Artigo 11.º — Despesas elegíveis\n\n1 - Para efeitos de concessão de apoio financeiro, são elegíveis as seguintes despesas:\n\na) Construção, aquisição e modernização ou adaptação de edifícios e instalações directamente relacionados com a actividade prevista a desenvolver no projecto;\n\nb) Vedação e preparação de terrenos;\n\nc) Equipamentos e sistemas necessários ao processo de transformação e comercialização de produtos da pesca e da aquicultura;\n\nd) Meios de transporte sob temperatura dirigida, aprovados e certificados de acordo com o ATP, até um limite máximo de 20% das despesas elegíveis;\n\ne) Equipamentos e meios de movimentação interna;\n\nf) Instalações e equipamentos sociais de que o promotor seja obrigado a dispor por determinação da lei;\n\ng) Meios informáticos e respectivos programas, bem como equipamento telemático relacionado com a actividade a desenvolver;\n\nh) Sistemas e equipamentos de controlo de qualidade;\n\ni) Investimentos em inovações tecnológicas, nomeadamente a automatização a realizar em equipamentos já existentes na unidade;\n\nj) Equipamentos e trabalhos relativos à captação e tratamento de água para o processo produtivo;\n\nl) Equipamentos de sinalização, segurança, detecção e combate a incêndios;\n\nm) Sistemas e equipamentos não directamente produtivos relacionados com o projecto e destinados à valorização da componente energética;\n\nn) Sistemas e equipamentos destinados ao tratamento de efluentes, bem como outras operações de protecção ambiental;\n\no) Auditorias de diagnóstico e de acompanhamento dirigidas para a implementação de sistemas de garantia de qualidade;\n\np) Investigação e formação directamente relacionadas com o objectivo do projecto;\n\nq) Realização de seminários ou colóquios destinados a divulgar os resultados dos projectos de demonstração;\n\nr) Despesas gerais de investimento e imprevistos, nomeadamente com estudos técnico-económicos e de impacte ambiental, acréscimos de preços e custos associados às garantias prestadas por bancos ou outras instituições financeiras exigidas no âmbito da execução do projecto, até ao limite máximo de 12% das despesas elegíveis.\n\n2 - Tratando-se de um projecto de investimento que envolva a mudança de localização de uma unidade existente, ao montante do investimento elegível da nova unidade, independentemente de nesta virem também a ser desenvolvidas outras actividades, será deduzido o montante resultante da soma do valor líquido, real ou presumido, da unidade abandonada com o valor das indemnizações eventualmente recebidas, depois de deduzido o valor, real ou presumido, do terreno onde a nova unidade vai ser implantada; contudo, se o investimento em causa for justificado por imperativos legais ou se o PDM estipular para o local utilização diferente da actividade a abandonar e desde que o investimento não implique um aumento de capacidade instalada, não será feita qualquer dedução relativamente às despesas elegíveis. Caso se verifique esse aumento, a dedução às despesas elegíveis deverá ser feita na proporção directa desse aumento de capacidade instalada, não podendo nunca essa dedução ser superior à que resultaria se a mudança não fosse efectuada por imperativos legais ou por imposição do PDM. Em nenhuma situação o investimento elegível corrigido poderá ser superior ao investimento elegível da nova unidade.\n\n3 - O cálculo do montante das despesas elegíveis previstas nas alíneas d) e r) do n.º 1 faz-se do seguinte modo:\n\na) Para a alínea d) toma-se como base de cálculo dos 20% a totalidade das despesas elegíveis previstas nas demais alíneas, com excepção da alínea r);\n\nb) Para a alínea r) toma-se como base de cálculo dos 12% a totalidade das despesas elegíveis previstas nas demais alíneas, incluindo a despesa calculada nos termos da alínea anterior.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+  },
+  "921194637": {
+   "fragment_id": "168035832",
+   "type": 11,
+   "heading": "Artigo 12.º — Despesas não elegíveis",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+   ],
+   "markdown": "###### Artigo 12.º — Despesas não elegíveis\n\nNão são elegíveis para efeitos de concessão de apoio as seguintes despesas:\n\na) Compra de terrenos para construção e respectivas despesas;\n\nb) Em instalações e equipamentos financiados através de contratos de locação financeira ou de aluguer de longa duração, salvo se os correspondentes contratos estipularem uma opção de compra e esta estiver realizada e paga à data da apresentação do pedido de pagamento do saldo dos apoios;\n\nc) Obras provisórias não directamente ligadas à execução do projecto;\n\nd) Aquisição de sistemas, equipamentos e materiais em segunda mão;\n\ne) Trabalhos e equipamentos de embelezamento e de manutenção, nomeadamente arranjo de espaços verdes, instalação de campos desportivos, adequação de espaços para espectáculos, instalação de bares, aquisição de vídeos e televisões, instalação de imagens de marca e de equipamentos de recreio;\n\nf) Aquisição de quaisquer veículos e de equipamentos sem certificado ATP;\n\ng) Aquisição de equipamentos móveis de comunicações, material e mobiliário de escritório;\n\nh) Despesas de funcionamento;\n\ni) Materiais consumíveis;\n\nj) Bens cuja amortização, permitida pela legislação fiscal, é igual ou inferior a um ano;\n\nl) Aquisição de equipamentos dispensáveis à exequibilidade do projecto;\n\nm) Investimentos relacionados com o comércio retalhista;\n\nn) Investimentos relativos aos produtos da pesca e da aquicultura destinados a ser utilizados e transformados para fins diferentes do consumo humano, excepto se se tratar de investimentos destinados exclusivamente ao tratamento, transformação e comercialização de subprodutos ou desperdícios de produtos da pesca e da aquicultura;\n\no) Encargos financeiros, com excepção dos previstos na alínea r) do artigo 11.º, e administrativos e constituição de fundos de maneio;\n\np) Investimentos não comprovados documentalmente;\n\nq) Imposto sobre o valor acrescentado (IVA) recuperável pelo beneficiário.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+  },
+  "921194638": {
+   "fragment_id": "168035833",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e montantes dos apoios",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 13.º — Natureza e montantes dos apoios\n\n1 - A natureza e o montante dos apoios dependem do tipo de projecto.\n\n1.1 - Projectos tipo 1 - pequenos projectos com investimento elegível igual ou inferior a (euro) 600000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 35%;\n\nb) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nc) Para os projectos que criem postos de trabalho em número igual ou superior a quatro, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\ne) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nf) Os apoios previstos nas alíneas anteriores revestem a forma de subsídio a fundo perdido.\n\n1.2 - Projectos tipo 2 - projectos com investimento elegível superior a (euro) 600000 e igual ou inferior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 60% e de subsídio reembolsável na proporção de 40%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a seis, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\nc4) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%.\n\n1.3 - Projectos tipo 3 - projectos com investimento elegível superior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 40% e de subsídio reembolsável na proporção de 60%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a 10, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) O limite máximo do subsídio a fundo perdido é de (euro) 1820000 e o do total das ajudas é de (euro) 3500000.\n\n2 - A comparticipação financeira do Estado Português e do IFOP, por efeito de acumulação das diferentes majorações atribuídas a cada projecto, não pode ser superior a 50%, excepto no caso de projectos apresentados por pequenas e médias empresas (PME), como tal caracterizadas no anexo V, em que esta taxa é acrescida em 10% do investimento elegível sob a forma de subsídio reembolsável.\n\n3 - O subsídio reembolsável assume a forma de empréstimo à taxa 0, amortizável no prazo máximo de cinco anos, sendo de dois anos o período de carência e de três anos o período de reembolso para os projectos de investimento de montante superior a (euro) 50000. Para os projectos de investimento de montante igual ou inferior a (euro) 50000 o prazo é de três anos, sendo de um ano o período de carência e de dois anos o período de reembolso.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921194639": {
+   "fragment_id": "168035835",
+   "type": 11,
+   "heading": "Artigo 15.º — Apreciação e decisão",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+   ],
+   "markdown": "###### Artigo 15.º — Apreciação e decisão\n\n1 - A apreciação técnica e a avaliação sectorial dos projectos candidatos compete à DGPA.\n\n2 - A apreciação económica e financeira dos projectos candidatos compete ao IFADAP.\n\n3 - A decisão final sobre as candidaturas é objecto de despacho do Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, sem prejuízo da faculdade de delegação ou subdelegação dessa competência nos termos do Decreto-Lei n.º 54-A/2000, de 7 de Abril.\n\n4 - As candidaturas são decididas no prazo máximo de 90 dias a contar da respectiva apresentação, desde que o processo esteja completo, considerando-se aquele prazo interrompido sempre que sejam solicitados quaisquer esclarecimentos, informações ou documentos.\n\n5 - A comunicação da decisão das candidaturas será efectuada pela DGPA.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+  },
+  "921194640": {
+   "fragment_id": "168035836",
+   "type": 11,
+   "heading": "Artigo 16.º — Atribuição dos apoios",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+   ],
+   "markdown": "###### Artigo 16.º — Atribuição dos apoios\n\n1 - A concessão dos apoios previstos neste regime é formalizada por contrato a celebrar entre o promotor e o IFADAP, no prazo de 30 dias após a recepção da comunicação da concessão do apoio.\n\n2 - A não celebração do contrato no prazo referido no número anterior determina a perda do direito ao apoio, salvo se o promotor comprovar que aquela não lhe é imputável nos 15 dias subsequentes.\n\n3 - O pagamento do apoio é feito pelo IFADAP, após a verificação de que o promotor tem a situação contributiva regularizada perante a administração fiscal e a segurança social.\n\n4 - Os pagamentos são efectuados após apresentação pelo beneficiário dos documentos comprovativos do pagamento das despesas, em conformidade com formulários próprios.\n\n5 - A primeira prestação dos apoios só será paga após a realização de 25% do investimento elegível.\n\n6 - O apoio será pago proporcionalmente à realização do investimento elegível e nas demais condições contratuais, devendo o montante da última prestação representar, pelo menos, 10% desse apoio, percentagem que apenas será paga no caso de novas construções, após comprovação da parte do promotor de que possui número de controlo veterinário.\n\n7 - O subsídio reembolsável será libertado após o pagamento do subsídio a fundo perdido.\n\n8 - Poderão ser estabelecidos contratualmente mecanismos de adiantamento do apoio mediante a constituição de garantias a favor do IFADAP.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+  },
+  "921194641": {
+   "fragment_id": "168035840",
+   "type": 14,
+   "heading": "Anexo I — Demonstração de situação financeira equilibrada",
+   "in_force_from": "2003-02-16",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+   ],
+   "markdown": "## Anexo I — Demonstração de situação financeira equilibrada\n\n(a que se refere o artigo 5.º)\n\n1 - Para efeitos do disposto na alínea b) do artigo 5.º e sem prejuízo do disposto no n.º 3 deste anexo, considera-se existir uma situação financeira equilibrada quando a autonomia financeira pré e pós-projecto seja igual ou superior a 20%. A autonomia financeira pré-projecto tem por base o último exercício encerrado à data da apresentação das candidaturas.\n\n2 - A autonomia financeira referida no número anterior é calculada a partir da seguinte fórmula:\n\nAutonomia financeira = (CP/AL) x 100\n\nem que:\n\nCP = capitais próprios da empresa, incluindo os suprimentos e ou empréstimos de sócios ou accionistas que contribuam para garantir o indicador referido, desde que venham a ser incorporados em capital próprio antes da assinatura do contrato no caso da autonomia financeira pré-projecto ou antes do último pagamento dos apoios, no caso da autonomia financeira pós-projecto;\n\nAL = activo líquido da empresa.\n\n3 - Relativamente aos promotores que à data de apresentação das candidaturas não tenham desenvolvido qualquer actividade, ou não tenha ainda decorrido o prazo legal de apresentação do balanço e contas, bem como aos empresários em nome individual sem contabilidade organizada, considera-se que possuem uma situação financeira equilibrada se suportarem com capitais próprios pelo menos 20% do custo total do investimento.\n\n4 - Os promotores poderão comprovar o indicador referido no n.º 1 com informação mais recente, mas sempre referida a uma data anterior à da apresentação da candidatura, devendo, para o efeito, apresentar os respectivos balanços e demonstrações de resultados devidamente certificados por um revisor oficial de contas.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16"
+  },
+  "921194664": {
+   "fragment_id": "168035833",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e montantes dos apoios",
+   "in_force_from": "2006-04-29",
+   "changed_by": [
+    "Alterado pelo/a 1.º do/a [Portaria n.º 393/2006 - Diário da República n.º 80/2006, Série I-B de 2006-04-24](https://diariodarepublica.pt/dr/detalhe/portaria/393-2006-661552), em vigor a partir de 2006-04-29",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 13.º — Natureza e montantes dos apoios\n\n1 - A natureza e o montante dos apoios dependem do tipo de projecto.\n\n1.1 - Projectos tipo 1 - pequenos projectos com investimento elegível igual ou inferior a (euro) 600000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 35%;\n\nb) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nc) Para os projectos que criem postos de trabalho em número igual ou superior a quatro, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\ne) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nf) Os apoios previstos nas alíneas anteriores revestem a forma de subsídio a fundo perdido.\n\n1.2 - Projectos tipo 2 - projectos com investimento elegível superior a (euro) 600000 e igual ou inferior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 60% e de subsídio reembolsável na proporção de 40%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a seis, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\nc4) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%.\n\n1.3 - Projectos tipo 3 - projectos com investimento elegível superior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 40% e de subsídio reembolsável na proporção de 60%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a 10, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) O limite máximo do subsídio a fundo perdido é de (euro) 1820000 e o do total das ajudas é de (euro) 3500000.\n\n2 - A comparticipação financeira do Estado Português e do IFOP, por efeito de acumulação das diferentes majorações atribuídas a cada projecto, não pode ser superior a 50%, excepto no caso de projectos apresentados por pequenas e médias empresas (PME), como tal caracterizadas no anexo V, em que esta taxa é acrescida em 10% do investimento elegível sob a forma de subsídio reembolsável.\n\n3 - O subsídio reembolsável assume a forma de empréstimo à taxa 0, amortizável no prazo máximo de seis anos, sendo de três anos o período de carência e de três anos o período de reembolso, para os projectos de investimento de montante superior a (euro) 50000. Para os projectos de investimento de montante igual ou inferior a (euro) 50000, o prazo é de quatro anos, sendo de dois anos o período de carência e de dois anos o período de reembolso.\n\n> Nota: [2.º, Portaria n.º 393/2006 - Diário da República n.º 80/2006, Série I-B de 2006-04-24](https://diariodarepublica.pt/dr/detalhe/portaria/393-2006-661552) A alteração ao n.º 3 do presente artigo aplica-se às operações já aprovadas cujo período de reembolso não esteja ainda a decorrer. Para operações cujo período de reembolso já esteja em curso, o prazo de reembolso inicialmente fixado é acrescido de um ano.\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 393/2006 - Diário da República n.º 80/2006, Série I-B de 2006-04-24](https://diariodarepublica.pt/dr/detalhe/portaria/393-2006-661552), em vigor a partir de 2006-04-29\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  },
+  "921239138": {
+   "fragment_id": "168035833",
+   "type": 11,
+   "heading": "Artigo 13.º — Natureza e montantes dos apoios",
+   "in_force_from": "2013-08-03",
+   "changed_by": [
+    "Alterado pelo/a Artigo 4.º do/a [Portaria n.º 244/2013 - Diário da República n.º 148/2013, Série I de 2013-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/244-2013-498528), em vigor a partir de 2013-08-03",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 393/2006 - Diário da República n.º 80/2006, Série I-B de 2006-04-24](https://diariodarepublica.pt/dr/detalhe/portaria/393-2006-661552), em vigor a partir de 2006-04-29",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16",
+    "Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+   ],
+   "markdown": "###### Artigo 13.º — Natureza e montantes dos apoios\n\n1 - A natureza e o montante dos apoios dependem do tipo de projecto.\n\n1.1 - Projectos tipo 1 - pequenos projectos com investimento elegível igual ou inferior a (euro) 600000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o Instrumento Financeiro de Orientação das Pescas (IFOP) em 35%;\n\nb) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nc) Para os projectos que criem postos de trabalho em número igual ou superior a quatro, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\ne) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nf) Os apoios previstos nas alíneas anteriores revestem a forma de subsídio a fundo perdido.\n\n1.2 - Projectos tipo 2 - projectos com investimento elegível superior a (euro) 600000 e igual ou inferior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 60% e de subsídio reembolsável na proporção de 40%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a seis, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos de demonstração ou para os projectos que visem a certificação da unidade industrial de acordo com as normas da série NP EN ISO 9000, a comparticipação do Estado Português é objecto de um aumento de 10%;\n\nc4) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%.\n\n1.3 - Projectos tipo 3 - projectos com investimento elegível superior a (euro) 2000000:\n\na) O Estado Português comparticipa nos montantes de investimento elegível em 5% e o IFOP em 35%;\n\nb) O apoio é atribuído sob a forma de subsídio a fundo perdido na proporção de 40% e de subsídio reembolsável na proporção de 60%, antes da aplicação do disposto na alínea seguinte;\n\nc) O montante do subsídio a fundo perdido poderá aumentar em função das seguintes majorações:\n\nc1) Para os projectos que integrem componentes ambientais ou de poupança de energia significativas, a comparticipação do Estado Português é majorada em 5%;\n\nc2) Para os projectos que criem postos de trabalho em número igual ou superior a 10, a comparticipação do Estado Português é majorada em 5%;\n\nc3) Para os projectos relativos à indústria de conservas e semiconservas de peixe, a comparticipação do Estado Português é objecto de um aumento de 5%;\n\nd) O limite máximo do subsídio a fundo perdido é de (euro) 1820000 e o do total das ajudas é de (euro) 3500000.\n\n2 - A comparticipação financeira do Estado Português e do IFOP, por efeito de acumulação das diferentes majorações atribuídas a cada projecto, não pode ser superior a 50%, excepto no caso de projectos apresentados por pequenas e médias empresas (PME), como tal caracterizadas no anexo V, em que esta taxa é acrescida em 10% do investimento elegível sob a forma de subsídio reembolsável.\n\n3 - O subsídio reembolsável assume a forma de empréstimo à taxa 0, amortizável no prazo máximo de seis anos, sendo de três anos o período de carência e de três anos o período de reembolso, para os projectos de investimento de montante superior a (euro) 50000. Para os projectos de investimento de montante igual ou inferior a (euro) 50000, o prazo é de quatro anos, sendo de dois anos o período de carência e de dois anos o período de reembolso.\n\n4 - Excecionalmente, os subsídios reembolsáveis, para os projetos de investimento de montante superior a (euro) 50.000 e de montante igual ou inferior a (euro) 50.000, podem ser amortizados, no prazo máximo de oito e de seis anos, respetivamente, mediante a apresentação, pelo beneficiário, de requerimento devidamente fundamentado, dirigido ao Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.).\n\n5 - O IFAP, I. P., define e publica, previamente, no seu sítio da internet, os critérios e as condições de revisão da amortização dos subsídios, e aprova os novos planos de reembolso.\n\n6 - O prazo de quatro, seis e oito anos, previsto nos números 3 e 4, é contado a partir da data do pagamento do subsídio.\n\n> Nota: [Artigo 8.º, Portaria n.º 244/2013 - Diário da República n.º 148/2013, Série I de 2013-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/244-2013-498528) A alteração ao presente artigo aplica-se aos montantes ainda não reembolsados ou cobrados, relativos a investimentos em situação regular.\n\n> Nota: [2.º, Portaria n.º 393/2006 - Diário da República n.º 80/2006, Série I-B de 2006-04-24](https://diariodarepublica.pt/dr/detalhe/portaria/393-2006-661552) A alteração ao n.º 3 do presente artigo aplica-se às operações já aprovadas cujo período de reembolso não esteja ainda a decorrer. Para operações cujo período de reembolso já esteja em curso, o prazo de reembolso inicialmente fixado é acrescido de um ano.\n\n> Alterado pelo/a Artigo 4.º do/a [Portaria n.º 244/2013 - Diário da República n.º 148/2013, Série I de 2013-08-02](https://diariodarepublica.pt/dr/detalhe/portaria/244-2013-498528), em vigor a partir de 2013-08-03\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 393/2006 - Diário da República n.º 80/2006, Série I-B de 2006-04-24](https://diariodarepublica.pt/dr/detalhe/portaria/393-2006-661552), em vigor a partir de 2006-04-29\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 158/2003 - Diário da República n.º 39/2003, Série I-B de 2003-02-15](https://diariodarepublica.pt/dr/detalhe/portaria/158-2003-197551), em vigor a partir de 2003-02-16\n\n> Alterado pelo/a 1.º do/a [Portaria n.º 56-D/2001 - Diário da República n.º 24/2001, 2º Suplemento, Série I-B de 2001-01-29](https://diariodarepublica.pt/dr/detalhe/portaria/56-d-2001-163805), em vigor a partir de 2001-02-03"
+  }
+ }
+}

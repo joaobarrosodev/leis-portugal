@@ -1,0 +1,112 @@
+---
+schema_version: '1.0'
+id: pt:dre:470235:por
+title: Despacho Normativo n.º 232/80
+short_title: null
+summary: Transfere para o Instituto das Participações do Estado, E. P., a titularidade e a gestão das participações do sector
+  público em várias empresas
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministérios das Finanças e do Plano e da Indústria e Energia
+proposing_entity: null
+official_number: 232/80
+official_date: null
+publication_date: '1980-08-02'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 177/1980, Série I de 1980-08-02
+  number: '177'
+  series: I
+  supplement: null
+  pages: 2018 - 2018
+  pdf_url: https://files.diariodarepublica.pt/1s/1980/08/17700/20182018.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '470235'
+  dre_path: /dr/detalhe/despacho-normativo/232-1980-470235
+  internal: pt:dre:470235:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/232-1980-470235
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/232-1980-470235
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1984-06-07T00:00:00Z'
+integrity:
+  source_sha256: 2d6059696f4378786f4c12f7f9b68f920c9c15f515ffd6a768b85750c31f7aaf
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1980/DRE-1980-232-470235.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:386408:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 232/80
+
+O [Despacho Normativo n.º 16/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-1978-447773), de 19 de Janeiro, transferiu do Instituto das Participações do Estado, E. P., para a Cimpor - Cimentos de Portugal, E. P., ao abrigo do artigo 8.º do [Decreto-Lei n.º 285/77](https://diariodarepublica.pt/dr/detalhe/decreto-lei/285-1977-250635), de 13 de Julho, a titularidade e a gestão das participações do sector público nas seguintes empresas: Bepor - Betões Portugueses, S. A. R. L., Betão Liz, S. A. R. L., Jomatel - Empresa de Materiais de Construção, S. A. R. L., Norbetão - Materiais de Construção, S. A. R. L., e Unibetão - Indústrias de Betão Preparado, Lda.
+
+Considerando que o estabelecimento de uma sã concorrência no mercado cimenteiro é um elemento fundamental do desenvolvimento económico do País numa perspectiva de adesão à CEE;
+
+Considerando que o actual sistema de concentração não permite alcançar o desiderato referido no parágrafo anterior, impondo-se um mais racional ordenamento e gestão das participações do sector público no sector;
+
+Considerando que o Governo, dando execução ao disposto na [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, está empenhado em activar o mecanismo da mobilização de títulos representativos do direito à indemnização, por troca com participações do sector público, em empresas privadas, fora dos sectores vedados à iniciativa privada definidos na [Lei n.º 46/77](https://diariodarepublica.pt/dr/detalhe/lei/46-1977-250456), de 8 de Junho, como é o caso das empresas de betão pronto;
+
+Ouvido o IPE, determina-se:
+
+No ponto que respeita às empresas adiante mencionadas, é revogado o [Despacho Normativo n.º 16/78](https://diariodarepublica.pt/dr/detalhe/despacho-normativo/16-1978-447773), de 19 de Janeiro, assumindo o Instituto das Participações do Estado, E. P., para os efeitos previstos no artigo 34.º da [Lei n.º 80/77](https://diariodarepublica.pt/dr/detalhe/lei/80-1977-277309), de 26 de Outubro, a titularidade e a gestão das participações do sector público nas seguintes empresas:
+
+Bepor - Betões Portugueses, S. A. R. L.;
+
+Betão Liz, S. A. R. L.;
+
+Jomatel - Empresa de Materiais de Construção, S. A. R. L.;
+
+Norbetão - Materiais de Construção, S. A. R. L.;
+
+Unibetão - Indústrias de Betão Preparado, Lda.
+
+Ministérios das Finanças e do Plano e da Indústria e Energia, 15 de Julho de 1980. - O Ministro das Finanças e do Plano, Aníbal António Cavaco Silva. - Pelo Ministro da Indústria e Energia, Ricardo Manuel Simões Bayão Horta, Secretário de Estado da Indústria Transformadora.

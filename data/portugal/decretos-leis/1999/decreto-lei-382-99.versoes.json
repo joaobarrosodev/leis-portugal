@@ -1,0 +1,195 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:559021:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1999-920456200",
+ "dre_path": "/dr/detalhe/decreto-lei/382-1999-559021",
+ "source_lastmod": "2025-06-03",
+ "versions": [
+  {
+   "date": "1999-09-22",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "920341992",
+    "920341993",
+    "920341994",
+    "920341995",
+    "920341996",
+    "920341997",
+    "920341998",
+    "920341999",
+    "920342000",
+    "920342001",
+    "920342002",
+    "920342003",
+    "920342004",
+    "920342006"
+   ]
+  },
+  {
+   "date": "2007-06-01",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:340237:por",
+     "title": "Decreto-Lei n.º 226-A/2007",
+     "published": "2007-05-31",
+     "dre_path": "/dr/detalhe/decreto-lei/226-a-2007-340237"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "920341992",
+    "920341993",
+    "920341994",
+    "920341995",
+    "920342007",
+    "920341997",
+    "920341998",
+    "920341999",
+    "920342000",
+    "920342001",
+    "920342002",
+    "920342003",
+    "920342004",
+    "920342005",
+    "920342006"
+   ]
+  }
+ ],
+ "fragments": {
+  "920341992": {
+   "fragment_id": "920456201",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 382/99\n\nde 22 de Setembro\n\nAs águas subterrâneas constituem importantes origens de água, efectivas ou potenciais, a nível regional e local, que importa conservar. Porém, a qualidade das águas subterrâneas é susceptível de ser afectada pelas actividades sócio-económicas, designadamente pelos usos e ocupações do solo, em particular pelas áreas urbanas, infra-estruturas e equipamentos, agricultura e zonas verdes. A contaminação das águas subterrâneas é, na generalidade das situações, persistente, pelo que a recuperação da qualidade destas águas é, em regra, muito lenta e difícil. A protecção das águas subterrâneas constitui, assim, um objectivo estratégico da maior importância, no quadro de um desenvolvimento equilibrado e duradouro.\n\nUm instrumento preventivo para assegurar a protecção das águas subterrâneas é a instituição de perímetros de protecção das captações de águas subterrâneas destinadas ao abastecimento público. Trata-se de áreas definidas na vizinhança dessas captações em que se estabelecem restrições de utilidade pública ao uso e transformação do solo, em função das características pertinentes às formações geológicas, que armazenam as águas subterrâneas exploradas pelas captações e dos caudais extraídos, como forma de salvaguardar a protecção da qualidade dessas águas subterrâneas.\n\nOs perímetros de protecção das captações de águas subterrâneas destinadas ao abastecimento público visam, assim:\n\nPrevenir, reduzir e controlar a poluição das águas subterrâneas por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens;\n\nPotenciar os processos naturais de diluição e de autodepuração das águas subterrâneas;\n\nPrevenir, reduzir e controlar as descargas acidentais de poluentes;\n\nProporcionar a criação de sistemas de aviso e alerta para a protecção dos sistemas de abastecimento de água com origem nas captações de águas subterrâneas, em situações de poluição acidental dessas águas.\n\nA delimitação dos perímetros de protecção é realizada recorrendo a métodos hidrogeológicos apropriados que têm em conta os caudais de exploração, as condições da captação e as características do sistema aquífero explorado. A fixação dos caudais de exploração e o dimensionamento das captações de águas subterrâneas destinadas ao abastecimento público têm que atender, necessariamente, aos aspectos económicos, já que a delimitação dos perímetros de protecção das captações impõe restrições ao uso do solo em áreas significativas que se traduzem em custos económicos que se repercutem sobre o custo da água na origem. De facto, não se afigura razoável delimitar perímetros de protecção com áreas ou com restrições excessivas se tal não se traduzir num benefício efectivo em termos da protecção das águas subterrâneas, pelo que se tem de exigir que a delimitação dos perímetros de protecção seja baseada em estudos hidrogeológicos suficientemente rigorosos para evidenciar a eficácia das medidas de protecção impostas. Por outro lado, não fará sentido localizar captações em áreas em que as pressões sobre o uso do solo são de tal maneira elevadas que os custos de oportunidade das restrições impostas se traduzam em custos da água na origem que não sejam razoáveis, quando comparadas com outras alternativas, sem prejuízo dos critérios gerais que devem ser atendidos na protecção das águas subterrâneas. Sempre que não possam ser realizados esses estudos - por exemplo, no caso de captações com menor capacidade ou em que o uso do solo é compatível com a protecção das águas subterrâneas -, definem-se critérios simples, mas suficientemente rigorosos, que asseguram a efectiva protecção das águas subterrâneas como origens de água para consumo humano.\n\nOs instrumentos normativos vigentes não permitem salvaguardar adequadamente a qualidade das águas subterrâneas, pelo que se justifica a instituição, através do presente decreto-lei, dos perímetros de protecção das captações de águas subterrâneas destinadas ao abastecimento público.\n\nFoi ouvida a Associação Nacional de Municípios Portugueses, bem como os órgãos de Governo próprio das Regiões Autónomas.\n\nAssim:\n\nNos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta, para valer como lei geral da República, o seguinte:"
+  },
+  "920341993": {
+   "fragment_id": "920456202",
+   "type": 11,
+   "heading": "Artigo 1.º — Objectivo e âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objectivo e âmbito\n\n1 - O presente diploma estabelece as normas e os critérios para a delimitação de perímetros de protecção de captações de águas subterrâneas destinadas ao abastecimento público, adiante designados por perímetros de protecção, com a finalidade de proteger a qualidade das águas dessas captações.\n\n2 - As captações de água subterrânea destinadas ao abastecimento público de água para consumo humano de aglomerados populacionais com mais de 500 habitantes ou cujo caudal de exploração seja superior a 100 m3/dia ficam abrangidas pelo disposto no presente diploma para todas as zonas de protecção previstas e definidas nos termos do presente decreto-lei.\n\n3 - Todas as captações de água subterrânea destinadas ao abastecimento público de água para consumo humano são abrangidas pelo disposto no presente diploma no que diz respeito à delimitação da zona de protecção imediata."
+  },
+  "920341994": {
+   "fragment_id": "920456203",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente diploma entende-se por:\n\na) «Aquífero» - domínio espacial de uma formação geológica, limitado em superfície e em profundidade, que pode armazenar água em condições de ser explorada economicamente;\n\nb) «Captação de água subterrânea destinada ao abastecimento público» - origem de água subterrânea destinada ao consumo humano mediante um sistema de abastecimento público;\n\nc) «Caudal de exploração» - volume de água extraída de um aquífero por unidade de tempo;\n\nd) «Espessura saturada na captação» - fracção da captação que se encontra preenchida por água;\n\ne) «Intrusão marinha» - processo que se pode verificar nos aquíferos costeiros, e que consiste no avanço sobre o continente de massas de água salgada;\n\nf) «Poluição» - degradação da qualidade natural da água, em resultado de actividades humanas, tornando-a imprópria como origem de água destinada à produção de água para consumo humano, nos termos dos artigos 13.º a 19.º do Decreto Lei n.º 236/98 de 1 de Agosto;\n\ng) «Porosidade eficaz» - percentagem do volume total de uma formação geológica que é ocupada por poros interligados, através dos quais se pode estabelecer um fluxo de água;\n\nh) «Qualidade da água» - conjunto de valores de parâmetros físicos, químicos, biológicos e microbiológicos da água que permite avaliar a sua adequação como origem de água para a produção de água para consumo humano, nos termos dos artigos 13.º a 19.º do Decreto Lei n.º 236/98 de 1 de Agosto;\n\ni) «Sistema aquífero» - domínio espacial de uma ou várias formações geológicas, limitado em superfície e em profundidade, que define um ou vários aquíferos, relacionados ou não entre si, e que constitui uma unidade prática para a exploração de águas subterrâneas."
+  },
+  "920341995": {
+   "fragment_id": "920456204",
+   "type": 11,
+   "heading": "Artigo 3.º — Perímetro de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Perímetro de protecção\n\n1 - O perímetro de protecção é a área contígua à captação na qual se interditam ou condicionam as instalações e as actividades susceptíveis de poluírem as águas subterrâneas, que engloba as seguintes zonas:\n\na) Zona de protecção imediata - área da superfície do terreno contígua à captação em que, para a protecção directa das instalações da captação e das águas captadas, todas as actividades são, por princípio, interditas;\n\nb) Zona de protecção intermédia - área da superfície do terreno contígua exterior à zona de protecção imediata, de extensão variável, tendo em conta as condições geológicas e estruturais do sistema aquífero, definida por forma a eliminar ou reduzir a poluição das águas subterrâneas, onde são interditas ou condicionadas as actividades e as instalações susceptíveis de poluírem aquelas águas, quer por infiltração de poluentes, quer por poderem modificar o fluxo na captação ou favorecer a infiltração na zona próxima da captação;\n\nc) Zona de protecção alargada - área da superfície do terreno contígua exterior à zona de protecção intermédia, destinada a proteger as águas subterrâneas de poluentes persistentes, tais como compostos orgânicos, substâncias radioactivas, metais pesados, hidrocarbonetos e nitratos, onde as actividades e instalações são interditas ou condicionadas em função do risco de poluição das águas, tendo em atenção a natureza dos terrenos atravessados, a natureza e a quantidade de poluentes, bem como o modo de emissão desses poluentes.\n\n2 - A delimitação dos perímetros de protecção, englobando as diferentes zonas definidas no número anterior, obedece a critérios geológicos, hidrogeológicos e económicos estabelecidos em função das características do aquífero em que se encontra a captação, as condições da captação e os caudais de exploração, mediante a realização de estudos hidrogeológicos e económicos.\n\n3 - Quando não existam e não seja possível realizar os estudos hidrogeológicos mencionados no número anterior, mediante prévio parecer favorável da direcção regional do ambiente territorialmente competente, a determinação das zonas de protecção poderá ser feita através de recurso ao método do raio fixo, calculado de acordo com o anexo ao presente diploma, que dele faz parte integrante, ou outro método considerado mais adequado.\n\n4 - Os estudos hidrogeológicos e a aplicação do método do raio fixo têm de ser realizados por técnicos com as habilitações académicas adequadas para o efeito.\n\n5 - O perímetro de protecção poderá não incluir as zonas de protecção intermédia ou a zona de protecção alargada relativamente a captações de águas subterrâneas em sistemas aquíferos cujo risco de poluição seja reduzido, demonstrado por estudos hidrogeológicos.\n\n6 - Sempre que se justifique, nomeadamente em zonas em que haja conexão hidráulica directa ou através de condutas cársicas ou fissuras, o perímetro de protecção poderá ainda englobar zonas de protecção especial, mediante a realização de estudos hidrogeológicos específicos.\n\n7 - Nas zonas costeiras onde exista ou possa existir intrusão marinha, o perímetro de protecção inclui ainda zonas de protecção especiais para prevenir o avanço da cunha salina, mediante a realização de estudos hidrogeológicos específicos."
+  },
+  "920341996": {
+   "fragment_id": "920456205",
+   "type": 11,
+   "heading": "Artigo 4.º — Delimitação dos perímetros de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Delimitação dos perímetros de protecção\n\n1 - Compete ao Governo, através de resolução do Conselho de Ministros, aprovar a delimitação dos perímetros de protecção, identificando as instalações e actividades, de entre as mencionadas nos n.os 2, 4 e 7 do artigo 6.º, que ficam sujeitas a interdições ou a condicionamentos e definindo o tipo de condicionamentos.\n\n2 - As propostas de delimitação e respectivos condicionamentos são elaboradas pela direcção regional do ambiente territorialmente competente com base nas propostas e estudos próprios que lhe sejam apresentados pela entidade requerente da licença de captação de águas subterrâneas destinadas ao consumo humano, de acordo com o disposto no presente diploma, no disposto no Decreto-Lei n.º 236/98, de 1 de Agosto, e demais legislação aplicável.\n\n3 - As entidades responsáveis pelas captações já existentes, quer estejam em funcionamento quer constituam uma reserva potencial de abastecimento de água subterrânea, devem promover a delimitação dos perímetros de protecção nos termos previstos nos número anteriores.\n\n4 - Os perímetros de protecção das captações de água subterrânea para abastecimento público de água para consumo humano são revistos, sempre que se justifique, por iniciativa da direcção regional do ambiente territorialmente competente ou da entidade responsável pela captação.\n\n5 - A autorização para a captação destinada ao consumo humano, prevista no Decreto-Lei n.º 46/94, de 22 de Fevereiro, que se insira no âmbito de aplicação do presente diploma pressupõe a prévia delimitação do respectivo perímetro de protecção."
+  },
+  "920341997": {
+   "fragment_id": "920456206",
+   "type": 11,
+   "heading": "Artigo 5.º — Protecção sanitária da captação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Protecção sanitária da captação\n\n1 - A «cabeça» das captações verticais de águas subterrâneas - poços ou furos - deve estar a cota superior ao terreno circundante, mantendo-se a mesma fechada, de tal forma que se evite a entrada de substâncias de qualquer tipo, devendo ainda o revestimento da captação ser exteriormente rodeado de uma superfície impermeabilizante que promova a drenagem para áreas mais afastadas da captação, de águas que escorram superficialmente para áreas mais afastadas da captação.\n\n2 - Todas as restantes captações de águas subterrâneas têm que estar devidamente protegidas contra a introdução de substâncias poluentes e actos de vandalismo, através de uma porta ventilada."
+  },
+  "920341998": {
+   "fragment_id": "920456207",
+   "type": 11,
+   "heading": "Artigo 6.º — Servidões administrativas e restrições de utilidade pública",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Servidões administrativas e restrições de utilidade pública\n\n1 - Na zona de protecção imediata é interdita qualquer instalação ou actividade, com excepção das que têm por finalidade a conservação, manutenção e melhor exploração da captação. Nesta zona o terreno é vedado e tem que ser mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água de captação.\n\n2 - Na zona de protecção intermédia podem ser interditas ou condicionadas as seguintes actividades e instalações quando se demonstrem susceptíveis de provocarem a poluição das águas subterrâneas:\n\na) Pastorícia;\n\nb) Usos agrícolas e pecuários;\n\nc) Aplicação de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nd) Edificações;\n\ne) Estradas e caminhos de ferro;\n\nf) Parques de campismo;\n\ng) Espaços destinados a práticas desportivas;\n\nh) Estações de tratamento de águas residuais;\n\ni) Colectores de águas residuais;\n\nj) Fossas de esgoto;\n\nl) Unidades industriais.\n\nm) Cemitérios;\n\nn) Pedreiras e quaisquer escavações;\n\no) Explorações mineiras;\n\np) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem;\n\nq) Depósitos de sucata.\n\n3 - Na zona de protecção intermédia são interditas as seguintes actividades e instalações:\n\na) Infra-estruturas aeronáuticas;\n\nb) Oficinas e estações de serviço de automóveis;\n\nc) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;\n\nd) Postos de abastecimento e áreas de serviço de combustíveis;\n\ne) Transporte de hidrocarbonetos, de materiais radioactivos ou de outras substâncias perigosas;\n\nf) Canalizações de produtos tóxicos;\n\ng) Lixeiras e aterros sanitários.\n\n4 - Na zona de protecção alargada podem ser interditas ou condicionadas as seguintes actividades e instalações quando se demonstrem susceptíveis de provocarem a poluição das águas subterrâneas:\n\na) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;\n\nb) Colectores de águas residuais;\n\nc) Fossas de esgoto;\n\nd) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias susceptíveis de se infiltrarem;\n\ne) Estações de tratamento de águas residuais;\n\nf) Cemitérios;\n\ng) Pedreiras e explorações mineiras;\n\nh) Infra-estruturas aeronáuticas;\n\ni) Oficinas e estações de serviço de automóveis;\n\nj) Postos de abastecimento e áreas de serviço de combustíveis;\n\nl) Depósitos de sucata.\n\n5 - Na zona de protecção alargada são interditas as seguintes actividades e instalações:\n\na) Transporte de hidrocarbonetos, de materiais radioactivos e de outras substâncias perigosas;\n\nb) Depósitos de materiais radioactivos, de hidrocarbonetos e de resíduos perigosos;\n\nc) Canalizações de produtos tóxicos;\n\nd) Refinarias e indústrias químicas;\n\ne) Lixeiras e aterros sanitários.\n\n6 - Na zona de protecção especial, a que se refere o n.º 6 do artigo 3.º, são interditas quaisquer actividades ou instalações.\n\n7 - Nas zonas de protecção contra o avanço da cunha salina, a que se refere o n.º 7 do artigo 3.º, podem ser limitados os caudais de exploração das captações existentes e interdita a construção ou a exploração de novas captações de água subterrânea ou condicionado o seu regime de exploração."
+  },
+  "920341999": {
+   "fragment_id": "920456208",
+   "type": 11,
+   "heading": "Artigo 7.º — Indemnizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Indemnizações\n\n1 - As interdições e os condicionamentos decorrentes da aplicação do presente diploma podem dar lugar a indemnização nos termos previstos no artigo 8.º do Código das Expropriações.\n\n2 - Aos proprietários dos terrenos que integrem as zonas de protecção imediata ou as zonas de protecção especial é assegurado o direito de requerer a respectiva expropriação, nos termos do Código das Expropriações.\n\n3 - O disposto nos números anteriores não é aplicável sempre que os terrenos integrem o património de uma entidade pública."
+  },
+  "920342000": {
+   "fragment_id": "920456209",
+   "type": 11,
+   "heading": "Artigo 8.º — Encargos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Encargos\n\n1 - Compete às entidades responsáveis pelas captações de águas subterrâneas abrangidas pelo disposto no presente diploma suportar as indemnizações decorrentes da aplicação do disposto no artigo anterior.\n\n2 - Quando as indemnizações previstas no artigo 7.º se refiram a captações já existentes à data da entrada em vigor do presente diploma, as mesmas serão suportadas pela administração central, nomeadamente pelo Ministério do Ambiente, quando as captações se encontrem autorizadas, e pelas entidades mencionadas no número anterior, com possibilidade de comparticipação da administração central, quando as captações não se encontrem autorizadas."
+  },
+  "920342001": {
+   "fragment_id": "920456210",
+   "type": 11,
+   "heading": "Artigo 9.º — Enquadramento nos planos de bacia hidrográfica e planos de ordenamento do território",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Enquadramento nos planos de bacia hidrográfica e planos de ordenamento do território\n\nOs planos de bacia hidrográfica, bem como os planos municipais e os planos especiais de ordenamento do território, contemplam obrigatoriamente os perímetros de protecção delimitados nos termos do presente diploma."
+  },
+  "920342002": {
+   "fragment_id": "920456211",
+   "type": 11,
+   "heading": "Artigo 10.º — Contra-ordenações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Contra-ordenações\n\n1 - Constituem contra-ordenações:\n\na) A não observância das interdições referidas nos n.os 1, 3, 5 e 6 do artigo 6.º;\n\nb) O não cumprimento das interdições ou dos condicionamentos que vierem a ser concretamente identificados na resolução do Conselho de Ministros prevista no n.º 1 do artigo 4.º\n\n2 - Sem prejuízo da aplicação das sanções acessórias previstas no regime geral das contra-ordenações, as contra-ordenações previstas no número anterior são puníveis com coima de 5000$00 a 750000$00 ou, tratando-se de pessoa colectiva, de 50000$00 a 9000000$00.\n\n3 - A negligência é punível.\n\n4 - São competentes para o processamento das contra-ordenações a direcção regional do ambiente e a câmara municipal da área onde se tenha praticado a infracção, cabendo ao director regional do ambiente ou ao presidente da câmara municipal a aplicação das respectivas coimas.\n\n5 - A afectação do produto das coimas faz-se da seguinte forma:\n\na) 60% para o Estado;\n\nb) 40% para a entidade que processou a contra-ordenação."
+  },
+  "920342003": {
+   "fragment_id": "920456212",
+   "type": 11,
+   "heading": "Artigo 11.º — Embargo e demolição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Embargo e demolição\n\nAs obras e os trabalhos efectuados com inobservância das interdições ou dos condicionamentos previstos no presente diploma e daqueles que vierem a ser fixados na resolução do Conselho de Ministros referida no n.º 1 do artigo 4.º podem ser embargadas ou demolidas, sendo competentes para ordenar esse embargo ou demolição o director regional do ambiente ou o presidente da câmara municipal da área."
+  },
+  "920342004": {
+   "fragment_id": "920456213",
+   "type": 11,
+   "heading": "Artigo 12.º — Regiões Autónomas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Regiões Autónomas\n\nO presente diploma aplica-se às Regiões Autónomas dos Açores e da Madeira, sem prejuízo das competências cometidas aos respectivos órgãos de governo próprio e das adaptações que lhe venham a ser introduzidas por diploma regional."
+  },
+  "920342006": {
+   "fragment_id": "920456215",
+   "type": 14,
+   "heading": "Anexo — Definição dos perímetros de protecção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Definição dos perímetros de protecção\n\nNo quadro seguinte admite-se que a captação é o único elemento drenante do aquífero, onde convergem todas as linhas de fluxo, e que não existem direcções privilegiadas de fluxo:\n\n(ver quadro e fórmula no documento original)\n\nsendo os seguintes os tipos de sistemas aquíferos:\n\nTipo 1 - sistema aquífero confinado cujo suporte litológico é constituído por formações porosas;\n\nTipo 2 - sistema aquífero livre cujo suporte litológico é constituído por formações porosas;\n\nTipo 3 - sistema aquífero semiconfinado cujo suporte litológico é constituído por formações porosas;\n\nTipo 4 - sistema aquífero cujo suporte litológico é constituído por formações carbonatadas;\n\nTipo 5 - sistema aquífero cujo suporte litológico é constituído por formações ígneas e metamórficas fissuradas;\n\nTipo 6 - sistema aquífero cujo suporte litológico é constituído por formações ígneas e metamórficas pouco fissuradas e ou alteradas.\n\nValores de porosidade eficaz\n\n(ver quadro no documento original)"
+  },
+  "920342007": {
+   "fragment_id": "920456205",
+   "type": 11,
+   "heading": "Artigo 4.º — Delimitação dos perímetros de protecção",
+   "in_force_from": "2007-06-01",
+   "changed_by": [
+    "Alterado pelo/a Artigo 88.º do/a [Decreto-Lei n.º 226-A/2007 - Diário da República n.º 105/2007, 2º Suplemento, Série I de 2007-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), em vigor a partir de 2007-06-01"
+   ],
+   "markdown": "###### Artigo 4.º — Delimitação dos perímetros de protecção\n\n1 - Compete ao membro do Governo responsável pela área do ambiente, através de portaria, aprovar a delimitação dos perímetros de protecção, identificando as instalações e actividades, de entre as mencionadas nos n.ºs 2, 4 e 7 do artigo 6.º, que ficam sujeitas a interdições ou a condicionamentos e definir o tipo de condicionamentos.\n\n2 - As propostas de delimitação e respectivos condicionamentos são elaboradas pela direcção regional do ambiente territorialmente competente com base nas propostas e estudos próprios que lhe sejam apresentados pela entidade requerente da licença de captação de águas subterrâneas destinadas ao consumo humano, de acordo com o disposto no presente diploma, no disposto no Decreto-Lei n.º 236/98, de 1 de Agosto, e demais legislação aplicável.\n\n3 - As entidades responsáveis pelas captações já existentes, quer estejam em funcionamento quer constituam uma reserva potencial de abastecimento de água subterrânea, devem promover a delimitação dos perímetros de protecção nos termos previstos nos número anteriores.\n\n4 - Os perímetros de protecção das captações de água subterrânea para abastecimento público de água para consumo humano são revistos, sempre que se justifique, por iniciativa da direcção regional do ambiente territorialmente competente ou da entidade responsável pela captação.\n\n5 - A autorização para a captação destinada ao consumo humano, prevista no Decreto-Lei n.º 46/94, de 22 de Fevereiro, que se insira no âmbito de aplicação do presente diploma pressupõe a prévia delimitação do respectivo perímetro de protecção.\n\n> Alterado pelo/a Artigo 88.º do/a [Decreto-Lei n.º 226-A/2007 - Diário da República n.º 105/2007, 2º Suplemento, Série I de 2007-05-31](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), em vigor a partir de 2007-06-01"
+  },
+  "920342005": {
+   "fragment_id": "920456214",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros em 22 de Julho de 1999. - Jaime José Matos da Gama - João Cardona Gomes Cravinho - Francisco Ventura Ramos - Elisa Maria da Costa Guimarães Ferreira.\n\nPromulgado em 3 de Setembro de 1999.\n\nPublique-se.\n\nO Presidente da República, JORGE SAMPAIO.\n\nReferendado em 9 de Setembro de 1999.\n\nO Primeiro-Ministro, António Manuel de Oliveira Guterres."
+  }
+ }
+}

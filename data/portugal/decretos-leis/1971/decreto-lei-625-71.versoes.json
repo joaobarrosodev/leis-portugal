@@ -1,0 +1,310 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:165993:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1971-939815692",
+ "dre_path": "/dr/detalhe/decreto-lei/625-1971-165993",
+ "source_lastmod": "2025-10-14",
+ "versions": [
+  {
+   "date": "1971-12-31",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "940613767",
+    "939596042",
+    "939596043",
+    "939596044",
+    "939596045",
+    "939596046",
+    "939596047",
+    "939596048",
+    "939596049",
+    "939596050",
+    "939596051",
+    "939596052"
+   ]
+  },
+  {
+   "date": "1972-06-03",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:681846:por",
+     "title": "Rectificação",
+     "published": "1972-05-29",
+     "dre_path": "/dr/detalhe/rectificacao/1972-681846"
+    }
+   ],
+   "changes": [
+    "Retifica Artigo 4.º",
+    "Retifica Artigo 7.º",
+    "Retifica Artigo 11.º"
+   ],
+   "fragments": [
+    "939596041",
+    "939596042",
+    "939596043",
+    "939596044",
+    "939912678",
+    "939596046",
+    "939596047",
+    "939912679",
+    "939596049",
+    "939596050",
+    "939596051",
+    "939912680",
+    "939596053"
+   ]
+  },
+  {
+   "date": "1981-09-06",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:565219:por",
+     "title": "Decreto-Lei n.º 256/81",
+     "published": "1981-09-01",
+     "dre_path": "/dr/detalhe/decreto-lei/256-1981-565219"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 7.º"
+   ],
+   "fragments": [
+    "939596041",
+    "940673892",
+    "940673893",
+    "939596044",
+    "940673894",
+    "939596046",
+    "939596047",
+    "940673895",
+    "939596049",
+    "939596050",
+    "939596051",
+    "939912680",
+    "939596053"
+   ]
+  },
+  {
+   "date": "1990-05-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:571214:por",
+     "title": "Decreto-Lei n.º 141/90",
+     "published": "1990-05-02",
+     "dre_path": "/dr/detalhe/decreto-lei/141-1990-571214"
+    }
+   ],
+   "changes": [
+    "Altera Diploma"
+   ],
+   "fragments": [
+    "940613767",
+    "940673892",
+    "940673893",
+    "939596044",
+    "940673894",
+    "939596046",
+    "939596047",
+    "940673895",
+    "939596049",
+    "939596050",
+    "939596051",
+    "939912680",
+    "939596053"
+   ]
+  }
+ ],
+ "fragments": {
+  "940613767": {
+   "fragment_id": "939815693",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "1990-05-07",
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 625/71\n\nde 31 de Dezembro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição e nos termos da autorização concedida pela alínea d) do n.º 1 do artigo 11.º da Lei n.º 9/71, de 23 de Dezembro, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "939596042": {
+   "fragment_id": "939815694",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. As pessoas singulares ou colectivas, concessionárias ou arrendatárias, que exerçam em Portugal europeu, compreendida a respectiva plataforma continental, a indústria extractiva de petróleo, incluindo prospecção, pesquisa, desenvolvimento e exploração, bem como todas as que com elas se encontrem de qualquer forma associadas (joint-venture, farm-out, etc.), ficam sujeitas ao pagamento ao Estado dos seguintes encargos fiscais:\n\na) Renda de superfície;\n\nb) Imposto sobre a produção de petróleo (royalty);\n\nc) Imposto sobre o rendimento do petróleo.\n\n2. Os contratos de concessão poderão fixar outros encargos além dos referidos no número anterior e estabelecer as respectivas regras de pagamento.\n\n3. Sobre os encargos referidos nos n.os 1 e 2 não incidirão quaisquer adicionais, quer para o Estado, quer para as autarquias locais."
+  },
+  "939596043": {
+   "fragment_id": "939815695",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. A renda de superfície, a pagar anual e adiantadamente e nunca reembolsável, será fixada para cada concessão, por despacho do Ministro das Finanças e do Secretário de Estado da Indústria, entre os limites de 100$00 e 20000$00 por quilómetro quadrado ou fracção.\n\n2. A renda fixada será, dentro dos limites estabelecidos no número anterior, objecto de actualização de cinco em cinco anos, de acordo com a variação do valor do escudo."
+  },
+  "939596044": {
+   "fragment_id": "939815696",
+   "type": 11,
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO imposto sobre a produção de petróleo (royalty) será de 12,5 por cento das quantidades produzidas, ou do seu valor, determinadas no ponto de medida fixado pela fiscalização, deduzidas das quantidades consumidas in natura nas operações de prospecção, pesquisa, desenvolvimento e explorarão, com as seguintes excepções:\n\na) 16 2/3 por cento no caso de ramas e gás comercial produzidos em cada campo até à data da aprovação do respectivo\n\nplano de exploração;\n\nb) 24 por cento no caso de gasolina natural produzida em cada campo até à data da aprovação do respectivo plano de exploração;\n\nc) 16 2/3 por cento no caso de gasolina natural produzida em cada campo após a data da aprovação do respectivo plano de exploração."
+  },
+  "939596045": {
+   "fragment_id": "939815697",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\n1. O imposto sobre o rendimento do petróleo será de 50 por cento do rendimento tributável determinado nos termos que se seguem.\n\n2. O rendimento tributável reportar-se-á ao saldo revelado pela conta de resultados do exercício ou de ganhos e perdas, elaborada em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício e os custos ou perdas imputáveis ao mesmo, uns e outros corrigidos nos termos deste diploma e do respectivo regulamento aprovado pelo Governo.\n\n3. Consideram-se proveitos ou ganhos realizados no exercício os provenientes de quaisquer transacções ou operações realizadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, designadamente os resultantes:\n\na) Da actividade básica, tais como os resultantes da venda de produtos e de quaisquer outros bens ou serviços, e bem assim de bónus e abatimentos conseguidos e de comissões e corretagens;\n\nb) De actividades complementares ou acessórias, incluindo as de carácter social e assistencial;\n\nc) De rendimentos de bens ou valores mantidos como reserva ou para fruição, salvo os que provierem de quaisquer títulos da dívida pública;\n\nd) De operações de natureza financeira, tais como juros, dividendos e participações em lucros de sociedades, descontos, ágios, transferências, oscilações cambiais e prémios de emissão de obrigações;\n\ne) De remunerações auferidas pelo exercício de cargos sociais noutras empresas;\n\nf) De rendimentos de propriedade industrial ou outros análogos;\n\ng) Da prestação de serviços de carácter administrativo, comercial, industrial, científico, técnico e de investigação;\n\nh) Da transmissão onerosa, qualquer que seja o título por que se opere, de quaisquer bens do activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, considerando-se como ganho a diferença entre o valor da realização e o valor de aquisição deduzido das respectivas reintegrações e amortizações acumuladas e contabilizadas;\n\ni) De quaisquer contratos ou acordos relativos à cedência de direitos ou comparticipações de terceiros em direitos ou produtos.\n\n4. São também havidos como proveitos ou ganhos ou valores correspondentes aos produtos entregues a título de pagamento do imposto sobre a produção de petróleo, na exacta medida em que este seja considerado custo.\n\n5. São ainda havidas como proveitos ou ganhos as indemnizações que, de algum modo, representem compensação dos que deixarem de ser obtidos.\n\n6. Consideram-se custos ou perdas imputáveis ao exercício os que, dentro dos limites considerados razoáveis pela Direcção-Geral das Contribuições e Impostos, se tornou indispensável suportar para a realização dos proveitos ou ganhos sujeitos a imposto e para a manutenção da fonte produtora, designadamente os seguintes:\n\na) Encargos da actividade básica, acessória ou complementar, relativos à produção ou aquisição de quaisquer bens ou serviços, tais como os respeitantes a materiais diversos, artigos de consumo corrente, mão-de-obra, energia e outros gastos gerais de produção, conservação ou reparação;\n\nb) Encargos de recolha, armazenagem, transporte, entrega, distribuição e venda;\n\nc) Encargos de natureza administrativa, designadamente remunerações, ajudas de custo, material de consumo corrente, transportes e comunicações, deslocações e transferências de pessoal, rendas, contenciosos e seguros, com excepção dos de vida;\n\nd) Encargos com análises, racionalização, investigação, consulta e ainda com a especialização do seu pessoal de harmonia com programas aprovados pelo Secretário de Estado da Indústria;\n\ne) Encargos fiscais e parafiscais a que o contribuinte estiver sujeito, incluindo o imposto sobre a produção de petróleo, ainda que pago em espécie, sem prejuízo do disposto no n.º 7 deste artigo;\n\nf) Reintegrações das instalações de produção afectas a áreas demarcadas definitivamente, recolha, armazenagem, entrega, transporte e tratamento de petróleo;\n\ng) Reintegrações e amortizações de custo de concessão calculado proporcionalmente às áreas demarcadas definitivamente para produção e às áreas abandonadas;\n\nh) Reintegrações e amortizações de quaisquer elementos do activo sujeitos a deperecimento diferentes dos referidos nas alíneas f) e g);\n\ni) Encargos com as operações de prospecção, pesquisa e desenvolvimento relativos às áreas demarcadas definitivamente para produção;\n\nj) Indemnizações resultantes de eventos cujo risco não seja segurável e desde que não resultem de incúria ou falta de diligência;\n\nk) Dívidas incobráveis, resultantes da actividade normal da empresa, quando reconhecidas como tais em processo judicial de execução, falência ou insolvência;\n\nl) Juros e outros encargos relativos a empréstimos quando autorizados pelo Secretário de Estado da Indústria;\n\nm) Donativos concedidos ao Estado e às autarquias locais, bem como os concedidos a instituições portuguesas de ensino ou de investigação científica que pelo Ministro das Finanças, ouvido o da Economia, sejam considerados de interesse para o desenvolvimento industrial do País;\n\nn) 80 por cento dos gastos suportados com a manutenção facultativa de creches, lactários, cantinas, bibliotecas e escolas, bem como outras realizações de utilidade social devidamente reconhecidas pela Direcção-Geral das Contribuições e Impostos em benefício do pessoal da empresa e seus familiares.\n\n7. Não se consideram custos ou perdas do exercício:\n\na) As reintegrações e amortizações contabilizadas fora do ano a que respeitam ou que excedam as taxas das respectivas tabelas;\n\nb) As despesas de representação, ainda que escrituradas sob qualquer outro título, e mesmo que devidamente documentadas, na parte em que a Direcção-Geral das Contribuições e Impostos as repute exageradas;\n\nc) As despesas ou quotas de despesas com instalações próprias ou alheias fora do País;\n\nd) As verbas escrituradas a título de fundos, provisões e reservas;\n\ne) As diferenças para menos entre o valor de realização e o valor de aquisição deduzido das respectivas reintegrações e amortizações acumuladas e contabilizadas na transmissão, qualquer que seja o título por que se opere, de bens do activo imobilizado ou de bens ou valores mantidas como reserva ou para fruição;\n\nf) O imposto sobre o rendimento do petróleo e os impostos cuja parte do Estado é dedutível naquele imposto nos termos do n.º 9 deste artigo;\n\ng) Os impostos e outros encargos legais devidos pelos dirigentes, colaboradores e demais pessoal das empresas e que estas tomem sobre si;\n\nh) Os impostos liquidados no estrangeiro;\n\ni) As multas e demais encargos pela prática de infracções fiscais, bem como as indemnizações pela verificação de eventos cujo risco seja segurável;\n\nj) Os juros intercalares nos termos do § 1.º do artigo 192.º do Código Comercial;\n\nk) Os direitos e mais imposições aduaneiras de importação sobre artigos que venham a ser vendidos e para os quais se tenha verificado isenção anterior.\n\n8. Os prejuízos verificados em determinado exercício serão deduzidos aos rendimentos tributáveis, havendo-os, de um, ou mais, dos cinco anos seguintes.\n\n9. Do imposto liquidado e até à concorrência da respectiva importância, deduzir-se-á a parte do Estado nos impostos sobre o rendimento liquidados ao mesmo contribuinte no ano a que aquele imposto respeita."
+  },
+  "939596046": {
+   "fragment_id": "939815698",
+   "type": 11,
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nOs contribuintes poderão reclamar contra a liquidação dos encargos fiscais criados pelo presente diploma, ou impugná-la, com os fundamentos e nos termos estabelecidos no Código de Processo das Contribuições e Impostos."
+  },
+  "939596047": {
+   "fragment_id": "939815699",
+   "type": 11,
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nNo regulamento para execução deste diploma podem ser estabelecidas multas para as infracções às suas disposições, entre 5000$00 e 2000000$00 ou até ao dobro do imposto em dívida, quando determinadas em função deste."
+  },
+  "939596048": {
+   "fragment_id": "939815700",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. A colocação de quaisquer instalações e equipamentos na plataforma continental portuguesa depende do acordo do Secretário de Estado da Indústria, ouvidos os departamentos interessados.\n\n2. Sem prejuízo do estabelecido pelas regras de direito internacional aplicáveis, enquanto forem exercidas actividades de prospecção, pesquisa, desenvolvimento e exploração de campos petrolíferos da plataforma continental, as instalações e equipamentos nelas empregados considerar-se-ão sujeitos à jurisdição portuguesa, tal como se se encontrassem em território nacional.\n\n3. A importação definitiva de material destinado exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento e exploração de campos petrolíferos fica isenta de direitos, nos termos do artigo 5.º do Decreto-Lei n.º 43962, de 14 de Outubro de 1961.\n\n4. Esta isenção, porém, não é aplicável a quaisquer mercadorias ou artigos que sejam importados pela concessionária ou por qualquer das entidades suas associadas ou que com ela cooperem para consumo ou utilização do seu pessoal.\n\n5. Poderá ser autorizada, com observância dos preceitos legais, a importação temporária, pelo prazo de seis meses, renovável, de materiais - incluindo os de natureza flutuante ou fixa - destinados a ser exclusivamente utilizados nos trabalhos da concessionária ou de qualquer das entidades suas associadas ou que com ela cooperem até aos limites extremos da zona correspondente à concessão."
+  },
+  "939596049": {
+   "fragment_id": "939815701",
+   "type": 11,
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\nOs produtos extraídos da plataforma continental consideram-se, para todos os efeitos, extraídos do território nacional."
+  },
+  "939596050": {
+   "fragment_id": "939815702",
+   "type": 11,
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\nAo artigo 15.º do Código da Contribuição Industrial é aditada a alínea d), com a redacção seguinte:\n\nArt. 15.º ...\n\nd) Imposto sobre o rendimento do petróleo."
+  },
+  "939596051": {
+   "fragment_id": "939815703",
+   "type": 11,
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nÉ aditada ao n.º 1.º do artigo 8.º do Código do Imposto Complementar a alínea z'''), com a seguinte redacção:\n\nArt. 8.º ...\n\n1.º ...\n\nz''') Os rendimentos sujeitos ao imposto sobre o rendimento do petróleo."
+  },
+  "939596052": {
+   "fragment_id": "939815704",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nO artigo 5.º do Código do Imposto de Mais-Valias passa a ter a seguinte redacção:\n\nArt. 5.º ...\n\n8.º As pessoas sujeitas ao imposto sobre o rendimento do petróleo.\n\n§ único. A isenção do imposto pelos ganhos a que respeita o n.º 4.º do artigo 1.º, quando se trate das entidades definidas nos n.os 2.º a 8.º deste artigo, só terá lugar relativamente àquelas que, até à data da celebração da escritura do aumento de capital, apresentem à sociedade uma declaração do seu direito à isenção, indicando na mesma o preceito legal que a concede e, sendo caso disso, o despacho mencionado no artigo 9.º"
+  },
+  "939596041": {
+   "fragment_id": "939815693",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto-Lei n.º 625/71\n\nde 31 de Dezembro\n\nUsando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição e nos termos da autorização concedida pela alínea d) do n.º 1 do artigo 11.º da Lei n.º 9/71, de 23 de Dezembro, o Governo decreta e eu promulgo, para valer como lei, o seguinte:"
+  },
+  "939912678": {
+   "fragment_id": "939815697",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1972-06-03",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1. O imposto sobre o rendimento do petróleo será de 50 por cento do rendimento tributável determinado nos termos que se seguem.\n\n2. O rendimento tributável reportar-se-á ao saldo revelado pela conta de resultados do exercício ou de ganhos e perdas, elaborada em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício e os custos ou perdas imputáveis ao mesmo, uns e outros corrigidos nos termos deste diploma e do respectivo regulamento aprovado pelo Governo.\n\n3. Consideram-se proveitos ou ganhos realizados no exercício os provenientes de quaisquer transacções ou operações realizadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, designadamente os resultantes:\n\na) Da actividade básica, tais como os resultantes da venda de produtos e de quaisquer outros bens ou serviços, e bem assim de bónus e abatimentos conseguidos e de comissões e corretagens;\n\nb) De actividades complementares ou acessórias, incluindo as de carácter social e assistencial;\n\nc) De rendimentos de bens ou valores mantidos como reserva ou para fruição, salvo os que provierem de quaisquer títulos da dívida pública;\n\nd) De operações de natureza financeira, tais como juros, dividendos e participações em lucros de sociedades, descontos, ágios, transferências, oscilações cambiais e prémios de emissão de obrigações;\n\ne) De remunerações auferidas pelo exercício de cargos sociais noutras empresas;\n\nf) De rendimentos de propriedade industrial ou outros análogos;\n\ng) Da prestação de serviços de carácter administrativo, comercial, industrial, científico, técnico e de investigação;\n\nh) Da transmissão onerosa, qualquer que seja o título por que se opere, de quaisquer bens do activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, considerando-se como ganho a diferença entre o valor da realização e o valor de aquisição deduzido das respectivas reintegrações e amortizações acumuladas e contabilizadas;\n\ni) De quaisquer contratos ou acordos relativos à cedência de direitos ou comparticipações de terceiros em direitos ou produtos.\n\n4. São também havidos como proveitos ou ganhos os valores correspondentes aos produtos entregues a título de pagamento do imposto sobre a produção de petróleo, na exacta medida em que este seja considerado custo.\n\n5. São ainda havidas como proveitos ou ganhos as indemnizações que, de algum modo, representem compensação dos que deixarem de ser obtidos.\n\n6. Consideram-se custos ou perdas imputáveis ao exercício os que, dentro dos limites considerados razoáveis pela Direcção-Geral das Contribuições e Impostos, se tornou indispensável suportar para a realização dos proveitos ou ganhos sujeitos a imposto e para a manutenção da fonte produtora, designadamente os seguintes:\n\na) Encargos da actividade básica, acessória ou complementar, relativos à produção ou aquisição de quaisquer bens ou serviços, tais como os respeitantes a materiais diversos, artigos de consumo corrente, mão-de-obra, energia e outros gastos gerais de produção, conservação ou reparação;\n\nb) Encargos de recolha, armazenagem, transporte, entrega, distribuição e venda;\n\nc) Encargos de natureza administrativa, designadamente remunerações, ajudas de custo, material de consumo corrente, transportes e comunicações, deslocações e transferências de pessoal, rendas, contencioso e seguros, com excepção dos de vida;\n\nd) Encargos com análises, racionalização, investigação, consulta e ainda com a especialização do seu pessoal de harmonia com programas aprovados pelo Secretário de Estado da Indústria;\n\ne) Encargos fiscais e parafiscais a que o contribuinte estiver sujeito, incluindo o imposto sobre a produção de petróleo, ainda que pago em espécie, sem prejuízo do disposto no n.º 7 deste artigo;\n\nf) Reintegrações das instalações de produção afectas a áreas demarcadas definitivamente, recolha, armazenagem, entrega, transporte e tratamento de petróleo;\n\ng) Reintegrações e amortizações do custo de concessão calculado proporcionalmente às áreas demarcadas definitivamente para produção e às áreas abandonadas;\n\nh) Reintegrações e amortizações de quaisquer elementos do activo sujeitos a deperecimento diferentes dos referidos nas alíneas f) e g);\n\ni) Encargos com as operações de prospecção, pesquisa e desenvolvimento relativos às áreas demarcadas definitivamente para produção;\n\nj) Indemnizações resultantes de eventos cujo risco não seja segurável e desde que não resultem de incúria ou falta de diligência;\n\nk) Dívidas incobráveis, resultantes da actividade normal da empresa, quando reconhecidas como tais em processo judicial de execução, falência ou insolvência;\n\nl) Juros e outros encargos relativos a empréstimos quando autorizados pelo Secretário de Estado da Indústria;\n\nm) Donativos concedidos ao Estado e às autarquias locais, bem como os concedidos a instituições portuguesas de ensino ou de investigação científica que pelo Ministro das Finanças, ouvido o da Economia, sejam consideradas de interesse para o desenvolvimento industrial do País;\n\nn) 80 por cento dos gastos suportados com a manutenção facultativa de creches, lactários, cantinas, bibliotecas e escolas, bem como outras realizações de utilidade social devidamente reconhecidas pela Direcção-Geral das Contribuições e Impostos em benefício do pessoal da empresa e seus familiares.\n\n7. Não se consideram custos ou perdas do exercício:\n\na) As reintegrações e amortizações contabilizadas fora do ano a que respeitam ou que excedam as taxas das respectivas tabelas;\n\nb) As despesas de representação, ainda que escrituradas sob qualquer outro título, e mesmo que devidamente documentadas, na parte em que a Direcção-Geral das Contribuições e Impostos as repute exageradas;\n\nc) As despesas ou quotas de despesas com instalações próprias ou alheias fora do País;\n\nd) As verbas escrituradas a título de fundos, provisões e reservas;\n\ne) As diferenças para menos entre o valor de realização e o valor de aquisição deduzido das respectivas reintegrações e amortizações acumuladas e contabilizadas na transmissão, qualquer que seja o título por que se opere, de bens do activo imobilizado ou de bens ou valores mantidas como reserva ou para fruição;\n\nf) O imposto sobre o rendimento do petróleo e os impostos cuja parte do Estado é dedutível naquele imposto nos termos do n.º 9 deste artigo;\n\ng) Os impostos e outros encargos legais devidos pelos dirigentes, colaboradores e demais pessoal das empresas e que estas tomem sobre si;\n\nh) Os impostos liquidados no estrangeiro;\n\ni) As multas e demais encargos pela prática de infracções fiscais, bem como as indemnizações pela verificação de eventos cujo risco seja segurável;\n\nj) Os juros intercalares nos termos do § 1.º do artigo 192.º do Código Comercial;\n\nk) Os direitos e mais imposições aduaneiras de importação sobre artigos que venham a ser vendidos e para os quais se tenha verificado isenção anterior.\n\n8. Os prejuízos verificados em determinado exercício serão deduzidos aos rendimentos tributáveis, havendo-os, de um, ou mais, dos cinco anos seguintes.\n\n9. Do imposto liquidado e até à concorrência da respectiva importância, deduzir-se-á a parte do Estado nos impostos sobre o rendimento liquidados ao mesmo contribuinte no ano a que aquele imposto respeita.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+  },
+  "939912679": {
+   "fragment_id": "939815700",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1972-06-03",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1. A colocação de quaisquer instalações e equipamentos na plataforma continental portuguesa depende do acordo do Secretário de Estado da Indústria, ouvidos os departamentos interessados.\n\n2. Sem prejuízo do estabelecido pelas regras de direito internacional aplicáveis, enquanto forem exercidas actividades de prospecção, pesquisa, desenvolvimento e exploração de campos petrolíferos da plataforma continental, as instalações e equipamentos nelas empregados considerar-se-ão sujeitos à jurisdição portuguesa, tal como se se encontrassem em território nacional.\n\n3. A importação definitiva de material destinado exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento e exploração de campos petrolíferos fica isenta de direitos, nos termos do artigo 5.º do Decreto-Lei n.º 43962, de 14 de Outubro de 1961.\n\n4. Esta isenção, porém, não é aplicável a quaisquer mercadorias ou artigos que sejam importados pela concessionária ou por qualquer das entidades suas associadas ou que com ela cooperem, para consumo ou utilização do seu pessoal.\n\n5. Poderá ser autorizada, com observância dos preceitos legais, a importação temporária, pelo prazo de seis meses, renovável, de materiais - incluindo os de natureza flutuante ou fixa - destinados a ser exclusivamente utilizados nos trabalhos da concessionária ou de qualquer das entidades suas associadas ou que com ela cooperem, até aos limites extremos da zona correspondente à concessão.\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+  },
+  "939912680": {
+   "fragment_id": "939815704",
+   "type": 11,
+   "heading": "Artigo 11.º",
+   "in_force_from": "1972-06-03",
+   "changed_by": [
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+   ],
+   "markdown": "###### Artigo 11.º\n\nO artigo 5.º do Código do Imposto de Mais-Valias passa a ter a seguinte redacção:\n\nArt. 5.º ...\n\n8.º As pessoas sujeitas ao imposto sobre o rendimento do petróleo.\n\n§ único. A isenção do imposto pelos ganhos a que respeita o n.º 4.º do artigo 1.º, quando se trate das entidades referidas nos n.os 2.º a 8.º deste artigo, só terá lugar relativamente àquelas que, até à data da celebração da escritura do aumento de capital, apresentem à sociedade uma declaração do seu direito à isenção, indicando na mesma o preceito legal que a concede e, sendo caso disso, o despacho mencionado no artigo 9.º\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+  },
+  "939596053": {
+   "fragment_id": "939815705",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Visto e aprovado em Conselho de Ministros. - Marcello Caetano - João Augusto Dias Rosas.\n\nPromulgado em 28 de Dezembro de 1971.\n\nPublique-se.\n\nO Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ."
+  },
+  "940673892": {
+   "fragment_id": "939815694",
+   "type": 11,
+   "heading": "Artigo 1.º",
+   "in_force_from": "1981-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06"
+   ],
+   "markdown": "###### Artigo 1.º\n\n1 - As pessoas singulares ou colectivas, concessionárias ou arrendatárias, que exerçam em Portugal a indústria extractiva de petróleo, incluindo a prospecção, pesquisa, desenvolvimento e exploração, bem como todas as que com elas se encontrem de qualquer forma associadas (joint-venture, farm-out, etc.), ficam sujeitas ao pagamento ao Estado dos seguintes encargos fiscais:\n\na) Renda de superfície;\n\nb) Imposto sobre a produção de petróleo (royalty);\n\nc) Imposto sobre o rendimento de petróleo.\n\n2 - O âmbito geográfico de aplicação deste diploma abrange:\n\na) A área emersa do território;\n\nb) O mar territorial;\n\nc) A plataforma continental.\n\n3 - Os contratos de concessão poderão fixar outros encargos além dos referidos no n.º 1 e estabelecer as respectivas regras de pagamento.\n\n4 - Sobre os encargos referidos nos n.os 1 e 3 não incidirão quaisquer adicionais, quer para o Estado quer para as autarquias locais.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06"
+  },
+  "940673893": {
+   "fragment_id": "939815695",
+   "type": 11,
+   "heading": "Artigo 2.º",
+   "in_force_from": "1981-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06"
+   ],
+   "markdown": "###### Artigo 2.º\n\n1 - A renda de superfície, a pagar anual e adiantadamente e nunca reembolsável, será fixada para cada concessão, por despacho dos Ministros das Finanças e do Plano e da Indústria e Energia, entre 1000$00 e 40000$00 por quilómetro quadrado ou fracção.\n\n2 - A renda fixada nos termos do número anterior, bem como os limites nele estabelecidos, poderão ser objecto de actualização de três em três anos, de acordo com a variação do valor do escudo.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06"
+  },
+  "940673894": {
+   "fragment_id": "939815697",
+   "type": 11,
+   "heading": "Artigo 4.º",
+   "in_force_from": "1981-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+   ],
+   "markdown": "###### Artigo 4.º\n\n1 - A taxa do imposto sobre o rendimento do petróleo será de 45% do rendimento tributável, determinado nos termos que se seguem.\n\n2. O rendimento tributável reportar-se-á ao saldo revelado pela conta de resultados do exercício ou de ganhos e perdas, elaborada em obediência a sãos princípios de contabilidade, e consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício e os custos ou perdas imputáveis ao mesmo, uns e outros corrigidos nos termos deste diploma e do respectivo regulamento aprovado pelo Governo.\n\n3. Consideram-se proveitos ou ganhos realizados no exercício os provenientes de quaisquer transacções ou operações realizadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, designadamente os resultantes:\n\na) Da actividade básica, tais como os resultantes da venda de produtos e de quaisquer outros bens ou serviços, e bem assim de bónus e abatimentos conseguidos e de comissões e corretagens;\n\nb) De actividades complementares ou acessórias, incluindo as de carácter social e assistencial;\n\nc) De rendimentos de bens ou valores mantidos como reserva ou para fruição;\n\nd) De operações de natureza financeira, tais como juros, dividendos e participações em lucros de sociedades, descontos, ágios, transferências, oscilações cambiais e prémios de emissão de obrigações;\n\ne) De remunerações auferidas pelo exercício de cargos sociais noutras empresas;\n\nf) De rendimentos de propriedade industrial ou outros análogos;\n\ng) Da prestação de serviços de carácter administrativo, comercial, industrial, científico, técnico e de investigação;\n\nh) Da transmissão onerosa, qualquer que seja o título por que se opere, de quaisquer bens do activo imobilizado ou de bens ou valores mantidos como reserva ou para fruição, considerando-se como ganho a diferença entre o valor da realização e o valor de aquisição deduzido das respectivas reintegrações e amortizações acumuladas e contabilizadas;\n\ni) De quaisquer contratos ou acordos relativos à cedência de direitos ou comparticipações de terceiros em direitos ou produtos.\n\n4 - São também havidos como proveitos ou ganhos na exacta medida em que os respectivos encargos sejam considerados custos do exercício:\n\na) Os valores de construções, equipamentos ou outros bens de investimento, de natureza corpórea ou incorpórea, produzidos e utilizados na própria empresa;\n\nb) Os valores correspondentes ao produtos entregues a título de pagamento do imposto sobre a produção de petróleo.\n\n5. São ainda havidas como proveitos ou ganhos as indemnizações que, de algum modo, representem compensação dos que deixarem de ser obtidos.\n\n6. Consideram-se custos ou perdas imputáveis ao exercício os que, dentro dos limites considerados razoáveis pela Direcção-Geral das Contribuições e Impostos, se tornou indispensável suportar para a realização dos proveitos ou ganhos sujeitos a imposto e para a manutenção da fonte produtora, designadamente os seguintes:\n\na) Encargos da actividade básica, acessória ou complementar, relativos à produção ou aquisição de quaisquer bens ou serviços, tais como os respeitantes a materiais diversos, artigos de consumo corrente, mão-de-obra, energia e outros gastos gerais de produção, conservação ou reparação;\n\nb) Encargos de recolha, armazenagem, transporte, entrega, distribuição e venda;\n\nc) Encargos de natureza administrativa, designadamente remunerações, ajudas de custo, material de consumo corrente, transportes e comunicações, deslocações e transferência de pessoal, rendas, contencioso e seguros, com excepção dos de vida, constituídos facultativamente;\n\nd) Encargos com análises, racionalização, investigação, consulta e ainda com a especialização do seu pessoal de harmonia com programas aprovados pelo Secretário de Estado da Indústria;\n\ne) Encargos fiscais e parafiscais a que o contribuinte estiver sujeito, incluindo o imposto sobre a produção de petróleo, ainda que pago em espécie, sem prejuízo do disposto no n.º 7 deste artigo;\n\nf) Reintegrações das instalações de produção afectas a áreas demarcadas definitivamente, recolha, armazenagem, entrega, transporte e tratamento de petróleo;\n\ng) Reintegrações e amortizações do custo da concessão, calculadas à taxa máxima de 25%, na parte que, no total da área da concessão, corresponder proporcionalmente à soma das áreas demarcadas definitivamente para produção com as áreas abandonadas;\n\nh) Reintegrações e amortizações de quaisquer elementos do activo sujeitos a deperecimento diferentes dos referidos nas alíneas f) e g);\n\ni) Encargos com as operações de prospecção, pesquisa e desenvolvimento relativos às áreas demarcadas definitivamente para produção;\n\nj) Indemnizações resultantes de eventos cujo risco não seja segurável e desde que não resultem de incúria ou falta de diligência;\n\nk) Dívidas incobráveis, resultantes da actividade normal da empresa, quando reconhecidas como tais em processo judicial de execução, falência ou insolvência;\n\nl) Juros e outros encargos relativos a empréstimos quando autorizados pelo Secretário de Estado da Indústria;\n\nm) Donativos concedidos ao Estado e às autarquias locais, bem como os concedidos a instituições portuguesas de ensino ou de investigação científica que pelo Ministro das Finanças, ouvido o da Economia, sejam consideradas de interesse para o desenvolvimento industrial do País;\n\nn) Os gastos suportados com a manutenção facultativa de creches, lactários, cantinas, bibliotecas e escolas, bem como com outras realizações de utilidade social devidamente reconhecidas pela Direcção-Geral das Contribuições e Impostos em benefício do pessoal da empresa e seus familiares.\n\n6-A - Poderão ainda os contribuintes constituir anualmente uma provisão para a reconstituição de jazigos (PRJ), a considerar como custo do exercício, obedecendo aos seguintes condicionalismos:\n\na) A PRJ não poderá exceder o mais baixo dos seguintes valores:\n\n1) 25% do valor bruto das vendas do petróleo produzido pelo contribuinte nas respectivas áreas de concessão, efectuadas no exercício a que respeita a provisão;\n\n2) 40% do montante em que se computar o rendimento tributável declarado pelo contribuinte, nos termos deste decreto-lei e do respectivo regulamento, calculado sem consideração da PRJ;\n\nb) As importâncias constitutivas da PRJ deverão ser investidas em prospecção ou pesquisa de petróleo no espaço a que se refere o n.º 2 do artigo 1.º dentro dos três anos seguintes ao da respectiva constituição;\n\nc) A PRJ será considerada como proveito ou ganho, para efeitos fiscais, se for aplicada para fins diferentes daqueles para que é estabelecida ou se a sua aplicação se não verificar, no todo ou em parte, no prazo a que se refere a alínea anterior.\n\n7. Não se consideram custos ou perdas do exercício:\n\na) As reintegrações e amortizações contabilizadas fora do ano a que respeitam ou que excedam as taxas das respectivas tabelas;\n\nb) As despesas de representação, ainda que escrituradas sob qualquer outro título, e mesmo que devidamente documentadas, na parte em que a Direcção-Geral das Contribuições e Impostos as repute exageradas;\n\nc) As despesas ou quotas de despesas com instalações próprias ou alheias fora do País;\n\nd) As verbas escrituradas a título de fundos, provisões e reservas, salvo o disposto no n.º 6-A;\n\ne) As diferenças para menos entre o valor de realização e o valor de aquisição deduzido das respectivas reintegrações e amortizações acumuladas e contabilizadas na transmissão, qualquer que seja o título por que se opere, de bens do activo imobilizado ou de bens ou valores mantidas como reserva ou para fruição;\n\nf) O imposto sobre o rendimento do petróleo e os impostos cuja parte do Estado é dedutível naquele imposto nos termos do n.º 9 deste artigo;\n\ng) Os impostos e outros encargos legais devidos pelos dirigentes, colaboradores e demais pessoal das empresas e que estas tomem sobre si;\n\nh) Os impostos liquidados no estrangeiro;\n\ni) As multas e demais encargos pela prática de infracções fiscais, bem como as indemnizações pela verificação de eventos cujo risco seja segurável;\n\nj) Os juros intercalares nos termos do § 1.º do artigo 192.º do Código Comercial;\n\nk) Os direitos e mais imposições aduaneiras de importação sobre artigos que venham a ser vendidos e para os quais se tenha verificado isenção anterior.\n\n8. Os prejuízos verificados em determinado exercício serão deduzidos aos rendimentos tributáveis, havendo-os, de um, ou mais, dos cinco anos seguintes.\n\n9. Do imposto liquidado e até à concorrência da respectiva importância, deduzir-se-á a parte do Estado nos impostos sobre o rendimento liquidados ao mesmo contribuinte no ano a que aquele imposto respeita.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+  },
+  "940673895": {
+   "fragment_id": "939815700",
+   "type": 11,
+   "heading": "Artigo 7.º",
+   "in_force_from": "1981-09-06",
+   "changed_by": [
+    "Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06",
+    "Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+   ],
+   "markdown": "###### Artigo 7.º\n\n1. A colocação de quaisquer instalações e equipamentos na plataforma continental portuguesa depende do acordo do Secretário de Estado da Indústria, ouvidos os departamentos interessados.\n\n2. Sem prejuízo do estabelecido pelas regras de direito internacional aplicáveis, enquanto forem exercidas actividades de prospecção, pesquisa, desenvolvimento e exploração de campos petrolíferos da plataforma continental, as instalações e equipamentos nelas empregados considerar-se-ão sujeitos à jurisdição portuguesa, tal como se se encontrassem em território nacional.\n\n3 - A importação definitiva de material ou equipamento destinado exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento ou exploração de petróleo no espaço a que se refere o n.º 2 do artigo 1.º, ainda que ao abrigo de licenças ou de autorização de prospecção petrolífera, fica isenta de direitos, nos termos do artigo 5.º do Decreto-Lei n.º 43962, de 14 de Outubro de 1961, bem como de quaisquer sobretaxas.\n\n4. Esta isenção, porém, não é aplicável a quaisquer mercadorias ou artigos que sejam importados pela concessionária ou por qualquer das entidades suas associadas ou que com ela cooperem, para consumo ou utilização do seu pessoal.\n\n5 - Poderá ser autorizada, com observância dos preceitos legais, a importação temporária, pelo prazo de seis meses, renovável, de materiais ou equipamentos - incluindo os de natureza flutuante ou fixa - destinados a ser exclusivamente utilizados em trabalhos de prospecção, pesquisa, desenvolvimento e exploração de petróleo, seja por concessionários, incluindo quaisquer entidades associadas ou que com eles cooperem, seja por titulares de licenças ou de autorizações de prospecção petrolífera.\n\n> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 256/81 - Diário da República n.º 200/1981, Série I de 1981-09-01](https://diariodarepublica.pt/dr/detalhe/decreto-lei/256-1981-565219), em vigor a partir de 1981-09-06\n\n> Retificado pelo/a [Rectificação - Diário do Governo n.º 126/1972, Série I de 1972-05-29](https://diariodarepublica.pt/dr/detalhe/rectificacao/1972-681846), em vigor a partir de 1972-06-03"
+  }
+ }
+}

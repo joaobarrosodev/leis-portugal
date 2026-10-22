@@ -1,0 +1,151 @@
+---
+schema_version: '1.0'
+id: pt:dre:514206:por
+title: Decreto-Lei n.º 43310
+short_title: null
+summary: Regula o instituto da revisão de processos de disciplina militar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Presidência do Conselho - Gabinete do Ministro da Defesa Nacional
+proposing_entity: null
+official_number: '43310'
+official_date: null
+publication_date: '1960-11-14'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 264/1960, Série I de 1960-11-14
+  number: '264'
+  series: I
+  supplement: null
+  pages: 2441 - 2442
+  pdf_url: https://files.diariodarepublica.pt/1s/1960/11/26400/24412442.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '514206'
+  dre_path: /dr/detalhe/decreto-lei/43310-1960-514206
+  internal: pt:dre:514206:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43310-1960-514206
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/43310-1960-514206
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1964-11-02T00:00:00Z'
+integrity:
+  source_sha256: bc5bf6dd55488a95ecd67fffeb4081ed2d2d9b906c313e7562c75ea634b562fd
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1960/DRE-1960-43310-514206.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:536065:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 43310
+
+1. A necessidade de regular o instituto da revisão de processos de disciplina militar não carece de justificação. A disparidade existente com a generalidade, ou mesmo totalidade, das leis disciplinares vigentes entre nós, nas quais se admite há muito, por forma expressa e com regulamentação adequada, o benefício do recurso excepcional de revisão, e a consideração de que não devem cercear-se, por imperativos de ordem ética e jurídica, os direitos à demonstração, pelo condenado, da própria inocência, impunham categòricamente idêntica providência no sector da disciplina militar.
+
+2. A delimitação dos fundamentos e efeitos da revisão é de principal importância para uma disciplina equilibrada desse instituto. Medida excepcional, não se compadece nem com excessivos entraves, nem tão-pouco com demasiadas facilidades. Ambos estes defeitos defraudariam o seu fim, não harmonizando a um tempo, numa mesma aspiração de justiça, os interesses individuais do condenado e os interesses colectivos da Administração. Com excepção de pequenos desvios, as soluções adoptadas não se afastam, todavia, da legislação vigente na disciplina civil.
+
+3. Finalmente, cumpre advertir que a matéria agora legislada deveria ser exarada num diploma que disciplinasse toda a legislação de índole disciplinar aplicável aos membros das forças armadas, ainda dispersa por vários diplomas. Porém, a falta de acabamento dos trabalhos respectivos e a premência da adopção legal expressa e de regulamentação adequada do instituto da revisão aconselham a publicação imediata deste diploma, até a título de experiência que sugira as correcções indispensáveis, a integrar depois em futuro regulamento de disciplina militar.
+
+Aproveita-se a oportunidade para inserir uma disposição transitória que evite quaisquer dúvidas sobre a aplicabilidade imediata da doutrina deste diploma aos processos disciplinares anteriores à sua vigência.
+
+Nestes termos:
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º Os processos de disciplina militar poderão ser revistos quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inocência do condenado e que não puderam ser utilizados pelo arguido no processo disciplinar.
+
+§ 1.º A revisão deverá ser pedida no prazo de 180 dias, contados da data em que o interessado obteve a possibilidade de invocar as circunstâncias ou os meios de prova alegados como fundamento da revisão.
+
+§ 2.º A simples alegação de ilegalidade, de forma ou de fundo, do processo e decisão disciplinar não constitui fundamento para a revisão.
+
+§ 3.º Impossibilitando-se ou falecendo o punido, a revisão poderá ser pedida pelos seus ascendentes, descendentes, irmãos, cônjuge ou herdeiros.
+
+§ 4.º A revisão não pode ser pedida mais que uma vez pelos mesmos fundamentos de facto.
+
+###### Art. 2.º O interessado na revisão de um processo disciplinar apresentará requerimento nesse sentido ao Conselho Superior de Disciplina do Exército ou da Armada ou à Comissão Técnica da Força Aérea, conforme os casos.
+
+§ único. O requerimento indicará as circunstâncias e todos os meios de prova não considerados no processo a rever que ao requerente pareçam justificar a revisão e deverá ser instruído com os documentos indispensáveis.
+
+###### Art. 3.º Recebido o requerimento, o competente conselho superior de disciplina, ou a Comissão Técnica da Força Aérea, resolverá sobre se deve ou não ser concedida a revisão do processo.
+
+§ único. É definitiva e inatacável a decisão que não conceder a revisão.
+
+###### Art. 4.º Concedida a revisão, será o respectivo processo apenso ao processo a rever, seguindo-se na instrução e julgamento os trâmites estabelecidos nos artigos 171.º a 185.º do Regulamento de Disciplina Militar que forem aplicáveis.
+
+§ único. Serão recusados os documentos e as diligências desnecessários à descoberta da verdade, podendo ser mandados retirar os documentos que estiverem nessas condições.
+
+###### Art. 5.º Se o punido estiver impossibilitado de organizar a sua defesa, em virtude de anomalia mental ou física, por motivo de doença, o conselho superior de disciplina respectivo, ou a Comissão Técnica da Força Aérea, nomeará um curador, preferindo no entanto a pessoa a quem competiria a tutela no caso de interdição, segundo a ordem estabelecida nos n.os 1.º, 2.º e 3.º do artigo 320.º do Código Civil.
+
+§ único. Esta nomeação é restrita à revisão dos processos disciplinares, podendo o curador usar de todos os meios de defesa facultados aos infractores.
+
+###### Art. 6.º No julgamento, o conselho superior de disciplina respectivo, ou a Comissão Técnica da Força Aérea, pode concluir pela inocência do condenado, ou pela sua menor culpabilidade, ou ainda pela procedência da acusação.
+
+###### Art. 7.º Julgando-se procedente a revisão, será revogada, total ou parcialmente, a decisão proferida no processo revisto, consoante se concluir pela inocência do arguido ou tão-sòmente pela sua menor culpabilidade.
+
+§ único. A revogação a que se refere este artigo produzirá os seguintes efeitos:
+
+1.º Cancelamento do registo da pena nos documentos de matrícula do reabilitado;
+
+2.º Anulação dos efeitos da pena, observando-se, porém, as seguintes excepções:
+
+a) Serão respeitadas as situações criadas pelo provimento nas vagas abertas em consequência do castigo imposto, mas sempre sem prejuízo da antiguidade do reabilitado à data da aplicação da pena;
+
+b) Se, entretanto, lhe tiver competido a promoção, o reabilitado reocupará o seu lugar depois de satisfeitas todas as condições legais de promoção. Se não houver vacatura no quadro, passará a supranumerário o militar que esteja colocado no final da escala, sem diminuição dos vencimentos que esteja percebendo.
+
+c) O reabilitado terá direito a uma indemnização, se a pedir, nos termos e condições a estabelecer.
+
+###### Art. 8.º A simples substituição de pena sòmente produz efeitos a partir da data do respectivo cumprimento, mas em nenhum caso serão pagos os vencimentos ou pensões deixados de receber.
+
+###### Art. 9.º A revisão do processo não suspende, em regra, o cumprimento da pena. Se, porém, esta for privativa de liberdade, a entidade que concedeu a revisão poderá autorizar a suspensão.
+
+###### Art. 10.º O presente diploma é aplicável, nos mesmos termos, aos processos anteriores à sua vigência e a partir desta se contará o prazo referido no § 1.º do artigo 1.º, se a possibilidade de invocação das circunstâncias ou meios de prova tiver surgido antes.
+
+**Publique-se e cumpra-se como nele se contém.**
+
+Paços do Governo da República, 14 de Novembro de 1960. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Júlio Carlos Alves Dias Botelho Moniz - Arnaldo Schulz - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Afonso Magalhães de Almeida Fernandes - Fernando Quintanilha Mendonça Dias - Marcello Gonçalves Nunes Duarte Mathias - Eduardo de Arantes e Oliveira - Vasco Lopes Alves - Francisco de Paula Leite Pinto - José do Nascimento Ferreira Dias Júnior - Carlos Gomes da Silva Ribeiro - Henrique Veiga de Macedo.

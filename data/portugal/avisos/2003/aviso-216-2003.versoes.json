@@ -1,0 +1,37 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:468994:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/aviso/2003-994210283",
+ "dre_path": "/dr/detalhe/aviso/216-2003-468994",
+ "source_lastmod": "2026-06-19",
+ "versions": [
+  {
+   "date": "2003-11-08",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1134011975",
+    "995121575"
+   ]
+  }
+ ],
+ "fragments": {
+  "1134011975": {
+   "fragment_id": "995121275",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Por ordem superior se torna público que, em 1 de Agosto de 2003, a República da Letónia depositou o seu instrumento de adesão ao Acordo sobre a Conservação dos Morcegos na Europa, concluído em Londres no dia 4 de Dezembro de 1991.\n\nPortugal é Parte do mesmo Acordo, aprovado, para aceitação, pelo Decreto n.º 31/95, publicado no Diário da República, 1.ª série-A, n.º 190, de 18 de Agosto de 1995, tendo depositado o seu instrumento de aceitação em 10 de Janeiro de 1996, conforme o Aviso n.º 118/99 (Diário da República, 1.ª série-A, n.º 206, de 3 de Setembro de 1999), e tendo o Acordo entrado em vigor em 16 de Janeiro de 1994 (Diário da República, 1.ª série-A, n.º 206, de 3 de Setembro de 1999)."
+  },
+  "995121575": {
+   "fragment_id": "995121475",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Direcção-Geral dos Assuntos Multilaterais, 16 de Outubro de 2003. - A Directora de Serviços das Organizações Económicas Internacionais, Graça Gonçalves Pereira."
+  }
+ }
+}

@@ -1,0 +1,236 @@
+---
+schema_version: '1.0'
+id: pt:dre:130473147:por
+title: Decreto Regulamentar Regional n.º 24/2020/M
+short_title: null
+summary: Aprova a orgânica da Direção Regional Adjunta dos Assuntos Parlamentares, Relações Externas e da Coordenação da Região
+  Autónoma da Madeira
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 24/2020/M
+official_date: null
+publication_date: '2020-03-23'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 58/2020, Série I de 2020-03-23
+  number: '58'
+  series: I
+  supplement: null
+  pages: 6 - 9
+  pdf_url: https://files.diariodarepublica.pt/1s/2020/03/05800/0000600009.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/24/2020/03/23/m/dre/pt/html
+  oj: null
+  dre: '130473147'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/24-2020-130473147
+  internal: pt:dre:130473147:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2020-130473147
+  metadata_url: https://data.dre.pt/eli/decregulreg/24/2020/03/23/m/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/24-2020-130473147
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2021-11-16T00:00:00Z'
+integrity:
+  source_sha256: 41de3619b81016df84bb36c3546910b3a0c1b4610e3b3e1c30053133acd0fe7a
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-30/2020/DRE-2020-24-130473147.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Orgânica
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Transferência de Pessoal
+- Direção Regional Adjunta de Economia
+- Vice-Presidência do Governo Regional e dos Assuntos Parlamentares
+- Direção Regional Adjunta dos Assuntos Parlamentare Relações Externas e da Coordenação
+relationships:
+- type: amended_by
+  target: pt:dre:174357145:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec
+  label: null
+  source: http://data.dre.pt/eli/dec
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/23/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/23/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/declretif/59/2019/12/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/4/2019/04/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/4/2019/04/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/6/2020/01/17/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/6/2020/01/17/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/8-a/2019/11/19/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/8-a/2019/11/19/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 8
+  section_count: 3
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 24/2020/M
+
+Aprova a orgânica da Direção Regional Adjunta dos Assuntos Parlamentares, Relações Externas e da Coordenação
+
+O [Decreto Regulamentar Regional n.º 8-A/2019/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/8-a-2019-126318034), de 19 de novembro, retificado pela [Declaração de Retificação n.º 59/2019](https://diariodarepublica.pt/dr/detalhe/declaracao-retificacao/59-2019-126904849), de 5 de dezembro, procedeu à aprovação da estrutura orgânica do XIII Governo Regional da Madeira.
+
+Na referida estrutura insere-se a Vice-Presidência do Governo Regional e dos Assuntos Parlamentares, cujo diploma orgânico foi aprovado por intermédio do [Decreto Regulamentar Regional n.º 6/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2020-128114253), de 17 de janeiro. Neste último diploma, no seu artigo 5.º, n.º 1, alínea c), está prevista a Direção Regional Adjunta dos Assuntos Parlamentares, Relações Externas e da Coordenação, unidade orgânica à qual foram cometidas, além de competências de acompanhamento, controlo e coordenação geral, as mencionadas no artigo 11.º do já citado [Decreto Regulamentar Regional n.º 6/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2020-128114253).
+
+Assim, ao abrigo da alínea d) do n.º 1 do artigo 277.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa e das alíneas c) e d) do artigo 69.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela [Lei n.º 13/91](https://diariodarepublica.pt/dr/detalhe/lei/13-1991-629666), de 5 de junho, e revisto pelas [Leis n.os 130/99](https://diariodarepublica.pt/dr/detalhe/lei/130-1999-434224), de 21 de agosto, e [12/2000](https://diariodarepublica.pt/dr/detalhe/lei/12-2000-303585), de 21 de junho, o Governo Regional da Madeira decreta o seguinte:
+
+### CAPÍTULO I — Natureza, missão, atribuições e órgãos
+
+###### Artigo 1.º — Missão
+
+1 - A Direção Regional Adjunta dos Assuntos Parlamentares, Relações Externas e da Coordenação, abreviadamente designada por DRAPEC, tem por missão coadjuvar o Vice-Presidente do Governo Regional e dos Assuntos Parlamentares no exercício das suas funções de planeamento e coordenação das políticas públicas, nos domínios dos assuntos europeus, dos fundos europeus estruturais e de investimento, da administração da Justiça, o que será assegurado pelo acompanhamento e coordenação geral dos serviços e órgãos da VP referidos nos artigos 18.º, 19.º e 22.º, do [Decreto Regulamentar Regional n.º 6/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2020-128114253), de 17 de janeiro.
+
+2 - A DRAPEC tem ainda por missão prestar apoio ao Vice-Presidente do Governo na orientação e supervisão das iniciativas no âmbito dos assuntos parlamentares e da coordenação politica, nomeadamente com as autarquias, e na área dos transportes e acessibilidades marítimas, da mobilidade aérea e marítima, nas atribuições específicas de coordenação da administração pública no Porto Santo, na condução e organização da política de comunicações da Região Autónoma da Madeira com o exterior, nomeadamente por cabo submarino, bem como no acompanhamento estratégico do setor de produção e fornecimento de energia e do Registo Internacional de Navios na Região.
+
+3 - A DRAPEC é dirigida por um diretor regional adjunto, equiparado a cargo de direção superior de 1.º grau.
+
+###### Artigo 2.º — Atribuições
+
+A DRAPEC prossegue as seguintes atribuições:
+
+a) Operacionalizar e acompanhar o processo de relacionamento institucional entre o Governo Regional e a Assembleia Legislativa da Madeira de modo a assegurar a coordenação necessária ao bom funcionamento dos assuntos parlamentares;
+
+b) Coadjuvar o Vice-Presidente do Governo nas ações de promoção externa do Governo Regional nos domínios dos assuntos e fundos europeus e da cooperação junto das instâncias próprias nacionais e das instituições e órgãos da União Europeia, bem como dos órgãos das organizações de cooperação inter-regional europeias e internacionais;
+
+c) Acompanhar a atividade e assegurar a coordenação geral dos serviços e órgãos da VP referidos nos artigos 18.º, 19.º e 22.º do [Decreto Regulamentar Regional n.º 6/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2020-128114253), de 17 de janeiro;
+
+d) Prestar apoio técnico ao Vice-Presidente do Governo no exercício da função de acompanhamento e controlo da atividade desenvolvida e sua situação económico-financeira e na definição de orientações estratégicas relativas ao exercício da função acionista da RAM nas empresas pertencentes ao setor empresarial da Região Autónoma da Madeira referidas no n.º 1 do artigo 7.º do [Decreto Regulamentar Regional n.º 6/2020/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/6-2020-128114253), de 17 de janeiro, que intervêm nos domínios das infraestruturas e acessibilidades marítimas e da produção e fornecimento de energia;
+
+e) Promover a execução e o acompanhamento da política definida para o setor dos transportes marítimos, da mobilidade aérea e marítima, das comunicações da Região Autónoma da Madeira com o exterior, nomeadamente por cabo submarino;
+
+f) Coordenar o programa Estudante InsuLar e o subsídio social de mobilidade de transporte marítimo e aéreo com o Porto Santo, aprovado pelo [Decreto Regulamentar Regional n.º 4/2019/M](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/4-2019-121854641), de 2 de abril;
+
+g) Acompanhar o(s) processo(s) de apoio do Estado à mobilidade dos residentes na Região e equiparados;
+
+h) Propor a adoção de medidas legislativas, regulamentares e/ou administrativas necessárias ao cumprimento da sua missão;
+
+i) Propor ou validar pareceres sobre legislação com interesse ou incidência para os setores ou domínios de intervenção referidos nas alíneas a), b) e c);
+
+j) Acompanhar, em estreita colaboração com a APRAM - Administração dos Portos da Região Autónoma da Madeira, S. A., as propostas de concessão, de licenciamento, de regulamentação de taxas e tarifas do setor portuário bem como a elaboração dos programas e projetos de construção, remodelação, recuperação ou ampliação das infraestruturas portuárias;
+
+k) Acompanhar o cumprimento das obrigações de serviço público existentes, ou a criar, na área dos transportes marítimos na RAM e elaborar propostas ao Vice-Presidente do Governo quando se relevar necessário;
+
+l) Pronunciar-se sobre os instrumentos de financiamento e empréstimos, a atribuir pela tutela ou a avalizar, respetivamente, às empresas públicas referidas na alínea d);
+
+m) Promover o acompanhamento, avaliação e revisão dos instrumentos de ordenamento e de regulação nas empresas públicas referidas na alínea d);
+
+n) Suportar o Gabinete do Vice-Presidente do Governo na relação institucional com as autarquias, com administração pública no Porto Santo e com o Registo Internacional de Navios na Região.
+
+###### Artigo 3.º — Diretor Regional Adjunto
+
+1 - A DRAPEC é dirigida pelo Diretor Regional Adjunto dos Assuntos Parlamentares, Relações Externas e da Coordenação, designado por Diretor Regional Adjunto, cargo de direção superior de 1.º grau.
+
+2 - O Diretor Regional Adjunto pode, nos termos da lei, delegar ou subdelegar poderes da sua competência.
+
+3 - O Diretor Regional Adjunto é substituído, nas suas faltas e impedimentos, pelo dirigente ou colaborador a designar.
+
+### CAPÍTULO II — Estrutura e funcionamento geral
+
+###### Artigo 4.º — Organização interna
+
+1 - A organização interna da DRAPEC obedece ao modelo organizacional hierarquizado.
+
+2 - A estrutura hierarquizada da DRAPEC é constituída por unidades orgânicas nucleares e unidades orgânicas flexíveis, a aprovar nos termos do [Decreto Legislativo Regional n.º 17/2007/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/17-2007-629387), de 12 de novembro, alterado pelos [Decretos Legislativos Regionais n.os 23/2012/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/23-2012-174814), de 30 de agosto, [2/2013/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/2-2013-588851), de 2 de janeiro, e [42-A/2016/M](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/42-a-2016-105657288), de 30 de dezembro.
+
+###### Artigo 5.º — Dotação de cargos de direção
+
+Os lugares de direção superior e de direção intermédia de 1.º grau constam do mapa anexo ao presente diploma, do qual faz parte integrante.
+
+### CAPÍTULO III — Disposições finais e transitórias
+
+###### Artigo 6.º — Referências
+
+Todas as referências, legais ou regulamentares, feitas à Direção Regional Adjunta de Economia, no âmbito das atribuições e competências mencionadas no artigo 2, devem ter-se por feitas à Direção Regional Adjunta dos Assuntos Parlamentares, Relações Externas e da Coordenação.
+
+###### Artigo 7.º — Afetação de pessoal
+
+O pessoal afeto à Direção Regional de Economia e Transportes que exercia funções associadas à tramitação do subsídio social de mobilidade de transporte marítimo transita para a DRAPEC, com efeitos à data de entrada em vigor do presente diploma, mediante lista nominativa a publicar no Jornal Oficial da Região Autónoma da Madeira.
+
+###### Artigo 8.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+Aprovado em Conselho do Governo Regional em 20 de fevereiro de 2020.
+
+**O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.**
+
+**Assinado em 3 de março de 2020.**
+
+**Publique-se.**
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+## ANEXO — (a que se refere o artigo 5.º)
+
+Mapa de cargos dirigentes
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2020/03/05800/0000600009.pdf))](https://files.diariodarepublica.pt/1s/2020/03/05800/0000600009.pdf)

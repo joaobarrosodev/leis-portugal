@@ -1,0 +1,108 @@
+---
+schema_version: '1.0'
+id: pt:dre:165980:por
+title: Decreto-Lei n.º 615/71
+short_title: null
+summary: Determina que o Fundo de Socorro Social passe a reger-se, durante o ano de 1972, pelo regime estabelecido no Decreto-Lei
+  n.º 47500, com as alterações introduzidas pelo Decreto-Lei n.º 12/71 e as do presente diploma
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministérios do Interior, das Finanças e da Saúde e Assistência
+proposing_entity: null
+official_number: 615/71
+official_date: null
+publication_date: '1971-12-31'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 304/1971, Série I de 1971-12-31
+  number: '304'
+  series: I
+  supplement: null
+  pages: 2052 - 2052
+  pdf_url: https://files.diariodarepublica.pt/1s/1971/12/30400/20522052.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '165980'
+  dre_path: /dr/detalhe/decreto-lei/615-1971-165980
+  internal: pt:dre:165980:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1971-165980
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/615-1971-165980
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-05-11T00:00:00Z'
+integrity:
+  source_sha256: d72da015ab5da604b70f6c3b2423df6a20a817af0628a79494144f349df056ba
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1971/DRE-1971-615-165980.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:552033:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 615/71
+
+de 31 de Dezembro
+
+Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
+
+###### Artigo 1.º O Fundo de Socorro Social reger-se-á, durante o ano de 1972, pelo regime estabelecido no [Decreto-Lei n.º 47500](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47500-1967-501639), de 18 de Janeiro de 1967, com as alterações introduzidas pelo [Decreto-Lei n.º 12/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/12-1971-446738), de 21 de Janeiro, e as do presente diploma.
+
+###### Art. 2.º A expressão contida no artigo 19.º «Pessoal de direcção ou chefia» é substituída pela de «Pessoal dirigente e técnico».
+
+###### Art. 3.º As referências feitas aos extintos Instituto de Assistência aos Menores e Instituto de Assistência à Família devem entender-se como feitas ao Instituto da Família e Acção Social e as respeitantes à Direcção-Geral da Assistência como feitas à Direcção-Geral da Assistência Social.
+
+###### Art. 4.º Este diploma entra em vigor no dia 1 de Janeiro de 1972.
+
+Visto e aprovado em Conselho de Ministros. - Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Baltasar Leite Rebelo de Sousa.
+
+**Promulgado em 28 de Dezembro de 1971.**
+
+**Publique-se.**
+
+**O Presidente da República, AMÉRICO DEUS RODRIGUES THOMAZ.**

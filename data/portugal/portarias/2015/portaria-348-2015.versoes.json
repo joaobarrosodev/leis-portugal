@@ -1,0 +1,472 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:70509976:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-74748839",
+ "dre_path": "/dr/detalhe/portaria/348-2015-70509976",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-10-12",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "74734721",
+    "74734722",
+    "74734723",
+    "74734724",
+    "74734725",
+    "74734726",
+    "74734727",
+    "74734728",
+    "74734729",
+    "74734730",
+    "74734731",
+    "74734732",
+    "74734733",
+    "74734734",
+    "74734735",
+    "74734736"
+   ]
+  },
+  {
+   "date": "2016-06-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:74748830:por",
+     "title": "Portaria n.º 174/2016",
+     "published": "2016-06-21",
+     "dre_path": "/dr/detalhe/portaria/174-2016-74748830"
+    }
+   ],
+   "changes": [
+    "Adita Artigo 13.º-A",
+    "Altera Artigo 6.º"
+   ],
+   "fragments": [
+    "74734721",
+    "74734722",
+    "74734723",
+    "74734724",
+    "74734725",
+    "74734726",
+    "74734748",
+    "74734728",
+    "74734729",
+    "74734730",
+    "74734731",
+    "74734732",
+    "74734733",
+    "74734734",
+    "74734744",
+    "74734745",
+    "74734746",
+    "74734747"
+   ]
+  },
+  {
+   "date": "2022-02-05",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:178660788:por",
+     "title": "Portaria n.º 87/2022",
+     "published": "2022-02-04",
+     "dre_path": "/dr/detalhe/portaria/87-2022-178660788"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º",
+    "Altera Artigo 2.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 7.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 11.º"
+   ],
+   "fragments": [
+    "74734721",
+    "178695163",
+    "178695164",
+    "178695165",
+    "178695166",
+    "178695167",
+    "178695168",
+    "178695169",
+    "74734729",
+    "178695170",
+    "74734731",
+    "178695171",
+    "74734733",
+    "74734734",
+    "74734744",
+    "74734745",
+    "74734746",
+    "74734747"
+   ]
+  },
+  {
+   "date": "2026-02-28",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:1062753818:por",
+     "title": "Portaria n.º 94/2026/1",
+     "published": "2026-02-27",
+     "dre_path": "/dr/detalhe/portaria/94-2026-1062753818"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 9.º",
+    "Revoga Artigo 11.º"
+   ],
+   "fragments": [
+    "74734721",
+    "178695163",
+    "178695164",
+    "178695165",
+    "1063801175",
+    "1063801375",
+    "1063801575",
+    "178695169",
+    "74734729",
+    "1063801775",
+    "74734731",
+    "1063793575",
+    "74734733",
+    "74734734",
+    "74734744",
+    "74734745",
+    "74734746",
+    "74734747"
+   ]
+  }
+ ],
+ "fragments": {
+  "74734721": {
+   "fragment_id": "74748840",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 348/2015\n\nde 12 de outubro\n\nO Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas, complementado pelo Regulamento Delegado (UE) 2015/560, da Comissão, de 15 de dezembro de 2014, e pelo Regulamento de Execução (UE) 2015/561, da Comissão, de 17 de abril, inclui o novo regime de autorizações para plantação de vinha aplicável no período de 1 de janeiro de 2016 a 31 de dezembro de 2030, pondo, assim, termo à proibição transitória da plantação de vinhas, tendo em consideração o fim do excedente estrutural de produção de vinho e o melhoramento da competitividade.\n\nSe, por um lado, se deva prosseguir o objetivo de aumentar a competitividade do setor vitivinícola da União Europeia, para não perder quotas de mercado a nível mundial, por outro lado, o aumento demasiado rápido das novas plantações de vinha, como resposta às previsões de desenvolvimento da procura internacional pode, uma vez mais, conduzir a uma situação de capacidade de oferta excessiva a médio prazo, com possíveis efeitos indesejáveis em certas áreas específicas de produção vitivinícola, e com repercussões sociais e ambientais potencialmente adversas.\n\nA fim de garantir um aumento ordenado das plantações de vinha naquele período é criado, a nível da União Europeia, um novo sistema para a sua gestão, que prevê um regime gracioso de atribuição de autorizações para a plantação de vinha aos produtores, apto a responder à subida gradual da procura de vinho a nível do mercado mundial, proporcionando um incentivo ao aumento da capacidade de oferta e, portanto, à plantação de novas vinhas, ao longo da próxima década.\n\nA concessão de autorizações de replantação aos produtores que arranquem uma superfície de vinha existente deverá efetuar-se automaticamente, mediante apresentação de pedido.\n\nForam ouvidos os órgãos de governo próprio da Região Autónoma da Madeira.\n\nFoi promovida a audição dos órgãos de governo próprio da Região Autónoma dos Açores.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo do artigo 10.º do Decreto-Lei n.º 176/2015, de 25 de agosto, e no uso das competências delegadas pelo Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro, o seguinte:"
+  },
+  "74734722": {
+   "fragment_id": "74748841",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as regras do regime de autorizações para plantação de vinha, no âmbito do disposto no Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece uma organização comum dos mercados dos produtos agrícolas, e no Decreto-Lei n.º 176/2015, de 25 de agosto.\n\n2 - O Instituto da Vinha e do Vinho, I. P. (IVV, I. P.) estabelece as Normas Complementares, de carácter técnico e administrativo, de aplicação da presente portaria, sendo publicitadas no sítio da internet do IVV, I. P., em www.ivv.min-agricultura.pt."
+  },
+  "74734723": {
+   "fragment_id": "74748842",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação da presente portaria, entende-se por:\n\na) «Viticultor», a pessoa singular ou coletiva que produz uvas;\n\nb) «Proprietário», a pessoa singular ou coletiva que detém a propriedade da parcela de terreno;\n\nc) «Titular da autorização ou direito», a pessoa singular ou coletiva em nome de quem foi emitida uma autorização ou direito de plantação;\n\nd) «Autoridade competente», a entidade com competências na gestão do potencial vitícola;\n\ne) «Nova plantação», a plantação para a qual foi concedida uma autorização de nova plantação;\n\nf) «Arranque», a eliminação completa das cepas que se encontram num terreno plantado com videiras;\n\ng) «Plantação não autorizada», a plantação de vinha realizada sem uma autorização de plantação;\n\nh) «Variedade de uva para vinificação», a variedade autorizada para a produção de uvas para vinho, nos termos da Portaria n.º 380/2012, de 22 de novembro;\n\ni) «Variedade de porta-enxerto», as variedades de videira destinadas à produção de estacas para enraizar e de estacas para enxertar;\n\nj) «Exploração», o conjunto das unidades utilizadas para atividades agrícolas submetidas a uma gestão única, situadas no território do mesmo Estado-membro."
+  },
+  "74734724": {
+   "fragment_id": "74748843",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de Aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Âmbito de Aplicação\n\n1 - O regime de autorizações para a plantação de vinha aplica-se entre 1 de janeiro de 2016 e 31 de dezembro de 2030, em conformidade com o disposto na presente portaria.\n\n2 - As autorizações referidas no número anterior dizem respeito a novas plantações, a replantações e à conversão de direitos de plantação em autorizações.\n\n3 - A aplicação das autorizações de plantação, concedidas ao abrigo da presente portaria, deve cumprir com a demais legislação aplicável, nomeadamente no que concerne ao material vitícola e às normas ambientais previstas nos termos do n.º 2 do artigo 1.º\n\n4 - Não é permitida a plantação de vinhas sem uma autorização válida para o efeito.\n\n5 - A emissão de uma autorização de plantação, de replantação ou a conversão de direitos em autorizações implica que o requerente possua o seu património vitícola atualizado no Sistema de Informação da vinha e do vinho (SIvv), quando aplicável."
+  },
+  "74734725": {
+   "fragment_id": "74748844",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorizações para novas plantações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Autorizações para novas plantações\n\n1 - A área a distribuir anualmente para novas plantações será de 1 % da superfície total de vinha plantada, em Portugal, à data de 31 de julho do ano anterior.\n\n2 - A superfície disponível para autorizações em zonas geográficas delimitadas de denominação de origem protegida (DOP) ou indicação geográfica protegida (IGP) pode ser limitada, tendo em conta as recomendações apresentadas pelo Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.), o Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P. (IVBAM, I. P.) e as organizações interprofissionais regionais reconhecidas do setor vitivinícola, nos seguintes termos:\n\na) As recomendações, a emitir para um período máximo de 3 anos, devem ser devidamente justificadas, demonstrando a necessidade de evitar um risco comprovado de excedente na oferta de produtos vitivinícolas em relação às perspetivas de mercado para os referidos produtos ou a necessidade de evitar um risco comprovado de desvalorização significativa da DOP ou IGP;\n\nb) Só são aceites as recomendações que forem rececionadas no IVV, I. P. até 15 de janeiro do ano a partir do qual se pretenda que produzam efeitos.\n\n3 - As recomendações referidas no número anterior podem, ainda, contemplar as condições de aplicação do ponto v. da alínea b) do n.º 2 do artigo 5.º, relativas aos n.os 2 e 3 do ponto G. do Anexo II do Regulamento Delegado (UE) 2015/560, da Comissão, de 15 de dezembro de 2014.\n\n4 - Anualmente, até 1 de março, sob proposta fundamentada do IVV, I. P. e por despacho do membro do governo responsável pela área da agricultura, é publicada a área total a distribuir e a decisão sobre as eventuais limitações ao crescimento anual de superfície de vinha a nível regional, devendo o crescimento, em todas as regiões, ser superior a 0 %."
+  },
+  "74734726": {
+   "fragment_id": "74748845",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras para a concessão de autorizações para novas plantações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Regras para a concessão de autorizações para novas plantações\n\n1 - Para a concessão de autorizações para novas plantações de vinhas devem ser cumpridos os seguintes critérios de elegibilidade:\n\na) O candidato ser proprietário de parcelas de terreno a ocupar com vinha ou possuir documento válido para a sua utilização, não podendo a área ser inferior à da superfície para a qual é solicitada a autorização;\n\nb) Presume-se que o pedido não envolve um risco significativo de apropriação indevida da reputação de determinadas DOP ou IGP, a não ser que a existência desse risco seja reconhecida pelo Instituto da Vinha e do Vinho, I. P.\n\n2 - Caso a superfície total abrangida pelos pedidos elegíveis exceda a superfície disponibilizada, para efeitos de distribuição, a nível nacional, do número de hectares (ha) disponível, aplicam-se os seguintes critérios:\n\na) Numa base pro rata; ou\n\nb) De acordo com os seguintes critérios de prioridade:\n\ni) Novos entrantes;\n\nii) Jovem produtor;\n\niii) Superfícies no âmbito de projetos de emparcelamento;\n\niv) Superfícies que contribuam para aumentar a competitividade a nível da exploração e a nível regional;\n\nv) Projetos com potencial para melhorar a qualidade dos produtos da DOP ou IGP;\n\nvi) Superfícies a plantar para aumento da dimensão das pequenas e médias explorações;\n\nvii) O produtor:\n\na) Não ter vinhas em situação irregular;\n\nb) Não ter deixado expirar autorizações anteriormente concedidas, no prazo de 5 anos e com uma área superior a 0,5 ha;\n\nc) Ter honrado os compromissos anteriormente assumidos, nomeadamente com os critérios de prioridade referidos nas alíneas anteriores;\n\nd) Não ter superfícies plantadas com vinha que não estejam em produção há, pelo menos, 8 anos.\n\n3 - Não podem ser usadas em simultâneo as subalíneas i) e ii) da alínea b) do número anterior.\n\n4 - Para efeitos de aplicação dos números anteriores, anualmente, através do despacho previsto no n.º 4 do artigo 4.º, é definida a forma de aplicação dos critérios de distribuição, sendo utilizado, quando aplicável, como primeiro critério de prioridade o disposto na subalínea v) da alínea b) do n.º 2.\n\n5 - Se a autorização concedida a um produtor for inferior a 50 % da superfície requerida, o produtor pode recusar essa autorização no prazo de um mês, a contar da data em que a autorização foi concedida, ficando isento da aplicação de sanções.\n\n6 - A superfície recusada pelos produtores nas condições do número anterior será disponibilizada no ano seguinte, em acréscimo da superfície nacional correspondente ao limiar percentual definido no n.º 4 do artigo 4.º\n\n7 - As autorizações concedidas são válidas por um período de três anos após a data da sua concessão, não sendo este prazo prorrogável.\n\n8 - Caso seja concedida uma autorização para a produção de vinho sem direito a denominação de origem ou indicação geográfica, numa região com limitações de plantação, o produtor fica obrigado a manter essa categoria durante um período mínimo de 10 anos.\n\n9 - A obrigação a que se refere o número anterior só é aplicável enquanto vigorarem as limitações à plantação na respetiva região."
+  },
+  "74734727": {
+   "fragment_id": "74748846",
+   "type": 11,
+   "heading": "Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas\n\n1 - O período de submissão das candidaturas decorre anualmente entre 1 de abril e 15 de maio.\n\n2 - A decisão sobre cada candidatura deve ser conhecida até 1 de agosto do mesmo ano e comunicada aos candidatos, através dos respetivos endereços eletrónicos indicados na candidatura.\n\n3 - Os pedidos devem:\n\na) Indicar a superfície a plantar e a parcela da exploração agrícola do requerente para a qual é pedida a autorização;\n\nb) Apresentar comprovativo de propriedade ou documento válido para a utilização da superfície a ocupar com vinha;\n\nc) Especificar, para as superfícies a plantar, se pretende produzir um ou mais dos seguintes produtos:\n\ni) Vinhos com denominação de origem protegida;\n\nii) Vinhos com indicação geográfica protegida;\n\niii) Vinhos sem indicação geográfica;\n\nd) Outros, a definir no despacho referido no n.º 4 do artigo 4.º"
+  },
+  "74734728": {
+   "fragment_id": "74748847",
+   "type": 11,
+   "heading": "Artigo 7.º — Superfícies isentas do regime de autorizações para plantação de vinha",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Superfícies isentas do regime de autorizações para plantação de vinha\n\n1 - O regime de autorizações não é aplicável à plantação ou replantação das seguintes superfícies:\n\na) A plantar de novo na sequência de medidas de expropriação por razões de utilidade pública, que não pode exceder 105 %, em termos de cultura estreme, da superfície perdida;\n\nb) Destinadas a fins experimentais;\n\nc) Destinadas à cultura de vinhas-mãe de garfos;\n\nd) Cuja produção vitivinícola se destine exclusivamente ao consumo do agregado familiar do produtor, nas seguintes condições:\n\ni) Essa superfície não pode exceder 0,1 ha;\n\nii) O produtor em causa não estar envolvido na produção comercial de vinho ou na produção comercial de outros produtos vitivinícolas;\n\ne) Destinadas a vinhas de uva de mesa ou passa;\n\nf) Destinadas à cultura de vinhas-mãe de porta-enxertos.\n\n2 - As plantações ou replantações referidas no número anterior ficam sujeitas a notificação prévia, a submeter no SIvv, devendo, quando aplicável, o viticultor ter o seu património vitícola previamente atualizado no SIvv.\n\n3 - A notificação a que se refere o número anterior deve incluir todas as informações pertinentes para essas superfícies e o período de duração da experimentação, no caso da alínea b) do n.º 1, ou o período de produção de vinhas-mãe de garfos, no caso da alínea c) do n.º 1.\n\n4 - Mediante pedido fundamentado dos viticultores, o IVV, I. P. pode autorizar que as uvas produzidas nas superfícies a que se referem as alíneas b) e c) do n.º 1 e os produtos vitivinícolas obtidos a partir dessas uvas, podem ser comercializados, durante o período de duração da experimentação ou de produção de garfos.\n\n5 - No final dos períodos referidos no número anterior o produtor deve:\n\na) Solicitar uma prorrogação do período de duração da experimentação ou de produção de garfos; ou\n\nb) Obter uma autorização nos termos dos artigos 4.º e 5.º da presente portaria; ou\n\nc) Arrancar, a expensas suas, as vinhas dessas superfícies."
+  },
+  "74734729": {
+   "fragment_id": "74748848",
+   "type": 11,
+   "heading": "Artigo 8.º — Transferência de autorizações de plantação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Transferência de autorizações de plantação\n\n1 - A partir de 30 de novembro de 2015, não é permitida a transferência de direitos ou autorizações de plantação de vinha entre pessoas singulares ou coletivas, concedidas ao abrigo do presente diploma.\n\n2 - Sem prejuízo do disposto no número anterior, é permitida a transferência de autorizações ou direitos de plantação cujo período de validade não se encontre caduco, e desde que sejam cumpridos os compromissos assumidos no momento da concessão da autorização, nas seguintes condições:\n\na) Herança, legado ou partilha em vida;\n\nb) Fusão e cisão de pessoas coletivas;\n\nc) Alteração da personalidade jurídica."
+  },
+  "74734730": {
+   "fragment_id": "74748849",
+   "type": 11,
+   "heading": "Artigo 9.º — Autorizações para replantação de vinhas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Autorizações para replantação de vinhas\n\n1 - É concedida, a partir de 1 de janeiro de 2016, uma autorização de replantação aos titulares da autorização que arranquem uma superfície de vinha para a qual detêm um título de autorização válido, mediante submissão de um pedido no SIvv, de acordo com as normas complementares referidas no n.º 2 do artigo 1.º e verificadas as seguintes condições:\n\na) A vinha a arrancar deve cumprir com o disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 176/2015, de 25 de agosto;\n\nb) Os pedidos devem indicar a área e parcela a arrancar e a área e parcela a plantar na exploração do requerente.\n\n2 - O IVV, I. P. concede as autorizações de replantação referidas no número anterior no prazo de três meses após a submissão do pedido válido.\n\n3 - A autorização a que se refere o n.º 1 é utilizada na mesma exploração em que foi efetuado o arranque e é válida por um período de três anos a contar da data de concessão, não sendo prorrogável.\n\n4 - Nas zonas elegíveis para a produção de vinhos com denominação de origem protegida ou indicações geográficas protegidas, pode ser restringida a concessão de autorizações de replantação, destinadas a uma região diferente daquela onde foi efetuado o arranque se, na região de destino, forem implementadas limitações às autorizações para novas plantações, nas condições e termos do artigo 4.º\n\n5 - Podem ser concedidas autorizações de replantação sem arranque prévio, desde que o viticultor se comprometa a arrancar a superfície em causa até ao fim do quarto ano a contar da data em que tenha sido plantada a nova vinha.\n\n6 - Para os efeitos referidos no número anterior, os produtores devem constituir uma garantia, com prazo de 5 anos após a apresentação do pedido, a favor do IVV, I. P., no valor de (euro) 1500/ha.\n\n7 - A garantia a que se refere o número anterior é liberada, ao produtor, no prazo de 45 dias após a comunicação do arranque da vinha velha à Direção Regional de Agricultura e Pescas (DRAP) territorialmente competente.\n\n8 - Se o arranque não for realizado no prazo previsto no n.º 5, os produtores serão notificados pelo IVV, I. P. desse incumprimento e ficam sujeitos às sanções previstas no Regulamento Delegado (UE) 2015/560, da Comissão, de 15 de dezembro de 2014."
+  },
+  "74734731": {
+   "fragment_id": "74748850",
+   "type": 11,
+   "heading": "Artigo 10.º — Comunicações obrigatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Comunicações obrigatórias\n\n1 - Os titulares de autorizações de nova plantação e de replantação de vinha devem efetuar as seguintes declarações ao IVV, I. P.:\n\na) Declaração de arranque: o viticultor tem de proceder ao arranque da vinha e submeter a declaração de arranque no prazo máximo de 30 dias seguidos, após o arranque;\n\nb) Declaração de plantação: a declaração de plantação da vinha deve ser efetuada no prazo de 30 dias seguidos, após a plantação.\n\n2 - Para efeitos do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 176/2015 de 25 de agosto, qualquer alteração no património ou na exploração vitícola deve ser comunicada ao IVV, I. P. no prazo de 30 dias seguidos.\n\n3 - Sem prejuízo do disposto no número anterior, as comunicações relativas à alteração do património vitícola previstas no n.º 3 do artigo 3.º do Decreto-Lei n.º 176/2015, de 25 de agosto, são efetuadas nas regiões autónomas junto das entidades competentes na matéria.\n\n4 - A não comunicação à entidade competente, conforme o disposto no número anterior é punível nos termos do n.º 4 do artigo 5.º do Decreto-Lei n.º 176/2015, de 25 de agosto."
+  },
+  "74734732": {
+   "fragment_id": "74748851",
+   "type": 11,
+   "heading": "Artigo 11.º — Conversão dos direitos de plantação em autorizações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Conversão dos direitos de plantação em autorizações\n\n1 - Os direitos de plantação concedidos aos produtores até 31 de dezembro de 2015 que se encontrem válidos, só podem ser utilizados por estes, após 1 de janeiro de 2016, depois de convertidos em autorizações, da seguinte forma:\n\na) A pedido dos produtores, a partir de 15 de setembro de 2015 e até 31 de dezembro de 2020, devendo os pedidos indicar a dimensão e a localização da parcela da exploração agrícola do requerente para a qual é pedida a autorização;\n\nb) O IVV, I. P. concede as autorizações num prazo de três meses, sendo que, para os pedidos apresentados antes de 31 de dezembro de 2015, o período de três meses tem início em 1 de janeiro de 2016.\n\n2 - As autorizações concedidas, nos termos do número anterior, são válidas pelo mesmo período que os direitos de plantação respetivos, não podendo, contudo, ultrapassar o prazo de 31 de dezembro de 2023.\n\n3 - As autorizações caducam se não forem utilizadas durante o prazo de validade, não podendo este ser prorrogado.\n\n4 - Para efeitos do presente artigo, o requerente deve ter o seu património vitícola atualizado no SIvv."
+  },
+  "74734733": {
+   "fragment_id": "74748852",
+   "type": 11,
+   "heading": "Artigo 12.º — Controlo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Controlo\n\n1 - É realizado um controlo administrativo sistemático a todos os pedidos de autorização apresentados para novas plantações, para replantação de vinhas e para conversão de direitos em autorizações.\n\n2 - Será efetuado um controlo sistemático à realização das plantações e arranques.\n\n3 - As regras de procedimento para controlo serão definidas mediante Normas Complementares previstas no n.º 2 do artigo 1.º\n\n4 - A informação relativa às superfícies de vinha recolhida no âmbito dos controlos dos regimes de apoio à vinha, deve estar plasmada no Ficheiro Vitivinícola Nacional."
+  },
+  "74734734": {
+   "fragment_id": "74748853",
+   "type": 11,
+   "heading": "Artigo 13.º — Entidades intervenientes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Entidades intervenientes\n\n1 - Para efeitos de aplicação do n.º 2 do artigo 2.º do Decreto-Lei n.º 176/2015 de 25 de agosto, e por despacho do Conselho Diretivo, o IVV, I. P. pode delegar:\n\na) No IVDP, I. P., as ações relacionadas com a atualização do Ficheiro Vitivinícola Nacional, no que se refere às vinhas aptas à produção de vinhos com denominação de origem ou indicação geográfica na Região Demarcada do Douro, com exceção das ações relacionadas com a gestão das autorizações;\n\nb) Nas DRAP, na respetiva área geográfica, a atualização do Ficheiro Vitivinícola Nacional, e a realização dos controlos, quer administrativos, quer no local, relativos à plantação e arranque de vinhas e a gestão das autorizações.\n\n2 - O IVV, I. P., pode ainda delegar, nas organizações de agricultores ou nas associações interprofissionais do setor vitivinícola reconhecidas, mediante protocolo, competências, no âmbito da atualização do Ficheiro Vitivinícola Nacional, que não impliquem o exercício de poderes de autoridade.\n\n3 - O Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.) assegura a disponibilização ao IVV, I. P. de toda a informação geográfica das explorações agrícolas dos viticultores, devendo o respetivo sistema de informação garantir o cumprimento dos requisitos exigidos em matéria de delimitação de parcelas de vinha e respetivas superfícies."
+  },
+  "74734735": {
+   "fragment_id": "74748854",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 291/97, de 2 de maio;\n\nb) A Portaria n.º 292/97, de 2 de maio;\n\nc) A Portaria n.º 416/98, de 20 de julho;\n\nd) Os n.os 1, e 2 da Portaria n.º 1428/2001, de 15 de dezembro;\n\ne) A Portaria n.º 700/2008, de 29 de julho;\n\nf) A Portaria n.º 741/2009, de 10 de julho;\n\ng) A Portaria n.º 142/2012, de 15 de maio."
+  },
+  "74734736": {
+   "fragment_id": "74748855",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, e produz efeitos a 15 de setembro de 2015."
+  },
+  "74734748": {
+   "fragment_id": "74748846",
+   "type": 11,
+   "heading": "Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas",
+   "in_force_from": "2016-06-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas\n\n1 -  O período de submissão de candidaturas decorre anualmente entre 1 de abril e 15 de maio, podendo, após essa data, e no caso dos pedidos elegíveis apresentados não esgotarem a superfície disponibilizada, pode ser aberto pelo IVV, I. P., novo período de submissão de candidaturas, nos termos e para os efeitos do despacho a que se refere o n.º 4 do artigo 4.º, através de aviso publicado no seu sítio da internet, em www.ivv.min-agricultura.pt.\n\n2 - A decisão sobre cada candidatura deve ser conhecida até 1 de agosto do mesmo ano e comunicada aos candidatos, através dos respetivos endereços eletrónicos indicados na candidatura.\n\n3 - Os pedidos devem:\n\na) Indicar a superfície a plantar e a parcela da exploração agrícola do requerente para a qual é pedida a autorização;\n\nb) Apresentar comprovativo de propriedade ou documento válido para a utilização da superfície a ocupar com vinha;\n\nc) Especificar, para as superfícies a plantar, se pretende produzir um ou mais dos seguintes produtos:\n\ni) Vinhos com denominação de origem protegida;\n\nii) Vinhos com indicação geográfica protegida;\n\niii) Vinhos sem indicação geográfica;\n\nd) Outros, a definir no despacho referido no n.º 4 do artigo 4.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+  },
+  "74734744": {
+   "fragment_id": "74748864",
+   "type": 11,
+   "heading": "Artigo 13.º-A — Regiões Autónomas",
+   "in_force_from": "2016-06-22",
+   "changed_by": [
+    "Aditado pelo/a Artigo 3.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 13.º-A — Regiões Autónomas\n\n1 - Nas Regiões Autónomas dos Açores e da Madeira, a competência para a emissão de autorizações para replantações de vinhas e a conversão de direitos de plantação em autorizações, previstas na presente portaria, é efetuada pela Direção Regional do Desenvolvimento Rural e pelo Instituto do Vinho, do Bordado e do Artesanato da Madeira, IP - RAM, respetivamente, nos termos do n.º 1 do artigo 8.º do Decreto-Lei n.º 176/2015, de 25 de agosto.\n\n2 - As entidades referidas no número anterior asseguram, igualmente, o cumprimento das normas disciplinadoras do plantio e da cultura da vinha.\n\n3 - A garantia prevista no n.º 6 do artigo 9.º da presente portaria deve ser constituída a favor das entidades referidas no n.º 1, a quem pertence o exercício das competências previstas nos n.os 7 e 8 daquele artigo.\n\n> Aditado pelo/a Artigo 3.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+  },
+  "74734745": {
+   "fragment_id": "74748854",
+   "type": 11,
+   "heading": "Artigo 14.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Norma revogatória\n\nSão revogadas:\n\na) A Portaria n.º 291/97, de 2 de maio;\n\nb) A Portaria n.º 292/97, de 2 de maio;\n\nc) A Portaria n.º 416/98, de 20 de julho;\n\nd) Os n.os 1, e 2 da Portaria n.º 1428/2001, de 15 de dezembro;\n\ne) A Portaria n.º 700/2008, de 29 de julho;\n\nf) A Portaria n.º 741/2009, de 10 de julho;\n\ng) A Portaria n.º 142/2012, de 15 de maio."
+  },
+  "74734746": {
+   "fragment_id": "74748855",
+   "type": 11,
+   "heading": "Artigo 15.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia seguinte ao da sua publicação, e produz efeitos a 15 de setembro de 2015."
+  },
+  "74734747": {
+   "fragment_id": "74748856",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 30 de setembro de 2015."
+  },
+  "178695163": {
+   "fragment_id": "74748841",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1 - A presente portaria estabelece as regras do regime de autorizações para plantação de vinha, no âmbito do disposto no Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro, que estabelece uma organização comum dos mercados dos produtos agrícolas, e no Decreto-Lei n.º 176/2015, de 25 de agosto.\n\n2 - O Instituto da Vinha e do Vinho, I. P. (IVV, I. P.), estabelece as normas complementares, de caráter técnico e administrativo, de aplicação da presente portaria, sendo publicitadas no sítio da Internet do IVV, I. P.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "178695164": {
+   "fragment_id": "74748842",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação da presente portaria, entende-se por:\n\na) «Viticultor», a pessoa singular ou coletiva que produz uvas;\n\nb) «Proprietário», a pessoa singular ou coletiva que detém a propriedade da parcela de terreno;\n\nc) «Titular da autorização ou direito», a pessoa singular ou coletiva em nome de quem foi emitida uma autorização ou direito de plantação;\n\nd) «Autoridade competente», a entidade com competências na gestão do potencial vitícola;\n\ne) «Nova plantação», a plantação para a qual foi concedida uma autorização de nova plantação;\n\nf) «Arranque», a eliminação completa das cepas que se encontram num terreno plantado com videiras;\n\ng) «Plantação não autorizada», a plantação de vinha realizada sem uma autorização de plantação;\n\nh) «Variedade de uva para vinificação», a variedade autorizada para a produção de uvas para vinho, nos termos da Portaria n.º 380/2012, de 22 de novembro;\n\ni) «Variedade de porta-enxerto», as variedades de videira destinadas à produção de estacas para enraizar e de estacas para enxertar;\n\nj) «Exploração», o conjunto das unidades utilizadas para atividades agrícolas submetidas a uma gestão única, situadas no território do mesmo Estado-membro.\n\nk) 'Superfície vitivinícola abandonada' uma superfície plantada com vinha que, há mais de cinco campanhas vitivinícolas, não é cultivada regularmente com vista à obtenção de produtos comercializáveis e cujo arranque já não confere ao produtor o direito de lhe ser concedida uma autorização de replantação.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "178695165": {
+   "fragment_id": "74748843",
+   "type": 11,
+   "heading": "Artigo 3.º — Âmbito de Aplicação",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 3.º — Âmbito de Aplicação\n\n1 - O regime de autorizações para a plantação de vinha é aplicável no período de 1 de janeiro de 2016 a 31 de dezembro de 2045, em conformidade com o disposto na presente portaria.\n\n2 - As autorizações referidas no número anterior dizem respeito a novas plantações, a replantações e à conversão de direitos de plantação em autorizações.\n\n3 - A aplicação das autorizações de plantação, concedidas ao abrigo da presente portaria, deve cumprir com a demais legislação aplicável, nomeadamente no que concerne ao material vitícola e às normas ambientais previstas nos termos do n.º 2 do artigo 1.º\n\n4 - Não é permitida a plantação de vinhas sem uma autorização válida para o efeito, sem prejuízo do previsto no artigo 7.º da presente portaria.\n\n5 - A emissão de uma autorização de plantação, de replantação ou a conversão de direitos em autorizações implica que o requerente possua o seu património vitícola atualizado no Sistema de Informação da vinha e do vinho (SIvv), quando aplicável.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "178695166": {
+   "fragment_id": "74748844",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorizações para novas plantações",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 4.º — Autorizações para novas plantações\n\n1 - A área a distribuir anualmente para novas plantações será aquela que apresentar a maior superfície de uma das seguintes alternativas:\n\na) 1 % da superfície total efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho do ano anterior; ou,\n\nb) 1 % da superfície que compreenda a superfície efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho de 2015, e a superfície abrangida por direitos de plantação concedidos aos produtores no seu território nos termos dos artigos 85.º-H, 85.º-I ou 85.º-K, do Regulamento (CE) n.º 1234/2007, de 22 de outubro de 2007, e que estivessem disponíveis para conversão em autorizações em 1 de janeiro de 2016, ao abrigo do artigo 68.º do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013.\n\n2 - A superfície disponível para autorizações em zonas geográficas delimitadas de denominação de origem protegida (DOP) ou indicação geográfica protegida (IGP) pode ser limitada, tendo em conta as recomendações apresentadas pelo Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.), o Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P. (IVBAM, I. P.) e as organizações interprofissionais regionais reconhecidas do setor vitivinícola, nos seguintes termos:\n\na) As recomendações, a emitir para um período máximo de três anos, devem ser devidamente justificadas por um ou vários dos seguintes fundamentos específicos:\n\ni) A necessidade de evitar um risco comprovado de excedente na oferta de produtos vitivinícolas em relação às perspetivas de mercado para os referidos produtos, não excedendo o que é necessário para suprir essa necessidade;\n\nii) A necessidade de evitar um risco comprovado de desvalorização de determinada denominação de origem protegida ou indicação geográfica protegida;\n\niii) A disponibilidade para contribuir para o desenvolvimento dos produtos em causa, salvaguardando simultaneamente a qualidade desses produtos;\n\nb) Só são aceites as recomendações que forem rececionadas no IVV, I. P. até 15 de janeiro do ano a partir do qual se pretenda que produzam efeitos.\n\n3 - As recomendações referidas no número anterior podem, ainda, contemplar as condições de aplicação do ponto v) da alínea b) do n.º 2 do artigo 5.º, relativas aos n.os 2 e 3 do ponto G do anexo ii do Regulamento Delegado (UE) 2018/273 da Comissão, de 11 de dezembro de 2017.\n\n4 - Anualmente, até 1 de março, sob proposta fundamentada do IVV, I. P., e por despacho do membro do Governo responsável pela área da agricultura, é publicitada a área total a distribuir, conforme determinação prevista no n.º 1, e a decisão sobre as eventuais limitações ao crescimento anual de superfície de vinha a nível regional, devendo o crescimento, em todas as regiões, ser superior a 0 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "178695167": {
+   "fragment_id": "74748845",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras para a concessão de autorizações para novas plantações",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 5.º — Regras para a concessão de autorizações para novas plantações\n\n1 - Para a concessão de autorizações para novas plantações de vinhas devem ser cumpridos os seguintes critérios de elegibilidade:\n\na) O candidato deve possuir um documento válido para a utilização da superfície agrícola a ocupar, não podendo a área ser inferior à da superfície para a qual é solicitada a autorização;\n\nb) Presume-se que o pedido não envolve um risco significativo de apropriação indevida da reputação de determinadas DOP ou IGP, a não ser que a existência desse risco seja reconhecida pelo Instituto da Vinha e do Vinho, I. P.\n\n2 - Caso a superfície total abrangida pelos pedidos elegíveis exceda a superfície disponibilizada, para efeitos de distribuição, a nível nacional, do número de hectares (ha) disponível, pode ser estabelecida uma superfície mínima e/ou máxima por candidato, mediante a aplicação dos seguintes critérios:\n\na) Numa base pro rata; ou\n\nb) De acordo com os seguintes critérios de prioridade:\n\ni) Novos entrantes;\n\nii) Jovem produtor;\n\niii) Superfícies no âmbito de projetos de emparcelamento;\n\niv) Superfícies a plantar de novo que contribuam para aumentar a produção das explorações do sector vitivinícola que revelem um aumento da sua eficiência em termos de custos, da sua competitividade ou da sua presença nos mercados;\n\nv) Projetos com potencial para melhorar a qualidade dos produtos da DOP ou IGP;\n\nvi) Superfícies a plantar para aumento da dimensão das pequenas e médias explorações;\n\nvii) O produtor:\n\na) Não ter vinhas em situação irregular;\n\nb) Não ter deixado expirar autorizações anteriormente concedidas, no prazo de 5 anos e com uma área superior a 0,5 ha;\n\nc) Ter honrado os compromissos anteriormente assumidos, nomeadamente com os critérios de prioridade referidos nas alíneas anteriores;\n\nd) Não ter superfícies plantadas com vinha que não estejam em produção há, pelo menos, 8 anos.\n\n3 - Não podem ser usadas em simultâneo as subalíneas i) e ii) da alínea b) do número anterior.\n\n4 - Para efeitos de aplicação dos números anteriores, anualmente, através do despacho previsto no n.º 4 do artigo 4.º, é definida a forma de aplicação dos critérios de distribuição, sendo utilizado, quando aplicável, como primeiro critério de prioridade o disposto na subalínea v) da alínea b) do n.º 2.\n\n5 - Se a autorização concedida a um produtor for inferior a 50 % da superfície requerida, o produtor pode recusar essa autorização no prazo de um mês, a contar da data em que a autorização foi concedida, ficando isento da aplicação de sanções.\n\n6 - A superfície recusada pelos produtores nas condições do número anterior será disponibilizada no ano seguinte, em acréscimo da superfície nacional correspondente ao limiar percentual definido no n.º 4 do artigo 4.º\n\n7 - As autorizações concedidas são válidas por um período de três anos após a data da sua concessão, não sendo este prazo prorrogável.\n\n8 - Caso seja concedida uma autorização para a produção de vinho sem direito a denominação de origem ou indicação geográfica, numa região com limitações de plantação, o produtor fica obrigado a manter essa categoria durante um período mínimo de 10 anos.\n\n9 - A obrigação a que se refere o número anterior só é aplicável enquanto vigorarem as limitações à plantação na respetiva região.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "178695168": {
+   "fragment_id": "74748846",
+   "type": 11,
+   "heading": "Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas\n\n1 - A abertura das candidaturas ocorre anualmente a partir de 1 de março até, no máximo, 1 de maio, por um prazo que não pode ser inferior a um mês, através de aviso publicado no sítio da Internet do IVV, I. P., podendo ser aberto novo período de submissão de candidaturas, nos termos e para os efeitos a que se refere o n.º 4 do artigo 4.º, no caso de os pedidos elegíveis apresentados não esgotarem a superfície disponibilizada.\n\n2 - A decisão sobre cada candidatura deve ser conhecida até 1 de agosto do mesmo ano e comunicada aos candidatos, através dos respetivos endereços eletrónicos indicados na candidatura.\n\n3 - Os pedidos devem:\n\na) Indicar a superfície a plantar e a parcela da exploração agrícola do requerente para a qual é pedida a autorização;\n\nb) Apresentar comprovativo de propriedade ou documento válido para a utilização da superfície a ocupar com vinha;\n\nc) Especificar, para as superfícies a plantar, se pretende produzir um ou mais dos seguintes produtos:\n\ni) Vinhos com denominação de origem protegida;\n\nii) Vinhos com indicação geográfica protegida;\n\niii) Vinhos sem indicação geográfica;\n\nd) Outros, a definir no despacho referido no n.º 4 do artigo 4.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+  },
+  "178695169": {
+   "fragment_id": "74748847",
+   "type": 11,
+   "heading": "Artigo 7.º — Superfícies isentas do regime de autorizações para plantação de vinha",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 7.º — Superfícies isentas do regime de autorizações para plantação de vinha\n\n1 - O regime de autorizações não é aplicável à plantação ou replantação das seguintes superfícies:\n\na) A plantar de novo na sequência de medidas de expropriação por razões de utilidade pública, que não pode exceder 105 %, em termos de cultura estreme, da superfície perdida;\n\nb) Destinadas a fins experimentais;\n\nc) Destinadas à cultura de vinhas-mãe de garfos;\n\nd) Cuja produção vitivinícola se destine exclusivamente ao consumo do agregado familiar do produtor, nas seguintes condições:\n\ni) Essa superfície não pode exceder 0,1 ha;\n\nii) O produtor em causa não estar envolvido na produção comercial de vinho ou na produção comercial de outros produtos vitivinícolas;\n\ne) Destinadas a vinhas de uva de mesa ou passa;\n\nf) Destinadas à cultura de vinhas-mãe de porta-enxertos.\n\ng) Para a criação de coleções de castas destinadas à conservação dos recursos genéticos.\n\n2 - As plantações ou replantações referidas no número anterior ficam sujeitas a notificação prévia, a submeter no SIvv, devendo, quando aplicável, o viticultor ter o seu património vitícola previamente atualizado no SIvv.\n\n3 - A notificação a que se refere o número anterior deve incluir todas as informações pertinentes para essas superfícies e o período de duração da experimentação, no caso da alínea b) do n.º 1, ou o período de produção de vinhas-mãe de garfos, no caso da alínea c) do n.º 1.\n\n4 - Mediante pedido fundamentado dos viticultores, o IVV, I. P. pode autorizar que as uvas produzidas nas superfícies a que se referem as alíneas b) e c) do n.º 1 e os produtos vitivinícolas obtidos a partir dessas uvas, podem ser comercializados, durante o período de duração da experimentação ou de produção de garfos.\n\n5 - No final dos períodos referidos no número anterior o produtor deve:\n\na) Solicitar uma prorrogação do período de duração da experimentação ou de produção de garfos; ou\n\nb) Obter uma autorização nos termos dos artigos 4.º e 5.º da presente portaria; ou\n\nc) Arrancar, a expensas suas, as vinhas dessas superfícies.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "178695170": {
+   "fragment_id": "74748849",
+   "type": 11,
+   "heading": "Artigo 9.º — Autorizações para replantação de vinhas",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 9.º — Autorizações para replantação de vinhas\n\n1 - É concedida, a partir de 1 de janeiro de 2016, uma autorização de replantação aos titulares da autorização que arranquem uma superfície de vinha para a qual detêm um título de autorização válido, mediante submissão de um pedido no SIvv, de acordo com as normas complementares referidas no n.º 2 do artigo 1.º e verificadas as seguintes condições:\n\na) A vinha a arrancar deve cumprir com o disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 176/2015, de 25 de agosto;\n\nb) Os pedidos devem indicar a área e parcela a arrancar e a área e parcela a plantar na exploração do requerente.\n\nc) A vinha a arrancar não seja uma superfície vitivinícola abandonada.\n\n2 - O IVV, I. P. concede as autorizações de replantação referidas no número anterior no prazo de três meses após a submissão do pedido válido.\n\n3 - A autorização a que se refere o n.º 1 é utilizada na mesma exploração em que foi efetuado o arranque e é válida por um período de três anos a contar da data de concessão, não sendo prorrogável.\n\n4 - Em derrogação do número anterior, quando a replantação tenha lugar na mesma parcela ou parcelas em que foi efetuado o arranque, a autorização é válida por um período de seis anos a contar da data da sua concessão, não sendo prorrogável.\n\n5 - Nas zonas elegíveis para a produção de vinhos com denominação de origem protegida ou indicações geográficas protegidas, pode ser restringida a concessão de autorizações de replantação, destinadas a uma região diferente daquela onde foi efetuado o arranque se, na região de destino, forem implementadas limitações às autorizações para novas plantações, nas condições e termos do artigo 4.º\n\n6 - Podem ser concedidas autorizações de replantação sem arranque prévio, desde que o viticultor se comprometa a arrancar a superfície em causa até ao fim do quarto ano a contar da data em que tenha sido plantada a nova vinha.\n\n7 - Para os efeitos referidos no número anterior, os produtores devem constituir uma garantia, com prazo de 5 anos após a apresentação do pedido, a favor do IVV, I. P., no valor de (euro) 1500/ha.\n\n8 - A garantia a que se refere o número anterior é liberada, ao produtor, no prazo de 45 dias após a comunicação do arranque da vinha velha à Direção Regional de Agricultura e Pescas (DRAP) territorialmente competente.\n\n9 - Se o arranque não for realizado no prazo previsto no n.º 6, os produtores serão notificados pelo IVV, I. P., desse incumprimento e ficam sujeitos às sanções previstas no Regulamento Delegado (UE) 2018/273 da Comissão, de 11 de dezembro de 2017.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "178695171": {
+   "fragment_id": "74748851",
+   "type": 11,
+   "heading": "Artigo 11.º — Conversão dos direitos de plantação em autorizações",
+   "in_force_from": "2022-02-05",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 11.º — Conversão dos direitos de plantação em autorizações\n\n1 - Os direitos de plantação concedidos aos produtores até 31 de dezembro de 2015 que se encontrem válidos, só podem ser utilizados por estes, após 1 de janeiro de 2016, depois de convertidos em autorizações, da seguinte forma:\n\na) A pedido dos produtores, a partir de 15 de setembro de 2015 e até 31 de dezembro de 2022, devendo os pedidos indicar a dimensão e a localização da parcela da exploração agrícola do requerente para a qual é pedida a autorização;\n\nb) O IVV, I. P. concede as autorizações num prazo de três meses, sendo que, para os pedidos apresentados antes de 31 de dezembro de 2015, o período de três meses tem início em 1 de janeiro de 2016.\n\n2 - As autorizações concedidas nos termos do número anterior são válidas pelo mesmo período que os direitos de plantação respetivos, não podendo, contudo, ultrapassar o prazo de 31 de dezembro de 2025.\n\n3 - As autorizações caducam se não forem utilizadas durante o prazo de validade, não podendo este ser prorrogado.\n\n4 - Para efeitos do presente artigo, o requerente deve ter o seu património vitícola atualizado no SIvv.\n\n5 - Uma superfície equivalente à superfície abrangida por direitos de plantação que eram elegíveis para conversão em autorizações de plantação até 31 de dezembro de 2022, nos termos da alínea a) do n.º 1, mas que não tenham sido convertidas até essa data, pode ser utilizada para conceder autorizações para novas plantações, o mais tardar até 31 de dezembro de 2025.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "1063801175": {
+   "fragment_id": "74748844",
+   "type": 11,
+   "heading": "Artigo 4.º — Autorizações para novas plantações",
+   "in_force_from": "2026-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 4.º — Autorizações para novas plantações\n\n1 - A área a distribuir anualmente para novas plantações corresponderá a uma das seguintes alternativas:\n\na) Até 1 % da superfície total efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho do ano anterior; ou,\n\nb) Até 1 % da superfície que compreenda a superfície efetivamente plantada com vinha nos respetivos territórios, nas dimensões medidas à data de 31 de julho de 2015.\n\n2 - A superfície disponível para autorizações em zonas geográficas delimitadas de denominação de origem protegida (DOP) ou indicação geográfica protegida (IGP) pode ser limitada, tendo em conta as recomendações apresentadas pelo Instituto dos Vinhos do Douro e Porto, I. P. (IVDP, I. P.), o Instituto do Vinho, do Bordado e do Artesanato da Madeira, I. P. (IVBAM, I. P.), o Instituto da Vinha e do Vinho dos Açores, IPRA (IVV Açores, IPRA) e as organizações interprofissionais regionais reconhecidas do setor vitivinícola, nos seguintes termos:\n\na) As recomendações, a emitir para um período máximo de três anos, devem ser devidamente justificadas por um ou vários dos seguintes fundamentos específicos:\n\ni) A necessidade de evitar um risco comprovado de excedente na oferta de produtos vitivinícolas em relação às perspetivas de mercado para os referidos produtos, não excedendo o que é necessário para suprir essa necessidade;\n\nii) A necessidade de evitar um risco comprovado de desvalorização de determinada denominação de origem protegida ou indicação geográfica protegida;\n\niii) A disponibilidade para contribuir para o desenvolvimento dos produtos em causa, salvaguardando simultaneamente a qualidade desses produtos;\n\nb) Só são aceites as recomendações que forem rececionadas no IVV, I. P. até 15 de janeiro do ano a partir do qual se pretenda que produzam efeitos.\n\n3 - As recomendações referidas no número anterior podem, ainda, contemplar as condições de aplicação do ponto v) da alínea b) do n.º 2 do artigo 5.º, relativas aos n.os 2 e 3 do ponto G do anexo ii do Regulamento Delegado (UE) 2018/273 da Comissão, de 11 de dezembro de 2017.\n\n4 - Anualmente, até 1 de março, sob proposta fundamentada do IVV, I. P., e por despacho do membro do Governo responsável pela área da agricultura, é publicitada a área total a distribuir, conforme determinação prevista no n.º 1, e a decisão sobre as eventuais limitações ao crescimento anual de superfície de vinha a nível regional, devendo o crescimento, em todas as regiões, ser superior a 0 %.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "1063801375": {
+   "fragment_id": "74748845",
+   "type": 11,
+   "heading": "Artigo 5.º — Regras para a concessão de autorizações para novas plantações",
+   "in_force_from": "2026-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 5.º — Regras para a concessão de autorizações para novas plantações\n\n1 - Para a concessão de autorizações para novas plantações de vinhas devem ser cumpridos os seguintes critérios de elegibilidade:\n\na) O candidato deve possuir um documento válido para a utilização da superfície agrícola a ocupar, não podendo a área ser inferior à da superfície para a qual é solicitada a autorização;\n\nb) Presume-se que o pedido não envolve um risco significativo de apropriação indevida da reputação de determinadas DOP ou IGP, a não ser que a existência desse risco seja reconhecida pelo Instituto da Vinha e do Vinho, I. P.\n\n2 - Caso a superfície total abrangida pelos pedidos elegíveis exceda a superfície disponibilizada, para efeitos de distribuição, a nível nacional, do número de hectares (ha) disponível, pode ser estabelecida uma superfície mínima e/ou máxima por candidato, mediante a aplicação dos seguintes critérios:\n\na) Numa base pro rata; ou\n\nb) De acordo com os seguintes critérios de prioridade:\n\ni) Novos entrantes;\n\nii) Jovem produtor;\n\niii) Superfícies no âmbito de projetos de emparcelamento;\n\niv) Superfícies a plantar de novo que contribuam para aumentar a produção das explorações do sector vitivinícola que revelem um aumento da sua eficiência em termos de custos, da sua competitividade ou da sua presença nos mercados;\n\nv) Projetos com potencial para melhorar a qualidade dos produtos da DOP ou IGP;\n\nvi) Superfícies a plantar para aumento da dimensão das pequenas e médias explorações;\n\nvii) O produtor:\n\na) Não ter vinhas em situação irregular;\n\nb) Não ter deixado expirar autorizações anteriormente concedidas, no prazo de 5 anos e com uma área superior a 0,5 ha;\n\nc) Ter honrado os compromissos anteriormente assumidos, nomeadamente com os critérios de prioridade referidos nas alíneas anteriores;\n\nd) [Revogada.]\n\n3 - Não podem ser usadas em simultâneo as subalíneas i) e ii) da alínea b) do número anterior.\n\n4 - Para efeitos de aplicação dos números anteriores, anualmente, através do despacho previsto no n.º 4 do artigo 4.º, é definida a forma de aplicação dos critérios de distribuição, sendo utilizado, quando aplicável, como primeiro critério de prioridade o disposto na subalínea v) da alínea b) do n.º 2.\n\n5 - Se a autorização concedida a um produtor for inferior a 50 % da superfície requerida, o produtor pode recusar essa autorização no prazo de um mês, a contar da data em que a autorização foi concedida, ficando isento da aplicação de sanções.\n\n6 - A superfície recusada pelos produtores nas condições do número anterior poderá ser disponibilizada no ano seguinte, em acréscimo da superfície nacional correspondente ao limiar percentual definido no n.º 4 do artigo 4.º\n\n7 - As autorizações concedidas são válidas pelo período previsto no n.º 3 do artigo 62.º do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.\n\n8 - Caso seja concedida uma autorização para a produção de vinho sem direito a denominação de origem ou indicação geográfica, numa região com limitações de plantação, o produtor fica obrigado a manter essa categoria durante um período mínimo de 10 anos.\n\n9 - A obrigação a que se refere o número anterior só é aplicável enquanto vigorarem as limitações à plantação na respetiva região.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "1063801575": {
+   "fragment_id": "74748846",
+   "type": 11,
+   "heading": "Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas",
+   "in_force_from": "2026-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+   ],
+   "markdown": "###### Artigo 6.º — Submissão de candidaturas para novas plantações de vinhas\n\n1 - A abertura das candidaturas ocorre anualmente até, no máximo, 1 de maio, por um prazo que não pode ser inferior a um mês, através de aviso publicado no sítio da Internet do IVV, I. P., podendo ser aberto novo período de submissão de candidaturas, nos termos e para os efeitos a que se refere o n.º 4 do artigo 4.º, no caso de os pedidos elegíveis apresentados não esgotarem a superfície disponibilizada.\n\n2 - A decisão sobre cada candidatura deve ser conhecida até 1 de agosto do mesmo ano e comunicada aos candidatos, através dos respetivos endereços eletrónicos indicados na candidatura.\n\n3 - Os pedidos devem:\n\na) Indicar a superfície a plantar e a parcela da exploração agrícola do requerente para a qual é pedida a autorização;\n\nb) Apresentar comprovativo de propriedade ou documento válido para a utilização da superfície a ocupar com vinha;\n\nc) Especificar, para as superfícies a plantar, se pretende produzir um ou mais dos seguintes produtos:\n\ni) Vinhos com denominação de origem protegida;\n\nii) Vinhos com indicação geográfica protegida;\n\niii) Vinhos sem indicação geográfica;\n\nd) Outros, a definir no despacho referido no n.º 4 do artigo 4.º\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 174/2016 - Diário da República n.º 117/2016, Série I de 2016-06-21](https://diariodarepublica.pt/dr/detalhe/portaria/174-2016-74748830), em vigor a partir de 2016-06-22, produz efeitos a partir de 2016-01-01"
+  },
+  "1063801775": {
+   "fragment_id": "74748849",
+   "type": 11,
+   "heading": "Artigo 9.º — Autorizações para replantação de vinhas",
+   "in_force_from": "2026-02-28",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 9.º — Autorizações para replantação de vinhas\n\n1 - É concedida, a partir de 1 de janeiro de 2016, uma autorização de replantação aos titulares da autorização que arranquem uma superfície de vinha para a qual detêm um título de autorização válido, mediante submissão de um pedido no SIvv, de acordo com as normas complementares referidas no n.º 2 do artigo 1.º e verificadas as seguintes condições:\n\na) A vinha a arrancar deve cumprir com o disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 176/2015, de 25 de agosto;\n\nb) Os pedidos devem indicar a área e parcela a arrancar e a área e parcela a plantar na exploração do requerente.\n\nc) A vinha a arrancar não seja uma superfície vitivinícola abandonada.\n\n2 - O IVV, I. P. concede as autorizações de replantação referidas no número anterior no prazo de três meses após a submissão do pedido válido.\n\n3 - A autorização a que se refere o n.º 1 é utilizada na mesma exploração em que foi efetuado o arranque e é válida pelo período previsto no n.º 3 do artigo 62.º do Regulamento (UE) n.º 1308/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro.\n\n4 - Em derrogação do número anterior, quando a replantação tenha lugar na mesma parcela ou parcelas em que foi efetuado o arranque, a autorização é válida por um período de seis anos a contar da data da sua concessão, não sendo prorrogável.\n\n5 - Nas zonas elegíveis para a produção de vinhos com denominação de origem protegida ou indicações geográficas protegidas, pode ser restringida a concessão de autorizações de replantação, destinadas a uma região diferente daquela onde foi efetuado o arranque se, na região de destino, forem implementadas limitações às autorizações para novas plantações, nas condições e termos do artigo 4.º\n\n6 - Podem ser concedidas autorizações de replantação sem arranque prévio, desde que o viticultor se comprometa a arrancar a superfície em causa até ao fim do quarto ano a contar da data em que tenha sido plantada a nova vinha.\n\n7 - Para os efeitos referidos no número anterior, os produtores devem constituir uma garantia, com prazo de 5 anos após a apresentação do pedido, a favor do IVV, I. P., no valor de (euro) 1500/ha.\n\n8 - A garantia a que se refere o número anterior é liberada, ao produtor, no prazo de 45 dias após a comunicação do arranque da vinha velha à Direção Regional de Agricultura e Pescas (DRAP) territorialmente competente.\n\n9 - Se o arranque não for realizado no prazo previsto no n.º 6, os produtores serão notificados pelo IVV, I. P., desse incumprimento e ficam sujeitos às sanções previstas no Regulamento Delegado (UE) 2018/273 da Comissão, de 11 de dezembro de 2017.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  },
+  "1063793575": {
+   "fragment_id": "74748851",
+   "type": 11,
+   "heading": "Artigo 11.º — Conversão dos direitos de plantação em autorizações",
+   "in_force_from": "2026-02-28",
+   "changed_by": [
+    "Revogado pelo/a Artigo 3.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.",
+    "Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+   ],
+   "markdown": "###### Artigo 11.º — Conversão dos direitos de plantação em autorizações\n\n1 - Os direitos de plantação concedidos aos produtores até 31 de dezembro de 2015 que se encontrem válidos, só podem ser utilizados por estes, após 1 de janeiro de 2016, depois de convertidos em autorizações, da seguinte forma:\n\na) A pedido dos produtores, a partir de 15 de setembro de 2015 e até 31 de dezembro de 2022, devendo os pedidos indicar a dimensão e a localização da parcela da exploração agrícola do requerente para a qual é pedida a autorização;\n\nb) O IVV, I. P. concede as autorizações num prazo de três meses, sendo que, para os pedidos apresentados antes de 31 de dezembro de 2015, o período de três meses tem início em 1 de janeiro de 2016.\n\n2 - As autorizações concedidas nos termos do número anterior são válidas pelo mesmo período que os direitos de plantação respetivos, não podendo, contudo, ultrapassar o prazo de 31 de dezembro de 2025.\n\n3 - As autorizações caducam se não forem utilizadas durante o prazo de validade, não podendo este ser prorrogado.\n\n4 - Para efeitos do presente artigo, o requerente deve ter o seu património vitícola atualizado no SIvv.\n\n5 - Uma superfície equivalente à superfície abrangida por direitos de plantação que eram elegíveis para conversão em autorizações de plantação até 31 de dezembro de 2022, nos termos da alínea a) do n.º 1, mas que não tenham sido convertidas até essa data, pode ser utilizada para conceder autorizações para novas plantações, o mais tardar até 31 de dezembro de 2025.\n\n> Revogado pelo/a Artigo 3.º do/a [Portaria n.º 94/2026/1 - Diário da República n.º 41/2026, Série I de 2026-02-27](https://diariodarepublica.pt/dr/detalhe/portaria/94-2026-1062753818), em vigor a partir de 2026-02-28.\n\n> Alterado pelo/a Artigo 2.º do/a [Portaria n.º 87/2022 - Diário da República n.º 25/2022, Série I de 2022-02-04](https://diariodarepublica.pt/dr/detalhe/portaria/87-2022-178660788), em vigor a partir de 2022-02-05"
+  }
+ }
+}

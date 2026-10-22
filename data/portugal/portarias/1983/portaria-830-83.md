@@ -1,0 +1,113 @@
+---
+schema_version: '1.0'
+id: pt:dre:454862:por
+title: Portaria n.º 830/83
+short_title: null
+summary: Cria o cartão para uso dos indivíduos autorizados a tramitar despachos nas estâncias aduaneiras
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério das Finanças e do Plano - Secretaria de Estado do Orçamento - Direcção-Geral das Alfândegas
+proposing_entity: null
+official_number: 830/83
+official_date: null
+publication_date: '1983-08-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 182/1983, Série I de 1983-08-09
+  number: '182'
+  series: I
+  supplement: null
+  pages: 2873 - 2874
+  pdf_url: https://files.diariodarepublica.pt/1s/1983/08/18200/28732874.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '454862'
+  dre_path: /dr/detalhe/portaria/830-1983-454862
+  internal: pt:dre:454862:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-1983-454862
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/830-1983-454862
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2001-07-27T00:00:00Z'
+integrity:
+  source_sha256: ee965f423cf8f07e47c24517fed27779ac455ea39905556f6d2775b894700963
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1983/DRE-1983-830-454862.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:372809:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 830/83
+
+de 9 de Agosto
+
+Considerando que, em conformidade com o artigo 179.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965, os funcionários aduaneiros poderão exigir a apresentação da cédula aos indivíduos autorizados a tramitar despachos nas estâncias aduaneiras;
+
+Considerando que por diversas vezes foram detectados casos de exercício de funções por indivíduos não autorizados à pratica daquele;
+
+Considerando que o processo de identificação através do pedido sistemático da apresentação da cédula é incompatível com a dinâmica que se pretende imprimir ao funcionamento dos serviços aduaneiros, justificando a criação de um meio identificativo mais cómodo e expedito:
+
+Manda o Governo da República Portuguesa, pelo Secretário de Estado do Orçamento, o seguinte:
+
+1.º É criado o cartão para uso dos negociantes que despacham por conta própria, despachantes oficiais, despachantes privativos, ajudantes de despachante, agentes aduaneiros e praticantes de despachante, de modelo anexo a esta portaria.
+
+2.º Os cartões, emitidos pela Direcção-Geral das Alfândegas, serão de cor branca e terão as dimensões de 85 mm x 60 mm.
+
+3.º É obrigatório o uso dos referidos cartões pelos respectivos titulares, em local bem visível do vestuário, durante a sua permanência na Direcção-Geral das Alfândegas e em todos os serviços dela dependentes.
+
+4.º A Direcção-Geral das Alfândegas deverá organizar e manter permanentemente actualizado o registo de cartões emitidos, sendo as despesas suportadas pelos utentes dos cartões.
+
+Secretaria de Estado do Orçamento.
+
+**Assinado em 15 de Junho de 1983.**
+
+**O Secretário de Estado do Orçamento, Alípio Barrosa Pereira Dias.**
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1983/08/18200/28732874.pdf))](https://files.diariodarepublica.pt/1s/1983/08/18200/28732874.pdf)

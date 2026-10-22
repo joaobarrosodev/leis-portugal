@@ -1,0 +1,1117 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:442764:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/1983-1072865380",
+ "dre_path": "/dr/detalhe/decreto-regulamentar-regional/23-1983-442764",
+ "source_lastmod": "2026-06-02",
+ "versions": [
+  {
+   "date": "1983-10-04",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "1130871375",
+    "1072872675",
+    "1072872875",
+    "1072873075",
+    "1072873275",
+    "1072873475",
+    "1072873675",
+    "1072873875",
+    "1072874075",
+    "1072874275",
+    "1072874475",
+    "1072874675",
+    "1072874875",
+    "1072875075",
+    "1072875275",
+    "1072875475",
+    "1072875675",
+    "1072875875",
+    "1072876075",
+    "1072876275",
+    "1072876475",
+    "1072876675",
+    "1072876875",
+    "1072877075",
+    "1072877275",
+    "1072877475",
+    "1072877675",
+    "1072877875",
+    "1072878075",
+    "1072878275",
+    "1072878475",
+    "1072878675",
+    "1072878875",
+    "1072879075",
+    "1072879275",
+    "1072879475",
+    "1072879675",
+    "1072879875",
+    "1072880075",
+    "1072880275",
+    "1072880475",
+    "1072880675",
+    "1072880875",
+    "1072881075",
+    "1072881275",
+    "1072881475",
+    "1072881675",
+    "1072881875",
+    "1072882075",
+    "1072882275",
+    "1072882475",
+    "1072882675",
+    "1072882875",
+    "1072883075"
+   ]
+  },
+  {
+   "date": "2005-06-30",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:233716:por",
+     "title": "Decreto Legislativo Regional n.º 11/2005/M",
+     "published": "2005-06-29",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/11-2005-233716"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "1130871375",
+    "1130871575",
+    "1130871675",
+    "1130871775",
+    "1130871875",
+    "1130871975",
+    "1130872075",
+    "1130872175",
+    "1130872275",
+    "1130900575",
+    "1130900675",
+    "1130900775",
+    "1130900875",
+    "1130900975",
+    "1130901075",
+    "1130901175",
+    "1130901275",
+    "1130901375",
+    "1130901475",
+    "1130901575",
+    "1130901675",
+    "1130901775",
+    "1130901875",
+    "1130901975",
+    "1130902075",
+    "1130902175",
+    "1130902275",
+    "1130902375",
+    "1130902475",
+    "1130902575",
+    "1130902675",
+    "1130902775",
+    "1130902875",
+    "1130902975",
+    "1130903075",
+    "1130903175",
+    "1130903275",
+    "1130903375",
+    "1130903475",
+    "1130903575",
+    "1130903675",
+    "1130903775",
+    "1130903875",
+    "1130903975",
+    "1130904075",
+    "1130904175",
+    "1130904275",
+    "1130904375",
+    "1130904475",
+    "1130904575",
+    "1130904675",
+    "1130904775",
+    "1130904875",
+    "1130904975",
+    "1130905075"
+   ]
+  }
+ ],
+ "fragments": {
+  "1130871375": {
+   "fragment_id": "1072872375",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2005-06-30",
+   "changed_by": [],
+   "markdown": "Adaptação à Região Autónoma da Madeira do Decreto Regulamentar n.º 44-A/83, de 1 de Junho\n\nConsiderando que no Decreto Regulamentar n.º 44-A/83, de 1 de Junho, se revê o regime de classificação de serviço na função pública;\n\nConsiderando que no mesmo diploma se acautela, expressamente, a sua aplicabilidade, com as devidas adaptações, às regiões autónomas - n.º 4 do artigo 1.º -, mediante decreto regulamentar regional, o que se revela de grande oportunidade e conveniência, relativamente à administração regional autónoma:\n\nO Governo Regional da Madeira, ao abrigo do disposto na alínea b) do artigo 229.º da Constituição, conjugada com a alínea b) do artigo 33.º do Decreto-Lei n.º 318-D/76, de 30 de Abril, decreta o seguinte:"
+  },
+  "1072872675": {
+   "fragment_id": "1072872575",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Princípios gerais"
+  },
+  "1072872875": {
+   "fragment_id": "1072872775",
+   "type": 11,
+   "heading": "Artigo 1 — (Aplicação à administração regional autónoma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1 — (Aplicação à administração regional autónoma)\n\n1 - Aplica-se, pelo presente diploma, à administração regional autónoma o regime do Decreto Regulamentar n.º 44-A/83, de 1 de Junho.\n\n2 - São eliminados os n.os 3 e 4 do artigo 1.º, o n.º 6 do artigo 10.º, o n.º 2 do artigo 34.º e os artigos 42.º, 47.º e 48.º do Decreto Regulamentar n.º 44-A/83, de 1 de Junho, e são alteradas, com as devidas adaptações, as disposições dos n.os 1, 2 e 5 (que passam a n.º 3) do artigo 1.º, do n.º 3 do artigo 4.º, do n.º 1 do artigo 6.º, do n.º 3 do artigo 7.º, do n.º 1 do artigo 12.º, do n.º 1 do artigo 18.º, do n.º 1 do artigo 24.º, do n.º 1 do artigo 26.º, do n.º 1 do artigo 39.º, do n.º 1 do artigo 40.º, dos artigos 41.º e 44.º, dos n.os 1 e 3 do artigo 45.º e do artigo 46.º do mesmo diploma."
+  },
+  "1072873075": {
+   "fragment_id": "1072872975",
+   "type": 11,
+   "heading": "Artigo 2 — (Âmbito de aplicação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2 — (Âmbito de aplicação)\n\n1 - A classificação de serviço a que se refere o artigo 4.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, aplicável à administração regional autónoma através da Portaria n.º 65/79, de 5 de Julho, rege-se pelo presente diploma e aplica-se aos funcionários e agentes dos serviços do Governo Regional da Madeira e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.\n\n2 - O disposto no presente diploma não é aplicável ao pessoal dirigente abrangido pelo regime previsto no Decreto-Lei n.º 191-F/79, de 26 de Junho, adaptado à administração regional autónoma através do Decreto Regional n.º 25/79/M, de 30 de Outubro, nem aos chefes de repartição.\n\n3 - Às carreiras com regime especial, nomeadamente àquelas a que se refere o artigo 24.º do Decreto-Lei n.º 191-C/79, deverá ser aplicado, com as necessárias adaptações, o sistema de classificação de serviço consagrado neste decreto regulamentar regional, mediante portaria do Presidente do Governo Regional e do secretário regional competente, ouvida a Direcção Regional de Administração Pública."
+  },
+  "1072873275": {
+   "fragment_id": "1072873175",
+   "type": 11,
+   "heading": "Artigo 3 — (Aplicação a agentes)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3 — (Aplicação a agentes)\n\nO disposto no presente diploma é também aplicável ao pessoal dos serviços e organismos abrangidos pelo artigo anterior, contratado além dos quadros, por prazo superior a 6 meses ou sucessivamente prorrogável, ainda que em regime de prestação eventual de serviço."
+  },
+  "1072873475": {
+   "fragment_id": "1072873375",
+   "type": 11,
+   "heading": "Artigo 4 — (Finalidades da classificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4 — (Finalidades da classificação)\n\nA classificação de serviço, para além da aplicação dos seus resultados nas situações previstas no artigo seguinte, visa:\n\na) A avaliação profissional do funcionário ou agente, tendo em atenção os conhecimentos e qualidades de que fez prova no exercício das suas funções;\n\nb) A valorização individual e a melhoria da eficácia profissional, permitindo a cada funcionário e agente conhecer o juízo que os seus superiores hierárquicos formulam quanto ao desempenho das suas funções;\n\nc) Contribuir para o diagnóstico das situações de trabalho com vista ao estabelecimento de medidas tendentes à sua correcção e transformação;\n\nd) Detectar a eventual necessidade de acções de formação."
+  },
+  "1072873675": {
+   "fragment_id": "1072873575",
+   "type": 11,
+   "heading": "Artigo 5 — (Casos em que é requisito de provimento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5 — (Casos em que é requisito de provimento)\n\n1 - A classificação de serviço é obrigatoriamente considerada nos seguintes casos:\n\na) Promoção e progressão nas carreiras;\n\nb) Conversão da nomeação provisória em definitiva;\n\nc) Celebração de novos contratos para diferentes categoria ou cargo a que corresponda, no quadro de pessoal do serviço, categoria superior da respectiva carreira.\n\n2 - Para os efeitos das alíneas anteriores, é exigida, no mínimo, a classificação de serviço de Bom, excepto nos casos em que é legalmente indispensável a classificação de Muito bom.\n\n3 - Nas situações referidas nos números anteriores, os processos a enviar à Secção Regional do Tribunal de Contas, para os efeitos previstos no Decreto-Lei n.º 146-C/80, de 22 de Maio, deverão ser instruídos com cópia da primeira página do respectivo processo de classificação devidamente preenchida, excepto nos casos em que, nos termos do presente diploma, a ausência de classificação de serviço venha a ser suprida por adequada ponderação do currículo profissional, caso em que tal circunstância será expressamente enunciada e fundamentada no processo a remeter àquele organismo."
+  },
+  "1072873875": {
+   "fragment_id": "1072873775",
+   "type": 11,
+   "heading": "Artigo 6 — (Expressão da classificação em menção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6 — (Expressão da classificação em menção)\n\nA classificação de serviço exprime-se numa menção qualitativa, obtida através de um sistema de notação baseado na apreciação quantificada do serviço prestado, em relação a cada um dos factores definidos na respectiva ficha de notação."
+  },
+  "1072874075": {
+   "fragment_id": "1072873975",
+   "type": 11,
+   "heading": "Artigo 7 — (Fichas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7 — (Fichas)\n\n1 - Para os efeitos do artigo anterior, serão utilizadas as fichas de notação cujos modelos de impressos se encontram anexos ao presente diploma, destinando-se:\n\na) A ficha n.º 1 ao pessoal técnico superior e técnico;\n\nb) A ficha n.º 2 ao pessoal técnico-profissional e administrativo;\n\nc) A ficha n.º 3 ao pessoal, auxiliar;\n\nd) A ficha n.º 4 ao pessoal operário.\n\n2 - A ficha n.º 5 aplica-se nos casos em que os funcionários ou agentes contem menos de 1 ano de serviço efectivo e estejam providos em lugar de ingresso na carreira ou em cargo a que corresponda categoria equivalente, quer se trate de classificação ordinária ou extraordinária."
+  },
+  "1072874275": {
+   "fragment_id": "1072874175",
+   "type": 11,
+   "heading": "Artigo 8 — (Princípios aplicáveis às fichas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8 — (Princípios aplicáveis às fichas)\n\n1 - Nas fichas de notação n.os 1, 2, 3 e 4 cada factor é susceptível de graduação em 5 posições principais, pontuadas em 2, 4, 6, 8 e 10, sem prejuízo da utilização dos respectivos valores intermédios, resultando a pontuação da média aritmética dos valores com que foi graduado cada um dos factores.\n\n2 - Na ficha n.º 5 cada factor é objecto de apreciação meramente qualitativa.\n\n3 - Mediante despacho do Presidente do Governo Regional ou do secretário regional competente, sob proposta do dirigente máximo da unidade orgânica, ouvidas as comissões paritárias de avaliação, os diversos serviços e organismos da administração poderão introduzir coeficientes de ponderação, para valoração dos diferentes factores, nas fichas de notação a que se refere o n.º 1, tendo em atenção as funções efectivamente desempenhadas.\n\n4 - A ponderação de factores prevista no número anterior poderá ser diferente para as várias categorias da mesma carreira, utilizando-se sempre o mesmo modelo de ficha de notação."
+  },
+  "1072874475": {
+   "fragment_id": "1072874375",
+   "type": 11,
+   "heading": "Artigo 9 — (Publicitação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9 — (Publicitação)\n\n1 - O notado poderá não autorizar que seja publicitada a respectiva classificação de serviço, devendo preencher por ocasião da entrevista em que dela toma conhecimento o espaço reservado na ficha para esse efeito.\n\n2 - Os serviços afixarão em lugar a que tenham acesso os trabalhadores da mesma unidade orgânica listas contendo as menções apuradas nos termos do artigo 10.º cuja publicitação não tenha sido recusada."
+  },
+  "1072874675": {
+   "fragment_id": "1072874575",
+   "type": 11,
+   "heading": "Artigo 10 — (Apuramento da menção)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10 — (Apuramento da menção)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 8.º, obtém-se pela tradução da pontuação obtida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que aquela se situar:\n\n2 e 3 - Não satisfatório;\n\n4 e 5 - Regular;\n\n6, 7 e 8 - Bom;\n\n9 e 10 - Muito bom.\n\n2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro, por excesso ou por defeito, consoante o valor decimal obtido seja igual ou superior a 0,5 ou inferior a este, respectivamente.\n\n3 - Quando houver lugar à utilização da ficha n.os 5, a classificação de serviço exprime-se numa das seguintes menções:\n\nA - Muito bom;\n\nB - Bom;\n\nC - Insatisfatório.\n\n4 - Quando tiver sido utilizada a ficha n.º 5, a atribuição de qualquer das menções referidas no número anterior ficará ao critério da entidade competente para homologar, tendo em conta as valorações atribuídas a cada um dos factores e a sua importância relativa, devendo, porém, observar-se o seguinte:\n\na) A classificação de Muito bom só poderá ser atribuída quando, pelo menos, 2 dos factores tiverem sido valorados com o grau A e nenhum deles com o grau C;\n\nb) A classificação de Insatisfatório só poderá ser atribuída nos casos em que ocorrerem, pelo menos, 3 valorações de grau C."
+  },
+  "1072874875": {
+   "fragment_id": "1072874775",
+   "type": 11,
+   "heading": "Artigo 11 — (Competência para avaliar e notar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11 — (Competência para avaliar e notar)\n\n1 - A avaliação e a notação são da competência conjunta dos superiores hierárquicos imediato e de segundo nível, designados por notadores, que, no decurso do período a que se reporta a classificação, reúnam o mínimo de 6 meses de contacto funcional com o notado.\n\n2 - Considera-se superior hierárquico de segundo nível o dirigente que, na escala hierárquica, se situe na posição imediatamente superior ao dirigente ou chefe imediato do notado.\n\n3 - A competência para avaliar e notar o pessoal operário pertence conjuntamente ao superior hierárquico do notado e ao funcionário ou agente integrado em outro grupo de pessoal que tenha a seu cargo o sector do pessoal operário.\n\n4 - Quando no decurso do período em apreciação se verifique alteração de notadores ou o notado haja mudado de serviço, a competência para avaliar e notar pertence aos notadores que reúnam, no decurso desse período, o mínimo de 6 meses de contacto funcional com o notado.\n\n5 - O exercício da competência para avaliar e notar será precedida, sempre que possível, de reunião conjunta dos notadores de cada organismo ou serviço para consenso quanto aos procedimentos a adoptar."
+  },
+  "1072875075": {
+   "fragment_id": "1072874975",
+   "type": 11,
+   "heading": "Artigo 12 — (Competência para avaliar e notar em casos especiais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12 — (Competência para avaliar e notar em casos especiais)\n\n1 - Quando a estrutura orgânica de determinado serviço ou organismo não permitir a aplicação dos n.os 1 e 3 do artigo anterior, o dirigente máximo do serviço poderá designar como notadores funcionários ou, na falta destes, agentes, com atribuições de coordenação de trabalho, de categoria superior aos notados, ainda que não providos em lugar de direcção ou chefia.\n\n2 - Nos casos em que não for possível a designação de 2 notadores de acordo com as regras consagradas neste diploma, poderá ser designado um único notador mediante despacho fundamentado do dirigente máximo da respectiva unidade orgânica.\n\n3 - Os funcionários ou agentes designados como notadores ao abrigo dos números anteriores deverão reunir, no mínimo, 6 meses de contacto funcional com os notados."
+  },
+  "1072875275": {
+   "fragment_id": "1072875175",
+   "type": 11,
+   "heading": "Artigo 13 — (Competência para homologar)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13 — (Competência para homologar)\n\n1 - A competência para homologar as classificações atribuídas pelos notadores é exercida pelo membro do Governo Regional encarregado da tutela.\n\n2 - Quando o dirigente competente não homologar a classificação atribuída pelos notadores ou não concordar com a proposta de solução apresentada pela comissão paritária, deverá ele próprio atribuir, mediante despacho fundamentado, a classificação respectiva, ouvindo a comissão paritária nos casos em que esta não tiver sido ouvida, observando-se para o efeito o disposto nos artigos 35.º e 36.º\n\n3 - A intervenção, como notador, do dirigente com competência para homologar não prejudica a posterior homologação pelo mesmo dirigente da classificação atribuída."
+  },
+  "1072875475": {
+   "fragment_id": "1072875375",
+   "type": 1,
+   "heading": "Capítulo II — Modalidades e relevância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Modalidades e relevância"
+  },
+  "1072875675": {
+   "fragment_id": "1072875575",
+   "type": 11,
+   "heading": "Artigo 14 — (Modalidades)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14 — (Modalidades)\n\nA classificação de serviço pode ser ordinária e extraordinária."
+  },
+  "1072875875": {
+   "fragment_id": "1072875775",
+   "type": 11,
+   "heading": "Artigo 15 — (Classificação ordinária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15 — (Classificação ordinária)\n\nA classificação ordinária é de iniciativa da administração e abrange os funcionários e agentes que contem no ano civil anterior mais de 6 meses de serviço efectivo prestado em contacto funcional com os notadores ou notador competentes, nos termos deste diploma."
+  },
+  "1072876075": {
+   "fragment_id": "1072875975",
+   "type": 11,
+   "heading": "Artigo 16 — (Classificação extraordinária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16 — (Classificação extraordinária)\n\n1 - São classificados extraordinariamente os funcionários e agentes não abrangidos no artigo anterior que, durante o ano em que é atribuída a classificação e até 30 de Junho, venham a reunir o requisito de 6 meses de contacto funcional com os notadores ou notador competentes.\n\n2 - A classificação extraordinária deverá ser solicitada pelo interessado ao dirigente máximo do serviço ou organismo, por escrito, no decurso do mês de Junho, sendo-lhe aplicável a tramitação prevista para a classificação ordinária, salvo no que diz respeito às datas fixadas no presente diploma, sem prejuízo, contudo, da observância dos intervalos temporais entre cada uma das várias fases do processo."
+  },
+  "1072876275": {
+   "fragment_id": "1072876175",
+   "type": 11,
+   "heading": "Artigo 17 — (Utilização de ficha n.º 5)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17 — (Utilização de ficha n.º 5)\n\nA ficha n.º 5 será utilizada, em qualquer das modalidades da classificação de serviço, nos casos previstos no n.º 2 do artigo 7.º"
+  },
+  "1072876475": {
+   "fragment_id": "1072876375",
+   "type": 11,
+   "heading": "Artigo 18 — (Tempo de serviço classificado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18 — (Tempo de serviço classificado)\n\n1 - A classificação extraordinária abrange todo o serviço prestado até 30 de Junho do ano em que é solicitada, incluindo o serviço prestado e não classificado no ano civil anterior.\n\n2 - A classificação ordinária entende-se reportada ao tempo de serviço prestado no ano civil anterior, não abrangendo, no entanto, aquele que tenha sido classificado extraordinariamente."
+  },
+  "1072876675": {
+   "fragment_id": "1072876575",
+   "type": 11,
+   "heading": "Artigo 19 — (Relevância para efeitos de carreira)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19 — (Relevância para efeitos de carreira)\n\n1 - Sem prejuízo do que sobre a matéria dispõe o Decreto-Lei n.º 171/82, de 10 de Maio, devidamente adaptado à administração regional autónoma através de diploma que vier a ser publicado, para efeitos de promoção e progressão nas carreiras, as classificações atribuídas deverão ser em número igual ao número de anos de serviço exigidos como requisito de tempo mínimo de permanência na categoria inferior e reportadas aos anos imediatamente anteriores relevantes para aqueles efeitos.\n\n2 - Para os efeitos do número anterior é irrelevante o facto de se ter verificado alteração de categoria ou mudança de quadro ou serviço no ano civil em que ocorreu o provimento.\n\n3 - Para que a nomeação provisória se converta em definitiva, o dirigente máximo de serviço ou organismo deverá confirmar a classificação já atribuída aquando do averbamento, anotado no respectivo termo de posse."
+  },
+  "1072876875": {
+   "fragment_id": "1072876775",
+   "type": 11,
+   "heading": "Artigo 20 — (Casos especiais de relevância)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20 — (Casos especiais de relevância)\n\n1 - Relativamente ao pessoal que tenha desempepenhado funções dirigentes ao abrigo do regime constante do Decreto-Lei n.º 191-F/79, de 26 de Junho, a classificação de serviço obtida no último ano de exercício no lugar de origem reporta-se igualmente aos anos seguintes, relevantes para efeitos de promoção.\n\n2 - O princípio contido no número anterior é igualmente aplicável às situações de exercício de cargo ou função de reconhecido interesse público, bem como de funções sindicais ou de prestação de serviço militar obrigatório, desde que impeditivas de atribuição de classificação de serviço nos termos deste diploma."
+  },
+  "1072877075": {
+   "fragment_id": "1072876975",
+   "type": 11,
+   "heading": "Artigo 21 — (Suprimento da falta de classificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21 — (Suprimento da falta de classificação)\n\n1 - A falta de classificação relativa ao tempo de serviço relevante para os efeitos previstos nos n.os 1 e 2 do artigo 5.º será suprida por adequada ponderação do currículo profissional do funcionário ou agente na parte correspondente ao período não classificado nos seguintes casos:\n\na) Quando o interessado permanecer em situação que inviabilize a atribuição de classificação de serviço reportada ao seu lugar de origem, designadamente quando não puder solicitar classificação extraordinária ou não puder beneficiar do disposto no artigo anterior;\n\nb) Quando a aplicação do disposto no artigo 12.º não tiver evitado a impossibilidade de designação de notadores ou de notador;\n\nc) Quando se tiver verificado a circunstância referida no n.º 3 do artigo 30.º\n\n2 - O disposto no número anterior não exclui a possibilidade de redução do tempo de permanência na categoria inferior permitida pelo n.º 3 do artigo 4.º do Decreto-Lei n.º 191-C/79, de 25 de Junho.\n\n3 - Na ponderação do currículo profissional ter-se-ão em conta, entre outros parâmetros, as habilitações académicas e profissionais do interessado, a sua participação em acções de formação e aperfeiçoamento, bem como o conteúdo das suas funções e o serviço ou organismo em que as exerceu, no período considerado."
+  },
+  "1072877275": {
+   "fragment_id": "1072877175",
+   "type": 11,
+   "heading": "Artigo 22 — (Ponderação do currículo profissional)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22 — (Ponderação do currículo profissional)\n\nA ponderação do currículo profissional será levada a efeito pelo júri dos concursos de promoção ou, relativamente às demais situações previstas nos n.os 1 e 2 do artigo 5.º, pelo dirigente máximo do serviço ou organismo, que poderá delegar essa competência no superior hierárquico imediato do interessado."
+  },
+  "1072877475": {
+   "fragment_id": "1072877375",
+   "type": 11,
+   "heading": "Artigo 23 — (Admissão a concurso nos casos de avaliação curricular)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23 — (Admissão a concurso nos casos de avaliação curricular)\n\n1 - Os interessados a que se refere o artigo 21.º terão direito a apresentar a sua candidatura a concursos de promoção, nos termos previstos no respectivo regulamento, sem prejuízo do disposto no número seguinte.\n\n2 - Nos casos do n.º 2 do artigo 21.º, a inclusão nas listas de candidatos admitidos dependerá de deliberação favorável do júri, com base na apreciação do currículo profissional do interessado e na medida em que tiver sido entendido que o mesmo justifica a redução do tempo de permanência na categoria inferior.\n\n3 - A apreciação do currículo referida no número anterior só é relevante para fins de admissão a concurso e não prejudica, em caso de deliberação favorável, nova apreciação curricular para efeitos de ordenamento de candidatos."
+  },
+  "1072877675": {
+   "fragment_id": "1072877575",
+   "type": 11,
+   "heading": "Artigo 24 — (Tempo de serviço)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24 — (Tempo de serviço)\n\nO tempo de serviço a que se referem os artigos anteriores reporta-se, para efeitos de promoção, ao tempo de serviço calculado nos termos dos critérios legalmente fixados sobre a matéria, designadamente no Decreto-Lei n.º 90/72, de 18 de Março."
+  },
+  "1072877875": {
+   "fragment_id": "1072877775",
+   "type": 1,
+   "heading": "Capítulo III — Comissão paritária",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Comissão paritária"
+  },
+  "1072878075": {
+   "fragment_id": "1072877975",
+   "type": 11,
+   "heading": "Artigo 25 — (Constituição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25 — (Constituição)\n\n1 - Nas direcções regionais ou unidades orgânicas equiparadas será constituída uma comissão paritária, composta por 4 vogais, sendo 2 representantes da administração e 2 representantes dos notados.\n\n2 - O disposto no número anterior não prejudica que, por despacho do dirigente máximo do serviço ou organismo, sejam constituídas comissões paritárias nas unidades orgânicas desconcentradas a cargo de dirigente em quem tenha sido delegada competência para homologar classificações de serviço.\n\n3 - A comissão paritária é o órgão consultivo do dirigente com competência para homologar classificações de serviço."
+  },
+  "1072878275": {
+   "fragment_id": "1072878175",
+   "type": 11,
+   "heading": "Artigo 26 — (Designação, eleição e mandato dos vogais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26 — (Designação, eleição e mandato dos vogais)\n\n1 - Os vogais representantes da administração serão designados, em número de 4, 2 efectivos e 2 suplentes, de entre funcionários ou agentes não notados, pelo dirigente com competência para homologar.\n\n2 - O despacho de designação, a proferir no mês de Dezembro de cada ano, deverá fixar os membros efectivos e os suplentes, bem como o vogal e respectivo suplente, que orientará os trabalhos da comissão paritária.\n\n3 - Os representantes dos notados serão eleitos por escrutínio secreto, em número de 4, 2 efectivos e 2 suplentes, por todos os funcionários e agentes notados da unidade orgânica, sendo vogais efectivos os mais votados.\n\n4 - O pessoal dirigente abrangido pelo Decreto-Lei n.º 191-F/79 e os chefes de repartição não podem ser eleitos como vogais representantes dos notados na comissão.\n\n5 - O mandato da comissão paritária inicia-se no dia 1 de Janeiro seguinte e termina a 31 de Dezembro do mesmo ano, sem prejuízo de se entender prorrogado, se necessário, para análise de processos iniciados antes do seu termo."
+  },
+  "1072878475": {
+   "fragment_id": "1072878375",
+   "type": 11,
+   "heading": "Artigo 27 — (Processo de eleição)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27 — (Processo de eleição)\n\n1 - Em cada direcção regional ou equiparada, ou em unidade desconcentrada a que seja aplicado o n.º 2 do artigo 25.º, será organizado o processo de eleição dos representantes dos notados, nos termos do despacho do respectivo dirigente, que será afixado em local ou locais a que tenham acesso todos os trabalhadores, do qual deverão constar, entre outros, os seguintes pontos:\n\na) Data limite para indicação, pelos trabalhadores notados, dos membros da mesa ou mesas de voto, referindo expressamente que, na ausência dessa indicação, os mesmos serão designados pelo dirigente competente até 48 horas antes da realização do acto eleitoral;\n\nb) Número de elementos da mesa ou mesas de voto, o qual não deverá ser superior a 5 por cada mesa, incluindo os membros suplentes;\n\nc) Data do acto eleitoral;\n\nd) Período e local do funcionamento das mesas de voto,\n\ne) Data limite da comunicação dos resultados ao dirigente respectivo;\n\nf) Dispensa dos membros das mesas do exercício dos seus deveres funcionais no dia em que houver lugar a eleições, sendo igualmente concedidas facilidades aos restantes trabalhadores pelo período estritamente indispensável para o exercício do direito de voto.\n\n2 - A não participação dos trabalhadores na eleição implicará a não constituição da comissão paritária, sem contudo obstar ao prosseguimento do processo de classificação de serviço, entendendo-se como irrelevantes quaisquer pedidos de audição ou de emissão de pareceres por esse órgão.\n\n3 - A eleição deverá ter lugar no mês de Dezembro de cada ano."
+  },
+  "1072878675": {
+   "fragment_id": "1072878575",
+   "type": 11,
+   "heading": "Artigo 28 — (Substituição de vogais)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28 — (Substituição de vogais)\n\n1 - Os vogais efectivos são substituídos pelo vogais suplentes quando tenham de interromper o respectivo mandato ou sempre que a comissão seja chamada a pronunciar-se sobre processos em que aqueles tenham participado como notados ou notadores.\n\n2 - Quando se verificar a interrupção do mandato de, pelo menos, metade do número de vogais efectivos e suplentes, representantes da administração, por um lado, ou eleitos em representação dos notados, por outro, os procedimentos previstos nos n.os 1 e 3 do artigo 26.º poderão ser repetidos, se necessário, por uma única vez e num prazo de 48 horas.\n\n3 - Nos casos do número anterior, os vogais designados ou eleitos para preenchimento das vagas completarão o mandato daqueles que substituem, passando a integrar a comissão até ao termo do período de funcionamento desta.\n\n4 - Nas situações previstas no n.º 2 do presente artigo, a impossibilidade comprovada de repetição dos procedimentos referidos não é impeditiva do prosseguimento do processo de classificação, entendendo-se como irrevelantes quaisquer pedidos de audição ou de emissão de pareceres pela comissão paritária."
+  },
+  "1072878875": {
+   "fragment_id": "1072878775",
+   "type": 1,
+   "heading": "Capítulo IV — Processo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Processo"
+  },
+  "1072879075": {
+   "fragment_id": "1072878975",
+   "type": 11,
+   "heading": "Artigo 29 — (Confidencialidade)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29 — (Confidencialidade)\n\n1 - O processo de classificação tem carácter confidencial, devendo as fichas de notação ser arquivadas no respectivo processo individual.\n\n2 - Todos os intervenientes no processo de classificação ficam obrigados ao dever de sigilo sobre esta matéria.\n\n3 - O disposto nos números anteriores não impede que em qualquer fase do processo sejam passadas certidões da ficha de notação, mediante pedido do notado, formulado por escrito ao dirigente com competência para homologar."
+  },
+  "1072879275": {
+   "fragment_id": "1072879175",
+   "type": 11,
+   "heading": "Artigo 30 — (Ausência ou impedimento de notados ou notadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30 — (Ausência ou impedimento de notados ou notadores)\n\n1 - A situação de falta ou de licença dos notados ou dos notadores não é impeditiva da atribuição da classificação de serviço e do cumprimento dos prazos fixados.\n\n2 - Quando a ausência ou impedimento forem absolutamente insuperáveis, o processo ficará suspenso, reiniciando-se a contagem dos prazos logo que cesse a ausência ou impedimento, se esta circunstância tiver lugar no mesmo ano civil.\n\n3 - Caso a ausência ou impedimento referidos no número anterior não cessem no mesmo ano civil, não será atribuída classificação de serviço, sendo aplicável o disposto no artigo 21.º quando estiver em causa alguma das situações previstas no n.º 1 do artigo 5.º"
+  },
+  "1072879475": {
+   "fragment_id": "1072879375",
+   "type": 11,
+   "heading": "Artigo 31 — (Preenchimento das fichas)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31 — (Preenchimento das fichas)\n\n1 - O processo de classificação ordinária inicia-se com o preenchimento pelos notados, nos primeiros 5 dias úteis do mês de Janeiro, das rubricas sobre actividades relevantes durante o período em apreciação e funções exercidas constantes das fichas de notação aplicáveis, as quais serão atempadamente fornecidas pelos serviços aos mesmos notados.\n\n2 - As restantes rubricas, na parte aplicável, serão preenchidas pelos notadores até 31 de Janeiro."
+  },
+  "1072879675": {
+   "fragment_id": "1072879575",
+   "type": 11,
+   "heading": "Artigo 32 — (Conhecimento ao interessado)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32 — (Conhecimento ao interessado)\n\n1 - A ficha, depois de devidamente preenchida, será dada a conhecer ao interessado em entrevista individual com os notadores.\n\n2 - As entrevistas referidas no número anterior terão lugar até 15 de Fevereiro de cada ano."
+  },
+  "1072879875": {
+   "fragment_id": "1072879775",
+   "type": 11,
+   "heading": "Artigo 33 — (Reclamação para os notadores)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33 — (Reclamação para os notadores)\n\n1 - O interessado, após tomar conhecimento da ficha de notação, pode apresentar aos notadores, no prazo de 5 dias úteis, reclamação por escrito, com indicação dos factos que julgue susceptíveis de fundamentarem a revisão de classificação atribuída.\n\n2 - As reclamações a que se refere o número anterior serão objecto de apreciação pelos respectivos notadores, que proferirão decisão fundamentada, a qual será dada a conhecer ao interessado, por escrito no prazo máximo de 5 dias úteis contados do recebimento da reclamação."
+  },
+  "1072880075": {
+   "fragment_id": "1072879975",
+   "type": 11,
+   "heading": "Artigo 34 — (Requerimento de audição da comissão paritária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34 — (Requerimento de audição da comissão paritária)\n\n1 - O notado, após tomar conhecimento da decisão, poderá requerer ao dirigente com competência para homologar, nos 5 dias úteis subsequentes, que o seu processo seja submetido a parecer da comissão paritária.\n\n2 - O requerimento deverá ser fundamentado, contendo obrigatoriamente os dados concretos que permitam inferir ter havido factores menos correctamente avaliados.\n\n3 - A audição da comissão paritária não pode, em caso algum, ser recusada pelo dirigente referido no n.º 1."
+  },
+  "1072880275": {
+   "fragment_id": "1072880175",
+   "type": 11,
+   "heading": "Artigo 35 — (Funcionamento)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35 — (Funcionamento)\n\nA comissão paritária poderá solicitar aos notadores ou aos notados os elementos que julgar convenientes para o seu melhor esclarecimento, bem como convidar qualquer deles a expor a sua posição, por uma única vez, em audição, cuja duração não poderá exceder 30 minutos."
+  },
+  "1072880475": {
+   "fragment_id": "1072880375",
+   "type": 11,
+   "heading": "Artigo 36 — (Relatório)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36 — (Relatório)\n\n1 - Os pareceres da comissão paritária serão proferidos, no prazo de 15 dias úteis, contados da data em que tiverem sido solicitados, sob a forma de relatório fundamentado, com proposta de solução da reclamação a elaborar pelo vogal orientador dos trabalhos e subscrito por todos os vogais.\n\n2 - Quando na comissão não se verificar consenso, deve o respectivo relatório conter as propostas de solução em debate e sua fundamentação.\n\n3 - Ao dirigente competente para homologar competirá a decisão final, a qual poderá não coincidir com nenhuma das soluções propostas e deverá ser sempre fundamentada."
+  },
+  "1072880675": {
+   "fragment_id": "1072880575",
+   "type": 11,
+   "heading": "Artigo 37 — (Prazos para homologação e elaboração das listas na classificação ordinária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37 — (Prazos para homologação e elaboração das listas na classificação ordinária)\n\n1 - As classificações de serviço ordinárias deverão ser homologadas até 30 de Abril de cada ano civil.\n\n2 - As listas a que se refere o artigo 9.º respeitantes a classificações ordinárias serão elaboradas após a homologação destas e afixadas até 15 de Maio."
+  },
+  "1072880875": {
+   "fragment_id": "1072880775",
+   "type": 11,
+   "heading": "Artigo 38 — (Especialidades no processo de classificação extraordinária)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38 — (Especialidades no processo de classificação extraordinária)\n\n1 - Nos processos de classificação extraordinária, as rubricas sobre funções exercidas e actividades relevantes, durante o período em apreciação, deverão ser preenchidas pelo notado nos primeiros 5 dias úteis de Julho, devendo até ao fim desse mês ser preenchidas pelos notadores as restantes rubricas aplicáveis.\n\n2 - A partir de 31 de Julho contar-se-ão os intervalos temporais entre cada uma das fases do processo a que se faz referência no presente capítulo."
+  },
+  "1072881075": {
+   "fragment_id": "1072880975",
+   "type": 11,
+   "heading": "Artigo 39 — (Homologação e conhecimento pelo interessado da classificação atribuída)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39 — (Homologação e conhecimento pelo interessado da classificação atribuída)\n\n1 - Os resultados da avaliação e da notação não subirão a homologação antes de decorridos os prazos de reclamação para os notadores e para solicitação de parecer da comissão paritária.\n\n2 - No caso de homologação proceder-se-á ao apuramento da menção em que se traduz a classificação de serviço atribuída.\n\n3 - No prazo de 5 dias úteis, contados do acto de homologação ou da atribuição da classificação pelo dirigente com competência para homologar, é dado conhecimento pelos notadores aos interessados da classificação de serviço que lhes for atribuída, sendo de seguida o processo arquivado no respectivo processo individual."
+  },
+  "1072881275": {
+   "fragment_id": "1072881175",
+   "type": 11,
+   "heading": "Artigo 40 — (Recursos)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40 — (Recursos)\n\n1 - Após a homologação, cabe recurso hierárquico da classificação para o Presidente do Governo Regional ou secretário regional competente, a interpor no prazo de 10 dias úteis contados da data do conhecimento desta, devendo ser proferida decisão no prazo de 15 dias contados da data de interposição do recurso.\n\n2 - A invocação de meras diferenças de classificação com base na comparação entre classificações atribuídas não constitui fundamento atendível de recurso.\n\n3 - O disposto no n.º 1 não é aplicável ao pessoal dos serviços personalizados, cabendo, neste caso, desde logo o direito de interposição de recurso contencioso."
+  },
+  "1072881475": {
+   "fragment_id": "1072881375",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais e transitórias"
+  },
+  "1072881675": {
+   "fragment_id": "1072881575",
+   "type": 11,
+   "heading": "Artigo 41 — (Adaptação do sistema estabelecido neste diploma)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41 — (Adaptação do sistema estabelecido neste diploma)\n\n1 - O sistema de classificação de serviço estabelecido pelo presente diploma poderá ser adaptado à situação concreta dos vários organismos e serviços da administração regional autónoma, mediante portaria do Presidente do Governo Regional ou do secretário regional competente, ouvida a Direcção Regional da Administração Pública, devendo, contudo, ser observado o que nele se dispõe sobre:\n\na) Competência para classificar;\n\nb) Reclamação para os notadores;\n\nc) Homologação das classificações atribuídas;\n\nd) Escala adoptada, sendo obrigatoriamente previstos e descritos os graus 2, 4, 6, 8 e 10;\n\ne) Menções e respectivos intervalos;\n\nf) Conhecimento da classificação ao interessado;\n\ng) Garantia de recurso.\n\n2 - Deverá ainda ser constituído um órgão com funções consultivas, junto do dirigente com competência para homologar, com atribuições e funcionamento semelhantes aos previstos para a comissão paritária.\n\n3 - O órgão a que se refere o número anterior, cuja constituição poderá atender aos grupos profissionais existentes no serviço ou organismo, deliberará com a presença de igual número de representantes da administração e dos notados, não tendo nenhum dos seus membros voto de qualidade."
+  },
+  "1072881875": {
+   "fragment_id": "1072881775",
+   "type": 11,
+   "heading": "Artigo 42 — (Outros sistemas de classificação)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42 — (Outros sistemas de classificação)\n\nPoderão ser utilizados outros sistemas de classificação de serviço, quando estejam em causa funções ou estruturas orgânicas específicas, mediante portaria conjunta do Presidente do Governo Regional e do secretário regional competente, ouvida a Direcção Regional da Administração Pública."
+  },
+  "1072882075": {
+   "fragment_id": "1072881975",
+   "type": 11,
+   "heading": "Artigo 43 — (Imposto do selo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43 — (Imposto do selo)\n\nA reclamação para os notadores e a solicitação de audição da comissão paritária, bem como o pedido de passagem de certidões, não estão isentas de imposto do selo."
+  },
+  "1072882275": {
+   "fragment_id": "1072882175",
+   "type": 11,
+   "heading": "Artigo 44 — (Dirigente máximo)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44 — (Dirigente máximo)\n\nPara efeitos de aplicação do presente diploma, considera-se dirigente máximo da unidade orgânica o director regional ou equiparado ou outro dirigente responsável por unidade orgânica directamente dependente do Presidente do Governo ou do secretário regional."
+  },
+  "1072882475": {
+   "fragment_id": "1072882375",
+   "type": 11,
+   "heading": "Artigo 45 — (Aplicação do diploma em 1983)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45 — (Aplicação do diploma em 1983)\n\n1 - No decurso do corrente ano, o processo de classificação iniciar-se-á no dia 1 de Janeiro de 1984, com o preenchimento das fichas de notação, nos termos do artigo 31.º, no decurso dos primeiros 5 dias úteis desse mesmo mês, observando-se seguidamente os intervalos temporais entre cada uma das fases do processo.\n\n2 - A comissão paritária será constituída igualmente nos termos do capítulo III durante esse mesmo mês e impreterivelmente até ao seu último dia.\n\n3 - As classificações de serviço serão homologadas até 30 de Novembro.\n\n4 - Não se procederá à atribuição de classificação extraordinária, sem prejuízo, porém, de o disposto nos números anteriores ser integralmente aplicável aos funcionários e agentes que até 30 de Junho de 1983 possam vir a reunir o requisito de 6 meses de contacto funcional com os notadores ou notador competentes.\n\n5 - Nos casos do número anterior, a classificação atribuída abrange todo o serviço prestado ou a prestar até 30 de Junho, incluindo o serviço prestado e não classificado em 1982.\n\n6 - São válidas as classificações do serviço prestado em 1982 e 1981, atribuídas até à data da entrada em vigor do presente diploma, relativamente a funcionários e agentes que pretendam apresentar a sua candidatura a concursos já abertos para preenchimento de lugares de acesso e que entretanto tenham sido admitidos a concursos da mesma natureza, ainda que provisoriamente.\n\n7 - O mandato das comissões paritárias a eleger termina em 2 de Dezembro de 1983, sem prejuízo do disposto no n.º 5 do artigo 26.º"
+  },
+  "1072882675": {
+   "fragment_id": "1072882575",
+   "type": 11,
+   "heading": "Artigo 46 — (Aplicação no tempo para efeitos de promoção e progressão)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46 — (Aplicação no tempo para efeitos de promoção e progressão)\n\nNos primeiros anos de vigência do presente diploma observar-se-á o regime previsto no artigo 22.º do Decreto-Lei n.º 171/82, de 10 de Maio, na forma que vier a ser adaptado à administração regional autónoma, para efeitos de promoção e progressão nas carreiras."
+  },
+  "1072882875": {
+   "fragment_id": "1072882775",
+   "type": 11,
+   "heading": "Artigo 47 — (Entrada em vigor)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47 — (Entrada em vigor)\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "1072883075": {
+   "fragment_id": "1072882975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em Plenário do Governo Regional em 21 de Julho de 1983.\n\nO Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 16 de Agosto de 1983.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel."
+  },
+  "1130871575": {
+   "fragment_id": "1072872575",
+   "type": 1,
+   "heading": "Capítulo I — Princípios gerais",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "### Capítulo I — Princípios gerais\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130871675": {
+   "fragment_id": "1072872775",
+   "type": 11,
+   "heading": "Artigo 1 — (Aplicação à administração regional autónoma)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 1 — (Aplicação à administração regional autónoma)\n\n1 - Aplica-se, pelo presente diploma, à administração regional autónoma o regime do Decreto Regulamentar n.º 44-A/83, de 1 de Junho.\n\n2 - São eliminados os n.os 3 e 4 do artigo 1.º, o n.º 6 do artigo 10.º, o n.º 2 do artigo 34.º e os artigos 42.º, 47.º e 48.º do Decreto Regulamentar n.º 44-A/83, de 1 de Junho, e são alteradas, com as devidas adaptações, as disposições dos n.os 1, 2 e 5 (que passam a n.º 3) do artigo 1.º, do n.º 3 do artigo 4.º, do n.º 1 do artigo 6.º, do n.º 3 do artigo 7.º, do n.º 1 do artigo 12.º, do n.º 1 do artigo 18.º, do n.º 1 do artigo 24.º, do n.º 1 do artigo 26.º, do n.º 1 do artigo 39.º, do n.º 1 do artigo 40.º, dos artigos 41.º e 44.º, dos n.os 1 e 3 do artigo 45.º e do artigo 46.º do mesmo diploma.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130871775": {
+   "fragment_id": "1072872975",
+   "type": 11,
+   "heading": "Artigo 2 — (Âmbito de aplicação)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 2 — (Âmbito de aplicação)\n\n1 - A classificação de serviço a que se refere o artigo 4.º do Decreto-Lei n.º 191-C/79, de 25 de Junho, aplicável à administração regional autónoma através da Portaria n.º 65/79, de 5 de Julho, rege-se pelo presente diploma e aplica-se aos funcionários e agentes dos serviços do Governo Regional da Madeira e dos institutos públicos que revistam a natureza de serviços personalizados ou de fundos públicos.\n\n2 - O disposto no presente diploma não é aplicável ao pessoal dirigente abrangido pelo regime previsto no Decreto-Lei n.º 191-F/79, de 26 de Junho, adaptado à administração regional autónoma através do Decreto Regional n.º 25/79/M, de 30 de Outubro, nem aos chefes de repartição.\n\n3 - Às carreiras com regime especial, nomeadamente àquelas a que se refere o artigo 24.º do Decreto-Lei n.º 191-C/79, deverá ser aplicado, com as necessárias adaptações, o sistema de classificação de serviço consagrado neste decreto regulamentar regional, mediante portaria do Presidente do Governo Regional e do secretário regional competente, ouvida a Direcção Regional de Administração Pública.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130871875": {
+   "fragment_id": "1072873175",
+   "type": 11,
+   "heading": "Artigo 3 — (Aplicação a agentes)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 3 — (Aplicação a agentes)\n\nO disposto no presente diploma é também aplicável ao pessoal dos serviços e organismos abrangidos pelo artigo anterior, contratado além dos quadros, por prazo superior a 6 meses ou sucessivamente prorrogável, ainda que em regime de prestação eventual de serviço.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130871975": {
+   "fragment_id": "1072873375",
+   "type": 11,
+   "heading": "Artigo 4 — (Finalidades da classificação)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 4 — (Finalidades da classificação)\n\nA classificação de serviço, para além da aplicação dos seus resultados nas situações previstas no artigo seguinte, visa:\n\na) A avaliação profissional do funcionário ou agente, tendo em atenção os conhecimentos e qualidades de que fez prova no exercício das suas funções;\n\nb) A valorização individual e a melhoria da eficácia profissional, permitindo a cada funcionário e agente conhecer o juízo que os seus superiores hierárquicos formulam quanto ao desempenho das suas funções;\n\nc) Contribuir para o diagnóstico das situações de trabalho com vista ao estabelecimento de medidas tendentes à sua correcção e transformação;\n\nd) Detectar a eventual necessidade de acções de formação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130872075": {
+   "fragment_id": "1072873575",
+   "type": 11,
+   "heading": "Artigo 5 — (Casos em que é requisito de provimento)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 5 — (Casos em que é requisito de provimento)\n\n1 - A classificação de serviço é obrigatoriamente considerada nos seguintes casos:\n\na) Promoção e progressão nas carreiras;\n\nb) Conversão da nomeação provisória em definitiva;\n\nc) Celebração de novos contratos para diferentes categoria ou cargo a que corresponda, no quadro de pessoal do serviço, categoria superior da respectiva carreira.\n\n2 - Para os efeitos das alíneas anteriores, é exigida, no mínimo, a classificação de serviço de Bom, excepto nos casos em que é legalmente indispensável a classificação de Muito bom.\n\n3 - Nas situações referidas nos números anteriores, os processos a enviar à Secção Regional do Tribunal de Contas, para os efeitos previstos no Decreto-Lei n.º 146-C/80, de 22 de Maio, deverão ser instruídos com cópia da primeira página do respectivo processo de classificação devidamente preenchida, excepto nos casos em que, nos termos do presente diploma, a ausência de classificação de serviço venha a ser suprida por adequada ponderação do currículo profissional, caso em que tal circunstância será expressamente enunciada e fundamentada no processo a remeter àquele organismo.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130872175": {
+   "fragment_id": "1072873775",
+   "type": 11,
+   "heading": "Artigo 6 — (Expressão da classificação em menção)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 6 — (Expressão da classificação em menção)\n\nA classificação de serviço exprime-se numa menção qualitativa, obtida através de um sistema de notação baseado na apreciação quantificada do serviço prestado, em relação a cada um dos factores definidos na respectiva ficha de notação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130872275": {
+   "fragment_id": "1072873975",
+   "type": 11,
+   "heading": "Artigo 7 — (Fichas)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 7 — (Fichas)\n\n1 - Para os efeitos do artigo anterior, serão utilizadas as fichas de notação cujos modelos de impressos se encontram anexos ao presente diploma, destinando-se:\n\na) A ficha n.º 1 ao pessoal técnico superior e técnico;\n\nb) A ficha n.º 2 ao pessoal técnico-profissional e administrativo;\n\nc) A ficha n.º 3 ao pessoal, auxiliar;\n\nd) A ficha n.º 4 ao pessoal operário.\n\n2 - A ficha n.º 5 aplica-se nos casos em que os funcionários ou agentes contem menos de 1 ano de serviço efectivo e estejam providos em lugar de ingresso na carreira ou em cargo a que corresponda categoria equivalente, quer se trate de classificação ordinária ou extraordinária.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130900575": {
+   "fragment_id": "1072874175",
+   "type": 11,
+   "heading": "Artigo 8 — (Princípios aplicáveis às fichas)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 8 — (Princípios aplicáveis às fichas)\n\n1 - Nas fichas de notação n.os 1, 2, 3 e 4 cada factor é susceptível de graduação em 5 posições principais, pontuadas em 2, 4, 6, 8 e 10, sem prejuízo da utilização dos respectivos valores intermédios, resultando a pontuação da média aritmética dos valores com que foi graduado cada um dos factores.\n\n2 - Na ficha n.º 5 cada factor é objecto de apreciação meramente qualitativa.\n\n3 - Mediante despacho do Presidente do Governo Regional ou do secretário regional competente, sob proposta do dirigente máximo da unidade orgânica, ouvidas as comissões paritárias de avaliação, os diversos serviços e organismos da administração poderão introduzir coeficientes de ponderação, para valoração dos diferentes factores, nas fichas de notação a que se refere o n.º 1, tendo em atenção as funções efectivamente desempenhadas.\n\n4 - A ponderação de factores prevista no número anterior poderá ser diferente para as várias categorias da mesma carreira, utilizando-se sempre o mesmo modelo de ficha de notação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130900675": {
+   "fragment_id": "1072874375",
+   "type": 11,
+   "heading": "Artigo 9 — (Publicitação)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 9 — (Publicitação)\n\n1 - O notado poderá não autorizar que seja publicitada a respectiva classificação de serviço, devendo preencher por ocasião da entrevista em que dela toma conhecimento o espaço reservado na ficha para esse efeito.\n\n2 - Os serviços afixarão em lugar a que tenham acesso os trabalhadores da mesma unidade orgânica listas contendo as menções apuradas nos termos do artigo 10.º cuja publicitação não tenha sido recusada.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130900775": {
+   "fragment_id": "1072874575",
+   "type": 11,
+   "heading": "Artigo 10 — (Apuramento da menção)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 10 — (Apuramento da menção)\n\n1 - A classificação de serviço de cada funcionário ou agente, atribuída nos termos do n.º 1 do artigo 8.º, obtém-se pela tradução da pontuação obtida numa das seguintes menções qualitativas, de acordo com o intervalo de valores em que aquela se situar:\n\n2 e 3 - Não satisfatório;\n\n4 e 5 - Regular;\n\n6, 7 e 8 - Bom;\n\n9 e 10 - Muito bom.\n\n2 - Sempre que a pontuação obtida se traduzir num número decimal, proceder-se-á ao seu arredondamento para número inteiro, por excesso ou por defeito, consoante o valor decimal obtido seja igual ou superior a 0,5 ou inferior a este, respectivamente.\n\n3 - Quando houver lugar à utilização da ficha n.os 5, a classificação de serviço exprime-se numa das seguintes menções:\n\nA - Muito bom;\n\nB - Bom;\n\nC - Insatisfatório.\n\n4 - Quando tiver sido utilizada a ficha n.º 5, a atribuição de qualquer das menções referidas no número anterior ficará ao critério da entidade competente para homologar, tendo em conta as valorações atribuídas a cada um dos factores e a sua importância relativa, devendo, porém, observar-se o seguinte:\n\na) A classificação de Muito bom só poderá ser atribuída quando, pelo menos, 2 dos factores tiverem sido valorados com o grau A e nenhum deles com o grau C;\n\nb) A classificação de Insatisfatório só poderá ser atribuída nos casos em que ocorrerem, pelo menos, 3 valorações de grau C.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130900875": {
+   "fragment_id": "1072874775",
+   "type": 11,
+   "heading": "Artigo 11 — (Competência para avaliar e notar)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 11 — (Competência para avaliar e notar)\n\n1 - A avaliação e a notação são da competência conjunta dos superiores hierárquicos imediato e de segundo nível, designados por notadores, que, no decurso do período a que se reporta a classificação, reúnam o mínimo de 6 meses de contacto funcional com o notado.\n\n2 - Considera-se superior hierárquico de segundo nível o dirigente que, na escala hierárquica, se situe na posição imediatamente superior ao dirigente ou chefe imediato do notado.\n\n3 - A competência para avaliar e notar o pessoal operário pertence conjuntamente ao superior hierárquico do notado e ao funcionário ou agente integrado em outro grupo de pessoal que tenha a seu cargo o sector do pessoal operário.\n\n4 - Quando no decurso do período em apreciação se verifique alteração de notadores ou o notado haja mudado de serviço, a competência para avaliar e notar pertence aos notadores que reúnam, no decurso desse período, o mínimo de 6 meses de contacto funcional com o notado.\n\n5 - O exercício da competência para avaliar e notar será precedida, sempre que possível, de reunião conjunta dos notadores de cada organismo ou serviço para consenso quanto aos procedimentos a adoptar.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130900975": {
+   "fragment_id": "1072874975",
+   "type": 11,
+   "heading": "Artigo 12 — (Competência para avaliar e notar em casos especiais)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 12 — (Competência para avaliar e notar em casos especiais)\n\n1 - Quando a estrutura orgânica de determinado serviço ou organismo não permitir a aplicação dos n.os 1 e 3 do artigo anterior, o dirigente máximo do serviço poderá designar como notadores funcionários ou, na falta destes, agentes, com atribuições de coordenação de trabalho, de categoria superior aos notados, ainda que não providos em lugar de direcção ou chefia.\n\n2 - Nos casos em que não for possível a designação de 2 notadores de acordo com as regras consagradas neste diploma, poderá ser designado um único notador mediante despacho fundamentado do dirigente máximo da respectiva unidade orgânica.\n\n3 - Os funcionários ou agentes designados como notadores ao abrigo dos números anteriores deverão reunir, no mínimo, 6 meses de contacto funcional com os notados.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901075": {
+   "fragment_id": "1072875175",
+   "type": 11,
+   "heading": "Artigo 13 — (Competência para homologar)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 13 — (Competência para homologar)\n\n1 - A competência para homologar as classificações atribuídas pelos notadores é exercida pelo membro do Governo Regional encarregado da tutela.\n\n2 - Quando o dirigente competente não homologar a classificação atribuída pelos notadores ou não concordar com a proposta de solução apresentada pela comissão paritária, deverá ele próprio atribuir, mediante despacho fundamentado, a classificação respectiva, ouvindo a comissão paritária nos casos em que esta não tiver sido ouvida, observando-se para o efeito o disposto nos artigos 35.º e 36.º\n\n3 - A intervenção, como notador, do dirigente com competência para homologar não prejudica a posterior homologação pelo mesmo dirigente da classificação atribuída.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901175": {
+   "fragment_id": "1072875375",
+   "type": 1,
+   "heading": "Capítulo II — Modalidades e relevância",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "### Capítulo II — Modalidades e relevância\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901275": {
+   "fragment_id": "1072875575",
+   "type": 11,
+   "heading": "Artigo 14 — (Modalidades)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 14 — (Modalidades)\n\nA classificação de serviço pode ser ordinária e extraordinária.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901375": {
+   "fragment_id": "1072875775",
+   "type": 11,
+   "heading": "Artigo 15 — (Classificação ordinária)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 15 — (Classificação ordinária)\n\nA classificação ordinária é de iniciativa da administração e abrange os funcionários e agentes que contem no ano civil anterior mais de 6 meses de serviço efectivo prestado em contacto funcional com os notadores ou notador competentes, nos termos deste diploma.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901475": {
+   "fragment_id": "1072875975",
+   "type": 11,
+   "heading": "Artigo 16 — (Classificação extraordinária)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 16 — (Classificação extraordinária)\n\n1 - São classificados extraordinariamente os funcionários e agentes não abrangidos no artigo anterior que, durante o ano em que é atribuída a classificação e até 30 de Junho, venham a reunir o requisito de 6 meses de contacto funcional com os notadores ou notador competentes.\n\n2 - A classificação extraordinária deverá ser solicitada pelo interessado ao dirigente máximo do serviço ou organismo, por escrito, no decurso do mês de Junho, sendo-lhe aplicável a tramitação prevista para a classificação ordinária, salvo no que diz respeito às datas fixadas no presente diploma, sem prejuízo, contudo, da observância dos intervalos temporais entre cada uma das várias fases do processo.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901575": {
+   "fragment_id": "1072876175",
+   "type": 11,
+   "heading": "Artigo 17 — (Utilização de ficha n.º 5)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 17 — (Utilização de ficha n.º 5)\n\nA ficha n.º 5 será utilizada, em qualquer das modalidades da classificação de serviço, nos casos previstos no n.º 2 do artigo 7.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901675": {
+   "fragment_id": "1072876375",
+   "type": 11,
+   "heading": "Artigo 18 — (Tempo de serviço classificado)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 18 — (Tempo de serviço classificado)\n\n1 - A classificação extraordinária abrange todo o serviço prestado até 30 de Junho do ano em que é solicitada, incluindo o serviço prestado e não classificado no ano civil anterior.\n\n2 - A classificação ordinária entende-se reportada ao tempo de serviço prestado no ano civil anterior, não abrangendo, no entanto, aquele que tenha sido classificado extraordinariamente.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901775": {
+   "fragment_id": "1072876575",
+   "type": 11,
+   "heading": "Artigo 19 — (Relevância para efeitos de carreira)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 19 — (Relevância para efeitos de carreira)\n\n1 - Sem prejuízo do que sobre a matéria dispõe o Decreto-Lei n.º 171/82, de 10 de Maio, devidamente adaptado à administração regional autónoma através de diploma que vier a ser publicado, para efeitos de promoção e progressão nas carreiras, as classificações atribuídas deverão ser em número igual ao número de anos de serviço exigidos como requisito de tempo mínimo de permanência na categoria inferior e reportadas aos anos imediatamente anteriores relevantes para aqueles efeitos.\n\n2 - Para os efeitos do número anterior é irrelevante o facto de se ter verificado alteração de categoria ou mudança de quadro ou serviço no ano civil em que ocorreu o provimento.\n\n3 - Para que a nomeação provisória se converta em definitiva, o dirigente máximo de serviço ou organismo deverá confirmar a classificação já atribuída aquando do averbamento, anotado no respectivo termo de posse.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901875": {
+   "fragment_id": "1072876775",
+   "type": 11,
+   "heading": "Artigo 20 — (Casos especiais de relevância)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 20 — (Casos especiais de relevância)\n\n1 - Relativamente ao pessoal que tenha desempepenhado funções dirigentes ao abrigo do regime constante do Decreto-Lei n.º 191-F/79, de 26 de Junho, a classificação de serviço obtida no último ano de exercício no lugar de origem reporta-se igualmente aos anos seguintes, relevantes para efeitos de promoção.\n\n2 - O princípio contido no número anterior é igualmente aplicável às situações de exercício de cargo ou função de reconhecido interesse público, bem como de funções sindicais ou de prestação de serviço militar obrigatório, desde que impeditivas de atribuição de classificação de serviço nos termos deste diploma.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130901975": {
+   "fragment_id": "1072876975",
+   "type": 11,
+   "heading": "Artigo 21 — (Suprimento da falta de classificação)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 21 — (Suprimento da falta de classificação)\n\n1 - A falta de classificação relativa ao tempo de serviço relevante para os efeitos previstos nos n.os 1 e 2 do artigo 5.º será suprida por adequada ponderação do currículo profissional do funcionário ou agente na parte correspondente ao período não classificado nos seguintes casos:\n\na) Quando o interessado permanecer em situação que inviabilize a atribuição de classificação de serviço reportada ao seu lugar de origem, designadamente quando não puder solicitar classificação extraordinária ou não puder beneficiar do disposto no artigo anterior;\n\nb) Quando a aplicação do disposto no artigo 12.º não tiver evitado a impossibilidade de designação de notadores ou de notador;\n\nc) Quando se tiver verificado a circunstância referida no n.º 3 do artigo 30.º\n\n2 - O disposto no número anterior não exclui a possibilidade de redução do tempo de permanência na categoria inferior permitida pelo n.º 3 do artigo 4.º do Decreto-Lei n.º 191-C/79, de 25 de Junho.\n\n3 - Na ponderação do currículo profissional ter-se-ão em conta, entre outros parâmetros, as habilitações académicas e profissionais do interessado, a sua participação em acções de formação e aperfeiçoamento, bem como o conteúdo das suas funções e o serviço ou organismo em que as exerceu, no período considerado.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902075": {
+   "fragment_id": "1072877175",
+   "type": 11,
+   "heading": "Artigo 22 — (Ponderação do currículo profissional)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 22 — (Ponderação do currículo profissional)\n\nA ponderação do currículo profissional será levada a efeito pelo júri dos concursos de promoção ou, relativamente às demais situações previstas nos n.os 1 e 2 do artigo 5.º, pelo dirigente máximo do serviço ou organismo, que poderá delegar essa competência no superior hierárquico imediato do interessado.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902175": {
+   "fragment_id": "1072877375",
+   "type": 11,
+   "heading": "Artigo 23 — (Admissão a concurso nos casos de avaliação curricular)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 23 — (Admissão a concurso nos casos de avaliação curricular)\n\n1 - Os interessados a que se refere o artigo 21.º terão direito a apresentar a sua candidatura a concursos de promoção, nos termos previstos no respectivo regulamento, sem prejuízo do disposto no número seguinte.\n\n2 - Nos casos do n.º 2 do artigo 21.º, a inclusão nas listas de candidatos admitidos dependerá de deliberação favorável do júri, com base na apreciação do currículo profissional do interessado e na medida em que tiver sido entendido que o mesmo justifica a redução do tempo de permanência na categoria inferior.\n\n3 - A apreciação do currículo referida no número anterior só é relevante para fins de admissão a concurso e não prejudica, em caso de deliberação favorável, nova apreciação curricular para efeitos de ordenamento de candidatos.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902275": {
+   "fragment_id": "1072877575",
+   "type": 11,
+   "heading": "Artigo 24 — (Tempo de serviço)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 24 — (Tempo de serviço)\n\nO tempo de serviço a que se referem os artigos anteriores reporta-se, para efeitos de promoção, ao tempo de serviço calculado nos termos dos critérios legalmente fixados sobre a matéria, designadamente no Decreto-Lei n.º 90/72, de 18 de Março.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902375": {
+   "fragment_id": "1072877775",
+   "type": 1,
+   "heading": "Capítulo III — Comissão paritária",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "### Capítulo III — Comissão paritária\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902475": {
+   "fragment_id": "1072877975",
+   "type": 11,
+   "heading": "Artigo 25 — (Constituição)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 25 — (Constituição)\n\n1 - Nas direcções regionais ou unidades orgânicas equiparadas será constituída uma comissão paritária, composta por 4 vogais, sendo 2 representantes da administração e 2 representantes dos notados.\n\n2 - O disposto no número anterior não prejudica que, por despacho do dirigente máximo do serviço ou organismo, sejam constituídas comissões paritárias nas unidades orgânicas desconcentradas a cargo de dirigente em quem tenha sido delegada competência para homologar classificações de serviço.\n\n3 - A comissão paritária é o órgão consultivo do dirigente com competência para homologar classificações de serviço.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902575": {
+   "fragment_id": "1072878175",
+   "type": 11,
+   "heading": "Artigo 26 — (Designação, eleição e mandato dos vogais)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 26 — (Designação, eleição e mandato dos vogais)\n\n1 - Os vogais representantes da administração serão designados, em número de 4, 2 efectivos e 2 suplentes, de entre funcionários ou agentes não notados, pelo dirigente com competência para homologar.\n\n2 - O despacho de designação, a proferir no mês de Dezembro de cada ano, deverá fixar os membros efectivos e os suplentes, bem como o vogal e respectivo suplente, que orientará os trabalhos da comissão paritária.\n\n3 - Os representantes dos notados serão eleitos por escrutínio secreto, em número de 4, 2 efectivos e 2 suplentes, por todos os funcionários e agentes notados da unidade orgânica, sendo vogais efectivos os mais votados.\n\n4 - O pessoal dirigente abrangido pelo Decreto-Lei n.º 191-F/79 e os chefes de repartição não podem ser eleitos como vogais representantes dos notados na comissão.\n\n5 - O mandato da comissão paritária inicia-se no dia 1 de Janeiro seguinte e termina a 31 de Dezembro do mesmo ano, sem prejuízo de se entender prorrogado, se necessário, para análise de processos iniciados antes do seu termo.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902675": {
+   "fragment_id": "1072878375",
+   "type": 11,
+   "heading": "Artigo 27 — (Processo de eleição)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 27 — (Processo de eleição)\n\n1 - Em cada direcção regional ou equiparada, ou em unidade desconcentrada a que seja aplicado o n.º 2 do artigo 25.º, será organizado o processo de eleição dos representantes dos notados, nos termos do despacho do respectivo dirigente, que será afixado em local ou locais a que tenham acesso todos os trabalhadores, do qual deverão constar, entre outros, os seguintes pontos:\n\na) Data limite para indicação, pelos trabalhadores notados, dos membros da mesa ou mesas de voto, referindo expressamente que, na ausência dessa indicação, os mesmos serão designados pelo dirigente competente até 48 horas antes da realização do acto eleitoral;\n\nb) Número de elementos da mesa ou mesas de voto, o qual não deverá ser superior a 5 por cada mesa, incluindo os membros suplentes;\n\nc) Data do acto eleitoral;\n\nd) Período e local do funcionamento das mesas de voto,\n\ne) Data limite da comunicação dos resultados ao dirigente respectivo;\n\nf) Dispensa dos membros das mesas do exercício dos seus deveres funcionais no dia em que houver lugar a eleições, sendo igualmente concedidas facilidades aos restantes trabalhadores pelo período estritamente indispensável para o exercício do direito de voto.\n\n2 - A não participação dos trabalhadores na eleição implicará a não constituição da comissão paritária, sem contudo obstar ao prosseguimento do processo de classificação de serviço, entendendo-se como irrelevantes quaisquer pedidos de audição ou de emissão de pareceres por esse órgão.\n\n3 - A eleição deverá ter lugar no mês de Dezembro de cada ano.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902775": {
+   "fragment_id": "1072878575",
+   "type": 11,
+   "heading": "Artigo 28 — (Substituição de vogais)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 28 — (Substituição de vogais)\n\n1 - Os vogais efectivos são substituídos pelo vogais suplentes quando tenham de interromper o respectivo mandato ou sempre que a comissão seja chamada a pronunciar-se sobre processos em que aqueles tenham participado como notados ou notadores.\n\n2 - Quando se verificar a interrupção do mandato de, pelo menos, metade do número de vogais efectivos e suplentes, representantes da administração, por um lado, ou eleitos em representação dos notados, por outro, os procedimentos previstos nos n.os 1 e 3 do artigo 26.º poderão ser repetidos, se necessário, por uma única vez e num prazo de 48 horas.\n\n3 - Nos casos do número anterior, os vogais designados ou eleitos para preenchimento das vagas completarão o mandato daqueles que substituem, passando a integrar a comissão até ao termo do período de funcionamento desta.\n\n4 - Nas situações previstas no n.º 2 do presente artigo, a impossibilidade comprovada de repetição dos procedimentos referidos não é impeditiva do prosseguimento do processo de classificação, entendendo-se como irrevelantes quaisquer pedidos de audição ou de emissão de pareceres pela comissão paritária.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902875": {
+   "fragment_id": "1072878775",
+   "type": 1,
+   "heading": "Capítulo IV — Processo",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "### Capítulo IV — Processo\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130902975": {
+   "fragment_id": "1072878975",
+   "type": 11,
+   "heading": "Artigo 29 — (Confidencialidade)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 29 — (Confidencialidade)\n\n1 - O processo de classificação tem carácter confidencial, devendo as fichas de notação ser arquivadas no respectivo processo individual.\n\n2 - Todos os intervenientes no processo de classificação ficam obrigados ao dever de sigilo sobre esta matéria.\n\n3 - O disposto nos números anteriores não impede que em qualquer fase do processo sejam passadas certidões da ficha de notação, mediante pedido do notado, formulado por escrito ao dirigente com competência para homologar.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903075": {
+   "fragment_id": "1072879175",
+   "type": 11,
+   "heading": "Artigo 30 — (Ausência ou impedimento de notados ou notadores)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 30 — (Ausência ou impedimento de notados ou notadores)\n\n1 - A situação de falta ou de licença dos notados ou dos notadores não é impeditiva da atribuição da classificação de serviço e do cumprimento dos prazos fixados.\n\n2 - Quando a ausência ou impedimento forem absolutamente insuperáveis, o processo ficará suspenso, reiniciando-se a contagem dos prazos logo que cesse a ausência ou impedimento, se esta circunstância tiver lugar no mesmo ano civil.\n\n3 - Caso a ausência ou impedimento referidos no número anterior não cessem no mesmo ano civil, não será atribuída classificação de serviço, sendo aplicável o disposto no artigo 21.º quando estiver em causa alguma das situações previstas no n.º 1 do artigo 5.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903175": {
+   "fragment_id": "1072879375",
+   "type": 11,
+   "heading": "Artigo 31 — (Preenchimento das fichas)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 31 — (Preenchimento das fichas)\n\n1 - O processo de classificação ordinária inicia-se com o preenchimento pelos notados, nos primeiros 5 dias úteis do mês de Janeiro, das rubricas sobre actividades relevantes durante o período em apreciação e funções exercidas constantes das fichas de notação aplicáveis, as quais serão atempadamente fornecidas pelos serviços aos mesmos notados.\n\n2 - As restantes rubricas, na parte aplicável, serão preenchidas pelos notadores até 31 de Janeiro.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903275": {
+   "fragment_id": "1072879575",
+   "type": 11,
+   "heading": "Artigo 32 — (Conhecimento ao interessado)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 32 — (Conhecimento ao interessado)\n\n1 - A ficha, depois de devidamente preenchida, será dada a conhecer ao interessado em entrevista individual com os notadores.\n\n2 - As entrevistas referidas no número anterior terão lugar até 15 de Fevereiro de cada ano.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903375": {
+   "fragment_id": "1072879775",
+   "type": 11,
+   "heading": "Artigo 33 — (Reclamação para os notadores)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 33 — (Reclamação para os notadores)\n\n1 - O interessado, após tomar conhecimento da ficha de notação, pode apresentar aos notadores, no prazo de 5 dias úteis, reclamação por escrito, com indicação dos factos que julgue susceptíveis de fundamentarem a revisão de classificação atribuída.\n\n2 - As reclamações a que se refere o número anterior serão objecto de apreciação pelos respectivos notadores, que proferirão decisão fundamentada, a qual será dada a conhecer ao interessado, por escrito no prazo máximo de 5 dias úteis contados do recebimento da reclamação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903475": {
+   "fragment_id": "1072879975",
+   "type": 11,
+   "heading": "Artigo 34 — (Requerimento de audição da comissão paritária)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 34 — (Requerimento de audição da comissão paritária)\n\n1 - O notado, após tomar conhecimento da decisão, poderá requerer ao dirigente com competência para homologar, nos 5 dias úteis subsequentes, que o seu processo seja submetido a parecer da comissão paritária.\n\n2 - O requerimento deverá ser fundamentado, contendo obrigatoriamente os dados concretos que permitam inferir ter havido factores menos correctamente avaliados.\n\n3 - A audição da comissão paritária não pode, em caso algum, ser recusada pelo dirigente referido no n.º 1.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903575": {
+   "fragment_id": "1072880175",
+   "type": 11,
+   "heading": "Artigo 35 — (Funcionamento)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 35 — (Funcionamento)\n\nA comissão paritária poderá solicitar aos notadores ou aos notados os elementos que julgar convenientes para o seu melhor esclarecimento, bem como convidar qualquer deles a expor a sua posição, por uma única vez, em audição, cuja duração não poderá exceder 30 minutos.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903675": {
+   "fragment_id": "1072880375",
+   "type": 11,
+   "heading": "Artigo 36 — (Relatório)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 36 — (Relatório)\n\n1 - Os pareceres da comissão paritária serão proferidos, no prazo de 15 dias úteis, contados da data em que tiverem sido solicitados, sob a forma de relatório fundamentado, com proposta de solução da reclamação a elaborar pelo vogal orientador dos trabalhos e subscrito por todos os vogais.\n\n2 - Quando na comissão não se verificar consenso, deve o respectivo relatório conter as propostas de solução em debate e sua fundamentação.\n\n3 - Ao dirigente competente para homologar competirá a decisão final, a qual poderá não coincidir com nenhuma das soluções propostas e deverá ser sempre fundamentada.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903775": {
+   "fragment_id": "1072880575",
+   "type": 11,
+   "heading": "Artigo 37 — (Prazos para homologação e elaboração das listas na classificação ordinária)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 37 — (Prazos para homologação e elaboração das listas na classificação ordinária)\n\n1 - As classificações de serviço ordinárias deverão ser homologadas até 30 de Abril de cada ano civil.\n\n2 - As listas a que se refere o artigo 9.º respeitantes a classificações ordinárias serão elaboradas após a homologação destas e afixadas até 15 de Maio.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903875": {
+   "fragment_id": "1072880775",
+   "type": 11,
+   "heading": "Artigo 38 — (Especialidades no processo de classificação extraordinária)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 38 — (Especialidades no processo de classificação extraordinária)\n\n1 - Nos processos de classificação extraordinária, as rubricas sobre funções exercidas e actividades relevantes, durante o período em apreciação, deverão ser preenchidas pelo notado nos primeiros 5 dias úteis de Julho, devendo até ao fim desse mês ser preenchidas pelos notadores as restantes rubricas aplicáveis.\n\n2 - A partir de 31 de Julho contar-se-ão os intervalos temporais entre cada uma das fases do processo a que se faz referência no presente capítulo.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130903975": {
+   "fragment_id": "1072880975",
+   "type": 11,
+   "heading": "Artigo 39 — (Homologação e conhecimento pelo interessado da classificação atribuída)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 39 — (Homologação e conhecimento pelo interessado da classificação atribuída)\n\n1 - Os resultados da avaliação e da notação não subirão a homologação antes de decorridos os prazos de reclamação para os notadores e para solicitação de parecer da comissão paritária.\n\n2 - No caso de homologação proceder-se-á ao apuramento da menção em que se traduz a classificação de serviço atribuída.\n\n3 - No prazo de 5 dias úteis, contados do acto de homologação ou da atribuição da classificação pelo dirigente com competência para homologar, é dado conhecimento pelos notadores aos interessados da classificação de serviço que lhes for atribuída, sendo de seguida o processo arquivado no respectivo processo individual.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904075": {
+   "fragment_id": "1072881175",
+   "type": 11,
+   "heading": "Artigo 40 — (Recursos)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 40 — (Recursos)\n\n1 - Após a homologação, cabe recurso hierárquico da classificação para o Presidente do Governo Regional ou secretário regional competente, a interpor no prazo de 10 dias úteis contados da data do conhecimento desta, devendo ser proferida decisão no prazo de 15 dias contados da data de interposição do recurso.\n\n2 - A invocação de meras diferenças de classificação com base na comparação entre classificações atribuídas não constitui fundamento atendível de recurso.\n\n3 - O disposto no n.º 1 não é aplicável ao pessoal dos serviços personalizados, cabendo, neste caso, desde logo o direito de interposição de recurso contencioso.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904175": {
+   "fragment_id": "1072881375",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais e transitórias",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "### Capítulo V — Disposições finais e transitórias\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904275": {
+   "fragment_id": "1072881575",
+   "type": 11,
+   "heading": "Artigo 41 — (Adaptação do sistema estabelecido neste diploma)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 41 — (Adaptação do sistema estabelecido neste diploma)\n\n1 - O sistema de classificação de serviço estabelecido pelo presente diploma poderá ser adaptado à situação concreta dos vários organismos e serviços da administração regional autónoma, mediante portaria do Presidente do Governo Regional ou do secretário regional competente, ouvida a Direcção Regional da Administração Pública, devendo, contudo, ser observado o que nele se dispõe sobre:\n\na) Competência para classificar;\n\nb) Reclamação para os notadores;\n\nc) Homologação das classificações atribuídas;\n\nd) Escala adoptada, sendo obrigatoriamente previstos e descritos os graus 2, 4, 6, 8 e 10;\n\ne) Menções e respectivos intervalos;\n\nf) Conhecimento da classificação ao interessado;\n\ng) Garantia de recurso.\n\n2 - Deverá ainda ser constituído um órgão com funções consultivas, junto do dirigente com competência para homologar, com atribuições e funcionamento semelhantes aos previstos para a comissão paritária.\n\n3 - O órgão a que se refere o número anterior, cuja constituição poderá atender aos grupos profissionais existentes no serviço ou organismo, deliberará com a presença de igual número de representantes da administração e dos notados, não tendo nenhum dos seus membros voto de qualidade.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904375": {
+   "fragment_id": "1072881775",
+   "type": 11,
+   "heading": "Artigo 42 — (Outros sistemas de classificação)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 42 — (Outros sistemas de classificação)\n\nPoderão ser utilizados outros sistemas de classificação de serviço, quando estejam em causa funções ou estruturas orgânicas específicas, mediante portaria conjunta do Presidente do Governo Regional e do secretário regional competente, ouvida a Direcção Regional da Administração Pública.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904475": {
+   "fragment_id": "1072881975",
+   "type": 11,
+   "heading": "Artigo 43 — (Imposto do selo)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 43 — (Imposto do selo)\n\nA reclamação para os notadores e a solicitação de audição da comissão paritária, bem como o pedido de passagem de certidões, não estão isentas de imposto do selo.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904575": {
+   "fragment_id": "1072882175",
+   "type": 11,
+   "heading": "Artigo 44 — (Dirigente máximo)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 44 — (Dirigente máximo)\n\nPara efeitos de aplicação do presente diploma, considera-se dirigente máximo da unidade orgânica o director regional ou equiparado ou outro dirigente responsável por unidade orgânica directamente dependente do Presidente do Governo ou do secretário regional.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904675": {
+   "fragment_id": "1072882375",
+   "type": 11,
+   "heading": "Artigo 45 — (Aplicação do diploma em 1983)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 45 — (Aplicação do diploma em 1983)\n\n1 - No decurso do corrente ano, o processo de classificação iniciar-se-á no dia 1 de Janeiro de 1984, com o preenchimento das fichas de notação, nos termos do artigo 31.º, no decurso dos primeiros 5 dias úteis desse mesmo mês, observando-se seguidamente os intervalos temporais entre cada uma das fases do processo.\n\n2 - A comissão paritária será constituída igualmente nos termos do capítulo III durante esse mesmo mês e impreterivelmente até ao seu último dia.\n\n3 - As classificações de serviço serão homologadas até 30 de Novembro.\n\n4 - Não se procederá à atribuição de classificação extraordinária, sem prejuízo, porém, de o disposto nos números anteriores ser integralmente aplicável aos funcionários e agentes que até 30 de Junho de 1983 possam vir a reunir o requisito de 6 meses de contacto funcional com os notadores ou notador competentes.\n\n5 - Nos casos do número anterior, a classificação atribuída abrange todo o serviço prestado ou a prestar até 30 de Junho, incluindo o serviço prestado e não classificado em 1982.\n\n6 - São válidas as classificações do serviço prestado em 1982 e 1981, atribuídas até à data da entrada em vigor do presente diploma, relativamente a funcionários e agentes que pretendam apresentar a sua candidatura a concursos já abertos para preenchimento de lugares de acesso e que entretanto tenham sido admitidos a concursos da mesma natureza, ainda que provisoriamente.\n\n7 - O mandato das comissões paritárias a eleger termina em 2 de Dezembro de 1983, sem prejuízo do disposto no n.º 5 do artigo 26.º\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904775": {
+   "fragment_id": "1072882575",
+   "type": 11,
+   "heading": "Artigo 46 — (Aplicação no tempo para efeitos de promoção e progressão)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 46 — (Aplicação no tempo para efeitos de promoção e progressão)\n\nNos primeiros anos de vigência do presente diploma observar-se-á o regime previsto no artigo 22.º do Decreto-Lei n.º 171/82, de 10 de Maio, na forma que vier a ser adaptado à administração regional autónoma, para efeitos de promoção e progressão nas carreiras.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904875": {
+   "fragment_id": "1072882775",
+   "type": 11,
+   "heading": "Artigo 47 — (Entrada em vigor)",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "###### Artigo 47 — (Entrada em vigor)\n\nEste diploma entra em vigor no dia seguinte ao da sua publicação.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130904975": {
+   "fragment_id": "1072882975",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "Aprovado em Plenário do Governo Regional em 21 de Julho de 1983.\n\nO Presidente do Governo, Alberto João Cardoso Gonçalves Jardim.\n\nAssinado em 16 de Agosto de 1983.\n\nO Ministro da República para a Região Autónoma da Madeira, Lino Dias Miguel.\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  },
+  "1130905075": {
+   "fragment_id": "1072883175",
+   "type": 14,
+   "heading": "Anexo",
+   "in_force_from": "2005-06-30",
+   "changed_by": [
+    "Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+   ],
+   "markdown": "## Anexo\n\n(ver documento original)\n\n> Nota: [Diploma, Declaração - Diário da República n.º 276/1983, 2º Suplemento, Série I de 1983-11-30](https://diariodarepublica.pt/dr/detalhe/declaracao/1983-469978) Retifica o presente anexo, nos seguintes termos: Nas observações dos modelos anexos, onde se lê: (a) Ministério ou Secretaria de Estado. (b) Direcção-Geral, Instituto Público ou organismo directamente dependente de membro do Governo. (c) ... deve ler-se: (a) Presidência do Governo ou Secretaria Regional. (b) Direcção Regional, Instituto Público ou organismo directamente dependente de membro do Governo. (c) ...\n\n> Revogado pelo/a Artigo 41.º do/a [Decreto Legislativo Regional n.º 11/2005/M - Diário da República n.º 123/2005, Série I-A de 2005-06-29](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/11-2005-233716), em vigor a partir de 2005-06-30."
+  }
+ }
+}

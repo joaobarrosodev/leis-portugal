@@ -1,0 +1,152 @@
+---
+schema_version: '1.0'
+id: pt:dre:59118385:por
+title: Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 28/2014/A
+short_title: null
+summary: Recomenda ao Governo Regional que desenvolva um estudo analítico sobre os jovens açorianos qualificados
+jurisdiction: regional
+territory: acores
+document_type: resolucao-assembleia-legislativa-regional
+document_type_label: Resolução da Assembleia Legislativa Regional
+issuing_authority:
+- Região Autónoma dos Açores - Assembleia Legislativa
+proposing_entity: null
+official_number: 28/2014/A
+official_date: null
+publication_date: '2014-11-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 231/2014, Série I de 2014-11-28
+  number: '231'
+  series: I
+  supplement: null
+  pages: 6006 - 6007
+  pdf_url: https://files.diariodarepublica.pt/1s/2014/11/23100/0600606007.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/resolalraa/28/2014/11/28/a/dre/pt/html
+  oj: null
+  dre: '59118385'
+  dre_path: /dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/28-2014-59118385
+  internal: pt:dre:59118385:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/28-2014-59118385
+  metadata_url: https://data.dre.pt/eli/resolalraa/28/2014/11/28/a/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/resolucao-assembleia-legislativa-regiao-autonoma-acores/28-2014-59118385
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2014-11-28T00:00:00Z'
+integrity:
+  source_sha256: 2cac0c0df37eebabd016f86be4c98944cf19d9f54f6ae96041006f15362515de
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt-20/2014/DRE-2014-28-59118385.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Formação Profissional
+- Juventude
+- Estudante
+- Jovem
+- Qualificação Profissional
+- Emprego
+- Recomendação
+- Política de Juventude
+- Ensino Superior
+- Açores
+- Mercado do Trabalho
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Resolução da Assembleia Legislativa da Região Autónoma dos Açores n.º 28/2014/A
+
+ESTUDO ANALÍTICO SOBRE JOVENS AÇORIANOS QUALIFICADOS
+
+A especialização inteligente é um dos maiores desafios que se coloca à economia açoriana. A estratégia passa por valorizar os recursos endógenos, inovar na forma de fazer através da melhoria dos processos produtivos e procurar mercados exportadores capazes de gerar maior valor acrescentado. A aposta na produção de bens e serviços transacionáveis é um dos objetivos que a Região assumiu para os próximos anos.
+
+A capacidade de gerar novos empregos poderá ser, deste modo, um fator determinante para um crescimento económico sustentado. Neste sentido, a nova programação financeira do novo quadro comunitário, o respetivo programa operacional e o novo Sistema de Incentivos para a Competitividade Empresarial dão grande prioridade à criação de emprego e à valorização de mão-de-obra qualificada.
+
+Nesta lógica, o capital humano e a qualificação dos recursos humanos serão um fator determinante para este processo evolutivo.
+
+Atualmente existem centenas de jovens açorianos a frequentar diversos ciclos de ensino, muitos deles fora da sua ilha de residência, fora da Região, ou mesmo fora do País. Além do ensino regular e do ensino profissional, muitos frequentam especializações como pós-graduações, mestrados, doutoramentos e pós-doutoramentos e outros estão ligados a unidades de investigação.
+
+Possivelmente alguns, após a conclusão da sua formação académica, ingressam no ambiente laboral por via de estágios de curta/média duração, que nem sempre têm como consequência a sua contratação pese embora o "saber-fazer" que entretanto adquiriram.
+
+É sabido que o Observatório do Emprego e Formação Profissional realiza, desde 2007, um inquérito aos jovens estudantes universitários açorianos a estudar fora da Região e, desde 2010, aos jovens estudantes que se encontram a estudar na Universidade dos Açores. Por esta via, está hoje disponível um conjunto de informação importante. Porém, em virtude do novo ciclo de investimento que vamos agora iniciar, é fundamental ir mais longe e aprofundar o estudo desta temática, desencadeando uma análise prospetiva e sociológica da oferta de mão-de-obra qualificada nos seus diversos níveis de formação, bem como da localização e perspetivas de futuro dos jovens açorianos qualificados.
+
+O estudo ora proposto releva ainda mais pelo facto de que o inquérito relativo aos estudantes a estudar fora da Região findou em 2012, pelo que urge neste momento consolidar, num único documento, toda a informação devidamente atualizada respeitante aos jovens açorianos.
+
+Tal estudo possibilitará não só um conhecimento sólido sobre as perspetivas quantitativas e qualitativas de disponibilização de mão-de-obra qualificada, como poderá representar uma importante ferramenta no desenvolvimento do tecido empresarial açoriano, como instrumento de planeamento da sua atividade, no futuro próximo. Articulado com a entrada em vigor do Programa Operacional Regional, este estudo servirá também, como ferramenta de interesse para os próprios estudantes, que dessa forma poderão perspetivar o desenvolvimento do mercado de trabalho no qual, futuramente, serão inseridos.
+
+A Região Autónoma dos Açores tem o grande desafio de promover a fixação dos jovens açorianos. A capacidade de fixar os jovens que estudam nos Açores e de fazer regressar os que estão no exterior a qualificar-se, a trabalhar e a adquirir experiência, podem ser fatores decisivos para um desenvolvimento económico e social mais consequente e que aproveite da melhor forma os novos instrumentos financeiros ao nosso dispor.
+
+Assim, a Assembleia Legislativa da Região Autónoma dos Açores resolve, nos termos regimentais aplicáveis e ao abrigo do disposto no n.º 3 do artigo 44.º do Estatuto Político-Administrativo da Região Autónoma dos Açores, recomendar ao Governo Regional dos Açores que, através do Observatório de Juventude dos Açores, desenvolva um estudo analítico aprofundado sobre os jovens açorianos que frequentam os vários níveis de ensino dentro e fora da Região, bem como os jovens açorianos com formação avançada que estudam, investigam ou estão já inseridos no mercado de trabalho, nos seguintes termos:
+
+1 - Sem prejuízo da abordagem técnica a ser desenvolvida e da definição dos pressupostos científicos entendidos por adequados numa matéria deste tipo, o estudo proposto deve contemplar:
+
+a) Número de jovens açorianos que frequentam o ensino universitário e pós-universitário (pós-graduações, mestrados, doutoramentos e pós-doutoramentos);
+
+b) Número de jovens açorianos que desenvolvem trabalho em unidades de investigação;
+
+c) Respetivas áreas de estudo ou investigação;
+
+d) Número de jovens açorianos a frequentar programas de intercâmbio comunitário e internacional;
+
+e) Interesse no desenvolvimento de atividade na Região após conclusão do ciclo de estudos em que se encontram;
+
+f) Interesse no regresso para a Região ou no desenvolvimento de projetos e parcerias com mais-valias para os Açores;
+
+g) Áreas de atividade económica em que pretendem desenvolver a atividade após a conclusão do ciclo de estudos;
+
+h) Número de jovens açorianos a frequentar o ensino profissional;
+
+i) Nível de empregabilidade pós-frequência do ensino profissional;
+
+j) Número de jovens açorianos que se encontram no desemprego e em estágios profissionais e o seu nível de qualificação.
+
+2 - Deste estudo deve resultar a criação de um espaço online onde seja possível consultar o estudo elaborado, acompanhar as evoluções dos resultados do estudo proposto, bem como a inscrição e registo dos jovens açorianos qualificados no exterior, por opção dos mesmos.
+
+3 - Devem ser considerados neste estudo os cidadãos naturais ou a residir nos Açores entre os 17 e os 35 anos.
+
+4 - O limite temporal da realização do primeiro estudo deverá ser definido pelo Observatório da Juventude dos Açores, dadas as especificidades daquele, devendo o mesmo ser atualizado anualmente.
+
+5 - O Observatório da Juventude dos Açores deve pronunciar-se sobre as condições de realização do referido estudo e sobre os custos do mesmo.
+
+6 - Devem empenhar-se todos os órgãos regionais na obtenção das informações atinentes à realização do estudo, bem como no estabelecer de entendimento com o Governo da República para a obtenção da informação atinente aos estudantes açorianos que se encontram a estudar no território continental.
+
+Aprovada pela Assembleia Legislativa da Região Autónoma dos Açores, na Horta, em 30 de outubro de 2014.
+
+**A Presidente da Assembleia Legislativa, Ana Luísa Luís.**

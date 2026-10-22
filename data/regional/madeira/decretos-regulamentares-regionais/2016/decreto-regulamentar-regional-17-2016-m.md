@@ -1,0 +1,368 @@
+---
+schema_version: '1.0'
+id: pt:dre:74848669:por
+title: Decreto Regulamentar Regional n.º 17/2016/M
+short_title: null
+summary: Aprova a orgânica do Laboratório Regional de Engenharia Civil
+jurisdiction: regional
+territory: madeira
+document_type: decreto-regulamentar-regional
+document_type_label: Decreto Regulamentar Regional
+issuing_authority:
+- Região Autónoma da Madeira - Presidência do Governo
+proposing_entity: null
+official_number: 17/2016/M
+official_date: null
+publication_date: '2016-07-05'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 127/2016, Série I de 2016-07-05
+  number: '127'
+  series: I
+  supplement: null
+  pages: 2050 - 2051
+  pdf_url: https://files.diariodarepublica.pt/1s/2016/07/12700/0205002051.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2026-07-24'
+version_history:
+  file: decreto-regulamentar-regional-17-2016-m.versoes.json
+  count: 3
+  source_lastmod: '2026-07-27'
+  versions:
+  - date: '2016-07-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-09-25'
+    amending: pt:dre:116470101:por
+    amending_title: Decreto Regulamentar Regional n.º 11/2018/M
+    changes:
+    - Adita Artigo 8.º-A
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Anexo
+  - date: '2026-07-24'
+    amending: pt:dre:1151256050:por
+    amending_title: Decreto Regulamentar Regional n.º 15/2026/M
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/decregulreg/17/2016/m/cons/20260723/pt/html
+  oj: null
+  dre: '74848669'
+  dre_path: /dr/detalhe/decreto-regulamentar-regional/17-2016-74848669
+  internal: pt:dre:74848669:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/17-2016-74848669
+  metadata_url: https://data.dre.pt/eli/decregulreg/17/2016/m/cons/20260723/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2016-116470104
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-regulamentar-regional/2016-116470104
+  retrieved_at: '2026-10-22T13:46:42Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2026-07-27T00:00:00Z'
+integrity:
+  source_sha256: 7cf2b3f158b553d11e0f911eb7a33f350a250e4320922b008a10d383b0884a28
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T13:46:42Z'
+  notes: 3 versão(ões); histórico completo em decreto-regulamentar-regional-17-2016-m.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Pessoal Dirigente
+- Construção Civil
+- Definição de Competências
+- Renovação Urbana
+- Indústria da Construção
+- Industrial da Construção Civil
+- Laboratório Regional de Engenharia Civil
+- Obras Públicas
+- Orgânica
+- Proteção do Ambiente
+- Urbanismo
+- Madeira.região Autónoma
+- Quadro de Pessoal
+- Habitação
+- Secretaria Regional dos Assuntos Parlamentares e Europeus
+relationships:
+- type: amended_by
+  target: pt:dre:116470101:por
+  label: Adita Artigo 8.º-A; Altera Artigo 1.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 6.º;
+    Altera Anexo
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101
+  date: '2018-09-24'
+- type: amended_by
+  target: pt:dre:1151256050:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050
+  date: '2026-07-23'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-le
+  label: null
+  source: http://data.dre.pt/eli/dec-le
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/17/2007/11/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/2/2013/01/02/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+  label: null
+  source: http://data.dre.pt/eli/declegreg/24/2012/08/30/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/2/2015/05/12/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/2/2015/05/12/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/3/2016/01/21/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/3/2016/01/21/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/decregulreg/6/2015/07/10/m/dre
+  label: null
+  source: http://data.dre.pt/eli/decregulreg/6/2015/07/10/m/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/12/2000/06/21/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/13/1991/06/05/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/130/1999/08/21/p/dre
+article_structure:
+  article_count: 11
+  section_count: 5
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T13:46:42Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto Regulamentar Regional n.º 17/2016/M
+
+O Decreto Regulamentar Regional n.º 6/2015/M, de 10 de julho, alterado pelo Decreto Regulamentar Regional n.º 3/2016/M, de 21 de janeiro, aprovou a orgânica da Secretaria Regional dos Assuntos Parlamentares e Europeus, a qual, conforme estatui a alínea h) do n.º 1 do respetivo artigo 5.º, integra na sua estrutura o Laboratório Regional de Engenharia Civil, serviço da administração direta da Região Autónoma da Madeira.
+
+O Laboratório Regional de Engenharia Civil, com atividade focada na investigação científica e desenvolvimento tecnológico nos domínios da indústria da construção civil e das obras públicas, dos materiais e dos componentes do urbanismo, da habitação e do ambiente, vem prestando serviços de grande interesse público da análise comportamental de infraestruturas, da modernização e da inovação tecnológica do setor da construção, da proteção e reabilitação do património natural e edificado, da avaliação de riscos e da segurança na Região Autónoma da Madeira.
+
+Com a necessária salvaguarda das suas atribuições e da generalidade dos projetos e programas implementados, interessa dotar o Laboratório Regional de Engenharia Civil com uma nova estrutura orgânica e funcional, numa perspetiva de racionalização e otimização dos meios humanos e logísticos ao seu dispor, em convergência com uma política regional de grande rigor e contenção orçamental, e sem prejuízo dos objetivos regionais estabelecidos em matéria de investigação e de desenvolvimento tecnológico.
+
+Assim, nos termos da alínea d) do n.º 1 do artigo 227.º e do n.º 6 do artigo 231.º da Constituição da República Portuguesa, das alíneas c) e d) do artigo 69.º e do n.º 1 do artigo 70.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, e revisto pelas Leis n.os 130/99, de 21 de agosto, e 12/2000, de 21 de junho, do n.º 1 do artigo 24.º do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelo Decreto Legislativo Regional n.º 24/2012/M, de 30 de agosto, e republicada em Anexo ao Decreto Legislativo Regional n.º 2/2013/M, de 2 de janeiro, e o Decreto Regulamentar Regional n.º 2/2015/M, de 12 de maio, o Governo Regional da Madeira decreta o seguinte:
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+### Capítulo I — Natureza, missão, atribuições e órgãos
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+###### Artigo 1.º — Natureza
+
+O Laboratório Regional de Engenharia Civil, abreviadamente designado por LREC, é um serviço central, de natureza executiva, da administração direta da Região Autónoma da Madeira, integrado na Secretaria Regional dos Equipamentos e Infraestruturas, adiante designada por SREI.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 11/2018/M - Diário da República n.º 184/2018, Série I de 2018-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101), em vigor a partir de 2018-09-25
+
+###### Artigo 2.º — Missão
+
+O Laboratório Regional de Engenharia Civil tem por missão realizar, coordenar e promover a investigação científica e o desenvolvimento tecnológico, bem como outras atividades científicas e técnicas necessárias ao progresso e à boa prática da engenharia civil, exercendo a sua ação, fundamentalmente, nos domínios da construção e obras públicas, da habitação e urbanismo, do ambiente, da indústria dos materiais, componentes e outros produtos para a construção e em áreas afins, visando a sua atividade, no essencial, a qualidade e a segurança das obras, a proteção e a reabilitação do património natural e construído, bem como a modernização e inovação tecnológicas do setor da construção.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+###### Artigo 3.º — Atribuições
+
+Para a prossecução da sua missão, o LREC tem as seguintes atribuições:
+
+a) Realizar, promover e coordenar estudos e projetos de investigação científica, desenvolvimento tecnológico e de inovação nos domínios da sua missão;
+
+b) Apoiar os organismos públicos e privados no controlo da qualidade dos projetos, dos materiais e respetivos componentes da execução, e da exploração de infraestruturas de interesse regional;
+
+c) Acompanhar a realização dos empreendimentos públicos a desenvolver pelo Governo Regional, nomeadamente sob a responsabilidade da SREI, na perspetiva do apoio técnico e laboratorial, no âmbito da qualidade e segurança das obras;
+
+d) Elaborar estudos, emitir pareceres técnicos, realizar ensaios, responder a consultas e prestar colaboração nos seus domínios de atuação;
+
+e) Promover e dinamizar o conhecimento sobre o fenómeno das aluviões na Ilha da Madeira, através da investigação e do desenvolvimento de estudos e de ações no âmbito dos sistemas de previsão, prevenção e alerta dos mesmos;
+
+f) Realizar estudos no âmbito da normalização, da regulamentação, da especificação técnica, da certificação ou da acreditação nas áreas funcionais da sua competência, elaborando a respetiva documentação em colaboração com os competentes organismos regionais e nacionais;
+
+g) Prestar serviços e pareceres a entidades públicas ou privadas, de acordo com tabela de preços aprovada nos termos legais, com exceção dos serviços da administração direta da Região Autónoma da Madeira, aos quais os serviços serão prestados graciosamente;
+
+h) Contribuir para o aperfeiçoamento e especialização de quadros técnicos através da colaboração com outras entidades;
+
+i) Cooperar e estabelecer sinergias com instituições científicas e tecnológicas afins, nacionais e estrangeiras, na prossecução de interesses comuns;
+
+j) Divulgar estudos e resultados obtidos em atividades próprias, recolher, classificar, e difundir bibliografia e outros elementos de informação técnica;
+
+k) Defender a propriedade intelectual dos seus estudos e projetos;
+
+l) Exercer as demais atribuições que lhe sejam legalmente cometidas.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 11/2018/M - Diário da República n.º 184/2018, Série I de 2018-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101), em vigor a partir de 2018-09-25
+
+###### Artigo 4.º — Diretor regional
+
+1 - O LREC é dirigido pelo diretor regional do Laboratório Regional de Engenharia Civil, adiante designado abreviadamente por diretor regional, cargo de direção superior de 1.º grau.
+
+2 - Compete ao diretor regional, sem prejuízo das competências que lhe forem conferidas por lei, ou que nele sejam delegadas ou subdelegadas:
+
+a) Promover a execução da política e prossecução dos objetivos definidos pelo Governo Regional no âmbito da sua missão;
+
+b) Coordenar e orientar a ação dos diversos serviços do LREC, e aprovar os regulamentos e normas de execução necessários ao seu bom funcionamento;
+
+c) Coordenar superiormente a interligação dos serviços do LREC com outros organismos do Governo Regional, bem como com instituições científicas e tecnológicas afins, nacionais e estrangeiras;
+
+d) Praticar todos os atos concernentes com a gestão dos recursos humanos afetos ao LREC;
+
+e) Promover e dinamizar a realização de estudos, projetos e atividades essenciais à prossecução da atividade do LREC;
+
+f) Assegurar a gestão dos recursos patrimoniais e garantir a operacionalidade das instalações e dos equipamentos, afetos ao LREC;
+
+g) Contratar com fornecedores e autorizar despesas de acordo com as competências atribuídas por lei;
+
+h) Elaborar acordos e protocolos na área de atuação do LREC;
+
+i) Propor a fixação e atualização de taxas no âmbito dos serviços a prestar no domínio da atuação do LREC;
+
+j) Coordenar, dentro da sua área funcional, a divulgação de instruções, circulares ou outras normas de caráter genérico destinadas aos serviços executores de obras públicas dos edifícios e equipamentos públicos sob tutela do Secretário Regional dos Equipamentos e Infraestruturas;
+
+k) Nomear os representantes do LREC em organismos exteriores;
+
+l) Garantir a representação externa do LREC, assegurando as relações com entidades e organismos nacionais e internacionais, públicos ou privados, que concorram para o cumprimento da sua missão;
+
+m) Preparar e coordenar os assuntos a submeter a despacho e assegurar a transmissão ao exterior e aos serviços dos despachos, ordens e instruções do Secretário Regional dos Equipamentos e Infraestruturas.
+
+n) Assumir a responsabilidade da gestão dos serviços da estrutura nuclear colocados sob a sua dependência direta.
+
+3 - O diretor regional pode, nos termos da lei, delegar ou subdelegar competências em titulares de cargos de direção e chefia.
+
+4 - O diretor regional é substituído, nas suas ausências, faltas e impedimentos, por titular de cargo de direção intermédia de 1.º grau a designar.
+
+5 - O diretor regional pode, igualmente, avocar as competências dos responsáveis pelos serviços do LREC.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 11/2018/M - Diário da República n.º 184/2018, Série I de 2018-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101), em vigor a partir de 2018-09-25
+
+### Capítulo II — Estrutura e funcionamento geral
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+###### Artigo 5.º — Organização interna
+
+1 - A organização interna do LREC obedece ao modelo de estrutura hierarquizada.
+
+2 - A estrutura hierarquizada do LREC é constituída por unidades orgânicas nucleares e flexíveis, secções e áreas de coordenação administrativa, a aprovar nos termos do Decreto Legislativo Regional n.º 17/2007/M, de 12 de novembro, alterado pelos Decretos Legislativos Regionais n.os 24/2012/M, de 30 de agosto, 2/2013/M, de 2 de janeiro, e 42-A/2016/M, de 30 de dezembro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 11/2018/M - Diário da República n.º 184/2018, Série I de 2018-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101), em vigor a partir de 2018-09-25
+
+###### Artigo 6.º — Dotação de cargos de direção
+
+A dotação de cargos de direção superior e de direção intermédia de 1.º grau consta do anexo ao presente diploma, do qual faz parte integrante.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 11/2018/M - Diário da República n.º 184/2018, Série I de 2018-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101), em vigor a partir de 2018-09-25
+
+### Capítulo III — Carreira de investigação científica
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+###### Artigo 7.º — Carreira de investigação científica
+
+1 - O LREC compreende pessoal integrado nas carreiras gerais e pessoal da carreira de investigação científica.
+
+2 - O regime da carreira de investigação científica é o definido no Decreto-Lei n.º 124/99, de 20 de abril, alterado pela Lei n.º 157/99, de 14 de setembro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+### Capítulo IV — Disposições finais e transitórias
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+###### Artigo 8.º — Norma transitória
+
+Até à entrada em vigor dos diplomas que aprovam a organização interna referida no artigo 5.º, mantém-se em vigor a Portaria n.º 82/2013, de 9 de setembro, bem como as comissões de serviço dos titulares de cargos de direção intermédia das unidades orgânicas nela previstas.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+###### Artigo 8.º-A — Carreiras subsistentes
+
+1 - O desenvolvimento indiciário das carreiras de chefe de departamento é o constante do anexo ao Decreto Legislativo Regional n.º 23/99/M, de 26 de agosto, objeto de retificação pela Declaração de Retificação n.º 15-I/99, de 30 de setembro, publicada no Diário da República, 1.ª série-A, n.º 299, 2.º suplemento, de 30 de setembro de 1999, sendo-lhes aplicável o disposto no artigo 106.º da Lei n.º 12-A/2008, de 27 de fevereiro, alterada pelas Leis n.os 64-A/2008, de 31 de dezembro, 3-B/2010, de 28 de abril, 34/2010, de 2 de setembro, 55-A/2010, de 31 de dezembro, 64-B/2011, de 30 de dezembro, e 66/2012 e 66-B/2012, ambas de 31 de dezembro, pelo Decreto-Lei n.º 47/2013, de 5 de abril, e pela Lei n.º 80/2017, de 18 de agosto.
+
+2 - O disposto no número anterior não prejudica a integração na tabela remuneratória única, feita ao abrigo do artigo 5.º da Lei n.º 75/2014, de 12 de setembro, alterada pelas Leis n.os 159-A/2015, de 30 de dezembro, e 7-A/2016, de 30 de março.
+
+3 - Os postos de trabalho relativos às carreiras de chefe de departamento são extintos à medida que vagarem.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+> Aditado pelo/a [Decreto Regulamentar Regional n.º 11/2018/M - Diário da República n.º 184/2018, Série I de 2018-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101), em vigor a partir de 2018-09-25
+
+###### Artigo 9.º — Norma revogatória
+
+É revogado o Decreto Regulamentar Regional n.º 1/2013/M, de 29 de janeiro.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+###### Artigo 10.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia seguinte ao da sua publicação.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+Aprovado em conselho do Governo Regional em 2 de junho de 2016.
+
+O Presidente do Governo Regional, Miguel Filipe Machado de Albuquerque.
+
+Assinado em 15 de junho de 2016.
+
+Publique-se.
+
+O Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto.
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+## Anexo — Dotação de lugares a que se refere o artigo 6.º
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 9.º do/a [Decreto Regulamentar Regional n.º 15/2026/M - Diário da República n.º 141/2026, Série I de 2026-07-23](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/15-2026-1151256050), em vigor a partir de 2026-07-24.
+
+> Alterado pelo/a [Decreto Regulamentar Regional n.º 11/2018/M - Diário da República n.º 184/2018, Série I de 2018-09-24](https://diariodarepublica.pt/dr/detalhe/decreto-regulamentar-regional/11-2018-116470101), em vigor a partir de 2018-09-25

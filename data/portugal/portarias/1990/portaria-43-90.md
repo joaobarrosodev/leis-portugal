@@ -1,0 +1,199 @@
+---
+schema_version: '1.0'
+id: pt:dre:333543:por
+title: Portaria n.º 43/90
+short_title: null
+summary: Homologa os protocolos celebrados entre o Gabinete da Área de Sines (GAS) e o Município de Santiago do Cacém
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério do Planeamento e da Administração do Território
+proposing_entity: null
+official_number: 43/90
+official_date: null
+publication_date: '1990-01-18'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 15/1990, Série I de 1990-01-18
+  number: '15'
+  series: I
+  supplement: null
+  pages: 256 - 267
+  pdf_url: https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '333543'
+  dre_path: /dr/detalhe/portaria/43-1990-333543
+  internal: pt:dre:333543:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/43-1990-333543
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/43-1990-333543
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1990-01-18T00:00:00Z'
+integrity:
+  source_sha256: cb8aeade816e6fd4086a0db91ceb699d1c5fb69f72526b75a8feaac3f0d8cab2
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-43-333543.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships: []
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 43/90
+
+de 18 de Janeiro
+
+O [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho, que regulamenta as transferências patrimoniais e de competências do Gabinete da Área de Sines (GAS) para o Município de Santiago do Cacém, dispõe, no artigo 10.º, que as afectações e transferências patrimoniais se efectivem por protocolos homologados por portaria.
+
+Considerando que se encontram concluídos e assinados os protocolos de transferência ou afectação patrimonial referidos:
+
+Nos termos do disposto no n.º 2 do artigo 10.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho:
+
+Manda o Governo, pelo Ministro do Planeamento e da Administração do Território, que sejam homologados, conforme proposto, os protocolos celebrados e já assinados entre o Gabinete da Área de Sines (GAS) e o Município de Santiago do Cacém, que se publicam em anexo e cujos originais ficarão arquivados na Câmara Municipal de Santiago do Cacém.
+
+Ministério do Planeamento e da Administração do Território.
+
+**Assinada em 29 de Dezembro de 1989.**
+
+**O Ministro do Planeamento e da Administração do Território, Luís Francisco Valente de Oliveira.**
+
+PROTOCOLO N.º 2
+
+Entre o Gabinete da Área de Sines, instituto público criado pelo [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho, adiante designado por GAS, representado pelo presidente do conselho de gestão, João Manuel Soares de Almeida Viana e o Município de Santiago do Cacém, adiante designado MSC, representado pelo presidente da Câmara Municipal, Sérgio Brígido Martins, é acordado e redigido a escrito o presente protocolo, nos termos e em execução do disposto no artigo 10.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho, com as cláusulas seguintes:
+
+1.ª
+
+Os imóveis a que se refere o artigo 2.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho, são os descritos no anexo I e identificados nas plantas que constituem os anexos II, III, IV, V, VI, VII, VIII, IX e X ao presente protocolo.
+
+2.ª
+
+O MSC promoverá a inscrição a seu favor na conservatória do registo predial correspondente da aquisição da propriedade dos prédios referidos na cláusula 1.ª
+
+3.ª
+
+O presente protocolo é feito em triplicado, ficando o original em poder do MSC e o duplicado em poder do GAS e destinando-se o triplicado a ser enviado para publicação, depois de homologado, nos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho.
+
+Gabinete da Área de Sines e Câmara Municipal de Santiago do Cacém, 24 de Julho de 1989. - O Presidente do Conselho de Gestão do GAS, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Santiago do Cacém, Sérgio Brígido Martins.
+
+## ANEXO I — Relação dos prédios do Gabinete da Área de Sines a transferir para a Câmara Municipal de Santiago do Cacém
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)
+
+PROTOCOLO N.º 3
+
+Entre o Gabinete da Área de Sines, instituto público criado pelo [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho, adiante designado por GAS, representado pelo presidente do conselho de gestão, João Manuel Soares de Almeida Viana, e o Município de Santiago do Cacém, adiante designado por CMSC, representado pelo presidente da Câmara Municipal, Sérgio Brígido Martins, é acordado e redigido a escrito o presente protocolo, nos termos e em execução do disposto no n.º 1 e alíneas a), b) e c) do n.º 2 do artigo 5.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho, com as cláusulas seguintes:
+
+1.ª
+
+A gestão e administração da ZIL-1, a que se referem os n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho, é descrita nos anexos I, II, III e IV.
+
+2.ª
+
+A área de actuação da CMSC na ZIL-1 é de 164,5970 ha, descritos sob os artigos, ou parte dos artigos, de Santo André, secção H, 1 (p), 2 (p), 3 (p), 5 (p), 16 (p), 18 (p), 26 (p), 27 (p), 31 (p), 32 (p), 33 (p), 34 (p), 35 (p), 36 (p), 37 (p), 39 (p), 41 (p), 44, 45, 46, 49 (p), 50 (p), 51 (p), 54 (p), 55 (p), 56 (p), 59 (p), 64 (p), 65 (p), 66 (p), 67, 68, 69, e 70 (p), e secção G, 2 (p), e de Santiago do Cacém, secção I, 3 (p), 5 (p), 6 (p), 8 (p), 9 (p), 11 e 12 (p), e secção H, 1 (p).
+
+3.ª
+
+Os anexos I, II, III e IV constituem parte integrante do presente protocolo e vão ser rubricados pelo presidente do conselho de gestão do GAS e pelo presidente da CMSC.
+
+O presente protocolo é feito em triplicado, ficando o original em poder da CMSC e o duplicado em poder do GAS e destinando-se o triplicado a ser enviado para publicação, depois de homologado, nos termos do n.º 2 do artigo 10.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho.
+
+Gabinete da Área de Sines e Câmara Municipal de Santiago do Cacém, 24 de Julho de 1989. - O Presidente do Conselho de Gestão do Gabinete da Área de Sines, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Santiago do Cacém, Sérgio Brígido Martins.
+
+## ANEXO I — ZIL-1 - Santo André
+
+Empresas instaladas
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)
+
+PROTOCOLO N.º 4
+
+Entre o Gabinete da Área de Sines, instituto público criado pelo [Decreto-Lei n.º 270/71](https://diariodarepublica.pt/dr/detalhe/decreto-lei/270-1971-643342), de 19 de Junho, adiante designado por GAS, representado pelo presidente do conselho de gestão, João Manuel Soares de Almeida Viana, e o Município de Santiago do Cacém, adiante designado por CMSC, representado pelo presidente da Câmara Municipal, Sérgio Brígido Martins, é acordado e redigido a escrito o presente protocolo, nos termos e em execução do disposto no n.º 1 e alíneas a), b), c) e d) do n.º 2 do artigo 1.º e alínea c) do artigo 2.º do [Decreto-Lei n.º 183/89](https://diariodarepublica.pt/dr/detalhe/decreto-lei/183-1989-610004), de 1 de Junho, com as cláusulas seguintes:
+
+1.ª
+
+É transmitida para o Município de Santiago do Cacém a propriedade dos seguintes imóveis e infra-estruturas do Gabinete da Área de Sines, situados dentro do perímetro urbano do Centro Urbano de Santo André:
+
+a) Todos os terrenos disponíveis a destacar dos seguintes prédios rústicos da freguesia de Santo André: secção F, artigos 1 e 9; secção G, artigo 2, e secção H, artigos 1, 2, 3, 5, 16, 26, 27, 39, 41, 48, 49, 50, 51, 60, 61, 62, 64, 65, 66 e 67;
+
+b) Todos os terrenos cedidos em regime de direitos de superfície, de acordo com a discriminação seguinte:
+
+1) Loteamento para autoconstrução denominado Bairro da Várzea, cujos lotes, constituídos com base em escritura de cedência em direitos de superfície, foram destacados dos prédios rústicos da freguesia de Santo André inscritos sob os artigos 2, secção G, e ou 9, secção F;
+
+2) Loteamento para autoconstrução denominado Bairro Horizonte, cujos lotes foram constituídos com base em escritura de cedência de direitos de superfície e destacados dos prédios rústicos da freguesia de Santo André, inscritos sob os artigos 2, secção G, e ou 1, 2, 3, 5, 27 e 51, secção H;
+
+3) Campo de ténis, cujo terreno, cedido em regime de direitos de superfície, foi destacado do prédio rústico da freguesia de Santo André inscrito sob o artigo 9, secção F;
+
+4) Urbanização dos 98 Fogos (torres da CNP), cujo terreno, cedido em regime de direitos de superfície, foi destacado do prédio rústico da freguesia de Santo André inscrito sob o artigo 2, secção G;
+
+5) Urbanização dos 350 Fogos (Bairro dos Serrotes), cujo terreno, cedido em regime de direitos de superfície, foi destacado dos prédios rústicos da freguesia de Santo André inscritos sob os artigos 2, 3, 5, 26, 27 e 51, secção H;
+
+6) Terreno onde está implantado o posto de abastecimento da GALP, cedido em regime de direitos de superfície e destacado do prédio rústico da freguesia de Santo André inscrito sob o artigo 2, secção G;
+
+7) Urbanização do Bairro do Liceu (54 fogos da PETROGAL), cujo terreno, cedido em regime de direitos de superfície, foi destacado dos prédios rústicos da freguesia de Santo André inscritos sob os artigos 2, secção G, e 1, secção H;
+
+c) As instalações desportivas, cujo terreno esta implantado nos prédios rústicos inscritos sob os artigos 1 e 9, secção F, da freguesia de Santo André;
+
+d) As Escolas Primárias n.os 2 e 3 de Santo André, inscritas na matriz predial urbana da freguesia de Santo André sob os artigos 1760 e 2116, e a Escola Primária n.º 4, sita no Bairro do Pinhal, omissa na matriz, mas feita a participação para efeitos de inscrição matricial. O terreno afecto à Escola n.º 4 será destacado dos artigos rústicos 26, 64, 65 e 66, secção H, da freguesia de Santo André;
+
+e) As creches-jardins-de-infância, sitas, uma, no Bairro das Flores e, outra, no Bairro das Panteras, omissas na matriz, mas efectuadas as respectivas participações para efeitos de inscrição matricial. O terreno da creche do Bairro das Flores será destacado dos artigos 26, 65 e 66, secção H, da freguesia de Santo André. O terreno da creche do Bairro das Panteras será destacado do artigo 2, secção G, da freguesia de Santo André;
+
+f) Os edifícios de apoio ao parque central, omissos na matriz, mas efectuada a respectiva participação para efeitos de inscrição matricial. O tereno será destacado dos prédios rústicos inscritos sob os artigos 2, secção G, e 1, secção H, ambos da freguesia de Santo André;
+
+g) Três fracções autónomas, designadas pelas letras AS, AU e AX, do prédio urbano, constituído em regime de propriedade horizontal, situado no Bairro do Pinhal, Centro Urbano de Santo André, concelho de Santiago do Cacém, inscrito na matriz predial urbana sob o artigo 2495 e descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 606, com o valor patrimonial de 12636000$00;
+
+h) Cinco fracções autónomas, designadas pelas letras AG, AI, AK, AM e AO, do prédio, constituído em regime de propriedade horizontal, com a mesma situação do anterior, inscrito na matriz predial urbana sob o artigo 2496 e descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 607, com o valor patrimonial de 21060000$00;
+
+i) Duas fracções autónomas, designadas pelas letras N e P, do prédio, constituído em regime de propriedade horizontal, com a mesma situação do anterior, inscrito na matriz predial urbana sob o artigo 2504 e descrito na Conservatória do Registo Predial de Santiago do Cacém sob o n.º 600, com o valor patrimonial de 8424000$00;
+
+j) Prédio urbano, designado por colectiva B-11 situado no Bairro Azul, Centro Urbano de Santo André, concelho de Santiago do Cacém, com a superfície coberta de 356 m2, omisso na matriz, mas feita a participação para a inscrição, a desanexar da descrição predial n.º 485 da Conservatória do Registo Predial de Santiago do Cacém, com o valor patrimonial de 4000000$00;
+
+k) Três fracções autónomas, designadas pelas letras A, D e E, do prédio urbano, constituído em regime de propriedade horizontal, situado no Bairro dos 298 Fogos, Centro Urbano de Santo André, freguesia de Santo André, concelho de Santiago do Cacém, inscrito na matriz predial urbana sob o artigo 2200, o qual faz parte da descrição n.º 93 da Conservatória do Registo Predial de Santiago do Cacém, com o valor patrimonial de 11782575$00.
+
+2.ª
+
+O MSC promoverá a inscrição a seu favor na conservatória do registo predial correspondente da aquisição da propriedade dos prédios ou partes de prédios referidos na cláusula 1.ª (anexos I e II), definindo, em cada caso, a área, confrontações e demais elementos identificativos legalmente exigíveis.
+
+Gabinete da Área de Sines e Câmara Municipal de Santiago do Cacém, 24 de Julho de 1989. - O Presidente do Conselho de Gestão do Gabinete da Área de Sines, João Manuel Soares de Almeida Viana. - O Presidente da Câmara Municipal de Santiago do Cacém, Sérgio Brígido Martins.
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf))](https://files.diariodarepublica.pt/1s/1990/01/01500/02560267.pdf)

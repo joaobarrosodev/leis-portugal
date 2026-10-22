@@ -1,0 +1,265 @@
+---
+schema_version: '1.0'
+id: pt:dre:673410:por
+title: Decreto n.º 654-A/76
+short_title: null
+summary: Regulamenta a organização e funcionamento da secretaria e do serviço de apoio da Comissão Constitucional
+jurisdiction: portugal
+territory: null
+document_type: decreto
+document_type_label: Decreto
+issuing_authority:
+- Conselho da Revolução
+proposing_entity: null
+official_number: 654-A/76
+official_date: null
+publication_date: '1976-07-31'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 178/1976, 1º Suplemento, Série I de 1976-07-31
+  number: '178'
+  series: I
+  supplement: 1º Suplemento
+  pages: 1844-(1) a 1844-(3)
+  pdf_url: https://files.diariodarepublica.pt/1s/1976/07/17801/00010003.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '673410'
+  dre_path: /dr/detalhe/decreto/654-a-1976-673410
+  internal: pt:dre:673410:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/decreto/654-a-1976-673410
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1981-04-02T00:00:00Z'
+integrity:
+  source_sha256: d3ee7d1b83ee0a63e1b0cbc396b6cf21d1f2c63677aacd6f2e8a2e8fcbd6b325
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1976/DRE-1976-654-A-673410.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:389595:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 1
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto n.º 654-A/76
+
+de 31 de Julho
+
+Em cumprimento do disposto no artigo 51.º, alínea a), do [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), de 30 de Junho, que estabelece a necessidade de ser regulamentada a organização e funcionamento da secretaria e do serviço de apoio da Comissão Constitucional, a que se referem os artigos 17.º e 18.º daquele diploma;
+
+Usando dos poderes conferidos no n.º 1 do artigo 285.º da Constituição da República Portuguesa, o Conselho da Revolução decreta e eu promulgo o seguinte:
+
+Da secretaria e serviço de apoio
+
+I
+
+Da secretaria
+
+###### Artigo 1.º Para assegurar o seu expediente a Comissão Constitucional tem uma secretaria com a composição e organização constantes do presente diploma.
+
+###### Art. 2.º A secretaria é integrada pelos elementos constantes do mapa anexo a este diploma, que são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão, devendo o secretário ser um licenciado em Direito de reconhecida competência.
+
+###### Art. 3.º Pertence designadamente à secretaria:
+
+a) A execução de todos os serviços relativos ao andamento dos processos;
+
+b) O recebimento e expedição da correspondência e o seu registo em Livros apropriados;
+
+c) A passagem de certidões;
+
+d) O registo dos requerimentos dirigidos ao presidente da Comissão e dos despachos proferidos por este;
+
+e) A manutenção em ordem da contabilidade privativa da Comissão;
+
+f) O ordenamento e a conservação do arquivo;
+
+g) A elaboração da estatística relativa ao movimento de processos;
+
+h) A aquisição, guarda e conservação do mobiliário e de mais material necessário ao serviço e a sua inventariação, nos termos legais;
+
+i) A prática, em geral, de todos os actos de expediente que pela presidência forem julgados necessários ao bom funcionamento da Comissão;
+
+j) Assegurar a prestação dos serviços auxiliares necessários ao funcionamento da Comissão e do serviço de apoio.
+
+###### Art. 4.º - 1. Os serviços da secretaria são dirigidos pelo secretário, sob a superintendência do presidente da Comissão.
+
+2 - Incumbe especialmente ao secretário:
+
+a) Dirigir os trabalhos da secretaria e distribuir pelos funcionários as tarefas a executar;
+
+b) Abrir a correspondência oficial e redirigir a correspondência de que o presidente o encarregar;
+
+c) Corresponder-se com as autoridades e repartições públicas sobre os assuntos da sua competência;
+
+d) Assistir às sessões da Comissão e redigir as actas;
+
+e) Rubricar os livros de serviço na secretaria e assinar os seus termos de abertura e de encerramento;
+
+f) Guardar o selo branco e fiscalizar o seu uso;
+
+g) Subscrever as certidões emitidas;
+
+h) Apresentar ao presidente da Comissão as questões que este haja de resolver e os processos pendentes para terem o devido destino;
+
+i) Escriturar e manter sob a sua guarda o livro da correspondência confidencial;
+
+j) Fiscalizar as contas de receitas e despesas.
+
+###### Art. 5.º Aos escrivães de direito compete promover o andamento dos processos.
+
+###### Art. 6.º Aos oficiais de diligências compete particularmente:
+
+a) Preparar a correspondência para a expedição e fazer o seu registo;
+
+b) Conduzir a correspondência que sair por protocolo;
+
+c) Fazer todo o serviço externo que lhes for determinado;
+
+d) Executar tarefas de secretaria que forem compatíveis com as suas habilitações.
+
+###### Art. 7.º Todos os funcionários da secretaria coadjuvam o secretário, executando o trabalho que por ele lhes for ordenado.
+
+###### Art. 8.º Haverá na secretaria os registos indispensáveis ao bom andamento dos serviços e tantos livros quantos forem necessários à boa ordem da escrituração.
+
+II
+
+Do serviço de apoio
+
+###### Art. 9.º O serviço de apoio é constituído por dois núcleos:
+
+a) Um gabinete de apoio ao presidente da Comissão;
+
+b) Um núcleo de apoio documental à Comissão.
+
+###### Art. 10.º Ao núcleo de apoio documental compete:
+
+a) Organizar a biblioteca e inventariar as publicações recebidas ou adquiridas;
+
+b) Organizar e manter um arquivo bibliográfico e jurisprudencial das matérias atinentes às funções da Comissão;
+
+c) Organizar e manter actualizado um ficheiro das decisões da Comissão;
+
+d) Rever as provas dos acordos a publicar em apêndice ao Diário da República;
+
+e) Preparar a edição, pela Imprensa Nacional, da colecção dos acórdãos e pareceres da Comissão, a publicar anualmente, autorizada quanto aos últimos a respectiva publicação pelo Conselho da Revolução.
+
+###### Art. 11.º - 1. Ao gabinete de apoio compete coadjuvar, directamente, o presidente, desempenhando as tarefas que por ele lhe forem determinadas.
+
+2. O gabinete de apoio é constituído por um chefe de gabinete, três adjuntos de gabinete e dois secretários pessoais, os quais têm direito aos vencimentos constantes do quadro anexo ao presente diploma, não podendo beneficiar de quaisquer gratificações ou abonos por trabalho extraordinário.
+
+3. Os membros do gabinete de apoio são requisitados ou admitidos em comissão de serviço, por tempo indeterminado, nos termos do n.º 1 do artigo 18.º do [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), de 30 de Junho, por livre escolha do presidente da Comissão.
+
+4. Os elementos do gabinete de apoio cessam as suas funções quando cessarem as do presidente que os escolheu.
+
+###### Art. 12.º - 1. O núcleo de apoio documental é constituído pelos elementos referidos no mapa anexo ao presente diploma.
+
+2. Os elementos mencionados no número anterior são requisitados ou admitidos em comissão de serviço, nos termos da lei, sob proposta do presidente da Comissão.
+
+###### Art. 13.º O pessoal do serviço de apoio está sob a dependência directa do presidente da Comissão.
+
+###### Art. 14.º O presidente pode designar um dos técnicos para orientar a actividade do núcleo de apoio documental.
+
+###### Art. 15.º Para o serviço de apoio pode o presidente da Comissão promover o contrato de individualidades de reconhecido mérito para a realização de estudos, inquéritos e outros trabalhos de carácter técnico eventual.
+
+###### Art. 16.º - 1. Na requisição, contratação ou nomeação em comissão de serviço, nos termos do artigo 18.º do [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), são observadas, na parte aplicável, as regras constantes do artigo 17.º do [Decreto-Lei n.º 246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), de 21 de Maio.
+
+2. Ao pessoal admitido segundo as formas mencionadas no número anterior é aplicável o disposto no artigo 23.º do [Decreto-Lei n.º 246-B/75](https://diariodarepublica.pt/dr/detalhe/decreto-lei/246-b-1975-245514), nos casos em que o presidente da Comissão o achar justificável e, como tal, o propuser ao presidente dos Serviços de Apoio do Conselho da Revolução.
+
+###### Art. 17.º - 1. O Conselho Administrativo dos Serviços de Apoio do Conselho da Revolução presta todo o apoio administrativo e financeiro à Comissão.
+
+2. Os encargos resultantes da constituição e funcionamento da Comissão, incluindo a secretaria e o serviço de apoio, são suportados, inteiramente, pelos Serviços de Apoio do Conselho da Revolução.
+
+3. Para satisfação de tais encargos e tendo em vista o que preceitua o artigo 52.º do [Decreto-Lei n.º 503-F/76](https://diariodarepublica.pt/dr/detalhe/decreto-lei/503-f-1976-232941), são inscritas, nos anos de 1976 e 1977, dotações globais no orçamento de Encargos Gerais da Nação.
+
+###### Art. 18.º A Imprensa Nacional-Casa da Moeda remeterá à secretaria da Comissão duas colecções completas do Diário da República e do Diário da Assembleia da República.
+
+Visto e aprovado em Conselho da Revolução.
+
+**Promulgado em 31 de Julho de 1976.**
+
+**Publique-se.**
+
+**O Presidente da República, ANTÓNIO RAMALHO EANES.**
+
+Quadro do pessoal
+
+1 - Serviço de apoio:
+
+a) Gabinete de apoio:
+
+1 chefe de gabinete ... B
+
+3 adjuntos do gabinete ... D
+
+2 secretários pessoais ... F
+
+b) Núcleo de apoio documental:
+
+4 técnicos principais ... E
+
+3 técnicos auxiliares principais J...
+
+2 - Secretaria:
+
+1 secretário ... F
+
+2 escrivães de direito ... H
+
+1 operador de reprografia de 1.ª classe ... O
+
+2 ajudantes de escrivão ... Q
+
+2 oficiais de diligências ... R
+
+8 escriturários-dactilógrafos ... S
+
+2 telefonistas ... S
+
+1 motorista ... S
+
+3 contínuos ... T
+
+2 serventes ... U

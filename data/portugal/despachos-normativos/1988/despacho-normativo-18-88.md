@@ -1,0 +1,154 @@
+---
+schema_version: '1.0'
+id: pt:dre:284738:por
+title: Despacho Normativo n.º 18/88
+short_title: null
+summary: Determina as listas dos produtos industriais sujeitos a contingentes de importação e respectivos montantes, abertos
+  para o período que decorre de 1 de Janeiro a 31 de Dezembro de 1988
+jurisdiction: portugal
+territory: null
+document_type: despacho-normativo
+document_type_label: Despacho Normativo
+issuing_authority:
+- Ministério do Comércio e Turismo
+proposing_entity: null
+official_number: 18/88
+official_date: null
+publication_date: '1988-04-12'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 85/1988, Série I de 1988-04-12
+  number: '85'
+  series: I
+  supplement: null
+  pages: 1419 - 1428
+  pdf_url: https://files.diariodarepublica.pt/1s/1988/04/08500/14191428.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '284738'
+  dre_path: /dr/detalhe/despacho-normativo/18-1988-284738
+  internal: pt:dre:284738:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1988-284738
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/despacho-normativo/18-1988-284738
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1988-07-16T00:00:00Z'
+integrity:
+  source_sha256: 8b82521809396896e762652b6e7c9edce21954bb775c50b4d9682d9e1387ba21
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1988/DRE-1988-18-284738.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:372649:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Despacho Normativo n.º 18/88
+
+Tendo em conta que Portugal vai manter, em conformidade com o estabelecido na política comercial comunitária e no Acto de Adesão de Portugal às Comunidades Europeias, nomeadamente no n.º 3 do artigo 364.º, restrições quantitativas à importação de países terceiros dos produtos industriais listados no anexo B do Regulamento (CEE) n.º [3784/85](http://data.europa.eu/eli/reg/1985/3784/oj?locale=pt), do Conselho, de 20 de Dezembro de 1985 (no que respeita a países de comércio de Estado), e no anexo I do Regulamento (CEE) n.º [288/82](http://data.europa.eu/eli/reg/1982/288/oj?locale=pt), do Conselho, com as adaptações decorrentes da adopção da Nomenclatura Combinada;
+
+Considerando que compete às autoridades portuguesas definir as regras de gestão internas das referidas restrições quantitativas;
+
+Considerando ainda que é necessário dar conhecimento aos operadores económicos não só dos produtos industriais sujeitos a restrições quantitativas à importação de países terceiros (com excepção dos veículos automóveis, que estão sujeitos a regime especial), mas também dos contingentes abertos para 1988, e estabelecer o respectivo critério de distribuição:
+
+Em execução do disposto na legislação acima referida, determino o seguinte:
+
+1 - As listas dos produtos industriais sujeitos a contingentes de importação e respectivos montantes, abertos para o período que decorre de 1 de Janeiro a 31 de Dezembro de 1988, constam das listas A, B e C em anexo ao presente despacho.
+
+2 - No continente compete à Direcção-Geral do Comércio Externo (DGCE) proceder à distribuição dos contingentes pelos importadores.
+
+3 - As candidaturas das empresas sediadas nas Regiões Autónomas dos Açores e da Madeira serão comunicadas a DGCE pelas entidades competentes daquelas Regiões no prazo de dois dias úteis a partir do termo do período para a sua apresentação, com indicação dos seguintes elementos:
+
+Identificação das empresas concorrentes;
+
+Montante das importações efectuadas por cada uma delas em 1986 e 1987, sua classificação pautal (Nomenclatura Combinada) e país de origem, de acordo com o documento aduaneiro de prova que apresentarem.
+
+4 - A DGCE comunicará às entidades competentes das Regiões Autónomas as quotas que na distribuição geral foram atribuídas às empresas que ali se candidataram.
+
+5 - Cada um dos contingentes será repartido em duas parcelas, sendo uma correspondente a 90% do seu montante, destinada a ser distribuída pelos importadores habituais, e outra de 10% desse mesmo montante, a ser distribuída pelos novos importadores.
+
+Relativamente a cada contingente, consideram-se como importadores habituais as empresas que efectuaram importações dos produtos em causa em 1986 e 1987.
+
+6 - Só poderão ser contempladas na distribuição de cada uma das parcelas referidas no n.º 5 as empresas que a elas se candidatarem.
+
+7 - Relativamente a cada contingente, a parcela a repartir pelos importadores habituais será distribuída proporcionalmente ao total das importações, expressas nas unidades em que os mesmos se encontram definidos, por eles realizadas em 1986 e 1987.
+
+8 - As candidaturas deverão fazer-se acompanhar de adequado documento aduaneiro comprovativo das importações efectuadas nos anos de 1986 e 1987, expressas na unidade definida no contingente.
+
+9 - Relativamente a cada contingente, a parcela a atribuir aos novos importadores ser-lhes-á distribuída em partes iguais.
+
+10 - Quando em determinado contingente o montante que caberia a cada um dos novos importadores, nos termos do n.º 9, não tenha significado comercial, não será efectuada a distribuição respectiva.
+
+11 - Para os efeitos referidos no n.º 10, consideram-se sem significado comercial os montantes que para determinado contingente sejam inferiores a 10% da média aritmética das quantidades atribuídas aos importadores habituais.
+
+12 - Nos contingentes em que a parcela de 10% referida no n.º 5 não venha a ser distribuída pelos novos importadores pelos motivos referidos no n.º 10, ou por não se terem apresentado candidatos à mesma, será distribuída pelos importadores habituais proporcionalmente aos montantes que lhes foram atribuídos.
+
+13 - As candidaturas referidas no n.º 6 deverão ser apresentadas até ao 15.º dia após a publicação do presente despacho.
+
+Ministério do Comércio e Turismo, 18 de Março de 1988. - O Secretário de Estado do Comércio Externo, Miguel António Igrejas Horta e Costa.
+
+PRODUTOS SUJEITOS A RESTRIÇÕES QUANTITATIVAS
+
+LISTA A
+
+PAISES TERCEIROS, COM EXCEPÇÃO DOS PAISES PREFERENCIAIS E DE COMERCIO DE ESTADO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/08500/14191428.pdf))](https://files.diariodarepublica.pt/1s/1988/04/08500/14191428.pdf)
+
+PRODUTOS SUJEITOS A RESTRIÇÕES QUANTITATIVAS
+
+LISTA B
+
+JAPÃO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/08500/14191428.pdf))](https://files.diariodarepublica.pt/1s/1988/04/08500/14191428.pdf)
+
+PAÍSES SUJEITOS A RESTRIÇÕES QUANTITATIVAS
+
+LISTA C
+
+PAÍSES DE COMÉRCIO DE ESTADO
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/1988/04/08500/14191428.pdf))](https://files.diariodarepublica.pt/1s/1988/04/08500/14191428.pdf)

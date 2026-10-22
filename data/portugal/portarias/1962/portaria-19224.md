@@ -1,0 +1,93 @@
+---
+schema_version: '1.0'
+id: pt:dre:164812:por
+title: Portaria n.º 19224
+short_title: null
+summary: Modifica a constituição do Conselho de Instrução da Armada
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Marinha - Superintendência dos Serviços da Armada
+proposing_entity: null
+official_number: '19224'
+official_date: null
+publication_date: '1962-06-08'
+publication:
+  gazette: Diário do Governo
+  reference: Diário do Governo n.º 131/1962, Série I de 1962-06-08
+  number: '131'
+  series: I
+  supplement: null
+  pages: 797 - 797
+  pdf_url: https://files.diariodarepublica.pt/1s/1962/06/13100/07970797.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: null
+  oj: null
+  dre: '164812'
+  dre_path: /dr/detalhe/portaria/19224-1962-164812
+  internal: pt:dre:164812:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/19224-1962-164812
+  metadata_url: null
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/19224-1962-164812
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1969-01-02T00:00:00Z'
+integrity:
+  source_sha256: 5533ad489a0bf6d34c50c0f76801ddf16f27b94a234c2c7e91ace675a5b0a12f
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1962/DRE-1962-19224-164812.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects: []
+relationships:
+- type: amended_by
+  target: pt:dre:241624:por
+  label: Última alteração registada pelo legalize-pt
+  source: null
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 19224
+
+Tornando-se necessário modificar a constituição do Conselho de Instrução da Armada, a fim de nela incluir o chefe da 6.ª Repartição (Educação Física) da Direcção do Serviço do Pessoal, criada pelo [Decreto n.º 43916](https://diariodarepublica.pt/dr/detalhe/decreto/43916-1961-180594), de 16 de Setembro de 1961, e o chefe da 7.ª Repartição (Selecção do Pessoal) da mesma Direcção, criada pelo [Decreto n.º 44279](https://diariodarepublica.pt/dr/detalhe/decreto/44279-1962-516264), de 16 de Abril de 1962, ao abrigo do disposto no § 3.º do artigo 16.º do [Decreto n.º 43711](https://diariodarepublica.pt/dr/detalhe/decreto/43711-1961-170534), de 24 de Maio de 1961;
+
+Manda o Governo da República Portuguesa, pelo Ministro da Marinha, que o Conselho de Instrução da Armada seja presidido pelo superintendente dos Serviços da Armada e do mesmo faça parte o director do Serviço do Pessoal, os 1.os comandantes dos grupos de escolas, os comandantes das escolas independentes, os comandantes ou directores dos comandos, unidades e serviços a que estão adstritas as escolas ou centros de instrução, o chefe da 4.ª Divisão do Estado-Maior da Armada, os chefes da 5.ª, 6.ª e 7.ª Repartições da Direcção do Serviço do Pessoal e um oficial da primeira destas repartições, que servirá de secretário.
+
+Ministério da Marinha, 8 de Junho de 1962. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

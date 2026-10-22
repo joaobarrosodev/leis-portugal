@@ -1,0 +1,1147 @@
+---
+schema_version: '1.0'
+id: pt:dre:420193:por
+title: Decreto-Lei n.º 278/87
+short_title: null
+summary: Fixa o quadro legal regulamentador do exercício da pesca e das culturas marinhas em águas sob soberania e jurisdição
+  portuguesas
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério da Agricultura, Pescas e Alimentação
+proposing_entity: null
+official_number: 278/87
+official_date: null
+publication_date: '1987-07-07'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 153/1987, Série I de 1987-07-07
+  number: '153'
+  series: I
+  supplement: null
+  pages: 2639 - 2646
+  pdf_url: https://files.diariodarepublica.pt/1s/1987/07/15300/26392646.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2019-04-01'
+version_history:
+  file: decreto-lei-278-87.versoes.json
+  count: 7
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1987-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '1991-06-22'
+    amending: pt:dre:658904:por
+    amending_title: Decreto-Lei n.º 218/91
+    changes:
+    - Altera Artigo 21.º
+  - date: '1998-12-02'
+    amending: pt:dre:217326:por
+    amending_title: Decreto-Lei n.º 383/98
+    changes:
+    - Adita Artigo 1.º-A
+    - Adita Artigo 2.º-A
+    - Adita Artigo 12.º-A
+    - Adita Artigo 15.º-A
+    - Adita Artigo 21.º-A
+    - Adita Artigo 21.º-B
+    - Adita Artigo 21.º-C
+    - Adita Artigo 26.º-A
+    - Adita Artigo 26.º-B
+    - Adita Artigo 31.º-A
+    - Adita Artigo 31.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 9.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Capítulo IV
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Capítulo V
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera Artigo 27.º
+    - Altera Artigo 28.º
+    - Altera Artigo 29.º
+    - Altera Artigo 31.º
+    - Altera Artigo 32.º
+    - Altera Artigo 33.º
+  - date: '2017-01-15'
+    amending: pt:dre:105711870:por
+    amending_title: Decreto-Lei n.º 10/2017
+    changes:
+    - Adita Artigo 22.º-A
+    - Adita Artigo 22.º-B
+    - Adita Artigo 22.º-C
+    - Adita Artigo 22.º-D
+    - Adita Artigo 22.º-E
+    - Adita Artigo 22.º-F
+    - Adita Anexo
+    - Altera Artigo 23.º
+    - Altera Artigo 34.º
+  - date: '2017-04-05'
+    amending: pt:dre:106824982:por
+    amending_title: Decreto-Lei n.º 40/2017
+    changes:
+    - Altera Artigo 21.º-A
+    - Revoga Capítulo III
+  - date: '2019-04-01'
+    amending: pt:dre:120696372:por
+    amending_title: Decreto-Lei n.º 35/2019
+    changes:
+    - Altera Artigo 34.º
+    - Revoga Artigo 15.º
+    - Revoga Artigo 15.º-A
+    - Revoga Capítulo V
+    - Revoga Artigo 33.º
+  - date: '2027-01-01'
+    amending: pt:dre:143527213:por
+    amending_title: Decreto-Lei n.º 73/2020
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/278/1987/p/cons/20200923/pt/html
+  oj: null
+  dre: '420193'
+  dre_path: /dr/detalhe/decreto-lei/278-1987-420193
+  internal: pt:dre:420193:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/278-1987-420193
+  metadata_url: https://data.dre.pt/eli/dec-lei/278/1987/p/cons/20200923/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-34492275
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1987-34492275
+  retrieved_at: '2026-10-22T11:45:40Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9c675abadec0ce33c98c1be6275960ef955c510f9066670523a65e191010bc56
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T11:45:40Z'
+  notes: 7 versão(ões); histórico completo em decreto-lei-278-87.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Licenciamento
+- Mar Territorial
+- Pesca
+- Proteção do Ambiente
+- Quota de Pesca
+- Recursos do Mar
+relationships:
+- type: amended_by
+  target: pt:dre:658904:por
+  label: Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1991-658904
+  date: '1991-06-17'
+- type: amended_by
+  target: pt:dre:217326:por
+  label: Adita Artigo 1.º-A; Adita Artigo 2.º-A; Adita Artigo 12.º-A; Adita Artigo 15.º-A; Adita Artigo 21.º-A; Adita Artigo
+    21.º-B; Adita Artigo 21.º-C; Adita Artigo 26.º-A; Adita Artigo 26.º-B; Adita Artigo 31.º-A; Adita Artigo 31.º-B; Altera
+    Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo
+    8.º; Altera Artigo 9.º; Altera Artigo 10.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326
+  date: '1998-11-27'
+- type: amended_by
+  target: pt:dre:105711870:por
+  label: Adita Artigo 22.º-A; Adita Artigo 22.º-B; Adita Artigo 22.º-C; Adita Artigo 22.º-D; Adita Artigo 22.º-E; Adita Artigo
+    22.º-F; Adita Anexo; Altera Artigo 23.º; Altera Artigo 34.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870
+  date: '2017-01-10'
+- type: amended_by
+  target: pt:dre:106824982:por
+  label: Altera Artigo 21.º-A; Revoga Capítulo III
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982
+  date: '2017-04-04'
+- type: amended_by
+  target: pt:dre:120696372:por
+  label: Altera Artigo 34.º; Revoga Artigo 15.º; Revoga Artigo 15.º-A; Revoga Capítulo V; Revoga Artigo 33.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372
+  date: '2019-03-11'
+- type: amended_by
+  target: pt:dre:143527213:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2020-143527213
+  date: '2020-09-23'
+- type: cites
+  target: celex:31962R2015
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R1224
+  label: null
+  source: null
+- type: cites
+  target: celex:32011R0404
+  label: null
+  source: null
+- type: cites
+  target: celex:32015R1962
+  label: null
+  source: null
+article_structure:
+  article_count: 53
+  section_count: 10
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T11:45:40Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 278/87
+
+De acordo com a Lei n.º 33/77, de 28 de Maio, o Estado Português exerce soberania sobre uma extensão de mar territorial com a largura de 12 milhas e jurisdição sobre uma zona económica exclusiva de 200 milhas.
+
+Os deveres e direitos do Estado Português relativamente às áreas marítimas sob sua jurisdição, e sobre as quais exerce direitos soberanos, em especial no que se refere a recursos vivos, impõem, assim, a definição de um quadro legal apropriado de normas gerais que estabeleçam e repartam pelas diferentes entidades estatais as suas competências políticas e administrativas na matéria em causa e definam sistemas, estruturas e procedimentos apropriados.
+
+Por outro lado, a adesão de Portugal à Comunidade Económica Europeia significou a incorporação automática no direito interno das normas comunitárias (com precedência sobre as normas nacionais), em particular das medidas técnicas de gestão e conservação dos recursos da pesca, e alterou desde logo algumas normas constantes dos regulamentos nacionais.
+
+As alterações desde já introduzidas pela legislação comunitária e a necessidade de suster a séria degradação dos recursos da pesca que tem afectado o bom desenvolvimento das pescas nacionais tornam indispensável proceder a uma revisão profunda de toda a regulamentação nacional de pesca - incluindo aquelas normas que não foram por enquanto directamente afectadas pelos regulamentos comunitários - no sentido de as harmonizar e tornar coerentes com a legislação da Comunidade Económica Europeia e, mais do que isso, com o propósito de reunir as condições indispensáveis à melhoria e ao desenvolvimento das pescas portuguesas.
+
+Nestes termos:
+
+Ouvidos os órgãos de governo próprio das regiões autónomas:
+
+O Governo decreta, nos termos da alínea a) do n.º 1 do artigo 201.º da Constituição, o seguinte:
+
+### Capítulo I — Disposições gerais
+
+###### Artigo 1.º — Objecto
+
+O presente diploma tem por objecto a regulamentação do exercício da pesca marítima e da cultura de espécies marinhas, de modo a assegurar, mediante a definição de medidas adequadas à conservação e preservação a longo prazo, a gestão e o aproveitamento sustentável dos recursos da fauna e da flora existentes nas águas sob soberania e jurisdição portuguesas e que sejam, ou venham a ser, objecto de exploração pela pesca ou cultura para fins não só comerciais mas também científicos ou lúdicos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 1.º-A — Grandes princípios de orientação
+
+A actividade de exploração de recursos vivos marinhos desenvolver-se-á de acordo com os seguintes princípios básicos:
+
+a) O princípio da responsabilidade ou da pesca responsável, que implica a adopção de medidas adequadas à protecção do ambiente marinho e ao uso sustentável dos recursos vivos marinhos a longo prazo, tendo em conta os interesses legítimos das populações ou comunidades piscatórias, tanto das gerações actuais como vindouras, com relevo para as mais dependentes e, de entre estas, as que vivem em regiões onde as alternativas são escassas;
+
+b) O princípio da aproximação cautelosa ou precaucionária, traduzido na adopção de medidas cautelares de gestão que, tendo em devida conta quer a necessidade de prevenir situações que se revelem inaceitáveis para a perenidade do sector quer o grau de incerteza do conhecimento científico existente em cada momento, permitam assegurar uma elevada probabilidade para a auto-renovação dos recursos e a consequente sustentação das actividades no futuro;
+
+c) O princípio da equidade intergeracional, de acordo com o qual a actual geração deve respeitar condições que permitam assegurar às que se seguirem uma diversidade de recursos e níveis de abundância pesqueira pelo menos análogos aos herdados das gerações anteriores, mas tanto quanto possível melhorados;
+
+d) O princípio da igualdade e da não discriminação, que implica equidade no tratamento dos diferentes problemas, envolvendo eles o mesmo ou diferentes segmentos da frota nacional, bem como os respeitantes a diferentes bandeiras.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 2.º — Definições
+
+Para efeitos deste diploma e dos seus regulamentos entende-se por:
+
+a) 'Espécies marinhas' todos os animais ou plantas que passem na água salgada ou salobra uma parte significativa do seu ciclo de vida;
+
+b) 'Recursos marinhos' as espécies marinhas disponíveis para exploração durante a sua vida nos oceanos, mares, estuários, rias, lagoas costeiras e rios;
+
+c) 'Espécie-alvo' a espécie marinha à qual é primordialmente dirigida a pesca;
+
+d) 'Unidade populacional ou stock' o grupo de indivíduos da mesma espécie que partilha características biológicas e de comportamento;
+
+e) 'Pesca marítima', abreviadamente designada por 'pesca', a captura de espécies marinhas (quando feita manualmente, designa-se 'apanha');
+
+f) 'Pesca comercial' a captura de espécies marinhas que se destinem a ser objecto de comércio, sob qualquer forma, quer no estado em que foram extraídas quer após subsequente preparação, modificação ou transformação;
+
+g) 'Pesca lúdica' a captura de espécies marinhas, vegetais ou animais, sem fins comerciais, designando-se 'apanha' quando a recolha é manual;
+
+h) 'Embarcações de pesca' todas as embarcações utilizadas, directa ou indirectamente, na exploração comercial dos recursos biológicos marinhos ou que possam ser utilizadas como tal, tanto na pesca como na transformação ou no transporte de pescado e produtos deles derivados, com exclusão das embarcações que os transportem como carga geral;
+
+i) 'Culturas marinhas' as actividades que tenham por finalidade a reprodução, e ou o crescimento e engorda, a manutenção ou o melhoramento de espécies marinhas;
+
+j) 'Estabelecimentos de culturas marinhas' as instalações que tenham por finalidade a reprodução e ou o crescimento e engorda de espécies marinhas, qualquer que seja o tipo de estrutura que utilizem e o local que ocupem;
+
+l) 'Estabelecimentos conexos' as instalações destinadas à manutenção temporária em vida de espécies marinhas ou ao seu tratamento hígio-sanitário, tais como os depósitos, centros de depuração e centros de expedição;
+
+m) 'Depósitos' as instalações não integradas em complexo produtivo onde se pratica a estabulação transitória de espécies marinhas provenientes da aquicultura ou da pesca que aguardam a entrada nos circuitos comerciais;
+
+n) 'Centros de depuração' as instalações onde se promove uma melhoria da qualidade das espécies marinhas, durante o tempo necessário à eliminação de contaminantes microbiológicos, tornando-as salubres para o consumo humano;
+
+o) 'Centros de expedição' as instalações reservadas à recepção, limpeza, calibragem e adequado acondicionamento de produtos provenientes da aquicultura ou da pesca;
+
+p) 'SIFICAP' o sistema integrado de informação relativa à actividade da pesca, constituído por uma rede de comunicação e tratamento informático de dados, que, no âmbito de acções coordenadas de inspecção, vigilância e controlo, são obtidos pelos órgãos e serviços dos Ministérios da Defesa Nacional, das Finanças, da Administração Interna, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, com a finalidade de contribuir para uma melhor defesa, conservação e gestão dos recursos piscatórios;
+
+q) 'MONICAP' o sistema de monitorização contínua da actividade da pesca baseado em tecnologias de telecomunicações e em informação geográfica, permitindo acompanhar a actividade das embarcações de pesca, incluindo pela representação gráfica sobre carta digitalizada;
+
+r) 'EMC' os equipamentos de monitorização contínua instalados nas embarcações de pesca, também designados, no seu conjunto, 'caixa azul'.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 2.º-A — Natureza das medidas
+
+1 - As medidas de conservação e gestão dos recursos vivos marinhos devem assentar na melhor informação científica disponível sobre as espécies e ou unidades populacionais e ter em consideração quer os aspectos de natureza biológica ambiental, quer os respeitantes aos factores sociais e económicos, entre os quais se salientam:
+
+a) Respeitar o conceito de unidade populacional ou stock e a sua distribuição;
+
+b) Ter em devida conta as relações de interdependência das diversas espécies e ou populações e entre estas e o ambiente em que vivem e de que dependem;
+
+c) Recorrer a uma estratégia de aproximação cautelosa sempre que o conhecimento existente seja escasso, ou quando a margem de erro tende a ser elevada, de modo a reduzir os impactes negativos da pesca e da aquicultura sobre os recursos e o ambiente.
+
+2 - As medidas de conservação e gestão devem ser periodicamente reapreciadas em função de novos ou mais actualizados conhecimentos, ser compatíveis entre si e coerentes com o objectivo de preservação dos recursos e consequente sustentabilidade a longo prazo da pesca e da aquicultura.
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+### Capítulo II — Do exercício da pesca
+
+###### Artigo 3.º — Limites legais ao exercício da pesca
+
+1 - O exercício da pesca em águas sob soberania e jurisdição nacionais e por embarcações nacionais em águas não submetidas a soberania e jurisdição nacionais está sujeito aos regulamentos aplicáveis da Comunidade Europeia e às disposições do presente diploma e seus regulamentos, bem como às dos instrumentos internacionais a que Portugal esteja vinculado.
+
+2 - Em qualquer caso, é sempre proibido manter a bordo, transportar, transbordar, desembarcar, armazenar, expor ou vender espécies marinhas cuja pesca não esteja autorizada ou cujos tamanhos ou pesos mínimos não se conformem com o legalmente estabelecido.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 4.º — Condicionamentos ao exercício da pesca
+
+1 - Sempre que os regulamentos da Comunidade Europeia o permitam ou imponham, compete ao Governo, por via de regulamentação adequada, estabelecer condicionamentos ao exercício da pesca e prever os critérios e condições para a sua aplicação, com vista a adequar a pesca ao estado ou condição dos recursos disponíveis e sua relativa abundância, assegurando, de modo responsável, a sua conservação e gestão.
+
+2 - A regulamentação referida no n.º 2 do artigo anterior pode estabelecer, nomeadamente, os seguintes condicionamentos, prevendo as condições e critérios para a sua aplicação:
+
+a) Sujeição a autorização prévia para aquisição, construção e modificação de embarcações de pesca a registar ou registadas em portos nacionais;
+
+b) Sujeição das actividades das embarcações de pesca e da utilização de artes e outros instrumentos de pesca a regimes de autorização e licenciamento, bem como à fixação do número máximo de autorizações e licenças;
+
+c) Classificação e delimitação das áreas e definição das condições de operação das embarcações de pesca, bem como dos respectivos requisitos;
+
+d) Interdição ou restrição do exercício da pesca em certas áreas, ou por certos períodos, ou de certas espécies, ou para embarcações com certas características, ou com certas artes e instrumentos;
+
+e) Fixação de condições de utilização das artes e instrumentos de pesca;
+
+f) Classificação e definição dos tipos e características das artes, tais como dimensões, materiais, modo de confecção, malhagem e características dos fios das redes;
+
+g) Limitação do volume de capturas de unidades populacionais de certas espécies pela fixação de máximos de captura autorizados e respectiva repartição por segmentos de frota ou por licença de pesca dentro de um mesmo segmento;
+
+h) Fixação da percentagem de capturas acessórias nos casos de pesca dirigida a certas espécies, bem como na actividade de certas artes de pesca;
+
+i) Fixação do tamanho ou peso mínimo dos indivíduos de unidades populacionais das espécies susceptíveis de captura.
+
+j) Proibição de manter a bordo, transbordar, desembarcar, transportar, vender, armazenar, expor ou colocar à venda espécies marinhas cuja pesca não esteja autorizada ou cujos tamanhos ou pesos mínimos não se conformem com os legalmente estabelecidos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 5.º — Restrições ao exercício da pesca por outros motivos
+
+O Governo pode estabelecer, a título permanente ou temporário, restrições ao exercício da pesca por motivos de saúde pública, de defesa do ambiente, de segurança e normal circulação da navegação, ou por outros motivos de interesse público.
+
+###### Artigo 6.º — Exercício da pesca por embarcações estrangeiras
+
+É proibido o exercício da pesca por embarcações estrangeiras em águas sob soberania e jurisdição nacionais, salvo nas condições e dentro dos limites previstos na regulamentação comunitária.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 7.º — Regime da pesca sem fins comerciais
+
+O exercício da pesca apenas com fins lúdicos será regulado por diploma próprio, que assegurará que tais actividades não prejudiquem a pesca comercial e não comprometam a conservação e gestão dos recursos, podendo determinar a aplicação de todos ou parte dos condicionamentos previstos neste diploma e seus regulamentos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 8.º — Competência para a concessão de autorizações
+
+1 - Sem prejuízo do disposto no artigo 34.º, as autorizações referidas nas alíneas a) e b) do artigo 4.º são da competência do membro do Governo que tiver a seu cargo o sector das pescas.
+
+2 - Os pedidos para a concessão das autorizações previstas no número anterior deverão estar conformes às políticas nacional e da Comunidade Europeia, nomeadamente em matérias relativas às estruturas produtivas e à conservação e gestão dos recursos pesqueiros.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 9.º — Afretamento de embarcações de pesca
+
+1 - Sem prejuízo do disposto no artigo 34.º, o afretamento de embarcações de pesca estrangeiras, por pessoas singulares ou colectivas nacionais ou de um Estado membro da União Europeia ou ainda de um Estado parte do Acordo Económico Europeu, para o exercício da pesca está sujeito a autorização do membro do Governo que tiver a seu cargo o sector das pescas.
+
+2 - O afretamento referido no número anterior só pode ser autorizado quando vise:
+
+a) Substituir temporariamente uma embarcação cuja construção ou modificação já esteja autorizada, desde que apresente características de pesca idênticas;
+
+b) Experimentar novos tipos de embarcações ou novas artes e técnicas de pesca ou explorar novas áreas de operação.
+
+3 - As espécies capturadas pelas embarcações afretadas assim como os produtos resultantes da transformação daquelas efectuada a bordo das referidas embarcações são considerados de origem nacional.
+
+4 - As embarcações afretadas ficam sujeitas às disposições legais aplicáveis às embarcações de pesca nacionais.
+
+5 - O afretamento de embarcações de pesca nacionais fica igualmente sujeito a autorização do membro do Governo que tiver a seu cargo o sector das pescas, com duração de um ano, renovável por iguais períodos.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 10.º — Repartição de quotas, licenças de pesca e máximos de captura autorizados
+
+1 - Sempre que as actividades das embarcações de pesca nacionais estejam sujeitas a limitações de volumes de captura resultantes da fixação de quotas, ou de máximos de captura autorizados, ou de número limitado de licenças disponíveis, o membro do Governo que tiver a seu cargo o sector das pescas repartirá pelo conjunto das embarcações registadas nos portos de cada uma das parcelas do território nacional, continente, Região Autónoma da Madeira e Região Autónoma dos Açores, tendo em conta, nomeadamente, a localização dos pesqueiros e recursos exploráveis, bem como o número das embarcações, suas características e zonas de actuação habitual:
+
+a) As quotas e licenças atribuídas a Portugal pela Comunidade Europeia;
+
+b) As quotas e licenças atribuídas a Portugal no âmbito de instrumentos internacionais a que esteja vinculado;
+
+c) Os máximos de captura de unidades populacionais de certas espécies, fixados nos termos da alínea g) do artigo 4.º
+
+2 - A repartição de partes das quotas, ou de máximos de captura autorizados por embarcações, ou grupos de embarcações registadas nos portos do continente, bem como a atribuição das respectivas licenças, é da competência do membro do Governo que tiver a seu cargo o sector das pescas, aplicando-se, quanto às embarcações registadas nos portos das Regiões Autónomas, o disposto no artigo 34.º
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+### Capítulo III — Das culturas marinhas
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05
+
+###### Artigo 11.º — Regime de autorização
+
+1 - A instalação de estabelecimentos de culturas marinhas que utilizem águas salgadas ou salobras e de estabelecimentos conexos e, bem assim, de qualquer actividade de cultura de espécies marinhas praticadas naqueles estabelecimentos está sujeita a autorização a conceder pelo director-geral das Pescas e Aquicultura.
+
+2 - O regime de utilização privativa de áreas do domínio hídrico para efeitos de instalação dos estabelecimentos previstos no número anterior rege-se pelo disposto nos Decretos-Leis n.os 468/71, de 5 de Novembro, e 46/94, de 22 de Fevereiro.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 12.º — Licenciamento
+
+A exploração dos estabelecimentos de culturas marinhas e conexos está sujeita a licenciamento a conferir pelo director-geral das Pescas e Aquicultura.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 12.º-A — Regulamentação
+
+Os requisitos e condições relativos à instalação e à exploração dos estabelecimentos previstos nos artigos 11.º e 12.º, bem como às condições de transmissão e cessação das autorizações e das licenças, são estabelecidos por diploma específico.
+
+> Revogado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+### Capítulo IV — Dos registos e informação
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 13.º — Registos de actividade
+
+1 - Sem prejuízo do disposto no artigo 34.º, para além dos registos da actividade da pesca previstos nos regulamentos da Comunidade Europeia, o Governo poderá estabelecer, através de diploma próprio, outros registos obrigatórios das actividades de pesca e das culturas marinhas, para fins de informação e controlo.
+
+2 - Os registos obrigatórios mencionados no número anterior integrarão o banco nacional de dados para as pescas, gerido pela Direcção-Geral das Pescas e Aquicultura (DGPA).
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 14.º — Regime de informação recíproca entre o Governo e as Regiões Autónomas
+
+Tendo em vista a definição das políticas de pesca, bem como o cumprimento das obrigações do Estado emergentes dos actos comunitários no domínio da política comum das pescas, deverão ser observadas, entre o Governo e as Regiões Autónomas, as seguintes regras de informação recíproca:
+
+a) Os órgãos de governo próprio das Regiões Autónomas darão conhecimento ao membro do Governo que tiver a seu cargo o sector das pescas dos actos relativos às matérias reguladas no presente diploma, bem como das descargas de pescado efectuadas em portos da Região, nomeadamente da composição por espécies e do respectivo peso e valor;
+
+b) O Governo comunicará aos órgãos de governo próprio das Regiões Autónomas todas as informações de que disponha relativas às descargas de pescado efectuadas em portos do continente e estrangeiros, nomeadamente as provenientes de capturas realizadas em águas sob soberania e jurisdição nacional, abrangidas pelas Regiões, sua composição específica e respectivo peso e valor, bem como aos actos relativos às matérias reguladas no presente diploma, sempre que solicitadas pelos órgãos de governo próprio das Regiões Autónomas.
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 15.º — Fiscalização de actividades
+
+1 - A fiscalização das actividades de captura, desembarque, cultura e comercialização das espécies marinhas, no âmbito da defesa, conservação e gestão dos recursos, é coordenada a nível nacional pela Inspecção-Geral das Pescas, nos termos do artigo 15.º-A, competindo a sua execução aos órgãos e serviços dos Ministérios da Defesa Nacional, das Finanças, da Administração Interna, da Economia, da Agricultura, do Desenvolvimento Rural e das Pescas e do Ambiente, no âmbito das atribuições e competências que lhes estejam legalmente conferidas relativamente à inspecção, vigilância e controlo.
+
+2 - Os órgãos e serviços referidos no número anterior levantarão o respectivo auto de notícia, tomando, de acordo com a lei geral, as necessárias medidas cautelares quando, no exercício das suas funções, verificarem ou comprovarem pessoal e directamente, ainda que por forma não imediata, a prática de qualquer contra-ordenação prevista neste diploma, remetendo-o às entidades competentes para investigação e instrução dos processos, no caso de tal competência não lhes estar atribuída.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 15.º-A — Autoridade nacional de pesca
+
+No âmbito da defesa, conservação e gestão dos recursos, compete à Inspecção-Geral das Pescas, na qualidade de autoridade nacional de pesca, programar, coordenar e executar, em colaboração com outros organismos e instituições dotados de poderes de vigilância, fiscalização e controlo da pesca, da aquicultura e das actividades conexas, as acções de controlo da pesca, prevenindo e sancionando o incumprimento das normas nacionais, comunitárias e internacionais.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+### Capítulo V — Da fiscalização e da responsabilidade contra-ordenacional
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+#### Secção I — Princípios gerais
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+###### Artigo 16.º — Legislação subsidiária
+
+Em tudo o que não se encontrar especialmente regulado no presente diploma é aplicável o regime geral das contra-ordenações.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 17.º — Punibilidade da negligência e da tentativa
+
+1 - A negligência é sempre punível.
+
+2 - A tentativa é punível nas contra-ordenações previstas no artigo 21.º-A, sendo os limites mínimos e máximos previstos no correspondente tipo legal reduzidos a metade.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 18.º — Responsabilidade por actuação em nome de outrem
+
+1 - Quem agir voluntariamente como órgão, membro ou representante de uma pessoa colectiva, de sociedade, ainda que irregularmente constituída, ou de mera associação de facto, ou ainda em representação legal ou voluntária de outrem, será punido mesmo quando o tipo legal de contra-ordenação exija:
+
+a) Determinados elementos pessoais e estes só se verifiquem na pessoa do representado;
+
+b) Que o agente pratique o facto no seu próprio interesse e o representante actue no interesse do representado.
+
+2 - O disposto no número anterior vale ainda que seja ineficaz o acto jurídico fonte dos respectivos poderes.
+
+3 - As pessoas colectivas, sociedades e outras entidades referidas no n.º 1 respondem solidariamente, nos termos da lei civil, pelo pagamento das coimas em que forem condenados os agentes das infracções previstas no presente diploma, nos termos dos números anteriores.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 19.º — Responsabilidade das pessoas colectivas e equiparadas
+
+1 - As pessoas colectivas, sociedades e meras associações de facto são responsáveis pelas infracções quando cometidas pelos seus órgãos ou representantes em seu nome ou no interesse colectivo.
+
+2 - A responsabilidade é excluída quando o agente tiver actuado contra ordens ou instruções expressas de quem de direito.
+
+3 - Sem prejuízo do disposto no n.º 3 do artigo anterior, a responsabilidade das entidades referidas no n.º 1 não exclui a responsabilidade individual dos respectivos agentes.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 20.º — Montante das coimas
+
+1 - Às contra-ordenações referidas no artigo 16.º são aplicáveis coimas entre 10000$00 e 5000000$00.
+
+2 - As coimas aplicáveis às pessoas colectivas e equiparadas nos termos do artigo anterior podem elevar-se até ao triplo do máximo previsto para a respectiva contra-ordenação, em caso de dolo, e até ao dobro, em caso de negligência.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 21.º — Destino da receita das coimas
+
+1 - O produto das coimas previstas neste diploma e respectiva legislação complementar reverte, transitoriamente, em 60% para os cofres do Estado, percentagem que será afecta a um fundo de compensação salarial, a criar no prazo de um ano.
+
+2 - Os restantes 40% constituem receita dos serviços e organismos do Ministério da Defesa Nacional com responsabilidade em matéria de fiscalização da actividade da pesca, excepto quando a aplicação das coimas for da competência do inspector-geral das Pescas, caso em que constituirá receita, nas percentagens a seguir indicadas, das seguintes entidades:
+
+a) 30% para a entidade que levantar o auto de notícia;
+
+b) 30% para a entidade que proceder à instrução do processo;
+
+c) 40% para a IGP.
+
+3 - A distribuição pelas instituições do Ministério da Defesa Nacional com responsabilidades em matéria de fiscalização da pesca das receitas que lhes são consignadas nos termos do número anterior é da competência do Ministro da Defesa Nacional.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 218/91 - Diário da República n.º 136/1991, Série I-A de 1991-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/218-1991-658904), em vigor a partir de 1991-06-22
+
+###### Artigo 21.º-A — Das contra-ordenações
+
+1 - Constitui contra-ordenação punível com coima de 150000$00 a 10000000$00 o exercício da pesca sem para tal dispor da licença de pesca exigida.
+
+2 - Constitui contra-ordenação punível com coima de 120000$00 a 7500000$00:
+
+a) Utilizar ou manter a bordo em condições que permitam a sua utilização artes de pesca proibidas ou não licenciadas;
+
+b) Utilizar ou manter a bordo em condições que permitam a sua utilização artes de pesca cuja malhagem seja inferior aos mínimos estabelecidos ou fixar dispositivos ou sistemas que possam obstruir ou reduzir essas malhagens;
+
+c) Utilizar ou manter a bordo em condições que permitam a sua utilização artes de pesca cujo número, dimensões ou características técnicas violem as normas estabelecidas;
+
+d) Exercer a pesca em áreas proibidas ou temporariamente vedadas ao seu exercício;
+
+e) Exercer a pesca nos períodos em que a mesma seja proibida;
+
+f) Exercer a pesca a distâncias da costa ou de outros pontos de referência ou em profundidades inferiores ao legalmente estabelecido para o tipo das artes utilizadas;
+
+g) Operar com embarcações aquém do limite interior das respectivas áreas de operação legalmente fixadas;
+
+h) Manter a bordo, deter, transportar ou exercer a pesca com armas de fogo, substâncias explosivas, venenosas, tóxicas, descargas eléctricas ou por outros processos susceptíveis de causar a morte ou o atordoamento dos espécimes, bem como lançar ao mar quaisquer objectos ou substâncias susceptíveis de prejudicar o meio marinho;
+
+i) Medir e esticar cabos, ou simplesmente dispará-los de bordo ou rebocá-los, lavar redes e rocegar, em áreas onde a captura é proibida ou está temporariamente interdita;
+
+j) Ultrapassar os limites de captura legalmente fixados por totais admissíveis de capturas (TAC) e quotas;
+
+l) Subdeclarar ou sobredeclarar capturas de espécies sujeitas a TAC e quotas no preenchimento dos registos de bordo;
+
+m) Relativamente às embarcações legalmente obrigadas a dispor de equipamentos de monitorização contínua (EMC), exercer a pesca sem EMC, com EMC não certificado nos termos legais, com EMC não operacional ou desligado ou durante os períodos de proibição do exercício da actividade de pesca por inoperacionalidade do EMC, e, bem assim, a inobservância da obrigatoriedade de imediato regresso a um porto, no caso de proibição do exercício da actividade de pesca por inoperacionalidade do EMC;
+
+n) Praticar a pesca com equipamento de mergulho autónomo ou semiautónomo, excepto quando se trate da apanha de algas;
+
+o) Não permanecerem as embarcações em porto durante os períodos de paragem obrigatória estabelecidos por lei ou regulamento;
+
+p) Manter a bordo, transbordar, desembarcar, transportar, armazenar, expor ou vender peixes, crustáceos e moluscos cuja pesca seja proibida ou que não tenham o tamanho ou o peso mínimos exigidos;
+
+q) (Revogada);
+
+r) (Revogada);
+
+3 - Constitui contra-ordenação punível com coima de 50000$00 a 5000000$00:
+
+a) Exercer a pesca com embarcações de potência propulsora superior à legalmente fixada para o tipo de pesca ou artes de pesca para as quais estão licenciadas;
+
+b) Não respeitar as normas previstas na lei para o exercício da pesca com auxílio de embarcações, sem prejuízo do disposto nas alíneas e) e f) do número anterior;
+
+c) Operar com embarcações cujas dimensões ou características técnicas não obedeçam às normas estabelecidas;
+
+d) Não deter autorização para manter a bordo, devidamente estivadas, determinadas artes de pesca, no caso de embarcações nacionais não licenciadas para a pesca ou para a utilização dessas artes em águas sob soberania e jurisdição nacionais;
+
+e) Deter, transportar, depositar ou abandonar no mar, nos cais, no molhe ou nas margens artes de pesca proibidas, não licenciadas ou apresentando malhagens ou qualquer outra característica técnica que não se conforme com o legalmente estabelecido;
+
+f) Abandonar no mar ou manter em operação artes de pesca por tempo superior ao fixado;
+
+g) Exercer a pesca com recurso a práticas de pesca proibidas, tais como 'bater' nas águas ('batuque'), 'valar águas', 'socar', 'lançar pedras', 'percutir' ou usar práticas semelhantes;
+
+h) Utilizar fontes luminosas para efeitos de concentração artificial de pescado, em desconformidade com o legalmente estabelecido;
+
+i) Exercer a pesca fora dos períodos diários que estejam legalmente fixados;
+
+j) Exercer a pesca em zonas consideradas insalubres ou que por qualquer motivo possam originar perigo para a saúde pública;
+
+l) Manter a bordo espécies capturadas em percentagens ou quantidades superiores às legalmente fixadas;
+
+m) Não efectuar as comunicações legalmente estabelecidas ou efectuar comunicações incorrectas, nomeadamente as relativas a mudanças de zona de pesca e às quantidades e qualidades de pescado que mantêm a bordo;
+
+n) Não ter a bordo das embarcações ou não facultar para verificação o diário de pesca ou outros registos obrigatórios, bem como os planos ou descrições actualizadas dos porões;
+
+o) Não preencher ou preencher incorrecta ou deficientemente o diário de pesca ou a declaração de descarga;
+
+p) Não inscrever no diário de pesca espécies de registo obrigatório;
+
+q) Preencher, antes da descarga, a respectiva declaração;
+
+r) Preencher os registos obrigatórios com uma variação em peso vivo superior a 20%, por excesso ou por defeito, entre o peso à descarga e a estimativa de captura;
+
+s) (Revogada).
+
+4 - Constitui contra-ordenação punível com coima de 30000$00 a 1000000$00:
+
+a) Usar artes de pesca sem respeitar as regras de utilização legalmente estabelecidas, nomeadamente quanto às manobras e locais de calagem, distâncias relativamente a outras artes, condições gerais de largada e alagem e sistemas de fixação;
+
+b) Utilizar artes, utensílios ou acessórios de pesca que não estejam e não se mantenham sinalizados e identificados de acordo com as disposições aplicáveis, bem como não respeitar as normas de sinalização das fases da faina da pesca;
+
+c) Exercer a pesca em locais proibidos, nos termos da legislação aplicável, por motivos específicos, ainda que não relacionados com a conservação de recursos, nomeadamente por razões de segurança e de tráfego marítimo;
+
+d) Efectuar a bordo de embarcações de pesca quaisquer transformações físicas ou químicas do pescado não expressamente autorizadas;
+
+e) Exercer a pesca sem ser portador da respectiva licença;
+
+f) Não efectuar a entrega em devido tempo do diário de pesca ou da declaração de descarga;
+
+g) Utilizar ovas de peixe como isco ou engodo;
+
+h) Não cumprir as normas legais relativas às estruturas e equipamentos dos estabelecimentos de culturas marinhas e conexos;
+
+i) Transmitir estabelecimentos de culturas marinhas ou conexos sem autorização;
+
+j) Não comunicar no prazo previsto o início e a conclusão das obras de instalação dos estabelecimentos de culturas marinhas e conexos;
+
+l) (Revogada);
+
+m) (Revogada);
+
+n) (Revogada).
+
+5 - Tratando-se de pessoas colectivas, os limites máximos das coimas constantes dos n.os 1 a 4 são elevados, respectivamente, para os montantes de 50000000$00, 25000000$00, 15000000$00 e 5000000$00.
+
+6 - Os montantes das coimas estabelecidos nos n.os 1 a 4 poderão ser reduzidos a metade sempre que as infracções sejam praticadas com embarcações de convés aberto ou sem auxílio de embarcações.
+
+7 - Se o mesmo facto constituir simultaneamente crime e contra-ordenação, será o agente punido a título de crime, sem prejuízo das sanções acessórias previstas para a contra-ordenação.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 47.º do/a [Decreto-Lei n.º 40/2017 - Diário da República n.º 67/2017, Série I de 2017-04-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40-2017-106824982), em vigor a partir de 2017-04-05
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 21.º-B — Determinação da medida da coima
+
+A determinação da medida da coima faz-se em função da gravidade da contra-ordenação, da culpa, da situação económica do agente e do benefício económico que este retirou da prática da infracção, bem como dos antecedentes do infractor relativamente ao não cumprimento das disposições do presente diploma e dos seus regulamentos.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 21.º-C — Pagamento voluntário
+
+1 - No caso de se tratar de infractor sem qualquer antecedente no respectivo registo individual, poderá este proceder ao pagamento voluntário pelo mínimo legal da coima prevista para a respectiva infracção, até ao limite do prazo que lhe vier a ser fixado para o exercício do direito de audição e defesa.
+
+2 - O pagamento voluntário da coima não exclui a possibilidade de aplicação de sanções acessórias.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 22.º — Sanções acessórias
+
+1 - Sem prejuízo do disposto no n.º 3, poderão ser aplicadas, em simultâneo com a coima, uma ou mais das sanções acessórias a seguir enumeradas, em função da gravidade da infracção e da culpa do agente:
+
+a) Perda das artes de pesca ou de outros instrumentos utilizados na prática da contra-ordenação;
+
+b) Perda dos produtos provenientes da pesca ou das culturas resultantes da actividade contra-ordenacional, ainda que aqueles tenham sido alienados ou, estando na posse de terceiros, estes conhecessem ou devessem razoavelmente conhecer as circunstâncias determinantes da possibilidade da perda;
+
+c) Interdição de exercer a profissão ou actividades relacionadas com a contra-ordenação;
+
+d) Privação da atribuição de subsídios ou outros benefícios outorgados ou a outorgar por entidades ou serviços públicos, no âmbito da actividade pesqueira e aquícola;
+
+e) Suspensão da licença de pesca;
+
+f) Privação da atribuição da licença de pesca;
+
+g) Encerramento dos estabelecimentos de culturas marinhas ou conexos;
+
+h) Devolução dos espécimes de culturas, apanhados, capturados, transportados ou transaccionados ao local de obtenção ou ao seu legítimo detentor.
+
+2 - As sanções referidas nas alíneas c), e) e g) têm a duração mínima de 15 dias e a duração máxima de um ano, no caso da alínea e), e de dois anos no das alíneas c) e g).
+
+3 - A sanção prevista na alínea d) tem a duração mínima de um ano e a máxima de dois anos e na alínea f) tem a duração mínima de 90 dias e a máxima de dois anos.
+
+4 - A sanção prevista na alínea a) do n.º 1 só pode ser decretada quando as artes de pesca ou outros instrumentos serviram ou estavam destinados a servir para a prática da contra-ordenação.
+
+5 - Quando a decisão condenatória definitiva proferida em processo por contra-ordenação declarar a perda de bens a favor do Estado, a entidade com competência para decidir pode determinar a sua afectação a outras entidades públicas ou instituições privadas de solidariedade social, por motivos de interesse público.
+
+6 - Sempre que os bens apreendidos respeitem a artes e apetrechos de pesca, devem os mesmos ser afectos ao Instituto de Investigação das Pescas e do Mar, ou às direcções regionais competentes das Regiões Autónomas, de acordo com o local em que tenham sido apreendidos, salvo se não estiverem interessados, caso em que se observará o disposto no número seguinte.
+
+7 - Sem prejuízo do disposto nos números anteriores, serão destruídos os bens declarados perdidos a título de sanção acessória que não estiverem em conformidade com os requisitos ou características legalmente estabelecidos.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 22.º-A — Infrações graves e aplicação de pontos
+
+1 - São suscetíveis de ser qualificadas como infrações graves, as contraordenações previstas nos n.os 1, 2 e 3 do artigo 21.º-A, nos termos previstos no Anexo ao presente Decreto-Lei e do qual faz parte integrante.
+
+2 - A qualificação referida no número anterior tem em conta um ou mais dos seguintes critérios:
+
+a) O facto de a conduta ter sido praticada em área classificada, bem como o dano significativo aos recursos e ou ao ambiente marinho;
+
+b) A repetição da conduta contraordenacional;
+
+c) O valor do benefício económico retirado com a prática da conduta seja superior a metade do limite máximo da coima aplicável;
+
+d) A coação, a falsificação, as falsas declarações, a simulação ou outro meio fraudulento utilizado pelo agente, bem como a existência de atos de ocultação ou dissimulação tendentes a dificultar a descoberta da contraordenação.
+
+3 - A qualificação de uma infração como grave determina a aplicação dos pontos previstos no anexo ao presente decreto-lei.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 22.º-B — Imputação dos pontos
+
+1 - Os pontos a que se refere o artigo anterior são imputados à licença de pesca da embarcação utilizada na prática da contraordenação.
+
+2 - No caso de transmissão da propriedade ou de afretamento da embarcação de pesca, os pontos já aplicados mantêm-se na respetiva licença de pesca da embarcação.
+
+3 - O pedido de autorização de aquisição ou de afretamento da embarcação deve ser acompanhado de um certificado do número de pontos aplicados à licença da embarcação em causa por forma a assegurar que o interessado na aquisição ou no afretamento tem conhecimento dos pontos aplicados.
+
+4 - O certificado referido no número anterior é requerido pelo interessado na venda ou no afretamento da embarcação de pesca e junto ao respetivo pedido de autorização.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 22.º-C — Da aplicação e da anulação de pontos
+
+1 - A condenação por duas ou mais contraordenações qualificadas como infrações graves, detetadas na mesma ação de inspeção, determina o registo dos pontos correspondentes a cada uma, até ao limite máximo de 12 pontos.
+
+2 - São retirados dois pontos do número total de pontos aplicado à licença de pesca da embarcação, quando superiores a dois, caso se verifique uma das seguintes condições:
+
+a) Utilização do sistema VMS ou de registo e transmissão, por via eletrónica, dos dados do diário de pesca e dos dados da declaração de transbordo e de descarga, se a tal não estiver legalmente obrigado;
+
+b) Participação em campanha de caráter científico destinada a melhorar a seletividade das artes de pesca;
+
+c) Execução de um plano de pesca adotado por uma organização de produtores da qual seja membro, que envolva para o titular da licença uma redução de pelo menos 10 % das possibilidades de pesca;
+
+d) Participação em pescaria abrangida por um regime de rótulo ecológico concebida para certificar e promover a rotulagem de produtos provenientes de capturas centradas na utilização sustentável dos recursos haliêuticos.
+
+3 - A embarcação com licença de pesca só pode beneficiar do disposto no número anterior uma única vez, em cada período de três anos, contados a partir da data da prática da última contraordenação qualificada como infração grave e desde que tal benefício não implique a anulação da totalidade dos pontos aplicados.
+
+4 - Em caso de anulação de pontos nos termos do n.º 2, o proprietário ou o afretador da embarcação com licença de pesca, consoante o caso, é informado sobre os pontos anulados e sobre os pontos remanescentes.
+
+5 - São, ainda, anulados todos os pontos aplicados à licença de pesca da embarcação que não cometam outra contraordenação qualificada como infração grave, no prazo de três anos, contados a partir da data da prática da última contraordenação qualificada como tal.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 22.º-D — Efeitos da aplicação de pontos
+
+Quanto aos efeitos da aplicação de pontos, rege o disposto nos artigos 129.º e seguintes do Regulamento de Execução (UE) n.º 404/2011, da Comissão, de 8 de abril de 2011, alterado pelo Regulamento de Execução (UE) n.º 2015/1962, da Comissão, de 28 de abril de 2015.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 22.º-E — Imputação de pontos aos capitães de embarcações de pesca
+
+1 - Aos capitães de embarcações de pesca condenados pela prática de uma contraordenação qualificada como infração grave são aplicados os pontos nos termos do disposto no artigo 22.º-A.
+
+2 - Aos capitães da embarcação de pesca é suspenso o exercício da atividade de pesca pela acumulação de pontos, nos seguintes termos:
+
+a) 30 pontos - 2 meses;
+
+b) 70 pontos - 4 meses;
+
+c) 100 pontos - 8 meses;
+
+d) A partir de 130 pontos - 12 meses.
+
+3 - No caso de suspensão do exercício da atividade nos termos das alíneas a) a c) do número anterior, os pontos que determinaram a suspensão não são retirados e os novos pontos, cuja aplicação resulta da prática de nova contraordenação qualificada como infração grave, são aditados aos pontos já aplicados.
+
+4 - Findo o prazo de suspensão previsto na alínea d) do n.º 2 e desde que o capitão da embarcação tenha, no decurso daquele prazo, realizado uma ação de formação adequada por entidade certificada para o efeito, promovida pela DGRM enquanto autoridade nacional da pesca, são anulados todos os pontos que constam do respetivo registo.
+
+5 - São anulados os pontos aplicados aos capitães de embarcações de pesca que não cometam outra contraordenação qualificada como infração grave, no prazo de três anos contados a partir da data da prática da última contraordenação qualificada como tal.
+
+6 - No caso das embarcações com comprimento fora-a-fora até 12 metros, sendo o capitão simultaneamente proprietário da embarcação com licença de pesca, só são aplicados pontos, pela prática de contraordenação qualificada como infração grave, ao capitão.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 22.º-F — Direito subsidiário
+
+Em tudo o que não encontrar disposto no presente Decreto-Lei, aplicam-se subsidiariamente as disposições do Regulamento (CE) n.º 1224/2009, do Conselho, de 20 de novembro de 2009, alterado pelos Regulamentos (UE) n.os 1379/2013 e 1380/2013, do Parlamento Europeu e do Conselho, de 11 de dezembro de 2013, 1385/2013, do Conselho, de 17 de dezembro de 2013, 508/2014, do Parlamento Europeu e do Conselho, de 15 de maio de 2014 e 2015/812, do Parlamento Europeu e do Conselho, de 20 de maio de 2015, e no Regulamento de Execução (UE) n.º 404/2011, da Comissão, de 8 de abril de 2011, alterado pelo Regulamento de Execução (UE) 2015/1962, da Comissão, de 28 de abril de 2015.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+###### Artigo 23.º — Entidades competentes para a decisão e aplicação do sistema de pontos
+
+1 - Sem prejuízo dos números seguintes, a aplicação das coimas e sanções acessórias em matéria de pesca que digam respeito a infrações cometidas em águas sob soberania e jurisdição nacionais compete ao capitão do porto da capitania em cuja área ocorreu o facto ilícito ou ao capitão do porto de registo da embarcação, ou do primeiro porto em que esta entrar, consoante o que tiver procedido à instrução do respetivo processo de contraordenação.
+
+2 - Ao inspector-geral das Pescas compete a aplicação das coimas e sanções acessórias em matéria de pesca e culturas marinhas nas seguintes situações:
+
+a) Quando os factos ilícitos tenham sido detectados em embarcações atracadas em portos, bem como locais de descarga de pescado, lotas, postos de vendagem, áreas dos portos de pesca e em todos os locais ou estabelecimentos relevantes para o controlo do cumprimento das medidas de defesa, conservação e gestão de recursos piscatórios;
+
+b) No caso de o facto ilícito ter sido praticado em águas não sujeitas à jurisdição nacional e desde que a competência sancionatória não pertença a outro Estado;
+
+c) Quando as infracções cometidas no âmbito da actividade dos estabelecimentos de culturas marinhas e conexos digam respeito a instalações localizadas em áreas do domínio hídrico;
+
+d) Quando os factos ilícitos tenham sido detectados através do sistema de monitorização contínua de actividades da pesca (MONICAP).
+
+3 - Compete ao Diretor-Geral de Recursos Naturais, Segurança e Serviços Marítimos, sempre que estejam em causa contraordenações previstas no Anexo, suscetíveis de serem qualificadas como infrações graves, a aplicação de coimas e sanções acessórias, bem como aplicar o sistema de pontos, assegurando ainda a centralização do respetivo registo e informação.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+#### Secção II — Das contra-ordenações em especial
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+###### Artigo 24.º — Pesca exercida por embarcações estrangeiras
+
+Constitui contra-ordenação punível com coima entre 1000000$00 e 5000000$00 o exercício da pesca, por embarcações estrangeiras, em águas marítimas sob soberania e jurisdição nacionais:
+
+a) Por embarcações de Estados não membros da Comunidade Económica Europeia sem licenças de pesca ou em infracção aos termos e condições das licenças que lhes foram concedidas;
+
+b) Por embarcações de Estados membros da Comunidade Económica Europeia em infracção aos regulamentos comunitários, bem como às disposições do Tratado de Adesão à Comunidade que definam as regras de acesso às águas nacionais.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 25.º — Registo da actividade da pesca
+
+Constitui contra-ordenação punível com coima até 250000$00 a falta dos registos obrigatórios de actividade da pesca estabelecidos pela legislação comunitária ou pela legislação nacional, nomeadamente a falta de preenchimento ou o preenchimento viciado dos diários de pesca.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 26.º — Regime sancionatório especial das contra-ordenações
+
+Os regulamentos de execução do presente diploma definirão o regime sancionatório especial das infracções ao que neles for estabelecido e às disposições dos regulamentos da Comunidade Económica Europeia aplicáveis ao exercício da pesca marítima e das culturas marinhas.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 26.º-A — Auto de notícia
+
+1 - Quando qualquer autoridade ou agente da autoridade, no exercício das suas funções de fiscalização e controlo das actividades de pesca e culturas marinhas, presenciar a prática de uma contra-ordenação, levanta ou manda levantar auto de notícia, que mencionará os factos que constituem a infracção, o dia, a hora, o local e as circunstâncias em que foi cometida, o nome e a qualidade da autoridade ou agente de autoridade que a presenciou e tudo o que puder averiguar acerca da identificação dos agentes da infracção e, quando possível, de testemunhas que possam depor sobre os factos.
+
+2 - Quando a infracção se reportar a pessoas colectivas ou equiparadas, deverá indicar-se, sempre que possível, a sede social, bem como a identificação e residência dos sócios gerentes.
+
+3 - O auto de notícia é assinado pela autoridade ou agente da autoridade que o levantou ou mandar levantar e pelo infractor, se quiser assinar, devendo, em caso de recusa, tal facto constar do auto.
+
+4 - Do auto de notícia deverá ser dada cópia ao infractor.
+
+5 - Pode levantar-se um único auto de notícia por diferentes infracções cometidas na mesma ocasião ou relacionadas umas com as outras, embora sejam diversos os agentes.
+
+6 - O auto de notícia levantado nos termos dos números anteriores faz fé em juízo sobre os factos presenciados pelo autuante, até prova em contrário.
+
+7 - O disposto no número anterior aplica-se aos elementos de prova obtidos através de aparelhos, instrumentos ou equipamentos utilizados nos termos legais, nomeadamente os recolhidos através do sistema de monitorização contínua da actividade da pesca (MONICAP).
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 26.º-B — Denúncia
+
+1 - A autoridade ou agente da autoridade que tiver conhecimento, por denúncia, da prática de contra-ordenação prevista neste diploma lavra ou manda lavrar auto de notícia.
+
+2 - É correspondentemente aplicável, com as necessárias adaptações, o disposto no artigo anterior.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+#### Secção III — Do processo
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+###### Artigo 27.º — Entidades competentes para a investigação e instrução
+
+A investigação e instrução dos processos de contra-ordenações previstas neste diploma são da competência das entidades mencionadas no n.º 1 do artigo 15.º que levantarem o auto de notícia, no âmbito das atribuições que lhes estejam legalmente cometidas relativamente a inspecção, vigilância e polícia, sem prejuízo do disposto no n.º 2 do mesmo artigo.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 28.º — Medidas cautelares
+
+1 - Como medida cautelar pode ser ordenada a apreensão da embarcação, das artes de pesca, dos veículos, dos instrumentos e dos produtos provenientes da pesca ou das culturas marinhas se os mesmos serviram ou estavam destinados a servir para a prática de contra-ordenação ou dela tenham resultado e, bem assim, quaisquer outros que forem susceptíveis de servir de meios de prova.
+
+2 - As artes e apetrechos de pesca ilegais ou usados na prática da infracção ou quando não estejam identificados, bem como o pescado capturado ilegalmente, serão sempre cautelarmente apreendidos.
+
+3 - Enquanto os bens se mantiverem apreendidos, é permitido ao seu proprietário beneficiá-los ou conservá-los sob vigilância da autoridade à ordem da qual estiverem apreendidos, não sendo, todavia, esta responsável pelos prejuízos que possam resultar da falta de conveniente beneficiação ou conservação.
+
+4 - São ineficazes os negócios jurídicos que tenham por objecto bens apreendidos.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 29.º — Venda antecipada dos bens apreendidos
+
+1 - Os objectos apreendidos nos termos do artigo anterior, logo que se tornem desnecessários para a investigação ou instrução, poderão ser vendidos por ordem da entidade competente para a mesma, observando-se o disposto nos artigos 902.º e seguintes do Código de Processo Civil, desde que haja, relativamente a eles:
+
+a) Risco de deterioração;
+
+b) Conveniência de utilização imediata para abastecimento do mercado;
+
+c) Requerimento do respectivo dono ou detentor para que estes sejam alienados.
+
+2 - Verificada alguma das circunstâncias referidas no número anterior em qualquer outro momento do processo, a ordem de venda caberá às entidades competentes para aplicação da coima ou ao tribunal.
+
+3 - Quando, nos termos do n.º 1, se proceda à venda de bens apreendidos, a entidade competente tomará as providências adequadas de modo a evitar que a venda ou o destino dado a esses bens sejam susceptíveis de originar novas infracções.
+
+4 - O produto da venda será depositado na Caixa Geral de Depósitos, à ordem da entidade que a determinou, a fim de ser entregue, por simples termo nos autos e sem quaisquer encargos, a quem a ele tenha direito, ou dar entrada nos cofres do Estado, se for decidida a perda a favor deste.
+
+5 - Serão inutilizados os bens apreendidos, sempre que não seja possível aproveitá-los sem violação do disposto neste diploma.
+
+6 - Quando razões de economia nacional o justifiquem e não haja prejuízo para a saúde do consumidor, o membro do Governo que tiver a seu cargo o sector das pescas poderá determinar que os bens apreendidos sejam aproveitados para os fins e nas condições que estabelecer.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 30.º — Destino dos bens declarados perdidos a título de sanção acessória
+
+1 - Quando a decisão condenatória definitiva proferida em processo por contra-ordenação declarar a perda de bens a favor do Estado, poderá o Ministro da Agricultura, Pescas e Alimentação, por motivos de interesse público, determinar a sua afectação a certas entidades.
+
+2 - Sem prejuízo do disposto no número anterior, serão destruídos os bens declarados perdidos a título de sanção acessória que não estiverem em conformidade com os requisitos ou características legalmente estabelecidos.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Revogado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 31.º — Garantia de pagamento
+
+Constituem garantias de pagamento da coima, custas e demais encargos legais os bens apreendidos aos agentes infractores ou o valor correspondente.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 31.º-A — Agentes não domiciliados em Portugal
+
+1 - Se o responsável pela infracção não for domiciliado em Portugal, e caso não pretenda efectuar o pagamento voluntário da coima, quando admissível, deve prestar caução de valor igual a um terço do montante máximo da coima prevista para a contra-ordenação que lhe é imputada.
+
+2 - A caução referida no número anterior deve ser prestada perante a entidade autuante e destina-se a garantir o pagamento da coima em que o infractor possa vir a ser condenado, bem como das despesas legais a que houver lugar.
+
+3 - A falta de prestação da caução prevista no n.º 1 determina a apreensão da embarcação de pesca ou do veículo utilizado no transporte do pescado, que se manterá até à efectivação daquela, ao pagamento da coima ou à decisão absolutória.
+
+4 - Os bens apreendidos ao abrigo do disposto nos números anteriores responderão nos mesmos termos que a caução pelo pagamento das quantias devidas.
+
+5 - A infracção será levada ao conhecimento do Estado de bandeira do responsável pela mesma.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 31.º-B — Abandono
+
+1 - São declaradas perdidas a favor do Estado as mercadorias e quaisquer quantias apreendidas no processo, se não reclamadas no prazo de dois meses a contar da notificação do despacho ou decisão que ordenar a sua entrega.
+
+2 - A notificação a que se refere o n.º 1 conterá advertência de que, em caso de não haver reclamação, os bens serão declarados perdidos a favor do Estado.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Aditado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 32.º — Comunicação das decisões e registo individual dos arguidos
+
+1 - A autoridade administrativa que aplicar a decisão definitiva e os tribunais que julguem os recursos das decisões que apliquem coimas devem remeter à Inspecção-Geral das Pescas cópia das decisões finais proferidas nos processos respectivos.
+
+2 - A Inspecção-Geral das Pescas organiza o registo individual informatizado de cada arguido, sujeito a confidencialidade, no qual são lançadas todas as sanções que lhe forem aplicadas por infracções cometidas após a publicação deste diploma.
+
+3 - Nos processos em que deva ser apreciada a responsabilidade de qualquer arguido é sempre junta uma cópia dos registos que lhe digam respeito, podendo o interessado ter acesso ao seu registo sempre que o solicite.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+### Capítulo VI — Disposições finais
+
+###### Artigo 33.º — Direito de visita
+
+No exercício das suas atribuições e a fim de assegurar o cumprimento da legislação em vigor, as entidades com poderes de fiscalização referidas no artigo 15.º poderão visitar quaisquer embarcações de pesca atracadas em portos, no mar, em estuários, rias, lagoas costeiras ou rios, bem como nos estabelecimentos de aquicultura e conexos, locais de descarga de pescado, lotas, postos de vendagem, nas áreas dos portos de pesca e em todos os locais ou estabelecimentos relevantes para o controlo do cumprimento das medidas de defesa e conservação dos recursos piscatórios.
+
+> Revogado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 34.º — Aplicação nas Regiões Autónomas
+
+1 - As competências que neste diploma são atribuídas ao Governo e ao Ministério da Agricultura, do Desenvolvimento Rural e das Pescas consideram-se cometidas aos órgãos de governo próprio das Regiões Autónomas nos casos seguintes:
+
+a) As autorizações previstas na alínea a) do artigo 4.º, quando se trate de embarcações de pesca a registar ou registadas em portos das regiões;
+
+b) As autorizações previstas na alínea b) do artigo 4.º, quando se trate de autorização para o exercício da actividade por embarcações registadas em portos das regiões autónomas, bem como para as artes por aquelas utilizadas, e que se destinem, umas e outras, à captura de espécies que ocorram em águas abrangidas nas respectivas regiões;
+
+c) As competências previstas nas alíneas d) a f), h) e i) do artigo 4.º, quando de aplicação apenas no interior das 12 milhas e se fixarem medidas mais restritivas relativamente as que vigoram a nível nacional;
+
+d) A repartição de volumes de captura atribuídos às Regiões Autónomas por segmentos da frota nelas registados ou por licença de pesca dentro de um mesmo segmento;
+
+e) Autorizações para a pesca, sem auxílio de embarcações, de recursos que ocorram em águas abrangidas nas respectivas regiões;
+
+f) As autorizações previstas no artigo 9.º, quando os afretadores estejam sediados ou domiciliados nas regiões autónomas;
+
+g) As competências previstas no n.º 2 do artigo 10.º, relativamente às embarcações ou grupos de embarcações registadas em portos das regiões;
+
+h) As autorizações, licenciamentos e concessões previstos nos artigos 11.º e 12.º, bem como a respectiva regulamentação, quando os estabelecimentos ou os terrenos do domínio público marítimo para instalação e exploração de culturas marinhas se localizem nas regiões autónomas;
+
+i) A competência prevista no artigo 13.º, relativamente a agentes económicos ou estabelecimentos de culturas marinhas, domiciliados, sediados ou localizados nas regiões autónomas.
+
+2 - Sempre que estejam em causa outros interesses pesqueiros específicos das Regiões Autónomas, o membro do Governo que tiver a seu cargo o sector das pescas, no exercício das competências que lhe são cometidas pelo presente diploma, consultará previamente os órgãos de governo próprio daquelas Regiões.
+
+3 - (Revogado).
+
+> Alterado pelo/a Artigo 42.º do/a [Decreto-Lei n.º 35/2019 - Diário da República n.º 49/2019, Série I de 2019-03-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35-2019-120696372), em vigor a partir de 2019-04-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01
+
+> Alterado pelo/a Artigo 1.º do/a [Decreto-Lei n.º 383/98 - Diário da República n.º 275/1998, Série I-A de 1998-11-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/383-1998-217326), em vigor a partir de 1998-12-02
+
+###### Artigo 35.º — Revogação de legislação anterior
+
+1 - Com ressalva do disposto no n.º 2, são revogadas todas as disposições legais que contrariem o disposto no presente diploma, nomeadamente:
+
+Decreto de 31 de Dezembro de 1895;
+
+Decreto de 14 de Maio de 1903;
+
+Decreto n.º 3003, de 27 de Fevereiro de 1917;
+
+Decreto n.º 9063, de 11 de Agosto de 1923;
+
+Decreto n.º 19483, de 18 de Março de 1931;
+
+Decreto n.º 19634, de 21 de Abril de 1931;
+
+Decreto n.º 22216, de 17 de Fevereiro de 1933;
+
+Decreto n.º 26038, de 12 de Novembro de 1935;
+
+Decreto-Lei n.º 30148, de 16 de Dezembro de 1939;
+
+Artigos 21.º, 34.º, 35.º, 36.º, 37.º, 38.º, 39.º, 40.º, 41.º, 42.º, 47.º, com excepção do n.º 2, 48.º, n.º 2 do artigo 50.º, 52.º, 56.º, 57.º, 229.º e 230.º, todos do Regulamento Geral das Capitanias, aprovado pelo Decreto-Lei n.º 265/72, de 31 de Julho, apenas na parte em que tais dispositivos se referem às embarcações de pesca;
+
+Portaria n.º 9/73, de 6 de Janeiro;
+
+Portaria n.º 49/73, de 24 de Janeiro;
+
+Portaria n.º 51/73, de 25 de Janeiro;
+
+Portaria n.º 74/73, de 3 de Fevereiro;
+
+Decreto Regulamentar n.º 22/78, de 12 de Julho;
+
+Decreto Regulamentar n.º 558/80, de 2 de Setembro;
+
+Portaria n.º 734/80, de 26 de Setembro;
+
+Portaria n.º 998/81, de 20 de Novembro;
+
+Portaria n.º 591/82, de 16 de Julho;
+
+Decreto-Lei n.º 52/85, de 1 de Março.
+
+2 - Enquanto não forem publicados os regulamentos a que se refere o presente diploma, são mantidas, em relação às respectivas matérias, as disposições legais em vigor, desde que não contrariem as do presente diploma.
+
+3 - Quando as disposições legais remeterem para os preceitos legais revogados por este decreto-lei, entende-se que a remissão valerá para as correspondentes disposições deste diploma, salvo se a interpretação daquelas impuser solução diferente.
+
+###### Artigo 36.º — Entrada em vigor
+
+O presente diploma entra em vigor 30 dias após a sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 9 de Abril de 1987. - Aníbal António Cavaco Silva - Leonardo Eugénio Ramos Ribeiro de Almeida - Miguel José Ribeiro Cadilhe - Luís Francisco Valente de Oliveira - Mário Ferreira Bastos Raposo - Álvaro Roque de Pinho Bissaia Barreto - Fernando Augusto dos Santos Martins - João Maria Leitão de Oliveira Martins.
+
+Promulgado em 4 de Junho de 1987.
+
+Publique-se.
+
+O Presidente da República, MÁRIO SOARES.
+
+Referendado em 8 de Junho de 1987.
+
+O Primeiro-Ministro, Aníbal António Cavaco Silva.
+
+## Anexo — (a que se refere o n.º 3 do artigo 22.º-A)
+
+(ver documento original)
+
+> Aditado pelo/a Artigo 4.º do/a [Decreto-Lei n.º 10/2017 - Diário da República n.º 7/2017, Série I de 2017-01-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/10-2017-105711870), em vigor a partir de 2017-01-15, produz efeitos a partir de 2017-01-01

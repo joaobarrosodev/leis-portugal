@@ -1,0 +1,132 @@
+---
+schema_version: '1.0'
+id: pt:dre:423182:por
+title: Portaria n.º 655/99
+short_title: null
+summary: Revoga a concessão da zona de caça associativa da freguesia de Espite, atribuída ao Grupo de Caçadores de Espite
+  (processo n.º 989-DGF)
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Desenvolvimento Rural e das Pescas
+proposing_entity: null
+official_number: 655/99
+official_date: null
+publication_date: '1999-08-14'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 189/1999, Série I-B de 1999-08-14
+  number: '189'
+  series: I
+  supplement: null
+  pages: 5398 - 5399
+  pdf_url: https://files.diariodarepublica.pt/1s/1999/08/189b00/53985399.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/655/1999/08/14/p/dre/pt/html
+  oj: null
+  dre: '423182'
+  dre_path: /dr/detalhe/portaria/655-1999-423182
+  internal: pt:dre:423182:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/655-1999-423182
+  metadata_url: https://data.dre.pt/eli/port/655/1999/08/14/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/655-1999-423182
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '1999-08-14T00:00:00Z'
+integrity:
+  source_sha256: c74bc9e67df9ac0dc7360641f1910ef13efe10a9e0312691ad0a995e515c60a7
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1999/DRE-1999-655-423182.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- CAÇA
+- ZONA de CAÇA
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/136/1996/08/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/1460/1995/12/14/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/1460/1995/12/14/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/604/1997/08/06/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/604/1997/08/06/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/668/1992/07/08/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/668/1992/07/08/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/683-f/1997/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/683-f/1997/08/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/689/1998/09/01/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/689/1998/09/01/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/port/890/1994/10/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/port/890/1994/10/03/p/dre
+article_structure:
+  article_count: 0
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 655/99
+
+de 14 de Agosto
+
+Pela [Portaria n.º 668/92](https://diariodarepublica.pt/dr/detalhe/portaria/668-1992-288015), de 8 de Julho, alterada pelas Portarias n.os [890/94](https://diariodarepublica.pt/dr/detalhe/portaria/890-1994-600485) e [1460/95](https://diariodarepublica.pt/dr/detalhe/portaria/1460-1995-635204), respectivamente de 3 de Outubro e de 14 de Dezembro, foi concessionada ao Grupo de Caçadores Desportivo de Espite a zona de caça associativa da freguesia de Espite, com uma área de 1682 ha.
+
+Por força do Acórdão do Tribunal Constitucional n.º 866/96, de 18 de Dezembro, pela [Portaria n.º 604/97](https://diariodarepublica.pt/dr/detalhe/portaria/604-1997-204055), de 6 de Agosto, foi a sua área reduzida para 1475 ha.
+
+Tendo continuado a verificar-se existirem prédios dentro da zona de caça sem que os respectivos titulares e gestores tenham facultado acordo expresso para a sua integração, foram, pela [Portaria n.º 689/98](https://diariodarepublica.pt/dr/detalhe/portaria/689-1998-566631), de 1 de Setembro, novamente alterados os limites da zona de caça, após suspensão da actividade cinegética ([Portaria n.º 683-F/97](https://diariodarepublica.pt/dr/detalhe/portaria/683-f-1997-658070), de 12 de Agosto), no sentido de serem supridas as irregularidades verificadas;
+
+Verificando-se posteriormente à alteração referida que a zona de caça continua a incluir prédios para os quais os seus titulares não produziram uma efectiva manifestação de vontade no sentido dessa integração e que reiteradamente a entidade gestora da mesma não cumpriu com o disposto no Acórdão do Tribunal Constitucional n.º 866/96 e, consequentemente, as obrigações a que está vinculado por força do mesmo;
+
+Assim:
+
+Manda o Governo, pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, com fundamento no artigo 2.º da Lei n.º 28/82, de 15 de Novembro, e na alínea b) do n.º 1 do artigo 86.º do [Decreto-Lei n.º 136/96](https://diariodarepublica.pt/dr/detalhe/decreto-lei/136-1996-405765), de 14 de Agosto, que seja revogada a concessão da zona de caça associativa da freguesia de Espite, atribuída ao Grupo de Caçadores de Espite (processo n.º 989-DGF).
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+Pelo Ministro da Agricultura, do Desenvolvimento Rural e das Pescas, Victor Manuel Coelho Barros, Secretário de Estado do Desenvolvimento Rural, em 2 de Agosto de 1999.

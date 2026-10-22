@@ -1,0 +1,55 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:517868:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2007-889143779",
+ "dre_path": "/dr/detalhe/portaria/208-2007-517868",
+ "source_lastmod": "2024-09-26",
+ "versions": [
+  {
+   "date": "2007-02-16",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "888962864",
+    "888962866",
+    "888962867",
+    "888962868"
+   ]
+  }
+ ],
+ "fragments": {
+  "888962864": {
+   "fragment_id": "889143780",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 208/2007\n\nde 16 de Fevereiro\n\nA informação empresarial simplificada, abreviadamente designada por IES, agrega num único acto o cumprimento de quatro obrigações legais - a entrega da declaração anual de informação contabilística e fiscal, o registo da prestação de contas, a prestação de informação de natureza estatística ao Instituto Nacional de Estatística e a prestação de informação relativa a dados contabilísticos anuais para fins estatísticos ao Banco de Portugal - que se encontravam dispersas e nos termos das quais era necessário prestar informação materialmente idêntica a diferentes organismos, por quatro vias diferentes.\n\nAtravés da IES, todas estas obrigações passam a ser integralmente cumpridas através do envio electrónico da informação contabilística das empresas, realizado uma única vez.\n\nPara o efeito, a informação a prestar no âmbito da IES passa a constar do modelo de declaração criado pela presente portaria.\n\nAssim:\n\nManda o Governo, pelo Ministro de Estado e das Finanças, ao abrigo do disposto no artigo 3.º do Decreto-Lei n.º 8/2007, de 17 de Janeiro, o seguinte:"
+  },
+  "888962866": {
+   "fragment_id": "889143782",
+   "type": 11,
+   "heading": "1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º\n\nÉ aprovado pela presente portaria o modelo declarativo da informação empresarial simplificada (IES) e respectivos anexos, que dele fazem parte integrante:\n\na) Folha de rosto - IES - Declaração anual;\n\nb) Anexo A - IRC - Informação empresarial simplificada (entidades residentes que exercem, a título principal, actividade comercial, industrial ou agrícola e entidades não residentes com estabelecimento estável);\n\nc) Anexo A1 - IRC - Informação empresarial simplificada (entidades residentes que exercem, a título principal, actividade comercial, industrial ou agrícola - contas consolidadas);\n\nd) Anexo B - IRC - Informação empresarial simplificada (empresas do sector financeiro - Decreto-Lei n.º 298/92, de 31 de Dezembro);\n\ne) Anexo B1 - IRC - Informação empresarial simplificada (empresas do sector financeiro - Decreto-Lei n.º 298/92, de 31 de Dezembro - contas consolidadas - modelo não oficial);\n\nf) Anexo C - IRC - Informação empresarial simplificada (empresas do sector segurador - Decreto-Lei n.º 94-B/98, de 17 de Abril);\n\ng) Anexo C1 - IRC - Informação empresarial simplificada (empresas do sector segurador - Decreto-Lei n.º 94-B/98, de 17 de Abril - contas consolidadas);\n\nh) Anexo D - IRC - Informação empresarial simplificada (entidades residentes que não exercem, a título principal, actividade comercial, industrial ou agrícola);\n\ni) Anexo F - IRC - Benefícios fiscais;\n\nj) Anexo G - IRC - Regimes especiais (sociedades e outras entidades sujeitas ao regime de transparência fiscal);\n\nl) Anexo I - IRS - Informação empresarial simplificada (sujeitos passivos de IRS com contabilidade organizada);\n\nm) Anexo R - Informação estatística - Informação empresarial simplificada (entidades residentes que exercem, a título principal, actividade comercial, industrial ou agrícola, entidades não residentes com estabelecimento estável e EIRL);\n\nn) Anexo S - Informação estatística - Informação empresarial simplificada (empresas do sector financeiro - Decreto-Lei n.º 298/92, de 31 de Dezembro);\n\no) Anexo T - Informação estatística - Informação empresarial simplificada (empresas do sector segurador - Decreto-Lei n.º 94-B/98, de 17 de Abril)."
+  },
+  "888962867": {
+   "fragment_id": "889143783",
+   "type": 11,
+   "heading": "2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 2.º\n\nMantêm-se em vigor os seguintes anexos:\n\na) Anexo E - IRC - Elementos contabilísticos e fiscais (entidades não residentes sem estabelecimento estável), aprovado por despacho do SEAF de 28 de Dezembro de 2004 - declaração n.º 1/2005, publicada no Diário da República, 2.ª série, n.º 7, de 11 de Janeiro de 2005;\n\nb) Anexo H - IRC - Operações com não residentes, aprovado por despacho do SEAF de 31 de Janeiro de 2003 - declaração n.º 134/2003, publicada no Diário da República, 2.ª série, n.º 74, de 28 de Março de 2003;\n\nc) Anexo L - IVA - Elementos contabilísticos e fiscais, aprovado por despacho do SEAF de 31 de Janeiro de 2003 - declaração n.º 134/2003, publicada no Diário da República, 2.ª série, n.º 74, de 28 de Março de 2003;\n\nd) Anexo M - IVA - Operações realizadas em espaço diferente da sede - Decreto-Lei n.º 348/85, de 23 de Agosto, aprovado por despacho do SEAF de 31 de Janeiro de 2003 - declaração n.º 134/2003, publicada no Diário da República, 2.ª série, n.º 74, de 28 de Março de 2003;\n\ne) Anexo N - IVA - Regimes especiais, aprovado por despacho do SEAF de 23 de Dezembro de 1999 - declaração n.º 97/2000, publicada no Diário da República, 2.ª série, n.º 6, de 18 de Março de 2000;\n\nf) Anexo O - IVA - Mapa recapitulativo - Clientes, aprovado por despacho do SEAF de 20 de Fevereiro de 2002 - declaração n.º 72/2002, publicada no Diário da República, 2.ª série, n.º 63, de 15 de Março de 2002;\n\ng) Anexo P - IVA - Mapa recapitulativo - Fornecedores, aprovado por despacho do SEAF de 20 de Fevereiro de 2002 - declaração n.º 72/2002, publicada no Diário da República, 2.ª série, n.º 63, de 15 de Março de 2002;\n\nh) Anexo Q - IS - Elementos contabilísticos e fiscais, aprovado por despacho do SEAF de 28 de Dezembro de 2004 - declaração n.º 1/2005, publicada no Diário da República, 2.ª série, n.º 7, de 11 de Janeiro de 2005."
+  },
+  "888962868": {
+   "fragment_id": "889143784",
+   "type": 11,
+   "heading": "3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º\n\nO modelo declarativo de IES aprovado pela presente portaria aplica-se aos exercícios económicos iniciados em 2006, bem como aos subsequentes."
+  }
+ }
+}

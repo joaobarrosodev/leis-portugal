@@ -1,0 +1,687 @@
+---
+schema_version: '1.0'
+id: pt:dre:105727475:por
+title: Decreto-Lei n.º 8/2017
+short_title: null
+summary: Estabelece o regime jurídico aplicável aos sapadores florestais e às equipas de sapadores florestais no território
+  continental português e define os apoios públicos de que estas podem beneficiar
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Agricultura, Florestas e Desenvolvimento Rural
+proposing_entity: null
+official_number: 8/2017
+official_date: null
+publication_date: '2017-01-09'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 6/2017, Série I de 2017-01-09
+  number: '6'
+  series: I
+  supplement: null
+  pages: 339 - 345
+  pdf_url: https://files.diariodarepublica.pt/1s/2017/01/00600/0033900345.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: in_force
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2023-07-20'
+version_history:
+  file: decreto-lei-8-2017.versoes.json
+  count: 3
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '2017-01-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-23'
+    amending: pt:dre:138571583:por
+    amending_title: Decreto-Lei n.º 44/2020
+    changes:
+    - Adita Artigo 6.º-A
+    - Adita Artigo 6.º-B
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 8.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+    - Altera Artigo 14.º
+    - Altera Artigo 15.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+    - Altera Artigo 21.º
+    - Altera Artigo 22.º
+  - date: '2023-07-20'
+    amending: pt:dre:215874580:por
+    amending_title: Decreto-Lei n.º 58/2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+    - Altera Artigo 8.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 18.º
+    - Altera Artigo 19.º
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/8/2017/p/cons/20250219/pt/html
+  oj: null
+  dre: '105727475'
+  dre_path: /dr/detalhe/decreto-lei/8-2017-105727475
+  internal: pt:dre:105727475:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/8-2017-105727475
+  metadata_url: https://data.dre.pt/eli/dec-lei/8/2017/p/cons/20250219/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-138571589
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/2017-138571589
+  retrieved_at: '2026-10-22T12:33:50Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 9cff027f424a04c62495c743e1a2d9a591910ed0b9fdc6d69cbe4f6ce84c2cb2
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:33:50Z'
+  notes: 3 versão(ões); histórico completo em decreto-lei-8-2017.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Incêndio
+- Prevenção de Incêndios
+- Financiamento
+- Formação Profissional
+- Definição de Competências
+- Equipamento de Trabalho
+- Contratação de Pessoal
+- Instituto da Conservação da Natureza e das Florestas
+- Programa de Sapadores Florestais
+- Exploração Florestal
+- Regime Jurídico
+- Política Florestal
+- Sapador Florestal
+- Autoridade Nacional de Protecção Civil
+relationships:
+- type: amended_by
+  target: pt:dre:138571583:por
+  label: Adita Artigo 6.º-A; Adita Artigo 6.º-B; Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 3.º; Altera Artigo 4.º;
+    Altera Artigo 5.º; Altera Artigo 6.º; Altera Artigo 7.º; Altera Artigo 8.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera
+    Artigo 13.º; Altera Artigo 14.º; Altera Artigo 15.º; Altera Artigo 16.º; Altera Artigo 17.º; Altera Artigo 18.º; Altera
+    Artigo 19.º; Altera Artigo 21.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583
+  date: '2020-07-22'
+- type: amended_by
+  target: pt:dre:215874580:por
+  label: Altera Artigo 1.º; Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 6.º; Altera Artigo 8.º; Altera Artigo 16.º;
+    Altera Artigo 17.º; Altera Artigo 18.º; Altera Artigo 19.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580
+  date: '2023-07-19'
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/109/2009/05/15/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/109/2009/05/15/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/135/2012/06/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/135/2012/06/29/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/254/2009/09
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/254/2009/09
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/42-a/2016/08/12/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/63/2004/03/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/63/2004/03/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/78/2015/05/13/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/78/2015/05/13/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/27/2006/07/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/33/1996/08/17/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/80/2015/08/03/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/80/2015/08/03/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/82-d/2014/12/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/82-d/2014/12/31/p/dre
+article_structure:
+  article_count: 27
+  section_count: 0
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:33:50Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 8/2017
+
+Decreto-Lei n.º 8/2017
+
+de 9 de janeiro
+
+O Decreto-Lei n.º 109/2009, de 15 de maio, que estabelece o regime jurídico aplicável à criação e funcionamento das equipas de sapadores florestais no território continental português e que regulamenta os apoios à sua atividade, tendo entrado em vigor há mais de seis anos atrás, torna-se hoje imperativo introduzirem-se ajustamentos a este regime no sentido de o tornar mais ágil, eficaz e transparente.
+
+Nesse sentido, o presente decreto-lei reforça a função das equipas de sapadores florestais no contexto das medidas de política florestal, visando estabelecer coerência entre a atividade exercida pelas equipas de sapadores florestais e as medidas e ações de proteção e defesa da floresta estabelecidas na Estratégia Nacional para as Florestas e no Plano Nacional de Defesa da Floresta Contra Incêndios.
+
+Paralelamente, é criada a figura de agrupamento de equipas de sapadores florestais, tendo em vista flexibilizar e otimizar a capacidade de intervenção das equipas na área da silvicultura preventiva, definindo-se a figura da transferência de titularidade e eliminando potenciais processos de extinção de equipas de sapadores florestais, por razões alheias ao interesse da sua permanência em funcionamento.
+
+De acordo com a vocação profissional do sapador florestal, centrada na silvicultura e defesa da floresta, o presente decreto-lei reajusta a definição das funções de sapador florestal na área do combate aos incêndios florestais, com a sua afetação designadamente à primeira intervenção em incêndios florestais, apoio a operações de rescaldo e vigilância ativa pós-rescaldo. É de notar que o sapador florestal é também um agente de proteção civil, cabendo-lhe nessa qualidade a execução de ações de proteção a pessoas e bens, conforme estabelecido na Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, alterada e republicada pela Lei n.º 80/2015, de 3 de agosto.
+
+O apoio ao equipamento e funcionamento das equipas de sapadores florestais foi nos últimos anos, assegurado pelo Fundo Florestal Permanente, criado pelo Decreto-Lei n.º 63/2004, de 22 de março, alterada pela Lei n.º 82-D/2014, de 31 de dezembro.
+
+Com a criação do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), o Fundo Florestal Permanente passou a funcionar junto deste Instituto Público, nos termos do disposto no n.º 3 do artigo 3.º do Decreto-Lei n.º 135/2012, de 29 de junho, alterado pelos Decretos-Leis n.os 78/2015, de 13 de maio, e 42-A/2016, de 12 de agosto.
+
+Tendo em conta que é ao ICNF, I. P., que cabe assegurar a coordenação e gestão do programa de sapadores florestais nos termos do disposto na alínea u) do n.º 2 do artigo 3.º e do artigo 14.º do referido Decreto-Lei n.º 135/2012, de 29 de junho, alterado pelos Decretos-Leis n.os 78/2015, de 13 de maio, e 42-A/2016, de 12 de agosto, devem os procedimentos de gestão do referido programa e atribuição de apoios às equipas de sapadores florestais ser ajustados a essa realidade.
+
+Acresce referir que a existência de diferentes fundos, nacionais e da União Europeia, compreendendo objetivos e medidas convergentes com as funções dos sapadores florestais, proporcionam origens diversificadas de apoio, cuja utilização deve ser potenciada no sentido do reforço do programa nacional de sapadores florestais. O presente decreto-lei prevê a utilização dessa disponibilidade de apoios, cabendo a sua operacionalização aos regulamentos específicos dos fundos aplicáveis.
+
+Foram ouvidas a Associação Nacional de Municípios Portugueses e a Autoridade Nacional da Proteção Civil.
+
+Assim:
+
+No desenvolvimento do regime jurídico estabelecido pela Lei n.º 33/96, de 17 de agosto, alterada pelo Decreto-Lei n.º 254/2009, de 24 de setembro, e nos termos da alínea c) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+###### Artigo 1.º — Objeto
+
+1 - O presente decreto-lei estabelece o regime jurídico aplicável aos sapadores florestais, às equipas, aos agrupamentos e às brigadas de sapadores florestais, no território continental português, definindo os apoios públicos de que podem beneficiar.
+
+2 - A criação de equipas de sapadores florestais, e a respetiva atividade, desenvolvem-se no quadro de um programa nacional de sapadores florestais, orientado para a prossecução dos objetivos de proteção e defesa da floresta estabelecidos no Plano Nacional de Gestão Integrada de Fogos Rurais e na Estratégia Nacional para as Florestas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 2.º — Definições
+
+Para efeitos do presente decreto-lei, entende-se por:
+
+a) 'Ações de controlo', as auditorias, inspeções, vistorias e visitas técnicas ou outras ações conducentes à avaliação da atividade das equipas, agrupamentos e brigadas de sapadores florestais e da sua conformidade com a legislação aplicável;
+
+b) 'Apoio ao combate', ação, correspondente ao conceito de ataque ampliado, desenvolvida após a primeira intervenção que termina quando o incêndio for considerado dominado pelo Comandante de Operações de Socorro;
+
+c) 'Área de atuação', a área específica demarcada anualmente de intervenção da equipa ou brigada de sapadores florestais que corresponde ao exercício previsto no plano anual de atividades;
+
+d) 'Área de intervenção', o território definido por equipa, agrupamento ou brigada de sapadores florestais para o exercício prioritário da sua atividade;
+
+e) 'Critérios de prioridade' o conjunto de parâmetros, de caráter indicativo, a ter em conta para a seleção e aprovação de candidaturas;
+
+f) 'Combate', ação concreta e objetiva destinada a extinguir um incêndio, incluindo a garantia de que não ocorrem reacendimentos;
+
+g) 'Entidades Coletivas de Gestão Florestal (ECGF)', as entidades de gestão florestal (EGF) e as unidades de gestão florestal (UGF), reconhecidas nos termos do Decreto-Lei n.º 66/2017, de 12 de junho, na sua redação atual, e os organismos de investimento coletivo cujo objeto seja a gestão e exploração florestais;
+
+h) 'Estabilização de emergência' o conjunto de ações que permitem minimizar os efeitos de erosão pós-incêndio e garantem a sustentabilidade do potencial produtivo;
+
+i) 'Gestão de combustível', a criação e manutenção da descontinuidade horizontal e vertical da carga combustível nos espaços rurais, através da modificação ou da remoção parcial ou total da biomassa vegetal por meios manuais, moto manuais, mecânicos ou pelo uso do fogo controlado;
+
+j) 'Primeira intervenção em incêndios rurais', a ação desenvolvida de imediato face a incêndios nascentes, correspondente ao conceito de ataque inicial previsto na Diretiva Operacional Nacional que estabelece anualmente o Dispositivo Especial de Combate aos Incêndios Rurais, a qual termina quando o incêndio for considerado dominado pelo Comandante de Operações de Socorro ou no momento em que o incêndio passe à fase de ataque ampliado;
+
+k) «Rescaldo», ação descontínua e obrigatória que visa eliminar toda a combustão viva e isolar o material ainda em combustão lenta, utilizando prioritariamente ferramentas manuais, tratores agrícolas e/ou máquinas de rasto, com o objetivo de garantir que o incêndio não reativa;
+
+l) 'Serviço público', aquele que é prestado pelas equipas, agrupamentos e brigadas de sapadores florestais, no âmbito das suas funções, sob normas e controlo do Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), para proteção e defesa da floresta;
+
+m) «Sistema de Informação do Programa de Sapadores Florestais (SISF)», base de dados e interface digital onde se insere toda a informação e atividade das equipas de sapadores florestais, cabendo ao ICNF, I. P., assegurar a sua criação, funcionamento e gestão e a divulgação do respetivo manual de utilizador no seu sítio na Internet;
+
+n) 'Vigilância', observação dos espaços florestais e vigilância pós-rescaldo exercida de forma fixa ou móvel, utilizando viatura com equipamento específico para combate a incêndios;
+
+o) «Vigilância ativa pós-rescaldo», operação que se realiza após o rescaldo de um incêndio, com a intervenção imediata das equipas e meios de vigilância, destinada a evitar que surjam reacendimentos;
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 3.º — Funções do sapador florestal
+
+O sapador florestal é um trabalhador especializado com perfil e formação específica adequados ao exercício de atividades de silvicultura e defesa da floresta, como designadamente:
+
+a) Silvicultura preventiva, na vertente da gestão de combustível florestal, com recurso a técnicas manuais, moto manuais, mecânicas ou fogo controlado, entre outras;
+
+b) Manutenção e proteção de povoamentos florestais, no âmbito da gestão florestal e do controlo de agentes bióticos nocivos;
+
+c) Silvicultura de caráter geral;
+
+d) Instalação, manutenção e beneficiação de infraestruturas de defesa da floresta e de apoio à gestão rural;
+
+e) Sensibilização das populações para as normas de conduta em matéria de proteção florestal e ambiental, nomeadamente no âmbito do uso do fogo, da gestão florestal das florestas e da fitossanidade;
+
+f) Vigilância, primeira intervenção e apoio ao combate a incêndios rurais, apoio a operações de rescaldo e vigilância ativa pós-rescaldo, no âmbito da proteção civil, sendo ainda um agente de proteção civil, nos termos da Lei de Bases da Proteção Civil, aprovada pela Lei n.º 27/2006, de 3 de julho, na sua redação atual, com missões de intervenção de proteção civil previstas em diretivas operacionais específicas da Autoridade Nacional de Emergência e Proteção Civil (ANEPC);
+
+g) Ações de estabilização de emergência que minimizem os danos resultantes de processo de erosão, desobstrução de rede viária e linhas de água que reduzem o impacto da perda de solo, promovendo a recuperação do potencial produtivo.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 4.º — Formação do sapador florestal
+
+1 - A qualificação profissional de sapador florestal é obtida após conclusão com aproveitamento das unidades de competência (UC) e ou unidades de formação de curta duração (UFCD) da qualificação de Sapador Florestal inserida no Catálogo Nacional de Qualificações, que conferem as competências necessárias ao exercício das funções definidas no artigo anterior e ministradas por entidade formadora acreditada e reconhecida pelo ICNF, I. P., que integre a rede de entidades formadoras no âmbito do Sistema Nacional de Qualificações (SNQ) e respeitando o Plano Nacional de Qualificações do Sistema de Gestão Integrada de Fogos Rurais.
+
+2 - Sem prejuízo do disposto no n.º 4 do artigo seguinte, o sapador florestal inicia a atividade após a obtenção da certificação parcial de grau um do RFSF.
+
+3 - A certificação parcial de grau dois do RFSF permite ao sapador florestal obter a credenciação como operacional de queima.
+
+4 - A conclusão com aproveitamento do total da carga horária relativa a esta qualificação confere as competências necessárias para a obtenção da qualificação profissional de sapador florestal.
+
+5 - O ICNF, I. P., é a autoridade competente para proceder ao reconhecimento da Qualificação Profissional de Sapador Florestal, nos termos do disposto na Portaria n.º 90/2012, de 30 de março, e das Certificações Parciais de Grau um e Grau dois, e a quem compete as respetivas emissões e inserção no SIGO.
+
+6 - Os sapadores florestais que exerçam funções de chefe de equipa devem ter ainda uma formação complementar à de sapador florestal, na área de gestão e liderança de equipa, enquadrada no Catálogo Nacional de Qualificações.
+
+7 - O ICNF, I. P., em articulação com as entidades titulares das equipas de sapadores florestais e as entidades formadoras que integram o SNQ, deve promover a realização de planos plurianuais de formação, que respondam às necessidades de formação dos sapadores florestais, no âmbito da qualificação profissional para novos elementos e da formação contínua, sem prejuízo da formação adquirida em contexto real de trabalho.
+
+8 - O sapador florestal tem até cinco anos após a contratação na entidade titular para concluir a formação que lhe permita obter a qualificação de sapador florestal constante no Catálogo Nacional de Qualificações.
+
+9 - De cinco em cinco anos, os sapadores florestais, com qualificação profissional, devem efetuar ações de reciclagem ministrada pelo ICNF, I. P., ou pelas entidades referidas no n.º 1.
+
+10 - Os sapadores florestais, operadores de maquinaria, devem dispor de formação profissional adequada ao tipo de máquina, conforme estabelecido pelo Instituto da Mobilidade e dos Transportes, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 5.º — Equipa de sapadores florestais
+
+1 - A unidade de base de operação dos sapadores florestais é a equipa, constituída por cinco sapadores florestais e chefiada por um deles, a quem cabe a coordenação dos demais na realização das ações decorrentes da atividade da equipa.
+
+2 - Quando se verifique a cessação de funções de um dos elementos da equipa de sapadores florestais, a contratação de novo elemento deve ocorrer no prazo máximo de 60 dias úteis a contar da data da cessação da prestação de trabalho do anterior sapador.
+
+3 - As entidades referidas nas alíneas d) a f) do artigo 9.º, que não possam cumprir o disposto no número anterior, devem apresentar comprovativo de abertura do procedimento de recrutamento, o qual deve estar concluído no prazo de seis meses a contar da data de cessação de funções do sapador florestal.
+
+4 - Sem prejuízo da formação transmitida em contexto real de trabalho, a equipa de sapadores florestais pode ter na sua constituição até dois elementos sem a formação profissional a que se refere o n.º 2 do artigo anterior, a qual deve ser obtida no prazo de um ano a contar da data da contratação ou colocação do respetivo elemento, sob pena de este ficar impedido de continuar a exercer essas funções.
+
+5 - A atividade de uma equipa de sapadores florestais é suspensa, pelo ICNF, I. P., sempre que o número de sapadores a operar seja inferior a três.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 6.º — Agrupamento de equipas de sapadores florestais
+
+1 - As equipas de sapadores florestais com áreas de intervenção próximas, dentro de um mesmo concelho ou em concelhos adjacentes podem, para efeitos de maior operacionalidade e eficácia no exercício da atividade de silvicultura preventiva, nomeadamente pela utilização partilhada de equipamento mecânico para remoção de biomassa florestal, agrupar-se constituindo, assim, um agrupamento de equipas de sapadores florestais.
+
+2 - A constituição de um agrupamento de equipas de sapadores florestais implica a obtenção, por parte de todas as entidades titulares, de protocolo de colaboração que define as regras de empenhamento do agrupamento e encargos decorrentes do seu funcionamento e utilização e gestão do equipamento comum.
+
+3 - O protocolo de colaboração referido no número anterior identifica o coordenador, a quem é atribuída a missão de chefiar e representar o agrupamento.
+
+4 - (Revogado.)
+
+5 - A constituição de um agrupamento de equipas de sapadores florestais está sujeita a autorização do ICNF, I. P., que dá conhecimento às respetivas comissões municipais de defesa da floresta.
+
+6 - Aos agrupamentos de equipas de sapadores florestais pode ser cedido equipamento coletivo específico para o desenvolvimento conjunto das suas funções na área da silvicultura preventiva.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 6.º-A — Brigada de sapadores florestais
+
+1 - A brigada de sapadores florestais é constituída por três equipas de sapadores florestais de uma única entidade titular, a qual assume a responsabilidade da brigada e respetiva atividade e os encargos da operacionalização.
+
+2 - A brigada de sapadores florestais integra um licenciado, na área das ciências florestais ou equivalente que chefia a brigada, credenciado em fogo controlado e que faz parte de uma das equipas constituintes.
+
+3 - À brigada de sapadores florestais pode ser cedido, pelo ICNF, I. P., equipamento complementar, maquinaria pesada, em regime de comodato.
+
+4 - A área de intervenção da brigada pode sobrepor-se às áreas de intervenção de equipas individuais.
+
+5 - As brigadas de sapadores florestais desenvolvem principalmente ações de silvicultura preventiva, ações de apoio ao combate, rescaldo e ações de estabilização de emergência.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 6.º-B — Planeamento e orientação técnica das equipas, agrupamentos e brigadas de sapadores florestais
+
+1 - O planeamento do serviço público das equipas, dos agrupamentos e das brigadas de sapadores florestais é articulado entre o ICNF, I. P., e a entidade titular.
+
+2 - O planeamento do serviço normal das equipas, dos agrupamentos e das brigadas de sapadores florestais é da responsabilidade das entidades titulares.
+
+3 - Sempre que em ações de serviço público estejam presentes equipas ou agrupamentos de sapadores florestais e esteja presente uma equipa ou brigada da Força de Sapadores Bombeiros Florestais (FSBF) a orientação técnica desta ação é da responsabilidade do elemento mais graduado da FSBF ou, no caso de brigadas de sapadores florestais, ao chefe de brigada.
+
+4 - Sempre que em ações de serviço normal a orientação técnica de equipas e agrupamentos de sapadores florestais cabe ao técnico de acompanhamento ou, no caso de brigada de sapadores florestais, ao chefe de brigada.
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 7.º — Equipamento individual e coletivo das equipas de sapadores florestais
+
+1 - Às equipas de sapadores florestais é concedido equipamento de proteção individual e equipamento coletivo, nomeadamente equipamento manual, moto manual e viatura equipada para as atividades a desenvolver no âmbito das suas funções.
+
+2 - Os sapadores florestais dispõem de equipamento de proteção individual próprio para cada uma das componentes da sua atividade.
+
+3 - As características técnicas do equipamento individual e coletivo e do fardamento a que se referem os números anteriores são definidas por deliberação do conselho diretivo do ICNF, I. P., e divulgadas no seu sítio na Internet.
+
+4 - A informação mencionada no número anterior deve ser acedida através do sistema de pesquisa online de informação pública que indexa todos os conteúdos públicos dos sítios na Internet das entidades públicas, previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, na sua redação atual.
+
+5 - A informação e os dados referidos no número anterior devem ser disponibilizados em formatos abertos, que permitam a leitura por máquina, nos termos da Lei n.º 36/2011, de 21 de junho, na sua redação atual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 8.º — Área de intervenção das equipas de sapadores florestais
+
+1 - A área de intervenção de uma equipa de sapadores florestais é proposta pela respetiva entidade titular aquando da sua criação ou do seu reconhecimento, competindo ao ICNF, I. P., a sua aprovação.
+
+2 - A área de intervenção por equipa de sapadores florestais deve abranger uma superfície de floresta contígua igual ou superior a 2500 hectares, não podendo sobrepor-se à área de intervenção de outras equipas e não deve ser superior a uma área total de 10 000 hectares.
+
+3 - O ICNF, I. P., pode autorizar a alteração da área de intervenção de uma equipa de sapadores florestais, mediante pedido da entidade titular da equipa devidamente fundamentado, ou promover, conjuntamente com as entidades titulares, a alteração das áreas de intervenção adjacentes de equipas de sapadores florestais com o objetivo de permitir a criação de novas equipas onde seja tecnicamente adequado melhorar a sua cobertura territorial.
+
+4 - As áreas de intervenção dos agrupamentos de equipas de sapadores florestais correspondem ao total das respetivas áreas geográficas das equipas que constituem o agrupamento.
+
+5 - As áreas de intervenção das brigadas de sapadores florestais abrangem as áreas das respetivas comunidades intermunicipais ou áreas metropolitanas, podendo sobrepor-se às áreas de intervenção das equipas de sapadores florestais.
+
+6 - Por razões de interesse público, as equipas e as brigadas de sapadores florestais podem atuar em locais situados fora da sua área de intervenção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 9.º — Entidades titulares de equipas de sapadores florestais
+
+As entidades que podem ser titulares de equipas de sapadores florestais são:
+
+a) Entidades gestoras de zonas de intervenção florestal;
+
+b) Associações e cooperativas reconhecidas como organizações de produtores florestais registadas no ICNF, I. P.;
+
+c) Órgãos de gestão dos baldios e suas associações;
+
+d) Cooperativas de interesse público;
+
+e) Autarquias locais e entidades intermunicipais;
+
+f) Órgãos e serviços da administração direta e indireta do Estado.
+
+###### Artigo 10.º — Regime jurídico de emprego
+
+1 - Os sapadores florestais ficam submetidos a uma relação jurídica de emprego privado com as entidades titulares das respetivas equipas de sapadores previstas no artigo anterior.
+
+2 - Excetuam-se do disposto no número anterior os sapadores florestais que exerçam funções nas entidades previstas nas alíneas e) e f) do artigo anterior, cujo vínculo de emprego público é regulado pela Lei Geral do Trabalho em Funções Públicas (LTFP), aprovada pela Lei n.º 35/2014, de 20 de junho, alterada pelas Leis n.os 82-B/2014, de 31 de dezembro, 84/2015, de 7 de agosto, e 18/2016, de 20 de junho.
+
+###### Artigo 11.º — Criação de equipas e de brigadas de sapadores florestais
+
+1 - O procedimento para a criação de equipas e de brigadas de sapadores florestais é estabelecido por despacho do membro do Governo responsável pela área das florestas, mediante proposta do ICNF, I. P.
+
+2 - A proposta do ICNF, I. P., a que se refere o número anterior deve considerar o número de equipas a criar e respetivas áreas de intervenção, e os critérios de prioridade a aplicar na seleção das candidaturas que, entre outros parâmetros, devem incluir a taxa de ocupação florestal e a perigosidade de ocorrência de incêndio florestal.
+
+3 - As equipas e brigadas de sapadores florestais são criadas pelo ICNF, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 12.º — Reconhecimento de equipas de sapadores florestais
+
+1 - O procedimento para o reconhecimento de equipas de sapadores florestais, é estabelecido por despacho do membro do Governo responsável pela área das florestas, mediante proposta do ICNF, I. P.
+
+2 - O reconhecimento, como equipas de sapadores florestais, de equipas que não tenham sido criadas ao abrigo do artigo anterior é da competência do ICNF, I. P.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 13.º — Transferência de titularidade de equipas de sapadores florestais
+
+1 - As equipas de sapadores florestais podem ser transferidas para outra entidade quando a entidade titular e a entidade adquirente o solicitem, devendo o pedido ser especialmente fundamentado quando implique alteração da área de intervenção, conjuntamente, ao ICNF, I. P., e se encontrem preenchidos por parte da entidade adquirente os requisitos previstos nas alíneas a) a d) do artigo 9.º e os previstos no artigo 18.º para a detenção de equipas de sapadores florestais.
+
+2 - Para além do disposto no número anterior, deve ainda salvaguardar-se que a transferência dos elementos da equipa para a nova entidade titular, é acompanhada de todos os direitos e regalias salariais daqueles, incluindo antiguidade, decorrentes dos respetivos contratos de trabalho celebrados e do exercício de funções desempenhadas na entidade transmitente, de acordo com as regras do Código do Trabalho.
+
+3 - (Revogado).
+
+4 - A transferência de titularidade da equipa de sapadores florestais permite a transferência de quaisquer apoios financeiros e equipamentos a ela atribuídos nessa qualidade pelo Estado.
+
+5 - A aprovação da transferência da equipa de sapadores é da competência do conselho diretivo do ICNF, I. P.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 14.º — Registo das equipas de sapadores florestais
+
+1 - As equipas de sapadores florestais criadas ou reconhecidas pelo ICNF, I. P., dispõem de identificação própria e estão sujeitas a um registo nacional, da responsabilidade do ICNF, I. P., que deve publicitar essa informação no seu sítio na Internet.
+
+2 - (Revogado)
+
+3 - A informação mencionada no n.º 1 deve ser acedida através do sistema de pesquisa online de informação pública que indexa todos os conteúdos públicos dos sítios na Internet das entidades públicas, previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado e republicado pelo Decreto-Lei n.º 73/2014, de 13 de maio, alterado pelo Decreto-Lei n.º 58/2016, de 29 de agosto.
+
+4 - A informação e os dados referidos no número anterior devem ser disponibilizados em formatos abertos, que permitam a leitura por máquina, nos termos da Lei n.º 36/2011, de 21 de junho.
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 15.º — Plano e relatório de atividades
+
+1 - A atividade desenvolvida pelas equipas e brigadas de sapadores florestais está sujeita a inscrição e registo obrigatório no SISF.
+
+2 - A atividade de serviço público é desenvolvida no ano civil a que diz respeito e tem registo diário obrigatório.
+
+3 - As entidades titulares das equipas de sapadores florestais elaboram e inserem no SISF, até de 30 de novembro de cada ano, o plano de atividades do ano seguinte, devendo o ICNF, I. P., proceder à sua aprovação no prazo de trinta dias seguidos, notificando as entidades titulares das equipas após aprovação.
+
+4 - As entidades titulares de equipas de sapadores florestais elaboram e inserem no SISF os relatórios de atividades dentro dos seguintes prazos:
+
+a) Até 15 de julho do ano a que respeita, o relatório de atividades do primeiro semestre;
+
+b) Até 15 de outubro, do ano a que respeita, o relatório de atividades realizadas até ao fim do terceiro trimestre;
+
+c) Até ao dia 31 de janeiro do ano seguinte ao que diz respeito, o relatório anual de atividades.
+
+5 - Os relatórios de atividades têm um preenchimento semiautomático com base na informação constante do registo da atividade diária de serviço público, cabendo às entidades titulares preencher a restante informação relativa ao serviço normal, informação esta que também é obrigatória.
+
+6 - O ICNF, I. P., comprova a execução do serviço público e emite parecer sobre os relatórios de atividades, referidos no número anterior, no prazo de 60 dias seguidos após a sua apresentação, dando do mesmo conhecimento às entidades titulares das equipas.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 16.º — Serviço público
+
+1 - As equipas de sapadores florestais beneficiárias de apoio previsto no artigo 19.º estão obrigadas a prestar serviço público de natureza e extensão a definir pelo ICNF, I. P., após prévia audição das respetivas entidades titulares.
+
+2 - O serviço público desenvolve-se ao longo do ano, em que um mínimo de dois terços da atividade de silvicultura preventiva é realizado no primeiro semestre, com o objetivo de ampliar o efeito da prevenção nos incêndios rurais.
+
+3 - O serviço público de atividade de silvicultura é contabilizado pela percentagem da área intervencionada face à área prevista em plano de atividades.
+
+4 - O serviço público de vigilância e as restantes atividades de supressão de incêndios são contabilizados em dias.
+
+5 - O plano de atividades tem de contemplar um mínimo de 50 % de atividade em ações de silvicultura preventiva.
+
+6 - A formação profissional básica relativa à certificação de grau um é contabilizada a 100 % como serviço público.
+
+7 - A formação profissional referente às restantes UC e ou UFCD do Referencial de Competências e/ou de Formação de Sapador Florestal, de caráter obrigatório, é contabilizada a 50 % como serviço público.
+
+8 - Após cinco anos de existência da equipa são integrados em serviço público 50 % dos dias utilizados na formação profissional, relativa ao RFSF, até ao máximo de 15 % da totalidade dos dias de prestação efetiva de serviço público do ano em curso.
+
+9 - O serviço público relativo às funções constantes nas alíneas a) a e) do artigo 3.º, deve preferencialmente ser executado na área de intervenção da equipa de sapadores florestais ou nos municípios limítrofes.
+
+10 - As ações a desenvolver no âmbito do serviço público devem ser descritas no plano de atividades das equipas de sapadores florestais, ficando os apoios ao funcionamento condicionados à sua execução.
+
+11 - O resultado do serviço previsto no número anterior deve ser objeto de relatório de atividades a divulgar no sítio na Internet do ICNF, I. P.
+
+12 - Os valores de referência da rentabilidade das diferentes atividades de silvicultura preventiva, que servem de base para o plano de atividades, são estabelecidos em norma técnica do ICNF, I. P., a publicitar no seu sítio na Internet no prazo de 60 dias após a entrada em vigor do presente decreto-lei.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 17.º — Vigilância armada, primeira intervenção em incêndios florestais, apoio a operações de rescaldo e vigilância ativa pós-rescaldo
+
+1 - Durante os períodos de maior suscetibilidade à ocorrência de incêndios florestais, as equipas de sapadores florestais estão sujeitas a uma área de atuação estabelecida no Plano Operacional Municipal, definido e aprovado na Comissão Municipal de Defesa da Floresta.
+
+2 - Aquando da execução de ações de vigilância armada, primeira intervenção em incêndios florestais, apoio a operações de rescaldo e vigilância ativa pós-rescaldo, a equipa de sapadores fica exclusivamente adstrita à realização dessas ações.
+
+3 - Sempre que as equipas de sapadores detetem, ou sejam alertadas, para a existência de um incêndio nascente na sua área de intervenção, compete-lhes dar conhecimento ao respetivo Comando Distrital de Operações de Socorro da ANPC e, em articulação com este, desencadear de imediato a primeira intervenção.
+
+4 - As equipas de sapadores florestais devem ainda prestar apoio a operações de rescaldo e de vigilância ativa pós-rescaldo, sempre que os serviços de proteção civil o solicitem.
+
+5 - A ativação e forma de intervenção das equipas de sapadores florestais nas ações referidas no presente artigo está sujeita ao cumprimento das regras estabelecidas no manual de procedimentos para vigilância armada, primeira intervenção, apoio ao rescaldo e vigilância ativa pós-rescaldo, aprovado pelo ICNF, I. P., e divulgado no seu sítio na Internet.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 18.º — Obrigações das entidades titulares de equipas de sapadores florestais
+
+As entidades titulares das equipas de sapadores florestais devem:
+
+a) Assegurar a contratação ou colocação dos sapadores florestais;
+
+b) Suportar as despesas decorrentes da contratação dos sapadores florestais, incluindo salários, encargos sociais e seguro de acidentes de trabalho, as despesas de funcionamento e manutenção da capacidade operacional, bem como as de enquadramento técnico da equipa;
+
+c) Respeitar as funções do sapador florestal no exercício da sua atividade;
+
+d) Garantir a disponibilidade dos sapadores florestais para a frequência das ações de formação profissional necessárias ao seu desempenho profissional;
+
+e) Garantir a operacionalidade do equipamento individual e coletivo da equipa de sapadores florestais e a sua manutenção ou substituição, no caso de perda ou deterioração grave, ou sempre que não assegure a funcionalidade e segurança da equipa de sapadores florestais;
+
+f) Zelar pela aplicação das normas de segurança, higiene e saúde no trabalho e assegurar o cumprimento da legislação aplicável à atividade desenvolvida pela equipa de sapadores florestais;
+
+g) Garantir a necessária flexibilidade de horário de trabalho que o exercício das ações de defesa da floresta contra incêndios exige, nomeadamente durante o período de nível de empenhamento operacional mais elevado, definido na Diretiva Operacional Nacional da ANEPC que estabelece o dispositivo especial de combate a incêndios rurais;
+
+h) Dispor de serviço técnico habilitado, preferencialmente na área da silvicultura, que supervisione a atividade da equipa de sapadores florestais;
+
+i) Manter permanentemente atualizado o SISF, com o registo da informação relativa à identificação dos sapadores florestais e respetiva formação profissional, da atividade desenvolvida pela equipa e dos elementos relevantes da entidade titular;
+
+j) Reportar a atividade das equipas de sapadores florestais através dos relatórios de atividade;
+
+k) Assegurar a utilização obrigatória do equipamento de proteção individual.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 19.º — Apoio às equipas de sapadores florestais
+
+1 - O Estado concede apoio financeiro para formação profissional, aquisição de equipamento e funcionamento das equipas de sapadores florestais, preferencialmente através do Fundo Ambiental.
+
+2 - As fontes de financiamento podem ser nacionais ou comunitárias, não podendo em caso algum haver sobreposição de apoios.
+
+3 - Os apoios devem ser concedidos sob a forma de subsídio, a fundo perdido ou reembolsável, mediante a formalização de candidaturas aos programas de apoio que enquadrem a atividade das equipas de sapadores florestais, de acordo com os domínios referidos no n.º 1.
+
+4 - A concessão de apoio ao funcionamento das equipas de sapadores florestais reveste a forma de subsídio a fundo perdido e tem como contrapartida a prestação de serviço público.
+
+5 - O montante do apoio anual ao funcionamento das equipas de sapadores florestais atribuído pelo Estado é definido por despacho do membro do Governo responsável pela área das florestas, que detém a gestão do Fundo Ambiental, tendo como valor máximo anual (euro) 55 000,00.
+
+6 - O montante máximo do apoio anual referido no número anterior pode ser majorado até um valor máximo de (euro) 10 000 por equipa, quando a entidade titular seja uma entidade intermunicipal detentora de brigada ou brigadas de sapadores florestais que prestem exclusivamente serviço público.
+
+7 - Os montantes referidos nos números anteriores são atribuídos da seguinte forma:
+
+a) 50 % sob a forma de adiantamento, entregue com a apresentação do relatório de atividades do ano anterior e o plano de atividades do ano a que diz respeito;
+
+b) Os restantes pagamentos são efetuados em função da taxa de execução apresentada nos relatórios de atividades.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 58/2023 - Diário da República n.º 139/2023, Série I de 2023-07-19](https://diariodarepublica.pt/dr/detalhe/decreto-lei/58-2023-215874580), em vigor a partir de 2023-07-20
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 20.º — Avaliação das equipas de sapadores florestais
+
+1 - Compete ao ICNF, I. P., a avaliação e acompanhamento do desempenho e eficácia das equipas de sapadores florestais.
+
+2 - As entidades titulares de equipas de sapadores florestais têm, para efeitos do número anterior, de disponibilizar a informação que sobre a matéria lhes for solicitada pelo ICNF, I. P., designadamente a relativa aos resultados físicos da sua atividade.
+
+3 - O ICNF, I. P., pode realizar ações de controlo, vistorias e visitas técnicas, ou solicitar a entidades externas a realização de ações de controlo ao funcionamento, à regularidade das equipas de sapadores florestais e à conformidade dos atos praticados com a lei, bem como ao seu desempenho e eficácia.
+
+###### Artigo 21.º — Sanções por incumprimento
+
+1 - São alvo de sanções as seguintes ações:
+
+a) A não apresentação do plano de atividades na data estabelecida no artigo 15.º, ou na data previamente acordada com o ICNF, I. P., implica a perda do apoio relativo ao ano em causa;
+
+b) A não apresentação de qualquer relatório de atividades nas datas estabelecidas no artigo 15.º, implica a perda de 0,5 % do apoio anual, por cada documento em falta;
+
+c) A não realização dos trabalhos previstos no âmbito do serviço público, descritos no plano de atividades implica a perda percentual dos montantes de apoio correspondentes à parte não executada.
+
+2 - A entidade titular poderá solicitar ao ICNF, I. P., a realização integral dos trabalhos de silvicultura em falta, desde que os mesmos sejam executados atempadamente e relatório de atividades seja apresentado até 31 de janeiro.
+
+3 - O incumprimento pela entidade titular relativo ao número dos elementos da equipa nos termos definidos nos n.os 2 e 3 do artigo 5.º, constitui causa imediata de perda de apoios na devida proporção, a partir de 60 dias úteis a contar da data de cessação do contrato de trabalho do anterior sapador, sem que se verifique a apresentação de contrato com o novo sapador.
+
+4 - O incumprimento pela entidade titular relativo ao n.º 5 do artigo 5.º, constitui causa imediata de perda dos apoios, à data, e durante o tempo em que o número de sapadores florestais seja inferior a três efetivos.
+
+5 - O incumprimento pela entidade titular relativo à formação profissional dos elementos da equipa, nos termos definidos no n.º 8 do artigo 4.º, constitui causa imediata de perda de apoios na devida proporção.
+
+6 - O incumprimento da atualização permanente do SISF, nos termos da alínea i) do artigo 18.º, constitui causa de suspensão dos apoios até à sua regularização.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 22.º — Extinção de equipas de sapadores florestais
+
+1 - As equipas de sapadores florestais podem ser extintas:
+
+a) Por iniciativa das entidades titulares das equipas de sapadores florestais, devendo neste caso formalizar o pedido de extinção ao ICNF, I. P.;
+
+b) Quando, durante três anos, seguidos ou interruptos, as respetivas entidades titulares não apresentem ao ICNF, I. P., os planos e relatórios de atividades a que se encontram obrigadas e a falta não for suprida no prazo que lhes for indicado pelo ICNF, I. P.;
+
+c) Quando, durante três anos, seguidos ou interruptos as respetivas entidades titulares não realizem os trabalhos de silvicultura preventiva, de serviço público a que as equipas se encontram obrigadas e a falta não for suprida no prazo que lhes for determinado pelo ICNF, I. P.;
+
+d) Quando as respetivas entidades titulares, não regularizando a situação a que se refere o n.º 2 ou o n.º 3 do artigo 5.º, contratando os sapadores em falta para a respetiva equipa;
+
+e) Na sequência do normal processo de avaliação pelo ICNF, I. P., quando esta for desfavorável no que respeita ao funcionamento ou desempenho da equipa de sapadores florestais;
+
+f) Na sequência de avaliação desfavorável em resultado de ações de controlo;
+
+g) Quando se verifique que a sua atividade não corresponde às atividades definidas no artigo 3.º;
+
+h) Quando as entidades titulares de equipas de sapadores florestais as mantenham suspensas por mais de um ano ininterrupto;
+
+i) Quando as entidades titulares não operacionalizem a equipa um ano após a assinatura do termo de aceitação da referida equipa ou brigada de sapadores florestais.
+
+2 - A extinção de equipas de sapadores florestais é da competência do conselho diretivo do ICNF, I. P.
+
+3 - A extinção de equipas de sapadores florestais obriga a respetiva entidade titular a devolver o valor comparticipado pelo Estado na aquisição de bens ou equipamentos, deduzido da percentagem equivalente à sua depreciação decorrente da normal e prudente utilização, ou os bens ou equipamentos a ela cedidos em regime de comodato e ainda dos apoios ao funcionamento por ela recebidos durante o período em falta e que serviu de fundamento à extinção.
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 44/2020 - Diário da República n.º 141/2020, Série I de 2020-07-22](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44-2020-138571583), em vigor a partir de 2020-07-23
+
+###### Artigo 23.º — Normas transitórias
+
+O presente decreto-lei aplica-se às equipas de sapadores florestais constituídas ao abrigo do disposto no Decreto-Lei n.º 109/2009, de 15 de maio, com as ressalvas constantes das alíneas seguintes:
+
+a) O equipamento cedido em regime de comodato às entidades titulares de equipas de sapadores florestais ao abrigo do disposto no artigo 10.º do Decreto-Lei n.º 179/99, de 21 de maio, e no artigo 14.º do Decreto-Lei n.º 109/2009, de 15 de maio, mantém-se na sua posse e ao serviço da respetiva equipa de sapadores, nos termos com elas acordados, aplicando-se, no demais e com as devidas adaptações, o disposto no presente decreto-lei;
+
+b) A dimensão da superfície de intervenção estabelecida no n.º 2 do artigo 8.º só se aplica às equipas criadas a partir da entrada em vigor do presente decreto-lei;
+
+c) Os trabalhos aprovados no âmbito do serviço público mantêm-se para o ano em curso, aplicando-se aos anos subsequentes o previsto no presente decreto-lei.
+
+###### Artigo 24.º — Norma revogatória
+
+É revogado o Decreto-Lei n.º 109/2009, de 15 de maio.
+
+###### Artigo 25.º — Entrada em vigor
+
+O presente decreto-lei entra em vigor no dia seguinte ao da sua publicação.
+
+Visto e aprovado em Conselho de Ministros de 27 de outubro de 2016. - António Luís Santos da Costa - Fernando António Portela Rocha de Andrade - Maria Constança Dias Urbano de Sousa - Tiago Brandão Rodrigues - José António Fonseca Vieira da Silva - Célia Maria Gomes de Oliveira Ramos - Luís Manuel Capoulas Santos.
+
+Promulgado em 29 de dezembro de 2016.
+
+Publique-se.
+
+O Presidente da República, Marcelo Rebelo de Sousa.
+
+Referendado em 3 de janeiro de 2017.
+
+O Primeiro-Ministro, António Luís Santos da Costa.

@@ -1,0 +1,291 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:73416668:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-legislativo-regional/2016-212982177",
+ "dre_path": "/dr/detalhe/decreto-legislativo-regional/5-2016-73416668",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2016-02-03",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "212982107",
+    "212982108",
+    "212982109",
+    "212982110",
+    "212982111",
+    "212982112",
+    "212982113",
+    "212982114",
+    "212982115",
+    "212982116",
+    "212982117",
+    "212982118",
+    "212982119",
+    "212982120",
+    "212982121",
+    "212982122",
+    "212982123"
+   ]
+  },
+  {
+   "date": "2023-05-12",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:212905824:por",
+     "title": "Decreto Legislativo Regional n.º 19/2023/M",
+     "published": "2023-05-11",
+     "dre_path": "/dr/detalhe/decreto-legislativo-regional/19-2023-212905824"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Altera Artigo 6.º",
+    "Altera Artigo 8.º",
+    "Altera Artigo 9.º",
+    "Altera Artigo 10.º"
+   ],
+   "fragments": [
+    "212982107",
+    "212982108",
+    "212982109",
+    "212982110",
+    "212982111",
+    "212982149",
+    "212982150",
+    "212982151",
+    "212982115",
+    "212982152",
+    "212982117",
+    "212982153",
+    "212982154",
+    "212982155",
+    "212982121",
+    "212982122",
+    "212982123",
+    "212982124"
+   ]
+  }
+ ],
+ "fragments": {
+  "212982107": {
+   "fragment_id": "212982178",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Decreto Legislativo Regional n.º 5/2016/M\n\nCria o Fórum Madeira Global e o Conselho da Diáspora Madeirense\n\nPortugal é, tradicionalmente, um país com um perfil migratório. De facto, ao longo dos tempos, a emigração tem sido um fator condicionante da demografia portuguesa com impactos a nível económico, social e cultural.\n\nNo contexto recente da globalização e da consequente dispensa de fronteiras verificou-se um aumento significativo das migrações tendo surgido uma nova tipologia de fluxos migratórios, nomeadamente com a saída de cidadãos nacionais qualificados. Trata-se, portanto, de um fenómeno que não só alterou a demografia mundial como alterou, também, de forma significativa, o perfil migratório de Portugal e da Região Autónoma da Madeira.\n\nOs emigrantes madeirenses e os seus lusodescendentes espalhados pelo mundo são parte integrante da população madeirense e sempre tiveram um papel preponderante na divulgação e na dignificação da Região nos países onde residem, pelo que constituem um património de inegável potencial e qualidade que importa valorizar através da adoção de medidas atrativas que promovam a sua participação no desenvolvimento da sua terra natal.\n\nCiente desta realidade, o Governo Regional propõe-se assegurar uma maior participação das nossas comunidades, promovendo o envolvimento mais ativo das gerações mais novas e da nova emigração qualificada, que dispõem, naturalmente, de uma visão atualizada do movimento e das dinâmicas migratórias. Para esse efeito, importa criar espaços que permitam o diálogo, o debate, e a participação organizada das comunidades madeirenses dispersas pelo mundo.\n\nCom esse propósito, através do presente diploma, procede-se à criação do Fórum Madeira Global e do Conselho da Diáspora Madeirense como forma de implementar uma nova dinâmica, dotando as comunidades madeirenses de uma maior capacidade de assessorar o Governo Regional na definição da sua política para o setor.\n\nAssim,\n\nA Assembleia Legislativa da Região Autónoma da Madeira decreta, nos termos das disposições conjugadas do n.º 4 do artigo 112.º, da alínea a) do n.º 1 do artigo 227.º, do n.º 1 do artigo 232.º da Constituição da República Portuguesa e da alínea c) do n.º 1 do artigo 37.º, da alínea a) do artigo 40.º e do n.º 1 do artigo 41.º do Estatuto Político-Administrativo da Região Autónoma da Madeira, aprovado pela Lei n.º 13/91, de 5 de junho, revisto pelas Leis n.os 130/99, de 21 de agosto, e n.º 12/2000, de 21 de junho, o seguinte:"
+  },
+  "212982108": {
+   "fragment_id": "212982179",
+   "type": 1,
+   "heading": "Capítulo I — Organização regional para as comunidades madeirenses",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Organização regional para as comunidades madeirenses"
+  },
+  "212982109": {
+   "fragment_id": "212982180",
+   "type": 11,
+   "heading": "Artigo 1.º — Órgãos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Órgãos\n\n1 - São criadas as seguintes estruturas orgânicas das comunidades madeirenses:\n\na) Fórum Madeira Global, abreviadamente designado por Fórum;\n\nb) Conselho da Diáspora Madeirense, abreviadamente designado por Conselho."
+  },
+  "212982110": {
+   "fragment_id": "212982181",
+   "type": 1,
+   "heading": "Capítulo II — Fórum Madeira Global",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Fórum Madeira Global"
+  },
+  "212982111": {
+   "fragment_id": "212982182",
+   "type": 11,
+   "heading": "Artigo 2.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Natureza\n\nO Fórum é um órgão de reunião, de diálogo e de debate das comunidades madeirenses entre si e entre estas e o Governo Regional, com vista à sua participação na definição da política regional destinada ao aprofundamento dos laços que unem os madeirenses, independentemente do local onde residem."
+  },
+  "212982112": {
+   "fragment_id": "212982183",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições do Fórum:\n\na) Promover o encontro e a troca de experiências entre as comunidades madeirenses dispersas pelo mundo;\n\nb) Apreciar e estudar assuntos relativos aos madeirenses e seus descendentes residentes no estrangeiro, suas comunidades e associações;\n\nc) Partilhar informação de forma heterogénea com vista ao estreitamento das relações entre a Região Autónoma da Madeira e as diversas comunidades madeirenses no mundo;\n\nd) Cooperar com o Governo Regional na definição de políticas para as comunidades madeirenses, propondo medidas adequadas à defesa dos seus interesses;\n\ne) Emitir parecer não vinculativo sobre a lista dos membros para o Conselho da Diáspora, proposta pelo Governo Regional;\n\nf) Aprovar as conclusões dos trabalhos."
+  },
+  "212982113": {
+   "fragment_id": "212982184",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - Podem participar no Fórum os emigrantes madeirenses e seus descendentes, maiores de 18 anos, residentes no estrangeiro ou regressados há menos de dois anos.\n\n2 - A participação referida no número anterior é facultativa, dependendo, porém, de inscrição prévia.\n\n3 - Podem ainda participar no Fórum, sem direito de voto, observadores e convidados do Governo Regional da Madeira."
+  },
+  "212982114": {
+   "fragment_id": "212982185",
+   "type": 11,
+   "heading": "Artigo 5.º — Reunião",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reunião\n\n1 - O Fórum reúne anualmente, em regra no mês de agosto, mediante anúncio público, a efetuar com a antecedência de 90 dias.\n\n2 - O Fórum é presidido pelo Presidente do Governo Regional ou pelo membro do Governo com a tutela das Comunidades Madeirenses.\n\n3 - O anúncio referido no n.º 1, bem como a organização, o apoio técnico e administrativo necessários ao normal funcionamento das reuniões do Fórum serão assegurados pela Secretaria Regional com a tutela das Comunidades Madeirenses."
+  },
+  "212982115": {
+   "fragment_id": "212982186",
+   "type": 1,
+   "heading": "Capítulo III — Conselho da Diáspora Madeirense",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Conselho da Diáspora Madeirense"
+  },
+  "212982116": {
+   "fragment_id": "212982187",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Natureza\n\n1 - O Conselho é o órgão consultivo do Governo Regional, visando o acompanhamento permanente das questões relacionadas com as comunidades madeirenses.\n\n2 - O Conselho é presidido pelo Presidente do Governo Regional ou pelo membro do Governo responsável pelo setor."
+  },
+  "212982117": {
+   "fragment_id": "212982188",
+   "type": 11,
+   "heading": "Artigo 7.º — Atribuições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Atribuições\n\nSão atribuições do Conselho:\n\na) Analisar as ações ou medidas respeitantes à política regional para as comunidades madeirenses;\n\nb) Apreciar e emitir parecer sobre as questões que lhe sejam submetidas pelo Fórum;\n\nc) Contribuir para a definição de políticas globais para a promoção e o reforço dos laços que unem as comunidades madeirenses entre si e entre estas e a Região;\n\nd) Elaborar recomendações ao Governo Regional ou a outras entidades públicas sobre matérias relativas à emigração e às comunidades madeirenses;\n\ne) Propor a adoção de medidas que visem a melhoria das condições de vida, da estada e de trabalho dos madeirenses que residem e trabalham no estrangeiro e suas famílias."
+  },
+  "212982118": {
+   "fragment_id": "212982189",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Composição\n\n1 - O Conselho é composto por 21 conselheiros efetivos, designados pelo Governo Regional nos seguintes termos:\n\na) Três conselheiros pela África do Sul;\n\nb) Três conselheiros pelo Reino Unido;\n\nc) Três conselheiros pela Venezuela;\n\nd) Dois conselheiros pela Austrália;\n\ne) Dois conselheiros pelo Brasil;\n\nf) Um conselheiro pelos Estados Unidos da América;\n\ng) Dois conselheiros pelo resto da Europa;\n\nh) Dois conselheiros residentes fora da Região, mas em território nacional;\n\ni) Um conselheiro pelo Mar das Caraíbas;\n\nj) Um conselheiro pelo Canadá;\n\nk) Um conselheiro pela Comunidade de Países de Língua Portuguesa.\n\n2 - Podem participar nos trabalhos do Conselho, sem direito de voto, outras entidades convidadas para o efeito."
+  },
+  "212982119": {
+   "fragment_id": "212982190",
+   "type": 11,
+   "heading": "Artigo 9.º — Reunião",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reunião\n\n1 - O Conselho é convocado e presidido pelo Presidente do Governo Regional ou pelo membro do Governo com a tutela das Comunidades Madeirenses, os quais não têm direito de voto.\n\n2 - O Conselho reúne uma vez por ano, podendo reunir extraordinariamente mediante convocatória dos membros do Governo Regional referidos no número anterior ou por mais de um terço dos conselheiros, desde que oriundos de pelo menos 5 países distintos.\n\n3 - As reuniões terão lugar em local a definir pelo Governo Regional.\n\n4 - O apoio logístico, técnico e administrativo necessário ao normal funcionamento do Conselho será assegurado pela Secretaria Regional com a tutela das Comunidades Madeirenses."
+  },
+  "212982120": {
+   "fragment_id": "212982191",
+   "type": 11,
+   "heading": "Artigo 10.º — Posse e mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Posse e mandato\n\nOs conselheiros tomam posse no primeiro dia de trabalhos do Conselho e o seu mandato tem a duração de quatro anos, terminando com a tomada de posse daqueles que os substituam."
+  },
+  "212982121": {
+   "fragment_id": "212982192",
+   "type": 1,
+   "heading": "Capítulo IV — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Disposições finais"
+  },
+  "212982122": {
+   "fragment_id": "212982193",
+   "type": 11,
+   "heading": "Artigo 11.º — Norma revogatória",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Norma revogatória\n\nÉ revogado o Decreto Legislativo Regional n.º 39/2006/M, de 23 de agosto, e demais legislação sobre a matéria e respetiva regulamentação."
+  },
+  "212982123": {
+   "fragment_id": "212982194",
+   "type": 11,
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nO presente diploma entra em vigor no dia seguinte ao da sua publicação."
+  },
+  "212982149": {
+   "fragment_id": "212982183",
+   "type": 11,
+   "heading": "Artigo 3.º — Atribuições",
+   "in_force_from": "2023-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+   ],
+   "markdown": "###### Artigo 3.º — Atribuições\n\nSão atribuições do Fórum:\n\na) Promover o encontro e a troca de experiências entre as comunidades madeirenses dispersas pelo mundo;\n\nb) Apreciar e estudar assuntos relativos aos madeirenses e seus descendentes residentes no estrangeiro, suas comunidades e associações;\n\nc) Partilhar informação de forma heterogénea com vista ao estreitamento das relações entre a Região Autónoma da Madeira e as diversas comunidades madeirenses no mundo;\n\nd) Cooperar com o Governo Regional na definição de políticas para as comunidades madeirenses, propondo medidas adequadas à defesa dos seus interesses, bem como outras que promovam e facilitem o investimento na Região;\n\ne) Tomar conhecimento da lista dos membros para o Conselho da Diáspora, proposta pelo Governo Regional;\n\nf) Aprovar as conclusões dos trabalhos.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+  },
+  "212982150": {
+   "fragment_id": "212982184",
+   "type": 11,
+   "heading": "Artigo 4.º — Composição",
+   "in_force_from": "2023-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+   ],
+   "markdown": "###### Artigo 4.º — Composição\n\n1 - Podem participar no Fórum os emigrantes madeirenses e seus descendentes, maiores de 18 anos, residentes no estrangeiro ou regressados.\n\n2 - A participação referida no número anterior é facultativa, dependendo de inscrição prévia.\n\n3 - Podem ainda participar no Fórum, sem direito de voto, observadores e convidados do Governo Regional da Madeira.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+  },
+  "212982151": {
+   "fragment_id": "212982185",
+   "type": 11,
+   "heading": "Artigo 5.º — Reunião",
+   "in_force_from": "2023-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+   ],
+   "markdown": "###### Artigo 5.º — Reunião\n\n1 - O Fórum reúne anualmente, em regra, entre junho e setembro, mediante anúncio público, a efetuar com a antecedência de 90 dias.\n\n2 - O Fórum é presidido pelo Presidente do Governo Regional ou pelo responsável do departamento de Governo Regional com a tutela das Comunidades Madeirenses.\n\n3 - O anúncio referido no n.º 1, bem como a organização, o apoio técnico, financeiro e administrativo necessários ao normal funcionamento das reuniões do Fórum serão assegurados pelo departamento do Governo Regional com a tutela das Comunidades Madeirenses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+  },
+  "212982152": {
+   "fragment_id": "212982187",
+   "type": 11,
+   "heading": "Artigo 6.º — Natureza",
+   "in_force_from": "2023-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+   ],
+   "markdown": "###### Artigo 6.º — Natureza\n\n1 - O Conselho é o órgão consultivo do Governo Regional, visando o acompanhamento permanente das questões relacionadas com as comunidades madeirenses.\n\n2 - O Conselho é presidido pelo Presidente do Governo Regional ou pelo responsável do departamento do Governo Regional com a tutela das Comunidades Madeirenses.\n\n3 - Pode o Conselho reunir em regime não presencial, com recurso a meios tecnológicos, sempre que assim se justifique.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+  },
+  "212982153": {
+   "fragment_id": "212982189",
+   "type": 11,
+   "heading": "Artigo 8.º — Composição",
+   "in_force_from": "2023-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+   ],
+   "markdown": "###### Artigo 8.º — Composição\n\n1 - O Conselho é composto pelos conselheiros efetivos, designados pelo Governo Regional, nos seguintes termos:\n\na) Quatro conselheiros pela África do Sul;\n\nb) Quatro conselheiros pela Venezuela;\n\nc) Três conselheiros pelo Reino Unido;\n\nd) Dois conselheiros pela Austrália;\n\ne) Dois conselheiros pelo Brasil;\n\nf) Dois conselheiros pelos Estados Unidos da América;\n\ng) Dois conselheiros pelo resto da Europa;\n\nh) Um conselheiro pelo Mar das Caraíbas;\n\ni) Um conselheiro pelo Canadá;\n\nj) Um conselheiro pela Comunidade de Países de Língua Portuguesa;\n\nk) (Revogada.)\n\n2 - São, ainda, conselheiros efetivos, os presidentes das Casas da Madeira em território nacional.\n\n3 - Podem participar nos trabalhos do Conselho, sem direito de voto, outras entidades convidadas para o efeito.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+  },
+  "212982154": {
+   "fragment_id": "212982190",
+   "type": 11,
+   "heading": "Artigo 9.º — Reunião",
+   "in_force_from": "2023-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+   ],
+   "markdown": "###### Artigo 9.º — Reunião\n\n1 - O Conselho é convocado e presidido pelo Presidente do Governo Regional ou pelo responsável do departamento do Governo Regional com a tutela das Comunidades Madeirenses.\n\n2 - O Conselho reúne uma vez por ano, podendo reunir extraordinariamente mediante convocatória dos membros do Governo Regional referidos no número anterior ou por mais de um terço dos conselheiros, desde que oriundos de pelo menos 5 países distintos.\n\n3 - As reuniões terão lugar em local a definir pelo Governo Regional.\n\n4 - O apoio logístico, técnico, financeiro e administrativo necessário ao normal funcionamento do Conselho será assegurado pelo departamento do Governo Regional com a tutela das Comunidades Madeirenses.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+  },
+  "212982155": {
+   "fragment_id": "212982191",
+   "type": 11,
+   "heading": "Artigo 10.º — Posse e mandato",
+   "in_force_from": "2023-05-12",
+   "changed_by": [
+    "Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+   ],
+   "markdown": "###### Artigo 10.º — Posse e mandato\n\nOs conselheiros tomam posse no primeiro dia de trabalhos do Conselho e o seu mandato coincide com a duração do mandato do Presidente que os nomeou, terminando com a tomada de posse daqueles que os substituam.\n\n> Alterado pelo/a Artigo 2.º do/a [Decreto Legislativo Regional n.º 19/2023/M - Diário da República n.º 91/2023, Série I de 2023-05-11](https://diariodarepublica.pt/dr/detalhe/decreto-legislativo-regional/19-2023-212905824), em vigor a partir de 2023-05-12"
+  },
+  "212982124": {
+   "fragment_id": "212982195",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Aprovado em sessão plenária da Assembleia Legislativa da Região Autónoma da Madeira em 18 de dezembro de 2015.\n\nO Presidente da Assembleia Legislativa, José Lino Tranquada Gomes.\n\nAssinado em 13 de janeiro de 2016.\n\nPublique-se.\n\nO Representante da República para a Região Autónoma da Madeira, Ireneu Cabral Barreto."
+  }
+ }
+}

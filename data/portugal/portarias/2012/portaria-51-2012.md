@@ -1,0 +1,285 @@
+---
+schema_version: '1.0'
+id: pt:dre:542422:por
+title: Portaria n.º 51/2012
+short_title: null
+summary: Aprova a delimitação de perímetros de proteção de captações de águas subterrâneas situadas no concelho de Gavião
+jurisdiction: portugal
+territory: null
+document_type: portaria
+document_type_label: Portaria
+issuing_authority:
+- Ministério da Agricultura, do Mar, do Ambiente e do Ordenamento do Território
+proposing_entity: null
+official_number: 51/2012
+official_date: null
+publication_date: '2012-02-28'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 42/2012, Série I de 2012-02-28
+  number: '42'
+  series: I
+  supplement: null
+  pages: 899 - 902
+  pdf_url: https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: original
+  label: Texto publicado no Diário da República
+  language: por
+  consolidation_date: null
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/port/51/2012/02/28/p/dre/pt/html
+  oj: null
+  dre: '542422'
+  dre_path: /dr/detalhe/portaria/51-2012-542422
+  internal: pt:dre:542422:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-2012-542422
+  metadata_url: https://data.dre.pt/eli/port/51/2012/02/28/p/dre/pt/html
+  content_url: https://diariodarepublica.pt/dr/detalhe/portaria/51-2012-542422
+  consolidated_url: null
+  retrieved_at: '2026-10-21T00:00:00Z'
+  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
+  source_modified_at: '2012-02-28T00:00:00Z'
+integrity:
+  source_sha256: 445c887e22084991a81e2882280bc03a3c22e4e9e99e8af9322a7238b41a764e
+  source_sha256_scope: imported_derived_markdown
+provenance:
+  collector: leis-portugal importador legalize-pt
+  collector_version: 0.1.0
+  generated_by: leis-portugal import legalize
+  generated_at: '2026-10-21T00:00:00Z'
+  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/2012/DRE-2012-51-542422.md).'
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- ÁGUA Potável
+- Controlo Sanitário
+- Gavião
+- Zona de Proteção
+- Águas Subterrâneas
+- Abastecimento de Água
+relationships:
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/226-a/2007/05/31/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/382/1999/09/22/p/dre
+- type: cites
+  target: eli:http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+  label: null
+  source: http://data.dre.pt/eli/lei/58/2005/12/29/p/dre
+article_structure:
+  article_count: 5
+  section_count: 0
+  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+derived_material:
+  machine_generated: true
+  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+validation:
+  status: validated
+  checked_at: '2026-10-21T00:00:00Z'
+  warnings: []
+  errors: []
+---
+
+# Portaria n.º 51/2012
+
+de 28 de fevereiro
+
+O [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, estabelece as normas e os critérios para a delimitação de perímetros de proteção de captações de águas subterrâneas destinadas ao abastecimento público, com a finalidade de proteger a qualidade da água dessas captações.
+
+Os perímetros de proteção visam prevenir, reduzir e controlar a poluição das águas subterrâneas, nomeadamente por infiltração de águas pluviais lixiviantes e de águas excedentes de rega e de lavagens, potenciar os processos naturais de diluição e de autodepuração, prevenir, reduzir e controlar as descargas acidentais de poluentes e, por último, proporcionar a criação de sistemas de aviso e alerta para a proteção dos sistemas de abastecimento de água.
+
+Todas as captações de águas subterrâneas destinadas ao abastecimento público para consumo humano, e a delimitação dos respetivos perímetros de proteção, estão sujeitas às regras estabelecidas no mencionado [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, bem como ao disposto no artigo 37.º da Lei da Água, aprovada pela [Lei n.º 58/2005](https://diariodarepublica.pt/dr/detalhe/lei/58-2005-469068), de 29 de dezembro, e na Portaria n.º 702/2009, de 6 de julho.
+
+Na sequência de um estudo e proposta apresentada pela Câmara Municipal de Gavião de delimitação dos perímetros de proteção para as captações de Vale Pedro Dias e Outeiro Fundeiro, no concelho de Gavião, captações essas sob gestão daquela autarquia, a Administração da Região Hidrográfica do Tejo, I. P., organismo competente à época, emitiu parecer favorável àquela proposta, bem como aos critérios usados para a sua definição legal.
+
+Compete, agora, ao Governo aprovar aquelas zonas de proteção.
+
+Assim:
+
+Ao abrigo do disposto no n.º 1 do artigo 4.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, na redação conferida pelo [Decreto-Lei n.º 226-A/2007](https://diariodarepublica.pt/dr/detalhe/decreto-lei/226-a-2007-340237), de 31 de maio, manda o Governo, pela Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, o seguinte:
+
+###### Artigo 1.º — Delimitação de perímetros de proteção
+
+1 - É aprovada a delimitação dos perímetros de proteção das captações, designadas por:
+
+a) 323/CM-1 do polo de captação de Vale Pedro Dias;
+
+b) 323/CM-2 do polo de captação de Outeiro Fundeiro,
+
+situadas no concelho de Gavião, nos termos da presente portaria.
+
+2 - As coordenadas das captações referidas no número anterior constam do anexo i à presente portaria, que dela faz parte integrante.
+
+###### Artigo 2.º — Zona de proteção imediata
+
+1 - A zona de proteção imediata respeitante aos perímetros de proteção mencionados no artigo anterior corresponde à área da superfície do terreno envolvente à captação, delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do anexo ii à presente portaria, que dela faz parte integrante.
+
+2 - É interdita qualquer instalação ou atividade na zona de proteção imediata a que se refere o número anterior, com exceção das que têm por objetivo a conservação, manutenção e melhor exploração da captação, devendo o terreno nesta zona ser vedado e mantido limpo de quaisquer resíduos, produtos ou líquidos que possam provocar infiltração de substâncias indesejáveis para a qualidade da água da captação, nos termos do n.º 1 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro.
+
+###### Artigo 3.º — Zona de proteção intermédia
+
+1 - A zona de proteção intermédia respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno circular com centro em cada uma das captações cujos raios são indicados no quadro constante do anexo iii à presente portaria, que dela faz parte integrante.
+
+2 - Na zona de proteção intermédia a que se refere o número anterior são interditas, nos termos dos n.os 2 e 3 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, as seguintes atividades e instalações:
+
+a) Infraestruturas aeronáuticas;
+
+b) Oficinas e estações de serviço de automóveis;
+
+c) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+d) Postos de abastecimento e áreas de serviço de combustíveis;
+
+e) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;
+
+f) Canalizações de produtos tóxicos;
+
+g) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;
+
+h) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;
+
+i) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea que não se destinem ao abastecimento público, desde que exista a possibilidade de ligação à rede pública de abastecimento de água, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas;
+
+j) Coletores de águas residuais e estações de tratamento de águas residuais;
+
+k) Unidades industriais suscetíveis de produzir substâncias poluentes que, de forma direta ou indireta, possam vir a alterar a qualidade da água subterrânea;
+
+l) Cemitérios;
+
+m) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+n) Depósitos de sucata.
+
+3 - Na zona de proteção intermédia a que se refere o n.º 1, são condicionadas, nos termos do n.º 2 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) A pastorícia, que pode ser desenvolvida desde que não cause problemas de poluição da água subterrânea, nomeadamente através do pastoreio intensivo;
+
+b) Os usos agrícolas e pecuários, que podem ser permitidos desde que não causem problemas de poluição da água subterrânea, nomeadamente através da aplicação inadequada de fertilizantes e pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis, ou através da rejeição de efluentes no solo;
+
+c) A construção de edificações, que podem ser permitidas desde que seja assegurada a ligação à rede de saneamento municipal ou, na sua impossibilidade, a instalação de fossa do tipo estanque;
+
+d) As estradas e caminhos-de-ferro, que podem ser permitidos desde que sejam tomadas as medidas necessárias para evitar a contaminação dos solos e da água subterrânea;
+
+e) Os espaços destinados a práticas desportivas e os parques de campismo, que podem ser permitidos desde que as instalações ou atividades não promovam a contaminação da água subterrânea e seja assegurada a ligação das infraestruturas de saneamento à rede municipal;
+
+f) As fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento.
+
+4 - A zona de proteção intermédia respeitante aos perímetros de proteção mencionados no artigo 1.º encontra-se representada nos quadros do anexo v à presente portaria, que dela faz parte integrante.
+
+###### Artigo 4.º — Zona de proteção alargada
+
+1 - A zona de proteção alargada respeitante aos perímetros de proteção mencionados no artigo 1.º corresponde à área da superfície do terreno circular com centro em cada um dos pontos cujos raios são indicados no quadro constante do anexo iv à presente portaria, que dela faz parte integrante, e à área delimitada através de polígonos que resultam da união dos vértices indicados nos quadros constantes do mesmo anexo.
+
+2 - Na zona de proteção alargada referida no número anterior são interditas, nos termos dos n.os 4 e 5 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, as seguintes atividades e instalações:
+
+a) Transporte de hidrocarbonetos, de materiais radioativos ou de outras substâncias perigosas;
+
+b) Depósitos de materiais radioativos, de hidrocarbonetos e de resíduos perigosos;
+
+c) Canalizações de produtos tóxicos;
+
+d) Refinarias e indústrias químicas;
+
+e) Lixeiras e aterros sanitários, incluindo quaisquer tipos de aterros para resíduos perigosos, não perigosos ou inertes;
+
+f) A instalação de fossas de esgoto em zonas onde estejam disponíveis sistemas públicos de saneamento de águas residuais, bem como a rejeição e aplicação de efluentes no solo;
+
+g) Cemitérios;
+
+h) Pedreiras e explorações mineiras, bem como quaisquer indústrias extrativas;
+
+i) Infraestruturas aeronáuticas;
+
+j) Oficinas e estações de serviço de automóveis;
+
+k) Postos de abastecimento e áreas de serviço de combustíveis;
+
+l) Depósitos de sucata.
+
+3 - Na zona de proteção alargada referida no n.º 1 são condicionadas, nos termos do n.º 4 do artigo 6.º do [Decreto-Lei n.º 382/99](https://diariodarepublica.pt/dr/detalhe/decreto-lei/382-1999-559021), de 22 de setembro, ficando sujeitas a parecer prévio vinculativo da Agência Portuguesa do Ambiente, I. P., as seguintes atividades e instalações:
+
+a) Utilização de pesticidas móveis e persistentes na água ou que possam formar substâncias tóxicas, persistentes ou bioacumuláveis;
+
+b) A instalação de coletores de águas residuais e estações de tratamento de águas residuais, que podem ser permitidos desde que respeitem critérios rigorosos de estanquicidade, devendo as estações de tratamento de águas residuais estar ainda sujeitas a verificações periódicas do seu estado de conservação;
+
+c) As fossas de esgoto, que apenas podem ser permitidas caso respeitem rigorosos critérios de estanquicidade, devendo as fossas existentes ser substituídas ou reconvertidas em sistemas estanques, e desde que, logo que estejam disponíveis sistemas públicos de saneamento de águas residuais nestas zonas, sejam desativadas todas as fossas com a efetivação da ligação predial ao sistema de saneamento;
+
+d) Lagos e quaisquer obras ou escavações destinadas à recolha e armazenamento de água ou quaisquer substâncias suscetíveis de se infiltrarem, no caso de não serem impermeabilizadas, incluindo a realização de sondagens de pesquisa e captação de água subterrânea, devendo ser cimentadas todas as captações de água subterrânea existentes que sejam desativadas.
+
+4 - A zona de proteção alargada respeitante aos perímetros de proteção mencionados no artigo 1.º encontra-se representada nos quadros do anexo v à presente portaria, que dela faz parte integrante.
+
+###### Artigo 5.º — Entrada em vigor
+
+A presente portaria entra em vigor no dia seguinte ao da sua publicação.
+
+**A Ministra da Agricultura, do Mar, do Ambiente e do Ordenamento do Território, Maria de Assunção Oliveira Cristas Machado da Graça, em 22 de fevereiro de 2012.**
+
+## ANEXO I — Coordenadas das captações
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)
+
+## ANEXO II — Zona de proteção imediata
+
+Polo de captação de Vale Pedro Dias
+
+Captação 323/CM-1
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)
+
+Polo de captação de Outeiro Fundeiro
+
+Captação 323/CM-2
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)
+
+## ANEXO III — Zona de proteção intermédia
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)
+
+## ANEXO IV — Zona de proteção alargada
+
+Polo de captação de Vale Pedro Dias
+
+Captação 323/CM-1
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)
+
+Polo de captação de Outeiro Fundeiro
+
+Captação 323/CM-2
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)
+
+Nota. - As coordenadas das captações e dos vértices que delimitam as zonas de proteção encontram-se no sistema de coordenadas EPSG 3763 (PT-TM06/ETRS89, origem no ponto central).
+
+## ANEXO V — Planta de localização das zonas de proteção
+
+Extrato da Carta Militar de Portugal
+
+Série M888 - 1/25.000 (IGeoE)
+
+Polo de captação de Vale Pedro Dias
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)
+
+Polo de captação de Outeiro Fundeiro
+
+[([ver documento original](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf))](https://files.diariodarepublica.pt/1s/2012/02/04200/0089900902.pdf)

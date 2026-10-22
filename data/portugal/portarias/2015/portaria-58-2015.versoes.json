@@ -1,0 +1,402 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:66639519:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2015-177082579",
+ "dre_path": "/dr/detalhe/portaria/58-2015-66639519",
+ "source_lastmod": "2024-06-25",
+ "versions": [
+  {
+   "date": "2015-03-02",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "177078446",
+    "177078447",
+    "177078448",
+    "177078449",
+    "177078450",
+    "177078451",
+    "177078452",
+    "177078453",
+    "177078454",
+    "177078455",
+    "177078456",
+    "177078457",
+    "177078458",
+    "177078459",
+    "177078460",
+    "177078461",
+    "177078462",
+    "177078463",
+    "177078464",
+    "177078465",
+    "177078466",
+    "177078467",
+    "177078468",
+    "177078469",
+    "177078470",
+    "177078471",
+    "177078472",
+    "177078473",
+    "177082975"
+   ]
+  },
+  {
+   "date": "2016-01-19",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:73163704:por",
+     "title": "Portaria n.º 4/2016",
+     "published": "2016-01-18",
+     "dre_path": "/dr/detalhe/portaria/4-2016-73163704"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 17.º"
+   ],
+   "fragments": [
+    "177078446",
+    "177078447",
+    "177078448",
+    "177078449",
+    "177078450",
+    "177078451",
+    "177078452",
+    "177078453",
+    "177078454",
+    "177078455",
+    "177078456",
+    "177078457",
+    "177078458",
+    "177078459",
+    "177078460",
+    "177078461",
+    "177078462",
+    "177078463",
+    "177078464",
+    "177078465",
+    "177078466",
+    "177082976",
+    "177078468",
+    "177078469",
+    "177078470",
+    "177078471",
+    "177078472",
+    "177078473",
+    "177078474",
+    "177082975"
+   ]
+  },
+  {
+   "date": "2022-01-22",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:176907500:por",
+     "title": "Portaria n.º 331/2021",
+     "published": "2021-12-31",
+     "dre_path": "/dr/detalhe/portaria/331-2021-176907500"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 4.º"
+   ],
+   "fragments": [
+    "177078446",
+    "177078447",
+    "177078448",
+    "177078449",
+    "177078450",
+    "177082977",
+    "177078452",
+    "177078453",
+    "177078454",
+    "177078455",
+    "177078456",
+    "177078457",
+    "177078458",
+    "177078459",
+    "177078460",
+    "177078461",
+    "177078462",
+    "177078463",
+    "177078464",
+    "177078465",
+    "177078466",
+    "177082976",
+    "177078468",
+    "177078469",
+    "177078470",
+    "177078471",
+    "177078472",
+    "177078473",
+    "177078474",
+    "177082975"
+   ]
+  }
+ ],
+ "fragments": {
+  "177078446": {
+   "fragment_id": "177082580",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 58/2015\n\nde 2 de março\n\nO Decreto-Lei n.º 137/2014, de 12 de setembro, que estabelece o modelo de governação dos fundos europeus estruturais e de investimento (FEEI), entre os quais se inclui o Fundo Europeu Agrícola e de Desenvolvimento Rural (FEADER), determinou a estruturação operacional deste fundo em três programas de desenvolvimento rural (PDR), um para o continente, designado PDR 2020, outro para a região autónoma dos Açores, designado PRORURAL+, e outro para a região autónoma da Madeira, designado PRODERAM 2020.\n\nO PDR 2020 foi aprovado formalmente pela Comissão Europeia através da Decisão C (2014) 9896 final, de 12 de dezembro de 2014.\n\nNa arquitetura do PDR 2020, o apoio «Manutenção de galerias ripícolas» integra a ação n.º 7.10, «Silvoambientais», a qual se encontra inserida na medida n.º 7, «Agricultura e recursos naturais», da área n.º 3, «Ambiente, eficiência no uso dos recursos e clima».\n\nO apoio à «Manutenção de galerias ripícolas» visa o reforço das funções protetoras das galerias ripícolas tão importantes para a conservação do recurso água, nomeadamente, através da promoção de uma correta condução do sob coberto da galeria ripícola, impedindo a evolução dos silvados e da eliminação das espécies invasoras lenhosas, promovendo a sua erradicação.\n\nA data de entrada em vigor da presente portaria é estabelecida tendo em conta os requisitos procedimentais associados às regras de auxílios de Estado.\n\nAssim:\n\nManda o Governo, pelo Secretário de Estado da Agricultura, ao abrigo da alínea b) do n.º 2 do artigo 5.º do Decreto-Lei n.º 159/2014, de 27 de outubro, e no uso das competências delegadas através do Despacho n.º 12256-A/2014, publicado no Diário da República, 2.ª série, n.º 191, de 3 de outubro de 2014, o seguinte:"
+  },
+  "177078447": {
+   "fragment_id": "177082581",
+   "type": 1,
+   "heading": "Capítulo I — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo I — Disposições gerais"
+  },
+  "177078448": {
+   "fragment_id": "177082582",
+   "type": 11,
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nA presente portaria estabelece o regime de aplicação do apoio 7.10.2, «Manutenção das galerias ripícolas», inseridas no apoio n.º 7.10, «Silvoambientais», da medida n.º 7 «Agricultura e Recursos Naturais», do Programa de Desenvolvimento Rural do Continente, abreviadamente designado por PDR 2020."
+  },
+  "177078449": {
+   "fragment_id": "177082583",
+   "type": 11,
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos de aplicação da presente portaria, e para além das definições constantes do artigo 3.º do Decreto-Lei n.º 159/2014, de 27 de outubro, entende-se por:\n\na) «Aconselhamento florestal», a consultadoria florestal efetuada por entidade reconhecida para o efeito no âmbito do sistema de aconselhamento agrícola, previsto na Portaria n.º 353/2008, de 8 de maio;\n\nb) «Bom estado de conservação das galerias ripícolas», o conjunto de características que as galerias ripícolas devem apresentar, de acordo com regras estabelecidas e divulgadas pelo Instituto da Conservação da Natureza e das Florestas, I. P. (ICNF, I. P.), em www.icnf.pt;\n\nc) «Galeria ripícola», a formação de espécies lenhosas arbóreas ou arbustivas autóctones, de forma comprida e estreita, ao longo das margens das linhas de água;\n\nd) «Parcela de referência», a porção contínua de terreno homogéneo com limites estáveis agronómica e geograficamente, com uma identificação única conforme registado no Sistema de Identificação Parcelar (iSIP), classificada em função da categoria de ocupação de solo;\n\ne) «Rede Nacional de Áreas Protegidas (RNAP)», o conjunto das áreas protegidas classificadas ao abrigo do Decreto-Lei n.º 142/2008, de 24 de julho e dos respetivos diplomas regionais de classificação;\n\nf) «Rede Natura 2000», a rede ecológica para o espaço comunitário da União Europeia, que engloba zonas de proteção especial (ZPE), designadas ao abrigo da Diretiva 2009/147/CE, do Parlamento Europeu e do Conselho, de 30 de novembro (Diretiva Aves), e sítios de importância comunitária (SIC), designados ao abrigo da Diretiva 92/43/CEE, do Conselho, de 21 de maio (Diretiva Habitats), transpostas para o direito interno pelo Decreto-Lei n.º 140/99, de 24 de abril, alterado pelos Decretos-Leis n.os 49/2005, de 24 de fevereiro, e 156-A/2013, de 8 de novembro;\n\ng) «Subparcela», a porção contínua de terreno homogéneo com a mesma ocupação de solo existente numa mesma parcela de referência, sendo os seus limites interiores à parcela de referência ou coincidentes com a mesma, tal como definido no iSIP."
+  },
+  "177078450": {
+   "fragment_id": "177082584",
+   "type": 11,
+   "heading": "Artigo 3.º — Auxílios de Estado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Auxílios de Estado\n\n1 - Os apoios previstos na presente portaria são concedidos nas condições previstas no artigo 37.º do Regulamento (UE) n.º 702/2014, da Comissão de 25 de junho de 2014.\n\n2 - Os apoios concedidos são divulgados no portal do Gabinete de Planeamento, Políticas e Administração Geral, em www.gpp.pt."
+  },
+  "177078451": {
+   "fragment_id": "177082585",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração dos compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Duração dos compromissos\n\n1 - As ações objeto da presente portaria destinam-se a apoiar os beneficiários que, de forma voluntária, se comprometam a respeitar compromissos de natureza silvoambiental durante um período de cinco anos.\n\n2 - O período referido no número anterior pode ser prorrogado, até um máximo de dois anos, mediante requerimento do beneficiário e decisão da autoridade de gestão.\n\n3 - Os compromissos produzem efeitos a partir de 1 de janeiro do ano da candidatura e prolongam-se até 31 de dezembro de cada ano."
+  },
+  "177078452": {
+   "fragment_id": "177082586",
+   "type": 11,
+   "heading": "Artigo 5.º — Condicionalidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Condicionalidade\n\nOs beneficiários devem cumprir na exploração os requisitos legais de gestão e as boas condições agrícolas e ambientais, em conformidade com os artigos 93.º e 94.º e o anexo II do Regulamento (UE) n.º 1306/2013, do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, e com a correspondente legislação nacional."
+  },
+  "177078453": {
+   "fragment_id": "177082587",
+   "type": 1,
+   "heading": "Capítulo II — Apoio 7.10.2 «Manutenção de galerias ripícolas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo II — Apoio 7.10.2 «Manutenção de galerias ripícolas»"
+  },
+  "177078454": {
+   "fragment_id": "177082588",
+   "type": 11,
+   "heading": "Artigo 6.º — Objetivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Objetivos\n\nO apoio previsto no presente capítulo prossegue o objetivo de preservar as funções ecológicas das galerias ripícolas."
+  },
+  "177078455": {
+   "fragment_id": "177082589",
+   "type": 11,
+   "heading": "Artigo 7.º — Área geográfica de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Área geográfica de aplicação\n\nA área geográfica de aplicação do apoio previsto no presente capítulo corresponde à área da Rede Natura 2000, da Rede Nacional de Áreas Protegidas e da rede de corredores ecológicos estabelecidos nos planos regionais de ordenamento florestal."
+  },
+  "177078456": {
+   "fragment_id": "177082590",
+   "type": 11,
+   "heading": "Artigo 8.º — Beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Beneficiários\n\n1 - Podem beneficiar dos apoios previstos no presente capítulo as pessoas singulares ou coletivas, de natureza privada, detentoras de galerias ripícolas, inseridas em superfícies florestais conforme definidas no Despacho normativo n.º 6/2015, de 20 de fevereiro.\n\n2 - Podem ainda beneficiar dos apoios previstos na presente portaria as autarquias locais e respetivas associações detentoras de galerias ripícolas, inseridas em superfícies florestais conforme definidas no Despacho normativo n.º 6/2015, de 20 de fevereiro.\n\n3 - São excluídas as entidades que sejam consideradas empresas em dificuldade nos termos do ponto 14 do artigo 2.º do Regulamento (UE) n.º 702/2014, da Comissão de 25 de junho de 2014, que declara certas categorias de auxílios no sector agrícola e florestal e nas zonas rurais compatíveis com o mercado comum, em aplicação dos artigos 107.º e 108.º do Tratado sobre o Funcionamento da União Europeia.\n\n4 - São excluídas as entidades sobre as quais impenda um processo de recuperação de auxílios de Estado, declarados incompatíveis com o mercado interno, pela Comissão Europeia."
+  },
+  "177078457": {
+   "fragment_id": "177082591",
+   "type": 11,
+   "heading": "Artigo 9.º — Critérios de elegibilidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Critérios de elegibilidade\n\n1 - Podem beneficiar do apoio previsto no presente capítulo, sem prejuízo dos critérios de elegibilidade previstos no artigo 13.º do Decreto-Lei n.º 159/2014, de 27 de outubro, as pessoas referidas no artigo 8.º que candidatem uma superfície mínima de 0,1 hectares de galerias ripícolas, em bom estado de conservação, que apresentem um comprimento mínimo de 25 metros e uma largura que varie entre 5 e 12 metros, a contar da margem da linha de água.\n\n2 - As galerias ripícolas referidas no número anterior são previamente identificadas pelo ICNF, I. P., no iSIP, a pedido do beneficiário."
+  },
+  "177078458": {
+   "fragment_id": "177082592",
+   "type": 11,
+   "heading": "Artigo 10.º — Critérios de seleção de candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Critérios de seleção de candidaturas\n\n1 - Para efeitos de seleção das candidaturas ao apoio previsto no presente capítulo são considerados, designadamente, os seguintes critérios:\n\na) Candidaturas respeitantes a beneficiários cujas explorações tenham maior proporção de superfície florestal localizada em Rede Natura 2000 ou na Rede Nacional de Áreas Protegida, relativamente à superfície total da exploração;\n\nb) Candidaturas respeitantes a explorações que se situem em áreas suscetíveis à desertificação, definidas ao abrigo do Programa de Ação Nacional de Combate à Desertificação;\n\nc) Candidaturas respeitantes a beneficiários que recorram ao aconselhamento florestal.\n\n2 - A hierarquização dos critérios constantes do número anterior, bem como a respetiva ponderação e critério de desempate, são definidos pela autoridade de gestão e divulgados no portal do PDR 2020, em www.pdr-2020.pt e no portal do Instituto de Financiamento da Agricultura e Pescas, I. P. (IFAP, I. P.), em www.ifap.pt, aquando da abertura de candidaturas ao Pedido Único (PU)."
+  },
+  "177078459": {
+   "fragment_id": "177082593",
+   "type": 11,
+   "heading": "Artigo 11.º — Compromissos dos beneficiários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Compromissos dos beneficiários\n\nPara além do disposto no artigo 5.º, os beneficiários do apoio previsto na presente secção, durante todo o período de compromisso, são obrigados a:\n\na) Manter os critérios de elegibilidade, em cada ano do compromisso;\n\nb) Manter as galerias ripícolas, sujeitas a compromisso, em bom estado de conservação, de acordo com orientação técnica específica, elaborada pelo ICNF, I. P., e disponível no portal do PDR 2020, em www.pdr-2020.pt;\n\nc) Não proceder à instalação de culturas agrícolas numa largura mínima de 12 metros a contar da margem da linha de água."
+  },
+  "177078460": {
+   "fragment_id": "177082594",
+   "type": 11,
+   "heading": "Artigo 12.º — Forma do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Forma do apoio\n\nO apoio previsto no presente capítulo assume a forma de subvenção anual não reembolsável."
+  },
+  "177078461": {
+   "fragment_id": "177082595",
+   "type": 11,
+   "heading": "Artigo 13.º — Montantes e limites de apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Montantes e limites de apoio\n\n1 - Os montantes e limites a conceder à «Manutenção de galerias ripícolas» são os estabelecidos no anexo à presente portaria, da qual faz parte integrante.\n\n2 - O cálculo do montante total do apoio faz-se pela aplicação sucessiva dos respetivos escalões de área."
+  },
+  "177078462": {
+   "fragment_id": "177082596",
+   "type": 1,
+   "heading": "Capítulo III — Procedimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo III — Procedimento"
+  },
+  "177078463": {
+   "fragment_id": "177082597",
+   "type": 11,
+   "heading": "Artigo 14.º — Apresentação das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Apresentação das candidaturas\n\n1 - As candidaturas aos apoios previstos na presente portaria são submetidas eletronicamente através do formulário relativo ao PU, disponível no portal do IFAP, I. P., em www.ifap.pt, ou no portal do Portugal 2020, em www.portugal2020.pt.\n\n2 - O Regulamento Geral de Procedimentos de Acesso às Ajudas e aos Pagamentos a efetuar pelo IFAP, I. P., aprovado em anexo à Portaria n.º 86/2011, de 25 de fevereiro, em conformidade com o Sistema Integrado de Gestão e Controlo (SIGC) previsto nos artigos 67.º e seguintes do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, é aplicável às candidaturas apresentadas no âmbito da presente portaria."
+  },
+  "177078464": {
+   "fragment_id": "177082598",
+   "type": 11,
+   "heading": "Artigo 15.º — Análise e decisão das candidaturas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Análise e decisão das candidaturas\n\n1 - As candidaturas são analisadas pelo IFAP, I. P., de acordo com os critérios de elegibilidade previstos na presente portaria.\n\n2 - As candidaturas são aprovadas pela autoridade de gestão de acordo com os critérios de seleção previstos na presente portaria e com a dotação orçamental deste regime de apoios.\n\n3 - A decisão é comunicada pelo IFAP, I. P., aos beneficiários, na área reservada do respetivo portal, em www.ifap.pt.\n\n4 - O termo de aceitação é autenticado com a submissão da candidatura."
+  },
+  "177078465": {
+   "fragment_id": "177082599",
+   "type": 11,
+   "heading": "Artigo 16.º — Pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Pagamento\n\n1 - Os pedidos de pagamento são submetidos em simultâneo com a candidatura ao PU do ano a que respeita o pagamento, competindo ao IFAP, I. P., proceder ao pagamento anual do apoio.\n\n2 - O pagamento é efetuado após conclusão dos controlos administrativos e in loco, podendo ser paga uma parte do apoio após a conclusão dos controlos administrativos nos termos do Regulamento (UE) n.º 1306/2013, do Parlamento e do Conselho de 17 de dezembro de 2013, do Regulamento Delegado (UE) n.º 640/2014, da Comissão, de 11 de março de 2014, e do Regulamento de Execução (UE) n.º 809/2014, da Comissão, de 17 de julho de 2014.\n\n3 - A não apresentação de pedido de pagamento referido no n.º 1 determina o não pagamento do apoio no ano em causa, sem prejuízo do disposto na alínea b) do n.º 2 do artigo 20.º e da obrigatoriedade de manutenção dos critérios de elegibilidade e dos compromissos assumidos."
+  },
+  "177078466": {
+   "fragment_id": "177082600",
+   "type": 1,
+   "heading": "Capítulo IV — Alteração, extinção, transmissão, redução e exclusão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo IV — Alteração, extinção, transmissão, redução e exclusão"
+  },
+  "177078467": {
+   "fragment_id": "177082601",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração da candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Alteração da candidatura\n\n1 - Os beneficiários podem, aquando da apresentação do pedido de pagamento anual, até ao terceiro ano do compromisso, proceder ao aumento da superfície objeto de apoio, desde que o aumento não ultrapasse 25 % da superfície candidata, até ao limite máximo de 50 hectares e sem alteração do período de compromisso.\n\n2 - Para aumentos de superfície superiores aos limites referidos no número anterior, o beneficiário deve apresentar nova candidatura relativa à totalidade da superfície candidata, iniciando-se, caso venha a ser admitida, um novo período de compromisso de cinco anos, que determina a extinção automática dos compromissos anteriores.\n\n3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem que haja lugar à devolução dos apoios já recebidos, nos seguintes casos:\n\na) Sujeição de parte da exploração a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, ou a expropriação desde que esta não fosse previsível na data em que o compromisso foi assumido;\n\nb) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície florestal da exploração;\n\nc) Problemas fitossanitários que afetem parte ou a totalidade da superfície florestal do beneficiário."
+  },
+  "177078468": {
+   "fragment_id": "177082602",
+   "type": 11,
+   "heading": "Artigo 18.º — Extinção dos compromissos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Extinção dos compromissos\n\n1 - Os compromissos assumidos extinguem-se, sem devolução dos apoios, nos casos de sujeição da exploração a emparcelamento integral ou intervenção pública de ordenamento fundiário similar, nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, desde que não seja possível a alteração da candidatura nos termos do n.º 3 do artigo anterior.\n\n2 - Sem prejuízo dos casos referidos no número anterior, os compromissos assumidos extinguem-se ainda, sem devolução dos apoios, nomeadamente nas seguintes situações de força maior:\n\na) Morte do beneficiário;\n\nb) Incapacidade profissional do beneficiário superior a três meses;\n\nc) Morte ou incapacidade profissional superior a três meses do cônjuge ou de outro membro do agregado familiar que coabite com o beneficiário, cujo trabalho na exploração represente parte significativa do trabalho total empregue na mesma, no caso de explorações familiares;\n\nd) Expropriação de toda ou uma parte significativa da exploração, se essa expropriação não era previsível na data em que o compromisso foi assumido;\n\ne) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície florestal da exploração;\n\nf) Problemas fitossanitários que afetem parte ou a totalidade da superfície florestal.\n\n3 - Os casos de força maior e os respetivos comprovativos devem ser comunicados ao IFAP, I. P., pelo beneficiário ou pelo seu representante, por escrito e no prazo de 15 dias úteis a contar da data da ocorrência, podendo aquele prazo ser ultrapassado, desde que devidamente justificado e aceite pelo IFAP, I. P.\n\n4 - Sempre que o beneficiário não tenha podido respeitar os compromissos devido aos casos referidos nos n.os 1 e 2, mantém o direito à totalidade do pagamento do ano em que o facto ocorreu, desde que tenha sido apresentado o respetivo pedido de pagamento.\n\n5 - No caso de alteração das normas ou regras obrigatórias, nos termos do artigo 48.º do Regulamento (UE) n.º 1305/2013, do Parlamento e do Conselho, de 17 de dezembro de 2013, o beneficiário pode não aceitar a correspondente adaptação dos compromissos assumidos, cessando estes sem ser exigida devolução relativamente ao período em que os compromissos tenham sido cumpridos."
+  },
+  "177078469": {
+   "fragment_id": "177082603",
+   "type": 11,
+   "heading": "Artigo 19.º — Transmissão de superfícies",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Transmissão de superfícies\n\n1 - Sem prejuízo do disposto nos n.os 4 e 5, o beneficiário pode transmitir a totalidade ou parte da superfície objeto de apoio durante o período de compromisso, sem que haja lugar à devolução dos apoios.\n\n2 - No caso previsto no número anterior, o novo titular pode, caso assim o entenda, assumir os compromissos respetivos pelo período remanescente, desde que se encontrem reunidos os critérios de elegibilidade.\n\n3 - A transmissão de parte da superfície sujeita a compromisso obriga à correspondente alteração da candidatura, aquando da apresentação do pedido de pagamento anual, nos termos do disposto no n.º 1 do artigo 17.º\n\n4 - Caso um beneficiário transmita a sua titularidade está impedido, nesse mesmo ano, de aceitar a titularidade de outrem, para o mesmo compromisso.\n\n5 - No período de prolongamento, não são permitidas transferências de titularidade nem aumento de superfície objeto de apoio."
+  },
+  "177078470": {
+   "fragment_id": "177082604",
+   "type": 11,
+   "heading": "Artigo 20.º — Reduções ou exclusões do apoio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Reduções ou exclusões do apoio\n\n1 - Sem prejuízo do disposto no Regulamento Delegado (UE) n.º 640/2014, da Comissão de 11 de março de 2014, são aplicáveis as reduções e as exclusões previstas nos números seguintes.\n\n2 - É determinada a devolução total do apoio e a correspondente extinção do compromisso, nos seguintes casos:\n\na) Incumprimento de qualquer critério de elegibilidade;\n\nb) Não apresentação de pedido de pagamento em dois anos consecutivos.\n\n3 - O incumprimento dos requisitos relativos à condicionalidade previstos no artigo 5.º determina a redução do montante do apoio, nos termos da legislação nacional aplicável.\n\n4 - O incumprimento dos compromissos dos beneficiários e respetivas reduções ou exclusões dos apoios, são objeto de diploma próprio, a aprovar no prazo de 45 dias a contar da data de publicação da presente portaria."
+  },
+  "177078471": {
+   "fragment_id": "177082605",
+   "type": 1,
+   "heading": "Capítulo V — Disposições finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Capítulo V — Disposições finais"
+  },
+  "177078472": {
+   "fragment_id": "177082606",
+   "type": 11,
+   "heading": "Artigo 21.º — Transição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Transição\n\n1 - O disposto na presente portaria é aplicável aos compromissos assumidos em 2011, ao abrigo do regulamento anexo à Portaria n.º 232-A/2008, de 11 de março, com a última redação dada pela Portaria n.º 19/2014, de 29 de janeiro até ao termo da duração dos mesmos, desde que a superfície florestal objeto de apoio não sofra uma redução superior a 10 % e que seja apresentado o respetivo pedido de pagamento no PU de 2015.\n\n2 - A falta de apresentação do pedido de pagamento referido no número anterior, no PU de 2015, determina a cessação dos compromissos previstos no n.º 1, sem devolução dos apoios recebidos."
+  },
+  "177078473": {
+   "fragment_id": "177082607",
+   "type": 11,
+   "heading": "Artigo 22.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Entrada em vigor\n\nA presente portaria entra em vigor no dia 17 de março de 2015."
+  },
+  "177082975": {
+   "fragment_id": "177082609",
+   "type": 14,
+   "heading": "Anexo — Montantes dos apoios a atribuir à «Manutenção e recuperação de galerias ripícolas»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Anexo — Montantes dos apoios a atribuir à «Manutenção e recuperação de galerias ripícolas»\n\n(a que se refere o n.º 1 do artigo 13.º)\n\n(ver documento original)"
+  },
+  "177082976": {
+   "fragment_id": "177082601",
+   "type": 11,
+   "heading": "Artigo 17.º — Alteração da candidatura",
+   "in_force_from": "2016-01-19",
+   "changed_by": [
+    "Alterado pelo/a Artigo 6.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+   ],
+   "markdown": "###### Artigo 17.º — Alteração da candidatura\n\n1 - [Revogado].\n\n2- [Revogado].\n\n3 - Os beneficiários podem, até 15 dias úteis após a ocorrência, proceder à alteração da candidatura, sem que haja lugar à devolução dos apoios já recebidos, nos seguintes casos:\n\na) Sujeição de parte da exploração a emparcelamento ou intervenção fundiária similar nos termos dos Decretos-Leis n.os 384/88, de 25 de outubro, e 103/90, de 22 de março, ou a expropriação desde que esta não fosse previsível na data em que o compromisso foi assumido;\n\nb) Catástrofe natural ou acontecimento catastrófico, que afete parte significativa da superfície florestal da exploração;\n\nc) Problemas fitossanitários que afetem parte ou a totalidade da superfície florestal do beneficiário.\n\n> Alterado pelo/a Artigo 6.º do/a [Portaria n.º 4/2016 - Diário da República n.º 11/2016, Série I de 2016-01-18](https://diariodarepublica.pt/dr/detalhe/portaria/4-2016-73163704), em vigor a partir de 2016-01-19, produz efeitos a partir de 2015-02-10"
+  },
+  "177078474": {
+   "fragment_id": "177082608",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "O Secretário de Estado da Agricultura, José Diogo Santiago de Albuquerque, em 26 de fevereiro de 2015."
+  },
+  "177082977": {
+   "fragment_id": "177082585",
+   "type": 11,
+   "heading": "Artigo 4.º — Duração dos compromissos",
+   "in_force_from": "2022-01-22",
+   "changed_by": [
+    "Alterado pelo/a Artigo 5.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-22"
+   ],
+   "markdown": "###### Artigo 4.º — Duração dos compromissos\n\n1 - As ações objeto da presente portaria destinam-se a apoiar os beneficiários que, de forma voluntária, se comprometam a respeitar compromissos de natureza silvoambiental durante um período de cinco anos.\n\n2 - O período referido no número anterior pode ser prorrogado, até um máximo de três anos, mediante requerimento do beneficiário e decisão da autoridade de gestão.\n\n3 - Os compromissos produzem efeitos a partir de 1 de janeiro do ano da candidatura e prolongam-se até 31 de dezembro de cada ano.\n\n> Alterado pelo/a Artigo 5.º do/a [Portaria n.º 331/2021 - Diário da República n.º 253/2021, Série I de 2021-12-31](https://diariodarepublica.pt/dr/detalhe/portaria/331-2021-176907500), em vigor a partir de 2022-01-22"
+  }
+ }
+}

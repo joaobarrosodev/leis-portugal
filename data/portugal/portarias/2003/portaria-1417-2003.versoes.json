@@ -1,0 +1,260 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "pt:dre:551199:por",
+ "consolidated_url": "https://diariodarepublica.pt/dr/legislacao-consolidada/portaria/2003-114369169",
+ "dre_path": "/dr/detalhe/portaria/1417-2003-551199",
+ "source_lastmod": "2025-06-09",
+ "versions": [
+  {
+   "date": "2003-12-30",
+   "future": false,
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "921239094"
+   ]
+  },
+  {
+   "date": "2008-02-07",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:248237:por",
+     "title": "Portaria n.º 114/2008",
+     "published": "2008-02-06",
+     "dre_path": "/dr/detalhe/portaria/114-2008-248237"
+    }
+   ],
+   "changes": [
+    "Altera 2.º"
+   ],
+   "fragments": [
+    "114369219",
+    "920958773",
+    "921239085",
+    "921141975",
+    "921141976",
+    "921141977",
+    "921141995",
+    "921141979",
+    "921141980",
+    "114369220"
+   ]
+  },
+  {
+   "date": "2018-01-04",
+   "future": false,
+   "acts": [
+    {
+     "id": "pt:dre:114380265:por",
+     "title": "Portaria n.º 380/2017",
+     "published": "2017-12-19",
+     "dre_path": "/dr/detalhe/portaria/380-2017-114380265"
+    }
+   ],
+   "changes": [
+    "Revoga Diploma"
+   ],
+   "fragments": [
+    "921239094",
+    "921239095",
+    "921239096",
+    "921239097",
+    "921239098",
+    "921239099",
+    "921239100",
+    "921239101",
+    "921239102",
+    "921239103"
+   ]
+  }
+ ],
+ "fragments": {
+  "921239094": {
+   "fragment_id": "114369170",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": "2018-01-04",
+   "changed_by": [],
+   "markdown": "Portaria n.º 1417/2003\n\nde 30 de Dezembro\n\nA reforma do contencioso administrativo implicou um esforço de racionalização de meios materiais e de apetrechamento da nova rede de tribunais da jurisdição administrativa e fiscal, tendo em vista o combate à morosidade processual e a simplificação de procedimentos no tratamento dos processos.\n\nNeste contexto, foi desenvolvida uma aplicação informática que permite o envio e recepção de peças processuais e documentos por via electrónica, a tramitação informática dos processos e o acesso aos mesmos via Internet e que visa maior celeridade e flexibilidade na tramitação dos processos instaurados nos tribunais administrativos e fiscais.\n\nFicando o Governo incumbido de regulamentar os aspectos específicos da aplicação do SITAF nos tribunais administrativos e fiscais, nos termos do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de Dezembro, urge proceder à sua regulamentação tendo em vista o seu pleno funcionamento a partir de 1 de Janeiro de 2004.\n\nNestes termos:\n\nManda o Governo, pela Ministra da Justiça, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de Dezembro, o seguinte:"
+  },
+  "114369219": {
+   "fragment_id": "114369170",
+   "type": 15,
+   "heading": "Diploma",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "Portaria n.º 1417/2003\n\nde 30 de Dezembro\n\nA reforma do contencioso administrativo implicou um esforço de racionalização de meios materiais e de apetrechamento da nova rede de tribunais da jurisdição administrativa e fiscal, tendo em vista o combate à morosidade processual e a simplificação de procedimentos no tratamento dos processos.\n\nNeste contexto, foi desenvolvida uma aplicação informática que permite o envio e recepção de peças processuais e documentos por via electrónica, a tramitação informática dos processos e o acesso aos mesmos via Internet e que visa maior celeridade e flexibilidade na tramitação dos processos instaurados nos tribunais administrativos e fiscais.\n\nFicando o Governo incumbido de regulamentar os aspectos específicos da aplicação do SITAF nos tribunais administrativos e fiscais, nos termos do artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de Dezembro, urge proceder à sua regulamentação tendo em vista o seu pleno funcionamento a partir de 1 de Janeiro de 2004.\n\nNestes termos:\n\nManda o Governo, pela Ministra da Justiça, ao abrigo do disposto no artigo 4.º do Decreto-Lei n.º 325/2003, de 29 de Dezembro, o seguinte:"
+  },
+  "920958773": {
+   "fragment_id": "921021394",
+   "type": 11,
+   "heading": "1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 1.º — Âmbito\n\nA presente portaria regula o funcionamento do sistema informático dos Tribunais Administrativos e Fiscais (SITAF) e estabelece aspectos específicos da apresentação de peças processuais e documentos por via electrónica, da tramitação informática e do tratamento digital dos processos dos tribunais da jurisdição administrativa e fiscal."
+  },
+  "921239085": {
+   "fragment_id": "921021395",
+   "type": 11,
+   "heading": "2.º — Apresentação de peças processuais e documentos por via electrónica",
+   "in_force_from": "2008-02-07",
+   "changed_by": [
+    "Alterado pelo/a Artigo 26.º do/a [Portaria n.º 114/2008 - Diário da República n.º 26/2008, Série I de 2008-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/114-2008-248237), em vigor a partir de 2008-02-07",
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+   ],
+   "markdown": "###### 2.º — Apresentação de peças processuais e documentos por via electrónica\n\n1 - A apresentação de peças processuais e documentos por via electrónica é efectuada por correio electrónico ou por transmissão electrónica de dados através do endereço http://www.taf.mj.pt\n\n2 - A apresentação de peças processuais e documentos por transmissão electrónica de dados através do endereço supra-referido requer a utilização de assinatura electrónica avançada do signatário.\n\n3 - As peças processuais apresentadas por via electrónica devem ser enviadas em ficheiro de formato rich text format (rtf) ou portable document format (pdf).\n\n4 - Os documentos apresentados por via electrónica devem ser digitalizados e enviados como um só ficheiro de formato tagged image file format (tif) ou portable document format (pdf).\n\n5 - A apresentação conjunta de peças processuais e documentos por via electrónica implica a sua digitalização e envio num único ficheiro de formato tagged image file format (tif) ou portable document format (pdf).\n\n> Alterado pelo/a Artigo 26.º do/a [Portaria n.º 114/2008 - Diário da República n.º 26/2008, Série I de 2008-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/114-2008-248237), em vigor a partir de 2008-02-07\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+  },
+  "921141975": {
+   "fragment_id": "921021396",
+   "type": 11,
+   "heading": "3.º — Dispensa do suporte de papel e cópias dos documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 3.º — Dispensa do suporte de papel e cópias dos documentos\n\n1 - A parte que apresenta os documentos por via electrónica fica dispensada de remeter ao tribunal os documentos em suporte de papel e as respectivas cópias.\n\n2 - A dispensa referida no número anterior não se aplica caso o total de cópias exceda as 100 páginas."
+  },
+  "921141976": {
+   "fragment_id": "921021397",
+   "type": 11,
+   "heading": "4.º — Apresentação de peças processuais e de documentos em suporte físico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 4.º — Apresentação de peças processuais e de documentos em suporte físico\n\n1 - Sem prejuízo do disposto no número seguinte, a apresentação de peças processuais e documentos em suporte físico implica a sua digitalização pela secretaria judicial, nos termos do n.º 4 do artigo 2.º\n\n2 - Podem não ser digitalizados pela secretaria judicial os documentos:\n\na) Cujo suporte físico não seja em papel ou cujo papel tenha uma espessura superior a 127 g/m2 ou inferior a 50 g/m2;\n\nb) Em formatos superiores a A4;\n\nc) Que, individualmente considerados, excedam as 500 páginas."
+  },
+  "921141977": {
+   "fragment_id": "921021398",
+   "type": 11,
+   "heading": "5.º — Devolução de peças processuais e de documentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 5.º — Devolução de peças processuais e de documentos\n\n1 - Sem prejuízo do disposto no número seguinte, efectuada a digitalização, as peças processuais e os documentos são devolvidos às partes.\n\n2 - Se a secretaria constatar que a digitalização não permite um adequado exame da peça processual ou do documento, arquiva e conserva o seu original, nos termos da lei."
+  },
+  "921141995": {
+   "fragment_id": "921021399",
+   "type": 11,
+   "heading": "6.º — Consulta de processos",
+   "in_force_from": null,
+   "changed_by": [
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+   ],
+   "markdown": "###### 6.º — Consulta de processos\n\n1 - A consulta de processos é efectuada em terminal informático, disponível nas secretarias judiciais, ou mediante acesso através do endereço http://www.taf.mj.pt\n\n2 - O acesso através do endereço http://www.taf.mj.pt só pode ser feito por quem disponha de assinatura electrónica avançada.\n\n3 - As peças processuais e os documentos não digitalizados são consultados nas secretarias judiciais, nos termos da lei.\n\n4 - Para efeitos do disposto neste artigo, é mantido um ficheiro electrónico, permanentemente actualizado, com os dados relativos às pessoas autorizadas para a consulta, respectivo nível de acesso e o respectivo certificado digital.\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+  },
+  "921141979": {
+   "fragment_id": "921021400",
+   "type": 11,
+   "heading": "7.º — Actos processuais de magistrados e funcionários judiciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 7.º — Actos processuais de magistrados e funcionários judiciais\n\n1 - Os actos processuais dos magistrados são praticados em suporte informático, através do SITAF, com aposição de assinatura electrónica avançada.\n\n2 - Os actos processuais das secretarias judiciais são igualmente praticados em suporte informático, através do SITAF, mediante a utilização de assinatura electrónica avançada."
+  },
+  "921141980": {
+   "fragment_id": "921021401",
+   "type": 11,
+   "heading": "8.º — Aplicação no tempo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### 8.º — Aplicação no tempo\n\nO disposto na presente portaria apenas se aplica a processos e incidentes instaurados ou deduzidos a partir de 1 de Janeiro de 2004."
+  },
+  "114369220": {
+   "fragment_id": "114369171",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 29 de Dezembro de 2003."
+  },
+  "921239095": {
+   "fragment_id": "921021394",
+   "type": 11,
+   "heading": "1.º — Âmbito",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+   ],
+   "markdown": "###### 1.º — Âmbito\n\nA presente portaria regula o funcionamento do sistema informático dos Tribunais Administrativos e Fiscais (SITAF) e estabelece aspectos específicos da apresentação de peças processuais e documentos por via electrónica, da tramitação informática e do tratamento digital dos processos dos tribunais da jurisdição administrativa e fiscal.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+  },
+  "921239096": {
+   "fragment_id": "921021395",
+   "type": 11,
+   "heading": "2.º — Apresentação de peças processuais e documentos por via electrónica",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04",
+    "Alterado pelo/a Artigo 26.º do/a [Portaria n.º 114/2008 - Diário da República n.º 26/2008, Série I de 2008-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/114-2008-248237), em vigor a partir de 2008-02-07",
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+   ],
+   "markdown": "###### 2.º — Apresentação de peças processuais e documentos por via electrónica\n\n1 - A apresentação de peças processuais e documentos por via electrónica é efectuada por correio electrónico ou por transmissão electrónica de dados através do endereço http://www.taf.mj.pt\n\n2 - A apresentação de peças processuais e documentos por transmissão electrónica de dados através do endereço supra-referido requer a utilização de assinatura electrónica avançada do signatário.\n\n3 - As peças processuais apresentadas por via electrónica devem ser enviadas em ficheiro de formato rich text format (rtf) ou portable document format (pdf).\n\n4 - Os documentos apresentados por via electrónica devem ser digitalizados e enviados como um só ficheiro de formato tagged image file format (tif) ou portable document format (pdf).\n\n5 - A apresentação conjunta de peças processuais e documentos por via electrónica implica a sua digitalização e envio num único ficheiro de formato tagged image file format (tif) ou portable document format (pdf).\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04\n\n> Alterado pelo/a Artigo 26.º do/a [Portaria n.º 114/2008 - Diário da República n.º 26/2008, Série I de 2008-02-06](https://diariodarepublica.pt/dr/detalhe/portaria/114-2008-248237), em vigor a partir de 2008-02-07\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+  },
+  "921239097": {
+   "fragment_id": "921021396",
+   "type": 11,
+   "heading": "3.º — Dispensa do suporte de papel e cópias dos documentos",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+   ],
+   "markdown": "###### 3.º — Dispensa do suporte de papel e cópias dos documentos\n\n1 - A parte que apresenta os documentos por via electrónica fica dispensada de remeter ao tribunal os documentos em suporte de papel e as respectivas cópias.\n\n2 - A dispensa referida no número anterior não se aplica caso o total de cópias exceda as 100 páginas.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+  },
+  "921239098": {
+   "fragment_id": "921021397",
+   "type": 11,
+   "heading": "4.º — Apresentação de peças processuais e de documentos em suporte físico",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+   ],
+   "markdown": "###### 4.º — Apresentação de peças processuais e de documentos em suporte físico\n\n1 - Sem prejuízo do disposto no número seguinte, a apresentação de peças processuais e documentos em suporte físico implica a sua digitalização pela secretaria judicial, nos termos do n.º 4 do artigo 2.º\n\n2 - Podem não ser digitalizados pela secretaria judicial os documentos:\n\na) Cujo suporte físico não seja em papel ou cujo papel tenha uma espessura superior a 127 g/m2 ou inferior a 50 g/m2;\n\nb) Em formatos superiores a A4;\n\nc) Que, individualmente considerados, excedam as 500 páginas.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+  },
+  "921239099": {
+   "fragment_id": "921021398",
+   "type": 11,
+   "heading": "5.º — Devolução de peças processuais e de documentos",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+   ],
+   "markdown": "###### 5.º — Devolução de peças processuais e de documentos\n\n1 - Sem prejuízo do disposto no número seguinte, efectuada a digitalização, as peças processuais e os documentos são devolvidos às partes.\n\n2 - Se a secretaria constatar que a digitalização não permite um adequado exame da peça processual ou do documento, arquiva e conserva o seu original, nos termos da lei.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+  },
+  "921239100": {
+   "fragment_id": "921021399",
+   "type": 11,
+   "heading": "6.º — Consulta de processos",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04",
+    "Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+   ],
+   "markdown": "###### 6.º — Consulta de processos\n\n1 - A consulta de processos é efectuada em terminal informático, disponível nas secretarias judiciais, ou mediante acesso através do endereço http://www.taf.mj.pt\n\n2 - O acesso através do endereço http://www.taf.mj.pt só pode ser feito por quem disponha de assinatura electrónica avançada.\n\n3 - As peças processuais e os documentos não digitalizados são consultados nas secretarias judiciais, nos termos da lei.\n\n4 - Para efeitos do disposto neste artigo, é mantido um ficheiro electrónico, permanentemente actualizado, com os dados relativos às pessoas autorizadas para a consulta, respectivo nível de acesso e o respectivo certificado digital.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04\n\n> Retificado pelo/a [Declaração de Rectificação n.º 17/2004 - Diário da República n.º 27/2004, Série I-B de 2004-02-02](https://diariodarepublica.pt/dr/detalhe/declaracao-rectificacao/17-2004-589295), produz efeitos a partir de 2004-01-04"
+  },
+  "921239101": {
+   "fragment_id": "921021400",
+   "type": 11,
+   "heading": "7.º — Actos processuais de magistrados e funcionários judiciais",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+   ],
+   "markdown": "###### 7.º — Actos processuais de magistrados e funcionários judiciais\n\n1 - Os actos processuais dos magistrados são praticados em suporte informático, através do SITAF, com aposição de assinatura electrónica avançada.\n\n2 - Os actos processuais das secretarias judiciais são igualmente praticados em suporte informático, através do SITAF, mediante a utilização de assinatura electrónica avançada.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+  },
+  "921239102": {
+   "fragment_id": "921021401",
+   "type": 11,
+   "heading": "8.º — Aplicação no tempo",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+   ],
+   "markdown": "###### 8.º — Aplicação no tempo\n\nO disposto na presente portaria apenas se aplica a processos e incidentes instaurados ou deduzidos a partir de 1 de Janeiro de 2004.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+  },
+  "921239103": {
+   "fragment_id": "114369171",
+   "type": 7,
+   "heading": "Assinatura",
+   "in_force_from": "2018-01-04",
+   "changed_by": [
+    "Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+   ],
+   "markdown": "A Ministra da Justiça, Maria Celeste Ferreira Lopes Cardona, em 29 de Dezembro de 2003.\n\n> Revogado pelo/a Artigo 29.º do/a [Portaria n.º 380/2017 - Diário da República n.º 242/2017, Série I de 2017-12-19](https://diariodarepublica.pt/dr/detalhe/portaria/380-2017-114380265), em vigor a partir de 2018-01-04"
+  }
+ }
+}

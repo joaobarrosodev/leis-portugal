@@ -1,0 +1,818 @@
+---
+schema_version: '1.0'
+id: pt:dre:659564:por
+title: Decreto-Lei n.º 366-A/97
+short_title: null
+summary: Estabelece os princípios e as normas aplicáveis ao sistema de gestão de embalagens e resíduos de embalagens (revoga
+  o Decreto-Lei n.º 322/95, de 28 de Novembro)
+jurisdiction: portugal
+territory: null
+document_type: decreto-lei
+document_type_label: Decreto-Lei
+issuing_authority:
+- Ministério do Ambiente
+proposing_entity: null
+official_number: 366-A/97
+official_date: null
+publication_date: '1997-12-20'
+publication:
+  gazette: Diário da República
+  reference: Diário da República n.º 293/1997, 3º Suplemento, Série I-A de 1997-12-20
+  number: '293'
+  series: I
+  supplement: 3º Suplemento
+  pages: 6732-(498) a 6732-(503)
+  pdf_url: https://files.diariodarepublica.pt/1s/1997/12/293a03/04980503.pdf
+entry_into_force_dates: []
+end_of_validity_date: null
+legal_status: repealed
+notes: []
+language: por
+version:
+  kind: consolidated
+  label: Versão consolidada pelo DRE
+  language: por
+  consolidation_date: '2018-01-01'
+version_history:
+  file: decreto-lei-366-a-97.versoes.json
+  count: 9
+  source_lastmod: '2024-06-25'
+  versions:
+  - date: '1997-12-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2000-08-01'
+    amending: pt:dre:314418:por
+    amending_title: Decreto-Lei n.º 162/2000
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 6.º
+  - date: '2006-05-30'
+    amending: pt:dre:284949:por
+    amending_title: Decreto-Lei n.º 92/2006
+    changes:
+    - Adita Artigo 3.º-A
+    - Adita Anexo II
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Artigo 11.º
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+  - date: '2006-09-10'
+    amending: pt:dre:540016:por
+    amending_title: Decreto-Lei n.º 178/2006
+    changes:
+    - Revoga Artigo 16.º
+  - date: '2011-06-18'
+    amending: pt:dre:670034:por
+    amending_title: Decreto-Lei n.º 73/2011
+    changes:
+    - Altera Artigo 5.º
+    - Altera Artigo 10.º
+    - Altera Artigo 11.º
+    - Altera Artigo 12.º
+    - Altera Artigo 13.º
+  - date: '2013-08-07'
+    amending: pt:dre:498526:por
+    amending_title: Decreto-Lei n.º 110/2013
+    changes:
+    - Altera Artigo 1.º
+    - Altera Anexo I
+  - date: '2015-04-11'
+    amending: pt:dre:66953313:por
+    amending_title: Decreto-Lei n.º 48/2015
+    changes:
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 9.º
+  - date: '2016-11-05'
+    amending: pt:dre:75662181:por
+    amending_title: Decreto-Lei n.º 71/2016
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Artigo 7.º
+    - Altera Artigo 9.º
+  - date: '2018-01-01'
+    amending: pt:dre:114337042:por
+    amending_title: Decreto-Lei n.º 152-D/2017
+    changes:
+    - Revoga Diploma
+identifiers:
+  celex: null
+  eli: https://data.dre.pt/eli/dec-lei/366-a/1997/p/cons/20171211/pt/html
+  oj: null
+  dre: '659564'
+  dre_path: /dr/detalhe/decreto-lei/366-a-1997-659564
+  internal: pt:dre:659564:por
+source:
+  id: dre
+  name: Diário da República Eletrónico
+  official_url: https://diariodarepublica.pt/dr/detalhe/decreto-lei/366-a-1997-659564
+  metadata_url: https://data.dre.pt/eli/dec-lei/366-a/1997/p/cons/20171211/pt/html
+  content_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-73665155
+  consolidated_url: https://diariodarepublica.pt/dr/legislacao-consolidada/decreto-lei/1997-73665155
+  retrieved_at: '2026-10-22T12:05:46Z'
+  retrieval_method: 'Legislação consolidada do DRE (LegCons_Detalhe): texto em cada data de entrada em vigor; endpoints internos
+    da aplicação web'
+  source_modified_at: '2024-06-25T00:00:00Z'
+integrity:
+  source_sha256: 7ea0b6b839142f659a0596dc3028fbf07ef79262779288aebebd12d0b7728501
+  source_sha256_scope: official_source_content_bytes
+provenance:
+  collector: leis-portugal DRE consolidado
+  collector_version: 0.1.0
+  generated_by: leis-portugal collect dre-consolidated
+  generated_at: '2026-10-22T12:05:46Z'
+  notes: 9 versão(ões); histórico completo em decreto-lei-366-a-97.versoes.json.
+reuse:
+  status: permitted
+  attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda; texto convertido pelo projeto legalize-pt
+    (legalize.dev)
+  reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
+  notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
+    (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
+subjects:
+- Aproximação das Legislações
+- Gestão de Resíduos
+- Multa
+- Comissão de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens
+- Contra-ordenação
+- Ilícito de MERA Ordenação Social
+- Embalagem
+- Resíduo
+- Proteção do Ambiente
+- Proteção do Consumidor
+- Comércio
+relationships:
+- type: amended_by
+  target: pt:dre:314418:por
+  label: Altera Artigo 4.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2000-314418
+  date: '2000-07-27'
+- type: amended_by
+  target: pt:dre:284949:por
+  label: Altera Artigo 4.º; Altera Artigo 6.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949
+  date: '2006-05-25'
+- type: amended_by
+  target: pt:dre:540016:por
+  label: Revoga Artigo 16.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016
+  date: '2006-09-05'
+- type: amended_by
+  target: pt:dre:670034:por
+  label: Altera Artigo 5.º; Altera Artigo 10.º; Altera Artigo 11.º; Altera Artigo 12.º; Altera Artigo 13.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034
+  date: '2011-06-17'
+- type: amended_by
+  target: pt:dre:498526:por
+  label: Altera Artigo 1.º; Altera Anexo I
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2013-498526
+  date: '2013-08-02'
+- type: amended_by
+  target: pt:dre:66953313:por
+  label: Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2015-66953313
+  date: '2015-04-10'
+- type: amended_by
+  target: pt:dre:75662181:por
+  label: Altera Artigo 2.º; Altera Artigo 4.º; Altera Artigo 5.º; Altera Artigo 7.º; Altera Artigo 9.º
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181
+  date: '2016-11-04'
+- type: amended_by
+  target: pt:dre:114337042:por
+  label: Revoga Diploma
+  source: https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042
+  date: '2017-12-11'
+- type: cites
+  target: celex:31993R0259
+  label: null
+  source: null
+- type: cites
+  target: celex:31994L0062
+  label: null
+  source: http://data.europa.eu/eli/dir/1994/62/oj
+- type: cites
+  target: celex:31997D0129
+  label: null
+  source: null
+- type: cites
+  target: celex:31999R1547
+  label: null
+  source: null
+- type: cites
+  target: celex:32003R1882
+  label: null
+  source: null
+- type: cites
+  target: celex:32009R0219
+  label: null
+  source: null
+- type: cites
+  target: celex:32013L0002
+  label: null
+  source: null
+- type: cites
+  target: eli:http://data.dre.pt/eli/dec-lei/322/1995/11/28/p/dre
+  label: null
+  source: http://data.dre.pt/eli/dec-lei/322/1995/11/28/p/dre
+- type: transposes
+  target: celex:31994L0062
+  label: null
+  source: null
+article_structure:
+  article_count: 18
+  section_count: 2
+  extraction_method: Fragmentos da legislação consolidada do DRE (TipoFragmentoId)
+derived_material:
+  machine_generated: true
+  notes: Markdown gerado a partir dos fragmentos consolidados do DRE; as versões anteriores estão no ficheiro de versões.
+validation:
+  status: validated
+  checked_at: '2026-10-22T12:05:46Z'
+  warnings: []
+  errors: []
+---
+
+# Decreto-Lei n.º 366-A/97
+
+Decreto-Lei n.º 366-A/97
+
+de 20 de Dezembro
+
+O Decreto-Lei n.º 322/95, de 28 de Novembro, estabeleceu os princípios e as normas aplicáveis ao sistema de gestão de embalagens e resíduos de embalagens. Contudo, esse diploma foi aprovado pelo Governo anterior sem que se tenha respeitado a formalidade de notificação prévia prevista no artigo 16.º da Directiva n.º <a href="eurlex.asp?ano=1994&id=394L0062" title="Link para Directiva da Comunidade Europeia">94/62/CE</a>, do Parlamento Europeu e do Conselho, de 20 de Dezembro de 1994.
+
+Corrigido o lapso, procede-se agora à publicação de diploma idêntico, aproveitando-se a ocasião para alterar a disposição relativa à data de entrada em vigor das regras que condicionam a colocação no mercado e comercialização das embalagens, por a mesma ser contrária ao direito comunitário, designadamente ao n.º 1 do artigo 9.º da citada directiva. Adopta-se, assim, para esse efeito, e ainda por força da mencionada legislação comunitária, a data de 1 de Janeiro de 1998.
+
+Por outro lado, e para além de outras correcções menores, sublinha-se neste diploma o carácter voluntário do sistema de marcação e de identificação dos materiais de embalagens, também aqui de harmonia com o normativo europeu.
+
+Como se referiu por ocasião da publicação do Decreto-Lei n.º 322/95, de 28 de Novembro, que o presente diploma substitui, a consciência dos problemas ambientais traduz-se na exigência de enfrentar o problema da gestão de resíduos gerados pelas sociedades industrializadas. Os objectivos fundamentais de uma política integrada de gestão de resíduos traduzem-se, prioritariamente, na prevenção da sua produção, na redução do seu peso e volume, na maximização das quantidades recuperadas para valorização, bem como na adopção de adequados métodos e processos de eliminação, tendo em vista a minimização de resíduos depositados em aterro.
+
+Estes objectivos são válidos para a generalidade dos resíduos e especialmente para os resíduos de embalagens, dado que a redução desses resíduos é uma condição necessária para o crescimento sustentável.
+
+Importa por isso diminuir a produção de resíduos de embalagens e estimular procedimentos vocacionados prioritariamente, e sempre que tecnicamente possível, para a reutilização de embalagens, reciclagem ou outras formas de valorização dos resíduos de embalagens, bem como desencorajar a sua eliminação por via do simples depósito em aterro.
+
+Tais medidas e princípios estão, aliás, claramente definidos na Directiva n.º <a href="eurlex.asp?ano=1994&id=394L0062" title="Link para Directiva da Comunidade Europeia">94/62/CE</a>, do Parlamento Europeu e do Conselho da União Europeia, de 20 de Dezembro de 1994, relativa a embalagens e resíduos de embalagens, cuja transposição para o ordenamento jurídico nacional se assegura com o presente diploma.
+
+Em matéria de processos fundamentais de gestão, deve ter-se em conta, preferencialmente, a reutilização de embalagens e a reciclagem de resíduos de embalagens, com vantagens em termos de impacte ambiental, através da criação de sistemas que garantam o retorno de embalagens usadas e ou de resíduos de embalagens, os quais devem ser claros e transparentes. Neste contexto, merece ainda referência a análise dos ciclos de vida das embalagens, com o fim de estabelecer uma hierarquia bem definida entre embalagens reutilizáveis, recicláveis e valorizáveis.
+
+Para que os objectivos da reciclagem sejam prosseguidos torna-se necessário criar circuitos de recolha selectiva e triagem. É indispensável que as embalagens sejam concebidas de forma a facilitar a reciclagem e outras formas de eliminação ambientalmente adequadas. Por outro lado, é também indispensável favorecer a utilização de materiais provenientes da reciclagem de embalagens, garantindo sempre os níveis adequados de higiene e segurança, e definir os requisitos essenciais relacionados com a composição e natureza das embalagens reutilizáveis e recicláveis, limitando, paralelamente, a presença de metais pesados e outras substâncias nocivas nas embalagens como medida prioritária no sentido da sua redução nos resíduos de embalagens.
+
+A prossecução destes objectivos passa, inevitavelmente, pela co-responsabilidade dos operadores económicos, devidamente articulada com as atribuições e competências dos municípios.
+
+Com efeito, aos municípios foi confiada a responsabilidade pelo serviço público de recolha da generalidade dos resíduos sólidos urbanos, na esteira das atribuições definidas no Decreto-Lei n.º 100/84, de 29 de Março, e na Lei n.º 1/87, de 6 de Janeiro. A criação de circuitos de recolha e triagem envolverá custos acrescidos para os municípios, pelo que se torna indispensável criar sistemas que co-responsabilizem os operadores económicos e que permitam a obtenção, pelos municípios, de meios financeiros necessários à prossecução dos objectivos acima referidos.
+
+Foi ouvida a Associação Nacional de Municípios Portugueses.
+
+Assim:
+
+Nos termos da alínea a) do n.º 1 do artigo 198.º da Constituição, o Governo decreta o seguinte:
+
+> Nota: [Artigo 3.º, Decreto-Lei n.º 48/2015 - Diário da República n.º 70/2015, Série I de 2015-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2015-66953313) As alterações introduzidas pelo Decreto-Lei n.º 48/2015, de 10 de abril, aplicam-se aos requerimentos apresentados pelos interessados, nos termos do n.º 3 do artigo 8.º da Portaria n.º 29-B/98, de 15 de janeiro, com vista à concessão de licença para a gestão de um sistema integrado de resíduos de embalagens, que, à data da entrada em vigor do presente decreto-lei, não tenham sido objeto de decisão final.
+
+###### Artigo 1.º — Objecto e âmbito
+
+1 - O presente diploma estabelece os princípios e as normas aplicáveis à gestão de embalagens e de resíduos de embalagens, com vista à prevenção da produção desses resíduos, à reutilização de embalagens usadas, à reciclagem e outras formas de valorização de resíduos de embalagens e consequente redução da sua eliminação final, assegurando um elevado nível de proteção do ambiente, bem como a garantir o funcionamento do mercado interno e a evitar entraves ao comércio e distorções e restrições da concorrência na União Europeia, transpondo para a ordem jurídica interna a Diretiva n.º 94/62/CE, do Parlamento Europeu e do Conselho, de 20 de dezembro de 1994, alterada pelo Regulamento (CE) n.º 1882/2003, do Parlamento Europeu e do Conselho, de 29 de setembro de 2003, pelas Diretivas n.os 2004/12/CE, do Parlamento Europeu e do Conselho, de 11 de fevereiro de 2004, e 2005/20/CE, do Parlamento Europeu e do Conselho, de 9 de março de 2005, pelo Regulamento (CE) n.º 219/2009, do Parlamento Europeu e do Conselho, de 11 de março de 2009, e pela Diretiva n.º 2013/2/UE, da Comissão, de 7 de fevereiro de 2013.
+
+2 - O presente diploma é aplicável a todas as embalagens colocadas no mercado, sejam elas utilizadas ou produzidas, nomeadamente, aos níveis doméstico, industrial, agrícola ou do comércio, incluindo escritórios, lojas e serviços, e independentemente do material utilizado, e ainda aos resíduos dessas embalagens susceptíveis de recolha e tratamento pelos sistemas existentes ou a criar para o efeito.
+
+3 - O disposto no presente diploma não prejudica a legislação em vigor em matéria de transporte de embalagens e produtos embalados, bem como a legislação em matéria de qualidade das embalagens, nomeadamente quanto à segurança, protecção da saúde e higiene dos produtos embalados, e ainda as disposições relativas aos resíduos perigosos, nos termos do disposto na legislação em vigor.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 110/2013 - Diário da República n.º 148/2013, Série I de 2013-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2013-498526), em vigor a partir de 2013-08-07
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+###### Artigo 2.º — Definições
+
+1 - Para efeitos do presente diploma, entende-se por:
+
+a) 'Embalagem' todos e quaisquer produtos feitos de materiais de qualquer natureza utilizados para conter, proteger, movimentar, manusear, entregar e apresentar mercadorias, tanto matérias-primas como produtos transformados, desde o produtor ao utilizador ou consumidor, incluindo todos os artigos descartáveis utilizados para os mesmos fins, atento o disposto no número seguinte e no anexo I ao presente decreto-lei, que dele faz parte integrante;
+
+b) «Resíduos de embalagem», qualquer embalagem ou material de embalagem abrangido pela definição de resíduo adoptada na legislação em vigor aplicável nesta matéria, excluindo os resíduos de produção;
+
+c) «Prevenção», diminuição da quantidade e da nocividade para o ambiente de materiais e substâncias utilizadas nas embalagens, bem como da quantidade e nocividade de embalagens e resíduos de embalagens, ao nível do processo de produção, comercialização, distribuição, utilização e eliminação, em especial através do desenvolvimento de produtos e tecnologias «limpos»;
+
+d) «Reutilização», qualquer operação pela qual uma embalagem, concebida e projectada para cumprir, durante o seu ciclo de vida, um número mínimo de viagens ou rotações, é enchida de novo, com ou sem apoio de produtos auxiliares presentes no mercado que permitam o novo enchimento da própria embalagem, ou reutilizada para o mesmo fim para que foi concebida; as embalagens reutilizadas passarão a resíduos de embalagens quando deixarem de ser reutilizadas;
+
+e) «Recuperação», toda a operação de recolha e triagem por materiais com o objectivo de proceder à reutilização das embalagens usadas e à valorização dos resíduos de embalagem;
+
+f) «Valorização», qualquer das operações aplicáveis previstas na legislação em vigor;
+
+g) «Reciclagem», o reprocessamento, num processo de produção, dos resíduos de embalagem para o fim inicial ou para outros fins, incluindo a reciclagem orgânica, mas não a valorização energética;
+
+h) «Valorização energética», a utilização de resíduos de embalagens combustíveis para a produção de energia através de incineração directa, com ou sem outros tipos de resíduos, mas com recuperação do calor;
+
+i) «Reciclagem orgânica», o tratamento aeróbio (compostagem) ou anaeróbio (biometanização), através de microrganismos e em condições controladas, das partes biodegradáveis dos resíduos de embalagens, com produção de resíduos orgânicos estabilizados ou de metano, não sendo a deposição em aterros considerada como forma de reciclagem orgânica;
+
+j) «Eliminação», qualquer das operações previstas na legislação em vigor;
+
+l) «Embalador», aquele que, a título profissional, embale ou faça embalar os seus produtos e que é responsável pela sua colocação no mercado;
+
+m) «Operadores económicos no domínio das embalagens», os fornecedores de matérias-primas para materiais de embalagem e ou de materiais de embalagem, os produtores e transformadores de embalagens, embaladores, utilizadores, importadores, comerciantes e distribuidores de produtos embalados, as autoridades e organismos públicos com competências na matéria, designadamente os municípios;
+
+n) «Gestão dos resíduos de embalagens», a gestão dos resíduos definida na legislação em vigor aplicável nesta matéria;
+
+o) «Acordo voluntário», qualquer acordo formal entre as autoridades públicas competentes em matéria de gestão de embalagens e os sectores de actividade interessados, que deve ser aberto a todos os parceiros que pretendam dar-lhe cumprimento;
+
+p) «Sistema de consignação», sistema pelo qual o consumidor da embalagem paga um determinado valor de depósito no acto da compra, valor esse que lhe é devolvido quando da entrega da embalagem usada;
+
+q) «Sistema integrado», sistema pelo qual o consumidor da embalagem é informado, através da marcação aposta nesta, de que deverá colocar a embalagem usada (enquanto resíduo) em locais devidamente identificados, isto é, com marcação semelhante à da embalagem;
+
+r) 'Embalagem de serviço', embalagem que se destine a um enchimento num ponto de venda, para acondicionamento e transporte de produtos pelo consumidor.
+
+2 - A definição de embalagem referida na alínea a) do número anterior compreende as embalagens urbanas, que são embalagens utilizadas nos sectores doméstico, comercial ou de serviços, e aquelas que, pela sua natureza ou composição, são similares às embalagens urbanas, bem como todas as demais embalagens, empregues em fins industriais ou outros, mas desde que se trate de algum dos seguintes tipos:
+
+a) Embalagem de venda ou embalagem primária, que compreende qualquer embalagem concebida de modo a constituir uma unidade de venda para o utilizador final ou consumidor no ponto de compra;
+
+b) Embalagem grupada ou embalagem secundária, que compreende qualquer embalagem concebida de modo a constituir, no ponto de compra, uma grupagem de determinado número de unidades de venda, quer estas sejam vendidas como tal ao utilizador ou consumidor final quer sejam apenas utilizadas como meio de reaprovisionamento do ponto de venda; este tipo de embalagem pode ser retirado do produto sem afectar as suas características;
+
+c) Embalagem de transporte ou embalagem terciária, que engloba qualquer embalagem concebida de modo a facilitar a movimentação e o transporte de uma série de unidades de venda ou embalagens grupadas, a fim de evitar danos físicos durante a movimentação e o transporte; a embalagem de transporte não inclui os contentores para transporte rodoviário, ferroviário, marítimo e aéreo.
+
+3 - As responsabilidades atribuídas pelo presente diploma ao embalador e ao importador são atribuídas, quando estes não estiverem identificados na embalagem ou tiverem sede noutro Estado membro da União Europeia, ao responsável pela primeira colocação no mercado nacional dos produtos embalados.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+###### Artigo 3.º — Princípios de gestão
+
+Constituem princípios fundamentais de gestão das embalagens e resíduos de embalagens a prevenção da produção destes resíduos, nomeadamente através da concretização de programas de acção específicos, a elaborar em colaboração com os operadores económicos envolvidos, bem como a criação de sistemas de reutilização, de reciclagem e outras formas de valorização de resíduos de embalagens, nos termos do presente diploma.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 3.º-A — Prevenção
+
+1 - Todos os intervenientes no ciclo de vida da embalagem, desde a sua concepção e utilização até ao manuseamento dos respectivos resíduos, devem contribuir, na medida do seu grau de intervenção e responsabilidade, para o correcto funcionamento dos sistemas de gestão criados a nível nacional para o fluxo das embalagens e resíduos de embalagens, adoptando as práticas de ecodesign e de consumo sustentável mais adequadas face às disposições legais e às normas técnicas em vigor.
+
+2 - Os embaladores e ou os responsáveis pela colocação de embalagens no mercado nacional, bem como os produtores de embalagens, devem assegurar o preenchimento dos requisitos essenciais de fabrico e composição das embalagens previstos na regulamentação adoptada ao abrigo do artigo 9.º, nomeadamente no Decreto-Lei n.º 407/98, de 21 de Dezembro, em conformidade com as normas comunitárias harmonizadas, em especial com a NP EN 13428:2005, 'Embalagem - Requisitos específicos para o fabrico e composição - Prevenção por redução na fonte', e a EN 13429:2004, 'Packaging-Reuse'.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+###### Artigo 4.º — Responsabilidade pela gestão das embalagens e resíduos de embalagens
+
+1 - Os operadores económicos são co-responsáveis pela gestão das embalagens e resíduos de embalagens nos termos do disposto no presente diploma e demais legislação aplicável.
+
+2 - Na gestão das embalagens e resíduos de embalagens são tidas em conta as exigências em matéria de protecção do ambiente e defesa da saúde, segurança e higiene dos consumidores, a protecção da qualidade, autenticidade e características técnicas das mercadorias embaladas e dos materiais utilizados, bem como a protecção dos direitos da propriedade industrial e comercial.
+
+3 - Sem prejuízo do disposto nos n.os 4 a 6 do artigo seguinte, os municípios são responsáveis, nos termos da legislação em vigor, pela recolha dos resíduos urbanos, devendo beneficiar das contrapartidas financeiras que derivem da aplicação do sistema integrado previsto no presente diploma, a fim de assegurarem a recolha seletiva e triagem dos resíduos de embalagens contidos nos resíduos urbanos.
+
+4 - Sem prejuízo do disposto no n.º 7, os embaladores e importadores de produtos embalados são responsáveis pela prestação de contrapartidas financeiras destinadas a suportar os acréscimos de custos com a recolha seletiva e triagem de resíduos de embalagens.
+
+5 - Os fabricantes de embalagens e de matérias-primas de embalagens são responsáveis pela retoma e valorização dos resíduos de embalagens, directamente ou através de organizações que tiverem sido criadas para assegurar a retoma e valorização dos materiais recuperados.
+
+3 - Sem prejuízo do disposto nos n.os 4 a 6 do artigo seguinte, os municípios ou as entidades gestoras dos sistemas municipais são responsáveis, nos termos da legislação em vigor, pela recolha dos resíduos urbanos, devendo beneficiar das contrapartidas financeiras que derivem da aplicação do sistema integrado previsto no presente decreto-lei, a fim de assegurarem a recolha seletiva e a triagem dos resíduos de embalagens contidos nos resíduos urbanos, bem como a triagem dos resíduos de embalagens nas estações de tratamento mecânico e de tratamento mecânico e biológico, a valorização orgânica de resíduos de embalagens, o tratamento das escórias metálicas resultantes da incineração dos resíduos urbanos e demais frações que venham a ser consideradas reciclagem.
+
+4 - Sem prejuízo do disposto no n.º 7, os embaladores e importadores de produtos embalados são responsáveis:
+
+a) Pela prestação de contrapartidas financeiras destinadas a suportar os acréscimos de custos com a recolha seletiva e a triagem de resíduos de embalagens;
+
+b) Pela prestação de contrapartidas financeiras destinadas a suportar os custos da triagem dos resíduos de embalagens nas estações de tratamento mecânico e de tratamento mecânico e biológico, a valorização orgânica de resíduos de embalagens e o tratamento das escórias metálicas resultantes da incineração dos resíduos urbanos e demais frações que venham a ser consideradas reciclagem;
+
+c) Pelo encaminhamento dos resíduos de embalagens presentes nos resíduos urbanos retomados junto dos sistemas de gestão de resíduos urbanos e dos resíduos de embalagens provenientes da rede de recolha própria, a que se refere o n.º 4 do artigo 5.º, para reciclagem e outras formas de valorização.
+
+5 - No caso da gestão de embalagens de serviços, as obrigações previstas no número anterior são asseguradas pelos fornecedores dessas embalagens.
+
+6 - Em colaboração com os embaladores e importadores de produtos embalados, os fabricantes de embalagens e de matérias-primas de embalagens, corresponsáveis pela reciclagem dos resíduos de embalagens, devem procurar incorporar no seu processo produtivo matérias-primas secundárias, obtidas a partir da reciclagem desses resíduos.
+
+7 - O comércio e a distribuição não podem comercializar qualquer produto cuja embalagem não esteja de acordo com o previsto no artigo 6.º
+
+8 - Os produtores de resíduos de embalagens não urbanas têm de proceder, dentro das suas instalações, à recolha selectiva e triagem desses resíduos e providenciar a sua valorização, directamente em unidades devidamente licenciadas para o efeito ou de acordo com o disposto no artigo seguinte.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2015 - Diário da República n.º 70/2015, Série I de 2015-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2015-66953313), em vigor a partir de 2015-04-11
+
+> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 162/2000 - Diário da República n.º 172/2000, Série I-A de 2000-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2000-314418), em vigor a partir de 2000-08-01
+
+###### Artigo 5.º — Cumprimento de obrigações
+
+1 - Para efeitos do cumprimento das obrigações estabelecidas no artigo anterior, os operadores económicos podem optar por submeter a gestão das suas embalagens e resíduos de embalagens a um dos dois sistemas, de consignação ou integrado, cujas normas de funcionamento e regulamentação são as constantes do presente diploma e da portaria mencionada no artigo 9.º
+
+2 - No âmbito do sistema integrado, a responsabilidade dos agentes económicos pela gestão dos resíduos de embalagens pode ser transferida para uma entidade devidamente licenciada para exercer essa atividade, nos termos previstos no n.º 2 do artigo 44.º do Decreto-Lei n.º 178/2006, de 5 de setembro, e demais legislação aplicável.
+
+3 - No caso previsto no número anterior, a entidade aí mencionada deve disponibilizar as contrapartidas financeiras necessárias para comportar as operações de recolha seletiva e triagem dos resíduos de embalagens e as operações necessárias para recuperar os resíduos de embalagens provenientes da recolha indiferenciada, conforme previsto no n.º 4 do artigo 4.º, nos seguintes termos:
+
+a) Sem prejuízo do disposto nos n.os 4 a 6, por meio de contratos ou acordos voluntários com os municípios, reduzidos a escrito, cabendo a estes proceder à recolha seletiva e triagem das embalagens contidas nos resíduos urbanos cuja produção diária não exceda 1100 litros por produtor;
+
+b) No caso das demais embalagens, a responsabilidade da recolha seletiva e triagem de resíduos de embalagem pode ser igualmente transmitida aos municípios, mediante a celebração de acordos voluntários com estes, sendo correspondentemente aplicável o disposto na alínea anterior.
+
+4 - A entidade a que se refere o n.º 2 pode instalar uma rede de recolha própria, necessitando para o efeito de celebrar um contrato administrativo, nos termos do Código dos Contratos Públicos, com o município ou com a entidade gestora do sistema de recolha e tratamento de resíduos urbanos da respetiva área de recolha, conforme os casos, nos termos da legislação aplicável aos serviços municipais de abastecimento público de água, saneamento e resíduos urbanos e à concessão da exploração e gestão dos sistemas multimunicipais de tratamento e de recolha seletiva de resíduos urbanos, e de acordo com os contratos de concessão respetivos, quando existam.
+
+5 - Os resíduos de embalagens recolhidos na rede de recolha própria referida no número anterior são obrigatoriamente encaminhados para a instalação de triagem do município ou da entidade gestora do respetivo sistema de recolha e tratamento de resíduos urbanos da respetiva área de recolha, conforme a situação aplicável, devendo a entidade mencionada no n.º 2 disponibilizar as contrapartidas financeiras necessárias para comportar a operação de triagem dos resíduos de embalagens em causa.
+
+6 - A responsabilidade pelo destino final dos resíduos de embalagens da entidade referida no n.º 2 cessa quando for emitida declaração de assunção de responsabilidade pelo operador de tratamento de resíduos a quem forem entregues as embalagens ou os resíduos de embalagens para reciclagem.
+
+7 - O disposto no presente artigo não é aplicável aos responsáveis pela primeira colocação no mercado de embalagens não reutilizáveis de matérias-primas e de produtos embalados desde que utilizadas exclusivamente para consumo próprio nas respectivas instalações e objecto de um circuito fechado no seu processo de utilização.
+
+8 - Os responsáveis referidos no número anterior ficam sujeitos ao regime constante do Decreto-Lei n.º 178/2006, de 5 de Setembro, alterado pela Lei n.º 64-A/2008, de 31 de Dezembro, e pelos Decretos-Leis n.os 183/2009, de 10 de Agosto, e 73/2011, de 17 de Junho, bem como à obrigação de inscrição e registo no sistema integrado de registo electrónico de resíduos.
+
+9 - Com vista à promoção da prevenção e da reciclagem dos resíduos de embalagens, os embaladores e importadores de produtos embalados, em colaboração com os fabricantes de embalagens e de matérias-primas de embalagens, devem:
+
+a) Nas fases de conceção e de produção de novas embalagens, diligenciar no sentido de facilitar a reutilização e a valorização das mesmas, quando em fim de vida;
+
+b) Promover a reciclagem de resíduos de embalagens, bem como dos seus componentes e materiais, integrando-os como matéria-prima secundária nos seus processos produtivos, sempre que possível e em quantidades progressivamente crescentes.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2015 - Diário da República n.º 70/2015, Série I de 2015-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2015-66953313), em vigor a partir de 2015-04-11
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 6.º — Símbolo
+
+1 - As embalagens reutilizáveis podem ser marcadas com um símbolo específico, a definir nos termos do artigo 9.º
+
+2 - As embalagens não reutilizáveis, mas afectas a valorização, sujeitas ao sistema de consignação previsto no artigo anterior, devem ser marcadas com um símbolo específico, a definir pelos interessados.
+
+3 - As embalagens não reutilizáveis abrangidas pelo sistema integrado previsto no artigo 5.º são obrigatoriamente marcadas com um símbolo específico, a definir pela entidade referida no mesmo artigo, se forem embalagens primárias e opcionalmente se forem embalagens secundárias e terciárias.
+
+4 - Em casos devidamente fundamentados e por solicitação dos interessados, poderá o Instituto dos Resíduos, ouvida a Comissão de Acompanhamento de Gestão de Embalagens e Resíduos de Embalagens, autorizar a isenção de marcação de certas embalagens primárias com o símbolo referido no número anterior.
+
+5 - Em qualquer caso, a fim de facilitar a recolha, a reutilização e valorização, incluindo a reciclagem, as embalagens podem indicar a natureza do ou dos materiais de embalagem utilizados, para efeitos de identificação e classificação pela respectiva indústria, de acordo com o sistema de identificação estabelecido na Decisão n.º 97/129/CE, da Comissão, de 28 de Janeiro, cujo regime consta do anexo II ao presente decreto-lei, que dele faz parte integrante.
+
+6 - A marcação adequada é aposta na própria embalagem ou rótulo, devendo ser claramente visível e de fácil leitura e ter uma duração compatível com o tempo de vida da embalagem, mesmo depois de aberta.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+> Alterado pelo/a Artigo Único do/a [Decreto-Lei n.º 162/2000 - Diário da República n.º 172/2000, Série I-A de 2000-07-27](https://diariodarepublica.pt/dr/detalhe/decreto-lei/162-2000-314418), em vigor a partir de 2000-08-01
+
+###### Artigo 7.º — Objectivos de valorização e reciclagem
+
+1 - Os objectivos de valorização, incineração em instalações de incineração de resíduos com recuperação de energia e reciclagem de resíduos de embalagens são os seguintes:
+
+a) Até 31 de Dezembro de 2001, valorização ou incineração em instalações de incineração de resíduos com recuperação de energia de um mínimo de 25% em peso dos resíduos de embalagens, sendo, no entanto, recomendável a obtenção dos valores definidos nas alíneas b) e c) antes da data nelas fixada;
+
+b) Até 31 de Dezembro de 2005, valorização ou incineração em instalações de incineração de resíduos com recuperação de energia no mínimo de 50% em peso dos resíduos de embalagens;
+
+c) Até 31 de Dezembro de 2005, reciclagem no mínimo de 25% em peso da totalidade dos materiais de embalagem contidos nos resíduos de embalagens, com 15%, no mínimo, em peso, para cada material de embalagem;
+
+d) Até 31 de Dezembro de 2011, valorização ou incineração em instalações de incineração de resíduos com recuperação de energia de, no mínimo, 60% em peso dos resíduos de embalagens;
+
+e) Até 31 de Dezembro de 2011, reciclagem entre, no mínimo, 55% e, no máximo, 80% em peso dos resíduos de embalagens;
+
+f) Até 31 de Dezembro de 2011 devem ser atingidos os seguintes objectivos mínimos de reciclagem para os materiais contidos nos resíduos de embalagens:
+
+i) 60% em peso para o vidro;
+
+ii) 60% em peso para o papel e cartão;
+
+iii) 50% em peso para os metais;
+
+iv) 22,5% em peso para os plásticos, contando exclusivamente o material que for reciclado sob a forma de plásticos;
+
+v) 15% em peso para a madeira.
+
+2 - Para a prossecução dos objectivos estabelecidos no n.º 1 apenas são considerados os resíduos de embalagens exportados para fora da Comunidade, em conformidade com o Regulamento (CEE) n.º 259/93, do Conselho, de 1 de Fevereiro, com o Regulamento n.º 1420/1999, do Conselho, de 29 de Abril, e com o Regulamento (CE) n.º 1547/1999, da Comissão, de 12 de Julho, relativamente aos quais seja demonstrado que a operação de valorização e ou reciclagem teve lugar em circunstâncias equiparadas às estabelecidas pelas disposições comunitárias aplicáveis.
+
+3 - Os operadores económicos e as entidades referidos nos artigos 4.º e 5.º são corresponsáveis pelo cumprimento dos objetivos a que se reporta o n.º 1.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+###### Artigo 8.º — Colocação no mercado
+
+Só podem ser colocadas no mercado e comercializadas as embalagens que preencham todos os requisitos definidos no presente diploma e demais legislação aplicável.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 9.º — Regulamentação
+
+1 - As normas regulamentares de execução técnica previstas no presente diploma, designadamente as respeitantes ao funcionamento dos sistemas de consignação e integrado, às entidades previstas no artigo 5.º, aos planos de gestão das embalagens reutilizáveis e planos de gestão dos resíduos de embalagens, símbolos, requisitos essenciais das embalagens, regras de normalização desses requisitos, níveis de concentração de metais pesados presentes nas embalagens, sistemas de divulgação da informação e transmissão de dados aos utilizadores de embalagens, à Agência Portuguesa do Ambiente, I. P., e ao ministério da tutela da atividade geradora dos resíduos de embalagem, bem como a respetiva adaptação ao progresso científico e técnico, são definidas por portaria dos membros do Governo responsáveis pelas áreas da economia e do ambiente.
+
+2 - (Revogado.)
+
+3 - As atualizações e adaptações ao progresso técnico das especificações técnicas dos resíduos de embalagens provenientes das recolhas seletiva e indiferenciada, cuja responsabilidade está atribuída aos municípios ou às entidades gestoras de sistemas municipais, multimunicipais ou intermunicipais, é efetuada pela Agência Portuguesa do Ambiente, I. P. (APA, I. P.), e pela Direção-Geral das Atividades Económicas (DGAE), mediante parecer prévio das associações representativas dos fabricantes de embalagens e matérias de embalagens, e em articulação com as seguintes entidades:
+
+a) Os municípios ou as entidades gestoras de sistemas municipais, multimunicipais ou intermunicipais;
+
+b) Associações representativas dos operadores de tratamento de resíduos;
+
+c) As entidades gestoras dos sistemas integrados de gestão de embalagens e de resíduos de embalagens.
+
+4 - As especificações técnicas a que se refere o número anterior devem ser publicitadas nos sítios na Internet da APA, I. P., e da DGAE, bem como nos sítios das entidades referidas no n.º 2 do artigo 5.º e no sistema de pesquisa online de informação pública, previsto no artigo 49.º do Decreto-Lei n.º 135/99, de 22 de abril, alterado e republicado pelo Decreto-Lei n.º 73/2014, de 13 de maio.
+
+5 - Os municípios ou as empresas gestoras de sistemas multimunicipais ou intermunicipais ficam sujeitos ao cumprimento de metas de retoma, sendo as mesmas definidas por despacho dos membros do Governo responsáveis pelas áreas da economia e do ambiente.
+
+6 - Os modelos de cálculo de valores de contrapartidas financeiras pelas recolhas indiferenciadas, seletiva e triagem, e os respetivos valores, são definidos por despacho dos membros do Governo responsáveis pelas áreas da economia e do ambiente.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 71/2016 - Diário da República n.º 212/2016, Série I de 2016-11-04](https://diariodarepublica.pt/dr/detalhe/decreto-lei/71-2016-75662181), em vigor a partir de 2016-11-05
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 48/2015 - Diário da República n.º 70/2015, Série I de 2015-04-10](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48-2015-66953313), em vigor a partir de 2015-04-11
+
+###### Artigo 10.º — Fiscalização e processamento das contra-ordenações
+
+1 - A fiscalização do cumprimento do presente decreto-lei compete à Inspecção-Geral do Ambiente e do Ordenamento do Território (IGAOT), à Autoridade de Segurança Alimentar e Económica (ASAE), às comissões de coordenação e desenvolvimento regional (CCDR), às direcções regionais de economia (DRE), às autoridades policiais e a outras entidades competentes em razão da matéria, nos termos da lei.
+
+2 - Sem prejuízo do disposto nos números seguintes, compete às entidades fiscalizadoras instruir os processos de contra-ordenação instaurados no âmbito do presente decreto-lei, bem como decidir da aplicação da coima e sanções acessórias.
+
+3 - Nos casos em que o auto de notícia tenha sido levantado pelas autoridades policiais, a autoridade competente para a instrução do processo e para decidir da aplicação da coima e da sanção acessória é a CCDR territorialmente competente face ao local da prática da infracção.
+
+4 - No caso de processos de contra-ordenação instruídos pela ASAE, compete à Comissão de Aplicação de Coimas em Matéria Económica e de Publicidade a aplicação das respectivas coimas e sanções acessórias.
+
+> Nota: [Artigo 16.º, Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034) O disposto no n.º 3 do artigo 10.º do Decreto-Lei n.º 366-A/97, de 20 de Dezembro, com a redacção dada pelo presente decreto-lei, só se aplica aos processos de contra-ordenação instaurados com base em autos de notícia levantados pelas autoridades policiais após a data de entrada em vigor do presente decreto-lei, mantendo-se a competência da Inspecção-Geral do Ambiente e do Ordenamento do Território quanto à instrução e decisão dos processos contraordenacionais instaurados com base em autos de notícia levantados anteriormente a essa data.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 11.º — Contra-ordenações
+
+1 - Constitui contra-ordenação ambiental grave, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, a prática dos seguintes actos:
+
+a) A colocação no mercado pelo embalador ou importador de produtos embalados sem que a gestão das respectivas embalagens ou resíduos de embalagens tenha sido assegurada nos termos do n.º 1 do artigo 5.º e das portarias previstas no artigo 9.º;
+
+b) A colocação no mercado pelo embalador ou importador de produtos embalados sem respeito pelos requisitos de embalagem a que se refere o artigo 8.º;
+
+c) A recusa de aceitação de embalagens usadas, bem como a recusa de reembolso do depósito devido por parte do distribuidor de produtos embalados, nos casos em que essa aceitação é obrigatória, de acordo com o estipulado nas portarias previstas no artigo 9.º, que estabelecem as regras de funcionamento dos sistemas de consignação e integrado;
+
+d) A marcação abusiva de embalagens abrangidas pelo presente diploma com o símbolo que lhes for aplicável, nos termos do artigo 6.º e das portarias previstas no artigo 9.º
+
+2 - Constitui contra-ordenação ambiental leve, punível nos termos da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, a prática dos seguintes actos:
+
+a) O incumprimento das obrigações constantes das portarias previstas no artigo 9.º;
+
+b) A omissão do dever de comunicação de dados à Agência Portuguesa do Ambiente ou a errada transmissão destes, nos termos das portarias previstas no artigo 9.º;
+
+c) A falta de marcação de embalagens abrangidas pelo presente diploma com o símbolo que lhes for aplicável, nos termos do artigo 6.º e das portarias previstas no artigo 9.º
+
+3 - A tentativa e a negligência são puníveis.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+###### Artigo 12.º — Sanções acessórias e apreensão cautelar
+
+1 - Sempre que a gravidade da infracção o justifique, pode ainda a autoridade competente, simultaneamente com a coima, determinar a aplicação das sanções acessórias que se mostrem adequadas, nos termos previstos na Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
+
+2 - Pode ser objecto de publicidade, nos termos do disposto no artigo 38.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, a condenação pela prática das infracções graves previstas no n.º 1 do artigo 11.º quando a medida concreta da coima aplicada ultrapasse metade do montante máximo da coima abstractamente aplicável.
+
+3 - A autoridade administrativa pode ainda, sempre que necessário, determinar a apreensão provisória de bens e documentos, nos termos previstos no artigo 42.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 13.º — Produto das coimas
+
+Nos termos do artigo 73.º da Lei n.º 50/2006, de 29 de Agosto, alterada pela Lei n.º 89/2009, de 31 de Agosto, e rectificada pela Declaração de Rectificação n.º 70/2009, de 1 de Outubro, independentemente da fase em que se torne definitiva ou transite em julgado a decisão condenatória, a afectação do produto das coimas resultante da aplicação das contra-ordenações previstas no presente decreto-lei é realizada da seguinte forma:
+
+a) 50 % para o Fundo de Intervenção Ambiental;
+
+b) 25 % para a autoridade que a aplique;
+
+c) 15 % para a entidade autuante;
+
+d) 10 % para o Estado.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 5.º do/a [Decreto-Lei n.º 73/2011 - Diário da República n.º 116/2011, Série I de 2011-06-17](https://diariodarepublica.pt/dr/detalhe/decreto-lei/73-2011-670034), em vigor a partir de 2011-06-18
+
+###### Artigo 14.º — Obrigação de indemnizar
+
+A utilização abusiva do símbolo a que se refere o n.º 3 do artigo 6.º implica ainda a obrigação de indemnizar a entidade referida no mesmo artigo na quantia mínima de (euro) 0,50 por embalagem.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+###### Artigo 15.º — Comissão de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens
+
+1 - É criada a Comissão de Acompanhamento da Gestão de Embalagens e Resíduos de Embalagens, adiante designada por CAGERE, presidida por um representante do Ministério do Ambiente, a quem cabe zelar pelo cumprimento das disposições do presente diploma.
+
+2 - A CAGERE é uma entidade de consultadoria técnica que funciona junto dos membros do Governo responsáveis pelo licenciamento das entidades referidas no artigo 5.º, competindo-lhe elaborar o seu regulamento interno, preparar as decisões a adoptar superiormente, bem como dar parecer em todos os domínios de aplicação do presente diploma em que seja chamada a pronunciar-se, assegurando a conexão entre as autoridades públicas e os diversos agentes económicos abrangidos pelas presentes disposições.
+
+3 - A CAGERE é composta pelos seguintes membros:
+
+a) Um representante do Ministério da Agricultura, do Desenvolvimento Rural e das Pescas;
+
+b) Dois representantes do Ministério da Economia;
+
+c) Um representante do Ministério do Ambiente;
+
+d) Um representante da Associação Nacional dos Municípios Portugueses;
+
+e) Um representante de cada associação representativa dos sectores económicos envolvidos;
+
+f) Um representante de cada entidade gestora prevista no n.º 2 do artigo 5.º
+
+4 - Os representantes dos ministérios previstos nas alíneas a) a c) são designados por despacho do ministro competente.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+###### Artigo 16.º — Taxas
+
+1 - O licenciamento das entidades gestoras de sistemas integrados de gestão de embalagens e de resíduos de embalagens está sujeito ao pagamento prévio de uma taxa no valor de (euro) 25000.
+
+2 - A aprovação dos sistemas de consignação e o licenciamento dos sistemas de recolha selectiva e transporte específico de embalagens e resíduos de embalagens estão sujeitos ao pagamento prévio de uma taxa no valor de (euro) 10000.
+
+3 - As taxas referidas nos números anteriores constituem receita própria do Instituto dos Resíduos e consideram-se actualizadas anualmente por aplicação automática do índice de preços no consumidor fixado pelo Instituto Nacional de Estatística.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Revogado pelo/a Artigo 80.º do/a [Decreto-Lei n.º 178/2006 - Diário da República n.º 171/2006, Série I de 2006-09-05](https://diariodarepublica.pt/dr/detalhe/decreto-lei/178-2006-540016), em vigor a partir de 2006-09-10
+
+> Alterado pelo/a Artigo 2.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+###### Artigo 17.º — Entrada em vigor
+
+O presente diploma entra em vigor no dia imediato ao da sua publicação, salvo o disposto nos artigos 8.º, 11.º, 12.º e 14.º, que entra em vigor em 1 de Janeiro de 1998.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+## Anexo I — Critérios auxiliares para a definição de 'embalagem' a que se referem a alínea a) do n.º 1 e o n.º 2 do artigo 2.º
+
+1 - Critérios auxiliares para a definição de 'embalagem' estabelecida na alínea a) do n.º 1 e no n.º 2 do artigo 2.º:
+
+a) A definição de 'embalagem' inclui os artigos que também desempenham outras funções, com excepção dos casos em que, cumulativamente, o artigo é parte integrante de um produto, é necessário para conter, suportar ou conservar esse produto ao longo da sua vida e todos os elementos se destinam a ser utilizados, consumidos ou eliminados em conjunto;
+
+b) A definição de 'embalagem' inclui os artigos que se destinam a um enchimento no ponto de venda e os artigos descartáveis vendidos, cheios ou concebidos para, e, destinados a um enchimento no ponto de venda, desde que desempenhem uma função de embalagem;
+
+c) A definição de 'embalagem' inclui:
+
+i) Os componentes de embalagens;
+
+ii) Os elementos acessórios integrados em embalagens;
+
+iii) Os elementos acessórios directamente apensos ou apostos a um produto e que desempenhem uma função de embalagem, com excepção dos casos em que são parte integrante desse produto, destinando-se a ser consumidos ou eliminados em conjunto.
+
+2 - Os exemplos ilustrativos dos critérios a que se referem as alíneas do número anterior constam dos quadros seguintes.
+
+3 - (Revogado).
+
+4 - (Revogado).
+
+QUADRO I
+
+Exemplos ilustrativos para o critério referido na alínea a) do n.º 1 do presente anexo
+
+Consideram-se embalagens:
+
+Bolsas para o envio de catálogos e revistas por correio (contendo uma revista)
+
+Cabides para vestuário (vendidos com uma peça de vestuário)
+
+Caixas cilíndricas para CD (vendidas vazias, destinadas a ser utilizadas para armazenamento)
+
+Caixas de confeitos
+
+Caixas de fósforos
+
+Cápsulas para distribuidores de bebidas (p. ex., café, cacau, leite) que ficam vazias após a utilização
+
+Frascos de vidro para soluções injetáveis
+
+Garrafas de aço recarregáveis utilizadas para vários tipos de gases, com exclusão dos extintores de incêndios
+
+Naperões para bolos, vendidos com os bolos
+
+Películas que envolvem embalagens de CD
+
+Rolos, tubos e cilindros nos quais se enrolam materiais flexíveis (p. ex., película de plástico, alumínio, papel), com exclusão dos rolos, tubos e cilindros destinados a fazer parte de máquinas de produção e que não sejam utilizados para apresentar um produto como unidade de venda
+
+Sistemas de barreira estéril (bolsas, bandejas e materiais necessários para preservar a esterilidade do produto)
+
+Vasos destinados a serem utilizados apenas para a venda e o transporte de plantas e não destinados a conter as plantas durante toda a sua vida
+
+Não se consideram embalagens:
+
+Cabides para vestuário (vendidos separadamente)
+
+Caixas cilíndricas para CD (vendidas com CD, não destinadas a serem utilizadas para os armazenar)
+
+Caixas de ferramentas
+
+Cápsulas de café para distribuidores de bebidas, bolsas em folha para café e doses individuais de café em papel de filtro, eliminadas juntamente com os restos de café
+
+Cartuchos para impressoras
+
+Embalagens de CD, DVD e vídeos (vendidas com um CD, DVD ou vídeo no seu interior)
+
+Luminárias para campas (recipientes para velas)
+
+Moinho mecânico (integrado num recipiente recarregável, p. ex., moinho de pimenta recarregável)
+
+Peles de salsichas e enchidos
+
+Películas de cera que envolvem queijos
+
+Sacos solúveis para detergentes
+
+Saquinhos de chá
+
+Vasos destinados a conter plantas durante toda a sua vida
+
+QUADRO II
+
+Exemplos ilustrativos para o critério referido na alínea b) do n.º 1 do presente anexo
+
+Consideram-se embalagens, se concebidas para enchimento no ponto de venda:
+
+Folha de alumínio
+
+Invólucros de plástico para roupa submetida a limpeza em lavandarias
+
+Película retrátil
+
+Pratos e copos descartáveis
+
+Sacos de papel ou de plástico
+
+Sacos para sanduíches
+
+Não se consideram embalagens:
+
+Agitadores
+
+Formas de papel para pastelaria (vendidas vazias)
+
+Naperões para bolos, vendidos sem os bolos
+
+Papel de embalagem (vendido separadamente)
+
+Talheres descartáveis
+
+QUADRO III
+
+Exemplos ilustrativos para o critério referido na alínea c) do n.º 1 do presente anexo
+
+Consideram-se embalagens:
+
+Etiquetas diretamente apensas ao produto ou a ele apostas
+
+Consideram-se partes de embalagens:
+
+Agrafos
+
+Bolsas de plástico
+
+Etiquetas autocolantes apostas a um outro artigo de embalagem
+
+Moinho mecânico (integrado num recipiente não recarregável, carregado com um produto, p. ex., moinho de pimenta carregado com pimenta)
+
+Pincel de máscara integrado no fecho do recipiente
+
+Utensílios de dosagem integrados nos recipientes para detergentes
+
+Não se consideram embalagens:
+
+Etiquetas de identificação por radiofrequências (RFID)
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Alterado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 110/2013 - Diário da República n.º 148/2013, Série I de 2013-08-02](https://diariodarepublica.pt/dr/detalhe/decreto-lei/110-2013-498526), em vigor a partir de 2013-08-07
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2005-05-30
+
+## Anexo II — Sistema de identificação dos materiais de embalagem estabelecido na Decisão n.º 97/129/CE, da Comissão, de 28 de Janeiro, a que se refere o n.º 5 do artigo 6.º
+
+1 - A numeração e as abreviaturas do sistema de identificação estão estabelecidas nos quadros seguintes.
+
+2 - A sua utilização é voluntária para os materiais plásticos mencionados no quadro I, para o papel e os materiais em cartão mencionados no quadro II, os metais mencionados no quadro III, os materiais em madeira mencionados no quadro IV, os materiais têxteis mencionados no quadro V, os materiais em vidro mencionados no quadro VI e os compósitos mencionados no quadro VII.
+
+Do QUADRO I ao QUADRO VII
+
+(ver documento original)
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
+
+> Aditado pelo/a Artigo 3.º do/a [Decreto-Lei n.º 92/2006 - Diário da República n.º 101/2006, Série I-A de 2006-05-25](https://diariodarepublica.pt/dr/detalhe/decreto-lei/92-2006-284949), em vigor a partir de 2006-05-30
+
+Visto e aprovado em Conselho de Ministros de 11 de Setembro de 1997. - António Manuel de Oliveira Guterres - João Cardona Gomes Cravinho - Augusto Carlos Serra Ventura Mateus - Fernando Manuel Van-Zeller Gomes da Silva - Elisa Maria da Costa Guimarães Ferreira.
+
+Promulgado em 2 de Dezembro de 1997.
+
+Publique-se.
+
+O Presidente da República, JORGE SAMPAIO.
+
+Referendado em 9 de Dezembro de 1997.
+
+O Primeiro-Ministro, António Manuel de Oliveira Guterres.
+
+> Revogado pelo/a Artigo 103.º do/a [Decreto-Lei n.º 152-D/2017 - Diário da República n.º 236/2017, 2º Suplemento, Série I de 2017-12-11](https://diariodarepublica.pt/dr/detalhe/decreto-lei/152-d-2017-114337042), em vigor a partir de 2018-01-01
